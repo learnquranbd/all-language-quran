@@ -2455,6 +2455,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:54": {
+    "sections": [
+      {
+        "h": {
+          "en": "Pharaoh's People Named Again",
+          "bn": "আবারও ফিরআউনের লোকজন"
+        },
+        "p": [
+          {
+            "en": "The passage before this verse looks at the deniers in the surah from the moment of death. 8:50 pictures the angels taking their souls, striking their faces and their backs, and 8:51 adds that this is for what their own hands sent ahead, since Allah is never unjust to His servants. 8:52 then reaches back into history: like the custom of Pharaoh's people and those before them, they disbelieved in the signs of Allah, so Allah seized them for their sins. 8:53 states a principle, and our verse returns to the same comparison.",
+            "bn": "এ আয়াতের আগের অংশটি সূরায় বর্ণিত অস্বীকারকারীদের দেখে মৃত্যুর মুহূর্ত থেকে। ৮:৫০ আয়াতে ফেরেশতারা তাদের প্রাণ কবজ করছেন, মুখে আর পিঠে আঘাত করছেন। ৮:৫১ জানায়, এ তাদেরই হাতের আগে পাঠানো আমলের ফল, কারণ আল্লাহ বান্দাদের প্রতি কখনো যুলম করেন না। এরপর ৮:৫২ ইতিহাসের দিকে ফিরে তাকায়: ফিরআউনের লোকজন ও তাদের আগের লোকেদের মতোই এরা আল্লাহর নিদর্শন অস্বীকার করেছে, তাই আল্লাহ তাদের গুনাহের কারণে পাকড়াও করেছেন। ৮:৫৩ একটি নীতি ঘোষণা করে, আর আমাদের আয়াত আবার সেই তুলনাতেই ফিরে আসে।"
+          },
+          {
+            "en": "The frame is older than this surah. At 3:11 it appears in nearly the same words: like the custom of Pharaoh's people and those before them, they denied Our signs, so Allah seized them for their sins. So the Quran uses this one comparison three times, and in Al-Anfal it sets two of them three verses apart with a principle between. A reader is entitled to ask why the second was needed. The commentators asked the same thing, and their answers, set out below, do not all agree.",
+            "bn": "এই তুলনা শুধু এ সূরার নয়। ৩:১১ আয়াতে প্রায় একই ভাষায় এসেছে: ফিরআউনের লোকজন ও তাদের আগের লোকেদের মতো, তারা আমার নিদর্শনকে মিথ্যা বলেছিল, তাই আল্লাহ তাদের গুনাহের কারণে পাকড়াও করেছেন। তাহলে একই তুলনা কুরআনে এসেছে তিনবার। আর আনফালে দুটিকে রাখা হয়েছে তিন আয়াতের ব্যবধানে, মাঝখানে একটি নীতি। পাঠকের মনে প্রশ্ন জাগা স্বাভাবিক, দ্বিতীয়বার বলার দরকার পড়ল কেন। তাফসীরকারেরাও একই প্রশ্ন তুলেছেন। নিচে তাঁদের উত্তরগুলো আসছে, আর সবাই একমত নন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Second Telling Changes",
+          "bn": "দ্বিতীয়বারে যা বদলেছে"
+        },
+        "p": [
+          {
+            "en": "Set the two verses side by side and the opening clause is identical: ka-da'bi ali Fir'awna wa-lladhina min qablihim. Then the verb changes. 8:52 says kafaru, they disbelieved, and 8:54 says kadhdhabu, they called false. The object changes: the signs of Allah become the signs of their Lord, ayati rabbihim. The act changes as well. Fa-akhadhahum Allah, so Allah seized them, spoken of Him in the third person, becomes fa-ahlaknahum, so We destroyed them, with Allah speaking of Himself in the first person.",
+            "bn": "আয়াত দুটি পাশাপাশি রাখলে প্রথম অংশ হুবহু এক: কাদা'বি আলি ফিরআউনা ওয়াল্লাযীনা মিন কাবলিহিম। এরপর ক্রিয়া বদলায়। ৮:৫২ বলে কাফারূ, তারা অস্বীকার করেছিল। ৮:৫৪ বলে কায্যাবূ, তারা মিথ্যা সাব্যস্ত করেছিল। কর্মও বদলায়: আল্লাহর নিদর্শন হয়ে যায় তাদের রবের নিদর্শন, আয়াতি রাব্বিহিম। শাস্তির ক্রিয়াও এক থাকে না। প্রথমবার ফাআখাযাহুমুল্লাহ, আল্লাহ তাদের পাকড়াও করলেন, তাঁর কথা বলা হয়েছে নাম ধরে। দ্বিতীয়বার ফাআহলাকনাহুম, আমি তাদের ধ্বংস করলাম, আল্লাহ নিজেই নিজের কথা বলছেন।"
+          },
+          {
+            "en": "The endings differ most. 8:52 closes on a description of Allah: indeed Allah is Powerful and severe in penalty. 8:54 closes on two statements about the people: We drowned Pharaoh's people, and all of them were wrongdoers. One phrase stays fixed in both, bi-dhunubihim, for their sins. Whatever else shifts between the two tellings, the cause of what befell them stays inside their own record, and neither verse places it anywhere else.",
+            "bn": "সবচেয়ে বড় পার্থক্য শেষাংশে। ৮:৫২ শেষ হয় আল্লাহর গুণের কথায়: নিশ্চয়ই আল্লাহ শক্তিমান, শাস্তিদানে কঠোর। ৮:৫৪ শেষ হয় মানুষদের নিয়ে দুটি কথায়: আমি ফিরআউনের লোকজনকে ডুবিয়ে দিয়েছি, আর তারা সবাই ছিল যালিম। দুই আয়াতেই একটি শব্দবন্ধ অটল থাকে, বিযুনূবিহিম, তাদের গুনাহের কারণে। দুবারের বর্ণনায় আর যা-ই বদলাক, যা ঘটেছে তার কারণ রয়ে যায় তাদের নিজেদের আমলনামাতেই। কোনো আয়াতই কারণটাকে অন্য কোথাও রাখেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denial, Then a Changed Favour",
+          "bn": "প্রথমে অস্বীকার, পরে নিয়ামত বদল"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi answers the question briefly and does not hedge: this is not a repetition, laysa hadha bi-takrir. The first, he says, concerns the habit in denial, al-'ada fi at-takdhib, and the second the habit in changing, al-'ada fi at-taghyir. The word he picks for the second is the verb of 8:53, where Allah does not change a favour until people change what is within themselves. On his reading, the second comparison is the first, read again in the light of that principle, and the rest of the verse, he adds, is plain.",
+            "bn": "কুরতুবী প্রশ্নটির জবাব দেন সংক্ষেপে, কোনো দ্বিধা ছাড়াই: এটি পুনরাবৃত্তি নয়, লাইসা হাযা বিতাকরীর। তাঁর মতে প্রথমটি অস্বীকারের অভ্যাস নিয়ে, আল-আদা ফিত-তাকযীব। দ্বিতীয়টি বদলে ফেলার অভ্যাস নিয়ে, আল-আদা ফিত-তাগয়ীর। দ্বিতীয়টির জন্য তিনি যে শব্দ বেছে নেন, সেটি ৮:৫৩-এর ক্রিয়া। সেখানে বলা হয়েছে, মানুষ নিজেদের ভেতরের অবস্থা না বদলানো পর্যন্ত আল্লাহ কোনো নিয়ামত বদলান না। কুরতুবীর পাঠে দ্বিতীয় তুলনা আসলে প্রথম তুলনাই, তবে সেই নীতির আলোয় নতুন করে পড়া। আয়াতের বাকি অংশ, তিনি বলেন, স্পষ্ট।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reaches a similar distinction by a longer road. The purpose of 8:52, it says, was to state that their disbelief became the cause of their punishment. The purpose of 8:54 is to state a common law of Allah: when His blessings descend upon a people and they fail to recognise their worth and refuse to bow before Him, those blessings are turned into misfortunes and punishments. Pharaoh's people and the peoples before them did not value what they had been given, so it was taken from them and punishment came in its place.",
+            "bn": "মাআরিফুল কুরআন একই ধরনের পার্থক্যে পৌঁছায় একটু লম্বা পথ ঘুরে। তার ভাষ্যে ৮:৫২-এর উদ্দেশ্য ছিল জানানো যে তাদের কুফরই তাদের শাস্তির কারণ হয়েছে। আর ৮:৫৪-এর উদ্দেশ্য আল্লাহর একটি সাধারণ নিয়ম জানানো। কোনো জাতির উপর আল্লাহর নিয়ামত নেমে এলে তারা যদি তার কদর না বোঝে আর তাঁর সামনে মাথা নত করতে অস্বীকার করে, তবে সেই নিয়ামতই বিপদ আর শাস্তিতে বদলে যায়। ফিরআউনের লোকজন আর তাদের আগের জাতিগুলো যা পেয়েছিল তার মূল্য দেয়নি। তাই তা কেড়ে নেওয়া হয়, আর তার জায়গায় আসে শাস্তি।"
+          },
+          {
+            "en": "It then reads the changed words. Naming Him by the attribute Rabb, Lord, rather than by the name Allah, hints at how unjust these people were: they belied the signs of the very Being who had sustained and nourished them from the start of their existence. And where 8:52 says Allah seized them, which could take many forms, from misfortune within their lifetime to an outright end, the We destroyed them of 8:54 makes clear, Ma'arif says, that the penalty those peoples had earned was death.",
+            "bn": "এরপর মাআরিফুল কুরআন বদলে যাওয়া শব্দগুলো পড়ে। আল্লাহ নামের বদলে রব গুণবাচক নামটি আনায় ইঙ্গিত মেলে, এরা কতটা অন্যায়কারী ছিল। যিনি অস্তিত্বের শুরু থেকে তাদের লালন-পালন করে এসেছেন, তাঁরই নিদর্শনকে তারা মিথ্যা বলেছিল। আর ৮:৫২-এর পাকড়াও নানা রূপ নিতে পারত, জীবদ্দশায় বিপদ থেকে শুরু করে একেবারে নিশ্চিহ্ন হওয়া পর্যন্ত। মাআরিফুল কুরআন বলে, ৮:৫৪-এর আমি তাদের ধ্বংস করলাম কথাটি স্পষ্ট করে দেয়, ওই জাতিগুলোর প্রাপ্য শাস্তি ছিল মৃত্যু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Custom, Theirs or His",
+          "bn": "অভ্যাস কার, তাদের না তাঁর"
+        },
+        "p": [
+          {
+            "en": "Da'b is a settled way; at-Tabari, on 8:52, glosses it as state and habit, ash-sha'n wa-l-'ada. But whose habit? On our verse he reads it as the people's own: the custom and practice of Pharaoh's people and what they did to Musa (AS), the prophet of Allah, in calling him a liar and setting out to fight him, and the habit of the nations before them that denied their messengers. Al-Baghawi points the same way, like the doing of Pharaoh's people, and the Muyassar likens the state of these deniers to that of Pharaoh's people, who called Musa a liar.",
+            "bn": "দা'ব মানে স্থায়ী রীতি। তাবারী ৮:৫২-এর ব্যাখ্যায় এর অর্থ দেন অবস্থা ও অভ্যাস, আশ-শা'ন ওয়াল-আদা। কিন্তু অভ্যাসটা কার? আমাদের আয়াতে তিনি একে মানুষদেরই অভ্যাস হিসেবে পড়েন। ফিরআউনের লোকজনের রীতি আর আল্লাহর নবী মূসা (আঃ)-এর সঙ্গে তাদের আচরণ: তাঁকে মিথ্যাবাদী বলা, তাঁর বিরুদ্ধে যুদ্ধে নামা। সঙ্গে তাদের আগের সেই জাতিগুলোর অভ্যাস, যারা নিজেদের রাসূলদের মিথ্যা বলেছিল। বাগাভীও একই দিকে যান: ফিরআউনের লোকজনের কাজের মতো। মুয়াসসার এই অস্বীকারকারীদের অবস্থাকে তুলনা করে ফিরআউনের লোকজনের অবস্থার সঙ্গে, যারা মূসাকে মিথ্যাবাদী বলেছিল।"
+          },
+          {
+            "en": "Ibn Kathir reads it from the other side. On our verse he glosses ka-da'b as like His dealing with Pharaoh's people and their like when they denied His signs. On 8:52 he says it outright: We did with them what is Our custom, da'buna, Our way and practice with their kind. Al-Qurtubi, on 8:52, gives a third angle: the custom in their punishment when their souls are taken and in their graves, as with Pharaoh's people. He adds a second view, introduced with it is said, that these were repaid with killing and captivity as Pharaoh's people were with drowning.",
+            "bn": "ইবন কাসীর পড়েন উল্টো দিক থেকে। আমাদের আয়াতে তিনি কাদা'ব-এর অর্থ করেন: ফিরআউনের লোকজন ও তাদের মতো লোকেরা যখন তাঁর নিদর্শন অস্বীকার করল, তখন তিনি তাদের সঙ্গে যে আচরণ করেছিলেন, তেমন। ৮:৫২-এ কথাটা তিনি সরাসরি বলেন: আমি তাদের সঙ্গে তা-ই করেছি যা আমার দা'ব, এমন লোকদের বেলায় আমার রীতি ও নিয়ম। কুরতুবী ৮:৫২-এ তৃতীয় এক দিক দেখান। তাঁর মতে এ হলো প্রাণ কবজের সময় আর কবরে তাদের শাস্তির রীতি, ফিরআউনের লোকজনের মতো। 'বলা হয়' বলে তিনি আরেকটি মত আনেন: ফিরআউনের লোকজনকে যেমন ডুবিয়ে প্রতিফল দেওয়া হয়েছিল, এদের তেমনি হত্যা ও বন্দিত্ব দিয়ে।"
+          },
+          {
+            "en": "These readings do not cancel one another. At-Tabari and al-Baghawi look at what the people did; Ibn Kathir looks at what was done to them; al-Qurtubi, on 8:52, looks at the punishment itself. The verse holds both halves in one sentence: they called the signs false, so We destroyed them. Kept together, the readings show a single pattern from its two ends, conduct that repeats from one nation to the next and a response to it that is just as consistent.",
+            "bn": "এই পাঠগুলো একে অন্যকে বাতিল করে না। তাবারী আর বাগাভী দেখেন মানুষ কী করেছিল। ইবন কাসীর দেখেন তাদের সঙ্গে কী করা হয়েছিল। আর কুরতুবী ৮:৫২-এ দেখেন শাস্তিটাকেই। আয়াত এক বাক্যেই দুই দিক ধরে রাখে: তারা নিদর্শনকে মিথ্যা বলেছিল, তাই আমি তাদের ধ্বংস করেছি। পাঠগুলো একসঙ্গে রাখলে একটিই ধারা দেখা যায় দুই প্রান্ত থেকে। একদিকে এক জাতি থেকে আরেক জাতিতে ফিরে ফিরে আসা আচরণ, অন্যদিকে তার জবাবও ঠিক ততটাই স্থির।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Favour Exchanged at Badr",
+          "bn": "বদরে হাতছাড়া নিয়ামত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads our verse as carrying 8:53 forward. The idolaters killed at Badr, he writes, changed the favour of their Lord, which He had given them by sending Muhammad ﷺ from among them, in their midst, calling them to guidance; they changed it by calling him a liar and making war on him. His last line on the verse: so We destroyed those at Badr when they changed Allah's favour, by the sword, and humbled some with captivity. Al-Baghawi, on 8:52, relays from Ibn Abbas (RA) that Pharaoh's people were certain Musa was a prophet and still denied him, and so did these when Muhammad came with the truth.",
+            "bn": "তাবারী আমাদের আয়াতকে পড়েন ৮:৫৩-এর ধারাবাহিকতা হিসেবে। তিনি লেখেন, বদরে নিহত মুশরিকরা তাদের রবের নিয়ামত বদলে ফেলেছিল। সে নিয়ামত ছিল তাদেরই মধ্য থেকে, তাদের মাঝখানে মুহাম্মাদ ﷺ-কে পাঠানো, যিনি তাদের হেদায়েতের দিকে ডাকছিলেন। তাঁকে মিথ্যাবাদী বলে আর তাঁর বিরুদ্ধে যুদ্ধ করে তারা সেটা বদলে ফেলে। আয়াতের শেষে তাবারীর কথা: আল্লাহর নিয়ামত বদলে ফেলায় বদরে তাদের তলোয়ারে ধ্বংস করা হয়, আর কয়েকজনকে বন্দিত্বে লাঞ্ছিত করা হয়। বাগাভী ৮:৫২-এ ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: ফিরআউনের লোকজন নিশ্চিত জানত মূসা নবী, তবু তাঁকে অস্বীকার করেছিল। মুহাম্মাদ সত্য নিয়ে এলে এরাও তা-ই করেছিল।"
+          },
+          {
+            "en": "Ibn Kathir shows the changed favour from the losing side. Allah destroyed them for their sins, he writes, and stripped them of the favours He had granted them: gardens and springs, crops and treasures and a noble station, and a comfort in which they delighted. He did not wrong them; they were the wrongdoers. His list follows the Quran's own account of Pharaoh's people, at 26:57 and 26:58 and at 44:25 to 44:27. On his reading, what was lost was not a single gift but the whole life they had been living.",
+            "bn": "ইবন কাসীর বদলে যাওয়া নিয়ামতটা দেখান হেরে যাওয়া পক্ষের দিক থেকে। তিনি লেখেন, আল্লাহ তাদের গুনাহের কারণে তাদের ধ্বংস করলেন। যেসব নিয়ামত দিয়েছিলেন, সব কেড়ে নিলেন: বাগান আর ঝর্ণা, শস্যক্ষেত, ধনভান্ডার, সম্মানের আসন, আর সেই আরাম-আয়েশ যা নিয়ে তারা মেতে থাকত। আল্লাহ তাদের উপর যুলম করেননি, যালিম ছিল তারাই। তাঁর তালিকা মিলে যায় ফিরআউনের লোকজন সম্পর্কে কুরআনের নিজের বর্ণনার সঙ্গে, ২৬:৫৭ ও ২৬:৫৮ এবং ৪৪:২৫ থেকে ৪৪:২৭ আয়াতে। তাঁর পাঠে হারানো জিনিসটা কোনো একটি উপহার নয়, তাদের গোটা জীবনযাত্রা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Earthquake, Wind and the Sea",
+          "bn": "ভূমিকম্প, ঝড় আর সাগর"
+        },
+        "p": [
+          {
+            "en": "The verse names one destruction, the drowning of Pharaoh's people, and leaves the rest under We destroyed them. At-Tabari fills it in: some by the trembling, some by being swallowed into the earth, some by the wind, and Pharaoh's people in the sea. Al-Baghawi's list is longer, adding transformation and drowning. As-Sa'di adds a qualifier the others leave unstated: each according to his crime, kullun bi-hasabi jurmihi. 29:40 gives the Quran's own list, a storm of stones, the blast, the swallowing earth and the flood, and ends: Allah would not have wronged them, but they wronged themselves.",
+            "bn": "আয়াত একটিমাত্র ধ্বংসের নাম বলে, ফিরআউনের লোকজনের ডুবে মরা। বাকিগুলো রেখে দেয় আমি তাদের ধ্বংস করলাম কথাটির ভেতরে। তাবারী শূন্যস্থান পূরণ করেন: কাউকে ভূকম্পন দিয়ে, কাউকে মাটিতে ধসিয়ে দিয়ে, কাউকে ঝড়ো বাতাসে, আর ফিরআউনের লোকজনকে সাগরে। বাগাভীর তালিকা আরও লম্বা, তাতে আকৃতি বিকৃতি আর ডুবিয়ে মারাও আছে। সা'দী এমন একটি শর্ত যোগ করেন যা অন্যরা মুখে বলেননি: প্রত্যেককে তার অপরাধ অনুযায়ী, কুল্লুন বিহাসাবি জুরমিহি। ২৯:৪০ আয়াতে কুরআনের নিজের তালিকা আছে: পাথরের ঝড়, বিকট আওয়াজ, মাটিতে ধসে যাওয়া আর ডুবে মরা। আয়াতের শেষ কথা: আল্লাহ তাদের উপর যুলম করেননি, তারা নিজেরাই নিজেদের উপর যুলম করেছিল।"
+          },
+          {
+            "en": "Why is the drowning named and nothing else? Ma'arif al-Qur'an gives a reason: Pharaoh claimed godhood and his people attested to his claim, so he is mentioned in particular. The other forms, it says, are described in other verses, and it ends its list with the punishment of the Makkan deniers at Badr at the hands of the Muslims. At-Tabari gives no reason; he glosses the clause as drowned in the sea and moves on. The verse itself names the people, al Fir'awn, so the drowning takes in those who followed him as well as the man.",
+            "bn": "শুধু ডুবে মরার কথাই কেন নাম ধরে বলা হলো? মাআরিফুল কুরআন একটি কারণ দেখায়: ফিরআউন নিজেকে ইলাহ দাবি করেছিল, আর তার লোকজন সে দাবি মেনে নিয়েছিল। তাই তার কথা আলাদা করে বলা হয়েছে। অন্য ধ্বংসগুলোর বর্ণনা, মাআরিফ বলে, অন্যান্য আয়াতে আছে। তালিকাটি সে শেষ করে বদরে মুসলিমদের হাতে মক্কার অস্বীকারকারীদের শাস্তির কথা বলে। তাবারী কোনো কারণ দেন না। তিনি শুধু বলেন, সাগরে ডুবিয়ে দেওয়া হয়েছিল, তারপর এগিয়ে যান। আয়াত নিজে নাম নেয় আলে ফিরআউনের, অর্থাৎ ফিরআউনের লোকজনের। তাই ডুবে মরার মধ্যে সে একা নয়, তার অনুসারীরাও শামিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "All of Them, Self-Wronged",
+          "bn": "সবাই নিজেদের উপর যালিম"
+        },
+        "p": [
+          {
+            "en": "Wa-kullun kanu zalimin: and all were wrongdoers. All of whom? Al-Baghawi answers: the earlier and the later alike. At-Tabari says each of those nations was doing what it had no right to do, calling Allah's messengers liars and rejecting His signs, and the Muyassar adds their associating others with Him in worship. As-Sa'di turns the word inward: wrongdoers against themselves, working towards their own ruin. Allah did not wrong them, he writes, and did not seize them for any crime they had not committed.",
+            "bn": "ওয়া কুল্লুন কানূ যালিমীন: আর তারা সবাই ছিল যালিম। সবাই মানে কারা? বাগাভীর জবাব: আগের ও পরের, সবাই। তাবারী বলেন, ওই জাতিগুলোর প্রত্যেকে এমন কাজ করছিল যার অধিকার তাদের ছিল না। আল্লাহর রাসূলদের মিথ্যাবাদী বলা আর তাঁর নিদর্শন অস্বীকার করা। মুয়াসসার এর সঙ্গে যোগ করে ইবাদতে তাঁর সঙ্গে অন্যকে শরিক করা। সা'দী শব্দটিকে ঘুরিয়ে দেন ভেতরের দিকে: তারা যুলম করেছিল নিজেদেরই উপর, নিজেদের সর্বনাশের দিকে নিজেরাই ছুটছিল। তিনি লেখেন, আল্লাহ তাদের উপর যুলম করেননি, তারা যে অপরাধ করেনি তার জন্য পাকড়াও করেননি।"
+          },
+          {
+            "en": "No tafsir consulted here attaches a hadith to this verse. One sound narration speaks to its closing clause and is brought on that footing alone. In Sahih Muslim 2577, Abu Dharr (RA) reports the Prophet ﷺ relating from his Lord: O My servants, I have forbidden oppression for Myself and have made it forbidden amongst you, so do not oppress one another. The same narration closes: O My servants, it is but your deeds that I record for you and then recompense you for; so let him who finds good praise Allah, and let him who finds other than that blame no one but himself.",
+            "bn": "এখানে দেখা কোনো তাফসীরই এ আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। একটি সহীহ বর্ণনা আয়াতের শেষ অংশের সঙ্গে মেলে, তাই শুধু সে হিসেবেই আনা হলো। সহীহ মুসলিমের ২৫৭৭ নম্বরে আবূ যার (রাঃ) বর্ণনা করেন, নবী ﷺ তাঁর রবের পক্ষ থেকে জানিয়েছেন: হে আমার বান্দারা, আমি নিজের উপর যুলম হারাম করেছি এবং তোমাদের মধ্যেও তা হারাম করেছি, অতএব তোমরা একে অন্যের উপর যুলম করো না। একই বর্ণনার শেষে আছে: হে আমার বান্দারা, এগুলো তোমাদেরই আমল, যা আমি তোমাদের জন্য গুনে রাখি, তারপর তার পুরো প্রতিদান দিই। কাজেই যে ভালো পায় সে যেন আল্লাহর প্রশংসা করে, আর যে অন্য কিছু পায় সে যেন নিজেকে ছাড়া কাউকে দোষ না দেয়।"
+          },
+          {
+            "en": "A second sound narration looks at the drowning from the side of those who were saved, and it too is not attached to this verse. Sahih al-Bukhari 2004 has from Ibn Abbas (RA) that the Prophet ﷺ came to Madinah and found the Jews fasting on the day of Ashura. They told him it was a good day, the day on which Allah rescued Bani Israel from their enemy, so Musa fasted it. He said: We have more claim over Moses than you. He fasted it and told the Muslims to fast it. The end of a people was the rescue of another, and the rescue is remembered with worship.",
+            "bn": "আরেকটি সহীহ বর্ণনা ডুবে মরার ঘটনাটিকে দেখে বেঁচে যাওয়া মানুষদের দিক থেকে। এটিও এ আয়াতের সঙ্গে যুক্ত নয়। সহীহ বুখারীর ২০০৪ নম্বরে ইবন আব্বাস (রাঃ) থেকে আছে, নবী ﷺ মদীনায় এসে দেখলেন ইহুদিরা আশুরার দিনে রোজা রাখছে। তারা বলল, এ এক ভালো দিন, এই দিনে আল্লাহ বনী ইসরাঈলকে তাদের শত্রুর হাত থেকে রক্ষা করেছিলেন, তাই মূসা (আঃ) এ দিনে রোজা রেখেছিলেন। তিনি বললেন: তোমাদের চেয়ে মূসার উপর আমাদের হক বেশি। এরপর তিনি নিজে রোজা রাখলেন আর মুসলিমদেরও রাখতে বললেন। এক জাতির পরিণতিই ছিল আরেক জাতির মুক্তি, আর সে মুক্তিকে মনে রাখা হয় ইবাদত দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Warning Points",
+          "bn": "রায় নয়, সতর্কবাণী"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: Pharaoh's people, the nations before them, and, in the commentators' reading, the deniers who fell at Badr. It licenses nothing against any living person or community. No reader may name a people today as the new Pharaoh's people, or read a disaster that strikes a nation as this verse's verdict on it. The judgement in the verse is Allah's, given about the past, and the knowledge that would be needed to apply it to anyone now has not been given to us.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি শুধু তা-ই বর্ণনা করে যা এর ভাষায় আছে: ফিরআউনের লোকজন, তাদের আগের জাতিগুলো, আর তাফসীরকারদের পাঠে বদরে নিহত অস্বীকারকারীরা। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। কোনো পাঠক আজকের কোনো জাতিকে নতুন ফিরআউনী দল বলে চিহ্নিত করতে পারেন না। কোনো জাতির উপর নেমে আসা বিপর্যয়কে এ আয়াতের রায় বলেও পড়তে পারেন না। আয়াতের রায় আল্লাহর, অতীত নিয়ে দেওয়া। আজ কারও উপর তা খাটাতে যে জ্ঞান লাগত, তা আমাদের দেওয়া হয়নি।"
+          },
+          {
+            "en": "The conclusion the commentators do draw points at the listener. As-Sa'di closes his note with it: let those addressed beware of resembling them in wrongdoing, lest Allah bring upon them what He brought upon those. Read with Ma'arif's remark about the word Lord, the warning lands close to home. The signs easiest to deny are the familiar ones, the provision that has always arrived, and 8:53 places the first change inside the self. The practical work is to name one such gift today, say aloud whose it is, and notice what in you has begun to change towards it.",
+            "bn": "তাফসীরকারেরা যে সিদ্ধান্ত টানেন, তা শ্রোতার দিকেই তাক করা। সা'দী তাঁর ব্যাখ্যা শেষ করেন এ কথায়: যাদের সম্বোধন করা হচ্ছে তারা যেন যুলমে ওদের মতো হয়ে যাওয়া থেকে সাবধান থাকে, নইলে ওদের উপর আল্লাহ যা নামিয়েছেন, এদের উপরও তা নামাবেন। রব শব্দ নিয়ে মাআরিফুল কুরআনের কথাটা পাশে রাখলে সতর্কবাণী একেবারে কাছে এসে পড়ে। সবচেয়ে সহজে অস্বীকার করা যায় চেনা নিদর্শনগুলো, যে রিজিক বরাবর এসেছে। আর ৮:৫৩ প্রথম বদলটাকে রাখে মানুষের ভেতরে। তাই আজকের কাজ এমন একটি নিয়ামতের নাম নেওয়া, মুখে বলা সেটা কার দেওয়া, আর খেয়াল করা তার প্রতি আপনার ভেতরে কী বদলাতে শুরু করেছে।"
+          }
+        ]
+      }
+    ]
+  },
   "8:55": {
     "sections": [
       {

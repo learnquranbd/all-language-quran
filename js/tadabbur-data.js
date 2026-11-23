@@ -32003,6 +32003,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Stepping back is not always running away: if you must withdraw from something hard, let it be to regroup and return, not to leave.",
     "lessonBn": "পিছিয়ে আসা মানেই পালিয়ে যাওয়া নয়। কঠিন কিছু থেকে সরতেই হলে সরুন আবার গুছিয়ে ফেরার জন্য, ছেড়ে চলে যাওয়ার জন্য নয়।"
+  },
+  "8:54": {
+    "reflectionEn": "Twice in three verses the Quran compares the deniers it has just described to Pharaoh's people. The second time the words shift. They denied the signs of their Lord, the One who had been providing for them all along, so they were destroyed, and Pharaoh's people were drowned. Between the two comparisons stands the reason: Allah does not change a favour He has given until people change what is within themselves. Then the verse closes every excuse, for all of them were wrongdoers. This is a story about others, and it licenses nothing against anyone living. Its use lies nearer home. Which gifts have I grown so used to that I no longer ask whose they are? And what is changing in me that the gift may one day follow?",
+    "reflectionBn": "মাত্র তিন আয়াতের ব্যবধানে কুরআন দুবার এইমাত্র বর্ণিত অস্বীকারকারীদের তুলনা করেছে ফিরআউনের লোকজনের সঙ্গে। দ্বিতীয়বার শব্দগুলো খানিকটা বদলে যায়। তারা মিথ্যা বলেছিল তাদের রবের নিদর্শনকে, সেই রবের, যিনি শুরু থেকে তাদের লালন করে আসছিলেন। তাই তাদের ধ্বংস করা হলো, আর ফিরআউনের লোকজনকে ডুবিয়ে দেওয়া হলো। দুই তুলনার মাঝখানে দাঁড়িয়ে আছে কারণটা: আল্লাহ কোনো জাতিকে দেওয়া নিয়ামত বদলান না, যতক্ষণ না তারা নিজেরা নিজেদের ভেতরের অবস্থা বদলায়। আয়াতের শেষ কথা সব অজুহাতের পথ বন্ধ করে দেয়: তারা সবাই ছিল যালিম। এ অন্যদের কাহিনি, আজকের কোনো মানুষের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। এর কাজ বরং নিজের ঘরে। কোন কোন নিয়ামতে আমি এত অভ্যস্ত হয়ে গেছি যে আর জিজ্ঞেসই করি না, এগুলো কার দেওয়া? আর আমার ভেতরে কী বদলাচ্ছে, যার পিছু পিছু একদিন নিয়ামতটাও চলে যেতে পারে?",
+    "pointsEn": [
+      "The verse calls Allah their Lord, the One who raised them. Which daily provision of mine have I stopped connecting to Him?",
+      "If a favour is withdrawn only after people change what is within them, what has quietly changed in me over the past year?",
+      "Is there a sign I have been shown more than once, a warning or a reminder, that I keep explaining away?",
+      "When something good leaves my life, is my first question about what others did to me, or about what I did with it?",
+      "Pharaoh's people are remembered for what they did with what they had. What would my own record show about the gifts I was given?"
+    ],
+    "pointsBn": [
+      "আয়াতটি আল্লাহকে বলেছে তাদের রব, যিনি তাদের লালন করেছেন। আমার রোজকার রিজিকের কোনটিকে আমি আর তাঁর সঙ্গে মিলিয়ে দেখি না?",
+      "মানুষ নিজেদের ভেতরটা বদলানোর পরেই যদি নিয়ামত সরে যায়, তবে গত এক বছরে আমার ভেতরে চুপিসারে কী বদলে গেছে?",
+      "এমন কোনো নিদর্শন, কোনো সতর্কবার্তা বা স্মরণ কি আছে, যা আমাকে বারবার দেখানো হয়েছে আর আমি প্রতিবার কোনো না কোনো ব্যাখ্যা দিয়ে উড়িয়ে দিয়েছি?",
+      "জীবন থেকে ভালো কিছু চলে গেলে আমার প্রথম প্রশ্ন কি হয় অন্যরা আমার সঙ্গে কী করল, নাকি আমি সেটা নিয়ে কী করেছিলাম?",
+      "ফিরআউনের লোকজনকে মনে রাখা হয় তাদের হাতে যা ছিল তা দিয়ে তারা কী করেছিল সেজন্য। আমাকে দেওয়া নিয়ামতগুলো নিয়ে আমার আমলনামা কী বলবে?"
+    ],
+    "lessonEn": "A favour is not withdrawn at random; it follows a change in the one who received it. Watch what is changing in you before you blame what is changing around you.",
+    "lessonBn": "নিয়ামত এলোমেলোভাবে কেড়ে নেওয়া হয় না, যে পেয়েছে তার ভেতরের বদলের পরেই তা সরে যায়। চারপাশের বদলকে দোষ দেওয়ার আগে দেখুন, আপনার ভেতরে কী বদলাচ্ছে।"
   }
 };
 
