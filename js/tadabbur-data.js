@@ -31323,6 +31323,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Speak of Allah only as the One who made everything without a model, needs neither consort nor child, and knows all that He made.",
     "lessonBn": "আল্লাহর কথা বলুন কেবল এভাবে: তিনি কোনো নমুনা ছাড়াই সবকিছু বানিয়েছেন, সঙ্গিনী বা সন্তানের কোনো দরকার তাঁর নেই, আর যা বানিয়েছেন তার সবই তিনি জানেন।"
+  },
+  "6:90": {
+    "reflectionEn": "A long roll of prophets has just been read out: fathers, sons and brothers, chosen and guided. Then the surah turns to the Messenger ﷺ himself and gives him one instruction: those are the ones Allah guided, so follow their guidance. Even he is told to take a pattern from the guided who came before him. That leaves me with a question about my own patterns. Habit, family custom, a famous name and the loudest voice in the room all ask to be followed. The verse sets one test for any of them: did Allah guide this person? Then it adds a mark of the guided. They ask nothing back for what they bring, because what they bring is a reminder meant for everyone.",
+    "reflectionBn": "নবীদের দীর্ঘ এক তালিকা এইমাত্র পড়া শেষ হলো: পিতা, পুত্র, ভাই, যাঁদের আল্লাহ বেছে নিয়েছেন আর পথ দেখিয়েছেন। এরপর সূরা ফিরে তাকায় রাসূল ﷺ-এর দিকে, তাঁকে দেয় একটিমাত্র নির্দেশ: এঁরাই তাঁরা, যাঁদের আল্লাহ হিদায়াত দিয়েছেন, তাই তাঁদের হিদায়াতের অনুসরণ করুন। তাঁকেও বলা হচ্ছে আগের হিদায়াতপ্রাপ্তদের পথকে আদর্শ বানাতে। তাহলে আমার নিজের আদর্শগুলো নিয়ে প্রশ্ন ওঠে। অভ্যাস, পারিবারিক রেওয়াজ, নামকরা কোনো মানুষ, আসরের সবচেয়ে উঁচু গলা, সবাই চায় আমি তাদের পেছনে চলি। আয়াত তাদের সবার জন্য একটাই মাপকাঠি দেয়: আল্লাহ কি এই মানুষটিকে পথ দেখিয়েছেন? সঙ্গে জুড়ে দেয় হিদায়াতপ্রাপ্তদের একটা চিহ্ন। যা তাঁরা নিয়ে আসেন তার বিনিময়ে কিছু চান না, কারণ সেটা সবার জন্য এক উপদেশ।",
+    "pointsEn": [
+      "If I listed the people whose habits I actually copy, how many of them would pass the verse's one test of having been guided by Allah?",
+      "Which custom in my family or circle do I keep only because it has always been done that way?",
+      "When I pass on something of the deen to others, do I quietly expect thanks, standing or some return for it?",
+      "Which of the prophets named before this verse could I learn about this month, so that following their guidance means more to me than a phrase?",
+      "Do I read the Qur'an as a reminder addressed to me, or as a message meant for other people?"
+    ],
+    "pointsBn": [
+      "যাঁদের অভ্যাস আমি সত্যিই নকল করি, তাঁদের একটা তালিকা করলে কতজন আয়াতের এই একমাত্র মাপকাঠিতে টিকবেন: আল্লাহ তাঁকে পথ দেখিয়েছেন কি না?",
+      "পরিবারে বা আশপাশের মহলে কোন রেওয়াজটা আমি শুধু এ কারণেই মানি যে বরাবর এভাবেই চলে আসছে?",
+      "দ্বীনের কোনো কথা অন্যকে জানালে আমি কি মনে মনে ধন্যবাদ, সম্মান বা কোনো প্রতিদান আশা করি?",
+      "এ আয়াতের আগে যে নবীদের নাম এসেছে, তাঁদের কার জীবন আমি এ মাসে পড়ে দেখতে পারি, যাতে তাঁদের হিদায়াত অনুসরণ করা আমার কাছে শুধু একটা বুলি হয়ে না থাকে?",
+      "কুরআনকে কি আমি নিজের জন্য পাঠানো উপদেশ হিসেবে পড়ি, নাকি অন্যদের জন্য লেখা বার্তা হিসেবে?"
+    ],
+    "lessonEn": "Choose whom you follow by one test, whether Allah guided them, and pass on what you know of His Book without asking anything back.",
+    "lessonBn": "কাকে অনুসরণ করবেন তা একটি মাপকাঠিতে বাছাই করুন: আল্লাহ তাঁকে পথ দেখিয়েছেন কি না। আর তাঁর কিতাবের যা জানেন, বিনিময়ে কিছু না চেয়ে অন্যকে পৌঁছে দিন।"
   }
 };
 

@@ -4051,6 +4051,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:90": {
+    "sections": [
+      {
+        "h": {
+          "en": "Those Who Hold the Trust",
+          "bn": "আমানতের ধারক যাঁরা"
+        },
+        "p": [
+          {
+            "en": "Ula'ika alladhina hada Allah: those are the ones whom Allah guided. The verse closes a passage that has been naming prophets since 6:83 and has twice stepped back to say what the names mean. 6:88 calls it the guidance of Allah, and warns that had they associated partners with Him, their deeds would have come to nothing. 6:89 says these were given the Book, judgment and prophethood, and that if these people deny it, Allah has entrusted it to a people who will not. Then the address turns to the Prophet ﷺ, and the list becomes an instruction.",
+            "bn": "উলাইকাল্লাযীনা হাদাল্লাহ: এঁরাই তাঁরা, যাঁদের আল্লাহ হিদায়াত দিয়েছেন। ৬:৮৩ থেকে নবীদের নাম আসছিল, আর মাঝে দুবার থেমে বলা হয়েছে এই নামগুলোর অর্থ কী। ৬:৮৮ একে বলেছে আল্লাহর হিদায়াত, আর সতর্ক করেছে, তাঁরাও যদি শিরক করতেন, তাঁদের সব আমল নিষ্ফল হয়ে যেত। ৬:৮৯ বলেছে, তাঁদের দেওয়া হয়েছিল কিতাব, হিকমত ও নবুওয়াত। এরা যদি তা অস্বীকার করে, আল্লাহ তার ভার দিয়েছেন এমন লোকদের হাতে যারা অস্বীকার করবে না। এরপর সম্বোধন ঘুরে যায় নবী ﷺ-এর দিকে। তালিকাটা তখন আর শুধু তালিকা থাকে না, হয়ে যায় নির্দেশ।"
+          },
+          {
+            "en": "Who are those? Ibn Kathir says they are the prophets just named, together with the fathers, offspring and brothers joined to them, and that they, and no one else, are the people of guidance. At-Tabari ties the word to 6:89: those are the people to whom the verses were entrusted, whom he takes to be the named prophets, and that is the view he says he chose. Allah guided them to His true religion, to keeping what they were entrusted with, to upholding His limits and to following His halal and His haram.",
+            "bn": "উলাইকা, অর্থাৎ ওঁরা, কারা? ইবন কাসীর বলেন, এঁরা এইমাত্র উল্লিখিত নবীগণ, সঙ্গে তাঁদের পিতৃপুরুষ, বংশধর ও ভাইদের মধ্যে যাঁদের তাঁদের সাথে যুক্ত করা হয়েছে। তাঁর কথায়, হিদায়াতের লোক এঁরাই, অন্য কেউ নয়। তাবারী শব্দটিকে বাঁধেন ৬:৮৯-এর সঙ্গে। যাঁদের হাতে আয়াতগুলোর ভার দেওয়া হয়েছে, এঁরা তাঁরাই, আর তাঁর মতে তাঁরা হলেন উল্লিখিত নবীগণ। এ মতটিকেই তিনি নিজের বাছাই বলে জানান। আল্লাহ তাঁদের পথ দেখিয়েছেন তাঁর সত্য দ্বীনের দিকে, যা তাঁদের জিম্মায় দেওয়া হয়েছিল তা হেফাজত করতে, তাঁর সীমারেখা রক্ষা করতে, তাঁর হালাল ও হারাম মেনে চলতে।"
+          },
+          {
+            "en": "At-Tabari also records those who took the entrusted people of 6:89 to be the people of Madinah, or the angels. On that reading, he explains, the sentence about entrusting is a parenthesis, and 6:90 reaches back past it to join the earlier words, those are the ones We gave the Book. Either way the subject does not change: the guided are the prophets, and the command that follows is about them.",
+            "bn": "তাবারী তাদের কথাও উল্লেখ করেন, যারা ৬:৮৯-এর ওই লোকদের বুঝেছেন মদীনাবাসী, অথবা ফেরেশতা। তিনি ব্যাখ্যা করেন, সে পাঠে ভার দেওয়ার বাক্যটি মাঝখানে একটা বন্ধনীর মতো। ৬:৯০ সেটা ডিঙিয়ে গিয়ে জুড়ে যায় আগের কথার সঙ্গে: এঁরাই তাঁরা, যাঁদের আমি কিতাব দিয়েছি। যেভাবেই পড়া হোক, বিষয় বদলায় না। হিদায়াতপ্রাপ্ত বলতে নবীগণ, আর পরের নির্দেশ তাঁদেরকে নিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Walking in Their Footprints",
+          "bn": "তাঁদের পদচিহ্ন ধরে হাঁটা"
+        },
+        "p": [
+          {
+            "en": "Fa-bi-hudahum iqtadih: so take their guidance as your example. At-Tabari spells out what that guidance is: the work they did, the path they walked, the guidance Allah gave them and the success He granted them. Iqtadih, O Muhammad, means act on it, take hold of it and walk it, for it is work in which Allah is pleased, and a path on which whoever walks it is guided. On the word itself he says that in the speech of the Arabs, to take a man as qudwa is to follow his trace and take up his way.",
+            "bn": "ফাবিহুদাহুমুক্তাদিহ: তাই তাঁদের হিদায়াতকেই আপনার আদর্শ বানান। তাবারী খুলে বলেন সেই হিদায়াত কী: তাঁরা যে আমল করেছেন, যে পথে চলেছেন, আল্লাহ তাঁদের যে হিদায়াত দিয়েছেন আর যে তাওফীক দিয়েছেন। হে মুহাম্মাদ, ইক্তাদিহ মানে সেই অনুযায়ী আমল করুন, তা আঁকড়ে ধরুন, সে পথে চলুন। কারণ এ এমন আমল যাতে আল্লাহর সন্তুষ্টি আছে, এমন পথ যে তাতে চলে সে হিদায়াত পায়। শব্দটি নিয়ে তিনি বলেন, আরবদের ভাষায় কাউকে কুদওয়া বা আদর্শ বানানো মানে তার পায়ের ছাপ ধরে চলা, তার রীতি গ্রহণ করা।"
+          },
+          {
+            "en": "Al-Qurtubi defines iqtida' as seeking to match another person in what he does. Al-Baghawi says their guidance means their sunnah and their conduct. The Muyassar reads it as follow their guidance and walk their road. As-Sa'di pictures it as walking behind these chosen prophets and following their way of faith, and adds that the Prophet ﷺ did exactly that: he took guidance from the messengers before him and gathered every excellence found in them. By this, as-Sa'di says, some Companions inferred that he is the best of the messengers.",
+            "bn": "কুরতুবী ইক্তিদার সংজ্ঞা দেন এভাবে: অন্যের কাজের সঙ্গে নিজের কাজ মিলিয়ে নেওয়ার চেষ্টা। বাগাভী বলেন, তাঁদের হিদায়াত মানে তাঁদের সুন্নাহ আর তাঁদের জীবনচরিত। মুয়াসসার পড়েন এভাবে: তাঁদের হিদায়াত অনুসরণ করুন, তাঁদের পথে চলুন। সা'দীর ছবিটা হলো, এই বাছাই করা নবীদের পেছনে পেছনে হাঁটা আর তাঁদের মিল্লাত মেনে চলা। তিনি যোগ করেন, নবী ﷺ ঠিক তা-ই করেছেন। আগের রাসূলদের হিদায়াত তিনি গ্রহণ করেছেন, তাঁদের মধ্যে যত গুণ ছিল সব নিজের মধ্যে জমা করেছেন। সা'দী বলেন, এ থেকেই কোনো কোনো সাহাবী সিদ্ধান্ত টেনেছেন যে তিনি সকল রাসূলের মধ্যে শ্রেষ্ঠ।"
+          },
+          {
+            "en": "Al-Qurtubi notices the possessive. The guidance is called theirs, bi-hudahum, because guidance came about through them, while 6:88 calls it the guidance of Allah because He is the one who creates it. So the source is Allah, and the prophets are where it can be seen and copied. Even the last letter has a history. Al-Baghawi says the final ha of iqtadih is a ha of pausing; Hamza and al-Kisa'i drop it when reading on to the next word, the rest keep it in both cases, and Ibn Amir reads it with a full kasra.",
+            "bn": "কুরতুবী সম্বন্ধপদটির দিকে নজর দেন। হিদায়াতকে বলা হয়েছে তাঁদের, বিহুদাহুম, কারণ হিদায়াত ঘটেছে তাঁদের মাধ্যমে। আবার ৬:৮৮ একে বলেছে আল্লাহর হিদায়াত, কারণ তিনিই তা সৃষ্টি করেন। উৎস তাহলে আল্লাহ, আর নবীগণ হলেন সেই জায়গা যেখানে হিদায়াত চোখে দেখা যায়, অনুকরণ করা যায়। শব্দের শেষ বর্ণটিরও একটা ইতিহাস আছে। বাগাভী বলেন, ইক্তাদিহ-এর শেষের হা থামার হা। হামযা ও কিসাঈ পরের শব্দের সঙ্গে মিলিয়ে পড়ার সময় তা বাদ দেন, বাকিরা দুই অবস্থাতেই রাখেন, আর ইবন আমির পড়েন পূর্ণ যের দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patience, Belief, or Law",
+          "bn": "ধৈর্য, ঈমান, নাকি বিধান"
+        },
+        "p": [
+          {
+            "en": "What exactly is the Prophet ﷺ told to follow? Al-Qurtubi lays out the answers. One: the meaning is be patient as they were patient. Another: their guidance means tawhid, since the laws of the prophets differ. A third: some scholars took the verse as proof that following the laws of earlier prophets is obligatory wherever no text of our own exists. Al-Qurtubi says this was the position of most of the followers of Malik and of ash-Shafi'i, that whatever of those laws is found must be acted on, and he quotes Ibn Bukayr that Malik's principles require it.",
+            "bn": "নবী ﷺ-কে ঠিক কী অনুসরণ করতে বলা হচ্ছে? কুরতুবী উত্তরগুলো সাজিয়ে দেন। একটি মত: অর্থ হলো, তাঁরা যেমন সবর করেছেন আপনিও তেমন সবর করুন। আরেকটি মত: তাঁদের হিদায়াত মানে তাওহীদ, কারণ নবীদের শরীয়ত ভিন্ন ভিন্ন। তৃতীয় মত: কিছু আলেম এ আয়াতকে দলিল বানিয়েছেন যে, যেখানে আমাদের নিজস্ব কোনো নস নেই, সেখানে আগের নবীদের শরীয়ত মানা ওয়াজিব। কুরতুবী বলেন, মালিক ও শাফেঈর অনুসারীদের বেশির ভাগের মত এটাই: সেসব বিধানের যা পাওয়া যায়, তার ওপর আমল করতে হবে। ইবন বুকাইরের কথাও তিনি উদ্ধৃত করেন যে, মালিকের মূলনীতি এটাই দাবি করে।"
+          },
+          {
+            "en": "He does not hide the other side. Many followers of Malik and of ash-Shafi'i disagreed, he says, and so did a group of theologians, citing 5:48: for each of you We prescribed a law and a method. Al-Qurtubi answers that 5:48 proves nothing against the first view, because it can be read as restricted, leaving aside what has been related to you about the earlier prophets that did not come in your own Book. The disagreement is real, and it runs inside the same schools.",
+            "bn": "অন্য পক্ষের কথাও তিনি গোপন করেন না। তিনি বলেন, মালিক ও শাফেঈর অনুসারীদের অনেকে এতে দ্বিমত করেছেন, আর একদল কালামশাস্ত্রবিদও। তাঁদের দলিল ৫:৪৮: তোমাদের প্রত্যেকের জন্য আমি নির্ধারণ করেছি আলাদা শরীয়ত ও পথ। কুরতুবীর জবাব, ৫:৪৮ প্রথম মতের বিপক্ষে কিছু প্রমাণ করে না। কারণ আয়াতটিকে সীমিত অর্থে পড়া যায়, তখন বাইরে থেকে যায় আগের নবীদের সম্পর্কে আপনাদের যা জানানো হয়েছে অথচ আপনাদের কিতাবে আসেনি। মতভেদটা সত্যিকারের, আর তা চলেছে একই মাযহাবের ভেতরেই।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an gives a different answer. It says the command does not cover every subsidiary ruling of the earlier prophets, which differed among them, but their basic principles: tawhid, prophethood and the Hereafter, which never changed. Rulings that stayed the same were shared; when a new ruling came, it was followed. That, it says on al-Mazhari's authority, is why the Prophet ﷺ would act in the way of earlier prophets until revelation gave him specific guidance. Ibn Kathir adds only that what is a command to the Messenger reaches his community in what he lays down for them.",
+            "bn": "মাআরিফুল কুরআনের উত্তর আলাদা। সেখানে বলা হয়েছে, আগের নবীদের প্রতিটি শাখাগত বিধান এ নির্দেশের আওতায় পড়ে না, কারণ সেগুলো একেক নবীর বেলায় একেক রকম ছিল। আওতায় পড়ে দ্বীনের মূলনীতি: তাওহীদ, রিসালাত ও আখিরাত, যা কখনো বদলায়নি। যে বিধান অপরিবর্তিত থেকেছে তা সবার মধ্যে অভিন্ন। নতুন বিধান এলে সেটাই মানা হয়েছে। মাযহারীর বরাতে সেখানে বলা হয়, এ কারণেই নবী ﷺ ওহীর মাধ্যমে নির্দিষ্ট নির্দেশ না আসা পর্যন্ত আগের নবীদের পথে আমল করতেন। ইবন কাসীর শুধু এটুকু যোগ করেন: রাসূলের প্রতি যা নির্দেশ, তাঁর উম্মতের কাছেও তা পৌঁছায়, তিনি তাদের জন্য যা বিধান করেন সে অনুযায়ী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Torah Ruling in Madinah",
+          "bn": "মদীনায় তাওরাতের এক বিধান"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's evidence is Sahih Muslim 1675. Anas narrates that the sister of ar-Rubayyi', Umm Haritha, injured a person, and they brought the dispute to the Prophet ﷺ. He said: retaliation, retaliation. Umm ar-Rabi' said: Messenger of Allah, will retaliation be taken from so-and-so? By Allah, it will not be taken from her. He said: Subhan Allah, O Umm ar-Rabi', retaliation is the Book of Allah. She said: No, by Allah, it will never be taken from her. She kept on until they accepted blood money. Then he said: among the servants of Allah are some who, if they swore by Allah, He would fulfil it.",
+            "bn": "প্রথম মতের পক্ষে কুরতুবীর দলিল সহীহ মুসলিম ১৬৭৫-এর একটি বর্ণনা। আনাস (রাঃ) বর্ণনা করেন, রুবাইয়ি'র বোন উম্মু হারিসা একজনকে জখম করেছিলেন। বিবাদটি নবী ﷺ-এর কাছে আনা হলো। তিনি বললেন: কিসাস, কিসাস। উম্মুর রাবী' বললেন: হে আল্লাহর রাসূল, অমুকের কাছ থেকে কি কিসাস নেওয়া হবে? আল্লাহর কসম, তার কাছ থেকে কিসাস নেওয়া হবে না। তিনি বললেন: সুবহানাল্লাহ, হে উম্মুর রাবী', কিসাস তো আল্লাহর কিতাব। তিনি বললেন: না, আল্লাহর কসম, তার কাছ থেকে কখনোই কিসাস নেওয়া হবে না। এভাবে বলতেই থাকলেন, শেষে তারা দিয়াত গ্রহণে রাজি হলো। তখন নবী ﷺ বললেন: আল্লাহর বান্দাদের মধ্যে এমন কেউ কেউ আছেন, যারা আল্লাহর নামে কসম করলে আল্লাহ তা পূরণ করে দেন।"
+          },
+          {
+            "en": "The report itself does not mention 6:90; the link is al-Qurtubi's. His reasoning: the Prophet ﷺ pointed to the verse and We prescribed for them therein a life for a life (5:45), and the only text in the Book of Allah on retaliation for a tooth is that verse, which reports the law of the Torah. Even so, he judged by it and referred to it. To the first view, that is the command at work in a courtroom; to the other side, 5:48 still stands.",
+            "bn": "বর্ণনাটিতে ৬:৯০-এর কোনো উল্লেখ নেই। আয়াতের সঙ্গে সংযোগটা কুরতুবীর নিজের। তাঁর যুক্তি এরকম: নবী ﷺ ইঙ্গিত করেছিলেন সেই আয়াতের দিকে, আমি তাদের জন্য তাতে বিধান দিয়েছিলাম প্রাণের বদলে প্রাণ (৫:৪৫)। আর আল্লাহর কিতাবে দাঁতের কিসাস নিয়ে নস আছে কেবল ওই আয়াতেই, যা তাওরাতের বিধানের সংবাদ দেয়। তবু তিনি সে অনুযায়ী ফয়সালা করেছেন, সেদিকেই ইঙ্গিত করেছেন। প্রথম মতের চোখে এ হলো বিচারের আসরে নির্দেশটির বাস্তব প্রয়োগ। অন্য পক্ষের কাছে ৫:৪৮ তখনও বহাল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Ibn Abbas Prostrated in Sad",
+          "bn": "সূরা সাদে ইবন আব্বাসের দলিল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir cites al-Bukhari under this verse, and Sahih al-Bukhari 4632 reads: Mujahid asked Ibn Abbas, is there a prostration in Sad? He said: yes. Then he recited And We gave him up to so take their guidance as your example, and said: he is one of them. Yazid ibn Harun, Muhammad ibn Ubayd and Sahl ibn Yusuf added, from al-'Awwam from Mujahid: I asked Ibn Abbas, and he said: your Prophet ﷺ is among those who were commanded to follow them.",
+            "bn": "ইবন কাসীর এ আয়াতের আলোচনায় বুখারীর বর্ণনা আনেন। সহীহ বুখারী ৪৬৩২-এ আছে: মুজাহিদ ইবন আব্বাস (রাঃ)-কে জিজ্ঞেস করলেন, সূরা সাদে কি সিজদা আছে? তিনি বললেন: হ্যাঁ। তারপর তিলাওয়াত করলেন, ওয়া ওয়াহাবনা লাহু থেকে ফাবিহুদাহুমুক্তাদিহ পর্যন্ত, আর বললেন: তিনি তাঁদেরই একজন। ইয়াযীদ ইবন হারূন, মুহাম্মাদ ইবন উবাইদ ও সাহল ইবন ইউসুফ আওয়াম থেকে, তিনি মুজাহিদ থেকে আরও যোগ করেন: আমি ইবন আব্বাসকে জিজ্ঞেস করলাম, তিনি বললেন: তোমাদের নবী ﷺ তাঁদের অন্তর্ভুক্ত, যাঁদের ওই নবীদের অনুসরণ করার আদেশ দেওয়া হয়েছে।"
+          },
+          {
+            "en": "He is one of them means Dawud (AS), named in 6:84, whose prostration is told in 38:24. Al-Qurtubi gives the same report through al-'Awwam, where Ibn Abbas adds that Dawud was among those your Prophet ﷺ was commanded to follow; the article on 38:24 quotes it in full. Here is a Companion carrying the command past belief into a deed of worship: Dawud bowed, and the one told to follow him bowed too. It shows how Ibn Abbas read the verse, without closing the wider question above.",
+            "bn": "তিনি তাঁদেরই একজন, অর্থাৎ দাঊদ (আঃ), যাঁর নাম এসেছে ৬:৮৪-এ, আর যাঁর সিজদার কথা আছে ৩৮:২৪-এ। কুরতুবী একই বর্ণনা আনেন আওয়ামের সূত্রে, যেখানে ইবন আব্বাস যোগ করেন: দাঊদ ছিলেন তাঁদের একজন, যাঁদের অনুসরণ করতে তোমাদের নবী ﷺ আদিষ্ট হয়েছিলেন। ৩৮:২৪-এর লেখায় সে বর্ণনা পুরোটা আছে। এখানে দেখা যায়, একজন সাহাবী নির্দেশটিকে শুধু আকীদার মধ্যে আটকে রাখেননি, নিয়ে গেছেন ইবাদতের একটি আমল পর্যন্ত। দাঊদ সিজদা করেছিলেন, তাই যাঁকে তাঁর অনুসরণ করতে বলা হয়েছে তিনিও সিজদা করলেন। ইবন আব্বাস আয়াতটি কীভাবে পড়েছেন এতে তা বোঝা যায়, তবে ওপরের বড় প্রশ্নটির মীমাংসা এতে হয়ে যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking No Wage for It",
+          "bn": "এর জন্য কোনো পারিশ্রমিক নয়"
+        },
+        "p": [
+          {
+            "en": "Qul la as'alukum 'alayhi ajra: say, I ask you no payment for it. Ibn Kathir explains: I ask you no wage for conveying this Qur'an to you, and I want nothing else from you. At-Tabari names three things given free: the reminder, the guidance he calls to, and the Qur'an he brought, with no compensation taken and no wage. Al-Qurtubi calls it a fee for the Qur'an. At-Tabari and the Muyassar both say the words are addressed to the idolaters.",
+            "bn": "কুল লা আসআলুকুম আলাইহি আজরা: বলুন, এর জন্য আমি তোমাদের কাছে কোনো পারিশ্রমিক চাই না। ইবন কাসীর ব্যাখ্যা করেন: এই কুরআন তোমাদের কাছে পৌঁছে দেওয়ার জন্য আমি কোনো মজুরি চাই না, তোমাদের কাছ থেকে আর কিছুও চাই না। তাবারী তিনটি জিনিসের নাম নেন যা বিনামূল্যে দেওয়া হচ্ছে: উপদেশ, যে হিদায়াতের দিকে তিনি ডাকছেন, আর যে কুরআন তিনি এনেছেন। এর কোনো বিনিময় নেওয়া হচ্ছে না, কোনো মজুরিও না। কুরতুবী একে বলেন কুরআনের জন্য পারিশ্রমিক। তাবারী ও মুয়াসসার দুজনেই বলেন, কথাটা মুশরিকদের উদ্দেশে।"
+          },
+          {
+            "en": "Why say it at all? As-Sa'di gives the reason: had he asked them for money in return for conveying the message, that would have become one of the causes of their refusal; his reward is with Allah alone. The Muyassar has the same words, my reward is only with Allah. Ma'arif al-Qur'an calls refusing any return for teaching and calling the shared legacy of all the prophets: if you accept, I gain nothing, and if you refuse, I lose nothing.",
+            "bn": "কথাটা বলার দরকার কেন? সা'দী কারণ জানান: বার্তা পৌঁছানোর বিনিময়ে তিনি যদি টাকা-পয়সা চাইতেন, সেটাই হয়ে দাঁড়াত তাদের মুখ ফিরিয়ে নেওয়ার একটা কারণ। তাঁর প্রতিদান কেবল আল্লাহর কাছে। মুয়াসসারেও একই কথা: আমার প্রতিদান শুধু আল্লাহর কাছে। মাআরিফুল কুরআনের ভাষায়, শেখানো ও দাওয়াতের বিনিময়ে কিছু না নেওয়া সব নবীর অভিন্ন উত্তরাধিকার। তোমরা গ্রহণ করলে আমার কোনো লাভ নেই, আর প্রত্যাখ্যান করলে আমার কোনো ক্ষতি নেই।"
+          },
+          {
+            "en": "The Qur'an bears this out. Nuh (AS) says it in 11:29, Hud (AS) in 11:51, and in Surah ash-Shu'ara five messengers say the same sentence, at 26:109, 26:127, 26:145, 26:164 and 26:180: I ask you no payment for it; my payment is only from the Lord of the worlds. So the command to follow their guidance and the words about payment sit side by side for a reason. The fetched commentaries speak of the Prophet's call; none rules here on what a teacher today may be paid.",
+            "bn": "কুরআনেই এর সাক্ষ্য আছে। নূহ (আঃ) একথা বলেছেন ১১:২৯-এ, হূদ (আঃ) ১১:৫১-এ। আর সূরা শুআরায় পাঁচজন রাসূল একই বাক্য বলেছেন, ২৬:১০৯, ২৬:১২৭, ২৬:১৪৫, ২৬:১৬৪ ও ২৬:১৮০-এ: এর জন্য আমি তোমাদের কাছে কোনো পারিশ্রমিক চাই না, আমার পারিশ্রমিক কেবল বিশ্বজগতের রবের কাছে। তাই তাঁদের হিদায়াত অনুসরণের নির্দেশ আর পারিশ্রমিক না চাওয়ার ঘোষণা পাশাপাশি এসেছে অকারণে নয়। যেসব তাফসীর দেখা হয়েছে, সেগুলো নবী ﷺ-এর দাওয়াত নিয়ে কথা বলে। আজকের একজন শিক্ষক কত বেতন নিতে পারেন, সে বিষয়ে এখানে কেউ কোনো ফয়সালা দেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Meant for Every World",
+          "bn": "সব জগতের জন্য উপদেশ"
+        },
+        "p": [
+          {
+            "en": "In huwa illa dhikra lil-'alamin: it is only a reminder for the worlds. Ibn Kathir: so that they are reminded by it and guided from blindness to guidance, from error to right conduct, from disbelief to faith. Al-Baghawi and al-Qurtubi call it counsel. At-Tabari makes it a warning to the idolaters and to everyone like them who persists in falsehood, given before a severe punishment, so that they remember and hold back.",
+            "bn": "ইন হুয়া ইল্লা যিকরা লিল-আলামীন: এ তো সারা জগতের জন্য উপদেশ ছাড়া আর কিছু নয়। ইবন কাসীর বলেন, যাতে তারা এর মাধ্যমে স্মরণ করে আর অন্ধত্ব থেকে হিদায়াতে, ভ্রান্তি থেকে সঠিক পথে, কুফর থেকে ঈমানে পৌঁছে যায়। বাগাভী ও কুরতুবী একে বলেন নসীহত। তাবারীর কাছে এটা মুশরিকদের জন্য এবং বাতিলের ওপর অটল তাদের মতো সবার জন্য সতর্কবাণী, কঠিন শাস্তি আসার আগেই, যাতে তারা স্মরণ করে আর বিরত হয়।"
+          },
+          {
+            "en": "As-Sa'di widens it. By this reminder people recall what benefits them and do it, and what harms them and leave it; they come to know their Lord by His names and attributes, and learn good character and the roads to it. Since it is a reminder for the worlds, he says, it is the greatest blessing Allah has given them, so they must accept it and be grateful. A gift meant for everyone is not sold to a few.",
+            "bn": "সা'দী কথাটা আরও প্রশস্ত করেন। এই উপদেশের মাধ্যমে মানুষ মনে রাখে কোনটা তার উপকার করে, তাই সে তা করে, আর কোনটা ক্ষতি করে, তাই সে তা ছাড়ে। এর মাধ্যমে সে তার রবকে চেনে তাঁর নাম ও গুণাবলি দিয়ে, শেখে উত্তম চরিত্র আর সেখানে পৌঁছানোর পথ। তিনি বলেন, যেহেতু এটা সারা জগতের জন্য উপদেশ, তাই আল্লাহ তাদের যত নিয়ামত দিয়েছেন তার মধ্যে এটাই সবচেয়ে বড়। কাজেই তা গ্রহণ করা আর এর শুকরিয়া আদায় করা তাদের কর্তব্য। যে দান সবার জন্য, তা গুটিকয়েক মানুষের কাছে বিক্রি করা যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Choosing Whom You Copy",
+          "bn": "কাকে নকল করবেন, সে বাছাই"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an hears a message to Makkah inside the command. Forefathers cannot be taken as models to be followed in everything simply because they are forefathers; before following anyone, find out whether that person is on guidance. Hence the wording: those are the ones Allah guided. The guidance runs two ways, it says: to the Arabs and, by implication, to the whole community, to leave the custom of the forefathers for the way of the prophets, and to the Prophet ﷺ himself.",
+            "bn": "মাআরিফুল কুরআন এ নির্দেশের ভেতরে মক্কার জন্য একটা বার্তাও শুনতে পায়। বাপ-দাদা শুধু বাপ-দাদা বলেই সব কথায় ও কাজে তাঁদের অনুসরণ করা যায় না। কাউকে অনুসরণের আগে দেখে নিতে হয়, সে নিজে হিদায়াতের ওপর আছে কি না। সেজন্যই বলা হয়েছে: এঁরাই তাঁরা, যাঁদের আল্লাহ হিদায়াত দিয়েছেন। সেখানে বলা হয়েছে, নির্দেশটা দুই দিকে যায়। আরবদের প্রতি, আর তাদের সূত্রে গোটা উম্মতের প্রতি: বাপ-দাদার রেওয়াজ ছেড়ে নবীদের পথ ধরো। আর খোদ নবী ﷺ-এর প্রতি।"
+          },
+          {
+            "en": "That test still works. The Qur'an names patterns of its own: the Messenger of Allah in 33:21, Ibrahim (AS) and those with him in 60:4. In every prayer we ask for the path of those You have favoured (1:7). This week, read the life of one prophet named in 6:84 to 6:86, check one habit against the verse's test, and pass on one thing you know of the Qur'an without wanting anything back.",
+            "bn": "মাপকাঠিটা আজও কাজ করে। কুরআন নিজেই আদর্শের নাম বলে দিয়েছে: ৩৩:২১-এ আল্লাহর রাসূল ﷺ, ৬০:৪-এ ইবরাহীম (আঃ) ও তাঁর সঙ্গীরা। প্রতি নামাজে আমরা চাই তাঁদের পথ, যাঁদের আপনি নিয়ামত দিয়েছেন (১:৭)। এ সপ্তাহে ৬:৮৪ থেকে ৬:৮৬ আয়াতে নাম আসা একজন নবীর জীবনী পড়ুন। নিজের একটা অভ্যাস আয়াতের এই মাপকাঠিতে যাচাই করুন। আর কুরআনের যা জানেন, তার একটা কথা কোনো প্রতিদান না চেয়ে কাউকে পৌঁছে দিন।"
+          }
+        ]
+      }
+    ]
+  },
   "6:91": {
     "sections": [
       {
