@@ -32943,6 +32943,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Be truthful long before anyone needs to rely on you, and when someone who failed you comes asking, help first and leave the reproach unsaid.",
     "lessonBn": "কেউ আপনার উপর ভরসা করার প্রয়োজন পড়ার অনেক আগে থেকেই সত্যবাদী হোন। আর যে আপনাকে নিরাশ করেছিল, সে কিছু চাইতে এলে আগে সাহায্য করুন, তিরস্কারের কথা মুখে আনবেন না।"
+  },
+  "12:104": {
+    "reflectionEn": "The long story of Yusuf is over, and the Qur'an turns to the one who brought it. Most people will not believe, however much you want them to, and still you ask them nothing in return. It is only a reminder, meant for everyone. He handed over the most valuable thing he had and sent no bill with it. Nothing he asked for gave his hearers a reason to suspect him, and nothing they refused could empty his effort of its worth. I give advice, help and time too. Do I give them freely, or with a quiet expectation attached: thanks, standing, a favour later? And when my reminder is ignored, does my sincerity survive the silence?",
+    "reflectionBn": "ইউসুফের দীর্ঘ কাহিনি শেষ। এবার কুরআন ফিরে তাকায় সেই মানুষটির দিকে, যিনি কাহিনিটি পৌঁছে দিলেন। আপনি যত আগ্রহই করুন, অধিকাংশ মানুষ ঈমান আনবে না। তবু আপনি তাদের কাছে কোনো বিনিময় চান না। এ তো কেবল উপদেশ, সবার জন্য। তাঁর কাছে যা সবচেয়ে মূল্যবান ছিল, তা-ই তিনি দিয়ে দিলেন, সঙ্গে কোনো দামের হিসাব পাঠালেন না। তিনি কিছু চাননি বলে শ্রোতারা তাঁকে সন্দেহ করার কারণ পায়নি। আর তারা ফিরিয়ে দিলেও তাঁর পরিশ্রম মূল্যহীন হয়ে যায়নি। আমিও তো পরামর্শ দিই, সাহায্য করি, সময় দিই। তা কি খোলা হাতে দিই, নাকি ভেতরে চুপচাপ একটা প্রত্যাশা জুড়ে থাকে: ধন্যবাদ, সম্মান, কিংবা পরে কোনো সুবিধা? আর আমার উপদেশ কেউ কানে না তুললে, সেই নীরবতার পরেও কি আমার নিয়ত খাঁটি থাকে?",
+    "pointsEn": [
+      "The last time I gave someone advice, what was I hoping to get back from it, even if I never said so?",
+      "Would the people I try to help find it easier to trust me if they could see I wanted nothing from them?",
+      "When my reminder is ignored, do I feel the effort was wasted, or do I remember for whose sake I gave it?",
+      "Is there help I offer only to people who are in a position to repay it?",
+      "Which reminder in the Qur'an have I been passing over, as if it were meant for someone else?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন কাউকে পরামর্শ দিয়েছি, মুখে না বললেও বিনিময়ে কী পাওয়ার আশা মনে ছিল?",
+      "আমি যাদের সাহায্য করতে চাই, তারা যদি দেখত আমি তাদের কাছে কিছুই চাই না, তাহলে কি আমাকে বিশ্বাস করা তাদের জন্য সহজ হতো না?",
+      "আমার উপদেশ কেউ না শুনলে কি মনে হয় পরিশ্রমটা বৃথা গেল, নাকি মনে রাখি কার সন্তুষ্টির জন্য দিয়েছিলাম?",
+      "এমন কোনো সাহায্য কি আছে, যা আমি কেবল তাদেরই করি যারা পরে শোধ দিতে পারবে?",
+      "কুরআনের কোন উপদেশটা আমি পাশ কাটিয়ে যাচ্ছি, যেন ওটা অন্য কারও জন্য বলা?"
+    ],
+    "lessonEn": "Give counsel and help freely, seeking Allah's pleasure rather than any return, and hear the Qur'an's reminder as addressed to you as well.",
+    "lessonBn": "বিনিময়ের আশা না করে আল্লাহর সন্তুষ্টির জন্য খোলা হাতে পরামর্শ ও সাহায্য দিন, আর কুরআনের উপদেশকে নিজের প্রতিও বলা কথা হিসেবে শুনুন।"
   }
 };
 

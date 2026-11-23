@@ -4819,6 +4819,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:104": {
+    "sections": [
+      {
+        "h": {
+          "en": "When the Story Has Been Told",
+          "bn": "কাহিনি বলা শেষ হলে"
+        },
+        "p": [
+          {
+            "en": "Surah Yusuf has finished its story. The family is together in Egypt, the dream of 12:4 has come true in 12:100, and Yusuf (AS) has prayed in 12:101 to die in submission. Then the address turns from the people of the story to the Prophet ﷺ who told it. Verse 12:102 calls the story news of the unseen, revealed to him, about a plot he never witnessed. Verse 12:103 adds that most people will not believe, however eager he is. Our verse comes next, in ten Arabic words and two clauses.",
+            "bn": "সূরা ইউসুফের কাহিনি শেষ হয়েছে। পুরো পরিবার এখন মিসরে একসঙ্গে। ১২:৪ আয়াতের স্বপ্ন ১২:১০০ আয়াতে সত্য হয়েছে। ইউসুফ (আঃ) ১২:১০১ আয়াতে দোয়া করেছেন, যেন মুসলিম অবস্থায় তাঁর মৃত্যু হয়। এরপর কথার মুখ ঘুরে যায়। কাহিনির মানুষদের ছেড়ে কুরআন এবার কথা বলে নবী ﷺ-এর সঙ্গে, যিনি কাহিনিটি শোনালেন। ১২:১০২ আয়াত একে বলে অদৃশ্যের খবর, যা তাঁর কাছে ওহি করা হয়েছে। যে ষড়যন্ত্রের কথা এতে আছে, তিনি তার সাক্ষী ছিলেন না। ১২:১০৩ আয়াত যোগ করে: তিনি যত আগ্রহই করুন, অধিকাংশ মানুষ ঈমান আনবে না। তার ঠিক পরেই আমাদের আয়াত, আরবিতে দশটি শব্দ, দুটি বাক্যাংশ।"
+          },
+          {
+            "en": "Wa ma tas'aluhum 'alayhi min ajr: and you do not ask them for it any payment. In huwa illa dhikrun lil-'alamin: it is nothing but a reminder to the worlds. The English abridgement of Ibn Kathir, which treats 12:102 to 12:104 as one group, reads the three verses as one movement. Allah tells His Messenger the news of the past because it carries a lesson and a reminder to those who defy him; most people still will not believe; and he asks them nothing for delivering it.",
+            "bn": "ওয়া মা তাসআলুহুম আলাইহি মিন আজর: আর আপনি এর জন্য তাদের কাছে কোনো পারিশ্রমিক চান না। ইন হুয়া ইল্লা যিকরুন লিল আলামীন: এ তো বিশ্বজগতের জন্য উপদেশ ছাড়া আর কিছু নয়। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ ১২:১০২ থেকে ১২:১০৪ আয়াত একসঙ্গে আলোচনা করে, আর তিনটি আয়াতকে পড়ে একটানা এক ধারায়। আল্লাহ তাঁর রাসূলকে অতীতের খবর জানান, কারণ তাতে শিক্ষা আছে, আর যারা তাঁর বিরোধিতা করে তাদের জন্য আছে উপদেশ। তবু অধিকাংশ মানুষ ঈমান আনবে না। আর এ বার্তা পৌঁছে দেওয়ার জন্য তিনি তাদের কাছে কিছুই চান না।"
+          },
+          {
+            "en": "Who are the people he asks nothing of? At-Tabari names them pointedly: those who deny your prophethood and refuse to believe you and to accept what you brought them from your Lord. The Muyassar says simply your people. Ibn Kathir's Arabic turns to the Prophet ﷺ by name, ya Muhammad, and so does at-Tabari. The verse is spoken to him about his hearers, and the hearers it has first in view are the ones who were turning him down.",
+            "bn": "তিনি কাদের কাছে কিছু চান না? তাবারী তাদের পরিচয় দেন স্পষ্ট করে: যারা আপনার নবুওয়াত অস্বীকার করে, আপনাকে সত্য বলে মানতে চায় না, আর আপনার রবের কাছ থেকে আপনি যা এনেছেন তা স্বীকার করে না। মুয়াসসার সোজা বলে: আপনার কওম। ইবন কাসীরের আরবি ভাষ্য নবী ﷺ-কে নাম ধরে সম্বোধন করে, ইয়া মুহাম্মাদ, তাবারীও তাই করেন। আয়াতের কথা তাঁকে বলা, তাঁর শ্রোতাদের সম্পর্কে। আর প্রথমে যে শ্রোতারা এর লক্ষ্য, তারা সেই লোকেরা যারা তাঁকে ফিরিয়ে দিচ্ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Even a Small Fee",
+          "bn": "সামান্য পারিশ্রমিকও নয়"
+        },
+        "p": [
+          {
+            "en": "What is the ajr he does not ask for? The commentators gloss it with words for a fee. Ibn Kathir says: no ju'ala and no ujra, neither a commission nor a wage. Al-Qurtubi and al-Baghawi use ju'l, a payment set for a task, and al-Baghawi pairs it with jaza', recompense. At-Tabari explains min ajr as reward and recompense from them, and the last two words carry his point, for he adds at once: rather, your reward and the wage of your work are with Allah.",
+            "bn": "যে আজর বা পারিশ্রমিক তিনি চান না, সেটা কী? তাফসীরকারেরা শব্দটির ব্যাখ্যা দেন মজুরি বোঝায় এমন শব্দ দিয়ে। ইবন কাসীর বলেন: কোনো জুআলা নয়, কোনো উজরাও নয়, অর্থাৎ কমিশনও নয়, মজুরিও নয়। কুরতুবী ও বাগাভী বলেন জু'ল, মানে কোনো কাজের জন্য ঠিক করে দেওয়া পারিশ্রমিক। বাগাভী এর সঙ্গে জুড়ে দেন জাযা, অর্থাৎ প্রতিদান। তাবারী মিন আজরের ব্যাখ্যা দেন: তাদের কাছ থেকে কোনো সওয়াব বা প্রতিদান। তাঁর আসল কথা লুকিয়ে আছে শেষ দুই শব্দে, 'তাদের কাছ থেকে'। কারণ সঙ্গে সঙ্গেই তিনি যোগ করেন: আপনার সওয়াব আর আপনার কাজের মজুরি তো আল্লাহর কাছে।"
+          },
+          {
+            "en": "Al-Qurtubi adds a small grammatical note on the word min before ajr. He calls it sila, a connective particle, and his gloss of the clause simply leaves it out: ma tas'aluhum ju'lan, you ask them no fee. The English translation used in this app renders the same phrase as any payment. Either way the sentence rules out the whole category, not one particular sum. Nothing is named as the thing he declined, because nothing at all was asked.",
+            "bn": "আজর শব্দের আগে যে মিন, তা নিয়ে কুরতুবী ব্যাকরণের একটা ছোট মন্তব্য করেন। তিনি একে বলেন সিলা, অর্থাৎ সংযোজক অব্যয়। বাক্যাংশটির ব্যাখ্যায় তিনি শব্দটি বাদই দেন: মা তাসআলুহুম জু'লান, আপনি তাদের কাছে কোনো পারিশ্রমিক চান না। এ অ্যাপের বাংলা অনুবাদও অংশটিকে বলেছে 'কোন পারিশ্রমিক'। যেভাবেই পড়ি, বাক্যটি কোনো নির্দিষ্ট অঙ্কের কথা বলছে না, পারিশ্রমিকের পুরো ধারণাটাই নাকচ করছে। কোন জিনিসটা তিনি ফিরিয়ে দিলেন, তার নাম নেই, কারণ তিনি কিছুই চাননি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an frames the verse by the Prophet's ﷺ task: your mission is to tell them the truth and to call them to the straight path, and for this you do not ask them to give you anything in return. The verse states this as a fact about him, not as a rule laid on others, and it was a fact his hearers could see for themselves. That is what lets at-Tabari build an argument on it.",
+            "bn": "মাআরিফুল কুরআন আয়াতটিকে দেখে নবী ﷺ-এর দায়িত্বের আলোয়: আপনার কাজ তাদের সত্য জানানো আর সরল পথের দিকে ডাকা, আর এর জন্য আপনি তাদের কাছে বিনিময়ে কিছুই চান না। আয়াতটি কথাটা বলছে তাঁর সম্পর্কে একটি বাস্তব তথ্য হিসেবে, অন্যদের উপর চাপানো কোনো বিধান হিসেবে নয়। আর তথ্যটা তাঁর শ্রোতারা নিজের চোখেই দেখতে পেত। এ কারণেই তাবারী এর উপর একটা যুক্তি দাঁড় করাতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Payment for What, Exactly?",
+          "bn": "ঠিক কিসের বিনিময়?"
+        },
+        "p": [
+          {
+            "en": "The pronoun in 'alayhi, for it, points back to something the verse does not name, and the commentators fill it in slightly differently. Ibn Kathir: for this sincere counsel and the call to what is good and right. Al-Baghawi: for conveying the message and calling to Allah. The Muyassar: for guiding your people to faith. At-Tabari is the fullest: for what you call them to, which is worship devoted purely to your Lord, leaving the worship of idols, and obedience to the Most Merciful.",
+            "bn": "আলাইহি, অর্থাৎ 'এর জন্য'। এই সর্বনাম যে জিনিসের দিকে ইঙ্গিত করে, আয়াত তার নাম বলেনি। তাফসীরকারেরা শূন্যস্থানটা পূরণ করেন একটু ভিন্ন ভিন্নভাবে। ইবন কাসীর বলেন: এই নসীহত আর কল্যাণ ও সঠিক পথের দিকে দাওয়াতের জন্য। বাগাভী বলেন: রিসালাত পৌঁছে দেওয়া আর আল্লাহর দিকে ডাকার জন্য। মুয়াসসার বলে: আপনার কওমকে ঈমানের পথ দেখানোর জন্য। সবচেয়ে বিস্তারিত তাবারী: আপনি তাদের যেদিকে ডাকছেন তার জন্য, অর্থাৎ ইবাদত কেবল আপনার রবের জন্য খাঁটি করা, মূর্তিপূজা ছেড়ে দেওয়া, আর রহমানের আনুগত্য করা।"
+          },
+          {
+            "en": "The second pronoun, huwa in in huwa, has its own range. Al-Qurtubi says it means the Qur'an and the revelation; al-Baghawi says the Qur'an; the Muyassar, the Qur'an and the guidance he was sent with. At-Tabari reads it more widely: this prophethood and message your Lord sent you with. Both al-Qurtubi and al-Baghawi gloss in as ma, so the clause is a negation followed by illa, except: it is nothing but a reminder.",
+            "bn": "দ্বিতীয় সর্বনাম ইন হুয়া-র হুয়া, তারও অর্থের একটা পরিসর আছে। কুরতুবী বলেন, এর মানে কুরআন ও ওহি। বাগাভী বলেন কুরআন। মুয়াসসার বলে, যে কুরআন ও হিদায়াত দিয়ে তাঁকে পাঠানো হয়েছে। তাবারী অর্থটা আরও প্রশস্ত করেন: আপনার রব আপনাকে যে নবুওয়াত ও রিসালাত দিয়ে পাঠিয়েছেন, সেটাই। কুরতুবী ও বাগাভী দুজনেই ইন-এর ব্যাখ্যা দেন মা দিয়ে, অর্থাৎ 'না'। তাই বাক্যাংশটি একটি নাবাচক কথা, তারপর ইল্লা, মানে 'ছাড়া': এ উপদেশ ছাড়া আর কিছু নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Room for Suspicion",
+          "bn": "সন্দেহের সুযোগ নেই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari sees an argument in the verse. You ask them no reward, so they cannot say to you: all you want by calling us to follow you is that we should hand our wealth over to you. And since you do not ask it, he continues, it was their duty to recognise that you call them only in obedience to your Lord's command and as sincere counsel to them. The refusal of payment takes away the easiest charge a hearer could bring against a caller.",
+            "bn": "তাবারী আয়াতে একটা যুক্তি খুঁজে পান। আপনি তাদের কাছে কোনো প্রতিদান চান না। তাই তারা আপনাকে বলতে পারে না: আমাদেরকে তোমার অনুসরণের দিকে ডেকে তুমি আসলে চাও আমরা আমাদের ধনসম্পদ তোমার হাতে তুলে দিই। তিনি আরও বলেন, আপনি যেহেতু এসব চান না, তাই তাদের উপর কর্তব্য ছিল বুঝে নেওয়া যে আপনি তাদের ডাকছেন কেবল আপনার রবের হুকুম মেনে, আর তাদের প্রতি আন্তরিক কল্যাণকামনা থেকে। পারিশ্রমিক না চাওয়া তাই দাওয়াতদাতার বিরুদ্ধে শ্রোতার সবচেয়ে সহজ অভিযোগটাই কেড়ে নেয়।"
+          },
+          {
+            "en": "At-Tabari ends the point with a pair of opposites. The word he chooses for what the Prophet ﷺ gave them is nasiha, sincere counsel, and his last clause is wa an la yastaghishshuk: and that they should not suspect you of ghishsh, of deceiving them. Counsel and deceit stand at the two ends of the same line. A caller who asks nothing in return has, by that fact, moved himself as far as he can from the second.",
+            "bn": "তাবারী কথাটা শেষ করেন দুটি বিপরীত শব্দ পাশাপাশি রেখে। নবী ﷺ তাদের যা দিয়েছেন, তার জন্য তিনি বেছে নেন নাসীহা শব্দটি, মানে আন্তরিক কল্যাণকামনা। আর তাঁর শেষ বাক্যাংশ: ওয়া আন লা ইয়াসতাগিশশূক, অর্থাৎ তারা যেন আপনাকে গিশশ বা প্রতারণার সন্দেহ না করে। নসীহত আর প্রতারণা একই রেখার দুই প্রান্তে দাঁড়িয়ে। যে দাওয়াতদাতা বিনিময়ে কিছুই চান না, তিনি এই কাজের মধ্য দিয়েই নিজেকে দ্বিতীয়টি থেকে যতদূর সম্ভব সরিয়ে রাখেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an makes the same point from the listener's side. Had he asked them for something in return, it could have made it hard for them to listen to him or to follow him; what he tells them is for their own good. Ibn Kathir gives the motive in positive terms: he does it seeking the Face of Allah and as sincere counsel to His creation. The two readings meet. The free gift removes an obstacle for the hearer and keeps the giver's intention clean.",
+            "bn": "মাআরিফুল কুরআন একই কথা বলে শ্রোতার দিক থেকে। তিনি যদি বিনিময়ে কিছু চাইতেন, তাহলে তাঁর কথা শোনা বা তাঁকে অনুসরণ করা তাদের জন্য কঠিন হয়ে যেতে পারত। তিনি যা বলছেন, তা তো তাদেরই কল্যাণের জন্য। ইবন কাসীর উদ্দেশ্যটা বলেন ইতিবাচক ভাষায়: তিনি এ কাজ করেন আল্লাহর সন্তুষ্টি চেয়ে, আর তাঁর সৃষ্টির প্রতি আন্তরিক কল্যাণকামনা থেকে। দুই ব্যাখ্যা এক জায়গায় এসে মেলে। বিনামূল্যের এই দান শ্রোতার পথের বাধা সরিয়ে দেয়, আর দাতার নিয়তকেও খাঁটি রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then Why Grieve?",
+          "bn": "তবে আর দুঃখ কেন?"
+        },
+        "p": [
+          {
+            "en": "Read beside 12:103, the verse also consoles. Ma'arif al-Qur'an finds a hint in it: when the purpose behind your effort is no worldly gain, and is nothing but the reward of the Hereafter and the betterment of your people, then that purpose already stands achieved. Why would you then grieve over it? The eagerness of 12:103, wa law harasta, however eager you are, is answered here by a reminder of what the eagerness was for.",
+            "bn": "১২:১০৩ আয়াতের পাশে রেখে পড়লে এ আয়াতে সান্ত্বনাও আছে। মাআরিফুল কুরআন এতে একটা ইঙ্গিত দেখে। আপনার চেষ্টার উদ্দেশ্য যখন দুনিয়ার কোনো লাভ নয়, বরং কেবল আখিরাতের প্রতিদান আর নিজের কওমের কল্যাণ, তখন সেই উদ্দেশ্য তো পূরণ হয়েই আছে। তাহলে আর দুঃখ করবেন কেন? ১২:১০৩ আয়াতে যে আগ্রহের কথা, ওয়া লাও হারাসতা, অর্থাৎ আপনি যত আগ্রহই করুন, তার জবাব এখানে আসে একটা স্মরণ করিয়ে দেওয়ার মধ্য দিয়ে: সেই আগ্রহ ছিল কিসের জন্য।"
+          },
+          {
+            "en": "The English abridgement of Ibn Kathir, in its comment on 12:103, sets that verse beside two others on how few believe: 6:116, if you obey most of those on earth they will lead you astray from Allah's path, and 26:8, in this is a sign, yet most of them are not believers. Our verse follows that observation without softening it. It does not promise that more will believe; it tells the caller where his reward was always kept.",
+            "bn": "ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ ১২:১০৩ আয়াতের আলোচনায় একে আরও দুটি আয়াতের পাশে রাখে, যেগুলো বলে কত কম মানুষ ঈমান আনে। ৬:১১৬: পৃথিবীর অধিকাংশ লোকের কথা মানলে তারা আপনাকে আল্লাহর পথ থেকে বিচ্যুত করবে। আর ২৬:৮: এতে অবশ্যই নিদর্শন আছে, কিন্তু তাদের অধিকাংশই ঈমান আনে না। আমাদের আয়াত এই কঠিন বাস্তবতাকে নরম করে না। বেশি মানুষ ঈমান আনবে, এমন প্রতিশ্রুতিও দেয় না। বরং দাওয়াতদাতাকে জানিয়ে দেয়, তাঁর প্রতিদান সবসময় কোথায় রাখা ছিল।"
+          },
+          {
+            "en": "The logic carries into ordinary life. Whoever works for a return from people is defeated when it does not come. Whoever works for Allah's sake, and for the good of the people in front of him, has not lost what he worked for, whatever those people decide, because the reward he sought was never in their hands. At-Tabari's gloss in the second section says the same in other words: your reward and the wage of your work are with Allah.",
+            "bn": "এ যুক্তি সাধারণ জীবনেও সহজে খাটে। যে মানুষের কাছ থেকে বিনিময় পাওয়ার জন্য কাজ করে, বিনিময় না এলে সে হেরে যায়। কিন্তু যে আল্লাহর জন্য, আর সামনের মানুষগুলোর কল্যাণের জন্য কাজ করে, মানুষগুলো যা-ই সিদ্ধান্ত নিক, তার পরিশ্রম বৃথা যায় না। কারণ যে প্রতিদান সে চেয়েছিল, তা কখনো তাদের হাতে ছিলই না। দ্বিতীয় অংশে তাবারীর যে ব্যাখ্যা এসেছে, তা একই কথা বলে অন্যভাবে: আপনার সওয়াব আর আপনার কাজের মজুরি আল্লাহর কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Reminder That Asks Something",
+          "bn": "যে উপদেশ কিছু দাবি করে"
+        },
+        "p": [
+          {
+            "en": "The verse calls the message dhikr. At-Tabari and al-Baghawi both gloss it with a pair, 'iza and tadhkir, admonition and reminding; al-Qurtubi has 'iza and tadhkira. At-Tabari gives its purpose: so that they take admonition and remember by it. Ibn Kathir takes the remembering further: by it they remember and are guided, and by it they are saved in this world and the Hereafter. In these glosses a reminder is more than information. It is meant to change what a person does.",
+            "bn": "আয়াত বার্তাটিকে বলেছে যিকর। তাবারী ও বাগাভী দুজনেই এর ব্যাখ্যা দেন একজোড়া শব্দে: ইযা ও তাযকীর, অর্থাৎ নসীহত আর স্মরণ করিয়ে দেওয়া। কুরতুবী বলেন ইযা ও তাযকিরা। তাবারী এর উদ্দেশ্যও বলে দেন: যাতে তারা এ থেকে নসীহত নেয় আর স্মরণ রাখে। ইবন কাসীর স্মরণের কথা আরও সামনে নিয়ে যান: এর মাধ্যমে তারা স্মরণ করে, হিদায়াত পায়, আর দুনিয়া ও আখিরাতে নাজাত পায়। এসব ব্যাখ্যায় উপদেশ নিছক তথ্য নয়। এর কাজ মানুষের আমল বদলে দেওয়া।"
+          },
+          {
+            "en": "As-Sa'di's whole comment on the verse is one line, and it is practical: by it they remember what benefits them, so that they do it, and what harms them, so that they leave it. A reminder in his reading always ends in a deed or in giving one up. That suits its place in Surah Yusuf, a long story whose lessons are about conduct: patience, chastity, forgiveness, and gratitude in the good days.",
+            "bn": "সা'দী এ আয়াতের পুরো আলোচনা সেরেছেন একটি বাক্যে, আর বাক্যটি একেবারে কাজের কথা: এর মাধ্যমে তারা স্মরণ করে কোনটা তাদের উপকার করে, যাতে তা করে, আর কোনটা ক্ষতি করে, যাতে তা ছেড়ে দেয়। তাঁর পাঠে উপদেশ গিয়ে শেষ হয় কোনো আমলে, নয়তো কোনো কিছু ছেড়ে দেওয়ায়। সূরা ইউসুফের ভেতরে আয়াতটির জায়গার সঙ্গে এটা মানানসই। দীর্ঘ এই কাহিনির শিক্ষাগুলো আচরণ নিয়েই: সবর, পবিত্রতা, ক্ষমা, আর সুসময়ে কৃতজ্ঞতা।"
+          },
+          {
+            "en": "Then lil-'alamin, to the worlds: for all people together, says the Muyassar. The English abridgement of Ibn Kathir puts men and jinn in brackets after the word; the Arabic Ibn Kathir fetched for this verse leaves the word without a gloss. Either way the reminder is not fenced off for one tribe or one age, which sits pointedly beside 12:103: most of the people around him would not believe, yet it was never addressed to them alone.",
+            "bn": "তারপর লিল আলামীন, বিশ্বজগতের জন্য। মুয়াসসার এর অর্থ করে: সব মানুষের জন্য। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ শব্দটির পরে বন্ধনীতে লেখে মানুষ ও জিন। এ আয়াতের জন্য ইবন কাসীরের যে আরবি ভাষ্য আনা হয়েছে, তাতে শব্দটির আলাদা কোনো ব্যাখ্যা নেই। যেভাবেই পড়ি, উপদেশটি কোনো একটি গোত্র বা একটি যুগের জন্য ঘেরা নয়। ১২:১০৩ আয়াতের পাশে কথাটা বিশেষ অর্থ পায়। তাঁর চারপাশের অধিকাংশ মানুষ ঈমান আনবে না, কিন্তু উপদেশটি কখনো কেবল তাদের জন্য ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Words the Qur'an Repeats",
+          "bn": "কুরআনের বারবার বলা কথা"
+        },
+        "p": [
+          {
+            "en": "The second clause recurs. It appears word for word in 38:87 and 81:27, and in 68:52 with ma in place of in. Twice the Qur'an also joins it to the refusal of payment as a command to say: in 6:90, after the long list of earlier prophets, and in 38:86 and 38:87. In Surah Yusuf the same pair comes as a statement made to the Prophet ﷺ about himself, set directly after the verse on how few will believe.",
+            "bn": "দ্বিতীয় বাক্যাংশটি কুরআনে আরও আসে। ৩৮:৮৭ ও ৮১:২৭ আয়াতে হুবহু একই শব্দে, ইন হুয়া ইল্লা যিকরুন লিল আলামীন। ৬৮:৫২ আয়াতে ইন-এর জায়গায় মা। দুবার কুরআন এটিকে পারিশ্রমিক না চাওয়ার কথার সঙ্গে জুড়ে দিয়েছে 'বলুন' আদেশের আকারে: ৬:৯০ আয়াতে, আগের নবীদের দীর্ঘ তালিকার পরে, আর ৩৮:৮৬ ও ৩৮:৮৭ আয়াতে। সূরা ইউসুফে একই জোড়া এসেছে নবী ﷺ-কে তাঁর নিজের সম্পর্কে বলা একটি বিবরণ হিসেবে, ঠিক সেই আয়াতের পরে, যেখানে বলা হয়েছে কত কম মানুষ ঈমান আনবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counsel Without an Invoice",
+          "bn": "দামের রসিদ ছাড়া নসীহত"
+        },
+        "p": [
+          {
+            "en": "A careful limit first. The verse describes the Prophet's ﷺ own mission. The commentators read here do not draw from it a ruling on whether a teacher, imam or caller today may receive a salary, and this article draws none either. What the verse does show is a quality the commentators prize: counsel given for Allah's sake, which the hearer has no reason to suspect, and whose worth does not depend on being accepted.",
+            "bn": "শুরুতে একটা সীমা টেনে রাখা দরকার। আয়াতটি নবী ﷺ-এর নিজের দায়িত্বের বর্ণনা দেয়। এখানে যাঁদের তাফসীর পড়া হয়েছে, তাঁরা এ থেকে এমন কোনো বিধান বের করেননি যে আজকের কোনো শিক্ষক, ইমাম বা দাঈ বেতন নিতে পারবেন কি না। এ লেখাও এমন কোনো বিধান টানছে না। আয়াতটি যা দেখায়, তা এমন এক গুণ, যাকে তাফসীরকারেরা খুব মূল্য দেন: আল্লাহর জন্য দেওয়া নসীহত, যাকে সন্দেহ করার কোনো কারণ শ্রোতা পায় না, আর যার মূল্য শ্রোতার গ্রহণ করা না করার উপর নির্ভর করে না।"
+          },
+          {
+            "en": "That quality can be tested in small things. Advice to a friend, a correction to a colleague, a verse shared with the family: each can carry a hidden invoice, the wish for thanks, for standing, or for a favour later. As-Sa'di's line offers a simpler aim, that the hearer should be helped to do what benefits him and to leave what harms him. And when the reminder is ignored, Ma'arif's question still stands: if it was given for Allah, why grieve as though it were lost?",
+            "bn": "এই গুণের পরীক্ষা হয় ছোট ছোট জিনিসে। বন্ধুকে দেওয়া পরামর্শ, সহকর্মীর ভুল ধরিয়ে দেওয়া, পরিবারের সঙ্গে একটা আয়াত ভাগ করে নেওয়া। এর প্রতিটির সঙ্গে লুকিয়ে থাকতে পারে একটা অদৃশ্য দামের রসিদ: ধন্যবাদ পাওয়ার ইচ্ছা, সম্মান পাওয়ার ইচ্ছা, কিংবা পরে কোনো সুবিধা পাওয়ার আশা। সা'দীর বাক্যটি এর চেয়ে সরল একটা লক্ষ্য দেখায়: শ্রোতা যেন যা তার উপকার করে তা করতে পারে, আর যা ক্ষতি করে তা ছাড়তে পারে। আর উপদেশ কেউ না শুনলে মাআরিফুল কুরআনের প্রশ্নটা থেকেই যায়: যা আল্লাহর জন্য দেওয়া হয়েছিল, তা হারিয়ে গেছে ভেবে দুঃখ কেন?"
+          },
+          {
+            "en": "The verse's last word turns the question back on the reader as well. A reminder to the worlds is addressed to whoever reads it, including the person who quotes it to others. Before asking why others have not listened, the honest question is which of its reminders I have heard and then walked past, in the way 12:105 describes. The Prophet ﷺ asked nothing for it; the least a reader can give in return is attention.",
+            "bn": "আয়াতের শেষ শব্দটি প্রশ্নটা পাঠকের দিকেও ফিরিয়ে দেয়। বিশ্বজগতের জন্য উপদেশ মানে যে পড়ছে তার জন্যও উপদেশ, যে অন্যকে এটা শোনায় তার জন্যও। অন্যরা কেন শুনল না, সে প্রশ্নের আগে সৎ প্রশ্ন হলো: এর কোন উপদেশটা আমি শুনেছি, তারপর পাশ কাটিয়ে চলে গেছি, ঠিক যেমনটা ১২:১০৫ আয়াত বর্ণনা করে? নবী ﷺ এর জন্য কিছুই চাননি। বিনিময়ে পাঠক অন্তত এটুকু দিতে পারে: মনোযোগ।"
+          }
+        ]
+      }
+    ]
+  },
   "12:107": {
     "sections": [
       {
