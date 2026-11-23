@@ -307,6 +307,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:7": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Case for the Return",
+          "bn": "ফিরে যাওয়ার পক্ষে যুক্তি"
+        },
+        "p": [
+          {
+            "en": "Wa-huwa alladhi khalaqa as-samawati wal-arda fi sittati ayyam: and it is He who created the heavens and the earth in six days. The verse follows two statements about Allah: in 11:4, to Him is your return, and in 11:6, every creature on earth has its provision from Him. At-Tabari reads the new verse against the first. He paraphrases its subject as Allah, to whom all of you return, and turns the clause into a question: can He who created all this from nothing not bring you back alive after He has caused you to die?",
+            "bn": "ওয়া হুওয়াল্লাযী খালাকাস সামাওয়াতি ওয়াল আরদা ফী সিত্তাতি আইয়াম: তিনিই আসমান ও যমীন ছয়টি দিনে সৃষ্টি করেছেন। এর ঠিক আগে আল্লাহ সম্পর্কে দুটি কথা এসেছে। ১১:৪ আয়াতে, তাঁর কাছেই তোমাদের ফিরে যাওয়া। ১১:৬ আয়াতে, যমীনের প্রতিটি প্রাণীর রিযিক তাঁরই দায়িত্বে। তাবারী নতুন আয়াতটি পড়েন প্রথম কথাটির সঙ্গে মিলিয়ে। আয়াতের 'তিনি' বলতে তিনি বোঝান সেই আল্লাহকে, যাঁর কাছে তোমরা সবাই ফিরবে। তারপর বাক্যটিকে তিনি প্রশ্নে রূপ দেন: যিনি শূন্য থেকে এত কিছু বানালেন, মৃত্যুর পর তোমাদের আবার জীবিত করে ফিরিয়ে আনতে তিনি কি অক্ষম?"
+          },
+          {
+            "en": "At-Tabari also records a view that the six days covered what is in the heavens and the earth as well, the two being named and their contents understood. Ibn Kathir opens by saying that Allah here informs of His power over all things. Read with its neighbours, the verse is less a lesson in cosmology than the next step in a case made to people who doubted they would ever be raised.",
+            "bn": "তাবারী আরেকটি মতও উল্লেখ করেন: ছয়টি দিনে আসমান-যমীনের ভেতরের সবকিছুও সৃষ্টি হয়েছে। আয়াতে শুধু দুটির নাম এসেছে, ভেতরের জিনিসগুলো তাতেই বোঝা যায়। ইবন কাসীর শুরুতেই বলেন, আল্লাহ এখানে জানাচ্ছেন যে সবকিছুর উপর তাঁর ক্ষমতা আছে। আশপাশের আয়াতের সঙ্গে মিলিয়ে পড়লে বোঝা যায়, এটি আলাদা কোনো সৃষ্টিতত্ত্বের পাঠ নয়। যারা ভাবত তাদের আর কখনো ওঠানো হবে না, তাদের সামনে যে যুক্তি সাজানো হচ্ছে, এটি তারই পরের ধাপ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Six Days, Several Reports",
+          "bn": "ছয় দিন, নানা বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "On how to picture the six days, the commentators answer from reports that differ. Al-Qurtubi does not linger: he says the matter was explained under al-A'raf. Ma'arif al-Qur'an points to 41:9 to 41:12, where the earth is made in two days, its provisions in two, and the seven heavens in two. It adds that a day is the span from sunrise to sunset once the heavens and earth exist, though at their creation there was no sun to rise, and that Allah could have made it all in a moment but made this world's order gradual, suited to human nature.",
+            "bn": "ছয়টি দিনের ছবি কেমন, এ প্রশ্নের উত্তর তাফসীরকারেরা দেন বর্ণনা থেকে, আর বর্ণনাগুলো এক রকম নয়। কুরতুবী এখানে থামেন না। তিনি বলেন, বিষয়টি সূরা আ'রাফে ব্যাখ্যা করা হয়েছে। মাআরিফুল কুরআন দেখায় ৪১:৯ থেকে ৪১:১২ আয়াত। সেখানে যমীন দুই দিনে, তার খাদ্যসামগ্রী আরও দুই দিনে, আর সাতটি আসমান দুই দিনে। সঙ্গে বলে, আসমান-যমীন তৈরি হওয়ার পরে দিন মানে সূর্যোদয় থেকে সূর্যাস্ত। অথচ সৃষ্টির সময় সূর্যই ছিল না। আল্লাহ চাইলে এক নিমেষে সব বানাতে পারতেন। কিন্তু হিকমতের কারণে তিনি এ দুনিয়ার নিয়মকে ধাপে ধাপে সাজিয়েছেন, যা মানুষের স্বভাবের সঙ্গে মানানসই।"
+          },
+          {
+            "en": "As-Sa'di names the days: the first was Sunday and the last Friday. At-Tabari relays from Ka'b that creation began on Sunday and was finished on Friday, each day made a thousand years, and from ad-Dahhak that these were days of the hereafter, each the length of a thousand years. He also relays a report attributed to the Prophet ﷺ naming a day for each thing created; it was not confirmed on a collection page for this article, so it is only mentioned. The article goes no further than these readings.",
+            "bn": "সা'দী দিনগুলোর নাম বলেন: প্রথমটি রবিবার, শেষটি শুক্রবার। তাবারী কা'ব থেকে বর্ণনা আনেন যে সৃষ্টি শুরু হয়েছিল রবিবারে আর শেষ হয়েছিল শুক্রবারে, আর প্রতিটি দিনকে করা হয়েছিল হাজার বছরের সমান। দাহহাক থেকে আনেন, এগুলো আখিরাতের দিন, যার প্রতিটি হাজার বছরের মতো দীর্ঘ। নবী ﷺ-এর নামে একটি বর্ণনাও তিনি আনেন, যাতে প্রতিটি সৃষ্টির জন্য একটি করে দিনের নাম আছে। এ লেখার জন্য কোনো হাদীস-সংকলনের পাতায় সেটি মিলিয়ে দেখা যায়নি, তাই শুধু উল্লেখ করা হলো। এই মতগুলোর বাইরে এ লেখা যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Throne Before the Heavens",
+          "bn": "আসমানের আগে আরশ"
+        },
+        "p": [
+          {
+            "en": "Wa-kana 'arshuhu 'ala al-ma': and His Throne was upon the water. At-Tabari explains it as before He created the heavens and the earth and what is in them, and relays Mujahid in nearly the same words: before He created anything. Qatada, in at-Tabari and Ibn Kathir, says the clause tells you how His creation began. Al-Qurtubi concludes: the verse shows that the Throne and the water were created before the earth and the sky. On what the water rested, three of them relay Ibn Abbas, who was asked and answered: on the back of the wind.",
+            "bn": "ওয়া কানা আরশুহূ আলাল মা: আর তাঁর আরশ ছিল পানির উপর। তাবারীর ব্যাখ্যা: আসমান, যমীন আর তার ভেতরের সবকিছু সৃষ্টির আগে। মুজাহিদের কথাও তিনি আনেন প্রায় একই ভাষায়: কোনো কিছু সৃষ্টির আগে। তাবারী ও ইবন কাসীর কাতাদার কথা আনেন: এ অংশ জানিয়ে দেয় তাঁর সৃষ্টির শুরুটা কেমন ছিল। কুরতুবী উপসংহারটা সোজা বলে দেন: আয়াত দেখায়, আরশ আর পানি সৃষ্টি হয়েছে যমীন ও আকাশের আগে। পানি কিসের উপর ছিল? তাবারী, ইবন কাসীর ও কুরতুবী তিনজনই ইবন আব্বাস (রাঃ)-এর কথা আনেন। তাঁকে জিজ্ঞেস করা হলে তিনি বলেছিলেন: বাতাসের পিঠে।"
+          },
+          {
+            "en": "Ibn Kathir adds Ibn Abbas's remark that the Throne is called 'arsh for its height, and Muhammad ibn Ishaq's line that it was as He described Himself: nothing but the water, the Throne upon it. As-Sa'di places the Throne above the seventh heaven, and says that once the heavens and earth were made He rose over it (istawa), directing affairs as He wills by His decrees of creation and of law. Al-Qurtubi and al-Baghawi also relay from Ka'b an account of how the water came to be. That is a report from an early narrator, not from the Prophet ﷺ, and nothing here rests on it.",
+            "bn": "ইবন কাসীর ইবন আব্বাস (রাঃ)-এর আরেকটি কথা যোগ করেন: উচ্চতার কারণেই আরশকে আরশ বলা হয়। মুহাম্মাদ ইবন ইসহাকের কথাও আনেন: তিনি নিজেকে যেমন বর্ণনা করেছেন, তেমনই ছিল। পানি ছাড়া আর কিছু ছিল না, আর তার উপর ছিল আরশ। সা'দীর মতে আরশ সপ্তম আসমানের উপরে। আসমান-যমীন সৃষ্টির পর তিনি তার উপর ইসতিওয়া করেন, আর নিজের ইচ্ছামতো সব বিষয় পরিচালনা করেন, সৃষ্টির ফয়সালা দিয়েও, শরীয়তের বিধান দিয়েও। কুরতুবী ও বাগাভী কা'ব থেকে পানি কীভাবে হলো তার একটি বিবরণও আনেন। সেটি প্রাচীন এক বর্ণনাকারীর কথা, নবী ﷺ-এর নয়। এ লেখার কোনো কথা তার উপর দাঁড়িয়ে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Allah Was, and Nothing Else",
+          "bn": "আল্লাহ ছিলেন, আর কিছু নয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir and al-Qurtubi bring here the hadith of Imran ibn Husayn (RA), found in Sahih al-Bukhari. In the version at 3191, Imran had tied his camel at the door when men of Banu Tamim came in. The Prophet ﷺ told them to accept good news; twice they replied that he had given them good news and should now give them something. Then people from Yemen accepted it and asked him about this matter. He said: 'Allah was, and there was nothing other than Him. His Throne was upon the water, He wrote everything in the Record, and He created the heavens and the earth.'",
+            "bn": "ইবন কাসীর ও কুরতুবী এখানে ইমরান ইবন হুসাইন (রাঃ)-এর হাদীস আনেন, যা সহীহ বুখারীতে আছে। ৩১৯১ নম্বরের বর্ণনায় ইমরান দরজায় উট বেঁধে ভেতরে ঢুকেছিলেন। তখন বনু তামীমের কিছু লোক এল। নবী ﷺ তাদের বললেন সুসংবাদ গ্রহণ করতে। তারা দুবার বলল, সুসংবাদ তো দিলেন, এবার কিছু দিন। এরপর ইয়ামানের কিছু লোক এসে সুসংবাদ গ্রহণ করল, আর বলল, তারা এসেছে এই বিষয়ে তাঁকে জিজ্ঞেস করতে। তিনি বললেন: \"আল্লাহ ছিলেন, আর তিনি ছাড়া কিছুই ছিল না। তাঁর আরশ ছিল পানির উপর। তিনি লিপিতে সবকিছু লিখে রাখলেন, আর আসমান ও যমীন সৃষ্টি করলেন।\""
+          },
+          {
+            "en": "A caller then shouted that Imran's camel had gone. He went after it, lost it behind the mirage, and said: by Allah, I wish I had left it. Al-Bukhari gives the hadith again at 7418, where the Yemenis say they came to learn the religion and to ask about the beginning of this matter, and the wording there is that nothing was before Him. The two are separate narrations and are kept apart here.",
+            "bn": "এরপর একজন চিৎকার করে জানাল, ইমরানের উট চলে গেছে। তিনি পেছনে ছুটলেন, কিন্তু মরীচিকার আড়ালে উটটি হারিয়ে গেল। পরে তিনি বলেছিলেন: আল্লাহর কসম, আমার মন চায়, উটটা ছেড়েই দিতাম। বুখারী হাদীসটি আবার এনেছেন ৭৪১৮ নম্বরে। সেখানে ইয়ামানীরা বলে, তারা এসেছে দ্বীন শিখতে আর এই বিষয়ের শুরু সম্পর্কে জানতে। সেখানে ভাষাটা হলো, তাঁর আগে কিছুই ছিল না। দুটি আলাদা বর্ণনা, তাই এখানে দুটিকে মেশানো হয়নি।"
+          },
+          {
+            "en": "Ibn Kathir adds a report from Sahih Muslim (2653). Abdullah ibn Amr ibn al-As (RA) heard the Prophet ﷺ say: 'Allah wrote down the measures of all creatures fifty thousand years before He created the heavens and the earth.' He said: 'And His Throne was upon the water.' He also notes that al-Bukhari, explaining this verse, recorded from Abu Hurayrah (RA) that the Prophet ﷺ said Allah said 'Spend, and I will spend on you', and that Allah's hand is full, its giving never diminished by night or day. That second hadith, at 4684, ends with His Throne upon the water and the scale in His hand.",
+            "bn": "ইবন কাসীর সহীহ মুসলিম থেকে আরেকটি বর্ণনা যোগ করেন (২৬৫৩)। আবদুল্লাহ ইবন আমর ইবনুল আস (রাঃ) নবী ﷺ-কে বলতে শুনেছেন: \"আসমান ও যমীন সৃষ্টির পঞ্চাশ হাজার বছর আগে আল্লাহ সব সৃষ্টির তাকদীর লিখে রেখেছেন।\" তিনি বললেন: \"আর তাঁর আরশ ছিল পানির উপর।\" ইবন কাসীর আরও জানান, বুখারী এই আয়াতের ব্যাখ্যায় আবু হুরাইরা (রাঃ) থেকে হাদীস এনেছেন। সেখানে নবী ﷺ বলেছেন, আল্লাহ বলেন, খরচ করো, আমি তোমার উপর খরচ করব। আরও বলেছেন, আল্লাহর হাত ভরা, রাতদিনের দান তা কমাতে পারে না। ৪৬৮৪ নম্বরের এই হাদীসের শেষে আছে পানির উপর তাঁর আরশ, আর তাঁর হাতে দাঁড়িপাল্লা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which of You Does Best",
+          "bn": "সবচেয়ে বেশি নয়, সবচেয়ে সুন্দর"
+        },
+        "p": [
+          {
+            "en": "Li-yabluwakum ayyukum ahsanu 'amala: that He might test you, which of you is best in deed. At-Tabari glosses the verb as to try you, and best in deed as best in obedience to Him, and reads the clause after both creations, the heavens and the earth and you yourselves. Ibn Kathir explains the purpose: He created the heavens and the earth for the benefit of His servants, whom He created to worship Him alone, and He did not create them in vain. He cites 38:27, 23:115 and 51:56 for the point.",
+            "bn": "লিইয়াবলুওয়াকুম আইয়ুকুম আহসানু আমালা: যাতে তিনি তোমাদের পরীক্ষা করেন, আমলে কে সবচেয়ে সুন্দর। তাবারী ক্রিয়াটির অর্থ করেন যাচাই করা। আর আমলে সবচেয়ে সুন্দর মানে তাঁর আনুগত্যে সবচেয়ে সুন্দর। তাঁর পাঠে এ অংশ দুই সৃষ্টির পরে আসে: আসমান-যমীন, আর তোমরা নিজেরাও। ইবন কাসীর উদ্দেশ্যটা খুলে বলেন। আল্লাহ আসমান-যমীন বানিয়েছেন বান্দাদের উপকারের জন্য, আর বান্দাদের বানিয়েছেন যেন তারা শুধু তাঁরই ইবাদত করে। এ সৃষ্টি তিনি অনর্থক করেননি। কথাটির পক্ষে তিনি আনেন ৩৮:২৭, ২৩:১১৫ ও ৫১:৫৬ আয়াত।"
+          },
+          {
+            "en": "Then comes Ibn Kathir's best-known remark. The verse did not say which of you does most, but which of you does best. A deed is not good, he says, until it is done sincerely for Allah and according to the law of His Messenger ﷺ; if it lacks either condition, it is void. The Muyassar gives the same two conditions in a line: the best deed is the one done purely for Allah and in agreement with what the Messenger ﷺ was upon. Ma'arif al-Qur'an draws the practical line: a little done sincerely and by the Sunnah outweighs much done without them.",
+            "bn": "এরপর ইবন কাসীর সেই কথাটি বলেন, যা বেশির ভাগ পাঠকের মনে থেকে যায়। আয়াত বলেনি কে বেশি আমল করে। বলেছে, কে সবচেয়ে সুন্দর আমল করে। তাঁর মতে কোনো আমল তখনই ভালো, যখন তা খাঁটিভাবে আল্লাহর জন্য হয়, আর রাসূল ﷺ-এর শরীয়ত মেনে হয়। এ দুটির একটিও না থাকলে আমল বাতিল। মুয়াসসার একই দুই শর্ত এক লাইনে বলে দেয়: সবচেয়ে সুন্দর আমল সেটি, যা শুধু আল্লাহর জন্য, আর রাসূল ﷺ যে পথে ছিলেন তার সঙ্গে মেলে। মাআরিফুল কুরআন এর বাস্তব দিকটা দেখায়: ইখলাস আর সুন্নাহ মেনে করা অল্প আমল, এ দুটি ছাড়া করা অনেক আমলের চেয়ে উত্তম।"
+          },
+          {
+            "en": "As-Sa'di relays al-Fudayl ibn Iyad's well-known gloss: the best deed is the most sincere and the most correct. Asked what he meant, al-Fudayl said that a deed which is sincere but not correct is not accepted, and a deed that is correct but not sincere is not accepted, until it is both. Sincere means done for the sake of Allah; correct means following the law and the Sunnah. As-Sa'di then joins the clause to 51:56: Allah made creation to worship Him and to know Him by His names and attributes, and He must gather them where they are repaid.",
+            "bn": "সা'দী ফুদাইল ইবন ইয়াদের বিখ্যাত ব্যাখ্যাটি আনেন: সবচেয়ে সুন্দর আমল মানে সবচেয়ে খাঁটি আর সবচেয়ে সঠিক আমল। এর মানে জিজ্ঞেস করা হলে ফুদাইল বলেন, আমল খাঁটি হলো কিন্তু সঠিক হলো না, তাহলে কবুল হয় না। সঠিক হলো কিন্তু খাঁটি হলো না, তাহলেও কবুল হয় না। দুটোই হতে হবে। খাঁটি মানে আল্লাহর সন্তুষ্টির জন্য করা। সঠিক মানে শরীয়ত ও সুন্নাহ মেনে করা। এরপর সা'দী অংশটিকে ৫১:৫৬ আয়াতের সঙ্গে মেলান। আল্লাহ সৃষ্টিকে বানিয়েছেন তাঁর ইবাদতের জন্য, আর তাঁর নাম ও গুণাবলি দিয়ে তাঁকে চেনার জন্য। তাই এমন এক ঘরে তাদের একত্র করা অবধারিত, যেখানে তিনি প্রতিদান দেবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Test Measures",
+          "bn": "পরীক্ষাটা কী মাপে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi collects what the early generations said is being tested. For Qatada, which of you is most complete in understanding; for al-Hasan and Sufyan ath-Thawri, which of you most renounces the world; for ad-Dahhak, which of you is most grateful; for Muqatil, which of you most fears Allah; for Ibn Abbas, which of you does most in obedience to Allah. Al-Baghawi joins two of these: whoever does most in obedience to Allah and keeps furthest from what He has forbidden. Ibn Jurayj, in at-Tabari, says the you of the verse means the two weighty kinds, jinn and humans.",
+            "bn": "কী পরীক্ষা হচ্ছে, এ নিয়ে পূর্বসূরিদের কথাগুলো কুরতুবী এক জায়গায় জড়ো করেন। কাতাদার মতে, কার বুদ্ধি সবচেয়ে পূর্ণ। হাসান ও সুফিয়ান সাওরীর মতে, দুনিয়ার প্রতি কে সবচেয়ে অনাসক্ত। দাহহাকের মতে, কে সবচেয়ে বেশি শোকরগুজার। মুকাতিলের মতে, কে আল্লাহকে সবচেয়ে বেশি ভয় করে। ইবন আব্বাস (রাঃ)-এর মতে, আল্লাহর আনুগত্যে কে সবচেয়ে বেশি আমল করে। বাগাভী এর দুটিকে এক করেন: যে আল্লাহর আনুগত্যে সবচেয়ে বেশি আমল করে, আর তাঁর হারাম থেকে সবচেয়ে দূরে থাকে। তাবারীর বর্ণনায় ইবন জুরাইজ বলেন, আয়াতের 'তোমরা' মানে দুই ভারী জাতি, জিন ও মানুষ।"
+          },
+          {
+            "en": "Al-Qurtubi gives the test a second object: Allah created all this to try His servants by whether they take heed, and reason from it to His complete power and to the resurrection. At-Tabari and al-Qurtubi also relay a report raised to the Prophet ﷺ on this phrase, from Ibn Umar; no collector's grading for it appears in the texts fetched, and it is not used. The clause returns in 67:2, where He created death and life to test you, and, as ayyuhum ahsanu 'amala, in 18:7, of what adorns the earth.",
+            "bn": "কুরতুবী পরীক্ষার আরেকটি দিক দেখান। আল্লাহ এসব সৃষ্টি করেছেন বান্দাদের যাচাই করতে: তারা শিক্ষা নেয় কি না, আর এখান থেকে তাঁর পূর্ণ ক্ষমতা ও পুনরুত্থানের দিকে যুক্তি টানে কি না। এই অংশ নিয়ে ইবন উমার (রাঃ) থেকে নবী ﷺ-এর নামে একটি বর্ণনা তাবারী ও কুরতুবী দুজনেই আনেন। এখানে পড়া লেখাগুলোতে কোনো সংকলকের মান নির্ণয় তার সঙ্গে পাওয়া যায়নি, তাই সেটি ব্যবহার করা হয়নি। একই কথা ফিরে আসে ৬৭:২ আয়াতে, যেখানে তিনি মৃত্যু ও জীবন সৃষ্টি করেছেন তোমাদের পরীক্ষার জন্য। আবার ১৮:৭ আয়াতে, যমীনের সাজসজ্জার কথায়, সামান্য শব্দভেদে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing but Plain Magic",
+          "bn": "স্পষ্ট জাদু ছাড়া কিছু নয়"
+        },
+        "p": [
+          {
+            "en": "Wa-la'in qulta innakum mab'uthuna min ba'di al-mawt: and if you say, you will be raised after death. At-Tabari reads it as Allah telling His Prophet ﷺ: if you say this to the idolaters of your people and recite My revelation on it, they will say that what you recite is nothing but magic, plain to whoever hears it. Al-Baghawi and the Muyassar take this to mean the Qur'an. Hamza and al-Kisa'i read sahirun, a sorcerer, and at-Tabari, al-Qurtubi and al-Baghawi explain that on this reading they meant the Prophet ﷺ himself.",
+            "bn": "ওয়া লাইন কুলতা ইন্নাকুম মাবঊসূনা মিন বা'দিল মাওত: আর যদি তুমি বলো, মৃত্যুর পর তোমাদের ওঠানো হবে। তাবারীর পাঠে আল্লাহ তাঁর নবী ﷺ-কে বলছেন: তোমার কওমের মুশরিকদের যদি এ কথা বলো, আর এ বিষয়ে আমার ওহী তাদের পড়ে শোনাও, তারা বলবে, তুমি যা পড়ছ তা জাদু ছাড়া কিছু নয়, যে শোনে তার কাছেই স্পষ্ট। বাগাভী ও মুয়াসসারের মতে 'এটা' বলতে তারা বুঝিয়েছিল কুরআনকে। হামযা ও কিসাঈ পড়েছেন সাহির, অর্থাৎ জাদুকর। তাবারী, কুরতুবী ও বাগাভী ব্যাখ্যা করেন, এই কিরাআতে তারা স্বয়ং নবী ﷺ-কে বুঝিয়েছিল।"
+          },
+          {
+            "en": "Ibn Kathir points to the contradiction in the charge. These same people, he says, knew that Allah created the heavens and the earth, as 29:61 reports, yet denied the resurrection, which in relation to His power is easier than the beginning; he cites 30:27 and 31:28. Their reply, in his reading, comes from disbelief and stubbornness: we will not believe you about the resurrection, and only someone you have bewitched would follow you. Al-Qurtubi explains sihr here as empty deception, since magic was something false in their eyes. As-Sa'di answers in a single line: and it is the plain truth.",
+            "bn": "অভিযোগের ভেতরের স্ববিরোধটা ইবন কাসীর ধরিয়ে দেন। তাঁর ভাষায়, এই লোকেরাই জানত যে আসমান-যমীন আল্লাহ বানিয়েছেন, যেমন ২৯:৬১ আয়াত জানায়। অথচ তারা পুনরুত্থান অস্বীকার করত, যা তাঁর ক্ষমতার বিচারে প্রথম সৃষ্টির চেয়েও সহজ। এর পক্ষে তিনি আনেন ৩০:২৭ ও ৩১:২৮ আয়াত। তাঁর পাঠে তাদের জবাবের উৎস কুফর আর জেদ: পুনরুত্থানের কথায় আমরা তোমাকে বিশ্বাস করব না, তোমাকে মানে কেবল সে-ই, যাকে তুমি জাদু করেছ। কুরতুবী এখানে সিহরের অর্থ করেন অসার ধোঁকা, কারণ তাদের চোখে জাদু ছিল মিথ্যা জিনিস। সা'দী জবাব দেন এক লাইনে: অথচ এটাই স্পষ্ট সত্য।"
+          },
+          {
+            "en": "This needs saying plainly. The verse reports what particular deniers said to the Prophet ﷺ in his own time, and the commentators identify them as the idolaters of his people. It records their words in order to answer them. It gives no licence to label, insult or harm any living person or community who doubts the resurrection today. The clause turns instead towards the reader, because it is possible to affirm every word about rising again and still live as though the day will never arrive.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জানায়, নবী ﷺ-এর সময়ের নির্দিষ্ট কিছু অস্বীকারকারী তাঁকে কী বলেছিল। তাফসীরকারেরা তাদের চিহ্নিত করেন তাঁর কওমের মুশরিক হিসেবে। তাদের কথা এখানে এসেছে তার জবাব দেওয়ার জন্য। আজ যে কোনো মানুষ বা সম্প্রদায় পুনরুত্থান নিয়ে সন্দেহ করে, তাকে তকমা দেওয়ার, গালি দেওয়ার বা ক্ষতি করার কোনো অনুমতি এ আয়াত দেয় না। বরং আয়াতের আঙুল ঘুরে আসে পাঠকের দিকে। আবার ওঠার প্রতিটি কথা মুখে মেনেও এমনভাবে বাঁচা সম্ভব, যেন সেই দিন কখনো আসবেই না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From the Throne to Today",
+          "bn": "আরশ থেকে আজকের দিন"
+        },
+        "p": [
+          {
+            "en": "The verse runs straight from a Throne set before anything existed to the deed you will do this afternoon. Its purpose clause stands in the middle and holds the two together: the heavens were made so that you could be tried. Ibn Kathir's two conditions turn that into something a person can actually check before acting. Whom is this for? And is this the way the Messenger ﷺ did it, or my own improvement on it?",
+            "bn": "আয়াতটি এক টানে চলে আসে সেই আরশ থেকে, যা সবকিছুর আগে ছিল, আজ বিকেলে আপনি যে কাজটি করবেন সেই কাজ পর্যন্ত। মাঝখানে দাঁড়িয়ে আছে উদ্দেশ্যের অংশটি, যা দুই প্রান্তকে বেঁধে রাখে: আসমান বানানো হয়েছে যাতে আপনাকে পরীক্ষা করা যায়। ইবন কাসীরের দুই শর্ত একে এমন কিছুতে পরিণত করে, যা কাজের আগে সত্যিই মিলিয়ে দেখা যায়। এটা কার জন্য করছি? আর রাসূল ﷺ কি এভাবেই করতেন, নাকি এটা আমার নিজের সংযোজন?"
+          },
+          {
+            "en": "Imran's hadith carries a quieter lesson of its own. He left a gathering where the beginning of creation was being explained to chase a runaway camel, lost sight of it in the mirage, and later said he wished he had let it go. Most of what pulls a person away from what matters is smaller than a camel: a notification, an errand, a worry. The verse asks which of you is best in deed, and part of the answer may lie in what you are willing to leave unchased.",
+            "bn": "ইমরান (রাঃ)-এর হাদীসে নিজস্ব একটি নিঃশব্দ শিক্ষাও আছে। যে মজলিসে সৃষ্টির শুরুর কথা বলা হচ্ছিল, সেটি ছেড়ে তিনি পালানো উটের পেছনে ছুটেছিলেন। মরীচিকার আড়ালে উটটি তবু হারিয়ে গেল, আর পরে তিনি বলেছিলেন, ছেড়ে দিলেই ভালো হতো। যা মানুষকে আসল জিনিস থেকে টেনে সরায়, তার বেশির ভাগই উটের চেয়ে অনেক ছোট: একটা নোটিফিকেশন, একটা কাজের তাড়া, একটা দুশ্চিন্তা। আয়াত জানতে চায়, আমলে কে সবচেয়ে সুন্দর। উত্তরের একটা অংশ হয়তো লুকিয়ে আছে এখানে: কোন জিনিসের পেছনে আপনি না ছুটতে রাজি।"
+          }
+        ]
+      }
+    ]
+  },
   "11:10": {
     "sections": [
       {

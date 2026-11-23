@@ -32783,6 +32783,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Whatever you seek through a good deed is what you are paid. Do it for Allah, and do not settle for a wage that ends with this world.",
     "lessonBn": "ভালো কাজের মাধ্যমে যা চাইবেন, পাওনা হিসেবে তা-ই পাবেন। কাজটা আল্লাহর জন্য করুন, আর এমন মজুরিতে সন্তুষ্ট হবেন না, যা এই দুনিয়াতেই ফুরিয়ে যায়।"
+  },
+  "11:7": {
+    "reflectionEn": "Before the heavens and the earth existed, the verse says, His Throne was upon the water. Then He made them in six days, and the reason comes in one short clause: to test you, which of you is best in deed. It does not ask which of you does the most. The question put to every life is about quality: was the work done for Him, and was it done in the way He asked? The verse closes on people who heard this and called the news of rising after death plain magic. They did not deny the Maker; they denied the return. I can make their mistake more quietly, believing in the Creator while living as though nothing I do will ever be weighed.",
+    "reflectionBn": "আসমান-যমীন তখনো নেই, আয়াত বলছে, তাঁর আরশ ছিল পানির উপর। তারপর ছয় দিনে তিনি সেগুলো সৃষ্টি করলেন, আর কারণটা এল ছোট্ট এক বাক্যে: তোমাদের পরীক্ষা করার জন্য, কে আমলে সবচেয়ে সুন্দর। কে সবচেয়ে বেশি করে, সে প্রশ্ন এখানে নেই। প্রতিটি জীবনের সামনে প্রশ্নটা মানের: কাজটা কি তাঁর জন্য ছিল, আর তিনি যেভাবে বলেছেন সেভাবে কি হয়েছে? আয়াতের শেষে এমন লোকদের কথা, যারা এসব শুনে মৃত্যুর পর ওঠানোর খবরকে বলেছিল স্পষ্ট জাদু। স্রষ্টাকে তারা অস্বীকার করেনি, অস্বীকার করেছে ফিরে যাওয়াকে। একই ভুল আমিও করতে পারি, আরও নিঃশব্দে। মুখে স্রষ্টাকে মানি, অথচ চলি এমনভাবে যেন আমার কোনো কাজই কোনোদিন মাপা হবে না।",
+    "pointsEn": [
+      "If this week's deeds were judged for how good they were rather than how many, which one would I most want to do again, properly?",
+      "Which act of worship do I now perform mostly out of habit, and what would it take to do it for Allah alone again?",
+      "Where have I settled into my own way of doing good when the Prophet ﷺ showed a better one?",
+      "Do I believe in the return in a way that changes what I do tomorrow, or only in a way I would affirm if someone asked?",
+      "When I look up at the sky, do I see only its size, or also the question it was made to put to me?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহের আমল যদি সংখ্যা দিয়ে নয়, মান দিয়ে মাপা হতো, কোন কাজটা আমি আবার ঠিকঠাক করে করতে চাইতাম?",
+      "কোন ইবাদত এখন মূলত অভ্যাসের বশে করি? সেটাকে আবার শুধু আল্লাহর জন্য করতে আমার কী লাগবে?",
+      "ভালো কাজের কোন জায়গায় আমি নিজের বানানো পথে থিতু হয়ে গেছি, অথচ নবী ﷺ এর চেয়ে ভালো পথ দেখিয়ে গেছেন?",
+      "ফিরে যাওয়ার উপর আমার বিশ্বাস কি কালকের কাজ বদলে দেয়, নাকি কেউ জিজ্ঞেস করলে শুধু হ্যাঁ বলার মতো বিশ্বাস?",
+      "আকাশের দিকে তাকালে আমি কি শুধু তার বিশালতা দেখি, নাকি সেই প্রশ্নটাও দেখি, যা আমাকে করার জন্যই তাকে বানানো হয়েছে?"
+    ],
+    "lessonEn": "You were created to be tested on how well you act, not how much. Do each deed for Allah alone, and in the way His Messenger ﷺ showed.",
+    "lessonBn": "আপনাকে সৃষ্টি করা হয়েছে আমলের মান দিয়ে পরীক্ষার জন্য, পরিমাণ দিয়ে নয়। প্রতিটি কাজ করুন শুধু আল্লাহর জন্য, আর তাঁর রাসূল ﷺ যেভাবে দেখিয়েছেন সেভাবে।"
   }
 };
 
