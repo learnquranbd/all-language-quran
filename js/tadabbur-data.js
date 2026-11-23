@@ -30523,6 +30523,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let Allah's warnings reach your ears instead of blocking them, for no shelter built from fear puts anyone beyond the reach of the One who surrounds all.",
     "lessonBn": "আল্লাহর সতর্কবাণী কানে আঙুল দিয়ে আটকাবেন না, শুনুন। ভয়ে বানানো কোনো আড়াল কাউকে তাঁর নাগাল থেকে বের করে দিতে পারে না, যিনি সবকিছু ঘিরে আছেন।"
+  },
+  "3:87": {
+    "reflectionEn": "Nine words, and they come straight after a question: how would Allah guide a people who disbelieved after believing, after they bore witness that the Messenger is true and clear proofs had reached them? Their recompense is a curse from Allah, from the angels and from the people, all together. The weight of the verse falls on knowing. These are not people who never heard. They saw, they testified, and then they turned. Two verses later a door opens: except those who repent after that and set things right. So this is no weapon to aim at anyone. It is a warning to keep for myself. What truth have I already witnessed and then started to live as if I had not?",
+    "reflectionBn": "আয়াতটি মাত্র ৯টি শব্দের, আর এসেছে একটি প্রশ্নের ঠিক পরে। যারা ঈমান আনার পর কুফরী করল, রাসূলকে সত্য বলে সাক্ষ্য দিল, স্পষ্ট প্রমাণও তাদের কাছে পৌঁছাল, আল্লাহ তাদের কীভাবে পথ দেখাবেন? তাদের প্রতিফল হলো আল্লাহর লানত, ফেরেশতাদের লানত, আর সব মানুষের লানত। আয়াতের ভার পড়েছে জানার উপর। এরা এমন লোক নয় যারা কখনো শোনেনি। তারা দেখেছে, সাক্ষ্য দিয়েছে, তারপর মুখ ফিরিয়েছে। দুই আয়াত পরেই একটি দরজা খুলে যায়: তবে যারা এরপর তওবা করে আর নিজেদের শুধরে নেয়, তারা আলাদা। তাই এ আয়াত কারও দিকে তাক করার অস্ত্র নয়। এ সতর্কবাণী নিজের জন্য রাখার। কোন সত্য আমি নিজের চোখে দেখেছি, অথচ এখন এমনভাবে চলছি যেন দেখিনি?",
+    "pointsEn": [
+      "Which truth have I already admitted with my own tongue, yet keep putting off acting upon?",
+      "When a proof reaches me and it is clear, do I let it settle the matter, or do I go looking for reasons to keep my old way?",
+      "Do I read a verse of curse as a verdict on other people, or as a warning spoken to my own heart?",
+      "If I have slipped back from something I once held firmly, what is the first step of return I can take today?",
+      "How careful is my tongue with curses, when this verse reports Allah's judgment and hands me none to deal out?"
+    ],
+    "pointsBn": [
+      "কোন সত্য আমি নিজের মুখে মেনে নিয়েছি, অথচ সে অনুযায়ী আমল করা কেবলই পিছিয়ে দিচ্ছি?",
+      "স্পষ্ট প্রমাণ সামনে এলে আমি কি তাতেই বিষয়টা মিটিয়ে ফেলি, নাকি পুরোনো পথ আঁকড়ে থাকার অজুহাত খুঁজতে থাকি?",
+      "লানতের আয়াত পড়ে আমি কি একে অন্যদের বিরুদ্ধে রায় ভাবি, নাকি আমার নিজের অন্তরের জন্য সতর্কবাণী?",
+      "যে জিনিস একসময় শক্ত করে ধরে ছিলাম, তা থেকে যদি পিছলে গিয়ে থাকি, আজ ফেরার প্রথম কদমটা কী হতে পারে?",
+      "এ আয়াত আল্লাহর ফয়সালার খবর দেয়, কাউকে লানত বিলানোর দায়িত্ব আমার হাতে দেয় না। তাহলে লানতের ব্যাপারে আমার জিহ্বা কতটা সাবধান?"
+    ],
+    "lessonEn": "Hold on to the truth you have witnessed, for turning from it knowingly earns a curse; yet the verses that follow keep repentance open to whoever returns and sets things right.",
+    "lessonBn": "যে সত্যের সাক্ষী আপনি হয়েছেন, তা আঁকড়ে থাকুন, কারণ জেনেশুনে তা থেকে ফিরে যাওয়া লানত ডেকে আনে। তবু পরের আয়াতগুলো তওবার দরজা খোলা রাখে, যে ফিরে আসে আর নিজেকে শুধরে নেয় তার জন্য।"
   }
 };
 

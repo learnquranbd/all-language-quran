@@ -3575,6 +3575,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:87": {
+    "sections": [
+      {
+        "h": {
+          "en": "Nine Words After a Question",
+          "bn": "এক প্রশ্নের জবাবে নয় শব্দ"
+        },
+        "p": [
+          {
+            "en": "Ula'ika jaza'uhum anna 'alayhim la'nata Allahi wa-al-mala'ikati wa-al-nasi ajma'in: those, their recompense is that upon them is the curse of Allah and the angels and the people, all together. The verse has nine Arabic words, and it answers the question asked in 3:86: how would Allah guide a people who disbelieved after their belief, who bore witness that the Messenger is true, and to whom clear proofs had come? Ula'ika, those, points back to exactly these people.",
+            "bn": "উলাইকা জাযাউহুম আন্না আলাইহিম লা'নাতাল্লাহি ওয়াল মালাইকাতি ওয়ান্নাসি আজমাঈন: এরাই তারা, যাদের প্রতিফল হলো তাদের উপর আল্লাহর লানত, ফেরেশতাদের লানত এবং সব মানুষের লানত। আরবিতে আয়াতটি মাত্র ৯টি শব্দের। ৩:৮৬ আয়াতে একটি প্রশ্ন উঠেছিল: যারা ঈমান আনার পর কুফরী করল, রাসূলকে সত্য বলে সাক্ষ্য দিল, আর যাদের কাছে স্পষ্ট প্রমাণ এসে গিয়েছিল, আল্লাহ তাদের কীভাবে পথ দেখাবেন? এ আয়াত সেই প্রশ্নেরই জবাব। উলাইকা, অর্থাৎ এরাই, শব্দটি ঠিক ওই লোকদের দিকেই ইশারা করে।"
+          },
+          {
+            "en": "The passage runs in a tight order. Before it, 3:83 to 3:85 asked whether anyone seeks a religion other than Allah's and declared that no other will be accepted. Then 3:86 names people who had believed and then turned. This verse gives their recompense, and 3:88 adds that they remain in it, that the punishment is not lightened for them and that they are given no respite. Then 3:89 opens with illa, except: except those who repent after that and set things right.",
+            "bn": "অংশটির ক্রম খুব আঁটসাঁট। এর আগে ৩:৮৩ থেকে ৩:৮৫ আয়াতে প্রশ্ন করা হয়েছে, কেউ কি আল্লাহর দ্বীন ছাড়া অন্য দ্বীন খোঁজে? সঙ্গে ঘোষণা এসেছে, অন্য কোনো দ্বীন কবুল হবে না। তারপর ৩:৮৬ আয়াত এমন লোকদের কথা বলে, যারা ঈমান এনে পরে ফিরে গেছে। এ আয়াত জানায় তাদের প্রতিফল। ৩:৮৮ যোগ করে, তারা তাতেই থাকবে, শাস্তি হালকা হবে না, অবকাশও মিলবে না। তারপর ৩:৮৯ শুরু হয় ইল্লা দিয়ে, মানে তবে: তবে যারা এরপর তওবা করে আর নিজেদের শুধরে নেয়।"
+          },
+          {
+            "en": "That exception belongs to its own verse, and this article only points to it. Still, the order shapes how this sentence is read. The curse is announced, its duration is stated, and only then does a way out appear. A reader who stops at 3:87 has heard a verdict and nothing more. A reader who goes on two verses learns that the verdict was not the last word for everyone it first described, as the story behind the passage will show.",
+            "bn": "ওই ব্যতিক্রম নিজের আয়াতেরই বিষয়। এ লেখা শুধু সেদিকে ইশারা করে রাখছে। তবু ক্রমটা এ বাক্য পড়ার ধরন ঠিক করে দেয়। আগে লানতের ঘোষণা, তারপর তার মেয়াদ, আর একেবারে শেষে বেরোনোর পথ। যে পাঠক ৩:৮৭-এ থেমে যান, তিনি শুধু একটা রায় শুনলেন। যিনি আরও দুই আয়াত এগোন, তিনি জানতে পারেন, যাদের কথা প্রথমে বলা হয়েছিল তাদের সবার জন্য এ রায় শেষ কথা ছিল না। অংশটির পেছনের ঘটনাই তা দেখিয়ে দেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Recompense, Distance and Prayer",
+          "bn": "প্রতিফল, দূরত্ব আর বদদোয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari takes the verse word by word. Jaza'uhum, their recompense, he glosses as their thawab for the deed they did, the same word that elsewhere names a good reward. Anna 'alayhim la'nat Allah means that from Allah there descends on them exclusion and distance, al-iqsa' wa-al-bu'd. From the angels and the people the curse is something else: a prayer against them, asking for the punishment that will harm them. One word, two acts, depending on who performs it.",
+            "bn": "তাবারী আয়াতটি শব্দ ধরে ধরে ব্যাখ্যা করেন। জাযাউহুম, তাদের প্রতিফল, এর অর্থ তিনি বলেন তাদের কৃতকর্মের সাওয়াব। অন্য জায়গায় এই শব্দই ভালো পুরস্কার বোঝায়। আন্না আলাইহিম লা'নাতাল্লাহ মানে আল্লাহর পক্ষ থেকে তাদের উপর নেমে আসে বহিষ্কার আর দূরত্ব, আল-ইকসা ওয়াল-বু'দ। ফেরেশতা ও মানুষের লানত আবার অন্য জিনিস। সেটা তাদের বিরুদ্ধে দোয়া, এমন শাস্তির প্রার্থনা যা তাদের কষ্ট দেবে। শব্দ একটাই, কিন্তু কে করছে তার উপর নির্ভর করে কাজ দুই রকম।"
+          },
+          {
+            "en": "Ajma'in, all together, he reads with force: from all of them, not from some of those Allah named among the angels and the people, but from each and all of them. He gives the reason in a single line. Allah made this the reward of their deed because their deed was disbelief in Allah. Ibn Kathir compresses the whole verse into a short sentence, Allah curses them and His creation curses them, choosing the broad word khalq, creation, for those who join in the curse.",
+            "bn": "আজমাঈন, অর্থাৎ সবাই মিলে, শব্দটিকে তাবারী জোর দিয়ে পড়েন। আল্লাহ ফেরেশতা ও মানুষের যাদের নাম নিয়েছেন, তাদের কয়েকজনের পক্ষ থেকে নয়, সবার পক্ষ থেকে। কারণটাও তিনি এক বাক্যে বলে দেন। আল্লাহ এটাকে তাদের কাজের প্রতিফল বানিয়েছেন, কারণ তাদের কাজটাই ছিল আল্লাহর সঙ্গে কুফরী। ইবন কাসীর পুরো আয়াতকে ছোট্ট এক বাক্যে গুটিয়ে আনেন: আল্লাহ তাদের লানত করেন, আর তাঁর সৃষ্টিও তাদের লানত করে। লানতে যারা শরিক, তাদের বোঝাতে তিনি বেছে নেন খালক, অর্থাৎ সৃষ্টি, এই বড় শব্দটি।"
+          },
+          {
+            "en": "At-Tabari says he has already explained elsewhere how the people curse a disbeliever, and al-Qurtubi says the meaning was given in al-Baqarah. The place is 2:161, which carries the same words. There al-Qurtubi separates the two sides of la'n: its root is driving away and putting far, so from servants the curse is that driving away, and from Allah it is punishment. The Muyassar draws the plain conclusion for 3:87: they are driven away from the mercy of Allah.",
+            "bn": "তাবারী বলেন, মানুষ কীভাবে কাফিরকে লানত করে, তা তিনি অন্য জায়গায় বুঝিয়ে এসেছেন। কুরতুবীও বলেন, এর অর্থ সূরা বাকারায় আগেই বলা হয়েছে। জায়গাটি ২:১৬১, সেখানে হুবহু এই শব্দগুলোই আছে। সেখানে কুরতুবী লানতের দুই দিক আলাদা করে দেখান। শব্দটির মূল অর্থ তাড়িয়ে দেওয়া, দূরে সরিয়ে দেওয়া। তাই বান্দার পক্ষ থেকে লানত মানে ওই তাড়িয়ে দেওয়া, আর আল্লাহর পক্ষ থেকে লানত মানে শাস্তি। মুয়াসসার ৩:৮৭-এর বেলায় সোজা উপসংহার টানে: তারা আল্লাহর রহমত থেকে বিতাড়িত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Can Everyone Curse Them?",
+          "bn": "সবাই কীভাবে লানত করে?"
+        },
+        "p": [
+          {
+            "en": "The phrase raises an obvious question, and at-Tabari asks it himself at 2:161: how can all people curse someone who died rejecting the Prophet ﷺ, when most of humanity does not believe in him either? He reports three answers. Qatadah and ar-Rabi' said that the people all together means the believers in particular. Abu al-'Aliyah said it happens on the Day of Resurrection: the disbeliever is made to stand, and Allah curses him, then the angels, then all the people.",
+            "bn": "কথাটা শুনলেই একটা প্রশ্ন জাগে, আর তাবারী ২:১৬১ আয়াতে নিজেই প্রশ্নটা তোলেন। যে লোক নবী ﷺ-কে অস্বীকার করে মারা গেল, সব মানুষ তাকে কীভাবে লানত করবে, যখন মানুষের বেশির ভাগই তো তাঁর উপর ঈমান আনেনি? তিনি তিনটি জবাব উল্লেখ করেন। কাতাদা ও রাবী বলেছেন, সব মানুষ বলতে এখানে শুধু মুমিনদের বোঝানো হয়েছে। আবুল আলিয়া বলেছেন, এটা ঘটবে কিয়ামতের দিন। কাফিরকে দাঁড় করানো হবে, প্রথমে আল্লাহ তাকে লানত করবেন, তারপর ফেরেশতারা, তারপর সব মানুষ।"
+          },
+          {
+            "en": "As-Suddi gave a third answer. No two people, believers or disbelievers, curse each other with the words, may Allah curse the wrongdoer, without that curse falling due on the disbeliever, because he is a wrongdoer; so everyone curses him. At-Tabari prefers this: all people are meant, through their saying, may Allah curse the wrongdoer, which no one of any religion refuses to say. He finds it in accord with Abu al-'Aliyah, and cites Hud 11:18, where the witnesses on the Day say: the curse of Allah is on the wrongdoers.",
+            "bn": "সুদ্দী দিয়েছেন তৃতীয় জবাব। দুজন মানুষ, মুমিন হোক বা কাফির, যখনই একে অপরকে বলে, আল্লাহ জালিমকে লানত করুন, তখনই সেই লানত কাফিরের উপর বর্তায়, কারণ সে জালিম। এভাবে প্রত্যেকেই তাকে লানত করে। তাবারী এই মতটিকেই অগ্রাধিকার দেন। তাঁর মতে এখানে সব মানুষকেই বোঝানো হয়েছে, তাদের ওই কথার মাধ্যমে: আল্লাহ জালিমকে লানত করুন। কোনো ধর্মের কোনো মানুষই এ কথা বলতে আপত্তি করে না। তিনি একে আবুল আলিয়ার কথার সঙ্গে মিলিয়ে দেখেন, আর সূরা হুদের ১১:১৮ উদ্ধৃত করেন। সেখানে কিয়ামতের দিন সাক্ষীরা বলবে: জালিমদের উপর আল্লাহর লানত।"
+          },
+          {
+            "en": "Qatadah's reading at-Tabari rejects, saying the outward wording is against it and no report or reasoning proves it. Al-Qurtubi, on 2:161, gives three answers of his own. A curse from most people may be called the curse of the people, the majority standing for the whole. Then as-Suddi's: when the disbeliever curses the wrongdoer, he has cursed himself. Then Abu al-'Aliyah's: on the Day their own people curse them along with everyone else, as 29:25 says, you will curse each other.",
+            "bn": "কাতাদার ব্যাখ্যা তাবারী গ্রহণ করেননি। তাঁর কথা, আয়াতের বাহ্যিক শব্দ এর বিপক্ষে, আর কোনো বর্ণনা বা যুক্তি দিয়ে তা প্রমাণিত নয়। কুরতুবী ২:১৬১ আয়াতে নিজের মতো করে তিনটি জবাব সাজান। প্রথমটি হলো, বেশির ভাগ মানুষের লানতকেও সব মানুষের লানত বলা যায়, অধিকাংশই এখানে পুরোটার প্রতিনিধি। দ্বিতীয়টি সুদ্দীর: কাফির যখন জালিমকে লানত করে, সে আসলে নিজেকেই লানত করে। তৃতীয়টি আবুল আলিয়ার: কিয়ামতের দিন তাদের নিজেদের লোকেরাও সবার সঙ্গে তাদের লানত করবে, যেমন ২৯:২৫ বলে, তোমরা একে অপরকে লানত করবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Sent Home",
+          "bn": "দূর থেকে পাঠানো প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "An-Nasa'i records from Ibn 'Abbas (no. 4068): A man from the Ansar accepted Islam, then apostatised and joined the idolaters. Then he regretted it and sent word to his people: ask the Messenger of Allah ﷺ for me, is there any repentance for me? His people came to the Messenger of Allah ﷺ and said: so-and-so has regretted, and he has told us to ask you whether there is repentance for him. Then came down, How shall Allah guide a people who disbelieved after their belief, up to, Forgiving, Merciful. Word was sent to him, and he accepted Islam.",
+            "bn": "সুনানে নাসাঈর ৪০৬৮ নম্বর হাদিসে ইবন আব্বাস (রাঃ) থেকে বর্ণিত: আনসারদের এক ব্যক্তি ইসলাম গ্রহণ করেছিল, তারপর মুরতাদ হয়ে মুশরিকদের সঙ্গে গিয়ে মিলল। পরে সে অনুতপ্ত হলো এবং নিজের গোত্রের কাছে খবর পাঠাল: আমার হয়ে আল্লাহর রাসূল ﷺ-কে জিজ্ঞেস করো, আমার জন্য কি তওবার সুযোগ আছে? তার গোত্রের লোকেরা আল্লাহর রাসূল ﷺ-এর কাছে এসে বলল: অমুক অনুতপ্ত হয়েছে, সে আমাদের বলেছে আপনাকে জিজ্ঞেস করতে, তার জন্য কি তওবা আছে? তখন নাযিল হলো: আল্লাহ কীভাবে এমন সম্প্রদায়কে পথ দেখাবেন যারা ঈমান আনার পর কুফরী করেছে, থেকে শুরু করে গাফুরুর রাহীম পর্যন্ত। তারপর তার কাছে খবর পাঠানো হলো, আর সে ইসলাম গ্রহণ করল।"
+          },
+          {
+            "en": "An-Nasa'i gives no grading of his own for this report, which tells the occasion and does not quote the Prophet ﷺ. At-Tabari has it through the same chain, and in another line 'Ikrimah tells it without naming Ibn 'Abbas, adding that when his people wrote to him he said, my people have not lied to me, and came back. The report leaves the man unnamed. Mujahid, in at-Tabari, names him: al-Harith ibn Suwayd, who accepted Islam with the Prophet ﷺ, then disbelieved and went back to his people.",
+            "bn": "এ বর্ণনার ব্যাপারে নাসাঈ নিজে কোনো মান উল্লেখ করেননি। বর্ণনাটি নাযিলের প্রেক্ষাপট জানায়, নবী ﷺ-এর কোনো কথা উদ্ধৃত করে না। তাবারী একই সনদে এটি এনেছেন। আরেক সূত্রে ইকরিমা ইবন আব্বাসের নাম না নিয়ে ঘটনাটি বলেন, আর যোগ করেন: তার গোত্র যখন তাকে চিঠি লিখল, সে বলল, আমার লোকেরা আমাকে মিথ্যা বলেনি। তারপর সে ফিরে এল। নাসাঈর বর্ণনায় লোকটির নাম নেই। তাবারীর বর্ণনায় মুজাহিদ নামটা বলেন: হারিস ইবন সুওয়াইদ। সে নবী ﷺ-এর কাছে ইসলাম গ্রহণ করেছিল, পরে কুফরী করে নিজের গোত্রে ফিরে গিয়েছিল।"
+          },
+          {
+            "en": "In Mujahid's telling, a man of his people carried the verses to him and recited them, and al-Harith said: by Allah, as far as I know you are truthful, the Messenger of Allah ﷺ is more truthful than you, and Allah is the most truthful of the three. He came back, accepted Islam, and his Islam was good. As-Suddi also names al-Harith ibn Suwayd al-Ansari. Ibn Jurayj relays from 'Ikrimah a wider account: twelve men who left Islam and joined Quraysh, al-Harith among them.",
+            "bn": "মুজাহিদের বর্ণনায়, তার গোত্রের এক লোক আয়াতগুলো নিয়ে তার কাছে গিয়ে পড়ে শোনাল। হারিস বলল: আল্লাহর কসম, আমি যতদূর জানি তুমি সত্যবাদী, আল্লাহর রাসূল ﷺ তোমার চেয়েও বেশি সত্যবাদী, আর আল্লাহ এই তিনজনের মধ্যে সবচেয়ে বেশি সত্যবাদী। তারপর সে ফিরে এসে ইসলাম গ্রহণ করল, আর তার ইসলাম সুন্দর হলো। সুদ্দীও হারিস ইবন সুওয়াইদ আল-আনসারীর নাম উল্লেখ করেন। ইবন জুরাইজ ইকরিমা থেকে আরও বড় পরিসরের কথা আনেন: ১২ জন লোক ইসলাম ছেড়ে কুরাইশের সঙ্গে গিয়ে মিলেছিল, তাদের মধ্যে হারিসও ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turned Back, or Knew and Denied?",
+          "bn": "ফিরে যাওয়া, নাকি জেনেও অস্বীকার?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari records a second view. Through another chain, Ibn 'Abbas says these verses mean the People of the Book, who recognised Muhammad ﷺ and then disbelieved in him. Al-Hasan said the Jews and the Christians: they found his description in their scripture, acknowledged it and bore witness that it was true, and when he was sent from another people they denied him out of envy of the Arabs. Al-Qurtubi relays al-Hasan as naming the Jews, and in his wording the verse then sent down is 3:87 itself.",
+            "bn": "তাবারী দ্বিতীয় একটি মতও উল্লেখ করেন। অন্য এক সনদে ইবন আব্বাস (রাঃ) বলেন, এ আয়াতগুলোর লক্ষ্য আহলে কিতাব। তারা মুহাম্মাদ ﷺ-কে চিনেছিল, তারপর তাঁকে অস্বীকার করেছিল। হাসান বসরী বলেছেন, এরা ইহুদি ও খ্রিস্টান। নিজেদের কিতাবে তারা তাঁর বর্ণনা পেয়েছিল, মেনে নিয়েছিল, সত্য বলে সাক্ষ্যও দিয়েছিল। কিন্তু তিনি যখন অন্য জাতি থেকে প্রেরিত হলেন, আরবদের প্রতি হিংসায় তারা তাঁকে অস্বীকার করল। কুরতুবী হাসানের মত উদ্ধৃত করেন ইহুদিদের নাম নিয়ে, আর তাঁর বর্ণনায় এরপর যে আয়াত নাযিল হয়, সেটি এই ৩:৮৭।"
+          },
+          {
+            "en": "At-Tabari weighs the two with care. Al-Hasan's view, he says, is closer to the outward wording, yet the reports for the other are more numerous and those who hold it know the Qur'an's interpretation better. Then he joins them. Allah may have sent these verses down because of those who left Islam, gathering their story with the story of everyone who went the same way, so that both kinds of people are meant, and anyone like them. He ends: it is so, if Allah wills.",
+            "bn": "তাবারী দুই মতকে যত্ন নিয়ে মেপে দেখেন। তাঁর কথা, হাসানের মত আয়াতের বাহ্যিক শব্দের বেশি কাছাকাছি। তবে অন্য মতের পক্ষে বর্ণনা বেশি, আর যারা সে মত পোষণ করেন তারা কুরআনের ব্যাখ্যা বেশি জানেন। তারপর তিনি দুটিকে মিলিয়ে দেন। হতে পারে আল্লাহ এ আয়াতগুলো নাযিল করেছেন ইসলাম ছেড়ে যাওয়া লোকদের উপলক্ষে, আর তাদের কাহিনির সঙ্গে জুড়ে দিয়েছেন একই পথে হাঁটা সবার কাহিনি। তাহলে দুই দলই এর আওতায় পড়ে, আর তাদের মতো যে কেউ। শেষে তিনি বলেন: ব্যাপারটা এমনই, ইনশাআল্লাহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "As Long as They Stay So",
+          "bn": "যতক্ষণ তারা ওভাবেই থাকে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's whole comment on 3:87 is a single clause: that is, if they persist in their disbelief. The parallel verse, 2:161, puts the condition into its own words: those who disbelieved and died as disbelievers. At 3:86 al-Qurtubi meets the objection directly. Have we not seen many apostates return to Islam and be guided? His answer is that Allah does not guide them as long as they remain in their disbelief and wrongdoing; once they accept Islam and repent, Allah has granted them success in that.",
+            "bn": "৩:৮৭ আয়াতে কুরতুবীর পুরো মন্তব্য মাত্র এক বাক্যাংশ: অর্থাৎ যদি তারা কুফরীতে অটল থাকে। এর জোড়া আয়াত ২:১৬১ এই শর্তটা নিজের শব্দেই বলে দিয়েছে: যারা কুফরী করেছে এবং কাফির অবস্থায় মারা গেছে। ৩:৮৬ আয়াতে কুরতুবী আপত্তিটা সরাসরি তোলেন। আমরা কি দেখিনি, বহু মুরতাদ ইসলামে ফিরে এসেছে আর হিদায়াত পেয়েছে? তাঁর জবাব, যতক্ষণ তারা কুফরী আর জুলুমে টিকে থাকে, ততক্ষণ আল্লাহ তাদের পথ দেখান না। ইসলাম গ্রহণ করে তওবা করলে আল্লাহ তো তাদের সেই তাওফীকই দিয়েছেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing Bayan al-Qur'an, answers the same doubt: guidance is said to be withheld in common usage, which does not mean such a person can never become deserving of it. As-Suddi, in at-Tabari, says the verses came down about al-Harith, and when he repented Allah lifted them from him with the exception in 3:89. At-Tabari reads that exception as returning to faith in Allah and His Messenger and doing righteous deeds. The door is the next verse's subject; here it is enough to see that it exists.",
+            "bn": "মাআরিফুল কুরআন বায়ানুল কুরআনের বরাতে একই সংশয়ের জবাব দেয়। হিদায়াত না দেওয়ার কথাটা প্রচলিত বাকরীতিতে বলা, এর মানে এই নয় যে এমন লোক কখনো হিদায়াতের যোগ্য হতে পারবে না। তাবারীর বর্ণনায় সুদ্দী বলেন, আয়াতগুলো নাযিল হয়েছিল হারিসকে নিয়ে, আর সে তওবা করলে আল্লাহ ৩:৮৯-এর ব্যতিক্রম দিয়ে তার উপর থেকে এগুলো তুলে নেন। তাবারী ওই ব্যতিক্রমের অর্থ করেন আল্লাহ ও তাঁর রাসূলের উপর ঈমানে ফিরে আসা আর নেক আমল করা। দরজাটা পরের আয়াতের বিষয়। এখানে এটুকু দেখাই যথেষ্ট যে দরজা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Report, Not an Instruction",
+          "bn": "এ খবর, হুকুম নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: people who believed, testified that the Messenger is true, then turned away, and the recompense Allah announces for them. It licenses nothing against any living person or community, and this article draws no ruling on apostasy from it. Al-Qurtubi observes, on 2:161, that the verse is a report from Allah that they are cursed, not a command. The curse is Allah's to pronounce; no reader is handed the task of dealing it out.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি ঠিক ততটুকুই বর্ণনা করে, যতটুকু এর শব্দে আছে: কিছু লোক ঈমান এনেছিল, রাসূলকে সত্য বলে সাক্ষ্য দিয়েছিল, তারপর মুখ ফিরিয়ে নিয়েছিল, আর আল্লাহ তাদের প্রতিফল ঘোষণা করেছেন। এখনকার কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। মুরতাদের ব্যাপারে কোনো বিধানও এ লেখা এখান থেকে বের করছে না। কুরতুবী ২:১৬১ আয়াতে খেয়াল করিয়ে দেন, আয়াতটি আল্লাহর পক্ষ থেকে খবর যে তারা অভিশপ্ত, এটা কোনো হুকুম নয়। লানত ঘোষণা আল্লাহর কাজ, কোনো পাঠকের হাতে তা বিলানোর দায়িত্ব দেওয়া হয়নি।"
+          },
+          {
+            "en": "A narration not attached to this verse shows the Prophet ﷺ guarding tongues even against a sinner. Al-Bukhari records from 'Umar ibn al-Khattab (no. 6780) that a man named 'Abdullah, nicknamed Himar, who used to make the Messenger of Allah ﷺ laugh, was brought more than once for drinking and was flogged. A man said: O Allah, curse him, how often he is brought! The Prophet ﷺ said: Do not curse him, for by Allah, what I know of him is that he loves Allah and His Messenger.",
+            "bn": "একটি হাদিস, যা এ আয়াতের সঙ্গে যুক্ত নয়, দেখায় নবী ﷺ গুনাহগারের বেলাতেও জিহ্বা কীভাবে সামলে রাখতেন। সহীহ বুখারীর ৬৭৮০ নম্বর হাদিসে উমর ইবনুল খাত্তাব (রাঃ) থেকে বর্ণিত: আবদুল্লাহ নামে এক ব্যক্তি ছিল, তার উপাধি ছিল হিমার। সে আল্লাহর রাসূল ﷺ-কে হাসাত। মদপানের কারণে তাকে একাধিকবার আনা হয় এবং বেত্রাঘাত করা হয়। একজন বলে উঠল: হে আল্লাহ, ওকে লানত করুন, কতবার যে ওকে ধরে আনা হয়! নবী ﷺ বললেন: তাকে লানত কোরো না। আল্লাহর কসম, আমি তার সম্পর্কে এটুকুই জানি যে সে আল্লাহ ও তাঁর রাসূলকে ভালোবাসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guarding the Witness Once Given",
+          "bn": "একবার দেওয়া সাক্ষ্য আগলে রাখা"
+        },
+        "p": [
+          {
+            "en": "The verse puts its weight on knowledge. Those it describes had borne witness that the Messenger is true and had seen clear proofs. As-Sa'di, at 3:86, says they followed falsehood while knowing it was false, and that guidance is hoped for in a person who has not yet known the truth and is eager to find it. That turns the verse back on the reader. Knowing more raises the stakes of turning away; it never lowers them.",
+            "bn": "আয়াতের ভার পড়েছে জানার উপর। যাদের কথা বলা হচ্ছে, তারা রাসূলকে সত্য বলে সাক্ষ্য দিয়েছিল, স্পষ্ট প্রমাণও দেখেছিল। সা'দী ৩:৮৬ আয়াতে বলেন, তারা বাতিলকে বাতিল জেনেও তার পেছনে চলেছে। হিদায়াতের আশা করা যায় তার বেলায়, যে এখনো সত্য চেনেনি অথচ তা খুঁজতে আগ্রহী। এ কথা আয়াতটিকে পাঠকের দিকেই ঘুরিয়ে দেয়। বেশি জানলে মুখ ফেরানোর ঝুঁকি কমে না, বরং বাড়ে।"
+          },
+          {
+            "en": "And the story behind the passage ends with a man coming home. Al-Harith, in Mujahid's account, weighed three truthful voices and came back. Whoever has drifted from something once held firmly is not looking at a closed file, for the passage itself opens the way two verses on. What is asked of a reader is plainer: guard the witness already given, keep the tongue from dealing out curses, and if there has been a turning away, turn again while there is time.",
+            "bn": "আর অংশটির পেছনের কাহিনি শেষ হয় এক মানুষের ঘরে ফেরায়। মুজাহিদের বর্ণনায় হারিস তিনটি সত্যবাদী কণ্ঠ মিলিয়ে দেখে ফিরে এসেছিল। একসময় যা শক্ত করে ধরে ছিলেন, তা থেকে যিনি সরে গেছেন, তাঁর সামনের খাতা বন্ধ হয়ে যায়নি। দুই আয়াত পরেই এ অংশ নিজেই পথ খুলে দিয়েছে। পাঠকের কাছে চাওয়া আরও সহজ: যে সাক্ষ্য একবার দিয়েছেন তা আগলে রাখুন, লানত বিলানো থেকে জিহ্বা সামলান, আর যদি কখনো মুখ ফিরিয়ে থাকেন, সময় থাকতে আবার ফিরে আসুন।"
+          }
+        ]
+      }
+    ]
+  },
   "3:92": {
     "sections": [
       {
