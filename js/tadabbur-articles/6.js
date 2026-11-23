@@ -7047,6 +7047,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:141": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Grower Named After the Fences",
+          "bn": "বেড়ার পরে আসল মালিকের নাম"
+        },
+        "p": [
+          {
+            "en": "From 6:136 to 6:140 the surah lists what the idolaters did with crops and livestock: a share set apart for partners, harvests declared off limits, animals forbidden to ride, a calf lawful to men and not to women. Then the verse turns without argument: wa-huwa alladhi ansha'a, and it is He who brought into being. Ibn Kathir reads it as a statement that He created the very crops, fruits and herds that the idolaters had handled by their corrupt opinions, dividing them and calling some lawful and some forbidden.",
+            "bn": "৬:১৩৬ থেকে ৬:১৪০ পর্যন্ত সূরাটি গুনে গুনে দেখায়, মুশরিকরা ফসল আর পশু নিয়ে কী করত। দেবদেবীর জন্য আলাদা ভাগ, কিছু ফসল নিষিদ্ধ ঘোষণা, কিছু পশুর পিঠে চড়া বারণ, পেটের বাচ্চা পুরুষের জন্য হালাল আর নারীর জন্য হারাম। এরপর আয়াতটি কোনো তর্ক ছাড়াই মোড় নেয়: ওয়া হুয়াল্লাযী আনশাআ, তিনিই তো সেই সত্তা যিনি অস্তিত্বে এনেছেন। ইবন কাসীর এভাবে পড়েন: মুশরিকরা যে শস্য, ফল আর পশু নিয়ে নিজেদের ভ্রান্ত মত খাটিয়েছে, ভাগ করেছে, কোনোটাকে হালাল আর কোনোটাকে হারাম বানিয়েছে, সেগুলোর স্রষ্টা তিনিই।"
+          },
+          {
+            "en": "At-Tabari calls the verse a notice from Allah of the favour He gave them, an alert to where His kindness lies, and a teaching of what He made lawful and forbidden and of the rights He apportioned in their wealth. As-Sa'di frames it the same way: having named their tampering, Allah names His blessing and their standing duty in crops and herds. Al-Qurtubi gives the link as proof of oneness: they invented and associated partners, so He pointed them to the One who creates things and made them provision.",
+            "bn": "তাবারী আয়াতটিকে বলেন আল্লাহর পক্ষ থেকে এক ঘোষণা: তিনি তাদের কী অনুগ্রহ দিয়েছেন, তাঁর দয়া কোথায় তা মনে করিয়ে দেওয়া, আর কী হালাল ও কী হারাম এবং তাদের সম্পদে কার কী হক রেখেছেন তা শেখানো। সা'দীর পাঠও একই রকম। মুশরিকদের হস্তক্ষেপের কথা বলার পর আল্লাহ উল্লেখ করেন নিজের নিয়ামত, আর শস্য ও পশুতে বান্দার উপর যে দায়িত্ব স্থায়ীভাবে আছে সেটি। কুরতুবী সংযোগটা দেখান তাওহীদের দলিল হিসেবে। তারা মিথ্যা রচনা করেছে, শরীক বানিয়েছে। তাই আল্লাহ তাদের দেখিয়ে দিলেন সেই সত্তাকে, যিনি সব কিছু সৃষ্টি করেন এবং সেগুলোকে তাদের রিযিক বানিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Trellis, Open Ground and Taste",
+          "bn": "মাচা, খোলা মাঠ আর স্বাদ"
+        },
+        "p": [
+          {
+            "en": "Ansha'a, says at-Tabari, means He originated and brought into being, not the gods and idols. Ma'rushat are what is raised on a frame. Ibn Kathir carries two reports from Ibn Abbas: in one, the trellised is what people trellis and the untrellised is fruit that comes out in open country and on mountains; in the other, both words describe the grapevine, one trained up and one left low.",
+            "bn": "তাবারী বলেন, আনশাআ মানে তিনি নতুন করে সৃষ্টি করেছেন, অস্তিত্বে এনেছেন, দেবদেবী বা মূর্তিরা নয়। মা'রূশাত হলো যা কাঠামোর উপর তুলে দেওয়া হয়। ইবন কাসীর ইবন আব্বাস (রাঃ) থেকে দুটি বর্ণনা আনেন। একটিতে মাচাওয়ালা হলো যা মানুষ মাচায় তোলে, আর মাচাহীন হলো খোলা প্রান্তরে ও পাহাড়ে আপনা থেকে জন্মানো ফল। অন্যটিতে দুটো শব্দই আঙুরলতার কথা, একটি মাচায় তোলা, অন্যটি নিচে রেখে দেওয়া।"
+          },
+          {
+            "en": "As-Sa'di adds a quiet note: some gardens are given a frame that helps them rise from the ground, and in this lies a hint that Allah taught His servants how to trellis and tend them. Mukhtalifan ukuluhu, with its yield varied: at-Tabari says ukul here is the fruit, what is eaten from palm and grain. As-Sa'di observes that it all grows in one place and drinks one water, and still Allah makes some of it better to eat than the rest. The same picture appears in 6:99.",
+            "bn": "সা'দী এখানে একটা সূক্ষ্ম কথা যোগ করেন। কিছু বাগানকে মাচা দেওয়া হয়, যা মাটি ছেড়ে উপরে উঠতে সাহায্য করে। এর ভেতরে ইঙ্গিত আছে যে আল্লাহই বান্দাদের শিখিয়েছেন কীভাবে মাচা বাঁধতে হয় আর গাছ বড় করতে হয়। মুখতালিফান উকুলুহু, ফলন নানা রকম। তাবারী বলেন, উকুল এখানে ফল, খেজুর আর শস্য থেকে যা খাওয়া হয়। সা'দী লক্ষ করেন, সব জন্মায় এক জায়গায়, পান করে একই পানি, তবু খাওয়ার বেলায় আল্লাহ কোনোটাকে অন্যটার চেয়ে উত্তম করেন। প্রায় একই ছবি আছে ৬:৯৯ আয়াতে।"
+          },
+          {
+            "en": "Then olives and pomegranates, mutashabihan wa-ghayra mutashabih. Ibn Jurayj, in at-Tabari and Ibn Kathir, says alike in appearance and unlike in taste. As-Sa'di places the likeness in the tree and the difference in the fruit and its flavour. Al-Baghawi gives a small example: two pomegranates of one colour whose tastes differ. Al-Qurtubi draws proofs from the line: what changes needs One who changes it, and food made lovely and easy to pick is a favour Allah was never bound to give.",
+            "bn": "এরপর যায়তুন আর ডালিম, মুতাশাবিহান ওয়া গাইরা মুতাশাবিহ। তাবারী আর ইবন কাসীরে ইবন জুরাইজের ব্যাখ্যা: দেখতে এক রকম, স্বাদে আলাদা। সা'দী মিলটা দেখেন গাছে, আর অমিলটা ফলে ও তার স্বাদে। বাগাভী ছোট্ট একটা উদাহরণ দেন: একই রঙের দুটি ডালিম, অথচ স্বাদ ভিন্ন। কুরতুবী এ অংশ থেকে দলিল টানেন। যা বদলায় তার একজন বদলানেওয়ালা লাগে। আর খাবারকে সুন্দর ও সহজে তোলার মতো বানানো এমন অনুগ্রহ, যা দিতে আল্লাহ বাধ্য ছিলেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Permission Before the Duty",
+          "bn": "দায়িত্বের আগে অনুমতি"
+        },
+        "p": [
+          {
+            "en": "Kulu min thamarihi idha athmar: eat of its fruit when it bears. At-Tabari takes it as eating the fruit while it is still fresh, and cites Muhammad ibn Ka'b: from its fresh dates and its grapes. Al-Qurtubi notes that two imperatives stand side by side here, the first permitted and the second obligatory. He then gives the reason for the order: Allah began with the blessing of eating before the command to give the due, to show that the beginning was His bounty, before any obligation.",
+            "bn": "কুলূ মিন সামারিহী ইযা আসমারা: ফল ধরলে তা থেকে খাও। তাবারীর মতে এর মানে, ফল যতক্ষণ তাজা থাকে ততক্ষণ তা থেকে খাওয়া। সঙ্গে তিনি মুহাম্মাদ ইবন কা'বের কথা আনেন: তাজা খেজুর আর আঙুর থেকে। কুরতুবী দেখান, এখানে দুটি আদেশ পাশাপাশি বসেছে। প্রথমটি মুবাহ, দ্বিতীয়টি ওয়াজিব। ক্রমটার কারণও তিনি বলেন। হক আদায়ের আদেশের আগে আল্লাহ খাওয়ার নিয়ামতের কথা তুলেছেন, যাতে বোঝা যায় শুরুটা ছিল তাঁর অনুগ্রহ থেকে, কোনো দায়িত্ব চাপানোর আগেই।"
+          },
+          {
+            "en": "As-Sa'di draws practical points from the same order. The owner may eat from palm and grain before the due is taken, and what he eats is not counted as part of that due; he pays on what remains. If a blight strikes the crop before harvest without negligence on his part, he does not owe for it. He also notes that the eating has a limit of its own, since excess in eating can eat into what was owed. The verse opens with a gift, then names a share, then sets a boundary.",
+            "bn": "একই ক্রম থেকে সা'দী কয়েকটি ব্যবহারিক কথা বের করেন। হক বের করার আগেই মালিক খেজুর আর শস্য থেকে খেতে পারেন, আর যা খেলেন তা হকের হিসাবে ধরা হয় না, বাকি যা থাকে তার উপর হক দিতে হয়। মালিকের অবহেলা ছাড়াই ফসল তোলার আগে যদি কোনো দুর্যোগ ফসল নষ্ট করে, তার দায় তার উপর আসে না। তিনি এটাও বলেন, খাওয়ারও একটা সীমা আছে, কারণ মাত্রা ছাড়ানো খাওয়া পাওনা অংশেও ভাগ বসাতে পারে। আয়াতটি তাই শুরু হয় দান দিয়ে, তারপর একটা অংশ নির্ধারণ করে, তারপর একটা সীমা টেনে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Readings of Its Due",
+          "bn": "হক নিয়ে তিন পাঠ"
+        },
+        "p": [
+          {
+            "en": "Wa-atu haqqahu yawma hasadihi: and give its due on the day of its harvest. At-Tabari opens with the words: the people of interpretation differed. A first group held that this is the obligatory zakat on fruit and grain. He gives it from Anas ibn Malik, from Ibn Abbas through Ali ibn Abi Talhah, from al-Hasan, Jabir ibn Zayd, Sa'id ibn al-Musayyab, Qatadah and Tawus. As-Sa'di and al-Muyassar both read the due as the obligatory zakat.",
+            "bn": "ওয়া আতূ হাক্কাহু ইয়াওমা হাসাদিহী: আর ফসল তোলার দিন তার হক আদায় কর। তাবারী শুরুতেই বলেন, তাফসীরবিদরা এখানে মতভেদ করেছেন। একটি দলের মতে এটি ফল ও শস্যের ফরয যাকাত। এ মত তিনি আনেন আনাস ইবন মালিক (রাঃ) থেকে, আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে, আর হাসান, জাবির ইবন যায়দ, সাঈদ ইবনুল মুসাইয়্যিব, কাতাদা ও তাউস থেকে। সা'দী আর মুয়াসসার দুজনেই এই হককে ফরয যাকাত হিসেবে পড়েন।"
+          },
+          {
+            "en": "A second group said it is a right besides zakat. Ata, in at-Tabari, says the owner gives whoever is present that day what comes easily, and it is not the zakat; asked whether any fixed amount is set, he answered no. Mujahid describes a handful thrown to the poor at reaping, at threshing and at the date cutting, with zakat set aside once the measure is known. Al-Baghawi gives this side's reason: the verse is Makkan, and zakat was made obligatory in Madinah. Al-Qurtubi says it was commanded as a recommendation.",
+            "bn": "দ্বিতীয় দলের মতে এটি যাকাতের বাইরের আলাদা একটি হক। তাবারীতে আতা বলেন, সেদিন যে উপস্থিত থাকে, মালিক তাকে সহজে যা পারে দেবে, আর এটা যাকাত নয়। কোনো নির্দিষ্ট পরিমাণ আছে কি না জিজ্ঞেস করা হলে তিনি বলেন, না। মুজাহিদের বর্ণনায় ফসল কাটা, মাড়াই আর খেজুর পাড়ার সময় গরিবদের দিকে এক মুঠো করে ছুড়ে দেওয়া হয়, আর মাপ জানা হলে যাকাত আলাদা করা হয়। বাগাভী এ পক্ষের যুক্তি দেন: আয়াতটি মাক্কী, আর যাকাত ফরয হয়েছে মদীনায়। কুরতুবীর ভাষায়, এটি মুস্তাহাব হিসেবে দেওয়া আদেশ।"
+          },
+          {
+            "en": "A third group said it was an obligation laid on the believers before the fixed zakat, and the fixed tithe then abrogated it. At-Tabari gives this from Ibn Abbas through Miqsam, Ibn al-Hanafiyyah, Sa'id ibn Jubayr, al-Hasan, as-Suddi and Atiyyah, and from Ibrahim an-Nakha'i, who said the surah is Makkan and the tithe abrogated it; asked from whom he had it, he said from the scholars. Some of these names appear on other sides too, through different reports. This article gives no rates of zakat; those belong to fiqh, not to a reflection.",
+            "bn": "তৃতীয় দলের মতে নির্ধারিত যাকাতের আগে মুমিনদের উপর এটা ফরয ছিল, পরে নির্ধারিত উশর তা রহিত করে দেয়। তাবারী এ মত আনেন মিকসামের সূত্রে ইবন আব্বাস (রাঃ) থেকে, আর ইবনুল হানাফিয়্যা, সাঈদ ইবন জুবাইর, হাসান, সুদ্দী ও আতিয়্যা থেকে। ইবরাহীম নাখঈ থেকেও আনেন, যিনি বলেছেন সূরাটি মাক্কী, আর উশর একে রহিত করেছে। কার কাছ থেকে শুনেছেন জিজ্ঞেস করলে তিনি বলেন, আলেমদের কাছ থেকে। এদের কয়েকজনের নাম ভিন্ন ভিন্ন বর্ণনায় একাধিক পক্ষে দেখা যায়। যাকাতের হার এ লেখায় দেওয়া হয়নি। সেটি ফিকহের বিষয়, তাদাব্বুরের নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cutting Day, Not Measuring Day",
+          "bn": "মাপার দিন নয়, কাটার দিন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari prefers the third reading, and argues from the calendar of the farm. Everyone agrees, he says, that the zakat on grain is taken only after threshing, winnowing and cleaning, and on dates only after they have dried. Yet the verse names the day of harvest, the day of cutting, when the grain is still in the ear. So what was due on that day must be something other than the zakat taken later. It cannot be optional, since its holders called it binding, nor a standing duty beside zakat; so, he concludes, it was abrogated.",
+            "bn": "তাবারী তৃতীয় মতটিকে অগ্রাধিকার দেন, আর যুক্তি দেন খেতের কাজের ক্রম থেকে। তাঁর কথা, সবাই একমত যে শস্যের যাকাত নেওয়া হয় মাড়াই, ঝাড়াই আর পরিষ্কারের পরে, আর খেজুরের যাকাত শুকিয়ে যাওয়ার পরে। অথচ আয়াত বলছে ফসল তোলার দিনের কথা, কাটার দিনের কথা, যখন দানা তখনও শিষের ভেতরে। তাহলে সেদিন যা দিতে বলা হয়েছে, তা পরে নেওয়া যাকাত থেকে আলাদা কিছু। আবার এখন যাকাতের বাইরে এটা স্থায়ী ফরয হতে পারে না, আর যারা এটা মানতেন তারা একে ঐচ্ছিক নয়, আবশ্যিক বলতেন। তাই তাঁর সিদ্ধান্ত, এটি রহিত হয়ে গেছে।"
+          },
+          {
+            "en": "He also rejects reading the day of harvest as the day of measuring, a view he reports from ad-Dahhak and Ibn al-Hanafiyyah: in Arabic, hasad means cutting, not measuring, and the verse says on that day, not after it. Ibn Kathir, reporting at-Tabari's choice, demurs. Calling this abrogation, he says, needs a second look, since it was obligatory in origin and its detail and amount were then explained. The two readings stand side by side; neither is settled here.",
+            "bn": "ফসল তোলার দিনকে মাপার দিন হিসেবে পড়ার মতও তিনি নাকচ করেন। এ মত তিনি উল্লেখ করেন যাহহাক আর ইবনুল হানাফিয়্যা থেকে। তাঁর যুক্তি, আরবিতে হাসাদ মানে কাটা, মাপা নয়, আর আয়াত বলছে সেদিন, তার পরে নয়। তাবারীর পছন্দের কথা জানিয়ে ইবন কাসীর ভিন্নমত দেন। তাঁর মতে একে রহিত বলা প্রশ্নসাপেক্ষ। কারণ জিনিসটা শুরু থেকেই আবশ্যিক ছিল, পরে শুধু তার বিস্তারিত রূপ আর পরিমাণ খুলে বলা হয়েছে। দুটি পাঠই পাশাপাশি থাকছে, এখানে কোনোটার পক্ষে রায় দেওয়া হচ্ছে না।"
+          },
+          {
+            "en": "As-Sa'di, who reads the due as zakat, sees wisdom in the timing. The harvest, he says, stands for crops where the passing of a year stands for other wealth. It is the moment the poor are looking towards, the moment giving is easiest for the grower, and the moment the act is visible, so that those who give are told apart from those who do not.",
+            "bn": "সা'দী হককে যাকাত হিসেবে পড়েন, আর সময় নির্ধারণের ভেতরে হিকমত দেখেন। তাঁর কথায়, অন্য সম্পদে যেমন বছর পূর্ণ হওয়া, ফসলে তেমনি ফসল তোলা। এ সময়টার দিকেই গরিবরা চেয়ে থাকে, এ সময়েই চাষির পক্ষে দেওয়া সবচেয়ে সহজ, আর এ সময়ে কাজটা সবার চোখের সামনে ঘটে। ফলে কে দেয় আর কে দেয় না, তা আলাদা হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Cluster Hung for the Poor",
+          "bn": "গরিবের জন্য ঝোলানো কাঁদি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir cites under this verse a narration that Abu Dawud records (1662) from Jabir ibn Abdullah: the Prophet ﷺ commanded that he who plucks ten wasqs of dates from date palms should hang a bunch of dates in the mosque for the poor. Abu Dawud gives it no grading. Its wording does not name this verse; it is a practice Ibn Kathir sets beside it. He also relays, through Ibn Marduyah, a report raised to the Prophet ﷺ on these words, with no grading given; it is not used here. No sound hadith in these sources is tied to the verse itself.",
+            "bn": "ইবন কাসীর এ আয়াতের নিচে একটি বর্ণনা আনেন, যা আবূ দাঊদ (১৬৬২) জাবির ইবন আব্দুল্লাহ (রাঃ) থেকে সংকলন করেছেন: নবী ﷺ আদেশ দিয়েছেন, যে খেজুরগাছ থেকে ১০ ওয়াসাক খেজুর পাড়বে, সে গরিবদের জন্য মসজিদে এক কাঁদি খেজুর ঝুলিয়ে দেবে। আবূ দাঊদ এর কোনো মান উল্লেখ করেননি। বর্ণনাটির শব্দে এ আয়াতের উল্লেখ নেই। এটি একটি আমল, যা ইবন কাসীর আয়াতের পাশে রেখেছেন। ইবন মারদুইয়ার সূত্রে তিনি এ শব্দগুলো নিয়ে নবী ﷺ-এর দিকে সম্পৃক্ত আরেকটি বর্ণনাও আনেন, তবে কোনো মান উল্লেখ ছাড়া। এখানে সেটি ব্যবহার করা হয়নি। এসব সূত্রে আয়াতটির সঙ্গে সরাসরি যুক্ত কোনো সহীহ হাদীস নেই।"
+          },
+          {
+            "en": "The followers describe the same custom in their own words. At-Tabari relays from Yazid ibn al-Asamm and Maymun ibn Mihran that the people of Madinah, when they cut their palms, brought a cluster and hung it at the side of the mosque, and a poor man would strike it with his stick and eat what fell. Ar-Rabi' ibn Anas names the gleaned ears of grain. The due, in their picture, is small, close at hand and given on the spot.",
+            "bn": "তাবিঈরা একই রীতির কথা নিজেদের ভাষায় বলেন। তাবারী ইয়াযীদ ইবনুল আসাম্ম আর মায়মূন ইবন মিহরান থেকে আনেন: মদীনার লোকেরা খেজুর পাড়ার পর একটা কাঁদি এনে মসজিদের এক পাশে ঝুলিয়ে দিত। কোনো গরিব এসে লাঠি দিয়ে তাতে আঘাত করত, আর যা ঝরে পড়ত তা খেত। রাবী' ইবন আনাস বলেন মাঠে পড়ে থাকা শিষ কুড়িয়ে নেওয়ার কথা। তাঁদের ছবিতে এই হক ছোট, হাতের কাছে, আর তখনই দিয়ে দেওয়া।"
+          },
+          {
+            "en": "Ibn Kathir then turns to the people of the garden in 68:17 to 68:33, who swore to cut their fruit at dawn so that no poor person would enter it that day, and woke to find it blackened. He cites them as men Allah blamed for harvesting without giving. The two passages read well together: one gives the command, the other shows a harvest where the poor were deliberately kept out.",
+            "bn": "এরপর ইবন কাসীর যান ৬৮:১৭ থেকে ৬৮:৩৩ আয়াতের বাগানওয়ালাদের কাছে। তারা কসম খেয়েছিল ভোরেই ফল পেড়ে নেবে, যাতে সেদিন কোনো মিসকীন বাগানে ঢুকতে না পারে। সকালে উঠে দেখে বাগান পুড়ে কালো হয়ে গেছে। ইবন কাসীর তাদের উল্লেখ করেন এমন লোক হিসেবে, যারা কিছু না দিয়ে ফসল তুলেছিল বলে আল্লাহ তাদের নিন্দা করেছেন। দুটি অংশ পাশাপাশি পড়লে ছবিটা পূর্ণ হয়। একটিতে আদেশ, অন্যটিতে এমন এক ফসল তোলা, যেখানে গরিবদের জেনেশুনে দূরে রাখা হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Excess, but in Which Direction",
+          "bn": "সীমালঙ্ঘন, তবে কোন দিকে"
+        },
+        "p": [
+          {
+            "en": "Wa-la tusrifu: and do not be excessive. Some read it as excess in giving. Abu al-Aliyah says they gave something at harvest, then vied with one another and overdid it. Ibn Jurayj, in at-Tabari and Ibn Kathir, names Thabit ibn Qays, who fed all comers until evening left him no dates; al-Baghawi has it through al-Kalbi from Ibn Abbas, and al-Qurtubi relays a version naming Mu'adh ibn Jabal. With two names and no established chain here, the verse is not fixed on either man.",
+            "bn": "ওয়া লা তুসরিফূ: আর সীমা ছাড়িয়ো না। কেউ কেউ একে দানের বাড়াবাড়ি হিসেবে পড়েন। আবুল আলিয়া বলেন, লোকেরা ফসল তোলার দিন কিছু দিত, তারপর একে অপরের সঙ্গে পাল্লা দিয়ে মাত্রা ছাড়িয়ে গেল। তাবারী আর ইবন কাসীরে ইবন জুরাইজ নাম করেন সাবিত ইবন কাইস (রাঃ)-এর। তিনি যে আসে তাকেই খাওয়াতে থাকেন, সন্ধ্যা নাগাদ তাঁর কাছে একটা খেজুরও থাকে না। বাগাভী এটা আনেন কালবীর সূত্রে ইবন আব্বাস (রাঃ) থেকে, আর কুরতুবী আরেকটি বর্ণনা আনেন যাতে নাম মুআয ইবন জাবাল (রাঃ)-এর। দুটি নাম, আর এখানে কোনো প্রতিষ্ঠিত সনদ নেই। তাই আয়াতটিকে কারও একজনের ঘটনায় বাঁধা হচ্ছে না।"
+          },
+          {
+            "en": "As-Suddi: do not give away your wealth and end up poor. Others turn it round. Sa'id ibn al-Musayyab says do not withhold the charity and so disobey; Ibn Zayd says it addresses the ruler, who must take no more than is due. Ibn Kathir accepts Ata's view that excess is forbidden in everything, yet reads the context as pointing to eating, which harms mind and body, and cites 7:31. As-Sa'di includes both: eating that cuts into the due, and giving that harms the giver's family or creditors.",
+            "bn": "সুদ্দীর কথা: নিজের সম্পদ বিলিয়ে দিয়ে নিঃস্ব হয়ে বসে থেকো না। অন্যরা অর্থটা উল্টো দিক থেকে ধরেন। সাঈদ ইবনুল মুসাইয়্যিব বলেন, সাদাকা আটকে রেখে নাফরমানি কোরো না। ইবন যায়দের মতে সম্বোধন শাসকের প্রতি, পাওনার বেশি সে নিতে পারবে না। ইবন কাসীর আতার এ মত মেনে নেন যে সব কিছুতেই সীমালঙ্ঘন নিষিদ্ধ। তবু প্রসঙ্গ দেখে তাঁর মনে হয় ইঙ্গিতটা খাওয়ার দিকে, যা বুদ্ধি আর শরীরের ক্ষতি করে। এর পক্ষে তিনি ৭:৩১ আয়াত আনেন। সা'দী দুটোকেই ধরেন: এমন খাওয়া যা হকে ভাগ বসায়, আর এমন দান যা পরিবার বা পাওনাদারের ক্ষতি করে।"
+          },
+          {
+            "en": "At-Tabari refuses to narrow it. Israf in Arabic, he says, is missing the right mark in giving, either by passing its limit or by falling short of it. So the man who scatters his wealth in rivalry until it ruins him is excessive, and so is the man who withholds what Allah made due, from the poor or from his own household, and so is the ruler who takes what Allah did not permit. Ata, asked whether it meant the harvest alone, said everything, and recited 25:67.",
+            "bn": "তাবারী অর্থটাকে সংকীর্ণ করতে রাজি নন। তাঁর কথায়, আরবিতে ইসরাফ মানে দানের বেলায় ঠিক জায়গাটা ফসকে যাওয়া, হয় সীমা পেরিয়ে, নয়তো সীমার নিচে থেকে। তাই যে পাল্লা দিয়ে সম্পদ বিলিয়ে নিজেকে সর্বস্বান্ত করে, সে সীমালঙ্ঘনকারী। যে আল্লাহর ধার্য করা হক আটকে রাখে, গরিবের হোক বা নিজের পরিবারের, সেও। আর যে শাসক আল্লাহর অনুমতি ছাড়া আদায় করে, সেও। আতাকে জিজ্ঞেস করা হয়েছিল, কথাটা কি শুধু ফসল তোলার দিনের জন্য? তিনি বলেন, সব কিছুর জন্য, তারপর তিলাওয়াত করেন ২৫:৬৭ আয়াত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Giving That Leaves a Remainder",
+          "bn": "এমন দান, যা কিছু রেখে যায়"
+        },
+        "p": [
+          {
+            "en": "Mujahid said that a mountain of gold spent in obedience would be no excess, while a single dirham spent in disobedience would be. Al-Qurtubi calls this weak, pointing to the Thabit report, and argues for balance: give, and keep something back. He echoes a teaching al-Bukhari records (1426) from Abu Hurayrah, general and not tied to this verse: \"The best charity is that which is practiced by a wealthy person. And start giving first to your dependents.\"",
+            "bn": "মুজাহিদ বলেছেন, আল্লাহর আনুগত্যে সোনার পাহাড় খরচ করলেও তা সীমালঙ্ঘন নয়, আর নাফরমানিতে একটি দিরহাম খরচ করলেও তা সীমালঙ্ঘন। কুরতুবী এ কথাকে দুর্বল বলেন, সাবিত (রাঃ)-এর বর্ণনার দিকে ইঙ্গিত করে, আর ভারসাম্যের পক্ষে যুক্তি দেন: দান করো, তবে কিছু রেখেও দাও। এখানে তাঁর কথায় প্রতিধ্বনি আছে এমন এক শিক্ষার, যা বুখারী (১৪২৬) আবূ হুরাইরা (রাঃ) থেকে সংকলন করেছেন। হাদীসটি সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়: \"সর্বোত্তম সাদাকা তা-ই, যা সচ্ছলতা বজায় রেখে দেওয়া হয়। আর যাদের ভরণপোষণ তোমার দায়িত্বে, তাদের দিয়ে শুরু করো।\""
+          },
+          {
+            "en": "Few readers now cut palms, but most have a harvest day: the day pay lands, a sale closes or a season's work is done. The verse asks three things of that day. Enjoy it, since the eating came first. Give its due then, before the money disperses into plans. Then guard the limit on both sides, neither consuming what was owed nor giving so freely that those who depend on you go without.",
+            "bn": "আজ খুব কম পাঠকই খেজুর পাড়েন, তবে প্রায় সবারই একটা ফসল তোলার দিন আছে। যেদিন বেতন আসে, কোনো বিক্রি শেষ হয়, বা এক মৌসুমের কাজ ফুরায়। সেই দিনের কাছে আয়াতটি তিনটি জিনিস চায়। উপভোগ করুন, কারণ খাওয়ার কথা এসেছে আগে। হক দিয়ে দিন সেদিনই, টাকাটা নানা পরিকল্পনায় ছড়িয়ে পড়ার আগে। তারপর দুই দিকেই সীমা পাহারা দিন। পাওনা অংশ নিজে ভোগ করে ফেলবেন না, আবার এত উদারও হবেন না যে আপনার উপর নির্ভরশীলরা বঞ্চিত হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "6:144": {
     "sections": [
       {

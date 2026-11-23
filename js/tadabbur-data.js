@@ -31443,6 +31443,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every nation's term and every person's is fixed to the hour, so treat a delay as respite, not approval, and finish what matters before the time that cannot move.",
     "lessonBn": "প্রত্যেক জাতির আর প্রত্যেক মানুষের মেয়াদ ঘড়ি ধরে বাঁধা। তাই দেরিকে সম্মতি নয়, অবকাশ ভাবুন, আর যে সময় নড়বে না তা আসার আগেই জরুরি কাজগুলো সেরে নিন।"
+  },
+  "6:141": {
+    "reflectionEn": "The verses before this one show people fencing off crops and herds by their own rules. This verse simply names who made them grow: the trellised vine and the plant that needs no support, the palm, the grain, olives and pomegranates that look alike and taste different. Then come three short commands. Eat when it bears fruit. Give its due on the day you harvest it. Do not go beyond the limit. The eating is mentioned first, before any duty, and the duty falls on the very day the yield is in your hands, not on some later day when it feels easier. What has ripened for me this season, and have I set aside its due before I count it as mine?",
+    "reflectionBn": "আগের আয়াতগুলোতে দেখা যায়, মানুষ নিজের বানানো নিয়মে ফসল আর পশুর চারপাশে বেড়া দিচ্ছে। এ আয়াত শুধু বলে দেয়, এগুলো জন্মাল কার হাতে। মাচায় তোলা লতা, মাচা ছাড়াই দাঁড়ানো গাছ, খেজুর, শস্য, আর দেখতে এক অথচ স্বাদে আলাদা যায়তুন ও ডালিম। তারপর তিনটি ছোট আদেশ। ফল ধরলে খাও। ফসল তোলার দিন তার হক দাও। সীমা ছাড়িয়ো না। খাওয়ার কথা এসেছে আগে, কোনো দায়িত্বের আগে। আর দায়িত্বটা পড়ে ঠিক সেই দিনে, যেদিন ফসল হাতে আসে, পরে কোনো সুবিধার দিনে নয়। এ মৌসুমে আমার কী পেকেছে? নিজের বলে গোনার আগে তার হক কি আমি আলাদা করে রেখেছি?",
+    "pointsEn": [
+      "What came into my hands this season, a salary, a sale, a finished project, that I did not grow by my own power alone?",
+      "On the day income arrives, what do I set aside first, and what do I let it wait for?",
+      "Who is usually standing near me when I gather in, and do they leave with anything?",
+      "Where am I more likely to cross the line: in what I keep and consume, or in giving so freely that those who depend on me go without?",
+      "Do I thank the One who grew it before I start deciding who else has a claim on it?"
+    ],
+    "pointsBn": [
+      "এ মৌসুমে আমার হাতে কী এসেছে, বেতন, বিক্রি বা শেষ হওয়া কোনো কাজের পারিশ্রমিক, যা কেবল আমার নিজের শক্তিতে জন্মায়নি?",
+      "যেদিন উপার্জন হাতে আসে, সেদিন প্রথমে আমি কী আলাদা করি, আর কোনটাকে অপেক্ষায় ফেলে রাখি?",
+      "ফসল ঘরে তোলার সময় সাধারণত কারা আমার আশপাশে থাকে? তারা কি কিছু নিয়ে ফেরে?",
+      "আমার সীমা ছাড়ানোর ঝুঁকি কোথায় বেশি: নিজে যা রাখি আর ভোগ করি তাতে, নাকি এমন উদারতায় যে আমার উপর নির্ভরশীলরাই বঞ্চিত হয়?",
+      "আর কার কী হক আছে তা ঠিক করার আগে, যিনি জন্মালেন তাঁর শুকরিয়া কি আমি আদায় করি?"
+    ],
+    "lessonEn": "Enjoy what Allah grows for you, give its due on the day it reaches your hands, and keep to the limit in both eating and giving.",
+    "lessonBn": "আল্লাহ আপনার জন্য যা জন্মান তা উপভোগ করুন, হাতে আসার দিনই তার হক আদায় করুন, আর খাওয়া ও দেওয়া দুটোতেই সীমার ভেতরে থাকুন।"
   }
 };
 
