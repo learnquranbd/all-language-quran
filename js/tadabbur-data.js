@@ -30623,6 +30623,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give up what you love for Allah's sake, but never pass off an inherited custom as His law; before saying He forbade something, be ready to bring the text.",
     "lessonBn": "আল্লাহর জন্য প্রিয় জিনিস ছাড়ুন, কিন্তু উত্তরাধিকারে পাওয়া রীতিকে কখনো তাঁর বিধান বলে চালাবেন না। তিনি কিছু হারাম করেছেন বলার আগে পাঠটা হাজির করার জন্য প্রস্তুত থাকুন।"
+  },
+  "3:142": {
+    "reflectionEn": "The question comes after a defeat. At Uhud believers had been killed and wounded, and the verse asks those who remained: did you think you would enter Paradise while Allah had not yet made evident those of you who strive, and made evident the steadfast? The answer folded into the question is no. Paradise is the highest thing a person can ask for, and it is not reached by supposing. Yet the very next verse recalls that they had wished for death before they met it. So the verse does not tell anyone to go looking for hardship. It asks what I do when hardship arrives on its own. Do I strive, and do I stay steadfast long enough for it to count?",
+    "reflectionBn": "প্রশ্নটা আসে এক পরাজয়ের পর। উহুদে মুমিনদের অনেকে শহীদ হয়েছেন, অনেকে আহত। যাঁরা রয়ে গেলেন, আয়াত তাঁদের জিজ্ঞেস করে: তোমরা কি ভেবেছ জান্নাতে ঢুকে যাবে, অথচ আল্লাহ এখনো প্রকাশ করে দেননি তোমাদের মধ্যে কারা জিহাদ করেছে আর কারা ধৈর্যশীল? প্রশ্নের ভেতরেই উত্তরটা আছে: না। মানুষ যা কিছু চাইতে পারে, তার মধ্যে জান্নাত সবচেয়ে বড়, আর শুধু ধারণা করে নিয়ে সেখানে পৌঁছানো যায় না। আবার ঠিক পরের আয়াতই মনে করিয়ে দেয়, মৃত্যুর মুখোমুখি হওয়ার আগে তাঁরা নিজেরাই তা কামনা করতেন। তাই আয়াতটি কাউকে কষ্ট খুঁজে বেড়াতে বলে না। জিজ্ঞেস করে, কষ্ট নিজে থেকে এসে পড়লে আমি কী করি। আমি কি চেষ্টা চালিয়ে যাই? আর এতটা সময় কি অবিচল থাকি, যাতে সেটা সত্যিই গণ্য হয়?",
+    "pointsEn": [
+      "What do I hope to receive from Allah that I have never yet been asked to pay anything for?",
+      "When a good effort of mine began to cost me, did I stay with it, or did my striving end exactly where patience was meant to begin?",
+      "Which difficulty in my life right now might be the very place where my faith is being made evident?",
+      "Do I daydream about great tests I have never met, while walking away from the small one in front of me?",
+      "After a setback, do I look for what went wrong and set it right, or only for someone to blame?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কাছে আমি এমন কী আশা করি, যার জন্য এখনো আমাকে কোনো মূল্যই দিতে হয়নি?",
+      "আমার কোনো ভালো চেষ্টা যখন কষ্টের হয়ে উঠল, আমি কি তা ধরে রেখেছিলাম? নাকি যেখানে সবর শুরু হওয়ার কথা, ঠিক সেখানেই আমার চেষ্টা থেমে গেল?",
+      "এই মুহূর্তে আমার জীবনের কোন কষ্টটা হয়তো সেই জায়গা, যেখানে আমার ঈমান প্রকাশ্যে আসছে?",
+      "যে বড় পরীক্ষার মুখোমুখি কখনো হইনি, তার কল্পনায় কি আমি ডুবে থাকি, আর সামনের ছোট পরীক্ষাটা থেকে সরে যাই?",
+      "কোনো ধাক্কা খাওয়ার পর আমি কি খুঁজি কোথায় ভুল হলো আর কীভাবে তা শোধরানো যায়? নাকি শুধু খুঁজি কার ঘাড়ে দোষ চাপানো যায়?"
+    ],
+    "lessonEn": "Paradise is not reached by supposing: never wish for the trial, but when hardship comes in Allah's path, strive, and then stay steadfast.",
+    "lessonBn": "শুধু ধারণা করে জান্নাতে পৌঁছানো যায় না: পরীক্ষা কখনো কামনা করবেন না, তবে আল্লাহর পথে কষ্ট এসে পড়লে চেষ্টা করুন, তারপর অবিচল থাকুন।"
   }
 };
 

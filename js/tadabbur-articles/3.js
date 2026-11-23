@@ -5931,6 +5931,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:142": {
+    "sections": [
+      {
+        "h": {
+          "en": "Asked of the Survivors",
+          "bn": "যাঁরা রয়ে গেলেন, তাঁদের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verse stands inside a run of consolation that follows Uhud. Ibn Kathir's abridged English commentary opens the passage by naming the losses the believers had suffered, seventy of them dead. Ma'arif al-Qur'an, reading 3:140 to 3:143 together, gives the same number of martyrs and speaks of many wounded. Just before this verse, Allah says that He makes the days alternate among people, and that He purifies the believers through what has happened (3:140, 3:141). Then comes a question, put to those who survived.",
+            "bn": "আয়াতটি উহুদের পরে নাজিল হওয়া সান্ত্বনার ধারাবাহিকতার মাঝখানে দাঁড়িয়ে আছে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর এই অংশ শুরু করে মুমিনদের ক্ষতির হিসাব দিয়ে: তাঁদের সত্তরজন নিহত হয়েছিলেন। মাআরিফুল কুরআন ৩:১৪০ থেকে ৩:১৪৩ একসঙ্গে পড়ে, আর শহীদের সংখ্যাও বলে সত্তর, সঙ্গে বহু আহতের কথা। এর ঠিক আগে আল্লাহ বলেছেন, দিনগুলোকে তিনি মানুষের মধ্যে পালাক্রমে ঘোরান, আর যা ঘটেছে তার মাধ্যমে মুমিনদের পরিশুদ্ধ করেন (৩:১৪০, ৩:১৪১)। তারপর আসে একটি প্রশ্ন। প্রশ্নটা তাঁদের প্রতি, যাঁরা বেঁচে ফিরেছেন।"
+          },
+          {
+            "en": "At-Tabari names the addressees: you, O company of the Companions of Muhammad ﷺ, did you think and suppose that you would enter Paradise, and attain your Lord's honour and a noble rank with Him? Al-Qurtubi narrows the address. In his wording it is spoken to those who fled on the day of Uhud: did you think you would enter Paradise as those who were killed entered it, who bore the pain of wounds and of death, without walking their road and bearing what they bore? His answer is one word: no.",
+            "bn": "কাদের উদ্দেশে কথা, তাবারী তা স্পষ্ট করে দেন: হে মুহাম্মাদ ﷺ-এর সাহাবিগণ, তোমরা কি ভেবেছ আর ধরে নিয়েছ যে জান্নাতে ঢুকে যাবে, রবের সম্মান আর তাঁর কাছে উঁচু মর্যাদা পেয়ে যাবে? কুরতুবী সম্বোধনের পরিধি আরও ছোট করে আনেন। তাঁর ভাষায় কথাটা তাঁদের প্রতি, যাঁরা উহুদের দিন পিছু হটেছিলেন। যাঁরা নিহত হয়েছেন, ক্ষত আর মৃত্যুর যন্ত্রণা সয়েছেন, তাঁদের পথে না হেঁটে, তাঁদের মতো না সয়েই কি তোমরা ভেবেছ তাঁদের মতো জান্নাতে ঢুকবে? তাঁর জবাব একটিই শব্দ: না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws a rule from the verse before. In this world Allah's way is to let hardship and ease, pain and comfort, come to people by turns. A party standing for the truth that is beaten for a while should not decide that defeat is now its permanent lot. It should look for the causes of the setback, correct them, and close the way to repeating them. Verse 142 adds why the hard turn has to come at all.",
+            "bn": "এর আগের আয়াত থেকে মাআরিফুল কুরআন একটি নিয়ম বের করে আনে। এই দুনিয়ায় আল্লাহর রীতি হলো, কষ্ট আর স্বস্তি, যন্ত্রণা আর আরাম পালা করে মানুষের কাছে আসে। সত্যের পক্ষের দল কিছুদিনের জন্য হেরে গেলে যেন ধরে না নেয় যে পরাজয়ই এখন তার চিরকালের ভাগ্য। বরং সে খুঁজবে কেন এই ধাক্কা এল, কারণগুলো শুধরে নেবে, আর একই ভুল যেন আবার না হয় সে পথ বন্ধ করবে। কঠিন পালাটা আদৌ কেন আসে, ১৪২ নম্বর আয়াত সেই কারণটা যোগ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Asked to Refuse",
+          "bn": "নাকচ করার জন্য প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verse opens with am hasibtum, or did you think. Al-Qurtubi gives two accounts of the first particle. Am may carry the sense of bal, rather, turning the speech in a new direction; or, as others say, its mim is extra, and the sense is a plain question: a-hasibtum, did you think? Al-Baghawi glosses it the second way, with the bare question. As-Sa'di names the kind of question it is: istifham inkari, a question asked in order to reject the very thing it asks about.",
+            "bn": "আয়াতের শুরু আম হাসিবতুম দিয়ে: নাকি তোমরা ভেবেছ? প্রথম অব্যয়টির দুটি ব্যাখ্যা দেন কুরতুবী। একটি হলো, আম এখানে বাল অর্থে, অর্থাৎ বরং, যা কথাকে নতুন দিকে ঘুরিয়ে দেয়। অন্যদের মতে এর মীম অতিরিক্ত, আর অর্থ সাদামাটা প্রশ্ন: আহাসিবতুম, তোমরা কি ভেবেছ? বাগাভী দ্বিতীয় পথে চলেন, শুধু প্রশ্নবোধক রূপটি বসিয়ে দেন। প্রশ্নটা কোন ধরনের, সা'দী তার নাম দেন: ইস্তিফহাম ইনকারী। যে প্রশ্ন করা হয় ঠিক সেই জিনিসটাকেই নাকচ করার জন্য।"
+          },
+          {
+            "en": "As-Sa'di then spells the rejection out: do not suppose, and do not let it even cross your minds, that you will enter Paradise without hardship and without bearing what you dislike in Allah's path and in seeking His pleasure. Al-Muyassar turns it into a flat statement: entry will not be yours until you are tested. Ibn Kathir's Arabic says much the same, that entering Paradise will not happen for you until you are tested and Allah sees among you those who strive in His path and those steadfast in facing the enemy.",
+            "bn": "তারপর সা'দী নাকচের কথাটা খুলে বলেন: এমন ধারণা কোরো না, মনেও এনো না যে আল্লাহর পথে কষ্ট না করে, তাঁর সন্তুষ্টির খোঁজে অপছন্দের বোঝা না বয়েই জান্নাতে ঢুকে যাবে। মুয়াসসার একে সোজা বিবৃতিতে পরিণত করে: পরীক্ষা না হওয়া পর্যন্ত জান্নাতে প্রবেশ তোমাদের ভাগ্যে জুটবে না। ইবন কাসীরের আরবি তাফসীরও প্রায় একই কথা বলে। পরীক্ষা না হওয়া পর্যন্ত তোমাদের জান্নাতে প্রবেশ ঘটবে না, যতক্ষণ না আল্লাহ তোমাদের মধ্যে দেখেন কারা তাঁর পথে জিহাদ করে আর কারা শত্রুর মোকাবিলায় অবিচল থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lamma, the Word for Not Yet",
+          "bn": "লাম্মা: এখনো হয়নি"
+        },
+        "p": [
+          {
+            "en": "Next come the words wa-lamma ya'lami-llah, rendered above as while Allah has not yet made evident. Al-Baghawi and al-Qurtubi both explain lamma by the plainer negative lam. Al-Qurtubi then records a distinction that Sibawayh drew between the two. Lam yaf'al negates fa'ala, he did; lamma yaf'al negates qad fa'ala, he has indeed done. The second answers a claim that the thing is already complete, which is why the English rendering of this verse reaches for not yet rather than a simple not.",
+            "bn": "এরপর আসে ওয়া লাম্মা ইয়া'লামিল্লাহ, যার অনুবাদ ওপরে দেওয়া হয়েছে: অথচ আল্লাহ এখনো প্রকাশ করে দেননি। বাগাভী আর কুরতুবী দুজনেই লাম্মার ব্যাখ্যা করেন সহজতর না-বোধক শব্দ লাম দিয়ে। এরপর কুরতুবী দুটির মধ্যে সিবাওয়াইহের করা একটি পার্থক্য উল্লেখ করেন। লাম ইয়াফআল নাকচ করে ফাআলা, অর্থাৎ সে করেছে। আর লাম্মা ইয়াফআল নাকচ করে কাদ ফাআলা, অর্থাৎ সে অবশ্যই করে ফেলেছে। দ্বিতীয়টি এমন দাবির জবাব, যেখানে বলা হচ্ছে কাজটা তো হয়েই গেছে। সে কারণেই এ আয়াতের ইংরেজি অনুবাদে কেবল না নয়, এখনো না বলা হয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi gives the sense of the clause in his own words: you have not striven, so that this would be known from you. Read beside his address to those who fled, the clause does not shut a door on anyone. It names what still stands between a believer and the hope he is carrying, and it leaves the road to that hope open. What is missing is not mercy or promise. It is a deed that has not yet been done, and a patience that has not yet been shown.",
+            "bn": "বাক্যটির অর্থ কুরতুবী নিজের ভাষায় বলে দেন: তোমরা জিহাদ করোনি, যাতে তোমাদের থেকে তা জানা যেত। যাঁরা পিছু হটেছিলেন, তাঁদের প্রতি তাঁর সম্বোধনের পাশে রেখে পড়লে দেখা যায়, বাক্যটি কারও মুখের ওপর দরজা বন্ধ করে না। মুমিন যে আশা বুকে নিয়ে চলছে, তার আর সেই আশার মাঝখানে কী দাঁড়িয়ে আছে, বাক্যটি সেটাই চিনিয়ে দেয়, আর পথটা খোলা রাখে। এখানে ঘাটতি রহমতের নয়, প্রতিশ্রুতিরও নয়। ঘাটতি এমন আমলের, যা এখনো করা হয়নি। আর এমন সবরের, যা এখনো দেখানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowledge Brought Into View",
+          "bn": "যে জ্ঞান প্রকাশ্যে আসে"
+        },
+        "p": [
+          {
+            "en": "The phrase does not mean that anything was hidden from Allah, and none of the commentators fetched here reads it that way. Each explains the knowledge as knowledge brought into the open. At-Tabari glosses it: while whoever among you strives in Allah's path, as He commanded him, has not yet become clear to My believing servants. He adds that he has already explained wa-li-ya'lama-llah and phrases like it earlier in his commentary, with their proofs, and will not repeat the discussion here.",
+            "bn": "এ কথার অর্থ এই নয় যে আল্লাহর কাছে কিছু গোপন ছিল। এখানে যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই কথাটাকে এভাবে পড়ে না। প্রত্যেকে এই জানাকে ব্যাখ্যা করেন প্রকাশ্যে আসা জ্ঞান হিসেবে। তাবারীর ব্যাখ্যা: অথচ তোমাদের মধ্যে কে আল্লাহর পথে তাঁর আদেশ মতো জিহাদ করে, তা এখনো আমার মুমিন বান্দাদের কাছে স্পষ্ট হয়নি। তিনি আরও বলেন, ওয়া লিইয়া'লামাল্লাহ ও এ ধরনের বাক্যের অর্থ তিনি তাফসীরের আগের অংশে দলিলসহ বলে এসেছেন, তাই এখানে আর তা দোহরাবেন না।"
+          },
+          {
+            "en": "Al-Muyassar says that Allah knows them with a knowledge made manifest to His creation. Al-Qurtubi calls it 'ilm shahadah, knowledge of what is witnessed, so that the recompense may fall upon it. Ibn Kathir's Arabic speaks of Allah seeing among you those who strive. Ibn Ishaq, whose gloss at-Tabari relays, puts it in terms of trial: did you think you would reach Paradise and the honour of its reward before you had been tried with hardship and with what you dislike, so that the truth of your faith and your patience would be known?",
+            "bn": "মুয়াসসার বলে, আল্লাহ তাঁদের জানবেন এমন জ্ঞানে, যা তাঁর সৃষ্টির সামনে প্রকাশ্য। কুরতুবী একে বলেন ইলমুশ শাহাদাহ, অর্থাৎ যা ঘটে গিয়ে চোখের সামনে আসে তার জ্ঞান, যাতে প্রতিদান তার ওপরই বর্তায়। ইবন কাসীরের আরবি তাফসীর বলে, আল্লাহ তোমাদের মধ্যে দেখবেন কারা জিহাদ করে। তাবারী ইবন ইসহাকের যে ব্যাখ্যা উদ্ধৃত করেন, তা কথাটাকে পরীক্ষার ভাষায় বলে। কঠিন অবস্থা আর অপছন্দের জিনিস দিয়ে পরীক্ষা হওয়ার আগেই কি তোমরা ভেবেছ জান্নাত আর তার সম্মানজনক প্রতিদান পেয়ে যাবে? পরীক্ষা তো এজন্য, যাতে তোমাদের ঈমান আর সবরের সত্যতা জানা যায়।"
+          },
+          {
+            "en": "Taken together, these readings place the weight on the deed coming to pass in the world, where it can be seen and, as al-Qurtubi says, recompensed. The verse asks about something that has to happen, not about something that has to be discovered. A supposition, however sincere, is not yet the striving it pictures, and the people of Uhud are being asked about the striving itself, and about whether it holds.",
+            "bn": "সব ব্যাখ্যা একসঙ্গে রাখলে ভার গিয়ে পড়ে আমলটা দুনিয়ায় ঘটে যাওয়ার ওপর। ঘটে গেলে তা দেখা যায়, আর কুরতুবীর ভাষায়, তার প্রতিদান দেওয়া যায়। আয়াতটি যা জানতে চায়, তা খুঁজে বের করার জিনিস নয়, ঘটার জিনিস। ধারণা যত আন্তরিকই হোক, যে জিহাদের ছবি সে আঁকে, ধারণা নিজে এখনো সেই জিহাদ নয়। উহুদের মানুষদের কাছে প্রশ্নটা জিহাদ নিয়েই, আর সেই জিহাদ টিকে থাকে কি না, তা নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Striving, and Then Holding",
+          "bn": "জিহাদ, তারপর টিকে থাকা"
+        },
+        "p": [
+          {
+            "en": "Two groups are named: those who strive and the steadfast. At-Tabari describes the first as whoever strives in Allah's path according to what He commanded him, and the second as those patient in the hour of battle over what reaches them for Allah's sake: wounds, pain and what they hate. Al-Muyassar has them steadfast in resisting enemies. Ibn Kathir's English rendering joins the two: those who struggle and fight in His cause and are patient in the face of the enemy.",
+            "bn": "আয়াতে দুটি দলের নাম আছে: যারা জিহাদ করে, আর যারা ধৈর্যশীল। তাবারী প্রথম দলের বর্ণনা দেন এভাবে: যে আল্লাহর পথে তাঁর আদেশ অনুযায়ী জিহাদ করে। দ্বিতীয় দল তারা, যারা যুদ্ধের সময় আল্লাহর জন্য যা কিছু তাদের ওপর আসে, ক্ষত, ব্যথা আর অপছন্দের সবকিছু, তাতে সবর করে। মুয়াসসারের কথায় তারা শত্রুর মোকাবিলায় অবিচল। ইবন কাসীরের ইংরেজি সংস্করণ দুটোকে এক করে দেয়: যারা তাঁর পথে সংগ্রাম ও যুদ্ধ করে, আর শত্রুর সামনে ধৈর্য ধরে।"
+          },
+          {
+            "en": "The second verb has drawn the grammarians. Most read wa-ya'lama, ending in a. At-Tabari explains it by what he calls sarf: when two verbs are joined after a negation or question that cannot well be repeated with the second, the second takes that ending and is turned away from the first one's construction. Al-Qurtubi relays from al-Khalil that an implied an governs it. Both report that al-Hasan read wa-ya'lami, tying it to the first verb, and al-Qurtubi adds Yahya ibn Ya'mar to that reading.",
+            "bn": "দ্বিতীয় ক্রিয়াটি ব্যাকরণবিদদের নজর কেড়েছে। অধিকাংশ পড়েন ওয়া ইয়া'লামা, শেষে যবর দিয়ে। তাবারী একে ব্যাখ্যা করেন সারফ দিয়ে। দুটি ক্রিয়া যখন এমন না-বোধক বা প্রশ্নবোধক শব্দের পরে যুক্ত হয়, যা দ্বিতীয়টির সঙ্গে আবার বসানো মানায় না, তখন দ্বিতীয়টি যবর নেয় আর প্রথমটির গঠন থেকে সরে যায়। কুরতুবী খলীলের সূত্রে বলেন, এখানে একটি উহ্য আন কাজ করছে। দুজনেই জানান, হাসান পড়তেন ওয়া ইয়া'লামি, প্রথম ক্রিয়ার সঙ্গে জুড়ে দিয়ে। কুরতুবী এই কিরাআতে ইয়াহইয়া ইবন ইয়া'মারের নামও যোগ করেন।"
+          },
+          {
+            "en": "Al-Qurtubi also records wa-ya'lamu, a fresh clause meaning and He knows, transmitted by 'Abd al-Warith from Abu 'Amr. Then he gives az-Zajjaj's view: the waw here means hatta, until. On that reading the verse says that Allah has not yet made evident those of you who strove, until He makes evident their patience. Striving is not the whole of it. The effort has to hold through what it costs, and the second verb is where it is asked to hold.",
+            "bn": "কুরতুবী ওয়া ইয়া'লামু কিরাআতটিও উল্লেখ করেন, নতুন বাক্য হিসেবে, যার অর্থ: আর তিনি জানেন। এটি আবদুল ওয়ারিস বর্ণনা করেছেন আবু আমর থেকে। এরপর তিনি যাজ্জাজের মত আনেন: এখানে ওয়াও মানে হাত্তা, অর্থাৎ যতক্ষণ না। এভাবে পড়লে আয়াতটি বলে, আল্লাহ এখনো প্রকাশ করেননি তোমাদের মধ্যে কারা জিহাদ করেছে, যতক্ষণ না তিনি তাদের সবর প্রকাশ করেন। জিহাদ একাই পুরো কথা নয়। যা মূল্য দিতে হয়, তার ভেতর দিয়েও চেষ্টাকে টিকে থাকতে হয়। আর দ্বিতীয় ক্রিয়াটিতেই সেই টিকে থাকার দাবি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked Before, Lived Around It",
+          "bn": "আগেও এসেছে এই প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, in both his Arabic text and the English abridgement, sets this verse beside two others. One is 2:214, which opens with the same question about entering Paradise. The other is the opening of al-'Ankabut, 29:1 to 29:3: do people think they will be left alone because they say we believe, and will not be tried, when those before them were tried? That, he writes, is why Allah said here what He said, and he glosses 3:142 as: you will not enter Paradise until you are tested.",
+            "bn": "ইবন কাসীর তাঁর আরবি তাফসীরে এবং ইংরেজি সংক্ষিপ্ত সংস্করণে, দুই জায়গাতেই, এ আয়াতকে আরও দুটি আয়াতের পাশে রাখেন। একটি ২:২১৪, যা জান্নাতে প্রবেশ নিয়ে একই প্রশ্ন দিয়ে শুরু হয়। অন্যটি সূরা আনকাবূতের শুরু, ২৯:১ থেকে ২৯:৩: মানুষ কি ভেবেছে, আমরা ঈমান এনেছি বললেই তাদের ছেড়ে দেওয়া হবে, পরীক্ষা করা হবে না? অথচ তাদের আগের লোকদেরও পরীক্ষা করা হয়েছিল। তিনি লেখেন, এ কারণেই আল্লাহ এখানে এ কথা বলেছেন। আর ৩:১৪২-এর ব্যাখ্যা দেন এভাবে: পরীক্ষা না হওয়া পর্যন্ত তোমরা জান্নাতে ঢুকবে না।"
+          },
+          {
+            "en": "The verses around this one carry the same thread. The very next, 3:143, reminds them that they used to wish for death before they met it, and that now they had seen it with their own eyes. A few verses on, 3:146 tells of many prophets alongside whom multitudes fought, who did not weaken or yield at what struck them in Allah's path, and it closes with Allah loves the steadfast: as-sabirin, the very word on which this verse ends. The answer to the question had been given by others long before.",
+            "bn": "আশপাশের আয়াতগুলোও একই সুতোয় গাঁথা। ঠিক পরের আয়াত, ৩:১৪৩, তাঁদের মনে করিয়ে দেয়: মৃত্যুর মুখোমুখি হওয়ার আগে তোমরা তা কামনা করতে, এখন তো নিজের চোখে তা দেখলে। কয়েক আয়াত পরে ৩:১৪৬ বলে বহু নবীর কথা, যাঁদের সঙ্গে থেকে অনেক মানুষ লড়েছে। আল্লাহর পথে যা কিছু তাদের ওপর এসেছে, তাতে তারা হীনবল হয়নি, মাথাও নোয়ায়নি। আয়াতটি শেষ হয় এ কথায়: আল্লাহ ধৈর্যশীলদের ভালোবাসেন। আস-সাবিরীন, ঠিক যে শব্দে এ আয়াতটিও শেষ হয়েছে। প্রশ্নটির জবাব অন্যরা বহু আগেই দিয়ে গেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ask Allah for Well-Being",
+          "bn": "আল্লাহর কাছে নিরাপত্তা চাওয়া"
+        },
+        "p": [
+          {
+            "en": "Under 3:143, Ibn Kathir's abridgement relays a hadith he says is recorded in the Two Sahihs. Al-Bukhari's wording (3024), from a letter of 'Abdullah ibn Abi Awfa (RA), reports that the Messenger of Allah ﷺ, on one of the days he met the enemy, waited until the sun had declined and then stood among the people and said: \"O people! Do not wish to meet the enemy, and ask Allah for safety, but when you face the enemy, be patient, and remember that Paradise is under the shades of swords.\" Muslim records it as well (1742).",
+            "bn": "৩:১৪৩-এর আলোচনায় ইবন কাসীরের সংক্ষিপ্ত সংস্করণ একটি হাদীস আনে, যা তাঁর ভাষায় দুই সহীহ গ্রন্থে আছে। বুখারীর বর্ণনায় (৩০২৪), আবদুল্লাহ ইবন আবী আওফা (রাঃ)-এর এক চিঠি থেকে জানা যায়: শত্রুর মুখোমুখি হওয়ার এক দিনে রাসূলুল্লাহ ﷺ সূর্য হেলে পড়া পর্যন্ত অপেক্ষা করলেন। তারপর লোকদের মাঝে দাঁড়িয়ে বললেন: \"হে লোকেরা! শত্রুর সঙ্গে মোকাবিলার কামনা কোরো না, আল্লাহর কাছে নিরাপত্তা চাও। তবে যখন শত্রুর মুখোমুখি হবে, তখন সবর কোরো, আর জেনে রেখো, জান্নাত তলোয়ারের ছায়ার নিচে।\" মুসলিমও হাদীসটি বর্ণনা করেছেন (১৭৪২)।"
+          },
+          {
+            "en": "The hadith was not narrated on this verse; Ibn Kathir places it under the next verse, where it answers the wish that 3:143 recalls. Read beside 3:142, it keeps the verse from being taken as a call to court hardship. The believer asks Allah for well-being. The test, when it comes, is met with patience, the very quality this verse names. Paradise remains the hope, but it is reached by holding firm in what arrives, not by inviting what has not yet come.",
+            "bn": "হাদীসটি এ আয়াত প্রসঙ্গে বর্ণিত হয়নি। ইবন কাসীর এটি এনেছেন পরের আয়াতের নিচে, যেখানে ৩:১৪৩ যে কামনার কথা মনে করিয়ে দেয়, তার জবাব হিসেবে। তবু ৩:১৪২-এর পাশে রেখে পড়লে হাদীসটি আয়াতকে ভুল বোঝা থেকে বাঁচায়। আয়াত কষ্টকে ডেকে আনার আহ্বান নয়। মুমিন আল্লাহর কাছে নিরাপত্তা চায়। পরীক্ষা যখন আসে, সে তার মোকাবিলা করে সবর দিয়ে, আর এই সবরই আয়াতের দ্বিতীয় গুণ। জান্নাত আশার জায়গাতেই থাকে। কিন্তু সেখানে পৌঁছানো যায় যা এসে পড়ে তাতে অবিচল থেকে, যা আসেনি তাকে ডেকে এনে নয়।"
+          },
+          {
+            "en": "A second narration is general and not attached to this verse by any commentator fetched here, though it carries the same theme. Muslim (2822) records from Anas ibn Malik (RA) that the Messenger of Allah ﷺ said: \"The Paradise is surrounded by hardships and the Hell-Fire is surrounded by temptations.\" Muslim places it in his Sahih. The hardships are not the goal but the hedge around it, and the way in passes through them.",
+            "bn": "দ্বিতীয় একটি বর্ণনা সাধারণ। এখানে দেখা কোনো তাফসীর এটিকে এ আয়াতের সঙ্গে যুক্ত করেনি, তবে বিষয় একই। মুসলিম (২৮২২) আনাস ইবন মালিক (রাঃ) থেকে বর্ণনা করেছেন, রাসূলুল্লাহ ﷺ বলেছেন: \"জান্নাতকে ঘিরে রাখা হয়েছে কষ্ট দিয়ে, আর জাহান্নামকে ঘিরে রাখা হয়েছে প্রবৃত্তির লোভনীয় জিনিস দিয়ে।\" মুসলিম এটি তাঁর সহীহ গ্রন্থে এনেছেন। কষ্ট নিজে লক্ষ্য নয়, লক্ষ্যের চারপাশের বেড়া। ভেতরে ঢোকার পথ সেই বেড়ার ভেতর দিয়েই গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rest Reached by Leaving Rest",
+          "bn": "আরাম ছেড়ে আরামের পথে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di explains why the cost matches the goal. Paradise, he says, is the highest of all aims and the finest thing for which competitors compete, and the greater the thing sought, the greater its means and the work that leads to it. So rest is reached only by leaving rest, and bliss is attained only by leaving bliss. The sentence does not despise comfort. It puts comfort in its order: the lasting kind is reached by giving up the passing kind.",
+            "bn": "খরচ কেন লক্ষ্যের সমান হয়, সা'দী তা বুঝিয়ে বলেন। তাঁর কথায়, জান্নাত সব চাওয়ার মধ্যে সবচেয়ে উঁচু, প্রতিযোগীরা যা নিয়ে প্রতিযোগিতা করে তার মধ্যে সবচেয়ে উত্তম। আর চাওয়ার জিনিস যত বড়, তার উপায় আর তার দিকে নিয়ে যাওয়া আমলও তত বড়। তাই আরাম ছাড়া আরাম মেলে না, নিয়ামত ছাড়া নিয়ামত পাওয়া যায় না। এ কথা আরামকে তুচ্ছ করে না। আরামকে তার জায়গায় বসায়: চিরস্থায়ী আরামে পৌঁছাতে ক্ষণস্থায়ী আরাম ছাড়তে হয়।"
+          },
+          {
+            "en": "He goes further. The hardships of this world that reach a servant in Allah's path, once the soul has been settled to meet them, trained to bear them, and taught where they lead, turn for people of insight into gifts in which they rejoice and about which they no longer worry. And that, he ends, is the favour of Allah, which He gives to whom He wills. The burden is the same burden. What has changed is the one carrying it.",
+            "bn": "তিনি আরও এগিয়ে যান। আল্লাহর পথে বান্দার ওপর দুনিয়ার যে কষ্ট আসে, মন যদি আগে থেকে তার জন্য প্রস্তুত থাকে, সইতে অভ্যস্ত হয়, আর জানে এর শেষ কোথায়, তবে অন্তর্দৃষ্টিসম্পন্ন মানুষের কাছে সেই কষ্টই উপহার হয়ে যায়। তারা তাতে খুশি হয়, তা নিয়ে আর দুশ্চিন্তা করে না। তাঁর শেষ কথা: এ আল্লাহর অনুগ্রহ, যাকে ইচ্ছা তিনি তা দান করেন। বোঝা একই থাকে। বদলায় শুধু সেই মানুষটি, যে বোঝা বইছে।"
+          },
+          {
+            "en": "The setting is a battlefield, and the verse speaks of the testing of believers at a particular hour of their history. It licenses nothing against any living person or community, and it gives no one reason to go looking for conflict. But the principle as-Sa'di draws reaches every believer who meets hardship in obeying Allah: a promise kept at a cost, an illness borne without complaint, a temptation refused. In each the question waits: did you think you would enter without it?",
+            "bn": "পটভূমি এক যুদ্ধক্ষেত্র। আয়াতটি মুমিনদের ইতিহাসের এক বিশেষ সময়ে তাঁদের পরীক্ষার কথা বলে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না, আর কাউকে সংঘাত খুঁজে বেড়ানোর কারণও দেয় না। তবে সা'দী যে নীতি বের করে আনেন, তা পৌঁছায় এমন প্রত্যেক মুমিনের কাছে, যে আল্লাহর আনুগত্য করতে গিয়ে কষ্টের মুখোমুখি হয়। মূল্য দিয়ে রাখা কোনো ওয়াদা, অভিযোগ ছাড়া সয়ে যাওয়া কোনো অসুখ, ফিরিয়ে দেওয়া কোনো প্রলোভন। প্রতিটির ভেতরে প্রশ্নটা অপেক্ষা করে: তোমরা কি ভেবেছ, এ ছাড়াই ঢুকে যাবে?"
+          }
+        ]
+      }
+    ]
+  },
   "3:144": {
     "sections": [
       {
