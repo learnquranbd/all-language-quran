@@ -159,6 +159,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:9": {
+    "sections": [
+      {
+        "h": {
+          "en": "Asking at the Hinge of Badr",
+          "bn": "বদরের মোড়ে দাঁড়িয়ে চাওয়া"
+        },
+        "p": [
+          {
+            "en": "Al-Anfal opens its account of Badr by admitting what the believers wanted. 8:5 and 8:6 describe a party of them unwilling to march, as though driven towards death, and 8:7 says they wished the unarmed group would be theirs, while Allah willed to establish the truth by His words and cut off the root of the disbelievers. 8:8 names the purpose: to establish the truth and abolish falsehood. Then 8:9 turns from what they wanted to what they did once the armies faced each other. They asked.",
+            "bn": "বদরের বিবরণ শুরু করতে গিয়ে সূরা আনফাল প্রথমেই মেনে নেয়, মু'মিনরা আসলে কী চেয়েছিল। ৮:৫ ও ৮:৬ আয়াতে আছে, তাদের একদল বের হতে রাজি ছিল না। যেন তাদের মৃত্যুর দিকে তাড়িয়ে নেওয়া হচ্ছে। ৮:৭ বলে, তারা চেয়েছিল নিরস্ত্র দলটাই তাদের ভাগে আসুক। অথচ আল্লাহ চাইছিলেন তাঁর বাণী দিয়ে সত্যকে প্রতিষ্ঠা করতে আর কাফিরদের মূল কেটে দিতে। ৮:৮ উদ্দেশ্যটা স্পষ্ট করে: সত্যকে সত্য প্রমাণ করা, মিথ্যাকে মিথ্যা। এরপর ৮:৯ তাদের চাওয়া থেকে চোখ ফেরায় তাদের কাজের দিকে, দুই বাহিনী মুখোমুখি হওয়ার পর তারা যা করেছিল। তারা চেয়েছিল, আল্লাহর কাছে।"
+          },
+          {
+            "en": "At-Tabari reads the link through the grammar. For him idh, when, is attached to yubtil in 8:8: Allah abolishes falsehood at the time you were seeking help from your Lord. The cry for help is then the very moment the promise of 8:7 was being kept. As-Sa'di and al-Muyassar read idh as a call to remember: recall Allah's favour on you on the day of Badr, when the meeting with your enemy drew near. Either way, the asking sits at the hinge of the story.",
+            "bn": "তাবারী যোগসূত্রটা খোঁজেন ব্যাকরণে। তাঁর মতে ইয, অর্থাৎ যখন, শব্দটি ৮:৮ আয়াতের ইউবতিল ক্রিয়ার সঙ্গে যুক্ত। মানে দাঁড়ায়: তোমরা যখন তোমাদের রবের কাছে সাহায্য চাইছিলে, ঠিক তখনই আল্লাহ মিথ্যাকে মিথ্যা করে দিচ্ছিলেন। তাহলে সাহায্যের ফরিয়াদটাই সেই মুহূর্ত, যখন ৮:৭ আয়াতের প্রতিশ্রুতি পূরণ হচ্ছিল। সা'দী আর মুয়াসসার ইযকে পড়েন স্মরণ করার আহ্বান হিসেবে: বদরের দিন তোমাদের উপর আল্লাহর অনুগ্রহের কথা মনে করো, যখন শত্রুর সঙ্গে মোকাবিলা ঘনিয়ে এসেছিল। যেভাবেই পড়ুন, চাওয়াটাই কাহিনির মোড়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tastaghithun: Calling for Rescue",
+          "bn": "তাসতাগীসূন: উদ্ধারের ফরিয়াদ"
+        },
+        "p": [
+          {
+            "en": "Tastaghithuna comes from the root gh-w-th, rescue. Al-Qurtubi, citing the lexicographer al-Jawhari, defines istighatha as seeking ghawth and victory, and gives the cry the word grows from: a man in trouble calls out wa-ghawthah, help! At-Tabari explains it as seeking Allah's protection from the enemy and calling on Him for victory over them, and al-Baghawi uses almost the same words. As-Sa'di adds the moment: as the meeting with the enemy drew near, they called on their Lord and asked Him to aid them and grant them victory.",
+            "bn": "তাসতাগীসূন শব্দের মূল গ-ও-স, যার অর্থ উদ্ধার। কুরতুবী অভিধানকার জাওহারীর বরাতে ইস্তিগাসার সংজ্ঞা দেন: গাওস আর বিজয় চাওয়া। শব্দটা যে ডাক থেকে এসেছে, সেটাও তিনি দেখান। বিপদে পড়া মানুষ চিৎকার করে বলে, ওয়া গাওসাহ, কে আছ বাঁচাও! তাবারীর ব্যাখ্যায় এর মানে শত্রুর হাত থেকে আল্লাহর আশ্রয় চাওয়া আর তাদের বিরুদ্ধে বিজয়ের জন্য তাঁকে ডাকা। বাগাভীও প্রায় একই কথা বলেন। সা'দী সময়টা যোগ করেন। শত্রুর সঙ্গে দেখা হওয়ার ক্ষণ যখন কাছে এসে গেল, তখন তারা রবকে ডাকল, তাঁর কাছে সাহায্য আর বিজয় চাইল।"
+          },
+          {
+            "en": "The verb of asking is imperfect, you were seeking help, and the verb of answering is past, fa-stajaba, and He answered. The fa that joins them sets the answer straight after the asking. At-Tabari glosses it plainly: He answered your prayer. As-Sa'di notes that the answer was more than one thing: Allah rescued them by several means, and the first of them was that He reinforced them with a thousand angels. 8:11 goes on to name drowsiness and rain. The angels head a longer list of rescue.",
+            "bn": "চাওয়ার ক্রিয়াটি চলমান অতীতে: তোমরা সাহায্য চাইছিলে। আর সাড়া দেওয়ার ক্রিয়াটি সাধারণ অতীতে: ফাস্তাজাবা, তিনি সাড়া দিলেন। দুটোকে জুড়েছে যে ফা অক্ষর, সেটা সাড়াকে বসিয়ে দেয় চাওয়ার ঠিক পরেই। তাবারী সোজা কথায় ব্যাখ্যা করেন: তিনি তোমাদের দোয়া কবুল করলেন। সা'দী খেয়াল করিয়ে দেন, সাড়া একটিমাত্র জিনিসে সীমিত ছিল না। আল্লাহ কয়েকভাবে তাদের উদ্ধার করেছিলেন, আর তার প্রথমটি হলো এক হাজার ফেরেশতা দিয়ে সাহায্য। ৮:১১ আয়াত এরপর তন্দ্রা আর বৃষ্টির কথা বলে। উদ্ধারের এক লম্বা তালিকার শুরুতে আছেন ফেরেশতারা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Voice, a Plural Verb",
+          "bn": "এক কণ্ঠ, বহুবচনের ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "Who was asking? The verb is plural, yet the reports at-Tabari gathers centre on one person. Ibn Jurayj says the words refer to the prayer of the Prophet ﷺ, and as-Suddi describes him turning to Allah, calling on Him and asking Him for help and victory, after which Allah sent down the angels. Ibn Kathir records the same reading, that the verse concerns the Prophet's ﷺ prayer, from Ibn Abbas (RA) through two chains, and from Yazid ibn Yuthay'.",
+            "bn": "চাইছিল কে? ক্রিয়াটি বহুবচন, অথচ তাবারী যে বর্ণনাগুলো জড়ো করেন, সেগুলো ঘুরে আসে একজন মানুষকে ঘিরেই। ইবন জুরাইজ বলেন, কথাটি নবী ﷺ-এর দোয়া সম্পর্কে। সুদ্দীর বর্ণনায় তিনি আল্লাহর দিকে ফিরলেন, তাঁকে ডাকলেন, তাঁর কাছে সাহায্য ও বিজয় চাইলেন, তারপর আল্লাহ ফেরেশতা নাযিল করলেন। আয়াতটি নবী ﷺ-এর দোয়া নিয়ে, এই ব্যাখ্যাই ইবন কাসীর আনেন ইবন আব্বাস (রাঃ) থেকে দুটি সূত্রে, আর ইয়াযীদ ইবন ইউসাই' থেকেও।"
+          },
+          {
+            "en": "Ibn Ishaq, in at-Tabari, keeps the plural: you were seeking help by your prayer, when they looked at the number of their enemy and the fewness of their own; and He answered you through the prayer of the Messenger of Allah ﷺ and your prayer with him. Ma'arif al-Qur'an says the appeal came from the Prophet ﷺ, but the Companions around him were saying amin, so the cry is attributed to the whole group. One man's prayer, joined by others, became the prayer of an army.",
+            "bn": "তাবারীর বর্ণনায় ইবন ইসহাক বহুবচনটাই ধরে রাখেন: তোমরা দোয়ার মাধ্যমে সাহায্য চাইছিলে, যখন তারা দেখল শত্রু অনেক আর নিজেরা অল্প। আর আল্লাহ সাড়া দিলেন রাসূলুল্লাহ ﷺ-এর দোয়ার মাধ্যমে, সঙ্গে তোমাদের দোয়ার মাধ্যমেও। মাআরিফুল কুরআন বলে, ফরিয়াদটা আসলে করছিলেন নবী ﷺ, কিন্তু আশপাশের সাহাবীরা বলছিলেন আমীন। তাই ডাকটাকে পুরো দলের ডাক বলা হয়েছে। একজনের দোয়া, অন্যদের আমীনে মিশে, হয়ে উঠল গোটা বাহিনীর দোয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Until His Cloak Slipped",
+          "bn": "কাঁধ থেকে চাদর খসে পড়া পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "Sahih Muslim 1763 preserves the scene through Ibn Abbas (RA) from Umar ibn al-Khattab (RA). On the day of Badr the Messenger of Allah ﷺ looked at the idolaters, who were a thousand, and at his companions, who were 319. He faced the qiblah, stretched out his hands and began calling aloud on his Lord: 'O Allah, fulfil for me what You promised me. O Allah, bring what You promised me. O Allah, if this band of the people of Islam perishes, You will not be worshipped on the earth.'",
+            "bn": "সহীহ মুসলিম ১৭৬৩ দৃশ্যটি ধরে রেখেছে ইবন আব্বাস (রাঃ)-এর মাধ্যমে, উমর ইবনুল খাত্তাব (রাঃ) থেকে। বদরের দিন রাসূলুল্লাহ ﷺ মুশরিকদের দিকে তাকালেন, তারা এক হাজার। তারপর তাকালেন নিজের সাহাবীদের দিকে, তাঁরা ৩১৯ জন। তিনি কিবলামুখী হলেন, দুই হাত প্রসারিত করলেন, আর উচ্চস্বরে রবকে ডাকতে লাগলেন: 'হে আল্লাহ, আমাকে যে প্রতিশ্রুতি দিয়েছেন তা পূরণ করুন। হে আল্লাহ, আমাকে যার প্রতিশ্রুতি দিয়েছেন তা দিন। হে আল্লাহ, ইসলামের অনুসারীদের এই ছোট্ট দলটি যদি ধ্বংস হয়ে যায়, তাহলে পৃথিবীতে আপনার ইবাদত করা হবে না।'"
+          },
+          {
+            "en": "He kept calling, hands stretched out and face to the qiblah, until his cloak fell from his shoulders. Abu Bakr (RA) came, took the cloak, put it back on his shoulders and held him from behind, saying: 'Prophet of Allah, this appeal of yours to your Lord is enough, for He will fulfil for you what He promised you.' Then Allah revealed this verse, and reinforced him with angels. The report goes on to a Muslim who heard a whip crack above him, which the Prophet ﷺ called help from the third heaven.",
+            "bn": "তিনি ডাকতেই থাকলেন, হাত প্রসারিত, মুখ কিবলার দিকে, শেষে তাঁর কাঁধ থেকে চাদর খসে পড়ল। আবু বকর (রাঃ) এসে চাদরটা তুলে আবার তাঁর কাঁধে রাখলেন, তারপর পেছন থেকে তাঁকে জড়িয়ে ধরে বললেন: 'হে আল্লাহর নবী, রবের কাছে আপনার এই মিনতিই যথেষ্ট। তিনি আপনাকে দেওয়া প্রতিশ্রুতি অবশ্যই পূরণ করবেন।' তখন আল্লাহ এই আয়াত নাযিল করলেন, আর ফেরেশতা দিয়ে তাঁকে সাহায্য করলেন। বর্ণনাটি আরও এগোয়। এক মুসলিম মাথার উপরে চাবুকের শব্দ শুনেছিলেন, আর নবী ﷺ সেটাকে বলেছিলেন তৃতীয় আসমানের সাহায্য।"
+          },
+          {
+            "en": "Al-Bukhari has a shorter report from Ibn Abbas (RA), Sahih al-Bukhari 3953: on the day of Badr the Prophet ﷺ said, 'O Allah, I ask You by Your covenant and Your promise. O Allah, if You will, You will not be worshipped.' Abu Bakr took his hand and said, 'Enough.' He went out saying: the gathering will be routed and they will turn their backs (54:45). The asking did not keep him from the field; he walked out of it reciting a promise.",
+            "bn": "বুখারীতে ইবন আব্বাস (রাঃ) থেকে আরও সংক্ষিপ্ত একটি বর্ণনা আছে, সহীহ বুখারী ৩৯৫৩। বদরের দিন নবী ﷺ বললেন: 'হে আল্লাহ, আমি আপনাকে আপনার অঙ্গীকার আর প্রতিশ্রুতির দোহাই দিচ্ছি। হে আল্লাহ, আপনি চাইলে আপনার ইবাদত আর হবে না।' আবু বকর (রাঃ) তাঁর হাত ধরে বললেন, 'যথেষ্ট হয়েছে।' তিনি বেরিয়ে এলেন এই কথা বলতে বলতে: এই দল শিগগিরই পরাজিত হবে আর পৃষ্ঠ প্রদর্শন করবে (৫৪:৪৫)। দোয়া তাঁকে ময়দান থেকে দূরে রাখেনি। দোয়া শেষে তিনি এক প্রতিশ্রুতি পড়তে পড়তে বেরিয়ে এলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Murdifin or Murdafin",
+          "bn": "মুরদিফীন, না মুরদাফীন"
+        },
+        "p": [
+          {
+            "en": "The verse's last word is read two ways. At-Tabari reports that the general body of Medinan readers read murdafin, with the dal vowelled a, while some Makkans and most readers of Kufa and Basra read murdifin, with i. Al-Qurtubi names Nafi' for murdafin and says the rest read murdifin; al-Baghawi names the people of Madinah and Ya'qub. With i, the angels do the following; with a, they are made to follow.",
+            "bn": "আয়াতের শেষ শব্দটি দুইভাবে পড়া হয়। তাবারী জানান, মদীনার কারীদের বেশিরভাগ পড়েছেন মুরদাফীন, দালে যবর দিয়ে। আর মক্কার কয়েকজন এবং কূফা ও বসরার অধিকাংশ কারী পড়েছেন মুরদিফীন, দালে যের দিয়ে। কুরতুবী মুরদাফীন কিরাআতের জন্য নাফি'-র নাম নেন, আর বলেন বাকিরা পড়েছেন মুরদিফীন। বাগাভী নাম নেন মদীনাবাসী ও ইয়াকুবের। যের দিয়ে পড়লে ফেরেশতারা নিজেরাই একের পর এক আসছেন, আর যবর দিয়ে পড়লে তাঁদের পরপর পাঠানো হচ্ছে।"
+          },
+          {
+            "en": "Al-Qurtubi gives both senses. Murdifin means the angels came in succession, one company after another, and he remarks that this is more awe-inspiring to the eye. Murdafin can mean that the people who fought at Badr were followed up with a thousand angels sent down to help them against the disbelievers. Some, he adds, make the word describe the believers being reinforced rather than the angels, and he calls this the view of Mujahid. Al-Baghawi reads murdafin the same way: Allah followed up the Muslims with the angels and brought them as reinforcement.",
+            "bn": "কুরতুবী দুটো অর্থই দেন। মুরদিফীন মানে ফেরেশতারা একটানা এসেছিলেন, এক দলের পর আরেক দল। তিনি মন্তব্য করেন, চোখে এটা বেশি ভয় জাগানো দৃশ্য। মুরদাফীনের অর্থ হতে পারে, বদরে যাঁরা লড়েছিলেন, কাফিরদের বিরুদ্ধে তাঁদের সাহায্যে পরপর এক হাজার ফেরেশতা নামিয়ে দেওয়া হয়েছিল। তিনি আরও বলেন, কেউ কেউ শব্দটাকে ফেরেশতাদের নয়, সাহায্যপ্রাপ্ত মু'মিনদের বিশেষণ ধরেন, আর এটাকে তিনি মুজাহিদের মত বলে উল্লেখ করেন। বাগাভীও মুরদাফীনকে একইভাবে পড়েন: আল্লাহ মুসলিমদের পেছনে ফেরেশতাদের পাঠিয়ে তাঁদের সাহায্য হিসেবে এনেছিলেন।"
+          },
+          {
+            "en": "At-Tabari prefers murdifin, with i, because the interpreters agree that the word means coming in succession, and that agreement, he says, is clear evidence for the reading. He reports an objection from a scholar of Arabic that irdaf means carrying someone behind you on a mount. He also reports others who cite an old line of verse in which the Twins ardafat the Pleiades, rising after them. He rejects the claim that murdafin means Allah followed the Muslims up with angels, since the word speaks of the angels, not the believers.",
+            "bn": "তাবারী পছন্দ করেন যের দিয়ে মুরদিফীন। কারণ, মুফাসসিররা একমত যে শব্দটির অর্থ একের পর এক আসা। তাঁর মতে এই ঐকমত্যই কিরাআতটির পক্ষে স্পষ্ট দলিল। আরবি ভাষার এক বিশেষজ্ঞের আপত্তিও তিনি উল্লেখ করেন: ইরদাফ মানে বাহনে কাউকে নিজের পেছনে বসানো। আবার অন্য কয়েকজন প্রাচীন এক কবিতার পঙক্তিকে দলিল হিসেবে আনেন, সেটাও তিনি জানান। সেখানে মিথুন নক্ষত্রপুঞ্জ কৃত্তিকার পরে ওঠে, আর কবি বলেন সে কৃত্তিকাকে আরদাফাত করল। যারা বলেন মুরদাফীন মানে আল্লাহ মুসলিমদের পেছনে ফেরেশতা জুড়ে দিলেন, তাবারী সে কথা নাকচ করেন। কারণ শব্দটা ফেরেশতাদের কথা বলছে, মু'মিনদের নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Thousand, Then Thousands",
+          "bn": "এক হাজার, তারপর আরও হাজার"
+        },
+        "p": [
+          {
+            "en": "3:124 and 3:125 speak of 3,000 angels and then 5,000, which raises a question beside the thousand here. Ibn Kathir, on 3:124, poses it for those who place that promise at Badr, and answers that naming a thousand in al-Anfal does not exclude 3,000 or more, because murdifin means that further thousands followed after them. The two passages read alike, he says, and the apparent sense is that both concern Badr. He also records ar-Rabi' ibn Anas: Allah reinforced the Muslims with a thousand, then they became 3,000, then 5,000.",
+            "bn": "৩:১২৪ ও ৩:১২৫ আয়াতে আছে ৩,০০০, তারপর ৫,০০০ ফেরেশতার কথা। এখানকার এক হাজারের পাশে রাখলে তাই প্রশ্ন জাগে। যাঁরা ওই প্রতিশ্রুতিকে বদরের সঙ্গে যুক্ত করেন, তাঁদের দিক থেকে ইবন কাসীর ৩:১২৪ আয়াতের আলোচনায় প্রশ্নটা তোলেন, আর জবাব দেন: আনফালে এক হাজারের উল্লেখ ৩,০০০ বা তার বেশিকে বাদ দেয় না। কারণ মুরদিফীন মানে তাঁদের পেছনে আরও হাজার হাজার আসছিল। তাঁর মতে দুই জায়গার বর্ণনাভঙ্গি একই রকম, আর বাহ্যিক অর্থ হলো দুটোই বদরের কথা। তিনি রবী' ইবন আনাসের কথাও আনেন: আল্লাহ মুসলিমদের প্রথমে এক হাজার দিয়ে সাহায্য করলেন, তারপর তা হলো ৩,০০০, তারপর ৫,০০০।"
+          },
+          {
+            "en": "At 8:9 Ibn Kathir records a report from Ali (RA) that Jibril came down with a thousand angels on the Prophet's ﷺ right and Mika'il with a thousand on his left. He hedges: if its chain were sound, it would mean the thousand was followed by another like it, which is why some read murdafin, and Allah knows best. What he calls well known is the report of Ali ibn Abi Talha from Ibn Abbas (RA): a thousand angels, Jibril with five hundred on one flank and Mika'il with five hundred on the other.",
+            "bn": "৮:৯ আয়াতে ইবন কাসীর আলী (রাঃ) থেকে একটি বর্ণনা আনেন। তাতে আছে, জিবরীল (আঃ) এক হাজার ফেরেশতা নিয়ে নবী ﷺ-এর ডান দিকে নেমেছিলেন, আর মীকাঈল (আঃ) এক হাজার নিয়ে বাঁ দিকে। তবে তিনি শর্ত জুড়ে দেন: এর সনদ যদি সহীহ হতো, তবে বোঝা যেত এক হাজারের পেছনে আরেক হাজার এসেছিল। এ কারণেই কেউ কেউ মুরদাফীন পড়েছেন। আর আল্লাহই ভালো জানেন। যে বর্ণনাকে তিনি সুপরিচিত বলেন, সেটা ইবন আব্বাস (রাঃ) থেকে আলী ইবন আবী তালহার সূত্রে: ফেরেশতা মোট এক হাজার, এক পাশে পাঁচশ নিয়ে জিবরীল (আঃ), অন্য পাশে পাঁচশ নিয়ে মীকাঈল (আঃ)।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an gives another kind of reason: one angel would have been more than enough, but Allah knows that His servants are impressed by numbers, so the promise was matched to the enemy, a thousand strong, that their hearts might be at rest. Ibn Kathir reports that the commentators differ over whether 3:124 and 3:125 belong to Badr or to Uhud; that disagreement belongs with those verses and is not settled here.",
+            "bn": "মাআরিফুল কুরআন ভিন্ন ধরনের এক কারণ দেখায়। একজন ফেরেশতাই যথেষ্টর চেয়ে বেশি ছিলেন। কিন্তু আল্লাহ জানেন, তাঁর বান্দারা সংখ্যা দেখে প্রভাবিত হয়। তাই প্রতিশ্রুতিটা মিলিয়ে দেওয়া হলো শত্রুর সংখ্যার সঙ্গে, তারা ছিল এক হাজার, যাতে মু'মিনদের অন্তর শান্ত হয়। ইবন কাসীর জানান, ৩:১২৪ ও ৩:১২৫ আয়াত বদরের, নাকি উহুদের, এ নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে। সে আলোচনা ওই আয়াতগুলোর জায়গায়, এখানে তার মীমাংসা করা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Good Tidings, Not the Source",
+          "bn": "সুসংবাদ, উৎস নয়"
+        },
+        "p": [
+          {
+            "en": "8:10 then puts the thousand in its place: Allah made it only good tidings, and so that your hearts would be assured by it, and victory is only from Allah. Ibn Kathir, reading the two verses together, explains that Allah made the sending of the angels, and His telling the believers of it, good tidings, while He was able to give them victory without sending angels at all. The help named in 8:9 was real, and 8:10 forbids treating it as the source.",
+            "bn": "এরপর ৮:১০ এক হাজারকে তার জায়গায় বসিয়ে দেয়: আল্লাহ এটাকে করেছেন শুধু সুসংবাদ, আর যাতে এতে তোমাদের অন্তর প্রশান্ত হয়। বিজয় তো কেবল আল্লাহরই কাছ থেকে। ইবন কাসীর দুই আয়াত একসঙ্গে পড়ে ব্যাখ্যা করেন, ফেরেশতা পাঠানো আর মু'মিনদের সে খবর জানানো, দুটোকেই আল্লাহ সুসংবাদ বানিয়েছেন। অথচ ফেরেশতা না পাঠিয়েও তিনি তাদের বিজয় দিতে পারতেন। ৮:৯ আয়াতে যে সাহায্যের নাম আছে, তা ছিল সত্যিকারের সাহায্য। কিন্তু ৮:১০ সেটাকে উৎস ভাবতে নিষেধ করে।"
+          },
+          {
+            "en": "The angels who came were honoured for it. Sahih al-Bukhari 3992 reports from Rifa'a (RA), who fought at Badr, that Jibril came to the Prophet ﷺ and said, 'How do you count the people of Badr among you?' He said, 'Among the best of the Muslims,' or words to that effect. Jibril said, 'And so are those of the angels who were present at Badr.'",
+            "bn": "যে ফেরেশতারা এসেছিলেন, তাঁরা এর জন্য সম্মান পেয়েছেন। সহীহ বুখারী ৩৯৯২-এ বদরযোদ্ধা রিফাআ (রাঃ) থেকে বর্ণিত: জিবরীল (আঃ) নবী ﷺ-এর কাছে এসে বললেন, 'আপনাদের মধ্যে বদরের লোকদের আপনারা কোন মর্যাদায় গণ্য করেন?' তিনি বললেন, 'শ্রেষ্ঠ মুসলিমদের মধ্যে', কিংবা এমনই কোনো কথা। জিবরীল (আঃ) বললেন, 'ফেরেশতাদের মধ্যে যাঁরা বদরে উপস্থিত ছিলেন, তাঁরাও তেমনই।'"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes one battle, fought at Badr under the Prophet's ﷺ command, and a help promised and given for that day. It licenses nothing against any living person or community, gives no one today a warrant for violence, and gives no group the right to claim that angels march on its side. What it leaves to every believer, in any place and time, is the asking.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটিমাত্র যুদ্ধের বর্ণনা দেয়, যা বদরে নবী ﷺ-এর নেতৃত্বে হয়েছিল, আর সেই দিনের জন্য প্রতিশ্রুত ও প্রদত্ত এক সাহায্যের কথা বলে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কাউকে সহিংসতার সনদ দেয় না, আর কোনো দলকে এ দাবির অধিকারও দেয় না যে ফেরেশতারা তাদের পক্ষে নেমে আসছেন। প্রতিটি মু'মিনের জন্য, যে কোনো কালে, যে কোনো জায়গায়, এ আয়াত রেখে যায় শুধু চাওয়াটুকু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking Before Everything Else",
+          "bn": "সবকিছুর আগে চাওয়া"
+        },
+        "p": [
+          {
+            "en": "The order of the verse teaches by itself. The ranks had formed and the companions had marched, yet the verse recalls none of that. It recalls the asking, and then the answer. A believer facing an operation, a hearing or a debt can do every lawful thing the situation calls for and still know that the outcome lies with Allah. The preparations are part of a believer's work, and so is the cry for help; the verse names the cry first.",
+            "bn": "আয়াতের ক্রম নিজেই এক শিক্ষা। সারি তৈরি হয়ে গিয়েছিল, সাহাবীরা পথ পাড়ি দিয়ে এসেছিলেন, অথচ আয়াত এসবের কিছুই মনে করায় না। মনে করায় শুধু চাওয়া, তারপর জবাব। অপারেশনের মুখোমুখি কোনো মু'মিন, কিংবা মামলার শুনানি বা ঋণের বোঝা মাথায় নিয়ে থাকা কেউ, পরিস্থিতির দাবি মেনে সব হালাল চেষ্টাই করতে পারেন। তবু তিনি জানেন, ফলাফল আল্লাহর হাতে। প্রস্তুতি মু'মিনের কাজের অংশ, ফরিয়াদও তাই। আয়াত অবশ্য ফরিয়াদের নামটাই আগে নিয়েছে।"
+          },
+          {
+            "en": "The du'a at Badr also shows that certainty and asking are not rivals. The believers had been promised one of the two groups (8:7), yet the Prophet ﷺ asked until his cloak fell, and Abu Bakr (RA) comforted him with that very promise. A believer can ask in the same spirit, holding Allah to His own promise rather than to any claim of having earned it. And when help arrives through ordinary means, 8:10 asks that it be received as good tidings, with the heart at rest.",
+            "bn": "বদরের দোয়া আরও দেখায়, নিশ্চিত বিশ্বাস আর চাওয়া পরস্পরের প্রতিদ্বন্দ্বী নয়। মু'মিনদের দুই দলের একটির প্রতিশ্রুতি দেওয়া হয়েছিল (৮:৭)। তবু নবী ﷺ এমনভাবে চাইলেন যে কাঁধের চাদর খসে পড়ল, আর আবু বকর (রাঃ) তাঁকে সান্ত্বনা দিলেন সেই প্রতিশ্রুতির কথা বলেই। একজন মু'মিনও একইভাবে চাইতে পারেন। তিনি আল্লাহকে তাঁর নিজের প্রতিশ্রুতির দোহাই দেবেন, নিজের অর্জনের দাবিতে নয়। আর সাহায্য যখন সাধারণ উপায়ের পথ ধরে আসে, ৮:১০ চায় তাকে সুসংবাদ হিসেবে গ্রহণ করা হোক, প্রশান্ত অন্তরে।"
+          },
+          {
+            "en": "A few small practices follow. Before a hard thing, name it to Allah plainly and in your own words, as one who needs Him, before you tell anyone else about it. When others pray in fear, say amin to their prayer as readily as to your own; at Badr, one person's cry became the prayer of many. Then keep a record of the answers, so that the next time you call, you remember that He answered before.",
+            "bn": "এখান থেকে কয়েকটা ছোট অভ্যাস নেওয়া যায়। কঠিন কোনো কাজের আগে, অন্য কাউকে জানানোর আগেই, নিজের ভাষায় সোজাসুজি বিষয়টা আল্লাহকে বলুন, যেমন বলে তাঁর মুখাপেক্ষী মানুষ। আর অন্যরা যখন ভয়ের মধ্যে দোয়া করে, নিজের দোয়ার মতোই তাদের দোয়াতেও আমীন বলুন। বদরে একজনের ফরিয়াদই অনেকের দোয়া হয়ে উঠেছিল। তারপর জবাবগুলোর একটা হিসাব রাখুন। পরের বার ডাকার সময় যেন মনে থাকে, তিনি আগেও সাড়া দিয়েছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "8:11": {
     "sections": [
       {

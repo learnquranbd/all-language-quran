@@ -31943,6 +31943,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When anger or a whisper pushes you to repay ignorance in kind, turn to Allah at once and seek refuge in Him; He hears and He knows.",
     "lessonBn": "রাগ বা কুমন্ত্রণা যখন মূর্খতার জবাব মূর্খতা দিয়ে দিতে ঠেলে দেয়, তখনই আল্লাহর দিকে ফিরে তাঁর আশ্রয় চান; তিনি শোনেন, তিনি জানেন।"
+  },
+  "8:9": {
+    "reflectionEn": "The verse does not begin with the angels. It begins with the asking: when you were crying to your Lord for help. The word describes the call of someone whose own means have run out, and the answer follows at once: and He answered you. Only then is the help named, a thousand angels, one rank following another. Allah reminds the believers of their cry before He reminds them of His help, as if the cry itself mattered. The next verse adds that the angels were good tidings, and that victory comes from Him alone. When something is too heavy for me, do I turn to Him first, or only once every other door has closed?",
+    "reflectionBn": "আয়াতটা ফেরেশতাদের কথা দিয়ে শুরু হয়নি। শুরু হয়েছে চাওয়া দিয়ে: যখন তোমরা তোমাদের রবের কাছে সাহায্যের জন্য ফরিয়াদ করছিলে। শব্দটা এমন মানুষের ডাক বোঝায়, যার নিজের সব উপায় ফুরিয়ে গেছে। জবাবও আসে সঙ্গে সঙ্গে: তিনি তোমাদের ডাকে সাড়া দিলেন। তারপরই সাহায্যের নাম আসে, এক হাজার ফেরেশতা, এক সারির পেছনে আরেক সারি। আল্লাহ নিজের সাহায্যের কথা মনে করানোর আগে মু'মিনদের নিজেদের ফরিয়াদের কথা মনে করিয়ে দেন, যেন সেই ডাকটারও দাম ছিল। পরের আয়াত যোগ করে, ফেরেশতারা ছিলেন শুধু সুসংবাদ, আর বিজয় আসে কেবল তাঁরই কাছ থেকে। কোনো কিছু আমার পক্ষে খুব ভারী হয়ে গেলে আমি কি প্রথমেই তাঁর দিকে ফিরি? নাকি তখন, যখন আর সব দরজা বন্ধ হয়ে গেছে?",
+    "pointsEn": [
+      "When did I last ask Allah for help as someone who truly had nothing else, and not as a formality after the real plans were made?",
+      "Do I remember my own past prayers that were answered, or only the hardships that drove me to make them?",
+      "When help comes to me through people or means, do I thank Allah for it, or do I credit the means alone?",
+      "Is there something I am afraid of right now that I have planned for in detail but not yet asked Allah about?",
+      "When others around me are anxious, do I add my 'amin' to their prayer, or only to my own?"
+    ],
+    "pointsBn": [
+      "শেষ কবে আমি আল্লাহর কাছে এমনভাবে সাহায্য চেয়েছি, যেন সত্যিই আমার আর কিছু নেই? আসল পরিকল্পনা সেরে নেওয়ার পর নিয়মরক্ষার দোয়া হিসেবে নয়?",
+      "আমার যেসব দোয়া কবুল হয়েছে, সেগুলো কি আমার মনে আছে? নাকি মনে আছে শুধু সেই কষ্টগুলো, যা আমাকে দোয়া করতে বাধ্য করেছিল?",
+      "মানুষ বা কোনো উপায়ের হাত দিয়ে যখন সাহায্য আসে, তখন কি আমি আল্লাহর শোকর আদায় করি? নাকি সব কৃতিত্ব উপায়টাকেই দিয়ে দিই?",
+      "এখন আমি এমন কী নিয়ে ভয় পাচ্ছি, যার জন্য খুঁটিনাটি পরিকল্পনা করেছি, অথচ আল্লাহর কাছে এখনো চাইনি?",
+      "আশপাশের মানুষ যখন দুশ্চিন্তায় দোয়া করে, আমি কি তাদের দোয়ায় 'আমীন' বলি? নাকি শুধু নিজের দোয়াতেই বলি?"
+    ],
+    "lessonEn": "When something is too heavy for you, cry to your Lord for help as one who truly needs Him, and count His answer, in whatever form it comes, as His help.",
+    "lessonBn": "কোনো কিছু যখন আপনার পক্ষে খুব ভারী হয়ে যায়, তখন সত্যিকারের অভাবী মানুষের মতো আপনার রবের কাছে ফরিয়াদ করুন। আর তাঁর জবাব যে রূপেই আসুক, তাকে তাঁরই সাহায্য বলে গণ্য করুন।"
   }
 };
 
