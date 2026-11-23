@@ -899,6 +899,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:20": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Scale Comes to Rest",
+          "bn": "পাল্লা যেখানে স্থির হয়"
+        },
+        "p": [
+          {
+            "en": "This verse finishes a comparison that the verse before it began. 9:19 asks whether giving water to the pilgrim and keeping up al-Masjid al-Haram have been made equal to believing in Allah and the Last Day and striving in His way, and answers that they are not equal in the sight of Allah. It does not say which side is higher. Our verse does. As-Sa'di marks the turn in a few words: then He stated the merit openly.",
+            "bn": "আগের আয়াতে যে তুলনা শুরু হয়েছিল, এ আয়াতে তা শেষ হয়। ৯:১৯ প্রশ্ন তোলে: হাজীদের পানি পান করানো আর মাসজিদুল হারামের দেখাশোনাকে কি তোমরা আল্লাহ ও শেষ দিনে ঈমান আর আল্লাহর পথে জিহাদের সমান ধরেছ? উত্তরও সেখানে আছে: আল্লাহর কাছে তারা সমান নয়। কিন্তু কোন দিকটা উঁচু, তা সেখানে বলা হয়নি। এ আয়াত সেটাই বলে দেয়। সা'দী মোড়টা ধরিয়ে দেন ছোট্ট এক বাক্যে: এরপর তিনি শ্রেষ্ঠত্বের কথা খোলাখুলি ঘোষণা করলেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads it the same way: verse 20 enlarges on the words they are not equal. At-Tabari frames it more sharply. On 9:19 he calls the passage a rebuke to people who boasted of the water-giving and the custodianship of the House. On our verse he calls it a judgement from Allah between the groups of boasters: one boasted of the water, another of the custodianship, and another of faith in Allah and striving in His way.",
+            "bn": "মাআরিফুল কুরআনও একই কথা বলে: 'তারা সমান নয়', এ কথাটিকেই ২০ নম্বর আয়াত বিস্তারিত করে। তাবারী আরও স্পষ্ট করে বলেন। ৯:১৯-এর আলোচনায় তিনি অংশটিকে বলেন তাদের প্রতি তিরস্কার, যারা পানি পান করানো আর কাবাঘরের তত্ত্বাবধান নিয়ে গর্ব করত। আর আমাদের আয়াত সম্পর্কে বলেন, গর্বকারী দলগুলোর মধ্যে এটি আল্লাহর ফয়সালা। একজন গর্ব করেছিল পানি নিয়ে, আরেকজন তত্ত্বাবধান নিয়ে, আর অন্যজন আল্লাহর প্রতি ঈমান ও তাঁর পথে জিহাদ নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Verbs Before the Rank",
+          "bn": "মর্যাদার আগে তিনটি কাজ"
+        },
+        "p": [
+          {
+            "en": "The subject is a description built from three verbs, amanu, hajaru and jahadu: they believed, emigrated and strove. At-Tabari glosses each against its setting: they believed in Allah and affirmed His oneness, coming out from among the polytheists; they emigrated from the homes of their own people; they strove against the polytheists in the religion of Allah. Al-Muyassar puts the second plainly: they left the abode of disbelief, making for the abode of Islam.",
+            "bn": "বাক্যের কর্তা আসলে তিনটি ক্রিয়ায় গড়া একটি বর্ণনা: আমানু, হাজারু, জাহাদু। অর্থাৎ তারা ঈমান এনেছে, হিজরত করেছে, জিহাদ করেছে। তাবারী প্রতিটি ক্রিয়াকে তার প্রেক্ষাপটে ব্যাখ্যা করেন। মুশরিকদের মধ্য থেকে বেরিয়ে এসে তারা আল্লাহর উপর ঈমান এনেছে, তাঁর একত্বকে সত্য বলে মেনেছে। নিজেদের গোত্রের ঘরবাড়ি ছেড়ে তারা হিজরত করেছে। আল্লাহর দ্বীনের জন্য তারা মুশরিকদের বিরুদ্ধে জিহাদ করেছে। মুয়াসসার সাদামাটা ভাষায় একই কথা বলে: তারা কুফরের দেশ ছেড়ে ইসলামের দেশের দিকে রওনা দিয়েছিল।"
+          },
+          {
+            "en": "Then bi-amwalihim wa-anfusihim, with their wealth and their selves. As-Sa'di separates them: wealth means spending on the campaign and equipping those who go out to fight; selves means going out in person. The two can be given apart. A man can pay for another's journey and stay at home, and a man with nothing can make the journey himself. The verse names both, and al-Muyassar joins them in a single act: they spent wealth and selves to raise high the word of Allah.",
+            "bn": "এরপর বি-আমওয়ালিহিম ওয়া আনফুসিহিম: নিজেদের মাল ও জান দিয়ে। সা'দী দুটিকে আলাদা করে দেখান। মাল দিয়ে মানে জিহাদে খরচ করা আর যোদ্ধাদের প্রস্তুত করে দেওয়া। জান দিয়ে মানে নিজে বেরিয়ে পড়া। দুটো আলাদাভাবেও দেওয়া যায়। কেউ অন্যের সফরের খরচ দিয়ে নিজে ঘরে থেকে যেতে পারে, আবার নিঃস্ব কেউ খালি হাতে নিজেই সফরে বেরোতে পারে। আয়াতটি দুটোকে একসঙ্গে উল্লেখ করেছে, আর মুয়াসসার দুটোকে এক কাজে বেঁধে দেয়: আল্লাহর বাণীকে উঁচু করতে তারা মাল ও জান দুটোই ব্যয় করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Greater Than a Claimed Rank",
+          "bn": "দাবি করা মর্যাদার চেয়ে বড়"
+        },
+        "p": [
+          {
+            "en": "A'zamu darajatan 'inda Allah, greater in rank with Allah, is a comparison, and a comparison needs a second term. At-Tabari supplies it: higher in standing with Him than those who water the pilgrims and keep up al-Masjid al-Haram while associating partners with Allah. Al-Baghawi, glossing darajah as merit, names those who boasted of the water and the upkeep. Al-Qurtubi adds that darajatan is accusative, specifying the respect in which they are greater.",
+            "bn": "আ'জামু দারাজাতান ইনদাল্লাহ, আল্লাহর কাছে মর্যাদায় বড়। এটি তুলনা, আর তুলনার জন্য দ্বিতীয় একটি পক্ষ লাগে। তাবারী সেই পক্ষের নাম বলেন: যারা আল্লাহর সঙ্গে শরিক করেও হাজীদের পানি পান করায় আর মাসজিদুল হারাম দেখাশোনা করে, তাদের চেয়ে এরা আল্লাহর কাছে উঁচু স্তরের। বাগাভী দারাজাহ শব্দের অর্থ করেন ফযীলত, আর তুলনা টানেন পানি ও দেখাশোনা নিয়ে গর্বকারীদের সঙ্গে। কুরতুবী যোগ করেন, দারাজাতান শব্দটি যবরযুক্ত, কারণ এটি বুঝিয়ে দেয় কোন দিক থেকে তারা বড়।"
+          },
+          {
+            "en": "Al-Qurtubi then raises the obvious difficulty. The disbelievers have no rank with Allah at all, such that the believer could be called greater in rank than them. His first answer: they had assigned themselves a rank through their upkeep and their water, so the verse addresses them on their own estimate, even though the estimate was mistaken. He sets it beside 25:24 as the same kind of speech: the companions of Paradise, that Day, are better in abode.",
+            "bn": "এরপর কুরতুবী স্বাভাবিক প্রশ্নটা তোলেন। কাফিরদের তো আল্লাহর কাছে কোনো মর্যাদাই নেই। তাহলে মু'মিনকে তাদের চেয়ে 'বেশি মর্যাদার' বলা হবে কীভাবে? তাঁর প্রথম জবাব: মাসজিদের দেখাশোনা আর পানি পান করানোর জোরে তারা নিজেরাই নিজেদের একটা মর্যাদা ঠিক করে নিয়েছিল। আয়াতটি তাদের সেই নিজস্ব হিসাব ধরেই কথা বলছে, যদিও হিসাবটা ভুল। তাঁর মতে ২৫:২৪ আয়াতও একই ধরনের কথা: সেদিন জান্নাতবাসীরা বাসস্থানের দিক থেকে উত্তম।"
+          },
+          {
+            "en": "His second answer comes under it has been said: greater in rank than everyone who has any rank, theirs being the distinction and the high station, with no particular rival in view. So the readings differ on what the verse measures against: a boast it is answering, or nothing at all, an absolute standing. Al-Qurtubi records both; at-Tabari and al-Baghawi, by naming the boasters as the second term, read it the first way.",
+            "bn": "দ্বিতীয় জবাবটি তিনি আনেন 'বলা হয়েছে' কথাটি দিয়ে: যার যত মর্যাদাই থাক, এরা সবার চেয়ে বড়। বিশেষ মর্যাদা আর উঁচু আসন এদেরই, নির্দিষ্ট কোনো প্রতিদ্বন্দ্বী এখানে উদ্দেশ্য নয়। তাহলে দুই ব্যাখ্যার পার্থক্য হলো, আয়াত কিসের সঙ্গে মাপছে: একটি গর্বের সঙ্গে, যার জবাব দিচ্ছে, নাকি কারও সঙ্গেই নয়, নিঃশর্ত এক মর্যাদা হিসেবে। কুরতুবী দুটোই উল্লেখ করেছেন। তাবারী আর বাগাভী গর্বকারীদের তুলনার দ্বিতীয় পক্ষ বানিয়ে প্রথম পথেই পড়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Are the Winners Here",
+          "bn": "এখানে সফল কারা"
+        },
+        "p": [
+          {
+            "en": "Wa-ula'ika humu l-fa'izun: and it is those who are the winners. The commentators say what is won. At-Tabari: Paradise, and safety from the Fire. Al-Baghawi keeps only the second, those saved from the Fire. Al-Muyassar names another prize, His good pleasure, and al-Qurtubi says only that they are the winners of that, tying it to the clause before. One question, answered from different sides.",
+            "bn": "ওয়া উলাইকা হুমুল ফাইযূন: আর তারাই সফল। কী জিতে তারা সফল, তাফসীরকারেরা তা বলে দেন। তাবারীর মতে, জান্নাত লাভ আর জাহান্নাম থেকে মুক্তি। বাগাভী শুধু দ্বিতীয়টি রাখেন: যারা জাহান্নাম থেকে মুক্তি পায়। মুয়াসসার পুরস্কারের নাম দেয় অন্যভাবে: তাঁর সন্তুষ্টি। কুরতুবী শুধু বলেন, তারা 'তা' লাভে সফল, অর্থাৎ কথাটিকে তিনি আগের অংশের সঙ্গে বেঁধে দেন। প্রশ্ন একটাই, প্রত্যেকের জবাব আসে ভিন্ন দিক থেকে।"
+          },
+          {
+            "en": "Two of the commentaries part ways over who else may share it. As-Sa'di reads the clause as exclusive: no one wins what is sought or escapes what is feared except one who has their qualities and takes on their character. Ma'arif al-Qur'an reads it in degrees: the polytheists had no success at all, Muslims in general share in it in essence, but these had more of it, so theirs was complete. For one, success turns on the description; the other ranks the shares.",
+            "bn": "আর কে কে এ সফলতায় শরিক হতে পারে, সেখানে দুটি ব্যাখ্যা আলাদা হয়ে যায়। সা'দী অংশটিকে একচেটিয়া অর্থে পড়েন: কাঙ্ক্ষিত জিনিস কেউ পায় না, ভয়ের জিনিস থেকেও কেউ বাঁচে না, তবে সে ছাড়া, যার মধ্যে এদের গুণ আছে আর যে এদের চরিত্র নিজের মধ্যে গড়ে তোলে। মাআরিফুল কুরআন পড়ে স্তর ধরে: মুশরিকদের কোনো সফলতাই ছিল না। সাধারণ মুসলিমরাও মূলত এর অংশীদার, তবে এদের ভাগে তা বেশি, তাই এদের সফলতা পূর্ণাঙ্গ। একজনের কাছে সফলতা নির্ভর করে ওই গুণগুলোর উপর, অন্যজন ভাগগুলোর স্তর সাজান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Raised Voices on a Friday",
+          "bn": "জুমার দিনে উঁচু গলা"
+        },
+        "p": [
+          {
+            "en": "The clearest account of a dispute over these deeds is in Sahih Muslim 1879, from an-Nu'man ibn Bashir (RA): I was by the pulpit of the Messenger of Allah ﷺ, and a man said: I do not mind if I do no deed after Islam except give water to the pilgrims. Another said: I do not mind if I do no deed after Islam except maintain al-Masjid al-Haram. Another said: jihad in the way of Allah is better than what you have said.",
+            "bn": "এসব আমল নিয়ে বিতর্কের সবচেয়ে স্পষ্ট বিবরণ আছে সহীহ মুসলিম ১৮৭৯-তে, নু'মান ইবন বাশীর (রাঃ)-এর বর্ণনায়: আমি রাসূলুল্লাহ ﷺ-এর মিম্বারের কাছে ছিলাম। এক ব্যক্তি বলল, ইসলাম গ্রহণের পর হাজীদের পানি পান করানো ছাড়া আর কোনো আমল না করলেও আমার কোনো পরোয়া নেই। আরেকজন বলল, ইসলাম গ্রহণের পর মাসজিদুল হারামের দেখাশোনা ছাড়া আর কোনো আমল না করলেও আমার পরোয়া নেই। আরেকজন বলল, তোমরা যা বললে, তার চেয়ে আল্লাহর পথে জিহাদ উত্তম।"
+          },
+          {
+            "en": "Umar (RA) rebuked them and said: do not raise your voices by the pulpit of the Messenger of Allah ﷺ, and it was a Friday; but when I have prayed the Friday prayer, I will go in and ask him for a ruling on what you have differed over. Then Allah, Mighty and Majestic, sent down: have you made the giving of water to the pilgrim and the maintenance of al-Masjid al-Haram like one who believes in Allah and the Last Day, the verse to its end. Muslim adds a second chain to an-Nu'man with like wording.",
+            "bn": "উমর (রাঃ) তাদের ধমক দিয়ে বললেন, রাসূলুল্লাহ ﷺ-এর মিম্বারের কাছে তোমরা গলা উঁচু করো না। দিনটি ছিল জুমার দিন। তিনি বললেন, বরং জুমার নামায পড়ে আমি তাঁর কাছে যাব, আর যে বিষয়ে তোমরা মতভেদ করছ, সে বিষয়ে তাঁর ফয়সালা জিজ্ঞেস করব। তখন মহান আল্লাহ নাযিল করলেন: হাজীদের পানি পান করানো আর মাসজিদুল হারামের দেখাশোনাকে কি তোমরা সেই লোকের মতো ধরেছ, যে আল্লাহ ও শেষ দিনে ঈমান আনে... আয়াতের শেষ পর্যন্ত। মুসলিম নু'মান পর্যন্ত আরেকটি সনদেও একই ধরনের বর্ণনা এনেছেন।"
+          },
+          {
+            "en": "Three things follow. The speakers are believers, talking about deeds after Islam; none of them boasts against faith. The verse named is 9:19, to its end, so the report belongs to the passage our verse completes; the English on quranx labels the quotation 9:20, but the Arabic quotes 9:19. And Ibn Kathir, on 9:19 to 9:22 together, brings it as a hadith of the Prophet ﷺ which, he says, must be mentioned.",
+            "bn": "বর্ণনা থেকে তিনটি কথা বেরিয়ে আসে। যারা কথা বলছিলেন, তারা মু'মিন। ইসলামের পর কোন আমল করবেন, তা নিয়েই তাদের কথা, কেউ ঈমানের বিরুদ্ধে গর্ব করছিলেন না। দ্বিতীয়ত, বর্ণনায় যে আয়াতের উল্লেখ, সেটি ৯:১৯, শেষ পর্যন্ত। তাই বর্ণনাটি সেই অংশের, যা আমাদের আয়াতে গিয়ে পূর্ণ হয়। quranx-এর ইংরেজি অনুবাদে উদ্ধৃতিটিকে ৯:২০ বলা হয়েছে, কিন্তু আরবি পাঠে আছে ৯:১৯। তৃতীয়ত, ইবন কাসীর ৯:১৯ থেকে ৯:২২ একসঙ্গে আলোচনা করতে গিয়ে বর্ণনাটি আনেন। তাঁর ভাষায়, ওই আয়াতের তাফসীরে নবী ﷺ থেকে একটি হাদীস এসেছে, যা উল্লেখ না করলেই নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names the Other Reports Give",
+          "bn": "অন্য বর্ণনায় যাদের নাম আসে"
+        },
+        "p": [
+          {
+            "en": "Other reports, all of them in at-Tabari, put names to the dispute. Ali ibn Abi Talha has from Ibn Abbas (RA) that it came down about al-Abbas ibn Abd al-Muttalib (RA), taken captive at Badr, who said: if you got ahead of us with Islam, emigration and jihad, we used to keep up al-Masjid al-Haram, give water to the pilgrims and free captives. Ibn Abbas's gloss: that was done in shirk. Ad-Dahhak has Muslims reproaching the Badr captives for their shirk, and al-Abbas answering with the same list.",
+            "bn": "অন্য বর্ণনাগুলো বিতর্কের সঙ্গে নাম জুড়ে দেয়, আর এর সবই তাবারীতে আছে। আলী ইবন আবী তালহা ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, আয়াতটি নাযিল হয়েছিল আব্বাস ইবন আবদুল মুত্তালিব (রাঃ)-কে নিয়ে, বদরে বন্দি হওয়ার পর। তিনি বলেছিলেন, ইসলাম, হিজরত আর জিহাদে তোমরা আমাদের আগে চলে গেছ ঠিকই, কিন্তু আমরা তো মাসজিদুল হারামের দেখাশোনা করতাম, হাজীদের পানি পান করাতাম, বন্দিদের মুক্ত করতাম। ইবন আব্বাসের ব্যাখ্যা: এ সবই ছিল শিরকের অবস্থায়। দাহহাকের বর্ণনায়, মুসলমানেরা বদরের বন্দিদের শিরকের জন্য খোঁটা দিচ্ছিলেন, আর আব্বাস জবাবে একই তালিকা শোনান।"
+          },
+          {
+            "en": "Later reporters name other men. Muhammad ibn Ka'b al-Qurazi, through a chain with an unnamed link, has Talha ibn Shayba of Banu Abd ad-Dar, al-Abbas and Ali (RA) boasting: Talha of the key of the House, al-Abbas of the water, and Ali that he had prayed toward the qibla six months before the people and was the man of jihad. As-Suddi names Ali, al-Abbas and Shayba ibn Uthman; in his wording Ali says he emigrated with the Messenger ﷺ and strives beside him, and our verse comes down, through to 9:21.",
+            "bn": "পরের যুগের বর্ণনাকারীরা অন্য নাম বলেন। মুহাম্মাদ ইবন কা'ব কুরাযীর বর্ণনা, যার সনদে একজন বর্ণনাকারীর নাম নেই, বলে: বনু আবদুদ দারের তালহা ইবন শাইবা, আব্বাস আর আলী (রাঃ) নিজেদের নিয়ে গর্ব করছিলেন। তালহা গর্ব করলেন কাবাঘরের চাবি নিয়ে, আব্বাস পানি পান করানোর দায়িত্ব নিয়ে। আলী বললেন, মানুষের ৬ মাস আগে থেকে আমি কিবলার দিকে নামায পড়েছি, আর জিহাদের মানুষ আমি। সুদ্দী নাম বলেন আলী, আব্বাস আর শাইবা ইবন উসমানের। তাঁর বর্ণনায় আলী বলেন, তিনি রাসূল ﷺ-এর সঙ্গে হিজরত করেছেন আর তাঁর সঙ্গে জিহাদ করেন, তখন আমাদের আয়াতটি নাযিল হয়, ৯:২১ পর্যন্ত।"
+          },
+          {
+            "en": "Ash-Sha'bi says only that it came down about Ali and al-Abbas, who had spoken of it. Al-Hasan names Ali, al-Abbas, Uthman and Shayba, and his report goes on to a question from al-Abbas about the water and a reply from the Prophet ﷺ, relayed by at-Tabari and Ibn Kathir with no grading and not quoted here. No tafsir grades these reports, and they disagree on the names. Muslim's account, the only one in a Sahih, names nobody.",
+            "bn": "শা'বী শুধু বলেন, আয়াতটি আলী আর আব্বাসকে নিয়ে নাযিল হয়েছিল, তারা এ নিয়ে কথা বলেছিলেন। হাসান নাম বলেন আলী, আব্বাস, উসমান আর শাইবার। তাঁর বর্ণনা আরও এগিয়ে যায় পানি পান করানোর দায়িত্ব নিয়ে আব্বাসের একটি প্রশ্ন আর নবী ﷺ-এর একটি জবাব পর্যন্ত। তাবারী আর ইবন কাসীর এটি কোনো মান নির্ণয় ছাড়াই বর্ণনা করেছেন, তাই এখানে তা উদ্ধৃত করা হলো না। কোনো তাফসীর এ বর্ণনাগুলোর মান নির্ধারণ করেনি, আর নামের ব্যাপারেও এগুলো একমত নয়। সহীহ গ্রন্থে থাকা একমাত্র বিবরণ, মুসলিমেরটি, কারও নামই বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sent Down Then, or Recited Then",
+          "bn": "তখন নাযিল, নাকি তখন তিলাওয়াত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi, on 9:19, finds a difficulty in Muslim's report. Its sequence implies the passage came down when Muslims disagreed over the best deed, yet the close of 9:19, Allah does not guide the wrongdoing people, would not fit them; he takes the plain sense to be a refutation of the polytheists' boast. His way out: some narrator was loose in saying so Allah sent down. The Prophet ﷺ recited the verse to Umar when he asked, and the narrator thought it came down then.",
+            "bn": "কুরতুবী ৯:১৯-এর আলোচনায় মুসলিমের বর্ণনায় একটা জটিলতা দেখেন। বর্ণনার ধারা থেকে মনে হয়, সবচেয়ে উত্তম আমল নিয়ে মুসলমানদের মতভেদের সময় অংশটি নাযিল হয়েছিল। অথচ ৯:১৯-এর শেষ কথা, আল্লাহ যালিম সম্প্রদায়কে হিদায়াত দেন না, তাদের সঙ্গে খাপ খায় না। তাঁর মতে অংশটির বাহ্যিক অর্থ মুশরিকদের গর্বের খণ্ডন। সমাধান হিসেবে তিনি বলেন, 'তখন আল্লাহ নাযিল করলেন' কথাটায় কোনো বর্ণনাকারী শিথিলতা করেছেন। উমর প্রশ্ন করলে নবী ﷺ তাঁকে আয়াতটি পড়ে শোনান, আর বর্ণনাকারী ভেবেছেন তখনই তা নাযিল হলো।"
+          },
+          {
+            "en": "On that reading the Prophet ﷺ used a verse already revealed to show jihad better than what the other two said. Al-Qurtubi then meets the next objection, that rulings for Muslims are drawn from a verse about disbelievers. That is not far-fetched, he says, citing Umar (RA) declining fine food because of 46:20, you exhausted your good things in your worldly life, with no Companion objecting. At-Tabari and Ibn Kathir carry Muslim's report as the occasion without raising the difficulty. The difference stands.",
+            "bn": "এ ব্যাখ্যায় নবী ﷺ আগে নাযিল হওয়া একটি আয়াত দিয়ে দেখিয়ে দেন যে অন্য দুজনের কথার চেয়ে জিহাদ উত্তম। এরপর কুরতুবী পরের আপত্তির জবাব দেন: কাফিরদের নিয়ে নাযিল হওয়া আয়াত থেকে মুসলমানদের জন্য বিধান বের করা হচ্ছে কেন? তাঁর মতে এটা অসম্ভব কিছু নয়। উদাহরণ হিসেবে আনেন উমর (রাঃ)-কে, যিনি ৪৬:২০ আয়াতের কারণে ভালো খাবার থেকে বিরত থাকতেন: তোমরা দুনিয়ার জীবনেই তোমাদের ভালো জিনিসগুলো শেষ করে ফেলেছ। আয়াতটি কাফিরদের সম্পর্কে, তবু কোনো সাহাবী আপত্তি করেননি। তাবারী আর ইবন কাসীর জটিলতার প্রশ্ন না তুলেই মুসলিমের বর্ণনাকে নাযিলের প্রেক্ষাপট হিসেবে এনেছেন। মতপার্থক্যটি রয়ে গেল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rank Among the Promised",
+          "bn": "প্রতিশ্রুতির ভেতরেও স্তর"
+        },
+        "p": [
+          {
+            "en": "The sentence runs on. 9:21: their Lord gives them glad tidings of mercy from Him, of approval, and of gardens with lasting bliss; at-Tabari glosses the mercy as His sparing them punishment and the approval as His being pleased with their obedience. 9:22 adds that they abide there forever, and with Allah is a great reward. Then 9:24, which has its own page, turns the ranking inward, to what a person loves more than Allah, His Messenger ﷺ and striving in His way.",
+            "bn": "বাক্যটি এখানেই থামে না। ৯:২১ বলে: তাদের রব তাদের সুসংবাদ দেন নিজের রহমতের, সন্তুষ্টির, আর এমন জান্নাতের, যেখানে আছে স্থায়ী নিয়ামত। তাবারীর ব্যাখ্যায় রহমত মানে শাস্তি থেকে রেহাই, আর সন্তুষ্টি মানে তাদের আনুগত্যে তিনি খুশি। ৯:২২ যোগ করে, সেখানে তারা চিরকাল থাকবে, আর আল্লাহর কাছে আছে মহাপুরস্কার। এরপর ৯:২৪, যার আলাদা পাতা আছে, এই স্তরবিন্যাসকে মানুষের ভেতরের দিকে ফেরায়: আল্লাহ, তাঁর রাসূল ﷺ আর তাঁর পথে জিহাদের চেয়ে মানুষ কী বেশি ভালোবাসে।"
+          },
+          {
+            "en": "A'zamu darajatan appears once more in the Qur'an, at 57:10: whoever spent before the conquest and fought is not equal to the rest; those are greater in rank than those who spent afterward and fought, and to each Allah has promised the best. 4:95 likewise ranks those who strive with wealth and lives a degree above believers who stay home without impairment, promising the best to each. Among believers, rank is a ladder, not a door. For the polytheists of 9:19 there was no ladder: Allah, says at-Tabari, accepts no deed without faith in Him and the Last Day.",
+            "bn": "আ'জামু দারাজাতান কথাটি কুরআনে আরেকবার এসেছে, ৫৭:১০ আয়াতে: তোমাদের মধ্যে যে বিজয়ের আগে খরচ করেছে আর লড়াই করেছে, সে অন্যদের সমান নয়। যারা পরে খরচ করেছে আর লড়াই করেছে, তাদের চেয়ে ওরা মর্যাদায় বড়, তবে আল্লাহ সবাইকেই কল্যাণের প্রতিশ্রুতি দিয়েছেন। ৪:৯৫ আয়াতও জান-মাল দিয়ে জিহাদকারীদের এক স্তর উপরে রাখে সেই মু'মিনদের চেয়ে, যারা কোনো অক্ষমতা ছাড়াই ঘরে বসে থাকে, আর সেখানেও সবার জন্য কল্যাণের প্রতিশ্রুতি আছে। তাহলে মু'মিনদের মধ্যে মর্যাদা সিঁড়ির মতো, দরজার মতো নয়। কিন্তু ৯:১৯-এর মুশরিকদের বেলায় কোনো সিঁড়িই ছিল না। তাবারী ব্যাখ্যা করেন, আল্লাহ ও শেষ দিনে ঈমান ছাড়া আল্লাহ কোনো আমলই কবুল করেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What I Am Proudest Of",
+          "bn": "আমার গর্বের জায়গাটা কোথায়"
+        },
+        "p": [
+          {
+            "en": "Read with these reports, the verse is less about who holds the key than about what rank rests on. The custodian, the water-giver and the man of jihad each had something real to point at, and the verse takes the key and the water from nobody. It says the standing that counts with Allah follows faith and what that faith was willing to cost. As-Sa'di leaves the road open: success belongs to whoever has their qualities and takes on their character.",
+            "bn": "এ বর্ণনাগুলোর সঙ্গে মিলিয়ে পড়লে বোঝা যায়, চাবি কার হাতে, আয়াতের মূল কথা সেটা নয়। মূল কথা হলো, মর্যাদা কিসের উপর দাঁড়িয়ে। তাবারীর কাঠামোয় তত্ত্বাবধায়ক, পানি পান করানোর লোক আর জিহাদের মানুষ, প্রত্যেকেরই দেখানোর মতো সত্যিকারের কিছু ছিল। আয়াতটি কারও হাত থেকে চাবি বা পানির দায়িত্ব কেড়ে নেয়নি। শুধু বলেছে, আল্লাহর কাছে যে মর্যাদা গণ্য, তা আসে ঈমান থেকে, আর সেই ঈমান কতটা খরচ মেনে নিতে রাজি ছিল তা থেকে। সা'দীর ব্যাখ্যা পথটা খোলাই রাখে: সফলতা তার, যার মধ্যে এদের গুণ আছে আর যে এদের চরিত্র নিজের মধ্যে গড়ে তোলে।"
+          },
+          {
+            "en": "A plain word is needed on what the verse does not do. Its verbs describe what the first believers did in their own hour, as at-Tabari's glosses set it: leaving their people's homes and striving against the polytheists who opposed them. The verse and its reports describe what the text describes. They license nothing against any living person or community, and they make no reader the judge of whose rank is greater; the verse places that ranking 'inda Allah, with Him.",
+            "bn": "আয়াতটি কী করে না, সে কথাও সোজাসুজি বলা দরকার। তাবারীর ব্যাখ্যা অনুযায়ী এর ক্রিয়াগুলো প্রথম যুগের মু'মিনদের কাজের বর্ণনা: নিজেদের সময়ে তারা গোত্রের ঘরবাড়ি ছেড়েছিলেন, আর যে মুশরিকরা তাদের বিরোধিতা করেছিল, তাদের বিরুদ্ধে জিহাদ করেছিলেন। আয়াত আর তার আশপাশের বর্ণনাগুলো শুধু সেটুকুই বর্ণনা করে, যা পাঠে আছে। আজকের কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে এগুলো কিছুরই অনুমতি দেয় না। কার মর্যাদা বড়, সে বিচারের ভারও কোনো পাঠকের হাতে তুলে দেয় না। আয়াতটি সেই স্তরবিন্যাস রেখেছে ইনদাল্লাহ, আল্লাহর কাছে, আর সেখানেই রেখে দিয়েছে।"
+          },
+          {
+            "en": "What it leaves a reader with is a question about pride. The three men by the pulpit were all believers, each naming the deed he loved best. Which would I have named: the one that cost me most, or the one most easily seen? A sentence in the verse's own words may be asked, claimed as no more and not as a Sunnah du'a: O Allah, make me among those greater in rank with You, and among the winners.",
+            "bn": "শেষ পর্যন্ত আয়াতটি পাঠকের হাতে গর্ব নিয়ে একটা প্রশ্ন রেখে যায়। মিম্বারের পাশের তিনজনই ছিলেন মু'মিন, আর প্রত্যেকে নিজের সবচেয়ে প্রিয় আমলের নাম বলেছিলেন। আমি হলে কোন আমলের নাম বলতাম? সেটা কি আমার সবচেয়ে বেশি খরচের আমল, নাকি সবচেয়ে সহজে চোখে পড়ার মতো আমল? আয়াতের নিজের শব্দ দিয়ে একটি বাক্য চাওয়া যায়, তবে এটা সুন্নাহর কোনো দোয়া নয়, এর বেশি কিছু দাবিও নেই: হে আল্লাহ, আমাকে তাদের অন্তর্ভুক্ত করুন, যারা আপনার কাছে মর্যাদায় বড়, আর যারা সফল।"
+          }
+        ]
+      }
+    ]
+  },
   "9:24": {
     "sections": [
       {

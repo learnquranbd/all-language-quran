@@ -32243,6 +32243,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Fear the gap between your private words and your public face more than you fear exposure, and close it while Allah is still covering you.",
     "lessonBn": "ধরা পড়ার চেয়ে বেশি ভয় করুন গোপনের কথা আর প্রকাশ্য চেহারার মাঝের ফাঁকটাকে, আর আল্লাহ যতক্ষণ ঢেকে রেখেছেন, তার মধ্যেই সেই ফাঁক বন্ধ করুন।"
+  },
+  "9:20": {
+    "reflectionEn": "The verse before this one set two things side by side: water carried to pilgrims and the upkeep of the Sacred Mosque on one side, belief and striving in Allah's way on the other, and said they are not equal. Here the scale is read out. Those who believed, left their homes, and gave both their wealth and their own selves in His way are greater in rank with Allah, and they are the ones who win. Nothing here mocks giving water or keeping a mosque in order. The verse ranks deeds; it does not erase them. But it does ask me what I am proudest of. Is it the service people can see, or the thing that actually cost me something?",
+    "reflectionBn": "আগের আয়াতে দুটো জিনিস পাশাপাশি রাখা হয়েছিল। এক দিকে হাজীদের পানি পান করানো আর মাসজিদুল হারামের দেখাশোনা, অন্য দিকে ঈমান আর আল্লাহর পথে জিহাদ। রায় ছিল, দুটো সমান নয়। এ আয়াতে পাল্লার ফল শোনানো হলো। যারা ঈমান এনেছে, ঘরবাড়ি ছেড়েছে, আর নিজেদের মাল ও জান দুটোই আল্লাহর পথে দিয়েছে, আল্লাহর কাছে তাদের মর্যাদা বড়, আর সফল তারাই। পানি পান করানো বা মাসজিদ আগলে রাখাকে এখানে কোথাও তুচ্ছ করা হয়নি। আয়াতটি আমলের স্তর সাজায়, কোনো আমল মুছে দেয় না। তবে একটা প্রশ্ন সে আমার দিকেও ছুড়ে দেয়: আমি সবচেয়ে বেশি গর্ব করি কী নিয়ে? যে খেদমত মানুষের চোখে পড়ে তা নিয়ে, নাকি যা দিতে গিয়ে সত্যিই আমার কিছু খরচ হয়েছে তা নিয়ে?",
+    "pointsEn": [
+      "Which of my good deeds do I mention most often, and is it the one that cost me most or simply the one that is easiest to see?",
+      "The verse names wealth and self together. Where do I give one of them so that I will not have to give the other?",
+      "What have I actually left behind for Allah's sake: a habit, a company, a comfort, an income I knew I should step away from?",
+      "When I weigh my service against someone else's, whose scale am I using, Allah's or the one people use to praise each other?",
+      "If a deed I am proud of were set beside faith and found to weigh less, would I keep doing it gladly, or drop it out of hurt pride?"
+    ],
+    "pointsBn": [
+      "নিজের কোন নেক আমলের কথা আমি সবচেয়ে বেশি বলে বেড়াই? সেটা কি আমার সবচেয়ে বেশি খরচের আমল, নাকি শুধু সবচেয়ে চোখে পড়ার মতো আমল?",
+      "আয়াতটি মাল আর জান একসঙ্গে উল্লেখ করেছে। আমি কোথায় একটা দিয়ে দিই, যাতে অন্যটা আর দিতে না হয়?",
+      "আল্লাহর জন্য আমি আসলে কী ছেড়ে এসেছি? কোনো অভ্যাস, কোনো সঙ্গ, কোনো আরাম, কিংবা এমন কোনো আয়, যা ছেড়ে দেওয়া উচিত বলে আমি জানতাম?",
+      "অন্যের খেদমতের সঙ্গে নিজেরটা যখন মাপি, তখন কার দাঁড়িপাল্লা ব্যবহার করি? আল্লাহর, নাকি মানুষ একে অন্যের প্রশংসা করতে যেটা ব্যবহার করে সেটা?",
+      "যে আমল নিয়ে আমার গর্ব, তা যদি ঈমানের পাশে রেখে হালকা পাওয়া যায়, আমি কি তবু খুশিমনে সেটা করে যাব, নাকি অভিমানে ছেড়ে দেব?"
+    ],
+    "lessonEn": "Rank with Allah follows faith and what it costs you, not the service people see; keep doing every good work, but do not let the visible one stand in for the costly one.",
+    "lessonBn": "আল্লাহর কাছে মর্যাদা আসে ঈমান আর তার জন্য যা খরচ হয় তা থেকে, মানুষের চোখে পড়া খেদমত থেকে নয়। প্রতিটি নেক কাজ চালিয়ে যান, তবে চোখে পড়া কাজকে কষ্টের কাজের জায়গা নিতে দেবেন না।"
   }
 };
 
