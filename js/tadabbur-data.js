@@ -32203,6 +32203,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Keep your word to anyone who keeps theirs, even someone you dislike; another person's breach is no excuse for breaking a promise given to someone who kept faith.",
     "lessonBn": "যে কথা রাখে, তার সঙ্গে আপনিও কথা রাখুন, তাকে অপছন্দ করলেও। অন্য কেউ চুক্তি ভেঙেছে বলে যে কথা রেখেছে তার সঙ্গে প্রতিশ্রুতি ভাঙার অজুহাত মেলে না।"
+  },
+  "9:26": {
+    "reflectionEn": "They marched out in great numbers, and the count itself became a comfort. Then arrows came out of the valley, the wide earth felt narrow, and most of them turned and ran. This verse begins after that moment. It does not say the army steadied itself by its own nerve. It says Allah sent down His stillness, on His Messenger, who had not fled, and on the believers, and sent soldiers no one saw. Calm is named here as something given, not something manufactured. So the mirror is an honest one. Where am I counting my numbers, my savings, my plans, as if the count were the help? And when panic takes me, do I ask Allah for stillness, or only for more of the same?",
+    "reflectionBn": "তারা বেরিয়েছিল বিশাল বাহিনী নিয়ে, আর সংখ্যাটাই হয়ে উঠেছিল ভরসা। তারপর উপত্যকা থেকে ছুটে এল তীর। এত বড় পৃথিবী হঠাৎ সরু হয়ে গেল, আর বেশির ভাগ লোক পিঠ ফিরিয়ে পালাল। আয়াতটির শুরু ঠিক সেই মুহূর্তের পর থেকে। বাহিনী নিজের সাহসে আবার দাঁড়িয়ে গেল, এমন কথা আয়াত বলে না। বলে, আল্লাহ তাঁর প্রশান্তি নাজিল করলেন তাঁর রাসূলের উপর, যিনি পালাননি, আর মুমিনদের উপর। আর পাঠালেন এমন বাহিনী, যা কেউ দেখেনি। এখানে স্থিরতা মানুষের বানানো জিনিস নয়, দেওয়া জিনিস। তাই আয়নাটা সৎ। আমি কোথায় আমার সংখ্যা, সঞ্চয় আর পরিকল্পনা গুনে চলেছি, যেন গোনাটাই সাহায্য? আর আতঙ্ক যখন আমাকে চেপে ধরে, আমি কি আল্লাহর কাছে স্থিরতা চাই, নাকি শুধু আরও বেশি সংখ্যা?",
+    "pointsEn": [
+      "What am I counting right now as if the count itself would carry me through?",
+      "The last time the ground narrowed under me, what did I reach for first: a plan, a person, or a prayer?",
+      "Who stood still while I ran, and have I ever gone back to stand beside them?",
+      "Is there a fear I keep trying to quiet by adding more, when what I need is stillness from Allah?",
+      "When help reached me from a place I could not see, did I quietly credit it to my own effort?"
+    ],
+    "pointsBn": [
+      "এ মুহূর্তে আমি কী গুনে চলেছি, যেন গোনাটাই আমাকে পার করে দেবে?",
+      "শেষবার যখন পায়ের নিচের মাটি সরু হয়ে এসেছিল, আমি প্রথমে কী আঁকড়ে ধরেছিলাম: কোনো পরিকল্পনা, কোনো মানুষ, নাকি দোয়া?",
+      "আমি যখন পালাচ্ছিলাম, তখন কে অটল দাঁড়িয়ে ছিল? আমি কি কখনো ফিরে গিয়ে তার পাশে দাঁড়িয়েছি?",
+      "এমন কোনো ভয় কি আছে, যা আমি আরও কিছু জমিয়ে চাপা দিতে চাইছি, অথচ আমার দরকার আল্লাহর দেওয়া স্থিরতা?",
+      "যে সাহায্য আমার কাছে এসেছে এমন জায়গা থেকে যা আমি দেখিনি, তার কৃতিত্ব কি চুপচাপ নিজের চেষ্টাকে দিয়ে দিয়েছি?"
+    ],
+    "lessonEn": "Calm and help are sent down by Allah, not produced by numbers; when panic takes you, turn back to Him and ask for His stillness.",
+    "lessonBn": "স্থিরতা আর সাহায্য সংখ্যা থেকে আসে না, আল্লাহ তা নাজিল করেন। আতঙ্ক যখন আপনাকে চেপে ধরে, তাঁর দিকে ফিরে যান আর তাঁর কাছে প্রশান্তি চান।"
   }
 };
 

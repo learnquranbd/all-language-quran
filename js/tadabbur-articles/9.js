@@ -1047,6 +1047,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:26": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Wide Earth Narrowed",
+          "bn": "প্রশস্ত পৃথিবী যখন সংকীর্ণ"
+        },
+        "p": [
+          {
+            "en": "Thumma anzala Allahu sakinatahu: then Allah sent down His sakinah. It cannot be read apart from 9:25, where the believers are reminded that Allah had helped them in many places, and on the day of Hunayn, when their great number pleased them and availed them nothing, the earth with all its breadth grew narrow for them and they turned back in retreat. At-Tabari carries that on: then, after the earth had closed in on you and you had turned your backs to the enemy, Allah lifted the trial that had come down on you by sending down the sakinah. Al-Baghawi glosses thumma in two words: after the rout.",
+            "bn": "সুম্মা আনযালাল্লাহু সাকীনাতাহু: তারপর আল্লাহ তাঁর সাকীনা নাজিল করলেন। আগের আয়াত বাদ দিয়ে এ আয়াত পড়া যায় না। ৯:২৫ আয়াতে মুমিনদের মনে করিয়ে দেওয়া হয়েছে, আল্লাহ বহু জায়গায় তাদের সাহায্য করেছেন, হুনায়নের দিনেও। সেদিন সংখ্যার আধিক্য তাদের মুগ্ধ করেছিল, অথচ তা কোনো কাজে আসেনি। এত প্রশস্ত পৃথিবী তাদের জন্য সংকীর্ণ হয়ে গিয়েছিল, আর তারা পিঠ ফিরিয়ে পালিয়েছিল। তাবারী সেই কথাটাই টেনে আনেন নিজের ব্যাখ্যায়। পৃথিবী যখন তোমাদের উপর সংকীর্ণ হয়ে এল আর তোমরা শত্রুর দিকে পিঠ ফেরালে, তার পর আল্লাহ সাকীনা নাজিল করে তোমাদের উপর নেমে আসা বিপদ সরিয়ে দিলেন। বাগাভী সুম্মা শব্দের ব্যাখ্যা দেন দুই শব্দে: পরাজয়ের পরে।"
+          },
+          {
+            "en": "Ibn Kathir's account, in the abridged English, sets the scene. The battle came after the conquest of Makkah, in Shawwal of the eighth year of the Hijra, in a valley between Makkah and at-Ta'if. Hawazin had gathered under Malik ibn 'Awf, with Thaqif and other clans, and brought their women, children and herds. The Prophet ﷺ marched out with the 10,000 who had come to take Makkah, joined by 2,000 of the newly freed Makkans. Hawazin lay in ambush, and when the Muslims entered the valley early in the morning, arrows and swords fell on them and they gave way.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি ভাষ্য ঘটনার পটভূমি সাজিয়ে দেয়। যুদ্ধটা হয়েছিল মক্কা বিজয়ের পর, হিজরি অষ্টম বছরের শাওয়াল মাসে, মক্কা আর তায়েফের মাঝের এক উপত্যকায়। হাওয়াযিন গোত্র মালিক ইবন আওফের নেতৃত্বে জড়ো হয়েছিল। সঙ্গে ছিল সাকীফ আর আরও কয়েকটি গোত্র। তারা নারী, শিশু আর পশুপাল পর্যন্ত সঙ্গে এনেছিল। নবী ﷺ বের হলেন মক্কা বিজয়ে আসা ১০,০০০ সৈন্য নিয়ে, তাদের সঙ্গে যোগ দিল মক্কার সদ্য মুক্তি পাওয়া ২,০০০ লোক। হাওয়াযিন ওত পেতে ছিল। ভোরবেলা মুসলিমরা উপত্যকায় ঢুকতেই তাদের উপর তীর আর তলোয়ার নেমে এল, আর তারা পিছু হটল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A White Mule Facing Forward",
+          "bn": "সামনে মুখ করা সাদা খচ্চর"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari records the moment (2864), through Abu Ishaq: Somebody asked Al-Bara' bin 'Azib, 'Did you flee deserting Allah's Messenger ﷺ during the battle of Hunain?' Al-Bara' replied, 'But Allah's Messenger ﷺ did not flee. The people of the Tribe of Hawazin were good archers. When we met them, we attacked them, and they fled. When the Muslims started collecting the war booty, the pagans faced us with arrows, but Allah's Messenger ﷺ did not flee. No doubt, I saw him on his white mule and Abu Sufyan was holding its reins and the Prophet ﷺ was saying, I am the Prophet in truth: I am the son of 'Abdul Muttalib.'",
+            "bn": "বুখারী মুহূর্তটি বর্ণনা করেছেন (২৮৬৪), আবু ইসহাকের সূত্রে: এক ব্যক্তি বারা ইবন আযিব (রাঃ)-কে জিজ্ঞেস করল, হুনায়নের যুদ্ধে কি আপনারা আল্লাহর রাসূলকে ছেড়ে পালিয়েছিলেন? বারা বললেন, কিন্তু আল্লাহর রাসূল পালাননি। হাওয়াযিন গোত্রের লোকেরা ছিল দক্ষ তীরন্দাজ। আমরা তাদের মুখোমুখি হয়ে আক্রমণ করলাম, তারা পালাল। মুসলিমরা যখন গনীমত কুড়াতে লাগল, মুশরিকরা তীর নিয়ে আমাদের সামনে এসে দাঁড়াল। কিন্তু আল্লাহর রাসূল পালাননি। আমি নিশ্চিতভাবে তাঁকে দেখেছি তাঁর সাদা খচ্চরের পিঠে, আবু সুফিয়ান তার লাগাম ধরে আছেন, আর নবী ﷺ বলছেন: আমি নবী, এতে মিথ্যা নেই; আমি আবদুল মুত্তালিবের সন্তান।"
+          },
+          {
+            "en": "In the Arabic his words are ana an-nabiyyu la kadhib, ana ibnu 'Abd al-Muttalib. Ibn Kathir, in the abridged English, reads the scene: a mule is slow, no mount for a charge or an escape, yet he urged it toward the enemy and called out who he was, so that anyone who did not know him would. Muslim (1775) gives al-'Abbas's own account: he held the bridle to stop the mule going too fast, was told to call the people of the Samura, and when they heard his voice, he says, they came back as cows return to their calves.",
+            "bn": "আরবিতে তাঁর কথাটি: আনান নাবিয়্যু লা কাযিব, আনাবনু আবদিল মুত্তালিব। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি ভাষ্য দৃশ্যটির অর্থ খুলে দেয়। খচ্চর ধীরগতির বাহন, তা দিয়ে ঝাঁপিয়ে পড়াও যায় না, পালানোও যায় না। তবু তিনি সেটিকে শত্রুর দিকে হাঁকাচ্ছিলেন আর নিজের পরিচয় ঘোষণা করছিলেন, যাতে যে তাঁকে চেনে না সে-ও চিনে নেয়। মুসলিম (১৭৭৫) আব্বাস (রাঃ)-এর নিজের বর্ণনা এনেছেন। খচ্চর যেন বেশি জোরে না ছোটে, সেজন্য তিনি লাগাম টেনে ধরে ছিলেন। তাঁকে বলা হলো সামুরা গাছের লোকদের ডাকতে। তিনি বলেন, তাঁর আওয়াজ শুনে তারা ফিরে এল, যেভাবে গাভী তার বাছুরের কাছে ফিরে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stillness That Comes Down",
+          "bn": "উপর থেকে নামা স্থিরতা"
+        },
+        "p": [
+          {
+            "en": "What is the sakinah? At-Tabari calls it security and calm, al-amana wa-t-tuma'nina, and notes that he has already shown it to be a fa'ila form from sukun, stillness. Al-Baghawi gives the same pair and the same derivation. Ibn Kathir glosses it as His calm and His steadiness, tuma'ninatahu wa-thabatahu. The Muyassar is plainest: Allah sent down calm on His Messenger and on the believers, so they held firm.",
+            "bn": "সাকীনা জিনিসটা কী? তাবারী বলেন, নিরাপত্তাবোধ আর প্রশান্তি, আল-আমানা ওয়াত-তুমা'নীনা। তিনি মনে করিয়ে দেন, আগেই দেখিয়েছেন শব্দটি সুকূন, মানে স্থিরতা, থেকে গঠিত ফাঈলা রূপ। বাগাভীও একই দুটি শব্দ আর একই উৎস দেন। ইবন কাসীরের ব্যাখ্যায় এর অর্থ আল্লাহর দেওয়া প্রশান্তি আর দৃঢ়তা, তুমা'নীনাতাহু ওয়া সাবাতাহু। মুয়াসসার সবচেয়ে সোজা করে বলে: আল্লাহ তাঁর রাসূল আর মুমিনদের উপর প্রশান্তি নাজিল করলেন, ফলে তারা অটল হয়ে দাঁড়াল।"
+          },
+          {
+            "en": "Al-Qurtubi describes it by its effect: Allah sent down on them what stilled them and took away their fear, until they found the nerve to fight the idolaters after they had turned away. As-Sa'di widens it beyond the battlefield. The sakinah, he says, is what Allah places in hearts at times of turmoil, upheaval and terrifying events, which steadies them, stills them and sets them at rest, and he counts it among Allah's great blessings on His servants. His three words for the occasion are general ones; they fit the valley at Hunayn, and they fit far more than it.",
+            "bn": "কুরতুবী সাকীনাকে চেনান তার ফল দিয়ে। আল্লাহ তাদের উপর এমন কিছু নাজিল করলেন যা তাদের শান্ত করল, ভয় দূর করে দিল। শেষে পিঠ ফেরানোর পরও তারা মুশরিকদের বিরুদ্ধে লড়ার সাহস ফিরে পেল। সা'দী একে যুদ্ধক্ষেত্রের বাইরে নিয়ে যান। তাঁর ভাষায়, অস্থিরতা, কাঁপুনি আর ভয়ংকর ঘটনার সময় আল্লাহ হৃদয়ে যা রেখে দেন, যা হৃদয়কে দৃঢ় করে, শান্ত করে, নিশ্চিন্ত করে, সেটাই সাকীনা। তিনি একে বান্দাদের প্রতি আল্লাহর বড় নিয়ামতগুলোর একটি বলে গণ্য করেন। উপলক্ষ বোঝাতে তাঁর তিনটি শব্দই সাধারণ। হুনায়নের উপত্যকায় যেমন খাটে, তার বাইরেও তেমনি খাটে।"
+          },
+          {
+            "en": "The Qur'an uses the same gift elsewhere. In 9:40, on the night of the cave, the sakinah and soldiers you did not see come together again. In 48:26, at al-Hudaybiya, the wording of this verse returns almost exactly: Allah sent down His sakinah upon His Messenger and upon the believers. And 48:4 says what the sakinah is for: He sent it into the hearts of the believers so that they would increase in faith along with their faith, and to Allah belong the soldiers of the heavens and the earth.",
+            "bn": "কুরআন একই দান অন্য জায়গাতেও উল্লেখ করেছে। ৯:৪০ আয়াতে গুহার রাতে সাকীনা আর অদেখা বাহিনী আবার একসঙ্গে আসে। ৪৮:২৬ আয়াতে হুদায়বিয়ার দিনে এ আয়াতের শব্দগুলো প্রায় হুবহু ফিরে আসে: আল্লাহ তাঁর রাসূল আর মুমিনদের উপর তাঁর সাকীনা নাজিল করলেন। আর ৪৮:৪ আয়াত জানিয়ে দেয় সাকীনা কিসের জন্য। তিনি তা মুমিনদের হৃদয়ে নাজিল করেছেন, যাতে তাদের ঈমানের সঙ্গে ঈমান আরও বাড়ে। আর আসমান ও জমিনের সব বাহিনী আল্লাহরই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Who Stood, Those Who Ran",
+          "bn": "যারা দাঁড়িয়ে, যারা পালিয়ে"
+        },
+        "p": [
+          {
+            "en": "Which believers received it? Ibn Kathir reads wa-'ala al-mu'minin as those who were with him, and the abridged English says, who remained with him. He relays from al-Bayhaqi a report in which Ibn Mas'ud says the people turned away from the Prophet ﷺ at Hunayn and he stayed with him among eighty men of the Muhajirun and the Ansar, who went forward and did not turn their backs, and that these are the ones on whom Allah sent down the sakinah. Ibn Kathir adds that Ahmad has it in his Musnad, and gives no grading.",
+            "bn": "সাকীনা কোন মুমিনদের উপর নামল? ইবন কাসীর ওয়া আলাল মু'মিনীন বলতে বোঝেন যারা তাঁর সঙ্গে ছিল। সংক্ষিপ্ত ইংরেজি ভাষ্যে আছে, যারা তাঁর সঙ্গে থেকে গিয়েছিল। তিনি বায়হাকী থেকে একটি বর্ণনা আনেন। তাতে ইবন মাসঊদ (রাঃ) বলেন, হুনায়নের দিন লোকেরা নবী ﷺ-কে ছেড়ে সরে গেল, আর তিনি মুহাজির ও আনসারদের আশিজন লোকের সঙ্গে তাঁর কাছে থেকে গেলেন। তারা সামনে এগিয়েছিল, পিঠ ফেরায়নি। ইবন মাসঊদ বলেন, এরাই সেই লোক যাদের উপর আল্লাহ সাকীনা নাজিল করেছিলেন। ইবন কাসীর জানান, আহমাদও তাঁর মুসনাদে এটি এনেছেন। তিনি কোনো মান উল্লেখ করেননি।"
+          },
+          {
+            "en": "Others widen it to those who ran. At-Tabari speaks to the people who turned their backs: the sakinah came down upon you, and with it Allah lifted the trial. Al-Qurtubi has it take away their fear until they dared to fight after they had turned. Ma'arif al-Qur'an makes it two kinds. For those who had lost their foothold, it firmed their feet and brought them back; for the Prophet ﷺ and those who stood firm, it meant seeing victory close at hand. It reads the repeated 'ala, upon His Messenger and upon the believers, as marking the two. Both readings are left standing.",
+            "bn": "অন্যরা যারা পালিয়েছিল তাদেরও এর মধ্যে ধরেন। তাবারী কথা বলেন পিঠ ফেরানো লোকদের সম্বোধন করেই: সাকীনা নেমেছিল তোমাদের উপর, আর তা দিয়েই আল্লাহ বিপদ সরিয়ে দিয়েছিলেন। কুরতুবীর মতে সাকীনা তাদের ভয় দূর করেছিল, ফলে পিছু হটার পরও তারা লড়ার সাহস পেয়েছিল। মাআরিফুল কুরআন একে দুই ভাগে ভাগ করে। যারা পায়ের তলার মাটি হারিয়েছিল, তাদের পা আবার দৃঢ় হলো, তারা ফিরে এল। আর নবী ﷺ ও যারা অটল ছিল, তারা বিজয় হাতের কাছে দেখতে পেল। রাসূলের উপর আর মুমিনদের উপর, দুবার আলা আসাকে মাআরিফ এ দুই ভাগের ইঙ্গিত মনে করে। দুটি মতই যেমন আছে তেমন রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Angels Sent, but to Do What?",
+          "bn": "ফেরেশতা এলেন, কিন্তু কী করতে?"
+        },
+        "p": [
+          {
+            "en": "Wa-anzala junudan lam tarawha: and He sent down soldiers you did not see. Every commentator fetched for this verse says they were angels. At-Tabari points back to the reports he has already given; Ibn Kathir, al-Qurtubi, al-Baghawi and as-Sa'di say it outright. As-Sa'di describes their work: Allah sent them as help for the Muslims on the day of Hunayn, to make them firm and to give them good news of victory.",
+            "bn": "ওয়া আনযালা জুনূদান লাম তারাওহা: আর তিনি নাজিল করলেন এমন বাহিনী যা তোমরা দেখোনি। এ আয়াতের যত তাফসীর আনা হয়েছে, সবাই বলেন তারা ফেরেশতা। তাবারী ইঙ্গিত করেন আগেই আনা বর্ণনাগুলোর দিকে। ইবন কাসীর, কুরতুবী, বাগাভী আর সা'দী সরাসরি তা বলেন। তাদের কাজ কী ছিল, সা'দী তা জানান। হুনায়নের দিন আল্লাহ তাদের পাঠিয়েছিলেন মুসলিমদের সাহায্য হিসেবে, যাতে তারা মুমিনদের দৃঢ় রাখে আর বিজয়ের সুসংবাদ দেয়।"
+          },
+          {
+            "en": "Whether they fought is a real difference. Al-Qurtubi says they strengthened the believers through the thoughts and firmness they cast into their hearts, and weakened the disbelievers by making them lose heart, unseen and without fighting, because the angels fought only at Badr. Al-Baghawi gives the same view under qila, it is said: not to fight, but to make the disbelievers cowardly and the Muslims bold, since it is narrated that the angels fought only at Badr. A report Ibn Kathir relays, given below, has the men who met the pursuers drive them off. Neither side is settled here.",
+            "bn": "তারা যুদ্ধ করেছিলেন কি না, এ নিয়ে সত্যিকারের মতভেদ আছে। কুরতুবী বলেন, তারা মুমিনদের মনে নানা ভাবনা আর দৃঢ়তা ঢেলে দিয়ে তাদের শক্তি জুগিয়েছিলেন। আর কাফিরদের মনোবল ভেঙে দিয়ে তাদের দুর্বল করেছিলেন, অদৃশ্য থেকে, যুদ্ধ না করেই। কারণ ফেরেশতারা বদর ছাড়া আর কোথাও যুদ্ধ করেননি। বাগাভী একই মত আনেন 'বলা হয়' কথাটি দিয়ে: তারা লড়তে আসেননি, এসেছিলেন কাফিরদের ভীরু আর মুসলিমদের সাহসী করতে, কেননা বর্ণিত আছে ফেরেশতারা শুধু বদরেই যুদ্ধ করেছিলেন। অথচ ইবন কাসীরের আনা একটি বর্ণনায়, যা নিচে আসছে, যারা ধাওয়াকারীদের সামনে দাঁড়িয়েছিল তারাই তাদের হটিয়ে দেয়। কোনো পক্ষেই এখানে রায় দেওয়া হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told From the Other Ranks",
+          "bn": "ওপারের সারি থেকে শোনা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir relays from at-Tabari the account of a man, not named, who fought on the side of the idolaters at Hunayn. When they met the Companions, he said, these did not stand against them for as long as it takes to milk a sheep. They chased them until they reached the rider of the white mule, the Messenger of Allah ﷺ. There men with white, handsome faces met them and said: disfigured be the faces, go back. So they were routed, and the others rode on their shoulders. Ibn Kathir gives the report no grading.",
+            "bn": "ইবন কাসীর তাবারী থেকে এমন এক ব্যক্তির বর্ণনা আনেন, যার নাম জানানো হয়নি। হুনায়নে সে মুশরিকদের পক্ষে লড়েছিল। সে বলে, সাহাবীদের মুখোমুখি হওয়ার পর একটা ছাগল দোহাতে যতক্ষণ লাগে, ততক্ষণও তারা টিকতে পারেনি। তারা তাদের ধাওয়া করে পৌঁছে গেল সাদা খচ্চরের আরোহীর কাছে। তিনি ছিলেন আল্লাহর রাসূল ﷺ। সেখানে সাদা, সুন্দর চেহারার কিছু লোক তাদের সামনে এসে দাঁড়াল আর বলল: চেহারাগুলো বিকৃত হোক, ফিরে যাও। এরপর তারাই পরাজিত হয়ে পালাল, আর অন্যরা তাদের ঘাড়ে চেপে বসল। ইবন কাসীর বর্ণনাটির কোনো মান উল্লেখ করেননি।"
+          },
+          {
+            "en": "He adds two more. Jubayr ibn Mut'im, through Ibn Ishaq's father, who heard it from someone not named, says he saw something like a black striped cloak falling from the sky until it landed between them and the enemy, and it was ants spread out, filling the valley; the enemy's rout followed, and we did not doubt, he says, that they were angels. Yazid ibn 'Amir as-Suwa'i, who fought with the idolaters and later became Muslim, would drop a pebble into a basin so that it rang, and say: we felt something like this inside us.",
+            "bn": "তিনি আরও দুটি বর্ণনা আনেন। জুবায়র ইবন মুতইম (রাঃ)-এর বর্ণনা আসে ইবন ইসহাকের বাবার মাধ্যমে, যিনি শুনেছিলেন নাম-না-জানা এক ব্যক্তির কাছে। তিনি বলেন, তিনি দেখলেন আকাশ থেকে কালো ডোরাকাটা চাদরের মতো কিছু নেমে এসে তাদের আর শত্রুর মাঝখানে পড়ল। দেখা গেল, সেগুলো ছড়িয়ে থাকা পিঁপড়া, পুরো উপত্যকা ভরে গেছে। এরপরই শত্রুরা পরাজিত হলো। তিনি বলেন, আমাদের কোনো সন্দেহ ছিল না যে ওরা ফেরেশতা। ইয়াযীদ ইবন আমির আস-সুওয়াঈ মুশরিকদের পক্ষে হুনায়নে লড়েছিলেন, পরে মুসলিম হন। তিনি একটা নুড়ি পাথর তশতরিতে ফেলতেন, তাতে ঝনঝন শব্দ হতো। তারপর বলতেন: আমাদের ভেতরে আমরা এমনটাই টের পেতাম।"
+          },
+          {
+            "en": "Ibn Kathir grades neither. Ma'arif al-Qur'an says the people at large did not see them (lam tarawha), and reports that mention seeing are not contrary to that. Al-Qurtubi has a report, under ruwiya and with no chain, of a man of Banu Nasr asking about riders on piebald horses, with an answer attributed to the Prophet ﷺ; it is unconfirmed, and nothing here rests on it. Ibn Kathir then sets beside the verse a general hadith, not about Hunayn, from Muslim (523), in Hammam's wording: I have been helped by terror (in the hearts of enemies) and I have been given words which are concise but comprehensive in meaning.",
+            "bn": "ইবন কাসীর এ দুটিরও কোনো মান উল্লেখ করেননি। মাআরিফুল কুরআন বলে, সাধারণ লোকেরা তাদের দেখেনি (লাম তারাওহা)। কিছু বর্ণনায় দেখার কথা আছে বলে তা এর বিপরীত ধরা ঠিক নয়। কুরতুবী 'বর্ণিত আছে' বলে, কোনো সনদ ছাড়া, বনু নাসরের এক ব্যক্তির কথা আনেন, যে সাদা-কালো ছোপের ঘোড়ার আরোহীদের কথা জিজ্ঞেস করেছিল। সেখানে নবী ﷺ-এর নামে একটি জবাবও আছে। তা যাচাই করা যায়নি, তাই এখানে তার উপর কিছু দাঁড় করানো হয়নি। এরপর ইবন কাসীর আয়াতের পাশে রাখেন একটি সাধারণ হাদীস, যা হুনায়ন নিয়ে নয়। মুসলিম (৫২৩) হাম্মামের শব্দে এনেছেন: আমাকে (শত্রুর হৃদয়ে) ভীতি দিয়ে সাহায্য করা হয়েছে, আর আমাকে দেওয়া হয়েছে সংক্ষিপ্ত অথচ ব্যাপক অর্থের বাণী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Requital, Then an Open Door",
+          "bn": "প্রতিফল, তারপর খোলা দরজা"
+        },
+        "p": [
+          {
+            "en": "Wa-'adhdhaba alladhina kafaru: and He punished those who disbelieved. At-Tabari explains: Allah punished those who denied His oneness and the message of His Messenger with killing, the capture of families and children, the taking of wealth, and humiliation; and that is the recompense of the disbelievers means that what was done to them is the requital of those who deny. Al-Qurtubi says, by your swords. Al-Baghawi lists killing, captivity, the taking of families and the seizing of wealth.",
+            "bn": "ওয়া আযযাবাল্লাযীনা কাফারূ: আর তিনি কাফিরদের শাস্তি দিলেন। তাবারীর ব্যাখ্যা: যারা আল্লাহর একত্ব আর তাঁর রাসূলের রিসালাত অস্বীকার করেছিল, আল্লাহ তাদের শাস্তি দিলেন হত্যা, পরিবার ও সন্তানদের বন্দিত্ব, সম্পদ ছিনিয়ে নেওয়া আর অপমান দিয়ে। আর এটাই কাফিরদের প্রতিফল, মানে তাদের সঙ্গে যা করা হলো, অস্বীকারকারীদের প্রাপ্য সেটাই। কুরতুবী বলেন, তোমাদের তলোয়ার দিয়ে। বাগাভী তালিকা দেন: হত্যা, বন্দি করা, পরিবার আটক আর সম্পদ দখল।"
+          },
+          {
+            "en": "As-Sa'di names the rout, the killing and the taking of their women, children and wealth; Allah punishes them in this world, he says, then returns them in the Hereafter to a harsh punishment. Ma'arif al-Qur'an keeps this verse to the worldly part, a defeat seen openly, and says the Hereafter is taken up in 9:27. That verse turns at once: then Allah turns in repentance, after that, to whom He wills. Ibn Kathir's abridged English tells how the rest of Hawazin became Muslim and came to the Prophet ﷺ at al-Ji'rana twenty days after the battle; he released 6,000 captives to them.",
+            "bn": "সা'দী উল্লেখ করেন পরাজয়, হত্যা, আর মুসলিমদের হাতে তাদের নারী, সন্তান ও সম্পদ চলে যাওয়া। তিনি বলেন, আল্লাহ তাদের এ দুনিয়ায় শাস্তি দেন, তারপর আখিরাতে ফিরিয়ে দেন কঠিন আজাবের দিকে। মাআরিফুল কুরআন এ আয়াতকে দুনিয়ার অংশেই রাখে, প্রকাশ্যে দেখা এক পরাজয়। আখিরাতের কথা, সে বলে, আসে ৯:২৭ আয়াতে। সেই আয়াত সঙ্গে সঙ্গে মোড় নেয়: এরপরও আল্লাহ যাকে চান তার তওবা কবুল করেন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি ভাষ্য জানায়, হাওয়াযিনের বাকি লোকেরা মুসলিম হয়ে যুদ্ধের বিশ দিন পর জি'রানায় নবী ﷺ-এর কাছে আসে। তিনি তাদের ৬,০০০ বন্দি ফিরিয়ে দেন।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: one battle, against a force that had gathered to fight the Prophet ﷺ, and a requital that Allah Himself names. It licenses nothing against any living person or community, and it gives no one a warrant to call a neighbour's misfortune a punishment from Allah. The verse after it opens a door to repentance, and in Ibn Kathir's account the rest of the tribe defeated at Hunayn came back as Muslims within weeks.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে কেবল সেটুকুই, যা এর শব্দে আছে। একটি যুদ্ধ, এমন এক বাহিনীর বিরুদ্ধে যারা নবী ﷺ-এর সঙ্গে লড়তে জড়ো হয়েছিল, আর এমন এক প্রতিফল যার নাম আল্লাহ নিজে দিয়েছেন। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিবেশীর বিপদকে আল্লাহর শাস্তি বলে ঘোষণা করার অধিকারও কাউকে দেয় না। পরের আয়াতই তওবার দরজা খুলে দেয়। আর ইবন কাসীরের বর্ণনায়, হুনায়নে পরাজিত সেই গোত্রের বাকি লোকেরা কয়েক সপ্তাহের মধ্যেই মুসলিম হয়ে ফিরে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Help No Headcount Supplies",
+          "bn": "যে সাহায্য সংখ্যায় মেলে না"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, in the abridged English, sums up the passage: Allah reminds the believers that victory comes from Him, by His aid and decree, not from their numbers or their supplies, whether the victories are few or many. Read that way, 9:25 and 9:26 sit side by side as a pair. The fall came from leaning on the count; the recovery came down from above, on a Prophet ﷺ who had not moved back and on believers who came back to him at a call.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি ভাষ্য পুরো অংশের সারকথা দেয়। আল্লাহ মুমিনদের মনে করিয়ে দেন, বিজয় আসে তাঁর কাছ থেকে, তাঁর সাহায্য আর ফয়সালায়। তাদের সংখ্যা বা রসদের জোরে নয়, বিজয় কম হোক বা বেশি। এভাবে পড়লে ৯:২৫ আর ৯:২৬ পাশাপাশি এক জোড়া। পতন এসেছিল সংখ্যার উপর ভর দেওয়া থেকে। আর ফিরে দাঁড়ানো নেমে এসেছিল উপর থেকে, এমন এক নবী ﷺ-এর উপর যিনি পিছু হটেননি, আর এমন মুমিনদের উপর যারা এক ডাকেই তাঁর কাছে ফিরে এসেছিল।"
+          },
+          {
+            "en": "As-Sa'di's turmoil, upheaval and terrifying events reach most lives sooner or later. The scene suggests three things to do. Notice the count you are leaning on; it is not the help. Turn toward whoever is standing firm, as the Companions turned back toward the white mule. And ask, since the sakinah is sent down, not manufactured. The believers with Talut asked in 2:250: Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people.",
+            "bn": "সা'দী যে অস্থিরতা, কাঁপুনি আর ভয়ংকর ঘটনার কথা বলেছেন, আগে-পরে তা প্রায় সবার জীবনেই আসে। এ দৃশ্য থেকে করণীয় তিনটি। যে সংখ্যার উপর ভর দিয়ে আছেন, সেটা চিনে নিন। সেটা সাহায্য নয়। যে অটল দাঁড়িয়ে আছে তার দিকে ফিরুন, যেমন সাহাবীরা সাদা খচ্চরের দিকে ফিরে এসেছিলেন। আর চেয়ে নিন, কারণ সাকীনা নাজিল হয়, বানানো যায় না। তালুতের সঙ্গী মুমিনরা ২:২৫০ আয়াতে চেয়েছিলেন: হে আমাদের রব, আমাদের উপর ধৈর্য ঢেলে দিন, আমাদের পা দৃঢ় রাখুন, আর কাফির সম্প্রদায়ের বিরুদ্ধে আমাদের বিজয় দিন।"
+          }
+        ]
+      }
+    ]
+  },
   "9:28": {
     "sections": [
       {
