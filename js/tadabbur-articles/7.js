@@ -2979,6 +2979,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:61": {
+    "sections": [
+      {
+        "h": {
+          "en": "The First Messenger's Reply",
+          "bn": "প্রথম রাসূলের জবাব"
+        },
+        "p": [
+          {
+            "en": "Surah al-A'raf tells the story of Adam (AS) near its opening, and at 7:59 it turns to the prophets who came after him. Ibn Kathir explains the order: having told Adam's story, Allah begins the stories of the prophets, the first of them and then the later ones, and starts with Nuh (AS) because he was the first messenger Allah sent to the people of the earth after Adam. The panel is short. In 7:59 Nuh calls, in 7:60 the chiefs answer, and our verse is his reply.",
+            "bn": "সূরা আ'রাফ শুরুর দিকে আদম (আঃ)-এর কাহিনি বলে, তারপর ৭:৫৯ থেকে ফেরে তাঁর পরের নবীদের দিকে। এই ক্রমের কারণ ইবন কাসীর বুঝিয়ে দেন। আদমের কাহিনি শেষ করে আল্লাহ নবীদের কাহিনি শুরু করেন, আগের জনকে আগে, পরের জনকে পরে। শুরু হয় নূহ (আঃ)-কে দিয়ে, কারণ আদমের পর পৃথিবীবাসীর কাছে আল্লাহর পাঠানো প্রথম রাসূল তিনিই। অংশটি ছোট। ৭:৫৯-এ নূহ (আঃ) দাওয়াত দেন, ৭:৬০-এ সর্দারেরা জবাব দেয়, আর আমাদের আয়াতে আসে তাঁর উত্তর।"
+          },
+          {
+            "en": "The call in 7:59 has three parts: O my people, worship Allah; you have no god other than Him; I fear for you the punishment of a tremendous Day. So the first thing this people hears from its messenger is worship, then the reason for it, then his fear for them. Our verse shows how he keeps that concern once the reply has come back as an insult. 7:62 continues his answer, and 7:63 closes it with a question.",
+            "bn": "৭:৫৯-এর দাওয়াতে তিনটি কথা। হে আমার কওম, আল্লাহর ইবাদত করো। তিনি ছাড়া তোমাদের আর কোনো ইলাহ নেই। তোমাদের নিয়ে আমি এক মহাদিনের শাস্তির ভয় করি। তাহলে রাসূলের মুখে এই কওম প্রথম শুনল ইবাদতের কথা, তারপর তার কারণ, তারপর তাদের জন্য তাঁর দুশ্চিন্তা। জবাবটা যখন অপমান হয়ে ফিরে এল, তখনও তিনি সেই দরদ কীভাবে ধরে রাখলেন, আমাদের আয়াত তা দেখায়। ৭:৬২ তাঁর উত্তরকে আরও এগিয়ে নেয়, আর ৭:৬৩ তা শেষ করে একটি প্রশ্ন দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Chiefs Saw in Him",
+          "bn": "সর্দারেরা তাঁর মধ্যে যা দেখল"
+        },
+        "p": [
+          {
+            "en": "The charge he answers is in 7:60: inna la-naraka fi dalalin mubin, we see you in clear error. At-Tabari reads al-mala' as a body of men with no woman among them. Al-Qurtubi calls them the nobles and heads of the people, and al-Muyassar their masters and great ones. As-Sa'di describes them as the wealthy leaders whom others follow, whose habit has been to hold themselves above the truth and not to yield to messengers.",
+            "bn": "যে অভিযোগের জবাব তিনি দিচ্ছেন, তা ৭:৬০-এ: ইন্না লানারাকা ফী দালালিম মুবীন, আমরা তো দেখছি তুমি স্পষ্ট গোমরাহিতে আছ। তাবারীর মতে আল-মালা' হলো পুরুষদের একটি দল, তাতে কোনো নারী নেই। কুরতুবী তাদের বলেন কওমের অভিজাত ও মাথা, আর মুয়াসসার বলে তাদের সর্দার ও বড়রা। সা'দীর বর্ণনায় তারা সেই ধনী নেতারা, যাদের পেছনে অন্যরা চলে। সত্যের সামনে নিজেদের উঁচু ভাবা আর রাসূলদের কথা না মানা তাদের পুরোনো অভ্যাস।"
+          },
+          {
+            "en": "What did they mean by error? At-Tabari says: a matter that has slipped away from the truth, its departure from the right aim plain to anyone who looks at it. Ibn Kathir names the matter: your calling us to abandon the worship of these idols on which we found our fathers. Al-Qurtubi, in his note on our verse, says the same: we see you astray from the truth in calling us to one god. Al-Muyassar keeps the chiefs' certainty in their own mouths: we are convinced, O Nuh, that you are in plain error, away from the road of what is right.",
+            "bn": "গোমরাহি বলতে তারা কী বোঝাল? তাবারী বলেন, এমন এক বিষয় যা সত্য থেকে সরে গেছে, আর যে-ই ভেবে দেখবে, তার কাছেই সরে যাওয়াটা পরিষ্কার। বিষয়টা কী, ইবন কাসীর তা নাম ধরে বলেন: বাপদাদাকে যে মূর্তিগুলোর পূজা করতে দেখেছি, তুমি আমাদের সেগুলো ছাড়তে ডাকছ। কুরতুবীও আমাদের আয়াতের আলোচনায় একই কথা বলেন: এক ইলাহের দিকে আমাদের ডাকছ বলেই আমরা দেখছি তুমি সত্য থেকে বিচ্যুত। মুয়াসসার সর্দারদের দৃঢ় বিশ্বাসটা তাদের মুখেই রেখে দেয়: হে নূহ, আমাদের পাকা বিশ্বাস, তুমি সঠিক পথ থেকে সরে গিয়ে স্পষ্ট গোমরাহিতে আছ।"
+          },
+          {
+            "en": "As-Sa'di notes what the chiefs added. Refusing to follow him was not enough for them: they attacked him with the gravest charge, called him astray, and then, not content with astray, made it clear error, obvious to everyone. He counts this among the worst kinds of obstinacy against the obvious, from a people who had carved idols with their own hands, things that neither hear nor see, and given them the place of the Originator of the heavens. The ones bowing to stone were the ones who called the messenger lost.",
+            "bn": "সর্দারেরা যা যোগ করল, সা'দী সেদিকে নজর দেন। তাঁকে না মানাই তাদের কাছে যথেষ্ট ছিল না। তারা তাঁর বিরুদ্ধে সবচেয়ে বড় অপবাদ তুলল, তাঁকে গোমরাহ বলল। শুধু গোমরাহ বলেও থামল না, বলল স্পষ্ট গোমরাহি, যা সবার চোখেই ধরা পড়ে। সা'দী একে চোখের সামনের সত্য অস্বীকার করার নিকৃষ্টতম রূপগুলোর একটি বলেন। এরা নিজেদের হাতে মূর্তি খোদাই করেছিল, যা শোনে না, দেখে না, তারপর সেগুলোকে বসিয়েছিল আসমানের স্রষ্টার আসনে। পাথরের সামনে মাথা নোয়াচ্ছিল যারা, পথহারা বলল তারাই রাসূলকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names That Once Were Men",
+          "bn": "যে নামগুলো একসময় মানুষের ছিল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, in the passage that covers our verse, reports from 'Abdullah ibn 'Abbas and several other commentators how the idols began. Righteous people died; their people built places of worship over their graves and made images of them, to remember their devotion and imitate it. Later generations made statues and worshipped them under the names Wadd, Suwa', Yaghuth, Ya'uq and Nasr. After this had spread, he says, Allah sent Nuh (AS). So the error the chiefs saw in him was his call to leave what their fathers had worshipped.",
+            "bn": "আমাদের আয়াত যে অংশে পড়ে, সেখানে ইবন কাসীর আবদুল্লাহ ইবন আব্বাস (রাঃ) ও আরও কয়েকজন মুফাসসির থেকে বর্ণনা করেন, মূর্তিপূজা কীভাবে শুরু হলো। কিছু নেককার মানুষ মারা গেলেন। তাঁদের লোকেরা কবরের উপর ইবাদতের ঘর বানাল, তাঁদের ছবি বানাল, যাতে তাঁদের ইবাদত মনে পড়ে আর সে পথে চলা যায়। পরের প্রজন্ম মূর্তি গড়ল, আর ওয়াদ্দ, সুওয়া', ইয়াগূস, ইয়া'ঊক ও নাসর নামে সেগুলোর পূজা শুরু করল। ইবন কাসীর বলেন, এ রীতি ছড়িয়ে পড়ার পর আল্লাহ নূহ (আঃ)-কে পাঠালেন। তাই সর্দারেরা তাঁর যে গোমরাহি দেখল, তা আসলে বাপদাদার উপাস্য ছাড়ার ডাক।"
+          },
+          {
+            "en": "Al-Bukhari records a report from Ibn 'Abbas under Surah Nuh, where those five names appear at 71:23; it is not attached to our verse (Bukhari 4920). The names, he says, had belonged to righteous men of Nuh's people. When they died, Satan prompted their people to set up figures where those men used to sit and to call them by their names. The figures were not worshipped until that generation had died and knowledge of their origin had faded; then they were. This is a companion's report, not a saying of the Prophet ﷺ.",
+            "bn": "বুখারী সূরা নূহের আলোচনায় ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা এনেছেন, যেখানে ৭১:২৩ আয়াতে এই পাঁচটি নাম আছে। বর্ণনাটি আমাদের আয়াতের সঙ্গে যুক্ত নয় (বুখারী ৪৯২০)। তিনি বলেন, নামগুলো ছিল নূহ (আঃ)-এর কওমের কয়েকজন নেককার মানুষের। তাঁরা মারা গেলে শয়তান তাদের লোকদের মনে ঢেলে দিল, যেখানে তাঁরা বসতেন সেখানে মূর্তি দাঁড় করাও আর তাঁদের নামে ডাকো। তারা তা-ই করল। তবে সেই প্রজন্ম বেঁচে থাকতে সেগুলোর পূজা হয়নি। তারা মারা গেল, মূর্তিগুলোর আসল কথা মানুষ ভুলে গেল, তখনই পূজা শুরু হলো। এটি একজন সাহাবির বর্ণনা, নবী ﷺ-এর বাণী নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dalal Answered With Dalalah",
+          "bn": "দালালের জবাবে দালালাহ"
+        },
+        "p": [
+          {
+            "en": "The chiefs said dalal; Nuh (AS) answers laysa bi dalalatun. Al-Qurtubi, in his note on our verse, treats the two words together: ad-dalal and ad-dalalah both mean turning aside from the road of truth and going away from it. Yet the reply does not hand their word straight back. Al-Jalalayn, read on quranx, explains the change: dalalah is more general than dalal, so to deny it is the more effective denial. He does not only refuse their description; he refuses anything that could come under it.",
+            "bn": "সর্দারেরা বলেছিল দালাল, আর নূহ (আঃ) জবাব দেন লাইসা বী দালালাহ। কুরতুবী আমাদের আয়াতের আলোচনায় শব্দ দুটিকে একসঙ্গে রাখেন: আদ-দালাল ও আদ-দালালাহ, দুটোরই অর্থ সত্যের পথ থেকে সরে যাওয়া, তা ছেড়ে দূরে চলে যাওয়া। তবু জবাবে তাদের শব্দটা হুবহু ফেরত যায়নি। কুরআনএক্সে পড়া জালালাইন এই বদলের কারণ বলে: দালালাহ শব্দটি দালালের চেয়ে ব্যাপক, তাই একে নাকচ করা বেশি জোরালো নাকচ। অর্থাৎ তিনি কেবল তাদের দেওয়া বিশেষণটা ফিরিয়ে দিচ্ছেন না। ওই নামের নিচে পড়তে পারে এমন সবকিছুই তিনি অস্বীকার করছেন।"
+          },
+          {
+            "en": "Al-Baghawi notices a smaller point of grammar. Dalalah is a feminine noun, yet the verb before it is laysa, not laysat. He gives two explanations: that dalalah here carries the sense of dalal, the masculine form, or that the verb has been placed before its subject. Either way the sentence keeps a clear order. First comes what is not in him, then, after lakinni, what he is. The denial is brief, and it is complete before the positive statement begins.",
+            "bn": "বাগাভী ব্যাকরণের একটি ছোট দিক ধরিয়ে দেন। দালালাহ স্ত্রীলিঙ্গ শব্দ, অথচ তার আগের ক্রিয়াটি লাইসা, লাইসাত নয়। এর দুটি ব্যাখ্যা তিনি দেন। হয় এখানে দালালাহ পুংলিঙ্গ দালালের অর্থ বহন করছে, নয়তো ক্রিয়াটি কর্তার আগে বসেছে বলে এমন হয়েছে। যেভাবেই ধরা হোক, বাক্যের ক্রম পরিষ্কার। আগে আসে তাঁর মধ্যে যা নেই, তারপর লাকিন্নী শব্দের পরে আসে তিনি আসলে কী। নাকচটা ছোট, আর ইতিবাচক কথা শুরুর আগেই তা পূর্ণ হয়ে গেছে।"
+          },
+          {
+            "en": "Then bi, in me. He does not say I have not erred today, or not in this one matter. Al-Muyassar renders it: I am not astray in any matter of all matters, in any way at all, and as-Sa'di uses the same words. Ibn Kathir's gloss is plainer still: I am not one who is astray. Each of them reads the denial as total, a statement about the man himself and not about one claim of his.",
+            "bn": "তারপর বী, আমার মধ্যে। তিনি বলছেন না যে আজ ভুল করিনি, কিংবা শুধু এই একটি বিষয়ে ভুল করিনি। মুয়াসসার এর অর্থ করে: কোনো বিষয়েই, কোনো দিক থেকেই আমি পথভ্রষ্ট নই। সা'দীও হুবহু এই কথাই বলেন। ইবন কাসীরের ব্যাখ্যা আরও সাদামাটা: আমি পথভ্রষ্ট লোক নই। তিনজনই নাকচটাকে পূর্ণ নাকচ হিসেবে পড়েন। কথাটা মানুষটার নিজের সম্পর্কে, তাঁর কোনো একটি দাবির সম্পর্কে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guided, and Sent to Guide",
+          "bn": "নিজে হিদায়াতপ্রাপ্ত, পাঠানো হিদায়াতের জন্য"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di carries the denial over into its opposite. Not astray, he says, but a guide who is himself rightly guided, and his guidance is of the same kind as that of his brothers among the messengers of firm resolve, ulul-'azm: the highest, fullest and most complete kind, the guidance of the complete message. That, he says, is why the verse goes on: but I am a messenger from the Lord of the worlds. The second half of the sentence is the reason the first half is true.",
+            "bn": "সা'দী নাকচটাকে তার বিপরীত দিকে নিয়ে যান। তিনি পথভ্রষ্ট নন, বরং এমন পথপ্রদর্শক যিনি নিজেও সঠিক পথে আছেন। তাঁর হিদায়াত তাঁর ভাইদের, অর্থাৎ দৃঢ়সংকল্প রাসূলদের, উলুল আযমের হিদায়াতেরই জাতের। তা হিদায়াতের সবচেয়ে উঁচু, সবচেয়ে পূর্ণ স্তর, পূর্ণাঙ্গ রিসালাতের হিদায়াত। সা'দী বলেন, এ কারণেই আয়াত এগিয়ে যায়: বরং আমি জগতসমূহের রবের পক্ষ থেকে রাসূল। বাক্যের দ্বিতীয় অর্ধেকই প্রথম অর্ধেকের সত্য হওয়ার কারণ।"
+          },
+          {
+            "en": "At-Tabari makes the same link in the form of a speech. In his paraphrase Nuh (AS) tells them: I did not command you what I commanded, to make your worship purely Allah's and obey Him alone without rivals and gods, because I had slipped from the highway of truth. What you suppose of error is not in me. I am a messenger to you from the Lord of the worlds with exactly what I commanded: to obey Him alone, to affirm His oneness, and to be free of the rivals and the gods.",
+            "bn": "তাবারী একই সংযোগ দেখান নূহ (আঃ)-এর মুখে একটি বক্তব্য রেখে। তাঁর ভাষ্যে নূহ (আঃ) বলছেন: আমি তোমাদের যা আদেশ করেছি, অর্থাৎ খাঁটিভাবে কেবল আল্লাহর ইবাদত করো আর শরিক ও দেবতাদের বাদ দিয়ে একমাত্র তাঁরই আনুগত্য করো, তা এ কারণে নয় যে আমি সত্যের রাজপথ থেকে ছিটকে পড়েছি। তোমরা আমার মধ্যে যে গোমরাহি ভাবছ, তা আমার মধ্যে নেই। আমি জগতসমূহের রবের পক্ষ থেকে তোমাদের কাছে রাসূল। যা আদেশ করেছি, তা নিয়েই এসেছি: একমাত্র তাঁর আনুগত্য, তাঁর একত্বের স্বীকৃতি, আর শরিক ও দেবতাদের থেকে সম্পর্কচ্ছেদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Your Lord as Well as Mine",
+          "bn": "তিনি তোমাদেরও রব"
+        },
+        "p": [
+          {
+            "en": "Rabb al-'alamin is not a neutral title in this exchange. Ibn Kathir glosses it as the Lord of everything and its Owner. Al-Muyassar and as-Sa'di both expand it the same way: my Lord, and your Lord, and the Lord of all creation. By saying who sent him, he places the chiefs inside the reach of the One they had turned from: He is their Lord too, whether or not they worship Him.",
+            "bn": "এই কথোপকথনে রাব্বুল আলামীন কোনো নিরপেক্ষ উপাধি নয়। ইবন কাসীর এর অর্থ করেন, সবকিছুর রব ও মালিক। মুয়াসসার ও সা'দী দুজনেই একইভাবে খুলে বলেন: আমার রব, তোমাদের রব, সমগ্র সৃষ্টির রব। কে তাঁকে পাঠিয়েছেন, তা বলেই তিনি সর্দারদের দাঁড় করান সেই সত্তার আওতায়, যাঁর থেকে তারা মুখ ফিরিয়েছে। তারা তাঁর ইবাদত করুক বা না করুক, তিনি তাদেরও রব।"
+          },
+          {
+            "en": "As-Sa'di draws out the word rabb itself: the One who nurtured all creation with every kind of nurturing, and among the greatest of that nurturing is that He sent messengers to His servants, commanding righteous deeds, virtuous character and sound beliefs, and forbidding their opposites. On this reading the messenger standing before them is himself a sign of the Lord he names. Ma'arif al-Qur'an adds that the phrase strikes decisively against associating others with Allah: once its spirit is understood, it says, no god or goddess of any kind can stand as an object of worship.",
+            "bn": "সা'দী রব শব্দটাকেই খুলে দেখান। রব তিনি, যিনি সমগ্র সৃষ্টিকে সব রকমের লালন-পালনে বড় করেছেন। আর সেই লালন-পালনের সবচেয়ে বড়গুলোর একটি হলো, তিনি বান্দাদের কাছে রাসূল পাঠিয়েছেন। সেই রাসূলেরা নেক আমল, উত্তম চরিত্র আর সঠিক আকিদার আদেশ দেন, আর এগুলোর উল্টো থেকে নিষেধ করেন। এভাবে পড়লে তাদের সামনে দাঁড়ানো রাসূল নিজেই তাঁর উল্লেখ করা রবের এক নিদর্শন। মাআরিফুল কুরআন যোগ করে, কথাটি শিরকের উপর চূড়ান্ত আঘাত। এর মর্ম একবার বুঝে গেলে, তার ভাষায়, কোনো দেবদেবীই আর ইবাদতের যোগ্য থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Insult Sent Back",
+          "bn": "পাল্টা কোনো গালি নেই"
+        },
+        "p": [
+          {
+            "en": "The tone of the reply drew the commentators as much as its content. As-Sa'di, who called the chiefs' words the ugliest reply, says Nuh (AS) answered them gently and softened towards them, hoping they would yield. Ma'arif al-Qur'an calls their words harsh and his reply fit for a prophet: not anger against anger, but an effort to remove their doubts in the simplest words, a signpost for everyone who calls others to the truth. He still opens with ya qawmi, O my people, the address of 7:59, as if the insult had not happened.",
+            "bn": "জবাবের বিষয়বস্তুর মতো তার সুরও মুফাসসিরদের নজর কেড়েছে। সর্দারদের কথাকে সা'দী বলেছিলেন সবচেয়ে কুৎসিত জবাব। সেই সা'দীই বলেন, নূহ (আঃ) তাদের নরম জবাব দিলেন, তাদের প্রতি কোমল হলেন, এই আশায় যে তারা হয়তো মেনে নেবে। মাআরিফুল কুরআন তাদের কথাকে বলে কঠোর, আর তাঁর জবাবকে বলে নবীর উপযুক্ত। রাগের জবাবে রাগ নয়, বরং সবচেয়ে সহজ কথায় তাদের সন্দেহ দূর করার চেষ্টা। মাআরিফের ভাষায়, যারা মানুষকে সত্যের দিকে ডাকে, তাদের সবার জন্য এটি পথনির্দেশক চিহ্ন। তিনি শুরুও করেন ইয়া কওমি, হে আমার কওম বলে, ৭:৫৯-এর সেই একই সম্বোধনে, যেন মাঝখানের অপমানটা ঘটেইনি।"
+          },
+          {
+            "en": "And he says nothing about them. He does not answer 'we see you in error' with 'it is you who are astray', though 7:64 will give Allah's own verdict that they were a blind people. The surah sets the same frame a few verses later: in 7:66 the chiefs of 'Ad accuse Hud (AS) of foolishness, and in 7:67 he answers in words nearly identical to these, there is no foolishness in me, but I am a messenger from the Lord of the worlds. Two prophets, two charges, one form of reply.",
+            "bn": "তাদের সম্পর্কে তিনি একটি কথাও বলেন না। 'আমরা তোমাকে গোমরাহ দেখছি'-র জবাবে তিনি বলেন না, 'গোমরাহ তো তোমরাই'। অথচ ৭:৬৪-এ আল্লাহ নিজেই রায় দেবেন যে তারা ছিল এক অন্ধ কওম। কয়েক আয়াত পরে সূরাটি একই কাঠামো আবার সাজায়। ৭:৬৬-এ আদ জাতির সর্দারেরা হূদ (আঃ)-কে নির্বুদ্ধিতার অপবাদ দেয়। ৭:৬৭-এ তিনি প্রায় হুবহু এই কথাতেই জবাব দেন: আমার মধ্যে কোনো নির্বুদ্ধিতা নেই, বরং আমি জগতসমূহের রবের পক্ষ থেকে রাসূল। দুজন নবী, দুটি অপবাদ, জবাবের ধরন একটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Conveyed and Counselled at 'Arafah",
+          "bn": "আরাফায় সাক্ষ্য: পৌঁছানো ও কল্যাণকামনা"
+        },
+        "p": [
+          {
+            "en": "The answer continues in 7:62: I convey to you the messages of my Lord, I counsel you, and I know from Allah what you do not know. Ibn Kathir, reading the passage as one, calls this the attribute of a messenger: he conveys in plain yet eloquent words, gives sincere counsel, and knows Allah, and no one can rival the prophets in these. He then cites a report from Sahih Muslim. It belongs with the next verse's words; it is not a narration about our verse.",
+            "bn": "উত্তরটা এগিয়ে যায় ৭:৬২-এ: আমি তোমাদের কাছে আমার রবের বাণী পৌঁছে দিই, তোমাদের কল্যাণ কামনা করি, আর আল্লাহর কাছ থেকে এমন কিছু জানি যা তোমরা জানো না। ইবন কাসীর পুরো অংশটিকে একসঙ্গে পড়েন। তাঁর মতে এটাই রাসূলের বৈশিষ্ট্য: তিনি সহজ অথচ সুন্দর ভাষায় পৌঁছে দেন, আন্তরিকভাবে কল্যাণ চান, আর আল্লাহকে জানেন। এসব গুণে নবীদের সমকক্ষ কেউ নেই। এরপর তিনি সহীহ মুসলিম থেকে একটি বর্ণনা আনেন। বর্ণনাটি পরের আয়াতের কথাগুলোর সঙ্গে যায়। আমাদের আয়াত নিয়ে এটি কোনো বর্ণনা নয়।"
+          },
+          {
+            "en": "In Muslim's long report of the Farewell Pilgrimage (Muslim 1218), the Prophet ﷺ says on the day of 'Arafah, in the English on quranx: \"I have left among you the Book of Allah, and if you hold fast to it, you would never go astray. And you would be asked about me (on the Day of Resurrection), (now tell me) what would you say?\" They said: \"We will bear witness that you have conveyed (the message), discharged (the ministry of Prophethood) and given wise (sincere) counsel.\" Lan tadillu, you will not go astray, comes from the same root as dalalah.",
+            "bn": "বিদায় হজের দীর্ঘ বর্ণনায় (মুসলিম ১২১৮) আরাফার দিনে নবী ﷺ বলেন: \"আমি তোমাদের মধ্যে এমন জিনিস রেখে যাচ্ছি, যা আঁকড়ে ধরলে তোমরা এরপর কখনো পথভ্রষ্ট হবে না, আল্লাহর কিতাব। আর তোমাদের আমার সম্পর্কে জিজ্ঞেস করা হবে, তখন তোমরা কী বলবে?\" তাঁরা বললেন: \"আমরা সাক্ষ্য দিচ্ছি, আপনি পৌঁছে দিয়েছেন, দায়িত্ব আদায় করেছেন, আর কল্যাণ কামনা করেছেন।\" লান তাদিল্লূ, তোমরা পথভ্রষ্ট হবে না, কথাটি এসেছে দালালাহ শব্দের একই ধাতু থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When You Are the One Accused",
+          "bn": "অভিযোগ যখন আপনার বিরুদ্ধে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse records what one prophet said to the chiefs of his own people after they called him astray, and 7:64 records what became of them. It licenses nothing against any living person or community. Ibn Kathir's remark that the wicked see the righteous as astray describes those chiefs; it does not let any of us decide that whoever criticises us is wicked, or treat being called wrong as proof of being right. No tafsir fetched for this verse attaches a hadith to it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জানায়, একজন নবী তাঁর নিজের কওমের সর্দারদের কী বলেছিলেন, যখন তারা তাঁকে গোমরাহ বলেছিল। আর ৭:৬৪ জানায় তাদের পরিণতি কী হয়েছিল। এ আয়াত আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না। ইবন কাসীর বলেছেন, পাপাচারীরা নেককারদের পথভ্রষ্ট ভাবে। কথাটা ওই সর্দারদের বর্ণনা। এর জোরে আমরা কেউ ধরে নিতে পারি না যে আমাদের যে সমালোচনা করে সে-ই পাপাচারী, কিংবা ভুল বলা হলেই প্রমাণ হয়ে যায় আমি ঠিক। এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "Nuh's denial also rested on revelation: he was a messenger, and he knew from Allah what they did not. No ordinary believer has that guarantee, so for us the first answer to 'you are in error' is to check, honestly and with knowledge, whether we are. What carries over whole is the manner: keep calling them my people, trade no insults, and speak about what you stand on. A short supplication in the verse's spirit, not a transmitted one: O Allah, keep me from error, show me my own, and soften my tongue when others are harsh.",
+            "bn": "আরেকটি পার্থক্যও মনে রাখা দরকার। নূহ (আঃ)-এর নাকচের ভিত্তি ছিল ওহি। তিনি রাসূল ছিলেন, আর আল্লাহর কাছ থেকে এমন কিছু জানতেন যা তারা জানত না। সাধারণ কোনো মুমিনের সে নিশ্চয়তা নেই। তাই কেউ 'তুমি ভুল পথে আছ' বললে আমাদের প্রথম কাজ হলো সততা আর জ্ঞান নিয়ে যাচাই করা, আসলেই আছি কি না। যা পুরোপুরি নেওয়া যায় তা হলো ধরন: তাদের আপন বলে ডাকতে থাকুন, গালির বদলে গালি দেবেন না, আর বলুন আপনি কিসের উপর দাঁড়িয়ে আছেন। আয়াতের ভাব থেকে ছোট একটি দোয়া, বর্ণিত কোনো দোয়া নয়: হে আল্লাহ, আমাকে গোমরাহি থেকে বাঁচাও, আমার নিজের ভুল আমাকে দেখিয়ে দাও, আর অন্যরা কঠোর হলে আমার জিহ্বাকে কোমল রাখো।"
+          }
+        ]
+      }
+    ]
+  },
   "7:63": {
     "sections": [
       {

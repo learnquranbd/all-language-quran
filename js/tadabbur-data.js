@@ -31563,6 +31563,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The earth is a lodging with provision until a set time, and the enemy came down with you, so live here lightly and keep your guard.",
     "lessonBn": "পৃথিবী একটা নির্দিষ্ট সময় পর্যন্ত রিজিকসহ থাকার জায়গা, আর শত্রুও আপনার সঙ্গেই নেমেছে। তাই এখানে হালকা হয়ে থাকুন, আর সতর্কতা ছাড়বেন না।"
+  },
+  "7:61": {
+    "reflectionEn": "The chiefs gave their verdict in one line: we see you in clear error. The man they said it to had called them to worship Allah alone, and had told them he feared for them. His answer is ten words long. He calls them my people again, as if the insult had not cut the tie. He denies the charge entirely, no error of any kind in me, and then he stops defending himself. He names who sent him instead: the Lord of the worlds, his Lord and theirs. No insult goes back to them. When someone calls me lost, what do I reach for first, a sharper word for them, or a calm account of what I stand on?",
+    "reflectionBn": "সর্দারেরা এক লাইনে রায় দিয়ে দিল: আমরা তো দেখছি তুমি স্পষ্ট গোমরাহিতে পড়ে আছ। যাঁকে বলা হলো, তিনি তাদের ডেকেছিলেন কেবল আল্লাহর ইবাদতের দিকে, আর বলেছিলেন তাদের নিয়ে তাঁর ভয় হয়। তাঁর জবাব মাত্র দশ শব্দের। আবারও তিনি তাদের ডাকেন, হে আমার কওম। অপমানটা যেন সম্পর্ক কাটতে পারেনি। অভিযোগ তিনি পুরোপুরি নাকচ করেন, আমার মধ্যে কোনো রকম বিভ্রান্তি নেই। তারপর আর নিজের পক্ষে সাফাই গান না। বরং বলে দেন কে তাঁকে পাঠিয়েছেন: জগতসমূহের রব, যিনি তাঁরও রব, তাদেরও রব। পাল্টা কোনো গালি তাদের দিকে ফেরে না। কেউ যখন আমাকে পথহারা বলে, আমি আগে কী খুঁজি? তাকে ফিরিয়ে দেওয়ার মতো আরও কড়া কোনো কথা, নাকি শান্তভাবে বলার মতো সেই কথাটা, যার উপর আমি দাঁড়িয়ে আছি?",
+    "pointsEn": [
+      "The last time I was told in front of others that I was wrong, did my reply keep that person close, or push them away?",
+      "Do I answer a harsh word with a harsher one, and then call that standing up for the truth?",
+      "His certainty came from revelation; mine does not. Before I deny a charge of error, have I honestly checked whether I am in it?",
+      "Could I say in one calm sentence what I stand on, to someone who mocks it?",
+      "Whom have I written off as misguided only because they asked me to leave what my family always did?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন সবার সামনে কেউ বলল আমি ভুল করছি, আমার জবাব কি মানুষটাকে কাছে রাখল, নাকি দূরে ঠেলে দিল?",
+      "কড়া কথার জবাবে আমি কি আরও কড়া কথা বলি, তারপর সেটাকে নাম দিই সত্যের পক্ষে দাঁড়ানো?",
+      "তাঁর দৃঢ়তা এসেছিল ওহি থেকে, আমার তা আসে না। ভুলের অভিযোগ নাকচ করার আগে আমি কি সত্যিই যাচাই করে দেখেছি, ভুলটা আমার মধ্যে আছে কি না?",
+      "যে আমার বিশ্বাস নিয়ে ঠাট্টা করে, তাকে কি আমি এক বাক্যে শান্তভাবে বলতে পারব আমি কিসের উপর দাঁড়িয়ে আছি?",
+      "কাকে আমি গোমরাহ বলে বাতিল করে দিয়েছি শুধু এই কারণে যে সে আমাকে বাপদাদার চলে আসা রীতি ছাড়তে বলেছিল?"
+    ],
+    "lessonEn": "When you are called astray, keep your temper and your tie to the speaker, check yourself honestly, and answer by naming what you stand on, not by insulting back.",
+    "lessonBn": "কেউ আপনাকে পথহারা বললে মেজাজ আর সম্পর্ক দুটোই ধরে রাখুন, নিজেকে সৎভাবে যাচাই করুন, আর পাল্টা গালি না দিয়ে বলুন আপনি কিসের উপর দাঁড়িয়ে আছেন।"
   }
 };
 
