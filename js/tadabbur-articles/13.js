@@ -1215,6 +1215,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "13:26": {
+    "sections": [
+      {
+        "h": {
+          "en": "Read After the Worst Home",
+          "bn": "মন্দ আবাসের ঠিক পরে"
+        },
+        "p": [
+          {
+            "en": "The verse comes straight after two portraits. In 13:22 to 13:24 those who keep their covenant are promised the final home and greeted with peace at its gates. In 13:25 those who break it, sever what Allah ordered to be joined and spread corruption on earth are given the curse and the worst home. Al-Qurtubi names the link: having mentioned the end of the believer and the end of the polytheist, He made clear that it is He who widens and restricts provision in this world, because this world is a house of testing.",
+            "bn": "আয়াতটি আসে পাশাপাশি দুটি ছবির ঠিক পরে। ১৩:২২ থেকে ১৩:২৪ আয়াতে যারা অঙ্গীকার রক্ষা করে, তাদের জন্য আছে পরকালের উত্তম ঘর, আর তার দরজায় দরজায় সালাম। ১৩:২৫ আয়াতে যারা অঙ্গীকার ভাঙে, আল্লাহ যা জুড়ে রাখতে বলেছেন তা ছিন্ন করে আর যমীনে ফাসাদ ছড়ায়, তাদের জন্য লানত আর নিকৃষ্ট আবাস। দুইয়ের সঙ্গে এ আয়াতের যোগসূত্র কুরতুবী ধরিয়ে দেন। মুমিন আর মুশরিকের পরিণাম বলার পর আল্লাহ জানিয়ে দিলেন, দুনিয়াতে রিযক প্রশস্ত করেন আর সংকুচিত করেন তিনিই। কারণ দুনিয়া পরীক্ষার ঘর।"
+          },
+          {
+            "en": "Al-Qurtubi also makes a grammatical point about the middle clause. Wa-farihu bi-l-hayati d-dunya, and they rejoiced in the worldly life, is in his reading joined to wa-yufsiduna fi l-ard, and they spread corruption on earth, in the verse before. He says the passage holds a placing forward and back, and he sets out the underlying order: those who break the covenant, sever what is to be joined, spread corruption on earth and rejoiced in the worldly life. On this reading wa-lahum su'u d-dar closes their description, and Allahu yabsutu r-rizqa begins a fresh sentence.",
+            "bn": "মাঝের বাক্যাংশ নিয়ে কুরতুবী একটি ব্যাকরণের কথাও বলেন। ওয়া ফারিহূ বিল-হায়াতিদ দুনইয়া, অর্থাৎ তারা দুনিয়ার জীবন নিয়ে খুশিতে মেতেছে। তাঁর পাঠে এ অংশ জুড়ে আছে আগের আয়াতের ওয়া ইউফসিদূনা ফিল আরদ, অর্থাৎ তারা যমীনে ফাসাদ ছড়ায়, তার সঙ্গে। তিনি বলেন, এখানে আগের কথা পরে আর পরের কথা আগে এসেছে। আসল বিন্যাসটাও তিনি সাজিয়ে দেখান: যারা অঙ্গীকার ভাঙে, জুড়ে রাখার জিনিস ছিন্ন করে, যমীনে ফাসাদ ছড়ায় আর দুনিয়ার জীবন নিয়ে মেতে ওঠে। এ পাঠে ওয়া লাহুম সূউদ দার দিয়ে তাদের বর্ণনা শেষ। আল্লাহু ইয়াবসুতুর রিযক থেকে শুরু নতুন বাক্য।"
+          },
+          {
+            "en": "Who are the people who rejoiced? Al-Qurtubi and al-Baghawi both name them: the polytheists of Makkah. As-Sa'di and the Muyassar say the disbelievers. At-Tabari describes them as those for whom provision had been spread wide in this world despite their disbelief in Allah and their disobedience to Him. The verse describes what it describes, the attitude of a people the Qur'an condemns in its own setting. It licenses nothing against any living person or community.",
+            "bn": "খুশিতে মেতে ছিল কারা? কুরতুবী আর বাগাভী দুজনেই নাম বলেন: মক্কার মুশরিকরা। সা'দী আর মুয়াসসার বলে, কাফিররা। তাবারীর বর্ণনায় তারা সেই লোক, কুফর আর নাফরমানি সত্ত্বেও দুনিয়াতে যাদের রিযক প্রশস্ত করে দেওয়া হয়েছিল। আয়াতটি শুধু সেটুকুই বর্ণনা করে যা সে বর্ণনা করে, অর্থাৎ নিজের প্রেক্ষাপটে কুরআনের নিন্দিত এক দলের মনোভাব। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Widened, Then Measured Out",
+          "bn": "কারও প্রশস্ত, কারও মাপা"
+        },
+        "p": [
+          {
+            "en": "Allahu yabsutu r-rizqa li-man yasha'u wa-yaqdiru. Yabsutu is to spread out or extend. At-Tabari glosses it as widening a person's provision for him. Al-Baghawi gives the pair plainly, He widens for whom He wills and narrows for whom He wills, and al-Qurtubi glosses them as widening and narrowing. Yaqdiru is the harder word. Al-Qurtubi takes it as restricting, and points to the same usage in another verse, wa-man qudira 'alayhi rizquhu, the one whose provision is straitened, in 65:7. At-Tabari explains it as making a person's provision and living scant, so that it is tight on him.",
+            "bn": "আল্লাহু ইয়াবসুতুর রিযকা লিমাঁই ইয়াশাউ ওয়া ইয়াকদির। ইয়াবসুতু মানে বিছিয়ে দেওয়া, ছড়িয়ে দেওয়া। তাবারী এর ব্যাখ্যা করেন কারও রিযক তার জন্য প্রশস্ত করা দিয়ে। বাগাভী জোড়াটা সোজা ভাষায় বলেন: যার জন্য চান প্রশস্ত করেন, যার জন্য চান সংকুচিত করেন। কুরতুবীও এর ব্যাখ্যা দেন প্রশস্ত করা আর সংকুচিত করা দিয়ে। কঠিন শব্দটি ইয়াকদির। কুরতুবী এর অর্থ নেন সংকুচিত করা। একই ব্যবহার তিনি দেখান আরেক আয়াতে, ওয়া মান কুদিরা আলাইহি রিযকুহু, যার রিযক সংকুচিত করা হয়েছে, ৬৫:৭ আয়াতে। তাবারীর ব্যাখ্যায় এর মানে কারও রিযক আর জীবনযাপন কমিয়ে দেওয়া, যাতে তার জন্য তা টানাটানির হয়।"
+          },
+          {
+            "en": "Al-Qurtubi records a second reading, introduced with the words it is said: yaqdiru means He gives in the measure of sufficiency. On that reading the narrower portion is not a shortfall but an amount set to fit the need. As-Sa'di and the Muyassar each add one word to the opening, wahdahu, He alone: it is He alone who widens and He alone who narrows. The clause names one giver for both portions. No other hand enters either the wide share or the measured one.",
+            "bn": "কুরতুবী আরেকটি ব্যাখ্যাও আনেন 'বলা হয়' কথাটি দিয়ে: ইয়াকদির মানে প্রয়োজন মেটানোর পরিমাণে দেওয়া। এ ব্যাখ্যায় কম ভাগটা ঘাটতি নয়, দরকার মাপে ঠিক করা পরিমাণ। সা'দী আর মুয়াসসার শুরুর কথার সঙ্গে একটি শব্দ জুড়ে দেন, ওয়াহদাহু, অর্থাৎ তিনি একাই। প্রশস্ত করেন তিনি একাই, সংকুচিতও করেন তিনি একাই। দুই ভাগের দাতা হিসেবে বাক্যটি একজনেরই নাম নেয়। বড় ভাগে বা মাপা ভাগে আর কারও হাত নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Sets Each Servant Right",
+          "bn": "যাতে যার কল্যাণ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives a reason for each half of the decree, and states it twice, once for each verb. Allah widens provision for some of His creation because among them is one whom nothing but that will set right. He narrows it for others because nothing but scarcity will set that person right. The portion is fitted to the person. Ibn Kathir puts the same thought more briefly: Allah widens provision for whom He wills and straitens it for whom He wills, for the wisdom and the justice He has in that.",
+            "bn": "সিদ্ধান্তের দুই অংশের প্রতিটির কারণ তাবারী আলাদা করে বলেন, প্রতিটি ক্রিয়ার জন্য একবার করে। আল্লাহ তাঁর কিছু সৃষ্টির রিযক প্রশস্ত করেন, কারণ তাদের মধ্যে এমন লোক আছে, প্রাচুর্য ছাড়া আর কিছুতে যার কল্যাণ নেই। আবার কারও রিযক সংকুচিত করেন, কারণ অভাব ছাড়া আর কিছুতে তার কল্যাণ নেই। ভাগটা মানুষের মাপে কাটা। ইবন কাসীর একই কথা আরও ছোট করে বলেন: আল্লাহ যার জন্য চান রিযক প্রশস্ত করেন, যার জন্য চান সংকুচিত করেন। এতে আছে তাঁর হিকমত আর ইনসাফ।"
+          },
+          {
+            "en": "Al-Qurtubi draws the consequence that matters most for anyone looking at the people around them. Because this world is a house of trial, widening provision for a disbeliever does not show that he is honoured, and straitening it for some believers does not show that they are disgraced. The amount in a hand is not a ranking. A full storehouse can belong to someone Allah is testing with fullness, and an empty storehouse to someone He is testing with lack.",
+            "bn": "আশপাশের মানুষের দিকে যে তাকায়, তার জন্য সবচেয়ে জরুরি সিদ্ধান্তটা টানেন কুরতুবী। দুনিয়া যেহেতু পরীক্ষার ঘর, তাই কাফিরের রিযক প্রশস্ত হওয়া প্রমাণ করে না যে সে সম্মানিত। কিছু মুমিনের রিযক সংকুচিত হওয়াও প্রমাণ করে না যে তারা লাঞ্ছিত। হাতে কতটা আছে, তা দিয়ে মর্যাদার তালিকা হয় না। ভরা গোলা এমন কারও হতে পারে, যাকে আল্লাহ পরীক্ষা করছেন প্রাচুর্য দিয়ে। খালি গোলা হতে পারে এমন কারও, যাকে তিনি পরীক্ষা করছেন অভাব দিয়ে।"
+          },
+          {
+            "en": "The placement bears this out. The verses just before measured people by their covenant, their ties of kinship, their patience, their prayer and their spending, and they promised a home by those measures. Nowhere did they measure anyone by income. Only after both homes have been named does the surah mention provision, and it mentions it as something Allah hands out by His own will, not as a prize already won. The same opening, that Allah widens provision for whom He wills and measures it, recurs in 17:30 and in 34:36.",
+            "bn": "আয়াতের অবস্থানও একই কথা বলে। ঠিক আগের আয়াতগুলো মানুষকে মেপেছে অঙ্গীকার, আত্মীয়তার বন্ধন, সবর, নামায আর দান দিয়ে। ঘরের ওয়াদাও দিয়েছে এসব মাপেই। আয় দিয়ে কাউকে কোথাও মাপেনি। দুই ঘরের কথা বলা শেষ হলে তবেই সূরা রিযকের প্রসঙ্গে আসে। তাও আনে আল্লাহর নিজের ইচ্ছায় বণ্টন করা জিনিস হিসেবে, আগেই জিতে নেওয়া পুরস্কার হিসেবে নয়। আল্লাহ যার জন্য চান রিযক প্রশস্ত করেন আর মেপে দেন, এই একই সূচনা আবার আসে ১৭:৩০ আর ৩৪:৩৬ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Joy That Becomes a Resting Place",
+          "bn": "যে খুশিতে মন থিতিয়ে বসে"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi defines the word: farah is a pleasure in the heart at obtaining what it desires. Of the Makkan polytheists he says ashiru wa-batiru, they grew exultant and insolent, and from the verse he draws the conclusion that rejoicing in this world is forbidden. He makes that point in the same breath as his description of the Makkans. Al-Qurtubi's gloss names the kind of rejoicing in view: they rejoiced in this world and knew nothing other than it, and they were ignorant of what is with Allah.",
+            "bn": "বাগাভী শব্দটির সংজ্ঞা দেন: ফারাহ মানে কাঙ্ক্ষিত জিনিস পাওয়ায় অন্তরের আনন্দ। মক্কার মুশরিকদের সম্পর্কে তিনি বলেন, আশিরূ ওয়া বাতিরূ, তারা দম্ভে মেতে উঠেছিল আর অহংকারী হয়ে গিয়েছিল। আয়াত থেকে তিনি সিদ্ধান্ত টানেন যে দুনিয়া নিয়ে এমন খুশি হারাম। কথাটা তিনি বলেন মক্কাবাসীদের সেই বর্ণনার সঙ্গে একই নিঃশ্বাসে। কোন খুশির কথা হচ্ছে, কুরতুবীর ব্যাখ্যায় তা পরিষ্কার: তারা দুনিয়া নিয়ে খুশি ছিল, এর বাইরে আর কিছু চিনত না, আর আল্লাহর কাছে যা আছে সে সম্পর্কে ছিল অজ্ঞ।"
+          },
+          {
+            "en": "As-Sa'di describes the rejoicing by what it did to them: it was a rejoicing that made them settle into this world, yatma'innu biha, and grow heedless of the Hereafter, and he puts it down to a deficiency in their understanding. As-Sa'di does not draw the link, but the verb he chooses is the one that 13:28, two verses on, uses for believers whose hearts find rest in the remembrance of Allah. Read together, the passage holds two kinds of settling: hearts at rest in this world, and hearts at rest in remembering Him.",
+            "bn": "সা'দী এ খুশির বর্ণনা দেন তার ফল দিয়ে। এ এমন খুশি, যা তাদের দুনিয়াতে থিতু করে দিয়েছিল, ইয়াতমাইন্নূ বিহা, আর আখেরাত সম্পর্কে গাফিল বানিয়েছিল। এর কারণ হিসেবে তিনি বলেন তাদের বুদ্ধির ঘাটতি। সা'দী নিজে যোগসূত্রটি টানেন না। তবে তাঁর বেছে নেওয়া ক্রিয়াটি সেই একই ক্রিয়া, যা দুই আয়াত পরে ১৩:২৮ ব্যবহার করে মুমিনদের জন্য, আল্লাহর জিকিরে যাদের অন্তর প্রশান্তি পায়। পাশাপাশি পড়লে এ অংশে দুই রকম থিতু হওয়া দেখা যায়। কিছু অন্তর থিতু হয় দুনিয়াতে, কিছু অন্তর তাঁর স্মরণে।"
+          },
+          {
+            "en": "At-Tabari adds what the rejoicers did not know. They were glad of what had been spread for them, and they were ignorant of the honour and bliss that are with Allah in the Hereafter for those who obey Him and believe in Him. Ibn Kathir names what was happening to them: istidraj and imhal, a gradual drawing on and a respite. He sets the verse beside 23:55 and 23:56: do they think that in the wealth and sons We extend to them We are hastening good things to them? No, but they do not perceive.",
+            "bn": "যারা খুশিতে মেতেছিল, তারা কী জানত না, তাবারী তা জুড়ে দেন। তাদের জন্য যা বিছিয়ে দেওয়া হয়েছিল, তা নিয়ে তারা খুশি ছিল। অথচ আল্লাহর আনুগত্যকারী আর তাঁর প্রতি ঈমানদারদের জন্য আখেরাতে তাঁর কাছে যে সম্মান আর নিয়ামত রাখা, সে সম্পর্কে তারা ছিল অজ্ঞ। তাদের সঙ্গে আসলে কী ঘটছিল, ইবন কাসীর তার নাম দেন: ইসতিদরাজ আর ইমহাল, ধীরে ধীরে টেনে নেওয়া আর অবকাশ দেওয়া। আয়াতটিকে তিনি রাখেন ২৩:৫৫ ও ২৩:৫৬ আয়াতের পাশে: তারা কি ভাবে, যে সম্পদ আর সন্তান দিয়ে আমি তাদের সাহায্য করছি, তাতে আমি তাদের জন্য কল্যাণ ত্বরান্বিত করছি? না, বরং তারা বোঝে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Set Beside the Hereafter",
+          "bn": "আখেরাতের পাশে রাখলে"
+        },
+        "p": [
+          {
+            "en": "Wa-ma l-hayatu d-dunya fi l-akhirati illa mata'. The preposition fi does comparative work here, and al-Qurtubi glosses it as fi janbiha, beside it. The worldly life is not weighed on its own; it is weighed against what follows it. At-Tabari spells out what goes on the scale. All the ease given to these people in this world, the provision spread for them and the comfort of their living, set against what is with Allah in the Hereafter for those who obey Him, is only a small enjoyment, a contemptible thing that passes away.",
+            "bn": "ওয়া মাল হায়াতুদ দুনইয়া ফিল আখিরাতি ইল্লা মাতা'। এখানে ফী অব্যয়টি তুলনার কাজ করছে। কুরতুবী এর ব্যাখ্যা দেন ফী জামবিহা দিয়ে, অর্থাৎ তার পাশে। দুনিয়ার জীবনকে একা ওজন করা হচ্ছে না, ওজন হচ্ছে তার পরে যা আসবে তার সঙ্গে মিলিয়ে। দাঁড়িপাল্লায় কী কী ওঠে, তাবারী খুলে বলেন। দুনিয়াতে এই লোকদের যত স্বাচ্ছন্দ্য দেওয়া হয়েছে, যত রিযক বিছিয়ে দেওয়া হয়েছে, জীবনের যত আরাম, সব মিলিয়ে আল্লাহর আনুগত্যকারীদের জন্য আখেরাতে তাঁর কাছে যা আছে তার পাশে রাখলে তা সামান্য ভোগ মাত্র। তুচ্ছ এক জিনিস, যা চলে যায়।"
+          },
+          {
+            "en": "Ibn Kathir says that here Allah makes the worldly life small in relation to what He has stored up for His believing servants in the abode of the Hereafter, and he pairs the verse with two others. In 4:77: say, the enjoyment of this world is little, and the Hereafter is better for whoever is mindful of Allah, and you will not be wronged by so much as a thread. In 87:16 and 87:17: but you prefer the worldly life, while the Hereafter is better and more lasting. All three verses make the same comparison and reach the same verdict.",
+            "bn": "ইবন কাসীর বলেন, এখানে আল্লাহ দুনিয়ার জীবনকে ছোট করে দেখিয়েছেন, তাঁর মুমিন বান্দাদের জন্য আখেরাতের ঘরে তিনি যা জমা রেখেছেন তার তুলনায়। এর সঙ্গে তিনি আরও দুটি আয়াত জুড়ে দেন। ৪:৭৭ আয়াতে: বলো, দুনিয়ার ভোগ সামান্য, আর যে আল্লাহকে ভয় করে তার জন্য আখেরাতই উত্তম, আর তোমাদের প্রতি সুতা পরিমাণও জুলুম করা হবে না। ৮৭:১৬ ও ৮৭:১৭ আয়াতে: বরং তোমরা দুনিয়ার জীবনকে প্রাধান্য দাও, অথচ আখেরাত উত্তম ও স্থায়ী। তিনটি আয়াতের তুলনা একই, রায়ও একই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bowl, Pot and Shepherd's Bag",
+          "bn": "বাটি, হাঁড়ি আর রাখালের থলে"
+        },
+        "p": [
+          {
+            "en": "Mata' is where the commentators linger. At-Tabari reports from Mujahid, through several chains, a two-word gloss, qalil dhahib, little and going, and al-Baghawi gives the same pair. Al-Qurtubi carries Mujahid's gloss and ties it to the phrase mata'a n-nahar, said of the day when it has climbed high: such a thing must pass. He also takes mata' as one of the household goods, like the bowl and the small dish, and al-Baghawi relays that picture from al-Kalbi: the small dish, the bowl, the cup and the cooking pot, which are used and then gone.",
+            "bn": "মাতা' শব্দটিতে এসে তাফসীরকারেরা থামেন। তাবারী কয়েকটি সনদে মুজাহিদ থেকে দুই শব্দের ব্যাখ্যা আনেন: কালীল যাহিব, সামান্য আর চলে যাওয়ার মতো। বাগাভীও একই জোড়া শব্দ বলেন। কুরতুবী মুজাহিদের ব্যাখ্যাটি এনে তা মিলিয়ে দেন আরবি কথা মাতাআন নাহার-এর সঙ্গে। দিন যখন অনেকটা উপরে উঠে যায়, তখন এ কথা বলা হয়। এমন জিনিসকে ঢলে পড়তেই হয়। কুরতুবী মাতা'কে ঘরের আসবাবের একটি হিসেবেও দেখেন, যেমন বাটি আর ছোট পেয়ালা। বাগাভী কালবী থেকে একই ছবি আনেন: ছোট পেয়ালা, বাটি, গ্লাস আর রান্নার হাঁড়ি। কাজে লাগে, তারপর চলে যায়।"
+          },
+          {
+            "en": "The second picture is the shepherd's provision. At-Tabari reports it from 'Abd ar-Rahman ibn Sabit on this very clause: like the provision a herdsman's family pack for him, a handful of dates, a little flour, or something to drink his milk with. Al-Qurtubi gives the same image under the name of Ibn 'Abbas. As-Sa'di ends on the sharpest note: a contemptible thing, enjoyed for a little while, which parts from its owners and leaves a long woe behind for them. Al-Qurtubi's last reading, under it is said, turns the word round: mata' is what one takes from this world as provision for the Hereafter, of taqwa and righteous deeds.",
+            "bn": "দ্বিতীয় ছবিটি রাখালের সম্বলের। তাবারী এ বাক্যাংশের ব্যাখ্যায় আবদুর রহমান ইবন সাবিত থেকে তা আনেন: রাখালকে তার পরিবার যে সম্বল বেঁধে দেয়, এক মুঠো খেজুর, সামান্য আটা, কিংবা দুধের সঙ্গে খাওয়ার মতো কিছু। কুরতুবী একই ছবি আনেন ইবন আব্বাস (রাঃ)-এর নামে। সা'দী শেষ করেন সবচেয়ে কঠিন কথায়: তুচ্ছ এক জিনিস, অল্প কিছুদিন ভোগ করা যায়। তারপর তা মালিকদের ছেড়ে যায়, আর পেছনে রেখে যায় তাদের জন্য দীর্ঘ দুর্ভোগ। কুরতুবীর শেষ ব্যাখ্যা, 'বলা হয়' দিয়ে আনা, শব্দটিকে উল্টো দিক থেকে দেখে। মাতা' হলো দুনিয়া থেকে আখেরাতের জন্য নেওয়া সম্বল, তাকওয়া আর নেক আমল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Less Than a Dead Kid",
+          "bn": "মরা ছাগলছানার চেয়েও তুচ্ছ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir brings two narrations under the verse. The first, from Imam Ahmad with Muslim's Sahih named alongside, compares this world to what a finger brings back from the sea; it was taken up at 9:38 and is not repeated here. The second he introduces only as another hadith, naming no collection. Muslim records the event in his Sahih (2957) from Jabir ibn 'Abdullah (RA). Passing through the market, the Prophet ﷺ came upon a dead kid with very short ears, took it by the ear and asked who would like to have it for a dirham.",
+            "bn": "ইবন কাসীর এ আয়াতের অধীনে দুটি বর্ণনা আনেন। প্রথমটি আহমাদের সনদে, সঙ্গে সহীহ মুসলিমের নাম। তাতে দুনিয়াকে তুলনা করা হয়েছে সাগরে ডোবানো আঙুল যতটুকু পানি নিয়ে ফেরে তার সঙ্গে। হাদীসটি ৯:৩৮ আয়াতের আলোচনায় এসেছে, এখানে আর আনা হলো না। দ্বিতীয়টিকে তিনি শুধু 'আরেক হাদীস' বলে আনেন, কোনো গ্রন্থের নাম নেন না। ঘটনাটি ইমাম মুসলিম তাঁর সহীহ গ্রন্থে (২৯৫৭) জাবির ইবন আবদুল্লাহ (রাঃ) থেকে বর্ণনা করেছেন। বাজারের ভেতর দিয়ে যেতে যেতে নবী ﷺ একটা মরা ছাগলছানা দেখলেন, যার কান খুব ছোট। তিনি তার কান ধরে তুলে জিজ্ঞেস করলেন, এক দিরহামে এটা কে নিতে চাও?"
+          },
+          {
+            "en": "They said they would not want it for anything: even alive, its short ears would have been a defect, so how much less now that it was dead. Then he said: \"By Allah, this world is more insignificant in the eye of Allah than it (this dead lamb) is in your eye.\" Ibn Kathir's closing sentence differs in wording, so Muslim's wording is quoted here. Like the finger in the sea, it is a general narration on the worth of this world, and Ibn Kathir does not present it as the occasion of this verse.",
+            "bn": "তাঁরা বললেন, কোনো দামেই আমরা এটা চাই না। জীবিত থাকলেও ছোট কান হওয়ায় এটা খুঁতওয়ালা হতো, আর এখন তো মরা। তখন তিনি বললেন: \"আল্লাহর কসম, তোমাদের চোখে এটা যতটা তুচ্ছ, আল্লাহর কাছে দুনিয়া তার চেয়েও বেশি তুচ্ছ।\" ইবন কাসীর শেষ বাক্যটি ভিন্ন শব্দে এনেছেন, তাই এখানে মুসলিমের শব্দই উদ্ধৃত হলো। সাগরে ডোবানো আঙুলের হাদীসের মতো এটিও দুনিয়ার মূল্য নিয়ে সাধারণ বর্ণনা। ইবন কাসীরও একে এ আয়াত নাযিলের উপলক্ষ হিসেবে আনেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What My Portion Asks of Me",
+          "bn": "আমার ভাগ আমার কাছে যা চায়"
+        },
+        "p": [
+          {
+            "en": "Taken together, the commentators give the reader a way to look at a bank balance. If at-Tabari is right that each portion is the one that sets its holder right, the question is not what the amount proves but what it asks: gratitude and spending when it is wide, patience and dignity when it is narrow. Al-Qurtubi's point cuts both ways. It forbids admiring the rich as favoured and looking down on the poor as rejected, and it forbids reading my own portion, large or small, as a verdict on me.",
+            "bn": "তাফসীরকারদের কথা মিলিয়ে পড়লে ব্যাংকের হিসাবের দিকে তাকানোর একটা পথ পাওয়া যায়। তাবারীর কথামতো প্রতিটি ভাগ যদি তার মালিকের কল্যাণের মাপে হয়, তবে প্রশ্ন এটা নয় যে পরিমাণটা কী প্রমাণ করে। প্রশ্ন হলো, পরিমাণটা আমার কাছে কী চায়। প্রশস্ত হলে শোকর আর দান, সংকীর্ণ হলে সবর আর আত্মসম্মান। কুরতুবীর কথা দুই দিকেই খাটে। ধনীকে আল্লাহর প্রিয় ভেবে মুগ্ধ হওয়া আর গরিবকে প্রত্যাখ্যাত ভেবে ছোট করা, দুটোই সে নিষেধ করে। নিজের ভাগ বড় হোক বা ছোট, তাকে নিজের সম্পর্কে রায় ভাবতেও নিষেধ করে।"
+          },
+          {
+            "en": "One more narration bears on the opening clause, though no commentator fetched here attaches it to this verse. Al-Bukhari records it in his Sahih (5986) from Anas ibn Malik (RA): Allah's Apostle said, \"Whoever loves that he be granted more wealth and that his lease of life be prolonged then he should keep good relations with his Kith and kin.\" Its Arabic uses the verse's own verb, an yubsata lahu fi rizqihi, and the verse just before ours condemns those who sever what Allah ordered to be joined. The widening remains Allah's to give; the narration names keeping ties as one way to seek it.",
+            "bn": "শুরুর বাক্যাংশের সঙ্গে আরেকটি বর্ণনার সম্পর্ক আছে, যদিও এখানে আনা কোনো তাফসীর একে এ আয়াতের সঙ্গে জোড়েনি। ইমাম বুখারী তাঁর সহীহ গ্রন্থে (৫৯৮৬) আনাস ইবন মালিক (রাঃ) থেকে বর্ণনা করেছেন, রাসূলুল্লাহ ﷺ বলেছেন: \"যে চায় তার রিযক প্রশস্ত হোক আর তার আয়ু বাড়ুক, সে যেন আত্মীয়তার সম্পর্ক বজায় রাখে।\" এর আরবিতে আছে আয়াতের নিজের ক্রিয়াটিই, আন ইউবসাতা লাহু ফী রিযকিহি। আর ঠিক আগের আয়াত নিন্দা করেছে তাদের, যারা আল্লাহর জুড়ে রাখতে বলা জিনিস ছিন্ন করে। প্রশস্ত করার মালিক আল্লাহই। হাদীসটি তা চাওয়ার একটি পথ দেখিয়ে দেয়: আত্মীয়তা রক্ষা।"
+          }
+        ]
+      }
+    ]
+  },
   "13:28": {
     "sections": [
       {

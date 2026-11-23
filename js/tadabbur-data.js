@@ -33043,6 +33043,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Answer doubt by looking at what Allah has made, and hear His call as an offer of forgiveness and time, not a burden laid on you.",
     "lessonBn": "সন্দেহের জবাব খুঁজুন আল্লাহর সৃষ্টির দিকে তাকিয়ে, আর তাঁর ডাককে বোঝা মনে না করে শুনুন মাগফিরাত ও অবকাশের প্রস্তাব হিসেবে।"
+  },
+  "13:26": {
+    "reflectionEn": "Two people can wake to very different mornings: one counts more than he needs, another counts what is missing. The verse says both mornings come from the same hand. Allah widens provision for whom He wills and measures it out for whom He wills. Neither portion is a certificate of His love or a mark of His anger; each is a test, shaped for the one who carries it. Then the verse turns to people who rejoiced in this life as if it were all there is, and sets the whole of it beside the Hereafter: a brief provision, like food packed for a journey. What I hold today, much or little, is for the road. Am I using it to reach home, or mistaking it for home?",
+    "reflectionBn": "দুজন মানুষের সকাল একেবারে আলাদা হতে পারে। একজন গুনে দেখে, দরকারের চেয়ে বেশি আছে। আরেকজন গুনে দেখে, কী কী নেই। আয়াত বলছে, দুটো সকালই আসে একই হাত থেকে। আল্লাহ যার জন্য চান রিযক প্রশস্ত করেন, যার জন্য চান মেপে দেন। কোনো ভাগই তাঁর ভালোবাসার সনদ নয়, তাঁর অসন্তুষ্টির ছাপও নয়। প্রতিটিই পরীক্ষা, যে বইছে তার মাপে গড়া। তারপর আয়াত ফেরে সেই লোকদের দিকে, যারা দুনিয়ার জীবন নিয়ে এমন মেতে ছিল যেন এর পরে আর কিছু নেই। পুরো দুনিয়াকে আয়াত রাখে আখেরাতের পাশে: অল্প কদিনের সম্বল, পথে বেরোনোর সময় বেঁধে দেওয়া খাবারের মতো। আজ আমার হাতে যা আছে, বেশি হোক বা কম, তা পথের জন্য। আমি কি এ দিয়ে ঘরে পৌঁছানোর চেষ্টা করছি, নাকি একেই ঘর ভেবে বসে আছি?",
+    "pointsEn": [
+      "When my income rises or falls, what do I quietly conclude about where I stand with Allah?",
+      "Is there someone whose wealth I have read as a sign of goodness, or whose poverty as a sign of failure?",
+      "What in my life do I rejoice in so completely that I rarely think past it?",
+      "If what I own is provision for a journey, what am I carrying it toward?",
+      "What one thing from this week's provision can I turn into something that lasts: a gift, a kindness, a deed done for Allah?"
+    ],
+    "pointsBn": [
+      "আমার আয় বাড়লে বা কমলে আল্লাহর কাছে আমার অবস্থান নিয়ে মনে মনে আমি কী সিদ্ধান্তে পৌঁছাই?",
+      "কারও সম্পদ দেখে কি তাকে ভালো মানুষ ধরে নিয়েছি, কিংবা কারও অভাব দেখে তাকে ব্যর্থ ভেবেছি?",
+      "জীবনের কোন জিনিস নিয়ে আমি এত খুশি যে তার ওপারে আর ভাবিই না?",
+      "আমার সম্পদ যদি সফরের সম্বল হয়, তবে তা বয়ে আমি কোথায় যাচ্ছি?",
+      "এ সপ্তাহের রিযক থেকে কোন একটা জিনিসকে আমি স্থায়ী কিছুতে বদলে দিতে পারি: একটা দান, একটা সদয় আচরণ, আল্লাহর জন্য করা একটা আমল?"
+    ],
+    "lessonEn": "Treat both plenty and want as tests from Allah rather than verdicts on you, and spend this world's brief provision on the journey to the Hereafter.",
+    "lessonBn": "প্রাচুর্য আর অভাব, দুটোকেই আপনার সম্পর্কে রায় না ভেবে আল্লাহর পরীক্ষা হিসেবে দেখুন, আর দুনিয়ার অল্প কদিনের সম্বল আখেরাতের সফরে খরচ করুন।"
   }
 };
 
