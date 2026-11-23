@@ -30283,6 +30283,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Answer every honour from Allah with deeper worship: steady obedience, humble prostration, and a place among those who bow.",
     "lessonBn": "আল্লাহর দেওয়া প্রতিটি সম্মানের জবাব দিন আরও গভীর ইবাদত দিয়ে: টানা আনুগত্য, বিনীত সিজদা, আর রুকুকারীদের কাতারে নিজের জায়গা।"
+  },
+  "2:266": {
+    "reflectionEn": "Picture a garden of palms and vines with rivers running beneath it and every kind of fruit on its branches. Its owner has grown old, and his children are too small to work it. Then a whirlwind carrying fire passes through, and the garden burns. The verse does not tell this as someone else's misfortune. It asks: would any of you wish for this? No one would. Yet a life of good deeds can end the same way, spoiled by showing off, by reminding people of favours, or by sins that come later, and the loss is found exactly when there is no strength left to plant again. What am I growing for that day, and what might be quietly setting it alight?",
+    "reflectionBn": "একটা বাগানের কথা ভাবুন। খেজুর আর আঙুরের গাছ, নিচ দিয়ে নদী বয়ে যায়, ডালে ডালে সব রকম ফল। মালিক এখন বুড়ো হয়ে গেছেন, সন্তানেরা এত ছোট যে বাগানে কাজ করতে পারে না। এমন সময় আগুনভরা এক ঘূর্ণিঝড় এসে বাগানটা পুড়িয়ে দিয়ে যায়। আয়াতটি এ ঘটনাকে অন্য কারও দুর্ভাগ্য বলে শোনায় না। সরাসরি প্রশ্ন করে: তোমাদের কেউ কি এমনটা চাইবে? কেউই চাইবে না। অথচ নেক আমলে ভরা একটা জীবনও ঠিক এভাবে শেষ হতে পারে। লোক দেখানো, অনুগ্রহের খোঁটা, কিংবা পরে করা গুনাহ তাকে নষ্ট করে দেয়। আর ক্ষতিটা ধরা পড়ে ঠিক তখন, যখন নতুন করে চারা লাগানোর শক্তি আর থাকে না। সেই দিনের জন্য আমি কী ফলাচ্ছি? আর কোন জিনিস চুপিচুপি তাতে আগুন ধরিয়ে দিচ্ছে?",
+    "pointsEn": [
+      "Which of my good deeds would I still want to do if no one ever learned of them?",
+      "Is there a favour I once did that I keep bringing up, to the person or to others?",
+      "What habit of mine could, over the years, undo the good I did when I was younger?",
+      "If my deeds were the garden I had to live on in old age, what am I planting this week?",
+      "When the Qur'an puts a question like this to me, do I stop and ask where I stand in it?"
+    ],
+    "pointsBn": [
+      "আমার কোন কোন নেক কাজ এমন, যা কেউ কোনো দিন জানতে না পারলেও আমি করে যেতাম?",
+      "কারও প্রতি করা কোনো উপকারের কথা কি আমি বারবার তুলি, তার সামনে বা অন্যদের কাছে?",
+      "আমার কোন অভ্যাসটা বছরের পর বছর ধরে তরুণ বয়সের নেক কাজগুলো মুছে দিতে পারে?",
+      "আমার আমল যদি সেই বাগান হয়, বুড়ো বয়সে যার ফল খেয়ে আমাকে বাঁচতে হবে, তাহলে এ সপ্তাহে আমি কী লাগাচ্ছি?",
+      "কুরআন যখন আমাকে এমন প্রশ্ন করে, আমি কি থেমে দেখি এর ভেতরে আমি কোথায় দাঁড়িয়ে আছি?"
+    ],
+    "lessonEn": "Guard your good deeds from showing off, reminders and later sins, because you will need them most when you can no longer plant again.",
+    "lessonBn": "লোক দেখানো, খোঁটা আর পরের গুনাহ থেকে নিজের নেক আমল আগলে রাখুন, কারণ যখন নতুন করে কিছু লাগানোর শক্তি থাকবে না, তখনই সেগুলোর দরকার হবে সবচেয়ে বেশি।"
   }
 };
 

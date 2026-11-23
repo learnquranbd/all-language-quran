@@ -10319,6 +10319,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "2:266": {
+    "sections": [
+      {
+        "h": {
+          "en": "Not a Likeness but a Question",
+          "bn": "উপমা নয়, প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The passage on spending opened at 2:261 with a grain that grows seven ears. 2:264 then told the believers not to void their charity with reminders and hurt, and 2:265 set beside it a garden on high ground for those who spend seeking Allah's pleasure. 2:266 brings the next picture, and it changes form. The earlier verses say: their example is like. This verse asks instead: ayawaddu ahadukum, would any of you like it? At-Tabari glosses ayawaddu as ayuhibbu, would he love it.",
+            "bn": "দান-খরচের এই অংশ শুরু হয়েছিল ২:২৬১ আয়াতে, যেখানে একটি দানা থেকে সাতটি শীষ গজায়। এরপর ২:২৬৪ আয়াতে মুমিনদের বলা হলো, খোঁটা আর কষ্ট দিয়ে নিজেদের দান বাতিল করে ফেলো না। ২:২৬৫ আয়াত তার পাশে রাখল উঁচু জমির এক বাগান, আল্লাহর সন্তুষ্টি চেয়ে যারা খরচ করে তাদের জন্য। ২:২৬৬ আয়াত পরের ছবিটা আনে, তবে ধরন বদলে যায়। আগের আয়াতগুলো বলে: তাদের দৃষ্টান্ত এমন। এ আয়াত উল্টো প্রশ্ন করে: আয়াওয়াদ্দু আহাদুকুম, তোমাদের কেউ কি এটা চাইবে? তাবারী আয়াওয়াদ্দু-র অর্থ করেন আয়ুহিব্বু, সে কি এটা ভালোবাসবে।"
+          },
+          {
+            "en": "Al-Baghawi says plainly that this verse is joined to the call of 2:264 not to void charity with reminders and hurt. The question form matters. A likeness can be heard from a safe distance, but a question has to be answered, and here the answer is obvious. In 35 Arabic words the verse builds a whole life and then burns it down.",
+            "bn": "বাগাভী সোজাসুজি বলেন, এ আয়াত ২:২৬৪ আয়াতের সেই ডাকের সঙ্গে জোড়া, যেখানে খোঁটা আর কষ্ট দিয়ে দান বাতিল করতে নিষেধ করা হয়েছে। প্রশ্নের ধরনটা গুরুত্বপূর্ণ। উপমা নিরাপদ দূরত্বে বসেও শোনা যায়। কিন্তু প্রশ্ন শুনলে উত্তর দিতে হয়, আর এখানে উত্তর একেবারে স্পষ্ট। মাত্র ৩৫টি আরবি শব্দে আয়াতটি গোটা একটা জীবন গড়ে তোলে, তারপর তা পুড়িয়ে ছাই করে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Palms, Vines and Running Water",
+          "bn": "খেজুর, আঙুর আর বহমান পানি"
+        },
+        "p": [
+          {
+            "en": "The garden is min nakhilin wa a'nab, of date palms and grapevines, with rivers flowing beneath it, and lahu fiha min kulli th-thamarat, in it he has every kind of fruit. As-Sa'di asks why these two trees are singled out, and answers: for their excellence and their many uses, since they serve at once as food, as staple, as fruit and as sweetness. Al-Qurtubi gives a shorter reason, their nobility and merit over other trees, and records that al-Hasan read jannat, gardens, in the plural.",
+            "bn": "বাগানটি মিন নাখীলিন ওয়া আ'নাব, খেজুর গাছ আর আঙুরলতার। নিচ দিয়ে নদী বয়ে যায়, আর লাহু ফীহা মিন কুল্লিস সামারাত, তাতে তার জন্য আছে সব রকম ফল। সা'দী প্রশ্ন তোলেন, এই দুটি গাছকেই আলাদা করে কেন বলা হলো? তাঁর উত্তর: এদের মর্যাদা আর বহুমুখী উপকারের জন্য। এগুলো একসঙ্গে খাবার, প্রধান আহার, ফল আর মিষ্টান্ন। কুরতুবী ছোট করে কারণ বলেন: অন্য সব গাছের উপর এ দুটির মর্যাদা ও শ্রেষ্ঠত্ব। তিনি এও জানান, হাসান শব্দটি পড়েছিলেন বহুবচনে, জান্নাত, অর্থাৎ বাগানসমূহ।"
+          },
+          {
+            "en": "As-Sa'di adds that the rivers water the garden at no cost to its owner, who has come to delight in it and take pleasure in it. Al-Qurtubi takes every kind of fruit at full strength: there is no fruit that does not grow there. The picture is built to its limit on purpose. At-Tabari, reading it as the parable of a show-off's spending, says the praise and worldly gain such a man wins are like that beauty, holding every good of this world as the garden holds every fruit.",
+            "bn": "সা'দী যোগ করেন, নদীগুলো বাগানে পানি দেয় মালিকের কোনো খরচ ছাড়াই, আর মালিক বাগানটি নিয়ে খুশি, তাতে তার মন ভরে থাকে। কুরতুবী সব রকম ফলের কথাটা পুরো অর্থে নেন: এমন কোনো ফল নেই যা সেখানে জন্মায় না। ছবিটা ইচ্ছে করেই শেষ সীমা পর্যন্ত সাজানো। তাবারী একে লোক দেখানো দানের দৃষ্টান্ত হিসেবে পড়েন। তাঁর মতে, এমন লোক যে প্রশংসা আর দুনিয়ার সুবিধা কুড়ায়, তা ওই সৌন্দর্যেরই মতো। বাগানে যেমন সব ফল, তার ভাগেও তেমনি দুনিয়ার সব রকম লাভ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Old Age and Small Children",
+          "bn": "বার্ধক্য আর ছোট সন্তান"
+        },
+        "p": [
+          {
+            "en": "Then the verse adds two facts about the owner: wa asabahu l-kibar, and old age has struck him, and wa lahu dhurriyyatun du'afa', and he has weak offspring. The first verb is past, yet it follows an takuna, which looks forward. At-Tabari explains that ayawaddu can take law, if only, in place of an, so a past verb may follow it. Al-Qurtubi also lists the reading that the waw marks a state: while old age has struck him.",
+            "bn": "এরপর আয়াত মালিক সম্পর্কে দুটি কথা জুড়ে দেয়: ওয়া আসাবাহুল কিবার, আর তাকে বার্ধক্য পেয়ে বসেছে; ওয়া লাহু যুররিয়্যাতুন দু'আফা, আর তার আছে দুর্বল সন্তান। প্রথম ক্রিয়াটি অতীত কালের, অথচ বসেছে আন তাকূনা-র পরে, যা ভবিষ্যতের দিকে তাকায়। তাবারী বুঝিয়ে বলেন, আয়াওয়াদ্দু-র পরে আন-এর জায়গায় লাও, অর্থাৎ যদি, বসতে পারে, তাই এর পরে অতীত ক্রিয়াও আসতে পারে। কুরতুবী আরেকটি মতও উল্লেখ করেন: ওয়াও এখানে অবস্থা বোঝায়, অর্থাৎ এমন অবস্থায় যে বার্ধক্য তাকে পেয়ে বসেছে।"
+          },
+          {
+            "en": "Du'afa' is a plural of da'if, weak. At-Tabari notes that 4:9 speaks of dhurriyyatan di'afan, using another plural of the same word, and explains that the pattern takes both forms. He glosses the weak offspring as small children, and al-Baghawi calls them young, weak and helpless. As-Sa'di draws the household: the old man has grown too weak to work while his eagerness has only grown, his children give him no help and are a burden on him, and his living and theirs both come from that one garden.",
+            "bn": "দু'আফা শব্দটি দা'ঈফ, অর্থাৎ দুর্বল, শব্দের একটি বহুবচন। তাবারী দেখান, ৪:৯ আয়াতে বলা হয়েছে যুররিয়্যাতান দি'আফান, একই শব্দের আরেক বহুবচনে। তিনি ব্যাখ্যা দেন, এই গড়নের শব্দের দুই রকম বহুবচনই হয়। দুর্বল সন্তান বলতে তিনি বোঝেন ছোট শিশু, আর বাগাভী বলেন কচি, দুর্বল, অক্ষম। সা'দী গোটা সংসারের ছবি আঁকেন। বুড়ো মানুষটি কাজ করার শক্তি হারিয়েছেন, অথচ তাঁর আকাঙ্ক্ষা বেড়েই চলেছে। সন্তানেরা কোনো সাহায্য করতে পারে না, উল্টো তাঁর উপর বোঝা। তাঁর নিজের আর তাদের সবার জীবিকা আসে ওই একটি বাগান থেকেই।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an asks why the verse stacks these details. A young man whose orchard burns can hope to plant another. A man with no dependants can get by somehow on his own. A man whose children are grown can lean on them. Old age, children, and children too young to help: each detail closes a way out, until the need stands at its most intense. Then, Ma'arif says, the shock of the burning is severe and the pain without limit, and that is the condition the parable wants its hearer to feel.",
+            "bn": "মাআরিফুল কুরআন প্রশ্ন করে, আয়াত এতগুলো খুঁটিনাটি পরপর সাজাল কেন? যুবকের বাগান পুড়ে গেলে সে আরেকটা লাগানোর আশা রাখতে পারে। যার কোনো পোষ্য নেই, সে একা একা কোনোভাবে চলে যায়। যার সন্তানেরা বড় হয়ে গেছে, সে তাদের উপর ভর দিতে পারে। বার্ধক্য, সন্তান, তাও আবার এত ছোট যে কোনো কাজে আসে না: প্রতিটি খুঁটিনাটি বেরোনোর একেকটা পথ বন্ধ করে দেয়। শেষে প্রয়োজন পৌঁছায় চরমে। মাআরিফ বলে, তখন বাগান পোড়ার ধাক্কা হয় প্রচণ্ড, আর কষ্টের কোনো সীমা থাকে না। দৃষ্টান্তটি শ্রোতাকে ঠিক এই অবস্থাটাই অনুভব করাতে চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whirlwind, Scorching or Freezing",
+          "bn": "ঘূর্ণিঝড়: দহন না হিম"
+        },
+        "p": [
+          {
+            "en": "Fa-asabaha i'sarun fihi narun fa-htaraqat: then a whirlwind with fire in it struck the garden, and it burned. At-Tabari defines the i'sar as a violent wind that blows from the earth towards the sky as though it were a column, and al-Baghawi, and az-Zajjaj in al-Qurtubi, describe it the same way. Al-Qurtubi also records why it bears the name. Al-Mahdawi said it twists like a garment being wrung. Ibn 'Atiyyah called that weak, and al-Qurtubi answers that it is correct, because it is what one sees: the wind rises as a twisted column.",
+            "bn": "ফাআসাবাহা ই'সারুন ফীহি নারুন ফাহতারাকাত: তারপর আগুনভরা এক ঘূর্ণিঝড় বাগানে আঘাত হানল, আর তা পুড়ে গেল। তাবারী ই'সারের সংজ্ঞা দেন এভাবে: প্রচণ্ড বাতাস, যা মাটি থেকে আকাশের দিকে ওঠে, যেন একটা খুঁটি। বাগাভী এবং কুরতুবীর উদ্ধৃতিতে যাজ্জাজও একই বর্ণনা দেন। নামটা কেন, কুরতুবী তাও জানান। মাহদাভী বলেছিলেন, নিংড়ানো কাপড়ের মতো এটি পাক খায়। ইবন আতিয়্যা এ ব্যাখ্যাকে দুর্বল বলেছেন। কুরতুবীর জবাব, ব্যাখ্যাটা ঠিক, কারণ চোখে এমনটাই দেখা যায়: বাতাসটা পাকানো খুঁটির মতো উপরে ওঠে।"
+          },
+          {
+            "en": "What the fire in it means is a genuine difference, and at-Tabari lays out both sides. Most reports he brings, from Ibn 'Abbas, Qatadah, as-Suddi and ar-Rabi', say a wind carrying fierce samum, the scorching hot wind; another from Ibn 'Abbas calls it the hot samum from which the jinn were created. Al-Hasan and ad-Dahhak said instead a wind carrying intense cold. Ibn 'Atiyyah, as al-Qurtubi relays him, allows both, since such a wind comes in great heat and in great cold. Either way, the garden is gone at a stroke.",
+            "bn": "এর ভেতরের আগুন বলতে কী বোঝায়, তা নিয়ে সত্যিকারের মতভেদ আছে, আর তাবারী দুই দিকই তুলে ধরেন। তাঁর আনা বেশির ভাগ বর্ণনায়, ইবন আব্বাস (রাঃ), কাতাদা, সুদ্দী আর রাবী' থেকে, এর অর্থ এমন বাতাস যাতে আছে তীব্র সামূম, ঝলসানো গরম হাওয়া। ইবন আব্বাস (রাঃ) থেকে আরেক বর্ণনায় এটি সেই গরম সামূম, যা থেকে জিনদের সৃষ্টি। অন্যদিকে হাসান আর দাহহাক বলেছেন, এমন বাতাস যাতে আছে কনকনে ঠান্ডা। কুরতুবীর উদ্ধৃতিতে ইবন আতিয়্যা দুটোই মেনে নেন, কারণ এমন বাতাস প্রচণ্ড গরমেও আসে, প্রচণ্ড শীতেও। যেভাবেই হোক, এক আঘাতেই বাগান শেষ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When 'Umar Asked the Companions",
+          "bn": "উমর (রাঃ) যখন সাহাবিদের জিজ্ঞেস করলেন"
+        },
+        "p": [
+          {
+            "en": "The soundest report on this verse is a conversation, not a saying of the Prophet ﷺ, and none of the tafsirs read here attaches such a saying to it. Al-Bukhari records the exchange in his Sahih under this verse (4538), from 'Ubayd ibn 'Umayr. In the Dar-us-Salam English it reads: \"Once 'Umar (bin Al-Khattab) said to the companions of the Prophet (ﷺ) 'What do you think about this Verse: Does any of you wish that he should have a garden?' They replied, 'Allah knows best.' 'Umar became angry and said, 'Either say that you know or say that you do not know!'\"",
+            "bn": "এ আয়াত নিয়ে সবচেয়ে মজবুত বর্ণনাটি একটি কথোপকথন, নবী ﷺ-এর কোনো বাণী নয়। এখানে পড়া কোনো তাফসীরও এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো বাণী জুড়ে দেয়নি। বুখারী তাঁর সহীহ গ্রন্থে এ আয়াতের অধীনে (৪৫৩৮) উবাইদ ইবন উমাইর থেকে কথোপকথনটি বর্ণনা করেছেন: \"একদিন উমর (রাঃ) নবী ﷺ-এর সাহাবিদের বললেন, 'আয়াওয়াদ্দু আহাদুকুম আন তাকূনা লাহু জান্নাহ, এ আয়াতটি কার সম্পর্কে নাযিল হয়েছে বলে তোমরা মনে করো?' তাঁরা বললেন, 'আল্লাহই ভালো জানেন।' উমর (রাঃ) রেগে গেলেন। বললেন, 'হয় বলো আমরা জানি, নয়তো বলো জানি না।'\""
+          },
+          {
+            "en": "The exchange continues: \"On that Ibn 'Abbas said, 'O chief of the believers! I have something in my mind to say about it.' 'Umar said, 'O son of my brother! Say, and do not under estimate yourself.' Ibn 'Abbas said, 'This Verse has been set up as an example for deeds.' 'Umar said, 'What kind of deeds?' Ibn 'Abbas said, 'For deeds.' 'Umar said, 'This is an example for a rich man who does goods out of obedience of Allah and then Allah sends him Satan whereupon he commits sins till all his good deeds are lost.'\"",
+            "bn": "কথোপকথন এগিয়ে চলে: \"তখন ইবন আব্বাস (রাঃ) বললেন, 'আমীরুল মুমিনীন, এ নিয়ে আমার মনে কিছু কথা আছে।' উমর (রাঃ) বললেন, 'ভাতিজা, বলো, নিজেকে ছোট ভেবো না।' ইবন আব্বাস (রাঃ) বললেন, 'আয়াতটি একটি আমলের দৃষ্টান্ত হিসেবে দেওয়া হয়েছে।' উমর (রাঃ) বললেন, 'কোন আমল?' ইবন আব্বাস (রাঃ) বললেন, 'একটি আমলের।' উমর (রাঃ) বললেন, 'এক ধনী লোকের, যে আল্লাহর আনুগত্যে আমল করত। তারপর আল্লাহ তার কাছে শয়তানকে পাঠালেন, আর সে গুনাহের কাজ করতে থাকল, শেষে নিজের সব আমল ডুবিয়ে দিল।'\""
+          },
+          {
+            "en": "Al-Bukhari's wording gives Ibn 'Abbas the first step, that the garden is a parable for deeds, and puts the full explanation in 'Umar's mouth. Al-Qurtubi's telling gives that explanation to Ibn 'Abbas, and al-Baghawi's has Ibn 'Abbas say the deed of the show-off before 'Umar finishes. The verb in al-Bukhari's Arabic is aghraqa, he drowned his deeds, where al-Qurtubi's telling has ahraqa, he burned them. Ibn Kathir counts the report among al-Bukhari's afrad, those he has alone, and says it is enough to explain the verse.",
+            "bn": "বুখারীর ভাষ্যে ইবন আব্বাস (রাঃ) প্রথম ধাপটা বলেন: বাগানটি আমলের দৃষ্টান্ত। আর পুরো ব্যাখ্যাটা আসে উমর (রাঃ)-এর মুখে। কুরতুবীর বর্ণনায় ব্যাখ্যাটা ইবন আব্বাস (রাঃ)-এর। বাগাভীর বর্ণনায় উমর (রাঃ) শেষ করার আগে ইবন আব্বাস (রাঃ) বলেন, লোক দেখানো ব্যক্তির আমল। বুখারীর আরবিতে ক্রিয়াটি আগরাকা, সে তার আমল ডুবিয়ে দিল। কুরতুবীর বর্ণনায় আছে আহরাকা, সে তা পুড়িয়ে দিল। ইবন কাসীর বর্ণনাটিকে বুখারীর আফরাদের মধ্যে গণ্য করেন, অর্থাৎ যা কেবল তিনিই এনেছেন। তাঁর মতে আয়াতের ব্যাখ্যায় এটুকুই যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Garden Burned?",
+          "bn": "কার বাগান পুড়ল?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari brings, through 'Ata', Ibn 'Abbas likening the garden to a man who spends his life on the deeds of the people of good until, when he most needs to seal it with good, he seals it with the deeds of the people of misery and spoils it all. Through Ibn Abi Mulaykah, 'Umar recited the verse and called it a parable for a person who does righteous work until, near his life's end, he does evil. As-Sa'di widens it to anyone who did a deed for Allah and then did what spoils it.",
+            "bn": "তাবারী আতার সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: এ এমন লোকের দৃষ্টান্ত, যে সারা জীবন ভালো মানুষদের আমল করে গেল। তারপর যখন ভালো দিয়ে জীবন শেষ করার প্রয়োজন সবচেয়ে বেশি, তখন সে শেষ করল হতভাগাদের আমল দিয়ে, আর সব নষ্ট করে ফেলল। ইবন আবী মুলায়কার সূত্রে আছে, উমর (রাঃ) আয়াতটি তিলাওয়াত করে বললেন, এ এমন মানুষের দৃষ্টান্ত, যে নেক আমল করতে করতে জীবনের শেষ দিকে এসে মন্দ কাজ করে বসে। সা'দী কথাটা আরও বিস্তৃত করেন: যে কেউ আল্লাহর জন্য কোনো আমল করল, তারপর এমন কিছু করল যা তা নষ্ট করে দেয়।"
+          },
+          {
+            "en": "At-Tabari himself takes a narrower line. He judges as-Suddi the clearest of the interpreters: this is another parable for spending done for show, whose owner finds on the Day of Resurrection that showing off has burned it. His reason is context. Allah had just forbidden reminders and hurt, and likened whoever does them to the hypocrite who spends to be seen, so this verse is better joined to that verse than read as a parable of something not mentioned. Al-Baghawi reads it of the hypocrite and the show-off, and the Muyassar of those insincere in their spending.",
+            "bn": "তাবারী নিজে আরেকটু সরু পথ ধরেন। তাঁর বিচারে ব্যাখ্যাকারদের মধ্যে সুদ্দীর কথাই সবচেয়ে স্পষ্ট: এ লোক দেখানো খরচের আরেকটি দৃষ্টান্ত। কিয়ামতের দিন সে দেখবে, লোক দেখানোর মানসিকতা তার খরচ পুড়িয়ে দিয়েছে। তাবারীর যুক্তি প্রসঙ্গ। আল্লাহ এইমাত্র খোঁটা আর কষ্ট দিতে নিষেধ করেছেন, আর যে তা করে তাকে তুলনা করেছেন লোক দেখাতে খরচ করা মুনাফিকের সঙ্গে। তাই এ আয়াতকে ওই আয়াতের সঙ্গে জুড়ে পড়াই ভালো, যার উল্লেখ নেই এমন কিছুর দৃষ্টান্ত ধরার চেয়ে। বাগাভী একে মুনাফিক ও লোক দেখানো ব্যক্তির আমল হিসেবে পড়েন, আর মুয়াসসার পড়ে খরচে যারা নিষ্ঠাবান নয় তাদের কথা হিসেবে।"
+          },
+          {
+            "en": "Al-Qurtubi relays Ibn 'Atiyyah's objection. Ibn Zayd had recited the call against voiding charity with reminders and hurt and said the garden was its parable; Ibn 'Atiyyah found that clearer than at-Tabari's choice, and said the verse is not another parable for show-off spending. Outside its context, he added, it fits every hypocrite or disbeliever who did a deed thinking he did well and found nothing at the time of need. Mujahid read it of whoever neglects obedience until he dies; al-'Awfi's report from Ibn 'Abbas, and ad-Dahhak, read it of the disbeliever on the Day of Resurrection.",
+            "bn": "কুরতুবী ইবন আতিয়্যার আপত্তি তুলে ধরেন। ইবন যায়দ খোঁটা আর কষ্ট দিয়ে দান বাতিল না করার ডাকটি তিলাওয়াত করে বলেছিলেন, বাগানটি তারই দৃষ্টান্ত। ইবন আতিয়্যার কাছে এ ব্যাখ্যা তাবারীর পছন্দের চেয়ে স্পষ্ট। তিনি বলেন, আয়াতটি লোক দেখানো খরচের আরেকটি দৃষ্টান্ত নয়। প্রসঙ্গের বাইরে, তিনি যোগ করেন, এটি খাটে প্রত্যেক মুনাফিক বা কাফিরের উপর, যে ভালো করছি ভেবে আমল করল, অথচ প্রয়োজনের সময় কিছুই পেল না। মুজাহিদ একে পড়েছেন সেই লোকের কথা হিসেবে, যে মৃত্যু পর্যন্ত আল্লাহর আনুগত্যে গাফিলতি করে। আর আওফীর সূত্রে ইবন আব্বাস (রাঃ) এবং দাহহাক একে পড়েছেন কিয়ামতের দিনের কাফিরের কথা হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gone When Needed Most",
+          "bn": "প্রয়োজনের মুহূর্তে হাতছাড়া"
+        },
+        "p": [
+          {
+            "en": "Under every reading the verse turns on a phrase the commentators keep repeating: ahwaju ma kana ilayh, when he needed it most. Qatadah and al-Hasan, in at-Tabari, put the verse's question in plain words: would any of you like his deeds to be gone when he needs them most? At-Tabari pictures the show-off meeting his Lord with his reward cancelled, when there is no more chance to make amends, no release from his sins and no repentance. Ibn Kathir says the earlier good failed him in the narrowest of states, exactly when he needed it.",
+            "bn": "যে ব্যাখ্যাই ধরা হোক, আয়াতের কেন্দ্রে একটি বাক্যাংশ, যা তাফসীরকারেরা বারবার ফিরিয়ে আনেন: আহওয়াজু মা কানা ইলাইহি, যখন তার প্রয়োজন সবচেয়ে বেশি। তাবারীর উদ্ধৃতিতে কাতাদা আর হাসান আয়াতের প্রশ্নটা সাদা কথায় বলেন: তোমাদের কেউ কি চাইবে, যখন আমলের প্রয়োজন সবচেয়ে বেশি, ঠিক তখনই তা হারিয়ে যাক? তাবারীর ছবিতে লোক দেখানো ব্যক্তি রবের সামনে হাজির হয় বাতিল হয়ে যাওয়া প্রতিদান নিয়ে। তখন আর শুধরে নেওয়ার সুযোগ নেই, গুনাহ থেকে রেহাই নেই, তওবাও নেই। ইবন কাসীর বলেন, আগের নেক আমল তাকে ছেড়ে গেল সবচেয়ে সংকটের অবস্থায়, ঠিক যখন তার দরকার ছিল।"
+          },
+          {
+            "en": "As-Sa'di maps the parable piece by piece. Deeds done for Allah are like seed for crops and fruit, and they keep growing until the doer has a garden of great beauty; whatever spoils deeds is the whirlwind with fire. A servant needs his deeds most once he has died and can no longer work, and then he finds what he hoped in scattered like dust. Of the old man's grief at the burning, as-Sa'di says that if grief could kill, it would have killed him. Anyone who pictured this, he adds, would not walk towards it.",
+            "bn": "সা'দী দৃষ্টান্তটি টুকরো টুকরো করে মিলিয়ে দেখান। আল্লাহর জন্য করা আমল ফসল আর ফলের বীজের মতো। তা বাড়তেই থাকে, শেষে আমলকারীর জন্য তৈরি হয় অপরূপ এক বাগান। আর যা কিছু আমল নষ্ট করে, তা ওই আগুনভরা ঘূর্ণিঝড়। বান্দার আমলের প্রয়োজন সবচেয়ে বেশি মৃত্যুর পর, যখন সে আর কাজ করতে পারে না। তখনই সে দেখে, যে আমল থেকে উপকারের আশা করেছিল, তা ছড়ানো ধুলোর মতো উড়ে গেছে। বাগান পোড়ায় বুড়ো মানুষটির দুঃখ নিয়ে সা'দী বলেন, দুঃখে মানুষ মরতে পারলে এ দুঃখেই সে মারা যেত। তিনি যোগ করেন, এ ছবি যে মনে আঁকবে, সে আর ওই পথে পা বাড়াবে না।"
+          },
+          {
+            "en": "The readings name types: the show-off, the hypocrite, the disbeliever, the neglecter of obedience. The verse describes what it describes, and it licenses no one to fit a living person or community into the burnt garden. Its address is ahadukum, any of you, put to the believers who had just heard 2:264, and the people its question is meant to unsettle are those who hear it.",
+            "bn": "ব্যাখ্যাগুলো কয়েক ধরনের মানুষের কথা বলে: লোক দেখানো ব্যক্তি, মুনাফিক, কাফির, আনুগত্যে গাফিল লোক। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায়কে ওই পোড়া বাগানে বসিয়ে দেওয়ার অনুমতি এটি কাউকে দেয় না। আয়াতের সম্বোধন আহাদুকুম, তোমাদের কেউ। এ ডাক সেই মুমিনদের প্রতি, যারা এইমাত্র ২:২৬৪ আয়াত শুনেছে। প্রশ্নটা নাড়া দিতে চায় তাদেরই, যারা তা শুনছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reflect While the Garden Stands",
+          "bn": "বাগান থাকতেই ভাবুন"
+        },
+        "p": [
+          {
+            "en": "The verse closes: kadhalika yubayyinu llahu lakumu l-ayati la'allakum tatafakkarun, thus Allah makes the signs clear to you so that you may reflect. At-Tabari reads it: so that you reflect with your minds, take the lesson and act on it. Mujahid glossed tatafakkarun as tuti'un, you obey. Ibn 'Abbas, through 'Ali ibn Abi Talhah, said reflection on the passing of this world and the coming and permanence of the next. Qatadah and Ibn Kathir both point to 29:43: only those who know understand these parables.",
+            "bn": "আয়াত শেষ হয় এভাবে: কাযালিকা ইউবাইয়িনুল্লাহু লাকুমুল আয়াতি লা'আল্লাকুম তাতাফাক্কারূন, এভাবে আল্লাহ তোমাদের জন্য নিদর্শনগুলো স্পষ্ট করেন, যাতে তোমরা চিন্তা করো। তাবারীর ব্যাখ্যা: যাতে তোমরা বুদ্ধি খাটিয়ে ভাবো, শিক্ষা নাও আর সে অনুযায়ী আমল করো। মুজাহিদ তাতাফাক্কারূন-এর অর্থ করেছেন তুতী'ঊন, তোমরা আনুগত্য করো। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেছেন, দুনিয়ার বিলীন হয়ে যাওয়া আর আখিরাতের আগমন ও স্থায়িত্ব নিয়ে চিন্তা। কাতাদা আর ইবন কাসীর দুজনেই ২৯:৪৩ আয়াতের দিকে ইঙ্গিত করেন: জ্ঞানীরা ছাড়া কেউ এই দৃষ্টান্তগুলো বোঝে না।"
+          },
+          {
+            "en": "In practice, the verse asks for an inventory while the garden still stands. Which deeds would survive if no one ever learned of them? Which favours do I keep bringing up, to the person or to others? Which habits, years from now, could undo what I once did well? The owner in the parable cannot replant, because he is old and his children are small. The reader still can. That is the difference between hearing the verse and becoming its subject, and the verse ends on the word it was built for: so that you reflect.",
+            "bn": "বাস্তব জীবনে আয়াতটি চায়, বাগান দাঁড়িয়ে থাকতেই হিসাব মিলিয়ে নিন। কেউ কোনো দিন না জানলেও আমার কোন আমলগুলো টিকে থাকত? কোন উপকারের কথা আমি বারবার তুলি, যার উপকার করেছি তার সামনে বা অন্যদের কাছে? কোন অভ্যাস বহু বছর পরে আমার একসময়ের ভালো কাজগুলো মুছে দিতে পারে? দৃষ্টান্তের মালিক আর নতুন করে লাগাতে পারে না, কারণ সে বুড়ো আর তার সন্তানেরা ছোট। পাঠক এখনো পারেন। আয়াত শোনা আর আয়াতের বিষয় হয়ে যাওয়ার পার্থক্য এখানেই। আর আয়াত শেষ হয় সেই শব্দে, যার জন্য গোটা ছবিটা আঁকা: যাতে তোমরা চিন্তা করো।"
+          }
+        ]
+      }
+    ]
+  },
   "2:270-271": {
     "sections": [
       {
