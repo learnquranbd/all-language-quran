@@ -30843,6 +30843,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do the light commands you have actually been given, thank Allah that heavier ones were not written, and let each act of obedience make your footing firmer.",
     "lessonBn": "যে হালকা আদেশগুলো সত্যিই আপনাকে দেওয়া হয়েছে, সেগুলো পালন করুন, ভারী আদেশ লেখা হয়নি বলে আল্লাহর শুকরিয়া করুন, আর প্রতিটি আনুগত্য দিয়ে নিজের পা আরও মজবুত করুন।"
+  },
+  "4:145": {
+    "reflectionEn": "Many warnings in the Qur'an say who will be in the Fire. This one says where. The hypocrites, it says, will be in the lowest level of it, and no helper will be found for them. The surprise is the ranking. They stood in the rows, were counted among the believers, and were treated as part of the community by everyone around them. Yet they end up beneath those who never pretended at all. A lie about faith weighs more than open refusal. The very next verse opens a door for whoever repents and makes the religion sincere for Allah. So this verse is not asking me about anyone else. It asks one thing of me: where does my outside still not match my inside?",
+    "reflectionBn": "কুরআনের অনেক সতর্কবাণী জানায়, জাহান্নামে কারা যাবে। এ আয়াত জানায়, কোথায় থাকবে। মুনাফিকরা থাকবে আগুনের একেবারে নিচের স্তরে, আর তাদের জন্য কোনো সাহায্যকারী মিলবে না। অবাক করার মতো ব্যাপার এই ক্রমটা। তারা কাতারে দাঁড়াত, মুমিনদের মধ্যে গণ্য হতো, আশপাশের সবাই তাদের সমাজেরই অংশ বলে মানত। তবু তাদের ঠাঁই হবে তাদেরও নিচে, যারা কখনো ভান করেনি। ঈমান নিয়ে মিথ্যা খোলাখুলি অস্বীকারের চেয়েও ভারী। ঠিক পরের আয়াতেই দরজা খুলে দেওয়া হয়েছে তার জন্য, যে তওবা করে আর দ্বীনকে আল্লাহর জন্য খাঁটি করে নেয়। তাই এ আয়াত অন্য কারও কথা আমাকে জিজ্ঞেস করে না। জিজ্ঞেস করে শুধু একটা কথা: আমার বাইরেটা কোথায় এখনো ভেতরের সঙ্গে মেলেনি?",
+    "pointsEn": [
+      "Is there a part of my life where I show people a faith that I do not live when no one is watching?",
+      "When I give my word, hold a trust or tell what happened, would it stand up if the other person could see inside me?",
+      "Have I ever called someone a hypocrite, a person whose heart I cannot see, when this verse was meant as a mirror for me?",
+      "Besides Allah, what helper am I quietly counting on: a group, a reputation, a ready excuse?",
+      "What is one thing I can mend this week, and one deed I can do purely for Allah, with no one to see it?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোনো জায়গায় কি আমি মানুষকে এমন দ্বীনদারি দেখাই, যা কেউ না দেখলে আমি মেনে চলি না?",
+      "কথা দেওয়ার সময়, আমানত রাখার সময় বা কোনো ঘটনা বলার সময় অন্যজন যদি আমার ভেতরটা দেখতে পেত, আমার কথা কি টিকত?",
+      "যার অন্তর আমি দেখতে পাই না, এমন কাউকে কি কখনো মুনাফিক বলেছি, অথচ এ আয়াত ছিল আমার নিজের জন্য আয়না?",
+      "আল্লাহ ছাড়া আর কোন সাহায্যকারীর ভরসায় আমি চুপচাপ বসে আছি: কোনো দল, নিজের সুনাম, নাকি হাতের কাছে রাখা কোনো অজুহাত?",
+      "এ সপ্তাহে কোন একটা জিনিস আমি শুধরে নিতে পারি? আর কোন একটা আমল কেবল আল্লাহর জন্য করতে পারি, যা কেউ দেখবে না?"
+    ],
+    "lessonEn": "Pretending to faith ends lower than open refusal. Let your outside match your inside, leave other people's hearts to Allah, and keep the door of repentance in view.",
+    "lessonBn": "ঈমানের ভান শেষ হয় খোলাখুলি অস্বীকারেরও নিচে। আপনার বাইরেটা ভেতরের সঙ্গে মিলিয়ে নিন, অন্যের অন্তরের বিচার আল্লাহর হাতে ছেড়ে দিন, আর তওবার দরজার কথা মনে রাখুন।"
   }
 };
 

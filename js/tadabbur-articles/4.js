@@ -5819,6 +5819,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "4:145": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Passage Has Been Heading",
+          "bn": "বর্ণনা যেখানে গিয়ে থামে"
+        },
+        "p": [
+          {
+            "en": "Inna al-munafiqina fi ad-darki al-asfali mina an-nar: the hypocrites will be in the lowest level of the Fire. The verse closes a long passage of Surah an-Nisa about the hypocrites. 4:138 gave them tidings of a painful punishment, 4:140 said Allah will gather the hypocrites and the disbelievers in Hell together, 4:141 showed them waiting to see which side would win, and 4:142 and 4:143 described their deceit, their heavy prayer and their wavering. 4:144 then warned the believers not to take disbelievers as allies.",
+            "bn": "ইন্নাল মুনাফিকীনা ফিদ দারকিল আসফালি মিনান নার: মুনাফিকরা থাকবে আগুনের সবচেয়ে নিচের স্তরে। সূরা নিসার যে দীর্ঘ অংশ মুনাফিকদের নিয়ে, এ আয়াত তার শেষ টান। ৪:১৩৮ আয়াতে তাদের যন্ত্রণাদায়ক শাস্তির খবর দেওয়া হয়েছে। ৪:১৪০ আয়াত বলেছে, আল্লাহ মুনাফিক আর কাফিরদের সবাইকে জাহান্নামে একত্র করবেন। ৪:১৪১ আয়াতে দেখা গেছে, কোন পক্ষ জেতে তারা সেই অপেক্ষায় থাকে। ৪:১৪২ ও ৪:১৪৩ আয়াত তুলে ধরেছে তাদের ধোঁকা, ভারী পায়ে নামাজে দাঁড়ানো আর দোদুল্যমান থাকা। এরপর ৪:১৪৪ আয়াত মুমিনদের সাবধান করেছে, তারা যেন কাফিরদের বন্ধু না বানায়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, which reads 4:145 to 4:148 together, marks a change of purpose here. The earlier verses pointed out the hypocrites' ugly traits, and their punishment came up only as a corollary of another subject. From this verse on, the purpose is to state that punishment clearly. It also gives the reason the passage turns at once to repentance: the fear such a warning stirs in a good-natured person is usually what moves him to repent early, so exemption is promised to those who repent, with a good reward besides.",
+            "bn": "মাআরিফুল কুরআন ৪:১৪৫ থেকে ৪:১৪৮ পর্যন্ত আয়াত একসঙ্গে পড়ে, আর এখানে এসে উদ্দেশ্যের একটা বদল লক্ষ করে। আগের আয়াতগুলো মুনাফিকদের কুৎসিত স্বভাবগুলো দেখিয়েছে। তাদের শাস্তির কথা সেখানে এসেছে অন্য প্রসঙ্গের সূত্র ধরে, প্রায় পার্শ্বকথা হিসেবে। এ আয়াত থেকে উদ্দেশ্য হলো সেই শাস্তি পরিষ্কার করে বলা। অংশটা কেন সঙ্গে সঙ্গেই তওবার দিকে মোড় নেয়, তার কারণও মাআরিফুল কুরআন বলে দেয়। এমন সতর্কবাণী ভালো মনের মানুষের ভেতরে যে ভয় জাগায়, সাধারণত সেটাই তাকে তাড়াতাড়ি তওবার দিকে ঠেলে দেয়। তাই যারা তওবা করে, তাদের শাস্তি থেকে রেহাই আর সঙ্গে উত্তম প্রতিদানের ওয়াদা দেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rungs That Go Downward",
+          "bn": "নিচের দিকে নামা ধাপ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses the phrase as the lowest tabaq, layer, of the layers of Jahannam, and says that every layer of Jahannam is called a darak. The early reports he records say the same in plain words. From Ibn Abbas (RA), by way of Ali ibn Abi Talhah: in the lowest part of the Fire. From Abdullah ibn Kathir, through Ibn Jurayj: we have heard that Jahannam has adrak, stations. Ibn Kathir relays the Ibn Abbas report too, and al-Muyassar renders the phrase as the lowest of the Fire's stations on the Day of Resurrection.",
+            "bn": "তাবারী শব্দবন্ধটির ব্যাখ্যা দেন এভাবে: জাহান্নামের স্তরগুলোর মধ্যে সবচেয়ে নিচের তাবাক, মানে স্তর। তিনি বলেন, জাহান্নামের প্রতিটি স্তরকেই দারক বলা হয়। তাঁর উদ্ধৃত পূর্বসূরিদের বর্ণনাও সোজা ভাষায় একই কথা বলে। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেন: আগুনের সবচেয়ে নিচের অংশে। ইবন জুরাইজের সূত্রে আবদুল্লাহ ইবন কাসীর বলেন: আমরা শুনেছি, জাহান্নামের অনেক দারক আছে, অর্থাৎ অনেক মনজিল। ইবন কাসীরও ইবন আব্বাসের বর্ণনাটি আনেন। আর মুয়াসসার অর্থ করে: কিয়ামতের দিন আগুনের মনজিলগুলোর মধ্যে সবচেয়ে নিচেরটিতে।"
+          },
+          {
+            "en": "Two commentators set the word against its opposite. Ibn Kathir reports others as saying that the Fire is darakat just as Paradise is darajat. Al-Qurtubi gives the usage behind the pair: the Arabs call whatever goes downward adrak, so a well is said to have adrak, while whatever rises is called daraj; Paradise has daraj and the Fire has adrak. The same pair can be heard in this surah. In 4:95 and 4:96 those who strive with their wealth and their lives are given darajat, degrees from Him, with forgiveness and mercy.",
+            "bn": "দুজন তাফসীরকার শব্দটিকে তার বিপরীত শব্দের পাশে রাখেন। ইবন কাসীর অন্যদের কথা উদ্ধৃত করেন: জান্নাতের যেমন দারাজাত, জাহান্নামের তেমনি দারাকাত। কুরতুবী এই জোড়ার পেছনের ভাষারীতিটা খুলে বলেন। যা কিছু নিচের দিকে নামে, আরবরা তাকে বলে আদরাক। তাই কূপের আদরাক আছে বলা হয়। আর যা ওপরে ওঠে, তাকে বলে দারাজ। জান্নাতের আছে দারাজ, জাহান্নামের আছে আদরাক। এই জোড়া এই সূরাতেই শোনা যায়। ৪:৯৫ ও ৪:৯৬ আয়াতে যারা জান-মাল দিয়ে সংগ্রাম করে, তাদের দেওয়া হয়েছে দারাজাত, তাঁর পক্ষ থেকে মর্যাদার স্তর, সঙ্গে মাগফিরাত আর রহমত।"
+          },
+          {
+            "en": "The picture, then, is of steps. Some lead upward, each one nearer to Allah's mercy, and some lead down, each one deeper into the punishment. The verse does not stop at saying that the hypocrites are in the Fire, which 4:140 had already said. It names the rung: the last and lowest one. That is a statement about rank, and it raises a plain question. Why should people who stood in prayer beside the believers rank below people who never claimed faith at all?",
+            "bn": "ছবিটা তাহলে সিঁড়ির। কিছু ধাপ ওপরে ওঠে, প্রতিটি আল্লাহর রহমতের আরও কাছে। কিছু ধাপ নিচে নামে, প্রতিটি শাস্তির আরও গভীরে। মুনাফিকরা আগুনে থাকবে, এ কথা ৪:১৪০ আয়াত আগেই বলেছে। এ আয়াত সেখানে থামে না। সে ধাপটার নাম বলে দেয়: শেষ ধাপ, সবচেয়ে নিচেরটা। এটা অবস্থানের কথা, আর এখান থেকে একটা সোজা প্রশ্ন ওঠে। যারা মুমিনদের পাশে দাঁড়িয়ে নামাজ পড়ত, তাদের স্থান কেন তাদেরও নিচে হবে, যারা কখনো ঈমানের দাবিই করেনি?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Darak, With or Without a Vowel",
+          "bn": "দারাক নাকি দারক"
+        },
+        "p": [
+          {
+            "en": "The word itself has two recognised readings. At-Tabari reports that most reciters of Madinah and Basrah read darak, with a vowel on the ra, and most reciters of Kufah read dark, with the ra unvowelled. Al-Baghawi gives the same division, the people of Kufah with the sukun and the rest with the fatha, and calls them two dialects of one word. At-Tabari adds the plurals of each form: adrak, or duruk for many, from darak; and adruk, or duruk for many, from dark.",
+            "bn": "শব্দটির দুটি স্বীকৃত কিরাআত আছে। তাবারী জানান, মদীনা ও বসরার অধিকাংশ কারী পড়েছেন দারাক, রা-তে যবর দিয়ে। কুফার অধিকাংশ কারী পড়েছেন দারক, রা-তে সাকিন দিয়ে। বাগাভীও একই ভাগ দেখান: কুফাবাসী সাকিন দিয়ে, বাকিরা যবর দিয়ে। তাঁর মতে দুটো একই শব্দের দুই উচ্চারণরীতি। তাবারী দুই রূপের বহুবচনও বলে দেন। দারাক থেকে আদরাক, আর সংখ্যায় বেশি হলে দুরূক। দারক থেকে আদরুক, আর সংখ্যায় বেশি হলে দুরূক।"
+          },
+          {
+            "en": "On which is better, they differ in emphasis. At-Tabari holds that both are well-known readings, so whoever recites either is correct, since the meaning agrees and each is widely recited among Muslims. He adds only that scholars of Arabic report the vowelled form as better known among the Arabs, and cites a saying they heard: give me a darak to tie to my rope, said when one's rope falls short of the well. Al-Qurtubi relays an-Nahhas, that the first reading is the more eloquent, and Abu Ali, that the two are dialects. The meaning is one either way.",
+            "bn": "কোনটি উত্তম, এ নিয়ে তাঁদের জোর দেওয়ার জায়গা আলাদা। তাবারীর মতে দুটোই সুপরিচিত কিরাআত। যে কারী যেটাই পড়ুন, ঠিক পড়েছেন, কারণ অর্থ এক, আর মুসলমানদের কারীদের মধ্যে দুটোই ব্যাপকভাবে প্রচলিত। তিনি শুধু এটুকু যোগ করেন যে আরবি ভাষাবিদদের মতে আরবদের মুখে যবরওয়ালা রূপটি বেশি পরিচিত। প্রমাণ হিসেবে তাঁদের শোনা একটি কথা আনেন: আমাকে একটা দারাক দাও, আমার রশির সঙ্গে জুড়ে নিই। রশি কূপের তলা পর্যন্ত না পৌঁছালে লোকে এমন বলে। কুরতুবী নাহহাসের কথা আনেন যে প্রথম কিরাআতটি বেশি বিশুদ্ধ। আবার আবূ আলীর কথাও আনেন যে দুটো দুই উচ্চারণরীতি। যেভাবেই পড়া হোক, অর্থ একটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Below Those Who Openly Refused",
+          "bn": "প্রকাশ্য অস্বীকারকারীদেরও নিচে"
+        },
+        "p": [
+          {
+            "en": "Why the lowest? The commentators answer from the hypocrites' own record. Ibn Kathir says the verse tells of their end on the Day of Resurrection as a recompense for their thick disbelief, kufrihim al-ghaliz. Al-Qurtubi gives three reasons for their place at the bottom: the thickness of their disbelief, the number of their treacheries, and the access they had to harm the believers. Two of his three reasons concern what they did to other people, not only what they held in their hearts.",
+            "bn": "সবচেয়ে নিচে কেন? তাফসীরকারেরা উত্তর খোঁজেন মুনাফিকদের নিজেদের আমলনামায়। ইবন কাসীর বলেন, আয়াতটি কিয়ামতের দিন তাদের পরিণতির খবর দিচ্ছে, তাদের গাঢ় কুফরির প্রতিফল হিসেবে। তিনি শব্দটা বলেন কুফরিহিমুল গালীয, মানে ঘন, পুরু কুফরি। কুরতুবী তলায় তাদের ঠাঁই হওয়ার তিনটি কারণ দেন: কুফরির ঘনত্ব, বিশ্বাসঘাতকতার আধিক্য, আর মুমিনদের ক্ষতি করার সুযোগ তাদের হাতে থাকা। লক্ষ করার মতো, তিন কারণের দুটিই অন্য মানুষের সঙ্গে তাদের আচরণ নিয়ে। শুধু অন্তরে কী লুকানো ছিল, তা নিয়ে নয়।"
+          },
+          {
+            "en": "As-Sa'di spells out the comparison. The hypocrites are beneath all the other disbelievers, he says, because they shared with them disbelief in Allah and enmity towards His messengers, and then added cunning and deception, and the ability to carry out many kinds of hostility against the believers in a way no one noticed or sensed. On top of that, the rulings of Islam were applied to them, and they took what they had no right to. For this and the like, he says, they earned the severest punishment, and this holds for every hypocrite.",
+            "bn": "তুলনাটা স্পষ্ট করে বলেন সা'দী। তাঁর মতে মুনাফিকরা অন্য সব কাফিরের নিচে। কারণ আল্লাহর সঙ্গে কুফরি আর তাঁর রসূলদের সঙ্গে শত্রুতায় তারা কাফিরদের শরিক ছিল। এর ওপর তারা যোগ করেছে চক্রান্ত আর প্রতারণা। মুমিনদের বিরুদ্ধে নানা রকম শত্রুতা চালানোর সুযোগও তারা পেয়েছিল, এমনভাবে যে কেউ টের পেত না। তার ওপর ইসলামের বিধান তাদের ওপর চলত, ফলে যা তাদের প্রাপ্য নয়, তা-ও তারা নিয়ে গেছে। সা'দী বলেন, এসব কারণেই তারা সবচেয়ে কঠিন শাস্তির উপযুক্ত হয়েছে। আর কথাটা প্রত্যেক মুনাফিকের বেলায় খাটে।"
+          },
+          {
+            "en": "Al-Qurtubi also relays, without a chain, a saying of Abdullah ibn Umar (RA): the people most severely punished on the Day of Resurrection are three, the hypocrites, those of the people of the Table who disbelieved, and the family of Pharaoh. Ibn Umar draws each from the Qur'an: this verse for the first; 5:115 for the second, where Allah says He will punish such a person as He punishes no one else in the worlds; and 40:46 for the third, admit the people of Pharaoh to the severest punishment. It is a Companion's reading of three verses, not a hadith of the Prophet ﷺ.",
+            "bn": "কুরতুবী সনদ ছাড়া আবদুল্লাহ ইবন উমর (রাঃ)-এর একটি উক্তিও আনেন। কিয়ামতের দিন সবচেয়ে কঠিন শাস্তি পাবে তিন দল: মুনাফিকরা, মায়িদার লোকদের মধ্যে যারা কুফরি করেছে তারা, আর ফিরআউনের লোকেরা। ইবন উমর প্রতিটি কথা কুরআন থেকে নেন। প্রথমটির জন্য এই আয়াত। দ্বিতীয়টির জন্য ৫:১১৫, যেখানে আল্লাহ বলেন, এমন লোককে তিনি এমন শাস্তি দেবেন, যা জগতের আর কাউকে দেবেন না। তৃতীয়টির জন্য ৪০:৪৬: ফিরআউনের লোকদের সবচেয়ে কঠিন শাস্তিতে প্রবেশ করাও। এটি তিনটি আয়াত নিয়ে একজন সাহাবীর বোঝাপড়া, নবী ﷺ-এর হাদীস নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shut In at the Bottom",
+          "bn": "তলায় বন্ধ করে রাখা"
+        },
+        "p": [
+          {
+            "en": "Some Companions spoke of what the lowest level holds, and at-Tabari records their words with his chains. From Abdullah ibn Mas'ud (RA), in three narrations: in coffins of iron, sealed over them; in coffins of iron, locked over them in the Fire; and in coffins of fire, closed over them. From Abu Hurayrah (RA): in coffins shut fast upon them. Al-Baghawi relays Ibn Mas'ud's iron coffins too, and from Abu Hurayrah a locked house in which fire is lit above them and below them.",
+            "bn": "সবচেয়ে নিচের স্তরে কী আছে, কয়েকজন সাহাবী সে বিষয়ে কথা বলেছেন। তাবারী নিজের সনদে তাঁদের কথা লিপিবদ্ধ করেছেন। আবদুল্লাহ ইবন মাসউদ (রাঃ) থেকে তিনটি বর্ণনা: লোহার সিন্দুকে, যা তাদের ওপর বন্ধ। লোহার সিন্দুকে, আগুনের ভেতরে তাদের ওপর তালা দেওয়া। আর আগুনের সিন্দুকে, যা তাদের ওপর চেপে বন্ধ হয়। আবূ হুরায়রা (রাঃ) থেকে: এমন সিন্দুকে, যা তাদের ওপর শক্ত করে আটকানো। বাগাভীও ইবন মাসউদের লোহার সিন্দুকের কথা আনেন। আর আবূ হুরায়রা থেকে আনেন তালাবদ্ধ এক ঘরের কথা, যার ভেতরে তাদের ওপরে-নিচে আগুন জ্বলে।"
+          },
+          {
+            "en": "Ibn Kathir carries the same reports through at-Tabari and Ibn Abi Hatim, and explains the word mubhamah in one of them: shut and locked, so that no one can find where it opens. These are the sayings of Companions as the commentators record them. None is put forward as words of the Prophet ﷺ, and none of the commentators read here grades them. They are given here as those commentators give them, and nothing further is built on them.",
+            "bn": "ইবন কাসীর একই বর্ণনাগুলো আনেন তাবারী ও ইবন আবী হাতিমের সূত্রে। একটি বর্ণনার মুবহামা শব্দের ব্যাখ্যাও তিনি দেন: বন্ধ, তালা দেওয়া, কোথায় খোলার মুখ তা কেউ খুঁজে পায় না। এগুলো সাহাবীদের উক্তি, তাফসীরকারেরা যেভাবে লিপিবদ্ধ করেছেন। কোনোটিই নবী ﷺ-এর বাণী হিসেবে আনা হয়নি। এখানে পড়া তাফসীরগুলোর কোনোটি এগুলোর মান নিয়েও কিছু বলেনি। তাই এখানে সেগুলো ঠিক সেভাবেই রাখা হলো, যেভাবে তাফসীরকারেরা রেখেছেন। এর ওপর ভর করে আর কিছু দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "Al-Qurtubi gives the Fire seven darakat, layers and stations, and names the hypocrites' layer al-Hawiyah. He lists them from the top: Jahannam, then Laza, then al-Hutamah, then as-Sa'ir, then Saqar, then al-Jahim, then al-Hawiyah, and notes that all of them may be called by the name of the first. He gives the list without a chain. The order is his account; this verse itself names only the bottom of the Fire and the people placed there.",
+            "bn": "কুরতুবী জাহান্নামের সাতটি দারাকাতের কথা বলেন, মানে সাতটি স্তর বা মনজিল। মুনাফিকদের স্তরের নাম তিনি বলেন হাবিয়া। ওপর থেকে তাঁর তালিকা এমন: জাহান্নাম, তারপর লাযা, তারপর হুতামা, তারপর সাঈর, তারপর সাকার, তারপর জাহীম, তারপর হাবিয়া। তিনি এ-ও বলেন, সবগুলোকে প্রথম স্তরের নামেও ডাকা হয়। তালিকাটি তিনি দেন কোনো সনদ ছাড়া। ক্রমটা তাঁর বর্ণনা। এ আয়াত নিজে শুধু আগুনের তলার কথা বলে, আর বলে সেখানে কারা থাকবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Helper Found There",
+          "bn": "সেখানে কেউ সহায় নেই"
+        },
+        "p": [
+          {
+            "en": "Wa lan tajida lahum nasira: and you will never find a helper for them. At-Tabari takes the address as spoken to the Prophet ﷺ: you will not find, O Muhammad, for these hypocrites, once Allah has placed them in the lowest level, any helper to help them against Him, rescue them from His punishment and push His painful penalty away from them. Al-Muyassar keeps the same address, O Messenger. Al-Baghawi glosses nasir as one who holds the punishment back, and Ibn Kathir as one who saves them from where they are and brings them out.",
+            "bn": "ওয়া লান তাজিদা লাহুম নাসীরা: আর তুমি তাদের জন্য কখনো কোনো সাহায্যকারী পাবে না। তাবারীর মতে কথাটা নবী ﷺ-কে বলা হচ্ছে। হে মুহাম্মাদ, আল্লাহ যখন এই মুনাফিকদের সবচেয়ে নিচের স্তরে রাখবেন, তখন তাঁর বিরুদ্ধে তাদের সাহায্য করার মতো কাউকে তুমি পাবে না। এমন কেউ থাকবে না, যে তাঁর শাস্তি থেকে তাদের উদ্ধার করবে বা তাঁর যন্ত্রণাদায়ক সাজা তাদের ওপর থেকে সরাবে। মুয়াসসারও সম্বোধন রাখে একই রকম: হে রসূল। বাগাভী নাসীর মানে বলেন, যে শাস্তি ঠেকিয়ে রাখে। ইবন কাসীর বলেন, যে তাদের ওই অবস্থা থেকে বাঁচিয়ে বের করে আনবে।"
+          },
+          {
+            "en": "As-Sa'di goes further still: they will have no one to rescue them from His punishment, and no helper to push away even part of it. The clause meets the passage head-on. In 4:139 these same people sought honour with the disbelievers, and in 4:141 they kept a foot in each camp, ready to claim a share from whichever side won. Every side they leaned on in this life is absent from the verse. 4:139 had already given the answer: all honour belongs to Allah.",
+            "bn": "সা'দী আরও এক ধাপ এগিয়ে বলেন: তাঁর শাস্তি থেকে তাদের উদ্ধার করার কেউ থাকবে না, এমনকি শাস্তির কিছু অংশ ঠেকানোর মতো সাহায্যকারীও না। বাক্যটি গোটা অংশের সঙ্গে সরাসরি মুখোমুখি হয়। ৪:১৩৯ আয়াতে এরাই কাফিরদের কাছে ইজ্জত খুঁজেছিল। ৪:১৪১ আয়াতে তারা দুই শিবিরেই এক পা করে রেখেছিল, যে পক্ষ জেতে তার কাছে ভাগ চাইবে বলে। দুনিয়ায় যাদের ওপর তারা ভর দিয়েছিল, এ আয়াতে তাদের কেউ নেই। উত্তরটা ৪:১৩৯ আয়াত আগেই দিয়ে রেখেছে: সমস্ত ইজ্জত আল্লাহর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Traits a Reader Can Check",
+          "bn": "নিজের ভেতরে খোঁজার মতো স্বভাব"
+        },
+        "p": [
+          {
+            "en": "None of the commentators read here attaches a hadith of the Prophet ﷺ to this verse. A general narration, not attached to it, names the traits of hypocrisy. Al-Bukhari records in his Sahih (34) from Abdullah ibn Amr (RA) that the Prophet ﷺ said: \"Four things: whoever has them is a pure hypocrite, and whoever has one of them has a trait of hypocrisy until he leaves it. When he is trusted, he betrays; when he speaks, he lies; when he makes a pact, he breaks it; and when he quarrels, he goes beyond all bounds.\"",
+            "bn": "এখানে পড়া তাফসীরকারদের কেউ এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস জুড়ে দেননি। একটি সাধারণ বর্ণনা আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়, কিন্তু নিফাকের স্বভাবগুলোর নাম বলে। বুখারী তাঁর সহীহে (৩৪) আবদুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: \"চারটি স্বভাব যার মধ্যে থাকে, সে খাঁটি মুনাফিক। আর যার মধ্যে এর একটি থাকে, তার মধ্যে নিফাকের একটি স্বভাব থেকে যায়, যতক্ষণ না সে তা ছেড়ে দেয়। তার কাছে আমানত রাখলে খিয়ানত করে, কথা বললে মিথ্যা বলে, চুক্তি করলে ভঙ্গ করে, আর ঝগড়া করলে সীমা ছাড়িয়ে যায়।\""
+          },
+          {
+            "en": "Two phrases in it matter for a reader of this verse. The hadith speaks of a trait of hypocrisy, khaslah min an-nifaq, and says it stays hatta yada'aha, until he leaves it. The traits are ones a person can look for in himself: a lie told, a trust betrayed, a pact broken, a quarrel turned vicious. And the words until he leaves it show that each of them can be left. The narration gives no one a test to run on someone else; it is a list to hold up to oneself.",
+            "bn": "এ আয়াতের পাঠকের জন্য হাদীসটির দুটি কথা গুরুত্বপূর্ণ। এতে বলা হয়েছে খাসলাতুম মিনান নিফাক, নিফাকের একটি স্বভাব। আর বলা হয়েছে হাত্তা ইয়াদা'আহা, যতক্ষণ না সে তা ছেড়ে দেয়। স্বভাবগুলো এমন, যা মানুষ নিজের মধ্যেই খুঁজে দেখতে পারে: বলা কোনো মিথ্যা, ভাঙা কোনো আমানত, রাখা হয়নি এমন কোনো চুক্তি, কিংবা ঝগড়ায় মুখ খারাপ করা। আর যতক্ষণ না ছেড়ে দেয়, এ কথাই জানিয়ে দেয় যে প্রতিটি স্বভাব ছাড়া যায়। অন্যকে যাচাই করার কোনো পরীক্ষা এ বর্ণনা কাউকে দেয় না। এটা নিজের সামনে ধরার একটা তালিকা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning Held Up as Mirror",
+          "bn": "সতর্কবাণী, যা আসলে আয়না"
+        },
+        "p": [
+          {
+            "en": "This verse describes the hypocrites it describes, whose disbelief lay behind a profession of faith, and it licenses nothing against any living person or community. As-Sa'di's own words show why: the rulings of Islam were applied to the hypocrites in this world, because what lay inside them was hidden from people. This article calls no one a hypocrite, and no reader may use the verse to label a neighbour, a rival or a group. What lies in a heart is known to Allah alone.",
+            "bn": "এ আয়াত সেই মুনাফিকদের বর্ণনা দেয়, যাদের কথা আয়াতে আছে, যাদের কুফরি লুকানো ছিল ঈমানের দাবির আড়ালে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। সা'দীর নিজের কথাতেই এর কারণ আছে: দুনিয়ায় মুনাফিকদের ওপর ইসলামের বিধানই চলত, কারণ তাদের ভেতরের খবর মানুষের কাছে গোপন ছিল। এ লেখা কাউকে মুনাফিক বলে না। প্রতিবেশী, প্রতিদ্বন্দ্বী বা কোনো দলের গায়ে এ আয়াত দিয়ে তকমা লাগানোর অধিকার কোনো পাঠকের নেই। অন্তরে কী আছে, তা শুধু আল্লাহই জানেন।"
+          },
+          {
+            "en": "The next verse is the turn, and it is only pointed to here: except those who repent, set things right, hold fast to Allah and make their religion sincere for Him; those will be with the believers. Ibn Kathir reads it as Allah accepting the repentance of whichever hypocrite repents in this life. So the verse that names the lowest rung is followed at once by an open door, and the fear it brings is meant, as Ma'arif al-Qur'an says, to move a person to repent early.",
+            "bn": "মোড়টা আসে পরের আয়াতে। এখানে শুধু সেদিকে ইশারা করা হলো: তবে যারা তওবা করে, নিজেদের শুধরে নেয়, আল্লাহকে আঁকড়ে ধরে আর দ্বীনকে তাঁর জন্য খাঁটি করে, তারা থাকবে মুমিনদের সঙ্গে। ইবন কাসীরের পাঠে, মুনাফিকদের মধ্যে যে-ই দুনিয়ায় থাকতে তওবা করে, আল্লাহ তার তওবা কবুল করেন। তাই যে আয়াত সবচেয়ে নিচের ধাপের নাম বলে, তার ঠিক পরেই খোলা দরজা। মাআরিফুল কুরআনের কথামতো, এ আয়াত যে ভয় জাগায়, তার কাজ মানুষকে তাড়াতাড়ি তওবার দিকে নিয়ে যাওয়া।"
+          },
+          {
+            "en": "Read this way, the verse measures how seriously the Qur'an takes honesty about faith. A pretence that passed before a whole community ends below open refusal. For the reader, safety does not lie in hoping never to be found out. It lies in a life with little to find: words that match deeds, trusts returned, promises kept, and prayer offered the same way whether anyone is watching or not.",
+            "bn": "এভাবে পড়লে আয়াতটি দেখায়, ঈমানের ব্যাপারে সততাকে কুরআন কতটা গুরুত্ব দেয়। যে ভান গোটা সমাজের চোখ ফাঁকি দিয়ে চলে গেছে, তার শেষ খোলাখুলি অস্বীকারেরও নিচে। পাঠকের নিরাপত্তা এই আশায় নেই যে কোনোদিন ধরা পড়বে না। নিরাপত্তা এমন জীবনে, যেখানে ধরার মতো তেমন কিছু নেই: কথা আর কাজ এক, আমানত ফেরত দেওয়া, ওয়াদা রাখা, আর কেউ দেখুক বা না দেখুক, নামাজ একই রকম পড়া।"
+          }
+        ]
+      }
+    ]
+  },
   "4:148": {
     "sections": [
       {
