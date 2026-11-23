@@ -32163,6 +32163,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Work for Allah in a way that makes every outcome a gain, and stop measuring yourself by those who are waiting for your fall.",
     "lessonBn": "আল্লাহর জন্য এমনভাবে কাজ করুন যাতে যেকোনো ফলাফলই লাভ হয়, আর যারা আপনার পতনের অপেক্ষায় আছে, তাদের দিয়ে নিজেকে মাপা ছেড়ে দিন।"
+  },
+  "9:47": {
+    "reflectionEn": "This verse explains a door that closed. Some men asked to stay home from a hard march, and the verse before says Allah disliked their setting out and held them back. Here is the reason: had they come, they would have added nothing but disorder, hurrying through the gaps in the ranks and looking for a way to unsettle the rest. And among you, it adds, are some who listen to them. The harm never sat only with the speaker; it needed an ear to land in. So the verse turns two ways for me. What do I add when I join a group: steadiness, or one more worry passed along? And when a whisper moves through the ranks, am I the ear that lets it in?",
+    "reflectionBn": "এ আয়াত একটা বন্ধ দরজার কারণ বলে দেয়। কঠিন এক অভিযানে না গিয়ে ঘরে থাকার অনুমতি চেয়েছিল কিছু লোক। আগের আয়াত জানায়, তাদের বেরোনো আল্লাহর পছন্দ হয়নি, তাই তিনি তাদের পিছিয়ে রেখেছিলেন। এখানে কারণটা খোলা হলো। তারা গেলে বিশৃঙ্খলা ছাড়া কিছুই বাড়াত না। সারির ফাঁকে ফাঁকে ছুটে বেড়াত, খুঁজত কীভাবে বাকিদের মন টলানো যায়। সঙ্গে আয়াত আরও বলে, তোমাদের মধ্যেও তাদের কথা শোনার লোক আছে। ক্ষতিটা কেবল বক্তার কাছে থেমে থাকেনি, তার দরকার ছিল একটা কান। তাই আয়াতটা আমার দিকে দুই দিক থেকে ফেরে। কোনো দলে যোগ দিলে আমি কী যোগ করি, স্থিরতা, নাকি আরেকটা দুশ্চিন্তা? আর কানাকানি যখন সারির ভেতর দিয়ে চলে, সেটা ঢোকার কানটা কি আমার?",
+    "pointsEn": [
+      "When I join a gathering or a shared task, what do I usually bring to it: strength, or one more thing for others to carry?",
+      "Which worrying report have I passed from one person to the next this month without checking whether it was true?",
+      "Whose word do I take as advice only because of their standing, without asking what they are really steering me toward?",
+      "Have I ever been relieved to be left out of something hard, and did I stop to ask what that relief said about me?",
+      "When I hear talk meant to make people hold back from good, do I carry it further, answer it, or let it end with me?"
+    ],
+    "pointsBn": [
+      "কোনো মজলিসে বা কারও সঙ্গে মিলে কোনো কাজে যোগ দিলে আমি সাধারণত কী নিয়ে যাই? শক্তি, নাকি অন্যদের ঘাড়ে আরেকটা বোঝা?",
+      "এ মাসে কোন দুশ্চিন্তার খবর আমি সত্য কি না না দেখেই একজনের কাছ থেকে আরেকজনের কাছে পৌঁছে দিয়েছি?",
+      "কার কথা আমি শুধু তার মর্যাদার কারণে উপদেশ বলে মেনে নিই, অথচ ভেবে দেখি না সে আমাকে আসলে কোন দিকে টানছে?",
+      "কোনো কঠিন কাজ থেকে বাদ পড়ে কখনো কি হাঁফ ছেড়েছি? সেই স্বস্তি আমার সম্পর্কে কী বলে, তা কি একবার ভেবে দেখেছি?",
+      "মানুষকে ভালো কাজ থেকে পিছিয়ে দেওয়ার মতো কথা কানে এলে আমি কী করি? আরও ছড়াই, জবাব দিই, নাকি আমার কাছেই থামিয়ে দিই?"
+    ],
+    "lessonEn": "Watch what you add to the people you stand with, and refuse to be the ear through which a rumour or a discouraging word spreads among them.",
+    "lessonBn": "যাদের পাশে দাঁড়ান, তাদের মধ্যে আপনি কী যোগ করছেন খেয়াল রাখুন। গুজব বা মন ভাঙানো কথা যে কান দিয়ে ছড়ায়, সেই কান হতে রাজি হবেন না।"
   }
 };
 

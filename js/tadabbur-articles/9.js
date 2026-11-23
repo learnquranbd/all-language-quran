@@ -1939,6 +1939,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:47": {
+    "sections": [
+      {
+        "h": {
+          "en": "Kept Back for a Reason",
+          "bn": "পিছিয়ে রাখার পেছনের কারণ"
+        },
+        "p": [
+          {
+            "en": "The verse finishes a thought begun in 9:46. Those who asked leave to stay behind would have made some preparation had they really meant to march; but Allah disliked their setting out, held them back, and they were told to sit with those who sit. As-Sa'di opens his comment on it with: then He mentioned the wisdom in that. Ibn Kathir says Allah next explains why He disliked their going out with the believers. 9:44 and 9:45 described who comes asking to be excused; this verse counts what their company would have cost.",
+            "bn": "৯:৪৬ আয়াতে যে কথা শুরু হয়েছিল, এ আয়াত তা শেষ করে। যারা পেছনে থাকার অনুমতি চেয়েছিল, সত্যিই বেরোতে চাইলে তারা কিছু না কিছু প্রস্তুতি নিত। কিন্তু তাদের বেরোনো আল্লাহর অপছন্দ ছিল। তিনি তাদের আটকে রাখলেন, আর বলা হলো, বসে থাকা লোকদের সঙ্গে বসে থাকো। সা'দী তাঁর ব্যাখ্যা শুরুই করেন এ কথায়: এরপর আল্লাহ এর হিকমত উল্লেখ করলেন। ইবন কাসীর বলেন, মুমিনদের সঙ্গে তাদের বেরোনো কেন আল্লাহর অপছন্দ ছিল, এখানে তিনি তা খুলে বলছেন। ৯:৪৪ ও ৯:৪৫ জানিয়েছিল কারা ছুটি চাইতে আসে। এ আয়াত হিসাব দেয়, তারা সঙ্গে থাকলে কী দাম দিতে হতো।"
+          },
+          {
+            "en": "Al-Qurtubi reads the verse as consolation for the believers over the hypocrites' staying behind. Ibn Zayd, in at-Tabari, says these are the hypocrites of the Tabuk campaign and that Allah was comforting His Prophet ﷺ and the believers: what is there to grieve you? Al-Baghawi tells a scene without giving a chain. The Prophet ﷺ camped at Thaniyyat al-Wada', Abdullah ibn Ubayy camped below it, and when the march began he stayed behind with the hypocrites and doubters. That is al-Baghawi's account; nothing fetched here confirms it as an established occasion of revelation.",
+            "bn": "কুরতুবী আয়াতটিকে দেখেন সান্ত্বনা হিসেবে। মুনাফিকরা পিছিয়ে থাকায় মুমিনদের মনে যে খেদ, তার জবাব। তাবারী একই কথা আনেন ইবন যায়দ থেকে। তাঁর মতে এরা তাবুক অভিযানের মুনাফিক, আর আল্লাহ তাঁর নবী ﷺ ও মুমিনদের সান্ত্বনা দিচ্ছিলেন: তোমাদের দুঃখ কিসের? বাগাভী একটা দৃশ্য বর্ণনা করেন, তবে কোনো সনদ দেন না। নবী ﷺ সানিয়্যাতুল ওয়াদায় তাঁবু ফেললেন। আবদুল্লাহ ইবন উবাই তার নিচে নিজের দল নিয়ে তাঁবু ফেলল। যাত্রা শুরু হলে সে মুনাফিক ও সন্দেহবাদীদের নিয়ে পেছনে থেকে গেল। এটা বাগাভীর বর্ণনা। এখানে পড়া কোনো সূত্রে এটা নুযূলের প্রতিষ্ঠিত প্রেক্ষাপট হিসেবে নিশ্চিত হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Khabal, the Only Addition",
+          "bn": "খাবাল, একমাত্র সংযোজন"
+        },
+        "p": [
+          {
+            "en": "Ma zadukum illa khabalan: they would have increased you in nothing but khabal. At-Tabari glosses it as corruption and harm, and adds, still paraphrasing in Allah's voice: for that reason I held them back from going out with you. Al-Qurtubi gives a fuller list: khabal is corruption, tale-bearing, setting people at odds, and spreading alarming rumours, the arajif. Al-Baghawi defines the corruption meant here as planting cowardice and failure among the believers by making the matter look more terrible than it was. As-Sa'di uses a single word, naqs: loss, a shortfall.",
+            "bn": "মা যাদূকুম ইল্লা খাবালা: তারা তোমাদের মধ্যে খাবাল ছাড়া আর কিছুই বাড়াত না। তাবারী এর অর্থ করেন ফাসাদ আর ক্ষতি। তারপর আল্লাহর ভাষায় ব্যাখ্যা চালিয়ে যোগ করেন: এ কারণেই আমি তাদের তোমাদের সঙ্গে বেরোতে দিইনি। কুরতুবীর তালিকা আরও লম্বা। খাবাল মানে ফাসাদ, চোগলখুরি, মানুষে মানুষে বিরোধ বাধানো, আর ভয় জাগানো গুজব ছড়ানো, যাকে বলে আরাজীফ। বাগাভী বলেন, এখানে ফাসাদ বলতে বোঝায় ব্যাপারটাকে আসলের চেয়ে ভয়ংকর করে দেখিয়ে মুমিনদের মধ্যে ভীরুতা আর হিম্মতহারা ভাব ঢুকিয়ে দেওয়া। সা'দী একটি শব্দেই কাজ সারেন: নাকস, অর্থাৎ ঘাটতি।"
+          },
+          {
+            "en": "Al-Qurtubi raises a point of grammar. Read literally, the sentence sounds as if khabal were one more thing they would add, as though the believers already had some of it. He answers by calling the exception munqati', disconnected: they would not have added to your strength, but they would have sought khabal. He then gives a second view, introduced with it was said: they would add nothing, in the opinions they keep wavering over, except khabal, and on that view the exception is connected. On either reading, nothing they brought would have counted as gain.",
+            "bn": "কুরতুবী এখানে ব্যাকরণের একটা প্রশ্ন তোলেন। আক্ষরিকভাবে পড়লে মনে হয়, খাবালও যেন তাদের বাড়তি যোগ করা আরেকটা জিনিস, যেন মুমিনদের মধ্যে আগে থেকেই তা কিছুটা ছিল। তিনি জবাব দেন, এখানে ইসতিসনাটি মুনকাতি, অর্থাৎ বিচ্ছিন্ন। মানে, তারা তোমাদের শক্তি একটুও বাড়াত না, বরং খাবাল খুঁজে বেড়াত। তারপর 'বলা হয়েছে' বলে তিনি আরেকটি মত আনেন: যে মতামত নিয়ে তারা দোটানায় ঘোরে, তাতে তারা খাবাল ছাড়া কিছু বাড়াত না। এ মতে ইসতিসনাটি বিচ্ছিন্ন নয়। যেভাবেই পড়া হোক, তাদের আনা কোনো কিছুই লাভের খাতায় উঠত না।"
+          },
+          {
+            "en": "Ibn Kathir gives the cause in two words: because they are cowards and forsaken, jubana' makhdhulun. The Muyassar, written for plain reading, places the damage inside the army: had the hypocrites gone out with you to fight, they would have spread unrest in the ranks, with evil and corruption. The head count would have gone up and the army would have grown weaker, because what these men carried with them was fear and doubt, and both pass easily from person to person.",
+            "bn": "ইবন কাসীর কারণটা বলেন দুই শব্দে: জুবানা মাখযূলূন, তারা ভীরু, আর আল্লাহর সাহায্য থেকে বঞ্চিত। সহজ পাঠের জন্য লেখা মুয়াসসার ক্ষতিটা দেখায় বাহিনীর ভেতরেই। মুনাফিকরা যদি তোমাদের সঙ্গে জিহাদে বের হতো, তবে সারিগুলোতে অস্থিরতা ছড়াত, সঙ্গে অনিষ্ট আর ফাসাদ। লোকসংখ্যা বাড়ত ঠিকই, কিন্তু বাহিনী হতো দুর্বল। কারণ এই লোকেরা সঙ্গে আনত ভয় আর সন্দেহ। আর এ দুটো খুব সহজেই এক মানুষ থেকে আরেক মানুষে চলে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hurrying Through the Gaps",
+          "bn": "ফাঁকে ফাঁকে ছোটাছুটি"
+        },
+        "p": [
+          {
+            "en": "Wa-la-awda'u khilalakum: and they would have hurried about in your midst. At-Tabari explains: they would have spurred their mounts along among you. The root is the idah of horses and riding camels, driving them fast. A she-camel that quickens her pace is said to wada'at, and her rider awda'aha when he pressed her on. At-Tabari and al-Qurtubi both cite the same line of rajaz as a witness, a speaker wishing he were young in it, trotting and racing.",
+            "bn": "ওয়া লা আওদাঊ খিলালাকুম: আর তারা তোমাদের মাঝে ছুটোছুটি করত। তাবারী ব্যাখ্যা করেন: তারা তোমাদের মাঝ দিয়ে নিজেদের বাহন জোরে হাঁকিয়ে বেড়াত। শব্দের মূল ঘোড়া আর সওয়ারি উটের ঈদা থেকে, মানে দ্রুত চালানো। উটনী চলার গতি বাড়ালে আরবরা বলে ওয়াদাআত, আর সওয়ার তাকে তাড়া দিয়ে জোরে চালালে বলে আওদাআহা। তাবারী ও কুরতুবী দুজনেই সাক্ষী হিসেবে একই রাজায কবিতার পঙ্‌ক্তি আনেন। সেখানে বক্তা আক্ষেপ করে, আহা, এতে যদি তরুণ হতাম, দুলকি চালে ছুটতাম আর দৌড়াতাম।"
+          },
+          {
+            "en": "Khilal comes from khalal, the gaps that open between people, in rows and elsewhere, as at-Tabari puts it; al-Qurtubi says the openings between the ranks. The picture is of riders weaving through the spaces in the line. The commentators then name what they would be carrying. Al-Qurtubi: tale-bearing and the spoiling of relations between people. Al-Baghawi: enmity and hatred planted among you by tale-bearing and moving talk from some to others; he records a second reading too, that they would have hurried into whatever damages you. Ibn Kathir: hurrying among you with tale-bearing, hatred and fitna.",
+            "bn": "খিলাল এসেছে খালাল থেকে। তাবারীর ভাষায়, মানুষের মাঝে যে ফাঁক তৈরি হয়, কাতারে বা অন্য কোথাও। কুরতুবী বলেন, সারিগুলোর মাঝখানের ফাঁকা জায়গা। ছবিটা তাই এমন: সওয়াররা লাইনের ফাঁকে ফাঁকে এঁকেবেঁকে ছুটছে। এরপর তাফসীরকারেরা বলে দেন, তারা সঙ্গে কী বয়ে বেড়াত। কুরতুবী বলেন, চোগলখুরি আর মানুষের পারস্পরিক সম্পর্ক নষ্ট করা। বাগাভী বলেন, চোগলখুরি করে আর একজনের কথা আরেকজনের কাছে লাগিয়ে তোমাদের মধ্যে শত্রুতা আর বিদ্বেষ বুনে দেওয়া। তিনি আরেকটি পাঠও রাখেন: যা তোমাদের ক্ষতি করে, তার দিকেই তারা ছুটে যেত। ইবন কাসীরের ভাষায়, চোগলখুরি, বিদ্বেষ আর ফিতনা নিয়ে তোমাদের মাঝে দৌড়ঝাঁপ।"
+          },
+          {
+            "en": "To illustrate khalal, at-Tabari mentions, without a chain, a saying of the Prophet ﷺ about gaps in prayer rows. A narration on that subject is in Abu Dawud (667), from Anas ibn Malik (RA): \"Stand close together in your rows, bring them near one another, and stand neck to neck, for by Him in Whose hand my soul is, I see the devil coming in through openings in the row just like a small black sheep.\" Its word for the openings is khalal. Abu Dawud gives no grading there, and it concerns prayer, not this verse. No tafsir read here attaches a sound hadith to 9:47.",
+            "bn": "খালাল শব্দটি বোঝাতে তাবারী নামাযের কাতারের ফাঁক নিয়ে নবী ﷺ-এর একটি কথার উল্লেখ করেন, তবে কোনো সনদ দেন না। এ বিষয়ে একটি বর্ণনা আছে আবূ দাউদে (৬৬৭), আনাস ইবন মালিক (রাঃ) থেকে: \"তোমরা তোমাদের কাতারগুলো মিলিয়ে দাঁড়াও, কাতারগুলোর মাঝে দূরত্ব কমাও, আর ঘাড় বরাবর ঘাড় রাখো। সেই সত্তার কসম, যাঁর হাতে আমার প্রাণ, আমি শয়তানকে কাতারের ফাঁক দিয়ে ঢুকতে দেখি, যেন ছোট কালো ভেড়ার বাচ্চা।\" ফাঁক বোঝাতে এখানেও শব্দটি খালাল। যে পৃষ্ঠা দেখা হয়েছে, তাতে আবূ দাউদের কোনো মান নির্ণয় নেই। বর্ণনাটি নামায নিয়ে, এ আয়াত নিয়ে নয়। এখানে পড়া কোনো তাফসীর ৯:৪৭ আয়াতের সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fitna Sought for Others",
+          "bn": "অন্যের জন্য ফিতনার খোঁজ"
+        },
+        "p": [
+          {
+            "en": "Yabghunakum al-fitnata: seeking fitna for you. Al-Qurtubi notes that al-fitna is the verb's second object, and both he and at-Tabari explain the usage: baghaytuhu ash-sharr means I sought evil for him, while abghaytuhu means I helped him seek it. So the hypocrites are not pictured helping the believers look for something; they are out looking for it on the believers' behalf. At-Tabari gives the sense as: they would seek for you what would turn you away from setting out on your campaign, by discouraging you from it.",
+            "bn": "ইয়াবগূনাকুমুল ফিতনাহ: তোমাদের জন্য ফিতনা খুঁজে বেড়াত। কুরতুবী জানান, আল-ফিতনা এখানে ক্রিয়ার দ্বিতীয় কর্ম। তিনি আর তাবারী দুজনেই শব্দের ব্যবহারটা বুঝিয়ে দেন। বাগাইতুহুশ শাররা মানে আমি তার জন্য অনিষ্ট খুঁজেছি। আর আবগাইতুহু মানে আমি তাকে খুঁজতে সাহায্য করেছি। অর্থাৎ মুনাফিকরা মুমিনদের কোনো কিছু খুঁজতে সাহায্য করছে, ছবিটা এমন নয়। তারা নিজেরাই মুমিনদের জন্য ফিতনা খুঁজে বেড়াচ্ছে। তাবারী অর্থ করেন এভাবে: তারা তোমাদের জন্য এমন কিছু খুঁজত, যা তোমাদের মন ভাঙিয়ে অভিযানে বেরোনো থেকে ফিরিয়ে রাখে।"
+          },
+          {
+            "en": "What that fitna is, the sources put in several ways. Ibn Zayd, in at-Tabari, supplies the words they would use: a host has been gathered against you, and this and that has been done; they would be deserting you, and the fitna they sought is kufr. Al-Baghawi has close to the same words and adds: you will be routed and your enemy will prevail over you. He records al-Kalbi's gloss, fault-finding and evil, and ad-Dahhak's, shirk. As-Sa'di keeps to the effect: they are eager to put you to trial and to cast enmity among you.",
+            "bn": "সেই ফিতনা কী, সূত্রগুলো তা নানাভাবে বলেছে। তাবারীর বর্ণনায় ইবন যায়দ তাদের মুখের কথাটাই তুলে দেন: তোমাদের বিরুদ্ধে বিরাট বাহিনী জড়ো হয়েছে, এই হয়েছে, সেই হয়েছে। এভাবে তারা তোমাদের সঙ্গ ছেড়ে দিত। আর যে ফিতনা তারা চাইত, তা কুফর। বাগাভীর বর্ণনাও প্রায় একই, সঙ্গে যোগ করেন: তোমরা হেরে যাবে, তোমাদের শত্রু তোমাদের উপর জয়ী হবে। কালবীর ব্যাখ্যাও তিনি রাখেন, দোষ ধরা আর অনিষ্ট। দাহহাকের ব্যাখ্যা, শিরক। সা'দী ফলাফলের কথাই বলেন: তারা তোমাদের ফিতনায় ফেলতে আর তোমাদের মধ্যে শত্রুতা ঢুকিয়ে দিতে উদগ্রীব।"
+          },
+          {
+            "en": "Mujahid, in at-Tabari, reads la-awda'u khilalakum yabghunakum al-fitna in a single gloss: they would slow you down. The next verse, 9:48, adds that they had sought fitna before and turned matters over against the Prophet ﷺ until the truth came. So the verse is not guessing about strangers. It describes a habit the believers had already seen at work, and tells them why its absence on this march was a gain rather than a loss.",
+            "bn": "তাবারীর বর্ণনায় মুজাহিদ লা আওদাঊ খিলালাকুম ইয়াবগূনাকুমুল ফিতনাহ পুরো অংশটার অর্থ করেন এক কথায়: তারা তোমাদের গতি কমিয়ে দিত। পরের আয়াত ৯:৪৮ জানায়, এর আগেও তারা ফিতনা চেয়েছিল, আর সত্য এসে পৌঁছানো পর্যন্ত নবী ﷺ-এর বিরুদ্ধে নানা কাজ উল্টেপাল্টে দিয়েছিল। তাই আয়াতটি অচেনা কারও সম্পর্কে অনুমান করছে না। মুমিনরা আগেই যে স্বভাব কাজ করতে দেখেছে, তার কথাই বলছে। আর জানাচ্ছে, এ অভিযানে তাদের না থাকাটা ক্ষতি নয়, লাভ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spies, or Willing Listeners",
+          "bn": "গুপ্তচর, নাকি অনুগত শ্রোতা"
+        },
+        "p": [
+          {
+            "en": "Wa-fikum samma'una lahum: and among you are samma'un for them. At-Tabari says plainly that the people of interpretation differed here. Some read it as spies. Mujahid: they pass on your talk, eyes for them. Ibn Zayd: they listen for what they then deliver to your enemy. Al-Baghawi gives Mujahid's view as people who love them and carry to them what they hear from you, and adds: they are the spies. The Muyassar takes this side too: among you, believers, are eyes for them who hear your news and carry it to them.",
+            "bn": "ওয়া ফীকুম সাম্মাঊনা লাহুম: আর তোমাদের মধ্যে তাদের জন্য সাম্মা' আছে। এখানে তাফসীরকারেরা দুই ভাগ হয়ে যান। তাবারী সোজাসুজিই বলেন, ব্যাখ্যাকারেরা এখানে মতভেদ করেছেন। এক পক্ষের মতে এরা গুপ্তচর। মুজাহিদ বলেন, তারা তোমাদের কথা পাচার করে, তারা ওদের চোখ। ইবন যায়দ বলেন, তারা কান পেতে শোনে, তারপর তা তোমাদের শত্রুর কাছে পৌঁছে দেয়। বাগাভী মুজাহিদের মত এভাবে আনেন: এরা ওদের ভালোবাসে, তোমাদের কাছে যা শোনে তা ওদের কাছে পৌঁছে দেয়। তিনি যোগ করেন, এরাই গুপ্তচর। মুয়াসসারও এ পক্ষে: হে মুমিনগণ, তোমাদের মধ্যে ওদের চোখ আছে, যারা তোমাদের খবর শুনে ওদের কাছে নিয়ে যায়।"
+          },
+          {
+            "en": "The other side reads it as listeners who obey. Qatada, in at-Tabari: among you is someone who hears their talk. Al-Baghawi gives Qatada's view as: among you are those who obey them, who hear their words and follow them. As-Sa'di explains the phrase as people of weak judgement, responsive to their call and taken in by them. Ma'arif al-Qur'an says there were simple people among the Muslims who could easily be taken advantage of and might have been affected by their false rumours.",
+            "bn": "অন্য পক্ষের মতে এরা এমন শ্রোতা, যারা শুনে মেনেও নেয়। তাবারীর বর্ণনায় কাতাদা বলেন, তোমাদের মধ্যে এমন লোক আছে, যে ওদের কথা শোনে। বাগাভী কাতাদার মত আনেন এভাবে: তোমাদের মধ্যে এমন লোক আছে, যারা ওদের কথা শোনে আর ওদের আনুগত্য করে। সা'দীর ব্যাখ্যায় এরা দুর্বল বুদ্ধির লোক, ওদের ডাকে সাড়া দেয়, ওদের দেখে ধোঁকা খায়। মাআরিফুল কুরআন বলে, মুসলমানদের মধ্যে কিছু সরল লোকও ছিল। তাদের সহজেই কাজে লাগানো যেত, আর ওদের মিথ্যা গুজবে তারা প্রভাবিত হয়ে পড়তে পারত।"
+          },
+          {
+            "en": "Each side has a defender. At-Tabari prefers the spies reading, because in Arabic samma', the intensive form, usually describes someone as a listener to speech, as in samma'una lil-kadhib, listeners to lies, in 5:41; a man who hears another's orders and accepts them is called his sami' and obedient, hardly his samma'. Al-Qurtubi relays an-Nahhas making the same argument. Ibn Kathir prefers the obedient-listeners reading: spying, he says, has no special tie to their going out with the army and holds in every situation, so the other meaning fits the context better; Qatada and others held it. Both readings are kept here.",
+            "bn": "দুই পক্ষেরই যুক্তিসহ সমর্থক আছেন। তাবারী গুপ্তচরের ব্যাখ্যাকে বেশি সঠিক মনে করেন। তাঁর যুক্তি, আরবিতে সাম্মা' শব্দের এই জোরালো রূপ সাধারণত বোঝায় কথা শোনার লোক। যেমন ৫:৪১ আয়াতে সাম্মাঊনা লিল কাযিব, মিথ্যা কথা শোনার লোক। কেউ কারও আদেশ শুনে মেনে নিলে আরবরা তাকে বলে সামি' ও অনুগত, সাম্মা' প্রায় বলেই না। কুরতুবী নাহহাস থেকে একই যুক্তি আনেন। ইবন কাসীর অনুগত শ্রোতার ব্যাখ্যাকে বেশি পছন্দ করেন। তাঁর কথা, গুপ্তচরবৃত্তির সঙ্গে বাহিনীর সঙ্গে ওদের বেরোনোর বিশেষ কোনো সম্পর্ক নেই, তা সব অবস্থাতেই চলে। তাই প্রসঙ্গের সঙ্গে অন্য অর্থটাই বেশি মেলে, আর কাতাদা ও অন্য কয়েকজন তাফসীরকার সে মতই নিয়েছেন। এখানে দুটো ব্যাখ্যাই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Men of Rank and Their Hearers",
+          "bn": "মর্যাদাবান লোক ও তাদের শ্রোতা"
+        },
+        "p": [
+          {
+            "en": "Ibn Ishaq's account, given by at-Tabari and Ibn Kathir, opens with as it reached me. Among those who asked leave were men of rank in their tribes, Abdullah ibn Ubayy ibn Salul and al-Jadd ibn Qays. Allah, knowing them, held them back from going out and spoiling his army for him. In that army were people who loved them and would obey them in what they called to, because of their standing. So He said: and among you are samma'un for them.",
+            "bn": "ইবন ইসহাকের বর্ণনা, যা তাবারী ও ইবন কাসীর এনেছেন, শুরু হয় এ কথায়: আমার কাছে যতটুকু পৌঁছেছে। যারা অনুমতি চেয়েছিল, তাদের মধ্যে ছিল নিজ নিজ গোত্রের কিছু মর্যাদাবান লোক, আবদুল্লাহ ইবন উবাই ইবন সালূল আর জাদ্দ ইবন কাইস। আল্লাহ তাদের চিনতেন, তাই তাদের আটকে রাখলেন, যাতে তারা বেরিয়ে নবীর বাহিনীকে নষ্ট করতে না পারে। সেই বাহিনীতে এমন লোকও ছিল, যারা ওদের ভালোবাসত। ওদের মর্যাদার কারণে ওরা যেদিকে ডাকত, সেদিকে যেতেও রাজি ছিল। তাই আল্লাহ বললেন: আর তোমাদের মধ্যে তাদের কথা শোনার লোক আছে।"
+          },
+          {
+            "en": "At-Tabari spells out this reading: among you are people who listen and obey, and had these men come with you, they would have turned them against you by discouraging them from marching with you. Ibn Kathir describes such listeners as admiring their talk and seeking their counsel without knowing their true state, which would bring evil and great corruption among the believers. On this reading, the danger lies in trust given for rank.",
+            "bn": "তাবারী এ ব্যাখ্যাটা খুলে বলেন। তোমাদের মধ্যে এমন লোক আছে, যারা শোনে আর মানে। ওই লোকেরা তোমাদের সঙ্গে গেলে তাদের মন ভাঙিয়ে অভিযান থেকে পিছিয়ে দিত, আর তোমাদের বিরুদ্ধে দাঁড় করিয়ে দিত। ইবন কাসীর এমন শ্রোতাদের বর্ণনা দেন এভাবে: তারা ওদের কথাবার্তা পছন্দ করে, ওদের কাছে পরামর্শ চায়, অথচ ওদের আসল অবস্থা জানে না। এর ফলে মুমিনদের মধ্যে অনিষ্ট আর বড় ফাসাদ দেখা দিত। এ ব্যাখ্যায় বিপদটা লুকিয়ে আছে পদমর্যাদা দেখে আস্থা রাখায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing What Never Happened",
+          "bn": "যা ঘটেনি, তারও জ্ঞান"
+        },
+        "p": [
+          {
+            "en": "Wallahu 'alimun biz-zalimin: and Allah knows the wrongdoers well. Ibn Kathir draws out how far this reaches. Allah knows what was, what will be, and what was not, and had it been, how it would have been. The verse shows it on its own terms: had they gone out, this is what they would have done, though in fact they never went. He sets it beside 6:28, 8:23 and 4:66, verses that likewise tell what people would do in a case that never came.",
+            "bn": "ওয়াল্লাহু আলীমুম বিয্‌যালিমীন: আর আল্লাহ যালিমদের ভালো করেই জানেন। ইবন কাসীর দেখান, এ জ্ঞান কতদূর বিস্তৃত। যা ঘটেছে, যা ঘটবে, আর যা ঘটেনি, তা ঘটলে কেমন হতো, সবই আল্লাহ জানেন। আয়াত নিজেই তার প্রমাণ। তারা বেরোলে কী করত, আয়াত তা জানিয়ে দিচ্ছে, অথচ তারা বেরোয়ইনি। এর পাশে তিনি রাখেন ৬:২৮, ৮:২৩ ও ৪:৬৬ আয়াত। সেগুলোও জানায়, যে অবস্থা কখনো আসেনি, তাতে মানুষ কী করত।"
+          },
+          {
+            "en": "At-Tabari defines the wrongdoer as whoever puts his acts where they do not belong. Allah's knowledge, he says, tells apart whoever asked the Messenger ﷺ for leave with a real excuse from whoever asked out of doubt and hypocrisy, and whoever hears the believers' talk to report it to the hypocrites from whoever hears it to share their joy and grief. As-Sa'di adds that Allah teaches His servants how to be wary of such people, and that holding them back was a mercy to the believers.",
+            "bn": "তাবারী যালিমের সংজ্ঞা দেন এভাবে: যে নিজের কাজকে তার আসল জায়গা থেকে সরিয়ে অন্যখানে রাখে। তিনি বলেন, আল্লাহর জ্ঞান আলাদা করে চেনে কে সত্যিকার ওজর নিয়ে রাসূল ﷺ-এর কাছে অনুমতি চেয়েছে, আর কে চেয়েছে সন্দেহ আর নিফাক থেকে। কে মুমিনদের কথা শোনে মুনাফিকদের কাছে খবর পৌঁছাতে, আর কে শোনে তাদের আনন্দে আনন্দিত আর তাদের দুঃখে দুঃখিত হতে। সা'দী যোগ করেন, এভাবে আল্লাহ তাঁর বান্দাদের শেখান এমন লোকদের থেকে কীভাবে সাবধান থাকতে হয়। আর তাদের পিছিয়ে রাখাটা ছিল মুমিনদের প্রতি রহমত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Ear Inside the Ranks",
+          "bn": "সারির ভেতরের কান"
+        },
+        "p": [
+          {
+            "en": "This verse describes what its text describes: men who stayed behind from one campaign, what their company would have done, and listeners inside the army. The names come from Ibn Ishaq's report on his own time. Nothing here licenses calling any living person or community a hypocrite or a spy. Allah knew these men's inner state, as the closing clause says; no reader today has that knowledge of anyone, and the verse grants none.",
+            "bn": "আয়াতটি ঠিক ততটুকুই বলে, যতটুকু এর শব্দে আছে। একটি অভিযান থেকে পিছিয়ে থাকা কিছু লোক, তারা সঙ্গে গেলে কী করত, আর বাহিনীর ভেতরের কিছু শ্রোতা। নামগুলো এসেছে ইবন ইসহাকের বর্ণনা থেকে, তাঁর নিজের সময়ের খবর হিসেবে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়কে মুনাফিক বা গুপ্তচর বলার কোনো অনুমতি এখানে নেই। ওই লোকদের ভেতরের অবস্থা আল্লাহ জানতেন, আয়াতের শেষ বাক্য সে কথাই বলে। আজকের কোনো পাঠকের কারও সম্পর্কে সে জ্ঞান নেই, আর আয়াতও তা দেয় না।"
+          },
+          {
+            "en": "What the verse offers instead is a mirror with two faces. The first asks what I add to a shared effort: steadiness, or fear dressed up as realism and talk carried from one person to the next. The second is the listener's face, on either reading. A rumour that finds no ear goes nowhere, and a discourager needs someone who takes him for an adviser. The ranks hold when their own people refuse to be the gap.",
+            "bn": "আয়াতটি বরং একটা আয়না দেয়, যার দুটি দিক। প্রথম দিকটা জিজ্ঞেস করে, মিলেমিশে করা কোনো কাজে আমি কী যোগ করি। স্থিরতা, নাকি বাস্তববাদের পোশাক পরা ভয়, আর একজনের কথা আরেকজনের কানে লাগানো? দ্বিতীয় দিকটা শ্রোতার, যে ব্যাখ্যাই নেওয়া হোক। যে গুজব কোনো কান পায় না, তা কোথাও পৌঁছায় না। যে মন ভাঙায়, তারও দরকার এমন কাউকে, যে তাকে হিতাকাঙ্ক্ষী ভাবে। সারি তখনই অটুট থাকে, যখন তার নিজের লোকেরা ফাঁক হতে রাজি হয় না।"
+          }
+        ]
+      }
+    ]
+  },
   "9:51": {
     "sections": [
       {
