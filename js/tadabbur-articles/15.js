@@ -2919,6 +2919,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "15:66": {
+    "sections": [
+      {
+        "h": {
+          "en": "Between the Order and the Knock",
+          "bn": "আদেশ আর দরজায় কড়া নাড়ার মাঝে"
+        },
+        "p": [
+          {
+            "en": "Surah al-Hijr tells the night of Lut (AS) in a handful of short verses. In 15:61 and 15:62 the messengers reach his family and he finds them strangers. In 15:63 and 15:64 they say what they have brought, and in 15:65 they order him out with his family in a portion of the night, walking behind them, with no one turning to look back. That order has its own verse, and only its outline is needed here. Then the voice changes. The angels have been speaking; now Allah speaks: wa-qadayna ilayhi, and We conveyed to him.",
+            "bn": "সূরা হিজর লূত (আঃ)-এর সেই রাতের কথা বলে অল্প কয়েকটি ছোট আয়াতে। ১৫:৬১ ও ১৫:৬২ আয়াতে ফেরেশতারা তাঁর পরিবারের কাছে আসেন, আর তিনি তাঁদের অচেনা মনে করেন। ১৫:৬৩ ও ১৫:৬৪ আয়াতে তাঁরা জানান কী নিয়ে এসেছেন। ১৫:৬৫ আয়াতে তাঁরা আদেশ দেন, রাতের এক অংশে পরিবার নিয়ে বেরিয়ে পড়ুন, তাদের পেছনে পেছনে চলুন, আর কেউ যেন ফিরে না তাকায়। সে আদেশের আলোচনা তার নিজের আয়াতে, এখানে শুধু তার রূপরেখাটুকু দরকার। এরপরই বক্তা বদলে যান। এতক্ষণ কথা বলছিলেন ফেরেশতারা, এবার কথা বলছেন আল্লাহ নিজে: ওয়া কাদাইনা ইলাইহি, আর আমি তাকে জানিয়ে দিলাম।"
+          },
+          {
+            "en": "The verse is nine Arabic words. Dhalika al-amr, that matter, is named first and then opened out: anna dabira ha'ula'i maqtu'un musbihin, that the last remnant of these would be cut off as morning came. Only after it, in 15:67, does the city arrive at his door, rejoicing, and the page on that verse reads their coming and the question of the order of events. No occasion of revelation is recorded for this verse in the texts consulted for it, and none is supplied. Its context is its place in the story.",
+            "bn": "আরবিতে আয়াতটি ৯টি শব্দের। প্রথমে বলা হয় যালিকাল আমর, সেই বিষয়টি। তারপর বিষয়টা খুলে বলা হয়: আন্না দাবিরা হাউলাই মাকতূউম মুসবিহীন, সকাল হতেই এদের শেষ চিহ্নটুকুও কেটে ফেলা হবে। এর পরেই, ১৫:৬৭ আয়াতে, শহরের লোকেরা খুশিতে মেতে তাঁর দরজায় আসে। তাদের আসা আর ঘটনাক্রমের প্রশ্নটি সে আয়াতের পাতায় আলোচিত হয়েছে। যেসব গ্রন্থ দেখা হয়েছে, তার কোনোটিতে এ আয়াতের শানে নুযূল নেই, এখানেও কিছু যোগ করা হয়নি। কাহিনির ভেতরে আয়াতটির অবস্থানই তার প্রেক্ষাপট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verb That Points to Lut",
+          "bn": "লূতের দিকে মুখ করা এক ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "The commentators agree on the sense of wa-qadayna ilayhi and differ in how they put it. Al-Qurtubi and the Muyassar gloss it with a single verb, awhayna, We revealed, and both name the recipient: We revealed to Lut. At-Tabari carries the same gloss from Ibn Zayd, through Yunus and Ibn Wahb: wa-awhayna ilayhi, and We revealed to him. Something had been decided, and what the verse stresses is that it was passed on to Lut.",
+            "bn": "ওয়া কাদাইনা ইলাইহির অর্থে তাফসীরকারেরা একমত, তবে বলার ধরন একেকজনের একেক রকম। কুরতুবী আর মুয়াসসার একটিমাত্র ক্রিয়া দিয়ে ব্যাখ্যা করেন: আওহাইনা, আমি ওহী পাঠালাম। দুজনেই প্রাপকের নাম বলেন: লূতের কাছে ওহী পাঠালাম। তাবারী একই ব্যাখ্যা আনেন ইবন যায়দ থেকে, ইউনুস ও ইবন ওয়াহবের সূত্রে: ওয়া আওহাইনা ইলাইহি, আর আমি তার কাছে ওহী পাঠালাম। কিছু একটা আগেই স্থির হয়ে ছিল। আয়াত জোর দেয় এ কথায় যে, সেটা লূতের কাছে পৌঁছে দেওয়া হলো।"
+          },
+          {
+            "en": "At-Tabari's own wording puts a second image ahead of that gloss: faraghna ila Lut min dhalika al-amr, a verb of completion, as though the matter were concluded and then brought to Lut. Al-Baghawi uses the same verb with one change of recipient, faraghna ila Al Lut, to the family of Lut. He then explains it twice over: ahkamna, We made firm the matter We had commanded concerning the people of Lut, and akhbarnahu, We informed him. In both men's hands the verb holds a decision completed and a decision made known.",
+            "bn": "তাবারীর নিজের ভাষায় এর আগে আরেকটি ছবি আসে: ফারাগনা ইলা লূতিন মিন যালিকাল আমর। ফারাগনা শেষ করে ফেলার ক্রিয়া। যেন বিষয়টার নিষ্পত্তি হয়ে গেল, তারপর তা লূতের কাছে পৌঁছানো হলো। বাগাভীও একই ক্রিয়া ব্যবহার করেন, শুধু প্রাপক বদলে: ফারাগনা ইলা আলি লূত, লূতের পরিবারের কাছে। তারপর দুইভাবে খুলে বলেন। আহকামনা: লূতের কওমের ব্যাপারে যে আদেশ দিয়েছিলাম তা পাকা করে ফেললাম। আর আখবারনাহু: তাকে খবর দিলাম। দুজনের ব্যাখ্যাতেই ক্রিয়াটির মধ্যে দুটো জিনিস আছে, সম্পন্ন হওয়া এক সিদ্ধান্ত আর জানিয়ে দেওয়া এক সিদ্ধান্ত।"
+          },
+          {
+            "en": "Ibn Kathir's gloss looks at time: taqaddamna ilayhi fi hadha, We told him of this beforehand. His abridged English commentary, which takes 15:65 and 15:66 together, says the same: We made this decree known to him, meaning We had already told him. As-Sa'di uses the verb of news, akhbarnahu, and qualifies it, as the next section shows. The Qur'an uses qada with ila twice more. In 17:4, We conveyed to the Children of Israel in the Scripture; in 28:44, when We revealed to Musa (AS) the command, al-amr, the very word used here.",
+            "bn": "ইবন কাসীরের ব্যাখ্যার নজর সময়ের দিকে: তাকাদ্দামনা ইলাইহি ফী হাযা, এ ব্যাপারে আমি তাকে আগেভাগেই জানিয়ে রেখেছিলাম। তাঁর সংক্ষিপ্ত ইংরেজি তাফসীর ১৫:৬৫ ও ১৫:৬৬ একসঙ্গে আলোচনা করে, সেখানেও একই কথা: এ ফয়সালা তাকে জানিয়ে দিলাম, অর্থাৎ আগেই বলে রেখেছিলাম। সা'দী খবর দেওয়ার ক্রিয়া আখবারনাহু ব্যবহার করেন, সঙ্গে একটি শর্ত জুড়ে দেন, যা পরের অংশে আসছে। কুরআনে কাদা ক্রিয়া ইলা-র সঙ্গে আরও দুবার এসেছে। ১৭:৪ আয়াতে: আমি কিতাবে বনী ইসরাঈলকে জানিয়ে দিয়েছিলাম। আর ২৮:৪৪ আয়াতে: যখন আমি মূসা (আঃ)-কে আল-আমর, অর্থাৎ নির্দেশ দিয়েছিলাম। এখানেও ঠিক এই শব্দটিই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "News With No Exception",
+          "bn": "যে খবরে কোনো ব্যতিক্রম নেই"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's full gloss is akhbarnahu khabaran la mathnawiyya fihi: We informed him with news in which there is no exception. Of the comments on this verse, his is the one that looks at the kind of news rather than the way it travelled. What Lut (AS) heard, on this reading, was not a possibility, nor a warning that might yet be lifted. It was the outcome. Al-Baghawi's ahkamna, We made the matter firm, points the same way from the side of the decision itself, before any telling.",
+            "bn": "সা'দীর পুরো ব্যাখ্যা হলো: আখবারনাহু খাবারান লা মাসনাবিয়্যাতা ফীহি, আমি তাকে এমন খবর দিলাম, যার মধ্যে কোনো ব্যতিক্রম নেই। এ আয়াতের ব্যাখ্যাগুলোর মধ্যে কেবল তাঁরটাই খবরটা কোন পথে গেল তা না দেখে খবরটা কেমন ছিল তা দেখে। এ পাঠ অনুযায়ী লূত (আঃ) যা শুনলেন তা কোনো সম্ভাবনা ছিল না। এমন সতর্কবাণীও ছিল না, যা পরে তুলে নেওয়া হতে পারে। সেটা ছিল চূড়ান্ত পরিণাম। বাগাভীর আহকামনা, অর্থাৎ বিষয়টা আমি পাকা করে ফেললাম, একই দিকে ইঙ্গিত করে। তবে তা খবর দেওয়ার দিক থেকে নয়, সিদ্ধান্তের দিক থেকে, জানানোর আগের ধাপে।"
+          },
+          {
+            "en": "Set beside Ibn Kathir's beforehand, the comments give the decree three marks. It was revealed, it was settled, and it was told ahead of time. The order of the telling is still worth noticing: the reader holds the end of the night before the crowd appears. Whether Lut (AS) himself knew it before the crowd came or only after is a question of sequence, which the page on 15:67 takes up from Ibn Kathir. This verse settles only what he was told.",
+            "bn": "ইবন কাসীরের 'আগেভাগে' কথাটির পাশে রাখলে ফয়সালাটির তিনটি বৈশিষ্ট্য দাঁড়ায়। তা ওহীর মাধ্যমে জানানো, তা চূড়ান্ত, আর তা আগেই বলে দেওয়া। তবু বর্ণনার ক্রমটা লক্ষ করার মতো। ভিড় হাজির হওয়ার আগেই পাঠকের হাতে রাতের শেষটা চলে আসে। লূত (আঃ) নিজে ভিড় আসার আগে তা জেনেছিলেন, নাকি পরে, সেটা ঘটনাক্রমের প্রশ্ন। ইবন কাসীরের বরাতে ১৫:৬৭ আয়াতের পাতা সে প্রশ্ন তুলেছে। এ আয়াত শুধু এটুকু নিশ্চিত করে যে তাঁকে কী জানানো হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "We Said, in 'Abdullah's Wording",
+          "bn": "আবদুল্লাহর পাঠে: আমি বললাম"
+        },
+        "p": [
+          {
+            "en": "At-Tabari and al-Baghawi both report a wording from the reading of 'Abdullah. At-Tabari gives it as wa-qulna inna dabira ha'ula'i maqtu'un musbihin: and We said, the last of these will be cut off at morning. Al-Baghawi has wa-qulna lahu, and We said to him. At-Tabari introduces it with dhukira, it is mentioned. Al-Baghawi brings it as evidence, yadullu 'alayhi, for his gloss that qadayna here means We informed him. In both it serves to explain the received text, not to replace it.",
+            "bn": "তাবারী ও বাগাভী দুজনেই আবদুল্লাহর পাঠ থেকে একটি শব্দরূপ উল্লেখ করেন। তাবারীর বর্ণনায় তা হলো: ওয়া কুলনা ইন্না দাবিরা হাউলাই মাকতূউম মুসবিহীন, আর আমি বললাম, সকাল হতেই এদের শেষজন পর্যন্ত কেটে ফেলা হবে। বাগাভীর বর্ণনায়: ওয়া কুলনা লাহু, আর আমি তাকে বললাম। তাবারী কথাটা শুরু করেন যুকিরা দিয়ে, অর্থাৎ বলা হয়ে থাকে। বাগাভী এটাকে প্রমাণ হিসেবে আনেন, ইয়াদুল্লু আলাইহি। তাঁর ব্যাখ্যা হলো, এখানে কাদাইনা মানে আমি তাকে খবর দিলাম, আর এ পাঠ সে ব্যাখ্যার পক্ষে সাক্ষ্য দেয়। দুজনের কাছেই এ পাঠ প্রচলিত পাঠের অর্থ বোঝার সহায়, তার বিকল্প নয়।"
+          },
+          {
+            "en": "The variant shows the shape of the sentence. With wa-qulna, what follows is plainly reported speech, opened by inna. In the received text it is opened by anna, and at-Tabari explains how it fits. Anna dabira, he says, stands in the accusative as a restatement, radd, of al-amr, the thing on which the decree falls: that matter is that the last of them would be cut off. Or it is accusative because a preposition has dropped away, so that the sense is bi-anna: We conveyed to him that matter, with the news that the last of these would be cut off.",
+            "bn": "এ ভিন্ন পাঠ বাক্যটির গড়ন বুঝিয়ে দেয়। ওয়া কুলনা থাকলে পরের অংশ সোজাসুজি উদ্ধৃত কথা, শুরু হয় ইন্না দিয়ে। প্রচলিত পাঠে তা শুরু হয় আন্না দিয়ে, আর বাক্যে এটি কীভাবে বসে তা তাবারী খুলে বলেন। তাঁর মতে আন্না দাবিরা যবরযুক্ত, কারণ এটি আল-আমরেরই পুনরুক্তি, যার উপর ফয়সালাটি এসে পড়েছে। অর্থাৎ সেই বিষয়টি হলো এই যে, তাদের শেষজন পর্যন্ত কেটে ফেলা হবে। আরেক সম্ভাবনা হলো, মাঝখান থেকে একটি অব্যয় বাদ পড়েছে, তাই যবর। তখন অর্থ দাঁড়ায় বি-আন্না: আমি তাকে সে বিষয়টি জানালাম এই খবরসহ যে, এদের শেষজন পর্যন্ত কেটে ফেলা হবে।"
+          },
+          {
+            "en": "Either way, dhalika al-amr does not stay vague for long. The verse first points at the matter with a word for something at a distance, that, and only then says what it is. The reader, like Lut (AS), is told that a matter has been decided before being told its content. The English translation used here marks the same movement with a bracket: And We conveyed to him [the decree] of that matter, and then the decree itself.",
+            "bn": "যেভাবেই পড়া হোক, যালিকাল আমর বেশিক্ষণ অস্পষ্ট থাকে না। আয়াত প্রথমে দূরের দিক নির্দেশ করার শব্দ যালিকা, অর্থাৎ 'সেই' দিয়ে বিষয়টির দিকে ইশারা করে, তারপর জানায় বিষয়টা কী। লূত (আঃ)-এর মতো পাঠকও আগে জানতে পারেন যে একটা বিষয় স্থির হয়ে গেছে, তারপর জানেন তার ভেতরের কথা। এখানে ব্যবহৃত ইংরেজি অনুবাদও বন্ধনী দিয়ে একই ধাপ দেখায়: আমি তাকে সেই বিষয়ের [ফয়সালা] জানিয়ে দিলাম, তারপর আসে ফয়সালাটি নিজেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Last in Line, the Root",
+          "bn": "সারির শেষজন, আর শিকড়"
+        },
+        "p": [
+          {
+            "en": "Dabir is the word that carries the verdict. At-Tabari glosses dabira ha'ula'i as akhira qawmika wa-awwalahum, the last of your people and the first of them, and the predicate as majdhudh musta'sal, severed and uprooted. Al-Baghawi reads dabir as asluhum, their root, and maqtu' as musta'sal. The two images face opposite ways, the last one in a line and the root beneath a plant, and they arrive at the same place. Cut off the last and no one is left behind; cut the root and nothing grows again.",
+            "bn": "রায়টা বহন করে দাবির শব্দটি। তাবারী দাবিরা হাউলাইয়ের ব্যাখ্যা দেন: আখিরা কওমিকা ওয়া আওওয়ালাহুম, তোমার কওমের শেষজন এবং প্রথমজন। আর বিধেয় অংশের ব্যাখ্যা দেন মাজযূয মুসতা'সাল, কেটে ফেলা, মূলসহ উপড়ে ফেলা। বাগাভী দাবিরের অর্থ করেন আসলুহুম, তাদের মূল বা শিকড়। মাকতূর অর্থও তিনি করেন মুসতা'সাল। দুটো ছবি দুই দিকে তাকায়। একটিতে সারির শেষ মানুষটি, অন্যটিতে গাছের নিচের শিকড়। তবু দুটো গিয়ে থামে একই জায়গায়। শেষজনকেও কেটে ফেললে পেছনে আর কেউ থাকে না। শিকড় কাটলে আর কিছুই গজায় না।"
+          },
+          {
+            "en": "The others say the same in plainer words. At-Tabari carries a report from Ibn 'Abbas, through al-Qasim, al-Husayn, Hajjaj and Ibn Jurayj: the uprooting of their destruction, at morning. He adds that the people of interpretation said the like. The Muyassar says Lut's people would be uprooted by destruction 'an akhirihim, to the last of them, and Ibn Kathir's abridged English has rooted out. Ha'ula'i, these, points at a people the passage has not yet shown on stage. At-Tabari and the Muyassar both make it explicit: your people.",
+            "bn": "অন্যরা একই কথা বলেন আরও সহজ ভাষায়। তাবারী ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা আনেন, কাসিম, হুসাইন, হাজ্জাজ ও ইবন জুরাইজের সূত্রে: সকালবেলা তাদের ধ্বংস করে সমূলে উপড়ে ফেলা। তিনি আরও বলেন, তাফসীরবিদরাও এমনটাই বলেছেন। মুয়াসসার বলে, লূতের কওমকে ধ্বংস করে আন আখিরিহিম, অর্থাৎ শেষজন পর্যন্ত নির্মূল করা হবে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীরে আছে rooted out, সমূলে উৎখাত। হাউলাই, অর্থাৎ 'এরা', এমন লোকদের দিকে ইশারা করে, যাদের এ অংশ তখনো সামনে আনেনি। তাবারী ও মুয়াসসার দুজনেই কথাটা খোলাসা করে দেন: তোমার কওম।"
+          },
+          {
+            "en": "Al-Qurtubi adds a parallel, nadhiruhu, its counterpart: fa-quti'a dabiru l-qawmi lladhina zalamu, so the last remnant of the people who did wrong was cut off, from 6:45. The phrase comes twice more, in 7:72 of the people of Hud (AS) and in 8:7, where Allah intends to cut off the remnant of the disbelievers. In each the cutting is Allah's act or is left without a named agent. None of them hands the act to any person.",
+            "bn": "কুরতুবী একটি সমতুল্য আয়াতের কথা বলেন, নাযীরুহু: ফাকুতিআ দাবিরুল কওমিল্লাযীনা যালামূ, অতঃপর যারা যুলম করেছিল তাদের শিকড় কেটে দেওয়া হলো। আয়াতটি ৬:৪৫। কথাটি আরও দুবার এসেছে। ৭:৭২ আয়াতে হূদ (আঃ)-এর কওমের ব্যাপারে, আর ৮:৭ আয়াতে, যেখানে আল্লাহ কাফিরদের শিকড় কেটে দিতে চান। প্রতিটি জায়গায় কেটে ফেলার কাজটি হয় আল্লাহর, নয়তো কর্তার নামই নেওয়া হয়নি। কোনোটিতেই এ কাজ কোনো মানুষের হাতে তুলে দেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cut Off as Day Broke",
+          "bn": "ভোর হতেই নির্মূল"
+        },
+        "p": [
+          {
+            "en": "Musbihin closes the verse. At-Tabari glosses it idha asbahu, aw hina yusbihun: when they entered the morning, or at the time they would enter it. Earlier in the same passage he puts it as sabaha laylatihim, the morning after that night of theirs. Al-Baghawi has idha dakhalu fi s-subh, when they entered the morning. Al-Qurtubi and the Muyassar say 'inda tulu' as-subh, at the breaking of the dawn. Ibn Kathir says waqt as-sabah, the time of morning, and cites 11:81: their appointment is the morning; is not the morning near?",
+            "bn": "আয়াত শেষ হয় মুসবিহীন শব্দে। তাবারী এর ব্যাখ্যা দেন ইযা আসবাহূ, আও হীনা ইউসবিহূন: যখন তারা সকালে প্রবেশ করল, অথবা যে সময়ে তারা সকালে প্রবেশ করবে। একই আলোচনার শুরুতে তিনি বলেন সাবাহা লাইলাতিহিম, তাদের সেই রাতের পরের সকাল। বাগাভীর ভাষায় ইযা দাখালূ ফিস সুবহ, যখন তারা সকালে প্রবেশ করল। কুরতুবী ও মুয়াসসার বলেন ইনদা তুলূইস সুবহ, ভোরের আলো ফোটার সময়। ইবন কাসীর বলেন ওয়াকতাস সাবাহ, সকালবেলা। তিনি ১১:৮১ আয়াতও উদ্ধৃত করেন: সকাল হলো তাদের নির্ধারিত সময়, সকাল কি নিকটে নয়?"
+          },
+          {
+            "en": "As-Sa'di turns the word around: sa-yusbihuhum al-'adhab alladhi yajtahuhum wa-yasta'siluhum, the punishment will come upon them at morning, sweeping them away and uprooting them. In the others the word marks an hour, the people entering the morning; in as-Sa'di the punishment itself is the visitor, arriving with the day. Al-Qurtubi adds only wa-qad taqaddam, it has been discussed already. How this morning fits the sunrise of 15:73, and the same word musbihin in 15:83, is read on the page for 15:74 and is not repeated here.",
+            "bn": "সা'দী শব্দটিকে অন্য দিক থেকে পড়েন: সাইউসবিহুহুমুল আযাবুল্লাযী ইয়াজতাহুহুম ওয়া ইয়াসতা'সিলুহুম। অর্থাৎ সকালবেলা আযাব তাদের উপর এসে পড়বে, তাদের ভাসিয়ে নেবে, মূলসহ উপড়ে ফেলবে। অন্যদের ব্যাখ্যায় শব্দটি একটি সময় চিহ্নিত করে, যখন লোকেরা সকালে প্রবেশ করে। সা'দীর ব্যাখ্যায় আযাব নিজেই আগন্তুক, দিনের সঙ্গে সঙ্গে হাজির হয়। কুরতুবী শুধু এটুকু যোগ করেন: ওয়া কাদ তাকাদ্দাম, এ আলোচনা আগে হয়ে গেছে। এই সকাল ১৫:৭৩ আয়াতের সূর্যোদয়ের সঙ্গে কীভাবে মেলে, আর ১৫:৮৩ আয়াতে একই মুসবিহীন শব্দের কথা, ১৫:৭৪ আয়াতের পাতায় আলোচিত হয়েছে। এখানে তার পুনরাবৃত্তি করা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told, Not Handed Over",
+          "bn": "জানানো হয়েছে, দায়িত্ব দেওয়া হয়নি"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports a decree of Allah about a particular people of the past, conveyed to their prophet on a particular night, and it describes them only as the text describes them. The act it announces is Allah's. It licenses nothing against any living person or community, and no reader inherits from it a verdict to pronounce on anyone or to carry out. Lut (AS) himself is told the outcome and told to leave; nothing in this verse or beside it gives him, or anyone after him, a part in bringing it about.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি অতীতের একটি নির্দিষ্ট জাতির ব্যাপারে আল্লাহর এক ফয়সালার খবর দেয়, যা এক নির্দিষ্ট রাতে তাদের নবীকে জানানো হয়েছিল। আয়াত তাদের যেভাবে বর্ণনা করে, শুধু সেভাবেই তাদের কথা বলে। যে কাজের ঘোষণা এখানে, তা আল্লাহর কাজ। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। কারও উপর রায় ঘোষণা করার বা তা কার্যকর করার কোনো উত্তরাধিকারও এ থেকে কোনো পাঠক পান না। লূত (আঃ)-কে নিজেই পরিণামটা জানানো হয়েছে আর চলে যেতে বলা হয়েছে। এ আয়াতে বা এর আশপাশে কোথাও তাঁকে, কিংবা তাঁর পরে কাউকে, সে পরিণাম ঘটানোর কোনো ভূমিকা দেওয়া হয়নি।"
+          },
+          {
+            "en": "A word on the sources. Ibn Kathir's abridged English treats 15:65 and 15:66 together, and only its lines on this verse, with one on 15:65 below, are used. The Ma'arif al-Qur'an text returned for this verse covers 15:48 to 15:57, and is set aside as off-verse. No commentary consulted attaches a hadith to this verse, and none is supplied. The report from Ibn 'Abbas carried by at-Tabari explains the verse; it is not a saying of the Prophet ﷺ.",
+            "bn": "উৎস নিয়ে দুটো কথা। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ১৫:৬৫ ও ১৫:৬৬ একসঙ্গে আলোচনা করে। তার মধ্যে শুধু এ আয়াতের অংশটুকু, আর নিচে ১৫:৬৫ সম্পর্কে একটি লাইন, এখানে নেওয়া হয়েছে। এ আয়াতের জন্য পাওয়া মাআরিফুল কুরআনের অংশটি ১৫:৪৮ থেকে ১৫:৫৭ পর্যন্ত আয়াত নিয়ে, তাই অপ্রাসঙ্গিক বলে বাদ রাখা হয়েছে। দেখা কোনো তাফসীরই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, এখানেও কোনো হাদীস আনা হয়নি। তাবারীর আনা ইবন আব্বাস (রাঃ)-এর বর্ণনাটি আয়াতের ব্যাখ্যা, নবী ﷺ-এর বাণী নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Walking Toward a Known Morning",
+          "bn": "জানা সকালের দিকে হাঁটা"
+        },
+        "p": [
+          {
+            "en": "What does a person do with knowing how something ends? The verse does not say how Lut (AS) received the news, and no commentator consulted here describes it, so what follows is reflection, not report. Being told the end does not cancel the road. 15:65 still sends him out in a portion of the night, behind his family, with no one turning back, to continue on to where they are commanded. The certainty comes together with instructions, not in place of them.",
+            "bn": "কোনো কিছুর শেষ কী হবে তা জানা থাকলে মানুষ কী করে? লূত (আঃ) খবরটা কীভাবে গ্রহণ করেছিলেন, আয়াত তা বলে না, আর দেখা কোনো তাফসীরও তার বর্ণনা দেয় না। তাই এখান থেকে যা আসছে তা চিন্তাভাবনা, বর্ণনা নয়। শেষটা জানিয়ে দেওয়ায় পথ বাতিল হয়ে যায় না। ১৫:৬৫ আয়াত তবু তাঁকে রাতের এক অংশে পরিবারের পেছনে পেছনে বের করে নেয়। কেউ ফিরে তাকাবে না, আর যেখানে যেতে বলা হয়েছে সেদিকেই এগিয়ে যাবে। নিশ্চয়তা আসে নির্দেশের সঙ্গে, নির্দেশের বদলে নয়।"
+          },
+          {
+            "en": "That pairing is familiar from ordinary faith. A believer is told how matters end: that Allah's promise is true, that the Hereafter is real, that wrong does not have the last word. None of this releases anyone from the next step. As-Sa'di's phrase, news with no exception in it, describes the kind of certainty that steadies a walker rather than seats him. The certainty lies in the decree; the walking lies with the person. A reader who confuses them may despair of the road, or may stop walking it.",
+            "bn": "এ জোড়াটা সাধারণ ঈমানের জীবনেও চেনা। মুমিনকে জানিয়ে দেওয়া হয়েছে বিষয়গুলোর শেষ কোথায়। আল্লাহর ওয়াদা সত্য, আখিরাত বাস্তব, আর অন্যায়ের কথাই শেষ কথা নয়। তবু এর কোনোটিই কাউকে পরের পদক্ষেপ থেকে মুক্তি দেয় না। সা'দীর ভাষায় 'এমন খবর, যার মধ্যে কোনো ব্যতিক্রম নেই'। এ সেই নিশ্চয়তা, যা পথিককে বসিয়ে রাখে না, বরং তার পা শক্ত করে। নিশ্চয়তার জায়গা ফয়সালায়, আর হাঁটার দায় মানুষের নিজের। দুটোকে যে গুলিয়ে ফেলে, সে হয় পথ নিয়েই হতাশ হয়ে পড়ে, নয়তো হাঁটাই থামিয়ে দেয়।"
+          },
+          {
+            "en": "Ibn Kathir's English commentary explains the no looking back of 15:65 as not turning round at the sound of the people's torment, leaving them to what was coming. A reader may hear in that a limit as well as an order. The end of others is not ours to watch, to relish or to hasten. Lut (AS) was told, and then told to go. What have I been told plainly and still treat as uncertain? Which part of the road, known to be mine, am I still waiting to begin?",
+            "bn": "ইবন কাসীরের ইংরেজি তাফসীর ১৫:৬৫ আয়াতের 'ফিরে না তাকানো'র ব্যাখ্যা দেয় এভাবে: লোকদের আযাবের চিৎকার শুনে পেছন ফিরে তাকাবে না, যা আসছে তার হাতে তাদের ছেড়ে যাবে। পাঠক এর মধ্যে আদেশের সঙ্গে একটা সীমাও শুনতে পারেন। অন্যদের পরিণাম দাঁড়িয়ে দেখা, তাতে মজা পাওয়া বা তা তাড়াতাড়ি ঘটানো আমাদের কাজ নয়। লূত (আঃ)-কে জানানো হলো, তারপর চলে যেতে বলা হলো। কোন কথা আমাকে স্পষ্ট করে বলা হয়েছে, অথচ আমি এখনো তা অনিশ্চিত ভাবি? পথের কোন অংশটা আমার বলে জানি, অথচ শুরু করার জন্য এখনো অপেক্ষা করছি?"
+          }
+        ]
+      }
+    ]
+  },
   "15:67": {
     "sections": [
       {

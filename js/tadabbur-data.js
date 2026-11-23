@@ -33323,6 +33323,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Remember that every respite has an end Allah has fixed: the whisperer's time runs out, and so will yours, so spend the days you have in obeying Him.",
     "lessonBn": "মনে রাখুন, প্রতিটি অবকাশের শেষ আল্লাহ বেঁধে রেখেছেন। কুমন্ত্রণাদাতার সময় ফুরাবে, আপনার সময়ও ফুরাবে। তাই হাতে যে দিনগুলো আছে, তা তাঁর আনুগত্যে কাটান।"
+  },
+  "15:66": {
+    "reflectionEn": "Before the crowd enters the story, Lut is told how the night will end. The matter has been settled and made known to him: by morning, the last of those people will be cut off. Yet he still has to rise in the dark, lead his family out, walk behind them and not look back. Knowing the outcome does not excuse him from the road; it steadies him on it. The verse reports what Allah decreed for a people of the past, and it hands no one a sentence to pass on anyone today. It asks something of me instead. When I have been told how things end, do I still walk the part that is mine? And do I trust a promise before I can see its morning?",
+    "reflectionBn": "কাহিনিতে ভিড় হাজির হওয়ার আগেই লূত (আঃ)-কে জানিয়ে দেওয়া হলো, রাতটা কীভাবে শেষ হবে। বিষয়টা চূড়ান্ত হয়ে গেছে, তাঁকেও জানানো হয়েছে: সকাল হতেই ওই লোকদের শেষ মানুষটি পর্যন্ত নির্মূল হয়ে যাবে। তবু তাঁকে অন্ধকারে উঠতে হবে, পরিবারকে নিয়ে বের হতে হবে, তাদের পেছনে পেছনে হাঁটতে হবে, আর ফিরে তাকানো চলবে না। পরিণাম জানা থাকলেও পথ চলার দায় মাফ হয় না। বরং ওই জানাটাই পথে তাঁর পা শক্ত রাখে। আয়াতটি অতীতের এক জাতির ব্যাপারে আল্লাহর ফয়সালার খবর দেয়। আজ কারও উপর রায় দেওয়ার ভার এটি কাউকে দেয় না। প্রশ্নটা বরং আমার দিকে ফেরে। শেষটা কী হবে তা জানার পরও কি আমি আমার ভাগের পথটুকু হাঁটি? আর সকালটা চোখে দেখার আগেই কি আমি প্রতিশ্রুতির উপর ভরসা রাখি?",
+    "pointsEn": [
+      "Which outcome has Allah already promised me that I still treat as though it were uncertain?",
+      "When I am sure how something will end, do I still take the steps that are mine, or do I sit and wait for it?",
+      "What do I keep turning back to look at, though I have been told to leave it behind?",
+      "When I read of a people who were destroyed, do I look for myself in the story, or only for others?",
+      "Whose night could I steady this week by reminding them plainly of what Allah has promised?"
+    ],
+    "pointsBn": [
+      "আল্লাহ যে পরিণামের ওয়াদা আমাকে আগেই দিয়ে রেখেছেন, এমন কোন বিষয়কে আমি এখনো অনিশ্চিত ভেবে চলি?",
+      "কোনো কিছুর শেষ কী হবে তা নিয়ে নিশ্চিত হলে আমি কি আমার ভাগের কাজগুলো তবু করি, নাকি বসে বসে অপেক্ষা করি?",
+      "যা পেছনে ফেলে আসতে বলা হয়েছে, এমন কোন জিনিসের দিকে আমি বারবার ফিরে তাকাই?",
+      "ধ্বংস হয়ে যাওয়া কোনো জাতির কথা পড়লে আমি কি কাহিনিতে নিজেকে খুঁজি, নাকি শুধু অন্যদের?",
+      "আল্লাহর ওয়াদার কথা সোজাসুজি মনে করিয়ে দিয়ে এ সপ্তাহে কার অস্থির রাতকে আমি একটু শান্ত করতে পারি?"
+    ],
+    "lessonEn": "Trust what Allah has settled and made known, and still walk your own part of the road, without turning back toward what you were told to leave.",
+    "lessonBn": "আল্লাহ যা চূড়ান্ত করে জানিয়ে দিয়েছেন তার উপর ভরসা রাখুন, তবু নিজের ভাগের পথটুকু হাঁটুন, আর যা ছেড়ে আসতে বলা হয়েছে সেদিকে ফিরে তাকাবেন না।"
   }
 };
 
