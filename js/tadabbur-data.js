@@ -32883,6 +32883,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Use the means Allah puts within reach, but keep your heart's reliance on Him, and do not let a word you promised to say for someone slip from memory.",
     "lessonBn": "আল্লাহ যে উপায় হাতের কাছে দিয়েছেন তা কাজে লাগান, কিন্তু মনের ভরসা রাখুন তাঁরই উপর। আর কারও হয়ে যে কথা বলবেন বলে কথা দিয়েছেন, তা যেন স্মৃতি থেকে হারিয়ে না যায়।"
+  },
+  "14:6": {
+    "reflectionEn": "Musa does not open with a new command. He opens with a memory: remember Allah's favour upon you when He saved you. Then he names what they were saved from, plainly: the worst of torment, sons slaughtered, women kept alive. He does not soften it, and he does not linger on it to stir up anger. He names the hardship so that the rescue can be seen at its true size. Then one word holds both sides: in that was a great bala' from your Lord, read as a trial, as a favour, or as both at once. My own past has its hard years and its rescues. When I remember them, do I count only the wound, or do I also see the One who brought me out?",
+    "reflectionBn": "মূসা (আঃ) নতুন কোনো হুকুম দিয়ে কথা শুরু করেননি। শুরু করেছেন একটা স্মৃতি দিয়ে: তোমাদের উপর আল্লাহর নিয়ামতের কথা মনে করো, যখন তিনি তোমাদের বাঁচিয়েছিলেন। তারপর কী থেকে বাঁচিয়েছিলেন, তা খোলাখুলি বলেন: সবচেয়ে জঘন্য শাস্তি, ছেলেদের জবাই, আর মেয়েদের জীবিত রেখে দেওয়া। কষ্টটাকে তিনি হালকা করেননি, আবার রাগ উসকে দিতে সেখানে আটকেও থাকেননি। কষ্টের কথা বলেছেন, যাতে মুক্তিটা তার আসল মাপে চোখে পড়ে। তারপর একটিমাত্র শব্দ দুই দিকই ধরে রাখে: এতে ছিল তোমাদের রবের পক্ষ থেকে মহা 'বালা'। শব্দটা পড়া হয় পরীক্ষা হিসেবে, নিয়ামত হিসেবে, কিংবা দুটোই একসঙ্গে। আমার নিজের অতীতেও কঠিন বছর আছে, উদ্ধারের দিনও আছে। সেগুলো মনে পড়লে আমি কি শুধু ক্ষতটাই গুনি, নাকি তাঁকেও দেখি, যিনি আমাকে সেখান থেকে বের করে এনেছিলেন?",
+    "pointsEn": [
+      "Which rescue in my own life have I stopped mentioning, simply because the danger it saved me from is no longer in front of me?",
+      "When I tell the story of a hard time, does it end with the harm done to me, or with the way out that Allah opened?",
+      "If ease and hardship can both be a test, which one am I failing right now: thanks in the one, or patience in the other?",
+      "Whom could I remind, gently, of a favour they have forgotten, without turning the reminder into a rebuke?",
+      "Can I name the days of Allah in my own life, and when did I last speak of them aloud to the people around me?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন উদ্ধারের কথা আমি আর মুখে আনি না, শুধু এ কারণে যে যে-বিপদ থেকে বেঁচেছিলাম তা এখন আর চোখের সামনে নেই?",
+      "কঠিন সময়ের গল্প বলতে গিয়ে আমি কি থামি আমার উপর হওয়া ক্ষতিতে, নাকি আল্লাহ যে পথ খুলে দিয়েছিলেন সেখানে?",
+      "সুখ আর কষ্ট দুটোই যদি পরীক্ষা হয়, এই মুহূর্তে আমি কোনটায় ফেল করছি: সুখে শোকরে, নাকি কষ্টে সবরে?",
+      "ভুলে যাওয়া কোনো নিয়ামতের কথা কাকে আমি নরমভাবে মনে করিয়ে দিতে পারি, কথাটাকে তিরস্কার না বানিয়ে?",
+      "নিজের জীবনে আল্লাহর দিনগুলোর নাম কি আমি বলতে পারি? আর শেষ কবে আশপাশের মানুষকে সেগুলোর কথা মুখে বলেছি?"
+    ],
+    "lessonEn": "Remember the hardships Allah brought you through by naming the rescue as well as the wound, and meet both ease and hardship as a test of thanks and patience.",
+    "lessonBn": "যে কষ্ট থেকে আল্লাহ আপনাকে পার করে এনেছেন, তা মনে করুন ক্ষতের সঙ্গে উদ্ধারের কথাও বলে, আর সুখ ও কষ্ট দুটোকেই শোকর আর সবরের পরীক্ষা হিসেবে গ্রহণ করুন।"
   }
 };
 

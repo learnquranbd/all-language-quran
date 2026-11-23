@@ -163,6 +163,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "14:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Commission Carried Out",
+          "bn": "দায়িত্ব পেয়ে তা পালন"
+        },
+        "p": [
+          {
+            "en": "Wa-idh qala Musa li-qawmihi: and when Musa said to his people. The verse before it, 14:5, gave him his commission: bring your people out of the darknesses into the light, and remind them of the days of Allah. This verse shows him doing it. As-Sa'di draws the link himself: the days of Allah are evidence of His perfect power, His all-embracing kindness and His complete justice and wisdom, and so Musa (AS) carried out his Lord's command and reminded his people of Allah's favours.",
+            "bn": "ওয়া ইয কালা মূসা লিকাওমিহী: আর যখন মূসা তাঁর কওমকে বললেন। ঠিক আগের আয়াত ১৪:৫ তাঁকে দায়িত্ব দিয়েছিল: তোমার কওমকে অন্ধকাররাশি থেকে আলোর দিকে বের করে আনো, আর আল্লাহর দিনগুলোর কথা তাদের মনে করিয়ে দাও। এ আয়াতে দেখা যায়, তিনি সে কাজটাই করছেন। সা'দী যোগসূত্রটা নিজেই টেনে দেন। আল্লাহর দিনগুলো তাঁর পূর্ণ কুদরত, সর্বব্যাপী অনুগ্রহ, পূর্ণ ইনসাফ ও হিকমতের প্রমাণ। তাই মূসা (আঃ) রবের হুকুম পালন করলেন এবং কওমকে আল্লাহর নিয়ামতগুলো স্মরণ করিয়ে দিলেন।"
+          },
+          {
+            "en": "Ibn Kathir reads it the same way. Who hears the story is a second question. At-Tabari takes the opening as Allah telling His Prophet Muhammad ﷺ: and remember, O Muhammad, when Musa son of 'Imran said to his people of the Children of Israel. The Muyassar frames it alike: mention, O Messenger, to your people the story of Musa. Inside the story Musa speaks to his people; in the surah, the Prophet ﷺ is told to set that scene before his own.",
+            "bn": "ইবন কাসীরও আয়াতটা এভাবেই পড়েন। তবে কাহিনিটা কে শুনছে, সে প্রশ্ন আলাদা। তাবারীর মতে শুরুর কথাটা আল্লাহ বলছেন তাঁর নবী মুহাম্মাদ ﷺ-কে: হে মুহাম্মাদ, স্মরণ করুন, যখন ইমরানের পুত্র মূসা বনী ইসরাঈলের মধ্য থেকে তাঁর কওমকে বলেছিলেন। মুয়াসসারও একই কাঠামো দেয়: হে রাসূল, আপনার কওমকে মূসার কাহিনি শোনান। কাহিনির ভেতরে মূসা কথা বলছেন নিজের কওমের সঙ্গে। আর সূরার ভেতরে নবী ﷺ-কে বলা হচ্ছে, সেই দৃশ্যটা নিজের কওমের সামনে তুলে ধরতে।"
+          },
+          {
+            "en": "The Ma'arif al-Qur'an, which treats 14:5 and 14:6 together, calls the second verse the details of what was said before it: the command to remind was general, and here is the particular blessing that changed their lives. A messenger told to remind does not start with abstractions. He picks one day his hearers cannot deny, and he names it.",
+            "bn": "মাআরিফুল কুরআন ১৪:৫ ও ১৪:৬ একসঙ্গে আলোচনা করে। দ্বিতীয় আয়াতটিকে সেখানে বলা হয়েছে আগের কথার বিস্তারিত রূপ। মনে করিয়ে দেওয়ার হুকুমটা ছিল সাধারণ, আর এখানে এল সেই নির্দিষ্ট নিয়ামত, যা তাদের জীবন বদলে দিয়েছিল। যাঁকে মনে করিয়ে দেওয়ার দায়িত্ব দেওয়া হয়েছে, তিনি তত্ত্বকথা দিয়ে শুরু করেন না। শ্রোতারা অস্বীকার করতে পারবে না, এমন একটা দিন তিনি বেছে নেন, আর সেটার নাম ধরে বলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Favour With a Date",
+          "bn": "দিনক্ষণসহ এক নিয়ামত"
+        },
+        "p": [
+          {
+            "en": "Udhkuru ni'mata Allahi 'alaykum: remember the favour of Allah upon you. At-Tabari glosses it as the favour with which He favoured you, and then the verse itself says which: idh anjakum, when He saved you. At-Tabari also cites Ibn 'Uyayna on the phrase: Allah's favours among you, and His days. In that short gloss the key words of 14:5 and 14:6 meet. The days of Allah are not a separate subject from His favour; the favour is remembered through the day on which it came.",
+            "bn": "উযকুরূ নি'মাতাল্লাহি আলাইকুম: তোমাদের উপর আল্লাহর নিয়ামতের কথা স্মরণ করো। তাবারীর ব্যাখ্যায়, এ সেই নিয়ামত যা দিয়ে তিনি তোমাদের অনুগ্রহ করেছেন। কোন নিয়ামত, তা আয়াত নিজেই বলে দেয়: ইয আনজাকুম, যখন তিনি তোমাদের বাঁচালেন। তাবারী এ বাক্যাংশে ইবন উয়াইনার কথাও আনেন: তোমাদের কাছে আল্লাহর অনুগ্রহগুলো, আর তাঁর দিনগুলো। এই ছোট্ট ব্যাখ্যায় ১৪:৫ আর ১৪:৬-এর মূল শব্দ দুটো এক জায়গায় মিলে যায়। আল্লাহর দিন তাঁর নিয়ামত থেকে আলাদা কোনো বিষয় নয়। নিয়ামতটা মনে রাখা হয় সেই দিনটা দিয়ে, যেদিন তা এসেছিল।"
+          },
+          {
+            "en": "As-Sa'di adds how the remembering is to be done: remember it with your hearts and your tongues. That brief gloss makes the command more than private recollection. A favour remembered silently is a beginning; a favour spoken aloud, as Musa (AS) speaks it here, becomes something a whole people holds in common. Ibn Kathir's wording sets the same two things side by side, the days of Allah among them and His favours upon them, as though the days were the calendar of the favours.",
+            "bn": "কীভাবে স্মরণ করতে হবে, সা'দী সেটাও যোগ করেন: অন্তর দিয়ে এবং জবান দিয়ে স্মরণ করো। ছোট্ট এই ব্যাখ্যা হুকুমটাকে মনে মনে ভাবার চেয়ে বেশি কিছু বানিয়ে দেয়। নীরবে মনে রাখা নিয়ামত একটা শুরু মাত্র। মূসা (আঃ) এখানে যেমন বলছেন, তেমনি মুখে বলা নিয়ামত পুরো একটা জাতির সম্মিলিত স্মৃতি হয়ে ওঠে। ইবন কাসীরের ভাষাতেও দুটি জিনিস পাশাপাশি বসে: তাদের মধ্যে আল্লাহর দিনগুলো আর তাদের উপর তাঁর নিয়ামতগুলো। যেন দিনগুলোই নিয়ামতগুলোর পঞ্জিকা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pharaoh's People by Allegiance",
+          "bn": "আনুগত্যের সূত্রে ফিরআউনের লোক"
+        },
+        "p": [
+          {
+            "en": "Idh anjakum min ali Fir'awn: when He saved you from the people of Pharaoh. At-Tabari explains ali Fir'awn as the people of Pharaoh's religion and of obedience to him, ahl dini Fir'awn wa ta'atihi. The Muyassar renders it Pharaoh and his followers. Neither gloss reads the word as a family tree. On both, the people of Pharaoh are those who took his way and carried out his orders, which is why the verse lays the torment at their door and not at his alone.",
+            "bn": "ইয আনজাকুম মিন আলি ফিরআউন: যখন তিনি তোমাদের ফিরআউনের লোকদের হাত থেকে বাঁচালেন। তাবারী আলে ফিরআউনের ব্যাখ্যা দেন এভাবে: যারা ফিরআউনের দ্বীনের অনুসারী আর তার আনুগত্যকারী। মুয়াসসার বলে, ফিরআউন ও তার অনুসারীরা। দুই ব্যাখ্যার কোনোটাই শব্দটাকে বংশতালিকা হিসেবে পড়ে না। দুটো অনুযায়ীই ফিরআউনের লোক তারা, যারা তার পথ ধরেছিল আর তার হুকুম তামিল করেছিল। এ কারণেই আয়াত অত্যাচারের দায় শুধু তার একার ঘাড়ে নয়, তাদের ঘাড়েও রাখে।"
+          },
+          {
+            "en": "Yasumunakum su'a al-'adhab: they were afflicting you with the worst of torment. At-Tabari glosses the verb as making you taste severe torment. As-Sa'di glosses it as inflicting it upon you, and su' al-'adhab as its most severe form; the Muyassar likewise has them make you taste the severest torment. Ibn Kathir names two strands in what was imposed, torment and humiliation. The Ma'arif describes the condition plainly: before Musa (AS) came they lived as Pharaoh's slaves, and even as slaves they were not treated humanely.",
+            "bn": "ইয়াসূমূনাকুম সূআল আযাব: তারা তোমাদের সবচেয়ে জঘন্য শাস্তি দিয়ে যাচ্ছিল। তাবারী ক্রিয়াটির অর্থ করেন, তারা তোমাদের কঠিন শাস্তির স্বাদ নিতে বাধ্য করছিল। সা'দীর ব্যাখ্যায়, তারা তা তোমাদের উপর চাপিয়ে দিচ্ছিল, আর সূআল আযাব মানে শাস্তির সবচেয়ে কঠোর রূপ। মুয়াসসারও বলে, তারা তোমাদের সবচেয়ে কঠিন শাস্তির স্বাদ দিচ্ছিল। ইবন কাসীর যা চাপানো হয়েছিল তাতে দুটি ধারা চিহ্নিত করেন: শাস্তি আর লাঞ্ছনা। মাআরিফ অবস্থাটা সোজা ভাষায় বলে: মূসা (আঃ) আসার আগে তারা ফিরআউনের দাস হয়ে ছিল, আর দাস হিসেবেও তাদের সঙ্গে মানুষের মতো আচরণ করা হতো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Letter That Adds",
+          "bn": "যে অক্ষর কিছু যোগ করে"
+        },
+        "p": [
+          {
+            "en": "Then comes a detail this telling has and others lack: wa-yudhabbihuna abna'akum, and slaughtering your sons, with a waw, and, before the verb. At-Tabari explains it directly. The waw was brought in here, he says, because the intention is to report that Pharaoh's people tormented the Children of Israel with kinds of torment other than slaughter, and with slaughter as well. Read his way, the slaughter of the sons is listed as an affliction in addition to the worst of torment, not as its definition.",
+            "bn": "এরপর আসে এমন এক খুঁটিনাটি, যা এই বর্ণনায় আছে কিন্তু অন্য বর্ণনায় নেই: ওয়া ইউযাব্বিহূনা আবনাআকুম, আর তোমাদের ছেলেদের জবাই করছিল। ক্রিয়ার আগে একটা ওয়াও, অর্থাৎ 'আর'। তাবারী সরাসরি এর কারণ বলেন। এখানে ওয়াও আনা হয়েছে, কারণ উদ্দেশ্য হলো এ খবর দেওয়া যে ফিরআউনের লোকেরা বনী ইসরাঈলকে জবাই ছাড়াও নানা রকম শাস্তি দিত, আবার জবাইও করত। তাঁর পাঠে ছেলেদের জবাই জঘন্যতম শাস্তির সংজ্ঞা নয়। সেটা তার উপর আরও এক বাড়তি বিপদ হিসেবে আলাদা করে গোনা হয়েছে।"
+          },
+          {
+            "en": "He then sets this beside the places that tell it without the waw: yudhabbihuna abna'akum in 2:49, and yuqattiluna abna'akum in 7:141. There, he says, the verbs are meant to explain what the torment imposed on them consisted of. He states the rule behind both: when a sentence is to be spelled out, the detail follows it without a waw; when something else, beyond its detail, is to be joined to it, the waw comes in. Al-Baghawi gives the same explanation in al-Farra's name, as the cause that brought this waw.",
+            "bn": "তারপর তিনি এটাকে মিলিয়ে দেখেন সেই জায়গাগুলোর সঙ্গে, যেখানে ওয়াও নেই: ২:৪৯ আয়াতে ইউযাব্বিহূনা আবনাআকুম, আর ৭:১৪১ আয়াতে ইউকাত্তিলূনা আবনাআকুম। তাঁর মতে সেখানে ক্রিয়াগুলোর কাজ হলো বুঝিয়ে দেওয়া, তাদের উপর চাপানো শাস্তিটা ঠিক কী ছিল। দুই ক্ষেত্রের পেছনের নিয়মটাও তিনি বলে দেন। কোনো বাক্যকে খুলে বলতে চাইলে বিস্তারিত অংশ আসে ওয়াও ছাড়া। আর তার বিস্তারিত ছাড়া অন্য কিছু তার সঙ্গে জুড়তে চাইলে ওয়াও আসে। বাগাভী একই ব্যাখ্যা দেন ফাররার নামে, এই ওয়াও আনার কারণ হিসেবে।"
+          },
+          {
+            "en": "As-Sa'di reads the same words with a different emphasis. After glossing the worst of torment as its most severe, he says it was explained by the words that follow, and slaughtering your sons and keeping your women alive. On his reading the pair still spells out what the torment was, and he does not stop on the letter at all. The two readings are left side by side here. Al-Qurtubi adds nothing at this verse; he refers the reader back to his full treatment in al-Baqara.",
+            "bn": "সা'দী একই শব্দগুলো পড়েন ভিন্ন জোর দিয়ে। জঘন্যতম শাস্তির অর্থ সবচেয়ে কঠোর শাস্তি বলার পর তিনি বলেন, পরের কথাগুলো দিয়েই এর ব্যাখ্যা দেওয়া হয়েছে: তোমাদের ছেলেদের জবাই আর মেয়েদের জীবিত রাখা। তাঁর পাঠে এ জোড়াটা তখনও শাস্তিরই বিবরণ, আর অক্ষরটা নিয়ে তিনি থামেনই না। দুই পাঠ এখানে পাশাপাশি রাখা হলো, কোনোটার পক্ষ নেওয়া হলো না। কুরতুবী এ আয়াতে নতুন কিছু বলেন না। তিনি পাঠককে ফেরত পাঠান সূরা বাকারায় তাঁর পূর্ণ আলোচনার দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sparing That Was No Mercy",
+          "bn": "রেহাই, তবে দয়া নয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir describes the slaughter as reaching whomever they found of the Israelites' sons, while they left their females. The Ma'arif says that boys born among them were killed at birth, and only girls were left to survive and serve. The Muyassar specifies male sons and gives the aim it understood: so that none of them would arise to take Pharaoh's kingdom from him. The sources fetched for this verse add nothing more.",
+            "bn": "ইবন কাসীরের বর্ণনায়, বনী ইসরাঈলের ছেলেদের মধ্যে যাকেই তারা পেত, তাকেই জবাই করত, আর মেয়েদের রেখে দিত। মাআরিফ বলে, তাদের ঘরে ছেলে জন্মালে জন্মের সময়েই মেরে ফেলা হতো, আর শুধু মেয়েদের বাঁচিয়ে রাখা হতো খেটে খাওয়ার জন্য। মুয়াসসার নির্দিষ্ট করে বলে পুরুষ সন্তানের কথা, আর তার বোঝা উদ্দেশ্যও জানায়: যাতে তাদের মধ্য থেকে এমন কেউ না ওঠে, যে ফিরআউনের রাজত্ব দখল করবে। এ আয়াতের জন্য আনা সূত্রগুলো এর বেশি কিছু যোগ করে না।"
+          },
+          {
+            "en": "Wa-yastahyuna nisa'akum: and keeping your women alive. At-Tabari explains the verb as letting them remain and leaving off killing them; as-Sa'di says the same, they let them remain and did not kill them. The Muyassar adds a purpose: they kept your women alive for service and degradation, li-l-khidmati wa-l-imtihan. On that gloss, being spared was not a kindness inside the torment but another part of it. A life left standing in order to be used is counted, in Musa's (AS) list, among the things Allah saved them from.",
+            "bn": "ওয়া ইয়াসতাহইয়ূনা নিসাআকুম: আর তোমাদের নারীদের জীবিত রাখছিল। তাবারী ক্রিয়াটির ব্যাখ্যা করেন এভাবে: তাদের বাঁচিয়ে রাখত, হত্যা করা থেকে বিরত থাকত। সা'দীও একই কথা বলেন: তাদের রেখে দিত, মারত না। মুয়াসসার একটা উদ্দেশ্য যোগ করে: খেদমত আর হেনস্থার জন্য তারা তোমাদের নারীদের বাঁচিয়ে রাখত। এ ব্যাখ্যায় রেহাই পাওয়াটা শাস্তির ভেতরে কোনো দয়া ছিল না, বরং শাস্তিরই আরেক অংশ। কাজে খাটানোর জন্য যে জীবন টিকিয়ে রাখা হয়, মূসা (আঃ)-এর তালিকায় সেটাও গোনা হয়েছে সেসব জিনিসের মধ্যে, যা থেকে আল্লাহ তাদের বাঁচিয়েছেন।"
+          },
+          {
+            "en": "At-Tabari illustrates the sense of istahya, to leave alive, with a narration on sparing lives in war that he relays from the Prophet ﷺ without giving a grading himself. It is a note on the meaning of the verb, it is not attached to this verse, and nothing in this article rests on it. None of the tafsirs fetched for 14:6 attaches a sound hadith to the verse itself.",
+            "bn": "ইসতাহইয়া, অর্থাৎ জীবিত রেখে দেওয়া, শব্দের অর্থ বোঝাতে তাবারী যুদ্ধে প্রাণ রক্ষা নিয়ে একটি বর্ণনা আনেন, যা তিনি নবী ﷺ থেকে বর্ণনা করেন নিজে কোনো মান নির্ধারণ না করে। সেটা ক্রিয়াটির অর্থ নিয়ে একটা টীকা মাত্র। এ আয়াতের সঙ্গে তা যুক্ত নয়, আর এ লেখার কিছুই তার উপর দাঁড়িয়ে নেই। ১৪:৬ আয়াতের জন্য আনা কোনো তাফসীর আয়াতটির সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bala': Gift or Ordeal",
+          "bn": "বালা: দান, না কঠিন পরীক্ষা"
+        },
+        "p": [
+          {
+            "en": "Wa-fi dhalikum bala'un min rabbikum 'azim: and in that was a great bala' from your Lord. The word can carry a trial or a favour, and the commentators differ both over which is meant and over what that points to. At-Tabari takes that as what Pharaoh's people were doing to them, the kinds of torment, and bala' as a great testing and trial from their Lord. He then allows the other sense: bala' here may be a blessing, or it may be of the hardship that strikes people.",
+            "bn": "ওয়া ফী যালিকুম বালাউম মির রব্বিকুম আযীম: আর এতে ছিল তোমাদের রবের পক্ষ থেকে মহা বালা। শব্দটা পরীক্ষাও বোঝাতে পারে, নিয়ামতও। কোনটা উদ্দেশ্য, আর 'এতে' বলতে কোন জিনিসের দিকে ইশারা, দুই প্রশ্নেই তাফসীরকারদের মত আলাদা। তাবারী 'এতে' বলতে বোঝেন ফিরআউনের লোকেরা তাদের সঙ্গে যা করছিল, সেই নানা রকম শাস্তি। আর বালা মানে তাদের রবের পক্ষ থেকে মহা যাচাই ও পরীক্ষা। তারপর তিনি অন্য অর্থটারও সুযোগ রাখেন: এখানে বালা নিয়ামতও হতে পারে, আবার মানুষের উপর আসা কষ্ট অর্থের বালাও হতে পারে।"
+          },
+          {
+            "en": "Ibn Kathir puts the weight the other way. He first takes that as the rescue: a great favour from Him upon you, which you are unable to give due thanks for. Then, introduced with it was said, he reports the reading that that is what Pharaoh's people were doing to them, so that bala' is a great trial. He concludes that both may be meant, and Allah knows best, and quotes 7:168: We tried them with good things and bad, that they might return.",
+            "bn": "ইবন কাসীর ভার রাখেন উল্টো দিকে। প্রথমে তিনি 'এতে' বলতে বোঝেন উদ্ধারকে: এ তোমাদের উপর তাঁর মহা নিয়ামত, যার যথাযথ শোকর আদায় করতে তোমরা অক্ষম। তারপর 'বলা হয়েছে' কথাটি দিয়ে তিনি অন্য পাঠটা আনেন: 'এতে' মানে ফিরআউনের লোকেরা তাদের সঙ্গে যা করত, ফলে বালা মানে মহা পরীক্ষা। শেষে তিনি বলেন, দুটোই উদ্দেশ্য হতে পারে, আর আল্লাহই ভালো জানেন। সঙ্গে উদ্ধৃত করেন ৭:১৬৮: আমি তাদের পরীক্ষা করেছি ভালো আর মন্দ দিয়ে, যাতে তারা ফিরে আসে।"
+          },
+          {
+            "en": "As-Sa'di keeps the same two options and gives each its referent. Either that is the rescue, and bala' a great favour; or that is the torment they were made to suffer by Pharaoh and his chiefs, a great trial from Allah, to see whether they would be patient or not. The Muyassar joins the two in a single phrase: in that affliction and that rescue was a great test for you from your Lord. The disagreement is real, and it is about the referent as much as the word.",
+            "bn": "সা'দীও এই দুই সম্ভাবনাই রাখেন, আর প্রত্যেকটার ইশারা কোন দিকে তা বলে দেন। হয় 'এতে' মানে উদ্ধার, আর বালা মানে মহা নিয়ামত। নয়তো 'এতে' মানে ফিরআউন ও তার সভাসদদের হাতে তারা যে শাস্তি ভোগ করেছিল, আর তা আল্লাহর পক্ষ থেকে মহা পরীক্ষা, দেখার জন্য যে তারা সবর করে কি না। মুয়াসসার দুটোকে এক বাক্যে জুড়ে দেয়: সেই বিপদ আর সেই উদ্ধার, দুটোতেই ছিল তোমাদের রবের পক্ষ থেকে মহা পরীক্ষা। মতভেদটা সত্যিকারের, আর তা শব্দটা নিয়ে যতটা, 'এতে' কোন দিকে ইশারা করছে তা নিয়েও ততটা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Duties From One Word",
+          "bn": "এক শব্দে দুই দায়িত্ব"
+        },
+        "p": [
+          {
+            "en": "Whichever reading is taken, the two senses point to two duties. If the rescue is the bala', it is a favour that calls for thanks; Ibn Kathir's remark that they could not give it due thanks shows how large he took it to be. If the torment is the bala', it is a trial that calls for patience, which is exactly as-Sa'di's question: whether they would be patient or not. The verse before, 14:5, had already closed on signs for everyone patient and grateful; this verse supplies material for both.",
+            "bn": "যে পাঠই নেওয়া হোক, দুই অর্থ দুই দায়িত্বের দিকে ইশারা করে। উদ্ধার যদি বালা হয়, তবে তা এমন নিয়ামত যা শোকর দাবি করে। এর যথাযথ শোকর আদায়ে তারা অক্ষম, ইবন কাসীরের এ কথাই দেখায় তিনি নিয়ামতটাকে কত বড় মনে করতেন। আর শাস্তি যদি বালা হয়, তবে তা এমন পরীক্ষা যা সবর দাবি করে। সা'দীর প্রশ্নও ঠিক এটাই: তারা সবর করে কি না। আগের আয়াত ১৪:৫ শেষ হয়েছিল প্রত্যেক ধৈর্যশীল ও কৃতজ্ঞের জন্য নিদর্শনের কথা বলে। এ আয়াত দুটোরই উপকরণ জুগিয়ে দেয়।"
+          },
+          {
+            "en": "A general narration puts the two side by side, though it is not attached to this verse; the Ma'arif cites it on 14:5. Muslim records (2999) from Suhaib that the Messenger of Allah ﷺ said: \"Strange are the ways of a believer for there is good in every affair of his and this is not the case with anyone else except in the case of a believer for if he has an occasion to feel delight, he thanks (God), thus there is a good for him in it, and if he gets into trouble and shows resignation (and endures it patiently), there is a good for him in it.\"",
+            "bn": "একটি সাধারণ বর্ণনা এ দুটি বিষয়কে পাশাপাশি রাখে, যদিও তা এ আয়াতের সঙ্গে যুক্ত নয়। মাআরিফ এটি এনেছে ১৪:৫ আয়াতের আলোচনায়। মুসলিম (২৯৯৯) সুহাইব (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: \"মুমিনের ব্যাপারটা বড় আশ্চর্যের! তার সব ব্যাপারই তার জন্য কল্যাণকর। মুমিন ছাড়া আর কারও বেলায় এমনটা হয় না। সুখ এলে সে শোকর করে, তাতে তার কল্যাণ হয়। আর দুঃখ-কষ্ট এলে সে সবর করে, তাতেও তার কল্যাণ হয়।\""
+          },
+          {
+            "en": "The next verse, 14:7, carries the proclamation about gratitude and increase. Here the reminder stops a step earlier. Musa (AS) does not yet promise or warn; he asks his people to look back and see what they were brought out of. The Ma'arif, on 14:5, names two ways of bringing the disobedient back to the right path: putting the fear of punishment in their hearts, and reminding them of Allah's favours. This verse is the second way at work.",
+            "bn": "পরের আয়াত ১৪:৭-এ আছে শোকর ও বৃদ্ধির ঘোষণা। এখানে স্মরণ করানোটা থামে এক ধাপ আগে। মূসা (আঃ) এখনো কোনো প্রতিশ্রুতি বা সতর্কবাণী দেন না। তিনি কওমকে শুধু পেছন ফিরে দেখতে বলেন, কোন অবস্থা থেকে তাদের বের করে আনা হয়েছে। মাআরিফ ১৪:৫ আয়াতের আলোচনায় নাফরমানদের সঠিক পথে ফেরানোর দুটি উপায়ের কথা বলে: অন্তরে শাস্তির ভয় জাগানো, আর আল্লাহর নিয়ামতের কথা মনে করিয়ে দেওয়া। এ আয়াতে কাজ করছে দ্বিতীয় উপায়টা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Remembered, Not Avenged",
+          "bn": "মনে রাখা, প্রতিশোধ নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what Pharaoh's people did to the Children of Israel in that time, as the Qur'an reports it, and Allah's rescue of them from it. It licenses nothing against any living person or community: not against any people today counted as heirs of the oppressors, and not against any counted as heirs of the oppressed. The Qur'an tells the story so that its hearers remember a rescue and the One who gave it, not so that they nurse a grievance against anyone alive.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। কুরআন যেভাবে জানিয়েছে, আয়াতটি সেভাবেই বর্ণনা করে সে যুগে ফিরআউনের লোকেরা বনী ইসরাঈলের সঙ্গে কী করেছিল, আর আল্লাহ কীভাবে তাদের সেখান থেকে উদ্ধার করেছিলেন। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। আজ যাদের অত্যাচারীদের উত্তরসূরি ধরা হয় তাদের বিরুদ্ধেও না, আর যাদের অত্যাচারিতদের উত্তরসূরি ধরা হয় তাদের বিরুদ্ধেও না। কুরআন কাহিনিটা শোনায়, যাতে শ্রোতারা একটা উদ্ধার আর তার দাতাকে মনে রাখে। কোনো জীবিত মানুষের বিরুদ্ধে ক্ষোভ পুষে রাখার জন্য নয়।"
+          },
+          {
+            "en": "Notice too how Musa (AS) speaks of the torment. He names it fully, the worst of torment, the sons, the women, and he names it inside a sentence whose subject is Allah's favour. The suffering is not hidden to make the memory pleasant, and it is not the point of the memory either. For a reader with hard years behind them, the verse offers that order: say what happened, then say who brought you out, and meet both what hurt and what healed as a trial from your Lord, with patience and with thanks.",
+            "bn": "মূসা (আঃ) শাস্তির কথা কীভাবে বলছেন, সেটাও খেয়াল করুন। তিনি পুরোটাই বলেন: জঘন্যতম শাস্তি, ছেলেরা, নারীরা। কিন্তু বলেন এমন এক বাক্যের ভেতরে, যার মূল বিষয় আল্লাহর নিয়ামত। স্মৃতিটাকে মধুর বানাতে কষ্টটা লুকানো হয়নি, আবার কষ্টটাই স্মৃতির মূল কথাও নয়। যাঁর পেছনে কঠিন কিছু বছর আছে, তাঁর জন্য আয়াতটি এই ক্রম রেখে যায়। আগে বলুন কী ঘটেছিল, তারপর বলুন কে আপনাকে বের করে এনেছেন। আর যা কষ্ট দিয়েছিল আর যা সারিয়ে তুলেছিল, দুটোকেই আপনার রবের পরীক্ষা হিসেবে নিন, সবর আর শোকর দিয়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "14:7": {
     "sections": [
       {
