@@ -623,6 +623,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "14:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Messengers Take Their Turn",
+          "bn": "এবার রসূলদের পালা"
+        },
+        "p": [
+          {
+            "en": "Qalat rusuluhum: their messengers said. The verse before ended with the peoples of Nuh, 'Ad and Thamud, and those after them, telling their messengers that they were in disquieting doubt about what they were being called to (14:9). Ibn Kathir introduces it as Allah's account of the argument that passed between the disbelievers and their messengers: when the nations met them with doubt about what they had brought, the worship of Allah alone without partner, the messengers spoke.",
+            "bn": "কালাত রুসুলুহুম: তাদের রসূলগণ বললেন। আগের আয়াত শেষ হয়েছিল নূহ, আদ ও সামূদের জাতি এবং তাদের পরবর্তীদের কথায়। তারা রসূলদের বলেছিল, তোমরা যেদিকে ডাকছ, সে ব্যাপারে আমরা অস্বস্তিকর সন্দেহে আছি (১৪:৯)। ইবন কাসীর আয়াতটির পরিচয় দেন এভাবে: কাফির আর তাদের রসূলদের মধ্যে যে বিতর্ক চলেছিল, আল্লাহ তার খবর দিচ্ছেন। রসূলগণ এনেছিলেন শরীকহীন এক আল্লাহর ইবাদতের ডাক। জাতিগুলো যখন সে ডাকের সামনে সন্দেহ নিয়ে দাঁড়াল, তখনই রসূলগণ মুখ খুললেন।"
+          },
+          {
+            "en": "At-Tabari reads the speakers broadly: the messengers of the nations to whom their messengers came. No single prophet is named. The exchange is told as a pattern repeated across many peoples, and it runs in three turns. The messengers ask a question and describe the One they call to; the peoples answer with an objection and a demand; and in 14:11 the messengers answer again.",
+            "bn": "বক্তাদের তাবারী ধরেন ব্যাপক অর্থে: যেসব জাতির কাছে রসূল এসেছিলেন, সেসব জাতির রসূলগণ। কোনো একজন নবীর নাম এখানে নেই। কথোপকথনটা বলা হয়েছে এক ধাঁচ হিসেবে, যা বহু জাতির বেলায় বারবার ঘটেছে। এর তিনটি পালা। রসূলগণ একটি প্রশ্ন করেন এবং যাঁর দিকে ডাকছেন তাঁর পরিচয় দেন। জাতিগুলো জবাব দেয় একটা আপত্তি আর একটা দাবি দিয়ে। তারপর ১৪:১১ আয়াতে রসূলগণ আবার উত্তর দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question That Denies",
+          "bn": "প্রশ্নের ভেতরে অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "Afi-llahi shakkun: is there doubt about Allah? The form is a question, but the commentators agree it asks for no answer. Al-Qurtubi calls it an interrogative whose meaning is denial: there is no doubt about Allah. Al-Baghawi says it is a question in the sense of negating what they believed. They are telling the doubters that their doubt has no ground to stand on, and they put it as a question so that the hearers must face it themselves.",
+            "bn": "আফিল্লাহি শাক্কুন: আল্লাহ সম্পর্কে সন্দেহ? গঠনে এটা প্রশ্ন, কিন্তু তাফসীরকারেরা একমত যে এর কোনো উত্তর চাওয়া হচ্ছে না। কুরতুবী বলেন, এ প্রশ্নের অর্থ অস্বীকার: আল্লাহ সম্পর্কে কোনো সন্দেহ নেই। বাগাভী বলেন, প্রশ্নটা করা হয়েছে তারা যা বিশ্বাস করত তা নাকচ করার অর্থে। তাঁরা সন্দেহকারীদের জানিয়ে দিচ্ছেন, এ সন্দেহের দাঁড়ানোর মতো কোনো জমি নেই। কথাটা প্রশ্নের আকারে বলেছেন, যাতে শ্রোতাকে নিজেই এর মুখোমুখি হতে হয়।"
+          },
+          {
+            "en": "Doubt about what, though? Here the commentators divide. Ibn Kathir allows two meanings. The first is doubt about Allah's existence: human natures, he says, bear witness to it and are made to acknowledge it, though doubt and confusion may come over some of them, who then need to look at the evidence. The second is doubt about His divinity and His sole right to worship. Most nations, he says, affirmed a Maker but worshipped intermediaries alongside Him, thinking these would benefit them or bring them near to Allah.",
+            "bn": "কিন্তু সন্দেহটা কী নিয়ে? এখানে তাফসীরকারদের পথ আলাদা হয়ে যায়। ইবন কাসীর দুটি অর্থের সুযোগ রাখেন। প্রথমটি হলো আল্লাহর অস্তিত্ব নিয়ে সন্দেহ। তাঁর কথায়, মানুষের ফিতরাত নিজেই তাঁর অস্তিত্বের সাক্ষী, তা স্বীকার করার স্বভাব নিয়েই সে তৈরি। তবু কারও কারও মনে সন্দেহ আর দোলাচল এসে পড়তে পারে, তখন তাকে প্রমাণের দিকে তাকাতে হয়। দ্বিতীয় অর্থ হলো তাঁর উলূহিয়্যাত আর একমাত্র তাঁরই ইবাদত পাওয়ার হক নিয়ে সন্দেহ। ইবন কাসীর বলেন, অধিকাংশ জাতি একজন স্রষ্টাকে মানত। কিন্তু তাঁর সঙ্গে মধ্যস্থতাকারীদেরও পূজা করত, ভাবত এরা উপকার করবে বা আল্লাহর কাছাকাছি পৌঁছে দেবে।"
+          },
+          {
+            "en": "At-Tabari takes the second line alone: is there doubt that He is the one entitled to your worship and divinity, rather than any of His creation? The Muyassar has: doubt about Allah and His worship alone. Al-Qurtubi gives his own range. Qatada, he says, took it as doubt about Allah's oneness; it has been said, about obeying Him; and a third sense is possible, doubt about His power, since they agreed on that, and the verse's next words, Originator of the heavens and the earth, point to it.",
+            "bn": "তাবারী শুধু দ্বিতীয় পথটাই ধরেন: সৃষ্টির আর কেউ নয়, তিনিই যে তোমাদের ইবাদত আর উলূহিয়্যাতের হকদার, এতে কি সন্দেহ আছে? মুয়াসসারের ভাষায়: আল্লাহ এবং এককভাবে তাঁর ইবাদত নিয়ে সংশয়। কুরতুবী নিজের মতো করে কয়েকটি অর্থ দেখান। তিনি বলেন, কাতাদা এটাকে আল্লাহর তাওহীদ নিয়ে সন্দেহ বলে বুঝেছেন। কেউ কেউ বলেছেন, তাঁর আনুগত্য নিয়ে সন্দেহ। আর তৃতীয় একটি অর্থও হতে পারে: আল্লাহর কুদরত নিয়ে সন্দেহ, কারণ এ বিষয়ে তারা একমত ছিল। আয়াতের পরের শব্দগুলো, আসমান ও যমীনের স্রষ্টা, সেদিকেই ইঙ্গিত করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Originator, With No Model",
+          "bn": "নমুনা ছাড়াই সৃষ্টি যাঁর"
+        },
+        "p": [
+          {
+            "en": "Fatiri-s-samawati wa-l-ard: Originator of the heavens and the earth. At-Tabari glosses it simply as their Creator. Ibn Kathir and the Muyassar both add that He made them without any earlier model to follow. Al-Qurtubi stacks four words, their creator, inventor, producer and bringer into being after non-existence, and gives the purpose of the description: to draw attention to His power, so that worship may be for none but Him.",
+            "bn": "ফাতিরিস সামাওয়াতি ওয়াল আরদ: আসমানসমূহ ও যমীনের স্রষ্টা। তাবারী সোজা অর্থ দেন: এগুলোর সৃষ্টিকর্তা। ইবন কাসীর আর মুয়াসসার দুজনেই যোগ করেন, আগের কোনো নমুনা সামনে না রেখেই তিনি এগুলো বানিয়েছেন। কুরতুবী পরপর চারটি শব্দ ব্যবহার করেন: এগুলোর স্রষ্টা, উদ্ভাবক, নির্মাতা, আর অনস্তিত্বের পর অস্তিত্বদাতা। এ পরিচয়ের উদ্দেশ্যও তিনি বলে দেন: আল্লাহর কুদরতের দিকে মনোযোগ ফেরানো, যাতে ইবাদত তিনি ছাড়া আর কারও জন্য না হয়।"
+          },
+          {
+            "en": "Ibn Kathir explains why this answers the doubt. The messengers, he says, were guiding their peoples to the way of knowing Allah, because the marks of having a beginning, of being created and of being made to serve are plain on the heavens and the earth, so they must have a Maker. As-Sa'di turns the point around. Allah is the most evident and clearest of things. Whoever doubts the One on whose existence the existence of everything rests can have no confidence in anything he knows, not even what he senses.",
+            "bn": "এ কথা কীভাবে সন্দেহের জবাব হয়, ইবন কাসীর তা ব্যাখ্যা করেন। তাঁর মতে, রসূলগণ নিজ নিজ জাতিকে আল্লাহকে চেনার পথ দেখাচ্ছিলেন। আসমান আর যমীনের গায়ে স্পষ্ট লেখা আছে যে এদের শুরু আছে, এদের বানানো হয়েছে, এদের কাজে লাগানো হয়েছে। কাজেই এদের একজন নির্মাতা থাকতেই হবে। সা'দী কথাটাকে উল্টো দিক থেকে দেখেন। আল্লাহ সবচেয়ে প্রকাশ্য, সবচেয়ে স্পষ্ট সত্তা। সব কিছুর অস্তিত্ব যাঁর অস্তিত্বের উপর দাঁড়িয়ে, তাঁকে নিয়েই যে সন্দেহ করে, নিজের জানা কোনো কিছুর উপরই তার আর ভরসা থাকে না, এমনকি চোখে দেখা আর হাতে ছোঁয়া জিনিসের উপরও না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Caller Behind the Call",
+          "bn": "ডাকের পেছনে যিনি ডাকেন"
+        },
+        "p": [
+          {
+            "en": "That, as-Sa'di says, is why the messengers spoke to them as people speak of something no doubt can touch. Then comes yad'ukum: He calls you. The messengers are the ones speaking, but the subject of the verb is Allah. At-Tabari says He calls you to His oneness and to obeying Him. Al-Qurtubi says He calls you to His obedience through the messengers and the books. The Muyassar says He calls you to faith. The messengers carry a call that is not their own.",
+            "bn": "সা'দী বলেন, এ কারণেই রসূলগণ তাদের সঙ্গে এমনভাবে কথা বলেছেন, যেভাবে কেউ এমন বিষয়ে কথা বলে যাকে সন্দেহ ছুঁতেই পারে না। তারপর আসে ইয়াদউকুম: তিনি তোমাদের ডাকছেন। কথা বলছেন রসূলগণ, কিন্তু ক্রিয়ার কর্তা আল্লাহ। তাবারী বলেন, তিনি তোমাদের ডাকছেন তাঁর তাওহীদ আর আনুগত্যের দিকে। কুরতুবীর কথায়, রসূল আর কিতাবের মাধ্যমে তিনি তোমাদের ডাকছেন তাঁর আনুগত্যের দিকে। মুয়াসসার বলে, ঈমানের দিকে। রসূলগণ যে ডাক বয়ে আনছেন, সেটা তাঁদের নিজেদের ডাক নয়।"
+          },
+          {
+            "en": "As-Sa'di reads the verb by what it aims at: He calls you to your own benefits and interests, so that He may reward you for answering with a reward both near and deferred. Then he states the point the whole clause carries: He did not call you in order to profit from your worship; the benefit returns to you. It echoes 14:8, where Musa (AS) tells his people that if they and everyone on earth disbelieve, Allah is free of need and praiseworthy.",
+            "bn": "সা'দী ক্রিয়াটি পড়েন তার লক্ষ্য দিয়ে: তিনি তোমাদের ডাকছেন তোমাদেরই উপকার আর কল্যাণের দিকে, যাতে ডাকে সাড়া দেওয়ার বিনিময়ে তোমাদের প্রতিদান দেন, এখনকার প্রতিদানও, পরের প্রতিদানও। তারপর তিনি পুরো বাক্যাংশের মূল কথাটা বলে দেন: তোমাদের ইবাদত থেকে লাভবান হওয়ার জন্য তিনি তোমাদের ডাকেননি, লাভটা ফিরে আসে তোমাদেরই কাছে। কথাটা মনে করিয়ে দেয় ১৪:৮ আয়াত। সেখানে মূসা (আঃ) তাঁর জাতিকে বলেন, তোমরা আর পৃথিবীর সবাই মিলে কুফরি করলেও আল্লাহ অমুখাপেক্ষী, প্রশংসিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Some of Your Sins, or All",
+          "bn": "কিছু গুনাহ, নাকি সব"
+        },
+        "p": [
+          {
+            "en": "Li-yaghfira lakum min dhunubikum: so that He may forgive you of your sins. The small word min, usually 'of' or 'from', is the point at issue. At-Tabari explains the clause without pausing on the word: He will cover for you some of your sins by pardoning them, and will not punish you for them. In his gloss the forgiveness reaches part of the sins, which is the partitive sense of min, though he names no grammatical term and does not argue for it.",
+            "bn": "লিয়াগফিরা লাকুম মিন যুনূবিকুম: যাতে তিনি তোমাদের গুনাহ থেকে মাফ করেন। আলোচনার কেন্দ্রে ছোট্ট শব্দ মিন, সাধারণত যার অর্থ 'থেকে'। তাবারী শব্দটির উপর না থেমেই বাক্যাংশের ব্যাখ্যা দেন: তিনি ক্ষমা করে তোমাদের কিছু গুনাহ ঢেকে দেবেন, সেগুলোর জন্য তোমাদের শাস্তি দেবেন না। তাঁর ব্যাখ্যায় মাগফিরাত পৌঁছায় গুনাহের একাংশ পর্যন্ত। মিনের এই অর্থকেই বলে আংশিকতা বোঝানো। তবে তাবারী কোনো ব্যাকরণগত পরিভাষা ব্যবহার করেননি, এর পক্ষে যুক্তিও দেননি।"
+          },
+          {
+            "en": "Al-Qurtubi sets out the views by name. Abu 'Ubayd, he reports, said that min here is extra, so that the meaning is simply 'your sins'. Sibawayh said it is partitive, and added that the part may be mentioned when the whole is meant. It has also been said, al-Qurtubi goes on, that min marks exchange and is neither extra nor partitive: the forgiveness is to stand in place of the sins. Al-Baghawi takes the first view outright: the meaning is your sins, and min is a connective adding no sense.",
+            "bn": "কুরতুবী মতগুলো নাম ধরে সাজিয়ে দেন। তিনি জানান, আবু উবাইদ বলেছেন এখানে মিন অতিরিক্ত, ফলে অর্থ দাঁড়ায় শুধু 'তোমাদের গুনাহ'। সীবাওয়াইহ বলেছেন, মিন আংশিকতা বোঝায়। সঙ্গে তিনি যোগ করেছেন, অংশের উল্লেখ করে পুরোটাও বোঝানো যায়। কুরতুবী আরও বলেন, কারও কারও মতে মিন এখানে বদল বোঝায়, অতিরিক্তও নয়, আংশিকও নয়। অর্থাৎ গুনাহের জায়গায় আসবে মাগফিরাত। বাগাভী সরাসরি প্রথম মতটি নেন: অর্থ হলো তোমাদের গুনাহ, আর মিন এখানে কেবল সংযোগের শব্দ, আলাদা কোনো অর্থ যোগ করে না।"
+          },
+          {
+            "en": "The Muyassar answers from the context instead: He calls you to faith so that He may forgive you the shirk you committed before. On that reading the sins in view are those already done, which answering the call would wipe away. The commentators leave the question where it stands, and so does this article: a partitive min with Sibawayh and in at-Tabari's gloss, an extra min with Abu 'Ubayd and al-Baghawi, and a min of exchange reported without a name.",
+            "bn": "মুয়াসসার জবাব খোঁজে প্রসঙ্গ থেকে: তিনি তোমাদের ঈমানের দিকে ডাকছেন, যাতে আগে যে শিরক করেছ তা মাফ করে দেন। এ পাঠে আলোচনার গুনাহগুলো হলো আগেই করে ফেলা গুনাহ, ডাকে সাড়া দিলে যা মুছে যাবে। তাফসীরকারেরা প্রশ্নটা যেখানে ছিল সেখানেই রেখে দিয়েছেন, এ লেখাও তাই রাখছে। সীবাওয়াইহের মতে এবং তাবারীর ব্যাখ্যায় মিন আংশিক। আবু উবাইদ আর বাগাভীর মতে মিন অতিরিক্ত। আর কারও নাম ছাড়া বর্ণিত হয়েছে বদলের মত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Respite Until a Named Term",
+          "bn": "নির্ধারিত সময় পর্যন্ত অবকাশ"
+        },
+        "p": [
+          {
+            "en": "Wa-yu'akhkhirakum ila ajalin musamma: and defer you to a named term. At-Tabari explains: He extends your terms, and does not punish you in this present life so as to destroy you, but defers you to the time He wrote in the Mother of the Book that He would take you, which is the term He named for you. Al-Qurtubi says the term means death, so that He does not punish you in this world. Al-Baghawi says until your terms are fulfilled, so that He does not hasten punishment upon you.",
+            "bn": "ওয়া ইউআখখিরাকুম ইলা আজালিম মুসাম্মা: আর একটা নির্ধারিত মেয়াদ পর্যন্ত তোমাদের অবকাশ দেন। তাবারীর ব্যাখ্যা: তিনি তোমাদের আয়ু বাড়িয়ে দেন। দুনিয়াতেই শাস্তি দিয়ে তোমাদের ধ্বংস করে দেন না। বরং উম্মুল কিতাবে যে সময়ে তোমাদের তুলে নেওয়ার কথা তিনি লিখে রেখেছেন, সে সময় পর্যন্ত তোমাদের অবকাশ দেন। এটাই সেই মেয়াদ, যা তিনি তোমাদের জন্য নির্দিষ্ট করেছেন। কুরতুবী বলেন, মেয়াদ মানে মৃত্যু, ফলে দুনিয়াতে তিনি তোমাদের শাস্তি দেবেন না। বাগাভীর কথায়, তোমাদের আয়ু পূর্ণ হওয়া পর্যন্ত, তিনি তাড়াহুড়া করে তোমাদের উপর শাস্তি নামাবেন না।"
+          },
+          {
+            "en": "The Muyassar names the punishment set aside: He repels from you the punishment of uprooting, and defers your stay in this world to a term He decreed, the end of your lifespans. Ibn Kathir divides the two promises between two worlds: the forgiveness is in the Hereafter, the deferral in this world. He cites 11:3, where the hearers are told to seek their Lord's forgiveness and turn to Him, so that He gives them good enjoyment to a named term.",
+            "bn": "মুয়াসসার কোন শাস্তি সরিয়ে রাখা হচ্ছে তার নাম বলে: সমূলে উৎখাতের শাস্তি তিনি তোমাদের থেকে ঠেকিয়ে রাখবেন, আর দুনিয়াতে তোমাদের থাকার মেয়াদ পিছিয়ে দেবেন তাঁর নির্ধারিত সময় পর্যন্ত, অর্থাৎ তোমাদের আয়ুর শেষ পর্যন্ত। ইবন কাসীর দুটি প্রতিশ্রুতিকে দুই জগতে ভাগ করেন। মাগফিরাত আখিরাতে, অবকাশ দুনিয়াতে। তিনি ১১:৩ আয়াত উদ্ধৃত করেন। সেখানে শ্রোতাদের বলা হয়েছে, রবের কাছে ইস্তিগফার করো, তারপর তাঁর দিকে ফিরে এসো, তিনি একটা নির্ধারিত মেয়াদ পর্যন্ত তোমাদের উত্তম জীবন উপভোগ করতে দেবেন।"
+          },
+          {
+            "en": "Set beside the verses that follow, the offer has weight. In 14:13 the disbelievers threaten to drive their messengers out, and Allah reveals to the messengers that He will destroy the wrongdoers. The deferral offered here is, on at-Tabari's and the Muyassar's readings, release from exactly that: a punishment that cuts a people off before their time. The messengers lead with forgiveness and time before any warning is spoken. Only after the peoples have answered with a threat does the passage speak of destruction.",
+            "bn": "পরের আয়াতগুলোর পাশে রাখলে প্রস্তাবটার ওজন বোঝা যায়। ১৪:১৩ আয়াতে কাফিররা রসূলদের দেশ থেকে বের করে দেওয়ার হুমকি দেয়, আর আল্লাহ রসূলদের কাছে ওহী পাঠান যে তিনি যালিমদের ধ্বংস করবেন। তাবারী আর মুয়াসসারের পাঠ অনুযায়ী, এখানে যে অবকাশের প্রস্তাব, তা ঠিক ওই শাস্তি থেকেই মুক্তি, যে শাস্তি একটা জাতিকে সময়ের আগেই শেষ করে দেয়। কোনো সতর্কবাণী উচ্চারণের আগেই রসূলগণ সামনে রাখেন মাগফিরাত আর অবকাশ। জাতিগুলো হুমকি দিয়ে জবাব দেওয়ার পরই কেবল এ অংশে ধ্বংসের কথা আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only Men Like Us",
+          "bn": "আমাদেরই মতো মানুষ মাত্র"
+        },
+        "p": [
+          {
+            "en": "Qalu in antum illa basharun mithluna: they said, you are nothing but humans like us. At-Tabari specifies the likeness: in form and appearance, and you are not angels. Al-Qurtubi adds that you eat what we eat and drink what we drink. The Muyassar gives the objection its force: your traits are like ours, and you have no merit over us that would qualify you to be messengers. As-Sa'di puts it as their question: how can you be preferred over us with prophethood?",
+            "bn": "কালূ ইন আনতুম ইল্লা বাশারুম মিসলুনা: তারা বলল, তোমরা তো আমাদেরই মতো মানুষ ছাড়া কিছু নও। মিলটা কোথায়, তাবারী তা স্পষ্ট করেন: চেহারায় আর গড়নে, তোমরা ফেরেশতা নও। কুরতুবী যোগ করেন, আমরা যা খাই তোমরাও তা খাও, আমরা যা পান করি তোমরাও তা পান করো। মুয়াসসার আপত্তিটার ধার দেখায়: তোমাদের গুণাবলি আমাদের মতোই, আমাদের উপর তোমাদের এমন কোনো শ্রেষ্ঠত্ব নেই যা তোমাদের রসূল হওয়ার যোগ্য করে। সা'দী তাদের কথাটা প্রশ্নের আকারে সাজান: নবুওয়াত দিয়ে তোমাদের আমাদের উপর মর্যাদা দেওয়া হবে কীভাবে?"
+          },
+          {
+            "en": "Then comes the motive they assign: turiduna an tasudduna 'amma kana ya'budu aba'una, you want to turn us away from what our fathers used to worship. At-Tabari and al-Qurtubi name it as idols. As-Sa'di hears two questions in it: how should we leave our fathers' view and way for yours, and how should we obey you when you are humans like us? Ibn Kathir notices a shift. The peoples now argue against the station of messengership itself, on the supposition that they had conceded the first point.",
+            "bn": "তারপর তারা রসূলদের উদ্দেশ্য নিয়ে কথা তোলে: তুরীদূনা আন তাসুদ্দূনা আম্মা কানা ইয়া'বুদু আবাউনা, আমাদের বাপদাদারা যার ইবাদত করত, তোমরা তা থেকে আমাদের ফিরিয়ে রাখতে চাও। তাবারী আর কুরতুবী সেটাকে মূর্তি বলে চিহ্নিত করেন। সা'দী এর মধ্যে দুটি প্রশ্ন শোনেন। বাপদাদার মত আর পথ ছেড়ে আমরা তোমাদের মত ধরব কেন? আর তোমরা আমাদেরই মতো মানুষ, তোমাদের কথা মানব কেন? ইবন কাসীর এখানে একটা মোড় লক্ষ করেন। প্রথম বিষয়টা মেনে নিয়েছে ধরে নিলেও, জাতিগুলো এবার রিসালাতের মর্যাদাটাকেই চ্যালেঞ্জ করছে।"
+          },
+          {
+            "en": "The answer in 14:11 sits very close to this objection. The messengers do not deny the likeness: we are only humans like you, they say, but Allah confers favour on whom He wills of His servants. Ibn Kathir reads the favour as prophethood and messengership, given by His choice. The peoples had said 'humans like us' to close the matter. The messengers grant every word of it and show that it settles nothing, because the question was never who they were but who had sent them.",
+            "bn": "১৪:১১ আয়াতের জবাব এ আপত্তির খুব কাছাকাছি। রসূলগণ মিলটা অস্বীকার করেন না। তাঁরা বলেন, আমরা তোমাদের মতোই মানুষ মাত্র, কিন্তু আল্লাহ তাঁর বান্দাদের মধ্যে যাকে ইচ্ছা অনুগ্রহ করেন। ইবন কাসীর এ অনুগ্রহকে বোঝেন নবুওয়াত আর রিসালাত হিসেবে, যা তিনি নিজের ইচ্ছায় দেন। জাতিগুলো 'আমাদের মতো মানুষ' বলেছিল আলোচনা শেষ করে দিতে। রসূলগণ কথাটার প্রতিটি শব্দ মেনে নেন, আর দেখিয়ে দেন যে এতে কিছুই মীমাংসা হয় না। কারণ প্রশ্নটা কখনো ছিল না তাঁরা কে, প্রশ্ন ছিল কে তাঁদের পাঠিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proof Chosen by the Doubters",
+          "bn": "সন্দেহকারীদের পছন্দের প্রমাণ"
+        },
+        "p": [
+          {
+            "en": "Fa'tuna bi-sultanin mubin: so bring us a clear authority. At-Tabari reads sultan as an argument that would make the truth of their claim plain, so that we know you are right, and al-Baghawi likewise as a clear proof of your claim. Ibn Kathir and as-Sa'di see more in the demand. For Ibn Kathir it means a wonder that we propose to you. As-Sa'di says they wanted a proof of their own proposing, since, as the previous verse had said, their messengers had already come to them with clear proofs.",
+            "bn": "ফা'তূনা বিসুলতানিম মুবীন: তাহলে আমাদের কাছে স্পষ্ট প্রমাণ নিয়ে এসো। তাবারী সুলতানের অর্থ করেন এমন যুক্তি, যা তোমাদের দাবির সত্যতা পরিষ্কার করে দেবে, যাতে আমরা জানতে পারি তোমরা ঠিক বলছ। বাগাভীও একইভাবে বলেন, তোমাদের দাবির পক্ষে স্পষ্ট দলীল। ইবন কাসীর আর সা'দী দাবিটার মধ্যে আরও কিছু দেখেন। ইবন কাসীরের মতে এর অর্থ, আমরা যে অলৌকিক কাজের প্রস্তাব দেব, সেটা দেখাও। সা'দী বলেন, তারা চাইছিল নিজেদের প্রস্তাব করা প্রমাণ। নইলে আগের আয়াতেই তো বলা হয়েছে, রসূলগণ তাদের কাছে স্পষ্ট প্রমাণ নিয়েই এসেছিলেন।"
+          },
+          {
+            "en": "Al-Qurtubi calls the demand absurd on their part, because the messengers never called anyone without miracles accompanying them. In 14:11 the messengers answer this too: it is not for us to bring you an authority except by Allah's permission. Ibn Kathir reads it as an authority of your choosing, which comes only when Allah grants it. The messengers claim no power of their own. Nothing in the verse or its neighbours suggests any fault on their side; the commentators locate the failing in a demand that had already been met.",
+            "bn": "কুরতুবী তাদের এ দাবিকে অবান্তর বলেন, কারণ রসূলগণ কখনো মু'জিযা ছাড়া কাউকে ডাকেননি। ১৪:১১ আয়াতে রসূলগণ এরও জবাব দেন: আল্লাহর অনুমতি ছাড়া তোমাদের কাছে কোনো প্রমাণ নিয়ে আসা আমাদের কাজ নয়। ইবন কাসীর বোঝেন, তোমাদের পছন্দমতো প্রমাণ আসে কেবল তখনই, যখন আল্লাহ তা দেন। রসূলগণ নিজেদের কোনো ক্ষমতার দাবি করেন না। আয়াতে বা তার আশপাশের আয়াতে তাঁদের দিক থেকে কোনো ত্রুটির ইঙ্গিত নেই। তাফসীরকারেরা ঘাটতিটা দেখেন এমন এক দাবির মধ্যে, যা আগেই পূরণ হয়ে গিয়েছিল।"
+          },
+          {
+            "en": "This needs saying plainly. The verse records what past peoples said to their messengers, and it licenses nothing against any person or community living now, and nobody may be cast as these peoples on its strength. None of the commentaries fetched for this verse attaches a sound hadith to it. What the verse leaves the reader is a test of hearing: whether a call to forgiveness and respite is weighed by what it says and who sent it, or dismissed because its bearer looks too ordinary.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জানায়, অতীতের কিছু জাতি তাদের রসূলদের কী বলেছিল। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। এর জোরে কাউকে ওই জাতিগুলোর জায়গায় বসানো যায় না। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। পাঠকের জন্য আয়াতটি রেখে যায় শোনার এক পরীক্ষা। মাগফিরাত আর অবকাশের ডাক এলে আমি কি তা মাপি তার কথা আর প্রেরকের পরিচয় দিয়ে? নাকি বাহককে খুব সাধারণ মনে হয় বলে ফিরিয়ে দিই?"
+          }
+        ]
+      }
+    ]
+  },
   "14:13": {
     "sections": [
       {

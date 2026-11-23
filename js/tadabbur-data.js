@@ -33023,6 +33023,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Take the precaution a careful person would take, then rely on Allah rather than on it, since no plan of yours can turn aside what He decides.",
     "lessonBn": "একজন বিবেচক মানুষ যে সাবধানতা নেয়, তা নিন। তারপর ভরসা করুন সেই সাবধানতার উপর নয়, আল্লাহর উপর। কারণ তিনি যা ফয়সালা করেন, আপনার কোনো পরিকল্পনা তা ফেরাতে পারে না।"
+  },
+  "14:10": {
+    "reflectionEn": "The peoples had said they were in deep doubt. The messengers answer with a question: is there doubt about Allah, the Originator of the heavens and the earth? They point to a sky and an earth that no one claims to have made. Then they describe the One being doubted: He is calling you, so that He may forgive you your sins and give you time until a named term. The reply ignores all of it and looks at the messengers instead: you are only men like us. Have I ever turned from a true word because I thought little of the one who said it? And when I hear the call to obey, do I hear a burden, or an offer made for my own good?",
+    "reflectionBn": "জাতিগুলো বলেছিল, তারা গভীর সন্দেহে আছে। রসূলগণ জবাব দিলেন একটা প্রশ্ন দিয়ে: আল্লাহ সম্পর্কে সন্দেহ? যিনি আসমান আর যমীনের স্রষ্টা? দেখিয়ে দিয়েছেন আকাশ আর পৃথিবী, যা বানানোর দাবি কেউ কখনো করেনি। তারপর বলেছেন, যাঁকে নিয়ে সন্দেহ, তিনি কী করছেন: তিনি তোমাদের ডাকছেন, যেন তোমাদের গুনাহ মাফ করেন আর একটা নির্ধারিত সময় পর্যন্ত অবকাশ দেন। জবাবে তারা এসবের কিছুই ছুঁয়ে দেখল না, তাকাল রসূলদের দিকে: তোমরা তো আমাদেরই মতো মানুষ। আমি কি কখনো সত্য কথা ফিরিয়ে দিয়েছি শুধু এ কারণে যে বক্তাকে আমার কাছে সামান্য মনে হয়েছে? আর আনুগত্যের ডাক যখন কানে আসে, আমি কি তাতে বোঝা শুনি, নাকি আমারই কল্যাণে দেওয়া এক প্রস্তাব?",
+    "pointsEn": [
+      "When a doubt about Allah troubles me, have I looked at the heavens and the earth with the same care I give to the doubt?",
+      "Do I hear the call to obey Allah as a demand made on me, or as an offer made for my own good?",
+      "Which sins am I still carrying that I could bring to Him today, while the term He has named for me is still running?",
+      "Have I ever set aside a sound word because the person who said it seemed too ordinary, too familiar, or too much like me?",
+      "Is there anything I hold to only because the people before me held it, and have never once examined?"
+    ],
+    "pointsBn": [
+      "আল্লাহ সম্পর্কে কোনো সন্দেহ যখন মনে খচখচ করে, আসমান আর যমীনের দিকে কি আমি ততটা মনোযোগ দিয়ে তাকিয়েছি, যতটা মনোযোগ দিই সন্দেহটার দিকে?",
+      "আল্লাহর আনুগত্যের ডাককে আমি কি আমার উপর চাপানো দাবি হিসেবে শুনি, নাকি আমারই কল্যাণের প্রস্তাব হিসেবে?",
+      "কোন কোন গুনাহ আমি এখনো বয়ে বেড়াচ্ছি, যা আজই তাঁর কাছে নিয়ে যেতে পারি, যতক্ষণ তাঁর ঠিক করে দেওয়া সময় শেষ হয়নি?",
+      "বক্তাকে খুব সাধারণ, খুব চেনা বা একেবারে আমার মতোই মনে হয়েছে বলে কি কখনো কোনো সঠিক কথা সরিয়ে রেখেছি?",
+      "এমন কিছু কি আছে, যা আমি আঁকড়ে আছি শুধু আগের লোকেরা আঁকড়ে ছিল বলে, অথচ একবারও যাচাই করে দেখিনি?"
+    ],
+    "lessonEn": "Answer doubt by looking at what Allah has made, and hear His call as an offer of forgiveness and time, not a burden laid on you.",
+    "lessonBn": "সন্দেহের জবাব খুঁজুন আল্লাহর সৃষ্টির দিকে তাকিয়ে, আর তাঁর ডাককে বোঝা মনে না করে শুনুন মাগফিরাত ও অবকাশের প্রস্তাব হিসেবে।"
   }
 };
 
