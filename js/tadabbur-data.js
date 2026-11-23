@@ -31403,6 +31403,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Judge a truth by what it says, not by who was chosen to bring it, and leave the choosing to Allah, who knows best where to place His gifts.",
     "lessonBn": "সত্যকে বিচার করুন তার কথা দিয়ে, কাকে দিয়ে তা পাঠানো হলো তা দিয়ে নয়। আর বাছাইয়ের ভার আল্লাহর উপর ছেড়ে দিন, তিনিই ভালো জানেন তাঁর দান কোথায় রাখবেন।"
+  },
+  "6:65": {
+    "reflectionEn": "The verse before this one ends on a rescue: Allah saves you from the darkness of land and sea, and then you set partners beside Him. Now the same Lord names what He is able to do instead. Punishment from above, punishment from under your feet, or something closer than either: to be mixed into factions, each made to taste the other's violence. The first two fall on a people from outside. The third grows inside it, out of desires and quarrels, and needs no storm. When it came down, the Prophet ﷺ sought refuge from the first two and called the third lighter. Lighter is not light. It is the one we feed or starve, by what we say about each other and whose side we take.",
+    "reflectionBn": "আগের আয়াত শেষ হয়েছে উদ্ধারের কথায়। জলে-স্থলের অন্ধকার থেকে আল্লাহ বাঁচান, আর তারপর মানুষ তাঁর সঙ্গে শরিক বসায়। এবার সেই রবই জানিয়ে দেন, এর বদলে তিনি কী করতে পারেন। উপর থেকে আযাব, পায়ের নিচ থেকে আযাব, অথবা এ দুইয়ের চেয়েও কাছের কিছু: মানুষকে দলে দলে মিশিয়ে দেওয়া, যাতে এক দল অন্য দলের মার খেয়ে তার স্বাদ পায়। প্রথম দুটো বাইরে থেকে নেমে আসে। তৃতীয়টা জন্মায় ভেতরেই, খেয়ালখুশি আর ঝগড়া থেকে, এর জন্য কোনো ঝড়ের দরকার হয় না। আয়াতটি নাযিল হলে নবী ﷺ প্রথম দুটো থেকে আশ্রয় চেয়েছিলেন, আর তৃতীয়টাকে বলেছিলেন তুলনায় হালকা। হালকা মানে কিন্তু তুচ্ছ নয়। এই আযাবটাকে আমরা বাড়াতেও পারি, থামাতেও পারি: একে অন্যের সম্পর্কে কী বলি, আর কার পক্ষ নিই, তা দিয়ে।",
+    "pointsEn": [
+      "When a hardship has passed and I feel safe again, does the safety make me grateful, or careless of the One who removed it?",
+      "In the disagreements around me this month, have I helped a quarrel cool down, or carried it from one room to the next?",
+      "Do I hear a person only after I know which side they are on, so that the group decides for me what is true?",
+      "What have I said about a fellow believer this week that I would excuse as just words, though it sharpened someone's anger?",
+      "When I ask Allah for protection, do I also ask to be kept from becoming the means by which harm reaches others?"
+    ],
+    "pointsBn": [
+      "বিপদ কেটে গিয়ে যখন আবার নিরাপদ বোধ করি, সেই নিরাপত্তা কি আমাকে কৃতজ্ঞ বানায়, নাকি যিনি বিপদ সরালেন তাঁর কথাই ভুলিয়ে দেয়?",
+      "এ মাসে আমার চারপাশের মতভেদগুলোতে আমি কি কোনো ঝগড়া ঠান্ডা করতে সাহায্য করেছি, নাকি এক ঘর থেকে আরেক ঘরে বয়ে নিয়ে গেছি?",
+      "কেউ কোন দলের, তা জানার পরেই কি আমি তার কথা শুনি, যাতে সত্য কোনটা তা আমার হয়ে দলটাই ঠিক করে দেয়?",
+      "এ সপ্তাহে কোনো মুমিন ভাইবোন সম্পর্কে আমি এমন কী বলেছি, যাকে নিছক কথা বলে পার পেতে চাই, অথচ তা কারও রাগ আরও উসকে দিয়েছে?",
+      "আল্লাহর কাছে হেফাজত চাওয়ার সময় আমি কি এটাও চাই, যেন অন্যের ক্ষতি পৌঁছানোর মাধ্যম আমি নিজে না হয়ে যাই?"
+    ],
+    "lessonEn": "Take Allah's power to punish seriously enough to seek refuge from it, and guard most against the punishment that grows from within: faction, desire and turning on one another.",
+    "lessonBn": "আল্লাহর শাস্তি দেওয়ার ক্ষমতাকে এতটা গুরুত্ব দিন যে তা থেকে আশ্রয় চান, আর সবচেয়ে বেশি সাবধান থাকুন ভেতর থেকে জন্মানো শাস্তি থেকে: দলাদলি, খেয়ালখুশি আর একে অন্যের উপর চড়াও হওয়া।"
   }
 };
 

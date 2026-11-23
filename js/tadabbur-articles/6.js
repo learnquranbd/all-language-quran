@@ -3271,6 +3271,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:65": {
+    "sections": [
+      {
+        "h": {
+          "en": "Rescued, Then Put on Notice",
+          "bn": "উদ্ধারের পরেই হুঁশিয়ারি"
+        },
+        "p": [
+          {
+            "en": "This verse begins where 6:64 stopped. Allah saves you from the darkness of land and sea and from every distress, and then you set partners beside Him. At-Tabari has the Prophet ﷺ told to say it to those who make idols equal to their Lord: He who rescues you, after which you return to shirk, is able to send a punishment on you from above you or from beneath your feet, for your shirk and for your ingratitude towards His favours.",
+            "bn": "৬:৬৪ যেখানে থেমেছে, এ আয়াত সেখান থেকেই শুরু। জলে-স্থলের অন্ধকার আর সব বিপদ থেকে আল্লাহ বাঁচান, তারপর মানুষ তাঁর সঙ্গে শরিক বসায়। তাবারী বলেন, যারা মূর্তিকে তাদের রবের সমান বানায়, তাদেরকেই কথাটা শোনাতে নবী ﷺ-কে আদেশ করা হয়েছে। যিনি তোমাদের উদ্ধার করেন আর তারপর তোমরা আবার শিরকে ফিরে যাও, তিনি তোমাদের উপর উপর থেকে বা পায়ের নিচ থেকে আযাব পাঠাতে সক্ষম। কারণ তোমাদের শিরক, আর তাঁর নিয়ামতের প্রতি তোমাদের অকৃতজ্ঞতা।"
+          },
+          {
+            "en": "Al-Qurtubi puts the link in a single clause: He who can rescue you from distress can also punish you. As-Sa'di reads it as power to punish from every direction, and draws the warning: beware of staying on in disobedience to Him. Ibn Kathir sets beside it 17:66 to 17:69, on people rescued at sea who turn away on reaching land, a rescue the article on 6:63 has already walked through.",
+            "bn": "কুরতুবী সম্পর্কটা এক কথায় বলে দেন: যিনি বিপদ থেকে বাঁচাতে পারেন, তিনি শাস্তিও দিতে পারেন। সা'দী এখানে দেখেন সব দিক থেকে শাস্তি দেওয়ার ক্ষমতা, আর সতর্কবাণীটা টানেন: তাঁর নাফরমানিতে টিকে থাকা থেকে সাবধান। ইবন কাসীর এর পাশে রাখেন ১৭:৬৬ থেকে ১৭:৬৯ আয়াত, যেখানে সাগর থেকে রক্ষা পাওয়া মানুষ ডাঙায় উঠেই মুখ ফিরিয়ে নেয়। সেই উদ্ধারের কথা ৬:৬৩ আয়াতের প্রবন্ধে বলা হয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stones Above, Ground Giving Way",
+          "bn": "উপরে পাথর, নিচে ধস"
+        },
+        "p": [
+          {
+            "en": "On the first two threats the commonest reading is also the plainest. Ibn Kathir names Sa'id ibn Jubayr, Abu Malik, Mujahid, as-Suddi and Ibn Zayd for the reading that the punishment from above is stoning and the punishment from beneath is the earth swallowing a people, and adds that this was at-Tabari's choice. Al-Qurtubi, citing Mujahid, Ibn Jubayr and others, widens the first: stones, flood, the Shout and the wind, as were sent on 'Ad, Thamud, the people of Shu'ayb, of Lut and of Nuh.",
+            "bn": "প্রথম দুটি হুমকির সবচেয়ে প্রচলিত ব্যাখ্যাটি সরল। ইবন কাসীর সাঈদ ইবন জুবাইর, আবু মালিক, মুজাহিদ, সুদ্দী আর ইবন যায়দের নাম নিয়ে বলেন: উপরের আযাব মানে পাথর বর্ষণ, আর নিচের আযাব মানে মাটি কোনো জাতিকে গিলে ফেলা। সঙ্গে জানান, তাবারীও এই মতটিই বেছে নিয়েছেন। কুরতুবী মুজাহিদ, ইবন জুবাইর ও অন্যদের সূত্রে প্রথমটিকে আরও বিস্তৃত করেন: পাথর, প্লাবন, বিকট আওয়াজ আর বাতাস। যেমন এসেছিল আদ, সামূদ, শুআইব (আঃ)-এর জাতি, লূত (আঃ)-এর জাতি আর নূহ (আঃ)-এর জাতির উপর।"
+          },
+          {
+            "en": "For what comes from beneath the feet, al-Qurtubi gives the earth caving in and the violent tremor, as with Qarun and the people of Madyan; al-Baghawi says the same, naming Qarun and the people of Shu'ayb. The Muyassar keeps the plain gloss: from above, such as stoning or a flood; from beneath, such as earthquakes and the ground giving way. Ma'arif al-Qur'an adds a note on grammar: 'adhaban comes indefinite and with tanwin, which tells the reader that each of these kinds may take many forms.",
+            "bn": "পায়ের নিচ থেকে যা আসে, কুরতুবী তার উদাহরণ দেন ভূমিধস আর প্রচণ্ড কম্পন, যেমন হয়েছিল কারূন আর মাদয়ানবাসীর বেলায়। বাগাভীও একই কথা বলেন, নাম নেন কারূন আর শুআইব (আঃ)-এর জাতির। মুয়াসসার সাদামাটা ব্যাখ্যায় থাকে: উপর থেকে, যেমন পাথর বর্ষণ বা প্লাবন। নিচ থেকে, যেমন ভূমিকম্প আর মাটি দেবে যাওয়া। মাআরিফুল কুরআন এখানে ব্যাকরণের একটা দিক দেখায়। 'আযাবান' শব্দটি অনির্দিষ্ট, তানউইনসহ এসেছে। এতে বোঝা যায়, এই প্রতিটি ধরনের আযাব নানা রূপে আসতে পারে।"
+          },
+          {
+            "en": "At-Tabari, through Ibn Zayd, relays that Ibn Mas'ud (RA) would cry out in a gathering or from the pulpit: O people, it has come down upon you. Had a punishment come from the sky, or had the earth swallowed you, none of you would have been left; it is the worst of the three that has come down upon you. The hadith below uses the opposite word, lighter. The two are weighing different things, and neither makes the factions small.",
+            "bn": "তাবারী ইবন যায়দের সূত্রে বর্ণনা করেন, ইবন মাসঊদ (রাঃ) মজলিসে বা মিম্বারে দাঁড়িয়ে চিৎকার করে বলতেন: হে লোকেরা, তা তোমাদের উপর নেমে এসেছে। আকাশ থেকে আযাব এলে বা মাটি তোমাদের গিলে ফেললে তোমাদের কেউ বাঁচত না। তিনটির মধ্যে সবচেয়ে মন্দটাই তোমাদের উপর নেমে এসেছে। সামনের হাদীসে এর উল্টো শব্দটা আছে, অপেক্ষাকৃত হালকা। দুটি কথা আসলে দুটি আলাদা জিনিস মাপছে। তবে দলাদলিকে কোনোটিই ছোট করে দেখায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rulers Above, Servants Beneath",
+          "bn": "উপরে শাসক, নিচে অধীন"
+        },
+        "p": [
+          {
+            "en": "A second reading moves the threat from nature into society. At-Tabari records from Ibn 'Abbas (RA), through 'Amir ibn 'Abd ar-Rahman, that the punishment from above is evil leaders and the punishment from beneath is evil servants; and through 'Ali ibn Abi Talha, that it is your rulers above and the lowest of you below. Al-Baghawi and al-Qurtubi give the same from Ibn 'Abbas and Mujahid: tyrannical rulers over you, bad servants under you.",
+            "bn": "দ্বিতীয় একটি ব্যাখ্যা হুমকিটাকে প্রকৃতি থেকে সমাজের ভেতরে নিয়ে আসে। তাবারী আমির ইবন আবদির রহমানের সূত্রে ইবন আব্বাস (রাঃ)-এর কথা উদ্ধৃত করেন: উপরের আযাব হলো মন্দ নেতা, আর নিচের আযাব মন্দ খাদেম। আলী ইবন আবী তালহার সূত্রে: উপরে তোমাদের শাসকেরা, নিচে তোমাদের মধ্যকার নীচু লোকেরা। বাগাভী ও কুরতুবী ইবন আব্বাস ও মুজাহিদ থেকে একই কথা আনেন: উপরে জালিম শাসক, নিচে অসৎ চাকর।"
+          },
+          {
+            "en": "At-Tabari does not throw this out. He grants that what is reported from Ibn 'Abbas has a sound sense, yet prefers the first reading: stoning, flood and the like falling from overhead, and the earth caving in underfoot. His reason is the language. Above and beneath the feet, in the speech of the Arabs, mean exactly that, and when a passage is disputed it is better carried on its commonest, best-known sense unless a binding proof says otherwise. Ibn Kathir agrees, and points to 67:16 and 67:17, on the earth swallowing and a storm of stones.",
+            "bn": "তাবারী এ ব্যাখ্যা বাতিল করে দেন না। তিনি মানেন, ইবন আব্বাস থেকে যা বর্ণিত, তার একটা সঠিক দিক আছে। তবু তিনি প্রথম ব্যাখ্যাটিকেই অগ্রাধিকার দেন: মাথার উপর থেকে পাথর, প্লাবন বা এ জাতীয় কিছু, আর পায়ের নিচে মাটি ধসে যাওয়া। তাঁর যুক্তি ভাষাগত। আরবদের কথায় উপর আর পায়ের নিচ বলতে ঠিক এটাই বোঝায়। কোনো আয়াতের অর্থ নিয়ে মতভেদ হলে তার সবচেয়ে প্রচলিত ও পরিচিত অর্থটাই নেওয়া উত্তম, যদি না মানতে বাধ্য করে এমন কোনো দলিল অন্য কথা বলে। ইবন কাসীরও একমত, আর তিনি দেখান ৬৭:১৬ ও ৬৭:১৭ আয়াত, যেখানে মাটি গিলে ফেলা আর পাথরের ঝড়ের কথা আছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an holds that the readings do not conflict, since the word for punishment takes them all in: stones, flood and the oppression of rulers come from above; the ground swallowing and harm from subordinates come from beneath. It also draws a remedy. Hardship from those over us and under us calls each person to look at his own deeds, leave the paths of error and stop disobeying Allah, rather than trusting worldly means alone.",
+            "bn": "মাআরিফুল কুরআনের মতে এই ব্যাখ্যাগুলোর মধ্যে বিরোধ নেই, কারণ আযাব শব্দটা সবগুলোকেই ধারণ করে। পাথর, প্লাবন আর শাসকের জুলুম আসে উপর থেকে। মাটি গিলে ফেলা আর অধীনদের হাতে ক্ষতি আসে নিচ থেকে। মাআরিফ একটা প্রতিকারও দেখায়। উপরের বা নিচের লোকের হাতে যে কষ্ট আসে, তা প্রত্যেককে ডাকে নিজের আমলের দিকে তাকাতে, ভুল পথ ছাড়তে আর আল্লাহর নাফরমানি বন্ধ করতে। শুধু দুনিয়াবি উপায়ের উপর ভরসা করে থাকলে চলবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mixed Up Into Parties",
+          "bn": "জট পাকিয়ে দলে দলে"
+        },
+        "p": [
+          {
+            "en": "Aw yalbisakum shiya'an. Ibn Kathir quotes al-Bukhari's gloss: yalbisakum means mixes you, from iltibas, and shiya'an means groups. At-Tabari explains the root. It is labasa 'alayhi al-amr, to confound a matter for someone, and not labisa, to wear, since the readers agree on a kasrah under the ba. So the verse means to mix you into differing desires and separated parties.",
+            "bn": "আও ইয়ালবিসাকুম শিয়াআন। ইবন কাসীর বুখারীর ব্যাখ্যা উদ্ধৃত করেন: ইয়ালবিসাকুম মানে তোমাদের মিশিয়ে দেবেন, শব্দটি এসেছে ইলতিবাস থেকে। আর শিয়াআন মানে দল। তাবারী ধাতুটা খুলে বলেন। এটা লাবাসা আলাইহিল আমর থেকে, অর্থাৎ কারও কাছে কোনো বিষয় জট পাকিয়ে দেওয়া। লাবিসা, অর্থাৎ পরিধান করা, থেকে নয়। কারণ কারীগণ সবাই এখানে বা অক্ষরের নিচে যের পড়েন। কাজেই অর্থ দাঁড়ায়: তোমাদের মিশিয়ে দেবেন নানা খেয়ালখুশি আর বিচ্ছিন্ন দলে।"
+          },
+          {
+            "en": "What divides them, the early readers name as desires. Ibn Kathir reports from Ibn 'Abbas, through al-Walibi, that the factions are the ahwa', and says Mujahid and others said the same; at-Tabari has Ibn 'Abbas say desires and disagreement. Mujahid also says: the trials and disagreement that arose among you. Ibn Zayd, in at-Tabari, points to his own day: what people are in now, of disagreement, desires and shedding each other's blood. Al-Qurtubi records a view that the confusion comes as leaders split apart in pursuit of the world.",
+            "bn": "মানুষকে যা ভাগ করে, প্রথম যুগের ব্যাখ্যাকারেরা তার নাম দেন খেয়ালখুশি। ইবন কাসীর ওয়ালিবীর সূত্রে ইবন আব্বাস থেকে বর্ণনা করেন, দলগুলো মানে আহওয়া, অর্থাৎ প্রবৃত্তির টান। তিনি বলেন, মুজাহিদ ও আরও অনেকে একই কথা বলেছেন। তাবারীর বর্ণনায় ইবন আব্বাস বলেন: খেয়ালখুশি আর মতবিরোধ। মুজাহিদ আরও বলেন: তোমাদের মধ্যে যে ফিতনা আর মতভেদ দেখা দিয়েছে। তাবারীর বর্ণনায় ইবন যায়দ নিজের সময়ের দিকে আঙুল তোলেন: মানুষ এখন যে মতবিরোধ, খেয়ালখুশি আর পরস্পরের রক্ত ঝরানোর মধ্যে আছে। কুরতুবী একটি মত উল্লেখ করেন যে এই জট পাকে তখন, যখন নেতারা দুনিয়ার পেছনে ছুটে আলাদা হয়ে যায়।"
+          },
+          {
+            "en": "Then wa yudhiqa ba'dakum ba'sa ba'd: and make some of you taste the might of others. At-Tabari reads it as killing at each other's hands, and explains the image. The Arabs say a man made another taste death, or taste his force, when he struck him down; the word began with the tasting of food and came to mean anything that reaches a person, sweet or bitter. As-Suddi says: with swords. 'Awf al-Bikali, in at-Tabari, says: by Allah, it is men with spears in their hands, stabbing at your sides.",
+            "bn": "তারপর ওয়া ইউযীকা বা'দাকুম বা'সা বা'দ: আর তোমাদের একদলকে অন্যদলের মারের স্বাদ চাখাবেন। তাবারীর কাছে এর মানে একে অন্যের হাতে খুন হওয়া। ছবিটাও তিনি খুলে বলেন। আরবরা বলে, অমুক অমুককে মৃত্যুর স্বাদ চাখিয়েছে বা তার শক্তির স্বাদ চাখিয়েছে, যখন সে তাকে মেরে ফেলে। শব্দটার শুরু খাবার চেখে দেখা থেকে, পরে তা মানুষের কাছে পৌঁছানো সব কিছুর জন্য ব্যবহার হতে থাকে, মিষ্টি হোক বা তেতো। সুদ্দী বলেন: তলোয়ার দিয়ে। তাবারীর বর্ণনায় আওফ আল-বিকালী বলেন: আল্লাহর কসম, এরা সেই লোক যাদের হাতে বর্শা, তোমাদের পাঁজরে বিঁধিয়ে দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Twice a Refuge, Then Lighter",
+          "bn": "দুবার আশ্রয়, তারপর হালকা"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari records in his Sahih (4628) from Jabir (RA): When this verse came down, 'Say: He is able to send upon you a punishment from above you,' Allah's Messenger ﷺ said, 'I seek refuge in Your Face.' 'Or from beneath your feet': he said, 'I seek refuge in Your Face.' 'Or confuse you into factions and make some of you taste the might of others': Allah's Messenger ﷺ said, 'This is lighter,' or, 'This is easier.' The article on 6:63 quotes it too.",
+            "bn": "বুখারী তাঁর সহীহ গ্রন্থে (৪৬২৮) জাবির (রাঃ) থেকে বর্ণনা করেন: যখন এই আয়াত নাযিল হলো, 'বলো, তিনি তোমাদের উপর উপর থেকে আযাব পাঠাতে সক্ষম', তখন আল্লাহর রাসূল ﷺ বললেন, 'আমি আপনার চেহারার আশ্রয় চাই।' 'অথবা তোমাদের পায়ের নিচ থেকে', তিনি বললেন, 'আমি আপনার চেহারার আশ্রয় চাই।' 'অথবা তোমাদের দলে দলে মিশিয়ে দেবেন আর একদলকে অন্যদলের মারের স্বাদ চাখাবেন', আল্লাহর রাসূল ﷺ বললেন, 'এটা অপেক্ষাকৃত হালকা', অথবা বললেন, 'এটা অপেক্ষাকৃত সহজ।' ৬:৬৩ আয়াতের প্রবন্ধেও এটি উদ্ধৃত হয়েছে।"
+          },
+          {
+            "en": "At-Tirmidhi records from Khabbab ibn al-Aratt (RA) that the Prophet ﷺ made a prayer long, and when asked about it said: 'Yes, it was a prayer of hope and fear. I asked Allah in it for three things; He gave me two and withheld one. I asked Him not to destroy my Ummah by famine, and He gave me that. I asked Him not to set over them an enemy from outside them, and He gave me that. And I asked Him not to make some of them taste the might of others, and He withheld it.' He grades it hasan gharib sahih (2175).",
+            "bn": "তিরমিযী খাব্বাব ইবনুল আরাত (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ একবার নামায অনেক দীর্ঘ করলেন। এ নিয়ে জিজ্ঞেস করা হলে তিনি বললেন: 'হ্যাঁ, এটা ছিল আশা আর ভয়ের নামায। এতে আমি আল্লাহর কাছে তিনটি জিনিস চেয়েছি। তিনি আমাকে দুটি দিয়েছেন, একটি দেননি। চেয়েছি, তিনি যেন আমার উম্মতকে দুর্ভিক্ষে ধ্বংস না করেন, তিনি তা দিয়েছেন। চেয়েছি, তিনি যেন বাইরের কোনো শত্রুকে তাদের উপর চাপিয়ে না দেন, তিনি তা দিয়েছেন। আর চেয়েছি, তিনি যেন তাদের একদলকে অন্যদলের মারের স্বাদ না চাখান, এটা তিনি দেননি।' তিরমিযী একে হাসান গরীব সহীহ বলেছেন (২১৭৫)।"
+          },
+          {
+            "en": "Muslim records three requests from Sa'd ibn Abi Waqqas (2890), with drowning among them, and from Thawban (2889) a fuller account: no outside enemy would be given power to wipe the Ummah out, even if gathered from every region, until some of them were destroying others and taking others captive. Ibn Kathir and al-Baghawi bring Sa'd's report here, al-Qurtubi Thawban's. A report from Sa'd that at-Tirmidhi called gharib, and an unsourced story about Jibril in al-Qurtubi, are only noted.",
+            "bn": "মুসলিম সা'দ ইবন আবী ওয়াক্কাস (রাঃ) থেকেও তিনটি প্রার্থনার কথা বর্ণনা করেন (২৮৯০), যার একটি ডুবে ধ্বংস না হওয়া। আর সাওবান (রাঃ) থেকে (২৮৮৯) আনেন আরও বিস্তারিত বর্ণনা: সারা দুনিয়া থেকে জড়ো হলেও বাইরের কোনো শত্রুকে উম্মতকে নিশ্চিহ্ন করার ক্ষমতা দেওয়া হবে না, যতক্ষণ না তারা নিজেরাই একে অন্যকে ধ্বংস করে আর বন্দী করে। ইবন কাসীর ও বাগাভী সা'দের বর্ণনাটি এখানে এনেছেন, কুরতুবী এনেছেন সাওবানেরটি। সা'দের আরেকটি বর্ণনা, যাকে তিরমিযী গরীব বলেছেন, আর কুরতুবীতে জিবরীল (আঃ)-কে নিয়ে সূত্রহীন একটি কাহিনি, এখানে শুধু উল্লেখ করা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Idolaters, Believers, or Both",
+          "bn": "মুশরিক, মুমিন, নাকি উভয়ই"
+        },
+        "p": [
+          {
+            "en": "The commentators differ over whom the verse addresses, and al-Hasan is reported in several ways. Ibn Kathir has him say: this is for the idolaters. At-Tabari has him split it: the punishment from above and beneath is for the idolaters, the factions and the violence are for the Muslims. Al-Baghawi reports from al-Hasan and Qatadah that it came down about the people of faith, and al-Qurtubi has al-Hasan say it concerns the people of the prayer. Mujahid says the first two were meant for the Ummah of Muhammad ﷺ, and Allah spared them.",
+            "bn": "আয়াতটি কাদের উদ্দেশে, তা নিয়ে তাফসীরকারদের মতভেদ আছে। হাসানের মতও একাধিকভাবে বর্ণিত। ইবন কাসীরের বর্ণনায় তিনি বলেন: এটা মুশরিকদের জন্য। তাবারীর বর্ণনায় তিনি ভাগ করে দেন: উপর ও নিচের আযাব মুশরিকদের জন্য, আর দলাদলি ও পরস্পরের মার মুসলমানদের জন্য। বাগাভী হাসান ও কাতাদা থেকে বর্ণনা করেন যে আয়াতটি ঈমানদারদের সম্পর্কে নাযিল হয়েছে। কুরতুবীর বর্ণনায় হাসান বলেন, এটা নামাযি লোকদের ব্যাপারে। মুজাহিদ বলেন, প্রথম দুটি ছিল মুহাম্মাদ ﷺ-এর উম্মতের জন্য, আর আল্লাহ তাদের তা থেকে রেহাই দিয়েছেন।"
+          },
+          {
+            "en": "At-Tabari's own view is that the verse threatens the idol-worshippers and speaks to them, since it sits between 6:64, which says they associate partners, and 6:66, which says your people denied it, and believers could not be the deniers. Yet the threat reaches all who take their road. He reads the three requests as the Prophet ﷺ asking that his Ummah be shielded from what earlier nations had earned; Allah shielded them from the harshest, though not from two. Al-Qurtubi calls the verse general, yet holds al-Hasan's reading correct, since it is what is seen.",
+            "bn": "তাবারীর নিজের মত হলো, আয়াতটি মূর্তিপূজারীদের হুমকি দেয় এবং তাদেরকেই সম্বোধন করে। কারণ এটা দুটি আয়াতের মাঝখানে: ৬:৬৪, যেখানে বলা হয়েছে তারা শিরক করে, আর ৬:৬৬, যেখানে বলা হয়েছে তোমার কওম একে মিথ্যা বলেছে। আর মুমিনরা তো অস্বীকারকারী হতে পারে না। তবে যে-ই তাদের পথ ধরে, হুমকি তার পর্যন্তও পৌঁছায়। তিনটি প্রার্থনার হাদীসকে তিনি এভাবে মেলান: আগের জাতিগুলো যা কামিয়েছিল, নবী ﷺ তা থেকে উম্মতের হেফাজত চেয়েছিলেন। আল্লাহ সবচেয়ে কঠিনটি থেকে রক্ষা করেছেন, তবে দুটি থেকে নয়। কুরতুবী আয়াতটিকে সবার জন্য সাধারণ বলেন, তবু হাসানের ব্যাখ্যাকেই সঠিক ধরেন, কারণ বাস্তবে সেটাই দেখা যাচ্ছে।"
+          },
+          {
+            "en": "Some early reports count four punishments. Ubayy ibn Ka'b (RA), in at-Tabari, says two came twenty-five years after the Prophet's death, the factions and the violence, and two must still come, the swallowing and the stoning; at-Tabari gives Abu al-'Aliya's version as swallowing and transformation. This article assigns no events to those words. As-Sa'di frames it as mercy: Allah lifted stoning and swallowing from this Ummah, but punished whom He punished by setting some over others, an immediate punishment that those who take heed can see.",
+            "bn": "প্রথম যুগের কিছু বর্ণনায় আযাবকে চারটি গণনা করা হয়েছে। তাবারীর বর্ণনায় উবাই ইবন কা'ব (রাঃ) বলেন, দুটি এসে গেছে নবী ﷺ-এর ইন্তেকালের পঁচিশ বছর পর: দলাদলি আর পরস্পরের মার। আর দুটি অবশ্যই আসবে: মাটিতে ধসে যাওয়া আর পাথর বর্ষণ। তাবারী আবুল আলিয়ার বর্ণনায় শেষ দুটির নাম দেন ধসে যাওয়া আর আকৃতি বিকৃতি। এই কথাগুলোকে এ প্রবন্ধ কোনো নির্দিষ্ট ঘটনার সঙ্গে জোড়ে না। সা'দী বিষয়টাকে দেখেন রহমত হিসেবে। আল্লাহ এই উম্মত থেকে পাথর বর্ষণ আর ভূমিধস তুলে নিয়েছেন। তবে যাদের শাস্তি দেওয়ার, তাদের শাস্তি দিয়েছেন একদলকে অন্যদলের উপর চাপিয়ে দিয়ে। এ এমন তাৎক্ষণিক শাস্তি, যা শিক্ষা নিতে চাওয়া মানুষেরা দেখতে পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning, Not a Label",
+          "bn": "সতর্কবাণী, তকমা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse names a punishment; it does not hand anyone a list of who is under it. It gives no licence to point at any group of Muslims living today and call them the factions of this verse, to read a war, a quake or a flood in any land as proof that its people are condemned, or to treat a believer as an enemy because he stands in another camp. Ibn Zayd and al-Qurtubi spoke of what they saw in their own day; neither handed a later reader a verdict on his neighbours.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি আযাবের নাম বলে, কারা সেই আযাবে আছে তার কোনো তালিকা কারও হাতে তুলে দেয় না। আজকের মুসলমানদের কোনো দলকে আঙুল দিয়ে দেখিয়ে এ আয়াতের সেই দল বলার অনুমতি এখানে নেই। কোনো দেশে যুদ্ধ, ভূমিকম্প বা বন্যা হলে তাকে সেখানকার মানুষের অভিশপ্ত হওয়ার প্রমাণ ধরার অনুমতিও নেই। অন্য শিবিরে আছে বলে কোনো মুমিনকে শত্রু ভাবারও কোনো সুযোগ নেই। ইবন যায়দ আর কুরতুবী নিজেদের সময়ে যা দেখেছেন, তা-ই বলেছেন। পরের যুগের পাঠকের হাতে প্রতিবেশীর বিরুদ্ধে কোনো রায় তাঁরা তুলে দেননি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws a line that matters here. The difference it counts as a punishment is difference in principles and beliefs, or difference driven by self-interest, desires and whims. It does not include difference of opinion reached by ijtihad under the principles of the Qur'an and Sunnah, as among the jurists, whose aim was the pleasure of Allah and whose differences need never turn into confrontation. On this reading the verse warns against the fight and the faction, not against a careful second opinion.",
+            "bn": "মাআরিফুল কুরআন এখানে একটা জরুরি সীমারেখা টানে। যে মতভেদকে আযাব বলা হয়েছে, তা হলো মূলনীতি ও আকীদার মতভেদ, অথবা স্বার্থ, প্রবৃত্তি আর খেয়ালখুশি থেকে জন্মানো মতভেদ। কুরআন-সুন্নাহর মূলনীতির ভেতরে থেকে ইজতিহাদ করে যে মতপার্থক্য হয়, যেমন ফকীহদের মধ্যে, তা এর অন্তর্ভুক্ত নয়। তাঁদের লক্ষ্য ছিল আল্লাহর সন্তুষ্টি, আর তাঁদের মতপার্থক্য কখনো সংঘাতে গড়ানোর কথা নয়। এ ব্যাখ্যায় আয়াতটি সতর্ক করে লড়াই আর দলাদলি থেকে, সতর্কতার সঙ্গে দেওয়া ভিন্নমত থেকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Signs Turned Every Way",
+          "bn": "নানা দিক থেকে নিদর্শন"
+        },
+        "p": [
+          {
+            "en": "The verse closes: look how We vary the signs, that they may understand. At-Tabari has the Prophet ﷺ told to look with the eye of his heart at how Allah turns His arguments over for those who deny their Lord, so that they take heed and leave their idols. As-Sa'di reads it as bringing the signs in many forms, all pointing to the truth, and the understanding as grasping what they were created for.",
+            "bn": "আয়াতটি শেষ হয়: দেখো, আমি নিদর্শনগুলো কেমন নানাভাবে বর্ণনা করি, যাতে তারা বুঝতে পারে। তাবারী বলেন, নবী ﷺ-কে বলা হচ্ছে অন্তরের চোখ দিয়ে দেখতে, যারা নিজেদের রবকে অস্বীকার করে তাদের সামনে আল্লাহ কীভাবে তাঁর প্রমাণগুলো ঘুরিয়ে ফিরিয়ে আনেন, যাতে তারা শিক্ষা নেয় আর মূর্তি ছেড়ে দেয়। সা'দীর মতে এর মানে নিদর্শনগুলোকে নানা রূপে আনা, যার সবগুলোই সত্যের দিকে ইশারা করে। আর বোঝা মানে, তাদের কী জন্য সৃষ্টি করা হয়েছে, সেটা উপলব্ধি করা।"
+          },
+          {
+            "en": "Al-Qurtubi brings here a supplication Ibn Majah records (3871) from Ibn 'Umar, without a grading, not tied to this verse by its own wording: morning and evening the Prophet ﷺ asked to be guarded on every side and from above, and sought refuge from being struck down from beneath. From the first two threats he sought refuge. The third, the one not lifted, still waits on what each of us says about others and whose side we take.",
+            "bn": "কুরতুবী এখানে একটি দোয়া আনেন, যা ইবন মাজাহ (৩৮৭১) ইবন উমার (রাঃ) থেকে বর্ণনা করেছেন, কোনো মান উল্লেখ না করে। দোয়াটির শব্দে এই আয়াতের উল্লেখ নেই। প্রতি সকাল-সন্ধ্যায় নবী ﷺ সব দিক থেকে আর উপর থেকে হেফাজত চাইতেন, আর আশ্রয় চাইতেন নিচ থেকে আকস্মিক আঘাত আসা থেকে। প্রথম দুটি হুমকি থেকে তিনি আশ্রয় চেয়েছিলেন। তৃতীয়টি, যা তুলে নেওয়া হয়নি, এখনো নির্ভর করে আমরা প্রত্যেকে অন্যদের সম্পর্কে কী বলি আর কার পক্ষ নিই, তার উপর।"
+          }
+        ]
+      }
+    ]
+  },
   "6:68-69": {
     "sections": [
       {
