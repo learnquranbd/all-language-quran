@@ -31363,6 +31363,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Stop making your faith wait for one more sign; act on the proofs already in your hands, and ask Allah for the guidance that no spectacle can give.",
     "lessonBn": "আর একটা নিদর্শনের অপেক্ষায় ঈমানকে আটকে রাখবেন না। হাতে যে প্রমাণ আছে তা নিয়েই আমল করুন, আর আল্লাহর কাছে সেই হিদায়াত চান যা কোনো অলৌকিক দৃশ্য দিতে পারে না।"
+  },
+  "6:76": {
+    "reflectionEn": "Night comes down over Ibrahim and a star appears against the dark. He says, this is my lord. Then it sets, and he says the words the verse turns on: I do not love the ones that set. He does not shout at the star or at the people who honoured it. He stays with it until it shows what it is, and then names the flaw that no brightness can cover: it leaves. Whatever goes away cannot keep watch over the one who leans on it. The verse hands me the same test for my own life. What have I given my heart to that shines tonight and is gone by morning? And when I correct someone, do I let the truth show itself, or only raise my voice?",
+    "reflectionBn": "রাত নেমে এসে ইবরাহীম (আঃ)-কে ঢেকে ফেলে, আর অন্ধকারের গায়ে জ্বলে ওঠে একটি তারা। তিনি বলেন, এ আমার রব। তারপর তারাটি ডুবে যায়, আর তিনি সেই কথাটি বলেন যার উপর পুরো আয়াত দাঁড়িয়ে: যারা ডুবে যায়, তাদের আমি ভালোবাসি না। তারার উপর তিনি চেঁচামেচি করেন না, যারা তাকে সম্মান করত তাদের উপরও না। তারাটির সঙ্গে থাকেন, যতক্ষণ না সে নিজের আসল চেহারা দেখিয়ে দেয়। তারপর তার এমন দোষ ধরিয়ে দেন যা কোনো আলো ঢাকতে পারে না: সে চলে যায়। যে চলে যায়, সে তার উপর ভরসাকারীকে পাহারা দিতে পারে না। আয়াতটি আমার হাতেও একই পরীক্ষা তুলে দেয়। আজ রাতে ঝলমল করে আর সকালে হারিয়ে যায়, এমন কী জিনিসকে আমি মন দিয়ে বসে আছি? আর কাউকে শোধরাতে গিয়ে আমি কি সত্যকে নিজে থেকে ফুটে উঠতে দিই, নাকি কেবল গলা চড়াই?",
+    "pointsEn": [
+      "What am I leaning on this year that is bright now but has its setting already built in: an income, a person, my health, my good name?",
+      "When I love something, have I asked whether it will still be there in the hour I need it most?",
+      "When someone I care about holds a mistaken view, do I walk with them until the truth shows, or attack before they can see it?",
+      "Which habit would I drop if I looked honestly at what it leaves me with once it is gone?",
+      "Do I turn to the One who does not set in the dark hours as readily as in the bright ones?"
+    ],
+    "pointsBn": [
+      "এ বছর আমি কিসের উপর ভর দিয়ে আছি, যা এখন উজ্জ্বল কিন্তু যার ডুবে যাওয়া আগে থেকেই লেখা: উপার্জন, কোনো মানুষ, শরীরের সুস্থতা, নাকি নিজের সুনাম?",
+      "কোনো কিছুকে ভালোবাসার সময় আমি কি ভেবে দেখি, সবচেয়ে দরকারের মুহূর্তে সেটা আমার পাশে থাকবে কি না?",
+      "প্রিয় কেউ ভুল ধারণা আঁকড়ে থাকলে আমি কি তার পাশে থেকে সত্যটা স্পষ্ট হওয়া পর্যন্ত অপেক্ষা করি, নাকি সে বোঝার আগেই আক্রমণ করে বসি?",
+      "কোন অভ্যাসটা চলে যাওয়ার পর আমার হাতে কী রেখে যায়, সৎভাবে দেখলে কোনটা আমি ছেড়ে দিতাম?",
+      "উজ্জ্বল সময়ের মতো অন্ধকার সময়েও কি আমি সেই সত্তার দিকে ফিরি, যিনি কখনো ডুবে যান না?"
+    ],
+    "lessonEn": "Give your deepest love and reliance only to the One who never sets, and test everything else you lean on by asking whether it will still be there.",
+    "lessonBn": "গভীরতম ভালোবাসা আর ভরসা কেবল তাঁকেই দিন যিনি কখনো অস্ত যান না। আর যার উপরই ভর দেন, যাচাই করে নিন: দরকারের দিনে সে থাকবে তো?"
   }
 };
 

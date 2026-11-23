@@ -3735,6 +3735,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:76": {
+    "sections": [
+      {
+        "h": {
+          "en": "When Night Covered Him",
+          "bn": "রাত যখন তাঁকে ঢেকে দিল"
+        },
+        "p": [
+          {
+            "en": "Fa-lamma janna 'alayhi al-laylu ra'a kawkaban: so when the night covered him, he saw a star. The verse follows 6:74, where Ibrahim (AS) tells his father Azar that he sees him and his people in manifest error, and 6:75, where Allah shows him the dominion of the heavens and the earth so that he would be among the certain. Al-Qurtubi marks a seam here: the star, he says, is a separate episode from the showing of the dominion.",
+            "bn": "ফালাম্মা জান্না আলাইহিল লাইলু রাআ কাওকাবা: রাত যখন তাঁকে ঢেকে দিল, তিনি একটি তারা দেখলেন। এর আগে ৬:৭৪ আয়াতে ইবরাহীম (আঃ) পিতা আযরকে বলেছেন, তিনি তাঁকে আর তাঁর জাতিকে স্পষ্ট পথভ্রষ্টতায় দেখছেন। তারপর ৬:৭৫ আয়াতে আল্লাহ তাঁকে আসমান ও জমিনের রাজত্ব দেখিয়েছেন, যাতে তিনি দৃঢ় বিশ্বাসীদের একজন হন। কুরতুবী এখানে একটা সীমারেখা টানেন। তাঁর মতে তারার ঘটনাটি রাজত্ব দেখানোর ঘটনা থেকে আলাদা।"
+          },
+          {
+            "en": "Janna means covered. Al-Qurtubi says the night hid him in its darkness, and lists words built on the same sense of covering: janna for a garden, janin for the unborn child, mijann for a shield, and jinn. At-Tabari adds that the jinn are so named because they are hidden from human eyes, that one says ajnantu al-mayyit on laying the dead in the grave, and that the shield is a mijann because it covers whoever shelters behind it.",
+            "bn": "জান্না মানে ঢেকে ফেলা। কুরতুবী বলেন, রাত তার আঁধার দিয়ে তাঁকে আড়াল করল। একই আড়ালের অর্থ থেকে আসা কয়েকটি শব্দও তিনি গুনিয়ে দেন: বাগানকে বলে জান্নাত, মায়ের পেটের শিশুকে জানীন, ঢালকে মিজান্ন, আর আছে জিন। তাবারী যোগ করেন, জিনদের এই নাম কারণ তারা মানুষের চোখের আড়ালে থাকে। মৃতকে কবরে শুইয়ে দিলে আরবরা বলে আজনানতুল মায়্যিত। আর ঢালের নাম মিজান্ন, কারণ যে তার পেছনে আশ্রয় নেয়, ঢাল তাকে ঢেকে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Light Rose First",
+          "bn": "প্রথমে কোন আলো উঠল"
+        },
+        "p": [
+          {
+            "en": "The verse says only kawkab, a star. As-Sa'di suggests it was one of the bright ones, since singling it out implies it stood above the rest, and adds, with \"Allah knows best\", that this is why some said it was Venus. Al-Qurtubi names Jupiter or Venus, then the moon, then the sun, and says it was the end of the month. Al-Baghawi gives the reason that detail matters: on such a night the moon rose late, so the star was seen before it.",
+            "bn": "আয়াতে শুধু আছে কাওকাব, একটি তারা। সা'দীর ধারণা, এটি উজ্জ্বল তারাগুলোর একটি, কারণ আলাদা করে উল্লেখ করা মানে অন্যদের চেয়ে তার আলো বেশি। তারপর 'আল্লাহই ভালো জানেন' বলে যোগ করেন, এ কারণেই কেউ কেউ একে শুক্রগ্রহ বলেছেন। কুরতুবী বলেন বৃহস্পতি অথবা শুক্র, তারপর চাঁদ, তারপর সূর্য। তিনি জানান, সময়টা ছিল মাসের শেষ দিক। এই খুঁটিনাটির গুরুত্ব বাগাভী বুঝিয়ে দেন: এমন রাতে চাঁদ ওঠে দেরিতে, তাই চাঁদের আগে তারাটি চোখে পড়েছিল।"
+          },
+          {
+            "en": "Then falamma afala, when it set. At-Tabari relays from Ibn Ishaq that uful is going away, and explains that the verb is used of a star when it disappears; The Muyassar renders Ibrahim's reply as: I do not love the gods that disappear. Qatada, quoted by both at-Tabari and Ibn Kathir, reads the line as a conclusion already reached: Ibrahim knew that his Lord is lasting and does not pass away.",
+            "bn": "তারপর ফালাম্মা আফালা, যখন তা অস্ত গেল। তাবারী ইবন ইসহাক থেকে বর্ণনা করেন, উফূল মানে চলে যাওয়া। তিনি ব্যাখ্যা দেন, তারা চোখের আড়াল হলে আরবরা এ ক্রিয়া ব্যবহার করে। মুয়াসসার ইবরাহীম (আঃ)-এর জবাবটা এভাবে বলে: যেসব উপাস্য হারিয়ে যায়, তাদের আমি ভালোবাসি না। তাবারী আর ইবন কাসীর দুজনেই কাতাদার কথা আনেন। কাতাদা বাক্যটিকে পড়েন এক পাকা সিদ্ধান্ত হিসেবে: ইবরাহীম জানতেন, তাঁর রব চিরস্থায়ী, তিনি কখনো সরে যান না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hadha Rabbi, Read Two Ways",
+          "bn": "হাযা রাব্বী: দুই পাঠ"
+        },
+        "p": [
+          {
+            "en": "Qala hadha rabbi: he said, this is my lord. Here the commentators divide. At-Tabari relays a report from Ibn Abbas, through Ali ibn Abi Talha, that the dominion shown in 6:75 means the sun, the moon and the stars, and that Ibrahim, on seeing the star, worshipped it until it set and then said, I do not love those that set. The report runs the same course with the moon and the sun and ends with 6:78: O my people, I am free of what you associate.",
+            "bn": "কালা হাযা রাব্বী: তিনি বললেন, এ আমার রব। এখানে এসে তাফসীরকারেরা দুই ভাগ হয়ে যান। তাবারী আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা আনেন। তাতে বলা হয়েছে, ৬:৭৫ আয়াতে দেখানো রাজত্ব মানে সূর্য, চাঁদ আর তারা। আর বর্ণনা অনুযায়ী, তারাটি দেখে ইবরাহীম তার ইবাদত করলেন যতক্ষণ না তা অস্ত গেল, তারপর বললেন, যারা অস্ত যায় তাদের আমি ভালোবাসি না। চাঁদ ও সূর্যের বেলাতেও বর্ণনাটি একই পথে চলে, আর শেষ হয় ৬:৭৮ আয়াতে: হে আমার জাতি, তোমরা যাদের শরিক করো তাদের থেকে আমি মুক্ত।"
+          },
+          {
+            "en": "At-Tabari then sets out an objection from a group he places outside the people of narration: a prophet chosen for the message could not have passed any time as an adult without affirming Allah's oneness. In their reading Ibrahim was faulting his people, since star, moon and sun outshine the idols and still set. At-Tabari's own verdict goes the other way. Ibrahim's words when the moon set, unless my Lord guides me, show these readings are mistaken, he says; the right course is to affirm what Allah reported of him and leave aside what goes beyond it.",
+            "bn": "এরপর তাবারী একটি দলের আপত্তি তুলে ধরেন, যাদের তিনি বর্ণনাবিদদের অন্তর্ভুক্ত বলে গণ্য করেন না। তাদের কথা: রিসালাতের জন্য বাছাই করা নবীর জীবনে প্রাপ্তবয়সে এমন কোনো সময় আসতে পারে না, যখন তিনি আল্লাহর একত্ব মানেননি। তাদের ব্যাখ্যায় ইবরাহীম (আঃ) আসলে জাতির দোষ ধরিয়ে দিচ্ছিলেন। তারা, চাঁদ, সূর্য মূর্তির চেয়ে উজ্জ্বল, তবু ওরা ডুবে যায়। তাবারীর নিজের রায় অবশ্য উল্টো দিকে। তিনি বলেন, চাঁদ ডোবার সময় ইবরাহীমের কথা, আমার রব আমাকে পথ না দেখালে, প্রমাণ করে যে এসব ব্যাখ্যা ভুল। সঠিক পথ হলো, আল্লাহ তাঁর সম্পর্কে যা জানিয়েছেন তা মেনে নেওয়া, আর এর বাইরে যা কিছু, তা ছেড়ে দেওয়া।"
+          },
+          {
+            "en": "Ibn Kathir, in the English abridgement, takes the other side: in these verses Ibrahim was debating his people, showing them the error of worshipping the heavenly bodies, and he cites 21:51, We gave Ibrahim his sound guidance before. Al-Baghawi lists both camps. Some took the words at face value, as a seeker's reasoning before Allah granted him guidance. Others rejected that, asking whether Allah would show him the dominion so that he might be certain, only for him to call a star his lord in belief; that, they said, could never be.",
+            "bn": "ইবন কাসীরের ইংরেজি সংক্ষেপ অন্য পক্ষে দাঁড়ায়। এ আয়াতগুলোতে ইবরাহীম (আঃ) তাঁর জাতির সঙ্গে বিতর্ক করছিলেন। জাতিকে দেখাচ্ছিলেন আসমানের বস্তুগুলোর পূজার ভুল। প্রমাণ হিসেবে তিনি আনেন ২১:৫১: আমি ইবরাহীমকে আগেই সঠিক বুঝ দিয়েছিলাম। বাগাভী দুই পক্ষের কথাই লেখেন। কেউ কেউ কথাটা বাহ্যিক অর্থে নিয়েছেন: আল্লাহ পথ দেখানোর আগে এক সত্যসন্ধানীর চিন্তার ধাপ। অন্যরা তা মানেননি। তাঁদের প্রশ্ন: আল্লাহ কি তাঁকে রাজত্ব দেখালেন দৃঢ় বিশ্বাসী করার জন্য, আর তারপর তিনি বিশ্বাস নিয়েই একটা তারাকে রব বললেন? তাঁদের মতে এমনটা কখনো হতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Narrower Than It First Looks",
+          "bn": "মতভেদের পরিধি যতটুকু"
+        },
+        "p": [
+          {
+            "en": "The two camps are further apart in tone than in substance. Al-Qurtubi's account of the face-value reading places these words in the period of reflection and childhood, before any proof was established, a state in which, he reports, there is neither disbelief nor belief. Al-Baghawi words it similarly: Ibrahim was seeking guidance, it did him no harm while he reasoned, and it was not kufr. In Ibn Ishaq's account in at-Tabari, the boy has already said, before looking up: He who created me, fed me and gave me drink is my Lord; I have no god but Him.",
+            "bn": "দুই পক্ষের দূরত্ব যতটা কথার সুরে, ততটা মূল বিষয়ে নয়। কুরতুবী বাহ্যিক অর্থের ব্যাখ্যাটি তুলে ধরেন এভাবে: কথাগুলো চিন্তাভাবনা আর শৈশবের সময়কার, যখন তাঁর উপর কোনো দলিল তখনো প্রতিষ্ঠিত হয়নি। তিনি জানান, সে অবস্থায় কুফরও থাকে না, ঈমানও না। বাগাভীর ভাষাও কাছাকাছি: ইবরাহীম (আঃ) হিদায়াত খুঁজছিলেন, চিন্তার সেই ধাপে এতে তাঁর কোনো ক্ষতি হয়নি, আর এটা কুফর ছিল না। তাবারীতে আসা ইবন ইসহাকের বিবরণে আকাশের দিকে তাকানোর আগেই বালকটি বলে ফেলেছেন: যিনি আমাকে সৃষ্টি করেছেন, খাইয়েছেন, পান করিয়েছেন, তিনিই আমার রব, তিনি ছাড়া আমার আর কোনো ইলাহ নেই।"
+          },
+          {
+            "en": "The other side holds its ground as firmly. Al-Qurtubi relays al-Zajjaj calling the childhood answer a mistake, on the strength of Ibrahim's own du'a in 14:35, keep me and my sons from worshipping idols, and of 37:84, he came to his Lord with a sound heart, which al-Zajjaj takes to mean he never associated anything with Him. Al-Qurtubi also gives a middle view: searching for his Lord, Ibrahim ascribed the star's light to his Lord, which that view says was not shirk; when it vanished, knowledge told him it was not his Lord.",
+            "bn": "অন্য পক্ষও সমান দৃঢ়। কুরতুবী যাজ্জাজের কথা আনেন, যিনি শৈশবের ব্যাখ্যাকে ভুল বলেছেন। তাঁর ভিত্তি ইবরাহীম (আঃ)-এর নিজের দুআ, ১৪:৩৫: আমাকে আর আমার সন্তানদের মূর্তিপূজা থেকে দূরে রাখুন। আর ৩৭:৮৪: তিনি তাঁর রবের কাছে এলেন বিশুদ্ধ হৃদয় নিয়ে। যাজ্জাজের কাছে এর মানে, তিনি কখনো আল্লাহর সঙ্গে কিছু শরিক করেননি। কুরতুবী একটা মাঝামাঝি মতও আনেন। রবকে খুঁজতে খুঁজতে ইবরাহীম তারার আলোকে নিজের রবের দিকে সম্পর্কিত করলেন। এই মত বলে, এটা শিরক ছিল না। আলো যখন মিলিয়ে গেল, জ্ঞানই তাঁকে বুঝিয়ে দিল, এ তাঁর রব নয়।"
+          },
+          {
+            "en": "Al-Qurtubi also relays an-Nahhas, who counted among the best things said here a word from Ibn Abbas on light upon light in 24:35: the believer's heart knows Allah and reasons its way to Him. So too Ibrahim knew Allah in his heart and reasoned through His signs, and when Allah made Himself known to him his knowledge grew. Neither the face-value reading, as al-Qurtubi and al-Baghawi give it, nor its critics call these words kufr. They differ on whether the words were a young seeker's step or a move in an argument, and this article leaves that difference where they left it.",
+            "bn": "কুরতুবী নাহহাসের কথাও আনেন। এখানে যত কথা বলা হয়েছে, নাহহাস তার মধ্যে সেরাগুলোর একটি মনে করেছেন ২৪:৩৫ আয়াতের 'নূরের উপর নূর' প্রসঙ্গে ইবন আব্বাস (রাঃ)-এর এক কথাকে। মুমিনের অন্তর আল্লাহকে চেনে, যুক্তি দিয়ে তাঁর দিকে এগোয়। একইভাবে ইবরাহীম (আঃ) অন্তর দিয়ে আল্লাহকে চিনেছিলেন, তাঁর নিদর্শন দেখে দলিল খুঁজেছিলেন। আর আল্লাহ যখন নিজেকে তাঁর কাছে পরিচিত করলেন, তাঁর জ্ঞান আরও বেড়ে গেল। কুরতুবী ও বাগাভী বাহ্যিক অর্থের ব্যাখ্যাটি যেভাবে দেন, তাতেও এ কথাগুলোকে কুফর বলা হয়নি, আর বিরোধী পক্ষ তো বলেনইনি। তাঁদের মতভেদ শুধু এ নিয়ে: কথাগুলো ছিল এক তরুণ সত্যসন্ধানীর চিন্তার ধাপ, নাকি বিতর্কের একটি চাল। তাঁরা মতভেদটা যেখানে রেখেছেন, এ লেখাও সেখানেই রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Standing on the Opponent's Ground",
+          "bn": "প্রতিপক্ষের মাটিতে দাঁড়িয়ে"
+        },
+        "p": [
+          {
+            "en": "Those who read the words as argument explain them in several ways. The Muyassar says Ibrahim was debating his people to show their religion false, since they worshipped the stars, and said this is my lord to draw them on step by step until they were bound to accept tawhid. As-Sa'di calls it coming down to the opponent's ground: this is my lord, so come, let us look. Does it deserve lordship? For no one of sound mind, he says, should take his own whim as his god without argument or evidence.",
+            "bn": "যাঁরা কথাগুলোকে বিতর্ক হিসেবে পড়েন, তাঁরা কয়েকভাবে ব্যাখ্যা দেন। মুয়াসসার বলে, ইবরাহীম (আঃ) জাতির সঙ্গে বিতর্ক করছিলেন তাদের দ্বীন যে বাতিল তা দেখাতে, কারণ তারা তারার পূজা করত। 'এ আমার রব' কথাটা ছিল তাদের ধাপে ধাপে টেনে আনার কৌশল, যাতে শেষে তাওহীদ মেনে নেওয়া ছাড়া তাদের আর পথ না থাকে। সা'দী একে বলেন প্রতিপক্ষের অবস্থানে নেমে আসা। ধরো এ আমার রব, তাহলে চলো দেখি। সে কি রব হওয়ার যোগ্য? সা'দী বলেন, কোনো বুদ্ধিমান মানুষ দলিল-প্রমাণ ছাড়া নিজের খেয়ালখুশিকে ইলাহ বানাতে পারে না।"
+          },
+          {
+            "en": "Al-Baghawi sets out four such readings. The first is that very drawing-on: Ibrahim appeared to honour what his people honoured, then showed them the flaw when it set. Al-Baghawi illustrates it with a parable of a disciple who came among idol-worshippers and outwardly honoured their idol until they trusted him. When an enemy came, he had them call on the idol; once they saw it could neither help nor defend, he told them to call on Allah. They did, the danger passed, and they accepted Islam.",
+            "bn": "বাগাভী এমন চারটি ব্যাখ্যা সাজিয়ে দেন। প্রথমটি ওই ধাপে ধাপে টেনে আনা। জাতি যাকে সম্মান করত, ইবরাহীম (আঃ) বাইরে থেকে তাকে সম্মান করার ভাব দেখালেন, তারপর অস্ত যাওয়ার মুহূর্তে তার খুঁত দেখিয়ে দিলেন। বাগাভী একটা উপমা দেন। এক হাওয়ারী, অর্থাৎ এক শিষ্য, মূর্তিপূজারীদের মধ্যে গিয়ে বাইরে বাইরে তাদের মূর্তিকে সম্মান দেখাতেন। একসময় তারা তাঁর পরামর্শে চলতে শুরু করল। তারপর শত্রু হানা দিলে তিনি তাদের বললেন মূর্তিকে ডাকতে। যখন দেখা গেল মূর্তি কোনো উপকারও করতে পারে না, বিপদও ঠেকাতে পারে না, তিনি বললেন আল্লাহকে ডাকো। তারা ডাকল, বিপদ কেটে গেল, আর তারা ইসলাম গ্রহণ করল।"
+          },
+          {
+            "en": "The second reading takes it as a question with the hamza dropped, is this my lord?, as in 21:34, if you die, will they live forever? The third reads it as my lord by your claim, as in 44:49, taste, you are the mighty, the noble, meaning in your own eyes. The fourth supplies an unspoken verb, they say, as 2:127 is read: our Lord, accept from us. Al-Qurtubi adds one more: this is a sign that points to my Lord.",
+            "bn": "দ্বিতীয় ব্যাখ্যায় এটা প্রশ্ন, শুধু প্রশ্নসূচক হামযাটা উহ্য: এ কি আমার রব? যেমন ২১:৩৪ আয়াতে: আপনি মারা গেলে তারা কি চিরকাল থাকবে? তৃতীয় ব্যাখ্যায় এর অর্থ, তোমাদের দাবি অনুযায়ী আমার রব। যেমন ৪৪:৪৯: স্বাদ নাও, তুমি তো মহাপরাক্রান্ত, মহাসম্মানিত, মানে নিজের চোখে। চতুর্থ ব্যাখ্যায় একটা না-বলা ক্রিয়া ধরে নিতে হয়: তারা বলে। যেমন ২:১২৭ আয়াতে 'হে আমাদের রব, আমাদের থেকে কবুল করুন' কথাটার আগে 'তারা বলছিলেন' উহ্য ধরা হয়। কুরতুবী আরেকটি যোগ করেন: এটা এমন এক নিদর্শন, যা আমার রবের দিকে ইশারা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stories of a Hidden Childhood",
+          "bn": "লুকানো শৈশবের কাহিনি"
+        },
+        "p": [
+          {
+            "en": "Several tafsirs attach a childhood story to the verse. At-Tabari relays it from Ibn Ishaq, opening with as it was mentioned to us, and Allah knows best. Astrologers warned Nimrod, king of the East, of a boy who would leave their religion and break their idols, and Nimrod had the boys born in that month killed. Ibrahim's mother gave birth in a nearby cave and sealed it. After fifteen months he asked to be brought out, was taken out at nightfall, and looked at the sky. At the stranger details the account keeps hedging: they claim, and Allah knows best; as they mention.",
+            "bn": "কয়েকটি তাফসীর আয়াতটির সঙ্গে শৈশবের একটি কাহিনি জুড়ে দেয়। তাবারী তা বর্ণনা করেন ইবন ইসহাক থেকে, আর শুরুতেই বলে নেন: আমাদের কাছে যেমন উল্লেখ করা হয়েছে, আর আল্লাহই ভালো জানেন। জ্যোতিষীরা পূর্বাঞ্চলের রাজা নমরূদকে সতর্ক করল, এক ছেলে জন্মাবে যে তাদের দ্বীন ছেড়ে যাবে আর তাদের মূর্তি ভাঙবে। নমরূদ সেই মাসে জন্মানো ছেলেদের হত্যা করাল। ইবরাহীম (আঃ)-এর মা কাছের এক গুহায় তাঁকে জন্ম দিয়ে গুহার মুখ বন্ধ করে দিলেন। পনেরো মাস পর তিনি বাইরে যেতে চাইলেন। সন্ধ্যায় তাঁকে বের করা হলো, আর তিনি আকাশের দিকে তাকালেন। কাহিনির অদ্ভুত অংশগুলোতে বর্ণনাটি বারবার সাবধানী শব্দ জুড়ে দেয়: তারা এমন দাবি করে, আল্লাহই ভালো জানেন; কিংবা, লোকে যেমন বলে।"
+          },
+          {
+            "en": "Al-Baghawi gathers more: as-Suddi's account of Nimrod dreaming that a star rose and put out the light of the sun and moon; an account under Ibn Abbas's name of a tunnel dug beside a river, its mouth sealed with a rock. The reports do not agree even on time. Ibn Ishaq in at-Tabari gives fifteen months in the cave; al-Baghawi lists seven, thirteen and seventeen years; al-Qurtubi relays from Ibn Ishaq that he was fifteen years old. None of them is a word of the Prophet ﷺ.",
+            "bn": "বাগাভী আরও কিছু বর্ণনা জড়ো করেন। সুদ্দীর বর্ণনায় নমরূদ স্বপ্নে দেখে, একটা তারা উঠে সূর্য আর চাঁদের আলো নিভিয়ে দিয়েছে। ইবন আব্বাস (রাঃ)-এর নামে আরেক বর্ণনায় আছে নদীর ধারে খোঁড়া এক সুড়ঙ্গের কথা, যার মুখ পাথর দিয়ে বন্ধ। সময় নিয়েও বর্ণনাগুলো একমত নয়। তাবারীতে ইবন ইসহাকের বিবরণে গুহায় ১৫ মাস। বাগাভী ৭, ১৩ আর ১৭ বছরের কথা উল্লেখ করেন। কুরতুবী ইবন ইসহাক থেকে আনেন যে তখন তাঁর বয়স ১৫ বছর। এর কোনোটিই নবী ﷺ-এর কথা নয়।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith to it. The stories of Nimrod and of Ibrahim's people describe one king and one people of the past, as the reports describe them. They license nothing against any living person or community, including anyone today who looks at the sky with different beliefs. What the verse itself keeps is not the cave, which it never mentions, but a night, a star, and a sentence about setting.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস জোড়েনি। নমরূদ আর ইবরাহীম (আঃ)-এর জাতির কাহিনি অতীতের এক রাজা আর এক জাতির বর্ণনা, বর্ণনাগুলো তাদের যেভাবে দেখায় সেভাবে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে, ভিন্ন বিশ্বাস নিয়ে আকাশের দিকে তাকায় এমন কারও বিরুদ্ধেও, এগুলো কোনো অনুমতি দেয় না। আয়াত নিজে গুহার কথা বলেই না। সে ধরে রাখে একটি রাত, একটি তারা, আর অস্ত যাওয়া নিয়ে একটি বাক্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Setting Decides It",
+          "bn": "অস্ত যাওয়াই কেন চূড়ান্ত"
+        },
+        "p": [
+          {
+            "en": "The whole verse turns on afala. As-Sa'di explains why disappearing disqualifies: the one who is worshipped must stand over the interests of those who worship him and manage every part of their affairs. Something that is absent for long stretches, then, by what right is it worshipped? To take it as a god, he says, is the height of folly and the falsest of falsehoods. Qatada's comment reaches the same point from the other side: what Ibrahim knew about his Lord was that He lasts and does not pass away.",
+            "bn": "পুরো আয়াত ঘোরে আফালা শব্দকে ঘিরে। হারিয়ে যাওয়া কেন অযোগ্যতা, সা'দী তা বুঝিয়ে দেন। যার ইবাদত করা হয়, তাকে ইবাদতকারীদের স্বার্থ রক্ষায় দাঁড়িয়ে থাকতে হয়, তাদের প্রতিটি কাজের ব্যবস্থা করতে হয়। যে লম্বা সময় ধরে অনুপস্থিত থাকে, সে কোন অধিকারে ইবাদত পাবে? সা'দী বলেন, তাকে ইলাহ বানানো চরম নির্বুদ্ধিতা, বাতিলের মধ্যেও সবচেয়ে বাতিল। কাতাদার মন্তব্য একই জায়গায় পৌঁছায় উল্টো দিক থেকে: ইবরাহীম (আঃ) তাঁর রব সম্পর্কে জানতেন, তিনি চিরস্থায়ী, কখনো সরে যান না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an asks why Ibrahim chose setting out of all a star's states. He chose setting, it says, because in the eyes of ordinary people setting looks like decline, and prophets do not pursue fine philosophical points but address people at the level they understand. On la uhibbu, I do not love, it notes that what sets does not deserve to be held dear, while whatever is taken as an object of worship must be the most worthy of love and reverence.",
+            "bn": "তারার এত অবস্থার মধ্যে ইবরাহীম (আঃ) অস্ত যাওয়াকেই কেন বেছে নিলেন, মাআরিফুল কুরআন সে প্রশ্ন তোলে। মাআরিফুল কুরআনের জবাব: সাধারণ মানুষের চোখে অস্ত যাওয়া মানেই পতন। আর নবীরা সূক্ষ্ম দার্শনিক যুক্তির পেছনে ছোটেন না, মানুষ যতটুকু বোঝে সেখান থেকেই কথা বলেন। লা উহিব্বু, আমি ভালোবাসি না, এ কথার ব্যাখ্যায় সে বলে: যা ডুবে যায়, তা মনের প্রিয় হওয়ার যোগ্য নয়। অথচ যাকে উপাস্য বানানো হয়, তাকে হতে হয় ভালোবাসা আর ভক্তির সবচেয়ে উপযুক্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Soft on Stars, Blunt on Idols",
+          "bn": "তারায় নরম, মূর্তিতে কঠোর"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an draws two lessons for those who call others to the truth. First, being always harsh or always lenient is a mistake; each has its occasion. With idols Ibrahim was blunt from the start, as in 6:74, because the error of carved idols is plain to see. With the stars, whose helplessness was less obvious, he took a patient path. When people are in an error they do not see as error, it says, a scholar should avoid a hard line and look for a better way to clear their doubts.",
+            "bn": "যাঁরা মানুষকে সত্যের দিকে ডাকেন, তাঁদের জন্য মাআরিফুল কুরআন দুটি শিক্ষা বের করে। প্রথমত, সবসময় কঠোর থাকা বা সবসময় নরম থাকা, দুটোই ভুল। প্রতিটির নিজস্ব সময় আছে। মূর্তির ব্যাপারে ইবরাহীম (আঃ) শুরু থেকেই স্পষ্টভাষী ছিলেন, যেমন ৬:৭৪ আয়াতে দেখা যায়, কারণ হাতে গড়া মূর্তির ভুল চোখের সামনেই। তারাদের অসহায়ত্ব অত সহজে চোখে পড়ে না, তাই সেখানে তিনি ধৈর্যের পথ নিলেন। মাআরিফুল কুরআন বলে, মানুষ এমন ভুলে থাকলে যাকে তারা ভুল বলে চেনেই না, আলেমের উচিত কঠোরতা এড়িয়ে তাদের সংশয় দূর করার ভালো কোনো পথ খোঁজা।"
+          },
+          {
+            "en": "Second, Ibrahim did not order his people about. He spoke of himself: I do not love the ones that set. Ma'arif al-Qur'an reads this as wisdom, so that they would not oppose him merely for the sake of opposing. The next verses carry the same method on, through the moon in 6:77, the sun and his open declaration in 6:78, and his turning his face to the Creator in 6:79, and 6:83 names it all as the argument Allah gave him.",
+            "bn": "দ্বিতীয়ত, ইবরাহীম (আঃ) জাতিকে হুকুম করেননি। নিজের কথা বলেছেন: যারা ডুবে যায়, তাদের আমি ভালোবাসি না। মাআরিফুল কুরআনের মতে এটা ছিল প্রজ্ঞা, যাতে তারা শুধু বিরোধিতার খাতিরে বিরোধিতা না করে। পরের আয়াতগুলো একই পদ্ধতি এগিয়ে নেয়। ৬:৭৭ আয়াতে চাঁদ, ৬:৭৮ আয়াতে সূর্য আর তাঁর প্রকাশ্য ঘোষণা, ৬:৭৯ আয়াতে স্রষ্টার দিকে মুখ ফেরানো। আর ৬:৮৩ আয়াত পুরোটাকে বলে সেই দলিল, যা আল্লাহ তাঁকে দিয়েছিলেন।"
+          }
+        ]
+      }
+    ]
+  },
   "6:80-83": {
     "sections": [
       {
