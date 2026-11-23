@@ -5359,6 +5359,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "2:140": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Other Half of a Choice",
+          "bn": "এক প্রশ্নের অপর অর্ধেক"
+        },
+        "p": [
+          {
+            "en": "Am taquluna inna Ibrahima wa Isma'ila wa Ishaqa wa Ya'quba wal-asbata kanu hudan aw nasara: or do you say that Ibrahim, Isma'il, Ishaq, Ya'qub and the tribes were Jews or Christians? The or looks back to 2:139, not yet in this module: do you argue with us about Allah, when He is our Lord and your Lord? At-Tabari joins the two into one choice: do you dispute with us about Allah's religion, claiming to be better guided, or do you claim those men were Jews or Christians on your religion?",
+            "bn": "আম তাকূলূনা ইন্না ইবরাহীমা ওয়া ইসমাঈলা ওয়া ইসহাকা ওয়া ইয়াকূবা ওয়াল-আসবাতা কানূ হূদান আও নাসারা: নাকি তোমরা বলো, ইবরাহীম, ইসমাঈল, ইসহাক, ইয়াকূব আর বংশধরেরা ইয়াহূদী বা নাসারা ছিলেন? এই 'নাকি' পেছনে তাকায় ২:১৩৯ আয়াতের দিকে, যা এখনো এ মডিউলে আসেনি: তোমরা কি আল্লাহকে নিয়ে আমাদের সঙ্গে তর্ক করো, অথচ তিনি আমাদেরও রব, তোমাদেরও রব? তাবারী দুই প্রশ্ন জুড়ে একটি বাছাই সামনে রাখেন। তোমরা কি আল্লাহর দ্বীন নিয়ে তর্ক করে বলছ যে তোমরাই বেশি হিদায়াতপ্রাপ্ত? নাকি দাবি করছ, ওই মানুষগুলো তোমাদের ধর্মের ইয়াহূদী বা নাসারা ছিলেন?"
+          },
+          {
+            "en": "The readers differ on one letter. Al-Baghawi lists Ibn Amir, Hamza, al-Kisa'i and Hafs as reading taquluna, you say, matching the qul before and after it; the rest read yaquluna, they say. Al-Qurtubi explains the grammar: with you, am is connected and offers a choice between two questions; with they, it is cut off and means rather. At-Tabari accepts only you, calling they out of line with the readers, while al-Baghawi records it as the others' reading. Both positions are left here as they stand.",
+            "bn": "একটি হরফে কারীদের মধ্যে পার্থক্য আছে। বাগাভী জানান, ইবন আমির, হামযা, কিসাঈ ও হাফস পড়েছেন 'তাকূলূনা', তোমরা বলো, কারণ আগে ও পরে দুই জায়গাতেই 'কুল' দিয়ে সম্বোধন আছে। বাকিরা পড়েছেন 'ইয়াকূলূনা', তারা বলে। কুরতুবী ব্যাকরণটা খুলে বলেন। 'তোমরা' পড়লে 'আম' আগের প্রশ্নের সঙ্গে যুক্ত, দুই প্রশ্নের একটি বেছে নিতে বলে। 'তারা' পড়লে 'আম' বিচ্ছিন্ন, অর্থ 'বরং'। তাবারী শুধু 'তোমরা' পাঠই গ্রহণ করেন, 'তারা' পাঠকে বলেন কারীদের পাঠ থেকে বিচ্ছিন্ন। অথচ বাগাভী সেটিকে বাকি কারীদের পাঠ হিসেবেই লিখেছেন। দুটো অবস্থান এখানে যেমন আছে তেমনই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Older Than the Names Claimed",
+          "bn": "দাবির নামের চেয়েও পুরোনো"
+        },
+        "p": [
+          {
+            "en": "The verse names five: Ibrahim, Isma'il, Ishaq and Ya'qub (AS), and al-asbat, which al-Muyassar glosses as the prophets among the twelve tribes of the Children of Israel, descended from Ya'qub. Ibn Kathir states the claim: that Ibrahim and the prophets and tribes after him were on their religion, Judaism or Christianity. Al-Muyassar answers in a phrase, this is a lie, and gives the reason in a clause: they were sent, and they died, before the Torah and the Gospel were revealed.",
+            "bn": "আয়াত পাঁচ নাম উল্লেখ করে: ইবরাহীম, ইসমাঈল, ইসহাক, ইয়াকূব (আঃ), আর আল-আসবাত। মুয়াসসারের ব্যাখ্যায় আসবাত হলেন ইয়াকূবের সন্তানদের থেকে আসা বনী ইসরাঈলের বারোটি গোত্রের নবীরা। দাবিটা কী ছিল, ইবন কাসীর তা স্পষ্ট করেন: ইবরাহীম আর তাঁর পরের নবী ও গোত্রগুলো নাকি তাদের ধর্মে ছিলেন, হয় ইয়াহূদী, নয় নাসারা। মুয়াসসার এক কথায় জবাব দেন: এটা মিথ্যা। কারণও এক বাক্যে বলেন। তাঁরা নবী হয়ে এসেছেন এবং দুনিয়া ছেড়ে গেছেন তাওরাত ও ইঞ্জিল নাযিল হওয়ার আগেই।"
+          },
+          {
+            "en": "At-Tabari makes the same point through the names themselves: Judaism and Christianity arose after these men whom Allah named among His prophets. Ar-Rabi', in a report at-Tabari carries, adds that the People of the Book found it written in their own Torah and Gospel that those men were neither, and that both religions came long after them. The Qur'an makes the argument in its own words at 3:65: why do you argue about Ibrahim, when the Torah and the Gospel were not revealed until after him? Will you not reason?",
+            "bn": "তাবারী একই কথা বলেন নাম দুটো ধরেই। আল্লাহ যে নবীদের নাম নিয়েছেন, ইয়াহূদী ও নাসারা ধর্মের জন্ম তাঁদের পরে। তাবারীর আনা এক বর্ণনায় রাবী' যোগ করেন, আহলে কিতাব নিজেদের তাওরাত ও ইঞ্জিলেই লেখা পেত যে ওই মানুষগুলো এর কোনোটিই ছিলেন না। আর দুই ধর্মই এসেছে তাঁদের অনেক কাল পরে। কুরআন নিজেও এ যুক্তি দিয়েছে ৩:৬৫ আয়াতে: ইবরাহীমকে নিয়ে তোমরা কেন তর্ক করো, অথচ তাওরাত আর ইঞ্জিল নাযিলই হয়েছে তাঁর পরে? তোমরা কি বোঝো না?"
+          },
+          {
+            "en": "At-Tabari sees the question closing both exits. If they insist the patriarchs were Jews or Christians, the falsehood becomes plain even to the idolaters who backed them, since those religions came later. If they deny it, they are told: then come to the religion those men followed, for you and we both affirm they were on the truth, and we differ only over what departs from it. He also hears a demand for proof in the verse: bring evidence for what you claim, and we will believe you.",
+            "bn": "তাবারীর চোখে প্রশ্নটা দুই দিকের পথই বন্ধ করে দেয়। তারা যদি জোর দিয়ে বলে, পূর্বপুরুষ নবীরা ইয়াহূদী বা নাসারা ছিলেন, তাহলে তাদের সমর্থক মুশরিকদের কাছেও মিথ্যাটা ধরা পড়ে যায়, কারণ ওই দুই ধর্ম এসেছে পরে। আর যদি অস্বীকার করে, তাহলে তাদের বলা হবে: তবে তাঁরা যে দ্বীনে ছিলেন, সেদিকেই এসো। তাঁরা হকের উপর ছিলেন, এটা তো তোমরাও মানো, আমরাও মানি। আমাদের মতভেদ শুধু সেই জিনিস নিয়ে, যা তাঁদের দ্বীন থেকে সরে গেছে। আয়াতে তিনি প্রমাণের দাবিও শোনেন: তোমাদের দাবির পক্ষে দলীল আনো, আমরা মেনে নেব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Answer Too Plain to Say",
+          "bn": "যে উত্তর মুখে আনতে হয় না"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di calls this another claim of theirs: they asserted a better right to these prophets than the Muslims had. Then the reply, qul a-antum a'lamu ami-llah: say, are you more knowing, or Allah? At-Tabari fills it out: more knowing about them, and about the religions they followed. Al-Qurtubi calls it a taqrir and a tawbikh, a question that makes them face their claim and rebukes them for it. The verse leaves the answer unspoken, and Ibn Kathir supplies it: rather Allah knows best, and He has told us they were neither Jews nor Christians. He cites 3:67, as does as-Sa'di.",
+            "bn": "সা'দী একে বলেন তাদের আরেকটি দাবি। তারা মনে করত, এই নবীদের উপর মুসলিমদের চেয়ে তাদের হক বেশি। তারপর জবাব: কুল আআনতুম আ'লামু আমিল্লাহ, বলো, তোমরা বেশি জানো, নাকি আল্লাহ? তাবারী একটু খুলে বলেন: তাঁদের সম্পর্কে আর তাঁরা কোন দ্বীনে ছিলেন সে সম্পর্কে। কুরতুবী একে বলেন তাকরীর ও তাওবীখ, এমন প্রশ্ন যা তাদের নিজেদের দাবির মুখোমুখি দাঁড় করায় আর সে জন্য তিরস্কারও করে। উত্তরটা আয়াত মুখে আনে না, ইবন কাসীর তা জুগিয়ে দেন: বরং আল্লাহই বেশি জানেন, আর তিনি জানিয়ে দিয়েছেন যে তাঁরা ইয়াহূদীও ছিলেন না, নাসারাও না। তিনি ৩:৬৭ আয়াত উদ্ধৃত করেন, সা'দীও তা-ই করেন।"
+          },
+          {
+            "en": "As-Sa'di asks why the answer goes unsaid, and finds the reason in its clarity. It is so plain, he says, that it did not need the words: rather Allah knows best, and He is more truthful. It is like asking: is night brighter, or day? Is fire hotter, or water? Is shirk better, or tawhid? Anyone with the least understanding knows. Then he adds the turn: they themselves knew that Ibrahim and the other prophets were neither Jews nor Christians, and they hid that knowledge. That, he says, is why their wrong was the greatest wrong.",
+            "bn": "উত্তরটা কেন বলা হলো না, সা'দী সে প্রশ্ন তোলেন। কারণ খুঁজে পান উত্তরের স্পষ্টতায়। তাঁর কথায়, জবাব এত পরিষ্কার যে 'বরং আল্লাহই বেশি জানেন, তিনিই বেশি সত্যবাদী' বলারও দরকার পড়েনি। এ যেন জিজ্ঞেস করা: রাত বেশি আলোকিত, নাকি দিন? আগুন বেশি গরম, নাকি পানি? শিরক ভালো, নাকি তাওহীদ? সামান্য বুদ্ধি যার আছে, সে-ই জানে। তারপর তিনি আসল কথায় আসেন। তারা নিজেরাও জানত, ইবরাহীম ও অন্য নবীরা ইয়াহূদী বা নাসারা ছিলেন না। সে জ্ঞান তারা লুকিয়ে রেখেছিল। তাঁর মতে এ কারণেই তাদের জুলুম ছিল সবচেয়ে বড় জুলুম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Testimony Was Kept Back",
+          "bn": "কোন সাক্ষ্য চেপে রাখা হলো"
+        },
+        "p": [
+          {
+            "en": "Wa man azlamu mimman katama shahadatan 'indahu mina-llah: and who does more wrong than one who conceals a testimony he has from Allah? At-Tabari records that the commentators differed over which testimony is meant. One group takes it as the patriarchs' religion. Mujahid, in two chains, hears a challenge from Allah: do not conceal from Me a testimony about them, if you have one; and He knew they were lying. Al-Hasan says: by Allah, the people had from Allah a testimony that His prophets were free of Judaism and Christianity.",
+            "bn": "ওয়া মান আযলামু মিম্মান কাতামা শাহাদাতান ইনদাহূ মিনাল্লাহ: আর তার চেয়ে বড় জালিম কে, যে আল্লাহর কাছ থেকে পাওয়া নিজের কাছে থাকা সাক্ষ্য গোপন করে? তাবারী জানান, কোন সাক্ষ্যের কথা বলা হচ্ছে, তা নিয়ে মুফাসসিরদের মতভেদ আছে। একটি দলের মতে সাক্ষ্যটা পূর্বপুরুষ নবীদের দ্বীন নিয়ে। দুই সনদে মুজাহিদ এখানে আল্লাহর এক চ্যালেঞ্জ শোনেন: তাঁদের ব্যাপারে তোমাদের কাছে কোনো সাক্ষ্য থাকলে আমার কাছ থেকে লুকিয়ো না। আল্লাহ জানতেন, তারা মিথ্যা বলছে। হাসান বলেন: আল্লাহর কসম, আল্লাহর পক্ষ থেকে ওই লোকদের কাছে সাক্ষ্য ছিল যে তাঁর নবীরা ইয়াহূদী ও নাসারা ধর্ম থেকে মুক্ত।"
+          },
+          {
+            "en": "The other group reads it as the Prophet ﷺ. Qatada, in two reports at-Tabari gives, says the People of the Book concealed Islam knowing it was Allah's religion, and concealed Muhammad ﷺ knowing he was Allah's Messenger, finding him written in their Torah and Gospel. In the shorter wording: the testimony is the Prophet ﷺ, written with them, and he is what they concealed. Ibn Zayd says they were asked about the Prophet ﷺ and his description in the Book of Allah they held, and they concealed the description. Ar-Rabi' is reported on both sides.",
+            "bn": "অন্য দলের মতে সাক্ষ্যটা নবী ﷺ-কে নিয়ে। তাবারীর আনা দুই বর্ণনায় কাতাদা বলেন, আহলে কিতাব ইসলামকে আল্লাহর দ্বীন জেনেও গোপন করেছে। মুহাম্মাদ ﷺ আল্লাহর রাসূল, এ কথা জেনেও তাঁকে গোপন করেছে, অথচ নিজেদের তাওরাত ও ইঞ্জিলে তাঁর কথা লেখা পেত। ছোট বর্ণনাটির ভাষা: সাক্ষ্য হলেন নবী ﷺ, তাদের কাছে লিখিত, আর তাঁকেই তারা গোপন করেছে। ইবন যায়দ বলেন, তাদের কাছে থাকা আল্লাহর কিতাবে নবী ﷺ ও তাঁর গুণাবলি সম্পর্কে তাদের জিজ্ঞেস করা হতো, আর তারা সে বিবরণ চেপে যেত। রাবী'র বর্ণনা দুই দলের তালিকাতেই আছে।"
+          },
+          {
+            "en": "At-Tabari takes the first reading and argues from placement: the sentence comes in the course of the account of the prophets Allah named, so it belongs more fittingly to that account than to anything else. Al-Qurtubi agrees that the first is closer to the verse's context, and names Qatada for the second. Al-Baghawi joins the two: their knowledge that Ibrahim and his sons were Muslims, and that Muhammad ﷺ is true and a messenger, to which Allah made them witnesses in their books. Al-Hasan, in Ibn Kathir's wording, also names both.",
+            "bn": "তাবারী প্রথম মতটি নেন এবং যুক্তি দেন আয়াতের অবস্থান থেকে। বাক্যটি এসেছে আল্লাহ যে নবীদের নাম নিয়েছেন, তাঁদের প্রসঙ্গের ভেতরে। তাই অন্য কিছুর চেয়ে তাঁদের প্রসঙ্গের অংশ হওয়াই এর জন্য বেশি মানানসই। কুরতুবীও বলেন, প্রথম মতটি আয়াতের প্রসঙ্গের সঙ্গে বেশি মেলে, আর দ্বিতীয় মতের জন্য কাতাদার নাম নেন। বাগাভী দুটি মত একসঙ্গে ধরেন: ইবরাহীম ও তাঁর সন্তানেরা মুসলিম ছিলেন, আর মুহাম্মাদ ﷺ সত্য রাসূল, তাদের এই জানা। আল্লাহ তাদের কিতাবেই তাদের এর সাক্ষী বানিয়েছিলেন। ইবন কাসীরের বর্ণনায় হাসানও দুটোরই উল্লেখ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lodged by Allah, Not People",
+          "bn": "মানুষের নয়, আল্লাহর রাখা আমানত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari raises the obvious objection himself: what testimony from Allah did the Jews and Christians hold about Ibrahim and the others? What Allah revealed to them in the Torah and the Gospel, he answers, commanding them to follow those men's way and religion and telling them they were hunafa', Muslims. That is what they concealed when the Prophet ﷺ invited them to Islam and they replied, none will enter Paradise except a Jew or a Christian (2:111), and, be Jews or Christians and you will be guided. He gives this setting in his own words, without a chain.",
+            "bn": "আপত্তিটা তাবারী নিজেই তোলেন: ইবরাহীম ও অন্যদের ব্যাপারে ইয়াহূদী ও নাসারাদের কাছে আল্লাহর কোন সাক্ষ্য ছিল? তাঁর জবাব: তাওরাত ও ইঞ্জিলে আল্লাহ তাদের প্রতি যা নাযিল করেছিলেন। সেখানে তাদের আদেশ ছিল ওই নবীদের পথ ও দ্বীন অনুসরণ করার, আর জানানো হয়েছিল যে তাঁরা ছিলেন একনিষ্ঠ মুসলিম। নবী ﷺ যখন তাদের ইসলামের দাওয়াত দেন, তখন এই সাক্ষ্যই তারা গোপন করেছে। জবাবে বলেছিল, ইয়াহূদী বা নাসারা ছাড়া কেউ জান্নাতে যাবে না (২:১১১), আর বলেছিল, ইয়াহূদী বা নাসারা হয়ে যাও, হিদায়াত পাবে। এ প্রেক্ষাপট তিনি নিজের ভাষায় দেন, কোনো সনদ ছাড়া।"
+          },
+          {
+            "en": "As-Sa'di dwells on the words 'indahu mina-llah, held by him, from Allah. It was a testimony lodged with them by Allah, not by any created being, and so it called for particular care in bearing it out. Al-Hasan, in at-Tabari's report, sets a second testimony beside it. Just as the people held from Allah a testimony that His prophets were free of those labels, they held from Him a testimony that your wealth and your blood are sacred among you. So by what, he asks, did they make them lawful? The question puts knowledge held beside conduct that contradicts it.",
+            "bn": "ইনদাহূ মিনাল্লাহ, অর্থাৎ আল্লাহর কাছ থেকে তার কাছে রাখা: এ শব্দগুলোর উপর সা'দী থামেন। সাক্ষ্যটা তাদের কাছে গচ্ছিত রেখেছিলেন আল্লাহ, কোনো সৃষ্টি নয়। তাই তা ঠিকঠাক তুলে ধরার দায়ও ছিল বিশেষ। তাবারীর আনা বর্ণনায় হাসান এর পাশে আরেকটি সাক্ষ্য রাখেন। নবীরা ওই পরিচয় থেকে মুক্ত, এই সাক্ষ্য যেমন তাদের কাছে আল্লাহর পক্ষ থেকে ছিল, তেমনি ছিল এই সাক্ষ্যও: তোমাদের সম্পদ আর তোমাদের রক্ত তোমাদের পরস্পরের জন্য হারাম। তাহলে, তিনি জিজ্ঞেস করেন, কিসের জোরে তারা সেগুলো হালাল করে নিল? প্রশ্নটা জানা কথা আর তার উল্টো আচরণকে পাশাপাশি দাঁড় করায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Silence Paired With a Counterclaim",
+          "bn": "নীরবতার সঙ্গে উল্টো দাবি"
+        },
+        "p": [
+          {
+            "en": "Wa man azlamu is a question in form. Al-Qurtubi gives its meaning directly: no one is more unjust. Al-Muyassar turns it into a statement addressed to the claimants: no one is more unjust than you, when you hide a testimony established with you from Allah. At-Tabari keeps the question and points it at persons: which man is more unjust than they, when they concealed a testimony from Allah that the patriarchs were Muslims, and ascribed Judaism and Christianity to them instead?",
+            "bn": "ওয়া মান আযলামু বাহ্যত প্রশ্ন। কুরতুবী সরাসরি এর অর্থ বলে দেন: এর চেয়ে বড় জালিম কেউ নেই। মুয়াসসার একে বানান দাবিদারদের উদ্দেশে সোজা কথা: তোমাদের চেয়ে বড় জালিম কেউ নেই, যখন আল্লাহর পক্ষ থেকে তোমাদের কাছে প্রতিষ্ঠিত সাক্ষ্য তোমরা লুকাও। তাবারী প্রশ্নটা রেখে দেন, তবে তাক করেন মানুষের দিকে: তাদের চেয়ে বড় জালিম আর কে? পূর্বপুরুষ নবীরা মুসলিম ছিলেন, আল্লাহর এই সাক্ষ্য তারা গোপন করেছে, আর তার জায়গায় তাঁদের গায়ে ইয়াহূদী ও নাসারা পরিচয় জুড়ে দিয়েছে।"
+          },
+          {
+            "en": "Al-Muyassar and as-Sa'di both see two acts in the wrong, not one. Al-Muyassar adds that they claimed the opposite of the testimony, a fabrication against Allah. As-Sa'di sets out both halves: they concealed the truth and did not speak it, and they displayed falsehood and called people to it. Is this not the greatest wrong? Yes, by Allah, he answers. Ma'arif al-Qur'an says the People of the Book themselves knew that the religion of the earlier prophets was Islam, yet tried to conceal the truth, and were unjust in the gravest sense of the term.",
+            "bn": "মুয়াসসার ও সা'দী দুজনেই এ জুলুমে একটি নয়, দুটি কাজ দেখেন। মুয়াসসার যোগ করেন, তারা সাক্ষ্যের উল্টোটা দাবি করেছে, যা আল্লাহর নামে মিথ্যা রচনা। সা'দী দুই অংশ আলাদা করে দেখান। একদিকে তারা সত্য লুকিয়েছে, মুখে আনেনি। অন্যদিকে মিথ্যা প্রকাশ করেছে, মানুষকে সেদিকে ডেকেছে। এটাই কি সবচেয়ে বড় জুলুম নয়? নিজেই উত্তর দেন: হ্যাঁ, আল্লাহর কসম। মাআরিফুল কুরআন বলে, আগের নবীদের দ্বীন যে ইসলাম ছিল, আহলে কিতাব নিজেরাই তা জানত। তবু তারা সত্য লুকানোর চেষ্টা করেছে এবং কথাটির সবচেয়ে গুরুতর অর্থে জুলুম করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Land That Bears No Mark",
+          "bn": "যে জমিতে কোনো চিহ্ন নেই"
+        },
+        "p": [
+          {
+            "en": "Wa ma-llahu bi-ghafilin 'amma ta'malun: and Allah is not unaware of what you do. Al-Qurtubi calls it a threat, and a notice that He has not left their affair unattended and will requite them for their deeds. Then he traces the word. The ghafil is one who does not perceive things, out of neglect. It comes from ard ghufl, land with no sign on it and no trace of habitation; a naqah ghufl is a she-camel with no brand, a rajul ghufl a man untested by affairs. Al-Kisa'i adds ard ghufl, land that has had no rain.",
+            "bn": "ওয়া মাল্লাহু বিগাফিলিন আম্মা তা'মালূন: তোমরা যা করো, আল্লাহ সে বিষয়ে বেখবর নন। কুরতুবী একে বলেন হুমকি, আর এই ঘোষণা যে তিনি তাদের ব্যাপারটা অবহেলায় ফেলে রাখেননি, তাদের কাজের প্রতিদান দেবেন। তারপর তিনি শব্দটার উৎস খোঁজেন। গাফিল এমন একজন, যে অবহেলার কারণে কোনো কিছু টের পায় না। শব্দটা এসেছে 'আরদ গুফল' থেকে, এমন জমি যাতে কোনো চিহ্ন নেই, বসতির কোনো ছাপ নেই। 'নাকা গুফল' মানে দাগহীন উটনী, 'রাজুল গুফল' মানে এমন মানুষ যে দুনিয়ার কাজে পরীক্ষিত নয়। কিসাঈ যোগ করেন, 'আরদ গুফল' সেই জমিও, যেখানে বৃষ্টি হয়নি।"
+          },
+          {
+            "en": "Ibn Kathir reads the clause as a threat and a severe warning: His knowledge encompasses your deeds, and He will requite you for them. At-Tabari: Allah is not heedless of your concealing the truth His Book obliged you to make clear to people, nor neglectful of punishing it; He is keeping count of it against you. As-Sa'di notes that the Qur'an names His knowledge and power after verses about deeds to be requited, so the close carries both promise and warning. None of the commentaries fetched for this verse attaches a hadith to it.",
+            "bn": "ইবন কাসীর এ বাক্যকে পড়েন হুমকি ও কঠিন সতর্কবাণী হিসেবে: তোমাদের আমল তাঁর জ্ঞানের ঘেরাওয়ে, আর তিনি এর প্রতিদান দেবেন। তাবারীর ভাষায়: আল্লাহর কিতাব যে সত্য মানুষের সামনে স্পষ্ট করতে তোমাদের বাধ্য করেছিল, তা গোপন করার ব্যাপারে আল্লাহ বেখবর নন, এর শাস্তি দিতেও তিনি ভোলেননি। তিনি তা গুনে রাখছেন তোমাদের বিরুদ্ধে। সা'দী লক্ষ করেন, প্রতিদানযোগ্য আমলের কথা যে আয়াতে, তার শেষে কুরআন আল্লাহর জ্ঞান ও কুদরতের উল্লেখ আনে। ফলে সমাপ্তিতে থাকে প্রতিশ্রুতি আর সতর্কতা দুটোই। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীরে কোনো হাদীস জোড়া নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Dispute Then, a Mirror Now",
+          "bn": "সেদিনের বিতর্ক, আজকের আয়না"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse addresses the People of the Book in one dispute in Madinah: those who told the Prophet ﷺ and his Companions to become Jews or Christians, and claimed the patriarchs for their side. It describes what the text describes, about them, in that exchange. It licenses nothing against any Jew or Christian living today, nor against any community. The same passage has the believers declare faith in what was given to Musa and 'Isa (AS), and make no distinction between any of the prophets (2:136).",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি মদীনার একটি বিতর্কে আহলে কিতাবকে সম্বোধন করছে। তারা নবী ﷺ ও তাঁর সাহাবীদের ইয়াহূদী বা নাসারা হয়ে যেতে বলেছিল, আর পূর্বপুরুষ নবীদের নিজেদের পক্ষের লোক বলে দাবি করেছিল। আয়াত সেই বিতর্কে তাদের সম্পর্কে যা বলে, শুধু তা-ই বর্ণনা করে। আজকের কোনো ইয়াহূদী বা খ্রিস্টানের বিরুদ্ধে, কিংবা কোনো সম্প্রদায়ের বিরুদ্ধে, এ আয়াত কোনো কিছুর অনুমতি দেয় না। এই একই অংশে মুমিনরা ঘোষণা দেয়, মূসা (আঃ) ও ঈসা (আঃ)-কে যা দেওয়া হয়েছিল তাতে তারা ঈমান রাখে, আর নবীদের কারও মধ্যে পার্থক্য করে না (২:১৩৬)।"
+          },
+          {
+            "en": "The next verse, 2:141, repeats 2:134: that nation has passed on; it has what it earned, and you have what you earned. Ibn Kathir explains it: being their relatives will not suffice unless you follow their good deeds. Ma'arif al-Qur'an says Allah will judge the People of the Book by their own deeds, not by the deeds of their ancestors. The claim answered in 2:140 was a claim of descent, and the reply is the same for anyone who leans on one.",
+            "bn": "পরের আয়াত ২:১৪১ আবার বলে ২:১৩৪-এর কথা: ওরা এক জাতি, যারা গত হয়ে গেছে। তাদের জন্য তাদের কামাই, তোমাদের জন্য তোমাদের কামাই। ইবন কাসীর ব্যাখ্যা করেন: তাঁদের আত্মীয় হওয়া যথেষ্ট নয়, যতক্ষণ না তোমরা তাঁদের নেক আমলের অনুসরণ করো। মাআরিফুল কুরআন বলে, আল্লাহ আহলে কিতাবের বিচার করবেন তাদের নিজেদের আমল দিয়ে, পূর্বপুরুষের আমল দিয়ে নয়। ২:১৪০ আয়াতে যে দাবির জবাব, তা ছিল বংশের দাবি। বংশের উপর যে-ই ভর করুক, জবাব তার জন্যও একই।"
+          },
+          {
+            "en": "That includes Muslims. A reader of the Qur'an now holds a testimony from Allah too: what He made plain about Himself, His prophets and what He made sacred. Al-Hasan's question about wealth and blood can be put to anyone who knows and acts otherwise. The commentators read two ways of failing a trust in this verse, keeping quiet and putting something false in its place, and it ends on the sentence that stays true for every reader: Allah is not unaware of what you do.",
+            "bn": "এর মধ্যে মুসলিমরাও আছেন। কুরআনের পাঠকের হাতেও এখন আল্লাহর এক সাক্ষ্য: নিজের সম্পর্কে, নিজের নবীদের সম্পর্কে, আর যা তিনি হারাম করেছেন সে সম্পর্কে তিনি যা স্পষ্ট করে দিয়েছেন। সম্পদ ও রক্ত নিয়ে হাসানের প্রশ্ন তাকেও করা যায়, যে জানে, অথচ উল্টো চলে। তাফসীরকারেরা এ আয়াতে আমানত নষ্ট করার দুই পথ দেখেন: চুপ থাকা, আর সত্যের জায়গায় মিথ্যা বসানো। আয়াত শেষ হয় এমন এক বাক্যে, যা প্রত্যেক পাঠকের জন্য সত্য: তোমরা যা করো, আল্লাহ সে বিষয়ে বেখবর নন।"
+          }
+        ]
+      }
+    ]
+  },
   "2:143-144": {
     "sections": [
       {

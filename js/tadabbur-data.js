@@ -30383,6 +30383,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every pardon from Allah is given for a purpose: let the forgiveness you have received show itself as thanks in what you do and what you leave.",
     "lessonBn": "আল্লাহর প্রতিটি ক্ষমার পেছনে একটা উদ্দেশ্য থাকে। যে ক্ষমা আপনি পেয়েছেন, তা শোকর হয়ে ফুটে উঠুক আপনার করা আর ছাড়ার মধ্যে।"
+  },
+  "2:140": {
+    "reflectionEn": "They claimed the great fathers of faith for their own group: Ibrahim, Isma'il, Ishaq, Ya'qub and the tribes, Jews or Christians. The verse answers with a question that needs no reply: are you more knowing, or Allah? The names they used came later than the men they were claiming. Then the verse turns from the claim to the one who makes it. Who does more wrong than someone holding a testimony from Allah who keeps it hidden? It closes on a plain notice: Allah is not unaware of what you do. Claiming the righteous as ours by a label is easy. Saying aloud what we know to be true, when it costs our side the argument, is harder.",
+    "reflectionBn": "ঈমানের মহান পূর্বপুরুষদের তারা নিজেদের দলের লোক বলে দাবি করত। ইবরাহীম, ইসমাঈল, ইসহাক, ইয়াকূব আর তাঁদের বংশধরেরা নাকি ইয়াহূদী বা নাসারা ছিলেন। আয়াত জবাব দেয় এমন এক প্রশ্নে, যার উত্তর বলে দিতে হয় না: তোমরা বেশি জানো, নাকি আল্লাহ? যে নাম ধরে তারা দাবি করছিল, সে নামের জন্মই হয়েছে ওই মানুষগুলোর পরে। তারপর আয়াত দাবি ছেড়ে দাবিদারের দিকে ফেরে। আল্লাহর কাছ থেকে পাওয়া সাক্ষ্য হাতে রেখে যে তা লুকিয়ে রাখে, তার চেয়ে বড় জালিম আর কে? শেষে সোজা একটা সতর্কবাণী: তোমরা যা করো, আল্লাহ সে বিষয়ে বেখবর নন। কোনো লেবেলের জোরে নেককারদের নিজেদের বলে দাবি করা সহজ। কিন্তু নিজের পক্ষ তর্কে হেরে যাবে জেনেও জানা সত্যটা মুখে বলা কঠিন।",
+    "pointsEn": [
+      "Which righteous person or past generation do I call ours while doing little of what they actually did?",
+      "Is there something I know to be true that I keep quiet about because saying it would weaken my side?",
+      "When I argue about religion, do I bring evidence, or only a name I inherited?",
+      "If I kept in mind that Allah is not unaware of what I do, what would I stop saying, and what would I start saying?",
+      "Which truth that I was taught am I holding as a trust, and have I passed it on as I received it?"
+    ],
+    "pointsBn": [
+      "কোন নেককার মানুষ বা কোন পূর্বপ্রজন্মকে আমি নিজের বলে দাবি করি, অথচ তাঁদের আমলের সামান্যই আমার জীবনে আছে?",
+      "এমন কোনো সত্য কি আমি জানি, যা মুখে বললে আমার পক্ষ দুর্বল হয়ে যাবে বলে চুপ করে থাকি?",
+      "দ্বীন নিয়ে তর্ক করার সময় আমি কি প্রমাণ আনি, নাকি শুধু উত্তরাধিকারে পাওয়া একটা নাম?",
+      "আমি যা করি আল্লাহ সে বিষয়ে বেখবর নন, এ কথা মনে থাকলে কোন কথা বলা ছেড়ে দিতাম, আর কোন কথা বলা শুরু করতাম?",
+      "যে সত্য আমাকে শেখানো হয়েছে, তা কি আমানত হিসেবে আগলে রেখেছি? যেভাবে পেয়েছি, সেভাবেই কি অন্যের কাছে পৌঁছে দিয়েছি?"
+    ],
+    "lessonEn": "Do not claim the righteous by a label; follow their way, and speak the truth you hold from Allah even when it costs you the argument.",
+    "lessonBn": "লেবেলের জোরে নেককারদের নিজের বলে দাবি করবেন না; তাঁদের পথ ধরুন, আর আল্লাহর কাছ থেকে পাওয়া সত্য বলুন, তাতে তর্কে হারতে হলেও।"
   }
 };
 
