@@ -32643,6 +32643,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The outcome was Allah's to decide and to announce. Do the work sincerely, grieve if you must, but do not let the grief bend you low or turn you from the next task.",
     "lessonBn": "ফলাফলের ফয়সালা ও ঘোষণা আল্লাহর হাতে। আন্তরিকভাবে কাজ করুন, দুঃখ পেলে পান, কিন্তু সেই দুঃখ যেন আপনাকে নুইয়ে না দেয়, পরের কাজ থেকেও সরিয়ে না নেয়।"
+  },
+  "11:91": {
+    "reflectionEn": "Shu'ayb has pleaded with them over several verses: the honest scale, the ruined peoples before them, and a Lord who is Merciful and Loving. Their reply opens with a claim not to understand, though a few verses earlier they summed up his message exactly. Then they size him up. Weak among us. Spared only because of his clan. Not one of their sentences weighs whether he is right. A people who shaved the measure in the market measure a messenger by the number of men standing behind him. When a true word reaches me from someone with no standing, do I hear the word, or only count who stands behind the speaker?",
+    "reflectionBn": "কয়েকটি আয়াত ধরে শুআইব (আঃ) তাদের বুঝিয়েছেন। সৎ মাপের কথা বলেছেন, আগের ধ্বংস হওয়া জাতিগুলোর কথা মনে করিয়েছেন, বলেছেন তাঁর রব দয়ালু ও ভালোবাসাময়। জবাবের শুরুতেই তারা বলে, তোমার কথা আমরা বুঝি না। অথচ কয়েক আয়াত আগেই তারা তাঁর দাওয়াতের সারকথা ঠিকঠাক বলে দিয়েই খোঁচা দিয়েছিল। এরপর তারা তাঁকে মাপতে বসে। তুমি আমাদের মধ্যে দুর্বল। তোমার গোষ্ঠী না থাকলে তোমাকে পাথর মারতাম। তিনি সত্য বলছেন কি না, সেটা তাদের একটি বাক্যেও ওজন হয় না। যারা বাজারে মাপে কম দিত, তারা একজন রাসূলকে মাপল তাঁর পেছনে কজন লোক দাঁড়িয়ে আছে তা দিয়ে। পদমর্যাদাহীন কারও মুখে সত্য কথা এলে আমি কি কথাটা শুনি, নাকি শুধু গুনি তার পেছনে কে আছে?",
+    "pointsEn": [
+      "When I say I do not understand something, is it sometimes that I understand well enough and do not want what it asks of me?",
+      "Whose advice have I set aside because of who they are, their age, rank or family, rather than what they actually said?",
+      "Do I hold back from wronging someone out of fear of Allah, or only out of fear of the people who would stand up for them?",
+      "Who around me has nobody behind them, and how do I treat them when no one would call me to account?",
+      "Is there a truth I have answered with contempt instead of an answer?"
+    ],
+    "pointsBn": [
+      "আমি যখন বলি, এটা বুঝি না, তখন কি কখনো আসলে ঠিকই বুঝি, শুধু কথাটা আমার কাছে যা চায় তা দিতে মন চায় না?",
+      "কার উপদেশ আমি সরিয়ে রেখেছি তার কথার জন্য নয়, বরং তার বয়স, পদ বা পরিবার দেখে?",
+      "কারও উপর অন্যায় করা থেকে আমি কি আল্লাহর ভয়ে বিরত থাকি, নাকি শুধু তার পক্ষে যারা দাঁড়াবে তাদের ভয়ে?",
+      "আমার আশপাশে কার পেছনে কেউ নেই? কেউ হিসাব চাইবে না জেনেও তার সঙ্গে আমি কেমন আচরণ করি?",
+      "এমন কোনো সত্য কি আছে, যার জবাব আমি দিয়েছি যুক্তি দিয়ে নয়, তাচ্ছিল্য দিয়ে?"
+    ],
+    "lessonEn": "Weigh a word by its truth, not by the standing of the one who says it, and let fear of Allah, not fear of someone's people, keep your hands off them.",
+    "lessonBn": "কথা মাপুন তার সত্যতা দিয়ে, বক্তার পদমর্যাদা দিয়ে নয়। আর কারও উপর হাত তোলা থেকে আপনাকে থামাক আল্লাহর ভয়, তার লোকজনের ভয় নয়।"
   }
 };
 

@@ -4419,6 +4419,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:91": {
+    "sections": [
+      {
+        "h": {
+          "en": "Their Reply to a Loving Lord",
+          "bn": "দয়াময় রবের ডাকের জবাব"
+        },
+        "p": [
+          {
+            "en": "Surah Hud's account of Madyan runs from 11:84 to 11:95. Shu'ayb (AS) has asked his people to worship Allah alone, to give full measure and weight, and to stop spreading corruption in the land. At 11:87 they mock his prayer. At 11:88 he answers that he wants nothing but reform, as far as he is able. At 11:89 he warns them of what struck the peoples of Nuh, Hud, Salih and Lut, and at 11:90 he ends on hope: ask your Lord's forgiveness and turn to Him; my Lord is Merciful and Loving.",
+            "bn": "সূরা হুদে মাদইয়ানের বিবরণ চলে ১১:৮৪ থেকে ১১:৯৫ পর্যন্ত। শুআইব (আঃ) তাঁর জাতিকে ডেকেছেন একমাত্র আল্লাহর ইবাদতের দিকে। বলেছেন মাপ ও ওজন পুরো দিতে, আর দেশে ফাসাদ ছড়ানো বন্ধ করতে। ১১:৮৭ আয়াতে তারা তাঁর নামাজ নিয়ে ঠাট্টা করে। ১১:৮৮ আয়াতে তিনি জবাব দেন, সাধ্যমতো সংশোধন ছাড়া আমি আর কিছু চাই না। ১১:৮৯ আয়াতে তিনি সতর্ক করেন নূহ, হুদ, সালিহ ও লূতের জাতির পরিণতি নিয়ে। আর ১১:৯০ আয়াতে শেষ করেন আশার কথায়: তোমাদের রবের কাছে ক্ষমা চাও, তাঁর দিকে ফিরে এসো; আমার রব পরম দয়ালু, অতিশয় ভালোবাসাময়।"
+          },
+          {
+            "en": "Our verse is what came back. It is eighteen Arabic words in four clauses: we do not understand much of what you say; we see you weak among us; but for your clan we would have stoned you; and you are not 'aziz over us. Not one clause answers what he actually asked of them. Ma'arif al-Qur'an, summing up the panel, says his people were enraged on hearing his warning. The four clauses turn away from the message to the man: his speech, his standing, his family and his worth in their eyes.",
+            "bn": "আমাদের আয়াতটি সেই ডাকের জবাব। আরবিতে আঠারোটি শব্দ, চারটি অংশ। তুমি যা বলো তার অনেক কিছুই আমরা বুঝি না; আমরা তোমাকে আমাদের মধ্যে দুর্বল দেখি; তোমার গোষ্ঠী না থাকলে তোমাকে পাথর মারতাম; আর আমাদের উপর তুমি আযীয নও। তিনি তাদের কাছে যা চেয়েছিলেন, তার জবাব এর একটি অংশেও নেই। মাআরিফুল কুরআন পুরো অংশটির সারকথা বলতে গিয়ে জানায়, তাঁর সতর্কবাণী শুনে জাতি ক্ষেপে উঠেছিল। চারটি অংশই বার্তা ছেড়ে মানুষটির দিকে ঘুরে যায়। তাঁর কথা, তাঁর অবস্থান, তাঁর পরিবার, আর তাদের চোখে তাঁর মূল্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearing Without Taking In",
+          "bn": "শুনেও না বোঝার দাবি"
+        },
+        "p": [
+          {
+            "en": "Ma nafqahu: we do not understand. Al-Baghawi keeps the plain sense, we do not grasp. At-Tabari glosses it as we do not know the reality of much of what you say and tell us. Ibn Kathir widens it: we neither grasp nor comprehend much of your speech, in our ears is a heaviness, and between us and you is a screen. Those last two phrases are the words the Qur'an reports, in 41:5, from people who turned away from another messenger, people who also tell him to go on working, for they are working.",
+            "bn": "মা নাফকাহু: আমরা বুঝি না। বাগাভী সরল অর্থেই থাকেন, আমরা ধরতে পারি না। তাবারীর ব্যাখ্যা: তুমি যা বলো আর যা জানাও, তার অনেক কিছুর আসল কথা আমরা জানি না। ইবন কাসীর অর্থটা আরও ছড়িয়ে দেন। তোমার কথার অনেকটাই আমরা বুঝি না, মাথায়ও ঢোকে না; আমাদের কানে ভার, আর আমাদের ও তোমার মাঝে পর্দা। শেষের এই দুটি কথা কুরআন ৪১:৫ আয়াতে উদ্ধৃত করেছে আরেক রাসূল থেকে মুখ ফেরানো লোকদের মুখ থেকে। সেখানেও তারা বলে, তুমি তোমার কাজ করো, আমরা আমাদের কাজ করছি।"
+          },
+          {
+            "en": "Al-Qurtubi gives two readings. In the first, they did not understand because he was carrying them towards unseen matters, the resurrection and the raising of the dead, and exhorting them with things they had never known. In the second, they said it to turn away from hearing him and in contempt for his speech. As-Sa'di takes the second road: they had grown weary of his counsel and his admonitions, and they said it out of dislike for what he was saying and aversion to it. Al-Qurtubi adds that faqiha means to understand.",
+            "bn": "কুরতুবী দুটি ব্যাখ্যা দেন। প্রথমটিতে, তারা বোঝেনি কারণ তিনি তাদের নিয়ে যাচ্ছিলেন অদৃশ্যের কথায়, পুনরুত্থান আর মৃতদের আবার জাগানোর কথায়। এমন সব বিষয়ে উপদেশ দিচ্ছিলেন, যার সঙ্গে তাদের কোনো পরিচয় ছিল না। দ্বিতীয়টিতে, কথাটা তারা বলেছিল তাঁর কথা শোনা থেকে মুখ ফেরাতে, আর তাঁর কথাকে তুচ্ছ করতে। সাদী দ্বিতীয় পথটি ধরেন। তাঁর উপদেশ আর নসিহতে তারা বিরক্ত হয়ে উঠেছিল। তিনি যা বলছিলেন, তার প্রতি বিদ্বেষ আর বিতৃষ্ণা থেকেই এ কথা বলেছিল। কুরতুবী আরও জানান, ফাকিহা মানে বুঝতে পারা।"
+          },
+          {
+            "en": "The passage itself gives the reader something to set beside the claim. At 11:87 the same people summed up his message exactly: that they should leave what their fathers worshipped and stop doing as they pleased with their wealth. They had understood the parts that would cost them. Notice too that they say kathiran, much, not everything. That is an observation on the order of the verses, not a commentator's claim, and it does not cancel al-Qurtubi's first reading.",
+            "bn": "দাবিটার পাশে রাখার মতো একটা জিনিস পাঠক এই অংশ থেকেই পান। ১১:৮৭ আয়াতে এই লোকেরাই তাঁর দাওয়াতের সারকথা ঠিকঠাক বলে দিয়েছিল। বাপদাদারা যার ইবাদত করত তা ছেড়ে দিতে হবে, আর নিজেদের সম্পদ নিয়ে যা খুশি তা করা চলবে না। যে কথাগুলোর দাম তাদের দিতে হতো, সেগুলো তারা ঠিকই বুঝেছিল। আরও খেয়াল করুন, তারা বলে কাসীরান, অনেক কিছু, সবকিছু নয়। এটা আয়াতগুলোর ক্রম দেখে করা পর্যবেক্ষণ, কোনো মুফাসসিরের দাবি নয়। এতে কুরতুবীর প্রথম ব্যাখ্যাও বাতিল হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Called the Orator of Prophets",
+          "bn": "নবীদের খতীব নামে পরিচিত"
+        },
+        "p": [
+          {
+            "en": "Under this verse at-Tabari records, through Abu Nu'aym from Sufyan, that it used to be said of Shu'ayb (AS) that he was khatib al-anbiya', the orator of the prophets. Ibn Kathir carries the same remark from ath-Thawri. It is Sufyan's report of what people said, in his words kana yuqal, it used to be said; it is not a saying of the Prophet ﷺ, and nothing in this article rests on it. It sits, all the same, beside a people telling this very man that much of what he said was beyond them.",
+            "bn": "এই আয়াতের নিচে তাবারী আবু নুআইমের সূত্রে সুফিয়ান থেকে বর্ণনা করেন, শুআইব (আঃ)-কে বলা হতো খতীবুল আম্বিয়া, নবীদের খতীব বা বক্তা। ইবন কাসীরও সাওরী থেকে একই কথা আনেন। এটা লোকমুখের কথা, সুফিয়ানের জবানিতে, তাঁর ভাষায় কানা ইউকাল, বলা হতো। নবী ﷺ-এর কোনো বাণী নয়, আর এই প্রবন্ধের কোনো কথা এর উপর দাঁড়িয়ে নেই। তবু কথাটা বসে আছে এমন এক জাতির পাশে, যারা ঠিক এই মানুষটিকেই বলছে, তোমার অনেক কথা আমাদের মাথায় ঢোকে না।"
+          },
+          {
+            "en": "The reader does not need the title to judge his speech, because the surah quotes it. Worship Allah; you have no god but Him. Give full measure and weight. What Allah leaves you is better for you, if you believe. I do not want to do myself what I forbid you. I want only reform, as far as I am able. My success comes only through Allah. Ask forgiveness, then turn to Him. Each sentence is short and plain. Whatever stood between his people and his words, it was not obscurity in the words.",
+            "bn": "তাঁর কথা বিচার করতে পাঠকের ওই উপাধির দরকার নেই, কারণ সূরাটি তাঁর কথাই উদ্ধৃত করেছে। আল্লাহর ইবাদত করো, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই। মাপ ও ওজন পুরো দাও। আল্লাহ যা বাকি রাখেন সেটাই তোমাদের জন্য উত্তম, যদি তোমরা মুমিন হও। যা করতে তোমাদের নিষেধ করি, আমি নিজে তা করতে চাই না। আমি সাধ্যমতো সংশোধনই চাই। আমার তাওফীক কেবল আল্লাহর পক্ষ থেকে। ক্ষমা চাও, তারপর তাঁর দিকে ফিরে এসো। প্রতিটি বাক্য ছোট, সরল। তাঁর কথা আর তাঁর জাতির মাঝে যা-ই দাঁড়িয়ে থাকুক, কথার অস্পষ্টতা তা ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weak in Whose Eyes",
+          "bn": "দুর্বল, কার চোখে"
+        },
+        "p": [
+          {
+            "en": "Wa inna la-naraka fina da'ifan: we see you weak among us. One group of reports reads the weakness as weakness of sight. At-Tabari introduces it in the passive, dhukira, it has been mentioned that he was darir, and then cites Sa'id ibn Jubayr through several chains: he was blind. Sufyan, in the same list, says weak of sight. Al-Qurtubi names Sa'id ibn Jubayr and Qatadah for an affliction of the eyes and ath-Thawri for weak sight, and relays from an-Nahhas, citing the philologists, that the people of Himyar called the blind da'if. Al-Baghawi gives weakness of sight as the meaning.",
+            "bn": "ওয়া ইন্না লানারাকা ফীনা দাঈফা: আমরা তোমাকে আমাদের মধ্যে দুর্বল দেখি। এক দল বর্ণনা এই দুর্বলতাকে পড়ে দৃষ্টির দুর্বলতা হিসেবে। তাবারী কথাটা শুরু করেন কর্মবাচ্যে, যুকিরা, উল্লেখ করা হয়েছে যে তিনি দৃষ্টিহীন ছিলেন। তারপর কয়েকটি সূত্রে সাঈদ ইবন জুবাইর থেকে আনেন: তিনি অন্ধ ছিলেন। একই তালিকায় সুফিয়ান বলেন, দৃষ্টি দুর্বল ছিল। কুরতুবী চোখের কষ্টের মতটি সাঈদ ইবন জুবাইর ও কাতাদার নামে, আর দুর্বল দৃষ্টির মতটি সাওরীর নামে আনেন। নাহহাস ভাষাবিদদের বরাতে জানান, হিময়ারের লোকেরা অন্ধকে দাঈফ বলত। বাগাভী অর্থ হিসেবে দৃষ্টির দুর্বলতাই উল্লেখ করেন।"
+          },
+          {
+            "en": "Another group reads weakness of standing. As-Sa'di: weak in yourself, not one of the great men and chiefs, but one of those held weak. Al-Muyassar says the same: you are not of the notables or the leaders. As-Suddi, in Ibn Kathir and al-Qurtubi: you are one man alone, with no troops or helpers, in al-Qurtubi's wording, to resist us. Abu Rawq, in Ibn Kathir: abased, because your clan does not share your religion. Al-Qurtubi adds al-Hasan's contemptible, a reading of weak in body that he relays from 'Ali ibn 'Isa, and little skill in worldly affairs and governing people.",
+            "bn": "আরেক দল পড়ে মর্যাদার দুর্বলতা হিসেবে। সাদী বলেন: তুমি নিজে দুর্বল, বড় বড় লোক বা নেতাদের কেউ নও, বরং দুর্বলদের একজন। মুয়াসসারও একই কথা বলে: তুমি গণ্যমান্য বা সর্দারদের কেউ নও। ইবন কাসীর ও কুরতুবীতে সুদ্দীর ব্যাখ্যা: তুমি একা একজন মানুষ। কুরতুবীর ভাষায়, তোমার এমন সেনা বা সাহায্যকারী নেই যা দিয়ে আমাদের ঠেকাতে পারো। ইবন কাসীরে আবু রাওকের ব্যাখ্যা: তুমি হীন, কারণ তোমার গোষ্ঠী তোমার দ্বীনে নেই। কুরতুবী আরও আনেন হাসানের ব্যাখ্যা, তুচ্ছ; আলী ইবন ঈসা থেকে শরীরের দুর্বলতার মত; আর দুনিয়ার কাজকর্ম ও লোক চালানোয় অদক্ষতার মত।"
+          },
+          {
+            "en": "This article takes neither side; both are reported, and the commentators fetched here divide over it. What is not in doubt is whose sentence this is. The Qur'an reports it as the speech of the people who rejected him, not as its own description of him. Its own description is in 11:88, where he stands on clear evidence from his Lord with good provision from Him, and in 11:94, where Allah rescues him by His mercy. Read either way, the measure in this clause was theirs, and the verse records it against them.",
+            "bn": "এই প্রবন্ধ কোনো পক্ষ নেয় না। দুটি মতই বর্ণিত, আর এখানে দেখা তাফসীরগুলো এ নিয়ে দুই ভাগে বিভক্ত। তবে বাক্যটি কার, তাতে কোনো সন্দেহ নেই। কুরআন এটাকে এনেছে তাঁকে প্রত্যাখ্যানকারী লোকদের কথা হিসেবে, তাঁর সম্পর্কে নিজের বর্ণনা হিসেবে নয়। কুরআনের নিজের বর্ণনা আছে ১১:৮৮ আয়াতে, যেখানে তিনি রবের পক্ষ থেকে স্পষ্ট প্রমাণের উপর আছেন, তাঁর দেওয়া উত্তম রিযক নিয়ে। আর আছে ১১:৯৪ আয়াতে, যেখানে আল্লাহ নিজ রহমতে তাঁকে উদ্ধার করেন। যেভাবেই পড়া হোক, এই অংশের মাপকাঠিটা ছিল তাদের, আর আয়াতটি তা লিখে রাখে তাদেরই বিপক্ষে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Clan Like a Burrow",
+          "bn": "গোষ্ঠী যেন নিরাপদ গর্ত"
+        },
+        "p": [
+          {
+            "en": "Wa lawla rahtuka: and but for your clan. Al-Qurtubi defines a man's raht as his kin, on whom he leans and through whom he gains strength. From the same root, he says, comes ar-rahita', the burrow of the jerboa, because the animal makes itself secure in it and hides its young there. Ibn Kathir glosses raht as your people and your kin, and spells out the clause: were it not for the regard your people have with us. Al-Baghawi says he was under the protection of his people.",
+            "bn": "ওয়া লাওলা রাহতুকা: তোমার গোষ্ঠী না থাকলে। কুরতুবী রাহতের সংজ্ঞা দেন এভাবে: মানুষের আত্মীয়স্বজন, যাদের উপর সে ভর দেয় আর যাদের দিয়ে শক্তি পায়। তিনি বলেন, একই মূল থেকে এসেছে রাহিতা শব্দটি, জারবোয়া নামের মরু-ইঁদুরের গর্ত। কারণ প্রাণীটি সেখানে নিজেকে নিরাপদ রাখে আর বাচ্চাদের লুকিয়ে রাখে। ইবন কাসীর রাহতের অর্থ করেন তোমার জাতি ও আত্মীয়স্বজন, আর অংশটি খুলে বলেন: আমাদের কাছে তোমার লোকজনের যে সম্মান আছে, তা না থাকলে। বাগাভী বলেন, তিনি তাঁর জাতির আশ্রয়ে সুরক্ষিত ছিলেন।"
+          },
+          {
+            "en": "Did that clan share his faith? Al-Qurtubi and al-Muyassar both say his clan were of their own religion, and Abu Rawq's reading in the last section assumes the same. So the shelter he had was kinship, not belief. As-Sa'di puts the logic in the mouths of the speakers: we respected only your tribe, by leaving you alone. Earlier in the surah, at 11:80, Lut (AS) wishes he had strength against his attackers or a strong support to take refuge in. Shu'ayb (AS) had such a support, and his opponents honoured it for its numbers.",
+            "bn": "সেই গোষ্ঠী কি তাঁর ঈমানে শরিক ছিল? কুরতুবী ও মুয়াসসার দুজনেই বলেন, তাঁর গোষ্ঠী ছিল তাদেরই ধর্মের লোক। আগের অংশে আবু রাওকের ব্যাখ্যাও একই কথা ধরে নেয়। অর্থাৎ তাঁর আশ্রয় ছিল আত্মীয়তার, ঈমানের নয়। সাদী যুক্তিটা বক্তাদের মুখেই বসিয়ে দেন: আমরা সম্মান করেছি কেবল তোমার গোত্রকে, তোমাকে ছেড়ে দিয়ে। এই সূরারই ১১:৮০ আয়াতে লূত (আঃ) আক্ষেপ করেন, আক্রমণকারীদের ঠেকানোর শক্তি যদি থাকত, কিংবা আশ্রয় নেওয়ার মতো কোনো শক্ত খুঁটি। শুআইব (আঃ)-এর তেমন খুঁটি ছিল, আর বিরোধীরা তা মেনেছিল লোকবলের হিসাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stones, or Hard Words",
+          "bn": "পাথর, নাকি কটু কথা"
+        },
+        "p": [
+          {
+            "en": "La-rajamnaka: we would have stoned you. At-Tabari's own gloss is la-sababnaka, we would have reviled you; then he notes that some said it means we would have killed you, and cites Ibn Zayd: but that we are wary of your people and your clan, we would have stoned you. Al-Qurtubi reads killing by stoning, the way they put people to death, and also reviling, with a line of al-Ja'di, and notes that rajm can mean cursing, as in ash-shaytan ar-rajim. Al-Baghawi: we would have killed you, and stoning is the worst of killings.",
+            "bn": "লারাজামনাকা: তোমাকে পাথর মারতাম। তাবারীর নিজের ব্যাখ্যা লাসাবাবনাকা, তোমাকে গালিগালাজ করতাম। তারপর তিনি জানান, কেউ কেউ বলেছেন এর অর্থ তোমাকে মেরে ফেলতাম, আর ইবন যায়দের কথা আনেন: তোমার জাতি আর গোষ্ঠীকে সমঝে না চললে তোমাকে পাথর মারতাম। কুরতুবী পড়েন পাথর মেরে হত্যা, কারণ কাউকে মারলে তারা পাথর মেরেই মারত। গালমন্দের অর্থও আনেন, জা'দীর এক পঙ্‌ক্তি দিয়ে। আরও বলেন, রাজম মানে অভিশাপও হয়, যেমন আশ-শায়তানুর রাজীম। বাগাভী বলেন, তোমাকে মেরে ফেলতাম, আর পাথর মেরে হত্যা সবচেয়ে জঘন্য হত্যা।"
+          },
+          {
+            "en": "Ibn Kathir keeps both: some said with stones, some said we would have reviled you. Al-Muyassar takes killing by stoning. Then the last clause, wa ma anta 'alayna bi-'aziz, again with two senses. At-Tabari: you are not someone held dear by us, so that humbling and humiliating you would weigh on us; rather it would be easy for us. Ibn Kathir, as-Sa'di and al-Muyassar speak of regard and respect: you have none in our hearts. Al-Qurtubi reads power instead: you do not overpower us, and you are not beyond our reach.",
+            "bn": "ইবন কাসীর দুটিই রাখেন: কেউ বলেছেন পাথর দিয়ে, কেউ বলেছেন গালমন্দ করতাম। মুয়াসসার নেয় পাথর মেরে হত্যার অর্থ। তারপর শেষ অংশ, ওয়া মা আনতা আলাইনা বিআযীয, এখানেও দুটি অর্থ। তাবারী বলেন: তুমি আমাদের কাছে এমন প্রিয় কেউ নও যে তোমাকে অপমান আর হেয় করা আমাদের গায়ে লাগবে; বরং কাজটা আমাদের জন্য সহজ। ইবন কাসীর, সাদী ও মুয়াসসার কথা বলেন কদর আর সম্মান নিয়ে: আমাদের মনে তোমার কোনো কদর নেই। কুরতুবী পড়েন ক্ষমতার অর্থে: তুমি আমাদের উপর বিজয়ী নও, আমাদের নাগালের বাইরেও নও।"
+          },
+          {
+            "en": "Put the four clauses together and the threat explains itself. They were holding back, and they say why. It was not the justice of his case, which they never discuss, and it was not fear of Allah, whom they never mention. It was the men behind him. A restraint with that root lasts only as long as the clan stands, which is why the next verse puts a different question to them.",
+            "bn": "চারটি অংশ পাশাপাশি রাখলে হুমকিটা নিজেই নিজের ব্যাখ্যা দেয়। তারা হাত গুটিয়ে রেখেছিল, আর কারণটাও নিজেরাই বলে দিয়েছে। কারণ তাঁর কথার ন্যায্যতা নয়, যা নিয়ে তারা একটি কথাও বলেনি। আল্লাহর ভয়ও নয়, যাঁর নাম তারা মুখেই আনেনি। কারণ তাঁর পেছনের লোকজন। এমন শিকড়ের সংযম টেকে কেবল ততদিন, যতদিন গোষ্ঠী দাঁড়িয়ে থাকে। সে কারণেই পরের আয়াতে তাদের সামনে আসে ভিন্ন এক প্রশ্ন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spared for the Wrong Reason",
+          "bn": "রেহাই, তবে ভুল কারণে"
+        },
+        "p": [
+          {
+            "en": "That question is 11:92, and it takes up their own word. They had said he was not 'aziz to them; he asks whether his clan is a'azz, mightier or dearer, to them than Allah, whom they have cast behind their backs. Ibn Kathir paraphrases: you would leave me alone out of regard for my people, but not out of regard for the greatness of the Lord. Ma'arif al-Qur'an says they feared his clan but had no fear of Allah, who holds everything in His power. That verse has its own place; here it is enough to see the word turned back.",
+            "bn": "সেই প্রশ্নই ১১:৯২ আয়াত, আর তা তাদের নিজেদের শব্দটিই তুলে নেয়। তারা বলেছিল, তুমি আমাদের কাছে আযীয নও। তিনি জিজ্ঞেস করেন, আমার গোষ্ঠী কি তোমাদের কাছে আল্লাহর চেয়েও আআয্‌য, বেশি প্রবল বা বেশি প্রিয়? অথচ আল্লাহকে তোমরা পেছনে ফেলে রেখেছ। ইবন কাসীরের ভাষ্য: আমার জাতির খাতিরে তোমরা আমাকে ছেড়ে দিচ্ছ, অথচ রবের মহিমার খাতিরে নয়। মাআরিফুল কুরআন বলে, তারা তাঁর গোষ্ঠীকে ভয় করত, কিন্তু যে আল্লাহর হাতে সবকিছু, তাঁকে ভয় করত না। সে আয়াতের আলোচনা তার নিজের জায়গায়। এখানে শুধু দেখার বিষয়, শব্দটা কীভাবে তাদের দিকেই ফিরে গেল।"
+          },
+          {
+            "en": "There is a quiet fit between this verse and the sin Shu'ayb (AS) was sent to correct. A people who shaved the measure in the market now weigh a messenger, and the weights on their scale are rank, numbers and kin. The truth of what he says is never put on it. The surah has shown the same habit before: at 11:27 the chiefs of Nuh's people begin with the same verb, ma naraka, we do not see you except as a man like us. Seeing, for both, meant counting what stood behind a man.",
+            "bn": "শুআইব (আঃ)-কে যে গুনাহ শোধরাতে পাঠানো হয়েছিল, তার সঙ্গে এই আয়াতের একটা নীরব মিল আছে। যে জাতি বাজারে মাপে কম দিত, তারাই এখন একজন রাসূলকে ওজন করছে। তাদের পাল্লার বাটখারা হলো পদমর্যাদা, লোকসংখ্যা আর আত্মীয়তা। তিনি যা বলছেন তার সত্যতা পাল্লায় ওঠেই না। সূরাটি এই অভ্যাস আগেও দেখিয়েছে। ১১:২৭ আয়াতে নূহের জাতির সর্দারেরা শুরু করে একই ক্রিয়া দিয়ে, মা নারাকা: আমরা তোমাকে আমাদের মতোই একজন মানুষ ছাড়া কিছু দেখি না। দুই জাতির কাছেই দেখা মানে ছিল মানুষটির পেছনে কী আছে তা গোনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Licence to Mock",
+          "bn": "তাচ্ছিল্যের কোনো সনদ নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports what the people of Madyan said to their prophet, and 11:94 and 11:95 report what became of them. It licenses nothing against any living person, family or community, and it makes no one today the people of Madyan. Nor does it give anyone leave to mock a person's eyesight, body or lack of a following. Shu'ayb (AS) lacked nothing his message needed. The weakness named here was their verdict on him, and the Qur'an records it as theirs, beside the mercy that rescued him.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জানায় মাদইয়ানের লোকেরা তাদের নবীকে কী বলেছিল, আর ১১:৯৪ ও ১১:৯৫ আয়াত জানায় তাদের পরিণতি কী হয়েছিল। আজকের কোনো জীবিত মানুষ, পরিবার বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজ কাউকে মাদইয়ানবাসী বানিয়েও দেয় না। কারও দৃষ্টিশক্তি, শরীর বা পেছনে লোক না থাকা নিয়ে ঠাট্টা করার অনুমতিও কাউকে দেয় না। শুআইব (আঃ)-এর দাওয়াতের জন্য যা দরকার, তার কোনো কিছুরই কমতি তাঁর ছিল না। এখানে যে দুর্বলতার কথা, তা তাঁর সম্পর্কে তাদের রায়। কুরআন সেটাকে তাদের কথা হিসেবেই রেখেছে, পাশে রেখেছে সেই রহমত, যা তাঁকে উদ্ধার করেছিল।"
+          },
+          {
+            "en": "The tafsir texts consulted attach no hadith of the Prophet ﷺ to this verse and record no occasion of its revelation; the reports on his sight come from Sa'id ibn Jubayr, Qatadah and Sufyan, not from the Prophet ﷺ. What the verse leaves the reader is a question about their own scales. When a true word comes from someone with no rank and no one behind them, is it heard? And when we hold back from harming someone, who are we afraid of? O Allah, let us hear the truth from whoever brings it, and let fear of You keep our hands.",
+            "bn": "দেখা তাফসীরগুলো এই আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করে না, কোনো শানে নুযূলও উল্লেখ করে না। তাঁর দৃষ্টি নিয়ে বর্ণনাগুলো সাঈদ ইবন জুবাইর, কাতাদা ও সুফিয়ানের, নবী ﷺ-এর নয়। পাঠকের জন্য আয়াতটি রেখে যায় নিজের পাল্লা নিয়ে একটা প্রশ্ন। পদমর্যাদাহীন, পেছনে কেউ নেই এমন কারও মুখে সত্য কথা এলে আমরা কি তা শুনি? আর কারও ক্ষতি করা থেকে যখন বিরত থাকি, তখন ভয়টা আসলে কাকে? হে আল্লাহ, যে-ই সত্য নিয়ে আসুক, তার কাছ থেকে তা শোনার তাওফীক দিন। আর আমাদের হাত সংযত রাখুক আপনার ভয়।"
+          }
+        ]
+      }
+    ]
+  },
   "11:94": {
     "sections": [
       {
