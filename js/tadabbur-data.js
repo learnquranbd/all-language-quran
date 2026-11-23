@@ -30343,6 +30343,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let your deeds, not your words, show what is in your heart, and keep away from every kind of corruption, small or large, because Allah does not love it.",
     "lessonBn": "মনে কী আছে, তা আপনার কথা নয়, কাজ দেখাক। ছোট হোক বা বড়, সব রকম ফাসাদ থেকে দূরে থাকুন, কারণ আল্লাহ তা পছন্দ করেন না।"
+  },
+  "2:106": {
+    "reflectionEn": "A ruling comes down and the believers live by it. Then another verse arrives and it changes: the direction of prayer turns, a burden is lifted, or a light duty becomes a heavier one. To someone watching from outside, it can look like a change of mind. The verse answers that nothing is removed without something better or equal put in its place, by the One who is able to do all things. A replacement is either easier now or richer in reward later. That kind of change in the law ended with the Prophet ﷺ, so the question left for me is smaller. When something I relied on is taken away, do I look for the good that came in its place, or only grieve for what went?",
+    "reflectionBn": "একটা বিধান নাজিল হয়, মুমিনরা সে অনুযায়ী চলে। তারপর আরেকটা আয়াত আসে, আর বিধানটা বদলে যায়। নামাজের দিক ঘুরে যায়, কোনো বোঝা নেমে যায়, কিংবা হালকা কোনো দায়িত্ব ভারী হয়ে ওঠে। বাইরে থেকে যে দেখে, তার মনে হতে পারে মত বদলানো হয়েছে। আয়াত জবাব দেয়: যিনি সবকিছুর উপর ক্ষমতাবান, তিনি কিছু সরালে তার জায়গায় আরও ভালো কিংবা তার সমান কিছু এনে দেন। নতুন বিধান হয় এখনই সহজ, নয়তো পরে বেশি সওয়াবের। শরিয়তের এমন বদল নবী ﷺ-এর সঙ্গেই শেষ হয়ে গেছে। তাই আমার সামনে প্রশ্নটা ছোট। যার উপর আমি ভরসা করতাম, তা কেড়ে নেওয়া হলে আমি কি খুঁজি তার জায়গায় কী কল্যাণ এল? নাকি শুধু হারানো জিনিসের জন্যই আফসোস করি?",
+    "pointsEn": [
+      "When something I depended on was taken from me, did I ever stop to look for what was given in its place?",
+      "Do I count an easier duty as a gift and a harder one as a loss, when either may carry the greater good?",
+      "Have I ever pulled out one verse or narration on its own, without asking how the scholars read it beside the rest?",
+      "When people mock a change I made to obey Allah, do I explain it by His wisdom, or apologise for it?",
+      "Do I really believe that the One who is able to do all things knows what my circumstances need better than I do?"
+    ],
+    "pointsBn": [
+      "যার উপর নির্ভর করতাম তা যখন আমার কাছ থেকে নেওয়া হলো, তার জায়গায় কী দেওয়া হলো, তা কি একবারও থেমে দেখেছি?",
+      "সহজ দায়িত্বকে আমি উপহার আর কঠিন দায়িত্বকে লোকসান ভাবি কি না? অথচ দুটোর যেকোনোটাতেই বড় কল্যাণ থাকতে পারে।",
+      "কোনো আয়াত বা বর্ণনাকে কি আমি কখনো আলাদা করে তুলে এনেছি, আলেমরা বাকিগুলোর পাশে রেখে সেটা কীভাবে পড়েছেন তা না জেনেই?",
+      "আল্লাহর হুকুম মানতে গিয়ে আমি যে বদল এনেছি, তা নিয়ে লোকে ঠাট্টা করলে আমি কি তাঁর হিকমতের কথা বলি, নাকি লজ্জায় মাফ চাই?",
+      "যিনি সবকিছুর উপর ক্ষমতাবান, আমার অবস্থার জন্য কী দরকার তা তিনি আমার চেয়ে ভালো জানেন, এ কথা কি আমি সত্যিই বিশ্বাস করি?"
+    ],
+    "lessonEn": "Allah removes nothing from His law without bringing something better or equal; meet what replaces your plans with trust, and never set a text aside on your own say-so.",
+    "lessonBn": "আল্লাহ তাঁর বিধান থেকে কিছু সরালে তার চেয়ে ভালো বা তার সমান কিছু এনে দেন। আপনার পরিকল্পনার জায়গায় যা আসে, তাকে ভরসা নিয়ে গ্রহণ করুন, আর নিজের মর্জিতে কখনো কোনো দলিল বাদ দেবেন না।"
   }
 };
 

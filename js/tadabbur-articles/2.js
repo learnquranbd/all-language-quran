@@ -3847,6 +3847,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "2:106": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Answer to a Taunt",
+          "bn": "এক খোঁটার জবাব"
+        },
+        "p": [
+          {
+            "en": "Ma nansakh min ayatin aw nunsiha: whatever verse We abrogate or cause to be forgotten, We bring one better than it or like it. The verse stands between 2:105, where the disbelievers do not wish any good sent down to the believers, and 2:109, where many of the People of the Book wish to turn them back. Al-Qurtubi calls it a mighty verse in the rulings of the law, and several tafsirs read it as the answer to a charge.",
+            "bn": "মা নানসাখ মিন আয়াতিন আও নুনসিহা: আমি কোনো আয়াত রহিত করলে বা ভুলিয়ে দিলে তার চেয়ে উত্তম কিংবা তার মতো আয়াত নিয়ে আসি। আয়াতটির আগে আছে ২:১০৫, যেখানে বলা হয়েছে, কাফিররা চায় না মুমিনদের উপর কোনো কল্যাণ নাজিল হোক। পরে আছে ২:১০৯, যেখানে আহলে কিতাবের অনেকে তাদের ফিরিয়ে নিতে চায়। কুরতুবী একে শরিয়তের বিধানের ক্ষেত্রে এক মহান আয়াত বলেছেন। একাধিক তাফসীর একে পড়েছে একটি অভিযোগের জবাব হিসেবে।"
+          },
+          {
+            "en": "They name the speakers differently. Al-Qurtubi says the Jews, envying the Muslims when they turned to the Ka'bah, attacked Islam with it: Muhammad commands his Companions something and then forbids it, so this Quran is from him alone, which is why it contradicts itself. Allah then revealed 16:101 and this verse. Al-Baghawi gives the same words to the polytheists, and al-Wahidi, read on quranx, relays it from the commentators, again naming the idolaters. Ma'arif al-Qur'an names both. None of them gives a chain for it.",
+            "bn": "কারা এ কথা বলেছিল, সে ব্যাপারে তাঁদের বর্ণনা আলাদা। কুরতুবী বলেন, মুসলিমরা কাবার দিকে ফিরলে ইহুদিরা হিংসায় এ নিয়ে ইসলামের উপর আঘাত হানে। তারা বলে, মুহাম্মাদ সাহাবিদের একটা কাজের হুকুম দেন, তারপর সেটাই নিষেধ করেন। কাজেই এ কুরআন তাঁর নিজের বানানো, আর সেজন্যই এর এক অংশ অন্য অংশের বিপরীত। তখন আল্লাহ ১৬:১০১ আর এই আয়াত নাজিল করেন। বাগাভী প্রায় একই কথা মুশরিকদের মুখে দিয়েছেন। কুরআনএক্স সাইটে পড়া ওয়াহিদীও তাফসীরকারদের সূত্রে কথাটা আনেন, আর তিনিও মুশরিকদের নাম নেন। মাআরিফুল কুরআন দুই দলেরই নাম নেয়। তাঁদের কেউ এর কোনো সনদ দেননি।"
+          },
+          {
+            "en": "This needs saying plainly. As the tafsirs tell it, the verse answers one objection raised by particular people in a particular hour. It licenses nothing against any living person or community, Jewish or otherwise, and gives no warrant for suspecting a neighbour. What it hands the reader is the answer itself: why a ruling from Allah can be replaced with no fault in the first ruling and no change of mind in Him who gave it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। তাফসীরগুলোর বর্ণনায় আয়াতটি নির্দিষ্ট সময়ে নির্দিষ্ট কিছু মানুষের তোলা একটি আপত্তির জবাব। ইহুদি হোক বা অন্য কেউ, আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশীকে সন্দেহ করার ছাড়পত্রও দেয় না। পাঠকের হাতে আয়াত তুলে দেয় জবাবটুকু। আল্লাহর এক বিধানের জায়গায় আরেক বিধান আসতে পারে, অথচ আগের বিধানে কোনো ত্রুটি ছিল না, আর যিনি বিধান দিয়েছেন তাঁরও মত বদলায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Copying a Page, Erasing a Shadow",
+          "bn": "পাতা নকল, ছায়া মোছা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari takes the word back to naskh al-kitab, copying a book from copy to copy; so the naskh of a ruling is its transfer to something else. It turns the lawful into the unlawful and the unlawful into the lawful, the permitted into the forbidden and back, and it happens only in commands and prohibitions, never in reports. A verse whose ruling is changed, he adds, counts as abrogated whether its script is left standing or its trace is wiped away.",
+            "bn": "তাবারী শব্দটিকে নিয়ে যান নাসখুল কিতাবে, অর্থাৎ বই নকল করা, এক কপি থেকে আরেক কপিতে তুলে নেওয়া। বিধানের নাসখও তেমনি, এক জিনিস থেকে আরেক জিনিসে সরিয়ে নেওয়া। তাঁর ব্যাখ্যায় এতে হালাল হারাম হয়, হারাম হালাল হয়, বৈধ নিষিদ্ধ হয়, আবার নিষিদ্ধ বৈধ হয়। আর এটা ঘটে শুধু আদেশ ও নিষেধে, কোনো সংবাদে কখনো নয়। তিনি যোগ করেন, যে আয়াতের বিধান বদলে গেছে, তা রহিত বলেই গণ্য। তার লেখা রেখে দেওয়া হোক বা তার চিহ্ন মুছে ফেলা হোক, তাতে পার্থক্য নেই।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi separate two senses. The first is transfer; in that sense, al-Baghawi notes, the whole Quran was copied from the Preserved Tablet, and al-Qurtubi says this sense has no bearing on the verse. The second is removal, as when the sun is said to nasakha the shadow, driving it off and taking its place. Al-Qurtubi adds removal with nothing in its place, as when the wind erases a trace. Ma'arif al-Qur'an says the commentators agree the verse uses the sense of repeal.",
+            "bn": "বাগাভী ও কুরতুবী শব্দটির দুটি অর্থ আলাদা করেন। প্রথমটি স্থানান্তর। বাগাভী বলেন, এ অর্থে গোটা কুরআনই লাওহে মাহফুজ থেকে নকল হয়ে এসেছে। কুরতুবী বলেন, এ অর্থের সঙ্গে এই আয়াতের কোনো সম্পর্ক নেই। দ্বিতীয়টি সরিয়ে দেওয়া। আরবরা বলে, সূর্য ছায়াকে নাসখ করেছে, মানে ছায়া তাড়িয়ে তার জায়গা নিয়েছে। কুরতুবী আরেক রকম সরানোর কথাও বলেন, যার জায়গায় কিছু আসে না, যেমন বাতাস পায়ের ছাপ মুছে দেয়। মাআরিফুল কুরআন বলে, তাফসীরকারেরা একমত যে আয়াতে শব্দটি রহিত করার অর্থে এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Replace, Erase, or Lift",
+          "bn": "বদলানো, মোছা, না তুলে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari and Ibn Kathir gather what the early generation said about nansakh. Ibn Abbas, through Ali ibn Abi Talha: whatever verse We replace. Mujahid, through Ibn Jurayj: whatever verse We erase. Mujahid again, relaying the companions of Ibn Mas'ud: We keep its script and change its ruling. As-Suddi: its naskh is its being taken away, which Ibn Abi Hatim explains as its being raised.",
+            "bn": "নানসাখ শব্দ নিয়ে প্রথম প্রজন্মের কথাগুলো তাবারী ও ইবন কাসীর একত্র করেছেন। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ): আমি যে আয়াত বদলে দিই। ইবন জুরাইজের সূত্রে মুজাহিদ: আমি যে আয়াত মুছে দিই। মুজাহিদ আবার ইবন মাসউদ (রাঃ)-এর শিষ্যদের সূত্রে বলেন: আমি তার লেখা রেখে দিই, আর বিধান বদলে দিই। সুদ্দী বলেন: তার নাসখ মানে তাকে তুলে নেওয়া। ইবন আবী হাতিম এর ব্যাখ্যা দেন উঠিয়ে নেওয়া বলে।"
+          },
+          {
+            "en": "Most read nansakh, We abrogate. Al-Baghawi and al-Qurtubi report that Ibn Amir read nunsikh, and al-Baghawi offers two senses for it: We treat it as abrogated, or We give it to be copied. Al-Qurtubi relays Abu Hatim calling it an error, then Abu Ali al-Farisi's answer: it means whatever We find abrogated, and it is found so only by being abrogated, so the two readings agree in meaning. At-Tabari, naming no reader, rejects the form for departing from the widely transmitted reading.",
+            "bn": "অধিকাংশ পড়েছেন নানসাখ, অর্থাৎ আমি রহিত করি। বাগাভী ও কুরতুবী জানান, ইবন আমির পড়েছেন নুনসিখ। বাগাভী এর দুটি অর্থ দেন: আমি একে রহিতের মতো করে দিই, অথবা আমি একে নকল করার জন্য দিই। কুরতুবী আবু হাতিমের কথা আনেন, যিনি একে ভুল বলেছেন। তারপর আনেন আবু আলী ফারিসীর জবাব: এর অর্থ, যা আমি রহিত অবস্থায় পাই। আর রহিত না করলে তো রহিত অবস্থায় পাওয়া যায় না, তাই দুই কিরাআতের অর্থ এক। তাবারী কোনো কারীর নাম না নিয়ে এ রূপটি প্রত্যাখ্যান করেন, কারণ তাঁর মতে এটি ব্যাপকভাবে বর্ণিত কিরাআত থেকে সরে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nunsiha or Nansa'ha",
+          "bn": "নুনসিহা, না নানসাআহা"
+        },
+        "p": [
+          {
+            "en": "The second verb was read two ways. At-Tabari says the readers of Medina and Kufa read nunsiha, from forgetting or leaving, while a group of Companions and Successors and some readers of Kufa and Basra read nansa'ha, from delaying. Al-Baghawi names the Meccan reader Ibn Kathir, not the commentator, and Abu Amr for nansa'ha. Al-Qurtubi names the same two, adds that Umar, Ibn Abbas, Ata, Mujahid, Ubayy ibn Ka'b, Ubayd ibn Umayr, an-Nakha'i and Ibn Muhaysin read it so, and says the rest read nunsiha.",
+            "bn": "দ্বিতীয় ক্রিয়াটি দুইভাবে পড়া হয়েছে। তাবারী বলেন, মদীনা ও কুফার কারীরা পড়েছেন নুনসিহা, যার মূল ভুলে যাওয়া বা ছেড়ে দেওয়া। আর সাহাবি ও তাবেয়িদের একদল এবং কুফা ও বসরার কিছু কারী পড়েছেন নানসাআহা, যার মূল পিছিয়ে দেওয়া। বাগাভী নানসাআহা কিরাআতের জন্য নাম নেন মক্কার কারী ইবন কাসীর ও আবু আমরের। ইনি তাফসীরকার ইবন কাসীর নন। কুরতুবীও এ দুজনের নাম নেন। তিনি যোগ করেন, উমর, ইবন আব্বাস, আতা, মুজাহিদ, উবাই ইবন কা'ব, উবাইদ ইবন উমাইর, নাখায়ী ও ইবন মুহাইসিন এভাবেই পড়েছেন। বাকিরা পড়েছেন নুনসিহা।"
+          },
+          {
+            "en": "Read as nunsiha, at-Tabari finds two senses. First, forgetting: Qatadah said Allah would make His Prophet ﷺ forget what He willed and abrogate what He willed; al-Hasan said your Prophet ﷺ was taught Quran and then forgot it; Ubayd ibn Umayr said, We raise it from among you. Second, leaving, as in 9:67, they forgot Allah so He forgot them: Ibn Abbas, through Ali ibn Abi Talha, and as-Suddi both said, or We leave it unchanged. Al-Qurtubi relays az-Zajjaj objecting that this form cannot mean leaving.",
+            "bn": "নুনসিহা পড়লে তাবারী দুটি অর্থ পান। প্রথমটি ভুলিয়ে দেওয়া। কাতাদা বলেন, আল্লাহ তাঁর নবী ﷺ-কে যা চাইতেন ভুলিয়ে দিতেন, আর যা চাইতেন রহিত করতেন। হাসান বলেন, তোমাদের নবী ﷺ-কে কুরআনের কিছু অংশ পড়ানো হয়েছিল, পরে তিনি তা ভুলে যান। উবাইদ ইবন উমাইর বলেন, আমি তা তোমাদের মাঝ থেকে উঠিয়ে নিই। দ্বিতীয় অর্থ ছেড়ে দেওয়া, যেমন ৯:৬৭ আয়াতে: তারা আল্লাহকে ভুলে গেছে, তাই তিনিও তাদের ভুলে গেছেন। এখানে ভুলে যাওয়া মানে ছেড়ে দেওয়া। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) আর সুদ্দী দুজনেই বলেন: অথবা আমি তা অপরিবর্তিত রেখে দিই। কুরতুবী যাজ্জাজের আপত্তি আনেন যে এ রূপের অর্থ ছেড়ে দেওয়া হতে পারে না।"
+          },
+          {
+            "en": "Read as nansa'ha, the word means to delay, as in selling on deferred terms. Ata said, We delay it; Mujahid, We defer it; Atiyya al-Awfi, We delay it and do not abrogate it. Al-Baghawi relays from Sa'id ibn al-Musayyib and Ata that it is kept in the Preserved Tablet and not sent down. At-Tabari prefers nunsiha in the sense of leaving: having said what Allah does when He changes a ruling, the verse naturally turns to what He does when He leaves it.",
+            "bn": "নানসাআহা পড়লে শব্দটির অর্থ পিছিয়ে দেওয়া, যেমন বাকিতে বিক্রি করাকে আরবিতে বলা হয় নাসা। আতা বলেন, আমি তা পিছিয়ে দিই। মুজাহিদ বলেন, আমি তা মুলতবি রাখি। আতিয়্যা আল-আওফী বলেন, আমি তা পিছিয়ে দিই, রহিত করি না। বাগাভী সাঈদ ইবনুল মুসাইয়িব ও আতার কথা আনেন: তা লাওহে মাহফুজে রেখে দেওয়া হয়, নাজিল করা হয় না। তাবারী অবশ্য পছন্দ করেন নুনসিহা, ছেড়ে দেওয়ার অর্থে। তাঁর যুক্তি, বিধান বদলালে আল্লাহ কী করেন তা বলার পর স্বাভাবিকভাবেই আয়াত বলবে, না বদলালে তিনি কী করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Except What Allah Wills",
+          "bn": "আল্লাহ যা চান, তা ছাড়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari records a group who denied that the Prophet ﷺ could have forgotten anything of the Quran that was not abrogated. They cited 17:86: if We willed, We could take away what We revealed to you. At-Tabari rejects this. That verse, he says, only tells that Allah could take all of it, and He did not; what He did take was what people no longer needed. And 87:6 and 87:7 say: We will make you recite, so you will not forget, except what Allah wills.",
+            "bn": "তাবারী একদল লোকের কথা উল্লেখ করেন, যাঁরা অস্বীকার করতেন যে নবী ﷺ কুরআনের এমন কিছু ভুলে যেতে পারেন যা রহিত হয়নি। প্রমাণ হিসেবে তাঁরা আনেন ১৭:৮৬: আমি চাইলে তোমার কাছে যা ওহি করেছি তা নিয়ে যেতে পারতাম। তাবারী এ মত প্রত্যাখ্যান করেন। তিনি বলেন, ওই আয়াত শুধু এটুকু জানায় যে আল্লাহ চাইলে সবটাই নিয়ে যেতে পারতেন, কিন্তু নেননি। যা নিয়েছেন, তা এমন অংশ যার প্রয়োজন মানুষের আর ছিল না। আর ৮৭:৬ ও ৮৭:৭ বলে: আমি তোমাকে পড়িয়ে দেব, ফলে তুমি ভুলবে না, তবে আল্লাহ যা চান তা ছাড়া।"
+          },
+          {
+            "en": "He cites a report from Anas, with no grading, about a passage recited concerning the Ansar killed at Bi'r Ma'una that was later lifted. Ibn Kathir, al-Qurtubi and al-Baghawi carry another, about Companions who rose at night and could not recall a surah they had learned; Ibn Kathir notes a narrator he calls weak in at-Tabarani's chain, so it is only mentioned here. At-Tabari closes by saying he chose his reading for the coherence of the passage, not to deny that Allah made His Prophet ﷺ forget some abrogated revelation.",
+            "bn": "নিজের পক্ষে তিনি আনাস (রাঃ)-এর একটি বর্ণনা আনেন, কোনো মান নির্ণয় ছাড়া। বি'রে মাউনায় শহীদ আনসারদের নিয়ে পড়া একটি অংশের কথা তাতে আছে, যা পরে উঠিয়ে নেওয়া হয়। ইবন কাসীর, কুরতুবী ও বাগাভী আরেকটি বর্ণনা আনেন। কয়েকজন সাহাবি রাতে নামাজে দাঁড়িয়ে শেখা একটি সূরা আর মনে করতে পারেননি, এ নিয়ে সেটি। ইবন কাসীর জানান, তাবারানীর সনদে এমন এক বর্ণনাকারী আছেন যাঁকে তিনি দুর্বল বলেছেন। তাই এখানে কেবল উল্লেখটুকুই রইল। তাবারী শেষে বলেন, তিনি নিজের ব্যাখ্যা বেছে নিয়েছেন বাক্যের ধারাবাহিকতার জন্য। আল্লাহ যে তাঁর নবী ﷺ-কে রহিত হওয়া কিছু ওহি ভুলিয়ে দিয়েছেন, তা অস্বীকার করতে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lighter Now, or Heavier in Reward",
+          "bn": "এখন হালকা, না সওয়াবে ভারী"
+        },
+        "p": [
+          {
+            "en": "Na'ti bi-khayrin minha aw mithliha: We bring better than it or like it. Ibn Abbas, through Ali ibn Abi Talha, said: better for you in benefit and gentler on you. Qatadah said: a verse with a lightening in it, a mercy, a command, a prohibition. As-Suddi made the two pronouns point two ways: better than what We abrogated, or like what We left. The Muyassar puts it as something more beneficial for you, or its like in duty and reward.",
+            "bn": "না'তি বিখাইরিম মিনহা আও মিসলিহা: আমি তার চেয়ে উত্তম কিংবা তার মতো আয়াত নিয়ে আসি। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেন: যা তোমাদের জন্য উপকারে উত্তম, তোমাদের প্রতি বেশি কোমল। কাতাদা বলেন: এমন আয়াত, যাতে আছে হালকা করা, রহমত, কোনো আদেশ, কোনো নিষেধ। সুদ্দী দুই সর্বনামকে দুই দিকে ফেরান: যা রহিত করেছি তার চেয়ে উত্তম, অথবা যা রেখে দিয়েছি তার মতো। মুয়াসসার বলে, তোমাদের জন্য আরও উপকারী কিছু, অথবা দায়িত্ব ও সওয়াবে তার সমান কিছু।"
+          },
+          {
+            "en": "At-Tabari settles it with three cases. Better now, because lighter: standing in night prayer was once an obligation on the believers and was lifted from them. Better later, because heavier and so richer in reward: a few counted days of fasting were replaced by a whole month every year. Or like it, equal in burden and reward: prayer turned from Bayt al-Maqdis to the Masjid al-Haram, at the same cost to the body either way. Al-Baghawi says it in short: a move to the easier is easier to act on, a move to the harder brings more reward.",
+            "bn": "তাবারী বিষয়টি মীমাংসা করেন তিনটি অবস্থা দিয়ে। প্রথমটি এখনই উত্তম, কারণ হালকা। রাতের নামাজে দাঁড়ানো একসময় মুমিনদের উপর ফরজ ছিল, পরে তা তুলে নেওয়া হয়। দ্বিতীয়টি পরে উত্তম, কারণ ভারী, তাই সওয়াবও বেশি। হাতে গোনা কয়েক দিনের রোজার জায়গায় এল প্রতি বছর পুরো এক মাস। তৃতীয়টি সমান, বোঝায় ও সওয়াবে। নামাজের দিক বাইতুল মাকদিস থেকে মসজিদুল হারামের দিকে ফিরল, অথচ এদিকে মুখ ফেরাতে শরীরের যে কষ্ট, ওদিকে ফেরাতেও তাই। বাগাভী সংক্ষেপে বলেন: সহজের দিকে বদল আমলে সহজ, কঠিনের দিকে বদল সওয়াবে বেশি।"
+          },
+          {
+            "en": "At-Tabari and al-Baghawi both add a guard. At-Tabari says the verse must mean the ruling of a verse, since no part of the Quran can be better than another; all of it is the speech of Allah. Al-Baghawi says it is not that one verse is better than another, for Allah's speech is one and all of it good. Al-Qurtubi reports the view that better here compares nothing, and the view that it compares benefit, noting that or like it supports the second.",
+            "bn": "দুজনেই একটি সতর্কতা জুড়ে দেন। তাবারী বলেন, আয়াতের অর্থ হতেই হবে আয়াতের বিধান। কারণ কুরআনের এক অংশ আরেক অংশের চেয়ে উত্তম হতে পারে না, পুরোটাই আল্লাহর কালাম। বাগাভী বলেন, ব্যাপারটা এমন নয় যে এক আয়াত আরেক আয়াতের চেয়ে ভালো। আল্লাহর কালাম এক, তার সবটাই কল্যাণ। কুরতুবী দুটি মতই আনেন। এক মতে এখানে উত্তম শব্দে কোনো তুলনা নেই, আরেক মতে তুলনাটা উপকারের। তাঁর মতে, বা তার মতো কথাটি দ্বিতীয় মতকেই সমর্থন করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Physician, Not a Second Thought",
+          "bn": "চিকিৎসকের মতো, মত বদল নয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi meets the charge head on. Naskh, he says, is not bada', a new view dawning on someone who did not see it before. It is moving servants from an act of worship to another, and from a ruling to another, for a benefit that shows His wisdom. Only someone who does not know where things lead changes his mind, while He, who knows, changes His address as the benefits change, like a physician watching a patient. His address changes; His knowledge and will do not.",
+            "bn": "কুরতুবী অভিযোগটির সরাসরি মোকাবিলা করেন। তিনি বলেন, নাসখ মানে বাদা নয়। বাদা হলো আগে যা চোখে পড়েনি, পরে হঠাৎ তা মাথায় আসা। নাসখ হলো বান্দাদের এক ইবাদত থেকে আরেক ইবাদতে, এক বিধান থেকে আরেক বিধানে সরিয়ে নেওয়া, এমন কল্যাণের জন্য যাতে তাঁর হিকমত প্রকাশ পায়। মত বদলায় সে, যে জানে না পরিণাম কোথায় গিয়ে দাঁড়াবে। যিনি জানেন, তিনি কল্যাণের বদলের সঙ্গে সঙ্গে নিজের নির্দেশ বদলান, যেমন চিকিৎসক রোগীর অবস্থা দেখে চলেন। নির্দেশ বদলায়, তাঁর জ্ঞান আর ইচ্ছা বদলায় না।"
+          },
+          {
+            "en": "As-Sa'di defines naskh as moving those under obligation from a legislated ruling to another, or to its removal. Al-Qurtubi and Ibn Kathir point to earlier law: Adam (AS) married his sons to his daughters, later forbidden; Nuh (AS) was allowed every animal after the ark, and later laws restricted some; Ibrahim (AS) was told to sacrifice his son and released before he did. Ma'arif al-Qur'an uses the physician too, who knows at the start which medicine will be needed two days later.",
+            "bn": "সা'দী নাসখের সংজ্ঞা দেন এভাবে: দায়িত্বপ্রাপ্তদের শরিয়তের এক বিধান থেকে আরেক বিধানে, অথবা বিধান তুলে নেওয়ার দিকে সরিয়ে নেওয়া। কুরতুবী ও ইবন কাসীর আগের শরিয়তের দিকে আঙুল তোলেন। আদম (আঃ) তাঁর ছেলেদের সঙ্গে মেয়েদের বিয়ে দিতেন, পরে তা নিষিদ্ধ হয়। নৌকা থেকে নামার পর নূহ (আঃ)-কে সব প্রাণী খাওয়ার অনুমতি দেওয়া হয়, পরের শরিয়তে তার কিছু নিষিদ্ধ হয়। ইবরাহীম (আঃ)-কে ছেলে কুরবানির আদেশ দেওয়া হয়, তা করার আগেই সে আদেশ তুলে নেওয়া হয়। মাআরিফুল কুরআনও চিকিৎসকের উদাহরণ দেয়। তিনি শুরুতেই জানেন দুই দিন পরে কোন ওষুধ লাগবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Did It Ever Happen?",
+          "bn": "আদৌ কি ঘটেছে?"
+        },
+        "p": [
+          {
+            "en": "Whether abrogation took place inside the Quran at all is where the genuine disagreement lies. Al-Qurtubi says some later groups denied it, and answers that the earlier consensus of the first generations stands against them. Ma'arif al-Qur'an, quoting Ruh al-Ma'ani, names Abu Muslim al-Isfahani as holding that abrogation is rationally possible but never occurred in the Quran, so that no verse abrogates another. Ma'arif adds that some recent writers revive his view by reading ma in this verse as a bare if, a mere supposition.",
+            "bn": "কুরআনের ভেতরে আদৌ নাসখ ঘটেছে কি না, আসল মতভেদ এখানেই। কুরতুবী বলেন, পরবর্তী কালের কিছু দল একে অস্বীকার করেছে। তাঁর জবাব, প্রথম প্রজন্মগুলোর আগের ইজমা তাদের বিপক্ষে দাঁড়িয়ে আছে। মাআরিফুল কুরআন রূহুল মাআনী থেকে উদ্ধৃত করে আবু মুসলিম ইসফাহানীর নাম নেয়। তাঁর মত ছিল, যুক্তির দিক থেকে নাসখ সম্ভব, কিন্তু কুরআনে তা কখনো ঘটেনি। অর্থাৎ কোনো আয়াত অন্য আয়াতকে রহিত করেনি। মাআরিফ আরও জানায়, সাম্প্রতিক কিছু লেখক তাঁর মত নতুন করে তুলেছেন। তাঁরা এ আয়াতের মা শব্দটিকে নিছক যদি অর্থে পড়েন, অর্থাৎ ঘটনার বিবরণ নয়, একটি কল্পিত শর্ত।"
+          },
+          {
+            "en": "The majority point, among other things, to how the first generation used the verse. Al-Bukhari (4481) records from Ibn Abbas: Umar said, Our best reciter is Ubayy and our best judge is Ali, and we do leave some of what Ubayy says, because Ubayy says, I will not leave anything I heard from the Messenger of Allah ﷺ, while Allah has said: Whatever verse We abrogate or postpone. It is in al-Bukhari's Sahih, with no further grading. To the grammar argument, Ma'arif replies that ma sets a real condition, unlike the particle law, which only supposes.",
+            "bn": "অধিকাংশ আলেম অন্যান্য প্রমাণের সঙ্গে দেখান, প্রথম প্রজন্ম আয়াতটি কীভাবে ব্যবহার করেছেন। বুখারী (৪৪৮১) ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: উমর (রাঃ) বলেছেন, আমাদের মধ্যে সবচেয়ে ভালো কারী উবাই, আর সবচেয়ে ভালো বিচারক আলী। তবু আমরা উবাইয়ের কিছু কথা ছেড়ে দিই। কারণ উবাই বলেন, আল্লাহর রাসূল ﷺ-এর কাছ থেকে যা শুনেছি তার কিছুই আমি ছাড়ব না। অথচ আল্লাহ বলেছেন: আমি যে আয়াত রহিত করি বা পিছিয়ে দিই। বর্ণনাটি সহীহ বুখারীতে আছে, আলাদা কোনো মান নির্ণয় ছাড়া। ব্যাকরণের যুক্তির জবাবে মাআরিফ বলে, মা দিয়ে শুরু শর্ত সত্যিকারের শর্ত, লাও দিয়ে শুরু কল্পিত শর্তের মতো নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Closed With the Final Messenger",
+          "bn": "শেষ রাসূলের সঙ্গে সমাপ্ত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws a needed line. All of this belonged to the lifetime of the Prophet ﷺ; after his death and the settling of the law, he says, the community agreed there is no abrogation. He also relays, without a grading, that Ali entered the mosque, found a man frightening people with sermons, asked whether he knew the abrogating from the abrogated, and when he said no, sent him out. Knowing which ruling stands is a scholar's work, not a slogan for setting a text aside.",
+            "bn": "কুরতুবী এমন একটি সীমারেখা টানেন, যা প্রত্যেক পাঠকের জানা দরকার। এ সবকিছু নবী ﷺ-এর জীবদ্দশার বিষয়। তাঁর ইন্তেকাল আর শরিয়ত স্থির হয়ে যাওয়ার পর উম্মাহ একমত হয়েছে যে আর কোনো নাসখ নেই। তিনি কোনো মান নির্ণয় ছাড়া একটি ঘটনাও আনেন। আলী (রাঃ) মসজিদে ঢুকে দেখেন, এক লোক ওয়াজ করে মানুষকে ভয় দেখাচ্ছে। তিনি জিজ্ঞেস করেন, তুমি কি নাসিখ আর মানসুখ চেনো? লোকটি বলে, না। তিনি তাকে মসজিদ থেকে বের করে দেন। কোন বিধান বহাল আছে, তা জানা আলেমের কাজ। কোনো দলিল সরিয়ে রাখার স্লোগান এটা নয়।"
+          },
+          {
+            "en": "The verse closes, Do you not know that Allah is over all things competent? At-Tabari hears it addressed to the Prophet ﷺ: I am able to give you, for whatever ruling I change, something better for you and the believers, in this world or the next, or its like. Al-Baghawi says the question asks nothing; it affirms what the listener already knows. The law is now settled, but a life's arrangements are not, and a reader may carry the closing question into them: He who removes is able to give better.",
+            "bn": "আয়াত শেষ হয় এ প্রশ্নে: তুমি কি জান না যে আল্লাহ সবকিছুর উপর ক্ষমতাবান? তাবারী একে শোনেন নবী ﷺ-এর প্রতি সম্বোধন হিসেবে: আমি যে বিধানই বদলাই, তার বদলে তোমাকে ও তোমার সঙ্গী মুমিনদের এর চেয়ে ভালো কিছু দিতে পারি, দুনিয়ায় অথবা আখিরাতে, কিংবা তার সমান কিছু। বাগাভী বলেন, প্রশ্নটা আসলে কিছু জানতে চায় না। শ্রোতা যা আগে থেকেই জানে, সেটাই পাকা করে। শরিয়ত এখন স্থির, কিন্তু জীবনের আয়োজন স্থির নয়। পাঠক আয়াতের শেষ প্রশ্নটি সেখানেও নিয়ে যেতে পারেন: যিনি সরিয়ে নেন, তিনি আরও ভালো দিতেও সক্ষম।"
+          }
+        ]
+      }
+    ]
+  },
   "2:109": {
     "sections": [
       {
