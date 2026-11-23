@@ -2659,6 +2659,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:46": {
+    "sections": [
+      {
+        "h": {
+          "en": "Between Two Conversations",
+          "bn": "দুই সংলাপের মাঝখানে"
+        },
+        "p": [
+          {
+            "en": "The verses before this one stage an exchange across the divide. The people of the Garden call to the people of the Fire and ask whether they too found their Lord's promise true; they answer yes, and an announcer declares the curse on the wrongdoers (7:44 and 7:45). Then the scene widens. Ibn Kathir names the turn: having told how the two groups address each other, Allah points out that between them stands a hijab, the barrier that keeps the people of the Fire from reaching the Garden.",
+            "bn": "আগের আয়াতগুলোতে দুই দলের মধ্যে কথা চলছে। জান্নাতবাসীরা জাহান্নামবাসীদের ডেকে জিজ্ঞেস করছে, রবের ওয়াদা তোমরাও কি সত্য পেয়েছ? তারা বলছে, হ্যাঁ। তারপর একজন ঘোষক যালিমদের উপর লানতের ঘোষণা দিচ্ছে (৭:৪৪ ও ৭:৪৫)। এরপর ছবিটা বড় হয়ে যায়। ইবন কাসীর মোড়টা ধরিয়ে দেন: দুই দল একে অপরকে কীভাবে সম্বোধন করবে তা বলার পর আল্লাহ জানিয়ে দিচ্ছেন, তাদের মাঝে আছে এক হিজাব। এই আড়ালই জাহান্নামবাসীদের জান্নাত পর্যন্ত পৌঁছাতে দেয় না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an observes that the two abodes will be far apart in every respect, yet several verses show places from which either side can see across and speak to the other; it cites 37:55, where a believer looks down and finds his old companion in the middle of the Fire. Into this exchange 7:46 brings a third group, who for now belong to neither side. The next three verses, 7:47 to 7:49, follow these men further; this article stays with the verse that introduces them.",
+            "bn": "মাআরিফুল কুরআন বলে, দুই ঠিকানা সব দিক থেকেই একে অপরের থেকে বহু দূরে থাকবে। তবু কয়েকটি আয়াত জানায়, এমন কিছু জায়গা থাকবে যেখান থেকে এক পক্ষ অন্য পক্ষকে দেখতে পাবে, কথাও বলতে পারবে। উদাহরণ হিসেবে সে ৩৭:৫৫ আনে। সেখানে এক মুমিন নিচে তাকিয়ে তার পুরোনো সঙ্গীকে জাহান্নামের মাঝখানে দেখতে পায়। এই কথোপকথনের ভেতরেই ৭:৪৬ তৃতীয় এক দলকে সামনে আনে, যারা আপাতত কোনো পক্ষেরই নয়। পরের তিনটি আয়াত, ৭:৪৭ থেকে ৭:৪৯, এদের কথা আরও এগিয়ে নেয়। এই লেখা থাকবে শুধু সেই আয়াতের সঙ্গে, যেখানে এদের প্রথম দেখা মেলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Wall With a Rooster's Crest",
+          "bn": "মোরগের ঝুঁটির মতো প্রাচীর"
+        },
+        "p": [
+          {
+            "en": "Wa-baynahuma hijab: and between them is a partition. At-Tabari reads it as between the Garden and the Fire, and hijab as a barrier: the wall Allah mentions in 57:13, struck between the hypocrites and the believers, with a gate whose inside holds mercy and whose outside faces punishment. That wall, he says, is al-A'raf. He carries the same from as-Suddi, and from Mujahid: a partition between the Garden and the Fire, a wall with a gate. Al-Baghawi and al-Qurtubi make the same link to 57:13.",
+            "bn": "ওয়া বাইনাহুমা হিজাব: আর তাদের দুইয়ের মাঝে আছে এক আড়াল। তাবারীর মতে 'দুইয়ের মাঝে' মানে জান্নাত আর জাহান্নামের মাঝে, আর হিজাব মানে প্রতিবন্ধক। এটা সেই প্রাচীর, যার কথা আল্লাহ ৫৭:১৩ আয়াতে বলেছেন। মুনাফিক আর মুমিনদের মাঝে সেটা দাঁড় করানো হবে, তাতে থাকবে একটা দরজা। ভেতরের দিকে রহমত, বাইরের দিকে আযাব। তাবারী বলেন, এই প্রাচীরই আ'রাফ। সুদ্দী থেকেও তিনি একই কথা আনেন। মুজাহিদ থেকে আনেন: জান্নাত ও জাহান্নামের মাঝে এক আড়াল, দরজাওয়ালা এক প্রাচীর। বাগাভী আর কুরতুবীও ৫৭:১৩-এর সঙ্গে একে মিলিয়েছেন।"
+          },
+          {
+            "en": "A'raf, at-Tabari explains, is the plural of 'urf, and among the Arabs every raised piece of ground is an 'urf; a rooster's comb is called its 'urf because it rises above the rest of its body. Through 'Ubaydullah ibn Abi Yazid he has Ibn Abbas say that the a'raf is the thing that overlooks, and through Mujahid that it is a wall with a crest like a rooster's comb. In another report Ibn Abbas calls it a hill between the Garden and the Fire on which people of sins were held back.",
+            "bn": "তাবারী বুঝিয়ে দেন, আ'রাফ শব্দটি 'উরফ-এর বহুবচন। আরবদের কাছে মাটির যেকোনো উঁচু জায়গাই 'উরফ। মোরগের ঝুঁটিকেও 'উরফ বলা হয়, কারণ সেটা শরীরের বাকি অংশের উপরে উঁচু হয়ে থাকে। উবাইদুল্লাহ ইবন আবী ইয়াযীদের সূত্রে তিনি আনেন, ইবন আব্বাস (রাঃ) বলেছেন: আ'রাফ হলো সেই জিনিস, যা উপর থেকে সবকিছু দেখে। মুজাহিদের সূত্রে আনেন: মোরগের ঝুঁটির মতো চূড়াওয়ালা এক প্রাচীর। আরেক বর্ণনায় ইবন আব্বাস (রাঃ) একে বলেছেন জান্নাত আর জাহান্নামের মাঝে এক টিলা, যার উপর গুনাহগার কিছু লোককে আটকে রাখা হয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi tells how the word was settled for one grammarian. Yahya ibn Adam asked al-Kisa'i for the singular of a'raf, and al-Kisa'i was silent. Yahya then cited Ibn Abbas: a wall with a crest like a rooster's. Al-Kisa'i said yes, by Allah, that is its singular, and called for paper to write it down. As-Sa'di describes the place as belonging neither to the Garden nor to the Fire, overlooking both, so that each party's state can be seen from it. As-Suddi adds that it was named a'raf because its people know (ya'rifun) everyone else.",
+            "bn": "একজন ব্যাকরণবিদের কাছে শব্দটা কীভাবে পরিষ্কার হলো, কুরতুবী সেই ঘটনা শোনান। ইয়াহইয়া ইবন আদম কিসাঈকে জিজ্ঞেস করলেন, আ'রাফ-এর একবচন কী? কিসাঈ চুপ করে রইলেন। তখন ইয়াহইয়া ইবন আব্বাস (রাঃ)-এর কথাটা শোনালেন: মোরগের ঝুঁটির মতো চূড়াওয়ালা প্রাচীর। কিসাঈ বললেন, হ্যাঁ, আল্লাহর কসম, এটাই এর একবচন। তারপর কাগজ আনিয়ে কথাটা লিখে রাখলেন। সা'দী জায়গাটার বর্ণনা দেন এভাবে: তা জান্নাতেরও অংশ নয়, জাহান্নামেরও নয়। দুই ঠিকানার উপরেই তার দৃষ্টি, সেখান থেকে দুই দলের অবস্থাই দেখা যায়। সুদ্দী যোগ করেন, এর নাম আ'রাফ হয়েছে কারণ এর বাসিন্দারা সবাইকে চেনে (ইয়া'রিফূন)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Scales Stand Level",
+          "bn": "দুই পাল্লা যখন সমান"
+        },
+        "p": [
+          {
+            "en": "Who are the men upon it? At-Tabari opens the disagreement with the view that they are people of Adam's line whose good and bad deeds were equal, set there until Allah decides about them as He wills, and then admitted to the Garden by the grace of His mercy. He gives it first from Hudhayfah ibn al-Yaman, who was asked about the people of the A'raf and said: their bad deeds held them back from the Garden and their good deeds kept them clear of the Fire, so they were stopped there on the wall until Allah judges them.",
+            "bn": "প্রাচীরের উপর এই লোকেরা কারা? তাবারী মতভেদের আলোচনা শুরু করেন এই মত দিয়ে: এরা আদম সন্তানদেরই কিছু মানুষ, যাদের নেকি আর গুনাহ সমান সমান। আল্লাহ তাদের ব্যাপারে যা চান ফয়সালা না করা পর্যন্ত তাদের সেখানে রাখা হবে। তারপর তাঁর রহমতের অনুগ্রহে তাদের জান্নাতে নেওয়া হবে। প্রথমেই তিনি মতটি আনেন হুযাইফা ইবনুল ইয়ামান (রাঃ) থেকে। আ'রাফবাসীদের সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেছিলেন: তাদের গুনাহ তাদের জান্নাত থেকে পিছিয়ে রেখেছে, আর তাদের নেকি তাদের জাহান্নাম থেকে বাঁচিয়ে রেখেছে। তাই আল্লাহ তাদের বিচার না করা পর্যন্ত তাদের ওই প্রাচীরের উপর দাঁড় করিয়ে রাখা হয়েছে।"
+          },
+          {
+            "en": "At-Tabari also keeps a scene from ash-Sha'bi. He was sent for by 'Abd al-Hamid ibn 'Abd al-Rahman, who had Abu az-Zinad with him, and found the two speaking of the people of the A'raf in a way he thought mistaken. He offered to tell them what Hudhayfah had said, and they told him to go on. Al-Baghawi gives the same view from Hudhayfah and Ibn Abbas and adds that these will be the last to enter the Garden. Al-Muyassar adopts it outright, and Ma'arif al-Qur'an calls it the sound view held by most commentators.",
+            "bn": "তাবারী শা'বীর একটা ঘটনাও সংরক্ষণ করেছেন। আব্দুল হামীদ ইবন আব্দুর রহমান তাঁকে ডেকে পাঠালেন। তাঁর কাছে তখন আবুয যিনাদও ছিলেন। শা'বী গিয়ে দেখলেন, দুজনে আ'রাফবাসীদের নিয়ে এমনভাবে কথা বলছেন যা তাঁর কাছে ঠিক মনে হলো না। তিনি বললেন, চাইলে আপনাদের শোনাতে পারি হুযাইফা (রাঃ) কী বলেছিলেন। তাঁরা বললেন, বলুন। বাগাভী একই মত হুযাইফা (রাঃ) ও ইবন আব্বাস (রাঃ) থেকে এনে যোগ করেন, এরাই হবে জান্নাতে সবার শেষে প্রবেশকারী। মুয়াসসার সরাসরি এই মতই গ্রহণ করেছে। আর মাআরিফুল কুরআনের মতে বেশিরভাগ মুফাসসিরের কাছে এটাই বিশুদ্ধ মত।"
+          },
+          {
+            "en": "Ibn Kathir and al-Baghawi both relay, through Sa'id ibn Jubayr, a fuller account from Ibn Mas'ud. People are reckoned on the Day of Resurrection: whoever has more good deeds than bad by a single one enters the Garden, and whoever has more bad than good by a single one enters the Fire. He then recited the verses on heavy and light scales and said that the scale grows light or heavy by the weight of a grain. Whoever's good and bad deeds are equal, he said, is of the people of the A'raf.",
+            "bn": "ইবন কাসীর আর বাগাভী দুজনেই সাঈদ ইবন জুবাইরের মাধ্যমে ইবন মাসউদ (রাঃ)-এর আরও বিস্তারিত একটা বর্ণনা আনেন। কিয়ামতের দিন মানুষের হিসাব নেওয়া হবে। যার নেকি গুনাহর চেয়ে মাত্র একটা বেশি, সে জান্নাতে যাবে। আর যার গুনাহ নেকির চেয়ে মাত্র একটা বেশি, সে যাবে জাহান্নামে। এরপর তিনি পাল্লা ভারী আর হালকা হওয়ার আয়াতগুলো তিলাওয়াত করলেন। বললেন, একটা দানার ওজনেই পাল্লা হালকা হয়ে যায়, আবার ভারীও হয়। আর যার নেকি ও গুনাহ সমান, সে আ'রাফবাসীদের একজন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Martyrs, Scholars, or Angels",
+          "bn": "শহীদ, আলেম, নাকি ফেরেশতা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi counts ten views on who they are, and Ibn Kathir notes that al-Qurtubi and others relate twelve. Mujahid said they are righteous people, jurists and scholars. Shurahbil ibn Sa'd said they are men who went out to fight without their fathers' leave and were killed in Allah's path. Al-Mahdawi records that they are the martyrs. Az-Zahrawi relates that they are the just witnesses of the Resurrection, found in every nation, who testify to people's deeds; an-Nahhas chose this and called it among the best said. Az-Zajjaj said they are prophets.",
+            "bn": "এরা কারা, এ নিয়ে কুরতুবী দশটি মত গুনেছেন। ইবন কাসীর জানান, কুরতুবী ও অন্যরা বারোটি মত উল্লেখ করেছেন। মুজাহিদ বলেছেন, এরা নেককার মানুষ, ফকীহ ও আলেম। শুরাহবিল ইবন সা'দের মতে এরা সেই লোক, যারা বাবার অনুমতি ছাড়া যুদ্ধে বেরিয়ে আল্লাহর পথে নিহত হয়েছিল। মাহদাবী উল্লেখ করেছেন, এরা শহীদগণ। যাহরাভী বর্ণনা করেছেন, এরা কিয়ামতের দিনের ন্যায়পরায়ণ সাক্ষী, যারা মানুষের আমলের সাক্ষ্য দেবে, আর প্রত্যেক উম্মতেই এমন লোক আছে। নাহহাস এই মত বেছে নিয়ে বলেছেন, এ বিষয়ে যা বলা হয়েছে তার মধ্যে এটা অন্যতম সেরা। যাজ্জাজ বলেছেন, এরা নবীগণ।"
+          },
+          {
+            "en": "Al-Baghawi widens the list further: from Mujahid, people with whom one parent was pleased and the other was not; from 'Abd al-'Aziz ibn Yahya al-Kinani, those who died in an interval between prophets without changing their religion; a view that they are the children of the idolaters; and from al-Hasan, people of excellence among the believers raised onto the heights to look over both groups. Abu Mijlaz, one of the Successors, said they are angels. Asked how angels could be called rijal, men, he replied that they are male, not female.",
+            "bn": "বাগাভী তালিকাটা আরও বড় করেন। মুজাহিদ থেকে আনেন: এরা এমন লোক, যাদের উপর বাবা-মায়ের একজন সন্তুষ্ট ছিলেন, অন্যজন ছিলেন না। আব্দুল আযীয ইবন ইয়াহইয়া আল-কিনানী থেকে: দুই নবীর মাঝের বিরতির সময় যারা মারা গেছে আর নিজের দ্বীন বদলায়নি। আরেকটি মত: এরা মুশরিকদের শিশু সন্তান। আর হাসান বসরী থেকে: মুমিনদের মধ্যে যারা মর্যাদাবান, তাদের আ'রাফের উঁচুতে তোলা হবে, সেখান থেকে তারা দুই দলকেই দেখবে। তাবেয়ী আবু মিজলায বলেছেন, এরা ফেরেশতা। তাঁকে প্রশ্ন করা হলো, ফেরেশতাদের 'রিজাল', মানে পুরুষ, বলা হবে কীভাবে? তিনি বললেন, তারা পুরুষ, নারী নয়।"
+          },
+          {
+            "en": "At-Tabari answers him from the language. The right thing to say, he writes, is what Allah said of them: men who know everyone by their marks. No report from the Messenger ﷺ with a sound chain settles it, there is no agreement on its interpretation, and no consensus that they are angels; and in Arab usage rijal names the males of Adam's children and no other creature. Ibn Kathir accepts that the view is soundly reported from Abu Mijlaz but calls it strange and against the context, and finds Mujahid's view strange too.",
+            "bn": "তাবারী ভাষা দিয়েই তাঁর জবাব দেন। তিনি লেখেন, সঠিক কথা হলো আল্লাহ এদের সম্পর্কে যা বলেছেন তা-ই বলা: এরা এমন পুরুষ, যারা সবাইকে তাদের চিহ্ন দেখে চেনে। রাসূলুল্লাহ ﷺ থেকে বিশুদ্ধ সনদে এমন কোনো বর্ণনা নেই যা বিষয়টা মীমাংসা করে দেয়। এর ব্যাখ্যায় সবাই একমতও নন, আর এরা ফেরেশতা হওয়ার ব্যাপারে উম্মতের ইজমাও নেই। তা ছাড়া আরবি ভাষায় 'রিজাল' বলতে বোঝায় আদম সন্তানদের পুরুষদের, অন্য কোনো সৃষ্টিকে নয়। ইবন কাসীর মানেন যে মতটা আবু মিজলায থেকে বিশুদ্ধভাবে এসেছে। তবে তিনি একে অদ্ভুত আর প্রসঙ্গের বিপরীত বলেন। মুজাহিদের মতকেও তিনি অদ্ভুত মনে করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Reports Can Carry",
+          "bn": "বর্ণনাগুলো কতটা ভার বইতে পারে"
+        },
+        "p": [
+          {
+            "en": "Several reports raise an answer to this question to the Prophet ﷺ. At-Tabari carries some, Ibn Kathir others from Ibn Mardawayh and Sa'id ibn Mansur, al-Baghawi one from the tafsir of Muqatil, and al-Qurtubi one through Ibn 'Atiyya. At-Tabari says that none of them has a sound chain. Ibn Kathir calls one of them gharib, says Allah knows best how sound these raised reports are, and adds that at most they are the words of Companions. This article therefore quotes none of them and builds nothing on them; no sound hadith attaches to this verse in the sources consulted.",
+            "bn": "কয়েকটি বর্ণনা এ প্রশ্নের একটা উত্তর নবী ﷺ-এর মুখে তুলে দেয়। তাবারী এর কয়েকটি এনেছেন। ইবন কাসীর এনেছেন ইবন মারদুয়াই ও সাঈদ ইবন মানসূর থেকে কিছু, বাগাভী একটি এনেছেন মুকাতিলের তাফসীর থেকে, আর কুরতুবী একটি এনেছেন ইবন আতিয়্যার সূত্রে। তাবারী সোজাসুজি বলেছেন, এর কোনোটিরই সনদ বিশুদ্ধ নয়। ইবন কাসীর এর একটিকে গরীব বলেছেন। তিনি আরও বলেছেন, এসব মারফূ বর্ণনা কতটা বিশুদ্ধ তা আল্লাহই ভালো জানেন, বড়জোর এগুলো সাহাবীদের নিজেদের কথা। তাই এই লেখায় এর কোনোটিই উদ্ধৃত করা হয়নি, কোনোটির উপর কিছু দাঁড় করানোও হয়নি। যেসব উৎস দেখা হয়েছে, তাতে এ আয়াতের সঙ্গে যুক্ত কোনো সহীহ হাদীস পাওয়া যায়নি।"
+          },
+          {
+            "en": "What the verse itself states is enough to reflect on: a wall, men on its heights, knowledge of both groups, a greeting to the people of the Garden, a door not yet entered, and hope. At-Tabari's rule, to say of them what Allah said, is a discipline worth keeping when reports are unsettled. Al-Qurtubi relays from Ibn 'Atiyya that what the verse requires is that men of the people of the Garden stand on the A'raf with their entry delayed. He then remarks that naming them was held back because the reports and their details are unsettled.",
+            "bn": "আয়াত নিজে যা বলছে, ভাবনার জন্য সেটুকুই যথেষ্ট: একটা প্রাচীর, তার চূড়ায় কিছু মানুষ, দুই দলকেই তারা চেনে, জান্নাতবাসীদের সালাম দেয়, দরজা দিয়ে এখনো ঢোকেনি, আর তারা আশা করছে। বর্ণনা যখন এলোমেলো, তখন তাবারীর নীতিটা মেনে চলার মতো: আল্লাহ এদের সম্পর্কে যা বলেছেন, তা-ই বলা। কুরতুবী ইবন আতিয়্যা থেকে আনেন, আয়াত থেকে অবধারিতভাবে এটুকু বোঝা যায় যে আ'রাফে জান্নাতবাসীদেরই কিছু পুরুষ থাকবে, যাদের প্রবেশ দেরিতে হবে। এরপর কুরতুবী মন্তব্য করেন, বর্ণনা আর খুঁটিনাটি এলোমেলো বলেই এদের নির্দিষ্ট করে চিহ্নিত করা থেকে বিরত থাকা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Written on Every Face",
+          "bn": "প্রতিটি চেহারায় লেখা"
+        },
+        "p": [
+          {
+            "en": "Ya'rifuna kullan bi-simahum: they know each by their marks. At-Tabari explains that they know the people of the Garden by the whiteness of their faces and the radiance of bliss on them, and the people of the Fire by the blackness of their faces and the blueness of their eyes. He gives the white and dark faces from Ibn Abbas, through 'Ali ibn Abi Talha and through ad-Dahhak, and from as-Suddi, Qatada and Ibn Zayd; Mujahid and al-Hasan add the blue eyes. Al-Qurtubi adds beauty and ugliness, among other ways of knowing where each group belongs.",
+            "bn": "ইয়া'রিফূনা কুল্লাম বিসীমাহুম: তারা প্রত্যেককে তার চিহ্ন দেখে চেনে। তাবারী ব্যাখ্যা করেন, জান্নাতবাসীদের তারা চেনে চেহারার শুভ্রতা আর তাতে নিয়ামতের দীপ্তি দেখে। আর জাহান্নামবাসীদের চেনে চেহারার কালিমা আর চোখের নীলচে রং দেখে। সাদা আর কালো চেহারার কথাটা তিনি আনেন ইবন আব্বাস (রাঃ) থেকে, আলী ইবন আবী তালহা ও দাহহাকের সূত্রে। সুদ্দী, কাতাদা আর ইবন যায়দ থেকেও আনেন। মুজাহিদ আর হাসান বসরী নীল চোখের কথা যোগ করেন। কুরতুবী যোগ করেন সৌন্দর্য আর কদর্যতা, সঙ্গে আরও নানা উপায়, যা দিয়ে বোঝা যায় কে কোন দলের।"
+          },
+          {
+            "en": "Sima, at-Tabari says, is in Arab speech the sign that points to a thing; its root is sima, a brand or mark, with the waw moved from its place, and he records three forms of the word: sima, sima' and simiya'. As-Sa'di keeps it general: their marks, by which they are known and told apart. The Qur'an uses the word elsewhere. The criminals are known by their marks in 55:41, and the believers carry their mark on their faces from the trace of prostration in 48:29. The faces that brighten and darken on that Day are named in 3:106.",
+            "bn": "তাবারী বলেন, আরবদের ভাষায় সীমা মানে এমন আলামত, যা কোনো কিছুর দিকে ইঙ্গিত করে। শব্দটার মূল 'সিমা', অর্থাৎ দাগ বা চিহ্ন, যেখানে ওয়াও বর্ণটি নিজের জায়গা থেকে সরে গেছে। তিনি শব্দটার তিনটি রূপ উল্লেখ করেন: সীমা, সীমা' আর সীমিয়া'। সা'দী ব্যাপারটা সাধারণ রাখেন: তাদের আলামত, যা দিয়ে তাদের চেনা যায় আর আলাদা করা যায়। কুরআনের অন্য জায়গাতেও শব্দটা এসেছে। ৫৫:৪১ আয়াতে অপরাধীদের চেনা যাবে তাদের চিহ্ন দিয়ে। ৪৮:২৯ আয়াতে মুমিনদের চেহারায় সিজদার ছাপ। আর সেদিন যেসব চেহারা উজ্জ্বল হবে আর যেসব কালো হবে, তাদের কথা এসেছে ৩:১০৬ আয়াতে।"
+          },
+          {
+            "en": "A sound narration, not attached to this verse, speaks of a mark believers carry from this life into that Day. In Sahih al-Bukhari (136), Abu Hurayra said he heard the Prophet ﷺ say: On the Day of Resurrection, my followers will be called Al-Ghurr-ul-Muhajjalun from the trace of ablution, and whoever can increase the area of his radiance should do so. One point must be plain: the whiteness and darkness in this verse are marks of the Day of Judgment, not anyone's skin in this world, and the verse licenses no judgment on any living person's face or fate.",
+            "bn": "একটা সহীহ বর্ণনা আছে, যা এ আয়াতের সঙ্গে সরাসরি যুক্ত নয়। তাতে এমন এক চিহ্নের কথা, যা মুমিন এই দুনিয়া থেকেই সেই দিনে নিয়ে যাবে। সহীহ বুখারীতে (১৩৬) আবু হুরায়রা (রাঃ) বলেন, তিনি নবী ﷺ-কে বলতে শুনেছেন: কিয়ামতের দিন আমার উম্মতকে ডাকা হবে 'আল-গুররুল মুহাজ্জালূন' নামে, অজুর চিহ্নের কারণে। তাই তোমাদের মধ্যে যে নিজের উজ্জ্বলতার পরিধি বাড়াতে পারে, সে যেন তা করে। একটা কথা স্পষ্ট থাকা দরকার। এ আয়াতে চেহারার শুভ্রতা আর কালিমা বিচারের দিনের চিহ্ন, দুনিয়ার কারও গায়ের রং নয়। কোনো জীবিত মানুষের চেহারা বা পরিণতি নিয়ে রায় দেওয়ার অনুমতি এ আয়াত দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Peace From Outside the Gate",
+          "bn": "দরজার বাইরে থেকে সালাম"
+        },
+        "p": [
+          {
+            "en": "Wa-nadaw ashab al-jannati an salamun 'alaykum: and they call to the people of the Garden, peace be upon you. At-Tabari glosses it as Allah's security from His punishment having come upon them; al-Qurtubi gives the plain greeting, and also the reading, you are safe from punishment. As-Suddi, in at-Tabari, pictures the moment: whenever a company being taken to the Garden passes them, they say, peace be upon you. Ma'arif al-Qur'an notes the form, salamun 'alaykum without the article; the same words greet the people of the Garden from the angels in 13:24 and 39:73.",
+            "bn": "ওয়া নাদাও আসহাবাল জান্নাতি আন সালামুন আলাইকুম: আর তারা জান্নাতবাসীদের ডেকে বলবে, তোমাদের উপর সালাম। তাবারী এর ব্যাখ্যা করেন এভাবে: আল্লাহর আযাব থেকে তাঁর দেওয়া নিরাপত্তা তোমাদের উপর নেমে এসেছে। কুরতুবী সাধারণ সালামের অর্থটা দেন, সঙ্গে আরেকটা ব্যাখ্যাও আনেন: তোমরা শাস্তি থেকে বেঁচে গেছ। তাবারীর বর্ণনায় সুদ্দী মুহূর্তটার ছবি আঁকেন। জান্নাতের দিকে নিয়ে যাওয়া কোনো দল যখনই তাদের পাশ দিয়ে যায়, তারা বলে, তোমাদের উপর সালাম। মাআরিফুল কুরআন খেয়াল করিয়ে দেয়, এখানে শব্দরূপটা আলিফ-লাম ছাড়া 'সালামুন আলাইকুম'। ১৩:২৪ ও ৩৯:৭৩ আয়াতে ফেরেশতারাও জান্নাতবাসীদের এই একই কথায় সালাম দেয়।"
+          },
+          {
+            "en": "Lam yadkhuluha wa hum yatma'un: they have not entered it, and they long. At-Tabari records two readings. The first, held by as-Suddi, al-Hasan, Qatada, and Ibn Mas'ud through Sa'id ibn Jubayr, takes it of the people of the A'raf, still outside and hoping. Abu Mijlaz takes it of the people of the Garden, greeted before they have gone in. Al-Qurtubi relays from an-Nahhas that tama' can here mean knowing. Al-Hasan swore that Allah placed that hope in their hearts only for an honour He intends for them, and as-Sa'di says the same.",
+            "bn": "লাম ইয়াদখুলূহা ওয়া হুম ইয়াতমাঊন: তারা এখনো সেখানে ঢোকেনি, অথচ তারা আশা করছে। তাবারী দুটি ব্যাখ্যা উল্লেখ করেন। প্রথমটি সুদ্দী, হাসান বসরী, কাতাদা এবং সাঈদ ইবন জুবাইরের সূত্রে ইবন মাসউদ (রাঃ)-এর। তাঁদের মতে কথাটা আ'রাফবাসীদের নিয়ে: তারা এখনো বাইরে, আর আশায় আছে। আবু মিজলাযের মতে কথাটা জান্নাতবাসীদের নিয়ে, যাদের ঢোকার আগেই সালাম দেওয়া হচ্ছে। কুরতুবী নাহহাস থেকে আনেন, এখানে 'তামা' মানে জানাও হতে পারে। হাসান বসরী কসম করে বলেছেন, আল্লাহ তাদের অন্তরে এই আশা রেখেছেন শুধু এ জন্য যে তিনি তাদের সম্মানিত করতে চান। সা'দীও একই কথা বলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ones Against Tens",
+          "bn": "দশের বিপরীতে এক"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir closes Ibn Mas'ud's account with its arithmetic: a good deed is written as ten, a bad deed as one, and Ibn Mas'ud would say, ruined is he whose ones overcome his tens. On the majority reading, the men on the wall were short by a single deed. No one knows where their own line falls, so add the small good now. And notice their manners: they greet those passing in with peace, not envy, and in 7:47 they ask not to be placed with the wrongdoers.",
+            "bn": "ইবন কাসীর ইবন মাসউদ (রাঃ)-এর বর্ণনাটা শেষ করেন এর হিসাব দিয়ে: একটা নেক কাজ লেখা হয় দশটি হিসেবে, আর একটা গুনাহ লেখা হয় একটাই। ইবন মাসউদ (রাঃ) বলতেন, ধ্বংস তার, যার এককগুলো তার দশকগুলোকে হারিয়ে দেয়। বেশিরভাগের ব্যাখ্যা অনুযায়ী প্রাচীরের উপরের লোকদের ঘাটতি ছিল মাত্র একটা আমলের। নিজের সীমারেখা কোথায়, কেউ জানে না। তাই ছোট নেক কাজটা এখনই যোগ করুন। আর তাদের আদবটাও খেয়াল করুন: যারা ভেতরে ঢুকছে, তাদের তারা হিংসা নয়, সালাম দেয়। আর ৭:৪৭ আয়াতে তারা দোয়া করে, তাদের যেন যালিমদের সঙ্গী করা না হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "7:50": {
     "sections": [
       {

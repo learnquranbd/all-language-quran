@@ -31643,6 +31643,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Denial and pride shut the gates of heaven, so meet every verse of Allah with humility and let your words and deeds be fit to rise to Him.",
     "lessonBn": "অস্বীকার আর অহংকার আকাশের দরজা বন্ধ করে দেয়। তাই আল্লাহর প্রতিটি আয়াতের সামনে বিনয়ী থাকুন, আর আপনার কথা ও আমলকে তাঁর কাছে ওঠার যোগ্য করে তুলুন।"
+  },
+  "7:46": {
+    "reflectionEn": "Between the Garden and the Fire there is a wall, and on its heights stand men who are in neither place yet. They can read every face below them. They see the people of the Garden and call out a greeting of peace, while the gate they long for is still closed to them. Many of the early commentators said these were people whose good and bad deeds weighed exactly the same. One more good deed and the wait would have been over. The verse does not say they lost hope; it says they hoped. If my scales were read today, which way would they lean, and what small good thing could I add before the reading?",
+    "reflectionBn": "জান্নাত আর জাহান্নামের মাঝে একটা প্রাচীর। তার উঁচু চূড়ায় কিছু মানুষ দাঁড়িয়ে আছে, যারা এখনো কোনো দিকেই যায়নি। নিচের প্রত্যেকটা চেহারা তারা পড়তে পারে। জান্নাতবাসীদের দেখে তারা সালাম দেয়, অথচ যে দরজার জন্য তাদের মন ব্যাকুল, সেটা তখনো তাদের জন্য খোলেনি। আগের যুগের বহু মুফাসসির বলেছেন, এরা সেই লোক যাদের নেকি আর গুনাহ ওজনে ঠিক সমান হয়েছিল। আর একটা নেক আমল থাকলেই অপেক্ষাটা শেষ হয়ে যেত। আয়াত বলে না যে তারা নিরাশ হয়েছে; বলে, তারা আশা করছে। আজ যদি আমার পাল্লা মাপা হতো, কোন দিকে ঝুঁকত? মাপার আগে ছোট কোন নেক কাজটা আমি যোগ করতে পারি?",
+    "pointsEn": [
+      "If my good and bad deeds were weighed tonight, which way do I honestly think the scale would lean?",
+      "What small good deed have I been putting off that could be the one that tips the balance?",
+      "Do I treat a sin as small because it is one, while forgetting that it can outweigh what I thought was enough?",
+      "When I see others ahead of me in goodness, do I greet them with peace, or with envy?",
+      "Is my hope in Allah's mercy pushing me to act, or has it become a reason to wait?"
+    ],
+    "pointsBn": [
+      "আজ রাতেই যদি আমার নেকি আর গুনাহ মাপা হতো, সত্যি করে বলুন তো, পাল্লা কোন দিকে ঝুঁকত বলে আমার মনে হয়?",
+      "কোন ছোট নেক কাজটা আমি দিনের পর দিন পিছিয়ে রাখছি, যেটাই হয়তো পাল্লা ভারী করে দিত?",
+      "একটা গুনাহকে কি আমি একটা বলেই হালকা ভাবি, অথচ ভুলে যাই যে সেটাই আমার 'যথেষ্ট' নেকির চেয়ে ভারী হয়ে যেতে পারে?",
+      "ভালো কাজে কেউ আমার চেয়ে এগিয়ে গেলে আমি কি তাকে শান্তির দোয়া দিই, নাকি মনে হিংসা জমাই?",
+      "আল্লাহর রহমতের ওপর আমার আশা কি আমাকে কাজে নামায়, নাকি সেটাই বসে থাকার অজুহাত হয়ে গেছে?"
+    ],
+    "lessonEn": "A single deed can decide where you stand, so add the good you can today and let your hope in Allah move you to act.",
+    "lessonBn": "একটিমাত্র আমলই ঠিক করে দিতে পারে আপনি কোথায় দাঁড়াবেন। তাই আজই যতটুকু নেক কাজ পারেন যোগ করুন, আর আল্লাহর ওপর আশাকে কাজের প্রেরণা বানান।"
   }
 };
 
