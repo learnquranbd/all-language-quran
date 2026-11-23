@@ -279,6 +279,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:7": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Page Lowered From the Sky",
+          "bn": "আকাশ থেকে নামা পাতা"
+        },
+        "p": [
+          {
+            "en": "Surah al-An'am opens with the Creator of the heavens and the earth and with people who still set others level with their Lord (6:1). Three verses then describe how such people meet signs: no sign reaches them but they turn from it (6:4), they denied the truth when it came (6:5), and they have not considered the generations destroyed before them (6:6). This verse moves from what has happened to what would happen. It imagines the strongest proof they could ask for and tells the Prophet ﷺ in advance how they would receive it.",
+            "bn": "সূরা আনআম শুরু হয় আসমান-যমীনের স্রষ্টার কথা দিয়ে, আর সেই লোকদের কথা দিয়ে, যারা তবুও অন্যকে তাদের রবের সমকক্ষ বানায় (৬:১)। এরপর তিনটি আয়াত দেখায়, নিদর্শনের সঙ্গে এরা কেমন আচরণ করে। কোনো নিদর্শন এলেই মুখ ফিরিয়ে নেয় (৬:৪)। সত্য যখন এল, তা অস্বীকার করল (৬:৫)। আগের যেসব জাতি ধ্বংস হয়েছে, তাদের দিকে তাকিয়েও দেখল না (৬:৬)। এ আয়াত ঘটে যাওয়া কথা ছেড়ে চলে যায় সম্ভাব্য কথায়। তারা সবচেয়ে জোরালো যে প্রমাণ চাইতে পারত, আয়াত সেটাই কল্পনা করে, আর নবী ﷺ-কে আগেভাগে জানিয়ে দেয় তারা তা কীভাবে নিত।"
+          },
+          {
+            "en": "At-Tabari reads it as Allah informing His Prophet about these people who equate idols and gods with their Lord. How, he asks in Allah's voice, would they understand the signs, or reason from Allah's proofs to the falsehood of their unbelief and their denial of your prophethood, given their hostility to the truth and their distance from right guidance? Al-Muyassar gives the plain sense briefly: had We sent down to you, O Messenger, a book from the sky on sheets, and had these idolaters touched it with their hands, they would have said that what you brought is clear magic.",
+            "bn": "তাবারীর পাঠে এখানে আল্লাহ তাঁর নবীকে সেই লোকদের খবর দিচ্ছেন, যারা মূর্তি আর দেবদেবীকে রবের সমান করে। আল্লাহর জবানিতে তাবারী প্রশ্ন তোলেন: এরা নিদর্শন বুঝবে কী করে? আল্লাহর দলিল দেখে কী করে বুঝবে যে তাদের কুফর আর তোমার নবুওয়াত অস্বীকার বাতিল? সত্যের প্রতি তাদের শত্রুতা আর হেদায়াত থেকে তাদের দূরত্ব তো এমনই। মুয়াসসার সহজ অর্থটা সংক্ষেপে বলে দেয়: হে রাসূল, আকাশ থেকে পাতায় লেখা কিতাব তোমার উপর নামালে আর এই মুশরিকরা নিজের হাতে তা ছুঁয়ে দেখলেও, তারা বলত, তুমি যা এনেছ তা স্পষ্ট যাদু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sheet, Writing, Sending Down",
+          "bn": "পাতা, লেখা, নাযিল"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the meaning as: had We sent down, O Muhammad, before their eyes, as they claimed and demanded, speech written on a qirtas. He takes kitab here as a verbal noun meaning writing, and says the verse places the writing on a qirtas because writing cannot be conceived except on a sheet. The qirtas, he says, is the sahifa, the written sheet; it is also pronounced qurtas, and an archer is said to qartasa when he hits the sheet fixed to the target.",
+            "bn": "কুরতুবী অর্থটা এভাবে দেন: হে মুহাম্মাদ, তারা যেমন দাবি করেছিল আর চেয়েছিল, সেভাবে তাদের চোখের সামনে কিরতাসে লেখা কথা যদি আমি নামাতাম। তাঁর মতে এখানে কিতাব শব্দটি ক্রিয়াবাচক বিশেষ্য, মানে লেখা। আর আয়াত লেখাটাকে কিরতাসে রেখেছে, কারণ পাতা ছাড়া লেখার কথা ভাবাই যায় না। কুরতুবী বলেন, কিরতাস মানে সহীফা, লেখার পাতা। উচ্চারণ কুরতাসও আছে। তীরন্দাজ যখন নিশানায় সাঁটা পাতায় ঠিকঠাক লাগায়, আরবরা বলে, সে কারতাসা করেছে।"
+          },
+          {
+            "en": "Then the verb. Al-Qurtubi notes that sending down is used in two ways. The first is the familiar sense, the Book sent down to you in that the angel brings it. The other is what this verse imagines: a book on a sheet that Allah holds between the sky and the earth. He relays from Ibn Abbas the picture of a book hung between the sky and the earth, and says the intensive form nazzalna is chosen for emphasis, through the long time the book would stay suspended there.",
+            "bn": "এবার ক্রিয়াপদ। কুরতুবী দেখান, নাযিল শব্দটি দুই অর্থে আসে। পরিচিত অর্থে তোমার উপর কিতাব নাযিল হয় ফেরেশতার মাধ্যমে, তিনি তা নিয়ে আসেন। অন্য অর্থটাই এ আয়াতের কল্পনা: পাতায় লেখা এক কিতাব, যা আল্লাহ আসমান আর যমীনের মাঝখানে ধরে রাখেন। ইবন আব্বাস (রাঃ) থেকে তিনি এই ছবিটা আনেন, আসমান-যমীনের মাঝে ঝুলে থাকা কিতাব। তিনি আরও বলেন, নাযযালনা জোরালো রূপে এসেছে জোর বোঝাতে, কারণ কিতাবটি দীর্ঘ সময় সেখানে ঝুলে থাকত।"
+          },
+          {
+            "en": "At-Tabari carries the same picture into his paraphrase: the revelation sent down in a qirtas that they see with their eyes and feel with their hands, look at and read from, hanging between the sky and the earth, attesting to the truth of the Oneness and revelation the Prophet ﷺ called them to. He also records how early authorities glossed the word. As-Suddi said it means the suhuf, written pages; Qatada, in another report, said it means a sahifa. The demand being answered is for a physical document, not a recited message.",
+            "bn": "তাবারীর ব্যাখ্যাতেও একই ছবি। ওহি নামানো হলো কিরতাসে, যা তারা চোখে দেখে, হাতে ছোঁয়, তাকিয়ে থাকে, সেখান থেকে পড়ে। তা ঝুলে আছে আসমান-যমীনের মাঝে, আর সাক্ষ্য দিচ্ছে নবী ﷺ যে তাওহীদ আর ওহির দিকে ডাকছেন, তা সত্য। আগের যুগের আলেমরা শব্দটার কী অর্থ করেছেন, তাবারী তাও লিখে রাখেন। সুদ্দী বলেছেন, এর মানে সুহুফ, লেখা পাতা। কাতাদা আরেক বর্ণনায় বলেছেন, সহীফা। অর্থাৎ যে দাবির জবাব আয়াত দিচ্ছে, তা ছিল হাতে ধরা যায় এমন দলিলের দাবি, তিলাওয়াত করে শোনানো বাণীর নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Touch and Not Sight",
+          "bn": "দেখা নয়, ছোঁয়া কেন"
+        },
+        "p": [
+          {
+            "en": "The verse could have said: and they saw it. It says they touched it with their hands. Al-Baghawi explains the choice. Touch is mentioned and seeing is not, he says, because touch goes further than sight in producing knowledge: magic can work on what is seen, but it does not work on what is touched. The verse closes the door a sceptic might use against a vision, and then shows that they would still call the thing magic.",
+            "bn": "আয়াত বলতে পারত, আর তারা তা দেখত। বলেছে, তারা নিজের হাতে তা ছুঁয়ে দেখত। কেন, বাগাভী তা খুলে বলেন। দেখার কথা না বলে ছোঁয়ার কথা বলা হয়েছে, কারণ জ্ঞান পাকা করতে চোখের চেয়ে হাত বেশি কাজের। যাদু চোখে দেখা জিনিসে চলে, কিন্তু হাতে ছোঁয়া জিনিসে চলে না। চোখের দেখাকে সন্দেহ করার যে ফাঁক সংশয়ী মানুষ খোঁজে, আয়াত সেটা আগেই বন্ধ করে দেয়। তারপর দেখায়, তবুও তারা জিনিসটাকে যাদুই বলত।"
+          },
+          {
+            "en": "The others fill in what the touching would involve. Al-Qurtubi says they would inspect it and handle it as they had demanded, go to lengths examining it and turning it over, feeling it with their hands, so that every doubt was lifted and every difficulty removed, and they would still be obstinate and persist in their unbelief. Ibn Kathir glosses fa-lamasuhu as: they saw it, saw it come down, and handled it directly. At-Tabari relays from Mujahid that they touched it and looked at it and did not believe, and from Qatada that they saw it with full sight.",
+            "bn": "ছোঁয়ার ভেতরে কী কী থাকত, অন্যরা তা ভরে দেন। কুরতুবী বলেন, তারা যেমন চেয়েছিল তেমনই নিজের চোখে দেখত, হাতে নিত, খুঁটিয়ে পরীক্ষা করত, উল্টে-পাল্টে হাত বুলিয়ে দেখত, যাতে সব সন্দেহ কেটে যায়, সব জটিলতা দূর হয়। তবুও তারা জেদ ধরে থাকত, কুফরেই লেগে থাকত। ইবন কাসীর ফালামাসূহুর ব্যাখ্যা দেন এভাবে: তারা তা দেখত, নামতে দেখত, নিজের হাতে নাড়াচাড়া করত। তাবারী মুজাহিদ থেকে আনেন, তারা তা ছুঁয়েছে, দেখেছে, তবু বিশ্বাস করেনি। আর কাতাদা থেকে আনেন, তারা পুরোপুরি চাক্ষুষ দেখেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Calling It Plain Magic",
+          "bn": "স্পষ্ট যাদু বলে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "In hadha illa sihrun mubin: this is nothing but plain magic. At-Tabari spells out the claim in their own terms: what you have brought us is only magic with which you have bewitched our eyes; it has no reality and no truth in it. Mubin, he says, carries the charge further: plain, to anyone who thinks it over and reflects on it, that it is magic without reality. The word that ought to describe the proof, clear, has been turned to describe their verdict on it.",
+            "bn": "ইন হাযা ইল্লা সিহরুম মুবীন: এ তো স্পষ্ট যাদু ছাড়া আর কিছু নয়। তাবারী তাদের দাবিটা তাদেরই ভাষায় খুলে বলেন: তুমি যা এনেছ তা শুধু যাদু, যা দিয়ে তুমি আমাদের চোখে ভেলকি লাগিয়েছ। এর কোনো বাস্তবতা নেই, কোনো সত্যতা নেই। তাবারী বলেন, মুবীন শব্দে অভিযোগ আরও এক ধাপ এগোয়। যে-ই একটু ভেবে দেখবে, তার কাছেই নাকি পরিষ্কার যে এটা বাস্তবতাহীন যাদু। যে শব্দ প্রমাণের গায়ে বসার কথা, সেই স্পষ্ট শব্দটাকেই তারা প্রমাণের বিরুদ্ধে নিজেদের রায়ে বসিয়ে দেয়।"
+          },
+          {
+            "en": "Ibn Kathir opens by naming what the verse exposes: the idolaters' unbelief, their stubbornness, their arrogant defiance of the truth, their brazen denial of it and their disputing over it. He then sets it beside verses that describe the same defiance of what the senses report. In 15:14 and 15:15, even if a gate in the sky were opened and they kept climbing through it, they would say their eyes had only been dazzled, that they were a people bewitched. In 52:44, if they saw a piece of the sky falling, they would say it was heaped-up cloud.",
+            "bn": "ইবন কাসীর শুরুতেই নাম ধরে বলেন, আয়াত কী উন্মোচন করছে: মুশরিকদের কুফর, তাদের জেদ, সত্যের বিরুদ্ধে অহংকারী গোঁ, নির্লজ্জ অস্বীকার আর সত্য নিয়ে ঝগড়া। তারপর তিনি পাশে রাখেন সেসব আয়াত, যেখানে ইন্দ্রিয়ের সাক্ষ্যের বিরুদ্ধে একই গোঁ ধরা পড়ে। ১৫:১৪ ও ১৫:১৫ আয়াতে আছে, আকাশের দরজা খুলে দিলে আর তারা তাতে উঠতে থাকলেও বলত, আমাদের চোখ ধাঁধিয়ে দেওয়া হয়েছে, আমরা যাদুগ্রস্ত। আর ৫২:৪৪ আয়াতে আছে, আকাশের টুকরো ভেঙে পড়তে দেখলেও বলত, এ তো স্তূপ করা মেঘ।"
+          },
+          {
+            "en": "Al-Qurtubi reaches for the same passage of al-Hijr: they would say plain magic, our eyes have only been dazzled, and we have been bewitched. Read together, the commentators describe a single pattern. The proof is not answered; it is reclassified. A page from the sky becomes a trick, a gate in heaven becomes dazzled eyes, a falling sky becomes weather. Each label is cheap to say, and each spares the speaker the work of replying to what is in front of him.",
+            "bn": "কুরতুবীও হিজরের সেই আয়াতের দিকে হাত বাড়ান: তারা বলত, স্পষ্ট যাদু, আমাদের চোখ ধাঁধিয়ে গেছে, আমাদের উপর যাদু করা হয়েছে। তাফসীরকারদের কথা পাশাপাশি রাখলে একই ধাঁচ চোখে পড়ে। প্রমাণের জবাব দেওয়া হয় না, তার শুধু নাম বদলে দেওয়া হয়। আকাশ থেকে নামা পাতা হয়ে যায় ভেলকি। আসমানের দরজা হয়ে যায় চোখের ধাঁধা। ভেঙে পড়া আকাশ হয়ে যায় মেঘ। এমন তকমা বলতে কোনো খরচ নেই, আর প্রতিটি তকমা বক্তাকে সামনের জিনিসের জবাব দেওয়ার দায় থেকে বাঁচিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not for Want of Proof",
+          "bn": "প্রমাণের অভাবে নয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws out the consolation in the verse. It is Allah telling His Messenger how severe the obstinacy of the disbelievers is: their denial is not because of any shortfall in what he brought them, nor because they do not know it, but is wrongdoing and transgression, against which there is no stratagem. They would touch it and be certain of it, and still say, out of wrongdoing and haughtiness, that it is plain magic. What proof, he asks, is greater than this?",
+            "bn": "সা'দী আয়াতের ভেতরের সান্ত্বনাটা বের করে আনেন। এখানে আল্লাহ তাঁর রাসূলকে জানাচ্ছেন, কাফেরদের জেদ কতটা কঠিন। তিনি যা এনেছেন তাতে কোনো কমতি আছে বলে তারা অস্বীকার করছে না, না জানার কারণেও নয়। এ হলো জুলুম আর সীমালঙ্ঘন, যার বিরুদ্ধে কোনো কৌশল খাটে না। তারা হাতে ছুঁয়ে নিশ্চিত হতো, তবুও জুলুম আর অহংকার থেকে বলত, এ স্পষ্ট যাদু। সা'দী প্রশ্ন করেন, এর চেয়ে বড় প্রমাণ আর কী হতে পারে?"
+          },
+          {
+            "en": "He calls their answer a hideous saying, because they defied something perceived by the senses, which no one with the least hold on reason could push away. Al-Baghawi and al-Qurtubi place the weight elsewhere, on what Allah already knew. Al-Qurtubi says the verse answers their words, until you bring down to us a book we may read (17:93): Allah made known what had preceded in His knowledge, that if it were sent down they would deny it. Al-Baghawi closes with: nothing would benefit them, because of what had preceded in My knowledge of them.",
+            "bn": "তাদের এ জবাবকে তিনি বলেন জঘন্য কথা, কারণ তারা এমন জিনিস অস্বীকার করেছে যা ইন্দ্রিয় দিয়ে ধরা যায়, আর যার সামান্যতম বুদ্ধি আছে সে-ও তা ঠেলে সরাতে পারে না। বাগাভী আর কুরতুবী জোরটা দেন অন্য জায়গায়, আল্লাহর আগের জ্ঞানে। কুরতুবী বলেন, আয়াতটি তাদের এ কথার জবাব: যতক্ষণ না তুমি আমাদের উপর এমন কিতাব নামাও যা আমরা পড়ব (১৭:৯৩)। আল্লাহ জানিয়ে দিলেন তাঁর জ্ঞানে আগে থেকে যা ছিল: নামালেও তারা মিথ্যা বলত। বাগাভী শেষ করেন এভাবে: আমার জ্ঞানে তাদের ব্যাপারে আগেই যা আছে, সে কারণে কোনো কিছুই তাদের কাজে আসবে না।"
+          },
+          {
+            "en": "At-Tabari adds a report from Ibn Abbas: had We sent down pages from the sky with writing in them, and had they touched them with their hands, it would only have increased them in denial. The two readings put the emphasis in different places. As-Sa'di names the cause in the deniers themselves, their wrongdoing and haughtiness; al-Baghawi and al-Qurtubi name the knowledge of Allah that foresaw the outcome. None of them treats the problem as a lack of evidence.",
+            "bn": "তাবারী ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা যোগ করেন: আকাশ থেকে লেখাসহ পাতা নামালে আর তারা হাতে তা ছুঁয়ে দেখলে, তাতে তাদের অস্বীকার শুধু বাড়তই। দুই পাঠ জোর দেয় দুই জায়গায়। সা'দী কারণ খোঁজেন অস্বীকারকারীদের ভেতরে, তাদের জুলুম আর অহংকারে। বাগাভী আর কুরতুবী তুলে ধরেন আল্লাহর জ্ঞান, যা পরিণতিটা আগেই জানত। তবে প্রমাণের অভাবকে সমস্যা মনে করেন না কেউই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Asked for the Book",
+          "bn": "কিতাব চেয়েছিল কারা"
+        },
+        "p": [
+          {
+            "en": "Who made such a demand? Al-Qurtubi relays from al-Kalbi that the verse came down about an-Nadr ibn al-Harith, Abdullah ibn Abi Umayyah and Nawfal ibn Khuwaylid, who said, we will not believe you until you make a spring gush forth for us from the earth, the opening words of the demands recorded in 17:90. Al-Baghawi relays the same three names from al-Kalbi and Muqatil, with a different demand: a book from Allah, with four angels testifying that it is from Him and that Muhammad is His messenger.",
+            "bn": "এমন দাবি কারা তুলেছিল? কুরতুবী কালবী থেকে আনেন, আয়াতটি নাযিল হয় নাদর ইবনুল হারিস, আবদুল্লাহ ইবন আবী উমাইয়া আর নাওফাল ইবন খুওয়াইলিদের ব্যাপারে। তারা বলেছিল, আমরা তোমার উপর ঈমান আনব না, যতক্ষণ না তুমি আমাদের জন্য যমীন থেকে ঝর্ণা বের করো। ১৭:৯০ আয়াতে লেখা দাবিগুলোর এটাই প্রথম কথা। বাগাভী এই তিনজনের নামই আনেন কালবী আর মুকাতিল থেকে, তবে দাবিটা অন্য: আল্লাহর কাছ থেকে একটি কিতাব আনো, সঙ্গে চারজন ফেরেশতা সাক্ষ্য দেবে যে তা আল্লাহর পক্ষ থেকে, আর মুহাম্মাদ তাঁর রাসূল।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an tells it of one man, Abdullah ibn Umayyah, who said he would not believe until he saw the Prophet ﷺ climb to the sky and bring back, before their eyes, a book written in his own name telling him to affirm the prophethood, and who added that even then he would not be persuaded. None of these accounts comes with a chain in the texts fetched for this verse. The occasion is reported, not established; what is clear is the placement, an answer to the kind of demand listed in 17:90 to 17:93.",
+            "bn": "মাআরিফুল কুরআন ঘটনাটা বলে একজন মানুষকে ঘিরে, আবদুল্লাহ ইবন উমাইয়া। সে বলেছিল, নবী ﷺ আসমানে উঠে তাদের চোখের সামনে এমন কিতাব নিয়ে না এলে সে ঈমান আনবে না, যাতে তার নাম ধরে লেখা থাকবে যে সে নবুওয়াতের সাক্ষ্য দিক। সঙ্গে এটাও বলেছিল, তা হলেও সে মানবে না। এ আয়াতের জন্য সংগ্রহ করা লেখায় এসব বর্ণনার কোনোটির সনদ দেওয়া নেই। তাই নাযিলের প্রেক্ষাপট বর্ণিত, প্রতিষ্ঠিত নয়। যা স্পষ্ট তা হলো আয়াতের অবস্থান: ১৭:৯০ থেকে ১৭:৯৩ আয়াতে যে ধরনের দাবি লেখা আছে, এ তার জবাব।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it. The next two verses, 6:8 and 6:9, take up a further demand, why no angel was sent down with him, and answer it on their own terms; that is a separate study. This verse stays with the book: the thing they named as the condition of their faith, granted in full and placed in their hands, would have changed only the name they gave to it.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস জোড়েনি। পরের দুটি আয়াত, ৬:৮ ও ৬:৯, আরেকটা দাবি তোলে: তার সঙ্গে ফেরেশতা পাঠানো হলো না কেন। সে দাবির জবাব সেখানে আলাদাভাবে এসেছে, সেটা ভিন্ন আলোচনা। এ আয়াত থাকে কিতাবের কথাতেই। যে জিনিসকে তারা ঈমানের শর্ত বানিয়েছিল, তা পুরোপুরি দিয়ে তাদের হাতে তুলে দিলেও বদলাত কেবল তার নাম, যে নামে তারা তাকে ডাকত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Verse Does Not Permit",
+          "bn": "আয়াত যার সুযোগ দেয় না"
+        },
+        "p": [
+          {
+            "en": "The verse describes what the text describes: a particular stance taken against the Prophet ﷺ in Mecca, which the commentators trace to obstinacy, wrongdoing and haughtiness, and which Allah's knowledge foresaw. It licenses nothing against any living person or community. It does not let a reader decide that someone who has not accepted Islam is beyond reach, or treat an honest question as if it were the demand in this verse. That judgement on hearts belongs to Allah, who alone knew theirs.",
+            "bn": "আয়াত যা বলে, শুধু সেটুকুরই বর্ণনা দেয়: মক্কায় নবী ﷺ-এর বিরুদ্ধে নেওয়া এক নির্দিষ্ট অবস্থান। তাফসীরকারেরা এর মূল খুঁজে পান জেদ, জুলুম আর অহংকারে, আর আল্লাহর জ্ঞান তা আগেই জানত। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। যে এখনো ইসলাম গ্রহণ করেনি, তাকে নাগালের বাইরে বলে রায় দেওয়ার সুযোগ পাঠকের নেই। সৎ প্রশ্নকে এ আয়াতের দাবির সঙ্গে গুলিয়ে ফেলারও সুযোগ নেই। অন্তরের রায় আল্লাহর হাতে, তাদের অন্তর তিনিই জানতেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an itself shows why. It says the very man it names later embraced Islam, and with such fervour that he fought in the cause of Islam and was martyred in the Battle of Ta'if. It reads the verse as comfort for the Prophet ﷺ, who, it says, cared for his people more than their own parents could, at a time when hostile demands and mocking exchanges were aimed at him. Verse 6:10 continues that comfort. The comfort was given to him; it is not a verdict for anyone else to pass.",
+            "bn": "কেন, মাআরিফুল কুরআন নিজেই তা দেখিয়ে দেয়। যে মানুষটির নাম সে নেয়, সে-ই পরে ইসলাম গ্রহণ করে, আর এমন আন্তরিকতায় যে ইসলামের পথে লড়াই করে তায়েফের যুদ্ধে শহীদ হয়। মাআরিফুল কুরআনের পাঠে আয়াতটি নবী ﷺ-এর জন্য সান্ত্বনা। তার ভাষায়, তিনি নিজের কওমকে তাদের মা-বাবার চেয়েও বেশি ভালোবাসতেন, আর তখন তাঁর দিকে ছোড়া হচ্ছিল শত্রুতাভরা দাবি আর ঠাট্টার কথা। ৬:১০ আয়াত সেই সান্ত্বনাই আরও এগিয়ে নেয়। সান্ত্বনা দেওয়া হয়েছিল তাঁকে। অন্য কারও উপর রায় দেওয়ার হাতিয়ার এটা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Evidence or an Excuse",
+          "bn": "প্রমাণ, নাকি অজুহাত"
+        },
+        "p": [
+          {
+            "en": "The verse still leaves a question for every reader, believers included. Most of us have said at some point that we would act if only we were sure. Sometimes that is honest. But the verse shows another possibility: a demand for proof that is really a way of postponing, where each answer received is met with a new name rather than a new step. As-Sa'di's point is worth keeping: their denial came neither from a shortfall in what was brought nor from not knowing it.",
+            "bn": "তবু আয়াতটি প্রত্যেক পাঠকের সামনে, মুমিনদের সামনেও, একটা প্রশ্ন রেখে যায়। আমরা অনেকেই কখনো না কখনো বলেছি, নিশ্চিত হলে করতাম। কখনো কখনো কথাটা সৎ। কিন্তু আয়াত আরেকটা সম্ভাবনা দেখায়। প্রমাণ চাওয়াটা আসলে পিছিয়ে দেওয়ার কৌশলও হতে পারে, যেখানে প্রতিটি জবাবের পর আসে নতুন পদক্ষেপ নয়, নতুন একটা নাম। সা'দীর কথাটা মনে রাখার মতো: তাদের অস্বীকার যা আনা হয়েছিল তার কমতি থেকে আসেনি, না জানা থেকেও আসেনি।"
+          },
+          {
+            "en": "So the useful test is a practical one. What do I already know from the Quran, about prayer, about my speech, about money, about the rights of others, that I have not yet acted on? If a fresh reminder arrived tomorrow, would it move me, or would I find a word for it too? The signs already in my hands are many. The verse asks whether I am waiting for evidence, or keeping an excuse in reserve, and I am the only one who can answer that.",
+            "bn": "তাই কাজের পরীক্ষাটা হাতে-কলমে। নামায, নিজের কথাবার্তা, টাকাপয়সা, অন্যের হক নিয়ে কুরআন থেকে আমি এমন কী জানি, যার উপর এখনো আমল করিনি? কাল যদি নতুন করে কোনো নসিহত আসে, তা কি আমাকে নাড়াবে, নাকি তার জন্যও একটা নাম খুঁজে বের করব? যেসব নিদর্শন আমার হাতে এসে গেছে, সেগুলো কম নয়। আয়াত জানতে চায়, আমি কি প্রমাণের অপেক্ষায় আছি, নাকি একটা অজুহাত হাতে রেখে দিয়েছি। এ প্রশ্নের জবাব আমি ছাড়া আর কেউ দিতে পারবে না।"
+          }
+        ]
+      }
+    ]
+  },
   "6:10": {
     "sections": [
       {

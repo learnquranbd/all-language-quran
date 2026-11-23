@@ -31103,6 +31103,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Lawful things come with conditions: give what is owed, keep yourself as chaste as you ask others to be, and guard the faith that gives your deeds their worth.",
     "lessonBn": "হালালের সঙ্গে শর্তও আসে: যার যা পাওনা তা দিন, অন্যের কাছে যে পবিত্রতা চান নিজেও তা ধরে রাখুন, আর সেই ঈমান রক্ষা করুন যা আপনার আমলকে মূল্য দেয়।"
+  },
+  "6:7": {
+    "reflectionEn": "They asked for a book they could hold. The verse answers before the request is ever granted: had a written page come down from the sky, and had they turned it over in their own hands, they would still have called it plain magic. The shortage was never one of proof. A heart that has already decided will rename whatever reaches it, so a sign becomes a trick and a miracle becomes a story. That warning is for me as well, not only for them. Is there a truth I keep asking to see more clearly, when the honest reason I hold back is that accepting it would cost me something? Am I asking for evidence, or for an excuse?",
+    "reflectionBn": "তারা চেয়েছিল এমন কিতাব, যা হাতে ধরা যায়। দাবি পূরণ হওয়ার আগেই আয়াত তার জবাব দিয়ে দেয়। আকাশ থেকে লেখা পাতা নেমে এলেও, আর নিজের হাতে তা উল্টে-পাল্টে দেখলেও, তারা বলত এ তো স্পষ্ট যাদু। ঘাটতি কোনোদিন প্রমাণের ছিল না। যে মন আগেই রায় দিয়ে বসে আছে, যা-ই তার কাছে আসুক, সে তার নতুন নাম দেয়। নিদর্শন হয়ে যায় ভেলকি, মুজিযা হয়ে যায় গল্প। এ সতর্কবাণী শুধু তাদের জন্য নয়, আমারও শোনা দরকার। এমন কোনো সত্য কি আছে, যা আরও পরিষ্কার করে দেখতে চাই বলে বারবার দাবি করি, অথচ আসল কারণ হলো মেনে নিলে আমার কিছু ছাড়তে হবে? আমি কি প্রমাণ খুঁজছি, নাকি অজুহাত?",
+    "pointsEn": [
+      "Is there a truth I already know that I keep postponing by asking for one more proof?",
+      "When an argument goes against what I want, do I weigh it, or do I first look for a label that lets me set it aside?",
+      "Which of my moments of 'I am not convinced yet' would honestly be better called 'I am not willing yet'?",
+      "When someone I invite to good keeps refusing, can I keep to the duty of conveying and leave the hearts to Allah?",
+      "Which signs have already reached my hands this week, in the Quran and in my own life, that I have not yet let change anything?"
+    ],
+    "pointsBn": [
+      "এমন কোনো সত্য কি আছে, যা আমি জানি, তবু আরেকটা প্রমাণ চেয়ে চেয়ে পিছিয়ে দিচ্ছি?",
+      "কোনো যুক্তি আমার ইচ্ছার বিরুদ্ধে গেলে আমি কি তা মেপে দেখি, নাকি আগে এমন একটা তকমা খুঁজি, যা দিয়ে সেটাকে সরিয়ে রাখা যায়?",
+      "যখন বলি 'এখনো নিশ্চিত হইনি', তার কতবার আসল কথাটা হলো 'এখনো রাজি হইনি'?",
+      "যাকে ভালোর দিকে ডাকি, সে বারবার ফিরিয়ে দিলে আমি কি পৌঁছে দেওয়ার দায়িত্বটুকু ধরে রেখে অন্তরের ভার আল্লাহর উপর ছাড়তে পারি?",
+      "এ সপ্তাহে কুরআনে আর নিজের জীবনে কোন কোন নিদর্শন আমার হাতে এসে পৌঁছেছে, যেগুলোকে এখনো কিছুই বদলাতে দিইনি?"
+    ],
+    "lessonEn": "Proof does not open a heart that has decided to refuse, so ask yourself whether you want evidence or an excuse, and act on what you already know.",
+    "lessonBn": "যে মন অস্বীকার করবে বলে ঠিক করে রেখেছে, প্রমাণ তা খোলে না। তাই নিজেকে জিজ্ঞেস করুন, আপনি প্রমাণ চান নাকি অজুহাত, আর যা জানেন তার উপর আমল করুন।"
   }
 };
 
