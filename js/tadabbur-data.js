@@ -33423,6 +33423,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Build your life on what Allah sent down, not against it: whatever is raised to resist His truth gives way at its base, from where its builders never expected.",
     "lessonBn": "জীবন গড়ুন আল্লাহর নাযিল করা বাণীর উপর, তার বিরুদ্ধে নয়। তাঁর সত্যকে ঠেকাতে যা তোলা হয়, তা ধসে পড়ে গোড়া থেকে, এমন দিক থেকে যা নির্মাতারা কখনো ভাবেনি।"
+  },
+  "16:35": {
+    "reflectionEn": "They did not deny that Allah's will reaches everything. They put it to work. Had Allah willed, they said, we would not have worshipped anything besides Him, nor forbidden anything without Him. The plea sounds humble and works as a shield: nothing stopped us, so it must have been allowed. The verse does not argue. It notes that people before them said the same, and asks whether the messengers owe anything beyond a clear delivery. The message had reached them, and what they did with it was theirs. The same sentence is easy to borrow today, with no idol in sight. When I say it was meant to be, am I submitting to Allah, or using His will to excuse what His word told me to leave?",
+    "reflectionBn": "আল্লাহর ইচ্ছা যে সবকিছুকে ঘিরে আছে, তারা তা অস্বীকার করেনি। বরং কথাটাকে কাজে লাগিয়েছে। তারা বলল, আল্লাহ চাইলে আমরা তাঁকে ছাড়া কোনো কিছুর ইবাদত করতাম না। তাঁর হুকুম ছাড়া কোনো কিছু হারামও করতাম না। শুনতে বিনয়ের মতো, আসলে ঢাল। কেউ তো থামায়নি, তাহলে নিশ্চয়ই অনুমতি ছিল। আয়াত তর্কে যায় না। শুধু জানিয়ে দেয়, আগের লোকেরাও এমনই বলেছিল। তারপর প্রশ্ন রাখে: স্পষ্টভাবে পৌঁছে দেওয়া ছাড়া রসূলদের উপর আর কী দায়িত্ব? বার্তা তাদের কাছে পৌঁছেছিল। তা নিয়ে কী করবে, সে দায় তাদেরই। মূর্তি ছাড়াও আজ এই বাক্য ধার করা খুব সহজ। যখন বলি, কপালে এটাই ছিল, তখন কি আমি আল্লাহর কাছে নিজেকে সঁপে দিচ্ছি? নাকি যা ছাড়তে তাঁর বাণী আমাকে বলেছে, তাঁর ইচ্ছাকে সেটারই অজুহাত বানাচ্ছি?",
+    "pointsEn": [
+      "Where do I say it was written for me about something His word has already told me to change?",
+      "Which of my habits do I defend only because my parents or the people around me have always kept them?",
+      "Have I ever called something forbidden, or allowed, with no knowledge from Allah behind what I said?",
+      "When I pass on a reminder and it is not taken, do I accept that my part was the clear delivery and leave the heart to Allah?",
+      "Is what I share clear enough for the listener to understand it, or only loud enough to say it was said?"
+    ],
+    "pointsBn": [
+      "কোন কাজের বেলায় আমি বলি কপালে লেখা ছিল, অথচ আল্লাহর বাণী আগেই সেটা বদলাতে বলেছে?",
+      "আমার কোন অভ্যাসগুলো আমি আঁকড়ে আছি শুধু এ কারণে যে বাপ-দাদা বা আশপাশের মানুষ সবসময় এভাবেই করে এসেছে?",
+      "আল্লাহর কাছ থেকে কোনো জ্ঞান ছাড়াই কি আমি কখনো কোনো কিছুকে হারাম বা হালাল বলে দিয়েছি?",
+      "কাউকে নসিহত পৌঁছে দেওয়ার পর সে না মানলে আমি কি মেনে নিই যে আমার কাজ ছিল স্পষ্টভাবে পৌঁছানো, আর অন্তরের ভার আল্লাহর?",
+      "আমি যা বলি তা কি শ্রোতার বোঝার মতো স্পষ্ট, নাকি শুধু এতটুকু জোরে বলা যাতে বলা যায় যে বলে দিয়েছি?"
+    ],
+    "lessonEn": "Do not make Allah's will an excuse for what His word forbids. The message has reached you, so act on it, and when you pass it on, make it clear.",
+    "lessonBn": "আল্লাহর বাণী যা নিষেধ করেছে, তাঁর ইচ্ছাকে তার অজুহাত বানাবেন না। বার্তা আপনার কাছে পৌঁছে গেছে, তাই সে অনুযায়ী আমল করুন, আর অন্যকে পৌঁছানোর সময় স্পষ্ট করে পৌঁছান।"
   }
 };
 

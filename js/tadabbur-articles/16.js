@@ -1643,6 +1643,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:35": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Plea After the Warning",
+          "bn": "সতর্কবাণীর পরে অজুহাত"
+        },
+        "p": [
+          {
+            "en": "The verse comes straight after a warning. 16:33 asks whether the deniers are waiting for anything but the angels, or the command of their Lord, and adds: thus did those before them. 16:34 says the evil of their deeds struck them and what they mocked closed around them. Then the reply is reported: wa-qala alladhina ashraku law sha'a Allahu ma 'abadna min dunihi min shay'in nahnu wa la aba'una wa la harramna min dunihi min shay'. Those who associated partners said: had Allah willed, we would not have worshipped anything besides Him, neither we nor our fathers, nor forbidden anything without Him.",
+            "bn": "আয়াতটি এসেছে এক সতর্কবাণীর ঠিক পরে। ১৬:৩৩ জিজ্ঞেস করে, অস্বীকারকারীরা কি ফেরেশতাদের আগমন বা রবের ফায়সালা ছাড়া আর কিছুর অপেক্ষায় আছে? সঙ্গে বলে, তাদের আগের লোকেরাও এমনই করেছিল। ১৬:৩৪ জানায়, তাদের কাজের মন্দ ফল তাদের উপর এসে পড়ল, আর যা নিয়ে তারা ঠাট্টা করত তা-ই তাদের ঘিরে ফেলল। এরপর আসে তাদের জবাব: ওয়া কালাল্লাযীনা আশরাকূ লাও শাআল্লাহু মা আবাদনা মিন দূনিহী মিন শাইয়িন নাহনু ওয়া লা আবাউনা ওয়া লা হাররামনা মিন দূনিহী মিন শাই। মুশরিকরা বলল, আল্লাহ চাইলে আমরা তাঁকে ছাড়া কোনো কিছুর ইবাদত করতাম না, আমরাও না, আমাদের বাপ-দাদারাও না। তাঁর হুকুম ছাড়া কোনো কিছু হারামও করতাম না।"
+          },
+          {
+            "en": "Ibn Kathir names what is happening in his first line. Allah, he says, is telling of the idolaters' delusion in the shirk they were in, and of their excuse, made by arguing from the decree, al-qadar. The same plea appears in nearly the same words in 6:148, where it is foretold in the future tense, and 43:20 has a shorter form: had the Most Merciful willed, we would not have worshipped them. The article on 6:148 works through the theology of the plea. This one keeps to what the commentators add on an-Nahl.",
+            "bn": "কী ঘটছে, ইবন কাসীর প্রথম বাক্যেই তা বলে দেন। তাঁর ভাষায়, আল্লাহ এখানে জানাচ্ছেন মুশরিকদের আত্মপ্রবঞ্চনার কথা, যে শিরকে তারা ডুবে ছিল তা নিয়ে। আর জানাচ্ছেন তাদের অজুহাতের কথা, যা তারা দাঁড় করিয়েছিল তাকদীরকে দলিল বানিয়ে। প্রায় একই ভাষায় এই অজুহাত আছে ৬:১৪৮ আয়াতেও, সেখানে ভবিষ্যৎ কালে আগাম জানিয়ে দেওয়া হয়েছে। ৪৩:২০ আয়াতে আছে এর ছোট রূপ: দয়াময় চাইলে আমরা ওদের ইবাদত করতাম না। এই অজুহাতের আকিদাগত দিক ৬:১৪৮-এর প্রবন্ধে বিস্তারিত আছে। এখানে শুধু সূরা নাহলের এই আয়াতে তাফসীরকারেরা নতুন যা যোগ করেন, তা-ই থাকছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cattle They Set Apart",
+          "bn": "আলাদা করে রাখা গবাদিপশু"
+        },
+        "p": [
+          {
+            "en": "What had they forbidden? The commentators answer with names of animals. Ibn Kathir: the bahira, the sa'iba, the wasila and other such things, which they had invented and devised of themselves, for which Allah had sent down no authority. Al-Baghawi lists four: the bahira, the sa'iba, the wasila and the ham. As-Sa'di places them among the livestock that Allah had made lawful, and at-Tabari names the bahira and the sa'iba. Al-Baghawi's four are exactly the names that 5:103 lists when it says Allah instituted none of them.",
+            "bn": "তারা হারাম করেছিল কী? তাফসীরকারেরা উত্তর দেন কিছু পশুর নাম দিয়ে। ইবন কাসীর বলেন: বাহীরা, সাইবা, ওয়াসীলা এবং এ ধরনের আরও কিছু, যা তারা নিজেরাই উদ্ভাবন করেছিল, মনগড়া বানিয়েছিল, আর যার পক্ষে আল্লাহ কোনো দলিল নাযিল করেননি। বাগাভী চারটি নাম গোনেন: বাহীরা, সাইবা, ওয়াসীলা ও হাম। সা'দী এগুলোকে রাখেন সেই গবাদিপশুর মধ্যে, যা আল্লাহ হালাল করেছিলেন। তাবারী উল্লেখ করেন বাহীরা ও সাইবার কথা। বাগাভীর চারটি নামই হুবহু আছে ৫:১০৩ আয়াতে, যেখানে বলা হয়েছে আল্লাহ এর কোনোটিই নির্ধারণ করেননি।"
+          },
+          {
+            "en": "The sentence uses min dunihi twice, and the two uses do different work. The first concerns worship: anything besides Him. Al-Qurtubi notes on min shay' that it means shay'an, anything, and that the min is a sila, an added particle. The second concerns law. The English abridgement of Ibn Kathir renders it as forbidding anything without a command from Him, and the Muyassar says they forbade what He had not forbidden. So the plea covers two acts at once: a worship He did not ask for, and a prohibition He did not make.",
+            "bn": "বাক্যে মিন দূনিহী এসেছে দুবার, আর দুবার দুই রকম কাজ করছে। প্রথমবার ইবাদতের প্রসঙ্গে: তাঁকে ছাড়া অন্য কিছু। মিন শাই সম্পর্কে কুরতুবী বলেন, এর মানে শাইআন, অর্থাৎ কোনো কিছু, আর এখানে মিন একটি সিলা, বাড়তি অব্যয়। দ্বিতীয়বার বিধানের প্রসঙ্গে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ একে বোঝায় তাঁর কোনো হুকুম ছাড়াই কিছু হারাম করা। মুয়াসসার বলে, যা তিনি হারাম করেননি তারা তা হারাম করেছিল। অজুহাতটা তাই একসঙ্গে দুটি কাজকে আড়াল করে। এক, এমন ইবাদত যা তিনি চাননি। দুই, এমন নিষেধ যা তিনি দেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Check Taken as Consent",
+          "bn": "বাধা আসেনি, তাই সম্মতি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari spells out the reasoning behind the plea. We worship these idols, they said, only because Allah is pleased with our worshipping them, and we forbid the bahira and the sa'iba only because Allah willed that prohibition from us and from our fathers and was pleased with it. Otherwise He would have changed it, either by one of His punishments or by guiding us to other deeds. Ibn Kathir puts the gist the same way: had He disliked what we did, He would have censured it with punishment and would not have enabled us to do it.",
+            "bn": "অজুহাতের পেছনের যুক্তিটা তাবারী খুলে বলেন। তারা বলত, আমরা এই মূর্তিগুলোর ইবাদত করি শুধু এ কারণে যে আল্লাহ আমাদের এ ইবাদতে সন্তুষ্ট। বাহীরা আর সাইবা হারাম মানি শুধু এ কারণে যে আল্লাহ আমাদের ও আমাদের বাপ-দাদাদের কাছ থেকে এই নিষেধ চেয়েছেন, আর তাতে তিনি খুশি। তা না হলে তিনি এটা বদলে দিতেন, হয় কোনো শাস্তি দিয়ে, নয়তো আমাদের অন্য আমলের দিকে পথ দেখিয়ে। ইবন কাসীরও মূল কথাটা একইভাবে বলেন: আমরা যা করছি তা তাঁর অপছন্দ হলে তিনি শাস্তি দিয়ে এর প্রতিবাদ করতেন, আর আমাদের তা করার সুযোগই দিতেন না।"
+          },
+          {
+            "en": "Al-Baghawi has it in one line: had Allah not been pleased with these things He would have changed them and guided us to something else. In each version the step is the same: nothing stopped us, so it was approved. Al-Qurtubi records a different sense for the words. Had Allah willed, they meant, He would have sent our fathers a messenger to forbid them shirk and the forbidding of what was lawful, so that they would stop and we would follow them. The fuller argument over which part of the plea was false belongs to 6:148.",
+            "bn": "বাগাভী বলেন এক লাইনে: আল্লাহ এসবে খুশি না হলে তিনি তা বদলে দিতেন, আমাদের অন্য কিছুর দিকে পথ দেখাতেন। প্রতিটি ভাষ্যে যুক্তির ধাপটা একই: কেউ থামায়নি, তার মানে অনুমোদন আছে। কুরতুবী কথাটার আরেকটি অর্থ উল্লেখ করেন। তাদের কথার মানে হতে পারে: আল্লাহ চাইলে আমাদের বাপ-দাদার কাছে একজন রসূল পাঠাতেন। তিনি তাদের শিরক থেকে এবং হালালকে হারাম করা থেকে নিষেধ করতেন, তারা বিরত থাকত, আর আমরাও তাদের অনুসরণ করতাম। অজুহাতের কোন অংশটা মিথ্যা ছিল, সে বড় আলোচনা ৬:১৪৮-এর জায়গা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Deluded, Mocking or Evasive",
+          "bn": "বিভ্রান্তি, ঠাট্টা নাকি পলায়ন"
+        },
+        "p": [
+          {
+            "en": "The commentators describe the speakers' state differently. Ibn Kathir's word is ightirar, delusion: they were taken in by the shirk they were in. Al-Qurtubi relays az-Zajjaj, who says they said it in mockery, and that had they said it out of conviction they would have been believers. Al-Qurtubi then adds his own account of the moment: they thought this a hold for themselves once the proof had bound them and they were certain that what they followed was false.",
+            "bn": "বক্তাদের মনের অবস্থা তাফসীরকারেরা ভিন্ন ভিন্নভাবে বর্ণনা করেন। ইবন কাসীরের শব্দ ইগতিরার, অর্থাৎ আত্মপ্রবঞ্চনা: যে শিরকে তারা ছিল, তাতেই তারা প্রতারিত হয়েছিল। কুরতুবী যাজ্জাজের কথা উদ্ধৃত করেন। যাজ্জাজ বলেন, তারা কথাটা বলেছিল ঠাট্টা করে। বিশ্বাস থেকে বললে তারা তো মুমিনই হয়ে যেত। এরপর কুরতুবী নিজে মুহূর্তটার বর্ণনা দেন। দলিল যখন তাদের আটকে ফেলেছে, আর তারা নিশ্চিত হয়ে গেছে যে তাদের পথ বাতিল, তখন তারা ভেবেছিল এ কথাটা আঁকড়ে ধরার মতো একটা অবলম্বন।"
+          },
+          {
+            "en": "As-Sa'di reads it as a cover used knowingly. Their only aim in saying it, he writes, was to push back the truth the messengers brought; otherwise they knew they had no argument against Allah. The Muyassar ends its paraphrase with a flat verdict: they are lying. Delusion, ridicule, or a defence raised by people who knew better: all agree the plea fails, and this article does not choose between their accounts of the speakers' hearts.",
+            "bn": "সা'দীর পাঠে এটা জেনেশুনে নেওয়া আড়াল। তিনি লেখেন, এ কথা বলে তাদের একমাত্র উদ্দেশ্য ছিল রসূলদের আনা সত্যকে ফিরিয়ে দেওয়া। নইলে তারা জানত, আল্লাহর বিরুদ্ধে তাদের কোনো দলিল নেই। মুয়াসসার তার ব্যাখ্যা শেষ করে এক সোজা রায়ে: তারা মিথ্যাবাদী। আত্মপ্রবঞ্চনা, বিদ্রূপ, নাকি জেনেশুনে দাঁড় করানো আত্মরক্ষা? অজুহাত যে টেকে না, এ ব্যাপারে সবাই একমত। বক্তাদের অন্তরে আসলে কী ছিল, সে প্রশ্নে এ প্রবন্ধ তাঁদের কোনো বর্ণনাকে বেছে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Old Road of the Plea",
+          "bn": "অজুহাতের পুরোনো পথ"
+        },
+        "p": [
+          {
+            "en": "Kadhalika fa'ala alladhina min qablihim: thus did those before them. At-Tabari identifies them as the idolatrous nations before them, whose practice these men took up as their own. They said the like of what these say, and walked their way in denying Allah's messengers and following the deeds of their misguided fathers. Al-Qurtubi reads the likeness as the same denial and mockery of the messengers, and adds what came of it: they were destroyed. The Muyassar says the earlier disbelievers argued with the same false argument.",
+            "bn": "কাযালিকা ফাআলাল্লাযীনা মিন কাবলিহিম: তাদের আগের লোকেরাও এমনই করেছিল। তাবারী তাদের চিহ্নিত করেন আগের মুশরিক জাতিগুলো হিসেবে, যাদের রীতিকে এরা নিজেদের রীতি বানিয়ে নিয়েছিল। তারাও এদের মতো কথা বলেছিল। আল্লাহর রসূলদের অস্বীকার করা আর নিজেদের পথভ্রষ্ট বাপ-দাদার আমল অনুসরণ করার পথে তারাও হেঁটেছিল। কুরতুবীর মতে মিলটা হলো রসূলদের প্রতি একই অস্বীকার আর একই বিদ্রূপে। সঙ্গে তিনি পরিণতিটাও জানান: তাদের ধ্বংস করা হয়েছিল। মুয়াসসার বলে, আগের কাফিররাও ঠিক এই বাতিল যুক্তিই দাঁড় করিয়েছিল।"
+          },
+          {
+            "en": "As-Sa'di turns the history into the first answer. Had the plea been true, he says, Allah would not have punished those before them for associating partners with Him, yet He punished them most severely; and had He loved that from them, He would not have punished them. The wording also links the verse to its neighbours. In 6:148 the verb is kadhdhaba, those before them denied. Here it is fa'ala, did, the same clause that 16:33 used two verses earlier of those who wait for the angels.",
+            "bn": "সা'দী ইতিহাসকেই বানান প্রথম জবাব। তিনি বলেন, অজুহাতটা সত্য হলে আল্লাহ তাদের পূর্ববর্তীদের শিরকের জন্য শাস্তি দিতেন না। অথচ তিনি তাদের কঠিনতম শাস্তি দিয়েছেন। তিনি যদি তাদের এ কাজ পছন্দ করতেন, তাহলে তাদের আযাব দিতেন না। আয়াতের শব্দচয়নও একে পাশের আয়াতগুলোর সঙ্গে জুড়ে দেয়। ৬:১৪৮ আয়াতে ক্রিয়াটি কায্যাবা, অর্থাৎ তাদের পূর্ববর্তীরা অস্বীকার করেছিল। এখানে ক্রিয়াটি ফাআলা, অর্থাৎ করেছিল। দুই আয়াত আগে ১৬:৩৩-এ ফেরেশতার অপেক্ষায় থাকা লোকদের বেলায় ঠিক এই বাক্যাংশটিই এসেছে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse reports what the idolaters said and what befell earlier nations who denied their messengers, as the text and the commentators describe it. It describes what the text describes and licenses nothing against any living person or community. It gives nobody a warrant to read a neighbour's hardship, a nation's troubles or an old ruin as the punishment it speaks of. Its question is put to the plea itself, in whatever mouth it is found, my own included.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জানায় মুশরিকরা কী বলেছিল, আর রসূলদের অস্বীকারকারী আগের জাতিগুলোর কী হয়েছিল, যেমনটা কুরআন ও তাফসীরকারেরা বর্ণনা করেন। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। জীবিত কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। প্রতিবেশীর বিপদ, কোনো দেশের দুর্দশা বা কোনো পুরোনো ধ্বংসাবশেষকে এর বলা শাস্তি বলে পড়ার অধিকারও কাউকে দেয় না। এর প্রশ্ন অজুহাতটার কাছে, তা যার মুখেই থাকুক, আমার নিজের মুখেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Delivery That Is Understood",
+          "bn": "যে পৌঁছানো বোঝা যায়"
+        },
+        "p": [
+          {
+            "en": "Fa-hal 'ala ar-rusuli illa al-balaghu al-mubin: so is there anything upon the messengers but the clear delivery? At-Tabari turns the question on the speakers. You who say that had Allah willed you would not have associated, he paraphrases, is there anything upon Our messengers, whom We send to warn you of Our punishment for your disbelief, except the clear delivery? That is, except that they convey to you the message We sent them with. On his reading the question is addressed to the very people who made the plea.",
+            "bn": "ফাহাল আলার রুসুলি ইল্লাল বালাগুল মুবীন: রসূলদের উপর স্পষ্টভাবে পৌঁছে দেওয়া ছাড়া আর কিছু আছে কি? তাবারী প্রশ্নটা ঘুরিয়ে দেন বক্তাদের দিকেই। তাঁর ব্যাখ্যায় কথাটা এমন: ওহে তোমরা, যারা বলো আল্লাহ চাইলে আমরা শিরক করতাম না! আমার রসূলদের আমি পাঠাই তোমাদের কুফরির শাস্তি সম্পর্কে সতর্ক করতে। স্পষ্টভাবে পৌঁছে দেওয়া ছাড়া তাদের উপর আর কোনো দায় আছে কি? অর্থাৎ, যে বার্তা দিয়ে আমি তাদের পাঠিয়েছি, তা তোমাদের কাছে পৌঁছে দেওয়া। তাঁর পাঠে প্রশ্নটা করা হচ্ছে ঠিক সেই লোকদের, যারা অজুহাতটা দিয়েছিল।"
+          },
+          {
+            "en": "The weight falls on al-mubin. At-Tabari defines it as the delivery that makes its meaning plain to its hearer and makes the person it is sent to understand it. As-Sa'di calls it the evident and manifest delivery that reaches the hearts and leaves nobody an argument against Allah. The Muyassar glosses it as the clear conveying of what the people were charged with. On each reading the measure of a delivery is not that it was said, but that it could be understood by those who heard it.",
+            "bn": "মূল ভার পড়েছে আল-মুবীন শব্দে। তাবারী এর সংজ্ঞা দেন এভাবে: এমন পৌঁছানো, যা শ্রোতার কাছে নিজের অর্থ খুলে দেয়, আর যার কাছে পাঠানো হয়েছে তাকে তা বুঝিয়ে দেয়। সা'দী একে বলেন সুস্পষ্ট ও প্রকাশ্য পৌঁছানো, যা অন্তর পর্যন্ত পৌঁছে যায় এবং আল্লাহর বিরুদ্ধে কারও কোনো দলিল বাকি রাখে না। মুয়াসসার ব্যাখ্যা করে: মানুষের উপর যা দায়িত্ব দেওয়া হয়েছে, তা পরিষ্কারভাবে পৌঁছে দেওয়া। প্রতিটি পাঠেই পৌঁছানোর মাপকাঠি এটা নয় যে কথাটা বলা হয়েছে। মাপকাঠি হলো, যারা শুনেছে তারা তা বুঝতে পেরেছে কি না।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi then separate two tasks. Upon the messengers is only the conveying, al-Qurtubi writes; as for guidance, it belongs to Allah. Al-Baghawi: guidance is not theirs to give, only the conveying is. As-Sa'di draws the consequence for the plea. Once the messengers have conveyed their Lord's command and prohibition, and the people answer them by arguing from the decree, the messengers have nothing more to do with the matter. Their reckoning, he says, rests with Allah, Mighty and Majestic.",
+            "bn": "এরপর কুরতুবী ও বাগাভী দুটি কাজকে আলাদা করেন। কুরতুবী লেখেন, রসূলদের উপর শুধু পৌঁছে দেওয়ার দায়িত্ব, আর হিদায়াত আল্লাহর হাতে। বাগাভীর ভাষায়: হিদায়াত দেওয়া তাঁদের কাজ নয়, তাঁদের কাজ শুধু পৌঁছানো। অজুহাতের ব্যাপারে এর ফলটা টানেন সা'দী। রসূলরা যখন রবের আদেশ ও নিষেধ পৌঁছে দিয়েছেন, আর লোকেরা তাকদীরের দোহাই দিয়ে তাঁদের জবাব দিয়েছে, তখন এ ব্যাপারে রসূলদের আর কিছু করার থাকে না। তিনি বলেন, তাদের হিসাব মহিমান্বিত ও মহাপরাক্রমশালী আল্লাহর কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rebuttal or Consolation",
+          "bn": "খণ্ডন, নাকি সান্ত্বনা"
+        },
+        "p": [
+          {
+            "en": "How does that closing question answer the plea? Ibn Kathir hears it as the rebuttal itself. Allah says it, he writes, refuting their doubt: the matter is not as you claim, that He did not reproach you or object. He objected to it in the strongest terms and forbade it with the most emphatic prohibition. On this reading the messengers' delivery is the very censure the idolaters said had never come. The English abridgement of his commentary runs straight on into 16:36: to every nation, every generation, He sent a messenger.",
+            "bn": "শেষের প্রশ্নটা অজুহাতের জবাব দেয় কীভাবে? ইবন কাসীর একে শোনেন সরাসরি খণ্ডন হিসেবে। তিনি লেখেন, তাদের সংশয় খণ্ডন করেই আল্লাহ এ কথা বলছেন: ব্যাপারটা তেমন নয় যেমন তোমরা দাবি করো, যে তিনি তোমাদের দোষ ধরেননি বা আপত্তি তোলেননি। তিনি এর বিরুদ্ধে সবচেয়ে কঠোর আপত্তি তুলেছেন, আর সবচেয়ে জোরালোভাবে নিষেধ করেছেন। এই পাঠে রসূলদের পৌঁছে দেওয়া বার্তাই সেই নিন্দা, যা কখনো আসেনি বলে মুশরিকরা দাবি করছিল। তাঁর তাফসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এখান থেকে সোজা চলে যায় ১৬:৩৬-এ: প্রত্যেক জাতি, প্রত্যেক প্রজন্মের কাছে তিনি রসূল পাঠিয়েছেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an hears something else. It calls this the first doubt the disbelievers raised: if Allah does not like our kufr and shirk, why does He not stop us by force? The absurdity was so plain, it says, that instead of answering it, words of comfort for the Prophet ﷺ were thought sufficient, so that he would not grieve over such senseless questions. Ibn Kathir finds an answer here, Ma'arif a consolation instead, and at-Tabari words said to the speakers' faces. The readings stand side by side.",
+            "bn": "মাআরিফুল কুরআন এখানে অন্য কিছু শোনে। এর মতে এটা কাফিরদের তোলা প্রথম সংশয়: আল্লাহ যদি আমাদের কুফর ও শিরক পছন্দ না করেন, তাহলে জোর করে আমাদের থামান না কেন? মাআরিফ বলে, সংশয়টা এতই স্পষ্টভাবে অযৌক্তিক ছিল যে এর জবাব না দিয়ে নবী ﷺ-কে সান্ত্বনার কয়েকটি কথা বলাই যথেষ্ট মনে করা হয়েছে, যাতে এমন অর্থহীন প্রশ্নে তিনি দুঃখ না পান। ইবন কাসীর এখানে পান জবাব, মাআরিফ পায় জবাবের বদলে সান্ত্বনা, আর তাবারী দেখেন বক্তাদের মুখের উপর বলা কথা। তিনটি পাঠই এখানে পাশাপাশি থাকছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Power and Will Were Given",
+          "bn": "সামর্থ্য আর ইচ্ছা দেওয়া হয়েছে"
+        },
+        "p": [
+          {
+            "en": "Ma'arif then explains why the doubt fails. Allah set up this world, it says, on the arrangement that human beings are not kept under total compulsion. A kind of power to choose was given to them: used in obedience, it brings reward; used in disobedience, it meets His promised punishment, and the Day of Judgement, with the dead raised and called to account, follows from that warning. Had Allah decided to force everyone to obey, who would have dared stay outside? His wisdom required that such compulsion was not fitting.",
+            "bn": "সংশয়টা কেন টেকে না, মাআরিফ এরপর তা বুঝিয়ে বলে। আল্লাহ এ দুনিয়ার ব্যবস্থা সাজিয়েছেন এমনভাবে যে মানুষকে পুরোপুরি বাধ্য করে রাখা হয়নি। তাকে এক ধরনের বেছে নেওয়ার ক্ষমতা দেওয়া হয়েছে। আনুগত্যে তা ব্যবহার করলে পুরস্কার, নাফরমানিতে ব্যবহার করলে তাঁর প্রতিশ্রুত শাস্তি। কিয়ামতের দিন, যেদিন মৃতদের জীবিত করে হিসাব নেওয়া হবে, তা এই সতর্কবাণীরই ফল। আল্লাহ যদি সবাইকে জোর করে আনুগত্য করাতে চাইতেন, তবে কে বাইরে থাকার সাহস পেত? কিন্তু তাঁর হিকমতের দাবি ছিল, এমন বাধ্যবাধকতা সংগত নয়।"
+          },
+          {
+            "en": "As-Sa'di and the Muyassar make the same point in almost the same words. Allah commanded them and forbade them, enabled them to carry out what He charged them with, and gave them a power and a will from which their actions issue; so arguing from the decree, al-qada' wa al-qadar, is the falsest of falsehoods. As-Sa'di adds an appeal to experience: everyone knows by his own senses that he can do what he wants without anything contesting it. Ibn Kathir's distinction between Allah's legislative and universal will is set out in the article on 16:36.",
+            "bn": "সা'দী ও মুয়াসসার প্রায় একই ভাষায় একই কথা বলেন। আল্লাহ তাদের আদেশ দিয়েছেন, নিষেধ করেছেন। যে দায়িত্ব দিয়েছেন তা পালনের সামর্থ্য দিয়েছেন। তাদের দিয়েছেন শক্তি আর ইচ্ছা, যেখান থেকে তাদের কাজগুলো জন্ম নেয়। তাই কাযা ও কদরকে দলিল বানানো বাতিলের মধ্যেও সবচেয়ে বাতিল। সা'দী অভিজ্ঞতার দোহাইও দেন: প্রত্যেকেই নিজের ইন্দ্রিয় দিয়ে জানে, সে যা চায় তা করতে পারে, কেউ তাতে বাধা দেয় না। আল্লাহর শরয়ী ইচ্ছা আর সৃষ্টিগত ইচ্ছার যে পার্থক্য ইবন কাসীর টানেন, তা ১৬:৩৬-এর প্রবন্ধে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Have I Conveyed It?",
+          "bn": "আমি কি পৌঁছে দিয়েছি?"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. In a narration not attached to it, Sahih al-Bukhari (1739), Ibn 'Abbas (RA) describes the sermon on the Day of Sacrifice. After declaring lives, property and honour sacred, and repeating it again and again, the Prophet ﷺ raised his head and said: \"O Allah! Haven't I conveyed Your Message to them?\" Ibn 'Abbas called what followed his will to his community: \"It is incumbent upon those who are present to convey this information to those who are absent.\"",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। আয়াতের সঙ্গে যুক্ত নয় এমন এক বর্ণনায়, সহীহ বুখারীতে (১৭৩৯) ইবন আব্বাস (রাঃ) কুরবানির দিনের খুতবার কথা বলেন। মানুষের রক্ত, সম্পদ ও সম্মানকে পবিত্র ঘোষণা করে, কথাটা বারবার বলে, নবী ﷺ মাথা তুলে বললেন: \"হে আল্লাহ! আমি কি তাদের কাছে তোমার বার্তা পৌঁছে দিইনি?\" এরপরের কথাটাকে ইবন আব্বাস বলেছেন উম্মতের প্রতি তাঁর অসিয়ত: \"যারা উপস্থিত আছে, তাদের কর্তব্য অনুপস্থিতদের কাছে এ কথা পৌঁছে দেওয়া।\""
+          },
+          {
+            "en": "Read beside that sermon, the verse speaks to two kinds of reader. One is tempted by the plea. As-Sa'di's charge is that it denies at once what Allah said, what His messengers said, and what reason and the senses show. When I say it was written for me about something His word told me to leave, the verse answers that the message has already reached me. The other reader is passing the message on. His duty is the delivery that is understood, and as al-Qurtubi puts it, guidance belongs to Allah.",
+            "bn": "ওই খুতবার পাশে রেখে পড়লে আয়াতটি দুই ধরনের পাঠকের সঙ্গে কথা বলে। একজন অজুহাতের দিকে ঝুঁকে আছেন। সা'দীর অভিযোগ, এ অজুহাত একসঙ্গে অস্বীকার করে আল্লাহর কথা, তাঁর রসূলদের কথা, আর বুদ্ধি ও ইন্দ্রিয় যা দেখায় তা। যে কাজ ছাড়তে আল্লাহর বাণী বলেছে, সে ব্যাপারে আমি যখন বলি কপালে লেখা ছিল, আয়াত জবাব দেয়: বার্তা তো আমার কাছে আগেই পৌঁছে গেছে। অন্যজন বার্তাটা অন্যের কাছে পৌঁছে দিচ্ছেন। তাঁর দায়িত্ব এমনভাবে পৌঁছানো যা বোঝা যায়। আর কুরতুবীর কথায়, হিদায়াত আল্লাহর হাতে।"
+          }
+        ]
+      }
+    ]
+  },
   "16:36": {
     "sections": [
       {
