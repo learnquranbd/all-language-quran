@@ -31883,6 +31883,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When the people you answer for fall, turn first to Allah rather than to blame: count yourself among those who need forgiveness, and ask the Protector, the best of forgivers.",
     "lessonBn": "যাদের দায় আপনার কাঁধে, তারা পড়ে গেলে আগে দোষ খুঁজবেন না, আল্লাহর দিকে ফিরুন। ক্ষমা যাদের দরকার তাদের মধ্যে নিজেকেও গুনুন, আর অভিভাবক, শ্রেষ্ঠ ক্ষমাশীলের কাছে চান।"
+  },
+  "7:192": {
+    "reflectionEn": "The verse is seven words long and it sets one test. Before you trust something to protect you, ask whether it can protect itself. The idols of Makkah could not. They could not help the people who served them, and they could not keep a hand off their own heads. Few of us bow to statues, but we lean in the same way: on money that one bad year can empty, on a patron who is himself afraid of losing his place, on a name that a rumour can break. None of these is evil; they are means. The trouble starts when they take the place of the One who helps and is never in need of help. What do I run to first, and could it defend even itself?",
+    "reflectionBn": "আয়াতটি মাত্র সাত শব্দের, আর তাতে একটাই পরীক্ষা। কোনো কিছুর উপর নিজের নিরাপত্তার ভার দেওয়ার আগে জিজ্ঞেস করুন, সে কি নিজেকে রক্ষা করতে পারে? মক্কার মূর্তিগুলো পারত না। যারা তাদের সেবা করত, তাদের কোনো সাহায্য তারা করতে পারত না। নিজের মাথার উপর নেমে আসা আঘাতও ঠেকাতে পারত না। আমরা কেউ হয়তো মূর্তির সামনে মাথা নোয়াই না, কিন্তু ভর দিই একইভাবে। এমন টাকার উপর, যা এক খারাপ বছরেই ফুরিয়ে যেতে পারে। এমন মুরুব্বির উপর, যে নিজেই পদ হারানোর ভয়ে থাকে। এমন সুনামের উপর, যা একটা গুজবেই ভেঙে পড়ে। এগুলোর কোনোটাই মন্দ নয়, এগুলো উপায় মাত্র। গোলমাল শুরু হয় তখন, যখন এগুলো সেই সত্তার জায়গা নিয়ে নেয়, যিনি সাহায্য করেন অথচ নিজে কখনো সাহায্যের মুখাপেক্ষী নন। বিপদে আমি প্রথমে কার দিকে ছুটি? আর সে কি নিজেকেও বাঁচাতে পারত?",
+    "pointsEn": [
+      "Name the three things I would turn to first if this week fell apart. Could any of them protect itself from the same blow?",
+      "Where have I treated a means Allah provided as if it were the source of the help itself?",
+      "When fear arrives suddenly, whose name comes to my mouth before His?",
+      "Is there a person or a thing I obey in order to stay safe, who is just as exposed as I am?",
+      "How would my asking change if I really believed that only He helps and never needs help?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে সব এলোমেলো হয়ে গেলে আমি প্রথমে কোন তিনটি জিনিসের দিকে ফিরব? সেই একই আঘাত থেকে ওগুলোর কোনোটা কি নিজেকে বাঁচাতে পারত?",
+      "আল্লাহর দেওয়া কোন উপায়কে আমি সাহায্যের আসল উৎস বলে ধরে নিয়েছি?",
+      "হঠাৎ ভয় এসে পড়লে তাঁর নামের আগে কার নাম আমার মুখে আসে?",
+      "নিরাপদ থাকার আশায় আমি কি এমন কারও বা কিছুর কথা মেনে চলি, যে নিজেও আমার মতোই অরক্ষিত?",
+      "যদি সত্যিই বিশ্বাস করতাম যে কেবল তিনিই সাহায্য করেন আর তাঁর কোনো সাহায্যের দরকার নেই, তাহলে আমার চাওয়া কীভাবে বদলে যেত?"
+    ],
+    "lessonEn": "Before you lean on anything for protection, ask whether it can protect itself; take the means as means, and turn first to the One who helps and needs no help.",
+    "lessonBn": "নিরাপত্তার জন্য কোনো কিছুর উপর ভর দেওয়ার আগে দেখুন, সে নিজেকে রক্ষা করতে পারে কি না; উপায়কে উপায় হিসেবেই নিন, আর প্রথমে ফিরুন তাঁর দিকে, যিনি সাহায্য করেন অথচ নিজে সাহায্যের মুখাপেক্ষী নন।"
   }
 };
 

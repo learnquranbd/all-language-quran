@@ -10447,6 +10447,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:192": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Second Half of a Question",
+          "bn": "এক প্রশ্নের দ্বিতীয় অর্ধেক"
+        },
+        "p": [
+          {
+            "en": "Wa la yastati'una lahum nasran wa la anfusahum yansurun: they are not able to give them help, nor do they help themselves. Seven Arabic words, and all their weight rests on the verse before. 7:191 asked whether people associate with Allah what creates nothing and is itself created. 7:192 carries that question on without a fresh start. at-Tabari's paraphrase makes the join explicit: do these polytheists associate in the worship of Allah what creates nothing, cannot help them if Allah intends them harm, and cannot help itself either?",
+            "bn": "ওয়া লা ইয়াসতাতীঊনা লাহুম নাসরান ওয়া লা আনফুসাহুম ইয়ানসুরূন: তারা ওদের সাহায্য করতে পারে না, নিজেদেরও সাহায্য করে না। আরবিতে সাতটি শব্দ, আর তাদের পুরো ভর আগের আয়াতের উপর। ৭:১৯১ জিজ্ঞেস করেছিল, মানুষ কি আল্লাহর সঙ্গে এমন কিছুকে শরীক করে, যা কিছুই সৃষ্টি করে না, বরং নিজেই সৃষ্ট? ৭:১৯২ নতুন করে শুরু করে না, সেই প্রশ্নটাই সামনে টেনে নেয়। তাবারীর ব্যাখ্যায় জোড়াটা স্পষ্ট হয়ে যায়। এই মুশরিকরা কি আল্লাহর ইবাদতে এমন কিছুকে শরীক করে, যা কিছু সৃষ্টি করে না, আল্লাহ তাদের অনিষ্ট চাইলে তাদের সাহায্য করতে পারে না, আর নিজেকেও সাহায্য করতে পারে না?"
+          },
+          {
+            "en": "So the passage moves in steps. 7:191 denies the idols the power to create; this verse denies them the power to protect, first outward, toward the people who serve them, then inward, toward themselves. 7:195 will ask whether they have feet, hands, eyes and ears, and 7:197 will repeat this verse almost word for word, turned to face the listeners. Here the argument stays at one point, where the worshipper's hope meets the idol's helplessness, and makes it twice.",
+            "bn": "অংশটা তাই ধাপে ধাপে এগোয়। ৭:১৯১ মূর্তিগুলোর সৃষ্টি করার ক্ষমতা অস্বীকার করেছে। এ আয়াত অস্বীকার করছে রক্ষা করার ক্ষমতা। প্রথমে বাইরের দিকে, যারা তাদের সেবা করে তাদের বেলায়। তারপর ভেতরের দিকে, তাদের নিজেদের বেলায়। ৭:১৯৫ পরে জিজ্ঞেস করবে, ওদের কি পা, হাত, চোখ, কান আছে? আর ৭:১৯৭ প্রায় হুবহু এ আয়াতটিই আবার বলবে, তবে এবার শ্রোতাদের মুখোমুখি হয়ে। এখানে যুক্তি একটা জায়গায় থেমে থাকে, যেখানে পূজারীর আশা গিয়ে ঠেকে মূর্তির অসহায়ত্বে। কথাটা দুবার বলে তবেই সামনে এগোয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nasr, Given and Taken",
+          "bn": "নাসর: দেওয়া আর নেওয়া"
+        },
+        "p": [
+          {
+            "en": "One root, n-s-r, runs through both halves: nasran, help, as a noun, and yansurun, they help, as a verb. al-Qurtubi compresses the verse into four Arabic words: the idols la tansuru wa la tantasiru, they neither give help nor defend themselves. His second verb is a form of the same root that turns the action back on the doer, to win through for oneself or hold one's own against an attacker. The idols fail at both: they cannot give, and they cannot get.",
+            "bn": "দুই অংশেই একটি ধাতু, ন-স-র। নাসরান, সাহায্য, বিশেষ্য হিসেবে; ইয়ানসুরূন, তারা সাহায্য করে, ক্রিয়া হিসেবে। কুরতুবী গোটা আয়াতকে চারটি আরবি শব্দে গুটিয়ে আনেন: মূর্তিগুলো লা তানসুরু ওয়া লা তানতাসিরু, তারা সাহায্য করে না, আত্মরক্ষাও করতে পারে না। তাঁর দ্বিতীয় ক্রিয়াটি একই ধাতুর এমন রূপ, যাতে কাজটা ফিরে আসে কর্তার নিজের দিকে। অর্থাৎ নিজের জন্য জয় আদায় করা, হামলাকারীর সামনে টিকে থাকা। মূর্তিগুলো দুটোতেই ব্যর্থ। তারা দিতেও পারে না, নিতেও পারে না।"
+          },
+          {
+            "en": "Notice the order of the two clauses. The first puts the verb in front: they are not able, for them, to give help. The second puts the object in front: wa la anfusahum yansurun, nor themselves do they help. With anfusahum moved ahead of its verb, the stress falls on the word themselves, as if the verse were saying: leave their worshippers aside; not even themselves. The first clause also speaks of ability, la yastati'un, while the second simply states the fact: they do not help.",
+            "bn": "দুটি অংশের শব্দক্রম খেয়াল করুন। প্রথম অংশে ক্রিয়া আগে: তারা পারে না, ওদের জন্য, সাহায্য করতে। দ্বিতীয় অংশে কর্ম আগে: ওয়া লা আনফুসাহুম ইয়ানসুরূন, নিজেদেরকেও তারা সাহায্য করে না। আনফুসাহুম শব্দটা ক্রিয়ার আগে চলে আসায় জোর পড়ে 'নিজেদের' কথাটার উপর। যেন আয়াত বলছে, পূজারীদের কথা বাদই দাও, নিজেদেরও পারে না। আরেকটা পার্থক্য আছে। প্রথম অংশে কথা সামর্থ্য নিয়ে, লা ইয়াসতাতীঊন, তারা সক্ষম নয়। দ্বিতীয় অংশ শুধু ঘটনাটা জানিয়ে দেয়: তারা সাহায্য করে না।"
+          },
+          {
+            "en": "And who are them? The commentators agree on the people who serve the idols, but word it differently. Ibn Kathir, as-Sa'di and al-Muyassar all say their worshippers. al-Baghawi says the idols do not help man ata'aha, whoever obeys them. The change is small. al-Baghawi does not draw anything out of it, and the next step is the reader's own: obedience is wider than ritual. A person may never bow to a statue and still arrange his choices around what someone seems to demand, hoping to be shielded in return.",
+            "bn": "আর 'ওদের' বলতে কাদের বোঝানো হয়েছে? তাফসীরকারেরা একমত যে মূর্তির সেবা যারা করে, তারাই। তবে ভাষা আলাদা। ইবন কাসীর, সা'দী ও মুয়াসসার বলেন, তাদের পূজারীরা। বাগাভী বলেন, মূর্তিগুলো সাহায্য করে না মান আতাআহা, যে তাদের আনুগত্য করে তাকে। পার্থক্যটা ছোট। বাগাভী এ থেকে আলাদা কিছু বের করেননি। পরের ধাপটা পাঠকের নিজের: আনুগত্য আনুষ্ঠানিক উপাসনার চেয়ে অনেক বড় জায়গা জুড়ে থাকে। কেউ হয়তো কখনো মূর্তির সামনে মাথা নোয়ায়নি, তবু নিজের সিদ্ধান্তগুলো সাজায় কারও মন জুগিয়ে, বিনিময়ে রক্ষা পাওয়ার আশায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Help Against Whom",
+          "bn": "সাহায্য, কিন্তু কার বিরুদ্ধে"
+        },
+        "p": [
+          {
+            "en": "Help is always help against something, and the commentators picture the threat differently. at-Tabari places it on Allah's side. The idol cannot help its worshippers if Allah intends them harm or brings a punishment down on them, and it cannot help itself or push harm away from itself if harm is intended for it. On this reading the verse measures the idol against the only power that finally counts. When Allah's decree arrives, whatever was carved has nothing to put in its way.",
+            "bn": "সাহায্য মানেই কোনো কিছুর বিরুদ্ধে সাহায্য। সেই বিপদটা কোথা থেকে আসে, তাফসীরকারেরা তা ভিন্নভাবে দেখেন। তাবারী বিপদটাকে রাখেন আল্লাহর দিক থেকে। আল্লাহ যদি পূজারীদের অনিষ্ট চান বা তাদের উপর শাস্তি নামান, মূর্তি তাদের সাহায্য করতে পারে না। আর তার নিজের অনিষ্ট চাওয়া হলে সে নিজেকে সাহায্য করতে পারে না, নিজের উপর থেকে ক্ষতিও সরাতে পারে না। এই পাঠে আয়াত মূর্তিকে মাপছে একমাত্র সেই শক্তির সামনে, শেষ বিচারে যা-ই আসল। আল্লাহর ফয়সালা যখন আসে, খোদাই করা জিনিস তার পথে কিছুই দাঁড় করাতে পারে না।"
+          },
+          {
+            "en": "al-Hasan, as al-Baghawi quotes him, places the threat in a human hand: the idols cannot push away from themselves the harm of someone who means to break them, or the like. Ibn Kathir reads the clause the same way, glossing it as no help for themselves against whoever intends them harm, and gives Ibrahim (AS) as his example. He cites the Qur'an's account of how Ibrahim turned on his people's idols with a blow of his right hand, 37:93, and broke them to pieces except the largest, 21:58.",
+            "bn": "বাগাভী হাসানের কথা উদ্ধৃত করেন, আর তাতে বিপদটা আসে মানুষের হাত থেকে। কেউ মূর্তি ভাঙতে চাইলে বা এমন কিছু করতে চাইলে, সেই ক্ষতি তারা নিজেদের উপর থেকে ঠেকাতে পারে না। ইবন কাসীরও অংশটা এভাবেই পড়েন। তাঁর ব্যাখ্যায়, যে তাদের অনিষ্ট করতে চায় তার হাত থেকে তারা নিজেদের বাঁচাতে পারে না। উদাহরণ হিসেবে তিনি আনেন ইবরাহীম (আঃ)-কে। কুরআনের যে বর্ণনায় ইবরাহীম ডান হাতে আঘাত হেনে তাঁর কওমের মূর্তিগুলোর উপর ঝাঁপিয়ে পড়েন (৩৭:৯৩), আর বড়টি ছাড়া সবগুলো টুকরো টুকরো করে দেন (২১:৫৮), তিনি সেটিরই উল্লেখ করেন।"
+          },
+          {
+            "en": "The two readings do not cancel each other, but they are not the same picture. at-Tabari's idol fails before the decree of Allah; the idol of al-Hasan and Ibn Kathir fails before one man's right hand. The first teaches that nothing stands between a creature and its Lord's will. The second puts the same point in a form anyone could check with their own eyes: a god that can be broken and does nothing about it has already answered the question of whether it is a god.",
+            "bn": "দুটি পাঠ একে অপরকে বাতিল করে না, তবে ছবি দুটো এক নয়। তাবারীর মূর্তি হার মানে আল্লাহর ফয়সালার সামনে। হাসান ও ইবন কাসীরের মূর্তি হার মানে একজন মানুষের ডান হাতের সামনে। প্রথম পাঠ শেখায়, সৃষ্টি আর তার রবের ইচ্ছার মাঝে কিছুই দাঁড়াতে পারে না। দ্বিতীয় পাঠ একই কথা এমনভাবে রাখে, যা যে কেউ নিজের চোখে যাচাই করে নিতে পারে। যে উপাস্যকে ভেঙে ফেলা যায় আর সে কিছুই করতে পারে না, সে উপাস্য কি না, সে প্রশ্নের উত্তর সে নিজেই দিয়ে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Anyone Worships Anything",
+          "bn": "মানুষ কেন উপাসনা করে"
+        },
+        "p": [
+          {
+            "en": "at-Tabari then names the logic that makes the verse decisive. A worshipper, he writes, worships what he worships either to draw some benefit from it or to have it push some harm away from him. The gods these people associated with Allah do neither for them. More than that, they cannot draw benefit to themselves or push harm away from themselves, so they are further still from doing it for anyone else. Allah, he says, is making His creation marvel at how great their error is.",
+            "bn": "এরপর তাবারী সেই যুক্তিটা খুলে বলেন, যার জোরে আয়াতটা চূড়ান্ত হয়ে ওঠে। তিনি লেখেন, উপাসক যার উপাসনা করে, করে দুটো কারণের একটির জন্য। হয় তার কাছ থেকে কোনো উপকার পাওয়ার আশায়, নয়তো তার মাধ্যমে নিজের উপর থেকে কোনো ক্ষতি সরানোর আশায়। আল্লাহর সঙ্গে এরা যাদের শরীক করেছে, তারা এদের জন্য এর কোনোটাই করে না। শুধু তা-ই নয়, নিজেদের জন্যও তারা উপকার টেনে আনতে পারে না, নিজেদের উপর থেকে ক্ষতি সরাতে পারে না। তাহলে অন্যের জন্য তা করা তো আরও দূরের কথা। তাবারী বলেন, আল্লাহ এখানে তাদের ভুল কত বিরাট, তা দেখিয়ে তাঁর সৃষ্টিকে বিস্মিত করছেন।"
+          },
+          {
+            "en": "al-Muyassar and as-Sa'di, in almost the same words, draw the conclusion from 7:191 and 7:192 together: if they create nothing, are themselves created, and cannot ward off harm from those who worship them or from themselves, how can they be taken as gods beside Allah? Both close on the same verdict, already met under 7:191. What 7:192 adds is a test closer to daily life. Few people have watched something being created, but everyone knows what it is to need help and to wait and see whether it comes.",
+            "bn": "মুয়াসসার আর সা'দী প্রায় একই ভাষায় ৭:১৯১ ও ৭:১৯২ মিলিয়ে উপসংহার টানেন। ওরা যদি কিছুই সৃষ্টি না করে, বরং নিজেরাই সৃষ্ট হয়, আর যারা ওদের ইবাদত করে তাদের উপর থেকে কিংবা নিজেদের উপর থেকে বিপদ সরাতে না পারে, তাহলে আল্লাহর পাশাপাশি ওদের উপাস্য বানানো হয় কীভাবে? দুজনের রায়ও এক, যা ৭:১৯১-এর আলোচনায় আগেই এসেছে। ৭:১৯২ যা যোগ করে, তা দৈনন্দিন জীবনের আরও কাছের এক পরীক্ষা। কোনো কিছু সৃষ্টি হতে খুব কম মানুষই দেখেছে। কিন্তু সাহায্যের দরকার পড়া আর তা আসে কি না সেই অপেক্ষা, এ অভিজ্ঞতা সবার আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sword Laid Beside It",
+          "bn": "পাশে রেখে দেওয়া তলোয়ার"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir illustrates the verse with a story from Madinah, which he gives here without a chain of narrators. After the Messenger of Allah ﷺ came to Madinah, two young men who had accepted Islam, Mu'adh ibn 'Amr ibn al-Jamuh and Mu'adh ibn Jabal (RA), used to go out at night to the idols of the polytheists, breaking them, spoiling them and using them as firewood for widows. Their aim, he says, was that their people might take a lesson from it and think again for themselves.",
+            "bn": "ইবন কাসীর আয়াতটি বোঝাতে মদীনার একটি ঘটনা আনেন। এখানে তিনি এর কোনো সনদ উল্লেখ করেননি। রাসূলুল্লাহ ﷺ মদীনায় আসার পর দুই তরুণ ইসলাম গ্রহণ করেন: মুআয ইবন আমর ইবনুল জামূহ ও মুআয ইবন জাবাল (রাঃ)। তাঁরা রাতের বেলা মুশরিকদের মূর্তির কাছে যেতেন। সেগুলো ভাঙতেন, নষ্ট করতেন, আর বিধবাদের জ্বালানি কাঠ বানিয়ে দিতেন। ইবন কাসীর বলেন, তাঁদের উদ্দেশ্য ছিল, তাঁদের কওম যেন এ থেকে শিক্ষা নেয় আর নিজেরা নতুন করে ভেবে দেখে।"
+          },
+          {
+            "en": "'Amr ibn al-Jamuh, a chief among his people, kept an idol that he worshipped and perfumed. The two would come by night, turn it on its head and smear it with filth. In the morning he would wash it, perfume it again and lay a sword beside it, telling it: defend yourself. It happened again and again, until one night they tied it to a dead dog and let it down on a rope into a well. When he found it there, Ibn Kathir says, he knew that his religion was false.",
+            "bn": "আমর ইবনুল জামূহ ছিলেন তাঁর কওমের এক সর্দার। তাঁর একটি মূর্তি ছিল, যার তিনি পূজা করতেন, গায়ে সুগন্ধি মাখাতেন। ওই দুজন রাতে এসে সেটাকে মাথা নিচু করে উল্টে দিতেন, ময়লা মাখিয়ে দিতেন। সকালে আমর মূর্তিটা ধুয়ে আবার সুগন্ধি লাগাতেন। তারপর পাশে একটা তলোয়ার রেখে বলতেন: নিজেকে রক্ষা কর। একই কাণ্ড বারবার ঘটতে থাকে। শেষে এক রাতে তাঁরা মূর্তিটাকে একটা মরা কুকুরের সঙ্গে বেঁধে দড়িতে ঝুলিয়ে একটা কূপে নামিয়ে দেন। ইবন কাসীর বলেন, আমর এসে সেটা ওই অবস্থায় দেখলেন, আর বুঝে গেলেন যে তাঁর ধর্ম বাতিল।"
+          },
+          {
+            "en": "Ibn Kathir quotes a line of verse that 'Amr spoke then: by Allah, had you been a god, you and the dog would not have been together in one rope. He accepted Islam, his Islam was good, and he was killed as a martyr at Uhud. The story is the verse acted out in a single household. The sword was the worshipper's own offer of help, laid beside a god who was supposed to be helping him. Night after night it lay there, and the hand it was waiting for never came.",
+            "bn": "ইবন কাসীর আমরের মুখের একটি কবিতার পঙক্তিও উদ্ধৃত করেন: আল্লাহর কসম, তুমি যদি উপাস্য হতে, তাহলে তুমি আর কুকুর এক দড়িতে বাঁধা থাকতে না। এরপর তিনি ইসলাম গ্রহণ করেন, তাঁর ইসলাম সুন্দর হয়, আর উহুদের দিন তিনি শহীদ হন। ঘটনাটা যেন একটি পরিবারের ভেতরে আয়াতটির মঞ্চায়ন। তলোয়ারটা ছিল পূজারীর নিজের দেওয়া সাহায্য, রাখা হয়েছিল এমন এক উপাস্যের পাশে, যার কাজ ছিল তাঁকেই সাহায্য করা। রাতের পর রাত সেটা পড়ে থাকল, যে হাতের অপেক্ষায় ছিল সে হাত আর এল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Narrations Not Tied Here",
+          "bn": "এ আয়াতে বাঁধা নয় এমন বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "No sound narration of the Prophet ﷺ is attached to this verse in the commentaries read for it. Two reports in the canonical collections touch its theme; they are given here as general narrations, not as its explanation. In Sahih al-Bukhari (4287), 'Abdullah reports that when the Prophet ﷺ entered Makkah on the day of the Conquest there were 360 idols around the House, and he began jabbing at them with a stick in his hand, saying: 'Truth has come and falsehood has vanished; truth has come, and falsehood neither begins nor returns.'",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার কোনোটিতে নবী ﷺ-এর কোনো সহীহ বর্ণনা এর সঙ্গে জুড়ে দেওয়া হয়নি। হাদীসের প্রধান সংকলনগুলোর দুটি বর্ণনা এর বিষয়ের কাছাকাছি যায়। সেগুলো এখানে আনা হলো শুধু সাধারণ বর্ণনা হিসেবে, এ আয়াতের ব্যাখ্যা হিসেবে নয়। সহীহ বুখারীতে (৪২৮৭) আবদুল্লাহ (রাঃ) বর্ণনা করেন, মক্কা বিজয়ের দিন নবী ﷺ যখন মক্কায় প্রবেশ করেন, তখন কাবার চারপাশে ৩৬০টি মূর্তি ছিল। তিনি হাতের লাঠি দিয়ে সেগুলোতে খোঁচা দিতে লাগলেন আর বলতে লাগলেন: 'সত্য এসেছে, মিথ্যা বিলুপ্ত হয়েছে। সত্য এসেছে, মিথ্যা না কিছু শুরু করতে পারে, না ফিরে আসতে পারে।'"
+          },
+          {
+            "en": "At-Tirmidhi (2516) has Ibn 'Abbas behind the Prophet ﷺ as he says: 'O boy, I will teach you some words. Be mindful of Allah and He will protect you. Be mindful of Allah and you will find Him before you. When you ask, ask Allah, and when you seek help, seek help from Allah. Know that if the nation gathered to benefit you with something, they would benefit you only with what Allah had written for you; and if they gathered to harm you with something, they would harm you only with what Allah had written against you. The pens are lifted and the pages are dry.'",
+            "bn": "অন্যটি জামে তিরমিযীতে (২৫১৬)। ইবন আব্বাস (রাঃ) নবী ﷺ-এর পেছনে ছিলেন, তখন নবী ﷺ বললেন: 'হে বালক, আমি তোমাকে কয়েকটি কথা শিখিয়ে দিচ্ছি। আল্লাহর হেফাজত কর, তিনি তোমার হেফাজত করবেন। আল্লাহর হেফাজত কর, তাঁকে তোমার সামনে পাবে। যখন চাইবে, আল্লাহর কাছে চাইবে। যখন সাহায্য প্রার্থনা করবে, আল্লাহর কাছেই সাহায্য প্রার্থনা করবে। জেনে রাখ, গোটা উম্মত যদি তোমার কোনো উপকার করার জন্য একত্র হয়, আল্লাহ তোমার জন্য যা লিখে রেখেছেন তা ছাড়া কোনো উপকার তারা করতে পারবে না। আর যদি তোমার কোনো ক্ষতি করার জন্য একত্র হয়, আল্লাহ তোমার বিরুদ্ধে যা লিখে রেখেছেন তা ছাড়া কোনো ক্ষতি তারা করতে পারবে না। কলম তুলে নেওয়া হয়েছে, আর খাতা শুকিয়ে গেছে।'"
+          },
+          {
+            "en": "At-Tirmidhi grades it hasan sahih. Read beside 7:192, it states from the other side what the verse states about idols. The verse says what the idols cannot do; the hadith says who can. Even a whole nation, gathered with all its strength, cannot bring a benefit or a harm that Allah has not written. The idol that cannot shield itself and the crowd that cannot override a decree are two pictures of one truth; the hadith makes it a habit: ask Him, seek His help.",
+            "bn": "তিরমিযী এটিকে হাসান সহীহ বলেছেন। ৭:১৯২-এর পাশে রেখে পড়লে দেখা যায়, আয়াতটি মূর্তির ব্যাপারে যা বলে, হাদীসটি তা বলে উল্টো দিক থেকে। আয়াত জানায়, মূর্তিরা কী পারে না। হাদীস জানায়, কে পারেন। গোটা একটা জাতি সর্বশক্তি নিয়ে একত্র হলেও এমন কোনো উপকার বা ক্ষতি ঘটাতে পারে না, যা আল্লাহ লিখে রাখেননি। যে মূর্তি নিজেকে বাঁচাতে পারে না, আর যে জনতা আল্লাহর ফয়সালা ঠেকাতে পারে না, দুটো একই সত্যের দুই ছবি। হাদীসটি সেই সত্যকে অভ্যাসে পরিণত করে: চাইবেন তাঁর কাছে, সাহায্যও চাইবেন তাঁরই কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Licence for Hammers",
+          "bn": "হাতুড়ি তোলার অনুমতি নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the helplessness of the idols worshipped in Makkah, set out as an argument. The breaking of idols in the accounts above belongs to its own setting: Ibrahim (AS) as the Qur'an narrates him, two young Companions among their own people as Ibn Kathir relates it, and the Prophet ﷺ at the House on the day of the Conquest. None of it licenses anything against any living person or community, their places of worship or the things they revere.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি শুধু তা-ই বর্ণনা করে, যা এর পাঠে আছে: মক্কায় যেসব মূর্তির পূজা হতো, যুক্তির আকারে তাদের অসহায়ত্ব। ওপরের বর্ণনাগুলোতে মূর্তি ভাঙার যে কথা এসেছে, তার প্রতিটির নিজস্ব প্রেক্ষাপট আছে। কুরআনের বর্ণনায় ইবরাহীম (আঃ), ইবন কাসীরের বর্ণনায় নিজেদের কওমের ভেতরে দুই তরুণ সাহাবী, আর মক্কা বিজয়ের দিন কাবার পাশে নবী ﷺ। এর কোনোটিই আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে, তাদের উপাসনালয় কিংবা তাদের শ্রদ্ধার বস্তুর বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না।"
+          },
+          {
+            "en": "The Qur'an itself sets the limit in 6:108: do not insult those they invoke other than Allah, lest they insult Allah in enmity without knowledge. The argument of 7:192 is addressed to the mind. It is meant to be weighed, not enforced, and it works only when the hearer asks the question of himself, as 'Amr ibn al-Jamuh did standing over the well. No one can ask it on another person's behalf, and no one is made a believer by having his idol broken for him.",
+            "bn": "সীমাটা কুরআন নিজেই টেনে দিয়েছে ৬:১০৮ আয়াতে: আল্লাহকে বাদ দিয়ে তারা যাদের ডাকে, তোমরা তাদের গালি দিয়ো না, তাহলে তারা শত্রুতাবশে না জেনে আল্লাহকে গালি দেবে। ৭:১৯২-এর যুক্তি মানুষের বুদ্ধির কাছে রাখা। এটা ভেবে দেখার জিনিস, চাপিয়ে দেওয়ার নয়। আর তা কাজ করে তখনই, যখন শ্রোতা প্রশ্নটা নিজেকে করে, যেমন আমর ইবনুল জামূহ কূপের পাশে দাঁড়িয়ে করেছিলেন। অন্যের হয়ে কেউ এ প্রশ্ন করে দিতে পারে না। কারও মূর্তি ভেঙে দিলেই সে মুমিন হয়ে যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Cannot Shield Itself",
+          "bn": "যে নিজেকেই বাঁচাতে পারে না"
+        },
+        "p": [
+          {
+            "en": "Most readers of this verse will never perfume a statue. But its test travels well, and it is a simple one: before you trust something to protect you, ask whether it can protect itself. Wealth can be lost in one bad year. A patron can lose his post, and an employer his business. A reputation can fall to a single rumour. Health, cleverness and connections share the dangers they are meant to guard you from. Each is a means Allah gives, and each fails the second half of the verse.",
+            "bn": "এ আয়াতের বেশির ভাগ পাঠক কখনো কোনো মূর্তির গায়ে সুগন্ধি মাখাবেন না। কিন্তু আয়াতের পরীক্ষাটা যেকোনো জায়গায় নিয়ে যাওয়া যায়, আর তা খুব সহজ। কোনো কিছুর হাতে নিজের নিরাপত্তা তুলে দেওয়ার আগে জিজ্ঞেস করুন, সে নিজেকে রক্ষা করতে পারে কি না। সম্পদ এক খারাপ বছরেই চলে যেতে পারে। মুরুব্বি পদ হারাতে পারেন, মালিক তাঁর ব্যবসা। একটা গুজবেই সুনাম ধসে পড়তে পারে। স্বাস্থ্য, বুদ্ধি, পরিচিতি, সবই সেই একই বিপদের মুখে খোলা, যা থেকে আপনাকে আগলে রাখার কথা। প্রতিটিই আল্লাহর দেওয়া উপায়, আর প্রতিটিই আয়াতের দ্বিতীয় অংশের পরীক্ষায় ফেল করে।"
+          },
+          {
+            "en": "That is no reason to despise means. The point is the order in which the heart turns. When something goes wrong, notice what you reach for first, and whether you are laying a sword beside it, as 'Amr did, waiting for it to act. Then use the means, but turn first to Him who helps and never needs help. 7:196 gives the sentence to keep: my protector is Allah, who sent down the Book, and He is an ally to the righteous.",
+            "bn": "তার মানে এই নয় যে উপায়কে তুচ্ছ করতে হবে। আসল কথা হলো, অন্তর কোন ক্রমে ফেরে। কিছু খারাপ হলে খেয়াল করুন, আপনার হাত প্রথমে কোন দিকে যায়। আর দেখুন, আমরের মতো আপনিও তার পাশে তলোয়ার রেখে অপেক্ষা করছেন কি না, কখন সে কিছু করবে। তারপর উপায় অবলম্বন করুন, তবে প্রথমে ফিরুন তাঁর দিকে, যিনি সাহায্য করেন আর নিজে কখনো সাহায্যের মুখাপেক্ষী নন। ৭:১৯৬ মনে রাখার মতো বাক্যটি দিয়ে দেয়: আমার অভিভাবক আল্লাহ, যিনি কিতাব নাযিল করেছেন, আর তিনিই সৎকর্মশীলদের অভিভাবকত্ব করেন।"
+          }
+        ]
+      }
+    ]
+  },
   "7:195": {
     "sections": [
       {
