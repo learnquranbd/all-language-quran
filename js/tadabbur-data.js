@@ -30443,6 +30443,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When something you began ends early, part generously: give according to your means, and let the one who loses most leave with something in hand.",
     "lessonBn": "নিজের শুরু করা কিছু মাঝপথে থেমে গেলে উদার হয়ে বিদায় নিন: সামর্থ্য অনুযায়ী দিন, আর যার ক্ষতি সবচেয়ে বেশি, সে যেন হাতে কিছু নিয়ে ফেরে।"
+  },
+  "2:228": {
+    "reflectionEn": "A marriage has ended in words, but the verse does not let it end in a hurry. There is a waiting, three cycles long, and inside it the door back stays open. Then the verse places a trust in the woman's own hands: what Allah has created in her womb is hers alone to know, and she must not hide it, if she believes in Allah and the Last Day. It asks the husband for something too: take her back only if you mean to set things right. Then it says that wives have rights like the rights over them, by what is fair. Each owes, each is owed. I am asked which side of that sentence I keep counting.",
+    "reflectionBn": "মুখের কথায় বিয়েটা ভেঙে গেছে, কিন্তু আয়াত তাকে তাড়াহুড়ো করে শেষ হতে দেয় না। তিন চক্রের অপেক্ষা আছে, আর সে সময়ে ফেরার দরজা খোলা থাকে। তারপর আয়াত নারীর নিজের হাতে একটা আমানত তুলে দেয়। তার গর্ভে আল্লাহ যা সৃষ্টি করেছেন, তা কেবল সে-ই জানে। আল্লাহ ও আখিরাতে ঈমান থাকলে তা লুকানো তার জন্য বৈধ নয়। স্বামীর কাছেও আয়াত কিছু চায়: ফিরিয়ে নিলে সে নেবে কেবল সংশোধনের নিয়তে। এরপর বলে, স্ত্রীদের উপর যেমন হক আছে, ন্যায়সংগতভাবে তাদেরও তেমন হক আছে। দুজনেরই দেনা আছে, দুজনেরই পাওনা। প্রশ্নটা আমার দিকে: এ বাক্যের কোন অংশটা আমি বারবার গুনি?",
+    "pointsEn": [
+      "When something between us breaks, do I give it time to cool, or do I make it final before anyone has had a chance to think?",
+      "What do I alone know, which another person's rights depend on, and am I telling it straight?",
+      "If I have the power to return to someone or hold them, is my intention to mend, or to keep them waiting?",
+      "Do I remember what I owe my spouse as clearly as I remember what I am owed?",
+      "Where in my home could I let a right of mine go, for the sake of peace?"
+    ],
+    "pointsBn": [
+      "আমাদের মধ্যে কিছু ভাঙলে আমি কি তাকে ঠান্ডা হওয়ার সময় দিই, নাকি কেউ ভেবে দেখার আগেই চূড়ান্ত করে ফেলি?",
+      "এমন কী আছে যা কেবল আমিই জানি, অথচ তার উপর অন্যের হক নির্ভর করে? সে কথা কি আমি সোজাসুজি বলছি?",
+      "কাউকে ফিরিয়ে আনার বা আটকে রাখার ক্ষমতা যদি আমার হাতে থাকে, আমার নিয়ত কি জোড়া লাগানো, নাকি তাকে ঝুলিয়ে রাখা?",
+      "স্বামী বা স্ত্রীর কাছে আমার পাওনা যতটা মনে রাখি, তাদের প্রতি আমার দেনাও কি ততটাই মনে রাখি?",
+      "শান্তির খাতিরে ঘরে আমার কোন পাওনাটা আমি ছেড়ে দিতে পারি?"
+    ],
+    "lessonEn": "When a marriage is under strain, tell the truth about what only you know, return only to mend, and give your spouse the rights you expect to receive.",
+    "lessonBn": "দাম্পত্যে টানাপোড়েন এলে যা কেবল আপনিই জানেন, সে বিষয়ে সত্য বলুন। ফিরলে ফিরুন শুধু জোড়া লাগাতে। আর নিজে যে হক আশা করেন, জীবনসঙ্গীকেও সে হক দিন।"
   }
 };
 

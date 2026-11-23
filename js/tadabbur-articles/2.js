@@ -9579,6 +9579,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "2:228": {
+    "sections": [
+      {
+        "h": {
+          "en": "Waiting That Follows the Word",
+          "bn": "তালাকের পরের অপেক্ষা"
+        },
+        "p": [
+          {
+            "en": "The verses just before dealt with ila', a husband's oath to stay away from his wife, ending on one who resolves on divorce (2:227). Al-Qurtubi makes the link: having mentioned the oath and the divorce it may bring, Allah now sets out the woman's position after divorce. At-Tabari draws a ruling from the order: the waiting is owed once divorce is made, so periods that passed in the oath's four months do not count.",
+            "bn": "আগের আয়াতগুলোর বিষয় ছিল ঈলা, মানে স্ত্রীর কাছে না যাওয়ার শপথ। সেগুলো শেষ হয়েছে এমন স্বামীর কথায়, যে তালাকের সংকল্প করে (২:২২৭)। কুরতুবী যোগসূত্রটা দেখান: শপথ আর তা থেকে আসা তালাকের কথা বলার পর আল্লাহ এবার তালাকের পর নারীর অবস্থা বর্ণনা করছেন। তাবারী ক্রম থেকেই একটি বিধান বের করেন: অপেক্ষা শুরু হয় তালাক দেওয়ার পর। শপথের চারটি মাসে যে মাসিক পার হয়েছে, তা এ হিসাবে ধরা হয় না।"
+          },
+          {
+            "en": "Yatarabbasna bi-anfusihinna: they shall wait, holding themselves back. Al-Baghawi and al-Qurtubi note that the sentence is shaped as a statement while its meaning is a command, and at-Tabari explains the waiting as holding oneself back from marriage. The word al-mutallaqat sounds general, but al-Qurtubi says its intended scope is narrower: women whose marriages were consummated and who menstruate. A pregnant woman waits until she gives birth (65:4), and a woman divorced before consummation has no waiting at all (33:49).",
+            "bn": "ইয়াতারাব্বাসনা বিআনফুসিহিন্না: তারা নিজেদের সংযত রেখে অপেক্ষা করবে। বাগাভী ও কুরতুবী বলেন, বাক্যটির গঠন সংবাদের মতো, কিন্তু অর্থ আদেশের। তাবারী এ অপেক্ষার ব্যাখ্যা দেন বিয়ে থেকে নিজেকে বিরত রাখা দিয়ে। আল-মুতাল্লাকাত শব্দটা শুনতে ব্যাপক, কিন্তু কুরতুবী বলেন এর উদ্দিষ্ট পরিসর সংকীর্ণ। এখানে কথা সেই নারীদের নিয়ে, যাদের সঙ্গে দাম্পত্য মিলন হয়েছে এবং যাদের মাসিক হয়। গর্ভবতী নারী অপেক্ষা করেন সন্তান প্রসব পর্যন্ত (৬৫:৪)। আর মিলনের আগে তালাক হলে কোনো ইদ্দতই নেই (৩৩:৪৯)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Quru', Counted Two Ways",
+          "bn": "তিন কুরূ, দুই রকম গণনা"
+        },
+        "p": [
+          {
+            "en": "Thalathata quru': three quru'. Here the scholars divided early. Al-Baghawi lists those who said the quru' are menstruations: 'Umar, 'Ali, Ibn Mas'ud and Ibn 'Abbas, with al-Hasan, Mujahid, al-Awza'i, ath-Thawri and the jurists of opinion. Ibn Kathir adds Abu Hanifah's school and the sounder of two reports from Ahmad, who, al-Athram relays, said the senior Companions of the Messenger ﷺ held this. Al-Qurtubi calls it the view of Kufah.",
+            "bn": "সালাসাতা কুরূ: তিনটি কুরূ। এখানে আলিমরা শুরু থেকেই দুই ভাগ। বাগাভী তালিকা দেন, যাঁরা বলেছেন কুরূ মানে হায়েয বা মাসিক: উমর, আলী, ইবন মাসঊদ ও ইবন আব্বাস (রাঃ), সঙ্গে হাসান, মুজাহিদ, আওযাঈ, সাওরী এবং আসহাবুর রায়। ইবন কাসীর যোগ করেন আবু হানীফার মাযহাব আর আহমদের দুই বর্ণনার মধ্যে অধিক বিশুদ্ধটি। আসরামের সূত্রে আহমদ বলেছেন, রাসূলুল্লাহ ﷺ-এর প্রবীণ সাহাবিরা এ মতই পোষণ করতেন। কুরতুবী একে কুফার মত বলেছেন।"
+          },
+          {
+            "en": "At-Tabari and Ibn Kathir carry a scene from this side. A woman told 'Umar her husband had divorced her once or twice, then came back when she had set out her water, taken off her clothes and closed her door. 'Umar asked Ibn Mas'ud, who said: I see her as still his wife, so long as prayer has not yet become lawful for her. 'Umar said: that is my view too. On this reading the waiting ends only when she is clean of the third menstruation.",
+            "bn": "এ পক্ষের একটি দৃশ্য তাবারী ও ইবন কাসীর দুজনেই এনেছেন। এক নারী উমর (রাঃ)-কে জানাল, স্বামী তাকে এক বা দুই তালাক দিয়েছিল। তারপর সে এমন সময় ফিরে এল, যখন নারীটি গোসলের পানি রেখেছে, কাপড় খুলেছে, দরজা বন্ধ করেছে। উমর (রাঃ) ইবন মাসঊদ (রাঃ)-এর মত চাইলেন। তিনি বললেন, যতক্ষণ তার জন্য নামাজ হালাল হয়নি, আমি তাকে এখনো ওই লোকের স্ত্রী মনে করি। উমর (রাঃ) বললেন, আমারও একই মত। এ পাঠে ইদ্দত শেষ হয় তৃতীয় হায়েয থেকে পবিত্র হওয়ার পরেই।"
+          },
+          {
+            "en": "The other side reads quru' as periods of purity: Zayd ibn Thabit, 'Abdullah ibn 'Umar and 'A'ishah, the seven jurists of Madinah, az-Zuhri, Rabi'ah, Malik and ash-Shafi'i in al-Baghawi's list, the view of the Hijaz in al-Qurtubi's. Ibn Kathir quotes Malik's Muwatta': when people disputed with 'A'ishah over the verse, she said, do you know what the aqra' are? The aqra' are the purities. Ibn 'Umar said that once she enters the blood of the third menstruation, she is free of him and he of her.",
+            "bn": "অপর পক্ষ কুরূ পড়েন তুহর অর্থে, মানে দুই মাসিকের মাঝের পবিত্র সময়। বাগাভীর তালিকায় আছেন যায়দ ইবন সাবিত, আবদুল্লাহ ইবন উমর ও আয়েশা (রাঃ), মদীনার সাতজন ফকীহ, যুহরী, রাবীআ, মালিক ও শাফেঈ। কুরতুবী একে হিজাযের মত বলেছেন। ইবন কাসীর মালিকের মুওয়াত্তা থেকে উদ্ধৃত করেন: আয়াত নিয়ে লোকেরা আয়েশা (রাঃ)-এর সঙ্গে তর্ক করলে তিনি বললেন, তোমরা কি জানো আকরা কী? আকরা হলো তুহর। ইবন উমর (রাঃ) বলেছেন: তৃতীয় হায়েযের রক্ত দেখা দিলেই সে তার থেকে মুক্ত, আর সে-ও তার থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word for Recurring Times",
+          "bn": "নিয়মিত ফিরে আসার শব্দ"
+        },
+        "p": [
+          {
+            "en": "Why could both sides read one word their own way? At-Tabari explains that a qur' in Arabic is the time at which something recurring comes, or goes. So some Arabs called the onset of menstruation a qur', and others the onset of purity. Ibn Kathir relays Abu 'Amr ibn al-'Ala': the Arabs call menstruation, purity, and both together a qur'. Ibn 'Abd al-Barr, as he quotes him, says linguists and jurists agree it can mean either; they differ only over the verse.",
+            "bn": "একই শব্দ দুই পক্ষ নিজ নিজ অর্থে পড়তে পারল কেন? তাবারী বুঝিয়ে বলেন, আরবিতে কুরূ মানে সময়: নিয়মিত ফিরে আসা কোনো জিনিসের আসার সময়, কিংবা চলে যাওয়ার সময়। তাই কিছু আরব মাসিক শুরুর সময়কে কুরূ বলত, কিছু আরব পবিত্রতা শুরুর সময়কে। ইবন কাসীর আবু আমর ইবনুল আলার কথা আনেন: আরবরা হায়েয, তুহর, আবার দুটো মিলিয়েও কুরূ বলে। তাঁর উদ্ধৃতিতে ইবন আবদিল বার বলেন, ভাষাবিদ ও ফকীহরা একমত যে শব্দটি দুটোই বোঝাতে পারে। মতভেদ শুধু আয়াতের উদ্দেশ্য নিয়ে।"
+          },
+          {
+            "en": "Each side brings more than the word. Al-Baghawi says the purity side argued from Ibn 'Umar's divorcing his wife during her menstruation. Al-Bukhari records (5251) that the Messenger ﷺ told 'Umar: Order him to take her back and keep her until she is clean, then menstruates, then is clean again; then, if he wishes, he may keep her, and if he wishes, divorce her before touching her. That is the 'iddah for which Allah commanded that women be divorced. 'Ikrimah, for the other side, notes in at-Tabari that 65:1 says for their 'iddah, not for their quru'.",
+            "bn": "শুধু শব্দ নয়, প্রত্যেক পক্ষ আরও দলিল আনেন। বাগাভী বলেন, তুহরপন্থীরা দলিল নিয়েছেন ইবন উমর (রাঃ)-এর ঘটনা থেকে, যিনি স্ত্রীকে মাসিক অবস্থায় তালাক দিয়েছিলেন। বুখারী (৫২৫১) বর্ণনা করেন, রাসূলুল্লাহ ﷺ উমর (রাঃ)-কে বললেন: তাকে বলো স্ত্রীকে ফিরিয়ে নিতে এবং রেখে দিতে, যতক্ষণ না সে পবিত্র হয়, তারপর মাসিক হয়, তারপর আবার পবিত্র হয়। এরপর চাইলে রাখবে, চাইলে স্পর্শ করার আগে তালাক দেবে। এটাই সেই ইদ্দত, যার হিসাবে নারীদের তালাক দিতে আল্লাহ আদেশ করেছেন। অপর পক্ষে ইকরিমা, তাবারীর বর্ণনায়, লক্ষ করেন যে ৬৫:১ আয়াতে বলা হয়েছে তাদের ইদ্দতের জন্য, তাদের কুরূর জন্য নয়।"
+          },
+          {
+            "en": "The difference decides when the waiting ends. For those who read purities, al-Baghawi explains, it is over once she begins the third menstruation; for those who read menstruations, not until she is clean of it. The commentators lean different ways. At-Tabari, after weighing the language, concludes that the third qur' is the third purity; as-Sa'di calls menstruation the sounder view. Both readings come down from Companions, and each is followed by schools named above.",
+            "bn": "এ মতভেদেই ঠিক হয় ইদ্দত কখন শেষ। বাগাভী খুলে বলেন: যাঁরা তুহর পড়েন, তাঁদের মতে তৃতীয় হায়েয শুরু হলেই ইদ্দত শেষ। যাঁরা হায়েয পড়েন, তাঁদের মতে সে হায়েয থেকে পবিত্র হওয়ার আগে নয়। তাফসীরকারদের ঝোঁকও দুই দিকে। ভাষা বিচার করে তাবারী সিদ্ধান্ত নেন, তৃতীয় কুরূ হলো তৃতীয় তুহর। সা'দী হায়েযের মতকেই অধিক সঠিক বলেন। দুটো পাঠই সাহাবিদের থেকে এসেছে, আর ওপরে যে মাযহাবগুলোর নাম এসেছে, তারা কোনো না কোনোটির অনুসারী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hers Alone to Tell",
+          "bn": "যে খবর কেবল তারই জানা"
+        },
+        "p": [
+          {
+            "en": "Wa la yahillu lahunna an yaktumna ma khalaqa Allahu fi arhamihinna: it is not lawful for them to conceal what Allah has created in their wombs. Al-Qurtubi gives three readings: menstruation, from 'Ikrimah, az-Zuhri and an-Nakha'i; pregnancy, from 'Umar and Ibn 'Abbas; both, from Mujahid. Ibn Kathir reports pregnancy or menstruation from Ibn 'Abbas, Ibn 'Umar, Mujahid and others, as does the Muyassar. At-Tabari judges both to be meant, since the waiting ends with either.",
+            "bn": "ওয়ালা ইয়াহিল্লু লাহুন্না আন ইয়াকতুমনা মা খালাকাল্লাহু ফী আরহামিহিন্না: তাদের গর্ভে আল্লাহ যা সৃষ্টি করেছেন, তা গোপন করা তাদের জন্য বৈধ নয়। কুরতুবী তিনটি ব্যাখ্যা দেন। ইকরিমা, যুহরী ও নাখঈর মতে হায়েয। উমর ও ইবন আব্বাস (রাঃ)-এর মতে গর্ভ। মুজাহিদের মতে দুটোই। ইবন কাসীর ইবন আব্বাস, ইবন উমর (রাঃ), মুজাহিদ ও আরও অনেকের সূত্রে বলেন, গর্ভ কিংবা হায়েয। মুয়াসসারও তা-ই বলে। তাবারীর বিচারে দুটোই উদ্দেশ্য, কারণ ইদ্দত শেষ হয় দুটোর যেকোনোটি দিয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi names the logic beneath the rule. The waiting turns on menstruation and purity, which no one sees but the woman, so her word is taken on whether it has ended, and women are made trustees over it. He quotes Sulayman ibn Yasar: we were not commanded to examine women; it was entrusted to them, since they are trusted. As-Sa'di and Ibn Kathir agree that her report on what only she can know is accepted. The verse builds a law on her honesty.",
+            "bn": "বিধানের পেছনের যুক্তিটা কুরতুবী খুলে বলেন। ইদ্দত নির্ভর করে হায়েয আর তুহরের উপর, আর তা নারী ছাড়া কেউ দেখতে পায় না। তাই ইদ্দত শেষ হয়েছে কি হয়নি, এ বিষয়ে তার কথাই গ্রহণ করা হয়, আর নারীদের এর আমানতদার বানানো হয়েছে। তিনি সুলায়মান ইবন ইয়াসারের কথা উদ্ধৃত করেন: নারীদের পরীক্ষা করে দেখার আদেশ আমাদের দেওয়া হয়নি। বিষয়টা তাদের উপরই ছেড়ে দেওয়া হয়েছে, কারণ তারা আমানতদার। সা'দী ও ইবন কাসীরও একমত: যা কেবল নারী নিজে জানতে পারে, সে বিষয়ে তার বক্তব্য গ্রহণযোগ্য। আয়াতটি একটা বিধান দাঁড় করায় তার সততার উপর।"
+          },
+          {
+            "en": "Then the condition: in kunna yu'minna billahi wal-yawmi al-akhir, if they believe in Allah and the Last Day. Al-Qurtubi, al-Baghawi and at-Tabari agree it does not permit concealment to anyone who does not believe. Al-Qurtubi compares it to saying, if you are my brother, do not wrong me. The harm cuts both ways, as al-Qurtubi and as-Sa'di show: a false claim that the waiting has ended cuts off the husband's right of return; a false denial draws maintenance he does not owe.",
+            "bn": "তারপর শর্ত: ইন কুন্না ইউমিন্না বিল্লাহি ওয়াল ইয়াওমিল আখির, যদি তারা আল্লাহ ও আখিরাতে ঈমান রাখে। কুরতুবী, বাগাভী ও তাবারী একমত, এর অর্থ এই নয় যে যার ঈমান নেই, তার জন্য গোপন করা বৈধ। কুরতুবী এর তুলনা দেন এ কথার সঙ্গে: তুমি যদি আমার ভাই হও, আমার উপর অন্যায় কোরো না। কুরতুবী ও সা'দী দেখান, ক্ষতিটা দুই দিকেই। ইদ্দত শেষ হয়েছে বলে মিথ্যা দাবি করলে স্বামীর ফিরিয়ে নেওয়ার হক কেটে যায়। আর শেষ হয়নি বলে মিথ্যা বললে এমন খরচ আদায় হয়, যা তার উপর ওয়াজিব নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taking Back, Only to Mend",
+          "bn": "ফিরিয়ে নেওয়া, শুধু জোড়া লাগাতে"
+        },
+        "p": [
+          {
+            "en": "Wa-bu'ulatuhunna ahaqqu bi-raddihinna fi dhalik: and their husbands have more right to take them back in that, meaning, for Mujahid, Ibrahim and Qatadah in at-Tabari, during the waiting. Al-Qurtubi notes that ahaqq is used where two rights meet and one outweighs the other: during the waiting his right to return outweighs her right over herself; after it, the decision is hers. Ibn Kathir limits this to a revocable divorce, adding that when the verse came down there was not yet any final one.",
+            "bn": "ওয়া বুউলাতুহুন্না আহাক্কু বিরাদ্দিহিন্না ফী যালিক: আর এ সময়ের মধ্যে তাদের ফিরিয়ে নেওয়ার অধিক হকদার তাদের স্বামীরা। তাবারীর বর্ণনায় মুজাহিদ, ইবরাহীম ও কাতাদার মতে এ সময় মানে ইদ্দতের ভেতরে। কুরতুবী বলেন, আহাক্ক শব্দটা আসে যেখানে দুটি হক মুখোমুখি হয় আর একটি অপরটির চেয়ে ভারী। ইদ্দতের সময়ে স্বামীর ফেরানোর হক নারীর নিজের উপর নিজের হকের চেয়ে ভারী। ইদ্দত শেষ হলে সিদ্ধান্ত তার। ইবন কাসীর একে সীমিত রাখেন রজঈ তালাকে, মানে যে তালাকের পর ফেরানো যায়। তিনি যোগ করেন, আয়াত নাযিলের সময় চূড়ান্ত তালাক বলে কিছু তখনো ছিল না।"
+          },
+          {
+            "en": "Then the condition placed on the man: in aradu islahan, if they want reconciliation. Al-Baghawi recalls what it answered. Before Islam a man would divorce his wife, take her back as her waiting neared its end, then divorce her again, only to stretch the waiting out. Qatadah, in at-Tabari, describes a wrong from the other side: women hid a pregnancy to give the child to another man. The verse closes both doors in one place.",
+            "bn": "এরপর পুরুষের উপর শর্ত: ইন আরাদূ ইসলাহা, যদি তারা সংশোধন চায়। বাগাভী মনে করিয়ে দেন, এ শর্ত কিসের জবাব। ইসলামের আগে কেউ স্ত্রীকে তালাক দিত, ইদ্দত শেষ হওয়ার মুখে ফিরিয়ে নিত, তারপর আবার তালাক দিত। উদ্দেশ্য একটাই, তার অপেক্ষাকে টেনে লম্বা করা। তাবারীর বর্ণনায় কাতাদা অন্য দিকের এক অন্যায়ের কথা বলেন: নারীরা গর্ভ লুকিয়ে রাখত, যাতে সন্তানকে অন্য পুরুষের বলে চালানো যায়। এক জায়গাতেই আয়াত দুই দিকের দরজা বন্ধ করে দেয়।"
+          },
+          {
+            "en": "What if he returns only to harm her? At-Tabari answers in two parts: before Allah it is not permitted, yet in court the return holds, and if he then harms her, she is given the rights Allah fixed for wives. Al-Qurtubi calls such a return forbidden, citing 2:231, do not keep them to harm them. As-Sa'di reports the majority view that it holds though sinful, then gives his own: by the plain verse, a man who does not want reconciliation has no such right.",
+            "bn": "যদি সে শুধু ক্ষতি করার জন্যই ফিরিয়ে নেয়? তাবারী দুই ভাগে উত্তর দেন। আল্লাহর কাছে এটা তার জন্য বৈধ নয়। তবে বিচারের রায়ে ফিরিয়ে নেওয়াটা কার্যকর থাকে। এরপর সে ক্ষতি করলে স্ত্রীদের জন্য আল্লাহ যে হক নির্ধারণ করেছেন, তা তাকে আদায় করে দেওয়া হবে। কুরতুবী এমন ফিরিয়ে নেওয়াকে হারাম বলেন, দলিল ২:২৩১: ক্ষতি করার উদ্দেশ্যে তাদের আটকে রেখো না। সা'দী জমহুরের মত জানান যে ফেরানো কার্যকর, যদিও গুনাহ। তারপর নিজের মত দেন: আয়াতের বাহ্য অর্থ অনুযায়ী যে সংশোধন চায় না, তার এ হকই নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Owed to Her, As From Her",
+          "bn": "তার কাছে যেমন পাওনা, তারও তেমন"
+        },
+        "p": [
+          {
+            "en": "Wa-lahunna mithlu alladhi 'alayhinna bil-ma'ruf: and due to them is the like of what is due from them, according to what is fair. Ibn Kathir reads it plainly: women have rights over men like men's rights over them, so let each give the other what is owed. Ma'arif al-Qur'an observes that women's rights are named first here, and takes it as a hint that men should take the first step. The sentence is short and carries the whole of married life.",
+            "bn": "ওয়া লাহুন্না মিসলুল্লাযী আলাইহিন্না বিল মারূফ: তাদের উপর যেমন হক আছে, ন্যায়সংগতভাবে তাদেরও তেমন হক আছে। ইবন কাসীর সোজা অর্থ করেন: নারীর উপর পুরুষের যেমন হক, পুরুষের উপর নারীরও তেমন হক। কাজেই প্রত্যেকে অন্যের পাওনা আদায় করুক। মাআরিফুল কুরআন লক্ষ করে, এখানে নারীর হকের কথা এসেছে আগে। তার মতে এতে ইঙ্গিত আছে যে প্রথম পদক্ষেপ পুরুষের নেওয়ার কথা। বাক্যটি ছোট, কিন্তু গোটা দাম্পত্য জীবন এর ভেতরে ধরা।"
+          },
+          {
+            "en": "The commentators fill it with daily things. Ibn 'Abbas said, in a report at-Tabari, Ibn Kathir and al-Baghawi all carry: I love to adorn myself for my wife just as I love her to adorn herself for me, because Allah says, and due to them is the like of what is due from them. Ad-Dahhak named, in return for her obedience, good company, withholding harm and spending from his means; Ibn Zayd, fearing Allah regarding wives as they must regarding husbands. As-Sa'di ties maintenance, clothing, housing and companionship to ma'ruf, the custom of each place and time.",
+            "bn": "তাফসীরকারেরা বাক্যটি ভরে দেন রোজকার জীবনের জিনিস দিয়ে। তাবারী, ইবন কাসীর ও বাগাভী তিনজনই ইবন আব্বাস (রাঃ)-এর কথা এনেছেন: আমি স্ত্রীর জন্য সাজতে ভালোবাসি, যেমন ভালোবাসি সে আমার জন্য সাজুক। কারণ আল্লাহ বলেছেন, তাদের উপর যেমন হক আছে, তাদেরও তেমন হক আছে। দাহহাক বলেছেন, স্ত্রী আনুগত্য করলে স্বামীর কর্তব্য সুন্দর সাহচর্য, কষ্ট না দেওয়া আর সাধ্যমতো খরচ। ইবন যায়দ বলেছেন, স্ত্রীরা যেমন স্বামীর ব্যাপারে আল্লাহকে ভয় করবে, স্বামীরাও তেমনি স্ত্রীর ব্যাপারে। সা'দী খোরপোষ, পোশাক, বাসস্থান ও সাহচর্য সবকিছুকে যুক্ত করেন মারূফের সঙ্গে, মানে প্রতিটি দেশ ও কালের প্রচলিত রীতি।"
+          },
+          {
+            "en": "Al-Baghawi also cites a narration that is general rather than about this verse. At-Tirmidhi records (1162) from Abu Hurayrah that the Messenger of Allah ﷺ said: The most complete of the believers in faith is whoever is best of them in character, and the best of you are those best in character to their women. At-Tirmidhi grades it hasan sahih. Read beside the verse, it moves the measure of a man's faith into his own home.",
+            "bn": "বাগাভী আরেকটি বর্ণনা আনেন, যা এ আয়াত নিয়ে নয়, সাধারণ কথা। তিরমিযী (১১৬২) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: ঈমানে সবচেয়ে পূর্ণ মুমিন সে, যার চরিত্র সবচেয়ে সুন্দর। আর তোমাদের মধ্যে সেরা তারা, যারা নিজেদের স্ত্রীদের প্রতি চরিত্রে সেরা। তিরমিযী একে হাসান সহীহ বলেছেন। আয়াতের পাশে রেখে পড়লে হাদীসটি পুরুষের ঈমানের মাপকাঠি এনে বসায় তার নিজের ঘরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Degree, Read Many Ways",
+          "bn": "এক দারাজা, বহু ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Wa-lir-rijali 'alayhinna darajah: and men have a degree over them. At-Tabari lists the early readings. Mujahid: men's added share in jihad and inheritance. Qatadah: a degree of merit. Zayd ibn Aslam: authority; Ibn Zayd: obedience. Ash-Sha'bi: the dowry he gave her. Al-Baghawi adds that some said it is the right of divorce, which lies with men, or the right of return. The Muyassar joins several: good companionship, responsibility for the household and possession of divorce. As-Sa'di and Ibn Kathir read it with 4:34.",
+            "bn": "ওয়া লির রিজালি আলাইহিন্না দারাজা: আর তাদের উপর পুরুষদের এক দারাজা, মানে এক স্তর। তাবারী পূর্বসূরিদের ব্যাখ্যাগুলোর তালিকা দেন। মুজাহিদের মতে জিহাদ ও মীরাসে পুরুষের বাড়তি অংশ। কাতাদার মতে মর্যাদার এক স্তর। যায়দ ইবন আসলামের মতে নেতৃত্ব, ইবন যায়দের মতে আনুগত্য। শা'বীর মতে স্বামী স্ত্রীকে যে মোহর দিয়েছে, সেটা। বাগাভী যোগ করেন, কেউ কেউ বলেছেন এটা তালাকের অধিকার, যা পুরুষের হাতে, কিংবা ফিরিয়ে নেওয়ার অধিকার। মুয়াসসার কয়েকটি একসঙ্গে আনে: সুন্দর সাহচর্য, সংসারের দায়িত্ব ও তালাকের মালিকানা। সা'দী ও ইবন কাসীর এটি পড়েন ৪:৩৪-এর সঙ্গে।"
+          },
+          {
+            "en": "Then at-Tabari states his preference, which is Ibn 'Abbas's saying: I do not like to exact every right of mine from her, because Allah says, and men have a degree over them. The degree, at-Tabari explains, is the man's overlooking part of what is due to him while giving her all that is due to her; the sentence, though a statement in form, urges men toward generosity. Al-Qurtubi relays the same from Ibn 'Abbas, with Ibn 'Atiyyah's verdict: a fine and excellent saying.",
+            "bn": "এরপর তাবারী নিজের পছন্দ জানান, আর সেটা ইবন আব্বাস (রাঃ)-এর কথা: আমি তার কাছে আমার সব পাওনা পুরোপুরি আদায় করে নিতে পছন্দ করি না, কারণ আল্লাহ বলেছেন, তাদের উপর পুরুষদের এক স্তর আছে। তাবারী বুঝিয়ে বলেন, এ স্তর হলো নিজের কিছু পাওনা ছেড়ে দেওয়া আর স্ত্রীর পুরো পাওনা আদায় করা। বাক্যটির গঠন সংবাদের মতো হলেও এতে পুরুষদের উদারতার দিকে ডাকা হচ্ছে। কুরতুবীও ইবন আব্বাস (রাঃ) থেকে একই কথা আনেন, সঙ্গে ইবন আতিয়্যার মন্তব্য: চমৎকার ও উৎকৃষ্ট কথা।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sets a limit from the other side. The degree concerns ordering worldly life; it does not make every man above every woman, since standing before Allah rests on faith and deeds, and some women will rise above many men. It cites 16:97: whoever does righteousness, male or female, while a believer, We will surely give a good life. It also notes that each spouse's rights are the other's duties, and asks each to attend first to what they owe.",
+            "bn": "মাআরিফুল কুরআন অন্য দিক থেকে একটি সীমা টানে। এ স্তর দুনিয়ার কাজকর্ম পরিচালনার বিষয়। এর অর্থ এই নয় যে প্রত্যেক পুরুষ প্রত্যেক নারীর ঊর্ধ্বে, কারণ আল্লাহর কাছে মর্যাদা নির্ভর করে ঈমান ও আমলের উপর। কিছু নারী বহু পুরুষকে ছাড়িয়ে যাবেন। সেখানে ১৬:৯৭ উদ্ধৃত হয়েছে: পুরুষ হোক বা নারী, যে ঈমান নিয়ে সৎকাজ করে, আমি তাকে অবশ্যই পবিত্র জীবন দান করব। একই তাফসীর বলে, এক পক্ষের হক অপর পক্ষের দায়িত্ব। তাই প্রত্যেকের আগে দেখা উচিত, নিজের দেনা কী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Half Often Dropped",
+          "bn": "যে অর্ধেক প্রায়ই বাদ পড়ে"
+        },
+        "p": [
+          {
+            "en": "Wallahu 'azizun hakim: and Allah is Mighty and Wise. At-Tabari reads the close as a warning to all the passage addressed: Allah is mighty in requiting the husband who takes his wife back to harm her, the wife who hides what is in her womb, and every breach of His limits, and wise in what He has arranged. The verse ends by turning both spouses toward Him who sees what neither can prove against the other.",
+            "bn": "ওয়াল্লাহু আযীযুন হাকীম: আর আল্লাহ পরাক্রমশালী, প্রজ্ঞাময়। তাবারী এ সমাপ্তিকে পড়েন গোটা অংশে যাদের সম্বোধন করা হয়েছে, তাদের সবার প্রতি সতর্কবাণী হিসেবে। যে স্বামী ক্ষতি করার জন্য স্ত্রীকে ফিরিয়ে নেয়, যে স্ত্রী গর্ভের খবর লুকায়, আর যে কেউ তাঁর সীমা লঙ্ঘন করে, সবার থেকে প্রতিশোধ নিতে আল্লাহ পরাক্রমশালী। আর তিনি যা বিন্যস্ত করেছেন, তাতে তিনি প্রজ্ঞাময়। আয়াত শেষ হয় দুজনকেই তাঁর দিকে ফিরিয়ে, যিনি তা-ও দেখেন যা কেউ কারও বিরুদ্ধে প্রমাণ করতে পারে না।"
+          },
+          {
+            "en": "This needs saying plainly. The degree in this verse licenses nothing against any woman: no harm, no contempt, no withholding of what is hers. It sits in the same sentence as her rights, and the reading at-Tabari prefers makes it a call to give more and demand less. Nor does the verse license suspicion of women's honesty; it builds a ruling on her word. Whoever cites the degree to diminish a wife has kept half a sentence and dropped the half about what he owes.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এ আয়াতের দারাজা কোনো নারীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। কষ্ট দেওয়ার নয়, অবজ্ঞার নয়, তার পাওনা আটকে রাখার নয়। দারাজার কথা এসেছে তার হকের কথার একই বাক্যে। আর তাবারী যে ব্যাখ্যা বেছে নিয়েছেন, তাতে এটা বেশি দেওয়া আর কম চাওয়ার আহ্বান। নারীর সততাকে সন্দেহ করার অনুমতিও আয়াত দেয় না। বরং তার কথার উপরই একটা বিধান দাঁড় করায়। কেউ যদি স্ত্রীকে ছোট করতে দারাজার কথা টেনে আনে, তবে সে বাক্যের অর্ধেক রেখেছে, আর যে অর্ধেক তার নিজের দেনার কথা বলে, সেটা ফেলে দিয়েছে।"
+          }
+        ]
+      }
+    ]
+  },
   "2:229": {
     "sections": [
       {
