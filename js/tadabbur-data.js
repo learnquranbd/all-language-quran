@@ -32463,6 +32463,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Intention decides what a building is. Audit the hidden purposes of your own good works, and leave other people's hearts to the One who alone can testify about them.",
     "lessonBn": "কোনো ঘর আসলে কী, তা ঠিক করে নিয়ত। নিজের ভালো কাজগুলোর গোপন উদ্দেশ্য নিজে যাচাই করুন, আর অন্যের অন্তরের বিচার ছেড়ে দিন তাঁর হাতে, যিনি একাই সে বিষয়ে সাক্ষ্য দিতে পারেন।"
+  },
+  "10:59": {
+    "reflectionEn": "Every grain, every animal and every cloth on my back reached me as provision from Allah. The verse pictures people standing over that provision and sorting it: this part forbidden, that part allowed. Then it asks the one question that decides everything. Has Allah given you permission, or are you inventing something about Him? No third answer is offered. To call a thing lawful or unlawful is to say what Allah wants, and nobody may say that on the strength of taste, habit or fear. The verse is not against caution, or against asking those who know. It is against speaking in His name without His word. Before I call anything forbidden or allowed, can I say where I got it from?",
+    "reflectionBn": "শস্যের প্রতিটি দানা, প্রতিটি পশু, গায়ের প্রতিটি কাপড় আমার কাছে এসেছে আল্লাহর দেওয়া রিযক হয়ে। আয়াতটি এমন কিছু মানুষের ছবি আঁকে, যারা সেই রিযক সামনে রেখে ভাগ করছে: এটুকু হারাম, ওটুকু হালাল। তারপর আসে একটিমাত্র প্রশ্ন, যার জবাবেই সব ঠিক হয়ে যায়। আল্লাহ কি তোমাদের অনুমতি দিয়েছেন, নাকি তোমরা তাঁর নামে কথা বানাচ্ছ? তৃতীয় কোনো জবাবের সুযোগ রাখা হয়নি। কোনো কিছুকে হালাল বা হারাম বলা মানে আল্লাহ কী চান সে কথা বলা। রুচি, অভ্যাস বা ভয়ের জোরে সে কথা বলার অধিকার কারও নেই। আয়াতটি সাবধানতার বিরুদ্ধে নয়, জানা মানুষের কাছে জিজ্ঞেস করারও বিরুদ্ধে নয়। আয়াতটি তাঁর বাণী ছাড়া তাঁর নামে কথা বলার বিরুদ্ধে। কোনো কিছুকে হারাম বা হালাল বলার আগে আমি কি বলতে পারি, কথাটা কোথা থেকে পেলাম?",
+    "pointsEn": [
+      "When did I last call something haram or halal, and could I have named my evidence if someone had asked?",
+      "Do I treat a family custom, or my own dislike of a thing, as if it were Allah's ruling?",
+      "Have I ever made the religion narrower for someone than Allah made it, and called that piety?",
+      "When I am unsure of a ruling, do I ask someone who knows, or settle it with a guess?",
+      "Which of the good things I was given today did I take without a thought of thanks?"
+    ],
+    "pointsBn": [
+      "শেষবার কবে আমি কোনো কিছুকে হারাম বা হালাল বলেছি? কেউ জিজ্ঞেস করলে কি দলিলটা দেখাতে পারতাম?",
+      "পরিবারের কোনো রেওয়াজ, কিংবা কোনো জিনিসের প্রতি নিজের অপছন্দকে কি আমি আল্লাহর বিধানের মতো করে দেখি?",
+      "আল্লাহ যতটা সহজ রেখেছেন, কারও জন্য দ্বীনকে কি আমি তার চেয়ে সংকীর্ণ করেছি, আর সেটাকেই তাকওয়া বলে চালিয়েছি?",
+      "কোনো বিধান নিয়ে নিশ্চিত না হলে আমি কি জানা কারও কাছে জিজ্ঞেস করি, নাকি অনুমানেই মীমাংসা করে ফেলি?",
+      "আজ যত নিয়ামত পেয়েছি, তার কোনটা আমি একবারও শুকরিয়ার কথা না ভেবে নিয়ে নিয়েছি?"
+    ],
+    "lessonEn": "Lawful and unlawful are Allah's to decide. Before you forbid or permit anything in His name, ask whether He gave you leave, or whether you are speaking for Him.",
+    "lessonBn": "হালাল আর হারাম ঠিক করার অধিকার আল্লাহর। তাঁর নামে কিছু নিষেধ বা অনুমোদন করার আগে নিজেকে জিজ্ঞেস করুন, তিনি কি অনুমতি দিয়েছেন, নাকি আপনি তাঁর হয়ে কথা বলছেন?"
   }
 };
 

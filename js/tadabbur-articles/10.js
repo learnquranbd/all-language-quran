@@ -2923,6 +2923,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:59": {
+    "sections": [
+      {
+        "h": {
+          "en": "Straight After the Call to Rejoice",
+          "bn": "আনন্দের ডাকের ঠিক পরে"
+        },
+        "p": [
+          {
+            "en": "The preceding verse tells the Prophet ﷺ to say: in the bounty of Allah and in His mercy, in that let them rejoice; it is better than what they gather (10:58). The passage then turns from the gift of guidance to the plainest gift of all, food and the means of life, and asks what people have done with it. Qul a-ra'aytum: say, have you considered. Al-Qurtubi and al-Baghawi name the ones addressed as the disbelievers of Makkah; at-Tabari calls them these idolaters, and al-Muyassar those who rejected the revelation.",
+            "bn": "আগের আয়াতে নবী ﷺ-কে বলতে বলা হয়েছে: আল্লাহর অনুগ্রহ আর তাঁর রহমতে, এতেই তারা আনন্দিত হোক, তারা যা জমায় তার চেয়ে এ অনেক ভালো (১০:৫৮)। এরপর কথা হিদায়াতের দান থেকে সরে আসে সবচেয়ে চোখে-পড়া দানের দিকে: খাবার আর বেঁচে থাকার উপকরণ। প্রশ্ন ওঠে, মানুষ এগুলো নিয়ে কী করেছে। কুল আরাআইতুম: বলো, তোমরা কি ভেবে দেখেছ? কুরতুবী ও বাগাভীর মতে এখানে সম্বোধন মক্কার কাফিরদের প্রতি। তাবারী বলেন, এই মুশরিকদের প্রতি। মুয়াসসারের ভাষায়, যারা ওহি অস্বীকার করেছে তাদের প্রতি।"
+          },
+          {
+            "en": "Ibn Kathir lists five early authorities, Ibn 'Abbas, Mujahid, ad-Dahhak, Qatadah and 'Abd ar-Rahman ibn Zayd ibn Aslam, who said the verse came down as a censure of the idolaters for what they used to forbid and permit, the bahirah, the sa'ibah and the like. As-Sa'di frames it the same way: Allah speaks here in rebuke of the idolaters who invented the forbidding of what He made lawful and the permitting of what He made unlawful. The fault runs in both directions, and the verse names the forbidding first.",
+            "bn": "ইবন কাসীর পূর্বসূরিদের পাঁচজনের নাম দেন: ইবন আব্বাস, মুজাহিদ, দাহহাক, কাতাদা আর আবদুর রহমান ইবন যায়দ ইবন আসলাম। তাঁদের কথা, আয়াতটি নাযিল হয়েছে মুশরিকদের তিরস্কার করে, তারা যা হারাম আর হালাল বানাত সে কারণে, যেমন বাহীরা, সাইবা ও এ ধরনের পশু। সা'দীও একইভাবে শুরু করেন। তাঁর ভাষায়, আল্লাহ এখানে সেই মুশরিকদের ভর্ৎসনা করছেন, যারা তাঁর হালাল করা জিনিস হারাম করার আর তাঁর হারাম করা জিনিস হালাল করার রীতি নিজেরা বানিয়েছিল। দোষটা তাই দুই দিকেই। তবে আয়াতে আগে এসেছে হারাম বানানোর কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sent Down, Said of Food",
+          "bn": "খাবারের বেলায় নাযিল"
+        },
+        "p": [
+          {
+            "en": "Ma anzala Allahu lakum min rizq: what Allah has sent down for you of provision. Food grows from the ground, so why sent down? Al-Qurtubi and al-Baghawi both answer that anzala here carries the sense of khalaqa, created, and that the Qur'an may speak of creating as sending down because whatever provision is on the earth comes by what descends from the sky as rain. Al-Baghawi spells the provision out as crops and udders, zar' and dar'. Al-Qurtubi supports the usage with two verses: He sent down for you eight pairs of cattle (39:6), and We sent down iron (57:25).",
+            "bn": "মা আনযালাল্লাহু লাকুম মিন রিযক: আল্লাহ তোমাদের জন্য যে রিযক নাযিল করেছেন। খাবার তো জন্মায় মাটিতে, তাহলে নাযিল কেন? কুরতুবী আর বাগাভী দুজনেরই জবাব, এখানে আনযালা মানে খালাকা, অর্থাৎ সৃষ্টি করেছেন। সৃষ্টিকে নাযিল বলা যায়, কারণ পৃথিবীতে যত রিযক আছে সবই আসে আকাশ থেকে নামা বৃষ্টির ওপর ভর করে। বাগাভী রিযকের নাম দেন যার' আর দার', অর্থাৎ ফসল আর পশুর ওলান। কুরতুবী এ ব্যবহারের পক্ষে দুটি আয়াত আনেন: তিনি তোমাদের জন্য চতুষ্পদ পশুর আটটি জোড়া নাযিল করেছেন (৩৯:৬), আর আমি লোহা নাযিল করেছি (৫৭:২৫)।"
+          },
+          {
+            "en": "At-Tabari reads the phrase as what Allah created for you and then bestowed on you, khawwalakumuhu, and names it as the foods you are nourished by. As-Sa'di narrows it to the kinds of lawful animals that Allah made a provision for them and a mercy towards them. Al-Muyassar widens it to the animals, the plants and the good things Allah created for them. Between them the word covers the field and the flock, and, as a later section shows, some of the earliest readers stretched it to clothing and the household too.",
+            "bn": "তাবারী বাক্যাংশটির ব্যাখ্যা দেন এভাবে: আল্লাহ তোমাদের জন্য যা সৃষ্টি করেছেন, তারপর তোমাদের হাতে তুলে দিয়েছেন। তাঁর শব্দ খাওয়ালাকুমূহু। তিনি স্পষ্ট করেন, এ হলো সেই খাবার যা খেয়ে তোমরা বাঁচো। সা'দী পরিধি ছোট করে বলেন, এ হলো হালাল পশুর নানা প্রজাতি, যা আল্লাহ তাদের রিযক বানিয়েছেন, তাদের প্রতি রহমত হিসেবে। মুয়াসসার পরিধি বাড়িয়ে দেয়: আল্লাহর সৃষ্টি করা পশু, উদ্ভিদ আর যত ভালো জিনিস। সব মিলিয়ে শব্দটি মাঠের ফসল আর পালের পশু দুটোই ধরে। আর সামনে দেখা যাবে, প্রথম যুগের কেউ কেউ এর মধ্যে পোশাক আর ঘর-সংসারও টেনে এনেছেন।"
+          },
+          {
+            "en": "One short word carries the argument: lakum, for you. The provision was made for them before they made any rule about it. A gift handed over without conditions cannot be fenced off by the one who received it and then reported as the giver's own wish. The commentators hear the verse as rebuke rather than inquiry. The early authorities Ibn Kathir lists call it inkar, censure, and as-Sa'di says the closing question is put muwabbikhan, in reproach. Nobody asking it expects to learn something new from the answer.",
+            "bn": "যুক্তির ভার বহন করছে একটি ছোট শব্দ: লাকুম, তোমাদের জন্য। তারা কোনো নিয়ম বানানোর আগেই রিযক তাদের জন্য তৈরি হয়ে ছিল। যে উপহার শর্ত ছাড়াই হাতে দেওয়া হয়েছে, গ্রহীতা তাতে বেড়া দিয়ে সেটাকে দাতার ইচ্ছা বলে চালাতে পারে না। তাফসীরকারেরা আয়াতটিকে জিজ্ঞাসা হিসেবে নয়, ভর্ৎসনা হিসেবে পড়েন। ইবন কাসীর যে পূর্বসূরিদের কথা আনেন, তাঁদের শব্দ ইনকার, অর্থাৎ নিন্দা। সা'দী বলেন, শেষের প্রশ্নটি করা হয়েছে মুওয়াব্বিখান, তিরস্কারের সুরে। এ প্রশ্ন যে করছে, উত্তর থেকে নতুন কিছু জানার আশায় সে করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "You Made What He Did Not",
+          "bn": "তিনি বানাননি, তোমরা বানিয়েছ"
+        },
+        "p": [
+          {
+            "en": "Fa-ja'altum minhu haraman wa halalan: and you made some of it unlawful and some lawful. The verb is ja'ala, to make or appoint, and Surat al-Ma'idah uses the same verb, in the negative, about the very animals the commentators name here: Allah has not appointed any bahirah or sa'ibah or wasilah or ham, but those who disbelieve invent falsehood about Allah (5:103). Read side by side, the two verses answer each other. He did not make them; you made them. Both also close on the same root, f-r-y, the inventing of a lie.",
+            "bn": "ফাজাআলতুম মিনহু হারামান ওয়া হালালা: আর তোমরা তার কিছুকে হারাম আর কিছুকে হালাল বানিয়েছ। ক্রিয়াটি জাআলা, অর্থ বানানো বা নির্ধারণ করা। সূরা মায়িদা ঠিক এই ক্রিয়াটিই না-বাচক রূপে এনেছে সেই পশুগুলোর বেলায়, তাফসীরকারেরা এখানে যাদের নাম নেন: আল্লাহ বাহীরা, সাইবা, ওয়াসীলা বা হাম কিছুই নির্ধারণ করেননি, বরং কাফিররাই আল্লাহর নামে মিথ্যা রচনা করে (৫:১০৩)। দুটি আয়াত পাশাপাশি পড়লে একটি অন্যটির জবাব হয়ে দাঁড়ায়। তিনি বানাননি, তোমরা বানিয়েছ। দুটিই আবার শেষ হয় একই ধাতুতে, ফ-র-ই, যার অর্থ মিথ্যা বানানো।"
+          },
+          {
+            "en": "Al-Bukhari records an entry that explains the names of 5:103 and is not about this verse. In it Sa'id ibn al-Musayyib gives his own account of the names: the bahirah was the she-camel whose milk was withheld for the idols, so that nobody milked her, and the sa'ibah was the one they set loose for their gods, with nothing carried on her back. Within the same entry (4623) Abu Hurayrah reports that the Messenger of Allah ﷺ said: I saw 'Amr ibn 'Amir al-Khuza'i dragging his entrails in the Fire; he was the first to set loose the sa'ibah camels.",
+            "bn": "বুখারী একটি বর্ণনা এনেছেন, যা ৫:১০৩ আয়াতের নামগুলোর ব্যাখ্যা দেয়, এ আয়াত নিয়ে নয়। সেখানে সাঈদ ইবনুল মুসাইয়িব নিজের ভাষায় নামগুলোর অর্থ বলেন। বাহীরা সেই উটনী, যার দুধ মূর্তিদের জন্য আটকে রাখা হতো, কেউ তাকে দোহাতে পারত না। সাইবা সেই উটনী, যাকে তারা তাদের দেবতাদের নামে ছেড়ে দিত, তার পিঠে কোনো বোঝা চাপানো হতো না। একই বর্ণনায় (৪৬২৩) আবু হুরায়রা (রাঃ) জানান, রাসূলুল্লাহ ﷺ বলেছেন: আমি আমর ইবন আমির খুযাঈকে দেখেছি, সে জাহান্নামে নিজের নাড়িভুঁড়ি টেনে বেড়াচ্ছে। সে-ই প্রথম সাইবা উট ছেড়ে দেওয়ার প্রথা চালু করেছিল।"
+          },
+          {
+            "en": "None of the tafsirs read for this verse attaches a sound hadith to 10:59 itself. Ibn Kathir relays one from the Musnad of Imam Ahmad, a report from Malik ibn Nadlah touching this same practice of marking camels as forbidden. Ibn Kathir praises its chain, but it reaches this article only through his relay and is not confirmed here in a collection, so it is mentioned and not quoted. As for 'Amr, the narration speaks of one man of the distant past who began a practice. It licenses nothing against any living person or community.",
+            "bn": "এ আয়াতের জন্য পড়া কোনো তাফসীরই ১০:৫৯ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। ইবন কাসীর ইমাম আহমাদের মুসনাদ থেকে একটি বর্ণনা আনেন। মালিক ইবন নাদলার এ বর্ণনা উটকে হারাম বলে চিহ্নিত করার এই প্রথাটি নিয়েই। ইবন কাসীর এর সনদের প্রশংসা করেন। তবে বর্ণনাটি এখানে পৌঁছেছে শুধু তাঁর উদ্ধৃতির মাধ্যমে, কোনো হাদীস-সংকলনে মিলিয়ে দেখা হয়নি। তাই এর উল্লেখ করা হলো, উদ্ধৃতি দেওয়া হলো না। আর আমরের কথা: বর্ণনাটি বহু আগের এক ব্যক্তির কথা বলে, যে একটি প্রথা চালু করেছিল। এটি আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Crops, Cattle and Clothing",
+          "bn": "ফসল, পশু আর পোশাক"
+        },
+        "p": [
+          {
+            "en": "What exactly did they forbid? At-Tabari answers from the Qur'an's own record: the crops they set apart for their idols, and among the cattle whatever they forbade by declaring it a bahirah or a sa'ibah. Mujahid, by two chains in at-Tabari, says it concerns the bahirah and the sa'ibah; al-Qurtubi gives Mujahid's list as four, adding the wasilah and the ham. Ibn 'Abbas, through 'Ata' al-Khurasani, says simply: crops and cattle. Ad-Dahhak, in at-Tabari, al-Qurtubi and al-Baghawi, identifies the verse with the passage of al-An'am on the share of crops and cattle they assigned to Allah.",
+            "bn": "ঠিক কী কী তারা হারাম করেছিল? তাবারী জবাব দেন কুরআনের নিজের বর্ণনা থেকে: যে ফসল তারা মূর্তিদের জন্য আলাদা করে রাখত, আর পশুর মধ্যে যেগুলোকে বাহীরা বা সাইবা ঘোষণা করে হারাম বানাত। তাবারীতে দুটি সূত্রে মুজাহিদ বলেন, কথাটা বাহীরা আর সাইবা নিয়ে। কুরতুবী মুজাহিদের তালিকায় চারটি নাম দেন, সঙ্গে যোগ করেন ওয়াসীলা আর হাম। আতা খুরাসানীর সূত্রে ইবন আব্বাস (রাঃ) ছোট করে বলেন: ফসল আর পশু। তাবারী, কুরতুবী আর বাগাভীতে দাহহাক আয়াতটিকে মিলিয়ে দেন সূরা আনআমের সেই অংশের সঙ্গে, যেখানে আছে ফসল আর পশু থেকে আল্লাহর জন্য তাদের বানানো ভাগের কথা।"
+          },
+          {
+            "en": "Ibn Zayd, in at-Tabari, recited 6:138 and 6:139 beside this verse: these cattle and crops are forbidden, none may eat of them except whom we will, they claimed; and what is in the bellies of these cattle is for our males alone and forbidden to our wives. His own summary is short: He made provision for them, and they made of it unlawful and lawful. The very next verse of that passage uses both of this verse's key words, rizq and iftira': they forbade what Allah had provided them, inventing a lie against Allah (6:140).",
+            "bn": "তাবারীতে ইবন যায়দ এ আয়াতের পাশে পড়েন ৬:১৩৮ ও ৬:১৩৯: তাদের দাবি, এসব পশু আর ফসল নিষিদ্ধ, আমরা যাকে চাই সে ছাড়া কেউ তা খেতে পারবে না; আর এসব পশুর পেটে যা আছে তা কেবল আমাদের পুরুষদের জন্য, আমাদের স্ত্রীদের জন্য হারাম। তাঁর নিজের সারকথা ছোট: তিনি তাদের রিযক দিলেন, আর তারা তা থেকে হারাম-হালাল বানাল। এর পরের আয়াতেই এ আয়াতের মূল দুটি শব্দ একসঙ্গে আসে, রিযক আর ইফতিরা: আল্লাহ তাদের যে রিযক দিয়েছিলেন, তারা আল্লাহর নামে মিথ্যা বানিয়ে তা হারাম করেছিল (৬:১৪০)।"
+          },
+          {
+            "en": "Two early readings widen the field. Ibn 'Abbas, through 'Ali ibn Abi Talhah, says the people of the Jahiliyyah used to forbid things Allah had made lawful, of clothing and other things. Qatadah, in at-Tabari, puts the verse in Allah's own voice: every provision I did not forbid, you forbade yourselves, among your women, your wealth and your children; did Allah give you leave in what you forbade, or do you invent against Allah? On these two readings the verse reaches any ruling made without warrant, wherever in life it falls.",
+            "bn": "প্রথম যুগের দুটি ব্যাখ্যা পরিধি আরও বাড়িয়ে দেয়। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেন, জাহিলিয়াতের লোকেরা আল্লাহর হালাল করা অনেক কিছু হারাম করত, পোশাক থেকে শুরু করে আরও নানা জিনিস। তাবারীতে কাতাদা আয়াতটিকে বলেন আল্লাহর নিজের জবানিতে: যে রিযক আমি হারাম করিনি, তোমরা নিজেরাই তা নিজেদের ওপর হারাম করেছ, তোমাদের স্ত্রী, তোমাদের সম্পদ আর তোমাদের সন্তানদের ব্যাপারে। তোমরা যা হারাম করেছ, আল্লাহ কি তার অনুমতি দিয়েছেন, নাকি তোমরা আল্লাহর নামে বানিয়ে বলছ? এ দুই ব্যাখ্যায় আয়াতটি জীবনের যেকোনো ক্ষেত্রে দলিল ছাড়া দেওয়া যেকোনো বিধানকেই ধরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leave Given, or Invented",
+          "bn": "অনুমতি, নাকি বানানো কথা"
+        },
+        "p": [
+          {
+            "en": "Qul a-Allahu adhina lakum am 'ala Allahi taftarun: say, has Allah given you leave, or do you invent against Allah? Al-Qurtubi and al-Baghawi read am here as bal, rather, so the second half is less a second option than the real answer. Both explain the invention as their own claim that Allah had commanded it. At-Tabari glosses taftarun as you say what is false and you lie, and al-Muyassar closes its paraphrase with the verdict stated outright: they do say falsehood about Allah, and they lie.",
+            "bn": "কুল আল্লাহু আযিনা লাকুম আম আলাল্লাহি তাফতারূন: বলো, আল্লাহ কি তোমাদের অনুমতি দিয়েছেন, নাকি তোমরা আল্লাহর নামে মিথ্যা বানাচ্ছ? কুরতুবী আর বাগাভী এখানে আম শব্দটিকে পড়েন বাল অর্থে, মানে বরং। ফলে দ্বিতীয় অংশটি আসলে দ্বিতীয় বিকল্প নয়, আসল জবাব। দুজনেই বলেন, মিথ্যা বানানোটা হলো তাদের এই দাবি যে আল্লাহই তাদের এমন করতে আদেশ দিয়েছেন। তাবারী তাফতারূনের অর্থ করেন: তোমরা বাতিল কথা বলছ আর মিথ্যা বলছ। মুয়াসসার তার ব্যাখ্যা শেষ করে রায়টি সোজাসুজি জানিয়ে: তারা আল্লাহর নামে বাতিল কথা বলে, আর তারা মিথ্যাবাদী।"
+          },
+          {
+            "en": "As-Sa'di sets out the logic in one line: it is known that Allah gave them no leave, and so it is known that they are inventors. The question leaves no middle ground. A ruling offered as religion either rests on permission from Allah or is spoken in His name without it. There is no third shelf for rulings that belong to nobody in particular. That is why the very next verse can name the same people, without further argument, as those who invent falsehood about Allah (10:60).",
+            "bn": "সা'দী যুক্তিটা একটি বাক্যেই সাজিয়ে দেন: জানা কথা, আল্লাহ তাদের অনুমতি দেননি, অতএব জানা গেল তারা মিথ্যা রচনাকারী। প্রশ্নটি মাঝামাঝি কোনো জায়গা রাখে না। দ্বীনের নামে যে বিধান দেওয়া হয়, হয় তার পেছনে আল্লাহর অনুমতি আছে, নয়তো অনুমতি ছাড়াই তা তাঁর নামে বলা হচ্ছে। এমন কোনো তৃতীয় তাক নেই, যেখানে কারও দায় ছাড়া বিধান রেখে দেওয়া যায়। এ কারণেই পরের আয়াত আর কোনো যুক্তি না টেনে সরাসরি এদেরকে বলতে পারে, যারা আল্লাহর নামে মিথ্যা রচনা করে (১০:৬০)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Does This Verse Forbid Qiyas?",
+          "bn": "আয়াতটি কি কিয়াস নিষেধ করে?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi raises a second question on the verse. Some who reject analogy, qiyas, as a source of rulings cited this verse against it. Al-Qurtubi calls that inference far-fetched. Analogy, he says, is itself an evidence from Allah, so when a ruling is reached through an indication that Allah set up for it, the permitting and the forbidding are still from Allah. Whoever disputes that analogy is such an evidence, he adds, has left the subject of this verse for a different argument altogether.",
+            "bn": "কুরতুবী আয়াতটি নিয়ে দ্বিতীয় একটি প্রশ্ন তোলেন। বিধানের উৎস হিসেবে কিয়াস বা উপমান মানেন না এমন কেউ কেউ এ আয়াতকে কিয়াসের বিরুদ্ধে দলিল বানিয়েছিলেন। কুরতুবী এ সিদ্ধান্তকে দূরবর্তী বলেন। তাঁর কথা, কিয়াস নিজেই আল্লাহর একটি দলিল। তাই আল্লাহর রেখে দেওয়া কোনো নির্দেশক ধরে যখন বিধানে পৌঁছানো হয়, তখন হালাল করা আর হারাম করা আল্লাহর পক্ষ থেকেই হয়। তিনি যোগ করেন, কিয়াস যে এমন দলিল, কেউ যদি সেটাই না মানে, তবে সে এ আয়াতের আলোচনা ছেড়ে সম্পূর্ণ আলাদা এক বিতর্কে চলে গেল।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an states the principle for a modern reader: the verse warns those who bring personal opinion into the serious matter of halal and haram, without authority from the Qur'an and Sunnah, since that decision is the right of Allah and His Messenger. Ibn Kathir, in the abridged English, says Allah censured those who make lawful what He made unlawful, or the reverse, because their rulings rested on mere desires and false opinions, without evidence or proof. The line runs between evidence and preference, not between scholars and everyone else.",
+            "bn": "মাআরিফুল কুরআন নীতিটি আজকের পাঠকের ভাষায় বলে: হালাল-হারামের মতো গুরুতর বিষয়ে যারা কুরআন ও সুন্নাহর সমর্থন ছাড়া নিজের মত ঢোকায়, আয়াতটি তাদের সতর্ক করছে, কারণ এ সিদ্ধান্ত আল্লাহ ও তাঁর রাসূলের অধিকার। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে আছে, আল্লাহর হারাম করা জিনিস যারা হালাল করে, কিংবা উল্টোটা করে, আল্লাহ তাদের নিন্দা করেছেন। কারণ তাদের বিধান দাঁড়িয়ে ছিল কেবল প্রবৃত্তি আর ভুল ধারণার ওপর, কোনো দলিল-প্রমাণ ছাড়া। তাই সীমারেখা আলেম আর সাধারণ মানুষের মাঝে নয়, দলিল আর নিজের পছন্দের মাঝে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What They Expect That Day",
+          "bn": "সেদিন নিয়ে তাদের ধারণা"
+        },
+        "p": [
+          {
+            "en": "The next verse carries the charge forward: and what will those who invent falsehood about Allah suppose, on the Day of Resurrection? (10:60). Its verb is the last word of this verse again, so the two read as an accusation and its sentence. Ma'arif al-Qur'an, reading them together, calls it a severe warning of no less a punishment than that of the Day of Qiyamah. Ibn Kathir paraphrases the question: what do they think will happen to them when they return to Us?",
+            "bn": "পরের আয়াত অভিযোগটিকে সামনে নিয়ে যায়: যারা আল্লাহর নামে মিথ্যা রচনা করে, কিয়ামাতের দিন সম্পর্কে তাদের কী ধারণা (১০:৬০)? সেখানকার ক্রিয়াটি এ আয়াতের শেষ শব্দেরই পুনরাবৃত্তি। ফলে দুটি আয়াত পড়া যায় অভিযোগ আর তার রায় হিসেবে। মাআরিফুল কুরআন দুটিকে একসঙ্গে পড়ে বলে, এখানে কঠোর সতর্কবাণী এসেছে, যার শাস্তি কিয়ামাত দিবসের শাস্তির চেয়ে কম নয়। ইবন কাসীর প্রশ্নটিকে নিজের ভাষায় বলেন: আমার কাছে ফিরে এলে তাদের কী হবে বলে তারা মনে করে?"
+          },
+          {
+            "en": "The verse then says that Allah is full of bounty towards people, but most of them do not give thanks. Ibn Kathir cites at-Tabari as taking the bounty to be the delay of their punishment in this world, then offers his own reading: it may be the good things Allah made lawful, since He forbade only what harms them here and hereafter. So, he says, they forbade what Allah had bestowed and made life narrow for themselves, as the idolaters did when they legislated for themselves, and as the People of the Book did with innovations in their religion.",
+            "bn": "এরপর আয়াতটি বলে, আল্লাহ মানুষের প্রতি বড়ই অনুগ্রহশীল, কিন্তু তাদের অধিকাংশ শোকর করে না। ইবন কাসীর জানান, তাবারীর মতে এ অনুগ্রহ হলো দুনিয়াতে তাদের শাস্তি পিছিয়ে দেওয়া। তারপর তিনি নিজের ব্যাখ্যা দেন: অনুগ্রহ হতে পারে সেই ভালো জিনিসগুলো, যা আল্লাহ হালাল করেছেন। কারণ দুনিয়া ও আখিরাতে যা ক্ষতিকর, তিনি শুধু সেটুকুই হারাম করেছেন। তাঁর কথায়, তবু তারা আল্লাহর দেওয়া জিনিস হারাম করে নিজেদের জীবন সংকীর্ণ করেছে। মুশরিকরা এমন করেছিল নিজেদের জন্য আইন বানিয়ে, আর আহলে কিতাব করেছিল নিজেদের দ্বীনে নতুন নতুন বিদআত ঢুকিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before I Call It Haram",
+          "bn": "হারাম বলার আগে"
+        },
+        "p": [
+          {
+            "en": "The verse speaks of what one people did with its provision. It licenses nothing against any living person or community, and this article gives no ruling on any present-day food or practice. When a question of halal and haram is real, the verse points to the evidence and to those who know it. What it hands the reader is one question to carry: has Allah given leave? It cuts both ways. Forbidding wears the look of piety and permitting the look of ease, and either can speak for Allah without His word.",
+            "bn": "আয়াতটি এক জনগোষ্ঠী তাদের রিযক নিয়ে কী করেছিল তার বর্ণনা দেয়। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। এ লেখাও বর্তমান কালের কোনো খাবার বা আচরণ নিয়ে কোনো ফতোয়া দিচ্ছে না। হালাল-হারামের কোনো প্রশ্ন সত্যিই সামনে এলে আয়াতটি পথ দেখায় দলিলের দিকে, আর যারা দলিল জানেন তাদের দিকে। পাঠকের হাতে এটি তুলে দেয় একটিমাত্র প্রশ্ন: আল্লাহ কি অনুমতি দিয়েছেন? প্রশ্নটি দুই দিকেই কাটে। হারাম বলায় থাকে তাকওয়ার চেহারা, হালাল বলায় থাকে সহজের চেহারা। দুটোই তাঁর বাণী ছাড়া তাঁর নামে কথা বলা হয়ে যেতে পারে।"
+          },
+          {
+            "en": "The smaller forms sit closer to home: a dish called forbidden because one's family never ate it, a custom defended as religion because it is old, a convenience excused because everyone does it. Each is a sentence about what Allah wants. The verse began with a gift, lakum, for you, and the next ends on thanks withheld. A supplication in its vocabulary, offered as that and not as a narrated du'a, could run: O Allah, You sent down provision for us; let us take it as You gave it, and keep our tongues from saying about You what You have not said.",
+            "bn": "এর ছোট রূপগুলো আমাদের আরও কাছে। পরিবারে কেউ খায়নি বলে কোনো খাবারকে হারাম বলা, পুরনো বলে কোনো রেওয়াজকে দ্বীন বলে আঁকড়ে থাকা, সবাই করে বলে কোনো সুবিধাকে জায়েজ ধরে নেওয়া। প্রতিটিই আল্লাহ কী চান সে বিষয়ে একটি ঘোষণা। আয়াতটি শুরু হয়েছিল এক উপহার দিয়ে, লাকুম, তোমাদের জন্য। আর পরের আয়াত শেষ হয় না-শোকরির অভিযোগে। আয়াতের শব্দ দিয়ে একটি দোয়া হতে পারে এমন, বর্ণিত দোয়া হিসেবে নয়, নিজের দোয়া হিসেবে: হে আল্লাহ, আপনি আমাদের জন্য রিযক নাযিল করেছেন। আপনি যেভাবে দিয়েছেন, সেভাবেই তা গ্রহণ করার তাওফীক দিন। আর আপনি যা বলেননি, আপনার নামে তা বলা থেকে আমাদের জিহ্বাকে হেফাজত করুন।"
+          }
+        ]
+      }
+    ]
+  },
   "10:62-64": {
     "sections": [
       {
