@@ -31423,6 +31423,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Take Allah's power to punish seriously enough to seek refuge from it, and guard most against the punishment that grows from within: faction, desire and turning on one another.",
     "lessonBn": "আল্লাহর শাস্তি দেওয়ার ক্ষমতাকে এতটা গুরুত্ব দিন যে তা থেকে আশ্রয় চান, আর সবচেয়ে বেশি সাবধান থাকুন ভেতর থেকে জন্মানো শাস্তি থেকে: দলাদলি, খেয়ালখুশি আর একে অন্যের উপর চড়াও হওয়া।"
+  },
+  "7:34": {
+    "reflectionEn": "Eleven words in Arabic, and they close a long argument. The verses before this one name what Allah forbade and rebuke people who forbade what He allowed and spoke about Him without knowledge. Then, without raising its voice, the Qur'an says: every nation has a term, and when it comes they will not stay behind an hour, nor go ahead of it. No date is given. A people that keeps prospering while it denies has not been cleared; it has been given time, and the time has an edge it cannot see. The same holds for one life. The term is fixed, but what fills the hours before it is still mine to choose. Am I reading my delay as a pardon, or as time to get ready?",
+    "reflectionBn": "আরবিতে মাত্র এগারোটি শব্দ, অথচ এগুলোই একটা দীর্ঘ তর্কের ইতি টানে। আগের আয়াতগুলো জানিয়েছে আল্লাহ কী হারাম করেছেন। যারা তাঁর হালাল করা জিনিসকে হারাম বানিয়েছে আর না জেনে তাঁর নামে কথা বলেছে, তাদের ধমকও দিয়েছে। তারপর কোনো উঁচু গলা ছাড়াই কুরআন বলে: প্রত্যেক জাতির একটা মেয়াদ আছে। সেটা এসে গেলে তারা এক ঘড়িও পিছিয়ে থাকবে না, এগিয়েও যাবে না। কোনো তারিখ বলা হয়নি। অস্বীকার করেও যে জাতি দিব্যি ফুলেফেঁপে উঠছে, তাকে ছাড় দেওয়া হয়নি, সময় দেওয়া হয়েছে। আর সেই সময়ের একটা কিনারা আছে, যা সে দেখতে পায় না। একজন মানুষের জীবনেও একই কথা। মেয়াদ বাঁধা, কিন্তু তার আগের ঘণ্টাগুলো কী দিয়ে ভরব, সে বাছাই এখনো আমার হাতে। আমি কি আমার অবকাশকে মাফ বলে ধরে নিচ্ছি, নাকি প্রস্তুত হওয়ার সময় হিসেবে কাজে লাগাচ্ছি?",
+    "pointsEn": [
+      "What am I putting off on the quiet assumption that there will be time for it later?",
+      "When I see people doing wrong and doing well, do I read their comfort as approval, or as a respite that has an end?",
+      "If my term came this week, which debt, apology or prayer would it find unfinished?",
+      "Do I ever say \"it was written\" to excuse what my own hands chose, when the term fixes the time and not my choices?",
+      "How would I spend the next hour if I truly believed it could not be pushed back by a single one?"
+    ],
+    "pointsBn": [
+      "পরে সময় পাওয়া যাবে, মনে মনে এমন ধরে নিয়ে আমি কোন কাজটা ফেলে রাখছি?",
+      "কাউকে অন্যায় করেও ভালো থাকতে দেখলে আমি কি তার আরামকে আল্লাহর সন্তুষ্টি ভাবি, নাকি বুঝি এ এক অবকাশ, যার শেষ আছে?",
+      "এ সপ্তাহেই যদি আমার মেয়াদ এসে যায়, কোন ঋণ, কোন ক্ষমা চাওয়া বা কোন নামাজ অসমাপ্ত পড়ে থাকবে?",
+      "নিজের হাতে বেছে নেওয়া কাজের দায় এড়াতে আমি কি কখনো বলি \"কপালে লেখা ছিল\"? অথচ মেয়াদ বাঁধা সময়ের, আমার বাছাইয়ের নয়।",
+      "যদি সত্যিই বিশ্বাস করতাম যে পরের ঘণ্টাটা এক ঘড়িও পেছানো যাবে না, তাহলে সেটা কীভাবে কাটাতাম?"
+    ],
+    "lessonEn": "Every nation's term and every person's is fixed to the hour, so treat a delay as respite, not approval, and finish what matters before the time that cannot move.",
+    "lessonBn": "প্রত্যেক জাতির আর প্রত্যেক মানুষের মেয়াদ ঘড়ি ধরে বাঁধা। তাই দেরিকে সম্মতি নয়, অবকাশ ভাবুন, আর যে সময় নড়বে না তা আসার আগেই জরুরি কাজগুলো সেরে নিন।"
   }
 };
 

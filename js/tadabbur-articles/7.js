@@ -1435,6 +1435,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:34": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Forbidden Things",
+          "bn": "হারামের তালিকার পরে"
+        },
+        "p": [
+          {
+            "en": "Wa li-kulli ummatin ajal: and for every nation is a term. The verse is eleven words in Arabic, and it arrives straight after a list. 7:32 asks who forbade the adornment Allah brought out for His servants and the good things of provision, and 7:33 names what He did forbid, ending with saying about Allah what you do not know. Ma'arif al-Qur'an reads those two verses as charging the deniers with two crimes, treating the lawful as unlawful and the unlawful as lawful, and says this third verse describes where that ends.",
+            "bn": "ওয়া লিকুল্লি উম্মাতিন আজাল: আর প্রত্যেক জাতির জন্য রয়েছে একটি মেয়াদ। আরবিতে আয়াতটি মাত্র ১১ শব্দের, আর এটি আসে একটা তালিকার ঠিক পরে। ৭:৩২ প্রশ্ন তোলে, আল্লাহ তাঁর বান্দাদের জন্য যে সাজসজ্জা আর পবিত্র রিজিক বের করেছেন, তা হারাম করল কে? ৭:৩৩ জানিয়ে দেয় তিনি আসলে কী হারাম করেছেন, আর তালিকার শেষে রাখে না জেনে আল্লাহর নামে কথা বলা। মাআরিফুল কুরআনের পাঠে ওই দুই আয়াত অস্বীকারকারীদের দুটি অপরাধ ধরিয়ে দেয়: হালালকে হারাম বানানো, আর হারামকে হালাল। তৃতীয় এই আয়াত বলে, সে পথ শেষে কোথায় গিয়ে থামে।"
+          },
+          {
+            "en": "At-Tabari aims it further back. He reads the verse as a threat to the idolaters who, when they committed an indecency, said they had found their fathers doing it and that Allah had ordered it (7:28): a warning for their lie against Him and their persistence in shirk, and a reminder of what befell nations like them before. As-Sa'di frames it more widely still. Allah brought the children of Adam out to the earth, he writes, settled them in it and set for them a named term. That reaches back to 7:24, where the descent from the Garden ends in a dwelling and enjoyment for a time.",
+            "bn": "তাবারী আয়াতটিকে আরও পেছনের দিকে জুড়ে দেন। তাঁর পাঠে এটি সেই মুশরিকদের প্রতি হুমকি, যারা অশ্লীল কাজ করে বলত, বাপ-দাদাদের এমনই করতে দেখেছি, আর আল্লাহই আমাদের এর হুকুম দিয়েছেন (৭:২৮)। আল্লাহর নামে মিথ্যা বলা আর শিরকে অটল থাকার জন্য এ এক সতর্কবাণী। সঙ্গে স্মরণ করিয়ে দেওয়া, তাদের মতো আগের জাতিগুলোর কী দশা হয়েছিল। সা'দী ছবিটা আরও বড় করে আঁকেন। আল্লাহ আদম সন্তানদের পৃথিবীতে নামিয়ে এনেছেন, সেখানে বসতি দিয়েছেন, আর তাদের জন্য একটা নির্দিষ্ট মেয়াদ ঠিক করে দিয়েছেন। কথাটা আমাদের ৭:২৪-এ ফিরিয়ে নেয়, যেখানে জান্নাত থেকে নামার পর বলা হয়েছিল: পৃথিবীতে তোমাদের জন্য আছে ঠিকানা আর এক সময় পর্যন্ত ভোগের উপকরণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Debt That Falls Due",
+          "bn": "যে দেনার দিন ঘনিয়ে আসে"
+        },
+        "p": [
+          {
+            "en": "Two nouns carry the verse. Ummah, nation: Ibn Kathir glosses it as qarn and jil, a generation and its people. At-Tabari is more pointed. For him it is every company that gathered together on denying Allah's messengers and rejecting their counsel, and on associating partners with Allah, while their Lord kept bringing His proofs to them. Al-Muyassar keeps the same line: every company gathered on disbelief in Allah and the denial of His messengers. So the word can name a people in time or a people in a stance, and the commentators do not all mean the same one.",
+            "bn": "আয়াতের ভার দুটি বিশেষ্যের উপর। প্রথমটি উম্মাহ, জাতি। ইবন কাসীর এর ব্যাখ্যা দেন কারন ও জীল দিয়ে, মানে একটা প্রজন্ম আর সেই প্রজন্মের মানুষ। তাবারী আরও নির্দিষ্ট। তাঁর কাছে উম্মাহ হলো এমন প্রতিটি দল, যারা আল্লাহর রসূলদের মিথ্যা বলায়, তাঁদের উপদেশ ফিরিয়ে দেওয়ায় আর আল্লাহর সঙ্গে শরিক করায় একজোট হয়েছিল, অথচ তাদের রব একের পর এক প্রমাণ তাদের সামনে হাজির করছিলেন। মুয়াসসারও একই পথে চলে: আল্লাহকে অস্বীকার আর তাঁর রসূলদের মিথ্যা বলায় একজোট প্রতিটি দল। ফলে শব্দটা সময়ের হিসাবে একটা জাতিকে বোঝাতে পারে, আবার অবস্থানের হিসাবেও। সব মুফাসসির একই অর্থ ধরেননি।"
+          },
+          {
+            "en": "Ajal, term: al-Qurtubi calls it waqtun mu'aqqat, a time that has been timed, and their term, when it comes, is the time known with Allah. He then widens it. The term of death is the time of death, just as the term of a debt is the moment it falls due, and anything for which a time is set has that time as its term. He also records that Ibn Sirin read the phrase with a plural, ja'a ajaluhum, their terms have come, and passes on without comment.",
+            "bn": "দ্বিতীয়টি আজাল, মেয়াদ। কুরতুবী একে বলেন ওয়াকতুন মুআক্কাত, অর্থাৎ যে সময়ের দিনক্ষণ আগেই ঠিক করা। আর তাদের আজাল এসে যাওয়া মানে আল্লাহর কাছে জানা সেই সময় এসে পড়া। তারপর তিনি কথাটা আরও ছড়িয়ে দেন। মৃত্যুর আজাল হলো মৃত্যুর সময়, ঠিক যেমন দেনার আজাল হলো তা পরিশোধের দিন। যে কোনো জিনিসের জন্য একটা সময় বেঁধে দেওয়া হলে সেই সময়টাই তার আজাল। তিনি এটাও উল্লেখ করেন যে ইবন সীরীন শব্দটি বহুবচনে পড়েছেন: জাআ আজালুহুম, তাদের মেয়াদগুলো এসে গেল। এ নিয়ে তিনি আর কোনো মন্তব্য করেননি।"
+          },
+          {
+            "en": "Al-Baghawi gives the homeliest gloss of all. A term, he says, is a duration, and eating and drinking; and when their term comes, their eating is cut off. The span is measured in meals as much as in years. It is a small detail, but it pulls the word out of the abstract. Every plate a person finishes is one fewer on a count that is already settled, and the count was never shown to him.",
+            "bn": "সবচেয়ে ঘরোয়া ব্যাখ্যাটা দেন বাগাভী। তাঁর ভাষায় আজাল মানে একটা মেয়াদ, আর খাওয়া-দাওয়া। মেয়াদ এসে গেলে তাদের খাওয়া বন্ধ হয়ে যায়। হিসাবটা তাহলে শুধু বছরে নয়, প্রতিটি লোকমাতেও। ছোট্ট একটা কথা, কিন্তু শব্দটাকে তত্ত্বের জগৎ থেকে টেনে এনে খাবারের থালায় বসিয়ে দেয়। একজন মানুষ যতবার খাওয়া শেষ করে, ততবার আগেই ঠিক হয়ে থাকা একটা গোনা থেকে একটা কমে যায়। আর সেই গোনাটা তাকে কখনো দেখানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Nation's Term, or Each Life",
+          "bn": "জাতির মেয়াদ, নাকি প্রতিটি জীবনের"
+        },
+        "p": [
+          {
+            "en": "Whose term is meant? Here the commentators part ways. At-Tabari makes it collective and penal: a time for punishments to descend in their courtyards and exemplary chastisements to fall on them for their shirk, and when it comes, the time Allah fixed for their destruction. Al-Muyassar says the same, a time for the punishment to alight on them. Al-Baghawi relays from Ibn Abbas, Ata and al-Hasan that it means a time for the punishment to come down on them. Read this way, the verse sits well beside the stories of destroyed peoples that the surah goes on to tell from 7:59.",
+            "bn": "কার মেয়াদের কথা বলা হচ্ছে? এখানে এসে মুফাসসিরদের পথ আলাদা হয়। তাবারী একে দেখেন সমষ্টিগত আর শাস্তির মেয়াদ হিসেবে। শিরকের কারণে তাদের আঙিনায় শাস্তি নেমে আসার, দৃষ্টান্তমূলক আজাব আপতিত হওয়ার একটা সময়। সেটা এলে আসে আল্লাহর ঠিক করা তাদের ধ্বংসের ক্ষণ। মুয়াসসারও তা-ই বলে: তাদের উপর শাস্তি নামার একটা সময়। বাগাভী ইবন আব্বাস (রাঃ), আতা আর হাসানের সূত্রে উল্লেখ করেন, এর অর্থ তাদের উপর আজাব নামার সময়। এভাবে পড়লে আয়াতটি সূরার সামনের কাহিনিগুলোর সঙ্গে বেশ মিলে যায়। ৭:৫৯ থেকে সূরাটি একে একে ধ্বংস হয়ে যাওয়া জাতিগুলোর কথা বলে।"
+          },
+          {
+            "en": "Ibn Kathir's gloss is wider and carries no mention of punishment: each generation has its appointed time, the one measured out for it. As-Sa'di closes the gap on purpose. No nation goes ahead of its named time or falls behind it, he writes, neither the nations gathered together nor their individuals. Al-Qurtubi goes straight to the single person, drawing from the verse a ruling about one who is killed. Ma'arif al-Qur'an keeps both ends of the punishment open: sometimes it descends here in this world, and if not, it waits to receive them soon after death.",
+            "bn": "ইবন কাসীরের ব্যাখ্যা আরও বিস্তৃত, তাতে শাস্তির কোনো উল্লেখ নেই: প্রতিটি প্রজন্মের জন্য একটা নির্ধারিত সময় আছে, যা তার জন্য মেপে রাখা। সা'দী ইচ্ছে করেই দুই দিক মিলিয়ে দেন। তিনি লেখেন, কোনো জাতি তার নির্ধারিত সময়ের আগে যায় না, পিছিয়েও থাকে না, একজোট জাতিগুলোও না, তাদের এক একজন মানুষও না। কুরতুবী সরাসরি একক মানুষের দিকে চলে যান। এই আয়াত থেকে তিনি নিহত ব্যক্তি সম্পর্কে একটি সিদ্ধান্ত বের করেন। মাআরিফুল কুরআন শাস্তির দুটি পথই খোলা রাখে। কখনো তা এই দুনিয়াতেই নেমে আসে। আর এখানে না এলে মৃত্যুর পর অল্প দিনের মধ্যেই তা তাদের জন্য অপেক্ষা করে থাকে।"
+          },
+          {
+            "en": "The difference is kept here as a difference. For at-Tabari, al-Muyassar and the early authorities al-Baghawi names, the term is a community's appointment with punishment. Ibn Kathir speaks of generations and their measured time. As-Sa'di extends it explicitly to every member, and al-Qurtubi applies it to one man's death. The verse's own words, a nation and their term, sit comfortably under each of them, and none of the commentators consulted argues against the others.",
+            "bn": "মতভেদটা এখানে মতভেদ হিসেবেই রাখা হলো। তাবারী, মুয়াসসার আর বাগাভীর উল্লেখ করা পূর্বসূরিদের কাছে মেয়াদ মানে একটা জনগোষ্ঠীর শাস্তির নির্ধারিত দিন। ইবন কাসীর বলেন প্রজন্ম আর তার মাপা সময়ের কথা। সা'দী স্পষ্ট ভাষায় একে প্রত্যেক সদস্য পর্যন্ত টেনে নেন, আর কুরতুবী একে খাটান একজন মানুষের মৃত্যুর উপর। আয়াতের নিজের শব্দ, একটা জাতি আর তাদের মেয়াদ, এদের প্রত্যেকের পাঠকেই সহজে জায়গা দেয়। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই অন্যটির বিরুদ্ধে যুক্তি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not an Hour, Nor Less",
+          "bn": "এক ঘড়িও নয়, তার কমও নয়"
+        },
+        "p": [
+          {
+            "en": "La yasta'khiruna sa'atan: they will not remain behind an hour. Al-Qurtubi reads it as not an hour, nor less than an hour; the hour was singled out, he says, because it is the least of the names for times. Al-Muyassar renders it lahzah, not even a glance of time. At-Tabari spells out what the delay would have been: they are not held back by staying on in the world, nor allowed the enjoyment of life in it past the time of their destruction, by a single hour of the hours of time.",
+            "bn": "লা ইয়াসতা'খিরূনা সা'আতান: তারা এক ঘড়িও পিছিয়ে থাকবে না। কুরতুবীর পাঠে এর মানে এক ঘড়িও না, তার চেয়ে কমও না। তিনি বলেন, সা'আহ শব্দটি আলাদা করে আনা হয়েছে, কারণ সময়ের যত নাম আছে তার মধ্যে এটিই সবচেয়ে ছোট। মুয়াসসার একে বলে লাহজাহ, চোখের পলকটুকুও নয়। তাবারী খুলে বলেন, পিছিয়ে থাকা মানে এখানে কী হতো। ধ্বংসের নির্ধারিত সময় পেরিয়ে দুনিয়ায় আরও কিছুক্ষণ টিকে থাকা, এখানকার জীবন আরও খানিক ভোগ করা। সময়ের ঘড়িগুলোর একটি ঘড়িও তাদের তা দেওয়া হবে না।"
+          },
+          {
+            "en": "So sa'ah here is not a clock's sixty minutes. In al-Qurtubi's account it is the smallest unit the language had a name for, used to say that no unit at all is granted. A reader who hears 'not an hour' and pictures an hour has heard less than the verse said. The point is not the size of the margin refused but the fact that there is no margin. When the time comes, the room to bargain that a person might have imagined is not small. It is simply absent.",
+            "bn": "তাহলে এখানে সা'আহ মানে ঘড়ির ষাট মিনিট নয়। কুরতুবীর ব্যাখ্যায় এটা ভাষার সবচেয়ে ছোট নামওয়ালা সময়, যা দিয়ে বোঝানো হচ্ছে যে কোনো এককই আর দেওয়া হবে না। কেউ যদি 'এক ঘণ্টাও না' শুনে চোখের সামনে একটা পুরো ঘণ্টা দেখে, তবে আয়াত যা বলেছে তার চেয়ে কম শুনল। কথাটা এই নয় যে ছাড়টা কত ছোট। কথা হলো, কোনো ছাড়ই নেই। সময় এসে গেলে দরদাম করার যে সুযোগ মানুষ কল্পনা করে, তা ছোট হয়ে যায় না, একেবারে উধাও হয়ে যায়।"
+          },
+          {
+            "en": "Wa la yastaqdimun: nor will they go ahead of it. Why say this, when no one about to be punished asks for it sooner? Ma'arif al-Qur'an answers with an image from the shop: a customer asks the seller for his last price, more or less, and everyone knows the question is about less. The second word rides along with the first. The real objective is that there will be no delay after the term, and naming 'before' beside 'late' brings the phrase closer to ordinary speech. At-Tabari still gives the clause its own gloss: they are not advanced beyond the time Allah set for their destruction either.",
+            "bn": "ওয়া লা ইয়াসতাকদিমূন: আর তারা এগিয়েও যাবে না। যার উপর শাস্তি আসতে চলেছে, সে তো কখনো সেটা আগে চায় না। তাহলে এ কথা বলার দরকার কী? মাআরিফুল কুরআন দোকানের একটা দৃশ্য দিয়ে এর জবাব দেয়। খদ্দের দোকানিকে জিজ্ঞেস করে, শেষ দাম কত, কম-বেশি? সবাই জানে প্রশ্নটা আসলে কমের ব্যাপারে, বেশিটা কথার সঙ্গে জুড়ে আছে মাত্র। এখানেও আসল উদ্দেশ্য এটা বলা যে মেয়াদের পর আর কোনো দেরি হবে না। 'আগে' শব্দটা 'পিছে'র পাশে আনায় কথাটা সাধারণ মানুষের বোঝার আরও কাছাকাছি হয়েছে। তাবারী অবশ্য এই অংশেরও আলাদা ব্যাখ্যা দেন: আল্লাহ তাদের ধ্বংসের জন্য যে সময় ঠিক করেছেন, তার আগেও তাদের এগিয়ে আনা হবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fixed, Yet Within His Power",
+          "bn": "বাঁধা, তবু তাঁর ক্ষমতার ভেতরে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reads the clause as a statement about decree, and he qualifies it with care. A person's term is the time in which Allah knows the living one will die without fail. It is a time from which his death will not be put back, he adds, and not because putting it back lies beyond power. The fixity comes from what Allah knows and decreed, not from any limit on Him. From wa la yastaqdimun he then draws a ruling: the one who is killed is killed at his own term.",
+            "bn": "কুরতুবী এই অংশকে তাকদীরের বক্তব্য হিসেবে পড়েন, আর সাবধানে একটা শর্ত জুড়ে দেন। একজন মানুষের আজাল হলো সেই সময়, যখন সে নিশ্চিতভাবে মারা যাবে বলে আল্লাহ জানেন। তিনি বলেন, সেই সময় থেকে তার মৃত্যু পেছানো হবে না, তবে তা এই কারণে নয় যে পেছানো আল্লাহর ক্ষমতার বাইরে। মেয়াদ বাঁধা থাকে আল্লাহর জ্ঞান আর ফয়সালার কারণে, তাঁর কোনো অক্ষমতার কারণে নয়। এরপর ওয়া লা ইয়াসতাকদিমূন থেকে তিনি একটি সিদ্ধান্ত টানেন: যাকে হত্যা করা হয়, সে তার নিজের মেয়াদেই নিহত হয়।"
+          },
+          {
+            "en": "He reports that a group of theologians held the opposite, that the slain man died short of his term and would have lived had he not been killed, and he calls it an error. The slain did not die because another killed him, he says, but by what Allah did in taking his soul at the blow. Then why execute the killer? For his transgression, al-Qurtubi answers, for disposing of what was never his to dispose of, not for the death itself; leave people to transgress without qisas and the result is corruption and the ruin of Allah's servants. The discussion at 16:61 goes further.",
+            "bn": "তিনি জানান, একদল তাত্ত্বিক এর উল্টো মত দিয়েছিলেন। তাঁদের মতে নিহত ব্যক্তি তার মেয়াদের আগেই মারা গেছে, খুন না হলে সে বেঁচে থাকত। কুরতুবী একে ভুল বলেন। তাঁর ব্যাখ্যায় নিহত মানুষটি অন্যের আঘাতের কারণে মরেনি, মরেছে আঘাতের মুহূর্তে আল্লাহ তার প্রাণ বের করে নেওয়ায়। তাহলে খুনিকে কেন মৃত্যুদণ্ড? কুরতুবীর জবাব, তার সীমালঙ্ঘনের জন্য। যা তার এখতিয়ারে ছিল না, তাতে সে হাত দিয়েছে। মৃত্যুর জন্য নয়। কিসাস ছাড়া মানুষকে সীমালঙ্ঘন করতে ছেড়ে দিলে ফল হবে বিশৃঙ্খলা আর আল্লাহর বান্দাদের সর্বনাশ। ১৬:৬১ আয়াতের আলোচনায় বিষয়টি আরও বিস্তারে এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Long Leash, Already Measured",
+          "bn": "লম্বা রশি, মাপ আগেই ঠিক"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an turns the verse toward people who see no sign of it. Those who commit excesses, it says, and despite their defiance bask in Allah's blessings and seem nowhere close to punishment, should not lose sight of His customary practice. In His mercy He keeps granting sinners a long leash, so that they might somehow stop. But the term of that leash and the time of that respite stand determined in His knowledge, and when it comes, it just comes, neither too late nor too soon.",
+            "bn": "মাআরিফুল কুরআন আয়াতটিকে তাদের দিকে ঘুরিয়ে দেয়, যারা এর কোনো আলামত দেখতে পায় না। যারা সীমালঙ্ঘন করে, অবাধ্যতা সত্ত্বেও আল্লাহর নিয়ামতের রোদে গা এলিয়ে আছে, শাস্তির ধারেকাছেও যাদের দেখা যায় না, তাদের আল্লাহর চিরাচরিত রীতি ভুলে যাওয়া উচিত নয়। নিজের অসীম রহমতে তিনি গুনাহগারদের রশি লম্বা করে দিতে থাকেন, যাতে কোনোভাবে তারা থেমে যায়। কিন্তু সেই রশির দৈর্ঘ্য আর অবকাশের সময় তাঁর জ্ঞানে আগে থেকেই ঠিক করা। সময়টা যখন আসে, ঠিক তখনই আসে, একটুও দেরিতে নয়, আগেও নয়।"
+          },
+          {
+            "en": "The Qur'an states the law more than once. 10:49 carries almost the same clause after the Prophet ﷺ is told to say he owns no harm or benefit for himself; 16:61 closes on it after saying that if Allah seized people for their wrongdoing He would leave no creature on the earth, but defers them to a named term. 63:11 brings it down to one soul, and 63:10 hears that soul ask: my Lord, if only You would delay me a little while, so I could give charity. None of the commentaries consulted attaches a hadith to this verse, so none is quoted here.",
+            "bn": "কুরআন এই নিয়মের কথা একাধিকবার বলেছে। ১০:৪৯ আয়াতে প্রায় হুবহু এই বাক্যটি আসে নবী ﷺ-কে এ কথা বলতে বলার পর যে নিজের ক্ষতি বা উপকারের মালিকও তিনি নন। ১৬:৬১ আয়াতও শেষ হয় এই বাক্যে। তার আগে বলা হয়েছে, আল্লাহ যদি মানুষকে তাদের জুলুমের জন্য পাকড়াও করতেন, তবে পৃথিবীতে কোনো প্রাণী রাখতেন না, কিন্তু তিনি তাদের একটা নির্দিষ্ট মেয়াদ পর্যন্ত সময় দেন। ৬৩:১১ নিয়মটা নামিয়ে আনে একটি প্রাণের স্তরে, আর ৬৩:১০ শোনায় সেই প্রাণের আকুতি: হে আমার রব, আমাকে যদি আর অল্প কিছু সময় দিতেন, তাহলে আমি সদকা করতাম। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এই আয়াতের সঙ্গে কোনো হাদিস যুক্ত করেনি, তাই এখানে কোনো হাদিস উদ্ধৃত করা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Law, Not a Verdict",
+          "bn": "নিয়ম বলে, রায় দেয় না"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes nations that denied their messengers and a term set for them, in at-Tabari's reading a term of punishment. It describes what the text describes, and it licenses nothing against any living person or community. It gives no one the right to name a people today as one whose term has come, or to read a flood, a war or an epidemic that strikes a community as proof of its guilt. Al-Qurtubi places the time with Allah: al-waqt al-ma'lum 'inda Allah, the time known with Him, not with us.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে সেই জাতিগুলোর কথা, যারা তাদের রসূলদের মিথ্যা বলেছিল, আর তাদের জন্য ঠিক করা একটা মেয়াদের কথা। তাবারীর পাঠে সেটা শাস্তির মেয়াদ। আয়াত যা বর্ণনা করে, শুধু সেটুকুই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। আজকের কোনো জাতিকে দেখিয়ে বলার অধিকার কাউকে দেয় না যে এদের মেয়াদ এসে গেছে। কোনো জনপদে বন্যা, যুদ্ধ বা মহামারি নামলে তাকে তাদের অপরাধের প্রমাণ বলে পড়ারও অনুমতি দেয় না। কুরতুবী সময়টাকে রাখেন আল্লাহর কাছে: আল-ওয়াকতুল মা'লূম ইনদাল্লাহ, আল্লাহর কাছে জানা সময়, আমাদের কাছে নয়।"
+          },
+          {
+            "en": "Nor does the verse turn a particular death into a verdict. Al-Qurtubi's ruling cuts both ways: the slain died at his term, and his killer still answers for the killing. The verse says nothing about why a particular life is short or long, and a reader has no warrant to supply the reason. What Ma'arif al-Qur'an calls a long leash remains a leash, not a pardon; but who is on it, and how much of it is left, no reader is ever shown.",
+            "bn": "কোনো একক মৃত্যুকেও আয়াতটি রায়ে পরিণত করে না। কুরতুবীর সিদ্ধান্ত দুই দিকেই কাটে। নিহত ব্যক্তি নিজের মেয়াদেই মারা গেছে, আবার যে তাকে হত্যা করেছে, তাকেও সেই হত্যার জবাব দিতে হবে। কোনো নির্দিষ্ট জীবন কেন ছোট বা লম্বা হলো, সে বিষয়ে আয়াত কিছুই বলে না, আর পাঠকেরও নিজে থেকে কারণ বসিয়ে দেওয়ার কোনো ভিত্তি নেই। মাআরিফুল কুরআন যাকে লম্বা রশি বলে, তা রশিই থাকে, মাফ হয়ে যায় না। কিন্তু সেই রশিতে কে বাঁধা, আর তার কতটুকু বাকি, তা কোনো পাঠককে কখনো দেখানো হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Inside the Hours Still Given",
+          "bn": "যে ঘড়িগুলো এখনো হাতে"
+        },
+        "p": [
+          {
+            "en": "For the reader, the use of the verse is on himself. It gives no date, and the silence is part of the instruction. If the term cannot move by an hour, the plans that assume a later are the ones to examine first: the prayer to be made up next month, the debt to be paid once things ease, the brother to be called when the anger cools. None of these is foolish in itself. Each simply leans on a margin that no one has been shown.",
+            "bn": "পাঠকের জন্য আয়াতটির কাজ নিজের উপর। এটি কোনো তারিখ দেয় না, আর এই নীরবতাও নির্দেশনারই অংশ। মেয়াদ যদি এক ঘড়িও না নড়ে, তবে যে পরিকল্পনাগুলো 'পরে'র উপর ভর দিয়ে আছে, সেগুলোই আগে খতিয়ে দেখার মতো। কাজা নামাজ, যা আগামী মাসে আদায় হবে। দেনা, যা হাত একটু খুললে শোধ হবে। ভাই, যাকে রাগ পড়লে ফোন করা হবে। এর কোনোটাই নিজে নিজে বোকামি নয়। প্রতিটিই শুধু এমন এক বাড়তি সময়ের উপর ভর দিয়ে আছে, যা কাউকে দেখানো হয়নি।"
+          },
+          {
+            "en": "The other use runs outward. When wrong goes on and nothing seems to answer it, the verse closes off two conclusions at once: that Allah approves, and that anyone may hurry what He has timed. The people at-Tabari has in view claimed Allah had ordered their indecency; the reply was not a date but a term. Then comes 7:35, turning to the children of Adam: when messengers come relating His verses, whoever is mindful of Allah and sets things right will have no fear and no grief. That is what the hours still given are for.",
+            "bn": "আরেকটা কাজ বাইরের দিকে। অন্যায় চলতেই থাকে আর তার কোনো জবাব আসছে বলে মনে হয় না, তখন আয়াতটি একসঙ্গে দুটি সিদ্ধান্তের পথ বন্ধ করে দেয়। এক, আল্লাহ এতে রাজি। দুই, তিনি যে সময় ঠিক করেছেন, কেউ তা তাড়াহুড়া করে এগিয়ে আনতে পারে। তাবারী যাদের কথা ভাবছেন, তারা দাবি করেছিল আল্লাহই তাদের অশ্লীলতার হুকুম দিয়েছেন। জবাবে কোনো তারিখ আসেনি, এসেছে একটা মেয়াদের কথা। তারপর ৭:৩৫ আদম সন্তানদের দিকে ফিরে বলে: তোমাদের কাছে রসূলরা এসে আমার আয়াত শোনালে যে তাকওয়া অবলম্বন করবে আর নিজেকে শুধরে নেবে, তার কোনো ভয় নেই, দুঃখও নেই। যে ঘড়িগুলো এখনো হাতে আছে, সেগুলো এরই জন্য।"
+          }
+        ]
+      }
+    ]
+  },
   "7:38": {
     "sections": [
       {
