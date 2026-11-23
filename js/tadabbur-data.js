@@ -33063,6 +33063,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Treat both plenty and want as tests from Allah rather than verdicts on you, and spend this world's brief provision on the journey to the Hereafter.",
     "lessonBn": "প্রাচুর্য আর অভাব, দুটোকেই আপনার সম্পর্কে রায় না ভেবে আল্লাহর পরীক্ষা হিসেবে দেখুন, আর দুনিয়ার অল্প কদিনের সম্বল আখেরাতের সফরে খরচ করুন।"
+  },
+  "13:36": {
+    "reflectionEn": "Two audiences hear the same recitation. One group recognises in it what they already held, and their answer is gladness. The other accepts some of it and refuses the rest, keeping what sits easily and pushing back on what does not. The verse does not send the Prophet ﷺ to argue with the second group, or to chase the approval of the first. It gives him one sentence to say: I was commanded to worship Allah and to associate nothing with Him; to Him I call, and to Him I return. That sentence is also a test I can put to myself. When I read the Qur'an, does it bring me gladness, or do I sort it into the parts I keep and the parts I set aside?",
+    "reflectionBn": "একই তিলাওয়াত শুনছে দুই দল মানুষ। এক দল এতে চিনে নেয় যা আগে থেকেই তাদের কাছে ছিল, আর তাদের সাড়া হলো আনন্দ। অন্য দল কিছুটা মানে, বাকিটা মানে না। যা সহজে মেনে নেওয়া যায় তা রাখে, যা গায়ে লাগে তা ঠেলে সরিয়ে দেয়। আয়াতটি নবী ﷺ-কে দ্বিতীয় দলের সঙ্গে তর্কে নামতে বলে না, প্রথম দলের বাহবার পেছনেও ছুটতে বলে না। তাঁর হাতে তুলে দেয় শুধু একটা কথা: আমাকে আদেশ করা হয়েছে আল্লাহর ইবাদত করতে আর তাঁর সঙ্গে কিছুই শরিক না করতে। তাঁর দিকেই আমি ডাকি, তাঁর কাছেই আমার ফেরা। এই কথা দিয়ে নিজেকেও যাচাই করা যায়। কুরআন পড়ার সময় আমার মনে কি আনন্দ জাগে, নাকি আমি একে ভাগ করে ফেলি, কোন অংশ রাখব আর কোন অংশ সরিয়ে রাখব?",
+    "pointsEn": [
+      "When did a verse of the Qur'an last make me truly glad, and what was it that I recognised in it?",
+      "Is there a part of the Qur'an I quietly set aside because it asks of me something I would rather not give?",
+      "When others reject what I hold, do I reach first for argument, or for a plain statement of whom I worship?",
+      "By the way I live, what am I calling people to: to Allah, or to myself, my group and my side?",
+      "If my return is to Him, what would change in how I spend this coming week?"
+    ],
+    "pointsBn": [
+      "কুরআনের কোনো আয়াত শেষ কবে আমাকে সত্যিই খুশি করেছিল? তাতে আমি কী চিনতে পেরেছিলাম?",
+      "কুরআনের এমন কোনো অংশ কি আছে, যা আমি চুপচাপ পাশে সরিয়ে রাখি, কারণ তা আমার কাছে এমন কিছু চায় যা দিতে মন চায় না?",
+      "আমি যা বিশ্বাস করি, অন্যরা তা প্রত্যাখ্যান করলে আমি আগে তর্ক খুঁজি, নাকি সোজা কথায় জানিয়ে দিই আমি কার ইবাদত করি?",
+      "আমার চলাফেরা দেখে মানুষ কোন দিকে ডাক শোনে: আল্লাহর দিকে, নাকি আমার নিজের, আমার দলের, আমার পক্ষের দিকে?",
+      "আমার ফেরা যদি তাঁরই কাছে হয়, তবে সামনের সপ্তাহটা কাটানোর ধরনে কী বদলাবে?"
+    ],
+    "lessonEn": "Receive the whole Qur'an with gladness instead of keeping only the parts that suit you, and keep your own call simple: worship Allah alone, knowing you return to Him.",
+    "lessonBn": "নিজের সুবিধামতো অংশটুকু বেছে না নিয়ে পুরো কুরআনকে আনন্দের সঙ্গে গ্রহণ করুন, আর নিজের দাওয়াত রাখুন সরল: শুধু আল্লাহর ইবাদত, এই জেনে যে ফিরতে হবে তাঁরই কাছে।"
   }
 };
 

@@ -1787,6 +1787,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "13:36": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Garden and the Fire",
+          "bn": "জান্নাত ও আগুনের কথার পরে"
+        },
+        "p": [
+          {
+            "en": "The previous verse closes on two outcomes: a Garden with rivers flowing beneath it, its fruit and its shade lasting, for those who were mindful of Allah, and the Fire for those who disbelieved (13:35). Verse 36 turns from the end of the road to its start, the moment a revelation is heard. It names two responses to what was sent down to the Prophet ﷺ. Some of those given the Book rejoice at it. Among the factions are some who deny part of it.",
+            "bn": "আগের আয়াত শেষ হয়েছে দুই পরিণামের কথায়। যারা আল্লাহকে ভয় করে চলেছে, তাদের জন্য জান্নাত, যার তলদেশ দিয়ে নদী বয়ে যায়, যার ফল আর ছায়া চিরস্থায়ী। আর কাফিরদের জন্য আগুন (১৩:৩৫)। ৩৬ নম্বর আয়াত পথের শেষ থেকে ফিরে আসে পথের শুরুতে, যখন ওহি প্রথম কানে পৌঁছায়। নবী ﷺ-এর প্রতি যা নাযিল হয়েছে, তার প্রতি দুই রকম সাড়ার কথা এখানে। কিতাবপ্রাপ্তদের কেউ কেউ তাতে আনন্দিত। আর দলগুলোর মধ্যে কেউ কেউ তার কিছু অংশ অস্বীকার করে।"
+          },
+          {
+            "en": "Then the verse gives him words to say, and they rebut neither group. Qul innama umirtu an a'buda Allaha wa la ushrika bih: say, I have only been commanded to worship Allah and not to associate anything with Him. Ilayhi ad'u wa ilayhi ma'ab: to Him I call, and to Him is my return. Neither response alters the message, which is restated as an order received.",
+            "bn": "তারপর আয়াতটি তাঁর মুখে কিছু কথা তুলে দেয়, আর সে কথা কোনো দলের জবাব নয়। কুল ইন্নামা উমিরতু আন আ'বুদাল্লাহা ওয়া লা উশরিকা বিহ: বলুন, আমাকে তো শুধু আদেশ করা হয়েছে আল্লাহর ইবাদত করতে আর তাঁর সঙ্গে কোনো কিছু শরিক না করতে। ইলাইহি আদউ ওয়া ইলাইহি মাআব: তাঁর দিকেই আমি ডাকি, আর তাঁর কাছেই আমার ফেরা। কেউ খুশি হোক বা না মানুক, বার্তা বদলায় না। তা আবার বলা হয় পাওয়া আদেশ হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Glad at What Came Down",
+          "bn": "নাযিল হওয়া বাণীতে যারা খুশি"
+        },
+        "p": [
+          {
+            "en": "The commentators disagree over who is meant by alladhina ataynahumu l-kitab, those to whom We gave the Book. At-Tabari reports from Qatada that they are the Companions of Muhammad ﷺ, who rejoiced in the Book of Allah and in His Messenger and believed in them. Al-Baghawi takes the same line, explaining the Book here as the Qur'an. Al-Qurtubi relays Qatada's view, that they rejoice in the Qur'an's light, from Mujahid and Ibn Zayd as well.",
+            "bn": "আল্লাযীনা আতাইনাহুমুল কিতাব, যাদের আমি কিতাব দিয়েছি: এরা কারা, তা নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। তাবারী কাতাদা থেকে বর্ণনা করেন, এরা মুহাম্মাদ ﷺ-এর সাহাবিরা। তাঁরা আল্লাহর কিতাব আর তাঁর রাসূলকে পেয়ে খুশি হয়েছিলেন, আর দুটিকেই সত্য বলে মেনেছিলেন। বাগাভীও এই পথে যান, তাঁর মতে এখানে কিতাব মানে কুরআন। কুরতুবী কাতাদার মতটি আনেন, তারা খুশি কুরআনের আলো পেয়ে, আর মুজাহিদ ও ইবন যায়দ থেকেও একই কথা আনেন।"
+          },
+          {
+            "en": "Others read the phrase as the believers among the earlier communities of scripture. At-Tabari gives this from Ibn Zayd: these are the People of the Book who believed in the Messenger of Allah ﷺ, and they rejoice at that. Ibn Zayd then recited 10:40, and of them are some who believe in it and some who do not. Al-Qurtubi records a second statement from Mujahid to the same effect, and the Muyassar names two such believers: 'Abd Allah ibn Salam and the Negus.",
+            "bn": "অন্যদের মতে এখানে বোঝানো হয়েছে আগের আসমানি কিতাবের অনুসারীদের মধ্যে যারা ঈমান এনেছিল তাদের। তাবারী এ মত আনেন ইবন যায়দ থেকে: আহলে কিতাবের যারা আল্লাহর রাসূল ﷺ-এর প্রতি ঈমান এনেছে, তারাই এতে খুশি। তারপর ইবন যায়দ পড়েন ১০:৪০: তাদের কেউ এতে ঈমান আনে, কেউ আনে না। কুরতুবী মুজাহিদ থেকেও একই অর্থের আরেকটি বক্তব্য আনেন। আর মুয়াসসার এমন দুজন মুমিনের নাম বলে দেয়: আবদুল্লাহ ইবন সালাম (রাঃ) ও নাজাশী।"
+          },
+          {
+            "en": "Al-Qurtubi's own opening gloss takes this second line and shows how it fits the wording. Only some of those given the Book rejoice in the Qur'an, he says, such as Ibn Salam, Salman and those who came from Abyssinia: the wording is general and the meaning is particular. He also records, with the words it is said, a wider reading, that the whole body of the People of the Book rejoiced at its coming down because it confirmed their books. The sources leave both main answers standing.",
+            "bn": "কুরতুবীর নিজের প্রথম ব্যাখ্যা এই দ্বিতীয় মতের দিকে, আর শব্দের সঙ্গে তা কীভাবে মেলে তাও তিনি দেখান। তাঁর কথায়, কিতাবপ্রাপ্তদের সবাই নয়, কেউ কেউ কুরআনে খুশি হয়, যেমন ইবন সালাম, সালমান আর হাবশা থেকে আসা লোকেরা। শব্দটা ব্যাপক, কিন্তু উদ্দেশ্য নির্দিষ্ট কিছু মানুষ। 'বলা হয়' কথাটি জুড়ে তিনি আরও বড় এক ব্যাখ্যাও রাখেন: ইহুদি ও খ্রিস্টান মিলে গোটা আহলে কিতাবই কুরআন নাযিল হওয়ায় খুশি হয়েছিল, কারণ তা তাদের কিতাবকে সত্যায়ন করে। মূল দুই উত্তরই উৎসগুলোতে পাশাপাশি টিকে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Witnesses Already in Their Books",
+          "bn": "সাক্ষ্য ছিল তাদের কিতাবেই"
+        },
+        "p": [
+          {
+            "en": "Why would they rejoice? Ibn Kathir describes them as people who stand by what their Book requires, and gives the reason: their books held witnesses to the Qur'an's truth and good news of its coming. Beside the verse he sets 2:121, those to whom We gave the Book recite it as it should be recited; they are the ones who believe in it. He adds 17:107 to 17:109, where those given knowledge before it fall down weeping when it is recited and say that their Lord's promise has been fulfilled.",
+            "bn": "তারা খুশি হবে কেন? ইবন কাসীর তাদের বর্ণনা দেন এমন মানুষ হিসেবে, যারা নিজেদের কিতাবের দাবি মেনে চলে। কারণটাও তিনি বলেন: তাদের কিতাবে কুরআনের সত্যতার সাক্ষ্য ছিল, ছিল এর আগমনের সুসংবাদ। আয়াতটির পাশে তিনি রাখেন ২:১২১: যাদের আমি কিতাব দিয়েছি, তারা তা যথাযথভাবে তিলাওয়াত করে, তারাই এতে ঈমান আনে। আরও আনেন ১৭:১০৭ থেকে ১৭:১০৯। সেখানে আগে জ্ঞান পাওয়া লোকেরা কুরআন তিলাওয়াত শুনে কাঁদতে কাঁদতে লুটিয়ে পড়ে আর বলে, তাদের রবের ওয়াদা পূর্ণ হয়েছে।"
+          },
+          {
+            "en": "Ibn Kathir reads that promise as the one their books had made, the sending of Muhammad ﷺ, now come true. As-Sa'di places the gladness in the fit between the scriptures. They believe in it and affirm it, he says, and they rejoice that the books agree with one another and confirm one another; this is the state of those who believed from the two communities of scripture. The Muyassar says it in one phrase: they welcome the Qur'an for its agreement with what they already have.",
+            "bn": "ইবন কাসীরের মতে সেই ওয়াদা হলো তাদের কিতাবে দেওয়া ওয়াদা, মুহাম্মাদ ﷺ-কে পাঠানোর ওয়াদা, যা এখন বাস্তব হয়েছে। সা'দী আনন্দের উৎস খোঁজেন কিতাবগুলোর পারস্পরিক মিলে। তাঁর কথায়, তারা এতে ঈমান আনে, একে সত্য বলে মানে, আর খুশি হয় এই দেখে যে কিতাবগুলো একটা আরেকটার সঙ্গে মেলে, একটা আরেকটাকে সত্যায়ন করে। দুই কিতাবের অনুসারীদের মধ্যে যারা ঈমান এনেছে, তাদের অবস্থা এটাই। মুয়াসসার কথাটা বলে এক বাক্যে: তাদের কাছে যা আছে তার সঙ্গে মিলে যাওয়ায় তারা কুরআনকে সাদরে বরণ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Factions Ranged Against Him",
+          "bn": "তাঁর বিরুদ্ধে জোট বাঁধা দল"
+        },
+        "p": [
+          {
+            "en": "Wa mina l-ahzab man yunkiru ba'dah: and among the factions are some who deny part of it. At-Tabari explains al-ahzab as the people of the religions who formed parties against the Prophet ﷺ, followers of many faiths. From Mujahid, by two chains, he reports only: of the People of the Book. Through Ibn Jurayj, Mujahid adds that they are called ahzab for their banding together, and links the word to 33:20, if the confederates should come, where it means those who massed against the Prophet ﷺ.",
+            "bn": "ওয়া মিনাল আহযাবি মান ইউনকিরু বা'দাহ: আর দলগুলোর মধ্যে কেউ কেউ এর কিছু অংশ অস্বীকার করে। তাবারী আহযাবের ব্যাখ্যা দেন এভাবে: নানা ধর্মের সেই লোকেরা, যারা নবী ﷺ-এর বিরুদ্ধে দল বেঁধেছিল। মুজাহিদ থেকে দুই সূত্রে তিনি শুধু এটুকু আনেন: আহলে কিতাবের মধ্য থেকে। ইবন জুরাইজের সূত্রে মুজাহিদ আরও বলেন, জোট বাঁধার কারণেই তাদের আহযাব বলা হয়। শব্দটিকে তিনি মেলান ৩৩:২০-এর সঙ্গে, যদি আহযাব আবার আসে। সেখানে এর মানে নবী ﷺ-এর বিরুদ্ধে জড়ো হওয়া বাহিনী।"
+          },
+          {
+            "en": "Qatada, in at-Tabari, names them as the Jews and the Christians, and Ibn Kathir reports the same from Mujahid, Qatada and 'Abd ar-Rahman ibn Zayd ibn Aslam. Yet Ibn Zayd's own report in at-Tabari widens the list to nations: Jews, Christians and Magians, some of whom believed in it and some of whom denied it. Al-Qurtubi gives three readings: the polytheists of Makka together with those Jews, Christians and Magians who did not believe; the Arabs who formed parties against the Prophet ﷺ; or the enemies of the Muslims in general.",
+            "bn": "তাবারীর বর্ণনায় কাতাদা বলেন, এরা ইহুদি ও খ্রিস্টান। ইবন কাসীরও মুজাহিদ, কাতাদা ও আবদুর রহমান ইবন যায়দ ইবন আসলাম থেকে একই কথা আনেন। তবে তাবারীতে ইবন যায়দের নিজের বর্ণনায় তালিকাটা বড় হয়ে জাতিসমূহে গিয়ে ঠেকে: ইহুদি, খ্রিস্টান ও অগ্নিপূজক। তাদের কেউ ঈমান এনেছে, কেউ অস্বীকার করেছে। কুরতুবী তিনটি ব্যাখ্যা দেন। এক, মক্কার মুশরিকরা, সঙ্গে ইহুদি, খ্রিস্টান ও অগ্নিপূজকদের মধ্যে যারা ঈমান আনেনি। দুই, নবী ﷺ-এর বিরুদ্ধে জোট বাঁধা আরবরা। তিন, আরও ব্যাপক অর্থে মুসলিমদের শত্রুরা।"
+          },
+          {
+            "en": "The Muyassar puts names to them: as-Sayyid and al-'Aqib, the two bishops of Najran, and Ka'b ibn al-Ashraf. Ibn Kathir closes the clause with 3:199, among the People of the Book are those who believe in Allah and in what was sent down to you, so the Qur'an itself refuses to treat any community as a single block. The verse describes those who stood against the Prophet ﷺ in his own time and what they did. It licenses nothing against any living person or community, Jewish, Christian or any other.",
+            "bn": "মুয়াসসার কয়েকজনের নামও বলে: নাজরানের দুই বিশপ সাইয়িদ ও আকিব, আর কা'ব ইবন আশরাফ। ইবন কাসীর এই অংশ শেষ করেন ৩:১৯৯ দিয়ে: আহলে কিতাবের মধ্যে এমন লোকও আছে, যারা আল্লাহর প্রতি ঈমান আনে, আর তোমাদের প্রতি যা নাযিল হয়েছে তার প্রতিও। ফলে কুরআন নিজেই কোনো সম্প্রদায়কে এক পাল্লায় মাপতে দেয় না। আয়াতটি বর্ণনা দেয় নবী ﷺ-এর নিজের সময়ে যারা তাঁর বিরুদ্ধে দাঁড়িয়েছিল তাদের, আর তারা যা করেছিল তার। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে, ইহুদি হোক, খ্রিস্টান হোক বা অন্য কেউ, এ আয়াত কোনো কিছুর অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denying Only a Portion",
+          "bn": "অস্বীকার শুধু এক অংশের"
+        },
+        "p": [
+          {
+            "en": "The verse does not say that they deny it. It says they deny part of it, ba'dah. Through Ibn Jurayj, Mujahid glosses the word plainly: part of the Qur'an. Ibn Kathir renders the clause as those groups who give the lie to some of what was sent down to you, and as-Sa'di as factions of the disbelievers, turned aside from the truth, who deny part of this Qur'an and do not affirm it.",
+            "bn": "আয়াতটি বলে না যে তারা কুরআন অস্বীকার করে। বলে, তারা এর কিছু অংশ অস্বীকার করে: বা'দাহ। ইবন জুরাইজের সূত্রে মুজাহিদ শব্দটির সোজা অর্থ দেন: কুরআনের কিছু অংশ। ইবন কাসীরের ভাষায়, এরা সেই দলগুলো, যারা আপনার প্রতি নাযিল হওয়া বাণীর কিছু অংশকে মিথ্যা বলে। সা'দীর ভাষায়, এরা কাফিরদের সেই দলগুলো, যারা সত্য থেকে সরে গেছে, এই কুরআনের কিছু অংশ অস্বীকার করে আর তাকে সত্য বলে মানে না।"
+          },
+          {
+            "en": "Two commentators explain why only a part. Al-Qurtubi, on his broadest reading, notes that among the enemies of the Muslims were some who acknowledged certain prophets, and some who acknowledged that Allah created the heavens and the earth, so their denial fell on the rest. Al-Baghawi ties the word to the report taken up next. They did not deny the mention of Allah, he says, but they denied the mention of ar-Rahman, and that is why the verse says part.",
+            "bn": "শুধু এক অংশ কেন, দুজন তাফসীরকার তার ব্যাখ্যা দেন। কুরতুবী তাঁর সবচেয়ে ব্যাপক ব্যাখ্যায় বলেন, মুসলিমদের শত্রুদের মধ্যে কেউ কেউ কয়েকজন নবীকে মানত। কেউ মানত যে আসমান ও যমীনের স্রষ্টা আল্লাহ। ফলে তাদের অস্বীকার গিয়ে পড়ত বাকি অংশের উপর। বাগাভী শব্দটিকে জুড়ে দেন সেই বর্ণনার সঙ্গে, যার কথা সামনে আসছে। তাঁর মতে, তারা আল্লাহর নাম নেওয়াকে অস্বীকার করত না, অস্বীকার করত আর-রহমান নামের উল্লেখকে। এ কারণেই আয়াতে বলা হয়েছে, কিছু অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name They Would Not Accept",
+          "bn": "যে নাম তারা মানতে চায়নি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi attributes to most scholars, and al-Baghawi to others, a report that gives the verse a setting. In the earliest revelation, it says, the name ar-Rahman, the Most Merciful, appeared only a little. When 'Abd Allah ibn Salam and his companions accepted Islam, it troubled them that the Qur'an mentioned ar-Rahman so seldom while the Torah mentioned it often. In al-Qurtubi's version they asked the Prophet ﷺ about it, and Allah revealed 17:110: say, call upon Allah or call upon ar-Rahman; whichever you call, to Him belong the best names.",
+            "bn": "কুরতুবী একটি বর্ণনাকে অধিকাংশ আলেমের মত বলে উল্লেখ করেন, বাগাভী বলেন 'অন্যরা বলেছেন'। এ বর্ণনা আয়াতটিকে একটা প্রেক্ষাপট দেয়। এতে বলা হয়, একেবারে শুরুর দিকের ওহিতে আর-রহমান, পরম দয়াময়, নামটি এসেছিল অল্পই। আবদুল্লাহ ইবন সালাম (রাঃ) ও তাঁর সঙ্গীরা ইসলাম গ্রহণ করার পর তাঁদের খারাপ লাগল যে তাওরাতে এ নাম বারবার আছে, অথচ কুরআনে এত কম। কুরতুবীর বর্ণনায় তাঁরা নবী ﷺ-কে এ বিষয়ে জিজ্ঞেস করলেন, আর আল্লাহ নাযিল করলেন ১৭:১১০: বলুন, আল্লাহ বলে ডাকো বা রহমান বলে ডাকো, যে নামেই ডাকো, সব সুন্দর নাম তো তাঁরই।"
+          },
+          {
+            "en": "Then, in al-Qurtubi's account, Quraysh said: what is wrong with Muhammad? He used to call to a single god, and today he calls to two, Allah and ar-Rahman. By Allah, we know no Rahman except the Rahman of al-Yamama, meaning Musaylima the Liar. So there came down 21:36, and they, at the mention of ar-Rahman, are disbelievers, and the words they disbelieve in ar-Rahman, which stand in 13:30. The believers of the People of the Book rejoiced at the mention of ar-Rahman, and Allah revealed this verse.",
+            "bn": "কুরতুবীর বর্ণনা এরপর এগোয়। কুরাইশরা বলল, মুহাম্মাদের হলো কী? সে তো একটাই ইলাহের দিকে ডাকত, আজ ডাকছে দুই ইলাহের দিকে, আল্লাহ আর রহমান! আল্লাহর কসম, আমরা ইয়ামামার রহমান ছাড়া আর কোনো রহমানকে চিনি না। এ কথায় তারা বোঝাত মিথ্যাবাদী মুসাইলামাকে। তখন নাযিল হলো ২১:৩৬: আর তারা রহমানের উল্লেখকেই অস্বীকার করে। আরও নাযিল হলো সেই কথা, তারা রহমানকে অস্বীকার করে, যা আছে ১৩:৩০-এ। আর আহলে কিতাবের মুমিনরা রহমানের উল্লেখে খুশি হলেন, তখন আল্লাহ এই আয়াত নাযিল করলেন।"
+          },
+          {
+            "en": "Al-Baghawi's version differs in two details. The believers' gladness comes when Allah repeats the name in the Qur'an, and the remark about the Rahman of al-Yamama is made at the writing of a peace document, taken up next. Neither gives it a chain or a grading, and the other fetched commentaries on 13:36 omit it. Whether a verse of this surah can concern Ibn Salam, who by Ibn Kathir's account at 13:43 accepted Islam in Madina, is debated there; no fetched commentary on this verse raises it.",
+            "bn": "বাগাভীর বর্ণনায় দুটি জায়গায় পার্থক্য আছে। মুমিনদের আনন্দ আসে তখন, যখন আল্লাহ কুরআনে নামটি বারবার আনেন। আর ইয়ামামার রহমান নিয়ে মন্তব্যটা হয় একটা সন্ধিপত্র লেখার সময়, যার কথা সামনে আসছে। দুই তাফসীরকারের কেউই বর্ণনাটির সনদ বা মান উল্লেখ করেননি, আর ১৩:৩৬-এর অন্য যেসব তাফসীর আনা হয়েছে, সেগুলোতে এর উল্লেখ নেই। ১৩:৪৩-এর আলোচনায় ইবন কাসীর জানান, ইবন সালাম ইসলাম গ্রহণ করেছিলেন মদিনায়। তাহলে এ সূরার কোনো আয়াত তাঁকে নিয়ে হতে পারে কি না, সে বিতর্ক সেখানেই। এ আয়াতের আনা তাফসীরগুলোর কোনোটিতে প্রশ্নটি ওঠেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Treaty's Opening Words",
+          "bn": "সন্ধিপত্রের শুরুর কথা"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi makes the factions here the polytheists of Makka, at the moment the Prophet ﷺ wrote bismillah ar-Rahman ar-Rahim in the peace document and they said they knew no Rahman but al-Yamama's. Such a treaty scene is in Sahih Muslim (1784), given here whole. Anas reports that Quraysh made peace with the Prophet ﷺ, and among them was Suhayl ibn 'Amr. The Prophet ﷺ said to 'Ali: write, In the name of Allah, the Most Merciful, the Ever-Merciful.",
+            "bn": "বাগাভীর মতে এখানে দলগুলো মানে মক্কার মুশরিকরা, সেই মুহূর্তে যখন নবী ﷺ সন্ধিপত্রে বিসমিল্লাহির রহমানির রহীম লেখালেন, আর তারা বলল, ইয়ামামার রহমান ছাড়া আর কোনো রহমানকে তারা চেনে না। এমন এক সন্ধির দৃশ্য আছে সহীহ মুসলিমে (১৭৮৪), এখানে তা পুরোটা দেওয়া হলো। আনাস (রাঃ) বর্ণনা করেন, কুরাইশরা নবী ﷺ-এর সঙ্গে সন্ধি করল, তাদের মধ্যে ছিল সুহাইল ইবন আমর। নবী ﷺ আলী (রাঃ)-কে বললেন: লেখো, বিসমিল্লাহির রহমানির রহীম, পরম দয়াময়, পরম দয়ালু আল্লাহর নামে।"
+          },
+          {
+            "en": "Suhayl said: as for bismillah, we do not know what bismillah ar-Rahman ar-Rahim is; write what we know, bismika Allahumma, in Your name, O Allah. He said: write, from Muhammad, the Messenger of Allah. They said: had we known that you were the Messenger of Allah, we would have followed you; write your name and your father's name. The Prophet ﷺ said: write, from Muhammad ibn 'Abd Allah. They made it a condition on the Prophet ﷺ that whoever of you comes to us, we will not return him to you, and whoever of us comes to you, you will return him to us.",
+            "bn": "সুহাইল বলল: বিসমিল্লাহর কথা যদি বলো, বিসমিল্লাহির রহমানির রহীম কী, আমরা জানি না। আমরা যা জানি তা-ই লেখো: বিসমিকা আল্লাহুম্মা, হে আল্লাহ, তোমার নামে। তিনি বললেন: লেখো, আল্লাহর রাসূল মুহাম্মাদের পক্ষ থেকে। তারা বলল: আমরা যদি জানতাম তুমি আল্লাহর রাসূল, তাহলে তো তোমার অনুসরণই করতাম। তোমার নাম আর তোমার বাবার নাম লেখো। নবী ﷺ বললেন: লেখো, মুহাম্মাদ ইবন আবদুল্লাহর পক্ষ থেকে। তারা নবী ﷺ-এর উপর শর্ত দিল: তোমাদের কেউ আমাদের কাছে এলে আমরা তাকে ফেরত দেব না, আর আমাদের কেউ তোমাদের কাছে গেলে তোমরা তাকে আমাদের কাছে ফেরত দেবে।"
+          },
+          {
+            "en": "They said: Messenger of Allah, shall we write this? He said: yes; whoever of us goes to them, Allah has sent him far away, and whoever of them comes to us, Allah will make for him a relief and a way out. The narration is in Muslim's Sahih. It concerns the treaty, not this verse, and its wording has no remark about al-Yamama; that remark and the tie to 13:36 rest on al-Baghawi's report alone. None of the fetched commentaries attaches a hadith to this verse itself.",
+            "bn": "তাঁরা বললেন: হে আল্লাহর রাসূল, আমরা কি এটা লিখব? তিনি বললেন: হ্যাঁ। আমাদের মধ্য থেকে যে তাদের কাছে চলে যায়, আল্লাহ তাকে দূরে সরিয়ে দিয়েছেন। আর তাদের মধ্য থেকে যে আমাদের কাছে আসে, আল্লাহ তার জন্য স্বস্তি ও বেরোনোর পথ করে দেবেন। বর্ণনাটি সহীহ মুসলিমে আছে। এর বিষয় সন্ধি, এই আয়াত নয়। এর ভাষ্যে ইয়ামামা নিয়ে কোনো মন্তব্যও নেই। সেই মন্তব্য আর ১৩:৩৬-এর সঙ্গে এর যোগ, দুটোই শুধু বাগাভীর বর্ণনার উপর দাঁড়িয়ে। আনা তাফসীরগুলোর কোনোটিই এ আয়াতের সঙ্গে সরাসরি কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Commanded, Calling, Coming Back",
+          "bn": "আদেশ, আহ্বান, ফিরে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari spells out the reply: say to them, O people, I have been commanded to worship Allah alone, not anything besides Him, and not to give Him a partner in my worship by serving gods and idols with Him; rather, I make the religion sincerely His, inclining to the truth and submitting. Ibn Kathir adds: I was sent with the worship of Allah alone, with no partner, just as the prophets before me were sent.",
+            "bn": "তাবারী জবাবটি খুলে বলেন: তাদের বলুন, হে লোকসকল, আমাকে আদেশ করা হয়েছে শুধু আল্লাহর ইবাদত করতে, তিনি ছাড়া আর কারও নয়। ইবাদতে তাঁর সঙ্গে কাউকে শরিক না করতে, তাঁর পাশাপাশি দেব-দেবী আর মূর্তির পূজা না করতে। বরং দ্বীনকে খাঁটিভাবে তাঁর জন্য রাখতে, সত্যের দিকে একনিষ্ঠ আর অনুগত হয়ে। ইবন কাসীর যোগ করেন: আমাকে পাঠানো হয়েছে শরিকহীন এক আল্লাহর ইবাদত নিয়ে, ঠিক যেমন আমার আগের নবীদের পাঠানো হয়েছিল।"
+          },
+          {
+            "en": "Al-Qurtubi notes the reading. The body of reciters read wa la ushrika in the subjunctive, joined to a'buda; Abu Khalid read it in the indicative, as a fresh statement. He glosses the meaning as singling Him out for worship and disowning those who associate partners with Him, and those who say that al-Masih or 'Uzayr is the son of Allah. Ilayhi ad'u: to His path I call people, says Ibn Kathir; to obeying Him and worshipping Him sincerely, says at-Tabari.",
+            "bn": "কুরতুবী কিরাআতের কথা বলেন। অধিকাংশ কারী ওয়া লা উশরিকা পড়েন যবর দিয়ে, আগের আ'বুদা শব্দের সঙ্গে যুক্ত করে। আবু খালিদ পড়েন পেশ দিয়ে, নতুন এক বক্তব্য হিসেবে। অর্থ হিসেবে তিনি বলেন, ইবাদতে শুধু তাঁকেই একক রাখা, আর যারা তাঁর সঙ্গে শরিক করে, যারা বলে মাসীহ বা উযাইর আল্লাহর পুত্র, তাদের থেকে নিজেকে মুক্ত ঘোষণা করা। ইলাইহি আদউ: ইবন কাসীরের মতে, আমি মানুষকে তাঁর পথের দিকে ডাকি। তাবারীর মতে, তাঁর আনুগত্য আর খাঁটি ইবাদতের দিকে ডাকি।"
+          },
+          {
+            "en": "Wa ilayhi ma'ab. At-Tabari explains ma'ab as a noun on the pattern maf'al from aba, ya'ubu, to come back: to Him is my destination. Qatada widens it: to Him is the return of every servant. Al-Qurtubi reads it as I turn back to Him in all my affairs, and as-Sa'di as the return at which He will reward me for my call to His religion and for doing what I was commanded. The surah has heard this cadence before: 13:30 ends, upon Him I rely, and to Him is my turning.",
+            "bn": "ওয়া ইলাইহি মাআব। তাবারী বলেন, মাআব শব্দটি মাফআল ওজনে গঠিত, আ-বা ইয়াউবু থেকে, যার অর্থ ফিরে আসা: আমার গন্তব্য তাঁরই কাছে। কাতাদা তাঁর বর্ণনায় একে আরও ব্যাপক করেন: প্রত্যেক বান্দার ফেরা তাঁরই কাছে। কুরতুবীর ব্যাখ্যায়, আমার সব ব্যাপারে আমি তাঁরই দিকে ফিরি। সা'দীর ব্যাখ্যায়, এমন ফেরা, যেখানে তাঁর দ্বীনের দিকে আমার দাওয়াত আর আদেশ পালনের প্রতিদান তিনি আমাকে দেবেন। এ সুর সূরাটিতে আগেও শোনা গেছে। ১৩:৩০ শেষ হয়েছে এ কথায়: তাঁরই উপর আমি ভরসা করি, তাঁরই কাছে আমার প্রত্যাবর্তন।"
+          }
+        ]
+      }
+    ]
+  },
   "13:38": {
     "sections": [
       {
