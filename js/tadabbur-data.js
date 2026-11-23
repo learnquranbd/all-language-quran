@@ -31223,6 +31223,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Call on Allah alone in ease as you would in a crisis, for whatever would vanish from your mind on the hardest day was never worth leaning on.",
     "lessonBn": "বিপদের দিনে যেমন একমাত্র আল্লাহকেই ডাকতেন, সুখের দিনেও তেমনি তাঁকেই ডাকুন। কঠিনতম দিনে যা মন থেকে হারিয়ে যাবে, তার উপর ভর দেওয়ার কোনো মানে ছিল না।"
+  },
+  "6:28": {
+    "reflectionEn": "They stand at the edge of the Fire and say: if only we were sent back, we would not deny, we would believe. It sounds like repentance. This verse answers with one word: nay. What they had kept hidden has come out, and the wish comes from fear of what they now see, not from love of faith. Then a harder sentence: were they sent back, they would return to what they had been forbidden. The verse is about them, not a door closed on anyone alive. Yet it asks me something. The return they wish for is the life I am living now. Do my resolutions survive once the fear that made them has passed?",
+    "reflectionBn": "জাহান্নামের কিনারায় দাঁড়িয়ে তারা বলে: আমাদের যদি ফিরিয়ে দেওয়া হতো, আমরা আর অস্বীকার করতাম না, ঈমান আনতাম। শুনতে তওবার মতো লাগে। এ আয়াত এক শব্দে জবাব দেয়: বরং। যা তারা লুকিয়ে রাখত, তা বেরিয়ে এসেছে। এ আকাঙ্ক্ষা ঈমানের ভালোবাসা থেকে নয়, চোখের সামনে যা দেখছে তার ভয় থেকে। তারপর আরও কঠিন কথা: ফিরিয়ে দিলেও তারা আবার সেদিকেই যেত, যা থেকে তাদের নিষেধ করা হয়েছিল। আয়াতটি তাদের কথা বলে, জীবিত কারও সামনে দরজা বন্ধ করে না। তবু আমাকে একটা প্রশ্ন করে। যে ফেরার আকাঙ্ক্ষা তারা করে, সেই জীবনটাই তো আমি এখন কাটাচ্ছি। যে ভয় আমার প্রতিজ্ঞাগুলো জন্ম দিয়েছিল, সে ভয় কেটে গেলে প্রতিজ্ঞাগুলো কি টিকে থাকে?",
+    "pointsEn": [
+      "Which promise did I make to Allah in a frightening moment, and what became of it once the moment passed?",
+      "What do I keep hidden from others that I would not want brought out on the Day everything appears?",
+      "Do I already know, somewhere inside, that a thing I argue against is true?",
+      "If I were given another year exactly like this one, what would I actually do differently, and what would I simply repeat?",
+      "What is the one thing I keep saying I will change 'later', as if a return were guaranteed?"
+    ],
+    "pointsBn": [
+      "ভয়ের কোনো মুহূর্তে আল্লাহর কাছে কোন ওয়াদা করেছিলাম? মুহূর্তটা কেটে যাওয়ার পর সে ওয়াদার কী হলো?",
+      "অন্যদের কাছ থেকে কী লুকিয়ে রাখি, যা সব কিছু প্রকাশ হওয়ার দিন বেরিয়ে আসুক তা চাই না?",
+      "যে জিনিসের বিরুদ্ধে আমি তর্ক করি, ভেতরে ভেতরে কি জানি যে সেটাই সত্য?",
+      "ঠিক এ বছরের মতো আরেকটা বছর পেলে আমি সত্যিই কী বদলাতাম, আর কী শুধু আবার করে যেতাম?",
+      "কোন জিনিসটা 'পরে' বদলাব বলে বারবার পিছিয়ে দিই, যেন ফিরে আসার সুযোগ নিশ্চিত?"
+    ],
+    "lessonEn": "The return they wish for at the Fire is the life you have now, so change while it is still choice and not fear that moves you.",
+    "lessonBn": "জাহান্নামের সামনে দাঁড়িয়ে তারা যে ফিরে আসার আকাঙ্ক্ষা করে, সেই জীবন এখন আপনার হাতে। তাই ভয়ে বাধ্য হওয়ার আগেই, নিজের ইচ্ছায় বদলে যান।"
   }
 };
 

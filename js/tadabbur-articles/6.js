@@ -1467,6 +1467,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:28": {
+    "sections": [
+      {
+        "h": {
+          "en": "Nay, Right After the Wish",
+          "bn": "আকাঙ্ক্ষার ঠিক পরেই 'বরং'"
+        },
+        "p": [
+          {
+            "en": "The verse just before, 6:27, shows the deniers made to stand at the Fire, saying: would that we were sent back; then we would not deny the signs of our Lord, and we would be among the believers. A few verses earlier, in 6:23, the same people had sworn by Allah that they never associated anything with Him. Verse 6:28 opens with bal, nay, a word that turns away from what was just said. Al-Qurtubi calls it a turning away from their wish and from their claim that they would believe if returned.",
+            "bn": "আগের আয়াত, ৬:২৭, দেখায় অস্বীকারকারীদের জাহান্নামের কিনারায় দাঁড় করানো হয়েছে। তারা বলছে: হায়, আমাদের যদি ফিরিয়ে দেওয়া হতো! তাহলে রবের নিদর্শনকে আর মিথ্যা বলতাম না, মুমিনদের দলে থাকতাম। এর কয়েক আয়াত আগে, ৬:২৩-এ, এরাই আল্লাহর কসম খেয়ে বলেছিল যে তারা কখনো শিরক করেনি। ৬:২৮ শুরু হয় 'বাল' দিয়ে, অর্থাৎ বরং। এ শব্দ সদ্য বলা কথা থেকে মুখ ফিরিয়ে নেয়। কুরতুবী বলেন, এখানে বরং তাদের আকাঙ্ক্ষা থেকে মুখ ফেরায়, আর ফেরত পেলে ঈমান আনার যে দাবি তারা করছে, তা থেকেও।"
+          },
+          {
+            "en": "Al-Baghawi reads a rebuttal under the word: the matter is not as they claimed, that if they were returned they would believe. The Muyassar opens the same way, it is not so. Ibn Kathir explains what the turn exposes. They did not ask to go back out of desire and love for faith, he says, but out of fear of the punishment they had now seen, the recompense for the disbelief they had lived in. That, he says, is why the verse goes on: were they returned, they would go back.",
+            "bn": "বাগাভী এ শব্দের নিচে একটা খণ্ডন দেখেন: ব্যাপারটা তাদের দাবির মতো নয় যে ফিরিয়ে দিলে তারা ঈমান আনত। মুয়াসসারও শুরু করে একই কথায়: বিষয়টা এমন নয়। এই মোড় কী খুলে দেয়, ইবন কাসীর তা বুঝিয়ে বলেন। তাঁর কথায়, ঈমানের প্রতি টান বা ভালোবাসা থেকে তারা ফেরত চায়নি। চেয়েছে চোখের সামনে দেখা শাস্তির ভয়ে, যে শাস্তি তাদের কুফরির প্রতিফল। তাঁর মতে এ কারণেই আয়াত এগিয়ে বলে: ফিরিয়ে দিলেও তারা আবার সেদিকেই যেত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Deeds Brought Before the Witnesses",
+          "bn": "সাক্ষীদের সামনে খুলে যাওয়া আমল"
+        },
+        "p": [
+          {
+            "en": "What, then, had they been hiding? At-Tabari reads it as their evil deeds. What moves them at the Fire, he says, is not grief and regret for having left faith in Allah and belief in the Prophet ﷺ, but dread of the punishment coming down on them for sins they used to hide from people's eyes. Allah brings those sins out on the Day of Resurrection before all the witnesses, disgraces them by them, and then repays them. He adds that this is what the people of interpretation said.",
+            "bn": "তাহলে তারা লুকাত কী? তাবারী বলেন, তাদের মন্দ আমল। তাঁর ব্যাখ্যায়, জাহান্নামের কিনারায় তাদের নাড়া দিচ্ছে আল্লাহর প্রতি ঈমান আর নবী ﷺ-কে সত্য মানা ছেড়ে দেওয়ার দুঃখ বা অনুতাপ নয়। নাড়া দিচ্ছে আসন্ন শাস্তির আতঙ্ক, সেইসব গুনাহের জন্য যা তারা মানুষের চোখের আড়ালে রাখত। কিয়ামতের দিন আল্লাহ সেগুলো সব সাক্ষীর সামনে বের করে আনেন, তা দিয়েই তাদের লাঞ্ছিত করেন, তারপর তার প্রতিফল দেন। তাবারী যোগ করেন, ব্যাখ্যাকারেরা এ কথাই বলেছেন।"
+          },
+          {
+            "en": "He then quotes two of them. As-Suddi: their deeds, which they had hidden in this world, appeared to them in the Hereafter. Qatada, in a report through Ma'mar, says only: of their deeds. Ibn Kathir's first reading is close but looks inward. What appeared was the disbelief, denial and stubbornness they had hidden in themselves, even though they denied it, in this world or in the Hereafter, and he points to 6:23 and 6:24, where Allah says, see how they lied against themselves.",
+            "bn": "এরপর তিনি তাঁদের দুজনের কথা আনেন। সুদ্দী বলেন: দুনিয়ায় যে আমল তারা গোপন রেখেছিল, আখিরাতে তা তাদের সামনে প্রকাশ পেল। মা'মারের সূত্রে কাতাদার কথা শুধু এটুকু: তাদের আমল থেকে। ইবন কাসীরের প্রথম ব্যাখ্যা কাছাকাছি, তবে তাঁর দৃষ্টি ভেতরের দিকে। প্রকাশ পেল সেই কুফর, অস্বীকার আর জেদ, যা তারা মনের মধ্যে লুকিয়ে রেখেছিল। মুখে তারা তা অস্বীকার করত, দুনিয়াতেও, আখিরাতেও। এর প্রমাণে তিনি ৬:২৩ ও ৬:২৪ দেখান, যেখানে আল্লাহ বলেন: দেখো, তারা নিজেদের ব্যাপারে কেমন মিথ্যা বলল।"
+          },
+          {
+            "en": "Al-Baghawi gives both kinds. First: their disbelief and sins, kept secret in this world. Then, as another view, the thing hidden is their oath in 6:23: they concealed their shirk until their own limbs testified against them. His reason: they did not hide their disbelief in this world, unless the verse is taken as being about the hypocrites. Al-Qurtubi relays the same limbs reading from Abu Rawq. Al-Mubarrad, cited by both, reads it differently again: what appeared was the recompense of what they had hidden.",
+            "bn": "বাগাভী দুই ধরনের ব্যাখ্যাই দেন। প্রথমত, দুনিয়ায় গোপন রাখা তাদের কুফর আর গুনাহ। তারপর ভিন্ন এক মত হিসেবে: লুকানো জিনিসটা ৬:২৩-এর সেই কসম। তারা শিরক গোপন করেছিল, শেষে তাদের নিজেদের অঙ্গপ্রত্যঙ্গই তাদের বিরুদ্ধে সাক্ষ্য দিল। এ মতের পক্ষে তাঁর যুক্তি: দুনিয়ায় তো তারা কুফর লুকাত না, যদি না আয়াতটিকে মুনাফিকদের ব্যাপারে ধরা হয়। অঙ্গপ্রত্যঙ্গের সাক্ষ্যের এ ব্যাখ্যা কুরতুবী আনেন আবু রাওক থেকে। মুবাররাদের পাঠ আবার আলাদা, দুজনেই তা উদ্ধৃত করেছেন: যা প্রকাশ পেল, তা তাদের লুকানো জিনিসের প্রতিফল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Certainty They Had Covered Over",
+          "bn": "ঢেকে রাখা নিশ্চিত জ্ঞান"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir offers a second possibility. What appeared to them was something they had known about themselves all along: that what the messengers brought was true, though they showed their followers the opposite. He cites Musa (AS) telling Pharaoh in 17:102, you know well that none sent these down but the Lord of the heavens and the earth, and 27:14, where Pharaoh and his people rejected the signs while their inner selves were certain of them. The Muyassar gives only this reading: on the Day it came out what they had known of the messengers' truthfulness.",
+            "bn": "ইবন কাসীর দ্বিতীয় একটি সম্ভাবনার কথা বলেন। যা প্রকাশ পেল, তা এমন কিছু যা তারা নিজেদের ভেতরে বরাবরই জানত: রাসূলরা যা এনেছেন, তা সত্য। অথচ অনুসারীদের সামনে তারা দেখাত উল্টোটা। প্রমাণে তিনি আনেন ১৭:১০২, যেখানে মূসা (আঃ) ফিরআউনকে বলেন: তুমি ভালো করেই জানো, আসমান ও জমিনের রব ছাড়া আর কেউ এগুলো নাজিল করেননি। আর আনেন ২৭:১৪, যেখানে ফিরআউন ও তার লোকেরা নিদর্শন প্রত্যাখ্যান করল, অথচ তাদের অন্তর সেগুলোকে নিশ্চিত সত্য বলে জানত। মুয়াসসার শুধু এ ব্যাখ্যাই নেয়: রাসূলদের সত্যতা সম্পর্কে তারা যা জানত, সেদিন তা বেরিয়ে এল।"
+          },
+          {
+            "en": "As-Sa'di puts it in the heart. They used to hide within themselves that they were lying, and that knowledge surfaced in their hearts many times, but corrupt aims held them back and turned their hearts from the good. Ma'arif al-Qur'an says much the same: they knew the prophets were true, yet raised dust to keep it hidden, out of chronic obstinacy or worldly greed. Al-Qurtubi records a narrower picture. When the Prophet ﷺ admonished them they felt fear and hid it, so their weaker followers would not notice; and al-Hasan said it appeared to some of them what they had hidden from others.",
+            "bn": "সা'দী বিষয়টিকে অন্তরের ভেতরে রাখেন। তারা মনে মনে জানত যে তারা মিথ্যা বলছে, আর এ জ্ঞান বহুবার তাদের অন্তরে ভেসে উঠত। কিন্তু খারাপ উদ্দেশ্য তাদের আটকে রাখত, কল্যাণ থেকে তাদের মন ঘুরিয়ে দিত। মাআরিফুল কুরআনও প্রায় একই কথা বলে। তারা জানত নবীরা সত্যবাদী, তবু ধুলো উড়িয়ে সত্যটা চাপা দিত, পুরোনো জেদের কারণে কিংবা দুনিয়ার লোভে। কুরতুবী আরও সরু একটা ছবি আনেন। নবী ﷺ যখন তাদের উপদেশ দিতেন, তারা ভয় পেত, কিন্তু সে ভয় লুকিয়ে রাখত, যাতে তাদের দুর্বল অনুসারীরা টের না পায়। আর হাসান বলেছেন: একদল অন্যদের কাছে যা লুকাত, তা তাদের সামনে প্রকাশ পেল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hypocrites in a Makkan Surah",
+          "bn": "মক্কী সূরায় মুনাফিকের কথা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's third possibility is that the verse speaks of the hypocrites, who showed people faith and concealed disbelief, so that it tells what a group of the disbelievers will say on the Day of Resurrection. He raises the obvious objection himself: the surah is Makkan, and hypocrisy arose among some people of Madinah and the Bedouin around it. His answer is that Allah mentions hypocrisy in a Makkan surah, al-'Ankabut, in 29:11: Allah will surely make evident those who believe, and He will surely make evident the hypocrites. He closes the reading with, and Allah knows best.",
+            "bn": "ইবন কাসীরের তৃতীয় সম্ভাবনা: আয়াতটি মুনাফিকদের কথা বলছে, যারা মানুষের সামনে ঈমান দেখাত আর ভেতরে কুফর লুকিয়ে রাখত। তাহলে আয়াতটি জানাচ্ছে কিয়ামতের দিন কাফিরদের একটি দল কী বলবে। আপত্তিটা তিনি নিজেই তোলেন। সূরাটি মক্কী, অথচ নিফাক দেখা দিয়েছিল মদীনার কিছু মানুষ আর তার আশপাশের বেদুইনদের মধ্যে। তাঁর জবাব: আল্লাহ একটি মক্কী সূরাতেও নিফাকের কথা বলেছেন, সূরা আনকাবূতের ২৯:১১ আয়াতে: আল্লাহ অবশ্যই প্রকাশ করে দেবেন কারা ঈমান এনেছে, আর অবশ্যই প্রকাশ করে দেবেন মুনাফিকদের। এ ব্যাখ্যা তিনি শেষ করেন 'আল্লাহই ভালো জানেন' বলে।"
+          },
+          {
+            "en": "Al-Qurtubi lists the same reading first. The word disbelief covers the hypocrites too, he explains, so the pronoun can point back to only some of those mentioned; an-Nahhas called this sweet, eloquent speech. His last view looks ahead. The followers of those who led them astray now saw what their leaders had hidden from them about the resurrection, because the next verse, 6:29, has them saying there is nothing but our worldly life. So the readings are many: at-Tabari states his as the interpreters' view, and Ibn Kathir leaves his as possibilities.",
+            "bn": "কুরতুবীও এ ব্যাখ্যাকে তালিকার প্রথমে রাখেন। তাঁর যুক্তি, কুফর শব্দের মধ্যে মুনাফিকরাও পড়ে, তাই সর্বনামটি উল্লিখিতদের কেবল একটি অংশের দিকে ফিরতে পারে। নাহহাস এ ধরনের বাক্যকে মধুর ও প্রাঞ্জল বলেছেন, কুরতুবী তা উদ্ধৃত করেন। তাঁর শেষ মতটি সামনের দিকে তাকায়। পথভ্রষ্টকারী নেতারা পুনরুত্থান সম্পর্কে যা তাদের অনুসারীদের কাছে চেপে রেখেছিল, অনুসারীরা এখন তা দেখতে পেল। কারণ পরের আয়াত, ৬:২৯, তাদের মুখে বসায়: দুনিয়ার এই জীবন ছাড়া আর কিছু নেই। ব্যাখ্যা তাহলে অনেক। তাবারী নিজের মতকে ব্যাখ্যাকারদের মত হিসেবেই তুলে ধরেন, আর ইবন কাসীর তাঁর ব্যাখ্যাগুলোকে সম্ভাবনা হিসেবেই রেখে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Given the World Again",
+          "bn": "দুনিয়া আবার হাতে পেলে"
+        },
+        "p": [
+          {
+            "en": "Wa-law ruddu la-'adu li-ma nuhu 'anhu: and were they returned, they would go back to what they were forbidden. At-Tabari spells it out: were they returned to the world and given respite, they would go back to the same kind of deeds they did before, denying Allah's signs, disbelieving in Him, and doing what draws their Lord's anger. He quotes Qatada: had Allah given them a world like their former world, they would return to their deeds, the deeds of evil. What they were forbidden, al-Baghawi names as disbelief and al-Qurtubi as shirk.",
+            "bn": "ওয়া লাও রুদ্দূ লা'আদূ লিমা নুহূ আনহু: তাদের ফিরিয়ে দিলেও তারা সেদিকেই ফিরে যেত, যা থেকে তাদের নিষেধ করা হয়েছিল। তাবারী খোলাসা করে বলেন: দুনিয়ায় ফিরিয়ে দিয়ে সময় দিলে তারা আগের মতো আমলেই ফিরে যেত। আল্লাহর আয়াত অস্বীকার করত, তাঁর সঙ্গে কুফরি করত, আর এমন কাজ করত যাতে তাদের রব অসন্তুষ্ট হন। তিনি কাতাদার কথা আনেন: আল্লাহ যদি তাদের আগের মতো আরেকটা দুনিয়া দিতেন, তারা আবার নিজেদের মন্দ আমলে ফিরে যেত। নিষিদ্ধ জিনিসটিকে বাগাভী বলেন কুফর, কুরতুবী বলেন শিরক।"
+          },
+          {
+            "en": "The sentence is a supposition, and the Muyassar marks it as one: if it were supposed that they were sent back and given time, they would return to stubborn disbelief and denial. Nothing in the verse says a return will be granted. Al-Qurtubi records a difference over the moment meant: some said returned after seeing the punishment, others before seeing it. He also notes that Yahya ibn Waththab read riddu, with a kasra on the ra', since the base form is ruddidu and the kasra of the first dal moved onto it.",
+            "bn": "বাক্যটি একটি অনুমান, আর মুয়াসসার তা অনুমান হিসেবেই চিহ্নিত করে: ধরে নেওয়া যাক তাদের ফিরিয়ে দেওয়া হলো, সময়ও দেওয়া হলো, তবু তারা জেদি কুফর আর অস্বীকারে ফিরে যেত। আয়াতের কোথাও বলা নেই যে ফেরার সুযোগ দেওয়া হবে। কোন মুহূর্তের কথা, তা নিয়ে কুরতুবী একটি মতভেদ উল্লেখ করেন। কেউ বলেছেন শাস্তি দেখার পরে ফিরিয়ে দেওয়ার কথা, কেউ বলেছেন দেখার আগে। তিনি আরও জানান, ইয়াহইয়া ইবন ওয়াসসাব পড়েছেন 'রিদ্দূ', রা-তে যের দিয়ে। কারণ মূল রূপ 'রুদিদূ', প্রথম দালের যের সরে এসেছে রা-এর উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seeing Is Not Turning",
+          "bn": "দেখা মানেই ফিরে আসা নয়"
+        },
+        "p": [
+          {
+            "en": "How can it be known what they would do in a life they will never be given? Al-Qurtubi answers in one clause: they would go back to shirk because of Allah's knowledge of them, that they would not believe. Then he adds a case. Iblis saw what he saw of Allah's signs, and still he defied. Seeing, in other words, did not turn him. Ma'arif al-Qur'an makes the same move through the divine names: their All-Knowing, All-Aware Master says this is what they say for now, and sent back, they would forget their promises and resolutions.",
+            "bn": "যে জীবন তারা কখনো পাবে না, সেখানে তারা কী করত, তা জানা যায় কীভাবে? কুরতুবী এক বাক্যে উত্তর দেন: তারা শিরকে ফিরে যেত, কারণ আল্লাহ তাদের সম্পর্কে জানেন যে তারা ঈমান আনবে না। এরপর তিনি একটি দৃষ্টান্ত যোগ করেন। ইবলীস আল্লাহর নিদর্শন যা দেখার তা দেখেছিল, তবুও সে অবাধ্য হলো। অর্থাৎ দেখাটা তাকে ফেরায়নি। মাআরিফুল কুরআন একই কথা বলে আল্লাহর নাম দিয়ে। সর্বজ্ঞ, সব খবর রাখেন যিনি, সেই মালিক বলছেন: এখন তারা এ কথা বলছে, কিন্তু ফেরত পাঠালে নিজেদের ওয়াদা আর সংকল্প সব ভুলে যেত।"
+          },
+          {
+            "en": "The commentators fetched for this verse stop there. They ground the sentence in Allah's knowledge and do not go on to discuss how that knowledge relates to the choices of those it describes, so this article does not either. What they do place firmly in the people themselves is the motive. At-Tabari says they spoke from fear of the punishment, not from faith in Allah; as-Sa'di says their aim was only to push the punishment away from themselves. The Fire changed what they saw, not what they wanted.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, সেগুলো এখানেই থামে। বাক্যটিকে তারা আল্লাহর জ্ঞানের উপর দাঁড় করায়। সেই জ্ঞানের সঙ্গে যাদের কথা বলা হচ্ছে তাদের বেছে নেওয়ার সম্পর্ক কী, সে আলোচনায় তারা যায় না, এ লেখাও যাবে না। তবে উদ্দেশ্যটা তারা স্পষ্টভাবে এই লোকদের ঘাড়েই রাখে। তাবারী বলেন, তারা কথাটা বলেছিল শাস্তির ভয়ে, আল্লাহর প্রতি ঈমান থেকে নয়। সা'দী বলেন, তাদের লক্ষ্য ছিল শুধু নিজেদের থেকে শাস্তি ঠেকানো। আগুন বদলে দিয়েছে তাদের চোখের সামনের দৃশ্য, ভেতরের চাওয়াটা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Liars Then, or Liars Now",
+          "bn": "তখনকার মিথ্যুক, না এখনকার"
+        },
+        "p": [
+          {
+            "en": "Wa-innahum la-kadhibun: and they are liars. In what? Al-Qurtubi gives two readings. In the first, the clause reports the state they were in during their lives, belying the messengers and denying the resurrection. He compares 16:124, where a sentence about the Day of Resurrection is framed as a present statement; here a past state is told the same way. In the second, they are liars in what they have just said about themselves, that they would not deny and would be among the believers. At-Tabari, al-Baghawi, Ibn Kathir and the Muyassar take the second.",
+            "bn": "ওয়া ইন্নাহুম লাকাযিবূন: আর তারা অবশ্যই মিথ্যাবাদী। কোন ব্যাপারে? কুরতুবী দুটি ব্যাখ্যা দেন। প্রথমটিতে বাক্যটি জানায় জীবদ্দশায় তাদের অবস্থা কেমন ছিল: তারা রাসূলদের মিথ্যা বলত, পুনরুত্থান অস্বীকার করত। তিনি তুলনা করেন ১৬:১২৪-এর সঙ্গে, যেখানে কিয়ামতের দিনের একটি বিষয় বলা হয়েছে বর্তমানের ভঙ্গিতে। এখানে অতীতের অবস্থা বলা হয়েছে সেভাবেই। দ্বিতীয় ব্যাখ্যায় তারা মিথ্যাবাদী সদ্য নিজেদের ব্যাপারে যা বলল তাতে, যে তারা আর অস্বীকার করবে না, মুমিন হবে। তাবারী, বাগাভী, ইবন কাসীর ও মুয়াসসার দ্বিতীয়টি নেন।"
+          },
+          {
+            "en": "At-Tabari gives the reason the promise is a lie: they said it, when they said it, out of fear of the punishment and not out of faith. Ma'arif al-Qur'an sets out three senses. They had always been given to lying, and were lying even in this wish. Or the promise is called a lie by its outcome, because back in the world they would keep denying. Or the words were not prompted by true intention at all, and were said only to buy time and avoid punishment. As-Sa'di puts it plainly: they are liars in this very wish.",
+            "bn": "প্রতিশ্রুতিটা কেন মিথ্যা, তাবারী তার কারণ দেন: কথাটা যখন তারা বলেছিল, বলেছিল শাস্তির ভয়ে, ঈমান থেকে নয়। মাআরিফুল কুরআন তিনটি অর্থ সাজায়। এক, তারা চিরকালই মিথ্যায় অভ্যস্ত, এ আকাঙ্ক্ষাতেও মিথ্যা বলছে। দুই, পরিণতির বিচারে প্রতিশ্রুতিটাকে মিথ্যা বলা হয়েছে, কারণ দুনিয়ায় ফিরলে তারা অস্বীকারই করে যেত। তিন, কথাগুলো খাঁটি নিয়ত থেকে আসেনি, শুধু সময় কেনা আর শাস্তি এড়ানোর জন্য বলা। সা'দী সোজা কথায় বলেন: এই আকাঙ্ক্ষাতেই তারা মিথ্যাবাদী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Something Easier Was Asked",
+          "bn": "এর চেয়ে সহজ কিছু চাওয়া হয়েছিল"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it. A sound narration, not attached to this verse, shows the same late offer. In Sahih al-Bukhari (6538), Anas ibn Malik reports that the Prophet ﷺ used to say: 'A disbeliever will be brought on the Day of Resurrection and it will be said to him: Suppose you had the earth full of gold, would you ransom yourself with it? He will say: Yes. Then it will be said to him: You were asked for something easier than that.'",
+            "bn": "এ আয়াতের জন্য পড়া তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। এ আয়াতের সঙ্গে যুক্ত নয়, এমন একটি সহীহ বর্ণনা একই রকম দেরিতে আসা প্রস্তাবের ছবি দেখায়। সহীহ বুখারীতে (৬৫৩৮) আনাস ইবন মালিক (রাঃ) বর্ণনা করেন, নবী ﷺ বলতেন: \"কিয়ামতের দিন কাফিরকে আনা হবে, তাকে বলা হবে: বলো তো, তোমার কাছে যদি পৃথিবীভরা সোনা থাকত, তুমি কি তা দিয়ে নিজেকে মুক্ত করতে? সে বলবে: হ্যাঁ। তখন তাকে বলা হবে: তোমার কাছে তো এর চেয়ে সহজ জিনিস চাওয়া হয়েছিল।\""
+          },
+          {
+            "en": "In one of Muslim's chains for the same report (2805), the reply opens with 'You have lied', before the words about something easier. The verse's closing clause, and they are liars, sits close to that, but the link is ours, not the commentators'. The Qur'an returns to the wish elsewhere. In 23:99 and 23:100 a dying man asks to be sent back and is told it is only a word he is saying. In 35:37 the people of the Fire are asked: did We not give you life enough for whoever would remember?",
+            "bn": "মুসলিমে (২৮০৫) একই বর্ণনার একটি সনদে জবাব শুরু হয় 'তুমি মিথ্যা বলেছ' দিয়ে, তারপর আসে সহজ জিনিসের কথা। আয়াতের শেষ বাক্য, তারা অবশ্যই মিথ্যাবাদী, এর খুব কাছাকাছি। তবে এ যোগসূত্র আমাদের টানা, তাফসীরকারদের নয়। কুরআন অন্য জায়গাতেও এ আকাঙ্ক্ষায় ফিরে আসে। ২৩:৯৯ ও ২৩:১০০ আয়াতে মৃত্যুর মুখে এক লোক ফেরত পাঠানোর আবেদন করে, আর তাকে বলা হয়: এ তো তার মুখের একটা কথা মাত্র। ৩৫:৩৭ আয়াতে জাহান্নামবাসীদের জিজ্ঞেস করা হয়: আমি কি তোমাদের এতটা আয়ু দিইনি, যাতে কেউ উপদেশ নিতে চাইলে নিতে পারত?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Return Already in Hand",
+          "bn": "ফেরার সুযোগ এখনই হাতে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes those who denied the messengers, standing at the Fire on the Day of Resurrection, and states Allah's knowledge of them. It licenses nothing against any living person or community. Nobody may point at a neighbour and say that this person would go back. The verse reports what will be on that Day, and whoever turns it into a verdict on someone alive has taken from it what it does not give.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে কিয়ামতের দিন জাহান্নামের কিনারায় দাঁড়ানো সেই লোকদের, যারা রাসূলদের অস্বীকার করেছিল। আর তাদের ব্যাপারে আল্লাহর জ্ঞানের কথা জানায়। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কেউ প্রতিবেশীর দিকে আঙুল তুলে বলতে পারে না যে এ লোক ফিরলেও আগের পথেই যেত। আয়াতটি সেদিন যা ঘটবে তারই সংবাদ। কেউ যদি একে জীবিত কারও বিরুদ্ধে রায় বানায়, তবে আয়াত যা দেয় না, সে তা-ই নিয়েছে।"
+          },
+          {
+            "en": "What the verse does give the living is a mirror. The return they beg for is the ordinary life the reader already has, days in which faith can still be chosen rather than forced by sight. A resolution made in fear, at a sickbed or after a near miss, is tested later, once the fear has faded. Verse 6:32, a few verses on, calls the worldly life amusement and diversion, says the home of the Hereafter is best for those who fear Allah, and asks: will you not reason?",
+            "bn": "জীবিতদের জন্য আয়াতটি যা দেয়, তা একটা আয়না। তারা যে ফেরার জন্য কাকুতি করে, সেই সাধারণ জীবনটাই পাঠকের হাতে আছে। এ দিনগুলোতে ঈমান এখনো নিজের ইচ্ছায় বেছে নেওয়া যায়, চোখে দেখে বাধ্য হয়ে নয়। রোগশয্যায় বা অল্পের জন্য বেঁচে যাওয়ার পর ভয়ে যে সংকল্প করি, তার পরীক্ষা হয় পরে, ভয়টা কেটে গেলে। কয়েক আয়াত পরে ৬:৩২ দুনিয়ার জীবনকে বলে খেল-তামাশা, বলে পরকালের ঘরই উত্তম তাদের জন্য যারা আল্লাহকে ভয় করে। তারপর জিজ্ঞেস করে: তোমরা কি বুঝবে না?"
+          }
+        ]
+      }
+    ]
+  },
   "6:32": {
     "sections": [
       {
