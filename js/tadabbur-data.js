@@ -30603,6 +30603,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Never attach to Allah what He did not say: check before you quote, read a text for its meaning rather than yours, and admit it when you do not know.",
     "lessonBn": "আল্লাহ যা বলেননি তা কখনো তাঁর নামে চালাবেন না। উদ্ধৃতি দেওয়ার আগে যাচাই করুন, আয়াতকে নিজের মনমতো নয়, তার আসল অর্থে পড়ুন, আর না জানলে স্বীকার করুন যে জানেন না।"
+  },
+  "3:93": {
+    "reflectionEn": "The reports describe a man ill for a long time, his pain worst at night. He promises his Lord that if he is healed he will give up the food and drink he loves most. Long after, some said the Torah itself had forbidden that food, and the verse answers with one plain test: bring the Torah and read it out, if you are truthful. Two things sit side by side here. One is leaving something dear for Allah's sake, close to what the verse before it asks. The other is a custom passed down until it is spoken of as Allah's command. What have I given up for Him, and what do I call His law that I have only inherited?",
+    "reflectionBn": "বর্ণনাগুলো এক মানুষের কথা বলে, যিনি দীর্ঘদিন অসুস্থ ছিলেন, আর রাতে তাঁর ব্যথা সবচেয়ে বেড়ে যেত। তিনি রবের কাছে অঙ্গীকার করলেন, সুস্থ হলে সবচেয়ে প্রিয় খাবার ও পানীয় ছেড়ে দেবেন। বহু পরে কেউ কেউ দাবি করল, তাওরাতই নাকি সেই খাবার হারাম করেছে। আয়াত তার জবাব দেয় একটিমাত্র সোজা পরীক্ষায়: সত্যবাদী হলে তাওরাত নিয়ে এসো, পড়ে শোনাও। এখানে দুটি জিনিস পাশাপাশি দাঁড়িয়ে। একটি হলো আল্লাহর জন্য প্রিয় কিছু ছেড়ে দেওয়া, যা আগের আয়াতের দাবির খুব কাছের। অন্যটি হলো বাপ-দাদার এক রীতি, যা হাত বদলাতে বদলাতে একসময় আল্লাহর হুকুম বলে চালু হয়ে যায়। আমি তাঁর জন্য কী ছেড়েছি? আর কোন জিনিসকে আমি তাঁর বিধান বলি, যা আসলে শুধু উত্তরাধিকারে পাওয়া অভ্যাস?",
+    "pointsEn": [
+      "What do I love enough that leaving it for Allah's sake would truly cost me something?",
+      "Which habits of my family or community do I speak of as Allah's command without ever having checked the source?",
+      "When I say that Islam forbids this or requires that, could I bring the verse or the narration and read it out?",
+      "Have I made something lawful into a burden on myself or on others, by a promise or by strictness, beyond what Allah asked?",
+      "When my claim is tested against the text, do I welcome the test or find a way around it?"
+    ],
+    "pointsBn": [
+      "এমন কী আছে যা আমি এত ভালোবাসি যে আল্লাহর জন্য তা ছাড়তে সত্যিই আমার কষ্ট হবে?",
+      "পরিবার বা সমাজের কোন অভ্যাসকে আমি আল্লাহর হুকুম বলে চালাই, অথচ উৎসটা কখনো যাচাই করে দেখিনি?",
+      "যখন বলি ইসলাম এটা নিষেধ করেছে বা ওটা বাধ্যতামূলক করেছে, তখন কি আয়াত বা বর্ণনাটা এনে পড়ে শোনাতে পারব?",
+      "কোনো অঙ্গীকার বা বাড়তি কড়াকড়ি দিয়ে আমি কি কোনো হালাল জিনিসকে নিজের বা অন্যের উপর বোঝা বানিয়েছি, আল্লাহ যা চাননি?",
+      "আমার দাবিকে যখন মূল পাঠের সঙ্গে মিলিয়ে দেখা হয়, আমি কি সেই যাচাইকে স্বাগত জানাই, নাকি পাশ কাটানোর পথ খুঁজি?"
+    ],
+    "lessonEn": "Give up what you love for Allah's sake, but never pass off an inherited custom as His law; before saying He forbade something, be ready to bring the text.",
+    "lessonBn": "আল্লাহর জন্য প্রিয় জিনিস ছাড়ুন, কিন্তু উত্তরাধিকারে পাওয়া রীতিকে কখনো তাঁর বিধান বলে চালাবেন না। তিনি কিছু হারাম করেছেন বলার আগে পাঠটা হাজির করার জন্য প্রস্তুত থাকুন।"
   }
 };
 

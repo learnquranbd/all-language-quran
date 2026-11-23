@@ -4327,6 +4327,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:93": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Spending to a Food Law",
+          "bn": "দানের কথা থেকে খাদ্যের বিধানে"
+        },
+        "p": [
+          {
+            "en": "The verse before it, 3:92, ends on giving: you will never attain righteousness until you spend from what you love. Then the subject turns to food and the Children of Israel, and Ibn Kathir names two links. The first is that Israel, who is Ya'qub (AS), forbade himself the things dearest to him and left them for Allah, which was permitted in their law. What is prescribed for us, he says, is the counterpart: spending in obedience to Allah from what the servant loves and desires, as in 2:177 and 76:8.",
+            "bn": "আগের আয়াত ৩:৯২ শেষ হয়েছে দানের কথায়: প্রিয় জিনিস থেকে খরচ না করা পর্যন্ত তোমরা কখনো পুণ্যে পৌঁছাবে না। এরপরই প্রসঙ্গ চলে যায় খাবার আর বনী ইসরাঈলের দিকে। ইবন কাসীর এখানে দুটি যোগসূত্র দেখান। প্রথমটি হলো, ইসরাঈল, অর্থাৎ ইয়াকুব (আঃ), নিজের সবচেয়ে প্রিয় জিনিসগুলো নিজের উপর হারাম করে আল্লাহর জন্য ছেড়ে দিয়েছিলেন, আর তাঁদের শরীয়তে এটা বৈধ ছিল। আমাদের জন্য যা বিধিবদ্ধ, তাঁর ভাষায় তা এরই প্রতিরূপ: বান্দা যা ভালোবাসে ও কামনা করে, তা থেকে আল্লাহর আনুগত্যে খরচ করা। যেমন ২:১৭৭ ও ৭৬:৮ আয়াতে এসেছে।"
+          },
+          {
+            "en": "The second link is an argument. After the passage answering the Christians about 'Isa (AS) and his mother, Ibn Kathir says, the address turns to the Jews and to their denial that a law could ever be abrogated. As-Sa'di reads the verse the same way: it replies to the claim that abrogation is impossible, the claim on which they rejected 'Isa and Muhammad ﷺ, since both brought rulings that differed from parts of the Torah. Holding them to what their own book says, he writes, belongs to complete fairness in debate.",
+            "bn": "দ্বিতীয় যোগসূত্রটি একটি যুক্তি। ইবন কাসীর বলেন, ঈসা (আঃ) ও তাঁর মা সম্পর্কে খ্রিস্টানদের জবাব দেওয়ার পর এবার কথা ফিরেছে ইহুদিদের দিকে, আর তাদের সেই দাবির দিকে যে কোনো বিধান কখনো রহিত হতে পারে না। সা'দীও আয়াতটি এভাবেই পড়েন। তাঁর মতে এটি নাসখ অসম্ভব হওয়ার দাবির জবাব। এই দাবির জোরেই তারা ঈসা (আঃ) ও মুহাম্মাদ ﷺ-কে অস্বীকার করেছিল, কারণ দুজনই এমন বিধান এনেছিলেন যা তাওরাতের কিছু বিধানের সঙ্গে মেলে না। সা'দী লেখেন, তাদের নিজেদের কিতাবের কথা দিয়েই তাদের ধরা, এটাই বিতর্কে পূর্ণ ইনসাফ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "All Food, With One Exception",
+          "bn": "সব খাবার হালাল, একটি ছাড়া"
+        },
+        "p": [
+          {
+            "en": "Kullu at-ta'ami kana hillan li-bani Isra'il: all food was lawful to the Children of Israel. Al-Qurtubi glosses hill as halal, lawful, and he, al-Baghawi, as-Sa'di and the Muyassar all identify Israel as Ya'qub (AS); at-Tabari calls the Children of Israel the descendants of Ya'qub son of Ishaq son of Ibrahim. Al-Baghawi narrows all food at once: carrion and blood are not included, since they were never lawful at any time.",
+            "bn": "কুল্লুত তাআমি কানা হিল্লান লি-বানী ইসরাঈল: বনী ইসরাঈলের জন্য সব খাবার হালাল ছিল। কুরতুবী বলেন, হিল্ল মানে হালাল। তিনি, বাগাভী, সা'দী ও মুয়াসসার সবাই বলেন, ইসরাঈল হলেন ইয়াকুব (আঃ)। তাবারীর ভাষায় বনী ইসরাঈল হলো ইবরাহীমের পুত্র ইসহাক, তাঁর পুত্র ইয়াকুবের বংশধর। বাগাভী শুরুতেই 'সব খাবার' কথাটার সীমা টেনে দেন: মৃত জন্তু আর রক্ত এর বাইরে, কারণ এ দুটো কোনো কালেই হালাল ছিল না।"
+          },
+          {
+            "en": "At-Tabari states the meaning in his own words. Nothing in the way of food had been forbidden to the Children of Israel before the Torah came down; all of it was lawful to them, except what Ya'qub had forbidden himself. His children forbade it as well, following their father's practice, without Allah having forbidden it to them by revelation or through a messenger. Ad-Dahhak, he notes, seems to take the exception as the kind grammarians call disjoint, so that it means: but Israel, before the Torah, forbade himself some of it.",
+            "bn": "তাবারী অর্থটা নিজের ভাষায় বলেন। তাওরাত নাযিলের আগে বনী ইসরাঈলের উপর কোনো খাবারই হারাম করা হয়নি। সবই তাদের জন্য হালাল ছিল, শুধু ইয়াকুব নিজের উপর যা হারাম করেছিলেন তা ছাড়া। তাঁর সন্তানেরাও তা হারাম মেনে চলত বাবার রীতি অনুসরণ করে। আল্লাহ ওহী বা কোনো রাসূলের মুখে তা তাদের উপর হারাম করেননি। তিনি আরও বলেন, দাহহাক সম্ভবত এই ব্যতিক্রমকে সেই ধরনের ধরেছেন, যাকে ব্যাকরণবিদেরা বিচ্ছিন্ন ব্যতিক্রম বলেন। তখন অর্থ দাঁড়ায়: তবে ইসরাঈল তাওরাতের আগে এর কিছু অংশ নিজের উপর হারাম করেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sinews, Camel Meat, or Both",
+          "bn": "শিরা, উটের গোশত, নাকি দুটোই"
+        },
+        "p": [
+          {
+            "en": "What did Israel forbid himself? At-Tabari gathers two answers. One group says the sinews, al-'uruq: Ibn 'Abbas by several routes, Mujahid, Qatada, Abu Mijlaz and as-Suddi. Qatada adds that his sons afterwards would trace the sinews and take them out of the meat, and Abu Mijlaz that all the sinews follow that one. Al-Baghawi lists the same view from Ibn 'Abbas, Mujahid, Qatada, as-Suddi and ad-Dahhak.",
+            "bn": "ইসরাঈল নিজের উপর কী হারাম করেছিলেন? তাবারী দুটি উত্তর একত্র করেন। একদল বলেন, শিরা বা আল-উরূক। এ মত ইবন আব্বাস (রাঃ) থেকে কয়েকটি সূত্রে এসেছে, আর এসেছে মুজাহিদ, কাতাদা, আবু মিজলায ও সুদ্দী থেকে। কাতাদা যোগ করেন, পরে তাঁর ছেলেরা গোশত থেকে শিরা খুঁজে খুঁজে বের করে ফেলত। আবু মিজলায বলেন, সব শিরাই ওই একটি শিরার অনুগামী। বাগাভী একই মত উল্লেখ করেন ইবন আব্বাস, মুজাহিদ, কাতাদা, সুদ্দী ও দাহহাক থেকে।"
+          },
+          {
+            "en": "The other group says camel meat and camel milk. At-Tabari reports it from 'Ata' ibn Abi Rabah, through Ibn Jurayj, and from al-Hasan, who names camel meat; al-Baghawi gives it from Abu al-'Aliyah, 'Ata', Muqatil and al-Kalbi. In this account Ya'qub (AS), in a long and severe illness, vowed that if Allah restored him he would forbid himself the food and drink he loved most, and those were camel meat and its milk. One report from Mujahid, in at-Tabari, says simply: the meat of livestock.",
+            "bn": "অন্য দলের মতে তা ছিল উটের গোশত আর উটের দুধ। তাবারী এ মত বর্ণনা করেন ইবন জুরাইজের সূত্রে আতা ইবন আবী রাবাহ থেকে, আর হাসান থেকে, যিনি উটের গোশতের নাম নেন। বাগাভী তা আনেন আবুল আলিয়া, আতা, মুকাতিল ও কালবী থেকে। এই বর্ণনায় ইয়াকুব (আঃ) দীর্ঘ ও কঠিন অসুখে পড়েছিলেন। তিনি মানত করেন, আল্লাহ সুস্থ করলে সবচেয়ে প্রিয় খাবার ও পানীয় নিজের উপর হারাম করবেন। সেগুলো ছিল উটের গোশত আর তার দুধ। তাবারীতে মুজাহিদের একটি বর্ণনা শুধু বলে: গবাদি পশুর গোশত।"
+          },
+          {
+            "en": "At-Tabari then chooses. The most correct view, he says, is the report of Ibn 'Abbas through al-A'mash, from Habib, from Sa'id ibn Jubayr: he forbade the sinews and camel meat together. In that report he had sciatica, ate some camel meat, spent a night crying out in pain, and swore never to eat it again. His reason is a fact of his own day: the Jews, he says, are agreed to this day on forbidding both, just as their earliest generations were.",
+            "bn": "এরপর তাবারী নিজের মত বেছে নেন। তাঁর মতে সবচেয়ে সঠিক কথা হলো আমাশ, হাবীব ও সাঈদ ইবন জুবাইরের সূত্রে ইবন আব্বাস (রাঃ)-এর বর্ণনা: তিনি শিরা আর উটের গোশত দুটোই হারাম করেছিলেন। সেই বর্ণনায় আছে, তাঁর ইরকুন নাসা বা সায়াটিকার ব্যথা ছিল। উটের গোশত খাওয়ার পর এক রাত তিনি ব্যথায় কাতরে কাটালেন, তারপর কসম করলেন আর কখনো তা খাবেন না। তাঁর যুক্তি নিজের সময়ের একটি বাস্তবতা: তিনি বলেন, ইহুদিরা আজও এ দুটো হারাম হওয়ার ব্যাপারে একমত, ঠিক যেমন ছিল তাদের প্রথম যুগের লোকেরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pain by Night, a Vow",
+          "bn": "রাতের ব্যথা, এক মানত"
+        },
+        "p": [
+          {
+            "en": "Why did he forbid it? Most of the reports at-Tabari carries make it a vow made in illness. Ya'qub (AS) suffered from sciatica; the pain came at night and left him by day, so that he could find no rest through the night. He vowed to Allah that if He healed him he would never eat sinew. In Sa'id ibn Jubayr's report from Ibn 'Abbas he would pass the night with zuqa', which Sufyan explains as crying out. As-Sa'di and Ma'arif al-Qur'an also tell it as a vow.",
+            "bn": "তিনি কেন হারাম করেছিলেন? তাবারীর আনা বেশির ভাগ বর্ণনা বলে, এটি ছিল অসুখের সময়ের এক মানত। ইয়াকুব (আঃ) সায়াটিকায় ভুগতেন। ব্যথা আসত রাতে, দিনে চলে যেত, ফলে সারা রাত তিনি একটুও স্বস্তি পেতেন না। তিনি আল্লাহর কাছে মানত করলেন, তিনি সুস্থ করলে আর কখনো শিরা খাবেন না। ইবন আব্বাস (রাঃ) থেকে সাঈদ ইবন জুবাইরের বর্ণনায় আছে, তিনি রাত কাটাতেন 'যুকা' নিয়ে। সুফিয়ান এর ব্যাখ্যা দেন: চিৎকার। সা'দী ও মাআরিফুল কুরআনও ঘটনাটিকে মানত হিসেবেই বলেন।"
+          },
+          {
+            "en": "A different cause appears beside it. Al-Baghawi and al-Qurtubi relay from Ibn 'Abbas, through Juwaybir from ad-Dahhak in al-Baghawi's chain, that when the sciatica struck him the physicians told him to keep away from camel meat, and so he forbade it to himself. Al-Baghawi also gives the view of al-Hasan: Israel forbade himself camel meat as an act of devotion to Allah, then asked his Lord to approve it, and Allah forbade it to his descendants.",
+            "bn": "এর পাশাপাশি আরেকটি কারণের কথাও এসেছে। বাগাভী ও কুরতুবী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, আর বাগাভীর সনদে তা এসেছে জুওয়াইবিরের মাধ্যমে দাহহাক থেকে: সায়াটিকা ধরার পর চিকিৎসকেরা তাঁকে উটের গোশত থেকে দূরে থাকতে বলেন, তাই তিনি তা নিজের উপর হারাম করেন। বাগাভী হাসানের মতও আনেন। তাঁর মতে ইসরাঈল আল্লাহর ইবাদত হিসেবে উটের গোশত নিজের উপর হারাম করেছিলেন, পরে রবের কাছে তা অনুমোদনের আবেদন করেন, আর আল্লাহ তা তাঁর বংশধরদের উপর হারাম করে দেন।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi also relay a longer narrative of how the pain began, set on Ya'qub's road from Harran. Nothing in the verse rests on it, and this article leaves it aside. Whatever the cause, the accounts agree on the two things the verse itself states: the prohibition began with Ya'qub (AS) himself, and it came before the Torah. The argument that follows, about what the Torah contained, rests on those two points alone.",
+            "bn": "ব্যথা কীভাবে শুরু হয়েছিল, তা নিয়ে কুরতুবী ও বাগাভী হাররান থেকে ইয়াকুবের পথযাত্রাকে ঘিরে একটি দীর্ঘ কাহিনিও বর্ণনা করেন। আয়াতের কোনো কথা এর উপর দাঁড়িয়ে নেই, তাই এই লেখায় তা বাদ রাখা হলো। কারণ যা-ই হোক, বর্ণনাগুলো সেই দুটি কথায় একমত, যা আয়াত নিজেই বলে দিয়েছে। নিষেধটা শুরু হয়েছিল ইয়াকুব (আঃ)-এর নিজের পক্ষ থেকে, আর তা ছিল তাওরাতের আগে। তাওরাতে কী ছিল, সামনের সেই যুক্তি শুধু এ দুটি কথার উপরই দাঁড়িয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Permitted in Their Law",
+          "bn": "তাঁদের শরীয়তে যা বৈধ ছিল"
+        },
+        "p": [
+          {
+            "en": "Was Ya'qub's prohibition his own judgement, or made with Allah's leave? Al-Qurtubi records the difference and holds the first correct, because Allah attributes the prohibition to him: illa ma harrama Isra'il. He adds that when a prophet's ijtihad leads him to something and Allah lets it stand, it becomes religion that must be followed, and that without prior leave he would not have ventured to make anything lawful or unlawful. As-Sa'di says only that it was done without a prohibition from Allah.",
+            "bn": "ইয়াকুব (আঃ)-এর এই নিষেধ কি তাঁর নিজস্ব বিবেচনা ছিল, নাকি আল্লাহর অনুমতিতে? কুরতুবী মতভেদটি উল্লেখ করে প্রথমটিকে সঠিক বলেন, কারণ আল্লাহ হারাম করাটা তাঁর দিকেই সম্পর্কিত করেছেন: ইল্লা মা হাররামা ইসরাঈল। তিনি আরও বলেন, নবীর ইজতিহাদ যখন কোনো সিদ্ধান্তে পৌঁছায় আর আল্লাহ তা বহাল রাখেন, তখন তা দ্বীন হয়ে যায়, যা মেনে চলা জরুরি। আগে অনুমতি না থাকলে তিনি কোনো কিছু হালাল বা হারাম করার সাহসই করতেন না। সা'দী শুধু বলেন, এটি আল্লাহর পক্ষ থেকে হারাম করা ছাড়াই ঘটেছিল।"
+          },
+          {
+            "en": "Ibn Kathir describes the act with respect: Ya'qub (AS) left the dearest things for Allah's sake, and this was allowed in their law. In ours, he says, what is prescribed is to spend from what we love, not to forbid what Allah has made lawful. Ma'arif al-Qur'an explains the difference. Their code seems to have let a vow make a lawful thing unlawful; in our Shari'ah such a vow is in reality an oath, which must be broken and expiated, and it cites 66:1, why do you forbid what Allah has made lawful for you?",
+            "bn": "ইবন কাসীর কাজটির কথা বলেন সম্মানের সঙ্গে: ইয়াকুব (আঃ) আল্লাহর জন্য সবচেয়ে প্রিয় জিনিসগুলো ছেড়েছিলেন, আর তাঁদের শরীয়তে এর অনুমতি ছিল। তাঁর মতে আমাদের শরীয়তে বিধান হলো প্রিয় জিনিস থেকে খরচ করা, আল্লাহর হালাল করা জিনিস হারাম করা নয়। মাআরিফুল কুরআন পার্থক্যটা খুলে বলে। মনে হয় তাঁদের বিধানে মানতের মাধ্যমে হালাল জিনিস হারাম হয়ে যেত। আমাদের শরীয়তে এমন মানত আসলে কসম, যা ভেঙে কাফফারা দিতে হয়। এর দলিল হিসেবে সে ৬৬:১ আয়াত আনে: আল্লাহ যা আপনার জন্য হালাল করেছেন, আপনি তা হারাম করছেন কেন?"
+          },
+          {
+            "en": "At-Tabari preserves a scene that shows this at work. A Bedouin came to Ibn 'Abbas who had declared his wife forbidden to himself, and Ibn 'Abbas told him she was not forbidden to him. The man asked why, since Allah says in His Book: except what Israel forbade himself. Ibn 'Abbas laughed and said: what do you know of what Israel forbade himself? Then he turned to the people and told them that sciatica had worn Israel down and he had pledged not to eat sinew; that, he said, is why the Jews remove the sinews from meat.",
+            "bn": "বিষয়টা বাস্তবে কেমন দাঁড়ায়, তার একটি দৃশ্য তাবারী সংরক্ষণ করেছেন। এক বেদুইন ইবন আব্বাস (রাঃ)-এর কাছে এল। সে নিজের স্ত্রীকে নিজের উপর হারাম ঘোষণা করেছিল। ইবন আব্বাস বললেন, সে তোমার জন্য হারাম নয়। লোকটি জানতে চাইল কেন, আল্লাহ তো তাঁর কিতাবে বলেছেন: ইসরাঈল নিজের উপর যা হারাম করেছিলেন তা ছাড়া। ইবন আব্বাস হেসে বললেন, ইসরাঈল নিজের উপর কী হারাম করেছিলেন, তুমি তার কী জানো? তারপর তিনি উপস্থিত লোকদের দিকে ফিরে বললেন, সায়াটিকা ইসরাঈলকে কাবু করে ফেলেছিল, তাই তিনি অঙ্গীকার করেছিলেন শিরা খাবেন না। এ কারণেই ইহুদিরা গোশত থেকে শিরা বের করে ফেলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Did the Torah Repeat It?",
+          "bn": "তাওরাতে কি তা এসেছিল?"
+        },
+        "p": [
+          {
+            "en": "When the Torah came, did it forbid what Ya'qub (AS) had forbidden himself? Here the commentators differ, and at-Tabari sets out the positions. As-Suddi says it did. In his report the Jews said they forbade only what Israel had forbidden himself, and Allah then forbade it to them, so that the challenge means: none but I forbade this to you, for your transgression. As-Suddi ties this to 4:160: for wrongdoing on the part of those who became Jews, We forbade them good things once lawful to them.",
+            "bn": "তাওরাত যখন এল, ইয়াকুব (আঃ) নিজের উপর যা হারাম করেছিলেন, তা কি সেখানেও হারাম হলো? এ প্রশ্নে মুফাসসিরদের মধ্যে মতভেদ আছে, আর তাবারী মতগুলো সাজিয়ে দেন। সুদ্দী বলেন, হ্যাঁ। তাঁর বর্ণনায় ইহুদিরা বলেছিল, ইসরাঈল নিজের উপর যা হারাম করেছিলেন, তারা শুধু সেটাই হারাম মানে। এরপর আল্লাহ তা তাদের উপর হারাম করেন। তখন চ্যালেঞ্জটির অর্থ দাঁড়ায়: তোমাদের সীমালঙ্ঘনের কারণে আমি ছাড়া আর কেউ এটা তোমাদের উপর হারাম করেনি। সুদ্দী এর সঙ্গে ৪:১৬০ আয়াত মেলান: ইহুদি হয়ে যাওয়া লোকদের যুলুমের কারণে আমি তাদের উপর এমন পবিত্র জিনিস হারাম করেছিলাম, যা আগে তাদের জন্য হালাল ছিল।"
+          },
+          {
+            "en": "Others say it did not. Ad-Dahhak, in at-Tabari and al-Baghawi, holds that none of it was forbidden to them in the Torah: they forbade it to themselves following their father, then attributed the prohibition to Allah, and Allah declared them false in that. Ibn 'Abbas, in at-Tabari's reports through al-'Awfi and through Ibn Jurayj, says: it is not in the Torah. Al-Kalbi, in al-Baghawi, says Allah did not forbid it in the Torah but after it, for their wrongdoing, citing 4:160 and 6:146.",
+            "bn": "অন্যরা বলেন, না। তাবারী ও বাগাভীর বর্ণনায় দাহহাকের মত হলো, তাওরাতে এর কিছুই তাদের উপর হারাম করা হয়নি। তারা বাবার অনুসরণে নিজেরাই তা নিজেদের উপর হারাম করেছিল, পরে সেই নিষেধ আল্লাহর নামে চালিয়ে দেয়। আর আল্লাহ এ ব্যাপারে তাদের মিথ্যাবাদী ঘোষণা করেন। আওফী ও ইবন জুরাইজের সূত্রে তাবারীর আনা বর্ণনায় ইবন আব্বাস (রাঃ)-ও বলেন: তাওরাতে এটা নেই। বাগাভীতে কালবীর মত হলো, আল্লাহ তাওরাতে তা হারাম করেননি, বরং তাওরাতের পরে তাদের যুলুমের কারণে হারাম করেছেন। তিনি দলিল হিসেবে ৪:১৬০ ও ৬:১৪৬ আয়াত আনেন।"
+          },
+          {
+            "en": "At-Tabari's own choice: all food was lawful before the Torah except what Israel forbade himself without Allah forbidding it; that was binding on his children by their father's prohibition, until the Torah came and Allah forbade in it what He willed and made lawful what He loved. He finds this in Qatada and in Ibn 'Abbas. The later commentators also differ. Ibn Kathir says the Torah forbade that and more besides; as-Sa'di speaks of other prohibitions in it beyond Israel's, citing 4:160; the Muyassar ties the Torah's food prohibitions to their wrongdoing.",
+            "bn": "তাবারীর নিজের মত হলো: তাওরাতের আগে সব খাবারই হালাল ছিল, শুধু ইসরাঈল আল্লাহর হারাম করা ছাড়াই নিজের উপর যা হারাম করেছিলেন তা ছাড়া। বাবার নিষেধের কারণে তা তাঁর সন্তানদের উপরও বাধ্যতামূলক ছিল। এরপর তাওরাত এল, আর আল্লাহ তাতে যা চাইলেন হারাম করলেন, যা পছন্দ করলেন হালাল করলেন। এ মত তিনি কাতাদা ও ইবন আব্বাস (রাঃ)-এর কথায় খুঁজে পান। পরবর্তী মুফাসসিরদের মধ্যেও ভিন্নতা আছে। ইবন কাসীর বলেন, তাওরাত সেটাও হারাম করেছে, সঙ্গে আরও কিছু। সা'দী বলেন, তাওরাতে ইসরাঈলের হারাম করা জিনিসের বাইরে আরও কিছু হারাম এসেছিল, আর তিনি ৪:১৬০ আয়াত আনেন। মুয়াসসার তাওরাতের খাদ্য-নিষেধগুলোকে তাদের যুলুমের সঙ্গে যুক্ত করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bring the Torah, Recite It",
+          "bn": "তাওরাত আনো, পড়ে শোনাও"
+        },
+        "p": [
+          {
+            "en": "Qul fa'tu bi-t-tawrati fa-tluha in kuntum sadiqin: say, bring the Torah and recite it, if you are truthful. At-Tabari names those addressed: the Jews who claimed that Allah had forbidden the sinews, camel meat and camel milk to them in the Torah. Bring it, he paraphrases, and recite the prohibition from it, so that their false claim about Allah becomes clear to whoever it was hidden from. He calls the command a report from Allah of their falsehood, since they would never bring a sound text that said so.",
+            "bn": "কুল ফা'তূ বিত-তাওরাতি ফাতলূহা ইন কুনতুম সাদিকীন: বলো, তাওরাত নিয়ে এসো এবং তা পড়ে শোনাও, যদি তোমরা সত্যবাদী হও। তাবারী জানান কাদের উদ্দেশে এ কথা: সেই ইহুদিদের, যারা দাবি করত আল্লাহ তাওরাতে তাদের উপর শিরা, উটের গোশত আর উটের দুধ হারাম করেছেন। তাঁর ব্যাখ্যায়, তাওরাত আনো আর সেখান থেকে নিষেধের অংশটা পড়ে শোনাও, যাতে যার কাছে বিষয়টা অস্পষ্ট ছিল, আল্লাহর নামে তাদের মিথ্যা দাবি তার কাছে পরিষ্কার হয়ে যায়। তিনি বলেন, এই আদেশ আসলে আল্লাহর পক্ষ থেকে তাদের মিথ্যার খবর। কারণ এমন কথা লেখা কোনো সঠিক পাঠ তারা কখনো আনতে পারবে না।"
+          },
+          {
+            "en": "He also sees in it a proof of prophethood. This was hidden lore of their forebears, unknown to many of their own community and held only by a few of them; the Prophet ﷺ, unlettered and from outside their community, could not have known it unless Allah informed him. Ad-Dahhak's comment, in al-Qurtubi and al-Baghawi, ends the scene in a short phrase: they did not come. Then 3:94 follows: whoever invents a lie about Allah after that, those are the wrongdoers.",
+            "bn": "তাবারী এর মধ্যে নবুওয়াতের একটি প্রমাণও দেখেন। এটা ছিল তাদের পূর্বপুরুষদের গোপন জ্ঞান। তাদের নিজেদের সম্প্রদায়ের অনেকেই তা জানত না, জানত শুধু অল্প কয়েকজন। নবী ﷺ ছিলেন উম্মী, তাদের সম্প্রদায়ের বাইরের মানুষ। আল্লাহ না জানালে এ কথা তাঁর জানার কথা নয়। কুরতুবী ও বাগাভীতে দাহহাকের মন্তব্য দৃশ্যটি শেষ করে ছোট্ট এক কথায়: তারা আনেনি। এরপরই আসে ৩:৯৪ আয়াত: এরপরও যারা আল্লাহর নামে মিথ্যা রচনা করে, তারাই যালিম।"
+          },
+          {
+            "en": "What prompted the verse is told in more than one way. In at-Tabari's reports from Ibn 'Abbas and ad-Dahhak, the Jews, asked about this prohibition, answered that the Torah had brought it. Al-Baghawi gives as the occasion an objection about Ibrahim (AS) and camel meat, without a chain; Ma'arif relays it from al-Wahidi and al-Kalbi through a later work. None is taken here as the settled occasion; the verse is read from its place in the passage.",
+            "bn": "আয়াতটি কোন প্রেক্ষাপটে এসেছিল, তা একাধিকভাবে বর্ণিত। তাবারীর আনা ইবন আব্বাস (রাঃ) ও দাহহাকের বর্ণনায় আছে, এ নিষেধ সম্পর্কে জিজ্ঞেস করা হলে ইহুদিরা জবাব দিয়েছিল, তাওরাতই এটা এনেছে। বাগাভী প্রেক্ষাপট হিসেবে ইবরাহীম (আঃ) ও উটের গোশত নিয়ে একটি আপত্তির কথা বলেন, কোনো সনদ ছাড়া। মাআরিফুল কুরআন পরবর্তী এক গ্রন্থের মাধ্যমে ওয়াহিদী ও কালবী থেকে একই কথা আনে। এখানে এগুলোর কোনোটিকেই নিশ্চিত প্রেক্ষাপট ধরা হয়নি। আয়াতটি পড়া হয়েছে আলোচনার ধারায় তার অবস্থান থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked About Thunder, Then Israel",
+          "bn": "বজ্রের প্রশ্ন, তারপর ইসরাঈল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir and al-Qurtubi both bring a hadith on the question. In Jami' at-Tirmidhi (no. 3117), Ibn 'Abbas reports that Jews came to the Prophet ﷺ and asked first about thunder. Then: \"They said: 'Then inform us about what Isra'il made unlawful for himself.' He said: 'He suffered from sciatica, and he could not find anything agreeable due to it (to consume) except for camel meat and its milk. So for that reason he made it unlawful.' They said: 'You have told the truth.'\" At-Tirmidhi grades it hasan sahih gharib.",
+            "bn": "ইবন কাসীর ও কুরতুবী দুজনই এ প্রশ্নে একটি হাদীস আনেন। জামে তিরমিযীতে (নং ৩১১৭) ইবন আব্বাস (রাঃ) বর্ণনা করেন, কিছু ইহুদি নবী ﷺ-এর কাছে এসে প্রথমে বজ্র সম্পর্কে জিজ্ঞেস করল। তারপর: \"তারা বলল, তাহলে আমাদের জানান, ইসরাঈল নিজের উপর কী হারাম করেছিলেন? তিনি বললেন: তিনি ইরকুন নাসা রোগে ভুগছিলেন। উটের গোশত আর তার দুধ ছাড়া তাঁর উপযোগী আর কিছু পাননি, সে কারণে তিনি তা হারাম করেছিলেন। তারা বলল: আপনি সত্য বলেছেন।\" তিরমিযী একে হাসান সহীহ গরীব বলেছেন।"
+          },
+          {
+            "en": "Ibn Kathir from Imam Ahmad, and at-Tabari by his own chain, carry a longer report through Shahr ibn Hawshab covering this question among others; it was not confirmed in a graded collection here, so it is not quoted. The verse answers a particular claim made by particular people about their own scripture, in the Prophet's time. It describes what the text describes and licenses nothing against any living person or community. What it leaves every reader is a standard: what is said in Allah's name must be shown from what He sent down.",
+            "bn": "ইবন কাসীর ইমাম আহমাদ থেকে, আর তাবারী নিজের সনদে, শাহর ইবন হাওশাবের সূত্রে আরও দীর্ঘ একটি বর্ণনা আনেন, যেখানে অন্য প্রশ্নের সঙ্গে এ প্রশ্নটিও আছে। কোনো গ্রেডযুক্ত হাদীসগ্রন্থে এখানে তা মিলিয়ে দেখা যায়নি, তাই তা উদ্ধৃত করা হলো না। আয়াতটি নবী ﷺ-এর সময়ের নির্দিষ্ট কিছু মানুষের, তাদের নিজেদের কিতাব নিয়ে করা একটি নির্দিষ্ট দাবির জবাব। পাঠে যা আছে, আয়াত শুধু তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। প্রত্যেক পাঠকের জন্য এটি রেখে যায় একটি মানদণ্ড: আল্লাহর নামে যা বলা হয়, তা তাঁর নাযিল করা বাণী থেকে দেখাতে হবে।"
+          }
+        ]
+      }
+    ]
+  },
   "3:96-97": {
     "sections": [
       {
