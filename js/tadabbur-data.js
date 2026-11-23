@@ -30583,6 +30583,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Guidance and bounty are in Allah's hand alone: do not hoard what you know out of rivalry, and do not resent what He gives to others.",
     "lessonBn": "হিদায়াত আর অনুগ্রহ কেবল আল্লাহর হাতে। প্রতিযোগিতার জেদে জানা কথা আটকে রাখবেন না, আর তিনি অন্যকে যা দেন তা নিয়ে মনে ক্ষোভ পুষবেন না।"
+  },
+  "3:78": {
+    "reflectionEn": "A party among the People of the Book bent their tongues over the Book, so that a listener would take their words for scripture. Then they said outright that it came from Allah, and they knew it did not. The verse names three steps: an impression, a claim, a knowing lie. It describes what that party did and licenses nothing against anyone living today. The mirror it holds is turned towards me. I quote too. I say \"the Qur'an says\" and \"the religion says\" in arguments, in posts, in advice to friends. Do I check before I attach a word to Allah, or do I let a half-remembered line carry the weight of revelation because it wins the point?",
+    "reflectionBn": "আহলে কিতাবের একটি দল কিতাব পড়ার সময় জিভ বাঁকিয়ে কথা বলত, যাতে শ্রোতা তাদের কথাকে কিতাবের অংশ ভেবে নেয়। তারপর তারা সোজাসুজি বলত, এটা আল্লাহর কাছ থেকে এসেছে। অথচ তারা জানত, আসেনি। আয়াতটি তিনটি ধাপ দেখায়: একটা ধারণা তৈরি, একটা দাবি, আর জেনেশুনে মিথ্যা। এখানে সেই দলের কাজের বর্ণনা আছে, আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি নেই। আয়নাটা বরং আমার দিকেই ফেরানো। আমিও তো উদ্ধৃতি দিই। তর্কে, পোস্টে, বন্ধুকে উপদেশ দিতে গিয়ে বলি, কুরআন এ কথা বলে, দ্বীন এ কথা বলে। আল্লাহর নামে কোনো কথা জুড়ে দেওয়ার আগে আমি কি যাচাই করি? নাকি আধা-মনে-থাকা একটা লাইনকে ওহির ওজন দিয়ে ফেলি, শুধু তর্কে জেতার জন্য?",
+    "pointsEn": [
+      "When did I last say \"Islam says\" about something I had not checked, and what would checking have cost me?",
+      "Do I ever give a verse the meaning that suits me and then speak as if that were what Allah meant?",
+      "When a text cuts against what I want, do I read it straight, or start looking for a way to bend it?",
+      "Is there an opinion I hold so firmly that I now present it as the religion itself?",
+      "How often do I say \"I do not know\" about my faith, and is that often enough?"
+    ],
+    "pointsBn": [
+      "যাচাই না করেই শেষ কবে বলেছি, ইসলাম এ কথা বলে? যাচাই করলে আমার কী এমন ক্ষতি হতো?",
+      "কোনো আয়াতকে কি আমি নিজের সুবিধামতো অর্থ দিয়ে তারপর এমনভাবে বলি, যেন আল্লাহ সেটাই বুঝিয়েছেন?",
+      "কোনো আয়াত বা হাদীস যখন আমার চাওয়ার বিপক্ষে যায়, আমি কি সেটা সোজাভাবে পড়ি, নাকি ঘুরিয়ে নেওয়ার পথ খুঁজি?",
+      "এমন কোনো মত কি আছে, যা আঁকড়ে ধরতে ধরতে আমি এখন সেটাকেই দ্বীন বলে চালাই?",
+      "দ্বীনের ব্যাপারে আমি কতবার বলি, আমি জানি না? সেটা কি যথেষ্ট বার?"
+    ],
+    "lessonEn": "Never attach to Allah what He did not say: check before you quote, read a text for its meaning rather than yours, and admit it when you do not know.",
+    "lessonBn": "আল্লাহ যা বলেননি তা কখনো তাঁর নামে চালাবেন না। উদ্ধৃতি দেওয়ার আগে যাচাই করুন, আয়াতকে নিজের মনমতো নয়, তার আসল অর্থে পড়ুন, আর না জানলে স্বীকার করুন যে জানেন না।"
   }
 };
 

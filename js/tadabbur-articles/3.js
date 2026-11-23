@@ -3587,6 +3587,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:78": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Dinar and the Oath",
+          "bn": "দিনার আর শপথের পরে"
+        },
+        "p": [
+          {
+            "en": "The verse ends a short run about the People of the Book that began, at 3:75, with fairness. In 3:75 some of them return a heap of gold left in their trust, while others will not return a single dinar unless you stand over them. That verse ends on the clause this one repeats word for word: and they speak a lie about Allah while they know. Between the two, 3:76 and 3:77 set keeping a covenant against selling it for a small price.",
+            "bn": "আহলে কিতাব নিয়ে যে ছোট আলোচনা ৩:৭৫ আয়াতে ন্যায্যতা দিয়ে শুরু হয়েছিল, এ আয়াতে এসে তা শেষ হয়। ৩:৭৫ আয়াতে তাদের কেউ গচ্ছিত সোনার স্তূপও ফেরত দেয়, আবার কেউ মাথার উপর দাঁড়িয়ে না থাকলে একটা দিনারও ফেরত দেয় না। সেই আয়াত যে বাক্যে শেষ হয়, এ আয়াত হুবহু সেটাই আবার বলে: তারা জেনেশুনে আল্লাহর নামে মিথ্যা বলে। মাঝখানের দুই আয়াত, ৩:৭৬ ও ৩:৭৭, অঙ্গীকার রক্ষার পাশে রেখেছে তুচ্ছ দামে অঙ্গীকার বেচে দেওয়াকে।"
+          },
+          {
+            "en": "At-Tabari ties the pronoun in minhum, among them, back to the People of the Book named in 3:75, and he glosses fariq simply as a group. The verse does not say that they all do this. It opens wa inna minhum la-fariqan, and indeed among them is a party, and the emphasis falls on the fact that such a group exists. The praise of the trustworthy among them, two verses earlier, is still in view.",
+            "bn": "তাবারী বলেন, মিনহুম, অর্থাৎ তাদের মধ্যে, শব্দের সর্বনাম ফিরে গেছে ৩:৭৫ আয়াতে উল্লেখিত আহলে কিতাবের দিকে। ফারীক শব্দের অর্থ তিনি দেন সোজা কথায়: একটি দল। আয়াত বলছে না যে তারা সবাই এমন করে। শুরুটা হলো ওয়া ইন্না মিনহুম লাফারীকান, নিশ্চয়ই তাদের মধ্যে একটি দল আছে। জোরটা পড়েছে এমন একটি দলের অস্তিত্বের উপর। দুই আয়াত আগে তাদের আমানতদারদের যে প্রশংসা, তা এখনো চোখের সামনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wringing, Leaning, Stalling",
+          "bn": "মোচড়, ঝোঁক, টালবাহানা"
+        },
+        "p": [
+          {
+            "en": "Yalwuna alsinatahum bil-kitab: they twist their tongues with the Book. At-Tabari glosses yalwuna as yuharrifuna, they distort. The root of al-layy, he says, is twisting and turning over, as when one man wrings another's hand, and he cites a half-line of verse: lawa yadahu Allahu alladhi huwa ghalibuhu, Allah, who overpowers him, has twisted his hand. A man who is fierce in argument and never beaten is called alwa from the same root. The picture is of a tongue wrung like a wrist.",
+            "bn": "ইয়ালওয়ূনা আলসিনাতাহুম বিলকিতাব: তারা কিতাব নিয়ে নিজেদের জিভ মোচড়ায়। তাবারী ইয়ালওয়ূনার অর্থ করেন ইউহাররিফূন, তারা বিকৃত করে। তাঁর মতে আল-লাইয়ের মূল অর্থ মোচড়ানো ও উল্টে দেওয়া, যেমন কেউ অন্যের হাত মুচড়ে ধরে। এর সমর্থনে তিনি কবিতার আধখানা পঙক্তি আনেন: লাওয়া ইয়াদাহুল্লাহুল্লাযী হুয়া গালিবুহ, যে আল্লাহ তার উপর পরাক্রমশালী, তিনিই তার হাত মুচড়ে দিয়েছেন। একই ধাতু থেকে ঝগড়ায় কঠিন, কখনো হার না মানা লোককে বলা হয় আলওয়া। ছবিটা তাই এমন: কবজির মতো মুচড়ে ধরা একটি জিভ।"
+          },
+          {
+            "en": "Al-Qurtubi gives the root sense as al-mayl, leaning or inclining, and explains the phrase as distorting words and turning them aside from their intent. He links it to layyan bi-alsinatihim in 4:46, which he takes as swerving from the truth out of obstinacy. He also records a reading: Abu Ja'far and Shayba read yulawwuna, with the middle letter doubled, which he says conveys doing it much and often. On that reading the twisting is not a slip of the tongue but a habit.",
+            "bn": "কুরতুবী ধাতুর মূল অর্থ বলেন আল-মাইল, অর্থাৎ ঝুঁকে পড়া বা হেলে যাওয়া। বাক্যটির ব্যাখ্যা তাঁর কাছে এই: তারা কথা বিকৃত করে এবং তার উদ্দেশ্য থেকে সরিয়ে দেয়। তিনি এর সঙ্গে ৪:৪৬ আয়াতের লাইয়্যান বিআলসিনাতিহিম জুড়ে দেন, যার অর্থ তাঁর মতে জেদের বশে সত্য থেকে সরে যাওয়া। একটি কিরাআতও তিনি উল্লেখ করেন। আবু জা'ফর ও শাইবা পড়েছেন ইউলাওয়ূনা, মাঝের অক্ষরে তাশদীদ দিয়ে। কুরতুবীর মতে এতে আছে আধিক্য ও বারবার করার অর্থ। এই কিরাআতে মোচড়টা মুখ ফসকে যাওয়া নয়, বরং অভ্যাস।"
+          },
+          {
+            "en": "Al-Qurtubi adds that layy also means stalling on a debt, citing a hadith that Abu Dawud (3628) has from ash-Sharid: \"Delay in payment on the part of one who possesses means makes it lawful to dishonour and punish him.\" Abu Dawud gives no grading on the page, and the narration explains the word, not this verse. Yet the same root reaches back to 3:75, where a man stalls on a single dinar. Both withhold something owed straight.",
+            "bn": "কুরতুবী আরও বলেন, লাই শব্দের আরেক অর্থ ঋণ পরিশোধে টালবাহানা। এর পক্ষে তিনি একটি হাদীস আনেন, যা আবু দাউদ (৩৬২৮) শারীদ (রাঃ) থেকে বর্ণনা করেছেন: সামর্থ্যবান ব্যক্তির টালবাহানা তার সম্মানহানি ও শাস্তিকে বৈধ করে দেয়। পৃষ্ঠায় আবু দাউদ কোনো মান উল্লেখ করেননি। বর্ণনাটি শব্দের অর্থ বোঝায়, এ আয়াতের ব্যাখ্যা নয়। তবু একই ধাতু আমাদের ফিরিয়ে নেয় ৩:৭৫ আয়াতে, যেখানে এক লোক একটা দিনার নিয়েও টালবাহানা করে। দুজনেই সোজাসুজি প্রাপ্য জিনিস আটকে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hinting First, Then Declaring",
+          "bn": "আগে ইঙ্গিত, পরে ঘোষণা"
+        },
+        "p": [
+          {
+            "en": "The verse moves in three clauses, each answered by a denial. They twist their tongues so that you reckon it part of the Book, and it is not. They say it is from Allah, and it is not. Then they speak a lie about Allah, knowing. As-Sa'di reads the first clause as ta'rid, insinuation, and the second as tasrih, open declaration. The deceit works first on the listener's assumption, then puts the claim into words.",
+            "bn": "আয়াতে তিনটি বাক্য, প্রতিটির জবাবে একটি করে অস্বীকার। তারা জিভ মোচড়ায়, যাতে তোমরা একে কিতাবের অংশ ভাবো, অথচ তা কিতাবের অংশ নয়। তারা বলে, এটা আল্লাহর কাছ থেকে, অথচ তা আল্লাহর কাছ থেকে নয়। এরপর তারা জেনেশুনে আল্লাহর নামে মিথ্যা বলে। সা'দী প্রথম বাক্যটিকে বলেন তা'রীদ, অর্থাৎ ইঙ্গিতে বোঝানো। দ্বিতীয়টি তাসরীহ, প্রকাশ্য ঘোষণা। প্রতারণা প্রথমে কাজ করে শ্রোতার অনুমানের উপর, তারপর দাবিটা মুখে উচ্চারণ করে।"
+          },
+          {
+            "en": "As-Sa'di explains why this is so grave. The purpose of the Book, he says, is that its words be preserved unaltered and its intended meaning understood and passed on, and this party reversed that. He judges it a greater crime than speaking about Allah without knowledge, because they combine three things: denying the true meaning, asserting a false meaning, and laying a word that points to the truth over a corrupt sense, all while they know it.",
+            "bn": "বিষয়টা কেন এত গুরুতর, সা'দী তা ব্যাখ্যা করেন। তাঁর মতে কিতাবের উদ্দেশ্য হলো এর শব্দগুলো অবিকৃত রাখা, আর এর উদ্দিষ্ট অর্থ নিজে বোঝা ও অন্যকে বোঝানো। এই দল ঠিক উল্টোটা করেছে। তিনি একে না জেনে আল্লাহর ব্যাপারে কথা বলার চেয়েও বড় অপরাধ বলেন। কারণ তারা তিনটি জিনিস একসঙ্গে করেছে: সঠিক অর্থ অস্বীকার, ভুল অর্থ প্রতিষ্ঠা, আর সত্য নির্দেশকারী শব্দকে বিকৃত অর্থে বসিয়ে দেওয়া। আর এ সবই জেনেশুনে।"
+          },
+          {
+            "en": "Why would anyone do it? At-Tabari says they deliberately spoke the lie about Allah, bore false witness against Him and attached to His Book what was not from it, seeking leadership and the paltry debris of this world. The Muyassar puts it briefly: for their worldly gain, knowing they lie. Ibn Kathir names the target: the unlearned, who would take it for scripture. The small price of 3:77 has not left the passage.",
+            "bn": "কেউ এমন করে কেন? তাবারীর উত্তর: তারা ইচ্ছা করেই আল্লাহর নামে মিথ্যা বলত, তাঁর ব্যাপারে মিথ্যা সাক্ষ্য দিত, আর তাঁর কিতাবে এমন কিছু জুড়ে দিত যা তার অংশ নয়। উদ্দেশ্য ছিল নেতৃত্ব, আর দুনিয়ার তুচ্ছ কিছু সম্পদ। মুয়াসসার সংক্ষেপে বলে: দুনিয়ার স্বার্থে, জেনেশুনে মিথ্যা বলে। ইবন কাসীর জানিয়ে দেন লক্ষ্যটা কারা: অজ্ঞ লোকেরা, যারা কথাটাকে কিতাবের অংশ ভেবে নেবে। ৩:৭৭ আয়াতের সেই তুচ্ছ দাম এখনো আলোচনা থেকে সরে যায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Letters Altered, or Meanings?",
+          "bn": "অক্ষর বদল, নাকি অর্থ?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari relates from Mujahid that yalwuna means they distort it, and from Ibn Jurayj that it means shifting it from its place. Qatada, with ar-Rabi' saying the same, says they distorted the Book of Allah, innovated in it and claimed it was from Allah. Ibn Abbas, in at-Tabari, says they used to add to the Book of Allah what Allah had not revealed. In al-Baghawi, through ad-Dahhak, he says they altered the Torah and the Injil and attached to Allah's Book what was not from it.",
+            "bn": "তাবারী মুজাহিদ থেকে বর্ণনা করেন, ইয়ালওয়ূনা মানে তারা একে বিকৃত করে। ইবন জুরাইজ বলেন, এটা হলো একে নিজের জায়গা থেকে সরিয়ে দেওয়া। কাতাদা বলেন, আর রাবী'ও একই কথা বলেন: তারা আল্লাহর কিতাব বিকৃত করেছে, তাতে নতুন জিনিস ঢুকিয়েছে, আর দাবি করেছে এটা আল্লাহর কাছ থেকে। তাবারী ইবন আব্বাস (রাঃ) থেকেও বর্ণনা করেন: আল্লাহ যা নাযিল করেননি, তারা তা আল্লাহর কিতাবে বাড়িয়ে দিত। বাগাভী দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন: তারা তাওরাত ও ইঞ্জিল বিকৃত করেছে এবং আল্লাহর কিতাবে এমন জিনিস জুড়ে দিয়েছে যা তার অংশ নয়।"
+          },
+          {
+            "en": "Ibn Kathir relays from Ibn Abi Hatim a different view, from Wahb ibn Munabbih: the Torah and the Injil, as Allah revealed them, have not had a letter changed; people mislead through distortion and false interpretation, and through books they wrote themselves and called Allah's. Ibn Kathir answers with a distinction. If Wahb meant the copies in people's hands, alteration, addition and omission certainly entered them. If he meant Allah's books as they are with Him, those are preserved.",
+            "bn": "ইবন কাসীর ইবন আবী হাতিমের সূত্রে ওয়াহব ইবন মুনাব্বিহের ভিন্ন একটি মত আনেন। তাঁর কথা: আল্লাহ যেভাবে তাওরাত ও ইঞ্জিল নাযিল করেছেন, তার একটি অক্ষরও বদলানো হয়নি। লোকেরা অন্যদের পথভ্রষ্ট করে বিকৃতি আর ভুল ব্যাখ্যা দিয়ে, আর নিজেদের লেখা বই দিয়ে, যেগুলোকে তারা আল্লাহর বলে চালাত। ইবন কাসীর এর জবাব দেন একটি পার্থক্য টেনে। ওয়াহব যদি মানুষের হাতে থাকা কপিগুলো বুঝিয়ে থাকেন, তবে সেগুলোতে পরিবর্তন, সংযোজন ও বিয়োজন অবশ্যই ঢুকেছে। আর যদি আল্লাহর কাছে থাকা তাঁর কিতাব বুঝিয়ে থাকেন, তবে তা সংরক্ষিত।"
+          },
+          {
+            "en": "Ibn Kathir also notes that al-Bukhari relates a statement of Ibn Abbas on this very question. It stands in al-Bukhari as a remark in a chapter heading, not as a connected, numbered narration, and it could not be confirmed on a hadith page here, so this article only mentions it and builds nothing on it. As-Sa'di says the twisting covers both the wording and the meanings. The commentators differ on this, and both readings stand here as they gave them.",
+            "bn": "ইবন কাসীর আরও উল্লেখ করেন যে বুখারী এই প্রশ্নেই ইবন আব্বাস (রাঃ)-এর একটি উক্তি এনেছেন। উক্তিটি বুখারীতে আছে অধ্যায়ের শিরোনামের মন্তব্য হিসেবে, সনদসহ নম্বরযুক্ত বর্ণনা হিসেবে নয়। কোনো হাদীস পৃষ্ঠায় এখানে তা যাচাই করা যায়নি। তাই এ লেখা শুধু এর উল্লেখ করছে, এর উপর কিছু দাঁড় করাচ্ছে না। সা'দী বলেন, এই মোচড় শব্দ ও অর্থ দুটোকেই শামিল করে। এ প্রশ্নে তাফসীরকারদের মধ্যে মতভেদ আছে। দুই মতই এখানে রাখা হলো, যেভাবে তাঁরা বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Party, in Which City",
+          "bn": "কোন দল, কোন শহরে"
+        },
+        "p": [
+          {
+            "en": "Who was meant? At-Tabari says the Jews of the Children of Israel who lived around the Prophet's ﷺ city in his lifetime. Al-Qurtubi says a group of the Jews, and the Muyassar a group of the Jews who claimed that what they said was revealed by Allah to His prophet Musa (AS). Al-Baghawi, however, relates through ad-Dahhak from Ibn Abbas that the verse came down about the Jews and the Christians together. As-Sa'di keeps to the verse's own words: a party of the People of the Book.",
+            "bn": "কাদের কথা বলা হয়েছে? তাবারী বলেন, বনী ইসরাঈলের সেই ইয়াহুদিরা, যারা নবী ﷺ-এর জীবদ্দশায় তাঁর শহরের আশপাশে থাকত। কুরতুবী বলেন, ইয়াহুদিদের একটি দল। মুয়াসসার বলে, ইয়াহুদিদের একটি দল, যারা দাবি করত তাদের কথা আল্লাহ তাঁর নবী মূসা (আঃ)-এর কাছে ওহি করেছেন। অন্যদিকে বাগাভী দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন, আয়াতটি নাযিল হয়েছে ইয়াহুদি ও খ্রিস্টান উভয়কে নিয়ে। সা'দী আয়াতের নিজের শব্দেই থাকেন: আহলে কিতাবের একটি দল।"
+          },
+          {
+            "en": "Al-Baghawi goes further and names five men: Ka'b ibn al-Ashraf, Malik ibn as-Sayf, Huyayy ibn Akhtab, Abu Yasir and Sha'ba ibn 'Amr the poet, with no chain given for the names. He also says what they changed: the description of the Prophet ﷺ, the verse of stoning, and other things. The other commentators fetched for this verse name no individuals, and none of them ties it to a specific incident as its occasion of revelation.",
+            "bn": "বাগাভী আরও এগিয়ে পাঁচজনের নাম বলেন: কা'ব ইবন আশরাফ, মালিক ইবন সাইফ, হুয়াই ইবন আখতাব, আবু ইয়াসির আর কবি শা'বা ইবন আমর। নামগুলোর জন্য কোনো সনদ তিনি দেননি। তারা কী বদলেছিল, তাও তিনি বলেন: নবী ﷺ-এর গুণাবলির বর্ণনা, রজমের আয়াত, আর অন্যান্য বিষয়। এ আয়াতের জন্য অন্য যাঁদের তাফসীর দেখা হয়েছে, তাঁরা কারও নাম বলেননি। নির্দিষ্ট কোনো ঘটনাকে আয়াতটির শানে নুযূল হিসেবেও কেউ উল্লেখ করেননি।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what one party did, at one time, with the scripture in its hands. It licenses nothing against any Jew or Christian living today, nor against any community. The Qur'an's own frame forbids the sweep: it opened this passage in 3:75 by praising those among them who return a heap of gold, and in 3:113 it says plainly that they are not all the same.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে একটি দল একটি নির্দিষ্ট সময়ে নিজেদের হাতের কিতাব নিয়ে কী করেছিল। আজকের কোনো ইয়াহুদি বা খ্রিস্টানের বিরুদ্ধে, কিংবা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এটি দেয় না। কুরআন নিজেই এমন ঢালাও কথা বলতে দেয় না। ৩:৭৫ আয়াতে এ আলোচনা শুরু হয়েছে তাদের মধ্যে যারা সোনার স্তূপ ফেরত দেয়, তাদের প্রশংসা দিয়ে। আর ৩:১১৩ আয়াত স্পষ্ট বলে, তারা সবাই সমান নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Hand Laid Over a Verse",
+          "bn": "আয়াতের উপর রাখা হাত"
+        },
+        "p": [
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith to it as its explanation. The entry Ma'arif al-Qur'an files under this verse concerns the delegation from Najran and the next verse, 3:79, so it is not used here. Al-Baghawi's mention of the verse of stoning, however, points to an episode that al-Bukhari records. No commentator here cites that narration under 3:78, so it is given below as a related report, not as the verse's occasion or its explanation.",
+            "bn": "এ আয়াতের জন্য যত তাফসীর দেখা হয়েছে, তার কোনোটিই এর ব্যাখ্যা হিসেবে কোনো সহীহ হাদীস আনেনি। মাআরিফুল কুরআন এ আয়াতের অধীনে যে বিবরণ রেখেছে, তা নাজরানের প্রতিনিধিদল আর পরের আয়াত ৩:৭৯ নিয়ে। তাই এখানে সেটি নেওয়া হয়নি। তবে বাগাভী যে রজমের আয়াতের কথা বলেছেন, সেই ঘটনাটি বুখারী বর্ণনা করেছেন। এখানকার কোনো তাফসীরকার ৩:৭৮ আয়াতের অধীনে বর্ণনাটি আনেননি। তাই নিচে এটি দেওয়া হলো সম্পর্কিত একটি বর্ণনা হিসেবে, আয়াতের শানে নুযূল বা ব্যাখ্যা হিসেবে নয়।"
+          },
+          {
+            "en": "Al-Bukhari (3635) relates from 'Abdullah ibn 'Umar that some Jews came to the Prophet ﷺ about a man and a woman of theirs who had committed adultery, and he asked what they found in the Torah about stoning. They said they would expose and flog them. 'Abdullah ibn Salam said, \"You are telling a lie; Torah contains the order of Rajm.\" The Torah was opened, and one of them laid his hand over the verse of stoning and read around it. \"Lift your hand,\" said Ibn Salam, and the verse was there.",
+            "bn": "বুখারী (৩৬৩৫) আবদুল্লাহ ইবন উমর (রাঃ) থেকে বর্ণনা করেন: কয়েকজন ইয়াহুদি নবী ﷺ-এর কাছে এসে জানাল, তাদের মধ্যে এক পুরুষ ও এক নারী ব্যভিচার করেছে। তিনি জিজ্ঞেস করলেন, রজম সম্পর্কে তাওরাতে তারা কী পায়। তারা বলল, তারা তাদের লাঞ্ছিত করে, আর তাদের বেত্রাঘাত করা হয়। আবদুল্লাহ ইবন সালাম (রাঃ) বললেন, তোমরা মিথ্যা বলছ, তাওরাতে রজমের বিধান আছে। তাওরাত খোলা হলো। তাদের একজন রজমের আয়াতের উপর হাত রেখে আগে-পরের অংশ পড়ে গেল। ইবন সালাম বললেন, হাত তোলো। হাত তুলতেই দেখা গেল, সেখানে রজমের আয়াত লেখা।"
+          },
+          {
+            "en": "The narration does not settle the question of wording against meaning, and no commentator here uses it to settle it. What it shows is one recorded case of a ruling hidden while the page still carried it: by what was said aloud about the text, and by what the reader chose to skip. The report is in al-Bukhari's Sahih, through Malik from Nafi' from Ibn 'Umar. Its link to this verse is al-Baghawi's example only.",
+            "bn": "শব্দ বদল নাকি অর্থ বদল, সেই প্রশ্নের মীমাংসা এ বর্ণনা করে না। এখানকার কোনো তাফসীরকারও এ দিয়ে মীমাংসা টানেননি। এটি যা দেখায় তা হলো লিপিবদ্ধ একটি ঘটনা, যেখানে পৃষ্ঠায় বিধানটি লেখা থাকা অবস্থাতেই তা লুকানো হয়েছিল। লুকানো হয়েছিল লেখা সম্পর্কে মুখে যা বলা হলো তা দিয়ে, আর পাঠক যে অংশ বাদ দিয়ে পড়ল তা দিয়ে। বর্ণনাটি বুখারীর সহীহ গ্রন্থে আছে, মালিক ও নাফি'-এর সূত্রে ইবন উমর (রাঃ) থেকে। এ আয়াতের সঙ্গে এর সংযোগ শুধু বাগাভীর দেওয়া উদাহরণটুকু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Charge, Other Surahs",
+          "bn": "একই অভিযোগ, অন্য সূরায়"
+        },
+        "p": [
+          {
+            "en": "In 2:75 a party of them heard the words of Allah and distorted them after understanding, while they knew. In 2:79 woe falls on those who write the scripture with their own hands and then say, \"This is from Allah,\" to sell it for a small price. In 4:46 some distort words from their places and speak layyan bi-alsinatihim, twisting their tongues, the phrase al-Qurtubi brings here. In 5:13 they distort words from their places and forget part of what they were reminded of.",
+            "bn": "২:৭৫ আয়াতে তাদের একটি দল আল্লাহর বাণী শুনত, বুঝত, তারপর জেনেশুনে তা বিকৃত করত। ২:৭৯ আয়াতে ধ্বংসের কথা বলা হয়েছে তাদের জন্য, যারা নিজের হাতে কিতাব লিখে বলে, এটা আল্লাহর কাছ থেকে, যাতে তুচ্ছ দামে তা বেচতে পারে। ৪:৪৬ আয়াতে কেউ কেউ শব্দকে তার জায়গা থেকে সরিয়ে দেয় এবং বলে লাইয়্যান বিআলসিনাতিহিম, জিভ মোচড়িয়ে। কুরতুবী এখানে এই শব্দগুচ্ছটিই আনেন। ৫:১৩ আয়াতে তারা শব্দকে তার জায়গা থেকে সরায়, আর যে উপদেশ পেয়েছিল তার একটা অংশ ভুলে যায়।"
+          },
+          {
+            "en": "Read together, these verses describe changing a text, writing beside it and twisting its sound, and 3:78 holds the spoken side of that charge. Closer still is 3:71, which asks why they mix truth with falsehood and conceal the truth while they know. Then the passage turns: 3:79 and 3:80 say what a true prophet given the Book could never tell people, to take him, or the angels and prophets, as lords besides Allah.",
+            "bn": "একসঙ্গে পড়লে আয়াতগুলোতে দেখা যায় কিতাবের লেখা বদলানো, তার পাশে নিজের লেখা জুড়ে দেওয়া, আর পড়ার সময় উচ্চারণ ঘুরিয়ে দেওয়া। ৩:৭৮ আয়াত এই অভিযোগের মুখের দিকটা ধরে। আরও কাছে আছে ৩:৭১। সেখানে প্রশ্ন: কেন তোমরা সত্যকে মিথ্যার সঙ্গে মেশাও, আর জেনেশুনে সত্য গোপন করো? এরপর আলোচনা মোড় নেয়। ৩:৭৯ ও ৩:৮০ আয়াত বলে দেয়, কিতাবপ্রাপ্ত সত্য নবী মানুষকে কখনো কী বলতে পারেন না: আল্লাহকে ছেড়ে তাঁকে, কিংবা ফেরেশতা ও নবীদের রব বানিয়ে নিতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before Saying Allah Says",
+          "bn": "আল্লাহ বলেছেন, বলার আগে"
+        },
+        "p": [
+          {
+            "en": "This is not only a story about other people. Its three steps can happen inside any community that holds a scripture, ours included: a verse quoted without its context because it wins an argument, a custom or an opinion presented as if the Qur'an had said it, a saying passed on as the Prophet's ﷺ without anyone asking where it came from. The verse names the last step without softening it: a lie about Allah, told by people who know.",
+            "bn": "এ আয়াত শুধু অন্যদের গল্প নয়। এর তিনটি ধাপ কিতাবধারী যেকোনো সমাজে ঘটতে পারে, আমাদের সমাজেও। তর্কে জেতার জন্য প্রসঙ্গ বাদ দিয়ে একটা আয়াত উদ্ধৃত করা হয়। একটা প্রথা বা ব্যক্তিগত মতকে এমনভাবে পেশ করা হয়, যেন কুরআনই তা বলেছে। কোনো একটা কথা নবী ﷺ-এর নামে ছড়িয়ে পড়ে, অথচ কেউ জিজ্ঞেস করে না এর উৎস কোথায়। শেষ ধাপটিকে আয়াত নরম করে বলে না: জেনেশুনে আল্লাহর নামে মিথ্যা।"
+          },
+          {
+            "en": "As-Sa'di's account of what the Book is for gives the remedy in plain terms: keep its words as they are, understand what it means, and help others understand it. In practice that means checking a verse or a narration before passing it on, keeping \"the verse says\" apart from \"I understand it to mean\", and naming the scholar whose reading you follow instead of dressing it as revelation. It also means saying Allah knows best when you do not know.",
+            "bn": "কিতাব কিসের জন্য, সা'দীর সেই কথাতেই প্রতিকারটা পরিষ্কার: এর শব্দ যেমন আছে তেমন রাখা, এর অর্থ বোঝা, আর অন্যকে বুঝতে সাহায্য করা। বাস্তবে এর মানে হলো, কোনো আয়াত বা বর্ণনা অন্যকে পাঠানোর আগে যাচাই করা। আয়াত বলছে আর আমি এভাবে বুঝি, এ দুটো আলাদা রাখা। যে আলেমের মত মানছি, তাঁর নাম বলা, সেই মতকে ওহির পোশাক না পরানো। আর না জানলে বলতে পারা, আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "The phrase wa hum ya'lamun, while they know, closes both 3:75 and 3:78. The party in this verse was not ignorant. It knew the Book well enough to be believed, and that was what made the twisting work. Knowledge of the text is a trust before it is an authority. The more a person knows, the more weight the words \"This is from Allah\" carry on that person's tongue, and the more care they ask of the one who says them.",
+            "bn": "ওয়া হুম ইয়া'লামূন, তারা জানে, এই কথা দিয়েই শেষ হয় ৩:৭৫ আর ৩:৭৮ দুটি আয়াত। এ আয়াতের দলটি অজ্ঞ ছিল না। কিতাব তারা এত ভালো জানত যে মানুষ তাদের কথা বিশ্বাস করত। এ কারণেই মোচড়টা কাজ করত। কিতাবের জ্ঞান ক্ষমতা হওয়ার আগে একটি আমানত। একজন মানুষ যত বেশি জানেন, তাঁর মুখে এটা আল্লাহর কাছ থেকে কথাটির ওজন তত বেশি। আর যিনি কথাটা বলেন, তাঁর কাছে কথাটা তত বেশি সতর্কতা দাবি করে।"
+          }
+        ]
+      }
+    ]
+  },
   "3:81-82": {
     "sections": [
       {
