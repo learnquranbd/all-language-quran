@@ -32043,6 +32043,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When the hardest moment arrives, hold your ground and keep Allah on your tongue and in your heart; remembrance is not a pause from steadfastness but what keeps it standing.",
     "lessonBn": "সবচেয়ে কঠিন মুহূর্ত যখন আসে, নিজের জায়গায় অবিচল থাকুন, আর জিহ্বায় ও অন্তরে আল্লাহকে ধরে রাখুন। জিকির অবিচলতা থেকে বিরতি নয়, বরং সেটাই অবিচলতাকে দাঁড় করিয়ে রাখে।"
+  },
+  "8:27": {
+    "reflectionEn": "This verse is not spoken to enemies. It opens with O you who have believed, and then names a danger that only someone on the inside can pose. A stranger can attack you; only a person you trusted can betray you. The trusts it means are many: the duties Allah has laid on me, what His Messenger brought, and what people have left in my keeping, from a secret to a sum of money. Then it ends with the hardest words: while you know. Nobody drifts into betrayal unaware. There is a moment when I see what I am doing and go on with it. What was I trusted with today, and does it look the same in private as in public?",
+    "reflectionBn": "এ আয়াত শত্রুকে ডেকে বলা হয়নি। শুরুতেই ডাক: হে ঈমানদারগণ। তারপর এমন এক বিপদের নাম, যা কেবল ভেতরের মানুষের দিক থেকেই আসতে পারে। অচেনা লোক আক্রমণ করতে পারে, কিন্তু বিশ্বাসঘাতকতা করতে পারে শুধু সে, যাকে আপনি বিশ্বাস করেছিলেন। আয়াতের আমানত অনেক রকম। আল্লাহ আমার উপর যে ফরজ রেখেছেন, তাঁর রাসূল ﷺ যা নিয়ে এসেছেন, আর মানুষ আমার হাতে যা রেখে গেছে, একটা গোপন কথা থেকে কিছু টাকা পর্যন্ত। শেষে সবচেয়ে কঠিন কথাটা: অথচ তোমরা জানো। কেউ না জেনে বিশ্বাস ভাঙে না। একটা মুহূর্ত আসে, যখন আমি দেখি কী করছি, তবু করে যাই। আজ আমার হাতে কী আমানত ছিল? লোকের সামনে আর একা থাকার সময় তার চেহারা কি একই থাকে?",
+    "pointsEn": [
+      "What has been placed in my hands this week, by Allah or by people, that I would not want examined closely?",
+      "Is there a duty I keep carefully in public and quietly cut short when no one is watching?",
+      "Have I passed on something told to me in confidence, while telling myself it did no harm?",
+      "When my family or my money pull against what I know is right, which one usually wins?",
+      "Where do I already know the answer, and am only waiting to see whether anyone will stop me?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে আল্লাহ বা মানুষ আমার হাতে কী তুলে দিয়েছে, যা কেউ খুঁটিয়ে দেখুক তা আমি চাই না?",
+      "এমন কোনো দায়িত্ব কি আছে, যা লোকের সামনে যত্ন করে পালন করি, আর কেউ না দেখলে চুপচাপ কমিয়ে দিই?",
+      "কেউ বিশ্বাস করে যে কথা বলেছিল, তা কি অন্যকে বলে দিয়েছি, আর নিজেকে বুঝিয়েছি এতে কোনো ক্ষতি নেই?",
+      "পরিবার বা টাকাপয়সা যখন আমাকে ঠিক কাজের উল্টো দিকে টানে, সাধারণত কোনটা জেতে?",
+      "কোথায় আমি উত্তরটা আগেই জানি, শুধু দেখছি কেউ আমাকে থামায় কি না?"
+    ],
+    "lessonEn": "Betrayal needs trust before it can happen: guard what Allah and people have placed in your hands, in private as in public, since you already know its weight.",
+    "lessonBn": "বিশ্বাস না থাকলে বিশ্বাসঘাতকতাও হয় না। আল্লাহ ও মানুষ আপনার হাতে যা রেখেছে, তা লোকের সামনে যেমন, একা থাকলেও তেমনি আগলে রাখুন, কারণ এর ভার আপনি আগেই জানেন।"
   }
 };
 

@@ -1231,6 +1231,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:27": {
+    "sections": [
+      {
+        "h": {
+          "en": "After Shelter, a Warning",
+          "bn": "আশ্রয়ের পরে সতর্কবাণী"
+        },
+        "p": [
+          {
+            "en": "Ya ayyuha alladhina amanu: O you who have believed. The same address opens 8:24, where the believers are told to answer Allah and the Messenger, and 8:29, where they are promised a furqan, a criterion, if they fear Allah. Between those two calls this verse sets a prohibition: la takhunu, do not betray. Of the three, only this one forbids, where the others call and promise.",
+            "bn": "ইয়া আইয়ুহাল্লাযীনা আমানূ: হে ঈমানদারগণ। একই ডাক দিয়ে শুরু হয়েছে ৮:২৪, যেখানে মুমিনদের বলা হয়েছে আল্লাহ ও রাসূলের ডাকে সাড়া দিতে। ৮:২৯-ও শুরু হয়েছে এভাবে, সেখানে প্রতিশ্রুতি: আল্লাহকে ভয় করলে তিনি দেবেন ফুরকান, ভালো-মন্দ চেনার মানদণ্ড। এ দুই ডাকের মাঝখানে এই আয়াত রেখেছে একটি নিষেধ: লা তাখূনূ, বিশ্বাসঘাতকতা কোরো না। তিনটির মধ্যে কেবল এটিই নিষেধ, বাকি দুটি ডাক আর প্রতিশ্রুতি।"
+          },
+          {
+            "en": "The verse before it, 8:26, tells the believers to remember when they were few and oppressed in the land, afraid that people would snatch them away, and how Allah sheltered them, strengthened them and provided for them. The verse after it, 8:28, names wealth and children as a trial, and Ma'arif al-Qur'an reads that as the other half of this warning: attachment to property and children is usually what makes a person fall short in the rights owed to others.",
+            "bn": "আগের আয়াত ৮:২৬ মুমিনদের মনে করিয়ে দেয় সেই সময়ের কথা, যখন তারা ছিল সংখ্যায় অল্প, দেশে দুর্বল, ভয় পেত কখন লোকে তাদের ছোঁ মেরে তুলে নিয়ে যায়। তারপর আল্লাহ তাদের আশ্রয় দিলেন, শক্তি দিলেন, রিজিক দিলেন। পরের আয়াত ৮:২৮ সম্পদ ও সন্তানকে বলেছে পরীক্ষা। মাআরিফুল কুরআন এটাকে এই সতর্কবাণীর বাকি অর্ধেক হিসেবে পড়ে। তার কথায়, মানুষের হক আদায়ে কমতির পেছনে সাধারণত থাকে সম্পদ আর সন্তানের প্রতি টান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Khiyanah Works Under Cover",
+          "bn": "খিয়ানত চলে আড়ালে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi defines khiyanah in two terms: al-ghadr, treachery, and ikhfa' ash-shay', the hiding of a thing. For the second he points to 40:19, where Allah knows kha'inat al-a'yun, the treachery of the eyes, a betrayal done where no one sees it. On that definition betrayal is more than harm. It is harm done under cover, by someone already trusted.",
+            "bn": "কুরতুবী খিয়ানতের সংজ্ঞা দেন দুই শব্দে: আল-গাদর, অর্থাৎ বিশ্বাস ভেঙে প্রতারণা, আর ইখফাউশ শাই, কোনো কিছু লুকিয়ে রাখা। দ্বিতীয় অর্থের দৃষ্টান্ত হিসেবে তিনি ৪০:১৯ আয়াতের দিকে ইঙ্গিত করেন, যেখানে আল্লাহ জানেন খাইনাতাল আ'য়ুন, চোখের খিয়ানত। এমন খিয়ানত, যা কেউ দেখে না। এ সংজ্ঞায় বিশ্বাসঘাতকতা কেবল ক্ষতি করা নয়। এ হলো আড়ালে থেকে ক্ষতি করা, আর তা করে এমন কেউ, যাকে আগেই বিশ্বাস করা হয়েছে।"
+          },
+          {
+            "en": "Its opposite in the verse is amanah, trust, here in the plural amanat. Al-Qurtubi says a trust is so called because with it a person is safe from having his due withheld; the word comes from amn, safety. As-Sa'di sets the two qualities against each other. Whoever betrays the trust, he says, has marked himself with the basest of qualities and the ugliest of traits, which is khiyanah, and has lost the most complete and perfect of them, which is amanah.",
+            "bn": "আয়াতে এর বিপরীত শব্দ আমানত, এখানে বহুবচনে। কুরতুবী বলেন, আমানতকে আমানত বলা হয় কারণ এর সঙ্গে থাকলে মানুষ নিরাপদ থাকে, তার পাওনা আটকে যাওয়ার ভয় থাকে না। শব্দটি এসেছে আমন থেকে, যার অর্থ নিরাপত্তা। সা'দী দুই গুণকে মুখোমুখি দাঁড় করান। তাঁর ভাষায়, যে আমানতে খিয়ানত করল, সে নিজের গায়ে লাগাল সবচেয়ে হীন গুণ আর সবচেয়ে কুৎসিত দাগ, আর তা হলো খিয়ানত। আর হারাল সবচেয়ে পূর্ণ ও নিখুঁত গুণটি, অর্থাৎ আমানতদারি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How One Betrays Allah",
+          "bn": "আল্লাহর সঙ্গে খিয়ানত কেমন করে"
+        },
+        "p": [
+          {
+            "en": "How can anyone betray Allah? At-Tabari describes the betrayal of people who showed the Messenger ﷺ and the believers faith and sincere counsel outwardly while hiding disbelief and deceit inside, pointing the polytheists to the believers' weak points and passing them news that had been kept from them. The Muyassar puts it in words that reach every believer: a person betrays Allah and His Messenger by leaving what Allah made obligatory and doing what He forbade.",
+            "bn": "আল্লাহর সঙ্গে কেউ বিশ্বাসঘাতকতা করে কীভাবে? তাবারী যে খিয়ানতের বর্ণনা দেন, তা ছিল এমন লোকদের কাজ, যারা রাসূল ﷺ ও মুমিনদের সামনে ঈমান আর আন্তরিকতা দেখাত, কিন্তু ভেতরে লুকিয়ে রাখত কুফর আর প্রতারণা। তারা মুশরিকদের দেখিয়ে দিত মুমিনদের দুর্বল জায়গা, জানিয়ে দিত এমন খবর যা তাদের কাছ থেকে গোপন রাখা হয়েছিল। মুয়াসসার কথাটা বলে এমনভাবে, যা প্রত্যেক মুমিনের গায়ে লাগে: আল্লাহ যা ফরজ করেছেন তা ছেড়ে দেওয়া আর যা নিষেধ করেছেন তা করা, এটাই আল্লাহ ও তাঁর রাসূলের সঙ্গে খিয়ানত।"
+          },
+          {
+            "en": "Ibn Abbas, through Ali ibn Abi Talhah in at-Tabari, says a person betrays Allah by abandoning His obligations, and the Messenger by abandoning his sunnah and committing disobedience to him. As-Suddi, quoted by at-Tabari, Ibn Kathir and al-Baghawi, describes people who heard talk from the Prophet ﷺ and spread it until it reached the polytheists. Ibn Zayd, in at-Tabari and Ibn Kathir, puts it briefly: He forbade you to betray Allah and the Messenger as the hypocrites did.",
+            "bn": "আলী ইবন আবী তালহার সূত্রে তাবারী ইবন আব্বাস (রাঃ)-এর কথা আনেন: আল্লাহর ফরজগুলো ছেড়ে দেওয়া হলো আল্লাহর সঙ্গে খিয়ানত। আর রাসূলের সুন্নাত ছেড়ে দেওয়া ও তাঁর নাফরমানি করা হলো রাসূলের সঙ্গে খিয়ানত। সুদ্দীর কথা এনেছেন তাবারী, ইবন কাসীর ও বাগাভী। তিনি এমন লোকদের কথা বলেন, যারা নবী ﷺ-এর কাছে কোনো কথা শুনত, তারপর তা ছড়িয়ে দিত, শেষে তা মুশরিকদের কানে পৌঁছে যেত। ইবন যায়দ সংক্ষেপে বলেন, তাবারী ও ইবন কাসীরে যেমন আছে: মুনাফিকরা যেভাবে আল্লাহ ও রাসূলের সঙ্গে খিয়ানত করেছিল, তোমাদের তেমন করতে নিষেধ করা হয়েছে।"
+          },
+          {
+            "en": "Urwah ibn az-Zubayr, through Ibn Ishaq in Ibn Kathir (at-Tabari has the same words from Ibn Ishaq), reads the verse as a warning against showing Allah outwardly the truth He is pleased with and then opposing Him in secret for something else, which he calls the ruin of one's trusts and a betrayal of oneself. Al-Qurtubi records, with qila, that the verse means stealing from the spoils. It is ascribed to Allah because He commanded how they are divided, and to the Messenger ﷺ because he conveyed that command and administered it.",
+            "bn": "ইবন কাসীর ইবন ইসহাকের সূত্রে উরওয়া ইবনুয যুবাইরের কথা আনেন, আর তাবারী একই কথা আনেন ইবন ইসহাক থেকে। উরওয়া আয়াতটিকে পড়েন এক সতর্কবাণী হিসেবে। বাইরে আল্লাহকে সেই সত্য দেখানো, যাতে তিনি খুশি হন, তারপর গোপনে অন্য কিছুর জন্য তাঁর বিরুদ্ধে চলা। উরওয়ার ভাষায় এ হলো নিজের আমানত ধ্বংস করা আর নিজের সঙ্গেই খিয়ানত। কুরতুবী 'কীলা' বলে আরেকটি মত আনেন: এখানে উদ্দেশ্য গনিমতের মাল চুরি। এর সম্পর্ক আল্লাহর সঙ্গে, কারণ বণ্টনের হুকুম তিনিই দিয়েছেন। আর রাসূল ﷺ-এর সঙ্গে, কারণ তিনিই আল্লাহর পক্ষ থেকে সে হুকুম পৌঁছে দেন এবং বণ্টনের দায়িত্বে থাকেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Prohibition, or a Pairing",
+          "bn": "এক নিষেধ, নাকি জোড়া নিষেধ"
+        },
+        "p": [
+          {
+            "en": "Wa-takhunu amanatikum: and betray your trusts. The commentators ask whether this is a fresh prohibition or part of the first. At-Tabari reports one reading from as-Suddi and Ibn Ishaq: if you betray Allah and the Messenger, you have by that betrayed your trusts. On this view the second verb stands in the accusative 'ala as-sarf, a construction that forbids two things together, and he cites the line of verse: do not forbid a habit and then practise its like; great is the shame on you if you do.",
+            "bn": "ওয়া তাখূনূ আমানাতিকুম: আর তোমাদের আমানতে খিয়ানত কোরো না। তাফসীরকারেরা প্রশ্ন তোলেন, এটা কি নতুন একটা নিষেধ, নাকি প্রথম নিষেধেরই অংশ? তাবারী সুদ্দী ও ইবন ইসহাক থেকে একটি পাঠ আনেন: আল্লাহ ও রাসূলের সঙ্গে খিয়ানত করলে সেটাই তোমাদের আমানতের সঙ্গে খিয়ানত। এ পাঠে দ্বিতীয় ক্রিয়াটি নসব অবস্থায়, যাকে বলা হয় 'আলাস সারফ'। এ গঠন দুটি কাজকে একসঙ্গে করতে নিষেধ করে। তাবারী এর সাক্ষী হিসেবে একটি কবিতার চরণ আনেন: যে স্বভাব থেকে অন্যকে নিষেধ করো, নিজে তেমন কাজ কোরো না। করলে তোমার লজ্জা হবে বড়।"
+          },
+          {
+            "en": "The other reading is Ibn Abbas's in at-Tabari: do not betray Allah and the Messenger, and do not betray your trusts, two prohibitions side by side. Al-Qurtubi gives this first, taking the verb as jussive and joined to the first. He allows the other too, comparing the saying: do not eat fish and drink milk, which forbids the pairing rather than each thing alone.",
+            "bn": "অন্য পাঠটি ইবন আব্বাসের, তাবারীতে যেমন আছে: আল্লাহ ও রাসূলের সঙ্গে খিয়ানত কোরো না, আর তোমাদের আমানতেও খিয়ানত কোরো না। অর্থাৎ পাশাপাশি দুটি আলাদা নিষেধ। কুরতুবী এটিকেই আগে আনেন। তাঁর মতে ক্রিয়াটি জযম অবস্থায়, প্রথম নিষেধের সঙ্গে যুক্ত। তবে অন্য পাঠটিও তিনি সম্ভব মনে করেন, আর তুলনা দেন আরবদের একটি বাক্যের: মাছ খেয়ো না আর দুধ পান কোরো না। এখানে নিষেধ দুটিকে একসঙ্গে মেলানোর, আলাদা আলাদা প্রতিটির নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Duties Kept Out of Sight",
+          "bn": "চোখের আড়ালের ফরজ"
+        },
+        "p": [
+          {
+            "en": "What are the amanat? Ibn Abbas, in at-Tabari and Ibn Kathir, says they are the deeds Allah has entrusted to His servants, meaning the obligations, and that betraying them means la tanqusuha, do not diminish them; Ibn Kathir's text reads la tanqaduha, do not break them. At-Tabari also lists, as the view of some, that the trusts are those of Allah's obligations that are hidden from people's eyes, and al-Baghawi gives the same in Ibn Abbas's name. For Ibn Zayd, in at-Tabari, they are your religion.",
+            "bn": "আমানত বলতে কী বোঝায়? তাবারী ও ইবন কাসীরে ইবন আব্বাস (রাঃ) বলেন, এ হলো সেই আমল, যা আল্লাহ বান্দাদের হাতে আমানত হিসেবে দিয়েছেন, অর্থাৎ ফরজসমূহ। আর এতে খিয়ানতের মানে লা তানকুসূহা, এগুলোতে কমতি কোরো না। ইবন কাসীরের পাঠে আছে লা তানকুদূহা, এগুলো ভেঙো না। তাবারী কারও কারও মত হিসেবে আরেকটি কথাও আনেন: আমানত হলো আল্লাহর সেই ফরজগুলো, যা মানুষের চোখের আড়ালে থাকে। বাগাভী একই কথা আনেন ইবন আব্বাসের নামে। আর তাবারীতে ইবন যায়দের মতে, আমানত মানে তোমাদের দ্বীন।"
+          },
+          {
+            "en": "Qatada, in al-Baghawi, joins the two sides of the word: know that the religion of Allah is a trust, so render to Allah what He entrusted you with of His obligations and limits, and whoever holds a trust, let him render it to whoever entrusted him. Ma'arif al-Qur'an speaks of rights owed to Allah and rights owed to His servants, and of two ways to breach them: failing to fulfil them at all, or fulfilling them defectively. Ibn Kathir says betrayal takes in sins small and great, those that stay with the doer and those that pass on to others.",
+            "bn": "বাগাভীতে কাতাদা শব্দটির দুই দিক একসঙ্গে ধরেন: জেনে রেখো, আল্লাহর দ্বীন এক আমানত। তাই আল্লাহ তোমাদের হাতে তাঁর যে ফরজ ও সীমারেখা আমানত রেখেছেন, তা তাঁকে বুঝিয়ে দাও। আর যার কাছে কারও আমানত আছে, সে যেন যে রেখেছে তাকে তা ফিরিয়ে দেয়। মাআরিফুল কুরআন বলে দুই রকম হকের কথা, আল্লাহর হক আর বান্দার হক। এগুলোতে খিয়ানত হয় দুইভাবে: একেবারেই আদায় না করে, অথবা ত্রুটি রেখে আদায় করে। ইবন কাসীর বলেন, খিয়ানতের মধ্যে পড়ে ছোট-বড় সব গুনাহ, যার ক্ষতি নিজের মধ্যে থাকে সেগুলোও, আর যার ক্ষতি অন্যের কাছে পৌঁছায় সেগুলোও।"
+          },
+          {
+            "en": "As-Sa'di reads the trust as everything Allah has entrusted of His commands and prohibitions, and ties it to 33:72: the trust offered to the heavens, the earth and the mountains, which they declined in fear and which man took up. At-Tabari's paraphrase sums it up. Do not shortchange Allah in His rights over you, nor His Messenger in the obedience you owe him, and do not shortchange your religion and the deeds that are binding on you, while you know that they are binding.",
+            "bn": "সা'দী আমানত বলতে বোঝেন আল্লাহর সব আদেশ ও নিষেধ, যা তিনি বান্দার কাছে গচ্ছিত রেখেছেন। তিনি এটাকে জুড়ে দেন ৩৩:৭২ আয়াতের সঙ্গে: যে আমানত আসমান, জমিন আর পাহাড়ের সামনে পেশ করা হয়েছিল, তারা ভয়ে তা বইতে অস্বীকার করেছিল, আর মানুষ তা তুলে নিয়েছিল। তাবারীর ব্যাখ্যায় পুরো কথাটা সংক্ষেপে আছে। আল্লাহর যে হক তোমাদের উপর, তাতে কমতি কোরো না। রাসূলের যে আনুগত্য তোমাদের উপর ওয়াজিব, তাতেও না। আর তোমাদের দ্বীন ও যে আমল তোমাদের উপর জরুরি, তাতেও কমতি কোরো না, যখন তোমরা জানো যে এগুলো তোমাদের উপর জরুরি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing, and Going Ahead",
+          "bn": "জেনেও এগিয়ে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "The verse closes wa-antum ta'lamun: while you know. Knowing what? Al-Qurtubi says you know the ugliness and the shame that lie in betrayal, and adds, with qila, that you know it is a trust. Al-Baghawi says you know that it is a trust, and gives a second reading in which you know that what you did, the pointing to the throat, was a betrayal; that ties the clause to the report about Abu Lubabah. At-Tabari says you know these duties bind you, by proofs Allah has established against you.",
+            "bn": "আয়াত শেষ হয় ওয়া আনতুম তা'লামূন দিয়ে: অথচ তোমরা জানো। কী জানো? কুরতুবী বলেন, তোমরা জানো খিয়ানতের মধ্যে কত কদর্যতা আর লজ্জা আছে। 'কীলা' বলে তিনি যোগ করেন, তোমরা জানো যে এটা আমানত। বাগাভী বলেন, তোমরা জানো যে এটা আমানত। তাঁর দ্বিতীয় ব্যাখ্যায়, তোমরা জানো যে তোমরা যা করেছ, গলার দিকে ইশারা করা, তা খিয়ানত ছিল। এ ব্যাখ্যা বাক্যটিকে আবু লুবাবার ঘটনার সঙ্গে জুড়ে দেয়। তাবারী বলেন, তোমরা জানো এ দায়িত্বগুলো তোমাদের উপর বাধ্যতামূলক, আল্লাহ সে বিষয়ে তোমাদের সামনে প্রমাণ দাঁড় করিয়েছেন।"
+          },
+          {
+            "en": "Ibn Zayd, in at-Tabari, reads the clause against the hypocrites: they did it while knowing that they were disbelievers who showed faith, and he recited 4:142, which says that when they stand for prayer they stand lazily. Ma'arif al-Qur'an turns the clause into an appeal to sense: they already knew that breach of trust is an evil deed, so to go ahead with it is not what an intelligent person would choose. Read together, the clause leaves no room for the plea of ignorance. What remains is the choice.",
+            "bn": "তাবারীতে ইবন যায়দ বাক্যটিকে পড়েন মুনাফিকদের প্রসঙ্গে। তারা জানত যে তারা কাফির, তবু বাইরে ঈমান দেখাত। এর প্রমাণে তিনি তিলাওয়াত করেন ৪:১৪২, যেখানে বলা হয়েছে, তারা নামাজে দাঁড়ালে দাঁড়ায় অলস ভঙ্গিতে। মাআরিফুল কুরআন বাক্যটিকে বিবেকের কাছে আবেদন হিসেবে পড়ে। তারা তো আগেই জানত, আমানতে খিয়ানত মন্দ কাজ। কাজেই জেনেশুনে তা করা কোনো বুদ্ধিমান মানুষের পছন্দ হতে পারে না। ব্যাখ্যাগুলো একসঙ্গে পড়লে 'জানতাম না' বলার সুযোগ আর থাকে না। বাকি থাকে শুধু বেছে নেওয়ার দায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports That Stay Reports",
+          "bn": "বর্ণনা, যা বর্ণনাই থাকে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari says the commentators differed over whom the verse came down about. Some said a hypocrite who wrote to Abu Sufyan with the Muslims' secret; at-Tabari carries it through Jabir ibn Abdullah, and Ibn Kathir calls it very gharib, open to question in its chain and its narrative. Others said Abu Lubabah, over Banu Qurayzah: at-Tabari has it from az-Zuhri and Abdullah ibn Abi Qatada, al-Baghawi from az-Zuhri and al-Kalbi. A report from al-Mughirah ibn Shu'bah, in at-Tabari and Ibn Kathir, names the killing of Uthman (RA).",
+            "bn": "তাবারী বলেন, আয়াতটি কার ব্যাপারে নাযিল হয়েছে, তা নিয়ে তাফসীরকারদের মতভেদ আছে। কেউ বলেন, এক মুনাফিকের ব্যাপারে, যে আবূ সুফিয়ানকে চিঠি লিখে মুসলমানদের গোপন খবর জানিয়েছিল। তাবারী এটি আনেন জাবির ইবন আবদুল্লাহ (রাঃ)-এর সূত্রে। ইবন কাসীর একে বলেন অত্যন্ত গরীব, আর বলেন এর সনদ ও বর্ণনাধারা দুটোই প্রশ্নসাপেক্ষ। অন্যরা বলেন, আবু লুবাবার ব্যাপারে, বনু কুরাইযার ঘটনায়। তাবারী এটি আনেন যুহরী ও আবদুল্লাহ ইবন আবী কাতাদা থেকে, বাগাভী আনেন যুহরী ও কালবী থেকে। মুগীরা ইবন শু'বা (রাঃ)-এর একটি বর্ণনা, তাবারী ও ইবন কাসীর দুজনেই যা এনেছেন, এর সঙ্গে উসমান (রাঃ)-এর হত্যার কথা জোড়ে।"
+          },
+          {
+            "en": "Al-Qurtubi adds, with qila, those who passed the Prophet's ﷺ words on to the polytheists, and Ibn Kathir adds the story of Hatib ibn Abi Balta'ah from the two Sahihs. At-Tabari's verdict: the soundest thing to say is that Allah forbade the believers to betray Him, His Messenger and their trust; it may have come down about Abu Lubabah or about someone else, and we have no report on which it was that must be accepted as sound. Ibn Kathir agrees: the verse is general, and most scholars follow the generality of its wording, not its particular cause.",
+            "bn": "কুরতুবী 'কীলা' বলে আরেকটি মত যোগ করেন: যারা নবী ﷺ-এর কথা শুনে মুশরিকদের কাছে পৌঁছে দিত, আয়াত তাদের ব্যাপারে। আর ইবন কাসীর যোগ করেন দুই সহীহ গ্রন্থে, বুখারী ও মুসলিমে বর্ণিত হাতিব ইবন আবী বালতাআ (রাঃ)-এর ঘটনা। তাবারীর সিদ্ধান্ত: সবচেয়ে সঠিক কথা হলো, আল্লাহ মুমিনদের নিষেধ করেছেন তাঁর সঙ্গে, তাঁর রাসূলের সঙ্গে আর তাদের আমানতের সঙ্গে খিয়ানত করতে। আয়াতটি আবু লুবাবার ব্যাপারে নাযিল হতে পারে, অন্য কারও ব্যাপারেও হতে পারে। কোনটা ঠিক, সে বিষয়ে এমন কোনো বর্ণনা আমাদের কাছে নেই, যাকে সহীহ বলে মেনে নিতেই হয়। ইবন কাসীরও একমত: আয়াতটি ব্যাপক, আর অধিকাংশ আলিম শব্দের ব্যাপকতা ধরেন, নির্দিষ্ট উপলক্ষ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Feet That Would Not Move",
+          "bn": "যে পা নড়েনি"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi's account, from az-Zuhri and al-Kalbi, gives the detail. Banu Qurayzah, under siege, asked for Abu Lubabah ibn Abd al-Mundhir (RA), who was well disposed to them because his wealth, his children and his family were among them, and asked him whether to submit to the judgement of Sa'd ibn Mu'adh. He pointed to his throat: it means slaughter. Then, as al-Baghawi and al-Qurtubi relay his words: by Allah, my feet had not moved from their place before I knew that I had betrayed Allah and His Messenger.",
+            "bn": "বাগাভী যুহরী ও কালবীর সূত্রে ঘটনার বিস্তারিত দেন। অবরুদ্ধ বনু কুরাইযা আবু লুবাবা ইবন আবদিল মুনযির (রাঃ)-কে পাঠাতে বলে। তিনি তাদের প্রতি সহানুভূতিশীল ছিলেন, কারণ তাঁর সম্পদ, সন্তান আর পরিবার ছিল তাদের মাঝে। তারা তাঁকে জিজ্ঞেস করে, সা'দ ইবন মুআয (রাঃ)-এর ফয়সালা মেনে কি তারা নেমে আসবে? তিনি হাত দিয়ে নিজের গলার দিকে ইশারা করেন: এর মানে জবাই। তারপর তাঁর নিজের কথা, বাগাভী ও কুরতুবী যেমন এনেছেন: আল্লাহর কসম, আমার পা দুটো জায়গা থেকে নড়ার আগেই আমি বুঝে গেলাম, আমি আল্লাহ ও তাঁর রাসূলের সঙ্গে খিয়ানত করে ফেলেছি।"
+          },
+          {
+            "en": "He went to the mosque instead of to the Prophet ﷺ, bound himself to one of its pillars, and swore to taste neither food nor drink until he died or Allah turned to him. At-Tabari's report and al-Baghawi give seven days, Ibn Kathir nine, until he fell unconscious; then his repentance came. He let no one untie him but the Messenger ﷺ, who did it with his own hand. His later offer of his wealth, and the reply it received, reach us only through these reports and are not quoted here. Al-Qurtubi calls the account well known.",
+            "bn": "তিনি নবী ﷺ-এর কাছে না গিয়ে গেলেন মসজিদে। একটি খুঁটির সঙ্গে নিজেকে বেঁধে কসম খেলেন, মৃত্যু পর্যন্ত বা আল্লাহ তাঁর তওবা কবুল না করা পর্যন্ত কোনো খাবার বা পানীয় মুখে দেবেন না। তাবারীর বর্ণনা আর বাগাভীতে আছে ৭ দিন, ইবন কাসীরে ৯ দিন। শেষে তিনি অজ্ঞান হয়ে পড়েন, তারপর তওবা কবুল হয়। রাসূল ﷺ ছাড়া আর কাউকে তিনি বাঁধন খুলতে দেননি, আর রাসূল ﷺ নিজ হাতে তা খুলে দেন। এরপর তিনি নিজের সম্পদ দান করে দিতে চেয়েছিলেন। সে প্রস্তাব আর তার যে জবাব এসেছিল, তা আমাদের কাছে পৌঁছেছে কেবল এই বর্ণনাগুলোর মাধ্যমে, তাই এখানে উদ্ধৃত করা হলো না। কুরতুবী পুরো ঘটনাকে বলেন সুপরিচিত বর্ণনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pulled by What One Loves",
+          "bn": "ভালোবাসার টানে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's other story is in Sahih al-Bukhari (3983), narrated by Ali (RA). When Hatib's letter to the polytheists was intercepted, Umar (RA) said: O Messenger of Allah, he has betrayed Allah, His Messenger and the believers, so let me strike his neck. Asked what had made him do it, Hatib said: by Allah, it is not that I am not a believer in Allah and His Messenger; I wanted to have a favour with the people by which Allah would protect my family and my property. The Prophet ﷺ said: He has spoken the truth, so say nothing to him but good.",
+            "bn": "ইবন কাসীরের অন্য ঘটনাটি আছে সহীহ বুখারীতে (৩৯৮৩), আলী (রাঃ)-এর বর্ণনায়। মুশরিকদের কাছে লেখা হাতিবের চিঠি যখন ধরা পড়ল, উমর (রাঃ) বললেন: হে আল্লাহর রাসূল, সে আল্লাহ, তাঁর রাসূল ও মুমিনদের সঙ্গে খিয়ানত করেছে, আমাকে অনুমতি দিন, তার গর্দান উড়িয়ে দিই। কেন এমন করলেন, জিজ্ঞেস করা হলে হাতিব বললেন: আল্লাহর কসম, আল্লাহ ও তাঁর রাসূলের উপর আমার ঈমান নেই, ব্যাপারটা তা নয়। আমি চেয়েছিলাম ওই লোকদের উপর আমার একটা অনুগ্রহ থাকুক, যার মাধ্যমে আল্লাহ আমার পরিবার আর সম্পদ রক্ষা করবেন। নবী ﷺ বললেন: সে সত্য বলেছে, তাকে ভালো ছাড়া আর কিছু বোলো না।"
+          },
+          {
+            "en": "Two details repeat. Al-Baghawi says Abu Lubabah leaned toward Qurayzah because his wealth and children were there; Hatib wrote to protect his family and property. The next verse, 8:28, says that your wealth and your children are only a trial. These are reports about named people long past; the verse licenses no charge of treachery against any living person or community: when Umar called Hatib a betrayer, the Prophet ﷺ answered that he had told the truth. What the verse reaches today is the reader's own keeping of trusts.",
+            "bn": "দুটি ঘটনায় একটা জিনিস ফিরে ফিরে আসে। বাগাভী বলেন, আবু লুবাবার টান ছিল কুরাইযার দিকে, কারণ সেখানে ছিল তাঁর সম্পদ আর সন্তান। হাতিব চিঠি লিখেছিলেন পরিবার আর সম্পদ বাঁচাতে। আর পরের আয়াত ৮:২৮ বলে, তোমাদের সম্পদ ও সন্তান তো কেবলই পরীক্ষা। এগুলো বহু আগের নির্দিষ্ট কয়েকজন মানুষের বর্ণনা। আজকের কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে বিশ্বাসঘাতকতার অভিযোগ তোলার অনুমতি এ আয়াত দেয় না। উমর (রাঃ) যখন হাতিবকে খিয়ানতকারী বললেন, নবী ﷺ জবাব দিলেন, সে সত্য বলেছে। আজ এ আয়াত যার কাছে পৌঁছায়, তা পাঠকের নিজের আমানত রক্ষা।"
+          },
+          {
+            "en": "Under the word khiyanah, al-Qurtubi cites a supplication. An-Nasa'i records it (5469) from Abu Hurayrah: the Messenger of Allah ﷺ used to say, O Allah, I seek refuge in You from hunger, for it is an evil bedfellow, and from treachery, for it is an evil inner companion. It is a general narration, not about this verse's revelation, and an-Nasa'i gives no grading of it.",
+            "bn": "খিয়ানত শব্দের আলোচনায় কুরতুবী একটি দোয়া উদ্ধৃত করেন। নাসাঈ আবূ হুরায়রা (রাঃ) থেকে তা বর্ণনা করেছেন (৫৪৬৯): আল্লাহর রাসূল ﷺ বলতেন, হে আল্লাহ, আমি তোমার কাছে আশ্রয় চাই ক্ষুধা থেকে, কারণ তা নিকৃষ্ট শয্যাসঙ্গী, আর খিয়ানত থেকে, কারণ তা নিকৃষ্ট অন্তরঙ্গ সঙ্গী। এটি সাধারণ একটি হাদীস, এ আয়াত নাযিলের সঙ্গে এর সম্পর্ক নেই, আর নাসাঈ এর কোনো মান উল্লেখ করেননি।"
+          }
+        ]
+      }
+    ]
+  },
   "8:29": {
     "sections": [
       {
