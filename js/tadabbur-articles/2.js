@@ -611,6 +611,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "2:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Second Picture, in Rain",
+          "bn": "বৃষ্টিতে আঁকা দ্বিতীয় ছবি"
+        },
+        "p": [
+          {
+            "en": "The opening of al-Baqarah has drawn three groups: the believers, the deniers, and, from 2:8, those who say they believe and do not. After the hypocrites' trade of guidance for error in 2:16, the surah turns to pictures. The first, in 2:17, is a man who kindles a fire and loses its light as soon as it shines. Then 2:19 begins with one small word, aw, or, and opens a second scene: a downpour from the sky, carrying darkness, thunder and lightning.",
+            "bn": "সূরা বাকারার শুরুতে তিনটি দলের ছবি আঁকা হয়েছে: মুমিন, অস্বীকারকারী, আর ২:৮ থেকে সেই লোকেরা, যারা মুখে ঈমানের কথা বলে অথচ ঈমান আনেনি। ২:১৬ আয়াতে মুনাফিকদের সেই সওদার কথা আসে, যেখানে তারা হিদায়াত দিয়ে গোমরাহী কিনেছে। এরপর সূরাটি উপমার দিকে মোড় নেয়। প্রথম উপমা ২:১৭ আয়াতে: এক লোক আগুন জ্বালায়, আর আলো ছড়াতেই তা হারিয়ে ফেলে। তারপর ২:১৯ শুরু হয় ছোট্ট একটি শব্দ দিয়ে, আও, অর্থাৎ অথবা। খুলে যায় দ্বিতীয় দৃশ্য: আকাশ থেকে নামা প্রবল বর্ষণ, যার ভেতরে অন্ধকার, বজ্রের গর্জন আর বিদ্যুতের ঝলক।"
+          },
+          {
+            "en": "The verse moves in three steps: the scene, rain with darkness, thunder and lightning inside it; the people caught in it, fingers pressed into their ears against the thunderbolts for fear of death; and a closing line outside the picture, and Allah encompasses the disbelievers. 2:20 carries the image on and has its own reading. Ibn Kathir calls this another parable Allah struck; for whom it was struck is the commentators' first dispute.",
+            "bn": "আয়াতটি এগোয় তিনটি ধাপে। প্রথমে দৃশ্য: বৃষ্টি, আর তার ভেতরে অন্ধকার, বজ্র ও বিদ্যুৎ। তারপর সেই ঝড়ে আটকে পড়া লোকেরা, বজ্রপাতের ভয়ে, মৃত্যুর আশঙ্কায় যারা কানে আঙুল গুঁজে দিয়েছে। শেষে ছবির বাইরের এক বাক্য: আর আল্লাহ কাফিরদের ঘিরে রেখেছেন। ২:২০ আয়াত ছবিটাকে আরও এগিয়ে নেয়, তবে তার আলোচনা আলাদা। ইবন কাসীর বলেন, এটি আল্লাহর দেওয়া আরেকটি উপমা। উপমাটা কাদের জন্য, তাফসীরকারদের প্রথম মতভেদ এখানেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sayyib, Zulumat, Sawa'iq",
+          "bn": "সাইয়িব, যুলুমাত, সাওয়াইক"
+        },
+        "p": [
+          {
+            "en": "Sayyib is rain that comes down. At-Tabari takes it from saba yasubu, said of rain when it descends, and al-Qurtubi and al-Baghawi give the same root. Ibn Kathir lists those who said it means rain: Ibn Mas'ud and Ibn Abbas (RA), other Companions, and after them Mujahid, Qatada, al-Hasan al-Basri, as-Suddi and more. Ad-Dahhak said it is the cloud; the better-known view, Ibn Kathir says, is rain. As-Sa'di adds abundance: rain that pours down heavily.",
+            "bn": "সাইয়িব মানে নেমে আসা বৃষ্টি। তাবারী শব্দটি নেন 'সাবা ইয়াসূবু' থেকে, বৃষ্টি নেমে এলে আরবরা এ কথা বলে। কুরতুবী ও বাগাভীও একই ধাতুর কথা বলেন। যাঁরা এর অর্থ বৃষ্টি বলেছেন, ইবন কাসীর তাঁদের নাম গোনেন: ইবন মাসউদ ও ইবন আব্বাস (রাঃ), আরও কয়েকজন সাহাবী, আর পরবর্তীদের মধ্যে মুজাহিদ, কাতাদা, হাসান বাসরী, সুদ্দী প্রমুখ। দাহহাক বলেছেন, এর মানে মেঘ। ইবন কাসীরের মতে বেশি প্রসিদ্ধ মত বৃষ্টি। সা'দী যোগ করেন প্রাচুর্যের অর্থ: যে বৃষ্টি ঝরে অঝোরে।"
+          },
+          {
+            "en": "Zulumat, darkness, is plural. Al-Qurtubi says it points to the darkness of night and of heavy cloud, piled on one another; as-Sa'di counts three, the night, the cloud and the rain. Ra'd, for as-Sa'di and al-Baghawi, is the sound heard from the clouds; barq, for as-Sa'di, the flash seen with them. Sawa'iq, which the fingers guard against, al-Baghawi defines as the cry that kills whoever hears it or makes him faint; Ibn Kathir calls it fire falling from the sky in violent thunder.",
+            "bn": "যুলুমাত, অর্থাৎ অন্ধকার, শব্দটি বহুবচন। কুরতুবী বলেন, এতে বোঝানো হয়েছে রাতের অন্ধকার আর ঘন মেঘের অন্ধকার, যা একটার উপর আরেকটা চেপে থাকে। সা'দী গোনেন তিনটি: রাত, মেঘ আর বৃষ্টির অন্ধকার। রা'দ সা'দী ও বাগাভীর কাছে মেঘ থেকে আসা শব্দ। বারক সা'দীর কাছে মেঘের সঙ্গে দেখা আলোর ঝলক। আঙুল দিয়ে যা ঠেকানো হচ্ছে, সেই সাওয়াইক সম্পর্কে বাগাভী বলেন: এমন চিৎকার, যা শুনলে মানুষ মারা যায় বা বেহুঁশ হয়ে পড়ে। ইবন কাসীরের কাছে এটা সেই আগুন, যা প্রচণ্ড বজ্রের সময় আকাশ থেকে পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Weight of One Aw",
+          "bn": "একটি 'আও'-এর ভার"
+        },
+        "p": [
+          {
+            "en": "Why or? At-Tabari raises the objection himself: aw usually marks doubt, as in your brother or your father met me, and doubt cannot be ascribed to Allah. His answer is that aw can carry the sense of wa, and, when the context shows it, and he cites lines of Tawba ibn al-Humayyir and Jarir. Al-Qurtubi records this view from at-Tabari and al-Farra. On this reading both pictures describe the same hypocrites, and mathal, likeness, is dropped because 2:17 already supplied it.",
+            "bn": "অথবা কেন? আপত্তিটা তাবারী নিজেই তোলেন। আও সাধারণত সন্দেহ বোঝায়, যেমন: তোমার ভাই বা তোমার বাবা আমার সঙ্গে দেখা করেছে। অথচ আল্লাহর দিকে সন্দেহ জোড়া যায় না। তাবারীর জবাব: প্রসঙ্গ যখন বুঝিয়ে দেয়, তখন আও 'ওয়া' অর্থাৎ 'এবং'-এর অর্থও বহন করে। প্রমাণ হিসেবে তিনি তাওবা ইবনুল হুমাইয়ির আর জারীরের কবিতা আনেন। কুরতুবী এ মত তাবারী ও ফাররা থেকে উল্লেখ করেন। এ পাঠে দুটি ছবিই একই মুনাফিকদের। আর 'মাসাল', অর্থাৎ উপমা শব্দটি বাদ পড়েছে, কারণ ২:১৭ আয়াতে তা আগেই এসেছে।"
+          },
+          {
+            "en": "A second reading makes aw a word of choice. Al-Baghawi puts it plainly: if you wish, liken them to the man who kindled the fire, and if you wish, to the people of the rain. Al-Qurtubi agrees, adding that the choice does not confine them to either picture. Al-Baghawi also records the view that aw here means and, comparing 37:147, a hundred thousand or more. Both readings keep one group of hypocrites, seen through two windows.",
+            "bn": "দ্বিতীয় পাঠে আও মানে বেছে নেওয়ার স্বাধীনতা। বাগাভী সোজা কথায় বলেন: চাইলে তাদের তুলনা করো আগুন জ্বালানো লোকটির সঙ্গে, চাইলে বৃষ্টিতে আটকে পড়া লোকদের সঙ্গে। কুরতুবীও তা-ই বলেন, সঙ্গে যোগ করেন যে এই বেছে নেওয়া তাদের কোনো একটি ছবিতে আটকে রাখে না। বাগাভী আরেকটি মতও উল্লেখ করেন: এখানে আও মানে 'এবং', যেমন ৩৭:১৪৭ আয়াতে, এক লাখ বা তারও বেশি। এ দুটি পাঠেই মুনাফিকদের দল একটাই, শুধু দুটি জানালা দিয়ে দেখা।"
+          },
+          {
+            "en": "Ibn Kathir reads it differently. He quotes the view that both parables concern a single kind of hypocrite, then says the descriptions differ because the hypocrites differ. The fire is for the complete hypocrites; the rain is for the hesitant, whose light of faith is sometimes lit and sometimes put out, and whom he judges less evil. He points to Surat at-Tawbah, which says and among them three times, and to 24:39 and 24:40. The Muyassar and Ma'arif al-Qur'an also speak of a second group.",
+            "bn": "ইবন কাসীর ভিন্নভাবে পড়েন। দুটি উপমাই একই ধরনের মুনাফিক নিয়ে, এই মত উদ্ধৃত করে তিনি বলেন, বর্ণনা আলাদা কারণ মুনাফিকরাও আলাদা। আগুনের উপমা খাঁটি মুনাফিকদের জন্য। বৃষ্টির উপমা দোদুল্যমানদের জন্য, যাদের ঈমানের আলো কখনো জ্বলে, কখনো নিভে যায়। তাঁর বিচারে এরা প্রথম দলের চেয়ে কম মন্দ। তিনি সূরা তাওবার দিকে ইঙ্গিত করেন, যেখানে 'তাদের মধ্যে কেউ কেউ' কথাটি তিনবার এসেছে, আর ২৪:৩৯ ও ২৪:৪০ আয়াতের দিকেও। মুয়াসসার ও মাআরিফুল কুরআনও দ্বিতীয় এক দলের কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading the Storm's Parts",
+          "bn": "ঝড়ের প্রতিটি অংশের পাঠ"
+        },
+        "p": [
+          {
+            "en": "The commentators all read the storm as a picture, and the readings do not match. At-Tabari draws the reports together. The rain is the outward confession the hypocrites make with their tongues; the darkness in it, the doubt, denial and sickness of heart they hide. The thunder and thunderbolts are their dread of the threats Allah sent down on His Messenger's tongue, to fall in this world or the next. The lightning, in his summary of the reports, is the light of their faith.",
+            "bn": "তাফসীরকারেরা সবাই ঝড়টাকে কোনো কিছুর ছবি হিসেবে পড়েন, তবে সবার পাঠ মেলে না। তাবারী বর্ণনাগুলো এক জায়গায় আনেন। বৃষ্টি হলো মুনাফিকদের মুখের বাহ্যিক স্বীকারোক্তি। তার ভেতরের অন্ধকার সেই সন্দেহ, অস্বীকার আর অন্তরের রোগ, যা তারা লুকিয়ে রাখে। বজ্র আর বজ্রপাত হলো সেই সব হুমকির ভয়, যা আল্লাহ তাঁর রাসূলের মুখে নাযিল করেছেন, দুনিয়াতে বা আখিরাতে যা নেমে আসতে পারে। আর বর্ণনাগুলোর সারকথায় বিদ্যুৎ হলো তাদের ঈমানের আলো।"
+          },
+          {
+            "en": "Ibn Kathir maps the storm onto the hesitant hypocrite's inner life. The darkness is doubt, disbelief and hypocrisy. The thunder is the fear that jolts their hearts, for alarm is their habit, and he cites 63:4, they think every shout is against them, with 9:56 and 9:57. The lightning is the light of faith that flashes in their hearts at times. Al-Qurtubi's own reading is shorter: the darkness stands for their disbelief, the thunder and lightning for what they are made to fear.",
+            "bn": "ইবন কাসীর ছবিটা বসান দোদুল্যমান মুনাফিকের ভেতরের জগতে। অন্ধকার হলো সন্দেহ, কুফর আর নিফাক। বজ্র হলো সেই ভয়, যা তাদের অন্তর কাঁপিয়ে দেয়। ভয় আর আতঙ্ক মুনাফিকদের স্বভাব। প্রমাণ হিসেবে তিনি আনেন ৬৩:৪ আয়াত, তারা প্রতিটি আওয়াজকে নিজেদের বিরুদ্ধে মনে করে, আর ৯:৫৬ ও ৯:৫৭ আয়াত। বিদ্যুৎ হলো ঈমানের সেই আলো, যা মাঝে মাঝে তাদের অন্তরে ঝিলিক দিয়ে ওঠে। কুরতুবীর নিজের পাঠ আরও সংক্ষিপ্ত। অন্ধকার তাদের লালন করা কুফরের উপমা, আর বজ্র ও বিদ্যুৎ সেই সব কিছুর উপমা, যা দিয়ে তাদের ভয় দেখানো হয়।"
+          },
+          {
+            "en": "Al-Qurtubi then records a view that the rain is the Qur'an itself: its darkness what they find obscure in it, its thunder its threats and rebukes, its lightning its light and dazzling proofs, its thunderbolts its call to fight now and its threat for later. Another view he records makes the thunderbolts the duties of the Shari'a they dislike, such as jihad and zakat. At-Tabari carries a report, through Ali ibn Abi Talha from Ibn Abbas (RA), reading the darkness as trial and the thunder as warning.",
+            "bn": "এরপর কুরতুবী 'বলা হয়েছে' বলে একটি মত আনেন: বৃষ্টি হলো স্বয়ং কুরআন। তাদের কাছে কুরআনের যা দুর্বোধ্য ঠেকে, সেটাই অন্ধকার। এর হুমকি ও ধমক হলো বজ্র। এর আলো আর চোখ ধাঁধানো প্রমাণগুলো বিদ্যুৎ। আর বজ্রপাত হলো এখনই যুদ্ধে যাওয়ার ডাক আর পরকালের হুমকি। তাঁর উল্লেখ করা আরেকটি মতে বজ্রপাত হলো শরীয়তের সেই সব দায়িত্ব, যা তারা অপছন্দ করে, যেমন জিহাদ ও যাকাত। তাবারী আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা আনেন। তাতে অন্ধকার মানে পরীক্ষা, আর বজ্র মানে সতর্কবাণী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fingers Pressed Into Ears",
+          "bn": "কানে গোঁজা আঙুল"
+        },
+        "p": [
+          {
+            "en": "Why the fingers? Al-Qurtubi answers sharply: so as not to hear the Qur'an and come to believe in it and in Muhammad ﷺ, since belief, in their eyes, was disbelief, and disbelief was death. At-Tabari reads the gesture as a likeness of their tactic. As a frightened man covers his ears against the crash, the hypocrites shielded themselves from the Prophet ﷺ and the believers with the confession on their tongues, in case the threats proved true.",
+            "bn": "আঙুল কেন? কুরতুবীর জবাব তীক্ষ্ণ: যাতে কুরআন শুনে তার উপর আর মুহাম্মাদ ﷺ-এর উপর ঈমান এনে না ফেলে। কারণ তাদের চোখে ঈমান আনাটাই ছিল কুফর, আর কুফর মানে মৃত্যু। তাবারী এই ভঙ্গিকে তাদের কৌশলের উপমা হিসেবে পড়েন। ভীত মানুষ যেমন বজ্রের শব্দ থেকে বাঁচতে কান ঢাকে, মুনাফিকরাও তেমনি মুখের স্বীকারোক্তিকে ঢাল বানিয়ে নবী ﷺ ও মুমিনদের থেকে নিজেদের আড়াল করত, পাছে হুমকিগুলো সত্যি হয়।"
+          },
+          {
+            "en": "At-Tabari also relays, through as-Suddi, a report from Ibn Mas'ud and Ibn Abbas (RA) that hypocrites in the Prophet's gathering would push their fingers into their ears, afraid a verse might come down about them. He says he does not know it to be sound, doubting its chain; were it sound it would settle the matter, and since it is not, his own reading is the more fitting. Qatada and Ibn Jurayj, he adds, took the gesture as a picture of panic and dislike of death, citing 63:4.",
+            "bn": "তাবারী সুদ্দীর সূত্রে ইবন মাসউদ ও ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনাও আনেন: মুনাফিকরা নবীর মজলিসে বসে কানে আঙুল ঢুকিয়ে দিত, পাছে তাদের নিয়ে কোনো আয়াত নেমে আসে। তবে তিনি বলেন, বর্ণনাটি সহীহ বলে তাঁর জানা নেই, এর সনদ নিয়ে তাঁর সন্দেহ আছে। সহীহ হলে সেটাই হতো চূড়ান্ত কথা। কিন্তু যেহেতু তা প্রমাণিত নয়, তাঁর নিজের ব্যাখ্যাই বেশি উপযুক্ত। তিনি আরও জানান, কাতাদা ও ইবন জুরাইজ এই ভঙ্গিকে পড়েছেন আতঙ্ক আর মৃত্যুকে অপছন্দ করার ছবি হিসেবে। তাঁদের প্রমাণ ৬৩:৪ আয়াত।"
+          },
+          {
+            "en": "At-Tabari disagrees. Among the hypocrites, he says, were men of undeniable courage, and he names Quzman, who stood his ground at Uhud as no believer did. Their reluctance to march with the Prophet ﷺ came from having no insight into their religion and no belief in him, not from fear for their lives. So the dread of death here, for at-Tabari, is fear of Allah's punishment for their hypocrisy, now or later. Qatada and Ibn Jurayj hold the first view, at-Tabari the second, and the difference stands.",
+            "bn": "তাবারী তাঁদের সঙ্গে একমত নন। তিনি বলেন, মুনাফিকদের মধ্যে এমন লোকও ছিল, যাদের সাহস কেউ অস্বীকার করতে পারত না। তিনি কুযমানের নাম নেন, উহুদে যে এমনভাবে লড়েছিল যেভাবে কোনো মুমিনও লড়েনি। নবী ﷺ-এর সঙ্গে যুদ্ধে যেতে তাদের অনীহার কারণ প্রাণের ভয় নয়। কারণ ছিল, নিজেদের দ্বীন সম্পর্কে তাদের কোনো অন্তর্দৃষ্টি ছিল না, রাসূলের উপর বিশ্বাসও ছিল না। তাই তাবারীর মতে এখানে মৃত্যুর ভয় মানে নিফাকের জন্য আল্লাহর শাস্তির ভয়, এখনই হোক বা পরে। এক দিকে কাতাদা ও ইবন জুরাইজ, অন্য দিকে তাবারী: মতভেদটা থেকেই যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Closed In From Every Side",
+          "bn": "চারদিক থেকে ঘেরা"
+        },
+        "p": [
+          {
+            "en": "Then the verse steps out of the parable: wallahu muhitun bil-kafirin. Al-Qurtubi explains the word from ordinary speech: the ruler encompassed so-and-so, meaning he seized him, closing in from every side; all creatures are in Allah's grasp and under His power. He records two further senses: that He knows them fully, citing 65:12, and that He will destroy and gather them, citing 12:66, unless you are surrounded, that is, unless you all perish.",
+            "bn": "এরপর আয়াতটি উপমার বাইরে চলে আসে: ওয়াল্লাহু মুহীতুম বিল কাফিরীন। কুরতুবী শব্দটা বোঝান চলতি কথার উদাহরণ দিয়ে। শাসক কাউকে চারদিক থেকে ঘিরে ধরে পাকড়াও করলে আরবরা বলে, শাসক তাকে বেষ্টন করেছে। সব সৃষ্টি আল্লাহর মুঠোয় আর তাঁর ক্ষমতার অধীন। তিনি আরও দুটি অর্থ উল্লেখ করেন। একটি হলো, তিনি তাদের পুরোপুরি জানেন, প্রমাণ ৬৫:১২ আয়াত। অন্যটি হলো, তিনি তাদের ধ্বংস করবেন ও একত্র করবেন, প্রমাণ ১২:৬৬ আয়াত: যদি না তোমরা ঘেরাও হয়ে পড়, অর্থাৎ সবাই ধ্বংস হয়ে যাও।"
+          },
+          {
+            "en": "The others run along the same lines. Al-Baghawi gives knowing them, gathering them and destroying them, with Mujahid's words: He gathers them, then punishes them. At-Tabari reads it as gathering them to bring His punishment down, in this world or the Hereafter. Ibn Kathir draws the consequence: their caution avails them nothing, and he cites 85:20; the Muyassar says they neither slip past Him nor defeat Him. Why name the disbelievers, when the subject is the hypocrites? Al-Qurtubi answers: because mention of them came before.",
+            "bn": "অন্যরাও একই পথে চলেন। বাগাভী তিনটি অর্থ দেন: তাদের জানা, একত্র করা আর ধ্বংস করা। সঙ্গে মুজাহিদের কথা: তিনি তাদের একত্র করবেন, তারপর শাস্তি দেবেন। তাবারীর পাঠে এর মানে, তিনি তাদের একত্র করে শাস্তি নামাবেন, দুনিয়াতে বা আখিরাতে। ইবন কাসীর এর ফল বের করেন: তাদের সতর্কতা কোনো কাজে আসে না। তিনি ৮৫:২০ আয়াত উল্লেখ করেন। মুয়াসসার বলে: তারা তাঁর হাত ফসকে যেতে পারে না, তাঁকে হারাতেও পারে না। বিষয় যখন মুনাফিকরা, তখন কাফিরদের নাম কেন? কুরতুবীর জবাব: আগে তাদের কথা এসেছে বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Thunder Is",
+          "bn": "বজ্র আসলে কী"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi opens the question of what thunder is with a narration in at-Tirmidhi. At-Tirmidhi (3117) records from Ibn Abbas (RA): The Jews came to the Prophet ﷺ and said, O Abul-Qasim, tell us about thunder, what is it? He said: An angel among the angels, put in charge of the clouds, with whips of fire by which he drives the clouds wherever Allah wills. They said: Then what is this sound we hear? He said: His urging of the clouds when he urges them, until they reach where they are commanded. They said: You have spoken the truth.",
+            "bn": "বজ্র কী, এ প্রশ্নে কুরতুবী শুরু করেন তিরমিযীর একটি বর্ণনা দিয়ে। তিরমিযী (৩১১৭) ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: ইহুদিরা নবী ﷺ-এর কাছে এসে বলল, হে আবুল কাসিম, আমাদের বলুন, বজ্র কী? তিনি বললেন: ফেরেশতাদের মধ্যে একজন ফেরেশতা, যাকে মেঘের দায়িত্ব দেওয়া হয়েছে। তার সঙ্গে আছে আগুনের চাবুক, যা দিয়ে সে মেঘকে হাঁকিয়ে নিয়ে যায়, যেখানে আল্লাহ চান। তারা বলল: তাহলে এই যে শব্দ আমরা শুনি, এটা কী? তিনি বললেন: মেঘকে তার হাঁক দেওয়া, যখন সে হাঁকায়, যতক্ষণ না মেঘ পৌঁছায় যেখানে তাকে আদেশ করা হয়েছে। তারা বলল: আপনি সত্য বলেছেন।"
+          },
+          {
+            "en": "The narration goes on to a second question, about what Israel forbade himself, and at-Tirmidhi grades it hasan sahih gharib. It speaks of thunder in general and does not mention this verse; al-Qurtubi brings it here and says most scholars hold to it. At-Tabari records the angel view from Mujahid, Ikrima, Shahr ibn Hawshab and Ibn Abbas, beside Abu al-Jald's reply to Ibn Abbas that thunder is wind. Al-Qurtubi rejects, as unsupported by any transmission, the claim that thunder is clouds colliding.",
+            "bn": "বর্ণনাটি এরপর দ্বিতীয় এক প্রশ্নে যায়: ইসরাঈল নিজের জন্য কী হারাম করেছিলেন। তিরমিযী একে হাসান সহীহ গরীব বলেছেন। বর্ণনাটি সাধারণভাবে বজ্র নিয়ে, এ আয়াতের উল্লেখ এতে নেই। কুরতুবী একে এখানে আনেন এবং বলেন, বেশির ভাগ আলেম এই মতের উপর। তাবারী ফেরেশতার মতটি আনেন মুজাহিদ, ইকরিমা, শাহর ইবন হাওশাব আর ইবন আব্বাস থেকে। পাশাপাশি আনেন ইবন আব্বাসকে লেখা আবুল জালদের জবাব, যাতে বজ্রকে বলা হয়েছে বাতাস। বজ্র মানে মেঘে মেঘে ঠোকাঠুকি, এমন দাবি কুরতুবী নাকচ করেন, কারণ কোনো বর্ণনায় এর সমর্থন নেই।"
+          },
+          {
+            "en": "At-Tabari draws out what the angel reading means for the wording: if thunder is the angel driving the clouds, the verse speaks of its sound, since the angel is not inside the falling rain; if it is wind, nothing is left unsaid. A supplication on hearing thunder, which al-Baghawi and al-Qurtubi relay from Ibn Umar (RA), is recorded by at-Tirmidhi, who calls it gharib. No sound hadith in these tafsirs is attached to the verse itself.",
+            "bn": "ফেরেশতার পাঠ মানলে আয়াতের শব্দে কী দাঁড়ায়, তাবারী তা খুলে বলেন। বজ্র যদি মেঘ হাঁকানো ফেরেশতা হয়, তবে আয়াতে বলা হচ্ছে তার শব্দের কথা, কারণ সেই ফেরেশতা ঝরে পড়া বৃষ্টির ভেতরে থাকে না। আর বজ্র যদি বাতাস হয়, তাহলে বাক্যে কিছু উহ্য নেই। বজ্রের শব্দ শুনে পড়ার একটি দোয়া বাগাভী ও কুরতুবী ইবন উমর (রাঃ) থেকে আনেন। তিরমিযী সেটি বর্ণনা করেছেন এবং গরীব বলেছেন। এসব তাফসীরে আয়াতটির সঙ্গে সরাসরি জোড়া কোনো সহীহ হাদীস নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Storm Turned Inward",
+          "bn": "নিজের দিকে ফেরানো ঝড়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes the hypocrites the Qur'an describes, in Madinah in the Prophet's time ﷺ, and the judgement in it belongs to Allah, who knew what their hearts held. It licenses nothing against any living person or community. No reader can see the darkness inside another person's chest, or tell which flash in a neighbour's heart is faith. To pin this storm on a named Muslim, a group or a people is to claim a knowledge the verse leaves with Allah alone.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। কুরআন যে মুনাফিকদের বর্ণনা দেয়, আয়াতটি তাদেরই কথা বলছে, নবী ﷺ-এর সময়ের মদীনায়। এর রায় আল্লাহর, যিনি জানতেন তাদের অন্তরে কী ছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। অন্যের বুকের ভেতরের অন্ধকার কোনো পাঠক দেখতে পায় না। প্রতিবেশীর অন্তরে কোন ঝলকটা ঈমান, তাও সে বলতে পারে না। কোনো নির্দিষ্ট মুসলিম, কোনো দল বা কোনো জাতির গায়ে এই ঝড়ের ছবি সেঁটে দেওয়া মানে এমন জ্ঞানের দাবি করা, যা আয়াতটি কেবল আল্লাহর জন্য রেখেছে।"
+          },
+          {
+            "en": "What the verse does give the reader is a mirror. Ibn Kathir says that a person may carry a share of faith and a share of hypocrisy, in deed or in belief, and he sets the hesitant hypocrite of this parable apart from the complete one. The question for the reader, then, is not which of the people around me is standing in the rain. It is whether some warning has reached me that I keep my fingers pressed against.",
+            "bn": "আয়াতটি পাঠককে যা দেয়, তা একটা আয়না। ইবন কাসীর বলেন, একজন মানুষের মধ্যে ঈমানের একটা অংশ আর নিফাকের একটা অংশ একসঙ্গে থাকতে পারে, আমলে হোক বা বিশ্বাসে। এই উপমার দোদুল্যমান মুনাফিককে তিনি খাঁটি মুনাফিক থেকে আলাদা করে দেখান। তাই পাঠকের প্রশ্ন এটা নয় যে আশপাশের কে বৃষ্টিতে দাঁড়িয়ে আছে। প্রশ্ন হলো, এমন কোনো সতর্কবাণী কি আমার কাছে পৌঁছেছে, যার বিরুদ্ধে আমি কানে আঙুল চেপে রেখেছি?"
+          },
+          {
+            "en": "At-Tabari's reading gives the warning a sharper edge. The hypocrites feared the threats enough to shield themselves from them, and still doubted whether they were real. Fear without conviction led them to cover their ears, not to turn back. For a believer the way with a frightening verse runs the other way: let it in, measure the heart against it, and ask Allah for a steady heart. The verse's last word, that Allah encompasses them, means no shelter built from fear was ever going to hold.",
+            "bn": "তাবারীর পাঠ সতর্কবাণীটাকে আরও ধারালো করে। মুনাফিকরা হুমকিগুলোকে এতটা ভয় পেত যে তা থেকে বাঁচার ঢাল বানাত। তবু সন্দেহ করত, হুমকিগুলো আদৌ সত্যি কি না। বিশ্বাসহীন ভয় তাদের ফিরিয়ে আনেনি, শুধু কান ঢাকতে শিখিয়েছে। ভয় জাগানো আয়াতের সামনে মুমিনের পথ উল্টো দিকে। আয়াতটাকে ভেতরে আসতে দিন, নিজের অন্তরকে তার সঙ্গে মিলিয়ে দেখুন, আর আল্লাহর কাছে অবিচল অন্তর চান। আয়াতের শেষ কথা, আল্লাহ তাদের ঘিরে আছেন, বলে দেয় যে ভয় থেকে বানানো কোনো আড়ালই কখনো টিকত না।"
+          }
+        ]
+      }
+    ]
+  },
   "2:22": {
     "sections": [
       {

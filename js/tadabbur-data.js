@@ -30503,6 +30503,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Keep the covenant you owe Allah and the ties He ordered joined, for loss begins with a promise left to unravel and a bond allowed to break.",
     "lessonBn": "আল্লাহর সঙ্গে করা অঙ্গীকার আর তিনি যে বন্ধন জুড়ে রাখতে বলেছেন তা রক্ষা করুন। ক্ষতির শুরু হয় খুলে যেতে দেওয়া একটি কথা আর ছিঁড়ে যেতে দেওয়া একটি সম্পর্ক থেকে।"
+  },
+  "2:19": {
+    "reflectionEn": "After the fire comes a second picture. Rain pours from the sky in the dark, thunder cracks, lightning flares, and the people caught in it push their fingers into their ears, afraid the next thunderclap will kill them. The fingers keep out nothing. The verse ends by saying that Allah surrounds those who reject Him on every side. The picture is drawn of the hypocrites of Madinah, and it is not a label to fasten on anyone near me. It is a question for my own ears. When a verse warns me, or a truth I would rather not hear is spoken to me, do I let it in, or do I reach for my fingers and wait for the noise to pass?",
+    "reflectionBn": "আগুনের ছবির পর আসে দ্বিতীয় ছবি। অন্ধকারে আকাশ ভেঙে বৃষ্টি নামছে, মেঘ গর্জাচ্ছে, বিদ্যুৎ ঝলসে উঠছে। সেই ঝড়ে আটকে পড়া লোকেরা কানে আঙুল গুঁজে দেয়, ভয়ে যে পরের বজ্রপাতেই মারা পড়বে। অথচ আঙুল কিছুই আটকায় না। আয়াতের শেষ কথা: যারা তাঁকে অস্বীকার করে, আল্লাহ তাদের চারদিক থেকে ঘিরে রেখেছেন। ছবিটা আঁকা হয়েছে মদীনার মুনাফিকদের নিয়ে। আশপাশের কারও গায়ে সেঁটে দেওয়ার মতো তকমা এটা নয়। প্রশ্নটা আমার নিজের কানের কাছে। কোনো আয়াত যখন আমাকে সাবধান করে, কিংবা এমন কোনো সত্য আমাকে শোনানো হয় যা শুনতে মন চায় না, তখন আমি কি তা ভেতরে ঢুকতে দিই? নাকি আঙুল কানে দিয়ে অপেক্ষা করি, কখন শব্দটা থামবে?",
+    "pointsEn": [
+      "Which reminder have I learned to stop hearing, the way one stops hearing rain on the roof?",
+      "When a verse carries a warning, do I let it reach me, or do I quickly turn it towards someone else?",
+      "What am I afraid of losing if I let a truth I already half-know come all the way in?",
+      "Is there a part of my life where I keep one foot in faith and one in doubt, waiting to see which way the weather turns?",
+      "When I try to hide from something, do I remember that the One I answer to surrounds everything?"
+    ],
+    "pointsBn": [
+      "কোন উপদেশটা আমি শুনতে শুনতে আর শুনি না, যেমন ছাদের উপর বৃষ্টির শব্দ একসময় কানে আসা বন্ধ হয়ে যায়?",
+      "কোনো আয়াতে সতর্কবাণী এলে আমি কি তা নিজের দিকে টানি, নাকি তাড়াতাড়ি অন্যের দিকে ঘুরিয়ে দিই?",
+      "যে সত্য আমি অর্ধেক জানি, তাকে পুরোপুরি ভেতরে ঢুকতে দিলে কী হারানোর ভয় পাই?",
+      "জীবনের কোনো জায়গায় কি আমি এক পা ঈমানে আর এক পা সন্দেহে রেখে দাঁড়িয়ে আছি, দেখছি হাওয়া কোন দিকে ঘোরে?",
+      "কোনো কিছু থেকে লুকাতে চাইলে কি মনে রাখি, যাঁর কাছে জবাব দিতে হবে তিনি সবকিছু ঘিরে আছেন?"
+    ],
+    "lessonEn": "Let Allah's warnings reach your ears instead of blocking them, for no shelter built from fear puts anyone beyond the reach of the One who surrounds all.",
+    "lessonBn": "আল্লাহর সতর্কবাণী কানে আঙুল দিয়ে আটকাবেন না, শুনুন। ভয়ে বানানো কোনো আড়াল কাউকে তাঁর নাগাল থেকে বের করে দিতে পারে না, যিনি সবকিছু ঘিরে আছেন।"
   }
 };
 
