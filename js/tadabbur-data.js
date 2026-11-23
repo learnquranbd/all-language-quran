@@ -31843,6 +31843,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a lean season comes, let it turn you towards Allah and soften your heart, instead of sending you to look for someone to blame.",
     "lessonBn": "টানাটানির দিন এলে তা যেন আপনাকে আল্লাহর দিকে ফেরায় আর মন নরম করে, দোষ চাপানোর লোক খুঁজতে না পাঠায়।"
+  },
+  "7:179": {
+    "reflectionEn": "The verse does not open with what these people lacked. It opens with what they had: hearts, eyes and ears, the equipment I carry daily. Then it says three times that they did not use it for what it was given for. They found their way around the world well enough; what they would not look at was the sign in front of them. Grazing animals at least answer the voice that calls them and keep clear of what harms them, which is why the verse calls these people more astray. It names no one, and I have no right to fill in a name. But I can ask where my own eyes went today, what my ears let in, and whether my heart ever stopped long enough to understand.",
+    "reflectionBn": "আয়াতটি শুরু হয় না তাদের কী ছিল না, তা দিয়ে। শুরু হয় তাদের কী ছিল, তা দিয়ে: হৃদয়, চোখ, কান। যেগুলো আমি রোজ সঙ্গে নিয়ে চলি। তারপর তিনবার বলা হয়, যে কাজের জন্য এগুলো দেওয়া হয়েছিল, সে কাজে তারা এগুলো লাগায়নি। দুনিয়ার পথঘাট তারা ভালোই চিনত। শুধু চোখের সামনে থাকা নিদর্শনের দিকে তারা তাকাতে চায়নি। চরে বেড়ানো পশুও অন্তত ডাক শুনে সাড়া দেয়, ক্ষতিকর জিনিস থেকে সরে থাকে। তাই আয়াত বলছে, এরা তার চেয়েও বেশি পথহারা। আয়াত কারও নাম নেয়নি, আর সেখানে কারও নাম বসানোর অধিকার আমার নেই। তবে নিজেকে জিজ্ঞেস করতে পারি: আজ আমার চোখ কোথায় কোথায় গেল, কান কী ভেতরে ঢুকতে দিল, আর হৃদয় কি একবারও থেমে কিছু বুঝতে চাইল?",
+    "pointsEn": [
+      "What did I look at most today, and did any of it lead me to think about the One who made it?",
+      "When a verse or a reminder reaches my ears, do I let it reach my heart, or does it pass through like noise?",
+      "In which part of my life am I sharp and capable, yet heedless of what that ability is for?",
+      "Have I ever, even silently, assigned another person to the Fire, when this verse names no one and every end is known to Allah alone?",
+      "What would it take for me to stop and understand something today, rather than simply keep moving?"
+    ],
+    "pointsBn": [
+      "আজ সবচেয়ে বেশি কোন জিনিসের দিকে তাকিয়েছি? তার কোনোটা কি আমাকে সেগুলোর স্রষ্টার কথা ভাবিয়েছে?",
+      "কোনো আয়াত বা নসিহত কানে এলে আমি কি তাকে হৃদয় পর্যন্ত পৌঁছাতে দিই, নাকি তা শব্দের মতো এক কান দিয়ে ঢুকে আরেক কান দিয়ে বেরিয়ে যায়?",
+      "জীবনের কোন জায়গায় আমি চৌকস আর দক্ষ, অথচ সেই দক্ষতা কীসের জন্য, সে ব্যাপারে একেবারে বেখবর?",
+      "মনে মনে হলেও কাউকে কি কখনো জাহান্নামি বলে ধরে নিয়েছি? অথচ এ আয়াত কারও নাম নেয়নি, আর কার শেষ কোথায়, তা কেবল আল্লাহই জানেন।",
+      "শুধু ছুটে না চলে আজ একটু থেমে কিছু বোঝার জন্য আমার কী করা দরকার?"
+    ],
+    "lessonEn": "You were given a heart, eyes and ears so that you would find your Lord; use them for that, and leave every person's end to Allah, who alone knows it.",
+    "lessonBn": "আপনাকে হৃদয়, চোখ আর কান দেওয়া হয়েছে আপনার রবকে খুঁজে পাওয়ার জন্য। এগুলো সে কাজেই লাগান, আর কার শেষ কোথায়, তা আল্লাহর হাতে ছেড়ে দিন। তিনিই একমাত্র তা জানেন।"
   }
 };
 

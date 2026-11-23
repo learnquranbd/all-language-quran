@@ -9547,6 +9547,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:179": {
+    "sections": [
+      {
+        "h": {
+          "en": "Many, After the One Man",
+          "bn": "একজনের পরে বহুজন"
+        },
+        "p": [
+          {
+            "en": "The verse comes at the end of a run. Verses 7:175 to 7:177 tell of a man who was given Allah's signs and slipped out of them, and 7:178 closes that story with a rule: whoever Allah guides is the guided one, and whoever He leaves astray, those are the losers. Then 7:179 turns from one man to many, of the jinn and of humankind. As-Sa'di reads it in that light, opening his comment by saying that Allah here makes plain how many are the deviators who follow Iblis.",
+            "bn": "আয়াতটি একটি ধারাবাহিক আলোচনার শেষ মাথায় এসেছে। ৭:১৭৫ থেকে ৭:১৭৭ আয়াতে আছে এক লোকের কথা, যাকে আল্লাহ তাঁর নিদর্শন দিয়েছিলেন, আর সে সেগুলো থেকে খোলস ছাড়ার মতো বেরিয়ে গিয়েছিল। ৭:১৭৮ আয়াত সে কাহিনি শেষ করে একটি নিয়ম দিয়ে: আল্লাহ যাকে হিদায়াত দেন, সে-ই হিদায়াতপ্রাপ্ত, আর যাকে পথহারা করেন, তারাই ক্ষতিগ্রস্ত। এরপর ৭:১৭৯ এক ব্যক্তি থেকে চোখ ফেরায় বহুজনের দিকে, জিন ও মানুষ দুই জাতির দিকেই। সা'দী আয়াতটিকে এভাবেই পড়েন। তাঁর আলোচনার শুরুই এই কথা দিয়ে যে, ইবলিসের অনুসারী পথভ্রষ্টের সংখ্যা যে কত বেশি, আল্লাহ এখানে তা খুলে বলছেন।"
+          },
+          {
+            "en": "The verse after it, 7:180, turns at once to Allah's most beautiful names and tells the believer to call on Him by them, so the portrait of the heedless is followed directly by a command to remember Him. Ma'arif al-Qur'an calls 7:179 an extension of the same theme as the verse before it. None of the commentators fetched for this verse gives an occasion of revelation for it, and none is offered here; its place in the surah is the context it gives itself.",
+            "bn": "এর পরের আয়াত, ৭:১৮০, সঙ্গে সঙ্গে চলে যায় আল্লাহর সুন্দর নামসমূহের কথায় এবং মুমিনকে বলে সেসব নাম ধরে তাঁকে ডাকতে। ফলে গাফিলদের ছবি আঁকার ঠিক পরেই আসে তাঁকে স্মরণ করার আদেশ। মাআরিফুল কুরআন ৭:১৭৯-কে আগের আয়াতেরই বিষয়ের সম্প্রসারণ বলে। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর নাযিলের কোনো উপলক্ষ উল্লেখ করেনি, তাই এখানেও কোনো উপলক্ষ দেওয়া হচ্ছে না। সূরার ভেতরে আয়াতটির অবস্থানই তার প্রেক্ষাপট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dhara'na, a Verb of Making",
+          "bn": "যারা'না: সৃষ্টির ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses dhara'na simply as khalaqna, We created, and gives the verb's usage: dhara'a Allahu khalqahu, Allah brought His creatures into being. He then lists those who said the same. Al-Hasan al-Basri, in one report, says 'of what We created' and, in another, 'We created'; Mujahid, as-Suddi, and a report reaching him from Ibn 'Abbas all give 'We created'. Each of them reduces the word to creation, and at-Tabari says that the people of interpretation hold the same.",
+            "bn": "তাবারী যারা'না শব্দের ব্যাখ্যা দেন সোজাসুজি খালাকনা দিয়ে, অর্থাৎ আমি সৃষ্টি করেছি। ক্রিয়াটির ব্যবহারও দেখান: যারাআল্লাহু খালকাহু, আল্লাহ তাঁর সৃষ্টিকে অস্তিত্বে আনলেন। এরপর যাঁরা একই কথা বলেছেন, তাঁদের নাম আনেন। হাসান বসরী এক বর্ণনায় বলেন 'আমি যা সৃষ্টি করেছি তার মধ্য থেকে', আরেক বর্ণনায় শুধু 'আমি সৃষ্টি করেছি'। মুজাহিদ, সুদ্দী এবং ইবন আব্বাস (রাঃ) থেকে তাঁর কাছে পৌঁছানো এক বর্ণনাও বলে 'আমি সৃষ্টি করেছি'। সবাই শব্দটিকে সৃষ্টির অর্থেই নিয়েছেন, আর তাবারী জানান, তাফসীরবিদদের মতও এটাই।"
+          },
+          {
+            "en": "The others add a shade each. Ibn Kathir pairs the verb with a second, khalaqna wa ja'alna, We created and We made, and then explains: hayya'nahum laha, We prepared them for it, and they do the deeds of its people. As-Sa'di gives ansha'na wa bathathna, We brought into being and spread abroad, which keeps the picture of a multitude scattered over the earth. The Muyassar writes plainly that We created for the Fire, and describes it as the Fire in which Allah punishes whoever deserves punishment in the Hereafter.",
+            "bn": "বাকিরা প্রত্যেকে একটু করে রং যোগ করেন। ইবন কাসীর ক্রিয়াটির পাশে আরেকটি ক্রিয়া বসান: খালাকনা ওয়া জাআলনা, আমি সৃষ্টি করেছি ও বানিয়েছি। তারপর ব্যাখ্যা দেন: হাইয়া'নাহুম লাহা, আমি তাদের এর জন্য প্রস্তুত করেছি, আর তারা এর বাসিন্দাদের আমলই করে। সা'দী বলেন আনশা'না ওয়া বাসাসনা, আমি অস্তিত্বে এনেছি ও ছড়িয়ে দিয়েছি। এতে পৃথিবীজুড়ে ছড়িয়ে থাকা বিশাল এক জনসমষ্টির ছবি বজায় থাকে। মুয়াসসার সহজ কথায় লেখে, আমি জাহান্নামের জন্য সৃষ্টি করেছি। সেই সঙ্গে জাহান্নামের পরিচয় দেয় এভাবে: আখিরাতে যে শাস্তির যোগ্য, আল্লাহ তাকে সেখানে শাস্তি দেবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Purpose, or Where It Ends",
+          "bn": "উদ্দেশ্য, নাকি পরিণাম"
+        },
+        "p": [
+          {
+            "en": "The hardest words are li-jahannam, for Hell, and the commentators fetched here do not weight them the same way. Al-Baghawi states it most starkly: Allah informs us that He created many of the jinn and humankind for the Fire; they are those against whom the eternal word of wretchedness was confirmed, and whoever Allah created for Hell has no way of escaping it. He then records another view, introduced with qila, it has been said: the lam is lam al-'aqibah, the lam of outcome, meaning We brought them forth and their end is Hell.",
+            "bn": "সবচেয়ে কঠিন শব্দ দুটি হলো লি-জাহান্নাম, জাহান্নামের জন্য। যেসব তাফসীর দেখা হয়েছে, সেগুলো এর ওপর একই রকম জোর দেয় না। বাগাভী কথাটা বলেন সবচেয়ে কড়া ভাষায়: আল্লাহ জানাচ্ছেন যে তিনি বহু জিন ও মানুষকে জাহান্নামের জন্য সৃষ্টি করেছেন। এরা তারাই, যাদের ব্যাপারে দুর্ভাগ্যের চিরন্তন ফয়সালা সাব্যস্ত হয়ে গেছে। আর আল্লাহ যাকে জাহান্নামের জন্য সৃষ্টি করেছেন, তার সেখান থেকে বাঁচার কোনো উপায় নেই। এরপর তিনি 'কীলা', অর্থাৎ 'বলা হয়েছে' বলে আরেকটি মত আনেন: এখানকার লাম হলো লামুল আকিবা, পরিণাম বোঝানোর লাম। মানে, আমি তাদের সৃষ্টি করেছি, আর তাদের শেষ ঠিকানা জাহান্নাম।"
+          },
+          {
+            "en": "For that reading al-Baghawi cites 28:8, where Pharaoh's household picked up the infant Musa (AS) li-yakuna lahum 'aduwwan wa hazana, 'so that he would become to them an enemy and a grief'. They did not take him in for that purpose; that was how it ended. At-Tabari explains the verse through knowledge: Allah said it because His knowledge of them was bound to be fulfilled, that they would arrive there through their disbelief in their Lord. Al-Qurtubi adds a phrase of his own: Allah created people for the Fire bi-'adlihi, by His justice.",
+            "bn": "এ মতের পক্ষে বাগাভী ২৮:৮ আয়াত আনেন। সেখানে ফিরআউনের পরিবার শিশু মূসা (আঃ)-কে কুড়িয়ে নিয়েছিল 'লি-ইয়াকূনা লাহুম আদুওয়ান ওয়া হাযানা', যাতে তিনি তাদের শত্রু ও দুঃখের কারণ হন। তারা তো এ উদ্দেশ্যে তাঁকে ঘরে তোলেনি। ঘটনার শেষটা শুধু এমনই দাঁড়িয়েছিল। তাবারী আয়াতটি ব্যাখ্যা করেন আল্লাহর জ্ঞান দিয়ে। আল্লাহ কথাটা বলেছেন, কারণ তাদের ব্যাপারে তাঁর জ্ঞান অবশ্যই বাস্তবায়িত হবে: নিজেদের রবের সঙ্গে কুফরির কারণে তারা সেখানেই গিয়ে পৌঁছবে। কুরতুবী নিজের পক্ষ থেকে একটি শব্দবন্ধ যোগ করেন: আল্লাহ জাহান্নামের জন্য বাসিন্দা সৃষ্টি করেছেন বি-আদলিহী, তাঁর ন্যায়বিচার অনুযায়ী।"
+          },
+          {
+            "en": "Ibn Kathir joins the decree to the deed. When Allah willed to create, He knew what His creatures would do before they existed and wrote it in a Book with Him. The narration he cites is in Sahih Muslim (2653), from 'Abdullah ibn 'Amr: 'Allah wrote the measures of the creatures fifty thousand years before He created the heavens and the earth, and His Throne was upon the water.' As-Sa'di reaches the same words from the other side: those who turned their faculties against the purpose they were given for are fit to be among those Allah created for Hell.",
+            "bn": "ইবন কাসীর তাকদীরকে আমলের সঙ্গে জুড়ে দেন। আল্লাহ যখন সৃষ্টি করতে চাইলেন, সৃষ্টিজগৎ অস্তিত্বে আসার আগেই তিনি জানতেন তারা কী করবে, আর তা তাঁর কাছে এক কিতাবে লিখে রাখলেন। তিনি যে বর্ণনা উদ্ধৃত করেন, তা সহীহ মুসলিমে (২৬৫৩) আছে, আবদুল্লাহ ইবন আমর (রাঃ) থেকে: 'আল্লাহ আসমান ও যমীন সৃষ্টির পঞ্চাশ হাজার বছর আগে সৃষ্টিকুলের পরিমাপ লিখে রেখেছেন, আর তখন তাঁর আরশ ছিল পানির ওপর।' সা'দী একই কথায় পৌঁছান উল্টো দিক থেকে। তাঁর মতে, যারা নিজেদের ইন্দ্রিয়কে দেওয়া উদ্দেশ্যের বিপরীতে খাটিয়েছে, তারাই আল্লাহর জাহান্নামের জন্য সৃষ্ট লোকদের দলে পড়ার উপযুক্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Child of the Ansar",
+          "bn": "আনসারদের এক শিশু"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir and al-Baghawi both bring one narration here. In the wording of Sahih Muslim (2662), 'A'ishah (RA) said that the Messenger of Allah ﷺ was called to the funeral of a child of the Ansar, and she said: 'Messenger of Allah, glad tidings for this one, a sparrow among the sparrows of Paradise; he did no evil and did not reach it.' He said: 'Or could it be otherwise, 'A'ishah? Allah created for Paradise its people; He created them for it while they were in their fathers' loins. And He created for the Fire its people; He created them for it while they were in their fathers' loins.'",
+            "bn": "ইবন কাসীর ও বাগাভী দুজনেই এখানে একটি বর্ণনা আনেন। সহীহ মুসলিমের (২৬৬২) ভাষ্যে আয়েশা (রাঃ) বলেন, আনসারদের এক শিশুর জানাযায় আল্লাহর রাসূল ﷺ-কে ডাকা হলো। আমি বললাম, 'হে আল্লাহর রাসূল, এর জন্য সুসংবাদ! জান্নাতের চড়ুইদের মধ্যে এক চড়ুই। সে কোনো মন্দ কাজ করেনি, মন্দ করার বয়সেও পৌঁছায়নি।' তিনি বললেন, 'নাকি অন্য রকমও হতে পারে, আয়েশা? আল্লাহ জান্নাতের জন্য বাসিন্দা সৃষ্টি করেছেন, তাদের পিতাদের পৃষ্ঠদেশে থাকা অবস্থায়ই তাদের এর জন্য সৃষ্টি করেছেন। আর জাহান্নামের জন্যও বাসিন্দা সৃষ্টি করেছেন, তাদের পিতাদের পৃষ্ঠদেশে থাকা অবস্থায়ই তাদের এর জন্য সৃষ্টি করেছেন।'"
+          },
+          {
+            "en": "What Ibn Kathir draws from it is the point he is making: Allah's knowledge comes before the creature exists. The reply also checked a confident verdict on one particular person's end, spoken by the Prophet's own wife at a funeral. This article draws from it no ruling on the fate of children, a question the commentators fetched here do not take up under this verse. Ibn Kathir himself stops short: the hadiths on it are many, the question of decree is large, and this is not the place to lay it out.",
+            "bn": "ইবন কাসীর এ থেকে যা নেন, তা তাঁর আলোচনারই মূল কথা: সৃষ্টি অস্তিত্বে আসার আগেই আল্লাহর জ্ঞান বিদ্যমান। জবাবটি আরেকটি কাজও করেছে। নবী ﷺ-এর নিজের স্ত্রী এক জানাযায় দাঁড়িয়ে একজন নির্দিষ্ট মানুষের পরিণাম নিয়ে নিশ্চিত রায় দিয়ে ফেলেছিলেন, জবাবটি সেখানে লাগাম টেনেছে। শিশুদের পরিণাম নিয়ে কোনো বিধান এ লেখা এখান থেকে বের করছে না। যেসব তাফসীর দেখা হয়েছে, সেগুলোও এ আয়াতের আলোচনায় প্রশ্নটি তোলেনি। ইবন কাসীর নিজেও থেমে যান। তিনি বলেন, এ বিষয়ে হাদীস অনেক, তাকদীরের প্রশ্নটা বড়, আর এটা তা বিস্তারিত বলার জায়গা নয়।"
+          },
+          {
+            "en": "He also points to Ibn Mas'ud's narration in the two Sahihs about the angel sent to the child in the womb, and to an earlier report about the offspring of Adam (AS) drawn from his back. Neither was fetched and confirmed for this article, so neither is quoted. The commentators' readings of li-jahannam stand as they gave them, and this article adds no position on decree and choice beyond theirs. The narration from 'A'ishah (RA) is enough for what follows: it is a check on certainty about other people's ends, not an invitation to it.",
+            "bn": "তিনি আরও ইঙ্গিত করেন সহীহ বুখারী ও মুসলিমে থাকা ইবন মাসঊদ (রাঃ)-এর বর্ণনার দিকে, যেখানে মাতৃগর্ভের শিশুর কাছে ফেরেশতা পাঠানোর কথা আছে। আর আগের এক বর্ণনার দিকে, যেখানে আদম (আঃ)-এর পিঠ থেকে তাঁর বংশধরদের বের করার কথা আছে। এ লেখার জন্য এ দুটির কোনোটি যাচাই করে দেখা হয়নি, তাই কোনোটিই উদ্ধৃত করা হচ্ছে না। লি-জাহান্নাম নিয়ে তাফসীরকারদের ব্যাখ্যা যেমন আছে, তেমনই থাকল। তাকদীর আর ইচ্ছার স্বাধীনতা নিয়ে এ লেখা তাঁদের কথার বাইরে নিজের কোনো মত যোগ করছে না। পরের আলোচনার জন্য আয়েশা (রাঃ)-এর বর্ণনাটিই যথেষ্ট: অন্যের পরিণাম নিয়ে নিশ্চিত হয়ে যাওয়ার পথে এটি বাধা, সেদিকে ডাক নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eyes That Would Not Look",
+          "bn": "যে চোখ তাকাতে চায়নি"
+        },
+        "p": [
+          {
+            "en": "Lahum qulubun la yafqahuna biha: they have hearts with which they do not understand. At-Tabari takes the faculties in turn. Their hearts are not used to reflect on Allah's signs or to weigh His proofs of His oneness and of His messengers' truth; their eyes are not turned to His signs to consider them; their ears do not take in the verses of His Book. They are described so, he says, because they turned away from the truth, and he sets beside it the words of those in 41:26: 'Do not listen to this Qur'an, and make noise over it.'",
+            "bn": "লাহুম কুলূবুন লা ইয়াফকাহূনা বিহা: তাদের হৃদয় আছে, কিন্তু তা দিয়ে তারা বোঝে না। তাবারী একে একে প্রতিটি ইন্দ্রিয়ের কথা বলেন। তাদের হৃদয় আল্লাহর নিদর্শন নিয়ে ভাবে না। তাঁর একত্বের প্রমাণ আর রাসূলদের সত্যতার দলিল নিয়েও চিন্তা করে না। তাদের চোখ তাঁর নিদর্শনের দিকে মনোযোগ দিয়ে তাকায় না, তাদের কান তাঁর কিতাবের আয়াত গ্রহণ করে না। তাবারী বলেন, তাদের এভাবে বর্ণনা করা হয়েছে, কারণ তারা সত্য থেকে মুখ ফিরিয়ে নিয়েছিল। এর পাশে তিনি রাখেন ৪১:২৬ আয়াতে উদ্ধৃত তাদের কথা: 'এই কুরআন শুনো না, আর এর তিলাওয়াতের সময় হট্টগোল করো।'"
+          },
+          {
+            "en": "He then shows how the Arabs speak. They call a man blind or deaf when he leaves a limb unused for what it is fit for, and he quotes the poet Miskin ad-Darimi, who says he is blind whenever his neighbour's wife steps out, until the screen hides her, and deaf to whatever passes between the two of them, though his hearing has no heaviness in it. Mujahid, in at-Tabari's report, narrows the three: they understand nothing of the Hereafter, do not see guidance, and do not hear the truth.",
+            "bn": "এরপর তাবারী দেখান, আরবরা কীভাবে কথা বলে। কেউ কোনো অঙ্গকে তার উপযুক্ত কাজে না লাগালে আরবরা তাকে অন্ধ বা বধির বলে। প্রমাণ হিসেবে তিনি কবি মিসকীন দারিমীর কবিতা আনেন। কবি বলেন, প্রতিবেশীর স্ত্রী ঘর থেকে বের হলে পর্দা তাকে আড়াল না করা পর্যন্ত তিনি অন্ধ। আর ওই দুজনের মধ্যে যা কিছু ঘটে, সে ব্যাপারে তিনি বধির, যদিও তাঁর কানে কোনো ভার নেই। তাবারীর উদ্ধৃত বর্ণনায় মুজাহিদ তিনটিকে নির্দিষ্ট করেন: তারা আখিরাতের কিছুই বোঝে না, হিদায়াত দেখে না, সত্য শোনে না।"
+          },
+          {
+            "en": "Al-Qurtubi says outright that the aim is not to deny their senses all perception, a point he says he explained under al-Baqarah. Ibn Kathir: they are not deaf, dumb or blind except to guidance; they draw no benefit from faculties Allah made a means to it. Among his parallels are 46:26, where hearing, sight and hearts availed a people nothing because they denied Allah's signs, and 22:46: 'It is not the eyes that are blind, but blind are the hearts within the breasts.' Al-Baghawi names what was missed: the good, the way of truth, the admonitions of the Qur'an.",
+            "bn": "কুরতুবী সোজাসুজি বলেন, তাদের ইন্দ্রিয় থেকে সব রকম অনুভূতি অস্বীকার করা এখানে উদ্দেশ্য নয়। তিনি জানান, সূরা বাকারায় বিষয়টি তিনি ব্যাখ্যা করেছেন। ইবন কাসীরের কথা: তারা বধির, বোবা বা অন্ধ শুধু হিদায়াতের ব্যাপারে। আল্লাহ যে ইন্দ্রিয়গুলোকে হিদায়াতের মাধ্যম বানিয়েছেন, সেগুলো থেকে তারা কোনো উপকার নেয় না। তাঁর আনা সমর্থক আয়াতের মধ্যে আছে ৪৬:২৬, যেখানে এক জাতির শ্রবণ, দৃষ্টি ও হৃদয় তাদের কোনো কাজে আসেনি, কারণ তারা আল্লাহর আয়াত অস্বীকার করত। আর ২২:৪৬: 'চোখ তো অন্ধ হয় না, অন্ধ হয় বুকের ভেতরের হৃদয়।' বাগাভী বলে দেন তারা কী হারিয়েছে: কল্যাণ, সত্যের পথ, আর কুরআনের উপদেশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lower Than the Grazing Herd",
+          "bn": "চরে বেড়ানো পশুর চেয়েও নিচে"
+        },
+        "p": [
+          {
+            "en": "Ula'ika kal-an'am, bal hum adall: those are like livestock; rather, they are more astray. Ibn Kathir ties the likeness to 2:171, where those who disbelieve are compared to animals that hear a herdsman's call and cry but nothing of what he says. Al-Qurtubi and al-Baghawi give it a second edge: their concern, like that of livestock, is eating and drinking. Why more astray? Ibn Kathir answers that cattle still respond to their shepherd's call without understanding it, and understand what they were made for, while the disbeliever, created to worship Allah alone, disbelieved.",
+            "bn": "উলাইকা কাল-আনআম, বাল হুম আদাল্ল: ওরা পশুর মতো, বরং তার চেয়েও বেশি পথহারা। ইবন কাসীর এ উপমাকে ২:১৭১ আয়াতের সঙ্গে মেলান। সেখানে কাফিরদের তুলনা করা হয়েছে এমন পশুর সঙ্গে, যে রাখালের হাঁকডাক শোনে, কিন্তু তার কথার কিছুই বোঝে না। কুরতুবী ও বাগাভী উপমাটিতে আরেকটি দিক যোগ করেন: পশুর মতোই তাদের সব চিন্তা খাওয়া আর পান করা নিয়ে। কিন্তু পশুর চেয়েও বেশি পথহারা কেন? ইবন কাসীরের জবাব: পশু না বুঝেও রাখালের ডাকে সাড়া দেয়, আর যে কাজের জন্য তাকে বানানো হয়েছে, তা বোঝে। অথচ কাফিরকে সৃষ্টি করা হয়েছিল এক আল্লাহর ইবাদতের জন্য, আর সে কুফরি করেছে।"
+          },
+          {
+            "en": "At-Tabari: beasts have no choice and no discernment, yet they flee what harms them and seek the best food, while these people, given minds that tell benefit from harm, leave what is good for this world and the next. Al-Baghawi: cattle will not walk into harm, while these walk into the Fire in defiance, knowing it destroys. Al-Qurtubi relays 'Ata': livestock know Allah, and the disbeliever does not. Ma'arif al-Qur'an adds that animals face no reward or punishment, so a human who spends himself on material ends alone is less wise than they are.",
+            "bn": "তাবারী বলেন, পশুর কোনো এখতিয়ার নেই, ভালো-মন্দ বাছাইয়ের ক্ষমতাও নেই। তবু সে ক্ষতিকর জিনিস থেকে পালায়, নিজের জন্য সবচেয়ে ভালো খাবারটা খোঁজে। আর এই লোকদের লাভ-ক্ষতি চেনার মতো বুদ্ধি দেওয়া হয়েছে, তবু তারা দুনিয়া ও আখিরাতের কল্যাণ ছেড়ে দেয়। বাগাভী বলেন, পশু ক্ষতির দিকে পা বাড়ায় না, অথচ এরা ধ্বংস নিশ্চিত জেনেও জিদ ধরে জাহান্নামের দিকে এগোয়। কুরতুবী আতার কথা উদ্ধৃত করেন: পশু আল্লাহকে চেনে, কাফির তাঁকে চেনে না। মাআরিফুল কুরআন যোগ করে, পশুর জন্য কোনো পুরস্কার বা শাস্তি নেই। তাই যে মানুষ শুধু বস্তুগত লক্ষ্যে নিজেকে খরচ করে, সে পশুর চেয়েও কম বুদ্ধিমান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sharp Eyes, Heedless Hearts",
+          "bn": "তীক্ষ্ণ চোখ, বেখবর হৃদয়"
+        },
+        "p": [
+          {
+            "en": "The verse closes ula'ika humu al-ghafilun: it is they who are the heedless. At-Tabari explains the heedlessness as inattention to His signs and proofs: they left off reflecting on them and drawing from them what they point to, the oneness of their Lord. They are the heedless, he adds, not the beasts, whom their Lord has taught what He made them for. Al-Qurtubi: they abandoned reflection and turned away from Paradise and the Fire. As-Sa'di: they were heedless of the most beneficial of all things, faith in Allah, obedience to Him and remembrance of Him.",
+            "bn": "আয়াত শেষ হয় এই কথায়: উলাইকা হুমুল গাফিলূন, ওরাই গাফিল। তাবারী এই গাফিলতির ব্যাখ্যা দেন আল্লাহর নিদর্শন ও প্রমাণের প্রতি অমনোযোগ হিসেবে। তারা সেগুলো নিয়ে ভাবা ছেড়ে দিয়েছে। সেগুলো যে দিকে ইঙ্গিত করে, অর্থাৎ তাদের রবের একত্ব, তা থেকে কোনো শিক্ষা নেয়নি। তিনি যোগ করেন, গাফিল এরাই, পশুরা নয়। কারণ পশুকে যে কাজে লাগানো হয়েছে, তার রব তাকে তা চিনিয়ে দিয়েছেন। কুরতুবীর মতে, তারা চিন্তাভাবনা ছেড়ে দিয়েছে, জান্নাত ও জাহান্নাম থেকে মুখ ফিরিয়ে নিয়েছে। সা'দী বলেন, তারা সবচেয়ে উপকারী জিনিস থেকেই বেখবর: আল্লাহর প্রতি ঈমান, তাঁর আনুগত্য আর তাঁর জিকির।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an raises the obvious objection: these people plainly see, hear and reason, so how can the verse deny it? Its answer is that each creature is given as much perception as its purpose needs, and a human being's purpose includes knowing his Lord and telling right from wrong. It cites 30:7, they know the outward side of this worldly life but are heedless of the Hereafter, and 29:38, where 'Ad and Thamud are described as people who could see clearly. Skill in worldly matters, on this reading, can sit beside complete heedlessness.",
+            "bn": "মাআরিফুল কুরআন স্বাভাবিক একটি আপত্তি তোলে। এই লোকেরা তো স্পষ্টই দেখে, শোনে, চিন্তাও করে। তাহলে আয়াত এসব অস্বীকার করে কীভাবে? তার জবাব হলো, প্রতিটি সৃষ্টিকে ততটুকু অনুভূতিই দেওয়া হয়েছে, যতটুকু তার উদ্দেশ্যের জন্য দরকার। আর মানুষের উদ্দেশ্যের মধ্যে আছে নিজের রবকে চেনা এবং ভালো-মন্দের পার্থক্য করা। এর সমর্থনে আনা হয়েছে ৩০:৭ আয়াত: তারা দুনিয়ার জীবনের বাইরের দিকটা জানে, কিন্তু আখিরাত সম্পর্কে গাফিল। আর ২৯:৩৮, যেখানে আদ ও সামূদ জাতিকে বলা হয়েছে স্পষ্ট দৃষ্টির অধিকারী। এ ব্যাখ্যা অনুযায়ী দুনিয়ার কাজে দক্ষতা আর পুরোপুরি গাফিলতি পাশাপাশি থাকতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verse That Names No One",
+          "bn": "কারও ব্যাপারে রায় নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes a kind of person by what that person does with heart, eyes and ears. It names no individual and no community, and it licenses no one to declare any living person destined for Hell. Ma'arif al-Qur'an says that a person's final end is a divine secret, known to no one, and the narration from 'A'ishah (RA) shows the Prophet ﷺ checking a confident verdict about a single child. A reader who uses this verse to sort the people around him has turned it against its own lesson.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি এক ধরনের মানুষের বর্ণনা দেয়, সে তার হৃদয়, চোখ আর কান দিয়ে কী করে, তা দেখিয়ে। আয়াত কোনো ব্যক্তির নাম নেয়নি, কোনো জাতি বা সম্প্রদায়েরও না। জীবিত কোনো মানুষকে জাহান্নামি বলে ঘোষণা করার অনুমতি এ আয়াত কাউকে দেয় না। মাআরিফুল কুরআন বলে, মানুষের চূড়ান্ত পরিণাম আল্লাহর এক গোপন রহস্য, কেউ তা জানে না। আর আয়েশা (রাঃ)-এর বর্ণনায় দেখা যায়, একটি শিশুর ব্যাপারে নিশ্চিত রায়ে নবী ﷺ নিজেই লাগাম টেনেছেন। যে পাঠক এ আয়াত দিয়ে আশপাশের মানুষকে ভাগ করতে বসে, সে আয়াতটিকে তার নিজের শিক্ষার বিরুদ্ধেই দাঁড় করায়।"
+          },
+          {
+            "en": "Where the verse does point is inward. As-Sa'di ends on the contrast: whoever uses these faculties in the worship of Allah, whose heart is dyed with faith in Him and love of Him, and who does not grow heedless of Him, those are the people of Paradise, and they do the deeds of its people. The same heart, eyes and ears can serve either end. The next verse, 7:180, then tells the reader to call on Allah by His most beautiful names, and remembrance is the plain opposite of the heedlessness on which this verse closes.",
+            "bn": "আয়াতের ইঙ্গিত বরং ভেতরের দিকে। সা'দী শেষ করেন বিপরীত ছবিটি দিয়ে। যে এই ইন্দ্রিয়গুলো আল্লাহর ইবাদতে লাগায়, যার হৃদয় আল্লাহর প্রতি ঈমান আর ভালোবাসার রঙে রঙিন, যে তাঁর ব্যাপারে গাফিল হয় না, তারাই জান্নাতের বাসিন্দা, আর তারা জান্নাতবাসীদের আমলই করে। একই হৃদয়, একই চোখ, একই কান দুই পরিণামের যেকোনোটির দিকে নিয়ে যেতে পারে। এরপর ৭:১৮০ আয়াত পাঠককে বলে, আল্লাহকে তাঁর সুন্দর নামসমূহ ধরে ডাকো। আর এ আয়াত যে গাফিলতির কথা বলে শেষ হয়েছে, জিকির তার সরাসরি বিপরীত।"
+          }
+        ]
+      }
+    ]
+  },
   "7:180": {
     "sections": [
       {
