@@ -32543,6 +32543,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The days of earlier peoples are a warning to read about yourself. Do not wait for a crisis before you respond; answer now, and leave every outcome with Allah.",
     "lessonBn": "আগের জাতিগুলোর দিনগুলো এমন সতর্কবাণী, যা নিজের দিকে তাকিয়ে পড়তে হয়। সাড়া দেওয়ার জন্য কোনো বিপদের অপেক্ষা করবেন না; এখনই সাড়া দিন, আর সব পরিণাম আল্লাহর হাতে ছেড়ে দিন।"
+  },
+  "10:95": {
+    "reflectionEn": "The verse before closed with a warning against doubt. This one names something worse: calling Allah's signs a lie. Then it names the result in one word, the losers. The words are addressed to the Prophet ﷺ, who neither doubted nor denied, and that is why they land so hard on everyone else. If he is told this plainly, how carefully should I listen? Denial rarely announces itself. It can begin as a verse I keep at arm's length, a ruling I quietly set aside, a doubt I feed instead of answering. Loss here is a whole life traded away for nothing. The cure is the opposite of denial: full assent, a settled heart, and a life that acts on what it believes.",
+    "reflectionBn": "আগের আয়াত শেষ হয়েছিল সন্দেহের বিরুদ্ধে সতর্কবাণী দিয়ে। এই আয়াত তার চেয়েও ভারী একটা জিনিসের নাম নেয়: আল্লাহর আয়াতকে মিথ্যা বলা। তারপর এক শব্দে ফলটাও জানিয়ে দেয়: ক্ষতিগ্রস্ত। কথাগুলো বলা হয়েছে নবী ﷺ-কে, যিনি সন্দেহও করেননি, অস্বীকারও করেননি। ঠিক এ কারণেই বাকি সবার উপর কথাটা এত জোরে এসে পড়ে। তাঁকেই যদি এত স্পষ্ট করে বলা হয়, আমার তবে কতটা মন দিয়ে শোনা উচিত? অস্বীকার সাধারণত ঘোষণা দিয়ে আসে না। শুরু হতে পারে এমন কোনো আয়াত দিয়ে, যাকে আমি দূরে সরিয়ে রাখি। কোনো বিধান দিয়ে, যা চুপচাপ পাশে রেখে দিই। কিংবা এমন সন্দেহ দিয়ে, যার জবাব না খুঁজে তাকে লালন করি। এখানে ক্ষতি মানে গোটা জীবনটা বিনিময়ে কিছু না পেয়ে বেচে দেওয়া। ওষুধ অস্বীকারের ঠিক উল্টোটা: পূর্ণ বিশ্বাস, স্থির অন্তর, আর বিশ্বাস অনুযায়ী চলা জীবন।",
+    "pointsEn": [
+      "Is there a verse or a ruling I have never openly rejected, but have quietly decided does not apply to me?",
+      "When a doubt about the Qur'an comes to me, do I look for its answer, or let it sit and grow?",
+      "If the Prophet ﷺ, who never doubted, was addressed this plainly, what does that say about how I should hear it?",
+      "What am I busy earning that would count for nothing if I lost the one trade that matters?",
+      "Where in my week could the Qur'an move from something I agree with to something I act on?"
+    ],
+    "pointsBn": [
+      "এমন কোনো আয়াত বা বিধান কি আছে, যা আমি কখনো মুখে অস্বীকার করিনি, অথচ মনে মনে ঠিক করে নিয়েছি যে আমার বেলায় খাটে না?",
+      "কুরআন নিয়ে কোনো সন্দেহ মনে এলে আমি কি তার জবাব খুঁজি, নাকি সেটাকে বসে বসে বাড়তে দিই?",
+      "যে নবী ﷺ কখনো সন্দেহ করেননি, তাঁকেই যদি এত স্পষ্ট করে বলা হয়, তাহলে আমার শোনার ধরন কেমন হওয়া উচিত?",
+      "যে একটা লেনদেন সত্যিই গুরুত্বপূর্ণ, সেটাতেই হেরে গেলে আমার এখনকার কোন কোন উপার্জন একেবারে মূল্যহীন হয়ে যাবে?",
+      "এ সপ্তাহে কোথায় কুরআনকে শুধু মেনে নেওয়ার জায়গা থেকে আমলের জায়গায় নিয়ে যেতে পারি?"
+    ],
+    "lessonEn": "Doubt is warned against, and denial is worse. Meet the Qur'an with full assent and a settled heart, and act on it, or every other gain ends in loss.",
+    "lessonBn": "সন্দেহ থেকে সাবধান করা হয়েছে, আর অস্বীকার তার চেয়েও ভয়ংকর। পূর্ণ বিশ্বাস ও স্থির অন্তর নিয়ে কুরআনকে গ্রহণ করুন, সে অনুযায়ী আমল করুন। নইলে বাকি সব লাভই শেষে ক্ষতি।"
   }
 };
 

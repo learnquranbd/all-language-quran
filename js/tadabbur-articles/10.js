@@ -4759,6 +4759,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:95": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Second Never, Heavier Still",
+          "bn": "দ্বিতীয় নিষেধ, আরও ভারী"
+        },
+        "p": [
+          {
+            "en": "Surah Yunus has just closed the story of Musa (AS) and Pharaoh; in 10:93 the Children of Israel differ only after knowledge has come to them. Then 10:94 turns to the Prophet ﷺ with a condition: if you are in doubt about what We sent down to you, ask those who read the Book before you; the truth has come to you from your Lord, so never be among the doubters. This verse follows at once with a second never.",
+            "bn": "সূরা ইউনুস এইমাত্র মূসা (আঃ) ও ফিরআউনের কাহিনি শেষ করেছে। ১০:৯৩ আয়াতে বনী ইসরাঈল মতভেদে জড়ায় জ্ঞান আসার পরেই। এরপর ১০:৯৪ আয়াত নবী ﷺ-এর দিকে ফেরে একটা শর্ত নিয়ে: তোমার প্রতি যা নাযিল করেছি তাতে যদি সন্দেহ থাকে, তোমার আগে থেকে যারা কিতাব পড়ে তাদের জিজ্ঞেস করো। তোমার রবের কাছ থেকে সত্য এসে গেছে, কাজেই কখনো সন্দেহকারীদের দলে যেয়ো না। ঠিক তার পরেই এই আয়াত আরেকটা নিষেধ নিয়ে আসে।"
+          },
+          {
+            "en": "Wa-la takunanna mina lladhina kadhdhabu bi-ayati llah: and never be of those who denied the signs of Allah. The verb carries the doubled nun of emphasis, the same form that closes 10:94, so the two prohibitions stand side by side in one shape. Then comes a short clause joined by fa: fa-takuna mina l-khasirin, and so be among the losers. Ten Arabic words, and the last of them is the verdict.",
+            "bn": "ওয়া লা তাকূনান্না মিনাল্লাযীনা কায্যাবূ বিআয়াতিল্লাহ: আর কখনো তাদের দলে যেয়ো না, যারা আল্লাহর আয়াতকে মিথ্যা বলেছে। ক্রিয়াটির শেষে জোর দেওয়ার দ্বিত্ব নূন আছে। ১০:৯৪ আয়াতের শেষ নিষেধেও ঠিক এই রূপ, ফলে দুটি নিষেধ একই চেহারায় পাশাপাশি দাঁড়ায়। তারপর ফা দিয়ে জোড়া ছোট একটা বাক্য: ফাতাকূনা মিনাল খাসিরীন, তাহলে তুমি ক্ষতিগ্রস্তদের একজন হয়ে যাবে। আরবিতে মাত্র দশটি শব্দ, আর শেষ শব্দটাই রায়।"
+          },
+          {
+            "en": "The commentators read the verse in both directions. Al-Qurtubi quotes 10:94 and 10:95 together and speaks of the address in these two verses as one. Ma'arif al-Qur'an groups it forward instead, with 10:96 and 10:97, and says the three support and emphasise one subject while warning those who are heedless. The verse is a hinge: it finishes a warning about doubt and opens a passage about those who will not believe.",
+            "bn": "তাফসীরকারেরা আয়াতটিকে দুই দিক থেকেই পড়েন। কুরতুবী ১০:৯৪ ও ১০:৯৫ আয়াত একসঙ্গে উদ্ধৃত করেন, আর এ দুই আয়াতের সম্বোধনকে এক করেই দেখেন। মাআরিফুল কুরআন আবার একে জুড়ে দেয় সামনের দিকে, ১০:৯৬ ও ১০:৯৭ আয়াতের সঙ্গে। তার ভাষায়, তিনটি আয়াত একই বিষয়কে সমর্থন দেয়, জোরালো করে, আর উদাসীনদের সতর্ক করে। আয়াতটি তাই কবজার মতো: সন্দেহ নিয়ে সতর্কবাণী শেষ করে, আর যারা ঈমান আনবে না তাদের আলোচনা খুলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wavering, and Then Worse",
+          "bn": "দোদুল্যমানতা, তারপর তার চেয়েও মন্দ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di sums up the pair in one sentence. Allah has forbidden two things here. The first is doubt about this Qur'an and wavering over it, which is what 10:94 warns against. The second, more severe than that, is denying it outright, and that is this verse. He identifies the signs of Allah here with the Qur'an itself: Allah's clear signs, which admit no denial in any way. And he notes what the verse attaches to the second: loss.",
+            "bn": "সা'দী দুই আয়াতের সারকথা একটিমাত্র বাক্যে বলে দেন। আল্লাহ এখানে দুটি জিনিস নিষেধ করেছেন। প্রথমটি এই কুরআন নিয়ে সন্দেহ আর দোদুল্যমানতা, ১০:৯৪ আয়াত যার বিরুদ্ধে সতর্ক করে। দ্বিতীয়টি তার চেয়েও কঠিন: সরাসরি একে মিথ্যা বলা। এই আয়াতের বিষয় সেটাই। তাঁর মতে এখানে আল্লাহর আয়াত মানে কুরআন নিজেই, আল্লাহর এমন স্পষ্ট আয়াত যা কোনোভাবেই মিথ্যা বলে উড়িয়ে দেওয়ার মতো নয়। তিনি এটাও লক্ষ করেন যে দ্বিতীয়টির সঙ্গে আয়াত জুড়ে দিয়েছে ক্ষতির পরিণাম।"
+          },
+          {
+            "en": "The word that ends 10:94, al-mumtarin, names an inner state. At-Tabari glosses it as those who doubt the soundness and reality of what has come, and al-Baghawi simply as the doubters. Denial, takdhib, is a step outward: no longer a question held in the chest but a verdict pronounced, that the message is false. Doubt left unanswered is not yet denial, but the two verses set them side by side for a reason.",
+            "bn": "১০:৯৪ আয়াতের শেষ শব্দ আল মুমতারীন মনের ভেতরের একটা অবস্থার নাম। তাবারী এর ব্যাখ্যা দেন: যারা যা এসেছে তার সঠিকতা ও বাস্তবতা নিয়ে সন্দেহ করে। বাগাভী শুধু বলেন: সন্দেহকারীরা। তাকযীব বা মিথ্যা বলা সেখান থেকে এক ধাপ বাইরে। তখন আর বুকের ভেতর চেপে রাখা প্রশ্ন নয়, মুখে ঘোষিত রায়: এই বার্তা মিথ্যা। জবাব না পাওয়া সন্দেহ এখনো অস্বীকার নয়। তবু দুই আয়াত এ দুটিকে পাশাপাশি রেখেছে, অকারণে নয়।"
+          },
+          {
+            "en": "As-Sa'di then states a principle and applies it here: forbidding a thing is a command to its opposite. So this verse, which only says do not, also commands. What it commands, in his words, is complete assent to the Qur'an, the heart's being at rest with it, and turning towards it in knowledge and in action. By that, he says, a servant becomes one of those who profit, and loss is lifted from them.",
+            "bn": "এরপর সা'দী একটা নীতি উল্লেখ করে এখানে প্রয়োগ করেন: কোনো কিছু নিষেধ করা মানে তার বিপরীতটির আদেশ। তাহলে যে আয়াত শুধু 'না' বলছে, সে একটা আদেশও দিচ্ছে। তাঁর ভাষায় সে আদেশ হলো কুরআনকে পরিপূর্ণভাবে সত্য বলে মেনে নেওয়া, অন্তর তাতে নিশ্চিন্ত হওয়া, আর জ্ঞানে ও আমলে কুরআনের দিকে এগিয়ে যাওয়া। তিনি বলেন, এভাবেই বান্দা লাভবানদের একজন হয়, আর ক্ষতি তার থেকে দূর হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Addressed to Him, Meant for Others",
+          "bn": "সম্বোধন তাঁকে, লক্ষ্য অন্যরা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi and al-Baghawi give the same short comment on this verse: the address is to the Prophet ﷺ, and someone other than him is meant. Al-Qurtubi says it of these two verses; al-Baghawi says all of this is spoken to the Prophet ﷺ with others intended by it. On 10:94 al-Qurtubi puts the point in a single line: you are not in doubt, but others besides you have doubted.",
+            "bn": "কুরতুবী ও বাগাভী এই আয়াতে একই ছোট মন্তব্য করেন: সম্বোধন নবী ﷺ-কে, কিন্তু উদ্দেশ্য তিনি ছাড়া অন্যরা। কুরতুবী কথাটা বলেন এ দুই আয়াত সম্পর্কে। বাগাভী বলেন, এর পুরোটাই নবী ﷺ-কে উদ্দেশ করে বলা, অথচ লক্ষ্য অন্য মানুষ। ১০:৯৪ আয়াতে কুরতুবী বিষয়টা এক লাইনে বলে দেন: তুমি সন্দেহে নেই, সন্দেহ করেছে তুমি ছাড়া অন্যরা।"
+          },
+          {
+            "en": "Al-Baghawi, on 10:94, explains this as a habit of Arabic speech: a man is addressed and someone else is meant. His evidence comes from the Qur'an. Surah al-Ahzab opens with O Prophet, fear Allah, and the next verse closes with Allah being aware of what you do, in the plural, not what you do in the singular. Surah at-Talaq opens with O Prophet, and continues: when you divorce women, again in the plural. The singular address opens the door, and the plural shows who walks through it.",
+            "bn": "১০:৯৪ আয়াতে বাগাভী একে আরবি ভাষার একটা রীতি বলে ব্যাখ্যা করেন: সম্বোধন করা হয় একজনকে, আর বোঝানো হয় অন্য কাউকে। প্রমাণ তিনি আনেন কুরআন থেকেই। সূরা আহযাব শুরু হয় 'হে নবী, আল্লাহকে ভয় করো' দিয়ে। অথচ পরের আয়াতের শেষে আছে, তোমরা যা করো আল্লাহ সে খবর রাখেন। ক্রিয়াটা বহুবচন, একবচন নয়। সূরা তালাক শুরু হয় 'হে নবী' দিয়ে, তারপরই বলে: তোমরা যখন স্ত্রীদের তালাক দাও। এখানেও বহুবচন। একবচনের সম্বোধন দরজা খোলে, আর বহুবচন দেখিয়ে দেয় কারা ভেতরে ঢুকছে।"
+          },
+          {
+            "en": "Other readings on 10:94 aim the condition at a different hearer. Al-Baghawi reports that people in the Prophet's ﷺ time were believers, deniers and doubters, and that the words speak to the doubter: if you, O person, are in doubt. Al-Qurtubi relays from the grammarians Tha'lab and al-Mubarrad that the sense is say, O Muhammad, to the disbeliever, so that the idol-worshipper is sent to ask Jews who had accepted Islam, such as Abdullah ibn Salam (RA).",
+            "bn": "১০:৯৪ আয়াতের আরও কিছু পাঠ শর্তটাকে অন্য শ্রোতার দিকে তাক করে। বাগাভী জানান, নবী ﷺ-এর যুগে মানুষ ছিল তিন রকম: বিশ্বাসী, অস্বীকারকারী আর সন্দেহকারী। কথাটা বলা হয়েছে সন্দেহকারীকে: হে মানুষ, তুমি যদি সন্দেহে থাকো। কুরতুবী ব্যাকরণবিদ সা'লাব ও মুবাররাদ থেকে বর্ণনা করেন, অর্থ হলো: হে মুহাম্মাদ, কাফিরকে বলো। ফলে মূর্তিপূজারীকে পাঠানো হচ্ছে ইসলাম গ্রহণকারী ইহুদিদের কাছে জিজ্ঞেস করতে, যেমন আবদুল্লাহ ইবন সালাম (রাঃ)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If You Are My Son",
+          "bn": "তুমি যদি আমার ছেলে হও"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads this verse as spoken to the Prophet ﷺ directly: do not be, O Muhammad, of those who denied the proofs of Allah and His evidences. On 10:94 he raises the hard question himself. Was the Messenger ﷺ in doubt about Allah's report, that it was certain truth, so that he had to be told this? His answer is a single word, no, and he adds that a group of the people of knowledge said the same.",
+            "bn": "তাবারী আয়াতটিকে পড়েন সরাসরি নবী ﷺ-এর প্রতি সম্বোধন হিসেবে: হে মুহাম্মাদ, যারা আল্লাহর দলিল-প্রমাণকে মিথ্যা বলেছে, তুমি তাদের দলে যেয়ো না। ১০:৯৪ আয়াতে কঠিন প্রশ্নটা তিনি নিজেই তোলেন। আল্লাহর দেওয়া খবর যে নিশ্চিত সত্য, তা নিয়ে কি রাসূল ﷺ সন্দেহে ছিলেন, যে কারণে তাঁকে এ কথা বলতে হলো? তাঁর জবাব এক শব্দের: না। সঙ্গে যোগ করেন, আলেমদের একটি দলও একই কথা বলেছেন।"
+          },
+          {
+            "en": "His reason is an Arabic idiom. The Arabs say to a servant, if you are my servant, do as I command, though the master has no doubt whose servant he is; and a man says to his son, if you are my son, be dutiful to me. At-Tabari sets beside this 5:116, where Allah asks Isa (AS) whether he told people to take him and his mother as gods, knowing he had not. The Qur'an came down in their tongue, so Allah addressed him as they address each other.",
+            "bn": "তাঁর যুক্তি আরবদের একটা বাকরীতি। আরবরা গোলামকে বলে, তুমি যদি আমার গোলাম হও, আমার হুকুম মানো। অথচ সে কার গোলাম, তা নিয়ে মনিবের কোনো সন্দেহ নেই। বাবা ছেলেকে বলে, তুমি যদি আমার ছেলে হও, আমার সঙ্গে সদাচরণ করো। তাবারী এর পাশে রাখেন ৫:১১৬ আয়াত। সেখানে আল্লাহ ঈসা (আঃ)-কে জিজ্ঞেস করেন, তুমি কি মানুষকে বলেছিলে আমাকে ও আমার মাকে ইলাহ বানাও? অথচ আল্লাহ জানতেন, তিনি তা বলেননি। কুরআন নেমেছে আরবদের ভাষায়, তাই আল্লাহ তাঁকে সেভাবেই সম্বোধন করেছেন, যেভাবে তারা একে অপরকে করে।"
+          },
+          {
+            "en": "Al-Baghawi relays the same reasoning from al-Farra': Allah knew His Messenger was not doubting, and spoke in the manner of the Arabs. At-Tabari still leaves room for the other reading: addressed to the Prophet ﷺ but meant for one who professed faith with his tongue while his insight into the prophethood was not yet sound. That, he says, is a view whose soundness cannot be pushed away. They differ on whom the words aim at; none of them says he was in doubt.",
+            "bn": "বাগাভী একই যুক্তি ফাররা থেকে বর্ণনা করেন: আল্লাহ জানতেন তাঁর রাসূল সন্দেহে নেই, তিনি কথা বলেছেন আরবদের রীতিতে। তবু তাবারী অন্য পাঠটির জন্যও জায়গা রাখেন। সম্বোধন নবী ﷺ-কে, কিন্তু উদ্দেশ্য এমন লোক, যে মুখে ঈমানের কথা বলেছে অথচ নবুওয়াত নিয়ে তার অন্তর্দৃষ্টি তখনো পরিষ্কার হয়নি। তাবারীর ভাষায়, এ মতের সঠিকতা ঠেলে সরানো যায় না। সুতরাং কথাটা কাকে লক্ষ্য করে, তা নিয়ে তাফসীরকারদের মতভেদ আছে। কিন্তু তাঁদের কেউই বলেন না যে তিনি সন্দেহে ছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Neither Doubted Nor Asked",
+          "bn": "তিনি সন্দেহও করেননি, জিজ্ঞেসও করেননি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari backs his no with the early scholars. Sa'id ibn Jubayr, in three chains, says of this passage that the Prophet ﷺ did not doubt and did not ask; one wording reads, he neither doubted nor asked. In the third chain al-Hasan al-Basri is reported saying the same. Ibn Kathir adds that Ibn Abbas (RA), Sa'id ibn Jubayr and al-Hasan al-Basri said likewise, and he calls the passage a firming for the community, telling believers that their Prophet's description is found in the earlier books.",
+            "bn": "তাবারী তাঁর 'না'-এর পক্ষে প্রথম যুগের আলেমদের কথা আনেন। সাঈদ ইবন জুবাইর তিনটি সনদে এ আয়াত সম্পর্কে বলেন, নবী ﷺ সন্দেহ করেননি, জিজ্ঞেসও করেননি। এক বর্ণনার শব্দ: তিনি সন্দেহও করেননি, প্রশ্নও করেননি। তৃতীয় সনদে হাসান বসরী থেকেও একই কথা আসে। ইবন কাসীর যোগ করেন, ইবন আব্বাস (রাঃ), সাঈদ ইবন জুবাইর ও হাসান বসরী এমনটাই বলেছেন। তাঁর মতে এ অংশ উম্মাহর জন্য দৃঢ়তার উৎস। এতে মুমিনদের জানানো হচ্ছে, তাদের নবীর বিবরণ আগের কিতাবগুলোতে আছে।"
+          },
+          {
+            "en": "Qatadah also appears in at-Tabari, by two chains, relaying words attributed to the Prophet ﷺ himself on this verse. He says only that they were mentioned to him, or that they reached him, and names no one in between, so the chain stops short. No grading accompanies it, and nothing here is built on it. Al-Qurtubi likewise relays, from al-Husayn ibn al-Fadl, an unchained narration on the same topic, and it too is only mentioned.",
+            "bn": "তাবারীর কাছে দুটি সনদে কাতাদাও আছেন। তিনি এ আয়াত প্রসঙ্গে স্বয়ং নবী ﷺ-এর নামে কিছু কথা বর্ণনা করেন। তিনি শুধু বলেন, কথাটা তাঁদের কাছে উল্লেখ করা হয়েছে, কিংবা তাঁদের কাছে পৌঁছেছে। মাঝখানে কারও নাম নেই, তাই সনদ মাঝপথে থেমে গেছে। এর কোনো মান নির্ণয়ও সঙ্গে নেই, আর এখানে এর উপর কিছুই দাঁড় করানো হচ্ছে না। কুরতুবীও হুসাইন ইবনুল ফাদল থেকে একই বিষয়ে সনদবিহীন একটি বর্ণনা আনেন। সেটারও এখানে শুধু উল্লেখই থাকছে।"
+          },
+          {
+            "en": "Al-Husayn ibn al-Fadl's own point, in al-Qurtubi, is about grammar: the fa with conditional particles neither requires the act nor establishes it. If you are in doubt does not say that doubt occurred. No commentary fetched for this verse attaches a sound, graded hadith to it. What remains are the statements of Sa'id ibn Jubayr and al-Hasan, their own understanding of the verse, and they agree with the language.",
+            "bn": "কুরতুবীর বর্ণনায় হুসাইন ইবনুল ফাদলের নিজের কথাটা ব্যাকরণ নিয়ে: শর্তবাচক অব্যয়ের সঙ্গে আসা ফা কাজটা ঘটা জরুরি করে না, ঘটেছে বলে প্রমাণও করে না। 'তুমি যদি সন্দেহে থাকো' বললেই বোঝায় না যে সন্দেহ ঘটেছে। এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো সহীহ, মান নির্ণীত হাদীস জুড়ে দেয়নি। থাকে সাঈদ ইবন জুবাইর ও হাসানের বক্তব্য। এগুলো আয়াত সম্পর্কে তাঁদের নিজস্ব বোঝাপড়া, আর ভাষার সঙ্গে তা মিলে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proofs Known, Still Refused",
+          "bn": "চেনা প্রমাণ, তবু প্রত্যাখ্যান"
+        },
+        "p": [
+          {
+            "en": "What are the signs of Allah here? At-Tabari and the Muyassar use the same pair of words: the proofs of Allah and His evidences. As-Sa'di identifies them with the Qur'an, the clear signs that admit no denial. The difference is one of reach. The first casts the word over every proof Allah has set up; the second fixes it on the Book that 10:94 has just named.",
+            "bn": "এখানে আল্লাহর আয়াত বলতে কী বোঝায়? তাবারী ও মুয়াসসার একই জোড়া শব্দ ব্যবহার করেন: আল্লাহর দলিল ও তাঁর প্রমাণ। সা'দী একে কুরআন বলেই চিহ্নিত করেন, সেই স্পষ্ট আয়াত যা মিথ্যা বলার সুযোগ রাখে না। পার্থক্যটা পরিধির। প্রথম পাঠ শব্দটাকে ছড়িয়ে দেয় আল্লাহর দাঁড় করানো সব প্রমাণের উপর। দ্বিতীয়টি একে বেঁধে দেয় সেই কিতাবে, যার কথা ১০:৯৪ আয়াত এইমাত্র বলেছে।"
+          },
+          {
+            "en": "Ibn Kathir draws the line from here to those who knew. He cites 7:157, the unlettered Prophet whom they find written with them in the Torah and the Gospel, and says they recognise him from their books as they recognise their own sons, yet they cover it, distort it and alter it, and do not believe though the proof stands against them. The Qur'an makes the same comparison in 2:146 and 6:20, and 6:20 adds: those who have lost themselves will not believe.",
+            "bn": "ইবন কাসীর এখান থেকে একটা রেখা টানেন তাদের দিকে, যারা জানত। তিনি ৭:১৫৭ আয়াত উদ্ধৃত করেন: সেই উম্মী নবী, যাঁর কথা তারা তাওরাত ও ইনজীলে নিজেদের কাছে লেখা পায়। তাঁর ভাষায়, তারা কিতাব থেকে তাঁকে এমনভাবে চেনে, যেমন নিজের সন্তানকে চেনে। তবু ব্যাপারটা ঢেকে রাখে, বিকৃত করে, বদলে দেয়। প্রমাণ দাঁড়িয়ে থাকার পরও ঈমান আনে না। সন্তানকে চেনার এই তুলনা কুরআনে আছে ২:১৪৬ ও ৬:২০ আয়াতে। ৬:২০ আয়াত আরও বলে: যারা নিজেদের ক্ষতি করেছে, তারা ঈমান আনবে না।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes people who knew and denied in that time, and it licenses nothing against any living person or community, whether Jewish, Christian or any other. At-Tabari says the ones to be asked in 10:94 were the truthful and believing among the People of the Book, such as Abdullah ibn Salam (RA), and as-Sa'di that a group's testimony belongs to its upright members. The warning is aimed at the reader's own heart.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করছে সেই যুগের এমন মানুষের কথা, যারা জেনেও অস্বীকার করেছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে, ইহুদি, খ্রিস্টান বা অন্য যে-ই হোক, এ আয়াত কোনো কিছুর অনুমতি দেয় না। তাবারী বলেন, ১০:৯৪ আয়াতে যাদের জিজ্ঞেস করতে বলা হয়েছে, তারা আহলে কিতাবের মধ্যে সত্যবাদী ও ঈমানদারেরা, যেমন আবদুল্লাহ ইবন সালাম (রাঃ)। সা'দী বলেন, কোনো দলের সাক্ষ্য মানে তাদের ন্যায়নিষ্ঠ লোকদের সাক্ষ্য। সতর্কবাণীর নিশানা পাঠকের নিজের অন্তর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sale With No Profit",
+          "bn": "যে বেচাকেনায় কোনো লাভ নেই"
+        },
+        "p": [
+          {
+            "en": "The verse ends on al-khasirin, the losers, and at-Tabari and as-Sa'di both read it in the language of trade. At-Tabari explains the loser as someone whose share has been cheated, who sold the mercy of Allah and His pleasure and took in exchange His displeasure and His punishment. His own verb, sold, makes the picture a bargain gone wrong. The Muyassar is shorter: the losers are those with whom Allah is displeased and who have met His punishment.",
+            "bn": "আয়াত শেষ হয় আল খাসিরীন শব্দে, অর্থাৎ ক্ষতিগ্রস্তরা। তাবারী ও সা'দী দুজনেই শব্দটাকে পড়েন ব্যবসার ভাষায়। তাবারীর ব্যাখ্যায় ক্ষতিগ্রস্ত সেই লোক, যার ভাগ ঠকিয়ে নেওয়া হয়েছে। সে আল্লাহর রহমত আর সন্তুষ্টি বেচে দিয়ে বিনিময়ে নিয়েছে তাঁর অসন্তোষ ও শাস্তি। 'বেচে দেওয়া' শব্দটা তাঁর নিজের, তাতেই ছবিটা হয়ে যায় এক লোকসানি সওদা। মুয়াসসার আরও সংক্ষেপে বলে: ক্ষতিগ্রস্ত তারা, যাদের উপর আল্লাহ অসন্তুষ্ট এবং যারা তাঁর শাস্তির মুখোমুখি হয়েছে।"
+          },
+          {
+            "en": "As-Sa'di defines the loss more sharply: it is the absence of any profit at all. It means missing the reward in this world and the next, and meeting punishment in this world and the next. Against it he sets whoever assents fully and so joins the profiting, those who reach the loftiest of aims, the finest of hopes and the most complete of virtues.",
+            "bn": "সা'দী ক্ষতির সংজ্ঞা দেন আরও ধারালোভাবে: এ হলো একেবারেই কোনো লাভ না থাকা। মানে দুনিয়া ও আখিরাতে সওয়াব হারানো, আর দুনিয়া ও আখিরাতে শাস্তির মুখে পড়া। এর বিপরীতে তিনি রাখেন সেই মানুষকে, যে পুরোপুরি সত্য বলে মেনে নেয়। সে লাভবানদের দলে যায়, যারা পেয়েছে সবচেয়ে উঁচু লক্ষ্য, সবচেয়ে উত্তম আকাঙ্ক্ষা আর সবচেয়ে পূর্ণ গুণাবলি।"
+          },
+          {
+            "en": "The Qur'an ties this word to the Book elsewhere too. In 2:121, of those who recite the Book as it should be recited, it says they believe in it, and whoever disbelieves in it, those are the losers. In 39:15 the losers are those who lose themselves and their families on the Day of Resurrection, and that is called the clear loss. Beside these, the last word of 10:95 is not a setback but an account closed at a loss.",
+            "bn": "কুরআন অন্য জায়গাতেও এই শব্দটাকে কিতাবের সঙ্গে বেঁধে দিয়েছে। ২:১২১ আয়াতে বলা হয়েছে, যারা কিতাব যথাযথভাবে তিলাওয়াত করে, তারাই এর উপর ঈমান রাখে। আর যে একে অস্বীকার করে, তারাই ক্ষতিগ্রস্ত। ৩৯:১৫ আয়াতে ক্ষতিগ্রস্ত তারা, যারা কিয়ামতের দিন নিজেদের এবং নিজেদের পরিবারকে হারিয়ে বসে। সেটাকেই বলা হয়েছে সুস্পষ্ট ক্ষতি। এগুলোর পাশে রাখলে ১০:৯৫ আয়াতের শেষ শব্দটা সাময়িক ধাক্কা নয়, লোকসানে বন্ধ হয়ে যাওয়া গোটা এক হিসাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Assent That Reaches the Hands",
+          "bn": "যে বিশ্বাস আমলে গড়ায়"
+        },
+        "p": [
+          {
+            "en": "For a reader today, denial rarely sounds like the word false. It is usually quieter: a verse admired and never obeyed, a ruling explained away because it is inconvenient, a doubt kept warm instead of taken to someone who knows. The previous verse sent the doubter to ask those with knowledge. That is still the way off the slope: bring the question into the open, to people of knowledge and to the text itself, before it settles into a verdict.",
+            "bn": "আজকের পাঠকের কাছে অস্বীকার কদাচিৎ 'মিথ্যা' শব্দের চেহারায় আসে। সাধারণত সে আসে চুপিসারে। কোনো আয়াতের প্রশংসা করি, অথচ কখনো মানি না। কোনো বিধান অসুবিধাজনক বলে ব্যাখ্যা দিয়ে পাশ কাটাই। কোনো সন্দেহ জানা মানুষের কাছে না নিয়ে মনের ভেতরে লালন করি। আগের আয়াত সন্দেহকারীকে পাঠিয়েছিল জ্ঞানীদের জিজ্ঞেস করতে। ঢাল থেকে নামার পথ আজও সেটাই: প্রশ্নটা রায় হয়ে জমে যাওয়ার আগেই খোলাখুলি নিয়ে আসুন আলেমদের কাছে, আর কুরআনের কাছে।"
+          },
+          {
+            "en": "As-Sa'di's reading of the command hidden in this prohibition gives the rest of the shape: complete assent, a heart at rest with the Qur'an, and turning towards it in knowledge and in action. Assent that stays in the head has not yet reached the hands. If the Prophet ﷺ, who never doubted, was addressed with this warning, the rest of us can hear it without offence, and ask Allah for the profit He describes instead of the loss.",
+            "bn": "এই নিষেধের ভেতরে লুকানো আদেশ নিয়ে সা'দীর পাঠ বাকি ছবিটা পূর্ণ করে দেয়: কুরআনকে পুরোপুরি সত্য বলে মেনে নেওয়া, অন্তর তাতে নিশ্চিন্ত থাকা, আর জ্ঞানে ও আমলে তার দিকে এগোনো। যে বিশ্বাস শুধু মাথায় থেকে যায়, তা এখনো হাত-পায়ে পৌঁছায়নি। যে নবী ﷺ কখনো সন্দেহ করেননি, তাঁকেই যদি এ সতর্কবাণী শোনানো হয়, তাহলে আমরা বাকিরা মন খারাপ না করেই তা শুনতে পারি। আর আল্লাহর কাছে চাইতে পারি সেই লাভ, যার কথা তিনি বলেছেন, ক্ষতি নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "10:99": {
     "sections": [
       {
