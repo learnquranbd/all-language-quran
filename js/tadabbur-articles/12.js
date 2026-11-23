@@ -3187,6 +3187,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:58": {
+    "sections": [
+      {
+        "h": {
+          "en": "Years Folded Into One Verb",
+          "bn": "এক ক্রিয়ায় গুটানো বছরগুলো"
+        },
+        "p": [
+          {
+            "en": "Wa-ja'a ikhwatu Yusufa: and the brothers of Yusuf came. In 12:55 Yusuf (AS) asked for the storehouses of the land, and 12:56 to 12:57 closed that scene on Allah's mercy and the better reward of the Hereafter. Now the story moves on without a bridge: the years of plenty, the drought and the long road from home go untold. Al-Qurtubi glosses the opening as: they came to Egypt, when the famine struck them, to buy provisions, and he calls it an instance of the Qur'an's miraculous concision.",
+            "bn": "ওয়া জাআ ইখওয়াতু ইউসুফা: আর ইউসুফের ভাইয়েরা এল। ১২:৫৫ আয়াতে ইউসুফ (আঃ) দেশের ভাণ্ডারের দায়িত্ব চেয়েছিলেন, আর ১২:৫৬ ও ১২:৫৭ সেই দৃশ্য শেষ করেছে আল্লাহর রহমত আর আখিরাতের উত্তম প্রতিদানের কথায়। এবার কাহিনি কোনো সেতু ছাড়াই সামনে এগোয়। প্রাচুর্যের বছর, খরা, ঘর থেকে দীর্ঘ পথ, এর কিছুই বলা হয় না। কুরতুবী শুরুর কথাটির ব্যাখ্যা দেন এভাবে: দুর্ভিক্ষ যখন তাদের আঘাত করল, তখন তারা খাদ্য কিনতে মিসরে এল। তাঁর মতে এটি কুরআনের অলৌকিক সংক্ষেপের এক নমুনা।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an says the details in between were left out because the context makes them clear, and the Muyassar keeps to one line: they came after drought had come down on their land, to fetch food. As-Sa'di fills the gap from the story itself. Yusuf (AS) managed the storehouses in the best way, sowing all of Egypt in the fertile years and gathering and guarding a great store of food. When the barren years came, the drought spread to Palestine, where Ya'qub (AS) and his sons lived, and Ya'qub sent his sons to Egypt for provisions.",
+            "bn": "মাআরিফুল কুরআন বলে, মাঝখানের বিবরণ বাদ রাখা হয়েছে, কারণ প্রসঙ্গ থেকেই তা বোঝা যায়। মুয়াসসার একটি বাক্যে থামে: নিজেদের দেশে খরা নামার পর তারা খাবার নিতে এসেছিল। সা'দী ফাঁকটা পূরণ করেন কাহিনির ভেতর থেকেই। ইউসুফ (আঃ) ভাণ্ডার সামলেছিলেন সবচেয়ে ভালোভাবে। উর্বর বছরগুলোতে গোটা মিসরে চাষ করিয়েছিলেন, বিপুল খাদ্য জমা করে যত্নে আগলে রেখেছিলেন। তারপর এল অনাবৃষ্টির বছর। খরা ছড়িয়ে পৌঁছাল ফিলিস্তিনে, যেখানে ইয়াকুব (আঃ) আর তাঁর ছেলেরা থাকতেন। তখন তিনি খাদ্যের জন্য ছেলেদের মিসরে পাঠালেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Camel-Load to a Man",
+          "bn": "মাথাপিছু এক উটের বোঝা"
+        },
+        "p": [
+          {
+            "en": "What brought ten men from Palestine all the way to Egypt? At-Tabari answers with a report from Ibn Ishaq. Once Yusuf (AS) was settled in his rule and the fertile years had passed, people were in hardship on every side and made for Egypt from every town, seeking provisions. Seeing their distress, Yusuf treated them all alike: he would load for a man one camel only, never two, dividing fairly between people and making room for them all.",
+            "bn": "ফিলিস্তিন থেকে দশজন মানুষ কেন এত দূরে মিসরে এল? তাবারী এর জবাব দেন ইবন ইসহাকের একটি বর্ণনা দিয়ে। ইউসুফ (আঃ) যখন নিজের ক্ষমতায় স্থির হলেন আর উর্বর বছরগুলো পেরিয়ে গেল, তখন চারদিকে মানুষ কষ্টে পড়ল। প্রতিটি জনপদ থেকে তারা খাদ্যের খোঁজে মিসরের দিকে ছুটল। মানুষের দুরবস্থা দেখে ইউসুফ (আঃ) সবাইকে এক চোখে দেখলেন। একজনের জন্য একটি উটের বেশি বোঝাই করতেন না, কখনো দুটি নয়। এভাবে সবার মধ্যে ন্যায্যভাবে ভাগ করতেন, যাতে সবার জায়গা হয়।"
+          },
+          {
+            "en": "Ibn Kathir gives the same limit, one camel-load a year, and adds that Yusuf (AS) did not eat his fill: he, the king and their soldiers ate one meal at midday, so that people could make what they held last the seven years. He was, Ibn Kathir says, a mercy from Allah upon the people of Egypt. Al-Qurtubi relays from Ibn 'Abbas and others that his name spread far for gentleness, mercy, justice and conduct, and that he sat at the selling himself, giving a wasq for each head.",
+            "bn": "ইবন কাসীরও একই সীমার কথা বলেন: বছরে এক উটের বোঝা। তিনি যোগ করেন, ইউসুফ (আঃ) পেট ভরে খেতেন না। তিনি, রাজা আর তাঁদের সৈন্যরা দিনে একবার খেতেন, দুপুরে, যাতে মানুষের হাতে যা আছে তা দিয়ে সাতটি বছর চলে। ইবন কাসীরের ভাষায়, তিনি ছিলেন মিসরবাসীর প্রতি আল্লাহর এক রহমত। কুরতুবী ইবন আব্বাস (রাঃ) ও অন্যদের সূত্রে আনেন, তাঁর কোমলতা, দয়া, ন্যায় আর চালচলনের সুনাম দূর দেশে ছড়িয়ে পড়েছিল। বিক্রির সময় তিনি নিজেই বসতেন, আর মাথাপিছু এক ওয়াসক করে দিতেন।"
+          },
+          {
+            "en": "Ibn Kathir also records a story some commentators tell: that Yusuf (AS) sold to the people for money, then for goods, until, owning all they had, he took their persons and children in payment, then freed them and returned their wealth. Allah knows best whether it is sound, he says; it is among the Isra'iliyyat, neither believed nor denied. Ma'arif al-Qur'an is gentler on the wider narrative from as-Suddi, Ibn Ishaq and others: even if drawn from Israelite reports, it may be accepted in some measure, since the Qur'an's own sequence points that way.",
+            "bn": "ইবন কাসীর আরেকটি কাহিনিও উল্লেখ করেন, যা কিছু তাফসীরকার বলেন। তাতে আছে, ইউসুফ (আঃ) মানুষের কাছে খাদ্য বেচেছিলেন প্রথমে অর্থের বিনিময়ে, পরে মালপত্রের বিনিময়ে। তাদের সব সম্পদ তাঁর মালিকানায় এলে শেষে নিয়েছিলেন তাদের নিজেদের আর সন্তানদের। তারপর সবাইকে মুক্ত করে সম্পদ ফিরিয়ে দিয়েছিলেন। ইবন কাসীর বলেন, এর সত্যতা আল্লাহই ভালো জানেন। এটি সেই ইসরাঈলী বর্ণনার অন্তর্ভুক্ত, যা সত্যও বলা যায় না, মিথ্যাও না। সুদ্দী, ইবন ইসহাক ও অন্যদের বৃহত্তর বিবরণ নিয়ে মাআরিফুল কুরআনের দৃষ্টি নরম। ইসরাঈলী বর্ণনা থেকে নেওয়া হলেও তা কিছু মাত্রায় গ্রহণ করা যায়, কারণ কুরআনের নিজের বিন্যাসেই সেদিকে ইঙ্গিত আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ten Rode Out, One Stayed",
+          "bn": "দশজন রওনা, একজন ঘরে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir places the brothers among the crowds who came for provisions, sent by their father. They had heard that the 'Aziz of Egypt gave food for its price, so they took goods to exchange, and ten of them rode out. Ya'qub (AS) kept Binyamin at home, Yusuf's full brother and, after Yusuf, the dearest of his sons to him. As-Suddi's report in at-Tabari says the same more briefly: hunger reached Ya'qub's land, he sent his sons, and he held back Binyamin.",
+            "bn": "ইবন কাসীর ভাইদের রাখেন খাদ্যের খোঁজে আসা জনস্রোতের মধ্যে, আর তারা এসেছিল বাবার পাঠানোয়। তারা শুনেছিল, মিসরের আযীয দাম নিয়ে মানুষকে খাদ্য দেন। তাই বদলে দেওয়ার জন্য কিছু পণ্য সঙ্গে নিল, আর দশজন রওনা দিল। ইয়াকুব (আঃ) বিনয়ামীনকে নিজের কাছে রেখে দিলেন। তিনি ইউসুফ (আঃ)-এর আপন ভাই, আর ইউসুফের পর ছেলেদের মধ্যে বাবার সবচেয়ে প্রিয়। তাবারীতে সুদ্দীর বর্ণনা একই কথা বলে আরও সংক্ষেপে: ইয়াকুব (আঃ)-এর দেশেও ক্ষুধা পৌঁছাল, তিনি ছেলেদের পাঠালেন আর বিনয়ামীনকে আটকে রাখলেন।"
+          },
+          {
+            "en": "Al-Baghawi says their home was at al-'Arnat in Palestine, in the Ghawr of al-Sham, among people of the open country with camels and sheep. Ya'qub (AS) told them he had heard of a righteous king in Egypt who sold food. Ma'arif al-Qur'an explains why all went: a man was given no more than a camel-load, so every son travelled except the youngest, kept by his father for comfort. The Qur'an itself counts none of this; the absent brother first enters the text in 12:59.",
+            "bn": "বাগাভী বলেন, তাদের বাস ছিল ফিলিস্তিনের আল-আরনাতে, শামের গাওর অঞ্চলে। তারা ছিল খোলা প্রান্তরের মানুষ, উট আর ছাগল-ভেড়ার মালিক। ইয়াকুব (আঃ) তাদের বলেছিলেন, তিনি শুনেছেন মিসরে এক নেককার বাদশাহ খাদ্য বিক্রি করেন। সবাই কেন গেল, মাআরিফুল কুরআন তার কারণ দেখায়। একজনকে এক উটের বোঝার বেশি দেওয়া হতো না, তাই সব ছেলেই গেল, শুধু ছোটজন ছাড়া, যাকে বাবা সান্ত্বনার জন্য কাছে রেখেছিলেন। কুরআন নিজে এর কিছুই গুনে বলে না। অনুপস্থিত ভাইটি পাঠে প্রথম আসেন ১২:৫৯ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At First Sight, or Later?",
+          "bn": "প্রথম দেখায়, নাকি পরে?"
+        },
+        "p": [
+          {
+            "en": "Fa-'arafahum: and he knew them. Al-Baghawi relays from Ibn 'Abbas and Mujahid that he recognised them at the very first look, and Ibn Kathir says likewise that he knew them when he looked at them. But al-Baghawi also relays a different view from al-Hasan: Yusuf (AS) did not know them until they made themselves known to him. Al-Baghawi sets the two side by side without choosing between them, and so does this article.",
+            "bn": "ফা আরাফাহুম: আর তিনি তাদের চিনলেন। বাগাভী ইবন আব্বাস (রাঃ) ও মুজাহিদের সূত্রে আনেন, প্রথম দৃষ্টিতেই তিনি তাদের চিনে ফেলেছিলেন। ইবন কাসীরও বলেন, তাদের দিকে তাকাতেই তিনি চিনলেন। তবে বাগাভী হাসানের একটি ভিন্ন মতও আনেন। তাঁর মতে ইউসুফ (আঃ) তাদের চেনেননি, যতক্ষণ না তারা নিজেরাই পরিচয় দিয়েছিল। বাগাভী দুটি মত পাশাপাশি রাখেন, কোনোটিকে বেছে নেন না। এ লেখাও বেছে নেয় না।"
+          },
+          {
+            "en": "Either way, the knowing is all on one side. At-Tabari's report from Ibn Ishaq gives the reason: he knew them and they did not know him, because of what Allah willed to bring Yusuf (AS) to in what He intended. Their blindness, read so, is part of a purpose. Al-Qurtubi closes his list with a view introduced by it is said: that they failed to know him through something beyond the ordinary, a test by which Allah tried Ya'qub (AS).",
+            "bn": "যেভাবেই হোক, চেনাটা ছিল একতরফা। তাবারীতে ইবন ইসহাকের বর্ণনা এর কারণ বলে দেয়: তিনি তাদের চিনলেন, তারা তাঁকে চিনল না, কারণ আল্লাহ নিজের অভিপ্রায় অনুযায়ী ইউসুফ (আঃ)-কে যেখানে পৌঁছাতে চেয়েছিলেন, সেখানে পৌঁছানোর জন্যই এমন হলো। এভাবে পড়লে তাদের না চেনা এক উদ্দেশ্যের অংশ। কুরতুবী তাঁর তালিকা শেষ করেন 'বলা হয়' দিয়ে আনা একটি মতে: তারা তাঁকে চিনতে পারেনি স্বাভাবিকের বাইরের কোনো কারণে, যা ছিল ইয়াকুব (আঃ)-এর জন্য আল্লাহর এক পরীক্ষা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Hid Him From Their Eyes",
+          "bn": "কী তাঁকে তাদের চোখে অচেনা রাখল"
+        },
+        "p": [
+          {
+            "en": "Wa-hum lahu munkirun: and they did not know him. Ma'arif al-Qur'an explains that inkar at root means taking someone as a stranger, so munkirun is unable to recognise. At-Tabari glosses it as they did not know him, relaying the same from Qatada, and as-Sa'di and al-Baghawi gloss it the same way. The verse gives no reason; the commentators give several, best read as a list of answers rather than one settled account.",
+            "bn": "ওয়া হুম লাহু মুনকিরূন: আর তারা তাঁকে চিনতে পারল না। মাআরিফুল কুরআন বলে, ইনকারের আসল অর্থ কাউকে অচেনা হিসেবে দেখা, তাই মুনকিরূন মানে চিনতে অক্ষম। তাবারী এর ব্যাখ্যা দেন, তারা তাঁকে চিনত না, আর কাতাদা থেকেও একই কথা আনেন। সা'দী ও বাগাভীও শব্দটির একই ব্যাখ্যা দেন। আয়াত নিজে কোনো কারণ বলে না। তাফসীরকারেরা কয়েকটি কারণ দেন, যা একটি নিষ্পন্ন ব্যাখ্যা নয়, বরং কয়েকটি সম্ভাব্য উত্তরের তালিকা হিসেবে পড়াই ভালো।"
+          },
+          {
+            "en": "The first is time. Al-Baghawi relays from Ibn 'Abbas that forty years lay between the well and this meeting, and that this is why they did not know him. Al-Qurtubi also gives forty years and says they had left him a boy; Ma'arif al-Qur'an puts his age then at seven. Ibn Kathir says they parted from him young and sold him to the caravan without knowing where he would be taken. The Muyassar names the long time and the change in his appearance.",
+            "bn": "প্রথম উত্তর সময়। বাগাভী ইবন আব্বাস (রাঃ)-এর সূত্রে আনেন, কূপের ঘটনা আর এই সাক্ষাতের মাঝে কেটে গিয়েছিল চল্লিশ বছর, সেজন্যই তারা তাঁকে চেনেনি। কুরতুবীও চল্লিশ বছরের কথা বলেন, আর বলেন তারা তাঁকে রেখে গিয়েছিল শিশু অবস্থায়। মাআরিফুল কুরআনের হিসাবে তখন তাঁর বয়স ছিল ৭ বছর। ইবন কাসীর বলেন, তারা তাঁকে ছেড়েছিল ছোট বয়সে, কাফেলার কাছে বেচে দিয়েছিল, আর জানতও না তাঁকে কোথায় নিয়ে যাওয়া হবে। মুয়াসসার কারণ হিসেবে বলে দীর্ঘ সময় আর তাঁর চেহারার পরিবর্তন।"
+          },
+          {
+            "en": "The second is expectation. Al-Qurtubi says they never imagined that after slavery he could reach such rule, and Ibn Kathir that it never crossed their minds he would become what he became. Ma'arif al-Qur'an agrees that a child once sold as a slave becoming a king or minister could never have occurred to them. People tend to see what they expect, and these men least of all expected to find their brother on the seat of power in Egypt.",
+            "bn": "দ্বিতীয় উত্তর প্রত্যাশা। কুরতুবী বলেন, দাসত্বের পর তিনি যে এমন রাজকীয় অবস্থায় পৌঁছাতে পারেন, তা তারা কল্পনাও করেনি। ইবন কাসীর বলেন, তিনি যা হয়েছেন তা হতে পারেন, এ ভাবনা তাদের মনে কখনো আসেনি। মাআরিফুল কুরআনও একমত: একদিন দাস হিসেবে বিক্রি হওয়া শিশু রাজা বা মন্ত্রী হতে পারে, এটা তাদের মাথায় আসার কথাই নয়। মানুষ সাধারণত তা-ই দেখে, যা দেখার আশা করে। আর মিসরের ক্ষমতার আসনে নিজেদের ভাইকে পাওয়ার আশা এদের মনে সবচেয়ে কম ছিল।"
+          },
+          {
+            "en": "The third is his royal state. Al-Baghawi relays from 'Ata' that he sat on the king's throne with the crown on his head, and adds, under it is said, that he wore the dress of Egypt's kings, silk with a gold collar. Al-Qurtubi gives a similar it is said, with the dress of Egypt's Pharaoh, then turns it round: Yusuf (AS) saw them just as he had known them, in the same clothes and ornament. He also allows that they took him for an unbelieving king, or saw him behind a screen.",
+            "bn": "তৃতীয় উত্তর তাঁর রাজকীয় অবস্থা। বাগাভী আতার সূত্রে আনেন, তিনি বসেছিলেন বাদশাহর সিংহাসনে, মাথায় মুকুট। 'বলা হয়' কথাটি দিয়ে যোগ করেন, তাঁর পরনে ছিল মিসরের রাজাদের পোশাক, রেশমি কাপড়, গলায় সোনার হার। কুরতুবীও 'বলা হয়' দিয়ে প্রায় একই ছবি আনেন, মিসরের ফিরআউনের বেশে। তারপর ছবিটা উল্টে দেখান: ইউসুফ (আঃ) কিন্তু তাদের দেখলেন ঠিক আগের মতোই, সেই পোশাকে, সেই সাজে। তিনি আরও সম্ভাবনা রাখেন যে তারা তাঁকে অবিশ্বাসী কোনো রাজা ভেবেছিল, অথবা পর্দার আড়াল থেকে দেখেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions Put to Strangers",
+          "bn": "অচেনাদের প্রতি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verse ends at the moment of recognition, but the reports go on into the room. Ibn Kathir relays from as-Suddi and others that Yusuf (AS) began to question them as though he took exception to them. What brought you to my land? We came for provisions. Perhaps you are spies? Allah forbid. Where are you from? From the land of Kan'an, and our father is Ya'qub, the Prophet of Allah. Has he other sons? Yes, we were twelve; the youngest went off and perished in the wilderness, and he was the dearest of us to our father.",
+            "bn": "আয়াত থেমে যায় চেনার মুহূর্তে, কিন্তু বর্ণনাগুলো ঘরের ভেতরে আরও এগোয়। ইবন কাসীর সুদ্দী ও অন্যদের সূত্রে আনেন, ইউসুফ (আঃ) তাদের এমনভাবে প্রশ্ন শুরু করলেন, যেন তাদের ব্যাপারে আপত্তি আছে। আমার দেশে কী নিয়ে এসেছ? আমরা খাদ্য নিতে এসেছি। তোমরা গুপ্তচর নও তো? আল্লাহর আশ্রয় চাই। কোথা থেকে এসেছ? কিনআন দেশ থেকে, আমাদের পিতা আল্লাহর নবী ইয়াকুব (আঃ)। তাঁর কি আর ছেলে আছে? হ্যাঁ, আমরা ছিলাম ১২ ভাই। সবার ছোটজন প্রান্তরে গিয়ে মারা গেছে, আর সে-ই ছিল বাবার সবচেয়ে প্রিয়।"
+          },
+          {
+            "en": "His full brother remains, they add, and their father keeps him close for comfort. Then Yusuf (AS) ordered that they be lodged and honoured. As-Suddi's version in at-Tabari is sharper: he calls them liars and spies, asks how a truthful father can love the youngest over the elder, and has them leave one of their number as a pledge, Sham'un. Al-Baghawi has them speak to him in Hebrew, and the pledge, drawn by lot, falls on Sham'un, who had thought best of Yusuf.",
+            "bn": "তারা আরও বলে, তার আপন ভাই বেঁচে আছে, বাবা সান্ত্বনার জন্য তাকে কাছে রেখেছেন। এরপর ইউসুফ (আঃ) আদেশ দিলেন, তাদের যেন থাকার জায়গা দেওয়া হয় আর সম্মান করা হয়। তাবারীতে সুদ্দীর বর্ণনা আরও কড়া। সেখানে তিনি তাদের মিথ্যাবাদী আর গুপ্তচর বলেন। প্রশ্ন করেন, সত্যনিষ্ঠ পিতা বড়দের বাদ দিয়ে ছোটজনকে বেশি ভালোবাসেন কী করে? শেষে একজনকে জামিন হিসেবে রেখে যেতে বলেন, আর তারা শামঊনকে রেখে যায়। বাগাভীর বর্ণনায় তারা তাঁর সঙ্গে হিব্রু ভাষায় কথা বলেছিল। জামিন ঠিক হয় লটারিতে, আর তা পড়ে শামঊনের ভাগে, যিনি ইউসুফ (আঃ)-এর ব্যাপারে সবচেয়ে ভালো ধারণা রাখতেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the questioning as purposeful: he examined them the way people under suspicion are examined, so that they would state the truth clearly. All of this is report, not revelation. The Qur'an moves straight on to his request in 12:59, the condition in 12:60 and their promise in 12:61, each discussed under its own verse. No tafsir fetched for this verse attaches a hadith to it. The reports add colour, held loosely; the verse is the frame.",
+            "bn": "মাআরিফুল কুরআন এই জিজ্ঞাসাবাদকে উদ্দেশ্যমূলক বলে পড়ে। সন্দেহভাজন মানুষকে যেভাবে যাচাই করা হয়, তিনি সেভাবেই তাদের যাচাই করেছিলেন, যাতে তারা সত্যটা পরিষ্কার করে বলে। এর সবই বর্ণনা, ওহি নয়। কুরআন সরাসরি চলে যায় ১২:৫৯-এ তাঁর দাবিতে, ১২:৬০-এ শর্তে, আর ১২:৬১-এ তাদের অঙ্গীকারে। প্রতিটির আলোচনা নিজ নিজ আয়াতে। এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। বর্ণনাগুলো ছবিতে রং যোগ করে, তাদের ধরতে হয় হালকা হাতে। কাঠামো আয়াত নিজেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ten Men, Not a Type",
+          "bn": "দশজন মানুষ, কোনো ছাঁচ নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes ten particular men in one story, brothers who had once wronged Yusuf (AS) and now stand before him unknowing. It licenses nothing against any living person, family or community, and gives no one leave to cast a rival, a relative or a people in their role. The Qur'an itself carries these brothers on to 12:97, where they ask their father to seek forgiveness for them and admit that they had done wrong.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত একটি কাহিনির নির্দিষ্ট দশজন মানুষের কথা বলে, যে ভাইয়েরা একসময় ইউসুফ (আঃ)-এর প্রতি অন্যায় করেছিল, আর আজ না জেনেই তাঁর সামনে দাঁড়িয়েছে। জীবিত কোনো মানুষ, পরিবার বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। কোনো প্রতিদ্বন্দ্বী, আত্মীয় বা জাতিকে তাদের জায়গায় বসানোর অধিকারও কাউকে দেয় না। কুরআন নিজেই এই ভাইদের নিয়ে যায় ১২:৯৭ পর্যন্ত, যেখানে তারা বাবাকে তাদের জন্য ক্ষমা চাইতে বলে আর স্বীকার করে যে তারা অপরাধী ছিল।"
+          },
+          {
+            "en": "Nor does the verse fault Yusuf (AS) for knowing them and keeping silent. The one-sided recognition sits, in the reports above, inside a purpose Allah willed. In Ibn Kathir's report his first order is that they be lodged and honoured, and in 12:59 he speaks of giving full measure and being the best of hosts. Later, 12:76 calls the plan that follows Allah's own: thus did We plan for Yusuf.",
+            "bn": "তাদের চিনেও চুপ থাকার জন্য আয়াত ইউসুফ (আঃ)-এর উপর কোনো দোষ চাপায় না। উপরের বর্ণনাগুলোতে এই একতরফা চেনা আল্লাহর ইচ্ছা করা এক উদ্দেশ্যের ভেতরে রাখা। ইবন কাসীরের বর্ণনায় তাঁর প্রথম আদেশই ছিল তাদের থাকার জায়গা দেওয়া আর সম্মান করা। ১২:৫৯-এ তিনি নিজের সম্পর্কে বলেন, তিনি মাপ পূর্ণ করে দেন আর তিনি উত্তম আতিথেয়তাকারী। পরে ১২:৭৬ সামনের পরিকল্পনাটিকে আল্লাহর নিজের বলে ঘোষণা করে: এভাবে আমি ইউসুফের জন্য কৌশল করেছিলাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Known Long Before Knowing",
+          "bn": "চেনার অনেক আগেই চেনা"
+        },
+        "p": [
+          {
+            "en": "Sit with the shape of the scene. The men who once held all the power over a boy at a well's edge now need bread from his hand, and all the knowledge in the room is his. He sees them as they always were; they see a stranger. Whatever is said about time, crowns and expectation, the verse sets one fact before the reader: the one who was wronged sees clearly, and those who wronged him walk in unaware.",
+            "bn": "দৃশ্যটির গড়ন নিয়ে একটু ভাবুন। যে মানুষগুলোর হাতে একদিন কূপের কিনারে দাঁড়ানো এক বালকের উপর পুরো ক্ষমতা ছিল, আজ তাদের রুটি চাইতে হচ্ছে তাঁরই হাত থেকে। আর ঘরের সব জ্ঞান তাঁর কাছে। তিনি তাদের দেখছেন আগের মতোই, তারা দেখছে এক অচেনা মানুষ। সময়, মুকুট আর প্রত্যাশা নিয়ে যা-ই বলা হোক, আয়াত পাঠকের সামনে একটি সত্য রাখে। যার প্রতি অন্যায় হয়েছিল, স্পষ্ট দেখছেন তিনিই। আর যারা অন্যায় করেছিল, তারা ঢোকে কিছু না জেনেই।"
+          },
+          {
+            "en": "Two lessons follow without leaning on any report. The first is for whoever has been wronged and left to wait: the long middle of a story is not its end, and 12:56 has already promised that the reward of those who do good is never lost. The second is for whoever is given power over someone who once hurt them. Knowing more than others, and holding that knowledge with restraint until its right time, is a trust, not a weapon.",
+            "bn": "কোনো বর্ণনার উপর ভর না দিয়েই এখান থেকে দুটি শিক্ষা আসে। প্রথমটি তার জন্য, যার প্রতি অন্যায় হয়েছে আর যাকে অপেক্ষায় ফেলে রাখা হয়েছে। কাহিনির দীর্ঘ মাঝখানটা তার শেষ নয়। ১২:৫৬ আগেই প্রতিশ্রুতি দিয়েছে, সৎকর্মশীলদের প্রতিদান কখনো নষ্ট হয় না। দ্বিতীয়টি তার জন্য, যে এমন কারও উপর ক্ষমতা পেয়েছে, যে একদিন তাকে কষ্ট দিয়েছিল। অন্যদের চেয়ে বেশি জানা, আর ঠিক সময় না আসা পর্যন্ত সে জ্ঞান সংযমে ধরে রাখা, এ এক আমানত, অস্ত্র নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "12:62": {
     "sections": [
       {

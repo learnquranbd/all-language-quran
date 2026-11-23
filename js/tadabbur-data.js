@@ -33143,6 +33143,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give Allah no rival in your love, fear or trust, and never take a long, comfortable life as His approval of how you are living it.",
     "lessonBn": "ভালোবাসা, ভয় বা ভরসায় আল্লাহর কোনো প্রতিদ্বন্দ্বী দাঁড় করাবেন না, আর দীর্ঘ আরামের জীবনকে কখনো ভাববেন না যে আপনার জীবনযাপনে তিনি সন্তুষ্ট।"
+  },
+  "12:58": {
+    "reflectionEn": "Famine has driven ten men from their pastures to a foreign court, to buy grain from a stranger. They walk in, stand before the man who keeps the stores, and see only an official of Egypt. He looks at them and knows every face. The last time they stood together around him, they let him down into a well. Now the brother they gave away holds their bread in his hands, and they have no idea. The verse says this much and stops, and it leaves me asking who I would be in either place. When I hold power over someone who once wronged me, what do I do with it? And how many people stand in front of me whom I have never really seen?",
+    "reflectionBn": "দুর্ভিক্ষ দশজন মানুষকে তাদের চারণভূমি থেকে টেনে এনেছে এক ভিনদেশি দরবারে, অচেনা কারও কাছ থেকে খাদ্যশস্য কিনতে। তারা ভেতরে ঢুকে গুদামের দায়িত্বে থাকা মানুষটির সামনে দাঁড়ায়। চোখে পড়ে শুধু মিসরের এক কর্তাব্যক্তি। অথচ তিনি তাদের দিকে তাকিয়েই প্রত্যেকটি মুখ চিনে ফেলেন। শেষবার যখন তারা সবাই তাঁকে ঘিরে দাঁড়িয়েছিল, তখন তাঁকে কূপে নামিয়ে দিয়েছিল। আজ যে ভাইকে তারা বিদায় করে দিয়েছিল, তাদের রুটি তাঁরই হাতে, আর তারা কিছুই টের পায় না। আয়াত এটুকু বলেই থেমে যায়। আমার মনে প্রশ্ন জাগে, এই দুই জায়গার যেকোনোটিতে আমি থাকলে কেমন মানুষ হতাম? যে একদিন আমার প্রতি অন্যায় করেছিল, তার উপর ক্ষমতা হাতে পেলে আমি তা দিয়ে কী করি? আর আমার সামনে রোজ কত মানুষ দাঁড়ায়, যাদের আমি আসলে কখনো দেখিইনি?",
+    "pointsEn": [
+      "When someone who once hurt me needs something only I can give, what is my first instinct, and is it the one I would want Allah to see?",
+      "Have I ever written a person off as lost, only to find that Allah had raised them far beyond what I imagined?",
+      "Who stands in front of me every day, at work or at home, whom I have never really looked at?",
+      "Can I keep a hard truth to myself until the right hour, instead of spending it the moment I am able to?",
+      "Do I trust that Allah can turn the most painful part of my story into the place where it begins to come right?"
+    ],
+    "pointsBn": [
+      "যে একসময় আমাকে কষ্ট দিয়েছে, সে যদি এমন কিছুর জন্য আসে যা কেবল আমিই দিতে পারি, তখন আমার প্রথম ঝোঁকটা কী হয়? আল্লাহ তা দেখুন, এমনটা কি আমি চাইব?",
+      "কাউকে কি কখনো হারিয়ে যাওয়া মানুষ বলে বাদ দিয়ে দিয়েছি, পরে দেখেছি আল্লাহ তাকে আমার কল্পনার চেয়ে অনেক উঁচুতে তুলেছেন?",
+      "কর্মস্থলে বা ঘরে রোজ কে আমার সামনে দাঁড়ায়, যার দিকে আমি কখনো ভালো করে তাকাইনি?",
+      "কোনো কঠিন সত্য কি আমি ঠিক সময় আসা পর্যন্ত নিজের কাছে রাখতে পারি, নাকি সুযোগ পেলেই তা খরচ করে ফেলি?",
+      "আমি কি ভরসা রাখি যে আমার জীবনের সবচেয়ে বেদনার অধ্যায়টিকেই আল্লাহ সেই জায়গা বানিয়ে দিতে পারেন, যেখান থেকে সব ঠিক হতে শুরু করে?"
+    ],
+    "lessonEn": "Allah can bring the wronged and those who wronged him face to face in His own time; when that hour reaches you, hold your power with restraint and leave room for repair.",
+    "lessonBn": "যার প্রতি অন্যায় হয়েছে আর যারা অন্যায় করেছে, আল্লাহ নিজের সময়ে তাদের মুখোমুখি করতে পারেন। সেই মুহূর্ত আপনার জীবনে এলে ক্ষমতাকে সংযমের সঙ্গে ধরে রাখুন, আর সম্পর্ক জোড়া লাগার পথ খোলা রাখুন।"
   }
 };
 
