@@ -31463,6 +31463,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Enjoy what Allah grows for you, give its due on the day it reaches your hands, and keep to the limit in both eating and giving.",
     "lessonBn": "আল্লাহ আপনার জন্য যা জন্মান তা উপভোগ করুন, হাতে আসার দিনই তার হক আদায় করুন, আর খাওয়া ও দেওয়া দুটোতেই সীমার ভেতরে থাকুন।"
+  },
+  "6:156": {
+    "reflectionEn": "Before the Qur'an came, the people of Makkah had a ready answer. The Scripture went to two groups before us, and we never knew what they were reading. It was in another tongue, kept by other people, and we were busy with our own affairs. This verse says the Book was sent down so that this sentence could never be said again. Now the position is reversed. The Book has come in clear Arabic, and today it sits beside a translation in almost any language a person reads. The old plea was about distance. Mine, if I have one, would be about attention. What is in this Book that I still could not tell you, only because I never sat down and read it?",
+    "reflectionBn": "কুরআন আসার আগে মক্কার লোকদের মুখে একটা তৈরি জবাব ছিল। কিতাব তো এসেছিল আমাদের আগের দুই দলের কাছে, ওরা কী পড়ত আমরা কখনো জানতাম না। সে কিতাব ছিল অন্য ভাষায়, অন্যদের হাতে, আর আমরা নিজেদের কাজকর্মে ব্যস্ত ছিলাম। এ আয়াত জানায়, কিতাব নাজিল হয়েছে যাতে এ কথা আর কখনো বলা না যায়। এখন ছবিটা উল্টে গেছে। কিতাব এসেছে স্পষ্ট আরবিতে, আর আজ প্রায় যেকোনো ভাষায় তার অনুবাদ হাতের কাছেই আছে। তাদের অজুহাত ছিল দূরত্বের। আমার যদি কোনো অজুহাত থাকে, তা মনোযোগের অভাবের। এই কিতাবে এমন কী আছে, যা আমি আজও বলতে পারব না, শুধু এ কারণে যে কখনো বসে পড়ে দেখিনি?",
+    "pointsEn": [
+      "If someone asked me what the surahs I recite in prayer actually say, could I tell them in my own language?",
+      "Which parts of the Qur'an have I left as someone else's study, something scholars read but not me?",
+      "The old excuse was that the Book was not in their tongue. What is my excuse, now that a translation is within reach?",
+      "How much of my busyness this week was truly unavoidable, and how much of it kept me comfortably unaware?",
+      "Is there one person near me who has never had the Book explained in a language they understand, and could I help?"
+    ],
+    "pointsBn": [
+      "নামাজে যে সূরাগুলো পড়ি, সেগুলো আসলে কী বলে, কেউ জিজ্ঞেস করলে কি নিজের ভাষায় বুঝিয়ে বলতে পারব?",
+      "কুরআনের কোন অংশগুলো আমি অন্যের পড়ার জিনিস বানিয়ে রেখেছি, যেন ওসব আলেমরা পড়বেন, আমি নই?",
+      "তাদের পুরোনো অজুহাত ছিল, কিতাব তাদের ভাষায় নয়। অনুবাদ যখন হাতের কাছেই, তখন আমার অজুহাতটা কী?",
+      "এ সপ্তাহের ব্যস্ততার কতটুকু সত্যিই এড়ানোর উপায় ছিল না, আর কতটুকু আমাকে আরামে অজ্ঞ থাকতে দিয়েছে?",
+      "আমার আশপাশে কি এমন কেউ আছেন, যাকে কেউ কখনো তাঁর বোঝার ভাষায় কিতাবটা বুঝিয়ে বলেনি? আমি কি সাহায্য করতে পারি?"
+    ],
+    "lessonEn": "The Book was sent so that no one could plead ignorance of it, so read it in a language you understand and never need that plea.",
+    "lessonBn": "কিতাব পাঠানো হয়েছে যাতে কেউ তার ব্যাপারে অজ্ঞতার অজুহাত দিতে না পারে। তাই নিজের বোঝার ভাষায় তা পড়ুন, যাতে সে অজুহাতের দরকারই না পড়ে।"
   }
 };
 

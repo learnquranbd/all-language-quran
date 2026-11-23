@@ -7811,6 +7811,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:156": {
+    "sections": [
+      {
+        "h": {
+          "en": "So It Could Not Be Said",
+          "bn": "যাতে কথাটা বলা না যায়"
+        },
+        "p": [
+          {
+            "en": "6:154 recalls the Scripture given to Musa (AS), complete and detailed, a guidance and a mercy. 6:155 turns to the present: and this is a blessed Book We have sent down, so follow it and be mindful of Allah, that you may receive mercy. This verse then opens with an taqulu, lest you say, and gives the first reason that Book came down. It sits inside a sentence that runs on into 6:157, which adds a second excuse and answers both. This article stays with the first.",
+            "bn": "৬:১৫৪ আয়াত মনে করিয়ে দেয় মূসা (আঃ)-কে দেওয়া কিতাবের কথা, যা ছিল পূর্ণাঙ্গ ও বিস্তারিত, হিদায়াত ও রহমত। ৬:১৫৫ আয়াত চলে আসে বর্তমানে: আর এ বরকতময় কিতাব আমি নাজিল করেছি, তাই এর অনুসরণ করো আর আল্লাহকে ভয় করো, যাতে তোমাদের উপর রহমত হয়। এরপর এই আয়াত শুরু হয় আন তাকূলূ দিয়ে, যাতে তোমরা না বলো। কিতাব নাজিলের প্রথম কারণটা এখানেই। বাক্যটা গিয়ে থেমেছে ৬:১৫৭ আয়াতে, যেখানে দ্বিতীয় আরেকটি অজুহাত আসে আর দুটোরই জবাব আসে। এ লেখা থাকবে প্রথম অজুহাতটিকে নিয়ে।"
+          },
+          {
+            "en": "Nearly all fourteen Arabic words belong to speakers who have not yet spoken: innama unzila al-kitabu ala ta'ifatayni min qablina, wa in kunna an dirasatihim la-ghafilin. The Scripture was only sent down to two groups before us, and we were unaware of their study. The Book was theirs, not ours, and we could not have known what was in it. The Muyassar names the addressees as the disbelievers among the Arabs; al-Qurtubi reports al-Farra' and al-Kisa'i reading it as addressed to the people of Makkah.",
+            "bn": "আরবি চৌদ্দটি শব্দের প্রায় সবই এমন লোকদের কথা, যারা তখনো মুখ খোলেনি: ইন্নামা উনযিলাল কিতাবু আলা তাইফাতাইনি মিন কাবলিনা, ওয়া ইন কুন্না আন দিরাসাতিহিম লাগাফিলীন। কিতাব তো নাজিল হয়েছিল কেবল আমাদের আগের দুই দলের উপর, আর ওদের পড়াশোনার ব্যাপারে আমরা ছিলাম বেখবর। কিতাব ছিল ওদের, আমাদের নয়, আর তাতে কী আছে তা আমাদের জানার উপায় ছিল না। মুয়াসসার বলে, সম্বোধন আরবের কাফেরদের প্রতি। কুরতুবী জানান, ফাররা ও কিসাঈ এর অর্থ করেছেন মক্কাবাসীদের সম্বোধন করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Word An Hangs On",
+          "bn": "আন শব্দটি কীসের সঙ্গে বাঁধা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari begins by noting that the grammarians differed over what governs an, and so over the sense. Al-Qurtubi sets the views out briefly. The Kufans read it as li-alla taqulu, so that you do not say. The Basrans read it as We sent it down out of dislike that you should say. Al-Farra' and al-Kisa'i take it as the object of an unstated command: beware of saying, O people of Makkah. At-Tabari reports the implied-verb view from some Kufan grammarians, who compare 49:2, lest your deeds come to nothing.",
+            "bn": "তাবারী শুরুতেই জানান, আন শব্দটি কীসের অধীন, তা নিয়ে ব্যাকরণবিদদের মতভেদ আছে, আর সে কারণে অর্থ নিয়েও। কুরতুবী মতগুলো সংক্ষেপে সাজিয়ে দেন। কূফার ব্যাকরণবিদেরা এর অর্থ করেন লিআল্লা তাকূলূ, যাতে তোমরা না বলো। বসরার ব্যাকরণবিদেরা বলেন, তোমরা বলবে এটা অপছন্দ করে আমি তা নাজিল করেছি। ফাররা ও কিসাঈ একে ধরেন উহ্য এক আদেশের কর্ম হিসেবে: হে মক্কাবাসী, এমন কথা বলা থেকে সাবধান থাকো। উহ্য ক্রিয়ার মতটি তাবারী বর্ণনা করেন কূফার কয়েকজন ব্যাকরণবিদের নামে, যাঁরা তুলনা টানেন ৪৯:২ আয়াতের সঙ্গে, যাতে তোমাদের আমল নিষ্ফল না হয়ে যায়।"
+          },
+          {
+            "en": "At-Tabari then states his preference: an is tied to the sending down, so the sense is, this is a blessed Book We sent down so that you would not say it. Al-Baghawi gives the same reading first, with 4:176 as a parallel, Allah makes it clear to you lest you go astray. As-Sa'di joins two motives: We sent it to cut off your argument, and for fear that you would say this. The readings differ in direction. One describes why the Book came; the other turns to the hearer and warns him.",
+            "bn": "এরপর তাবারী নিজের পছন্দ জানান: আন বাঁধা আছে নাজিল করার সঙ্গে। তাই অর্থ দাঁড়ায়, এ বরকতময় কিতাব আমি নাজিল করেছি, যাতে তোমরা এ কথা বলতে না পারো। বাগাভীও প্রথমে এই অর্থটাই দেন, আর মিল দেখান ৪:১৭৬ আয়াতের সঙ্গে, আল্লাহ তোমাদের জন্য স্পষ্ট করে দেন, যাতে তোমরা পথ না হারাও। সা'দী দুটি উদ্দেশ্য একসঙ্গে বলেন: তোমাদের যুক্তির পথ বন্ধ করতে, আর তোমরা এ কথা বলবে সেই আশঙ্কায়। পাঠগুলোর মুখ দুই দিকে। একটি জানায় কিতাব কেন এল, অন্যটি শ্রোতার দিকে ফিরে তাকে সাবধান করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Two Communities",
+          "bn": "কোন দুই সম্প্রদায়"
+        },
+        "p": [
+          {
+            "en": "Ta'ifatayn is the dual of ta'ifah, a group or party. At-Tabari says the two are the Jews and the Christians, and that this is what the people of interpretation said. He gives it with chains to Ibn Abbas (RA) through Ali ibn Abi Talhah, to Mujahid, to Qatadah and to as-Suddi. Ibn Kathir names the same authorities and adds that others said the same. Al-Qurtubi says the Book meant is the Torah and the Injil, and supplies the unspoken half of the complaint: and no Book was sent down to us.",
+            "bn": "তাইফাতাইন শব্দটি তাইফা শব্দের দ্বিবচন, অর্থ দল বা গোষ্ঠী। তাবারী বলেন, দুই দল হলো ইহুদি ও খ্রিস্টান, আর ব্যাখ্যাকারেরা এ কথাই বলেছেন। এর পক্ষে তিনি সনদসহ বর্ণনা আনেন আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে, আর মুজাহিদ, কাতাদা ও সুদ্দী থেকে। ইবন কাসীর এঁদেরই নাম নেন এবং যোগ করেন, আরও অনেকে এমন বলেছেন। কুরতুবী বলেন, এখানে কিতাব মানে তাওরাত ও ইনজীল। অভিযোগের যে অর্ধেকটা মুখে আসেনি, সেটাও তিনি বলে দেন: আর আমাদের উপর কোনো কিতাব নামেনি।"
+          },
+          {
+            "en": "Mujahid's report in at-Tabari adds who was expected to say it: the Jews and the Christians, and it was feared that Quraysh would say this. At-Tabari then writes out the whole plea he hears behind the verse. No Book was sent down to us that we could follow. We were neither commanded nor forbidden, so there is no case against us for what we do or leave, since no Book and no messenger came to us from Allah. The case lies only against the two groups who were given the Book before us.",
+            "bn": "তাবারীর আনা মুজাহিদের বর্ণনা জানিয়ে দেয়, কথাটা কাদের মুখে আসার কথা ছিল: দুই দল হলো ইহুদি ও খ্রিস্টান, আর আশঙ্কা ছিল কুরাইশ এমন বলবে। আয়াতের পেছনে তাবারী যে পুরো আপত্তিটা শুনতে পান, তা তিনি লিখে দেন। আমাদের উপর এমন কোনো কিতাব নামেনি, যার অনুসরণ করতে পারি। আমাদের কিছু করতে বলা হয়নি, কিছু থেকে নিষেধও করা হয়নি। তাই আমরা যা করি বা ছাড়ি, তা নিয়ে আমাদের বিরুদ্ধে কোনো দলিল খাটে না। আল্লাহর কাছ থেকে আমাদের কাছে না এসেছে কিতাব, না রাসূল। দায় কেবল আমাদের আগের সেই দুই দলের, যাদের কিতাব দেওয়া হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading Aloud and Knowing",
+          "bn": "পড়া আর জানা"
+        },
+        "p": [
+          {
+            "en": "The early glosses of dirasatihim are short and close together. Ibn Abbas (RA), in at-Tabari's chain, says their recitation. Qatadah says their reading. As-Suddi says their reading, and adds, we do not know what it is. Al-Baghawi gives the same: dirasatihim is their reading, and la-ghafilin means we do not know what it is. He also explains the wa in kunna of the verse as wa qad kunna, and we had indeed been, so the in here affirms rather than supposes.",
+            "bn": "দিরাসাতিহিম শব্দের প্রথম যুগের ব্যাখ্যাগুলো ছোট, আর একটা আরেকটার কাছাকাছি। তাবারীর সনদে ইবন আব্বাস (রাঃ) বলেন, ওদের তিলাওয়াত। কাতাদা বলেন, ওদের পড়া। সুদ্দীও বলেন ওদের পড়া, সঙ্গে যোগ করেন, তা কী, আমরা জানি না। বাগাভীও একই কথা বলেন: দিরাসাতিহিম মানে ওদের পড়া, আর লাগাফিলীন মানে তা কী আমরা জানি না। আয়াতের ওয়া ইন কুন্না অংশের ব্যাখ্যা তিনি দেন ওয়া কাদ কুন্না, অর্থাৎ আর আমরা তো ছিলামই। তাই এখানে ইন শব্দটি শর্ত বোঝায় না, নিশ্চয়তা বোঝায়।"
+          },
+          {
+            "en": "Ibn Zayd, in at-Tabari, widens the word. Dirasah, he says, is reading and knowledge, and he recites 7:169, wa darasu ma fihi, and they studied what was in it, explaining that they knew its contents and did not come to it in ignorance. On that sense the excuse admits two gaps at once: they never heard the Book read and never learned what it held. Al-Qurtubi adds a point of grammar. The pronoun is plural, dirasatihim, and not dual, though two groups were named, because each group is a community of many.",
+            "bn": "তাবারীর বর্ণনায় ইবন যায়দ শব্দটির পরিধি বাড়িয়ে দেন। তাঁর মতে দিরাসা মানে পড়া এবং জানা। প্রমাণ হিসেবে তিনি পড়েন ৭:১৬৯ আয়াত, ওয়া দারাসূ মা ফীহি, আর তারা তাতে যা আছে তা পড়েছিল। এর ব্যাখ্যায় বলেন, তারা জানত কিতাবে কী আছে, অজ্ঞ অবস্থায় তার কাছে আসেনি। এই অর্থে অজুহাতটা একসঙ্গে দুটি ফাঁক স্বীকার করে। কিতাব পড়া হতে তারা শোনেনি, আর তাতে কী আছে তাও শেখেনি। কুরতুবী ব্যাকরণের একটি কথা যোগ করেন। দুই দলের কথা বলা হলেও সর্বনামটি দ্বিবচন দিরাসাতিহিমা নয়, বহুবচন দিরাসাতিহিম। কারণ প্রতিটি দলই বহু মানুষের এক সম্প্রদায়।"
+          },
+          {
+            "en": "At-Tabari's paraphrase adds the reasons behind the plea. They did not know what the two groups recited, or what had been revealed to them, because the Book belonged to those groups and not to them. It was not addressed to them, it did not command them, and it was not in their tongue. Then he closes the thought: by sending the Qur'an down to His Prophet ﷺ, Allah cut that argument off.",
+            "bn": "তাবারী আপত্তিটার পেছনের কারণগুলোও নিজের ভাষায় বলেন। দুই দল কী তিলাওয়াত করত, তাদের কাছে কী নাজিল হয়েছিল, তা তারা জানত না। কারণ কিতাবের মালিক ছিল ওই দুই দল, তারা নয়। সে কিতাব তাদের উদ্দেশ করে আসেনি, তার বিধান মানতে তাদের বলা হয়নি, আর তা তাদের ভাষাতেও ছিল না। এরপর তিনি কথাটা শেষ করেন এভাবে: নবী ﷺ-এর উপর কুরআন নাজিল করে আল্লাহ তাদের সে যুক্তির পথ বন্ধ করে দিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Foreign Tongue, or No Teacher",
+          "bn": "ভিন্ন ভাষা, নাকি শেখানোর কেউ নেই"
+        },
+        "p": [
+          {
+            "en": "Why were they unaware? Ibn Kathir gives two reasons together: we did not understand what they said, because they were not of our tongue, and besides that we were occupied and heedless. Al-Qurtubi glosses their study as the recitation of their books and their languages. Al-Baghawi spells it out: the Book came to those before us in their own tongue, so we did not know what was in it, and you would make that an excuse for yourselves. The Muyassar keeps to preoccupation: we were busy and had no knowledge of their books.",
+            "bn": "তারা বেখবর ছিল কেন? ইবন কাসীর দুটি কারণ একসঙ্গে বলেন। ওরা যা বলত আমরা বুঝতাম না, কারণ ওরা আমাদের ভাষার লোক ছিল না, তার উপর আমরা ছিলাম ব্যস্ত আর উদাসীন। কুরতুবী দিরাসার ব্যাখ্যা করেন ওদের কিতাব তিলাওয়াত আর ওদের ভাষা দিয়ে। বাগাভী খুলে বলেন: কিতাব এসেছিল আমাদের আগের লোকদের কাছে তাদেরই ভাষায়, তাই তাতে কী আছে আমরা জানতাম না, আর তোমরা এটাকেই নিজেদের অজুহাত বানাতে। মুয়াসসার ব্যস্ততার কথাতেই থাকে: আমরা অন্য কাজে ডুবে ছিলাম, ওদের কিতাব সম্পর্কে আমাদের কোনো জ্ঞান ছিল না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an gives a different reason. It was not that the Torah and the Injil were absent from Arabic, it says, since a text's contents can be learned through translation, and this does happen. The cause was that the People of the Book never took steps to teach the people of Arabia the ways of monotheism, and something heard casually does not ordinarily serve as a real warning. So the sources differ. Ibn Kathir, al-Qurtubi and al-Baghawi count language as part of the barrier; Ma'arif sets language aside and places the gap in the absence of a teacher.",
+            "bn": "মাআরিফুল কুরআন অন্য একটি কারণ দেখায়। সেখানে বলা হয়েছে, তাওরাত ও ইনজীল আরবিতে ছিল না বলে তারা বেখবর ছিল, ব্যাপারটা তা নয়। অনুবাদের মাধ্যমেও কোনো কিতাবের বিষয়বস্তু জানা যায়, আর বাস্তবে তা ঘটেও। আসল কারণ হলো, আহলে কিতাব আরবের মানুষকে তাওহীদের পথ শেখানোর কোনো উদ্যোগ নেয়নি। আর আলগোছে কানে আসা কথা সাধারণত সত্যিকারের সতর্কবাণীর কাজ করে না। কাজেই উৎসগুলোতে মতভেদ আছে। ইবন কাসীর, কুরতুবী ও বাগাভী ভাষাকে বাধার একটা অংশ ধরেন। মাআরিফুল কুরআন ভাষার কথা সরিয়ে রেখে ফাঁকটা দেখে শেখানোর লোকের অভাবে।"
+          },
+          {
+            "en": "Two things should be kept in view here. The verse voices an excuse it ascribes to the idolaters of Makkah in the Prophet's time, and Ma'arif's remark describes the situation that excuse arose in. Neither licenses anything against any Jewish or Christian person or community today. And the verse is not about people who have never heard; it is about those to whom the Book has now come, which is why at-Tabari can say the argument was cut off.",
+            "bn": "এখানে দুটি কথা মনে রাখা দরকার। আয়াতটি এমন এক অজুহাতের কথা বলে, যা নবী ﷺ-এর যুগের মক্কার মুশরিকদের মুখে বসানো হয়েছে। আর মাআরিফুল কুরআনের মন্তব্য সেই অজুহাত যে অবস্থায় জন্মেছিল, তার বর্ণনা। এর কোনোটিই আজকের কোনো ইহুদি বা খ্রিস্টান মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। আর আয়াতটি তাদের নিয়ে নয়, যারা কখনো শোনেনি। এটি তাদের নিয়ে, যাদের কাছে কিতাব এখন এসে গেছে। সে কারণেই তাবারী বলতে পারেন, তাদের যুক্তির পথ বন্ধ হয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Argument Cut Off Early",
+          "bn": "আগেভাগেই বন্ধ হওয়া যুক্তি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir quotes at-Tabari's reading and gives its point in a phrase: so that their excuse would be cut off. 28:47 is set beside it. Had it not been that, when a calamity struck them for what their hands had sent ahead, they would say, our Lord, why did You not send us a messenger so that we could follow Your verses and be among the believers. The two verses share a shape. Allah states in advance what people would say, and removes the ground for saying it before they reach for it.",
+            "bn": "ইবন কাসীর তাবারীর ব্যাখ্যা উদ্ধৃত করেন, আর তার মূল কথাটা আসে এক কথায়: যাতে তাদের অজুহাতের পথ বন্ধ হয়ে যায়। পাশে রাখা হয় ২৮:৪৭ আয়াত: যদি এমন না হতো যে, নিজেদের কৃতকর্মের কারণে বিপদ এলে তারা বলত, হে আমাদের রব, আমাদের কাছে কেন একজন রাসূল পাঠালেন না, তাহলে তো আপনার আয়াতের অনুসরণ করতাম আর মুমিন হতাম। দুটি আয়াতের গড়ন এক। মানুষ কী বলবে, আল্লাহ তা আগেই জানিয়ে দেন, আর তারা সে কথার আশ্রয় নেওয়ার আগেই তার ভিত সরিয়ে দেন।"
+          },
+          {
+            "en": "As-Sa'di gives the same purpose, that this blessed Book was sent to cut off your argument, and then praises what came in its place: no Book has come down from heaven more comprehensive, clearer or more lucid than it. The Makkans' plea was that the earlier Books were out of reach. The answer is not only that a Book has now reached them, but that the Book which reached them is the plainest of all.",
+            "bn": "সা'দীও একই উদ্দেশ্য বলেন: এ বরকতময় কিতাব পাঠানো হয়েছে তোমাদের যুক্তির পথ বন্ধ করতে। এরপর যা এসেছে তার প্রশংসা করেন: আসমান থেকে এর চেয়ে বেশি পূর্ণাঙ্গ, এর চেয়ে স্পষ্ট, এর চেয়ে পরিষ্কার কোনো কিতাব নামেনি। মক্কাবাসীদের আপত্তি ছিল, আগের কিতাবগুলো তাদের নাগালের বাইরে। জবাব শুধু এটুকু নয় যে এখন একটা কিতাব তাদের কাছে পৌঁছেছে। জবাব হলো, যে কিতাব পৌঁছেছে, সেটাই সবচেয়ে সহজবোধ্য।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an goes a step further. Even the faint warning within hearing distance made inquiry obligatory, it says, so punishment for abandoning tawhid would have been possible. Nor does this put in doubt the reach of the missions of Musa (AS) and Isa (AS): in the fundamentals, following every prophet is obligatory on every people, while a universality covering fundamentals and details alike belongs to the Prophet Muhammad ﷺ. So the plea might have failed even then. But it was at least a plea, and now that too is gone.",
+            "bn": "মাআরিফুল কুরআন আরেক ধাপ এগোয়। সেখানে বলা হয়েছে, দূর থেকে কানে আসা ক্ষীণ সতর্কবাণীও খোঁজ নেওয়া জরুরি করে দিয়েছিল, তাই তাওহীদ ছেড়ে দেওয়ার কারণে শাস্তি আসাও সম্ভব ছিল। এতে মূসা (আঃ) ও ঈসা (আঃ)-এর রিসালাতের ব্যাপ্তি নিয়েও সন্দেহ জাগে না। মৌলিক বিষয়ে সব নবীর অনুসরণ সব জাতির উপর ফরজ, আর মৌলিক ও শাখাগত সব বিষয়ে সর্বজনীনতা কেবল নবী মুহাম্মাদ ﷺ-এর বৈশিষ্ট্য। কাজেই অজুহাতটা তখনো হয়তো টিকত না। তবু অন্তত পেশ করার মতো একটা অজুহাত ছিল। এখন সেটাও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Report Set Beside It",
+          "bn": "পাশে রাখার মতো একটি হাদীস"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read for this verse attaches a sound hadith or an occasion of revelation to it; they carry the explanations of Ibn Abbas (RA), Mujahid, Qatadah, as-Suddi and Ibn Zayd. One report in Sahih al-Bukhari, not connected to this verse, touches its theme of an earlier Book held in another tongue. Al-Bukhari records it as hadith 4485, from Abu Hurayrah (RA).",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস বা নাজিলের প্রেক্ষাপট জুড়ে দেয়নি। সেগুলোতে আছে ইবন আব্বাস (রাঃ), মুজাহিদ, কাতাদা, সুদ্দী ও ইবন যায়দের ব্যাখ্যা। সহীহ বুখারীর একটি বর্ণনা এ আয়াতের সঙ্গে যুক্ত নয়, তবে অন্য ভাষায় রাখা আগের এক কিতাবের প্রসঙ্গ ছুঁয়ে যায়। বুখারী এটি এনেছেন ৪৪৮৫ নম্বরে, আবূ হুরায়রা (রাঃ) থেকে।"
+          },
+          {
+            "en": "The People of the Book used to read the Torah in Hebrew and explain it in Arabic to the people of Islam. So the Messenger of Allah ﷺ said: do not believe the People of the Book and do not disbelieve them, and say, we believe in Allah and what has been sent down, to the end of the verse at 2:136. Set beside this verse, it shows an earlier Book read in a tongue its Arab hearers needed explained, and the instruction given for such explanations: hold to what was revealed to you.",
+            "bn": "আহলে কিতাব তাওরাত পড়ত হিব্রু ভাষায়, আর মুসলমানদের কাছে আরবিতে তার ব্যাখ্যা করত। তখন রাসূলুল্লাহ ﷺ বললেন: আহলে কিতাবকে সত্যবাদীও বলো না, মিথ্যাবাদীও বলো না। বরং বলো, আমরা ঈমান এনেছি আল্লাহর প্রতি আর যা নাজিল হয়েছে তার প্রতি, ২:১৩৬ আয়াতের শেষ পর্যন্ত। এ আয়াতের পাশে রাখলে হাদীসটি দেখায়, আগের এক কিতাব এমন ভাষায় পড়া হতো, যা আরব শ্রোতাদের বুঝিয়ে দিতে হতো। আর এমন ব্যাখ্যার বেলায় নির্দেশ ছিল, নিজেদের কাছে যা নাজিল হয়েছে তা আঁকড়ে থাকো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Their Study but Mine",
+          "bn": "ওদের পড়া নয়, আমার পড়া"
+        },
+        "p": [
+          {
+            "en": "The excuse had two halves, and only one of them needed a foreign scripture. The first was distance: a Book held by others, read in a tongue the hearers did not know. For most people reading this, Arabic is not the language of home either, but the gap Ma'arif describes has been closed from the other side, through translations and commentaries in the reader's own language. The second half, occupied and heedless, as Ibn Kathir has it, needs no distance at all. It can happen with a mushaf on my own shelf.",
+            "bn": "অজুহাতটার দুটি অংশ ছিল, আর তার একটিতেই কেবল অন্যের কিতাবের প্রয়োজন পড়ে। প্রথম অংশ দূরত্ব: কিতাব অন্যের হাতে, পড়া হয় এমন ভাষায় যা শ্রোতা জানে না। এ লেখা যাঁরা পড়ছেন, তাঁদের বেশিরভাগের ঘরের ভাষাও আরবি নয়। তবে মাআরিফুল কুরআন যে ফাঁকের কথা বলে, তা অন্য দিক থেকে ভরাট হয়ে গেছে, পাঠকের নিজের ভাষায় অনুবাদ আর তাফসীর এসে গেছে। দ্বিতীয় অংশ, ইবন কাসীরের ভাষায় ব্যস্ত আর উদাসীন থাকা, এর জন্য কোনো দূরত্ব লাগে না। নিজের তাকে রাখা মুসহাফ নিয়েও এমনটা ঘটতে পারে।"
+          },
+          {
+            "en": "Ibn Zayd's sense of dirasah, reading and knowing together, gives a useful test. Recitation without understanding is one half; understanding gathered from talks without ever reciting is the other. A small, fixed step covers both. Take the surahs you recite in prayer, read their meaning in your language one at a time, and recite each with that meaning in mind for a week before moving on. The Makkans called the Book their study, someone else's. Have I quietly done the same, leaving the Qur'an to scholars as though it were addressed to them alone?",
+            "bn": "দিরাসার যে অর্থ ইবন যায়দ দেন, পড়া আর জানা একসঙ্গে, তা দিয়ে নিজেকে যাচাই করা যায়। না বুঝে তিলাওয়াত এর এক অর্ধেক। আর কখনো তিলাওয়াত না করে শুধু আলোচনা শুনে বোঝা, সেটা আরেক অর্ধেক। ছোট একটা নির্দিষ্ট পদক্ষেপ দুটোই পূরণ করে। নামাজে যে সূরাগুলো পড়েন, সেগুলো একটা একটা করে নিজের ভাষায় অর্থসহ পড়ুন। তারপর এক সপ্তাহ সেই অর্থ মাথায় রেখে সূরাটি পড়ুন, এরপর পরেরটায় যান। মক্কাবাসীরা কিতাবকে বলেছিল ওদের পড়া, মানে অন্যের জিনিস। আমিও কি চুপচাপ কুরআনকে আলেমদের হাতে ছেড়ে দিয়েছি, যেন তা কেবল তাঁদের উদ্দেশেই নাজিল হয়েছে?"
+          },
+          {
+            "en": "The Qur'an itself gives the prayer for this. In 20:114 the Prophet ﷺ is told: and say, my Lord, increase me in knowledge. It asks for what the excuse in this verse lacked. Then the questions. Which verse that I recite daily could I not explain to a child? What kept me from learning it this year, a real obstacle or a busy calendar? And if the Book was sent so that no one could say, we did not know what it said, what would I say if asked?",
+            "bn": "এর জন্য দোয়া কুরআনেই আছে। ২০:১১৪ আয়াতে নবী ﷺ-কে বলা হয়েছে: আর বলো, হে আমার রব, আমার জ্ঞান বাড়িয়ে দিন। এ আয়াতের অজুহাতে যে জিনিসটার অভাব ছিল, দোয়াটা সেটাই চায়। এবার কয়েকটি প্রশ্ন। প্রতিদিন যে আয়াত পড়ি, তার কোনটা একটা শিশুকে বুঝিয়ে বলতে পারব না? এ বছর তা শেখা থেকে কী আমাকে আটকে রেখেছে, সত্যিকারের বাধা, নাকি ব্যস্ত দিনপঞ্জি? আর কিতাব যদি পাঠানো হয়ে থাকে যাতে কেউ বলতে না পারে, আমরা জানতাম না এতে কী আছে, তাহলে আমাকে জিজ্ঞেস করা হলে আমি কী বলব?"
+          }
+        ]
+      }
+    ]
+  },
   "6:157": {
     "sections": [
       {
