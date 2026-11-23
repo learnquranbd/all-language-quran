@@ -32803,6 +32803,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "You were created to be tested on how well you act, not how much. Do each deed for Allah alone, and in the way His Messenger ﷺ showed.",
     "lessonBn": "আপনাকে সৃষ্টি করা হয়েছে আমলের মান দিয়ে পরীক্ষার জন্য, পরিমাণ দিয়ে নয়। প্রতিটি কাজ করুন শুধু আল্লাহর জন্য, আর তাঁর রাসূল ﷺ যেভাবে দেখিয়েছেন সেভাবে।"
+  },
+  "12:38": {
+    "reflectionEn": "A prisoner has just been asked to explain two dreams. Before he answers, he tells the two men where he stands: he follows the way of his fathers Ibrahim, Ishaq and Ya'qub, and it was never for them to set up any partner beside Allah. Then he calls all of it a favour from Allah, on his family and on people, and adds that most people do not give thanks. He does not offer his faith as his own achievement. He names it a gift. The two men already trusted him, and he used that trust to point beyond himself. What do I count as my own doing that was in fact given to me? And when people trust me, where do I point them?",
+    "reflectionBn": "এক বন্দিকে দুটি স্বপ্নের ব্যাখ্যা জিজ্ঞেস করা হয়েছে। উত্তর দেওয়ার আগে তিনি দুই সঙ্গীকে জানিয়ে দেন, তিনি কোন পথের মানুষ। তিনি তাঁর পিতৃপুরুষ ইবরাহীম, ইসহাক ও ইয়াকুবের পথ ধরে চলেন, আর আল্লাহর সঙ্গে কোনো কিছুকে শরীক করা তাঁদের কাজ কখনো ছিল না। তারপর এই সবকিছুকে তিনি বলেন আল্লাহর অনুগ্রহ, তাঁদের উপরও, মানুষের উপরও। সঙ্গে যোগ করেন, অধিকাংশ মানুষ শোকর করে না। নিজের ঈমানকে তিনি নিজের কৃতিত্ব বলে দেখাননি, বলেছেন দান। সঙ্গী দুজন আগেই তাঁকে ভরসা করত। সেই ভরসাকে তিনি কাজে লাগালেন নিজেকে ছাড়িয়ে আল্লাহর দিকে ইশারা করতে। যা আমাকে দেওয়া হয়েছে, তার কোনটাকে আমি নিজের অর্জন বলে ধরে রেখেছি? আর মানুষ যখন আমাকে ভরসা করে, আমি তাদের কোন দিকে দেখাই?",
+    "pointsEn": [
+      "Which part of my faith do I quietly treat as my own achievement rather than a favour I was given?",
+      "Who carried the faith to me, a parent, a teacher or a stranger, and have I thanked Allah for them by name?",
+      "When someone already trusts me, do I use that trust to point them towards Allah, or only towards myself?",
+      "Is there anything I lean on beside Allah, a person, a fear or a habit, that I would never call a partner yet still obey like one?",
+      "What favour have I received this week that I have not yet thanked Allah for?"
+    ],
+    "pointsBn": [
+      "আমার ঈমানের কোন অংশটাকে আমি মনে মনে নিজের অর্জন ভাবি, অথচ তা আমাকে দেওয়া অনুগ্রহ?",
+      "ঈমান আমার কাছে কে পৌঁছে দিয়েছে, বাবা-মা, কোনো শিক্ষক নাকি অচেনা কেউ? তাদের জন্য কি আমি নাম ধরে আল্লাহর শোকর করেছি?",
+      "কেউ যখন আমাকে আগে থেকেই ভরসা করে, সেই ভরসা দিয়ে আমি কি তাকে আল্লাহর দিকে নিয়ে যাই, নাকি শুধু নিজের দিকে টানি?",
+      "আল্লাহকে ছাড়া এমন কিছুর উপর কি আমি ভর দিই, কোনো মানুষ, কোনো ভয় বা কোনো অভ্যাস, যাকে কখনো শরীক বলব না, অথচ মানি শরীকের মতোই?",
+      "এ সপ্তাহে কোন অনুগ্রহ পেয়েছি, যার জন্য এখনো আল্লাহর শোকর আদায় করিনি?"
+    ],
+    "lessonEn": "Count your faith as Allah's favour, not your own achievement. Give thanks for it, and when people trust you, point them to Him.",
+    "lessonBn": "নিজের ঈমানকে নিজের কৃতিত্ব নয়, আল্লাহর অনুগ্রহ বলে জানুন। এর জন্য শোকর আদায় করুন, আর মানুষ যখন আপনাকে ভরসা করে, তাদের তাঁর দিকে দেখিয়ে দিন।"
   }
 };
 

@@ -1655,6 +1655,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:38": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Creed Before the Dreams",
+          "bn": "স্বপ্নের আগে আকীদার কথা"
+        },
+        "p": [
+          {
+            "en": "Two young men have entered the prison with Yusuf (AS), asked him to interpret their dreams, saying they see him as one of the muhsinin (12:36). He does not answer straight away. In 12:37 he assures them that no meal will reach them before he has told them its interpretation, says this is part of what his Lord has taught him, and declares that he has left the milla, the way of life, of a people who do not believe in Allah and deny the Hereafter. Verse 12:38 completes that sentence with the way he follows instead.",
+            "bn": "দুই যুবক ইউসুফ (আঃ)-এর সঙ্গে কারাগারে ঢুকেছে। তারা তাঁর কাছে স্বপ্নের ব্যাখ্যা চেয়েছে, আর বলেছে, তারা তাঁকে মুহসিনদের একজন হিসেবে দেখে (১২:৩৬)। তিনি সঙ্গে সঙ্গে উত্তর দেন না। ১২:৩৭ আয়াতে তিনি তাদের আশ্বস্ত করেন: খাবার আসার আগেই তিনি তার ব্যাখ্যা বলে দেবেন। এটা তাঁর রব তাঁকে যা শিখিয়েছেন তারই অংশ। তারপর ঘোষণা করেন, যে সম্প্রদায় আল্লাহর উপর ঈমান রাখে না আর আখেরাত অস্বীকার করে, তাদের মিল্লাত, অর্থাৎ জীবনের পথ, তিনি ছেড়ে দিয়েছেন। ১২:৩৮ সেই কথাটাই শেষ করে। ছেড়ে দেওয়া পথের বদলে তিনি কোন পথ ধরেছেন, তা এখানে বলা হয়।"
+          },
+          {
+            "en": "The interpretation itself waits until 12:41. Between the question and the answer stand four verses about Allah. The abridged English Ibn Kathir heads the passage with the line that Yusuf calls his jail mates to Tawhid even before he interprets their dreams. Al-Baghawi ends his comment on this verse with the words: then he called the two of them to Islam, and moves straight into 12:39. So 12:38 is a hinge. It tells the two men who Yusuf (AS) is and what he stands on, and the invitation itself comes in the verses after it.",
+            "bn": "আসল ব্যাখ্যা আসে ১২:৪১ আয়াতে। প্রশ্ন আর উত্তরের মাঝখানে চারটি আয়াত, সবগুলোই আল্লাহকে নিয়ে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এই অংশের শিরোনাম দিয়েছে এভাবে: স্বপ্নের ব্যাখ্যা দেওয়ার আগেই ইউসুফ কারাসঙ্গীদের তাওহীদের দিকে ডাকেন। বাগাভী এ আয়াতের আলোচনা শেষ করেন এই কথায়: তারপর তিনি দুজনকে ইসলামের দিকে ডাকলেন। এরপরই তিনি ১২:৩৯-এ চলে যান। তাই ১২:৩৮ যেন দুই অংশের জোড়া। ইউসুফ (আঃ) কে, কিসের উপর দাঁড়িয়ে আছেন, তা এ আয়াত দুই সঙ্গীকে জানিয়ে দেয়। আসল দাওয়াত আসে এর পরের আয়াতগুলোতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Road of the Messengers",
+          "bn": "রাসূলদের পথ ধরে"
+        },
+        "p": [
+          {
+            "en": "Wa-ttaba'tu millata aba'i: and I have followed the milla of my fathers. At-Tabari glosses it as: I followed their religion, not the religion of the people of shirk. Ibn Kathir's Arabic has Yusuf (AS) say, in effect: I forsook the road of disbelief and shirk and took the road of these messengers, Allah's blessings and peace be on them all. Al-Qurtubi gives the reason this milla is worth following: because they were prophets upon the truth. The Muyassar states its content in a short clause: so I worshipped Allah alone.",
+            "bn": "ওয়াত্তাবা'তু মিল্লাতা আবায়ী: আর আমি আমার পিতৃপুরুষদের মিল্লাত অনুসরণ করেছি। তাবারী এর ব্যাখ্যা দেন এভাবে: আমি তাঁদের দ্বীন অনুসরণ করেছি, শিরককারীদের দ্বীন নয়। ইবন কাসীরের আরবি তাফসীরে ইউসুফ (আঃ)-এর কথার মর্ম দাঁড়ায়: কুফর আর শিরকের রাস্তা আমি ত্যাগ করেছি, ধরেছি এই রাসূলদের রাস্তা, তাঁদের সবার উপর আল্লাহর রহমত ও শান্তি বর্ষিত হোক। এ মিল্লাত কেন অনুসরণের যোগ্য, কুরতুবী তার কারণ বলেন: কারণ তাঁরা ছিলেন সত্যের উপর প্রতিষ্ঠিত নবী। মুয়াসসার এর সারকথা বলে এক ছোট বাক্যে: তাই আমি একমাত্র আল্লাহর ইবাদত করেছি।"
+          },
+          {
+            "en": "Al-Baghawi notes what the naming does: Yusuf (AS) made known that he was of the children of the prophets. Ma'arif al-Qur'an reads it the same way. Here he declares his abhorrence for disbelief and his disengagement from its community, and stresses that he belongs to the House of Prophets and holds to their way. Ma'arif adds that inherited nobility of this kind, a family trait, is customarily a source of confidence in a person.",
+            "bn": "নামগুলো উল্লেখ করে কী হলো, বাগাভী তা ধরিয়ে দেন: ইউসুফ (আঃ) জানিয়ে দিলেন যে তিনি নবীদের সন্তান। মাআরিফুল কুরআনও একইভাবে পড়ে। এখানে তিনি কুফরের প্রতি তাঁর ঘৃণা প্রকাশ করেন, কাফেরদের সমাজ থেকে নিজেকে আলাদা ঘোষণা করেন। সঙ্গে জোর দিয়ে বলেন, তিনি নবীদের পরিবারের মানুষ, তাঁদের পথই তিনি আঁকড়ে আছেন। মাআরিফুল কুরআন আরও বলে, এমন বংশগত মর্যাদা, যা পরিবারের সাধারণ বৈশিষ্ট্য, সাধারণত মানুষের প্রতি আস্থা তৈরি করে।"
+          },
+          {
+            "en": "Two verbs frame his stance. In 12:37 he left (taraktu) one milla; in 12:38 he followed (ittaba'tu) another. At-Tabari, explaining the next clause, names both together: my following the milla of my fathers on Islam, and my leaving the milla of a people who do not believe. The people he turned from are described only as the verse describes them, in one story, and the verse licenses nothing against any living person or community. What it holds up is a choice of road, stated openly, and stated even inside a prison.",
+            "bn": "দুটি ক্রিয়া পুরো ব্যাপারটা ধরে রাখে। ১২:৩৭ আয়াতে তিনি একটি মিল্লাত ছেড়েছেন (তারাকতু), আর ১২:৩৮ আয়াতে আরেকটি মিল্লাত অনুসরণ করেছেন (ইত্তাবা'তু)। পরের অংশের ব্যাখ্যায় তাবারী দুটোকে একসঙ্গে উল্লেখ করেন: ইসলামের উপর আমার পিতৃপুরুষদের মিল্লাত অনুসরণ, আর যে সম্প্রদায় ঈমান আনে না তাদের মিল্লাত বর্জন। যাদের পথ তিনি ছেড়েছেন, আয়াত তাদের যেভাবে বর্ণনা করেছে, শুধু সেটুকুই তাদের পরিচয়, এক কাহিনির ভেতরে। আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আয়াত যা তুলে ধরে, তা হলো পথ বেছে নেওয়ার ঘোষণা, খোলাখুলি, এমনকি কারাগারের ভেতরেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Generations Called Fathers",
+          "bn": "তিন প্রজন্ম, সবাই পিতা"
+        },
+        "p": [
+          {
+            "en": "The verse calls three generations fathers. Ya'qub (AS) is Yusuf's own father, while Ishaq and Ibrahim (AS) stand further up the line; 12:6 had already named Ibrahim and Ishaq as your fathers before. Ibn Kathir relays, through Ibn Abi Hatim with a chain to Ata' from Ibn Abbas, that Ibn Abbas used to count the grandfather as a father. He would swear by Allah that he was ready to meet anyone who wished in a mutual invocation of curse over it, saying Allah had mentioned neither grandfather nor grandmother, and he cited this verse.",
+            "bn": "আয়াতটি তিনটি প্রজন্মকে পিতা বলে ডেকেছে। ইয়াকুব (আঃ) ইউসুফের নিজের পিতা, আর ইসহাক ও ইবরাহীম (আঃ) বংশধারায় আরও উপরে। ১২:৬ আয়াত আগেই ইবরাহীম ও ইসহাককে বলেছে তোমার পূর্ববর্তী পিতৃপুরুষ। ইবন কাসীর ইবন আবী হাতিমের সূত্রে, আতা থেকে ইবন আব্বাস (রাঃ) পর্যন্ত সনদে বর্ণনা করেন: ইবন আব্বাস (রাঃ) দাদাকে পিতা হিসেবে গণ্য করতেন। আল্লাহর কসম খেয়ে বলতেন, কেউ চাইলে এ নিয়ে তার সঙ্গে পরস্পরের উপর লানত কামনা করতে তিনি প্রস্তুত। তাঁর যুক্তি ছিল, আল্লাহ দাদা বা দাদির উল্লেখই করেননি। প্রমাণ হিসেবে তিনি এ আয়াত পড়তেন।"
+          },
+          {
+            "en": "This is Ibn Abbas's own reasoning from the wording, reported as his position and not as a saying of the Prophet ﷺ, and Ibn Kathir adds no comment on it. The legal question it belongs to is beyond this article, which does not settle it. What the report does show is how closely the Companions weighed a single word. For the verse's own purpose, the weight of the word fathers lies in the line it names: men who held to one faith one after another, with Yusuf (AS) placing himself on that line by choice.",
+            "bn": "এটা শব্দ থেকে ইবন আব্বাস (রাঃ)-এর নিজের যুক্তি, তাঁর মত হিসেবেই বর্ণিত, নবী ﷺ-এর বাণী হিসেবে নয়। ইবন কাসীরও এর সঙ্গে নিজের কোনো মন্তব্য জোড়েননি। এর সঙ্গে যে ফিকহি প্রশ্ন জড়িত, তা এ লেখার বিষয় নয়, এখানে তার মীমাংসাও করা হচ্ছে না। বর্ণনাটা দেখায়, সাহাবীরা একটি শব্দকেও কতটা গুরুত্ব দিয়ে ওজন করতেন। আয়াতের নিজের উদ্দেশ্যে 'পিতৃপুরুষ' শব্দের ভার অন্যখানে। এটি এমন এক ধারার নাম, যেখানে একের পর এক মানুষ একই ঈমান ধরে রেখেছেন। আর ইউসুফ (আঃ) জেনে-বুঝে নিজেকে সেই ধারায় দাঁড় করান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Fitting, Not Permitted",
+          "bn": "শোভনও নয়, বৈধও নয়"
+        },
+        "p": [
+          {
+            "en": "Ma kana lana an nushrika billahi min shay': it was not for us to associate anything with Allah. Al-Qurtubi and al-Baghawi both gloss ma kana as ma yanbaghi: it is not fitting for us. As-Sa'di adds a second word, wa la yaliqu bina, nor does it befit us. At-Tabari puts it more strongly, as ma jaza lana: it was not permissible for us to make for Allah a partner in His worship and obedience; what is due from us is to single Him out in godhood and in worship. Al-Baghawi gives the sense: Allah has protected us from shirk.",
+            "bn": "মা কানা লানা আন নুশরিকা বিল্লাহি মিন শাই: আল্লাহর সঙ্গে কোনো কিছুকে শরীক করা আমাদের কাজ নয়। কুরতুবী আর বাগাভী দুজনেই 'মা কানা'-র অর্থ করেন 'মা ইয়াম্বাগী', অর্থাৎ আমাদের জন্য তা শোভন নয়। সা'দী আরেকটি শব্দ যোগ করেন: 'ওয়া লা ইয়ালীকু বিনা', আমাদের সঙ্গে তা মানানসইও নয়। তাবারী কথাটা আরও কড়া করে বলেন, 'মা জাযা লানা': আল্লাহর ইবাদত ও আনুগত্যে তাঁর কোনো শরীক দাঁড় করানো আমাদের জন্য জায়েজ ছিল না। আমাদের দায়িত্ব হলো উলুহিয়্যাত আর ইবাদতে তাঁকে একক রাখা। বাগাভী মর্মটা বলেন এভাবে: আল্লাহ আমাদের শিরক থেকে হেফাজত করেছেন।"
+          },
+          {
+            "en": "Then min shay', of anything. Al-Qurtubi explains the min as emphasis, as when one says ma ja'ani min ahad, not a single person came to me. The denial reaches anything whatever that might be set beside Allah. As-Sa'di reads the whole sentence as the definition of the milla just named. Having said whose way he follows, Yusuf (AS) explains what that way is: we single out Allah in tawhid and make our religion and worship sincerely His. Ibn Kathir names it the same way: this is tawhid, the affirmation that there is no god but He, alone, without partner.",
+            "bn": "তারপর 'মিন শাই', কোনো কিছুকেই। কুরতুবী বলেন, এখানে 'মিন' জোর দেওয়ার জন্য, যেমন কেউ বলে 'মা জাআনী মিন আহাদ', একজন মানুষও আমার কাছে আসেনি। তাই আল্লাহর পাশে দাঁড় করানো যায় এমন যেকোনো কিছুকেই এ অস্বীকৃতি ঢেকে দেয়। সা'দীর মতে পুরো বাক্যটাই সদ্য উল্লেখ করা মিল্লাতের ব্যাখ্যা। কার পথ ধরেছেন তা বলার পর ইউসুফ (আঃ) বুঝিয়ে দেন সেই পথটা কী: আমরা তাওহীদে আল্লাহকে একক রাখি, দ্বীন আর ইবাদত খাঁটিভাবে তাঁর জন্যই করি। ইবন কাসীরও একই নাম দেন: এটাই তাওহীদ, এ স্বীকৃতি যে তিনি ছাড়া কোনো ইলাহ নেই, তিনি একা, তাঁর কোনো শরীক নেই।"
+          },
+          {
+            "en": "The pronoun is plural. Yusuf (AS) does not say it was not for me, but it was not for us, speaking of himself together with the fathers he has just named. The sentence describes a house in which shirk had no place, and al-Baghawi's gloss puts the reason with Allah, who protected them from it. Nothing here is presented as the family's own merit. That prepares the next clause, which gives the whole matter a name: fadl, favour, the kind of gift no one can claim to have earned.",
+            "bn": "সর্বনামটা বহুবচন। ইউসুফ (আঃ) বলেননি 'আমার কাজ নয়', বলেছেন 'আমাদের কাজ নয়'। সদ্য যাঁদের নাম নিয়েছেন, সেই পিতৃপুরুষদের সঙ্গে নিজেকে মিলিয়ে কথা বলছেন। বাক্যটা এমন এক ঘরের ছবি আঁকে, যেখানে শিরকের কোনো জায়গা ছিল না। আর বাগাভীর ব্যাখ্যা এর কারণ রাখে আল্লাহর হাতে: তিনিই তাঁদের এ থেকে হেফাজত করেছেন। এখানে কোনো কিছুই পরিবারের নিজস্ব কৃতিত্ব হিসেবে আসেনি। এভাবেই পরের অংশের জন্য জমি তৈরি হয়, যেখানে পুরো বিষয়টার নাম দেওয়া হয় 'ফাদল', অনুগ্রহ, এমন দান যা কেউ নিজের উপার্জন বলে দাবি করতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Favour, Reaching Whom?",
+          "bn": "কার অনুগ্রহ, কার কাছে?"
+        },
+        "p": [
+          {
+            "en": "Dhalika min fadli llahi 'alayna wa-'ala n-nas: that is from Allah's favour upon us and upon the people. What does that point to, and who are the people? At-Tabari gives Ibn Abbas, by his chain: upon us, in that He made us prophets, and upon the people, in that He sent us to them as messengers. At-Tabari's own wording runs close to it: that is my following the milla of my fathers on Islam and my leaving the other milla, and the favour on the people is that He sent us to them as callers to His oneness and obedience.",
+            "bn": "যালিকা মিন ফাদলিল্লাহি আলাইনা ওয়া আলান নাস: এটা আমাদের উপর ও মানুষের উপর আল্লাহর অনুগ্রহ। 'এটা' বলতে কী বোঝানো হয়েছে, আর 'মানুষ' কারা? তাবারী নিজের সনদে ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা আনেন: আমাদের উপর অনুগ্রহ এই যে তিনি আমাদের নবী বানিয়েছেন, আর মানুষের উপর অনুগ্রহ এই যে তিনি আমাদের তাদের কাছে রাসূল করে পাঠিয়েছেন। তাবারীর নিজের ভাষ্যও কাছাকাছি। 'এটা' হলো ইসলামের উপর আমার পিতৃপুরুষদের মিল্লাত অনুসরণ, আর অন্য মিল্লাত বর্জন। মানুষের উপর অনুগ্রহ এই যে তিনি আমাদের তাদের কাছে পাঠিয়েছেন তাঁর তাওহীদ ও আনুগত্যের দিকে আহ্বানকারী করে।"
+          },
+          {
+            "en": "Ibn Kathir keeps to that line: upon us, in that He revealed it to us and commanded it, and upon the people, in that He made us callers to them. Al-Qurtubi opens with a different reading. For him that points to Yusuf's protection from zina, and the people are the believers whom Allah protected from shirk. Only then does he give, introduced with it is said, the reading about prophets and messengers. Al-Baghawi reads that as tawhid and knowledge, with the people's share being the guidance Allah made clear to them. The commentators leave these answers side by side.",
+            "bn": "ইবন কাসীর একই ধারায় থাকেন: আমাদের উপর অনুগ্রহ এই যে তিনি তা আমাদের কাছে ওহি করেছেন আর আমাদের এর আদেশ দিয়েছেন। মানুষের উপর অনুগ্রহ এই যে তিনি আমাদের তাদের কাছে আহ্বানকারী বানিয়েছেন। কুরতুবী শুরু করেন অন্য এক ব্যাখ্যা দিয়ে। তাঁর মতে 'এটা' ইঙ্গিত করছে যিনা থেকে ইউসুফ (আঃ)-এর হেফাজতের দিকে। আর 'মানুষ' হলো সেই মুমিনরা, যাদের আল্লাহ শিরক থেকে রক্ষা করেছেন। এরপর 'বলা হয়' কথাটি দিয়ে তিনি নবী-রাসূল বানানোর ব্যাখ্যাটি আনেন। বাগাভী 'এটা' বলতে বোঝেন তাওহীদ ও ইলম। আর মানুষের ভাগে পড়েছে সেই হেদায়াত, যা আল্লাহ তাদের সামনে স্পষ্ট করেছেন। তাফসীরকারেরা এই উত্তরগুলো পাশাপাশিই রেখে দেন।"
+          },
+          {
+            "en": "As-Sa'di widens the people to whoever Allah has guided as He guided us, and gives the verdict that no favour Allah does His servants is greater than Islam and the upright religion; whoever accepts it and yields to it has gained the greatest of blessings. Ma'arif al-Qur'an speaks of tawfiq: following the true religion was nothing but Allah's grace, since it was He who, by giving proper understanding, made accepting the truth easy. Whatever each commentator takes that to mean, all of them read Yusuf (AS) as naming what he has as given, not earned.",
+            "bn": "সা'দী 'মানুষ'-এর পরিধি বাড়িয়ে দেন: আল্লাহ যাদের হেদায়াত দিয়েছেন, যেমন আমাদের দিয়েছেন। তাঁর রায়, বান্দাদের উপর আল্লাহর কোনো অনুগ্রহ ইসলাম আর সঠিক দ্বীনের চেয়ে বড় নয়। যে তা কবুল করে মেনে নেয়, সে সবচেয়ে বড় নেয়ামত পেয়ে গেছে। মাআরিফুল কুরআন তাওফিকের কথা বলে। সত্য দ্বীন অনুসরণ করতে পারা আল্লাহর অনুগ্রহ ছাড়া আর কিছু নয়, কারণ তিনিই সঠিক বুঝ দিয়ে সত্য মেনে নেওয়া সহজ করে দিয়েছেন। 'এটা' বলতে কে কী বুঝেছেন, তা যা-ই হোক, সবাই একটা জায়গায় এক। তাঁদের পাঠে ইউসুফ (আঃ) নিজের যা আছে তাকে বলছেন দান, অর্জন নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thanks That Begins With Knowing",
+          "bn": "চেনা থেকেই শোকরের শুরু"
+        },
+        "p": [
+          {
+            "en": "Wa-lakinna akthara n-nasi la yashkurun: but most of the people are not grateful. Ibn Kathir explains: they do not recognise Allah's favour to them in sending the messengers, citing 14:28. At-Tabari gives the cause: whoever disbelieves does not give thanks for that favour, because he does not know who bestowed it on him and does not recognise the Giver. Al-Qurtubi and the Muyassar name the blessing left unthanked: tawhid and iman. As-Sa'di adds that the favour comes to them, and they neither accept it nor give Allah His due.",
+            "bn": "ওয়া লাকিন্না আকসারান নাসি লা ইয়াশকুরূন: কিন্তু অধিকাংশ মানুষ শোকর করে না। ইবন কাসীর ব্যাখ্যা করেন: রাসূল পাঠিয়ে আল্লাহ তাদের উপর যে অনুগ্রহ করেছেন, তারা তা চেনে না। এখানে তিনি ১৪:২৮ উদ্ধৃত করেন। তাবারী কারণটা বলেন: যে আল্লাহকে অস্বীকার করে, সে এ অনুগ্রহের শোকর করে না, কারণ কে তাকে তা দিয়েছেন তা সে জানে না, দাতাকে চেনে না। কুরতুবী ও মুয়াসসার বলে দেয় কোন নেয়ামতের শোকর হয় না: তাওহীদ ও ঈমান। সা'দী যোগ করেন, অনুগ্রহ তাদের কাছে আসে, অথচ তারা তা গ্রহণ করে না, আল্লাহর হকও আদায় করে না।"
+          },
+          {
+            "en": "Two verses later, 12:40 closes on a twin phrase: but most of the people do not know. At-Tabari's gloss already joins the two, since thanks fails where the Giver is not known. Under this verse he also brings, from Qatada, a saying introduced only with it was mentioned to us. Abu ad-Darda' used to say: many a one gives thanks for a blessing not bestowed on him, without knowing it, and many a carrier of fiqh is no faqih. At-Tabari sets it down without comment, and this article does not press a meaning on it.",
+            "bn": "দুই আয়াত পরে ১২:৪০ শেষ হয় প্রায় একই রকম কথায়: কিন্তু অধিকাংশ মানুষ জানে না। তাবারীর ব্যাখ্যা দুটোকে আগেই মিলিয়ে দিয়েছে। দাতাকে না চিনলে শোকরও আসে না। এ আয়াতের নিচে তিনি কাতাদা থেকে একটি কথা আনেন, যার শুরুতে শুধু আছে: আমাদের কাছে উল্লেখ করা হয়েছে। আবুদ দারদা (রাঃ) বলতেন: কত মানুষ এমন নেয়ামতের শোকর করে যা তাকে দেওয়া হয়নি, অথচ সে তা জানে না। আর কত মানুষ ফিকহ বহন করে, অথচ নিজে ফকীহ নয়। তাবারী কোনো মন্তব্য ছাড়াই কথাটি রেখে দেন। এ লেখাও এর উপর জোর করে কোনো অর্থ চাপায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Esteem Turned Toward Allah",
+          "bn": "শ্রদ্ধাকে আল্লাহর দিকে ফেরানো"
+        },
+        "p": [
+          {
+            "en": "Why say all this to two prisoners who asked about dreams? As-Sa'di answers directly. The sentence holds an unmistakable encouragement toward the path Yusuf (AS) was on. Once it was clear to him that the two young men looked on him with esteem and honour, as a muhsin and a teacher, he told them that the state he was in was all from Allah's favour and kindness, who had blessed him with leaving shirk and following his fathers' milla. Through this he reached what they saw, so they ought to walk the road he walked.",
+            "bn": "স্বপ্নের কথা জিজ্ঞেস করা দুই বন্দিকে এত কথা কেন? সা'দী সরাসরি উত্তর দেন। এ বাক্যে ইউসুফ (আঃ) যে পথে আছেন, সেই পথের দিকে স্পষ্ট উৎসাহ আছে। তিনি যখন নিশ্চিত হলেন যে দুই যুবক তাঁকে সম্মান ও শ্রদ্ধার চোখে দেখে, একজন মুহসিন ও শিক্ষক হিসেবে, তখন তাদের জানালেন: আমি যে অবস্থায় আছি, তার সবটাই আল্লাহর অনুগ্রহ আর দয়া। তিনিই আমাকে শিরক বর্জন আর পিতৃপুরুষদের মিল্লাত অনুসরণের তাওফিক দিয়েছেন। এর মাধ্যমেই আমি সেখানে পৌঁছেছি, যা তোমরা দেখছ। তাই আমি যে পথে চলেছি, তোমাদেরও সে পথে চলা উচিত।"
+          },
+          {
+            "en": "Ibn Kathir draws a general rule from the verse. So it goes with whoever walks the path of guidance, follows the messengers and turns from the way of the wrongdoers: Allah guides his heart, teaches him what he did not know, and makes him an imam followed in good and a caller to the path of right guidance. The order of the passage bears this out. First comes who he is, then the question of 12:39, separate lords or Allah, the One, the Prevailing, and only in 12:41 the answer the men had asked for.",
+            "bn": "ইবন কাসীর এ আয়াত থেকে একটি সাধারণ নিয়ম বের করেন। যে হেদায়াতের পথে চলে, রাসূলদের অনুসরণ করে আর জালিমদের পথ থেকে মুখ ফিরিয়ে নেয়, তার অবস্থা এমনই হয়। আল্লাহ তার অন্তরকে পথ দেখান, যা সে জানত না তা শিখিয়ে দেন, আর তাকে কল্যাণের পথে অনুসরণযোগ্য ইমাম ও সঠিক পথের দিকে আহ্বানকারী বানিয়ে দেন। অংশটির ক্রমও তা-ই দেখায়। প্রথমে তিনি কে, সেই পরিচয়। তারপর ১২:৩৯ আয়াতের প্রশ্ন: ভিন্ন ভিন্ন প্রভু ভালো, নাকি একক, মহাপরাক্রমশালী আল্লাহ? আর সবশেষে ১২:৪১ আয়াতে সেই উত্তর, যা দুজন চেয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faith Held as a Gift",
+          "bn": "দান হিসেবে পাওয়া ঈমান"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith of the Prophet ﷺ to it, and none gives an occasion of revelation; it is part of Yusuf's (AS) speech within the story. Its lesson comes from the speech itself. A man in prison, far from his father, names as Allah's favour neither release nor rank but tawhid. For many readers, faith came through parents and was simply there. The verse asks that it be counted as fadl, a favour from Allah, and followed by choice.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি, কোনো শানে নুযূলও উল্লেখ করেনি। এটি কাহিনির ভেতরে ইউসুফ (আঃ)-এর বক্তব্যের অংশ। শিক্ষাটা আসে সেই বক্তব্য থেকেই। কারাগারে বন্দি, পিতা থেকে বহু দূরে থাকা এক মানুষ আল্লাহর অনুগ্রহ বলে মুক্তি বা পদমর্যাদার নাম নেন না, নাম নেন তাওহীদের। অনেক পাঠকের কাছে ঈমান এসেছে বাবা-মার হাত ধরে, যেন এমনিতেই ছিল। আয়াত চায়, একে আল্লাহর দেওয়া ফাদল বলে গণ্য করা হোক, আর জেনে-বুঝে অনুসরণ করা হোক।"
+          },
+          {
+            "en": "Gratitude, at-Tabari has shown, begins with knowing the Giver. That makes the verse practical. Thank Allah for the faith, and for those through whom it reached you. Speak of it, where people already trust you, the way Yusuf (AS) did: not as your achievement or your family's, but as something Allah gave. When others look on you with esteem, turn that esteem toward Him. And ask Allah to keep you among the few who know His favour and thank Him for it, not among the many who receive it and pass it by.",
+            "bn": "তাবারী দেখিয়েছেন, শোকরের শুরু দাতাকে চেনা থেকে। এতে আয়াতটা হাতে-কলমে কাজের হয়ে ওঠে। ঈমানের জন্য আল্লাহর শোকর করুন, আর যাদের মাধ্যমে তা আপনার কাছে পৌঁছেছে তাদের জন্যও। যেখানে মানুষ আগে থেকেই আপনাকে ভরসা করে, সেখানে ইউসুফ (আঃ)-এর মতো করে এর কথা বলুন: নিজের বা পরিবারের কৃতিত্ব হিসেবে নয়, আল্লাহর দান হিসেবে। অন্যরা যখন আপনাকে সম্মানের চোখে দেখে, সেই সম্মান তাঁর দিকে ফিরিয়ে দিন। আর আল্লাহর কাছে চান, তিনি যেন আপনাকে সেই অল্প কয়েকজনের মধ্যে রাখেন যারা তাঁর অনুগ্রহ চেনে আর শোকর করে। সেই অধিকাংশের মধ্যে নয়, যারা অনুগ্রহ পেয়েও পাশ কাটিয়ে চলে যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "12:43": {
     "sections": [
       {
