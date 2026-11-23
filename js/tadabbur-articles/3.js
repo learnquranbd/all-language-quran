@@ -2415,6 +2415,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:52": {
+    "sections": [
+      {
+        "h": {
+          "en": "Denial Sensed, Not Guessed",
+          "bn": "অনুমান নয়, টের পাওয়া"
+        },
+        "p": [
+          {
+            "en": "Fa-lamma ahassa 'Isa minhum al-kufr: then when 'Isa sensed disbelief from them. The verse follows straight on from his address in 3:49 to 3:51, where he set out his signs and called the Children of Israel to worship Allah, his Lord and theirs. At-Tabari glosses ahassa as wajada, he found. Al-Qurtubi relays from az-Zajjaj that it means he knew and found, and from Abu 'Ubayda that it means he recognised, adding that the root is perceiving a thing through the senses.",
+            "bn": "ফালাম্মা আহাসসা ঈসা মিনহুমুল কুফর: অতঃপর ঈসা যখন তাদের দিক থেকে কুফর টের পেলেন। আয়াতটি সরাসরি এসেছে ৩:৪৯ থেকে ৩:৫১ পর্যন্ত তাঁর ভাষণের পরে। সেখানে তিনি নিজের নিদর্শনগুলো তুলে ধরেছিলেন, আর বানী ইসরাঈলকে ডেকেছিলেন আল্লাহর ইবাদতের দিকে, যিনি তাঁর রব, তাদেরও রব। তাবারী আহাসসা শব্দের অর্থ করেন ওয়াজাদা, অর্থাৎ তিনি পেলেন। কুরতুবী যাজ্জাজের সূত্রে বলেন, এর মানে তিনি জানলেন ও পেলেন। আবু উবায়দার সূত্রে বলেন, এর মানে তিনি চিনলেন। সঙ্গে যোগ করেন, শব্দটির মূলে আছে ইন্দ্রিয় দিয়ে কোনো কিছু অনুভব করা।"
+          },
+          {
+            "en": "At-Tabari separates this verb from hass without the alif, which means destroying and killing, as in 3:152, when you were killing them by His permission. The disbelief, in his paraphrase, was a denial of 'Isa's prophethood, a belying of his word, and a turning away from what he called them to. Ibn Kathir describes it as their resolve to disbelieve and to persist in misguidance. Al-Qurtubi notes that some say he heard words of disbelief from them, and that al-Farra' took it to mean they wanted to kill him.",
+            "bn": "তাবারী এ ক্রিয়াকে আলাদা করেন আলিফ ছাড়া হাসস শব্দ থেকে। হাসস মানে নিঃশেষ করা, হত্যা করা, যেমন ৩:১৫২ আয়াতে: যখন তোমরা তাঁর অনুমতিতে তাদের হত্যা করছিলে। তাবারীর ব্যাখ্যায় এই কুফর ছিল ঈসার নবুওয়াত অস্বীকার, তাঁর কথাকে মিথ্যা বলা, আর তিনি যেদিকে ডাকছিলেন সেদিক থেকে মুখ ফিরিয়ে নেওয়া। ইবন কাসীরের ভাষায়, তারা কুফরে অটল থাকার আর গোমরাহিতে লেগে থাকার পণ করেছিল। কুরতুবী জানান, কারও মতে তিনি তাদের মুখে কুফরি কথা শুনেছিলেন। আর ফাররার মতে, এর মানে তারা তাঁকে হত্যা করতে চেয়েছিল।"
+          },
+          {
+            "en": "As-Sa'di pictures it concretely: he saw that they would not yield to him, they said this is plain magic, and they resolved to kill him and set about it. Read together, the glosses describe something perceived, not guessed, found in what they said and what they set out to do. Only after the evidence was in did 'Isa (AS) turn and ask for helpers.",
+            "bn": "সা'দী ছবিটা আরও স্পষ্ট করে আঁকেন। তিনি দেখলেন, তারা তাঁর কথা মানবে না। তারা বলল, এ তো সুস্পষ্ট জাদু। তারা তাঁকে হত্যার সংকল্প করল, সে চেষ্টাতেও নামল। সব ব্যাখ্যা পাশাপাশি রাখলে বোঝা যায়, ব্যাপারটা আন্দাজ নয়। তাদের কথা আর উদ্যোগেই তা ধরা পড়েছিল। প্রমাণ হাতে আসার পরেই ঈসা (আঃ) ফিরে সাহায্যকারী চাইলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "With Allah, or Towards Him",
+          "bn": "আল্লাহর সঙ্গে, নাকি তাঁর পথে"
+        },
+        "p": [
+          {
+            "en": "Man ansari ila Allah: who are my helpers ila Allah? The small word ila, normally to or towards, has drawn several readings. At-Tabari takes it as ma'a, with: who are my helpers, together with Allah, against those who deny His proof? He reports the same from as-Suddi and Ibn Jurayj, and explains the usage. Arabs say al-dhawd ila al-dhawd ibil, a few camels joined to a few camels make a herd, putting ila where ma'a would stand when one thing is joined to another.",
+            "bn": "মান আনসারী ইলাল্লাহ: আল্লাহর দিকে কে আমার সাহায্যকারী? ইলা ছোট্ট একটা শব্দ, সাধারণ অর্থ দিকে বা প্রতি। অথচ এর ব্যাখ্যায় একাধিক মত এসেছে। তাবারী একে মা'আ অর্থে নেন, মানে সঙ্গে। তখন অর্থ দাঁড়ায়: আল্লাহর প্রমাণ যারা অস্বীকার করে, তাদের বিরুদ্ধে আল্লাহর সঙ্গে কে আমার সাহায্যকারী? সুদ্দী ও ইবন জুরাইজ থেকেও তিনি এ ব্যাখ্যা আনেন। ব্যবহারটা বোঝাতে তিনি আরবদের একটি কথা উদ্ধৃত করেন: আয-যাওদু ইলায যাওদি ইবিল, অর্থাৎ অল্প কয়টা উট আরও অল্প কয়টার সঙ্গে মিললে পাল হয়ে যায়। এক জিনিস আরেকটার সঙ্গে জুড়লে আরবরা কখনো মা'আর জায়গায় ইলা বসায়।"
+          },
+          {
+            "en": "Al-Qurtubi gives the same reading from as-Suddi, ath-Thawri and others, citing 4:2, do not consume their wealth ila your wealth, that is, together with it. He then gives two readings that keep ila in its own sense: al-Hasan's, who are my helpers on the way to Allah, since 'Isa (AS) was calling them to Him; and an unnamed one, who will join his help to Allah's help. On these two, he says, ila keeps its proper meaning, and that is the better view.",
+            "bn": "কুরতুবীও সুদ্দী, সাওরী ও অন্যদের সূত্রে একই ব্যাখ্যা দেন। দলিল হিসেবে আনেন ৪:২ আয়াত: তাদের সম্পদ তোমাদের সম্পদের ইলা খেয়ো না, অর্থাৎ নিজের সম্পদের সঙ্গে মিলিয়ে। এরপর তিনি দুটি ব্যাখ্যা আনেন, যেখানে ইলা তার নিজের অর্থেই থাকে। প্রথমটি হাসানের: আল্লাহর দিকে যাওয়ার পথে কে আমার সাহায্যকারী? কারণ ঈসা (আঃ) তাদের আল্লাহর দিকেই ডাকছিলেন। দ্বিতীয়টি নামহীন এক মত: কে নিজের সাহায্যকে আল্লাহর সাহায্যের সঙ্গে জুড়ে দেবে? কুরতুবী বলেন, এ দুই মতে ইলা নিজের অর্থেই আছে, আর সেটাই উত্তম।"
+          },
+          {
+            "en": "Ibn Kathir reports Mujahid, who will follow me to Allah, and Sufyan ath-Thawri and others, with Allah, and judges Mujahid's reading nearer; the apparent sense, he adds, is who will help me in calling to Allah. Al-Baghawi relays from al-Hasan and Abu 'Ubayda that ila here means fi: my helpers in Allah's cause and way. The Muyassar paraphrases: who will be with me in supporting Allah's religion? At-Tabari prefers with, al-Qurtubi towards in its own sense, Ibn Kathir the calling, and the difference is left standing.",
+            "bn": "ইবন কাসীর মুজাহিদের মত আনেন: কে আমার অনুসরণ করে আল্লাহর দিকে যাবে? আর সুফিয়ান সাওরী ও অন্যদের মত আনেন: আল্লাহর সঙ্গে। তাঁর বিচারে মুজাহিদের মতটাই বেশি কাছের। তিনি যোগ করেন, বাহ্যিক অর্থ হলো: আল্লাহর দিকে দাওয়াতের কাজে কে আমাকে সাহায্য করবে? বাগাভী হাসান ও আবু উবায়দা থেকে আনেন, এখানে ইলা মানে ফী: আল্লাহর রাহে, তাঁর পথে আমার সাহায্যকারী। মুয়াসসার সহজ কথায় বলে: আল্লাহর দ্বীনের সাহায্যে কে আমার সঙ্গে থাকবে? তাবারী সঙ্গে অর্থ পছন্দ করেন, কুরতুবী নিজ অর্থে দিকে, ইবন কাসীর দাওয়াতের অর্থ। মতভেদটা মতভেদ হিসেবেই থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Question Came Then",
+          "bn": "প্রশ্নটা তখনই কেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari says the scholars differed over what moved 'Isa (AS) to seek helpers. One account, a long narrative from as-Suddi that al-Baghawi also relays, ends with him passing men fishing, inviting them, and their believing and going with him. At-Tabari also gives al-Hasan briefly: he sought help, the disciples helped him, and he prevailed. The other view, from Mujahid, is that they disbelieved and wanted to kill him, and that was when he sought help.",
+            "bn": "তাবারী বলেন, ঈসা (আঃ) কেন সাহায্যকারী খুঁজলেন, তা নিয়ে আলেমদের মধ্যে মতভেদ আছে। একটি বর্ণনা সুদ্দীর, বেশ দীর্ঘ এক কাহিনি, বাগাভীও তা এনেছেন। তার শেষে আছে, তিনি মাছ ধরছিল এমন কিছু লোকের পাশ দিয়ে যান, তাদের ডাকেন, আর তারা ঈমান এনে তাঁর সঙ্গী হয়। তাবারী হাসানের কথাও সংক্ষেপে আনেন: তিনি সাহায্য চাইলেন, হাওয়ারীরা সাহায্য করল, আর তিনি বিজয়ী হলেন। অন্য মতটি মুজাহিদের: তারা কুফরি করল আর তাঁকে হত্যা করতে চাইল, তখনই তিনি সাহায্য চাইলেন।"
+          },
+          {
+            "en": "Al-Qurtubi names the purpose, from al-Hasan and Mujahid: he sought support to shield himself from his people and to make the call public. Then he adds: this is Allah's way with His prophets and His friends. He points to Lut (AS) in 11:80, wishing for a strong support to turn to, which al-Qurtubi explains as kin and companions who would help. Asking for helpers, on this reading, is how a mission is carried, not a sign of doubt.",
+            "bn": "কুরতুবী হাসান ও মুজাহিদের সূত্রে উদ্দেশ্যটা বলে দেন: নিজের কওম থেকে আত্মরক্ষা আর দাওয়াতকে প্রকাশ্যে আনার জন্যই তিনি সাহায্য চেয়েছিলেন। তারপর যোগ করেন: নবী ও ওলীদের ব্যাপারে এটাই আল্লাহর রীতি। দৃষ্টান্ত হিসেবে আনেন ১১:৮০ আয়াতে লূত (আঃ)-এর কথা, যিনি আশ্রয় নেওয়ার মতো কোনো মজবুত খুঁটি কামনা করেছিলেন। কুরতুবীর ব্যাখ্যায় সে খুঁটি হলো আত্মীয়স্বজন ও সঙ্গী, যারা পাশে দাঁড়াবে। এ ব্যাখ্যায় সাহায্যকারী চাওয়া সন্দেহের লক্ষণ নয়। দাওয়াতের দায়িত্ব এভাবেই বহন করা হয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws a point from the order of events. 'Isa (AS) looked for helpers only when he sensed hostility, not at the start of his call. He had set out alone, obeying his Lord without first forming a party, and when the need came he found a group around him. Ma'arif says every worthy mission asks for that kind of determination and courage.",
+            "bn": "মাআরিফুল কুরআন ঘটনার ক্রম থেকে একটি শিক্ষা বের করে। ঈসা (আঃ) দাওয়াতের শুরুতে সাহায্যকারী খোঁজেননি। খুঁজেছেন তখন, যখন শত্রুতা টের পেয়েছেন। রবের হুকুম মেনে তিনি একাই কাজে নেমেছিলেন, আগেভাগে দল গোছাননি। যখন প্রয়োজন এল, দেখা গেল চারপাশে একটি দল তৈরি হয়ে আছে। মাআরিফ বলে, প্রতিটি মহৎ কাজ এমন দৃঢ়তা ও সাহস চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whiteness, Washing and Choice",
+          "bn": "শুভ্রতা, ধোয়া আর বাছাই"
+        },
+        "p": [
+          {
+            "en": "Who were al-hawariyyun? At-Tabari says the commentators differed over why they bore the name. Sa'id ibn Jubayr: because of the whiteness of their clothes. Abu Arta'a, through Ibn Abi Najih: they were washers who whitened clothes. Qatada, asked who the hawariyyun are: those fit for leadership. Ad-Dahhak: the chosen ones of the prophets. At-Tabari judges the first two nearest, because hawar for the Arabs is intense whiteness; the finest white food is called huwwara for that reason, and a man with very white eyes ahwar.",
+            "bn": "হাওয়ারী কারা? তাবারী বলেন, এ নাম কেন হলো, তা নিয়ে মুফাসসিরদের মতভেদ আছে। সাঈদ ইবন জুবাইরের মতে, তাদের কাপড়ের শুভ্রতার কারণে। ইবন আবী নাজীহের সূত্রে আবু আরতাআর মতে, তারা ছিল ধোপা, কাপড় ধুয়ে সাদা করত। কাতাদাকে জিজ্ঞেস করা হয়েছিল হাওয়ারী কারা, তিনি বলেন: যারা নেতৃত্বের যোগ্য। দাহহাকের মতে: নবীদের বাছাই করা মানুষ। তাবারীর বিচারে প্রথম দুটি মতই বেশি কাছের। কারণ আরবদের কাছে হাওয়ার মানে গাঢ় শুভ্রতা। এজন্যই ধবধবে সাদা মিহি খাবারকে বলা হয় হুওয়ারা, আর যার চোখের সাদা অংশ খুব সাদা, তাকে বলা হয় আহওয়ার।"
+          },
+          {
+            "en": "At-Tabari then suggests how the word may have travelled: fullers known for whitening clothes, made known by 'Isa (AS) choosing them as companions and helpers, until any man's close supporters came to be called his hawari. Al-Qurtubi reports Ibn 'Abbas: named for the whiteness of their clothes, and they were fishermen. Qatada and ad-Dahhak: they were the elect of the prophets, which al-Qurtubi explains as the purity of their hearts. He adds, from al-Kalbi and Abu Rawq, that they were twelve men.",
+            "bn": "শব্দটা কীভাবে ছড়াল, তাবারী তার একটা সম্ভাব্য পথ দেখান। হয়তো তারা কাপড় সাদা করার কাজে পরিচিত ধোপা ছিল। ঈসা (আঃ) তাদের সঙ্গী ও সাহায্যকারী হিসেবে বেছে নেওয়ায় এ নামেই তারা পরিচিত হলো। শেষে যেকোনো মানুষের ঘনিষ্ঠ সাহায্যকারীকে বলা হতে লাগল তার হাওয়ারী। কুরতুবী ইবন আব্বাস (রাঃ) থেকে আনেন: কাপড়ের শুভ্রতার জন্য এ নাম, আর তারা ছিল জেলে। কাতাদা ও দাহহাকের মতে, তারা ছিল নবীদের খাস লোক। কুরতুবী বলেন, এর মানে তাদের অন্তরের পবিত্রতা। কালবী ও আবু রাওকের সূত্রে তিনি যোগ করেন, তারা ছিল ১২ জন।"
+          },
+          {
+            "en": "Al-Baghawi lists still more: fishermen, per Mujahid and as-Suddi; fullers, per al-Hasan; purity of hearts, per ad-Dahhak; the trace and light of worship on them, per Ibn al-Mubarak; the chosen, per al-Kalbi and 'Ikrima. Al-Hasan also calls them the helpers. Ibn Kathir gives fullers, white clothes and fishermen as it is said, and calls the sound view that the hawari is the helper. Ma'arif sums up: sincerity, purity of heart, or white dress.",
+            "bn": "বাগাভীর তালিকা আরও লম্বা। মুজাহিদ ও সুদ্দীর মতে, তারা ছিল জেলে। হাসানের মতে, ধোপা। দাহহাকের মতে, অন্তরের স্বচ্ছতার কারণে এ নাম। ইবনুল মুবারকের মতে, তাদের গায়ে ইবাদতের ছাপ ও নূরের কারণে। কালবী ও ইকরিমার মতে, তারা ছিল বাছাই করা লোক। হাসান তাদের সাহায্যকারীও বলেন। ইবন কাসীর ধোপা, সাদা কাপড় আর জেলে, এ মতগুলো 'বলা হয়' বলে উল্লেখ করেন। তাঁর মতে সঠিক কথা হলো, হাওয়ারী মানে সাহায্যকারী। মাআরিফ সংক্ষেপে বলে: আন্তরিকতা, অন্তরের পবিত্রতা, কিংবা সাদা পোশাক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Hawari for Every Prophet",
+          "bn": "প্রত্যেক নবীর একজন হাওয়ারী"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir supports the view that the hawari is the helper with a narration he says is in the two Sahihs. In al-Bukhari's wording (2846), Jabir narrates: the Prophet ﷺ said, \"Who will bring me news of the people on the day of al-Ahzab?\" Az-Zubayr said, \"I will.\" Then he said, \"Who will bring me news of the people?\" Az-Zubayr said, \"I will.\" The Prophet ﷺ said, \"Every prophet has a hawari, and my hawari is az-Zubayr.\"",
+            "bn": "হাওয়ারী মানে সাহায্যকারী, এ মতের পক্ষে ইবন কাসীর একটি বর্ণনা আনেন, যা তাঁর ভাষায় দুই সহীহ গ্রন্থে আছে। বুখারীর (২৮৪৬) শব্দে জাবির (রাঃ) বর্ণনা করেন: নবী ﷺ বললেন, \"আহযাবের দিন কে আমাকে শত্রুপক্ষের খবর এনে দেবে?\" যুবাইর বললেন, \"আমি।\" তিনি আবার বললেন, \"কে আমাকে শত্রুপক্ষের খবর এনে দেবে?\" যুবাইর বললেন, \"আমি।\" তখন নবী ﷺ বললেন, \"প্রত্যেক নবীর একজন হাওয়ারী থাকে, আর আমার হাওয়ারী যুবাইর।\""
+          },
+          {
+            "en": "The narration explains a word; it was not said about this verse, and none of the commentaries fetched here attaches a sound hadith to 3:52 itself. What it shows is how the word lived on among the Arabs. At-Tabari, quoting the same saying, glosses hawari as a man's inner circle. In al-Baghawi's chain, Sufyan adds that the hawari is the helper. Al-Baghawi also relays from Qatada, through Ma'mar, that the hawariyyun were all of Quraysh, and then twelve names of Companions, from Abu Bakr and 'Umar to az-Zubayr.",
+            "bn": "বর্ণনাটি একটি শব্দের অর্থ বোঝায়, এ আয়াত প্রসঙ্গে বলা হয়নি। এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ৩:৫২ আয়াতের সঙ্গে সরাসরি কোনো সহীহ হাদীস জুড়ে দেয়নি। তবে বর্ণনাটি দেখায়, আরবদের মুখে শব্দটা কীভাবে বেঁচে ছিল। তাবারী একই বাণী উদ্ধৃত করে হাওয়ারীর অর্থ করেন মানুষের খাস ঘনিষ্ঠজন। বাগাভীর সনদে সুফিয়ান যোগ করেন, হাওয়ারী মানে সাহায্যকারী। বাগাভী মা'মারের সূত্রে কাতাদা থেকে এ-ও আনেন যে হাওয়ারীরা সবাই কুরাইশের। তারপর ১২ জন সাহাবীর নাম, আবু বকর ও উমর (রাঃ) থেকে শুরু করে যুবাইর (রাঃ) পর্যন্ত।"
+          },
+          {
+            "en": "Ibn Kathir also compares the disciples with the Ansar: the Prophet ﷺ sought support in the pilgrimage seasons before the Hijrah until the Ansar sheltered and helped him, and in the same way a group of the Children of Israel came forward for 'Isa (AS), believed in him and supported him. The narration Ibn Kathir relays for that search is not quoted here: at-Tirmidhi, who records a version of it (2925), grades it gharib sahih.",
+            "bn": "ইবন কাসীর হাওয়ারীদের তুলনা করেন আনসারদের সঙ্গে। হিজরতের আগে হজের মৌসুমগুলোতে নবী ﷺ দাওয়াতের জন্য সহায় খুঁজেছিলেন, শেষে আনসাররা তাঁকে আশ্রয় দিল ও সাহায্য করল। ঠিক তেমনি বানী ইসরাঈলের একটি দল ঈসা (আঃ)-এর ডাকে এগিয়ে এল, তাঁর উপর ঈমান আনল, তাঁকে সাহায্য করল। সে খোঁজ নিয়ে ইবন কাসীর যে বর্ণনাটি আনেন, তা এখানে উদ্ধৃত করা হলো না। এর একটি রূপ তিরমিযী (২৯২৫) এনেছেন, আর তিনি নিজে একে গারীব সহীহ বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Helpers of His Messenger and Religion",
+          "bn": "রসূল ও দ্বীনের সাহায্যকারী"
+        },
+        "p": [
+          {
+            "en": "Then the reply: nahnu ansar Allah, we are Allah's helpers. Al-Qurtubi explains: helpers of His prophet and His religion. Al-Baghawi: aides of the religion of Allah and of His messenger. The Muyassar: helpers of Allah's religion and callers to it. As-Sa'di says they came forward with him and took the task on. Each gloss names what the help is for, so the phrase is never read as if Allah were in need.",
+            "bn": "এরপর জবাব: নাহনু আনসারুল্লাহ, আমরাই আল্লাহর সাহায্যকারী। কুরতুবীর ব্যাখ্যায়: তাঁর নবী ও তাঁর দ্বীনের সাহায্যকারী। বাগাভীর ভাষায়: আল্লাহর দ্বীন ও তাঁর রসূলের সহযোগী। মুয়াসসারের ভাষায়: আল্লাহর দ্বীনের সাহায্যকারী, সে দ্বীনের দিকে আহ্বানকারী। সা'দী জানান, তারা তাঁর সঙ্গে এগিয়ে এল, দায়িত্বটা কাঁধে নিল। প্রতিটি ব্যাখ্যাই বলে দেয় সাহায্যটা কীসের জন্য। তাই কথাটা এমনভাবে পড়ার সুযোগ নেই, যেন আল্লাহ কারও মুখাপেক্ষী।"
+          },
+          {
+            "en": "Amanna billah: we have believed in Allah, which at-Tabari glosses as we have affirmed Allah's truth. Wa-shhad bi-anna muslimun: and bear witness that we are muslims. At-Tabari, al-Baghawi and the Muyassar all take the person asked to bear witness to be 'Isa (AS) himself: bear witness, you, O 'Isa. The Muyassar spells out the submission as yielding to Allah in tawhid and obedience, and its paraphrase adds: we have affirmed Allah and followed you. The disciples ask their prophet to testify for them before anyone else does.",
+            "bn": "আমান্না বিল্লাহ: আমরা আল্লাহর উপর ঈমান এনেছি। তাবারী এর অর্থ করেন, আমরা আল্লাহকে সত্য বলে মেনেছি। ওয়াশহাদ বিআন্না মুসলিমূন: আর সাক্ষী থাকুন যে আমরা মুসলিম। তাবারী, বাগাভী ও মুয়াসসার তিনজনই বলেন, এখানে যাঁকে সাক্ষী থাকতে বলা হচ্ছে, তিনি স্বয়ং ঈসা (আঃ): হে ঈসা, আপনি সাক্ষী থাকুন। মুয়াসসার আত্মসমর্পণের অর্থ খুলে বলে: তাওহীদ ও আনুগত্যের সঙ্গে আল্লাহর কাছে নিজেকে সঁপে দেওয়া। তার ব্যাখ্যায় এ কথাও যোগ হয়: আমরা আল্লাহকে সত্য বলে মেনেছি, আর আপনার অনুসরণ করেছি। হাওয়ারীরা সবার আগে নিজেদের নবীকেই তাদের পক্ষে সাক্ষী রাখতে চাইল।"
+          },
+          {
+            "en": "At-Tabari reads more in the last word. This, he says, is news from Allah that Islam is His religion, with which He sent 'Isa (AS) and the prophets before him, not Christianity and not Judaism, and it clears 'Isa of those who later took his name for another creed. He ties it to the argument with the delegation from Najran, relaying Ibn Ishaq: this saying was what earned them favour from their Lord, not as those who dispute with you about him say.",
+            "bn": "শেষ শব্দটিতে তাবারী আরও গভীর অর্থ দেখেন। তাঁর মতে এটি আল্লাহর পক্ষ থেকে জানিয়ে দেওয়া যে ইসলামই তাঁর দ্বীন, যা দিয়ে তিনি ঈসা (আঃ) ও তাঁর আগের নবীদের পাঠিয়েছিলেন। তা খ্রিষ্টধর্ম নয়, ইহুদিধর্মও নয়। সঙ্গে এটি ঈসাকে তাদের থেকে মুক্ত ঘোষণা, যারা পরে তাঁর নামে অন্য মত গ্রহণ করেছে। তাবারী একে নাজরানের প্রতিনিধিদলের সঙ্গে বিতর্কের সঙ্গে যুক্ত করেন, আর ইবন ইসহাকের কথা আনেন: এই কথার কারণেই তারা রবের কাছে মর্যাদা পেয়েছিল, যারা তোমার সঙ্গে তাঁকে নিয়ে বিতর্ক করে, তারা যেমন বলে তেমন নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then, and Not Against Anyone Now",
+          "bn": "সেদিনের কথা, আজ কারও বিরুদ্ধে নয়"
+        },
+        "p": [
+          {
+            "en": "The disbelief in this verse belongs to those of the Children of Israel who rejected 'Isa (AS) in his own time, the people to whom, as at-Tabari specifies, Allah had sent him. As-Sa'di adds that a party of them then believed and a party disbelieved, and Allah supported the believers. The verse describes what happened then. It licenses nothing against any living person or community, Jewish, Christian or other.",
+            "bn": "এ আয়াতের কুফর বানী ইসরাঈলের সেই লোকদের, যারা ঈসা (আঃ)-কে তাঁর নিজের যুগে প্রত্যাখ্যান করেছিল। তাবারী স্পষ্ট বলেন, এরা সেই কওম, যাদের কাছে আল্লাহ তাঁকে পাঠিয়েছিলেন। সা'দী যোগ করেন, এরপর তাদের একদল ঈমান আনল, আরেকদল কুফরি করল, আর আল্লাহ ঈমানদারদের সাহায্য করলেন। আয়াতটি সেদিন যা ঘটেছিল, শুধু তারই বর্ণনা। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে, ইহুদি হোক, খ্রিষ্টান হোক বা অন্য কেউ, এ আয়াত কোনো কিছুর অনুমতি দেয় না।"
+          },
+          {
+            "en": "Nor does the verse say that 'Isa (AS) fell short. He conveyed the message with signs, by Allah's permission, and when rejection hardened he asked openly for helpers, which al-Qurtubi calls Allah's way with His prophets. What his opponents planned next, and how Allah answered them, belongs to 3:54 and 3:55; this verse stops at the moment a few people said yes.",
+            "bn": "আয়াতটি এ-ও বলে না যে ঈসা (আঃ)-এর দাওয়াতে কোনো ঘাটতি ছিল। তিনি আল্লাহর অনুমতিতে নিদর্শনসহ বার্তা পৌঁছে দিয়েছেন। প্রত্যাখ্যান যখন শক্ত হলো, তিনি প্রকাশ্যে সাহায্যকারী চাইলেন। কুরতুবী একেই বলেন নবীদের ব্যাপারে আল্লাহর রীতি। এরপর বিরোধীরা কী ষড়যন্ত্র করল আর আল্লাহ কীভাবে তার জবাব দিলেন, তা ৩:৫৪ ও ৩:৫৫ আয়াতের বিষয়। এ আয়াত থেমে যায় সেই মুহূর্তে, যখন অল্প কয়েকজন হ্যাঁ বলল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Answering With What You Have",
+          "bn": "যা আছে তা নিয়েই সাড়া"
+        },
+        "p": [
+          {
+            "en": "The question returns in 61:14, where the believers are told to be helpers of Allah as 'Isa son of Maryam asked the disciples, and 3:53 turns the disciples' answer into a prayer. Read beside them, this verse is a posture to learn: someone asks who will stand with him for what is right, and a few answer without first asking how many have agreed.",
+            "bn": "একই প্রশ্ন আবার আসে ৬১:১৪ আয়াতে। সেখানে মুমিনদের বলা হয়েছে আল্লাহর সাহায্যকারী হতে, যেভাবে মারইয়াম-পুত্র ঈসা হাওয়ারীদের কাছে জানতে চেয়েছিলেন। আর ৩:৫৩ আয়াতে হাওয়ারীদের জবাব রূপ নেয় দোয়ায়। এগুলো পাশাপাশি পড়লে আয়াতটি শেখার মতো একটি ভঙ্গি হয়ে ওঠে। কেউ জিজ্ঞেস করছে, সঠিক কাজে কে তার পাশে দাঁড়াবে। আর অল্প কয়েকজন সাড়া দিচ্ছে, আগে খোঁজ না নিয়েই যে আর কতজন রাজি হয়েছে।"
+          },
+          {
+            "en": "In ordinary life, help for Allah's religion is usually small and close at hand: teaching a child to read the Qur'an, standing beside someone mocked for praying, saying plainly what is true when silence would be easier. The disciples' reply had three parts, a commitment, a statement of belief and a request for witness to their submission, and each can be checked against one's own week.",
+            "bn": "সাধারণ জীবনে আল্লাহর দ্বীনের সাহায্য সাধারণত ছোট আর হাতের কাছেই থাকে। কোনো শিশুকে কুরআন পড়তে শেখানো, নামাজ পড়ার জন্য যাকে ঠাট্টা করা হয় তার পাশে দাঁড়ানো, চুপ থাকা সহজ হলেও সত্য কথাটা সোজাসুজি বলা। হাওয়ারীদের জবাবে তিনটি অংশ ছিল: একটা অঙ্গীকার, ঈমানের ঘোষণা, আর নিজেদের আত্মসমর্পণের পক্ষে সাক্ষী রাখার অনুরোধ। নিজের সপ্তাহটা কীভাবে কাটল, তার সঙ্গে এ তিনটি অংশ মিলিয়ে দেখা যায়।"
+          },
+          {
+            "en": "Ma'arif's observation applies to whoever calls as well. 'Isa (AS) began before he had helpers. A good work need not wait for a group to form, and help can be asked for openly, as al-Qurtubi notes the prophets did. Two questions remain. When someone near me asks who will help with something good, do I answer? And when I see a need no one is meeting, do I begin, and then ask?",
+            "bn": "মাআরিফের পর্যবেক্ষণটা যে ডাকে, তার বেলাতেও খাটে। সাহায্যকারী পাওয়ার আগেই ঈসা (আঃ) কাজ শুরু করেছিলেন। ভালো কাজের জন্য দল গড়ে ওঠার অপেক্ষা করতে হয় না। আর সাহায্য দরকার হলে প্রকাশ্যে চাওয়া যায়, কুরতুবী যেমন বলেন নবীরা চেয়েছিলেন। দুটি প্রশ্ন থেকে যায়। আমার কাছের কেউ যখন ভালো কাজে সাহায্যকারী খোঁজে, আমি কি সাড়া দিই? আর যে প্রয়োজন কেউ মেটাচ্ছে না, তা চোখে পড়লে আমি কি আগে কাজ শুরু করি, তারপর সাহায্য চাই?"
+          }
+        ]
+      }
+    ]
+  },
   "3:55": {
     "sections": [
       {

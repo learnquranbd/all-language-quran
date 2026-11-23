@@ -30543,6 +30543,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold on to the truth you have witnessed, for turning from it knowingly earns a curse; yet the verses that follow keep repentance open to whoever returns and sets things right.",
     "lessonBn": "যে সত্যের সাক্ষী আপনি হয়েছেন, তা আঁকড়ে থাকুন, কারণ জেনেশুনে তা থেকে ফিরে যাওয়া লানত ডেকে আনে। তবু পরের আয়াতগুলো তওবার দরজা খোলা রাখে, যে ফিরে আসে আর নিজেকে শুধরে নেয় তার জন্য।"
+  },
+  "3:52": {
+    "reflectionEn": "'Isa (AS) had come with clear signs, all by Allah's permission, and had called his people to worship their Lord and his. Then he sensed denial hardening among them. He did not drop the message, and he did not act as if he could carry it alone. He asked a plain question: who will be my helpers for Allah? A small group answered, and they did not bargain first. They said: we are Allah's helpers, we believe in Allah, so bear witness that we have submitted. Nothing in their answer counted heads or weighed the cost. When what is right is unpopular around me, do I wait to see how many will join, or do I answer with whatever I have?",
+    "reflectionBn": "ঈসা (আঃ) আল্লাহর হুকুমে স্পষ্ট নিদর্শন নিয়ে এসেছিলেন। লোকদের ডেকেছিলেন তাদের রব ও তাঁর রবের ইবাদতের দিকে। তারপর তিনি টের পেলেন, তাদের মধ্যে অস্বীকার জমাট বাঁধছে। তিনি দাওয়াত ছেড়ে দেননি। আবার একাই সব বোঝা বইতে পারবেন, এমন ভানও করেননি। সোজা একটা প্রশ্ন করলেন: আল্লাহর পথে কে আমার সাহায্যকারী হবে? ছোট একটা দল সাড়া দিল, আর আগে কোনো দরকষাকষি করল না। তারা বলল: আমরা আল্লাহর সাহায্যকারী, আমরা আল্লাহর উপর ঈমান এনেছি, আপনি সাক্ষী থাকুন যে আমরা আত্মসমর্পণকারী। তাদের জবাবে না ছিল মাথা গোনা, না লাভ-ক্ষতির হিসাব। আমার চারপাশে সঠিক কাজটা যখন অজনপ্রিয়, আমি কি দেখি আর কতজন যোগ দেয়? নাকি হাতে যা আছে তা নিয়েই সাড়া দিই?",
+    "pointsEn": [
+      "Who around me is trying to do something good for Allah's sake and needs a helper, and have I offered?",
+      "When a good cause is unpopular, do I count the people already in it before I decide whether to join?",
+      "Have I ever held back from starting what I knew was right only because no one else had started yet?",
+      "Where in an ordinary week does my belief show as submission, in what I actually do, and not only in what I say?",
+      "When I help with something good, am I helping Allah's religion, or my own name inside it?"
+    ],
+    "pointsBn": [
+      "আমার আশপাশে কে আল্লাহর জন্য ভালো কিছু করতে চাইছে আর একজন সাহায্যকারী খুঁজছে? আমি কি হাত বাড়িয়েছি?",
+      "ভালো কোনো কাজ যখন লোকের পছন্দের নয়, যোগ দেব কি না ঠিক করার আগে আমি কি গুনে দেখি, সেখানে আর কতজন আছে?",
+      "সঠিক জানা সত্ত্বেও কোনো কাজ শুধু এজন্য শুরু করিনি যে আর কেউ তখনো শুরু করেনি, এমন কি কখনো হয়েছে?",
+      "সাধারণ একটা সপ্তাহে আমার ঈমান মুখের কথায় নয়, কাজে আত্মসমর্পণ হয়ে কোথায় দেখা দেয়?",
+      "কোনো ভালো কাজে সাহায্য করার সময় আমি কি আল্লাহর দ্বীনের সাহায্য করি, নাকি সে কাজের ভেতরে নিজের নামের?"
+    ],
+    "lessonEn": "When truth meets rejection, be among those who answer the call to stand for Allah, and let your faith show as submission, not only as words.",
+    "lessonBn": "সত্য যখন প্রত্যাখ্যানের মুখে পড়ে, আল্লাহর জন্য দাঁড়ানোর ডাকে যারা সাড়া দেয়, তাদের একজন হোন। আর আপনার ঈমান যেন শুধু কথায় নয়, আত্মসমর্পণে দেখা দেয়।"
   }
 };
 
