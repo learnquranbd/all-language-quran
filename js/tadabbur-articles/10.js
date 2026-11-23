@@ -4307,6 +4307,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:90": {
+    "sections": [
+      {
+        "h": {
+          "en": "When the Prayer Came Due",
+          "bn": "কবুল হওয়া দু‘আর দিন"
+        },
+        "p": [
+          {
+            "en": "In 10:88 Musa (AS) prays against Pharaoh and his chiefs: our Lord, obliterate their wealth and harden their hearts, so that they will not believe until they see the painful punishment. In 10:89 Allah tells him and his brother that their supplication has been answered, and orders them to stay upright. This verse is where the answer arrives. The sea is crossed, the army follows, and the one man named believes at the very point that prayer described.",
+            "bn": "সূরা ইউনুসের ১০:৮৮ আয়াতে মূসা (আঃ) ফিরআউন ও তার সভাসদদের বিরুদ্ধে দু‘আ করেন: হে আমাদের রব, তাদের সম্পদ নিশ্চিহ্ন করে দিন, তাদের অন্তর কঠিন করে দিন, যাতে যন্ত্রণাদায়ক শাস্তি না দেখা পর্যন্ত তারা ঈমান না আনে। ১০:৮৯ আয়াতে আল্লাহ তাঁকে ও তাঁর ভাইকে জানান, তোমাদের দু‘আ কবুল হয়েছে, আর তোমরা অটল থাকো। সেই কবুলের বাস্তব রূপ দেখা দেয় এই আয়াতে। সাগর পার হওয়া হয়, সৈন্যদল পিছু নেয়, আর আয়াতে যার নাম আছে সেই একজন ঈমান আনে ঠিক সেই মুহূর্তে, দু‘আয় যে মুহূর্তের কথা বলা হয়েছিল।"
+          },
+          {
+            "en": "Ibn Kathir marks the hinge. When Pharaoh reached the water's edge and wanted to turn back, he writes, it was too late: the decree had taken effect and the prayer had been answered. He does not say which prayer, but in this surah the prayer declared answered, in 10:89, is that of 10:88. None of the eight tafsirs consulted reports an occasion of revelation for this verse. 10:91 then replies to what Pharaoh says, and 10:92 turns to his body.",
+            "bn": "মোড়টা ইবন কাসীর চিহ্নিত করে দেন। তিনি লেখেন, ফিরআউন যখন পানির কিনারে পৌঁছে ফিরে যেতে চাইল, তখন আর সময় ছিল না। তাকদীর কার্যকর হয়ে গেছে, দু‘আও কবুল হয়ে গেছে। কোন দু‘আ, তা তিনি বলেননি। তবে এ সূরায় যে দু‘আকে কবুল বলে ঘোষণা করা হয়েছে, তা ১০:৮৮ আয়াতের দু‘আ, যার কবুলের খবর আসে ১০:৮৯ আয়াতে। যে আটটি তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের শানে নুযূল বর্ণনা করে না। এরপর ১০:৯১ আয়াত ফিরআউনের কথার জবাব দেয়, আর ১০:৯২ আয়াত ফেরে তার দেহের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reached, Not Merely Trailed",
+          "bn": "শুধু পিছু নয়, একেবারে নাগাল"
+        },
+        "p": [
+          {
+            "en": "Wa-jawazna bi-Bani Isra'ila al-bahr: and We took the Children of Israel across the sea. The verb belongs to Allah, and the people are carried across by it. At-Tabari paraphrases it as, We cut through the sea with the Children of Israel until they had passed beyond it. Al-Qurtubi notes that al-Hasan read jawwazna, with a doubled letter, and calls the two forms two dialects of one word.",
+            "bn": "ওয়া জাওয়াযনা বি-বানী ইসরাঈলাল বাহর: আর আমি বানী ইসরাঈলকে সাগর পার করিয়ে নিলাম। ক্রিয়াটি আল্লাহর, মানুষগুলো পার হয়েছে তাঁরই করানোতে। তাবারী এর ব্যাখ্যা দেন এভাবে: আমি বানী ইসরাঈলকে নিয়ে সাগর পাড়ি দিলাম, শেষ পর্যন্ত তারা ওপারে পৌঁছে গেল। কুরতুবী জানান, হাসান পড়েছেন জাওওয়াযনা, একটি অক্ষর দ্বিত্ব করে। তাঁর মতে দুটোই একই শব্দের দুই আঞ্চলিক রূপ।"
+          },
+          {
+            "en": "Then fa-atba'ahum Fir'awnu wa-junuduhu: and Pharaoh and his soldiers pursued them. Al-Baghawi and al-Qurtubi both separate atba'a, to catch up with someone and reach him, from ittaba'a, to walk behind someone or follow his lead, while noting that some held the two to mean the same. At-Tabari reports through Abu 'Ubayd that al-Kisa'i used atba'a for following someone up with good or harm. On the first account the verb says Pharaoh did not just trail behind them; he drew level.",
+            "bn": "তারপর ফা-আতবাআহুম ফিরআউনু ওয়া জুনূদুহু: আর ফিরআউন ও তার সৈন্যরা তাদের পিছু ধাওয়া করল। বাগাভী ও কুরতুবী দুজনেই আতবাআ আর ইত্তাবাআ আলাদা করেন। প্রথমটির মানে কাউকে ধরে ফেলা, তার নাগাল পাওয়া। দ্বিতীয়টির মানে কারও পেছনে হাঁটা বা তার অনুসরণ করা। তবে কেউ কেউ দুটোকে একই অর্থের বলেছেন, সে কথাও তাঁরা জানান। তাবারী আবূ উবাইদের সূত্রে বলেন, কিসাঈ ভালো বা মন্দ নিয়ে কারও পিছু নেওয়া বোঝাতে আতবাআ ব্যবহার করতেন। প্রথম ব্যাখ্যা ধরলে ক্রিয়াটি বলছে, ফিরআউন শুধু পেছনে পেছনে আসেনি, একেবারে তাদের কাছে পৌঁছে গিয়েছিল।"
+          },
+          {
+            "en": "Baghyan wa-'adwan: in tyranny and aggression. At-Tabari makes the first word transgression against Musa and Harun (AS) and the people with them, and the second an assault on them. Al-Qurtubi reports from the commentators that baghy is seeking to rise above others without right, in speech, and 'adw is the same in deed; al-Baghawi gives that split under the words it is said. As-Sa'di draws a principle from the phrase: when transgression grows severe and sin takes firm hold, expect the punishment.",
+            "bn": "বাগইয়ান ওয়া আদওয়া: জুলুম আর সীমালঙ্ঘন করে। তাবারীর মতে প্রথম শব্দটি মূসা ও হারূন (আঃ) এবং তাঁদের সঙ্গের লোকদের উপর জুলুম, আর দ্বিতীয়টি তাদের উপর চড়াও হওয়া। কুরতুবী মুফাসসিরদের থেকে বর্ণনা করেন, বাগি হলো অন্যায়ভাবে অন্যের উপরে ওঠার চেষ্টা, কথায়। আর আদও হলো সেই একই কাজ, তবে আমলে। বাগাভী 'বলা হয়' কথাটি জুড়ে এই ভাগই দেন। সা'দী শব্দ দুটি থেকে একটি নিয়ম বের করেন: জুলুম যখন চরমে ওঠে আর গুনাহ শিকড় গেড়ে বসে, তখন শাস্তির অপেক্ষা করো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Twelve Roads Through Water",
+          "bn": "পানির ভেতর বারোটি পথ"
+        },
+        "p": [
+          {
+            "en": "The verse folds the crossing into a few words, and Ibn Kathir fills it from other surahs. He brings 26:61 to 26:63: when the two hosts saw each other, the companions of Musa said, we are surely overtaken; he said, no, my Lord is with me and will guide me; and the sea parted, each part like a great mountain. He adds the dry path of 20:77, says the sea opened into twelve roads, one for each tribe, and that walls of water between them were pierced like windows so each group could see the others.",
+            "bn": "পার হওয়ার পুরো ঘটনা আয়াতটি গুটিয়ে এনেছে কয়েকটি শব্দে। ইবন কাসীর তা ভরিয়ে তোলেন অন্য সূরা থেকে। তিনি আনেন ২৬:৬১ থেকে ২৬:৬৩ আয়াত। দুই দল মুখোমুখি হলে মূসার সঙ্গীরা বলল, আমরা তো ধরা পড়ে গেলাম। তিনি বললেন, কখনো না, আমার রব আমার সঙ্গে আছেন, তিনিই পথ দেখাবেন। তারপর সাগর ভাগ হয়ে গেল, প্রতিটি ভাগ যেন বিশাল পাহাড়। ২০:৭৭ আয়াতের শুকনো পথের কথাও তিনি জোড়েন। তাঁর বর্ণনায় সাগরে বারোটি পথ খুলে যায়, প্রতিটি গোত্রের জন্য একটি করে। মাঝের পানির দেয়ালে জানালার মতো ফাঁক ছিল, যাতে এক দল অন্য দলকে দেখতে পায়।"
+          },
+          {
+            "en": "Then the reports of the entry. At-Tabari relays from Abdullah ibn Shaddad, and al-Baghawi, al-Qurtubi and Ibn Kathir also tell, that Jibril (AS) rode into the water ahead on a mare and Pharaoh's horse plunged after it; the last three say Pharaoh's side first balked at entering. At-Tabari's report, al-Qurtubi and Ibn Kathir add Mika'il (AS) driving them from behind. These come from the early generations, not from the Prophet ﷺ.",
+            "bn": "এরপর সাগরে নামার বর্ণনাগুলো। তাবারী আবদুল্লাহ ইবন শাদ্দাদ থেকে বর্ণনা করেন, আর বাগাভী, কুরতুবী ও ইবন কাসীরও লেখেন: জিবরীল (আঃ) একটি ঘোটকীতে চড়ে আগে পানিতে নেমে পড়েন, আর ফিরআউনের ঘোড়া তার পেছনে ঝাঁপিয়ে পড়ে। শেষের তিনজন বলেন, ফিরআউনের পক্ষ প্রথমে পানিতে নামতে ইতস্তত করছিল। তাবারীর বর্ণনা, কুরতুবী আর ইবন কাসীর যোগ করেন, মীকাঈল (আঃ) পেছন থেকে তাদের তাড়িয়ে নিচ্ছিলেন। এসব বর্ণনা পূর্বসূরিদের থেকে আসা, নবী ﷺ থেকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Overtaken in His Turn",
+          "bn": "যে ধরতে এসেছিল, সে-ই ধরা পড়ল"
+        },
+        "p": [
+          {
+            "en": "Hatta idha adrakahu al-gharaq: until, when drowning overtook him. Adraka is from the same root as the companions' cry in 26:61, inna la-mudrakun, we are surely overtaken, the verse Ibn Kathir quotes here. The ones who feared being overtaken were carried across; the pursuer was overtaken by the water. At-Tabari glosses the phrase as, until drowning surrounded him; al-Baghawi as, the water covered him and his end drew near. At-Tabari also points out an unstated step: the sentence leaves out and We drowned him, because the rest makes it plain.",
+            "bn": "হাত্তা ইযা আদরাকাহুল গারাক: অবশেষে যখন ডুবে যাওয়া তাকে পেয়ে বসল। আদরাকা শব্দটি সেই একই ধাতু থেকে, যা আছে ২৬:৬১ আয়াতে মূসার সঙ্গীদের আর্তনাদে: ইন্না লা-মুদরাকূন, আমরা তো ধরা পড়ে গেলাম। ইবন কাসীর এখানে আয়াতটি উদ্ধৃত করেছেন। যারা ধরা পড়ার ভয় করছিল, তারা নিরাপদে পার হয়ে গেল। আর যে ধরতে এসেছিল, তাকেই ধরে ফেলল পানি। তাবারীর ব্যাখ্যায়, শেষে ডুবে যাওয়া তাকে চারদিক থেকে ঘিরে ফেলল। বাগাভীর ব্যাখ্যায়, পানি তাকে ঢেকে ফেলল আর তার মৃত্যু ঘনিয়ে এল। তাবারী একটি না-বলা কথাও ধরিয়ে দেন: বাক্যে 'আর আমি তাকে ডুবিয়ে দিলাম' কথাটি নেই, কারণ বাকি কথাতেই তা পরিষ্কার।"
+          },
+          {
+            "en": "Then the confession. At-Tabari says Pharaoh spoke when he was on the brink of drowning and certain of destruction, and glosses amantu as aqrartu, I acknowledged; al-Qurtubi glosses the verb as saddaqtu, I held it true. The readers differed over the next word. At-Tabari gives anna as the reading of most of Medina and Basra and inna as that of most of Kufa, and holds both correct and close in meaning. Al-Baghawi names Hamza and al-Kisa'i for inna: I believed, and said that He is.",
+            "bn": "তারপর আসে স্বীকারোক্তি। তাবারী বলেন, ফিরআউন কথাটা বলেছিল যখন সে ডুবে যাওয়ার কিনারে, ধ্বংস সম্পর্কে নিশ্চিত। আমানতু শব্দের অর্থ তিনি করেন আকরারতু, অর্থাৎ আমি স্বীকার করলাম। কুরতুবী ক্রিয়াটির অর্থ করেন সাদ্দাকতু, আমি সত্য বলে মেনে নিলাম। পরের শব্দটি নিয়ে কারীদের মধ্যে পার্থক্য আছে। তাবারী জানান, মদীনা ও বসরার অধিকাংশ পড়েছেন আন্নাহু, আর কূফার অধিকাংশ পড়েছেন ইন্নাহু। তাঁর মতে দুটোই সঠিক, অর্থও কাছাকাছি। বাগাভী ইন্নাহু পাঠের জন্য হামযা ও কিসাঈর নাম বলেন। তখন অর্থ দাঁড়ায়: আমি ঈমান আনলাম, আর বললাম, তিনিই সেই সত্তা।"
+          },
+          {
+            "en": "Look at how the sentence names God. Pharaoh, who had said I am your most exalted lord in 79:24, does not say Allah. He says: the One in whom the Children of Israel believe, reaching for God through the faith of the people he had chased into the sea. Then wa-ana min al-muslimin, which al-Qurtubi and the Muyassar gloss as among those who affirm His oneness and submit in compliance and obedience.",
+            "bn": "আল্লাহকে বাক্যটি কীভাবে চিনিয়ে দিচ্ছে, খেয়াল করুন। ৭৯:২৪ আয়াতে যে ফিরআউন বলেছিল, আমিই তোমাদের সর্বশ্রেষ্ঠ রব, সে এখানে আল্লাহর নাম নেয় না। সে বলে, বানী ইসরাঈল যাঁর উপর ঈমান এনেছে। যাদের তাড়িয়ে সাগরে এনেছিল, তাদের ঈমানের ভেতর দিয়েই সে আল্লাহর কাছে হাত বাড়ায়। এরপর ওয়া আনা মিনাল মুসলিমীন। কুরতুবী ও মুয়াসসার এর অর্থ করেন: যারা তাঁর একত্ব মানে আর আনুগত্য ও বশ্যতার সঙ্গে আত্মসমর্পণ করে, আমি তাদের একজন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Now, After Refusing Before",
+          "bn": "আগে অমান্য করে, এখন?"
+        },
+        "p": [
+          {
+            "en": "The verdict is not in this verse. It comes straight after, in 10:91: Now? And you had disobeyed before and were of the corrupters? At-Tabari's reports join the two. In the account from Abdullah ibn Shaddad, Pharaoh called out his confession and was answered with those words. Maymun ibn Mihran relates that ad-Dahhak ibn Qays said in a sermon that Pharaoh was a tyrant who had forgotten the remembrance of Allah, and that when drowning overtook him and he said this, Allah said: Now, when you disobeyed before?",
+            "bn": "রায়টা এই আয়াতে নেই। তা আসে ঠিক পরেই, ১০:৯১ আয়াতে: এখন? অথচ আগে তো তুমি অমান্য করেছ, আর ছিলে ফাসাদকারীদের একজন! তাবারীর বর্ণনাগুলো দুই আয়াতকে জুড়ে দেয়। আবদুল্লাহ ইবন শাদ্দাদের বর্ণনায় ফিরআউন চিৎকার করে তার স্বীকারোক্তি দেয়, আর জবাবে তাকে এই কথাগুলোই শোনানো হয়। মাইমূন ইবন মিহরান জানান, দাহহাক ইবন কাইস এক খুতবায় বলেছিলেন: ফিরআউন ছিল এক অবাধ্য জালিম, আল্লাহর জিকির সে ভুলে গিয়েছিল। ডুবে যাওয়া যখন তাকে পেয়ে বসল আর সে এ কথা বলল, তখন আল্লাহ বললেন: এখন? অথচ আগে তো তুমি অমান্য করেছ!"
+          },
+          {
+            "en": "The commentators give the reason the words did not count. Ibn Kathir says he believed at a point where belief brings no benefit, and cites 40:84 and 40:85: when they saw Our punishment they said, we believe in Allah alone; but their faith did not benefit them once they saw it, the way of Allah that has passed among His servants. Al-Qurtubi states the rule: faith does not benefit at that moment; repentance is accepted before the punishment is seen, and not after it is seen and has closed in. He refers the reader to Surah an-Nisa.",
+            "bn": "কথাগুলো কেন গ্রাহ্য হলো না, মুফাসসিররা তার কারণ বলেন। ইবন কাসীরের ভাষায়, সে ঈমান এনেছিল এমন সময়ে, যখন ঈমান আর কোনো কাজে আসে না। তিনি উদ্ধৃত করেন ৪০:৮৪ ও ৪০:৮৫ আয়াত: আমার শাস্তি দেখে তারা বলল, আমরা এক আল্লাহর উপর ঈমান আনলাম। কিন্তু শাস্তি দেখার পর তাদের ঈমান তাদের কোনো উপকারে আসেনি। বান্দাদের ব্যাপারে এটাই আল্লাহর চলে আসা নিয়ম। কুরতুবী নিয়মটা সরাসরি বলেন: সেই মুহূর্তে ঈমান কাজে আসে না। শাস্তি চোখে দেখার আগে তওবা কবুল হয়। শাস্তি দেখার পরে, তা ঘিরে ধরার পরে আর কবুল হয় না। এ বিষয়ে তিনি পাঠককে সূরা নিসার আলোচনায় ফেরত পাঠান।"
+          },
+          {
+            "en": "In Surah an-Nisa, 4:18 sets the same limit for an ordinary person: repentance is not for those who keep doing evil until death comes to one of them and he says, I have repented now. At-Tirmidhi also records a general narration from Ibn Umar (RA) on the point at which repentance stops being accepted; he grades it hasan gharib, and it is not attached to this verse. The limit is about a moment, not a formula. Pharaoh's words were the creed itself. What failed was the hour in which he said them.",
+            "bn": "সূরা নিসার ৪:১৮ আয়াত সাধারণ মানুষের জন্যও একই সীমা টেনে দেয়: তাদের তওবা কবুল হয় না, যারা গুনাহ করতেই থাকে, শেষে মৃত্যু সামনে এলে বলে, আমি এখন তওবা করলাম। তিরমিযী ইবন উমর (রাঃ) থেকে একটি সাধারণ বর্ণনাও এনেছেন, কোন মুহূর্তে তওবা কবুল হওয়া বন্ধ হয়ে যায় সে বিষয়ে। তিনি একে হাসান গরীব বলেছেন, আর বর্ণনাটি এ আয়াতের সঙ্গে যুক্ত নয়। সীমাটা কোনো বাক্যের নয়, সময়ের। ফিরআউনের মুখের কথাগুলো ছিল খোদ তাওহীদের ঘোষণা। ব্যর্থ হয়েছে সময়টা, যে সময়ে সে কথাগুলো বলল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Black Mud From the Seabed",
+          "bn": "সাগরতলের কালো কাদা"
+        },
+        "p": [
+          {
+            "en": "One narration comes with this verse and a grading. Jami' at-Tirmidhi 3107, from Ibn Abbas (RA), that the Messenger of Allah ﷺ said: \"When Allah drowned Fir'awn he said: 'I believe that there is no god except the One that the children of Isra'il believe in.' So Jibrail said: 'O Muhammad! If you could only have seen me, while I was taking (the mud) from the sea, and filling his mouth out of fear that the mercy would reach him.'\" At-Tirmidhi graded it hasan. Al-Qurtubi, at-Tabari and Ibn Kathir all bring it here.",
+            "bn": "এ আয়াতের সঙ্গে একটি বর্ণনা আসে, সংকলকের মান নির্ণয়সহ। জামি' তিরমিযী ৩১০৭, ইবন আব্বাস (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ বলেছেন: \"আল্লাহ যখন ফিরআউনকে ডুবিয়ে দিলেন, সে বলল: আমি ঈমান আনলাম যে, বানী ইসরাঈল যাঁর উপর ঈমান এনেছে তিনি ছাড়া কোনো ইলাহ নেই। তখন জিবরীল বললেন: হে মুহাম্মাদ! আপনি যদি আমাকে দেখতেন, আমি সাগরের কাদা তুলে তুলে তার মুখে গুঁজে দিচ্ছিলাম, এই ভয়ে যে রহমত তাকে ছুঁয়ে ফেলবে।\" তিরমিযী একে হাসান বলেছেন। কুরতুবী, তাবারী ও ইবন কাসীর সবাই এখানে বর্ণনাটি এনেছেন।"
+          },
+          {
+            "en": "At-Tirmidhi follows it with a second route, 3108, from Shu'bah, in which only one of two narrators raised the report to the Prophet ﷺ; he grades that route hasan sahih gharib, so it is mentioned here and not quoted. At-Tabari gathers further chains, some stopping at Ibn Abbas (RA) himself, and reports on the same theme from Maymun ibn Mihran and Ibrahim at-Taymi. Al-Qurtubi notes from the linguists that hal al-bahr, the word in the narration, is the black mud of the sea floor.",
+            "bn": "এরপর তিরমিযী আরেকটি সূত্র আনেন, ৩১০৮, শু'বা থেকে। সেখানে দুই বর্ণনাকারীর মাত্র একজন কথাটিকে নবী ﷺ পর্যন্ত পৌঁছিয়েছেন। এই সূত্রকে তিনি হাসান সহীহ গরীব বলেছেন, তাই এখানে শুধু এর উল্লেখ থাকল, উদ্ধৃতি নয়। তাবারী আরও কয়েকটি সূত্র একত্র করেন, যার কিছু থেমে গেছে ইবন আব্বাস (রাঃ)-এর নিজের কথায়। একই বিষয়ে তিনি মাইমূন ইবন মিহরান ও ইবরাহীম আত-তাইমীর বর্ণনাও আনেন। বর্ণনার শব্দ হালুল বাহর সম্পর্কে কুরতুবী ভাষাবিদদের থেকে জানান, এর মানে সাগরের তলার কালো কাদা।"
+          },
+          {
+            "en": "The narration adds a picture, not a new rule. The verdict on the confession is the Qur'an's own, in 10:91, and the commentators above give its reason. Al-Qurtubi records one further explanation under the words it was said: that this was done to him as a punishment for the enormity of what he used to commit. What the scene leaves with the reader is simpler than any argument around it: how close the end can stand, and how short the distance between later and too late.",
+            "bn": "বর্ণনাটি একটি দৃশ্য যোগ করে, নতুন কোনো বিধান নয়। স্বীকারোক্তির ব্যাপারে রায় কুরআনের নিজের, ১০:৯১ আয়াতে। আর তার কারণ উপরের মুফাসসিররা বলে দিয়েছেন। কুরতুবী 'বলা হয়' কথাটি জুড়ে আরও একটি ব্যাখ্যা আনেন: সে যে ভয়ংকর অপরাধ করে আসছিল, তারই শাস্তি হিসেবে তার সঙ্গে এমন করা হয়েছিল। তবে দৃশ্যটি পাঠকের হাতে যা রেখে যায়, তা যেকোনো তর্কের চেয়ে সহজ। শেষ মুহূর্ত কত কাছে দাঁড়িয়ে থাকতে পারে, আর 'পরে করব' থেকে 'অনেক দেরি' পর্যন্ত দূরত্ব কত ছোট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Licence Beyond the Shore",
+          "bn": "তীর পেরিয়ে কোনো অনুমতি নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: one ruler, condemned by name in the Qur'an, his soldiers, and their end in the sea. It licenses nothing against any living person or community, whether a ruler, a nation or the descendants of anyone in the story. The Children of Israel here are the rescued believers of Musa's (AS) time, and the verse says nothing about any people today. Nor does it give anyone the right to declare another person's late repentance refused. That verdict was Allah's, and He gave it about this one man.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: একজন শাসক, কুরআন নাম ধরে যার নিন্দা করেছে, তার সৈন্যদল, আর সাগরে তাদের পরিণতি। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না, সে কোনো শাসক হোক, কোনো জাতি হোক, কিংবা কাহিনির কারও বংশধর। এখানে বানী ইসরাঈল বলতে মূসা (আঃ)-এর যুগের সেই মুমিনদের বোঝানো হয়েছে, যাদের উদ্ধার করা হয়েছিল। আজকের কোনো জনগোষ্ঠী সম্পর্কে আয়াত কিছুই বলে না। অন্য কারও দেরির তওবা ফিরিয়ে দেওয়া হয়েছে, এমন ঘোষণা দেওয়ার অধিকারও এ আয়াত কাউকে দেয় না। সেই রায় ছিল আল্লাহর, আর তিনি তা দিয়েছেন এই একজন মানুষের ব্যাপারে।"
+          },
+          {
+            "en": "Nothing needs adding from outside the texts either. The eight commentaries consulted on this verse do not say where on the map the crossing happened or which ruler in any modern list this was, and this article adds neither. Some tafsirs give head counts for the two hosts, Ibn Kathir under the words it is said; they are left aside here. What the verse supplies is enough: a man who refused while he could choose, and spoke only when the water had chosen for him.",
+            "bn": "পাঠের বাইরে থেকে কিছু জোড়ারও দরকার নেই। এ আয়াতে যে আটটি তাফসীর দেখা হয়েছে, তারা বলে না মানচিত্রে সাগর পার হওয়ার জায়গাটা কোথায়, কিংবা আধুনিক কোনো তালিকায় এই শাসক কে। এ লেখাও তার কোনোটা যোগ করছে না। কোনো কোনো তাফসীর দুই বাহিনীর লোকসংখ্যা দিয়েছে, ইবন কাসীর দিয়েছেন 'বলা হয়' কথাটি জুড়ে। এখানে সেগুলো বাদ রাখা হলো। আয়াত যা দেয়, তা-ই যথেষ্ট: একজন মানুষ, বেছে নেওয়ার সুযোগ থাকতে যে অস্বীকার করেছে, আর মুখ খুলেছে কেবল তখন, যখন পানি তার হয়ে সিদ্ধান্ত নিয়ে ফেলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Water Decides",
+          "bn": "পানি সিদ্ধান্ত নেওয়ার আগে"
+        },
+        "p": [
+          {
+            "en": "The passage sets its own contrast. In 10:84 Musa (AS) told his people: if you have believed in Allah, then rely on Him, if you are Muslims; and in 10:85 they answered, upon Allah we rely. They said it while Pharaoh still ruled and the sea was still ahead of them. Pharaoh used the same word, al-muslimin, behind them and under the water. The word was the same in both mouths. What differed was whether anything still hung on it.",
+            "bn": "এই অংশের ভেতরেই একটি তুলনা রাখা আছে। ১০:৮৪ আয়াতে মূসা (আঃ) তাঁর জাতিকে বলেছিলেন: তোমরা যদি আল্লাহর উপর ঈমান এনে থাকো, তবে তাঁর উপরই ভরসা করো, যদি তোমরা মুসলিম হও। ১০:৮৫ আয়াতে তারা জবাব দিল: আমরা আল্লাহর উপরই ভরসা করি। কথাটা তারা বলেছিল যখন ফিরআউন তখনো ক্ষমতায়, আর সাগর তখনো সামনে। ফিরআউনও সেই একই শব্দ বলল, আল-মুসলিমীন। তবে বলল তাদের পেছনে, পানির নিচে। দুই মুখে শব্দ একই। পার্থক্য শুধু এখানে: শব্দটার উপর তখনো কিছু নির্ভর করছিল কি না।"
+          },
+          {
+            "en": "So the practical question is about timing in one's own life. Most of us keep a list of things deferred to a calmer season: a prayer we mean to make regular, a wrong we mean to put right, a habit we mean to leave, a relative we mean to call. The verse gives no sign that the calmer season will be announced. It suggests instead that the deferring is itself the danger, because the moment that finally forces the decision may be the moment that no longer accepts it.",
+            "bn": "তাই কাজের প্রশ্নটা নিজের জীবনের সময় নিয়ে। আমাদের প্রায় সবার কাছে একটা তালিকা আছে, যার কাজগুলো তুলে রাখা হয়েছে কোনো শান্ত সময়ের জন্য। কোনো নামায নিয়মিত করব ভাবছি, কোনো অন্যায় শুধরে নেব ভাবছি, কোনো অভ্যাস ছাড়ব ভাবছি, কোনো আত্মীয়কে ফোন করব ভাবছি। সেই শান্ত সময় যে ঘোষণা দিয়ে আসবে, আয়াতে তার কোনো ইঙ্গিত নেই। বরং আয়াত বুঝিয়ে দেয়, ফেলে রাখাটাই আসল বিপদ। কারণ যে মুহূর্ত শেষ পর্যন্ত সিদ্ধান্ত নিতে বাধ্য করবে, হতে পারে সেই মুহূর্ত আর সিদ্ধান্তটা গ্রহণই করবে না।"
+          },
+          {
+            "en": "A supplication can be shaped from the passage's own words, offered as such and not as a transmitted du'a: our Lord, upon You we rely; let us submit to You while submission is still ours to give, and do not make us of those who believe only once they see. And a question to carry away from the shore: what am I still waiting for the water to decide for me?",
+            "bn": "এই অংশের নিজের শব্দ দিয়েই একটি দু‘আ গড়া যায়। এটা সেভাবেই পেশ করা হলো, বর্ণিত কোনো দু‘আ হিসেবে নয়: হে আমাদের রব, আমরা আপনার উপরই ভরসা করি। আত্মসমর্পণ যতক্ষণ আমাদের দেওয়ার মতো আছে, ততক্ষণেই যেন আপনার কাছে আত্মসমর্পণ করি। আর আমাদের তাদের দলে রাখবেন না, যারা চোখে দেখার পরেই কেবল ঈমান আনে। তীর থেকে সঙ্গে নিয়ে যাওয়ার মতো একটি প্রশ্নও থাকল: কোন সিদ্ধান্তটা আমি এখনো পানির হাতে ছেড়ে রেখেছি?"
+          }
+        ]
+      }
+    ]
+  },
   "10:92": {
     "sections": [
       {

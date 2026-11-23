@@ -32503,6 +32503,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Believe and act on what is clear even while you are afraid. A few who were frightened but firm are counted here; the fear is named, but it is not the verdict.",
     "lessonBn": "যা পরিষ্কার, ভয় থাকা অবস্থাতেই তা মেনে নিন এবং সে অনুযায়ী চলুন। ভীত অথচ অটল অল্প কয়েকজনকেই এখানে গোনা হয়েছে; ভয়ের কথা আছে, কিন্তু রায় ভয়ের হাতে নেই।"
+  },
+  "10:90": {
+    "reflectionEn": "The sea has closed over the army, and in the last moment above the water Pharaoh at last says the words: I believe there is no god but the One the Children of Israel believe in, and I am of those who submit. He does not even say the Name. He borrows the faith of the very people he was chasing. Every word of the sentence is true, and none of it helps him, because it came only when nothing else was left. The next verse answers with a single question: now? I have my own versions of later: when I am older, when this is over, when I have no choice. The verse asks whether my surrender is waiting for the water.",
+    "reflectionBn": "সাগর সৈন্যদলের উপর বন্ধ হয়ে গেছে। পানির উপরে শেষ মুহূর্তে ফিরআউন অবশেষে কথাগুলো বলল: আমি ঈমান আনলাম, বানী ইসরাঈল যাঁর উপর ঈমান এনেছে তিনি ছাড়া কোনো ইলাহ নেই, আর আমি আত্মসমর্পণকারীদের একজন। আল্লাহর নামটা পর্যন্ত সে মুখে আনেনি। যাদের তাড়া করছিল, তাদের ঈমানটাই ধার করে নিল। বাক্যের প্রতিটি শব্দ সত্য, তবু কোনোটা তার কাজে এল না। কারণ কথাগুলো এসেছে তখন, যখন হাতে আর কিছুই বাকি নেই। পরের আয়াত জবাব দেয় একটিমাত্র প্রশ্নে: এখন? আমারও নিজের কিছু 'পরে' আছে। বয়স হলে, এই ঝামেলা মিটলে, যখন আর উপায় থাকবে না। আয়াতটি আমাকে জিজ্ঞেস করে: আমার আত্মসমর্পণ কি পানি গলা পর্যন্ত ওঠার অপেক্ষায় বসে আছে?",
+    "pointsEn": [
+      "What have I been promising to do once things settle down, and what would it take to do it this week instead?",
+      "Do I turn to Allah mainly when I am cornered, and drift away again once the pressure lifts?",
+      "Is there something I already know is true about myself that I will only admit when I have no other way out?",
+      "Am I leaning on the faith of my parents, my teachers or my community, instead of owning a faith of my own?",
+      "If my next chance to turn back were my last one, what would I want to have already done?"
+    ],
+    "pointsBn": [
+      "সব কিছু গুছিয়ে উঠলে করব বলে কোন কাজটা ফেলে রেখেছি? সেটা এ সপ্তাহেই করতে হলে কী লাগবে?",
+      "আমি কি মূলত কোণঠাসা হলেই আল্লাহর দিকে ফিরি, আর চাপ কমে গেলে আবার দূরে সরে যাই?",
+      "নিজের সম্পর্কে এমন কোনো সত্য কি আছে, যা আমি জানি, কিন্তু অন্য কোনো পথ না থাকলে তবেই স্বীকার করব?",
+      "আমি কি বাবা-মা, শিক্ষক বা আশপাশের মানুষের ঈমানের উপর ভর দিয়ে চলছি, নিজের ঈমানকে নিজের করে নেওয়ার বদলে?",
+      "ফিরে আসার পরের সুযোগটাই যদি শেষ সুযোগ হয়, তার আগে কোন কাজটা সেরে রাখতে চাইতাম?"
+    ],
+    "lessonEn": "The right words at the wrong moment did not save Pharaoh. Submit to Allah while it is still a choice, not when the water has already reached you.",
+    "lessonBn": "ঠিক কথা ভুল সময়ে বলায় ফিরআউন বাঁচেনি। আল্লাহর কাছে আত্মসমর্পণ করুন যখন তা এখনো আপনার বেছে নেওয়ার বিষয়, পানি গলা পর্যন্ত উঠে আসার পরে নয়।"
   }
 };
 
