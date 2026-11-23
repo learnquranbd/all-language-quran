@@ -875,6 +875,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "15:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "Down From the Adorned Sky",
+          "bn": "সাজানো আকাশ থেকে নিচে"
+        },
+        "p": [
+          {
+            "en": "The passage opened on people who would not believe even if a gate were opened in the sky for them (15:14 and 15:15). It then turned to the sky they already see: great stars set in it, beauty for those who look, and a guard against every outcast devil (15:16 to 15:18). This verse brings the eye down. Wal-arda madadnaha, wa-alqayna fiha rawasiya, wa-anbatna fiha min kulli shay'in mawzun: and the earth, We spread it out, cast into it firm mountains, and made grow in it of every thing well weighed.",
+            "bn": "অংশটি শুরু হয়েছিল এমন লোকদের কথা দিয়ে, যাদের জন্য আকাশে দরজা খুলে দিলেও তারা ঈমান আনবে না (১৫:১৪ ও ১৫:১৫)। তারপর কথা ঘুরে যায় সেই আকাশের দিকে, যা তারা রোজ দেখে। সেখানে গ্রহ-নক্ষত্র বসানো হয়েছে, দর্শকের জন্য সাজানো হয়েছে, আর প্রত্যেক বিতাড়িত শয়তান থেকে তাকে পাহারা দেওয়া হয়েছে (১৫:১৬ থেকে ১৫:১৮)। এ আয়াত চোখ নামিয়ে আনে নিচে। ওয়াল আরদা মাদাদনাহা, ওয়া আলকাইনা ফীহা রাওয়াসিয়া, ওয়া আমবাতনা ফীহা মিন কুল্লি শাইয়িম মাওযূন: আর পৃথিবী, আমি তাকে বিছিয়ে দিয়েছি, তাতে অটল পাহাড় ফেলে দিয়েছি, আর তাতে উদগত করেছি সব রকম সুপরিমিত জিনিস।"
+          },
+          {
+            "en": "Ibn Kathir marks the turn in a single sentence. Allah now mentions His creation of the earth: how He stretched it out, widened it and spread it, what He set in it of firm mountains, valleys, lands and sands, and what He made grow in it of crops and fruits suited to each other. Al-Qurtubi files the verse under favour and under power: this too is among His blessings, and among what shows the perfection of His power.",
+            "bn": "ইবন কাসীর এক বাক্যেই মোড়টা ধরিয়ে দেন। এবার আল্লাহ পৃথিবী সৃষ্টির কথা বলছেন। তিনি কীভাবে তাকে প্রসারিত করেছেন, চওড়া করেছেন, বিছিয়ে দিয়েছেন। তাতে কী কী রেখেছেন: অটল পাহাড়, উপত্যকা, জমি আর বালুরাশি। আর তাতে কী উদগত করেছেন: পরস্পরের সঙ্গে মানানসই ফসল আর ফলমূল। কুরতুবী আয়াতটিকে রাখেন নিয়ামত আর কুদরত, দুই শিরোনামেই। তাঁর ভাষায়, এটিও আল্লাহর নিয়ামতের একটি, আর তাঁর পূর্ণ কুদরতের প্রমাণগুলোর একটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Room Made for Every Creature",
+          "bn": "সব প্রাণীর জন্য জায়গা"
+        },
+        "p": [
+          {
+            "en": "Madadnaha comes from the root m-d-d, to stretch or extend. At-Tabari glosses it with two verbs, dahawnaha fa-basatnaha: We spread it and laid it open. He cites Qatadah, who set the phrase beside another verse: wal-arda ba'da dhalika dahaha, and the earth, after that He spread it (79:30). Qatadah then adds something introduced only as \"it was mentioned to us\": that Umm al-Qura is Makkah, and that from it the earth was spread. He does not say who; nothing here rests on it.",
+            "bn": "মাদাদনাহা এসেছে ম-দ-দ ধাতু থেকে, যার অর্থ টেনে লম্বা করা, প্রসারিত করা। তাবারী দুটি ক্রিয়া দিয়ে এর ব্যাখ্যা দেন: দাহাওনাহা ফাবাসাতনাহা, আমি তাকে বিস্তৃত করেছি, তারপর খুলে বিছিয়ে দিয়েছি। তিনি কাতাদার কথা আনেন, যিনি শব্দটিকে আরেক আয়াতের পাশে রেখেছেন: ওয়াল আরদা বা'দা যালিকা দাহাহা, আর এরপর তিনি পৃথিবীকে বিস্তৃত করেছেন (৭৯:৩০)। এরপর কাতাদা একটা কথা যোগ করেন, শুধু 'আমাদের কাছে উল্লেখ করা হয়েছে' বলে। কথাটা হলো, উম্মুল কুরা মানে মক্কা, আর সেখান থেকেই পৃথিবী বিছানো হয়েছে। কে উল্লেখ করেছিলেন, কাতাদা তা বলেন না। এ লেখার কোনো কথা তার উপর দাঁড়িয়ে নেই।"
+          },
+          {
+            "en": "Al-Qurtubi relays from Ibn Abbas (RA): We spread it over the face of the water. He too brings 79:30, explaining dahaha as basataha, He spread it, and adds 51:48: and the earth, We laid it out as a bed, and how excellent are those who spread. Al-Baghawi gives the same gloss without a name, then adds, under the words \"it is said\", a figure for the earth's breadth and that it was spread from beneath the Ka'bah. The Muyassar keeps it plain: We spread the earth out wide.",
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: আমি তাকে পানির উপর বিছিয়ে দিয়েছি। তিনিও ৭৯:৩০ আয়াত আনেন, দাহাহার অর্থ করেন বাসাতাহা, অর্থাৎ বিছিয়ে দিয়েছেন। সঙ্গে জুড়ে দেন ৫১:৪৮ আয়াত: আর পৃথিবী, আমি তাকে বিছানার মতো বিছিয়েছি, আর আমি কত উত্তম বিস্তারকারী। বাগাভী কারও নাম ছাড়াই একই ব্যাখ্যা দেন। তারপর 'বলা হয়' কথাটি জুড়ে পৃথিবীর বিস্তারের একটা মাপ আনেন, আর বলেন যে কাবার নিচ থেকে তা বিছানো হয়েছিল। মুয়াসসার সোজা কথায় বলে: আমি পৃথিবীকে প্রশস্ত করে বিছিয়ে দিয়েছি।"
+          },
+          {
+            "en": "As-Sa'di reads a purpose into the spreading. Allah widened the earth, he says, so that human beings and every kind of animal could stretch out across its regions, reach for its provisions and settle in its corners. The ground was not stretched for its own sake; it was stretched so that there would be room, for us to walk, farm and build, and for creatures we never see and never feed. The next verse, 15:20, takes that second group up by name.",
+            "bn": "সা'দী এই বিছিয়ে দেওয়ার মধ্যে একটা উদ্দেশ্য দেখেন। তাঁর ব্যাখ্যায় আল্লাহ পৃথিবীকে এত প্রশস্ত করেছেন, যাতে মানুষ আর সব ধরনের প্রাণী এর আনাচে-কানাচে ছড়িয়ে পড়তে পারে, এর রিযিক হাতের নাগালে পায়, আর এর কোণে কোণে থিতু হতে পারে। মাটিকে বিছানো হয়নি তার নিজের জন্য। বিছানো হয়েছে যাতে জায়গা থাকে। আমাদের হাঁটার, চাষ করার, ঘর তোলার জায়গা। আর সেই প্রাণীদের জায়গাও, যাদের আমরা দেখি না, খাওয়াইও না। পরের আয়াত, ১৫:২০, ঠিক এই দ্বিতীয় দলের কথা তোলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Peaks Thrown Down and Held",
+          "bn": "ফেলে দেওয়া অটল চূড়া"
+        },
+        "p": [
+          {
+            "en": "Wa-alqayna fiha rawasiya: and We cast into it firm ones. The verb alqa is to throw or cast, and the noun rawasi names the mountains by a single quality, that they stand firm. At-Tabari glosses it so: We cast on its back rawasi, meaning mountains that are fixed and firm. Qatadah, in at-Tabari's chain, is briefer still: its rawasi are its mountains. The Muyassar says: mountains that make it firm.",
+            "bn": "ওয়া আলকাইনা ফীহা রাওয়াসিয়া: আর আমি তাতে ফেলে দিয়েছি অটল জিনিস। আলকা ক্রিয়ার অর্থ ছুড়ে ফেলা, নিক্ষেপ করা। আর রাওয়াসি শব্দটা পাহাড়কে ডাকে তার একটিমাত্র গুণ দিয়ে: সে অটল, নড়ে না। তাবারী এভাবে ব্যাখ্যা করেন: আমি এর পিঠের উপর রাওয়াসি ফেলে দিয়েছি, অর্থাৎ স্থির, মজবুত পাহাড়। তাঁর সূত্রে কাতাদার কথা আরও সংক্ষিপ্ত: এর রাওয়াসি মানে এর পাহাড়গুলো। মুয়াসসারের ভাষায়: এমন পাহাড়, যা পৃথিবীকে স্থির রাখে।"
+          },
+          {
+            "en": "Why cast them there? Al-Qurtubi answers in one clause: firm mountains, so that it does not move with its people. As-Sa'di: great mountains that guard the earth, by Allah's leave, from swaying, and hold it fast lest it give way. Al-Baghawi puts it as a narrative: the earth was swaying until Allah anchored it with the mountains. The Qur'an names the same purpose at 16:15: and He cast into the earth firm mountains lest it sway with you. And 13:3 joins the two acts of this verse: He spread the earth and set in it firm mountains.",
+            "bn": "পাহাড়গুলো সেখানে ফেলা হলো কেন? কুরতুবী এক কথায় জবাব দেন: অটল পাহাড়, যাতে পৃথিবী তার বাসিন্দাদের নিয়ে নড়ে না ওঠে। সা'দী বলেন, বিশাল পাহাড়, যা আল্লাহর হুকুমে পৃথিবীকে দুলে ওঠা থেকে রক্ষা করে আর সরে যাওয়া থেকে আঁকড়ে রাখে। বাগাভী কথাটা বলেন ঘটনার ভঙ্গিতে: পৃথিবী দুলছিল, শেষে আল্লাহ পাহাড় দিয়ে তাকে স্থির করে দিলেন। একই উদ্দেশ্য কুরআন নিজের ভাষায় বলেছে ১৬:১৫ আয়াতে: আর তিনি পৃথিবীতে অটল পাহাড় ফেলে দিয়েছেন, যাতে তা তোমাদের নিয়ে দুলে না ওঠে। আর ১৩:৩ আয়াত এ আয়াতের দুই কাজকে একসঙ্গে বলে: তিনিই পৃথিবীকে বিস্তৃত করেছেন আর তাতে অটল পাহাড় রেখেছেন।"
+          },
+          {
+            "en": "These are the words of the commentators and of the Qur'an, and this article leaves them there. It does not set them against a textbook of geology in either direction, to prove them or to stretch them. The verse offers the mountains as a mercy to people who live on the ground. What feels most fixed to us was put in place, and its steadiness is held, as as-Sa'di says, by Allah's leave.",
+            "bn": "এগুলো তাফসীরকারদের কথা আর কুরআনের কথা, এ লেখা এখানেই থামছে। ভূতত্ত্বের কোনো বইয়ের সঙ্গে এগুলো মিলিয়ে প্রমাণ করার চেষ্টা এখানে নেই, টেনে লম্বা করার চেষ্টাও নেই। আয়াতটি পাহাড়কে তুলে ধরে মাটিতে বাস করা মানুষের প্রতি রহমত হিসেবে। আমাদের চোখে যা সবচেয়ে স্থির, তাকেও জায়গামতো বসানো হয়েছে। সা'দীর কথায়, তার স্থিরতা টিকে আছে আল্লাহর হুকুমে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weighed Meaning Measured Out",
+          "bn": "ওজন মানে মেপে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "The verse ends on mawzun, the passive participle of w-z-n, to weigh. At-Tabari's own gloss: of every thing determined, and with a known limit. He adds that the people of interpretation said the same, and lists them. Ibn Abbas (RA), by two separate chains, says: ma'lum, known. Sa'id ibn Jubayr says: known. Qatadah, by two chains, says: known. Ad-Dahhak says: known. The word that weighs, in their hands, becomes the word that knows: every growing thing has an amount, and that amount is known.",
+            "bn": "আয়াতটি শেষ হয় মাওযূন শব্দে। এটি ও-য-ন ধাতুর কর্মবাচক রূপ, ধাতুর অর্থ ওজন করা। তাবারীর নিজের ব্যাখ্যা: সব জিনিস থেকে, যা নির্ধারিত আর যার সীমা জানা। তিনি বলেন, তাফসীরকারেরাও একই কথা বলেছেন, তারপর তাঁদের নাম একে একে আনেন। ইবন আব্বাস (রাঃ) দুটি আলাদা সূত্রে বলেন: মা'লূম, অর্থাৎ জানা। সাঈদ ইবন জুবাইর বলেন: জানা। কাতাদা দুই সূত্রে বলেন: জানা। দাহহাক বলেন: জানা। তাঁদের হাতে ওজনের শব্দটা হয়ে ওঠে জানার শব্দ। প্রতিটি উদগত জিনিসের একটা পরিমাণ আছে, আর সে পরিমাণ জানা।"
+          },
+          {
+            "en": "Others say bi-qadar, by measure. Ikrimah says it in three chains. Reports through Isma'il ibn Abi Khalid give it from Abu Salih or Abu Malik, unsure which, and one from Abu Salih alone. Al-Hakam ibn Utaybah, asked about the phrase, answered: of every thing measured out. Mujahid, through Ibn Abi Najih and through Ibn Jurayj, says: measured by a measure. Ibn Kathir condenses the same list and adds al-Hasan ibn Muhammad to it.",
+            "bn": "অন্যেরা বলেন বিকাদার, অর্থাৎ পরিমাপ অনুযায়ী। ইকরিমা তিনটি সূত্রে এ কথা বলেন। ইসমাঈল ইবন আবী খালিদের সূত্রে কথাটা এসেছে আবু সালিহ অথবা আবু মালিক থেকে, দুজনের কে, তা নিশ্চিত নয়। আর এক বর্ণনায় এসেছে শুধু আবু সালিহ থেকে। হাকাম ইবন উতাইবাকে শব্দটি নিয়ে জিজ্ঞেস করা হলে তিনি বলেন: সব জিনিস থেকে, যা মেপে ঠিক করা। মুজাহিদ ইবন আবী নাজীহ আর ইবন জুরাইজ, দুই সূত্রেই বলেন: পরিমাপ দিয়ে মাপা। ইবন কাসীর একই তালিকা সংক্ষেপে দেন, আর তাতে হাসান ইবন মুহাম্মাদের নাম যোগ করেন।"
+          },
+          {
+            "en": "Why say weighed when the meaning is measured? Al-Qurtubi gives the reason: because weighing is how the measure of a thing is known. He cites a line of poetry that uses mizan, a scale, in that sense. The word sets every growing thing on a scale held by its Maker. The same thought returns two verses on, in plain words, at 15:21: We send it down only bi qadar ma'lum, in a known measure. The gloss the early commentators gave this word is the word the Qur'an uses there.",
+            "bn": "অর্থ যদি পরিমাপ হয়, তবে 'ওজন করা' বলা হলো কেন? কুরতুবী কারণটা বলেন: কারণ ওজন দিয়েই কোনো জিনিসের পরিমাণ জানা যায়। সমর্থনে তিনি কবিতার একটি চরণ আনেন, যেখানে মীযান, অর্থাৎ পাল্লা, এ অর্থেই এসেছে। শব্দটা প্রতিটি উদগত জিনিসকে তুলে দেয় তার স্রষ্টার হাতের পাল্লায়। দুই আয়াত পরে, ১৫:২১ আয়াতে, একই ভাবনা ফিরে আসে সোজা ভাষায়: আমি তা নাযিল করি কেবল বিকাদার মা'লূম, জানা পরিমাপে। আগের যুগের তাফসীরকারেরা এ শব্দের যে ব্যাখ্যা দিয়েছিলেন, কুরআন সেখানে ঠিক সে শব্দটিই ব্যবহার করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gold and Lead in the Hills",
+          "bn": "পাহাড়ের বুকে সোনা আর সীসা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari records a second reading, introduced as what some used to say. On it, the verse means: We made grow in the mountains of every thing that is weighed, gold, silver, copper, lead and the like. His named source is Ibn Zayd: the things that are weighed. Ibn Kathir relays Ibn Zayd in a homelier form: what the people of the markets weigh. Al-Qurtubi gives the mountain reading, adds tin and even arsenic and kohl, and says its sense is reported from al-Hasan and Ibn Zayd. Al-Baghawi has it too, under the word qila, it is said too.",
+            "bn": "তাবারী দ্বিতীয় একটি ব্যাখ্যা আনেন, 'কেউ কেউ বলতেন' বলে। সে অনুযায়ী আয়াতের অর্থ: আমি পাহাড়ে উদগত করেছি এমন সব জিনিস, যা ওজন করা হয়, যেমন সোনা, রুপা, তামা, সীসা ইত্যাদি। তাঁর উল্লেখ করা নামটি ইবন যায়দের: যেসব জিনিস ওজন করা হয়। ইবন কাসীর ইবন যায়দের কথাটা আনেন আরও ঘরোয়া রূপে: বাজারের লোকেরা যা ওজন করে। কুরতুবী পাহাড়ের ব্যাখ্যাটা দেন, তালিকায় যোগ করেন রাং, এমনকি সেঁকোবিষ আর সুরমাও। তিনি বলেন, এ অর্থ হাসান আর ইবন যায়দ থেকে বর্ণিত। বাগাভীও এটা আনেন 'কীলা', অর্থাৎ 'বলা হয়' বলে।"
+          },
+          {
+            "en": "The two readings differ on more than a word. Al-Baghawi notes that on the first, fiha means in the earth; on the second, in the mountains just named before it. At-Tabari settles it for himself: the first of the two sayings is the more correct, because the authoritative body of the people of interpretation agree on it. Al-Qurtubi and al-Baghawi keep both readings on the page, and as-Sa'di, as a later section shows, lists minerals among what the verse means.",
+            "bn": "দুই ব্যাখ্যার পার্থক্য শুধু একটা শব্দে নয়। বাগাভী দেখান, প্রথম ব্যাখ্যায় ফীহা মানে পৃথিবীতে। দ্বিতীয় ব্যাখ্যায় এর মানে পাহাড়ে, যার কথা ঠিক আগেই এসেছে। তাবারী নিজের জন্য ফয়সালা করে নেন: দুই মতের মধ্যে প্রথমটিই বেশি সঠিক, কারণ তাফসীরের নির্ভরযোগ্য আলেমরা এর উপর একমত। কুরতুবী আর বাগাভী দুটি ব্যাখ্যাই পাতায় রেখে দেন। আর সা'দী, সামনে যেমন দেখা যাবে, আয়াতের অর্থের মধ্যে খনিজকেও গোনেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counted, Shared Out, Well Ordered",
+          "bn": "গোনা, ভাগ করা, গোছানো"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gathers further glosses without chains. Qatadah, he reports, said mawzun means maqsum, shared out. Mujahid said ma'dud, counted. These differ from what at-Tabari's chains give for the same two men, known for Qatadah and measured by a measure for Mujahid, and the article reports both without choosing. Al-Qurtubi then cites a usage: kalamun mawzun, weighed speech, meaning speech that is ordered and not scattered. On that sense, he says, the verse means what is weighed of gems, of living creatures and of minerals.",
+            "bn": "কুরতুবী সূত্র ছাড়াই আরও কয়েকটি ব্যাখ্যা জড়ো করেন। তাঁর বর্ণনায় কাতাদা বলেছেন, মাওযূন মানে মাকসূম, অর্থাৎ ভাগ করে দেওয়া। মুজাহিদ বলেছেন মা'দূদ, অর্থাৎ গোনা। তাবারীর সূত্রে এই দুজনের কথা ভিন্ন এসেছে: কাতাদার কথা 'জানা', আর মুজাহিদের কথা 'পরিমাপ দিয়ে মাপা'। এ লেখা দুটোই জানিয়ে রাখছে, কোনোটিকে বেছে নিচ্ছে না। এরপর কুরতুবী আরবদের একটি বাকরীতির কথা বলেন: কালামুন মাওযূন, ওজন করা কথা। এর মানে গোছানো কথা, যা ছড়ানো-ছিটানো নয়। তাঁর মতে এ অর্থে আয়াতের উদ্দেশ্য মণিরত্ন, জীবজন্তু আর খনিজের মধ্যে যা ওজন করা হয়।"
+          },
+          {
+            "en": "That raises a question: how can creatures and minerals be said to grow? Al-Qurtubi answers from 3:37, where Allah says of Maryam, wa-anbataha nabatan hasana, He made her grow a good growth. Inbat, he concludes, means bringing into being and producing. He then records two more opinions with qila: that the verse means fruits, which are measured by volume and by weight, and that it means the things for which prices are weighed, because they are of greater worth and wider use than what has no price.",
+            "bn": "প্রশ্ন জাগে: জীবজন্তু আর খনিজকে 'উদগত' বলা যায় কীভাবে? কুরতুবী জবাব দেন ৩:৩৭ আয়াত থেকে। সেখানে আল্লাহ মারইয়াম সম্পর্কে বলেছেন, ওয়া আমবাতাহা নাবাতান হাসানা, তিনি তাকে উত্তমভাবে বেড়ে তুললেন। তাই কুরতুবীর সিদ্ধান্ত, ইমবাত মানে অস্তিত্বে আনা, সৃষ্টি করা। এরপর তিনি 'কীলা' বলে আরও দুটি মত আনেন। একটি হলো, আয়াতের উদ্দেশ্য ফলমূল, যা পাত্রে মাপা হয় আর পাল্লায় ওজন করা হয়। অন্যটি হলো, যেসব জিনিসের দাম ওজন করে দেওয়া হয়, কারণ যার দাম নেই তার চেয়ে এগুলোর মর্যাদা বড় আর উপকার ব্যাপক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither Glut Nor Want",
+          "bn": "অঢেলও নয়, অভাবও নয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads mawzun through value. The weighed thing is the useful thing, of real worth, which people and lands cannot do without: date palms and vines, every kind of tree and plant, and minerals. The Muyassar ties it to need as well: all kinds of plants, measured and known, of what the servants require. On these readings the weight in the word is also a weight of meaning: what grows is not only counted, it matters.",
+            "bn": "সা'দী মাওযূনকে পড়েন মূল্যের দিক থেকে। তাঁর মতে ওজন করা জিনিস মানে উপকারী জিনিস, যার সত্যিকারের মূল্য আছে, যা ছাড়া মানুষ আর জনপদ চলতে পারে না: খেজুরগাছ, আঙুর, নানা জাতের গাছ, নানা রকম উদ্ভিদ, আর খনিজ। মুয়াসসারও একে প্রয়োজনের সঙ্গে জুড়ে দেয়: সব ধরনের উদ্ভিদ, মাপা আর জানা, বান্দাদের যা দরকার। এই ব্যাখ্যাগুলোয় শব্দটার ওজন অর্থেরও ওজন। যা জন্মায়, তা শুধু গোনা নয়, তার দামও আছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an develops two senses. In the first, Allah made what grows grow in a set measure: not so little that life would be hard, and not so much that it would bring hardship of another kind. If grain and fruit came in endless excess, the surplus would spoil and pile up. Allah could have given such plenty, the commentary says, but it could have turned into a punishment, so He gave them in measure, that their worth stays recognised and they are not left to waste.",
+            "bn": "মাআরিফুল কুরআন দুটি অর্থ খুলে বলে। প্রথম অর্থে আল্লাহ যা কিছু জন্মান, নির্দিষ্ট পরিমাপে জন্মান। এত কম নয় যে জীবন কঠিন হয়ে পড়ে, আবার এত বেশিও নয় যে অন্য রকমের কষ্ট নেমে আসে। শস্য আর ফল যদি সীমাহীন বাড়তি হয়ে আসত, বাড়তিটা পচে যেত, আর স্তূপ হয়ে জমে উঠত। ভাষ্যটি বলে, এমন প্রাচুর্য দেওয়া আল্লাহর ক্ষমতার বাইরে ছিল না। কিন্তু তা মানুষের জন্য শাস্তি হয়ে উঠতে পারত। তাই তিনি মেপে দিয়েছেন, যাতে এগুলোর কদর মানুষের মনে জেগে থাকে, আর কিছুই অপচয়ে নষ্ট না হয়।"
+          },
+          {
+            "en": "In the second sense, everything that grows was made in proportion, suited to itself, and that proportion gives it its beauty. Trees differ in trunk, branch, leaf, flower and fruit, in size, shape, colour and taste, and yet what the eye meets is a happy balance that everyone enjoys. A full grasp of the wisdom behind it, Ma'arif adds, is beyond any human being. No tafsir fetched for this verse attaches a hadith to it; the report from al-Bukhari in Ibn Kathir's passage belongs to the guarded sky of 15:17 and 15:18.",
+            "bn": "দ্বিতীয় অর্থে, যা কিছু জন্মায় তার প্রতিটিকে বানানো হয়েছে মাপমতো, নিজের সঙ্গে মানানসই করে, আর সেই মাপই তাকে সৌন্দর্য দেয়। গাছে গাছে কাণ্ড, ডাল, পাতা, ফুল আর ফল আলাদা। আকার, গড়ন, রং আর স্বাদও আলাদা। তবু চোখে যা ধরা পড়ে তা এক মনোরম ভারসাম্য, যা সবাই উপভোগ করে। মাআরিফ যোগ করে, এর পেছনের পুরো প্রজ্ঞা বোঝা কোনো মানুষের সাধ্য নয়। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। ইবন কাসীরের এ অংশে বুখারীর যে বর্ণনা আছে, তা ১৫:১৭ ও ১৫:১৮ আয়াতের পাহারা দেওয়া আকাশ প্রসঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living on a Weighed Portion",
+          "bn": "মেপে দেওয়া ভাগে জীবন"
+        },
+        "p": [
+          {
+            "en": "The verse was spoken into a passage about people who demanded a sign from the sky. It answers by pointing at the ground under their feet. The two verses that follow carry the thought on: means of living placed in the earth for us and for those we do not provide for (15:20), and treasuries of every thing kept with Allah, sent down only in a known measure (15:21). The measure is not only in the field. It reaches the table.",
+            "bn": "আয়াতটি এসেছে এমন এক প্রসঙ্গে, যেখানে লোকেরা আকাশ থেকে নিদর্শন দাবি করছিল। জবাবে আয়াতটি আঙুল তোলে তাদের পায়ের নিচের মাটির দিকে। পরের দুই আয়াত ভাবনাটাকে আরও এগিয়ে নেয়। পৃথিবীতে জীবনের উপকরণ রাখা হয়েছে আমাদের জন্য, আর তাদের জন্যও যাদের রিযিক আমরা দিই না (১৫:২০)। আর সব জিনিসের ভান্ডার আল্লাহর কাছে, তিনি তা নাযিল করেন কেবল জানা পরিমাপে (১৫:২১)। মাপটা শুধু খেতের মধ্যে আটকে নেই। তা পৌঁছে যায় খাবারের থালা পর্যন্ত।"
+          },
+          {
+            "en": "If every thing that grows was weighed, then my portion was weighed too. That can cure two opposite faults. One is grasping, which treats the earth as a store without a floor and takes from it as if nothing were counted. The other is resentment, which reads a smaller share as neglect. Ma'arif's warning about waste belongs here as well: what was given in measure is meant to be valued, not left to rot.",
+            "bn": "যা কিছু জন্মায় তার সবই যদি মেপে দেওয়া হয়ে থাকে, তবে আমার ভাগটাও মেপেই দেওয়া হয়েছে। এ উপলব্ধি পরস্পরবিরোধী দুটি রোগ সারাতে পারে। একটি লোভ। সে পৃথিবীকে ভাবে তলাহীন গুদাম, আর এমনভাবে নেয় যেন কোনো কিছুরই হিসাব নেই। অন্যটি অভিমান। সে কম ভাগ পেলে ধরে নেয়, তাকে অবহেলা করা হয়েছে। অপচয় নিয়ে মাআরিফের সতর্কবাণীও এখানেই খাটে। যা মেপে দেওয়া হয়েছে, তার কদর করাই উদ্দেশ্য, পচতে ফেলে রাখা নয়।"
+          },
+          {
+            "en": "There is also a quieter lesson in the order of the verse: spread, then steadied, then made to grow. Room comes first, then stability, then provision, each prepared before anyone arrived to need it. The ground, its steadiness and the food on a plain plate were all measured for someone. The fitting reply to a measured gift is thanks in measure too: taking one's share, sharing the rest, and wasting none of it.",
+            "bn": "আয়াতের ক্রমের মধ্যেও একটা নীরব শিক্ষা আছে: প্রথমে বিছানো, তারপর স্থির করা, তারপর উদগত করা। আগে জায়গা, তারপর স্থিরতা, তারপর রিযিক। প্রয়োজন নিয়ে কেউ আসার আগেই প্রতিটি প্রস্তুত করে রাখা হয়েছিল। মাটি, তার স্থিরতা, আর সাদামাটা থালার খাবারটুকু, সবই কারও জন্য মেপে রাখা হয়েছিল। মেপে দেওয়া উপহারের যোগ্য জবাব শুকরিয়া, আর সেটাও মাপমতো: নিজের ভাগটুকু নেওয়া, বাকিটা ভাগ করে দেওয়া, আর কিছুই নষ্ট না করা।"
+          }
+        ]
+      }
+    ]
+  },
   "15:22": {
     "sections": [
       {

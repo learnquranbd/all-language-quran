@@ -33243,6 +33243,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you are mocked for the truth, remember that every messenger was mocked before you, and never answer a truth you dislike with ridicule instead of thought.",
     "lessonBn": "সত্যের জন্য আপনাকে নিয়ে ঠাট্টা হলে মনে রাখুন, আপনার আগে প্রত্যেক রসূলকেই ঠাট্টা সইতে হয়েছে। আর অপছন্দের সত্যের জবাব কখনো চিন্তার বদলে বিদ্রূপ দিয়ে দেবেন না।"
+  },
+  "15:19": {
+    "reflectionEn": "Look down for once. The verses before this one lift the eyes to an adorned sky; this one sets them on the ground we stand on. Allah says He spread the earth out, cast firm mountains into it, and made grow in it of every thing mawzun, weighed. Most of the early commentators heard that word as measured: known in amount, set to a limit. The grain in my bowl, the fruit on the market stall, the stone under my house were each given their measure before I arrived. None of it is random, and none of it is mine to set. The question is whether I live like a guest who notices the measure, or like one who thinks the table will never run out.",
+    "reflectionBn": "একবার নিচের দিকে তাকান। আগের আয়াতগুলো চোখ তুলে ধরে সাজানো আকাশের দিকে, আর এ আয়াত চোখ নামিয়ে আনে পায়ের নিচের মাটিতে। আল্লাহ বলছেন, তিনি পৃথিবীকে বিছিয়ে দিয়েছেন, তাতে মজবুত পাহাড় গেড়ে দিয়েছেন, আর তাতে উদগত করেছেন সব রকম 'মাওযূন' জিনিস, অর্থাৎ ওজন করা জিনিস। আগের যুগের বেশির ভাগ তাফসীরকার শব্দটা বুঝেছেন পরিমাপ অর্থে: যার পরিমাণ জানা, যার একটা সীমা বাঁধা। আমার থালার শস্য, বাজারের ফল, ঘরের নিচের পাথর, সবকিছুর মাপ ঠিক হয়ে গিয়েছিল আমি আসার আগেই। এর কিছুই এলোমেলো নয়, আর এর মাপ ঠিক করার মালিকও আমি নই। প্রশ্ন শুধু এটুকু: আমি কি এমন মেহমানের মতো থাকি, যে মাপটা খেয়াল করে? নাকি এমনভাবে চলি, যেন দস্তরখান কখনো ফুরাবে না?",
+    "pointsEn": [
+      "When did I last look at a field or a hill and think of the One who spread the ground and steadied it?",
+      "What came to me this week in a set measure that I took without a word of thanks?",
+      "Where do I take more than my share, as if what was weighed out for me had no limit?",
+      "When I end up with less than I wanted, do I see a measure set by the Wise, or only a shortfall?",
+      "Which of my own measures, in speech, spending or time, have I let run without any scale at all?"
+    ],
+    "pointsBn": [
+      "শেষ কবে কোনো মাঠ বা পাহাড়ের দিকে তাকিয়ে তাঁর কথা ভেবেছি, যিনি মাটি বিছিয়েছেন আর তাকে স্থির রেখেছেন?",
+      "এ সপ্তাহে মেপে দেওয়া কোন জিনিসটা আমি পেয়েছি, অথচ একবারও শুকরিয়া আদায় করিনি?",
+      "কোথায় আমি নিজের ভাগের চেয়ে বেশি নিই, যেন আমার জন্য যা মেপে রাখা হয়েছে তার কোনো সীমা নেই?",
+      "যা চেয়েছিলাম তার চেয়ে কম পেলে আমি কি প্রজ্ঞাময়ের ঠিক করা মাপ দেখি, নাকি শুধু ঘাটতিটাই দেখি?",
+      "কথা, খরচ বা সময়, নিজের কোন কোন মাপ আমি কোনো পাল্লা ছাড়াই ছেড়ে দিয়েছি?"
+    ],
+    "lessonEn": "Everything on the earth was given its measure by Allah: thank Him for your portion, take no more than your share, and waste nothing He has weighed out.",
+    "lessonBn": "পৃথিবীর সবকিছুর মাপ আল্লাহ ঠিক করে দিয়েছেন: নিজের ভাগের জন্য তাঁর শুকরিয়া আদায় করুন, প্রাপ্যের বেশি নেবেন না, আর তাঁর মেপে দেওয়া কিছুই নষ্ট করবেন না।"
   }
 };
 
