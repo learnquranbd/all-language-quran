@@ -5927,6 +5927,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:136": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Portraits of One Man",
+          "bn": "এক মানুষের দুই ছবি"
+        },
+        "p": [
+          {
+            "en": "Ula'ika jaza'uhum: those, their reward is. At-Tabari reads it as the people of taqwa for whom the garden in 3:133 was made ready, described with every quality the passage has given them: those who spend in ease and in hardship, who swallow their anger, who pardon people, and those who, after a shameful deed or a wrong against themselves, remember Allah and ask forgiveness. The Muyassar and as-Sa'di gloss it the same way: those described with these qualities.",
+            "bn": "উলাইকা জাযাউহুম: এরাই, এদের প্রতিদান। তাবারীর ব্যাখ্যায় এরা সেই মুত্তাকীরা, যাদের জন্য ৩:১৩৩ আয়াতে জান্নাত তৈরি রাখার কথা এসেছে। অনুচ্ছেদটি যত গুণ তাদের দিয়েছে, সবই এর ভেতরে আছে। তারা সচ্ছলতায় ও অভাবে খরচ করে, রাগ গিলে ফেলে, মানুষকে মাফ করে দেয়। আর অশ্লীল কাজ বা নিজের উপর যুলমের পর আল্লাহকে স্মরণ করে ক্ষমা চায়। মুয়াসসার ও সা'দীও একই কথা বলেন: এরা ওই গুণগুলোর অধিকারী মানুষ।"
+          },
+          {
+            "en": "The last group in that list stands right before this verse. 3:135 does not describe people who never slip; it describes people who come back. At-Tabari relays that al-Hasan recited 3:134, then recited on from 3:135 to the reward of the workers at the close of 3:136, and said: these two descriptions are the description of one man. The reward named in 3:136 is spoken over both descriptions together, as one life.",
+            "bn": "তালিকার শেষ দলটি দাঁড়িয়ে আছে ঠিক এ আয়াতের আগে। ৩:১৩৫ আয়াত এমন মানুষের কথা বলে না যাদের কখনো পা পিছলায় না। বলে তাদের কথা, যারা পিছলে গিয়ে ফিরে আসে। তাবারী বর্ণনা করেন, হাসান ৩:১৩৪ আয়াত পড়লেন, তারপর ৩:১৩৫ থেকে পড়ে ৩:১৩৬ আয়াতের শেষে 'আমলকারীদের প্রতিদান' পর্যন্ত গেলেন, আর বললেন: এ দুই বর্ণনা একই মানুষের বর্ণনা। ৩:১৩৬ আয়াতের প্রতিদান দুই বর্ণনার উপরই একসঙ্গে ঘোষিত, যেন একটাই জীবন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Falling, Then Not Staying",
+          "bn": "পড়ে যাওয়া, কিন্তু পড়ে না থাকা"
+        },
+        "p": [
+          {
+            "en": "What the reward answers is set out in 3:135. Fahishah, at-Tabari says, is the ugly deed that goes beyond what Allah permitted; its root means ugliness and passing the proper measure in anything. He records that Jabir and as-Suddi took it here to mean zina, and from Mujahid that the verse names two sins, the shameful deed being one and wronging oneself another. Dhakaru Allah, they remembered Allah, means for him that they remembered Allah's warning over what they had done.",
+            "bn": "প্রতিদানটা কিসের, তা খুলে বলা আছে ৩:১৩৫ আয়াতে। তাবারীর মতে ফাহিশা হলো সেই কুৎসিত কাজ, যা আল্লাহর অনুমতির সীমা ছাড়িয়ে যায়। এর মূল অর্থ কদর্যতা, যেকোনো জিনিসে ন্যায্য মাপ পেরিয়ে যাওয়া। তিনি বর্ণনা করেন, জাবির ও সুদ্দী এখানে এর অর্থ নিয়েছেন যিনা। আর মুজাহিদ বলেছেন, আয়াতে দুটি গুনাহর কথা: অশ্লীল কাজ একটি, নিজের উপর যুলম আরেকটি। যাকারুল্লাহ, অর্থাৎ তারা আল্লাহকে স্মরণ করল। তাবারীর ব্যাখ্যায় এর মানে, নিজের কৃতকর্মের উপর আল্লাহর যে হুঁশিয়ারি, তা তাদের মনে পড়ল।"
+          },
+          {
+            "en": "Then istighfar: they asked their Lord, in at-Tabari's words, to cover their sins by passing over the punishment for them. The deciding clause is wa-lam yusirru, and they did not persist. At-Tabari sets out the readings. Mujahid took it to mean they did not commit the sin they had intended. Al-Hasan is reported as saying that a servant's committing a sin is persistence until he repents. As-Suddi said persisting means keeping silent and not asking forgiveness. At-Tabari's own choice: persisting is remaining on the sin deliberately and leaving off repentance.",
+            "bn": "তারপর ইস্তিগফার। তাবারীর ভাষায়, তারা রবের কাছে চাইল, শাস্তি মাফ করে দিয়ে তিনি যেন তাদের গুনাহ ঢেকে দেন। আসল কথাটা ওয়া লাম ইউসিররু: তারা জেদ ধরে থাকেনি। তাবারী এর কয়েকটি ব্যাখ্যা তুলে ধরেন। মুজাহিদের মতে এর অর্থ, যে গুনাহর ইচ্ছা জেগেছিল তা তারা করেনি। হাসান থেকে বর্ণিত, বান্দার গুনাহ করাটাই জেদ, যতক্ষণ না সে তওবা করে। সুদ্দী বলেছেন, জেদ মানে গুনাহর ব্যাপারে চুপ থাকা, ইস্তিগফার না করা। তাবারীর নিজের পছন্দ: জেনেবুঝে গুনাহর উপর টিকে থাকা আর তওবা ছেড়ে দেওয়াই জেদ।"
+          },
+          {
+            "en": "His argument for that choice is worth hearing. If committing a sin were itself persistence, he says, asking forgiveness for it would have no intelligible sense, because istighfar is repentance and regret over something actually done. Ma'arif al-Qur'an makes the same point as practical guidance: forgiveness turns on two things, regret and asking pardon for what is past, and a full resolve not to go near it again.",
+            "bn": "এ পছন্দের পক্ষে তাঁর যুক্তিটা শোনার মতো। তিনি বলেন, গুনাহ করাটাই যদি জেদ হতো, তাহলে সে গুনাহর জন্য ক্ষমা চাওয়ার কোনো বোধগম্য অর্থ থাকত না। কারণ ইস্তিগফার মানেই সত্যি সত্যি করে ফেলা কোনো কাজের জন্য তওবা ও অনুশোচনা। মাআরিফুল কুরআন একই কথা বলে হাতে-কলমে: ক্ষমা দুটি জিনিসের উপর নির্ভর করে। অতীতের জন্য লজ্জিত হয়ে মাফ চাওয়া, আর ভবিষ্যতে কখনো ওদিকে না যাওয়ার পাকা সংকল্প।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lighter Than the Door Inscriptions",
+          "bn": "দরজায় লেখা কাফফারার চেয়ে সহজ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari adds a note he introduces with the words it is mentioned: that this verse came down as a lightening and an ease given to this community in particular, set against the heavy trial the Children of Israel faced over their sins. He then relays from Ibn Mas'ud that when they sinned, the sin and its expiation would be found written on the sinner's door in the morning, and that we were given better than that: this verse. The remark is a Companion's own, and the chain at-Tabari gives for it is not graded here.",
+            "bn": "তাবারী এখানে একটা কথা যোগ করেন, শুরু করেন 'উল্লেখ আছে' বলে। কথাটা এই: আগের যুগে বনী ইসরাঈল নিজেদের গুনাহর কারণে কঠিন পরীক্ষার মধ্যে ছিল। তার বিপরীতে এ আয়াত নেমেছে বিশেষভাবে এই উম্মতের জন্য হালকা ও সহজ বিধান হিসেবে। এরপর তিনি ইবন মাসঊদ (রাঃ) থেকে বর্ণনা করেন: তারা গুনাহ করলে সকালে দেখা যেত, গুনাহগারের দরজায় গুনাহটা আর তার কাফফারা লেখা আছে। আর আমাদের দেওয়া হয়েছে তার চেয়ে ভালো কিছু, এই আয়াত। কথাটা একজন সাহাবীর নিজের, আর তাবারী এর যে সনদ দেন, এখানে তার মান যাচাই করা হয়নি।"
+          },
+          {
+            "en": "He also relays from Ata ibn Abi Rabah, a Successor who names no Companion, a report setting these verses against those expiations and containing words attributed to the Prophet ﷺ; it is not graded here, and nothing in this reading rests on it. Thabit al-Bunani said it had reached him that Iblis wept when 3:135 came down, and both at-Tabari and al-Baghawi carry that remark. The comparison is between two laws, and it passes no verdict on any community, then or now. What it shows is how near the door has been placed.",
+            "bn": "আতা ইবন আবী রাবাহ থেকেও তিনি একটি বর্ণনা আনেন। আতা তাবেঈ, কোনো সাহাবীর নাম তিনি নেননি। বর্ণনাটি এ আয়াতগুলোকে ওই কাফফারার বিপরীতে রাখে, আর তাতে নবী ﷺ-এর নামে কিছু কথা আছে। এর মান এখানে নির্ণীত নয়, তাই এ আলোচনার কিছুই এর উপর দাঁড়িয়ে নেই। সাবিত আল-বুনানী বলেছেন, তাঁর কাছে খবর পৌঁছেছে যে ৩:১৩৫ আয়াত নামার সময় ইবলীস কেঁদেছিল। তাবারী ও বাগাভী দুজনেই কথাটা এনেছেন। তুলনাটা দুই শরীয়তের বিধানের মধ্যে। এটা তখনকার বা এখনকার কোনো জাতির উপর রায় নয়। এখানে দেখার বিষয়, দরজাটা কত কাছে রাখা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Purify, Pray, Then Ask",
+          "bn": "পবিত্রতা, নামাজ, তারপর ক্ষমা চাওয়া"
+        },
+        "p": [
+          {
+            "en": "One narration is tied to 3:135 by the Prophet's ﷺ own recitation. At-Tirmidhi records (406) from Asma ibn al-Hakam al-Fazari that Ali would ask any Companion who told him a hadith to swear to it, and that Abu Bakr told him, and Abu Bakr spoke the truth, that he heard the Messenger of Allah ﷺ say: There is no man who commits a sin, then rises and purifies himself, then prays, then asks Allah's forgiveness, except that Allah forgives him. Then he recited this verse to its end.",
+            "bn": "একটি বর্ণনা ৩:১৩৫ আয়াতের সঙ্গে জুড়ে আছে নবী ﷺ-এর নিজের তিলাওয়াতের সূত্রে। তিরমিযী (৪০৬) আসমা ইবনুল হাকাম আল-ফাযারী থেকে বর্ণনা করেন: আলী (রাঃ) কোনো সাহাবীর মুখে হাদীস শুনলে তাঁকে কসম খাওয়াতেন। আর আবু বকর (রাঃ) তাঁকে বলেছেন, এবং আবু বকর সত্য বলেছেন, যে তিনি রাসূলুল্লাহ ﷺ-কে বলতে শুনেছেন: এমন কোনো মানুষ নেই, যে গুনাহ করে, তারপর উঠে পবিত্র হয়, তারপর নামাজ পড়ে, তারপর আল্লাহর কাছে ক্ষমা চায়, আর আল্লাহ তাকে ক্ষমা করেন না। তারপর তিনি এ আয়াতটি শেষ পর্যন্ত তিলাওয়াত করেন।"
+          },
+          {
+            "en": "At-Tirmidhi calls it hasan, and says he knows it only through Uthman ibn al-Mughirah. He notes that Shu'bah and others carried it back to the Prophet ﷺ, while Sufyan ath-Thawri and Mis'ar stopped it at the Companion, though it is also reported from Mis'ar in the raised form. Al-Baghawi brings it under 3:136 through his own chain and mentions at-Tirmidhi's version with the recitation. Its order is practical: a sin, then the body made clean, then prayer, then the asking.",
+            "bn": "তিরমিযী একে হাসান বলেছেন, আর জানিয়েছেন যে উসমান ইবনুল মুগীরার সূত্র ছাড়া অন্য কোনো পথে তিনি এটি জানেন না। তিনি আরও বলেন, শু'বা ও আরও কয়েকজন এটিকে নবী ﷺ পর্যন্ত পৌঁছিয়েছেন। সুফিয়ান সাওরী ও মিস'আর থামিয়েছেন সাহাবী পর্যন্ত, যদিও মিস'আর থেকে নবী ﷺ পর্যন্ত পৌঁছানো রূপেও এটি বর্ণিত আছে। বাগাভী নিজের সনদে এটি এনেছেন ৩:১৩৬ আয়াতের আলোচনায়, সঙ্গে তিরমিযীর তিলাওয়াতসহ রূপটির কথাও বলেছেন। এর ক্রমটা একেবারে হাতে-কলমে: গুনাহ, তারপর শরীর পবিত্র করা, তারপর নামাজ, তারপর চাওয়া।"
+          },
+          {
+            "en": "Al-Baghawi places beside it the narration of Abu Hurayrah that al-Bukhari records (7507), of a servant who sins and asks his Lord to forgive him, is forgiven, then sins again and asks again, three times over. Each time Allah says that His servant has known he has a Lord who forgives sin and takes to account for it. Al-Baghawi also relays reports from Abu Dharr and from Ibn Abbas on the reach of Allah's forgiveness; they are not confirmed or graded here, so nothing is built on them.",
+            "bn": "এর পাশেই বাগাভী রাখেন আবু হুরায়রা (রাঃ)-এর বর্ণনা, যা বুখারী (৭৫০৭) সংকলন করেছেন। এক বান্দা গুনাহ করে রবের কাছে ক্ষমা চায়, ক্ষমা পায়। আবার গুনাহ করে, আবার চায়। এভাবে তিনবার। প্রতিবার আল্লাহ বলেন, আমার বান্দা জেনেছে যে তার এমন এক রব আছেন, যিনি গুনাহ মাফ করেন আবার গুনাহর জন্য পাকড়াও করেন। বাগাভী নিজের সনদে আবু যার (রাঃ) ও ইবন আব্বাস (রাঃ) থেকেও আল্লাহর ক্ষমার ব্যাপ্তি নিয়ে বর্ণনা আনেন। সেগুলো এখানে যাচাই বা মান নির্ণয় করা হয়নি, তাই সেগুলোর উপর কিছু দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Covered First, Then Given",
+          "bn": "আগে ঢেকে দেওয়া, তারপর দান"
+        },
+        "p": [
+          {
+            "en": "The reward has two parts, and forgiveness comes first. At-Tabari explains maghfiratun min rabbihim as Allah's pardon of the punishment due for the sins that went before. The Muyassar puts it as Allah covering their sins. As-Sa'di says this forgiveness removes from them everything they had reason to fear. The three glosses describe one movement from different sides: a penalty set aside, a fault hidden, a fear lifted. Only after that does the verse turn to what they are given.",
+            "bn": "প্রতিদানের দুটি ভাগ, আর মাগফিরাত আসে আগে। তাবারী মাগফিরাতুম মির রব্বিহিম-এর ব্যাখ্যা দেন এভাবে: আগের গুনাহগুলোর জন্য যে শাস্তি পাওনা ছিল, আল্লাহ তা মাফ করে দেন। মুয়াসসার বলে, আল্লাহ তাদের গুনাহ ঢেকে দেন। সা'দীর কথায়, এই মাগফিরাত তাদের কাছ থেকে ভয়ের সবকিছু সরিয়ে দেয়। তিনটি ব্যাখ্যা একই ঘটনাকে তিন দিক থেকে দেখায়। শাস্তি মওকুফ, দোষ আড়াল, ভয় দূর। এরপরই আয়াত যায় তাদের কী দেওয়া হবে সেদিকে।"
+          },
+          {
+            "en": "The words min rabbihim, from their Lord, keep the forgiveness personal. 3:133 told the believers to hasten towards forgiveness from your Lord; 3:136 reports it reached, and the pronoun has turned from you to them. 3:135 had asked in the middle of its sentence: and who forgives sins except Allah? Al-Qurtubi says that Allah, by His grace and generosity, has set the forgiving of sins for whoever is sincere in his repentance and does not persist in his sin.",
+            "bn": "মির রব্বিহিম, তাদের রবের পক্ষ থেকে। এই শব্দ দুটি ক্ষমাকে একান্ত সম্পর্কের ভেতরে রাখে। ৩:১৩৩ আয়াত মু'মিনদের বলেছিল, তোমাদের রবের ক্ষমার দিকে ছুটে যাও। ৩:১৩৬ আয়াত জানায়, সে ক্ষমা তারা পেয়ে গেছে, আর সর্বনামটা 'তোমাদের' থেকে বদলে হয়েছে 'তাদের'। ৩:১৩৫ আয়াত বাক্যের মাঝখানে প্রশ্ন রেখেছিল: আল্লাহ ছাড়া আর কে গুনাহ মাফ করে? কুরতুবী বলেন, আল্লাহ নিজের অনুগ্রহ ও দয়ায় গুনাহ মাফের ব্যবস্থা রেখেছেন তার জন্য, যে খাঁটি মনে তওবা করে আর গুনাহর উপর জেদ ধরে থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rivers Beneath, and No Leaving",
+          "bn": "নিচে নদী, আর বিদায় নেই"
+        },
+        "p": [
+          {
+            "en": "Then the gardens. At-Tabari glosses jannat simply as orchards, and the rivers as running among their trees and along their lower ground, a recompense for their good deeds. The Muyassar places sweet water flowing beneath their trees and their palaces. Ibn Kathir reads the rivers as abundance: every kind of drink. As-Sa'di fills out the picture with lasting bliss, delight, joy and splendour, high and elegant dwellings, fruit-bearing trees, and rivers running through those good homes.",
+            "bn": "তারপর বাগানগুলো। তাবারী জান্নাতের অর্থ করেন সাদামাটা: বাগিচা। আর নদীগুলো বয়ে যায় গাছপালার ফাঁকে ফাঁকে, নিচু জমি ধরে। এ তাদের নেক আমলের প্রতিদান। মুয়াসসার মিঠা পানির ধারা বইয়ে দেয় গাছ ও প্রাসাদের নিচ দিয়ে। ইবন কাসীর নদীতে দেখেন প্রাচুর্য: হরেক রকম পানীয়। সা'দী ছবিটা ভরে দেন আরও। স্থায়ী নিয়ামত, আনন্দ, খুশি, জৌলুস, উঁচু ও সুন্দর বাসস্থান, ফলভরা গাছ, আর সেই পবিত্র ঘরগুলোর ভেতর দিয়ে বয়ে চলা নদী।"
+          },
+          {
+            "en": "Khalidina fiha, abiding in them. At-Tabari: their stay in these gardens is permanent. Ibn Kathir: remaining in them. The Muyassar: they will never leave. As-Sa'di adds two things the others do not say: that they will not wish to move from it or seek anything in its place, and that the bliss they are in will not change. On his reading permanence is not only a matter of time. It includes a heart that no longer looks for somewhere else.",
+            "bn": "খালিদীনা ফীহা, সেখানে তারা চিরকাল থাকবে। তাবারী: এই বাগানগুলোতে তাদের বসবাস স্থায়ী। ইবন কাসীর: সেখানে অবস্থানকারী। মুয়াসসার: সেখান থেকে তারা কখনো বের হবে না। সা'দী এমন দুটি কথা যোগ করেন, যা অন্যরা বলেননি। তারা সেখান থেকে সরে যেতে চাইবে না, তার বদলে অন্য কিছুও খুঁজবে না। আর যে নিয়ামতে তারা আছে, তা বদলাবে না। তাঁর ব্যাখ্যায় চিরস্থায়িত্ব কেবল সময়ের হিসাব নয়। তাতে আছে এমন এক মন, যা আর অন্য কোথাও যাওয়ার কথা ভাবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Excellent Is the Worker's Wage",
+          "bn": "আমলকারীর মজুরি কত উত্তম"
+        },
+        "p": [
+          {
+            "en": "Wa-ni'ma ajru al-'amilin: and excellent is the wage of the workers. Ajr is a worker's pay, and al-'amilin are those who work. The commentators differ over what exactly is praised. For at-Tabari it is the gardens he has just described, the excellent recompense of those who work for Allah. The Muyassar names both halves: the forgiveness and the Garden. Ibn Kathir says Allah is here praising Paradise. Ibn Ishaq, as at-Tabari relays him, and al-Baghawi both gloss the phrase as the reward of the obedient.",
+            "bn": "ওয়া নি'মা আজরুল আমিলীন: আমলকারীদের মজুরি কতই না উত্তম। আজর মানে কাজের পারিশ্রমিক, আর আমিলীন মানে যারা কাজ করে। ঠিক কোন জিনিসটার প্রশংসা হচ্ছে, তা নিয়ে তাফসীরকারদের মত আলাদা। তাবারীর মতে, এইমাত্র যে বাগানগুলোর বর্ণনা এল সেগুলোই, আল্লাহর জন্য যারা কাজ করে তাদের উত্তম প্রতিদান। মুয়াসসার দুটো ভাগই বলে: মাগফিরাত আর জান্নাত। ইবন কাসীর বলেন, আল্লাহ এখানে জান্নাতের প্রশংসা করছেন। তাবারীর বর্ণনায় ইবন ইসহাক, আর বাগাভীও, এর অর্থ করেন আনুগত্যকারীদের সওয়াব।"
+          },
+          {
+            "en": "As-Sa'di reads the clause as a measure between the work and the wage: they worked for Allah a little and were paid a great deal. He cites the Arab saying that at daybreak the travellers praise the night journey, and adds that at the recompense the worker finds his wage complete and in full. For at-Tabari, jaza'uhum, their reward, is the return on the deeds Allah described them doing, and the gardens are a recompense for their good works.",
+            "bn": "সা'দী বাক্যটিতে কাজ আর মজুরির মধ্যে একটা মাপ দেখেন: আল্লাহর জন্য তারা কাজ করেছে সামান্য, মজুরি পেয়েছে অনেক। তিনি আরবের একটি প্রবাদ আনেন: ভোর হলে কাফেলা রাতের সফরের প্রশংসা করে। সঙ্গে বলেন, প্রতিদানের দিন আমলকারী তার মজুরি পুরোপুরি, কোনো কমতি ছাড়াই পাবে। তাবারীর মতে জাযাউহুম, তাদের প্রতিদান, সেই আমলেরই সওয়াব, যা করার কথা আল্লাহ তাদের বর্ণনায় বলেছেন। আর বাগানগুলো তাদের নেক আমলের বিনিময়।"
+          },
+          {
+            "en": "A sound hadith stands beside that word wage, though no commentary fetched for this verse attaches it here. Al-Bukhari records (5673) from Abu Hurayrah that the Messenger of Allah ﷺ said: No one's deed will admit him to Paradise. They said: Not even you, Messenger of Allah? He said: No, not even I, unless Allah covers me with grace and mercy. So aim straight and keep close, and let none of you wish for death: if he does good, perhaps he will add to it, and if he does wrong, perhaps he will make amends.",
+            "bn": "মজুরি শব্দটির পাশে একটি সহীহ হাদীস এসে দাঁড়ায়, যদিও এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর হাদীসটিকে এখানে জোড়েনি। বুখারী (৫৬৭৩) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: কারও আমল তাকে জান্নাতে প্রবেশ করাবে না। সাহাবীরা বললেন: আপনাকেও না, হে আল্লাহর রাসূল? তিনি বললেন: না, আমাকেও না, যদি না আল্লাহ আমাকে অনুগ্রহ ও রহমতে ঢেকে নেন। তাই সঠিক পথে চলো, কাছাকাছি থাকো। আর তোমাদের কেউ যেন মৃত্যু কামনা না করে। সে নেককার হলে হয়তো নেকি আরও বাড়াবে, আর গুনাহগার হলে হয়তো ফিরে এসে সন্তুষ্টি চাইবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Work Asked, Grace Given",
+          "bn": "চাওয়া হয় আমল, দেওয়া হয় অনুগ্রহ"
+        },
+        "p": [
+          {
+            "en": "The verse and the hadith do not pull against each other. The verse calls the reward a wage, and the work it pays for is real: giving, restraint, pardon, and the turning back after a fall. The hadith says no deed by itself carries anyone into Paradise without Allah's grace and mercy. The worker is asked to work, and the size of what he receives is not set by his work. Both halves of the reward in 3:136 come from their Lord.",
+            "bn": "আয়াত আর হাদীস একে অন্যের বিপরীতে টানে না। আয়াত প্রতিদানকে মজুরি বলছে, আর যে কাজের মজুরি, তা সত্যিকারের কাজ: দান, সংযম, ক্ষমা, আর পড়ে গিয়ে ফিরে আসা। হাদীস বলছে, আল্লাহর অনুগ্রহ ও রহমত ছাড়া কোনো আমল নিজের জোরে কাউকে জান্নাতে নিয়ে যায় না। আমলকারীকে কাজ করতে বলা হয়েছে, কিন্তু তার পাওনার পরিমাণ তার কাজ দিয়ে ঠিক হয় না। ৩:১৩৬ আয়াতের প্রতিদানের দুটি ভাগই আসে তাদের রবের কাছ থেকে।"
+          },
+          {
+            "en": "As-Sa'di draws one more conclusion. These verses, he says, are among the proofs that deeds belong within faith, against a group who held otherwise. His reasoning sets 57:21, where a garden is prepared for those who believe in Allah and His messengers, beside 3:133, where it is prepared for the muttaqin, who are then described by deeds of wealth and of the body. On his reading the two verses describe one people: the believers of the one are those who do the deeds of the other.",
+            "bn": "সা'দী আরও একটি সিদ্ধান্ত টানেন। তাঁর মতে, আমল যে ঈমানের অংশ, এ আয়াতগুলো তার অন্যতম দলিল। একটি দল এর বিপরীত মত দিয়েছিল। তাঁর যুক্তি এই: ৫৭:২১ আয়াতে জান্নাত প্রস্তুত তাদের জন্য, যারা আল্লাহ ও তাঁর রাসূলদের উপর ঈমান আনে। আর ৩:১৩৩ আয়াতে তা প্রস্তুত মুত্তাকীদের জন্য, যাদের পরিচয় এরপর দেওয়া হয়েছে সম্পদের ও শরীরের আমল দিয়ে। তাঁর ব্যাখ্যায় দুই আয়াত একই মানুষের কথা বলে। এক আয়াতের মু'মিনরাই অন্য আয়াতের আমলকারী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Door Kept Open After Uhud",
+          "bn": "উহুদের পরেও খোলা দরজা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi adds a possibility and marks it as one with the word yumkin, it may be: that this verse connects with the story of Uhud, so that whoever fled and then repented, and did not persist, has forgiveness from Allah. The neighbouring verses fit that setting. 3:137 says that ways of life have passed before you, so travel and see the end of those who denied; it describes past deniers as a warning and licenses nothing against anyone living. And 3:139 to 3:142 speak of wounds, of days that turn among people, and of those who strive and stay steadfast.",
+            "bn": "কুরতুবী একটি সম্ভাবনার কথা বলেন, আর 'ইউমকিন', অর্থাৎ হতে পারে, শব্দ দিয়ে সেটাকে সম্ভাবনা হিসেবেই চিহ্নিত করেন। সম্ভাবনাটি হলো, এ আয়াত উহুদের ঘটনার সঙ্গে যুক্ত হতে পারে। তাহলে অর্থ দাঁড়ায়, যে পালিয়েছিল, তারপর তওবা করেছে, আর জেদ ধরে থাকেনি, তার জন্য আল্লাহর ক্ষমা আছে। আশপাশের আয়াতগুলো এই প্রেক্ষাপটের সঙ্গে মেলে। ৩:১৩৭ আয়াত বলে, তোমাদের আগেও অনেক রীতি গত হয়েছে, তাই পৃথিবীতে ঘুরে দেখো অস্বীকারকারীদের পরিণাম কী হয়েছিল। এ আয়াত অতীতের অস্বীকারকারীদের পরিণতি দেখায় সতর্কবার্তা হিসেবে, আজকের কোনো মানুষের বিরুদ্ধে কিছুর অনুমতি দেয় না। আর ৩:১৩৯ থেকে ৩:১৪২ পর্যন্ত আয়াতে আছে আঘাতের কথা, মানুষের মধ্যে ঘুরতে থাকা দিনের কথা, আর জিহাদকারী ও ধৈর্যশীলদের কথা।"
+          },
+          {
+            "en": "Read in that light, the promise answers a fear many believers carry quietly: that a fall cancels a life. The list of the people of taqwa includes the fall, the remembering and the asking, and the reward is named over all of it. What it leaves out is staying down knowingly. When I last fell, how long was it before I remembered Allah? Is there a sin I have stopped asking about because I have made peace with it? And do I count my work, or His grace?",
+            "bn": "এভাবে পড়লে প্রতিশ্রুতিটা এমন এক ভয়ের জবাব দেয়, যা অনেক মু'মিন চুপচাপ বয়ে বেড়ান: পড়ে গেলেই বুঝি গোটা জীবনটা বাতিল। মুত্তাকীদের তালিকায় পড়ে যাওয়া আছে, আল্লাহকে মনে করা আছে, ক্ষমা চাওয়াও আছে। আর প্রতিদান ঘোষিত হয়েছে এর সবকিছুর উপর। তালিকায় যা নেই, তা হলো জেনেবুঝে পড়ে থাকা। শেষবার পড়ে যাওয়ার পর আল্লাহকে মনে করতে আমার কত দেরি হয়েছিল? এমন কোনো গুনাহ কি আছে, যার সঙ্গে আপস করে নিয়েছি বলে আর ক্ষমা চাই না? আর আমি কি নিজের আমল গুনি, নাকি তাঁর অনুগ্রহের দিকে তাকাই?"
+          }
+        ]
+      }
+    ]
+  },
   "3:139": {
     "sections": [
       {

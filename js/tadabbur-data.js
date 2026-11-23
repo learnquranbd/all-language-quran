@@ -30723,6 +30723,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Never stand in the way of anyone walking towards Allah, whether by word, manner or half-truth, and never hide a truth you know.",
     "lessonBn": "কথা, আচরণ বা আধা-সত্য দিয়ে আল্লাহর দিকে হাঁটা কোনো মানুষের পথ কখনো আটকাবেন না, আর জানা সত্য কখনো গোপন করবেন না।"
+  },
+  "3:136": {
+    "reflectionEn": "The list of those for whom the garden was prepared ends with an unexpected kind of person: one who fell into a shameful deed or wronged himself, then remembered Allah, asked forgiveness and did not stay where he fell. This verse names their reward, and forgiveness comes before the gardens. The people praised here are not those who never slipped. They are those who came back. The verse even calls what they receive a wage, the wage of workers, as if turning back were itself work done for Allah. Excellent is that wage, and it is far larger than the work. So my question is not whether I have fallen. It is how long I stay down, and whether I keep returning to the One who alone forgives.",
+    "reflectionBn": "যাদের জন্য জান্নাত তৈরি রাখা হয়েছে, তাদের তালিকা শেষ হয় এমন এক মানুষে, যাকে সেখানে আশা করা যায় না। সে কোনো অশ্লীল কাজ করে ফেলেছে বা নিজের উপর যুলম করেছে। তারপর আল্লাহকে মনে করেছে, ক্ষমা চেয়েছে, আর যেখানে পড়েছিল সেখানে পড়ে থাকেনি। এ আয়াত তাদের প্রতিদানের কথা বলে, আর জান্নাতের আগে আসে মাগফিরাত। এখানে যাদের প্রশংসা, তারা কখনো পা না-পিছলানো মানুষ নয়। তারা ফিরে আসা মানুষ। আয়াতটি তাদের পাওনাকে বলছে মজুরি, আমলকারীদের মজুরি। যেন ফিরে আসাটাও আল্লাহর জন্য করা এক কাজ। সে মজুরি কতই না উত্তম, আর কাজের তুলনায় তা অনেক বড়। তাই আমার প্রশ্ন এটা নয় যে আমি পড়েছি কি না। প্রশ্ন হলো, পড়ে কতক্ষণ থাকি, আর একমাত্র যিনি ক্ষমা করেন, তাঁর কাছে বারবার ফিরি কি না।",
+    "pointsEn": [
+      "The last time I did something I knew was wrong, how long did it take me to turn back to Allah, and what kept me waiting?",
+      "Is there a sin I have stopped asking forgiveness for because I have quietly decided to keep it?",
+      "Do I picture Paradise as a prize for people who never fall, and does that picture keep me from coming back?",
+      "What work am I doing for Allah this week that I would be glad to see counted as a wage?",
+      "When I think of my good deeds, do I lean on them, or on the grace of the One who repays a little with much?"
+    ],
+    "pointsBn": [
+      "শেষবার জেনেশুনে যখন কোনো অন্যায় করেছি, আল্লাহর দিকে ফিরতে কত সময় লেগেছে? আর কী আমাকে দেরি করিয়েছে?",
+      "এমন কোনো গুনাহ কি আছে, যার জন্য আমি আর ইস্তিগফার করি না, কারণ মনে মনে ঠিক করে ফেলেছি ওটা ছাড়ব না?",
+      "জান্নাতকে কি আমি কেবল কখনো না-পড়া মানুষের পুরস্কার ভাবি? আর সেই ভাবনাই কি আমাকে ফিরে আসতে বাধা দেয়?",
+      "এ সপ্তাহে আল্লাহর জন্য এমন কোন কাজ করছি, যা মজুরি হিসেবে গোনা হলে আমি খুশি হব?",
+      "নিজের নেক আমলের কথা ভাবলে আমি কি সেগুলোর উপর ভর দিই, নাকি সেই দয়াময়ের অনুগ্রহের উপর, যিনি অল্পের বদলে অনেক দেন?"
+    ],
+    "lessonEn": "When you fall, turn back to Allah quickly and do not settle into the sin; forgiveness and a lasting reward are promised to those who return.",
+    "lessonBn": "পা পিছলে গেলে দেরি না করে আল্লাহর দিকে ফিরুন, গুনাহর উপর থিতু হবেন না। যারা ফিরে আসে, তাদের জন্যই মাগফিরাত আর চিরস্থায়ী প্রতিদানের ওয়াদা।"
   }
 };
 
