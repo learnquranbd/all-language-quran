@@ -30923,6 +30923,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Messenger came with the truth to all mankind; believing is for our own good, and Allah, who owns the heavens and the earth, loses nothing if anyone refuses.",
     "lessonBn": "রসূল সত্য নিয়ে এসেছেন সব মানুষের কাছে। ঈমান আনা আমাদের নিজেদেরই কল্যাণ, আর আসমান-জমিনের মালিক আল্লাহর কিছুই কমে না, কেউ ফিরিয়ে দিলেও।"
+  },
+  "4:84": {
+    "reflectionEn": "The command comes to one man: fight, and you are charged with no one but yourself. Then at once: urge the believers. Some around him held back; the verse does not make their holding back his burden, nor let him stop calling them. The war it names is long over, and it licenses no violence by anyone today, yet the pairing still reaches me. I answer for my own deeds, not for the friend who would not come, the colleague who cut corners, the relative who said no. Still, I am not excused from encouraging them. And when Allah says perhaps He will hold back the harm, the commentators hear a promise. Do I carry my own share without waiting for company, and keep inviting others to good?",
+    "reflectionBn": "আদেশটা আসে একজন মানুষের প্রতি: লড়াই করো, তোমার নিজের ছাড়া আর কারও দায় তোমার উপর নেই। সঙ্গে সঙ্গে আরেক আদেশ: মুমিনদের উদ্বুদ্ধ করো। আশপাশের কেউ কেউ পিছিয়ে ছিল। আয়াত তাদের পিছিয়ে থাকাকে তাঁর বোঝা বানায়নি, আবার তাদের ডাকা থামিয়ে দেওয়ারও সুযোগ দেয়নি। আয়াতে যে যুদ্ধের কথা, তা বহু আগেই শেষ হয়েছে, আর আজ কারও কোনো সহিংসতার অনুমতি এ আয়াত দেয় না। তবু এই জোড়া কথা আমার কাছেও এসে পৌঁছায়। হিসাব দিতে হবে আমার নিজের আমলের। যে বন্ধু আসেনি, যে সহকর্মী ফাঁকি দিয়েছে, যে আত্মীয় মুখ ফিরিয়েছে, তাদের আমলের হিসাব আমার কাছে চাওয়া হবে না। কিন্তু তাদের উৎসাহ দেওয়ার দায় থেকেও আমি ছাড়া পাইনি। আর আল্লাহ যখন বলেন, হয়তো তিনি শত্রুর আঘাত ঠেকিয়ে দেবেন, তাফসীরকারেরা তাতে শোনেন পাকা প্রতিশ্রুতি। সঙ্গী না পেলেও কি আমি নিজের ভাগের বোঝা নিজে বই, আর অন্যদের ভালোর দিকে ডাকতে থাকি?",
+    "pointsEn": [
+      "Which good deed am I putting off only because nobody else will do it with me?",
+      "When others fall short, do I quietly treat their failure as permission for my own?",
+      "Whom have I stopped encouraging because they did not respond the first time I asked?",
+      "Is my encouragement of others backed by doing the thing myself first, or only by words?",
+      "When Allah's help seems slow, what am I holding on to that tells me His word is true?"
+    ],
+    "pointsBn": [
+      "কোন ভালো কাজটা আমি শুধু এ কারণে পিছিয়ে রাখছি যে আর কেউ আমার সঙ্গে করবে না?",
+      "অন্যরা যখন পিছিয়ে পড়ে, তাদের ব্যর্থতাকে কি আমি চুপচাপ নিজের ব্যর্থতার ছাড়পত্র বানিয়ে নিই?",
+      "প্রথমবার সাড়া দেয়নি বলে কাকে উৎসাহ দেওয়া আমি ছেড়ে দিয়েছি?",
+      "অন্যকে যে কাজের কথা বলি, আগে কি নিজে তা করে দেখাই, নাকি শুধু মুখেই বলি?",
+      "আল্লাহর সাহায্য দেরিতে আসছে মনে হলে কোন জিনিসটা আমাকে মনে করিয়ে দেয় যে তাঁর কথা সত্য?"
+    ],
+    "lessonEn": "Do what is asked of you even if you must do it alone, keep encouraging others toward good, and trust that when Allah says perhaps, He means it.",
+    "lessonBn": "একা হলেও নিজের দায়িত্বটা পালন করুন, অন্যদের ভালোর দিকে উৎসাহ দিতে থাকুন, আর ভরসা রাখুন যে আল্লাহর 'হয়তো' আসলে তাঁর প্রতিশ্রুতি।"
   }
 };
 

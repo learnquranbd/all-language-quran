@@ -3391,6 +3391,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "4:84": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Command After the Rumours",
+          "bn": "গুজবের পরে এক আদেশ"
+        },
+        "p": [
+          {
+            "en": "The verse opens with fa: so fight. The particle points back, and the commentators ask to what. Al-Qurtubi and al-Baghawi both tie it to 4:74, whoever fights in the cause of Allah and is killed or prevails, We will give him a great reward: for that, then, fight. Al-Qurtubi records a second view, introduced with 'it is said', linking it to 4:75, what is the matter with you that you do not fight in the cause of Allah? Either way, the command answers a promise and a rebuke already spoken.",
+            "bn": "আয়াতের শুরু ফা দিয়ে: কাজেই লড়াই করো। এই ছোট্ট অব্যয়টি পেছনের দিকে ইশারা করে, আর তাফসীরকারেরা জানতে চান, কোন কথার দিকে। কুরতুবী ও বাগাভী দুজনেই একে জুড়ে দেন ৪:৭৪ আয়াতের সঙ্গে: যে আল্লাহর পথে লড়াই করে, তারপর নিহত হয় বা বিজয়ী হয়, তাকে আমি মহা প্রতিদান দেব। এ কারণেই, তাহলে, লড়াই করো। কুরতুবী 'বলা হয়' কথাটি দিয়ে আরেকটি মত আনেন, যাতে সম্পর্ক ৪:৭৫ আয়াতের সঙ্গে: তোমাদের কী হল যে আল্লাহর পথে লড়াই করছ না? যেভাবেই পড়া হোক, আগে দেওয়া এক প্রতিশ্রুতি আর এক তিরস্কারের জবাব হয়ে আসে এই আদেশ।"
+          },
+          {
+            "en": "Al-Qurtubi also reads the order of the passage. The verses just before describe the hypocrites: their word of obedience by day and their plotting by night in 4:81, their habit of broadcasting every report of safety or fear in 4:83. Then, he says, the Prophet ﷺ was told to turn away from them and to put his whole effort into fighting in the cause of Allah, even if no one helped him in it. The verse turns from a noisy, muddled crowd to one clear task.",
+            "bn": "অনুচ্ছেদের সাজানোটাও কুরতুবী পড়েন। ঠিক আগের আয়াতগুলোতে মুনাফিকদের ছবি। ৪:৮১ আয়াতে দিনে তাদের মুখে আনুগত্যের কথা, রাতে গোপন সলা। ৪:৮৩ আয়াতে নিরাপত্তা বা ভয়ের যেকোনো খবর পেলেই রটিয়ে দেওয়ার অভ্যাস। তিনি বলেন, এরপর নবী ﷺ-কে আদেশ দেওয়া হল তাদের দিক থেকে মুখ ফিরিয়ে নিতে, আর আল্লাহর পথে লড়াইয়ে পুরো মনোযোগ দিতে, কেউ সাহায্য না করলেও। হট্টগোল আর এলোমেলো কথার ভিড় থেকে আয়াত নজর ফেরায় একটিমাত্র স্পষ্ট কাজের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Appointment at Lesser Badr",
+          "bn": "ছোট বদরের নির্ধারিত দিন"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi gives an occasion. After Uhud, the Prophet ﷺ and Abu Sufyan had fixed an appointment for the season of Lesser Badr in Dhu al-Qa'da. When the time came, the Prophet ﷺ called the people to march out, and some of them disliked it; then Allah revealed this verse. He set out, al-Baghawi continues, with seventy riders, and Allah spared them the fighting. Al-Qurtubi reports the same account but opens it with 'it is said', adds that Abu Sufyan never appeared and no battle took place, and links it to what Mujahid said under Al Imran.",
+            "bn": "বাগাভী একটি প্রেক্ষাপট বর্ণনা করেন। উহুদের পর নবী ﷺ ও আবু সুফিয়ানের মধ্যে ছোট বদরের মৌসুমে, যুলকা'দা মাসে, আবার মুখোমুখি হওয়ার দিন ঠিক হয়েছিল। নির্ধারিত সময় এলে নবী ﷺ লোকদের বেরিয়ে পড়ার ডাক দিলেন। তাদের কেউ কেউ তা অপছন্দ করল। তখন আল্লাহ এ আয়াত নাযিল করলেন। বাগাভী আরও বলেন, তিনি সত্তরজন আরোহী নিয়ে বের হলেন, আর আল্লাহ তাঁদের লড়াই থেকে রেহাই দিলেন। কুরতুবীও একই বিবরণ আনেন, তবে শুরু করেন 'বলা হয়' দিয়ে। তিনি যোগ করেন, আবু সুফিয়ান আসেনি, কোনো যুদ্ধও হয়নি, আর বিষয়টিকে সূরা আলে ইমরানে মুজাহিদের বক্তব্যের সঙ্গে মিলিয়ে দেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing al-Qurtubi and al-Mazhari, fills in the reluctance: some held back because they were still wounded, others because of rumours. It reads the verse as telling him to set out even if alone, since Allah was his helper; none of Abu Sufyan's party came. In every account the hesitation belongs to some of the people; it is the Prophet ﷺ who calls them out. Since al-Qurtubi marks the report 'it is said', it is best held as the occasion these commentators give.",
+            "bn": "মাআরিফুল কুরআন কুরতুবী ও মাযহারীর বরাতে অনীহার কারণটা খুলে বলে। কেউ পিছিয়ে ছিল কারণ তাদের আঘাত তখনো শুকায়নি, কেউ পিছিয়ে ছিল গুজব শুনে। গ্রন্থটির পাঠে আয়াতের নির্দেশ হল, নবী ﷺ একা হলেও বেরিয়ে পড়বেন, কারণ আল্লাহই তাঁর সাহায্যকারী। আবু সুফিয়ানের দলের কেউই আসেনি। লক্ষ করার মতো বিষয়, প্রতিটি বিবরণে দ্বিধা ছিল কিছু লোকের। নবী ﷺ ছিলেন ডাক দেওয়ার মানুষ। কুরতুবী যেহেতু বর্ণনাটি 'বলা হয়' দিয়ে আনেন, তাই একে এই তাফসীরকারদের দেওয়া প্রেক্ষাপট হিসেবেই ধরে রাখা ভালো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Charged With Yourself Alone",
+          "bn": "দায় কেবল নিজের ঘাড়ে"
+        },
+        "p": [
+          {
+            "en": "La tukallafu illa nafsak: you are charged with none but yourself. At-Tabari explains: in the struggle against His enemy and yours that Allah made obligatory on you, He burdens you only with what He laid on you, not with what He laid on someone else. You will be pursued only for what you yourself earned, not for what another earned; what is on you is only what you were charged with. The clause takes the weight of other people's choices off his shoulders without taking his own task away.",
+            "bn": "লা তুকাল্লাফু ইল্লা নাফসাক: তোমার নিজের ছাড়া আর কারও দায় তোমার উপর নেই। তাবারী ব্যাখ্যা করেন, আল্লাহর শত্রু আর তোমার শত্রুর বিরুদ্ধে যে জিহাদ তিনি তোমার উপর ফরজ করেছেন, তাতে তিনি তোমাকে কেবল তোমার ভাগের বোঝাই দেন, অন্যের ভাগের নয়। তোমাকে ধরা হবে শুধু তোমার নিজের অর্জনের জন্য, অন্যের অর্জনের জন্য নয়। তোমার উপর আছে কেবল তা, যার দায়িত্ব তোমাকে দেওয়া হয়েছে। এ বাক্য অন্যদের সিদ্ধান্তের ভার তাঁর কাঁধ থেকে নামিয়ে দেয়, কিন্তু তাঁর নিজের কাজটা কেড়ে নেয় না।"
+          },
+          {
+            "en": "The others say it in their own ways. Al-Qurtubi and the Muyassar use almost the same words: you are not bound by another's deed, nor taken to task for it. As-Sa'di grounds it in capacity: you have no power over anyone but yourself, so you will not be charged with what another does. Ibn Kathir reads the whole clause as a command to the Prophet ﷺ to take up the fighting in person, adding that whoever holds back, nothing of that falls on him.",
+            "bn": "অন্যরাও একই কথা বলেন, যার যার ভঙ্গিতে। কুরতুবী আর মুয়াসসারের ভাষা প্রায় হুবহু এক: অন্যের কাজ তোমার উপর চাপানো হবে না, তার জন্য তোমাকে পাকড়াও করাও হবে না। সা'দী একে দাঁড় করান সামর্থ্যের উপর। নিজের উপর ছাড়া আর কারও উপর তোমার কোনো ক্ষমতা নেই, তাই অন্যের কাজের দায়িত্ব তোমাকে দেওয়া হবে না। ইবন কাসীর পুরো বাক্যটিকে পড়েন নবী ﷺ-এর প্রতি এই আদেশ হিসেবে যে তিনি নিজে লড়াইয়ে নামবেন। সঙ্গে বলেন, যে পিছিয়ে থাকে, তার কোনো দায় তাঁর উপর বর্তায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken to One, Meant for Each",
+          "bn": "সম্বোধন একজনকে, বার্তা প্রত্যেককে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi sets two readings side by side. Al-Zajjaj took the words at face value: Allah commanded His Messenger ﷺ to strive even if he fought alone, because He had guaranteed him victory. Ibn Atiyya agreed that this is the apparent sense, but noted that no report ever came saying fighting was obligatory on him without his community for any period. So the meaning, he says, and Allah knows best, is that the address is to him in wording and is a pattern for what is said to each person about himself; every believer should strive, even alone.",
+            "bn": "কুরতুবী দুটি পাঠ পাশাপাশি রাখেন। যাজ্জাজ শব্দগুলোকে বাহ্যিক অর্থেই নিয়েছেন: আল্লাহ তাঁর রাসূল ﷺ-কে জিহাদের আদেশ দিয়েছেন, একা লড়তে হলেও, কারণ তিনি তাঁকে বিজয়ের নিশ্চয়তা দিয়েছিলেন। ইবন আতিয়্যা মানেন যে বাহ্যিক অর্থ এটাই। কিন্তু তিনি খেয়াল করিয়ে দেন, এমন কোনো বর্ণনা কখনো আসেনি যে কোনো সময় উম্মতকে বাদ দিয়ে শুধু তাঁর উপরই লড়াই ফরজ ছিল। তাই তাঁর মতে অর্থ এই, আর আল্লাহই ভালো জানেন: শব্দে সম্বোধন নবীকে, কিন্তু প্রত্যেক মানুষকে তার নিজের ব্যাপারে যা বলা হয়, এ তারই নমুনা। প্রত্যেক মুমিনের উচিত চেষ্টা চালিয়ে যাওয়া, একা হলেও।"
+          },
+          {
+            "en": "Al-Qurtubi illustrates with the Prophet's oath that he would fight them until his neck was severed. The oath is in Sahih al-Bukhari (2731), in the account of al-Hudaybiyya, not about this verse, and its setting matters: he had come for 'umra and first offered Quraysh a truce. Only then: \"But if they do not accept the truce, by Allah in Whose Hands my life is, I will fight with them defending my Cause till I get killed, but (I am sure) Allah will definitely make His Cause victorious.\"",
+            "bn": "উদাহরণ হিসেবে কুরতুবী নবী ﷺ-এর সেই কসমের কথা বলেন, ঘাড় আলাদা হয়ে যাওয়া পর্যন্ত তিনি তাদের সঙ্গে লড়বেন। কসমটি সহীহ বুখারীতে (২৭৩১) হুদাইবিয়ার বর্ণনায় আছে, এ আয়াত প্রসঙ্গে নয়। তবে প্রেক্ষাপটটা গুরুত্বপূর্ণ। তিনি এসেছিলেন উমরা করতে, আর প্রথমে কুরাইশকে সন্ধির প্রস্তাব দিয়েছিলেন। এরপরই বলেন: \"আর যদি তারা অস্বীকার করে, তবে সেই সত্তার কসম যাঁর হাতে আমার প্রাণ, আমার এই বিষয়ের জন্য আমি তাদের সঙ্গে লড়ব, যতক্ষণ না আমার ঘাড় আলাদা হয়ে যায়, আর আল্লাহ অবশ্যই তাঁর বিষয় বাস্তবায়ন করবেন।\""
+          },
+          {
+            "en": "Ibn Kathir relays, from Ibn Abi Hatim and Ahmad, a question Abu Ishaq put to al-Bara' ibn 'Azib. In Ahmad's wording: is a man who charges the idolaters' lines one of those who throw themselves into destruction, as 2:195 warns? Al-Bara' answered no, cited this verse, and said that 2:195 concerns spending. Ibn Kathir gives no grading. A further report, through Ibn Mardawayh, of what the Prophet ﷺ said when the verse came down, Ibn Kathir himself calls gharib, strange; nothing is built on it.",
+            "bn": "ইবন কাসীর ইবন আবী হাতিম ও আহমাদের সূত্রে একটি প্রশ্নোত্তর আনেন। আবু ইসহাক বারা ইবন আযিব (রাঃ)-কে জিজ্ঞেস করেছিলেন, আহমাদের ভাষ্যে: যে লোক মুশরিকদের সারির উপর ঝাঁপিয়ে পড়ে, সে কি ২:১৯৫ আয়াতে সতর্ক করা নিজেকে ধ্বংসে ঠেলে দেওয়া লোকদের একজন? বারা (রাঃ) বললেন, না। তিনি এ আয়াতটি উল্লেখ করলেন আর বললেন, ২:১৯৫ আয়াত খরচ করা নিয়ে। ইবন কাসীর এর কোনো মান উল্লেখ করেননি। আয়াত নাযিল হলে নবী ﷺ কী বলেছিলেন, সে বিষয়ে ইবন মারদুইয়ার সূত্রে আরেকটি বর্ণনা আছে। ইবন কাসীর নিজেই সেটিকে গরীব, অর্থাৎ অপরিচিত, বলেছেন। এর উপর কিছু দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Going First, Then Urging",
+          "bn": "আগে নিজে, তারপর আহ্বান"
+        },
+        "p": [
+          {
+            "en": "Wa-harridi al-mu'minin: and rouse the believers. Al-Qurtubi glosses it as urging them on to striving and fighting; one says harradtu fulanan 'ala kadha when one commands him to a thing, and he lists harada, akabba and wazaba as one meaning, to keep at something steadily. Ibn Kathir explains it as urging them to the fight, making them want it and giving them heart, and recalls the Prophet's words to the believers at Badr: rise to a Garden as wide as the heavens and the earth.",
+            "bn": "ওয়া হাররিদিল মু'মিনীন: আর মুমিনদের উদ্বুদ্ধ করো। কুরতুবী এর অর্থ করেন জিহাদ ও লড়াইয়ের দিকে তাদের তাগিদ দেওয়া। আরবিতে বলা হয়, হাররাদতু ফুলানান আলা কাযা, যখন কাউকে কোনো কাজের আদেশ দেওয়া হয়। তিনি আরও বলেন, হারাদা, আকাব্বা আর ওয়াযাবা একই অর্থের শব্দ: কোনো কাজে লেগে থাকা। ইবন কাসীরের ব্যাখ্যায় এর মানে লড়াইয়ের জন্য উৎসাহ দেওয়া, আগ্রহ জাগানো, মনে সাহস জোগানো। এখানে তিনি বদরে মুমিনদের উদ্দেশে নবী ﷺ-এর কথাটি স্মরণ করেন: ওঠো এমন জান্নাতের দিকে, যার প্রশস্ততা আসমান ও যমীনের সমান।"
+          },
+          {
+            "en": "Sahih Muslim (1901) carries them in a narration from Anas, with what came just before. As the idolaters drew near at Badr, the Messenger of Allah ﷺ said: \"None of you should step forward to (do) anything unless I am ahead of him.\" Then: \"Get up to enter Paradise which is equal in width to the heavens and the earth.\" The narration is not about this verse, but its order matches the verse's own: first the Prophet ﷺ himself in front, then the call to others.",
+            "bn": "কথাগুলো সহীহ মুসলিমে (১৯০১) আনাস (রাঃ)-এর বর্ণনায় আছে, ঠিক তার আগের কথাসহ। বদরে মুশরিকরা কাছে এগিয়ে আসতে থাকলে রাসূলুল্লাহ ﷺ বললেন: \"আমি সামনে না থাকা পর্যন্ত তোমাদের কেউ কোনো কিছুর দিকে এগিয়ে যাবে না।\" তারপর বললেন: \"ওঠো সেই জান্নাতের দিকে, যার প্রশস্ততা আসমানসমূহ ও যমীনের সমান।\" বর্ণনাটি এ আয়াত প্রসঙ্গে নয়। তবু এর ক্রম আয়াতের ক্রমের সঙ্গে মিলে যায়: আগে নবী ﷺ নিজে সামনে, তারপর অন্যদের প্রতি আহ্বান।"
+          },
+          {
+            "en": "As-Sa'di opens his comment by calling this the finest state a servant can be in: to strive himself in obeying Allah's command, in fighting and in other things, and to urge others to it. Urging, in his reading, takes in everything that lifts the believers' energy and strengthens their hearts: building them up, telling them of the enemy's weakness and failure, of the reward prepared for those who fight, and of the punishment awaiting those who stay behind.",
+            "bn": "সা'দী তাঁর আলোচনা শুরু করেন এই বলে যে, বান্দার সবচেয়ে উত্তম অবস্থা এটাই। নিজে আল্লাহর আদেশ পালনে চেষ্টা করা, জিহাদে হোক বা অন্য কিছুতে, আর অন্যদেরও তাতে উদ্বুদ্ধ করা। তাঁর পাঠে উদ্বুদ্ধ করার মধ্যে পড়ে এমন সবকিছু, যা মুমিনদের উদ্যম বাড়ায় আর মন শক্ত করে। তাদের মনোবল জোগানো, শত্রুর দুর্বলতা ও ব্যর্থতার খবর দেওয়া, লড়াইকারীদের জন্য প্রস্তুত সাওয়াবের কথা বলা, আর পিছিয়ে থাকাদের জন্য অপেক্ষমাণ শাস্তির কথা মনে করিয়ে দেওয়া।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws the two clauses together. The first tells him to go even alone; the second tells him not to shelve the work of moving others. If they stay unmoved after he has tried, his mission is done, and from that point on he is not answerable for what they do. Each clause guards the other: his own deed is his, the urging is also his, and their answer is theirs.",
+            "bn": "মাআরিফুল কুরআন দুটি বাক্যকে এক সূত্রে গাঁথে। প্রথমটি বলে, একা হলেও বেরিয়ে পড়ো। দ্বিতীয়টি বলে, অন্যদের জাগানোর কাজ ফেলে রেখো না। চেষ্টার পরও তারা সাড়া না দিলে তাঁর দায়িত্ব পূর্ণ হয়ে গেছে। এরপর তারা কী করে, তার দায় আর তাঁর নয়। একটি বাক্য অন্যটিকে পাহারা দেয়। নিজের আমল তাঁর, উৎসাহ দেওয়াও তাঁর, আর সাড়া দেওয়া না দেওয়া তাদের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Hope Is a Promise",
+          "bn": "আশা যখন প্রতিশ্রুতি"
+        },
+        "p": [
+          {
+            "en": "'Asa Allahu an yakuffa ba'sa alladhina kafaru: perhaps Allah will hold back the might of those who disbelieve. At-Tabari glosses the hope as Allah holding back the fighting of those who denied His oneness and rejected the Prophet's message, from him and from the believers. Then he adds that he has already shown that 'asa from Allah is wajiba, binding. Al-Baghawi says the same in two words: 'asa from Allah is wajib. On their reading, the softness of the word is in its grammar, not in its outcome.",
+            "bn": "আসাল্লাহু আঁই ইয়াকুফফা বা'সাল্লাযীনা কাফারূ: হয়তো আল্লাহ কাফিরদের শক্তি ঠেকিয়ে দেবেন। তাবারী আশাটির ব্যাখ্যা করেন এভাবে: যারা আল্লাহর একত্ব অস্বীকার করেছে আর নবীর রিসালাত মানেনি, তাদের লড়াই আল্লাহ তাঁর থেকে ও মুমিনদের থেকে ফিরিয়ে রাখবেন। তারপর যোগ করেন, তিনি আগেই দেখিয়েছেন যে আল্লাহর পক্ষ থেকে আসা 'আসা' ওয়াজিব, অর্থাৎ অবশ্যম্ভাবী। বাগাভী একই কথা বলেন দুই শব্দে: আল্লাহর 'আসা' ওয়াজিব। তাঁদের পাঠে শব্দটির কোমলতা কেবল তার গঠনে, ফলাফলে নয়।"
+          },
+          {
+            "en": "Al-Qurtubi calls the phrase an itma', a raising of hope, and says that hope raised by Allah is binding. He adds that Arabic speech uses tama', hoping, for what is certain, and cites the words of Ibrahim (AS) in 26:82, alladhi atma'u an yaghfira li: Who, I hope, will forgive me. Then he meets an objection: we see the disbelievers strong, so where is the promise? It was fulfilled, he replies, and need not last forever; once it came true, even for a moment, it was true.",
+            "bn": "কুরতুবী বাক্যাংশটিকে বলেন ইতমা', অর্থাৎ আশা জাগানো। আর আল্লাহ যে আশা জাগান, তা অবশ্যম্ভাবী। তিনি আরও বলেন, আরবরা নিশ্চিত বিষয়েও 'তামা', মানে আশা, শব্দটি ব্যবহার করে। দলিল হিসেবে আনেন ২৬:৮২ আয়াতে ইবরাহীম (আঃ)-এর কথা, আল্লাযী আতমাউ আঁই ইয়াগফিরা লী: যাঁর কাছে আমি আশা রাখি যে তিনি আমাকে মাফ করবেন। তারপর তিনি একটি আপত্তির জবাব দেন: আমরা তো কাফিরদের শক্তি আর দাপট দেখছি, তাহলে প্রতিশ্রুতি কোথায়? তাঁর উত্তর, প্রতিশ্রুতি পূরণ হয়েছে, আর তা চিরকাল চলতে থাকবে এমন শর্ত নেই। মুহূর্তের জন্য হলেও পূরণ হলে প্রতিশ্রুতি সত্য প্রমাণিত।"
+          },
+          {
+            "en": "He lists the occasions. At Lesser Badr the idolaters broke their own pledge to fight, and Allah spared the believers the battle. At al-Hudaybiyya their planned treachery was held back, which he ties to 48:24. The Confederates turned away with fear in their hearts and no fighting, as 33:25 says. Ibn Kathir puts the weight on the means instead: through the Prophet's urging, the believers' resolve is roused to meet the enemy, defend Islam and its people, and hold firm. As-Sa'di likewise says: by your fighting and by urging each other.",
+            "bn": "তারপর তিনি ঘটনাগুলো গুনে দেখান। ছোট বদরে মুশরিকরা নিজেদের দেওয়া যুদ্ধের অঙ্গীকার ভেঙেছিল, আর আল্লাহ মুমিনদের লড়াই থেকে রেহাই দিয়েছিলেন। হুদাইবিয়ায় তাদের পরিকল্পিত বিশ্বাসঘাতকতা ঠেকানো হয়েছিল, যাকে তিনি ৪৮:২৪ আয়াতের সঙ্গে মেলান। আর আহযাবের বাহিনী মনে ভয় নিয়ে লড়াই ছাড়াই ফিরে গিয়েছিল, যেমন ৩৩:২৫ আয়াত বলে। ইবন কাসীর জোর দেন মাধ্যমের উপর। নবীর উৎসাহে মুমিনদের মনোবল জেগে ওঠে শত্রুর মুখোমুখি হতে, ইসলাম ও মুসলিমদের রক্ষা করতে আর অবিচল থাকতে। সা'দীও বলেন, তোমাদের লড়াই আর একে অপরকে উদ্বুদ্ধ করার মাধ্যমে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Greater in Might and Example",
+          "bn": "শক্তিতে ও শাস্তিতে প্রবলতর"
+        },
+        "p": [
+          {
+            "en": "Wallahu ashaddu ba'san wa-ashaddu tankila: and Allah is greater in might and severer in exemplary punishment. At-Tabari reads it as a comparison aimed at the Prophet's heart: Allah's blow against His enemies is heavier than anything they can inflict on you and your companions, so do not shrink back from facing them. He explains tankil as a verbal noun from nakkaltu bi-fulan, said of making someone suffer a painful penalty, and relays from Qatada that tankil means punishment. Al-Qurtubi glosses ba's as assault and greater dominion.",
+            "bn": "ওয়াল্লাহু আশাদ্দু বা'সান ওয়া আশাদ্দু তানকীলা: আর আল্লাহ শক্তিতে প্রবলতর, দৃষ্টান্তমূলক শাস্তিতে কঠোরতর। তাবারী একে পড়েন নবী ﷺ-এর মনের উদ্দেশে বলা এক তুলনা হিসেবে। তোমার ও তোমার সাথীদের উপর শত্রুরা যে আঘাত হানতে পারে, তার চেয়ে আল্লাহর আঘাত তাঁর শত্রুদের উপর অনেক বেশি ভারী, তাই তাদের মোকাবিলা থেকে পিছিয়ে যেয়ো না। তানকীল শব্দটি তিনি ব্যাখ্যা করেন নাক্কালতু বিফুলান থেকে আসা ক্রিয়াবিশেষ্য হিসেবে, কাউকে কষ্টদায়ক শাস্তি দেওয়া বোঝাতে যা বলা হয়। কাতাদা থেকে তিনি আনেন, তানকীল মানে শাস্তি। কুরতুবী বা'স শব্দের অর্থ করেন আক্রমণ আর বৃহত্তর কর্তৃত্ব।"
+          },
+          {
+            "en": "As-Sa'di reads tankil as punishment that falls on the wrongdoer and warns others. Had Allah willed, he says, He would have overcome the disbelievers by His power; but in His wisdom He tests some servants by others, so that the faith that benefits may come about, faith by choice and not faith forced, which avails nothing. Ibn Kathir says Allah has power over them in this world and the next, and cites 47:4 to the same effect. Ma'arif al-Qur'an leaves open whether the punishment comes on the Day of Judgement or, as some commentators say, in this world too.",
+            "bn": "সা'দীর পাঠে তানকীল এমন শাস্তি, যা অপরাধীর উপর পড়ে, আবার অন্যদের জন্যও সতর্কবার্তা হয়। তিনি বলেন, আল্লাহ চাইলে নিজের শক্তিতেই কাফিরদের পরাস্ত করতেন। কিন্তু তাঁর হিকমত হল কিছু বান্দাকে অন্যদের দিয়ে পরীক্ষা করা, যাতে উপকারী ঈমান জন্মায়। সে ঈমান বেছে নেওয়া ঈমান, চাপিয়ে দেওয়া ঈমান নয়, কারণ চাপের ঈমানে কোনো লাভ নেই। ইবন কাসীর বলেন, দুনিয়া ও আখিরাতে তাদের উপর আল্লাহর পূর্ণ ক্ষমতা আছে, আর একই অর্থে ৪৭:৪ আয়াত উল্লেখ করেন। মাআরিফুল কুরআন খোলা রাখে, শাস্তি আসবে বিচার দিবসে, নাকি কিছু তাফসীরকারের মতে এই দুনিয়াতেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Carries Over Today",
+          "bn": "আজ যা থেকে যায়"
+        },
+        "p": [
+          {
+            "en": "The verse addressed the Prophet ﷺ in a war already under way, at an appointment fixed with the enemy, and in the commentators' account it ended with no battle. It licenses no violence by anyone today; no one may read 'fight, even alone' as a private warrant, and the same passage, at 4:90, says Allah has made no way against those who withdraw and offer peace. What carries over is its shape: I answer for my own deeds, others' failure is no excuse for mine, and urging them to good stays my task.",
+            "bn": "আয়াতটি নবী ﷺ-কে সম্বোধন করেছিল আগে থেকে চলমান এক যুদ্ধে, শত্রুপক্ষের সঙ্গে আগে ঠিক হওয়া দিনে, আর তাফসীরকারদের বিবরণে শেষ পর্যন্ত কোনো লড়াই-ই হয়নি। আজ কারও কোনো সহিংসতার অনুমতি এ আয়াত দেয় না। 'একা হলেও লড়ো' কথাটিকে কেউ নিজের ব্যক্তিগত ছাড়পত্র বানাতে পারে না। একই অনুচ্ছেদে ৪:৯০ আয়াত বলে, যারা সরে থাকে আর শান্তির প্রস্তাব দেয়, তাদের বিরুদ্ধে আল্লাহ কোনো পথ রাখেননি। যা থেকে যায় তা আয়াতের কাঠামো। আমি জবাব দেব আমার নিজের আমলের, অন্যের ব্যর্থতা আমার ব্যর্থতার অজুহাত নয়, আর তাদের ভালোর দিকে ডাকা আমার কাজ হয়েই থাকে।"
+          },
+          {
+            "en": "Under 'rouse the believers', Ibn Kathir cites a narration found in Sahih al-Bukhari (2790), from Abu Hurayra, general and not attached to this verse: \"Whoever believes in Allah and His Apostle, offer prayer perfectly and fasts the month of Ramadan, will rightfully be granted Paradise by Allah, no matter whether he fights in Allah's Cause or remains in the land where he is born.\" Asked whether to spread this news, he spoke of a hundred grades prepared for those who strive. The door stays open to whoever stays home; the higher ranks belong to those who strive.",
+            "bn": "'মুমিনদের উদ্বুদ্ধ করো' অংশে ইবন কাসীর আবু হুরায়রা (রাঃ)-এর একটি বর্ণনা আনেন, যা সহীহ বুখারীতে আছে (২৭৯০)। বর্ণনাটি সাধারণ, এ আয়াতের সঙ্গে জোড়া নয়: \"যে আল্লাহ ও তাঁর রাসূলের উপর ঈমান আনে, সালাত কায়েম করে আর রমজানের সিয়াম পালন করে, তাকে জান্নাতে প্রবেশ করানো আল্লাহর উপর তার হক হয়ে যায়, সে আল্লাহর পথে জিহাদ করুক, অথবা যে মাটিতে জন্মেছে সেখানেই বসে থাকুক।\" সাহাবীরা জানতে চাইলেন, এ সুসংবাদ কি মানুষকে জানিয়ে দেবেন? তিনি বললেন, আল্লাহর পথে জিহাদকারীদের জন্য জান্নাতে একশ স্তর প্রস্তুত রাখা আছে। ঘরে থাকা মানুষের জন্যও দরজা খোলা, তবে উঁচু স্তরগুলো চেষ্টা যারা করে তাদের।"
+          }
+        ]
+      }
+    ]
+  },
   "4:88-91": {
     "sections": [
       {
