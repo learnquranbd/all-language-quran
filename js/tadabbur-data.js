@@ -31243,6 +31243,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The return they wish for at the Fire is the life you have now, so change while it is still choice and not fear that moves you.",
     "lessonBn": "জাহান্নামের সামনে দাঁড়িয়ে তারা যে ফিরে আসার আকাঙ্ক্ষা করে, সেই জীবন এখন আপনার হাতে। তাই ভয়ে বাধ্য হওয়ার আগেই, নিজের ইচ্ছায় বদলে যান।"
+  },
+  "6:56": {
+    "reflectionEn": "Twice in one verse the Prophet ﷺ is told: say. The first is a command he received and now reports: I have been forbidden to worship those you call upon besides Allah. The second is a refusal: I will not follow your desires. Then comes what would follow if he did, set out as a condition and never as a step he took: I would have gone astray, and would not be among the guided. The pressure in Makkah was to meet people halfway in worship. The verse draws a line that courtesy does not erase. My own pressures are quieter: a crowd's taste, a habit, a want I dress up as a reason. Where have I let what people want decide what I do?",
+    "reflectionBn": "একই আয়াতে দুবার নবী ﷺ-কে বলা হচ্ছে: বলুন। প্রথমবার তিনি জানাচ্ছেন একটি হুকুম, যা তিনি পেয়েছেন: আল্লাহকে বাদ দিয়ে তোমরা যাদের ডাকো, তাদের ইবাদত করতে আমাকে নিষেধ করা হয়েছে। দ্বিতীয়বার এক সোজা অস্বীকার: আমি তোমাদের খেয়ালখুশির পেছনে চলব না। তারপর আসে, তেমন করলে কী হতো। কথাটা শর্ত হিসেবেই বলা, তিনি এমন কোনো পা বাড়িয়েছেন বলে নয়: তাহলে আমি পথ হারাতাম, হিদায়াতপ্রাপ্তদের দলে থাকতাম না। মক্কায় চাপ ছিল ইবাদতের ব্যাপারে মাঝামাঝি একটা রফা করার। আয়াতটি এমন এক সীমারেখা টানে, যা ভদ্রতার খাতিরে মুছে যায় না। আমার চাপগুলো আরও নিঃশব্দ: মানুষের রুচি, পুরোনো অভ্যাস, কিংবা নিজের কোনো চাওয়া, যাকে আমি যুক্তির পোশাক পরাই। কোথায় আমি মানুষের চাওয়াকে আমার কাজ ঠিক করে দিতে দিয়েছি?",
+    "pointsEn": [
+      "What do I turn to in hope or fear, besides Allah, even if I would never call it worship?",
+      "Which of my choices this month were made by a want that I dressed up as a reason?",
+      "When people I like ask me to bend on something Allah has settled, can I refuse them without contempt?",
+      "Is my refusal grounded in something I received from Allah, or only in my own taste?",
+      "Whom might I quietly push aside to win the approval of people I want to impress?"
+    ],
+    "pointsBn": [
+      "আশা বা ভয়ের মুহূর্তে আল্লাহ ছাড়া আর কীসের দিকে আমি ফিরি, যদিও সেটাকে কখনো ইবাদত বলব না?",
+      "এ মাসে আমার কোন সিদ্ধান্তগুলো আসলে নিজের চাওয়া থেকে এসেছে, যাকে আমি যুক্তির পোশাক পরিয়েছি?",
+      "প্রিয় মানুষেরা যখন আল্লাহর মীমাংসা করে দেওয়া কোনো বিষয়ে একটু নরম হতে বলে, আমি কি তুচ্ছতাচ্ছিল্য না করে তাদের না বলতে পারি?",
+      "আমার না বলাটা কি আল্লাহর কাছ থেকে পাওয়া কোনো কিছুর উপর দাঁড়িয়ে, নাকি শুধু আমার নিজের রুচির উপর?",
+      "যাদের মন জয় করতে চাই, তাদের খুশি করতে গিয়ে কাকে আমি চুপচাপ সরিয়ে দিতে পারি?"
+    ],
+    "lessonEn": "Hold the line on worship as a command you received, refuse what desire dresses up as reason, and refuse without contempt for those you refuse.",
+    "lessonBn": "ইবাদতের সীমারেখাকে নিজের পাওয়া হুকুম হিসেবে আঁকড়ে ধরুন, খেয়ালখুশি যা যুক্তির পোশাকে আনে তা ফিরিয়ে দিন, আর যাদের ফেরাচ্ছেন তাদের তুচ্ছ না করেই ফেরান।"
   }
 };
 

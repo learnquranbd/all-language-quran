@@ -2827,6 +2827,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:56": {
+    "sections": [
+      {
+        "h": {
+          "en": "Once the Criminals' Way Is Clear",
+          "bn": "অপরাধীদের পথ স্পষ্ট হওয়ার পর"
+        },
+        "p": [
+          {
+            "en": "The verse comes straight after 6:55, which says that Allah sets out the signs in detail so that the way of the criminals becomes clear. Once that way is clear, the Prophet ﷺ is given words to set his own way beside it. The verse holds two commands, each opening with qul, say. The first reports a prohibition he has received. The second announces a refusal, and then states what would follow if he gave way. Both are spoken outward, to the people pressing him.",
+            "bn": "আয়াতটি এসেছে ৬:৫৫-এর ঠিক পরে। সেখানে আল্লাহ বলেছেন, তিনি নিদর্শনগুলো বিশদ করে বলেন, যাতে অপরাধীদের পথ পরিষ্কার হয়ে যায়। সেই পথ স্পষ্ট হওয়ার পর নবী ﷺ-কে এমন কিছু কথা দেওয়া হলো, যা দিয়ে তিনি নিজের পথটা তার পাশে দাঁড় করাবেন। আয়াতে দুটি আদেশ, দুটিই শুরু হয়েছে কুল দিয়ে, অর্থাৎ বলুন। প্রথমটিতে তিনি জানান, একটি নিষেধাজ্ঞা তাঁর কাছে এসেছে। দ্বিতীয়টিতে তিনি অস্বীকার ঘোষণা করেন, তারপর বলেন নতি স্বীকার করলে কী ঘটত। দুটি কথাই বাইরের দিকে বলা, যারা তাঁর উপর চাপ দিচ্ছিল তাদের উদ্দেশে।"
+          },
+          {
+            "en": "At-Tabari names the audience. Say, O Muhammad, to these who associate partners with their Lord from among your people, who hold idols and rivals equal to Him, and who invite you to agree with them on their religion and on the worship of idols. The Muyassar is shorter: say, O Messenger, to these idolaters. As-Sa'di describes them as those who call upon other gods alongside Allah. The verse is therefore a reply to an invitation.",
+            "bn": "শ্রোতা কারা, তাবারী তা স্পষ্ট করে দেন। হে মুহাম্মাদ, আপনার কওমের সেই লোকদের বলুন, যারা তাদের রবের সঙ্গে শরীক করে, মূর্তি আর প্রতিদ্বন্দ্বীদের তাঁর সমান বানায়, আর আপনাকে ডাকে তাদের ধর্মে ও মূর্তিপূজায় তাদের সঙ্গে একমত হতে। মুয়াসসারের কথা আরও ছোট: হে রাসূল, এই মুশরিকদের বলুন। সা'দীর বর্ণনায় তারা সেই লোক, যারা আল্লাহর সঙ্গে অন্য উপাস্যদেরও ডাকে। তাই আয়াতটি আসলে একটি আমন্ত্রণের জবাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forbidden, Not Merely Unwilling",
+          "bn": "শুধু অনিচ্ছা নয়, নিষেধ"
+        },
+        "p": [
+          {
+            "en": "Inni nuhitu: indeed, I have been forbidden. The verb is passive and names no one, yet no commentator doubts who forbade. At-Tabari and the Muyassar both turn it straight into the active: Allah has forbidden me to worship those you call upon besides Him. The form still matters. He does not say that he dislikes their gods or has decided against them. He reports an order. A few verses earlier, 6:50 had him say: I only follow what is revealed to me. Here that rule meets the first question of all, whom to worship.",
+            "bn": "ইন্নী নুহীতু: আমাকে নিষেধ করা হয়েছে। ক্রিয়াটি কর্মবাচ্যে, কে নিষেধ করেছেন তার নাম নেই। তবু কোনো মুফাসসিরের মনে এ নিয়ে সন্দেহ নেই। তাবারী আর মুয়াসসার দুজনেই সরাসরি কর্তৃবাচ্যে বলে দেন: আল্লাহ আমাকে নিষেধ করেছেন, তাঁকে ছাড়া তোমরা যাদের ডাকো তাদের ইবাদত করতে। তবু বলার ধরনটা গুরুত্বপূর্ণ। তিনি বলছেন না যে তোমাদের উপাস্যদের তাঁর পছন্দ নয়, বা তিনি নিজে তাদের বিরুদ্ধে সিদ্ধান্ত নিয়েছেন। তিনি একটি হুকুমের খবর দিচ্ছেন। কয়েক আয়াত আগে ৬:৫০-এ তাঁকে দিয়ে বলানো হয়েছে: আমার কাছে যা ওহী আসে, আমি শুধু তারই অনুসরণ করি। এখানে সেই নীতি গিয়ে মিলেছে সবচেয়ে মৌলিক প্রশ্নে: ইবাদত কার।"
+          },
+          {
+            "en": "As-Sa'di names what is forbidden: rivals and idols that possess no benefit and no harm, no death, no life and no raising up. Worshipping them, he says, is falsehood, and you have no proof in it, not even a doubt that could pass for proof. 40:66 repeats the sentence nearly word for word and gives its ground: once the clear proofs have come to me from my Lord.",
+            "bn": "কী নিষেধ করা হলো, সা'দী তা বলে দেন: সেই প্রতিদ্বন্দ্বী আর মূর্তিগুলো, যাদের হাতে কোনো উপকার নেই, ক্ষতিও নেই, মৃত্যু নেই, জীবন নেই, পুনরুত্থানও নেই। তাঁর কথায়, এদের ইবাদত বাতিল। এতে তোমাদের কোনো দলিল নেই, দলিলের মতো দেখায় এমন কোনো সংশয়ও নেই। ৪০:৬৬ আয়াত প্রায় হুবহু এই বাক্যটি আবার বলে, সঙ্গে ভিত্তিটাও জানায়: যখন আমার রবের কাছ থেকে আমার কাছে সুস্পষ্ট প্রমাণ এসে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Calling Becomes Worship",
+          "bn": "ডাকাও যখন ইবাদত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi pauses on tad'una, you call upon, and records two explanations, each introduced with it was said. In the first, tad'una here simply means ta'buduna, you worship. In the second, you call upon them in the weighty affairs of your lives, by way of worship. Either way, he adds, the idols are meant. The first makes calling another name for worship; the second says that turning to something in one's needs becomes worship when it is done in that spirit.",
+            "bn": "তাদ‘ঊনা, অর্থাৎ তোমরা ডাকো, শব্দটিতে কুরতুবী একটু থামেন। তিনি দুটি ব্যাখ্যা আনেন, দুটিই 'বলা হয়েছে' দিয়ে শুরু। প্রথম ব্যাখ্যায় এখানে তাদ‘ঊনা মানে সোজা তা‘বুদূনা, তোমরা ইবাদত করো। দ্বিতীয় ব্যাখ্যায় তোমরা জীবনের গুরুতর বিষয়ে তাদের ডাকো, ইবাদতের ভঙ্গিতে। যেটাই ধরা হোক, তিনি বলেন, উদ্দেশ্য মূর্তিগুলোই। প্রথমটিতে ডাকা আর ইবাদত একই জিনিসের দুই নাম। দ্বিতীয়টি বলে, প্রয়োজনের সময় কারও দিকে ফেরা ইবাদত হয়ে যায়, যখন তা ইবাদতের মনোভাব নিয়েই করা হয়।"
+          },
+          {
+            "en": "The same verb has already appeared in this passage. 6:52 describes the believers whom the Prophet ﷺ must not drive away as those who call upon their Lord, yad'una rabbahum, morning and evening, seeking His face. Four verses later the verb describes the idolaters: those you call upon besides Allah. The passage sets two kinds of calling side by side, one directed to the Lord and one directed elsewhere. The question it leaves is not only whether a person calls, but whom he calls upon, and what he hopes that one can do.",
+            "bn": "এই অংশে ক্রিয়াটি আগেও এসেছে। ৬:৫২ যে মু'মিনদের তাড়িয়ে দিতে নবী ﷺ-কে নিষেধ করেছে, তাদের পরিচয় দিয়েছে এভাবে: তারা সকাল-সন্ধ্যা তাদের রবকে ডাকে, ইয়াদ‘ঊনা রাব্বাহুম, তাঁর সন্তুষ্টি চেয়ে। চারটি আয়াত পরে একই ক্রিয়া এসেছে মুশরিকদের বেলায়: আল্লাহকে বাদ দিয়ে তোমরা যাদের ডাকো। এভাবে দুই রকম ডাকা পাশাপাশি রাখা হলো। এক ডাক যায় রবের কাছে, আরেক ডাক অন্য কোথাও। প্রশ্নটা তাই শুধু এই নয় যে মানুষ ডাকে কিনা। প্রশ্ন হলো, সে কাকে ডাকে, আর যাকে ডাকে তার কাছে কী আশা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Desires, and in What",
+          "bn": "কার খেয়ালখুশি, কোন বিষয়ে"
+        },
+        "p": [
+          {
+            "en": "La attabi'u ahwa'akum: I will not follow your desires. At-Tabari unfolds the refusal three ways: I will not follow you in what you invite me to, I will not agree with you on it, and I will not give you what you love and desire in it. The Muyassar keeps the verse's own words. Al-Baghawi ties the desires first to the worship of idols. On that reading the second say restates the first from the other side: the prohibition is the command he received, and the refusal is his reply to those who asked.",
+            "bn": "লা আত্তাবি‘উ আহওয়া-আকুম: আমি তোমাদের খেয়ালখুশির অনুসরণ করব না। তাবারী এই অস্বীকারকে খুলে বলেন তিনটি কথায়: তোমরা আমাকে যেদিকে ডাকছ সেদিকে আমি তোমাদের পিছু নেব না, এতে তোমাদের সঙ্গে একমতও হব না, আর এ ব্যাপারে তোমরা যা ভালোবাস ও চাও তা তোমাদের দেব না। মুয়াসসার আয়াতের নিজের শব্দেই থাকে। বাগাভী খেয়ালখুশিকে প্রথমে জুড়ে দেন মূর্তিপূজার সঙ্গে। এই পাঠে দ্বিতীয় 'বলুন' প্রথমটিকেই অন্য দিক থেকে আবার বলে। নিষেধ হলো তাঁর পাওয়া হুকুম, আর অস্বীকার হলো যারা চেয়েছিল তাদের প্রতি তাঁর জবাব।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi widen the reference. Al-Qurtubi: I will not follow your desires in what you asked of worshipping these things, and in driving away those you wanted driven away. Al-Baghawi: in the worship of idols and the driving away of the poor. Both reach back to 6:52, where the Prophet ﷺ was told not to send away those who call upon their Lord; the article on 6:54 tells that story. At-Tabari and as-Sa'di keep the desires to the worship of idols alone. Both readings stand, and neither commentator argues against the other.",
+            "bn": "কুরতুবী আর বাগাভী পরিসরটা আরও বাড়ান। কুরতুবীর ভাষায়: এসব জিনিসের ইবাদত নিয়ে তোমরা যা চেয়েছ, আর যাদের তাড়াতে চেয়েছ তাদের তাড়ানো নিয়ে, তোমাদের খেয়ালখুশির অনুসরণ আমি করব না। বাগাভীর ভাষায়: মূর্তিপূজায় আর গরিবদের তাড়িয়ে দেওয়ায়। দুজনেই ফিরে যান ৬:৫২-তে, যেখানে নবী ﷺ-কে বলা হয়েছিল, যারা তাদের রবকে ডাকে তাদের যেন তিনি সরিয়ে না দেন। সেই ঘটনা ৬:৫৪-এর প্রবন্ধে বলা আছে। তাবারী আর সা'দী খেয়ালখুশিকে শুধু মূর্তিপূজার মধ্যেই রাখেন। দুটি পাঠই টিকে থাকে, আর কোনো মুফাসসির অন্যজনের বিরুদ্ধে যুক্তি দেন না।"
+          },
+          {
+            "en": "As-Sa'di explains why the verse moves from worship to desire at all. Following desire, he writes, is the greatest misguidance, and that is why Allah said: I will not follow your desires, I would then have gone astray. In his paragraph the two halves sit together: a worship with no proof behind it, and then the desire that is followed in its place. He glosses the verse's last words with bi-wajhin min al-wujuh: not among the guided in any respect at all.",
+            "bn": "ইবাদতের কথা থেকে আয়াতটি খেয়ালখুশির কথায় কেন গেল, সা'দী তার ব্যাখ্যা দেন। তিনি লেখেন, খেয়ালখুশির অনুসরণই সবচেয়ে বড় গোমরাহি। এ কারণেই আল্লাহ বলেছেন: আমি তোমাদের খেয়ালখুশির অনুসরণ করব না, করলে আমি পথ হারাতাম। তাঁর অনুচ্ছেদে দুই অংশ একসঙ্গে বসে আছে। একদিকে এমন ইবাদত, যার পেছনে কোনো দলিল নেই। অন্যদিকে খেয়ালখুশি, দলিলের জায়গায় যার অনুসরণ করা হয়। আয়াতের শেষ শব্দগুলোর ব্যাখ্যায় তিনি যোগ করেন বি-ওয়াজহিন মিনাল উজূহ: কোনো দিক থেকেই হিদায়াতপ্রাপ্তদের অন্তর্ভুক্ত নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Idhan: Had I Done So",
+          "bn": "ইযান: যদি তা করতাম"
+        },
+        "p": [
+          {
+            "en": "Qad dalaltu idhan: I would then have gone astray. Idhan, in that case, points to a condition left unspoken, and each commentator here supplies it. Al-Qurtubi: I would have gone astray if I followed your desires. As-Sa'di: that is, if I followed your desires. The Muyassar: I would have strayed from the straight path, if I followed your desires. Al-Baghawi: if I did that, I would have left the way of truth and taken a road other than that of guidance.",
+            "bn": "কাদ দালালতু ইযান: তাহলে আমি পথ হারাতাম। ইযান মানে সে অবস্থায়। এই শব্দ ফলটাকে এমন এক শর্তের সঙ্গে বেঁধে দেয়, যা আয়াত মুখে বলেনি। এখানকার প্রত্যেক মুফাসসির শর্তটা পূরণ করে দেন। কুরতুবী: তোমাদের খেয়ালখুশির অনুসরণ করলে আমি পথ হারাতাম। সা'দী: অর্থাৎ যদি তোমাদের খেয়ালখুশির অনুসরণ করি। মুয়াসসার: তোমাদের খেয়ালখুশি মানলে আমি সিরাতে মুস্তাকীম থেকে সরে যেতাম। বাগাভী: যদি তা করতাম, তবে সত্যের পথ ছেড়ে হিদায়াতের বাইরের কোনো রাস্তা ধরতাম।"
+          },
+          {
+            "en": "So the sentence describes what would follow a step, and the verse itself records that the step was refused: la attabi'u, I will not follow, comes first. Nothing in the wording says he leaned toward their invitation, and none of the commentaries fetched for this verse suggests it. At-Tabari spells out where that step would have led: he would have left the clear road of truth and become astray like them, without uprightness. The verse measures the invitation by where it ends, and lets the inviters hear that measure in his own voice.",
+            "bn": "অর্থাৎ বাক্যটি বলছে, একটি পদক্ষেপ নিলে তার ফল কী হতো। আর আয়াত নিজেই জানিয়ে দিয়েছে যে সেই পদক্ষেপ প্রত্যাখ্যাত: লা আত্তাবি‘উ, আমি অনুসরণ করব না, কথাটা আগেই এসে গেছে। শব্দের কোথাও নেই যে তিনি তাদের আমন্ত্রণের দিকে ঝুঁকেছিলেন। এই আয়াতের জন্য আনা কোনো তাফসীরও এমন ইঙ্গিত দেয় না। সেই পদক্ষেপ কোথায় নিয়ে যেত, তাবারী তা খুলে বলেন: সত্যের স্পষ্ট রাস্তা ছেড়ে তিনি তাদেরই মতো পথহারা হয়ে যেতেন, সোজা পথে থাকতেন না। আমন্ত্রণটা কোথায় গিয়ে শেষ হয়, আয়াত তা দিয়েই তাকে মাপে। আর সেই মাপ আমন্ত্রণকারীরা শোনে তাঁর নিজের মুখে।"
+          },
+          {
+            "en": "The tense is worth noticing. Dalaltu is a past verb inside a hypothetical. The commentary of al-Kashani, as given on quranx, explains it: the past tense signals that the error would already have been realised in such a case. The same passage uses this shape once before. 6:52 closes: were you to drive them away, you would be among the wrongdoers. 2:145 ends a condition put to the Prophet ﷺ the same way. Such verses speak in conditions and describe no step he took; their weight falls on whoever hears them.",
+            "bn": "ক্রিয়ার কালটাও লক্ষ করার মতো। দালালতু অতীতকালের ক্রিয়া, অথচ বসেছে একটি কাল্পনিক অবস্থার ভেতরে। কাশানীর তাফসীর, quranx-এ যেমন আছে, এর ব্যাখ্যা দেয়: অতীতকাল বোঝায় যে তেমন অবস্থায় পথভ্রষ্টতা ঘটেই যেত। এই অংশে এমন গড়ন আগেও একবার এসেছে। ৬:৫২ শেষ হয়েছে এভাবে: আপনি যদি তাদের তাড়িয়ে দেন, তবে আপনি জালিমদের অন্তর্ভুক্ত হবেন। ২:১৪৫-ও নবী ﷺ-কে বলা একটি শর্তকে একইভাবে শেষ করে। এমন আয়াত শর্তের ভাষায় কথা বলে, তাঁর নেওয়া কোনো পদক্ষেপের বর্ণনা দেয় না। এর ভার গিয়ে পড়ে যে শোনে তার উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dalaltu With Two Vowels",
+          "bn": "দুই স্বরে দালালতু"
+        },
+        "p": [
+          {
+            "en": "At-Tabari records that the Arabs say this verb two ways, with the lam vowelled a or i. The eloquent and well-known form is dalaltu, with a, and that is how the general body of readers in the garrison cities recited it; at-Tabari follows it for its familiarity. Dalil-tu, with i, is not the prevailing usage, and those who read it are few. The present tense follows the vowel: adillu after the first, adallu after the second. He keeps the same choice across the Qur'an, citing 32:10, a-idha dalalna, with a.",
+            "bn": "তাবারী জানান, আরবরা এই ক্রিয়া দুইভাবে বলে: লামে যবর দিয়ে, অথবা যের দিয়ে। শুদ্ধ ও সুপরিচিত রূপটি যবরসহ দালালতু। বড় বড় শহরের কারীরা সাধারণভাবে এভাবেই পড়েছেন, আর পরিচিত বলে তাবারী নিজেও এটাই গ্রহণ করেন। যেরসহ দালিলতু আরবদের কথায় প্রচলিত রূপ নয়, আর এভাবে যারা পড়েন তাঁরা সংখ্যায় অল্প। বর্তমানকালও স্বর অনুযায়ী বদলায়: প্রথমটির পরে আদিল্লু, দ্বিতীয়টির পরে আদাল্লু। গোটা কুরআনে তিনি একই পাঠ রাখেন, আর উদাহরণ দেন ৩২:১০ থেকে: আ-ইযা দালালনা, যবরসহ।"
+          },
+          {
+            "en": "Al-Qurtubi names the readers. Abu 'Amr ibn al-'Ala' said the form with i is the dialect of Tamim and the reading of Yahya ibn Wathhab and Talha ibn Musarrif, while the form with a is sounder and more eloquent, being the dialect of the Hijaz and the reading of the majority. Al-Qurtubi then quotes al-Jawhari, who calls the a form the dialect of Najd and the eloquent form, and says the people of al-'Aliya say dalil-tu. The two reports place the dialects differently, and al-Qurtubi leaves them side by side. The meaning does not change.",
+            "bn": "কুরতুবী কারীদের নাম বলেন। আবু আমর ইবনুল আলা বলেছেন, যেরসহ রূপটি তামীম গোত্রের ভাষা, আর ইয়াহইয়া ইবন ওয়াসসাব ও তালহা ইবন মুসাররিফের পাঠ। আর যবরসহ রূপটি বেশি বিশুদ্ধ ও বেশি সাবলীল, কারণ তা হিজাজবাসীর ভাষা এবং অধিকাংশ কারীর পাঠ। এরপর কুরতুবী জাওহারীর কথা আনেন। জাওহারীর মতে যবরসহ রূপটি নাজদের ভাষা, আর সেটিই বিশুদ্ধ। আলিয়ার লোকেরা বলে দালিলতু। দুই বর্ণনা ভাষাগুলোকে ভিন্ন ভিন্ন অঞ্চলে বসায়, আর কুরতুবী দুটিকে পাশাপাশিই রেখে দেন। অর্থে কোনো পরিবর্তন হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Refusal, Said Again",
+          "bn": "একই অস্বীকার, আবার উচ্চারিত"
+        },
+        "p": [
+          {
+            "en": "The first half is not said once only. 40:66 repeats it almost word for word, and adds both the ground and the alternative: once the clear proofs have come to me from my Lord, and I have been commanded to submit to the Lord of the worlds. 10:104 puts it as a reply to doubt: if you are in doubt about my religion, I do not worship those you worship besides Allah, but I worship Allah, who causes your death. 109:2 compresses it into a single line: I do not worship what you worship.",
+            "bn": "আয়াতের প্রথম অর্ধেক কেবল একবারই বলা হয়নি। ৪০:৬৬ প্রায় হুবহু তা আবার বলে, আর যোগ করে ভিত্তি ও বিকল্প দুটোই: যখন আমার রবের কাছ থেকে আমার কাছে সুস্পষ্ট প্রমাণ এসে গেছে, আর আমাকে আদেশ করা হয়েছে জগতসমূহের রবের কাছে আত্মসমর্পণ করতে। ১০:১০৪ কথাটা বলে সন্দেহের জবাব হিসেবে: আমার দ্বীন নিয়ে তোমাদের সন্দেহ থাকলে জেনে রাখো, আল্লাহকে বাদ দিয়ে তোমরা যাদের ইবাদত করো আমি তাদের ইবাদত করি না, বরং আমি ইবাদত করি আল্লাহর, যিনি তোমাদের মৃত্যু ঘটান। ১০৯:২ সবটা এক লাইনে গুটিয়ে আনে: তোমরা যার ইবাদত করো, আমি তার ইবাদত করি না।"
+          },
+          {
+            "en": "The second half has its own family. 6:150, later in this surah, tells the Prophet ﷺ not to follow the desires of those who deny the verses and do not believe in the Hereafter. 45:18 says: We have put you on an ordained way in the matter, so follow it, and do not follow the desires of those who do not know. In each place the alternative to desire is something given: revelation, a way laid down, knowledge that has arrived. Here the next verse, 6:57, supplies it: say, I am on clear evidence from my Lord, and you have denied it.",
+            "bn": "দ্বিতীয় অর্ধেকেরও নিজস্ব আত্মীয় আছে। এই সূরারই পরের দিকে ৬:১৫০ নবী ﷺ-কে বলে, যারা আয়াতগুলো অস্বীকার করে আর আখিরাতে বিশ্বাস রাখে না, তাদের খেয়ালখুশির অনুসরণ যেন তিনি না করেন। ৪৫:১৮ বলে: আমি আপনাকে দ্বীনের ব্যাপারে একটি নির্ধারিত পথের উপর রেখেছি, সেটাই অনুসরণ করুন, যারা জানে না তাদের খেয়ালখুশির পেছনে যাবেন না। প্রতিটি জায়গায় খেয়ালখুশির বিপরীতে আছে এমন কিছু, যা দেওয়া হয়েছে: ওহী, বেঁধে দেওয়া পথ, কিংবা এসে পৌঁছানো জ্ঞান। এখানে সেটা জোগায় পরের আয়াত ৬:৫৭: বলুন, আমি আমার রবের কাছ থেকে আসা স্পষ্ট প্রমাণের উপর আছি, আর তোমরা তা অস্বীকার করেছ।"
+          },
+          {
+            "en": "6:57 and 6:58 then turn to what the idolaters were impatient for, the punishment, and say it is not in his hand: the judgement belongs to Allah alone, and had it been his, the matter would already have been settled. As for narrations, none of the commentaries fetched for this verse attaches a hadith to it, and this article does not bring in a narration from elsewhere. The verse is carried by its place in the surah and by the verses that echo it.",
+            "bn": "এরপর ৬:৫৭ ও ৬:৫৮ ফেরে সেই জিনিসের দিকে, যার জন্য মুশরিকরা তাড়াহুড়া করছিল, অর্থাৎ শাস্তি। আয়াত দুটি জানায়, তা তাঁর হাতে নেই। ফয়সালা কেবল আল্লাহর। আর তা তাঁর হাতে থাকলে বিষয়টার মীমাংসা এতদিনে হয়েই যেত। হাদীসের কথা বললে, এই আয়াতের জন্য আনা কোনো তাফসীরই এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি, আর এই প্রবন্ধও অন্য কোথাও থেকে তা টেনে আনছে না। আয়াতটির ভার বহন করে সূরার ভেতরে তার অবস্থান, আর যে আয়াতগুলো তার প্রতিধ্বনি তোলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Saying No Without Insult",
+          "bn": "গালমন্দ ছাড়াই না বলা"
+        },
+        "p": [
+          {
+            "en": "The verse answers particular people: the idolaters of the Prophet's own people, as at-Tabari names them, who invited him to share their worship. It describes what they asked and what he answered. It licenses nothing against any living person or community, and it makes no one today the target of its refusal. Later in this surah, 6:108 forbids the believers to insult those whom others call upon besides Allah, lest they insult Allah in enmity without knowledge. The refusal in 6:56 states where the speaker stands. It grants no permission for contempt.",
+            "bn": "আয়াতটি নির্দিষ্ট কিছু মানুষের জবাব: তাবারী যেমন বলেছেন, নবী ﷺ-এর নিজের কওমের সেই মুশরিকরা, যারা তাঁকে তাদের ইবাদতে শরীক হতে ডেকেছিল। তারা কী চেয়েছিল আর তিনি কী উত্তর দিয়েছিলেন, আয়াত শুধু সেটুকুই বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কাউকে এর অস্বীকারের নিশানাও বানায় না। এই সূরারই পরে ৬:১০৮ মু'মিনদের নিষেধ করেছে, আল্লাহকে বাদ দিয়ে অন্যরা যাদের ডাকে তাদের যেন তারা গালি না দেয়। নইলে ওরা শত্রুতাবশে না জেনে আল্লাহকে গালি দেবে। ৬:৫৬-এর অস্বীকার কেবল জানায়, কে কোথায় দাঁড়িয়ে। তুচ্ছতাচ্ছিল্যের কোনো অনুমতি এতে নেই।"
+          },
+          {
+            "en": "What the verse asks of a reader is narrower and harder. It asks whether one's own worship rests on something received from Allah, or only on habit and taste. It asks whether the pull of people's wishes is being passed off as reasoning. The refusal itself is stated as a fact, without insult and without debate; the reasons are given in the verses around it. And if al-Qurtubi and al-Baghawi are right that the desires here include driving away the poor, the verse also asks whom one is tempted to push aside to please the people one hopes to win.",
+            "bn": "পাঠকের কাছে আয়াতটির দাবি আরও সরু, আরও কঠিন। এটি জিজ্ঞেস করে, আমার ইবাদত কি আল্লাহর কাছ থেকে পাওয়া কিছুর উপর দাঁড়িয়ে, নাকি শুধু অভ্যাস আর রুচির উপর। জিজ্ঞেস করে, মানুষের চাওয়ার টানকে আমি যুক্তি বলে চালিয়ে দিচ্ছি কিনা। অস্বীকারটা নিজে বলা হয়েছে একটি সোজা তথ্যের মতো, গালমন্দ নেই, তর্কও নেই। কারণগুলো দেওয়া আছে আশপাশের আয়াতে। আর কুরতুবী ও বাগাভীর কথামতো যদি এখানে খেয়ালখুশির মধ্যে গরিবদের তাড়ানোও থাকে, তবে আয়াত আরেকটা প্রশ্নও রাখে: যাদের মন পেতে চাই, তাদের খুশি করতে কাকে আমি সরিয়ে দিতে প্রলুব্ধ হই?"
+          },
+          {
+            "en": "Hold the two halves together, then. The first guards worship: whatever the room wants, worship goes to Allah alone, because that is what was commanded. The second guards the reasoning that leads to worship: wanting something is not a reason for it, and the verse names where wanting alone leads, to straying and to standing outside the guided. A believer who refuses in this spirit can do it calmly, as the verse does, and still keep 6:54's greeting of peace ready.",
+            "bn": "তাহলে দুই অর্ধেককে একসঙ্গে ধরে রাখুন। প্রথম অর্ধেক ইবাদতকে পাহারা দেয়: আশপাশের লোকেরা যা-ই চাক, ইবাদত কেবল আল্লাহর, কারণ হুকুম এটাই। দ্বিতীয় অর্ধেক পাহারা দেয় সেই চিন্তাকে, যা ইবাদতে পৌঁছায়: কিছু চাওয়া মানেই সেটার পক্ষে যুক্তি নয়। আর শুধু চাওয়া কোথায় নিয়ে যায়, আয়াত তার নাম বলে দেয়: পথ হারানো, হিদায়াতপ্রাপ্তদের বাইরে দাঁড়ানো। এই মনোভাব নিয়ে যে মু'মিন না বলে, সে তা বলতে পারে শান্তভাবে, আয়াত যেমন বলেছে। আর ৬:৫৪-এর সালামটাও সে হাতের কাছে রেখে দিতে পারে।"
+          }
+        ]
+      }
+    ]
+  },
   "6:59": {
     "sections": [
       {
