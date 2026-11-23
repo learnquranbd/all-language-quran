@@ -31823,6 +31823,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Keep a limit in its purpose as well as its form; when the forbidden comes easily, that ease is the test, not a loophole.",
     "lessonBn": "সীমা মানুন তার উদ্দেশ্যসহ, শুধু চেহারায় নয়। হারাম যখন সহজে হাতের কাছে আসে, সেই সহজতাই পরীক্ষা, ফাঁকফোকর নয়।"
+  },
+  "7:130": {
+    "reflectionEn": "Before the plagues and before the sea, there were lean years. The rain failed, the harvests thinned, and the palms bore almost nothing. The verse gives its reason in a few words: so that they might remember. The commentators read this seizing as a test, not yet an ending, and one of them notes that hardship softens hearts and turns them towards what is with Allah. It did not soften Pharaoh's people. The next verse shows how they escaped it: good times were their due, and bad times were someone else's fault. This is no licence to read anyone's drought as a verdict on them. It is a question for my own lean seasons. When less comes in, what do I remember, and whom do I blame?",
+    "reflectionBn": "প্লাবন-পঙ্গপালের আগে, সমুদ্রে ডোবার আগে, এসেছিল টানাটানির কয়েকটা বছর। বৃষ্টি হয়নি, ফসল কমে গেছে, খেজুরগাছে প্রায় কিছুই ধরেনি। আয়াত কারণটা বলে দেয় অল্প কথায়: যাতে তারা উপদেশ নেয়। তাফসীরকারেরা এই পাকড়াওকে পরীক্ষা হিসেবে পড়েন, শেষ রায় হিসেবে নয়। তাঁদের একজন বলেন, কষ্ট মানুষের মন নরম করে, আল্লাহর কাছে যা আছে তার দিকে টানে। ফিরআউনের লোকদের মন তবু নরম হয়নি। পরের আয়াতেই দেখা যায় তারা কীভাবে পাশ কাটাল: সুদিন তাদের প্রাপ্য, দুর্দিন অন্যের দোষ। কারও দেশের খরাকে তাদের উপর রায় বলে পড়ার অনুমতি এ আয়াত দেয় না। প্রশ্নটা বরং আমার নিজের টানাটানির দিনগুলোর জন্য। হাতে কম এলে আমার কী মনে পড়ে, আর দোষটা আমি কার ঘাড়ে চাপাই?",
+    "pointsEn": [
+      "In my last lean stretch, did the shortage turn me towards Allah, or only towards my plans for getting out of it?",
+      "When things go well, do I call it my due, the way the next verse says Pharaoh's people did?",
+      "When things go badly, whose name do I reach for first, and is it ever my own?",
+      "Has a hardship ever softened me, and what did I do with that softness once the hardship lifted?",
+      "Have I ever looked at someone else's misfortune and quietly called it their punishment, when I had no text to say so?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন টানাটানি চলছিল, ঘাটতিটা কি আমাকে আল্লাহর দিকে ফিরিয়েছিল, নাকি শুধু বেরিয়ে আসার ফন্দির দিকে?",
+      "সময় ভালো গেলে আমি কি সেটাকে নিজের প্রাপ্য বলে ধরে নিই, পরের আয়াতে ফিরআউনের লোকেরা যেমনটা বলেছিল?",
+      "সময় খারাপ গেলে প্রথমেই কার নাম আমার মুখে আসে? সেটা কি কখনো আমার নিজের নাম হয়?",
+      "কোনো কষ্ট কি কখনো আমাকে নরম করেছিল? কষ্ট কেটে যাওয়ার পর সেই নরম ভাবটা নিয়ে আমি কী করেছি?",
+      "অন্যের বিপদ দেখে কি কখনো মনে মনে বলেছি, এটা তার শাস্তি, অথচ তা বলার মতো কোনো দলিল আমার হাতে ছিল না?"
+    ],
+    "lessonEn": "When a lean season comes, let it turn you towards Allah and soften your heart, instead of sending you to look for someone to blame.",
+    "lessonBn": "টানাটানির দিন এলে তা যেন আপনাকে আল্লাহর দিকে ফেরায় আর মন নরম করে, দোষ চাপানোর লোক খুঁজতে না পাঠায়।"
   }
 };
 

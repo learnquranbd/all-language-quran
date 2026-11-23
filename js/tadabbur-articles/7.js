@@ -7303,6 +7303,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:130": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Lean Years Enter",
+          "bn": "অভাবের বছর যেখানে শুরু"
+        },
+        "p": [
+          {
+            "en": "The verses before this belong to people. In 7:127 the chiefs urge Pharaoh on, and he vows to kill their sons and keep their women alive. In 7:128 Musa (AS) tells his people to seek help from Allah and be patient; in 7:129 they say they were harmed before he came and after, and he answers that perhaps their Lord will destroy their enemy and make them successors in the land. Then the speaker changes. Wa-laqad akhadhna: and We certainly seized.",
+            "bn": "এর আগের আয়াতগুলো মানুষের কথায় ভরা। ৭:১২৭ আয়াতে সরদারেরা ফিরআউনকে উসকে দেয়, আর সে শপথ করে, তাদের ছেলেদের হত্যা করবে, মেয়েদের বাঁচিয়ে রাখবে। ৭:১২৮ আয়াতে মূসা (আঃ) তাঁর কওমকে বলেন, আল্লাহর কাছে সাহায্য চাও, ধৈর্য ধরো। ৭:১২৯ আয়াতে তারা বলে, তিনি আসার আগেও তাদের কষ্ট দেওয়া হয়েছে, পরেও। তিনি জবাব দেন, হয়তো তোমাদের রব তোমাদের শত্রুকে ধ্বংস করবেন, দেশে তোমাদের স্থলাভিষিক্ত করবেন। এরপর বক্তা বদলে যান। ওয়া লাকাদ আখাযনা: আর আমি অবশ্যই পাকড়াও করেছিলাম।"
+          },
+          {
+            "en": "As-Sa'di frames the verse as Allah explaining how He dealt with Pharaoh's people in this last stretch, following His custom with nations: to seize them with hardship and distress so that they might humble themselves. The verse has ten Arabic words and answers three questions: whom He seized, with what, and why. At-Tabari reads Al Fir'awn as Pharaoh's people and his followers. The answer to with what is drought years and a shortfall of fruit; to why, la'allahum yadhdhakkarun: so that they might remember.",
+            "bn": "সা'দী আয়াতটিকে দেখেন এভাবে: ফিরআউনের লোকদের কাহিনির এই শেষ পর্বে আল্লাহ তাদের সঙ্গে কী আচরণ করেছিলেন, এখানে তারই বর্ণনা। তাঁর মতে এটা জাতিগুলোর সঙ্গে আল্লাহর চিরাচরিত নিয়ম। তিনি তাদের ধরেন অভাব আর কষ্ট দিয়ে, যাতে তারা বিনীত হয়। আরবিতে আয়াতটি দশটি শব্দের, আর তা তিনটি প্রশ্নের উত্তর দেয়: কাদের ধরা হলো, কী দিয়ে, আর কেন। তাবারী 'আলে ফিরআউন' বলতে বোঝেন ফিরআউনের কওম আর তার অনুসারীদের। কী দিয়ে, তার উত্তর খরার বছর আর ফলের ঘাটতি। কেন, তার উত্তর লাআল্লাহুম ইয়াযযাক্কারূন: যাতে তারা উপদেশ নেয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an calls this famine the first of the afflictions upon them, and mentions historical reports, without naming them, that it lasted seven years. The flood, locusts, lice, frogs and blood of 7:133 come later and have their own page. This article stays with the first and quietest blow: only rain that did not fall and trees that gave less. It is easy to read past, and the verse asks to be read slowly.",
+            "bn": "মাআরিফুল কুরআন এই দুর্ভিক্ষকে বলে তাদের উপর আসা বিপদগুলোর প্রথমটি। ঐতিহাসিক বর্ণনায় এটা সাতটি বছর ধরে চলেছিল বলে উল্লেখ করে, তবে কোন বর্ণনা তা বলে না। ৭:১৩৩ আয়াতের প্লাবন, পঙ্গপাল, উকুন, ব্যাঙ আর রক্ত আসে পরে, আর সেগুলোর আলোচনা আলাদা পাতায়। এ লেখা থাকবে প্রথম আর সবচেয়ে নিঃশব্দ আঘাতটির কাছে: শুধু বৃষ্টি না হওয়া, আর গাছে কম ফল ধরা। সহজেই চোখ এড়িয়ে যায়, অথচ আয়াতটি ধীরে পড়তে বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When a Year Means Drought",
+          "bn": "বছর মানে যখন খরা"
+        },
+        "p": [
+          {
+            "en": "Bi-s-sinin: with the years. Sinin is the plural of sana, a year, but al-Qurtubi says that here sana means drought, not a span of twelve months; people say a sana struck them, meaning a drought. From the same word comes asnata, said of a people struck by drought, a verb at-Tabari also gives. Al-Qurtubi cites a line of Ibn az-Ziba'ra: 'Amr al-'Ula broke bread into broth for his people, while the men of Makkah were musnitun, lean with drought.",
+            "bn": "বিস-সিনীন: বছরগুলো দিয়ে। সিনীন হলো সানার বহুবচন, সানা মানে বছর। তবে কুরতুবী বলেন, এখানে সানা মানে খরা, বারোটি মাসের হিসাব নয়। লোকে বলে, তাদের উপর সানা নেমেছে, মানে খরা নেমেছে। একই শব্দ থেকে আসে 'আসনাতা', খরায় পড়া কোনো কওমের বেলায় যা বলা হয়। তাবারীও এ ক্রিয়াটি উল্লেখ করেন। কুরতুবী ইবনুয যিবারার একটি পঙক্তি আনেন: আমর আল-উলা তার লোকদের জন্য রুটি ভেঙে ঝোলে ভিজিয়েছিলেন, যখন মক্কার পুরুষেরা ছিল মুসনিতূন, খরায় শুকিয়ে যাওয়া রোগা মানুষ।"
+          },
+          {
+            "en": "In at-Tabari, 'Abdullah ibn Mas'ud (RA) says simply: years of hunger. At-Tabari's own wording is droughts, year after year, and failures of rain; Ibn Kathir has years of hunger caused by scant crops. Al-Baghawi notes that the Arabs say the sana touched them, meaning the drought and harshness of a year, and adds, under it is said, failure of rain year after year. As-Sa'di: long stretches of time, with drought. The plural carries length: not a single bad season, but a run of them.",
+            "bn": "তাবারীতে আবদুল্লাহ ইবন মাসঊদ (রাঃ) ছোট্ট করে বলেন: ক্ষুধার বছর। তাবারীর নিজের ভাষায়: খরা, বছরের পর বছর, আর অনাবৃষ্টি। ইবন কাসীর বলেন, ফসল কম হওয়ায় ক্ষুধার বছর। বাগাভী জানান, আরবরা বলে 'সানা তাদের ছুঁয়েছে', মানে বছরের খরা আর কাঠিন্য। 'বলা হয়' কথাটি জুড়ে তিনি আরও আনেন: বছরের পর বছর অনাবৃষ্টি। সা'দী বলেন: দীর্ঘ সময়, সঙ্গে খরা। বহুবচনটি তাই দৈর্ঘ্যের খবর দেয়। এক মৌসুমের দুর্দিন নয়, একটার পর একটা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Grip That Was a Test",
+          "bn": "পাকড়াও, তবে পরীক্ষার"
+        },
+        "p": [
+          {
+            "en": "Akhadhna is a strong verb: We took hold of, We seized. Yet the commentators do not read it here as an ending. Ibn Kathir glosses it with three verbs: We tested them, examined them, tried them. At-Tabari: We tested Pharaoh's people and his followers in the misguidance they were in. The Muyassar: ibtalayna, We put to trial. The grip is real, and so is the hunger, but in their reading it is an examiner's grip, not yet the last word.",
+            "bn": "আখাযনা শক্ত একটি ক্রিয়া: আমি ধরলাম, পাকড়াও করলাম। তবু তাফসীরকারেরা এখানে একে শেষ পরিণতি হিসেবে পড়েন না। ইবন কাসীর তিনটি ক্রিয়া দিয়ে এর ব্যাখ্যা দেন: আমি তাদের পরীক্ষা করলাম, যাচাই করলাম, বিপদে ফেলে দেখলাম। তাবারী বলেন, ফিরআউনের কওম আর তার অনুসারীরা যে গোমরাহিতে ছিল, তার মধ্যেই আমি তাদের পরীক্ষা করলাম। মুয়াসসার বলে 'ইবতালাইনা', আমি পরীক্ষায় ফেললাম। পাকড়াও সত্যি, ক্ষুধাও সত্যি। কিন্তু তাঁদের পাঠে এটা পরীক্ষকের হাত, শেষ রায় তখনো আসেনি।"
+          },
+          {
+            "en": "The same surah shows the other kind. In 7:94 Allah never sent a prophet to a town without seizing its people with hardship and distress so that they might humble themselves, the wording as-Sa'di borrows here. Then 7:95: He replaced the bad with good until they multiplied and said hardship and ease had touched their fathers too, so He seized them suddenly while they did not perceive. A verb that first opens a door later, in the same surah, shuts it.",
+            "bn": "একই সূরায় অন্য ধরনের পাকড়াওও আছে। ৭:৯৪ আয়াতে আল্লাহ বলেন, তিনি যে জনপদেই নবী পাঠিয়েছেন, সেখানকার লোকদের অভাব আর কষ্ট দিয়ে ধরেছেন, যাতে তারা বিনীত হয়। এ আয়াতের ব্যাখ্যায় সা'দী ঠিক এই ভাষাই ধার নেন। তারপর ৭:৯৫। তিনি দুর্দিনকে সুদিনে বদলে দিলেন, শেষে তারা সংখ্যায় বেড়ে গেল আর বলল, সুখ-দুঃখ তো আমাদের বাপ-দাদাদেরও ছুঁয়েছিল। তখন তিনি তাদের হঠাৎ ধরলেন, তারা টেরও পেল না। যে ক্রিয়া প্রথমে দরজা খোলে, একই সূরায় পরে সেই ক্রিয়াই দরজা বন্ধ করে।"
+          },
+          {
+            "en": "Pharaoh's story runs the same way. The lean years come first; 7:131 to 7:135 record what was done with them; and 7:136 ends it: so We took retribution from them and drowned them in the sea, because they denied Our signs and were heedless of them. Between the seizing that tests and the drowning that ends lies the whole space in which they could still have remembered, and the next verses show how it was spent.",
+            "bn": "ফিরআউনের কাহিনিও চলে একই পথে। অভাবের বছরগুলো আসে প্রথমে। ৭:১৩১ থেকে ৭:১৩৫ আয়াত জানায় তারা সেগুলো নিয়ে কী করেছিল। আর ৭:১৩৬ আয়াতে কাহিনি শেষ হয়: তখন আমি তাদের থেকে প্রতিশোধ নিলাম, সমুদ্রে ডুবিয়ে দিলাম, কারণ তারা আমার নিদর্শন মিথ্যা বলেছিল আর সেগুলো থেকে গাফেল ছিল। পরীক্ষার পাকড়াও আর শেষের ডুবে মরা, এ দুইয়ের মাঝখানে পড়ে আছে পুরো একটা সময়, যখন তারা তখনো উপদেশ নিতে পারত। পরের আয়াতগুলো দেখায় সে সময় কীভাবে কাটল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Harder Blow, or Different Place",
+          "bn": "কঠিন আঘাত, না ভিন্ন জায়গা"
+        },
+        "p": [
+          {
+            "en": "The verse names two things, drought years and a shortfall of fruit, and the early interpreters asked why both. Mujahid, in two chains that at-Tabari gives through Ibn Abi Najih, answers by weight: the sinin are al-ja'iha, the calamity that sweeps everything away, and the shortfall of fruit is less than that. Ibn Kathir carries the same view. On this reading the verse moves from the heavier blow to the lighter: whole years of failure, and beside them a thinning of what still grew.",
+            "bn": "আয়াতে দুটি জিনিসের নাম আছে, খরার বছর আর ফলের ঘাটতি। প্রথম যুগের মুফাসসিরেরা প্রশ্ন তুলেছেন, দুটোই কেন। মুজাহিদ জবাব দেন ওজন দিয়ে। তাবারী ইবন আবী নাজীহের মাধ্যমে দুটি সূত্রে তাঁর কথা আনেন। সিনীন হলো আল-জাইহা, এমন বিপর্যয় যা সব ভাসিয়ে নিয়ে যায়। আর ফলের ঘাটতি তার চেয়ে হালকা। ইবন কাসীরও মুজাহিদের এই মত এনেছেন। এ পাঠে আয়াত ভারী আঘাত থেকে হালকা আঘাতের দিকে যায়। পুরো পুরো বছর ফসলহীন, আর তার পাশাপাশি যা তখনো জন্মাচ্ছিল তাও কমে আসা।"
+          },
+          {
+            "en": "Qatada, in at-Tabari, answers by place. Allah seized them with the years, with hunger, year after year. The sinin fell on their open country and on the people of their herds; the shortfall of fruit fell on their cities and villages. Al-Baghawi has it from Qatada in brief: the years for the people of the desert, the shortfall of fruit for the people of the towns. Ma'arif al-Qur'an gives the same division and names Ibn 'Abbas (RA) alongside Qatada; the chain at-Tabari prints is Qatada's alone.",
+            "bn": "কাতাদা, তাবারীর বর্ণনায়, জবাব দেন জায়গা দিয়ে। আল্লাহ তাদের ধরেছিলেন বছর দিয়ে, ক্ষুধা দিয়ে, বছরের পর বছর। সিনীন নেমেছিল তাদের গ্রামাঞ্চলে আর পশুপালকদের উপর। ফলের ঘাটতি নেমেছিল তাদের শহর আর জনপদে। বাগাভী কাতাদা থেকে কথাটা আনেন সংক্ষেপে: বছরগুলো মরুবাসীদের জন্য, ফলের ঘাটতি শহরবাসীদের জন্য। মাআরিফুল কুরআনও একই ভাগ দেয়, আর কাতাদার সঙ্গে ইবন আব্বাস (রাঃ)-এর নামও নেয়। তাবারী যে সূত্র ছেপেছেন, তা কেবল কাতাদার।"
+          },
+          {
+            "en": "One reading measures the blow and the other maps it, and the fetched commentaries keep both without choosing. What they share is reach. At-Tabari's own gloss says Allah tested them, along with the droughts, by the loss of their fruits and crops except a little, and al-Baghawi names the cause as blights and diseases. Herdsman and townsman, field and orchard: the hardship missed no part of the land. Even so, as 7:131 shows, they found someone else to carry it.",
+            "bn": "একটি পাঠ আঘাতের ওজন মাপে, অন্যটি তার মানচিত্র আঁকে। যে তাফসীরগুলো দেখা হয়েছে, সেগুলো দুটোই রাখে, কোনোটিকে বেছে নেয় না। দুটোর মিল এক জায়গায়: আঘাত সবখানে পৌঁছেছিল। তাবারীর নিজের ব্যাখ্যা বলে, খরার সঙ্গে সঙ্গে আল্লাহ তাদের ফল আর ফসল কেড়ে নিয়ে পরীক্ষা করেছেন, সামান্য কিছু ছাড়া। বাগাভী কারণ হিসেবে বলেন নানা আপদ আর রোগবালাই। পশুপালক আর শহুরে মানুষ, খেত আর বাগান, দেশের কোনো অংশ বাদ যায়নি। তবু ৭:১৩১ আয়াত দেখায়, এর বোঝা চাপানোর জন্য তারা অন্য লোক খুঁজে নিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Date on the Palm",
+          "bn": "খেজুরগাছে একটি খেজুর"
+        },
+        "p": [
+          {
+            "en": "For the shortfall of fruit, the commentators carry one picture. Abu Ishaq reports from Raja' ibn Haywa that the palm would bear only a single date. Ibn Kathir gives it in the past tense, as a description of what happened: the palm used to bear only one date. At-Tabari has it from Raja' through two further chains, and these say something else: a time will come upon people when the palm bears only one fruit. One of those two chains names its source. Raja' had it from Ka'b.",
+            "bn": "ফলের ঘাটতি বোঝাতে তাফসীরকারেরা একটি ছবি আনেন। আবু ইসহাক রাজা ইবন হাইওয়া থেকে বর্ণনা করেন, খেজুরগাছে একটির বেশি খেজুর ধরত না। ইবন কাসীর কথাটা দেন অতীত কালে, ঘটে যাওয়া ঘটনার বর্ণনা হিসেবে: খেজুরগাছে একটিমাত্র খেজুর ধরত। তাবারী রাজা থেকে আরও দুটি সূত্রে কথাটা আনেন, আর সেগুলো বলে অন্য কিছু: মানুষের উপর এমন এক সময় আসবে, যখন খেজুরগাছে একটির বেশি ফল ধরবে না। এ দুই সূত্রের একটিতে উৎসের নামও আছে। রাজা কথাটা পেয়েছিলেন কা'ব থেকে।"
+          },
+          {
+            "en": "So the same image travels in two forms: a scene from Pharaoh's Egypt in one telling, and a saying about some future time in another, which in one chain reaches Raja' from Ka'b. Neither form goes back to the Prophet ﷺ, and nothing should be built on it beyond the picture. The verse itself says less, and plainly: naqs, a shortfall. A single date on a whole palm only shows what at-Tabari's phrase, except a little, can look like.",
+            "bn": "একই ছবি তাই দুই রূপে ঘোরে। এক বর্ণনায় এটা ফিরআউনের মিসরের দৃশ্য। আরেক বর্ণনায় এটা ভবিষ্যতের কোনো সময় নিয়ে একটি কথা, যা এক সূত্রে রাজার কাছে এসেছে কা'ব থেকে। কোনো রূপই নবী ﷺ পর্যন্ত পৌঁছায় না, আর ছবিটুকুর বাইরে এর উপর কিছু দাঁড় করানো ঠিক নয়। আয়াত নিজে বলে কম, আর বলে সোজা ভাষায়: নাকস, ঘাটতি। গোটা একটা গাছে একটিমাত্র খেজুর, এ ছবি শুধু দেখায় তাবারীর 'সামান্য কিছু ছাড়া' কথাটা বাস্তবে কেমন হতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Years Like the Years of Yusuf",
+          "bn": "ইউসুফের যুগের মতো বছর"
+        },
+        "p": [
+          {
+            "en": "No sound hadith is attached to this verse in the commentaries fetched for it. Al-Qurtubi cites a prophetic du'a only to show that sana can mean drought; it is not about Pharaoh. Sahih al-Bukhari 1006 has it from Abu Hurayra (RA): when the Prophet ﷺ raised his head from bowing in the last rak'a, he would say: O Allah, rescue 'Ayyash ibn Abi Rabi'a. O Allah, rescue Salama ibn Hisham. O Allah, rescue al-Walid ibn al-Walid. O Allah, rescue the oppressed among the believers. O Allah, press hard upon Mudar. O Allah, make them years like the years of Yusuf.",
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তাতে এ আয়াতের সঙ্গে যুক্ত কোনো সহীহ হাদীস নেই। কুরতুবী নবী ﷺ-এর একটি দুআ আনেন শুধু এটা দেখাতে যে সানা মানে খরাও হয়। দুআটি ফিরআউন সম্পর্কে নয়। সহীহ বুখারী ১০০৬-এ আবু হুরাইরা (রাঃ) বর্ণনা করেন, শেষ রাকআতে রুকূ থেকে মাথা তুলে নবী ﷺ বলতেন: হে আল্লাহ, আইয়াশ ইবন আবী রাবীআকে মুক্ত করো। হে আল্লাহ, সালামা ইবন হিশামকে মুক্ত করো। হে আল্লাহ, ওয়ালীদ ইবনুল ওয়ালীদকে মুক্ত করো। হে আল্লাহ, দুর্বল মুমিনদের মুক্ত করো। হে আল্লাহ, মুদারের উপর তোমার পাকড়াও কঠিন করো। হে আল্লাহ, তাদের উপর ইউসুফের যুগের মতো বছর পাঠাও।"
+          },
+          {
+            "en": "Al-Bukhari places it in his Sahih. 'Abdullah ibn Mas'ud (RA), who glossed sinin as years of hunger, describes such a year in Sahih al-Bukhari 1007: when the Prophet ﷺ saw people turning away, he prayed for seven like Yusuf's seven, and a year seized them that wiped out everything, until they ate hides, carrion and rotting carcasses. The seven of Yusuf (AS) are in 12:47 and 12:48: seven years of steady sowing, then seven hard ones that would eat up what had been stored.",
+            "bn": "বুখারী বর্ণনাটি তাঁর সহীহ গ্রন্থে রেখেছেন। যে আবদুল্লাহ ইবন মাসঊদ (রাঃ) সিনীনের অর্থ বলেছিলেন ক্ষুধার বছর, তিনিই সহীহ বুখারী ১০০৭-এ এমন এক বছরের বর্ণনা দেন। মানুষকে মুখ ফিরিয়ে নিতে দেখে নবী ﷺ ইউসুফের সাত বছরের মতো সাত বছরের দুআ করলেন। তখন তাদের এমন এক বছর পেয়ে বসল, যা সবকিছু শেষ করে দিল। শেষে তারা চামড়া, মরা পশু আর পচা লাশ খেতে লাগল। ইউসুফ (আঃ)-এর সেই সাত বছরের কথা আছে ১২:৪৭ ও ১২:৪৮ আয়াতে: সাত বছর একটানা চাষ, তারপর সাতটি কঠিন বছর, যা জমিয়ে রাখা সব খেয়ে ফেলবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hardship That Softens Hearts",
+          "bn": "কষ্ট যখন মন নরম করে"
+        },
+        "p": [
+          {
+            "en": "La'allahum yadhdhakkarun: so that they might remember, or take heed. The commentators explain what the remembering was meant to do. At-Tabari: an admonition and a reminder to them, so that they would be held back from their misguidance and run to their Lord in repentance; the Muyassar uses nearly his words. Al-Qurtubi: so that they would take admonition and their hearts would grow tender. Al-Baghawi gives the reason the means fits the end: hardship softens hearts and makes them long for what is with Allah.",
+            "bn": "লাআল্লাহুম ইয়াযযাক্কারূন: যাতে তারা মনে করে, উপদেশ নেয়। এই মনে করা কী কাজ করার কথা ছিল, তাফসীরকারেরা তা খুলে বলেন। তাবারী বলেন, এটা ছিল তাদের জন্য নসিহত আর স্মরণ, যাতে তারা গোমরাহি থেকে থামে আর তওবা নিয়ে রবের দিকে ছুটে যায়। মুয়াসসারের ভাষা প্রায় হুবহু তাঁর মতো। কুরতুবী বলেন, যাতে তারা উপদেশ নেয় আর তাদের মন কোমল হয়। বাগাভী বলেন, কেন এই উপায়ে এই ফল আসার কথা: কষ্ট মনকে নরম করে, আর আল্লাহর কাছে যা আছে তার প্রতি আগ্রহ জাগায়।"
+          },
+          {
+            "en": "As-Sa'di puts it most sharply. They were to take heed that what had come upon them was mu'ataba from Allah, a reproach, so that they might turn back from their disbelief. Then he gives the outcome: it did not work in them or benefit them, and they carried on in wrongdoing and corruption. 7:131 shows how a people can refuse a reminder without arguing with it. When good came they said this is ours; when bad came they took Musa (AS) and those with him as an evil omen.",
+            "bn": "সা'দী কথাটা সবচেয়ে ধারালোভাবে বলেন। তাদের বোঝার কথা ছিল, যা নেমে এসেছে তা আল্লাহর পক্ষ থেকে মুআতাবা, এক রকম তিরস্কার, যাতে তারা কুফরি থেকে ফিরে আসে। তারপর তিনি ফলাফল জানান: এতে তাদের কোনো কাজ হয়নি, উপকারও হয়নি, তারা জুলুম আর ফাসাদেই লেগে থাকল। তর্ক না করেও কীভাবে উপদেশ ফিরিয়ে দেওয়া যায়, ৭:১৩১ আয়াত তা দেখায়। সুদিন এলে তারা বলত, এটা আমাদের। দুর্দিন এলে মূসা (আঃ) আর তাঁর সঙ্গীদের অলক্ষুণে বলত।"
+          },
+          {
+            "en": "La'alla, so that or perhaps, leaves the outcome open on the human side. The hardship was sent with an opening built into it, and the Qur'an keeps that shape elsewhere. In 7:168 Allah tested a people with good times and bad so that they might return, and in 32:21 He promises a nearer punishment short of the greater one, so that they might return. Remembering, in this verse, is not recalling a fact. It is turning around while the turning is still possible.",
+            "bn": "লাআল্লা মানে যাতে বা হয়তো। ফলাফলটা খোলা থাকে মানুষের দিকে। কষ্টটা পাঠানো হয়েছিল ভেতরে একটা খোলা পথ রেখে। কুরআন অন্য জায়গাতেও এ গড়ন ধরে রাখে। ৭:১৬৮ আয়াতে আল্লাহ এক জাতিকে সুদিন আর দুর্দিন দিয়ে পরীক্ষা করেছেন, যাতে তারা ফিরে আসে। ৩২:২১ আয়াতে তিনি বড় শাস্তির আগে ছোট শাস্তির কথা বলেন, যাতে তারা ফিরে আসে। এ আয়াতে মনে করা মানে কোনো তথ্য মনে পড়া নয়। ফেরার সুযোগ থাকতে থাকতে ফিরে দাঁড়ানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Drought Is Not a Verdict",
+          "bn": "খরা কোনো রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: drought years and failed fruit sent upon Pharaoh's people after they had refused Musa (AS). It licenses nothing against any living person or community. It gives no one the right to read a drought, a famine or a failed harvest in any land today as a verdict on its people, or to call anyone Pharaoh's heirs. The Qur'an named this people and their cause; it has named no one else in that way.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: মূসা (আঃ)-কে প্রত্যাখ্যান করার পর ফিরআউনের লোকদের উপর পাঠানো খরার বছর আর ফলের ঘাটতি। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজ কোনো দেশের খরা, দুর্ভিক্ষ বা ফসলহানিকে সে দেশের মানুষের উপর রায় বলে পড়ার অধিকার এটা কাউকে দেয় না। কাউকে ফিরআউনের উত্তরসূরি বলারও না। কুরআন এই জাতির নাম নিয়েছে, তাদের অপরাধও বলেছে। আর কারও বেলায় সেভাবে নাম নেয়নি।"
+          },
+          {
+            "en": "The Qur'an itself blocks the shortcut. In 2:155 Allah tells the believers that He will test them with fear and hunger and a loss of wealth, lives and fruits, the same naqs min ath-thamarat, and then says: give good news to the patient. The seven hard years of Yusuf (AS), in 12:48, came to a land that a prophet had prepared for them. The same hardship can be a reproach for one people and a trial for another, and only revelation could say which. We have revelation for Pharaoh's people. For anyone else, we do not.",
+            "bn": "কুরআন নিজেই এ সহজ রাস্তা বন্ধ করে দেয়। ২:১৫৫ আয়াতে আল্লাহ মুমিনদের বলেন, তিনি তাদের পরীক্ষা করবেন ভয়, ক্ষুধা আর সম্পদ, প্রাণ ও ফলের ঘাটতি দিয়ে। এখানে সেই একই কথা, নাকসিম মিনাস সামারাত। তারপর বলেন: ধৈর্যশীলদের সুসংবাদ দাও। ১২:৪৮ আয়াতে ইউসুফ (আঃ)-এর সাতটি কঠিন বছর এসেছিল এমন দেশে, যাকে একজন নবী আগেই সে বছরগুলোর জন্য তৈরি করে রেখেছিলেন। একই কষ্ট এক জাতির জন্য তিরস্কার, আরেক জাতির জন্য পরীক্ষা হতে পারে, আর কোনটা কী, তা বলতে পারে কেবল ওহি। ফিরআউনের লোকদের ব্যাপারে ওহি আছে। আর কারও ব্যাপারে নেই।"
+          },
+          {
+            "en": "What the verse asks is turned inward. Lean seasons come to everyone: less income, a plan that fails, a year when little grows. The verse does not tell you what yours means, and you need not decide it is a punishment. It tells you what a lean season is for: to remember, to soften, to turn towards what is with Allah. And 7:131 shows how such a season is wasted: by calling the good years your due and finding someone else to carry the bad.",
+            "bn": "আয়াত যা চায়, তা নিজের দিকে তাকানো। টানাটানির দিন সবার জীবনেই আসে: আয় কমে যায়, পরিকল্পনা ভেস্তে যায়, কোনো বছর কিছুই তেমন ফলে না। আপনার এমন দিনের মানে কী, আয়াত তা বলে না, আর একে শাস্তি বলে ধরে নেওয়ারও দরকার নেই। আয়াত বলে, টানাটানির দিন কীসের জন্য: মনে করার জন্য, নরম হওয়ার জন্য, আল্লাহর কাছে যা আছে তার দিকে ফেরার জন্য। আর ৭:১৩১ আয়াত দেখায় এমন দিন কীভাবে নষ্ট হয়। সুদিনকে নিজের প্রাপ্য বলা, আর দুর্দিনের বোঝা অন্যের কাঁধে তুলে দেওয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "7:133": {
     "sections": [
       {
