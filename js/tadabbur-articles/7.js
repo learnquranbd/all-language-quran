@@ -7903,6 +7903,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:148": {
+    "sections": [
+      {
+        "h": {
+          "en": "Meanwhile, Down in the Camp",
+          "bn": "ওদিকে নিচের শিবিরে"
+        },
+        "p": [
+          {
+            "en": "The verses before it stay on the mountain. The thirty nights are completed to forty (7:142), Musa (AS) asks to see his Lord and the mountain is levelled (7:143), he is told he was chosen with My messages and My speech (7:144), and the tablets are written for him (7:145). Then the narrative cuts back to the people he left behind: wa-ttakhadha qawmu Musa min ba'dihi, and the people of Musa took, after him.",
+            "bn": "এর আগের আয়াতগুলো পাহাড়েই আটকে থাকে। ত্রিশ রাত বাড়িয়ে চল্লিশ পূর্ণ হয় (৭:১৪২)। মূসা (আঃ) রবকে দেখতে চান, আর পাহাড় চূর্ণ হয়ে মাটিতে মিশে যায় (৭:১৪৩)। তাঁকে জানানো হয়, তাঁকে বেছে নেওয়া হয়েছে আল্লাহর রিসালাত আর কালামের জন্য (৭:১৪৪)। তাঁর জন্য ফলক লেখা হয় (৭:১৪৫)। তারপর বর্ণনা হঠাৎ ফিরে আসে নিচে, যাদের তিনি রেখে গিয়েছিলেন তাদের কাছে: ওয়াত্তাখাযা কাওমু মূসা মিন বা'দিহি, আর মূসার কওম তাঁর পরে বানিয়ে নিল।"
+          },
+          {
+            "en": "The commentators read min ba'dihi as the time of his absence. At-Tabari says it was after Musa had parted from them, going to his Lord for private converse and to keep the appointment his Lord had promised. Al-Qurtubi says after he went out to at-Tur, al-Baghawi after he set off for the mountain and the Muyassar similarly. Ibn Kathir adds that Allah told Musa (AS) of it while he was still on at-Tur, and cites 20:85. Surat al-Baqarah tells the same event briefly in 2:51 and 2:52.",
+            "bn": "মিন বা'দিহি কথাটাকে তাফসীরকারেরা পড়েন তাঁর অনুপস্থিতির সময় হিসেবে। তাবারী বলেন, মূসা তখন তাদের ছেড়ে রবের সঙ্গে একান্ত কথোপকথনে চলে গেছেন, রব যে ওয়াদা দিয়েছিলেন তা রক্ষা করতে। কুরতুবীর ভাষায় তূর পাহাড়ে যাওয়ার পর, বাগাভীর ভাষায় পাহাড়ের দিকে রওনা হওয়ার পর। মুয়াসসারও একই কথা বলে। ইবন কাসীর যোগ করেন, মূসা (আঃ) তূরে থাকতেই আল্লাহ তাঁকে খবরটা জানিয়ে দেন, আর প্রমাণ হিসেবে আনেন ২০:৮৫। সূরা বাকারার ২:৫১ ও ২:৫২ আয়াতে একই ঘটনা সংক্ষেপে এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Jewellery Carried Out of Egypt",
+          "bn": "মিসর থেকে বয়ে আনা গয়না"
+        },
+        "p": [
+          {
+            "en": "Min huliyyihim: from their ornaments. Ibn Kathir says the Israelites had borrowed them from the Copts; al-Baghawi says from Pharaoh's people. The Muyassar says only: from their gold. Al-Qurtubi gathers several reports on how the jewellery came into their hands. In one, they borrowed it from the Copts for a festival of their own, and it stayed with them when the Copts drowned. In another, it was spoil taken from Pharaoh's people after the drowning, declared unlawful to them and gathered into a pit, from which as-Samiri took it.",
+            "bn": "মিন হুলিয়্যিহিম: তাদের অলংকার থেকে। ইবন কাসীর বলেন, এগুলো ছিল কিবতীদের গয়না, বনী ইসরাঈল তাদের কাছ থেকে ধার নিয়েছিল। বাগাভীও বলেন, ফিরআউনের লোকদের কাছ থেকে ধার করা। মুয়াসসার শুধু বলে: তাদের সোনা থেকে। গয়নাগুলো কীভাবে তাদের হাতে এল, কুরতুবী সে বিষয়ে কয়েকটি বর্ণনা জড়ো করেন। একটিতে আছে, নিজেদের এক উৎসবের জন্য তারা কিবতীদের কাছ থেকে গয়না ধার নিয়েছিল। কিবতীরা ডুবে মরার পর সেগুলো তাদের হাতেই থেকে যায়। আরেকটিতে আছে, ডুবে যাওয়ার পর ফিরআউনের লোকদের কাছ থেকে নেওয়া গনীমত ছিল এগুলো। তাদের জন্য তা হালাল নয় বলে একটা গর্তে জমা করা হয়, আর সেখান থেকেই সামিরী তুলে নেয়।"
+          },
+          {
+            "en": "A third report in al-Qurtubi has them borrow it on the night they left Egypt, telling the Copts there was a wedding or a gathering. The verse settles none of this. In al-Qurtubi's account, when thirty nights had passed and Musa (AS) was late, as-Samiri, a man they obeyed, told them the jewellery was unlawful to them and asked them to bring it to be burned. Ma'arif al-Qur'an tells it the same way, ending with a golden calf cast from the melted ornaments.",
+            "bn": "কুরতুবীর তৃতীয় বর্ণনায় আছে, মিসর ছাড়ার রাতে তারা কিবতীদের বলেছিল, বিয়ে বা কোনো জমায়েত আছে, আর এই বলে গয়না ধার নিয়েছিল। আয়াত এর কোনোটারই মীমাংসা করে না। কুরতুবীর ভাষ্যে, ত্রিশ রাত পেরিয়ে যাওয়ার পরও মূসা (আঃ)-এর ফিরতে দেরি হলে সামিরী মুখ খোলে। লোকেরা তার কথা মানত। সে বলল, এই গয়না তোমাদের জন্য হারাম, যার কাছে যা আছে নিয়ে এসো, আমরা পুড়িয়ে ফেলি। মাআরিফুল কুরআনও একই কথা বলে, যার শেষে গলানো গয়না থেকে ঢালাই হয় একটা সোনার বাছুর।"
+          },
+          {
+            "en": "The word itself has several readings. Al-Qurtubi reports that the people of Madinah and Basrah read huliyyihim, with the first letter carrying u, that the Kufans other than 'Asim read hiliyyihim, with i, and that Ya'qub read halyihim, with a and a lighter form. Al-Baghawi names Hamzah and al-Kisa'i for the reading with i. At-Tabari says that both the u and the i readings are widely current, that whoever reads either is correct, and that their meaning is the same.",
+            "bn": "শব্দটির একাধিক কিরাআত আছে। কুরতুবী জানান, মদীনা ও বসরার লোকেরা পড়েন হুলিয়্যিহিম, প্রথম অক্ষরে পেশ দিয়ে। আসিম ছাড়া কূফার কারীরা পড়েন হিলিয়্যিহিম, যের দিয়ে। আর ইয়াকূব পড়েন হালয়িহিম, যবর দিয়ে, হালকা রূপে। যের দিয়ে পড়ার কিরাআতকে বাগাভী সম্পৃক্ত করেন হামযা ও কিসাঈর সঙ্গে। তাবারী বলেন, পেশ ও যের দুটো কিরাআতই ব্যাপকভাবে প্রচলিত। যে-কোনোটা পড়লেই ঠিক, কারণ দুটোর অর্থ এক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Flesh, or Gold and Wind",
+          "bn": "রক্তমাংস, নাকি সোনা আর বাতাস"
+        },
+        "p": [
+          {
+            "en": "'Ijlan jasadan lahu khuwar: a calf, a body, which had a lowing. At-Tabari defines the 'ijl as the young of a cow and khuwar as the sound cattle make. Al-Qurtubi parses jasadan as a description of the calf or a substitute for it, and gives the verb: khara, yakhuru, khuwaran, said of an animal when it cries out. He separates it from a near neighbour, khawira, which means to lose nerve and grow weak. The commentators then argue over what kind of body it was.",
+            "bn": "ইজলান জাসাদান লাহু খুওয়ার: একটা বাছুর, একটা দেহ, যার ছিল হাম্বা ডাক। তাবারী বলেন, ইজল মানে গাভীর বাচ্চা, আর খুওয়ার হলো গরুর ডাক। কুরতুবী ব্যাকরণে জাসাদানকে ধরেন বাছুরের বিশেষণ বা তার বদল হিসেবে। তিনি ক্রিয়াটাও দেখান: খারা, ইয়াখুরু, খুওয়ারান, কোনো পশু চিৎকার করে ডাকলে বলা হয়। কাছাকাছি আরেকটি শব্দ খাওয়িরা থেকে একে তিনি আলাদা করেন, যার মানে সাহস হারানো, দুর্বল হয়ে পড়া। এরপর তাফসীরকারদের মধ্যে প্রশ্ন ওঠে, দেহটা আসলে কেমন ছিল।"
+          },
+          {
+            "en": "Ibn Kathir states the disagreement and leaves it open: did the calf become flesh and blood with a lowing, or did it stay gold, with air entering it so that it sounded like cattle? Two views, he says, and Allah knows best. Al-Baghawi takes a side. He says the dust turned it into a living body of flesh and blood, and names this the view of Ibn 'Abbas (RA), al-Hasan, Qatadah and the body of the exegetes. He records the views of a lifeless gold body and of wind passing through it, and judges the first more correct.",
+            "bn": "ইবন কাসীর মতভেদটা তুলে ধরে খোলাই রেখে দেন। বাছুরটা কি রক্তমাংসের হয়ে ডাকতে শুরু করেছিল? নাকি সোনারই থেকে গিয়েছিল, আর ভেতরে বাতাস ঢুকে গরুর ডাকের মতো শব্দ হতো? তাঁর কথায়, দুটো মত আছে, আর আল্লাহই ভালো জানেন। বাগাভী কিন্তু একটা পক্ষ নেন। তাঁর মতে মাটির প্রভাবে বাছুরটা রক্তমাংসের জীবন্ত দেহ হয়ে যায়। এ মত তিনি ইবন আব্বাস (রাঃ), হাসান, কাতাদা ও তাফসীরকারদের বড় অংশের বলে উল্লেখ করেন। প্রাণহীন সোনার দেহ আর ভেতর দিয়ে বয়ে যাওয়া বাতাসের মত দুটিও তিনি উল্লেখ করেন, তবে প্রথম মতটিকেই বেশি সঠিক বলেন।"
+          },
+          {
+            "en": "The Muyassar calls it a body without a spirit, which had a sound. Al-Qurtubi takes jasad to mean solid, yet notes they heard a lowing from it. He relays al-Qaffal's explanation, that as-Samiri hollowed the calf and set it against the wind, and al-Qushayri's verdict that this account does not hold together. On how often it lowed, al-Qurtubi reports once and never again. Al-Baghawi records both once and often, with prostration each time it lowed; Wahb says it lowed without moving, and as-Suddi that it lowed and walked.",
+            "bn": "মুয়াসসার বলে, দেহটা ছিল প্রাণহীন, তবে তার আওয়াজ ছিল। কুরতুবী জাসাদের অর্থ নেন নিরেট, তবু উল্লেখ করেন যে লোকেরা তা থেকে হাম্বা ডাক শুনত। কাফফালের ব্যাখ্যাও তিনি বর্ণনা করেন। সামিরী বাছুরের পেট ফাঁপা করে বাতাসের মুখে বসিয়ে দিয়েছিল, এই ছিল তাঁর কথা। সঙ্গে আনেন কুশাইরীর রায়: এ ব্যাখ্যা নিজের মধ্যেই অসংগত। কতবার ডেকেছিল, তা নিয়েও মত আলাদা। কুরতুবী বর্ণনা করেন, একবারই ডেকেছিল, আর ডাকেনি। বাগাভী দুটোই আনেন: একবার, আবার বারবার, আর প্রতিবার ডাকলে লোকেরা সিজদায় পড়ত। ওয়াহবের মতে ডাক শোনা যেত, কিন্তু সেটা নড়ত না। সুদ্দীর মতে ডাকত, হাঁটতও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Handful From a Hoofprint",
+          "bn": "খুরের ছাপের এক মুঠো মাটি"
+        },
+        "p": [
+          {
+            "en": "This verse names neither the maker nor any dust. The commentators fill in the maker from Surah Ta-Ha. Ibn Kathir says as-Samiri shaped the calf from the Copts' ornaments, then threw into it the handful of dust he had taken from the track of the horse of Jibril (AS), and it became a body that lowed. Al-Baghawi says he threw it into the calf's mouth. As-Sa'di keeps to the Qur'an's own words in 20:96: a handful from the track of the messenger. Ma'arif al-Qur'an presents the dust as a peculiar thing that is reported.",
+            "bn": "এ আয়াতে কারিগরের নাম নেই, মাটির কথাও নেই। কারিগরের নাম তাফসীরকারেরা আনেন সূরা ত্বা-হা থেকে। ইবন কাসীর বলেন, সামিরী কিবতীদের গয়না দিয়ে বাছুরের আকৃতি বানায়। তারপর জিবরীল (আঃ)-এর ঘোড়ার পায়ের ছাপ থেকে যে এক মুঠো মাটি সে তুলে রেখেছিল, তা ভেতরে ছুড়ে দেয়। তাতেই সেটা ডাকতে থাকা এক দেহ হয়ে যায়। বাগাভীর বর্ণনায় মাটিটা ফেলা হয় বাছুরের মুখে। সা'দী থাকেন ২০:৯৬ আয়াতে কুরআনের নিজের শব্দে: রাসূলের পদচিহ্ন থেকে এক মুঠো। মাআরিফুল কুরআন মাটির ঘটনাটিকে উপস্থাপন করে বর্ণিত এক অদ্ভুত বিষয় হিসেবে।"
+          },
+          {
+            "en": "Al-Qurtubi goes further, under the words it is related in the stories of the calf: as-Samiri's own name, the village he was named after, and a childhood hidden in a mountain cave. This is story material without a chain, and this article takes nothing from it. He also relays, with no chain and no grading, an exchange between Musa (AS) and his Lord about who gave the calf its body and its sound; nothing here is built on it. What the Qur'an itself says is in 20:85: We have tried your people after you, and as-Samiri led them astray.",
+            "bn": "কুরতুবী আরও এগিয়ে যান, শুরু করেন 'বাছুরের কাহিনিতে বর্ণিত আছে' বলে। সেখানে আছে সামিরীর আসল নাম, যে গ্রামের নামে সে পরিচিত, আর পাহাড়ের গুহায় লুকিয়ে কাটানো তার শৈশব। এগুলো সনদবিহীন কাহিনি, এ লেখা সেখান থেকে কিছু নেয় না। মূসা (আঃ) ও তাঁর রবের মধ্যে একটি কথোপকথনও তিনি বর্ণনা করেন, বাছুরকে দেহ আর আওয়াজ কে দিল সে বিষয়ে। তার কোনো সনদ নেই, কোনো মানও নির্ধারিত নেই। এ লেখায় তার উপর কিছুই দাঁড় করানো হয়নি। কুরআন নিজে যা বলে তা ২০:৮৫ আয়াতে: আমি তোমার পরে তোমার কওমকে পরীক্ষায় ফেলেছি, আর সামিরী তাদের পথভ্রষ্ট করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A God That Never Answered",
+          "bn": "যে উপাস্য কখনো জবাব দেয়নি"
+        },
+        "p": [
+          {
+            "en": "Alam yaraw annahu la yukallimuhum wa la yahdihim sabila: did they not see that it does not speak to them or guide them to a way? That is the verse's whole argument. At-Tabari explains that this is not the description of their Lord, to whom worship truly belongs. His description is that He speaks to His prophets and messengers, guides His creation to the way of good, and forbids them the ways of ruin.",
+            "bn": "আলাম ইয়ারাও আন্নাহু লা ইউকাল্লিমুহুম ওয়ালা ইয়াহদীহিম সাবীলা: তারা কি দেখল না, এটা তাদের সঙ্গে কথা বলে না, কোনো পথও দেখায় না? আয়াতের পুরো যুক্তি এটুকুই। তাবারী ব্যাখ্যা করেন, ইবাদত যাঁর হক, সেই রবের গুণ এমন নয়। তাঁর গুণ হলো, তিনি নবী-রাসূলদের সঙ্গে কথা বলেন। সৃষ্টিকে কল্যাণের পথ দেখান, আর ধ্বংসের পথ থেকে নিষেধ করেন।"
+          },
+          {
+            "en": "Al-Qurtubi draws the principle: the verse shows that the One worshipped must be described as speaking, and he glosses sabil as a road to a proof. As-Sa'di presses the point. Not speaking is a great deficiency, so the worshippers were in a more complete state than the animal or lifeless object they bowed to. It showed them no path in religion and secured them no worldly good, and minds and natures agree that a god who neither speaks nor benefits nor harms is the emptiest of falsehoods. Ibn Kathir sets the verse beside 20:89: it could not return them a word.",
+            "bn": "কুরতুবী এখান থেকে একটা মূলনীতি বের করেন: আয়াত দেখায়, যাঁর ইবাদত করা হয় তাঁর কথা বলার গুণ থাকতেই হবে। সাবীলের অর্থ তিনি করেন প্রমাণে পৌঁছানোর পথ। সা'দী কথাটায় আরও জোর দেন। কথা বলতে না পারা বড় এক ঘাটতি। ফলে যারা পূজা করছিল, তারা নিজেরাই ছিল সেই পশু বা জড় বস্তুর চেয়ে পূর্ণাঙ্গ। দ্বীনের কোনো পথ সেটা দেখায়নি, দুনিয়ার কোনো উপকারও এনে দেয়নি। আর বিবেক ও ফিতরাত একমত, যে উপাস্য কথা বলে না, উপকার বা ক্ষতি কিছুই করতে পারে না, তাকে ইলাহ বানানো সবচেয়ে অসার কাজ। ইবন কাসীর আয়াতটিকে রাখেন ২০:৮৯ আয়াতের পাশে: সেটা তাদের একটা কথারও জবাব দিত না।"
+          },
+          {
+            "en": "As-Sa'di adds a theological conclusion: the verse is evidence that whoever denies Allah's speech has denied one of the properties of His divinity, because Allah made the absence of speech a proof that a thing is unfit to be a god. The passage itself supplies the contrast. In 7:143 his Lord spoke to Musa, and in 7:144 He chose him with His speech. The same root, k-l-m, returns here in la yukallimuhum. On the mountain, the Lord was speaking; in the camp, they bowed to a thing that never said a word.",
+            "bn": "সা'দী একটি আকীদাগত সিদ্ধান্তও টানেন। তাঁর মতে আয়াতটি প্রমাণ করে, যে আল্লাহর কালাম অস্বীকার করে, সে তাঁর উলূহিয়্যাতের একটি বৈশিষ্ট্যই অস্বীকার করল। কারণ কথা না বলাকে আল্লাহ নিজেই ইলাহ হওয়ার অযোগ্যতার প্রমাণ বানিয়েছেন। বৈপরীত্যটা আয়াতগুলোর ভেতরেই আছে। ৭:১৪৩ আয়াতে রব মূসা (আঃ)-এর সঙ্গে কথা বললেন, ৭:১৪৪ আয়াতে নিজের কালাম দিয়ে তাঁকে বেছে নিলেন। এখানে লা ইউকাল্লিমুহুম শব্দে সেই একই ধাতু, ক-ল-ম, আবার ফিরে আসে। পাহাড়ে রব কথা বলছিলেন। আর শিবিরে লোকেরা মাথা নোয়াচ্ছিল এমন এক জিনিসের সামনে, যে একটা শব্দও উচ্চারণ করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Sight Was Covered",
+          "bn": "দৃষ্টি যেভাবে ঢাকা পড়ল"
+        },
+        "p": [
+          {
+            "en": "How could people who had just crossed the sea do this? At-Tabari says they went astray in a way that people of sense do not, because the Lord who owns the heavens and the earth and governs them cannot be a body that lows. Yet they said, this is our god and the god of Musa, and kept to it in worship out of ignorance. As-Sa'di calls it their foolishness and lack of insight: how could the Lord of the earth and the heavens be confused, in their eyes, with a calf, among the most deficient of creatures?",
+            "bn": "সদ্য সাগর পার হয়ে আসা মানুষ এ কাজ করল কীভাবে? তাবারী বলেন, তারা এমনভাবে পথ হারাল, যেভাবে বিবেকবান মানুষ হারায় না। কারণ আসমান-জমিনের মালিক ও পরিচালক রব কখনো এমন দেহ হতে পারেন না, যা হাম্বা ডাকে। তবু তারা বলল, এটাই আমাদের ইলাহ, মূসারও ইলাহ। আর অজ্ঞতায় তারই পূজায় লেগে রইল। সা'দী একে বলেন তাদের নির্বুদ্ধিতা আর অন্তর্দৃষ্টির অভাব। আসমান-জমিনের রব তাদের চোখে কীভাবে গুলিয়ে গেলেন এক বাছুরের সঙ্গে, যা সৃষ্টির মধ্যে সবচেয়ে অসম্পূর্ণগুলোর একটি?"
+          },
+          {
+            "en": "Ibn Kathir answers that the blindness of ignorance and misguidance covered the eyes of their insight, and here he points to a narration that Ahmad and Abu Dawud record through Abu ad-Darda (RA). In Abu Dawud's wording, the Prophet ﷺ said: \"Your love for a thing causes blindness and deafness.\" Abu Dawud gives no grading of his own on it. It is a general saying, not attached to this verse; Ibn Kathir uses it to explain how attachment shuts the eyes. No tafsir fetched for this verse attaches a sound hadith to it.",
+            "bn": "ইবন কাসীর জবাব দেন: অজ্ঞতা আর পথভ্রষ্টতার অন্ধত্ব তাদের অন্তর্দৃষ্টির চোখ ঢেকে দিয়েছিল। এখানে তিনি আবুদ দারদা (রাঃ)-এর একটি বর্ণনার দিকে ইঙ্গিত করেন, যা আহমাদ ও আবূ দাঊদ সংকলন করেছেন। আবূ দাঊদের ভাষ্যে নবী ﷺ বলেছেন: \"কোনো কিছুর প্রতি তোমার ভালোবাসা অন্ধ ও বধির করে দেয়।\" আবূ দাঊদ নিজে এর কোনো মান উল্লেখ করেননি। এটা একটা সাধারণ বাণী, এ আয়াতের সঙ্গে যুক্ত নয়। আসক্তি কীভাবে চোখ বন্ধ করে দেয়, তা বোঝাতেই ইবন কাসীর এটি আনেন। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীরই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Worship Put in the Wrong Place",
+          "bn": "ভুল জায়গায় রাখা ইবাদত"
+        },
+        "p": [
+          {
+            "en": "Ittakhadhuhu wa kanu zalimin: they took it, and they were wrongdoers. The verb took returns from the verse's opening, now with the object made plain: they took it as a god. At-Tabari says they wronged themselves by worshipping what was not owed worship and assigning divinity where it does not belong. The Muyassar defines their wrong as putting a thing where it does not belong. As-Sa'di says they put worship where it has no place and associated with Allah what He had sent down no authority for.",
+            "bn": "ইত্তাখাযূহু ওয়া কানূ যালিমীন: তারা সেটাকে গ্রহণ করল, আর তারা ছিল যালিম। আয়াতের শুরুর 'বানিয়ে নিল' ক্রিয়াটা আবার ফিরে আসে, এবার উদ্দেশ্য স্পষ্ট: তারা তাকে ইলাহ বানিয়ে নিল। তাবারী বলেন, তারা নিজেদের উপর জুলুম করল। ইবাদত যার প্রাপ্য নয়, তার ইবাদত করল, আর উলূহিয়্যাত তার দিকে সম্পৃক্ত করল, যার তা নয়। মুয়াসসার তাদের জুলুমের সংজ্ঞা দেয় এভাবে: কোনো জিনিসকে তার জায়গার বাইরে রাখা। সা'দী বলেন, তারা ইবাদতকে রাখল অযথা জায়গায়, আর আল্লাহর সঙ্গে এমন কিছুকে শরীক করল, যার পক্ষে তিনি কোনো দলিল নাযিল করেননি।"
+          },
+          {
+            "en": "Al-Qurtubi gives two readings of the closing words: they were wrongdoers against themselves in what they did, or, in another view, they became wrongdoers in the sense of associating partners, by making the calf a god. Al-Baghawi glosses kanu zalimin simply as and they were disbelievers. The verse does not end the story here. The very next verse has them regret and plead for mercy (7:149), 7:152 speaks of what awaits those who took the calf, and 7:153 holds out forgiveness to those who repent after misdeeds and believe.",
+            "bn": "শেষ শব্দগুলোর দুটি ব্যাখ্যা দেন কুরতুবী। এক, যা করেছে তাতে তারা নিজেদের উপর জুলুম করেছে। দুই, আরেক মতে, বাছুরকে ইলাহ বানিয়ে তারা যালিম হয়ে গেল, অর্থাৎ মুশরিক। বাগাভী কানূ যালিমীনের সোজা অর্থ করেন: আর তারা ছিল কাফির। গল্প অবশ্য এখানে শেষ হয় না। ঠিক পরের আয়াতেই তারা অনুতপ্ত হয়ে রহমত চেয়ে মিনতি করে (৭:১৪৯)। ৭:১৫২ আয়াত জানায়, বাছুর যারা গ্রহণ করেছিল তাদের জন্য কী অপেক্ষা করছে। আর ৭:১৫৩ আয়াত মাগফিরাতের দরজা খুলে রাখে তাদের জন্য, যারা মন্দ কাজের পর তওবা করে ঈমান আনে।"
+          },
+          {
+            "en": "This verse describes what it describes: those of Musa's people who took the calf in his absence, at that time. It licenses nothing against any person or community living today, of any faith. Its warning points inward. Every reader is asked the same question the verse put to them: does the thing I am giving my devotion to speak to me with truth, and does it guide me to a road?",
+            "bn": "এ আয়াত বর্ণনা করে ঠিক ততটুকুই, যতটুকু তাতে আছে: মূসা (আঃ)-এর অনুপস্থিতিতে তাঁর কওমের যারা সেই সময় বাছুর গ্রহণ করেছিল, তাদের কথা। আজ বেঁচে থাকা কোনো মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে, তারা যে ধর্মেরই হোক, এ আয়াত কিছুরই অনুমতি দেয় না। এর সতর্কবাণীর মুখ ভেতরের দিকে। আয়াত ওদের যে প্রশ্ন করেছিল, প্রত্যেক পাঠককে সে একই প্রশ্ন করে: যাকে আমি ভক্তি দিচ্ছি, সে কি আমাকে সত্য কথা বলে? আমাকে কি কোনো পথ দেখায়?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions While the Guide Is Away",
+          "bn": "পথপ্রদর্শক দূরে থাকার দিনে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "One of al-Qurtubi's reports links the calf to a request made a few verses earlier: as-Samiri had heard them say, make for us a god as they have gods (7:138), and those gods were in the likeness of cattle. Whatever the report's worth, the verse's own details are enough. The calf was made from something they already owned and valued, it appeared while the one who reminded them was away, and it won them with a sound. Each of the three is worth looking for in my own life.",
+            "bn": "কুরতুবীর একটি বর্ণনা বাছুরটাকে জুড়ে দেয় কয়েক আয়াত আগের এক দাবির সঙ্গে। সামিরী শুনেছিল, তারা বলছে, ওদের যেমন ইলাহ আছে, আমাদের জন্যও তেমন একটা ইলাহ বানিয়ে দিন (৭:১৩৮)। আর সেই উপাস্যগুলো ছিল গরুর আদলে। বর্ণনার মান যা-ই হোক, আয়াতের নিজের খুঁটিনাটিই যথেষ্ট। বাছুরটা বানানো হয়েছিল তাদের নিজেদের কাছে থাকা দামি জিনিস দিয়ে। সেটা হাজির হয়েছিল তখন, যখন উপদেশদাতা দূরে। আর তা মন জয় করেছিল একটা আওয়াজ দিয়ে। এই তিনটির প্রতিটা আমার নিজের জীবনে কোথায় কাজ করছে, খুঁজে দেখা দরকার।"
+          },
+          {
+            "en": "What do I already own and treasure that could be melted down into something I end up serving? When the people who remind me of Allah are absent, what fills the gap? Which voices have I followed mainly because they were loud? And if I find I have bowed to a calf of my own making, will I say what they said in the next verse: if our Lord does not have mercy on us and forgive us, we will be among the losers?",
+            "bn": "আমার কাছে থাকা কোন প্রিয় জিনিস গলে গিয়ে এমন কিছুতে রূপ নিতে পারে, যার সেবায় শেষমেশ আমিই লেগে যাব? যাঁরা আমাকে আল্লাহর কথা মনে করিয়ে দেন, তাঁরা দূরে থাকলে সেই শূন্যতা কী দিয়ে ভরে ওঠে? কোন কণ্ঠস্বরের পেছনে আমি চলেছি মূলত সেগুলো জোরে বাজত বলে? আর যদি টের পাই, নিজের হাতে গড়া কোনো বাছুরের সামনে মাথা নুইয়েছি, তখন কি পরের আয়াতের সেই কথাটা বলব: আমাদের রব যদি আমাদের উপর রহম না করেন, আমাদের ক্ষমা না করেন, তবে আমরা অবশ্যই ক্ষতিগ্রস্তদের দলে যাব?"
+          }
+        ]
+      }
+    ]
+  },
   "7:150": {
     "sections": [
       {

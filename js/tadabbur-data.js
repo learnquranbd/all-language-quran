@@ -31783,6 +31783,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Refuse plainly to go back to what Allah has saved you from, and say it leaning on His will, not your own strength; firmness is His to keep.",
     "lessonBn": "আল্লাহ যা থেকে বাঁচিয়েছেন সেদিকে ফিরে যেতে স্পষ্ট ভাষায় অস্বীকার করুন, আর তা বলুন নিজের জোরে নয়, তাঁর ইচ্ছার উপর ভর দিয়ে। অবিচলতা ধরে রাখা তাঁরই হাতে।"
+  },
+  "7:148": {
+    "reflectionEn": "Musa has gone up the mountain for forty nights, and the camp below is busy. The jewellery they carried out of Egypt is melted down and shaped into a calf, a body that makes a lowing sound, and people bow to it. The verse does not argue at length. It asks one question: did they not see that it could not speak to them, nor guide them to any way? At that very hour their Lord was speaking to Musa and handing him guidance on tablets. The noise was enough for them. What in my life makes a sound and gets my devotion, though it has never told me anything true or shown me a road?",
+    "reflectionBn": "মূসা (আঃ) চল্লিশ রাতের জন্য পাহাড়ে গেছেন, আর নিচে শিবিরে চলছে অন্য তোড়জোড়। মিসর থেকে বয়ে আনা গয়না গলিয়ে বানানো হলো একটা বাছুর। একটা দেহ, যা থেকে গরুর ডাকের মতো আওয়াজ বের হয়। লোকেরা তার সামনে মাথা নোয়াল। আয়াত লম্বা তর্কে যায় না, একটা প্রশ্ন রাখে: তারা কি দেখল না, এটা তাদের সঙ্গে কথা বলে না, কোনো পথও দেখায় না? ঠিক সেই সময়েই তাদের রব মূসা (আঃ)-এর সঙ্গে কথা বলছিলেন, ফলকে লিখে দিচ্ছিলেন হিদায়াত। তবু ওদের কাছে আওয়াজটুকুই যথেষ্ট হলো। আমার জীবনে কোন জিনিস শুধু শব্দ করে আর আমার ভক্তি কেড়ে নেয়, অথচ আমাকে কোনোদিন সত্য কথা বলেনি, পথও দেখায়নি?",
+    "pointsEn": [
+      "What have I given my attention and loyalty to mainly because it is loud, new or shining?",
+      "Before I trust a voice, do I ask whether it has ever told me the truth or shown me a straight road?",
+      "When the people who remind me of Allah are absent for a while, what grows in the space they leave?",
+      "Which of my habits did I first take up because everyone around me was doing it?",
+      "When I see I have gone astray, how quickly do I turn back and ask my Lord for mercy?"
+    ],
+    "pointsBn": [
+      "কোন জিনিসকে আমি মনোযোগ আর আনুগত্য দিয়েছি শুধু এ কারণে যে তা জোরে বাজে, নতুন বা চকচকে?",
+      "কোনো কণ্ঠের উপর ভরসা করার আগে কি নিজেকে জিজ্ঞেস করি, সে কি কখনো আমাকে সত্য বলেছে বা সোজা পথ দেখিয়েছে?",
+      "যাঁরা আমাকে আল্লাহর কথা মনে করিয়ে দেন, তাঁরা কিছুদিন দূরে থাকলে সেই ফাঁকা জায়গায় কী গজিয়ে ওঠে?",
+      "আমার কোন অভ্যাসটা শুরু হয়েছিল কেবল চারপাশের সবাই করছিল বলে?",
+      "পথ হারিয়েছি টের পেলে কত তাড়াতাড়ি ফিরে এসে রবের কাছে রহমত চাই?"
+    ],
+    "lessonEn": "Whatever cannot speak to you with truth or guide you on a road has no claim on your worship, however much it glitters or however loudly it sounds.",
+    "lessonBn": "যা আপনাকে সত্য কথা বলতে পারে না, পথও দেখাতে পারে না, তা যত চকচকেই হোক আর যত জোরেই আওয়াজ করুক, আপনার ইবাদতের উপর তার কোনো দাবি নেই।"
   }
 };
 
