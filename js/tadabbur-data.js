@@ -33183,6 +33183,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The short delay the wrongdoers will beg for on that Day is the time you have now, so answer Allah's call and follow the messengers today.",
     "lessonBn": "সেদিন যালিমরা যে অল্প সময়ের জন্য মিনতি করবে, সেটাই আজ আপনার হাতে থাকা সময়। তাই আজই আল্লাহর ডাকে সাড়া দিন, রাসূলদের পথে চলুন।"
+  },
+  "15:59": {
+    "reflectionEn": "The angels have just named their errand to Ibrahim: they are sent to a people of criminals. Before that sentence can close, it turns. Except the family of Lut; we will save them all. Mercy arrives in the same breath as the verdict. Then the next verse turns again: except his wife. She lived in a prophet's house and shared his table, yet when the counting mattered she was not counted with his family. The verse tells what happened to one household long ago, and it gives me no licence to sort the people around me into saved and lost. It turns the question back on me. Am I leaning on the faith of those I live among, or holding it myself?",
+    "reflectionBn": "ফেরেশতারা এইমাত্র ইবরাহীম (আঃ)-কে নিজেদের কাজের কথা জানিয়েছেন: তাঁরা প্রেরিত হয়েছেন এক অপরাধী জাতির কাছে। কথাটা শেষ হওয়ার আগেই মোড় নেয়। তবে লূতের পরিবার বাদে, তাদের সবাইকে আমরা রক্ষা করব। রায় আর রহমত আসে একই নিঃশ্বাসে। তারপর পরের আয়াতে আবার মোড়: তবে তাঁর স্ত্রী নয়। সে থাকত এক নবীর ঘরে, খেত তাঁর দস্তরখানে। তবু যখন গোনার সময় এল, তাকে তাঁর পরিবারের মধ্যে গোনা হলো না। আয়াতটি বহু আগের এক পরিবারের ঘটনা বলে। আমার চারপাশের মানুষকে নাজাতপ্রাপ্ত আর ধ্বংসপ্রাপ্ত বলে ভাগ করার কোনো অনুমতি এতে নেই। প্রশ্নটা বরং ফিরে আসে আমার দিকে। আমি কি যাদের মাঝে থাকি তাদের ঈমানের উপর ভর দিয়ে আছি, নাকি ঈমানটা নিজে ধরে রেখেছি?",
+    "pointsEn": [
+      "If my rescue depended only on the faith I hold myself, and not on the people I am close to, how much would I actually be carrying?",
+      "Do I treat a good family, a good mosque or a good circle of friends as if belonging to it were the same as believing?",
+      "When I hear that hardship is coming, do I also look for the exception that mercy has already made inside it?",
+      "Whom in my own house do I pray for, and when did I last pray for them by name?",
+      "Have I ever used a story like this one to judge someone near me, instead of to examine myself?"
+    ],
+    "pointsBn": [
+      "আমার নাজাত যদি শুধু নিজের ধরে রাখা ঈমানের উপর নির্ভর করত, কাছের মানুষদের উপর নয়, তাহলে আসলে কতটুকু আমি নিজে বহন করছি?",
+      "ভালো পরিবার, ভালো মসজিদ বা ভালো বন্ধুমহলে থাকাকেই কি আমি ঈমান আনার সমান ধরে নিই?",
+      "বিপদ আসছে শুনলে আমি কি এটাও খুঁজি যে রহমত তার ভেতরেই কোন ব্যতিক্রম রেখে দিয়েছে?",
+      "নিজের ঘরের কার কার জন্য আমি দোয়া করি? শেষ কবে তাদের নাম ধরে দোয়া করেছি?",
+      "এমন কোনো কাহিনি দিয়ে কি কখনো কাছের কাউকে বিচার করেছি, নিজেকে যাচাই করার বদলে?"
+    ],
+    "lessonEn": "Rescue in this verse follows faith, not closeness: hold your faith as your own, pray for those you live with, and never assume a righteous house will carry you.",
+    "lessonBn": "এ আয়াতে নাজাত আসে ঈমানের পথ ধরে, ঘনিষ্ঠতার পথ ধরে নয়। ঈমানকে নিজের করে ধরে রাখুন, যাদের সঙ্গে থাকেন তাদের জন্য দোয়া করুন, আর ভাববেন না যে নেককার ঘর আপনাকে পার করে দেবে।"
   }
 };
 

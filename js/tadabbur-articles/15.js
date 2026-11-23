@@ -2183,6 +2183,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "15:59": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Exception Mid-Sentence",
+          "bn": "বাক্যের মাঝখানে ব্যতিক্রম"
+        },
+        "p": [
+          {
+            "en": "Illa ala Lutin inna la-munajjuhum ajma'in: except the family of Lut; we will surely save them all. Six words, and none of them stands alone. They finish a sentence the angels began in 15:58, in answer to the question Ibrahim (AS) put to them in 15:57 about their errand: we have been sent to a people of criminals. The verdict and the exception come in one breath, and the breath is not yet over, for 15:60 adds a second exception, his wife. Three verses, one speech, two turns.",
+            "bn": "ইল্লা আলা লূতিন, ইন্না লামুনাজ্জূহুম আজমাঈন: তবে লূতের পরিবার বাদে, তাদের সবাইকে আমরা অবশ্যই রক্ষা করব। ছয়টি শব্দ, কিন্তু কোনোটিই একা দাঁড়িয়ে নেই। ১৫:৫৭ আয়াতে ইবরাহীম (আঃ) ফেরেশতাদের জিজ্ঞেস করেছিলেন, তোমরা কোন কাজে এসেছ। ১৫:৫৮ আয়াতে তাঁরা উত্তর শুরু করেন: আমরা এক অপরাধী জাতির কাছে প্রেরিত। এ আয়াত সেই বাক্যটাই শেষ করে। রায় আর ব্যতিক্রম আসে একই নিঃশ্বাসে। নিঃশ্বাসটা তখনো ফুরায়নি, কারণ ১৫:৬০ আয়াতে আসে দ্বিতীয় ব্যতিক্রম: তাঁর স্ত্রী। তিনটি আয়াত, একটাই কথা, দুই মোড়।"
+          },
+          {
+            "en": "The commentators fill in what the sentence assumes. At-Tabari on 15:58 explains the criminals as a people who had earned disbelief in Allah. Al-Qurtubi there notes that something is left unsaid: we have been sent to a criminal people in order to destroy them. Ibn Kathir names them as the people of Lut, and the Muyassar, reading 15:58 to 15:60 as one unit, spells out the whole speech: Allah sent us to destroy the people of Lut, except Lut and his family who believed in him.",
+            "bn": "বাক্যটা যা ধরে নিয়েছে, তাফসীরকারেরা তা খুলে বলেন। ১৫:৫৮ আয়াতে তাবারী অপরাধীদের ব্যাখ্যা দেন এভাবে: এরা এমন এক জাতি, যারা আল্লাহর সঙ্গে কুফরি কামাই করেছে। কুরতুবী সেখানে দেখান, বাক্যে একটা অংশ উহ্য আছে। অর্থাৎ আমরা এক অপরাধী জাতির কাছে প্রেরিত, তাদের ধ্বংস করার জন্য। ইবন কাসীর জাতিটির নাম বলেন: লূতের কওম। মুয়াসসার ১৫:৫৮ থেকে ১৫:৬০ পর্যন্ত একসঙ্গে পড়ে পুরো কথাটা খুলে দেয়: আল্লাহ আমাদের পাঠিয়েছেন লূতের কওমকে ধ্বংস করতে, তবে লূত আর তাঁর উপর ঈমান আনা পরিবারকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Family, or Followers in Faith",
+          "bn": "পরিবার, নাকি দ্বীনের অনুসারী"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi and al-Baghawi give the same two glosses for ala Lutin: his followers, and the people of his religion. At-Tabari says the same at greater length: except those who follow Lut (AS) in the religion he holds, for we will not destroy them but save them from the punishment we were commanded to bring on his people. On this reading the word is defined by faith. The circle is whoever shares Lut's religion, whether or not they share his blood.",
+            "bn": "আলা লূতিন কথাটির জন্য কুরতুবী আর বাগাভী একই দুটি ব্যাখ্যা দেন: তাঁর অনুসারীরা, আর তাঁর দ্বীনের লোকেরা। তাবারী একই কথা আরেকটু বিস্তারে বলেন: লূত (আঃ) যে দ্বীনের উপর আছেন, তাতে যারা তাঁকে অনুসরণ করে, তারা বাদে। তাদের আমরা ধ্বংস করব না, বরং যে আযাব দিয়ে লূতের কওমকে শাস্তি দিতে আমাদের হুকুম করা হয়েছে, তা থেকে তাদের বাঁচিয়ে নেব। এই পাঠে শব্দটির সীমা টানে ঈমান। যে-ই লূতের দ্বীনে শরিক, সে-ই এই বৃত্তের ভেতরে, রক্তের সম্পর্ক থাকুক বা না থাকুক।"
+          },
+          {
+            "en": "As-Sa'di, commenting on 15:59 and 15:60 together, glosses it more narrowly: except Lut and his family. The Muyassar joins the two ideas: Lut and his family who believed in him. Here the circle is the household, and faith is the condition that keeps a member inside it. The two readings differ on what the word names, a following or a family, and none of the commentators fetched argues the point against the other. Each simply gives his gloss and moves on.",
+            "bn": "সা'দী ১৫:৫৯ ও ১৫:৬০ আয়াতের একসঙ্গে ব্যাখ্যা দিতে গিয়ে অর্থটা আরও সরু করে আনেন: লূত আর তাঁর পরিবার বাদে। মুয়াসসার দুটো ভাবনা জুড়ে দেয়: লূত আর তাঁর উপর ঈমান আনা পরিবার। এখানে বৃত্তটা ঘরের মানুষদের নিয়ে। ঘরের কেউ সেই বৃত্তে থাকবে কি না, তার শর্ত ঈমান। শব্দটা কাকে বোঝায়, অনুসারীদের দল নাকি পরিবার, এ নিয়ে দুই পাঠে পার্থক্য আছে। যাঁদের তাফসীর দেখা হয়েছে, তাঁদের কেউ অন্যের মতের বিপক্ষে যুক্তি দেননি। প্রত্যেকে নিজের ব্যাখ্যা দিয়ে সামনে এগিয়েছেন।"
+          },
+          {
+            "en": "In this story the two readings point to the same people, and the Qur'an's own words elsewhere show why. In 51:35 and 51:36: We brought out whoever was in them of the believers, and We found there only a single house of Muslims. Within this surah, the next scene opens with the messengers coming to ala Lut in 15:61, while the command in 15:65 is to set out bi-ahlika, with your family. What the text never does is count anyone in by kinship alone: the very next verse removes a wife.",
+            "bn": "এই কাহিনিতে দুই পাঠ একই মানুষদের দিকে ইঙ্গিত করে, আর কেন করে তা কুরআনের অন্য জায়গার কথাই দেখিয়ে দেয়। ৫১:৩৫ ও ৫১:৩৬ আয়াতে আল্লাহ বলছেন, সেখানে যত মুমিন ছিল আমি তাদের বের করে এনেছিলাম, আর সেখানে মুসলিমদের একটিমাত্র ঘর ছাড়া কিছু পাইনি। এই সূরাতেই পরের দৃশ্য শুরু হয় ১৫:৬১ আয়াতে, প্রেরিতরা আলা লূতের কাছে আসেন। আর ১৫:৬৫ আয়াতে হুকুম হয় বিআহলিকা, তোমার পরিবার নিয়ে বেরিয়ে পড়ো। তবে শুধু আত্মীয়তার জোরে কাউকে ভেতরে গোনা হয়নি। ঠিক পরের আয়াতেই একজন স্ত্রীকে বাদ দেওয়া হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Saved With a Doubled Jim",
+          "bn": "দ্বিত্ব জীমে রক্ষার প্রতিশ্রুতি"
+        },
+        "p": [
+          {
+            "en": "Inna la-munajjuhum: the promise is pressed hard, with inna at its head and the lam of emphasis on the noun. Al-Qurtubi and al-Baghawi record two readings of that noun. Hamza and al-Kisa'i read la-munjuhum, with a light jim, from the verb anja. The rest read la-munajjuhum, with a doubled jim, from najja. Al-Qurtubi adds that Abu 'Ubayd and Abu Hatim preferred the doubled form, and he gives one meaning for both verbal nouns, tanjiya and inja': takhlis, freeing someone from what holds him.",
+            "bn": "ইন্না লামুনাজ্জূহুম: প্রতিশ্রুতিটা খুব জোর দিয়ে বলা। শুরুতে ইন্না, আর বিশেষ্যের গায়ে জোরের লাম। কুরতুবী আর বাগাভী এই বিশেষ্যের দুটি কিরাআত উল্লেখ করেন। হামযা ও কিসাঈ পড়েন লামুনজূহুম, হালকা জীমে, আনজা ক্রিয়া থেকে। বাকিরা পড়েন লামুনাজ্জূহুম, দ্বিত্ব জীমে, নাজ্জা থেকে। কুরতুবী জানান, আবু উবাইদ ও আবু হাতিম দ্বিত্বের পাঠটাই বেছে নিয়েছেন। দুই ক্রিয়ার মূল বিশেষ্য তানজিয়া ও ইনজা, দুটোর অর্থ তিনি একটাই দেন: তাখলীস, অর্থাৎ যা আটকে রেখেছে তা থেকে কাউকে ছাড়িয়ে আনা।"
+          },
+          {
+            "en": "The difference is one of form, then, not of who is saved. Nor is the number left vague: ajma'in, all of them. Ibn Kathir's Arabic puts the promise as a report to Ibrahim (AS) that they would save ala Lut min baynihim, from among them, drawn out of a doomed people. As-Sa'di uses the same picture: as for Lut, we will bring him and his family out and save them from it. Rescue in these glosses means being taken out of the place, not spared while staying in it.",
+            "bn": "তাহলে পার্থক্যটা শব্দের গড়নে, কে রক্ষা পাবে তাতে নয়। সংখ্যাটাও অস্পষ্ট রাখা হয়নি: আজমাঈন, তাদের সবাই। ইবন কাসীরের আরবি তাফসীরে কথাটা এসেছে ইবরাহীম (আঃ)-কে দেওয়া খবর হিসেবে: তাঁরা আলা লূতকে বাঁচিয়ে নেবেন মিন বাইনিহিম, তাদের মধ্য থেকে, অর্থাৎ ধ্বংসমুখী এক জাতির ভেতর থেকে বের করে। সা'দীও একই ছবি আঁকেন: আর লূতকে আমরা তাঁর পরিবারসহ বের করে আনব এবং তা থেকে বাঁচাব। এসব ব্যাখ্যায় রক্ষা মানে জায়গাটা থেকে বের করে নেওয়া, সেখানে থেকেই রেহাই পাওয়া নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ten Less Four Less One",
+          "bn": "দশ থেকে চার, চার থেকে এক"
+        },
+        "p": [
+          {
+            "en": "Read 15:58 to 15:60 as one sentence and it holds an exception inside an exception. Al-Qurtubi, at 15:60, stops to explain how that works. He states a rule on which, he says, linguists and others do not differ: an exception from a negation is an affirmation, and an exception from an affirmation is a negation. Then he applies it as a jurist would, to an admission of debt. If a man says, I owe him ten dirhams less four less one, his admission stands at seven.",
+            "bn": "১৫:৫৮ থেকে ১৫:৬০ একটানা এক বাক্য হিসেবে পড়লে দেখা যায়, এক ব্যতিক্রমের ভেতরে আরেক ব্যতিক্রম। কুরতুবী ১৫:৬০ আয়াতে থেমে বুঝিয়ে দেন এটা কীভাবে কাজ করে। তিনি একটা নিয়ম বলেন, যা নিয়ে তাঁর ভাষায় ভাষাবিদ ও অন্যদের মধ্যে কোনো মতভেদ নেই: না-বাচক কথা থেকে ব্যতিক্রম মানে হ্যাঁ, আর হ্যাঁ-বাচক কথা থেকে ব্যতিক্রম মানে না। তারপর ফকীহের মতো তিনি এটা খাটান ঋণের স্বীকারোক্তিতে। কেউ যদি বলে, তার কাছে আমার ১০ দিরহাম দেনা, ৪ বাদে, ১ বাদে, তবে তার স্বীকারোক্তি দাঁড়ায় ৭ দিরহামে।"
+          },
+          {
+            "en": "His reasoning runs like this. The one is excepted from the four, and the four from the ten, so the one returns to the six that remained and makes seven. He gives the same rule for divorce: a man who says to his wife, you are divorced three times less two less one, has divorced her twice, because the one returns to what was left of the three. Each new exception reaches back to the one just before it, not to the head of the sentence.",
+            "bn": "তাঁর যুক্তিটা এরকম। ১ বাদ গেছে ৪ থেকে, আর ৪ বাদ গেছে ১০ থেকে। তাই ১ ফিরে যায় বাকি ৬-এর কাছে, মিলে হয় ৭। তালাকের বেলায়ও তিনি একই নিয়ম দেখান। কেউ স্ত্রীকে বলল, তোমাকে ৩ তালাক, ২ বাদে, ১ বাদে। তাহলে ২ তালাক হয়ে যায়, কারণ ১ ফিরে যায় ৩-এর যা বাকি ছিল তার কাছে। প্রতিটি নতুন ব্যতিক্রম ঠিক আগেরটার দিকে ফেরে, বাক্যের শুরুর দিকে নয়।"
+          },
+          {
+            "en": "Then the verse. The angels excepted ala Lut from the criminal people, and then excepted his wife from ala Lut, so in the interpretation, al-Qurtubi says, she returns to the criminal people. Al-Baghawi states the same rule in one line and draws the same result: she was excepted from those to be saved, and so she was joined to those to be destroyed. The grammar traces her path through the sentence: counted out of the doomed with her household, then counted back in.",
+            "bn": "এবার আয়াতে আসা যাক। ফেরেশতারা অপরাধী কওম থেকে আলা লূতকে বাদ দিলেন, তারপর আলা লূত থেকে বাদ দিলেন তাঁর স্ত্রীকে। কুরতুবী বলেন, ফলে অর্থের দিক থেকে সে ফিরে যায় অপরাধী কওমের দলে। বাগাভীও এক লাইনে একই নিয়ম বলে একই ফল টানেন: যারা রক্ষা পাবে তাদের থেকে তাকে বাদ দেওয়া হয়েছে, তাই সে যুক্ত হয়েছে ধ্বংসপ্রাপ্তদের সঙ্গে। বাক্যের ব্যাকরণই তার পথটা এঁকে দেয়। পরিবারের সঙ্গে প্রথমে সে ধ্বংসের তালিকা থেকে বাদ পড়ে, তারপর আবার সেই তালিকায় ফিরে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Decreed to Stay Behind",
+          "bn": "পেছনে থাকার ফয়সালা"
+        },
+        "p": [
+          {
+            "en": "15:60 completes the speech: qaddarna innaha la-mina al-ghabirin. At-Tabari reads qaddarna as qada: Allah decreed concerning her that she is among those who remain, and then she is destroyed. Al-Qurtubi and al-Baghawi gloss it as qadayna, we decreed, and al-Qurtubi adds wa-katabna, and we wrote. Al-Qurtubi records that Abu Bakr and al-Mufaddal read qadarna, lightened, here and in an-Naml; al-Baghawi names Abu Bakr alone. Al-Qurtubi also cites al-Harawi that the light and doubled forms mean the same.",
+            "bn": "১৫:৬০ আয়াত কথাটা শেষ করে: কাদ্দারনা ইন্নাহা লামিনাল গাবিরীন। তাবারী কাদ্দারনার অর্থ করেন কাদা, অর্থাৎ আল্লাহ তার ব্যাপারে ফয়সালা করেছেন যে সে পেছনে থেকে যাওয়াদের একজন, তারপর তাকে ধ্বংস করা হবে। কুরতুবী আর বাগাভী এর ব্যাখ্যা দেন কাদাইনা, আমরা ফয়সালা করেছি। কুরতুবী সঙ্গে যোগ করেন ওয়া কাতাবনা, আর আমরা লিখে রেখেছি। কুরতুবী জানান, আবু বকর ও মুফাদ্দাল এখানে আর সূরা আন-নামলে হালকা করে পড়েন কাদারনা। বাগাভী শুধু আবু বকরের নাম নেন। কুরতুবী হারাবীর কথাও আনেন: হালকা আর দ্বিত্ব, দুই রূপের অর্থ একই।"
+          },
+          {
+            "en": "Who is the we? The English translation used here puts Allah in the bracket. The Muyassar keeps the angels as speakers: we decreed, by Allah's command, her destruction with those who remain in the punishment. The Bengali translation here makes the same move, with Allah's command in brackets. Either way the decree is Allah's. Al-ghabir, al-Qurtubi says, is the one who remains, and he cites a line of verse in which aghbar means the remnants of milk. Ibn Kathir glosses those who remain and are destroyed.",
+            "bn": "এই আমরা কারা? এখানে ব্যবহৃত ইংরেজি অনুবাদ বন্ধনীতে আল্লাহর নাম বসিয়েছে। মুয়াসসার বক্তা হিসেবে ফেরেশতাদেরই রাখে: আমরা আল্লাহর হুকুমে ফয়সালা করেছি, আযাবে পেছনে থাকা লোকদের সঙ্গে তাকেও ধ্বংস করা হবে। এখানকার বাংলা অনুবাদও একই পথে গেছে, বন্ধনীতে আল্লাহর নির্দেশের কথা বলে। যেভাবেই পড়া হোক, ফয়সালা আল্লাহর। কুরতুবী বলেন, গাবির মানে যে বাকি থাকে। তিনি একটি কবিতার চরণ আনেন, যেখানে আগবার মানে দুধের অবশিষ্টাংশ। ইবন কাসীরের ব্যাখ্যা: যারা পেছনে থেকে যায় এবং ধ্বংস হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "She Pointed Out the Guests",
+          "bn": "অতিথিদের খবর দিত যে"
+        },
+        "p": [
+          {
+            "en": "Why she was excepted, these verses do not say in so many words. The commentators fetched for them give one reason. Al-Qurtubi, at 15:60: she was a disbeliever, kafira, and so she joined the criminals in their destruction. The Muyassar calls her his disbelieving wife. Ibn Kathir's abridged English says only that she was one of those who were doomed. None of them, on these verses, tells what she did. For that one has to go where the Qur'an names her again.",
+            "bn": "কেন তাকে বাদ দেওয়া হলো, এ আয়াতগুলো তা সরাসরি বলে না। এখানকার যে তাফসীরগুলো দেখা হয়েছে, সেগুলো একটাই কারণ দেয়। ১৫:৬০ আয়াতে কুরতুবী বলেন, সে ছিল কাফির, তাই ধ্বংসে সে অপরাধীদের সঙ্গে যুক্ত হলো। মুয়াসসার তাকে বলে লূতের কাফির স্ত্রী। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর শুধু বলে, সে ছিল ধ্বংস হতে যাওয়াদের একজন। এ আয়াতগুলোর আলোচনায় তাঁদের কেউ বলেন না সে কী করেছিল। তা জানতে যেতে হয় সেই আয়াতে, যেখানে কুরআন আবার তার কথা বলে।"
+          },
+          {
+            "en": "That is 66:10, where the wife of Nuh and the wife of Lut are set out as an example for those who disbelieved: they were under two of Our righteous servants, fa-khanatahuma, and they betrayed them, and the two prophets availed them nothing against Allah. At-Tabari, on 66:10, relays from Ibn 'Abbas by several chains that the betrayal of Lut's wife was that she pointed out his guests. He relays from ad-Dahhak that no prophet's wife ever committed indecency; they betrayed them in religion.",
+            "bn": "আয়াতটি ৬৬:১০। সেখানে কুফরির পথ যারা ধরেছে, তাদের দৃষ্টান্ত হিসেবে আল্লাহ পেশ করেন নূহ (আঃ)-এর স্ত্রী আর লূত (আঃ)-এর স্ত্রীকে। তারা ছিল আল্লাহর দুই নেককার বান্দার অধীনে, ফাখানাতাহুমা, তবু তারা তাঁদের সঙ্গে খিয়ানত করল। দুই নবী আল্লাহর কাছে তাদের কোনো কাজে আসেননি। ৬৬:১০ আয়াতের তাফসীরে তাবারী একাধিক সনদে ইবন আব্বাস (রাঃ) থেকে বর্ণনা আনেন: লূতের স্ত্রীর খিয়ানত ছিল এই যে, সে তাঁর অতিথিদের খবর লোকদের জানিয়ে দিত। দাহহাক থেকে তিনি আনেন, কোনো নবীর স্ত্রী কখনো অশ্লীল কাজ করেনি। তারা খিয়ানত করেছিল দ্বীনের ব্যাপারে।"
+          },
+          {
+            "en": "In another of at-Tabari's reports Sa'id ibn Jubayr, asked the same question, says she used to point out the guests, and that he had no knowledge about the wife of Nuh. Ibn Kathir's abridged English on 66:10 reads the betrayal as one of faith, since they did not accept the message their husbands brought, and adds that she would inform the people of the city whenever her husband had a guest. These explain 66:10 and come from a Companion and Successors, not from the Prophet ﷺ.",
+            "bn": "তাবারীর আরেক বর্ণনায় সাঈদ ইবন জুবাইরকে একই প্রশ্ন করা হলে তিনি বলেন, লূতের স্ত্রী অতিথিদের খবর দিয়ে দিত। আর নূহের স্ত্রীর ব্যাপারে তিনি বলেন, এ বিষয়ে আমার জানা নেই। ৬৬:১০ আয়াতে ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর খিয়ানতকে ঈমানের খিয়ানত বলে পড়ে, কারণ স্বামীরা যে বার্তা এনেছিলেন তারা তা কবুল করেনি। সঙ্গে যোগ করে, স্বামীর ঘরে অতিথি এলেই সে শহরের লোকদের জানিয়ে দিত। এসব কথা ৬৬:১০ আয়াতের ব্যাখ্যা। এসেছে একজন সাহাবী ও কয়েকজন তাবেঈ থেকে, নবী ﷺ থেকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ibrahim Pleads for the Town",
+          "bn": "জনপদের জন্য ইবরাহীমের মিনতি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di carries the scene a step past the verse. When the angels named the town, Ibrahim (AS) began to argue with the messengers over its destruction and to go back over it with them, until he was told, in the words of 11:76: O Ibrahim, turn away from this; the command of your Lord has come, and there will reach them a punishment that cannot be turned back. Then they left him. The Qur'an itself, in 11:74 and 11:75, calls him forbearing, tender-hearted and ever-turning to Allah.",
+            "bn": "সা'দী দৃশ্যটাকে আয়াত পেরিয়ে আরেক ধাপ এগিয়ে নেন। ফেরেশতারা জনপদের নাম বলার পর ইবরাহীম (আঃ) তার ধ্বংস নিয়ে প্রেরিতদের সঙ্গে তর্ক শুরু করলেন, বারবার কথাটা তাঁদের কাছে ফিরিয়ে আনলেন। শেষে তাঁকে বলা হলো, ১১:৭৬ আয়াতের ভাষায়: হে ইবরাহীম, এ থেকে বিরত হও। তোমার রবের হুকুম এসে গেছে, আর তাদের উপর এমন আযাব আসছে যা ফেরানো যাবে না। তারপর তাঁরা তাঁর কাছ থেকে চলে গেলেন। কুরআন নিজেই ১১:৭৪ ও ১১:৭৫ আয়াতে তাঁকে বলেছে সহনশীল, কোমলহৃদয় আর বারবার আল্লাহমুখী।"
+          },
+          {
+            "en": "Surah al-'Ankabut gives his first concern in his own words. In 29:32 he says, within it is Lut, and they answer, we know better who is in it; we will surely save him and his family, except his wife. His worry was for the believer inside the town, and the answer to it is the very exception of 15:59. Ibn Kathir's abridged English places Ibrahim's question about their errand after he had calmed from the excitement of the good news of a son.",
+            "bn": "সূরা আল-আনকাবূতে তাঁর প্রথম দুশ্চিন্তাটা আসে তাঁর নিজের মুখে। ২৯:৩২ আয়াতে তিনি বলেন, সেখানে তো লূত আছেন। তাঁরা উত্তর দেন, সেখানে কে আছে আমরা ভালো জানি। আমরা অবশ্যই তাঁকে আর তাঁর পরিবারকে বাঁচাব, তবে তাঁর স্ত্রীকে নয়। তাঁর চিন্তা ছিল জনপদের ভেতরে থাকা মুমিনকে নিয়ে, আর তার জবাব হুবহু ১৫:৫৯ আয়াতের ব্যতিক্রমটাই। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর বলে, পুত্রের সুসংবাদের উত্তেজনা থিতিয়ে আসার পরই ইবরাহীম (আঃ) তাঁদের আগমনের কারণ জিজ্ঞেস করেছিলেন।"
+          },
+          {
+            "en": "The same shape recurs across the Qur'an's tellings: him and his family, all of them, except an old woman among those who remained, in 26:170 and 26:171 and again in 37:134 and 37:135; him and his family except his wife, in 7:83 and 27:57. No tafsir fetched for 15:59 attaches a hadith of the Prophet ﷺ to it, and none gives an occasion of revelation for it. The verse belongs to the flow of the story, one clause inside the angels' answer.",
+            "bn": "কুরআনের বিভিন্ন বর্ণনায় একই গড়ন ফিরে ফিরে আসে। ২৬:১৭০ ও ২৬:১৭১ আয়াতে, আবার ৩৭:১৩৪ ও ৩৭:১৩৫ আয়াতে: তাঁকে আর তাঁর পরিবারের সবাইকে, তবে পেছনে থাকা এক বৃদ্ধাকে বাদে। ৭:৮৩ ও ২৭:৫৭ আয়াতে: তাঁকে আর তাঁর পরিবারকে, তবে তাঁর স্ত্রীকে বাদে। ১৫:৫৯ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটি এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করে না, কোনো শানে নুযূলও বলে না। আয়াতটি কাহিনির ধারার অংশ, ফেরেশতাদের জবাবের ভেতরের একটি অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Rescue, Not a Sorting",
+          "bn": "নাজাতের কাহিনি, বাছাইয়ের নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: a judgement Allah sent on one people of the past, and a rescue He made for those of Lut's house who believed. It licenses nothing against any living person or community. It names no one today as the criminals of 15:58, and it gives no one the right to treat a neighbour, a relative or a spouse as the wife of 15:60. The decree in it was Allah's, carried by angels and announced to a prophet. No reader inherits it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি ঠিক ততটুকুই বলে, যতটুকু তাতে আছে: অতীতের একটি জাতির উপর আল্লাহর পাঠানো ফয়সালা, আর লূত (আঃ)-এর ঘরের মুমিনদের জন্য তাঁর দেওয়া নাজাত। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। ১৫:৫৮ আয়াতের অপরাধী বলে আজকের কাউকে সে চিহ্নিত করে না। প্রতিবেশী, আত্মীয় বা জীবনসঙ্গীকে ১৫:৬০ আয়াতের সেই স্ত্রীর জায়গায় বসানোর অধিকারও কাউকে দেয় না। ফয়সালাটা ছিল আল্লাহর, ফেরেশতারা তা বহন করেছেন, জানানো হয়েছে এক নবীকে। কোনো পাঠক তার উত্তরাধিকারী নন।"
+          },
+          {
+            "en": "What the verse does hand the reader is a measure for himself. Lut's wife lived as close to a prophet as anyone could, and closeness did not count. The believers of that town were a single house, and their small number did not count against them. The exception is drawn along the line of faith. A reader who lives in a good house can thank Allah for it and still ask whether the faith in it is his own, and, when hardship is announced, look first, as Ibrahim (AS) did, for the believer inside it.",
+            "bn": "আয়াতটি পাঠকের হাতে যা তুলে দেয়, তা নিজেকে মাপার একটা মাপকাঠি। লূতের স্ত্রী একজন নবীর যত কাছে থাকা সম্ভব, তত কাছেই থাকত। তবু সেই নৈকট্য কোনো কাজে আসেনি। আবার সেই জনপদের মুমিনরা ছিলেন মাত্র একটি ঘর, অথচ সংখ্যায় কম হওয়াটা তাঁদের বিপক্ষে যায়নি। ব্যতিক্রমের রেখা টানা হয়েছে ঈমান ধরে। ভালো ঘরে যিনি থাকেন, তিনি এর জন্য আল্লাহর শুকরিয়া আদায় করতে পারেন, আবার নিজেকে জিজ্ঞেসও করতে পারেন: এ ঘরের ঈমানটা কি আমার নিজের? আর বিপদের খবর এলে ইবরাহীম (আঃ)-এর মতো আগে খুঁজতে পারেন, তার ভেতরে কোন মুমিন আছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "15:63": {
     "sections": [
       {
