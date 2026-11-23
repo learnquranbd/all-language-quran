@@ -31183,6 +31183,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold to what Allah sent down when other people's wishes pull against it, race toward good deeds, and leave the final settling of differences to Allah.",
     "lessonBn": "মানুষের খেয়ালখুশি উল্টো দিকে টানলেও আল্লাহর নাযিল করা বিধান আঁকড়ে থাকুন, নেক কাজে এগিয়ে যান, আর মতভেদের চূড়ান্ত মীমাংসা আল্লাহর হাতে ছেড়ে দিন।"
+  },
+  "6:16": {
+    "reflectionEn": "The verse before this one has the Prophet ﷺ say that he fears the punishment of a tremendous Day. This verse answers that fear: whoever has it turned away from him that Day has been shown mercy, and that is the clear win. Notice what the verse counts as winning. Not a rank, not a prize weighed out, but simply being spared. And the sparing is called mercy, something given rather than collected. Most of my plans for success are about adding things: money, standing, a finished list. This verse asks a quieter question. If everything else in my life went right and this one thing went wrong, would I still call it a success?",
+    "reflectionBn": "আগের আয়াতে নবী ﷺ-কে দিয়ে বলানো হয়েছে, তিনি এক মহাদিবসের শাস্তিকে ভয় করেন। এ আয়াত সেই ভয়ের জবাব দেয়: সেদিন যার উপর থেকে শাস্তি সরিয়ে নেওয়া হবে, তাকে রহমত করা হলো, আর সেটাই সুস্পষ্ট সাফল্য। খেয়াল করুন, আয়াতটি কোন জিনিসকে জয় বলছে। কোনো পদমর্যাদা নয়, মেপে দেওয়া পুরস্কারও নয়, শুধু বেঁচে যাওয়া। আর সেই বেঁচে যাওয়ার নাম রহমত, যা পাওয়া যায় দান হিসেবে, পাওনা হিসেবে আদায় করা যায় না। সাফল্য নিয়ে আমার বেশিরভাগ পরিকল্পনা কিছু না কিছু যোগ করার: টাকা, সম্মান, শেষ করা কাজের তালিকা। এ আয়াত আরও নিচু গলায় একটা প্রশ্ন রাখে। জীবনের বাকি সব ঠিকঠাক হলো, শুধু এই একটা জিনিস হলো না, তবু কি আমি একে সফল জীবন বলব?",
+    "pointsEn": [
+      "If I wrote down what I would call a successful life, how much of that list would still count on the Day this verse describes?",
+      "Do I think of being spared that Day as something my record has earned, or as a mercy I am still asking for?",
+      "When did I last ask Allah, in my own words, to turn the punishment of that Day away from me?",
+      "What loss in this world am I working hard to avoid that I have never once weighed against the loss the verse means?",
+      "Which good deed have I been putting off because I quietly assume I am already safe?"
+    ],
+    "pointsBn": [
+      "সফল জীবন বলতে আমি যা বুঝি তার একটা তালিকা লিখলে, আয়াতে বলা সেই দিনে তার কতটুকু টিকবে?",
+      "সেদিন রক্ষা পাওয়াকে আমি কি নিজের আমলনামার পাওনা মনে করি, নাকি এমন রহমত, যা এখনো আমাকে চেয়ে যেতে হবে?",
+      "শেষ কবে নিজের ভাষায় আল্লাহর কাছে চেয়েছি, সেদিনের শাস্তি যেন তিনি আমার উপর থেকে সরিয়ে দেন?",
+      "দুনিয়ার কোন ক্ষতি এড়াতে আমি প্রাণপণ খাটছি, অথচ আয়াতে যে ক্ষতির কথা, তার পাশে রেখে সেটা একবারও মেপে দেখিনি?",
+      "নিজেকে মনে মনে নিরাপদ ধরে নিয়েছি বলে কোন নেক কাজটা আমি ফেলে রাখছি?"
+    ],
+    "lessonEn": "Count being spared on that Day as the real win, and ask for it as a mercy rather than claim it as a wage.",
+    "lessonBn": "সেদিন রক্ষা পাওয়াকেই আসল জয় বলে গণ্য করুন, আর তা পারিশ্রমিক হিসেবে দাবি না করে রহমত হিসেবে চেয়ে নিন।"
   }
 };
 

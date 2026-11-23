@@ -715,6 +715,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:16": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Fear Gets Its Answer",
+          "bn": "ভয়ের জবাব মিলল"
+        },
+        "p": [
+          {
+            "en": "6:15 ends on fear. The Prophet ﷺ is commanded to say that he fears, if he should disobey his Lord, the punishment of a tremendous Day. 6:16 follows without a fresh command to say, and completes the thought: man yusraf 'anhu yawma'idhin faqad rahimahu, wa dhalika al-fawz al-mubin. He from whom it is averted on that Day has been shown mercy, and that is the clear attainment. The thing averted is not named. Ibn Kathir supplies it: the punishment named in the verse before.",
+            "bn": "৬:১৫ আয়াত শেষ হয় ভয়ের কথায়। নবী ﷺ-কে বলতে বলা হয়, তিনি যদি রবের নাফরমানি করেন, তবে এক মহাদিবসের শাস্তিকে তিনি ভয় করেন। ৬:১৬ আয়াতে নতুন করে বলার আদেশ আসে না, আগের কথাটাই পূর্ণ হয়: মান ইউসরাফ আনহু ইয়াওমাইযিন ফাকাদ রাহিমাহু, ওয়া যালিকাল ফাওযুল মুবীন। সেদিন যার উপর থেকে তা সরিয়ে নেওয়া হবে, তাকে রহমত করা হলো, আর এটাই সুস্পষ্ট সাফল্য। কী সরানো হবে, আয়াতে তার নাম নেই। ইবন কাসীর তা পূরণ করে দেন: শাস্তি, আগের আয়াতে যার উল্লেখ।"
+          },
+          {
+            "en": "As-Sa'di reads the two verses as one argument. He explains why that Day is the one whose punishment is to be feared: because whoever has the punishment turned away from him then is the one shown mercy, and whoever is rescued in it is the one who has truly won, just as whoever is not rescued from it is the ruined and wretched one. None of the commentaries fetched for 6:16 gives an occasion of revelation for it, so its place in the passage does the explaining.",
+            "bn": "সা'দী দুটি আয়াতকে একটিই যুক্তি হিসেবে পড়েন। তিনি ব্যাখ্যা করেন, কেন সেই দিনের শাস্তিকেই ভয় করতে হবে। কারণ সেদিন যার উপর থেকে শাস্তি ফিরিয়ে নেওয়া হবে, সে-ই রহমতপ্রাপ্ত। সেদিন যে রক্ষা পাবে, সে-ই সত্যিকারের সফল। আর যে রক্ষা পাবে না, সে-ই ধ্বংসপ্রাপ্ত, হতভাগা। ৬:১৬ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিতেই এর নাযিলের প্রেক্ষাপট নেই। তাই আয়াতটি কোথায় বসেছে, সেটাই এর ব্যাখ্যার কাজ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Does the Averting",
+          "bn": "সরিয়ে দেন কে"
+        },
+        "p": [
+          {
+            "en": "The commentators record two ways of voicing the first verb. At-Tabari reports that most readers of the Hijaz, Madinah and Basra read yusraf, with a damma on the ya and a fatha on the ra: whoever has the punishment averted from him, with no doer named. Most readers of Kufa read yasrif, with a fatha on the ya and a kasra on the ra: whoever Allah averts the punishment from. Al-Baghawi names the readers of the second: Hamza, al-Kisa'i, Abu Bakr from Asim, and Ya'qub. The rest, he says, read the first.",
+            "bn": "প্রথম ক্রিয়াটি দুইভাবে পড়ার কথা তাফসীরকারেরা উল্লেখ করেন। তাবারী জানান, হিজায, মদীনা ও বসরার অধিকাংশ কারী পড়েছেন ইউসরাফ, ইয়া-তে পেশ আর রা-তে যবর দিয়ে। অর্থ দাঁড়ায়: যার উপর থেকে শাস্তি সরানো হবে, কে সরাবেন তার নাম না নিয়ে। কুফার অধিকাংশ কারী পড়েছেন ইয়াসরিফ, ইয়া-তে যবর আর রা-তে যের দিয়ে। তখন অর্থ: আল্লাহ যার উপর থেকে শাস্তি সরিয়ে দেবেন। দ্বিতীয় পাঠের কারীদের নাম দেন বাগাভী: হামযা, কিসাঈ, আসিম থেকে আবূ বকর এবং ইয়াকুব। তাঁর কথায়, বাকিরা প্রথম পাঠে পড়েছেন।"
+          },
+          {
+            "en": "At-Tabari states his own preference for yasrif, and draws the reason from the same verse. The next clause is faqad rahimahu, He has had mercy on him, which names its doer. Had the first verb been meant with no doer named, he argues, the natural continuation would have been faqad ruhima, he has been shown mercy. The named doer in the second clause is, for him, a clear sign of a named doer in the first. His paraphrase follows: whoever of His creation Allah turns His punishment from on that Day, He has had mercy on him.",
+            "bn": "তাবারী নিজে ইয়াসরিফ পাঠটিকে অগ্রাধিকার দেন, আর এর যুক্তি নেন এই আয়াত থেকেই। পরের বাক্যাংশ ফাকাদ রাহিমাহু, অর্থাৎ তিনি তার উপর রহম করেছেন। এখানে কর্তার উল্লেখ আছে। তাঁর যুক্তি, প্রথম ক্রিয়ায় কর্তা অনুল্লেখিত থাকলে স্বাভাবিকভাবে পরের কথা হতো ফাকাদ রুহিমা, তাকে রহম করা হয়েছে। দ্বিতীয় অংশে কর্তার নাম থাকাটা তাঁর চোখে স্পষ্ট প্রমাণ যে প্রথম অংশেও কর্তা আছেন। এরপর তিনি পুরো কথাটা এভাবে বলেন: আল্লাহ তাঁর সৃষ্টির যার উপর থেকে সেদিন নিজের শাস্তি ফিরিয়ে নেবেন, তার উপর তিনি রহম করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Less Left Unsaid",
+          "bn": "যত কম উহ্য, তত ভালো"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi keeps both sides on the page. For yasrif, the Kufan reading, he cites Abu Hatim and Abu Ubayd, who chose it for three reasons: the words of 6:12, say: to Allah, which keep Allah in view as the One spoken of; the clause faqad rahimahu, which is not put in the passive; and a reading he attributes to Ubayy (RA), man yasrifhu Allahu 'anhu, which names Allah outright. That is at-Tabari's argument from the second verb, with two further supports set beside it.",
+            "bn": "কুরতুবী দুই পক্ষকেই তুলে ধরেন। কুফার পাঠ ইয়াসরিফের পক্ষে তিনি আনেন আবূ হাতিম ও আবূ উবাইদকে। তাঁরা এ পাঠ বেছে নিয়েছিলেন তিনটি কারণে। প্রথমত ৬:১২ আয়াতের কথা, বল: আল্লাহর, যা আল্লাহকেই আলোচনার কেন্দ্রে রাখে। দ্বিতীয়ত ফাকাদ রাহিমাহু, যা কর্মবাচ্যে বলা হয়নি। তৃতীয়ত উবাই (রাঃ)-এর নামে বর্ণিত একটি পাঠ, মান ইয়াসরিফহুল্লাহু আনহু, যেখানে আল্লাহর নাম সরাসরি আছে। এটা তাবারীর সেই দ্বিতীয় ক্রিয়ার যুক্তিই, সঙ্গে আরও দুটি সমর্থন জুড়ে দেওয়া।"
+          },
+          {
+            "en": "Against them al-Qurtubi sets Sibawayh, who preferred the first reading, that of the people of Madinah and of Abu Amr. His principle, as al-Qurtubi reports it: the less that has to be supplied in speech, the better. Al-Qurtubi spells out what each reading needs. With yasrif the sense is whoever Allah averts the punishment from; with yusraf it is whoever has the punishment averted from him. Sibawayh and those who chose yasrif disagree, the commentary records the disagreement, and both readings are transmitted. Both agree that the punishment is what is turned away, and both go on to say whose mercy it is. This article takes no side.",
+            "bn": "এর বিপরীতে কুরতুবী আনেন সিবাওয়াইহকে। তিনি প্রথম পাঠটি পছন্দ করেছিলেন, যা মদীনাবাসী ও আবূ আমরের পাঠ। কুরতুবীর বর্ণনায় তাঁর মূলনীতি: কথার ভেতরে যত কম জিনিস উহ্য রাখতে হয়, ততই উত্তম। কোন পাঠে কী উহ্য থাকে, কুরতুবী তা খুলে দেখান। ইয়াসরিফ পড়লে অর্থ: আল্লাহ যার উপর থেকে শাস্তি সরিয়ে দেন। ইউসরাফ পড়লে অর্থ: যার উপর থেকে শাস্তি সরানো হয়। সিবাওয়াইহ আর ইয়াসরিফ পছন্দকারীদের মধ্যে মতভেদ আছে, তাফসীরে সেটা মতভেদ হিসেবেই লেখা, আর দুটি পাঠই বর্ণিত। তবে দুই পাঠেই সরিয়ে নেওয়া হয় শাস্তি, আর দুই পাঠেই পরের কথা বলে দেয় রহমতটা কার। এ লেখা কোনো পক্ষ নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Counts as the Win",
+          "bn": "জয় বলে কাকে"
+        },
+        "p": [
+          {
+            "en": "Then the verdict: wa dhalika al-fawz al-mubin. At-Tabari says that dhalika, that, points to Allah's turning the punishment from him on the Day of Resurrection and His mercy to him. Al-fawz, he says, is rescue from destruction and success in what was sought, and al-mubin is the kind that makes plain to whoever sees it that the need was met and the goal reached. Ibn Kathir gives a trader's definition: al-fawz is the gaining of profit and the removal of loss.",
+            "bn": "তারপর রায়: ওয়া যালিকাল ফাওযুল মুবীন। তাবারী বলেন, যালিকা অর্থাৎ ওটা বলতে বোঝানো হয়েছে কিয়ামতের দিন তার উপর থেকে আল্লাহর শাস্তি ফিরিয়ে নেওয়া আর তার উপর তাঁর রহমত। তাঁর ব্যাখ্যায় ফাওয মানে ধ্বংস থেকে মুক্তি আর যা চাওয়া হয়েছিল তা হাতে পাওয়া। আর মুবীন হলো এমন সাফল্য, যা দেখামাত্র যে কেউ বুঝবে প্রয়োজন মিটেছে, লক্ষ্যে পৌঁছানো গেছে। ইবন কাসীর ব্যবসায়ীর ভাষায় সংজ্ঞা দেন: ফাওয মানে লাভ ঘরে তোলা আর লোকসান দূর হওয়া।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi both gloss al-fawz al-mubin as clear rescue, and al-Qurtubi folds the verse into three verbs: he has won, he has escaped, and he has been shown mercy. The Muyassar calls the averting itself the evident triumph of rescue from the tremendous punishment. All of these place the win in being spared. Ma'arif al-Qur'an reads the word differently: al-fawz, it says, means being admitted to Paradise, and it concludes that deliverance from punishment and admission to Paradise cannot be separated.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই আল-ফাওযুল মুবীনের অর্থ করেন সুস্পষ্ট মুক্তি। কুরতুবী পুরো আয়াতকে তিনটি ক্রিয়ায় গুটিয়ে আনেন: সে সফল হলো, রক্ষা পেল, রহমত পেল। মুয়াসসার বলে, শাস্তি সরিয়ে নেওয়াটাই সেই ভয়াবহ শাস্তি থেকে মুক্তির সুস্পষ্ট বিজয়। এঁদের সবার কাছে জয় মানে রক্ষা পাওয়া। মাআরিফুল কুরআন শব্দটি পড়ে অন্যভাবে। তার মতে ফাওয মানে জান্নাতে প্রবেশ, আর সেখান থেকে সিদ্ধান্ত টানে যে শাস্তি থেকে মুক্তি আর জান্নাতে প্রবেশকে আলাদা করা যায় না।"
+          },
+          {
+            "en": "Ibn Kathir sets one verse beside this one, 3:185: whoever is drawn away from the Fire and admitted to Paradise has attained. There both halves are named together, the drawing away and the admission, under a single verb of winning. At-Tabari also cites Qatada on the opening words, and Qatada's gloss is brief: whoever has the punishment turned away from him. The early explanation and the later ones agree on what is averted.",
+            "bn": "ইবন কাসীর এ আয়াতের পাশে একটি আয়াত রাখেন, ৩:১৮৫: যাকে আগুন থেকে দূরে সরিয়ে জান্নাতে প্রবেশ করানো হলো, সে-ই সফল হলো। সেখানে দুটি অংশই একসঙ্গে বলা, দূরে সরানো আর প্রবেশ করানো, আর দুটির উপরেই সফলতার একটিমাত্র ক্রিয়া। তাবারী আয়াতের শুরুর অংশে কাতাদার ব্যাখ্যাও আনেন। কাতাদার কথা সংক্ষিপ্ত: যার উপর থেকে শাস্তি ফিরিয়ে নেওয়া হলো। আগের যুগের ব্যাখ্যা আর পরের তাফসীরগুলো একমত, কী সরিয়ে নেওয়া হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Between Two Lost Selves",
+          "bn": "দুই ক্ষতির মাঝখানে"
+        },
+        "p": [
+          {
+            "en": "Look at what surrounds the verse. 6:12 says that Allah has written mercy upon Himself, that He will gather people to the Day of Resurrection, and it closes: those who have lost themselves do not believe. 6:20 closes with the same sentence, word for word. Between those two statements of loss, 6:16 names the opposite outcome, mercy received and a clear win. Ibn Kathir's definition of al-fawz as profit gained and loss removed fits this frame closely, because it defines the win against the very loss the neighbouring verses name.",
+            "bn": "আয়াতটির চারপাশে তাকান। ৬:১২ আয়াত বলে, আল্লাহ নিজের উপর রহমত লিখে নিয়েছেন, তিনি মানুষকে কিয়ামতের দিনের দিকে একত্র করবেন। আয়াতটি শেষ হয় এভাবে: যারা নিজেদের ক্ষতিগ্রস্ত করেছে, তারা ঈমান আনে না। ৬:২০ আয়াতও ঠিক এই বাক্যেই শেষ হয়, হুবহু। ক্ষতির এই দুই ঘোষণার মাঝখানে ৬:১৬ আয়াত উল্টো পরিণতির কথা বলে: রহমত পাওয়া আর সুস্পষ্ট জয়। ইবন কাসীর ফাওযের যে সংজ্ঞা দেন, লাভ ঘরে তোলা আর লোকসান দূর হওয়া, তা এই কাঠামোর সঙ্গে খুব মেলে। কারণ সংজ্ঞাটি জয়কে মাপে ঠিক সেই ক্ষতির বিপরীতে, যার কথা পাশের আয়াত দুটি বলছে।"
+          },
+          {
+            "en": "On 6:12, in the passage he reads together with this verse, Ibn Kathir cites a report he places in the two Sahihs from Abu Hurayrah (RA). The wording in Sahih al-Bukhari 3194, checked for this article: When Allah completed the creation, He wrote in His Book, and it is with Him above the Throne: My mercy has overcome My anger. Ibn Kathir attaches it to the words He has written mercy upon Himself in 6:12, not to 6:16. Read in sequence, the mercy written in 6:12 is the mercy received in 6:16.",
+            "bn": "৬:১২ আয়াতের আলোচনায়, যে অংশকে তিনি এ আয়াতের সঙ্গে একসঙ্গে পড়েন, ইবন কাসীর আবূ হুরায়রা (রাঃ) থেকে একটি বর্ণনা আনেন এবং বলেন তা দুই সহীহ গ্রন্থে আছে। সহীহ বুখারী ৩১৯৪-এর শব্দ, যা এ লেখার জন্য মিলিয়ে দেখা হয়েছে: আল্লাহ যখন সৃষ্টির কাজ সম্পন্ন করলেন, তিনি তাঁর কিতাবে লিখলেন, আর তা তাঁর কাছে আরশের উপরে আছে: নিশ্চয়ই আমার রহমত আমার ক্রোধের উপর প্রবল হয়েছে। ইবন কাসীর এটি জুড়েছেন ৬:১২ আয়াতের নিজের উপর রহমত লিখে নেওয়ার কথার সঙ্গে, ৬:১৬ আয়াতের সঙ্গে নয়। পরপর পড়লে দেখা যায়, ৬:১২ আয়াতে যে রহমত লেখা হলো, ৬:১৬ আয়াতে সেই রহমতই কেউ পায়।"
+          },
+          {
+            "en": "The sentence those who have lost themselves describes what the text describes: people who would not believe in the Day that is coming. It names no living person, and it licenses nothing against any person or community today. Its work in this passage is to show the reader the other outcome, so that the clear win of 6:16 is seen against the loss standing on either side of it.",
+            "bn": "যারা নিজেদের ক্ষতিগ্রস্ত করেছে, এ বাক্য কেবল তা-ই বর্ণনা করে যা আয়াতে আছে: এমন মানুষ, যারা আসন্ন দিনের প্রতি ঈমান আনবে না। এতে কোনো জীবিত মানুষের নাম নেই। আজকের কোনো ব্যক্তি বা গোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতিও এ বাক্য দেয় না। এই অংশে বাক্যটির কাজ পাঠককে অন্য পরিণতিটা দেখানো, যাতে ৬:১৬ আয়াতের সুস্পষ্ট জয়কে দুই পাশের ক্ষতির বিপরীতে রেখে দেখা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Phrase Recurs",
+          "bn": "একই কথা আর যেখানে"
+        },
+        "p": [
+          {
+            "en": "A search of the Arabic text finds the exact phrase al-fawz al-mubin in two verses only: here and 45:30. There it closes a scene of judgement: as for those who believed and did righteous deeds, their Lord will admit them into His mercy; that is the clear attainment. 6:16 says whoever is spared has been shown mercy; 45:30 says the believers who did righteous deeds are brought into mercy. In both, mercy is where the win takes place.",
+            "bn": "কুরআনের আরবি পাঠে খুঁজলে হুবহু আল-ফাওযুল মুবীন কথাটি পাওয়া যায় মাত্র দুই আয়াতে: এখানে আর ৪৫:৩০ আয়াতে। সেখানে কথাটি বিচারের এক দৃশ্যের সমাপ্তি টানে: যারা ঈমান এনেছে আর সৎকাজ করেছে, তাদের রব তাদের নিজের রহমতের ভেতরে প্রবেশ করাবেন, এটাই সুস্পষ্ট সাফল্য। ৬:১৬ বলে, যে রক্ষা পেল তার উপর রহম করা হয়েছে। ৪৫:৩০ বলে, সৎকর্মশীল মুমিনদের রহমতের ভেতরে নেওয়া হবে। দুই জায়গাতেই জয় ঘটে রহমতের ভেতরে।"
+          },
+          {
+            "en": "40:9 is closer still in shape. In 40:7 the angels who carry the Throne and those around it begin a prayer for the believers, and in 40:9 it ends: protect them from the evil consequences, and whoever You protect from evil consequences on that Day, You have shown him mercy, and that is the great attainment. The same yawma'idhin, the same mercy in the perfect tense, the same dhalika al-fawz. What 6:16 states as a rule, the angels ask for as a gift.",
+            "bn": "গঠনের দিক থেকে ৪০:৯ আয়াত আরও কাছের। ৪০:৭ আয়াতে আরশ বহনকারী ফেরেশতারা আর তার চারপাশের ফেরেশতারা মুমিনদের জন্য দোয়া শুরু করেন, আর ৪০:৯ আয়াতে তা শেষ হয় এভাবে: তাদেরকে মন্দ পরিণাম থেকে রক্ষা করুন। সেদিন আপনি যাকে মন্দ পরিণাম থেকে রক্ষা করবেন, তার উপর তো আপনি রহম করলেন, আর এটাই মহাসাফল্য। সেই একই ইয়াওমাইযিন, অতীতকালে বলা সেই একই রহমত, সেই একই যালিকাল ফাওয। ৬:১৬ আয়াত যা নিয়ম হিসেবে জানায়, ফেরেশতারা তা চেয়ে নেন দান হিসেবে।"
+          },
+          {
+            "en": "Two other verses use the verb of turning away. 11:8 gives the reverse of 6:16: on the Day the punishment comes to those who mocked it, it will not be averted from them, laysa masrufan 'anhum. And in 25:65 the servants of the Most Merciful pray with it: our Lord, avert from us the punishment of Hell. The Quran thus shows the averting asked for, granted, and withheld, all with the same root.",
+            "bn": "আরও দুটি আয়াতে সরিয়ে দেওয়ার এই ক্রিয়াটি এসেছে। ১১:৮ আয়াত ৬:১৬ আয়াতের উল্টো ছবি দেয়: যে শাস্তি নিয়ে তারা ঠাট্টা করত, যেদিন তা তাদের কাছে আসবে, সেদিন তা তাদের থেকে সরানো হবে না, লাইসা মাসরূফান আনহুম। আর ২৫:৬৫ আয়াতে রহমানের বান্দারা এ ক্রিয়া দিয়েই দোয়া করে: হে আমাদের রব, আমাদের থেকে জাহান্নামের শাস্তি সরিয়ে দিন। এভাবে একই ধাতু দিয়ে কুরআন দেখায় সেই সরিয়ে দেওয়া কেউ চাইছে, কেউ পাচ্ছে, আর কারও বেলায় তা আটকে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Saved by Deeds Alone?",
+          "bn": "শুধু আমলেই কি মুক্তি"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. A narration in Sahih al-Bukhari 6463, from Abu Hurayrah (RA), speaks to its theme without being tied to it: The deeds of any of you will not save him. They said: not even you, Messenger of Allah? He said: not even I, unless Allah covers me with mercy. Aim for what is right and keep close to it, set out in the morning and the evening and part of the night, and hold to the middle course, the middle course, and you will arrive.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। সহীহ বুখারী ৬৪৬৩-এ আবূ হুরায়রা (রাঃ) থেকে একটি বর্ণনা আছে, যা আয়াতের সঙ্গে যুক্ত নয়, তবে তার বিষয়ের কথাই বলে: তোমাদের কাউকে তার আমল মুক্তি দেবে না। সাহাবীরা বললেন: আপনাকেও না, হে আল্লাহর রসূল? তিনি বললেন: আমাকেও না, যদি না আল্লাহ আমাকে রহমতে ঢেকে নেন। সঠিকটা লক্ষ্য করো, তার কাছাকাছি থাকো, সকালে, বিকেলে আর রাতের কিছু অংশে চলো, আর মধ্যপথ ধরে রাখো, মধ্যপথ, তাহলে পৌঁছে যাবে।"
+          },
+          {
+            "en": "The verb in the hadith is from the same root as an-najat, the rescue al-Qurtubi and al-Baghawi use to explain al-fawz al-mubin. What follows the warning is an instruction to work well and steadily, not to stop. The hadith and 45:30 hold the two sides together: the believers who do righteous deeds are admitted, and they are admitted into His mercy. The deeds are the road the servant walks, and the verse names whose mercy opens its end.",
+            "bn": "হাদীসে মুক্তি দেওয়ার যে ক্রিয়া, তা নাজাত শব্দের ধাতু থেকেই। আল-ফাওযুল মুবীন ব্যাখ্যায় কুরতুবী ও বাগাভী এই নাজাত, অর্থাৎ মুক্তি শব্দটিই ব্যবহার করেন। সতর্কবাণীর পরের নির্দেশ আমল ছেড়ে দেওয়ার নয়, বরং ঠিকঠাক আর নিয়মিত আমল করার। হাদীস আর ৪৫:৩০ আয়াত দুটি দিককে একসঙ্গে ধরে রাখে: সৎকর্মশীল মুমিনদের প্রবেশ করানো হয়, আর তা করানো হয় তাঁর রহমতের ভেতরে। আমল হলো সেই পথ যেটা বান্দা হাঁটে, আর পথের শেষ দরজা কার রহমতে খোলে, আয়াতটি তা বলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Success Measured by Subtraction",
+          "bn": "যা সরে গেল, সেটাই লাভ"
+        },
+        "p": [
+          {
+            "en": "The verse quietly redefines a word everyone uses. In ordinary speech success means something added: a promotion, a house, a child's degree, a project finished. Here the clear win is something taken away, a punishment that would otherwise have come. A business may grow and a career may rise, and none of that is the win. The question the verse leaves is whether my days are arranged around what I can show, or around what I hope will be averted.",
+            "bn": "সবাই যে শব্দটা ব্যবহার করে, আয়াতটি নিঃশব্দে তার অর্থ বদলে দেয়। সাধারণ কথায় সাফল্য মানে কিছু যোগ হওয়া: পদোন্নতি, বাড়ি, সন্তানের ডিগ্রি, শেষ করা কোনো প্রকল্প। এখানে সুস্পষ্ট জয় হলো কিছু সরে যাওয়া, এমন এক শাস্তি যা না সরলে আসতই। ব্যবসা বাড়তে পারে, পেশায় উন্নতি হতে পারে, কিন্তু সেটা জয় নয়। আয়াতটি প্রশ্ন রেখে যায়: আমার দিনগুলো কি সাজানো দেখানোর মতো জিনিস ঘিরে, নাকি যা সরে যাক বলে আশা করি তা ঘিরে?"
+          },
+          {
+            "en": "A practical habit follows from it. At the end of a day, besides listing what was achieved, ask what was held back: the harsh word not said, the dishonest gain not taken, the prayer not missed. Those are small rehearsals of the verse's idea, that what is kept away can be the real gain. Then ask for the larger averting by name, because the verse calls it mercy, and mercy is something a servant asks for rather than assumes.",
+            "bn": "এ থেকে একটা কাজের অভ্যাস তৈরি হয়। দিনের শেষে কী অর্জন করলাম শুধু তার হিসাব না করে দেখুন, কী থেকে নিজেকে সরিয়ে রাখলাম: যে কড়া কথা মুখে আনিনি, যে অসৎ লাভ নিইনি, যে নামায ছুটে যায়নি। আয়াতের মূল কথার এগুলো ছোট ছোট মহড়া: যা দূরে রাখা গেল, সেটাই আসল লাভ হতে পারে। তারপর বড় সেই সরিয়ে দেওয়াটা নাম ধরে চেয়ে নিন। কারণ আয়াত একে রহমত বলেছে, আর রহমত বান্দা চেয়ে নেয়, ধরে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Praying for the Averting",
+          "bn": "সরিয়ে দেওয়ার দোয়া"
+        },
+        "p": [
+          {
+            "en": "The Quran gives the words to ask with. The servants of the Most Merciful in 25:65 say: our Lord, avert from us the punishment of Hell. The angels in 40:9 ask that the believers be protected from evil consequences on that Day. A supplication composed in the verse's own terms, offered as that and not as a transmitted du'a, can be added: O Allah, turn Your punishment away from me on that Day, have mercy on me, and make me among those who attain the clear win.",
+            "bn": "চাওয়ার ভাষা কুরআনই দিয়ে দেয়। ২৫:৬৫ আয়াতে রহমানের বান্দারা বলে: হে আমাদের রব, আমাদের থেকে জাহান্নামের শাস্তি সরিয়ে দিন। ৪০:৯ আয়াতে ফেরেশতারা চান, সেদিন মুমিনরা যেন মন্দ পরিণাম থেকে রক্ষা পায়। আয়াতের নিজের শব্দে গড়া একটি দোয়াও যোগ করা যায়, তবে বর্ণিত দোয়া হিসেবে নয়, নিজে বানানো দোয়া হিসেবেই: হে আল্লাহ, সেদিন আপনার শাস্তি আমার থেকে সরিয়ে দিন, আমার উপর রহম করুন, আর আমাকে সুস্পষ্ট সাফল্য লাভকারীদের অন্তর্ভুক্ত করুন।"
+          },
+          {
+            "en": "Some questions to carry from the verse. When I picture success, does being spared appear in the picture at all? Am I asking for the averting, or quietly assuming it? Which of my deeds would I hold up as a claim, and which as a hope? And if someone I love asked what I am working toward, could I name this verse's win without hesitation?",
+            "bn": "আয়াত থেকে কয়েকটি প্রশ্ন সঙ্গে রাখা যায়। সাফল্যের কথা ভাবলে সেই ছবিতে রক্ষা পাওয়ার কোনো জায়গা কি থাকে? আমি কি এই সরিয়ে দেওয়া চাইছি, নাকি চুপচাপ ধরে নিয়েছি? আমার কোন আমলকে আমি দাবি হিসেবে তুলে ধরতাম, আর কোনটাকে আশা হিসেবে? আর প্রিয় কেউ যদি জিজ্ঞেস করে আমি কিসের জন্য খাটছি, এ আয়াতের জয়ের নাম কি দ্বিধা ছাড়া বলতে পারব?"
+          }
+        ]
+      }
+    ]
+  },
   "6:19": {
     "sections": [
       {
