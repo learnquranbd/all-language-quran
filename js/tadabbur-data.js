@@ -31623,6 +31623,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you are called a fool for the truth, deny the charge without returning it, and turn the conversation from your own standing to the message you carry.",
     "lessonBn": "সত্যের জন্য কেউ আপনাকে বোকা বললে অভিযোগটা অস্বীকার করুন, কিন্তু ফিরিয়ে দেবেন না। আর কথাটা নিজের মানসম্মান থেকে ঘুরিয়ে নিন বার্তার দিকে।"
+  },
+  "7:40": {
+    "reflectionEn": "Two things are said of them: they denied the signs, and they held themselves above them. The answer matches the fault. Gates that would open for a humbler soul stay shut, and Paradise is set as far off as a camel is from a needle's eye. Pride is a strange lock, because it is fastened from the inside. Nobody forced these people to stand above the verses; they chose the height, and the height kept them out. The verse gives me no room to point at someone else. It asks where I am standing. When a verse corrects me, do I bend to it, or explain it away? And what of mine is rising to Him today?",
+    "reflectionBn": "তাদের সম্পর্কে দুটো কথা বলা হয়েছে: তারা আয়াতগুলোকে মিথ্যা বলেছে, আর নিজেদের সেগুলোর উপরে দাঁড় করিয়েছে। জবাবটাও এসেছে অপরাধের মাপে। বিনয়ী আত্মার জন্য যে দরজা খুলে যেত, তাদের জন্য তা বন্ধই থাকে। আর জান্নাত তাদের থেকে ততটাই দূরে, সুঁইয়ের ছিদ্র থেকে উট যতটা দূরে। অহংকার এক অদ্ভুত তালা, কারণ এটা লাগানো হয় ভেতর থেকে। কেউ তাদের জোর করে আয়াতের উপরে দাঁড় করায়নি। উঁচু জায়গাটা তারা নিজেরাই বেছে নিয়েছিল, আর সেই উঁচু জায়গাই তাদের বাইরে আটকে রাখল। অন্যের দিকে আঙুল তোলার সুযোগ আয়াতটি আমাকে দেয় না। সে জানতে চায়, আমি নিজে কোথায় দাঁড়িয়ে আছি। কোনো আয়াত যখন আমাকে শুধরে দেয়, আমি কি মাথা নোয়াই, নাকি ব্যাখ্যা খুঁজে পাশ কাটাই? আর আজ আমার কোন কথা, কোন আমল তাঁর দিকে উঠে যাচ্ছে?",
+    "pointsEn": [
+      "Which verse or ruling do I know to be true but keep at arm's length, because accepting it would cost me some pride?",
+      "When someone reminds me with an ayah, is my first reaction to listen, or to look for a reason they are not fit to say it?",
+      "Which of today's words and deeds would I want raised to Allah, and which would I rather nobody lifted at all?",
+      "Do I read the closed gates in this verse as a description of other people, rather than a warning that reaches me too?",
+      "What small act of obedience could I do this week precisely because my ego resists it?"
+    ],
+    "pointsBn": [
+      "কোন আয়াত বা কোন বিধানকে আমি সত্য বলে জানি, তবু দূরে সরিয়ে রাখি, কারণ মেনে নিলে আমার অহংকারে একটু লাগবে?",
+      "কেউ আয়াত শুনিয়ে আমাকে মনে করিয়ে দিলে আমার প্রথম প্রতিক্রিয়া কী হয়: মন দিয়ে শোনা, নাকি এমন কারণ খোঁজা যে এ কথা বলার যোগ্যতাই তার নেই?",
+      "আজকের কোন কথা আর কোন আমল আমি চাই আল্লাহর কাছে উঠে যাক, আর কোনগুলো চাই কেউ কোনো দিন না তুলুক?",
+      "এ আয়াতের বন্ধ দরজাগুলোকে কি আমি শুধু অন্যদের বিবরণ হিসেবে পড়ি, অথচ সতর্কবাণীটা আমার কাছেও পৌঁছেছে?",
+      "এ সপ্তাহে আনুগত্যের কোন ছোট কাজটা আমি করতে পারি ঠিক এ কারণেই যে আমার নফস তাতে বাধা দেয়?"
+    ],
+    "lessonEn": "Denial and pride shut the gates of heaven, so meet every verse of Allah with humility and let your words and deeds be fit to rise to Him.",
+    "lessonBn": "অস্বীকার আর অহংকার আকাশের দরজা বন্ধ করে দেয়। তাই আল্লাহর প্রতিটি আয়াতের সামনে বিনয়ী থাকুন, আর আপনার কথা ও আমলকে তাঁর কাছে ওঠার যোগ্য করে তুলুন।"
   }
 };
 

@@ -2195,6 +2195,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:40": {
+    "sections": [
+      {
+        "h": {
+          "en": "Denial, Then Disdain",
+          "bn": "অস্বীকার, তারপর অবজ্ঞা"
+        },
+        "p": [
+          {
+            "en": "Inna alladhina kadhdhabu bi-ayatina wa-stakbaru 'anha: indeed, those who deny Our verses and are too proud for them. The same two verbs described the companions of the Fire four verses earlier, in 7:36. In between, 7:37 showed the deniers at death, asked where their idols had gone, and 7:38 and 7:39 showed them entering the Fire nation by nation, cursing each other. Now the passage returns to the same people and names what is shut against them: the gates of heaven, and Paradise itself.",
+            "bn": "ইন্নাল্লাযীনা কায্যাবূ বিআয়াতিনা ওয়াসতাকবারূ আনহা: নিশ্চয়ই যারা আমার আয়াতগুলোকে মিথ্যা বলে আর সেগুলোর ব্যাপারে অহংকার করে। ঠিক এই দুটি ক্রিয়া দিয়েই চারটি আয়াত আগে, ৭:৩৬ আয়াতে, জাহান্নামবাসীদের পরিচয় দেওয়া হয়েছিল। মাঝখানে ৭:৩৭ আয়াত দেখিয়েছে মৃত্যুর মুহূর্তে তাদের, যখন জিজ্ঞেস করা হয় তাদের উপাস্যরা কোথায় গেল। ৭:৩৮ ও ৭:৩৯ আয়াত দেখিয়েছে তারা দলে দলে আগুনে ঢুকছে আর একে অন্যকে অভিশাপ দিচ্ছে। এবার আলোচনা আবার সেই লোকদের কাছে ফিরে আসে, আর জানিয়ে দেয় তাদের সামনে কী বন্ধ: আকাশের দরজাগুলো, আর খোদ জান্নাত।"
+          },
+          {
+            "en": "At-Tabari glosses the first verb as denying Our proofs and evidences, not believing them and not following Our messengers. The second he explains as disdaining to believe them, scorning to follow them and to submit to them, out of pride. The Muyassar adds that these people did not act by His law, out of arrogance and haughtiness. As-Sa'di stresses that the verses were clear signs: they did not believe them and did not yield to their rulings, but denied and turned away.",
+            "bn": "তাবারী প্রথম ক্রিয়াটির ব্যাখ্যা দেন এভাবে: আমার প্রমাণ ও দলিলগুলোকে মিথ্যা বলা, সেগুলো বিশ্বাস না করা, আর আমার রসূলদের অনুসরণ না করা। দ্বিতীয়টির অর্থ তাঁর কাছে: অহংকারবশে সেগুলো বিশ্বাস করতে নাক সিঁটকানো, সেগুলোর অনুসরণ আর আনুগত্যকে নিজের মর্যাদার নিচে মনে করা। মুয়াসসার যোগ করে, ঔদ্ধত্য আর নিজেকে বড় ভাবার কারণে তারা তাঁর শরিয়ত মেনে চলেনি। সা'দী জোর দেন যে আয়াতগুলো ছিল সুস্পষ্ট নিদর্শন। তবু তারা ঈমান আনেনি, সেগুলোর বিধানের সামনে মাথা নোয়ায়নি, বরং মিথ্যা বলে মুখ ফিরিয়ে নিয়েছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads 7:40 to 7:43 as one unit, the outcome of the pledge it finds in 7:35 to 7:37: 7:40 and 7:41 describe the deniers and criminals, 7:42 and 7:43 the believers who kept the pledge. The verse is therefore one half of a pair. Its shut gates stand against the rivers and the praise of the next two verses, where the believers are told that Paradise is theirs for what they used to do.",
+            "bn": "মাআরিফুল কুরআন ৭:৪০ থেকে ৭:৪৩ পর্যন্ত আয়াতগুলোকে একসঙ্গে পড়ে। ৭:৩৫ থেকে ৭:৩৭ আয়াতে সে যে অঙ্গীকার দেখতে পায়, এগুলো তারই পরিণাম। ৭:৪০ ও ৭:৪১ আয়াতে অস্বীকারকারী আর অপরাধীদের কথা, ৭:৪২ ও ৭:৪৩ আয়াতে অঙ্গীকার রক্ষাকারী মুমিনদের কথা। তাই আয়াতটি একটি জোড়ার অর্ধেক। এখানকার বন্ধ দরজাগুলোর উল্টো দিকে আছে পরের দুই আয়াতের নহর আর হামদ, যেখানে মুমিনদের জানানো হয়, তাদের আমলের কারণেই জান্নাত তাদের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Gates Refuse",
+          "bn": "দরজা বন্ধ কিসের জন্য"
+        },
+        "p": [
+          {
+            "en": "La tufattahu lahum abwabu s-sama': the gates of heaven will not be opened for them. Opened for what? Ibn Kathir and at-Tabari set out the readings. The first says nothing they say or do rises: no righteous deed and no supplication. Ibn Kathir gives it from Mujahid and Sa'id ibn Jubayr, and from Ibn 'Abbas through al-'Awfi, 'Ali ibn Abi Talhah and 'Ata'. At-Tabari adds Ibrahim an-Nakha'i: no deed and no supplication is raised for them. Al-Qurtubi reports from Mujahid and an-Nakha'i that the gates stay shut when they call.",
+            "bn": "লা তুফাত্তাহু লাহুম আবওয়াবুস সামা: তাদের জন্য আকাশের দরজাগুলো খোলা হবে না। কিন্তু কিসের জন্য খোলা হবে না? ইবন কাসীর আর তাবারী মতগুলো সাজিয়ে দেন। প্রথম মত হলো, তাদের কোনো কথা বা কাজ উপরে ওঠে না, না কোনো নেক আমল, না কোনো দোয়া। ইবন কাসীর এটি আনেন মুজাহিদ ও সাঈদ ইবন জুবাইর থেকে, আর আওফী, আলী ইবন আবী তালহা ও আতার সূত্রে ইবন আব্বাস (রাঃ) থেকে। তাবারী এর সঙ্গে যোগ করেন ইবরাহীম নাখঈর কথা: তাদের কোনো আমল বা দোয়া উপরে তোলা হয় না। কুরতুবী মুজাহিদ ও নাখঈ থেকে বর্ণনা করেন, তারা ডাকলে দরজাগুলো বন্ধই থাকে।"
+          },
+          {
+            "en": "The second reading concerns their souls at death. Ibn Kathir has it from ad-Dahhak from Ibn 'Abbas, and from as-Suddi and others; in at-Tabari, Ibn 'Abbas says heaven is opened for the believer's soul and not for the disbeliever's. As-Sa'di takes this reading: at death their souls rise seeking to ascend to Allah, ask leave, and are refused. Al-Qurtubi also reads it of the souls, and records a further view: the gates of Paradise are meant, since Paradise is in heaven.",
+            "bn": "দ্বিতীয় মতটি মৃত্যুর সময় তাদের রূহ নিয়ে। ইবন কাসীর এটি আনেন দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে, আর সুদ্দী ও আরও অনেকের কাছ থেকে। তাবারীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, মুমিনের রূহের জন্য আকাশ খোলা হয়, কাফিরের রূহের জন্য খোলা হয় না। সা'দী এই মতই নেন। মৃত্যুর পর তাদের রূহ আল্লাহর দিকে উঠতে চায়, অনুমতি চায়, কিন্তু অনুমতি মেলে না। কুরতুবীও আয়াতটিকে রূহের সঙ্গে যুক্ত করেন। সেই সঙ্গে আরেকটি মত উল্লেখ করেন: এখানে দরজা মানে জান্নাতের দরজা, কারণ জান্নাত আকাশে।"
+          },
+          {
+            "en": "A third position joins the two. Ibn Jurayj said: not for their souls and not for their deeds, and Ibn Kathir calls this a combining of both sayings. At-Tabari adopts it, because Allah's statement is general and singles out nothing for which the gates are opened. The Muyassar reads both as well. Al-Baghawi names their supplications and deeds first, then, from Ibn 'Abbas, their souls, which are foul and are cast down to Sijjin.",
+            "bn": "তৃতীয় মতটি আগের দুটিকে এক করে। ইবন জুরাইজ বলেছেন: তাদের রূহের জন্যও নয়, আমলের জন্যও নয়। ইবন কাসীরের ভাষায়, এতে দুই মতের সমন্বয় হলো। তাবারী এটাই গ্রহণ করেন। কারণ দরজা না খোলার কথাটা আল্লাহ ব্যাপকভাবে বলেছেন, এমন কিছুকে আলাদা করেননি যার জন্য দরজা খুলবে। মুয়াসসারও দুটোই ধরে। বাগাভী প্রথমে বলেন তাদের দোয়া আর আমলের কথা। তারপর ইবন আব্বাস (রাঃ) থেকে আনেন রূহের কথা: সেগুলো নাপাক, তাই উপরে না উঠে নিক্ষিপ্ত হয় সিজ্জীনের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Good Words Rise to Him",
+          "bn": "উত্তম কথা তাঁর দিকে ওঠে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari says in his opening gloss why nothing of theirs rises: their deeds are foul, and only good speech and righteous action are raised, as Allah says in 35:10: to Him ascends good speech, and righteous work raises it. Ma'arif al-Qur'an cites the same verse. It relays from Ibn 'Abbas, through al-Bahr al-Muhit, that the gates open neither for them nor for their prayers, and explains this as unanswered prayer and deeds held back from the place where the records of the righteous are kept, which the Qur'an names 'Illiyyin, in 83:18 to 83:21.",
+            "bn": "তাবারী তাঁর প্রথম ব্যাখ্যাতেই বলে দেন, কেন তাদের কিছুই উপরে ওঠে না। তাদের আমল নাপাক, আর উপরে তোলা হয় কেবল পবিত্র কথা ও নেক আমল। আল্লাহ ৩৫:১০ আয়াতে বলেছেন: তাঁর দিকেই ওঠে পবিত্র বাণী, আর নেক আমল তাকে উপরে তুলে নেয়। মাআরিফুল কুরআনও এই আয়াতটি উদ্ধৃত করে। আল-বাহরুল মুহীতের সূত্রে সে ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা আনে: আকাশের দরজা খুলবে না তাদের জন্যও, তাদের দোয়ার জন্যও। মাআরিফের ব্যাখ্যায় এর মানে, তাদের দোয়া কবুল হয় না। আর নেককারদের আমলনামা যেখানে সংরক্ষিত থাকে, সেখানে তাদের আমল পৌঁছাতে দেওয়া হয় না। কুরআন সেই জায়গার নাম দিয়েছে ইল্লিয়্যীন, ৮৩:১৮ থেকে ৮৩:২১ আয়াতে।"
+          },
+          {
+            "en": "As-Sa'di draws the matching line. As their souls did not rise in this world to faith in Allah, to knowing and loving Him, they do not rise after death, for the recompense is of the same kind as the deed. He then reads the verse's other side: the souls of believers, who submitted to His command and believed His verses, find the gates opened, ascend to Allah, and rejoice in nearness to their Lord and in His pleasure.",
+            "bn": "সা'দী এখানে দুই দিকের মিল দেখান। দুনিয়াতে তাদের রূহ আল্লাহর প্রতি ঈমান, তাঁর পরিচয় আর ভালোবাসা পর্যন্ত ওঠেনি। তাই মৃত্যুর পরও ওঠে না, কারণ প্রতিদান হয় আমলের ধরন অনুযায়ী। তারপর তিনি আয়াতের অন্য পিঠটা পড়েন। যে মুমিনরা আল্লাহর হুকুমের সামনে মাথা নুইয়েছে আর তাঁর আয়াতগুলো সত্য বলে মেনেছে, তাদের রূহের জন্য দরজা খুলে যায়। তারা আল্লাহর দিকে উঠে যায়, আর রবের নৈকট্য ও তাঁর সন্তুষ্টি পেয়ে আনন্দিত হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports From the Graveside",
+          "bn": "কবরের পাশের বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Several commentators attach a narration to the reading about souls. At-Tabari, with his own chain, and Ibn Kathir, from at-Tabari and then at length from Imam Ahmad, relay a report from al-Bara' ibn 'Azib about the disbeliever's soul being taken up at death, in which the Prophet ﷺ is reported to recite this verse. Ibn Kathir gives it no grading of his own, and says it is part of a long hadith recorded by Abu Dawud, an-Nasa'i and Ibn Majah. Al-Qurtubi counts it among reports he calls sound.",
+            "bn": "রূহ সংক্রান্ত মতটির সঙ্গে কয়েকজন তাফসীরকার একটি বর্ণনা যুক্ত করেন। তাবারী নিজের সনদে, আর ইবন কাসীর প্রথমে তাবারী থেকে, পরে বিস্তারিতভাবে ইমাম আহমাদ থেকে, বারা ইবন আযিব (রাঃ)-এর একটি বর্ণনা আনেন। বিষয় হলো মৃত্যুর সময় কাফিরের রূহকে উপরে নিয়ে যাওয়া, আর তাতে বলা হয়েছে নবী ﷺ এই আয়াত তিলাওয়াত করেছিলেন। ইবন কাসীর নিজে এর কোনো মান নির্ধারণ করেননি। তিনি বলেন, এটি একটি দীর্ঘ হাদীসের অংশ, যা আবূ দাঊদ, নাসাঈ ও ইবন মাজাহ বর্ণনা করেছেন। কুরতুবী একে সেই বর্ণনাগুলোর মধ্যে গণ্য করেন, যেগুলোকে তিনি সহীহ বলেন।"
+          },
+          {
+            "en": "The version Abu Dawud records (4753) contains neither the soul's ascent nor the recitation. It describes the questioning in the grave, and for the believer it reads: “Then a crier will call from Heaven: My servant has spoken the truth, so spread a bed for him from Paradise, clothe him from Paradise, and open a door for him into Paradise.” For the disbeliever, who answers each question with “Alas, alas! I do not know”, a door is opened into Hell. Abu Dawud gives no grading of his own.",
+            "bn": "আবূ দাঊদ যে রূপটি বর্ণনা করেছেন (৪৭৫৩), তাতে রূহের উপরে ওঠার কথাও নেই, আয়াত তিলাওয়াতের কথাও নেই। আছে কবরের প্রশ্নোত্তর। মুমিনের ব্যাপারে তাতে বলা হয়েছে: “তখন আকাশ থেকে একজন ঘোষক ঘোষণা করবেন: আমার বান্দা সত্য বলেছে। কাজেই তার জন্য জান্নাতের বিছানা বিছিয়ে দাও, তাকে জান্নাতের পোশাক পরাও, আর তার জন্য জান্নাতের দিকে একটি দরজা খুলে দাও।” আর কাফির প্রতিটি প্রশ্নের জবাবে বলে, “হায়, হায়! আমি জানি না।” তার জন্য দরজা খোলা হয় জাহান্নামের দিকে। আবূ দাঊদ নিজে এর কোনো মান উল্লেখ করেননি।"
+          },
+          {
+            "en": "A second narration, from Abu Hurayrah, is cited under this verse by at-Tabari and Ibn Kathir, and Ibn Majah records it (4262). Of the righteous soul it says: “then it is taken up to heaven, and it is opened for it, and it is asked: ‘Who is this?’ They say: ‘So-and-so.’ It is said: ‘Welcome to the good soul that was in a good body. Enter praiseworthy and receive the glad tidings of mercy and fragrance and a Lord Who is not angry.’” The evil soul, in the same report, is turned back. Ibn Majah gives no grading.",
+            "bn": "দ্বিতীয় বর্ণনাটি আবূ হুরাইরা (রাঃ) থেকে। তাবারী ও ইবন কাসীর দুজনেই এটি এই আয়াতের আলোচনায় আনেন, আর ইবন মাজাহ এটি বর্ণনা করেছেন (৪২৬২)। নেক রূহের ব্যাপারে তাতে আছে: “তারপর তাকে আকাশের দিকে তুলে নেওয়া হয়, তার জন্য দরজা খোলা হয়, আর জিজ্ঞেস করা হয়: ‘এ কে?’ তারা বলে: ‘অমুক।’ তখন বলা হয়: ‘স্বাগতম সেই পবিত্র রূহকে, যে ছিল পবিত্র দেহে। প্রশংসিত অবস্থায় প্রবেশ করো, আর সুসংবাদ নাও রহমত, সুগন্ধি আর এমন রবের, যিনি রাগান্বিত নন।’” একই বর্ণনায় মন্দ রূহকে ফিরিয়ে দেওয়া হয়। ইবন মাজাহ এর কোনো মান উল্লেখ করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Opened at Once, or in Turn",
+          "bn": "একবারে, নাকি পালাক্রমে"
+        },
+        "p": [
+          {
+            "en": "The readers differed over the verb. At-Tabari reports that most readers of Kufa read la yuftahu, with ya' and a light ta': the gates are not opened for them all at once, in a single opening. Some readers of Madinah and Kufa read la tufattahu, with ta' and the second letter doubled: they are not opened gate after gate, one thing after another. Al-Baghawi names the readers: Abu 'Amr read it light with ta', Hamzah and al-Kisa'i light with ya', and the rest with ta' and doubling.",
+            "bn": "ক্রিয়াটির পাঠ নিয়ে কারীদের মধ্যে ভিন্নতা আছে। তাবারী জানান, কূফার অধিকাংশ কারী পড়েছেন লা ইউফতাহু, ইয়া দিয়ে আর তা-কে হালকা রেখে। অর্থ, সব দরজা একসঙ্গে, এক দফায় তাদের জন্য খোলা হবে না। মদীনা ও কূফার কিছু কারী পড়েছেন লা তুফাত্তাহু, তা দিয়ে আর দ্বিতীয় তা-তে তাশদীদ দিয়ে। অর্থ, একটির পর একটি দরজা, ধাপে ধাপেও খোলা হবে না। বাগাভী কারীদের নাম বলেন: আবূ আমর পড়েছেন তা দিয়ে হালকা করে, হামযা ও কিসাঈ ইয়া দিয়ে হালকা করে, আর বাকিরা তা দিয়ে তাশদীদসহ।"
+          },
+          {
+            "en": "Al-Qurtubi explains the grammar. The ya' treats the plural as masculine, which is allowed because the feminine of abwab is not a true one; the ta' follows the plural's feminine form, as in mufattahatan lahumu l-abwab in 38:50. He judges the doubled form more fitting here, since doubling points more strongly to many. At-Tabari declines to choose: both are well-known readings, sound in meaning, for the gates are opened for them neither all at once nor time after time, gate after gate.",
+            "bn": "কুরতুবী ব্যাকরণটা খুলে বলেন। ইয়া দিয়ে পড়লে বহুবচনকে পুংলিঙ্গ ধরা হয়। এটা চলে, কারণ আবওয়াব শব্দের স্ত্রীলিঙ্গ প্রকৃত নয়। আর তা দিয়ে পড়লে বহুবচনের স্ত্রীলিঙ্গ রূপ অনুসরণ করা হয়, যেমন ৩৮:৫০ আয়াতে মুফাত্তাহাতাল লাহুমুল আবওয়াব। তাঁর মতে এখানে তাশদীদওয়ালা পাঠই বেশি মানানসই, কারণ তাশদীদ আধিক্য বেশি জোরালোভাবে বোঝায়। তাবারী কোনো একটিকে বেছে নেন না। দুটোই প্রসিদ্ধ পাঠ, অর্থেও দুটো সঠিক। কারণ তাদের জন্য দরজা খোলা হয় না একবারে, আবার বারবার একটির পর একটি করেও না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Largest Through the Narrowest",
+          "bn": "সবচেয়ে বড়, সবচেয়ে সরু পথে"
+        },
+        "p": [
+          {
+            "en": "Wa la yadkhuluna l-jannata hatta yalija l-jamalu fi sammi l-khiyat: nor will they enter Paradise until the camel passes into the eye of the needle. At-Tabari defines wuluj as entering, as one says walaja fulanun ad-dar, he went into the house; Ma'arif adds that it means entering a narrow opening. The samm, at-Tabari explains, is any hole in an eye, a nose or elsewhere, and he cites al-Farazdaq using the word for the nostrils. Al-khiyat is the mikhyat, the needle.",
+            "bn": "ওয়ালা ইয়াদখুলূনাল জান্নাতা হাত্তা ইয়ালিজাল জামালু ফী সাম্মিল খিয়াত: আর তারা জান্নাতে প্রবেশ করবে না, যতক্ষণ না উট সুঁইয়ের ছিদ্রে ঢোকে। তাবারী উলূজ শব্দের অর্থ বলেন প্রবেশ করা। আরবরা বলে ওয়ালাজা ফুলানুন আদ-দার, অর্থাৎ অমুক ঘরে ঢুকল। মাআরিফুল কুরআন যোগ করে, শব্দটির মানে সরু কোনো পথে ঢোকা। তাবারীর ব্যাখ্যায় সাম্ম হলো চোখ, নাক বা অন্য কোথাও থাকা যেকোনো ছিদ্র। প্রমাণ হিসেবে তিনি ফারাযদাকের একটি পঙক্তি আনেন, যেখানে শব্দটি নাকের ছিদ্র বোঝায়। আর খিয়াত মানে মিখইয়াত, অর্থাৎ সুঁই।"
+          },
+          {
+            "en": "As-Sa'di sets the two ends against each other: the camel, among the largest of animals in body, and the needle's eye, among the narrowest of things. Al-Baghawi names the device: hanging a thing on what cannot happen confirms the refusal, as one says, I will not do it until the crow turns grey or pitch turns white, meaning never. At-Tabari puts it the same way: they will never enter the Paradise Allah prepared for His believing friends, just as the camel never passes into the eye of the needle.",
+            "bn": "সা'দী দুই প্রান্তকে মুখোমুখি দাঁড় করান। একদিকে উট, শরীরের দিক থেকে সবচেয়ে বড় প্রাণীগুলোর একটি। অন্যদিকে সুঁইয়ের ছিদ্র, দুনিয়ার সবচেয়ে সরু জিনিসগুলোর একটি। বাগাভী কৌশলটার নাম বলেন: যা কখনো ঘটবে না, তার সঙ্গে কোনো কিছুকে জুড়ে দিলে নিষেধটা আরও পাকা হয়। যেমন কেউ বলে, কাক পেকে সাদা না হওয়া পর্যন্ত, কিংবা আলকাতরা সাদা না হওয়া পর্যন্ত আমি এ কাজ করব না। মানে, কোনো দিনই না। তাবারীও একই কথা বলেন। আল্লাহ তাঁর মুমিন বন্ধুদের জন্য যে জান্নাত তৈরি করেছেন, তাতে এরা কখনো ঢুকবে না, যেমন উট কখনো সুঁইয়ের ছিদ্রে ঢোকে না।"
+          },
+          {
+            "en": "What, then, is the jamal? Asked about it, Ibn Mas'ud said: the husband of the she-camel. Al-Qurtubi remarks that he answered as if he found the question naive, about a thing everyone knows. Al-Hasan said: until the camel goes through the hole of the needle; Abu l-'Aliyah and ad-Dahhak said: the one with four legs. At-Tabari also reports, through Mujahid, that Ibn Mas'ud used to read al-jamalu l-asfar, the yellow camel, and al-Qurtubi records the same. For these early authorities, the animal is simply the animal.",
+            "bn": "তাহলে জামাল আসলে কী? ইবন মাসঊদ (রাঃ)-কে জিজ্ঞেস করা হলে তিনি বলেছিলেন: উটনীর স্বামী। কুরতুবীর মন্তব্য, জবাবের ধরন দেখে মনে হয়, সবার জানা একটা জিনিস নিয়ে প্রশ্ন করায় প্রশ্নকর্তাকে তিনি অবুঝ ভেবেছিলেন। হাসান বসরী বলেছেন: যতক্ষণ না উট সুঁইয়ের ফুটো দিয়ে ঢোকে। আবুল আলিয়া ও দাহহাক বলেছেন: চারটি পা-ওয়ালা প্রাণী। তাবারী মুজাহিদের সূত্রে আরও জানান, ইবন মাসঊদ (রাঃ) পড়তেন আল-জামালুল আসফার, অর্থাৎ হলুদ উট। কুরতুবীও একই কথা লিখেছেন। এই প্রথম যুগের আলেমদের কাছে প্রাণীটি সোজাসুজি উটই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Jamal or Jummal",
+          "bn": "জামাল, নাকি জুম্মাল"
+        },
+        "p": [
+          {
+            "en": "A second reading changes the picture. Ibn Kathir reports from Mujahid and 'Ikrimah that Ibn 'Abbas used to read al-jummal, with the jim given damma and the mim doubled, meaning the thick rope in the needle's hole, and says this was the choice of Sa'id ibn Jubayr. At-Tabari's chains from Ibn 'Abbas call it the ship's cable, qals as-safinah, or simply the thick rope. 'Ikrimah, as at-Tabari records, said it is the rope used to climb palm trees; Mujahid said: one of the ropes of ships.",
+            "bn": "আরেকটি পাঠ ছবিটাই বদলে দেয়। ইবন কাসীর মুজাহিদ ও ইকরিমা থেকে বর্ণনা করেন, ইবন আব্বাস (রাঃ) পড়তেন আল-জুম্মাল, জীমে পেশ আর মীমে তাশদীদ দিয়ে। এর মানে সুঁইয়ের ছিদ্রে মোটা রশি। ইবন কাসীর বলেন, সাঈদ ইবন জুবাইর এই পাঠই বেছে নিয়েছিলেন। ইবন আব্বাস (রাঃ) থেকে তাবারীর বিভিন্ন সনদে একে বলা হয়েছে জাহাজের মোটা কাছি, কালসুস সাফীনা, অথবা শুধু মোটা রশি। তাবারী ইকরিমা থেকে আনেন, এটা সেই রশি যা দিয়ে খেজুর গাছে চড়া হয়। আর মুজাহিদ বলেছেন: জাহাজের রশিগুলোর একটি।"
+          },
+          {
+            "en": "The reports are not one-sided. Through 'Ali ibn Abi Talhah, Ibn 'Abbas explained the jamal as the animal with legs, and Sa'id ibn Jubayr is reported with the mim both doubled and light. At-Tabari records that some grammarians dismissed the doubling as a mishearing. His own verdict is firm: the correct reading is that of the readers of the great cities, al-jamal, because it is the widespread reading, and departing from what the proof has agreed on is not allowed. Either way the image holds: something thick facing something fine.",
+            "bn": "বর্ণনাগুলো একতরফা নয়। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) জামালের ব্যাখ্যা করেছেন পা-ওয়ালা প্রাণী বলে, আর সাঈদ ইবন জুবাইর থেকে মীমে তাশদীদ দিয়ে ও তাশদীদ ছাড়া, দুই রকম পাঠই বর্ণিত আছে। তাবারী জানান, আরবি ভাষার কিছু পণ্ডিত তাশদীদকে ভুল শোনার ফল বলে উড়িয়ে দিয়েছেন। তাঁর নিজের রায় দৃঢ়। সঠিক পাঠ বড় বড় শহরের কারীদের পাঠ: আল-জামাল। কারণ এই পাঠই ব্যাপকভাবে প্রচলিত, আর যে পাঠে প্রমাণসহ সবাই একমত, তার বিরোধিতা করা জায়েয নয়। যেভাবেই পড়া হোক, ছবিটা থেকে যায়: মোটা জিনিসের সামনে অতি সরু পথ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thus Are Criminals Repaid",
+          "bn": "অপরাধীদের প্রতিদান এমনই"
+        },
+        "p": [
+          {
+            "en": "Wa kadhalika najzi l-mujrimin: and thus do We recompense the criminals. At-Tabari reads it as repaying those who committed crimes in the world with the painful punishment they earned in the Hereafter. As-Sa'di and the Muyassar gloss the mujrimun as those whose crimes multiplied and whose transgression grew severe. Al-Qurtubi calls the camel clause decisive: the camel does not pass, so they never enter. Ma'arif al-Qur'an says the image states that their punishment is everlasting.",
+            "bn": "ওয়া কাযালিকা নাজযিল মুজরিমীন: আর এভাবেই আমি অপরাধীদের প্রতিফল দিই। তাবারীর ব্যাখ্যায়, দুনিয়াতে যারা অপরাধ করেছে, আখিরাতে তাদের সেই যন্ত্রণাদায়ক শাস্তি দেওয়া হবে, যা তারা নিজেরাই কামাই করেছে। সা'দী ও মুয়াসসার মুজরিমদের পরিচয় দেন এভাবে: যাদের অপরাধ বেড়ে গেছে আর সীমালঙ্ঘন চরমে পৌঁছেছে। কুরতুবীর মতে উটের বাক্যটি চূড়ান্ত। উট ঢোকে না, তাই তারাও কখনো ঢুকবে না। মাআরিফুল কুরআন বলে, এই উপমা জানিয়ে দেয় যে তাদের শাস্তি চিরস্থায়ী।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: people who denied Allah's verses and were too proud for them, and the gates shut against them. It licenses nothing against any living person or community, and gives no reader the right to name a neighbour, a relative or a people as one for whom heaven is closed. What it hands the reader is a mirror. Denial here travels with istikbar, holding oneself above a verse, and that begins small: a ruling known and put off, a reminder waved away because of who gave it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: যারা আল্লাহর আয়াত অস্বীকার করেছে আর সেগুলোর ব্যাপারে অহংকার দেখিয়েছে, আর তাদের সামনে বন্ধ দরজাগুলো। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। কোনো প্রতিবেশী, আত্মীয় বা জাতিকে আকাশের দরজা বন্ধ থাকা লোক বলে চিহ্নিত করার অধিকারও কোনো পাঠককে দেয় না। পাঠকের হাতে আয়াতটি তুলে দেয় একটি আয়না। এখানে অস্বীকারের সঙ্গী ইসতিকবার, আয়াতের উপরে নিজেকে দাঁড় করানো। আর সেটা শুরু হয় ছোট থেকে: জানা বিধান ফেলে রাখা, কিংবা কে মনে করিয়ে দিল তা দেখে উপদেশ উড়িয়ে দেওয়া।"
+          },
+          {
+            "en": "As-Sa'di's line points the way out. The soul that did not rise to faith, knowledge and love of Allah in this life does not rise after it, while the soul that yielded finds the gates open. The time to let the soul rise is now: to meet each verse by bending to it, so that what goes up to Allah is good speech, lifted by righteous work.",
+            "bn": "বেরোনোর পথটা দেখিয়ে দেয় সা'দীর কথাই। যে রূহ এই জীবনে আল্লাহর প্রতি ঈমান, তাঁর পরিচয় আর ভালোবাসা পর্যন্ত ওঠেনি, মৃত্যুর পরও তা ওঠে না। আর যে রূহ মাথা নুইয়েছিল, সে দেখে দরজাগুলো খোলা। তাই রূহকে উপরে তোলার সময় এখনই। প্রতিটি আয়াতের সামনে নত হোন, যাতে আল্লাহর দিকে যা ওঠে তা হয় পবিত্র কথা, যাকে নেক আমল তুলে নেয়।"
+          }
+        ]
+      }
+    ]
+  },
   "7:42-43": {
     "sections": [
       {
