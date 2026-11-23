@@ -11,6 +11,150 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "3:2": {
+    "sections": [
+      {
+        "h": {
+          "en": "Before Any Story, a Sentence",
+          "bn": "কাহিনির আগে একটি বাক্য"
+        },
+        "p": [
+          {
+            "en": "After the three letters Alif Lam Mim, the first full sentence of Al Imran is this, seven Arabic words long. As-Sa'di says Allah opened the surah by informing of His divinity: He is the God besides whom there is no god, to whom alone devotion and worship are fit, and every object of worship besides Him is false. Al-Baghawi gives the grammar in a line: Allah is the subject, what follows is its predicate, and al-Hayy al-Qayyum describe Him.",
+            "bn": "আলিফ-লাম-মীম, এই তিনটি হরফের পর সূরা আলে ইমরানের প্রথম পূর্ণ বাক্য এটিই, আরবিতে সাতটি শব্দ। সা'দী বলেন, আল্লাহ সূরাটি শুরু করেছেন নিজের উলূহিয়্যাতের খবর দিয়ে। তিনিই সেই ইলাহ, যিনি ছাড়া কোনো ইলাহ নেই। ভক্তি আর ইবাদত কেবল তাঁরই প্রাপ্য, আর তাঁকে ছাড়া যার ইবাদত হয়, সবই বাতিল। বাগাভী এক লাইনে ব্যাকরণটা বলে দেন: আল্লাহ উদ্দেশ্য, পরের অংশ তার বিধেয়, আর আল-হাইয়ুল কাইয়ূম তাঁর গুণবাচক বিশেষণ।"
+          },
+          {
+            "en": "The same seven words open Ayat al-Kursi at 2:255, and al-Hayy al-Qayyum returns at 20:111. Ibn Kathir, on this verse, does not explain them again; he sends the reader back to his commentary on Ayat al-Kursi, and to the opening of al-Baqarah for the letters. This article leaves to 2:255 what is said there. Al-Qurtubi notes that the surah is Madinan by consensus, and the question here is what the sentence does at the head of a Madinan surah.",
+            "bn": "হুবহু এই সাতটি শব্দ দিয়েই ২:২৫৫ আয়াতুল কুরসী শুরু হয়েছে, আর আল-হাইয়ুল কাইয়ূম আবার এসেছে ২০:১১১ আয়াতে। ইবন কাসীর এ আয়াতে শব্দগুলোর ব্যাখ্যা নতুন করে দেননি। অর্থের জন্য পাঠককে তিনি আয়াতুল কুরসীর তাফসীরে ফিরিয়ে দেন, আর হরফগুলোর জন্য সূরা বাকারার শুরুতে। সেখানে যা বলা হয়েছে, এ লেখা তা ২:২৫৫-এর জন্যই রেখে দিচ্ছে। কুরতুবী জানান, সূরাটি সর্বসম্মতভাবে মাদানী। এখানে প্রশ্ন তাই একটাই: একটি মাদানী সূরার মাথায় বসে বাক্যটি কী কাজ করছে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guests From Najran",
+          "bn": "নাজরানের অতিথিরা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari and al-Qurtubi both relay, through Muhammad ibn Ishaq from Muhammad ibn Ja'far ibn az-Zubayr, that the opening of this surah came down about a delegation of Christians from Najran who came to the Prophet ﷺ in Madinah. In al-Qurtubi's summary they stayed some days disputing with him about 'Isa (AS), the opening of the surah to eighty-odd verses came down about them, and the matter ended in the invitation to mubahala. The abridged English Ibn Kathir counts the first eighty-three verses.",
+            "bn": "তাবারী ও কুরতুবী দুজনেই মুহাম্মাদ ইবন ইসহাকের সূত্রে, তিনি মুহাম্মাদ ইবন জা'ফর ইবন যুবাইর থেকে, বর্ণনা করেন: নাজরানের খ্রিস্টানদের একটি প্রতিনিধিদল মদীনায় নবী ﷺ-এর কাছে এসেছিল, আর এ সূরার শুরুর অংশ তাদের নিয়েই নাযিল হয়। কুরতুবীর সংক্ষেপে, তারা কিছুদিন থেকে ঈসা (আঃ)-কে নিয়ে তাঁর সঙ্গে বিতর্ক করে। তাদের ব্যাপারে সূরার শুরু থেকে আশির কিছু বেশি আয়াত নাযিল হয়, আর শেষে বিষয়টি গিয়ে ঠেকে মুবাহালার আহ্বানে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ সংখ্যাটা বলে প্রথম তিরাশিটি আয়াত।"
+          },
+          {
+            "en": "In at-Tabari's fuller version, the report lists what the delegation said of 'Isa (AS): that he is God, that he is the son of God, and that he is the third of three. It gives their reasons too: the miracles done by Allah's leave, a birth with no known father, speech in the cradle, and the plural We in divine speech. At-Tabari then states his own frame: Allah opened the surah by denying divinity to any but Him, as an argument against them and against anyone who holds what they held.",
+            "bn": "তাবারীর বিস্তারিত বর্ণনায় প্রতিনিধিদল ঈসা (আঃ) সম্পর্কে কী বলত, তার তালিকা আছে। তারা বলত, তিনিই আল্লাহ। আবার বলত, তিনি আল্লাহর পুত্র। আবার বলত, তিনি তিনজনের একজন। তাদের যুক্তিগুলোও বর্ণনায় আছে: আল্লাহর অনুমতিতে ঘটা মুজিযা, জানা কোনো পিতা ছাড়া জন্ম, দোলনায় কথা বলা, আর আল্লাহর বাণীতে 'আমরা' বহুবচনের ব্যবহার। এরপর তাবারী নিজের কাঠামো দাঁড় করান। আল্লাহ সূরাটি শুরু করেছেন নিজেকে ছাড়া আর সবার উলূহিয়্যাত অস্বীকার করে। এ তাদের বিরুদ্ধে দলিল, আর তাদের মতো কথা যে-ই বলে, তার বিরুদ্ধেও।"
+          },
+          {
+            "en": "A word on the status of this account. It is a report of the Sira, carried by Ibn Ishaq from a Successor, and none of the commentaries read for this verse grades it. At-Tabari also relays from ar-Rabi' a report of an exchange between the Prophet ﷺ and the Christians about these same attributes; that too is a Successor's report, not graded in the text consulted, so it is only mentioned here. No sound hadith tying the occasion to this verse was found.",
+            "bn": "বর্ণনাটির মান নিয়ে একটি কথা। এটি সীরাতের বর্ণনা, ইবন ইসহাক এনেছেন একজন তাবেঈর কাছ থেকে। এ আয়াতের জন্য পড়া কোনো তাফসীরে এর মান নির্ণয় করা নেই। তাবারী রবী' থেকে আরেকটি বর্ণনাও আনেন, যেখানে ঠিক এই গুণগুলো নিয়ে নবী ﷺ ও খ্রিস্টানদের মধ্যে কথোপকথনের উল্লেখ আছে। সেটিও একজন তাবেঈর বর্ণনা, দেখা পাঠে এর কোনো মান নির্ণয় নেই। তাই এখানে শুধু তার উল্লেখটুকুই থাকল। শানে নুযূলকে এ আয়াতের সঙ্গে জুড়ে দেয় এমন কোনো সহীহ হাদীস পাওয়া যায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Names as a Reply",
+          "bn": "জবাব হয়ে আসা দুটি নাম"
+        },
+        "p": [
+          {
+            "en": "The same Ibn Ishaq chain, relayed by at-Tabari, reads both closing names against the delegation's claim. Al-Hayy: the One who does not die, while 'Isa, in their saying, died and was crucified. Al-Qayyum: the One who stands in His place of authority over His creation and does not pass from it, while 'Isa, in their saying, passed from the place where he was to another. Read this way, the verse does not begin in general terms and reach the dispute later. Its last two words are already the answer.",
+            "bn": "ইবন ইসহাকের একই সূত্র, তাবারীর মাধ্যমে, শেষের নাম দুটিকে পড়ে প্রতিনিধিদলের দাবির জবাব হিসেবে। আল-হাই: যিনি মরেন না, অথচ তাদের কথামতে ঈসা মারা গেছেন, তাঁকে ক্রুশে চড়ানো হয়েছে। আল-কাইয়ূম: যিনি সৃষ্টির উপর নিজের কর্তৃত্বের জায়গায় অটল থাকেন, সেখান থেকে সরে যান না, অথচ তাদের কথামতে ঈসা নিজের জায়গা ছেড়ে অন্য জায়গায় চলে গেছেন। এভাবে পড়লে আয়াতটি সাধারণ কথা দিয়ে শুরু করে পরে বিতর্কে পৌঁছায় না। শেষের দুটি শব্দই আসলে জবাব।"
+          },
+          {
+            "en": "The words in their saying carry the weight. The gloss argues from the delegation's own premise and does not grant it: the Qur'an states at 4:157 that they did not kill him and did not crucify him. Either way the argument stands. On their own telling, one whose life and place could be taken from him is not the Ever-Living who holds up the world, so their account of him undoes their claim about him. The verse answers a belief by the belief's own terms.",
+            "bn": "'তাদের কথামতে' কথাটিই এখানে আসল ভার বহন করছে। ব্যাখ্যাটি প্রতিনিধিদলের নিজের দাবি ধরে যুক্তি দেয়, দাবিটা মেনে নেয় না। কুরআন ৪:১৫৭ আয়াতে স্পষ্ট বলেছে, তারা তাঁকে হত্যাও করেনি, ক্রুশেও চড়ায়নি। যেভাবেই দেখা হোক, যুক্তিটা টিকে থাকে। তাদের নিজের বর্ণনাতেই যাঁর জীবন আর জায়গা কেড়ে নেওয়া যায়, তিনি জগৎ ধরে রাখা চিরঞ্জীব হতে পারেন না। ফলে তাঁকে নিয়ে তাদের কাহিনিই তাদের দাবিকে ভেঙে দেয়। আয়াতটি একটি বিশ্বাসের জবাব দেয় সেই বিশ্বাসেরই শর্তে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Life, Which Standing?",
+          "bn": "কেমন জীবন, কেমন ধারণ?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari records that the people of interpretation differed over al-Hayy. Some said He describes Himself with permanence and negates the death that can befall His creatures; this is the Ibn Ishaq gloss, and ar-Rabi' says, living, does not die. Others said it means the One for whom managing all He wills is easy, nothing He wants refused Him, unlike the false gods that manage nothing. Others said He has lasting life as an attribute, as He is described with knowledge because He has knowledge, and with power because He has power.",
+            "bn": "তাবারী জানান, আল-হাই শব্দের অর্থ নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। একদল বলেন, আল্লাহ এখানে নিজেকে চিরস্থায়িত্বের গুণে গুণান্বিত করেছেন, আর সৃষ্টির উপর যে মৃত্যু আসতে পারে, তা নিজের থেকে নাকচ করেছেন। ইবন ইসহাকের ব্যাখ্যা এটাই, আর রবী' বলেন: জীবিত, মরেন না। আরেক দল বলেন, অর্থ হলো তিনি যা চান, তার সবকিছু পরিচালনা তাঁর জন্য সহজ, কোনো কিছুই তাঁকে আটকাতে পারে না। মিথ্যা উপাস্যদের মতো নন, যারা কিছুই পরিচালনা করে না। আরেক দল বলেন, স্থায়ী জীবন তাঁর একটি সিফাত। যেমন তাঁর জ্ঞান আছে বলে তিনি জ্ঞানী, ক্ষমতা আছে বলে ক্ষমতাবান।"
+          },
+          {
+            "en": "At-Tabari's own reading is lasting life with no ending and no cutting off, free of the perishing that comes to every living creature at its term. He draws the argument out: whatever perishes and passes cannot be a god deserving worship in place of the God who neither perishes nor dies. On al-Qayyum he sets the Ibn Ishaq reading, standing in His place without moving, beside that of Mujahid and ar-Rabi', standing over everything, and judges the second nearer the truth.",
+            "bn": "তাবারীর নিজের মত হলো: এমন স্থায়ী জীবন, যার শেষ নেই, ছেদ নেই। প্রত্যেক জীবিত সৃষ্টির উপর নির্ধারিত সময়ে যে বিনাশ নেমে আসে, তা থেকে তিনি মুক্ত। এখান থেকে তিনি যুক্তিটা টেনে বের করেন: যা ধ্বংস হয়, মুছে যায়, তা কখনো এমন ইলাহ হতে পারে না, যার ইবাদত করা হবে সেই ইলাহকে বাদ দিয়ে, যিনি ধ্বংস হন না, মরেন না। আল-কাইয়ূম নিয়ে তিনি ইবন ইসহাকের ব্যাখ্যা, অর্থাৎ নিজের জায়গায় অটল থাকা, পাশে রাখেন মুজাহিদ ও রবী'-এর ব্যাখ্যা, অর্থাৎ সবকিছুর উপর দাঁড়িয়ে থাকা। এরপর তিনি দ্বিতীয়টিকেই বেশি সঠিক বলে রায় দেন।"
+          },
+          {
+            "en": "His reason is an Arab usage. People say of a man that he is qa'im over the affairs of a town when he is the one who manages them. So al-Qayyum, for at-Tabari, is the One who manages everything: its provision, its defence, its keeping and its turning within His power. The two readings are not far apart in spirit, but they look in different directions. One says He does not move; the other says nothing moves except under His care.",
+            "bn": "তাঁর যুক্তি আরবদের একটি বাকরীতি। কেউ কোনো শহরের কাজকর্ম চালালে আরবরা বলে, সে এ শহরের ব্যাপারে কায়িম। তাই তাবারীর কাছে আল-কাইয়ূম হলেন তিনি, যিনি সবকিছু চালান: তার রিযিক, তার হেফাজত, তার দেখাশোনা, আর নিজের কুদরতে তাকে যেভাবে ইচ্ছা ঘুরিয়ে দেওয়া। দুই ব্যাখ্যার মর্ম খুব দূরের নয়, তবে দুটি দুই দিকে তাকায়। একটি বলে, তিনি নিজে নড়েন না। অন্যটি বলে, তাঁর তত্ত্বাবধান ছাড়া কিছুই নড়ে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qayyum, Qayyam, Qayyim",
+          "bn": "কাইয়ূম, কাইয়াম, কাইয়িম"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports that the readers of the cities read al-Qayyum, while 'Umar ibn al-Khattab is reported to have read al-Qayyam, and 'Alqama ibn Qays al-Qayyim, with another report giving him al-Qayyam. Al-Qurtubi adds, from Kharija, that the copy of 'Abdullah had al-Qayyim. At-Tabari's ruling is firm: the only permitted reading is the one the Muslims' readers handed down widely, without collusion, and which stood written in their copies, al-Hayy al-Qayyum. The other forms are reports he records, not readings he allows.",
+            "bn": "তাবারী জানান, বিভিন্ন শহরের কারীগণ পড়তেন আল-কাইয়ূম। তবে বর্ণিত আছে, উমর ইবনুল খাত্তাব (রাঃ) পড়তেন আল-কাইয়াম। আলকামা ইবন কায়স পড়তেন আল-কাইয়িম, অন্য এক বর্ণনায় তাঁর পাঠও আল-কাইয়াম। কুরতুবী খারিজার সূত্রে যোগ করেন, আবদুল্লাহর মুসহাফে ছিল আল-কাইয়িম। তাবারীর সিদ্ধান্ত দৃঢ়। একমাত্র সেই পাঠই বৈধ, যা মুসলিম কারীগণ ব্যাপকভাবে, কোনো যোগসাজশ ছাড়া, পরম্পরায় পৌঁছে দিয়েছেন এবং যা তাঁদের মুসহাফে লেখা ছিল: আল-হাইয়ুল কাইয়ূম। অন্য রূপগুলো তিনি বর্ণনা হিসেবে লিখে রাখেন, পাঠ হিসেবে অনুমোদন দেন না।"
+          },
+          {
+            "en": "The meanings, he says, are close: all of them describe Him who keeps everything, provides for it and turns it as He wills. Al-Qayyum is the fay'ul pattern from qama, to stand, originally qayyuwum, its waw turned into the ya before it to give a doubled ya. Each of these forms is built for intensity of praise, stronger than plain qa'im, standing. Al-Qurtubi relays from al-Kisa'i that 'Umar opened Al Imran in the 'Isha prayer with al-Hayy al-Qayyam, reading a hundred verses in the first rak'ah and the remaining hundred in the second.",
+            "bn": "তাবারী বলেন, অর্থগুলো কাছাকাছি। সবগুলোই সেই সত্তার কথা বলে, যিনি সবকিছু রক্ষা করেন, রিযিক দেন, আর যেভাবে ইচ্ছা ঘুরিয়ে দেন। আল-কাইয়ূম হলো 'কামা' বা দাঁড়ানো ক্রিয়া থেকে ফাইউল ওজনের শব্দ। মূলে ছিল কাইয়ূউম। আগের সাকিন ইয়ার প্রভাবে ওয়াও ইয়া হয়ে গেছে, ফলে তাশদীদযুক্ত ইয়া দাঁড়িয়েছে। এই প্রতিটি রূপই প্রশংসায় জোর আনার জন্য গড়া, সাধারণ 'কায়িম' বা দণ্ডায়মান শব্দের চেয়ে অনেক বেশি জোরালো। কুরতুবী কিসায়ীর সূত্রে বর্ণনা করেন, উমর (রাঃ) ইশার নামাজে আল-হাইয়ুল কাইয়াম পড়ে আলে ইমরান শুরু করেন। প্রথম রাকাতে পড়েন একশো আয়াত, দ্বিতীয় রাকাতে বাকি একশো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Owner, Owned and Worship",
+          "bn": "মালিক, মালিকানা ও ইবাদত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari treats la ilaha illa Huwa as a report from Allah to His servants: divinity belongs to Him alone, and worship is fit for none but Him, because He alone is Lord and all besides Him is His dominion and His creation. He frames it as an argument. Every object of worship besides Him is owned, every revered thing besides Him is created, and the owned owes its obedience to its Owner. It also told anyone then worshipping an idol, the sun, the moon, a human being or an angel that he had left the straight road.",
+            "bn": "তাবারী লা ইলাহা ইল্লা হুয়া-কে দেখেন বান্দাদের প্রতি আল্লাহর দেওয়া খবর হিসেবে। উলূহিয়্যাত শুধু তাঁর, ইবাদত তিনি ছাড়া আর কারও প্রাপ্য নয়। কারণ রব একমাত্র তিনিই, আর তিনি ছাড়া বাকি সবই তাঁর রাজত্ব, তাঁর সৃষ্টি। তাবারী একে দলিল হিসেবে সাজান। তিনি ছাড়া যার ইবাদত হয়, সে তাঁর মালিকানাধীন। তিনি ছাড়া যাকে সম্মান করা হয়, সে তাঁর সৃষ্টি। আর মালিকানাধীন যে, তার আনুগত্য পাওনা তার মালিকের। মূর্তি, সূর্য, চাঁদ, মানুষ বা ফেরেশতা, যে-ই তখন এদের কারও ইবাদতে লেগে ছিল, এ খবর তাকে জানিয়ে দিয়েছে যে সে সোজা পথ ছেড়ে এসেছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an calls the verse a rational proof of Allah's oneness. Worship is presenting oneself in complete humility, so its object must be perfect in every respect; anything that cannot bring itself into being or keep itself in being, whether idols, water, trees, angels or messengers, has no claim to it. As-Sa'di reaches the same point from al-Qayyum and widens it: His managing of creation covers bodies, and also hearts and souls. The same surah's prayer at 3:8 asks Him not to let hearts swerve.",
+            "bn": "মাআরিফুল কুরআন আয়াতটিকে আল্লাহর একত্বের একটি যৌক্তিক প্রমাণ বলে। ইবাদত মানে পূর্ণ বিনয়ে কারও সামনে নিজেকে সঁপে দেওয়া। তাই যার ইবাদত হবে, তাঁকে সব দিক থেকে পরিপূর্ণ হতে হবে। যা নিজে অস্তিত্বে আসতে পারে না, নিজেকে টিকিয়েও রাখতে পারে না, সে মূর্তি হোক বা পানি, গাছ, ফেরেশতা কিংবা রাসূল, ইবাদতের উপর তার কোনো দাবি নেই। সা'দী একই জায়গায় পৌঁছান আল-কাইয়ূম থেকে, আর কথাটা আরও প্রশস্ত করেন। সৃষ্টির উপর তাঁর পরিচালনা শুধু দেহে নয়, অন্তর আর রূহেও। এ সূরারই ৩:৮ আয়াতের দোয়ায় তাঁর কাছে চাওয়া হয়েছে, তিনি যেন অন্তরগুলোকে বাঁকা হতে না দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Greatest Name Lies",
+          "bn": "ইসমে আজম কোথায় আছে"
+        },
+        "p": [
+          {
+            "en": "At-Tirmidhi records (3478): Asma bint Yazid narrated that the Prophet ﷺ said: \"Allah's greatest name is in these two Ayah: 'And your deity is One deity, there is none who has the right to be worshipped but He, Ar-Rahman, Ar-Rahim.' And the Opening of Al-'Imran: 'Alif. Lam. Mim. Allah, None has the right to be worshipped but He, the Ever living, the Sustainer.'\" He grades it hasan sahih. Abu Dawud (1496) and Ibn Majah (3855) record it through the same chain, with no grading of their own.",
+            "bn": "তিরমিযী বর্ণনা করেন (৩৪৭৮): আসমা বিনতে ইয়াযীদ (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: \"আল্লাহর ইসমে আজম এই দুই আয়াতে আছে: 'আর তোমাদের ইলাহ এক ইলাহ, তিনি ছাড়া ইবাদতের যোগ্য কেউ নেই, তিনি রহমান, রহীম।' আর আলে ইমরানের শুরুতে: 'আলিফ-লাম-মীম। আল্লাহ, তিনি ছাড়া ইবাদতের যোগ্য কেউ নেই, তিনি চিরঞ্জীব, সবকিছুর ধারক।'\" তিরমিযী একে হাসান সহীহ বলেছেন। আবু দাউদ (১৪৯৬) ও ইবন মাজাহ (৩৮৫৫) একই সনদে এটি বর্ণনা করেছেন, তবে নিজেরা কোনো মান উল্লেখ করেননি।"
+          },
+          {
+            "en": "Al-Qurtubi uses the report for one of three explanations of why al-Baqarah and Al Imran are called az-Zahrawan, the two radiant ones: they share what the Greatest Name contains. The other two tie the name to light, the light of their meanings for the one who reads them, or the full light that reading them brings on the Day of Resurrection. Muslim records (804) from Abu Umama the Prophet's ﷺ instruction to recite the two radiant ones, al-Baqarah and Al Imran. That narration concerns the two surahs as wholes and is not attached to this verse.",
+            "bn": "সূরা বাকারা ও আলে ইমরানকে কেন যাহরাওয়ান, অর্থাৎ দুই দীপ্তিময়, বলা হয়, কুরতুবী তার তিনটি ব্যাখ্যা দেন। তৃতীয়টিতে তিনি এই বর্ণনাই আনেন: দুই সূরাই ইসমে আজমের অংশীদার। বাকি দুটি ব্যাখ্যা নামটিকে আলোর সঙ্গে জোড়ে। একটি হলো পাঠকের জন্য সূরা দুটির অর্থের আলো, অন্যটি কিয়ামতের দিন এ দুটি পড়ার ফলে পাওয়া পূর্ণ আলো। মুসলিম আবু উমামা (রাঃ) থেকে বর্ণনা করেন (৮০৪), নবী ﷺ দুই দীপ্তিময় সূরা, বাকারা ও আলে ইমরান পড়তে বলেছেন। এ বর্ণনা পুরো দুই সূরা নিয়ে, এ আয়াতের সঙ্গে আলাদাভাবে যুক্ত নয়।"
+          },
+          {
+            "en": "Ibn Kathir, on this verse, says the report places the Name in Ayat al-Kursi and in this opening; the wording found in at-Tirmidhi, Abu Dawud and Ibn Majah 3855 pairs it with 2:163 instead. Ibn Majah also records (3856) the Successor al-Qasim saying that the Greatest Name, by which Allah answers when called, is in three surahs: al-Baqarah, Al Imran and Ta-Ha, with a second chain from Abu Umama to the Prophet ﷺ giving only something similar. Ibn Majah grades neither. None of these pages names the word meant, and this article does not guess.",
+            "bn": "ইবন কাসীর এ আয়াতে বলেন, বর্ণনাটি ইসমে আজমকে রেখেছে আয়াতুল কুরসী আর এই শুরুর আয়াতে। কিন্তু তিরমিযী, আবু দাউদ ও ইবন মাজাহ ৩৮৫৫-এ পাওয়া শব্দে এর জোড়া হলো ২:১৬৩। ইবন মাজাহ আরও বর্ণনা করেন (৩৮৫৬), তাবেঈ কাসিম বলেছেন: ইসমে আজম, যা দিয়ে ডাকলে আল্লাহ সাড়া দেন, আছে তিনটি সূরায়: বাকারা, আলে ইমরান ও ত্বাহা। সঙ্গে আছে আবু উমামা (রাঃ) হয়ে নবী ﷺ পর্যন্ত আরেকটি সনদ, যাতে শুধু বলা হয়েছে 'অনুরূপ'। ইবন মাজাহ কোনোটির মান উল্লেখ করেননি। এসব পাতার কোথাও বলা নেই ঠিক কোন শব্দটি সেই নাম, আর এ লেখাও তা আন্দাজ করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Resting on the Ever-Living",
+          "bn": "চিরঞ্জীবের উপর ভর রাখা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse answers a claim about 'Isa (AS) and about Allah, made in an argument the commentators place in Madinah. It describes that argument and its answer, and it licenses nothing against any Christian living today, nor harshness toward anyone of another faith. The answer it gives is made of reasons, not insults, and the same surah later calls the People of the Book to a common word at 3:64. Whoever takes this verse as a weapon has missed how it argues.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি ঈসা (আঃ) ও আল্লাহ সম্পর্কে একটি দাবির জবাব দেয়, আর তাফসীরকারেরা সেই বিতর্কের জায়গা বলেন মদীনা। আয়াত সেই বিতর্ক আর তার জবাবের বর্ণনা দেয়। আজকের কোনো খ্রিস্টানের বিরুদ্ধে কিছু করার, কিংবা অন্য ধর্মের কারও প্রতি কঠোর হওয়ার কোনো অনুমতি এ আয়াত দেয় না। এর জবাব গড়া যুক্তি দিয়ে, গালি দিয়ে নয়। এ সূরাই পরে ৩:৬৪ আয়াতে আহলে কিতাবকে একটি অভিন্ন কথার দিকে ডাকে। যে এ আয়াতকে অস্ত্র বানায়, সে বুঝতেই পারেনি আয়াতটি কীভাবে যুক্তি দেয়।"
+          },
+          {
+            "en": "For a reader, at-Tabari's argument turns into a question about dependence. Whatever I lean on, a parent, an income, my health, my own skill, either lives by itself or is kept alive, and only the first can carry my whole weight. When any of those supports fails, the verse gives the words to say at that moment: Allah, there is no god but He, the Ever-Living, the Sustainer. The next verse, 3:3, moves straight to the Book He sent down. Guidance is the first provision the Sustainer gives.",
+            "bn": "পাঠকের কাছে তাবারীর যুক্তি হয়ে দাঁড়ায় নির্ভরতার প্রশ্ন। আমি যার উপর ভর দিই, বাবা-মা, আয়-রোজগার, শরীরের সুস্থতা কিংবা নিজের দক্ষতা, তা হয় নিজের জোরে বেঁচে আছে, নয়তো কেউ তাকে বাঁচিয়ে রেখেছে। আমার পুরো ভার শুধু প্রথমটিই বইতে পারে। এসব ভরসার কোনোটা যখন ভেঙে পড়ে, সেই মুহূর্তে বলার কথাটা আয়াতই শিখিয়ে দেয়: আল্লাহ, তিনি ছাড়া কোনো ইলাহ নেই, তিনি চিরঞ্জীব, সবকিছুর ধারক। পরের আয়াত, ৩:৩, সরাসরি চলে যায় তাঁর নাযিল করা কিতাবের কথায়। ধারক যা দেন, তার প্রথমটি হলো হিদায়াত।"
+          }
+        ]
+      }
+    ]
+  },
   "3:3-4": {
     "sections": [
       {

@@ -30223,6 +30223,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The whisperer works through heedlessness: he speaks unseen and falls back when Allah is remembered. Keep the heart awake with remembrance, and do not take every passing whisper for your own.",
     "lessonBn": "কুমন্ত্রণাদাতার কাজ চলে গাফিলতির ভেতর দিয়ে। সে অদৃশ্যে কথা বলে, আর আল্লাহর জিকির হলেই পিছিয়ে যায়। জিকির দিয়ে অন্তরকে জাগিয়ে রাখুন, আর মনে আসা প্রতিটি কুমন্ত্রণাকে নিজের বলে ধরে নেবেন না।"
+  },
+  "3:2": {
+    "reflectionEn": "Al Imran opens with three letters and then, before any story or command, a single sentence: Allah, there is no god but He, the Ever-Living, the Sustainer of all. Everything the surah goes on to say rests on this. Two names are chosen to close it. The Ever-Living does not die, wear out or pass away; everything else I could lean on does. The Sustainer holds up all that exists, my next breath included; nothing I lean on holds itself up. So the sentence is not only a creed to recite. It is a test for every support in my life: does this live by itself, or is it being kept alive? Whatever is kept alive cannot be the one I finally rest on.",
+    "reflectionBn": "সূরা আলে ইমরান শুরু হয় তিনটি হরফ দিয়ে। তারপর কোনো কাহিনি বা আদেশের আগেই একটিমাত্র বাক্য: আল্লাহ, তিনি ছাড়া কোনো ইলাহ নেই, তিনি চিরঞ্জীব, সবকিছুর ধারক। পুরো সূরা যা বলবে, সবই দাঁড়িয়ে আছে এই বাক্যের উপর। বাক্যটি শেষ হয় বেছে নেওয়া দুটি নামে। চিরঞ্জীব মরেন না, ক্ষয়ে যান না, সরেও যান না। আমি যার উপর ভর দিতে পারি, বাকি সবই মরে, ক্ষয়ে যায়। আর তিনি সবকিছুর ধারক। যা কিছু আছে, আমার পরের নিঃশ্বাসটিও, তিনিই ধরে রেখেছেন। আমি যার উপর ভর দিই, তার কোনোটিই নিজের জোরে দাঁড়িয়ে নেই। তাই বাক্যটি শুধু মুখে পড়ার আকীদা নয়। জীবনের প্রতিটি ভরসার জন্য এ এক পরীক্ষা: এটা কি নিজে বেঁচে আছে, নাকি কেউ একে বাঁচিয়ে রেখেছে? যাকে বাঁচিয়ে রাখতে হয়, শেষ ভরসা তার উপর রাখা যায় না।",
+    "pointsEn": [
+      "Which person, job or plan do I quietly treat as the thing that holds my life up, and does it hold itself up?",
+      "If the Ever-Living is the only support that never dies, what changes in how I grieve the supports that do?",
+      "When I say la ilaha illa Allah in prayer, do I mean a sentence, or a refusal to rest on anything else?",
+      "The Sustainer keeps my heart as well as my body. What do I ask Him to keep steady in me this week?",
+      "When someone disagrees with me about who Allah is, do I answer with clear reasons and calm, as this surah does?"
+    ],
+    "pointsBn": [
+      "কোন মানুষ, চাকরি বা পরিকল্পনাকে আমি মনে মনে নিজের জীবনের খুঁটি বানিয়ে রেখেছি? সেটা কি নিজের জোরে দাঁড়িয়ে আছে?",
+      "চিরঞ্জীবই যদি একমাত্র ভরসা হন যিনি কখনো মরেন না, তবে যে ভরসাগুলো হারিয়ে যায়, তাদের শোক আমি কীভাবে করব?",
+      "নামাজে যখন লা ইলাহা ইল্লাল্লাহ বলি, তা কি শুধু একটা বাক্য, নাকি আর সবকিছুর উপর ভর না দেওয়ার অঙ্গীকার?",
+      "তিনি শুধু আমার শরীর নয়, অন্তরও ধরে রাখেন। এ সপ্তাহে আমার ভেতরের কোন জিনিসটা স্থির রাখতে তাঁর কাছে চাইব?",
+      "আল্লাহ সম্পর্কে কেউ আমার সঙ্গে দ্বিমত করলে আমি কি এ সূরার মতো স্পষ্ট যুক্তি আর শান্ত ভাষায় জবাব দিই?"
+    ],
+    "lessonEn": "Rest your life on the Ever-Living who sustains all things, not on anything that must itself be kept alive.",
+    "lessonBn": "যাকে নিজেকেই বাঁচিয়ে রাখতে হয় তার উপর নয়, জীবনের ভার রাখুন সেই চিরঞ্জীবের উপর, যিনি সবকিছু ধরে রাখেন।"
   }
 };
 
