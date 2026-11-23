@@ -32863,6 +32863,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Love is not a wage paid for usefulness or numbers. Before calling another's choice a plain error, remember what you cannot see, and do not let a private grievance grow by repetition.",
     "lessonBn": "ভালোবাসা কাজের বা সংখ্যার মজুরি নয়। অন্যের সিদ্ধান্তকে স্পষ্ট ভুল বলার আগে মনে রাখুন, সবটা আপনি দেখতে পান না। আর মনের ক্ষোভকে বারবার বলে বলে বাড়তে দেবেন না।"
+  },
+  "12:42": {
+    "reflectionEn": "Two dreams have been read, and one of the young men is about to walk free. At the parting, Yusuf asks him for one thing: mention me before your master. It is a fair request from a man held without a crime. Then the verse turns. Satan made the mention slip from memory, and the prison closed around him again for some years. This is no place to sit in judgement on a prophet of Allah. The verse shows how thin the thread is that a plan hangs on, and how the One who decrees can keep a door shut until the hour He has chosen. On whom does my heart really lean? And who is still waiting for the word I promised to say for them?",
+    "reflectionBn": "দুটি স্বপ্নের ব্যাখ্যা দেওয়া শেষ, আর যুবকদের একজন শিগগিরই ছাড়া পাবে। বিদায়ের মুহূর্তে ইউসুফ (আঃ) তার কাছে একটাই অনুরোধ রাখেন: তোমার মনিবের কাছে আমার কথা বলো। বিনা অপরাধে আটকে থাকা মানুষের ন্যায্য অনুরোধ। তারপর আয়াত মোড় নেয়। শয়তান সেই কথা স্মৃতি থেকে মুছে দিল, আর কয়েক বছরের জন্য কারাগারের দরজা আবার বন্ধ হয়ে রইল। আল্লাহর কোনো নবীর বিচার করতে বসার জায়গা এটা নয়। আয়াতটি বরং দেখায়, মানুষের পরিকল্পনা কত সরু সুতোয় ঝোলে, আর যিনি ফায়সালা করেন, তিনি নিজের ঠিক করা সময় পর্যন্ত দরজা বন্ধ রাখতে পারেন। আমার মন আসলে কার উপর ভর দিয়ে আছে? আর কে এখনো সেই কথার অপেক্ষায়, যা আমি তার হয়ে বলব বলে কথা দিয়েছিলাম?",
+    "pointsEn": [
+      "When I ask a person for help, where does my heart rest while I wait for their answer?",
+      "Whom have I promised to mention, recommend or speak up for, and have I actually done it?",
+      "Looking back, has a delay I resented turned out to be preparing something I could not see at the time?",
+      "Do I take the means within my reach and leave the outcome with Allah, or do I cling to one person as if everything hung on them?",
+      "When someone forgets a kindness I did for them, can I let it pass without bitterness?"
+    ],
+    "pointsBn": [
+      "কারও কাছে সাহায্য চাওয়ার পর উত্তরের অপেক্ষায় থাকার সময় আমার মন কোথায় ভর দিয়ে থাকে?",
+      "কার হয়ে কথা বলব, কার নাম কোথাও তুলব বলে কথা দিয়েছি? সে কথা কি সত্যিই রেখেছি?",
+      "যে দেরি নিয়ে একসময় মনে ক্ষোভ ছিল, পেছন ফিরে দেখলে কি মনে হয় সেটা এমন কিছু তৈরি করছিল যা তখন চোখে পড়েনি?",
+      "হাতের কাছে যে উপায় আছে তা গ্রহণ করে ফলাফল কি আল্লাহর হাতে ছেড়ে দিই? নাকি একজন মানুষকে এমনভাবে আঁকড়ে ধরি, যেন সবকিছু তার উপরেই নির্ভর করছে?",
+      "আমার করা কোনো উপকার কেউ ভুলে গেলে আমি কি মনে তিক্ততা না রেখে তা ছেড়ে দিতে পারি?"
+    ],
+    "lessonEn": "Use the means Allah puts within reach, but keep your heart's reliance on Him, and do not let a word you promised to say for someone slip from memory.",
+    "lessonBn": "আল্লাহ যে উপায় হাতের কাছে দিয়েছেন তা কাজে লাগান, কিন্তু মনের ভরসা রাখুন তাঁরই উপর। আর কারও হয়ে যে কথা বলবেন বলে কথা দিয়েছেন, তা যেন স্মৃতি থেকে হারিয়ে না যায়।"
   }
 };
 

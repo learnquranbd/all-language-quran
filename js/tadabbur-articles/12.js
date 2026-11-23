@@ -2107,6 +2107,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:42": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Request at the Parting",
+          "bn": "বিদায়বেলার অনুরোধ"
+        },
+        "p": [
+          {
+            "en": "In 12:41 Yusuf (AS) read the two dreams: one young man would pour wine for his master again, the other would be crucified, and the matter they asked about was decreed. Verse 12:42 begins in the same cell: wa-qala li-lladhi zanna annahu najin minhuma, and he said to the one of the two he thought would be saved. As-Sa'di identifies him as the man who had seen himself pressing wine, and al-Baghawi and Ibn Kathir call him the cupbearer. Then comes the request: udhkurni 'inda rabbika, mention me before your master.",
+            "bn": "১২:৪১ আয়াতে ইউসুফ (আঃ) দুটি স্বপ্নের ব্যাখ্যা দিয়েছেন। এক যুবক আবার তার মনিবকে মদ পান করাবে, অন্যজনকে শূলে চড়ানো হবে, আর যে বিষয়ে তারা জানতে চেয়েছিল তার ফায়সালা হয়ে গেছে। ১২:৪২ আয়াত শুরু হয় সেই একই কারাকক্ষে: ওয়া কালা লিল্লাযী যান্না আন্নাহূ নাজিন মিনহুমা, আর দুজনের মধ্যে যে মুক্তি পাবে বলে তিনি মনে করলেন, তাকে বললেন। সা'দী জানান, এ সেই লোক যে স্বপ্নে নিজেকে আঙুর নিংড়ে মদ বানাতে দেখেছিল। বাগাভী ও ইবন কাসীর তাকে বলেন সাকী, অর্থাৎ পানীয় পরিবেশনকারী। তারপর আসে অনুরোধটি: উযকুরনী ইনদা রাব্বিক, তোমার মনিবের কাছে আমার কথা বলো।"
+          },
+          {
+            "en": "Ibn Kathir notices how it was said: privately, out of the other's hearing, so that the baker would not sense he was the one to be crucified, and he closes the remark with: and Allah knows best. At-Tabari relays a small scene from Ibrahim at-Taymi. At the prison gate, the companion said: your need, charge me with your need. Yusuf (AS) answered: my need is that you mention me before your master.",
+            "bn": "কথাটা কীভাবে বলা হয়েছিল, ইবন কাসীর সেদিকে নজর দেন: গোপনে, অন্যজনের অগোচরে, যাতে রুটিওয়ালা আঁচ না করে যে শূলে চড়ানো হবে তাকেই। মন্তব্যটা তিনি শেষ করেন 'আল্লাহই ভালো জানেন' বলে। তাবারী ইবরাহীম আত-তাইমী থেকে ছোট্ট একটি দৃশ্য বর্ণনা করেন। কারাগারের দরজায় সঙ্গীটি বলল: আপনার প্রয়োজনটা বলুন, আপনার দরকারের ভার আমাকে দিন। ইউসুফ (আঃ) বললেন: আমার দরকার এটুকুই, তোমার মনিবের কাছে আমার কথা বলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thought, or Knew for Certain?",
+          "bn": "অনুমান, নাকি নিশ্চিত জ্ঞান?"
+        },
+        "p": [
+          {
+            "en": "The verb zanna usually means to think or suppose, and the commentators stop on it here. At-Tabari, al-Baghawi and the Muyassar all gloss it as 'alima, he knew. Al-Qurtubi says it means ayqana, he was certain, in the view of most commentators. Qatada read it the other way, as the zann that is the opposite of certainty. In at-Tabari's report of him, he says that reading dreams is by conjecture, and Allah makes true what He wills and voids what He wills.",
+            "bn": "যান্না ক্রিয়ার সাধারণ অর্থ মনে করা বা অনুমান করা, আর তাফসীরকারেরা এখানে এ শব্দে এসে থামেন। তাবারী, বাগাভী ও মুয়াসসার তিনজনই এর অর্থ করেন আলিমা, তিনি জানতেন। কুরতুবী বলেন, অধিকাংশ তাফসীরকারের মতে এখানে এর অর্থ আইকানা, তিনি নিশ্চিত ছিলেন। কাতাদা অর্থ নিয়েছিলেন উল্টো দিকে, সেই ধারণা যা নিশ্চয়তার বিপরীত। তাবারীর বর্ণনায় কাতাদা বলেন, স্বপ্নের ব্যাখ্যা হয় অনুমানে। আল্লাহ যা চান সত্য করেন, যা চান বাতিল করে দেন।"
+          },
+          {
+            "en": "At-Tabari rejects this. Conjecture, he says, holds for those who are not prophets. A prophet cannot report that something will happen and then it fails to, for then none of his reports could be trusted and his proof would fall. Yusuf (AS) had sealed his reading with qudiya al-amr, the matter is decreed, and from that certainty he asked to be mentioned. Al-Qurtubi agrees that the first view is sounder and more fitting to prophets, since his reading came by revelation.",
+            "bn": "তাবারী এ মত নাকচ করেন। তাঁর কথায়, অনুমানের কথা খাটে নবী নন এমন মানুষের বেলায়। কোনো নবী বলবেন অমুক ঘটনা ঘটবে, অথচ তা ঘটবে না, এমন হতে পারে না। তাহলে তাঁর কোনো সংবাদের উপরই আর ভরসা থাকত না, আর তাঁর দলিলও ভেঙে পড়ত। ইউসুফ (আঃ) নিজের ব্যাখ্যা শেষ করেছিলেন কুদিয়াল আমর বলে, ফায়সালা হয়ে গেছে। সেই নিশ্চয়তা থেকেই তিনি নিজের কথা তুলতে বলেন। কুরতুবীও একমত: প্রথম মতটিই বেশি সঠিক এবং নবীদের মর্যাদার সঙ্গে বেশি মানানসই, কেননা তাঁর ব্যাখ্যা এসেছিল ওহীর মাধ্যমে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Making a Wrong Known",
+          "bn": "অন্যায়ের খবর পৌঁছে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "What was the cupbearer to say? At-Tabari spells it out: tell your master of the wrong done to me, and that I am held without any crime. In his report from Ibn Ishaq, the man answers: I will. The Muyassar has: tell him that I am wronged, imprisoned without a sin. Al-Baghawi gives the very words the cupbearer should use: there is a young man in the prison, held unjustly, whose confinement has grown long.",
+            "bn": "সাকীকে আসলে কী বলতে হবে? তাবারী তা খুলে বলেন: তোমার মনিবকে জানাও আমার উপর কী অন্যায় হয়েছে, আর আমাকে বিনা অপরাধে আটকে রাখা হয়েছে। ইবন ইসহাক থেকে তাঁর বর্ণনায় লোকটি উত্তর দেয়: জানাব। মুয়াসসারে আছে: তাকে বলো, আমি মজলুম, কোনো গুনাহ ছাড়াই বন্দি। বাগাভী সাকীর মুখে বসানোর মতো কথাটাই দিয়ে দেন: কারাগারে এক যুবক অন্যায়ভাবে আটক আছে, আর তার বন্দিদশা দীর্ঘ হয়ে গেছে।"
+          },
+          {
+            "en": "As-Sa'di gives the hope behind it: mention my affair and my story to him, so that perhaps he will soften toward me and bring me out. Ma'arif al-Qur'an has Yusuf (AS) mentioned as the innocent person still languishing in the prison. Across the sources the request is the same: a plain report of an injustice, carried to the one man able to undo it.",
+            "bn": "এর পেছনের আশাটুকু বলে দেন সা'দী: রাজার কাছে আমার অবস্থা আর আমার ঘটনা বলো, হয়তো তাঁর মন নরম হবে, আর তিনি আমাকে বের করে আনবেন। মাআরিফুল কুরআনে ইউসুফ (আঃ)-এর কথা তোলার কথা এমন এক নির্দোষ মানুষ হিসেবে, যে এখনো কারাগারে পড়ে আছে। সূত্রগুলো ঘুরে দেখলে অনুরোধ একটাই: একটি অন্যায়ের সোজাসাপটা খবর, যা পৌঁছাবে সেই একজনের কাছে, যার হাতে তা মোচনের ক্ষমতা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Master Called Rabb",
+          "bn": "মনিবকে যখন রব বলা হয়"
+        },
+        "p": [
+          {
+            "en": "Rabbika here is your master, not your Lord. At-Tabari brings it from Mujahid and Qatada as the king, and from Asbat as the king of the land. Al-Qurtubi says it is well known in Arabic to call a master rabb, quotes a line of the poet al-A'sha to show it, and points to the same usage in the Qur'an, innahu rabbi ahsana mathwaya in 12:23, where he takes it to mean the Aziz. Anyone who sets a thing right and completes it, he adds, is said to be its rabb.",
+            "bn": "এখানে রাব্বিকা মানে তোমার মনিব, তোমার প্রতিপালক নয়। তাবারী মুজাহিদ ও কাতাদা থেকে আনেন যে এর অর্থ রাজা, আর আসবাত থেকে আনেন, দেশের রাজা। কুরতুবী বলেন, আরবি ভাষায় মনিবকে রব বলা সুপরিচিত। প্রমাণ হিসেবে তিনি কবি আল-আ'শার একটি পঙ্‌ক্তি উদ্ধৃত করেন, আর কুরআনেও একই ব্যবহার দেখান: ১২:২৩ আয়াতে ইন্নাহূ রাব্বী আহসানা মাসওয়ায়া, যেখানে তাঁর মতে উদ্দেশ্য আযীয। তিনি আরও বলেন, যে কেউ কোনো জিনিস ঠিকঠাক করে তার কাজ পূর্ণ করে, তাকেও সে জিনিসের রব বলা হয়।"
+          },
+          {
+            "en": "He then cites a hadith in Sahih Muslim, recorded under 2249 in the narration of Hammam ibn Munabbih from Abu Hurayrah (RA), that the Messenger of Allah ﷺ said: \"None of you should say: Supply drink to your lord, feed your lord, help your lord in performing ablution, and none of you should say: My Lord. He should say: My chief, my patron; and none of you should say: My bondman, my slave-girl, but simply say: My boy, my girl, my servant.\" It is a general narration on manners of speech and is not attached to this verse.",
+            "bn": "এরপর কুরতুবী সহীহ মুসলিমের একটি হাদীস আনেন। ইমাম মুসলিম এটি ২২৪৯ নম্বরে বর্ণনা করেছেন, হাম্মাম ইবন মুনাব্বিহের সূত্রে আবূ হুরায়রা (রাঃ) থেকে। রাসূলুল্লাহ ﷺ বলেছেন: \"তোমাদের কেউ যেন না বলে: তোমার রবকে পান করাও, তোমার রবকে খাওয়াও, তোমার রবকে ওযু করাও। আর তোমাদের কেউ যেন না বলে: আমার রব। সে বলবে: আমার সাইয়িদ, আমার মাওলা। আর তোমাদের কেউ যেন না বলে: আমার আবদ, আমার আমাহ। বরং বলবে: আমার ছেলে, আমার মেয়ে, আমার খাদেম।\" কথা বলার আদব নিয়ে এটি একটি সাধারণ হাদীস, এ আয়াতের সঙ্গে যুক্ত নয়।"
+          },
+          {
+            "en": "How does this sit with Yusuf's (AS) words? Al-Qurtubi reports the scholars' answer: the instruction guides toward the better word and does not forbid the other, since rabb in the sense of owner occurs in the Prophet's ﷺ own speech and in the Qur'an. The aim is not to make such titles a habit. He also quotes Ibn al-'Arabi: it may have been permitted in the law given to Yusuf (AS).",
+            "bn": "তাহলে ইউসুফ (আঃ)-এর কথার সঙ্গে এর মিল কোথায়? কুরতুবী আলেমদের জবাব জানান: নির্দেশনাটি ভালো শব্দের দিকে পথ দেখায়, অন্য শব্দকে হারাম করে না। কারণ মালিক অর্থে রব শব্দ নবী ﷺ-এর নিজের কথাতেও এসেছে, কুরআনেও এসেছে। উদ্দেশ্য হলো, এমন উপাধিকে অভ্যাস না বানানো। তিনি ইবনুল আরাবীর কথাও উদ্ধৃত করেন: হতে পারে ইউসুফ (আঃ)-কে দেওয়া শরীয়তে এটা জায়েয ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Pronoun, Two Forgettings",
+          "bn": "এক সর্বনাম, দুই রকম ভুলে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "Fa-ansahu ash-shaytanu dhikra rabbihi: then Satan made him forget the dhikr of his rabb. Both the him and the his can point two ways. On the first reading they return to the freed man: Satan made the cupbearer forget to mention Yusuf (AS) to his master. Al-Baghawi supplies the hidden words: made him forget his mention to his master. Ibn Kathir calls this the correct view, held by Mujahid, Muhammad ibn Ishaq and more than one other, and describes it as one of Satan's plots, so that the prophet of Allah would not leave the prison.",
+            "bn": "ফাআনসাহুশ শাইতানু যিকরা রাব্বিহী: অতঃপর শয়তান তাকে তার রবের যিকর ভুলিয়ে দিল। 'তাকে' আর 'তার', দুটোই দুই দিকে ফিরতে পারে। প্রথম ব্যাখ্যায় দুটোই মুক্তি পাওয়া লোকটির দিকে ফেরে: শয়তান সাকীকে ভুলিয়ে দিল তার মনিবের কাছে ইউসুফ (আঃ)-এর কথা তুলতে। বাগাভী উহ্য শব্দগুলো পূরণ করে দেন: তাকে ভুলিয়ে দিল তার মনিবের কাছে ইউসুফের উল্লেখ। ইবন কাসীর এটিকেই সঠিক মত বলেন। মুজাহিদ, মুহাম্মাদ ইবন ইসহাক ও আরও একাধিকজন এ মত দিয়েছেন। তাঁর ভাষায় এটা ছিল শয়তানের চক্রান্তগুলোর একটি, যাতে আল্লাহর নবী কারাগার থেকে বের হতে না পারেন।"
+          },
+          {
+            "en": "As-Sa'di, the Muyassar and Ma'arif al-Qur'an read it the same way, and at-Tabari records it from Ibn Ishaq: once out, the man was restored to his post, his master was pleased with him, and Satan made him forget. On the second reading the pronouns return to Yusuf (AS): Satan made him forget the remembrance of his Lord. Al-Baghawi says Ibn Abbas (RA) and most scholars held this, and Ibn Kathir notes that at-Tabari narrates it from Ibn Abbas, from Mujahid as well, and from 'Ikrima. Mujahid thus stands on both sides.",
+            "bn": "সা'দী, মুয়াসসার ও মাআরিফুল কুরআনও একইভাবে পড়েন। তাবারী এ মত লিপিবদ্ধ করেন ইবন ইসহাক থেকে: বের হওয়ার পর লোকটিকে তার আগের পদে ফিরিয়ে দেওয়া হলো, তার মনিব তার উপর খুশি হলেন, আর শয়তান তাকে ভুলিয়ে দিল। দ্বিতীয় ব্যাখ্যায় সর্বনাম ফেরে ইউসুফ (আঃ)-এর দিকে: শয়তান তাঁকে তাঁর রবের স্মরণ ভুলিয়ে দিল। বাগাভী বলেন, ইবন আব্বাস (রাঃ) ও অধিকাংশ আলেম এ মতের। ইবন কাসীর জানান, তাবারী এ মত বর্ণনা করেছেন ইবন আব্বাস থেকে, মুজাহিদ থেকেও, আর ইকরিমা থেকে। ফলে মুজাহিদের নাম দুই পক্ষেই পাওয়া যায়।"
+          },
+          {
+            "en": "At-Tabari takes the second reading himself. He calls the clause Allah's report of a ghafla, a heedlessness, that came upon Yusuf (AS) from Satan, in which he did not call on his Lord for help, and he links the length of the stay to it. Al-Qurtubi lists it first of two sayings. The sources even differ on where the majority stands. This article keeps the disagreement with its names, takes no side, and says nothing in its own voice against a prophet of Allah.",
+            "bn": "তাবারী নিজে দ্বিতীয় ব্যাখ্যাটি গ্রহণ করেন। তাঁর মতে বাক্যটি আল্লাহর পক্ষ থেকে এমন এক গাফলতের সংবাদ, যা শয়তানের দিক থেকে ইউসুফ (আঃ)-এর উপর এসেছিল, আর সে সময় তিনি রবের কাছে সাহায্য চাননি। কারাবাস দীর্ঘ হওয়াকে তিনি এর সঙ্গে যুক্ত করেন। কুরতুবী দুটি মতের মধ্যে এটিকে প্রথমে রাখেন। অধিকাংশ কোন দিকে, সে প্রশ্নেও সূত্রগুলো একমত নয়। এ লেখা নামসহ মতভেদটা যেমন আছে তেমনই রাখছে, কোনো পক্ষ নিচ্ছে না, আর আল্লাহর একজন নবীর বিরুদ্ধে নিজের পক্ষ থেকে কিছুই বলছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Can Satan Reach a Prophet's Memory?",
+          "bn": "নবীর স্মৃতিতে কি শয়তানের নাগাল আছে?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi sets out how the two sides argued. Some scholars preferred the cupbearer reading: had Satan made Yusuf (AS) forget the remembrance of Allah, he would not have deserved a longer stay, since one who forgets is not taken to account. The first side answered that nisyan can also mean leaving something off. The second replied with two verses. In 12:45 the freed man remembers after a while, which shows the forgetter was the cupbearer. And in 15:42 Allah tells Satan that over His servants he has no authority, so how could a prophet's forgetting be credited to him?",
+            "bn": "দুই পক্ষ কীভাবে যুক্তি দিয়েছিল, কুরতুবী তা সাজিয়ে দেখান। কিছু আলেম সাকীর দিকে ফেরানো মতকে অগ্রাধিকার দেন। তাঁদের যুক্তি: শয়তান যদি ইউসুফ (আঃ)-কে আল্লাহর স্মরণ ভুলিয়ে দিয়ে থাকে, তবে দীর্ঘ কারাবাস তাঁর প্রাপ্য হতো না, কারণ যে ভুলে যায় তাকে পাকড়াও করা হয় না। প্রথম পক্ষ জবাব দেন, নিসয়ান মানে কোনো কিছু ছেড়ে দেওয়াও হতে পারে। দ্বিতীয় পক্ষ জবাবে দুটি আয়াত আনেন। ১২:৪৫ আয়াতে মুক্তি পাওয়া লোকটির দীর্ঘকাল পরে মনে পড়ে, এতে বোঝা যায় ভুলেছিল সাকীই। আর ১৫:৪২ আয়াতে আল্লাহ শয়তানকে বলেন, আমার বান্দাদের উপর তোমার কোনো ক্ষমতা নেই। তাহলে একজন নবীর ভুলে যাওয়া কীভাবে শয়তানের দিকে সম্বন্ধিত হয়?"
+          },
+          {
+            "en": "Al-Qurtubi's own answer is careful. Prophets, he says, are not shielded from forgetting except in what they convey from Allah. Where forgetting does befall them, it may be ascribed to Satan, but only where Allah Himself tells it of them; it is not permitted for us to say that of them. Among the sayings he cites is one in al-Bukhari's Sahih, number 401, inside a longer report about a prayer, where the Prophet ﷺ says he is a human being who forgets as others forget.",
+            "bn": "কুরতুবীর নিজের জবাব সাবধানী। তিনি বলেন, নবীরা ভুলে যাওয়া থেকে সুরক্ষিত নন, কেবল আল্লাহর পক্ষ থেকে যা পৌঁছে দেন সেখানে ছাড়া। যেখানে তাঁদের ভুল হয়, সেখানে তা শয়তানের দিকে সম্বন্ধিত হতে পারে, তবে কেবল সেখানেই, যেখানে আল্লাহ নিজে তাঁদের সম্পর্কে তা জানিয়েছেন। আমাদের পক্ষে তাঁদের সম্পর্কে এমন কথা বলা জায়েয নয়। তাঁর আনা বাণীগুলোর একটি সহীহ বুখারীর ৪০১ নম্বরে আছে, নামাযের এক দীর্ঘ বর্ণনার ভেতরে, যেখানে নবী ﷺ বলেন, তিনি একজন মানুষ, অন্যরা যেমন ভোলে তিনিও তেমনি ভোলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Narrations Set to One Side",
+          "bn": "যে বর্ণনাগুলো পাশে রাখা হলো"
+        },
+        "p": [
+          {
+            "en": "Several commentators bring reports that raise words to the Prophet ﷺ about Yusuf's (AS) request and the length of his stay. At-Tabari gives them from 'Ikrima, al-Hasan and Qatada, with no Companion in the chain, and once through 'Ikrima from Ibn Abbas. Ibn Kathir calls that connected report very weak, since Sufyan ibn Waki' is weak and Ibrahim ibn Yazid al-Khuzi weaker, and says the mursal forms are not accepted here. Al-Qurtubi gives a form from Abu Hurayrah with no chain. None is quoted here.",
+            "bn": "কয়েকজন তাফসীরকার এমন কিছু বর্ণনা আনেন, যা ইউসুফ (আঃ)-এর অনুরোধ আর তাঁর কারাবাসের দৈর্ঘ্য নিয়ে কথাকে নবী ﷺ পর্যন্ত পৌঁছায়। তাবারী এগুলো আনেন ইকরিমা, হাসান ও কাতাদা থেকে, সনদে কোনো সাহাবী ছাড়া। একবার আনেন ইকরিমার সূত্রে ইবন আব্বাস থেকে। ইবন কাসীর এই যুক্ত সনদের বর্ণনাকে খুবই দুর্বল বলেন, কারণ সুফিয়ান ইবন ওয়াকী দুর্বল, আর ইবরাহীম ইবন ইয়াযীদ আল-খূযী তার চেয়েও দুর্বল। তিনি আরও বলেন, এখানে এর মুরসাল রূপগুলো গ্রহণযোগ্য নয়। কুরতুবী আবূ হুরায়রা থেকে একটি রূপ আনেন, কোনো সনদ ছাড়াই। এর কোনোটিই এখানে উদ্ধৃত করা হয়নি।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi also relay stories, from Malik ibn Dinar, al-Hasan, Ka'b and 'Abd al-'Aziz ibn 'Umayr, in which words of reproach reach Yusuf (AS) in prison, in some of them through Jibril. They come without grading, they carry speech attributed to Allah, and nothing here is built on them. The sound saying about the length of Yusuf's imprisonment belongs to 12:50 and is treated there. None of the commentaries consulted attaches a sound hadith to 12:42 itself, and none gives an occasion of revelation for it.",
+            "bn": "বাগাভী ও কুরতুবী আরও কিছু কাহিনি আনেন, মালিক ইবন দীনার, হাসান, কা'ব ও আবদুল আযীয ইবন উমাইর থেকে, যেখানে কারাগারে ইউসুফ (আঃ)-এর কাছে ভর্ৎসনার কথা পৌঁছায়, কোনো কোনোটিতে জিবরীল (আঃ)-এর মাধ্যমে। এগুলোর কোনো মান নির্ণয় করা হয়নি, এগুলোতে আল্লাহর নামে কথা আছে, আর এখানে এগুলোর উপর কিছুই দাঁড় করানো হয়নি। ইউসুফ (আঃ)-এর কারাবাসের দৈর্ঘ্য নিয়ে সহীহ বাণীটি ১২:৫০ আয়াতের বিষয়, সেখানেই তার আলোচনা হয়েছে। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ১২:৪২ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না, আর কোনোটিই এর নাযিলের প্রেক্ষাপট বর্ণনা করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bid' Counted in Years",
+          "bn": "বিদ' কত বছরের হিসাব"
+        },
+        "p": [
+          {
+            "en": "Fa-labitha fi s-sijni bid'a sinin: and he remained in prison some years. In at-Tabari and Ibn Kathir, Mujahid and Qatada say bid' is three to nine, and al-Qurtubi gives Mujahid the same, though al-Baghawi has him say three to seven. Ibn Abbas (RA), in at-Tabari and al-Baghawi, says fewer than ten. At-Tabari's own conclusion is three to nine, his text adding to ten, and never fewer than three. Ma'arif al-Qur'an also gives three to nine.",
+            "bn": "ফালাবিসা ফিস সিজনি বিদ'আ সিনীন: আর তিনি কারাগারে রয়ে গেলেন কয়েক বছর। তাবারী ও ইবন কাসীরের বর্ণনায় মুজাহিদ ও কাতাদা বলেন, বিদ' মানে ৩ থেকে ৯। কুরতুবীও মুজাহিদের মত এটাই জানান, যদিও বাগাভীর বর্ণনায় মুজাহিদের মত ৩ থেকে ৭। তাবারী ও বাগাভীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, ১০-এর কম। তাবারীর নিজের সিদ্ধান্ত ৩ থেকে ৯, তাঁর লেখায় ১০ পর্যন্তও আছে, তবে ৩-এর কম কখনো নয়। মাআরিফুল কুরআনও ৩ থেকে ৯ বলে।"
+          },
+          {
+            "en": "How long, then, did he stay? At-Tabari records seven from Qatada and Ibn Jurayj, and from Wahb ibn Munabbih, who set it beside Ayyub's (AS) seven years of trial. As-Sa'di says that for this reason seven was said. Al-Baghawi says most commentators take bid' here as seven, after five already served, twelve in all. Ibn Kathir has twelve from Ibn Abbas through ad-Dahhak and fourteen from ad-Dahhak himself. Al-Qurtubi, from Muqatil, has five years and a bid'. The verse itself gives a word, not a number.",
+            "bn": "তাহলে তিনি কতদিন ছিলেন? তাবারী ৭ বছরের কথা লিপিবদ্ধ করেন কাতাদা ও ইবন জুরাইজ থেকে, আর ওয়াহব ইবন মুনাব্বিহ থেকে, যিনি একে আইয়ুব (আঃ)-এর ৭ বছরের পরীক্ষার পাশে রাখেন। সা'দী বলেন, এ কারণেই ৭ বছরের কথা বলা হয়েছে। বাগাভীর মতে অধিকাংশ তাফসীরকার এখানে বিদ' মানে ৭ ধরেন, যার আগে ৫ বছর কেটে গিয়েছিল, সব মিলিয়ে ১২। ইবন কাসীর দাহহাকের সূত্রে ইবন আব্বাস থেকে আনেন ১২ বছর, আর দাহহাকের নিজের মতে ১৪। কুরতুবী মুকাতিলের সূত্রে আনেন ৫ বছর আর এক বিদ'। আয়াত নিজে দিয়েছে একটি শব্দ, কোনো সংখ্যা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Moving the Links, Trusting the End",
+          "bn": "শিকল নাড়ানো, ভরসা শেষ প্রান্তে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's last point on the verse is about means. It shows, he says, that holding to causes is permitted even when certainty is present. Matters are in the hand of the One who causes them, but He made them a chain and set each link on the next; moving the links is a sunna, and relying on the end is certainty. As-Sa'di sees the decree behind the forgetting: it happened so that Allah would complete His command. When He willed to free Yusuf (AS) and raise his standing, He decreed a cause for it, the king's dream in 12:43.",
+            "bn": "এ আয়াতে কুরতুবীর শেষ কথাটি উপায়-উপকরণ নিয়ে। তিনি বলেন, আয়াতটি দেখায়, মনে দৃঢ় বিশ্বাস থাকলেও উপায় অবলম্বন করা জায়েয। সব বিষয় তাঁরই হাতে, যিনি কারণগুলোর স্রষ্টা। কিন্তু তিনি এগুলোকে বানিয়েছেন এক শিকল, এক কড়া আরেক কড়ার সঙ্গে জোড়া। কড়াগুলো নাড়ানো সুন্নাত, আর শেষ প্রান্তের উপর ভরসা করাই ইয়াকীন। সা'দী এ ভুলে যাওয়ার পেছনে ফায়সালা দেখেন: এটা ঘটেছিল যাতে আল্লাহ তাঁর হুকুম পূর্ণ করেন। যখন তিনি ইউসুফ (আঃ)-কে মুক্ত করে তাঁর মর্যাদা উঁচু করতে চাইলেন, তখন তার জন্য একটি কারণ ঠিক করলেন: ১২:৪৩ আয়াতে রাজার স্বপ্ন।"
+          },
+          {
+            "en": "Read this way, the verse does not tell the reader to stop asking people for help or to keep silent about a wrong; on al-Qurtubi's reading the request was a means, and means are permitted. What it shows is how thin a link can be. A promise made at a prison gate rested on one man's memory. The heart that leans on a link alone falls when the link gives way. The heart that moves the link and leans on its Lord can wait through the years and still see the door open at the hour He chose.",
+            "bn": "এভাবে পড়লে আয়াতটি পাঠককে মানুষের সাহায্য চাওয়া বন্ধ করতে বলে না, অন্যায় নিয়ে চুপ থাকতেও বলে না। কুরতুবীর ব্যাখ্যায় অনুরোধটি ছিল একটি উপায়, আর উপায় অবলম্বন জায়েয। আয়াত দেখায়, একটি কড়া কত পলকা হতে পারে। কারাগারের দরজায় দেওয়া একটি প্রতিশ্রুতি নির্ভর করছিল একজন মানুষের স্মৃতির উপর। যে মন শুধু কড়ার উপর ভর দেয়, কড়া ছিঁড়লে সে-ও পড়ে যায়। আর যে মন কড়া নাড়ে কিন্তু ভর দেয় নিজের রবের উপর, সে বছরের পর বছর অপেক্ষা করেও দেখতে পায়, দরজা খুলছে ঠিক সেই সময়ে, যা তিনি বেছে রেখেছিলেন।"
+          },
+          {
+            "en": "A second lesson is for the one who walks out. The cupbearer said I will, and went back to his post. We too promise to put in a word or raise someone's case, and the days carry it away. On the reading that the cupbearer forgot, the verse puts that forgetting in Satan's account, which is reason enough to guard against ours: write the promise down, say the word while it is still owed, and remember those waiting behind the doors we have left.",
+            "bn": "দ্বিতীয় শিক্ষাটি তার জন্য, যে দরজা পেরিয়ে বেরিয়ে যায়। সাকী বলেছিল, জানাব। তারপর সে ফিরে গেল নিজের পদে। আমরাও কথা দিই, কারও হয়ে একটা কথা বলব, কারও বিষয়টা জায়গামতো তুলব, তারপর দিনগুলো সেটা ভাসিয়ে নিয়ে যায়। যে ব্যাখ্যায় ভুলেছিল সাকী, সে ব্যাখ্যায় আয়াত তার ভুলে যাওয়াকে রেখেছে শয়তানের খাতায়। আমাদের নিজেদের বেলায় সাবধান হওয়ার জন্য এটুকুই যথেষ্ট। প্রতিশ্রুতিটা লিখে রাখুন, পাওনা থাকতে থাকতেই কথাটা বলে ফেলুন, আর যাদের পেছনের দরজায় ফেলে এসেছেন, তাদের কথা মনে রাখুন।"
+          }
+        ]
+      }
+    ]
+  },
   "12:43": {
     "sections": [
       {
