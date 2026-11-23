@@ -2663,6 +2663,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:53": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Book Was Brought",
+          "bn": "কিতাব পৌঁছানোর পরের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Hal yanzuruna illa ta'wilah: are they waiting for anything but its ta'wil? The verse closes a long passage. From 7:44 the surah has carried calls between Paradise, the Fire and the people of the Heights, and in 7:50 and 7:51 the people of the Fire were refused water and left as they had left the meeting of their Day. Then 7:52 turns back to this world: We had brought them a Book, set out in detail upon knowledge, as guidance and mercy for a people who believe.",
+            "bn": "হাল ইয়ানযুরূনা ইল্লা তা'বীলাহ: তারা কি এর তা'বীল ছাড়া আর কিছুর অপেক্ষা করছে? দীর্ঘ এক অংশ এ আয়াতে এসে শেষ হয়। ৭:৪৪ থেকে সূরাটি জান্নাত, জাহান্নাম আর আ'রাফবাসীদের মধ্যে একের পর এক ডাকাডাকি শুনিয়ে এসেছে। ৭:৫০ ও ৭:৫১ আয়াতে জাহান্নামীরা পানি চেয়েও পায়নি। তারা যেমন নিজেদের সেই দিনের সাক্ষাৎকে ভুলে থেকেছিল, তেমনি তাদেরও ফেলে রাখা হয়েছে। এরপর ৭:৫২ ফিরে আসে এই দুনিয়ায়: আমি তাদের কাছে এক কিতাব এনেছিলাম, জ্ঞানের ভিত্তিতে বিশদ করে সাজানো, ঈমানদার লোকদের জন্য হিদায়াত ও রহমত।"
+          },
+          {
+            "en": "Ibn Kathir explains the order. Having mentioned the loss the idolaters end in, Allah states that He sent messengers and Books in this life and so left them no excuse, and Ibn Kathir sets this beside 17:15, We never punish until We have sent a messenger. He then opens his comment on this verse with the words: for this reason He said. As-Sa'di opens his with the same phrase. The Book has arrived; all that remains outstanding is what it said would happen.",
+            "bn": "ক্রমটা ইবন কাসীর বুঝিয়ে দেন। মুশরিকরা শেষে কী ক্ষতির মুখে পড়ে, সে কথা বলার পর আল্লাহ জানাচ্ছেন, দুনিয়াতেই তিনি রাসূল পাঠিয়েছেন, কিতাব নাযিল করেছেন, ফলে তাদের কোনো অজুহাত বাকি রাখেননি। ইবন কাসীর এর পাশে রাখেন ১৭:১৫: রাসূল না পাঠানো পর্যন্ত আমি শাস্তি দিই না। তারপর এ আয়াতের ব্যাখ্যা তিনি শুরু করেন এই কথায়: এ কারণেই তিনি বললেন। সা'দীর ব্যাখ্যাও শুরু হয় হুবহু একই শব্দে। কিতাব তো এসে গেছে। বাকি আছে শুধু সেটুকু, কিতাব যা ঘটবে বলে জানিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word for Coming True",
+          "bn": "কথা যখন বাস্তব হয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the root: the word comes from ala, to come back or turn out, and he refers the pronoun in ta'wilah to the Book. The Book's outcome, he says, is what Allah promised in it of resurrection and reckoning. At 3:7 the same word is usually rendered interpretation, but here it does not mean explaining a text. It means the arrival of what the text said. At-Tabari puts it as what their matter comes to: their arrival at Allah's punishment, their burning in His Hell, and the like of what He threatened.",
+            "bn": "কুরতুবী শব্দটির মূল জানিয়ে দেন: এর উৎস আলা, অর্থাৎ ফিরে আসা, শেষে গিয়ে দাঁড়ানো। তা'বীলাহু-র সর্বনামটি তিনি কিতাবের দিকে ফেরান। তাঁর ভাষায়, কিতাবের পরিণাম হলো পুনরুত্থান আর হিসাবের সেই প্রতিশ্রুতি, যা আল্লাহ এতে দিয়েছেন। ৩:৭ আয়াতে একই শব্দের অনুবাদ সাধারণত করা হয় ব্যাখ্যা। কিন্তু এখানে কোনো লেখার অর্থ খুলে বলার কথা হচ্ছে না। কথা হচ্ছে, লেখায় যা বলা হয়েছিল তা এসে হাজির হওয়ার। তাবারী বলেন, তাদের ব্যাপারটা শেষে যেখানে গিয়ে ঠেকে: আল্লাহর আযাবে গিয়ে পৌঁছানো, তাঁর জাহান্নামে দগ্ধ হওয়া, আর তিনি যেসব শাস্তির সতর্কবাণী দিয়েছেন সেগুলো।"
+          },
+          {
+            "en": "At-Tabari then gathers the early glosses, which differ in wording. Mujahid says its recompense. Qatada, in one report, says its reward, and in another its outcome. As-Suddi says its consequences, and names some: the battle of Badr, the Resurrection and what was promised in it. Al-Baghawi carries Mujahid's recompense and as-Suddi's outcome, and explains both as where their matter ends in the punishment, and their destination in the Fire. Al-Qurtubi sets Mujahid's gloss beside Qatada's and closes the question in a phrase: the meaning is close.",
+            "bn": "তারপর তাবারী আগের যুগের ব্যাখ্যাগুলো জড়ো করেন। শব্দে সেগুলো আলাদা। মুজাহিদ বলেন, এর প্রতিফল। কাতাদা একটি বর্ণনায় বলেন, এর বিনিময়, আরেক বর্ণনায়, এর শেষ পরিণতি। সুদ্দী বলেন, এর পরিণামগুলো, আর কয়েকটির নামও করেন: বদরের যুদ্ধ, কিয়ামত আর কিয়ামতে যা কিছুর প্রতিশ্রুতি দেওয়া হয়েছে। বাগাভী মুজাহিদের প্রতিফল আর সুদ্দীর পরিণতি দুটোই আনেন। দুটোর অর্থ তিনি করেন এভাবে: আযাবে তাদের ব্যাপারটা যেখানে গিয়ে শেষ হয়, আর জাহান্নামে তাদের ঠিকানা। কুরতুবী মুজাহিদ আর কাতাদার ব্যাখ্যা পাশাপাশি রেখে ছোট্ট এক কথায় বিষয়টা মিটিয়ে দেন: অর্থ কাছাকাছি।"
+          },
+          {
+            "en": "Ibn Kathir widens the gloss, reporting from Mujahid and others that the ta'wil is what was promised of punishment and retribution, of Paradise and the Fire. Ibn Zayd, in at-Tabari, says its reality, and recites 12:100 to show the word at work: Yusuf (AS), seeing his family bow, says this is the ta'wil of my dream of before, which Ibn Zayd calls its realisation. As-Sa'di cites 12:100 too, and defines the word as the occurrence of what it foretold. A dream's ta'wil is the day it happens.",
+            "bn": "ইবন কাসীর ব্যাখ্যাটা আরেকটু প্রশস্ত করেন। মুজাহিদসহ একাধিক জনের সূত্রে তিনি বলেন, তা'বীল হলো যে আযাব ও শাস্তির প্রতিশ্রুতি দেওয়া হয়েছে, যে জান্নাত ও জাহান্নামের কথা বলা হয়েছে, সেগুলো। তাবারী ইবন যায়দের মত আনেন: এর বাস্তবতা। শব্দটি কীভাবে কাজ করে দেখাতে তিনি ১২:১০০ পড়েন। ইউসুফ (আঃ) পরিবারকে সিজদায় নত দেখে বলেন, এ-ই আমার আগের স্বপ্নের তা'বীল। ইবন যায়দ একে বলেন স্বপ্নের বাস্তবায়ন। সা'দীও ১২:১০০ টেনে আনেন। তাঁর সংজ্ঞায় তা'বীল মানে, যার খবর দেওয়া হয়েছিল তা ঘটে যাওয়া। স্বপ্নের তা'বীল সেই দিন, যেদিন স্বপ্নটা সত্যি হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "In Parts, Then Complete",
+          "bn": "ধাপে ধাপে, তারপর পূর্ণ"
+        },
+        "p": [
+          {
+            "en": "Yanzuruna here means waiting. At-Tabari, al-Baghawi and al-Qurtubi all gloss it as yantazirun, they wait for, and the Muyassar's paraphrase opens: are the disbelievers waiting for anything but what they were promised in the Qur'an? Al-Qurtubi records a second view under the words it is said: that the verb is from looking, their gaze set toward the Day of Resurrection.",
+            "bn": "এখানে ইয়ানযুরূন মানে অপেক্ষা করা। তাবারী, বাগাভী আর কুরতুবী তিনজনই এর অর্থ করেন ইয়ানতাযিরূন, তারা অপেক্ষা করে। মুয়াসসারের ব্যাখ্যাও শুরু হয় এভাবে: কুরআনে তাদের যা কিছুর প্রতিশ্রুতি দেওয়া হয়েছে, কাফিররা কি তা ছাড়া অন্য কিছুর অপেক্ষায় আছে? কুরতুবী 'বলা হয়' কথাটি দিয়ে আরেকটি মতও আনেন: ক্রিয়াটি এসেছে তাকানো থেকে, অর্থাৎ তাদের দৃষ্টি কিয়ামতের দিকে।"
+          },
+          {
+            "en": "When does it come? Ibn Abbas, in at-Tabari and Ibn Kathir, answers: the Day of Resurrection. Al-Qurtubi's gloss agrees: its consequences appear on the Day of Resurrection. Ar-Rabi' ibn Anas, in at-Tabari, describes it differently: matters from its ta'wil keep happening one after another until its ta'wil is complete on the Day of Resurrection, when Allah gives His friends and His enemies the reward of their deeds. Ibn Kathir carries the same report more briefly, ending when the people of Paradise enter Paradise and the people of the Fire enter the Fire.",
+            "bn": "তা'বীল আসবে কখন? তাবারী ও ইবন কাসীর ইবন আব্বাস (রাঃ)-এর জবাব আনেন: কিয়ামতের দিন। কুরতুবীর ব্যাখ্যাও তাই বলে: এর পরিণামগুলো প্রকাশ পাবে কিয়ামতের দিন। তাবারীর সূত্রে রাবী' ইবন আনাস বিষয়টা একটু অন্যভাবে বলেন। তাঁর ভাষায়, এর তা'বীলের একটার পর একটা বিষয় ঘটতেই থাকে, শেষে কিয়ামতের দিন গিয়ে তা পূর্ণ হয়। সেদিন আল্লাহ তাঁর বন্ধু আর শত্রু, দুই দলকেই তাদের আমলের প্রতিদান দেন। ইবন কাসীরও বর্ণনাটি আনেন আরও সংক্ষেপে। তাঁর বর্ণনা শেষ হয় এখানে: জান্নাতবাসীরা জান্নাতে আর জাহান্নামীরা জাহান্নামে ঢুকে যায়।"
+          },
+          {
+            "en": "As-Suddi's list, with Badr named beside the Resurrection, leans the same way as ar-Rabi'. On that reading the outcome is not one distant day alone but a promise that comes true in parts, with the Resurrection as its completion. Ibn Abbas's answer fixes the Day the verse itself goes on to describe, the one on which the confession is spoken. The commentators leave the two descriptions side by side without ranking them. Ibn Zayd adds one more line, from 3:7: none knows its reality, and when it will come, except Allah.",
+            "bn": "সুদ্দীর তালিকায় কিয়ামতের পাশে বদরের নাম। এটিও রাবী'-র কথার দিকেই ঝোঁকে। এ পাঠে পরিণাম শুধু দূরের কোনো একটি দিন নয়। প্রতিশ্রুতিটা ভাগে ভাগে সত্য হয়, আর কিয়ামতে এসে পূর্ণ হয়। অন্যদিকে ইবন আব্বাস (রাঃ)-এর জবাব নির্দিষ্ট করে সেই দিনকে, যার বর্ণনা আয়াত নিজেই সামনে দেয়, যেদিন স্বীকারোক্তিটা উচ্চারিত হবে। তাফসীরকারেরা দুটি বর্ণনাই পাশাপাশি রেখেছেন, কোনোটিকে অন্যটির উপরে তোলেননি। ইবন যায়দ ৩:৭ থেকে আরেকটি কথা যোগ করেন: এর বাস্তবতা কী এবং তা কখন আসবে, আল্লাহ ছাড়া কেউ জানে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forgotten by Being Left",
+          "bn": "ছেড়ে দিয়েই ভুলে থাকা"
+        },
+        "p": [
+          {
+            "en": "Yaqulu alladhina nasuhu min qabl: those who forgot it before will say. None of the commentaries reads this as a lapse of memory. As-Suddi, in at-Tabari, says they left it; Mujahid says they turned away from it. Ibn Kathir: they left acting on it and made themselves forget it in the world. At-Tabari's own gloss is the most exact: they neglected and abandoned what they were commanded of the deeds that would have saved them.",
+            "bn": "ইয়াকূলুল্লাযীনা নাসূহু মিন কাবল: আগে যারা একে ভুলে ছিল তারা বলবে। কোনো তাফসীরেই এ ভুলে যাওয়াকে স্মৃতি হারানো বলা হয়নি। তাবারীর সূত্রে সুদ্দী বলেন, তারা একে ছেড়ে দিয়েছিল। মুজাহিদ বলেন, মুখ ফিরিয়ে নিয়েছিল। ইবন কাসীরের ব্যাখ্যা: দুনিয়াতে তারা এর উপর আমল ছেড়ে দিয়েছিল, ইচ্ছে করে ভুলে থেকেছিল। তাবারীর নিজের ব্যাখ্যা সবচেয়ে নিখুঁত। যে আমলের হুকুম তাদের দেওয়া হয়েছিল, যা তাদের বাঁচাতে পারত, সেটাই তারা অবহেলা করে ফেলে রেখেছিল।"
+          },
+          {
+            "en": "Qad ja'at rusulu rabbina bil-haqq: the messengers of our Lord came with the truth. At-Tabari reads it as sworn. The wretched ones, he says, swore when they saw the affliction and the punishment came down on them that the messengers had advised them sincerely and told them the truth from Allah, at a time when affirming it would not benefit them and much talk would not save them. Al-Baghawi says they confessed it when confession does not benefit them. As-Suddi: when they saw what their prophets had promised, they became certain.",
+            "bn": "কাদ জাআত রুসুলু রাব্বিনা বিল-হাক্ক: আমাদের রবের রাসূলরা তো সত্যই নিয়ে এসেছিলেন। তাবারী কথাটিকে শপথ হিসেবে পড়েন। তাঁর ভাষায়, এই হতভাগারা বিপদ চোখের সামনে দেখে, শাস্তি নেমে আসার পর কসম খেয়ে বলে, রাসূলরা তো তাদের আন্তরিকভাবেই উপদেশ দিয়েছিলেন, আল্লাহর পক্ষ থেকে সত্য কথাই বলেছিলেন। অথচ তখন সত্য বলে মেনে নেওয়ায় আর কোনো লাভ নেই, অনেক কথা বলেও আর রেহাই মেলে না। বাগাভী বলেন, তারা স্বীকার করল এমন সময়ে, যখন স্বীকারোক্তি আর কাজে আসে না। সুদ্দী বলেন, নবীরা যার প্রতিশ্রুতি দিয়েছিলেন তা দেখে তারা নিশ্চিত হয়ে গেল।"
+          },
+          {
+            "en": "As-Sa'di pictures them regretful, grieving over what had passed from them, seeking intercession for the forgiveness of their sins, and acknowledging what the messengers had told them. The Muyassar paraphrases: it has become clear to us now that the messengers came with the truth and advised us sincerely. Nothing in the sentence is false. It is what the messengers had called them to affirm, spoken only after it could no longer change anything.",
+            "bn": "সা'দীর ছবিতে তারা অনুতপ্ত, যা চলে গেছে তার জন্য আফসোস করছে, গুনাহ মাফের জন্য সুপারিশ খুঁজছে, আর রাসূলরা যে খবর দিয়েছিলেন তা মেনে নিচ্ছে। মুয়াসসার কথাটা এভাবে বলে: এখন আমাদের কাছে পরিষ্কার হয়ে গেছে, আমাদের রবের রাসূলরা সত্যই এনেছিলেন, আমাদের ভালোই চেয়েছিলেন। বাক্যটির কোনো অংশই মিথ্যা নয়। রাসূলরা তাদের ঠিক এ কথাই মেনে নিতে ডেকেছিলেন। শুধু তা উচ্চারিত হলো তখন, যখন আর কিছুই বদলানোর উপায় নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Someone to Speak for Us",
+          "bn": "আমাদের হয়ে বলবে কে"
+        },
+        "p": [
+          {
+            "en": "Fa-hal lana min shufa'a'a fa-yashfa'u lana: so have we any intercessors, who would intercede for us? Al-Qurtubi says the question carries the sense of a wish, and that fa-yashfa'u takes the subjunctive as the answer to it. At-Tabari spells out whom they mean: are there friends and allies for us today who would intercede for us with our Lord, so that their intercession would rescue us from what has come down on us for our evil deeds in the world? The Muyassar has the same pairing: friends and intercessors.",
+            "bn": "ফাহাল লানা মিন শুফাআ'আ ফাইয়াশফাঊ লানা: আমাদের কি কোনো সুপারিশকারী আছে, যারা আমাদের জন্য সুপারিশ করবে? কুরতুবী বলেন, প্রশ্নটির ভেতরে আছে আকাঙ্ক্ষার সুর। আর ফাইয়াশফাঊ ক্রিয়াটি নসব পেয়েছে প্রশ্নের জবাব হিসেবে। তাবারী খুলে বলেন, তারা কাদের খুঁজছে। আজ কি আমাদের এমন কোনো বন্ধু বা অভিভাবক আছে, যারা আমাদের রবের কাছে আমাদের হয়ে সুপারিশ করবে? যাতে দুনিয়ায় আমাদের মন্দ কাজের কারণে যা নেমে এসেছে, তাদের সুপারিশে তা থেকে রক্ষা পাই? মুয়াসসারেও একই জোড়া: বন্ধু আর সুপারিশকারী।"
+          },
+          {
+            "en": "At-Tabari also says why they ask. The wretched ones said this there because in the world they had been used to having intercessors who spoke for them in their needs, so they recalled that at a time when there is no friendship for them and no intercession. The habit of a lifetime speaks first. People who had always found someone to put in a word with the powerful assume, even now, that such a person can be found.",
+            "bn": "তারা কেন এ কথা বলে, তাবারী তাও জানান। দুনিয়াতে তারা অভ্যস্ত ছিল, প্রয়োজনের সময় কেউ না কেউ তাদের হয়ে সুপারিশ করে দিত। সেই কথাই তাদের মনে পড়ল এমন সময়ে, যখন তাদের জন্য কোনো বন্ধুত্বও নেই, কোনো সুপারিশও নেই। সারা জীবনের অভ্যাসই আগে মুখ খোলে। যারা সবসময় ক্ষমতাবানের কাছে নিজেদের হয়ে কথা বলার লোক পেয়ে এসেছে, তারা এখনো ধরে নেয়, এমন কাউকে ঠিকই পাওয়া যাবে।"
+          },
+          {
+            "en": "The reply sits in the same verse. On its last clause, Ibn Kathir says that what they worshipped besides Allah has left them and will not help them, intercede for them or rescue them. As-Sa'di quotes 74:48: the intercession of intercessors will not benefit them. 26:100 and 26:101 give the same moment in another surah, spoken by those who admit they had made their idols equal to the Lord of the worlds: so now we have no intercessors, and no devoted friend. Here, as there, the plea belongs to those who denied, and the verse speaks of them alone.",
+            "bn": "জবাব আছে এ আয়াতের ভেতরেই। শেষ অংশের ব্যাখ্যায় ইবন কাসীর বলেন, আল্লাহকে বাদ দিয়ে তারা যাদের ইবাদত করত, তারা তাদের ছেড়ে গেছে। তারা না সাহায্য করবে, না সুপারিশ করবে, না উদ্ধার করবে। সা'দী উদ্ধৃত করেন ৭৪:৪৮: সুপারিশকারীদের সুপারিশ তাদের কোনো কাজে আসবে না। ২৬:১০০ ও ২৬:১০১ আয়াতে অন্য সূরায় একই মুহূর্ত। সেখানে কথাটা তাদের মুখে, যারা স্বীকার করে যে নিজেদের উপাস্যদের তারা বিশ্বজগতের রবের সমান বানিয়েছিল: আজ আমাদের কোনো সুপারিশকারী নেই, কোনো অন্তরঙ্গ বন্ধুও নেই। সেখানে যেমন, এখানেও তেমনি আবদারটা অস্বীকারকারীদের। আয়াত কথা বলছে কেবল তাদেরই নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Or Sent Back to Redo It",
+          "bn": "নাকি ফিরে গিয়ে নতুন করে"
+        },
+        "p": [
+          {
+            "en": "Aw nuraddu fa-na'mala ghayra alladhi kunna na'mal: or could we be sent back, and do other than what we used to do? At-Tabari explains why nuraddu is indicative rather than joined to fa-yashfa'u: the sense is, have we intercessors who would intercede, or are we returned? Al-Qurtubi gives al-Farra''s reading, or would we be returned, and az-Zajjaj's, that it is joined by meaning. He also records that Ibn Ishaq read both verbs in the subjunctive, meaning unless we are returned, and that al-Hasan read both in the indicative.",
+            "bn": "আও নুরাদ্দু ফানা'মালা গাইরাল্লাযী কুন্না না'মাল: নাকি আমাদের ফেরত পাঠানো হবে, আর আমরা আগে যা করতাম তার বদলে অন্য আমল করব? নুরাদ্দু কেন রফ' অবস্থায়, কেন ফাইয়াশফাঊ-র সঙ্গে যুক্ত হয়ে নসব পায়নি, তাবারী তা বুঝিয়ে দেন। অর্থ হলো: আমাদের কি সুপারিশকারী আছে যারা সুপারিশ করবে, নাকি আমাদের ফিরিয়ে দেওয়া হবে? কুরতুবী ফাররার ব্যাখ্যা আনেন: নাকি আমাদের ফেরত পাঠানো হবে? আর যাজ্জাজের ব্যাখ্যা: এটি অর্থের দিক থেকে আগের কথার সঙ্গে যুক্ত। তিনি আরও জানান, ইবন ইসহাক দুটো ক্রিয়াই নসব দিয়ে পড়েছেন, তখন অর্থ দাঁড়ায়: যদি না আমাদের ফেরত পাঠানো হয়। আর হাসান দুটোই পড়েছেন রফ' দিয়ে।"
+          },
+          {
+            "en": "Two ways out, then: someone else rescues them, or they go back and do it themselves. Ibn Kathir sets the second beside 6:27 and 6:28, where, held over the Fire, they wish to be returned and not deny their Lord's signs, and are told that if they were returned they would go back to what they were forbidden. As-Sa'di quotes 6:28 and calls the request a lie, meant only to ward off what has struck them; the time for returning, he says, has passed.",
+            "bn": "বেরোনোর পথ তাহলে দুটি: হয় অন্য কেউ তাদের উদ্ধার করবে, নয়তো তারা ফিরে গিয়ে নিজেরাই কাজটা নতুন করে করবে। দ্বিতীয়টির পাশে ইবন কাসীর রাখেন ৬:২৭ ও ৬:২৮। সেখানে আগুনের সামনে দাঁড় করানো লোকেরা কামনা করে, যদি ফিরে যেতে পারত আর রবের আয়াতকে অস্বীকার না করত! জবাবে বলা হয়, ফিরিয়ে দিলেও নিষিদ্ধ কাজেই তারা আবার ফিরে যেত। সা'দীও ৬:২৮ উদ্ধৃত করেন। তাঁর মতে এই আবদার মিথ্যা, এর একমাত্র উদ্দেশ্য যে বিপদ ঘাড়ে চেপেছে তা সরানো। তিনি বলেন, দুনিয়ায় ফেরার সময় পেরিয়ে গেছে।"
+          },
+          {
+            "en": "The request recurs elsewhere. In 26:102 the same kind of speakers say: if only we had a return, so that we could be among the believers. In 35:37, from inside the Fire, they cry: our Lord, take us out, we will do righteousness, other than what we used to do, in nearly this verse's words. The reply there is a question: did We not give you life enough for whoever would take heed to take heed, and did the warner not come to you?",
+            "bn": "এ আবদার কুরআনে আরও আছে। ২৬:১০২ আয়াতে একই ধরনের লোকেরা বলে: আহা, যদি আমাদের একবার ফিরে যাওয়ার সুযোগ হতো, তাহলে আমরা মুমিনদের দলে থাকতাম! ৩৫:৩৭ আয়াতে জাহান্নামের ভেতর থেকে তারা চিৎকার করে: হে আমাদের রব, আমাদের বের করে নিন, আমরা আগে যা করতাম তার বদলে নেক আমল করব। শব্দগুলো প্রায় এ আয়াতেরই। সেখানে জবাব আসে প্রশ্ন হয়ে: আমি কি তোমাদের এতটা আয়ু দিইনি, যাতে উপদেশ নিতে চাইলে যে কেউ নিতে পারত? আর তোমাদের কাছে কি সতর্ককারী আসেননি?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Loss Nothing Repairs",
+          "bn": "যে ক্ষতির পূরণ নেই"
+        },
+        "p": [
+          {
+            "en": "Qad khasiru anfusahum: they have lost themselves. At-Tabari: they cheated themselves of their portions, selling the lasting bliss of the Hereafter for the paltry, passing goods of the world; as-Suddi says they sold themselves at a loss. Ibn Kathir: by entering the Fire and remaining in it. Al-Qurtubi: they drew no benefit from themselves, and whoever draws none has lost himself. As-Sa'di sets it apart from losing wealth, goods or children: this is a loss with no making good.",
+            "bn": "কাদ খাসিরূ আনফুসাহুম: তারা নিজেদেরই হারিয়েছে। তাবারী বলেন, আখিরাতের স্থায়ী নিয়ামতের বদলে দুনিয়ার তুচ্ছ, ক্ষণিকের সামগ্রী কিনে তারা নিজেদের প্রাপ্য থেকে নিজেরাই ঠকেছে। সুদ্দী বলেন, তারা নিজেদের বেচে দিয়েছে লোকসানে। ইবন কাসীর বলেন, জাহান্নামে ঢুকে সেখানে চিরকাল থেকে। কুরতুবী বলেন, নিজের সত্তা থেকে তারা কোনো উপকার নেয়নি, আর যে নিজের থেকে উপকার নেয় না, সে নিজেকেই হারায়। সা'দী একে আলাদা করেন সম্পদ, আসবাব বা সন্তান হারানো থেকে। এ এমন ক্ষতি, যার কোনো পূরণ নেই।"
+          },
+          {
+            "en": "Wa dalla 'anhum ma kanu yaftarun: and what they used to invent has gone from them. The commentators differ over what that was. For at-Tabari and Ibn Kathir it is the gods they worshipped besides Allah, who now forsake them. For al-Qurtubi it is their claim that there is another god with Allah, now come to nothing. For as-Sa'di and the Muyassar it is what their own selves led them to hope and Satan promised them; as-Sa'di adds that they came upon what they had never reckoned with.",
+            "bn": "ওয়া দাল্লা আনহুম মা কানূ ইয়াফতারূন: আর তারা যা বানিয়ে বলত, তা তাদের কাছ থেকে হারিয়ে গেছে। সেটা কী, এ নিয়ে তাফসীরকারদের মত আলাদা। তাবারী ও ইবন কাসীরের মতে, আল্লাহকে বাদ দিয়ে যাদের তারা ইবাদত করত, সেই উপাস্যরা এখন তাদের ফেলে চলে গেছে। কুরতুবীর মতে, আল্লাহর সঙ্গে আরেক ইলাহ আছে, তাদের এই দাবিটাই বাতিল হয়ে গেছে। সা'দী ও মুয়াসসারের মতে, তাদের মন তাদের যে আশায় ভুলিয়ে রেখেছিল আর শয়তান যে প্রতিশ্রুতি দিয়েছিল, সেগুলোই। সা'দী যোগ করেন, তারা এমন কিছুর মুখোমুখি হলো, যার হিসাব কখনো করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before Its Outcome Arrives",
+          "bn": "পরিণাম আসার আগেই"
+        },
+        "p": [
+          {
+            "en": "No commentary consulted for this verse attaches a hadith to it, so none is brought here. The verse describes, as the text describes them, people who denied the messengers and took others as gods besides Allah. It licenses nothing against any living person or community, and it gives no one leave to decide which of the living will speak these words.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস আনা হলো না। আয়াতটি বর্ণনা দেয় সেই লোকদের, যারা রাসূলদের অস্বীকার করেছিল আর আল্লাহকে বাদ দিয়ে অন্যদের ইলাহ বানিয়েছিল। আয়াতের ভাষা যতটুকু বলে, বর্ণনাও ঠিক ততটুকুই। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। জীবিতদের মধ্যে কে এ কথাগুলো বলবে, তা ঠিক করে দেওয়ার অধিকারও কাউকে দেয় না।"
+          },
+          {
+            "en": "For every reader, the ta'wil has not yet come. The sentence they speak too late, the messengers of our Lord came with the truth, can be said now, while saying it still counts. The deeds at-Tabari says they neglected, the ones that would have saved them, are still within reach. Their last wish, to be back in the world and able to act differently, is a description of where each of us already stands.",
+            "bn": "পাঠকের জন্য তা'বীল এখনো আসেনি। যে কথা তারা বলবে বড় দেরিতে, আমাদের রবের রাসূলরা সত্যই এনেছিলেন, তা এখনই বলা যায়, এখন বললে তার দাম আছে। তাবারী যে আমলের কথা বলেছেন, যা তাদের বাঁচাতে পারত অথচ তারা অবহেলা করেছিল, তা এখনো আমাদের হাতের নাগালে। দুনিয়ায় ফিরে এসে অন্যভাবে আমল করার সুযোগ, তাদের শেষ আকাঙ্ক্ষা, সেটাই তো আমাদের প্রত্যেকের এখনকার অবস্থা।"
+          }
+        ]
+      }
+    ]
+  },
   "7:54": {
     "sections": [
       {

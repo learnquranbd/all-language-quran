@@ -31583,6 +31583,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you are called astray, keep your temper and your tie to the speaker, check yourself honestly, and answer by naming what you stand on, not by insulting back.",
     "lessonBn": "কেউ আপনাকে পথহারা বললে মেজাজ আর সম্পর্ক দুটোই ধরে রাখুন, নিজেকে সৎভাবে যাচাই করুন, আর পাল্টা গালি না দিয়ে বলুন আপনি কিসের উপর দাঁড়িয়ে আছেন।"
+  },
+  "7:53": {
+    "reflectionEn": "The verse before this one says a Book was brought to them, set out in detail with knowledge. This verse asks what they are waiting for, and answers: only for its outcome, the day its words come true. When that day comes, the confession is immediate. The messengers of our Lord brought the truth. Two requests follow it: is there anyone to speak for us, or could we be sent back to act differently? The verse answers with a verdict instead: they have lost themselves, and what they invented has gone from them. The confession is correct and the wish is understandable. Only the timing is wrong. What do I already accept as true that I am still leaving for later to act on?",
+    "reflectionBn": "আগের আয়াত জানিয়েছে, তাদের কাছে এক কিতাব আনা হয়েছিল, জেনেশুনে বিশদ করে সাজানো। এ আয়াত প্রশ্ন তোলে, তারা আসলে কিসের অপেক্ষায়? জবাবও দেয়: কেবল তার পরিণামের, যেদিন কিতাবের কথাগুলো বাস্তব হয়ে সামনে আসবে। সেদিন স্বীকারোক্তি আসবে সঙ্গে সঙ্গে। আমাদের রবের রাসূলরা তো সত্যই এনেছিলেন। তারপর দুটো আবদার: আমাদের হয়ে বলার কেউ কি আছে? নাকি আমাদের ফিরিয়ে দেওয়া হবে, যাতে অন্যভাবে আমল করতে পারি? আয়াত এর জবাব দেয় না, রায় শোনায়: তারা নিজেদেরই হারিয়েছে, আর যা কিছু তারা বানিয়ে বলত, সব উধাও। স্বীকারোক্তিটা ঠিক, আবদারটাও বোঝা যায়। ভুল কেবল সময়ের। যে কথা আমি সত্য বলে মানি, তার কোনটার আমল এখনো পরের জন্য ফেলে রেখেছি?",
+    "pointsEn": [
+      "Which part of the Book do I already accept as true but still leave for later to act on?",
+      "Whom do I quietly count on to speak for me, and what makes me think they could on that Day?",
+      "If I were sent back knowing what I know now, what would I do differently, and what stops me starting it this week?",
+      "What have I forgotten, not by losing the memory of it, but by no longer acting on it?",
+      "Which of my hopes about the end might turn out to be something I made up for myself?"
+    ],
+    "pointsBn": [
+      "কিতাবের কোন অংশকে আমি সত্য বলে মেনে নিয়েছি, অথচ তার আমল এখনো পরের জন্য তুলে রেখেছি?",
+      "মনে মনে কার উপর ভরসা করে আছি যে সে আমার হয়ে বলবে? সেদিন সে পারবে, এ ধারণা আমার এল কোথা থেকে?",
+      "আজ যা জানি তা নিয়ে যদি ফিরে আসতাম, কী অন্যভাবে করতাম? এ সপ্তাহেই তা শুরু করতে আমাকে আটকাচ্ছে কী?",
+      "কোন জিনিস আমি ভুলে গেছি স্মৃতি থেকে মুছে গিয়ে নয়, বরং সে অনুযায়ী আমল করা ছেড়ে দিয়ে?",
+      "শেষ পরিণাম নিয়ে আমার কোন আশাটা হয়তো আমারই মনগড়া, কোনো দলিল তার পেছনে নেই?"
+    ],
+    "lessonEn": "Act on what the Book promises while acting still counts; the confession and the wish for a second chance that come on the Day come too late.",
+    "lessonBn": "কিতাব যা জানিয়েছে, আমল যতদিন কাজে আসে, ততদিনেই সে অনুযায়ী আমল করুন। সেদিনের স্বীকারোক্তি আর ফিরে আসার আবদার, দুটোই আসবে বড় দেরিতে।"
   }
 };
 
