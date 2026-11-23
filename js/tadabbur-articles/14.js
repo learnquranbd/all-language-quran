@@ -1827,6 +1827,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "14:37": {
+    "sections": [
+      {
+        "h": {
+          "en": "Turned Towards the House",
+          "bn": "ঘরের দিকে মুখ ফিরিয়ে"
+        },
+        "p": [
+          {
+            "en": "This verse sits in the middle of a chain of petitions. At 14:35 Ibrahim (AS) asks his Lord to make this city secure and to keep him and his sons from worshipping idols, and at 14:36 he says the idols have led many people astray. After our verse come 14:38, our Lord, You know what we conceal and what we declare, and 14:39, praise for Isma'il and Ishaq granted in old age. The chain then closes in 14:40 and 14:41 with requests for prayer, acceptance and forgiveness.",
+            "bn": "এ আয়াত এক সারি দোয়ার ঠিক মাঝখানে। ১৪:৩৫ আয়াতে ইবরাহীম (আঃ) রবের কাছে চান, এ নগরীকে নিরাপদ করো, আর আমাকে ও আমার ছেলেদের মূর্তিপূজা থেকে দূরে রাখো। ১৪:৩৬ আয়াতে বলেন, এই মূর্তিগুলো বহু মানুষকে পথভ্রষ্ট করেছে। আমাদের আয়াতের পরে আসে ১৪:৩৮: হে আমাদের রব, আমরা যা গোপন করি আর যা প্রকাশ করি, সবই তুমি জানো। তারপর ১৪:৩৯, বার্ধক্যে ইসমাঈল ও ইসহাককে দান করার জন্য আল্লাহর প্রশংসা। সারিটা শেষ হয় ১৪:৪০ ও ১৪:৪১ আয়াতে, নামায, কবুল আর মাগফিরাতের প্রার্থনা দিয়ে।"
+          },
+          {
+            "en": "The address shifts as the chain reaches this verse. The two verses before it open with rabbi, my Lord; this one opens with rabbana, our Lord, and repeats it before naming the purpose. The verse falls into two halves. First comes a report: I have settled some of my offspring in a valley without crops, beside Your sacred House. Then come the purpose and the requests: that they establish prayer, that hearts incline towards them, that fruit be provided, and that they give thanks.",
+            "bn": "এ আয়াতে এসে সম্বোধন বদলে যায়। আগের দুই আয়াত শুরু হয়েছে রাব্বি দিয়ে, অর্থাৎ হে আমার রব। এটি শুরু হয় রাব্বানা দিয়ে, হে আমাদের রব। আর উদ্দেশ্যের কথা বলার আগে শব্দটি আবার আসে। আয়াতের দুটি ভাগ। প্রথম ভাগে একটা খবর: তোমার সম্মানিত ঘরের পাশে, শস্যহীন এক উপত্যকায়, আমি আমার বংশের একাংশকে বসিয়ে দিয়েছি। দ্বিতীয় ভাগে উদ্দেশ্য আর চাওয়া: তারা যেন নামায কায়েম করে, অন্তরগুলো যেন তাদের দিকে ঝোঁকে, ফলমূলের রিযিক যেন আসে, আর তারা যেন শুকরিয়া আদায় করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Has Allah Ordered This?",
+          "bn": "এ কি আল্লাহর আদেশ?"
+        },
+        "p": [
+          {
+            "en": "Sahih al-Bukhari 3364 preserves a long narration from Ibn 'Abbas (RA) about the mother of Isma'il, and al-Qurtubi and al-Baghawi both quote it under this verse. In it Ibrahim (AS) brings her and her nursing son to a place near the House, under a tree above the spot of Zamzam, when nobody lived in Makkah and there was no water. He leaves them a bag of dates and a skin of water and sets off. She follows him, asking again and again where he is going and why he leaves them, and he does not look back.",
+            "bn": "সহীহ বুখারীর ৩৩৬৪ নম্বরে ইবন আব্বাস (রাঃ)-এর একটি দীর্ঘ বর্ণনা আছে, ইসমাঈলের মাকে নিয়ে। কুরতুবী ও বাগাভী দুজনেই এ আয়াতের আলোচনায় বর্ণনাটি উদ্ধৃত করেন। সেখানে ইবরাহীম (আঃ) তাঁকে আর তাঁর দুধের শিশুকে নিয়ে আসেন ঘরের কাছে, যমযমের জায়গার উপরে একটা গাছের নিচে। তখন মক্কায় কেউ থাকত না, পানিও ছিল না। এক থলে খেজুর আর এক মশক পানি রেখে তিনি রওনা দেন। মা পেছন পেছন যান, বারবার জিজ্ঞেস করেন, কোথায় যাচ্ছেন, কেন আমাদের রেখে যাচ্ছেন। তিনি ফিরেও তাকান না।"
+          },
+          {
+            "en": "Then, in al-Bukhari's wording: \"Then she asked him, 'Has Allah ordered you to do so?' He said, 'Yes.' She said, 'Then He will not neglect us,' and returned while Abraham proceeded onwards, and on reaching the Thaniya where they could not see him, he faced the Ka'ba, and raising both hands, invoked Allah saying the following prayers,\" and the narration gives this verse, to its last word. This part is Ibn 'Abbas's own telling; at other points in the same long narration he quotes the Prophet ﷺ directly.",
+            "bn": "এরপর বুখারীর ভাষায়: \"তখন তিনি তাঁকে জিজ্ঞেস করলেন, 'আল্লাহ কি আপনাকে এ আদেশ দিয়েছেন?' তিনি বললেন, 'হ্যাঁ।' তিনি বললেন, 'তাহলে তিনি আমাদের বিনষ্ট হতে দেবেন না।' এই বলে তিনি ফিরে গেলেন। ইবরাহীম সামনে এগিয়ে চললেন। সানিয়্যায় পৌঁছে, যেখান থেকে তারা তাঁকে আর দেখতে পাচ্ছিল না, তিনি কাবার দিকে মুখ ফেরালেন, দুই হাত তুললেন এবং এই দোয়াগুলো করলেন।\" তারপর বর্ণনায় এ আয়াতটি শেষ শব্দ পর্যন্ত এসেছে। এ অংশটুকু ইবন আব্বাস (রাঃ)-এর নিজের বর্ণনা। একই দীর্ঘ বর্ণনার অন্য কয়েক জায়গায় তিনি সরাসরি নবী ﷺ-এর কথা উদ্ধৃত করেন।"
+          },
+          {
+            "en": "At-Tabari records the account by other routes. In one, she asks, to what are you leaving us, to food, to drink, and he makes no reply until she asks whether Allah commanded it; he then stands on the pass of Kada', faces the valley and prays this verse. In another, from Sa'id ibn Jubayr from Ibn 'Abbas, when Ibrahim turned away he said our Lord, You know what we conceal, meaning the grief. The same report ends by noting that between this verse and the praise of 14:39 lay a number of years that 'Ata did not remember.",
+            "bn": "তাবারী ঘটনাটি আরও কয়েকটি সূত্রে বর্ণনা করেন। একটি বর্ণনায় মা জিজ্ঞেস করেন, কার ভরসায় আমাদের রেখে যাচ্ছেন? খাবারের ভরসায়? পানির ভরসায়? তিনি কোনো উত্তর দেন না, যতক্ষণ না মা জানতে চান এ আল্লাহর আদেশ কি না। এরপর তিনি কাদা গিরিপথে উঠে উপত্যকার দিকে মুখ করে এ আয়াতের দোয়া করেন। আরেক বর্ণনায়, সাঈদ ইবন জুবাইর থেকে ইবন আব্বাস (রাঃ) সূত্রে, ইবরাহীম (আঃ) পিঠ ফিরিয়ে বলেছিলেন: হে আমাদের রব, আমরা যা গোপন করি তুমি জানো। গোপন জিনিসটা হলো মনের দুঃখ। সেই বর্ণনার শেষে আছে, এ আয়াত আর ১৪:৩৯ আয়াতের প্রশংসার মাঝে কয়েক বছরের ব্যবধান ছিল, যার সংখ্যা আতা মনে রাখতে পারেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A House Not Yet Raised",
+          "bn": "যে ঘর তখনো ওঠেনি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari raises a difficulty himself. How could Ibrahim (AS) say beside Your sacred House, when the reports he has just cited say that he built the House some while later? He points to answers he gave under al-Baqarah. One is that it means the House as it stood before Allah raised it from the earth in the days of the Flood. Another is that it means sacred against any violation of Allah's sanctities there. Al-Qurtubi reads the phrase as showing that the House was ancient, standing, as is reported, before the Flood.",
+            "bn": "প্রশ্নটা তাবারী নিজেই তোলেন। তিনি এইমাত্র যেসব বর্ণনা এনেছেন, সেগুলো বলছে ঘরটি ইবরাহীম (আঃ) বানিয়েছিলেন এর বেশ কিছুকাল পরে। তাহলে তিনি কীভাবে বললেন, তোমার সম্মানিত ঘরের পাশে? উত্তরের জন্য তাবারী সূরা বাকারায় দেওয়া তাঁর আলোচনার দিকে ইঙ্গিত করেন। একটি মত: এখানে সেই ঘরের কথা, যা প্লাবনের সময় আল্লাহ জমিন থেকে তুলে নেওয়ার আগে দাঁড়িয়ে ছিল। আরেক মত: আল্লাহর নিষেধগুলো সেখানে লঙ্ঘন করা যাবে না, সেই অর্থে ঘরটি সম্মানিত। কুরতুবীর মতে কথাটি দেখায়, ঘরটি প্রাচীন, বর্ণনা অনুযায়ী প্লাবনের আগেও ছিল।"
+          },
+          {
+            "en": "The word al-muharram is itself read in several ways. Al-Baghawi: He called it sacred because what is forbidden near it is not forbidden elsewhere. Al-Qurtubi: He ascribes the House to Himself because no one else owns it, and calls it sacred because things permitted elsewhere are forbidden in it. He adds, under it is said, that it is forbidden to tyrants and protected from having its sanctity violated, a view he gives from Qatada and others. At-Tabari: the House You made forbidden to all Your creation to treat as lawful.",
+            "bn": "আল-মুহাররাম শব্দটিরও একাধিক ব্যাখ্যা আছে। বাগাভী বলেন, একে হারাম বা সম্মানিত বলা হয়েছে, কারণ অন্য জায়গায় যা নিষিদ্ধ নয়, এর কাছে তা নিষিদ্ধ। কুরতুবী বলেন, আল্লাহ ঘরটিকে নিজের দিকে সম্বন্ধ করেছেন, কারণ তিনি ছাড়া এর মালিক কেউ নয়। আর একে সম্মানিত বলেছেন, কারণ অন্যত্র যা বৈধ, এখানে তা নিষিদ্ধ। 'বলা হয়' কথাটি দিয়ে তিনি আরেকটি মত আনেন, কাতাদা ও অন্যদের থেকে: ঘরটি জালিমদের নাগালের বাইরে, এর মর্যাদা লঙ্ঘন থেকে সুরক্ষিত। তাবারীর ভাষায়: সেই ঘর, যাকে তুমি তোমার সমগ্র সৃষ্টির জন্য হালাল গণ্য করা নিষিদ্ধ করেছ।"
+          },
+          {
+            "en": "Ibn Kathir reads the timing differently. His comment, as fetched for this verse, opens in mid-argument: this shows, he says, that it is a second supplication, after the first he made when he turned away from Hajar and her son. That first came before the House was built and this after it, made as emphasis and longing towards Allah, and that is why he says beside Your sacred House. The narration in al-Bukhari places the words of this verse at the pass, as he walked away. The two accounts are left here as they stand.",
+            "bn": "সময়ের প্রশ্নে ইবন কাসীরের পাঠ আলাদা। এ আয়াতের জন্য তাঁর যে মন্তব্য পাওয়া গেছে, তা শুরু হয়েছে যুক্তির মাঝখান থেকে। তিনি বলেন, এ থেকে বোঝা যায় এটা দ্বিতীয় দোয়া। প্রথম দোয়াটি তিনি করেছিলেন হাজার ও তাঁর ছেলের কাছ থেকে ফিরে যাওয়ার সময়, ঘর নির্মাণের আগে। আর এটি নির্মাণের পরে, আল্লাহর কাছে জোর দিয়ে ও আকুল হয়ে চাওয়া। এ কারণেই তিনি বলেছেন, তোমার সম্মানিত ঘরের পাশে। অন্যদিকে বুখারীর বর্ণনা এ আয়াতের কথাগুলোকে রাখে সেই গিরিপথে, চলে যাওয়ার মুহূর্তে। দুটি বিবরণ এখানে যেমন আছে তেমনই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Isma'il Here, Ishaq Elsewhere",
+          "bn": "ইসমাঈল এখানে, ইসহাক অন্যত্র"
+        },
+        "p": [
+          {
+            "en": "Min dhurriyyati: of my offspring. Al-Baghawi says the min was brought in to mark a part, the sense being: I have settled a child of my offspring. Al-Qurtubi agrees that it marks a part, meaning Isma'il and his mother, since Ishaq was in Syria, and then records a second view, that the min is merely connective, meaning my offspring. As-Sa'di keeps the first reading: not all my offspring, for Ishaq was in Syria and so were his other sons; only Isma'il and his descendants were settled in Makkah.",
+            "bn": "মিন যুররিয়্যাতী: আমার বংশধরদের মধ্য থেকে। বাগাভী বলেন, এখানে মিন এসেছে অংশ বোঝাতে। অর্থাৎ আমি আমার বংশের একটি সন্তানকে বসিয়ে দিয়েছি। কুরতুবীও বলেন মিন অংশবাচক, উদ্দেশ্য ইসমাঈল ও তাঁর মা, কারণ ইসহাক তখন শামে। তারপর তিনি দ্বিতীয় একটি মত উল্লেখ করেন: মিন এখানে কেবল সংযোগের অব্যয়, তাহলে অর্থ দাঁড়ায় গোটা বংশধর। সা'দী প্রথম পাঠটিই রাখেন। সব বংশধর নয়, কারণ ইসহাক শামে ছিলেন, তাঁর অন্য ছেলেরাও সেখানে। মক্কায় বসতি পেয়েছিলেন কেবল ইসমাঈল (আঃ) ও তাঁর বংশধরেরা।"
+          },
+          {
+            "en": "The valley is Makkah, al-Baghawi says, a valley between two mountains, and at-Tabari reports from Qatada that Makkah had no crops in those days. Two commentaries then read the wording in opposite directions. At-Tabari draws from it that there was no water there at the time, since a place with water would not have been described as without crops. Ma'arif al-Qur'an, citing al-Bahr al-Muhit, reads the choice of words as deliberate: he said without crops, not without water, because the command had made him certain that Allah would not let them perish. So he asked for fruit.",
+            "bn": "বাগাভী বলেন, উপত্যকাটি মক্কা, দুই পাহাড়ের মাঝখানের এক উপত্যকা। তাবারী কাতাদা থেকে বর্ণনা করেন, সে সময় মক্কায় কোনো ফসল ছিল না। এরপর দুই তাফসীর একই শব্দকে দুই উল্টো দিকে পড়ে। তাবারীর সিদ্ধান্ত, তখন সেখানে পানিও ছিল না, কারণ যেখানে পানি আছে তাকে শস্যহীন উপত্যকা বলা হতো না। মাআরিফুল কুরআন আল-বাহরুল মুহীতের বরাতে শব্দ বাছাইকে ইচ্ছাকৃত মনে করে। তিনি পানিহীন না বলে শস্যহীন বলেছেন, কারণ আদেশ থেকেই তিনি নিশ্চিত হয়ে গিয়েছিলেন যে আল্লাহ তাদের ধ্বংস হতে দেবেন না। তাই তিনি চেয়েছেন ফলমূল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Prayer Named Before Provision",
+          "bn": "রিযিকের আগে নামায"
+        },
+        "p": [
+          {
+            "en": "Rabbana li-yuqimu as-salah: our Lord, that they may establish prayer. At-Tabari paraphrases: I did that, our Lord, so that the prayers You made binding on them be performed at Your sacred House. Ibn Kathir reports Ibn Jarir as tying the clause to al-muharram: You made it sacred only so that its people could establish prayer there. Al-Qurtubi says the lam is most plainly a lam of purpose, attached to I have settled, and may also be a lam of command, as if he longed for Allah to grant them success in establishing prayer.",
+            "bn": "রাব্বানা লিইউকীমুস সালাহ: হে আমাদের রব, যাতে তারা নামায কায়েম করে। তাবারী অর্থ খুলে বলেন: হে আমাদের রব, আমি এটা করেছি, যাতে তুমি তাদের উপর যে নামায ফরয করেছ, তা তোমার সম্মানিত ঘরে আদায় হয়। ইবন কাসীর ইবন জারীরের মত উল্লেখ করেন এভাবে: বাক্যাংশটি আল-মুহাররাম শব্দের সঙ্গে যুক্ত। অর্থাৎ তুমি ঘরটিকে সম্মানিত করেছ, যাতে এর বাসিন্দারা সেখানে নামায কায়েম করতে পারে। কুরতুবী বলেন, এখানকার লাম সবচেয়ে স্পষ্টভাবে উদ্দেশ্যবাচক, যুক্ত আছে 'আমি বসিয়েছি' ক্রিয়ার সঙ্গে। আবার এটি আদেশবাচক লামও হতে পারে, যেন তিনি আল্লাহর কাছে মিনতি করছেন, তিনি যেন তাদের নামায কায়েমের তাওফীক দেন।"
+          },
+          {
+            "en": "Why prayer, out of the whole religion? Al-Qurtubi says he singled it out for its excellence and its place in the religion. As-Sa'di calls it among the most particular and best acts of worship, so that whoever establishes it has established his religion. Ma'arif al-Qur'an notes that this was the first thing he asked after naming the helplessness of the mother and her child. and draws the lesson: there is no greater care for children's good than that they keep their prayer.",
+            "bn": "গোটা দ্বীনের মধ্য থেকে নামাযই কেন? কুরতুবী বলেন, নামাযের মর্যাদা আর দ্বীনে এর অবস্থানের কারণেই তিনি একে আলাদা করে উল্লেখ করেছেন। সা'দীর মতে নামায সবচেয়ে বিশেষ ও শ্রেষ্ঠ ইবাদতগুলোর একটি। যে নামায কায়েম করল, সে তার দ্বীনকেই কায়েম করল। মাআরিফুল কুরআন লক্ষ করে, মা ও শিশুর অসহায় অবস্থার কথা বলার পর এটিই ছিল তাঁর প্রথম চাওয়া। সেখান থেকে শিক্ষা টানে: সন্তানের কল্যাণের জন্য এর চেয়ে বড় চিন্তা আর নেই যে তারা নামায ধরে রাখুক।"
+          },
+          {
+            "en": "Al-Qurtubi also draws from the clause that prayer in Makkah is better than prayer elsewhere, and then records a disagreement over Makkah and Madinah. He names ash-Shafi'i, 'Ata and the scholars of Makkah and Kufa among those who give Makkah and its mosque the preference, while the well-known position of Malik and the people of Madinah prefers Madinah, and the scholars of Basra and Baghdad were divided.",
+            "bn": "কুরতুবী এ বাক্যাংশ থেকে আরও বের করেন, মক্কায় নামায অন্য জায়গার নামাযের চেয়ে উত্তম। তারপর মক্কা না মদীনা, এ নিয়ে মতভেদের কথা লেখেন। যাঁরা মক্কা ও তার মসজিদকে অগ্রাধিকার দেন, তাঁদের মধ্যে তিনি নাম করেন শাফিঈ, আতা এবং মক্কা ও কূফার আলিমদের। অন্যদিকে মালিক ও মদীনাবাসীর প্রসিদ্ধ মত মদীনাকে অগ্রাধিকার দেয়। বসরা ও বাগদাদের আলিমরা এ প্রশ্নে বিভক্ত ছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearts That Lean Towards Them",
+          "bn": "যে অন্তর তাদের দিকে ঝোঁকে"
+        },
+        "p": [
+          {
+            "en": "Af'ida is the plural of fu'ad, the heart, as al-Qurtubi and al-Baghawi both say, and al-Qurtubi also records a view that it is the plural of wafd, a delegation. Tahwi ilayhim means to incline towards them. Al-Qurtubi ties the verb to a she-camel that runs so hard she seems to be dropping down a well, and al-Baghawi glosses it as to long and yearn for them.",
+            "bn": "আফইদা শব্দটি ফুআদের বহুবচন, অর্থ অন্তর। কুরতুবী ও বাগাভী দুজনেই এ কথা বলেন। কুরতুবী আরেকটি মতও আনেন: শব্দটি ওয়াফদের বহুবচন, অর্থাৎ প্রতিনিধিদল। তাহবী ইলাইহিম মানে তাদের দিকে ঝুঁকে পড়া। কুরতুবী ক্রিয়াটিকে মিলিয়ে দেখান সেই উটনীর সঙ্গে, যে এত জোরে ছোটে যেন কুয়ার ভেতর নেমে পড়ছে। বাগাভীর ব্যাখ্যা: তাদের জন্য ব্যাকুল হওয়া, তাদের টানে আকুল হওয়া।"
+          },
+          {
+            "en": "Then the small word min: hearts from among the people, not the hearts of the people. At-Tabari records Mujahid: had it been the hearts of the people, Persia and Rome would have crowded upon it. From Sa'id ibn Jubayr: the Jews, the Christians and the Magians would have made pilgrimage, but he said from among the people, so they are the Muslims. From Ibn 'Abbas (RA), by way of Sa'id: the Jews, the Christians and all people would have made pilgrimage to it. Ibn Kathir gathers the three names and concludes that it was thus reserved for the Muslims.",
+            "bn": "এরপর ছোট্ট শব্দ মিন: মানুষের মধ্য থেকে কিছু অন্তর, সব মানুষের অন্তর নয়। তাবারী মুজাহিদের কথা বর্ণনা করেন: যদি বলা হতো মানুষের অন্তরগুলো, তবে পারস্য আর রোম সেখানে ভিড় করে ফেলত। সাঈদ ইবন জুবাইর থেকে: ইহুদি, খ্রিস্টান আর অগ্নিপূজকেরাও হজ্জ করতে আসত, কিন্তু তিনি বলেছেন মানুষের মধ্য থেকে, তাই এরা মুসলিমরা। ইবন আব্বাস (রাঃ) থেকে, সাঈদের সূত্রে: ইহুদি, খ্রিস্টান এবং সব মানুষ এর হজ্জ করত। ইবন কাসীর তিনজনের নাম একসঙ্গে এনে সিদ্ধান্ত টানেন, এভাবে এটি মুসলিমদের জন্য নির্দিষ্ট হয়ে গেল।"
+          },
+          {
+            "en": "What the hearts incline to is read in two ways. At-Tabari's own reading is a prayer that they be granted pilgrimage to His House, and he records 'Ikrima, 'Ata and Tawus answering in a word: the Hajj. He then gives a second reading from Ibn 'Abbas, that some people would love to live in Makkah, and al-Qurtubi reports that too. As-Sa'di sees the answer in the Hajj that Allah made obligatory, and in a secret placed in the House that draws hearts: the more often a servant returns to it, the greater his longing grows.",
+            "bn": "অন্তরগুলো কীসের দিকে ঝুঁকবে, এর দুই রকম ব্যাখ্যা আছে। তাবারীর নিজের পাঠে এটা এক দোয়া, আল্লাহ যেন তাদের তাঁর ঘরের হজ্জ নসিব করেন। তিনি ইকরিমা, আতা ও তাউসের উত্তরও আনেন, এক শব্দে: হজ্জ। এরপর ইবন আব্বাস (রাঃ) থেকে দ্বিতীয় একটি পাঠ দেন: কিছু মানুষ যেন মক্কায় বসবাস করতে ভালোবাসে। কুরতুবীও এটি বর্ণনা করেন। সা'দী দোয়ার জবাব দেখেন আল্লাহর ফরয করা হজ্জে, আর ঘরের ভেতর রাখা এক রহস্যে, যা অন্তরকে টানে। বান্দা যত বেশি সেখানে ফিরে যায়, তার আকুলতা তত বাড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fruit From Beyond the Valley",
+          "bn": "উপত্যকার বাইরে থেকে ফল"
+        },
+        "p": [
+          {
+            "en": "Wa-rzuqhum min ath-thamarat: and provide them with fruits. At-Tabari: fruits of plants and trees, as You provide the people of the countryside and the villages that have water and rivers, though You settled them in a valley without crops or water; and Allah did provide them. Ibn Kathir adds a purpose, that it be a help to them in obeying You, and sees the answer in 28:57, a secure sanctuary to which the fruits of all things are brought. Makkah has no fruit-bearing tree, he notes, yet the fruits of the lands around it are carried there.",
+            "bn": "ওয়ারযুকহুম মিনাস সামারাত: আর তাদের ফলমূলের রিযিক দাও। তাবারীর ব্যাখ্যা: গাছপালা আর শস্যের ফল, যেমন তুমি পানি ও নদীর দেশের গ্রাম-জনপদের মানুষকে দিয়ে থাকো। যদিও তুমি তাদের রেখেছ এমন উপত্যকায়, যেখানে ফসল নেই, পানিও নেই। আর আল্লাহ তাদের সে রিযিক দিয়েছেন। ইবন কাসীর এর উদ্দেশ্য যোগ করেন: যাতে তা তোমার আনুগত্যে তাদের সহায় হয়। দোয়া কবুলের প্রমাণ তিনি দেখেন ২৮:৫৭ আয়াতে, সেই নিরাপদ হারাম, যেখানে সব কিছুর ফল আনা হয়। তিনি লক্ষ করেন, মক্কায় ফল দেওয়া একটা গাছও নেই, তবু আশপাশের সব ফল সেখানে পৌঁছে যায়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an points out that thamara can also mean any produce or outcome, and that 28:57 says the fruits of every thing, not of every tree. In the same long narration in al-Bukhari, on a later visit, Ibrahim (AS) prays that their meat and water be blessed, and the Prophet ﷺ said: \"At that time they did not have grain, and if they had grain, he would have also invoked Allah to bless it.\" The request then ends not on fruit but on thanks: la'allahum yashkurun, that they may thank You for what You provide them, at-Tabari says.",
+            "bn": "মাআরিফুল কুরআন মনে করিয়ে দেয়, সামারা শব্দের অর্থ যে কোনো উৎপন্ন জিনিস বা ফলাফলও হতে পারে। আর ২৮:৫৭ আয়াতে বলা হয়েছে সব জিনিসের ফল, সব গাছের ফল নয়। বুখারীর সেই দীর্ঘ বর্ণনাতেই আছে, পরে এক সফরে এসে ইবরাহীম (আঃ) তাদের গোশত আর পানিতে বরকতের দোয়া করেন। নবী ﷺ বলেছেন: \"তখন তাদের কাছে শস্য ছিল না। শস্য থাকলে তিনি তাতেও বরকতের দোয়া করতেন।\" তবে চাওয়াটা শেষ হয় ফলে নয়, শুকরিয়ায়: লাআল্লাহুম ইয়াশকুরূন। তাবারীর ভাষায়, যাতে তুমি যা দিয়েছ তার জন্য তারা তোমার শুকরিয়া আদায় করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Trust Is Not Abandonment",
+          "bn": "ভরসা মানে ফেলে যাওয়া নয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi adds a warning. No one may take this verse as grounds for leaving his child and family in a barren land, relying on Allah and imitating Ibrahim (AS), as some extremists have claimed about the reality of trust. Ibrahim did it by Allah's command, as the narration shows: Has Allah ordered you? Yes. The verse describes a prophet carrying out a specific command, and it licenses no one to abandon those who depend on him.",
+            "bn": "কুরতুবী এখানে একটা সতর্কবার্তা দেন। আল্লাহর উপর ভরসার নামে আর ইবরাহীম (আঃ)-এর অনুসরণের দোহাই দিয়ে কেউ নিজের সন্তান ও পরিবারকে কোনো জনশূন্য বিরান জায়গায় ফেলে রেখে যেতে পারবে না, যেমনটা তাওয়াক্কুলের প্রকৃত রূপ নিয়ে কিছু বাড়াবাড়িকারী দাবি করেছে। ইবরাহীম (আঃ) এ কাজ করেছিলেন আল্লাহর আদেশে, বর্ণনাতেই তা স্পষ্ট: আল্লাহ কি আপনাকে এ আদেশ দিয়েছেন? হ্যাঁ। আয়াতটি একজন নবীর একটি নির্দিষ্ট আদেশ পালনের বর্ণনা দেয়। যারা কারও উপর নির্ভরশীল, তাদের ফেলে যাওয়ার অনুমতি এ আয়াত কাউকে দেয় না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sees two things held together here: he obeyed at once, without pausing even to comfort her, and he did not neglect their right, praying for them as soon as they were out of sight. Al-Baqarah carries related prayers, 2:126 for security and fruits and 2:127 to 2:129 as the House was raised. Here the order stands plain: prayer, then hearts, then provision, then gratitude.",
+            "bn": "মাআরিফুল কুরআন এখানে দুটি জিনিস একসঙ্গে দেখে। তিনি সঙ্গে সঙ্গে আদেশ পালন করেছেন, স্ত্রীকে দুটো সান্ত্বনার কথা বলার জন্যও থামেননি। আবার তাদের হকও ভোলেননি। চোখের আড়াল হতেই তাদের জন্য দোয়া করেছেন। সূরা বাকারায় এর সঙ্গে সম্পর্কিত দোয়া আছে: ২:১২৬ আয়াতে নিরাপত্তা ও ফলের জন্য, আর ২:১২৭ থেকে ২:১২৯ আয়াতে ঘর নির্মাণের সময়। এখানে ক্রমটা স্পষ্ট: আগে নামায, তারপর অন্তর, তারপর রিযিক, শেষে শুকরিয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "14:40-41": {
     "sections": [
       {

@@ -33203,6 +33203,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Rescue in this verse follows faith, not closeness: hold your faith as your own, pray for those you live with, and never assume a righteous house will carry you.",
     "lessonBn": "এ আয়াতে নাজাত আসে ঈমানের পথ ধরে, ঘনিষ্ঠতার পথ ধরে নয়। ঈমানকে নিজের করে ধরে রাখুন, যাদের সঙ্গে থাকেন তাদের জন্য দোয়া করুন, আর ভাববেন না যে নেককার ঘর আপনাকে পার করে দেবে।"
+  },
+  "14:37": {
+    "reflectionEn": "Ibrahim (AS) does not dress up what he has done. He tells his Lord plainly: I have settled some of my own family in a valley where nothing grows. He does not ask first for water, for safety, or for crops. The first purpose he names is that they establish prayer. Only then does he ask that some people's hearts lean towards them and that fruit reach them, and even the fruit has a purpose: that they may be grateful. The order is the lesson. He asks for provision, but as a means to worship and thanks, not as the goal. When I pray for my children and my household, what do I ask for first, and what would that list say about what I really want for them?",
+    "reflectionBn": "ইবরাহীম (আঃ) নিজের কাজটাকে সাজিয়ে-গুছিয়ে বলেন না। রবের কাছে সোজা জানিয়ে দেন: আমার পরিবারের একাংশকে আমি এমন এক উপত্যকায় রেখে এসেছি, যেখানে কিছুই জন্মায় না। প্রথমে তিনি পানি চান না, নিরাপত্তা চান না, ফসলও চান না। প্রথম যে উদ্দেশ্যের কথা মুখে আনেন, তা হলো: তারা যেন নামায কায়েম করে। এরপর চান, কিছু মানুষের অন্তর যেন তাদের দিকে ঝুঁকে পড়ে, আর ফলমূল যেন তাদের কাছে পৌঁছায়। সেই ফলেরও একটা উদ্দেশ্য আছে: তারা যেন শুকরিয়া আদায় করে। এই ক্রমটাই শিক্ষা। তিনি রিযিক চেয়েছেন ঠিকই, তবে ইবাদত আর শুকরিয়ার উপায় হিসেবে, লক্ষ্য হিসেবে নয়। সন্তান আর পরিবারের জন্য দোয়া করতে বসলে আমি সবার আগে কী চাই? আমার চাওয়ার তালিকা দেখে কি বোঝা যাবে, তাদের জন্য আমি আসলে কী চাই?",
+    "pointsEn": [
+      "If I wrote down this week's du'as for my family, would their prayer appear on the list at all, and in what place?",
+      "What do I provide for my household that I have never once connected to their worship or their gratitude?",
+      "Have I chosen a place, a job or a move for my family without asking whether it helps them keep their prayer?",
+      "When I cannot stay with the people I love, what do I truly hand over to Allah, and what do I keep worrying over myself?",
+      "The food on my table that I did not grow, carried to me from far away: does any of it ever turn into thanks?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে পরিবারের জন্য যত দোয়া করেছি, সব লিখে ফেললে তাদের নামাযের কথা কি তালিকায় আদৌ থাকবে? থাকলে কোন জায়গায়?",
+      "ঘরের মানুষদের জন্য যা কিছু জোগাড় করি, তার কোনটাকে আমি কখনো তাদের ইবাদত বা শুকরিয়ার সঙ্গে মিলিয়ে দেখিনি?",
+      "পরিবারের জন্য কোনো জায়গা, চাকরি বা বাসা বদলের সিদ্ধান্ত কি নিয়েছি এ কথা না ভেবেই যে, এতে তাদের নামায ঠিক থাকবে কি না?",
+      "প্রিয় মানুষদের কাছে যখন থাকতে পারি না, তখন সত্যিই কতটুকু আল্লাহর হাতে সঁপে দিই, আর কতটুকু নিয়ে নিজেই দুশ্চিন্তা করতে থাকি?",
+      "আমার দস্তরখানে যে খাবার আসে, যা আমি নিজে ফলাইনি, দূর থেকে বয়ে আনা, তার কোনোটা কি কখনো শুকরিয়ায় রূপ নেয়?"
+    ],
+    "lessonEn": "When you pray for your family, ask first that they keep the prayer, then for their provision, and ask for that provision so that they may be grateful.",
+    "lessonBn": "পরিবারের জন্য দোয়া করলে আগে চান তারা যেন নামায ধরে রাখে, তারপর চান তাদের রিযিক, আর সেই রিযিকও চান যাতে তারা শুকরিয়া আদায় করে।"
   }
 };
 
