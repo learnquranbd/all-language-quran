@@ -8643,6 +8643,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:193": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Sky to a Voice",
+          "bn": "আকাশ থেকে একটি কণ্ঠে"
+        },
+        "p": [
+          {
+            "en": "The closing passage of Al Imran gives the people of understanding a prayer. It begins in 3:191, after they have looked at the heavens and the earth: our Lord, You did not create this in vain, so protect us from the punishment of the Fire. In 3:192 they add that whoever Allah admits to the Fire, He has disgraced. Verse 3:193 turns from what they saw to what they heard, and it is the one verse of the run that says rabbana, our Lord, twice.",
+            "bn": "সূরা আলে ইমরানের শেষ অংশে বুদ্ধিমান বান্দাদের মুখে একটা দোয়া তুলে দেওয়া হয়েছে। শুরু ৩:১৯১ আয়াতে। আসমান-জমিনের দিকে তাকিয়ে তাঁরা বলেন: হে আমাদের রব, এসব তুমি অনর্থক বানাওনি, তাই আগুনের শাস্তি থেকে আমাদের বাঁচাও। ৩:১৯২ আয়াতে তাঁরা যোগ করেন, আল্লাহ যাকে আগুনে ঢোকান, তাকে তিনি লাঞ্ছিত করেছেন। ৩:১৯৩ আয়াতে কথা ঘুরে যায় দেখা থেকে শোনার দিকে। পুরো অংশে এটাই একমাত্র আয়াত, যেখানে রাব্বানা, হে আমাদের রব, দুবার এসেছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads 3:192 to 3:194 as a set of pleas from people who, once they knew their Creator, submitted to Him, and it counts the requests. The first is to be saved from the Fire, the second to be saved from the disgrace of the Hereafter. The third is this verse: we heard the herald You sent and believed, so forgive us and give us death in the company of the righteous. These three, it says, seek safety from punishment and loss. The fourth, in 3:194, asks for the blessings promised through the messengers.",
+            "bn": "মাআরিফুল কুরআনের পাঠে ৩:১৯২ থেকে ৩:১৯৪ পর্যন্ত আয়াতগুলো এমন মানুষের আরজি, যাঁরা স্রষ্টাকে চিনে তাঁর সামনে মাথা নত করেছেন। গ্রন্থটি চাওয়াগুলো গুনে গুনে দেখায়। প্রথমটি আগুন থেকে মুক্তি, দ্বিতীয়টি আখিরাতের লাঞ্ছনা থেকে রক্ষা। তৃতীয়টি এই আয়াত: তোমার পাঠানো ঘোষকের ডাক আমরা শুনেছি, ঈমান এনেছি, তাই আমাদের মাফ করো আর নেককারদের দলে আমাদের মৃত্যু দাও। মাআরিফের ভাষায়, এই তিনটি চাওয়া শাস্তি, কষ্ট আর ক্ষতি থেকে নিরাপত্তার জন্য। চতুর্থটি ৩:১৯৪ আয়াতে, রাসূলদের মাধ্যমে প্রতিশ্রুত নিয়ামতের আবেদন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Call Reached Them",
+          "bn": "কার ডাক তাঁদের কানে এল"
+        },
+        "p": [
+          {
+            "en": "Munadiyan yunadi li-l-iman: a caller calling to faith. At-Tabari opens by saying that the people of interpretation differed over who this caller is. Al-Qurtubi and al-Baghawi both give the first answer as the Prophet ﷺ and attribute it to Ibn Mas'ud and Ibn Abbas (RA); al-Qurtubi adds that most of the commentators hold it, al-Baghawi that most people do. At-Tabari lists Ibn Jurayj and Ibn Zayd for this view. Ibn Kathir, as-Sa'di and the Muyassar name the Prophet ﷺ as the caller and mention no other view.",
+            "bn": "মুনাদিয়ান ইউনাদী লিল-ঈমান: একজন আহ্বানকারী, যে ঈমানের দিকে ডাকছে। এই আহ্বানকারী কে, তা নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে, তাবারী আলোচনা শুরুই করেন এ কথা দিয়ে। কুরতুবী ও বাগাভী দুজনেই প্রথম মত হিসেবে বলেন, তিনি নবী ﷺ। দুজনেই মতটি ইবন মাসঊদ (রাঃ) ও ইবন আব্বাস (রাঃ)-এর নামে আনেন। কুরতুবী যোগ করেন, অধিকাংশ মুফাসসির এই মতের, আর বাগাভী বলেন অধিকাংশ মানুষ। তাবারী এই মতের পক্ষে ইবন জুরাইজ ও ইবন যায়দের নাম দেন। ইবন কাসীর, সা'দী আর মুয়াসসার আহ্বানকারী বলতে নবী ﷺ-কেই বোঝান, অন্য কোনো মতের উল্লেখ করেন না।"
+          },
+          {
+            "en": "The second answer is the Qur'an. At-Tabari records it from Muhammad ibn Ka'b al-Qurazi through two chains and in two wordings. In one, it is the Book, for not all of them met the Prophet ﷺ. In the other, not everyone heard the Prophet ﷺ, but the caller is the Qur'an. Al-Baghawi gives the same view from al-Qurazi with the same reason. Al-Qurtubi names Qatadah alongside Muhammad ibn Ka'b and states the reason the same way: not all of them heard the Messenger of Allah ﷺ.",
+            "bn": "দ্বিতীয় মত হলো, আহ্বানকারী কুরআন। তাবারী মতটি মুহাম্মাদ ইবন কা'ব আল-কুরাযী থেকে দুটি সনদে, দুই রকম শব্দে বর্ণনা করেন। এক বর্ণনায় আছে, এটা কিতাব, কারণ তাঁদের সবাই নবী ﷺ-এর দেখা পাননি। অন্য বর্ণনায়, সব মানুষ নবী ﷺ-এর কথা নিজ কানে শোনেনি, আহ্বানকারী বরং কুরআন। বাগাভীও কুরাযী থেকে একই মত আনেন, একই যুক্তিসহ। কুরতুবী মুহাম্মাদ ইবন কা'বের সঙ্গে কাতাদার নামও যোগ করেন। যুক্তিটা তাঁর কাছেও একই: তাঁদের সবাই আল্লাহর রাসূল ﷺ-এর মুখ থেকে শোনেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Book as Herald",
+          "bn": "ঘোষক যখন কিতাব"
+        },
+        "p": [
+          {
+            "en": "At-Tabari does not leave the question open. Of the two views, he says, the nearer to the truth is that of Muhammad ibn Ka'b: the caller is the Qur'an. Many of those whom Allah describes with these qualities in these verses never saw the Prophet ﷺ or stood before him to hear his call to Allah; what reached them was the Qur'an. He compares the jinn who heard Allah's speech recited and said: we have heard a wondrous Qur'an that guides to right conduct (72:1 and 72:2).",
+            "bn": "তাবারী প্রশ্নটা খোলা রাখেন না। তাঁর মতে দুই মতের মধ্যে সঠিকের বেশি কাছে মুহাম্মাদ ইবন কা'বের মত, অর্থাৎ আহ্বানকারী কুরআন। এই আয়াতগুলোতে আল্লাহ যাদের এসব গুণে গুণান্বিত করেছেন, তাঁদের অনেকেই নবী ﷺ-কে দেখেননি, তাঁর সামনে দাঁড়িয়ে আল্লাহর দিকে তাঁর ডাক শোনেননি। তাঁদের কাছে পৌঁছেছে কুরআন। তুলনা হিসেবে তিনি জিনদের কথা আনেন, যারা আল্লাহর কালাম তিলাওয়াত শুনে বলেছিল: আমরা এক বিস্ময়কর কুরআন শুনেছি, যা সঠিক পথ দেখায় (৭২:১ ও ৭২:২)।"
+          },
+          {
+            "en": "He then adds, as similar in sense, a report from Qatadah on the whole verse. They heard a call from Allah, Qatadah says, answered it, answered it well, and were patient upon it. Allah tells you how the believer among mankind spoke and how the believer among the jinn spoke. The jinn said: we have heard a wondrous Qur'an that guides to right conduct, so we believed in it. The human believer said: we have heard a caller calling to faith, 'Believe in your Lord', and we have believed.",
+            "bn": "এরপর তাবারী পুরো আয়াত নিয়ে কাতাদা থেকে একই ধাঁচের একটি বর্ণনা আনেন। কাতাদা বলেন, তাঁরা আল্লাহর পক্ষ থেকে একটা ডাক শুনেছিলেন। তাঁরা সাড়া দিয়েছিলেন, সুন্দরভাবে সাড়া দিয়েছিলেন, আর সেই পথে ধৈর্য ধরে ছিলেন। মানুষের মধ্যে যে মুমিন সে কী বলেছিল, আর জিনদের মধ্যে যে মুমিন সে কী বলেছিল, আল্লাহ দুটোই তোমাদের জানিয়ে দিচ্ছেন। জিন বলেছিল: আমরা এক বিস্ময়কর কুরআন শুনেছি, যা সঠিক পথ দেখায়, তাই আমরা তাতে ঈমান এনেছি। মানুষ বলেছিল: আমরা একজন আহ্বানকারীকে ঈমানের দিকে ডাকতে শুনেছি, তোমরা তোমাদের রবের উপর ঈমান আনো, আর আমরা ঈমান এনেছি।"
+          },
+          {
+            "en": "Al-Qurtubi also cites the jinn verse as the evidence for the Qur'an reading, and then records how the first group answered it: whoever hears the Qur'an, it is as though he had met the Prophet ﷺ. Al-Qurtubi calls that reply correct in meaning. What remains between the two sides is what the word munadi names in this verse, the Messenger who called or the Book that calls. Both stand here with the names the commentators gave them.",
+            "bn": "কুরআন-মতের দলিল হিসেবে কুরতুবীও জিনদের আয়াতটি আনেন। তারপর জানান, প্রথম দল এর কী জবাব দিয়েছিল: যে কুরআন শুনল, সে যেন নবী ﷺ-এর সাক্ষাৎ পেল। কুরতুবী বলেন, অর্থের দিক থেকে এ জবাব সঠিক। দুই পক্ষের মধ্যে প্রশ্ন থেকে যায় একটাই: এই আয়াতে মুনাদী শব্দটা কাকে বোঝাচ্ছে, যে রাসূল ডেকেছিলেন তাঁকে, নাকি যে কিতাব ডাকে তাকে। তাফসীরকারেরা যাঁদের নামে যে মত লিখে রেখেছেন, দুটো মতই এখানে সেভাবে রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lam in the Sense of Ila",
+          "bn": "লাম যখন ইলার অর্থে"
+        },
+        "p": [
+          {
+            "en": "Yunadi li-l-iman reads word for word as 'calls for faith'. At-Tabari and al-Qurtubi both record the view that the preposition li here means ila, to: calling to faith, and at-Tabari's own paraphrase of the verse uses ila. He supports the view with 7:43, praise be to Allah who guided us li-hadha, meaning to this, and with 99:5, where awha laha means inspired to it. He adds a line of rajaz by al-'Ajjaj that uses the same construction. Al-Qurtubi cites 7:43 and 99:5 as well, and adds 58:8, those who return li-ma, to what, they were forbidden.",
+            "bn": "ইউনাদী লিল-ঈমান কথাটার শব্দে শব্দে অর্থ দাঁড়ায় ঈমানের জন্য ডাকে। তাবারী ও কুরতুবী দুজনেই একটি মত উল্লেখ করেন যে এখানে লি অব্যয়টি ইলা অর্থে, মানে দিকে: ঈমানের দিকে ডাকে। আয়াতের অর্থ নিজের ভাষায় বলার সময় তাবারী ইলা-ই ব্যবহার করেন। এর পক্ষে তিনি আনেন ৭:৪৩, সব প্রশংসা আল্লাহর যিনি আমাদের লি-হাযা পথ দেখিয়েছেন, মানে এর দিকে। আরও আনেন ৯৯:৫, যেখানে আওহা লাহা মানে তার দিকে ওহী পাঠিয়েছেন। সঙ্গে কবি আজ্জাজের একটি রাজায পঙ্‌ক্তি, যেখানে একই গঠন আছে। কুরতুবীও ৭:৪৩ ও ৯৯:৫ আনেন, আর যোগ করেন ৫৮:৮, যারা লি-মা, অর্থাৎ যা থেকে তাদের নিষেধ করা হয়েছিল তার দিকেই, ফিরে যায়।"
+          },
+          {
+            "en": "Al-Qurtubi records two further ways of reading it. One, from Abu 'Ubaydah, treats the phrase as a reordering: we heard a caller to faith, calling. At-Tabari too records, as something said, that the meaning may be: we heard a caller for faith, calling, 'Believe in your Lord'. The other, which al-Qurtubi introduces with 'it is said', takes li as the li of purpose: calling for the sake of faith. On an aminu bi-rabbikum he notes that a preposition has dropped out, so that the sense is bi-an: calling with the words, believe in your Lord.",
+            "bn": "কুরতুবী আরও দুটি পাঠের কথা বলেন। আবু উবাইদা থেকে আসা প্রথমটিতে শব্দক্রম আগে-পিছে হয়েছে বলে ধরা হয়: আমরা ঈমানের এক আহ্বানকারীকে ডাকতে শুনেছি। তাবারীও 'বলা হয়' বলে এমন একটি সম্ভাব্য অর্থ উল্লেখ করেন: ঈমানের জন্য একজন আহ্বানকারী, যে ডাকছে, তোমাদের রবের উপর ঈমান আনো। দ্বিতীয়টি কুরতুবী আনেন 'বলা হয়' দিয়ে। সেখানে লি মানে উদ্দেশ্য: ঈমানের খাতিরে ডাকা। আন আমিনূ বি-রাব্বিকুম অংশে তিনি দেখান, একটি অব্যয় বাদ পড়েছে, আসল অর্থ বি-আন: এই কথা বলে ডাকছে, তোমাদের রবের উপর ঈমান আনো।"
+          },
+          {
+            "en": "What does the call contain? At-Tabari draws the verse's meaning together: a summoner summoning to faith, which he spells out as affirming You, acknowledging Your oneness, and following Your Messenger and obeying him in what he commanded and forbade of what he brought from You. The Muyassar gives a close summary: affirming You, acknowledging Your oneness, and acting on Your law. As-Sa'di says the caller invites people to faith and makes them want it, in its roots and in its branches.",
+            "bn": "ডাকের ভেতরে কী আছে? তাবারী আয়াতের অর্থ এক জায়গায় গুছিয়ে বলেন: একজন আহ্বানকারী ঈমানের দিকে ডাকছেন। সেই ঈমানের ব্যাখ্যা তাঁর কাছে এই: তোমাকে সত্য বলে মানা, তোমার একত্ব স্বীকার করা, তোমার রাসূলের অনুসরণ করা, আর তোমার কাছ থেকে তিনি যা এনেছেন তার আদেশ-নিষেধে তাঁর আনুগত্য করা। মুয়াসসারের সারকথাও কাছাকাছি: তোমাকে সত্য বলে মানা, তোমার একত্ব স্বীকার করা, আর তোমার শরীয়ত অনুযায়ী আমল করা। সা'দী বলেন, আহ্বানকারী মানুষকে ঈমানের দিকে ডাকেন, তার প্রতি আগ্রহ জাগান, এর মূল বিষয়েও, শাখা-প্রশাখায়ও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faith Held Out as a Plea",
+          "bn": "দোহাই হিসেবে ঈমান"
+        },
+        "p": [
+          {
+            "en": "Fa-amanna: so we believed. As-Sa'di reads the joining letter as speed: we answered him readily and hastened to it. Ibn Kathir glosses it as: we responded to him and followed him. At-Tabari's gloss is shorter still: so we affirmed that, our Lord. None places a pause between call and answer, and nor does the verse. A single letter, fa, joins what was heard to what was done.",
+            "bn": "ফা-আমান্না: তাই আমরা ঈমান আনলাম। সা'দী এই সংযোগের অক্ষরে দেখেন তৎপরতা: আমরা দেরি না করে তাঁর ডাকে সাড়া দিয়েছি, ছুটে গিয়েছি। ইবন কাসীরের ব্যাখ্যা: আমরা তাঁর ডাকে সাড়া দিয়েছি, তাঁর অনুসরণ করেছি। তাবারীর ব্যাখ্যা আরও ছোট: হে রব, আমরা তা সত্য বলে মেনে নিয়েছি। ডাক আর জবাবের মাঝে তাঁদের কেউ কোনো বিরতি রাখেন না, আয়াতও রাখে না। শোনা আর করার মাঝখানে শুধু একটি অক্ষর, ফা।"
+          },
+          {
+            "en": "As-Sa'di hears more in the sentence than a report. In it, he says, they tell of Allah's favour upon them and rejoice openly in His blessing, and they make it a means, tawassul, of asking Him to forgive their sins and expiate their misdeeds, for good deeds remove bad ones, words he takes from 11:114. He closes on two words of one root: the One who favoured them with iman, faith, will favour them with complete aman, safety. Ibn Kathir draws the same link plainly: by our faith and our following of Your Prophet, forgive us our sins.",
+            "bn": "সা'দী এ বাক্যে শুধু একটা খবর দেখেন না। তাঁর মতে এখানে তাঁরা নিজেদের উপর আল্লাহর অনুগ্রহের কথা বলছেন, তাঁর নিয়ামত নিয়ে খোলাখুলি আনন্দ করছেন। আর সেটাকেই ওসীলা বানিয়ে চাইছেন, তিনি যেন তাঁদের গুনাহ মাফ করেন, মন্দগুলো মুছে দেন। কারণ নেকি মন্দকে দূর করে দেয়, কথাটা তিনি নেন ১১:১১৪ থেকে। শেষে তিনি একই ধাতুর দুটি শব্দ পাশাপাশি রাখেন: যিনি তাঁদের ঈমান দিয়ে অনুগ্রহ করেছেন, তিনিই তাঁদের পূর্ণ আমান, মানে নিরাপত্তা দিয়েও অনুগ্রহ করবেন। ইবন কাসীর যোগসূত্রটা সোজাসুজি বলেন: আমাদের ঈমান আর তোমার নবীর অনুসরণের ওসীলায় আমাদের গুনাহ মাফ করো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Covered, Then Wiped Away",
+          "bn": "ঢেকে দেওয়া, তারপর মুছে ফেলা"
+        },
+        "p": [
+          {
+            "en": "The verse then makes two requests that sound alike: faghfir lana dhunubana, forgive us our sins, and kaffir 'anna sayyi'atina, remove from us our misdeeds. Al-Qurtubi takes them as one meaning said twice, for emphasis and intensity in the supplication, since ghafr and kafr both mean covering. Ma'arif al-Qur'an divides them: forgive our major sins, and expiate our shortcomings and misdeeds. The commentators differ here, and both readings stand.",
+            "bn": "এরপর আয়াতে পাশাপাশি দুটি চাওয়া, শুনতে প্রায় একই রকম: ফাগফির লানা যুনূবানা, আমাদের গুনাহ মাফ করো, আর কাফফির আন্না সাইয়্যিআতিনা, আমাদের মন্দগুলো আমাদের থেকে মুছে দাও। কুরতুবীর মতে দুটোর অর্থ এক, দোয়ায় জোর আর গভীরতা আনতে একই কথা দুবার বলা। কারণ গাফর আর কাফর দুটো শব্দেরই মূল অর্থ ঢেকে দেওয়া। মাআরিফুল কুরআন দুটোকে আলাদা করে: আমাদের বড় গুনাহগুলো মাফ করো, আর ত্রুটি ও মন্দ কাজগুলোর কাফফারা করে দাও। এ জায়গায় তাফসীরকারদের মত ভিন্ন। দুটো মতই এখানে রইল।"
+          },
+          {
+            "en": "Ibn Kathir explains ighfir as: cover them, and kaffir as concerning what is between us and You. At-Tabari gives each verb its own work. Forgive us, he paraphrases, means: cover our faults over us, and do not shame us with them on the Day of Resurrection before the witnesses by punishing us for them. Rather, he goes on, expiate them from us, and our evil deeds, erase them by Your grace and Your mercy toward us. In his reading the first verb hides and the second removes.",
+            "bn": "ইবন কাসীর ইগফির-এর ব্যাখ্যা করেন: সেগুলো ঢেকে দাও। আর কাফফির সম্পর্কে বলেন, এটা আমাদের আর তোমার মাঝের বিষয়ে। তাবারী দুটো ক্রিয়াকে আলাদা আলাদা কাজ দেন। তাঁর ভাষায়, মাফ করো মানে আমাদের ভুলগুলো ঢেকে রাখো। কিয়ামতের দিন সব সাক্ষীর সামনে সেগুলোর শাস্তি দিয়ে আমাদের অপদস্থ কোরো না। বরং সেগুলোর কাফফারা করে দাও, আর আমাদের মন্দ আমলগুলো তোমার দয়া আর অনুগ্রহে মুছে ফেলো। তাঁর পাঠে প্রথম ক্রিয়া লুকিয়ে রাখে, দ্বিতীয়টি মুছে দেয়।"
+          },
+          {
+            "en": "At-Tabari's dread of being shamed has a frame on either side of this verse. In 3:192 the speakers say that whoever Allah admits to the Fire, He has disgraced, akhzaytahu. In 3:194 they ask, wa la tukhzina yawm al-qiyamah, do not disgrace us on the Day of Resurrection. Between the two verses that speak of disgrace, this verse asks for the sins to be covered before they can be shown.",
+            "bn": "তাবারী যে অপমানের ভয়ের কথা বলেন, এই আয়াতের দুপাশেই তার ছায়া। ৩:১৯২ আয়াতে বক্তারা বলেন, আল্লাহ যাকে আগুনে ঢোকান, তাকে তিনি লাঞ্ছিত করেছেন, আখযাইতাহু। ৩:১৯৪ আয়াতে তাঁরা চান, ওয়া লা তুখযিনা ইয়াওমাল কিয়ামাহ, কিয়ামতের দিন আমাদের লাঞ্ছিত কোরো না। লাঞ্ছনার কথা বলা এই দুই আয়াতের মাঝখানে এ আয়াত চায়, গুনাহগুলো প্রকাশ পাওয়ার আগেই যেন ঢাকা পড়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counted Among the Abrar",
+          "bn": "আবরারের দলে গণ্য"
+        },
+        "p": [
+          {
+            "en": "Wa-tawaffana ma'a al-abrar: and take us in death with the righteous. At-Tabari reads it as: take us to You, when You do take us, among the number of the abrar, and gather us where they are gathered, and with them. Ibn Kathir and the Muyassar gloss it as: join us to the righteous. Al-Baghawi's gloss is: within the whole company of the abrar. At-Tabari's 'when You do take us' makes plain that the request concerns the company death finds them in, not the hastening of its hour.",
+            "bn": "ওয়া তাওয়াফফানা মাআল আবরার: আর নেককারদের সঙ্গে আমাদের মৃত্যু দাও। তাবারীর পাঠ: যখন তুমি আমাদের তুলে নেবে, তখন আবরারদের সারিতে গণ্য করে তুলে নিয়ো, আর তাঁদের সঙ্গে, তাঁদের হাশরের জায়গায় আমাদের হাশর কোরো। ইবন কাসীর ও মুয়াসসারের ব্যাখ্যা: আমাদের নেককারদের সঙ্গে মিলিয়ে দাও। বাগাভী বলেন: আবরারদের দলভুক্ত করে। তাবারীর 'যখন তুমি তুলে নেবে' কথাটা পরিষ্কার করে দেয়, চাওয়াটা মৃত্যু এগিয়ে আনার নয়। চাওয়াটা হলো, মৃত্যু যখনই আসুক, কোন দলের মধ্যে আসবে।"
+          },
+          {
+            "en": "Al-Qurtubi gives a fuller picture: abrar together with the prophets, that is, counted among them. Its singular is barr or barr with a long a, and its root meaning is breadth: it is as if the barr has room to move in obedience to Allah, and Allah's mercy has room for him. At-Tabari defines the abrar from another side, as those who were dutiful, barru, toward Allah through their obedience and their service to Him, until they pleased Him and He was pleased with them.",
+            "bn": "কুরতুবী ছবিটা আরও বড় করে আঁকেন: নবীদের সঙ্গে আবরার হয়ে, মানে তাঁদের দলে গণ্য হয়ে। এর একবচন বার্‌র, আবার বার-ও বলা হয়, আর মূল অর্থ প্রশস্ততা। যেন নেককার মানুষ আল্লাহর আনুগত্যে অনেক জায়গা নিয়ে চলেন, আর আল্লাহর রহমতও তাঁর জন্য প্রশস্ত। তাবারী আবরারের সংজ্ঞা দেন অন্য দিক থেকে। তাঁরা সেই মানুষ, যাঁরা আনুগত্য আর খেদমতের মাধ্যমে আল্লাহর হক আদায় করেছেন, এতটাই যে তাঁকে সন্তুষ্ট করেছেন, আর তিনিও তাঁদের প্রতি সন্তুষ্ট হয়েছেন।"
+          },
+          {
+            "en": "As-Sa'di finds a whole way of life inside the request. It includes, he says, being enabled to do good and to leave evil, by which a servant becomes one of the abrar, and keeping at it, holding firm until death. Ma'arif al-Qur'an ends in the same place: enable us to stay steadfast so that we breathe our last with faith in our hearts, busy with what is good in Your sight. The surah returns to the word in 3:198: what is with Allah is best for the abrar.",
+            "bn": "সা'দী এই এক চাওয়ার ভেতরে গোটা জীবনের পথ দেখতে পান। তাঁর মতে এর মধ্যে আছে ভালো কাজ করার আর মন্দ ছাড়ার তাওফীক, যার মাধ্যমে বান্দা আবরারদের একজন হয়। আছে সেই পথে টিকে থাকা, মৃত্যু পর্যন্ত অবিচল থাকা। মাআরিফুল কুরআনও একই জায়গায় শেষ করে: আমাদের অবিচল রাখো, যেন শেষ নিঃশ্বাসের সময় অন্তরে ঈমান থাকে আর হাত থাকে তোমার পছন্দের নেক আমলে। সূরা শব্দটায় ফিরে আসে ৩:১৯৮ আয়াতে: আল্লাহর কাছে যা আছে, আবরারদের জন্য তা-ই উত্তম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hear, Believe, Then Ask",
+          "bn": "শোনা, মানা, তারপর চাওয়া"
+        },
+        "p": [
+          {
+            "en": "None of the eight commentaries fetched for this verse attaches a hadith to it in particular. The night on which the Prophet ﷺ woke, looked at the sky and recited the closing verses of the surah, narrated by Ibn Abbas (RA), concerns the passage as a whole and is treated under 3:190 and 3:191. None gives an occasion of revelation for it either, so none is offered here.",
+            "bn": "এই আয়াতের জন্য যে আটটি তাফসীর দেখা হয়েছে, তার কোনোটিই বিশেষভাবে এ আয়াতের সঙ্গে কোনো হাদীস জোড়েনি। যে রাতে নবী ﷺ ঘুম থেকে উঠে আকাশের দিকে তাকিয়ে সূরার শেষ আয়াতগুলো তিলাওয়াত করেছিলেন, ইবন আব্বাস (রাঃ)-এর সেই বর্ণনা পুরো অংশের সঙ্গে সম্পর্কিত। সেটার আলোচনা আছে ৩:১৯০ ও ৩:১৯১ আয়াতে। এ আয়াতের কোনো শানে নুযূলও এসব তাফসীরে নেই, তাই এখানে কিছু আনা হলো না।"
+          },
+          {
+            "en": "The verse sets out an order worth keeping: hear, believe, then ask. The speakers do not ask for forgiveness first and leave faith for later. They answer the call, and then come to their Lord with that answer in their hands. The words of the call, believe in your Lord, are recited inside this very verse, so whoever reads it has heard them again. The question the verse leaves with its reader is whether believing follows hearing as closely as fa-amanna follows sami'na.",
+            "bn": "আয়াতটি একটা ক্রম দেখিয়ে দেয়, যা ধরে রাখার মতো: শোনা, মানা, তারপর চাওয়া। বক্তারা আগে মাফ চেয়ে ঈমানের ব্যাপারটা পরে দেখবেন বলে ফেলে রাখেননি। তাঁরা আগে ডাকে সাড়া দিয়েছেন, তারপর সেই সাড়া হাতে নিয়ে রবের সামনে হাজির হয়েছেন। ডাকের কথাগুলো, তোমাদের রবের উপর ঈমান আনো, এই আয়াতের ভেতরেই তিলাওয়াত হয়। যে আয়াতটি পড়ে, সে ডাকটা আরেকবার শুনে ফেলে। আয়াত পাঠকের সামনে প্রশ্ন রেখে যায়: সামি'না-র ঠিক পরেই যেমন ফা-আমান্না, আমার শোনার পরেও কি তেমনই মানা আসে?"
+          },
+          {
+            "en": "The last request deserves a second look. People who have just said that they believe still ask for forgiveness, still ask for their misdeeds to be wiped away, and still ask to be taken among the righteous, as though faith were the start of the road and not its end. The answer in 3:195 promises that no worker's work is lost. Between the call and that answer lies a whole life, and this prayer asks that it end well.",
+            "bn": "শেষ চাওয়াটা আরেকবার ভেবে দেখার মতো। যাঁরা এইমাত্র বললেন যে ঈমান এনেছেন, তাঁরাও মাফ চাইছেন, মন্দ মুছে দেওয়ার আরজি করছেন, নেককারদের দলে মৃত্যু চাইছেন। যেন ঈমান পথের শেষ নয়, শুরু মাত্র। ৩:১৯৫ আয়াতের জবাবে প্রতিশ্রুতি আছে, কোনো আমলকারীর আমল নষ্ট হবে না। ডাক আর সেই জবাবের মাঝখানে পড়ে আছে গোটা একটা জীবন। এই দোয়া চায়, সেই জীবনের শেষটা যেন ভালো হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "3:195": {
     "sections": [
       {

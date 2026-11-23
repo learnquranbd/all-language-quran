@@ -30643,6 +30643,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Paradise is not reached by supposing: never wish for the trial, but when hardship comes in Allah's path, strive, and then stay steadfast.",
     "lessonBn": "শুধু ধারণা করে জান্নাতে পৌঁছানো যায় না: পরীক্ষা কখনো কামনা করবেন না, তবে আল্লাহর পথে কষ্ট এসে পড়লে চেষ্টা করুন, তারপর অবিচল থাকুন।"
+  },
+  "3:193": {
+    "reflectionEn": "The people of understanding have looked at the sky and asked to be spared the Fire. Now they say what brought them to faith: they heard a caller, and they believed. Nothing in the sentence stands between hearing and believing. Then come three requests: forgive our sins, wipe away our misdeeds, and take us in death among the righteous. They do not boast of their faith; they hold it out as their reason to hope. Nor do they ask to die soon. They ask that, whenever death comes, it finds them in good company. How many calls to faith have I heard this year, and how many did I answer the day I heard them? And is the company I keep now the company I hope to die in?",
+    "reflectionBn": "বুদ্ধিমান বান্দারা আকাশের দিকে তাকিয়েছেন, আগুন থেকে বাঁচার দোয়া করেছেন। এবার তাঁরা জানাচ্ছেন কীভাবে ঈমানে এলেন: একজন আহ্বানকারীর ডাক শুনেছেন, আর ঈমান এনেছেন। শোনা আর মানার মাঝখানে বাক্যে কোনো ফাঁক নেই। তারপর তিনটি চাওয়া: আমাদের গুনাহ মাফ করো, আমাদের মন্দগুলো মুছে দাও, আর নেককারদের সঙ্গে আমাদের মৃত্যু দাও। নিজেদের ঈমান নিয়ে তাঁরা গর্ব করছেন না, বরং সেটাকেই আশার কারণ হিসেবে সামনে রাখছেন। তাড়াতাড়ি মরার আবদারও তাঁরা করছেন না। তাঁদের চাওয়া শুধু এটুকু, মৃত্যু যখনই আসুক, তা যেন ভালো মানুষদের দলে তাঁদের খুঁজে পায়। এ বছর ঈমানের কত ডাক আমার কানে এসেছে, আর তার কয়টায় আমি সেদিনই সাড়া দিয়েছি? আজ যাদের সঙ্গে আমার ওঠাবসা, মৃত্যুর সময় কি তাদের দলেই থাকতে চাই?",
+    "pointsEn": [
+      "What call to good have I heard more than once and still left unanswered?",
+      "When I ask for forgiveness, do I come holding my faith as a plea for His favour, or holding my deeds as if I were owed?",
+      "Which of my faults would I most dread being laid open on the Day of Resurrection, and have I asked Allah to cover it?",
+      "Are the people I spend my days with the people I would want around me when I die?",
+      "If death came tonight, would it find me in the middle of something I would want to be found doing?"
+    ],
+    "pointsBn": [
+      "ভালোর কোন ডাক আমি একাধিকবার শুনেছি, অথচ এখনো সাড়া দিইনি?",
+      "মাফ চাওয়ার সময় আমি কী হাতে নিয়ে যাই? তাঁর অনুগ্রহের দোহাই হিসেবে নিজের ঈমান, নাকি এমন আমলের ফর্দ যেন তিনি আমার কাছে ঋণী?",
+      "কিয়ামতের দিন আমার কোন দোষ সবার সামনে খুলে যাওয়াকে আমি সবচেয়ে বেশি ভয় পাই? সেটা ঢেকে রাখার জন্য আল্লাহর কাছে কি চেয়েছি?",
+      "যাদের সঙ্গে আমার দিন কাটে, মৃত্যুর সময় কি তাদেরকেই পাশে চাইব?",
+      "আজ রাতেই মৃত্যু এলে আমাকে কোন কাজের মধ্যে পাবে? সেই কাজে ধরা পড়তে কি আমি রাজি?"
+    ],
+    "lessonEn": "When you hear the call to faith, answer it the same day, and ask Allah to forgive you and to take you in death among the righteous.",
+    "lessonBn": "ঈমানের ডাক কানে এলে সেদিনই সাড়া দিন, আর আল্লাহর কাছে মাফ চান, চান যেন নেককারদের সঙ্গে আপনার মৃত্যু হয়।"
   }
 };
 
