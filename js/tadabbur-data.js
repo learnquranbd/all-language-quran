@@ -31343,6 +31343,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Choose whom you follow by one test, whether Allah guided them, and pass on what you know of His Book without asking anything back.",
     "lessonBn": "কাকে অনুসরণ করবেন তা একটি মাপকাঠিতে বাছাই করুন: আল্লাহ তাঁকে পথ দেখিয়েছেন কি না। আর তাঁর কিতাবের যা জানেন, বিনিময়ে কিছু না চেয়ে অন্যকে পৌঁছে দিন।"
+  },
+  "6:111": {
+    "reflectionEn": "They had sworn their strongest oaths: show us one sign and we will believe. The answer goes far past what they asked. Suppose angels came down where they could see them, the dead stood up and spoke to them, and everything was gathered before their eyes. They would still not believe, unless Allah willed. The problem was never a shortage of proof. It was a heart that had already decided and kept naming a price it would not pay. Then the verse names their real ignorance: most of them do not know that guidance is not theirs to switch on at will. So when I tell myself I will change once I see something clear, what exactly am I waiting for?",
+    "reflectionBn": "তারা কঠিন কসম খেয়ে বলেছিল, একটা নিদর্শন দেখাও, আমরা ঈমান আনব। জবাব তাদের দাবির চেয়েও অনেক দূর যায়। ধরুন ফেরেশতারা নেমে এল চোখের সামনে, মৃতরা উঠে এসে তাদের সঙ্গে কথা বলল, আর দুনিয়ার সবকিছু তাদের সামনে জড়ো করা হলো। তবুও তারা ঈমান আনত না, যদি না আল্লাহ চান। আসলে প্রমাণের ঘাটতি কখনো ছিল না। সমস্যা ছিল এমন এক অন্তরে, যে আগেই সিদ্ধান্ত নিয়ে বসে আছে, আর বারবার এমন দাম হাঁকছে যা সে কোনোদিন দেবে না। আয়াতের শেষে তাদের আসল অজ্ঞতার নাম আসে: তাদের বেশিরভাগই জানে না যে হিদায়াত নিজের খেয়ালখুশিমতো চালু করার জিনিস নয়। তাহলে যখন নিজেকে বলি, স্পষ্ট কিছু দেখলেই বদলে যাব, আমি আসলে কিসের অপেক্ষায় আছি?",
+    "pointsEn": [
+      "Is there a change I keep postponing until some sign arrives, and would that sign really move me if it came?",
+      "Which clear proofs have I already been given, in the Qur'an and in my own life, that I have not yet acted on?",
+      "Do I speak of my faith as something I can switch on whenever I like, or do I ask Allah to keep it for me?",
+      "When someone I love does not accept the truth after every argument, can I leave the result to Allah without bitterness or despair?",
+      "What do I demand before I will obey, and who gave me the right to set that condition?"
+    ],
+    "pointsBn": [
+      "এমন কোনো পরিবর্তন কি আছে যা কোনো নিদর্শনের অপেক্ষায় আমি পিছিয়েই যাচ্ছি? সেই নিদর্শন এলেও কি আমি সত্যিই নড়তাম?",
+      "কুরআনে আর নিজের জীবনে কোন কোন স্পষ্ট প্রমাণ আমি ইতিমধ্যে পেয়েছি, অথচ এখনো সে অনুযায়ী আমল করিনি?",
+      "আমি কি ঈমানকে এমন কিছু মনে করি যা ইচ্ছেমতো চালু করা যায়, নাকি আল্লাহর কাছে চাই তিনি যেন তা আমার জন্য ধরে রাখেন?",
+      "প্রিয় কেউ সব যুক্তির পরও সত্য মেনে না নিলে আমি কি তিক্ততা বা হতাশা ছাড়া ফলাফলটা আল্লাহর হাতে ছেড়ে দিতে পারি?",
+      "আনুগত্যের আগে আমি কী কী শর্ত জুড়ে দিই? সেই শর্ত বসানোর অধিকার আমাকে কে দিল?"
+    ],
+    "lessonEn": "Stop making your faith wait for one more sign; act on the proofs already in your hands, and ask Allah for the guidance that no spectacle can give.",
+    "lessonBn": "আর একটা নিদর্শনের অপেক্ষায় ঈমানকে আটকে রাখবেন না। হাতে যে প্রমাণ আছে তা নিয়েই আমল করুন, আর আল্লাহর কাছে সেই হিদায়াত চান যা কোনো অলৌকিক দৃশ্য দিতে পারে না।"
   }
 };
 

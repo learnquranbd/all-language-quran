@@ -5271,6 +5271,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:111": {
+    "sections": [
+      {
+        "h": {
+          "en": "Beyond What They Swore For",
+          "bn": "কসমের দাবিরও ওপারে"
+        },
+        "p": [
+          {
+            "en": "Two verses earlier the scene was set. In 6:109 the idolaters swore by Allah with their strongest oaths that if a sign came to them they would surely believe in it, and the Prophet ﷺ was told to answer that the signs are with Allah alone. Then came a question: what will make you perceive that even if it came, they would not believe? 6:110 then says their hearts and eyes would be turned, just as they had not believed the first time. Our verse completes the reply.",
+            "bn": "দুই আয়াত আগেই মঞ্চ সাজানো হয়েছিল। ৬:১০৯ আয়াতে মুশরিকরা আল্লাহর নামে সবচেয়ে কঠিন কসম খেয়ে বলেছিল, কোনো নিদর্শন এলে তারা অবশ্যই ঈমান আনবে। নবী ﷺ-কে জবাব দিতে বলা হলো: নিদর্শন তো কেবল আল্লাহর কাছে। তারপর একটি প্রশ্ন: তোমাদের কিসে বোঝাবে যে নিদর্শন এলেও তারা ঈমান আনবে না? তারপর ৬:১১০ বলে, তাদের অন্তর আর দৃষ্টি উল্টে দেওয়া হবে, যেমন প্রথমবার তারা ঈমান আনেনি। আমাদের আয়াত সেই জবাবকে শেষ পর্যন্ত পৌঁছে দেয়।"
+          },
+          {
+            "en": "At-Tabari hears the verse as spoken to the Prophet ﷺ himself: O Muhammad, give up hope that these people will prosper, these who set idols up as equals to their Lord and say to you, if you bring us a sign we will believe. Ibn Kathir opens differently, with a condition: if We had answered the request of those who swore. He then lines up what they had asked for elsewhere: Allah and the angels brought before them in 17:92, the like of what the messengers were given in 6:124, and in 25:21 angels sent down or a sight of their Lord.",
+            "bn": "তাবারীর কানে আয়াতটি সরাসরি নবী ﷺ-কে বলা কথা: হে মুহাম্মাদ, এদের সফলতার আশা ছেড়ে দাও। এরা মূর্তিকে নিজেদের রবের সমকক্ষ বানায়, আর তোমাকে বলে, নিদর্শন আনলে আমরা ঈমান আনব। ইবন কাসীর শুরু করেন একটি শর্ত দিয়ে: যারা কসম খেয়েছিল, আমি যদি তাদের দাবি মেনে নিতাম। তারপর তিনি সাজিয়ে দেন অন্য জায়গায় তাদের করা দাবিগুলো। ১৭:৯২ আয়াতে আল্লাহ ও ফেরেশতাদের সামনে এনে হাজির করার দাবি। ৬:১২৪ আয়াতে রাসূলদের যা দেওয়া হয়েছিল তার মতো কিছু পাওয়ার দাবি। আর ২৫:২১ আয়াতে ফেরেশতা নামানো বা নিজেদের রবকে দেখার দাবি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, commenting on 6:109 to 6:113 together, says the passage moves from their refusal of signs already shown to a fresh demand for miracles of their own choosing, and that verse 111 was given partly to settle the hearts of the Muslims. So the verse is less a new argument with the deniers than a word to the believers about them.",
+            "bn": "মাআরিফুল কুরআন ৬:১০৯ থেকে ৬:১১৩ পর্যন্ত একসঙ্গে আলোচনা করে বলে, এখানে কথা এগিয়েছে আগে দেখানো নিদর্শন অস্বীকার থেকে নিজেদের পছন্দমতো নতুন মুজিযার দাবির দিকে। তাদের মতে ১১১ নম্বর আয়াত এসেছে আংশিকভাবে মুসলিমদের মনে প্রশান্তি দিতে। তাই আয়াতটি অস্বীকারকারীদের সঙ্গে নতুন কোনো বিতর্ক যতটা, তার চেয়ে বেশি তাদের সম্পর্কে মুমিনদের কাছে একটি বার্তা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seen, Spoken To, Gathered",
+          "bn": "চোখে দেখা, কানে শোনা, সামনে জড়ো"
+        },
+        "p": [
+          {
+            "en": "The first wonder is angels sent down. Al-Qurtubi and al-Baghawi add the same two words, fa-ra'awhum 'iyanan, so that they saw them with their own eyes, and at-Tabari says the same. Ibn Kathir gives the angels a task: to tell them the message from Allah confirming the messengers. As-Sa'di has them bearing witness to the Messenger's mission. Either way the angel is no longer something reported to them. It stands before them and speaks in the Prophet's favour.",
+            "bn": "প্রথম বিস্ময়: ফেরেশতা নাযিল করা। কুরতুবী ও বাগাভী একই দুটি শব্দ জুড়ে দেন, ফারাআওহুম ইয়ানান, অর্থাৎ তারা তাদের নিজের চোখে দেখল। তাবারীও একই কথা বলেন। ইবন কাসীর ফেরেশতাদের একটি দায়িত্ব দেখান: আল্লাহর পক্ষ থেকে বার্তা পৌঁছে দিয়ে রাসূলদের সত্যায়ন করা। সা'দীর বর্ণনায় তারা রাসূলের রিসালাতের সাক্ষ্য দেয়। যেভাবেই পড়ি, ফেরেশতা তখন আর শোনা কথা নয়। সে সামনে দাঁড়িয়ে নবীর পক্ষে কথা বলছে।"
+          },
+          {
+            "en": "The second is the dead speaking. At-Tabari, al-Qurtubi and al-Baghawi each explain it in one phrase: by Our bringing them back to life. At-Tabari says the revived would be a proof for the Prophet ﷺ and a sign of his prophethood, telling them he was right in what he said and that what he brought was truth from Allah. Al-Baghawi says they would testify to his prophethood, as the deniers had asked. Al-Muyassar simply says: We revived the dead for them, and they spoke to them.",
+            "bn": "দ্বিতীয়টি মৃতদের কথা বলা। তাবারী, কুরতুবী ও বাগাভী তিনজনই একটিমাত্র বাক্যাংশে ব্যাখ্যা দেন: আমি তাদের জীবিত করে দিলে। তাবারী বলেন, জীবিত হওয়া মানুষেরা হতো নবী ﷺ-এর পক্ষে দলিল, তাঁর নবুওয়াতের প্রমাণ। তারা জানিয়ে দিত, তিনি যা বলছেন তা ঠিক, আর যা এনেছেন তা আল্লাহর কাছ থেকে আসা সত্য। বাগাভী বলেন, অস্বীকারকারীরা যেমন চেয়েছিল, মৃতরা তেমনি তাঁর নবুওয়াতের সাক্ষ্য দিত। মুয়াসসার সোজা বলে: আমি তাদের জন্য মৃতদের জীবিত করলাম, আর তারা তাদের সঙ্গে কথা বলল।"
+          },
+          {
+            "en": "The third is the widest: wa hasharna 'alayhim kulla shay'in, and We gathered every thing before them. At-Tabari glosses hashr as gathering and driving towards, and al-Qurtubi defines it as gathering. Al-Qurtubi and al-Muyassar narrow every thing to every sign they had asked for. As-Sa'di pictures all of it brought to speak to them directly about the truth of the Messenger. Each wonder is one of their own demands, now granted in full, and the verse still says no.",
+            "bn": "তৃতীয়টি সবচেয়ে বিস্তৃত: ওয়া হাশারনা আলাইহিম কুল্লা শাই, আর আমি তাদের সামনে সবকিছু জড়ো করলাম। তাবারী হাশরের অর্থ বলেন একত্র করা আর তাদের দিকে তাড়িয়ে আনা। কুরতুবীর সংজ্ঞায় হাশর মানে জমায়েত করা। কুরতুবী ও মুয়াসসার 'সবকিছু' কথাটিকে সীমিত করেন তাদের চাওয়া প্রতিটি নিদর্শনে। সা'দী ছবি আঁকেন এমন এক দৃশ্যের, যেখানে সব জিনিস এনে হাজির করা হয়েছে রাসূলের সত্যতা নিয়ে তাদের সঙ্গে সরাসরি কথা বলতে। প্রতিটি বিস্ময় তাদেরই একটি দাবি, এবার পুরোপুরি মেনে নেওয়া। তবু আয়াতের উত্তর: না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qibalan and Qubulan",
+          "bn": "কিবালান না কুবুলান"
+        },
+        "p": [
+          {
+            "en": "The last word of the clause is read two ways. At-Tabari reports that the readers of Madinah said qibalan, with kasra on the qaf and fatha on the ba', meaning seen openly, as one says laqituhu qibalan, I met him face to face. Al-Qurtubi names Nafi' and Ibn 'Amir for it, and al-Baghawi the people of Madinah and Ibn 'Amir. Most readers of Kufa and Basra, at-Tabari says, read qubulan, with damma on both letters.",
+            "bn": "বাক্যের শেষ শব্দটি দুইভাবে পড়া হয়। তাবারী জানান, মদীনার কারীরা পড়েছেন কিবালান, কাফে যের আর বায়ে যবর দিয়ে। অর্থ, খোলাখুলি চোখের সামনে, যেমন একজন আরব বলে লাকীতুহু কিবালান, তার সঙ্গে মুখোমুখি দেখা হয়েছে। কুরতুবী এ কিরাআতের জন্য নাফি ও ইবন আমিরের নাম বলেন, আর বাগাভী বলেন মদীনাবাসী ও ইবন আমিরের কথা। তাবারী বলেন, কূফা ও বসরার বেশিরভাগ কারী পড়েছেন কুবুলান, দুই অক্ষরেই পেশ দিয়ে।"
+          },
+          {
+            "en": "Read as qubulan, at-Tabari says, the word bears three meanings. It may be the plural of qabil, a guarantor, as rughuf is the plural of raghif: every thing would then stand surety to them for the reward promised on faith and the punishment threatened on dying in disbelief. It may mean facing, from the saying ataytuka qubulan la duburan, I came at you from the front, not from behind. Or it may mean tribe by tribe and kind by kind, a plural of qabil which is itself the plural of qabilah.",
+            "bn": "তাবারী বলেন, কুবুলান পড়লে শব্দটি তিনটি অর্থ বহন করে। এক, এটি কাবীলের বহুবচন হতে পারে, যার অর্থ জামিন, যেমন রাগীফের বহুবচন রুগুফ। তখন অর্থ দাঁড়ায়, সবকিছু তাদের কাছে জামিন হয়ে দাঁড়াত। ঈমান আনলে যে প্রতিদানের ওয়াদা, আর কুফরের উপর মরলে যে শাস্তির হুমকি, তার জিম্মাদার হতো। দুই, এর অর্থ মুখোমুখি, যেমন বলা হয় আতাইতুকা কুবুলান লা দুবুরান, আমি তোমার কাছে সামনে দিয়ে এসেছি, পেছন দিয়ে নয়। তিন, গোত্রে গোত্রে, প্রকারে প্রকারে। তখন এটি কাবীলের বহুবচন, আর কাবীল নিজেই কাবীলার বহুবচন।"
+          },
+          {
+            "en": "Al-Qurtubi draws out what each meaning adds to the picture. If the word means guarantors, then things that cannot speak would be speaking, and things without understanding would be standing surety, which would be a mighty sign in itself. If it means group upon group, then every kind of creature would be assembled together in a way never seen before. Whichever is taken, the scene keeps growing, and the answer to it does not change.",
+            "bn": "প্রতিটি অর্থ ছবিতে কী যোগ করে, কুরতুবী তা খুলে দেখান। শব্দের অর্থ জামিন হলে, যে জিনিস কথা বলতে পারে না সে কথা বলত, আর যার বোধশক্তি নেই সে জিম্মাদার হতো। সেটাই হতো এক বিরাট নিদর্শন। আর অর্থ দলে দলে হলে, সব প্রজাতির সৃষ্টি এমনভাবে একসঙ্গে জড়ো হতো যা আগে কখনো দেখা যায়নি। যে অর্থই নিই, দৃশ্যটা বড় হতেই থাকে, কিন্তু তার জবাব বদলায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Reading Is Whose",
+          "bn": "কোন ব্যাখ্যা কার"
+        },
+        "p": [
+          {
+            "en": "At-Tabari says each meaning was held by a group of early interpreters, and gives their chains. For seen openly he cites Ibn 'Abbas through 'Ali ibn Abi Talhah, and Qatadah: until they saw it with their own eyes. Ibn Kathir reports that even on the damma reading some took it as facing and seeing, as 'Ali ibn Abi Talhah and al-'Awfi relate from Ibn 'Abbas, and that Qatadah and 'Abd ar-Rahman ibn Zayd ibn Aslam said the same. Ibn Zayd's words in at-Tabari: they were all gathered to them, and faced them.",
+            "bn": "তাবারী বলেন, প্রতিটি অর্থই প্রথম যুগের একদল মুফাসসির গ্রহণ করেছেন, আর তিনি তাদের সনদও দেন। 'চোখের সামনে' অর্থের পক্ষে তিনি আনেন আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর কথা, আর কাতাদার কথা: যতক্ষণ না তারা নিজের চোখে দেখে। ইবন কাসীর জানান, পেশওয়ালা কিরাআতেও কেউ কেউ এর অর্থ নিয়েছেন মুখোমুখি ও চাক্ষুষ দেখা। আলী ইবন আবী তালহা ও আওফী এ কথা ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, আর কাতাদা ও আবদুর রহমান ইবন যায়দ ইবন আসলামও তাই বলেছেন। তাবারীতে ইবন যায়দের ভাষা: তাদের সবাইকে এদের কাছে জড়ো করা হলো, আর তারা এদের মুখোমুখি দাঁড়াল।"
+          },
+          {
+            "en": "For tribe by tribe at-Tabari cites Mujahid: in throngs, group after group. Another report has Mujahid reading qubulan in al-An'am and saying: tribes. Ibn Kathir unfolds Mujahid's view as every nation brought before them one after another, each telling them the messengers spoke the truth. Al-Qurtubi gives the same sense to al-Akhfash. The guarantor reading he takes from al-Farra', who links it to qabilan in 17:92. Muhammad ibn Yazid, also in al-Qurtubi, reads facing, and compares the shirt torn min qubulin, from the front, in 12:26.",
+            "bn": "'গোত্রে গোত্রে' অর্থের পক্ষে তাবারী আনেন মুজাহিদের কথা: দলে দলে, এক দলের পর আরেক দল। আরেক বর্ণনায় আছে, মুজাহিদ সূরা আনআমে কুবুলান পড়েছেন আর বলেছেন: গোত্রসমূহ। ইবন কাসীর মুজাহিদের মত খুলে বলেন এভাবে: একের পর এক প্রতিটি জাতিকে তাদের সামনে আনা হতো, আর প্রত্যেকে জানাত যে রাসূলগণ সত্য বলেছেন। কুরতুবী একই অর্থ আখফাশের নামেও দেন। জামিনের অর্থটি তিনি নেন ফাররা থেকে, যিনি একে ১৭:৯২ আয়াতের কাবীলান শব্দের সঙ্গে যুক্ত করেন। কুরতুবীতেই মুহাম্মাদ ইবন ইয়াযীদ অর্থ নেন মুখোমুখি, আর তুলনা টানেন ১২:২৬ আয়াতের সামনে থেকে ছেঁড়া জামার সঙ্গে, যেখানে শব্দটি মিন কুবুলিন।"
+          },
+          {
+            "en": "On which reading carries more, the two commentators part ways. At-Tabari prefers qubulan, because it can hold every meaning listed, including the sense of qibalan, while qibalan cannot hold the others. Al-Qurtubi relays Abu Zayd, who records several forms of the word, alongside muqabalah, all used for meeting someone face to face; on that basis Makki holds that the damma means what the kasra means and the two readings are equal. Both positions are kept here as their own, and each reading has named readers behind it.",
+            "bn": "কোন কিরাআত বেশি অর্থ ধারণ করে, এ প্রশ্নে দুই মুফাসসিরের পথ আলাদা। তাবারী কুবুলান পড়াকে অগ্রাধিকার দেন। কারণ তাঁর মতে এটি উল্লেখিত সব অর্থই ধারণ করতে পারে, কিবালানের অর্থও এর ভেতরে ঢুকে যায়, কিন্তু কিবালান বাকি অর্থগুলো ধরতে পারে না। কুরতুবী অন্যদিকে আবু যায়দের বর্ণনা আনেন। তিনি শব্দটির কয়েকটি রূপ লিখেছেন, সঙ্গে মুকাবালা শব্দও, আর সবগুলোর অর্থ কারও সঙ্গে মুখোমুখি দেখা হওয়া। এর ভিত্তিতে মাক্কী বলেন, পেশের অর্থ যেরের অর্থের মতোই, আর দুই কিরাআত সমান। দুটি মতই এখানে যার যার নামে রাখা হলো। আর প্রতিটি কিরাআতের পেছনেই নাম-জানা কারীরা আছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Exception That Is His",
+          "bn": "ব্যতিক্রম কেবল তাঁর হাতে"
+        },
+        "p": [
+          {
+            "en": "Then the hinge of the verse: ma kanu li-yu'minu illa an yasha'a Allah, they would not have believed unless Allah willed. Al-Qurtubi reads the exception as one that stands outside the first group: but if He wills it for them. He then records a second view, that the exception points to the people of felicity whose faith was already in Allah's knowledge, and he adds that the clause is a consolation for the Prophet ﷺ. Al-Muyassar puts it plainly: except those for whom Allah willed guidance.",
+            "bn": "এরপর আয়াতের মূল কবজা: মা কানূ লিইউমিনূ ইল্লা আঁই ইয়াশাআল্লাহ, আল্লাহ না চাইলে তারা ঈমান আনত না। কুরতুবীর মতে এটি এমন একটি ব্যতিক্রম, যা প্রথম দলের অংশ নয়: তবে তিনি যদি তাদের জন্য তা চান। তারপর তিনি আরেকটি মত উল্লেখ করেন। সে মতে ব্যতিক্রমটি সৌভাগ্যবানদের দিকে ইঙ্গিত করে, যাদের ঈমান আগে থেকেই আল্লাহর জ্ঞানে ছিল। তিনি যোগ করেন, এ বাক্যে নবী ﷺ-এর জন্য সান্ত্বনা আছে। মুয়াসসার সহজ করে বলে: আল্লাহ যাদের জন্য হিদায়াত চেয়েছেন, তারা ছাড়া।"
+          },
+          {
+            "en": "At-Tabari sets out two views on whom the verse means. Ibn Jurayj said it came down about the mockers of Quraysh who had asked the Prophet ﷺ for a sign. Ibn 'Abbas, in a report through Mu'awiyah ibn Salih, said they would not have believed refers to the people of wretchedness, and unless Allah willed refers to the people of felicity, those already in His knowledge as entering faith. At-Tabari prefers Ibn 'Abbas, because the verse speaks generally of the people who swore in 6:109.",
+            "bn": "আয়াতটি কাদের কথা বলছে, এ নিয়ে তাবারী দুটি মত উল্লেখ করেন। ইবন জুরাইজ বলেছেন, এটি নাযিল হয়েছে কুরাইশের সেই ঠাট্টাকারীদের সম্পর্কে, যারা নবী ﷺ-এর কাছে নিদর্শন চেয়েছিল। অন্যদিকে মুআবিয়া ইবন সালিহের সূত্রে ইবন আব্বাস (রাঃ) বলেছেন, 'তারা ঈমান আনত না' বলতে দুর্ভাগাদের বোঝানো হয়েছে। আর 'আল্লাহ না চাইলে' বলতে সৌভাগ্যবানদের, যাদের ঈমানে প্রবেশ আল্লাহর জ্ঞানে আগে থেকেই ছিল। তাবারী ইবন আব্বাসের মতকে অগ্রাধিকার দেন। কারণ আয়াতটি ব্যাপকভাবে সেই লোকদের কথা বলছে, যারা ৬:১০৯ আয়াতে কসম খেয়েছিল।"
+          },
+          {
+            "en": "He grants that the askers may have been the mockers Ibn Jurayj named, but says nothing in the wording shows it and no report establishes it. Ibn Kathir draws the theological line in his own words: guidance belongs to Allah, not to them. He guides whom He wills and leaves astray whom He wills, and He is not questioned about what He does, while they will be questioned, as 21:23 says, because of His knowledge and wisdom. He sets 10:96 and 10:97 beside it.",
+            "bn": "তিনি মেনে নেন, নিদর্শন যারা চেয়েছিল তারা হয়তো ইবন জুরাইজের বলা ঠাট্টাকারীরাই ছিল। কিন্তু তাঁর মতে আয়াতের বাহ্যিক ভাষায় এর কোনো ইঙ্গিত নেই, আর তা প্রমাণ করে এমন কোনো বর্ণনাও নেই। ইবন কাসীর নিজের ভাষায় আকীদার সীমারেখা টানেন: হিদায়াত আল্লাহর হাতে, তাদের হাতে নয়। তিনি যাকে চান হিদায়াত দেন, যাকে চান পথভ্রষ্ট হতে দেন। তিনি যা করেন সে বিষয়ে তাঁকে প্রশ্ন করা হবে না, বরং তাদেরকেই প্রশ্ন করা হবে, যেমন ২১:২৩ বলে। এর কারণ তাঁর জ্ঞান ও প্রজ্ঞা। পাশে তিনি রাখেন ১০:৯৬ ও ১০:৯৭ আয়াত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Ignorance Named Last",
+          "bn": "শেষে যে অজ্ঞতার নাম"
+        },
+        "p": [
+          {
+            "en": "Wa lakinna aktharahum yajhalun: but most of them are ignorant. Of what? At-Tabari answers that they do not know that it is so. They reckon that faith is in their own hands and disbelief at their disposal, to believe when they please and disbelieve when they please. In his paraphrase of the divine speech, it is not so: none of them believes except one I guided and enabled, and none disbelieves except one I forsook. Al-Qurtubi and al-Muyassar read it as ignorance of the truth itself.",
+            "bn": "ওয়া লাকিন্না আকসারাহুম ইয়াজহালূন: কিন্তু তাদের বেশিরভাগই অজ্ঞ। কিসের ব্যাপারে? তাবারীর জবাব: তারা জানে না যে বিষয়টা এমনই। তারা ভাবে ঈমান তাদের নিজের হাতে, কুফরও তাদের এখতিয়ারে। যখন খুশি ঈমান আনবে, যখন খুশি কুফরি করবে। তাবারী আল্লাহর কথাকে নিজের ভাষায় তুলে ধরেন: ব্যাপারটা তেমন নয়। আমি যাকে হিদায়াত ও তাওফীক দিই, সে ছাড়া একজনও ঈমান আনে না। আর আমি যাকে সাহায্য থেকে বঞ্চিত করি, সে ছাড়া কেউ কুফরি করে না। কুরতুবী ও মুয়াসসার এখানে অজ্ঞতা বলতে বোঝেন খোদ সত্য সম্পর্কে অজ্ঞতা।"
+          },
+          {
+            "en": "Al-Qurtubi records a narrower reading too: they do not know that it is not allowed to keep proposing signs after they have seen one. As-Sa'di calls their tying faith to their own will alone, without reliance on Allah, one of the greatest of errors. Ma'arif al-Qur'an makes it a courtroom: a party that will not cross-examine the witnesses already called, yet demands some other witness of its own choosing, would not be heard. Their denial, it says, came from hostility and obstinacy, a disease miracles do not cure.",
+            "bn": "কুরতুবী আরেকটি সংকীর্ণ ব্যাখ্যাও উল্লেখ করেন: একটি নিদর্শন দেখার পরও বারবার নতুন নিদর্শনের প্রস্তাব দেওয়া যে জায়েয নয়, তারা তা জানে না। সা'দী বলেন, আল্লাহর উপর ভরসা না করে ঈমানকে শুধু নিজেদের ইচ্ছার সঙ্গে বেঁধে রাখা সবচেয়ে বড় ভুলগুলোর একটি। মাআরিফুল কুরআন বিষয়টিকে আদালতের ছবিতে দেখায়। যে পক্ষ হাজির করা সাক্ষীদের জেরা করে না, অথচ নিজের পছন্দের অন্য কোনো সাক্ষী দাবি করে, কোনো আদালত তার কথা শুনবে না। তাদের অস্বীকার, মাআরিফের ভাষায়, এসেছিল শত্রুতা আর জেদ থেকে। এ এমন রোগ, যা মুজিযা দিয়ে সারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Moon Split, a Book Given",
+          "bn": "চাঁদ দ্বিখণ্ডিত, কিতাব দান"
+        },
+        "p": [
+          {
+            "en": "No fetched tafsir attaches a sound hadith to this verse. Two narrations in al-Bukhari touch its theme, neither of them about 6:111 itself. Anas reports that the people of Makkah asked the Messenger of Allah ﷺ to show them a sign, so he showed them the splitting of the moon (Bukhari 3637). And Abu Hurayrah reports the Prophet ﷺ saying: there was no prophet who was not given something like which people believed in, and what I was given was revelation Allah revealed to me, so I hope to have the most followers of them on the Day of Resurrection (Bukhari 4981).",
+            "bn": "সংগৃহীত কোনো তাফসীর এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তবে বুখারীর দুটি বর্ণনা আয়াতের বিষয়ের কাছাকাছি, যদিও কোনোটিই ৬:১১১ সম্পর্কে নয়। আনাস (রাঃ) বর্ণনা করেন, মক্কাবাসীরা রাসূলুল্লাহ ﷺ-এর কাছে একটি নিদর্শন দেখতে চাইল, তখন তিনি তাদের চাঁদ দ্বিখণ্ডিত হওয়া দেখালেন (বুখারী ৩৬৩৭)। আর আবু হুরায়রা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: এমন কোনো নবী নেই যাকে এমন কিছু দেওয়া হয়নি, যার মতো জিনিস দেখে মানুষ ঈমান এনেছে। আর আমাকে যা দেওয়া হয়েছে তা হলো ওহী, যা আল্লাহ আমার প্রতি নাযিল করেছেন। তাই আমি আশা করি, কিয়ামতের দিন অনুসারীর সংখ্যায় আমি তাদের সবার চেয়ে বেশি হব (বুখারী ৪৯৮১)।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an relays from Ibn Jarir a report, placed at 6:109, about a demand that Mount Safa be turned to gold; the text gives it no grading, so it is only mentioned here. And this needs saying plainly: the verse describes those who swore in Makkah and what they would do. It licenses nothing against any living person or community, and gives no one the right to count anyone among the wretched, a matter at-Tabari's reading leaves in Allah's knowledge.",
+            "bn": "মাআরিফুল কুরআন ইবন জারীরের সূত্রে ৬:১০৯ আয়াতের প্রসঙ্গে একটি বর্ণনা আনে, যাতে সাফা পাহাড়কে সোনা বানিয়ে দেওয়ার দাবির কথা আছে। সেখানে এর কোনো মান উল্লেখ নেই, তাই এখানে শুধু উল্লেখটুকুই রাখা হলো। আর একটি কথা সোজাসুজি বলা দরকার। আয়াতটি মক্কায় কসম খাওয়া সেই লোকদের এবং তাদের আচরণের বর্ণনা দেয়। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। কাউকে দুর্ভাগাদের দলে গণ্য করার অধিকারও কাউকে দেয় না। তাবারীর ব্যাখ্যায় সে বিষয়টি আল্লাহর জ্ঞানেই রয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faith Not Held Hostage",
+          "bn": "শর্তে বাঁধা নয় ঈমান"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di turns the verse into a rule for the reader. Real reason and knowledge, he says, is that the servant's aim be to follow the truth, to seek it by the ways Allah has made clear, to act on it, and to ask his Lord's help in following it, without leaning on his own strength, and without demanding proposed signs that bring no benefit. The question for us is not what would convince me, but whether I am following what has already reached me.",
+            "bn": "সা'দী আয়াতটিকে পাঠকের জন্য একটি নিয়মে পরিণত করেন। তাঁর মতে আসল বুদ্ধি ও জ্ঞান হলো, বান্দার লক্ষ্য থাকবে সত্যের অনুসরণ। আল্লাহ যে পথগুলো স্পষ্ট করেছেন সেগুলো দিয়েই সে সত্য খুঁজবে, সে অনুযায়ী আমল করবে, আর অনুসরণের জন্য নিজের রবের সাহায্য চাইবে। নিজের শক্তি-সামর্থ্যের উপর ভরসা করবে না, আর এমন প্রস্তাবিত নিদর্শনও চাইবে না যাতে কোনো ফায়দা নেই। আমাদের প্রশ্ন তাই এটা নয় যে কী দেখলে আমি মানব। প্রশ্ন হলো, যা আমার কাছে পৌঁছে গেছে, আমি তা মেনে চলছি কি না।"
+          },
+          {
+            "en": "For anyone who calls others to the truth, al-Qurtubi's word consolation matters. The result was never in the Prophet's hands, and Ma'arif adds that no one is to be forced into faith. Our part is to convey well and to pray, and the Qur'an gives the words in 3:8: our Lord, do not let our hearts swerve after You have guided us.",
+            "bn": "যারা অন্যকে সত্যের দিকে ডাকেন, তাদের জন্য কুরতুবীর 'সান্ত্বনা' শব্দটি গুরুত্বপূর্ণ। ফলাফল কখনো নবী ﷺ-এর হাতে ছিল না। মাআরিফ যোগ করে, কাউকে জোর করে ঈমানে আনা যায় না। আমাদের কাজ সুন্দরভাবে পৌঁছে দেওয়া আর দোয়া করা। সে দোয়ার ভাষা কুরআনই দিয়েছে ৩:৮ আয়াতে: হে আমাদের রব, হিদায়াত দেওয়ার পর আমাদের অন্তরকে বাঁকা করে দিয়ো না।"
+          }
+        ]
+      }
+    ]
+  },
   "6:112": {
     "sections": [
       {
