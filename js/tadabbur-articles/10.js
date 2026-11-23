@@ -1231,6 +1231,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:27": {
+    "sections": [
+      {
+        "h": {
+          "en": "Answering the Verse Before",
+          "bn": "আগের আয়াতের জবাব"
+        },
+        "p": [
+          {
+            "en": "Wa-lladhina kasabu as-sayyi'at: and those who earned evil deeds. This verse is not meant to be read alone. The one before it, 10:26, promised those who did good al-husna and more, and said that neither gloom nor humiliation would cover their faces. This verse answers it almost word for word. The same verb returns, tarhaquhum, and with it the same dhilla, only now it does cover. The faces return, now darkened. And 'companions of Paradise, abiding therein' becomes 'companions of the Fire, abiding therein'. Two verses, one picture in two halves.",
+            "bn": "ওয়াল্লাযীনা কাসাবুস সাইয়িআত: আর যারা মন্দ কাজ কামাই করেছে। এ আয়াত একা পড়ার জন্য নয়। এর আগের আয়াত, ১০:২৬, সৎকর্মশীলদের জন্য আল-হুসনা আর তার চেয়েও বেশির কথা দিয়েছে, আর বলেছে, তাদের মুখ কোনো মলিনতা বা অপমানে ঢাকবে না। এ আয়াত প্রায় শব্দে শব্দে তার জবাব দেয়। সেই ক্রিয়াই ফিরে আসে, তারহাকুহুম, সঙ্গে সেই যিল্লাহ। তফাত একটাই, এবার অপমান সত্যিই ঢেকে ফেলে। মুখগুলোও ফিরে আসে, তবে এবার অন্ধকার হয়ে। আর 'জান্নাতের অধিবাসী, সেখানে চিরকাল' হয়ে যায় 'জাহান্নামের অধিবাসী, সেখানে চিরকাল'। দুটি আয়াত মিলে একটিই ছবি, তার দুই অর্ধেক।"
+          },
+          {
+            "en": "The commentators read the pairing in the same way. Ibn Kathir says that after Allah told of the state of the fortunate, whose good deeds are multiplied and who are given more besides, He turned to the state of the wretched and mentioned His justice among them. As-Sa'di puts it in a single clause: having mentioned the people of the Garden, He mentioned the people of the Fire. At-Tabari, as a later section shows, builds the link into the grammar itself, reading this verse as the continuation of its predecessor.",
+            "bn": "তাফসীরকারেরাও জোড়াটা এভাবেই পড়েন। ইবন কাসীর বলেন, যাদের নেকি বহু গুণ করা হয় আর তার উপরে আরও দেওয়া হয়, সেই সৌভাগ্যবানদের অবস্থা জানানোর পর আল্লাহ হতভাগাদের অবস্থার দিকে ফেরেন, আর তাদের বেলায় নিজের ন্যায়বিচারের কথা বলেন। সা'দী কথাটা এক বাক্যে সারেন: জান্নাতবাসীদের কথা বলার পর তিনি জাহান্নামবাসীদের কথা বললেন। তাবারী আরও এক ধাপ এগোন। সামনের এক অংশে দেখা যাবে, তিনি সংযোগটাকে বাক্যের ব্যাকরণের মধ্যেই বসিয়ে দেন, আর এ আয়াতকে পড়েন আগের আয়াতেরই ধারাবাহিকতা হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Goods Brought Back From the World",
+          "bn": "দুনিয়া থেকে কেনা পুঁজি"
+        },
+        "p": [
+          {
+            "en": "Who are these earners? The commentators answer with different reach. At-Tabari: those who did evil deeds in the world, disobeyed Allah in it, and disbelieved in Him and in His Messenger. The Muyassar says much the same: they did evil in the world, disbelieving and disobeying Allah. Al-Qurtubi gives two readings. His first is general, they committed sins; his second, introduced with 'it is said', is that the evil meant is shirk. The difference matters for the verse's closing clause, and it is kept here as he gives it.",
+            "bn": "এই কামাইকারীরা কারা? তাফসীরকারেরা উত্তর দেন ভিন্ন ভিন্ন পরিসরে। তাবারীর ভাষায়: যারা দুনিয়ায় মন্দ কাজ করেছে, সেখানে আল্লাহর নাফরমানি করেছে, আর আল্লাহ ও তাঁর রাসূলকে অস্বীকার করেছে। মুয়াসসারও প্রায় একই কথা বলে: তারা দুনিয়ায় মন্দ কাজ করেছে, কুফরি করেছে, আল্লাহর অবাধ্য হয়েছে। কুরতুবী দুটি ব্যাখ্যা দেন। প্রথমটি সাধারণ: তারা গুনাহ করেছে। দ্বিতীয়টি তিনি আনেন 'বলা হয়' বলে: এখানে মন্দ মানে শিরক। আয়াতের শেষ বাক্যের সঙ্গে এই পার্থক্যের সম্পর্ক আছে, তাই তিনি যেভাবে দিয়েছেন সেভাবেই রাখা হলো।"
+          },
+          {
+            "en": "As-Sa'di reaches for a trader's word. Their bida'a, the stock they acquired in the world, was evil deeds that draw Allah's displeasure: kinds of disbelief and denial, and varieties of sin. The image fits the verb. Kasaba is to earn or acquire, to go out and come back holding something. A merchant returns from the market with whatever he chose to buy, and he cannot later claim the goods were forced on him. The verse does not say evil befell them. It says they earned it.",
+            "bn": "সা'দী এখানে ব্যবসার একটা শব্দ বেছে নেন। দুনিয়া থেকে তারা যে পুঁজি (বিদাআহ) জোগাড় করেছিল, তা ছিল আল্লাহকে অসন্তুষ্ট করার মতো মন্দ আমল: নানা রকম কুফরি ও অস্বীকার, আর নানা ধরনের গুনাহ। ছবিটা ক্রিয়ার সঙ্গে মিলে যায়। কাসাবা মানে উপার্জন করা, অর্জন করা। বাইরে গিয়ে কিছু একটা হাতে নিয়ে ফেরা। বাজার থেকে সওদাগর ফেরে নিজের পছন্দে কেনা মাল নিয়ে। পরে সে বলতে পারে না যে মালটা জোর করে তার হাতে গুঁজে দেওয়া হয়েছিল। আয়াত বলে না যে মন্দ তাদের উপর এসে পড়েছে। বলে, তারা তা কামাই করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Its Like, and Nothing Added",
+          "bn": "মন্দের বদলা কেবল তার সমান"
+        },
+        "p": [
+          {
+            "en": "Jaza'u sayyi'atin bi-mithliha: the recompense of an evil deed is its like. Ibn Kathir names what this clause shows: Allah's justice. He repays them for the evil deed with its like, and does not add to it. Al-Qurtubi explains the likeness the same way from the other side: the recompense is reckoned as matching their sins, which means they are not wronged. Al-Baghawi glosses it as 'theirs is its like' and points to 6:160: whoever comes with an evil deed will be recompensed only with its like.",
+            "bn": "জাযাউ সাইয়িআতিম বিমিসলিহা: মন্দের প্রতিদান তার সমান। এই অংশ কী দেখায়, ইবন কাসীর তার নাম দেন: আল্লাহর ন্যায়বিচার। তিনি মন্দের বদলা দেন ঠিক তার সমান, তার উপর কিছু বাড়ান না। কুরতুবী একই কথা বলেন উল্টো দিক থেকে। প্রতিদানটা তাদের গুনাহর সমান বলে গণ্য হবে, অর্থাৎ তাদের উপর কোনো জুলুম হবে না। বাগাভী ব্যাখ্যা দেন, 'তাদের জন্য আছে তার সমান', আর ৬:১৬০ আয়াতের দিকে ইশারা করেন: যে মন্দ নিয়ে আসবে, তাকে কেবল তার সমান প্রতিদানই দেওয়া হবে।"
+          },
+          {
+            "en": "As-Sa'di adds a shade the others leave implicit. The recompense is one that grieves them, measured by the evil they actually did, and it differs as their states differ. Like, then, does not mean one sentence handed to everyone. Each person meets the weight of his own record, no heavier. The verse of 6:160 that al-Baghawi cites opens with the other side of the same scale: whoever comes with a good deed will have ten like it. It ends with the words: and they will not be wronged.",
+            "bn": "সা'দী এমন একটা দিক যোগ করেন, যা অন্যরা খুলে বলেননি। প্রতিদানটা তাদের কষ্ট দেবে, আর মাপা হবে তারা আসলে যতটা মন্দ করেছে সেই হিসাবে। মানুষের অবস্থা যেমন আলাদা, প্রতিদানও তেমন আলাদা। তাহলে 'সমান' মানে সবার জন্য এক রায় নয়। প্রত্যেকে মুখোমুখি হবে নিজের আমলনামার ওজনের, তার চেয়ে ভারী কিছুর নয়। বাগাভী যে ৬:১৬০ আয়াত উদ্ধৃত করেন, তার শুরুতেই আছে একই পাল্লার অন্য দিক: যে একটি নেকি নিয়ে আসবে, সে পাবে তার মতো দশটি। আর আয়াতের শেষ কথা: তাদের উপর জুলুম করা হবে না।"
+          },
+          {
+            "en": "Here is the asymmetry the two verses draw together. For the doers of good in 10:26, al-husna and more. For the earners of evil in 10:27, its like and nothing added. Even in a verse that ends in the Fire, the measure is held exactly, and the text says so before it describes a single face. 4:40 states the same balance as a rule: Allah does not wrong anyone by an atom's weight, and if it is a good deed, He multiplies it. Generosity runs one way; strict fairness runs the other.",
+            "bn": "দুই আয়াত মিলে যে অসমতাটা আঁকে, তা এই। ১০:২৬ আয়াতে সৎকর্মশীলদের জন্য আল-হুসনা, তার উপর আরও। ১০:২৭ আয়াতে মন্দ কামাইকারীদের জন্য তার সমান, বাড়তি কিছু নয়। যে আয়াত শেষ হয় জাহান্নামে, সেখানেও মাপ এতটুকু নড়ে না। আর কোনো চেহারার বর্ণনা দেওয়ার আগেই আয়াত সে কথা জানিয়ে দেয়। ৪:৪০ আয়াত একই ভারসাম্যকে নিয়মের মতো বলে: আল্লাহ অণু পরিমাণও জুলুম করেন না, আর নেকি হলে তিনি তা বহু গুণ করে দেন। দানশীলতা চলে এক দিকে, কড়া ইনসাফ অন্য দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Nominative Points Back",
+          "bn": "পেশ যেদিকে ইশারা করে"
+        },
+        "p": [
+          {
+            "en": "A grammatical question sits inside the clause: why is jaza' in the nominative? At-Tabari reports that the grammarians differed. One of the Kufans took it as carried by an unstated lahum, 'and for them is the recompense', on the pattern of 2:196, where 'then a three-day fast' means 'then upon him is a fast'. One of the Basrans made jaza' the subject and bi-mithliha its predicate, with the ba' added, as in the Arab saying bi-hasbika qawlu as-su'. Others objected to that analysis.",
+            "bn": "এ অংশের ভেতরে একটা ব্যাকরণের প্রশ্ন লুকিয়ে আছে: জাযা শব্দে পেশ কেন? তাবারী জানান, ব্যাকরণবিদেরা এ নিয়ে একমত হননি। কুফার এক ব্যাকরণবিদের মতে এখানে না-বলা 'লাহুম' শব্দটি উহ্য আছে: 'আর তাদের জন্য আছে প্রতিদান'। ঠিক যেমন ২:১৯৬ আয়াতে 'তবে তিন দিনের রোজা' মানে 'তবে তার উপর তিন দিনের রোজা'। বসরার এক ব্যাকরণবিদ জাযাকে উদ্দেশ্য আর বিমিসলিহাকে বিধেয় ধরেন। তাঁর মতে 'বা' অক্ষরটি বাড়তি, যেমন আরবদের কথায় আছে, বিহাসবিকা কাওলুস সূ। অন্য কেউ কেউ এই বিশ্লেষণে আপত্তি তুলেছেন।"
+          },
+          {
+            "en": "At-Tabari's own preference is the implied lahum, and his reason is the previous verse. Allah said lil-ladhina ahsanu al-husna, describing what He had prepared for His friends, then followed it with what He had prepared for His enemies, so the closest fit is 'and for those who earned evil, the recompense of an evil deed'. Al-Qurtubi lists the same options and names Ibn Kaysan for the extra ba'. Whichever analysis holds, at-Tabari's choice keeps the two verses in one frame.",
+            "bn": "তাবারী নিজে উহ্য 'লাহুম'-এর পক্ষে, আর কারণ হিসেবে দেখান আগের আয়াত। আল্লাহ বলেছেন, লিল্লাযীনা আহসানুল হুসনা। সেখানে তিনি নিজের প্রিয় বান্দাদের জন্য কী প্রস্তুত রেখেছেন তা বলেছেন, তারপর বলেছেন শত্রুদের জন্য কী রেখেছেন। তাই সবচেয়ে মানানসই পাঠ: 'আর যারা মন্দ কামাই করেছে, তাদের জন্য মন্দের প্রতিদান'। কুরতুবী একই বিকল্পগুলো তুলে ধরেন, আর বাড়তি 'বা'-এর মত ইবন কায়সানের নামে উল্লেখ করেন। যে বিশ্লেষণই টিকুক, তাবারীর পছন্দ দুই আয়াতকে এক ফ্রেমে ধরে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ten Written, One Written",
+          "bn": "দশ গুণ লেখা, একটি লেখা"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a hadith to it, and none gives it an occasion of revelation. There is, though, a narration that lays out the same scale in numbers. It is general and not attached to this verse. Al-Bukhari includes it in his Sahih (6491), from Ibn 'Abbas: the Prophet ﷺ, relating from his Lord, said the words below. Notice where the number one falls, and where 700 does.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি, শানে নুযুলও বলেনি। তবে একটি বর্ণনা আছে, যা একই পাল্লাকে সংখ্যায় মেলে ধরে। বর্ণনাটি সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়। বুখারী তা তাঁর সহীহ গ্রন্থে (৬৪৯১) এনেছেন ইবন আব্বাস (রাঃ) থেকে। নবী ﷺ তাঁর রবের পক্ষ থেকে বর্ণনা করে নিচের কথাগুলো বলেছেন। খেয়াল করুন, 'একটি' সংখ্যাটা কোথায় বসেছে, আর '৭০০' কোথায়।"
+          },
+          {
+            "en": "'Allah wrote down the good deeds and the bad deeds, then He made that clear. Whoever resolves on a good deed and does not do it, Allah writes it with Himself as a complete good deed. If he resolves on it and does it, Allah writes it with Himself as ten good deeds, up to 700 times, up to many times more. Whoever resolves on a bad deed and does not do it, Allah writes it with Himself as a complete good deed. If he resolves on it and does it, Allah writes it as one bad deed.'",
+            "bn": "'আল্লাহ নেকি ও গুনাহগুলো লিখে রেখেছেন, তারপর তা স্পষ্ট করে দিয়েছেন। কেউ কোনো নেক কাজের ইচ্ছা করল কিন্তু করল না, আল্লাহ তাঁর কাছে সেটাকে একটি পূর্ণ নেকি হিসেবে লেখেন। আর যদি ইচ্ছা করে কাজটা করেও ফেলে, আল্লাহ তাঁর কাছে তা লেখেন দশটি নেকি হিসেবে, ৭০০ গুণ পর্যন্ত, এমনকি তারও বহু গুণ পর্যন্ত। কেউ কোনো মন্দ কাজের ইচ্ছা করল কিন্তু করল না, আল্লাহ তাঁর কাছে সেটাকেও একটি পূর্ণ নেকি হিসেবে লেখেন। আর যদি ইচ্ছা করে কাজটা করেই ফেলে, আল্লাহ তা লেখেন একটিমাত্র গুনাহ হিসেবে।'"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Humiliation That Reaches the Skin",
+          "bn": "ভেতরের অপমান মুখে ওঠে"
+        },
+        "p": [
+          {
+            "en": "Wa-tarhaquhum dhilla: and humiliation covers them. At-Tabari explains it as humiliation and abasement overspreading them through Allah's punishing them, and he relates from Ibn 'Abbas, through 'Ali ibn Abi Talha, that humiliation and hardship cover them. Al-Qurtubi has abasement and disgrace. Ibn Kathir says it befalls them and rises over them, a humiliation born of their sins and of their fear of those sins. Beside it he sets 42:45: you will see them exposed to the Fire, humbled from humiliation, looking with a furtive glance.",
+            "bn": "ওয়া তারহাকুহুম যিল্লাহ: আর অপমান তাদের ঢেকে ফেলবে। তাবারী ব্যাখ্যা করেন, আল্লাহ তাদের শাস্তি দেবেন বলে লাঞ্ছনা আর হীনতা তাদের ছেয়ে ফেলবে। আলী ইবন আবী তালহার সূত্রে তিনি ইবন আব্বাস (রাঃ) থেকে আনেন: লাঞ্ছনা আর কাঠিন্য তাদের ঢেকে ফেলবে। কুরতুবীর ভাষায়: হীনতা আর বেইজ্জতি। ইবন কাসীর বলেন, অপমান তাদের পেয়ে বসবে, তাদের ছাপিয়ে উঠবে। এ অপমান জন্মায় তাদের গুনাহ থেকে, আর সেই গুনাহর ভয় থেকে। পাশে তিনি রাখেন ৪২:৪৫ আয়াত: তুমি তাদের দেখবে আগুনের সামনে হাজির করা হচ্ছে, অপমানে মাথা নিচু, চোখের কোণ দিয়ে চুপিচুপি তাকাচ্ছে।"
+          },
+          {
+            "en": "As-Sa'di traces the humiliation along a path. It sits first in their hearts, together with fear of Allah's punishment, a fear no one can push away from them. Then that inner humiliation spreads to their outward selves and becomes blackness on the faces. On his reading, the darkened face later in the verse is that same humiliation made visible. The commentary leaves the reader with a plain question for the present: what is my heart holding now that I would not want shown on my face?",
+            "bn": "সা'দী অপমানটার একটা পথ দেখান। শুরুতে তা থাকে তাদের অন্তরে, সঙ্গে আল্লাহর শাস্তির ভয়, যে ভয় কেউ তাদের থেকে সরাতে পারবে না। তারপর ভেতরের সেই অপমান বাইরে ছড়িয়ে পড়ে, আর মুখে কালো রং হয়ে ফুটে ওঠে। তাঁর পাঠে আয়াতের পরের অংশের অন্ধকার মুখ আসলে এই অপমানেরই দৃশ্যমান রূপ। এ ব্যাখ্যা পাঠকের সামনে আজকের জন্য একটা সোজা প্রশ্ন রেখে যায়: আমার অন্তর এখন এমন কী বয়ে বেড়াচ্ছে, যা মুখে ফুটে উঠুক তা আমি চাই না?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Guard Between Them and Him",
+          "bn": "মাঝখানে দাঁড়ানোর কেউ নেই"
+        },
+        "p": [
+          {
+            "en": "Ma lahum mina-llahi min 'asim: they will have no protector from Allah. At-Tabari: no one to hold Him back from them when He punishes them, no one to come between Him and them. Ibn Kathir: no barrier and no guard to shield them from the punishment, and he cites 75:10 to 75:12: man will say on that Day, where is the escape? No, there is no refuge; to your Lord that Day is the place of rest. Al-Baghawi treats the second min as a connective particle, so the sense is simply: they have no protector from Allah.",
+            "bn": "মা লাহুম মিনাল্লাহি মিন আসিম: আল্লাহর হাত থেকে তাদের রক্ষা করার কেউ থাকবে না। তাবারী বলেন, তিনি যখন শাস্তি দেবেন, তখন তাঁকে ঠেকানোর মতো, তাঁর আর তাদের মাঝখানে দাঁড়ানোর মতো কেউ থাকবে না। ইবন কাসীরের ভাষায়: শাস্তি থেকে বাঁচানোর মতো কোনো বাধা নেই, কোনো পাহারাদার নেই। প্রমাণ হিসেবে তিনি আনেন ৭৫:১০ থেকে ৭৫:১২ আয়াত: সেদিন মানুষ বলবে, পালাব কোথায়? না, কোনো আশ্রয় নেই। সেদিন ঠাঁই কেবল তোমার রবের কাছে। বাগাভী দ্বিতীয় 'মিন'-কে সংযোজক অব্যয় ধরেন, ফলে অর্থ দাঁড়ায় সোজা: আল্লাহর হাত থেকে তাদের কোনো রক্ষাকারী নেই।"
+          },
+          {
+            "en": "The word 'asim returns in the next surah on the lips of Nuh (AS), as the flood rises around his son: there is no protector today from the decree of Allah, except for whom He has mercy (11:43). And the very next verse here, 10:28, shows the partners these people had leaned on being set apart from them, denying they were ever worshipped. On that Day, whatever a person relied on beside Allah steps aside. The one exception 11:43 names is His mercy, sought from Him while it can still be sought.",
+            "bn": "আসিম শব্দটা পরের সূরায় আবার আসে নূহ (আঃ)-এর মুখে, যখন প্লাবনের পানি তাঁর ছেলের চারপাশে উঠছে: আজ আল্লাহর হুকুম থেকে রক্ষা করার কেউ নেই, তিনি যার উপর দয়া করেন সে ছাড়া (১১:৪৩)। আর এখানে ঠিক পরের আয়াত, ১০:২৮, দেখায় যাদের উপর এরা ভরসা করত, সেই শরীকদের তাদের থেকে আলাদা করে দেওয়া হচ্ছে, আর তারা অস্বীকার করছে যে কেউ কখনো তাদের ইবাদত করেছিল। সেদিন আল্লাহকে বাদ দিয়ে মানুষ যার উপরই ভর দিয়েছিল, সে সরে দাঁড়ায়। ১১:৪৩ আয়াত একটিমাত্র ব্যতিক্রমের নাম বলে: তাঁর রহমত। তা চাইতে হয় তাঁরই কাছে, যতক্ষণ চাওয়ার সুযোগ আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Night Laid Across the Face",
+          "bn": "মুখের উপর রাতের আস্তর"
+        },
+        "p": [
+          {
+            "en": "Ka-annama ughshiyat wujuhuhum qita'an mina-l-layli muzlima: as if their faces had been covered with pieces of the night, dark. Ibn Kathir reads it as a report of the blackness of their faces in the Hereafter, and pairs it with 3:106, the Day when some faces turn white and some turn black, and with 80:40 and 80:41, faces with dust upon them, darkness covering them. That last verse says tarhaquha qatara, the very words 10:26 denied to the doers of good. The Muyassar: as if their faces were clothed in portions of the blackness of the dark night.",
+            "bn": "কাআন্নামা উগশিয়াত উজূহুহুম কিতাআম মিনাল লাইলি মুযলিমা: যেন তাদের মুখ ঢেকে দেওয়া হয়েছে রাতের টুকরো দিয়ে, ঘোর অন্ধকার। ইবন কাসীর একে পড়েন আখিরাতে তাদের মুখ কালো হয়ে যাওয়ার খবর হিসেবে। সঙ্গে রাখেন ৩:১০৬ আয়াত, যেদিন কিছু মুখ সাদা হবে আর কিছু মুখ কালো। আর রাখেন ৮০:৪০ ও ৮০:৪১ আয়াত, যেখানে কিছু মুখে ধুলো জমবে, কালিমা তাদের ঢেকে ফেলবে। শেষ আয়াতটিতে আছে তারহাকুহা কাতারাহ, ঠিক সেই শব্দগুলো, যা ১০:২৬ আয়াত সৎকর্মশীলদের মুখ থেকে সরিয়ে রেখেছে। মুয়াসসারের ভাষায়: যেন তাদের মুখকে পরিয়ে দেওয়া হয়েছে অন্ধকার রাতের কালো অংশগুলো।"
+          },
+          {
+            "en": "At-Tabari takes qita' as the plural of qit'a, a piece: each one's face is covered by a piece of the night's blackness, and the word is plural because the faces are many. Qatada, in at-Tabari's report, says simply: a darkness from the night. Then a reading difference. Al-Qurtubi and al-Baghawi record that the reader Ibn Kathir and al-Kisa'i, with Ya'qub added by al-Baghawi, read qit'an, a portion of the night, as in 11:81. At-Tabari ascribes that reading to some later readers and holds that only qita' may be followed, since the readers of the cities agreed on it.",
+            "bn": "তাবারী কিতা'কে ধরেন কিত'আহ শব্দের বহুবচন হিসেবে, যার মানে টুকরো। প্রত্যেকের মুখ ঢাকা পড়বে রাতের কালোর একেকটা টুকরোয়। মুখ অনেক, তাই শব্দটাও বহুবচন। তাঁর বর্ণনায় কাতাদা শুধু বলেন: রাতের এক অন্ধকার। এরপর আসে কিরাআতের একটা পার্থক্য। কুরতুবী ও বাগাভী জানান, কারী ইবন কাসীর ও কিসাঈ পড়েছেন কিত'আন, অর্থাৎ রাতের একটা অংশ, যেমন ১১:৮১ আয়াতে আছে। বাগাভী এ দুজনের সঙ্গে ইয়া'কূবের নামও যোগ করেন। তাবারী এই পাঠকে কিছু পরবর্তী কারীর পাঠ বলে উল্লেখ করেন। তাঁর মতে অনুসরণযোগ্য একমাত্র পাঠ কিতা', কারণ বড় বড় নগরের কারীরা এতে একমত।"
+          },
+          {
+            "en": "One more detail answers a careful reader's puzzle. Muzliman is masculine and singular, though qita' is plural. Al-Baghawi explains that it is a circumstantial word, not an adjective, which is why it is not muzlima: pieces of the night in the state of its darkness. At-Tabari gives the same analysis as his preferred one, noting that the Basrans call such a word hal and the Kufans qat'. The darkness, then, belongs to the night itself, and it is the night that is laid upon the face.",
+            "bn": "একটা খুঁটিনাটি মনোযোগী পাঠকের খটকা দূর করে। কিতা' বহুবচন, অথচ মুযলিমান পুংলিঙ্গ ও একবচন। বাগাভী বলেন, শব্দটি অবস্থাবাচক, বিশেষণ নয়। সে কারণেই 'মুযলিমাহ' বলা হয়নি। অর্থ দাঁড়ায়: রাতের টুকরো, যখন রাত অন্ধকারে ডুবে আছে। তাবারীও এই বিশ্লেষণকেই বেশি ভালো বলে ধরেন, আর জানান, এমন শব্দকে বসরার আলেমরা বলেন 'হাল', কুফার আলেমরা বলেন 'কাত'। তাহলে অন্ধকারটা রাতেরই নিজের। আর মুখের উপর বিছিয়ে দেওয়া হয় সেই রাতটাকেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Verdict on Anyone",
+          "bn": "কারও বিরুদ্ধে রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the state of the people of the Fire on the Day of Judgement, a darkness Ibn Kathir places in the Hereafter and as-Sa'di reads as humiliation made visible. It says nothing about the colour of anyone's skin in this world, and it licenses nothing against any living person or community. No reader may look at a neighbour and assign him a face from this verse. Who ends among these people is Allah's judgement on that Day, and not ours.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত ঠিক ততটুকুই বর্ণনা করে, যতটুকু তার শব্দে আছে: কিয়ামতের দিন জাহান্নামবাসীদের অবস্থা। ইবন কাসীর এই অন্ধকারকে রাখেন আখিরাতে, আর সা'দী একে পড়েন ভেতরের অপমানের দৃশ্যমান রূপ হিসেবে। দুনিয়ায় কারও গায়ের রং নিয়ে আয়াত কিছুই বলে না। আর আজ বেঁচে থাকা কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কোনো কিছুরই অনুমতি দেয় না। প্রতিবেশীর দিকে তাকিয়ে এ আয়াতের কোনো চেহারা তার গায়ে সেঁটে দেওয়ার অধিকার কোনো পাঠকের নেই। কে শেষে এদের দলে পড়বে, সে ফয়সালা সেদিন আল্লাহর, আমাদের নয়।"
+          },
+          {
+            "en": "What the verse leaves its reader is a scale and a choice. The scale is generous one way and exact the other, so a small evil is not nothing, and a small good is never small. The choice is still open. At-Tabari places the earning in the world, which means it is happening now, in this week's deeds. Ask Allah for a face of the kind 10:26 describes, untouched by gloom or humiliation, and turn back today from whatever you would not want written down, even as one.",
+            "bn": "আয়াত পাঠকের হাতে রেখে যায় একটা পাল্লা আর একটা বাছাই। পাল্লাটা এক দিকে উদার, অন্য দিকে নিখুঁত। তাই ছোট মন্দও শূন্য নয়, আর ছোট নেকিও কখনো ছোট থাকে না। বাছাইয়ের সুযোগ এখনো খোলা। তাবারী কামাইটাকে রাখেন দুনিয়ায়। তার মানে কামাই চলছে এখনই, এ সপ্তাহের আমলেই। আল্লাহর কাছে চান ১০:২৬ আয়াতের মতো একটা মুখ, যাকে কোনো মলিনতা বা অপমান ছুঁতে পারবে না। আর যা একটি গুনাহ হিসেবেও লেখা হোক তা আপনি চান না, আজই তা থেকে ফিরে আসুন।"
+          }
+        ]
+      }
+    ]
+  },
   "10:28": {
     "sections": [
       {

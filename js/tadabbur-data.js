@@ -32423,6 +32423,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not make a home of a road. Keep the meeting with Allah in view, stop at His signs, and watch what you earn, for the final refuge is built from it.",
     "lessonBn": "পথকে ঘর বানাবেন না। আল্লাহর সাক্ষাতের কথা চোখের সামনে রাখুন, তাঁর নিদর্শনে থামুন, আর কী উপার্জন করছেন সেদিকে খেয়াল রাখুন, কারণ শেষ ঠিকানা তা দিয়েই গড়া হয়।"
+  },
+  "10:27": {
+    "reflectionEn": "The verse before this one promised the people of good more than they earned. This one turns to those who earned evil, and the scale changes: an evil deed is repaid with its like, and nothing is added. Even while describing the Fire, the verse takes care to say no one is overcharged. Then it shows a face. Humiliation settles over it, no one stands between it and Allah, and it looks as if pieces of the dark night had been laid across it. That same face could have been one of those in the verse before, untouched by shadow. What I earn is what I carry home. Today the door is still open, and the One who repays evil only with its like repays good many times over.",
+    "reflectionBn": "আগের আয়াত সৎকর্মশীলদের প্রাপ্যের চেয়েও বেশি দেওয়ার কথা দিয়েছে। এ আয়াত ফেরে তাদের দিকে, যারা মন্দ কামাই করেছে, আর এখানে এসে হিসাবের ধরন বদলে যায়। মন্দের প্রতিদান ঠিক তার সমান, এক বিন্দুও বাড়তি নয়। জাহান্নামের কথা বলতে গিয়েও আয়াতটি জানিয়ে রাখে, কারও ঘাড়ে বেশি চাপানো হবে না। তারপর সে একটা চেহারা দেখায়। অপমান তাকে ঢেকে ফেলেছে, আল্লাহর পাকড়াও থেকে তাকে আড়াল করার কেউ নেই, আর মনে হয় যেন আঁধার রাতের টুকরো এনে তার মুখে বিছিয়ে দেওয়া হয়েছে। অথচ এই মুখটাই হতে পারত আগের আয়াতের সেই মুখ, যাতে কোনো কালিমা পড়বে না। যা কামাই করি, তা-ই নিয়ে ঘরে ফিরি। দরজা আজও খোলা। যিনি মন্দের বদলা দেন শুধু তার সমান, তিনিই ভালোর বদলা দেন বহু গুণ।",
+    "pointsEn": [
+      "If my deeds this week were the only thing I could carry home, what would I be carrying?",
+      "Do I treat small wrongs as weightless because the scale is just, forgetting that even their exact like must still be paid?",
+      "Whom or what am I quietly counting on to stand between me and Allah, and will they stand there on that Day?",
+      "When I picture the faces of that Day, do I look first at my own, or at other people's?",
+      "Which wrong could I turn back from today with tawbah, while turning back is still possible?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহের আমলই যদি ঘরে নিয়ে ফেরার একমাত্র সম্বল হয়, তাহলে আমার হাতে কী থাকবে?",
+      "পাল্লা ন্যায্য বলে কি ছোট ছোট অন্যায়কে আমি ওজনহীন ভাবি? ভুলে যাই যে ঠিক সমান বদলা হলেও তা চুকাতেই হবে?",
+      "আল্লাহ আর আমার মাঝখানে কেউ দাঁড়িয়ে যাবে, এমন ভরসা মনে মনে কার উপর রাখি? সেদিন কি সে সত্যিই দাঁড়াবে?",
+      "সেদিনের চেহারাগুলোর কথা ভাবলে আমি আগে কার মুখের দিকে তাকাই, নিজের, নাকি অন্যের?",
+      "কোন অন্যায় থেকে আজই তওবা করে ফিরে আসতে পারি, যতক্ষণ ফেরার সুযোগ আছে?"
+    ],
+    "lessonEn": "Allah repays evil only with its like and good many times over. Earn good while you can, for on that Day no one will shield you from Him.",
+    "lessonBn": "আল্লাহ মন্দের বদলা দেন কেবল তার সমান, আর ভালোর বদলা বহু গুণ। সময় থাকতে নেকি কামাই করুন, কারণ সেদিন তাঁর পাকড়াও থেকে কেউ আপনাকে আড়াল করতে পারবে না।"
   }
 };
 
