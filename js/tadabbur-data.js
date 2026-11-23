@@ -31763,6 +31763,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Name the Lord you mean so plainly that no false lord can claim it, and do not wait for anyone's permission to follow a truth you have already seen.",
     "lessonBn": "যে রবকে মানেন, তাঁর নাম এত স্পষ্ট করে নিন যে কোনো মিথ্যা রব তাতে ভাগ বসাতে না পারে। আর যে সত্য একবার দেখে ফেলেছেন, তা মানতে কারও অনুমতির অপেক্ষা করবেন না।"
+  },
+  "7:89": {
+    "reflectionEn": "The chiefs of Madyan gave Shu'ayb (AS) and the believers a choice: leave our town, or come back into our religion. His answer does not bargain. To enter it after Allah had saved them from it would be to invent a lie against Allah, and that is not for us, he says. Then, at the height of his certainty, he adds: unless Allah, our Lord, wills. That is not doubt. It is a man who knows that firmness is given, and is kept only by the One who gave it. So he leans on Allah and asks Him to judge between them in truth. Pressure to go back comes to everyone in some form. Do I meet it trusting myself, or trusting Him?",
+    "reflectionBn": "মাদইয়ানের সর্দাররা শু‘আয়ব (আঃ) আর মুমিনদের সামনে দুটো পথ রাখল: হয় আমাদের জনপদ ছাড়ো, নয়তো আমাদের ধর্মে চলে এসো। তাঁর জবাবে কোনো দর-কষাকষি নেই। আল্লাহ যা থেকে বাঁচিয়েছেন, তাতে ঢুকলে আল্লাহর নামে মিথ্যা রচনা করা হবে। এ আমাদের কাজ নয়, তিনি বলেন। তারপর দৃঢ়তার একেবারে চূড়ায় দাঁড়িয়ে যোগ করেন: তবে আমাদের রব আল্লাহ যদি চান। এ সংশয় নয়। এ এমন মানুষের কথা, যিনি জানেন অবিচলতা দান করা জিনিস, আর যিনি দিয়েছেন কেবল তিনিই তা ধরে রাখেন। তাই তিনি আল্লাহর উপর ভরসা করেন আর তাঁকে বলেন, আমাদের ও তাদের মাঝে সত্যের সঙ্গে ফয়সালা করে দিন। পিছনে ফেরার চাপ কোনো না কোনো রূপে সবার কাছেই আসে। আমি সেই চাপের সামনে দাঁড়াই নিজের উপর ভরসা করে, নাকি তাঁর উপর?",
+    "pointsEn": [
+      "Where in my life am I being offered a choice between belonging and holding to what I know is true?",
+      "When I say I will never go back to an old sin, am I saying it leaning on myself or on Allah?",
+      "Do I ask Allah to keep my heart firm as often as I ask Him for other things?",
+      "When I ask Allah to judge between me and someone else, am I asking for the truth, or only for my own win?",
+      "Which threat that I cannot control could I hand over to Allah this week, the way he did?"
+    ],
+    "pointsBn": [
+      "জীবনের কোথায় আমাকে বলা হচ্ছে, হয় দলে থাকো, নয়তো যে সত্য জানো তা আঁকড়ে ধরো?",
+      "পুরোনো কোনো গুনাহে আর কখনো ফিরব না, এ কথা বলার সময় আমি কি নিজের উপর ভর দিই, নাকি আল্লাহর উপর?",
+      "অন্য সব কিছুর জন্য যত বার দু‘আ করি, অন্তর অবিচল রাখার জন্য কি তত বার আল্লাহর কাছে চাই?",
+      "কারও সঙ্গে বিবাদে আল্লাহর কাছে ফয়সালা চাইলে আমি কি সত্যটা চাই, নাকি শুধু নিজের জিত?",
+      "যে হুমকি আমার হাতে নেই, তার কোনটি এ সপ্তাহে আমি তাঁর মতো করে আল্লাহর হাতে সঁপে দিতে পারি?"
+    ],
+    "lessonEn": "Refuse plainly to go back to what Allah has saved you from, and say it leaning on His will, not your own strength; firmness is His to keep.",
+    "lessonBn": "আল্লাহ যা থেকে বাঁচিয়েছেন সেদিকে ফিরে যেতে স্পষ্ট ভাষায় অস্বীকার করুন, আর তা বলুন নিজের জোরে নয়, তাঁর ইচ্ছার উপর ভর দিয়ে। অবিচলতা ধরে রাখা তাঁরই হাতে।"
   }
 };
 

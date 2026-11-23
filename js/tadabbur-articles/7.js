@@ -5211,6 +5211,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:89": {
+    "sections": [
+      {
+        "h": {
+          "en": "His Answer to the Ultimatum",
+          "bn": "সর্দারদের শর্তের জবাব"
+        },
+        "p": [
+          {
+            "en": "Qad iftarayna 'ala Allahi kadhiban: we would have invented a lie against Allah. The sentence answers a threat. In 7:88 the arrogant chiefs of Shu'ayb's (AS) people swore to drive him and those who believed with him out of their town, unless they came into the chiefs' religion. His first reply was a question: even if we are unwilling? At-Tabari reads 7:89 as the rest of that reply, spoken when they called him to their religion and threatened to expel him and his followers if they refused.",
+            "bn": "কাদিফতারাইনা ‘আলাল্লাহি কাযিবা: তাহলে তো আমরা আল্লাহর নামে মিথ্যা রচনা করলাম। বাক্যটি একটি হুমকির জবাব। ৭:৮৮ আয়াতে শু‘আয়ব (আঃ)-এর জাতির অহংকারী সর্দাররা কসম খেয়ে বলেছিল, তাঁকে আর তাঁর সঙ্গে যারা ঈমান এনেছে তাদের জনপদ থেকে বের করে দেবেই, যদি না তারা সর্দারদের ধর্মে চলে আসে। তাঁর প্রথম জবাব ছিল একটা প্রশ্ন: আমরা অনিচ্ছুক হলেও? তাবারী ৭:৮৯ আয়াতকে সেই জবাবেরই বাকি অংশ হিসেবে পড়েন। তারা তাঁকে নিজেদের ধর্মে ডাকছিল, আর রাজি না হলে তাঁকে ও তাঁর অনুসারীদের তাড়িয়ে দেওয়ার ভয় দেখাচ্ছিল। তখনই তিনি এ কথাগুলো বলেন।"
+          },
+          {
+            "en": "The verse is forty-two words in Arabic and moves in five steps: a refusal, an exception that hands the matter to Allah's will, a statement of His knowledge, a declaration of reliance, and a prayer. After it the chiefs turn to their own people in 7:90 and warn that whoever follows Shu'ayb (AS) will be among the losers, and in 7:91 the quake takes them.",
+            "bn": "আরবিতে আয়াতটি বিয়াল্লিশ শব্দের, আর এগোয় পাঁচ ধাপে। প্রথমে অস্বীকার। তারপর এক ব্যতিক্রম, যা বিষয়টি আল্লাহর ইচ্ছার হাতে সঁপে দেয়। তারপর তাঁর জ্ঞানের কথা, ভরসার ঘোষণা, আর শেষে দু‘আ। এর পরে ৭:৯০ আয়াতে সর্দাররা নিজেদের লোকদের দিকে ফিরে সাবধান করে, যে শু‘আয়ব (আঃ)-কে মানবে সে ক্ষতিগ্রস্ত হবে। ৭:৯১ আয়াতে ভূমিকম্প তাদের পাকড়াও করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Word Return",
+          "bn": "‘ফিরে যাওয়া’ শব্দটি কেন"
+        },
+        "p": [
+          {
+            "en": "The chiefs said la-ta'udunna, you will return, and Shu'ayb (AS) answers in the same verb: in 'udna, if we returned. Al-Baghawi raises the difficulty himself. What does return mean here, he asks, when Shu'ayb was never at any time on their religion, so that it could rightly be said he would go back to it? He gives three answers. In the first, the sense is simply enter: you will enter our religion, and he replied, it is not for us to enter it. In the second, 'ada means sara, to become: if we became part of your religion.",
+            "bn": "সর্দাররা বলেছিল লাতা‘উদুন্না, তোমরা অবশ্যই ফিরে আসবে। শু‘আয়ব (আঃ) জবাব দেন একই ক্রিয়ায়: ইন ‘উদনা, আমরা যদি ফিরে যাই। প্রশ্নটা বাগাভী নিজেই তোলেন। শু‘আয়ব তো কখনো তাদের ধর্মে ছিলেনই না, তাহলে তিনি সেখানে ফিরে যাবেন, এ কথা বলা চলে কী করে? তিনি তিনটি উত্তর দেন। প্রথম উত্তরে ‘ফেরা’ মানে স্রেফ ঢোকা। সর্দারদের কথার অর্থ, তোমরা আমাদের ধর্মে ঢুকবে, আর তিনি বলেছিলেন, তাতে ঢোকা আমাদের কাজ নয়। দ্বিতীয় উত্তরে ‘আদা মানে সারা, অর্থাৎ হয়ে যাওয়া: আমরা যদি তোমাদের ধর্মের লোক হয়ে যাই।"
+          },
+          {
+            "en": "In al-Baghawi's third answer the word belongs to Shu'ayb's people: they had been disbelievers and then believed, and Shu'ayb answered on their behalf. Ibn Kathir, in the abridged English that treats 7:88 and 7:89 together, makes a related point about the threat: the chiefs spoke the words to the Messenger but intended them for those who followed his religion too. At-Tabari's paraphrase pairs the two verbs, saying the people called Shu'ayb to al-'awd ila millatihim wa-d-dukhul fiha, returning to their religion and entering it.",
+            "bn": "বাগাভীর তৃতীয় উত্তরে শব্দটি শু‘আয়বের অনুসারীদের বেলায় খাটে। তারা কাফির ছিল, তারপর ঈমান এনেছিল, আর শু‘আয়ব তাদের পক্ষ থেকে জবাব দিয়েছিলেন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৭:৮৮ ও ৭:৮৯ একসঙ্গে আলোচনা করে, আর হুমকিটি নিয়ে কাছাকাছি একটা কথা বলে। সর্দাররা কথাটা বলেছিল রাসূলকে, কিন্তু উদ্দেশ্য ছিল তাঁর ধর্মের অনুসারীরাও। তাবারী নিজের ব্যাখ্যায় দুটি ক্রিয়া পাশাপাশি রাখেন। লোকেরা শু‘আয়বকে ডেকেছিল আল-‘আওদু ইলা মিল্লাতিহিম ওয়াদ-দুখূলু ফীহা, অর্থাৎ তাদের ধর্মে ফেরা আর তাতে ঢোকার দিকে।"
+          },
+          {
+            "en": "None of these readings places Shu'ayb (AS) inside the chiefs' religion at any time. The word is answered either as enter and become, or as the voice of a community whose members had come out of disbelief. The same holds for the clause after Allah saved us from it. At-Tabari explains the saving as Allah having shown them that religion's error and the rightness of the guidance they now held. As-Sa'di has Allah rescuing them from its evil.",
+            "bn": "এর কোনো ব্যাখ্যাই শু‘আয়ব (আঃ)-কে কোনো সময় সর্দারদের ধর্মের ভেতরে রাখে না। ‘ফেরা’ শব্দের অর্থ হয় ঢোকা বা হয়ে যাওয়া, নয়তো এটি এমন এক দলের কণ্ঠ, যার সদস্যরা কুফর থেকে বেরিয়ে এসেছে। ‘আল্লাহ আমাদের তা থেকে বাঁচানোর পর’ কথাটির বেলায়ও একই কথা। তাবারী এই বাঁচানোর ব্যাখ্যা দেন এভাবে: আল্লাহ তাদের দেখিয়ে দিয়েছেন ঐ ধর্মের ভুল, আর তারা এখন যে হিদায়াতের উপর আছে তার সঠিকতা। সাদীর ভাষায় আল্লাহ তাদের রক্ষা করেছেন তার অনিষ্ট থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Lie Laid on Allah",
+          "bn": "আল্লাহর নামে বানানো মিথ্যা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses iftarayna as fabricated: we would have made up a lie against Allah and spoken falsehood about Him by guesswork. Al-Qurtubi calls the sentence iyas, a cutting-off of their hope that he would come into their religion. As-Sa'di hears in it a call to witness: bear witness against us that if we do it, we are liars inventing falsehood against Allah. For, he says, there is no greater fabrication than making a partner for Allah.",
+            "bn": "তাবারী ইফতারাইনা শব্দের অর্থ করেন বানিয়ে বলা: আমরা আল্লাহর নামে মিথ্যা রচনা করলাম, অনুমানের উপর ভর করে তাঁর সম্পর্কে বাতিল কথা বললাম। কুরতুবী বাক্যটিকে বলেন ইয়াস, অর্থাৎ তিনি তাদের ধর্মে আসবেন, সেই আশা একেবারে কেটে দেওয়া। সাদী এর মধ্যে সাক্ষী রাখার ডাক শোনেন: তোমরা সাক্ষী থাকো, আমরা যদি এমন করি, তবে আমরা মিথ্যাবাদী, আল্লাহর নামে মিথ্যা রচনাকারী। কারণ, তিনি বলেন, আল্লাহর শরিক বানানোর চেয়ে বড় মিথ্যা রচনা আর নেই।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an finds two layers in the lie. To give disbelief and shirk the status of a religion already implies that Allah commanded them, which is a lie against Him. And to go over to them after faith and knowledge would amount to saying the first way was false and the later way true, a compounded lie in which truth is taken for falsehood and falsehood for truth. As-Sa'di counts the ways Shu'ayb (AS) closed the door: they hated that religion, he named it a lie, they owned Allah's favour in rescuing them, and in their present state going back was impossible.",
+            "bn": "মাআরিফুল কুরআন এই মিথ্যার মধ্যে দুটি স্তর দেখে। কুফর আর শিরককে ধর্মের মর্যাদা দেওয়া মানেই দাবি করা যে আল্লাহ এর হুকুম দিয়েছেন, আর এটাই তাঁর নামে মিথ্যা। তার উপর ঈমান আর জ্ঞান পাওয়ার পর সেদিকে চলে যাওয়া মানে বলা, আগের পথ ভুল ছিল আর পরেরটা ঠিক। এ যেন জোড়া মিথ্যা: হককে বাতিল আর বাতিলকে হক ধরা। সাদী গুনে দেখান, শু‘আয়ব (আঃ) কত দিক থেকে দরজা বন্ধ করেছিলেন। তারা ঐ ধর্মকে ঘৃণা করত। তিনি তাকে মিথ্যা বলে ঘোষণা করলেন। আল্লাহ যে তাদের উদ্ধার করেছেন, সেই অনুগ্রহ তারা স্বীকার করল। আর তাদের বর্তমান অবস্থায় সেদিকে যাওয়া ছিল অসম্ভব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Exception, Not a Doubt",
+          "bn": "ব্যতিক্রম, সংশয় নয়"
+        },
+        "p": [
+          {
+            "en": "Then comes wa ma yakunu lana an na'uda fiha illa an yasha'a Allahu rabbuna: it is not for us to go back into it, unless Allah, our Lord, wills. At-Tabari reads the exception through knowledge and decree: unless it had already preceded in Allah's knowledge that we would, and then His decree would pass upon us. Since nothing past or to come is hidden from Him, whatever has preceded in His knowledge must be; otherwise, he has Shu'ayb (AS) say, we are not going back into your religion. Al-Baghawi gives nearly the same gloss.",
+            "bn": "তারপর আসে ওয়ামা ইয়াকূনু লানা আন না‘ঊদা ফীহা ইল্লা আঁই ইয়াশা আল্লাহু রব্বুনা: তাতে ফিরে যাওয়া আমাদের কাজ নয়, তবে আমাদের রব আল্লাহ যদি চান। তাবারী ব্যতিক্রমটি পড়েন আল্লাহর জ্ঞান আর ফয়সালার আলোয়। অর্থাৎ, যদি আল্লাহর জ্ঞানে আগেই লেখা থাকে যে আমরা তা করব, তবে তখন তাঁর ফয়সালা আমাদের উপর কার্যকর হবে। অতীত বা ভবিষ্যতের কিছুই যেহেতু তাঁর কাছে গোপন নয়, তাঁর জ্ঞানে যা আগে থেকে আছে তা ঘটবেই। নইলে, তাবারীর ভাষ্যে শু‘আয়ব (আঃ) বলছেন, আমরা তোমাদের ধর্মে যাচ্ছি না। বাগাভীর ব্যাখ্যাও প্রায় হুবহু এক।"
+          },
+          {
+            "en": "As-Suddi, in a report at-Tabari carries, frames it differently: Allah does not will shirk; rather the sense is, unless Allah has known something, for He encompasses all things in knowledge. Al-Qurtubi quotes az-Zajjaj the other way: except by Allah's will, so that no going back into disbelief happens from us unless Allah wills it. On that reading, al-Qurtubi says, the exception is munqati', cut off from what precedes it. The commentators who carry the two framings leave them side by side.",
+            "bn": "তাবারী সুদ্দীর যে বর্ণনা আনেন, তাতে কথাটা অন্যভাবে বলা: আল্লাহ শিরক চান না। বরং অর্থ হলো, যদি না আল্লাহ কিছু জেনে থাকেন, কারণ তাঁর জ্ঞান সবকিছু ঘিরে আছে। কুরতুবী যাজ্জাজের যে উক্তি আনেন, তা অন্য দিক থেকে: আল্লাহর ইচ্ছা ছাড়া নয়, অর্থাৎ আল্লাহ না চাইলে আমাদের দ্বারা কুফরে ফেরা ঘটবে না। কুরতুবী বলেন, এ পাঠে ব্যতিক্রমটি মুনকাতি‘, আগের কথার সঙ্গে বিচ্ছিন্ন। যাঁরা এ দুই ভাষ্য বর্ণনা করেছেন, তাঁরা দুটিকেই পাশাপাশি রেখে দিয়েছেন।"
+          },
+          {
+            "en": "Al-Qurtubi records more readings. In one, the exception is taslim, surrender to Allah, as when Shu'ayb (AS) says in 11:88 that his success is only through Allah; the proof, he says, is what follows: our Lord encompasses all things in knowledge, upon Allah we have relied. In another, it is like saying I will not speak to you until the crow turns white, or until the camel passes through the needle's eye, things that never happen.",
+            "bn": "কুরতুবী আরও কয়েকটি পাঠ উল্লেখ করেন। একটিতে ব্যতিক্রমটি তাসলীম, আল্লাহর কাছে আত্মসমর্পণ, যেমন ১১:৮৮ আয়াতে শু‘আয়ব (আঃ) বলেন, আমার তাওফীক কেবল আল্লাহরই দেওয়া। প্রমাণ হিসেবে কুরতুবী দেখান পরের কথাগুলো: আমাদের রবের জ্ঞান সবকিছু ঘিরে আছে, আল্লাহর উপরই আমরা ভরসা করেছি। আরেকটিতে এটা এমন কথা, যেমন কেউ বলে, কাক সাদা না হওয়া পর্যন্ত বা উট সুঁইয়ের ছিদ্রে না ঢোকা পর্যন্ত তোমার সঙ্গে কথা বলব না। এগুলো কখনো ঘটে না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an and as-Sa'di both read the exception as humility. Ma'arif hears a flavour of claim in saying we will never go back, which outwardly sits ill with a servant's selfless submission; so he added unless Allah wills, a mirror of humility, reliance and leaving matters to Allah. As-Sa'di says that, measured by their present state, going back was impossible, but measured by Allah's will, which no one escapes, they would not pronounce on themselves what they would do or leave. The sentence that says unless also opens with it is not for us.",
+            "bn": "মাআরিফুল কুরআন আর সাদী, দুজনেই ব্যতিক্রমটিকে বিনয় হিসেবে পড়েন। মাআরিফের মতে ‘আমরা কখনোই ফিরব না’ কথায় একটা দাবির সুর আছে, যা বাহ্যত বান্দার নিঃস্বার্থ আত্মসমর্পণের সঙ্গে খাপ খায় না। তাই তিনি যোগ করলেন, আল্লাহ যদি চান। এ কথা তাঁর অক্ষমতার স্বীকারোক্তি, তাওয়াক্কুল আর সবকিছু আল্লাহর হাতে সঁপে দেওয়ার আয়না। সাদী বলেন, তাদের বর্তমান অবস্থা দিয়ে মাপলে ফেরা ছিল অসম্ভব। কিন্তু আল্লাহর ইচ্ছা দিয়ে মাপলে, যা থেকে কেউ বের হতে পারে না, তারা নিজেদের ব্যাপারে আগাম রায় দেয়নি। যে বাক্যে ‘যদি না’ আছে, তা শুরুই হয়েছে ‘এ আমাদের কাজ নয়’ দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowledge Wide, Reliance Fixed",
+          "bn": "প্রশস্ত জ্ঞান, অটল ভরসা"
+        },
+        "p": [
+          {
+            "en": "Wasi'a rabbuna kulla shay'in 'ilma: our Lord has encompassed all things in knowledge. Al-Qurtubi glosses it as knowing what was and what will be, and notes that 'ilman is accusative as a specification. Ibn Kathir calls the whole passage a referral to Allah's will, for He knows everything and has encompassed all things in knowledge. The Muyassar and as-Sa'di both add that He knows what is good for His servants, and as-Sa'di speaks of a will that follows His knowledge and wisdom. Ibrahim (AS) says almost the same words to his arguing people in 6:80.",
+            "bn": "ওয়াসি‘আ রব্বুনা কুল্লা শাইয়িন ‘ইলমা: আমাদের রবের জ্ঞান সবকিছুকে ঘিরে রেখেছে। কুরতুবী এর অর্থ করেন, যা ছিল আর যা হবে, সবই তিনি জানেন। তিনি এ-ও জানান যে ‘ইলমান শব্দটি তাময়ীয হিসেবে মানসূব, অর্থাৎ কোন দিক থেকে ঘিরে আছে তা স্পষ্ট করে। ইবন কাসীর পুরো অংশটিকে বলেন আল্লাহর ইচ্ছার দিকে বিষয়টি ফিরিয়ে দেওয়া, কারণ তিনি সব জানেন, সবকিছুকে জ্ঞানে বেষ্টন করে আছেন। মুয়াসসার আর সাদী দুজনেই যোগ করেন, বান্দাদের জন্য কী কল্যাণকর তা তিনি জানেন। সাদী এমন এক ইচ্ছার কথা বলেন, যা তাঁর জ্ঞান আর হিকমতের অনুগামী। ৬:৮০ আয়াতে ইবরাহীম (আঃ) তর্করত জাতিকে প্রায় একই কথা বলেছিলেন।"
+          },
+          {
+            "en": "Then 'ala Allahi tawakkalna: upon Allah we have relied. At-Tabari makes it concrete: on Allah we lean in our affairs, and to Him we turn against the harm you threaten us with, for He suffices whoever relies on Him. Ibn Kathir widens it to all our affairs, what we take up and what we leave. As-Sa'di names the content of the trust: that Allah will keep them firm on the straight path and guard them from every road to Hell. The Muyassar renders it as on Allah alone is our reliance, for guidance and for help.",
+            "bn": "তারপর ‘আলাল্লাহি তাওয়াক্কালনা: আল্লাহর উপরই আমরা ভরসা করেছি। তাবারী কথাটিকে বাস্তব করে বলেন: আমাদের সব কাজে আমরা আল্লাহর উপর নির্ভর করি। তোমরা যে অনিষ্টের ভয় দেখাচ্ছ, তার মোকাবিলায় তাঁরই আশ্রয় নিই, কারণ যে তাঁর উপর ভরসা করে, তিনিই তার জন্য যথেষ্ট। ইবন কাসীর এর পরিসর বাড়িয়ে দেন আমাদের সব বিষয়ে, যা করি আর যা ছেড়ে দিই। সাদী ভরসার বিষয়বস্তুটা খুলে বলেন: আল্লাহ তাদের সিরাতুল মুস্তাকীমে অবিচল রাখবেন, আর জাহান্নামের প্রতিটি পথ থেকে রক্ষা করবেন। মুয়াসসারের ভাষায়: হিদায়াত আর সাহায্যের জন্য আমাদের ভরসা কেবল আল্লাহর উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Learned From a Woman",
+          "bn": "এক নারীর মুখে শেখা শব্দ"
+        },
+        "p": [
+          {
+            "en": "Rabbana iftah baynana wa bayna qawmina bil-haqq, wa anta khayru al-fatihin. The verb is from fath, opening, and the commentators read it as judgement. At-Tabari: judge between us and them with Your true judgement, in which there is no injustice and no wrong, only justice and truth; and best of the fatihin means best of judges. He adds that al-Farra' reported the people of Oman calling a judge al-fatih and al-fattah.",
+            "bn": "রব্বানাফতাহ বাইনানা ওয়া বাইনা কাওমিনা বিল-হাক্কি ওয়া আনতা খাইরুল ফাতিহীন। ক্রিয়াটি এসেছে ফাতহ থেকে, যার মূল অর্থ খোলা। কিন্তু তাফসীরকারেরা এখানে এর অর্থ করেন ফয়সালা। তাবারীর ভাষায়: আমাদের আর তাদের মাঝে আপনার সত্য ফয়সালা দিয়ে মীমাংসা করে দিন, যাতে কোনো জুলুম নেই, কোনো অন্যায় নেই, আছে শুধু ইনসাফ আর হক। আর খাইরুল ফাতিহীন মানে শ্রেষ্ঠ বিচারক। তিনি আরও জানান, ফাররা বলেছেন উমানের লোকেরা বিচারককে বলে আল-ফাতিহ ও আল-ফাত্তাহ।"
+          },
+          {
+            "en": "At-Tabari carries, through several chains from Qatada, a saying of Ibn Abbas: I did not know what Our Lord, iftah between us and our people in truth meant until I heard the daughter of Dhu Yazan say, come, let me take you to judgement, ufatihuka, meaning I will go to a judge with you. In another chain Ibn Abbas glosses it plainly as judge between us. Qatada and as-Suddi say the same, and al-Hasan al-Basri reads 48:1, inna fatahna laka, as We have judged for you a clear judgement.",
+            "bn": "তাবারী কাতাদার সূত্রে কয়েকটি সনদে ইবন আব্বাস (রাঃ)-এর একটি কথা আনেন: ‘রব্বানাফতাহ বাইনানা ওয়া বাইনা কাওমিনা বিল-হাক্ক’ কথার অর্থ আমি জানতাম না। শেষে যূ ইয়াযানের মেয়েকে বলতে শুনলাম, এসো, তোমাকে নিয়ে বিচারে যাই, উফাতিহুকা। অর্থাৎ তোমাকে নিয়ে বিচারকের কাছে যাব। আরেক সনদে ইবন আব্বাস (রাঃ) সোজাসুজি অর্থ করেন: আমাদের মাঝে ফয়সালা করে দিন। কাতাদা আর সুদ্দীও একই কথা বলেন। হাসান বসরী ৪৮:১ আয়াত, ইন্না ফাতাহনা লাকা, পড়েন এ অর্থে: আমি আপনার পক্ষে সুস্পষ্ট ফয়সালা দিয়েছি।"
+          },
+          {
+            "en": "The plea answers 7:87, where Shu'ayb (AS) told the town to be patient until Allah judges between us, and He is the best of judges, khayr al-hakimin; now he asks for that judgement with the other word. Ibn Kathir: separate between us and our people and give us victory over them, for You are the Just who never wrongs. As-Sa'di: help the wronged, the holder of the truth, against the wrongdoer who resists it. Allah's opening for His servants, he says, is of two kinds, and the first he names is the opening of knowledge: making truth distinct from falsehood and guidance from misguidance.",
+            "bn": "এ আবেদন ৭:৮৭ আয়াতের জবাবের মতো। সেখানে শু‘আয়ব (আঃ) জনপদকে বলেছিলেন, আল্লাহ আমাদের মাঝে ফয়সালা না করা পর্যন্ত ধৈর্য ধরো, তিনিই খাইরুল হাকিমীন, শ্রেষ্ঠ বিচারক। এখন তিনি অন্য শব্দে সেই ফয়সালাই চাইছেন। ইবন কাসীর বলেন: আমাদের আর আমাদের জাতির মাঝে পার্থক্য করে দিন, তাদের বিরুদ্ধে আমাদের সাহায্য করুন, কারণ আপনি ন্যায়পরায়ণ, কখনো জুলুম করেন না। সাদী বলেন: মাজলুমকে, হকের ধারককে, হকের বিরোধী জালিমের বিরুদ্ধে সাহায্য করুন। তাঁর মতে বান্দাদের জন্য আল্লাহর ফাতহ দুই প্রকার। প্রথম যেটির নাম তিনি নেন, তা জ্ঞানের ফাতহ: হক আর বাতিল, হিদায়াত আর গোমরাহি আলাদা করে দেখিয়ে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked After Long Patience",
+          "bn": "দীর্ঘ ধৈর্যের পরের দু‘আ"
+        },
+        "p": [
+          {
+            "en": "When was the prayer made? At-Tabari says Shu'ayb (AS) turned in alarm to his Lord, praying against his people, once he had despaired of their success, and he feared for himself and the believers with him. Al-Baghawi also places it after he despaired of them. Al-Qurtubi relays from Ibn Abbas that Shu'ayb was much given to salah, and when their persistence grew long he prayed against them, and Allah answered him with the quake told in 7:91.",
+            "bn": "দু‘আটি কখন করা হয়েছিল? তাবারী বলেন, শু‘আয়ব (আঃ) তখনই কাতর হয়ে রবের দিকে ফিরলেন, জাতির বিরুদ্ধে দু‘আ করলেন, যখন তাদের সফলতার আশা ছেড়ে দিয়েছিলেন। নিজের জন্য আর সঙ্গী মুমিনদের জন্য তিনি ভয় পাচ্ছিলেন। বাগাভীও দু‘আটিকে রাখেন তাদের ব্যাপারে নিরাশ হওয়ার পরে। কুরতুবী ইবন আব্বাস (রাঃ) থেকে জানান, শু‘আয়ব অনেক নামায পড়তেন। জাতির অবাধ্যতা যখন দীর্ঘ হলো, তিনি তাদের বিরুদ্ধে দু‘আ করলেন। আল্লাহ সাড়া দিলেন ৭:৯১ আয়াতে বর্ণিত ভূমিকম্প দিয়ে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse records a prophet's prayer about a people who threatened to drive believers from their homes or force them out of their faith, and the judgement he asked for was Allah's to give, not anyone's to carry out. The verse describes what it describes. It licenses nothing against any living person or community, and no reading of it places anyone alive today in the position of Madyan's chiefs.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি এমন এক জাতির ব্যাপারে একজন নবীর দু‘আর কথা বলে, যারা মুমিনদের ঘরছাড়া করার বা ঈমান থেকে জোর করে সরানোর হুমকি দিয়েছিল। তিনি যে ফয়সালা চেয়েছিলেন, তা দেওয়ার মালিক আল্লাহ, কারও হাতে তা কার্যকর করার ভার ছিল না। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। আর এর কোনো পাঠ আজকের কাউকে মাদইয়ানের সর্দারদের জায়গায় বসায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Firmness Held by Another Hand",
+          "bn": "অবিচলতা যাঁর হাতে"
+        },
+        "p": [
+          {
+            "en": "The same ultimatum meets other believers. In 14:13 those who disbelieved tell their messengers: we will drive you out of our land, or you will return to our religion. In 18:20 the young men of the cave fear being stoned or returned into their people's religion. No tafsir fetched for this verse attaches a sound hadith to it. One general narration, not attached to it, sits beside its exception. Al-Bukhari (6620) reports from al-Bara' ibn 'Azib that he saw the Prophet ﷺ on the day of al-Khandaq carrying earth with them.",
+            "bn": "একই শর্ত অন্য মুমিনদের সামনেও এসেছে। ১৪:১৩ আয়াতে কাফিররা তাদের রাসূলদের বলে: আমরা তোমাদের দেশ থেকে বের করে দেবই, নয়তো তোমরা আমাদের ধর্মে ফিরে আসবে। ১৮:২০ আয়াতে গুহার যুবকেরা ভয় পায়, ধরা পড়লে তাদের পাথর মেরে হত্যা করা হবে, নয়তো লোকেরা তাদের নিজেদের ধর্মে ফিরিয়ে নেবে। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, এর ব্যতিক্রমের পাশে রাখা যায়। বুখারী (৬৬২০) বারা ইবন আযিব (রাঃ) থেকে বর্ণনা করেন, খন্দকের দিন তিনি নবী ﷺ-কে তাঁদের সঙ্গে মাটি বইতে দেখেছেন।"
+          },
+          {
+            "en": "He was saying: \"By Allah, without Allah we would not have been guided, neither would we have fasted, nor would we have prayed. O Allah! Send down Sakina (calmness) upon us and make our feet firm when we meet (the enemy). The pagans have rebelled against us, but if they want to put us in affliction (i.e., fight us) we refuse (to flee).\" Shu'ayb's (AS) sentence holds the same two halves: it is not for us, and unless Allah wills. The refusal is real, and the strength behind it is borrowed. Upon Allah we have relied owns where it comes from.",
+            "bn": "তিনি বলছিলেন: “আল্লাহর কসম, আল্লাহ না হলে আমরা হিদায়াত পেতাম না, রোযা রাখতাম না, নামাযও পড়তাম না। হে আল্লাহ, আমাদের উপর সাকীনা (প্রশান্তি) নাযিল করুন, (শত্রুর) মুখোমুখি হলে আমাদের পা অবিচল রাখুন। মুশরিকরা আমাদের উপর বাড়াবাড়ি করেছে। তারা যদি ফিতনায় ফেলতে চায় (অর্থাৎ যুদ্ধ চাপাতে চায়), আমরা অস্বীকার করি (পালাতে)।” শু‘আয়ব (আঃ)-এর বাক্যেও একই দুই অংশ: এ আমাদের কাজ নয়, আর তবে আল্লাহ যদি চান। অস্বীকারটা খাঁটি, কিন্তু তার পেছনের শক্তি ধার করা। ‘আল্লাহর উপরই আমরা ভরসা করেছি’ কথাটিতে সেই ধারের স্বীকৃতি।"
+          }
+        ]
+      }
+    ]
+  },
   "7:91": {
     "sections": [
       {
