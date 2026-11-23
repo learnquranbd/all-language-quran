@@ -31703,6 +31703,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every rain on dead ground is a rehearsal of the resurrection; let each one bring your Lord's mercy and your own return to mind.",
     "lessonBn": "মরা মাটিতে নামা প্রতিটি বৃষ্টি পুনরুত্থানের এক মহড়া। প্রতিবার তা যেন আপনাকে রবের রহমত আর নিজের ফিরে যাওয়ার কথা মনে করিয়ে দেয়।"
+  },
+  "7:77": {
+    "reflectionEn": "The argument had run its course. The believers said what they believed, the proud said they rejected it, and the next thing in the story is not a word but a cut. They hamstrung the camel they had been told to leave alone, they turned their backs on their Lord's command, and then they dared their prophet to bring the punishment he had warned of. Other verses say one man went forth to do it, yet this verse lays the act on all of them, as if approval were a hand on the blade. And the demand was no question; it was mockery dressed as a test. When I lose an argument, what do I reach for? And whose wrong have I quietly agreed with?",
+    "reflectionBn": "তর্ক ফুরিয়ে গিয়েছিল। মুমিনরা নিজেদের বিশ্বাসের কথা বলেছে, অহংকারীরা জানিয়ে দিয়েছে তারা তা মানে না। এরপর কাহিনিতে যা আসে তা কোনো কথা নয়, একটা আঘাত। যে উটনীকে ছেড়ে দিতে বলা হয়েছিল, তারা তার পায়ের রগ কেটে দিল। রবের আদেশের দিকে পিঠ ফিরিয়ে দাঁড়াল। তারপর নবীকে চ্যালেঞ্জ করল, যে আযাবের ভয় দেখাও, নিয়ে এসো। অন্য আয়াত বলে, কাজটা করতে একজন লোক এগিয়ে গিয়েছিল। অথচ এ আয়াত দায়টা চাপায় সবার উপর, যেন সম্মতিও ছুরির হাতলে রাখা একটা হাত। আর ওই দাবি কোনো প্রশ্ন ছিল না, ছিল পরীক্ষার পোশাক পরা ঠাট্টা। তর্কে হেরে গেলে আমি কী হাতে তুলে নিই? আর অন্যের কোন অন্যায়ে আমি চুপচাপ সায় দিয়ে রেখেছি?",
+    "pointsEn": [
+      "When someone else does a wrong that I approve of, do I tell myself my own hands are clean?",
+      "When I run out of answers to a reminder, what do I reach for instead: reflection, mockery, or force?",
+      "Which clear instruction from Allah do I treat as negotiable, only because nothing has happened to me yet?",
+      "Have I ever said 'prove it' to a warning, not because I wanted the proof but because I wanted the warning to go away?",
+      "In a gathering where something wrong is being planned, what does my silence say on my behalf?"
+    ],
+    "pointsBn": [
+      "অন্য কেউ এমন অন্যায় করলে যাতে আমার সায় আছে, আমি কি নিজেকে বোঝাই যে আমার হাত তো পরিষ্কার?",
+      "কোনো নসিহতের জবাব যখন আর খুঁজে পাই না, তখন কী আঁকড়ে ধরি: ভাবনা, ঠাট্টা, নাকি জোর?",
+      "আল্লাহর কোন স্পষ্ট নির্দেশকে আমি দর-কষাকষির বিষয় বানিয়ে রেখেছি, শুধু এ কারণে যে এখনো আমার কিছু হয়নি?",
+      "কোনো সতর্কবাণীর জবাবে কি কখনো বলেছি 'প্রমাণ দাও', প্রমাণ চাই বলে নয়, বরং সতর্কবাণীটা সরে যাক বলে?",
+      "যে মজলিসে কোনো অন্যায়ের পরিকল্পনা চলছে, সেখানে আমার নীরবতা আমার হয়ে কী বলে দেয়?"
+    ],
+    "lessonEn": "Approving a wrong makes you a partner in it, and mocking a warning does nothing to delay what it warns of.",
+    "lessonBn": "অন্যায়ে সায় দেওয়া মানে তাতে শরিক হওয়া, আর সতর্কবাণী নিয়ে ঠাট্টা করলে যার ভয় দেখানো হয়েছে তা একটুও পিছিয়ে যায় না।"
   }
 };
 

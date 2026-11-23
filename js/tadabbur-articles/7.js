@@ -4479,6 +4479,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:77": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Words to the Blade",
+          "bn": "কথা ফুরোলে তরবারি"
+        },
+        "p": [
+          {
+            "en": "Fa-'aqaru an-naqata: so they hamstrung the she-camel. The verse opens with fa, the particle of sequence, and what it joins is worth noticing. The two verses before it are a conversation. In 7:75 the arrogant chiefs ask the weak who believed whether they really know that Salih (AS) is sent from his Lord, and the believers answer that they believe in what he was sent with. In 7:76 the chiefs reply that they disbelieve in it. There the talking stops. The next thing reported is not a counter-argument but an injury.",
+            "bn": "ফাআকারুন নাকাহ: অতঃপর তারা উটনীর পায়ের রগ কেটে দিল। আয়াতের শুরুতে আছে 'ফা', যা পরপর ঘটে যাওয়া বোঝায়। কোন দুটো জিনিসকে এটা জুড়ছে, সেটা খেয়াল করার মতো। আগের দুই আয়াত একটা কথোপকথন। ৭:৭৫ আয়াতে অহংকারী নেতারা দুর্বল মুমিনদের জিজ্ঞেস করে, তোমরা কি সত্যিই জানো যে সালিহ (আঃ) তাঁর রবের পক্ষ থেকে প্রেরিত? মুমিনরা বলে, তিনি যা নিয়ে এসেছেন আমরা তাতে ঈমান এনেছি। ৭:৭৬ আয়াতে নেতারা জানায়, তোমরা যাতে ঈমান এনেছ আমরা তা অস্বীকার করি। কথা এখানেই থামে। এরপর যা আসে তা কোনো পাল্টা যুক্তি নয়, একটা আঘাত।"
+          },
+          {
+            "en": "The verse packs three acts into fifteen Arabic words. They hamstrung the camel; they were insolent toward the command of their Lord; and they said, O Salih, bring us what you promise us, if you are of the messengers. Each act answers something already said. The camel was the sign Salih (AS) showed them in 7:73, with the warning that if they touched her with harm a painful punishment would seize them. The third act asks for that very punishment, and 7:78 delivers it in six words.",
+            "bn": "পনেরোটি আরবি শব্দে আয়াতটি তিনটি কাজ ধরে রেখেছে। তারা উটনীর পায়ের রগ কাটল। রবের আদেশের বিরুদ্ধে ঔদ্ধত্য দেখাল। আর বলল, হে সালিহ, যার ওয়াদা করছ তা নিয়ে এসো, যদি তুমি রাসূলদের একজন হও। প্রতিটি কাজই আগের কোনো কথার জবাব। ৭:৭৩ আয়াতে সালিহ (আঃ) এই উটনীকে নিদর্শন হিসেবে দেখিয়েছিলেন, সঙ্গে সতর্ক করেছিলেন: মন্দ উদ্দেশ্যে একে ছুঁলে কষ্টদায়ক আযাব তোমাদের পাকড়াও করবে। তৃতীয় কাজটি ঠিক সেই আযাবই চেয়ে বসে। আর ৭:৭৮ আয়াত মাত্র ছয়টি শব্দে তা এনে হাজির করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cutting the Hamstring",
+          "bn": "পায়ের রগে কোপ"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi quotes al-Azhari: 'aqr is cutting the hamstring of the camel; slaughter then came to be called 'aqr too, because whoever slaughters a camel first hamstrings it and then slaughters it. Al-Qurtubi gathers more. 'Aqr is a wound, or, it is said, cutting a limb in a way that reaches the life; the Arabs say 'aqartu al-faras when a horse's legs are struck with a sword. He also cites al-Qushayri, for whom 'aqr is laying open the camel's hamstring, with slaughter named 'aqr because hamstringing usually leads to it.",
+            "bn": "বাগাভী আযহারীর কথা উদ্ধৃত করেন: আকর মানে উটের পায়ের পেছনের রগ কেটে ফেলা। পরে জবাই করাকেও আকর বলা হতে লাগল, কারণ উট জবাই করতে গেলে আগে রগ কেটে তাকে ফেলে দেওয়া হয়, তারপর জবাই। কুরতুবী আরও কিছু অর্থ জড়ো করেন। আকর মানে জখম। কারও মতে, এমনভাবে কোনো অঙ্গ কাটা যার আঘাত প্রাণ পর্যন্ত পৌঁছায়। ঘোড়ার পায়ে তলোয়ারের কোপ পড়লে আরবরা বলে 'আকারতুল ফারাস'। তিনি কুশাইরীর মতও আনেন: আকর হলো উটের রগ উন্মুক্ত করে ফেলা। আর জবাইকে আকর বলা হয় এ কারণে যে সাধারণত রগ কাটাই জবাইয়ের পথ খুলে দেয়।"
+          },
+          {
+            "en": "So the word names the crippling blow, and by extension the killing it led to. The Muyassar paraphrases with the plain verb nahru, they slaughtered the camel, and adds the motive: istikhfafan minhum bi-wa'idi Salih, making light of Salih's threat. As-Sa'di ties the act straight back to 7:73. This was the camel about which he had warned them that if they touched her with harm a painful punishment would strike them. Both make the same point: the blow was not struck in ignorance of its price. They had been told, and they did it anyway.",
+            "bn": "তাহলে শব্দটি প্রথমত সেই পঙ্গু করে দেওয়া কোপের নাম, আর তার সূত্র ধরে পরের হত্যারও। মুয়াসসার সাদা ক্রিয়াপদ বেছে নেয়: নাহারু, তারা উটনীটিকে জবাই করল। সঙ্গে কারণটাও বলে দেয়: ইসতিখফাফান মিনহুম বিওয়াঈদি সালিহ, সালিহের সতর্কবাণীকে তুচ্ছ জ্ঞান করে। সা'দী কাজটিকে সরাসরি ৭:৭৩ আয়াতের সঙ্গে বেঁধে দেন। এ সেই উটনী, যাকে মন্দ উদ্দেশ্যে ছুঁলে কষ্টদায়ক আযাব নেমে আসার হুঁশিয়ারি তিনি তাদের দিয়েছিলেন। দুজনের কথাতেই একটা বিষয় পরিষ্কার: পরিণাম না জেনে তারা কোপ মারেনি। তাদের জানানো হয়েছিল, তবু তারা কাজটা করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Hand Held the Sword",
+          "bn": "তলোয়ারটা কার হাতে"
+        },
+        "p": [
+          {
+            "en": "The verb is plural: they hamstrung. Elsewhere the Qur'an narrows the hand to one. 54:29 says they called their companion, and he took it on and hamstrung her; 91:12 says the most wretched of them was sent forth. Al-Qurtubi notes that the commentators differed over who did it. He reports, introduced with 'it is said', that the man's name was Qudar ibn Salif, and gives another report that the killer had eight men with him, the nine of 27:48 who spread corruption in the city, reading 54:29 in that light.",
+            "bn": "ক্রিয়াটি বহুবচন: তারা রগ কাটল। অথচ কুরআনের অন্য জায়গায় হাতটা একজনের দিকে সরু হয়ে আসে। ৫৪:২৯ বলে, তারা তাদের এক সঙ্গীকে ডাকল, সে দায়িত্বটা হাতে নিল আর রগ কেটে দিল। ৯১:১২ বলে, তাদের সবচেয়ে হতভাগা লোকটি উঠে দাঁড়াল। কুরতুবী জানান, কাজটা কে করেছিল তা নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে। 'বলা হয়' বলে তিনি লোকটির নাম আনেন কুদার ইবন সালিফ। আরেকটি বর্ণনাও দেন: হত্যাকারীর সঙ্গে আরও ৮ জন ছিল। এরাই ২৭:৪৮ আয়াতের সেই ৯ জন, যারা শহরে ফাসাদ ছড়াত। ৫৪:২৯ আয়াতকে তিনি এ আলোয় পড়েন।"
+          },
+          {
+            "en": "Ibn Kathir explains the plural. He relays from Qatadah: it reached me that the man who killed the camel went round all of them, and they were content with her killing, even the women in their private rooms and the children too. Ibn Kathir adds that this is the apparent meaning, because Allah says in 91:14 that they denied him and hamstrung her, in 17:59 that they wronged her, and here that they hamstrung the she-camel. He ascribed it to the tribe as a whole, which shows that all of them consented; and Allah knows best.",
+            "bn": "বহুবচনের ব্যাখ্যা দেন ইবন কাসীর। তিনি কাতাদা থেকে আনেন: আমার কাছে খবর পৌঁছেছে, যে লোকটি উটনীকে হত্যা করেছিল সে তাদের সবার কাছে ঘুরে ঘুরে গিয়েছিল। সবাই হত্যায় রাজি ছিল, এমনকি পর্দার আড়ালে থাকা নারীরা আর শিশুরাও। ইবন কাসীর যোগ করেন, আয়াতের বাহ্যিক অর্থও এটাই। কারণ আল্লাহ ৯১:১৪ আয়াতে বলেন, তারা তাঁকে অস্বীকার করল আর উটনীর রগ কাটল। ১৭:৫৯ আয়াতে বলেন, তারা তার প্রতি যুলম করল। আর এখানে বলেন, তারা উটনীর রগ কাটল। কাজটা তিনি গোটা গোত্রের নামে লিখেছেন, এতে বোঝা যায় সবাই এতে সম্মত ছিল। আর আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "Here lies the verse's moral weight. One man's arm struck the blow, and a people's verdict stood behind it. The Qur'an does not split the guilt by who held the sword. 91:14 goes on to say that their Lord brought destruction down on them for their sin and made it level over them all. The approval was counted where it was given: among those who never went near the camel and simply let it be known they would not mind.",
+            "bn": "আয়াতের নৈতিক ভারটা এখানেই। কোপটা পড়েছিল একজনের হাতে, কিন্তু তার পেছনে ছিল গোটা জাতির রায়। তলোয়ার কার হাতে ছিল, সে হিসাবে কুরআন দোষ ভাগ করে দেয় না। ৯১:১৪ আয়াত আরও বলে, তাদের গুনাহের কারণে তাদের রব তাদের উপর ধ্বংস নামিয়ে আনলেন এবং সবাইকে সমান করে দিলেন। সম্মতি যেখানে দেওয়া হয়েছিল, সেখানেই তার হিসাব হয়েছে: তাদের মধ্যেও, যারা উটনীর ধারেকাছেও যায়নি, শুধু জানিয়ে দিয়েছিল যে তাদের আপত্তি নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Man Like Abu Zam'ah",
+          "bn": "আবু যাম'আর মতো এক লোক"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi says the soundest thing said about the killer is the hadith in Sahih Muslim from Abdullah ibn Zam'ah (RA). Al-Bukhari records it too (Sahih al-Bukhari 4942): Abdullah ibn Zam'ah heard the Prophet ﷺ giving a sermon, and he mentioned the she-camel and the man who hamstrung her. Then Allah's Messenger ﷺ said: \"'When the most wretched of them went forth': there went forth for her a man mighty and vicious, well protected among his clan, like Abu Zam'ah.\" The sermon then turns to other matters. Muslim's version is hadith 2855.",
+            "bn": "কুরতুবী বলেন, হত্যাকারী সম্পর্কে সবচেয়ে বিশুদ্ধ কথা হলো সহীহ মুসলিমে আবদুল্লাহ ইবন যাম'আ (রাঃ) থেকে বর্ণিত হাদীস। বুখারীও এটি এনেছেন (সহীহ বুখারী ৪৯৪২)। আবদুল্লাহ ইবন যাম'আ শুনেছিলেন, নবী ﷺ খুতবা দিচ্ছেন। খুতবায় তিনি উটনী আর তার রগ কাটা লোকটির কথা তুললেন। তারপর আল্লাহর রাসূল ﷺ বললেন: \"'যখন তাদের সবচেয়ে হতভাগা লোকটি উঠে দাঁড়াল': তার জন্য উঠে দাঁড়াল এক প্রতাপশালী, দুর্বিনীত লোক, নিজ গোষ্ঠীর মধ্যে সুরক্ষিত, আবু যাম'আর মতো।\" এরপর খুতবা অন্য প্রসঙ্গে চলে যায়। মুসলিমের বর্ণনাটি ২৮৫৫ নম্বর হাদীস।"
+          },
+          {
+            "en": "The hadith is sound, recorded in both Sahihs, and it fixes 91:12 to this event. What it adds is a portrait. The man was no outcast acting in the dark; he was strong, fierce and shielded by his kin, the kind of man a clan stands behind. Al-Bukhari also records the wording of another chain, in which Abu Zam'ah is identified as the paternal uncle of az-Zubayr ibn al-Awwam: a man the listeners knew by name and could picture. The plural of our verse and the protected man of the hadith fit together.",
+            "bn": "হাদীসটি সহীহ, বুখারী ও মুসলিম দুটিতেই আছে, আর এটি ৯১:১২ আয়াতকে এই ঘটনার সঙ্গে বেঁধে দেয়। হাদীসটি যা যোগ করে তা একটা ছবি। লোকটি কোনো একঘরে মানুষ ছিল না, যে অন্ধকারে একা কাজ সেরেছে। সে ছিল শক্তিশালী, উগ্র, আর আত্মীয়দের ছায়ায় নিরাপদ, এমন লোক যার পেছনে গোটা গোষ্ঠী দাঁড়ায়। বুখারী আরেকটি সনদের শব্দও এনেছেন, সেখানে আবু যাম'আকে যুবাইর ইবনুল আওয়ামের চাচা বলে চেনানো হয়েছে। অর্থাৎ শ্রোতারা লোকটিকে নামে চিনতেন, চোখের সামনে দেখতেও পেতেন। আমাদের আয়াতের বহুবচন আর হাদীসের সুরক্ষিত লোকটি তাই একসঙ্গে মিলে যায়।"
+          },
+          {
+            "en": "The fuller story is another matter. Ibn Kathir relays from Ibn Jarir and others an account of two women who offered rewards for the camel's killing, and of Qudar and Musaddi' lying in wait; Ma'arif al-Qur'an tells it the same way. Al-Qurtubi's version has a woman ruler who envied Salih (AS). The reports disagree, and none is raised to the Prophet ﷺ. Ibn Kathir also relays from Ahmad a narration from Jabir, set at al-Hijr, about this camel; Ahmad gives it no grading, and Ibn Kathir notes it is in none of the six books. Nothing here is built on any of these.",
+            "bn": "পুরো কাহিনির বিবরণ অবশ্য আলাদা ব্যাপার। ইবন কাসীর ইবন জারীর ও অন্য মুফাসসিরদের সূত্রে দুই নারীর কাহিনি আনেন, যারা উটনী হত্যাকারীর জন্য পুরস্কার ঘোষণা করেছিল। সেখানে কুদার আর মুসাদ্দি' তীর ও তলোয়ার নিয়ে ওত পেতে থাকে। মাআরিফুল কুরআনও একইভাবে বলে। কুরতুবীর বিবরণ ভিন্ন, তাতে সালিহ (আঃ)-এর প্রতি ঈর্ষাকাতর এক নারী শাসকের কথা আছে। বর্ণনাগুলো একে অপরের সঙ্গে মেলে না, আর কোনোটিই নবী ﷺ পর্যন্ত পৌঁছায় না। ইবন কাসীর আহমাদের সূত্রে জাবির (রাঃ) থেকে হিজরের প্রেক্ষাপটে একটি বর্ণনাও আনেন, বিষয় এই উটনী। আহমাদ এর কোনো মান নির্ধারণ করেননি, আর ইবন কাসীর জানান, এটি ছয়টি কিতাবের কোনোটিতে নেই। এখানে এগুলোর কোনোটির উপর কিছু দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rising Above the Command",
+          "bn": "আদেশের উপর মাথা তোলা"
+        },
+        "p": [
+          {
+            "en": "Wa-'ataw 'an amri rabbihim. At-Tabari glosses it: they were arrogant and overbearing against following Allah, and set themselves above the truth. He brings Mujahid through several chains: they rose high in falsehood; in one, they went to excess in falsehood and left the truth. He traces the word to the Arabs' phrase jabbarun 'atin, said of a tyrant who has climbed high in his tyranny. Al-Qurtubi gives istakbaru, and cites al-Khalil for al-layl al-'ati, a night of deep darkness.",
+            "bn": "ওয়া আতাও আন আমরি রাব্বিহিম। তাবারী অর্থ করেন: আল্লাহর আনুগত্যের বেলায় তারা অহংকার ও জবরদস্তি দেখাল, সত্যের উপর নিজেদের তুলে ধরল। মুজাহিদের কথা তিনি কয়েকটি সনদে আনেন। একটিতে, তারা বাতিলে মাথা উঁচু করল। আরেকটিতে, বাতিলে সীমা ছাড়াল আর হক ছেড়ে দিল। শব্দটির উৎস তিনি দেখান আরবদের এক কথায়: জাব্বারুন আতিন, অর্থাৎ যে জালিম তার জুলুমে অনেক উঁচুতে উঠে গেছে। কুরতুবী অর্থ দেন ইসতাকবারু, তারা অহংকার করল। আর খলীল থেকে আনেন 'আল-লাইলুল আতী', ঘন অন্ধকার রাত।"
+          },
+          {
+            "en": "Al-Baghawi defines al-'utuw as going to extremes in falsehood, and spells out which command is meant: they disobeyed Allah, abandoned His command concerning the camel, and gave the lie to their prophet. As-Sa'di reads it as qasaw 'anhu, their hearts hardened against it, and they were too proud for a command that brings severe punishment on whoever defies it. The Muyassar: they were too proud to carry out their Lord's command. The command itself had asked little. Leave her to graze in Allah's land, and share the water by turns.",
+            "bn": "বাগাভী উতুওয়ের সংজ্ঞা দেন বাতিলে বাড়াবাড়ি করা। কোন আদেশের কথা হচ্ছে, তাও খুলে বলেন: তারা আল্লাহর নাফরমানি করল, উটনী নিয়ে তাঁর আদেশ ছেড়ে দিল, আর নবীকে মিথ্যাবাদী বলল। সা'দী এর অর্থ করেন কাসাও আনহু: আদেশের ব্যাপারে তাদের অন্তর কঠিন হয়ে গেল। আর এমন আদেশের সামনে তারা অহংকার দেখাল, যা অমান্য করলে কঠিন আযাবের স্বাদ নিতে হয়। মুয়াসসার বলে, রবের আদেশ পালন করতে তারা অহংকার করল। অথচ আদেশটা বেশি কিছু চায়নি। উটনীকে আল্লাহর যমীনে চরতে দাও, আর পানি পালা করে ভাগ করে নাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bring On What You Threaten",
+          "bn": "যার ভয় দেখাও, নিয়ে এসো"
+        },
+        "p": [
+          {
+            "en": "Then the dare. At-Tabari: they said, bring us, Salih, the punishment and vengeance of Allah that you promise us, seeking to hasten the punishment. If you are a messenger of Allah to us, he paraphrases, then Allah aids His messengers against their enemies. He ends on the answer: Allah hastened it for them as they had sought to hasten it, and he quotes 7:78, the earthquake that left them fallen prone in their homes. Al-Qurtubi and al-Baghawi both gloss what you promise us as the punishment.",
+            "bn": "তারপর এল চ্যালেঞ্জ। তাবারী বলেন: তারা বলল, হে সালিহ, আল্লাহর যে আযাব ও শাস্তির ওয়াদা তুমি করছ তা নিয়ে এসো। আযাবকে তারা তাড়াতাড়ি ডেকে আনতে চাইছিল। তাঁর ব্যাখ্যায় কথাটা দাঁড়ায় এমন: তুমি যদি সত্যিই আমাদের কাছে আল্লাহর রাসূল হও, তবে আল্লাহ তো তাঁর রাসূলদের শত্রুর বিরুদ্ধে সাহায্য করেন। জবাব দিয়েই তিনি শেষ করেন। তারা যেমন তাড়া দিয়েছিল, আল্লাহও তেমনি তা তাড়াতাড়ি এনে দিলেন। তারপর তিনি উদ্ধৃত করেন ৭:৭৮ আয়াত: ভূমিকম্প তাদের পাকড়াও করল, তারা নিজেদের ঘরে উপুড় হয়ে পড়ে রইল। কুরতুবী ও বাগাভী দুজনেই 'যার ওয়াদা করছ' কথার অর্থ করেন আযাব।"
+          },
+          {
+            "en": "The Muyassar names the tone: they said it by way of mockery, thinking the punishment far-fetched. As-Sa'di goes further. They said it on top of what they had done, emboldened against Allah, taking Him for unable, indifferent to their deed and even proud of it. He then sets beside it Salih's reply from 11:65: enjoy yourselves in your homes for three days; that is a promise not to be belied. The word that had been mocked comes back as a date.",
+            "bn": "কথার সুরটা ধরিয়ে দেয় মুয়াসসার: তারা কথাটা বলেছিল ঠাট্টা করে, আযাবকে অসম্ভব ভেবে। সা'দী আরও এগোন। এত কিছু করার পর তারা এ কথা বলল আল্লাহর বিরুদ্ধে দুঃসাহস নিয়ে, যেন তিনি অক্ষম। নিজেদের কাজের পরোয়া তো করলই না, উল্টো তা নিয়ে গর্ব করল। এর পাশে তিনি রাখেন ১১:৬৫ আয়াতে সালিহ (আঃ)-এর জবাব: তিনটি দিন তোমাদের ঘরে ভোগ করে নাও, এ এমন ওয়াদা যা মিথ্যা হবার নয়। যে কথা নিয়ে ঠাট্টা হলো, তা ফিরে এল একটা নির্দিষ্ট দিনক্ষণ হয়ে।"
+          },
+          {
+            "en": "The sting is in the condition: if you are of the messengers. They had already declared in 7:76 that they rejected what he brought, so the if was not doubt looking for an answer. At-Tabari's paraphrase turns it into a test they set themselves: if he is a messenger, Allah will stand by him. The test was answered in the very next verse. And their verb, ta'iduna, is the word for a promise: they borrowed the language of hope to name what they dared to come.",
+            "bn": "খোঁচাটা লুকিয়ে আছে শর্তের ভেতরে: যদি তুমি রাসূলদের একজন হও। ৭:৭৬ আয়াতেই তারা জানিয়ে দিয়েছিল, তিনি যা এনেছেন তা তারা মানে না। তাই এই 'যদি' উত্তর খোঁজা কোনো সংশয় ছিল না। তাবারীর ব্যাখ্যায় এটা হয়ে দাঁড়ায় তাদের নিজেদের বেঁধে দেওয়া পরীক্ষা: তিনি রাসূল হলে আল্লাহ তাঁর পাশে দাঁড়াবেন। পরের আয়াতেই সে পরীক্ষার ফল এসে গেল। আর তাদের ক্রিয়াপদ তাইদুনা আসলে ওয়াদার শব্দ। আশার জিনিসের ভাষা ধার করে তারা ডাক দিল সেই জিনিসকে, যা আসার জন্য তারা চ্যালেঞ্জ ছুড়ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Camel in Other Surahs",
+          "bn": "অন্য সূরায় সেই উটনী"
+        },
+        "p": [
+          {
+            "en": "The story returns across the Qur'an. 11:64 and 11:65 repeat the warning, then: they hamstrung her, and he gave them three days. 26:155 to 26:157 give her a turn to drink and them a turn on a known day; they hamstrung her and became regretful, too late. 54:27 to 54:29 call the camel a trial and have them summon their companion, who dared and struck. 91:11 to 91:15 set the most wretched of them against the plea for the she-camel of Allah and her drink. And 51:44 repeats our verse's phrase: they were insolent toward their Lord's command, and the thunderbolt seized them as they looked on.",
+            "bn": "কাহিনিটি কুরআনে বারবার ফিরে আসে। ১১:৬৪ ও ১১:৬৫ আয়াতে একই সতর্কবাণী, তারপর: তারা রগ কাটল, আর তিনি তাদের তিনটি দিন সময় দিলেন। ২৬:১৫৫ থেকে ২৬:১৫৭ আয়াতে পানির পালা ভাগ করা হয়, একদিন উটনীর, নির্দিষ্ট আরেক দিন তাদের। তারা রগ কাটল, তারপর অনুতপ্ত হলো, কিন্তু তখন দেরি হয়ে গেছে। ৫৪:২৭ থেকে ৫৪:২৯ আয়াতে উটনী এক পরীক্ষা, আর তারা ডেকে আনে তাদের সঙ্গীকে, যে সাহস করে আঘাত হানে। ৯১:১১ থেকে ৯১:১৫ আয়াতে সবচেয়ে হতভাগা লোকটি দাঁড়ায় রাসূলের আবেদনের বিপরীতে: আল্লাহর উটনী, আর তার পানি। আর ৫১:৪৪ আয়াত আমাদের আয়াতের কথাটাই হুবহু বলে: তারা রবের আদেশের বিরুদ্ধে ঔদ্ধত্য দেখাল, আর তাদের চোখের সামনেই বজ্র তাদের পাকড়াও করল।"
+          },
+          {
+            "en": "Ibn Kathir places Thamud's dwellings between the Hijaz and Syria, as far as Wadi al-Qura and its surroundings, and notes that the Prophet ﷺ passed their villages on the way to Tabuk in the ninth year. What he said and did there, at al-Hijr, is set out in the article on 7:74, and is not repeated here. The verse itself is not about a location; it is about a decision taken by people who had been warned.",
+            "bn": "ইবন কাসীর সামূদের বসতির অবস্থান বলেন হিজায ও শামের মাঝখানে, ওয়াদিল কুরা ও তার আশপাশ পর্যন্ত। তিনি জানান, নবম বছরে তাবুকে যাওয়ার পথে নবী ﷺ তাদের জনপদের পাশ দিয়ে গিয়েছিলেন। সেখানে, হিজরে, তিনি কী বলেছিলেন ও করেছিলেন, তা ৭:৭৪ আয়াতের প্রবন্ধে আছে, এখানে আর দোহরানো হলো না। আয়াতটা আসলে কোনো ভূখণ্ড নিয়ে নয়। এটা এমন একদল মানুষের সিদ্ধান্ত নিয়ে, যাদের আগেই সতর্ক করা হয়েছিল।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: one people, in one story, whose end the Qur'an itself reports. It licenses nothing against any person or community living now, whether in that land or anywhere else, and no one may use it to brand a people as heirs of Thamud. The Qur'an tells this story so that its reader will look at himself: at what he approves, at the warnings he waves off, and at what he reaches for when the argument is lost.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: একটি কাহিনিতে একটি জাতি, যাদের পরিণতির খবর কুরআন নিজেই দিয়েছে। আজ বেঁচে থাকা কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না, সে ওই ভূখণ্ডে থাকুক বা অন্য কোথাও। কোনো জাতিকে সামূদের উত্তরসূরি বলে দাগিয়ে দিতে কেউ এ আয়াত ব্যবহার করতে পারে না। কুরআন কাহিনিটি বলে, যাতে পাঠক নিজের দিকে তাকায়। সে কিসে সায় দেয়, কোন সতর্কবাণী হাত নেড়ে উড়িয়ে দেয়, আর তর্কে হেরে গেলে কী হাতে তুলে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Consent Is Also a Deed",
+          "bn": "সায় দেওয়াও এক কাজ"
+        },
+        "p": [
+          {
+            "en": "Start with the plural. Most of us will never hold the blade, but we are often among those the man goes round to ask. A plan to wrong someone, a cruel joke about to be told, a decision that will crush a weaker party: the question put to us is rarely do it yourself, only do you mind. Qatadah's report has the killer going round them all to collect that consent. The verse counts it. Saying no, or at least refusing to say yes, is already a deed.",
+            "bn": "শুরু করুন বহুবচন থেকে। আমাদের বেশির ভাগই কখনো ছুরি হাতে নেবেন না, কিন্তু প্রায়ই আমরা থাকি তাদের দলে, যাদের কাছে লোকটা ঘুরে ঘুরে অনুমতি চায়। কারও উপর অন্যায়ের পরিকল্পনা, কারও গায়ে লাগার মতো নিষ্ঠুর রসিকতা, কিংবা এমন কোনো সিদ্ধান্ত যা দুর্বল পক্ষকে পিষে দেবে। আমাদের কাছে প্রশ্ন সাধারণত এটা নয় যে তুমি নিজে করবে কি না। প্রশ্ন শুধু, তোমার আপত্তি আছে কি? কাতাদার বর্ণনায় হত্যাকারী সবার কাছে ঘুরে ঘুরে সেই সম্মতিটাই জোগাড় করে। আয়াত সেটার হিসাব রাখে। না বলা, অন্তত হ্যাঁ না বলা, সেটাও একটা আমল।"
+          },
+          {
+            "en": "Then the dare. A reminder comes, and nothing has happened yet, so the mind says: if it were true, it would have come by now. That is the logic of bring us what you promise, said more quietly. At-Tabari's closing line answers it: Allah hastened it for them as they had sought to hasten it. Delay is not disproof. The believers of 7:75 had another answer to the same prophet, and it is the one to ask Allah for in your own words: a heart that does not harden when it is told.",
+            "bn": "তারপর আসে চ্যালেঞ্জের কথা। কোনো নসিহত আসে, এখনো কিছু ঘটেনি, তাই মন বলে: সত্যি হলে এতদিনে এসে যেত। এ হলো 'যার ওয়াদা করছ তা নিয়ে এসো' কথাটারই নিচু গলার রূপ। তাবারীর শেষ বাক্যই এর জবাব: তারা যেমন তাড়া দিয়েছিল, আল্লাহও তেমনি তা তাড়াতাড়ি এনে দিলেন। দেরি হওয়া মানে মিথ্যা প্রমাণ হওয়া নয়। একই নবীর ডাকে ৭:৭৫ আয়াতের মুমিনরা দিয়েছিলেন অন্য জবাব। নিজের ভাষায় আল্লাহর কাছে সেটাই চেয়ে নিন: এমন এক অন্তর, যা সতর্ক করা হলে কঠিন হয়ে যায় না।"
+          }
+        ]
+      }
+    ]
+  },
   "7:79": {
     "sections": [
       {
