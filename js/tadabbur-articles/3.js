@@ -3299,6 +3299,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:73": {
+    "sections": [
+      {
+        "h": {
+          "en": "Inside a Private Conversation",
+          "bn": "গোপন আলাপের ভেতরে"
+        },
+        "p": [
+          {
+            "en": "This verse finishes a speech that begins in the one before it. 3:69 says a faction of the People of the Book wish they could lead the believers astray, and 3:70 to 3:71 put two questions to them. Then 3:72 reports their plan: believe in what was sent down to the believers at the start of the day, and disbelieve at its end, so that they may turn back. Ibn Kathir's abridged commentary gives Mujahid's account: men who attended the dawn prayer with the Prophet ﷺ and disbelieved by evening, so that people would think they had found a fault in the religion.",
+            "bn": "আয়াতটি আসলে আগের আয়াতে শুরু হওয়া একটি কথার শেষাংশ। ৩:৬৯ জানায়, আহলে কিতাবের একটি দল চায় মুমিনদের পথভ্রষ্ট করতে। ৩:৭০ ও ৩:৭১ তাদের সামনে দুটি প্রশ্ন রাখে। এরপর ৩:৭২ তাদের ফন্দিটা খুলে বলে: মুমিনদের উপর যা নাযিল হয়েছে, দিনের শুরুতে তাতে ঈমান আনো, দিনের শেষে অস্বীকার করো, হয়তো ওরা ফিরে যাবে। ইবন কাসীরের সংক্ষিপ্ত তাফসীর এখানে মুজাহিদের বর্ণনা আনে: কিছু লোক নবী ﷺ-এর সঙ্গে ফজরের নামাযে হাজির হতো, আর সন্ধ্যা নামতেই কুফরিতে ফিরে যেত। উদ্দেশ্য ছিল, মানুষ ভাববে দ্বীনের মধ্যে তারা কোনো খুঁত পেয়ে গেছে।"
+          },
+          {
+            "en": "3:73 opens inside the same quotation: wa la tu'minu illa li-man tabi'a dinakum, and do not trust any but those who follow your religion. At-Tabari calls it Allah's report of what that faction told their fellow Jews. Al-Qurtubi calls it a prohibition the Jews gave each other, the leaders to the lower ranks, and relays from as-Suddi that the Jews of Khaybar said it to the Jews of Madinah. Then he adds a frank remark: this verse is the most difficult thing in the surah. The difficulty is where their speech ends, and the commentators do not agree.",
+            "bn": "৩:৭৩ শুরু হয় সেই উদ্ধৃতির ভেতর থেকেই: ওয়া লা তু'মিনূ ইল্লা লিমান তাবিআ দীনাকুম, তোমাদের দ্বীনের অনুসারী ছাড়া কাউকে বিশ্বাস করো না। তাবারী বলেন, এটা সেই দলের কথার খবর, যা তারা নিজেদের ইয়াহূদী ভাইদের বলেছিল, আর খবরটা দিচ্ছেন আল্লাহ। কুরতুবীর মতে এটা ইয়াহূদীদের পরস্পরের প্রতি নিষেধ, নেতারা বলছিল নিচের স্তরের লোকদের। তিনি সুদ্দী থেকে আনেন যে খাইবারের ইয়াহূদীরা এ কথা বলেছিল মদীনার ইয়াহূদীদের। তারপর খোলাখুলি স্বীকার করেন: এই আয়াত সূরার সবচেয়ে জটিল জায়গা। জটিলতাটা হলো, তাদের কথা কোথায় শেষ। এ নিয়ে তাফসীরকারেরা একমত নন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Faction Then, No One Now",
+          "bn": "সেদিনের এক দল, আজ কেউ নয়"
+        },
+        "p": [
+          {
+            "en": "Before the grammar, the plain point. The verse quotes a faction of the People of the Book in the time of the Prophet ﷺ, plotting against the faith of the believers around them. It describes what it describes, and it licenses nothing against any living person or community: no suspicion, no contempt, no harm, and no verdict on Jews or Christians today. Two verses later the Qur'an itself says that among the People of the Book is one who, entrusted with a great amount, returns it to you (3:75). The Qur'an does not paint them with one brush, and neither may its readers.",
+            "bn": "ব্যাকরণে ঢোকার আগে সোজা কথাটা বলে রাখা দরকার। আয়াতটি উদ্ধৃত করছে নবী ﷺ-এর যুগের আহলে কিতাবের একটি দলের কথা, যারা আশপাশের মুমিনদের ঈমান নষ্ট করার ফন্দি আঁটছিল। আয়াত যা বর্ণনা করে, ততটুকুই বর্ণনা করে। আজকের কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে সে কোনো কিছুর অনুমতি দেয় না: না সন্দেহ, না অবজ্ঞা, না ক্ষতি, না আজকের ইয়াহূদী বা খ্রিস্টানদের নিয়ে কোনো রায়। দুই আয়াত পরেই কুরআন নিজে বলছে, আহলে কিতাবের মধ্যে এমন লোকও আছে, যার কাছে বিপুল সম্পদ গচ্ছিত রাখলেও সে তা ফেরত দেয় (৩:৭৫)। কুরআন তাদের সবাইকে এক তুলিতে আঁকে না, তার পাঠকেরও আঁকার অধিকার নেই।"
+          },
+          {
+            "en": "Nor is the opening clause a rule for Muslims about whom to deal with. On most readings below, do not trust any but those who follow your religion is the faction speaking, and the Qur'an quotes it in order to answer it. Al-Baghawi and al-Qurtubi do allow that the whole verse may be Allah's address to the believers, but both give its purpose as steadying their hearts, so that they would not fall into doubt at the confusion the faction was spreading. Neither draws from it any rule about how to treat a neighbour.",
+            "bn": "শুরুর বাক্যটিও মুসলিমদের জন্য লেনদেনের কোনো নিয়ম নয়। নিচে যে পাঠগুলো আসছে, তার বেশির ভাগে 'তোমাদের দ্বীনের অনুসারী ছাড়া কাউকে বিশ্বাস করো না' কথাটা সেই দলেরই মুখের কথা। কুরআন তা উদ্ধৃত করেছে জবাব দেওয়ার জন্য। বাগাভী ও কুরতুবী অবশ্য এ সম্ভাবনাও রাখেন যে পুরো আয়াতটি মুমিনদের প্রতি আল্লাহর সম্বোধন। তবে দুজনেই এর উদ্দেশ্য বলেন একটাই: মুমিনদের মন মজবুত রাখা, যাতে ওই দলের ছড়ানো ধোঁয়াশায় তারা সন্দেহে না পড়ে। প্রতিবেশীর সঙ্গে কেমন আচরণ করতে হবে, এমন কোনো বিধান তাঁদের কেউ এখান থেকে বের করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Trusting, Following, Guidance",
+          "bn": "ভরসা, অনুসরণ আর হিদায়াত"
+        },
+        "p": [
+          {
+            "en": "Tu'minu here is not faith in the creedal sense. At-Tabari glosses it as tusaddiqu, accept someone's word, and al-Baghawi and al-Muyassar do the same. Ibn Kathir widens it: do not feel at ease with anyone, or show your secret and what you hold, except those who follow your religion. As-Sa'di gathers three verbs, do not rely on, feel secure with, or believe anyone but your own, and adds: keep your affair hidden. The small li in li-man adds no new sense: at-Tabari compares it to radifa lakum in 27:72, meaning radifakum, and al-Baghawi calls it a connective.",
+            "bn": "এখানে তু'মিনূ আকীদার অর্থে ঈমান নয়। তাবারী এর ব্যাখ্যা দেন তুসাদ্দিকূ দিয়ে, অর্থাৎ কারও কথা সত্য বলে মেনে নেওয়া। বাগাভী ও মুয়াসসারও তাই বলেন। ইবন কাসীর অর্থটা আরও ছড়িয়ে দেন: তোমাদের দ্বীনের অনুসারী ছাড়া কারও কাছে নিশ্চিন্ত হয়ো না, নিজেদের গোপন কথা আর যা কিছু জানো তা প্রকাশ কোরো না। সা'দী তিনটি ক্রিয়া একসঙ্গে আনেন: নিজেদের লোক ছাড়া কারও উপর ভরসা কোরো না, কারও কাছে নিশ্চিন্ত হয়ো না, কারও কথা মেনো না। সঙ্গে যোগ করেন, নিজেদের ব্যাপার গোপন রাখো। লিমান-এর ছোট্ট লি নতুন কোনো অর্থ আনে না। তাবারী একে ২৭:৭২-এর রাদিফা লাকুম-এর সঙ্গে তুলনা করেন, যার মানে রাদিফাকুম। বাগাভী একে বলেন সংযোজক অব্যয়।"
+          },
+          {
+            "en": "Who are those who follow your religion? At-Tabari answers, whoever was a Jew, and al-Muyassar says the same; as-Suddi, in his report, says whoever follows Judaism; Ibn Zayd: whoever believes in your religion, and whoever opposes it, do not trust him. Then al-huda, guidance. In the parsing he prefers, at-Tabari explains it as tawfiq and bayan: the enabling to faith is Allah's enabling, and the clear showing is His showing. Ibn Kathir describes it as Allah guiding the believers' hearts to the most complete faith through the clear signs and proofs He sent down to Muhammad ﷺ.",
+            "bn": "তোমাদের দ্বীনের অনুসারী বলতে কে? তাবারীর উত্তর, যে ইয়াহূদী ছিল। মুয়াসসারও একই কথা বলে। সুদ্দীর বর্ণনায়, যে ইয়াহূদী ধর্ম মানে। ইবন যাইদের ভাষায়, যে তোমাদের দ্বীনে বিশ্বাস করে। আর যে তার বিরোধিতা করে, তাকে বিশ্বাস কোরো না। এরপর আল-হুদা, অর্থাৎ হিদায়াত। নিজের পছন্দের পাঠে তাবারী একে ব্যাখ্যা করেন তাওফীক ও বায়ান দিয়ে: ঈমানের তাওফীক আল্লাহরই তাওফীক, আর সত্যকে স্পষ্ট করে দেখানোও তাঁরই কাজ। ইবন কাসীরের ব্যাখ্যায়, আল্লাহ মুমিনদের অন্তরকে পূর্ণতম ঈমানের দিকে পথ দেখান সেই সুস্পষ্ট আয়াত ও প্রমাণ দিয়ে, যা তিনি মুহাম্মাদ ﷺ-এর উপর নাযিল করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Parenthesis in Their Speech",
+          "bn": "তাদের কথার মাঝে এক বন্ধনী"
+        },
+        "p": [
+          {
+            "en": "The first parsing treats say, the guidance is Allah's guidance as a parenthesis dropped into the middle of their speech, after which the faction keeps talking. On this reading they tell each other: trust none but those who follow your religion, and do not believe that anyone could be given the like of what you were given, or that they could argue against you before your Lord. At-Tabari gives this as the view of some, and cites Mujahid for its motive: envy on the part of Jews that prophethood should be among others than them, and a wish that people follow their religion.",
+            "bn": "প্রথম পাঠে 'বলুন, হিদায়াত তো আল্লাহরই হিদায়াত' বাক্যটি তাদের কথার মাঝখানে বসানো এক বন্ধনী। বন্ধনীর পর সেই দল আবার নিজেদের কথায় ফিরে যায়। এই পাঠে তারা পরস্পরকে বলছে: নিজেদের দ্বীনের অনুসারী ছাড়া কাউকে বিশ্বাস কোরো না। আর এ কথাও বিশ্বাস কোরো না যে তোমাদের যা দেওয়া হয়েছে, তেমন কিছু অন্য কেউ পেতে পারে, কিংবা তারা তোমাদের রবের সামনে তোমাদের বিরুদ্ধে যুক্তি দাঁড় করাতে পারে। তাবারী এটিকে একদলের মত হিসেবে আনেন, আর এর পেছনের কারণ বলতে মুজাহিদের কথা উদ্ধৃত করেন: নবুওয়াত অন্যদের মধ্যে চলে যাবে, ইয়াহূদীদের এই হিংসা, আর মানুষ তাদের দ্বীনেরই অনুসরণ করুক, এই বাসনা।"
+          },
+          {
+            "en": "Al-Baghawi gives the same parsing as the sense of Mujahid's words, and spells out what the like of what you were given covers: knowledge, the Book and wisdom, and signs such as the manna and quails and the parting of the sea. They should not believe the others could out-argue them, the faction reasons, because their own religion is the sounder. Al-Qurtubi relays this reading from al-Hasan and Mujahid, and records al-Akhfash taking the later clauses as joined to the prohibition: do not believe this, and do not believe that.",
+            "bn": "বাগাভীও এই পাঠকে মুজাহিদের কথার অর্থ বলে উল্লেখ করেন। 'তোমাদের যা দেওয়া হয়েছে' বলতে কী বোঝায়, তা-ও তিনি খুলে বলেন: জ্ঞান, কিতাব ও হিকমত, আর মান্না-সালওয়া, সাগর দুই ভাগ হওয়ার মতো নিদর্শন। দলটির যুক্তি ছিল, ওরা তর্কে তোমাদের হারাতে পারবে, এ কথা বিশ্বাস কোরো না, কারণ তোমাদের দ্বীনই বেশি সঠিক। কুরতুবী এই পাঠ হাসান ও মুজাহিদ থেকে বর্ণনা করেন। তিনি আখফাশের মতও আনেন, যিনি পরের অংশগুলোকে নিষেধের সঙ্গেই জুড়ে পড়েন: এটাও বিশ্বাস কোরো না, ওটাও বিশ্বাস কোরো না।"
+          },
+          {
+            "en": "At-Tabari prefers this parsing. With only say, the guidance is Allah's guidance set apart, he says, the whole is a report of what the faction said, and the speech then turns to belying them: say to them that enabling is Allah's enabling, and that the bounty is in His hand, not as you wished. He chose it, he explains, because it is the soundest in meaning, the most upright by the usage of the Arabs, and the most coherent with the order and flow of the passage. Every other reading, in his judgement, forces the words.",
+            "bn": "তাবারী এই পাঠটিকেই অগ্রাধিকার দেন। তাঁর ব্যাখ্যায়, শুধু 'বলুন, হিদায়াত তো আল্লাহরই হিদায়াত' অংশটুকু আলাদা। বাকি সবটাই সেই দলের কথার বিবরণ। তারপর কথা ঘুরে যায় তাদের মিথ্যা প্রমাণের দিকে: তাদের বলে দিন, তাওফীক আল্লাহরই তাওফীক, আর অনুগ্রহ তাঁর হাতে, তোমরা যেমন চেয়েছিলে তেমন নয়। কেন এটিকে বেছে নিলেন, তারও কারণ দেন তিনি: অর্থের দিক থেকে এটি সবচেয়ে সঠিক, আরবদের ভাষারীতিতে সবচেয়ে সোজা, আর আয়াতের গাঁথুনি ও প্রবাহের সঙ্গে সবচেয়ে সামঞ্জস্যপূর্ণ। তাঁর বিচারে অন্য সব পাঠ শব্দগুলোকে জোর করে টেনে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Read as the Prophet's Reply",
+          "bn": "নবী ﷺ-এর জবাব হিসেবে পড়া"
+        },
+        "p": [
+          {
+            "en": "Others read the whole middle of the verse as words the Prophet ﷺ is told to say. At-Tabari sets out their view: an yu'ta is a denial, no one of the nations is given the like of what you were given, meaning the Prophet ﷺ and his community; and aw, or, means illa an, unless: unless they dispute with you before your Lord. He cites as-Suddi for it: the Jews say Allah honoured us in such and such ways, even sending down the manna and quails; what I have given you is better, so say: the bounty is in Allah's hand.",
+            "bn": "আরেক দল পুরো মাঝের অংশটিকেই পড়েন নবী ﷺ-এর মুখে বলার জন্য দেওয়া কথা হিসেবে। তাবারী তাঁদের মত তুলে ধরেন। আন ইউ'তা এখানে অস্বীকারসূচক: তোমাদের যা দেওয়া হয়েছে, তেমন কিছু অন্য কোনো জাতিকে দেওয়া হয় না। 'তোমাদের' মানে নবী ﷺ ও তাঁর উম্মত। আর আও, অর্থাৎ 'অথবা', এখানে ইল্লা আন, মানে 'তবে যদি': তবে যদি তারা তোমাদের রবের কাছে তোমাদের সঙ্গে বিতর্ক করে। এ মতের পক্ষে তিনি সুদ্দীর কথা আনেন: ইয়াহূদীরা বলে, আল্লাহ আমাদের নানাভাবে সম্মান দিয়েছেন, এমনকি মান্না-সালওয়া নাযিল করেছেন। অথচ তোমাদের যা দিয়েছি তা আরও উত্তম। তাই বলো, অনুগ্রহ আল্লাহর হাতে।"
+          },
+          {
+            "en": "Al-Baghawi ties this reading to a variant: al-Hasan and al-A'mash read in yu'ta, with the negative in. The faction's words then end at illa li-man tabi'a dinakum, and what follows is Allah's: no one has been given the like of what you were given, community of Muhammad, unless the Jews dispute with you falsely, saying they are better than you. He calls this the sense of Sa'id ibn Jubayr, al-Hasan, al-Kalbi and Muqatil. Al-Qurtubi credits the in reading to Sa'id ibn Jubayr, and agrees that it makes the clause Allah's speech, as al-Farra' held.",
+            "bn": "বাগাভী এই পাঠকে এক ভিন্ন কিরাআতের সঙ্গে যুক্ত করেন। হাসান ও আ'মাশ পড়েছেন ইন ইউ'তা, নেতিবাচক ইন দিয়ে। তখন সেই দলের কথা শেষ হয় ইল্লা লিমান তাবিআ দীনাকুম-এ এসে। এরপরের অংশ আল্লাহর কথা: হে মুহাম্মাদের উম্মত, তোমাদের যা দেওয়া হয়েছে, তেমন কিছু আর কাউকে দেওয়া হয়নি। তবে ইয়াহূদীরা অন্যায়ভাবে তোমাদের সঙ্গে বিতর্ক করতে পারে, বলতে পারে যে তারাই তোমাদের চেয়ে শ্রেষ্ঠ। বাগাভী বলেন, এটাই সাঈদ ইবন জুবাইর, হাসান, কালবী ও মুকাতিলের কথার অর্থ। কুরতুবী ইন কিরাআতটি সাঈদ ইবন জুবাইরের বলে উল্লেখ করেন। তিনিও মানেন যে এতে বাক্যটি আল্লাহর কথা হয়ে যায়, যেমনটা ফাররা বলেছিলেন।"
+          },
+          {
+            "en": "Al-Farra', cited by both, also allows aw to mean hatta, until: no one was given what you were given of religion and proof, until they would dispute with you before your Lord. A third view, from Qatada and ar-Rabi' in at-Tabari, makes the middle a rebuke to the Jews: when Allah sent down a Book like your Book and a prophet like your prophet, you envied them. Al-Baghawi links this to the reading of the Qur'an reader Ibn Kathir, who drew out a-an yu'ta as a question: because someone is given the like of what you were given, you envy him?",
+            "bn": "দুজনেই ফাররার আরেকটি সম্ভাবনার কথা আনেন: আও এখানে হাত্তা, অর্থাৎ 'যতক্ষণ না'। তখন অর্থ দাঁড়ায়, দ্বীন ও প্রমাণের যা তোমাদের দেওয়া হয়েছে, তা আর কাউকে দেওয়া হয়নি, যতক্ষণ না তারা তোমাদের রবের কাছে তোমাদের সঙ্গে বিতর্ক করে। তাবারী কাতাদা ও রাবী' থেকে তৃতীয় একটি মত আনেন, যাতে মাঝের অংশটা ইয়াহূদীদের প্রতি তিরস্কার: আল্লাহ যখন তোমাদের কিতাবের মতো এক কিতাব নাযিল করলেন আর তোমাদের নবীর মতো এক নবী পাঠালেন, তোমরা তাদের হিংসা করলে। বাগাভী একে কারী ইবন কাসীরের কিরাআতের সঙ্গে মেলান। তিনি আ-আন ইউ'তা টেনে প্রশ্ন হিসেবে পড়েছেন: তোমাদের মতো কিছু অন্য কেউ পেয়েছে বলে কি তোমরা তাকে হিংসা করছ?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lest They Learn and Argue",
+          "bn": "পাছে ওরা শিখে তর্ক করে"
+        },
+        "p": [
+          {
+            "en": "A fourth parsing keeps the words with the faction but hears in them a motive of secrecy. At-Tabari records Ibn Jurayj: some said to others, do not tell them what Allah has made clear to you in His Book, lest they dispute with you by it before your Lord. Ibn Kathir reads the verse the same way. Do not show the Muslims your knowledge, the faction says, or they will learn it, become your equals and surpass you through the strength of their faith in it, or take it as proof against you before Allah, in this world and the next. Al-Muyassar agrees.",
+            "bn": "চতুর্থ পাঠে কথাগুলো সেই দলেরই থাকে, তবে তার ভেতরে শোনা যায় গোপন রাখার তাগিদ। তাবারী ইবন জুরাইজের কথা আনেন: তাদের কেউ কেউ অন্যদের বলল, আল্লাহ তাঁর কিতাবে তোমাদের কাছে যা স্পষ্ট করেছেন, তা ওদের জানিয়ো না, পাছে ওরা তা দিয়েই তোমাদের রবের কাছে তোমাদের সঙ্গে বিতর্ক করে। ইবন কাসীরও আয়াতটি এভাবেই পড়েন। দলটি বলছে, তোমাদের জ্ঞান মুসলিমদের সামনে প্রকাশ কোরো না। তাহলে ওরা তা শিখে নেবে, তোমাদের সমান হবে, আর তাতে দৃঢ় ঈমানের জোরে তোমাদের ছাড়িয়েও যাবে। কিংবা দুনিয়া ও আখিরাতে আল্লাহর কাছে সেটাকেই তোমাদের বিরুদ্ধে প্রমাণ বানাবে। মুয়াসসারও একমত।"
+          },
+          {
+            "en": "As-Sa'di draws out the logic. They thought that by withholding what they knew they could cut knowledge off from the believers, since, in their own claim, knowledge was found only with them, and telling would give the believers a case against them. Allah answered: the guidance is Allah's guidance. Its source, as-Sa'di says, is Allah for everyone who is guided, and there is no knowledge except what His messengers brought. So the parsings stand side by side: at-Tabari has his preference, others read otherwise, and this article chooses none of them.",
+            "bn": "সা'দী এর পেছনের যুক্তিটা খুলে দেখান। তারা ভেবেছিল, নিজেদের জানা কথা চেপে রাখলেই মুমিনদের কাছে জ্ঞান পৌঁছানোর পথ বন্ধ হয়ে যাবে। কারণ তাদের দাবি ছিল, জ্ঞান কেবল তাদের কাছেই আছে। আর জানিয়ে দিলে মুমিনদের হাতে তাদের বিরুদ্ধে যুক্তি চলে যাবে। আল্লাহ জবাব দিলেন: হিদায়াত তো আল্লাহরই হিদায়াত। সা'দী বলেন, যে-ই হিদায়াত পায়, তার হিদায়াতের উৎস আল্লাহ, আর রাসূলরা যা এনেছেন তার বাইরে কোনো জ্ঞান নেই। পাঠগুলো তাই পাশাপাশি দাঁড়িয়ে থাকে। তাবারীর নিজের পছন্দ আছে, অন্যরা ভিন্নভাবে পড়েন, আর এই লেখা কোনোটিকেই বেছে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Bounty and Its Giver",
+          "bn": "অনুগ্রহ আর তার দাতা"
+        },
+        "p": [
+          {
+            "en": "Whatever the middle means, the verse ends on a second say: inna al-fadla bi-yadi llah, yu'tihi man yasha', the bounty is in Allah's hand; He gives it to whom He wills. At-Tabari reads it as Allah belying the faction's claim that none is given the like of what they were given: say to them, that is not yours to decide; it belongs to Allah, in whose hand are all things. The bounty, he says, is enabling to faith and guidance to Islam, and Ibn Jurayj names it in a word: Islam. Allah is wasi', ample in bounty, and 'alim, knowing who is fit for it.",
+            "bn": "মাঝের অংশের অর্থ যা-ই হোক, আয়াত শেষ হয় দ্বিতীয় এক 'বলুন' দিয়ে: ইন্নাল ফাদলা বিয়াদিল্লাহ, ইউ'তীহি মান ইয়াশা, অনুগ্রহ আল্লাহর হাতে, যাকে ইচ্ছা তিনি তা দেন। তাবারীর মতে এ হলো দলটির দাবির জবাবে আল্লাহর পক্ষ থেকে তাদের মিথ্যা প্রমাণ। তাদের দাবি ছিল, তাদের মতো আর কাউকে দেওয়া হয় না। জবাব: তাদের বলে দিন, এ ফয়সালা তোমাদের হাতে নয়, এটা আল্লাহর, যাঁর হাতে সবকিছু। তাবারী বলেন, এই অনুগ্রহ হলো ঈমানের তাওফীক আর ইসলামের হিদায়াত। ইবন জুরাইজ এক শব্দে বলেন: ইসলাম। আর আল্লাহ ওয়াসি', অনুগ্রহে প্রশস্ত, আর আলীম, জানেন কে এর উপযুক্ত।"
+          },
+          {
+            "en": "Al-Qurtubi follows the verse with a report attributed to the Prophet ﷺ, with no source or grading, about the earlier peoples disputing with the Muslims before their Lord over a reward; it is not confirmed here, so it is only mentioned. A sound narration on that theme is in Sahih al-Bukhari (557), though al-Bukhari does not attach it to this verse. Salim ibn Abdullah reports from his father that the Prophet ﷺ likened the people of the Torah, the Gospel and the Qur'an to workers: the first worked till midday and the second till 'Asr for a qirat each, and the last till sunset for two qirats each.",
+            "bn": "কুরতুবী এ আয়াতের আলোচনায় নবী ﷺ-এর নামে একটি বর্ণনা আনেন, কোনো সূত্র বা মান উল্লেখ না করে। বিষয়টা হলো, প্রতিদান নিয়ে আগের দুই জাতি রবের সামনে মুসলিমদের সঙ্গে বিতর্ক করবে। এখানে তা যাচাই করা যায়নি, তাই শুধু উল্লেখ করা হলো। একই বিষয়ে একটি সহীহ বর্ণনা আছে সহীহ বুখারীতে (৫৫৭), যদিও বুখারী নিজে একে এ আয়াতের সঙ্গে যুক্ত করেননি। সালিম ইবন আবদুল্লাহ তাঁর পিতা থেকে বর্ণনা করেন, নবী ﷺ তাওরাত, ইনজীল আর কুরআনের অনুসারীদের তুলনা করেছেন শ্রমিকের সঙ্গে। প্রথম দল কাজ করল দুপুর পর্যন্ত, দ্বিতীয় দল আসর পর্যন্ত, প্রত্যেকে পেল এক কীরাত করে। আর শেষ দল সূর্যাস্ত পর্যন্ত কাজ করে প্রত্যেকে পেল দুই কীরাত।"
+          },
+          {
+            "en": "None of the commentaries read here ties a sound hadith to 3:73 itself. The closing exchange, in al-Bukhari's wording: “On that the people of both the scriptures said, 'O our Lord! You have given them two Qirats and given us one Qirat, though we have worked more than they.' Allah said, 'Have I usurped some of your right?' They said, 'No.' Allah said: 'That is my blessing I bestow upon whomsoever I wish.'” The last words come close to the verse's own: the bounty is His, given to whom He wills, and nobody's due is taken by His giving to another.",
+            "bn": "এখানে পড়া কোনো তাফসীর ৩:৭৩ আয়াতের সঙ্গে সরাসরি কোনো সহীহ হাদীস যুক্ত করেনি। বুখারীর বর্ণনায় শেষ কথোপকথনটা এমন: “তখন দুই কিতাবের অনুসারীরা বলল, হে আমাদের রব! আপনি এদের দিলেন দুই কীরাত করে, আর আমাদের দিলেন একটি করে কীরাত, অথচ আমরা কাজ করেছি বেশি। আল্লাহ বললেন, আমি কি তোমাদের প্রাপ্য থেকে কিছু কেড়ে নিয়েছি? তারা বলল, না। আল্লাহ বললেন: এ আমার অনুগ্রহ, যাকে ইচ্ছা তাকে দিই।” শেষ কথাগুলো আয়াতের ভাষার খুব কাছাকাছি: অনুগ্রহ তাঁর, তিনি যাকে ইচ্ছা দেন, আর অন্যকে দেওয়ায় কারও প্রাপ্য থেকে কিছু কমে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rationing What I Was Given",
+          "bn": "পাওয়া জিনিস যখন আটকে রাখি"
+        },
+        "p": [
+          {
+            "en": "The faction's fear is an old one: if others learn what we know, they will equal us, perhaps surpass us. It lives on in the colleague who keeps the method to himself, the teacher who never quite explains the last step, and the believer who quietly resents a newcomer's zeal. The verse answers all of them alike. Guidance is Allah's to give, and bounty is in His hand. What I know was given to me, and passing it on takes nothing from what He gave. Is there a gift I have been rationing, or begrudging in someone else?",
+            "bn": "সেই দলের ভয়টা পুরনো: আমরা যা জানি, অন্যরা তা শিখে ফেললে আমাদের সমান হয়ে যাবে, হয়তো ছাড়িয়েও যাবে। এ ভয় আজও বেঁচে আছে। সেই সহকর্মীর মধ্যে, যে কাজের কৌশলটা নিজের কাছে রেখে দেয়। সেই শিক্ষকের মধ্যে, যিনি শেষ ধাপটা কখনো পুরো খুলে বলেন না। সেই দ্বীনদারের মধ্যে, যে নতুন আসা কারও উদ্যম দেখে মনে মনে জ্বলে। আয়াত সবাইকে একই জবাব দেয়। হিদায়াত দেওয়ার মালিক আল্লাহ, অনুগ্রহ তাঁর হাতে। আমি যা জানি, তা আমাকে দেওয়া হয়েছে। অন্যকে জানালে তাঁর দেওয়া থেকে কিছুই কমে না। এমন কোনো নিয়ামত কি আছে, যা আমি আটকে রেখেছি, কিংবা অন্যের হাতে দেখে যার জন্য মনে হিংসা পুষেছি?"
+          }
+        ]
+      }
+    ]
+  },
   "3:76-77": {
     "sections": [
       {

@@ -30563,6 +30563,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When truth meets rejection, be among those who answer the call to stand for Allah, and let your faith show as submission, not only as words.",
     "lessonBn": "সত্য যখন প্রত্যাখ্যানের মুখে পড়ে, আল্লাহর জন্য দাঁড়ানোর ডাকে যারা সাড়া দেয়, তাদের একজন হোন। আর আপনার ঈমান যেন শুধু কথায় নয়, আত্মসমর্পণে দেখা দেয়।"
+  },
+  "3:73": {
+    "reflectionEn": "A faction makes its plans in private: profess faith in the morning, drop it by evening, and confide what you know only to your own. Keep your knowledge from them, they say, or they may come to equal you, or argue against you before your Lord. Twice the verse breaks in with Say. Guidance is Allah's guidance. Bounty is in Allah's hand; He gives it to whom He wills. The verse describes that faction and licenses nothing against anyone living. The mirror is for me. I too can treat what I was given as stock to ration: keeping back what I know so no one catches up, resenting a gift that went to someone I thought less deserving. Was any of it mine to ration?",
+    "reflectionBn": "একটি দল গোপনে পরিকল্পনা করে। সকালে ঈমানের কথা মুখে আনো, সন্ধ্যায় তা ছেড়ে দাও, আর যা জানো তা কেবল নিজেদের লোককে বলো। তারা বলে, তোমাদের জ্ঞান ওদের কাছ থেকে আড়ালে রাখো, নইলে ওরা তোমাদের সমান হয়ে যাবে, কিংবা তোমাদের রবের সামনে তোমাদের বিরুদ্ধেই যুক্তি দাঁড় করাবে। এর মাঝে আয়াত দুবার থামিয়ে দিয়ে বলে: বলুন। হিদায়াত আল্লাহরই হিদায়াত। অনুগ্রহ আল্লাহর হাতে, যাকে ইচ্ছা তিনি দেন। আয়াতটি সেই দলের কথা বলে, আজকের কোনো মানুষের বিরুদ্ধে কিছুরই অনুমতি দেয় না। আয়নাটা আমার জন্য। আমিও তো যা পেয়েছি তাকে মজুদ মাল ভেবে মেপে মেপে দিতে পারি। কেউ যেন ধরে না ফেলে, তাই জানা কথা চেপে রাখি। যাকে কম যোগ্য ভাবি, সে কোনো নিয়ামত পেলে মনে জ্বালা ধরে। অথচ এর কোনোটা কি আমার মেপে দেওয়ার জিনিস ছিল?",
+    "pointsEn": [
+      "Is there knowledge or a skill I keep to myself mainly so that no one will catch up with me?",
+      "When someone I think less deserving is given something good, what is my first feeling, and what changes if I tell myself that bounty is in Allah's hand?",
+      "Do I treat guidance as the property of my own circle, or as Allah's gift that He gives to whom He wills?",
+      "Have I ever shown one face in public and another among my own people, to win an argument rather than to find the truth?",
+      "Which blessing in my life have I been counting as my own achievement instead of a gift from His hand?"
+    ],
+    "pointsBn": [
+      "এমন কোনো জ্ঞান বা দক্ষতা কি আছে, যা আমি মূলত এ জন্যই নিজের কাছে রাখি যেন কেউ আমার সমান হয়ে না যায়?",
+      "যাকে আমি কম যোগ্য মনে করি, সে ভালো কিছু পেলে আমার মনে প্রথমে কী জাগে? আর যদি নিজেকে বলি যে অনুগ্রহ আল্লাহর হাতে, তাহলে কী বদলায়?",
+      "হিদায়াতকে আমি কি নিজের দলের সম্পত্তি ভাবি, নাকি আল্লাহর দান, যা তিনি যাকে ইচ্ছা দেন?",
+      "সত্য খোঁজার জন্য নয়, শুধু তর্কে জেতার জন্য আমি কি কখনো বাইরে এক চেহারা আর নিজেদের লোকের মধ্যে আরেক চেহারা দেখিয়েছি?",
+      "জীবনের কোন নিয়ামতকে আমি তাঁর হাতের দান না ভেবে নিজের কৃতিত্ব বলে গুনে আসছি?"
+    ],
+    "lessonEn": "Guidance and bounty are in Allah's hand alone: do not hoard what you know out of rivalry, and do not resent what He gives to others.",
+    "lessonBn": "হিদায়াত আর অনুগ্রহ কেবল আল্লাহর হাতে। প্রতিযোগিতার জেদে জানা কথা আটকে রাখবেন না, আর তিনি অন্যকে যা দেন তা নিয়ে মনে ক্ষোভ পুষবেন না।"
   }
 };
 
