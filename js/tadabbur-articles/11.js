@@ -5947,6 +5947,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:110": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Inherited Idols to Scripture",
+          "bn": "বাপদাদার মূর্তি থেকে কিতাবে"
+        },
+        "p": [
+          {
+            "en": "The preceding verse told the Prophet ﷺ not to be in doubt about what his opponents worshipped: they only worshipped as their fathers had worshipped before, and they would be paid their share undiminished. Then, in 11:110, the subject changes. The idols of Makkah give way to the Book of Musa (AS). Ibn Kathir marks the turn in a single line: then Allah mentioned that He gave Musa the Book, and people differed over it, some believing in it and some disbelieving.",
+            "bn": "আগের আয়াতে নবী ﷺ-কে বলা হয়েছিল, তাঁর বিরোধীরা কীসের ইবাদত করে, তা নিয়ে যেন তিনি সন্দেহে না থাকেন। তারা তো বাপদাদাদের দেখাদেখিই ইবাদত করে, আর তাদের প্রাপ্য অংশ কমতি ছাড়াই পুরো দেওয়া হবে। ১১:১১০ আয়াতে এসে প্রসঙ্গ বদলে যায়। মক্কার মূর্তির জায়গায় আসে মূসা (আঃ)-এর কিতাব। ইবন কাসীর এক লাইনেই এই মোড়টা চিহ্নিত করেন: এরপর আল্লাহ জানালেন, তিনি মূসাকে কিতাব দিয়েছিলেন, আর লোকেরা তা নিয়ে মতভেদ করল। কেউ তাতে ঈমান আনল, কেউ কুফরি করল।"
+          },
+          {
+            "en": "The verse has three clauses in eighteen Arabic words. First, a Book is given and then disputed. Second, a word that went before from your Lord holds back the judgement that would otherwise have fallen. Third, those spoken of are in a doubt that unsettles them. After it, 11:111 promises that your Lord will repay each in full for their deeds, and 11:112 commands the Prophet ﷺ and those who turned back with him to stand firm as commanded.",
+            "bn": "আরবিতে আঠারো শব্দের আয়াতটিতে তিনটি অংশ। প্রথমে কিতাব দেওয়া হলো, তারপর তা নিয়ে মতভেদ হলো। দ্বিতীয়ত, তোমার রবের পক্ষ থেকে আগেই একটা কথা বলা হয়ে গেছে, সেটাই আটকে রেখেছে সেই ফায়সালা, যা না হলে এসে পড়ত। তৃতীয়ত, যাদের কথা বলা হচ্ছে, তারা এমন সন্দেহে পড়ে আছে, যা তাদের অস্থির করে রাখে। পরের আয়াত ১১:১১১ জানায়, তোমার রব প্রত্যেককে তার আমলের পুরো প্রতিফল দেবেন। তারপর ১১:১১২ নবী ﷺ আর তাঁর সঙ্গে যারা তওবা করে ফিরেছে, তাদের আদেশ দেয় যেভাবে বলা হয়েছে সেভাবে অবিচল থাকতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Book, Two Responses",
+          "bn": "এক কিতাব, দুই রকম সাড়া"
+        },
+        "p": [
+          {
+            "en": "Which Book is meant? At-Tabari, al-Baghawi, as-Sa'di and the Muyassar all name it: the Torah. At-Tabari adds a comparison that frames everything after it. We gave Musa the Book, he paraphrases, just as We gave you the Furqan, the Criterion, his name here for the Qur'an. The verse is therefore not only history about another nation. It holds up the reception of one revelation beside the reception of another, so that the Prophet ﷺ can see his own situation in an earlier one.",
+            "bn": "কোন কিতাবের কথা বলা হচ্ছে? তাবারী, বাগাভী, সা'দী আর মুয়াসসার, সবাই নাম বলে দেন: তাওরাত। তাবারী এর সঙ্গে একটা তুলনা জুড়ে দেন, যা পরের পুরো আলোচনার কাঠামো ঠিক করে দেয়। তাঁর ব্যাখ্যায় কথাটা এমন: আমি মূসাকে কিতাব দিয়েছিলাম, যেমন তোমাকে দিয়েছি ফুরকান। এখানে ফুরকান বলতে তিনি কুরআনকেই বোঝান, যা সত্য-মিথ্যার পার্থক্য করে দেয়। কাজেই আয়াতটি শুধু অন্য এক জাতির ইতিহাস নয়। এক ওহী মানুষ কীভাবে গ্রহণ করেছিল, তা পাশাপাশি রাখা হয়েছে আরেক ওহীর গ্রহণের সঙ্গে, যাতে নবী ﷺ নিজের অবস্থা আগের এক অবস্থার মধ্যে দেখতে পান।"
+          },
+          {
+            "en": "The verb fa-ukhtulifa fihi is passive: it was differed over. The verse does not say who differed, and the commentators supply it. At-Tabari says the people of Musa differed over that Book, some of them denying it and some affirming it, just as your people have done with the Furqan. Al-Baghawi has some who affirmed it and some who denied it. The Muyassar says a group believed in it and others disbelieved, as your people did with the Qur'an.",
+            "bn": "ফাখতুলিফা ফীহি ক্রিয়াটি কর্মবাচ্যে: তা নিয়ে মতভেদ করা হলো। কারা মতভেদ করল, আয়াত তা বলে না। তাফসীরকারেরা সেটা পূরণ করে দেন। তাবারী বলেন, মূসা (আঃ)-এর কওম সেই কিতাব নিয়ে মতভেদ করেছিল। তাদের কেউ তা মিথ্যা বলেছিল, কেউ সত্য বলে মেনেছিল, ঠিক যেমন তোমার কওম ফুরকানের সঙ্গে করেছে। বাগাভী বলেন, কেউ সত্যায়ন করল, কেউ মিথ্যা বলল। মুয়াসসার বলে, একদল তাতে ঈমান আনল আর অন্যরা কুফরি করল, যেমন তোমার কওম কুরআনের সঙ্গে করেছে।"
+          },
+          {
+            "en": "As-Sa'di draws the line in a different place. The Torah, he says, was a Book that called for agreement on its commands and prohibitions and for unity around them. Yet those who traced themselves to it differed over it, in a way that damaged their beliefs and their religious community. For the others the split runs between believers and deniers. For as-Sa'di it also runs inside the community that held the Book. The fetched texts state the two emphases side by side and do not weigh one against the other.",
+            "bn": "সা'দী বিভাজনের রেখাটা টানেন অন্য জায়গায়। তাঁর মতে তাওরাত এমন কিতাব, যা দাবি করে তার আদেশ-নিষেধে সবাই একমত হবে আর এক হয়ে থাকবে। তবু যারা নিজেদের এই কিতাবের অনুসারী বলে পরিচয় দিত, তারাই এ নিয়ে এমনভাবে মতভেদ করল, যাতে তাদের আকীদা নষ্ট হলো, তাদের ধর্মীয় ঐক্যও ভেঙে গেল। বাকিদের কাছে বিভাজনটা ঈমানদার আর অস্বীকারকারীর মধ্যে। সা'দীর কাছে তা কিতাবধারী সমাজের ভেতরেও। সংগৃহীত লেখাগুলো দুটি ঝোঁক পাশাপাশি রাখে, একটিকে অন্যটির উপর প্রাধান্য দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Comfort Sent to Makkah",
+          "bn": "মক্কার জন্য সান্ত্বনা"
+        },
+        "p": [
+          {
+            "en": "Why tell the Prophet ﷺ this? At-Tabari answers at the start of his comment: Allah says it consoling His Prophet over the polytheists of his people denying what he brought them from Allah, by recalling what the Children of Israel did with Musa over what he had brought them. He then gives the sense as a direct address: do not let the denial of these polytheists grieve you, O Muhammad, and carry on with what your Lord has commanded you, conveying His message.",
+            "bn": "নবী ﷺ-কে এ কথা শোনানো হলো কেন? তাবারী তাঁর আলোচনার শুরুতেই উত্তর দেন। আল্লাহর কাছ থেকে নবী ﷺ যা এনেছিলেন, তাঁর কওমের মুশরিকরা তা মিথ্যা বলছিল। এ নিয়ে আল্লাহ তাঁকে সান্ত্বনা দিচ্ছেন বনী ইসরাঈলের আচরণের কথা মনে করিয়ে, মূসা (আঃ) আল্লাহর কাছ থেকে যা এনেছিলেন, তার সঙ্গে তারা যা করেছিল। তারপর তাবারী অর্থটা সরাসরি সম্বোধনের ভাষায় বলেন: হে মুহাম্মাদ, এই মুশরিকদের মিথ্যা বলা যেন তোমাকে দুঃখ না দেয়। তোমার রব তোমাকে যে আদেশ দিয়েছেন, তাঁর বার্তা পৌঁছে দেওয়ার কাজ, তা চালিয়ে যাও।"
+          },
+          {
+            "en": "At-Tabari then names the pattern. What these people are doing to you, he says, turning back the sincere counsel you brought them, is what their like among the nations before them did, one practice among their practices. Ibn Kathir puts the same comfort in terms of example: you have, O Muhammad, a model in the prophets who came before you, so do not let their denial of you enrage you or shake you. Al-Baghawi says it in two words: He consoles His Prophet ﷺ.",
+            "bn": "এরপর তাবারী রীতিটার নাম বলেন। তাঁর কথায়, তুমি যে আন্তরিক নসীহত এনেছ, তা তোমার মুখের উপর ফিরিয়ে দিয়ে এরা যা করছে, তা আগের জাতিগুলোর মধ্যে এদের মতো লোকেরাই করেছে। এ তাদের চলে আসা রীতিগুলোর একটি। ইবন কাসীর একই সান্ত্বনা দেন আদর্শের ভাষায়: হে মুহাম্মাদ, তোমার আগে যে নবীরা গেছেন, তাঁদের মধ্যে তোমার জন্য আদর্শ আছে। কাজেই এদের মিথ্যা বলা যেন তোমাকে রাগিয়ে না দেয়, বিচলিতও না করে। বাগাভী কথাটা বলেন দুই শব্দে: তিনি তাঁর নবী ﷺ-কে সান্ত্বনা দিচ্ছেন।"
+          },
+          {
+            "en": "Notice what this comfort does and does not do. It does not make the rejection go away. It places the rejection inside a longer story, so that it stops looking like a verdict on the messenger. And in at-Tabari's wording the comfort comes with an instruction attached: keep conveying. The consolation is not a reason to stop; it is a reason to carry on without the grief that would slow him down.",
+            "bn": "খেয়াল করুন, এ সান্ত্বনা কী করে আর কী করে না। প্রত্যাখ্যান এতে মুছে যায় না। এ বরং প্রত্যাখ্যানকে এক দীর্ঘ কাহিনির ভেতরে বসিয়ে দেয়, ফলে তা আর রাসূলের বিরুদ্ধে রায় বলে মনে হয় না। তাবারীর ভাষায় সান্ত্বনার সঙ্গে একটা নির্দেশও জোড়া আছে: পৌঁছে দিতে থাকো। এ সান্ত্বনা থেমে যাওয়ার কারণ নয়। এ হলো এমন দুঃখ ঝেড়ে ফেলে এগিয়ে চলার কারণ, যে দুঃখ তাঁর পথ ভারী করে দিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Spoken Beforehand",
+          "bn": "আগে থেকেই বলা কথা"
+        },
+        "p": [
+          {
+            "en": "Wa-lawla kalimatun sabaqat min rabbika: and were it not for a word that went before from your Lord. What is the word? At-Tabari: that He does not hasten punishment upon His creation, but takes His time until the decree reaches its term. The Muyassar repeats the first half almost exactly. Al-Baghawi says the word concerns deferring the punishment from them. Ibn Kathir quotes at-Tabari, under his other name Ibn Jarir: were it not for His having earlier deferred the punishment to a known term, Allah would have judged between them.",
+            "bn": "ওয়া লাওলা কালিমাতুন সাবাকাত মির রাব্বিক: আর যদি তোমার রবের পক্ষ থেকে একটি কথা আগেই না এসে যেত। কথাটা কী? তাবারীর ব্যাখ্যা: আল্লাহ তাঁর সৃষ্টির উপর শাস্তি তাড়াহুড়া করে নামান না, বরং ধীরে চলেন, যতক্ষণ না নির্ধারিত বিধান তার মেয়াদে পৌঁছায়। মুয়াসসার এর প্রথম অংশটা প্রায় হুবহু বলে। বাগাভীর মতে কথাটা তাদের থেকে শাস্তি পিছিয়ে দেওয়া নিয়ে। ইবন কাসীর তাবারীকে তাঁর অন্য নাম ইবন জারীর ধরে উদ্ধৃত করেন: শাস্তিকে আগেই এক জানা মেয়াদ পর্যন্ত পিছিয়ে না রাখলে আল্লাহ তাদের মধ্যে ফায়সালা করে দিতেন।"
+          },
+          {
+            "en": "Two commentators name how far the deferral reaches. Al-Qurtubi says the word is that Allah decreed to defer them to the Day of Resurrection, because of the good He knew lay in doing so; otherwise He would have settled their term between them, rewarding the believer and punishing the disbeliever. As-Sa'di says Allah's wisdom required that the judgement between them be delayed to the Day of Resurrection. At-Tabari and Ibn Kathir, in the text fetched here, speak of a term without naming its end.",
+            "bn": "শাস্তি কতদূর পিছানো হলো, দুজন তাফসীরকার তা স্পষ্ট করেন। কুরতুবী বলেন, কথাটা হলো আল্লাহ ফায়সালা করে রেখেছেন যে তাদের কিয়ামতের দিন পর্যন্ত অবকাশ দেবেন, কারণ তিনি জানেন এতেই কল্যাণ। তা না হলে তিনি তাদের মেয়াদ সেখানেই শেষ করে দিতেন, ঈমানদারকে পুরস্কার দিতেন আর কাফিরকে শাস্তি। সা'দী বলেন, আল্লাহর হিকমতের দাবি ছিল তাদের মধ্যকার ফায়সালা কিয়ামতের দিন পর্যন্ত পিছিয়ে রাখা। এখানে সংগৃহীত লেখায় তাবারী আর ইবন কাসীর মেয়াদের কথা বলেন, কিন্তু তার শেষ কোথায়, তা বলেন না।"
+          },
+          {
+            "en": "Ibn Kathir then adds a second possibility of his own, introduced with the word yuhtamal, it may be. The word may mean that Allah punishes no one until the proof has been established against him and a messenger sent to him, as in 17:15: and never would We punish until We sent a messenger. He sets beside it 20:129 and 20:130, where the same opening, were it not for a word that went before from your Lord, is followed by a specified term and the command: so be patient over what they say.",
+            "bn": "এরপর ইবন কাসীর নিজের পক্ষ থেকে আরেকটা সম্ভাবনা যোগ করেন, শুরু করেন ইউহতামাল শব্দ দিয়ে, অর্থাৎ হতে পারে। কথাটার অর্থ হতে পারে, কারও বিরুদ্ধে দলিল প্রতিষ্ঠিত না হওয়া আর তার কাছে রাসূল না পাঠানো পর্যন্ত আল্লাহ কাউকে শাস্তি দেন না। যেমন ১৭:১৫ আয়াতে আছে: আমি রাসূল না পাঠানো পর্যন্ত শাস্তি দিই না। এর পাশে তিনি রাখেন ২০:১২৯ ও ২০:১৩০ আয়াত। সেখানেও একই সূচনা, তোমার রবের পক্ষ থেকে আগে একটি কথা না থাকলে। তারপর আসে এক নির্দিষ্ট মেয়াদের উল্লেখ আর এই আদেশ: কাজেই তারা যা বলে, তাতে ধৈর্য ধরো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Judgement Held Back",
+          "bn": "স্থগিত রাখা ফায়সালা"
+        },
+        "p": [
+          {
+            "en": "La-qudiya baynahum: it would have been judged between them. The commentators agree on what that judgement would have looked like. At-Tabari: it would have been decided between the denier among them and the affirmer, by Allah destroying whoever denied and rescuing whoever affirmed. The Muyassar: Allah's decree would have come down on them in their worldly life, destroying the deniers and saving the believers. Al-Baghawi: they would have been punished on the spot, their punishment and destruction finished. As-Sa'di: by bringing the penalty down on the wrongdoer.",
+            "bn": "লাকুদিয়া বাইনাহুম: তাদের মধ্যে ফায়সালা হয়ে যেত। সেই ফায়সালা দেখতে কেমন হতো, এ নিয়ে তাফসীরকারেরা একমত। তাবারী বলেন, তাদের মধ্যে যে মিথ্যা বলেছে আর যে সত্য মেনেছে, দুজনের মধ্যে মীমাংসা হয়ে যেত। আল্লাহ অস্বীকারকারীকে ধ্বংস করতেন, সত্য মান্যকারীকে বাঁচাতেন। মুয়াসসার বলে, দুনিয়ার জীবনেই তাদের উপর আল্লাহর ফায়সালা নেমে আসত, অস্বীকারকারীরা ধ্বংস হতো, ঈমানদাররা রক্ষা পেত। বাগাভী বলেন, তখনই তাদের শাস্তি হতো, শাস্তি আর ধ্বংসের পালা চুকে যেত। সা'দী বলেন, জালিমের উপর শাস্তি নামিয়ে।"
+          },
+          {
+            "en": "Between whom, though? Here al-Qurtubi records two views, each introduced with qila, it is said. In the first, the judgement is between those who differed over the Book of Musa, since they were split between affirming it and denying it. In the second, it is between those who differ about you, O Muhammad, by hastening their punishment, except that the ruling had already gone before to defer punishment from this community until the Day of Resurrection. He gives both and does not choose. The same sentence stands again, word for word, in 41:45.",
+            "bn": "কিন্তু কাদের মধ্যে? এখানে কুরতুবী দুটি মত উল্লেখ করেন, দুটিই কীলা, অর্থাৎ বলা হয়েছে, দিয়ে শুরু। এক মতে ফায়সালাটা মূসা (আঃ)-এর কিতাব নিয়ে যারা মতভেদ করেছিল তাদের মধ্যে, কারণ তারা কেউ তা সত্য মেনেছিল, কেউ মিথ্যা বলেছিল। অন্য মতে ফায়সালাটা হে মুহাম্মাদ, তোমাকে নিয়ে যারা মতভেদ করছে তাদের মধ্যে, তাদের শাস্তি দ্রুত নামিয়ে। কিন্তু আগেই বিধান হয়ে গেছে যে এই উম্মতের শাস্তি কিয়ামতের দিন পর্যন্ত পিছিয়ে থাকবে। তিনি দুটিই বলেন, কোনোটি বেছে নেন না। হুবহু একই বাক্য আবার এসেছে ৪১:৪৫ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Doubt That Will Not Settle",
+          "bn": "যে সন্দেহ থিতু হয় না"
+        },
+        "p": [
+          {
+            "en": "Wa-innahum la-fi shakkin minhu murib: and they are in doubt about it, a disquieting doubt. At-Tabari explains murib as a doubt that unsettles them, so that they do not know whether it is true or false; they are wavering over it. Al-Baghawi says it is a doubt that throws them into suspicion and accusation. Ibn Kathir calls it a strong doubt. The verse does not describe settled disbelief. It describes people who cannot come to rest either way, and whose doubt itself breeds further unease.",
+            "bn": "ওয়া ইন্নাহুম লাফী শাক্কিম মিনহু মুরীব: আর তারা তা নিয়ে সন্দেহে আছে, অস্থির করা সন্দেহে। তাবারী মুরীবের ব্যাখ্যা দেন এভাবে: এমন সন্দেহ যা তাদের অস্থির করে রাখে, ফলে তারা বুঝতে পারে না এটা সত্য না মিথ্যা। তারা এ নিয়ে দোদুল্যমান। বাগাভী বলেন, এ সন্দেহ মানুষকে ফেলে দেয় সংশয় আর অপবাদের মধ্যে। ইবন কাসীর একে বলেন প্রবল সন্দেহ। আয়াতটি স্থির অবিশ্বাসের ছবি আঁকে না। আঁকে এমন মানুষের ছবি, যারা কোনো দিকেই থিতু হতে পারে না, আর যাদের সন্দেহ নিজেই আরও অস্থিরতা জন্ম দেয়।"
+          },
+          {
+            "en": "Doubt about what, and whose doubt? At-Tabari keeps the sentence with the people of Musa: the deniers among them are in doubt about its reality, that it is from Allah. Ibn Kathir turns it towards the Prophet's audience: the disbelievers are in doubt about what the Messenger brought them. The Muyassar says the disbelievers among the Jews and the polytheists, O Messenger, are in doubt about this Qur'an. The Saheeh International translation follows the second reading with a bracket: concerning it, that is, the Qur'an.",
+            "bn": "কী নিয়ে সন্দেহ, আর কাদের সন্দেহ? তাবারী বাক্যটাকে মূসা (আঃ)-এর কওমের সঙ্গেই রাখেন: তাদের মধ্যে যারা অস্বীকার করেছিল, তারা এর প্রকৃত রূপ নিয়ে, এটা যে আল্লাহর কাছ থেকে এসেছে, সে বিষয়ে সন্দেহে আছে। ইবন কাসীর কথাটাকে ঘুরিয়ে দেন নবী ﷺ-এর শ্রোতাদের দিকে: কাফিররা রাসূল তাদের কাছে যা এনেছেন, তা নিয়ে সন্দেহে আছে। মুয়াসসার বলে, হে রাসূল, ইহুদি আর মুশরিকদের মধ্যে যারা কাফির, তারা এই কুরআন নিয়ে সন্দেহে আছে। সহীহ ইন্টারন্যাশনালের ইংরেজি অনুবাদও বন্ধনী দিয়ে দ্বিতীয় পাঠটাই নিয়েছে: এ নিয়ে, অর্থাৎ কুরআন নিয়ে।"
+          },
+          {
+            "en": "As-Sa'di joins the two readings. They remained in disquieting doubt about their own Book, he says, and then reasons: if that was their state with their own scripture, it is not surprising of the Jewish community that they would not believe in the Qur'an revealed to you, and would doubt it too. Al-Qurtubi names both referents: taken of Musa's people, it is doubt about Musa's Book; he also speaks of doubt about the Qur'an. His text as fetched is compressed, so how he links the two is not stated here.",
+            "bn": "সা'দী দুই পাঠকে জুড়ে দেন। তাঁর কথায়, তারা নিজেদের কিতাব নিয়েই অস্থির সন্দেহে থেকে গেছে। তারপর তিনি যুক্তি দেন: নিজেদের কিতাবের সঙ্গেই যখন এই দশা, তখন ইহুদি সম্প্রদায় তোমার উপর নাযিল হওয়া কুরআনে ঈমান না আনলে, তা নিয়ে সন্দেহ করলে, অবাক হওয়ার কিছু নেই। কুরতুবী দুটি উদ্দিষ্টেরই উল্লেখ করেন। মূসা (আঃ)-এর কওমের দিকে ধরলে এ সন্দেহ মূসার কিতাব নিয়ে। আবার তিনি কুরআন নিয়ে সন্দেহের কথাও বলেন। তবে সংগৃহীত লেখায় তাঁর বক্তব্য সংক্ষিপ্ত, দুটিকে তিনি কীভাবে জোড়েন, তা এখানে স্পষ্ট নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verdict Left to Allah",
+          "bn": "চূড়ান্ত রায় আল্লাহর কাছে"
+        },
+        "p": [
+          {
+            "en": "This has to be said plainly. The verse describes what happened among the people of Musa (AS) after the Torah was given, and how the deniers of the Prophet's own time received the Qur'an. When the Muyassar and as-Sa'di mention Jews, they are explaining that history. The verse licenses nothing against any Jewish person today, or against any living person or community. It also gives no one the right to say who among the people of an earlier Book believed and who denied.",
+            "bn": "কথাটা স্পষ্ট করে বলা দরকার। তাওরাত দেওয়ার পর মূসা (আঃ)-এর কওমের মধ্যে কী ঘটেছিল, আর নবী ﷺ-এর নিজের যুগের অস্বীকারকারীরা কুরআনকে কীভাবে নিয়েছিল, আয়াতটি সেটুকুই বর্ণনা করে। মুয়াসসার আর সা'দী ইহুদিদের কথা বললে তাঁরা সেই ইতিহাসই ব্যাখ্যা করছেন। আজকের কোনো ইহুদি মানুষের বিরুদ্ধে, কিংবা জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আগের কিতাবের অনুসারীদের মধ্যে কে ঈমান এনেছিল আর কে অস্বীকার করেছিল, সে রায় দেওয়ার অধিকারও এ আয়াত কাউকে দেয় না।"
+          },
+          {
+            "en": "The verse itself gives the reason. The judgement between those who differed has been held back by Allah's own word, until a term He has set; al-Qurtubi and as-Sa'di place it on the Day of Resurrection. A reader who hurries to pronounce that judgement now is doing the very thing the verse says Allah Himself has deferred. Ibn Kathir reads the next verse, 11:111, as where it lands: Allah will gather the first and the last of the nations and repay them by their deeds, good for good and evil for evil.",
+            "bn": "কারণটা আয়াত নিজেই দেয়। যারা মতভেদ করেছে, তাদের মধ্যকার ফায়সালা আল্লাহ তাঁর নিজের কথায় পিছিয়ে রেখেছেন, তাঁরই ঠিক করা মেয়াদ পর্যন্ত। কুরতুবী আর সা'দী সেই মেয়াদ রাখেন কিয়ামতের দিনে। যে পাঠক সেই রায় এখনই ঘোষণা করতে তাড়াহুড়া করে, সে ঠিক সেই কাজটাই করে, যা আল্লাহ নিজে পিছিয়ে রেখেছেন বলে আয়াত জানাচ্ছে। ইবন কাসীর পরের আয়াত ১১:১১১-কে দেখেন সেই ফায়সালার গন্তব্য হিসেবে। আল্লাহ আগের ও পরের সব জাতিকে একত্র করবেন, আর তাদের আমল অনুযায়ী প্রতিফল দেবেন। ভালোর বদলে ভালো, মন্দের বদলে মন্দ।"
+          },
+          {
+            "en": "On sources, briefly. None of the commentaries fetched for this verse attaches a hadith to it, so there is no narration to report here. None of them gives an occasion of revelation either. The verse is read through its place in the surah: after the warning about inherited worship in 11:109, and before the promise of full repayment in 11:111 and the command to stand firm in 11:112.",
+            "bn": "সূত্র নিয়ে সংক্ষেপে। এই আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস জোড়েনি। তাই এখানে উল্লেখ করার মতো কোনো বর্ণনা নেই। শানে নুযূলও কেউ উল্লেখ করেননি। আয়াতটিকে তাই পড়তে হয় সূরার ভেতরে তার অবস্থান থেকে। ১১:১০৯ আয়াতে বাপদাদার দেখাদেখি ইবাদত নিয়ে সতর্কবাণীর পরে, আর ১১:১১১ আয়াতে পুরো প্রতিফলের প্রতিশ্রুতি ও ১১:১১২ আয়াতে অবিচল থাকার আদেশের আগে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Carrying On Without a Verdict",
+          "bn": "রায় ছাড়াই পথচলা"
+        },
+        "p": [
+          {
+            "en": "What does the verse leave with a reader today? First, that being turned away while carrying the truth is an old experience, older than Makkah. At-Tabari calls it one practice among the practices of earlier nations. If the Prophet ﷺ needed to hear that the Book of Musa (AS) was also disputed, an ordinary believer may need it more, when a sincere word is brushed aside at home, at work or among friends. The rejection does not by itself prove that the word was wrong.",
+            "bn": "আজকের পাঠকের হাতে আয়াতটি কী রেখে যায়? প্রথমত, সত্য বয়ে চলার সময় প্রত্যাখ্যাত হওয়া পুরোনো অভিজ্ঞতা, মক্কার চেয়েও পুরোনো। তাবারী একে বলেন আগের জাতিগুলোর রীতিগুলোর একটি। মূসা (আঃ)-এর কিতাব নিয়েও যে মতভেদ হয়েছিল, এ কথা যদি নবী ﷺ-কে শোনানোর দরকার হয়ে থাকে, তবে সাধারণ একজন মুমিনের তা আরও বেশি দরকার। ঘরে, কাজের জায়গায় বা বন্ধুদের মাঝে আন্তরিক একটা কথা যখন উড়িয়ে দেওয়া হয়, তখন তো বটেই। প্রত্যাখ্যান নিজে প্রমাণ করে না যে কথাটা ভুল ছিল।"
+          },
+          {
+            "en": "Second, that delay is not absence. A word went before from your Lord, and so the judgement waits; the verses after it promise full repayment and command steadfastness. Ibn Kathir's parallel in 20:130 draws the practical line: so be patient over what they say. A believer can ask Allah for firmness in what he was told to do, for patience while the matter is still open, and for a heart that is not shaken by other people's doubt about His Book.",
+            "bn": "দ্বিতীয়ত, দেরি মানে অনুপস্থিতি নয়। তোমার রবের পক্ষ থেকে আগেই একটা কথা হয়ে আছে, তাই ফায়সালা অপেক্ষায় আছে। পরের আয়াতগুলো পুরো প্রতিফলের প্রতিশ্রুতি দেয়, অবিচল থাকার আদেশ দেয়। ইবন কাসীর যে ২০:১৩০ আয়াত পাশে রাখেন, তা কাজের কথাটা বলে দেয়: কাজেই তারা যা বলে, তাতে ধৈর্য ধরো। একজন মুমিন আল্লাহর কাছে চাইতে পারেন, তাঁকে যা করতে বলা হয়েছে তাতে যেন অবিচল থাকতে পারেন। ব্যাপারটা যতদিন খোলা থাকে, ততদিন যেন ধৈর্য ধরতে পারেন। আর তাঁর কিতাব নিয়ে অন্যদের সন্দেহ যেন নিজের অন্তরকে নাড়িয়ে না দেয়।"
+          }
+        ]
+      }
+    ]
+  },
   "11:112": {
     "sections": [
       {

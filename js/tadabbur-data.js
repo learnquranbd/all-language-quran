@@ -32743,6 +32743,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A sign that answers your demand brings a duty with it. Sometimes the whole duty is restraint: leave what is Allah's unharmed, and do not treat a near warning as far.",
     "lessonBn": "যে নিদর্শন আপনার দাবির জবাবে আসে, তার সঙ্গে দায়িত্বও আসে। কখনো পুরো দায়িত্বটাই সংযম: যা আল্লাহর, তার ক্ষতি করবেন না, আর কাছের সতর্কবাণীকে দূরের ভাববেন না।"
+  },
+  "11:110": {
+    "reflectionEn": "Musa was given a Book, and his people split over it: some believed, some denied. The verse tells this to a Prophet whose own people were splitting over the Qur'an, and the telling is a comfort. What was happening to him was not new; it had happened to Musa first. Then it explains the delay: a word had already gone out from his Lord, so the judgement between the two sides waits for its appointed time. That waiting is not neglect. When truth I carry is turned away, do I read the rejection as proof that I failed? And when no verdict comes quickly, do I keep doing what I was asked to do?",
+    "reflectionBn": "মূসা (আঃ)-কে কিতাব দেওয়া হয়েছিল, আর সেই কিতাব নিয়ে তাঁর কওম দুই ভাগ হয়ে গেল। কেউ ঈমান আনল, কেউ মিথ্যা বলল। কথাটা শোনানো হচ্ছে এমন এক নবী ﷺ-কে, যাঁর নিজের কওম তখন কুরআন নিয়ে ভাগ হয়ে যাচ্ছিল। এ শোনানোটাই সান্ত্বনা। তাঁর সঙ্গে যা ঘটছে, তা নতুন কিছু নয়, মূসা (আঃ)-এর সঙ্গেও ঘটেছিল। তারপর আয়াত দেরির কারণটাও জানিয়ে দেয়: রবের পক্ষ থেকে একটা কথা আগেই স্থির হয়ে আছে, তাই দুই পক্ষের ফায়সালা অপেক্ষা করছে তার নির্ধারিত সময়ের জন্য। এ অপেক্ষা অবহেলা নয়। আমি যে সত্য বয়ে বেড়াই, লোকে তা ফিরিয়ে দিলে কি ধরে নিই যে আমিই ব্যর্থ? আর ফায়সালা তাড়াতাড়ি না এলে কি যা করতে বলা হয়েছে, তা করে যাই?",
+    "pointsEn": [
+      "When something true that I said was rejected, did I take it as a judgement on the truth, on me, or on neither?",
+      "Whose story do I turn to when I feel alone in holding to what is right?",
+      "Where am I impatient for Allah to settle a matter now, when He has set its time?",
+      "Have I let other people's doubt about the Qur'an unsettle my own reading of it?",
+      "What task have I been given that I would keep doing even if no one accepted it?"
+    ],
+    "pointsBn": [
+      "আমার বলা কোনো সত্য কথা যখন লোকে ফিরিয়ে দিয়েছে, আমি কি সেটাকে সত্যের বিচার ভেবেছি, নিজের বিচার ভেবেছি, নাকি কোনোটাই নয়?",
+      "ঠিক পথে নিজেকে একা মনে হলে আমি কার কাহিনির কাছে ফিরে যাই?",
+      "কোন ব্যাপারে আমি চাইছি আল্লাহ এখনই ফায়সালা করে দিন, অথচ তার সময় তিনি নিজেই ঠিক করে রেখেছেন?",
+      "কুরআন নিয়ে অন্যদের সন্দেহ কি আমার নিজের পড়াকে নাড়িয়ে দিয়েছে?",
+      "আমাকে এমন কোন দায়িত্ব দেওয়া হয়েছে, যা কেউ গ্রহণ না করলেও আমি চালিয়ে যাব?"
+    ],
+    "lessonEn": "Rejection of the truth is an old pattern, and Allah's delay in judging is decreed, not neglect. Keep doing what you were asked, and leave the verdict to Him.",
+    "lessonBn": "সত্যকে প্রত্যাখ্যান করা পুরোনো রীতি, আর ফায়সালায় আল্লাহর দেরি তাঁরই নির্ধারণ, অবহেলা নয়। যা করতে বলা হয়েছে করে যান, রায় তাঁর হাতে ছেড়ে দিন।"
   }
 };
 
