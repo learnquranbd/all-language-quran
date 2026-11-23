@@ -4363,6 +4363,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:96": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Seed to the Sky",
+          "bn": "বীজ থেকে আকাশের দিকে"
+        },
+        "p": [
+          {
+            "en": "The verse before this one opens with a name: Allah is faliq al-habbi wa-n-nawa, the One who splits the grain and the date stone (6:95). Ours carries the same word up to the sky: faliq al-isbah, the One who splits the daybreak. As-Sa'di draws the line between them in so many words. Just as He splits grain and stone, he writes, so He splits the dark of night that covers the face of the earth with the light of morning, opening it little by little until the whole of the darkness is gone.",
+            "bn": "আগের আয়াত শুরু হয়েছে একটি নাম দিয়ে: আল্লাহ ফালিকুল হাব্বি ওয়ান-নাওয়া, যিনি শস্যদানা আর খেজুরের আঁটি চিরে দেন (৬:৯৫)। আমাদের আয়াত সেই একই শব্দকে তুলে নিয়ে যায় আকাশে: ফালিকুল ইসবাহ, যিনি ভোরকে বিদীর্ণ করেন। দুটোর মাঝের যোগসূত্র সা'দী সরাসরি টেনে দেন। তাঁর কথায়, যেভাবে তিনি দানা আর আঁটি চিরে দেন, সেভাবেই রাতের ঘন অন্ধকার, যা গোটা পৃথিবীর মুখ ঢেকে রাখে, তা তিনি চিরে দেন ভোরের আলো দিয়ে। একটু একটু করে খোলেন, যতক্ষণ না রাতের সব অন্ধকার সরে যায়।"
+          },
+          {
+            "en": "As-Sa'di also gives the order of the passage. Having named the material from which food is made, Allah turns to His favour in preparing places to live, and to light and darkness and the benefits that come of them. At-Tabari reads the same sequence when he weighs a word later in this verse: before it, the splitting of dawn and the bringing of plants out of grain and stone; after it, the stars set for guidance on land and sea in 6:97. Between seed and star, this verse is about time: the dawn, the night and the two lights that count the days.",
+            "bn": "অংশটির ক্রমও সা'দী ব্যাখ্যা করেন। খাদ্য যে উপাদান থেকে তৈরি, তার কথা বলার পর আল্লাহ ফিরেছেন বসবাসের জায়গা প্রস্তুত করে দেওয়ার অনুগ্রহের দিকে, আলো আর অন্ধকারের দিকে, আর সেগুলো থেকে যেসব উপকার আসে তার দিকে। এই আয়াতের পরের দিকের একটি শব্দের অর্থ বাছাই করতে গিয়ে তাবারীও একই ক্রম পড়েন। আগে আছে ভোর ফোটানো আর দানা ও আঁটি থেকে চারা বের করা। পরে আছে ৬:৯৭, যেখানে জলে স্থলে পথ দেখানোর জন্য তারকা দেওয়া হয়েছে। বীজ আর তারার মাঝখানে এই আয়াতের বিষয় সময়: ভোর, রাত, আর দিন গোনার দুই আলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Pillar of the Dawn",
+          "bn": "ভোরের আলোর স্তম্ভ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses faliq al-isbah as the One who splits the pillar of the dawn, 'amud as-subh, away from the darkness and blackness of night. Isbah, he explains, is a verbal noun, as when one says asbahna isbahan, we entered the morning. Most interpreters, he adds, said the same. Mujahid and ad-Dahhak each say it means the lighting of the dawn; Qatada, and Mujahid in another report, say the splitter of the morning; Ibn Zayd says He split the morning away from the night.",
+            "bn": "তাবারী ফালিকুল ইসবাহর অর্থ করেন: যিনি ভোরের আলোর স্তম্ভ, আমুদুস সুবহ, রাতের অন্ধকার আর কালো থেকে চিরে আলাদা করেন। তিনি বুঝিয়ে দেন, ইসবাহ একটি ক্রিয়াবাচক বিশেষ্য, যেমন বলা হয় আসবাহনা ইসবাহান, আমরা সকালে প্রবেশ করলাম। তিনি যোগ করেন, বেশির ভাগ তাফসীরকার এ কথাই বলেছেন। মুজাহিদ ও দাহহাক দুজনেই বলেন, এর মানে ভোরের আলো ফুটে ওঠা। কাতাদা, আর আরেক বর্ণনায় মুজাহিদ, বলেন সকালকে বিদীর্ণকারী। ইবন যায়দ বলেন, তিনি রাত থেকে সকালকে চিরে বের করেছেন।"
+          },
+          {
+            "en": "Two reports from Ibn Abbas (RA) widen the word. In the report at-Tabari gives through Ali ibn Abi Talha, al-isbah is the light of the sun by day and the light of the moon by night. In another, which at-Tabari files under a group who explained the phrase differently, it means that He created the night and the day. Ad-Dahhak, in a second report, says the creator of light, the light of the day, and al-Qurtubi and al-Baghawi both record ad-Dahhak's shorter form: the creator of the day.",
+            "bn": "ইবন আব্বাস (রাঃ)-এর দুটি বর্ণনা শব্দটির পরিধি বাড়িয়ে দেয়। আলী ইবন আবী তালহার সূত্রে তাবারী যে বর্ণনা আনেন, তাতে আল-ইসবাহ মানে দিনে সূর্যের আলো আর রাতে চাঁদের আলো। আরেকটি বর্ণনা তাবারী রেখেছেন সেই দলের অধীনে, যাঁরা বাক্যাংশটি অন্যভাবে বুঝেছেন। সেখানে অর্থ: তিনি রাত ও দিন সৃষ্টি করেছেন। দাহহাক তাঁর দ্বিতীয় বর্ণনায় বলেন আলোর স্রষ্টা, অর্থাৎ দিনের আলোর। কুরতুবী ও বাগাভী দুজনেই দাহহাকের ছোট রূপটি লিখে রাখেন: দিনের স্রষ্টা।"
+          },
+          {
+            "en": "Ibn Kathir reads the phrase as saying that Allah is the creator of light and darkness, and ties it to the surah's first verse, where He made the darknesses and the light (6:1). Then he draws the moment itself: the darkness of night is split away from the first gleam of morning, the world lights up, the horizon brightens, the dark fades, and the day comes with its brightness. Al-Baghawi adds that dawn is the first part of the day to appear, so splitting it means beginning the morning and making it plain.",
+            "bn": "ইবন কাসীরের মতে বাক্যাংশটি বলছে, আল্লাহ আলো ও অন্ধকারের স্রষ্টা। তিনি একে জুড়ে দেন সূরার প্রথম আয়াতের সঙ্গে, যেখানে তিনি অন্ধকাররাশি ও আলো বানিয়েছেন (৬:১)। তারপর তিনি মুহূর্তটার ছবি আঁকেন। সকালের প্রথম ঝলক থেকে রাতের অন্ধকার চিরে সরে যায়। চারপাশ আলোকিত হয়, দিগন্ত উজ্জ্বল হয়, অন্ধকার মিলিয়ে যায়, আর দিন আসে তার দীপ্তি নিয়ে। বাগাভী যোগ করেন, ভোরই দিনের সেই অংশ যা সবার আগে দেখা দেয়। তাই যিনি ভোর চিরে দেন, তিনিই সকাল শুরু করেন আর তাকে স্পষ্ট করে তোলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ja'il or Ja'ala",
+          "bn": "জাইল, নাকি জাআলা"
+        },
+        "p": [
+          {
+            "en": "The words wa-ja'ala al-layla sakanan come down in two readings. At-Tabari reports that most readers of the Hijaz and Madina, and some in Basra, read wa-ja'ilu al-layli, a noun that matches faliq, while most of the Kufans read wa-ja'ala al-layla, a past-tense verb, which is the text before us. His verdict is that both are widely spread readings in the cities, agreeing in meaning, and whoever reads either is right in grammar and in sense. Al-Qurtubi names al-Hasan, Isa ibn Umar, Hamza and al-Kisa'i among those who read the verb.",
+            "bn": "ওয়া জাআলাল লাইলা সাকানা কথাটি দুইভাবে পড়া হয়ে আসছে। তাবারী জানান, হিজায ও মদীনার বেশির ভাগ কারী এবং বসরার কেউ কেউ পড়েছেন ওয়া জাইলুল লাইলি। এটি বিশেষ্য, ফালিক শব্দের সঙ্গে মিল রেখে। আর কুফার বেশির ভাগ কারী পড়েছেন ওয়া জাআলাল লাইলা, অতীত কালের ক্রিয়া হিসেবে। আমাদের সামনের পাঠ এটিই। তাবারীর রায়: দুটোই বিভিন্ন শহরে ব্যাপকভাবে প্রচলিত পাঠ, অর্থে দুটো এক। যে কোনোটি পড়লেই ব্যাকরণে ও অর্থে পাঠক সঠিক। কুরতুবী ক্রিয়ারূপের পাঠকদের মধ্যে হাসান, ঈসা ইবন উমার, হামযা ও কিসাঈর নাম উল্লেখ করেন।"
+          },
+          {
+            "en": "One reading at-Tabari does refuse. He reports that al-Hasan al-Basri read al-asbah, with the vowel a, as the plural of subh, as though meaning the morning of every day, and says no one else is reported to have read it so; al-Qurtubi names Isa ibn Umar alongside al-Hasan. The reading at-Tabari will not let anyone pass beyond is al-isbah, because the authorities among readers and interpreters agree on it. Al-Qurtubi glosses al-isbah itself as splitting the morning every day, meaning the dawn, so the daily return stays in the word.",
+            "bn": "একটি পাঠ তাবারী অবশ্য গ্রহণ করেননি। তিনি জানান, হাসান বসরী পড়তেন আল-আসবাহ, আলিফে যবর দিয়ে, সুবহ শব্দের বহুবচন হিসেবে। যেন অর্থ, প্রতিদিনের সকাল। তাবারী বলেন, তিনি ছাড়া আর কেউ এভাবে পড়েছেন বলে তাঁর কাছে খবর পৌঁছেনি। কুরতুবী অবশ্য হাসানের সঙ্গে ঈসা ইবন উমারের নামও আনেন। তাবারীর মতে যে পাঠ ছেড়ে যাওয়া চলে না তা হলো আল-ইসবাহ, কারণ কারী ও তাফসীরকারদের নির্ভরযোগ্য সবাই এতে একমত। কুরতুবী আল-ইসবাহ শব্দেরই ব্যাখ্যা করেন প্রতিদিন সকাল চিরে দেওয়া, অর্থাৎ ফজর। ফলে প্রতিদিন ফিরে আসার অর্থটা শব্দের ভেতরেই থেকে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Night Made for Stillness",
+          "bn": "স্থির হওয়ার জন্য বানানো রাত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains why the night is called sakan: in it everything that moved by day grows still and quiet, and settles in its dwelling and its shelter. As-Sa'di widens the picture. Creatures need stillness, settling and rest, he writes, which cannot be complete while there is daylight; so people go home to their sleep, cattle to their pens and birds to their nests, and each takes its share of rest. Then Allah lifts the night with light, and so it goes until the Day of Resurrection. The Muyassar says whoever is worn out by day takes his portion of rest.",
+            "bn": "রাতকে কেন সাকান বলা হলো, তাবারী তা বুঝিয়ে দেন। দিনে যা কিছু নড়াচড়া করছিল, রাতে সব থেমে যায়, শান্ত হয়, নিজের ঘরে আর আশ্রয়ে ফিরে স্থির হয়। সা'দী ছবিটা আরও বড় করেন। তিনি লেখেন, সৃষ্টিজগতের দরকার থামা, স্থির হওয়া আর বিশ্রাম, যা দিনের আলো থাকতে পুরো হয় না। তাই মানুষ ঘরে ফেরে ঘুমাতে, গবাদি পশু ফেরে খোঁয়াড়ে, পাখি ফেরে বাসায়। প্রত্যেকে নিজের ভাগের বিশ্রাম নেয়। তারপর আল্লাহ আলো দিয়ে রাত সরিয়ে দেন, আর কিয়ামত পর্যন্ত এভাবেই চলতে থাকে। মুয়াসসার বলে, দিনভর যে ক্লান্ত হয়েছে, রাতে সে তার বিশ্রামের ভাগ পায়।"
+          },
+          {
+            "en": "Ibn Kathir notices the pairing. Having called Himself the splitter of the daybreak, Allah sets its opposite beside it, the night made sakan, which Ibn Kathir explains as still and dark, a time in which things come to rest. Creating contrary things, he says, points to the perfection of His greatness and the might of His rule. He then places the verse beside the surahs in which night and day are sworn by together: 93:1 and 93:2, 92:1 and 92:2, and 91:3 and 91:4.",
+            "bn": "ইবন কাসীর জোড়টা লক্ষ করেন। নিজেকে ভোর বিদীর্ণকারী বলার পর আল্লাহ তার পাশেই রেখেছেন তার বিপরীতটি: রাত, যাকে সাকান বানানো হয়েছে। ইবন কাসীর এর ব্যাখ্যা করেন নিথর আর অন্ধকার, এমন সময় যখন সবকিছু থিতু হয়। তাঁর মতে পরস্পরবিরোধী জিনিস সৃষ্টি করা আল্লাহর মহত্ত্বের পূর্ণতা আর তাঁর রাজত্বের বিশালতার দিকে ইঙ্গিত করে। তারপর তিনি আয়াতটিকে রাখেন সেই সূরাগুলোর পাশে, যেখানে রাত আর দিনের শপথ একসঙ্গে করা হয়েছে: ৯৩:১ ও ৯৩:২, ৯২:১ ও ৯২:২, আর ৯১:৩ ও ৯১:৪।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an traces sakan to sukun, stillness: any time or place in which a person finds calm is a sakan, which is why 16:80 calls a person's home by the same word. The day's light is a great blessing, it says, but the dark of night is not a bad thing either, since it gives the tired worker the rest he needs to go back with his strength renewed. It then asks the reader to imagine everyone fixing a sleeping time of his own: every hour would be somebody's working hour, and the noise would rob the sleepers of their rest.",
+            "bn": "মাআরিফুল কুরআন সাকান শব্দের মূল খুঁজে পায় সুকূনে, যার অর্থ স্থিরতা। যে সময়ে বা যে জায়গায় মানুষ শান্তি পায়, সেটাই সাকান। এ কারণেই ১৬:৮০ আয়াতে মানুষের ঘরকে একই শব্দে ডাকা হয়েছে। মাআরিফুল কুরআন বলে, দিনের আলো বিরাট নিয়ামত, তবে রাতের অন্ধকারও খারাপ কিছু নয়। ক্লান্ত মানুষ এতে সেই বিশ্রাম পায়, যা নিয়ে সে নতুন শক্তিতে কাজে ফিরতে পারে। এরপর পাঠককে একটা কথা কল্পনা করতে বলে: প্রত্যেকে যদি নিজের পছন্দমতো ঘুমের সময় ঠিক করত! তাহলে দিনরাতের প্রতিটি ঘণ্টাই হতো কারও না কারও কাজের সময়, আর হট্টগোলে ঘুমন্তদের বিশ্রাম নষ্ট হতো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Husban: Count or Light",
+          "bn": "হুসবান: গণনা, নাকি আলো"
+        },
+        "p": [
+          {
+            "en": "Wa-sh-shamsa wa-l-qamara husbanan: and the sun and moon for reckoning. At-Tabari says the interpreters differed. One group took it as reckoning. Ibn Abbas (RA), through Ali ibn Abi Talha, says the count of days, months and years; in another report, that they run to a term set for them. As-Suddi says by reckoning; Qatada, in one report, says they revolve in reckoning; Mujahid sets it beside each floating in an orbit (21:33) and the sun and moon by reckoning (55:5). Ar-Rabi' adds that when their days run out, that is the end of time and the start of the greatest terror.",
+            "bn": "ওয়াশ শামসা ওয়াল কামারা হুসবানা: আর সূর্য ও চাঁদকে গণনার জন্য। তাবারী বলেন, তাফসীরকারেরা এখানে মতভেদ করেছেন। একদল একে হিসাব অর্থে নিয়েছেন। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেন, দিন, মাস আর বছরের গণনা। আরেক বর্ণনায় তিনি বলেন, এ দুটো চলছে তাদের জন্য ঠিক করা এক মেয়াদের দিকে। সুদ্দী বলেন, হিসাব মেনে। কাতাদা একটি বর্ণনায় বলেন, এরা ঘোরে হিসাবের ভেতরে। মুজাহিদ একে রাখেন দুটি আয়াতের পাশে: প্রত্যেকে কক্ষপথে ভেসে চলে (২১:৩৩), আর সূর্য ও চাঁদ হিসাব মেনে চলে (৫৫:৫)। রাবী যোগ করেন, এদের দিন যখন ফুরিয়ে যাবে, তখনই যুগের শেষ আর মহাভীতির শুরু।"
+          },
+          {
+            "en": "Others, at-Tabari reports, took husban to mean light, and he gives that from Qatada in a second report. At-Tabari sets it aside and argues from the context. Allah has already spoken of light in faliq al-isbah, and there is no sense in saying it a second time in one verse for no purpose. Before this, He listed His favours to His creatures: dawn split for them, plants brought out of grain and stone; after it come the stars for their guidance. So the running of sun and moon for their benefit fits the place better than a mention of their light.",
+            "bn": "তাবারী জানান, আরেক দল হুসবান মানে নিয়েছেন আলো। এ মতটি তিনি আনেন কাতাদার দ্বিতীয় একটি বর্ণনা থেকে। তাবারী এ মত গ্রহণ করেননি, আর যুক্তি দেন প্রসঙ্গ থেকে। ফালিকুল ইসবাহ বলে আল্লাহ আলোর কথা আগেই বলেছেন। একই আয়াতে কোনো নতুন অর্থ ছাড়া কথাটা দ্বিতীয়বার বলার মানে হয় না। এর আগে তিনি বান্দাদের প্রতি নিজের অনুগ্রহ গুনিয়েছেন: তাদের জন্য ভোর চিরে দিয়েছেন, দানা ও আঁটি থেকে চারা বের করেছেন। এর পরে আসে পথ চেনানোর জন্য তারকা। কাজেই তাদের উপকারের জন্য সূর্য-চাঁদকে চালানোর কথাই এখানে বেশি মানানসই, আলোর কথা নয়।"
+          },
+          {
+            "en": "At-Tabari even guesses where the light reading came from. He thinks Qatada was drawing on a report from Ibn Abbas (RA) that husban in 18:40 means fire, and says that meaning has nothing to do with this verse. Al-Qurtubi keeps the light reading, introducing it only with it has been said, and adds the grammarians: al-Akhfash takes husban as the plural of hisab, like shihab and shuhban, and Ya'qub as a verbal noun. At-Tabari and al-Qurtubi both note that the same letters give a word for a small cushion, and at-Tabari says it has no bearing here. The preference is at-Tabari's; the other reading carries Qatada's name.",
+            "bn": "আলো অর্থটি কোথা থেকে এলো, তাবারী তা নিয়েও একটা অনুমান করেন। তাঁর ধারণা, কাতাদা ইবন আব্বাস (রাঃ)-এর একটি বর্ণনার উপর ভর করেছিলেন। সেখানে ১৮:৪০ আয়াতের হুসবান মানে আগুন। তাবারী বলেন, এই আয়াতের সঙ্গে সে অর্থের কোনো সম্পর্ক নেই। কুরতুবী আলো অর্থটি রেখে দেন, তবে শুধু 'বলা হয়েছে' বলে আনেন। সঙ্গে আনেন ব্যাকরণবিদদের কথা। আখফাশের মতে হুসবান হিসাব শব্দের বহুবচন, যেমন শিহাব থেকে শুহবান। ইয়াকুবের মতে এটি ক্রিয়াবাচক বিশেষ্য। তাবারী ও কুরতুবী দুজনেই উল্লেখ করেন, একই অক্ষর থেকে ছোট বালিশের একটি নামও আসে। তাবারী বলেন, এখানে এর কোনো ভূমিকা নেই। বাছাইটা তাবারীর, আর অন্য অর্থটির সঙ্গে জুড়ে আছে কাতাদার নাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Two Lights Keep",
+          "bn": "দুই আলো যা ধরে রাখে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di spells out what the reckoning is for. By the sun and moon the times and seasons are known, the times of worship are fixed and the terms of dealings are set. Were it not for the two lights and their taking turns, he writes, ordinary people would not know these things or share in knowing them; only a few would, after effort, and much that people need would be lost. Ibn Kathir adds that each has stations it travels through in summer and winter, so the night and day grow long and short,.",
+            "bn": "এই হিসাব কিসের জন্য, সা'দী তা খুলে বলেন। সূর্য আর চাঁদ দিয়েই সময় আর ঋতু চেনা যায়, ইবাদতের ওয়াক্ত ঠিক হয়, লেনদেনের মেয়াদ বাঁধা হয়। তিনি লেখেন, এই দুই আলো আর তাদের পালা করে আসা-যাওয়া না থাকলে সাধারণ মানুষ এসব জানত না, জানার ভাগীদারও হতো না। কেবল অল্প কয়েকজন খেটেখুটে জানত, আর মানুষের দরকারি অনেক কিছুই হাতছাড়া হতো। ইবন কাসীর যোগ করেন, গ্রীষ্মে ও শীতে দুটোরই আলাদা মনযিল আছে, যা পেরিয়ে তারা চলে। এ থেকেই রাত আর দিন ছোট-বড় হয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws a practical point. The verse, it says, shows that years and months may be counted by the sun or by the moon, and both are gifts from Allah; Islamic rulings follow the lunar months so that ordinary people are spared hard calculation. It therefore calls it a duty on the Muslim community to keep the lunar calendar alive. Using a solar calendar out of need is no sin, it says, but letting the lunar one be wholly forgotten is a grave sin, ending with Muslims who do not know when Ramadan, Dhul-Hijjah or Muharram will come.",
+            "bn": "মাআরিফুল কুরআন এখান থেকে একটি বাস্তব কথা বের করে। তার মতে আয়াতটি দেখায়, বছর আর মাস সূর্য দিয়েও গোনা যায়, চাঁদ দিয়েও। দুটোই আল্লাহর দান। ইসলামী বিধান চলে চান্দ্র মাস ধরে, যাতে সাধারণ মানুষকে জটিল হিসাবের ঝামেলায় পড়তে না হয়। তাই মুসলিম উম্মাহর দায়িত্ব চান্দ্র পঞ্জিকা টিকিয়ে রাখা। প্রয়োজনে সৌর পঞ্জিকা ব্যবহার করায় গুনাহ নেই। কিন্তু চান্দ্র পঞ্জিকা পুরোপুরি ভুলে যেতে দেওয়া বড় গুনাহ। তার পরিণতি এমন মুসলমান, যে জানেই না রমজান, যিলহজ্জ বা মুহাররম কবে আসবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Measured by the Mighty, the Knowing",
+          "bn": "পরাক্রমশালী, সর্বজ্ঞের মাপ"
+        },
+        "p": [
+          {
+            "en": "Dhalika taqdiru al-'Azizi al-'Alim: that is the measuring of the Mighty, the Knowing. At-Tabari reads it as: all this is the measuring of Him whose power is mighty, so that none He means to punish can hold out against Him, and who knows what is good for His creatures. It is not, he goes on, the measuring of idols that neither hear nor see, neither harm nor help. So make your worship sincere, he writes, to Him who does these things.",
+            "bn": "যালিকা তাকদীরুল আযীযিল আলীম: এ হলো মহাপরাক্রমশালী, সর্বজ্ঞের নির্ধারণ। তাবারীর ব্যাখ্যায় কথাটা এমন: ভোর চিরে দেওয়া, রাতকে বিশ্রাম আর সূর্য-চাঁদকে হিসাব বানানো, এই সব কাজ তাঁর নির্ধারণ যাঁর ক্ষমতা অপরাজেয়। তিনি যাকে শাস্তি দিতে চান, সে তাঁর হাত থেকে নিজেকে রক্ষা করতে পারে না। আর তিনি জানেন, তাঁর সৃষ্টির জন্য কিসে কল্যাণ। তাবারী আরও বলেন, এটা সেই মূর্তিদের নির্ধারণ নয়, যারা শোনে না, দেখে না, ক্ষতিও করতে পারে না, উপকারও না। তাঁর আহ্বান: যিনি এসব করেন, ইবাদত খাঁটিভাবে কেবল তাঁরই হোক।"
+          },
+          {
+            "en": "Ibn Kathir notes that when Allah speaks of night and day, sun and moon, He often closes with might and knowledge, as here and in 36:38 and 41:12. As-Sa'di explains the pair. By His might these vast creations submit and run as commanded, never passing the limit He set for them, neither ahead of it nor behind. And among the rational proofs that His knowledge takes in everything is that they run on a measure and an order whose beauty leaves minds amazed. The Muyassar adds that both are among the Beautiful Names.",
+            "bn": "ইবন কাসীর লক্ষ করেন, আল্লাহ যখন রাত-দিন আর সূর্য-চাঁদের কথা বলেন, তখন প্রায়ই কথা শেষ করেন পরাক্রম আর জ্ঞানের উল্লেখে। এখানে যেমন, তেমনি ৩৬:৩৮ আর ৪১:১২ আয়াতেও। নাম দুটির ব্যাখ্যা দেন সা'দী। তাঁর পরাক্রমের সামনেই এই বিশাল সৃষ্টিগুলো নত হয়ে হুকুম মেনে চলে। তিনি যে সীমা বেঁধে দিয়েছেন, তার বাইরে যায় না, আগেও না, পিছেও না। আর তাঁর জ্ঞান যে সবকিছু ঘিরে আছে, তার বুদ্ধিগ্রাহ্য প্রমাণের একটি হলো, এরা চলে এমন এক মাপ আর শৃঙ্খলায়, যার সৌন্দর্য দেখে বুদ্ধি হতবাক হয়। মুয়াসসার যোগ করে, আল-আযীয আর আল-আলীম দুটোই আল্লাহর সুন্দর নামগুলোর অন্তর্ভুক্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Watching the Dawn Return",
+          "bn": "ভোরের ফিরে আসা দেখা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it. Al-Qurtubi relays from the Muwatta a supplication connected with this verse, which Yahya ibn Sa'id says reached him from the Prophet ﷺ with no chain given. Ibn Kathir relays from Ibn Abi Hatim, without any grading, a remark that Suhayb ar-Rumi (RA) made to his wife about his wakeful nights. Both are mentioned here only, and nothing in this article is built on either.",
+            "bn": "এই আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। কুরতুবী মুয়াত্তা থেকে এ আয়াত-সংশ্লিষ্ট একটি দোয়ার কথা আনেন। ইয়াহইয়া ইবন সাঈদ বলেন, নবী ﷺ থেকে এটি তাঁর কাছে পৌঁছেছে, কিন্তু কোনো সনদ দেওয়া হয়নি। ইবন কাসীর ইবন আবী হাতিম থেকে কোনো মান নির্ণয় ছাড়াই আনেন সুহাইব রূমী (রাঃ)-এর একটি কথা, যা তিনি রাত জাগা নিয়ে স্ত্রীকে বলেছিলেন। দুটোরই এখানে শুধু উল্লেখ রইল। এই প্রবন্ধের কোনো কথা এ দুটির উপর দাঁড়িয়ে নেই।"
+          },
+          {
+            "en": "What the verse itself asks for is attention. The dawn that opens little by little arrives with Fajr; the night that sends birds to their nests is handed back every evening; the moon that counts the months tells when Ramadan begins. To take each of these as a gift with a Giver, and to keep our own days inside the limits He set, as sun and moon keep to theirs, is a way of living inside this verse before moving on to the stars of 6:97.",
+            "bn": "আয়াতটি নিজে যা চায়, তা হলো মনোযোগ। যে ভোর একটু একটু করে খোলে, তা আসে ফজরের সঙ্গে। যে রাত পাখিদের বাসায় ফেরায়, তা প্রতি সন্ধ্যায় আবার হাতে তুলে দেওয়া হয়। যে চাঁদ মাস গোনে, সে-ই জানিয়ে দেয় রমজান কবে শুরু। এগুলোর প্রতিটিকে এক দাতার দেওয়া উপহার হিসেবে নেওয়া, আর সূর্য-চাঁদ যেমন নিজেদের সীমা মেনে চলে, তেমনি নিজের দিনগুলোকে তাঁর বেঁধে দেওয়া সীমার ভেতরে রাখা, এটাই এই আয়াতের ভেতরে বেঁচে থাকা। এরপর ৬:৯৭ আয়াত নিয়ে যায় তারাদের দিকে।"
+          }
+        ]
+      }
+    ]
+  },
   "6:99": {
     "sections": [
       {

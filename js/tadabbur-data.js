@@ -31283,6 +31283,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Keep your religion from becoming a pastime and keep reminding with the Quran, for on that Day no protector or intercessor besides Allah, and no ransom, will avail.",
     "lessonBn": "নিজের দ্বীনকে খেলায় পরিণত হতে দেবেন না, আর কুরআন দিয়ে উপদেশ দিতে থাকুন। সেদিন আল্লাহ ছাড়া কোনো অভিভাবক বা সুপারিশকারী থাকবে না, কোনো মুক্তিপণও কাজে আসবে না।"
+  },
+  "6:96": {
+    "reflectionEn": "Every morning a thin line of light opens in the dark and widens until the night is gone. The verse names who opens it: the One who splits the dawn. The night that comes back is not wasted time either. He made it a rest, when people go home to sleep, cattle to their shelters and birds to their nests. Sun and moon run to a count, and by them we know our days and months, our prayers and the dates of our debts. All of it, the verse says, is the measuring of the Mighty, the Knowing. It comes so regularly that I stop seeing it. When did I last watch the dawn break and think of who broke it?",
+    "reflectionBn": "প্রতিদিন ভোরে অন্ধকারের গায়ে আলোর একটা সরু রেখা ফোটে, তারপর একটু একটু করে চওড়া হয়, শেষে রাত আর থাকে না। কে সেই রেখা ফোটান, আয়াতটি তাঁর নাম বলে দেয়: যিনি ভোরকে বিদীর্ণ করেন। সন্ধ্যায় যে রাত ফিরে আসে, সেটাও নষ্ট সময় নয়। তিনি রাতকে বানিয়েছেন বিশ্রাম। মানুষ তখন ঘরে ফেরে ঘুমাতে, গবাদি পশু ফেরে খোঁয়াড়ে, পাখি ফেরে বাসায়। সূর্য আর চাঁদ চলে হিসাব মেনে। তাদের দেখেই আমরা দিন আর মাস চিনি, নামাজের ওয়াক্ত চিনি, দেনা শোধের তারিখ চিনি। আয়াত বলছে, এ সবই মহাপরাক্রমশালী, সর্বজ্ঞের নির্ধারণ। এত নিয়ম করে আসে বলেই আমি আর খেয়াল করি না। শেষ কবে ভোর হতে দেখেছি, আর ভেবেছি কে ভোরকে ফোটালেন?",
+    "pointsEn": [
+      "When did I last watch the dawn come in, and did the sight bring the One who splits it to mind?",
+      "Do I take the night as the rest Allah made it, or do I fill it until I wake up more tired than I lay down?",
+      "Do I know which lunar month we are in today, and roughly when the next Ramadan begins?",
+      "Which part of my day do I treat as running by itself, when the verse calls it a measure set by the Mighty, the Knowing?",
+      "The sun and moon keep to the measure set for them; which limit set for me am I stepping over?"
+    ],
+    "pointsBn": [
+      "শেষ কবে ভোর হতে দেখেছি? সেই দৃশ্য কি যিনি ভোর ফোটান, তাঁর কথা মনে করিয়ে দিয়েছিল?",
+      "রাতকে কি আমি সেই বিশ্রাম হিসেবেই নিই, যা আল্লাহ বানিয়েছেন? নাকি এমনভাবে ভরে ফেলি যে শোয়ার সময়ের চেয়েও ক্লান্ত হয়ে জাগি?",
+      "আজ চাঁদের হিসাবে কোন মাস চলছে, আর সামনের রমজান মোটামুটি কবে শুরু হবে, আমি কি জানি?",
+      "আমার দিনের কোন অংশকে আমি ধরে নিই আপনা-আপনি চলছে, অথচ আয়াত বলছে এটা মহাপরাক্রমশালী, সর্বজ্ঞের ঠিক করে দেওয়া মাপ?",
+      "সূর্য আর চাঁদ তাদের জন্য বাঁধা মাপের বাইরে যায় না। আমার জন্য বাঁধা কোন সীমা আমি পেরিয়ে যাচ্ছি?"
+    ],
+    "lessonEn": "Read each dawn, each night's rest and each new month as the measuring of the Mighty, the Knowing, and keep your own days inside the limits He set.",
+    "lessonBn": "প্রতিটি ভোর, প্রতিটি রাতের বিশ্রাম আর প্রতিটি নতুন মাসকে মহাপরাক্রমশালী, সর্বজ্ঞের নির্ধারণ হিসেবে পড়ুন, আর নিজের দিনগুলো তাঁর বেঁধে দেওয়া সীমার ভেতরে রাখুন।"
   }
 };
 
