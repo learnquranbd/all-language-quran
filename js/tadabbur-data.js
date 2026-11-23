@@ -31083,6 +31083,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A custom is not proved true by its age or by the family that kept it; bring it to what Allah sent down and to His Messenger, and follow those who know.",
     "lessonBn": "কোনো রীতি পুরোনো বলে বা পরিবারে চলে আসছে বলে সত্য প্রমাণিত হয় না। তাকে আল্লাহর নাযিল করা বাণী ও তাঁর রসূলের সামনে নিয়ে যান, আর অনুসরণ করুন তাদের, যারা জানে।"
+  },
+  "5:5": {
+    "reflectionEn": "This verse widens a table and a household in the same breath. Good things are made lawful. The food of those given the Scripture before you is lawful to you, and yours to them. Chaste women of the believers, and of the earlier Scripture, may be married once their bridal due is paid. Then the condition turns back on the man: he too must seek chastity, neither open sin nor a secret lover. Permission here is not a loosening. It comes with terms, and the verse closes by warning that whoever rejects faith loses the worth of his deeds. When I am given room, do I read the terms that come with it, or only notice the room?",
+    "reflectionBn": "এক নিঃশ্বাসে আয়াতটি খাবারের দস্তরখান আর সংসারের দরজা, দুটোই খুলে দেয়। ভালো ও পবিত্র জিনিস হালাল করা হলো। আগে যাদের কিতাব দেওয়া হয়েছে, তাদের খাবার আপনার জন্য হালাল, আপনার খাবারও তাদের জন্য। মুমিন নারীদের মধ্য থেকে, আর আগের কিতাবধারীদের মধ্য থেকেও, সচ্চরিত্রা নারীকে বিয়ে করা যায়, মোহর আদায় করলে। তারপর শর্তটা ঘুরে আসে পুরুষের দিকে: তাকেও পবিত্র থাকতে হবে, প্রকাশ্য ব্যভিচার নয়, গোপন প্রেমিকাও নয়। এখানে অনুমতি মানে ঢিলেমি নয়। অনুমতির সঙ্গে শর্ত আসে, আর আয়াতের শেষে সতর্কবাণী: যে ঈমানকে অস্বীকার করে, তার আমলের মূল্য নষ্ট হয়ে যায়। আমাকে যখন কোনো সুযোগ দেওয়া হয়, আমি কি তার সঙ্গের শর্তগুলো পড়ি, নাকি শুধু সুযোগটাই দেখি?",
+    "pointsEn": [
+      "Which permission in my life have I enjoyed for years without once thanking the One who gave it?",
+      "The verse asks of the man the same chastity it asks of the woman. Do I hold myself to the standard I expect of others?",
+      "Is the bridal gift, or any right I owe, something I hand over with a willing heart, or something I delay and bargain down?",
+      "When I share a table with neighbours of another faith, do I bring fairness and good manners along with my caution?",
+      "Which of my good deeds am I counting on, and what am I doing to guard the faith that gives them their worth?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন অনুমতি আমি বছরের পর বছর ভোগ করে চলেছি, অথচ যিনি দিয়েছেন তাঁর শুকরিয়া একবারও আদায় করিনি?",
+      "নারীর কাছে যে পবিত্রতা আয়াতটি চায়, পুরুষের কাছেও ঠিক তা-ই চায়। অন্যের কাছে আমি যে মান আশা করি, নিজেকে কি সে মানে ধরে রাখি?",
+      "মোহর হোক বা অন্য কোনো হক, যা আমার কাছে পাওনা, তা কি আমি খুশিমনে দিই? নাকি দেরি করি আর দর কষাকষি করে কমাতে চাই?",
+      "অন্য ধর্মের প্রতিবেশীর সঙ্গে এক দস্তরখানে বসলে সতর্কতার পাশাপাশি ইনসাফ আর ভদ্রতাও কি সঙ্গে নিয়ে যাই?",
+      "আমার কোন নেক আমলের উপর আমি ভরসা করে আছি? আর যে ঈমান সেগুলোকে মূল্য দেয়, তা রক্ষায় আমি কী করছি?"
+    ],
+    "lessonEn": "Lawful things come with conditions: give what is owed, keep yourself as chaste as you ask others to be, and guard the faith that gives your deeds their worth.",
+    "lessonBn": "হালালের সঙ্গে শর্তও আসে: যার যা পাওনা তা দিন, অন্যের কাছে যে পবিত্রতা চান নিজেও তা ধরে রাখুন, আর সেই ঈমান রক্ষা করুন যা আপনার আমলকে মূল্য দেয়।"
   }
 };
 

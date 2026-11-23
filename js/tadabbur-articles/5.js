@@ -159,6 +159,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "Today, and Why Again",
+          "bn": "আজ, আবার কেন"
+        },
+        "p": [
+          {
+            "en": "Al-yawma uhilla lakumu at-tayyibat: this day the good things are made lawful for you. The good things were already named in 5:4, so why say it again? Al-Qurtubi answers that the verse returns to them for emphasis, tying this permission to the same 'today' in which the religion was perfected, and that it answers the question they had asked: what has been made lawful for us? He records a further reading too: 'this day' is the age of Muhammad ﷺ, the season in which Islam came into the open.",
+            "bn": "আল-ইয়াওমা উহিল্লা লাকুমুত তাইয়িবাত: আজ তোমাদের জন্য পবিত্র জিনিসগুলো হালাল করা হলো। পবিত্র জিনিসের কথা তো ৫:৪ আয়াতেই এসেছে। তাহলে আবার কেন? কুরতুবীর জবাব, জোর দেওয়ার জন্যই কথাটা ফিরে এসেছে। এই অনুমতিকে বাঁধা হয়েছে সেই 'আজ'-এর সঙ্গে, যেদিন দ্বীন পূর্ণ করা হলো। আর এটা তাদের প্রশ্নেরই উত্তর: আমাদের জন্য কী হালাল? তিনি আরেকটি ব্যাখ্যাও উল্লেখ করেন: 'আজ' মানে মুহাম্মাদ ﷺ এর যুগ, যে কালে ইসলাম প্রকাশ্যে এসে ছড়িয়ে পড়ল।"
+          },
+          {
+            "en": "As-Sa'di reads the repetition as a reminder of favour. Allah permitted what His servants' need calls for, and naming it again invites them to thank Him and to remember Him often. Ma'arif al-Qur'an dates this day to the Day of 'Arafah in the final Hajj of 10 AH, and draws from it that good things already lawful would now stay lawful for good, since revelation was nearing its close.",
+            "bn": "সা'দী এই পুনরাবৃত্তিকে দেখেন অনুগ্রহের স্মরণ হিসেবে। বান্দার যা দরকার, আল্লাহ তা হালাল করেছেন। কথাটা আবার বলার মধ্যে আছে দাওয়াত: তাঁর শুকরিয়া আদায় করো, বেশি বেশি তাঁর জিকির করো। মাআরিফুল কুরআন এই দিনটিকে চিহ্নিত করে ১০ হিজরির শেষ হজ্জের আরাফার দিন হিসেবে। সেখান থেকে তার সিদ্ধান্ত, যে পবিত্র জিনিস আগে থেকেই হালাল ছিল, তা এখন চিরকালের জন্য হালাল থাকবে, কারণ ওহীর ধারা তখন শেষের পথে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Meat From the Earlier Scripture",
+          "bn": "আগের কিতাবধারীদের যবেহ"
+        },
+        "p": [
+          {
+            "en": "Wa ta'amu alladhina utu al-kitaba hillun lakum: and the food of those given the Scripture is lawful for you. Ta'am covers whatever is eaten, but al-Qurtubi notes that many interpreters take it here to mean slaughtered animals in particular. At-Tabari gives that gloss through chains from Mujahid, Ibrahim an-Nakha'i, Ibn 'Abbas, al-Hasan, Qatada and as-Suddi. Ibn Kathir names a longer list, among them Abu Umamah, Sa'id ibn Jubayr, 'Ikrimah and Makhul, and calls the lawfulness of their slaughter a matter the scholars agree on.",
+            "bn": "ওয়া তাআমুল্লাযীনা উতুল কিতাবা হিল্লুল লাকুম: আর কিতাবপ্রাপ্তদের খাবার তোমাদের জন্য হালাল। তাআম শব্দে আহার্য সব কিছুই পড়ে। তবে কুরতুবী জানান, বহু মুফাসসিরের মতে এখানে এর মানে বিশেষ করে যবেহ করা পশু। তাবারী এই ব্যাখ্যা এনেছেন মুজাহিদ, ইবরাহীম নাখাঈ, ইবনু আব্বাস (রাঃ), হাসান, কাতাদা ও সুদ্দীর সনদে। ইবন কাসীরের তালিকা আরও লম্বা। তাতে আছেন আবু উমামা (রাঃ), সাঈদ ইবনু জুবাইর, ইকরিমা, মাকহুল প্রমুখ। তাঁর ভাষায়, তাদের যবেহ হালাল হওয়ার ব্যাপারে আলেমগণ একমত।"
+          },
+          {
+            "en": "Why meat, and not bread? As-Sa'di reasons that grain and fruit are lawful from anyone, yet the verse ties this food to them: it is theirs because they slaughtered it. Al-Qurtubi adds that slaughter, unlike baking bread or pressing oil, needs religion and intention, so analogy would have barred it; Allah made a concession, and the text lifted it out of analogy. Ibn Kathir gives the reason: they hold slaughter for other than Allah forbidden and mention only His name, even while believing of Him what He is far above.",
+            "bn": "রুটি নয়, মাংস কেন? সা'দীর যুক্তি, শস্য আর ফল যে কারও কাছ থেকেই হালাল। অথচ আয়াত এই খাবারটিকে তাদের নামের সঙ্গে জুড়ে দিয়েছে। মানে খাবারটি তাদের, কারণ যবেহ হয়েছে তাদের হাতে। কুরতুবী যোগ করেন, রুটি সেঁকা বা তেল নিংড়ানোর মতো কাজ নয় যবেহ। এতে দ্বীন আর নিয়ত লাগে। তাই কিয়াসের হিসাবে তা নিষিদ্ধ হওয়ার কথা ছিল। আল্লাহ ছাড় দিয়েছেন, আর নস একে কিয়াসের বাইরে নিয়ে এসেছে। কারণটা ইবন কাসীর বলে দেন: আল্লাহ ছাড়া অন্যের নামে যবেহকে তারা হারাম মনে করে, যবেহের সময় কেবল তাঁর নামই নেয়। যদিও আল্লাহ সম্পর্কে তাদের এমন বিশ্বাস আছে, যা থেকে তিনি বহু ঊর্ধ্বে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Another Name Is Spoken",
+          "bn": "যবেহে অন্য নাম নিলে"
+        },
+        "p": [
+          {
+            "en": "What if a Christian says 'in the name of the Messiah' over the animal? Al-Qurtubi sets out both sides. Ibn 'Abbas, he reports, read 6:121, do not eat that over which Allah's name has not been mentioned, and took this verse as its exception, even when a Christian names the Messiah or a Jew names 'Uzayr, because they slaughter by their religion. 'Ata said to eat it, since Allah permitted their slaughter knowing what they say. Az-Zuhri, ash-Sha'bi and Makhul held the same.",
+            "bn": "কোনো খ্রিস্টান যদি পশুর উপর 'মসীহের নামে' বলে, তখন? কুরতুবী দুই পক্ষই তুলে ধরেন। তাঁর বর্ণনায়, ইবনু আব্বাস (রাঃ) ৬:১২১ আয়াত পড়েছেন, যার উপর আল্লাহর নাম নেওয়া হয়নি তা খেয়ো না, তারপর এই আয়াতকে তার ব্যতিক্রম ধরেছেন। খ্রিস্টান মসীহের নাম নিলেও, ইহুদি উযাইরের নাম নিলেও, কারণ তারা নিজেদের ধর্মমতেই যবেহ করে। আতা বলেছেন, খাও, আল্লাহ জেনেশুনেই তাদের যবেহ হালাল করেছেন, তারা কী বলে তা তিনি জানেন। যুহরী, শা'বী ও মাকহুলেরও একই মত।"
+          },
+          {
+            "en": "The other side held that if you hear a scriptuary name anyone but Allah, you do not eat. Al-Qurtubi gives this from 'Ali, 'A'ishah and Ibn 'Umar among the Companions, and from Tawus and al-Hasan, all holding to 6:121. Malik said, 'I dislike it,' and did not forbid it. Al-Baghawi reports that 'Umar held it unlawful, yet counts most scholars on the permitting side. Ma'arif al-Qur'an puts most Companions, Successors and imams against eating it. The sources disagree even on where the majority stood; both accounts stay.",
+            "bn": "অন্য পক্ষের মত, কিতাবধারীকে আল্লাহ ছাড়া অন্য কারও নাম নিতে শুনলে সে পশু খাবে না। কুরতুবী এ মত এনেছেন সাহাবিদের মধ্যে আলী, আয়েশা ও ইবনু উমর (রাঃ) থেকে, আর তাউস ও হাসান থেকে। সবার দলিল ৬:১২১ আয়াত। ইমাম মালিক বলেছেন, আমি এটা অপছন্দ করি, তবে হারাম বলেননি। বাগাভী জানান, উমর (রাঃ) একে হালাল মনে করতেন না। অথচ তিনিই অধিকাংশ আলেমকে হালালের পক্ষে গোনেন। মাআরিফুল কুরআনের মতে সাহাবি, তাবেঈ ও ইমামদের বেশির ভাগ এমন পশু খাওয়ার বিপক্ষে। সংখ্যাগরিষ্ঠ কোন দিকে, সে প্রশ্নেও সূত্রগুলো একমত নয়। তাই দুই বিবরণই রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Banu Taghlib and Belonging",
+          "bn": "বনু তাগলিবের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "A harder case came from the Arab tribes who had taken up Christianity. At-Tabari carries 'Ali's ruling through several chains: do not eat the slaughter of the Christians of Banu Taghlib, for they have held to nothing of Christianity except drinking wine. Ibn 'Abbas, in a report at-Tabari gives through 'Ikrimah, said the opposite: eat their slaughter and marry their women, and he recited 5:51, whoever takes them as allies is one of them. Yet at-Tabari also keeps a report from Ibn 'Abbas forbidding the slaughter of Arab Christians.",
+            "bn": "আরও কঠিন প্রশ্ন উঠেছিল আরবের সেই গোত্রগুলো নিয়ে, যারা খ্রিস্টধর্ম গ্রহণ করেছিল। তাবারী কয়েকটি সনদে আলী (রাঃ)-এর ফয়সালা এনেছেন: বনু তাগলিবের খ্রিস্টানদের যবেহ খেয়ো না, কারণ মদপান ছাড়া খ্রিস্টধর্মের আর কিছুই তারা ধরে রাখেনি। ইকরিমার সূত্রে তাবারী ইবনু আব্বাস (রাঃ)-এর উল্টো মতও এনেছেন: তাদের যবেহ খাও, তাদের মেয়েদের বিয়ে করো। দলিল হিসেবে তিনি ৫:৫১ আয়াত পড়েছেন, তোমাদের যে তাদের বন্ধু বানায়, সে তাদেরই একজন। তবে তাবারী ইবনু আব্বাস (রাঃ) থেকে এমন বর্ণনাও রেখেছেন, যাতে আরব খ্রিস্টানদের যবেহ নিষেধ করা হয়েছে।"
+          },
+          {
+            "en": "Al-Shafi'i, as at-Tabari reports him, limited the verse to the Israelites who first received the Torah and the Gospel, and al-Qurtubi counts 'Ali's view as al-Shafi'i's. At-Tabari disagrees: 'Ali barred Taghlib because they had dropped what Christians hold lawful and unlawful, wine aside, not because of their lineage, and he calls al-Shafi'i's reading a mistake. On the majority the sources part again. Al-Qurtubi writes that most of the community permit every Christian's slaughter, Taghlib or not; Ibn Kathir writes that by the majority view the slaughter of the Arab Christians is not eaten.",
+            "bn": "তাবারীর বর্ণনায় শাফেঈ আয়াতটিকে সীমিত রেখেছেন সেই বনী ইসরাঈলের মধ্যে, যারা প্রথম তাওরাত ও ইঞ্জিল পেয়েছিল। কুরতুবীও আলী (রাঃ)-এর মতকে শাফেঈর মত বলে ধরেন। তাবারী এখানে দ্বিমত করেন। তাঁর মতে আলী (রাঃ) তাগলিবকে নিষেধ করেছিলেন বংশের কারণে নয়। কারণ ছিল, মদ বাদে খ্রিস্টানরা যা হালাল-হারাম মানে, তারা তা ছেড়ে দিয়েছিল। শাফেঈর ব্যাখ্যাকে তিনি ভুল বলেন। সংখ্যাগরিষ্ঠের প্রশ্নে সূত্রগুলো আবার আলাদা। কুরতুবী লেখেন, উম্মাহর অধিকাংশ প্রত্যেক খ্রিস্টানের যবেহ হালাল মনে করে, তাগলিব হোক বা না হোক। ইবন কাসীর লেখেন, অধিকাংশের মতে আরব খ্রিস্টানদের যবেহ খাওয়া হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Your Food, Their Plates",
+          "bn": "আপনার খাবার, তাদের পাত্র"
+        },
+        "p": [
+          {
+            "en": "Wa ta'amukum hillun lahum: and your food is lawful for them. Al-Baghawi relays az-Zajjaj: the address is to the Muslims, so it is lawful for you to feed them. Ibn Kathir and as-Sa'di read it the same way, and Ibn Kathir calls it reciprocity: you may feed them from your slaughter as you eat from theirs. Al-Qurtubi draws a different point, that they are addressed by the details of our law; if they buy meat from us, the meat is lawful to them and the price lawful to us.",
+            "bn": "ওয়া তাআমুকুম হিল্লুল লাহুম: আর তোমাদের খাবার তাদের জন্য হালাল। বাগাভী যাজ্জাজের ব্যাখ্যা আনেন: সম্বোধনটা মুসলমানদের প্রতি, মানে তাদের খাওয়ানো তোমাদের জন্য বৈধ। ইবন কাসীর ও সা'দীও এভাবেই বোঝেন। ইবন কাসীর একে বলেন পারস্পরিকতা: তোমরা যেমন তাদের যবেহ খাও, তেমনি নিজেদের যবেহ থেকে তাদের খাওয়াতে পারো। কুরতুবী অন্য একটা দিক বের করেন। তাঁর মতে এতে বোঝা যায়, আমাদের শরীয়তের খুঁটিনাটিতেও তারা সম্বোধিত। তারা আমাদের কাছ থেকে মাংস কিনলে মাংস তাদের জন্য হালাল, আর দামটা আমাদের জন্য।"
+          },
+          {
+            "en": "On their cooking pots, al-Qurtubi cites a report from Muslim that al-Bukhari also records, at 5478: Abu Tha'labah al-Khushani asked whether, living in a land of a people of the Scripture, they could eat from their utensils. The Prophet ﷺ said: 'As for what you have mentioned about the people of the Scripture, if you can get utensils other than theirs, do not eat out of theirs, but if you cannot get other than theirs, wash their utensils and eat out of it.' The answer goes on to hunting, and none of it was said about this verse.",
+            "bn": "তাদের হাঁড়ি-পাতিল প্রসঙ্গে কুরতুবী মুসলিমের বরাতে একটি হাদীস আনেন, যা বুখারীও ৫৪৭৮ নম্বরে বর্ণনা করেছেন। আবু সা'লাবা খুশানী (রাঃ) জানতে চেয়েছিলেন, তাঁরা কিতাবধারী এক জাতির দেশে থাকেন, তাদের পাত্রে খাওয়া চলবে কি? নবী ﷺ বললেন: কিতাবধারীদের ব্যাপারে তুমি যা বললে, যদি তাদের পাত্র ছাড়া অন্য পাত্র পাও, তবে তাদের পাত্রে খেয়ো না। আর অন্য পাত্র না পেলে সেগুলো ধুয়ে নাও, তারপর তাতে খাও। জবাবের বাকি অংশ শিকার নিয়ে। এর কোনো কথাই এই আয়াত সম্পর্কে বলা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Free Women or Chaste Women",
+          "bn": "স্বাধীন নারী, নাকি সচ্চরিত্রা"
+        },
+        "p": [
+          {
+            "en": "What does muhsanat, in both its mentions, mean here? At-Tabari sets out the split. A group took it as free women, chaste or not, and barred slave women of the People of the Book, since 4:25 allows marrying slave women only if they are believers; Mujahid is reported saying 'of the free women'. Others took it as chaste women, free or slave, and barred the unchaste of both communities: Mujahid in another report, as-Suddi and Sufyan. Ash-Sha'bi defined a Jewish or Christian woman's ihsan as guarding herself from zina and bathing after janabah.",
+            "bn": "আয়াতে মুহসানাত শব্দটি দুবার এসেছে। এখানে এর মানে কী? তাবারী মতভেদটা খুলে দেখান। এক দলের মতে এর মানে স্বাধীন নারী, সচ্চরিত্রা হোক বা না হোক। তারা কিতাবধারীদের দাসী বিয়ে নিষেধ করেছেন, কারণ ৪:২৫ আয়াত দাসী বিয়ের অনুমতি দেয় কেবল সে মুমিন হলে। মুজাহিদ থেকে বর্ণিত আছে, 'স্বাধীন নারীদের মধ্য থেকে'। অন্যদের মতে এর মানে সচ্চরিত্রা নারী, স্বাধীন হোক বা দাসী। তারা দুই সম্প্রদায়েরই চরিত্রহীন নারীকে নিষেধ করেছেন। এ মত মুজাহিদের আরেক বর্ণনায়, আর সুদ্দী ও সুফিয়ানের। শা'বীর সংজ্ঞায় ইহুদি বা খ্রিস্টান নারীর ইহসান হলো যিনা থেকে নিজেকে রক্ষা করা আর জানাবাতের পর গোসল করা।"
+          },
+          {
+            "en": "At-Tabari's own preference is free women of both communities, because Allah allowed a free man to marry a slave woman only if she was a believer; and he holds that a free woman who has fallen into indecency is still lawful to marry, citing 24:32. Ibn Kathir leans the other way: the majority view here, and the likelier, is a free woman who is also chaste, and the word's apparent sense is chastity, as in 4:25. As-Sa'di and al-Muyassar join the two senses: free and chaste. The difference stands.",
+            "bn": "তাবারী নিজে স্বাধীন নারীর অর্থটাই বেছে নেন, দুই সম্প্রদায়ের ক্ষেত্রেই। কারণ আল্লাহ স্বাধীন পুরুষকে দাসী বিয়ের অনুমতি দিয়েছেন কেবল সে মুমিন হলে। তাঁর মতে কোনো স্বাধীন নারী অশ্লীল কাজে জড়িয়ে পড়লেও তাকে বিয়ে করা হালাল। দলিল হিসেবে তিনি ২৪:৩২ আয়াত আনেন। ইবন কাসীরের ঝোঁক অন্য দিকে। তাঁর মতে এখানে অধিকাংশের মত, আর বেশি সঙ্গত মতও, হলো এমন স্বাধীন নারী, যে সচ্চরিত্রাও। শব্দটির বাহ্যিক অর্থও সতীত্ব, যেমন ৪:২৫ আয়াতে। সা'দী আর মুয়াসসার দুই অর্থ একসঙ্গে নেন: স্বাধীন এবং সচ্চরিত্রা। মতভেদটা তাই থেকেই যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Permitted, Yet Not Pressed",
+          "bn": "অনুমতি আছে, তাগিদ নেই"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reports that a number of Companions married Christian women and saw no harm in it, taking this verse as an exception to 2:221, do not marry women who associate partners with Allah until they believe. He relays from Ibn Abi Hatim a report from Ibn 'Abbas that people held back from such marriages after 2:221 until this verse came. At-Tabari reports Sa'id ibn al-Musayyib and al-Hasan saying Allah permitted it knowingly.",
+            "bn": "ইবন কাসীর জানান, কয়েকজন সাহাবি খ্রিস্টান নারী বিয়ে করেছিলেন এবং তাতে দোষ দেখেননি। তাঁরা এই আয়াতকে ধরেছিলেন ২:২২১ আয়াতের ব্যতিক্রম হিসেবে, যেখানে বলা হয়েছে, মুশরিক নারীরা ঈমান না আনা পর্যন্ত তাদের বিয়ে করো না। তিনি ইবনু আবী হাতিমের সূত্রে ইবনু আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন: ২:২২১ নাযিলের পর লোকেরা এমন বিয়ে থেকে বিরত ছিল, এই আয়াত আসা পর্যন্ত। তাবারী সাঈদ ইবনুল মুসাইয়িব ও হাসানের কথা আনেন: আল্লাহ জেনেবুঝেই এটা হালাল করেছেন।"
+          },
+          {
+            "en": "Ibn 'Umar held back. Al-Bukhari records, at 5285, from Nafi' that whenever Ibn 'Umar was asked about marrying a Christian lady or a Jewess, he would say: 'Allah has made it unlawful for the believers to marry ladies who ascribe partners in worship to Allah, and I do not know of a greater thing, as regards to ascribing partners in worship, etc. to Allah, than that a lady should say that Jesus is her Lord although he is just one of Allah's slaves.' These are Ibn 'Umar's own words, a Companion's judgement, not a saying of the Prophet ﷺ.",
+            "bn": "ইবনু উমর (রাঃ) এ বিয়ে থেকে দূরে থাকার পক্ষে ছিলেন। বুখারী ৫২৮৫ নম্বরে নাফে' থেকে বর্ণনা করেন: খ্রিস্টান বা ইহুদি নারী বিয়ের ব্যাপারে ইবনু উমর (রাঃ)-কে জিজ্ঞেস করা হলে তিনি বলতেন, আল্লাহ মুমিনদের জন্য মুশরিক নারীদের হারাম করেছেন। আর কোনো নারী যদি বলে তার রব ঈসা (আঃ), অথচ তিনি আল্লাহর বান্দাদের একজন, শিরকের মধ্যে এর চেয়ে বড় কিছু আমি জানি না। এ কথা ইবনু উমর (রাঃ)-এর নিজের, একজন সাহাবির মত। নবী ﷺ এর বাণী নয়।"
+          },
+          {
+            "en": "Which women, then? At-Tabari reports Ibn 'Abbas reading 9:29 and saying that some women of the People of the Book are lawful to us and some are not: the women of those who pay the jizyah are lawful, the women of those who do not are not. Al-Shafi'i limited it to Israelite women, a view at-Tabari sets aside as out of line with the scholars. At-Tabari's own ruling allows the free women of either community, under a pact or not, provided the husband lives where he need not fear his child being forced into disbelief.",
+            "bn": "তাহলে কোন নারী? তাবারীর বর্ণনায় ইবনু আব্বাস (রাঃ) ৯:২৯ আয়াত পড়ে বলেছেন, কিতাবধারী নারীদের কেউ আমাদের জন্য হালাল, কেউ নয়। যারা জিযিয়া দেয় তাদের নারীরা হালাল, যারা দেয় না তাদের নয়। শাফেঈ একে বনী ইসরাঈলের নারীদের মধ্যে সীমিত রেখেছেন। তাবারী এ মতকে আলেমদের পথ থেকে বিচ্ছিন্ন বলে সরিয়ে রাখেন। তাঁর নিজের ফয়সালা: দুই সম্প্রদায়েরই স্বাধীন নারী, চুক্তিবদ্ধ হোক বা না হোক, বিয়ে করা যায়। শর্ত হলো, স্বামী এমন জায়গায় থাকবে, যেখানে সন্তানকে কুফরিতে বাধ্য করার আশঙ্কা নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Husband Must Be Chaste Too",
+          "bn": "স্বামীর কাছেও পবিত্রতা"
+        },
+        "p": [
+          {
+            "en": "Idha ataytumuhunna ujurahunna: once you have given them their due. Ibn 'Abbas, through at-Tabari, glosses ujur as their dowers. As-Sa'di draws two points from the wording. The permission hangs on the dower, so if a man resolves never to pay it, she is not lawful for him. And because the dues are called theirs, the woman owns the whole of her dower, and no one has a share in it except what she freely gives up. Ibn Kathir adds the manner: as they are chaste, give them their dowers willingly.",
+            "bn": "ইযা আতাইতুমূহুন্না উজূরাহুন্না: যখন তোমরা তাদের প্রাপ্য দিয়ে দাও। তাবারীর সূত্রে ইবনু আব্বাস (রাঃ) বলেন, উজূর মানে তাদের মোহর। সা'দী শব্দগুলো থেকে দুটি বিষয় বের করেন। প্রথমত, অনুমতি মোহরের সঙ্গে বাঁধা। কোনো পুরুষ যদি মনে মনে ঠিক করে রাখে মোহর দেবে না, তবে সে নারী তার জন্য হালাল নয়। দ্বিতীয়ত, প্রাপ্যকে নারীর নামেই বলা হয়েছে। তাই পুরো মোহরের মালিক নারী নিজে। সে খুশি হয়ে যা ছেড়ে দেয়, তা ছাড়া এতে আর কারও ভাগ নেই। ইবন কাসীর দেওয়ার ধরনটাও বলে দেন: তারা যেমন সচ্চরিত্রা, তেমনি খুশিমনে তাদের মোহর দাও।"
+          },
+          {
+            "en": "Muhsinina ghayra musafihina wa la muttakhidhi akhdan: seeking chastity, not open fornication and not secret lovers. Ibn 'Abbas, through at-Tabari, separates the two: the musafih is open about it, whoever keeps akhdan hides it. Ibn Kathir draws the parallel the verse insists on: as chastity is a condition in the women, so it is in the men. Ibn Kathir also reports that Ahmad ibn Hanbal held that a woman known for zina cannot validly be married until she repents, and that a dissolute man likewise cannot marry a chaste woman until he repents.",
+            "bn": "মুহসিনীনা গাইরা মুসাফিহীনা ওয়ালা মুত্তাখিযী আখদান: পবিত্র জীবনের উদ্দেশ্যে, প্রকাশ্য ব্যভিচারের জন্য নয়, গোপন প্রেমিকা রাখার জন্যও নয়। তাবারীর সূত্রে ইবনু আব্বাস (রাঃ) দুটিকে আলাদা করেন: মুসাফিহ প্রকাশ্যে করে, আর আখদানওয়ালা লুকিয়ে করে। ইবন কাসীর সেই সমান্তরালটা দেখান, যার উপর আয়াত জোর দেয়: নারীর বেলায় যেমন সতীত্ব শর্ত, পুরুষের বেলায়ও তেমনি। ইবন কাসীর আরও জানান, ইমাম আহমাদ ইবনু হাম্বলের মতে যিনায় পরিচিত নারীকে তওবার আগে বৈধভাবে বিয়ে করা যায় না। তেমনি চরিত্রহীন পুরুষও তওবা না করা পর্যন্ত সচ্চরিত্রা নারীকে বিয়ে করতে পারে না।"
+          },
+          {
+            "en": "Repentance reopens the door. At-Tabari gathers reports from 'Umar on just this. A man asked him whether to disclose the past of his daughter, who had sinned and then repented well, now that she was sought in marriage. 'Umar said: would you take what Allah has covered and expose it? Marry her as a chaste Muslim woman is married. At-Tabari also relays, as Ibn Kathir does, that 'Umar once thought of barring anyone who had committed indecency from marrying a chaste woman, and Ubayy ibn Ka'b told him: shirk is greater than that, and it is accepted from whoever repents.",
+            "bn": "তওবা দরজা আবার খুলে দেয়। তাবারী ঠিক এ বিষয়ে উমর (রাঃ)-এর কয়েকটি বর্ণনা এনেছেন। এক ব্যক্তি তাঁকে জিজ্ঞেস করল, তার মেয়ে একসময় গুনাহে জড়িয়েছিল, পরে সুন্দরভাবে তওবা করেছে, এখন বিয়ের প্রস্তাব আসছে। মেয়ের অতীত কি জানিয়ে দেবে? উমর (রাঃ) বললেন, আল্লাহ যা ঢেকে রেখেছেন, তুমি কি তা খুলে দেবে? সচ্চরিত্রা মুসলিম নারীর মতোই তার বিয়ে দাও। তাবারী আরও বর্ণনা করেন, ইবন কাসীরও তা এনেছেন: উমর (রাঃ) একবার ভেবেছিলেন, অশ্লীল কাজে জড়ানো কাউকে সচ্চরিত্রা নারী বিয়ে করতে দেবেন না। উবাই ইবনু কা'ব (রাঃ) বললেন, শিরক এর চেয়ে বড়, আর তওবা করলে তাও কবুল হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faith Denied, Deeds Undone",
+          "bn": "ঈমান অস্বীকার, আমল নিষ্ফল"
+        },
+        "p": [
+          {
+            "en": "Wa man yakfur bil-imani faqad habita 'amaluhu: whoever denies the faith, his work has come to nothing. At-Tabari explains it as denying what Allah commanded belief in, His oneness and the prophethood of Muhammad ﷺ, so that the reward of deeds done in hope of standing with Allah is void. Mujahid glossed it as disbelief in Allah, 'Ata as in His oneness, and Ibn 'Abbas said faith is the firmest handhold, without which no deed is accepted. As-Sa'di adds a condition: the loss is final for whoever dies upon disbelief, as 2:217 says.",
+            "bn": "ওয়া মান ইয়াকফুর বিল ঈমানি ফাকাদ হাবিতা আমালুহু: যে ঈমানকে অস্বীকার করে, তার আমল নিষ্ফল হয়ে যায়। তাবারীর ব্যাখ্যায় এর মানে, আল্লাহ যা বিশ্বাস করতে বলেছেন তা অস্বীকার করা: তাঁর তাওহীদ আর মুহাম্মাদ ﷺ এর নবুওয়াত। তখন আল্লাহর কাছে মর্যাদার আশায় করা আমলের সওয়াব বাতিল হয়ে যায়। মুজাহিদের ব্যাখ্যায় এর মানে আল্লাহকে অস্বীকার, আতার ব্যাখ্যায় তাওহীদকে। ইবনু আব্বাস (রাঃ) বলেছেন, ঈমান সবচেয়ে মজবুত হাতল, তা ছাড়া কোনো আমল কবুল হয় না। সা'দী একটি শর্ত যোগ করেন: ক্ষতিটা চূড়ান্ত তার জন্য, যে কুফরির উপর মারা যায়, যেমন ২:২১৭ আয়াতে আছে।"
+          },
+          {
+            "en": "The verse states what it states: a permission with conditions, given in its own day. Ibn 'Umar's words on the Christian woman's belief and 'Ali's on Banu Taghlib were judgements on questions of their time, and the verse licenses nothing against any living person or community: not against Jewish or Christian neighbours, and not against any woman, believer or scriptuary, whose past is known. Nor does this article rule on present-day meat or marriages; that question belongs to a qualified scholar, asked directly.",
+            "bn": "আয়াতটি যা বলে, ঠিক তা-ই বলে: শর্তসহ একটি অনুমতি, তার নিজের সময়ে দেওয়া। খ্রিস্টান নারীর বিশ্বাস নিয়ে ইবনু উমর (রাঃ)-এর কথা আর বনু তাগলিব নিয়ে আলী (রাঃ)-এর কথা ছিল তাঁদের সময়ের প্রশ্নের ফয়সালা। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে আয়াতটি কিছুরই অনুমতি দেয় না। ইহুদি বা খ্রিস্টান প্রতিবেশীর বিরুদ্ধে নয়। আর এমন কোনো নারীর বিরুদ্ধেও নয়, মুমিন হোক বা কিতাবধারী, যার অতীত অন্যরা জানে। আজকের মাংস বা বিয়ে নিয়ে এই লেখা কোনো ফতোয়াও দিচ্ছে না। সে প্রশ্ন যোগ্য আলেমের কাছে সরাসরি করতে হবে।"
+          }
+        ]
+      }
+    ]
+  },
   "5:8": {
     "sections": [
       {
