@@ -307,6 +307,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Brothers Speak Privately",
+          "bn": "ভাইদের গোপন আলাপ"
+        },
+        "p": [
+          {
+            "en": "Surah Yusuf has just said that in Yusuf (AS) and his brothers there are signs for those who ask (12:7). At-Tabari reads this verse as the first of them: there were signs for whoever asked about their affair, when the brothers of Yusuf said what follows. The opening scene, in 12:4 to 12:6, was a boy telling his father a dream, and the father telling him to keep it from his brothers. Al-Muyassar and as-Sa'di both note that the words were spoken among themselves.",
+            "bn": "সূরা ইউসুফ এইমাত্র বলেছে, ইউসুফ (আঃ) আর তাঁর ভাইদের ঘটনায় জিজ্ঞাসুদের জন্য নিদর্শন আছে (১২:৭)। তাবারী এই আয়াতকে পড়েন সেই নিদর্শনগুলোর প্রথমটি হিসেবে: যে তাদের ব্যাপারে জানতে চায়, তার জন্য নিদর্শন ছিল, যখন ইউসুফের ভাইয়েরা এ কথা বলল। প্রথম দৃশ্যটা ছিল ১২:৪ থেকে ১২:৬ আয়াতে। ছেলে বাবাকে স্বপ্নের কথা বলছে, আর বাবা তাকে বলছেন কথাটা ভাইদের কাছে চেপে রাখতে। মুয়াসসার আর সা'দী দুজনেই বলেন, কথাগুলো তারা বলেছিল নিজেদের মধ্যে।"
+          },
+          {
+            "en": "How much did they know by then? Al-Qurtubi says they spoke this way because the news of the dream had reached them, and they conspired to plot against him. Ma'arif al-Qur'an is more cautious. Their father's greater love for Yusuf made them envious, it says, and it is also possible that they had somehow learned of the dream and grown uneasy at the rise in status it promised. Either way, 12:5 had named the danger before any of this was said: do not tell your brothers, or they will plot against you.",
+            "bn": "তখন তারা কতটা জানত? কুরতুবী বলেন, স্বপ্নের খবর তাদের কানে পৌঁছেছিল, তাই তারা এ কথা বলে এবং তাঁর বিরুদ্ধে চক্রান্তের শলাপরামর্শ করে। মাআরিফুল কুরআন আরও সাবধানী। তার মতে ইউসুফের প্রতি বাবার বেশি ভালোবাসা দেখে তাদের মনে হিংসা জাগে। সঙ্গে বলে, এমনও হতে পারে যে কোনোভাবে তারা স্বপ্নের কথা জেনে গিয়েছিল, আর তাঁর সামনের মর্যাদার কথা ভেবে অস্বস্তিতে পড়েছিল। যেভাবেই হোক, এসব কথা মুখে আসার আগেই ১২:৫ আয়াত বিপদটার নাম বলে দিয়েছিল: ভাইদের বলো না, বললে তারা তোমার বিরুদ্ধে চক্রান্ত করবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sworn Before It Was Said",
+          "bn": "কথার শুরুতেই কসম"
+        },
+        "p": [
+          {
+            "en": "The verse opens on an emphatic lam: la-Yusufu. Al-Qurtubi calls it the lam of emphasis, the one with which an oath is answered, as if they said: by Allah, Yusuf. Al-Baghawi reads it the same way, as the answer to an implied oath. Ibn Kathir draws the point out of the grammar: they swore, he says, on what they supposed. The conviction was settled before the sentence was finished, and the oath was taken among people who needed no persuading.",
+            "bn": "আয়াতের শুরুতেই জোর দেওয়ার লাম: লা-ইউসুফু। কুরতুবী একে বলেন তাকিদের লাম, যা দিয়ে কসমের জবাব দেওয়া হয়। যেন তারা বলছে: আল্লাহর কসম, ইউসুফ...। বাগাভীও একইভাবে পড়েন, উহ্য কসমের জবাব হিসেবে। ইবন কাসীর ব্যাকরণ থেকে কথাটা বের করে আনেন: তারা কসম খেয়েছিল নিজেদের ধারণার উপর। বাক্য শেষ হওয়ার আগেই বিশ্বাসটা পাকা হয়ে গিয়েছিল। আর কসমটা খাওয়া হয়েছিল এমন লোকদের মধ্যে, যাদের বোঝানোর কোনো দরকারই ছিল না।"
+          },
+          {
+            "en": "Al-Qurtubi notes a second detail. Ahabbu, dearer, stays singular although it describes two people, because a comparative of this kind carries the sense of a verb and is not made dual or plural. The brother is not named in the verse. Ibn Kathir, al-Baghawi and as-Sa'di name him Binyamin, and at-Tabari carries the same name from as-Suddi. At-Tabari and Ibn Kathir add that he was Yusuf's brother by the same mother. Al-Muyassar describes the speakers as Yusuf's brothers through his father.",
+            "bn": "কুরতুবী আরেকটি সূক্ষ্ম দিক দেখান। আহাব্বু, অর্থাৎ বেশি প্রিয়, শব্দটি দুজনের কথা বললেও একবচনেই থাকে। কারণ এ ধরনের তুলনাবাচক শব্দ ক্রিয়ার অর্থ বহন করে, তাই তার দ্বিবচন বা বহুবচন হয় না। আয়াতে ভাইটির নাম নেই। ইবন কাসীর, বাগাভী আর সা'দী তার নাম বলেন বিনইয়ামীন, আর তাবারী সুদ্দী থেকে একই নাম আনেন। তাবারী ও ইবন কাসীর যোগ করেন, সে ছিল ইউসুফের একই মায়ের ভাই। মুয়াসসার বক্তাদের বলেন ইউসুফের বৈমাত্রেয় ভাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counting Heads Against Love",
+          "bn": "ভালোবাসার পাল্লায় মাথা গোনা"
+        },
+        "p": [
+          {
+            "en": "Wa nahnu 'usbah: while we are a band. At-Tabari, al-Qurtubi, al-Baghawi and Ibn Kathir all gloss 'usbah as a group. How many the word covers, they give differently. At-Tabari says ten and more, with a view that it reaches fifteen. Al-Qurtubi gives one to ten, with views of up to fifteen and of ten to forty. Al-Baghawi lists al-Farra's ten or more and Mujahid's ten to fifteen, and Ma'arif al-Qur'an gives five to ten.",
+            "bn": "ওয়া নাহনু উসবাহ: অথচ আমরা একটা দল। তাবারী, কুরতুবী, বাগাভী ও ইবন কাসীর সবাই উসবাহ মানে করেন দল। শব্দটি কতজনকে বোঝায়, তা নিয়ে তাঁদের কথা ভিন্ন। তাবারী বলেন ১০ বা তার বেশি, আর এক মতে ১৫ পর্যন্ত। কুরতুবী বলেন ১ থেকে ১০, সঙ্গে ১৫ পর্যন্ত এবং ১০ থেকে ৪০-এর মতও আনেন। বাগাভী ফাররার ১০ বা তার বেশি আর মুজাহিদের ১০ থেকে ১৫-র মত উল্লেখ করেন। মাআরিফুল কুরআন বলে ৫ থেকে ১০।"
+          },
+          {
+            "en": "On their number, al-Qurtubi and al-Baghawi say they were ten, at-Tabari carries the same from as-Suddi, and Ma'arif al-Qur'an has them say: we are ten of us. At-Tabari's own paraphrase, though, glosses the phrase as a group of some number, eleven men. The verse itself gives no count, and the two figures are left here as the sources give them. Al-Baghawi adds a sense that explains the word they chose: a band whose members take one another's side. They were naming their solidarity and offering it as a claim.",
+            "bn": "সংখ্যার ব্যাপারে কুরতুবী ও বাগাভী বলেন তারা ছিল দশজন। তাবারী সুদ্দী থেকে একই কথা আনেন, আর মাআরিফুল কুরআনেও তারা বলে: আমরা দশজন। তবে তাবারী নিজের ব্যাখ্যায় বাক্যটির মানে করেন সংখ্যায় ভারী এক দল, ১১ জন পুরুষ। আয়াত নিজে কোনো সংখ্যা বলে না, তাই দুই হিসাবই এখানে সূত্রে যেমন আছে তেমনই রাখা হলো। বাগাভী শব্দটির আরেকটি অর্থ দেন, যা থেকে বোঝা যায় তারা কেন এই শব্দই বেছে নিল: এমন দল, যার সদস্যরা একে অন্যের পক্ষ নেয়। নিজেদের একজোট থাকাটাকেই তারা দাবি হিসেবে পেশ করছিল।"
+          },
+          {
+            "en": "The commentators spell out the argument packed into the clause. Ibn Kathir: how could he love those two more than the whole group? Al-Baghawi: we are of more use to him in worldly matters, in managing his livelihood and herding his flocks, so we have the better claim to his love. Ma'arif al-Qur'an: we are older and able to run the family's affairs, while those two are small children. On this reckoning, love should follow numbers and usefulness. The phrase returns in 12:14: if a wolf ate him while we are a band, we would be losers.",
+            "bn": "এই ছোট্ট বাক্যাংশে যে যুক্তি গুঁজে রাখা, তাফসীরকারেরা তা খুলে বলেন। ইবন কাসীর: গোটা দলের চেয়ে ওই দুজনকে তিনি বেশি ভালোবাসেন কী করে? বাগাভী: দুনিয়ার কাজে আমরাই তাঁর বেশি উপকারে আসি, সংসার চালাই, পশু চরাই, তাই ভালোবাসার হক আমাদেরই বেশি। মাআরিফুল কুরআন: আমরা বড়, সংসার সামলানোর শক্তি আমাদের আছে, আর ওরা দুজন ছোট বাচ্চা। এই হিসাবে ভালোবাসা চলা উচিত সংখ্যা আর উপযোগিতা মেপে। একই কথা ফিরে আসে ১২:১৪ আয়াতে: আমরা একটা দল থাকতে নেকড়ে যদি তাকে খেয়ে ফেলে, তবে তো আমরাই ক্ষতিগ্রস্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Error, Not Unbelief",
+          "bn": "ভুল বলতে কুফর নয়"
+        },
+        "p": [
+          {
+            "en": "In plain error, at-Tabari explains, means that our father Ya'qub is in khata', a mistake, in what he does: preferring Yusuf and his brother over us in love. Mubin, he says, describes a mistake that shows itself as a mistake to anyone who looks into it. As-Suddi, in at-Tabari's report, says: in error concerning our affair. Al-Muyassar and as-Sa'di give the same gloss, a plain mistake, and both attach a qualifier: since he preferred the two over us without a cause we can see.",
+            "bn": "তাবারী ব্যাখ্যা করেন, স্পষ্ট দালালের মানে: আমাদের বাবা ইয়াকুব নিজের কাজে খাতা, অর্থাৎ ভুলের মধ্যে আছেন। ভালোবাসায় তিনি ইউসুফ আর তার ভাইকে আমাদের উপর প্রাধান্য দেন। আর মুবীন মানে, তাবারীর ভাষায়, এমন ভুল যা একটু ভেবে দেখলেই নিজে থেকে ভুল বলে ধরা পড়ে। তাবারীর বর্ণনায় সুদ্দী বলেন: আমাদের ব্যাপারে ভুলের মধ্যে। মুয়াসসার ও সা'দীও একই অর্থ দেন, স্পষ্ট ভুল। দুজনেই একটা কথা জুড়ে দেন: কারণ তিনি ওদের আমাদের উপর প্রাধান্য দিয়েছেন এমন কোনো কারণ ছাড়া, যা আমরা দেখতে পাই।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi close off a reading the word might seem to allow. Dalal can mean straying in religion, but the brothers did not mean that, both say, for had they meant it they would have become unbelievers. Al-Qurtubi says they meant a departure from sound management, in preferring two over ten when all were equally his sons. Al-Baghawi says they meant a mistake in arranging worldly affairs. Ma'arif al-Qur'an makes the same case: Ya'qub (AS) is an exalted prophet of Allah, and to think religious error of him would itself be kufr.",
+            "bn": "দালাল শব্দে যে অর্থ ঢুকে পড়ার সুযোগ ছিল, কুরতুবী ও বাগাভী তা বন্ধ করে দেন। দালাল মানে দ্বীন থেকে বিচ্যুতিও হতে পারে। কিন্তু দুজনেই বলেন, ভাইয়েরা সে অর্থ বোঝায়নি, বোঝালে তারা কাফির হয়ে যেত। কুরতুবীর মতে তারা বুঝিয়েছিল সঠিক ব্যবস্থাপনা থেকে সরে যাওয়া: সবাই সমানভাবে তাঁর সন্তান, তবু দশজনের উপর দুজনকে প্রাধান্য। বাগাভীর মতে দুনিয়াবি বিষয় সামলানোয় ভুল। মাআরিফুল কুরআনও একই কথা বলে। ইয়াকুব (আঃ) আল্লাহর একজন মহান নবী, তাঁর সম্পর্কে দ্বীনি ভুলের ধারণা করাটাই হতো কুফর।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an then settles on a meaning: that he did not treat the brothers equally in the matter of their rights. Every one of these glosses explains what the brothers meant by the charge. None of them is a verdict on Ya'qub (AS), and the verse does not give one; it reports the brothers' words as theirs. A reader who takes the clause as the Qur'an's judgement on the father has adopted the speakers' view before the story has finished showing who was right.",
+            "bn": "এরপর মাআরিফুল কুরআন একটা অর্থে এসে থামে: ভাইদের হকের ব্যাপারে তিনি সবার সঙ্গে সমান আচরণ করেন না। এই সব ব্যাখ্যা শুধু এটুকু বলে যে অভিযোগটা দিয়ে ভাইয়েরা কী বোঝাতে চেয়েছিল। এর কোনোটাই ইয়াকুব (আঃ) সম্পর্কে রায় নয়, আয়াতও কোনো রায় দেয় না। আয়াত ভাইদের কথা তাদের কথা হিসেবেই তুলে ধরে। কেউ যদি এই বাক্যকে বাবার ব্যাপারে কুরআনের রায় ধরে নেন, তবে কাহিনি শেষ হওয়ার আগেই, কে ঠিক ছিলেন তা দেখার আগেই, তিনি বক্তাদের পক্ষ নিয়ে ফেললেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What They Could Not See",
+          "bn": "যা তাদের চোখে পড়েনি"
+        },
+        "p": [
+          {
+            "en": "The qualifier al-Muyassar and as-Sa'di share, without a cause we can see, holds the whole problem. The brothers judged by what was in front of them: two young boys, a band of grown men, and a father whose love, as they saw it, leaned away from them. The reader of the surah has been shown more. In 12:4 a boy saw eleven stars and the sun and the moon prostrating to him, and in 12:6 his father read it: thus will your Lord choose you. Whatever the father saw in his son, the brothers did not see it, and they passed judgement anyway.",
+            "bn": "মুয়াসসার ও সা'দীর জুড়ে দেওয়া কথাটা, এমন কারণ ছাড়া যা আমরা দেখতে পাই, পুরো সমস্যাটাই ধরে রাখে। ভাইয়েরা বিচার করেছিল চোখের সামনে যা ছিল তা দিয়ে: দুই ছোট ছেলে, একদল বড় পুরুষ, আর এক বাবা, যাঁর ভালোবাসা তাদের চোখে তাদের দিক থেকে সরে গেছে। সূরার পাঠককে দেখানো হয়েছে আরও বেশি। ১২:৪ আয়াতে এক বালক দেখল ১১টি তারকা, সূর্য আর চাঁদ তাকে সাজদা করছে। ১২:৬ আয়াতে বাবা তার অর্থ বুঝলেন: এভাবেই তোমার রব তোমাকে বেছে নেবেন। বাবা ছেলের মধ্যে যা-ই দেখে থাকুন, ভাইয়েরা তা দেখেনি। তবু তারা রায় দিয়ে বসল।"
+          },
+          {
+            "en": "The surah keeps returning to this gap. In 12:68 Allah says of Ya'qub (AS): he was a possessor of knowledge because of what We had taught him, but most people do not know. In 12:86 he tells those around him: I know from Allah what you do not know. In 12:95, when he says he senses Yusuf's scent, the word of this verse comes back at him: by Allah, you are in your old error. And in 12:96 he asks: did I not tell you that I know from Allah what you do not know?",
+            "bn": "সূরাটি বারবার এই ফাঁকের কাছে ফিরে আসে। ১২:৬৮ আয়াতে আল্লাহ ইয়াকুব (আঃ) সম্পর্কে বলেন: আমি তাকে যা শিখিয়েছিলাম, তার বদৌলতে সে ছিল জ্ঞানের অধিকারী, কিন্তু অধিকাংশ মানুষ জানে না। ১২:৮৬ আয়াতে তিনি আশপাশের লোকদের বলেন: আমি আল্লাহর কাছ থেকে যা জানি, তোমরা তা জানো না। ১২:৯৫ আয়াতে তিনি যখন বলেন ইউসুফের ঘ্রাণ পাচ্ছেন, এই আয়াতের শব্দটাই তাঁর দিকে ফিরে আসে: আল্লাহর কসম, তুমি তো তোমার সেই পুরোনো ভুলেই আছ। আর ১২:৯৬ আয়াতে তিনি জিজ্ঞেস করেন: আমি কি তোমাদের বলিনি, আল্লাহর কাছ থেকে আমি যা জানি তোমরা তা জানো না?"
+          },
+          {
+            "en": "The pair dalal mubin returns once in the surah, from the women of the city about the wife of al-Aziz in 12:30: we see her in clear error. The adjective also links back to 12:5, where Satan is 'aduwwun mubin, a manifest enemy, and forward to 12:100, where Yusuf (AS) names Satan's discord between him and his brothers. Set side by side, these verses suggest where that enemy works: in a grievance repeated among people who already agree.",
+            "bn": "দালালিম মুবীন জোড়াটা সূরায় আরেকবার আসে ১২:৩০ আয়াতে, শহরের নারীদের মুখে, আযীযের স্ত্রী সম্পর্কে: আমরা তো তাকে স্পষ্ট ভুলের মধ্যে দেখছি। মুবীন বিশেষণটি পেছনে ১২:৫ আয়াতের সঙ্গেও জোড়া লাগে, যেখানে শয়তান আদুওউম মুবীন, প্রকাশ্য শত্রু। আর সামনে ১২:১০০ আয়াতে ইউসুফ (আঃ) তাঁর আর ভাইদের মাঝে শয়তানের বিভেদ সৃষ্টির কথা বলেন। আয়াতগুলো পাশাপাশি রাখলে বোঝা যায় সেই শত্রু কোথায় কাজ করে: একমত লোকদের মধ্যে বারবার বলা ক্ষোভের ভেতরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Believers, and Prophets?",
+          "bn": "মুমিন ছিল, নবীও কি?"
+        },
+        "p": [
+          {
+            "en": "Were the men who said this believers? Ma'arif al-Qur'an says there is no difference of opinion on that, and argues it from the end of the story: in 12:97 they admitted their wrong and asked their father to seek forgiveness for them, and in 12:98 he agreed, which he could not have done for disbelievers. Whether they were prophets, Ma'arif says plainly, is a question on which the scholars differ. Al-Qurtubi's and al-Baghawi's views are set out under 12:10, and like that article, this takes no side on their rank.",
+            "bn": "এ কথা যারা বলেছিল, তারা কি মুমিন ছিল? মাআরিফুল কুরআন বলে, এ নিয়ে কোনো মতভেদ নেই। প্রমাণ সে টানে কাহিনির শেষ থেকে। ১২:৯৭ আয়াতে তারা নিজেদের অপরাধ স্বীকার করে বাবাকে তাদের জন্য ইস্তিগফার করতে বলে, আর ১২:৯৮ আয়াতে তিনি রাজি হন। কাফিরের জন্য তিনি তা করতে পারতেন না। তারা নবী ছিল কি না, সে প্রশ্নে মাআরিফ সোজাসুজি বলে, আলেমদের মধ্যে মতভেদ আছে। কুরতুবী ও বাগাভীর মতগুলো আছে ১২:১০ আয়াতের আলোচনায়। সেই প্রবন্ধের মতো এখানেও তাদের মর্যাদা নিয়ে কোনো পক্ষ নেওয়া হয়নি।"
+          },
+          {
+            "en": "Ibn Kathir, under this verse, is firmer. No evidence has been established, he says, for the prophethood of Yusuf's brothers, and the apparent sense of this passage points the other way. Some claim they received revelation afterwards; he answers that this is open to question and needs proof. The only proof they cite, he says, is al-asbat in 2:136, and that is open to another reading: the clans of Bani Isra'il are called asbat, as the Arabs are called tribes. Each clan descends from one of the brothers, but nothing shows these particular men received revelation.",
+            "bn": "ইবন কাসীর এই আয়াতের আলোচনায় আরও দৃঢ়। তিনি বলেন, ইউসুফের ভাইদের নবুওয়াতের পক্ষে কোনো দলিল প্রতিষ্ঠিত হয়নি, বরং এই প্রসঙ্গের বাহ্যিক অর্থ উল্টো দিকেই ইঙ্গিত করে। কেউ কেউ দাবি করে, পরে তাদের কাছে ওহী এসেছিল। তাঁর জবাব: এ কথা প্রশ্নসাপেক্ষ, আর দাবিদারকে দলিল দিতে হবে। তারা দলিল হিসেবে আনে শুধু ২:১৩৬ আয়াতের আল-আসবাত শব্দ। কিন্তু তার অন্য অর্থও হতে পারে। বনী ইসরাঈলের গোত্রগুলোকে আসবাত বলা হয়, যেমন আরবদের বলা হয় কাবায়িল। প্রত্যেক গোত্র ভাইদের কোনো একজনের বংশধর, কিন্তু এই মানুষগুলোর কাছেই ওহী এসেছিল, তার কোনো প্রমাণ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From a Sentence to a Plan",
+          "bn": "কথা থেকে ষড়যন্ত্রে"
+        },
+        "p": [
+          {
+            "en": "Nothing in 12:8 is yet an act. It is still only talk. The next verse shows how fast it hardens: kill Yusuf or cast him out to some land, so that your father's face will be for you alone, and after that you will be a righteous people (12:9). Ibn Kathir calls that last clause intending repentance before committing the sin. Ma'arif al-Qur'an lays the whole chain out: greater love seen, envy felt, the father called unjust, and then the choice between killing Yusuf and casting him away.",
+            "bn": "১২:৮ আয়াতে এখনো কোনো কাজ ঘটেনি। এখনো শুধু কথা। পরের আয়াতেই দেখা যায় তা কত দ্রুত শক্ত হয়ে ওঠে: ইউসুফকে মেরে ফেলো বা কোনো দূর দেশে ফেলে এসো, তাহলে বাবার দৃষ্টি শুধু তোমাদের দিকেই থাকবে, আর তারপর তোমরা ভালো মানুষ হয়ে যাবে (১২:৯)। ইবন কাসীর শেষ কথাটিকে বলেন গুনাহ করার আগেই তওবার নিয়ত। মাআরিফুল কুরআন পুরো ধারাটা সাজিয়ে দেয়: বাবার বেশি ভালোবাসা চোখে পড়া, মনে হিংসা জাগা, বাবাকে অন্যায়কারী বলা, তারপর বাছাই, ইউসুফকে হত্যা করা হবে নাকি দূরে ফেলে আসা হবে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what these brothers said in this story, and it licenses nothing against any living person or community. It is no ground for suspecting half-brothers, stepfamilies, large households or elder siblings, and no ground for dismissing a family member's complaint as mere envy. The Qur'an tells the story with its end in view: in 12:92 Yusuf (AS) tells these same brothers there is no blame on them today and asks Allah to forgive them, and in 12:98 their father promises to seek forgiveness for them.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি এই কাহিনিতে এই ভাইদের মুখের কথা বর্ণনা করে, এর বেশি কিছু নয়। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। সৎভাই, সৎ পরিবার, বড় সংসার বা বড় ভাইবোনদের সন্দেহ করার কোনো ভিত্তি এখানে নেই। পরিবারের কারও অভিযোগকে নিছক হিংসা বলে উড়িয়ে দেওয়ারও ভিত্তি নেই। কুরআন কাহিনিটা বলে তার শেষটা সামনে রেখে। ১২:৯২ আয়াতে ইউসুফ (আঃ) এই ভাইদেরই বলেন, আজ তোমাদের উপর কোনো দোষারোপ নেই, আর আল্লাহর কাছে তাদের জন্য মাফ চান। ১২:৯৮ আয়াতে তাদের বাবা তাদের জন্য ইস্তিগফারের কথা দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fairness Among Children",
+          "bn": "সন্তানদের মাঝে ইনসাফ"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it. One sound narration on fairness between children is general, not tied to this verse, and it is brought here for the reader, not as a verdict on Ya'qub (AS). The verse does not say that he gave Yusuf more of anything, and 12:68 has already said who he was. The narration concerns a father's gift.",
+            "bn": "এই আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। সন্তানদের মাঝে ইনসাফ নিয়ে একটি সহীহ বর্ণনা আছে, তবে তা সাধারণ, এই আয়াতের সঙ্গে যুক্ত নয়। এখানে তা আনা হলো পাঠকের জন্য, ইয়াকুব (আঃ) সম্পর্কে রায় হিসেবে নয়। আয়াত বলে না যে তিনি ইউসুফকে কোনো কিছু বেশি দিয়েছিলেন, আর তিনি কে ছিলেন তা ১২:৬৮ আয়াত আগেই বলে দিয়েছে। বর্ণনাটি এক বাবার দেওয়া উপহার নিয়ে।"
+          },
+          {
+            "en": "In Sahih al-Bukhari (2587), an-Nu'man ibn Bashir (RA) said from the pulpit: My father gave me a gift, but 'Amra bint Rawaha said, I will not agree until you make Allah's Messenger ﷺ a witness. So he came to Allah's Messenger ﷺ and said: I have given my son from 'Amra bint Rawaha a gift, and she told me to make you a witness, O Messenger of Allah. He asked: have you given the rest of your children the like of this? He said no. He said: then fear Allah, and be just between your children. He went back and took back his gift.",
+            "bn": "সহীহ বুখারীতে (২৫৮৭) নু'মান ইবন বাশীর (রাঃ) মিম্বারে দাঁড়িয়ে বলেন: আমার বাবা আমাকে একটি উপহার দিলেন। কিন্তু আমরা বিনত রাওয়াহা বললেন, আল্লাহর রাসূল ﷺ-কে সাক্ষী না রাখা পর্যন্ত আমি রাজি নই। তখন তিনি আল্লাহর রাসূল ﷺ-এর কাছে গিয়ে বললেন: আমরা বিনত রাওয়াহার গর্ভের আমার ছেলেকে আমি একটি উপহার দিয়েছি, আর সে আমাকে বলেছে আপনাকে সাক্ষী রাখতে, হে আল্লাহর রাসূল। তিনি জিজ্ঞেস করলেন: তোমার অন্য সব সন্তানকেও কি এমন দিয়েছ? তিনি বললেন, না। তিনি বললেন: তাহলে আল্লাহকে ভয় করো, আর তোমাদের সন্তানদের মাঝে ইনসাফ করো। তিনি ফিরে গেলেন এবং উপহারটি ফিরিয়ে নিলেন।"
+          },
+          {
+            "en": "For a parent, the brothers' words show what children can make of a preference, real or only perceived, once they talk it over among themselves: first a verdict on the parent, then a plan against the favoured child. For a brother or sister, they show a grievance growing in a closed circle. No one in that circle went to their father, and no one wondered what Allah might be doing. Ya'qub (AS) shows the other road in 12:86: I complain of my anguish and my grief only to Allah.",
+            "bn": "মা-বাবার জন্য ভাইদের কথাগুলো দেখিয়ে দেয়, পক্ষপাত সত্যি হোক বা শুধু মনে হোক, সন্তানেরা নিজেদের মধ্যে তা নিয়ে আলাপ করতে থাকলে কোথায় গিয়ে ঠেকে। প্রথমে বাবা-মায়ের বিরুদ্ধে রায়, তারপর প্রিয় সন্তানের বিরুদ্ধে পরিকল্পনা। ভাইবোনের জন্য কথাগুলো দেখায়, বন্ধ ঘরে ক্ষোভ কীভাবে বাড়ে। সেই ঘরের কেউ বাবার কাছে যায়নি, কেউ ভাবেনি আল্লাহ হয়তো অন্য কিছু করছেন। ইয়াকুব (আঃ) ১২:৮৬ আয়াতে অন্য পথটা দেখান: আমি আমার দুঃখ আর বেদনার অভিযোগ শুধু আল্লাহর কাছেই করি।"
+          }
+        ]
+      }
+    ]
+  },
   "12:10": {
     "sections": [
       {

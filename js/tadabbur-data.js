@@ -32843,6 +32843,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When wrong is made easy and no one would know, seek Allah's refuge first, remember the trust others have placed in you, and refuse it.",
     "lessonBn": "অন্যায় যখন সহজ হয়ে সামনে আসে আর কেউ জানার উপায় নেই, তখন সবার আগে আল্লাহর আশ্রয় চান, অন্যের রাখা আস্থার কথা মনে রাখুন, আর তা ফিরিয়ে দিন।"
+  },
+  "12:8": {
+    "reflectionEn": "The brothers talk among themselves, and the grievance comes out under an oath: Yusuf and his brother are dearer to our father than we are, and we are a whole band. Then the verdict: our father is in plain error. They had counted heads and usefulness, found the sum against them, and decided the fault lay with the one who loved. Nothing has been done yet. It is only talk, but the very next verse turns it into a plan. The reader already knows what they could not see: a dream, and a choice Allah had made. Where do I keep a grievance warm by repeating it to people who agree with me? And when love seems to pass me over, whom do I blame?",
+    "reflectionBn": "ভাইয়েরা নিজেদের মধ্যে কথা বলছে। ক্ষোভটা বেরিয়ে আসে কসম খেয়ে: ইউসুফ আর তার ভাই আমাদের চেয়ে বাবার কাছে বেশি প্রিয়, অথচ আমরা গোটা একটা দল। তারপর রায়: আমাদের বাবা স্পষ্ট ভুলের মধ্যে আছেন। তারা মাথা গুনেছিল, কে কত কাজের তা মেপেছিল। হিসাব নিজেদের বিপক্ষে গেল, তাই দোষটা চাপল যিনি ভালোবাসেন তাঁর উপর। এখনো কিছুই করা হয়নি, শুধু কথা। কিন্তু ঠিক পরের আয়াতেই এই কথা পরিকল্পনা হয়ে দাঁড়ায়। তারা যা দেখতে পায়নি, পাঠক তা আগেই জানেন: একটা স্বপ্ন, আর আল্লাহর একটা বাছাই। যারা আমার সঙ্গে একমত, তাদের কাছে বারবার বলে বলে কোন ক্ষোভকে আমি জিইয়ে রাখছি? আর ভালোবাসা যখন মনে হয় আমাকে পাশ কাটিয়ে গেল, তখন দোষ দিই কাকে?",
+    "pointsEn": [
+      "Which grievance have I repeated so often, among people who already agree with me, that it now feels like a fact?",
+      "When someone else is loved or praised more than me, do I first ask what they have that I lack, or what the one who loves them must be getting wrong?",
+      "Do I measure my place in my family by how useful I am, and expect love to be paid out in that same coin?",
+      "As a parent, teacher or elder, could someone in my care be seeing a preference in me that I have never noticed in myself?",
+      "What might I not know about a decision I am quick to call a plain mistake?"
+    ],
+    "pointsBn": [
+      "যারা আগে থেকেই আমার সঙ্গে একমত, তাদের কাছে কোন ক্ষোভের কথা আমি এত বেশি বলেছি যে এখন সেটাকে সত্য বলেই মনে হয়?",
+      "অন্য কেউ আমার চেয়ে বেশি ভালোবাসা বা প্রশংসা পেলে আমি আগে কী ভাবি: তার এমন কী আছে যা আমার নেই, নাকি যে তাকে ভালোবাসে সে নিশ্চয়ই ভুল করছে?",
+      "পরিবারে আমার জায়গা কি আমি মাপি আমি কতটা কাজের তা দিয়ে, আর আশা করি ভালোবাসাও সেই হিসাবেই মিলবে?",
+      "বাবা-মা, শিক্ষক বা মুরুব্বি হিসেবে আমার দায়িত্বে থাকা কেউ কি আমার মধ্যে এমন পক্ষপাত দেখছে, যা আমি নিজে কখনো টের পাইনি?",
+      "যে সিদ্ধান্তকে আমি চট করে স্পষ্ট ভুল বলে দিই, তার কোন দিকটা হয়তো আমার জানা নেই?"
+    ],
+    "lessonEn": "Love is not a wage paid for usefulness or numbers. Before calling another's choice a plain error, remember what you cannot see, and do not let a private grievance grow by repetition.",
+    "lessonBn": "ভালোবাসা কাজের বা সংখ্যার মজুরি নয়। অন্যের সিদ্ধান্তকে স্পষ্ট ভুল বলার আগে মনে রাখুন, সবটা আপনি দেখতে পান না। আর মনের ক্ষোভকে বারবার বলে বলে বাড়তে দেবেন না।"
   }
 };
 
