@@ -3583,6 +3583,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:67": {
+    "sections": [
+      {
+        "h": {
+          "en": "Ten Words Against Two Charges",
+          "bn": "দুই অভিযোগের জবাবে দশ শব্দ"
+        },
+        "p": [
+          {
+            "en": "The verse is the second line of a short exchange. In 7:65 Hud (AS) is sent to 'Ad, their brother, and calls them to worship Allah, for they have no god besides Him, and asks whether they will not fear Him. In 7:66 the eminent men among his people who disbelieved answer with two charges: we see you in foolishness, and we think you are one of the liars. Our verse is his reply to the first, and 7:68 and 7:69 carry the rest of what he says.",
+            "bn": "আয়াতটি এক ছোট কথোপকথনের দ্বিতীয় লাইন। ৭:৬৫ আয়াতে হূদ (আঃ) আদ জাতির কাছে প্রেরিত হন, তাদেরই ভাই হিসেবে। তিনি তাদের ডাকেন আল্লাহর ইবাদতের দিকে, কারণ তিনি ছাড়া তাদের কোনো ইলাহ নেই, আর জিজ্ঞেস করেন: তোমরা কি তাকওয়া অবলম্বন করবে না? ৭:৬৬ আয়াতে তাঁর কওমের কাফির সর্দারেরা জবাবে দুটি অভিযোগ তোলে। এক, আমরা তোমাকে নির্বুদ্ধিতায় দেখছি। দুই, আমাদের ধারণা তুমি মিথ্যাবাদীদের একজন। আমাদের আয়াত প্রথম অভিযোগের জবাব। তাঁর বাকি কথা আসে ৭:৬৮ ও ৭:৬৯ আয়াতে।"
+          },
+          {
+            "en": "In Arabic the reply is ten words: qala ya qawmi laysa bi safahatun wa lakinni rasulun min rabbil-'alamin, he said, O my people, there is no foolishness in me, but I am a messenger from the Lord of the worlds. The shape repeats the reply of Nuh (AS) in 7:61, with dalalah, error, in place of safahah. Ma'arif al-Qur'an notes that Hud's answer across 7:67 and 7:68 is nearly the same as the one Nuh (AS) gave. What follows stays with the one word that differs.",
+            "bn": "আরবিতে জবাবটি দশটি শব্দের: কালা ইয়া কাওমি লাইসা বী সাফাহাতুন ওয়া লাকিন্নী রাসূলুম মির রাব্বিল আলামীন। অর্থাৎ তিনি বললেন, হে আমার কওম, আমার মধ্যে কোনো নির্বুদ্ধিতা নেই, বরং আমি বিশ্বজগতের রবের পক্ষ থেকে একজন রাসূল। ৭:৬১ আয়াতে নূহের (আঃ) জবাবের গড়নও ঠিক এমন, শুধু সাফাহাহর জায়গায় সেখানে দালালাহ, মানে ভ্রান্তি। মাআরিফুল কুরআন বলে, ৭:৬৭ ও ৭:৬৮ জুড়ে হূদের (আঃ) জবাব নূহের (আঃ) জবাবের প্রায় হুবহু। এখানে আমরা থাকব সেই একটি শব্দের কাছে, যেখানে দুটো আলাদা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spears Tossed by the Wind",
+          "bn": "বাতাসে দোলা বর্শার ডগা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi defines safahah as humq wa khiffat 'aql, stupidity and lightness of mind, and supports it with a line of verse that likens a gait to the way spears sway when the passing breezes tasaffahat their tips, set them swaying. The picture carries the root sense of the word: something light, with no weight to hold it still, so that it moves with whatever blows past. He adds that this meaning was already explained in his commentary on al-Baqarah.",
+            "bn": "কুরতুবী সাফাহাহর অর্থ করেন হুমক ওয়া খিফফাতুল আকল, অর্থাৎ বোকামি আর বুদ্ধির হালকাভাব। সমর্থনে তিনি একটি কবিতার পঙক্তি আনেন। সেখানে হাঁটার ভঙ্গিকে তুলনা করা হয়েছে বর্শার সঙ্গে, যার মাথা পাশ দিয়ে বয়ে যাওয়া মৃদু বাতাস দুলিয়ে দেয়। কবিতায় দুলিয়ে দেওয়ার ক্রিয়াটি এই শব্দেরই ধাতু থেকে, তাসাফফাহাত। ছবিটা শব্দের মূল অর্থ ধরে রাখে: হালকা কিছু, যাকে স্থির রাখার মতো ভার নেই, তাই যে বাতাস আসে তার সঙ্গেই দোলে। কুরতুবী আরও বলেন, এ অর্থের ব্যাখ্যা তিনি আগেই সূরা বাকারার তাফসীরে দিয়েছেন।"
+          },
+          {
+            "en": "The other commentators divide along two lines. Al-Baghawi glosses the chiefs' word as humq and jahalah, stupidity and ignorance, and al-Muyassar renders Hud's denial as: there is no deficiency in my intellect. For them the charge is about the mind. At-Tabari reads it as a charge about the road: on both 7:66 and 7:67 he glosses safahah as dalalah 'anil-haqqi wal-sawab, straying from the truth and from what is right, and on 7:66 he names what they meant by it, his leaving their religion and the worship of their gods.",
+            "bn": "বাকি তাফসীরকারদের ব্যাখ্যা দুই ধারায় ভাগ হয়। বাগাভী সর্দারদের শব্দটির অর্থ করেন হুমক ও জাহালাহ, বোকামি আর অজ্ঞতা। মুয়াসসার হূদের (আঃ) অস্বীকারকে লেখে এভাবে: আমার বুদ্ধিতে কোনো ঘাটতি নেই। তাঁদের কাছে অভিযোগটা মাথা নিয়ে। তাবারী একে পড়েন পথ নিয়ে অভিযোগ হিসেবে। ৭:৬৬ ও ৭:৬৭ দুই জায়গাতেই তিনি সাফাহাহর অর্থ করেন দালালাতুন আনিল হাক্কি ওয়াস সাওয়াব, মানে সত্য আর সঠিক থেকে বিচ্যুতি। ৭:৬৬ আয়াতে তিনি এটাও বলে দেন, এ কথা দিয়ে তারা কী বোঝাতে চেয়েছিল: তাদের দ্বীন আর তাদের দেবতাদের পূজা তিনি ছেড়ে দিয়েছেন।"
+          },
+          {
+            "en": "As-Sa'di joins the two. On 7:66 he restates the chiefs' claim as: we see you only as safih ghayr rashid, foolish and not rightly guided, so the opposite of safahah is rushd, the soundness that finds the right course. On 7:67 he answers it in the same terms: Hud (AS) is al-rasul al-murshid al-rashid, the messenger who guides others aright and is himself rightly guided. Lightness of mind and loss of the road are, on this reading, one failure seen from two sides.",
+            "bn": "সা'দী দুটোকে মিলিয়ে দেন। ৭:৬৬ আয়াতে সর্দারদের দাবি তিনি নতুন করে বলেন এভাবে: আমরা তোমাকে দেখি কেবল সাফীহ গাইরু রাশীদ হিসেবে, বোকা আর সঠিক পথ থেকে দূরে। তাহলে সাফাহাহর বিপরীত হলো রুশদ, সেই সুস্থ বিবেচনা যা সঠিক পথ খুঁজে পায়। ৭:৬৭ আয়াতে তিনি একই ভাষায় জবাব দেন: হূদ (আঃ) হলেন আর-রাসূলুল মুরশিদুর রাশীদ, এমন রাসূল যিনি অন্যকে সঠিক পথ দেখান এবং নিজেও সঠিক পথে আছেন। এই পাঠে মাথার হালকাভাব আর পথ হারানো আসলে একই ব্যর্থতা, শুধু দুই দিক থেকে দেখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What They Saw, What They Guessed",
+          "bn": "যা দেখল, আর যা আন্দাজ করল"
+        },
+        "p": [
+          {
+            "en": "The two charges in 7:66 are not made with the same verb. Of the foolishness the chiefs say inna la-naraka, we see you; of the lying, inna la-nazunnuka, we think you. Al-Qurtubi records two views on that seeing, both for this story and for Nuh's: that it is the seeing of the eye, or that it may mean ra'y, an opinion that amounts to their strongest supposition. As-Sa'di keeps the step between them: we see you as nothing but foolish, and it weighs most in our supposition that you are among the liars.",
+            "bn": "৭:৬৬ আয়াতের দুই অভিযোগ একই ক্রিয়া দিয়ে তোলা হয়নি। নির্বুদ্ধিতার বেলায় সর্দারেরা বলে ইন্না লানারাকা, আমরা তোমাকে দেখছি। মিথ্যার বেলায় বলে ইন্না লানাযুন্নুকা, আমাদের ধারণা। এই দেখা নিয়ে কুরতুবী দুটি মত উল্লেখ করেন, এ কাহিনি আর নূহের (আঃ) কাহিনি দুই জায়গার জন্যই। এক মতে এটা চোখের দেখা। আরেক মতে এর মানে রায়, এমন অভিমত যা তাদের প্রবল ধারণার সমান। সা'দী দুই ধাপের পার্থক্যটা রেখে দেন: আমরা তোমাকে বোকা ছাড়া আর কিছু দেখি না, আর আমাদের ধারণায় বেশি ভারী হলো যে তুমি মিথ্যাবাদীদের দলে।"
+          },
+          {
+            "en": "What did they think he was lying about? At-Tabari's comment runs straight from 7:66 into our verse: we think you are among the liars in your saying, I am a messenger from the Lord of the worlds. Al-Baghawi says the same: in claiming that you are Allah's messenger to us. So the second half of Hud's reply is the very sentence they had called a lie. Al-Baghawi also reports from Ibn 'Abbas what lay behind the first charge: you call us to a religion we do not know.",
+            "bn": "কোন বিষয়ে তারা তাঁকে মিথ্যাবাদী ভাবছিল? তাবারীর ব্যাখ্যা ৭:৬৬ থেকে সোজা আমাদের আয়াতে গড়িয়ে আসে: আমাদের ধারণা তুমি মিথ্যাবাদীদের একজন, তোমার এই কথায় যে আমি বিশ্বজগতের রবের রাসূল। বাগাভীও একই কথা বলেন: তুমি যে দাবি করছ আমাদের কাছে আল্লাহর রাসূল। তাহলে হূদের (আঃ) জবাবের দ্বিতীয় অর্ধেক ঠিক সেই বাক্য, যাকে তারা মিথ্যা বলেছিল। প্রথম অভিযোগের পেছনে কী ছিল, বাগাভী তা ইবনু আব্বাস (রাঃ) থেকে বর্ণনা করেন: তুমি আমাদের এমন এক দ্বীনের দিকে ডাকছ, যা আমরা চিনি না।"
+          },
+          {
+            "en": "Ibn Kathir names the same ground. They called him misguided because he called them to leave the worship of idols and turn to the worship of Allah alone, with no partner. He sets beside it the chiefs of Quraysh, who wondered at the call to one God and said, in 38:5, has he made the gods one God? The charge of foolishness, on these readings, had little to do with Hud's mind. It was the price of asking a people to leave what was familiar.",
+            "bn": "ইবন কাসীরও একই কারণ চিহ্নিত করেন। তারা তাঁকে পথভ্রষ্ট বলেছিল, কারণ তিনি মূর্তিপূজা ছেড়ে এক আল্লাহর ইবাদতের দিকে ফিরতে ডাকছিলেন, যাঁর কোনো শরীক নেই। এর পাশে তিনি রাখেন কুরাইশের সর্দারদের, যারা এক ইলাহের দাওয়াত শুনে অবাক হয়েছিল। ৩৮:৫ আয়াতে তারা বলেছিল, সে কি সব ইলাহকে এক ইলাহ বানিয়ে ফেলেছে? এসব ব্যাখ্যা অনুযায়ী নির্বুদ্ধিতার অভিযোগের সঙ্গে হূদের (আঃ) বুদ্ধির সম্পর্ক সামান্যই। এ ছিল চেনা জিনিস ছাড়তে বলার মাশুল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not in Me, in Any Respect",
+          "bn": "আমার মধ্যে কোনোভাবেই নেই"
+        },
+        "p": [
+          {
+            "en": "Laysa bi safahatun: literally, there is not in me foolishness. He does not argue that he is clever, and he does not list his qualifications. He denies that the thing they named is present in him at all. As-Sa'di reads the denial at its full strength, bi-wajhin min al-wujuh, in no respect whatsoever. Ibn Kathir paraphrases it as: I am not as you claim. Al-Muyassar, as above, makes it a denial of any lack in his reasoning, and at-Tabari a denial of having strayed from the truth.",
+            "bn": "লাইসা বী সাফাহাতুন: শাব্দিক অর্থে, আমার মধ্যে নির্বুদ্ধিতা নেই। তিনি নিজেকে বুদ্ধিমান প্রমাণের চেষ্টা করেন না, নিজের যোগ্যতার তালিকাও দেন না। তারা যে জিনিসের নাম নিয়েছে, সেটা তাঁর ভেতরে আদৌ আছে কি না, শুধু সেটাই অস্বীকার করেন। সা'দী এই অস্বীকারকে পড়েন পূর্ণ শক্তিতে: বিওয়াজহিম মিনাল উজূহ, কোনো দিক থেকেই নয়। ইবন কাসীর এর মর্ম লেখেন এভাবে: তোমরা যেমন দাবি করছ, আমি তেমন নই। মুয়াসসার, আগেই যেমন বলা হলো, একে পড়ে বুদ্ধির কোনো ঘাটতি না থাকার কথা হিসেবে, আর তাবারী পড়েন সত্য থেকে বিচ্যুত না হওয়ার কথা হিসেবে।"
+          },
+          {
+            "en": "Two things in the wording deserve a slower look. He opens with ya qawmi, O my people, to men who have just called him a fool and a liar, so the bond is kept in the very sentence that answers the insult. And he does not hand the word back. Hud (AS) is not silent about their wrong elsewhere: in 11:50 he tells them they are only inventing falsehood, and in 7:71 he warns them of anger already fallen. Here, answering a charge against himself, he answers only the charge.",
+            "bn": "শব্দচয়নের দুটি দিক একটু ধীরে দেখার মতো। যারা এইমাত্র তাঁকে বোকা আর মিথ্যাবাদী বলেছে, তাদের তিনি শুরুতেই ডাকেন ইয়া কাওমি, হে আমার কওম। অপমানের জবাব যে বাক্যে, সেই বাক্যেই সম্পর্কটা ধরে রাখা হয়। দ্বিতীয়ত, শব্দটা তিনি ওদের দিকে ছুড়ে ফেরত দেন না। অবশ্য ওদের অন্যায় নিয়ে হূদ (আঃ) অন্য জায়গায় চুপ থাকেননি। ১১:৫০ আয়াতে তিনি বলেন, তোমরা কেবল মিথ্যা রচনা করছ, আর ৭:৭১ আয়াতে সতর্ক করেন, ক্রোধ তোমাদের উপর এসে পড়েছে। কিন্তু এখানে অভিযোগটা তাঁর নিজের বিরুদ্ধে, তাই তিনি জবাব দেন কেবল অভিযোগটুকুর।"
+          },
+          {
+            "en": "Then wa lakinni, but I am. The denial is not left standing on its own; it turns at once to what he is. At-Tabari spells out what the clause carries: Allah sent me, so I convey to you the messages of my Lord and deliver them to you as He commanded me to deliver them. Ibn Kathir reads it as: I have brought you the truth from Allah, who created everything, and He is the Lord of everything and its Sovereign. The sentence moves from his person to his Sender in the space of a single word.",
+            "bn": "তারপর ওয়া লাকিন্নী, বরং আমি। অস্বীকারটুকু একা দাঁড়িয়ে থাকে না, সঙ্গে সঙ্গে মোড় নেয় তিনি আসলে কে, সেই দিকে। এই অংশে কী আছে, তাবারী খুলে বলেন: আল্লাহ আমাকে পাঠিয়েছেন, তাই আমি তোমাদের কাছে আমার রবের বাণী পৌঁছে দিই, আর তিনি যেভাবে পৌঁছাতে আদেশ করেছেন, ঠিক সেভাবেই পৌঁছাই। ইবন কাসীর একে পড়েন এভাবে: আমি তোমাদের কাছে সত্য নিয়ে এসেছি আল্লাহর পক্ষ থেকে, যিনি সবকিছু সৃষ্টি করেছেন। তিনিই সবকিছুর রব, সবকিছুর মালিক। মাত্র একটি শব্দের ব্যবধানে বাক্যটি তাঁর নিজের সত্তা থেকে সরে যায় তাঁর প্রেরকের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Lightness Really Lay",
+          "bn": "হালকাভাব আসলে কোথায় ছিল"
+        },
+        "p": [
+          {
+            "en": "What Hud (AS) left unsaid, as-Sa'di says in his comment on 7:66. Reality was turned upside down for them, so that they charged their prophet with what was in fact their own description, though he was the furthest of people from it. They were the truly foolish and the truly lying. And what foolishness, he asks, is greater than meeting the truest truth with rejection, being too proud to follow sincere guides, giving heart and body over to every rebel devil, and placing worship where it does not belong, in trees and stones that avail nothing?",
+            "bn": "হূদ (আঃ) যা মুখে আনেননি, সা'দী তা বলেন ৭:৬৬ আয়াতের ব্যাখ্যায়। তাদের কাছে বাস্তবতা উল্টে গিয়েছিল। তাই যে গুণ আসলে তাদের নিজেদের, সেটাই তারা চাপিয়ে দিল নিজেদের নবীর উপর, অথচ মানুষের মধ্যে তিনিই তা থেকে সবচেয়ে দূরে। আসল বোকা আর আসল মিথ্যাবাদী তারাই। সা'দী প্রশ্ন রাখেন: এর চেয়ে বড় বোকামি আর কী, যে সবচেয়ে সত্য কথাকে ফিরিয়ে দেয়, আন্তরিক পথপ্রদর্শকদের মানতে অহংকার করে, দেহমন সঁপে দেয় প্রতিটি অবাধ্য শয়তানের হাতে, আর ইবাদত রাখে ভুল জায়গায়, এমন গাছ আর পাথরে যা কোনো কাজে আসে না?"
+          },
+          {
+            "en": "The Qur'an itself makes that reversal in other places, in its own voice. In 2:13, when the hypocrites ask, shall we believe as the foolish have believed, it answers: unquestionably, it is they who are the foolish, but they do not know. And 2:130 asks who would turn away from the religion of Ibrahim (AS) except a person who makes a fool of himself. Placed beside these, the restraint of 7:67 is clearer. The verdict on who is truly foolish belongs to Allah. The messenger, accused, only says that the charge is not true of him.",
+            "bn": "কুরআন নিজেও অন্য জায়গায়, নিজের ভাষায়, এভাবে উল্টে দেয়। ২:১৩ আয়াতে মুনাফিকরা যখন বলে, বোকারা যেমন ঈমান এনেছে আমরাও কি তেমন ঈমান আনব, কুরআন জবাব দেয়: জেনে রাখো, তারাই আসল বোকা, কিন্তু তারা তা জানে না। আর ২:১৩০ আয়াত প্রশ্ন করে, যে নিজেকে বোকা বানিয়েছে সে ছাড়া কে ইবরাহীমের (আঃ) মিল্লাত থেকে মুখ ফেরাবে? এগুলোর পাশে রাখলে ৭:৬৭ আয়াতের সংযম আরও স্পষ্ট হয়। আসলে কে বোকা, সে রায় দেওয়ার মালিক আল্লাহ। অভিযুক্ত রাসূল শুধু এটুকু বলেন যে অভিযোগটা তাঁর বেলায় সত্য নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Adviser Who Can Be Trusted",
+          "bn": "যাঁকে ভরসা করা যায়, এমন হিতাকাঙ্ক্ষী"
+        },
+        "p": [
+          {
+            "en": "Our verse answers the foolishness; the next one answers the lying. In 7:68 he says, I convey to you the messages of my Lord, and I am to you a trustworthy adviser, nasihun amin. At-Tabari reads amin as trustworthy over Allah's revelation and over the message entrusted to him: I do not lie in it, add to it or alter it, but convey what I was commanded as I was commanded. Al-Baghawi reports from al-Kalbi a plainer sense: I was trustworthy among you before today.",
+            "bn": "আমাদের আয়াত জবাব দেয় নির্বুদ্ধিতার অভিযোগের, পরের আয়াত মিথ্যার অভিযোগের। ৭:৬৮ আয়াতে তিনি বলেন, আমি তোমাদের কাছে আমার রবের বাণী পৌঁছে দিই, আর আমি তোমাদের বিশ্বস্ত হিতাকাঙ্ক্ষী, নাসিহুন আমীন। তাবারীর ব্যাখ্যায় আমীন মানে আল্লাহর ওহি আর তাঁর দেওয়া রিসালাতের আমানতদার। আমি তাতে মিথ্যা বলি না, কিছু বাড়াই না, বদলাই না, যেভাবে আদেশ পেয়েছি ঠিক সেভাবে পৌঁছে দিই। বাগাভী আল-কালবী থেকে আরও সহজ একটি অর্থ বর্ণনা করেন: আজকের আগেও আমি তোমাদের মধ্যে বিশ্বস্ত ছিলাম।"
+          },
+          {
+            "en": "Ibn Kathir draws the two verses together: these are the qualities of the messengers, conveying the message, sincere counsel and trustworthiness. Read that way, Hud's answer to an insult is a description of the work he was given. Elsewhere the Qur'an records the same accusation in a harsher form. In 11:54 his people say they can only suppose that one of their gods has struck him with some evil, and he answers by calling Allah to witness that he is free of what they associate with Him. In 26:125 he says simply, I am to you a trustworthy messenger.",
+            "bn": "ইবন কাসীর দুই আয়াতকে এক সূত্রে বাঁধেন: এগুলোই রাসূলদের গুণ, বাণী পৌঁছে দেওয়া, আন্তরিক কল্যাণকামনা আর আমানতদারি। এভাবে পড়লে অপমানের জবাবে হূদ (আঃ) আসলে নিজের দায়িত্বের বর্ণনাই দেন। কুরআন অন্যত্র একই অভিযোগ আরও কঠিন রূপে তুলে ধরে। ১১:৫৪ আয়াতে তাঁর কওম বলে, আমরা তো এটুকুই বলি যে আমাদের কোনো দেবতা তোমার উপর অশুভ কিছু চাপিয়েছে। জবাবে তিনি আল্লাহকে সাক্ষী রেখে ঘোষণা করেন, তারা আল্লাহর সঙ্গে যাদের শরীক করে, তাদের সঙ্গে তাঁর কোনো সম্পর্ক নেই। আর ২৬:১২৫ আয়াতে তিনি সোজাসুজি বলেন, আমি তোমাদের জন্য এক বিশ্বস্ত রাসূল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wiping the Blood From His Face",
+          "bn": "মুখ থেকে রক্ত মুছতে মুছতে"
+        },
+        "p": [
+          {
+            "en": "None of the tafsir fetched for this verse attaches a hadith to it. One narration, not connected to this verse or to Hud (AS) by name, shows the same temper under far worse treatment. Al-Bukhari records (3477) from 'Abdullah: \"As if I saw the Prophet (ﷺ) talking about one of the prophets whose nation had beaten him and caused him to bleed, while he was cleaning the blood off his face and saying, 'O Allah! Forgive my nation, for they have no knowledge.'\"",
+            "bn": "এই আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদিস যুক্ত করেনি। একটি বর্ণনা আছে, যা এই আয়াতের সঙ্গে যুক্ত নয়, হূদের (আঃ) নামও তাতে নেই, তবু আরও কঠিন অবস্থায় একই মেজাজ দেখায়। আল-বুখারী (৩৪৭৭) আবদুল্লাহ (রাঃ) থেকে বর্ণনা করেন: আমি যেন এখনো নবী ﷺ-কে দেখতে পাচ্ছি, তিনি নবীদের একজনের কথা বলছিলেন, যাঁকে তাঁর কওম মেরে রক্তাক্ত করেছিল। তিনি মুখ থেকে রক্ত মুছছিলেন আর বলছিলেন, হে আল্লাহ, আমার কওমকে ক্ষমা করুন, কারণ তারা জানে না।"
+          },
+          {
+            "en": "This also needs saying plainly. The verse reports what the chiefs of 'Ad said to their prophet and how he answered. It describes one people in one story and licenses nothing against any living person or community. It gives no one the right to call others the people of 'Ad, or to treat a person who mocks religion as already judged. The verdicts in this surah are Allah's; what the verse hands to a reader is a way of answering when the mockery is aimed at oneself.",
+            "bn": "এ কথাও সোজাসুজি বলা দরকার। আয়াতটি জানায়, আদ জাতির সর্দারেরা তাদের নবীকে কী বলেছিল আর তিনি কী জবাব দিয়েছিলেন। এটা এক কাহিনির এক জাতির বর্ণনা। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কাউকে আদ জাতি বলে ডাকার অধিকারও কাউকে দেয় না, আর দ্বীন নিয়ে ঠাট্টা করে এমন কাউকে আগেভাগেই বিচারিত ধরে নেওয়ারও না। এই সূরার রায়গুলো আল্লাহর। পাঠকের হাতে আয়াতটি তুলে দেয় একটা পথ: ঠাট্টা যখন নিজের দিকে আসে, তখন কীভাবে জবাব দিতে হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When You Are the Target",
+          "bn": "শব্দটা যখন আপনার দিকে ছোড়া হয়"
+        },
+        "p": [
+          {
+            "en": "Most people who try to live by their faith will at some point be told, in one form or another, that they are being foolish: that the prayer is a waste of a working afternoon, or that refusing a profitable deal is naive. The verse gives a shape for the answer. Deny what is false, plainly and once. Keep calling them your people. Do not add an insult of your own to balance the one you received. Then turn the talk away from yourself, to what you are carrying and to the One it came from.",
+            "bn": "ঈমান নিয়ে বাঁচতে চায় এমন প্রায় সবাইকে কোনো না কোনো সময় শুনতে হয় যে সে বোকামি করছে। কাজের দুপুর নষ্ট করে নামাজ পড়া বোকামি, লাভের চুক্তি ফিরিয়ে দেওয়া সরলতা। আয়াতটি জবাবের একটা গড়ন দেয়। যা মিথ্যা তা অস্বীকার করুন, পরিষ্কার করে, একবার। তাদের আপন মানুষ বলে ডাকা থামাবেন না। যে অপমান পেলেন, তার শোধ নিতে নিজের দিক থেকে আরেকটা অপমান জুড়বেন না। তারপর কথাটা নিজের থেকে সরিয়ে নিন আপনি যা বয়ে বেড়াচ্ছেন সেদিকে, আর যাঁর কাছ থেকে তা এসেছে তাঁর দিকে।"
+          },
+          {
+            "en": "The denial has a condition built into it. Hud (AS) could say there was no foolishness in him because there was none. A reader cannot borrow that sentence without checking. Sometimes the person who calls us foolish has seen something true: a harshness in how we spoke, a carelessness in what we did, a show of religion with little behind it. The honest use of the verse begins by asking whether the charge fits. Where it does, the answer is to mend it. Where it does not, the answer is laysa bi, and no more.",
+            "bn": "এই অস্বীকারের ভেতরে একটা শর্ত লুকিয়ে আছে। হূদ (আঃ) বলতে পেরেছিলেন তাঁর মধ্যে নির্বুদ্ধিতা নেই, কারণ সত্যিই ছিল না। পাঠক যাচাই না করে বাক্যটা ধার নিতে পারেন না। কখনো কখনো যে আমাদের বোকা বলে, সে সত্যিই কিছু দেখেছে: কথার মধ্যে রুক্ষতা, কাজে অসাবধানতা, কিংবা ভেতরে সামান্য কিছু রেখে বাইরে দ্বীনদারির প্রদর্শন। আয়াতের সৎ ব্যবহার শুরু হয় এই প্রশ্ন দিয়ে: অভিযোগটা কি আমার বেলায় খাটে? খাটলে জবাব হলো নিজেকে শুধরে নেওয়া। না খাটলে জবাব লাইসা বী, এর বেশি কিছু নয়।"
+          },
+          {
+            "en": "The verse can also be turned into asking. Hud (AS) needed his mind steady, his course right and his tongue clean, and so does anyone who carries his message after him. A short prayer drawn from the verse's words, not a narrated du'a: O Allah, keep my mind steady and my course right, let me answer those who mock me without wronging them, and when I speak, let me speak of You more than of myself.",
+            "bn": "আয়াতটিকে দোয়াতেও রূপ দেওয়া যায়। হূদের (আঃ) দরকার ছিল স্থির বুদ্ধি, সঠিক পথ আর পরিচ্ছন্ন জবান। তাঁর পরে যে-ই এই বার্তা বয়ে নেয়, তারও দরকার একই জিনিস। আয়াতের শব্দ থেকে একটি ছোট দোয়া, যা বর্ণিত দোয়া নয়: হে আল্লাহ, আমার বুদ্ধিকে স্থির রাখুন, আমার পথ সঠিক রাখুন। যারা আমাকে নিয়ে ঠাট্টা করে, তাদের উপর জুলুম না করে জবাব দেওয়ার তাওফিক দিন। আর যখন কথা বলি, নিজের কথার চেয়ে আপনার কথা যেন বেশি বলি।"
+          }
+        ]
+      }
+    ]
+  },
   "7:69": {
     "sections": [
       {

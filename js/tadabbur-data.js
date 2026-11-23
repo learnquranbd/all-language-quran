@@ -31603,6 +31603,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Act on what the Book promises while acting still counts; the confession and the wish for a second chance that come on the Day come too late.",
     "lessonBn": "কিতাব যা জানিয়েছে, আমল যতদিন কাজে আসে, ততদিনেই সে অনুযায়ী আমল করুন। সেদিনের স্বীকারোক্তি আর ফিরে আসার আবদার, দুটোই আসবে বড় দেরিতে।"
+  },
+  "7:67": {
+    "reflectionEn": "The leading men of 'Ad looked at Hud (AS) and said they saw him sunk in foolishness, and they suspected he was lying. The word they chose means lightness of mind, a head that sways with every wind. His answer is ten words long. He still calls them my people. He takes their word, sets a no in front of it, and gives it back without adding one of his own. Then he moves at once from himself to his message: I am a messenger from the Lord of the worlds. He does not defend his pride; he points past himself. When someone calls me a fool, which do I protect first: my standing, or the truth I was carrying?",
+    "reflectionBn": "আদ জাতির সর্দারেরা হূদের (আঃ) দিকে তাকিয়ে বলল, আমরা তোমাকে নির্বুদ্ধিতায় ডুবে থাকতে দেখছি, আর আমাদের ধারণা তুমি মিথ্যা বলছ। যে শব্দটা তারা বেছে নিল, তার মানে হালকা মাথা, এমন বুদ্ধি যা যেকোনো বাতাসে দোলে। তাঁর জবাব মাত্র দশটি শব্দের। তখনো তিনি তাদের ডাকছেন, হে আমার সম্প্রদায়। ওদের শব্দটাই তিনি তুলে নেন, সামনে একটা না বসিয়ে ফিরিয়ে দেন, নিজের দিক থেকে কোনো গালি যোগ করেন না। তারপর সঙ্গে সঙ্গে নিজের কথা ছেড়ে বার্তার কথায় চলে যান: আমি বিশ্বজগতের রবের পক্ষ থেকে রাসূল। নিজের মান বাঁচানোর চেষ্টা তিনি করেন না, নিজেকে ছাড়িয়ে আঙুল তোলেন বার্তার দিকে। কেউ যখন আমাকে বোকা বলে, আমি আগে কী বাঁচাতে যাই: নিজের সম্মান, নাকি যে সত্যটা আমি বয়ে বেড়াচ্ছিলাম?",
+    "pointsEn": [
+      "The last time someone mocked my judgement, did my reply add an insult of its own, or only set the record straight?",
+      "Is there any truth in the charge I most resent hearing, and have I honestly checked before denying it?",
+      "When I defend what I believe, how quickly do I move from talking about myself to talking about what is true?",
+      "Whom do I still call my people even after they have turned on me, and how does that show in the way I speak to them?",
+      "Have I ever called someone foolish simply because they asked me to leave what I was used to?"
+    ],
+    "pointsBn": [
+      "শেষবার কেউ যখন আমার বুদ্ধি নিয়ে ঠাট্টা করেছিল, আমার জবাবে কি নিজের দিক থেকে কোনো খোঁচা ছিল, নাকি শুধু ভুলটা শুধরে দিয়েছিলাম?",
+      "যে অভিযোগ শুনলে আমার সবচেয়ে বেশি গায়ে লাগে, তাতে কি কিছুটা সত্য আছে? অস্বীকার করার আগে সৎভাবে কি যাচাই করে দেখেছি?",
+      "নিজের বিশ্বাসের পক্ষে বলতে গিয়ে আমি কত তাড়াতাড়ি নিজের কথা ছেড়ে সত্যের কথায় আসি?",
+      "আমার বিরুদ্ধে দাঁড়ানোর পরেও কাদের আমি এখনো আপন মানুষ বলে ডাকি? আমার কথার ভঙ্গিতে সেটা কি ধরা পড়ে?",
+      "শুধু অভ্যাসের জিনিস ছাড়তে বলেছে বলে কাউকে কি কখনো বোকা ঠাউরেছি?"
+    ],
+    "lessonEn": "When you are called a fool for the truth, deny the charge without returning it, and turn the conversation from your own standing to the message you carry.",
+    "lessonBn": "সত্যের জন্য কেউ আপনাকে বোকা বললে অভিযোগটা অস্বীকার করুন, কিন্তু ফিরিয়ে দেবেন না। আর কথাটা নিজের মানসম্মান থেকে ঘুরিয়ে নিন বার্তার দিকে।"
   }
 };
 
