@@ -619,6 +619,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:16": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Exception Follows the Command",
+          "bn": "হুকুমের পরেই ব্যতিক্রম"
+        },
+        "p": [
+          {
+            "en": "8:15 gave the command: when you meet those who disbelieve advancing in battle, do not turn your backs to them. 8:16 completes it in one sentence that does three things. It names the act, turning one's back on that day. It cuts two exceptions out of it with illa, unless. And it states what falls on whoever turns without either: he has returned with anger from Allah, his abode is Jahannam, and wretched is the destination. Then 8:17 goes back to the story of Badr.",
+            "bn": "৮:১৫ হুকুম দিয়েছে: যুদ্ধের ময়দানে কাফিরদের বাহিনী এগিয়ে এলে তাদের দিকে পিঠ ফিরিয়ো না। ৮:১৬ একটি বাক্যেই সেই হুকুম পূর্ণ করে, আর তাতে তিনটি কাজ হয়। প্রথমে কাজটির নাম: সেদিন পিঠ ফেরানো। তারপর ইল্লা, মানে 'তবে', শব্দ দিয়ে তা থেকে দুটি ব্যতিক্রম আলাদা করা। শেষে জানানো, এ দুটোর কোনোটি ছাড়া যে পিঠ ফেরায় তার কী হবে: সে আল্লাহর গজব নিয়ে ফিরল, জাহান্নাম তার ঠিকানা, আর তা কতই না মন্দ গন্তব্য। এরপর ৮:১৭ আবার বদরের কাহিনিতে ফিরে যায়।"
+          },
+          {
+            "en": "The placement matters. A command with no exception would have forbidden every backward movement, including the ones an army needs in order to win. Here the exception arrives in the same breath as the threat, so no one hears the warning without hearing where it stops. The Muyassar keeps both halves together: whoever turns his back at the time of the advance has earned anger from Allah, unless he is turning aside to outwit the disbelievers, or moving to join the body of Muslims present at the fighting.",
+            "bn": "আয়াতের এই বিন্যাস গুরুত্বপূর্ণ। ব্যতিক্রম না থাকলে পেছনের দিকে যেকোনো নড়াচড়াই নিষিদ্ধ হয়ে যেত, এমনকি জয়ের জন্য বাহিনীর যে নড়াচড়া দরকার, সেটাও। কিন্তু ব্যতিক্রম এসেছে হুমকির সঙ্গে একই নিঃশ্বাসে। তাই সতর্কবাণী যে শোনে, সে এটাও শোনে যে তা কোথায় গিয়ে থামে। মুয়াসসার দুটো অংশকে একসঙ্গেই রাখে: যুদ্ধে অগ্রসর হওয়ার সময় যে পিঠ ফেরায়, সে আল্লাহর গজবের যোগ্য হলো। তবে কাফিরদের বিরুদ্ধে কৌশল খাটাতে যে পাশ ফেরে, কিংবা যুদ্ধে উপস্থিত মুসলিমদের দলের সঙ্গে মিলতে যে সরে যায়, সে এর বাইরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Swerving, Then Wheeling Back",
+          "bn": "সরে গিয়ে আবার ঘুরে দাঁড়ানো"
+        },
+        "p": [
+          {
+            "en": "Mutaharrifan li-qital. At-Tabari glosses it as mustatrid: a fighter who draws off in feigned flight while looking for an exposed point in the enemy he can strike, and then wheels back on him. Ibn Kathir describes the ruse more fully, a man running before his opponent so that the other thinks he is afraid and follows, then turning to kill him; he names Sa'id ibn Jubayr and as-Suddi for it. Al-Qurtubi gives the root sense: taharruf is moving off the straight line, side to side, for the stratagems of war.",
+            "bn": "মুতাহাররিফান লিকিতাল। তাবারী এর ব্যাখ্যা দেন মুসতাতরিদ শব্দে: এমন যোদ্ধা, যে পালানোর ভান করে সরে যায় আর শত্রুর এমন দুর্বল ফাঁক খোঁজে যেখানে আঘাত হানা যায়, তারপর ঘুরে তার উপর ঝাঁপিয়ে পড়ে। ইবন কাসীর কৌশলটা আরও খুলে বলেন। প্রতিপক্ষের সামনে থেকে লোকটা দৌড়ায়, যাতে সে ভাবে লোকটা ভয় পেয়েছে আর পিছু নেয়। তারপর ঘুরে দাঁড়িয়ে তাকে হত্যা করে। এ ব্যাখ্যা তিনি সাঈদ ইবন জুবাইর ও সুদ্দীর বলে জানান। কুরতুবী দেন মূল অর্থ: তাহাররুফ মানে সোজা রেখা থেকে সরে যাওয়া, যুদ্ধের কৌশলে এক পাশ থেকে আরেক পাশে।"
+          },
+          {
+            "en": "Not everyone pictures the manoeuvre as a step backwards. Ad-Dahhak, in reports carried by both at-Tabari and Ibn Kathir, makes the mutaharrif a man who goes forward ahead of his companions to spot an opening in the enemy and take it. As-Sa'di widens the purposes: to gain higher ground over the enemy, to come at him from where he is off guard, to deceive him, or any other aim fighters have. His summary joins them all: such a man turned his back, but not in flight.",
+            "bn": "এই কৌশলকে সবাই পিছিয়ে যাওয়া হিসেবে দেখেন না। তাবারী ও ইবন কাসীর দুজনেই দাহহাকের যে বর্ণনা আনেন, তাতে মুতাহাররিফ সেই যোদ্ধা, যে সঙ্গীদের আগে এগিয়ে যায় শত্রুর কোনো ফাঁক দেখে তা কাজে লাগাতে। সা'দী উদ্দেশ্যের তালিকা আরও বড় করেন: শত্রুর চেয়ে উঁচু জায়গা নেওয়া, যেদিকে সে অসতর্ক সেদিক থেকে আসা, তাকে ধোঁকা দেওয়া, কিংবা যোদ্ধাদের অন্য যেকোনো লক্ষ্য। সবগুলোকে তিনি এক কথায় বাঁধেন: এমন লোক পিঠ ফিরিয়েছে ঠিকই, কিন্তু পালানোর জন্য নয়।"
+          },
+          {
+            "en": "Aw mutahayyizan ila fi'ah, or joining a company. A fi'ah is a group, and at-Tabari reads the phrase as moving into the believers' own ground, to those with whom he will go back to the fight. Al-Baghawi makes the intention explicit in both cases: the swerver means to return to the charge, the joiner means to draw strength from his fellows and return with them. Whoever turns without either intention, he says, is reached by the warning. The exception lives in the purpose, not the footsteps.",
+            "bn": "আও মুতাহাইয়িযান ইলা ফিআহ: অথবা কোনো দলের সঙ্গে মিলিত হতে। ফিআহ মানে দল। তাবারীর ব্যাখ্যায় লোকটা সরে যায় মুমিনদের নিজেদের অবস্থানে, যাদের সঙ্গে নিয়ে সে আবার লড়াইয়ে ফিরবে। বাগাভী দুই ক্ষেত্রেই নিয়তকে স্পষ্ট করেন। কৌশলে সরে যাওয়া লোকটি আবার হামলায় ফিরতে চায়। দলের দিকে যে যায়, সে সঙ্গীদের কাছ থেকে শক্তি নিয়ে তাদের সঙ্গেই ফিরতে চায়। তাঁর কথায়, এ দুই নিয়তের কোনোটি ছাড়া যে পিঠ ফেরায়, সতর্কবাণী তার উপরই পড়ে। ব্যতিক্রমটা তাই পায়ের চলায় নয়, উদ্দেশ্যে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Far the Company Reaches",
+          "bn": "দল কত দূর পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "How far away may the company be? The answers differ. The Muyassar says the body of Muslims present at the fighting, wherever they are. As-Suddi, in at-Tabari, says the imam and his troops, and adds that people are not excused, however many they are, for turning away from the imam. Ibn Kathir goes further: even a man in a small detachment who falls back to his commander, or to the supreme imam, comes under this concession.",
+            "bn": "দলটা কত দূরে থাকতে পারে? উত্তর এক নয়। মুয়াসসার বলে, যুদ্ধে উপস্থিত মুসলিমদের দল, তারা যেখানেই থাকুক। তাবারীর বর্ণনায় সুদ্দী বলেন, ইমাম ও তাঁর বাহিনী। তিনি আরও বলেন, লোক যত বেশিই হোক, ইমামকে ফেলে পিঠ ফেরানোর কোনো ওজর তাদের নেই। ইবন কাসীর আরও এগিয়ে যান: ছোট কোনো অভিযানে থাকা লোকও যদি নিজের আমির বা প্রধান ইমামের কাছে ফিরে আসে, সেও এ ছাড়ের আওতায় পড়ে।"
+          },
+          {
+            "en": "Umar ibn al-Khattab (RA) gave the widest answer. Ibn Kathir reports through Muhammad ibn Sirin that when Abu 'Ubayd was killed at the Bridge in Persia, Umar said: had he fallen back to me, I would have been a company for him. In Mujahid's report Umar said: I am the company of every Muslim. Al-Qurtubi adds a man who fled from al-Qadisiyyah, came to Umar in Madinah and said he was ruined, for he had fled the advance. Umar answered: I am your company.",
+            "bn": "সবচেয়ে প্রশস্ত উত্তর দিয়েছেন উমর ইবনুল খাত্তাব (রাঃ)। ইবন কাসীর মুহাম্মাদ ইবন সীরীনের সূত্রে জানান, পারস্যের সেতুর যুদ্ধে আবু উবাইদ নিহত হলে উমর বলেন: সে যদি আমার দিকে সরে আসত, আমিই তার দল হতাম। মুজাহিদের বর্ণনায় উমর বলেছেন: আমি প্রত্যেক মুসলিমের দল। কুরতুবী আরেকটি ঘটনা আনেন। কাদিসিয়া থেকে পালিয়ে এক লোক মদিনায় উমরের কাছে এসে বলল, আমি ধ্বংস হয়ে গেছি, যুদ্ধ থেকে পালিয়ে এসেছি। উমর জবাব দিলেন: আমিই তোমার দল।"
+          },
+          {
+            "en": "Al-Qurtubi sees what hangs on this. On these reports, he writes, such a flight is no major sin, since the company is Madinah, the imam and the Muslims wherever they are; on the other view it is major, since the company is those present at the fighting. The majority, who count fleeing the advance a major sin, explained the Prophet's ﷺ word and Umar's as protective care for believers who in that age stood again and again against many times their number.",
+            "bn": "এর উপর কী নির্ভর করে, কুরতুবী তা দেখান। তাঁর কথায়, এসব বর্ণনা ধরলে এমন পালানো কবিরা গুনাহ নয়, কারণ তখন দল মানে মদিনা, ইমাম আর মুসলিমদের জামাআত, তারা যেখানেই থাকুক। অন্য মত ধরলে তা কবিরা গুনাহ, কারণ সেখানে দল মানে যুদ্ধক্ষেত্রে উপস্থিত লোকজন। তারপর তিনি জানান, যুদ্ধ থেকে পালানোকে যাঁরা কবিরা গুনাহ গণ্য করেন, সেই সংখ্যাগরিষ্ঠ আলেমরা নবী ﷺ ও উমরের কথার কী ব্যাখ্যা দিয়েছেন। তাঁদের মতে এটা ছিল মুমিনদের প্রতি সযত্ন সাবধানতা, কারণ সে যুগে তাঁরা বারবার নিজেদের কয়েক গুণ বড় বাহিনীর সামনে অটল থেকেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Runaways but Returners",
+          "bn": "পলাতক নয়, ফিরে আসার দল"
+        },
+        "p": [
+          {
+            "en": "The Prophet's ﷺ word comes in a report from Abdullah ibn Umar (RA). Jami' at-Tirmidhi 1716 gives it so: The Messenger of Allah ﷺ sent us on an expedition, and the people wheeled away in flight. We came to Madinah, hid ourselves there and said, we are ruined. Then we came to the Messenger of Allah ﷺ and said, Messenger of Allah, we are the ones who fled. He said: rather, you are the 'akkarun, and I am your company. At-Tirmidhi grades it hasan and says it is known only through Yazid ibn Abi Ziyad.",
+            "bn": "নবী ﷺ-এর যে কথার প্রসঙ্গ এখানে, তা এসেছে আবদুল্লাহ ইবন উমর (রাঃ)-এর এক বর্ণনায়। জামে তিরমিযী ১৭১৬-এ তা এভাবে আছে: রাসূলুল্লাহ ﷺ আমাদের এক অভিযানে পাঠালেন। লোকজন পিছু হটে পালাল। আমরা মদিনায় এসে সেখানে লুকিয়ে রইলাম আর বললাম, আমরা ধ্বংস হয়ে গেছি। তারপর রাসূলুল্লাহ ﷺ-এর কাছে এসে বললাম, হে আল্লাহর রাসূল, আমরা পলাতক। তিনি বললেন: বরং তোমরা আক্কারূন, আর আমি তোমাদের দল। তিরমিযী একে হাসান বলেছেন, আর জানিয়েছেন যে ইয়াযীদ ইবন আবী যিয়াদের সূত্র ছাড়া এটি তাঁদের জানা নেই।"
+          },
+          {
+            "en": "Sunan Abu Dawud 2647 carries a longer form through the same Yazid, and Abu Dawud gives it no grading. In his wording the men asked one another, once clear of the field, how they should act when they had fled the advance and returned with anger, using the verse's own verb about themselves. They thought of slipping into Madinah unseen, then chose to present themselves: if there was repentance for them they would stay. They kissed his hand after his answer, and he said: I am the company of the Muslims.",
+            "bn": "সুনান আবু দাউদ ২৬৪৭-এ একই ইয়াযীদের সূত্রে বর্ণনাটি আরও বিস্তারিত এসেছে, আর আবু দাউদ এর কোনো মান উল্লেখ করেননি। তাঁর বর্ণনায় ময়দান থেকে সরে আসার পর তাঁরা নিজেদের মধ্যে বলাবলি করলেন: এখন কী করব? আমরা তো যুদ্ধ থেকে পালিয়েছি আর গজব নিয়ে ফিরেছি। নিজেদের ব্যাপারে তাঁরা আয়াতের ক্রিয়াটিই ব্যবহার করলেন। প্রথমে ভাবলেন, চুপিচুপি মদিনায় ঢুকে পড়বেন, কেউ দেখবে না। পরে ঠিক করলেন, নিজেদের রাসূল ﷺ-এর সামনে হাজির করবেন। তওবার সুযোগ থাকলে থাকবেন। জবাব পেয়ে তাঁরা তাঁর হাতে চুমু খেলেন, আর তিনি বললেন: আমি মুসলিমদের দল।"
+          },
+          {
+            "en": "What is an 'akkar? Al-Qurtubi relays from Tha'lab that al-'akkarun are al-'attafun, those who turn back round, and from another scholar that a man who turns away in battle and then wheels back on the enemy is said to have 'akara. At-Tirmidhi's own note is that the 'akkar is someone who flees to his imam to support him, not someone fleeing the advance. Ma'arif al-Qur'an reads the report the same way: the Prophet ﷺ placed their withdrawal to Madinah inside the verse's second exception.",
+            "bn": "আক্কার কাকে বলে? কুরতুবী সা'লাবের কথা আনেন: আক্কারূন মানে আত্তাফূন, যারা ঘুরে আবার ফিরে আসে। আরেকজন আলেমের কথাও আনেন: যে লোক যুদ্ধে পিঠ ফিরিয়ে আবার শত্রুর দিকে ঘুরে ঝাঁপিয়ে পড়ে, তার বেলায় বলা হয় আকারা। তিরমিযীর নিজের ব্যাখ্যা হলো, আক্কার সে, যে নিজের ইমামকে সাহায্য করতে তাঁর কাছে ছুটে যায়। যুদ্ধ থেকে পালানো তার উদ্দেশ্য নয়। মাআরিফুল কুরআনও বর্ণনাটি এভাবেই পড়ে: মদিনায় তাঁদের ফিরে আসাকে নবী ﷺ আয়াতের দ্বিতীয় ব্যতিক্রমের ভেতরেই গণ্য করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Revealed at Badr, Binding After?",
+          "bn": "বদরে নাযিল, পরেও বহাল?"
+        },
+        "p": [
+          {
+            "en": "Was the threat for Badr alone? At-Tabari records a real disagreement. Some said it was for the people of Badr alone. Abu Sa'id al-Khudri (RA) said that on that day the Muslims had no company but the Messenger ﷺ, and afterwards Muslims are a company for each other; Abu Nadrah, Nafi', ad-Dahhak, al-Hasan and Qatadah are cited on this side, al-Hasan adding that fleeing the advance is not among the major sins. Abu Dawud 2648 has Abu Sa'id's short form, ungraded: it came down on the day of Badr.",
+            "bn": "সতর্কবাণী কি শুধু বদরের জন্য ছিল? তাবারী একে প্রকৃত মতভেদ হিসেবেই লিপিবদ্ধ করেন। কেউ কেউ বলেছেন, এটা কেবল বদরের যোদ্ধাদের জন্য। আবু সাঈদ খুদরী (রাঃ) বলেন, সেদিন রাসূল ﷺ ছাড়া মুসলিমদের আর কোনো দল ছিল না, আর তার পরে মুসলিমরা একে অন্যের দল। এ পক্ষে আবু নাদরা, নাফে, দাহহাক, হাসান ও কাতাদার নাম আসে। হাসান আরও বলেন, যুদ্ধ থেকে পালানো কবিরা গুনাহের মধ্যে পড়ে না। আবু সাঈদের সংক্ষিপ্ত কথা, আয়াতটি বদরের দিন নাযিল হয়েছে, আবু দাউদ ২৬৪৮-এ আছে, কোনো মান উল্লেখ ছাড়া।"
+          },
+          {
+            "en": "Others held the ruling general, for anyone who turns his back on the enemy in defeat, and at-Tabari cites Ibn Abbas (RA): the greatest of the major sins are associating partners with Allah and fleeing from the advance, because Allah says this verse. Ata' ibn Abi Rabah said 8:66 abrogated it. At-Tabari's own judgement: the verse came down about Badr, its ruling holds for all believers, and it is not abrogated, since abrogation needs a decisive proof and there is none. As-Sa'di calls it unrestricted here, restricted by number at the surah's end.",
+            "bn": "অন্য দল বলেছেন, শত্রুর সামনে পরাজিত হয়ে যে-ই পিঠ ফেরায়, বিধানটি তার জন্য। তাবারী এখানে ইবন আব্বাস (রাঃ)-এর কথা আনেন: সবচেয়ে বড় কবিরা গুনাহ আল্লাহর সঙ্গে শিরক আর যুদ্ধ থেকে পালানো, কারণ আল্লাহ এ আয়াত বলেছেন। আতা ইবন আবী রাবাহ বলেছেন, ৮:৬৬ আয়াত এটিকে রহিত করেছে। তাবারীর নিজের সিদ্ধান্ত: আয়াতটি বদর নিয়ে নাযিল হলেও এর বিধান সব মুমিনের জন্য বহাল, আর তা রহিতও নয়। কারণ রহিত বলতে অকাট্য প্রমাণ লাগে, যা এখানে নেই। সা'দী বলেন, এখানে আয়াতটি শর্তহীন, আর সূরার শেষ দিকে সংখ্যার শর্তে তা সীমিত হয়েছে।"
+          },
+          {
+            "en": "Ibn Kathir reports the Badr-only view from a long list that even includes Umar, Ibn Umar and Ibn Abbas, yet concludes that none of it lifts the prohibition from those after Badr, as the great majority hold. His proof is Sahih al-Bukhari 2766, from Abu Hurayrah (RA): Avoid the seven ruinous sins. They said: Messenger of Allah, what are they? He said: associating partners with Allah, sorcery, killing a soul Allah has made sacred except by right, consuming usury, consuming an orphan's wealth, turning away on the day of the advance, and slandering chaste, unaware believing women.",
+            "bn": "ইবন কাসীর জানান, শুধু বদরের মতটি অনেকের কাছ থেকে বর্ণিত, যাঁদের মধ্যে উমর, ইবন উমর আর ইবন আব্বাসের নামও আছে। তবু তাঁর উপসংহার, এসবের কিছুই বদরের পরের লোকদের উপর থেকে নিষেধ তুলে নেয় না, আর বেশিরভাগ আলেমের মতও এটাই। তাঁর দলিল সহীহ বুখারী ২৭৬৬, আবু হুরায়রা (রাঃ) থেকে: সাতটি ধ্বংসকারী গুনাহ থেকে বেঁচে থাকো। তাঁরা বললেন, হে আল্লাহর রাসূল, সেগুলো কী? তিনি বললেন: আল্লাহর সঙ্গে শিরক, জাদু, আল্লাহ যে প্রাণ হারাম করেছেন তা ন্যায্য কারণ ছাড়া হত্যা করা, সুদ খাওয়া, এতিমের সম্পদ খাওয়া, যুদ্ধের দিন পিঠ ফেরানো, আর সরলমনা সচ্চরিত্রা মুমিন নারীদের অপবাদ দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Anger, Abode, and Pardon",
+          "bn": "গজব, ঠিকানা ও ক্ষমা"
+        },
+        "p": [
+          {
+            "en": "Fa-qad ba'a bi-ghadabin min Allah. At-Tabari, as-Sa'di and Ibn Kathir all gloss ba'a as raja'a, he returned, as if he came home carrying anger. Al-Qurtubi gives the sense as deserving the anger and notes that the root means return. Ma'wahu is his abode; at-Tabari makes it the place he comes to at his return on the Day of Resurrection. The same frame closes 3:162, one who has returned with displeasure from Allah, whose abode is Jahannam, and wretched is the destination.",
+            "bn": "ফাকাদ বাআ বিগাদাবিম মিনাল্লাহ। তাবারী, সা'দী ও ইবন কাসীর তিনজনেই বাআ-র অর্থ করেন রাজাআ, অর্থাৎ ফিরে এল, যেন সে ঘরে ফিরল গজবের বোঝা নিয়ে। কুরতুবী অর্থ করেন গজবের যোগ্য হওয়া, আর মনে করিয়ে দেন যে শব্দটির মূল অর্থ ফিরে আসা। মা'ওয়াহু মানে তার ঠিকানা। তাবারীর ব্যাখ্যায় কিয়ামতের দিন ফিরে গিয়ে সে যেখানে পৌঁছবে, সেটাই জাহান্নাম। ৩:১৬২ আয়াতেও একই কাঠামো: যে আল্লাহর অসন্তোষ নিয়ে ফিরল, জাহান্নাম যার ঠিকানা, আর তা কতই না মন্দ গন্তব্য।"
+          },
+          {
+            "en": "Two commentators guard the edge of the warning. At-Tabari says the one who turns in defeat without either intention has earned Allah's threat, unless Allah favours him with His pardon. Al-Qurtubi says the words his abode is Jahannam do not indicate remaining there for ever. As-Sa'di keeps the weight in place: fleeing the advance without excuse is among the greatest of the major sins, as sound hadiths state and as this severe threat makes plain.",
+            "bn": "দুজন তাফসীরকার সতর্কবাণীর সীমানা পাহারা দেন। তাবারী জানান, দুই নিয়তের কোনোটি ছাড়া যে পরাজিত হয়ে পিঠ ফেরায়, সে আল্লাহর শাস্তির হুমকির উপযুক্ত হলো, যদি না আল্লাহ দয়া করে তাকে ক্ষমা করেন। কুরতুবী বলেন, 'তার ঠিকানা জাহান্নাম' কথাটি সেখানে চিরকাল থাকার অর্থ দেয় না। সা'দী অবশ্য ভারটা কমতে দেন না। তাঁর কথায়, ওজর ছাড়া যুদ্ধ থেকে পালানো সবচেয়ে বড় কবিরা গুনাহগুলোর একটি। সহীহ হাদিসে তা এসেছে, আর এত কঠোর হুমকি দিয়ে আয়াতটিও তা স্পষ্ট করেছে।"
+          },
+          {
+            "en": "Yazid ibn Abi Habib, in reports carried by at-Tabari and Ibn Kathir, traced the warning across three battles. For Badr, he said, Allah made the Fire binding on whoever fled. At Uhud He said Satan made them slip for some of what they had earned, and Allah has pardoned them (3:155). At Hunayn He said you turned back fleeing (9:25), then Allah turns in mercy after that to whom He wills (9:27). Both later verses end on pardon. A narration on seeking forgiveness after fleeing, which at-Tirmidhi himself grades gharib, is only mentioned here.",
+            "bn": "তাবারী ও ইবন কাসীরের আনা বর্ণনায় ইয়াযীদ ইবন আবী হাবীব এ সতর্কবাণীকে তিনটি যুদ্ধের ভেতর দিয়ে দেখেছেন। তিনি বলেন, বদরে যে পালাত, আল্লাহ তার জন্য আগুন অবধারিত করেছিলেন। উহুদে বললেন, তাদের কিছু কৃতকর্মের কারণে শয়তান তাদের পদস্খলন ঘটিয়েছিল, আর আল্লাহ তাদের ক্ষমা করেছেন (৩:১৫৫)। হুনাইনে বললেন, তোমরা পিঠ ফিরিয়ে পালালে (৯:২৫), তারপর আল্লাহ যাকে চান তার তওবা কবুল করেন (৯:২৭)। পরের দুটি আয়াতই শেষ হয়েছে ক্ষমায়। পালানোর পর ইস্তিগফার নিয়ে একটি বর্ণনা আছে, যাকে তিরমিযী নিজেই গরীব বলেছেন। তাই এখানে কেবল তার উল্লেখ রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Ruling Kept in Its Place",
+          "bn": "বিধান থাকুক নিজের জায়গায়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse is a battlefield ruling given to an army of its own time under its leader, and the commentators explain it in those terms: a commander, an imam, a company, and the numbers set in 8:66. It licenses no violence by anyone today, and it gives no person or group the right to brand others deserters or to take up arms. Even as-Sa'di, allowing a fall-back to another Muslim force, suggests with a perhaps that it holds only when the Muslims judge that withdrawing will end better.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যুদ্ধক্ষেত্রের এক বিধান, যা সে যুগের একটি বাহিনীকে তার নেতার অধীনে দেওয়া হয়েছিল। তাফসীরকারেরাও একে সেভাবেই ব্যাখ্যা করেছেন: সেনাপতি, ইমাম, দল আর ৮:৬৬ আয়াতে নির্ধারিত সংখ্যার হিসাবে। আজ কারও জন্য এতে কোনো সহিংসতার অনুমতি নেই। কোনো ব্যক্তি বা গোষ্ঠী এ আয়াত দেখিয়ে অন্যকে পলাতক ঘোষণা করতে বা অস্ত্র হাতে নিতে পারে না। এমনকি সা'দী যখন মুসলিমদের অন্য বাহিনীর কাছে সরে যাওয়ার অনুমতি দেন, তখনও 'সম্ভবত' বলে শর্ত জুড়ে দেন: মুসলিমরা যদি মনে করে, সরে যাওয়াতেই পরিণাম ভালো।"
+          },
+          {
+            "en": "What does carry across is a distinction the verse draws with care. The same movement, a back turned to the enemy, is either a manoeuvre or a flight, and the difference lies in where the man means to go next. Ibn Umar's party show the other half. They had already turned. What they did next was stop hiding, present themselves to the one they had left, and accept his answer. The road back began with that honesty, and it was met with I am your company.",
+            "bn": "যা আজও আমাদের কাছে পৌঁছায়, তা আয়াতের একটি যত্নে টানা পার্থক্য। শত্রুর দিকে পিঠ ফেরানো একই নড়াচড়া, অথচ তা হতে পারে কৌশল, হতে পারে পলায়ন। পার্থক্যটা এখানে: লোকটা এরপর কোথায় যেতে চায়। ইবন উমরের দল দেখায় বাকি অর্ধেকটা। তাঁরা তো পিঠ ফিরিয়েই ফেলেছিলেন। এরপর তাঁরা লুকোনো বন্ধ করলেন, যাঁকে ছেড়ে এসেছিলেন তাঁর সামনে নিজেদের হাজির করলেন, আর তাঁর জবাব মেনে নিতে প্রস্তুত হলেন। ফেরার পথ শুরু হয়েছিল এই সততা দিয়ে, আর তার জবাব এসেছিল: আমি তোমাদের দল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions Before Stepping Back",
+          "bn": "পিছু হটার আগে কিছু প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Think of a hard place you agreed to stand: a duty at home, work others rely on, a promise to someone who cannot carry it alone. When you last stepped back from it, were you swerving to come at it better, or joining people who would send you back stronger? Or were you leaving, and calling it strategy so you would not have to call it flight?",
+            "bn": "এমন একটা কঠিন জায়গার কথা ভাবুন, যেখানে দাঁড়াবেন বলে আপনি কথা দিয়েছিলেন: ঘরের কোনো দায়িত্ব, অন্যরা ভরসা করে থাকে এমন কোনো কাজ, কিংবা এমন কারও কাছে দেওয়া কথা, যে একা বোঝাটা বইতে পারে না। শেষবার সেখান থেকে যখন পিছিয়ে এলেন, তখন কি আরও ভালোভাবে ফিরে ধরার জন্য সরেছিলেন? নাকি এমন মানুষের কাছে গিয়েছিলেন, যারা আপনাকে আরও শক্ত করে ফেরত পাঠাবে? নাকি আসলে চলে যাচ্ছিলেন, আর পলায়ন বলতে হবে না বলে তার নাম দিয়েছিলেন কৌশল?"
+          },
+          {
+            "en": "Who is your company, the people you fall back to and who return you to the work? Are you that company for anyone else? And if you have already turned away from something, will you hide as those men first meant to, or go and stand before the person you let down, as they did in the end?",
+            "bn": "আপনার দল কারা, যাদের কাছে পিছিয়ে গেলে তারা আপনাকে আবার কাজে ফিরিয়ে দেয়? আপনি নিজে কি অন্য কারও জন্য তেমন দল? আর কোনো কিছু থেকে যদি ইতিমধ্যেই মুখ ফিরিয়ে থাকেন, তবে কি সেই লোকদের প্রথম ভাবনার মতো লুকিয়ে থাকবেন? নাকি শেষে তাঁরা যা করেছিলেন, তা-ই করবেন: যাকে হতাশ করেছেন, তার সামনে গিয়ে দাঁড়াবেন?"
+          }
+        ]
+      }
+    ]
+  },
   "8:19": {
     "sections": [
       {

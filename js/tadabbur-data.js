@@ -31983,6 +31983,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give Allah the whole of your obedience, not a share of it; and when others stop, stop with them, leaving their hearts to the One who sees.",
     "lessonBn": "আল্লাহকে আনুগত্যের একটা ভাগ নয়, পুরোটাই দিন। আর অন্যরা থেমে গেলে আপনিও থামুন, তাদের মনের খবর ছেড়ে দিন তাঁর হাতে, যিনি সব দেখেন।"
+  },
+  "8:16": {
+    "reflectionEn": "The verse before this one says: when the lines close, do not show them your backs. This verse does what a bare command would not. It names two ways a soldier may turn without being a deserter: swerving to fight from better ground, or falling back to join his own company. Both keep him facing the fight, and both end in a return. The warning of anger and the Fire is for the one who turns only to get away. This was a ruling for an army of its own time, under its leader, and it licenses no one's violence today. What it leaves the rest of us is a question about motive. When I step back from something hard, am I regrouping, or am I leaving?",
+    "reflectionBn": "আগের আয়াত বলেছে: সারি যখন মুখোমুখি এগিয়ে আসে, তখন পিঠ দেখিয়ো না। এ আয়াত শুধু হুকুমে থেমে থাকে না। দুটি পথের নাম দেয়, যেভাবে ঘুরলেও সৈনিক পলাতক হয় না: আরও ভালো জায়গা থেকে লড়তে পাশ কেটে সরে যাওয়া, অথবা নিজের দলের সঙ্গে মিলতে পিছিয়ে আসা। দুই পথেই মুখ থাকে লড়াইয়ের দিকে, দুটোরই শেষ ফিরে আসায়। গজব আর আগুনের সতর্কবাণী তার জন্য, যে কেবল পালাতেই পিঠ ফেরায়। এটি ছিল সে যুগের এক বাহিনীর জন্য, তার নেতার অধীনে পালনীয় বিধান। আজ কারও কোনো সহিংসতার অনুমতি এতে নেই। আমাদের বাকিদের জন্য আয়াতটি রেখে যায় নিয়ত নিয়ে একটা প্রশ্ন। কঠিন কিছু থেকে যখন পিছিয়ে আসি, আমি কি আবার গুছিয়ে ফেরার জন্য সরছি, নাকি চলে যাচ্ছি?",
+    "pointsEn": [
+      "The last time I stepped back from a hard duty, what was I really doing: regrouping to return, or leaving and calling it strategy?",
+      "Who is counting on me to stay where I said I would stand, and would they even notice if I had quietly gone?",
+      "Do I have a company to fall back to, people who steady me and send me back, or do I only ever retreat into being alone?",
+      "When I have already turned away from something, do I hide from it, or go back and face the one I let down?",
+      "Do I hear a hard warning in the Qur'an as a door closing, or as a reason to return while the door is still open?"
+    ],
+    "pointsBn": [
+      "শেষবার কোনো কঠিন দায়িত্ব থেকে যখন পিছিয়ে এসেছি, আসলে কী করছিলাম? ফেরার জন্য নিজেকে গুছিয়ে নিচ্ছিলাম, নাকি চলে যাচ্ছিলাম আর তার নাম দিচ্ছিলাম কৌশল?",
+      "যেখানে দাঁড়াব বলে কথা দিয়েছি, সেখানে আমার থাকার উপর কারা ভরসা করে আছে? আমি চুপচাপ সরে গেলে তারা কি টেরও পেত?",
+      "পিছিয়ে এসে আশ্রয় নেওয়ার মতো আমার কি কোনো দল আছে, যারা আমাকে সামলে আবার কাজে ফেরত পাঠাবে? নাকি আমি সবসময় একা হয়ে যাওয়ার মধ্যেই পিছিয়ে যাই?",
+      "কোনো কিছু থেকে একবার মুখ ফিরিয়ে নেওয়ার পর আমি কি লুকিয়ে থাকি, নাকি যাকে হতাশ করেছি তার সামনে গিয়ে দাঁড়াই?",
+      "কুরআনের কঠিন সতর্কবাণী শুনলে আমি কি একে বন্ধ দরজা ভাবি, নাকি দরজা খোলা থাকতেই ফিরে আসার কারণ হিসেবে নিই?"
+    ],
+    "lessonEn": "Stepping back is not always running away: if you must withdraw from something hard, let it be to regroup and return, not to leave.",
+    "lessonBn": "পিছিয়ে আসা মানেই পালিয়ে যাওয়া নয়। কঠিন কিছু থেকে সরতেই হলে সরুন আবার গুছিয়ে ফেরার জন্য, ছেড়ে চলে যাওয়ার জন্য নয়।"
   }
 };
 
