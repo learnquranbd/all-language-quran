@@ -6215,6 +6215,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:122": {
+    "sections": [
+      {
+        "h": {
+          "en": "Not Everyone at Once",
+          "bn": "সবাই একসঙ্গে নয়"
+        },
+        "p": [
+          {
+            "en": "Wa ma kana al-mu'minuna li-yanfiru kaffatan: it is not for the believers to go forth all together. The verse comes straight after 9:120 and 9:121, which said it was not fitting for the people of Madinah and the bedouin around them to stay behind the Messenger of Allah ﷺ, and promised that every thirst, every step and every coin spent on that road is written down. Read on their own, those verses could suggest that every believer must leave on every campaign. This verse draws the limit.",
+            "bn": "ওয়া মা কানাল মু'মিনূনা লিয়ানফিরূ কাফফাহ: মু'মিনদের জন্য ঠিক নয় সবাই একসঙ্গে বেরিয়ে পড়া। আয়াতটি এসেছে ৯:১২০ ও ৯:১২১-এর ঠিক পরে। সেখানে বলা হয়েছিল, মদীনাবাসী আর আশপাশের বেদুঈনদের পক্ষে আল্লাহর রাসূল ﷺ-কে ছেড়ে পেছনে থেকে যাওয়া শোভা পায় না। সঙ্গে প্রতিশ্রুতি ছিল, সে পথে প্রতিটি পিপাসা, প্রতিটি পদক্ষেপ, প্রতিটি খরচ লিখে রাখা হয়। শুধু ওই আয়াতগুলো পড়লে মনে হতে পারে, প্রত্যেক মু'মিনকেই প্রতিটি অভিযানে বের হতে হবে। এ আয়াত সেখানে একটা সীমা টেনে দেয়।"
+          },
+          {
+            "en": "Al-Baghawi reads the opening as a negation that carries the force of a prohibition. The Muyassar gives the plain sense in two halves: it is not right for all the believers to go out together against their enemy, just as it is not right for all of them to sit at home. Then comes fa-lawla, which al-Qurtubi, quoting al-Akhfash, glosses as fa-halla: why then did not? Why did not a party go forth from every group, enough to meet the need, so that understanding is gained and carried back?",
+            "bn": "বাগাভী শুরুর বাক্যটিকে পড়েন এমন না-বাচক কথা হিসেবে, যার আসল কাজ নিষেধ করা। মুয়াসসার সহজ অর্থটা দুই ভাগে সাজায়। সব মু'মিনের একসঙ্গে শত্রুর বিরুদ্ধে বেরিয়ে পড়া ঠিক নয়, যেমন ঠিক নয় সবার একসঙ্গে ঘরে বসে থাকা। তারপর আসে ফালাওলা। কুরতুবী আখফাশের বরাতে এর অর্থ করেন ফাহাল্লা, অর্থাৎ তবে কেন নয়? প্রত্যেক দল থেকে প্রয়োজন মেটানোর মতো একটি অংশ কেন বের হলো না, যাতে দ্বীনের বুঝ অর্জিত হয় আর ফিরিয়ে আনা যায়?"
+          },
+          {
+            "en": "Two of the commentators name what would be lost if everyone went. As-Sa'di says that marching out all together would bring hardship upon the believers and cause many other interests to be missed. Al-Qurtubi points to those left behind: if all went out, the households behind them would be left unprotected. So one party goes, and another stays to guard the families and gain understanding of the religion. When the travellers come home, those who stayed teach them what was revealed in their absence.",
+            "bn": "সবাই চলে গেলে কী হারিয়ে যেত, দুজন তাফসীরকার তা বলে দেন। সা'দী বলেন, সবাই একসঙ্গে বেরিয়ে পড়লে মু'মিনদের উপর কষ্ট চাপবে, আর আরও অনেক কল্যাণের কাজ হাতছাড়া হবে। কুরতুবীর নজর পেছনে থাকা মানুষগুলোর দিকে। সবাই বেরিয়ে গেলে পেছনের পরিবার-পরিজন অরক্ষিত পড়ে থাকবে। তাই একটি অংশ যাবে, আরেকটি অংশ থেকে যাবে পরিবারগুলোর পাহারায় আর দ্বীনের বুঝ অর্জনে। মুসাফিররা ঘরে ফিরলে যারা ছিল তারা তাদের অনুপস্থিতিতে যা নাযিল হয়েছে তা শিখিয়ে দেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Abrogation or Explanation",
+          "bn": "রহিত, নাকি ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Did this verse cancel the earlier summons? Al-Qurtubi records that it abrogates illa tanfiru, if you do not go forth He will punish you (9:39), together with the verse just before it, and he gives this as the view of Mujahid and Ibn Zayd. Ibn Kathir reports the position more broadly: a group of the early generations held that every Muslim had to march whenever the Messenger ﷺ went out, citing 9:41 and 9:120, and said that this verse then abrogated that ruling.",
+            "bn": "এ আয়াত কি আগের ডাকটাকে বাতিল করে দিল? কুরতুবী লিখেছেন, এ আয়াত ইল্লা তানফিরূ, অর্থাৎ তোমরা বের না হলে তিনি তোমাদের শাস্তি দেবেন (৯:৩৯), আর এর ঠিক আগের আয়াতটিকে রহিত করেছে। মতটি তিনি মুজাহিদ ও ইবন যায়দের বলে উল্লেখ করেন। ইবন কাসীর কথাটা আরও বিস্তৃত করে বলেন। পূর্বসূরিদের একটি দলের মত ছিল, রাসূল ﷺ যখনই বের হতেন, প্রত্যেক মুসলিমের জন্য সঙ্গে যাওয়া ফরজ ছিল। প্রমাণ হিসেবে তাঁরা ৯:৪১ ও ৯:১২০ আনতেন, আর বলতেন, এ আয়াত এসে সেই বিধান রহিত করেছে।"
+          },
+          {
+            "en": "Ibn Kathir then offers another way, introduced with it may be said: the verse explains what Allah wanted from the clans, that all of them march, or a band from each clan if they do not all go. Those who go with the Messenger ﷺ learn the revelation that comes down to him and, on their return, warn their people about the enemy, After his time, he says, the party that goes out from a clan goes either to learn or to fight, since that is a communal obligation on the clans.",
+            "bn": "এরপর ইবন কাসীর আরেকটি পথ দেখান, 'বলা যেতে পারে' কথাটি দিয়ে শুরু করে। আয়াতটি গোত্রগুলোর কাছে আল্লাহ কী চান তার ব্যাখ্যা। হয় সবাই বের হবে, আর সবাই না গেলে প্রতিটি গোত্র থেকে একটি দল। যারা রাসূল ﷺ-এর সঙ্গে যায়, তাঁর উপর যে ওহী নাযিল হয় তা তারা শিখে নেয়। ফিরে এসে নিজেদের লোকদের শত্রুর ব্যাপারে সতর্ক করে। তাঁর ইন্তেকালের পর, ইবন কাসীর বলেন, গোত্র থেকে যে দল বের হয়, সে যায় হয় শিখতে, নয়তো লড়তে। কারণ এটা গোত্রগুলোর উপর ফরজে কিফায়া।"
+          },
+          {
+            "en": "At-Tabari reaches agreement between the verses without speaking of abrogation. In his reading, 9:120 forbade staying behind without an excuse when the Messenger ﷺ himself went out to fight; 9:122 then teaches what is due when he stays in Madinah and sends others. A report from ad-Dahhak, carried by both at-Tabari and Ibn Kathir, draws the same line: when he went out in person, no one could stay except those with an excuse; when he stayed, expeditions left only with his permission.",
+            "bn": "তাবারী রহিত হওয়ার কথা না তুলেই আয়াতগুলোর মধ্যে মিল খুঁজে পান। তাঁর পাঠে ৯:১২০ নিষেধ করেছে ওজর ছাড়া পেছনে থেকে যাওয়া, যখন রাসূল ﷺ নিজে যুদ্ধে বের হন। আর ৯:১২২ শেখায়, তিনি যখন মদীনায় থেকে অন্যদের পাঠান, তখন কী করণীয়। দাহহাকের একটি বর্ণনা তাবারী ও ইবন কাসীর দুজনেই এনেছেন, তাতেও একই ভাগ। তিনি নিজে বের হলে ওজরওয়ালা ছাড়া কারও থেকে যাওয়ার অনুমতি ছিল না। আর তিনি থেকে গেলে অভিযান বের হতো কেবল তাঁর অনুমতি নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Does the Learning",
+          "bn": "শিখবে কোন দল"
+        },
+        "p": [
+          {
+            "en": "The verse has two purpose clauses: li-yatafaqqahu fi ad-din, that they may gain understanding of the religion, and wa-li-yundhiru qawmahum, that they may warn their people. Whose understanding, and who warns whom? Al-Qurtubi sets out the two answers by name. Qatada and Mujahid hold that the pronoun refers to those who stayed with the Prophet ﷺ; al-Hasan holds that it refers to the party that went out, and at-Tabari chose al-Hasan's view. Al-Qurtubi himself judges the view of Mujahid and Qatada the clearer of the two.",
+            "bn": "আয়াতে উদ্দেশ্য বোঝানো দুটি অংশ আছে। লিয়াতাফাক্কাহূ ফিদ্দীন, যাতে তারা দ্বীনের বুঝ অর্জন করে। ওয়া লিয়ুনযিরূ কাওমাহুম, যাতে তারা নিজেদের লোকদের সতর্ক করে। কাদের বুঝ, আর কে কাকে সতর্ক করবে? কুরতুবী দুটি উত্তরই নাম ধরে সাজিয়েছেন। কাতাদা ও মুজাহিদের মতে সর্বনামটি তাদের দিকে ফেরে, যারা নবী ﷺ-এর কাছে থেকে গিয়েছিল। হাসানের মতে তা ফেরে বেরিয়ে যাওয়া দলের দিকে, আর তাবারী হাসানের মতটিই বেছে নিয়েছেন। কুরতুবী নিজে মুজাহিদ ও কাতাদার মতকে বেশি স্পষ্ট মনে করেন।"
+          },
+          {
+            "en": "Qatada's wording, as at-Tabari carries it, is direct: let those who sat with the Prophet of Allah gain understanding, and let them warn those who went out when they return. A report from Ibn Abbas through Ali ibn Abi Talha fills in the scene. When the expeditions came back, those who had stayed told them that Qur'an had come down after they left and that they had learned it; the returning party then stayed to learn it while other expeditions were sent. Al-Baghawi, as-Sa'di and the Muyassar also take the staying party as the learners.",
+            "bn": "তাবারীর বর্ণনায় কাতাদার কথা সোজাসাপটা। যারা আল্লাহর নবীর কাছে বসে ছিল তারা দ্বীনের বুঝ অর্জন করুক, আর যারা বেরিয়ে গিয়েছিল তারা ফিরলে তাদের সতর্ক করুক। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা দৃশ্যটা পূর্ণ করে। অভিযান ফিরে এলে যারা থেকে গিয়েছিল তারা বলত, তোমরা চলে যাওয়ার পর কুরআন নাযিল হয়েছে, আমরা তা শিখে নিয়েছি। তখন ফিরে আসা দলটি থেকে গিয়ে তা শিখত, আর অন্য অভিযান পাঠানো হতো। বাগাভী, সা'দী আর মুয়াসসারও থেকে যাওয়া দলটিকেই শিক্ষার্থী ধরেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari's Case for the Marchers",
+          "bn": "অভিযাত্রীদের পক্ষে তাবারীর যুক্তি"
+        },
+        "p": [
+          {
+            "en": "Al-Hasan al-Basri's reading, in at-Tabari's chain, runs: let those who went out gain understanding through what Allah shows them of victory over the idolaters and of His help, and let them warn their people when they return. At-Tabari calls this the most correct reading. His first reason is language: nafr, used on its own with nothing attached, is most often used by the Arabs for going out to fight. The purpose clause li-yatafaqqahu follows that verb directly, so it names the aim of the going, not of the staying.",
+            "bn": "তাবারীর সনদে হাসান বসরীর ব্যাখ্যা এরকম। যারা বেরিয়েছিল, মুশরিকদের উপর বিজয় আর আল্লাহর সাহায্যের যে দৃশ্য তিনি তাদের দেখান, তা দিয়ে তারা দ্বীনের বুঝ অর্জন করুক। আর ফিরে গিয়ে নিজেদের লোকদের সতর্ক করুক। তাবারী এটাকেই সবচেয়ে সঠিক ব্যাখ্যা বলেন। তাঁর প্রথম কারণ ভাষাগত। নাফর শব্দটি অন্য কিছুর সঙ্গে না জুড়ে একা এলে আরবরা বেশির ভাগ সময় তা দিয়ে যুদ্ধে বের হওয়াই বোঝায়। লিয়াতাফাক্কাহূ অংশটি সরাসরি সেই ক্রিয়ার পরে বসেছে। তাই এটি যাওয়ার উদ্দেশ্য বলছে, থেকে যাওয়ার নয়।"
+          },
+          {
+            "en": "He then answers an objection. If one party's leaving were the cause of the other's understanding, their staying together would have to cause ignorance, and it plainly would not. On the warning, he argues that the marchers set out only because Allah's warning had already reached them, and both parties knew it equally. If either could warn the other, the marchers have the better claim, having seen His power and His help. So for at-Tabari 'their people' are the unbelievers of the marchers' own clan, warned of what befell the defeated. For Qatada they are the returning fighters.",
+            "bn": "এরপর তিনি একটি আপত্তির জবাব দেন। এক দলের চলে যাওয়াই যদি অন্য দলের বুঝের কারণ হয়, তবে সবাই একসঙ্গে থাকলে তা হতো অজ্ঞতার কারণ। অথচ স্পষ্টতই তা হতো না। সতর্ক করার ব্যাপারে তাঁর যুক্তি হলো, অভিযাত্রীরা বেরিয়েছিলই এ কারণে যে আল্লাহর সতর্কবাণী আগেই তাদের কাছে পৌঁছেছিল। সে সতর্কবাণী দুই দলই সমানভাবে জানত। কেউ যদি অপরকে সতর্ক করার যোগ্য হয়, তবে অভিযাত্রীরাই বেশি যোগ্য, কারণ তারা আল্লাহর শক্তি আর সাহায্য নিজের চোখে দেখেছে। তাই তাবারীর কাছে 'তাদের লোক' মানে অভিযাত্রীদের নিজ গোত্রের অবিশ্বাসীরা। পরাজিতদের পরিণতি যেন তাদের উপরও না নামে, সে জন্য তাদের সতর্ক করা। কাতাদার কাছে 'তাদের লোক' মানে ফিরে আসা যোদ্ধারা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Readings the Reports Preserve",
+          "bn": "বর্ণনায় সংরক্ষিত আরও পাঠ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari begins by noting that the commentators differed over what this verse means. One line, from Mujahid, concerns companions sent into the desert to teach people Islam. They met kindness there and called people to guidance, but were told: we see you have left your companions and come to us. When 9:120 came down, at-Tabari explains, they feared being counted among those who stay behind, and all of them came back. On this reading the verse excused them, and disliked that every one of them should leave.",
+            "bn": "তাবারী শুরুতেই বলেন, এ আয়াতের অর্থ নিয়ে তাফসীরকারদের মতভেদ আছে। মুজাহিদের একটি বর্ণনা এমন কয়েকজন সাহাবীকে নিয়ে, যাদের মরু অঞ্চলে পাঠানো হয়েছিল মানুষকে ইসলাম শেখাতে। সেখানে তারা আন্তরিকতা পেয়েছিলেন, মানুষকে হিদায়াতের দিকে ডেকেছিলেন। কিন্তু লোকেরা বলল, দেখছি তোমরা নিজেদের সঙ্গীদের ছেড়ে আমাদের কাছে চলে এসেছ। তাবারী ব্যাখ্যা করেন, ৯:১২০ নাযিল হলে তারা ভয় পেলেন, পেছনে থেকে যাওয়াদের মধ্যে গণ্য হয়ে যান কি না। তাই সবাই ফিরে এলেন। এ পাঠে আয়াতটি তাদের ওজর কবুল করেছে, আর সবার একসঙ্গে চলে আসা অপছন্দ করেছে।"
+          },
+          {
+            "en": "A report from Ibn Abbas through al-Awfi reads the going forth as travel in order to learn: a band from each Arab clan would come to the Prophet ﷺ, ask about their religion, and he would send them home with prayer and zakah to call their people to Islam. Ikrima ties the verse to the hypocrites, who said after 9:39 and 9:120 that the desert people who had not marched were ruined, although some companions had gone out to their own people to teach them. None of these is a confirmed occasion of revelation; at-Tabari lists them as competing readings.",
+            "bn": "আওফীর সূত্রে ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা বের হওয়াকে পড়ে শেখার উদ্দেশ্যে সফর হিসেবে। প্রতিটি আরব গোত্র থেকে একটি দল নবী ﷺ-এর কাছে আসত। দ্বীন সম্পর্কে প্রশ্ন করত, তিনি তাদের নামাজ ও যাকাতের কথা দিয়ে ফেরত পাঠাতেন, যাতে তারা নিজের লোকদের ইসলামের দিকে ডাকে। ইকরিমা আয়াতটিকে জোড়েন মুনাফিকদের সঙ্গে। ৯:৩৯ ও ৯:১২০ নাযিলের পর তারা বলেছিল, যে মরুবাসীরা অভিযানে বের হয়নি তারা ধ্বংস হয়ে গেছে। অথচ কয়েকজন সাহাবী নিজ নিজ লোকদের কাছে গিয়েছিলেন তাদের দ্বীন শেখাতে। এগুলোর কোনোটিই নাযিলের প্রমাণিত প্রেক্ষাপট নয়। তাবারী এগুলোকে পরস্পর ভিন্ন ব্যাখ্যা হিসেবেই সাজিয়েছেন।"
+          },
+          {
+            "en": "A second report from Ibn Abbas, through Ali ibn Abi Talha, says the verse is not about jihad at all. When the lands of Mudar were struck by drought, whole clans came to Madinah out of hardship, claiming Islam falsely; in this report the verse told the Messenger ﷺ that they were not believers, and he sent them back to their clans. The report, like the verse, describes particular people as the text describes them. It licenses no suspicion of any person or community living today, and no verdict on anyone's faith.",
+            "bn": "আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর আরেকটি বর্ণনা বলে, আয়াতটি জিহাদ নিয়েই নয়। মুদার গোত্রের এলাকায় খরা নামলে পুরো পুরো গোত্র কষ্টে পড়ে মদীনায় চলে আসত। মুখে ইসলামের দাবি করত, অথচ তা ছিল মিথ্যা। এ বর্ণনামতে আয়াতটি রাসূল ﷺ-কে জানিয়ে দেয় যে তারা মু'মিন নয়, আর তিনি তাদের নিজ নিজ গোত্রে ফেরত পাঠান। বর্ণনাটি, আয়াতের মতোই, নির্দিষ্ট কিছু মানুষের কথা বলে, ঠিক যেভাবে পাঠে আছে। আজ বেঁচে থাকা কোনো মানুষ বা সম্প্রদায়কে সন্দেহ করার অনুমতি এতে নেই। কারও ঈমান নিয়ে রায় দেওয়ার অনুমতিও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Party, and a Harder Verb",
+          "bn": "একটি দল, আর এক কঠিন ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "Ta'ifah, a party, raises its own question. Al-Qurtubi says the word means a group, though it can fall to two and even to one; here it must mean a group, since knowledge is rarely gained by one person alone and the verbs that follow are plural. He quotes Ibn al-Arabi reporting that Qadi Abu Bakr and Shaykh Abu al-Hasan took it as one man, to argue for acting on a single person's report; Ibn al-Arabi accepts that conclusion but not the route. At-Tabari defines the party as anything from one upwards. The disagreement stands.",
+            "bn": "তায়িফা, অর্থাৎ একটি দল, শব্দটি নিজেই একটা প্রশ্ন তোলে। কুরতুবী বলেন, শব্দটির অর্থ একদল মানুষ, তবে দুজন এমনকি একজনের উপরও তা বসতে পারে। এখানে অবশ্য দলই বোঝাতে হবে। কারণ একজন মানুষ একা সাধারণত জ্ঞান অর্জন করে উঠতে পারে না, আর পরের ক্রিয়াগুলো বহুবচনে। তিনি ইবনুল আরাবীর বরাতে জানান, কাযী আবু বকর ও শায়খ আবুল হাসান এখানে দল বলতে একজন মানুষ ধরেছিলেন, একজনের বর্ণনা অনুযায়ী আমল করার পক্ষে যুক্তি হিসেবে। ইবনুল আরাবী সিদ্ধান্তটা মানেন, কিন্তু পথটা মানেন না। তাবারীর সংজ্ঞায় দল মানে একজন থেকে শুরু করে যত জনই হোক। মতভেদটা তাই রয়েই যায়।"
+          },
+          {
+            "en": "The verb is li-yatafaqqahu, not a word for plain learning. Ma'arif al-Qur'an notes that the verse could have said ta'allum, learning, and chose tafaqquh, understanding, in a form that carries the sense of effort and striving over time. Reading the books of religion is not enough, it says, since many outside the faith have read them too. It quotes Abu Hanifah's definition of fiqh: that a person understands what he must do and what he must avoid.",
+            "bn": "ক্রিয়াটি লিয়াতাফাক্কাহূ, নিছক শেখার কোনো শব্দ নয়। মাআরিফুল কুরআন খেয়াল করিয়ে দেয়, আয়াতে তাআল্লুম, মানে শেখা, বলা যেত। কিন্তু বেছে নেওয়া হয়েছে তাফাক্কুহ, মানে গভীর বুঝ। শব্দটির গঠনেই আছে পরিশ্রম আর দীর্ঘ সময় ধরে চেষ্টার ইঙ্গিত। শুধু দ্বীনের বই পড়ে ফেলা যথেষ্ট নয়, কারণ দ্বীনের বাইরের অনেকেও সেগুলো পড়েছে। এখানে আবু হানীফার দেওয়া ফিকহের সংজ্ঞা উদ্ধৃত হয়েছে: মানুষ বুঝবে কী তাকে করতেই হবে, আর কী থেকে তাকে বিরত থাকতেই হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Comprehension as Allah's Gift",
+          "bn": "বুঝ আল্লাহর দান"
+        },
+        "p": [
+          {
+            "en": "No sound hadith in the fetched tafsirs is attached to this verse; the nearest saying is a general one. Al-Bukhari records (71) from Mu'awiyah that the Messenger of Allah ﷺ said: \"If Allah wants to do good to a person, He makes him comprehend the religion. I am just a distributor, but the grant is from Allah. (And remember) that this nation (true Muslims) will keep on following Allah's teachings strictly and they will not be harmed by any one going on a different path till Allah's order (Day of Judgment) is established.\"",
+            "bn": "সংগৃহীত তাফসীরগুলোতে এমন কোনো সহীহ হাদীস নেই, যা এ আয়াতের সঙ্গে যুক্ত। সবচেয়ে কাছের হাদীসটি সাধারণ, আয়াতের সঙ্গে বাঁধা নয়। বুখারী (৭১) মুআবিয়া (রাঃ)-এর সূত্রে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: \"আল্লাহ যার কল্যাণ চান, তাকে দ্বীনের বুঝ দান করেন। আমি কেবল বণ্টনকারী, আর দান করেন আল্লাহ। এ উম্মত আল্লাহর বিধানের উপর অটল থাকবে। ভিন্ন পথে চলা কেউ একজনও আল্লাহর ফয়সালা আসা পর্যন্ত তাদের কোনো ক্ষতি করতে পারবে না।\""
+          },
+          {
+            "en": "Its first verb, yufaqqihhu, comes from the same root as the verse's tafaqquh. Al-Baghawi brings that opening line with his own chain from Ibn Abbas, and al-Qurtubi points to it in Sahih Muslim. Al-Baghawi then divides fiqh in two. Knowing purity, prayer and fasting is owed by every accountable person, zakah by whoever has wealth, hajj by whoever must perform it. Study to the rank of ijtihad and fatwa is a communal duty: if a whole town neglects it, all of them sin; if one from each town takes it up, the duty falls from the rest.",
+            "bn": "হাদীসের প্রথম ক্রিয়া ইউফাক্কিহহু এসেছে আয়াতের তাফাক্কুহ শব্দের একই ধাতু থেকে। বাগাভী নিজের সনদে ইবন আব্বাস (রাঃ)-এর সূত্রে শুরুর বাক্যটি এনেছেন, আর কুরতুবী সহীহ মুসলিমে এর উপস্থিতির কথা বলেছেন। এরপর বাগাভী ফিকহকে দুই ভাগে ভাগ করেন। পবিত্রতা, নামাজ আর রোজার জ্ঞান প্রত্যেক দায়িত্বপ্রাপ্ত মানুষের উপর ফরজ। যাকাতের জ্ঞান যার সম্পদ আছে তার উপর, হজের জ্ঞান যার উপর হজ ফরজ তার উপর। আর ইজতিহাদ ও ফতোয়ার স্তর পর্যন্ত পড়াশোনা ফরজে কিফায়া। গোটা শহর তা অবহেলা করলে সবাই গুনাহগার। প্রতিটি শহর থেকে একজন তা আঁকড়ে ধরলে বাকিদের দায় নেমে যায়।"
+          },
+          {
+            "en": "Al-Qurtubi calls the verse a root for the obligation of seeking knowledge, and says that obligation is collective, not owed by every individual. Yet he also quotes Ibn al-Arabi, who says the verse itself only urges and encourages the seeking of knowledge, since obligation is not in the force of its words, and that the duty rests on other evidence. Both statements sit side by side in his commentary.",
+            "bn": "কুরতুবী আয়াতটিকে জ্ঞান অন্বেষণ ফরজ হওয়ার একটি মূল দলীল বলেন। তাঁর মতে সে ফরজ সম্মিলিত, প্রত্যেকের উপর আলাদা করে নয়। আবার তিনি ইবনুল আরাবীর কথাও আনেন। ইবনুল আরাবী বলেন, আয়াতটি নিজে শুধু জ্ঞান অন্বেষণে উৎসাহ দেয়, কারণ বাধ্যবাধকতা এর শব্দের জোরে নেই। ফরজ হওয়াটা দাঁড়িয়ে আছে অন্য দলীলের উপর। কুরতুবীর তাফসীরে দুটি কথাই পাশাপাশি রয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Carrying Understanding Home",
+          "bn": "বুঝ নিয়ে ঘরে ফেরা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws two lessons. The first is the merit of knowledge, and of understanding the religion above all: whoever learns must spread it among people and give them sincere counsel in it, for that spreading is part of its blessing and its reward. A scholar who keeps it to himself, he says, dies and his knowledge dies with him. The second is a principle for every shared need: Muslims should appoint for each public interest people who give it their time and effort, so that the paths differ while the aim stays one.",
+            "bn": "সা'দী এখান থেকে দুটি শিক্ষা নেন। প্রথমটি জ্ঞানের মর্যাদা, বিশেষ করে দ্বীনের বুঝের। যে কিছু শিখল, তার দায়িত্ব তা মানুষের মধ্যে ছড়িয়ে দেওয়া আর সে বিষয়ে তাদের আন্তরিক নসীহত করা। এই ছড়িয়ে দেওয়াটাই জ্ঞানের বরকত আর সওয়াবের অংশ। যে আলেম জ্ঞান নিজের মধ্যে আটকে রাখে, তিনি বলেন, সে মারা যায়, আর তার জ্ঞানও তার সঙ্গে মরে যায়। দ্বিতীয়টি প্রতিটি সম্মিলিত প্রয়োজনের জন্য একটি নীতি। প্রতিটি জনকল্যাণের কাজে মুসলিমদের উচিত এমন লোক ঠিক করা, যারা তাতে নিজের সময় আর শ্রম ঢালবে। পথ আলাদা হবে, লক্ষ্য থাকবে এক।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads indhar as the warning of a parent who keeps a child from fire, given out of love, and says preaching fails when it sounds like scorn. La'allahum yahdharun, that they may be cautious, tells the one who warns to watch for the effect and try again. The going forth in this verse was a campaign under the Messenger's ﷺ own command; nothing here calls any reader to take up arms today, and the verse licenses nothing against any living person or community.",
+            "bn": "মাআরিফুল কুরআন ইনযার শব্দটি পড়ে এমন সতর্কবাণী হিসেবে, যেমন মা-বাবা ভালোবাসা থেকে সন্তানকে আগুন থেকে সরিয়ে রাখেন। সেখানে বলা হয়েছে, ওয়াজ-নসীহত যখন তাচ্ছিল্যের মতো শোনায়, তখন তা কাজে আসে না। লাআল্লাহুম ইয়াহযারূন, যাতে তারা সাবধান হয়। এ কথা বুঝিয়ে দেয়, সতর্ককারীর কাজ ফল কী হলো তা খেয়াল রাখা, আর দরকার হলে আবার চেষ্টা করা। এ আয়াতে যে বের হওয়ার কথা, তা ছিল রাসূল ﷺ-এর নিজের নেতৃত্বে একটি অভিযান। আজকের কোনো পাঠককে অস্ত্র হাতে নেওয়ার ডাক এখানে নেই। আজ বেঁচে থাকা কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না।"
+          }
+        ]
+      }
+    ]
+  },
   "9:124": {
     "sections": [
       {

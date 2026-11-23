@@ -32323,6 +32323,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The first generation's door is shut, but following them with excellence stays open: take their faith and good deeds, not their slips, pray for them, and seek Allah's pleasure.",
     "lessonBn": "প্রথম প্রজন্মের দরজা বন্ধ, কিন্তু ইহসানের সাথে তাদের অনুসরণের পথ খোলা: তাদের ঈমান আর নেক আমল নিন, পদস্খলন নয়, তাদের জন্য দোয়া করুন, আর আল্লাহর সন্তুষ্টি খুঁজুন।"
+  },
+  "9:122": {
+    "reflectionEn": "Everyone wanted to go. The verses before this one had rebuked those who stayed behind, and now the whole community was ready to march at once. This verse holds them back: not all together. From every group a party, so that understanding of the religion is gained and then carried home to people who did not have it. The commentators differ over which party does the learning, the one that goes or the one that stays, but none of them leaves the learning to no one. A crowd running in one direction can leave the most needed post empty. In my family, my mosque, my circle, who is doing the slow work of understanding? Am I one of them? And what have I understood that I have never passed on?",
+    "reflectionBn": "সবাই বেরিয়ে পড়তে চাইছিল। আগের আয়াতগুলোতে যারা পেছনে থেকে গিয়েছিল তাদের তিরস্কার করা হয়েছে, তাই এবার গোটা সমাজ একসঙ্গে রওনা দিতে তৈরি। এ আয়াত তাদের থামায়: সবাই একসঙ্গে নয়। প্রতিটি দল থেকে একটি অংশ বেরোবে, যাতে দ্বীনের বুঝ অর্জিত হয় আর যাদের কাছে তা নেই, ফিরে গিয়ে তাদের কাছে পৌঁছে দেওয়া যায়। কোন অংশটি শিখবে, যারা যায় নাকি যারা থাকে, এ নিয়ে তাফসীরকারদের মতভেদ আছে। কিন্তু শেখার কাজটা কারও ভাগে না পড়ে খালি থাকবে, এমন কথা তাঁদের কেউ বলেননি। এক দিকে ছুটে চলা ভিড় অনেক সময় সবচেয়ে জরুরি জায়গাটাই ফাঁকা রেখে যায়। আমার পরিবারে, আমার মসজিদে, আমার আশপাশের মানুষের মধ্যে দ্বীন বোঝার ধীর কাজটা কে করছে? আমি কি তাদের একজন? আর যা আমি বুঝেছি, তার কতটা কখনো কাউকে জানাইনি?",
+    "pointsEn": [
+      "When everyone around me rushes towards one good work, do I ever ask whether another good work is being left with no one to do it?",
+      "Which part of my religion do I actually understand, rather than only know the words of?",
+      "Who taught me what I know of the religion, and whom have I taught in return?",
+      "When I warn someone about a wrong, does it sound like a parent's care or like a verdict on them?",
+      "Which shared duty in my community has quietly fallen to no one, and could I take up part of it?"
+    ],
+    "pointsBn": [
+      "আশপাশের সবাই যখন একটি ভালো কাজের দিকে ছোটে, আমি কি কখনো খোঁজ নিই, আরেকটি ভালো কাজ করার মতো কেউ রইল কি না?",
+      "দ্বীনের কোন অংশ আমি সত্যিই বুঝি, আর কোন অংশের শুধু শব্দগুলো জানি?",
+      "দ্বীনের যা কিছু জানি, তা কার কাছ থেকে শিখেছি? আর বদলে আমি কাকে শিখিয়েছি?",
+      "কাউকে কোনো অন্যায় থেকে সাবধান করার সময় আমার কথায় কি মা-বাবার মমতা থাকে, নাকি থাকে তার বিরুদ্ধে রায়?",
+      "আমার সমাজের কোন সম্মিলিত দায়িত্ব চুপচাপ কারও ভাগে না পড়ে পড়ে আছে? তার কিছু অংশ কি আমি কাঁধে নিতে পারি?"
+    ],
+    "lessonEn": "Not every believer serves in the same place. Make sure someone, perhaps you, gains real understanding of the religion and carries it back to others with care.",
+    "lessonBn": "সব মু'মিন একই জায়গায় থেকে খেদমত করেন না। খেয়াল রাখুন, কেউ না কেউ, হয়তো আপনি নিজেই, দ্বীনের সত্যিকার বুঝ অর্জন করছেন আর মমতা নিয়ে তা অন্যদের কাছে ফিরিয়ে নিয়ে যাচ্ছেন।"
   }
 };
 
