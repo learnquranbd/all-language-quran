@@ -30663,6 +30663,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you hear the call to faith, answer it the same day, and ask Allah to forgive you and to take you in death among the righteous.",
     "lessonBn": "ঈমানের ডাক কানে এলে সেদিনই সাড়া দিন, আর আল্লাহর কাছে মাফ চান, চান যেন নেককারদের সঙ্গে আপনার মৃত্যু হয়।"
+  },
+  "3:175": {
+    "reflectionEn": "The message said the enemy had gathered and was coming back, so fear them. This verse names who was really speaking: Satan, making his allies look larger than they were. Then come two commands that belong together: do not fear them, and fear Me. Fear is not removed here; it is moved. A frightening voice works by shrinking everything except the threat, until obeying Allah starts to feel reckless. The verse widens the frame again. Whatever I dread moves only by His leave, and the thing truly worth dreading is leaving His command. This is no call to ignore danger. It asks what my fear is doing to me. Is it pushing me toward what Allah wants, or talking me out of it?",
+    "reflectionBn": "খবর এল, শত্রুরা আবার জোট বেঁধেছে, ফিরে আসছে, কাজেই ভয় করো। এ আয়াত জানিয়ে দেয়, কথাটা আসলে কার মুখের: শয়তানের। সে তার দোসরদের আসল আকারের চেয়ে বড় করে দেখাচ্ছিল। তারপর দুটি আদেশ, যা একসঙ্গে চলে: ওদের ভয় করো না, আমাকে ভয় করো। ভয় এখানে মুছে ফেলা হয়নি, জায়গা বদলেছে। ভয়-দেখানো কণ্ঠ কাজ করে এভাবে: হুমকিটা ছাড়া বাকি সব ছোট হয়ে যায়, শেষে আল্লাহর হুকুম মানাটাই বোকামি মনে হতে থাকে। আয়াতটি দৃষ্টি আবার খুলে দেয়। যাকে আমি ভয় পাই, সে নড়ে কেবল তাঁর অনুমতিতে। আর সত্যিই ভয়ের জিনিস হলো তাঁর হুকুম ছেড়ে দেওয়া। বিপদকে উড়িয়ে দেওয়ার ডাক এটা নয়। প্রশ্ন হলো, আমার ভয় আমাকে দিয়ে কী করাচ্ছে? আল্লাহ যা চান সেদিকে ঠেলছে, নাকি সেখান থেকে ফিরিয়ে আনছে?",
+    "pointsEn": [
+      "Which piece of news or which voice this month has made a threat look bigger in my mind than it really is?",
+      "When I am afraid, does the fear push me toward obeying Allah, or does it argue me out of it?",
+      "Whose disapproval do I fear more than Allah's, and what have I left undone because of it?",
+      "Do I measure my fear of Allah by how strongly I feel it, or by what it actually keeps me from doing?",
+      "When alarming news reaches me, do I check it and turn to Allah, or simply pass the alarm along to others?"
+    ],
+    "pointsBn": [
+      "এ মাসে কোন খবর বা কার কথা কোনো হুমকিকে আমার মনে আসলের চেয়ে বড় করে তুলেছে?",
+      "ভয় পেলে সেই ভয় কি আমাকে আল্লাহর হুকুমের দিকে ঠেলে দেয়, নাকি যুক্তি সাজিয়ে সেখান থেকে সরিয়ে আনে?",
+      "কার অসন্তুষ্টিকে আমি আল্লাহর অসন্তুষ্টির চেয়ে বেশি ভয় পাই? সেই ভয়ে কোন কাজটা আমি আজও করিনি?",
+      "আল্লাহর ভয় আমি কী দিয়ে মাপি: মনে কতটা কাঁপুনি জাগে তা দিয়ে, নাকি সেই ভয় আমাকে কোন কোন কাজ থেকে আসলে আটকায় তা দিয়ে?",
+      "ভয়ের খবর কানে এলে আমি কি যাচাই করি আর আল্লাহর দিকে ফিরি, নাকি আতঙ্কটা শুধু অন্যদের দিকে চালান করে দিই?"
+    ],
+    "lessonEn": "When fear of people pulls you away from what Allah commands, recognise whose voice it is, and let your fear of Him decide what you do.",
+    "lessonBn": "মানুষের ভয় যখন আল্লাহর হুকুম থেকে আপনাকে টেনে সরাতে চায়, চিনে নিন কণ্ঠটা কার, আর কী করবেন তা ঠিক করুক কেবল তাঁর ভয়।"
   }
 };
 

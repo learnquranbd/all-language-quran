@@ -7739,6 +7739,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:175": {
+    "sections": [
+      {
+        "h": {
+          "en": "Whose Voice Was That",
+          "bn": "কণ্ঠটা আসলে কার"
+        },
+        "p": [
+          {
+            "en": "Innama dhalikumu ash-shaytan: that is only Satan. The verse closes the episode of 3:172 to 3:174 by naming who stood behind the warning. At-Tabari reads dhalikum as pointing back to the sentence the believers had been told: the people have gathered against you, so fear them. That saying, which frightened them with the massing of their enemy and its march towards them, was in his words an act of Satan, which he cast onto the mouths of those who spoke it, so that the believers would dread their enemy and shrink from meeting them.",
+            "bn": "ইন্নামা যালিকুমুশ শায়তান: ও তো কেবল শয়তান। ৩:১৭২ থেকে ৩:১৭৪ পর্যন্ত যে ঘটনার বর্ণনা, এ আয়াত তা শেষ করে সতর্কবার্তার পেছনের আসল জনকে চিনিয়ে দিয়ে। তাবারীর মতে যালিকুম ইঙ্গিত করছে মুমিনদের শোনানো সেই কথার দিকে: লোকেরা তোমাদের বিরুদ্ধে জড়ো হয়েছে, কাজেই তাদের ভয় করো। শত্রুর জমায়েত আর তাদের এগিয়ে আসার খবর দিয়ে যে কথা মুমিনদের ভয় দেখাচ্ছিল, তাবারী বলেন, সেটা ছিল শয়তানের কাজ। যারা কথাটা বলেছিল, শয়তান তা তাদের মুখে তুলে দিয়েছিল। উদ্দেশ্য একটাই: মুমিনরা যেন শত্রুকে ভয় পায় আর তাদের মুখোমুখি হতে পিছিয়ে যায়।"
+          },
+          {
+            "en": "Al-Baghawi says the same in nearly the same words. As-Sa'di calls whoever spread the alarm a caller among Satan's callers, and al-Muyassar names the effect: the one holding you back here is Satan. Al-Qurtubi records a further view, under it has been said, that Satan here stands for the man who carried the threat; who that man was is a disagreement he set out earlier. Who carried the words, and on which march, the article on 3:173 lays out. This verse cares less about the messenger than about where the message came from.",
+            "bn": "বাগাভীও প্রায় একই কথা বলেন। সা'দী বলেন, যে-ই আতঙ্ক ছড়িয়েছে, সে শয়তানের আহ্বানকারীদেরই একজন। মুয়াসসার ফলটা সোজা করে বলে: এখানে তোমাদের যে পিছু টানছে, সে শয়তান। কুরতুবী 'বলা হয়েছে' দিয়ে আরেকটি মত আনেন। সে মতে এখানে শয়তান বলতে সেই মানুষকে বোঝানো হয়েছে, যে হুমকির খবরটা বয়ে এনেছিল। সে কে ছিল, তা নিয়ে মতভেদ তিনি আগেই উল্লেখ করেছেন। খবরটা কে বয়ে এনেছিল, আর কোন অভিযানের পথে, তা ৩:১৭৩-এর প্রবন্ধে আছে। এ আয়াতের মনোযোগ বার্তাবাহকে নয়, বার্তাটা আসলে কোথা থেকে এল সেখানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Frightening You With His Friends",
+          "bn": "দোসরদের দেখিয়ে ভয়"
+        },
+        "p": [
+          {
+            "en": "Yukhawwifu awliya'ahu: word for word, he frightens his allies. Most of the reports at-Tabari gathers read it as he frightens you with his allies. From Qatada: by Allah, he frightens the believer with the disbeliever and makes the believer dread the disbeliever. From Mujahid: he frightens the believers with the disbelievers. From Ibn Abbas: Satan frightens the believers with his allies. From Salim al-Aftas: he frightens you with his allies. Al-Qurtubi opens with it, from Ibn Abbas and others; al-Baghawi and Ibn Kathir adopt it too.",
+            "bn": "ইউখাওউইফু আওলিয়াআহু: শব্দে শব্দে অর্থ দাঁড়ায়, সে তার বন্ধুদের ভয় দেখায়। তাবারী যেসব বর্ণনা জড়ো করেছেন, তার বেশিরভাগ এর মানে করে: সে তোমাদের ভয় দেখায় তার বন্ধুদের দিয়ে। কাতাদা বলেন, আল্লাহর কসম, সে মুমিনকে কাফিরের ভয় দেখায়, কাফিরকে দিয়ে মুমিনের মনে ত্রাস জাগায়। মুজাহিদ বলেন, সে মুমিনদের কাফিরদের ভয় দেখায়। ইবন আব্বাস (রাঃ) বলেন, শয়তান মুমিনদের ভয় দেখায় তার দোসরদের দিয়ে। সালিম আল-আফতাসের কথাও তাই। কুরতুবীও এই মত দিয়েই শুরু করেন, ইবন আব্বাস (রাঃ) ও অন্যদের সূত্রে। বাগাভী আর ইবন কাসীরও এ ব্যাখ্যাই নেন।"
+          },
+          {
+            "en": "At-Tabari takes this reading himself and names the allies in his paraphrase: the polytheists, Abu Sufyan and his companions from Quraysh. Ibn Ishaq, in the report at-Tabari gives, applies the verse to the party from Abd al-Qays who said to the Messenger ﷺ what they said, and to what Satan cast onto their mouths. Ibn Kathir describes how the frightening works: Satan makes you imagine that his allies are people of might and severity. On this reading the believers are the ones frightened, and the allies are made to look larger, stronger and nearer than they are.",
+            "bn": "তাবারী নিজেও এ ব্যাখ্যা নেন, আর ব্যাখ্যার ভেতরেই দোসরদের নাম বলে দেন: মুশরিকরা, অর্থাৎ আবু সুফিয়ান ও কুরাইশে তার সঙ্গীরা। তাবারীর আনা বর্ণনায় ইবন ইসহাক আয়াতটিকে যুক্ত করেন আবদুল কায়সের সেই দলের সঙ্গে, যারা রাসূল ﷺ-কে যা বলার বলেছিল। সঙ্গে সেই কথাগুলোর সঙ্গেও, যা শয়তান তাদের মুখে তুলে দিয়েছিল। ভয়টা কীভাবে কাজ করে, ইবন কাসীর তা দেখান: শয়তান আপনাকে বোঝাতে চায় যে তার দোসররা ভীষণ শক্তিধর, ভয়ংকর কঠোর। এই পাঠে ভয় পাচ্ছে মুমিনরা। আর দোসরদের দেখানো হচ্ছে আসলের চেয়ে বড়, বেশি শক্তিশালী, আরও কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Or Only His Own Take Fright",
+          "bn": "নাকি ভয় পায় কেবল নিজের লোক"
+        },
+        "p": [
+          {
+            "en": "A second reading takes the words as they stand. Al-Qurtubi reports it from al-Hasan and as-Suddi: he frightens his allies, the hypocrites, so that they hold back from fighting the polytheists. As for the allies of Allah, al-Qurtubi adds, they do not fear him when he tries to frighten them. At-Tabari records the same reading under others said, with as-Suddi's words: Satan magnifies his allies in your breasts so that you fear him, an address, as at-Tabari frames it, to the hypocrites. On this reading the threat lands only where Satan already has a foothold.",
+            "bn": "দ্বিতীয় পাঠ শব্দগুলো যেমন আছে তেমনই নেয়। কুরতুবী এ মত আনেন হাসান ও সুদ্দী থেকে। তাঁদের কথায়, সে তার বন্ধু মুনাফিকদের ভয় দেখায়, যাতে তারা মুশরিকদের সঙ্গে লড়াই থেকে বসে থাকে। কুরতুবী যোগ করেন, আল্লাহর বন্ধুরা তো তাকে ভয় পান না, সে ভয় দেখাতে চাইলেও না। তাবারীও 'অন্যরা বলেছেন' শিরোনামে এ মত রাখেন, সুদ্দীর এই কথায়: শয়তান তার দোসরদের তোমাদের বুকে বড় করে তোলে, ফলে তোমরা তাকে ভয় পাও। তাবারীর উপস্থাপনায় এ কথার লক্ষ্য মুনাফিকরা। এই পাঠে হুমকি গিয়ে লাগে কেবল সেখানে, যেখানে শয়তানের আগে থেকেই পা রাখার জায়গা আছে।"
+          },
+          {
+            "en": "Al-Baghawi quotes nearly the same words from as-Suddi, magnifying his allies in their breasts so that they fear them, but without naming the hypocrites, and sets them beside the believers' reading. So one early voice appears on both sides, depending on who relays him. As-Sa'di draws on both readings at once. The alarm, he says, came from a caller of Satan who frightens his allies, those whose faith is absent or weak. The two readings differ over who is targeted, yet they agree on the outcome: being frightened out of obedience is Satan's work, whoever it reaches.",
+            "bn": "বাগাভী সুদ্দী থেকে প্রায় একই কথা আনেন: সে তাদের বুকে তার দোসরদের বড় করে তোলে, যাতে তারা ওদের ভয় পায়। কিন্তু বাগাভী এখানে মুনাফিকদের নাম নেন না, আর কথাটা রাখেন মুমিনদের পাঠের পাশেই। ফলে প্রথম যুগের একই কণ্ঠ দুই পক্ষেই দেখা যায়, কে তাঁকে উদ্ধৃত করছেন তার উপর নির্ভর করে। সা'দী দুই পাঠকে একসঙ্গে ধরেন। তাঁর মতে আতঙ্কটা এসেছিল শয়তানের এক আহ্বানকারীর কাছ থেকে, যে ভয় দেখায় তার বন্ধুদের, যাদের ঈমান নেই অথবা দুর্বল। লক্ষ্য কে, তা নিয়ে দুই পাঠে ফারাক আছে। ফল নিয়ে নেই: ভয় দেখিয়ে আনুগত্য থেকে সরিয়ে দেওয়া শয়তানের কাজ, ভয়টা যার কাছেই পৌঁছাক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word the Line Leaves Out",
+          "bn": "বাক্যে যে শব্দটা নেই"
+        },
+        "p": [
+          {
+            "en": "Why would the verse say he frightens his allies if it means he frightens you with them? At-Tabari raises the question himself and answers with a parallel from 18:2, li-yundhira ba'san shadidan, to warn of severe punishment. Punishment is not warned; people are warned of it. So the sense there is to warn you of His severe punishment, and here to frighten you with his allies. Al-Qurtubi explains the mechanism: the preposition was dropped, the verb reached the noun directly, and the noun took the accusative.",
+            "bn": "অর্থ যদি হয় 'বন্ধুদের দিয়ে তোমাদের ভয় দেখায়', তাহলে আয়াত কেন বলল 'তার বন্ধুদের ভয় দেখায়'? প্রশ্নটা তাবারী নিজেই তোলেন। জবাবে আনেন ১৮:২, লিইউনযিরা বা'সান শাদীদা: কঠিন শাস্তির ব্যাপারে সতর্ক করতে। শাস্তিকে তো সতর্ক করা হয় না। সতর্ক করা হয় মানুষকে, শাস্তির ব্যাপারে। তাই সেখানে মানে, তোমাদের তাঁর কঠিন শাস্তির ব্যাপারে সতর্ক করতে। আর এখানে মানে, তার বন্ধুদের দিয়ে তোমাদের ভয় দেখায়। কুরতুবী ব্যাকরণের কলকব্জাটা খুলে দেখান। মাঝের অব্যয়টা বাদ পড়েছে, ক্রিয়া সরাসরি বিশেষ্যে গিয়ে লেগেছে, ফলে বিশেষ্যটি কর্মকারকের রূপ নিয়েছে।"
+          },
+          {
+            "en": "At-Tabari reports a grammarian of Basra who explained it differently, as a verb with two objects, one dropped because it is understood: he frightens people his allies, as one says he gives dirhams, meaning he gives people dirhams. At-Tabari rejects the comparison. Dirhams are what is given, he argues, whereas the allies are not the ones frightened; the fear goes out from them to others. Ma'arif al-Qur'an, for its part, does explain the verse as a verb with two objects, one of them left out and understood, you, as though it read yukhawwifukum.",
+            "bn": "তাবারী বসরার এক ব্যাকরণবিদের ভিন্ন ব্যাখ্যাও আনেন। তাঁর মতে ক্রিয়াটির কর্ম দুটি, একটি বোঝা যায় বলে বাদ দেওয়া হয়েছে: সে মানুষকে তার বন্ধুদের ভয় দেখায়। যেমন কেউ বলে, সে দিরহাম দেয়, মানে মানুষকে দিরহাম দেয়। তাবারী এই তুলনা মানেন না। তাঁর যুক্তি, দিরহাম তো দেওয়ার জিনিসই। কিন্তু বন্ধুরা এখানে ভয় পাওয়ার লোক নয়, ভয়টা তাদের কাছ থেকে বেরিয়ে অন্যদের দিকে যায়। মাআরিফুল কুরআন অবশ্য আয়াতটিকে দুই কর্মের ক্রিয়া হিসেবেই ব্যাখ্যা করে। সেখানে দুই কর্মের একটি বাদ পড়েছে, তা হলো 'তোমাদের', যেন পাঠটা ইউখাওউইফুকুম।"
+          },
+          {
+            "en": "Al-Baghawi adds two old wordings. He says the sense frightens you with his allies is how it stands in the reading of Ubayy ibn Ka'b, and he cites the reading of Abdullah ibn Mas'ud, yukhawwifukum awliya'ahu, as pointing the same way. These are reported as witnesses to the meaning; the recited text remains yukhawwifu awliya'ahu. The word the line leaves out is the word every hearer must supply for himself: you.",
+            "bn": "বাগাভী পুরোনো দুটি পাঠও আনেন। তিনি বলেন, 'বন্ধুদের দিয়ে তোমাদের ভয় দেখায়' অর্থটাই উবাই ইবন কা'ব (রাঃ)-এর পাঠে আছে। আর আবদুল্লাহ ইবন মাসঊদ (রাঃ)-এর পাঠ ইউখাওউইফুকুম আওলিয়াআহু-কেও তিনি এ অর্থের পক্ষে প্রমাণ হিসেবে আনেন। এগুলো এসেছে অর্থের সাক্ষী হিসেবে। তিলাওয়াতের পাঠ রয়ে গেছে ইউখাওউইফু আওলিয়াআহু। যে শব্দটি বাক্যে নেই, প্রত্যেক শ্রোতাকে তা নিজেই বসিয়ে নিতে হয়: তোমাদের, মানে আমাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Forelocks in Another Hand",
+          "bn": "ওদের কপালের চুল অন্য হাতে"
+        },
+        "p": [
+          {
+            "en": "Fa-la takhafuhum: so do not fear them. Al-Qurtubi gives two possible references for them: the disbelievers meant in the people have gathered against you, or, if the verse means he frightens you with his allies, the allies themselves. At-Tabari spells the command out: do not fear the polytheists, believers, do not let their affair loom large over you, and do not dread their gathering, so long as you obey Me and follow My command, for I have taken it upon Myself to give you help and victory.",
+            "bn": "ফালা তাখাফূহুম: কাজেই ওদের ভয় করো না। 'ওদের' বলতে কাদের, কুরতুবী দুটি সম্ভাবনা দেখান। হয় সেই কাফিররা, যাদের কথা 'লোকেরা তোমাদের বিরুদ্ধে জড়ো হয়েছে' বাক্যে এসেছে। নয়তো, আয়াতের মানে যদি হয় 'বন্ধুদের দিয়ে ভয় দেখায়', তাহলে সেই বন্ধুরাই। তাবারী আদেশটা খুলে বলেন: হে মুমিনরা, মুশরিকদের ভয় করো না। ওদের ব্যাপারটা যেন তোমাদের চোখে বড় হয়ে না ওঠে, ওদের জমায়েত দেখে ঘাবড়ে যেয়ো না, যতক্ষণ তোমরা আমার আনুগত্য করছ আর আমার হুকুম মেনে চলছ। তোমাদের সাহায্য আর বিজয়ের দায়িত্ব আমি নিজে নিয়েছি।"
+          },
+          {
+            "en": "The commentators give the reason the enemy need not be feared. Al-Muyassar says the polytheists are weak and have no helper. As-Sa'di says their forelocks are in Allah's hand and they act only by His decree. Ibn Kathir turns it into an instruction for the moment the whisper arrives: when Satan makes these things seem real to you, rely on Me and take refuge with Me, for I suffice you and I will help you against them.",
+            "bn": "শত্রুকে কেন ভয় পাওয়ার দরকার নেই, তাফসীরকারেরা তার কারণও বলেন। মুয়াসসার বলে, মুশরিকরা দুর্বল, তাদের কোনো সাহায্যকারী নেই। সা'দী বলেন, ওদের কপালের চুল আল্লাহর হাতে, তাঁর নির্ধারণ ছাড়া ওরা কিছুই করতে পারে না। ইবন কাসীর একে সেই মুহূর্তের নির্দেশ বানিয়ে দেন, যখন কুমন্ত্রণা এসে পৌঁছায়: শয়তান যখন এসব তোমাদের সামনে সত্যি বলে সাজায়, তখন আমার উপর ভরসা করো, আমার কাছে আশ্রয় নাও। আমিই তোমাদের জন্য যথেষ্ট, ওদের বিরুদ্ধে আমিই তোমাদের সাহায্য করব।"
+          },
+          {
+            "en": "Ibn Kathir then lines the verse up with others. The nearest is 39:36: is not Allah sufficient for His servant, while they frighten you with those besides Him? The same verb returns, yukhawwifunaka, this time with the preposition bi- that the verse here leaves unsaid, and the passage he cites runs on to 39:38, say: Allah is sufficient for me. He adds 4:76, the plot of Satan has ever been weak, and 58:21, Allah has written: I will surely overcome, I and My messengers.",
+            "bn": "এরপর ইবন কাসীর আয়াতটিকে আরও কয়েকটি আয়াতের পাশে রাখেন। সবচেয়ে কাছেরটি ৩৯:৩৬: আল্লাহ কি তাঁর বান্দার জন্য যথেষ্ট নন? অথচ ওরা তোমাকে তাঁকে ছাড়া অন্যদের ভয় দেখায়। একই ক্রিয়া ফিরে এসেছে, ইউখাওউইফূনাকা। এবার সঙ্গে আছে বি- অব্যয়টি, যা আমাদের আয়াতে উহ্য। তাঁর উদ্ধৃত অংশটি চলে ৩৯:৩৮ পর্যন্ত: বলো, আমার জন্য আল্লাহই যথেষ্ট। সঙ্গে তিনি আনেন ৪:৭৬, শয়তানের চক্রান্ত সবসময়ই দুর্বল। আর ৫৮:২১, আল্লাহ লিখে দিয়েছেন: আমি ও আমার রাসূলরা অবশ্যই বিজয়ী হব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Fear That Is Owed",
+          "bn": "যে ভয় তাঁর প্রাপ্য"
+        },
+        "p": [
+          {
+            "en": "Wa-khafuni: and fear Me. The verse does not cancel fear; it gives it a new object. At-Tabari: fear Me, rather than the polytheists and rather than all My creation, and guard against disobeying Me and opposing My command, lest you perish. Al-Qurtubi and al-Baghawi name the same object in fewer words: fear Me in abandoning My command.",
+            "bn": "ওয়া খাফূন: আর আমাকে ভয় করো। আয়াত ভয়কে বাতিল করেনি, ভয়ের লক্ষ্য বদলে দিয়েছে। তাবারী বলেন: মুশরিকদের নয়, আমার কোনো সৃষ্টিকেই নয়, আমাকে ভয় করো। আমার নাফরমানি করা আর আমার হুকুমের বিরুদ্ধে যাওয়া থেকে বেঁচে থাকো, নইলে ধ্বংস হবে। কুরতুবী আর বাগাভী একই কথা আরও সংক্ষেপে বলেন: আমার হুকুম ছেড়ে দেওয়ার ব্যাপারে আমাকে ভয় করো।"
+          },
+          {
+            "en": "Al-Qurtubi pauses on the word itself. Khawf in the speech of the Arabs, he says, is alarm, and among its relatives is al-khawfa', a desert without water. He then states that Allah made it an obligation on His servants to fear Him, citing this verse together with 2:40, and of Me alone be in awe, and that He praised the believers for it in 16:50, they fear their Lord above them.",
+            "bn": "কুরতুবী শব্দটার কাছে একটু থামেন। তিনি বলেন, আরবদের ভাষায় খাওফ মানে আতঙ্ক। এর আত্মীয় শব্দ আল-খাওফা, পানিহীন মরুভূমি। তারপর তিনি বলেন, আল্লাহ বান্দাদের উপর তাঁকে ভয় করা ফরজ করেছেন। প্রমাণ হিসেবে এই আয়াতের সঙ্গে আনেন ২:৪০, আর কেবল আমাকেই ভয় করো। আর ১৬:৫০-এ আল্লাহ মুমিনদের এই ভয়ের জন্য প্রশংসা করেছেন: তারা তাদের উপরে থাকা রবকে ভয় করে।"
+          },
+          {
+            "en": "In kuntum mu'minin: if you are believers. At-Tabari reads it as: if you believe My Messenger and what he brought you from Me. Al-Qurtubi and al-Baghawi read it as: if you believe My promise. As-Sa'di draws the conclusion. The verse, he says, shows that fear of Allah alone is obligatory, and that faith cannot be without it; a servant's fear of Allah is in proportion to his faith.",
+            "bn": "ইন কুনতুম মু'মিনীন: যদি তোমরা মুমিন হও। তাবারী এর মানে করেন: যদি তোমরা আমার রাসূলকে আর আমার কাছ থেকে তিনি যা এনেছেন তা সত্য বলে মানো। কুরতুবী আর বাগাভীর ব্যাখ্যা: যদি আমার ওয়াদাকে সত্য বলে মানো। সা'দী এখান থেকে সিদ্ধান্ত টানেন। তাঁর মতে আয়াতটি দেখায়, কেবল আল্লাহকে ভয় করা ফরজ, আর এ ভয় ঈমানের অবিচ্ছেদ্য অংশ। বান্দার ঈমান যতটা, আল্লাহর ভয়ও ততটা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Measured by What It Stops",
+          "bn": "মাপকাঠি, যা সে থামায়"
+        },
+        "p": [
+          {
+            "en": "What kind of fear is meant? As-Sa'di answers in a line: praiseworthy fear is the fear that holds the servant back from what Allah has forbidden. Al-Qurtubi describes the one who fears Allah as someone afraid that He will punish him, in this world or the next, and quotes a saying introduced with hence it has been said: the one who fears is not the one who weeps and wipes his eyes, but the one who leaves what he fears being punished for.",
+            "bn": "কোন ধরনের ভয়ের কথা হচ্ছে? সা'দী এক বাক্যে জবাব দেন: প্রশংসনীয় ভয় সেটাই, যা বান্দাকে আল্লাহর হারাম করা জিনিস থেকে আটকে রাখে। কুরতুবীর বর্ণনায় আল্লাহকে যে ভয় করে, সে ভয় পায় আল্লাহ তাকে শাস্তি দেবেন, দুনিয়ায় অথবা আখিরাতে। তারপর 'এ কারণেই বলা হয়েছে' বলে তিনি একটি কথা আনেন: ভীত সে নয়, যে কাঁদে আর চোখ মোছে। ভীত সে, যে ছেড়ে দেয় এমন কাজ, যার জন্য শাস্তির ভয় সে করে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, drawing on al-Qurtubi, puts it in its own terms. Fearing Allah, some elders said, does not mean being scared stiff or sitting back in tears; the God-fearing person leaves whatever could bring Allah's displeasure, and thinks twice before any act of disobedience. Both books relay the visit of Abu Ali ad-Daqqaq to Abu Bakr ibn Furak in his illness. Seeing his tears, Abu Ali wished him recovery. Ibn Furak replied: do you think I fear death? I fear only what lies beyond death.",
+            "bn": "মাআরিফুল কুরআন কুরতুবীর সূত্র ধরে কথাটা নিজের ভাষায় বলে। কিছু বুজুর্গের মতে আল্লাহকে ভয় করার মানে আতঙ্কে জমে যাওয়া বা বসে বসে কাঁদা নয়। আল্লাহভীরু সেই, যে আল্লাহর অসন্তুষ্টি ডেকে আনতে পারে এমন সবকিছু ছেড়ে দেয়, আর নাফরমানির কোনো কাজে হাত দেওয়ার আগে দুবার ভাবে। দুই কিতাবই একটি ঘটনা আনে। অসুস্থ আবু বকর ইবন ফুরাককে দেখতে গিয়েছিলেন আবু আলী দাক্কাক। চোখে পানি দেখে আবু আলী তাঁর আরোগ্যের দোয়া করলেন। ইবন ফুরাক বললেন: তুমি কি ভাবছ আমি মৃত্যুকে ভয় পাচ্ছি? আমি ভয় পাই কেবল মৃত্যুর ওপারে যা আছে তাকে।"
+          },
+          {
+            "en": "Al-Qurtubi also relays a narration from Abu Dharr, through Ibn Majah and at-Tirmidhi, on fear and weeping; at-Tirmidhi grades it hasan gharib. It is general and not attached to this verse, so it is only mentioned here. None of the fetched commentaries attaches a sound hadith to 3:175 itself. The verse stands on its own words, and the commentators converge on them: the fear of Allah it commands is known by what it makes a person stop doing.",
+            "bn": "কুরতুবী আবু যার (রাঃ) থেকে ভয় আর কান্না বিষয়ে একটি বর্ণনাও আনেন, ইবন মাজাহ ও তিরমিযীর সূত্রে। তিরমিযী একে হাসান গরীব বলেছেন। বর্ণনাটি সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়, তাই এখানে শুধু উল্লেখ করা হলো। সংগৃহীত তাফসীরগুলোর কোনোটিই ৩:১৭৫-এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। আয়াতটি দাঁড়িয়ে আছে নিজের শব্দের উপর। আর সেই শব্দ নিয়ে তাফসীরকারেরা একমত: যে আল্লাহভীতির আদেশ এখানে, তাকে চেনা যায় সে মানুষকে কী থেকে থামায় তা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Next Alarm Arrives",
+          "bn": "পরের আতঙ্কের খবর এলে"
+        },
+        "p": [
+          {
+            "en": "Read in its place, the verse is a lesson in how fear is made to work against obedience. A message arrives, the enemy is made to seem mighty, and those who hear it are invited to do the enemy's work for him by holding back. It moves the believers' attention from the size of the threat to the One in whose hand it lies, and from what might be done to them to what they themselves might abandon.",
+            "bn": "প্রসঙ্গের ভেতরে রেখে পড়লে আয়াতটি দেখায়, ভয়কে কীভাবে আনুগত্যের বিরুদ্ধে খাটানো হয়। একটা খবর আসে, শত্রুকে দেখানো হয় মহাশক্তিধর, আর যারা খবরটা শোনে, পিছিয়ে থেকে তাদের দিয়েই শত্রুর কাজটা করিয়ে নেওয়ার চেষ্টা চলে। আয়াতটি মুমিনদের নজর সরিয়ে নেয় হুমকির আকার থেকে সেই সত্তার দিকে, হুমকিটা যাঁর হাতে। আর সরিয়ে নেয় তাদের সঙ্গে কী ঘটতে পারে সেই চিন্তা থেকে, তারা নিজেরা কী ছেড়ে দিতে পারে সেই প্রশ্নের দিকে।"
+          },
+          {
+            "en": "The allies of Satan in this verse are, in at-Tabari's reading, Abu Sufyan and his companions at that moment, and in the other reading the hypocrites. The verse describes what the text describes, within one episode. It licenses nothing against any living person or community, and gives no one the right to label a neighbour, a rival or a group today as Satan's allies. Its demand points inward. When the next alarming message reaches me, two questions follow from it: where did this come from, and what is it asking me to leave?",
+            "bn": "এ আয়াতে শয়তানের দোসর বলতে তাবারীর পাঠে সেই মুহূর্তের আবু সুফিয়ান ও তার সঙ্গীরা, আর অন্য পাঠে মুনাফিকরা। আয়াতটি একটি ঘটনার ভেতরে যা বর্ণনা করে, কেবল তাই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশী, প্রতিদ্বন্দ্বী বা কোনো দলকে শয়তানের দোসর বলে দাগানোর অধিকারও কাউকে দেয় না। এর দাবি ভেতরের দিকে। পরের বার ভয়ের কোনো খবর কানে এলে দুটি প্রশ্ন সামনে আসে: খবরটা কোথা থেকে এল? আর আমাকে দিয়ে সে কী ছাড়াতে চাইছে?"
+          },
+          {
+            "en": "If the answer is a command of Allah, the message has already shown whose it is. Fear of people that keeps a believer from a duty is the fear the verse forbids; fear of Allah that keeps him from what is forbidden is the fear it commands, and the verse ties that second fear to faith itself. The Companions in 3:174 returned unharmed. The verse after their story does not promise every listener the same outcome; it tells him which fear to obey.",
+            "bn": "উত্তর যদি হয় আল্লাহর কোনো হুকুম, তাহলে খবরটা নিজেই জানিয়ে দিয়েছে সেটা কার। যে মানুষের ভয় মুমিনকে কোনো দায়িত্ব থেকে আটকে রাখে, আয়াত সেই ভয় নিষেধ করে। আর যে আল্লাহর ভয় তাকে হারাম থেকে আটকে রাখে, আয়াত সেই ভয়েরই আদেশ দেয়, আর এই দ্বিতীয় ভয়কে বেঁধে দেয় ঈমানের সঙ্গেই। ৩:১৭৪-এ সাহাবীরা নিরাপদে ফিরে এসেছিলেন। তাঁদের ঘটনার পরের এই আয়াত প্রত্যেক শ্রোতাকে একই পরিণতির কথা দেয় না। সে শুধু বলে দেয়, কোন ভয়ের কথা শুনতে হবে।"
+          }
+        ]
+      }
+    ]
+  },
   "3:180": {
     "sections": [
       {
