@@ -4663,6 +4663,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:104": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Defence After the Denial",
+          "bn": "অস্বীকারের পরে অজুহাত"
+        },
+        "p": [
+          {
+            "en": "The preceding verse, 5:103, denies that Allah ever appointed the bahirah, the sa'ibah, the wasilah or the ham, animals that people set apart for their idols, and says that those who disbelieve invent a lie against Allah and most of them do not reason. This verse records the defence they gave when challenged. At-Tabari reads it as a direct continuation: the people meant are the very ones who set those camels loose, who did not grasp that by ascribing the prohibition to Allah they were lying about Him.",
+            "bn": "আগের আয়াত, ৫:১০৩, স্পষ্ট বলে দিয়েছে যে বাহীরাহ, সাইবাহ, ওয়াসীলাহ বা হাম আল্লাহ কখনো নির্ধারণ করেননি। এগুলো ছিল প্রতিমার নামে আলাদা করে রাখা পশু। আয়াতটি আরও বলেছে, কাফিররা আল্লাহর নামে মিথ্যা রটায়, আর তাদের বেশির ভাগই বুদ্ধি খাটায় না। এবারের আয়াতে আছে, চ্যালেঞ্জের মুখে তারা কী অজুহাত দিয়েছিল। তাবারী একে আগের কথারই সরাসরি ধারাবাহিকতা হিসেবে পড়েন। এখানে যাদের কথা, তারা ঠিক সেই লোকেরা, যারা ওই উটগুলো ছেড়ে দিত। তারা বুঝত না, নিষেধাজ্ঞাটা আল্লাহর নামে চালিয়ে দিয়ে তারা আসলে তাঁর সম্পর্কে মিথ্যা বলছে।"
+          },
+          {
+            "en": "The call they received was specific. At-Tabari gives it as: come to Allah's revelation, the verses of His Book, and to His Messenger, so that the falsehood of what you ascribe to Allah becomes clear to you. Al-Baghawi names the subject as the permitting of crops and livestock and the explaining of laws and rulings; the Muyassar says, so that the lawful and the unlawful become clear to you. A few verses earlier, 5:99 has said the Messenger's duty is only to convey. Here the conveying reaches people, and they refuse it.",
+            "bn": "তাদের যে দাওয়াত দেওয়া হয়েছিল, তা ছিল নির্দিষ্ট। তাবারীর ভাষায় দাওয়াতটা এমন: আল্লাহর নাযিল করা বাণী, তাঁর কিতাবের আয়াতগুলো আর তাঁর রসূলের দিকে এসো, তাহলে আল্লাহর নামে তোমরা যা চালাচ্ছ তার মিথ্যা তোমাদের সামনে খুলে যাবে। বাগাভী বিষয়টা চিহ্নিত করেন এভাবে: ফসল ও গবাদিপশু হালাল হওয়ার প্রশ্ন, আর শরীয়তের বিধিবিধানের ব্যাখ্যা। মুয়াসসার বলে, যাতে হালাল আর হারাম তোমাদের কাছে পরিষ্কার হয়ে যায়। কয়েক আয়াত আগেই ৫:৯৯ বলেছে, রসূলের দায়িত্ব কেবল পৌঁছে দেওয়া। এখানে সেই বাণী মানুষের কাছে পৌঁছেছে, আর তারা তা ফিরিয়ে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Come, Enough, and Found",
+          "bn": "এসো, যথেষ্ট, পেয়েছি"
+        },
+        "p": [
+          {
+            "en": "Ta'alaw: come. The call is to two things, each with its own ila: to what Allah sent down, and to the Messenger. The same words open 4:61, where the hypocrites turn away. The reply begins with hasbuna, sufficient for us; Ibn Kathir and the Muyassar both gloss it as yakfina, it is enough for us. At-Tabari fills in what the word carried in their mouths: we are their followers and they are our imams and leaders; we have contented ourselves with what we took from them, and are pleased with what they held of forbidding and permitting.",
+            "bn": "তাআলাও: এসো। দাওয়াত দুটি জিনিসের দিকে, আর প্রত্যেকটির আগে আলাদা করে 'ইলা' এসেছে: আল্লাহ যা নাযিল করেছেন তার দিকে, এবং রসূলের দিকে। ৪:৬১ আয়াতও শুরু হয়েছে হুবহু এই শব্দে, সেখানে মুনাফিকরা মুখ ফিরিয়ে নেয়। জবাবের শুরু 'হাসবুনা' দিয়ে, অর্থাৎ আমাদের জন্য যথেষ্ট। ইবন কাসীর ও মুয়াসসার দুজনেই এর অর্থ করেন 'ইয়াকফীনা', আমাদের জন্য এটুকুই চলে। তাদের মুখে শব্দটার ভেতরে কী ছিল, তাবারী তা খুলে বলেন। আমরা তাদের অনুসারী, তারা আমাদের ইমাম ও নেতা। তাদের কাছ থেকে যা পেয়েছি তাতেই আমরা তুষ্ট। কী হারাম আর কী হালাল, এ ব্যাপারে তারা যে পথে ছিল, তাতেই আমরা রাজি।"
+          },
+          {
+            "en": "Ma wajadna 'alayhi aba'ana: what we found our fathers upon. Ibn Kathir widens the fathers to fathers and grandfathers, and names what was found as ways and paths. The Muyassar calls it what we inherited from our fathers of word and deed. Al-Baghawi and as-Sa'di both add of religion: what they found was a religion. As-Sa'di then adds the edge, that they held to it even though it was not sound, and was not a religion that would save anyone from Allah's punishment.",
+            "bn": "মা ওয়াজাদনা আলাইহি আবাআনা: বাপ-দাদাকে আমরা যার উপর পেয়েছি। ইবন কাসীর 'বাপ' কথাটাকে বাপ-দাদা পর্যন্ত বিস্তৃত করেন। আর যা পাওয়া গেছে, তাকে বলেন তাদের রীতি ও চলার পথ। মুয়াসসারের ভাষায়, কথায় ও কাজে বাপ-দাদার কাছ থেকে উত্তরাধিকারসূত্রে যা পেয়েছি। বাগাভী ও সা'দী দুজনেই জুড়ে দেন 'দ্বীন হিসেবে', অর্থাৎ তারা যা পেয়েছিল তা ছিল একটা ধর্ম। এরপর সা'দী কথাটায় ধার দেন। তারা তা আঁকড়ে ধরেছিল, যদিও তা সঠিক ছিল না, আর এমন ধর্মও ছিল না যা কাউকে আল্লাহর আযাব থেকে বাঁচাতে পারে।"
+          },
+          {
+            "en": "Then comes the reply: a-wa-law kana aba'uhum, even if their fathers were. On this verse al-Qurtubi sends the reader back to al-Baqarah, saying its meaning was discussed there. At 2:170 he explains the opening as the hamza of a question followed by a conjunctive waw, linking sentence to sentence. The worst corruption in their stance, he says, is that they would say: we follow our fathers even if they understood nothing. The question makes them own exactly that position, since it was their fathers' actual condition.",
+            "bn": "এরপর আসে পাল্টা প্রশ্ন: আ-ওয়া-লাও কানা আবাউহুম, তাদের বাপ-দাদারা যদি এমনই হয়, তবুও? এ আয়াতের আলোচনায় কুরতুবী পাঠককে সূরা বাকারায় ফেরত পাঠান। বলেন, সেখানে এর অর্থ নিয়ে কথা হয়ে গেছে। ২:১৭০ আয়াতে তিনি ব্যাখ্যা করেন, শুরুর আলিফটি প্রশ্নের, আর তার পরের ওয়াও সংযোজক, যা এক বাক্যকে আরেক বাক্যের সঙ্গে জোড়ে। তাঁর মতে তাদের অবস্থানের সবচেয়ে বড় গলদ হলো এই কথা: বাপ-দাদা কিছু না বুঝলেও আমরা তাদেরই অনুসরণ করব। প্রশ্নটা তাদের ঠিক এই অবস্থানটা মেনে নিতে বাধ্য করে, কারণ বাপ-দাদার আসল অবস্থা তো এটাই ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither Knowing Nor Guided",
+          "bn": "না জানা, না পথ পাওয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the two denials narrowly, tied to the camels. The fathers did not know that ascribing the prohibition of the bahirah, sa'ibah, wasilah and ham to Allah was a lie and a fabrication, with no truth or soundness in it, because they were themselves followers of the fabricators who first began that prohibition. Nor, in what they practised, were they upright and correct; they were in error and mistake. On his reading, the ignorance in question is specific: about this practice and where it came from.",
+            "bn": "তাবারী দুটি 'না'-কে পড়েন সংকীর্ণ অর্থে, উটগুলোর প্রসঙ্গের সঙ্গে বেঁধে। বাহীরাহ, সাইবাহ, ওয়াসীলাহ ও হাম হারাম হওয়ার কথা আল্লাহর নামে চালানো যে মিথ্যা ও বানোয়াট, যার কোনো সত্যতা বা ভিত্তি নেই, বাপ-দাদারা তা জানত না। কারণ তারা নিজেরাই ছিল সেই মিথ্যা রটনাকারীদের অনুসারী, যারা প্রথম এই নিষেধাজ্ঞা চালু করেছিল। আর যা তারা করত, তাতেও তারা সোজা ও সঠিক পথে ছিল না। তারা ছিল গোমরাহি ও ভুলের মধ্যে। তাঁর পাঠে অজ্ঞতাটা তাই নির্দিষ্ট: এই প্রথা আর তার উৎস সম্পর্কে অজ্ঞতা।"
+          },
+          {
+            "en": "Ibn Kathir and the Muyassar read it more broadly, in almost the same words. The fathers did not understand the truth, did not know it, and were not guided to it. Both then ask the question the verse leaves hanging: how can they follow them in such a state? And both answer it: no one follows them except someone more ignorant than they were and further astray from the path. The verse names the fathers' ignorance; this reading turns to what following them says about the followers.",
+            "bn": "ইবন কাসীর ও মুয়াসসার পড়েন আরও বিস্তৃত অর্থে, প্রায় একই ভাষায়। বাপ-দাদারা সত্য বুঝত না, সত্য চিনত না, সত্যের পথও পেত না। এরপর দুজনেই সেই প্রশ্নটা তোলেন, যা আয়াত ঝুলিয়ে রেখেছে: এমন অবস্থায় তারা তাদের অনুসরণ করে কীভাবে? উত্তরও দুজনে একই দেন। তাদের অনুসরণ সে-ই করে, যে তাদের চেয়েও বেশি অজ্ঞ আর পথ থেকে আরও দূরে। আয়াত বাপ-দাদার অজ্ঞতার কথা বলেছে। এই ব্যাখ্যা দেখায়, তাদের অনুসরণ করা অনুসারীদের সম্পর্কে কী বলে।"
+          },
+          {
+            "en": "As-Sa'di adds a concession that sharpens the point. Had their fathers possessed sufficiency, knowledge and understanding, he says, the matter would have been lighter. But they had nothing of reason, nothing of knowledge and nothing of guidance. He closes with a warning that reaches beyond the first audience: ruin to whoever imitates someone with no sound knowledge and no weighty reason, and leaves following what Allah sent down and following His messengers, which fills hearts with knowledge and faith, guidance and certainty.",
+            "bn": "সা'দী একটা ছাড় দিয়ে কথাটা আরও ধারালো করেন। তিনি বলেন, বাপ-দাদার যদি যোগ্যতা, জ্ঞান আর বোধ থাকত, তবে ব্যাপারটা হালকা হতো। কিন্তু তাদের ছিল না বুদ্ধির কিছু, না জ্ঞানের কিছু, না হেদায়াতের কিছু। শেষে তিনি এমন এক সতর্কবাণী দেন, যা প্রথম শ্রোতাদের ছাড়িয়ে যায়। ধ্বংস তার জন্য, যে এমন কাউকে অন্ধভাবে মানে যার না আছে সঠিক জ্ঞান, না আছে ভারী বুদ্ধি। আর ছেড়ে দেয় আল্লাহর নাযিল করা বাণী ও তাঁর রসূলদের অনুসরণ, যা অন্তরকে ভরে দেয় জ্ঞান ও ঈমানে, হেদায়াত ও দৃঢ় বিশ্বাসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Behind the Fathers, One Man",
+          "bn": "বাপ-দাদার পেছনে একজন মানুষ"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read for this verse attaches a hadith to it. The nearest sound report concerns the verse before. Al-Bukhari (4623) records Sa'id ibn al-Musayyib's explanation of the four names, and within it Abu Hurayrah's report that the Messenger of Allah ﷺ said: \"I saw 'Amr ibn 'Amir al-Khuza'i dragging his intestines in the Fire; he was the first to set the sa'ibah animals loose.\" It is in al-Bukhari's Sahih, and it belongs to 5:103 rather than to this verse.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জোড়েনি। সবচেয়ে কাছের সহীহ বর্ণনাটি আগের আয়াতের সঙ্গে সম্পর্কিত। বুখারী (৪৬২৩) সাঈদ ইবনুল মুসাইয়িবের কাছ থেকে চারটি নামের ব্যাখ্যা এনেছেন। তার ভেতরেই আছে আবু হুরায়রা (রাঃ)-এর বর্ণনা, আল্লাহর রসূল ﷺ বলেছেন: \"আমি আমর ইবন আমির আল-খুযাঈকে দেখেছি, সে জাহান্নামে নিজের নাড়িভুঁড়ি টেনে বেড়াচ্ছে। সে-ই প্রথম সাইবাহ পশু ছেড়ে দেওয়ার প্রথা চালু করেছিল।\" বর্ণনাটি বুখারীর সহীহ গ্রন্থে আছে, তবে এটি ৫:১০৩ আয়াতের সঙ্গে যুক্ত, এ আয়াতের সঙ্গে নয়।"
+          },
+          {
+            "en": "Ibn Kathir identifies this 'Amr as the son of Luhayy, a chief of Khuza'ah, the tribe that had charge of the House after Jurhum, and says he was the first to change the religion of Ibrahim (AS) and bring idol worship to the Hijaz. Read beside at-Tabari's followers of the fabricators, the report shows how far back our fathers went: behind them stood one man's invention, handed down until it felt like inheritance. It concerns one man in one report and licenses no judgement against any living person, family or tribe.",
+            "bn": "ইবন কাসীর জানান, এই আমর হলো লুহাইয়ের ছেলে, খুযাআ গোত্রের এক সর্দার। জুরহুমের পরে কাবাঘরের দায়িত্ব ছিল এই গোত্রের হাতে। ইবন কাসীর বলেন, সে-ই প্রথম ইবরাহীম (আঃ)-এর দ্বীন বদলে দেয় এবং হিজাযে মূর্তিপূজা নিয়ে আসে। তাবারী যে 'মিথ্যা রটনাকারীদের অনুসারী'র কথা বলেছেন, তার পাশে বর্ণনাটি রাখলে বোঝা যায় 'আমাদের বাপ-দাদা' কত পেছনে গিয়ে ঠেকে। সবার পেছনে দাঁড়িয়ে ছিল এক মানুষের বানানো প্রথা, যা হাতবদল হতে হতে উত্তরাধিকারের মতো মনে হতে লাগল। কথাটা এক বর্ণনায় একজন মানুষকে নিয়ে। কোনো জীবিত ব্যক্তি, পরিবার বা গোত্রের বিরুদ্ধে রায় দেওয়ার অনুমতি এটি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Answer the Quran Repeats",
+          "bn": "যে জবাব কুরআনে বারবার আসে"
+        },
+        "p": [
+          {
+            "en": "The Quran records this answer more than once. 2:170 has nearly the same exchange, with follow in place of come, alfayna, which al-Qurtubi glosses as we found, and understood nothing in place of knew nothing. 31:21 ends instead: even if Satan was calling them to the punishment of the Blaze? In 43:22 and 43:23 they claim to be guided in their fathers' footsteps, and the affluent of every town said the same to its warner. 43:24 answers: even if I brought you better guidance than what you found your fathers upon?",
+            "bn": "এই জবাব কুরআনে একাধিকবার এসেছে। ২:১৭০ আয়াতে প্রায় একই কথোপকথন। সেখানে 'এসো'-র বদলে 'অনুসরণ করো', 'পেয়েছি' বোঝাতে 'আলফাইনা', যার অর্থ কুরতুবী করেন 'ওয়াজাদনা', আর 'কিছুই জানত না'-র জায়গায় 'কিছুই বুঝত না'। ৩১:২১ আয়াত শেষ হয় অন্যভাবে: শয়তান যদি তাদের জ্বলন্ত আগুনের শাস্তির দিকে ডাকে, তবুও? ৪৩:২২ ও ৪৩:২৩ আয়াতে তারা দাবি করে, বাপ-দাদার পদচিহ্ন ধরেই তারা সঠিক পথে আছে। প্রতিটি জনপদের সচ্ছল লোকেরা তাদের সতর্ককারীকে এ কথাই বলেছে। ৪৩:২৪ আয়াতের জবাব: বাপ-দাদাকে যার উপর পেয়েছ, আমি যদি তার চেয়ে ভালো পথনির্দেশ নিয়ে আসি, তবুও?"
+          },
+          {
+            "en": "Set against these is the believers' reply in 24:51: when they are called to Allah and His Messenger to judge between them, they say, we hear and we obey, and those are the successful. The call there is almost the call here; the difference lies in the answer. And 4:61, which opens with the same phrase, come to what Allah has revealed and to the Messenger, shows that turning from that call was not confined to one group. There it is the hypocrites who turn away in aversion.",
+            "bn": "এর বিপরীতে আছে ২৪:৫১ আয়াতে মুমিনদের জবাব। নিজেদের মধ্যে ফয়সালার জন্য যখন তাদের আল্লাহ ও তাঁর রসূলের দিকে ডাকা হয়, তারা বলে: আমরা শুনলাম ও মানলাম। আর তারাই সফলকাম। সেখানকার দাওয়াত প্রায় এখানকারই দাওয়াত, পার্থক্যটা শুধু জবাবে। আবার ৪:৬১ আয়াত শুরু হয় হুবহু একই কথায়: আল্লাহ যা নাযিল করেছেন তার দিকে আর রসূলের দিকে এসো। এ থেকে বোঝা যায়, এই দাওয়াত থেকে মুখ ফেরানো কোনো এক দলের মধ্যে সীমাবদ্ধ ছিল না। সেখানে বিরক্তিভরে মুখ ফিরিয়ে নেয় মুনাফিকরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Following Fathers Is Praised",
+          "bn": "বাপ-দাদার অনুসরণ যখন প্রশংসার"
+        },
+        "p": [
+          {
+            "en": "The verse does not condemn following one's fathers as such. In his discussion at 2:170, al-Qurtubi quotes Ibn Darbas pointing to Yusuf (AS), whom the Quran praises for saying: I have followed the religion of my fathers, Ibrahim, Ishaq and Ya'qub (12:38). Because those fathers were prophets who followed revelation, Ibn Darbas says, following them was a quality worthy of praise. The fault in 5:104 lies in the condition the verse itself names: fathers who knew nothing and were not guided, followed in place of what Allah sent down.",
+            "bn": "বাপ-দাদার অনুসরণকে আয়াতটি ঢালাওভাবে নিন্দা করে না। ২:১৭০ আয়াতের আলোচনায় কুরতুবী ইবন দারবাসের একটি কথা উদ্ধৃত করেন। তিনি ইউসুফ (আঃ)-এর দিকে ইঙ্গিত করেন, কুরআন যাঁর এই কথার প্রশংসা করেছে: আমি আমার বাপ-দাদা ইবরাহীম, ইসহাক ও ইয়াকূবের দ্বীন অনুসরণ করেছি (১২:৩৮)। ইবন দারবাস বলেন, সেই বাপ-দাদারা ছিলেন ওহির অনুসারী নবী, তাই তাঁদের অনুসরণ প্রশংসার গুণ হয়ে উঠেছে। ৫:১০৪ আয়াতের দোষটা সেই শর্তে, যা আয়াত নিজেই উল্লেখ করেছে। বাপ-দাদা কিছুই জানত না, সঠিক পথেও ছিল না, অথচ আল্লাহর নাযিল করা বাণী ছেড়ে তাদেরই অনুসরণ করা হচ্ছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws a principle from the same clause. It makes sense, it says, for those who do not know to follow those who do, the uninitiated the experienced, the ignorant the learned; what makes no sense is to leave the standards of knowledge, reason and guidance and follow forefathers without asking where they lead. It also warns against taking a crowd as the yardstick of right and wrong. Both commentaries go on to later questions about following scholars; those debates lie outside this verse, and this article leaves them there.",
+            "bn": "মাআরিফুল কুরআন একই বাক্য থেকে একটা মূলনীতি বের করে। যে জানে না, সে জানে এমন কাউকে অনুসরণ করবে, অনভিজ্ঞ অভিজ্ঞের আর অজ্ঞ আলেমের পেছনে চলবে, এটা যুক্তিসংগত। যুক্তিহীন হলো জ্ঞান, বুদ্ধি ও হেদায়াতের মাপকাঠি ছেড়ে বাপ-দাদার পেছনে হাঁটা, তারা কোথায় নিয়ে যাচ্ছে সে প্রশ্ন না করেই। বইটি আরও সতর্ক করে, ভিড়কে যেন সত্য-মিথ্যার মাপকাঠি বানানো না হয়। দুটি তাফসীরই এরপর আলেমদের অনুসরণ নিয়ে পরবর্তী যুগের প্রশ্নে চলে যায়। সেই বিতর্ক এ আয়াতের আওতার বাইরে, এই লেখাও তা সেখানেই রেখে দিচ্ছে।"
+          },
+          {
+            "en": "Two cautions belong here. In Luqman, the surah of 31:21, verse 31:15 says that parents who press their child to associate partners with Allah are not obeyed in that, yet are to be accompanied in this world with kindness. Declining a parent's error is not contempt for the parent. And the verse describes the answer of the people who set those camels loose to the call that reached them; it licenses nothing against any living person, community or family, and gives no one leave to mock another's ancestors.",
+            "bn": "এখানে দুটি সতর্কতা দরকার। সূরা লুকমান, যেখানে ৩১:২১ আয়াত আছে, তারই ৩১:১৫ আয়াত বলে: মা-বাবা যদি সন্তানকে আল্লাহর সঙ্গে শরীক করতে চাপ দেয়, সে ব্যাপারে তাদের কথা মানা যাবে না, তবু দুনিয়াতে তাদের সঙ্গে সদ্ভাবে থাকতে হবে। মা-বাবার ভুল না মানা মানে তাঁদের অসম্মান করা নয়। দ্বিতীয়ত, যারা ওই উটগুলো ছেড়ে দিত, তাদের কাছে দাওয়াত পৌঁছালে তারা কী জবাব দিয়েছিল, আয়াত কেবল সেটুকুই বর্ণনা করে। কোনো জীবিত ব্যক্তি, সম্প্রদায় বা পরিবারের বিরুদ্ধে এটি কোনো অনুমতি দেয় না। কারও পূর্বপুরুষকে বিদ্রূপ করার অধিকারও কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Sons Who Chose Differently",
+          "bn": "যে সন্তানেরা অন্য পথ বেছে নিল"
+        },
+        "p": [
+          {
+            "en": "The next verse, 5:105, turns to the believers: upon you is yourselves; whoever has gone astray will not harm you once you are guided. Al-Qurtubi, opening that verse, cites earlier scholars: its link to what precedes is a warning against the state just described, of one who relied in his religion on imitating his fathers and forebears. Among the readings he lists, Jabir ibn Zayd takes it as addressed to the believing sons of those who made the bahirah: hold firm in the religion, and your forebears' error will not harm you if you are guided.",
+            "bn": "পরের আয়াত, ৫:১০৫, মুমিনদের দিকে ফেরে: তোমাদের দায়িত্ব তোমাদের নিজেদের উপর। তোমরা হেদায়াত পেলে যে পথভ্রষ্ট হয়েছে সে তোমাদের ক্ষতি করতে পারবে না। কুরতুবী সেই আয়াতের শুরুতেই পূর্বের আলেমদের কথা আনেন: আগের কথার সঙ্গে এর যোগসূত্র হলো একটা সতর্কবার্তা। সতর্ক করা হচ্ছে সেই অবস্থা থেকে, যা এইমাত্র বর্ণিত হলো: দ্বীনের ব্যাপারে বাপ-দাদা ও পূর্বসূরিদের অন্ধ অনুকরণে ভর করা। তিনি যে কয়েকটি ব্যাখ্যা উল্লেখ করেন, তার একটি জাবির ইবন যায়দের। তাঁর মতে আয়াতে সম্বোধন করা হয়েছে বাহীরাহ চালুকারীদের মুমিন সন্তানদের: দ্বীনের উপর অটল থাকো, তোমরা হেদায়াত পেলে পূর্বপুরুষদের গোমরাহি তোমাদের ক্ষতি করবে না।"
+          },
+          {
+            "en": "Al-Qurtubi relays from Jabir that a man who accepted Islam was taunted for having called his fathers foolish, and Ma'arif al-Qur'an relays a similar report through al-Durr al-Manthur from Ibn Abi Hatim. Neither is established as an occasion of revelation, so nothing here rests on it. The close of 5:105, to Allah is your return all together and He will inform you of what you used to do, is near in wording to the close of 31:15. Each person is told what he himself did.",
+            "bn": "কুরতুবী জাবিরের সূত্রে জানান, কেউ ইসলাম গ্রহণ করলে কাফিররা তাকে খোঁটা দিত যে সে নিজের বাপ-দাদাকে নির্বোধ বানিয়েছে। মাআরিফুল কুরআনও আদ-দুররুল মানসূরের মাধ্যমে ইবন আবী হাতিম থেকে এ রকম একটি বর্ণনা আনে। কোনোটিই নাযিলের প্রেক্ষাপট হিসেবে প্রতিষ্ঠিত নয়, তাই এখানে কোনো কথা এর উপর দাঁড় করানো হয়নি। ৫:১০৫ আয়াতের শেষ কথা, তোমাদের সবার ফেরা আল্লাহরই কাছে, তখন তিনি জানিয়ে দেবেন তোমরা কী করতে, ৩১:১৫ আয়াতের শেষ কথার খুব কাছাকাছি। প্রত্যেককে জানানো হবে সে নিজে কী করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What I Received Without Asking",
+          "bn": "প্রশ্ন না করেই যা পেয়েছি"
+        },
+        "p": [
+          {
+            "en": "Each of us found our fathers upon something. Much of it is a gift: the prayer learned beside a parent, the Quran heard long before it was understood, the sense that some things are simply not done. The verse does not ask anyone to throw that away. It asks where each thing came from. Their word was hasbuna, enough, and that is the word to watch for: once a practice is defended by its age or by the people who kept it rather than by its source, the inquiry has stopped.",
+            "bn": "আমরা সবাই বাপ-দাদাকে কোনো না কোনো কিছুর উপর পেয়েছি। তার অনেকটাই নিয়ামত। মা-বাবার পাশে দাঁড়িয়ে শেখা নামায, বোঝার বহু আগে কানে আসা কুরআন, কিছু কাজ যে করা চলে না সেই বোধ। আয়াত এসব ফেলে দিতে বলে না। আয়াত জানতে চায়, প্রতিটি জিনিস এসেছে কোথা থেকে। তাদের মুখের কথা ছিল 'হাসবুনা', যথেষ্ট। এই শব্দটার দিকেই নজর রাখা দরকার। কোনো আমলের পক্ষে যখন উৎসের বদলে তার বয়স বা তার ধারকদের দোহাই দেওয়া হয়, তখন বুঝতে হবে খোঁজ থেমে গেছে।"
+          },
+          {
+            "en": "The test the verse offers is simple to state and slow to apply. Bring the inherited thing to what Allah sent down and to His Messenger. What stands, keep with gratitude, knowing that it is now chosen and not merely received. What does not stand, set down gently, without contempt for those who handed it on. Then ask what your own children will find their parents upon, and whether it would pass the question this verse puts: even if they knew nothing, and were not guided?",
+            "bn": "আয়াতের দেওয়া পরীক্ষাটা বলা সহজ, কিন্তু কাজে খাটাতে সময় লাগে। উত্তরাধিকারে পাওয়া জিনিসটাকে আল্লাহর নাযিল করা বাণী আর তাঁর রসূলের সামনে নিয়ে যান। যা টিকে যায়, শুকরিয়ার সঙ্গে রেখে দিন। মনে রাখুন, এখন তা শুধু হাতে পাওয়া জিনিস নয়, আপনার বেছে নেওয়া জিনিস। যা টেকে না, তা আলতো করে নামিয়ে রাখুন, যাঁরা হাতে তুলে দিয়েছিলেন তাঁদের প্রতি কোনো তাচ্ছিল্য ছাড়াই। তারপর ভাবুন, আপনার সন্তানেরা তাদের মা-বাবাকে কিসের উপর পাবে। এ আয়াতের প্রশ্নের সামনে তা কি টিকবে: তারা যদি কিছুই না জানত, সঠিক পথেও না থাকত, তবুও?"
+          }
+        ]
+      }
+    ]
+  },
   "5:106": {
     "sections": [
       {

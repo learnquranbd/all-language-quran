@@ -31063,6 +31063,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hearing the truth changes nothing unless you let it in: leave every reminder carrying more than you brought, and leave hidden hearts to Allah.",
     "lessonBn": "সত্য শুনলেই কিছু বদলায় না, যতক্ষণ না তাকে ভেতরে ঢুকতে দেন। প্রতিটি নসিহত থেকে যা নিয়ে এসেছিলেন তার চেয়ে বেশি নিয়ে ফিরুন, আর মানুষের গোপন অন্তরের বিচার আল্লাহর হাতে ছেড়ে দিন।"
+  },
+  "5:104": {
+    "reflectionEn": "Called to what Allah sent down and to His Messenger, they answer with one word: enough. What we found our fathers doing is enough for us. The verse does not quarrel with love for parents or with a family's ways. It asks one question: even if those fathers knew nothing and were not guided? A custom is not made true by being old, and it is not made false by being inherited. What matters is where it came from. Every family hands down habits, sayings, fears and certainties, and most are never examined because they feel like home. This verse asks me to hold each of them up to revelation, keep what stands, and set down what stood only because nobody asked.",
+    "reflectionBn": "আল্লাহ যা নাযিল করেছেন তার দিকে আর রসূলের দিকে ডাকা হলে তারা এক কথায় জবাব দেয়: যথেষ্ট। বাপ-দাদাকে যার উপর পেয়েছি, আমাদের জন্য সেটাই যথেষ্ট। মা-বাবার প্রতি ভালোবাসা বা পরিবারের রীতিনীতি নিয়ে আয়াতের কোনো আপত্তি নেই। আয়াত শুধু একটা প্রশ্ন রাখে: সেই বাপ-দাদারা যদি কিছুই না জানত, সঠিক পথে না থাকত, তবুও? পুরোনো বলেই কোনো রীতি সত্য হয়ে যায় না, আবার উত্তরাধিকারে পাওয়া বলেই মিথ্যাও হয় না। আসল কথা, সেটা এসেছে কোথা থেকে। প্রতিটি পরিবার অভ্যাস, কথা, ভয় আর বিশ্বাস পরের প্রজন্মের হাতে তুলে দেয়। এর বেশির ভাগ কেউ কখনো যাচাই করে না, কারণ এগুলোকে ঘরের জিনিস বলে মনে হয়। এ আয়াত চায়, আমি প্রতিটিকে ওহির সামনে দাঁড় করাই। যা টেকে, তা রেখে দিই। আর যা কেবল এ কারণে টিকে ছিল যে কেউ প্রশ্ন করেনি, তা নামিয়ে রাখি।",
+    "pointsEn": [
+      "Which of my religious habits did I take on only because I found my family doing it, and have I ever checked it against what Allah sent down?",
+      "When someone shows me a verse or a sound hadith against a custom I hold, is my first reply 'that is enough for us' or 'show me'?",
+      "Whose knowledge am I leaning on when I follow, and do I actually know that they know?",
+      "How do I stay kind and dutiful to my parents while declining something of theirs that revelation does not support?",
+      "What will my children find me upon, and would it survive the question this verse asks?"
+    ],
+    "pointsBn": [
+      "আমার কোন কোন দ্বীনি অভ্যাস কেবল এ কারণে গড়ে উঠেছে যে পরিবারকে তা করতে দেখেছি? আল্লাহ যা নাযিল করেছেন, তার সঙ্গে কখনো মিলিয়ে দেখেছি কি?",
+      "আমার কোনো রীতির বিপক্ষে কেউ আয়াত বা সহীহ হাদীস দেখালে আমার প্রথম জবাব কী হয়: 'আমাদের এটুকুই যথেষ্ট', নাকি 'দেখান তো'?",
+      "যার কথা মেনে চলি, তার জ্ঞানের উপর আমি ভর দিচ্ছি। সে যে সত্যিই জানে, সেটা কি আমি জানি?",
+      "মা-বাবার যে কাজকে ওহি সমর্থন করে না, তা না মেনেও তাঁদের প্রতি সদাচরণ আর দায়িত্ব কীভাবে বজায় রাখব?",
+      "আমার সন্তানেরা আমাকে কিসের উপর পাবে? এ আয়াতের প্রশ্নের সামনে তা কি টিকবে?"
+    ],
+    "lessonEn": "A custom is not proved true by its age or by the family that kept it; bring it to what Allah sent down and to His Messenger, and follow those who know.",
+    "lessonBn": "কোনো রীতি পুরোনো বলে বা পরিবারে চলে আসছে বলে সত্য প্রমাণিত হয় না। তাকে আল্লাহর নাযিল করা বাণী ও তাঁর রসূলের সামনে নিয়ে যান, আর অনুসরণ করুন তাদের, যারা জানে।"
   }
 };
 
