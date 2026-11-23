@@ -2515,6 +2515,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "5:48": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Torah and the Gospel",
+          "bn": "তাওরাত ও ইনজিলের পরে"
+        },
+        "p": [
+          {
+            "en": "Wa-anzalna ilayka al-kitaba bi-l-haqq: and We sent down to you the Book with the truth. Ibn Kathir sets the verse in its run. Allah mentioned the Torah He sent down to Musa (AS) and praised it, then the Gospel, telling its people to follow what is in it, and then turned to the Qur'an. At-Tabari says the address is to the Prophet ﷺ, and reads bi-l-haqq as truthfully: there is no lie in it, and no doubt that it is from Allah.",
+            "bn": "ওয়া আনযালনা ইলাইকাল কিতাবা বিল হাক্ক: আর আমি তোমার প্রতি কিতাব নাযিল করেছি সত্যসহ। ইবন কাসীর আয়াতটিকে তার ধারাবাহিকতার মধ্যে রেখে দেখান। আল্লাহ প্রথমে মূসা (আঃ)-এর উপর নাযিল করা তাওরাতের কথা বলেছেন, তার প্রশংসা করেছেন। তারপর ইনজিলের কথা বলেছেন, তার অনুসারীদের বলেছেন এর বিধান মানতে। এরপর শুরু করেছেন কুরআনের কথা। তাবারী বলেন, এখানে সম্বোধন নবী ﷺ-কে। বিল হাক্ক মানে সত্যতার সাথে: এতে কোনো মিথ্যা নেই, আর এটি যে আল্লাহর কাছ থেকে এসেছে তাতে কোনো সন্দেহ নেই।"
+          },
+          {
+            "en": "As-Sa'di reads the phrase two ways: sent down in truth, and carrying the truth in its reports, commands and prohibitions. Then musaddiqan li-ma bayna yadayhi min al-kitab: confirming the scripture before it. Ibn Kathir explains from the side of the earlier books: they foretold the Qur'an's coming to Allah's servant and Messenger, and when it came as they said, they gained in truth for those who carried them with insight. As-Sa'di agrees: its very existence proved their report.",
+            "bn": "সা'দী বাক্যাংশটি একসাথে দুইভাবে পড়েন: সত্যসহ নাযিল হয়েছে, আবার এর খবর, আদেশ ও নিষেধের ভেতরেও সত্যই রয়েছে। তারপর মুসাদ্দিকাল লিমা বাইনা ইয়াদাইহি মিনাল কিতাব: আগের কিতাবের সত্যায়নকারী। ইবন কাসীর সত্যায়নের ব্যাখ্যা দেন আগের কিতাবগুলোর দিক থেকে। সেসব কিতাব আগেই খবর দিয়েছিল যে আল্লাহ তাঁর বান্দা ও রাসূলের উপর কুরআন নাযিল করবেন। কথামতো যখন তা এলো, তখন অন্তর্দৃষ্টি নিয়ে যারা সে কিতাব বহন করত, তাদের কাছে সেগুলোর সত্যতা আরও বেড়ে গেল। সা'দীও একমত: এর অস্তিত্বই সেই খবরের প্রমাণ হয়ে দাঁড়াল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Witness, Trustee, Judge, Guard",
+          "bn": "সাক্ষী, আমানতদার, বিচারক, পাহারাদার"
+        },
+        "p": [
+          {
+            "en": "Then the key word: wa-muhayminan 'alayh, and a muhaymin over it. At-Tabari gives its root sense as guarding and watching: of a man who watches over a thing, guards it and is present to it, the Arabs say he has haymana over it. The early readings, he notes, agree in substance and differ in wording. From Ibn Abbas (RA), through Ali ibn Abi Talha: a witness; as-Suddi says the same. Qatada joins two words: a trustee and a witness.",
+            "bn": "এরপর মূল শব্দটি: ওয়া মুহাইমিনান আলাইহি, আর তার উপর মুহাইমিন। তাবারী এর মূল অর্থ বলেন হেফাজত ও নজরদারি। কেউ কোনো জিনিসের উপর নজর রাখলে, তা রক্ষা করলে ও তার পাশে হাজির থাকলে আরবরা বলে, সে তার উপর হাইমানা করেছে। তিনি জানান, পূর্বসূরিদের ব্যাখ্যা ভাবের দিক থেকে এক, শব্দে আলাদা। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেন: সাক্ষী। সুদ্দীও একই কথা বলেন। কাতাদা দুটি শব্দ একসাথে আনেন: আমানতদার ও সাক্ষী।"
+          },
+          {
+            "en": "Through a narrator from the tribe of Tamim, Ibn Abbas (RA) is reported again and again with one word, mu'taman: entrusted over it. Sa'id ibn Jubayr says entrusted over the books before it, and al-Hasan, in al-Baghawi's list, says simply a trustee. Ibn Zayd takes it as confirmer: whatever Allah sent down of Torah, Gospel or Psalms, the Qur'an confirms it. And through al-Awfi, Ibn Abbas (RA) adds the sense of a judge: a trustee that rules on the books before it.",
+            "bn": "তামীম গোত্রের এক বর্ণনাকারীর সূত্রে ইবন আব্বাস (রাঃ) থেকে বারবার একটিই শব্দ আসে: মু'তামান, অর্থাৎ যার উপর আমানত সোপর্দ। সাঈদ ইবন জুবাইর বলেন, আগের কিতাবগুলোর উপর আমানতদার। বাগাভীর তালিকায় হাসানের কথা আরও ছোট: আমানতদার। ইবন যায়দ এর অর্থ ধরেন সত্যায়নকারী: তাওরাত, ইনজিল বা যাবূর, আল্লাহ যা-ই নাযিল করেছেন, কুরআন তার সত্যতা স্বীকার করে। আর আওফীর সূত্রে ইবন আব্বাস (রাঃ) বিচারকের অর্থও যোগ করেন: এমন আমানতদার, যে আগের কিতাবগুলোর উপর রায় দেয়।"
+          },
+          {
+            "en": "Al-Baghawi adds Ikrima: a guide; Sa'id ibn al-Musayyib and ad-Dahhak: a judge; al-Khalil: a watcher and a guard. Al-Qurtubi adds high above it, and records al-Mubarrad and az-Zajjaj deriving the word from mu'aymin, from amin, its hamza turned into a ha. Ibn Kathir sums up: these sayings are close in meaning, since the name muhaymin holds them all. The Qur'an is trustee, witness and judge over every book before it.",
+            "bn": "বাগাভী আরও যোগ করেন। ইকরিমার মতে পথনির্দেশক। সাঈদ ইবনুল মুসাইয়িব ও যাহহাকের মতে বিচারক। খলীলের মতে পর্যবেক্ষক ও রক্ষক। কুরতুবী আরেকটি অর্থ দেন: তার উপরে, তার চেয়ে উঁচুতে। তিনি মুবাররাদ ও যাজ্জাজের কথাও আনেন যে শব্দটি মূলে ছিল মুআইমিন, আমীন থেকে, পরে হামযা বদলে হা হয়েছে। ইবন কাসীর সারকথা বলেন: এসব কথার অর্থ কাছাকাছি, কারণ মুহাইমিন নামের ভেতরে সবগুলোই আছে। কুরআন আগের প্রতিটি কিতাবের উপর আমানতদার, সাক্ষী ও বিচারক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weighing What Came Before",
+          "bn": "আগের কিতাব মাপার মানদণ্ড"
+        },
+        "p": [
+          {
+            "en": "What does a trustee do with its charge? Ibn Jurayj, quoted by at-Tabari and al-Baghawi, gives a working rule: when the People of the Book tell us something from their book, if it is in the Qur'an, believe it; if not, reject it. In Ibn Kathir's wording: what agrees with the Qur'an is true, and what differs from it is false. As-Sa'di: what the Qur'an testifies to is accepted, and what it rejects was altered, for had it been from Allah it would not contradict it.",
+            "bn": "আমানতদার তার কাছে রাখা জিনিস নিয়ে কী করে? তাবারী ও বাগাভী ইবন জুরাইজের একটি কাজের নিয়ম উদ্ধৃত করেন। আহলে কিতাব তাদের কিতাব থেকে আমাদের কিছু জানালে, তা কুরআনে থাকলে সত্য বলে মেনে নাও, না থাকলে প্রত্যাখ্যান করো। ইবন কাসীর তাঁর কথাটা আনেন এভাবে: যা কুরআনের সাথে মেলে তা সত্য, যা এর বিপরীত তা বাতিল। সা'দীর কথায়, কুরআন যার পক্ষে সাক্ষ্য দেয় তা গ্রহণযোগ্য। যা সে ফিরিয়ে দেয়, তাতে বিকৃতি ঢুকেছে, কারণ তা আল্লাহর কাছ থেকে হলে কুরআনের বিরোধী হতো না।"
+          },
+          {
+            "en": "The Muyassar lists the roles: confirming what is sound in the earlier books, exposing what was altered in them, and abrogating some of their laws. Ibn Kathir gives the reason for the rank: it is the last of the books and their seal, gathering their merits and adding more, and Allah took its preservation upon Himself (15:9). Ma'arif al-Qur'an calls it the custodian through which the true teachings of the Torah and the Gospel survive.",
+            "bn": "মুয়াসসার ভূমিকাগুলো পাশাপাশি রাখে। আগের কিতাবে যা সঠিক, কুরআন তা সত্যায়ন করে। যা বিকৃত হয়েছে, তা স্পষ্ট করে দেয়। আর সেগুলোর কিছু বিধান রহিত করে। এ কিতাব কেন এই মর্যাদায়, ইবন কাসীর তার কারণ বলেন। এটি কিতাবগুলোর মধ্যে সর্বশেষ, সবগুলোর সমাপ্তি। আগের কিতাবের সব সৌন্দর্য এতে জমা হয়েছে, সাথে আরও বেশি কিছু। এর হেফাজতের দায়িত্বও আল্লাহ নিজে নিয়েছেন (১৫:৯)। মাআরিফুল কুরআন একে বলে রক্ষক, যার মাধ্যমে তাওরাত ও ইনজিলের আসল শিক্ষা আজও টিকে আছে।"
+          },
+          {
+            "en": "One early reading takes the word elsewhere. Mujahid, through Ibn Abi Najih: Muhammad ﷺ is entrusted over the Qur'an. Al-Qurtubi records that Mujahid and Ibn Muhaysin read the word with a fatha on the mim. At-Tabari calls this far from Arab usage, indeed an error: muhaymin is joined by 'and' to musaddiq, so it describes the same Book; and bayna yadayhi means before it, not before you. Ibn Kathir is gentler: sound in meaning, but questionable as this verse's explanation and in its Arabic.",
+            "bn": "পূর্বসূরিদের একটি ব্যাখ্যা শব্দটিকে অন্য দিকে নেয়। ইবন আবী নাজীহের সূত্রে মুজাহিদ বলেন: মুহাম্মাদ ﷺ কুরআনের আমানতদার। কুরতুবী জানান, মুজাহিদ ও ইবন মুহাইসিন শব্দটি মীমে যবর দিয়ে পড়েছেন। তাবারী একে আরবদের ভাষারীতি থেকে দূরের, এমনকি ভুল বলেছেন। মুহাইমিন শব্দটি 'ওয়া' দিয়ে মুসাদ্দিকের সাথে জুড়েছে, তাই দুটোই একই কিতাবের গুণ। আবার বাইনা ইয়াদাইহি মানে তার সামনে, তোমার সামনে নয়। ইবন কাসীর নরম সুরে বলেন: অর্থের দিক থেকে কথাটি ঠিক, তবে এ আয়াতের ব্যাখ্যা হিসেবে আর আরবি ব্যাকরণের দিক থেকে প্রশ্নসাপেক্ষ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Judge, or Turn Away?",
+          "bn": "বিচার করবেন, নাকি এড়িয়ে যাবেন"
+        },
+        "p": [
+          {
+            "en": "Fa-hkum baynahum bi-ma anzala Allah: so judge between them by what Allah sent down. Earlier, 5:42 said of those who came for a verdict: judge between them or turn away from them. Does this verse close that choice? Al-Qurtubi sets out three views without choosing: that it abrogates the choice; that it is no obligation, meaning judge between them if you wish; and that it means judging between all people, which was obligatory upon him.",
+            "bn": "ফাহকুম বাইনাহুম বিমা আনযালাল্লাহ: সুতরাং আল্লাহ যা নাযিল করেছেন সে অনুযায়ী তাদের মধ্যে ফায়সালা করো। এর আগে ৫:৪২ আয়াতে যারা রায় চাইতে আসত তাদের সম্পর্কে বলা হয়েছিল: তাদের মধ্যে ফায়সালা করো, অথবা তাদের এড়িয়ে যাও। এ আয়াত কি সেই সুযোগ বন্ধ করে দিল? কুরতুবী তিনটি মত তুলে ধরেন, নিজে কোনোটি বেছে নেন না। একটি মত, এ আয়াত ওই সুযোগকে রহিত করেছে। আরেকটি মত, এখানে বাধ্যবাধকতা নেই, অর্থ হলো চাইলে ফায়সালা করো। তৃতীয় মত, এখানে উদ্দেশ্য সব মানুষের মধ্যে ফায়সালা, যা তাঁর উপর আবশ্যক ছিল।"
+          },
+          {
+            "en": "Al-Qurtubi's reason for the second: Muslims need not judge between them unless they live under a covenant of protection, and for those who do, he notes hesitation. For the first, Ibn Kathir relays from Ibn Abi Hatim's collection, without grading it, a report from Ibn Abbas (RA): the Prophet ﷺ had the choice to judge or to send them back to their own rulings, until and judge between them by what Allah sent down (5:49) came, and he was commanded to judge by what is in our Book.",
+            "bn": "দ্বিতীয় মতের কারণও কুরতুবী বলেন: তারা মুসলিমদের নিরাপত্তা-চুক্তির অধীনে না থাকলে তাদের মধ্যে ফায়সালা করা আমাদের উপর আবশ্যক নয়। আর যারা চুক্তির অধীনে, তাদের বেলায় দ্বিধার কথা তিনি উল্লেখ করেন। প্রথম মতের পক্ষে ইবন কাসীর ইবন আবী হাতিমের সংকলন থেকে ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন, তবে এর মান নিয়ে কিছু বলেন না। বর্ণনাটি এই: নবী ﷺ-এর এখতিয়ার ছিল, চাইলে ফায়সালা করতেন, চাইলে তাদের নিজেদের বিধানের কাছে ফেরত পাঠাতেন। তারপর নাযিল হলো, আল্লাহ যা নাযিল করেছেন সে অনুযায়ী তাদের মধ্যে ফায়সালা করো (৫:৪৯)। তখন তাঁকে হুকুম দেওয়া হলো আমাদের কিতাবে যা আছে সে অনুযায়ী ফায়সালা করতে।"
+          },
+          {
+            "en": "So the two sides stand as the sources give them: abrogation, in the report from Ibn Abbas (RA) and al-Qurtubi's first view; a choice that remains, in his second. On what the ruling covers, at-Tabari is concrete: prescribed penalties, wounds, retaliation and lives, the matters of 5:45. Ibn Abbas (RA), in at-Tabari's narration, says: by the hudud of Allah. Ibn Kathir widens it to all people, Arab and non-Arab, unlettered and scriptured.",
+            "bn": "সূত্রগুলো যেভাবে দিয়েছে, দুই পক্ষ সেভাবেই থাকল। একদিকে রহিত হওয়ার মত: ইবন আব্বাস (রাঃ)-এর বর্ণনায় আর কুরতুবীর প্রথম মতে। অন্যদিকে এখতিয়ার বহাল থাকার মত: কুরতুবীর দ্বিতীয় মতে। ফায়সালা কোন কোন বিষয়ে, তাবারী তা নির্দিষ্ট করে বলেন: হদ, জখম, কিসাস আর প্রাণের বদলে প্রাণ, অর্থাৎ ৫:৪৫ আয়াতের বিষয়গুলো। তাবারীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন: আল্লাহর হুদূদ অনুযায়ী। ইবন কাসীর পরিসর আরও বাড়িয়ে দেন: আরব-অনারব, নিরক্ষর আর কিতাবধারী, সব মানুষের মধ্যে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Bent by Their Wishes",
+          "bn": "তাদের খেয়ালে বাঁকা নয়"
+        },
+        "p": [
+          {
+            "en": "Wa-la tattabi' ahwa'ahum 'amma ja'aka min al-haqq: and do not follow their wishes away from the truth that has come to you. Al-Qurtubi: do not act on their wishes and leave the rulings the Qur'an makes clear. As-Sa'di frames it as a bad trade: their corrupt wishes taken in place of the truth, the lower for the better. Ibn Kathir defines the wishes as opinions they agreed among themselves, for whose sake they left what Allah sent down.",
+            "bn": "ওয়া লা তাত্তাবি' আহওয়াআহুম আম্মা জাআকা মিনাল হাক্ক: তোমার কাছে যে সত্য এসেছে তা ছেড়ে তাদের খেয়ালখুশির অনুসরণ করো না। কুরতুবী এর অর্থ বলেন: তাদের খেয়াল অনুযায়ী কাজ করো না, আর কুরআন যে বিধান স্পষ্ট করেছে তা ছেড়ে দিয়ো না। সা'দী একে দেখান লোকসানের বিনিময় হিসেবে: সত্যের জায়গায় তাদের বিকৃত খেয়াল বসানো মানে উত্তম দিয়ে নিকৃষ্ট কেনা। ইবন কাসীর বলেন, এ খেয়াল হলো তাদের নিজেদের মধ্যে ঠিক করা মতামত, যার খাতিরে তারা আল্লাহর নাযিল করা বিধান ছেড়ে দিয়েছিল।"
+          },
+          {
+            "en": "At-Tabari names the wishes, pointing to those of 5:41 who said: if you are given flogging for the married adulterer instead of stoning, take it; if not, beware. Ibn Kathir, on the next verse, relays through Ibn Ishaq a report of rabbis offering to believe if he ruled for them; Ma'arif al-Qur'an tells it without a chain. It is not graded, so nothing here rests on it. The verse describes particular people in Madinah seeking a convenient verdict, and licenses nothing against any person or community today.",
+            "bn": "তাবারী খেয়ালগুলো চিনিয়ে দেন। তিনি ৫:৪১ আয়াতের সেই লোকদের দিকে ইঙ্গিত করেন, যারা বলত: বিবাহিত ব্যভিচারীর জন্য রজমের বদলে বেত্রাঘাতের রায় পেলে তা নিয়ো, না পেলে সাবধান থেকো। পরের আয়াতের আলোচনায় ইবন কাসীর ইবন ইসহাকের সূত্রে একটি বর্ণনা আনেন। তাতে আছে কয়েকজন ইহুদি আলিমের কথা, যারা বলেছিল, রায় তাদের পক্ষে গেলে ঈমান আনবে। মাআরিফুল কুরআন ঘটনাটি সনদ ছাড়া বলে। বর্ণনাটির কোনো মান উল্লেখ করা হয়নি, তাই এখানে এর উপর কিছু দাঁড় করানো হয়নি। আয়াতটি মদীনার নির্দিষ্ট কিছু মানুষের কথা বলে, যারা সুবিধামতো রায় খুঁজছিল। আজকের কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Watering Place and a Road",
+          "bn": "পানির ঘাট আর খোলা রাস্তা"
+        },
+        "p": [
+          {
+            "en": "Li-kullin ja'alna minkum shir'atan wa-minhaja: for each of you We made a law and a way. At-Tabari explains both. Shir'a is shari'a: anything one enters upon, which is why the place where people go down to the water is called a shari'a. Minhaj is a clear, plain road. So: for each people We made a road to the truth that they head for, and a clear path they act on. Ibn Abbas (RA), through several chains, glosses the pair as practice and path.",
+            "bn": "লিকুল্লিন জাআলনা মিনকুম শির'আতাও ওয়া মিনহাজা: তোমাদের প্রত্যেকের জন্য আমি একটি শরীয়ত ও একটি পথ নির্ধারণ করেছি। তাবারী দুটি শব্দই খুলে বলেন। শির'আ আর শরীয়ত একই জিনিস: মানুষ যাতে প্রবেশ করে, সেটাই শরীয়ত। এ কারণেই যে ঘাট দিয়ে লোকে পানিতে নামে, তাকেও শরীয়ত বলা হয়। মিনহাজ পরিষ্কার, সমতল রাস্তা। তাই অর্থ দাঁড়ায়: তোমাদের প্রত্যেক জাতির জন্য সত্যে পৌঁছানোর একটি রাস্তা বানিয়েছি, যার দিকে তারা এগোবে, আর একটি স্পষ্ট পথ, যার উপর তারা আমল করবে। একাধিক সূত্রে ইবন আব্বাস (রাঃ) জোড়াটির অর্থ বলেন সুন্নাহ ও পথ।"
+          },
+          {
+            "en": "Who is addressed? Qatada, in at-Tabari, says the nations: the Torah has a law, the Gospel a law, the Qur'an a law, in which Allah permits and forbids as He wills, to know who obeys Him; but the one religion He accepts is tawhid and sincerity, which all the messengers brought. Mujahid says it is this Ummah, for whom the Qur'an is law and way. At-Tabari and Ibn Kathir prefer the first: had Allah willed He would have made you one community, and this Ummah already is one.",
+            "bn": "কাকে সম্বোধন করা হচ্ছে? তাবারীর বর্ণনায় কাতাদা বলেন, বিভিন্ন জাতিকে। তাওরাতের এক শরীয়ত, ইনজিলের এক শরীয়ত, কুরআনের এক শরীয়ত। এগুলোতে আল্লাহ যা চান হালাল করেন, যা চান হারাম করেন, যাতে জানা যায় কে তাঁর আনুগত্য করে। তবে যে একমাত্র দ্বীন তিনি কবুল করেন, তা তাওহীদ আর ইখলাস, যা নিয়ে সব রাসূল এসেছেন। মুজাহিদ বলেন, সম্বোধন এই উম্মতকে, যাদের শরীয়ত ও পথ কুরআন। তাবারী ও ইবন কাসীর দুজনেই প্রথম মত পছন্দ করেন। আয়াতে আছে, আল্লাহ চাইলে তোমাদের এক উম্মত বানাতেন। অথচ এই উম্মত তো আগে থেকেই এক।"
+          },
+          {
+            "en": "Ibn Kathir supports this with a hadith in Sahih al-Bukhari (3443), from Abu Hurayra (RA): the Messenger of Allah ﷺ said, 'I am the closest of people to Isa ibn Maryam in this world and the Hereafter. The prophets are brothers of one father: their mothers are different, and their religion is one.' The one religion, Ibn Kathir says, is tawhid. As-Sa'di adds that the differing laws change with times and conditions, each just in its time, while the great principles stay the same in every law.",
+            "bn": "এর পক্ষে ইবন কাসীর সহীহ বুখারীর (৩৪৪৩) একটি হাদীস আনেন। আবু হুরাইরা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: 'দুনিয়া ও আখিরাতে মারইয়ামের পুত্র ঈসার সবচেয়ে কাছের মানুষ আমি। নবীরা এক পিতার সন্তান ভাইয়ের মতো: তাঁদের মা ভিন্ন ভিন্ন, আর তাঁদের দ্বীন এক।' ইবন কাসীর বলেন, এই এক দ্বীন হলো তাওহীদ। সা'দী যোগ করেন, শরীয়তের ভিন্ন ভিন্ন বিধান সময় ও অবস্থা বদলের সাথে বদলায়। প্রতিটিই তার নিজের সময়ে ন্যায়ের উপর ছিল। আর বড় বড় মূলনীতি সব শরীয়তে একই থাকে।"
+          },
+          {
+            "en": "Does an earlier law still bind where the Qur'an is silent? Al-Qurtubi says this phrase shows there is no attachment to the laws of earlier peoples. Ma'arif al-Qur'an reports that most scholars hold an earlier law the Qur'an has not abrogated to remain valid, citing the retaliation of 5:45 applied in Islam. Ibn Kathir, after at-Tabari, has the Prophet ﷺ judge by this Book and by whatever of the earlier prophets' rulings Allah kept for him and did not abrogate.",
+            "bn": "কুরআন যেখানে নীরব, সেখানে আগের শরীয়তের বিধান কি এখনও বাধ্যতামূলক? কুরতুবী বলেন, এ বাক্যাংশ দেখায় যে আগের জাতিগুলোর শরীয়তের সাথে আমাদের কোনো বাঁধন নেই। মাআরিফুল কুরআন জানায়, অধিকাংশ আলিমের মতে আগের শরীয়তের যে বিধান কুরআন রহিত করেনি, তা বহাল থাকে। উদাহরণ হিসেবে সে ৫:৪৫ আয়াতের কিসাসের কথা বলে, যা ইসলামেও কার্যকর হয়েছে। ইবন কাসীর তাবারীর ব্যাখ্যা অনুসরণ করে বলেন, নবী ﷺ ফায়সালা করবেন এই কিতাব দিয়ে, আর আগের নবীদের যে বিধান আল্লাহ তাঁর জন্য বহাল রেখেছেন ও রহিত করেননি, তা দিয়েও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tested in What He Gave",
+          "bn": "যা দিয়েছেন তাতেই পরীক্ষা"
+        },
+        "p": [
+          {
+            "en": "Wa-law sha'a Allahu la-ja'alakum ummatan wahida: had Allah willed, He would have made you a single community. At-Tabari: had your Lord willed, He would have made your laws alike; but He made them differ to test you, so that the obedient among you are known from the disobedient. Al-Baghawi takes what He has given you as the books He gave and the laws He made clear. Ibn Kathir says the recompense covers both what people did and what they resolved to do.",
+            "bn": "ওয়া লাও শাআল্লাহু লাজাআলাকুম উম্মাতাও ওয়াহিদাহ: আল্লাহ চাইলে তোমাদের একই উম্মত বানাতেন। তাবারীর ব্যাখ্যা: তোমাদের রব চাইলে সবার শরীয়ত অভিন্ন করে দিতেন। কিন্তু তিনি শরীয়তগুলোকে আলাদা করেছেন তোমাদের পরীক্ষা করার জন্য, যাতে তোমাদের মধ্যে কে অনুগত আর কে নাফরমান তা আলাদা হয়ে যায়। বাগাভী বলেন, তিনি তোমাদের যা দিয়েছেন, মানে যে কিতাব দিয়েছেন আর যে বিধান স্পষ্ট করেছেন। ইবন কাসীর বলেন, পরীক্ষার পর পুরস্কার বা শাস্তি আসে মানুষের করা কাজের উপরও, আর যা করার সংকল্প সে করেছিল তার উপরও।"
+          },
+          {
+            "en": "Fa-stabiqu al-khayrat: so race to good deeds. As-Sa'di says the differing sets nations competing, and no one becomes a forerunner except by two things: hastening to a good deed when its moment comes, and completing it as commanded. He takes the verse as evidence for praying early in its time and not stopping at the bare minimum. Al-Qurtubi also reads it for doing duties early; he records that Abu Hanifa held delaying the prayer better, and that al-Kiya took the verse's generality against that.",
+            "bn": "ফাসতাবিকুল খাইরাত: সুতরাং নেক কাজে প্রতিযোগিতা করো। সা'দী বলেন, শরীয়তের ভিন্নতা জাতিগুলোর মধ্যে প্রতিযোগিতা তৈরি করে। আর দুটি জিনিস ছাড়া কেউ অগ্রগামী হয় না। নেক কাজের সময় এলে দেরি না করে ঝাঁপিয়ে পড়া, আর হুকুম অনুযায়ী তা পুরোপুরি আদায় করার চেষ্টা। তিনি আয়াতটিকে প্রমাণ হিসেবে নেন যে নামাজ ওয়াক্তের শুরুতে পড়া উচিত, আর ন্যূনতম দায় সেরেই থেমে যাওয়া উচিত নয়। কুরতুবীও আয়াত থেকে ফরজ কাজ আগে আগে করার কথা নেন। তিনি জানান, আবু হানিফা নামাজ দেরিতে পড়াকে উত্তম মনে করতেন, আর কিয়া আয়াতের ব্যাপকতাকে এর বিপক্ষে দলিল হিসেবে নিয়েছেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws a lesson about worship: it lies in obeying the command, not in a form for its own sake. Prayer at the forbidden times earns no reward, fasting on the two Eids is a sin, and standing at Arafat is worship only on the ninth of Dhul-Hijja. Laws differ, it says, so that no habit becomes the goal and people stay ready for whatever the command asks. Ad-Dahhak takes the race as addressed to this Ummah; Ibn Kathir finds the wider address more apparent.",
+            "bn": "শরীয়তের এই ভিন্নতা থেকে মাআরিফুল কুরআন ইবাদত সম্পর্কে শিক্ষা টানে: ইবাদত হলো হুকুম মানা, কোনো আমলের বাহ্যিক রূপ নিজেই লক্ষ্য নয়। নিষিদ্ধ সময়ে নামাজ পড়লে সওয়াব নেই, দুই ঈদের দিনে রোজা রাখা গুনাহ। আরাফায় অবস্থান ইবাদত কেবল জিলহজের নবম তারিখে। মাআরিফুল কুরআনের মতে আল্লাহ ভিন্ন ভিন্ন শরীয়ত পাঠিয়েছেন, যাতে মানুষ অভ্যাসে পরিণত হওয়া কোনো একটি রূপকে লক্ষ্য বানিয়ে না ফেলে। হুকুম এলে যা করছিল তা ছাড়তে, আর যা করতে বলা হয় তা ধরতে যেন সে প্রস্তুত থাকে। যাহহাকের মতে এ প্রতিযোগিতার ডাক এই উম্মতের প্রতি। ইবন কাসীরের কাছে সব জাতির প্রতি সম্বোধনের অর্থটিই বেশি স্পষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Differences Are Settled",
+          "bn": "মতভেদের মীমাংসা যেখানে"
+        },
+        "p": [
+          {
+            "en": "Ila Allahi marji'ukum jami'an fa-yunabbi'ukum: to Allah is your return all together, and He will inform you. At-Tabari asks: has He not already told us in this world what we differ over? In this world, he answers, He made it clear through messengers and proofs, and some believed while others denied; at the return He informs them through recompense, so that no one can doubt who was right. Al-Qurtubi says the doubts then vanish.",
+            "bn": "ইলাল্লাহি মারজিউকুম জামীআন ফাইউনাব্বিউকুম: তোমাদের সবার প্রত্যাবর্তন আল্লাহর দিকেই, তখন তিনি তোমাদের জানিয়ে দেবেন। তাবারী নিজেই একটি আপত্তি তোলেন: আমরা কী নিয়ে মতভেদ করি, তা কি তিনি দুনিয়াতেই জানিয়ে দেননি? তাঁর জবাব, দুনিয়ায় তিনি রাসূল আর প্রমাণ দিয়ে তা স্পষ্ট করেছেন। কেউ মেনেছে, কেউ অস্বীকার করেছে। ফিরে যাওয়ার দিন তিনি জানাবেন প্রতিদান দিয়ে, তখন কে সঠিক ছিল তা নিয়ে কারও সন্দেহ থাকবে না। কুরতুবী বলেন, তখন সব সন্দেহ দূর হয়ে যাবে।"
+          },
+          {
+            "en": "What does the verse ask of a reader now? Not to settle every difference between the communities today; it places that settlement with Allah. It asks me to test what I hear against the Book that confirms and guards what came before, to judge by what Allah sent down where judging falls to me, and to notice when I pick an opinion because it suits my wishes. Then it turns the energy of difference into a race toward good deeds, begun early and done whole.",
+            "bn": "তাহলে আজকের পাঠকের কাছে আয়াতটি কী চায়? জাতিগুলোর মধ্যকার সব মতভেদ আজই মিটিয়ে ফেলতে বলে না। সেই মীমাংসা আয়াত নিজেই আল্লাহর হাতে রেখেছে। আমার কাছে চায়, যেন যা শুনি তা সেই কিতাব দিয়ে মেপে নিই, যা আগের কিতাবের সত্যায়ন করে ও সেগুলো পাহারা দেয়। যেখানে ফায়সালার দায় আমার, সেখানে আল্লাহর নাযিল করা বিধান দিয়ে ফায়সালা করি। আর খেয়াল রাখি, কখন কোনো মত বেছে নিচ্ছি শুধু আমার ইচ্ছের সাথে মেলে বলে। তারপর মতভেদের সব শক্তিকে আয়াতটি ঘুরিয়ে দেয় নেক কাজের দৌড়ে, যা শুরু হয় সময়মতো আর শেষ হয় পুরোপুরি।"
+          }
+        ]
+      }
+    ]
+  },
   "5:51": {
     "sections": [
       {

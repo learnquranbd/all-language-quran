@@ -31163,6 +31163,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "No created being has a right to worship. Even an honoured prophet answers with Allah's praise, disowns what was said of him, and returns all knowledge to Him.",
     "lessonBn": "কোনো সৃষ্টির ইবাদত পাওয়ার হক নেই। সম্মানিত একজন নবীও জবাব শুরু করেন আল্লাহর পবিত্রতা ঘোষণা দিয়ে, তাঁর নামে বলা কথা থেকে নিজেকে মুক্ত করেন, আর সব জ্ঞান ফিরিয়ে দেন আল্লাহর কাছে।"
+  },
+  "5:48": {
+    "reflectionEn": "Three books are named one after another: the Torah, the Gospel, and then the Book sent to the Prophet ﷺ. This last one is called a confirmer of what came before it and a muhaymin over it: a witness, a trustee, a guard. Two plain instructions follow. Judge by what Allah sent down, and do not follow people's wishes away from the truth that has come to you. The verse also says that each community was given its own law and way, and it does not ask me to settle every difference today. It asks me to race toward what is good, and it tells me where the differences will be settled: with Allah, when everyone returns. Which wish of mine have I been bending the truth to fit?",
+    "reflectionBn": "পরপর তিনটি কিতাবের নাম আসে: তাওরাত, ইনজিল, তারপর নবী ﷺ-এর কাছে পাঠানো কিতাব। শেষটিকে বলা হয়েছে আগের কিতাবের সত্যায়নকারী, আর তার উপর মুহাইমিন: সাক্ষী, আমানতদার, পাহারাদার। এরপর দুটি সোজা নির্দেশ। আল্লাহ যা নাযিল করেছেন সে অনুযায়ী ফায়সালা করো, আর তোমার কাছে যে সত্য এসেছে তা ছেড়ে মানুষের খেয়ালখুশির পেছনে যেয়ো না। আয়াতটি এ কথাও স্বীকার করে যে প্রত্যেক জাতিকে আলাদা শরীয়ত ও পথ দেওয়া হয়েছিল। সব মতভেদ আজই মিটিয়ে ফেলার দায় আমার ঘাড়ে চাপায় না। আমাকে বলে নেক কাজে আগে আগে দৌড়াতে। আর জানিয়ে দেয়, মতভেদের মীমাংসা হবে আল্লাহর কাছে, যখন সবাই তাঁর কাছে ফিরবে। আমার কোন খেয়ালের মাপে আমি সত্যকে বাঁকিয়ে নিচ্ছি?",
+    "pointsEn": [
+      "When a ruling I know is right would cost me someone's approval, which of the two do I let go?",
+      "Do I go looking for the opinion that tells me what I already wanted, and call that searching for the truth?",
+      "Which good deed have I been putting off, as if there were no race and no finishing line?",
+      "In an argument about faith, can I state what I hold plainly and still leave the final verdict on the other person to Allah?",
+      "If I treated the Qur'an as the measure for what I hear elsewhere, what would I hear differently this week?"
+    ],
+    "pointsBn": [
+      "যে ফায়সালা সঠিক বলে জানি, তা মানলে যদি কারও মন রাখা না যায়, তখন দুটোর কোনটা আমি ছেড়ে দিই?",
+      "যে মত আমার আগের ইচ্ছেটাই সমর্থন করে, আমি কি খুঁজে খুঁজে সেটাই বের করি, আর তাকেই বলি সত্যের খোঁজ?",
+      "কোন নেক কাজ আমি ফেলে রেখেছি, যেন কোনো দৌড় নেই, কোনো শেষ সীমাও নেই?",
+      "ঈমান নিয়ে তর্কের সময় নিজের বিশ্বাস কি পরিষ্কার বলতে পারি, আবার অন্যজনের শেষ বিচার আল্লাহর হাতে ছেড়ে দিতেও পারি?",
+      "বাইরে যা শুনি তা যদি কুরআন দিয়ে মেপে নিতাম, এ সপ্তাহে কোন কথা আমার কানে অন্যরকম শোনাত?"
+    ],
+    "lessonEn": "Hold to what Allah sent down when other people's wishes pull against it, race toward good deeds, and leave the final settling of differences to Allah.",
+    "lessonBn": "মানুষের খেয়ালখুশি উল্টো দিকে টানলেও আল্লাহর নাযিল করা বিধান আঁকড়ে থাকুন, নেক কাজে এগিয়ে যান, আর মতভেদের চূড়ান্ত মীমাংসা আল্লাহর হাতে ছেড়ে দিন।"
   }
 };
 
