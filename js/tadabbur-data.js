@@ -31383,6 +31383,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give your deepest love and reliance only to the One who never sets, and test everything else you lean on by asking whether it will still be there.",
     "lessonBn": "গভীরতম ভালোবাসা আর ভরসা কেবল তাঁকেই দিন যিনি কখনো অস্ত যান না। আর যার উপরই ভর দেন, যাচাই করে নিন: দরকারের দিনে সে থাকবে তো?"
+  },
+  "6:124": {
+    "reflectionEn": "A sign arrives, and the leading men of the town do not ask whether it is true. They ask why it did not come to them. We will not believe, they say, until we are given what the messengers were given. The reply is one sentence: Allah knows best where He places His message. Their objection was never about evidence. It was about rank, and who should have been chosen. Then comes the cost: a debasement before Allah for those who made themselves great, and a severe punishment for the plotting they hid. The verse asks something quieter of me. When the truth reaches me through someone I think beneath me, do I weigh what was said, or who was given the honour of saying it?",
+    "reflectionBn": "একটা নিদর্শন এসে পৌঁছায়। শহরের মাতব্বরেরা জিজ্ঞেস করে না, কথাটা সত্য কি না। তাদের প্রশ্ন, এটা আমাদের কাছে এল না কেন। তারা বলে, রসূলদের যা দেওয়া হয়েছে, আমাদের তা না দেওয়া পর্যন্ত আমরা ঈমান আনব না। জবাব এক বাক্যের: আল্লাহ ভালো জানেন তাঁর রিসালাত কোথায় রাখবেন। তাদের আপত্তি আসলে প্রমাণ নিয়ে ছিল না। ছিল মর্যাদা নিয়ে, বাছাই কেন অন্য কারও হলো তা নিয়ে। তারপর আসে মাশুল: যারা নিজেদের বড় বানিয়েছিল, আল্লাহর কাছে তাদের জন্য অপমান, আর গোপনে যে চক্রান্ত তারা করত, তার জন্য কঠিন শাস্তি। আয়াতটি আমার কাছে একটা নীরব প্রশ্ন রাখে। যাকে আমি নিজের চেয়ে ছোট ভাবি, সত্য যখন তার মুখ দিয়ে আসে, আমি কি কথাটা ওজন করি, নাকি দেখি সম্মানটা কে পেল?",
+    "pointsEn": [
+      "Have I ever turned down sound advice because of who gave it rather than what it said?",
+      "Is there a gift of Allah to someone else that I quietly resent, as if it should have come to me?",
+      "What conditions have I set before I will act on something I already know is true?",
+      "Where does my sense of my own standing make me slow to accept correction?",
+      "What do I do in private that I would not want shown openly on the Day it is all made public?"
+    ],
+    "pointsBn": [
+      "ভালো পরামর্শ কি কখনো ফিরিয়ে দিয়েছি শুধু এ কারণে যে কথাটা কে বলেছে, কী বলেছে তা নয়?",
+      "আল্লাহ অন্য কাউকে যা দিয়েছেন, এমন কোনো নিয়ামত নিয়ে কি মনে মনে আমার ক্ষোভ আছে, যেন ওটা আমারই পাওয়ার কথা ছিল?",
+      "যা সত্য বলে আমি জানি, তার উপর আমল করার আগে নিজের জন্য কী কী শর্ত জুড়ে রেখেছি?",
+      "নিজের মর্যাদার বোধ কোথায় আমাকে সংশোধন মেনে নিতে দেরি করায়?",
+      "গোপনে এমন কী করি, যা সেদিন সবার সামনে খুলে দেখানো হোক, আমি চাই না?"
+    ],
+    "lessonEn": "Judge a truth by what it says, not by who was chosen to bring it, and leave the choosing to Allah, who knows best where to place His gifts.",
+    "lessonBn": "সত্যকে বিচার করুন তার কথা দিয়ে, কাকে দিয়ে তা পাঠানো হলো তা দিয়ে নয়। আর বাছাইয়ের ভার আল্লাহর উপর ছেড়ে দিন, তিনিই ভালো জানেন তাঁর দান কোথায় রাখবেন।"
   }
 };
 

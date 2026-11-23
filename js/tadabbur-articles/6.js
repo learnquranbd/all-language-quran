@@ -6175,6 +6175,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "6:124": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Chiefs Meet a Sign",
+          "bn": "নিদর্শনের মুখে মাতব্বরেরা"
+        },
+        "p": [
+          {
+            "en": "The verse before this one makes a general statement: in every town Allah has placed the greatest of its criminals, akabira mujrimiha, to plot there, and they plot only against themselves without perceiving it. This verse then shows one of those plots in action. Al-Qurtubi says the pronoun in ja'athum, when a sign comes to them, goes back to those same chiefs who have just been mentioned. So the speakers are not the crowd. They are the town's leading men, answering a sign with a demand.",
+            "bn": "আগের আয়াতে একটা সাধারণ কথা বলা হয়েছে: প্রতিটি জনপদে আল্লাহ সেখানকার সবচেয়ে বড় অপরাধীদের, আকাবিরা মুজরিমীহা, রেখেছেন চক্রান্ত করার জন্য। আর তারা চক্রান্ত করে কেবল নিজেদের বিরুদ্ধেই, অথচ টেরও পায় না। এ আয়াত সেই চক্রান্তেরই একটা নমুনা সামনে আনে। কুরতুবী বলেন, জাআতহুম শব্দের সর্বনাম, অর্থাৎ যখন তাদের কাছে নিদর্শন আসে, ফিরে যায় সদ্য উল্লেখ করা সেই মাতব্বরদের দিকে। তাই কথাগুলো সাধারণ মানুষের নয়। কথাগুলো শহরের নেতাদের, যারা নিদর্শনের জবাবে একটা দাবি তুলে ধরে।"
+          },
+          {
+            "en": "At-Tabari ties the verse back further, to the food passage just before it. These are the idolaters who were disputing with the believers, with ornamented speech, about what Allah had forbidden them, in order to turn people from His path. When a sign came to them, which he explains as a proof from Allah of the truth of what Muhammad ﷺ brought, they told the Prophet and his Companions that they would not accept his call, nor the prohibitions he said Allah had made. The Muyassar names them plainly: the idolaters of Makkah, and some of their leading men.",
+            "bn": "তাবারী আয়াতটিকে আরও পেছনে, ঠিক আগের খাদ্যবিষয়ক আলোচনার সঙ্গে জুড়ে দেন। এরা সেই মুশরিক, যারা আল্লাহ যা হারাম করেছেন তা নিয়ে চটকদার কথা দিয়ে মুমিনদের সঙ্গে তর্ক করত, যাতে মানুষকে তাঁর পথ থেকে ফেরানো যায়। তাবারীর ব্যাখ্যায় আয়াত মানে মুহাম্মাদ ﷺ যা এনেছেন তার সত্যতার পক্ষে আল্লাহর দেওয়া প্রমাণ। সে প্রমাণ আসার পর তারা নবী ও তাঁর সাহাবিদের বলে দিল: তাঁর দাওয়াত আমরা মানব না, আর আল্লাহ হারাম করেছেন বলে তিনি যা বলেন, তা-ও না। মুয়াসসার তাদের নাম সোজাসুজি বলে দেয়: মক্কার মুশরিকরা, আর তাদের কিছু নেতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Exactly They Asked For",
+          "bn": "ঠিক কী চেয়েছিল তারা"
+        },
+        "p": [
+          {
+            "en": "Lan nu'mina hatta nu'ta mithla ma utiya rusulu Allah: we will never believe until we are given the like of what Allah's messengers were given. Given what, exactly? The commentators read it three ways. At-Tabari takes it as miracles: they wanted Allah to give them wonders like those He gave Musa (AS) in the parting of the sea, and 'Isa (AS) in raising the dead and healing the blind and the leper.",
+            "bn": "লান নু'মিনা হাত্তা নু'তা মিসলা মা ঊতিয়া রুসুলুল্লাহ: আল্লাহর রসূলদের যা দেওয়া হয়েছে, আমাদেরও তেমন না দেওয়া পর্যন্ত আমরা কখনো ঈমান আনব না। কিন্তু কী দেওয়া? তাফসীরকারেরা কথাটা তিনটি ভিন্ন অর্থে পড়েছেন। তাবারীর মতে এ হলো মুজিযা। তারা চাইছিল, মূসা (আঃ)-কে সাগর চিরে দেওয়ার যে মুজিযা আর ঈসা (আঃ)-কে মৃতকে জীবিত করা, জন্মান্ধ ও কুষ্ঠরোগীকে সুস্থ করার যে মুজিযা আল্লাহ দিয়েছিলেন, তাদেরও তেমনি দেওয়া হোক।"
+          },
+          {
+            "en": "Al-Qurtubi, al-Baghawi, as-Sa'di and the Muyassar read it as prophethood itself. Al-Qurtubi puts their words as: we will not believe until we become prophets and are given signs like those of Musa and 'Isa, and he sets beside it 74:52, where each of them wants to be handed open scrolls of his own. As-Sa'di says what they wanted was prophethood and the message, and he names what that demand contains: an objection against Allah, self-admiration, arrogance towards the truth, and an attempt to fence in Allah's favour.",
+            "bn": "কুরতুবী, বাগাভী, সা'দী ও মুয়াসসার এর অর্থ ধরেছেন খোদ নবুওয়াত। কুরতুবী তাদের কথাটা সাজান এভাবে: আমরা নবী না হওয়া পর্যন্ত, মূসা ও ঈসার মতো নিদর্শন না পাওয়া পর্যন্ত ঈমান আনব না। পাশে তিনি রাখেন ৭৪:৫২, যেখানে তাদের প্রত্যেকে চায় তার নিজের হাতে খোলা সহীফা দেওয়া হোক। সা'দী বলেন, তারা চেয়েছিল নবুওয়াত ও রিসালাত। এ দাবির ভেতরে কী আছে, তা-ও তিনি গুনে দেন: আল্লাহর বিরুদ্ধে আপত্তি, নিজেকে নিয়ে মুগ্ধতা, সত্যের সামনে অহংকার, আর আল্লাহর অনুগ্রহকে বেড়া দিয়ে আটকে রাখার চেষ্টা।"
+          },
+          {
+            "en": "Ibn Kathir reads it differently: until the angels come to us from Allah with the message, as they come to the messengers. He supports it with 25:21, where those who do not hope to meet Allah ask why angels are not sent down to them. Al-Qurtubi knows a version of this view, that they wanted Jibril and the angels to come and tell them the Prophet was truthful, and he rejects it. The first reading is sounder, he says, because the reply, Allah knows best where He places His message, answers a claim to the message itself.",
+            "bn": "ইবন কাসীর পড়েন অন্যভাবে: যতক্ষণ না ফেরেশতারা আল্লাহর কাছ থেকে রিসালাত নিয়ে আমাদের কাছে আসে, যেমন তারা রসূলদের কাছে আসে। প্রমাণ হিসেবে তিনি আনেন ২৫:২১, যেখানে আল্লাহর সাক্ষাতের আশা যারা রাখে না, তারা প্রশ্ন তোলে: আমাদের কাছে ফেরেশতা নামানো হয় না কেন? কুরতুবী এ মতেরই এক রূপ জানেন। সে রূপে তারা চেয়েছিল জিবরীল ও ফেরেশতারা এসে তাদের জানাক যে নবী সত্যবাদী। কুরতুবী সেটা মানেন না। তাঁর মতে প্রথম পাঠটাই বেশি সঠিক। কারণ জবাবটা, আল্লাহ ভালো জানেন তাঁর রিসালাত কোথায় রাখবেন, খোদ রিসালাতের দাবিরই জবাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Older, Richer, and Passed Over",
+          "bn": "বয়সে বড়, ধনে বড়, তবু বাদ"
+        },
+        "p": [
+          {
+            "en": "Two names come up in the reports. Al-Qurtubi and al-Baghawi both relay, without a chain, that al-Walid ibn al-Mughirah said: if prophethood were real, I would have more right to it than you, since I am older than you and have more wealth. Al-Baghawi relays from Muqatil that the verse concerns Abu Jahl, who complained that Banu 'Abd Manaf had matched his clan in honour like two racehorses neck and neck, and now claimed a prophet who received revelation. By Allah, he said, we will never follow him unless revelation comes to us as it comes to him.",
+            "bn": "বর্ণনাগুলোতে দুটি নাম আসে। কুরতুবী ও বাগাভী দুজনেই কোনো সনদ ছাড়া উল্লেখ করেন, ওয়ালীদ ইবনুল মুগীরা বলেছিল: নবুওয়াত যদি সত্যিই কিছু হতো, তবে তোমার চেয়ে আমিই এর বেশি হকদার ছিলাম, কারণ আমি বয়সে তোমার চেয়ে বড়, ধনসম্পদেও বেশি। বাগাভী মুকাতিলের সূত্রে বলেন, আয়াতটি আবু জাহলকে নিয়ে। তার নালিশ ছিল, বনু আবদে মানাফ মর্যাদায় তাদের সঙ্গে পাল্লা দিয়েছে, যেন বাজির দুই ঘোড়া পাশাপাশি দৌড়াচ্ছে। এখন তারা দাবি করছে, তাদের মধ্যে একজন নবী আছেন, যাঁর কাছে ওহী আসে। আবু জাহল বলল, আল্লাহর কসম, তার কাছে যেমন ওহী আসে, আমাদের কাছেও তেমন না এলে আমরা কখনো তার অনুসরণ করব না।"
+          },
+          {
+            "en": "These are reports, nothing more. Al-Qurtubi gives both with no chain and says the verse was revealed about them; al-Baghawi gives the first with no chain and the second from Muqatil. Neither is established here as the occasion of revelation, so the verse's placement is the safer guide: it follows a general statement about every town's chiefs. Ibn Kathir supplies a parallel from the Qur'an itself, 43:31 and 43:32, where they ask why it was not sent down to some great man of the two towns, Makkah and Ta'if, and are asked in return: is it they who apportion the mercy of your Lord?",
+            "bn": "এগুলো বর্ণনা, এর বেশি কিছু নয়। কুরতুবী দুটোই সনদ ছাড়া এনে বলেন, এদের নিয়ে আয়াত নাযিল হয়েছে। বাগাভী প্রথমটি আনেন সনদ ছাড়া, দ্বিতীয়টি মুকাতিলের সূত্রে। এর কোনোটিই এখানে নাযিলের কারণ হিসেবে প্রতিষ্ঠিত নয়। তাই আয়াতের অবস্থানটাই বেশি নির্ভরযোগ্য পথনির্দেশ: প্রতিটি জনপদের মাতব্বরদের নিয়ে একটা সাধারণ কথার পরেই এর জায়গা। ইবন কাসীর কুরআন থেকেই এর জোড়া দেখান, ৪৩:৩১ ও ৪৩:৩২। সেখানে তারা প্রশ্ন তোলে, দুই জনপদের, মক্কা ও তায়েফের, কোনো বড় মানুষের উপর এটা নাযিল হলো না কেন? পাল্টা প্রশ্ন আসে: তোমার রবের রহমত কি তারাই ভাগ করে দেয়?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Haythu: Where, and With Whom",
+          "bn": "হাইসু: কোথায়, কার কাছে"
+        },
+        "p": [
+          {
+            "en": "The reply interrupts their speech: Allahu a'lamu haythu yaj'alu risalatah, Allah knows best where He places His message. Al-Qurtubi stops on the word haythu. Usually it means where, as an adverb of place. Here, he says, it is not an adverb but a noun standing as the object, so the sense is that Allah knows best the people fit for the message, the places of His message. Read as an adverb, he explains, it would mean Allah is most knowing in this place, which cannot be said of Allah.",
+            "bn": "তাদের কথার মাঝখানেই জবাব এসে পড়ে: আল্লাহু আ'লামু হাইসু ইয়াজআলু রিসালাতাহু, আল্লাহ ভালো জানেন তাঁর রিসালাত কোথায় রাখবেন। কুরতুবী থামেন হাইসু শব্দে। সাধারণত এর মানে কোথায়, স্থান বোঝানো ক্রিয়াবিশেষণ। তাঁর মতে এখানে তা ক্রিয়াবিশেষণ নয়, বরং বিশেষ্য, বাক্যে কর্মের জায়গায় বসেছে। অর্থাৎ রিসালাতের উপযুক্ত মানুষ কারা, রিসালাতের ঠিক জায়গা কোনটা, আল্লাহ তা সবচেয়ে ভালো জানেন। তিনি ব্যাখ্যা করেন, একে স্থানবাচক ধরলে মানে দাঁড়ায় আল্লাহ এই জায়গায় সবচেয়ে বেশি জানেন, আর এমন কথা আল্লাহর ব্যাপারে বলা চলে না।"
+          },
+          {
+            "en": "Al-Baghawi notes a difference of recitation. Ibn Kathir the reciter and Hafs read risalatahu, His message, in the singular; the others read risalatihi, His messages, in the plural. Either way he glosses it the same: Allah knows best who has the most right to the message. The Muyassar puts it as those who are fit to carry His message and deliver it to people, and Ibn Kathir the commentator as where He sets it and which of His creatures are suited to it.",
+            "bn": "বাগাভী কিরাআতের একটা পার্থক্য উল্লেখ করেন। কারী ইবন কাসীর ও হাফস পড়েছেন রিসালাতাহু, একবচনে, তাঁর রিসালাত। বাকিরা পড়েছেন রিসালাতিহী, বহুবচনে, তাঁর রিসালাতসমূহ। দুই পাঠেই তাঁর ব্যাখ্যা একই: রিসালাতের সবচেয়ে বেশি হকদার কে, আল্লাহই তা ভালো জানেন। মুয়াসসারের ভাষায়, যারা তাঁর রিসালাত বহন করে মানুষের কাছে পৌঁছে দেওয়ার যোগ্য। আর তাফসীরকার ইবন কাসীরের ভাষায়, তিনি তা কোথায় রাখবেন এবং তাঁর সৃষ্টির মধ্যে কে এর উপযুক্ত, তা তিনিই ভালো জানেন।"
+          },
+          {
+            "en": "At-Tabari draws the sharpest conclusion. The signs of prophets and messengers, he says, are given to no human being except a messenger who has been sent, and those who set up idols as equals to their Lord are not among them. Then he voices the divine reply: I know best the places of My messages and who is worthy of them, so it is not for you, idolaters, to make that choice over Me. The choosing of a messenger, he concludes, belongs to the sender, not to those he is sent to.",
+            "bn": "সবচেয়ে ধারালো সিদ্ধান্ত টানেন তাবারী। তিনি বলেন, নবী-রসূলদের নিদর্শন প্রেরিত রসূল ছাড়া কোনো মানুষকে দেওয়া হয় না। আর যারা মূর্তি ও প্রতিমাকে নিজেদের রবের সমকক্ষ বানায়, তারা সে দলের কেউ নয়। তারপর তিনি আল্লাহর জবাবটা তুলে ধরেন এভাবে: আমার রিসালাতের জায়গা কোথায়, কে এর যোগ্য, আমিই তা সবচেয়ে ভালো জানি। হে মুশরিকরা, আমার উপর দিয়ে এ বাছাই করার অধিকার তোমাদের নেই। তাঁর শেষ কথা: রসূল বাছাইয়ের অধিকার যিনি পাঠান তাঁর, যাদের কাছে পাঠানো হয় তাদের নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Gift That Cannot Be Earned",
+          "bn": "যে দান অর্জন করা যায় না"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di explains who the message goes to: one whom Allah knows to be fit for it and able to carry its burdens, marked by every fine trait and clear of every base one. Whoever is not like that, Allah does not set His best gift with him, where it would not be valued or grow. He draws a lesson about Allah from it. Allah is merciful and vast in generosity, yet He is also wise, and He places His generosity only with those suited to it. The verse, he says, shows the perfection of that wisdom.",
+            "bn": "রিসালাত কার কাছে যায়, সা'দী তা খুলে বলেন। যাকে আল্লাহ এর যোগ্য বলে জানেন, যে এর বোঝা বইতে পারে, যার মধ্যে আছে সব সুন্দর গুণ আর যে সব নীচ স্বভাব থেকে মুক্ত। যে এমন নয়, আল্লাহ তাঁর শ্রেষ্ঠ দান তার কাছে রাখেন না, কারণ সেখানে এর কদর হবে না, তা বাড়বেও না। এখান থেকে তিনি আল্লাহ সম্পর্কে একটা শিক্ষা টানেন। আল্লাহ দয়ালু, তাঁর দানের হাত প্রশস্ত। তবু তিনি হাকীম, প্রজ্ঞাময়। তাঁর দান তিনি রাখেন কেবল তার উপযুক্ত জায়গায়। সা'দীর মতে, আয়াতটি সেই প্রজ্ঞার পূর্ণতারই প্রমাণ।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an presses the same point against the objector's assumption. He thought, it says, that the station of a prophet could be gained through family nobility, tribal power and wealth. Prophethood is not acquired by intellect, effort or devotion; even a wali, however high his rank, cannot reach it. It is Allah's grace, given to particular servants by His knowledge and wisdom.",
+            "bn": "আপত্তিকারীর ধারণার বিরুদ্ধে মাআরিফুল কুরআনও একই কথা জোর দিয়ে বলে। তার ধারণা ছিল, বংশের আভিজাত্য, গোত্রের ক্ষমতা আর ধনসম্পদ দিয়ে নবীর মর্যাদা পাওয়া যায়। অথচ নবুওয়াত বুদ্ধি, চেষ্টা বা ইবাদতের জোরে অর্জনের জিনিস নয়। কোনো ওলী যত উঁচু স্তরেই পৌঁছান, সেখানে পৌঁছাতে পারেন না। এ আল্লাহর অনুগ্রহ, তাঁর ইলম ও হিকমত অনুযায়ী বিশেষ কিছু বান্দাকে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honour They Had Already Granted",
+          "bn": "যে সম্মান তারা আগেই মেনেছিল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir names the motive: they looked down on the Messenger out of envy, transgression, stubbornness and pride, while admitting his worth, his lineage and the purity of his upbringing, and calling him al-Amin before revelation came. He points to the questioning of Abu Sufyan by Heraclius, recorded by al-Bukhari (7). Asked about the Prophet's family, Abu Sufyan answered that he was of noble lineage among them; asked whether they had ever accused him of lying before his claim, he answered no.",
+            "bn": "ইবন কাসীর আসল কারণটা বলে দেন: হিংসা, সীমালঙ্ঘন, জেদ আর অহংকার থেকে তারা রসূলকে তুচ্ছ করত। অথচ তাঁর মর্যাদা, বংশ আর পবিত্র বেড়ে ওঠার কথা তারা স্বীকার করত, আর ওহী আসার আগে তাঁকে ডাকত আল-আমীন বলে। তিনি উল্লেখ করেন হিরাক্লিয়াসের সামনে আবু সুফিয়ানের জেরার ঘটনা, যা বুখারী (৭) বর্ণনা করেছেন। নবীর বংশ সম্পর্কে জিজ্ঞেস করা হলে আবু সুফিয়ান বলেন, আমাদের মধ্যে তিনি অভিজাত বংশের। নবুওয়াতের দাবির আগে কখনো তাঁকে মিথ্যার অভিযোগে অভিযুক্ত করেছ কি না, জানতে চাইলে তিনি বলেন, না।"
+          },
+          {
+            "en": "Ibn Kathir then cites the hadith of Wathilah ibn al-Asqa'. In Sahih Muslim (2276) the wording is: \"Allah chose Kinanah from the descendants of Isma'il, and chose Quraysh from Kinanah, and chose Banu Hashim from Quraysh, and chose me from Banu Hashim.\" Al-Bukhari (3557) records from Abu Hurayrah that the Messenger of Allah ﷺ said: \"I was sent from the best of the generations of the children of Adam, generation after generation, until I was in the generation I was in.\" Neither hadith mentions this verse; Ibn Kathir places them here.",
+            "bn": "এরপর ইবন কাসীর ওয়াসিলা ইবনুল আসকা (রাঃ)-এর হাদীস আনেন। সহীহ মুসলিমে (২২৭৬) এর ভাষা এই: \"আল্লাহ ইসমাঈলের বংশধরদের মধ্য থেকে কিনানাকে বেছে নিয়েছেন, কিনানা থেকে কুরাইশকে বেছে নিয়েছেন, কুরাইশ থেকে বনু হাশিমকে বেছে নিয়েছেন, আর বনু হাশিম থেকে আমাকে বেছে নিয়েছেন।\" বুখারী (৩৫৫৭) আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রসূল ﷺ বলেছেন: \"আদম সন্তানদের শ্রেষ্ঠ প্রজন্মগুলোর মধ্য থেকে, এক প্রজন্মের পর আরেক প্রজন্ম ধরে আমাকে পাঠানো হয়েছে, অবশেষে আমি সেই প্রজন্মে এলাম, যাতে আমি ছিলাম।\" কোনো হাদীসেই এ আয়াতের উল্লেখ নেই। এ দুটিকে এখানে এনেছেন ইবন কাসীর।"
+          },
+          {
+            "en": "Ibn Kathir also relays further narrations on the Prophet's lineage and on the choosing of his heart, from Imam Ahmad, and one he attributes to al-Hakim and al-Bayhaqi; he gives no grading of them here, so this article only notes them and builds nothing on them. The men who demanded the message for themselves had never faulted the man who received it. Their complaint was not about his character but about the fact that the choice had not fallen on them.",
+            "bn": "নবীর বংশ এবং তাঁর অন্তর বাছাই নিয়ে ইবন কাসীর ইমাম আহমাদ থেকে আরও কিছু বর্ণনা আনেন, আর একটি বর্ণনার সূত্র দেন হাকিম ও বাইহাকী। এখানে তিনি সেগুলোর কোনো মান উল্লেখ করেননি, তাই এ লেখা শুধু সেগুলোর কথা জানিয়ে রাখে, সেগুলোর উপর কিছু দাঁড় করায় না। যারা রিসালাত নিজেদের জন্য দাবি করেছিল, যিনি তা পেয়েছিলেন তাঁর মধ্যে তারা কখনো দোষ খুঁজে পায়নি। তাদের অভিযোগ তাঁর চরিত্র নিয়ে ছিল না। অভিযোগ ছিল, বাছাইটা তাদের উপর পড়েনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Saghar: Made Small Before Allah",
+          "bn": "সাগার: আল্লাহর কাছে ছোট হওয়া"
+        },
+        "p": [
+          {
+            "en": "Sa-yusibu alladhina ajramu sagharun 'inda Allah: there will strike those who committed crimes a debasement before Allah. At-Tabari glosses saghar as humiliation and abasement, and brings as-Suddi's one-word definition, adh-dhillah. It is, he adds, the severest form of humiliation. Al-Qurtubi traces the word to sighar, smallness as against bigness, as though humiliation makes a man small in his own eyes; he also records that as-saghir is one who accepts being wronged. As-Sa'di states the fit: as they were arrogant towards the truth, Allah humbled them.",
+            "bn": "সা-ইউসীবুল্লাযীনা আজরামূ সাগারুন ইনদাল্লাহ: যারা অপরাধ করেছে, আল্লাহর কাছে তাদের উপর নেমে আসবে লাঞ্ছনা। তাবারী সাগার-এর অর্থ করেন অপমান ও হীনতা, আর সুদ্দীর দেওয়া একটি শব্দের সংজ্ঞা আনেন: আয-যিল্লাহ, লাঞ্ছনা। তিনি যোগ করেন, এ হলো লাঞ্ছনার সবচেয়ে কঠিন রূপ। কুরতুবী শব্দটির মূল খোঁজেন সিগার-এ, অর্থাৎ বড়র বিপরীতে ছোট হওয়া। যেন অপমান মানুষকে তার নিজের চোখেই ছোট করে দেয়। তিনি এটাও লেখেন, সাগির সেই লোক, যে জুলুম মুখ বুজে মেনে নেয়। মিলটা সা'দী দেখিয়ে দেন: সত্যের সামনে তারা যেমন অহংকার করেছিল, আল্লাহ তেমনি তাদের হীন করে দিলেন।"
+          },
+          {
+            "en": "Then 'inda Allah, before Allah. At-Tabari reads it as from Allah: what is with Allah of humiliation will reach them for denying His Messenger. Al-Qurtubi lists several views, including al-Farra's from Allah, and one that it means a humiliation fixed with Allah, which he reports an-Nahhas calling the best of the views. On when it falls they differ too. Ibn Kathir places it on the Day of Resurrection, a lasting humiliation because they were arrogant, citing 40:60. Al-Baghawi records, with it is said, humiliation in this world and severe punishment in the next; Ma'arif al-Qur'an allows both.",
+            "bn": "তারপর ইনদাল্লাহ, আল্লাহর কাছে। তাবারী এর অর্থ নেন আল্লাহর পক্ষ থেকে: তাঁর রসূলকে মিথ্যা বলার কারণে আল্লাহর কাছে যে লাঞ্ছনা রাখা আছে, তা তাদের উপর পড়বে। কুরতুবী কয়েকটি মত উল্লেখ করেন। তার একটি ফাররার, আল্লাহর পক্ষ থেকে। আরেকটি মত, আল্লাহর কাছে স্থির হয়ে থাকা লাঞ্ছনা, যাকে নাহহাস সবচেয়ে ভালো মত বলেছেন বলে কুরতুবী জানান। কখন তা নামবে, সেখানেও মতভেদ। ইবন কাসীর একে রাখেন কিয়ামতের দিনে, স্থায়ী অপমান হিসেবে, কারণ তারা অহংকার করেছিল। দলিল দেন ৪০:৬০। বাগাভী 'বলা হয়' বলে আনেন: দুনিয়ায় অপমান, আখিরাতে কঠিন শাস্তি। মাআরিফুল কুরআন দুটোকেই সম্ভব মনে করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Plotting That Will Be Shown",
+          "bn": "যে চক্রান্ত প্রকাশ্যে আসবে"
+        },
+        "p": [
+          {
+            "en": "Wa-'adhabun shadidun bima kanu yamkurun: and a severe punishment for what they used to plot. At-Tabari names the plot: scheming against Islam and its people through false argument and ornamented speech, to deceive those who followed Allah's religion. Ibn Kathir notes that a plot is usually hidden, a subtle working of trickery, so it is met with a severe punishment as a fitting recompense, and he cites 86:9, the Day when secrets are laid open. As-Sa'di adds: because of their plotting, not as any injustice from Him.",
+            "bn": "ওয়া আযাবুন শাদীদুম বিমা কানূ ইয়ামকুরূন: আর তারা যে চক্রান্ত করত, তার জন্য কঠিন শাস্তি। চক্রান্তটা কী, তাবারী বলে দেন: মিথ্যা তর্ক আর চটকদার কথা দিয়ে ইসলাম ও মুসলমানদের বিরুদ্ধে ষড়যন্ত্র, যাতে আল্লাহর দীনের অনুসারীরা ধোঁকা খায়। ইবন কাসীর খেয়াল করান, চক্রান্ত সাধারণত গোপনে চলে, সূক্ষ্ম কৌশল আর প্রতারণা দিয়ে। তাই এর বদলা কঠিন শাস্তি, কাজের মাপেই প্রতিফল। তিনি আনেন ৮৬:৯, যেদিন সব গোপন কথা খুলে দেওয়া হবে। সা'দী যোগ করেন: শাস্তি তাদের চক্রান্তের কারণে, আল্লাহর পক্ষ থেকে কোনো জুলুম হিসেবে নয়।"
+          },
+          {
+            "en": "On that theme of hidden betrayal made public, Ibn Kathir brings a hadith from the two Sahihs. Al-Bukhari (6178) records from Ibn 'Umar that the Messenger of Allah ﷺ said: \"The betrayer will have a banner set up for him on the Day of Resurrection, and it will be said: this is the betrayal of so-and-so, son of so-and-so.\" It is a general narration about treachery and is not attached to this verse. Ibn Kathir's point is that what was done unseen will be shown openly to everyone.",
+            "bn": "গোপন বিশ্বাসঘাতকতা প্রকাশ্যে আসার এ প্রসঙ্গে ইবন কাসীর দুই সহীহ গ্রন্থ থেকে একটি হাদীস আনেন। বুখারী (৬১৭৮) ইবন উমার (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রসূল ﷺ বলেছেন: \"কিয়ামতের দিন বিশ্বাসঘাতকের জন্য একটি পতাকা গেড়ে দেওয়া হবে, আর বলা হবে: এ হলো অমুকের ছেলে অমুকের বিশ্বাসঘাতকতা।\" হাদীসটি বিশ্বাসঘাতকতা নিয়ে সাধারণ বর্ণনা, এ আয়াতের সঙ্গে সরাসরি যুক্ত নয়। ইবন কাসীরের কথা হলো, যা লোকচক্ষুর আড়ালে করা হয়েছিল, তা সেদিন সবার সামনে দেখানো হবে।"
+          },
+          {
+            "en": "One thing should be said plainly. The verse describes the chiefs of Makkah who answered a sign with a demand and plotted against the believers, and it states what awaits them. It licenses nothing against any living person or community, and it hands no reader the right to call anyone a criminal. Its question points inward. When truth reaches me through someone I rank beneath me, do I raise a condition, as they did, so that I never have to accept it?",
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। আয়াতটি মক্কার সেই মাতব্বরদের বর্ণনা দেয়, যারা নিদর্শনের জবাবে দাবি তুলেছিল আর মুমিনদের বিরুদ্ধে চক্রান্ত করেছিল। তাদের জন্য কী অপেক্ষা করছে, আয়াত তা-ই জানায়। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কাউকে অপরাধী বলে দেগে দেওয়ার অধিকারও কোনো পাঠককে দেয় না। এর প্রশ্নটা নিজের দিকে ফেরে। যাকে আমি নিজের চেয়ে ছোট ভাবি, তার মুখ দিয়ে সত্য এলে আমিও কি তাদের মতো কোনো শর্ত জুড়ে দিই, যাতে তা মানতে না হয়?"
+          }
+        ]
+      }
+    ]
+  },
   "6:128": {
     "sections": [
       {
