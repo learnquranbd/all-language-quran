@@ -4110,5 +4110,157 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "8:74": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Same People, Named Again",
+          "bn": "একই মানুষ, আবার তাদের নাম"
+        },
+        "p": [
+          {
+            "en": "Al-Anfal is Madinan, and its closing verses turn from Badr to the community that fought there. Two verses back, 8:72 bound the Muhajirun and the Ansar to one another and set out what was owed to believers who had not emigrated. 8:73 said that those who disbelieve are allies of one another. Our verse then names the same two groups a second time, almost word for word, and 8:75, the last verse of the surah, admits those who believed and emigrated later and gives blood relatives their precedence in the decree of Allah.",
+            "bn": "আনফাল মাদানী সূরা। শেষের আয়াতগুলোতে এসে সূরার দৃষ্টি বদরের ময়দান থেকে সরে যায় সেই সমাজের দিকে, যারা সেখানে লড়েছিল। দুই আয়াত আগে ৮:৭২ মুহাজির আর আনসারদের পরস্পরের সঙ্গে বেঁধে দিয়েছে, আর হিজরত না করা মুমিনদের প্রতি কী দায় থাকবে তা ঠিক করে দিয়েছে। ৮:৭৩ বলেছে, কাফিররাও একে অপরের বন্ধু। এরপর আমাদের আয়াত প্রায় হুবহু একই ভাষায় ওই দুই দলের নাম দ্বিতীয়বার নেয়। আর সূরার শেষ আয়াত ৮:৭৫ পরে ঈমান এনে হিজরতকারীদেরও তাদের দলে গণ্য করে, এবং আল্লাহর বিধানে রক্তের আত্মীয়দের অগ্রাধিকার দেয়।"
+          },
+          {
+            "en": "Why say it twice? As-Sa'di answers: the earlier verses mention the contract of alliance between the believers of the Muhajirun and the Ansar, and these verses explain their praise and their reward. Ibn Kathir puts it as a turn from this world to the next: having stated the ruling for the believers in this life, Allah went on to what they have in the Hereafter. Ma'arif al-Qur'an reads the verse as words of praise, an attestation that they are true Muslims, and a promise. The first naming settled a duty; the second pronounces a verdict on the same people.",
+            "bn": "একই কথা দুবার কেন? সা'দী উত্তর দেন এভাবে। আগের আয়াতগুলোতে এসেছে মুহাজির ও আনসার মুমিনদের মধ্যে বন্ধুত্বের চুক্তির কথা, আর এ আয়াতগুলোতে এসেছে তাদের প্রশংসা ও প্রতিদানের বর্ণনা। ইবন কাসীর বিষয়টা দেখেন দুনিয়া থেকে আখিরাতে যাওয়া হিসেবে। দুনিয়ার জীবনে মুমিনদের বিধান বলে দেওয়ার পর আল্লাহ বলছেন, আখিরাতে তাদের জন্য কী আছে। মাআরিফুল কুরআনের পাঠে আয়াতটি একসঙ্গে তিনটি জিনিস: প্রশংসা, তারা যে খাঁটি মুসলিম তার সাক্ষ্য, আর একটি প্রতিশ্রুতি। প্রথমবারের উল্লেখে একটা দায়িত্ব স্থির হয়েছিল। দ্বিতীয়বার একই মানুষদের ব্যাপারে রায় ঘোষণা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verdict in Four Words",
+          "bn": "চার শব্দের রায়"
+        },
+        "p": [
+          {
+            "en": "Ula'ika humu al-mu'minuna haqqan: those, they are the believers, truly. The sentence is built to leave no room. A pointing word, then the pronoun hum placed between subject and predicate, then haqqan to close it. Al-Qurtubi identifies haqqan as a verbal noun, a masdar, from the root h-q-q, of what is true and what is made to come true, and he uses the verb from that root at once. Al-Baghawi turns the word into plain prose: there is no doubt and no uncertainty about their faith. The same four words already stood at 8:4, sealing the surah's opening portrait of the believers.",
+            "bn": "উলাইকা হুমুল মু'মিনূনা হাক্কা: তারাই, তারাই প্রকৃত মুমিন। বাক্যটা এমনভাবে গড়া যে সন্দেহের কোনো ফাঁক থাকে না। প্রথমে ইঙ্গিতবাচক শব্দ, তারপর উদ্দেশ্য আর বিধেয়ের মাঝখানে সর্বনাম হুম, শেষে হাক্কা দিয়ে বাক্যের সমাপ্তি। কুরতুবী জানান, হাক্কা একটি ক্রিয়াবাচক বিশেষ্য, মাসদার। এর ধাতু হ-ক-ক, যাতে আছে সত্য হওয়া আর সত্য করে দেখানোর অর্থ, আর তিনি সঙ্গে সঙ্গে এই ধাতুরই ক্রিয়া ব্যবহার করেন। বাগাভী শব্দটাকে সহজ কথায় খুলে বলেন: তাদের ঈমানে কোনো সংশয় নেই, কোনো সন্দেহ নেই। সূরার শুরুতে মুমিনদের যে ছবি আঁকা হয়েছে, ৮:৪ আয়াতে ঠিক এই চারটি শব্দ দিয়েই তার সমাপ্তি।"
+          },
+          {
+            "en": "Set the verse beside 8:72 and one phrase is missing. There the first group fought with their wealth and their lives in the path of Allah; here they simply fought in the path of Allah. No commentator fetched for this verse remarks on it, so it is noted and left unexplained. Two words of the promise need a gloss. Maghfirah, at-Tabari says, is a covering from Allah over their sins, by His pardoning them. Karim, said of provision, Ibn Kathir unpacks as good, plentiful, pure and honourable.",
+            "bn": "আয়াতটিকে ৮:৭২-এর পাশে রাখলে একটা বাক্যাংশ অনুপস্থিত দেখা যায়। সেখানে প্রথম দলটি জিহাদ করেছিল নিজেদের সম্পদ ও জীবন দিয়ে আল্লাহর পথে। এখানে শুধু বলা হয়েছে, তারা আল্লাহর পথে জিহাদ করেছে। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই সংক্ষিপ্ত এই ভাষা নিয়ে কিছু বলেনি। তাই বিষয়টা শুধু লক্ষ করে রাখা হলো, ব্যাখ্যা দেওয়া হলো না। প্রতিশ্রুতির দুটি শব্দ একটু খুলে বলা দরকার। তাবারী বলেন, মাগফিরাত হলো আল্লাহর পক্ষ থেকে তাদের গুনাহের উপর একটা আবরণ, যা তিনি তাদের মাফ করে দিয়ে টেনে দেন। আর রিজিকের বিশেষণ কারীমকে ইবন কাসীর খুলে বলেন: উত্তম, প্রচুর, পবিত্র আর মর্যাদাপূর্ণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faith That Was Made Good",
+          "bn": "যে ঈমান কাজে প্রমাণ হলো"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the reading that most of the others echo, and gives it in both directions. They made their faith true, haqqaqu, by emigration and by support; and Allah made their faith true by the good news in His words, for them is forgiveness and noble provision, which he glosses as a great reward in Paradise. The verdict is shown from below and then sealed from above. Al-Baghawi relays the first half with the words it is said: they made their faith true by emigration, by jihad, and by spending wealth in the religion.",
+            "bn": "কুরতুবী যে ব্যাখ্যা দেন, অন্যরা মোটামুটি সেটারই প্রতিধ্বনি করেন, আর তিনি তা দেন দুই দিক থেকে। তারা হিজরত আর সাহায্যের মাধ্যমে নিজেদের ঈমানকে সত্য করে দেখিয়েছে। আবার আল্লাহও তাদের ঈমানকে সত্য বলে ঘোষণা করেছেন সুসংবাদ দিয়ে: তাদের জন্য আছে ক্ষমা আর সম্মানজনক রিজিক। এর অর্থ তিনি বলেন, জান্নাতে বিরাট প্রতিদান। রায়টা নিচ থেকে প্রমাণিত হয়েছে, তারপর উপর থেকে তাতে সিলমোহর পড়েছে। বাগাভী 'বলা হয়' কথাটি জুড়ে প্রথম অংশটা উদ্ধৃত করেন: তারা হিজরত, জিহাদ আর দ্বীনের পথে সম্পদ খরচ করে নিজেদের ঈমানকে সত্য প্রমাণ করেছে।"
+          },
+          {
+            "en": "As-Sa'di makes the list longer and gives it as the reason for the word. They are the believers truly because they proved their faith truthful by what they carried out: emigration, support, mutual alliance, and their striving against their enemies among the disbelievers and the hypocrites. Al-Muyassar describes the deeds concretely. The emigrants left their homes for the abode of Islam, or for any land where they could worship their Lord; the helpers sheltered their brothers and stood by them with wealth and backing. They, it says, are the truthful believers.",
+            "bn": "সা'দী তালিকাটা আরও লম্বা করেন, আর সেটাকেই শব্দটির কারণ হিসেবে দেখান। তারা প্রকৃত মুমিন, কারণ তারা যা করে দেখিয়েছে তা দিয়ে নিজেদের ঈমানের সত্যতা প্রমাণ করেছে: হিজরত, সাহায্য, একে অপরের প্রতি বন্ধুত্ব, আর কাফির ও মুনাফিক শত্রুদের বিরুদ্ধে জিহাদ। মুয়াসসার কাজগুলোকে আরও স্পষ্ট করে বলে। মুহাজিররা ঘর ছেড়ে গেছে ইসলামের ভূমির দিকে, কিংবা এমন কোনো দেশে, যেখানে নিজের রবের ইবাদত করা যায়। আনসাররা তাদের মুহাজির ভাইদের আশ্রয় দিয়েছে, সম্পদ আর সমর্থন দিয়ে তাদের পাশে থেকেছে। মুয়াসসারের ভাষায়, এরাই সত্যবাদী মুমিন।"
+          },
+          {
+            "en": "At-Tabari defines the phrase partly by whom it leaves out. These are the people of faith in Allah and His Messenger in truth, he says, not whoever believed and did not leave the abode of shirk, but stayed among the idolaters and did not go out with the Muslims against their enemy. Ma'arif al-Qur'an goes further: the phrase hints that those who did not migrate, though Muslims, had an Islam neither complete nor certain, since there was a possibility that they were hypocrites professing it only outwardly.",
+            "bn": "তাবারী বাক্যটির সংজ্ঞা দেন খানিকটা এ দিয়ে যে, কারা এর বাইরে থাকল। তাঁর ভাষায়, এরাই আল্লাহ ও তাঁর রাসূলের উপর সত্যিকারের ঈমানওয়ালা। সে নয়, যে ঈমান এনেও শিরকের দেশ ছাড়েনি, মুশরিকদের মাঝেই থেকে গেছে, আর মুসলিমদের সঙ্গে শত্রুর বিরুদ্ধে অভিযানে বের হয়নি। মাআরিফুল কুরআন আরও এক ধাপ এগোয়। তার মতে বাক্যটিতে ইঙ্গিত আছে যে, যারা হিজরত করেনি তারা মুসলিম হলেও তাদের ইসলাম পূর্ণও ছিল না, নিশ্চিতও ছিল না, কারণ এমন সম্ভাবনা ছিল যে তারা আসলে শুধু বাইরে ইসলাম দেখানো মুনাফিক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Repetition Proves",
+          "bn": "পুনরাবৃত্তি থেকে যা প্রমাণ হয়"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi raises the question of repetition himself and gives a different answer, introduced with it is said. The emigrants came in tiers. Some were of the first emigration, before al-Hudaybiyah; some of the second, after the truce of al-Hudaybiyah and before the conquest of Makkah; and some made two emigrations, to Abyssinia and then to Madinah. On this answer the first verse means the first emigration and the second verse the second. He does not name who held it, and he offers no other answer to the question he raised.",
+            "bn": "পুনরাবৃত্তির প্রশ্নটা বাগাভী নিজেই তোলেন, আর 'বলা হয়' কথাটি জুড়ে ভিন্ন একটা উত্তর আনেন। মুহাজিররা ছিলেন কয়েক স্তরের। কেউ প্রথম হিজরতের লোক, যাঁরা হুদায়বিয়ার আগে হিজরত করেছেন। কেউ দ্বিতীয় হিজরতের, যাঁরা হুদায়বিয়ার সন্ধির পরে আর মক্কা বিজয়ের আগে এসেছেন। আবার কারও দুটি হিজরত, প্রথমে হাবশায়, তারপর মদীনায়। এ উত্তর অনুযায়ী প্রথম আয়াতের উদ্দেশ্য প্রথম হিজরত, আর দ্বিতীয় আয়াতের উদ্দেশ্য দ্বিতীয় হিজরত। মতটা কার, বাগাভী তা বলেননি। আর নিজের তোলা প্রশ্নের এ ছাড়া অন্য কোনো উত্তরও তিনি দেননি।"
+          },
+          {
+            "en": "At-Tabari uses our verse as evidence in a dispute about 8:72. Because Allah followed those verses with praise of the Muhajirun and the Ansar and with what they have from Him, the alliance there means help and support, not inheritance; had inheritance been meant, what followed would have urged that it be carried out. So, he concludes, nothing in these verses abrogates and nothing is abrogated. Ibn Kathir, in the abridged English on 8:75, reports from Ibn Abbas, Mujahid, Ikrimah, al-Hasan, Qatadah and others that 8:75 abrogated inheriting through treaties and brotherhood. Both readings stand here.",
+            "bn": "৮:৭২ নিয়ে এক বিতর্কে তাবারী আমাদের আয়াতকে প্রমাণ হিসেবে ব্যবহার করেন। তাঁর যুক্তি: ওই আয়াতগুলোর পরপরই আল্লাহ মুহাজির ও আনসারদের প্রশংসা করেছেন, আর তাঁর কাছে তাদের জন্য কী আছে তা জানিয়েছেন। সুতরাং সেখানে বন্ধুত্ব মানে সাহায্য-সহযোগিতা, উত্তরাধিকার নয়। উত্তরাধিকার উদ্দেশ্য হলে পরের কথাটা হতো সেই বিধান কার্যকর করার তাগিদ। তাই তাঁর সিদ্ধান্ত, এ আয়াতগুলোর কোনোটি রহিতকারীও নয়, রহিতও নয়। অন্যদিকে ইবন কাসীর, সংক্ষিপ্ত ইংরেজি সংস্করণে ৮:৭৫ প্রসঙ্গে, ইবন আব্বাস, মুজাহিদ, ইকরিমা, হাসান, কাতাদা ও আরও অনেকের সূত্রে জানান, ৮:৭৫ চুক্তি আর ভ্রাতৃত্বের সূত্রে উত্তরাধিকার পাওয়ার বিধান রহিত করেছে। দুটি মতই এখানে রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sins Covered, a Table Laid",
+          "bn": "ঢাকা গুনাহ, সাজানো দস্তরখান"
+        },
+        "p": [
+          {
+            "en": "Forgiveness comes first in the promise. Ibn Kathir says Allah will reward them with forgiveness and with overlooking sins, if there were any; the condition is his, and it declines to assume a list of faults. As-Sa'di describes what the forgiveness does: by it their bad deeds are wiped away and their slips fade to nothing. In the verse's own order, people who had given so much are promised forgiveness before anything is said of provision.",
+            "bn": "প্রতিশ্রুতিতে ক্ষমার কথা আগে এসেছে। ইবন কাসীর বলেন, আল্লাহ তাদের প্রতিদান দেবেন ক্ষমা দিয়ে, গুনাহ থাকলে তা উপেক্ষা করে দিয়ে। 'থাকলে' শর্তটা তাঁরই। দোষের কোনো ফর্দ তিনি আগেভাগে ধরে নেন না। সা'দী বলেন ক্ষমা কী কাজ করে: এর দ্বারা তাদের মন্দ কাজ মুছে যায়, তাদের ছোটখাটো পদস্খলন মিলিয়ে যায়। আয়াতের নিজের বিন্যাসে দেখা যায়, যারা এত কিছু দিয়েছে, রিজিকের কথা বলার আগে তাদের প্রতিশ্রুতি দেওয়া হয়েছে ক্ষমার।"
+          },
+          {
+            "en": "The noble provision is in Paradise for at-Tabari: food and drink, wholesome and generous, that does not turn to waste in their bodies but leaves them as a sweat like musk. Ibn Kathir adds permanence. It lasts for ever, is never cut off and never runs out, and never wearies anyone, because of its beauty and its variety. As-Sa'di calls it abundant good from the Generous Lord in the gardens of bliss, then adds that some of the reward may come early, enough to cool their eyes and settle their hearts.",
+            "bn": "তাবারীর কাছে সম্মানজনক রিজিক জান্নাতের জিনিস: তৃপ্তিকর আর উত্তম খাবার ও পানীয়, যা শরীরের ভেতরে গিয়ে বর্জ্যে পরিণত হয় না, বরং কস্তুরীর মতো ঘাম হয়ে বেরিয়ে যায়। ইবন কাসীর এতে স্থায়িত্ব যোগ করেন। এ রিজিক চিরকাল থাকবে, কখনো বন্ধ হবে না, ফুরিয়েও যাবে না। আর এর সৌন্দর্য ও বৈচিত্র্যের কারণে কেউ কখনো এতে বিরক্তও হবে না। সা'দী বলেন, নিয়ামতের জান্নাতে মহানুভব রবের পক্ষ থেকে প্রচুর কল্যাণ। তারপর যোগ করেন, প্রতিদানের কিছু অংশ হয়তো আগেই দুনিয়াতে মিলে যায়, যাতে তাদের চোখ জুড়ায়, মন শান্ত হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Emigration Wipes Away",
+          "bn": "হিজরত যা মুছে দেয়"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an attaches to for them is forgiveness the sound reports that Islam demolishes what came before it, and that emigration does the same. Sahih Muslim (121) carries both in one account. Amr ibn al-As (RA), weeping on his deathbed, recalled coming to pledge allegiance and withdrawing his hand because he wanted a condition first: that he be forgiven. The Prophet ﷺ said: \"Are you not aware of the fact that Islam wipes out all the previous (misdeeds)? Verily migration wipes out all the previous (misdeeds), and verily the pilgrimage wipes out all the (previous) misdeeds.\"",
+            "bn": "'তাদের জন্য আছে ক্ষমা' অংশের সঙ্গে মাআরিফুল কুরআন সহীহ বর্ণনা জুড়ে দেয়: ইসলাম আগের সবকিছু ভেঙে দেয়, হিজরতও তাই করে। সহীহ মুসলিমে (১২১) দুটি কথাই একটি ঘটনায় এসেছে। আমর ইবনুল আস (রাঃ) মৃত্যুশয্যায় কাঁদতে কাঁদতে স্মরণ করেন, বাইআত দিতে এসে তিনি হাত গুটিয়ে নিয়েছিলেন, কারণ আগে একটা শর্ত রাখতে চেয়েছিলেন: তাঁকে যেন ক্ষমা করা হয়। নবী ﷺ বললেন: \"তুমি কি জানো না, ইসলাম তার আগের সবকিছু মিটিয়ে দেয়? হিজরত তার আগের সবকিছু মিটিয়ে দেয়, আর হজ তার আগের সবকিছু মিটিয়ে দেয়।\""
+          },
+          {
+            "en": "That narration concerns one man's conversion, not an occasion for this verse, and none of the fetched commentators gives one. Ibn Kathir links the verse to those who come after, citing 9:100 and 59:10, and then a hadith he calls agreed upon, indeed mutawatir. In al-Bukhari (6169), from Abdullah ibn Mas'ud (RA): a man came and said, \"O Allah's Messenger! What do you say about a man who loves some people but cannot catch up with their good deeds?\" He ﷺ said, \"Everyone will be with those whom he loves.\" Ibn Kathir's ungraded narration from Imam Ahmad alone, on alliance, is only mentioned here.",
+            "bn": "বর্ণনাটি একজন মানুষের ইসলাম গ্রহণের ঘটনা, এ আয়াত নাযিলের প্রেক্ষাপট নয়। আর যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের শানে নুযূল উল্লেখ করেনি। ইবন কাসীর আয়াতটিকে পরে আসা মানুষদের সঙ্গে যুক্ত করেন, ৯:১০০ ও ৫৯:১০ উদ্ধৃত করে। তারপর এমন এক হাদীস আনেন, যাকে তিনি বলেন মুত্তাফাক আলাইহ, বরং মুতাওয়াতির। বুখারীতে (৬১৬৯) আব্দুল্লাহ ইবন মাসঊদ (রাঃ) থেকে: এক ব্যক্তি এসে বলল, \"হে আল্লাহর রাসূল! এমন লোক সম্পর্কে আপনি কী বলেন, যে কিছু মানুষকে ভালোবাসে, কিন্তু আমলে তাদের নাগাল পায়নি?\" তিনি ﷺ বললেন, \"মানুষ তার সঙ্গেই থাকবে, যাকে সে ভালোবাসে।\" বন্ধুত্ব বিষয়ে ইমাম আহমাদের একক সূত্রে ইবন কাসীর আরেকটি বর্ণনা আনেন, মান উল্লেখ না করে। এখানে শুধু তার উল্লেখ রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Surah's First and Last Verdict",
+          "bn": "সূরার প্রথম ও শেষ রায়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir notes that the verse affirms their faith as the surah's beginning did, and the echo is exact. 8:2 to 8:4 describe believers whose hearts tremble when Allah is mentioned, whose faith grows when His verses are recited, who rely on their Lord, pray and spend, and then say: those are the believers, truly, with degrees before their Lord, forgiveness and noble provision. The opening verdict rests on what happens in the heart; the closing one rests on what happened to homes and lives. The surah's opening passage and its closing passage arrive at the same four words.",
+            "bn": "ইবন কাসীর লক্ষ করেন, আয়াতটি তাদের ঈমানের সত্যতা ঘোষণা করছে, যেমনটা সূরার শুরুতে এসেছে। প্রতিধ্বনিটা হুবহু। ৮:২ থেকে ৮:৪ আয়াতে এমন মুমিনদের কথা আছে, আল্লাহর নাম নিলে যাদের অন্তর কেঁপে ওঠে, তাঁর আয়াত শুনলে যাদের ঈমান বাড়ে, যারা রবের উপর ভরসা রাখে, নামায কায়েম করে আর খরচ করে। তারপর বলা হয়েছে: তারাই প্রকৃত মুমিন, তাদের জন্য রবের কাছে মর্যাদার স্তর, ক্ষমা আর সম্মানজনক রিজিক। শুরুর রায় দাঁড়িয়ে আছে অন্তরের অবস্থার উপর। শেষের রায় দাঁড়িয়ে আছে ঘরবাড়ি আর জীবনের উপর দিয়ে যা গেছে তার উপর। সূরার শুরুর অংশ আর শেষের অংশ এসে থেমেছে একই চারটি শব্দে।"
+          },
+          {
+            "en": "Two other verses close on a near twin, those are the truthful. 49:15 defines believers as those who believe in Allah and His Messenger, then do not doubt, and strive with their wealth and lives. 59:8 says it of the poor emigrants driven from their homes and property, seeking Allah's bounty and pleasure and supporting Him and His Messenger. 9:100, which Ibn Kathir cites here, opens the circle to those who followed the first Muhajirun and Ansar in excellence. And 59:10 gives the latecomers their words: forgive us and our brothers who preceded us in faith.",
+            "bn": "আরও দুটি আয়াত শেষ হয়েছে প্রায় একই ধরনের কথায়: তারাই সত্যবাদী। ৪৯:১৫ মুমিনের সংজ্ঞা দেয়: যারা আল্লাহ ও তাঁর রাসূলের উপর ঈমান আনে, তারপর আর সন্দেহ করে না, আর সম্পদ ও জীবন দিয়ে জিহাদ করে। ৫৯:৮ এ কথা বলে সেই দরিদ্র মুহাজিরদের সম্পর্কে, যাদের ঘরবাড়ি আর সম্পদ থেকে বের করে দেওয়া হয়েছিল, যারা আল্লাহর অনুগ্রহ ও সন্তুষ্টি চায় আর আল্লাহ ও তাঁর রাসূলকে সাহায্য করে। ইবন কাসীর এখানে যে ৯:১০০ উদ্ধৃত করেন, তা বৃত্তটাকে খুলে দেয় তাদের জন্য, যারা প্রথম মুহাজির ও আনসারদের নিষ্ঠার সঙ্গে অনুসরণ করেছে। আর ৫৯:১০ পরে আসা মানুষদের মুখে কথা তুলে দেয়: আমাদের এবং ঈমানে আমাদের অগ্রবর্তী ভাইদের ক্ষমা করুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Belief You Could Point To",
+          "bn": "যে বিশ্বাস চোখে দেখা যায়"
+        },
+        "p": [
+          {
+            "en": "The verse names one generation at one moment, when emigrating to Madinah was the line between two kinds of believer, and at-Tabari's and Ma'arif's remarks about those who stayed belong to that moment. The verse describes what it describes. It licenses nothing against any living person or community, and it hands no reader a verdict on another Muslim's faith. Two verses earlier, 8:72 still called those who did not emigrate those who believed. Haqqan is a word Allah spoke about particular people; it is not a label for us to hand out.",
+            "bn": "আয়াতটি একটি প্রজন্মের কথা বলছে, এক বিশেষ সময়ে, যখন মদীনায় হিজরত করা না করাই ছিল দুই ধরনের মুমিনের মাঝের সীমারেখা। যারা থেকে গিয়েছিল, তাদের নিয়ে তাবারী আর মাআরিফুল কুরআনের মন্তব্য সেই সময়েরই কথা। আয়াত যা বর্ণনা করে, তা-ই বর্ণনা করে। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। অন্য কোনো মুসলিমের ঈমান নিয়ে রায় দেওয়ার অধিকারও কোনো পাঠককে দেয় না। দুই আয়াত আগে ৮:৭২ হিজরত না করা লোকদেরও বলেছে 'যারা ঈমান এনেছে'। হাক্কা শব্দটা আল্লাহ বলেছেন নির্দিষ্ট মানুষদের সম্পর্কে। এটা আমাদের হাতে বিলি করার তকমা নয়।"
+          },
+          {
+            "en": "What the verse does hand over is a question about one's own faith: what has it moved? The commentators read haqqan as faith shown in deeds, and the deeds they list are not hidden ones. The helpers' half is the easier to carry into an ordinary week. A newcomer to the mosque, a student far from home, a family that has had to leave its country: shelter can be a room, a meal, an afternoon spent on someone's paperwork. Support can be steady money given without being asked twice. None of it needs a battlefield.",
+            "bn": "এ আয়াত যা আমাদের হাতে দেয়, তা নিজের ঈমান নিয়ে একটা প্রশ্ন: এ ঈমান কী নড়িয়েছে? তাফসীরকারেরা হাক্কা বুঝেছেন কাজে প্রকাশ পাওয়া ঈমান হিসেবে, আর যে কাজগুলোর তালিকা তাঁরা দেন, তার কোনোটিই লুকানো কাজ নয়। সাধারণ এক সপ্তাহে আনসারদের অংশটা বহন করা তুলনায় সহজ। মসজিদে নতুন আসা কেউ, বাড়ি থেকে দূরে থাকা কোনো ছাত্র, দেশ ছাড়তে বাধ্য হওয়া কোনো পরিবার। আশ্রয় মানে হতে পারে একটা ঘর, এক বেলার খাবার, কিংবা কারও কাগজপত্র গুছিয়ে দিতে একটা বিকেল খরচ করা। সাহায্য মানে হতে পারে নিয়মিত কিছু টাকা, দ্বিতীয়বার চাওয়ার আগেই দেওয়া। এর কোনোটির জন্যই যুদ্ধের ময়দান লাগে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking to Be Counted True",
+          "bn": "খাঁটিদের দলে গণ্য হওয়ার দোয়া"
+        },
+        "p": [
+          {
+            "en": "None of the commentators fetched here ties a supplication to this verse. The Qur'anic prayer nearest to it is the one Ibn Kathir cites, 59:10: our Lord, forgive us and our brothers who preceded us in faith, and put not in our hearts any resentment toward those who have believed; our Lord, You are Kind and Merciful. One line in the verse's own vocabulary may be added, and it is only that, not a Sunnah du'a: O Allah, make my faith true in what I do, and grant me forgiveness and a noble provision.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো দোয়া যুক্ত করেনি। কুরআনের যে দোয়াটি এর সবচেয়ে কাছে, ইবন কাসীর সেটি এখানেই উদ্ধৃত করেছেন, ৫৯:১০: হে আমাদের রব, আমাদের এবং ঈমানে আমাদের অগ্রবর্তী ভাইদের ক্ষমা করুন, আর মুমিনদের প্রতি আমাদের অন্তরে কোনো বিদ্বেষ রাখবেন না। হে আমাদের রব, নিশ্চয়ই আপনি স্নেহশীল, পরম দয়ালু। আয়াতের নিজের শব্দ দিয়ে একটি বাক্যও যোগ করা যায়, তবে এটা শুধু তাই, সুন্নাহর দোয়া নয়: হে আল্লাহ, আমার কাজ দিয়ে আমার ঈমানকে খাঁটি করে দিন, আর আমাকে ক্ষমা ও সম্মানজনক রিজিক দান করুন।"
+          },
+          {
+            "en": "Some questions to carry. If my faith were judged only by what it has cost me this year, what would the verdict be? Who near me is a newcomer, and have I offered anything a helper would recognise as shelter? When I read the words the believers, truly, do I measure myself, or begin quietly sorting the people around me? I hope for provision; do I hope as hard for forgiveness, which the verse names first?",
+            "bn": "সঙ্গে রাখার মতো কয়েকটি প্রশ্ন। এ বছর আমার ঈমান আমার কাছ থেকে কী দাম নিয়েছে, শুধু তা দিয়ে বিচার হলে রায়টা কী হতো? আমার আশপাশে নতুন আসা মানুষটা কে, আর আনসারদের চোখে আশ্রয় বলে গণ্য হবে এমন কিছু কি আমি তাকে দিয়েছি? প্রকৃত মুমিন কথাটা পড়ে আমি কি নিজেকে মাপি, নাকি চুপচাপ আশপাশের মানুষদের ভাগ করতে শুরু করি? রিজিকের আশা তো করি। আয়াত যে ক্ষমার কথা আগে বলেছে, তার জন্যও কি ততটাই আশা করি?"
+          }
+        ]
+      }
+    ]
   }
 });

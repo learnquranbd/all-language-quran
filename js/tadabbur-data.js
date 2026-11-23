@@ -32123,6 +32123,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Notice the pull toward comfort when a duty calls, name it honestly, and weigh what you keep by staying against what you lose by it.",
     "lessonBn": "দায়িত্বের ডাক এলে আরামের দিকে যে টান অনুভব করেন, সেটা খেয়াল করুন, সৎভাবে তার নাম দিন, আর বসে থেকে যা রাখছেন তা মাপুন যা হারাচ্ছেন তার পাশে রেখে।"
+  },
+  "8:74": {
+    "reflectionEn": "Two verses back, these same people were named to settle who stands with whom. Now the surah names them again, almost word for word, and this time gives a verdict: these are the believers, truly. Those who left their homes for Allah, and those who opened their homes to them. Their faith is called true after it had cost them something anyone could see: a house left behind, a room given away, a battle joined. Then the promise follows, forgiveness and a generous provision. The verse is not a measuring stick for anyone else's faith. It is a question put to mine. What has my belief actually moved in my life, and could anyone watching tell?",
+    "reflectionBn": "দুই আয়াত আগে এই মানুষগুলোর নাম এসেছিল একটা প্রশ্নের মীমাংসায়: কে কার পাশে দাঁড়াবে। এখন সূরা প্রায় একই ভাষায় তাদের আবার ডাকছে, তবে এবার রায় দিয়ে: এরাই প্রকৃত মুমিন। যারা আল্লাহর জন্য ঘর ছেড়েছে, আর যারা তাদের জন্য নিজের ঘরের দরজা খুলে দিয়েছে। তাদের ঈমানকে খাঁটি বলা হলো তখন, যখন সে ঈমানের দাম চোখে দেখা যায়। পেছনে ফেলে আসা বাড়ি, ছেড়ে দেওয়া একটা ঘর, যুদ্ধের ময়দানে গিয়ে দাঁড়ানো। তারপর আসে প্রতিশ্রুতি: ক্ষমা আর সম্মানজনক রিজিক। অন্যের ঈমান মাপার গজকাঠি এ আয়াত নয়। প্রশ্নটা আমার নিজের দিকে। আমার বিশ্বাস আমার জীবনে আসলে কী নড়িয়েছে? বাইরে থেকে কেউ দেখলে কি তা টের পেত?",
+    "pointsEn": [
+      "If someone judged only by what I did last month, what would they conclude I believe?",
+      "Which comfort or habit would I find hardest to leave behind if my faith asked it of me?",
+      "Whom have I sheltered or helped lately, not with words but with my time, my room or my money?",
+      "When I hear the words the believers, truly, do I look first at myself, or start sorting other people?",
+      "Forgiveness comes first in the promise: do I hope for it as eagerly as I hope for the provision?"
+    ],
+    "pointsBn": [
+      "গত মাসে আমি যা করেছি শুধু তা দেখে কেউ বিচার করলে, আমার বিশ্বাস সম্পর্কে সে কী ধারণা করত?",
+      "ঈমান যদি দাবি করে, কোন আরাম বা কোন অভ্যাস ছেড়ে আসা আমার জন্য সবচেয়ে কঠিন হবে?",
+      "সম্প্রতি কাকে আমি আশ্রয় বা সাহায্য দিয়েছি, মুখের কথায় নয়, সময়, জায়গা বা টাকা দিয়ে?",
+      "প্রকৃত মুমিন কথাটা শুনে আমি কি আগে নিজের দিকে তাকাই, নাকি অন্যদের ভাগ করতে বসে যাই?",
+      "প্রতিশ্রুতিতে ক্ষমার কথা আগে এসেছে। রিজিকের জন্য যতটা আশা করি, ক্ষমার জন্য কি ততটা আশা করি?"
+    ],
+    "lessonEn": "Faith is called true here once it has cost something visible; let your deeds carry your belief, and leave the verdict on anyone else's faith to Allah.",
+    "lessonBn": "এখানে ঈমানকে খাঁটি বলা হয়েছে তখন, যখন তার দাম চোখে দেখা গেছে। আপনার আমল যেন আপনার বিশ্বাস বহন করে, আর অন্য কারও ঈমানের রায় আল্লাহর হাতে ছেড়ে দিন।"
   }
 };
 
