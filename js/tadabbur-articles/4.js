@@ -2651,6 +2651,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "4:66": {
+    "sections": [
+      {
+        "h": {
+          "en": "An If After the Oath",
+          "bn": "শপথের পরে একটি 'যদি'"
+        },
+        "p": [
+          {
+            "en": "The verse follows the oath of 4:65, where faith is tied to taking the Messenger ﷺ as judge and accepting his ruling without tightness. That verse has its own place; what matters here is the turn. Having asked for a heart that accepts a ruling, the Qur'an sets beside it a command of a very different weight. Wa-law anna katabna 'alayhim: and had We written upon them. Law, al-Qurtubi notes, is a particle that marks one thing as not happening because another did not happen. The command was never written.",
+            "bn": "আয়াতটি এসেছে ৪:৬৫-এর শপথের ঠিক পরে। সেখানে ঈমানকে বেঁধে দেওয়া হয়েছে রসূল ﷺ-কে বিচারক মানা আর মনে কোনো সংকোচ না রেখে তাঁর ফয়সালা গ্রহণ করার সঙ্গে। সে আয়াতের আলোচনা তার নিজের জায়গায়। এখানে দেখার বিষয় হলো মোড়টা। অন্তর দিয়ে ফয়সালা মেনে নেওয়ার দাবির পাশে কুরআন এবার রাখে সম্পূর্ণ ভিন্ন ওজনের এক আদেশ। ওয়া লাও আন্না কাতাবনা আলাইহিম: আর যদি আমি তাদের উপর লিখে দিতাম। কুরতুবী বলেন, 'লাও' এমন অব্যয়, যা বোঝায় একটি জিনিস ঘটেনি, কারণ অন্যটি ঘটেনি। অর্থাৎ আদেশটি কখনো লেখা হয়নি।"
+          },
+          {
+            "en": "At-Tabari ties the pronoun them straight back to 4:60: those who claim to believe in what was sent down to the Messenger ﷺ and before him, while seeking judgement from taghut. The verse is therefore part of the same address to the people who turned away. The two short verses after it, 4:67 and 4:68, complete the sentence it opens with the reward that would have followed: a great wage from Allah and guidance to a straight path. They are only pointed to here.",
+            "bn": "তাবারী 'তাদের' সর্বনামটিকে সরাসরি ফিরিয়ে নেন ৪:৬০-এ। সেখানে আছে তাদের কথা, যারা দাবি করে রসূল ﷺ-এর উপর এবং তাঁর আগে যা নাযিল হয়েছে তাতে ঈমান এনেছে, অথচ বিচার চাইতে যায় তাগূতের কাছে। তাই এ আয়াত মুখ ফিরিয়ে নেওয়া সেই লোকদের প্রতিই একই সম্বোধনের অংশ। এর পরের ছোট দুটি আয়াত, ৪:৬৭ ও ৪:৬৮, এখানে শুরু হওয়া বাক্যটি শেষ করে, জানিয়ে দেয় কী প্রতিদান মিলত: আল্লাহর কাছ থেকে মহাপুরস্কার আর সরল পথের হিদায়াত। এখানে সে দুটির দিকে শুধু ইশারা করা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Drastic Commands",
+          "bn": "দুটি চরম আদেশ"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi glosses katabna as We had made it obligatory and binding, and at-Tabari reads it the same way: had We imposed it upon them and commanded them to do it. Two commands follow, both drastic. Uqtulu anfusakum: kill yourselves. Ukhruju min diyarikum: go out from your homes. At-Tabari explains the second as leaving one's homes as an emigrant for another land. The negation he gives in full: they would not have killed themselves with their own hands, nor left their homes for Allah and His Messenger, in obedience to them, except a few.",
+            "bn": "বাগাভী 'কাতাবনা'-র অর্থ করেন: আমি ফরজ ও অবশ্যপালনীয় করে দিতাম। তাবারীও একইভাবে পড়েন: যদি আমি তাদের উপর তা চাপিয়ে দিতাম আর সে আদেশ দিতাম। এরপর আসে দুটি আদেশ, দুটিই চরম। উকতুলূ আনফুসাকুম: নিজেদের হত্যা করো। উখরুজূ মিন দিয়ারিকুম: নিজেদের ঘরবাড়ি থেকে বেরিয়ে যাও। দ্বিতীয়টির ব্যাখ্যায় তাবারী বলেন, অর্থাৎ ঘরবাড়ি ছেড়ে হিজরত করে অন্য দেশে চলে যাওয়া। না-বোধক অংশটি তিনি পুরোটা খুলে বলেন: অল্প কয়েকজন ছাড়া তারা নিজের হাতে নিজেদের হত্যা করত না, আল্লাহ ও তাঁর রসূলের আনুগত্যে ঘর ছেড়ে তাঁদের দিকে বেরিয়েও পড়ত না।"
+          },
+          {
+            "en": "Several commentators hear an earlier command in these words. Mujahid, in a report at-Tabari carries, says: as the companions of Musa (AS) were commanded to kill each other with daggers. Al-Baghawi matches each half to the Children of Israel: kill yourselves, as We commanded them, and leave your homes, as We commanded them to leave Egypt. The Muyassar renders the first command as killing each other. The reader can set this beside 2:54, where that earlier command is told; it is cited here, not retold.",
+            "bn": "কয়েকজন তাফসীরকার এ শব্দগুলোর ভেতরে আগের এক আদেশের প্রতিধ্বনি শোনেন। তাবারীর উদ্ধৃত এক বর্ণনায় মুজাহিদ বলেন: যেমন মূসা (আঃ)-এর সঙ্গীদের আদেশ দেওয়া হয়েছিল ছোরা দিয়ে একে অপরকে হত্যা করতে। বাগাভী দুই অংশকেই মিলিয়ে দেন বনী ইসরাঈলের সঙ্গে। নিজেদের হত্যা করো, যেমন আমি তাদের আদেশ দিয়েছিলাম। ঘর ছেড়ে বেরিয়ে যাও, যেমন আমি তাদের মিসর ছেড়ে বেরোতে বলেছিলাম। মুয়াসসার প্রথম আদেশের অর্থ করে একে অপরকে হত্যা করা। পাঠক এর পাশে রাখতে পারেন ২:৫৪, যেখানে আগের সেই আদেশের কথা এসেছে। এখানে শুধু সে আয়াতের উল্লেখ, কাহিনির পুনরাবৃত্তি নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hypocrites, Most People, or Us?",
+          "bn": "মুনাফিক, অধিকাংশ মানুষ, না আমরা?"
+        },
+        "p": [
+          {
+            "en": "The commentators do not agree on how far them reaches. At-Tabari keeps it narrow: those who claim belief while seeking judgement from taghut, and in the second half of the verse he calls them hypocrites who turn away from the Messenger ﷺ. The Muyassar is equally narrow: these hypocrites who take their cases to taghut. On this reading, the verse measures how little weight the claim of faith in 4:60 would bear if it were ever truly tested.",
+            "bn": "'তাদের' কথাটা কত দূর পর্যন্ত বিস্তৃত, এ নিয়ে তাফসীরকারেরা একমত নন। তাবারী একে সংকীর্ণ রাখেন। তাঁর মতে এরা সেই লোক, যারা ঈমানের দাবি করে অথচ বিচার চায় তাগূতের কাছে। আয়াতের দ্বিতীয় অংশের ব্যাখ্যায় তিনি তাদের সরাসরি বলেন মুনাফিক, যারা রসূল ﷺ থেকে মুখ ফিরিয়ে নেয়। মুয়াসসারও একই রকম সংকীর্ণ: তাগূতের কাছে মামলা নিয়ে যাওয়া এই মুনাফিকরা। এ পাঠে আয়াতটি মেপে দেখায়, ৪:৬০-এর সেই ঈমানের দাবি সত্যিকারের পরীক্ষায় পড়লে কতটুকু ভার বইতে পারত।"
+          },
+          {
+            "en": "Ibn Kathir reads it wider. Allah informs about most people, he writes, that if they were commanded to do the very forbidden things they already commit, they would not do them, since their base natures are disposed to oppose a command. He adds that this belongs to Allah's knowledge of what did not happen, and of how it would have been had it happened. Ma'arif al-Qur'an allows both: these hypocrites, or people at large, believers or not, would rarely carry out such an order. The difference is kept here as it stands.",
+            "bn": "ইবন কাসীর একে প্রশস্ত অর্থে পড়েন। তিনি লেখেন, আল্লাহ এখানে অধিকাংশ মানুষ সম্পর্কে জানাচ্ছেন। যে নিষিদ্ধ কাজ তারা এমনিতেই করে, সেটাই যদি তাদের আদেশ হিসেবে দেওয়া হত, তবু তারা তা করত না। কারণ তাদের হীন স্বভাব আদেশের বিরোধিতার দিকেই ঝোঁকে। তিনি আরও বলেন, এটি আল্লাহর সেই জ্ঞানের অংশ, যা জানে কী ঘটেনি, আর ঘটলে কেমন হত। মাআরিফুল কুরআন দুটোকেই জায়গা দেয়: এই মুনাফিকরা হোক বা সাধারণ মানুষ, মুমিন হোক বা না হোক, খুব কম লোকই এমন আদেশ পালন করত। মতভেদটি এখানে যেমন আছে তেমনই রাখা হলো।"
+          },
+          {
+            "en": "Al-Qurtubi turns the verse towards the reader. Allah has told us, he writes, that He did not write this upon us, out of gentleness with us, lest our disobedience become manifest. Then he asks how many commands we have fallen short of despite their lightness, so what of this one with all its weight? He adds a counterweight: the Emigrants did leave their dwellings empty and went out seeking a life of contentment. As-Sa'di likewise speaks of Allah's servants in general: had such burdensome commands been written, only the few and the rare would have done them.",
+            "bn": "কুরতুবী আয়াতটিকে ঘুরিয়ে দেন পাঠকের দিকে। তিনি লেখেন, আল্লাহ আমাদের জানিয়েছেন যে আমাদের প্রতি কোমলতা দেখিয়েই তিনি এটা আমাদের উপর লেখেননি, যাতে আমাদের নাফরমানি প্রকাশ হয়ে না পড়ে। তারপর তাঁর প্রশ্ন: হালকা হওয়া সত্ত্বেও কত আদেশ পালনে আমরা পিছিয়ে থেকেছি, তাহলে এত ভারী আদেশে কী হত? এর পাশে তিনি একটা ভারসাম্যও রাখেন। মুহাজিররা সত্যিই নিজেদের ঘর খালি ফেলে রেখে বেরিয়ে পড়েছিলেন, সন্তুষ্টির জীবন খুঁজতে। সা'দীও কথা বলেন আল্লাহর বান্দাদের নিয়ে সাধারণভাবে: এমন কঠিন আদেশ লেখা হলে অল্প কয়েকজন আর বিরল কিছু লোক ছাড়া কেউ তা করত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qalilun or Qalilan",
+          "bn": "কালীলুন, নাকি কালীলান"
+        },
+        "p": [
+          {
+            "en": "Illa qalilun minhum: except a few of them. Most readers recite qalilun, in the nominative. Al-Qurtubi and al-Baghawi report that Abdullah ibn Amir read illa qalilan, in the accusative, as a plain exception, and that it is written so in the copies of the people of Sham; al-Qurtubi names Isa ibn Umar with him. At-Tabari also records that the Shami copies have qalilan, and says that whoever recites it so is at no fault in its grammar, for that is the familiar usage of the Arabs.",
+            "bn": "ইল্লা কালীলুম মিনহুম: তাদের অল্প কয়েকজন ছাড়া। অধিকাংশ কারী পড়েন 'কালীলুন', পেশ দিয়ে। কুরতুবী ও বাগাভী জানান, আব্দুল্লাহ ইবন আমির পড়েছেন 'ইল্লা কালীলান', যবর দিয়ে, সাধারণ ইসতিসনা হিসেবে। শামবাসীদের মুসহাফেও এভাবেই লেখা আছে। কুরতুবী ইবন আমিরের সঙ্গে ঈসা ইবন উমারের নামও উল্লেখ করেন। তাবারীও লিখেছেন, শামের মুসহাফে আছে 'কালীলান'। তাঁর মতে কেউ এভাবে পড়লে ব্যাকরণের দিক থেকে তার কোনো দোষ নেই, কারণ আরবদের ভাষায় এটাই প্রচলিত রীতি।"
+          },
+          {
+            "en": "On the nominative, the grammarians at-Tabari cites differ. Some Basrans take qalil as a substitute for the hidden subject in fa'aluhu; some Kufans take it as a verb repeated in sense: none did it, none did it but a few. At-Tabari prefers to say it is nominative by the meaning the phrase itself points to: none would have done it except a few. Al-Qurtubi reports that all the grammarians judge the nominative the better reading, because the wording takes precedence over the sense. Either way the claim stands: the doers would be few.",
+            "bn": "পেশের ব্যাখ্যায় তাবারীর উদ্ধৃত ব্যাকরণবিদেরা ভিন্ন ভিন্ন কথা বলেন। বসরার কেউ কেউ 'কালীল'-কে 'ফাআলূহু'-র ভেতরে লুকানো কর্তার বদল ধরেন। কুফার কেউ কেউ ধরেন, ক্রিয়াটি অর্থের দিক থেকে দুবার এসেছে: কেউ করত না, অল্প কয়েকজন ছাড়া কেউ করত না। তাবারী নিজে বলেন, বাক্যটি যে অর্থের দিকে ইঙ্গিত করে, পেশ এসেছে সেই অর্থ থেকেই: অল্প কয়েকজন ছাড়া কেউ তা করত না। কুরতুবী জানান, সব ব্যাকরণবিদের কাছে পেশই উত্তম, কারণ শব্দের রূপ অর্থের আগে বিবেচ্য। যেভাবেই পড়া হোক, কথাটা একই থাকে: পালনকারী হত খুব কম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Who Said: We Would",
+          "bn": "যাঁরা বলেছিলেন: আমরা করতাম"
+        },
+        "p": [
+          {
+            "en": "The tafsirs relay several reports about what was said when the verse came, and none is an established cause of revelation. At-Tabari carries from as-Suddi that Thabit ibn Qays ibn Shammas (RA) and a Jewish man boasted against each other: the Jewish man said killing had been written upon his people and they had done it, and Thabit said that had it been written upon us, we would have done it too. Ibn Kathir relays the same through Ibn Abi Hatim, al-Qurtubi gives it as something narrated, and al-Baghawi says the verse came down about Thabit.",
+            "bn": "আয়াতটি নাযিল হলে কে কী বলেছিলেন, তা নিয়ে তাফসীরগুলোতে কয়েকটি বর্ণনা আছে। এর কোনোটিই প্রতিষ্ঠিত শানে নুযূল নয়। তাবারী সুদ্দী থেকে বর্ণনা করেন, সাবিত ইবন কায়স ইবন শাম্মাস (রাঃ) আর এক ইহুদি ব্যক্তি পরস্পরের সঙ্গে গর্ব করছিলেন। ইহুদি লোকটি বলল, তাদের উপর নিজেদের হত্যার আদেশ লেখা হয়েছিল, আর তারা তা করেছিল। সাবিত বললেন, আমাদের উপর লেখা হলে আমরাও করতাম। ইবন কাসীর একই কথা আনেন ইবন আবী হাতিমের সূত্রে, কুরতুবী আনেন 'বর্ণিত আছে' বলে, আর বাগাভী বলেন আয়াতটি সাবিতের ব্যাপারে নাযিল হয়েছে।"
+          },
+          {
+            "en": "Other names appear. At-Tabari carries from Abu Ishaq as-Sabi'i that a man said: had we been commanded we would have done it, and praise be to Allah who spared us. Al-Qurtubi records that Malik named that man as Abu Bakr (RA), that an-Naqqash named Umar (RA), and that Abu al-Layth as-Samarqandi named Ammar ibn Yasir, Ibn Mas'ud and Thabit ibn Qays. Al-Baghawi, from al-Hasan and Muqatil, names Umar, Ammar and Ibn Mas'ud among other Companions, and calls them the few. The names vary, and these pages give the reports no grading.",
+            "bn": "আরও কিছু নাম আসে। তাবারী আবূ ইসহাক আস-সাবিঈ থেকে বর্ণনা করেন, এক ব্যক্তি বলেছিলেন: আমাদের আদেশ দেওয়া হলে আমরা করতাম, আর সব প্রশংসা আল্লাহর, যিনি আমাদের রেহাই দিয়েছেন। কুরতুবী লিখেছেন, ইমাম মালিক সেই ব্যক্তিকে আবূ বকর (রাঃ) বলে চিহ্নিত করেছেন, নাক্কাশ বলেছেন উমার (রাঃ), আর আবুল লাইস সামারকান্দী নাম নিয়েছেন আম্মার ইবন ইয়াসির, ইবন মাসউদ ও সাবিত ইবন কায়সের। বাগাভী হাসান ও মুকাতিলের সূত্রে আরও কিছু সাহাবীর সঙ্গে উমার, আম্মার ও ইবন মাসউদের নাম আনেন এবং তাঁদেরই বলেন সেই অল্প কয়েকজন। নামগুলো এক নয়, আর এসব বর্ণনার কোনো মান এ পাতাগুলোতে দেওয়া নেই।"
+          },
+          {
+            "en": "Several of these reports end with words attributed to the Prophet ﷺ about the faith of some of his community, and others have him name a single Companion as one of the few. They reach the tafsirs from Abu Ishaq, al-Hasan, Amir ibn Abdullah ibn az-Zubayr, Sufyan and Shurayh ibn Ubayd, relayed by at-Tabari and Ibn Abi Hatim, with no grading in the texts fetched, so they are not quoted or built on here. No tafsir fetched attaches a sound hadith to this verse. The boast licenses nothing against any Jewish person or community today, and the verse's words about hypocrites name no living person.",
+            "bn": "এসব বর্ণনার কয়েকটির শেষে নবী ﷺ-এর নামে তাঁর উম্মতের কিছু লোকের ঈমান নিয়ে একটি কথা আছে। আবার কয়েকটিতে আছে, তিনি একজন নির্দিষ্ট সাহাবীকে সেই অল্প কয়েকজনের একজন বলে উল্লেখ করেছেন। এগুলো তাফসীরে এসেছে আবূ ইসহাক, হাসান, আমির ইবন আব্দুল্লাহ ইবনুয যুবাইর, সুফইয়ান ও শুরাইহ ইবন উবাইদ থেকে, তাবারী ও ইবন আবী হাতিমের মাধ্যমে। সংগৃহীত লেখাগুলোতে এদের কোনো মান উল্লেখ নেই, তাই এখানে এগুলো উদ্ধৃত করা হয়নি, এর উপর কিছু দাঁড় করানোও হয়নি। সংগৃহীত কোনো তাফসীর এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। ওই গর্বের ঘটনা আজকের কোনো ইহুদি ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না। মুনাফিকদের নিয়ে আয়াতের কথাও কোনো জীবিত মানুষকে চিহ্নিত করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counsel That Sets the Feet",
+          "bn": "যে উপদেশ পা মজবুত করে"
+        },
+        "p": [
+          {
+            "en": "The second half turns from the imagined to the real: had they done ma yu'azuna bihi, what they are exhorted with. At-Tabari reads it as what they are reminded of, obedience to Allah and stopping at His command; al-Baghawi as obedience to the Messenger and contentment with his judgement, which ties back to 4:65; Ibn Kathir as doing what they are commanded and leaving what they are forbidden. It would have been khayran lahum, better for them, and at-Tabari and al-Qurtubi both add: in this world and the next.",
+            "bn": "আয়াতের দ্বিতীয় অংশ কল্পনা থেকে ফিরে আসে বাস্তবে: যদি তারা করত 'মা ইউআযূনা বিহী', যে উপদেশ তাদের দেওয়া হয়। তাবারীর মতে এর অর্থ, যা তাদের স্মরণ করিয়ে দেওয়া হয়: আল্লাহর আনুগত্য আর তাঁর আদেশের কাছে থেমে যাওয়া। বাগাভীর মতে রসূলের আনুগত্য আর তাঁর ফয়সালায় সন্তুষ্ট থাকা, যা ৪:৬৫-এর সঙ্গে জুড়ে যায়। ইবন কাসীরের মতে আদেশ পালন করা আর নিষেধ থেকে দূরে থাকা। তাহলে তা হত 'খাইরাল লাহুম', তাদের জন্য উত্তম। তাবারী ও কুরতুবী দুজনেই যোগ করেন: দুনিয়াতেও, আখিরাতেও।"
+          },
+          {
+            "en": "Ashadda tathbitan: firmer in fixing them. As-Suddi, relayed by at-Tabari and Ibn Kathir, says it means firmer in tasdiq, in holding it true; al-Baghawi joins realisation to that belief, and al-Qurtubi says firmer upon the truth. At-Tabari explains why. The hypocrite works upon doubt, so his work goes to waste, his toil dissolves into dust, and he labours in weariness and weakness. Had he worked with clear sight, he would have earned a reward and a store with Allah, and been stronger in his work and firmer in himself.",
+            "bn": "আশাদ্দা তাসবীতা: আরও বেশি দৃঢ় করে দিত। তাবারী ও ইবন কাসীর সুদ্দী থেকে আনেন, এর অর্থ সত্য বলে মেনে নেওয়ায় আরও দৃঢ়। বাগাভী এই বিশ্বাসের সঙ্গে যোগ করেন বাস্তবে প্রমাণিত হওয়ার কথা, আর কুরতুবী বলেন: হকের উপর আরও দৃঢ়। কেন এমন হয়, তাবারী তা বুঝিয়ে বলেন। মুনাফিক কাজ করে সন্দেহের উপর দাঁড়িয়ে। তাই তার আমল বৃথা যায়, তার খাটুনি মিলিয়ে গিয়ে ধুলো হয়ে যায়, আর সে কাজ করে ক্লান্তি ও দুর্বলতা নিয়ে। যদি সে পরিষ্কার দৃষ্টি নিয়ে কাজ করত, তবে আমলের বিনিময়ে প্রতিদান পেত, আল্লাহর কাছে তার সঞ্চয় জমা থাকত, কাজে সে হত আরও শক্ত, আর নিজের মধ্যে আরও স্থির।"
+          },
+          {
+            "en": "As-Sa'di widens the firmness. Allah makes firm those who believe because of the faith they carry out, he writes: in this life when trials come through commands, prohibitions and calamities, so that they are helped to patience, contentment or gratitude, and firm upon the religion at death and in the grave. He adds a quieter mechanism: whoever keeps doing what he is commanded goes on training himself in it until he grows used to it and longs for it and for more like it. Obedience, on this reading, builds the strength for further obedience.",
+            "bn": "সা'দী দৃঢ়তার পরিধি আরও বাড়িয়ে দেন। তিনি লেখেন, ঈমানদাররা যে ঈমান বাস্তবে পালন করে, তার কারণেই আল্লাহ তাদের দৃঢ় রাখেন। দুনিয়ার জীবনে আদেশ, নিষেধ আর বিপদের ভেতর দিয়ে যখন পরীক্ষা আসে, তখন তারা সবর, সন্তুষ্টি বা শোকরের তাওফীক পায়। আর মৃত্যুর সময় ও কবরে তারা দ্বীনের উপর অটল থাকে। এর সঙ্গে তিনি একটা নিঃশব্দ নিয়মের কথাও বলেন। যে বান্দা আদেশ পালন করতে থাকে, সে নিজেকে তাতে অভ্যস্ত করে তোলে, একসময় তা তার আপন হয়ে যায়, আর সে এমন আরও কাজের জন্য আকুল হয়। এ পাঠে আনুগত্যই পরের আনুগত্যের শক্তি তৈরি করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses That Share the Word",
+          "bn": "একই শব্দের আরও আয়াত"
+        },
+        "p": [
+          {
+            "en": "Three passages stand near this one. 2:54 tells the command given to the people of Musa (AS), which several commentators here hear in kill yourselves. 2:265 uses the same root, tathbitan, for those who spend seeking Allah's pleasure and to make their own souls firm; at-Tabari sets it beside this verse himself. And 14:27 says that Allah makes firm those who believe with the firm word, in the life of this world and in the Hereafter, words that as-Sa'di's explanation of firmness closely echoes.",
+            "bn": "কাছাকাছি তিনটি আয়াত এর পাশে রাখা যায়। ২:৫৪ মূসা (আঃ)-এর কওমকে দেওয়া সেই আদেশের কথা বলে, যা এখানকার কয়েকজন তাফসীরকার 'নিজেদের হত্যা করো' কথাটার ভেতরে শুনতে পান। ২:২৬৫ একই ধাতু থেকে 'তাসবীতান' শব্দ ব্যবহার করে তাদের জন্য, যারা আল্লাহর সন্তুষ্টি চেয়ে আর নিজেদের অন্তর মজবুত করতে খরচ করে। তাবারী নিজেই সে আয়াতকে এর পাশে রেখেছেন। আর ১৪:২৭ বলে, যারা ঈমান এনেছে, আল্লাহ তাদের দুনিয়ার জীবনে ও আখিরাতে মজবুত কথার উপর অটল রাখেন। সা'দীর ব্যাখ্যায় দৃঢ়তার যে বর্ণনা, তা এ আয়াতের কথারই খুব কাছাকাছি।"
+          },
+          {
+            "en": "On the lightness of what is actually asked, 2:286 says that Allah does not burden a soul beyond its capacity. A general narration, which no tafsir fetched attaches to this verse, carries the same spirit. Al-Bukhari (7288) records from Abu Hurayra (RA) that the Prophet ﷺ said: \"Leave me as I leave you, for the people who were before you were ruined because of their questions and their differences over their prophets. So, if I forbid you to do something, then keep away from it. And if I order you to do something, then do of it as much as you can.\"",
+            "bn": "আসলে যা চাওয়া হয়েছে তা কত হালকা, এ বিষয়ে ২:২৮৬ বলে, আল্লাহ কারও উপর তার সাধ্যের বাইরে বোঝা চাপান না। একটি সাধারণ হাদীসেও একই সুর পাওয়া যায়, যদিও সংগৃহীত কোনো তাফসীর একে এ আয়াতের সঙ্গে যুক্ত করেনি। বুখারী (৭২৮৮) আবূ হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: \"আমি যতক্ষণ তোমাদের ছেড়ে রাখি, তোমরাও আমাকে ছেড়ে রাখো। তোমাদের আগের লোকেরা ধ্বংস হয়েছে তাদের প্রশ্নের কারণে আর নবীদের সঙ্গে মতবিরোধের কারণে। তাই আমি যখন তোমাদের কোনো কিছু থেকে নিষেধ করি, তা থেকে দূরে থাকো। আর যখন কোনো কাজের আদেশ দিই, সাধ্যমতো তা পালন করো।\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Duty Already in Hand",
+          "bn": "হাতের কাছের দায়িত্ব"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws two lessons for daily life. The first is gratitude: the servant should praise his Lord for making easy what He did command, and keep in view the opposite of the hardships he is spared, so that worship feels light and his thanks grow. The second is focus. What a servant is exhorted with, he says, is what is assigned at each time according to that time. Complete the duty in front of you and rise step by step, rather than straining after what you have not reached and have not yet been commanded, which scatters resolve and breeds laziness.",
+            "bn": "সা'দী রোজকার জীবনের জন্য দুটি শিক্ষা বের করেন। প্রথমটি শোকর। আল্লাহ যা আদেশ করেছেন তা সহজ করে দিয়েছেন, এর জন্য বান্দার উচিত রবের প্রশংসা করা। যে কষ্ট থেকে তাকে রেহাই দেওয়া হয়েছে, তার উল্টো ছবিটা চোখের সামনে রাখা উচিত, তাহলে ইবাদত হালকা লাগবে, আর শোকর বাড়বে। দ্বিতীয়টি মনোযোগ। তাঁর মতে উপদেশ বলতে বোঝায় প্রতিটি সময়ে সেই সময়ের উপযোগী যা দায়িত্ব দেওয়া হয়েছে। সামনের দায়িত্বটা পুরো করুন, তারপর ধাপে ধাপে উপরে উঠুন। যেখানে এখনো পৌঁছাননি, যার আদেশও এখনো আসেনি, তার পেছনে ছুটলে মনোযোগ ছড়িয়ে যায়, আর আসে অলসতা।"
+          },
+          {
+            "en": "In plain terms: the prayer due now, the debt that can be paid this month, the ruling of 4:65 accepted in a real dispute, the word of counsel already heard and not yet acted on. Al-Qurtubi's question can be asked of oneself quietly: how many light things have I left undone? The imagined command is not a test anyone is set today, and the verse gives no one licence to harm himself or to demand such proof from others. Its weight is there to show how light the rest is, and how much firmness waits in doing it.",
+            "bn": "সোজা কথায়: এখন যে নামাজের সময় হয়েছে, এ মাসেই যে ঋণ শোধ করা যায়, বাস্তব কোনো বিবাদে ৪:৬৫-এর ফয়সালা মেনে নেওয়া, যে উপদেশ আগেই শুনেছি অথচ এখনো আমলে আনিনি। কুরতুবীর প্রশ্নটা নিজেকে চুপচাপ করা যায়: কত হালকা কাজ আমি করিনি? কাল্পনিক আদেশটি আজ কারও উপর চাপানো কোনো পরীক্ষা নয়। এ আয়াত কাউকে নিজের ক্ষতি করার অনুমতি দেয় না, অন্যের কাছে এমন প্রমাণ দাবি করারও অনুমতি দেয় না। তার ভার দেখানোর উদ্দেশ্য একটাই: বাকি সব কত হালকা, আর তা পালনে কত দৃঢ়তা অপেক্ষা করছে।"
+          }
+        ]
+      }
+    ]
+  },
   "4:69-70": {
     "sections": [
       {

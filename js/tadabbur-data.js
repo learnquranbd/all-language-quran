@@ -30823,6 +30823,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Take the place you are given as a trust, hold it when others drift away, and speak in every counsel knowing that Allah hears the words and knows the hearts.",
     "lessonBn": "যে জায়গায় আপনাকে দাঁড় করানো হয়েছে তা আমানত হিসেবে নিন, অন্যরা সরে গেলেও ধরে রাখুন, আর প্রতিটি পরামর্শে কথা বলুন এই মনে রেখে যে আল্লাহ কথা শোনেন, অন্তরও জানেন।"
+  },
+  "4:66": {
+    "reflectionEn": "The verse imagines a command that was never given: kill yourselves, or leave your homes. Only a few, it says, would have carried it out. Then it turns to what was actually asked, the plain counsel people hear again and again, and says that doing it would have been better for them and would have set their feet more firmly. The weight of the imagined order shows how light the real ones are. I am not asked today to give up my life or my house. I am asked to pray on time, to settle a dispute fairly, to keep my word. If I stumble over these, what would I have done with the heavier test? And how much firmness am I losing by leaving the light ones undone?",
+    "reflectionBn": "আয়াতটি এমন এক আদেশের কথা কল্পনা করে, যা কখনো দেওয়া হয়নি: নিজেদের হত্যা করো, অথবা ঘরবাড়ি ছেড়ে বেরিয়ে যাও। আয়াত বলছে, অল্প কয়েকজন ছাড়া কেউ তা পালন করত না। তারপর আয়াত ফিরে আসে আসল দাবির দিকে, সেই সাদামাটা উপদেশের দিকে, যা মানুষ বারবার শোনে। সেটুকু পালন করলেই তাদের জন্য ভালো হত, আর তাদের পা আরও মজবুত হয়ে মাটিতে বসত। কাল্পনিক আদেশের ভার দেখিয়ে দেয়, আসল আদেশগুলো কত হালকা। আজ আমার কাছে জান বা ঘর চাওয়া হয়নি। চাওয়া হয়েছে সময়মতো নামাজ, ন্যায্যভাবে বিবাদের মীমাংসা, দেওয়া কথা রাখা। এগুলোতেই যদি হোঁচট খাই, তবে ভারী পরীক্ষায় আমি কী করতাম? আর হালকা কাজগুলো ফেলে রেখে কতটা দৃঢ়তা আমি হারাচ্ছি?",
+    "pointsEn": [
+      "Which instruction have I heard many times and still not acted on, and what would it cost me to begin today?",
+      "When I tell myself I would have been among the few, what does my record with small, easy commands say?",
+      "Do I thank Allah for the lightness of what He has asked of me, or do I mostly notice what feels heavy?",
+      "Is there one duty in front of me now that I keep postponing while I dream of greater deeds I have not been asked to do?",
+      "Where in my life has a steady act of obedience already made the next one easier?"
+    ],
+    "pointsBn": [
+      "কোন নির্দেশটা আমি বহুবার শুনেছি, অথচ এখনো আমলে আনিনি? আজ শুরু করলে আমার কী এমন খরচ হবে?",
+      "মনে মনে যখন ভাবি, আমিও সেই অল্প কয়েকজনের মধ্যে থাকতাম, তখন ছোট আর সহজ আদেশগুলোর বেলায় আমার আমলনামা কী বলে?",
+      "আল্লাহ যা চেয়েছেন তা কত হালকা, এর জন্য কি আমি তাঁর শুকরিয়া আদায় করি? নাকি শুধু ভারী জিনিসগুলোই চোখে পড়ে?",
+      "সামনে এমন কোনো দায়িত্ব কি পড়ে আছে, যা বারবার পিছিয়ে দিচ্ছি, আর ভাবছি এমন বড় বড় কাজের কথা, যা আমার কাছে চাওয়াই হয়নি?",
+      "জীবনের কোথায় একটা নিয়মিত আনুগত্য পরেরটাকে সহজ করে দিয়েছে?"
+    ],
+    "lessonEn": "Do the light commands you have actually been given, thank Allah that heavier ones were not written, and let each act of obedience make your footing firmer.",
+    "lessonBn": "যে হালকা আদেশগুলো সত্যিই আপনাকে দেওয়া হয়েছে, সেগুলো পালন করুন, ভারী আদেশ লেখা হয়নি বলে আল্লাহর শুকরিয়া করুন, আর প্রতিটি আনুগত্য দিয়ে নিজের পা আরও মজবুত করুন।"
   }
 };
 
