@@ -2179,6 +2179,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "15:47": {
+    "sections": [
+      {
+        "h": {
+          "en": "Between the Greeting and Forever",
+          "bn": "সালামের পরে, চিরকালের আগে"
+        },
+        "p": [
+          {
+            "en": "Wa-naza'na ma fi sudurihim min ghillin, ikhwanan 'ala sururin mutaqabilin: and We will remove whatever rancour is in their breasts, brothers on couches facing one another. Ten Arabic words, set in the middle of a short run. In 15:45 the muttaqin are in gardens and springs; in 15:46 they are told to enter in peace and safety; after this verse, 15:48 says no fatigue will touch them and they will never be put out.",
+            "bn": "ওয়া নাযা'না মা ফী সুদূরিহিম মিন গিল্লিন, ইখওয়ানান আলা সুরুরিম মুতাকাবিলীন: তাদের বুকে যত বিদ্বেষ আছে, আমি তা বের করে দেব। ভাই ভাই হয়ে তারা আসনে বসবে মুখোমুখি। আরবিতে দশটি শব্দ, আর আয়াতটি বসে আছে ছোট একটি ধারার মাঝখানে। ১৫:৪৫ আয়াতে মুত্তাকীরা বাগান আর ঝরনার মাঝে। ১৫:৪৬ আয়াতে তাদের বলা হয় শান্তি ও নিরাপত্তার সঙ্গে প্রবেশ করতে। এ আয়াতের পরে ১৫:৪৮ জানায়, সেখানে কোনো ক্লান্তি তাদের ছোঁবে না, আর সেখান থেকে তাদের কখনো বের করা হবে না।"
+          },
+          {
+            "en": "At-Tabari ties the pronoun to that group. We brought out, he paraphrases, from the breasts of these muttaqin whose quality has been described, the hiqd and daghina, the rancour and malice, that they held against each other. So the people whose hearts are cleaned are the people who were just told to enter in peace. The same opening words, wa-naza'na ma fi sudurihim min ghill, also begin 7:43, which is worth reading alongside it.",
+            "bn": "তাবারী সর্বনামটিকে এই দলের সঙ্গেই জুড়ে দেন। তাঁর ব্যাখ্যায়: যে মুত্তাকীদের গুণের বর্ণনা এইমাত্র দেওয়া হলো, তাদের বুক থেকে আমি বের করে দিলাম হিকদ আর দাগীনা, মানে একে অপরের প্রতি পুষে রাখা বিদ্বেষ ও আক্রোশ। তাহলে যাদের অন্তর পরিষ্কার করা হচ্ছে, তারা সেই লোকেরাই, যাদের এইমাত্র শান্তির সঙ্গে প্রবেশ করতে বলা হলো। ঠিক এই শব্দগুলো দিয়েই, ওয়া নাযা'না মা ফী সুদূরিহিম মিন গিল, শুরু হয়েছে ৭:৪৩ আয়াতও। দুটো আয়াত পাশাপাশি রেখে পড়ার মতো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rancour Under Several Names",
+          "bn": "বিদ্বেষের কয়েকটি নাম"
+        },
+        "p": [
+          {
+            "en": "Ghill is the verse's word, and the commentators gloss it by setting near-synonyms side by side. At-Tabari gives hiqd and daghina, rancour and malice, then relays three short reports that say only al-'adawa, enmity: from Sufyan ibn 'Uyayna, from ad-Dahhak, and from 'Ali through an unnamed man. Al-Baghawi lists four: ash-shahna', al-'adawa, al-hiqd and al-hasad, ill will, enmity, rancour and envy. The Muyassar keeps two, hiqd and 'adawa, and al-Qurtubi gives the same pair.",
+            "bn": "আয়াতের শব্দটি গিল। তাফসীরকারেরা এর ব্যাখ্যায় কাছাকাছি অর্থের শব্দ পাশাপাশি সাজান। তাবারী বলেন হিকদ ও দাগীনা, অর্থাৎ বিদ্বেষ ও আক্রোশ। তারপর তিনটি ছোট বর্ণনা আনেন, যেগুলো শুধু বলে আল-আদাওয়া, শত্রুতা: সুফিয়ান ইবন উয়াইনা থেকে, দাহহাক থেকে, আর এক অনামা ব্যক্তির সূত্রে আলী (রাঃ) থেকে। বাগাভী চারটি শব্দ গোনেন: শাহনা, আদাওয়া, হিকদ আর হাসাদ, মানে বৈরিতা, শত্রুতা, বিদ্বেষ আর হিংসা। মুয়াসসার রাখে দুটি, হিকদ ও আদাওয়া। কুরতুবীও এই জোড়াটিই বলেন।"
+          },
+          {
+            "en": "As-Sa'di describes the result rather than the thing removed. Their hearts remain sound, he says, free of every daghal and every envy, clear towards one another and full of love. Al-Qurtubi adds a note on the word's family. From the same letters come the verb for harbouring rancour, the verb for ghulul, which he defines as stealing from the spoils of war, and the form aghalla, to betray a trust.",
+            "bn": "সা'দী সরানো জিনিসটার চেয়ে ফলাফলের কথা বেশি বলেন। তাঁর ভাষায়, তাদের অন্তর থেকে যায় নিরাপদ, সব রকম দাগাল আর হিংসা থেকে মুক্ত। একে অপরের প্রতি তারা পরিষ্কার মনের, পরস্পরকে ভালোবাসে। কুরতুবী শব্দটির পরিবার নিয়ে একটি টীকা যোগ করেন। একই অক্ষরগুলো থেকে এসেছে বিদ্বেষ পোষার ক্রিয়া, গুলূলের ক্রিয়া, যার সংজ্ঞা তিনি দেন গনীমতের মাল চুরি, আর আগাল্লা রূপটি, যার অর্থ আমানতের খেয়ানত।"
+          },
+          {
+            "en": "The verb is plain too. At-Tabari and al-Baghawi both gloss naza'na with akhrajna, We brought out. Something is taken out that was really there. The phrase ma fi sudurihim, what is in their breasts, does not pretend that the people of the Garden never felt anything against each other in this world. It says that whatever they felt will not come in with them to stay.",
+            "bn": "ক্রিয়াটিও সোজা। তাবারী ও বাগাভী দুজনেই নাযা'নার ব্যাখ্যা দেন আখরাজনা দিয়ে, মানে আমি বের করে আনলাম। যা সত্যিই ভেতরে ছিল, তা-ই বের করা হচ্ছে। মা ফী সুদূরিহিম, তাদের বুকে যা আছে, কথাটা এমন ভান করে না যে জান্নাতবাসীরা দুনিয়ায় কখনো একে অপরের উপর মনে কিছু রাখেনি। কথাটা বলে, মনে যা-ই তারা রেখে থাকুক, তা তাদের সঙ্গে ভেতরে ঢুকে থেকে যাবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Gate or Within",
+          "bn": "দরজার আগে, না ভেতরে গিয়ে"
+        },
+        "p": [
+          {
+            "en": "When is the rancour taken out? At-Tabari says that the people of interpretation differed over the state in which Allah removes it, and he begins with those who said it happens after they enter the Garden. His report is from Abu Umamah: the people of the Garden enter it with the ill will and grudges they held in this world, and when they have gathered and faced each other, Allah removes the rancour from their breasts. Then Abu Umamah recited the verse.",
+            "bn": "বিদ্বেষ বের করা হয় কখন? তাবারী জানান, আল্লাহ কোন অবস্থায় তা সরিয়ে নেন, তা নিয়ে তাফসীরবিদদের মধ্যে মতভেদ আছে। তিনি শুরু করেন তাদের দিয়ে, যারা বলেছেন জান্নাতে প্রবেশের পরে। তাঁর বর্ণনাটি আবু উমামা (রাঃ) থেকে: জান্নাতবাসীরা দুনিয়ার বৈরিতা আর ক্ষোভ বুকে নিয়েই জান্নাতে ঢুকবে। তারপর যখন সবাই একত্র হবে, মুখোমুখি হবে, আল্লাহ তাদের বুক থেকে বিদ্বেষ বের করে দেবেন। এরপর আবু উমামা (রাঃ) আয়াতটি পড়লেন।"
+          },
+          {
+            "en": "Ibn Kathir quotes the same report and then weighs it: al-Qasim ibn 'Abd ar-Rahman, he says, is weak in what he relays from Abu Umamah. He sets beside it a second line from Abu Umamah, through Luqman: no believer enters the Garden until Allah has removed the rancour from their breasts, until something like a ravening beast is pulled out of him. This one, Ibn Kathir says, agrees with what is in the Sahih.",
+            "bn": "ইবন কাসীর একই বর্ণনা উদ্ধৃত করে তার মান যাচাই করেন। তিনি বলেন, আবু উমামা (রাঃ) থেকে কাসিম ইবন আবদির রহমান যা বর্ণনা করেন, তাতে তিনি দুর্বল। এর পাশে তিনি রাখেন লুকমানের সূত্রে আবু উমামা (রাঃ)-এর আরেকটি কথা: আল্লাহ বুক থেকে বিদ্বেষ বের করে না দেওয়া পর্যন্ত কোনো মুমিন জান্নাতে ঢুকবে না, এমনকি তার ভেতর থেকে হিংস্র শিকারি পশুর মতো কিছু টেনে বের করা হবে। ইবন কাসীর বলেন, এ কথাটি সহীহতে যা আছে তার সঙ্গে মেলে।"
+          },
+          {
+            "en": "Al-Qurtubi gives a third picture, from Ibn 'Abbas, and says something similar is reported from 'Ali. When the people of the Garden first enter, two springs are set before them. They drink from one, and Allah takes away the rancour in their hearts; they bathe in the other, and their colour brightens and their faces clear. Ma'arif al-Qur'an relays the same from Ibn 'Abbas. Ibn Kathir leans to the line that matches the Sahih; the difference itself is kept here as at-Tabari states it.",
+            "bn": "কুরতুবী তৃতীয় একটি ছবি আনেন ইবন আব্বাস (রাঃ) থেকে, আর বলেন আলী (রাঃ) থেকেও এমন কথা বর্ণিত আছে। জান্নাতবাসীরা প্রথম যখন প্রবেশ করবে, তাদের সামনে দুটি ঝরনা আসবে। একটি থেকে তারা পান করবে, আর আল্লাহ তাদের অন্তরের বিদ্বেষ দূর করে দেবেন। অন্যটিতে তারা গোসল করবে, তাতে গায়ের রং উজ্জ্বল হবে, চেহারা হবে নির্মল। মাআরিফুল কুরআনও ইবন আব্বাস (রাঃ) থেকে একই কথা বলে। ইবন কাসীর ঝুঁকেছেন সহীহর সঙ্গে মেলা বর্ণনার দিকে। তবে মতভেদটা এখানে রাখা হলো তাবারী যেভাবে বলেছেন, সেভাবেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Held Back on a Bridge",
+          "bn": "পুলের উপর থামিয়ে রাখা"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari records the hadith of Abu Sa'id al-Khudri (RA) at 6535, and in his chain Yazid ibn Zuray' recites this verse before it. The Prophet ﷺ said: The believers, after being saved from the (Hell) Fire, will be stopped at a bridge between Paradise and Hell and mutual retaliation will be established among them regarding wrongs they have committed in the world against one another. After they are cleansed and purified (through the retaliation), they will be admitted into Paradise; and by Him in Whose Hand Muhammad's soul is, everyone of them will know his dwelling in Paradise better than he knew his dwelling in this world.",
+            "bn": "বুখারী আবু সাঈদ খুদরি (রাঃ)-এর হাদীসটি এনেছেন ৬৫৩৫ নম্বরে, আর তাঁর সনদে ইয়াযীদ ইবন যুরাই হাদীসের আগে এই আয়াতটি পড়েন। নবী ﷺ বলেছেন: মুমিনরা জাহান্নাম থেকে মুক্তি পাওয়ার পর জান্নাত ও জাহান্নামের মাঝে এক পুলের উপর তাদের আটকে রাখা হবে। দুনিয়ায় তাদের একজন অন্যজনের উপর যেসব জুলুম করেছিল, সেখানে তার বদলা নেওয়া হবে। এভাবে তারা পরিশুদ্ধ ও পরিচ্ছন্ন হয়ে গেলে তাদের জান্নাতে প্রবেশের অনুমতি দেওয়া হবে। যাঁর হাতে মুহাম্মাদের প্রাণ, তাঁর শপথ, দুনিয়াতে নিজের ঘর তারা যতটা চিনত, জান্নাতে নিজের ঘর তার চেয়েও বেশি চিনবে।"
+          },
+          {
+            "en": "This is the Sahih Ibn Kathir means; at-Tabari gives it in full through Qatadah. Al-Bukhari includes it in his Sahih again at 2440, in other words. What it adds to the verse is an order. The wrongs are not waved away. They are settled between the people concerned, and only once they are hudhdhibu wa nuqqu, refined and cleaned, are they let in. The removal of rancour comes after justice, not in its place.",
+            "bn": "ইবন কাসীর এই সহীহর কথাই বলছেন। তাবারী কাতাদার সূত্রে পুরোটা এনেছেন। বুখারী তাঁর সহীহতে ২৪৪০ নম্বরেও অন্য শব্দে এটি এনেছেন। আয়াতের সঙ্গে হাদীসটি যোগ করে একটা ক্রম। জুলুমগুলো উড়িয়ে দেওয়া হয় না। যাদের মধ্যে যা ঘটেছে, তাদের মধ্যেই তার মীমাংসা হয়। হুযযিবূ ওয়া নুক্কূ, পরিশুদ্ধ ও পরিচ্ছন্ন হওয়ার পরেই কেবল তাদের ভেতরে ঢুকতে দেওয়া হয়। বিদ্বেষ তুলে নেওয়া আসে ইনসাফের পরে, ইনসাফের বদলে নয়।"
+          },
+          {
+            "en": "At-Tabari has a second chain for it, through Sa'id ibn Abi 'Arubah, which carries the Prophet's words up to the permission to enter and gives the oath that follows as Qatadah's own words. A comparison follows in both of his chains: some said that the only likeness for them is people leaving after the Friday prayer. In the second chain it is Qatadah who relays this from 'some'. At-Tabari gives it as their saying, not as part of the hadith.",
+            "bn": "তাবারীর কাছে এর দ্বিতীয় একটি সনদ আছে, সাঈদ ইবন আবী আরূবার সূত্রে। তাতে নবী ﷺ-এর কথা প্রবেশের অনুমতি পর্যন্ত, আর পরের শপথবাক্যটি এসেছে কাতাদার নিজের কথা হিসেবে। দুই সনদেই এরপর একটি তুলনা আছে: কেউ কেউ বলেছেন, তাদের একমাত্র উপমা জুমার নামাজ শেষে ঘরে ফেরা লোকেরা। দ্বিতীয় সনদে কাতাদাই এটি 'কেউ কেউ'-এর কথা হিসেবে জানান। তাবারী একে তাদের উক্তি হিসেবেই এনেছেন, হাদীসের অংশ হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Hope Spoken by 'Ali",
+          "bn": "আলী (রাঃ)-এর মুখে এক আশা"
+        },
+        "p": [
+          {
+            "en": "The commentators keep one cluster of Companion reports in particular. Al-Qurtubi relays that 'Ali (RA) said: I hope that I, Talhah and az-Zubayr will be among these. At-Tabari and Ibn Kathir give a setting through Ibrahim. Ibn Jurmuz, who killed az-Zubayr, asked to be let in to see 'Ali, who kept him waiting a long time before admitting him. The man then complained that 'Ali was cold to those who had borne the hardship.",
+            "bn": "সাহাবিদের নিয়ে একগুচ্ছ বর্ণনা তাফসীরকারেরা বিশেষ যত্নে রেখেছেন। কুরতুবী জানান, আলী (রাঃ) বলেছিলেন: আমি আশা করি, আমি, তালহা আর যুবাইর এদের মধ্যে থাকব। তাবারী ও ইবন কাসীর ইবরাহীমের সূত্রে এর একটি প্রেক্ষাপট দেন। যুবাইর (রাঃ)-এর হত্যাকারী ইবন জুরমূয আলী (রাঃ)-এর কাছে আসার অনুমতি চাইল। আলী (রাঃ) তাকে অনেকক্ষণ অপেক্ষা করিয়ে তারপর ঢুকতে দিলেন। লোকটি তখন অভিযোগ করল, যারা কষ্ট সয়েছে তাদের প্রতি আলী (রাঃ) রূঢ় আচরণ করেন।"
+          },
+          {
+            "en": "'Ali answered him: dust be in your mouth; I hope that I, Talhah and az-Zubayr will be among those of whom Allah said this, and he recited the verse. In another report, carried by both, 'Imran ibn Talhah came to 'Ali after the matter of the people of the Camel was over. 'Ali welcomed him and said he hoped Allah would place him and 'Imran's father among those described here. Two men sitting at the edge of the carpet objected that Allah was more just than that.",
+            "bn": "আলী (রাঃ) তাকে বললেন: তোমার মুখে মাটি পড়ুক! আমি আশা করি, আমি, তালহা আর যুবাইর তাদের মধ্যে থাকব, যাদের সম্পর্কে আল্লাহ এ কথা বলেছেন। তারপর তিনি আয়াতটি পড়লেন। দুজনেরই আনা আরেকটি বর্ণনায় আছে, জামালের ঘটনা শেষ হওয়ার পর ইমরান ইবন তালহা আলী (রাঃ)-এর কাছে এলেন। আলী (রাঃ) তাঁকে স্বাগত জানিয়ে বললেন, তিনি আশা করেন আল্লাহ তাঁকে আর ইমরানের বাবাকে এ আয়াতে বর্ণিত লোকদের মধ্যে রাখবেন। ফরাশের এক প্রান্তে বসা দুজন লোক আপত্তি তুলল, আল্লাহ এর চেয়ে বেশি ন্যায়পরায়ণ।"
+          },
+          {
+            "en": "'Ali told them to take themselves off to the farthest land, and asked: who, then, would they be, if not Talhah and I? At-Tabari and Ibn Kathir also have him tell al-Ashtar that he hoped he and 'Uthman would be among them. Ma'arif al-Qur'an says 'Ali's words about Talhah and az-Zubayr refer to the conflict that arose between the three of them. These are a Companion's own words, spoken as hope: arju, I hope. The article reports that hope and takes no position on anything that passed between them.",
+            "bn": "আলী (রাঃ) তাদের বললেন, উঠে দূরতম কোনো দেশে চলে যাও। তারপর জিজ্ঞেস করলেন: আমি আর তালহা যদি না হই, তবে তারা আর কারা? তাবারী ও ইবন কাসীর আরও আনেন, তিনি আশতারকে বলেছিলেন, তিনি আশা করেন তিনি ও উসমান (রাঃ) তাদের মধ্যে থাকবেন। মাআরিফুল কুরআন বলে, তালহা ও যুবাইর (রাঃ) সম্পর্কে আলী (রাঃ)-এর এ কথার পেছনে আছে তাঁদের তিনজনের মধ্যে ঘটে যাওয়া বিরোধ। এগুলো একজন সাহাবির নিজের কথা, আর তিনি বলেছেন আশার ভাষায়: আরজু, আমি আশা করি। প্রবন্ধটি সেই আশাটুকুই জানায়। তাঁদের মধ্যে যা ঘটেছিল, সে বিষয়ে কোনো পক্ষ নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Badr, the Companions, or All",
+          "bn": "বদরি সাহাবি, নাকি সব জান্নাতবাসী"
+        },
+        "p": [
+          {
+            "en": "Some reports go further and name the people the verse was first about. At-Tabari and Ibn Kathir carry, through al-Hasan al-Basri, words of 'Ali: concerning us, by Allah, the people of Badr, this verse was revealed. Al-Qurtubi relays from 'Ali ibn al-Husayn that it came down about Abu Bakr, 'Umar, 'Ali and the Companions, and that what is meant is the rancour that had been between them in the Jahiliyya.",
+            "bn": "কিছু বর্ণনা আরও এগিয়ে গিয়ে বলে, আয়াতটি প্রথমে কাদের নিয়ে। তাবারী ও ইবন কাসীর হাসান বসরীর সূত্রে আলী (রাঃ)-এর কথা আনেন: আল্লাহর কসম, আমাদের নিয়ে, বদরবাসীদের নিয়েই এ আয়াত নাযিল হয়েছে। কুরতুবী আলী ইবনুল হুসাইন থেকে বর্ণনা করেন, আয়াতটি নাযিল হয়েছে আবু বকর, উমর, আলী (রাঃ) ও অন্য সাহাবিদের সম্পর্কে। এখানে উদ্দেশ্য সেই বিদ্বেষ, যা ইসলামের আগে জাহিলিয়াতের যুগে তাঁদের মধ্যে ছিল।"
+          },
+          {
+            "en": "Al-Qurtubi does not leave the readings level. He says the first view, the one that speaks of the people of the Garden as they enter, is the more apparent, and that the context of the verse points to it. At-Tabari's own gloss opens the same way, with the muttaqin whose quality the passage has described. None of the texts fetched for this verse sets out an established occasion of revelation, so the verse is read here in its place, after the greeting of peace.",
+            "bn": "কুরতুবী দুই মতকে সমান রেখে দেন না। তিনি বলেন, প্রথম মতটি, অর্থাৎ যা প্রবেশের মুহূর্তে জান্নাতবাসীদের কথা বলে, সেটিই বেশি স্পষ্ট, আর আয়াতের পূর্বাপর সেদিকেই ইঙ্গিত করে। তাবারীর নিজের ব্যাখ্যাও শুরু হয় একইভাবে, সেই মুত্তাকীদের দিয়ে, যাদের গুণ এ অংশে বর্ণিত হয়েছে। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীরে প্রতিষ্ঠিত কোনো শানে নুযূল পাওয়া যায় না। তাই আয়াতটি এখানে পড়া হচ্ছে তার নিজের জায়গায়, সালামের পরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faces, Never the Nape",
+          "bn": "মুখোমুখি, কখনো ঘাড়ের দিকে নয়"
+        },
+        "p": [
+          {
+            "en": "Mutaqabilin, facing each other, has a settled gloss. Mujahid says that none of them looks at the back of another's neck, and at-Tabari, Ibn Kathir and al-Qurtubi all relay it. At-Tabari puts it fully: brothers, each facing the other's face, none turning his back so that the other sees only his nape; and so, he says, the people of interpretation explained it. Al-Qurtubi adds the reason in two words, tawasulan wa tahabuban: out of closeness and love. The Muyassar uses the same two words for their faces meeting.",
+            "bn": "মুতাকাবিলীন, মুখোমুখি, এর ব্যাখ্যায় তাফসীরকারেরা প্রায় একমত। মুজাহিদ বলেন, তাদের কেউ অন্যের ঘাড়ের পেছন দিকে তাকাবে না। তাবারী, ইবন কাসীর ও কুরতুবী তিনজনই কথাটি এনেছেন। তাবারী একে পুরো করে বলেন: ভাই ভাই, প্রত্যেকে অন্যের মুখের দিকে মুখ করে আছে। কেউ পিঠ ফিরিয়ে বসে না যে অন্যজন কেবল তার ঘাড় দেখবে। তিনি বলেন, তাফসীরবিদরা এভাবেই ব্যাখ্যা করেছেন। কুরতুবী দুই শব্দে কারণটা জুড়ে দেন, তাওয়াসুলান ওয়া তাহাবুবান: ঘনিষ্ঠতা আর ভালোবাসার টানে। মুখোমুখি চেহারার কথা বলতে মুয়াসসারও এই দুটি শব্দই ব্যবহার করে।"
+          },
+          {
+            "en": "Al-Qurtubi also records two views he introduces with 'it is said': that the couches turn however their owners wish, so no one ever sees another's nape, and that mutaqabilin means their spouses have turned to them, and they to their spouses, with affection. As-Sa'di reads the facing as a sign of their visiting and gathering and of their good manners with each other. Al-Baghawi relays, from 'some reports', that when a believer wishes to meet his brother, the two couches travel towards each other, and they meet and talk.",
+            "bn": "কুরতুবী 'বলা হয়' দিয়ে আরও দুটি মত আনেন। এক, আসনগুলো মালিকের ইচ্ছামতো ঘোরে, তাই কেউ কখনো কারও ঘাড় দেখে না। দুই, মুতাকাবিলীন মানে তাদের স্ত্রীরা ভালোবাসা নিয়ে তাদের দিকে মুখ ফিরিয়েছে, তারাও স্ত্রীদের দিকে। সা'দী মুখোমুখি বসাকে দেখেন তাদের পরস্পরের দেখা-সাক্ষাৎ, একসঙ্গে বসা আর নিজেদের মধ্যে সুন্দর আদবের চিহ্ন হিসেবে। বাগাভী 'কিছু বর্ণনা' থেকে আনেন, মুমিন যখন তার মুমিন ভাইয়ের সঙ্গে দেখা করতে চাইবে, দুজনের আসন একে অপরের দিকে চলতে থাকবে। তারপর তারা মিলিত হবে, কথা বলবে।"
+          },
+          {
+            "en": "Ibn Kathir notes a report raised to the Prophet ﷺ on this word, which he gives through Ibn Abi Hatim without grading it; it is only mentioned here. Sururin is the plural of sarir, a couch, in the pattern of jadid and judad, say at-Tabari and al-Qurtubi. Al-Qurtubi notes the view that it comes from surur, joy, and calls the first more apparent. Ikhwanan is a hal, describing their state, say al-Baghawi and al-Qurtubi, and al-Qurtubi lists four words it could attach to.",
+            "bn": "ইবন কাসীর এ শব্দ নিয়ে নবী ﷺ-এর দিকে সম্বন্ধিত একটি বর্ণনার উল্লেখ করেন। তিনি তা আনেন ইবন আবী হাতিমের সূত্রে, কোনো মান নির্ণয় না করে। এখানে শুধু তার উল্লেখটুকু থাকল। তাবারী ও কুরতুবী বলেন, সুরুর শব্দটি সারীর, অর্থাৎ আসনের বহুবচন, জাদীদ থেকে জুদুদের মতো। কুরতুবী আরেকটি মতও জানান: শব্দটি এসেছে সুরূর, অর্থাৎ আনন্দ থেকে। তবে তাঁর মতে প্রথমটিই বেশি স্পষ্ট। বাগাভী ও কুরতুবী বলেন, ইখওয়ানান শব্দটি হাল, অর্থাৎ তাদের অবস্থার বর্ণনা। এটি কার অবস্থা বর্ণনা করছে, কুরতুবী তার চারটি সম্ভাবনা গোনেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Grudges Nursed and Unchosen",
+          "bn": "পুষে রাখা ক্ষোভ, অনিচ্ছার অস্বস্তি"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an raises a hadith about grudges and the Garden without naming a collection; it is not confirmed here and is only mentioned. Its own distinction is worth keeping. The grudge it condemns is rooted in worldly aims, held by choice and on purpose, and keeps watching for a chance to hurt the other person or cause him loss. Being ill at ease with someone by temperament, beyond one's control, is not that, and neither is a dislike resting on a ground the Shari'a recognises.",
+            "bn": "মাআরিফুল কুরআন ক্ষোভ ও জান্নাত নিয়ে একটি হাদীসের কথা তোলে, কোনো সংকলনের নাম না বলে। এখানে তা যাচাই করা যায়নি, তাই শুধু উল্লেখ থাকল। তবে এর নিজের করা পার্থক্যটা মনে রাখার মতো। যে ক্ষোভ নিন্দনীয়, তার শিকড় দুনিয়াবি স্বার্থে। মানুষ তা জেনেবুঝে, নিজের ইচ্ছায় পুষে রাখে, আর প্রতিপক্ষকে কষ্ট দেওয়ার বা ক্ষতি করার সুযোগ খুঁজতে থাকে। স্বভাবগত কারণে কারও সঙ্গ অস্বস্তিকর লাগা, যা মানুষের নিয়ন্ত্রণের বাইরে, তা এর মধ্যে পড়ে না। শরীয়তসম্মত কোনো কারণে কারও প্রতি অপছন্দও এর মধ্যে পড়ে না।"
+          },
+          {
+            "en": "Ma'arif then says that it is these latter kinds, the unchosen unease and the dislike with a lawful ground, that the verse describes being removed, and that 'Ali's hope about Talhah and az-Zubayr concerned exactly this. On that reading, even the unease that remains after an honest difference has no place in the Garden. These reports license no verdict on any of the people they name, and nothing against anyone living; they record what a Companion hoped for, and what the verse promises the people it describes.",
+            "bn": "মাআরিফুল কুরআন এরপর বলে, আয়াতে যে বিদ্বেষ সরিয়ে নেওয়ার কথা, তা এই পরের দুই ধরনের: অনিচ্ছার অস্বস্তি আর শরীয়তসম্মত কারণে অপছন্দ। আর তালহা ও যুবাইর (রাঃ) নিয়ে আলী (রাঃ)-এর আশাও ছিল ঠিক এ নিয়েই। এ ব্যাখ্যা মানলে, সৎ মতভেদের পরে যে অস্বস্তিটুকু থেকে যায়, জান্নাতে তারও জায়গা নেই। এসব বর্ণনা যাদের নাম নেয়, তাদের কারও ব্যাপারে কোনো রায় দেওয়ার অনুমতি দেয় না। আজকের কোনো মানুষের বিরুদ্ধেও কিছু বলার অনুমতি দেয় না। এগুলো শুধু জানায় একজন সাহাবি কী আশা করেছিলেন, আর আয়াতটি তার বর্ণিত লোকদের কী প্রতিশ্রুতি দেয়।"
+          },
+          {
+            "en": "For the reader, the order in Abu Sa'id's hadith matters most. Wrongs are settled first, then hearts are cleaned, then the door opens. Much of what is settled there could be settled here: a debt repaid, an apology made, a du'a for someone it is hard to pray for. The verse promises that Allah will take out what remains. It gives no reason to carry rancour to the bridge when it could be put down on the road.",
+            "bn": "পাঠকের জন্য আবু সাঈদ (রাঃ)-এর হাদীসের ক্রমটাই সবচেয়ে জরুরি। আগে জুলুমের মীমাংসা, তারপর অন্তর পরিষ্কার, তারপর দরজা খোলে। সেখানে যা মেটানো হবে, তার অনেকটাই এখানে মেটানো যায়: একটা ঋণ শোধ করা, একবার ক্ষমা চেয়ে নেওয়া, এমন কারও জন্য দোয়া করা যার জন্য দোয়া করা কঠিন লাগে। আয়াতটি প্রতিশ্রুতি দেয়, যা বাকি থাকবে আল্লাহ তা বের করে নেবেন। তবু পথেই যে বোঝা নামিয়ে রাখা যায়, তা পুল পর্যন্ত বয়ে নেওয়ার কোনো কারণ আয়াতটি দেয় না।"
+          }
+        ]
+      }
+    ]
+  },
   "15:49": {
     "sections": [
       {

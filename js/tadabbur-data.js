@@ -33363,6 +33363,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not mistake walls, wealth or a quiet delay for safety. Every morning you plan for belongs to Allah, so meet each one ready.",
     "lessonBn": "দেয়াল, সম্পদ কিংবা চুপচাপ পেরিয়ে যাওয়া অবকাশকে নিরাপত্তা ভেবে ভুল করবেন না। যে সকালের জন্য আপনি পরিকল্পনা করেন, তা আল্লাহর হাতে, তাই প্রতিটি সকালে প্রস্তুত থাকুন।"
+  },
+  "15:47": {
+    "reflectionEn": "Some of what we carry through life is resentment: a word never forgiven, a share never returned, a face we take care to avoid. This verse speaks of the people of the Garden and says that Allah removes whatever rancour is in their breasts, and then seats them as brothers on couches, facing one another. No one sits looking at another's back. The removing is His act, not theirs, and it is part of His mercy that the Garden is not spoiled by grudges brought from this world. Yet there is no reason to wait for that day. What I hold against someone now, I can begin to settle now. And the face I avoid today may be the very face I hope to sit across from.",
+    "reflectionBn": "জীবনের পথে আমরা কিছু ক্ষোভও বয়ে বেড়াই। মাফ না করা কোনো কথা, ফেরত না পাওয়া কোনো পাওনা, এমন কোনো মুখ যাকে আমরা সাবধানে এড়িয়ে চলি। এ আয়াত জান্নাতবাসীদের কথা বলে। আল্লাহ বলছেন, তাদের বুকে যত বিদ্বেষ ছিল, তিনি তা বের করে দেবেন। তারপর তারা ভাই ভাই হয়ে আসনে বসবে, একে অপরের মুখোমুখি। কেউ কারও পিঠের দিকে তাকিয়ে বসবে না। বিদ্বেষ তুলে নেওয়ার কাজটা আল্লাহর, তাদের নিজেদের নয়। দুনিয়া থেকে বয়ে আনা মনোমালিন্য জান্নাতকে নষ্ট করবে না, এটাও তাঁর রহমত। তবু সেদিনের অপেক্ষায় বসে থাকার কারণ নেই। আজ কারও বিরুদ্ধে যা মনে পুষে রেখেছি, আজই তা মেটানোর কাজ শুরু করা যায়। আর যে মুখ আজ এড়িয়ে চলি, হয়তো সেই মুখের সামনেই একদিন বসার আশা রাখি।",
+    "pointsEn": [
+      "Whose name still makes something tighten in my chest, and what would it take for me to make a du'a for that person tonight?",
+      "Is there a wrong I did to someone that I am leaving to be settled later, when I could put it right now?",
+      "When I have to sit with someone I resent, do I keep my face turned away, or do I look at them?",
+      "Which of my grudges rests on a real question of right, and which is only wounded pride that has not yet healed?",
+      "If I hope to sit as a brother or sister with someone in the Garden, how should I speak of them today?"
+    ],
+    "pointsBn": [
+      "কার নাম শুনলে এখনো বুকের ভেতর কিছু একটা শক্ত হয়ে ওঠে? আজ রাতে তার জন্য একটা দোয়া করতে আমার কী লাগবে?",
+      "কারও উপর আমার করা কোনো অন্যায় কি পরে মেটানোর জন্য ফেলে রেখেছি, অথচ এখনই তা ঠিক করে নেওয়া যেত?",
+      "যার উপর আমার ক্ষোভ, তার সঙ্গে বসতে হলে আমি কি মুখ ফিরিয়ে রাখি, নাকি তার দিকে তাকাই?",
+      "আমার কোন ক্ষোভের পেছনে সত্যিই হকের প্রশ্ন আছে, আর কোনটা শুধু আহত অহংকার, যা এখনো সারেনি?",
+      "জান্নাতে যার সঙ্গে ভাই বা বোন হয়ে বসার আশা করি, আজ তার কথা আমি কীভাবে বলি?"
+    ],
+    "lessonEn": "Settle grudges and wrongs now and ask Allah to clean your heart, for the people of the Garden sit as brothers, facing one another, without rancour.",
+    "lessonBn": "ক্ষোভ আর অন্যায়ের হিসাব আজই মিটিয়ে নিন, আর অন্তর পরিষ্কার করে দিতে আল্লাহর কাছে চান। জান্নাতবাসীরা বিদ্বেষমুক্ত হয়ে ভাই ভাই মুখোমুখি বসবে।"
   }
 };
 
