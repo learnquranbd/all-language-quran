@@ -32283,6 +32283,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah does not hold a people to what He has not yet made clear; once He has made it clear, take it and keep away from what you are told to avoid.",
     "lessonBn": "যা আল্লাহ এখনো স্পষ্ট করেননি, তার জন্য তিনি কোনো জাতিকে পাকড়াও করেন না। আর যখন স্পষ্ট করে দেন, তখন তা গ্রহণ করুন এবং যা থেকে বাঁচতে বলা হয়েছে তা থেকে দূরে থাকুন।"
+  },
+  "9:76": {
+    "reflectionEn": "The promise in the verse before was made with empty hands: if He gives us from His bounty, we will give, and we will be among the righteous. This verse tells what happened next, in nine Arabic words. He gave. They held on to it. They turned, and stayed turned. Nothing suggests the gift was too small or came too late; it came as asked, and the promise went missing. Many of us have made the same deal: when the salary rises, when the debt clears, when the business grows, then I will give. The verse asks whether the condition was ever the real obstacle, or only a way to postpone a giving that could have begun today.",
+    "reflectionBn": "আগের আয়াতের ওয়াদাটা করা হয়েছিল খালি হাতে: তিনি যদি তাঁর অনুগ্রহ থেকে আমাদের দেন, আমরা অবশ্যই দান করব, অবশ্যই নেককারদের দলে থাকব। এ আয়াত বলছে তারপর কী ঘটল, আরবিতে মাত্র নয়টি শব্দে। তিনি দিলেন। তারা আঁকড়ে ধরল। তারা মুখ ফিরিয়ে নিল, আর ফিরিয়েই রাখল। দান কম ছিল বা দেরিতে এসেছিল, এমন কোনো ইঙ্গিত নেই। যেমন চাওয়া হয়েছিল তেমনই এসেছিল, শুধু ওয়াদাটাই হারিয়ে গেল। আমাদের অনেকেই এমন চুক্তি করে রেখেছি: বেতন বাড়লে, ঋণ শোধ হলে, ব্যবসা দাঁড়ালে, তখন দান করব। আয়াতটি প্রশ্ন রাখে, শর্তটাই কি আসল বাধা ছিল? নাকি শর্তটা ছিল এমন এক দানকে পিছিয়ে দেওয়ার অজুহাত, যা আজই শুরু করা যেত?",
+    "pointsEn": [
+      "What have I promised to give once things improve, and have things in fact already improved?",
+      "When my income rose, did my giving rise with it, or did my needs grow until they swallowed the difference?",
+      "Is there a pledge I made to Allah in a hard moment that I have quietly let go of now the hardship has passed?",
+      "What could I give today, small as it may be, without waiting for the condition I keep setting?",
+      "When I read this verse, am I picturing someone else's hand closing, or my own?"
+    ],
+    "pointsBn": [
+      "অবস্থা ভালো হলে দান করব বলে কী কী ওয়াদা করেছি? আর অবস্থা কি আসলে এর মধ্যেই ভালো হয়ে যায়নি?",
+      "আয় যখন বেড়েছে, দানও কি সঙ্গে সঙ্গে বেড়েছে? নাকি প্রয়োজন বাড়তে বাড়তে বাড়তি টাকাটা গিলে ফেলেছে?",
+      "কঠিন সময়ে আল্লাহর কাছে এমন কোনো অঙ্গীকার কি করেছিলাম, কষ্ট কেটে যাওয়ার পর যা চুপচাপ ভুলে গেছি?",
+      "যে শর্ত বারবার জুড়ে দিই, তার অপেক্ষা না করে আজ অল্প হলেও কী দিতে পারি?",
+      "এ আয়াত পড়ার সময় কার হাত গুটিয়ে যেতে দেখি, অন্য কারও, নাকি নিজের?"
+    ],
+    "lessonEn": "A promise to give once you have more is tested the day more arrives; give from what you have now, and keep the pledges made when your hands were empty.",
+    "lessonBn": "বেশি পেলে দান করব, এই ওয়াদার পরীক্ষা হয় যেদিন বেশি আসে। যা আছে তা থেকেই এখন দিন, আর খালি হাতে থাকার দিনগুলোতে করা অঙ্গীকার রক্ষা করুন।"
   }
 };
 

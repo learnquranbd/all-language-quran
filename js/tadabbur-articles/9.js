@@ -4011,6 +4011,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:76": {
+    "sections": [
+      {
+        "h": {
+          "en": "Nine Words After the Pledge",
+          "bn": "ওয়াদার পরের নয় শব্দ"
+        },
+        "p": [
+          {
+            "en": "Fa-lamma atahum min fadlihi bakhilu bihi wa-tawallaw wa-hum mu'ridun: but when He gave them from His bounty, they were stingy with it and turned away while they refused. The verse answers 9:75 clause by clause. There, some among them pledged to Allah: if He gives us from His bounty, we will surely give in charity and surely be among the righteous. Here He gives, and both halves of the pledge fail. Al-Qurtubi glosses atahum simply as He gave them; at-Tabari reads it as Allah provided for them and gave them of His bounty.",
+            "bn": "ফালাম্মা আতাহুম মিন ফাদলিহী বাখিলূ বিহী ওয়া তাওয়াল্লাও ওয়া হুম মু'রিদূন: অতঃপর তিনি যখন তাদেরকে নিজ অনুগ্রহ থেকে দিলেন, তারা তাতে কৃপণতা করল, মুখ ফিরিয়ে নিল, আর তারা বিমুখই রইল। আয়াতটি ৯:৭৫-এর প্রতিটি কথার জবাব। সেখানে তাদের কিছু লোক আল্লাহর সঙ্গে অঙ্গীকার করেছিল: তিনি যদি তাঁর অনুগ্রহ থেকে আমাদের দেন, আমরা অবশ্যই সদকা করব, অবশ্যই নেককারদের দলে থাকব। এখানে তিনি দিলেন, আর অঙ্গীকারের দুটো অংশই ভেঙে পড়ল। কুরতুবী আতাহুম শব্দের সোজা অর্থ করেন: তিনি তাদের দিলেন। তাবারীর ভাষায়: আল্লাহ তাদের রিজিক দিলেন, নিজ অনুগ্রহ থেকে দান করলেন।"
+          },
+          {
+            "en": "Min fadlihi, from His bounty, is the phrase the passage keeps returning to. In 9:74 they resented nothing except that Allah and His Messenger had enriched them min fadlihi; in 9:75 it is the condition of the pledge; in 9:76 it is what arrives. Al-Qurtubi, on 9:75, says the pledge has the force of an oath in meaning, because it carries two lam particles, the first of the oath and the second of its answer, both for emphasis. Some read both as lams of oath; he finds the first view more apparent. All the emphasis went into the promising.",
+            "bn": "মিন ফাদলিহী, তাঁর অনুগ্রহ থেকে। এই কথাটা গোটা অংশে বারবার ফিরে আসে। ৯:৭৪ আয়াতে তাদের ক্ষোভের একমাত্র কারণ ছিল, আল্লাহ ও তাঁর রসূল মিন ফাদলিহী তাদের সচ্ছল করেছেন। ৯:৭৫ আয়াতে এটা অঙ্গীকারের শর্ত, আর ৯:৭৬ আয়াতে এটাই সেই জিনিস যা হাতে এল। কুরতুবী ৯:৭৫-এর আলোচনায় বলেন, অর্থের দিক থেকে অঙ্গীকারটি কসমের মতোই। কারণ এতে দুটি লাম আছে: প্রথমটি কসমের, দ্বিতীয়টি তার জবাবের, আর দুটোই জোর দেওয়ার জন্য। কেউ কেউ দুটোকেই কসমের লাম বলেছেন, তবে তাঁর কাছে প্রথম মতটাই বেশি স্পষ্ট। সব জোর খরচ হয়েছিল ওয়াদা করতেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Tight Hand Kept",
+          "bn": "গুটানো হাত যা আটকে রাখল"
+        },
+        "p": [
+          {
+            "en": "Bakhilu bihi: they were stingy with it. At-Tabari spells out what the stinginess consisted of. With the bounty Allah had given them, they gave no charity from it, joined no ties of kinship with it, and spent nothing of it in the right of Allah. Al-Qurtubi has them stingy with giving charity and spending wealth in good, and adds a third thing: with keeping what they had guaranteed and bound themselves to. The Muyassar keeps to the first two, giving charity and spending wealth in good.",
+            "bn": "বাখিলূ বিহী: তারা তাতে কৃপণতা করল। কৃপণতাটা কী ছিল, তাবারী খুলে বলেন। আল্লাহ যে অনুগ্রহ দিয়েছিলেন, তা থেকে তারা সদকা করেনি, আত্মীয়তার হক আদায় করেনি, আল্লাহর হকের পথে কিছুই খরচ করেনি। কুরতুবীর মতে তারা কৃপণ ছিল সদকা দিতে আর ভালো কাজে সম্পদ খরচ করতে। তিনি আরেকটি জিনিস যোগ করেন: যে দায়িত্ব তারা নিজেরা কাঁধে নিয়েছিল, যার জামিন হয়েছিল, তা পূরণ করতেও তারা কৃপণতা করেছে। মুয়াসসার প্রথম দুটিতেই থামে: সদকা দেওয়া আর ভালো কাজে সম্পদ ব্যয় করা।"
+          },
+          {
+            "en": "As-Sa'di, on 9:75, lets the pledgers describe what being among the righteous would have meant: we will join our kin, host the guest, help with the calamities that truly call for help, and do good and righteous deeds. Read beside that list, bakhilu bihi is not a vague meanness. It is the failure of a programme they had drafted themselves, in their own words, while they still had nothing. Ma'arif al-Qur'an says that once Allah blessed them with wealth, they became misers overnight.",
+            "bn": "সা'দী ৯:৭৫-এর ব্যাখ্যায় অঙ্গীকারকারীদের মুখেই বলিয়ে দেন, নেককারদের দলে থাকা বলতে তারা কী বুঝিয়েছিল: আমরা আত্মীয়তার সম্পর্ক রক্ষা করব, মেহমানদারি করব, সত্যিকারের বিপদে মানুষের পাশে দাঁড়াব, ভালো ও নেক কাজ করব। এই তালিকার পাশে রাখলে বাখিলূ বিহী কোনো অস্পষ্ট কৃপণতা থাকে না। এটা এমন এক কর্মসূচির ব্যর্থতা, যা তারা নিজেরাই নিজেদের ভাষায় সাজিয়েছিল, হাতে যখন কিছুই ছিল না। মাআরিফুল কুরআনের ভাষায়, আল্লাহ যখন সম্পদ দিয়ে ধন্য করলেন, রাতারাতি তারা কৃপণ হয়ে গেল।"
+          },
+          {
+            "en": "Ibn Kathir names two failures in the same scene: he did not keep what he had said, and he was not truthful in what he had claimed. One is a failure of keeping, the other of truth. The two match the causes 9:77 gives for what followed: because they failed Allah in what they promised Him, and because they used to lie. So the verse treats the withholding less as a matter of money than as a word given to Allah and then left unkept.",
+            "bn": "ইবন কাসীর একই ঘটনায় দুটি ব্যর্থতার কথা বলেন। যা বলেছিল তা সে রক্ষা করেনি, আর যা দাবি করেছিল তাতে সে সত্যবাদী ছিল না। একটি কথা রাখার ব্যর্থতা, অন্যটি সত্যের। এ দুটি হুবহু মিলে যায় ৯:৭৭ আয়াতের দেওয়া দুই কারণের সঙ্গে: আল্লাহকে দেওয়া ওয়াদা তারা ভঙ্গ করেছিল, আর তারা মিথ্যা বলত। তাই আয়াতের চোখে এই আটকে রাখা যতটা টাকার ব্যাপার, তার চেয়ে বেশি আল্লাহকে দেওয়া এক কথার ব্যাপার, যা দিয়ে আর রাখা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turned Away From What",
+          "bn": "মুখ ফেরানো কিসের থেকে"
+        },
+        "p": [
+          {
+            "en": "Wa-tawallaw: and they turned away. At-Tabari reads it as turning their backs on the covenant they had made with Allah. Al-Qurtubi says they turned from obedience to Allah, and as-Sa'di from obedience and compliance. Ma'arif al-Qur'an combines them: they turned away from their pledge of obedience to Allah and His Messenger. The readings name different things, but each makes it a turning from something owed, not a change of mood.",
+            "bn": "ওয়া তাওয়াল্লাও: আর তারা মুখ ফিরিয়ে নিল। তাবারীর ব্যাখ্যায়, আল্লাহর সঙ্গে যে অঙ্গীকার করেছিল, তারা তার দিকে পিঠ ফিরিয়ে দিল। কুরতুবী বলেন, তারা আল্লাহর আনুগত্য থেকে মুখ ফিরিয়েছিল। সা'দী বলেন, আনুগত্য আর বশ্যতা থেকে। মাআরিফুল কুরআন এগুলো মিলিয়ে বলে: আল্লাহ ও তাঁর রসূলের আনুগত্যের যে অঙ্গীকার, তা থেকে তারা সরে গেল। কেউ অঙ্গীকারের নাম নেন, কেউ আনুগত্যের। তবে প্রত্যেকের ব্যাখ্যায় এটা মেজাজ বদল নয়, পাওনা দায় থেকে মুখ ফেরানো।"
+          },
+          {
+            "en": "The last clause, wa-hum mu'ridun, is a nominal sentence: while they were people turning aside. It describes a state that held while the turning happened, and the commentators supply different objects for it. At-Tabari: turning aside from the covenant. Al-Qurtubi and the Muyassar: from Islam, and al-Qurtubi adds that they showed this aversion openly. As-Sa'di: paying no attention to the good. The verse names no object, so each reading stays a reading.",
+            "bn": "শেষ অংশ ওয়া হুম মু'রিদূন একটি নামবাচক বাক্য: আর তারা ছিল বিমুখ। মুখ ফেরানোর সময় তারা কোন অবস্থায় ছিল, বাক্যটি তা জানায়। কিসের থেকে বিমুখ, সে ব্যাপারে মুফাসসিরদের ব্যাখ্যা আলাদা। তাবারী বলেন, অঙ্গীকার থেকে। কুরতুবী ও মুয়াসসার বলেন, ইসলাম থেকে, আর কুরতুবী যোগ করেন যে এই বিমুখতা তারা প্রকাশ্যেই দেখাত। সা'দীর মতে, তারা ভালো কাজের দিকে ফিরেও তাকাত না। আয়াত নিজে কোনো বস্তুর নাম বলেনি, তাই প্রতিটি ব্যাখ্যা ব্যাখ্যাই থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pledged With the Tongue Alone?",
+          "bn": "শুধু মুখের অঙ্গীকার?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi, discussing the pledge in 9:75 that this verse sees broken, says the words made a covenant with Allah allow two possibilities. The man may have pledged with his tongue without holding it in his heart. Or he may have pledged with both, and then an evil ending overtook him, for deeds are judged by their endings and days by their outcomes. The second is the harder warning: it reaches even a person whose pledge was sincere when made.",
+            "bn": "৯:৭৫ আয়াতের যে অঙ্গীকার এ আয়াতে ভেঙে যেতে দেখা যায়, তার আলোচনায় কুরতুবী বলেন, আল্লাহর সঙ্গে অঙ্গীকার করল কথাটিতে দুটি সম্ভাবনা আছে। হতে পারে লোকটি মুখে অঙ্গীকার করেছিল, অন্তরে তা বিশ্বাস করেনি। আবার হতে পারে মুখ ও অন্তর দুটো দিয়েই করেছিল, তারপর মন্দ পরিণতি তাকে পেয়ে বসেছে। কারণ আমলের বিচার হয় শেষ দিয়ে, আর দিনের বিচার পরিণাম দিয়ে। দ্বিতীয়টাই কঠিনতর সতর্কবাণী। কারণ তা এমন মানুষের কাছেও পৌঁছে যায়, অঙ্গীকারের দিন যার নিয়ত খাঁটিই ছিল।"
+          },
+          {
+            "en": "He then asks what kind of pledge it was. If it was a vow, keeping it is obligatory without disagreement and leaving it is a sin; if it was an oath, keeping it is not obligatory, by agreement. But he moves the weight elsewhere. A poor man owes no zakat. This man asked Allah for wealth on which zakat would fall due, and when it came he abandoned what the religion would have required of him even had he never pledged anything. The pledge added nothing to the duty; it only made the failure louder.",
+            "bn": "এরপর তিনি প্রশ্ন তোলেন, অঙ্গীকারটা কোন ধরনের ছিল। মানত হলে তা পূরণ করা ওয়াজিব, এতে কোনো মতভেদ নেই, আর তা ছেড়ে দেওয়া গুনাহ। কসম হলে তা রক্ষা করা ওয়াজিব নয়, এ ব্যাপারে সবাই একমত। তবে কুরতুবী মূল ভারটা অন্য জায়গায় রাখেন। গরিবের উপর যাকাত ফরজ নয়। এই লোক আল্লাহর কাছে এমন সম্পদ চেয়েছিল, যাতে যাকাত ফরজ হয়। সম্পদ আসার পর সে সেটাও ছেড়ে দিল, যা কোনো অঙ্গীকার না করলেও দ্বীন তার উপর চাপিয়ে দিত। অঙ্গীকার দায়িত্বে কিছু যোগ করেনি, শুধু ব্যর্থতাটাকে আরও প্রকট করেছে।"
+          },
+          {
+            "en": "What entangled him, al-Qurtubi says, was asking for wealth in order to pay rights, when the asking was not made with a sincere intention. He then records a disagreement among the jurists. Whoever says, if I come to own such a thing it is charity, is bound by it according to Abu Hanifa and not bound according to ash-Shafi'i; Ahmad held it binding for freeing a slave but not for divorce. Ash-Shafi'i argued from a narration in Abu Dawud and at-Tirmidhi about pledges over what one does not yet own; al-Qurtubi takes the verse itself as evidence that such a pledge binds.",
+            "bn": "কুরতুবী বলেন, লোকটিকে যা ফাঁসিয়েছিল তা হল হক আদায়ের কথা বলে সম্পদ চাওয়া, অথচ সেই চাওয়ায় নিয়ত খাঁটি ছিল না। এরপর তিনি ফকিহদের একটি মতভেদ উল্লেখ করেন। কেউ যদি বলে, অমুক জিনিসের মালিক হলে তা সদকা, তবে আবু হানীফার মতে এ কথা তার উপর বাধ্যতামূলক হয়, শাফেয়ীর মতে হয় না। আহমাদের মতে দাসমুক্তির বেলায় তা বাধ্যতামূলক, তালাকের বেলায় নয়। শাফেয়ী দলিল দিয়েছেন আবু দাউদ ও তিরমিযীর একটি বর্ণনা থেকে, যার বিষয় এখনো মালিকানায় আসেনি এমন জিনিসের অঙ্গীকার। আর কুরতুবী আয়াতটিকেই প্রমাণ ধরেন যে এমন অঙ্গীকার বাধ্যতামূলক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Man, Two, or Three",
+          "bn": "একজন, দুজন, না তিনজন"
+        },
+        "p": [
+          {
+            "en": "The verse says only wa-minhum, and among them, and names no one. At-Tabari reports that the people of interpretation differed over whom it meant. From Ibn 'Abbas he gives a report that a man of the Ansar called Tha'labah ibn Hatib came to a gathering, took them as witnesses and said that if Allah gave him of His bounty he would give every holder of a right his right, give charity and join his kin; Allah tested him with wealth and he broke his word. From Qatada: a man of the Ansar, at a gathering of the Ansar.",
+            "bn": "আয়াতে শুধু আছে ওয়া মিনহুম, আর তাদের মধ্যে কেউ কেউ। কারও নাম নেই। তাবারী জানান, আয়াতটি কাকে উদ্দেশ করে, তা নিয়ে তাফসীরবিদদের মধ্যে মতভেদ হয়েছে। ইবন আব্বাস (রাঃ) থেকে তিনি একটি বর্ণনা আনেন: সা'লাবা ইবন হাতিব নামে আনসারের এক লোক একটি মজলিসে এসে উপস্থিতদের সাক্ষী রেখে বলেছিল, আল্লাহ যদি আমাকে তাঁর অনুগ্রহ থেকে দেন, আমি প্রত্যেক হকদারকে তার হক দেব, সদকা করব, আত্মীয়তার হক আদায় করব। আল্লাহ সম্পদ দিয়ে তাকে পরীক্ষা করলেন, আর সে ওয়াদা ভঙ্গ করল। কাতাদা থেকে: আনসারের এক লোক, আনসারেরই এক মজলিসে।"
+          },
+          {
+            "en": "Others counted more. At-Tabari gives from al-Hasan that the two who made the pledge were Tha'labah ibn Hatib and Mu'attib ibn Qushayr, both of Banu 'Amr ibn 'Awf, and from Mujahid that two men went out to a seated company and swore by Allah that if He provided for them they would give charity. Al-Qurtubi relays from ad-Dahhak that it came down about men of the hypocrites, naming Nabtal ibn al-Harith, Jadd ibn Qays and Mu'attib ibn Qushayr, and says this is the likelier account. He also relays a report from Ibn 'Abbas naming a different man.",
+            "bn": "অন্যরা সংখ্যা আরও বাড়িয়েছেন। তাবারী হাসান বসরী থেকে আনেন, অঙ্গীকারকারী ছিল দুজন: সা'লাবা ইবন হাতিব আর মু'আত্তিব ইবন কুশাইর, দুজনেই বনু আমর ইবন আওফের লোক। মুজাহিদ থেকে আনেন, দুজন লোক এক বসা জমায়েতের সামনে গিয়ে আল্লাহর কসম খেয়ে বলেছিল, তিনি রিজিক দিলে তারা সদকা করবে। কুরতুবী দাহহাক থেকে বর্ণনা করেন, আয়াতটি নাযিল হয়েছিল মুনাফিকদের কয়েকজন সম্পর্কে। তিনি নাম বলেন নাবতাল ইবনুল হারিস, জাদ্দ ইবন কাইস আর মু'আত্তিব ইবন কুশাইরের, এবং বলেন এ বর্ণনাই বেশি সংগত। ইবন আব্বাস (রাঃ) থেকে তিনি আরেকটি বর্ণনাও আনেন, যাতে ভিন্ন এক লোকের নাম আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Well-Known Story, Weighed",
+          "bn": "প্রসিদ্ধ কাহিনি, পাল্লায় মেপে"
+        },
+        "p": [
+          {
+            "en": "The longest account comes through Abu Umamah al-Bahili. At-Tabari gives it with its chain, Ibn Kathir gives it from Ibn Jarir and Ibn Abi Hatim, al-Qurtubi calls it well known, and Ma'arif al-Qur'an adds Ibn Marduwayh, at-Tabarani and al-Bayhaqi among its reporters. In outline it tells of a man whose flocks grew until he drifted from the congregation and then from the Friday prayer, who called the zakat a sister of the jizya when the collectors came, and whose later offers to pay were not accepted.",
+            "bn": "সবচেয়ে দীর্ঘ বর্ণনাটি এসেছে আবু উমামা আল-বাহিলী (রাঃ)-এর সূত্রে। তাবারী সনদসহ তা উল্লেখ করেছেন, ইবন কাসীর এনেছেন ইবন জারীর ও ইবন আবী হাতিম থেকে, কুরতুবী একে প্রসিদ্ধ বলেছেন। মাআরিফুল কুরআন বর্ণনাকারীদের তালিকায় ইবন মারদুওয়াই, তাবারানী ও বায়হাকীর নামও যোগ করেছে। মোটা দাগে কাহিনিটা এক লোকের। তার পশুপাল বাড়তে বাড়তে সে প্রথমে জামাত থেকে, পরে জুমআ থেকেও দূরে সরে যায়। যাকাত আদায়কারীরা এলে সে যাকাতকে বলে জিজিয়ার বোন। পরে সে দিতে চাইলেও তার দান আর গ্রহণ করা হয়নি।"
+          },
+          {
+            "en": "The words this account gives to the Prophet ﷺ are not quoted here. In the text fetched for this verse, Ibn Kathir and Ma'arif al-Qur'an relay it without grading it. Al-Qurtubi weighs it and rejects it. Tha'labah, he writes, was an Ansari who fought at Badr, one of those whose faith Allah and His Messenger attested, so what is narrated about him is not sound. He quotes Abu 'Umar ibn 'Abd al-Barr: perhaps the claim that Tha'labah was the refuser of zakat about whom the verse came down is not sound, and Allah knows best.",
+            "bn": "এই বর্ণনায় নবী ﷺ-এর মুখে যেসব কথা দেওয়া হয়েছে, সেগুলো এখানে উদ্ধৃত করা হচ্ছে না। এ আয়াতের জন্য যে পাঠ সংগ্রহ করা হয়েছে, তাতে ইবন কাসীর ও মাআরিফুল কুরআন বর্ণনাটির মান যাচাই না করেই তা উল্লেখ করেছেন। কুরতুবী একে যাচাই করে প্রত্যাখ্যান করেছেন। তিনি লেখেন, সা'লাবা ছিলেন বদরে অংশ নেওয়া একজন আনসারী, যাঁদের ঈমানের সাক্ষ্য আল্লাহ ও তাঁর রসূল দিয়েছেন। তাই তাঁর সম্পর্কে যা বর্ণিত হয়েছে তা সহীহ নয়। তিনি আবু উমার ইবন আব্দিল বার্রের কথাও আনেন: সা'লাবাই সেই যাকাত অস্বীকারকারী যার ব্যাপারে আয়াত নাযিল হয়েছে, এ দাবি সম্ভবত সহীহ নয়, আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "Al-Qurtubi also cites Ibn 'Abd al-Barr on why the identification is hard: what is reported of the people of Badr does not sit with the verse's next words, so He made hypocrisy follow in their hearts. So this article holds the story at a distance. It names no one a hypocrite in its own voice and builds nothing on the narration. The verse does not need the name. What it describes is a sequence, a promise made in need, a gift given in full, and a hand that closed, and that sequence can be recognised without knowing whose it was.",
+            "bn": "কুরতুবী ইবন আব্দিল বার্রের আরেকটি কথা আনেন, যাতে বোঝা যায় এই শনাক্তকরণ কেন কঠিন: বদরীদের সম্পর্কে যা বর্ণিত আছে, তা আয়াতের পরের কথার সঙ্গে মেলে না, ফলে তিনি তাদের অন্তরে মুনাফিকী বসিয়ে দিলেন। তাই এ লেখা কাহিনিটিকে দূরেই রাখছে। নিজের ভাষায় কাউকে মুনাফিক বলছে না, আর ওই বর্ণনার উপর কিছুই দাঁড় করাচ্ছে না। আয়াতেরও নামের দরকার নেই। আয়াত দেখায় একটা ধারা: অভাবের দিনে করা ওয়াদা, পুরোপুরি দেওয়া অনুগ্রহ, আর গুটিয়ে যাওয়া একটা হাত। কার ঘটনা না জেনেও এ ধারা চিনে নেওয়া যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hypocrisy as the Sequel",
+          "bn": "পরিণামে মুনাফিকী"
+        },
+        "p": [
+          {
+            "en": "The next verse gives the outcome: so He made hypocrisy follow in their hearts until the Day they meet Him. Ibn Kathir reads it as this deed leaving hypocrisy settled in their hearts until the day they meet Allah, the Day of Resurrection, and he seeks refuge with Allah from such an end. At-Tabari reads the same phrase as the day of their death and their leaving the world, and draws a hard conclusion from it: He denied them repentance, since He set their hypocrisy to last until then.",
+            "bn": "পরের আয়াত পরিণাম জানায়: ফলে তিনি তাদের অন্তরে মুনাফিকী বসিয়ে দিলেন, সেই দিন পর্যন্ত যেদিন তারা তাঁর সঙ্গে সাক্ষাৎ করবে। ইবন কাসীরের ব্যাখ্যায়, এই কাজের ফলে মুনাফিকী তাদের অন্তরে স্থায়ী হয়ে বসল, আল্লাহর সঙ্গে সাক্ষাতের দিন পর্যন্ত, অর্থাৎ কিয়ামতের দিন পর্যন্ত। এমন পরিণতি থেকে তিনি আল্লাহর আশ্রয় চান। তাবারী একই কথাকে বোঝেন মৃত্যুর দিন, দুনিয়া ছেড়ে যাওয়ার দিন হিসেবে। সেখান থেকে তিনি কঠিন এক সিদ্ধান্তে পৌঁছান: আল্লাহ তাদের তওবা থেকে বঞ্চিত করলেন, কারণ তিনিই তাদের মুনাফিকী সেই দিন পর্যন্ত স্থির করে দিয়েছেন।"
+          },
+          {
+            "en": "So the one phrase is read two ways, as the Day of Resurrection and as the day of death. Al-Qurtubi raises a further point. The verb a'qabahum, He made it follow, suggests that whoever made the pledge was not a hypocrite before it, unless it means He increased them in hypocrisy and they held to it until death. At-Tabari names what brought the sequel on: their stinginess with the right of Allah in what He had given them, their breaking of the promise, and their breaking of His covenant.",
+            "bn": "অর্থাৎ একই কথার দুই পাঠ: কিয়ামতের দিন, আর মৃত্যুর দিন। কুরতুবী আরেকটি প্রশ্ন তোলেন। আ'কাবাহুম ক্রিয়ার অর্থ, তিনি পেছনে লাগিয়ে দিলেন। এতে মনে হয়, যে অঙ্গীকার করেছিল সে আগে মুনাফিক ছিল না। তবে অর্থ এমনও হতে পারে যে আল্লাহ তাদের মুনাফিকী আরও বাড়িয়ে দিলেন, আর মৃত্যু পর্যন্ত তারা তাতেই অটল থাকল। এই পরিণামের কারণ তাবারী নিজেই গুনে দেন: আল্লাহ যা দিয়েছিলেন তাতে তাঁর হক আদায়ে কৃপণতা, ওয়াদা ভঙ্গ, আর তাঁর সঙ্গে করা অঙ্গীকার ভেঙে ফেলা।"
+          },
+          {
+            "en": "Ibn Kathir, on these verses, cites the Two Sahihs. In al-Bukhari's Sahih (no. 33), Abu Hurayrah reports that the Prophet ﷺ said: \"The sign of the hypocrite is three: when he speaks, he lies; when he promises, he breaks it; and when he is trusted, he betrays.\" The verse names two of the three, the broken promise and the habit of lying. A reader can use it as a list to check against oneself, not a tool for sorting others.",
+            "bn": "ইবন কাসীর এ আয়াতগুলোর আলোচনায় বুখারী ও মুসলিমের হাদীস আনেন। সহীহ বুখারীতে (নং ৩৩) আবু হুরায়রা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"মুনাফিকের আলামত তিনটি: যখন কথা বলে, মিথ্যা বলে; যখন ওয়াদা করে, ভঙ্গ করে; আর যখন তার কাছে আমানত রাখা হয়, খেয়ানত করে।\" আয়াতটি তিনটির দুটির নাম নেয়: ভাঙা ওয়াদা আর মিথ্যার অভ্যাস। পাঠক একে কাজে লাগাতে পারেন নিজেকে মিলিয়ে দেখার তালিকা হিসেবে, অন্যদের ভাগ করার যন্ত্র হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Left for the Reader",
+          "bn": "পাঠকের জন্য যা থাকে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: particular people in the Prophet's ﷺ time whose inner state Allah knew and revealed. It licenses nothing against any living person or community. No reader may call a neighbour, a relative or a struggling donor a hypocrite because a promise of charity went unkept. The very next verse, 9:78, reminds that Allah knows their secrets and their private talk, and Ibn Kathir comments that He knows them better than they know themselves. That knowledge is His, not ours.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: নবী ﷺ-এর যুগের নির্দিষ্ট কিছু মানুষ, যাদের অন্তরের অবস্থা আল্লাহ জানতেন এবং প্রকাশ করে দিয়েছেন। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে আয়াতটি কোনো অনুমতি দেয় না। দানের ওয়াদা রক্ষা হয়নি বলে প্রতিবেশী, আত্মীয় বা টানাটানিতে থাকা কোনো দাতাকে মুনাফিক বলার অধিকার কোনো পাঠকের নেই। ঠিক পরের আয়াত ৯:৭৮ মনে করিয়ে দেয়, আল্লাহ তাদের গোপন কথা আর গোপন পরামর্শ জানেন। ইবন কাসীর বলেন, তারা নিজেদের যতটা চেনে, আল্লাহ তাদের তার চেয়ে ভালো চেনেন। এ জ্ঞান তাঁর, আমাদের নয়।"
+          },
+          {
+            "en": "What is left for the reader is the mirror. Qatada, as al-Qurtubi gives it, closes the man's story with a warning: beware of lying, for it leads to wickedness. The pledge when I have more is easy to make and easy to believe, and the verse opens with fa-lamma, when, as if no gap separated the gift from the test. A reader who has made such a promise can begin keeping it today, from what is already in hand.",
+            "bn": "পাঠকের জন্য বাকি থাকে আয়না। কুরতুবীর উদ্ধৃতিতে কাতাদা লোকটির ঘটনা শেষ করেন এক সতর্কবাণী দিয়ে: মিথ্যা থেকে সাবধান থাকো, কারণ মিথ্যা পাপাচারের দিকে নিয়ে যায়। বেশি পেলে দেব, এমন ওয়াদা করা সহজ, নিজে বিশ্বাস করাও সহজ। আর আয়াত শুরুই হয় ফালাম্মা দিয়ে, যখনই, যেন দান আর পরীক্ষার মাঝে কোনো ফাঁক নেই। যে পাঠক এমন ওয়াদা করে রেখেছেন, তিনি হাতে যা আছে তা থেকেই আজ তা রক্ষা করা শুরু করতে পারেন।"
+          }
+        ]
+      }
+    ]
+  },
   "9:79": {
     "sections": [
       {
