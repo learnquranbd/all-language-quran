@@ -4623,6 +4623,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:99": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Questions Back to Back",
+          "bn": "পরপর দুটি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Qul ya ahla al-kitabi lima tasudduna 'an sabili Allahi man amana: say, O People of the Scripture, why do you avert from the way of Allah those who believe? The verse is the second of a pair. In 3:98 the Prophet ﷺ is told to ask the same people why they disbelieve in the verses of Allah, while Allah is Witness over what they do. Here the same opening puts a second question. The first concerned their own refusal. This one concerns what they were doing to other people.",
+            "bn": "কুল ইয়া আহলাল কিতাবি লিমা তাসুদ্দূনা আন সাবীলিল্লাহি মান আমানা: বল, হে কিতাবধারীগণ, যে ঈমান এনেছে তাকে কেন আল্লাহর পথ থেকে ফিরিয়ে দিচ্ছ? আয়াতটি একজোড়া প্রশ্নের দ্বিতীয়টি। ৩:৯৮ আয়াতে নবী ﷺ-কে বলা হয়েছিল এই একই লোকদের জিজ্ঞেস করতে, তোমরা আল্লাহর আয়াতকে কেন অস্বীকার কর, অথচ তোমাদের কাজের সাক্ষী আল্লাহ নিজে। এখানে একই সম্বোধন দিয়ে আরেকটি প্রশ্ন আসে। প্রথম প্রশ্ন ছিল তাদের নিজেদের অস্বীকার নিয়ে। এবারের প্রশ্ন অন্য মানুষের সঙ্গে তারা কী করছিল, তা নিয়ে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an notes that the passage returns to the People of the Book after the House and the Hajj of 3:96 and 3:97, and finds eloquence in the order. They are taken to task first for their own disbelief and only then for turning others away, since they would have done better to take the right path themselves than to draw others off it. As-Sa'di reads 3:98 to 3:101 as one passage and says these people combined three things: disbelief in the verses, blocking those who believed in Allah from them, and distorting and bending them away from what they were made for.",
+            "bn": "মাআরিফুল কুরআন লক্ষ করে, ৩:৯৬ ও ৩:৯৭ আয়াতে কাবাঘর আর হজের কথার পর আলোচনা আবার কিতাবধারীদের দিকে ফিরেছে। ক্রমটার মধ্যেও সে বাগ্মিতা দেখে। আগে তাদের ধরা হয়েছে নিজেদের কুফরির জন্য, তারপর অন্যদের ফেরানোর জন্য। কারণ অন্যদের ভুল পথে টানতে শক্তি খরচ না করে নিজেরা সঠিক পথে এলেই বরং বেশি যুক্তিসংগত হতো। সা'দী ৩:৯৮ থেকে ৩:১০১ পর্যন্ত আয়াতগুলোকে একটি আলোচনা ধরে পড়েন। তাঁর মতে এরা তিনটি কাজ একসঙ্গে করেছিল: আয়াতগুলোকে অস্বীকার, যারা আল্লাহর উপর ঈমান এনেছে তাদের সেগুলো থেকে আটকানো, আর আয়াতগুলোকে বিকৃত করে, বাঁকিয়ে, যে উদ্দেশ্যে সেগুলো এসেছে তা থেকে সরিয়ে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Was Turning Whom Away",
+          "bn": "কে কাকে ফেরাচ্ছিল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari takes the address to be the Jews of Bani Isra'il and others who claim to affirm the books of Allah. The sabil, he says, is the road of Allah and the highway He laid down for His prophets, His friends and the people of faith, and man amana is whoever affirmed Allah, His Messenger and what he brought. Al-Qurtubi and al-Baghawi gloss the verb as turning people away from the religion of Allah. Al-Muyassar frames the question as: why do you hold back from Islam whoever wants to enter it?",
+            "bn": "তাবারীর মতে সম্বোধন বানী ইসরাঈলের ইহুদিদের প্রতি, আর তাদের প্রতিও যারা আল্লাহর কিতাবগুলো মানার দাবি করে। তিনি বলেন, সাবীল হলো আল্লাহর রাস্তা, সেই রাজপথ যা তিনি নবীদের, তাঁর বন্ধুদের আর ঈমানদারদের জন্য নির্ধারণ করেছেন। মান আমানা মানে যে আল্লাহকে, তাঁর রাসূলকে আর রাসূল যা এনেছেন তা সত্য বলে মেনেছে। কুরতুবী ও বাগাভী ক্রিয়াটির অর্থ করেন, মানুষকে আল্লাহর দ্বীন থেকে ফিরিয়ে দেওয়া। মুয়াসসার প্রশ্নটি সাজায় এভাবে: যে ইসলামে ঢুকতে চায়, তাকে তোমরা কেন বাধা দাও?"
+          },
+          {
+            "en": "At-Tabari also records how the blocking was done. One view says the verse meant the Jews living in Madinah when it came down, together with the Christians, and that they blocked the way by telling anyone who asked whether they found the Prophet ﷺ described in their books that they did not. As-Suddi says so plainly: whenever anyone asked them whether they found Muhammad, they said no. Qatada says they turned whoever believed in Allah away from Islam and from the Prophet. Al-Hasan says Allah forbade them to turn the Muslims aside, while they wanted to divert people into misguidance.",
+            "bn": "পথ আটকানোর কাজটা কীভাবে হতো, তাবারী তাও লিখে রাখেন। একটি মতে আয়াতের লক্ষ্য আয়াত নাযিলের সময় মদীনায় বাস করা ইহুদিরা, আর তাদের সঙ্গে খ্রিস্টানরাও। কেউ যদি জিজ্ঞেস করত তাদের কিতাবে নবী ﷺ-এর বিবরণ আছে কি না, তারা বলত নেই। এভাবেই তারা পথ আটকাত। সুদ্দী কথাটা সরাসরি বলেন: কেউ জিজ্ঞেস করলে, তোমরা কি মুহাম্মাদকে পাও, তারা বলত, না। কাতাদা বলেন, আল্লাহর উপর যে ঈমান এনেছে, তারা তাকে ইসলাম থেকে আর আল্লাহর নবী থেকে ফিরিয়ে দিত। হাসান বলেন, আল্লাহ তাদের নিষেধ করেছেন মুসলিমদের পথ থেকে সরাতে, অথচ তারা মানুষকে গোমরাহির দিকে ঘুরিয়ে দিতে চাইত।"
+          },
+          {
+            "en": "At-Tabari opens, though, with another report: that 3:98, 3:99 and the verses after them to 3:105 came down about a man of the Jews who tried to set the Aws and the Khazraj against each other after Islam, so that they would return to their old enmity. In a report from Ibn Ishaq, from a narrator he calls trustworthy, from Zayd ibn Aslam, the man is named Sha's ibn Qays, and 3:100 onwards is said to address the men he provoked. The episode is told in the article on 3:102 and 3:103. At-Tabari gives it no grading, and Ma'arif al-Qur'an relays it without any.",
+            "bn": "তবে তাবারী শুরু করেন আরেকটি বর্ণনা দিয়ে। তাতে বলা হয়েছে, ৩:৯৮, ৩:৯৯ আর তার পরের আয়াতগুলো ৩:১০৫ পর্যন্ত নাযিল হয়েছিল এক ইহুদি লোককে কেন্দ্র করে। ইসলাম আসার পর সে আওস ও খাযরাজকে পরস্পরের বিরুদ্ধে উসকে দিতে চেয়েছিল, যাতে তারা পুরোনো শত্রুতায় ফিরে যায়। ইবন ইসহাকের এক বর্ণনায়, যা তিনি নিয়েছেন এমন এক বর্ণনাকারী থেকে যাঁকে তিনি নির্ভরযোগ্য বলেন, আর তিনি যায়দ ইবন আসলাম থেকে, লোকটির নাম শা'স ইবন কায়স। সেখানে বলা হয়েছে, ৩:১০০ থেকে পরের আয়াতগুলো তার উসকানিতে মেতে ওঠা লোকদের উদ্দেশে। ঘটনাটির বিবরণ আছে ৩:১০২ ও ৩:১০৩ আয়াতের প্রবন্ধে। তাবারী এর কোনো মান নির্ণয় করেননি, মাআরিফুল কুরআনও মান ছাড়াই বর্ণনা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seeking a Bend in the Road",
+          "bn": "সোজা পথে বাঁক খোঁজা"
+        },
+        "p": [
+          {
+            "en": "Tabghunaha 'iwajan: seeking crookedness for it. At-Tabari explains it as tabghuna laha 'iwajan, you seek for it a crookedness, and says the pronoun returns to the sabil, made feminine because the word is treated as feminine. Al-Qurtubi agrees that a lam has been dropped, and compares wa idha kaluhum in 83:3, when they measure for them. Al-Baghawi glosses it simply as you seek it, and spells out the sense: why do you avert people from the way of Allah, seeking crookedness for it?",
+            "bn": "তাবগূনাহা ইওয়াজা: তার জন্য বক্রতা খোঁজা। তাবারী ব্যাখ্যা করেন, এর মানে তাবগূনা লাহা ইওয়াজা, তোমরা তার জন্য বক্রতা খোঁজ। তাঁর মতে সর্বনামটি ফিরেছে সাবীল শব্দের দিকে, আর সাবীলকে স্ত্রীলিঙ্গ ধরা হয় বলেই সর্বনামও স্ত্রীলিঙ্গ। কুরতুবীও বলেন, এখানে একটি লাম বাদ পড়েছে, আর তুলনা দেন ৮৩:৩ আয়াতের ওয়া ইযা কালূহুম কথাটির সঙ্গে, যার অর্থ যখন তারা তাদের জন্য মেপে দেয়। বাগাভী সংক্ষেপে বলেন, তোমরা তা খোঁজ। অর্থটাও তিনি খুলে বলেন: বক্রতা খুঁজতে খুঁজতে তোমরা কেন মানুষকে আল্লাহর পথ থেকে সরাও?"
+          },
+          {
+            "en": "What is the crookedness? At-Tabari defines 'iwaj as awad and mayl, a warp and a leaning, and says it means straying from guidance. The words are spoken of the path, he adds, but the meaning is for its people: you seek, for those who are on the road of truth, a straying from the truth. Al-Baghawi and al-Muyassar give zaygh and mayl, swerving and leaning, al-Muyassar adding away from the right course and uprightness. As-Sa'di names the method: tahrif and ta'wij, distorting the verses and bending them.",
+            "bn": "বক্রতা বলতে কী বোঝায়? তাবারী ইওয়াজের সংজ্ঞা দেন আওয়াদ আর মাইল, অর্থাৎ বাঁক আর হেলে পড়া। তাঁর মতে এর মানে হিদায়াত থেকে বিচ্যুতি। তিনি যোগ করেন, কথাটা বলা হয়েছে পথ সম্পর্কে, কিন্তু উদ্দেশ্য পথের মানুষ। যারা সত্যের পথে আছে, তোমরা তাদের জন্য সত্য থেকে সরে যাওয়া খোঁজ। বাগাভী ও মুয়াসসার বলেন যাইগ আর মাইল, সরে যাওয়া আর ঝুঁকে পড়া। মুয়াসসার জুড়ে দেয়, সঠিক লক্ষ্য আর সরলতা থেকে। সা'দী পদ্ধতিটার নাম দেন তাহরীফ আর তা'বীজ: আয়াতকে বিকৃত করা আর বাঁকানো।"
+          },
+          {
+            "en": "Three commentators separate two vowels. 'Iwaj with an i, at-Tabari says, is crookedness in religion and speech; 'awaj with an a is a lean in a wall, a spear or anything standing upright. Al-Qurtubi and al-Baghawi credit this to Abu 'Ubayda and add deeds to religion and speech. At-Tabari also records a different reading of the whole clause. On as-Suddi's view the sabil is the Prophet ﷺ himself, whose description they denied finding, and tabghunaha 'iwajan means you seek his ruin. At-Tabari presents this as as-Suddi's reading, and says the other reports follow his own explanation: the path is Islam and the truth the Prophet ﷺ brought from Allah.",
+            "bn": "তিনজন মুফাসসির দুটি স্বরচিহ্নের পার্থক্য দেখান। তাবারী বলেন, ই-কার দিয়ে ইওয়াজ হলো দ্বীন ও কথার বক্রতা। আর আ-কার দিয়ে আওয়াজ হলো দেয়াল, বর্শা বা যেকোনো খাড়া জিনিসের হেলে পড়া। কুরতুবী ও বাগাভী কথাটি আবু উবাইদার বলে উল্লেখ করেন, আর দ্বীন ও কথার সঙ্গে আমলকেও যোগ করেন। পুরো বাক্যাংশটির আরেকটি পাঠও তাবারী লিখে রাখেন। সুদ্দীর মতে সাবীল স্বয়ং নবী ﷺ, যাঁর বিবরণ কিতাবে পাওয়ার কথা তারা অস্বীকার করত। সে হিসেবে তাবগূনাহা ইওয়াজা মানে, তোমরা তাঁর ধ্বংস চাও। তাবারী এটিকে সুদ্দীর ব্যাখ্যা হিসেবেই পেশ করেন। আর বলেন, বাকি বর্ণনাগুলো তাঁর নিজের ব্যাখ্যার দিকেই যায়, যেখানে পথ মানে ইসলাম,"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing, and Still Blocking",
+          "bn": "জেনেশুনেও পথ আটকানো"
+        },
+        "p": [
+          {
+            "en": "Wa antum shuhada': while you are witnesses. At-Tabari reads it as witnesses that the path you turn people from is true, something you know and find in your own books. Qatada, in at-Tabari's tafsir, says they were witnesses, in what they read of the Book of Allah, that Muhammad is the Messenger of Allah and that Islam is the religion of Allah, besides which He accepts no other and rewards for no other, found written with them in the Torah and the Injil. Al-Baghawi gives the same sense: written in the Torah are the description of Muhammad ﷺ and that the religion Allah accepts is Islam.",
+            "bn": "ওয়া আনতুম শুহাদা: অথচ তোমরা সাক্ষী। তাবারী এর অর্থ করেন, যে পথ থেকে তোমরা মানুষকে ফেরাও, তা যে সত্য, তোমরা তার সাক্ষী। তোমরা তা জান, নিজেদের কিতাবেই তা পাও। তাঁর তাফসীরে কাতাদার বক্তব্য আছে: আল্লাহর কিতাবের যা তারা পড়ত, তাতে তারা সাক্ষী ছিল যে মুহাম্মাদ আল্লাহর রাসূল, আর ইসলাম আল্লাহর দ্বীন। এটি ছাড়া তিনি আর কোনো দ্বীন কবুল করেন না, আর কোনো দ্বীনের প্রতিদানও দেন না। এ কথা তারা তাওরাত ও ইনজীলে লেখা পেত। বাগাভীও একই অর্থ দেন: তাওরাতে লেখা আছে মুহাম্মাদ ﷺ-এর বিবরণ, আর লেখা আছে যে আল্লাহর কাছে গ্রহণযোগ্য দ্বীন ইসলাম।"
+          },
+          {
+            "en": "Ibn Kathir grounds the knowledge in what the earlier prophets had passed on: they gave glad tidings of the unlettered Arab Prophet ﷺ, so the People of the Scripture knew that what he brought was the truth from Allah, and still worked with all their effort and strength to block those who wanted faith. Al-Qurtubi opens with a different gloss: shuhada' here means 'uqala', people of sound mind. Only after it, introduced as something that is also said, does he give the reading about what is written in the Torah. Al-Qurtubi keeps both.",
+            "bn": "ইবন কাসীর এই জানার উৎস দেখান আগের নবীদের রেখে যাওয়া খবরে। তাঁরা উম্মী আরব নবী ﷺ-এর আগমনের সুসংবাদ দিয়েছিলেন। ফলে কিতাবধারীরা জানত, তিনি যা এনেছেন তা আল্লাহর কাছ থেকে আসা সত্য। তবু ঈমান আনতে চাওয়া লোকদের আটকাতে তারা সমস্ত চেষ্টা আর সামর্থ্য খাটাত। কুরতুবী শুরু করেন ভিন্ন একটি ব্যাখ্যা দিয়ে: এখানে শুহাদা মানে উকালা, সুস্থ বিবেকের মানুষ। তারপর 'এও বলা হয়' কথাটি দিয়ে তিনি তাওরাতে লেখা থাকার ব্যাখ্যাটি আনেন। কুরতুবী দুটিই রেখেছেন।"
+          },
+          {
+            "en": "As-Sa'di draws the moral weight out of the phrase. They were witnesses to all of it, he says, knowing that what they did was the gravest disbelief, the kind that earns the gravest punishment. The verse itself also sets up a quiet contrast with the one before it. In 3:98 Allah is shahid, the Witness over what they do. In 3:99 they are shuhada', witnesses to the truth they were hiding.",
+            "bn": "সা'দী কথাটির নৈতিক ভার স্পষ্ট করেন। তাঁর মতে তারা সবকিছুর সাক্ষী ছিল। তারা জানত, যা করছে তা সবচেয়ে বড় কুফরি, যার পরিণাম সবচেয়ে কঠিন শাস্তি। আয়াতটি আগের আয়াতের সঙ্গে নিঃশব্দে একটা তুলনাও তৈরি করে। ৩:৯৮ আয়াতে আল্লাহ শাহীদ, তাদের কাজের সাক্ষী। ৩:৯৯ আয়াতে তারা নিজেরাই শুহাদা, যে সত্য তারা লুকাচ্ছিল তার সাক্ষী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seen, Though Not Yet Repaid",
+          "bn": "দেখা হচ্ছে, হিসাব বাকি"
+        },
+        "p": [
+          {
+            "en": "Wa ma Allahu bi-ghafilin 'amma ta'malun: and Allah is not unaware of what you do. At-Tabari explains that Allah is not heedless of the deeds they did that He is not pleased with, and names two ways it can go: He may hasten the punishment for them in this world, or defer it until they meet Him and He repays them. Ibn Kathir places the repayment on the Day described in 26:88, when neither wealth nor sons will be of any benefit. Al-Muyassar says simply that He will repay them for it.",
+            "bn": "ওয়া মাল্লাহু বিগাফিলিন আম্মা তা'মালূন: আর তোমরা যা কর, আল্লাহ সে বিষয়ে বেখবর নন। তাবারী বলেন, তাদের যেসব কাজে আল্লাহ সন্তুষ্ট নন, সেগুলো থেকে তিনি গাফিল নন। তারপর তিনি দুটি সম্ভাব্য পথ বলেন। দুনিয়াতেই আল্লাহ শাস্তি এগিয়ে আনতে পারেন, অথবা তা পিছিয়ে রাখতে পারেন, যতক্ষণ না তারা তাঁর সামনে হাজির হয় আর তিনি প্রতিদান দেন। ইবন কাসীর এই প্রতিদানকে রাখেন ২৬:৮৮ আয়াতে বর্ণিত সেই দিনে, যেদিন সম্পদ বা সন্তান কোনো কাজে আসবে না। মুয়াসসার সোজা কথায় বলে, তিনি এর প্রতিদান দেবেন।"
+          },
+          {
+            "en": "As-Sa'di turns the negative into a positive: far from being unaware, Allah encompasses their deeds, their intentions and their evil scheming, and will repay them with the worst of recompense. He sets the verse beside 16:88, where those who disbelieved and averted from the way of Allah are given punishment upon punishment for the corruption they caused. Then he notes the turn that follows. Having threatened and rebuked them, Allah turns in mercy to His believing servants and warns them in 3:100, so that those people cannot scheme against them unnoticed.",
+            "bn": "সা'দী না-বাচক কথাটিকে হ্যাঁ-বাচক করে বলেন। আল্লাহ বেখবর তো ননই, বরং তাদের কাজ, নিয়ত আর কুটিল চক্রান্ত সবকিছু তাঁর আয়ত্তে। তিনি এর সবচেয়ে মন্দ প্রতিদান দেবেন। সা'দী আয়াতটিকে রাখেন ১৬:৮৮ আয়াতের পাশে। সেখানে যারা কুফরি করেছে আর আল্লাহর পথ থেকে মানুষকে ফিরিয়েছে, ফাসাদ সৃষ্টির কারণে তাদের শাস্তির উপর শাস্তি বাড়ানো হয়। এরপর তিনি পরের মোড়টা দেখান। ধমক আর তিরস্কারের পর আল্লাহ রহমত নিয়ে ফেরেন তাঁর মুমিন বান্দাদের দিকে, আর ৩:১০০ আয়াতে তাদের সতর্ক করেন, যাতে ওই লোকেরা মুমিনদের অজান্তে তাদের বিরুদ্ধে চক্রান্ত করতে না পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Words in Madyan",
+          "bn": "মাদইয়ানেও একই কথা"
+        },
+        "p": [
+          {
+            "en": "The phrase recurs. In 7:86 Shu'ayb (AS) tells his people: do not sit on every path, threatening and averting from the way of Allah those who believe in Him, seeking crookedness for it. The core is nearly word for word the wording of 3:99, spoken by a prophet to a different people in a different age. In 7:45 and 11:19 those who avert from the way and seek crookedness for it are also described as disbelievers in the Hereafter, and in 14:3 as those who prefer the life of this world over it.",
+            "bn": "কথাটি কুরআনে আরও আছে। ৭:৮৬ আয়াতে শুআইব (আঃ) তাঁর কওমকে বলেন: প্রতিটি পথে বসে থেকো না, হুমকি দিয়ে, আর যারা আল্লাহর উপর ঈমান এনেছে তাদের তাঁর পথ থেকে ফিরিয়ে দিয়ে, সে পথে বক্রতা খুঁজে। মূল কথাটি প্রায় হুবহু ৩:৯৯ আয়াতের শব্দ। অথচ তা বলছেন একজন নবী, ভিন্ন এক জাতিকে, ভিন্ন এক যুগে। ৭:৪৫ ও ১১:১৯ আয়াতে যারা পথ থেকে মানুষকে ফেরায় আর তাতে বক্রতা খোঁজে, তাদের আখিরাত অস্বীকারকারী বলা হয়েছে। আর ১৪:৩ আয়াতে বলা হয়েছে, তারা আখিরাতের চেয়ে দুনিয়ার জীবনকে বেশি ভালোবাসে।"
+          },
+          {
+            "en": "Against all this the Qur'an describes itself. In 18:1 Allah sent down the Book to His servant and placed in it no 'iwaj, and 39:28 calls it an Arabic Qur'an without any crookedness. Al-Qurtubi, explaining the word, cites 20:108, where on the Day people follow the caller and there is no 'iwaj to him, which he takes to mean they cannot swerve from his call. So the word marks three things: people who look for a bend, a Book in which there is none, and a Day when nobody will be able to bend away.",
+            "bn": "এসবের বিপরীতে কুরআন নিজের পরিচয় দেয়। ১৮:১ আয়াতে বলা হয়েছে, আল্লাহ তাঁর বান্দার উপর কিতাব নাযিল করেছেন এবং তাতে কোনো ইওয়াজ রাখেননি। ৩৯:২৮ আয়াত একে বলে কোনো বক্রতাহীন আরবি কুরআন। শব্দটির ব্যাখ্যায় কুরতুবী ২০:১০৮ আয়াত আনেন। সেদিন মানুষ আহ্বানকারীর পেছনে চলবে, তাঁর ক্ষেত্রে কোনো ইওয়াজ থাকবে না। কুরতুবী এর অর্থ করেন, তারা তাঁর ডাক থেকে সরে যেতে পারবে না। এভাবে একটি শব্দ তিনটি জিনিস চিহ্নিত করে। একদল মানুষ, যারা বাঁক খোঁজে। এমন কিতাব, যাতে কোনো বাঁক নেই। আর এমন দিন, যেদিন কেউ বেঁকে সরে যেতে পারবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Rebuke With an Address",
+          "bn": "এ তিরস্কার কাদের উদ্দেশে"
+        },
+        "p": [
+          {
+            "en": "The verse rebukes what certain people did at a certain time: on the commentators' accounts, some of the Jews and Christians in Madinah who denied what they knew, or one man who stirred up an old feud. It licenses nothing against any Jewish or Christian person or community living today. The Qur'an's own judgement falls on the deed, and a few verses later, in 3:113, it says that they are not all alike and praises an upright community among the People of the Scripture who recite the verses of Allah through the night.",
+            "bn": "আয়াতটি নির্দিষ্ট কিছু মানুষের নির্দিষ্ট সময়ের কাজের তিরস্কার। মুফাসসিরদের বর্ণনামতে তারা ছিল মদীনার কিছু ইহুদি ও খ্রিস্টান, যারা জানা সত্য অস্বীকার করত, অথবা একজন লোক, যে পুরোনো শত্রুতা খুঁচিয়ে তুলেছিল। আজ বেঁচে থাকা কোনো ইহুদি বা খ্রিস্টান মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কুরআনের রায় পড়েছে কাজটির উপর। কয়েক আয়াত পরেই ৩:১১৩ আয়াতে কুরআন বলছে, তারা সবাই এক রকম নয়। সেখানে কিতাবধারীদের মধ্যে এক সৎ দলের প্রশংসা আছে, যারা রাতভর আল্লাহর আয়াত তিলাওয়াত করে।"
+          },
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a sound hadith to it. A general narration, not tied to this verse, speaks to its theme. Muslim records in his Sahih (2674), from Abu Hurayrah, that the Messenger of Allah ﷺ said: 'He who called (people) to righteousness, there would be reward (assured) for him like the rewards of those who adhered to it, without their rewards being diminished in any respect. And he who called (people) to error, he shall have to carry (the burden) of its sin, like those who committed it, without their sins being diminished in any respect.'",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তবে আয়াতের বিষয়ের সঙ্গে মেলে এমন একটি সাধারণ বর্ণনা আছে, যা এ আয়াতের সঙ্গে সম্পৃক্ত নয়। মুসলিম তাঁর সহীহ গ্রন্থে (২৬৭৪) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: 'যে হিদায়াতের দিকে ডাকে, তার জন্য রয়েছে তার অনুসারীদের প্রতিদানের সমান প্রতিদান, এতে তাদের প্রতিদান থেকে কিছুই কমবে না। আর যে গোমরাহির দিকে ডাকে, তার উপর চাপবে তার অনুসারীদের গুনাহের সমান গুনাহ, এতে তাদের গুনাহ থেকে কিছুই কমবে না।'"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leaving the Road Clear",
+          "bn": "পথটা খোলা রাখা"
+        },
+        "p": [
+          {
+            "en": "The verse names three things: turning people back from a road, making that road look crooked, and doing it knowingly. Each has quieter forms in ordinary life. A relative mocks someone's new habit of prayer. A friend makes the faith sound joyless and impossible. Someone who knows a ruling or a fact stays silent because saying it would cost him. And the way Muslims behave can itself make the road look bent to those watching from outside it.",
+            "bn": "আয়াতটি তিনটি কাজের নাম নেয়: মানুষকে পথ থেকে ফিরিয়ে দেওয়া, পথটাকে বাঁকা দেখানো, আর জেনেশুনে এ কাজ করা। দৈনন্দিন জীবনে এগুলোর নীরব রূপও আছে। কোনো আত্মীয় কারও নতুন শুরু করা নামাজ নিয়ে ঠাট্টা করে। কোনো বন্ধু দ্বীনকে এমনভাবে তুলে ধরে যেন তা আনন্দহীন আর অসম্ভব। কেউ কোনো মাসআলা বা সত্য জেনেও চুপ থাকে, কারণ বললে তার ক্ষতি হবে। আবার মুসলিমদের আচরণই বাইরে থেকে দেখা মানুষের চোখে পথটাকে বাঁকা করে তুলতে পারে।"
+          },
+          {
+            "en": "The passage gives its own remedy. In 3:101 the believers are asked how they could disbelieve while the verses of Allah are recited to them and His Messenger is among them, and whoever holds firmly to Allah has been guided to a straight path. Ma'arif al-Qur'an calls the Book and the Messenger two powerful, never-failing sources that keep believers firm. The answer to anyone who tries to bend the road, then, is to return to the verses themselves, and to make sure that nobody finds the road harder to walk because of us.",
+            "bn": "আলোচনাটি নিজেই প্রতিকার বলে দেয়। ৩:১০১ আয়াতে মুমিনদের জিজ্ঞেস করা হয়েছে, তোমাদের সামনে আল্লাহর আয়াত তিলাওয়াত হচ্ছে, তোমাদের মাঝে তাঁর রাসূল আছেন, তবু তোমরা কীভাবে কুফরি করবে? আর যে আল্লাহকে শক্ত করে ধরে, সে সরল পথের দিশা পেয়েছে। মাআরিফুল কুরআন কিতাব আর রাসূলকে বলে দুটি শক্তিশালী, কখনো ব্যর্থ না হওয়া উৎস, যা মুমিনদের অবিচল রাখে। তাই কেউ পথ বাঁকাতে চাইলে তার জবাব হলো আয়াতগুলোর কাছেই ফিরে যাওয়া। আর খেয়াল রাখা, আমাদের কারণে যেন কারও জন্য পথ চলা কঠিন না হয়ে যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "3:102-103": {
     "sections": [
       {

@@ -30703,6 +30703,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Meet loss with trust in Allah's decree instead of if only, and weigh everything you gather against His forgiveness and mercy.",
     "lessonBn": "বিপদে 'যদি' না খুঁজে আল্লাহর তাকদীরে ভরসা রাখুন, আর যা কিছু জমাচ্ছেন, তাঁর মাগফিরাত ও রহমতের পাশে রেখে তার ওজন করুন।"
+  },
+  "3:99": {
+    "reflectionEn": "The verse before asked the People of the Scripture why they disbelieved. This one asks something heavier: why do you turn back those who have already believed? Refusing a road yourself is one thing. Standing on it and waving others away is another. They did it by seeking a bend in a straight road, so that it looked crooked to those walking it, and they did it while they were witnesses to its truth. The verse closes quietly: Allah is not unaware of what you do. I can block a road too, with a careless word, a harsh manner or a half-truth about the faith. Is anyone walking more slowly towards Allah because of me?",
+    "reflectionBn": "আগের আয়াতে কিতাবধারীদের জিজ্ঞেস করা হয়েছিল, তোমরা কেন কুফরি কর। এ আয়াতের প্রশ্ন আরও ভারী: যারা ঈমান এনে ফেলেছে, তাদের কেন ফিরিয়ে দিচ্ছ? নিজে কোনো পথে না হাঁটা এক কথা। আর সেই পথের মাঝে দাঁড়িয়ে অন্যদের হাত নেড়ে সরিয়ে দেওয়া সম্পূর্ণ আলাদা কথা। তারা সোজা পথে বাঁক খুঁজত, যাতে পথিকের চোখে পথটাই বাঁকা লাগে। আর এ কাজ তারা করত পথটা যে সত্য, তার সাক্ষী হয়েও। আয়াত শেষ হয় শান্ত গলায়: তোমরা যা কর, আল্লাহ সে বিষয়ে বেখবর নন। পথ আটকানোর কাজ আমিও করতে পারি। একটা বেখেয়াল কথায়, রূঢ় আচরণে, কিংবা দ্বীন নিয়ে আধা-সত্য বলে। আমার কারণে কি কেউ আল্লাহর দিকে আরও ধীরে হাঁটছে?",
+    "pointsEn": [
+      "When someone near me is just beginning to practise, do my words make the road look easier or more crooked?",
+      "Is there a truth I know well but keep quiet about because saying it would cost me something?",
+      "Have I ever described the religion unfairly, to someone or about someone, just to win an argument?",
+      "Which of my habits might a newcomer to the faith take for a picture of Islam itself?",
+      "Do I live as though Allah sees what I do even when nobody else is watching?"
+    ],
+    "pointsBn": [
+      "কাছের কেউ যখন সবে দ্বীন মানতে শুরু করে, আমার কথায় পথটা তার কাছে সহজ লাগে, নাকি আরও বাঁকা?",
+      "এমন কোনো সত্য কি আছে যা আমি ভালো করেই জানি, অথচ বললে নিজের ক্ষতি হবে বলে চুপ থাকি?",
+      "শুধু তর্কে জেতার জন্য কখনো কি দ্বীনকে অন্যায়ভাবে তুলে ধরেছি, কারও সামনে বা কারও সম্পর্কে?",
+      "আমার কোন অভ্যাসকে একজন নতুন মুসলিম ইসলামেরই ছবি বলে ধরে নিতে পারে?",
+      "কেউ না দেখলেও আল্লাহ যে দেখছেন, সেভাবে কি আমি চলি?"
+    ],
+    "lessonEn": "Never stand in the way of anyone walking towards Allah, whether by word, manner or half-truth, and never hide a truth you know.",
+    "lessonBn": "কথা, আচরণ বা আধা-সত্য দিয়ে আল্লাহর দিকে হাঁটা কোনো মানুষের পথ কখনো আটকাবেন না, আর জানা সত্য কখনো গোপন করবেন না।"
   }
 };
 
