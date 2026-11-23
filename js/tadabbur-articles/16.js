@@ -1207,6 +1207,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:26": {
+    "sections": [
+      {
+        "h": {
+          "en": "Plotters Who Went Before",
+          "bn": "আগে যারা চক্রান্ত করেছিল"
+        },
+        "p": [
+          {
+            "en": "Qad makara alladhina min qablihim: those before them had already plotted. The verse answers the two before it. In 16:24, asked what their Lord has sent down, the deniers call it legends of the former peoples, and 16:25 says they will carry their own burdens in full on the Day of Resurrection, with some of the burdens of those they mislead without knowledge. Ma'arif al-Qur'an reads that pair as a picture of people not content with their own straying, who work to make others stray as well. Verse 26 then turns from the present to the past.",
+            "bn": "কাদ মাকারাল্লাযীনা মিন কাবলিহিম: তাদের আগে যারা ছিল, তারাও চক্রান্ত করেছিল। আয়াতটি আগের দুই আয়াতের জবাব। ১৬:২৪ আয়াতে অস্বীকারকারীদের জিজ্ঞেস করা হয়, তোমাদের রব কী নাযিল করেছেন। তারা বলে, পূর্ববর্তীদের কল্পকাহিনি। ১৬:২৫ আয়াত জানায়, কিয়ামতের দিন তারা নিজেদের বোঝা পুরোপুরি বইবে, সঙ্গে বইবে তাদেরও কিছু বোঝা, যাদের তারা না জেনে গোমরাহ করে। মাআরিফুল কুরআনের পাঠে এ দুই আয়াত এমন লোকদের ছবি, যারা নিজেরা পথ হারিয়েই থামে না, অন্যদেরও পথ হারাতে খাটে। এরপর ২৬ নম্বর আয়াত বর্তমান থেকে মুখ ফেরায় অতীতের দিকে।"
+          },
+          {
+            "en": "At-Tabari names both groups. Them are the idolaters who bar from Allah's path whoever wants to follow His religion, and at the close of his passage he calls them the idolaters of Quraysh. Those before them plotted in an earlier age. Al-Qurtubi widens the earlier group: peoples who went ahead of them in disbelief, set against the messengers who came before, and the good end, he adds, belonged to the messengers. The Muyassar names the target of that plotting. The disbelievers before these idolaters, it says, laid snares for their messengers and for the call to truth they brought.",
+            "bn": "তাবারী দুই দলকেই চিনিয়ে দেন। 'তাদের' মানে সেই মুশরিকরা, যারা আল্লাহর দ্বীন মানতে চাওয়া মানুষকে তাঁর পথ থেকে আটকায়। অনুচ্ছেদের শেষে তিনি তাদের সরাসরি বলেন কুরাইশের মুশরিক। আর তাদের পূর্ববর্তীরা চক্রান্ত করেছিল আরও আগের যুগে। কুরতুবী আগের দলটাকে আরও বড় করে দেখেন। তারা এমন সব জাতি, যারা কুফরিতে এদের আগে গেছে, আগের রাসূলদের মোকাবিলায় দাঁড়িয়েছে। তিনি যোগ করেন, শুভ পরিণতি ছিল রাসূলদেরই। মুয়াসসার বলে দেয় চক্রান্তের নিশানা কী ছিল। এই মুশরিকদের আগের কাফিররা ফাঁদ পেতেছিল নিজেদের রাসূলদের জন্য, আর তাঁদের আনা সত্যের দাওয়াতের জন্য।"
+          },
+          {
+            "en": "As-Sa'di describes the plot in the same direction. They schemed against their messengers and tried every kind of ruse to turn back what those messengers brought, and out of their plotting, he writes, they built enormous palaces. That phrase already leans towards one way of reading the building, which a later section takes up. The verse itself joins the plotting to the building in a single sentence, and tells of both as finished.",
+            "bn": "সা'দীও চক্রান্তকে একই দিকে দেখেন। তারা নিজেদের রাসূলদের বিরুদ্ধে ফন্দি এঁটেছিল, রাসূলরা যা এনেছিলেন তা ফিরিয়ে দিতে নানা রকম কৌশল খাটিয়েছিল। তাঁর ভাষায়, নিজেদের চক্রান্ত দিয়েই তারা গড়ে তুলেছিল বিশাল সব প্রাসাদ। এ কথাতেই ইমারতটা পড়ার একটা ধরন উঁকি দেয়, যা নিয়ে পরের এক অংশে কথা হবে। আয়াত নিজে চক্রান্ত আর ইমারতকে এক বাক্যে গেঁথে দেয়, আর দুটোকেই বলে শেষ হয়ে যাওয়া ঘটনা হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names Given for the Builders",
+          "bn": "নির্মাতাদের নামে নানা মত"
+        },
+        "p": [
+          {
+            "en": "Who were they? Several early authorities name one man. A report from Ibn 'Abbas, which Ibn Kathir gives through al-'Awfi and at-Tabari with his own chain, says: he is Nimrod, when he built the tower. Mujahid, in at-Tabari's reports, calls it the plot of Nimrod son of Kan'an, who disputed with Ibrahim (AS) about his Lord, and Ibn Kathir notes from Ibn Abi Hatim that the like is narrated from Mujahid. Al-Baghawi states the same without a chain: Nimrod son of Kan'an, who built the tower in Babil to climb up to the sky.",
+            "bn": "তারা কারা ছিল? প্রথম যুগের কয়েকজন আলেম একজন মানুষের নাম বলেন। ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা আছে, যা ইবন কাসীর আনেন আওফীর সূত্রে, আর তাবারী আনেন নিজের সনদে: সে নমরূদ, যখন সে মিনার বানিয়েছিল। তাবারীর বর্ণনায় মুজাহিদ বলেন, এ হলো কানআনের ছেলে নমরূদের চক্রান্ত, যে ইবরাহীম (আঃ)-এর সঙ্গে তাঁর রবকে নিয়ে তর্ক করেছিল। ইবন কাসীর ইবন আবী হাতিমের বরাতে জানান, মুজাহিদ থেকেও এমন কথা বর্ণিত। বাগাভী কোনো সনদ ছাড়াই একই কথা বলেন: কানআনের ছেলে নমরূদ, যে আকাশে চড়ার জন্য বাবেলে মিনার বানিয়েছিল।"
+          },
+          {
+            "en": "At-Tabari frames the identification with care. Those before them, he writes, tried to overpower Allah with a building, wanting, as they claimed, to rise to the sky and make war on whoever was in it. The one who attempted this, fima dhukira lana, as was mentioned to us, was one of the tyrants of the Nabat. Some said Nimrod son of Kan'an, some said Nebuchadnezzar, and others tied the verse to the plotter of Surah Ibrahim. Ibn Kathir reports that those who named Nebuchadnezzar pointed to 14:46, a plot by which mountains would be moved.",
+            "bn": "পরিচয় বলতে গিয়ে তাবারী সাবধানে কথা সাজান। তিনি লেখেন, তাদের পূর্ববর্তীরা একটা ইমারত গড়ে আল্লাহকে হারাতে চেয়েছিল। তাদের দাবি, তারা আকাশে উঠবে আর সেখানে যে আছে তার সঙ্গে যুদ্ধ করবে। এ কাজে যে নেমেছিল, সে 'ফীমা যুকিরা লানা', অর্থাৎ আমাদের কাছে যেমন বলা হয়েছে, নাবাতিদের এক অত্যাচারী শাসক। কেউ বলেছেন সে কানআনের ছেলে নমরূদ, কেউ বলেছেন বুখতনাসর। আবার কেউ আয়াতটিকে জুড়েছেন সূরা ইবরাহীমে বলা চক্রান্তকারীর সঙ্গে। ইবন কাসীর জানান, যারা বুখতনাসরের নাম বলেছেন, তারা দলিল দেন ১৪:৪৬ আয়াত দিয়ে, যেখানে এমন চক্রান্তের কথা আছে, যাতে পাহাড়ও টলে যেত।"
+          },
+          {
+            "en": "Al-Qurtubi lays the views side by side. Ibn 'Abbas, Zayd ibn Aslam and others say it was Nimrod son of Kan'an and his people, who wanted to climb to the sky and fight its inhabitants. Some commentators say it was Nebuchadnezzar and his companions. Al-Kalbi says it means al-muqtasimun, the dividers whom Allah mentions in Surah al-Hijr. On that last reading, al-Qurtubi adds, the verse comes out as a likeness, and Allah knows best.",
+            "bn": "কুরতুবী মতগুলো পাশাপাশি রাখেন। ইবন আব্বাস (রাঃ), যায়দ ইবন আসলাম ও অন্যরা বলেন, এরা কানআনের ছেলে নমরূদ আর তার লোকজন, যারা আকাশে চড়ে সেখানকার বাসিন্দাদের সঙ্গে লড়তে চেয়েছিল। কোনো কোনো মুফাসসির বলেন, এরা বুখতনাসর আর তার সঙ্গীরা। কালবী বলেন, এখানে উদ্দেশ্য আল-মুকতাসিমূন, অর্থাৎ ভাগকারীরা, যাদের কথা আল্লাহ সূরা হিজরে বলেছেন। কুরতুবী যোগ করেন, এই শেষ ব্যাখ্যা ধরলে আয়াতটি দাঁড়ায় দৃষ্টান্ত হিসেবে, আর আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eagles, Cubits and Tongues",
+          "bn": "ঈগল, গজের মাপ আর ভাষা"
+        },
+        "p": [
+          {
+            "en": "Around the name, the reports build a story. At-Tabari gives a long one from as-Suddi. The king who disputed with Ibrahim (AS) expelled him and swore to seek out Ibrahim's God. He reared four young eagles on meat, tied them to a chest and rose in it until the mountains crawled like ants below and darkness closed over him. Afraid, he came down and set about building the tower instead. When it reached the sky and he climbed it, Allah took the building from its foundations, and people's tongues were thrown into confusion.",
+            "bn": "নামকে ঘিরে বর্ণনাগুলো একটা কাহিনি গড়ে তোলে। তাবারী সুদ্দী থেকে লম্বা এক বর্ণনা আনেন। যে রাজা ইবরাহীম (আঃ)-এর সঙ্গে তর্ক করেছিল, সে তাঁকে শহর থেকে বের করে দেয়, আর কসম খায় যে ইবরাহীমের ইলাহকে খুঁজে বের করবে। চারটি ঈগলছানাকে মাংস খাইয়ে বড় করে সে একটা সিন্দুকে বাঁধে, তারপর তাতে চড়ে উপরে ওঠে। নিচে পাহাড়গুলো তখন পিঁপড়ের মতো হাঁটছে বলে মনে হয়, আর এক সময় অন্ধকার তাকে ঘিরে ধরে। ভয় পেয়ে সে নেমে আসে, আর এবার মিনার বানাতে লেগে যায়। মিনার আকাশ ছুঁলে সে তাতে চড়ে। তখন আল্লাহ ইমারতটাকে ভিত থেকে ধরলেন, আর মানুষের ভাষা গুলিয়ে গেল।"
+          },
+          {
+            "en": "In that report the people spoke seventy-three tongues from the fright, which is why the place was called Babil, and before it they had spoken Syriac. Al-Baghawi and al-Qurtubi repeat the tongues and add measurements. Ibn 'Abbas and Wahb give the tower five thousand cubits of height. Ka'b and Muqatil make it two farsakhs tall, and say a wind threw its top into the sea and the rest fell on them. Al-Qurtubi also suggests the command that came to the building was an earthquake or a wind.",
+            "bn": "সে বর্ণনায় ভয়ে মানুষ তিয়াত্তরটি ভাষায় কথা বলতে শুরু করে। সে কারণেই জায়গাটির নাম বাবেল, আর এর আগে তাদের ভাষা ছিল সুরিয়ানি। বাগাভী ও কুরতুবী ভাষার কথাটা আবার বলেন, সঙ্গে মাপজোখও যোগ করেন। ইবন আব্বাস (রাঃ) ও ওয়াহবের বর্ণনায় মিনারের উচ্চতা পাঁচ হাজার গজ। কা'ব ও মুকাতিলের মতে উচ্চতা দুই ফারসাখ। তাঁরা বলেন, এক ঝড়ো বাতাস মিনারের মাথা সাগরে ছুড়ে ফেলে, আর বাকিটা তাদের উপর ধসে পড়ে। কুরতুবী এ-ও বলেন, ইমারতের কাছে যে আদেশ এসেছিল, তা হয়তো ভূমিকম্প, নয়তো বাতাস।"
+          },
+          {
+            "en": "How should a reader hold all this? These are reports from early narrators, some with chains and some without, and at-Tabari introduces the tyrant with as was mentioned to us. None of the tafsirs read for this verse raises any of the details to the Prophet ﷺ, and none attaches a sound hadith to the verse. None gives an occasion of revelation either, so the verse's place in the passage is its setting. The verse itself names no king, no city and no tower.",
+            "bn": "পাঠক এসব কীভাবে গ্রহণ করবেন? এগুলো প্রথম যুগের বর্ণনাকারীদের বর্ণনা, কোনোটির সনদ আছে, কোনোটির নেই। আর তাবারী অত্যাচারী শাসকের কথা শুরুই করেন 'আমাদের কাছে যেমন বলা হয়েছে' বলে। এ আয়াতের জন্য পড়া কোনো তাফসীরই এসব খুঁটিনাটি নবী ﷺ পর্যন্ত পৌঁছায় না। কোনো তাফসীর আয়াতের সঙ্গে কোনো সহীহ হাদীসও জোড়ে না। শানে নুযূলও কেউ দেন না, তাই আলোচনার ভেতরে আয়াতের অবস্থানই তার প্রেক্ষাপট। আয়াত নিজে কোনো রাজা, শহর বা মিনারের নাম নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Building Made of Schemes",
+          "bn": "চক্রান্ত দিয়ে গড়া ইমারত"
+        },
+        "p": [
+          {
+            "en": "A second reading takes the building as a likeness. Ibn Kathir, after the two names, reports that others said this is by way of parable, showing the undoing of what was made by those who disbelieved in Allah and gave Him partners in worship. He sets beside it the words of Nuh (AS) in 71:22, they plotted a mighty plot, meaning they tried every ruse to misguide people and drew them to shirk by every means.",
+            "bn": "দ্বিতীয় এক পাঠে ইমারতটা একটা দৃষ্টান্ত। ইবন কাসীর দুই নামের পর জানান, অন্যরা বলেছেন, এ কথা উপমা হিসেবে এসেছে। যারা আল্লাহকে অস্বীকার করেছে আর তাঁর ইবাদতে শরীক বানিয়েছে, তাদের বানানো সবকিছু আল্লাহ কীভাবে ব্যর্থ করে দেন, আয়াত তা-ই দেখায়। পাশে তিনি রাখেন নূহ (আঃ)-এর কথা, ৭১:২২ আয়াতে: তারা ভয়ানক এক চক্রান্ত করেছিল। অর্থাৎ মানুষকে গোমরাহ করতে তারা সব রকম ফন্দি খাটিয়েছিল, সব উপায়ে তাদের শিরকের দিকে টেনেছিল।"
+          },
+          {
+            "en": "One detail of wording matters here. In the Arabic text of Ibn Kathir read for this verse, the parable view is the third of three, introduced, like the Nebuchadnezzar view, with others said. The abridged English edition of his work presents it instead as the correct view. The article reports both and does not settle which reflects his own preference. As-Sa'di is plain about where he stands. Having described palaces built out of plotting, he closes: this is among the finest of the parables of Allah's undoing of His enemies' plots.",
+            "bn": "এখানে শব্দের একটা খুঁটিনাটি গুরুত্বপূর্ণ। এ আয়াতের জন্য পড়া ইবন কাসীরের আরবি পাঠে দৃষ্টান্তের মতটি তিনটি মতের মধ্যে তৃতীয়টি। বুখতনাসরের মতের মতোই এটিও শুরু হয়েছে 'অন্যরা বলেছেন' দিয়ে। অথচ তাঁর গ্রন্থের সংক্ষিপ্ত ইংরেজি সংস্করণ এটিকেই সঠিক মত হিসেবে পেশ করে। এ লেখা দুটোই জানিয়ে রাখছে, কোনটি তাঁর নিজের পছন্দ, তার মীমাংসা করছে না। সা'দী অবশ্য নিজের অবস্থান খোলাখুলিই বলেন। চক্রান্ত দিয়ে গড়া প্রাসাদের কথা বলার পর তিনি শেষ করেন এভাবে: শত্রুদের চক্রান্ত আল্লাহ যেভাবে ব্যর্থ করেন, তার সবচেয়ে সুন্দর দৃষ্টান্তগুলোর একটি এ আয়াত।"
+          },
+          {
+            "en": "At-Tabari records the view as well: some used to say this is a likeness for uprooting, meaning that Allah uprooted them, and the Arabs speak this way when a thing is torn out at the root. Al-Qurtubi gives three forms of it. Allah destroyed them, so they were like people on whom their building fell; or He made their deeds void, like one whose building collapsed; or He brought their plot and planning to nothing, and they perished as one perishes when the roof comes down on him.",
+            "bn": "তাবারীও মতটি লিখে রাখেন। কেউ কেউ বলতেন, এ হলো সমূলে উপড়ে ফেলার উপমা। অর্থাৎ আল্লাহ তাদের শেকড়সুদ্ধ উপড়ে ফেলেছেন, আর কোনো জিনিস গোড়া থেকে উপড়ে গেলে আরবরা এভাবেই বলে। কুরতুবী এ মতের তিনটি রূপ দেন। এক, আল্লাহ তাদের ধ্বংস করেছেন, ফলে তারা হলো সেই লোকদের মতো, যাদের মাথায় নিজেদের ইমারত ভেঙে পড়েছে। দুই, তিনি তাদের আমল বরবাদ করে দিয়েছেন, যেন একজনের ইমারত ধসে গেল। তিন, তিনি তাদের চক্রান্ত আর পরিকল্পনা নিষ্ফল করে দিয়েছেন, আর তারা ধ্বংস হলো সেভাবে, যেভাবে ধ্বংস হয় মাথার উপর ছাদ ভেঙে পড়া মানুষ।"
+          },
+          {
+            "en": "So the sides can be named. At-Tabari, al-Baghawi and al-Qurtubi lead with Nimrod and the tower, al-Baghawi with no other view at all. As-Sa'di takes the parable as his reading, Ibn Kathir records it, at-Tabari lists it, and al-Qurtubi gives it room and ties it to al-Kalbi's view. The Muyassar names no people, and its gloss fits either. Both readings arrive at the same place: a plot against the messengers, undone by Allah from its base. This article keeps the difference as a difference and does not choose.",
+            "bn": "তাহলে দুই পক্ষের নাম বলা যায়। তাবারী, বাগাভী ও কুরতুবী শুরু করেন নমরূদ আর মিনার দিয়ে, আর বাগাভী অন্য কোনো মতই আনেন না। সা'দী দৃষ্টান্তের পাঠকেই নিজের পাঠ হিসেবে নেন। ইবন কাসীর মতটি বর্ণনা করেন, তাবারী তালিকায় রাখেন, আর কুরতুবী একে জায়গা দিয়ে কালবীর মতের সঙ্গে জোড়েন। মুয়াসসার কোনো জাতির নাম নেয় না, তার ব্যাখ্যা দুই পাঠেই খাটে। দুই পাঠই পৌঁছায় একই জায়গায়: রাসূলদের বিরুদ্ধে এক চক্রান্ত, যা আল্লাহ গোড়া থেকে ব্যর্থ করে দিলেন। এ লেখা মতভেদকে মতভেদ হিসেবেই রাখছে, কোনো পক্ষ বেছে নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Struck at the Foundations",
+          "bn": "আঘাত এল ভিতের গোড়ায়"
+        },
+        "p": [
+          {
+            "en": "Fa-ata Allahu bunyanahum mina l-qawa'id: and Allah came at their building from the foundations. At-Tabari glosses it as Allah demolishing their building from its root, and explains al-qawa'id as the plural of qa'ida, the foundation. Al-Qurtubi adds the plain point of building: when the foundations give way, the building falls. Ibn Kathir reads it as uprooting and voiding their work, and sets beside it 5:64, every time they kindled a fire of war Allah put it out, and 59:2, Allah came to them from where they had not reckoned.",
+            "bn": "ফাআতাল্লাহু বুনইয়ানাহুম মিনাল কাওয়াইদ: আর আল্লাহ তাদের ইমারতের ভিতে আঘাত করলেন। তাবারী এর ব্যাখ্যা দেন, আল্লাহ তাদের ইমারত গোড়া থেকে ভেঙে দিলেন। তিনি বলেন, কাওয়াইদ হলো কাইদার বহুবচন, আর কাইদা মানে ভিত। কুরতুবী যোগ করেন নির্মাণের সহজ এক সত্য: ভিত নড়ে গেলে ইমারত পড়ে যায়। ইবন কাসীর একে পড়েন শেকড় উপড়ে ফেলা আর তাদের আমল বরবাদ করে দেওয়া হিসেবে। পাশে রাখেন ৫:৬৪ আয়াত, যখনই তারা যুদ্ধের আগুন জ্বালায়, আল্লাহ তা নিভিয়ে দেন। আর ৫৯:২ আয়াত, আল্লাহ তাদের কাছে এলেন এমন দিক থেকে, যা তারা কল্পনাও করেনি।"
+          },
+          {
+            "en": "Fa-kharra 'alayhimu s-saqfu min fawqihim: so the roof fell on them from above. Here, at-Tabari says, the interpreters differed. Qatada takes the roof as the tops of their houses: the houses were overturned on them, and Allah destroyed them. A report from Ibn 'Abbas, which al-Qurtubi also gives, takes it as punishment from the sky; when they saw it, they surrendered and were humbled. At-Tabari prefers the first, since foundations and a falling roof are the known language of building, and Allah's words are best turned to their best-known sense wherever that is possible.",
+            "bn": "ফাখাররা আলাইহিমুস সাকফু মিন ফাওকিহিম: ফলে উপর থেকে ছাদ তাদের উপর ভেঙে পড়ল। তাবারী বলেন, এখানে তাফসীরকারদের মধ্যে মতভেদ আছে। কাতাদার মতে ছাদ মানে তাদের ঘরবাড়ির উপরের অংশ। ঘরগুলো তাদের নিয়েই উল্টে পড়ে, আর আল্লাহ তাদের ধ্বংস করেন। ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা, যা কুরতুবীও আনেন, ছাদকে ধরে আকাশ থেকে আসা শাস্তি হিসেবে। তারা তা দেখে আত্মসমর্পণ করে, নত হয়ে যায়। তাবারী প্রথম মতটিকেই প্রাধান্য দেন। কারণ ভিত আর ছাদ ভেঙে পড়া নির্মাণেরই চেনা ভাষা, আর আল্লাহর কালামকে যতদূর সম্ভব তার সবচেয়ে প্রচলিত অর্থে নেওয়াই উত্তম।"
+          },
+          {
+            "en": "Why add from above them, when a roof can only fall from above? Al-Qurtubi answers through Ibn al-A'rabi. The Arabs say a roof fell on us, or a wall fell on us, of something they own, even when it did not land on them. Min fawqihim removes that doubt: it fell on them while they were under it, and they perished and none escaped. Al-Qurtubi also records readings: Ibn Hurmuz and Ibn Muhaysin read as-suquf, roofs, and Mujahid as-suqf; he judges it likely a plural of saqf.",
+            "bn": "ছাদ তো উপর থেকেই পড়ে, তবু 'তাদের উপর থেকে' কথাটা কেন? কুরতুবী জবাব দেন ইবনুল আ'রাবীর বরাতে। আরবরা নিজেদের মালিকানার কিছু নিয়ে বলে, আমাদের উপর ছাদ পড়েছে, কিংবা দেয়াল পড়েছে, যদিও তা আসলে তাদের গায়ে পড়েনি। 'মিন ফাওকিহিম' সেই সন্দেহ দূর করে দেয়। ছাদ পড়েছে তাদেরই উপর, তারা তখন তার নিচে ছিল, আর তারা ধ্বংস হয়েছে, কেউ রেহাই পায়নি। কুরতুবী কিরাআতের কথাও লেখেন। ইবন হুরমুয ও ইবন মুহাইসিন পড়েছেন 'আস-সুকুফ', অর্থাৎ ছাদগুলো, আর মুজাহিদ পড়েছেন 'আস-সুকফ'। তাঁর মতে এটি সম্ভবত সাকফ শব্দের বহুবচন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ruin From the Place of Safety",
+          "bn": "নিরাপদ ঘাঁটি থেকেই বিপদ"
+        },
+        "p": [
+          {
+            "en": "Wa atahumu l-'adhabu min haythu la yash'urun: and the punishment came to them from where they did not perceive. At-Tabari says it reached them from where they did not know it was coming, and as-Suddi's report glosses it as from their place of safety, a phrase al-Baghawi repeats. Al-Qurtubi has it from where they thought they were secure. The Muyassar joins both: ruin came from their place of safety, from where they neither reckoned nor expected it would come.",
+            "bn": "ওয়া আতাহুমুল আযাবু মিন হাইসু লা ইয়াশউরূন: আর শাস্তি তাদের কাছে এল এমন দিক থেকে, যা তারা টের পায়নি। তাবারী বলেন, শাস্তি এসেছে এমন দিক থেকে, যেদিক থেকে আসছে বলে তারা জানতই না। সুদ্দীর বর্ণনায় এর ব্যাখ্যা, তাদের নিরাপদ জায়গা থেকেই, আর বাগাভীও একই কথা বলেন। কুরতুবীর ভাষায়, যেখানে তারা নিজেদের নিরাপদ ভেবেছিল, সেখান থেকেই। মুয়াসসার দুটোকে মিলিয়ে দেয়: ধ্বংস এসেছে তাদের নিরাপদ আশ্রয় থেকে, এমন দিক থেকে, যার হিসাব তারা করেনি, যার আশঙ্কাও করেনি।"
+          },
+          {
+            "en": "As-Sa'di finds the sharpest turn here. They thought the building would benefit them and shield them from punishment, so their punishment came in what they had built and founded. Among the reports, al-Qurtubi gives one from Ibn 'Abbas that the unperceived punishment was the gnat by which Allah destroyed Nimrod, and Zayd ibn Aslam's report, in at-Tabari and Ibn Kathir, has a gnat enter the tyrant's nostril and torment him for 400 years. Like the tower details, these are reports, not raised to the Prophet ﷺ in these sources.",
+            "bn": "সা'দী এখানে সবচেয়ে তীক্ষ্ণ মোড়টা দেখেন। তারা ভেবেছিল এই ইমারত তাদের কাজে আসবে, শাস্তি থেকে বাঁচাবে। অথচ তাদের শাস্তি এল সেই জিনিসের ভেতর দিয়েই, যা তারা নিজেরা গড়েছিল, যার ভিত নিজেরা গেঁথেছিল। বর্ণনাগুলোর মধ্যে কুরতুবী ইবন আব্বাস (রাঃ) থেকে একটি আনেন: যে শাস্তি তারা টের পায়নি, তা সেই মশা, যা দিয়ে আল্লাহ নমরূদকে ধ্বংস করেন। তাবারী ও ইবন কাসীরে যায়দ ইবন আসলামের বর্ণনা আছে, এক মশা অত্যাচারীর নাকে ঢুকে ৪০০ বছর তাকে কষ্ট দেয়। মিনারের খুঁটিনাটির মতো এগুলোও বর্ণনা মাত্র, এসব সূত্রে নবী ﷺ পর্যন্ত পৌঁছানো নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Reading of the News",
+          "bn": "খবরের পাতায় এ আয়াত নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: people before Quraysh who plotted against their messengers, and a building Allah brought down on them. It licenses nothing against any living person or community. No one may name a people of today as these plotters, and no collapsed building, earthquake or storm in our time may be read as this verse fulfilled on the people under it. The sources speak of plotters against messengers, and the verse leaves the judging of the living to Allah.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বলে, ঠিক ততটুকুই বর্ণনা করে: কুরাইশের আগের কিছু লোক, যারা নিজেদের রাসূলদের বিরুদ্ধে চক্রান্ত করেছিল, আর এক ইমারত, যা আল্লাহ তাদের উপর ধসিয়ে দিলেন। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। আজকের কোনো জাতিকে এই চক্রান্তকারীদের দলে ফেলা যায় না। আমাদের সময়ের কোনো ধসে পড়া ভবন, ভূমিকম্প বা ঝড়কে তার নিচে চাপা পড়া মানুষের উপর এ আয়াতের বাস্তবায়ন বলে পড়া যায় না। সূত্রগুলো রাসূলদের বিরুদ্ধে চক্রান্তকারীদের কথাই বলে, আর জীবিতদের বিচার আয়াত আল্লাহর হাতেই রেখে দেয়।"
+          },
+          {
+            "en": "What the verse leaves the reader with is a question turned inward. In as-Sa'di's telling, the very structure raised to keep the message out became the thing that fell. It is worth asking what I have built to stand between me and a truth I have heard, and how safe I feel behind it. The passage then moves on, in 16:27, to the shame of the Day of Resurrection, and in 16:30 to those who fear Allah, who are asked the same question and answer: good.",
+            "bn": "আয়াতটি পাঠকের হাতে রেখে যায় নিজের দিকে ফেরানো এক প্রশ্ন। সা'দীর বর্ণনায়, বাণীকে ঠেকাতে যে কাঠামো তোলা হয়েছিল, সেটাই ধসে পড়েছে। নিজেকে জিজ্ঞেস করা যায়, শোনা কোনো সত্য আর আমার মাঝখানে আমি কী দাঁড় করিয়ে রেখেছি, আর তার আড়ালে আমি নিজেকে কতটা নিরাপদ ভাবি। এরপর আলোচনা এগিয়ে যায়। ১৬:২৭ আয়াতে আসে কিয়ামতের দিনের লাঞ্ছনা, আর ১৬:৩০ আয়াতে মুত্তাকীদের কথা, যাদের একই প্রশ্ন করা হলে তারা জবাব দেয়: কল্যাণ।"
+          }
+        ]
+      }
+    ]
+  },
   "16:27": {
     "sections": [
       {

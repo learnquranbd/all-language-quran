@@ -33403,6 +33403,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Thank Allah for the steady ground, the water and the roads you take for granted, use the means He placed, and let every road you walk lead you back to Him.",
     "lessonBn": "যে স্থির মাটি, পানি আর পথকে আপনি স্বাভাবিক ধরে নেন, তার জন্য আল্লাহর শোকর আদায় করুন। তাঁর রাখা উপকরণ কাজে লাগান, আর আপনার চলা প্রতিটি পথ যেন আপনাকে তাঁর দিকেই ফিরিয়ে নেয়।"
+  },
+  "16:26": {
+    "reflectionEn": "The verse looks back at people who plotted against the truth before, and shows what became of their work. Allah came at their building from the foundations, the roof fell in on them from above, and the punishment reached them from where they did not perceive. Whether the building was a real tower or the whole structure of their scheming, the lesson holds. What is built against Allah's message does not fail at the top; it gives way at the base, and the very thing meant to shelter its builders falls on them. So I look at what I am building: my plans, my arguments, my reputation. On what are they founded? And is anything in them raised to keep the truth out?",
+    "reflectionBn": "আয়াতটি পেছনে ফিরে তাকায় সেই লোকদের দিকে, যারা আগেও সত্যের বিরুদ্ধে চক্রান্ত করেছিল। তারপর দেখায় তাদের কাজের পরিণতি। আল্লাহ তাদের ইমারতের ভিতে আঘাত করলেন, উপর থেকে ছাদ ভেঙে পড়ল তাদের মাথায়, আর শাস্তি এল এমন দিক থেকে, যা তারা টেরও পায়নি। ইমারতটা সত্যিকারের কোনো মিনার হোক, কিংবা তাদের গোটা চক্রান্তের কাঠামো, শিক্ষা একই থাকে। আল্লাহর বাণীর বিরুদ্ধে যা গড়া হয়, তা চূড়া থেকে ভাঙে না, ভাঙে গোড়া থেকে। যা বানানো হয়েছিল নির্মাতাদের আশ্রয় দিতে, সেটাই তাদের উপর ধসে পড়ে। তাই আমি নিজের নির্মাণের দিকে তাকাই: আমার পরিকল্পনা, আমার যুক্তি, আমার সুনাম। এগুলোর ভিত কীসের উপর? আর এর কোনো অংশ কি সত্যকে ঠেকিয়ে রাখার জন্য তোলা হয়েছে?",
+    "pointsEn": [
+      "What am I building right now, in my work, my home or my name, and what is its foundation?",
+      "Is there an argument or habit I keep up mainly so that a truth I have heard cannot reach me?",
+      "Where do I feel so safe that I have stopped asking whether I am in the right?",
+      "When I see the plans of people opposed to the truth grow tall, do I remember that they give way at the base?",
+      "How can I make sure that what I build would still stand if Allah's command came to its foundations?"
+    ],
+    "pointsBn": [
+      "এ মুহূর্তে আমি কী গড়ে তুলছি, কাজে, ঘরে কিংবা নিজের নামে? আর তার ভিত কী?",
+      "এমন কোনো যুক্তি বা অভ্যাস কি আমি ধরে রেখেছি, যার আসল কাজ হলো শোনা একটা সত্যকে আমার কাছে পৌঁছাতে না দেওয়া?",
+      "কোথায় আমি এতটা নিরাপদ বোধ করি যে, আমি ঠিক পথে আছি কি না, সে প্রশ্ন করাই ছেড়ে দিয়েছি?",
+      "সত্যের বিরোধীদের পরিকল্পনা যখন উঁচু হতে দেখি, তখন কি মনে রাখি যে তা ধসে পড়ে গোড়া থেকে?",
+      "কী করলে নিশ্চিত হতে পারি যে, আল্লাহর আদেশ ভিতে এসে পৌঁছালেও আমার নির্মাণ দাঁড়িয়ে থাকবে?"
+    ],
+    "lessonEn": "Build your life on what Allah sent down, not against it: whatever is raised to resist His truth gives way at its base, from where its builders never expected.",
+    "lessonBn": "জীবন গড়ুন আল্লাহর নাযিল করা বাণীর উপর, তার বিরুদ্ধে নয়। তাঁর সত্যকে ঠেকাতে যা তোলা হয়, তা ধসে পড়ে গোড়া থেকে, এমন দিক থেকে যা নির্মাতারা কখনো ভাবেনি।"
   }
 };
 
