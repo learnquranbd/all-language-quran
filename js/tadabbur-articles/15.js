@@ -3791,6 +3791,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "15:91": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Warner and Those He Warns",
+          "bn": "সতর্ককারী আর যাদের তিনি সতর্ক করেন"
+        },
+        "p": [
+          {
+            "en": "Alladhina ja'alu al-Qur'ana 'idin: those who have made the Qur'an into portions. Four words, and none of them stands on its own. In 15:89 the Prophet ﷺ is told to say, I am the clear warner. Then 15:90 opens a comparison, kama anzalna 'ala al-muqtasimin, just as We sent down on the dividers, and this verse says who the dividers are. Two verses later comes an oath: by your Lord, We will surely question them all about what they used to do (15:92 and 15:93).",
+            "bn": "আল্লাযীনা জাআলুল কুরআনা ইদীন: যারা কুরআনকে ভাগ ভাগ করে ফেলেছে। মাত্র চারটি শব্দ, তবে কোনোটাই একা দাঁড়িয়ে নেই। ১৫:৮৯ আয়াতে নবী ﷺ-কে বলতে বলা হয়েছে, আমি তো স্পষ্ট সতর্ককারী। এরপর ১৫:৯০ আয়াত একটা তুলনা শুরু করে: কামা আনযালনা আলাল মুকতাসিমীন, যেমন আমি নাযিল করেছিলাম বিভক্তকারীদের উপর। এই বিভক্তকারী কারা, আমাদের আয়াতটি সেটাই জানায়। দুই আয়াত পরেই আসে শপথ: তোমার রবের কসম, তারা যা করত সে সম্পর্কে আমি তাদের সবাইকে অবশ্যই জিজ্ঞেস করব (১৫:৯২ ও ১৫:৯৩)।"
+          },
+          {
+            "en": "Al-Qurtubi gives the grammar two ways. His first statement is that the verse is a description of al-muqtasimin, the people named at the end of 15:90. He then adds, under the words it is said, that it may be a subject whose predicate is la-nas'alannahum in 15:92, so that the sense runs: those who made the Qur'an into pieces, We will surely question them. At-Tabari reads the whole run as one instruction: Allah told His Prophet ﷺ to let a people who had done this to the Qur'an know that he was a warner to them of a punishment like the one sent down on the dividers.",
+            "bn": "কুরতুবী বাক্যের গঠন দুইভাবে দেখান। তাঁর প্রথম কথা: আয়াতটি মুকতাসিমীনের পরিচয়, যাদের নাম ১৫:৯০ আয়াতের শেষে এসেছে। তারপর 'বলা হয়' কথাটি জুড়ে তিনি আরেকটি সম্ভাবনা আনেন। আয়াতটি হতে পারে উদ্দেশ্য, আর তার বিধেয় ১৫:৯২ আয়াতের লানাসআলান্নাহুম। তখন অর্থ দাঁড়ায়: যারা কুরআনকে টুকরো টুকরো করেছে, তাদের আমি অবশ্যই জিজ্ঞেস করব। তাবারী পুরো অংশটাকে পড়েন একটিমাত্র নির্দেশ হিসেবে। আল্লাহ তাঁর নবী ﷺ-কে বললেন, যে লোকেরা কুরআনের সঙ্গে এমন আচরণ করেছে তাদের জানিয়ে দাও, বিভক্তকারীদের উপর যেমন শাস্তি নেমেছিল, তেমন শাস্তি সম্পর্কে তিনি তাদের সতর্ককারী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Book Kept in Pieces",
+          "bn": "টুকরো করে রাখা কিতাব"
+        },
+        "p": [
+          {
+            "en": "The first answer is that the verse means the People of the Book. Ibn Kathir opens with it: they split up the books sent down to them, believing in some and disbelieving in some. He then cites al-Bukhari, and the report is in al-Bukhari's Sahih, number 4705, from Ibn Abbas: \"Those who have made their Scripture into parts are the people of the Scripture who divided it into portions and believed in a part of it and disbelieved the other.\" These are Ibn Abbas's own words of explanation, not words of the Prophet ﷺ.",
+            "bn": "প্রথম জবাব হলো, আয়াতে আহলে কিতাবের কথা বলা হয়েছে। ইবন কাসীর এ কথা দিয়েই শুরু করেন। তাঁর ভাষায়, তাদের কাছে যে কিতাবগুলো নাযিল হয়েছিল তারা সেগুলোকে খণ্ড খণ্ড করেছিল, কিছু অংশে ঈমান এনেছিল আর কিছু অংশ অস্বীকার করেছিল। এরপর তিনি বুখারীর বর্ণনা আনেন। সহীহ বুখারীর ৪৭০৫ নম্বরে ইবন আব্বাস (রাঃ) বলেন: \"(আয়াতে যাদের কথা আছে, যারা কুরআনকে ভাগ ভাগ করেছে) তারা আহলে কিতাব। তারা একে খণ্ড খণ্ড করেছে, এর কিছু অংশে ঈমান এনেছে আর কিছু অংশ অস্বীকার করেছে।\" এ ব্যাখ্যা ইবন আব্বাস (রাঃ)-এর নিজের, নবী ﷺ-এর বাণী নয়।"
+          },
+          {
+            "en": "The next report in al-Bukhari, number 4706, is Ibn Abbas on 15:90, and it names the two communities: \"They believed in part of it and disbelieved in the other, (and they) are the Jews and the Christians.\" Al-Bukhari gives both as reports in his Sahih. Ibn Kathir adds that Ibn Abi Hatim relates the same from Mujahid, Ikrima, Sa'id ibn Jubayr, al-Hasan and ad-Dahhak. Al-Baghawi's first gloss follows this line too, and he gives Mujahid's version in his own words: they are the Jews and the Christians, who divided their book, split it and altered it.",
+            "bn": "বুখারীর পরের বর্ণনা, ৪৭০৫-এর ঠিক পরে ৪৭০৬ নম্বর, ১৫:৯০ আয়াত নিয়ে ইবন আব্বাস (রাঃ)-এর কথা। সেখানে দুই সম্প্রদায়ের নাম এসেছে: \"তারা এর কিছু অংশে ঈমান এনেছে আর কিছু অংশ অস্বীকার করেছে, তারা ইহুদি ও খ্রিস্টান।\" বুখারী দুটি বর্ণনাই তাঁর সহীহ গ্রন্থে এনেছেন। ইবন কাসীর জানান, ইবন আবী হাতিম একই কথা বর্ণনা করেছেন মুজাহিদ, ইকরিমা, সাঈদ ইবন জুবাইর, হাসান ও দাহহাক থেকে। বাগাভীর প্রথম ব্যাখ্যাও এই পথেই চলে। মুজাহিদের মত তিনি এভাবে আনেন: তারা ইহুদি ও খ্রিস্টান, যারা নিজেদের কিতাবকে ভাগ করেছে, টুকরো করেছে এবং বদলে দিয়েছে।"
+          },
+          {
+            "en": "Ad-Dahhak, in at-Tabari, gives the picture: they made their book into limbs like the limbs of a slaughtered camel. He joins it to two other passages, the wording of 23:53, that they cut their affair into pieces, each faction rejoicing in what it had, and the phrase divided their religion and became sects, found in 6:159 and 30:32. On this reading, Ibn Kathir's gloss says plainly, the verse speaks of their own revealed books, taken up by the piece rather than believed in as a whole.",
+            "bn": "তাবারীর বর্ণনায় দাহহাক ছবিটা স্পষ্ট করেন। জবাই করা উটের অঙ্গপ্রত্যঙ্গের মতো তারা নিজেদের কিতাবকে টুকরো টুকরো করেছিল। এর সঙ্গে তিনি আরও দুটি জায়গা মিলিয়ে দেন। একটি ২৩:৫৩ আয়াতের ভাষা: তারা নিজেদের ব্যাপারটাকে খণ্ড খণ্ড করে ফেলল, প্রত্যেক দল নিজের কাছে যা আছে তা নিয়েই খুশি। অন্যটি সেই কথা, যা ৬:১৫৯ ও ৩০:৩২ আয়াতে আছে: তারা নিজেদের দীনকে ভাগ করে দলে দলে বিভক্ত হয়ে গেল। ইবন কাসীরের ব্যাখ্যা সোজাসুজি বলে, এই পাঠে আয়াতটি তাদের নিজেদের কাছে নাযিল হওয়া কিতাবের কথা বলছে। সেই কিতাব তারা পুরোটা মানেনি, বেছে বেছে টুকরো ধরে রেখেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Labels Thrown at a Message",
+          "bn": "এক বাণীর গায়ে নানা তকমা"
+        },
+        "p": [
+          {
+            "en": "The second answer is that the verse means the polytheists of Quraysh and the Qur'an itself. At-Tabari relates it from Ata: they cut the Qur'an into parts, and some said a sorcerer, some a poet, some a madman, and that is al-'idun. Ibn Kathir gives Ata too and says the same is related from ad-Dahhak and others. Qatada, in at-Tabari, lists what they said of the Book: magic, poetry, the talk of a soothsayer, legends of the ancients. At-Tabari pauses on one word: Qatada said kahin, a soothsayer, where he means kahana, soothsaying.",
+            "bn": "দ্বিতীয় জবাব হলো, আয়াতে কুরাইশের মুশরিকদের কথা বলা হয়েছে, আর কুরআন মানে এই কুরআনই। তাবারী আতা থেকে বর্ণনা করেন: তারা কুরআনকে খণ্ড খণ্ড করেছিল। কেউ বলল জাদুকর, কেউ কবি, কেউ পাগল। এটাই আল-ইদূন। ইবন কাসীরও আতার কথা আনেন এবং জানান, দাহহাক ও অন্যদের থেকেও এমন বর্ণিত আছে। তাবারীতে কাতাদা কিতাব সম্পর্কে তাদের কথাগুলো গুনে দেন: জাদু, কবিতা, গণকের কথা, পূর্ববর্তীদের উপকথা। একটি শব্দে তাবারী থামেন। কাতাদা বলেছেন কাহিন, অর্থাৎ গণক, অথচ তাঁর উদ্দেশ্য কাহানা, মানে গণকের বিদ্যা।"
+          },
+          {
+            "en": "Mujahid, as Ibn Kathir gives him, says they made it into members: they said magic, they said soothsaying, they said legends of the ancients. Ibn Zayd, in at-Tabari, uses a butcher's image, they jointed it as a sheep is jointed, and quotes the words of 25:5, legends of the ancients which he has had written down. As-Sa'di and the Muyassar keep to this second line without naming anyone. As-Sa'di says they turned it about according to what they desired, one saying magic, one soothsaying, one fabricated, and that they aimed their attacks at it to bar people from guidance.",
+            "bn": "ইবন কাসীরের বর্ণনায় মুজাহিদ বলেন, তারা একে অঙ্গে অঙ্গে ভাগ করেছিল। বলেছিল জাদু, বলেছিল গণকের বিদ্যা, বলেছিল পূর্ববর্তীদের উপকথা। তাবারীতে ইবন যায়দ কসাইয়ের ছবি টানেন: বকরিকে যেভাবে জোড়ায় জোড়ায় কাটা হয়, তারা কুরআনকে সেভাবে কেটেছিল। সঙ্গে তিনি ২৫:৫ আয়াতের কথাগুলো উদ্ধৃত করেন: এগুলো পূর্ববর্তীদের উপকথা, যা সে লিখিয়ে নিয়েছে। সা'দী ও মুয়াসসার কারও নাম না নিয়ে এই দ্বিতীয় পথেই থাকেন। সা'দীর কথায়, তারা মনের খেয়াল অনুযায়ী একে ঘুরিয়ে দেখাত। একজন বলত জাদু, আরেকজন গণকের বিদ্যা, আরেকজন বানানো কথা। মানুষকে হিদায়াত থেকে ফেরাতেই তারা একে আক্রমণের নিশানা বানিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Roots Under 'Idin",
+          "bn": "ইদীন শব্দের দুই শিকড়"
+        },
+        "p": [
+          {
+            "en": "The word itself carries the dispute. 'Idin is a plural, and the commentators give it two singulars. At-Tabari says those who read it as parts take the singular to be 'udw, a limb, from 'addaytu al-shay', I divided the thing up, and he cites the poet Ru'ba: wa laysa dinu Allahi bil-mu'adda, the religion of Allah is not a thing cut apart. Al-Baghawi gives the same derivation. Al-Qurtubi gives the singular as 'idah from that verb, each portion being an 'idah, and reports a view that the original was 'idwa, with the waw dropped.",
+            "bn": "বিতর্কটা শব্দের ভেতরেই আছে। ইদীন বহুবচন, আর তাফসীরকারেরা এর দুটি একবচন দেখান। তাবারী বলেন, যারা এর অর্থ নেন অংশ, তাঁদের মতে একবচন উদউ, মানে অঙ্গ। এসেছে আদ্দাইতুশ শাই থেকে, অর্থাৎ জিনিসটাকে ভাগ করে ফেললাম। প্রমাণ হিসেবে তিনি কবি রু'বার পঙ্‌ক্তি আনেন: ওয়া লাইসা দীনুল্লাহি বিল মুআদ্দা, আল্লাহর দীন কেটে ভাগ করা কোনো জিনিস নয়। বাগাভীও একই উৎস দেখান। কুরতুবী একবচন ধরেন ইদাহ, ওই একই ক্রিয়া থেকে, প্রত্যেকটি ভাগই একেকটা ইদাহ। সঙ্গে একটি মত জানান যে মূল রূপ ছিল ইদওয়াহ, পরে ওয়াও বাদ পড়েছে।"
+          },
+          {
+            "en": "The second root is 'adh, slander. At-Tabari explains that on this view the original was 'idaha, which lost its root letter ha, as shafa was once shafaha and shah was shahah; the diminutives shufayha and shuwayha bring the ha back. 'Adahtu al-rajul means I threw a falsehood at the man. Al-Baghawi gives the same account and says the 'idah meant is lying and slander, and al-Qurtubi cites al-Kisa'i to the same effect. Al-Qurtubi adds two more derivations: from 'adh as tale-bearing, and al-Farra''s view that it comes from al-'idah, the thorny trees of the valley.",
+            "bn": "দ্বিতীয় শিকড় আদহ, মানে অপবাদ। তাবারী বোঝান, এই মতে মূল রূপ ছিল ইদাহাহ। এর মূল অক্ষর হা ঝরে গেছে, যেমন শাফাহ আসলে ছিল শাফাহাহ, আর শাহ ছিল শাহাহ। ক্ষুদ্রতাবাচক রূপ শুফাইহাহ ও শুওয়াইহাহ সেই হা ফিরিয়ে আনে। আদাহতুর রাজুলা মানে লোকটির উপর মিথ্যা অপবাদ চাপালাম। বাগাভীও একই বিবরণ দেন। তাঁর মতে এখানে ইদাহ মানে মিথ্যা ও অপবাদ। কুরতুবী একই কথা কিসাঈ থেকে আনেন। তিনি আরও দুটি উৎসের কথা বলেন। একটি আদহ, যার অর্থ চোগলখুরি। অন্যটি ফাররার মত, শব্দটি এসেছে আল-ইদাহ থেকে, উপত্যকার কাঁটাওয়ালা গাছ।"
+          },
+          {
+            "en": "A narrower sense makes the slander one thing only: sorcery. Ikrima said al-'adh is sorcery in the dialect of Quraysh, and they call a sorceress al-'adiha; both at-Tabari and Ibn Kathir carry the line. At-Tabari says a group of interpreters held that the word here means their calling the Qur'an sorcery in particular, and relates Ikrima's one-word gloss, sihran. Ibn Kathir has the same from Ikrima from Ibn Abbas. Al-Qurtubi also relays a narration raised to the Prophet ﷺ on this sense of the word; he gives no source or grading, and nothing here rests on it.",
+            "bn": "আরও সংকীর্ণ এক অর্থে অপবাদটা কেবল একটি: জাদু। ইকরিমা বলেছেন, কুরাইশের ভাষায় আল-আদহ মানে জাদু। জাদুকর নারীকে তারা বলে আল-আদিহা। তাবারী ও ইবন কাসীর দুজনেই কথাটি এনেছেন। তাবারী জানান, তাফসীরকারদের একটি দলের মতে এখানে শব্দটি বোঝায় কুরআনকে বিশেষভাবে জাদু বলা। তিনি ইকরিমার এক শব্দের ব্যাখ্যাও আনেন: সিহরান, অর্থাৎ জাদু। ইবন কাসীর একই কথা আনেন ইকরিমা থেকে, তিনি ইবন আব্বাস (রাঃ) থেকে। এই অর্থ নিয়ে কুরতুবী নবী ﷺ-এর নামে একটি বর্ণনাও আনেন। তিনি তার সূত্র বা মান উল্লেখ করেননি, তাই এখানে কোনো কথা তার উপর দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why at-Tabari Chose Quraysh",
+          "bn": "তাবারী কেন কুরাইশকে বেছে নেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari does not leave the question open. The sounder view, he says, is that Allah commanded His Prophet ﷺ to warn a people who slandered the Qur'an. His reason is the setting. What comes before, from the opening of the surah, and what comes after, inna kafaynaka al-mustahzi'in, We are sufficient for you against the mockers (15:95), both show that the polytheists of the Prophet's ﷺ own people are meant. Among them, he argues, no one believed in part of the Qur'an and denied part; each either believed in all of it or rejected all of it.",
+            "bn": "তাবারী প্রশ্নটা খোলা রাখেন না। তাঁর মতে সঠিক কথা হলো, আল্লাহ তাঁর নবী ﷺ-কে এমন এক জাতিকে সতর্ক করতে বলেছিলেন যারা কুরআনের উপর অপবাদ দিয়েছিল। তাঁর যুক্তি প্রসঙ্গ। সূরার শুরু থেকে এর আগে যা এসেছে, আর পরে যা আসছে, ইন্না কাফাইনাকাল মুসতাহযিঈন, ঠাট্টাকারীদের বিরুদ্ধে আমিই তোমার জন্য যথেষ্ট (১৫:৯৫), দুটোই দেখায় যে এখানে নবী ﷺ-এর নিজের কওমের মুশরিকদের কথা হচ্ছে। তাবারী বলেন, তাদের মধ্যে এমন কেউ ছিল না যে কুরআনের কিছু অংশ মানত আর কিছু অংশ অস্বীকার করত। হয় কেউ পুরোটায় ঈমান এনেছিল, নয়তো পুরোটাই প্রত্যাখ্যান করেছিল।"
+          },
+          {
+            "en": "His meaning, then: those who slandered it, some calling it sorcery, some poetry, some soothsaying, or who cut it apart with such talk. He also joins the two roots. 'Idin may be the plural of 'idah or of 'udw, since ta'diya is dividing, as a camel or a sheep is cut into its limbs, and 'adh is slander, and the two are close in meaning. Against his choice stands the report in al-Bukhari, which Ibn Kathir puts first, and al-Baghawi's opening gloss of believing in part. Both readings are kept here as the commentators keep them.",
+            "bn": "তাহলে তাঁর অর্থ দাঁড়ায়: যারা কুরআনের উপর অপবাদ দিয়েছিল, কেউ একে জাদু বলেছিল, কেউ কবিতা, কেউ গণকের কথা। অথবা এমন সব কথা দিয়ে যারা একে কেটে টুকরো করেছিল। দুই শিকড়কেও তিনি এক জায়গায় আনেন। ইদীন ইদাহ-এর বহুবচন হতে পারে, উদউ-এরও হতে পারে। কারণ তা'দিয়া মানে ভাগ করা, যেমন উট বা বকরিকে অঙ্গে অঙ্গে কাটা হয়। আর আদহ মানে অপবাদ। দুটোর অর্থ কাছাকাছি। তাঁর এই বাছাইয়ের বিপরীতে আছে বুখারীর বর্ণনা, যা ইবন কাসীর সবার আগে রাখেন, আর বাগাভীর প্রথম ব্যাখ্যা, কিছু অংশ মানা। তাফসীরকারেরা দুটো পাঠই রেখেছেন, এখানেও দুটোই রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Word for the Season",
+          "bn": "হজের মৌসুমের জন্য এক কথা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir relays a report from Muhammad ibn Ishaq, through a chain that ends from Sa'id or Ikrima, from Ibn Abbas. Al-Walid ibn al-Mughira, a man of standing in Quraysh, gathered a group as the pilgrimage season came near. Arab delegations will arrive, he said, and they have heard of this man, so settle on one opinion and do not differ. They offered soothsayer, madman, poet, sorcerer, and he turned each one down. Then he said that the Prophet's ﷺ speech had a sweetness, that anything they said would be known as false, and that the nearest was to call him a sorcerer.",
+            "bn": "ইবন কাসীর মুহাম্মাদ ইবন ইসহাক থেকে একটি বর্ণনা আনেন। তার সনদের শেষে আছে: সাঈদ অথবা ইকরিমা থেকে, তিনি ইবন আব্বাস (রাঃ) থেকে। হজের মৌসুম ঘনিয়ে এলে কুরাইশের এক সম্মানিত লোক ওয়ালীদ ইবন মুগীরা একদল লোককে জড়ো করেন। তিনি বললেন, আরবের প্রতিনিধিদল আসবে, এই লোকের কথা তারা শুনেছে। তাই সবাই একটা মতে একমত হও, ভিন্ন ভিন্ন কথা বলো না। তারা একে একে প্রস্তাব দিল গণক, পাগল, কবি, জাদুকর। তিনি প্রত্যেকটাই নাকচ করলেন। তারপর বললেন, নবী ﷺ-এর কথায় এক মিষ্টতা আছে। তোমরা যা-ই বলো, লোকে বুঝে ফেলবে তা মিথ্যা। সবচেয়ে কাছাকাছি কথা হলো তাঁকে জাদুকর বলা।"
+          },
+          {
+            "en": "They parted on that, the report says, and Allah revealed this verse about them; it closes by glossing 'idin as asnaf, kinds. Al-Baghawi relays a fuller scene from Muqatil: sixteen men sent out by al-Walid in the season took the mountain passes and roads of Makkah between them, telling arriving pilgrims not to be taken in by the man claiming prophethood, one party saying madman, one soothsayer, one poet. Neither commentator grades these reports, and this article does not treat them as an established occasion of revelation. A meeting called to agree on one word still ends in a list.",
+            "bn": "বর্ণনা বলছে, এই সিদ্ধান্ত নিয়েই তারা ফিরে যায়, আর তাদের সম্পর্কে আল্লাহ এ আয়াত নাযিল করেন। বর্ণনার শেষে ইদীন-এর অর্থ দেওয়া হয়েছে আসনাফ, মানে নানা প্রকার। বাগাভী মুকাতিল থেকে আরও বিস্তারিত এক দৃশ্য আনেন। মৌসুমের সময় ওয়ালীদ ষোলোজন লোক পাঠান। তারা মক্কার গিরিপথ আর রাস্তাগুলো নিজেদের মধ্যে ভাগ করে নেয়। আগত হাজীদের তারা বলত, নবুওয়াতের দাবিদার এই লোকের ধোঁকায় পড়বেন না। একটা দল বলত পাগল, আরেক দল গণক, আরেক দল কবি। দুই তাফসীরকারের কেউই এই বর্ণনাগুলোর মান উল্লেখ করেননি। তাই এখানে এগুলোকে শানে নুযূল হিসেবে প্রতিষ্ঠিত ধরা হয়নি। এক কথায় একমত হতে ডাকা বৈঠকও শেষ হয় নামের এক তালিকায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Held Up as a Mirror Only",
+          "bn": "শুধু আয়না হিসেবে ধরা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes people the commentators name: in one reading, some of the People of the Book in how they treated their scripture; in the other, the polytheists of Quraysh in the Prophet's ﷺ own time. It describes what the text describes. It licenses nothing against any living Jew, Christian or member of any community, and gives no one the right to brand others as those who cut up the Book. That the commentators differ even over whom it names is itself a reason to hold that naming with care.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। তাফসীরকারেরা যাদের নাম নেন, আয়াতটি তাদেরই বর্ণনা দেয়। একটি পাঠে তারা আহলে কিতাবের কিছু লোক, নিজেদের কিতাবের সঙ্গে তাদের আচরণের প্রসঙ্গে। অন্য পাঠে তারা নবী ﷺ-এর নিজের যুগের কুরাইশ মুশরিক। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজকের কোনো ইহুদি, খ্রিস্টান বা কোনো সম্প্রদায়ের কোনো মানুষের বিরুদ্ধে এতে কোনো অনুমতি নেই। কাউকে কিতাব টুকরো করা লোক বলে দাগিয়ে দেওয়ার অধিকারও এ আয়াত কাউকে দেয় না। আয়াতটি কাদের কথা বলছে, তা নিয়েই তাফসীরকারদের মতভেদ আছে। সেটাই সাবধানে কথা বলার যথেষ্ট কারণ।"
+          },
+          {
+            "en": "What the verse can do is hold up a mirror. The Qur'an asks the first reader's question outright in 2:85: do you then believe in part of the Book and disbelieve in part? A believer can keep the verses that comfort and walk past the ones that demand. And a listener can meet an unwelcome truth and, instead of answering it, give it a name. At-Tabari said dividing and slandering are close in meaning. For a reader the closeness is the warning: cutting a message into pieces and calling it names both spare me from hearing it whole.",
+            "bn": "আয়াতটি যা পারে, তা হলো আয়না ধরা। প্রথম পাঠের প্রশ্নটা কুরআন সরাসরি করেছে ২:৮৫ আয়াতে: তোমরা কি কিতাবের কিছু অংশে ঈমান আনো আর কিছু অংশ অস্বীকার করো? একজন মু'মিনও সান্ত্বনা দেওয়া আয়াতগুলো আঁকড়ে ধরে দায়িত্ব চাপানো আয়াতগুলো পাশ কাটিয়ে যেতে পারে। আবার কেউ অপছন্দের কোনো সত্যের মুখোমুখি হয়ে জবাব না দিয়ে তার গায়ে একটা নাম সেঁটে দিতে পারে। তাবারী বলেছেন, ভাগ করা আর অপবাদ দেওয়া অর্থে কাছাকাছি। পাঠকের জন্য এই নৈকট্যই সতর্কবার্তা। বাণীকে টুকরো করা আর তাকে নাম দিয়ে উড়িয়ে দেওয়া, দুটোই আমাকে পুরো কথাটা শোনা থেকে রেহাই দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked About All of It",
+          "bn": "সব আমলের হিসাব চাওয়া হবে"
+        },
+        "p": [
+          {
+            "en": "The oath follows at once: by your Lord, We will surely question them all, about what they used to do. On al-Qurtubi's second parsing this verse is the very subject of that oath. Ibn Kathir, under 15:92 and 15:93, relays Abu al-'Aliya: on the Day of Resurrection everyone will be asked about two things, what they used to worship and how they answered the Messengers. He also relays Ibn Abbas, who pairs the verse with 55:39: they will not be asked whether they did a thing, since Allah knows better, but why they did it.",
+            "bn": "শপথ আসে সঙ্গে সঙ্গেই: তোমার রবের কসম, তারা যা করত সে সম্পর্কে আমি তাদের সবাইকে অবশ্যই জিজ্ঞেস করব। কুরতুবীর দ্বিতীয় বিশ্লেষণে আমাদের আয়াতটিই সেই শপথের উদ্দেশ্য। ইবন কাসীর ১৫:৯২ ও ১৫:৯৩ আয়াতের আলোচনায় আবুল আলিয়ার কথা আনেন: কিয়ামতের দিন প্রত্যেককে দুটি বিষয়ে জিজ্ঞেস করা হবে, তারা কীসের ইবাদত করত, আর রাসূলদের ডাকে কী জবাব দিয়েছিল। তিনি ইবন আব্বাস (রাঃ)-এর কথাও আনেন, যিনি আয়াতটিকে ৫৫:৩৯ আয়াতের পাশে রাখেন। তাদের জিজ্ঞেস করা হবে না অমুক কাজ করেছ কি না, কারণ আল্লাহ তা ভালো জানেন। জিজ্ঞেস করা হবে, কেন করেছ।"
+          },
+          {
+            "en": "None of the commentators fetched here attaches a hadith of the Prophet ﷺ to this verse; the reports in al-Bukhari are Ibn Abbas's explanations. After the oath, 15:94 orders the message proclaimed openly and 15:95 promises sufficiency against the mockers. What the verse leaves with a reader is plain. Take the Book whole, the verses that console and the verses that ask, read each by the ones around it, and when a truth unsettles you, answer it rather than naming it, because the question on that Day will be about all of it.",
+            "bn": "এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। বুখারীর বর্ণনাগুলো ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা। শপথের পর ১৫:৯৪ আয়াত প্রকাশ্যে বাণী প্রচারের হুকুম দেয়, আর ১৫:৯৫ আয়াত ঠাট্টাকারীদের বিরুদ্ধে যথেষ্ট হওয়ার প্রতিশ্রুতি দেয়। পাঠকের জন্য আয়াতের শিক্ষা পরিষ্কার। কিতাবকে পুরোটাই গ্রহণ করুন, সান্ত্বনার আয়াতও, দাবির আয়াতও। প্রতিটি আয়াত তার আশপাশের আয়াতের আলোয় পড়ুন। কোনো সত্য অস্বস্তিতে ফেললে তার গায়ে নাম না সেঁটে তার জবাব দিন। কারণ সেদিনের প্রশ্ন হবে সবকিছু নিয়েই।"
+          }
+        ]
+      }
+    ]
+  },
   "15:94": {
     "sections": [
       {

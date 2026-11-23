@@ -33263,6 +33263,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Everything on the earth was given its measure by Allah: thank Him for your portion, take no more than your share, and waste nothing He has weighed out.",
     "lessonBn": "পৃথিবীর সবকিছুর মাপ আল্লাহ ঠিক করে দিয়েছেন: নিজের ভাগের জন্য তাঁর শুকরিয়া আদায় করুন, প্রাপ্যের বেশি নেবেন না, আর তাঁর মেপে দেওয়া কিছুই নষ্ট করবেন না।"
+  },
+  "15:91": {
+    "reflectionEn": "Four Arabic words: those who made the Qur'an into pieces. The commentators give two pictures of what that means. In one, people take a revealed Book, keep the parts that suit them and set the rest aside. In the other, people who cannot answer a message break it up with labels instead: magic, poetry, a soothsayer's talk, old tales, each of them reaching for a different name. Both are ways of not hearing the whole. The verse describes people in the Prophet's ﷺ time and gives no licence to accuse anyone living now. It turns the question back on me. Which parts of the Book do I hold close, and which do I quietly leave aside? When a truth unsettles me, do I listen, or reach for a label?",
+    "reflectionBn": "আরবিতে মাত্র চারটি শব্দ: যারা কুরআনকে টুকরো টুকরো করেছে। এর মানে বোঝাতে তাফসীরকারেরা দুটি ছবি আঁকেন। এক ছবিতে মানুষ নাযিল হওয়া কিতাব হাতে নেয়, যে অংশ মনের মতো তা রাখে, বাকিটা সরিয়ে রাখে। অন্য ছবিতে মানুষ এক বাণীর জবাব দিতে না পেরে তাকে নানা নামে ভেঙে ফেলে: জাদু, কবিতা, গণকের কথা, পুরনো দিনের কিসসা। একেকজন একেক নাম বেছে নেয়। দুটোই আসলে পুরোটা না শোনার উপায়। আয়াতটি নবী ﷺ-এর যুগের কিছু মানুষের কথা বলছে। আজকের কোনো মানুষকে অভিযুক্ত করার অনুমতি এতে নেই। প্রশ্নটা বরং ফিরে আসে আমার দিকে। কিতাবের কোন অংশ আমি বুকে আগলে রাখি, আর কোন অংশ চুপচাপ পাশে সরিয়ে রাখি? কোনো সত্য যখন আমাকে অস্বস্তিতে ফেলে, আমি কি তা শুনি, নাকি তার গায়ে একটা নাম সেঁটে দিই?",
+    "pointsEn": [
+      "Which verse do I find easiest to pass over, and what would change if I took it as seriously as the ones I love?",
+      "When an argument I cannot answer reaches me, do I weigh it, or give it a name that lets me stop listening?",
+      "Have I ever quoted part of a passage to make a point that the whole passage would not support?",
+      "Do I read the Qur'an as one Book, letting the verses around a verse I like explain it?",
+      "What will I say when I am asked about all I used to do, including what I did with the parts I set aside?"
+    ],
+    "pointsBn": [
+      "কোন আয়াতটা আমি সবচেয়ে সহজে পাশ কাটিয়ে যাই? প্রিয় আয়াতগুলোর মতো ওটাকেও গুরুত্ব দিলে আমার জীবনে কী বদলাত?",
+      "যে যুক্তির জবাব আমার কাছে নেই, তা সামনে এলে আমি কি তা ওজন করে দেখি, নাকি এমন একটা নাম দিয়ে দিই যাতে আর শুনতে না হয়?",
+      "আমি কি কখনো কোনো অংশের এক টুকরো উদ্ধৃত করে এমন কথা প্রমাণ করতে চেয়েছি, যা পুরো অংশটা সমর্থন করে না?",
+      "আমি কি কুরআনকে এক কিতাব হিসেবে পড়ি, যাতে প্রিয় আয়াতটির অর্থ তার আশপাশের আয়াতগুলোই খুলে দেয়?",
+      "যখন আমার সব আমল সম্পর্কে জিজ্ঞেস করা হবে, যে অংশগুলো আমি সরিয়ে রেখেছিলাম সেগুলো নিয়ে কী করেছি, তখন আমি কী জবাব দেব?"
+    ],
+    "lessonEn": "Take the Book whole: do not keep the parts that please you and set the rest aside, and do not dismiss a truth by giving it a label.",
+    "lessonBn": "কিতাবকে পুরোটাই গ্রহণ করুন। মনের মতো অংশ রেখে বাকিটা সরিয়ে দেবেন না, আর কোনো সত্যের গায়ে নাম সেঁটে দিয়ে তাকে উড়িয়েও দেবেন না।"
   }
 };
 
