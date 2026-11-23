@@ -5479,6 +5479,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:121": {
+    "sections": [
+      {
+        "h": {
+          "en": "From a Promise to a Morning",
+          "bn": "প্রতিশ্রুতি থেকে এক সকালে"
+        },
+        "p": [
+          {
+            "en": "Wa-idh ghadawta min ahlika: and when you went out in the morning from your household. The address turns from the believers to the Prophet ﷺ, and from warning to memory. Ibn Kathir marks the turn: here Allah begins the story of Uhud, with its testing of His believing servants, its sorting of believers from hypocrites, and its showing of the patience of the patient. Yet the verse itself tells no battle. It gives a departure, an arranging of ranks, and two names of Allah.",
+            "bn": "ওয়া ইয গাদাওতা মিন আহলিকা: আর যখন তুমি সকালে তোমার পরিবার থেকে বেরিয়েছিলে। সম্বোধন এখানে মু'মিনদের থেকে সরে নবী ﷺ-এর দিকে যায়, সতর্কবাণী থেকে স্মৃতির দিকে। ইবন কাসীর এই মোড়টা চিহ্নিত করেন। তাঁর ভাষায়, এখান থেকে আল্লাহ উহুদের কাহিনি শুরু করছেন। সে কাহিনিতে ছিল মু'মিন বান্দাদের পরীক্ষা, মু'মিন আর মুনাফিকদের আলাদা করে চেনানো, আর সবরকারীদের সবর প্রকাশ করা। অথচ আয়াতটি নিজে কোনো যুদ্ধের বিবরণ দেয় না। দেয় একটি যাত্রা, সারি সাজানোর একটি দৃশ্য, আর আল্লাহর দুটি নাম।"
+          },
+          {
+            "en": "At-Tabari reads the verse as the unspoken half of a condition. 3:120 promised that if the believers were patient and mindful, their enemies' plotting would not harm them, and Allah would help them as at Badr. Left unsaid, he explains, is the rest: if they went against His command, what came down on them at Uhud would come again; so remember that day. For as-Sa'di too, the promise never fails once its condition is met, and the two stories side by side show it: help at Badr when they held firm, the enemy given the upper hand at Uhud when some fell short.",
+            "bn": "তাবারী আয়াতটিকে একটি শর্তের না-বলা অর্ধেক হিসেবে পড়েন। ৩:১২০ আয়াতে প্রতিশ্রুতি ছিল, মু'মিনরা সবর আর তাকওয়া অবলম্বন করলে শত্রুর চক্রান্ত তাদের কোনো ক্ষতি করতে পারবে না, আর আল্লাহ তাদের সাহায্য করবেন, যেমন বদরে করেছিলেন। তাবারী বলেন, বাকিটা না বলে রেখে দেওয়া হয়েছে: তারা তাঁর হুকুমের বিরোধিতা করলে উহুদে যা নেমে এসেছিল, তা আবার আসবে। তাই সেই দিনটির কথা মনে করো। সা'দীর মতেও শর্ত পূরণ হলে এ প্রতিশ্রুতি কখনো ব্যর্থ হয় না। পাশাপাশি রাখা দুই কাহিনি সেটাই দেখায়: বদরে তারা অটল ছিল, তাই সাহায্য এল। উহুদে কয়েকজনের ঘাটতি দেখা দিল, তাই শত্রুকে প্রাধান্য দেওয়া হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Uhud, the Trench, or Badr",
+          "bn": "উহুদ, খন্দক, নাকি বদর"
+        },
+        "p": [
+          {
+            "en": "Which morning is meant? Ibn Kathir says the majority hold it was Uhud, and names Ibn 'Abbas, al-Hasan, Qatadah and as-Suddi among them. At-Tabari gathers the same view from Mujahid, Qatadah, ar-Rabi', Ibn 'Abbas, as-Suddi and Ibn Ishaq. Qatadah's wording is the plainest: that was the day of Uhud; the Prophet of Allah ﷺ went out in the morning from his household to Uhud, posting the believers at stations for fighting. Ibn Ishaq simply lists the verse among what came down about Uhud.",
+            "bn": "কোন সকালের কথা বলা হচ্ছে? ইবন কাসীর বলেন, অধিকাংশের মতে এটি উহুদ। তিনি তাঁদের মধ্যে ইবন আব্বাস, হাসান, কাতাদা ও সুদ্দীর নাম নেন। তাবারীও একই মত সংগ্রহ করেন মুজাহিদ, কাতাদা, রাবী', ইবন আব্বাস, সুদ্দী ও ইবন ইসহাক থেকে। কাতাদার কথাই সবচেয়ে সরল: সেটি ছিল উহুদের দিন। আল্লাহর নবী ﷺ সকালে পরিবার থেকে বেরিয়ে উহুদের দিকে গেলেন, মু'মিনদের যুদ্ধের জায়গায় জায়গায় বসাতে। ইবন ইসহাক কেবল আয়াতটিকে উহুদ নিয়ে নাযিল হওয়া আয়াতগুলোর তালিকায় রাখেন।"
+          },
+          {
+            "en": "Other names appear. At-Tabari reports from al-Hasan, through one chain, that it was the day of the Confederates, al-Ahzab. Al-Qurtubi gives the campaign of the Trench, al-Khandaq, from Mujahid, al-Hasan, Muqatil and al-Kalbi, and from al-Hasan again the day of Badr. Al-Baghawi has al-Hasan for Badr and Muqatil for the Confederates. So the reports from al-Hasan point in different directions, and Ibn Kathir, who counts him with the majority, calls the Confederates report from him strange and not to be relied on.",
+            "bn": "অন্য নামও এসেছে। তাবারী একটি সনদে হাসান থেকে বর্ণনা করেন, এটি ছিল আহযাব অর্থাৎ সম্মিলিত বাহিনীর দিন। কুরতুবী মুজাহিদ, হাসান, মুকাতিল ও কালবী থেকে বলেন, এটি খন্দক অভিযান। আবার হাসান থেকেই আরেকটি মত আনেন: বদরের দিন। বাগাভীর বর্ণনায় হাসান বলেন বদর, আর মুকাতিল বলেন আহযাব। ফলে হাসান থেকে আসা বর্ণনাগুলো নানা দিকে যায়। ইবন কাসীর তাঁকে অধিকাংশের দলেই গোনেন, আর তাঁর নামে আসা আহযাবের বর্ণনাকে বলেন গরীব, যার উপর ভরসা করা যায় না।"
+          },
+          {
+            "en": "At-Tabari prefers Uhud because 3:122 speaks of two parties about to lose courage, and neither the interpreters nor the experts on the campaigns differ that they were Banu Salimah and Banu Harithah, at Uhud. Al-Qurtubi argues from 3:122 too; al-Baghawi, from what follows almost to the surah's end. In Sahih al-Bukhari (4051), Jabir says: this verse came down about us, 'when two parties among you were about to lose courage', Banu Salimah and Banu Harithah, and I would not like it not to have come down, for Allah says, 'and Allah was their ally'.",
+            "bn": "তাবারী উহুদকেই প্রাধান্য দেন, কারণ ৩:১২২ আয়াতে এমন দুই দলের কথা আছে যারা সাহস হারাতে বসেছিল। মুফাসসির বা মাগাযির বিশেষজ্ঞ, কারও মধ্যে মতভেদ নেই যে তারা ছিল বনু সালিমা ও বনু হারিসা, আর ঘটনাটা উহুদের। কুরতুবীও ৩:১২২ থেকেই যুক্তি দেন। বাগাভীর যুক্তি হলো, এরপর প্রায় সূরার শেষ পর্যন্ত আলোচনা উহুদ নিয়েই। সহীহ বুখারীতে (৪০৫১) জাবির (রাঃ) বলেন: এ আয়াত আমাদের নিয়েই নাযিল হয়েছে, 'যখন তোমাদের দুই দল সাহস হারাতে বসেছিল', অর্থাৎ বনু সালিমা ও বনু হারিসা। আয়াতটি নাযিল না হলে আমি খুশি হতাম না, কেননা আল্লাহ বলেছেন, 'আর আল্লাহ ছিলেন তাদের অভিভাবক'।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Morning, or Simply Setting Out",
+          "bn": "ভোরবেলা, নাকি শুধু বেরিয়ে পড়া"
+        },
+        "p": [
+          {
+            "en": "Ghadawta is going out early in the day. Al-Qurtubi glosses it as you went out in the morning, and min ahlika as from your dwelling, from 'A'ishah's. Al-Baghawi reports from Mujahid, al-Kalbi and al-Waqidi that the Messenger of Allah ﷺ set out from 'A'ishah's house and walked on foot to Uhud, then began lining up his companions for battle the way an arrow shaft is straightened. At-Tabari keeps Mujahid's short version: the Prophet ﷺ walked on his feet that day, posting the believers.",
+            "bn": "গাদাওতা মানে দিনের শুরুতে বেরিয়ে পড়া। কুরতুবীর ব্যাখ্যায়, তুমি সকালে বেরিয়েছিলে, আর মিন আহলিকা মানে তোমার ঘর থেকে, আয়েশা (রাঃ)-এর কাছ থেকে। বাগাভী মুজাহিদ, কালবী ও ওয়াকিদী থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ আয়েশা (রাঃ)-এর ঘর থেকে বের হয়ে পায়ে হেঁটে উহুদে যান। সেখানে তিনি সাহাবীদের যুদ্ধের সারিতে দাঁড় করাতে লাগলেন, যেভাবে তীরের কাঠি সোজা করা হয়। তাবারী মুজাহিদের ছোট বর্ণনাটি রাখেন: সেদিন নবী ﷺ নিজের পায়ে হেঁটে মু'মিনদের জায়গায় জায়গায় বসাচ্ছিলেন।"
+          },
+          {
+            "en": "But the campaign accounts that at-Tabari and al-Baghawi carry through Ibn Ishaq have him leave after leading the Friday prayer, in the afternoon. At-Tabari raises the objection himself and answers it: the leaving was in the afternoon, but the posting did not happen then. It came a day or two before he met the enemy, when he consulted his companions and laid out the plan he saw for them; that consultation, he says, was the posting. His paraphrase: remember, Muhammad, when you went out from your household, taking for the believers a camp and a place to fight their enemy.",
+            "bn": "কিন্তু ইবন ইসহাকের সূত্রে তাবারী ও বাগাভী যে যুদ্ধবিবরণ আনেন, তাতে তিনি বের হন জুমার নামায পড়ানোর পর, বিকেলে। আপত্তিটা তাবারী নিজেই তোলেন, নিজেই জবাব দেন। বের হওয়া বিকেলে হয়েছিল ঠিকই, কিন্তু জায়গা ঠিক করে দেওয়ার কাজটা তখন হয়নি। সেটা হয়েছিল শত্রুর মুখোমুখি হওয়ার এক-দুই দিন আগে, যখন তিনি সাহাবীদের সঙ্গে পরামর্শ করে তাঁদের জন্য নিজের পরিকল্পনা সাজিয়ে দেন। তাবারীর মতে সেই পরামর্শই ছিল জায়গায় বসানোর কাজ। তাঁর ব্যাখ্যা: হে মুহাম্মাদ, মনে করো, যখন তুমি পরিবার থেকে বেরিয়ে মু'মিনদের জন্য শিবির আর শত্রুর সঙ্গে লড়াইয়ের জায়গা ঠিক করছিলে।"
+          },
+          {
+            "en": "Others settle it differently. As-Sa'di says ghuduww here means going out in general, not the start of the day, since they left only after the Friday prayer. Ibn Kathir sums up at-Tabari's answer as a going out early on Saturday to post them, which fits a line in at-Tabari's account that the Prophet ﷺ reached the pass of Uhud by Saturday morning, though at-Tabari's full text places the posting in the consultation. Ma'arif al-Qur'an takes the morning at its word. The books differ on the date too, and that is left open here.",
+            "bn": "অন্যরা বিষয়টা মেলান অন্যভাবে। সা'দী বলেন, এখানে গুদুওয়্যু মানে সাধারণভাবে বেরিয়ে পড়া, দিনের শুরু নয়, কারণ জুমার নামাযের পরেই তাঁরা বের হন। ইবন কাসীর তাবারীর জবাবকে সংক্ষেপে বলেন: তাঁদের জায়গায় বসাতে তিনি বেরিয়েছিলেন শনিবার ভোরে। তাবারীর বিবরণের একটি লাইনের সঙ্গে এটা মেলে, যেখানে আছে নবী ﷺ শনিবার সকালে উহুদের গিরিপথে পৌঁছান। তবে তাবারীর পুরো লেখা জায়গায় বসানোর কাজটিকে রাখে পরামর্শসভায়। মাআরিফুল কুরআন সকালকে আক্ষরিক অর্থেই নেয়। তারিখ নিয়েও কিতাবগুলোতে মতভেদ আছে, সেটা এখানে খোলা রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seats Made Ready for Battle",
+          "bn": "লড়াইয়ের জন্য বসার জায়গা"
+        },
+        "p": [
+          {
+            "en": "Tubawwi'u al-mu'minina maqa'ida lil-qital: you were settling the believers in seats for the fighting. Al-Qurtubi says the root of tabawwu' is taking a dwelling; you say bawwa'tuhu manzilan when you lodged someone in a place. He illustrates it with the Prophet's ﷺ warning against lying about him. In Sahih al-Bukhari (107), az-Zubayr heard him say: whoever lies against me, let him take up his seat in the Fire. Fal-yatabawwa' maq'adahu: the same verb and the same noun as this verse. Here, he concludes, it means setting up ranks for them.",
+            "bn": "তুবাওয়িউল মু'মিনীনা মাকাইদা লিলকিতাল: তুমি মু'মিনদের লড়াইয়ের জন্য বসার জায়গায় স্থির করে দিচ্ছিলে। কুরতুবী বলেন, তাবাওউ শব্দের মূল অর্থ বাসস্থান গ্রহণ করা। কাউকে কোনো জায়গায় থাকতে দিলে আরবরা বলে, বাওয়া'তুহু মানযিলান। উদাহরণ হিসেবে তিনি আনেন নবী ﷺ-এর নামে মিথ্যা বলার বিরুদ্ধে তাঁর সতর্কবাণী। সহীহ বুখারীতে (১০৭) যুবাইর (রাঃ) তাঁকে বলতে শুনেছেন: যে আমার নামে মিথ্যা বলে, সে যেন জাহান্নামে নিজের বসার জায়গা করে নেয়। ফাল-ইয়াতাবাওয়া' মাকআদাহু: এ আয়াতের সেই একই ক্রিয়া, সেই একই বিশেষ্য। কুরতুবীর উপসংহার: এখানে এর মানে তাদের জন্য সারি ঠিক করে দেওয়া।"
+          },
+          {
+            "en": "Al-Baghawi glosses maqa'id as positions and places for fighting, and supports the verb from 10:93, We settled the Children of Israel in a sound settlement, and 10:87, settle houses for your people in Egypt; another view, he adds, is setting up a camp. At-Tabari notes that maqa'id is the plural of maq'ad, a sitting place. Al-Muyassar paints the scene: he went out in his battle gear, ordering his companions' rows and putting each man in his place. A fight is described in the language of dwelling.",
+            "bn": "বাগাভী মাকাইদের অর্থ করেন অবস্থান, লড়াইয়ের জায়গা। ক্রিয়াটির পক্ষে তিনি আনেন ১০:৯৩, আমি বনী ইসরাঈলকে উত্তম আবাসে বসিয়েছিলাম, আর ১০:৮৭, তোমাদের কওমের জন্য মিসরে ঘর ঠিক করো। তিনি যোগ করেন, কেউ কেউ বলেন এর অর্থ শিবির স্থাপন। তাবারী জানান, মাকাইদ হলো মাক'আদের বহুবচন, অর্থাৎ বসার জায়গা। মুয়াসসার দৃশ্যটা এঁকে দেয়: যুদ্ধের পোশাক পরে তিনি বের হলেন, সাহাবীদের সারি সাজালেন, প্রত্যেককে তার জায়গায় বসালেন। একটা লড়াইয়ের বর্ণনা দেওয়া হয়েছে বসবাসের ভাষায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fifty Set on the Slope",
+          "bn": "ঢালে বসানো পঞ্চাশজন"
+        },
+        "p": [
+          {
+            "en": "What did the posting look like? Ibn Kathir describes the Prophet ﷺ halting at the pass of Uhud with his back and his camp towards the mountain, readying 700 men, and setting 'Abdullah ibn Jubayr over the archers, who were fifty. He gave the standard to Mus'ab ibn 'Umayr. As-Sa'di says he placed the fifty in a gap in the mountain and ordered them to keep to it, so that no one could come at the army from behind. Ma'arif al-Qur'an adds az-Zubayr over the horsemen and Hamzah over the unarmoured men.",
+            "bn": "জায়গায় বসানোর ছবিটা কেমন ছিল? ইবন কাসীর বর্ণনা দেন, নবী ﷺ উহুদের গিরিপথে থামলেন, পিঠ আর শিবির রাখলেন পাহাড়ের দিকে। ৭০০ জন লোককে প্রস্তুত করলেন, আর তীরন্দাজদের উপর আবদুল্লাহ ইবন জুবাইর (রাঃ)-কে নিযুক্ত করলেন। তীরন্দাজ ছিলেন পঞ্চাশজন। পতাকা দিলেন মুসআব ইবন উমাইর (রাঃ)-এর হাতে। সা'দী বলেন, পঞ্চাশজনকে তিনি পাহাড়ের একটি ফাঁকে বসান এবং সেখানে অটল থাকার হুকুম দেন, যাতে পেছন থেকে কেউ বাহিনীর উপর আসতে না পারে। মাআরিফুল কুরআন আরও জানায়, অশ্বারোহীদের দায়িত্বে ছিলেন যুবাইর (রাঃ) আর বর্মহীনদের দায়িত্বে হামযা (রাঃ)।"
+          },
+          {
+            "en": "A sound narration preserves the order given at that post, though neither al-Bukhari nor any commentator fetched here ties it to this verse. In Sahih al-Bukhari (3039), al-Bara' ibn 'Azib says the Prophet ﷺ put 'Abdullah ibn Jubayr over the foot soldiers at Uhud, fifty men, and said: if you see us being snatched by birds, do not leave this place of yours until I send for you; and if you see that we have routed the people and trampled them, do not leave until I send for you. What followed belongs to later verses, such as 3:145.",
+            "bn": "সেই অবস্থানে দেওয়া হুকুমটা একটি সহীহ বর্ণনায় সংরক্ষিত আছে। তবে বুখারী বা এখানে দেখা কোনো তাফসীর এটিকে এ আয়াতের সঙ্গে যুক্ত করেনি। সহীহ বুখারীতে (৩০৩৯) বারা ইবন আযিব (রাঃ) বলেন, উহুদে নবী ﷺ পদাতিকদের উপর আবদুল্লাহ ইবন জুবাইর (রাঃ)-কে নিযুক্ত করেন, তাঁরা ছিলেন পঞ্চাশজন। তিনি বলেন: যদি দেখো পাখিরা আমাদের ছোঁ মেরে তুলে নিচ্ছে, তবুও আমি তোমাদের কাছে লোক না পাঠানো পর্যন্ত তোমরা এ জায়গা ছাড়বে না। আর যদি দেখো আমরা শত্রুদের পরাজিত করে পদদলিত করেছি, তবুও আমি লোক না পাঠানো পর্যন্ত ছাড়বে না। এরপর কী ঘটেছিল, তা পরের আয়াতগুলোর বিষয়, যেমন ৩:১৪৫।"
+          },
+          {
+            "en": "As-Sa'di finds in the verse's wording the highest praise of the Prophet ﷺ: he himself took on arranging his companions and placing them at the stations of battle, which comes only from complete knowledge and judgement, sound view, high resolve and full courage. Ma'arif al-Qur'an notes that the verse passes over everything between the leaving and the front and names only the first act there, the placing of the believers. Before any blow was struck, the work was to put each person where he was needed.",
+            "bn": "সা'দী আয়াতের শব্দচয়নেই নবী ﷺ-এর সবচেয়ে বড় প্রশংসা খুঁজে পান। সাহাবীদের সাজানো আর যুদ্ধের জায়গায় জায়গায় বসানোর কাজ তিনি নিজ হাতে করেছেন। সা'দীর মতে এটা আসে কেবল পরিপূর্ণ জ্ঞান ও বিচারবুদ্ধি, নির্ভুল দৃষ্টি, উঁচু হিম্মত আর পূর্ণ সাহস থেকে। মাআরিফুল কুরআন লক্ষ করে, ঘর থেকে বের হওয়া আর রণাঙ্গনে পৌঁছানোর মাঝের সবকিছু আয়াতটি বাদ দিয়ে যায়। সেখানে প্রথম যে কাজ হয়েছিল, শুধু সেটারই নাম নেয়: মু'মিনদের জায়গায় বসানো। একটা আঘাতও পড়ার আগে কাজ ছিল প্রত্যেককে সেখানে দাঁড় করানো, যেখানে তাকে দরকার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard in the Council",
+          "bn": "পরামর্শসভার কথা তিনি শুনেছেন"
+        },
+        "p": [
+          {
+            "en": "Wallahu sami'un 'alim: and Allah is Hearing, Knowing. At-Tabari ties both names to the consultation. Allah heard what the believers said when the Prophet ﷺ asked where to meet the enemy, those who said go out beyond Madinah and those who said stay until they enter it, and what he himself advised. He knew which view was best for them all, and what the breasts of both groups of advisers hid. Ibn Ishaq, in at-Tabari, puts it in two phrases: hearing what they say, knowing what they hide.",
+            "bn": "ওয়াল্লাহু সামীউন আলীম: আর আল্লাহ সব শোনেন, সব জানেন। তাবারী দুটি নামকেই পরামর্শসভার সঙ্গে যুক্ত করেন। শত্রুর মুখোমুখি কোথায় হবে, নবী ﷺ জানতে চাইলে মু'মিনরা যা বলেছিল, আল্লাহ তা শুনেছেন। কেউ বলেছিল, বেরিয়ে গিয়ে মদীনার বাইরে লড়ো। কেউ বলেছিল, ভেতরে থাকো, ওরা ঢুকলে তখন লড়ো। নবী ﷺ নিজে যে পরামর্শ দিয়েছিলেন, তাও তিনি শুনেছেন। কোন মতটি সবার জন্য সবচেয়ে কল্যাণকর ছিল, তিনি জানতেন। দুই দলের পরামর্শদাতাদের অন্তরে কী লুকানো ছিল, তাও জানতেন। তাবারীর সূত্রে ইবন ইসহাক কথাটা দুই টুকরোয় বলেন: তারা যা বলে তা শোনেন, যা লুকায় তা জানেন।"
+          },
+          {
+            "en": "At-Tabari's account of that council, from Ibn Ishaq's teachers, says the Prophet ﷺ disliked leaving Madinah, and 'Abdullah ibn Ubayy shared that view. Men later honoured with martyrdom at Uhud, and others who had missed Badr, urged him to go out lest the enemy think them afraid, until he put on his armour. In as-Suddi's version they then regretted it and left the choice to him. A short reply of his, relayed ungraded, is not quoted here. On the way, Ibn Kathir and as-Sa'di report, Ibn Ubayy turned back with a third of the army.",
+            "bn": "সেই পরামর্শসভার যে বিবরণ তাবারী ইবন ইসহাকের উস্তাদদের সূত্রে আনেন, তাতে আছে, নবী ﷺ মদীনা ছেড়ে বের হওয়া পছন্দ করছিলেন না। আবদুল্লাহ ইবন উবাইয়েরও একই মত ছিল। কিন্তু কিছু লোক বের হওয়ার জন্য জোর দিল, যাতে শত্রু তাদের ভীরু না ভাবে। তাদের কাউকে আল্লাহ পরে উহুদে শাহাদাত দিয়ে সম্মানিত করেন, আর কেউ কেউ ছিল বদরে অংশ নিতে না পারা লোক। শেষে তিনি ঘরে গিয়ে বর্ম পরলেন। সুদ্দীর বর্ণনায় আছে, তখন তারা অনুতপ্ত হয়ে সিদ্ধান্ত তাঁর হাতেই ছেড়ে দিল। এর জবাবে তাঁর একটি ছোট উক্তি মান যাচাই ছাড়া বর্ণিত হয়েছে, তাই এখানে তা উদ্ধৃত হলো না। ইবন কাসীর ও সা'দী জানান, পথে ইবন উবাই বাহিনীর এক-তৃতীয়াংশ নিয়ে ফিরে যায়।"
+          },
+          {
+            "en": "As-Sa'di reads the two names in two directions. He hears every word, including what believers and hypocrites said that day, each speaking from what was in his heart, and He knows intentions and will repay them in full. But He is also hearing and knowing of the believers: watching over them, managing their affairs and backing them with His help, as He told Musa and Harun (AS), I am with you both, I hear and I see (20:46).",
+            "bn": "সা'দী নাম দুটিকে দুই দিক থেকে পড়েন। আল্লাহ প্রতিটি কথা শোনেন। সেদিন মু'মিন আর মুনাফিক যে যা বলেছিল, প্রত্যেকে নিজের অন্তরের অবস্থা অনুযায়ী বলেছিল, সবই তিনি শুনেছেন। তিনি নিয়ত জানেন, আর তার পূর্ণ প্রতিদান দেবেন। আবার মু'মিনদের কথাও তিনি শোনেন, তাদের অবস্থা জানেন। তাদের দেখাশোনা করেন, তাদের কাজ নিজে সামলান, নিজের সাহায্য দিয়ে তাদের শক্তি জোগান। যেমন তিনি মূসা ও হারূন (আঃ)-কে বলেছিলেন: আমি তোমাদের সঙ্গে আছি, আমি শুনি ও দেখি (২০:৪৬)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Details Kept for a Reason",
+          "bn": "বেছে রাখা খুঁটিনাটি"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an observes that the Qur'an does not narrate an event in full; it takes up a detail only when guidance is built into it. Here it keeps the hour, in ghadawta, and the point of departure, in min ahlika. The Prophet ﷺ was with his family, and when the time came he left them behind, even though the attack was aimed at Madinah itself. The lesson Ma'arif draws is that when Allah's command calls, love of family and home should not hold a person back from it.",
+            "bn": "মাআরিফুল কুরআন লক্ষ করে, কুরআন কোনো ঘটনা পুরোটা বর্ণনা করে না। কোনো খুঁটিনাটি তখনই আনে, যখন তাতে পথনির্দেশ থাকে। এখানে রাখা হয়েছে সময়টা, গাদাওতা শব্দে, আর যাত্রার শুরুর জায়গাটা, মিন আহলিকা শব্দে। নবী ﷺ পরিবারের সঙ্গে ছিলেন। সময় হতেই তাদের পেছনে রেখে বেরিয়ে পড়লেন, যদিও আক্রমণের লক্ষ্য ছিল মদীনা নিজেই। মাআরিফের শিক্ষা: আল্লাহর হুকুম যখন ডাকে, তখন পরিবার আর ঘরের মায়া যেন মানুষকে আটকে না রাখে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse names no one. The sources around it name a man who withdrew with his followers and an army that marched from Makkah. The verse describes what happened on that day as the text describes it, and it licenses nothing against any living person or community. Its closing names point the other way: hearts are known to Allah, and judging what lay in them that day was His, not a reader's.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি কারও নাম নেয় না। এর চারপাশের বর্ণনাগুলো একজন মানুষের নাম নেয়, যে অনুসারীদের নিয়ে ফিরে গিয়েছিল, আর মক্কা থেকে আসা একটি বাহিনীর কথা বলে। সেদিন যা ঘটেছিল, আয়াতটি তা-ই বর্ণনা করে, যেভাবে পাঠ্যে আছে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। আয়াতের শেষের নাম দুটি বরং উল্টো দিকে ইঙ্গিত করে: অন্তরের খবর আল্লাহ জানেন। সেদিন কার অন্তরে কী ছিল, তার বিচার তাঁর, কোনো পাঠকের নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Holding the Place I Am Given",
+          "bn": "যে জায়গা আমাকে দেওয়া হয়েছে"
+        },
+        "p": [
+          {
+            "en": "Most of us will never stand on a battlefield, but every life is arranged into stations. A parent is placed over a home, a teacher over a class, a worker over a task others depend on. The verse remembers the care with which believers were placed, each where he was needed, before anything else happened. It asks two things of its reader: to place others with that care where the choice is ours, and to hold our own place when the crowd moves towards something that seems more rewarding.",
+            "bn": "আমাদের বেশিরভাগ কখনো রণাঙ্গনে দাঁড়াবে না, কিন্তু প্রত্যেক জীবনই কয়েকটা অবস্থানে ভাগ করা। মা-বাবাকে বসানো হয়েছে ঘরের দায়িত্বে, শিক্ষককে ক্লাসের, কর্মীকে এমন কাজের যার উপর অন্যরা নির্ভর করে। কিছু ঘটার আগেই মু'মিনদের কত যত্নে যার যার জায়গায় বসানো হয়েছিল, আয়াতটি সেটা মনে করিয়ে দেয়। পাঠকের কাছে তার চাওয়া দুটি। যেখানে সিদ্ধান্ত আমাদের হাতে, সেখানে অন্যদের এই যত্নে জায়গা দেওয়া। আর ভিড় যখন বেশি লাভের দিকে ছুটে যায়, তখন নিজের জায়গা ধরে রাখা।"
+          },
+          {
+            "en": "And it closes on counsel. Before the morning came a meeting in which people spoke, some with eagerness, some with caution, some with something else in their hearts, and Allah heard and knew all of it. When I speak in a family discussion or a mosque committee, I can ask whether I would say the same words knowing they are heard, and whether I can accept the decision when my view loses. A place held faithfully and a word spoken honestly are both known to the One who hears and knows.",
+            "bn": "আয়াতটি শেষ হয় পরামর্শের কথায়। সেই সকালের আগে একটা বৈঠক হয়েছিল। কেউ কথা বলেছিল উৎসাহ নিয়ে, কেউ সাবধানতা নিয়ে, কারও অন্তরে ছিল অন্য কিছু। আল্লাহ সবই শুনেছেন, সবই জেনেছেন। পারিবারিক আলোচনায় বা মসজিদ কমিটিতে কথা বলার সময় নিজেকে জিজ্ঞেস করা যায়: কেউ শুনছেন জানলে কি আমি এই কথাগুলোই বলতাম? আর আমার মত না টিকলে কি সিদ্ধান্তটা মেনে নিতে পারি? বিশ্বস্তভাবে ধরে রাখা জায়গা আর সততায় বলা কথা, দুটোরই খবর রাখেন তিনি, যিনি শোনেন ও জানেন।"
+          }
+        ]
+      }
+    ]
+  },
   "3:123-126": {
     "sections": [
       {

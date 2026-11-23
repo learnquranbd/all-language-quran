@@ -30803,6 +30803,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a marriage begins to split, send fair and trusted people from both families who truly want repair; the agreement itself is Allah's to grant.",
     "lessonBn": "দাম্পত্যে ফাটল ধরতে শুরু করলে দুই পরিবার থেকে এমন ন্যায়পরায়ণ, আস্থাভাজন মানুষ পাঠান যারা আন্তরিকভাবে মিলন চায়। আর মিল ঘটিয়ে দেওয়া আল্লাহরই কাজ।"
+  },
+  "3:121": {
+    "reflectionEn": "A morning, a household left behind, and a man walking out to set each believer in his place for the fight. The verse does not tell the battle. It stops on the arranging: who stands where, who guards which slope, whose back is to the mountain. Then it closes on two names of Allah, the Hearing and the Knowing. He heard every voice in the counsel before that morning, the eager and the reluctant, and He knew what each heart held back. Every life has its stations too, at home, at work, among people, and someone has been placed at each. Do I know where I have been placed? Do I hold it when the crowd moves elsewhere? And do I speak in counsel as one who is heard?",
+    "reflectionBn": "এক সকাল। পেছনে পড়ে রইল ঘর-পরিবার। একজন মানুষ বেরিয়ে পড়লেন, যুদ্ধের জন্য প্রত্যেক মু'মিনকে তার জায়গায় দাঁড় করাতে। আয়াতটি যুদ্ধের গল্প বলে না। থেমে থাকে সাজানোর মুহূর্তে: কে কোথায় দাঁড়াবে, কোন ঢাল কে পাহারা দেবে, কার পিঠ থাকবে পাহাড়ের দিকে। তারপর শেষ হয় আল্লাহর দুটি নামে: তিনি সব শোনেন, সব জানেন। সেই সকালের আগে পরামর্শসভায় যত কথা উঠেছিল, উৎসাহী আর দ্বিধাগ্রস্ত সবার কথাই তিনি শুনেছেন। কার মনে কী চাপা ছিল, তাও জানেন। প্রত্যেক জীবনেও এমন অবস্থান আছে, ঘরে, কাজে, মানুষের মাঝে। প্রতিটি জায়গায় কাউকে না কাউকে দাঁড় করানো হয়েছে। আমি কি জানি, আমাকে কোথায় দাঁড় করানো হয়েছে? ভিড় অন্য দিকে ছুটলে কি আমি জায়গা ধরে রাখি? আর পরামর্শে কথা বলার সময় কি মনে রাখি যে কেউ একজন শুনছেন?",
+    "pointsEn": [
+      "Where have I been placed right now, in my family, my work or my community, and do I treat that place as a trust or as a waiting room?",
+      "When others leave their post because the reward seems to lie elsewhere, what keeps me at mine, and what would pull me away?",
+      "In the last discussion where my view lost, did I accept the decision with a clean heart, or carry the disagreement into what followed?",
+      "If Allah hears every word spoken in a meeting and knows what each speaker keeps back, how would that change what I say there and why I say it?",
+      "Is there someone whose place I am responsible for arranging, and have I given that care, or left them to find their own way?"
+    ],
+    "pointsBn": [
+      "পরিবারে, কাজে বা সমাজে এই মুহূর্তে আমাকে কোথায় দাঁড় করানো হয়েছে? জায়গাটাকে কি আমি আমানত মনে করি, নাকি কেবল অপেক্ষার ঘর?",
+      "লাভ অন্য দিকে আছে ভেবে অন্যরা যখন নিজেদের জায়গা ছেড়ে চলে যায়, তখন কী আমাকে আমার জায়গায় ধরে রাখে? আর কী আমাকে টেনে সরিয়ে নিতে পারে?",
+      "শেষ যে আলোচনায় আমার মত টেকেনি, সিদ্ধান্তটা কি আমি পরিষ্কার মনে মেনে নিয়েছি, নাকি মতভেদটা পরের কাজেও বয়ে বেড়িয়েছি?",
+      "বৈঠকে বলা প্রতিটি কথা আল্লাহ শোনেন, আর কে কী মনে চেপে রাখে তাও জানেন। এ কথা মনে থাকলে সেখানে আমি কী বলি আর কেন বলি, তাতে কী বদল আসবে?",
+      "এমন কেউ কি আছে, যার জায়গা ঠিক করে দেওয়ার দায় আমার? সেই যত্ন কি আমি নিয়েছি, নাকি তাকে নিজের পথ নিজে খুঁজে নিতে ছেড়ে দিয়েছি?"
+    ],
+    "lessonEn": "Take the place you are given as a trust, hold it when others drift away, and speak in every counsel knowing that Allah hears the words and knows the hearts.",
+    "lessonBn": "যে জায়গায় আপনাকে দাঁড় করানো হয়েছে তা আমানত হিসেবে নিন, অন্যরা সরে গেলেও ধরে রাখুন, আর প্রতিটি পরামর্শে কথা বলুন এই মনে রেখে যে আল্লাহ কথা শোনেন, অন্তরও জানেন।"
   }
 };
 
