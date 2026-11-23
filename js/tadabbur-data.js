@@ -33003,6 +33003,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Speak of the hope Allah gives you even when others may mock it, and never be quick to call an elder foolish for perceiving what you cannot.",
     "lessonBn": "অন্যেরা ঠাট্টা করতে পারে জেনেও আল্লাহর দেওয়া আশার কথা বলুন, আর আপনি যা টের পান না তা টের পাওয়ার জন্য কোনো মুরব্বিকে তাড়াহুড়ো করে নির্বোধ বলবেন না।"
+  },
+  "12:67": {
+    "reflectionEn": "A father who has already lost one son sends the others off again, this time with the youngest among them. At the last moment he gives one practical instruction: do not all go in by one gate; enter by separate gates. Then, in the same breath, he takes the weight off his own advice. I cannot avail you against Allah at all. The decision belongs to Allah alone. Upon Him I rely. He does what a careful father can do, and he refuses to lean on it. Most of us keep only one half of that. Either we skip the precaution and call it trust, or we take every precaution and quietly trust it in place of Allah. Which half do I tend to drop?",
+    "reflectionBn": "এক পিতা, যিনি আগেই এক ছেলেকে হারিয়েছেন, বাকি ছেলেদের আবার সফরে পাঠাচ্ছেন। এবার তাদের সঙ্গে সবচেয়ে ছোটটিও যাচ্ছে। বিদায়ের মুহূর্তে তিনি একটা কাজের কথা বলে দেন: সবাই এক দরজা দিয়ে ঢুকো না, ভিন্ন ভিন্ন দরজা দিয়ে ঢুকো। পরক্ষণেই নিজের পরামর্শের উপর থেকে ভরসাটা সরিয়ে নেন। আল্লাহর ফয়সালার সামনে আমি তোমাদের কোনো কাজে আসতে পারব না। হুকুম কেবল আল্লাহর। আমি তাঁরই উপর ভরসা করি। একজন সাবধানী পিতার যা করার, তিনি তা করেন, কিন্তু সেটার উপর হেলান দেন না। আমরা অনেকেই এর অর্ধেকটা ধরে রাখি। হয় সাবধানতা বাদ দিয়ে তাকে তাওয়াক্কুল বলি, নয়তো সব সাবধানতা নিয়ে চুপচাপ আল্লাহর বদলে সেগুলোর উপরই ভরসা করি। আমি সাধারণত কোন অর্ধেকটা ফেলে দিই?",
+    "pointsEn": [
+      "What sensible precaution have I been skipping while telling myself that I was simply trusting Allah?",
+      "Which plan of mine am I leaning on so heavily that I no longer mean it when I say in sha' Allah?",
+      "When someone I love sets out on a journey, do I give them both practical advice and a reminder of who actually keeps them safe?",
+      "When something about another person impresses me, do I pray for blessing for them, or do I only admire it, or envy it?",
+      "If a careful plan of mine fails, will I still hold that the decision was Allah's, and keep relying on Him?"
+    ],
+    "pointsBn": [
+      "কোন সহজ সাবধানতাটা আমি এড়িয়ে যাচ্ছি, আর নিজেকে বোঝাচ্ছি যে আমি তো আল্লাহর উপর ভরসা করছি?",
+      "আমার কোন পরিকল্পনার উপর এত বেশি ভর দিয়েছি যে ইনশাআল্লাহ বলার সময় কথাটা আর মন থেকে আসে না?",
+      "প্রিয় কেউ সফরে বের হলে আমি কি তাকে কাজের পরামর্শও দিই, আবার এটাও মনে করিয়ে দিই যে আসলে তাকে হেফাজত করেন কে?",
+      "অন্য কারও কোনো কিছু দেখে মুগ্ধ হলে আমি কি তার জন্য বরকতের দোয়া করি, নাকি শুধু তাকিয়ে থাকি, কিংবা মনে মনে হিংসা করি?",
+      "আমার সাবধানে সাজানো পরিকল্পনা ভেস্তে গেলে আমি কি তখনো মানব যে ফয়সালা আল্লাহরই ছিল, আর তাঁর উপরই ভরসা রাখব?"
+    ],
+    "lessonEn": "Take the precaution a careful person would take, then rely on Allah rather than on it, since no plan of yours can turn aside what He decides.",
+    "lessonBn": "একজন বিবেচক মানুষ যে সাবধানতা নেয়, তা নিন। তারপর ভরসা করুন সেই সাবধানতার উপর নয়, আল্লাহর উপর। কারণ তিনি যা ফয়সালা করেন, আপনার কোনো পরিকল্পনা তা ফেরাতে পারে না।"
   }
 };
 

@@ -3479,6 +3479,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "12:67": {
+    "sections": [
+      {
+        "h": {
+          "en": "One Gate or Many",
+          "bn": "এক দরজা, নাকি অনেক"
+        },
+        "p": [
+          {
+            "en": "Wa qala ya baniyya: and he said, O my sons. The speaker is Ya'qub (AS), and the moment is the second journey to Egypt. Ibn Kathir places the words at the point when he had equipped his sons to travel with their brother Binyamin; at-Tabari, when they wished to leave him for Egypt to buy provisions; as-Sa'di, after he had sent the boy with them. The pledge of 12:66 has just been given, and what follows is a parting counsel about entering a city they had seen once before.",
+            "bn": "ওয়া কালা ইয়া বুনাইয়া: আর তিনি বললেন, হে আমার ছেলেরা। বক্তা ইয়াকুব (আঃ), আর সময়টা মিসরে দ্বিতীয় সফরের। ইবন কাসীরের বর্ণনায় কথাগুলো বলা হয় তখন, যখন তিনি ছেলেদের তাদের ভাই বিনয়ামীনকে সঙ্গে দিয়ে সফরের জন্য প্রস্তুত করে দিয়েছেন। তাবারীর বর্ণনায়, যখন তারা খাদ্য কিনতে তাঁর কাছ থেকে মিসরের পথে বের হতে চাইল। সা'দীর বর্ণনায়, ছেলেটিকে তাদের সঙ্গে পাঠানোর পর। ১২:৬৬ আয়াতের অঙ্গীকার সবে নেওয়া হয়েছে। এরপর আসে বিদায়ের এক উপদেশ, যে শহর তারা একবার দেখে এসেছে, সেখানে ঢোকার নিয়ম নিয়ে।"
+          },
+          {
+            "en": "La tadkhulu min babin wahidin wa-dkhulu min abwabin mutafarriqah: do not enter by one gate, and enter by separate gates. At-Tabari glosses the single gate as a single road: do not enter Egypt by one way. Al-Qurtubi adds that Egypt had four gates, and the Muyassar sets the counsel at the moment of arrival: when you enter the land of Egypt. Ma'arif al-Qur'an pictures the brothers, eleven of them in all, reaching the outer wall of the city together and only then dispersing to come in by different gates.",
+            "bn": "লা তাদখুলূ মিন বাবিন ওয়াহিদিন ওয়াদখুলূ মিন আবওয়াবিন মুতাফাররিকাহ: একটি দরজা দিয়ে ঢুকো না, ভিন্ন ভিন্ন দরজা দিয়ে ঢুকো। তাবারী এক দরজার ব্যাখ্যা দেন এক পথ বলে: মিসরে এক রাস্তা ধরে ঢুকো না। কুরতুবী যোগ করেন, মিসরের চারটি দরজা ছিল। মুয়াসসার উপদেশটিকে রাখে পৌঁছানোর মুহূর্তে: যখন তোমরা মিসরের ভূমিতে প্রবেশ করবে। মাআরিফুল কুরআনের ছবিতে ভাইয়েরা, সব মিলিয়ে ১১ জন, একসঙ্গে শহরের বাইরের প্রাচীর পর্যন্ত পৌঁছায়। তারপর আলাদা হয়ে ভিন্ন ভিন্ন দরজা দিয়ে ভেতরে ঢোকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eleven Sons of One Man",
+          "bn": "এক পিতার এগারো ছেলে"
+        },
+        "p": [
+          {
+            "en": "Why separate gates? Most of the commentators give one reason: he feared the evil eye for them. Ibn Kathir names those who said so, Ibn 'Abbas, Muhammad ibn Ka'b, Mujahid, ad-Dahhak, Qatada and as-Suddi, and gives the ground: they were men of beauty and fine bearing, striking to look at, and he feared that people would strike them with their eyes. At-Tabari carries the same reading through chains from Ibn 'Abbas, ad-Dahhak, Qatada, Muhammad ibn Ka'b, as-Suddi and Ibn Ishaq. Al-Qurtubi gives it from Ibn 'Abbas, ad-Dahhak, Qatada and others.",
+            "bn": "ভিন্ন ভিন্ন দরজা কেন? বেশির ভাগ মুফাসসির একটাই কারণ বলেন: তিনি তাদের উপর বদনজরের ভয় করছিলেন। যাঁরা এ কথা বলেছেন, ইবন কাসীর তাঁদের নাম দেন: ইবন আব্বাস (রাঃ), মুহাম্মাদ ইবন কা'ব, মুজাহিদ, দাহহাক, কাতাদা ও সুদ্দী। কারণটাও তিনি বলেন। ছেলেরা ছিল সুদর্শন, চালচলনে আকর্ষণীয়, চোখে পড়ার মতো। তাই তিনি ভয় পাচ্ছিলেন, মানুষের চোখ তাদের ক্ষতি করবে। তাবারী একই ব্যাখ্যা আনেন ইবন আব্বাস (রাঃ), দাহহাক, কাতাদা, মুহাম্মাদ ইবন কা'ব, সুদ্দী ও ইবন ইসহাকের সনদে। কুরতুবী এটি আনেন ইবন আব্বাস (রাঃ), দাহহাক, কাতাদা ও অন্যদের থেকে।"
+          },
+          {
+            "en": "The rest add detail rather than a new reason. As-Sa'di puts it down to their number and the splendour of their appearance, all being sons of one man, and then adds three words that matter later: wa hadha sababun, and this is a cause, a means one takes. Al-Baghawi lists beauty, strength and tall stature, and says he told them to disperse so that the eye would not strike them. Al-Qurtubi counts them as eleven men of one father, people of beauty, perfection and build.",
+            "bn": "বাকিরা নতুন কারণ আনেন না, বিবরণ যোগ করেন। সা'দী কারণ হিসেবে বলেন তাদের সংখ্যা আর চেহারার দীপ্তি, সবাই এক পিতার সন্তান। তারপর তিনি তিনটি শব্দ জুড়ে দেন, যা পরে কাজে আসবে: ওয়া হাযা সাবাবুন, আর এটি একটি সাবাব, অর্থাৎ অবলম্বন করার মতো একটি উপায়। বাগাভী গুনে বলেন সৌন্দর্য, শক্তি আর দীর্ঘ গড়ন। তাঁর মতে তিনি তাদের ছড়িয়ে পড়তে বলেছিলেন, যাতে বদনজর না লাগে। কুরতুবী তাদের গণনা করেন এক পিতার ১১ জন পুরুষ হিসেবে, যারা ছিল সৌন্দর্য, পূর্ণতা ও সুগঠনের অধিকারী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An-Nakha'i Gives Another Reason",
+          "bn": "নাখঈর ভিন্ন কারণ"
+        },
+        "p": [
+          {
+            "en": "One early voice gives a different reason. Ibn Kathir relays, through Ibn Abi Hatim, that Ibrahim an-Nakha'i said of the words enter by separate gates: he knew that he would meet his brothers at one of the gates. Al-Baghawi reports an-Nakha'i in plainer terms: Ya'qub (AS) said it because he hoped they would see Yusuf (AS) as they spread out. On this reading the counsel was less a shield than a search, a father widening the chance that his sons would come upon the son he had lost.",
+            "bn": "প্রথম যুগের একজন ভিন্ন কারণ বলেন। ইবন কাসীর ইবন আবী হাতিমের সূত্রে আনেন, ইবরাহীম নাখঈ 'ভিন্ন ভিন্ন দরজা দিয়ে ঢুকো' কথাটির ব্যাপারে বলেছেন: তিনি জানতেন, কোনো এক দরজায় তার ভাইদের সঙ্গে দেখা হবে। বাগাভী নাখঈর কথাটি আরও সোজা করে আনেন। ইয়াকুব (আঃ) এ কথা বলেছিলেন, কারণ তিনি আশা করছিলেন, ছড়িয়ে পড়লে তারা ইউসুফ (আঃ)-কে দেখতে পাবে। এ ব্যাখ্যায় উপদেশটা যতটা না ঢাল, তার চেয়ে বেশি খোঁজ। হারানো ছেলের দেখা মেলার সম্ভাবনা একজন পিতা যেন একটু বাড়িয়ে নিচ্ছেন।"
+          },
+          {
+            "en": "The two reasons are not weighed alike. Al-Baghawi states both and then judges: wa-l-awwalu asahh, the first is more correct, meaning the evil eye. Ibn Kathir relays an-Nakha'i after the larger group without comment, and at-Tabari, al-Qurtubi and as-Sa'di give only the eye. Ma'arif al-Qur'an widens the first reason instead of adding the second: perhaps an evil eye, or perhaps their arriving all together would stir someone's envy or cause them some harm. The verse itself names no reason, and that silence is what leaves room for the readings to differ.",
+            "bn": "দুই কারণকে সবাই সমান ওজন দেন না। বাগাভী দুটোই উল্লেখ করে রায় দেন: ওয়াল আউওয়ালু আসাহহ, প্রথমটিই বেশি সঠিক, অর্থাৎ বদনজরের কারণ। ইবন কাসীর বড় দলের মতের পর নাখঈর কথা আনেন, কোনো মন্তব্য করেন না। তাবারী, কুরতুবী ও সা'দী কেবল বদনজরের কথাই বলেন। মাআরিফুল কুরআন দ্বিতীয় কারণ না এনে প্রথমটিকেই একটু প্রশস্ত করে। হয়তো বদনজর, কিংবা হয়তো সবাই একসঙ্গে এলে কারও মনে হিংসা জাগবে, বা কেউ তাদের কষ্ট দেবে। আয়াত নিজে কোনো কারণ বলেনি। এই নীরবতার কারণেই ব্যাখ্যায় ভিন্নতার জায়গা তৈরি হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-'Aynu Haqq: The Eye Is Real",
+          "bn": "আল-আইনু হাক্ক: বদনজর সত্য"
+        },
+        "p": [
+          {
+            "en": "If the eye was the reason, al-Qurtubi says, the verse is evidence for guarding against the eye, and the eye is real. The phrase is the Prophet's ﷺ, in narrations that are general and not attached to this verse or its story. Al-Bukhari records from Abu Hurayrah (RA) that the Prophet ﷺ said, \"Al-'aynu haqq, the evil eye is real,\" and he forbade tattooing (Bukhari 5740). Muslim gives the same two words from Abu Hurayrah (RA), among the narrations Hammam ibn Munabbih heard from him (Muslim 2187).",
+            "bn": "কারণ যদি বদনজরই হয়, কুরতুবী বলেন, তবে আয়াতটি বদনজর থেকে সাবধান থাকার দলিল, আর বদনজর সত্য। এ কথাটি নবী ﷺ-এর, তবে যে বর্ণনাগুলোতে এসেছে সেগুলো সাধারণ, এ আয়াত বা এ কাহিনির সঙ্গে যুক্ত নয়। বুখারী আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: \"আল-আইনু হাক্ক, বদনজর সত্য।\" আর তিনি উল্কি আঁকতে নিষেধ করেছেন (বুখারী ৫৭৪০)। মুসলিমও আবু হুরায়রা (রাঃ) থেকে এই দুটি শব্দই আনেন, হাম্মাম ইবন মুনাব্বিহ তাঁর কাছ থেকে যে হাদীসগুলো শুনেছিলেন সেগুলোর মধ্যে (মুসলিম ২১৮৭)।"
+          },
+          {
+            "en": "A second narration in Muslim, from Ibn 'Abbas (RA), sets the eye against the decree. The Prophet ﷺ said: \"The evil eye is real. If anything were to outstrip the decree, the evil eye would outstrip it. And when you are asked to wash, then wash\" (Muslim 2188). The saying affirms the eye and, in the same breath, places it under a decree that nothing outstrips. That is the shape of Ya'qub's words here: a real danger, a real precaution, and a decree that no precaution overrides.",
+            "bn": "মুসলিমে ইবন আব্বাস (রাঃ) থেকে আরেকটি বর্ণনা বদনজরকে তাকদীরের পাশে দাঁড় করায়। নবী ﷺ বলেছেন: \"বদনজর সত্য। কোনো কিছু যদি তাকদীরকে ছাড়িয়ে যেতে পারত, তবে বদনজরই তাকে ছাড়িয়ে যেত। আর তোমাদের যখন গোসল করতে বলা হয়, তখন গোসল করো\" (মুসলিম ২১৮৮)। কথাটি বদনজরকে সত্য বলে, আবার সঙ্গে সঙ্গেই তাকে তাকদীরের অধীনে রাখে, যাকে কিছুই ছাড়িয়ে যেতে পারে না। ইয়াকুব (আঃ)-এর কথারও ধরন এটাই। বিপদটা সত্য, সাবধানতাও সত্য, কিন্তু তাকদীরের উপরে কোনো সাবধানতা যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Something Pleases the Eye",
+          "bn": "কিছু দেখে মুগ্ধ হলে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives from Malik a story that Ibn Majah also records. 'Amir ibn Rabi'ah (RA) passed Sahl ibn Hunayf (RA) while he was bathing and exclaimed at his skin, and Sahl soon fell to the ground. The Prophet ﷺ asked whom they suspected, and when they named 'Amir he said: \"Why would one of you kill his brother? When one of you sees in his brother something that pleases him, let him pray for blessing for him.\" He then told 'Amir to perform ablution, and the water was poured over Sahl (Ibn Majah 3509; Ibn Majah gives no grading of his own).",
+            "bn": "কুরতুবী ইমাম মালিক থেকে একটি ঘটনা আনেন, যা ইবন মাজাহও বর্ণনা করেছেন। সাহল ইবন হুনাইফ (রাঃ) গোসল করছিলেন, এমন সময় আমির ইবন রাবীআ (রাঃ) পাশ দিয়ে যাচ্ছিলেন। সাহলের গায়ের চামড়া দেখে তিনি বিস্ময় প্রকাশ করলেন, আর অল্পক্ষণেই সাহল মাটিতে লুটিয়ে পড়লেন। নবী ﷺ জিজ্ঞেস করলেন, তোমরা কাকে সন্দেহ করো? তারা আমিরের নাম বলল। তিনি বললেন: \"তোমাদের কেউ তার ভাইকে কেন হত্যা করবে? তোমাদের কেউ যখন তার ভাইয়ের মধ্যে এমন কিছু দেখে যা তার ভালো লাগে, তখন সে যেন তার জন্য বরকতের দোয়া করে।\" এরপর তিনি আমিরকে ওযু করালেন, আর সেই পানি সাহলের উপর ঢেলে দেওয়া হলো (ইবন মাজাহ ৩৫০৯; ইবন মাজাহ নিজে এর কোনো মান উল্লেখ করেননি)।"
+          },
+          {
+            "en": "From this al-Qurtubi draws a rule: it is an obligation on every Muslim who is impressed by something to pray for its blessing, since that prayer turns the harm away. He gives the words: tabaraka-llahu ahsanu al-khaliqin, Allahumma barik fihi, blessed is Allah, the best of creators; O Allah, bless him. He adds that a righteous man may have a harmful eye without it counting against him or making him sinful, and he notes that the Prophet ﷺ ordered 'Amir neither confined nor sent away.",
+            "bn": "এ থেকে কুরতুবী একটি বিধান বের করেন। কোনো কিছু দেখে যে মুসলিমের ভালো লাগে, তার উপর ওয়াজিব সে জিনিসের জন্য বরকতের দোয়া করা, কারণ এই দোয়াই ক্ষতি ফিরিয়ে দেয়। দোয়ার শব্দও তিনি বলে দেন: তাবারাকাল্লাহু আহসানুল খালিকীন, আল্লাহুম্মা বারিক ফীহি। অর্থাৎ বরকতময় আল্লাহ, সর্বোত্তম স্রষ্টা; হে আল্লাহ, তাকে বরকত দিন। তিনি আরও বলেন, একজন নেককার মানুষেরও নজর লাগতে পারে। এতে তার মর্যাদা কমে না, সে গুনাহগারও হয় না। তিনি দেখান, নবী ﷺ আমিরকে আটকে রাখার বা নির্বাসনে পাঠানোর আদেশ দেননি।"
+          },
+          {
+            "en": "That last point needs to stay in view. The verse records a father's precaution for his own sons. It does not tell anyone to suspect a neighbour, a relative or a guest of carrying the eye, and it licenses no accusation against any living person. What it asks of a believer is turned inward: to guard what he admires in others with a prayer for blessing, and to guard his own family with sensible care and with reliance on Allah, which the rest of the verse now turns to.",
+            "bn": "শেষ কথাটা মনে রাখা জরুরি। আয়াতটি শুধু নিজের ছেলেদের জন্য এক পিতার সাবধানতার কথা বলে। প্রতিবেশী, আত্মীয় বা মেহমানকে নজর লাগানোর সন্দেহ করতে এটি কাউকে বলে না। জীবিত কোনো মানুষের বিরুদ্ধে অভিযোগ তোলার অনুমতিও এটি দেয় না। মুমিনের কাছে আয়াতটির দাবি বরং নিজের দিকে ফেরানো। অন্যের যা ভালো লাগে, বরকতের দোয়া দিয়ে তা আগলে রাখা। আর নিজের পরিবারকে আগলে রাখা বুদ্ধিমান সতর্কতা আর আল্লাহর উপর ভরসা দিয়ে। আয়াতের বাকি অংশ এবার সেদিকেই যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Caution Cannot Outrun Decree",
+          "bn": "সাবধানতা তাকদীরকে ঠেকায় না"
+        },
+        "p": [
+          {
+            "en": "Wa ma ughni 'ankum mina-llahi min shay': and I cannot avail you against Allah in anything. Ya'qub (AS) has just given an instruction, and at once he states its limit. At-Tabari glosses it: I am not able to ward off from you anything of the decree Allah has decreed for you, small or great, because His decree is carried out in His creation. Ibn Kathir says the same of the precaution itself: this guarding does not turn back Allah's qadar and decision, for when Allah wills a thing, it is neither opposed nor prevented.",
+            "bn": "ওয়া মা উগনী আনকুম মিনাল্লাহি মিন শাই: আর আল্লাহর বিপরীতে আমি তোমাদের কোনো কাজে আসতে পারব না। ইয়াকুব (আঃ) সবে একটি নির্দেশ দিয়েছেন, আর সঙ্গে সঙ্গে তার সীমাও বলে দিচ্ছেন। তাবারীর ব্যাখ্যা: আল্লাহ তোমাদের জন্য যে ফয়সালা করে রেখেছেন, ছোট হোক বা বড়, তার কিছুই আমি তোমাদের থেকে সরাতে পারব না, কারণ তাঁর সৃষ্টির মধ্যে তাঁর ফয়সালাই কার্যকর হয়। ইবন কাসীর একই কথা বলেন সাবধানতাটি সম্পর্কে। এই সতর্কতা আল্লাহর তাকদীর ও ফয়সালা ফেরাতে পারে না। আল্লাহ কিছু চাইলে কেউ তার বিরোধিতা করতে বা তা আটকাতে পারে না।"
+          },
+          {
+            "en": "Al-Baghawi spells the point out in terms of the gates. If Allah has decreed something for you, it will reach you whether you are together or apart, for what is decreed will be, and wariness is of no use against the decree. Al-Qurtubi compresses it into four words: la yanfa'u al-hadharu ma'a al-qadar, caution does not avail against the decree. Both describe the limit Ya'qub (AS) set on his own advice; neither cancels the advice. He still told his sons to take separate gates, and they did, as 12:68 reports.",
+            "bn": "বাগাভী কথাটি দরজার ভাষাতেই খুলে বলেন। আল্লাহ তোমাদের জন্য কিছু নির্ধারণ করে থাকলে তা তোমাদের কাছে পৌঁছাবেই, তোমরা একসঙ্গে থাকো বা আলাদা। কারণ যা নির্ধারিত তা ঘটবেই, আর তাকদীরের সামনে সতর্কতা কাজে আসে না। কুরতুবী একে চারটি শব্দে গুটিয়ে আনেন: লা ইয়ানফাউল হাযারু মাআল কাদার, তাকদীরের সামনে সাবধানতা কোনো উপকারে আসে না। দুজনেই বলছেন ইয়াকুব (আঃ) নিজের উপদেশের যে সীমা টেনেছেন, সে কথা। উপদেশটি তাঁরা বাতিল করছেন না। তিনি তো ছেলেদের ভিন্ন দরজা দিয়েই ঢুকতে বলেছিলেন, আর ১২:৬৮ জানায়, তারা তা-ই করেছিল।"
+          },
+          {
+            "en": "As-Sa'di is the clearest on how the two halves fit. Having called the instruction a sabab, a means, he reads the next clause as its boundary: this is a means, and beyond it I cannot avail you anything against Allah, for what is decreed must come to be. Ma'arif al-Qur'an puts the same balance in practical terms. A person is asked to do what is physically possible, so the advice was given; but trust is placed in Allah alone, and never in physical and material arrangements.",
+            "bn": "দুই অংশ কীভাবে মেলে, সা'দী তা সবচেয়ে পরিষ্কার করে বলেন। নির্দেশটিকে তিনি আগেই 'সাবাব' বা উপায় বলেছেন। পরের বাক্যটিকে তিনি পড়েন সেই উপায়ের সীমা হিসেবে। এ একটি উপায় মাত্র, এর বাইরে আল্লাহর বিপরীতে আমি তোমাদের কোনো কাজে আসতে পারব না, কারণ যা নির্ধারিত তা ঘটবেই। মাআরিফুল কুরআন একই ভারসাম্য বলে বাস্তব ভাষায়। মানুষকে বলা হয়েছে, বাহ্যিকভাবে যা করা সম্ভব তা করতে, তাই উপদেশটি দেওয়া হয়েছে। কিন্তু ভরসা কেবল আল্লাহর উপর, বাহ্যিক ও বস্তুগত আয়োজনের উপর কখনো নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only His Ruling Goes Through",
+          "bn": "কার্যকর কেবল তাঁর হুকুম"
+        },
+        "p": [
+          {
+            "en": "In al-hukmu illa lillah: the judgement is only Allah's. At-Tabari explains it as decree and judgement belonging to Allah and to nothing besides Him: He rules in His creation as He wills, His ruling is carried out in them, and His decree is not turned back. As-Sa'di says: the decree is His decree and the command His command, so whatever He decrees and rules must come to pass. Al-Baghawi names the act behind the words: hadha tafwidu Ya'qub, this is Ya'qub entrusting his affairs to Allah.",
+            "bn": "ইনিল হুকমু ইল্লা লিল্লাহ: হুকুম কেবল আল্লাহর। তাবারী ব্যাখ্যা করেন, ফয়সালা ও হুকুম কেবল আল্লাহর, তিনি ছাড়া আর কিছুর নয়। তিনি নিজের সৃষ্টির মধ্যে যেমন চান তেমন হুকুম দেন, তাদের মধ্যে তাঁর হুকুমই কার্যকর হয়, আর তাঁর ফয়সালা কেউ ফেরাতে পারে না। সা'দীর ভাষায়: ফয়সালা তাঁরই ফয়সালা, আদেশ তাঁরই আদেশ, তাই তিনি যা ফয়সালা করেন ও যার হুকুম দেন তা ঘটবেই। বাগাভী কথাগুলোর পেছনের কাজটির নাম বলে দেন: হাযা তাফউইদু ইয়াকুব, এ হলো ইয়াকুব (আঃ)-এর নিজের সব বিষয় আল্লাহর হাতে সঁপে দেওয়া।"
+          },
+          {
+            "en": "'Alayhi tawakkaltu: upon Him I have relied. At-Tabari makes the object of the reliance concrete. On Allah I relied, and I trusted Him concerning you and your safekeeping for me, until He returns you to me safe and well, and not on your entering Egypt by separate gates. As-Sa'di says it in fewer words: I relied on Allah, not on the means I advised you to take. The instruction stands, and the trust is placed elsewhere. Neither commentator sees any tension between the two.",
+            "bn": "আলাইহি তাওয়াক্কালতু: তাঁরই উপর আমি ভরসা করেছি। ভরসাটা ঠিক কী নিয়ে, তাবারী তা স্পষ্ট করে দেন। আমি আল্লাহর উপর ভরসা করেছি। তোমাদের ব্যাপারে, আমার জন্য তোমাদের হেফাজতের ব্যাপারে আমি তাঁকেই বিশ্বাস করেছি, যতক্ষণ না তিনি তোমাদের নিরাপদে, সুস্থ অবস্থায় আমার কাছে ফিরিয়ে দেন। ভিন্ন ভিন্ন দরজা দিয়ে মিসরে ঢোকার উপর আমার ভরসা নয়। সা'দী আরও কম কথায় বলেন: আমি আল্লাহর উপর ভরসা করেছি, তোমাদের যে উপায় অবলম্বন করতে বলেছি তার উপর নয়। নির্দেশটা বহাল থাকে, ভরসাটা রাখা হয় অন্য জায়গায়। দুই মুফাসসিরের কেউই এ দুয়ের মধ্যে কোনো বিরোধ দেখেন না।"
+          },
+          {
+            "en": "Then the last clause turns outward: wa 'alayhi fal-yatawakkali al-mutawakkilun, and upon Him let those who rely, rely. At-Tabari glosses it as: let those who entrust their affairs entrust them to Allah. The Muyassar reads it as on Him alone the believers rely, and al-Qurtubi defines the tawakkul of this verse as reliance and trust. As-Sa'di closes with its fruit: through tawakkul every thing sought is attained and every thing feared is repelled. A father's own resolve becomes a word for everyone who relies.",
+            "bn": "শেষ বাক্যটি এবার বাইরের দিকে ফেরে: ওয়া আলাইহি ফালইয়াতাওয়াক্কালিল মুতাওয়াক্কিলূন, আর ভরসাকারীরা যেন তাঁরই উপর ভরসা করে। তাবারীর ব্যাখ্যা: যারা নিজেদের বিষয় কারও হাতে সঁপে দেয়, তারা যেন আল্লাহর হাতেই সঁপে দেয়। মুয়াসসার পড়ে এভাবে: মুমিনরা কেবল তাঁরই উপর নির্ভর করে। কুরতুবী এ আয়াতের তাওয়াক্কুলের অর্থ বলেন নির্ভর করা ও আস্থা রাখা। সা'দী শেষ করেন এর ফল দিয়ে: তাওয়াক্কুলের মাধ্যমেই কাঙ্ক্ষিত সব কিছু অর্জিত হয়, আর ভয়ের সব কিছু দূর হয়। এক পিতার নিজের সংকল্প এভাবে হয়ে যায় সব ভরসাকারীর জন্য এক কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Gates Could Not Do",
+          "bn": "দরজাগুলো যা পারেনি"
+        },
+        "p": [
+          {
+            "en": "The next verse answers this one. In 12:68 the sons enter as their father ordered, and the Qur'an says it did not avail them against Allah at all, except as a need in Ya'qub's soul which he fulfilled, and that he was a possessor of knowledge because of what Allah had taught him. Ibn Kathir's abridged English, which takes the two verses together, glosses that need as the precaution against the evil eye.",
+            "bn": "পরের আয়াতই এ আয়াতের জবাব দেয়। ১২:৬৮ আয়াতে ছেলেরা পিতার আদেশমতো প্রবেশ করে। কুরআন বলে, আল্লাহর বিপরীতে তা তাদের কোনো কাজে আসেনি, কেবল ইয়াকুব (আঃ)-এর মনের একটি প্রয়োজন ছিল, যা তিনি পূরণ করলেন। কুরআন আরও বলে, আল্লাহ তাঁকে যা শিখিয়েছিলেন, তার বদৌলতে তিনি ছিলেন জ্ঞানের অধিকারী। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ দুই আয়াতকে একসঙ্গে নিয়ে সেই প্রয়োজনের ব্যাখ্যা দেয় বদনজর থেকে সাবধানতা হিসেবে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the outcome in two parts. The precaution against the eye and envy did its work, it says, since no such harm appeared on that journey. The larger hope, Binyamin's safe return, was not met: he was held in Egypt, as 12:70 and the verses after it tell, through something destiny held in store that no precaution could reach. Ma'arif adds that by the blessing of Ya'qub's tawakkul, this second blow became the remedy for the first, ending in his reunion with both his sons.",
+            "bn": "মাআরিফুল কুরআন ফলাফলটি দুই ভাগে দেখে। বদনজর ও হিংসা থেকে সাবধানতা কাজে এসেছিল, কারণ সে সফরে তেমন কোনো ক্ষতি দেখা দেয়নি। কিন্তু বড় আশাটি, বিনয়ামীনের নিরাপদে ফেরা, পূরণ হয়নি। ১২:৭০ ও তার পরের আয়াতগুলো যেমন বলে, তাঁকে মিসরে রেখে দেওয়া হয়। তাকদীরে এমন কিছু রাখা ছিল, যার নাগাল কোনো সাবধানতা পেত না। মাআরিফ আরও বলে, ইয়াকুব (আঃ)-এর তাওয়াক্কুলের বরকতে এই দ্বিতীয় আঘাতই প্রথম আঘাতের ওষুধ হয়ে দাঁড়ায়, আর শেষে দুই ছেলের সঙ্গেই তাঁর মিলন ঘটে।"
+          },
+          {
+            "en": "For a reader, the verse joins two things that people often keep apart. Ya'qub (AS), whom 12:68 calls a man of knowledge, did not treat precaution as a lack of trust, and he did not treat trust as a reason to skip precaution. He gave the instruction, named its limit aloud, and placed his reliance on Allah before his sons had reached any gate. When the journey then went a way no plan could have foreseen, the words he had spoken before it began were already true.",
+            "bn": "পাঠকের জন্য আয়াতটি এমন দুটি জিনিস জুড়ে দেয়, যাদের মানুষ প্রায়ই আলাদা করে রাখে। ১২:৬৮ যাঁকে জ্ঞানী বলেছে, সেই ইয়াকুব (আঃ) সাবধানতাকে ভরসার ঘাটতি মনে করেননি। আবার ভরসাকে সাবধানতা বাদ দেওয়ার অজুহাতও বানাননি। তিনি নির্দেশ দিয়েছেন, মুখে তার সীমা বলে দিয়েছেন, আর ছেলেরা কোনো দরজায় পৌঁছানোর আগেই ভরসা রেখেছেন আল্লাহর উপর। পরে সফর যখন এমন দিকে গড়াল, যা কোনো পরিকল্পনা আগে দেখতে পায়নি, তখনো সফরের আগে বলা তাঁর কথাগুলো সত্যই থেকে গেল।"
+          }
+        ]
+      }
+    ]
+  },
   "12:70": {
     "sections": [
       {
