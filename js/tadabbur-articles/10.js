@@ -3983,6 +3983,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "10:83": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Short List After Proofs",
+          "bn": "এত প্রমাণের পর ছোট্ট তালিকা"
+        },
+        "p": [
+          {
+            "en": "The magicians have thrown, and Musa (AS) has told them that Allah will bring their work to nothing and establish the truth by His words, even if the criminals dislike it (10:81 and 10:82). The next verse opens with fa, and so, and gives the outcome as a count: fa-ma amana li-Musa illa dhurriyyatun min qawmihi, none believed Musa except a dhurriyya of his people. At-Tabari, al-Baghawi and the Muyassar add: this despite the proofs and signs he had brought them.",
+            "bn": "যাদুকরেরা তাদের জিনিস ছুড়ে দিয়েছে। মূসা (আঃ) তাদের জানিয়ে দিয়েছেন, আল্লাহ তাদের কারসাজি ব্যর্থ করে দেবেন আর নিজের বাণী দিয়ে সত্যকে প্রতিষ্ঠিত করবেন, অপরাধীরা তা যতই অপছন্দ করুক (১০:৮১ ও ১০:৮২)। পরের আয়াত শুরু হয় ‘ফা’ দিয়ে, অর্থাৎ অতঃপর, আর ফলাফলটা জানায় একটা হিসাবের আকারে: ফামা আমানা লিমূসা ইল্লা যুররিয়্যাতুম মিন কাওমিহী, তার সম্প্রদায়ের একটি যুররিয়্যা ছাড়া কেউ মূসার উপর ঈমান আনেনি। তাবারী, বাগাভী ও মুয়াসসার জুড়ে দেন: এত প্রমাণ আর নিদর্শন নিয়ে আসার পরও এই অবস্থা।"
+          },
+          {
+            "en": "Three phrases in it are read in more than one way: what dhurriyya means, whose people his refers to, and whose chiefs their refers to. Behind all three stands a picture every source shares. These believers believed while afraid, ala khawf, afraid of Pharaoh and of the chiefs, that he would put them to trial. It closes on Pharaoh himself: high in the land, and one of the musrifin, those who go past the limit.",
+            "bn": "আয়াতের তিনটি শব্দগুচ্ছ একাধিকভাবে পড়া হয়েছে: যুররিয়্যা মানে কী, ‘তার সম্প্রদায়’ বলতে কার সম্প্রদায়, আর ‘তাদের সর্দার’ বলতে কাদের সর্দার। তিনটির পেছনেই একটা ছবি আছে, যা নিয়ে কোনো সূত্রের দ্বিমত নেই। এই মুমিনেরা ঈমান এনেছিলেন ভয়ের মধ্যে, আলা খাওফ। ভয় ছিল ফেরাউনের, সর্দারদের, আর এই আশঙ্কার যে সে তাদের ফিতনায় ফেলবে। শেষটা ফেরাউনকে নিয়েই: সে দেশে উদ্ধত, আর সে মুসরিফীনদের একজন, অর্থাৎ যারা সীমা ছাড়িয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Few, Sons, or Young Ones",
+          "bn": "অল্প, সন্তান, না তরুণ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari lays out the readings of dhurriyya one by one. A first group took it here to mean the few. He relays it from Qatada, who said that Ibn Abbas used to say: al-dhurriyya, the few; and from ad-Dahhak, who said the same and cited 6:133, just as He produced you from the dhurriyya of another people. On this reading the word measures how many believed, not how old they were.",
+            "bn": "যুররিয়্যা শব্দের ব্যাখ্যাগুলো তাবারী একটা একটা করে সাজান। প্রথম দলের মতে এখানে এর মানে অল্প কয়েকজন। তিনি এটি আনেন কাতাদা থেকে, যিনি বলেছেন, ইবন আব্বাস (রাঃ) বলতেন: যুররিয়্যা মানে অল্প। দাহহাকও একই কথা বলেছেন এবং দলিল দিয়েছেন ৬:১৩৩ আয়াত দিয়ে, যেখানে আছে: যেমন তিনি তোমাদের সৃষ্টি করেছেন অন্য এক সম্প্রদায়ের যুররিয়্যা থেকে। এই পাঠে শব্দটা মাপছে কতজন ঈমান এনেছিল, তাদের বয়স কত ছিল তা নয়।"
+          },
+          {
+            "en": "A second group, led by Mujahid, read it as the offspring of those to whom Musa (AS) was sent: over the long stretch of time the fathers died and the sons remained, and it was the sons who believed. At-Tabari carries this from Mujahid through several chains, and from al-A'mash in nearly the same words. Al-Qurtubi gives it from Mujahid as well and notes that it was at-Tabari's choice. Ibn Kathir and as-Sa'di gloss the word as shabab, young people.",
+            "bn": "দ্বিতীয় দল, যাদের প্রথম নাম মুজাহিদ, শব্দটাকে পড়েছেন যাদের কাছে মূসা (আঃ) প্রেরিত হয়েছিলেন তাদের সন্তান হিসেবে। দীর্ঘ সময় পেরিয়ে যায়, বাবারা মারা যায়, ছেলেরা থেকে যায়। ঈমান এনেছিল সেই ছেলেরাই। তাবারী এ কথা মুজাহিদ থেকে কয়েকটি সনদে বর্ণনা করেন, আর আ'মাশ থেকেও প্রায় একই ভাষায়। কুরতুবীও মুজাহিদ থেকে এটি আনেন এবং উল্লেখ করেন যে তাবারী এ মতটাই গ্রহণ করেছেন। ইবন কাসীর ও সা'দী শব্দটার অর্থ দেন সোজা কথায়: শাবাব, অর্থাৎ তরুণেরা।"
+          },
+          {
+            "en": "A third explanation is about lineage. Al-Qurtubi and al-Baghawi both quote al-Farra': they were called dhurriyya because their fathers were Copts and their mothers from the Children of Israel, just as the sons of Persians who settled in Yemen were called al-Abna', the Sons, because their mothers were of another stock. At-Tabari, giving it without a name, replies that in Arabic dhurriyya means a person's descendants through men and women alike, citing 17:3 and the list in 6:84 and 6:85, which he counts as the progeny of Ibrahim (AS).",
+            "bn": "তৃতীয় ব্যাখ্যাটা বংশধারা নিয়ে। কুরতুবী ও বাগাভী দুজনেই ফাররার কথা উদ্ধৃত করেন। তাঁর মতে, এদের যুররিয়্যা বলা হয়েছে কারণ এদের বাবারা ছিল কিবতী আর মায়েরা বনী ইসরাঈলের। ইয়েমেনে গিয়ে বসতি গড়া পারসিকদের সন্তানদের যেমন ‘আল-আবনা’, মানে ‘ছেলেরা’ বলা হতো, কারণ তাদের মায়েরা ছিল অন্য জাতির। তাবারী কারও নাম না নিয়ে মতটা উল্লেখ করে জবাব দেন: আরবদের ভাষায় যুররিয়্যা মানে পুরুষ ও নারী দুই দিক দিয়েই কারও বংশধর। দলিল হিসেবে তিনি আনেন ১৭:৩ আয়াত, আর ৬:৮৪ ও ৬:৮৫ আয়াতের তালিকা, যাকে তিনি ইবরাহীম (আঃ)-এর বংশধর বলে গণ্য করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "His People, or Pharaoh's",
+          "bn": "তাঁর সম্প্রদায়, নাকি ফেরাউনের"
+        },
+        "p": [
+          {
+            "en": "The pronoun in qawmihi, his people, divides the commentators, as al-Baghawi notes. Some return it to Musa (AS), so that the believers were from the Children of Israel. This is Mujahid's reading, and at-Tabari also relays it from Ibn Abbas through Ali ibn Abi Talha: of his people, meaning the Children of Israel. Al-Qurtubi opens by saying the pronoun refers to Musa. The Muyassar and as-Sa'di both write of the Children of Israel without further discussion.",
+            "bn": "কাওমিহী, অর্থাৎ ‘তার সম্প্রদায়’ শব্দের সর্বনামটা নিয়ে তাফসীরকারেরা দুই ভাগ, বাগাভীও তা উল্লেখ করেন। একপক্ষ সর্বনামটাকে মূসা (আঃ)-এর দিকে ফেরায়। তাহলে ঈমান আনা লোকেরা ছিল বনী ইসরাঈলের। এটা মুজাহিদের পাঠ। তাবারী আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকেও এটি আনেন: তার সম্প্রদায় মানে বনী ইসরাঈল। কুরতুবী শুরুতেই বলে দেন, সর্বনামটা মূসার দিকে ফিরেছে। মুয়াসসার আর সা'দী দুজনেই কোনো আলোচনা ছাড়া লেখেন: বনী ইসরাঈলের মধ্য থেকে।"
+          },
+          {
+            "en": "The other side returns it to Pharaoh. At-Tabari and Ibn Kathir carry, from Ibn Abbas through the line of al-Awfi, that the dhurriyya who believed were a few people other than the Children of Israel, from Pharaoh's people: Pharaoh's wife, the believer of Pharaoh's family, Pharaoh's treasurer and the treasurer's wife. Al-Baghawi's version, through Atiyya, adds Pharaoh's hairdresser; al-Qurtubi's adds the hairdresser of Pharaoh's daughter. Two of those named have verses of their own: the believing man of Pharaoh's family in 40:28, and Pharaoh's wife in 66:11.",
+            "bn": "অন্য পক্ষ সর্বনামটাকে ফেরায় ফেরাউনের দিকে। তাবারী ও ইবন কাসীর আওফীর সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন: যে যুররিয়্যা মূসার উপর ঈমান এনেছিল, তারা বনী ইসরাঈলের বাইরের অল্প কিছু মানুষ, ফেরাউনের সম্প্রদায়ের লোক। তাদের মধ্যে ছিলেন ফেরাউনের স্ত্রী, ফেরাউন-পরিবারের সেই মুমিন, ফেরাউনের কোষাধ্যক্ষ আর কোষাধ্যক্ষের স্ত্রী। আতিয়্যার সূত্রে বাগাভীর বর্ণনায় যোগ হয়েছে ফেরাউনের কেশসজ্জাকারিণী। কুরতুবীর বর্ণনায় আছে ফেরাউনের মেয়ের কেশসজ্জাকারিণী। এই নামগুলোর দুজনের কথা কুরআনে আলাদা আয়াতেই আছে: ফেরাউন-পরিবারের মুমিন লোকটি ৪০:২৮ আয়াতে, আর ফেরাউনের স্ত্রী ৬৬:১১ আয়াতে।"
+          },
+          {
+            "en": "At-Tabari himself notes that another report from Ibn Abbas points the opposite way. Al-Baghawi adds another narration from Ibn Abbas, that they were seventy thousand households of Copts from Pharaoh's family whose mothers were Israelites, so that a man followed his mother and her brothers. He also gives, unattributed, that they were boys whom Israelite mothers had handed to Coptic women to escape Pharaoh's killing, and who submitted on the day the magicians were overcome.",
+            "bn": "তাবারী নিজেই উল্লেখ করেন, ইবন আব্বাস (রাঃ) থেকে আসা আরেকটি বর্ণনা উল্টো দিকে ইঙ্গিত করে। বাগাভী ইবন আব্বাস (রাঃ) থেকে আরেকটি বর্ণনা যোগ করেন। তাতে আছে, এরা ছিল ফেরাউন-গোষ্ঠীর কিবতীদের সত্তর হাজার পরিবার, যাদের মায়েরা ছিল ইসরাঈলী, ফলে লোকে মা আর মামাদের পথ ধরেছিল। কারও নাম না নিয়ে তিনি আরেকটি মতও দেন। ফেরাউনের হত্যাযজ্ঞ থেকে বাঁচাতে ইসরাঈলী মায়েরা নিজেদের ছেলেদের কিবতী নারীদের হাতে তুলে দিত। সেই ছেলেরা কিবতীদের মাঝে বড় হয়, আর যেদিন যাদুকরেরা পরাজিত হলো, সেদিন তারা ইসলাম গ্রহণ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Nearer Name, the Known Faith",
+          "bn": "নিকটের নাম, জানা ঈমান"
+        },
+        "p": [
+          {
+            "en": "At-Tabari prefers Mujahid's reading: these were descendants of the people to whom Musa (AS) was sent, whose fathers died before acknowledging his prophethood. His first reason is nearness. No one but Musa has been named in this verse, so the pronoun belongs to the nearer name rather than the distant name, unless a report or an argument shows otherwise. His second reason lies in the wording: had his people meant Pharaoh's, the verse would have said for fear of him, not for fear of Pharaoh.",
+            "bn": "তাবারী মুজাহিদের পাঠটাই বেছে নেন: এরা সেই লোকদের বংশধর, যাদের কাছে মূসা (আঃ) প্রেরিত হয়েছিলেন এবং যাদের বাবারা তাঁর নবুওয়াত স্বীকার করার আগেই মারা গিয়েছিল। তাঁর প্রথম যুক্তি নৈকট্য। এ আয়াতে মূসা ছাড়া আর কারও নাম আসেনি। তাই কোনো বর্ণনা বা যুক্তি উল্টো কিছু না দেখালে সর্বনামটা কাছের নামের দিকেই ফিরবে, দূরের নামের দিকে নয়। দ্বিতীয় যুক্তি আয়াতের শব্দেই। ‘তার সম্প্রদায়’ বলতে ফেরাউনের সম্প্রদায় বোঝালে আয়াত বলত ‘তার ভয়ে’, ‘ফেরাউনের ভয়ে’ বলত না।"
+          },
+          {
+            "en": "Ibn Kathir records that choice and answers it: fi hadha nazar, this needs looking into. It is well known, he says, that the Children of Israel all believed in Musa (AS) and were glad of him, since they knew his description from their earlier books, and he cites their complaint in 7:129: we were harmed before you came to us and after. Among them, he adds, no one was feared to be turned from faith except Qarun, who was of Musa's people (28:76) but leaned towards Pharaoh.",
+            "bn": "ইবন কাসীর এই বাছাইয়ের কথা উল্লেখ করে তার জবাব দেন: ফী হাযা নাযার, অর্থাৎ এ কথা ভেবে দেখার মতো। তিনি বলেন, সবার জানা যে বনী ইসরাঈলের সবাই মূসা (আঃ)-এর উপর ঈমান এনেছিল এবং তাঁকে পেয়ে খুশি হয়েছিল। আগের কিতাবগুলো থেকে তারা তাঁর বিবরণ জানত। প্রমাণ হিসেবে তিনি আনেন ৭:১২৯ আয়াতে তাদের অভিযোগ: তুমি আসার আগেও আমাদের কষ্ট দেওয়া হয়েছে, আসার পরেও। তিনি আরও বলেন, তাদের মধ্যে ঈমান থেকে ফিরিয়ে নেওয়ার আশঙ্কা ছিল কেবল কারূনকে নিয়ে। সে ছিল মূসার সম্প্রদায়েরই লোক (২৮:৭৬), কিন্তু ঝুঁকে ছিল ফেরাউনের দিকে।"
+          },
+          {
+            "en": "The abridged English edition of Ibn Kathir heads the passage: only a few youth from Pharaoh's people believed in Musa. Al-Qurtubi offers a way to hold both readings together. On al-Farra's explanation, he says, the pronoun goes back to Musa (AS) through kinship on the mothers' side, and to Pharaoh if they are counted as Copts. The question stays open, and this article leaves it open. Either way, both readings keep what the verse wants seen: the believers were few, they were afraid, and the fear came from power.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এই অংশের শিরোনাম দিয়েছে: ফেরাউনের সম্প্রদায়ের অল্প কিছু তরুণই কেবল মূসার উপর ঈমান এনেছিল। কুরতুবী দুই পাঠকে একসঙ্গে ধরার একটা পথ দেখান। তিনি বলেন, ফাররার ব্যাখ্যা মানলে মায়ের দিকের আত্মীয়তার সূত্রে সর্বনামটা মূসা (আঃ)-এর দিকে ফেরে, আর তাদের কিবতী ধরলে ফেরে ফেরাউনের দিকে। প্রশ্নটা খোলাই থেকে যায়, এ লেখাও তা খোলা রাখছে। যে পাঠই নিন, আয়াত যা দেখাতে চায় তা দুই পাঠেই থাকে: মুমিনেরা ছিল অল্প, তারা ছিল ভীত, আর ভয়টা আসছিল ক্ষমতার দিক থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Chiefs, Not His",
+          "bn": "‘তাদের’ সর্দার, ‘তার’ নয়"
+        },
+        "p": [
+          {
+            "en": "The second pronoun is stranger. The verse says Pharaoh wa-mala'ihim, and their chiefs, not wa-mala'ihi, and his chiefs. At-Tabari glosses al-mala' as al-ashraf, the notables. Al-Qurtubi lists six answers to the plural. A tyrant is spoken of as a group; or naming Pharaoh brings to mind those with him, one of al-Farra's two views; or the whole party is called Pharaoh, as a tribe is called Thamud; or the word Al, family, is understood before Pharaoh, as in ask the town in 12:82, al-Farra's second view.",
+            "bn": "দ্বিতীয় সর্বনামটা আরও অদ্ভুত। আয়াত বলছে ফেরাউন ওয়া মালাইহিম, ‘এবং তাদের সর্দারেরা’। বলেনি ওয়া মালাইহী, ‘এবং তার সর্দারেরা’। তাবারী মালা শব্দের অর্থ দেন আশরাফ, অর্থাৎ গণ্যমান্য লোকেরা। বহুবচনের এই সর্বনামের ছয়টি ব্যাখ্যা কুরতুবী তালিকা করে দেন। এক, দোর্দণ্ড শাসকের কথা বলা হয় দলের মতো করে। দুই, ফেরাউনের নাম এলেই তার সঙ্গের লোকদের কথা মনে আসে, এটা ফাররার দুই মতের একটি। তিন, গোটা দলটাকেই ফেরাউন বলা হয়েছে, যেমন একটা গোত্রকে বলা হয় সামূদ। চার, ফেরাউনের আগে ‘আল’, অর্থাৎ পরিবার শব্দটা উহ্য, যেমন ১২:৮২ আয়াতে ‘জনপদকে জিজ্ঞেস করুন’। এটা ফাররার দ্বিতীয় মত।"
+          },
+          {
+            "en": "Al-Qurtubi notes that on the view of Sibawayh and al-Khalil this fourth answer is a mistake. The fifth is al-Akhfash's: the pronoun returns to the dhurriyya, meaning the chiefs of the young believers' own people, and al-Qurtubi says this was at-Tabari's choice. The sixth returns it to qawmihi, and he quotes an-Nahhas calling it the most eloquent of them. At-Tabari gives his reason: among the descendants of that generation were some whose fathers were Copts and mothers Israelites, and such men sided with Pharaoh against Musa (AS).",
+            "bn": "কুরতুবী জানান, সিবাওয়াইহ ও খলীলের মতে এই চতুর্থ ব্যাখ্যা ভুল। পঞ্চমটি আখফাশের: সর্বনামটা ফিরেছে যুররিয়্যার দিকে, অর্থাৎ ঈমান আনা তরুণদের নিজেদের সম্প্রদায়ের সর্দার। কুরতুবী বলেন, তাবারী এটাই গ্রহণ করেছেন। ষষ্ঠ ব্যাখ্যায় সর্বনাম ফিরেছে কাওমিহী-র দিকে, আর কুরতুবী নাহহাসের কথা উদ্ধৃত করেন যে এটাই সবচেয়ে অলংকারপূর্ণ। তাবারী নিজের কারণটাও বলেন। মূসা (আঃ) যে প্রজন্মের কাছে প্রেরিত হয়েছিলেন, তাদের বংশধরদের মধ্যে কারও কারও বাবা ছিল কিবতী আর মা ইসরাঈলী। এমন লোকেরা মূসার বিরুদ্ধে ফেরাউনের পক্ষে ছিল।"
+          },
+          {
+            "en": "Ibn Kathir reads it the same way, the notables of their people, and calls the view that returns it to Pharaoh far-fetched, though he notes that at-Tabari reports it from some grammarians. Al-Baghawi lists the elided-family reading, the king-and-his-retinue reading and the chiefs of the dhurriyya, adding that those chiefs were of Pharaoh's people. The verb yaftinahum, that he would try them, is singular; at-Tabari and al-Baghawi explain that it speaks of Pharaoh, his people being on his way.",
+            "bn": "ইবন কাসীরও একইভাবে পড়েন: তাদের সম্প্রদায়ের গণ্যমান্যরা। সর্বনামটাকে ফেরাউনের দিকে ফেরানোর মতকে তিনি দূরবর্তী বলেন, যদিও স্বীকার করেন যে তাবারী কয়েকজন ব্যাকরণবিদ থেকে তা বর্ণনা করেছেন। বাগাভী তিনটি মত গুনিয়ে দেন: উহ্য ‘আল’, রাজা ও তার সঙ্গীসাথী, আর যুররিয়্যার সর্দার। শেষটার সঙ্গে তিনি যোগ করেন, সেই সর্দারেরা ছিল ফেরাউনের সম্প্রদায়ের। ইয়াফতিনাহুম, ‘সে তাদের ফিতনায় ফেলবে’, ক্রিয়াটি একবচন। তাবারী ও বাগাভী ব্যাখ্যা দেন, এতে ফেরাউনের কথা বলা হয়েছে, কারণ তার সম্প্রদায় তারই পথে ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Believing With Shaking Hands",
+          "bn": "কাঁপা হাতে ঈমান"
+        },
+        "p": [
+          {
+            "en": "Ala khawf: in a state of fear. The fear had a precise object, an yaftinahum, that he would put them to fitna. At-Tabari explains it: that he would try them with punishment so as to bar them from their religion and drive them to abandon their faith and disbelieve in Allah. Al-Qurtubi says to turn them from their religion by punishments; Ibn Kathir, to return them to the unbelief they had been in. The threat was not pain alone. It was pain used to unmake their faith.",
+            "bn": "আলা খাওফ: ভীত অবস্থায়। ভয়টার একটা নির্দিষ্ট লক্ষ্য ছিল: আঁই ইয়াফতিনাহুম, পাছে সে তাদের ফিতনায় ফেলে। তাবারী এর ব্যাখ্যা দেন এভাবে: শাস্তি দিয়ে পরীক্ষায় ফেলবে, যাতে তাদের দ্বীন থেকে আটকে দিতে পারে, ঈমান ছেড়ে আল্লাহকে অস্বীকার করতে বাধ্য করতে পারে। কুরতুবী বলেন, শাস্তি দিয়ে দ্বীন থেকে সরিয়ে দেবে। ইবন কাসীর বলেন, আগে যে কুফরে ছিল সেখানে ফিরিয়ে নেবে। হুমকিটা তাই শুধু কষ্টের ছিল না। কষ্টকে কাজে লাগানো হচ্ছিল ঈমান ভেঙে দেওয়ার হাতিয়ার হিসেবে।"
+          },
+          {
+            "en": "As-Sa'di reads the scene from the inside. They were young people of the Children of Israel, he says, who bore the fear with patience, sabaru ala al-khawf, because faith had settled firmly in their hearts. The verse does not praise them for being unafraid. It records that they were afraid and believed regardless. In this account, faith is not the absence of fear. It is the refusal to let fear decide.",
+            "bn": "সা'দী দৃশ্যটা দেখেন ভেতর থেকে। তিনি বলেন, এরা ছিল বনী ইসরাঈলের তরুণ, যারা ভয়ের মধ্যে সবর করেছিল, সাবারূ আলাল খাওফ, কারণ তাদের অন্তরে ঈমান শক্ত হয়ে বসে গিয়েছিল। আয়াত তাদের নির্ভীক বলে প্রশংসা করছে না। জানাচ্ছে, তারা ভয় পেয়েছিল, তবু ঈমান এনেছিল। এখানে ঈমান মানে ভয় না থাকা নয়। ঈমান মানে ভয়কে সিদ্ধান্ত নিতে না দেওয়া।"
+          },
+          {
+            "en": "The next two verses show what was done with that fear. Musa (AS) tells them in 10:84: if you have believed in Allah, then rely on Him, if you are Muslims. They answer in 10:85: upon Allah we rely; our Lord, do not make us a fitna for the wrongdoing people. The word they feared in this verse is the word they carry to Allah two verses later. They named it in a prayer and placed it in His hands.",
+            "bn": "পরের দুই আয়াতে দেখা যায়, সেই ভয় নিয়ে তারা কী করেছিল। ১০:৮৪ আয়াতে মূসা (আঃ) তাদের বলেন: তোমরা যদি আল্লাহর উপর ঈমান এনে থাকো, তবে তাঁরই উপর ভরসা করো, যদি তোমরা মুসলিম হও। ১০:৮৫ আয়াতে তারা জবাব দেয়: আমরা আল্লাহর উপরই ভরসা করলাম। হে আমাদের রব, আমাদের যালিম সম্প্রদায়ের জন্য ফিতনা বানিয়ো না। এ আয়াতে যে শব্দটা ছিল তাদের ভয়ের নাম, দুই আয়াত পরে সেই শব্দটাই তারা দোয়া হয়ে আল্লাহর কাছে নিয়ে যায়। দোয়ায় বিপদের নাম নিয়েছে, তারপর তাঁর হাতে সঁপে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Young Answered",
+          "bn": "তরুণেরাই কেন সাড়া দিল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di asks why it was the young who believed, and answers with his usual caution, wallahu a'lam. The wisdom, he suggests, is that the young are more receptive to the truth and quicker to submit to it, unlike the old and those raised on disbelief, who are further from the truth because of the false beliefs that have settled in their hearts. He says further, not unreachable. It is his reflection, not a narration.",
+            "bn": "সা'দী প্রশ্ন তোলেন, ঈমান আনল তরুণেরাই কেন। জবাব দেন তাঁর স্বভাবসুলভ সাবধানতায়, ওয়াল্লাহু আ'লাম বলে। তাঁর ধারণায় এর হিকমত হলো, তরুণেরা সত্যকে সহজে গ্রহণ করে, দ্রুত মেনে নেয়। বৃদ্ধ আর কুফরের মধ্যে বেড়ে ওঠা লোকেরা তেমন নয়। অন্তরে বহুদিন ধরে জমে থাকা ভ্রান্ত বিশ্বাসের কারণে সত্য থেকে তারা বেশি দূরে। তিনি বলেন ‘বেশি দূরে’, নাগালের বাইরে বলেন না। এটা তাঁর নিজের ভাবনা, কোনো বর্ণনা নয়।"
+          },
+          {
+            "en": "The Qur'an says something similar of another group, though no commentator here links them: of the people of the cave it says, they were youths who believed in their Lord, and We increased them in guidance (18:13). None of the tafsirs read for this verse attaches a hadith to it, and none gives an occasion of revelation. What they share is the scene itself: a handful, few or young or both, choosing faith in the shadow of a throne.",
+            "bn": "কুরআন আরেক দলের ব্যাপারেও এমন কথা বলে, যদিও এখানকার কোনো তাফসীরকার এ দুটি মেলাননি। গুহাবাসীদের সম্পর্কে বলা হয়েছে: তারা ছিল কয়েকজন যুবক, যারা তাদের রবের উপর ঈমান এনেছিল, আর আমি তাদের হিদায়াত বাড়িয়ে দিয়েছিলাম (১৮:১৩)। এ আয়াতের জন্য যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো প্রেক্ষাপটও দেয়নি। দুই জায়গায় মিল দৃশ্যটাতেই: অল্প কয়েকজন, সংখ্যায় কম বা বয়সে তরুণ কিংবা দুটোই, এক সিংহাসনের ছায়ায় দাঁড়িয়ে ঈমান বেছে নিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lofty in the Land",
+          "bn": "দেশে উঁচু আসনে"
+        },
+        "p": [
+          {
+            "en": "The verse closes by explaining the fear: wa inna Fir'awna la-'alin fi al-ard, Pharaoh was lofty in the land. At-Tabari: a tyrant, arrogant against Allah in His earth. Al-Qurtubi: overbearing and proud. As-Sa'di gives the practical meaning: he held force and domination there, so it was only fitting that they feared his assault. Their fear was not cowardice but an accurate reading of what Pharaoh could do.",
+            "bn": "আয়াতের শেষ অংশ ভয়ের কারণটা বুঝিয়ে দেয়: ওয়া ইন্না ফিরআউনা লাআলিন ফিল আরদ, ফেরাউন দেশে ছিল উঁচু আসনে। তাবারী বলেন: আল্লাহর জমিনে আল্লাহর বিরুদ্ধে অহংকারী এক জালিম শাসক। কুরতুবী বলেন: উদ্ধত, অহংকারী। সা'দী বাস্তব অর্থটা ধরিয়ে দেন: সেখানে তার হাতে ছিল দাপট আর আধিপত্য, তাই তার আক্রমণের ভয় পাওয়াই ছিল স্বাভাবিক। তাদের ভয় কাপুরুষতা ছিল না। ফেরাউন কী করতে পারে, সেটাই তারা ঠিকঠাক বুঝেছিল।"
+          },
+          {
+            "en": "Then wa innahu la-mina al-musrifin, and he was of those who go past the limit. At-Tabari spells the limit out: his unbelief in Allah, his denial of Allah's oneness, his claim to divinity for himself and his shedding of blood without right. Al-Qurtubi and al-Baghawi put it in one line: he was a servant who claimed lordship. As-Sa'di says past the limit in oppression and aggression. 28:4 says of the same man, with the same root, that he exalted himself in the land and was of the corrupters.",
+            "bn": "তারপর: ওয়া ইন্নাহু লামিনাল মুসরিফীন, আর সে ছিল সীমা ছাড়িয়ে যাওয়া লোকদের একজন। সীমাটা কী, তাবারী খুলে বলেন: আল্লাহকে অস্বীকার, তাঁর একত্ব অস্বীকার, নিজের জন্য উলূহিয়্যাতের দাবি, আর অন্যায়ভাবে রক্তপাত। কুরতুবী ও বাগাভী এক বাক্যে বলেন: সে ছিল এক বান্দা, অথচ রুবূবিয়্যাতের দাবি করেছিল। সা'দী বলেন, জুলুম আর সীমালঙ্ঘনে সে মাত্রা ছাড়িয়েছিল। ২৮:৪ আয়াত একই লোকের ব্যাপারে, একই ধাতুর শব্দে বলে: সে দেশে উদ্ধত হয়ে উঠেছিল, আর সে ছিল বিপর্যয় সৃষ্টিকারীদের একজন।"
+          },
+          {
+            "en": "This verse describes one tyrant, his chiefs and a frightened few in Egypt long ago, exactly as the text describes them. It licenses nothing against any living person or community: not against Copts or Egyptians, not against the Children of Israel, and not the habit of calling whoever one dislikes a Pharaoh. What it leaves the reader is a question about himself. Do I believe while afraid, or wait to feel safe? And where I hold power over others, am I drifting towards lofty in the land?",
+            "bn": "এ আয়াত বহুকাল আগের মিসরের এক জালিম শাসক, তার সর্দারদের আর ভয়ে কাঁপা অল্প কয়েকজন মুমিনের কথা বলে, ঠিক যেভাবে কুরআন তাদের বর্ণনা দিয়েছে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। কিবতী বা মিসরীয়দের বিরুদ্ধে নয়, বনী ইসরাঈলের বিরুদ্ধে নয়। অপছন্দের যে কাউকে ফেরাউন বলে ডাকার অভ্যাসকেও এটা সমর্থন করে না। পাঠকের জন্য আয়াত রেখে যায় নিজেকে নিয়ে একটা প্রশ্ন। ভয় থাকতেই কি আমি ঈমানের পথে পা বাড়াই, নাকি নিরাপদ বোধ করার অপেক্ষায় থাকি? আর যেখানে অন্যের উপর আমার ক্ষমতা আছে, সেখানে কি আমি ধীরে ধীরে দেশে উঁচু হয়ে বসার দিকে এগোচ্ছি?"
+          }
+        ]
+      }
+    ]
+  },
   "10:87": {
     "sections": [
       {

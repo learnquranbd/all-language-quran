@@ -32483,6 +32483,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Lawful and unlawful are Allah's to decide. Before you forbid or permit anything in His name, ask whether He gave you leave, or whether you are speaking for Him.",
     "lessonBn": "হালাল আর হারাম ঠিক করার অধিকার আল্লাহর। তাঁর নামে কিছু নিষেধ বা অনুমোদন করার আগে নিজেকে জিজ্ঞেস করুন, তিনি কি অনুমতি দিয়েছেন, নাকি আপনি তাঁর হয়ে কথা বলছেন?"
+  },
+  "10:83": {
+    "reflectionEn": "The staffs have been thrown, and the magic has failed in front of everyone. You might expect a crowd to follow Musa (AS) after that. The verse gives a count instead: none believed him except a few young ones from among his people, and even they believed afraid. Afraid of Pharaoh, afraid of the chiefs, afraid of being pressed back out of their faith. The verse does not hide the fear, and it does not let the fear have the last word. Their faith was real while their hands were still shaking. Pharaoh was high in the land and went past every limit, and still they believed. When the truth is clear to me but costly, do I wait until I stop being afraid, or do I believe now?",
+    "reflectionBn": "লাঠি ছোড়া হয়ে গেছে, সবার চোখের সামনে যাদু ব্যর্থ হয়েছে। মনে হতে পারে, এবার দলে দলে লোক মূসা (আঃ)-এর পেছনে দাঁড়াবে। আয়াত কিন্তু ভিড়ের খবর দেয় না, দেয় একটা হিসাব: ‘তার সম্প্রদায়ের’ অল্প কিছু তরুণ ছাড়া কেউ তাঁর উপর ঈমান আনেনি। আর তারাও ঈমান এনেছিল ভয়ে ভয়ে। ফেরাউনের ভয়, সর্দারদের ভয়, আর ভয় এই যে তাদের জোর করে ঈমান থেকে ফিরিয়ে নেওয়া হবে। আয়াত ভয়টা লুকায় না, আবার ভয়কে শেষ কথাও হতে দেয় না। হাত তখনো কাঁপছিল, তবু ঈমানটা ছিল খাঁটি। ফেরাউন দেশে ছিল দোর্দণ্ডপ্রতাপ, সীমা ছাড়িয়ে যাওয়া লোক, তবুও তারা ঈমান এনেছিল। সত্য যখন আমার কাছে পরিষ্কার কিন্তু দামি, আমি কি ভয় কেটে যাওয়ার অপেক্ষায় থাকি, নাকি এখনই মেনে নিই?",
+    "pointsEn": [
+      "What truth is already clear to me that I keep postponing until it feels safe to act on it?",
+      "Whose approval, in my family, my work or my circle, decides more of my religion than I would like to admit?",
+      "Do I take the small number of people on a path as proof that the path is wrong?",
+      "Which young person near me is trying to hold on to faith under pressure, and have I made that easier or harder?",
+      "Where I hold even a little power over others, how close do I come to being high in the land and past the limit?"
+    ],
+    "pointsBn": [
+      "কোন সত্য আমার কাছে অনেক আগেই পরিষ্কার, অথচ নিরাপদ মনে না হওয়া পর্যন্ত আমি তা মানতে দেরি করছি?",
+      "পরিবারে, কর্মক্ষেত্রে বা বন্ধুমহলে কার সম্মতি আমার দ্বীনের এমন অনেক কিছু ঠিক করে দেয়, যা স্বীকার করতে আমার বাধে?",
+      "কোনো পথে লোক কম দেখে আমি কি ধরে নিই যে পথটাই ভুল?",
+      "আমার আশপাশে কোন তরুণ চাপের মুখে ঈমান আঁকড়ে থাকার চেষ্টা করছে? তার কাজটা আমি সহজ করেছি, নাকি কঠিন?",
+      "যেখানে অন্যদের উপর আমার সামান্য হলেও ক্ষমতা আছে, সেখানে আমি দেশে উদ্ধত আর সীমালঙ্ঘনকারী সেই লোকটির কতটা কাছাকাছি চলে যাই?"
+    ],
+    "lessonEn": "Believe and act on what is clear even while you are afraid. A few who were frightened but firm are counted here; the fear is named, but it is not the verdict.",
+    "lessonBn": "যা পরিষ্কার, ভয় থাকা অবস্থাতেই তা মেনে নিন এবং সে অনুযায়ী চলুন। ভীত অথচ অটল অল্প কয়েকজনকেই এখানে গোনা হয়েছে; ভয়ের কথা আছে, কিন্তু রায় ভয়ের হাতে নেই।"
   }
 };
 
