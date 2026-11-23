@@ -30463,6 +30463,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a marriage is under strain, tell the truth about what only you know, return only to mend, and give your spouse the rights you expect to receive.",
     "lessonBn": "দাম্পত্যে টানাপোড়েন এলে যা কেবল আপনিই জানেন, সে বিষয়ে সত্য বলুন। ফিরলে ফিরুন শুধু জোড়া লাগাতে। আর নিজে যে হক আশা করেন, জীবনসঙ্গীকেও সে হক দিন।"
+  },
+  "2:217": {
+    "reflectionEn": "They asked about fighting in a sacred month, and the answer did not wave the question away. Fighting in it is grave, the verse says first. Only then does it set the other side of the scale: barring people from Allah's way, disbelief in Him, shutting others out of the Sacred Mosque and driving out its people, and fitnah, which weighs more than killing. The verse is honest in both directions. It will not call a wrong small because believers did it, and it will not let a greater wrong hide behind loud complaint about a smaller one. Then it turns inward: whoever leaves his faith and dies on that loses what he had built. When I weigh wrongs, my own included, do I use one scale or two?",
+    "reflectionBn": "পবিত্র মাসে যুদ্ধ নিয়ে প্রশ্ন উঠেছিল। জবাবে প্রশ্নটাকে উড়িয়ে দেওয়া হয়নি। আয়াত আগে বলে: এ মাসে যুদ্ধ করা গুরুতর অন্যায়। তারপরই দাঁড়িপাল্লার অন্য দিকটা সামনে আনে। আল্লাহর পথে মানুষকে বাধা দেওয়া, তাঁকে অস্বীকার করা, মাসজিদুল হারামের পথ আটকে রাখা, তার বাসিন্দাদের ঘর থেকে বের করে দেওয়া, আর ফিতনা, যা হত্যার চেয়েও ভারী। আয়াতটি দুদিকেই সৎ। মুমিনরা করেছে বলে অন্যায়কে ছোট বলে না। আবার ছোট অন্যায় নিয়ে হইচই তুলে বড় অন্যায়কে আড়াল করতেও দেয় না। শেষে আয়াত ফিরে আসে নিজের দিকে: যে নিজের দ্বীন ছেড়ে সেই অবস্থায় মারা যায়, তার গড়া সব আমল বৃথা হয়ে যায়। অন্যায় মাপার সময়, নিজেরটাও, আমি কি একটাই দাঁড়িপাল্লা ব্যবহার করি, নাকি দুটো?",
+    "pointsEn": [
+      "When someone points to a wrong done by people I belong to, can I admit that it was grave before I say anything else?",
+      "Have I ever used someone else's bigger wrong to shrink my own, or to silence a complaint that was fair?",
+      "What in my life is pressing me away from my faith a little at a time, and what am I doing to hold my ground?",
+      "Which sacred limits do I keep only while keeping them costs me nothing?",
+      "If what I have built is safe only when I end on faith, what am I doing today to ask Allah for a good ending?"
+    ],
+    "pointsBn": [
+      "আমার নিজের লোকেরা কোনো অন্যায় করলে কেউ যখন তা ধরিয়ে দেয়, অন্য কিছু বলার আগে আমি কি স্বীকার করতে পারি যে কাজটা গুরুতর ছিল?",
+      "নিজের দোষ ছোট দেখাতে, কিংবা ন্যায্য কোনো অভিযোগ থামিয়ে দিতে, আমি কি কখনো অন্যের বড় অন্যায় টেনে এনেছি?",
+      "আমার জীবনে কোন জিনিস একটু একটু করে আমাকে দ্বীন থেকে সরিয়ে দিচ্ছে? নিজের জায়গায় অটল থাকতে আমি কী করছি?",
+      "কোন পবিত্র সীমাগুলো আমি কেবল ততক্ষণ মানি, যতক্ষণ মানতে আমার কোনো দাম দিতে হয় না?",
+      "ঈমানের উপর শেষ হলে তবেই যদি আমার আমল টিকে থাকে, তবে ভালো শেষের জন্য আজ আমি আল্লাহর কাছে কী চাইছি, কী করছি?"
+    ],
+    "lessonEn": "Call a wrong grave even when your own side did it, weigh every wrong on one honest scale, and guard your faith to the end, for your deeds stand on it.",
+    "lessonBn": "নিজের পক্ষ করলেও অন্যায়কে গুরুতর বলুন, সব অন্যায় একই সৎ দাঁড়িপাল্লায় মাপুন, আর শেষ পর্যন্ত ঈমান আগলে রাখুন, কারণ আপনার আমল তার উপরেই দাঁড়িয়ে।"
   }
 };
 

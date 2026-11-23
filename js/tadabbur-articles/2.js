@@ -9283,6 +9283,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "2:217": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question About the Calendar",
+          "bn": "ক্যালেন্ডার নিয়ে এক প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Yas'alunaka 'ani ash-shahri al-harami qitalin fih: they ask you about the sacred month, about fighting in it. The verse belongs to a run of questions put to the Prophet ﷺ in al-Baqarah, on spending in 2:215, wine and gambling in 2:219, orphans in 2:220 and menstruation in 2:222. It comes straight after 2:216, where fighting is prescribed, and takes up a narrower matter: fighting at a time the Arabs had long held sacred.",
+            "bn": "ইয়াসআলূনাকা আনিশ শাহরিল হারামি কিতালিন ফীহ: তারা আপনাকে পবিত্র মাস সম্পর্কে, তাতে যুদ্ধ করা সম্পর্কে জিজ্ঞেস করে। সূরা বাকারায় নবী ﷺ-এর কাছে আসা একগুচ্ছ প্রশ্নের মধ্যে এটি একটি। ২:২১৫-এ ব্যয় নিয়ে, ২:২১৯-এ মদ ও জুয়া নিয়ে, ২:২২০-এ ইয়াতীম নিয়ে, ২:২২২-এ হায়েয নিয়ে প্রশ্ন এসেছে। আয়াতটি এসেছে ২:২১৬-এর ঠিক পরে, যেখানে যুদ্ধ ফরজ করা হয়েছে। এখানে বিষয়টা আরও সরু: এমন সময়ে যুদ্ধ, যাকে আরবরা বহুকাল ধরে পবিত্র মানত।"
+          },
+          {
+            "en": "Who was asking? At-Tabari reads it as the Prophet's ﷺ Companions asking him. Al-Muyassar names the polytheists, asking whether fighting is lawful in the sacred month, and al-Qurtubi has the disbelievers asking in astonishment at the breach of its sanctity. At-Tabari notes that Ibn Mas'ud read 'an qitalin fih, about fighting in it, repeating the preposition.",
+            "bn": "প্রশ্নটা করছিল কারা? তাবারীর পাঠে সাহাবীরাই নবী ﷺ-কে জিজ্ঞেস করছিলেন। মুয়াসসার বলে, প্রশ্নকারী ছিল মুশরিকরা, তারা জানতে চাইছিল পবিত্র মাসে যুদ্ধ বৈধ কি না। কুরতুবীর বর্ণনায় কাফিররা প্রশ্ন করছিল বিস্ময় নিয়ে, মাসের মর্যাদা ভাঙা হলো দেখে। তাবারী জানান, ইবন মাসঊদ (রাঃ) পড়তেন আন কিতালিন ফীহ, অর্থাৎ অব্যয়টি আবার বসিয়ে: তাতে যুদ্ধ সম্পর্কে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sealed Letter, Then Nakhlah",
+          "bn": "সিলমোহর করা চিঠি, তারপর নাখলা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari says the people of interpretation do not differ: the verse came down over the killing of Ibn al-Hadrami. The fullest account is Ibn Ishaq's, which at-Tabari carries through 'Urwa ibn az-Zubayr and Ibn Kathir from the Sirah. Abdullah ibn Jahsh set out with a party of Emigrants and a letter to be opened after two days' march. Their task was to go to Nakhlah, between Makkah and at-Ta'if, and watch Quraysh for news. Abdullah told his men that whoever wanted martyrdom should come and whoever disliked it should turn back. None turned back.",
+            "bn": "তাবারী বলেন, তাফসীরবিদদের মধ্যে এ নিয়ে কোনো মতভেদ নেই যে আয়াতটি নাযিল হয়েছে ইবনুল হাদরামীর নিহত হওয়ার ঘটনায়। সবচেয়ে বিস্তারিত বিবরণটি ইবন ইসহাকের। তাবারী তা আনেন উরওয়া ইবন যুবাইরের সূত্রে, আর ইবন কাসীর আনেন সীরাহ থেকে। আবদুল্লাহ ইবন জাহশ (রাঃ) মুহাজিরদের একটি দল নিয়ে রওনা হন। সঙ্গে ছিল একটি চিঠি, যা দুই দিন পথ চলার পর খোলার কথা। তাদের কাজ ছিল মক্কা ও তায়েফের মাঝখানে নাখলায় গিয়ে কুরাইশের খবরাখবর নজরে রাখা। আবদুল্লাহ সঙ্গীদের বললেন, যে শাহাদাত চায় সে আসুক, আর যার তা অপছন্দ সে ফিরে যাক। কেউ ফিরে যাননি।"
+          },
+          {
+            "en": "On the way Sa'd ibn Abi Waqqas and 'Utbah ibn Ghazwan lost the camel they rode by turns and fell behind searching for it. At Nakhlah a Quraysh caravan passed. The party conferred: let it go that night and it would reach the sanctuary, beyond their reach; attack it and they would be fighting in the sacred month. They hesitated, then resolved to attack. Waqid ibn Abdullah shot 'Amr ibn al-Hadrami with an arrow and killed him. Two men were taken captive, and a third escaped.",
+            "bn": "পথে সা'দ ইবন আবী ওয়াক্কাস (রাঃ) ও উতবা ইবন গাযওয়ান (রাঃ)-এর উট হারিয়ে যায়, যেটিতে তাঁরা পালা করে চড়তেন। উট খুঁজতে গিয়ে তাঁরা পিছিয়ে পড়েন। নাখলায় কুরাইশের একটি কাফেলা পাশ দিয়ে যাচ্ছিল। দলটি পরামর্শে বসল। আজ রাতে ছেড়ে দিলে কাফেলা হারামের সীমায় ঢুকে যাবে, তখন আর নাগাল পাওয়া যাবে না। আর আক্রমণ করলে যুদ্ধটা হবে পবিত্র মাসে। তাঁরা দ্বিধায় পড়লেন, তারপর আক্রমণের সিদ্ধান্ত নিলেন। ওয়াকিদ ইবন আবদুল্লাহ তীর ছুড়ে আমর ইবনুল হাদরামীকে হত্যা করলেন। দুজন বন্দি হলো, তৃতীয়জন পালিয়ে গেল।"
+          },
+          {
+            "en": "Al-Qurtubi sets the reports on the day side by side: Ibn Ishaq has the last day of Rajab; at-Tabari, from as-Suddi and others, the last day of Jumada al-Akhirah; and from Ibn Abbas comes the first night of Rajab, which the Muslims took to be still Jumada. He calls the first better known. When the party returned, al-Qurtubi says, the Prophet ﷺ disapproved of the killing in the sacred month. Ibn Ishaq adds that he held back the caravan and the captives, the men thought themselves ruined, and Quraysh said Muhammad had made the sacred month lawful. Then the verse came down.",
+            "bn": "ঘটনার দিন নিয়ে বর্ণনাগুলো কুরতুবী পাশাপাশি রাখেন। ইবন ইসহাকের মতে দিনটি ছিল রজবের শেষ দিন। তাবারী সুদ্দী ও অন্যদের সূত্রে আনেন জুমাদাল আখিরার শেষ দিন। আর ইবন আব্বাস (রাঃ) থেকে এসেছে রজবের প্রথম রাত, যাকে মুসলিমরা তখনো জুমাদা ভেবেছিলেন। কুরতুবীর মতে প্রথম বর্ণনাটিই বেশি প্রসিদ্ধ। কুরতুবী বলেন, দলটি ফিরে এলে নবী ﷺ পবিত্র মাসে এই হত্যাকে অপছন্দ করলেন। ইবন ইসহাক যোগ করেন, তিনি কাফেলা ও বন্দিদের আটকে রাখলেন, দলের লোকেরা ভাবলেন তাঁরা ধ্বংস হয়ে গেছেন, আর কুরাইশ রটাল যে মুহাম্মাদ পবিত্র মাসকে হালাল করে ফেলেছে। তখন আয়াতটি নাযিল হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Grave, and Then Graver",
+          "bn": "গুরুতর, তার চেয়েও গুরুতর"
+        },
+        "p": [
+          {
+            "en": "Qul qitalun fihi kabir: say, fighting in it is grave. The answer does not deny the charge. At-Tabari explains kabir as a great thing before Allah, to treat the month as open and shed blood in it, and gives the background: the Arabs did not raise spears in it, so that a man would meet the killer of his father or brother and leave him be, and Mudar called it al-asamm, the deaf month, for the silence of weapons. Al-Qurtubi adds that the prohibition stood at that time, since the Muslims had begun the fighting.",
+            "bn": "কুল কিতালুন ফীহি কাবীর: বলুন, এতে যুদ্ধ করা গুরুতর। জবাবটি অভিযোগ অস্বীকার করে না। তাবারী কাবীর শব্দের ব্যাখ্যা দেন: মাসটিকে হালাল গণ্য করা আর তাতে রক্ত ঝরানো আল্লাহর কাছে বড় ব্যাপার। পটভূমিও তিনি জানান। আরবরা এ মাসে বর্শা তুলত না। কেউ নিজের বাবা বা ভাইয়ের হত্যাকারীর সামনে পড়লেও তাকে ছেড়ে দিত। মুদার গোত্র এ মাসকে বলত আল-আসাম্ম, বধির মাস, কারণ তখন অস্ত্রের শব্দ থেমে থাকত। কুরতুবী যোগ করেন, নিষেধটি তখন বহাল ছিল, আর যুদ্ধ শুরু করেছিল মুসলিমরাই।"
+          },
+          {
+            "en": "Then the other pan of the scale. Barring people from Allah's way, disbelief in Him, the Sacred Mosque, and driving its people out of it are akbar 'inda Allah, greater before Allah. At-Tabari joins the Sacred Mosque to the barring: barring from it. He rejects a grammatical option he traces to al-Farra' that would rank fighting in the month alongside disbelief, since no one in Islam ever held that.",
+            "bn": "এবার দাঁড়িপাল্লার অন্য পাল্লা। আল্লাহর পথে বাধা দেওয়া, তাঁকে অস্বীকার করা, মাসজিদুল হারাম, আর সেখান থেকে তার বাসিন্দাদের বের করে দেওয়া আকবারু ইনদাল্লাহ, আল্লাহর কাছে আরও গুরুতর। তাবারী মাসজিদুল হারামকে বাধা দেওয়ার সঙ্গে জুড়ে পড়েন: অর্থাৎ সেখানে যেতে বাধা দেওয়া। ফাররার দিকে সম্পৃক্ত একটি ব্যাকরণগত পাঠ তিনি নাকচ করেন, কারণ সে পাঠে পবিত্র মাসে যুদ্ধ আর কুফর এক কাতারে দাঁড়ায়, অথচ মুসলিমদের কেউ কখনো এমন কথা বলেননি।"
+          },
+          {
+            "en": "Who are its people? Al-Muyassar names the Prophet ﷺ and the Emigrants, its people and rightful guardians. As-Sa'di states the point plainly: the polytheists did wrong in reproaching the believers, when some of their own deeds were graver than what they reproached. Al-Baghawi reports that after the verse came, Abdullah ibn Unays wrote to the believers in Makkah: if they reproach you with the sacred month, reproach them with their disbelief, the Prophet's ﷺ expulsion and the barring from the House.",
+            "bn": "তার বাসিন্দা কারা? মুয়াসসারের মতে নবী ﷺ ও মুহাজিররা, যাঁরা সেখানকার আসল অধিবাসী ও অভিভাবক। সা'দী মূল কথাটা সোজাসুজি বলেন: মুমিনদের খোঁটা দিয়ে মুশরিকরা অন্যায় করেছিল, কারণ তাদের নিজেদের কিছু কাজ ছিল সেই খোঁটার চেয়েও গুরুতর। বাগাভী জানান, আয়াতটি নাযিল হওয়ার পর আবদুল্লাহ ইবন উনাইস (রাঃ) মক্কার মুমিনদের লিখে পাঠালেন: পবিত্র মাস নিয়ে তারা তোমাদের খোঁটা দিলে তোমরাও তাদের খোঁটা দাও তাদের কুফর নিয়ে, রাসূল ﷺ-কে বের করে দেওয়া নিয়ে, আর বাইতুল্লাহর পথ আটকানো নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Fitnah Outweighs Killing",
+          "bn": "কোন ফিতনা হত্যার চেয়ে ভারী"
+        },
+        "p": [
+          {
+            "en": "Wal-fitnatu akbaru mina al-qatl: and fitnah is greater than killing. A close sentence in 2:191 is discussed in the article on 2:190 to 2:193; here the glosses again fall into two kinds. The first is a single word, shirk or disbelief. At-Tabari reports it from Mujahid, ash-Sha'bi, Qatadah and Abu Malik, and al-Baghawi and al-Muyassar gloss it as the shirk the questioners themselves were in. On this reading, their settled disbelief outweighs the one killing they made so much of.",
+            "bn": "ওয়াল ফিতনাতু আকবারু মিনাল কাতল: আর ফিতনা হত্যার চেয়েও গুরুতর। প্রায় একই রকম একটি বাক্য আছে ২:১৯১-এ, যার আলোচনা ২:১৯০ থেকে ২:১৯৩-এর প্রবন্ধে আছে। এখানেও ব্যাখ্যাগুলো দুই ধরনের। প্রথমটি এক শব্দের: শিরক বা কুফর। তাবারী এ ব্যাখ্যা আনেন মুজাহিদ, শা'বী, কাতাদা ও আবূ মালিক থেকে। বাগাভী ও মুয়াসসারেও ফিতনার অর্থ করা হয়েছে সেই শিরক, যাতে প্রশ্নকারীরা নিজেরাই ডুবে ছিল। এ পাঠে তাদের জমাট কুফর সেই একটি হত্যার চেয়ে ভারী, যা নিয়ে তারা এত শোরগোল তুলেছিল।"
+          },
+          {
+            "en": "The second reading looks at what the believers lived through. Al-Qurtubi gives it as the majority's: their trying the Muslims away from their religion until they perished. Ibn Ishaq's account says the same: they used to try a Muslim in his religion until they turned him back to disbelief after faith. Then comes wa la yazaluna yuqatilunakum, they will not stop fighting you until they turn you from your religion, if they can. Mujahid names them as the disbelievers of Quraysh; Ibn Ishaq adds that they kept to the worst of it, neither repenting nor desisting.",
+            "bn": "দ্বিতীয় পাঠের চোখ মুমিনদের নিজেদের অভিজ্ঞতার দিকে। কুরতুবী একে সংখ্যাগরিষ্ঠের মত বলে উল্লেখ করেন: মুসলিমদের দ্বীন থেকে সরাতে তাদের উপর নির্যাতন চালানো, যতক্ষণ না তারা শেষ হয়ে যায়। ইবন ইসহাকের বিবরণও তা-ই বলে: তারা মুসলিমকে তার দ্বীনের ব্যাপারে নিপীড়ন করত, যতক্ষণ না ঈমানের পর তাকে কুফরে ফিরিয়ে নিত। এরপর আসে ওয়া লা ইয়াযালূনা ইউকাতিলূনাকুম: সাধ্যে কুলালে তারা তোমাদের সঙ্গে লড়াই চালিয়েই যাবে, যতক্ষণ না তোমাদের দ্বীন থেকে ফিরিয়ে দেয়। মুজাহিদ বলেন, এরা কুরাইশের কাফিররা। ইবন ইসহাক যোগ করেন, তারা সবচেয়ে জঘন্য কাজটিতেই অটল ছিল, না তওবা করছিল, না বিরত হচ্ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lifted, or Still in Force?",
+          "bn": "উঠে গেছে, নাকি এখনো বহাল?"
+        },
+        "p": [
+          {
+            "en": "Is fighting in the sacred months still forbidden? The commentators record a real disagreement. Al-Qurtubi says the majority hold this ruling abrogated, so that fighting the polytheists in those months is permitted, though they differ over what abrogated it. Az-Zuhri, Mujahid and others named 9:36, fight the polytheists all together, and 9:5. Some pointed to the Prophet's ﷺ campaign against Thaqif and his sending Abu 'Amir to Awtas in a sacred month.",
+            "bn": "পবিত্র মাসগুলোতে যুদ্ধ কি এখনো নিষিদ্ধ? এ নিয়ে তাফসীরকারেরা সত্যিকার মতভেদ লিপিবদ্ধ করেছেন। কুরতুবী বলেন, সংখ্যাগরিষ্ঠের মতে এই বিধান মানসূখ, ফলে ওই মাসগুলোতে মুশরিকদের সঙ্গে যুদ্ধ বৈধ। তবে কোন আয়াত একে মানসূখ করেছে, তা নিয়ে তাঁদের মধ্যে ভিন্নমত আছে। যুহরী, মুজাহিদ ও অন্যরা উল্লেখ করেছেন ৯:৩৬, মুশরিকদের বিরুদ্ধে সবাই মিলে লড়ো, এবং ৯:৫। কেউ কেউ দলিল দিয়েছেন পবিত্র মাসে সাকীফের বিরুদ্ধে নবী ﷺ-এর অভিযান আর আবূ আমিরকে আওতাসে পাঠানো দিয়ে।"
+          },
+          {
+            "en": "At-Tabari lays out the same two camps. For abrogation he reports Ata ibn Maysarah, that fighting in the sacred month was made lawful in Bara'ah by 9:36, in those months and outside them, and az-Zuhri, as it had reached him, that the Prophet ﷺ used to forbid it and it was later made lawful. Against them, Ibn Jurayj asked Ata about this verse, and Ata swore by Allah that it is not lawful for people to campaign or fight in the sacred month. Ma'arif al-Qur'an names this Ata as Ata ibn Abi Rabah and adds that several of the Successors held the ruling unabrogated.",
+            "bn": "তাবারীও একই দুই দল তুলে ধরেন। মানসূখ হওয়ার পক্ষে তিনি আনেন আতা ইবন মাইসারার কথা: সূরা বারাআর ৯:৩৬ আয়াতে পবিত্র মাসে যুদ্ধ হালাল করা হয়েছে, ওই মাসগুলোতেও, অন্য মাসেও। যুহরীর কথাও আনেন, যেমনটা তাঁর কাছে পৌঁছেছিল: নবী ﷺ পবিত্র মাসে যুদ্ধ নিষিদ্ধ মানতেন, পরে তা হালাল করা হয়। বিপরীতে, ইবন জুরাইজ এ আয়াত সম্পর্কে আতাকে জিজ্ঞেস করেছিলেন। আতা আল্লাহর কসম খেয়ে বলেন, পবিত্র মাসে অভিযান চালানো বা যুদ্ধ করা মানুষের জন্য হালাল নয়। মাআরিফুল কুরআন এই আতাকে আতা ইবন আবী রাবাহ বলে চিহ্নিত করে, আর জানায় যে তাবেঈদের কয়েকজনও বিধানটিকে মানসূখ মনে করতেন না।"
+          },
+          {
+            "en": "Al-Qurtubi gives Ata's reasoning: the later verses are general in time while this verse is specific, and by agreement the general does not abrogate the specific. At-Tabari himself sides with abrogation by 9:36. His evidence is the Prophet's ﷺ fighting at Hunayn and at-Ta'if and the sending to Awtas, in Shawwal and part of Dhu al-Qa'dah, and the pledge of Ridwan in Dhu al-Qa'dah. Had fighting in those months been a sin, he argues, the Prophet ﷺ would have been the furthest of people from it.",
+            "bn": "কুরতুবী আতার যুক্তিটাও জানান। পরের আয়াতগুলো সময়ের দিক থেকে সাধারণ, আর এ আয়াত নির্দিষ্ট। সর্বসম্মত নীতি হলো, সাধারণ বিধান নির্দিষ্ট বিধানকে মানসূখ করে না। তাবারী নিজে ৯:৩৬ দ্বারা মানসূখ হওয়ার মতটিকেই সঠিক বলেন। তাঁর দলিল হুনাইন ও তায়েফে নবী ﷺ-এর যুদ্ধ আর আওতাসে বাহিনী পাঠানো, যা ঘটেছিল শাওয়াল ও যুলকা'দার কিছু অংশে। আরেক দলিল যুলকা'দায় বাইআতুর রিদওয়ান। তাঁর যুক্তি, ওই মাসগুলোতে যুদ্ধ যদি গুনাহ হতো, তবে নবী ﷺ-ই হতেন তা থেকে সবচেয়ে দূরে থাকা মানুষ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Starting a Fight, or Repelling One",
+          "bn": "যুদ্ধ শুরু করা, নাকি ঠেকানো"
+        },
+        "p": [
+          {
+            "en": "Between the two camps runs a distinction some commentators draw. As-Sa'di reports the majority's abrogation, then the view of some commentators that the verse was never abrogated: the unrestricted command is read through this restricted one, and the ban on fighting is among the greatest marks of the sacred months. That ban, they say, concerns starting a fight; fighting to repel an attack is allowed in the sacred months, as it is in the sacred land.",
+            "bn": "দুই দলের মাঝখানে কয়েকজন তাফসীরকার একটি পার্থক্য টানেন। সা'দী প্রথমে সংখ্যাগরিষ্ঠের মানসূখ হওয়ার মত উল্লেখ করেন। তারপর আনেন কিছু তাফসীরকারের মত যে আয়াতটি মানসূখ হয়নি। তাঁদের যুক্তি, শর্তহীন নির্দেশকে এই শর্তযুক্ত আয়াতের আলোকে পড়তে হবে, আর পবিত্র মাসগুলোর সবচেয়ে বড় বৈশিষ্ট্যই হলো তাতে যুদ্ধ নিষিদ্ধ। তাঁরা বলেন, এ নিষেধ যুদ্ধ শুরু করার বেলায়। আক্রমণ ঠেকাতে লড়াই পবিত্র মাসেও বৈধ, যেমন বৈধ হারাম এলাকায়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, which reports the majority of jurists, through al-Jassas, for abrogation, gives al-Tafsir al-Mazhari's answer: 9:36, the very verse cited, itself affirms four sacred months; the sermon of the Farewell Pilgrimage affirmed them shortly before the Prophet's ﷺ death; and the siege of at-Ta'if fell in Shawwal. Its conclusion is that beginning a fight in these months stays forbidden, while fighting back when attacked is allowed, as 2:194 has it.",
+            "bn": "মাআরিফুল কুরআন জাসসাসের সূত্রে ফকীহদের সংখ্যাগরিষ্ঠকে মানসূখের পক্ষে দেখায়, তারপর তাফসীরে মাযহারীর জবাব তুলে ধরে। যে ৯:৩৬ দলিল হিসেবে আনা হয়, সেই আয়াতই চারটি পবিত্র মাসের কথা নিশ্চিত করে। বিদায় হজ্জের ভাষণও নবী ﷺ-এর ইন্তিকালের অল্প আগে সেগুলোর মর্যাদা নিশ্চিত করেছে। আর তায়েফ অবরোধ হয়েছিল শাওয়ালে। মাযহারীর উপসংহার: এ মাসগুলোতে যুদ্ধ শুরু করা চিরকাল নিষিদ্ধ, তবে আক্রান্ত হলে পাল্টা লড়াই বৈধ, যেমনটা ২:১৯৪ বলে।"
+          },
+          {
+            "en": "No fetched commentator attaches a sound hadith to this verse; the Jundub report comes, ungraded, via Ibn Abi Hatim and at-Tabari. A general narration, not tied to it, names the months. Al-Bukhari records (Sahih al-Bukhari 4662) from Abu Bakrah that the Prophet ﷺ said: 'Time has come back to its original state which it had when Allah created the Heavens and the Earth; the year is twelve months, four of which are sacred. Three of them are in succession; Dhul-Qa'da, Dhul-Hijja and Al-Muharram, and (the fourth being) Rajab Mudar (named after the tribe of Mudar as they used to respect this month) which stands between Jumad (ath-thani) and Sha'ban.'",
+            "bn": "দেখা তাফসীরগুলোর কোনোটিই এ আয়াতের সঙ্গে সহীহ হাদীস জুড়ে দেয়নি। অভিযান নিয়ে জুনদুব (রাঃ)-এর বর্ণনাটি এসেছে ইবন আবী হাতিম ও তাবারীর সূত্রে, মান উল্লেখ ছাড়াই। একটি সাধারণ হাদীস, যা এ আয়াতের সঙ্গে যুক্ত নয়, মাসগুলোর নাম বলে দেয়। বুখারী আবূ বাকরা (রাঃ) থেকে বর্ণনা করেন (সহীহ বুখারী ৪৬৬২), নবী ﷺ বলেছেন: 'আল্লাহ যেদিন আসমান ও জমিন সৃষ্টি করেছিলেন, সময় ঘুরে আবার সেই অবস্থায় ফিরে এসেছে। বছরে মাস বারোটি, তার চারটি হারাম। তিনটি পরপর: যুলকা'দা, যুলহিজ্জা ও মুহাররম। আর (চতুর্থটি) মুদার গোত্রের রজব (মুদার গোত্র মাসটিকে সম্মান করত বলে এ নাম), যা জুমাদাস সানী ও শা'বানের মাঝখানে।'"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Deeds Come to Nothing",
+          "bn": "আমল যখন বৃথা হয়ে যায়"
+        },
+        "p": [
+          {
+            "en": "Wa man yartadid minkum 'an dinihi fa-yamut wa huwa kafir: whoever of you turns back from his religion and dies a disbeliever. At-Tabari reads yartadid as returns, and the dying as dying before he repents of his disbelief. Habitat a'maluhum, their deeds have come to nothing: their reward is gone, in this world and the next. Al-Qurtubi traces habita to habat, the bloating that strikes grazing animals that have eaten too much, at times killing them, and calls the clause a warning to the believers to hold fast to Islam.",
+            "bn": "ওয়া মাই ইয়ারতাদিদ মিনকুম আন দীনিহী ফাইয়ামুত ওয়া হুয়া কাফির: তোমাদের মধ্যে যে নিজের দ্বীন থেকে ফিরে যায় এবং কাফির অবস্থায় মারা যায়। তাবারী ইয়ারতাদিদ অর্থ করেন ফিরে যাওয়া। আর মৃত্যুর কথাটির অর্থ, কুফর থেকে তওবা করার আগেই সে মারা গেল। হাবিতাত আ'মালুহুম, তাদের আমল বৃথা হয়ে গেছে: দুনিয়া ও আখিরাতে তার সওয়াব হারিয়ে গেছে। কুরতুবী হাবিতা শব্দের মূল খুঁজে পান হাবাত-এ। এ এক রোগ, বেশি ঘাস খেয়ে ফেললে চরে বেড়ানো পশুর পেট ফুলে যায়, কখনো তাতে মারাও যায়। তাঁর মতে এ অংশটি মুমিনদের প্রতি সতর্কবাণী, যেন তারা ইসলামের উপর অটল থাকে।"
+          },
+          {
+            "en": "Are deeds voided by apostasy alone, or only by dying on it? Al-Qurtubi records the difference. Ash-Shafi'i held that a person who leaves Islam and returns has not lost his deeds, nor a Hajj already done; they fall away only if he dies in that state. Malik held that apostasy itself voids them, so such a person must perform Hajj again. Malik's side cites 39:65, if you associate partners your deeds will be void, and ties the condition of death here to eternity in the Fire. Ma'arif al-Qur'an places Abu Hanifah with the view that the Hajj must be repeated, and ash-Shafi'i against it.",
+            "bn": "আমল কি শুধু মুরতাদ হওয়াতেই বৃথা হয়, নাকি সে অবস্থায় মারা গেলে তবেই? কুরতুবী মতভেদটা লিপিবদ্ধ করেন। শাফিঈর মত, যে ইসলাম ছেড়ে আবার ফিরে আসে, তার আমল নষ্ট হয় না, আগে আদায় করা হজ্জও নয়। সে অবস্থায় মারা গেলে তবেই আমল বৃথা হয়। মালিকের মত, মুরতাদ হওয়াই আমল বৃথা করে দেয়, তাই এমন ব্যক্তিকে আবার হজ্জ করতে হবে। মালিকের পক্ষের আলিমরা ৩৯:৬৫ দলিল হিসেবে আনেন: তুমি শিরক করলে তোমার আমল বৃথা হবে। আর এখানে মৃত্যুর শর্তটিকে তাঁরা জাহান্নামে চিরকাল থাকার সঙ্গে যুক্ত করেন। মাআরিফুল কুরআন আবূ হানীফাকে রাখে হজ্জ আবার করতে হবে এই মতের পক্ষে, আর শাফিঈকে তার বিপক্ষে।"
+          },
+          {
+            "en": "As-Sa'di draws a hope from the wording. By implication, he says, one who left Islam and then returned to it gets back the deeds he did before, and so does anyone who repents of sins: his earlier deeds return to him. Al-Qurtubi and Ma'arif al-Qur'an go on to questions about the apostate that belong to judges and jurists, on which the jurists they name disagreed widely. Those lie outside this reflection. The verse's own words speak of deeds, death and the Hereafter.",
+            "bn": "সা'দী আয়াতের শব্দ থেকে একটা আশার কথা বের করেন। তাঁর মতে, আয়াতের ইঙ্গিত হলো, যে ইসলাম ছেড়ে আবার ফিরে আসে, আগের আমলগুলো সে ফিরে পায়। গুনাহ থেকে যে তওবা করে, তার বেলায়ও তাই: আগের আমল তার কাছে ফিরে আসে। কুরতুবী ও মাআরিফুল কুরআন এরপর মুরতাদ সম্পর্কে এমন সব প্রশ্নে যান, যা বিচারক ও ফকীহদের বিষয়, আর সেগুলোতে তাঁদের উল্লেখ করা ফকীহরা নিজেরাই অনেক মতভেদ করেছেন। সেসব এ আলোচনার বাইরে। আয়াতের নিজের শব্দ কথা বলে আমল, মৃত্যু আর আখিরাত নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Licence, and a Scale",
+          "bn": "অনুমতি নয়, একটি দাঁড়িপাল্লা"
+        },
+        "p": [
+          {
+            "en": "This must be said plainly. The verse answers a reproach in one dispute, between the first Muslims and the Quraysh who had barred them from the Sacred Mosque and driven them from their homes. It licenses no act of violence against anyone today, and it gives no one the right to judge another person an apostate or to act against anyone on that judgement. It describes what it describes; what it asks of the reader is honesty in weighing wrongs, and care for his own faith.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটিমাত্র বিবাদে একটি খোঁটার জবাব দেয়। বিবাদটি ছিল প্রথম যুগের মুসলিমদের সঙ্গে সেই কুরাইশের, যারা তাদের মাসজিদুল হারামে যেতে বাধা দিয়েছিল আর ঘরবাড়ি থেকে বের করে দিয়েছিল। আজ কারও বিরুদ্ধে কোনো সহিংসতার অনুমতি এ আয়াত দেয় না। কাউকে মুরতাদ ঘোষণা করার, বা সেই ঘোষণার ভিত্তিতে কারও বিরুদ্ধে কিছু করার অধিকারও কাউকে দেয় না। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। পাঠকের কাছে তার দাবি হলো অন্যায় মাপায় সততা, আর নিজের ঈমানের যত্ন।"
+          },
+          {
+            "en": "The story does not stop here. Ibn Kathir, in the abridged English rendering, carries Ibn Ishaq's report that once the verse had lifted their distress, the men of the party hoped for the reward of those who strive, and 2:218 followed; that verse has its own place. This one leaves a plain order to carry home: what is grave is called grave, what is greater is called greater, and the last word goes to each believer's own end.",
+            "bn": "কাহিনি এখানে থামে না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি অনুবাদে ইবন ইসহাকের বর্ণনা আছে: আয়াতটি তাঁদের দুশ্চিন্তা দূর করার পর দলের লোকেরা মুজাহিদদের সওয়াবের আশা করলেন, আর তারপর ২:২১৮ নাযিল হলো। সে আয়াতের আলোচনা তার নিজের জায়গায়। এ আয়াত ঘরে নিয়ে যাওয়ার মতো একটা সহজ ক্রম রেখে যায়: যা গুরুতর তাকে গুরুতর বলা, যা আরও গুরুতর তাকে আরও গুরুতর বলা, আর শেষ কথাটি রাখা প্রত্যেক মুমিনের নিজের শেষ পরিণতির জন্য।"
+          }
+        ]
+      }
+    ]
+  },
   "2:222": {
     "sections": [
       {
