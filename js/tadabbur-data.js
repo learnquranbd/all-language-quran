@@ -32703,6 +32703,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A clear warning is a mercy. Give it plainly and for the listener's sake, and when one comes to you, hear the care inside it before the sting.",
     "lessonBn": "স্পষ্ট সতর্কবাণী আসলে রহমত। সোজাসুজি আর শ্রোতার ভালোর জন্য তা দিন, আর আপনার কাছে এলে খোঁচার আগে তার ভেতরের মমতাটুকু শুনুন।"
+  },
+  "11:29": {
+    "reflectionEn": "The chiefs looked at the people following Nuh (AS) and saw only the lowest of themselves. The verse answers with two refusals. He asks them for no wealth, so there is nothing their money can buy from him, and his reward is with Allah alone. And he will not drive away those who believed, because they are going to meet their Lord. So is everyone else in that room, and rank does not travel with anyone to that meeting. He calls the chiefs ignorant, not for lacking learning but for not knowing what they owe. Few of us will ever be asked to send a believer away. We are asked smaller things: to leave someone out so that someone grander feels at ease.",
+    "reflectionBn": "নূহ (আঃ)-এর পেছনে যারা এসেছিল, সর্দাররা তাদের দিকে তাকিয়ে দেখল শুধু নিজেদের সমাজের সবচেয়ে নিচু লোকগুলোকে। আয়াতটির জবাব দুটি না দিয়ে। তিনি তাদের কাছে কোনো ধন-সম্পদ চান না, তাই তাদের টাকায় তাঁর কাছ থেকে কিছু কেনার নেই। তাঁর প্রতিদান কেবল আল্লাহর কাছে। আর যারা ঈমান এনেছে, তিনি তাদের তাড়িয়ে দেবেন না, কারণ তারা তাদের রবের সঙ্গে সাক্ষাৎ করতে চলেছে। সেই মজলিসের বাকি সবাইও চলেছে একই সাক্ষাতের দিকে, আর সেখানে কারও পদমর্যাদা সঙ্গে যায় না। সর্দারদের তিনি অজ্ঞ বলেন। লেখাপড়ার অভাবে নয়, নিজেদের উপর কী হক আছে তা না জানার কারণে। আমাদের খুব কমজনকেই কখনো কোনো মুমিনকে তাড়িয়ে দিতে বলা হবে। আমাদের কাছে চাওয়া হয় ছোট ছোট জিনিস: অমুককে বাদ দাও, যাতে বড় কেউ স্বস্তিতে থাকেন।",
+    "pointsEn": [
+      "When I help or advise someone, what am I quietly hoping to get back, and would I keep going if the answer were nothing at all?",
+      "Have I ever left someone out of a gathering, a group or a conversation so that a more important person would feel comfortable?",
+      "Whose company would I be embarrassed to be seen in, and what does that embarrassment say about what I think honour is?",
+      "If every person in the room is going to meet the same Lord, which of the ways I rank people will still count on that day?",
+      "When someone sets a condition before they will listen to the truth, do I bargain with it, or keep both the truth and the people who already accepted it?"
+    ],
+    "pointsBn": [
+      "কাউকে সাহায্য বা পরামর্শ দেওয়ার সময় মনে মনে আমি বিনিময়ে কী আশা করি? বিনিময়ে কিছুই না পেলে কি আমি কাজটা চালিয়ে যেতাম?",
+      "আরও গুরুত্বপূর্ণ কেউ যাতে স্বস্তি পান, সেজন্য আমি কি কখনো কাউকে কোনো মজলিস, দল বা আলাপ থেকে বাদ রেখেছি?",
+      "কার সঙ্গে আমাকে দেখা গেলে আমি লজ্জা পাব? সেই লজ্জা থেকে কী বোঝা যায়, সম্মান বলতে আমি আসলে কী বুঝি?",
+      "ঘরের প্রত্যেকেই যদি একই রবের সঙ্গে সাক্ষাৎ করতে যায়, তবে মানুষকে ছোট-বড় করে মাপার আমার কোন হিসাবটা সেদিন টিকবে?",
+      "সত্য শোনার আগে কেউ শর্ত জুড়ে দিলে আমি কি দরাদরি শুরু করি, নাকি সত্যও ধরে রাখি, আর যারা তা আগেই মেনে নিয়েছে তাদেরও?"
+    ],
+    "lessonEn": "Give your counsel without a price, and never buy anyone's approval by pushing away the believers they look down on. Everyone is heading to the same meeting with their Lord.",
+    "lessonBn": "বিনিময় না চেয়ে উপদেশ দিন। যে মুমিনদের কেউ তুচ্ছ ভাবে, তাদের সরিয়ে দিয়ে তার মন জয়ের চেষ্টা কখনো করবেন না। সবাই চলেছে একই রবের সঙ্গে সাক্ষাতের দিকে।"
   }
 };
 

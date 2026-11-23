@@ -1251,6 +1251,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "His Second O My People",
+          "bn": "দ্বিতীয়বার হে আমার কওম"
+        },
+        "p": [
+          {
+            "en": "The account of Nuh (AS) in Surah Hud opens at 11:25, and by 11:27 the chiefs who disbelieved have made their case. We see you only as a man like ourselves; we see nobody following you except the lowest of us, at first thought; we see in you no merit over us; rather, we think you are liars. His reply begins in 11:28, and each new step of it opens with the same call, ya qawmi, O my people: at 11:28, here at 11:29, and again at 11:30.",
+            "bn": "সূরা হূদে নূহ (আঃ)-এর বৃত্তান্ত শুরু হয় ১১:২৫ আয়াতে। ১১:২৭ আয়াতে পৌঁছে কাফির সর্দাররা তাদের অভিযোগ সাজিয়ে ফেলেছে। তারা বলে, আমরা তো তোমাকে আমাদেরই মতো একজন মানুষ দেখছি। আমাদের সবচেয়ে নিচু লোকেরা ছাড়া কাউকে তোমার পেছনে দেখছি না, তাও না ভেবেচিন্তে। আমাদের উপর তোমাদের কোনো শ্রেষ্ঠত্বও দেখছি না। বরং আমরা তোমাদের মিথ্যাবাদী মনে করি। তাঁর জবাব শুরু হয় ১১:২৮ আয়াতে। জবাবের প্রতিটি নতুন ধাপ খোলে একই ডাকে, ইয়া কওমি, হে আমার কওম: ১১:২৮-এ, এখানে ১১:২৯-এ, আবার ১১:৩০-এ।"
+          },
+          {
+            "en": "At-Tabari introduces the verse as one more report from Allah of what Nuh said to his people, so it belongs inside the same answer rather than opening anything new. None of the commentaries consulted reports an occasion of revelation for it; its place in the speech is its context. The next verse presses the same refusal with a question, who would help me against Allah if I drove them away, and 11:31 and 11:33 carry the rest of the exchange on their own pages.",
+            "bn": "তাবারী আয়াতটির শুরুতেই বলেন, এটিও নূহ তাঁর কওমকে যা বলেছিলেন, সে সম্পর্কে আল্লাহর দেওয়া আরেকটি সংবাদ। অর্থাৎ আয়াতটি একই জবাবের ভেতরের অংশ, নতুন কোনো প্রসঙ্গের সূচনা নয়। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর শানে নুযূল উল্লেখ করেনি। বক্তব্যের ভেতরে এর অবস্থানই এর প্রেক্ষাপট। পরের আয়াত একই অস্বীকৃতিকে আরও জোর দেয় একটি প্রশ্নে: আমি যদি তাদের তাড়িয়ে দিই, আল্লাহর পাকড়াও থেকে কে আমাকে বাঁচাবে? কথোপকথনের বাকি অংশ ১১:৩১ ও ১১:৩৩ আয়াতের নিজস্ব পাতায় আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "For It, but For What",
+          "bn": "এর বিনিময়ে, কিন্তু কীসের"
+        },
+        "p": [
+          {
+            "en": "The verse runs to 22 Arabic words, with three pause marks printed in the line and not counted. It moves in three steps: payment refused, believers kept, and a verdict on the listeners. That verdict opens with arakum, I see you. The chiefs had said nara, we see, three times in 11:27: we see you only as a man, we see only the lowest following you, we see in you no merit. He answers their three sightings with one of his own.",
+            "bn": "আয়াতটিতে আরবি শব্দ ২২টি। লাইনে ছাপা তিনটি থামার চিহ্ন এ গণনায় ধরা হয়নি। আয়াতটি এগোয় তিন ধাপে: পারিশ্রমিক না চাওয়া, মুমিনদের ধরে রাখা, আর শ্রোতাদের সম্পর্কে একটি রায়। সেই রায় শুরু হয় আরাকুম শব্দে, অর্থাৎ আমি তোমাদের দেখছি। ১১:২৭ আয়াতে সর্দাররা নারা, আমরা দেখছি, বলেছিল তিনবার। আমরা তোমাকে মানুষ ছাড়া কিছু দেখছি না, তোমার পেছনে নিচু লোক ছাড়া কাউকে দেখছি না, তোমাদের কোনো শ্রেষ্ঠত্ব দেখছি না। তাদের তিনবারের দেখার জবাবে তিনি নিজের দেখাটা একবার বলেন।"
+          },
+          {
+            "en": "La as'alukum 'alayhi malan: I ask of you no wealth for it. For what? The pronoun has no noun before it to point back to, and al-Baghawi says as much: it alludes to something not mentioned, which he names as the revelation and the conveying of the message. Al-Qurtubi has the conveying, the call to Allah and faith in Him. As-Sa'di says my call to you. At-Tabari and Ibn Kathir both say my sincere advice to you, and at-Tabari adds the call to the oneness of Allah.",
+            "bn": "লা আসআলুকুম আলাইহি মালান: এর বিনিময়ে আমি তোমাদের কাছে কোনো সম্পদ চাই না। কীসের বিনিময়ে? সর্বনামটির আগে এমন কোনো বিশেষ্য নেই, যার দিকে তা ফিরে যায়। বাগাভী সে কথাই বলেন: এটি এমন কিছুর দিকে ইঙ্গিত, যার উল্লেখ নেই। তাঁর মতে তা হলো ওহি ও রিসালাত পৌঁছে দেওয়া। কুরতুবীর কাছে তা পৌঁছে দেওয়া, আল্লাহর দিকে ডাকা ও তাঁর প্রতি ঈমান। সা'দী বলেন, তোমাদের প্রতি আমার দাওয়াত। তাবারী ও ইবন কাসীর দুজনেই বলেন, তোমাদের প্রতি আমার নসিহত। তাবারী এর সঙ্গে যোগ করেন আল্লাহর একত্বের দিকে আহ্বান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wealth Refused, Wage Awaited",
+          "bn": "সম্পদ নয়, প্রতিদান তাঁর কাছে"
+        },
+        "p": [
+          {
+            "en": "One word sets this verse apart. Wherever else in the Qur'an a prophet says in his own voice that he asks no payment, as at 10:72, at 11:51, at 26:109 and the same line from four other prophets in that surah, or at 34:47 and 38:86, the thing he does not ask for is ajr, a wage. Here it is malan, wealth. Then, in the same sentence, the word ajr does appear, for what he does expect: in ajriya illa 'ala Allah, my reward is only upon Allah. Mujahid, in three reports at-Tabari gives, glosses ajri as jaza'i, my recompense.",
+            "bn": "একটি শব্দ এ আয়াতকে আলাদা করে দেয়। কুরআনের অন্য যেসব জায়গায় কোনো নবী নিজের মুখে পারিশ্রমিক না চাওয়ার কথা বলেন, সেখানে যা চাওয়া হয় না তা আজর, মজুরি। যেমন ১০:৭২, ১১:৫১, ২৬:১০৯, সে সূরায় আরও চারজন নবীর মুখে একই বাক্য, কিংবা ৩৪:৪৭ ও ৩৮:৮৬। এখানে শব্দটি মালান, সম্পদ। তারপর একই বাক্যে আজর শব্দটি আসে ঠিকই, তবে যা তিনি আশা করেন তার জন্য: ইন আজরিয়া ইল্লা আলাল্লাহ, আমার প্রতিদান কেবল আল্লাহর উপর। তাবারী তিনটি বর্ণনায় মুজাহিদের ব্যাখ্যা আনেন: আজরী মানে জাযাঈ, আমার বিনিময়।"
+          },
+          {
+            "en": "Why raise money at all? At-Tabari gives the reason inside his paraphrase: I do not ask you for wealth as a wage for my advice, which would make you suspect me in it and think that what I do is a pursuit of some good of this world. Al-Qurtubi says a demand would weigh on them, and as-Sa'di that they would find the charge heavy. The Muyassar pictures money paid to him after they believed. 52:40 and 68:46 put the same thought as a question about the Prophet ﷺ: do you ask them a wage, so that they are weighed down by debt?",
+            "bn": "টাকার প্রসঙ্গ আদৌ উঠল কেন? তাবারী তাঁর ব্যাখ্যার ভেতরেই কারণটা বলেন: আমার নসিহতের মজুরি হিসেবে আমি তোমাদের কাছে সম্পদ চাই না। চাইলে তোমরা আমার নসিহতকে সন্দেহ করতে, ভাবতে যে আমি দুনিয়ার কোনো স্বার্থের পেছনে ছুটছি। কুরতুবী বলেন, কিছু চাইলে তা তাদের উপর বোঝা হয়ে চাপত। সা'দী বলেন, সেই দায় তাদের কাছে ভারী ঠেকত। মুয়াসসার এমন সম্পদের কথা বলে, যা ঈমান আনার পর তারা তাঁকে দিত। ৫২:৪০ ও ৬৮:৪৬ আয়াত একই ভাবনাকে নবী ﷺ-এর প্রসঙ্গে প্রশ্নের আকারে আনে: আপনি কি তাদের কাছে মজুরি চাইছেন, ফলে তারা ঋণের ভারে নুয়ে পড়েছে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Demand Heard in the Answer",
+          "bn": "জবাবেই ধরা পড়ে দাবিটা"
+        },
+        "p": [
+          {
+            "en": "The verse never quotes the chiefs asking him to send anyone away. The commentators hear the demand in the reply. Ibn Kathir writes that it is as though they had asked him to drive the believers away, out of disdain and a sense of being too good to sit with them. As-Sa'di uses the same as though, and names those believers as the weak. Al-Baghawi calls the sentence evidence that they asked. The Muyassar treats it as settled: you command me to drive away the friends of Allah.",
+            "bn": "সর্দাররা কাউকে তাড়িয়ে দিতে বলেছে, এমন কোনো উদ্ধৃতি আয়াতে নেই। দাবিটা তাফসীরকারেরা শুনতে পান জবাবের ভেতর থেকে। ইবন কাসীর লেখেন, যেন তারা তাঁকে বলেছিল মুমিনদের তাড়িয়ে দিতে, কারণ তাদের সঙ্গে বসাকে তারা নিজেদের মর্যাদার পক্ষে অপমান মনে করত। সা'দীও একই 'যেন' ব্যবহার করেন, আর সেই মুমিনদের পরিচয় দেন দুর্বল বলে। বাগাভী বলেন, বাক্যটিই প্রমাণ যে তারা এমন দাবি করেছিল। মুয়াসসার বিষয়টিকে নিশ্চিত ধরে নেয়: তোমরা আমাকে আল্লাহর ওলিদের তাড়িয়ে দিতে বলছ।"
+          },
+          {
+            "en": "At-Tabari gives the demand as speech, in a report from Ibn Jurayj, a commentator's account and not a hadith. They said to him: Nuh, if you want us to follow you, drive them away; otherwise we will never accept being equal with them in the matter. And he said: I am not going to drive away those who believed; they will meet their Lord, and He will ask them about their deeds. On that report the objection was not to the poor as such. It was to standing level with them.",
+            "bn": "তাবারী দাবিটিকে উক্তি হিসেবেই আনেন, ইবন জুরাইজের একটি বর্ণনায়। এটি একজন মুফাসসিরের বিবরণ, হাদীস নয়। তারা তাঁকে বলেছিল: হে নূহ, তুমি যদি চাও আমরা তোমার অনুসরণ করি, তবে ওদের তাড়িয়ে দাও। নইলে এ ব্যাপারে আমরা আর ওরা সমান হব, তা আমরা কখনো মেনে নেব না। তিনি বললেন: যারা ঈমান এনেছে, আমি তাদের তাড়িয়ে দেব না। তারা তাদের রবের সঙ্গে সাক্ষাৎ করবে, আর তিনি তাদের আমল সম্পর্কে জিজ্ঞেস করবেন। এই বর্ণনা অনুযায়ী আপত্তিটা গরিবদের নিয়ে ছিল না। আপত্তি ছিল তাদের সমান কাতারে দাঁড়ানো নিয়ে।"
+          },
+          {
+            "en": "Two commentators set the scene beside a later one. Al-Qurtubi writes that Quraysh asked the Prophet ﷺ to drive away the freedmen and the poor, and refers back to his explanation in Surat al-An'am. Ibn Kathir says the disbelievers wanted the Prophet ﷺ to sit with the elite apart from people of weak standing, and cites 6:52 and 6:53. The Qur'an's own ruling there is short: do not drive away those who call upon their Lord morning and evening, seeking His face. 18:28 says the same from the other side: keep yourself patient with them.",
+            "bn": "দুজন তাফসীরকার এই দৃশ্যটিকে পরের এক দৃশ্যের পাশে রাখেন। কুরতুবী লেখেন, কুরাইশরাও নবী ﷺ-এর কাছে আযাদকৃত গোলাম আর গরিবদের তাড়িয়ে দেওয়ার দাবি করেছিল, আর এ বিষয়ে সূরা আনআমে তাঁর ব্যাখ্যার দিকে ইঙ্গিত করেন। ইবন কাসীর বলেন, কাফিররা চাইত নবী ﷺ সমাজে দুর্বল অবস্থানের লোকদের থেকে আলাদা হয়ে অভিজাতদের সঙ্গে বসুন। তিনি ৬:৫২ ও ৬:৫৩ আয়াত উদ্ধৃত করেন। সেখানে কুরআনের নিজের নির্দেশ সংক্ষিপ্ত: যারা সকাল-সন্ধ্যা তাঁর সন্তুষ্টি চেয়ে রবকে ডাকে, তাদের তাড়িয়ে দেবেন না। ১৮:২৮ একই কথা বলে উল্টো দিক থেকে: তাদের সঙ্গে নিজেকে ধৈর্যের সঙ্গে ধরে রাখুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not the Kind Who Expels",
+          "bn": "তাড়িয়ে দেওয়া তাঁর কাজ নয়"
+        },
+        "p": [
+          {
+            "en": "Wa ma ana bi-taridi alladhina amanu. The refusal is built on a noun, tarid, one who drives away, so it reads as a statement about who he is rather than a promise about tomorrow. The commentators take it that way. As-Sa'di glosses it as it is not fitting for me and does not become me. The Muyassar says it is not my business. At-Tabari has I am not one to push away whoever believed in Allah, renounced the idols and affirmed His oneness, for not being among your nobles.",
+            "bn": "ওয়া মা আনা বিতারিদিল্লাযীনা আমানূ। অস্বীকৃতিটা দাঁড়িয়ে আছে একটি বিশেষ্যের উপর, তারিদ, যে তাড়িয়ে দেয়। তাই কথাটা আগামীকালের প্রতিশ্রুতির চেয়ে বেশি তাঁর পরিচয়ের বর্ণনা। তাফসীরকারেরাও এভাবেই নেন। সা'দীর ব্যাখ্যা: এটা আমার জন্য সমীচীন নয়, আমাকে মানায় না। মুয়াসসার বলে, এটা আমার কাজ নয়। তাবারীর ভাষায়: যে আল্লাহর প্রতি ঈমান এনেছে, মূর্তিগুলো ছুড়ে ফেলেছে আর তাঁর একত্ব স্বীকার করেছে, সে তোমাদের অভিজাতদের কেউ নয় বলে আমি তাকে দূরে ঠেলে দেওয়ার লোক নই।"
+          },
+          {
+            "en": "As-Sa'di does not stop at refusal. Rather, he has Nuh say, I meet them with welcome and generosity, with honour and esteem. Ma'arif al-Qur'an gives the reason in its own words: they may be poor, but they are close to the Most High, and turning such people out is not right. The other telling of this story keeps the sentence almost word for word. In 26:111 the chiefs ask whether they should believe while the lowest follow him, and 26:114 answers: wa ma ana bi-taridi al-mu'minin, and I do not drive away the believers.",
+            "bn": "সা'দী শুধু অস্বীকৃতিতে থামেন না। তাঁর ব্যাখ্যায় নূহ (আঃ) বলছেন: বরং আমি তাদের গ্রহণ করি সাদর অভ্যর্থনায় ও আতিথেয়তায়, সম্মান ও মর্যাদায়। মাআরিফুল কুরআন কারণটা নিজের ভাষায় বলে: তারা গরিব হতে পারে, কিন্তু তারা মহান আল্লাহর নিকটবর্তী, আর এমন লোকদের বের করে দেওয়া ঠিক নয়। এই কাহিনির আরেক বর্ণনায় বাক্যটি প্রায় হুবহু আছে। ২৬:১১১ আয়াতে সর্দাররা প্রশ্ন তোলে, নিচু লোকেরা যখন তোমার অনুসারী, তখন আমরা কি তোমার প্রতি ঈমান আনব? ২৬:১১৪ আয়াত জবাব দেয়: আর মুমিনদের তাড়িয়ে দেওয়া আমার কাজ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honour or a Case Brought",
+          "bn": "সম্মান, নাকি নালিশ"
+        },
+        "p": [
+          {
+            "en": "Innahum mulaqu rabbihim: they will meet their Lord. The clause gives the reason for keeping them, and al-Qurtubi sees two ways it can work. It may be said to honour them, by naming the meeting with Allah that awaits them. Or it may be said as a matter of dispute: had I done it, they would bring a case against me before Allah, and He would repay them for their faith and repay whoever drove them away. He sets out both as possibilities and does not choose.",
+            "bn": "ইন্নাহুম মুলাকূ রাব্বিহিম: তারা তাদের রবের সঙ্গে সাক্ষাৎ করবে। কেন তাদের রাখা হবে, এ বাক্য তারই কারণ। কুরতুবী দেখেন, বাক্যটি দুভাবে কাজ করতে পারে। হতে পারে কথাটা তাদের সম্মান জানাতে বলা, আল্লাহর সঙ্গে যে সাক্ষাৎ তাদের অপেক্ষায় আছে তার উল্লেখ করে। আবার হতে পারে নালিশের দিক থেকে বলা: আমি যদি এমন করতাম, তারা আল্লাহর কাছে আমার বিরুদ্ধে মামলা তুলত। তখন তিনি তাদের ঈমানের প্রতিদান দিতেন, আর যে তাদের তাড়িয়েছে তাকেও তার প্রাপ্য দিতেন। কুরতুবী দুটিকেই সম্ভাবনা হিসেবে রাখেন, কোনোটি বেছে নেন না।"
+          },
+          {
+            "en": "Others lean one way or the other. Al-Baghawi reads the second: they are going to their Lord at the Return, and He will requite whoever drove them away. Ma'arif al-Qur'an offers it as one meaning: if I turned them out and they complained to their Lord on the Day of Qiyamah, what would I have to say? As-Sa'di reads the first: He will reward them for their faith and their mindfulness with gardens of bliss. The Muyassar keeps to the plain sense, that they will meet their Lord on the Day of Resurrection.",
+            "bn": "অন্যরা কেউ এদিকে, কেউ ওদিকে ঝোঁকেন। বাগাভী দ্বিতীয় অর্থ নেন: তারা আখিরাতে তাদের রবের কাছে ফিরে যাচ্ছে, আর যে তাদের তাড়িয়েছে, তিনি তাকে তার প্রতিফল দেবেন। মাআরিফুল কুরআন এটাকে একটি সম্ভাব্য অর্থ হিসেবে আনে: আমি যদি তাদের বের করে দিই, আর কিয়ামতের দিন তারা তাদের রবের কাছে নালিশ করে, তখন আমি কী জবাব দেব? সা'দী প্রথম অর্থ নেন: তিনি তাদের ঈমান ও তাকওয়ার প্রতিদান দেবেন নিয়ামতে ভরা জান্নাত দিয়ে। মুয়াসসার সরল অর্থেই থাকে: কিয়ামতের দিন তারা তাদের রবের সঙ্গে সাক্ষাৎ করবে।"
+          },
+          {
+            "en": "At-Tabari moves the weight onto the questions that meeting will ask. Those you ask me to drive away are on their way to Allah, he writes, and Allah will ask them about what they did in this world, not about their rank and lineage. Whichever reading is taken, the clause carries the matter out of the chiefs' assembly into a different gathering, where the measures the chiefs used do not apply. On the second reading, had he done it, Nuh himself would have answered for the expulsion, and 11:30 goes on in that direction.",
+            "bn": "তাবারী ভারটা সরিয়ে আনেন সেই সাক্ষাতে কী জিজ্ঞেস করা হবে, তার উপর। তিনি লেখেন, যাদের তাড়িয়ে দিতে তোমরা আমাকে বলছ, তারা আল্লাহর দিকে চলেছে। আল্লাহ তাদের জিজ্ঞেস করবেন দুনিয়ায় তারা কী আমল করেছে, তাদের বংশ-মর্যাদা সম্পর্কে নয়। যে অর্থই নেওয়া হোক, বাক্যটি বিষয়টিকে সর্দারদের মজলিস থেকে তুলে নিয়ে যায় আরেক মজলিসে, যেখানে সর্দারদের মাপকাঠি চলে না। দ্বিতীয় অর্থে, তিনি যদি তাড়িয়ে দিতেন, তবে তার জবাবদিহি করতে হতো নূহ (আঃ)-কে নিজেকেই। ১১:৩০ আয়াত সেদিকেই এগোয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ignorant of What Is Owed",
+          "bn": "নিজের দায় না জানা"
+        },
+        "p": [
+          {
+            "en": "Wa lakinni arakum qawman tajhalun: but I see you are a people who behave in ignorance. The ignorance at-Tabari finds is not a lack of facts but of duty. You do not know, he paraphrases, what is binding on you of Allah's right and what His obligations require of you, and it was out of that ignorance that you asked me to drive away those who believed in Allah. Al-Qurtubi places the ignorance in two acts: holding the believers cheap and asking for their expulsion.",
+            "bn": "ওয়া লাকিন্নী আরাকুম কওমান তাজহালূন: কিন্তু আমি দেখছি, তোমরা এমন এক কওম, যারা মূর্খের মতো আচরণ করছ। তাবারী যে অজ্ঞতার কথা বলেন, তা তথ্যের অভাব নয়, কর্তব্য না জানা। তাঁর ব্যাখ্যায়: আল্লাহর যে হক তোমাদের উপর আছে, আর তাঁর ফরজগুলো তোমাদের কাছে যা দাবি করে, তা তোমরা জানো না। সেই অজ্ঞতা থেকেই তোমরা আমাকে বলেছ আল্লাহর প্রতি ঈমান আনা লোকদের তাড়িয়ে দিতে। কুরতুবী অজ্ঞতাটা দেখেন দুটি কাজে: মুমিনদের তুচ্ছ জ্ঞান করা আর তাদের তাড়িয়ে দেওয়ার দাবি তোলা।"
+          },
+          {
+            "en": "As-Sa'di lists three charges against them. They ordered him to drive away the friends of Allah. They rejected the truth because those were the people following it. And they argued that the truth was false from their own words, you are a man like us and you have no merit over us. Ma'arif al-Qur'an sees two extremes in the one ignorance: to them being a man ruled out being a prophet, and then they went the other way and demanded that the poor be put out of his company.",
+            "bn": "সা'দী তাদের বিরুদ্ধে তিনটি অভিযোগ গোনেন। তারা তাঁকে আল্লাহর ওলিদের তাড়িয়ে দিতে বলেছিল। সত্যের অনুসারী ওই মানুষগুলো, এ কারণে তারা সত্যকেই প্রত্যাখ্যান করেছিল। আর সত্য যে মিথ্যা, তার প্রমাণ টেনেছিল নিজেদের কথা থেকে: তুমি আমাদের মতোই মানুষ, আর আমাদের উপর তোমাদের কোনো শ্রেষ্ঠত্ব নেই। মাআরিফুল কুরআন একই অজ্ঞতার ভেতরে দুই প্রান্ত দেখে। তাদের কাছে মানুষ হওয়া মানেই নবী না হওয়া। আবার তারাই উল্টো প্রান্তে গিয়ে দাবি করল, গরিবদের তাঁর সঙ্গ থেকে বের করে দিতে হবে।"
+          },
+          {
+            "en": "None of the commentaries consulted attaches a prophetic narration to this verse; the reports from Ibn Jurayj and Mujahid above are commentators' words. One hadith may be set beside it as a general principle, not as a comment on the verse. Al-Bukhari records it in his Sahih (2896) from Mus'ab ibn Sa'd: Sa'd (RA) thought that he had merit over those below him, and the Prophet ﷺ said: Are you given help and provision except through your weak?",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। উপরে ইবন জুরাইজ ও মুজাহিদের যে বর্ণনা এসেছে, সেগুলো মুফাসসিরদের কথা। একটি হাদীস এর পাশে রাখা যায় সাধারণ মূলনীতি হিসেবে, আয়াতের ব্যাখ্যা হিসেবে নয়। ইমাম বুখারী তাঁর সহীহ গ্রন্থে (২৮৯৬) মুসআব ইবন সা'দ থেকে তা বর্ণনা করেছেন: সা'দ (রাঃ) মনে করলেন, তাঁর চেয়ে নিচের অবস্থানের লোকদের উপর তাঁর শ্রেষ্ঠত্ব আছে। তখন নবী ﷺ বললেন: তোমাদের দুর্বলদের মাধ্যমে ছাড়া কি তোমাদের সাহায্য করা হয় আর রিজিক দেওয়া হয়?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Gets Left Out Today",
+          "bn": "আজ কাকে বাদ রাখা হয়"
+        },
+        "p": [
+          {
+            "en": "First, a plain limit. The verse describes what the chiefs of one people said and what Nuh (AS) answered them, in a story whose end the Qur'an tells. It licenses nothing against any living person or community. It does not make the wealthy or the powerful of any age the heirs of those chiefs, and it hands nobody a word to throw at others. The lowest of us in 11:27 is the chiefs' own phrase; the Qur'an reports it as their speech, and the answer names the same people as those who believed.",
+            "bn": "প্রথমে একটি সোজা সীমারেখা। আয়াতটি বর্ণনা করে এক কওমের সর্দাররা কী বলেছিল আর নূহ (আঃ) তাদের কী জবাব দিয়েছিলেন। এ কাহিনির পরিণতি কুরআন নিজেই জানিয়েছে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে আয়াতটি কিছুরই অনুমতি দেয় না। কোনো যুগের ধনী বা ক্ষমতাবানদের এটি ওই সর্দারদের উত্তরসূরি বানায় না, আর কাউকে এমন শব্দ হাতে দেয় না, যা অন্যের দিকে ছোড়া যায়। ১১:২৭ আয়াতের 'আমাদের সবচেয়ে নিচু লোক' কথাটা সর্দারদের নিজেদের। কুরআন তা তাদের উক্তি হিসেবেই উদ্ধৃত করেছে। আর জবাবে ওই মানুষদেরই পরিচয় দেওয়া হয়েছে, যারা ঈমান এনেছে।"
+          },
+          {
+            "en": "What the verse does reach is two habits. The first is turning service into a transaction. Advice given for a price invites the very suspicion at-Tabari describes, and a teacher, a helper or a volunteer can be paid in other coin than money: thanks, standing, a seat near the front. The second is the trade the chiefs proposed. It rarely arrives as a demand. More often it is a quiet sense that a room would go better if certain people were not in it.",
+            "bn": "আয়াতটি যেখানে সত্যিই পৌঁছায়, তা দুটি অভ্যাস। প্রথমটি হলো খিদমতকে লেনদেন বানিয়ে ফেলা। দাম নিয়ে দেওয়া নসিহত ঠিক সেই সন্দেহই ডেকে আনে, যার কথা তাবারী বলেছেন। আর একজন শিক্ষক, সাহায্যকারী বা স্বেচ্ছাসেবক টাকা ছাড়াও অন্যভাবে দাম নিতে পারেন: ধন্যবাদ, মর্যাদা, সামনের সারিতে একটা আসন। দ্বিতীয়টি সেই বিনিময়, যা সর্দাররা প্রস্তাব করেছিল। তা খুব কমই দাবির আকারে আসে। বেশিরভাগ সময় আসে চুপচাপ এক অনুভূতি হয়ে: অমুক কয়েকজন না থাকলে মজলিসটা ভালো জমত।"
+          },
+          {
+            "en": "So the questions are practical. Whose name drops off the guest list when someone important is coming? Who is never asked to speak at the gathering, never put on the committee, never seated where they can be seen? In Ibn Jurayj's report, Nuh (AS) was offered the chiefs' following at the price of the believers he already had, and he would not pay it. Everyone in both groups was going to meet the same Lord, and he would not rank them by anything that would stay behind.",
+            "bn": "তাই প্রশ্নগুলো বাস্তব। গুরুত্বপূর্ণ কেউ আসছেন শুনলে অতিথির তালিকা থেকে কার নাম বাদ পড়ে যায়? মজলিসে কাকে কখনো কথা বলতে ডাকা হয় না, কমিটিতে রাখা হয় না, এমন জায়গায় বসানো হয় না যেখানে তাকে দেখা যায়? ইবন জুরাইজের বর্ণনায়, নূহ (আঃ)-এর সামনে প্রস্তাব ছিল, যে মুমিনরা তাঁর সঙ্গে আছে তাদের দামে সর্দারদের আনুগত্য কেনার। তিনি সে দাম দিতে রাজি হননি। দুই দলের প্রত্যেকেই চলেছিল একই রবের সঙ্গে সাক্ষাতের দিকে। যা কিছু দুনিয়াতেই পড়ে থাকবে, তা দিয়ে তিনি মানুষকে ছোট-বড় করতে রাজি হননি।"
+          }
+        ]
+      }
+    ]
+  },
   "11:31": {
     "sections": [
       {
