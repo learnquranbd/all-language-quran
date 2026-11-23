@@ -30883,6 +30883,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not stop at wanting this world: the One who holds it holds the Hereafter too, so ask Him for both and aim at what lasts.",
     "lessonBn": "শুধু দুনিয়া চেয়ে থেমে যাবেন না। যিনি দুনিয়ার মালিক, আখিরাতও তাঁরই হাতে। তাই তাঁর কাছে দুটোই চান, আর লক্ষ্য রাখুন যা টিকে থাকে তার দিকে।"
+  },
+  "4:112": {
+    "reflectionEn": "Something goes wrong, and a finger points before the mind has caught up: it was the new colleague, the younger child, the one who was not in the room. This verse names that reflex and weighs it. Whoever earns a fault or a sin and then throws it on someone innocent has picked up a slander and a plain sin on top of it. He wanted to put a weight down, and ends up carrying two. The person he named carries a shame that was never theirs. The verse before it says a sin is earned only against oneself, so throwing it does not move it. When I am caught, whose name is the first one I reach for?",
+    "reflectionBn": "কিছু একটা গোলমাল হলো, আর মাথা কিছু ভাবার আগেই আঙুল উঠে গেল অন্যের দিকে। নতুন সহকর্মী করেছে, ছোট ভাইটা করেছে, কিংবা সেই লোক যে তখন ঘরেই ছিল না। এ আয়াত এই অভ্যাসটার নাম ধরে ডাকে, তারপর তার ওজন মেপে দেয়। কেউ ভুল বা গুনাহ করে যদি তা নির্দোষ কারও ঘাড়ে চাপায়, তবে সে নিজের কাঁধে তুলে নিল অপবাদের বোঝা, সঙ্গে স্পষ্ট গুনাহ। সে চেয়েছিল ভার নামিয়ে রাখতে, শেষে বইতে হলো দুটো ভার। আর যার নাম নেওয়া হলো, সে বয়ে বেড়ায় এমন লজ্জা যা কখনো তার ছিল না। ঠিক আগের আয়াত বলেছে, গুনাহ মানুষ কামায় কেবল নিজেরই বিরুদ্ধে। তাই ছুড়ে দিলেও তা সরে যায় না। ধরা পড়লে সবার আগে আমি কার নাম মুখে আনি?",
+    "pointsEn": [
+      "When something went wrong this week, how long did it take me to say that it was mine?",
+      "Is there anyone whose name still carries blame that was partly or wholly mine, and what would it take to clear it?",
+      "Have I let a wrong assumption about someone stand because correcting it would expose me?",
+      "Before I repeat an accusation, do I stop to ask whether the person named might be innocent?",
+      "What makes owning a fault feel heavier to me than the two loads this verse describes?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে যখন কিছু ভুল হয়েছে, 'এটা আমার দোষ' বলতে আমার কতক্ষণ লেগেছে?",
+      "এমন কেউ কি আছে, যার নামের সঙ্গে এখনো এমন দোষ জুড়ে আছে যার কিছুটা বা পুরোটাই আমার? তা মুছে দিতে আমাকে কী করতে হবে?",
+      "কারও সম্পর্কে ভুল ধারণা কি আমি শুধরে দিইনি, কারণ শুধরালে আমার নিজের কথা বেরিয়ে পড়ত?",
+      "কারও বিরুদ্ধে অভিযোগ মুখে আনার আগে আমি কি একবার ভাবি, যার নাম নিচ্ছি সে হয়তো নির্দোষ?",
+      "নিজের দোষ স্বীকার করাটা আমার কাছে এত ভারী লাগে কেন, যখন এ আয়াত দেখাচ্ছে অন্যের ঘাড়ে চাপালে বইতে হয় দুটো বোঝা?"
+    ],
+    "lessonEn": "When you are caught in a fault, carry it yourself: throwing it on an innocent person does not lighten it, it adds a slander to the sin.",
+    "lessonBn": "দোষে ধরা পড়লে তা নিজেই বহন করুন। নির্দোষ কারও ঘাড়ে চাপালে বোঝা হালকা হয় না, গুনাহর উপর জমা হয় অপবাদের বোঝা।"
   }
 };
 

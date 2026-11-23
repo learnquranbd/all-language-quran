@@ -4451,6 +4451,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "4:112": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Third Road From a Sin",
+          "bn": "গুনাহ থেকে তৃতীয় পথ"
+        },
+        "p": [
+          {
+            "en": "Wa man yaksib khati'atan aw ithman thumma yarmi bihi bari'an fa-qadi htamala buhtanan wa ithman mubina: whoever earns a fault or a sin and then throws it at an innocent person has taken on a slander and a manifest sin. The verse is the third of three sentences in a row that open with wa man, and whoever. 4:110 speaks of the one who does wrong and then seeks Allah's forgiveness. 4:111 speaks of the one who earns a sin, and says he earns it only against himself.",
+            "bn": "ওয়া মান ইয়াকসিব খাতীআতান আও ইসমান সুম্মা ইয়ারমি বিহী বারীআন, ফাকাদিহতামালা বুহতানান ওয়া ইসমান মুবীনা: যে কেউ কোনো ত্রুটি বা গুনাহ কামায়, তারপর তা ছুড়ে দেয় নির্দোষ কারও দিকে, সে নিজের উপর তুলে নিল অপবাদ আর সুস্পষ্ট গুনাহ। পরপর তিনটি বাক্য শুরু হয়েছে ওয়া মান দিয়ে, মানে 'আর যে কেউ'। এটি তার তৃতীয়টি। ৪:১১০ বলে এমন একজনের কথা, যে অন্যায় করে তারপর আল্লাহর কাছে ক্ষমা চায়। ৪:১১১ বলে সেই লোকের কথা, যে গুনাহ কামায়, আর জানিয়ে দেয় সে তা কামায় কেবল নিজেরই বিরুদ্ধে।"
+          },
+          {
+            "en": "4:112 describes a third road out of the same moment. The first person turns to Allah; the second learns that the sin rests on him alone; the third tries to hand it to someone else. Ma'arif al-Qur'an calls this verse a general rule of conduct, set inside a passage about a theft. Ibn Kathir, on 4:111, in the English abridgement that groups 4:110 to 4:115, reads the verse before it beside 35:18: no bearer of burdens bears the burden of another. This verse describes someone who tries anyway.",
+            "bn": "একই মুহূর্ত থেকে বেরোনোর তৃতীয় এক পথের ছবি আঁকে ৪:১১২। প্রথমজন ফেরে আল্লাহর দিকে। দ্বিতীয়জন বোঝে, গুনাহর ভার তার একার কাঁধে। তৃতীয়জন সেটা অন্যের হাতে গছিয়ে দিতে চায়। মাআরিফুল কুরআন এ আয়াতকে বলে আচরণের এক সাধারণ নীতি, যা বসানো হয়েছে এক চুরির ঘটনাকে ঘিরে থাকা আয়াতগুলোর ভেতরে। ইবন কাসীর ৪:১১১-এর আলোচনায় (ইংরেজি সংক্ষিপ্ত সংস্করণে, যেখানে ৪:১১০ থেকে ৪:১১৫ একসঙ্গে) আগের আয়াতটিকে পড়েন ৩৫:১৮-এর পাশে: কোনো বোঝা বহনকারী অন্যের বোঝা বহন করবে না। এ আয়াত সেই লোকের কথা বলে, যে তবুও চেষ্টা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Slip or a Sin",
+          "bn": "অসাবধান ভুল, নাকি জেনেশুনে"
+        },
+        "p": [
+          {
+            "en": "The verse names two things, khati'ah and ithm. Are they different? Al-Qurtubi gives four answers. Some said they mean one thing, repeated in different words for emphasis. At-Tabari, whom he quotes by name, separated them: a khati'ah can be deliberate or not, while ithm is only ever deliberate. Others said a khati'ah is specifically what was not intended, like killing by mistake. And others again said that khati'ah is the minor sin and ithm the major one.",
+            "bn": "আয়াতে দুটি শব্দ: খাতীআহ আর ইসম। দুটো কি আলাদা জিনিস? কুরতুবী চারটি জবাব তুলে ধরেন। কেউ বলেছেন, অর্থ একই, শুধু জোর দেওয়ার জন্য ভিন্ন শব্দে দুবার বলা। তাবারীর নাম নিয়ে তিনি তাঁর মত আনেন: খাতীআহ ইচ্ছায়ও হতে পারে, অনিচ্ছায়ও, কিন্তু ইসম হয় কেবল জেনেশুনে। কারও মতে খাতীআহ শুধু সেটাই যা ইচ্ছা ছাড়া ঘটে, যেমন ভুলবশত হত্যা। আবার কারও মতে খাতীআহ ছোট গুনাহ, আর ইসম বড় গুনাহ।"
+          },
+          {
+            "en": "At-Tabari's own text confirms the line al-Qurtubi quotes from him. Allah separated the two, he says, because one may come about without intent and the other only with it, so the verse means whoever commits a khati'ah without meaning to, or an ithm on purpose. Al-Muyassar reads it the same way: a fault done without intent, or a sin committed deliberately. As-Sa'di runs the opposite way to al-Qurtubi's last report: khati'ah, he says, is a great sin, and ithm whatever is below it.",
+            "bn": "কুরতুবী তাবারী থেকে যে কথা আনেন, তাবারীর নিজের তাফসীরেও তা-ই আছে। তিনি বলেন, আল্লাহ দুটিকে আলাদা করেছেন, কারণ একটা ইচ্ছা ছাড়াও ঘটতে পারে, আর অন্যটা ঘটে কেবল ইচ্ছা করে। তাই আয়াতের মানে: যে না চেয়ে খাতীআহ করে, কিংবা জেনেবুঝে ইসম করে। মুয়াসসারও এভাবেই পড়ে: অনিচ্ছায় হয়ে যাওয়া ত্রুটি, অথবা ইচ্ছা করে করা গুনাহ। সা'দী আবার চলেন কুরতুবীর শেষ বর্ণনার উল্টো দিকে। তাঁর মতে খাতীআহ বড় গুনাহ, আর ইসম তার চেয়ে নিচের।"
+          },
+          {
+            "en": "Al-Baghawi ties both words to the case he has in view: the khati'ah is the theft of a coat of mail, and the ithm is the thief's false oath. The commentators are not reconciled here, and the difference is worth keeping as it stands. What none of them disputes is where the verse turns. However the first wrong is classed, small or great, intended or not, the weight of the sentence falls on what comes after thumma, then: the throwing.",
+            "bn": "বাগাভী শব্দ দুটোকে বেঁধে দেন তাঁর সামনে থাকা ঘটনার সঙ্গে। খাতীআহ হলো একটি বর্ম চুরি, আর ইসম হলো চোরের মিথ্যা কসম। তাফসীরকারদের এ মতভেদ এখানে মেটানো হয়নি, আর যেমন আছে তেমনই রেখে দেওয়া ভালো। তবে আয়াতটা কোথায় মোড় নেয়, তা নিয়ে কারও দ্বিমত নেই। প্রথম অন্যায়টা ছোট হোক বা বড়, ইচ্ছায় হোক বা অনিচ্ছায়, বাক্যের আসল ভার পড়েছে সুম্মা, মানে 'তারপর', শব্দের পরের অংশে: ছুড়ে দেওয়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Aimed at Clean Hands",
+          "bn": "নির্দোষের দিকে ছোড়া দোষ"
+        },
+        "p": [
+          {
+            "en": "Yarmi bihi bari'an: he throws it at an innocent. At-Tabari glosses the phrase as attaching his own error, or the sin he intended, to a person innocent of what he attached to him and ascribed to him. Al-Baghawi and al-Muyassar both explain the verb with yaqdhifu, he hurls. Al-Baghawi: he hurls what he himself committed at one who is free of it. Al-Muyassar names the target with care: an innocent soul that has committed no crime at all.",
+            "bn": "ইয়ারমি বিহী বারীআন: সে তা ছুড়ে মারে নির্দোষ কারও দিকে। তাবারী এর ব্যাখ্যা দেন এভাবে: নিজের ভুল, কিংবা জেনেশুনে করা গুনাহ, সে জুড়ে দেয় এমন একজনের নামে, যে ওই কাজ থেকে সম্পূর্ণ মুক্ত। বাগাভী ও মুয়াসসার দুজনেই ক্রিয়াটির অর্থ করেন ইয়াকযিফু দিয়ে, মানে ছুড়ে মারে। বাগাভীর ভাষায়, নিজে যা করেছে তা সে ছুড়ে মারে এমন লোকের উপর, যে তা থেকে মুক্ত। মুয়াসসার লক্ষ্যটাকে চিনিয়ে দেয় যত্ন করে: এমন এক নির্দোষ প্রাণ, যার কোনো অপরাধই নেই।"
+          },
+          {
+            "en": "A small point of grammar carries a moral one. The verse names two things and then says bihi, it, in the singular. Al-Baghawi says the pronoun returns to the ithm, or that the fault and the sin are treated as one thing. At-Tabari relays the reading that takes it to the ithm, then notes that taking it to both would be sound, since acts, however differently named, come back to one meaning: they are deeds. Al-Qurtubi records a further view, that it refers to the earning itself. Whichever way, what gets thrown is one's own deed.",
+            "bn": "ব্যাকরণের ছোট্ট একটা কথার ভেতরে আছে নৈতিক একটা কথা। আয়াত দুটি জিনিসের নাম নিয়ে তারপর বলে বিহী, মানে 'তা', একবচনে। বাগাভী বলেন, সর্বনামটা ফিরেছে ইসমের দিকে, নয়তো ত্রুটি আর গুনাহকে একটাই জিনিস ধরা হয়েছে। তাবারী সর্বনামটা ইসমের দিকে ফেরানোর মতটা উল্লেখ করেন। তারপর বলেন, দুটোর দিকে ফেরালেও ভুল হতো না, কারণ কাজের নাম যত আলাদাই হোক, সবই শেষে এক অর্থে মেলে: সেগুলো আমল। কুরতুবী আরেকটি মতও আনেন: সর্বনামটা বোঝায় কামাই করার কাজটিকেই। যেভাবেই পড়ুন, যা ছোড়া হয় তা নিজেরই কৃতকর্ম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Loads Instead of One",
+          "bn": "এক বোঝার জায়গায় দুই"
+        },
+        "p": [
+          {
+            "en": "Fa-qadi htamala: he has taken it upon himself, carried it. Al-Qurtubi calls the phrase a comparison: sins are a weight and a burden, so they are spoken of like loads that are carried, and he cites 29:13: they will surely carry their own loads, and other loads along with their loads. As-Sa'di makes the picture physical: he has carried on his back a slander against the innocent and a plain, evident sin. Ma'arif al-Qur'an speaks of an open sin weighing heavy on one's shoulders.",
+            "bn": "ফাকাদিহতামালা: সে তা নিজের উপর তুলে নিল, বয়ে নিল। কুরতুবী বলেন, এখানে একটা উপমা আছে। গুনাহ এক ভারী বোঝা, তাই বহন করা মালের মতো করে তার কথা বলা হয়েছে। সঙ্গে তিনি আনেন ২৯:১৩: তারা অবশ্যই বইবে নিজেদের বোঝা, আর নিজেদের বোঝার সঙ্গে আরও বোঝা। সা'দী ছবিটাকে একেবারে চোখের সামনে এনে দেন: সে নিজের পিঠে তুলে নিল নির্দোষের বিরুদ্ধে অপবাদ, আর খোলাখুলি স্পষ্ট এক গুনাহ। মাআরিফুল কুরআন বলে কাঁধে চেপে বসা প্রকাশ্য গুনাহর কথা।"
+          },
+          {
+            "en": "The irony is in the direction of movement. The man throws something away from himself, and the verse's verb has him picking something up. At-Tabari's paraphrase stresses that he does it knowingly: by that act he has taken on a fabrication, a lie and a great crime, with knowledge and intent of the disobedience he committed. He set out to be rid of one load. He now carries the first wrong, which 4:111 says stays on him, and the slander he added to it.",
+            "bn": "পরিহাসটা লুকিয়ে আছে নড়াচড়ার দিকে। লোকটা নিজের কাছ থেকে কিছু একটা ছুড়ে ফেলে, অথচ আয়াতের ক্রিয়া দেখায় সে কিছু তুলে নিচ্ছে। তাবারীর ব্যাখ্যা জোর দেয় যে সে এটা করে জেনেবুঝে। ওই কাজের মাধ্যমে সে নিজের উপর চাপিয়ে নিল বানোয়াট কথা, মিথ্যা আর বড় এক অপরাধ, নিজের নাফরমানি সম্পর্কে পুরো জেনে এবং ইচ্ছা করে। সে রওনা দিয়েছিল একটা বোঝা থেকে মুক্তি পেতে। এখন সে বইছে প্রথম অন্যায়টা, যা ৪:১১১ অনুযায়ী তার উপরেই থাকে, সঙ্গে নিজের হাতে যোগ করা অপবাদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Lie That Leaves Speechless",
+          "bn": "যে মিথ্যা হতবাক করে দেয়"
+        },
+        "p": [
+          {
+            "en": "Buhtan is the first of the two loads. Al-Baghawi defines it as the lie so enormous that one is left bewildered by it. Al-Qurtubi traces it to bahata: to confront your brother by accusing him of a sin of which he is innocent. He notes the same root in bahita, to be dazed and at a loss, as in 2:258, where the one who disbelieved was left dumbfounded. At-Tabari glosses buhtan plainly as fabrication and lie.",
+            "bn": "দুই বোঝার প্রথমটি বুহতান। বাগাভীর সংজ্ঞায়, বুহতান সেই মিথ্যা যার বিশালতায় মানুষ দিশেহারা হয়ে যায়। কুরতুবী শব্দটির মূল খোঁজেন বাহাতা ক্রিয়ায়: নিজের ভাইয়ের মুখোমুখি হয়ে তার ঘাড়ে এমন গুনাহ চাপানো, যা থেকে সে মুক্ত। একই ধাতু থেকে আসে বাহিতা, মানে হতবুদ্ধি হয়ে যাওয়া, যেমন ২:২৫৮-এ কুফরকারী লোকটি নির্বাক হয়ে গিয়েছিল। তাবারী সোজা কথায় বুহতানের অর্থ বলেন: বানোয়াট কথা আর মিথ্যা।"
+          },
+          {
+            "en": "Al-Qurtubi then brings a narration. Muslim records in his Sahih (2589) from Abu Hurayrah (RA) that the Messenger of Allah ﷺ said: \"Do you know what is backbiting?\" They said: Allah and His Messenger know best. He said: \"Backbiting implies your talking about your brother in a manner which he does not like.\" It was said to him: What is your opinion about this that if I actually find (that failing) in my brother which I made a mention of? He said: \"If (that failing) is actually found (in him) what you assert, you in fact backbited him, and if that is not in him it is a slander.\"",
+            "bn": "এরপর কুরতুবী একটি হাদীস আনেন। ইমাম মুসলিম তাঁর সহীহ গ্রন্থে (২৫৮৯) আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বললেন: \"তোমরা কি জানো গীবত কী?\" তাঁরা বললেন, আল্লাহ ও তাঁর রাসূলই ভালো জানেন। তিনি বললেন: \"তোমার ভাই যা অপছন্দ করে, তার সম্পর্কে সেভাবে কিছু বলা।\" তাঁকে জিজ্ঞেস করা হলো, আমি যা বলি তা যদি সত্যিই আমার ভাইয়ের মধ্যে থাকে, তবে আপনার কী মত? তিনি বললেন: \"তুমি যা বলছ তা যদি তার মধ্যে থাকে, তবে তুমি তার গীবত করলে। আর যদি তার মধ্যে না থাকে, তবে তুমি তাকে অপবাদ দিলে।\""
+          },
+          {
+            "en": "Al-Qurtubi's conclusion takes one line: this is a text, so throwing the innocent is buhtan against him. The narration is general and is not attached to this verse in its own wording; the link is al-Qurtubi's. The second load is ithm mubin, a manifest sin. At-Tabari reads mubin as making plain: a burden that shows, to anyone who knows his affair, the state of the one who carries it, his daring against his Lord, and his pressing on against what He forbade.",
+            "bn": "কুরতুবীর সিদ্ধান্ত একটা লাইনেই: এটা স্পষ্ট দলিল, তাই নির্দোষের উপর দোষ ছোড়া মানে তাকে বুহতান দেওয়া। হাদীসটি সাধারণ কথা, নিজের শব্দে এ আয়াতের সঙ্গে যুক্ত নয়। যোগসূত্রটা কুরতুবীর টানা। দ্বিতীয় বোঝা ইসমুম মুবীন, সুস্পষ্ট গুনাহ। তাবারী মুবীন শব্দের অর্থ করেন 'যা প্রকাশ করে দেয়'। মানে এমন বোঝা, যা তার খবর জানা যে কারও সামনে বহনকারীর আসল চেহারা খুলে দেয়: রবের বিরুদ্ধে তার দুঃসাহস, আর তিনি যা নিষেধ করেছেন তার বিপরীতে তার এগিয়ে যাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Harm That Multiplies",
+          "bn": "এক অন্যায়ে বহু ক্ষতি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws a ruling from the wording: this shows that the act is among the major sins and the ruinous ones, because it gathers several harms at once. He counts them. First, the earning of the fault and the sin. Then accusing someone who did not do it of doing it. Then the ugly lie of clearing oneself and blaming the innocent. Then the worldly penalty, pushed away from the one on whom it was due and brought down on one who does not deserve it.",
+            "bn": "আয়াতের শব্দ থেকে সা'দী একটা হুকুম বের করেন: এ কাজ কবীরা গুনাহর মধ্যে পড়ে, ধ্বংস ডেকে আনা গুনাহগুলোর মধ্যে। কারণ এতে একসঙ্গে অনেকগুলো অনিষ্ট জমা হয়। তিনি সেগুলো গুনে দেখান। প্রথমে ত্রুটি আর গুনাহ কামানো। তারপর যে কাজটা করেনি তার ঘাড়ে সেটা চাপানো। তারপর নিজেকে নির্দোষ সাজিয়ে আর নির্দোষকে দোষী বানিয়ে জঘন্য মিথ্যা বলা। তারপর দুনিয়ার শাস্তি, যা যার প্রাপ্য তার উপর থেকে সরে গিয়ে নেমে আসে এমন লোকের উপর, যে তার যোগ্য নয়।"
+          },
+          {
+            "en": "His last item reaches furthest: what follows from it in people's talk about the innocent person, and other harms besides, from which, he says, we ask Allah for safety. The list explains the weight of the verdict. A theft wrongs an owner. A theft thrown on someone else wrongs the owner, then the accused, then whoever is asked to judge on a false account, and then everyone who goes on repeating a name that was never guilty.",
+            "bn": "তাঁর শেষ কথাটা যায় সবচেয়ে দূরে: এর ফলে নির্দোষ লোকটিকে নিয়ে মানুষের মুখে মুখে যে কথা চলে, আর এমন আরও অনেক অনিষ্ট, যা থেকে আমরা আল্লাহর কাছে নিরাপত্তা চাই। এই তালিকা দেখিয়ে দেয় রায়টা কেন এত ভারী। চুরি হলে ক্ষতি হয় মালিকের। কিন্তু সেই চুরি অন্যের ঘাড়ে চাপালে ক্ষতি হয় মালিকের, তারপর অভিযুক্তের, তারপর মিথ্যা বিবরণ শুনে যাকে বিচার করতে বলা হলো তার, আর শেষে তাদের সবার, যারা এমন এক নাম মুখে মুখে ফেরায় যে কখনো দোষী ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Name Was Thrown",
+          "bn": "কার নামে দোষ ছোড়া হলো"
+        },
+        "p": [
+          {
+            "en": "The commentators read the verse against a particular case, told at length in the 4:110 article and not retold here. At-Tabari says the people of interpretation all agreed that the one who threw the blame was Ibn Ubayriq, whose affair he had already described. They differed over the innocent. Some said Allah meant a man of the Muslims called Labid ibn Sahl; others said a Jewish man called Zayd ibn as-Samin. At-Tabari records Ibn Sirin among the latter, glossing bari'an with a single word: a Jew.",
+            "bn": "তাফসীরকারেরা আয়াতটি পড়েন নির্দিষ্ট এক ঘটনার আলোয়। ৪:১১০-এর প্রবন্ধে সে ঘটনা বিস্তারিত বলা আছে, এখানে আর বলা হচ্ছে না। তাবারী বলেন, তাফসীরবিদেরা সবাই একমত যে দোষ ছুড়েছিল ইবন উবাইরিক, যার কথা তিনি আগেই বলে এসেছেন। মতভেদ হয়েছে নির্দোষ লোকটিকে নিয়ে। কেউ বলেছেন, আল্লাহ বুঝিয়েছেন লাবীদ ইবন সাহল নামে এক মুসলিমকে। অন্যরা বলেছেন, যায়দ ইবন আস-সামীন নামে এক ইহুদিকে। তাবারী দ্বিতীয় দলে ইবন সীরীনের নাম আনেন, যিনি বারীআন শব্দের ব্যাখ্যা দিয়েছেন এক শব্দে: একজন ইহুদি।"
+          },
+          {
+            "en": "Ibn Kathir keeps both names open, the righteous Labid ibn Sahl or Zayd ibn as-Samin, and says the accused was innocent while the household were the wrongdoers. Al-Baghawi reads the verse on the theft of a coat of mail and its attribution to the Jewish man. At-Tirmidhi records a long account from Qatadah ibn an-Nu'man (RA) about this household and grades it gharib, noting that only one narrator gave it a connected chain while others relayed it mursal. Nothing here is built on its details.",
+            "bn": "ইবন কাসীর দুটো নামই খোলা রাখেন: নেককার লাবীদ ইবন সাহল, অথবা যায়দ ইবন আস-সামীন। তিনি বলেন, অভিযুক্ত লোকটি ছিল নির্দোষ, আর ওই পরিবারের লোকেরাই ছিল জালিম। বাগাভী আয়াতটি পড়েন একটি বর্ম চুরি আর সেই চুরি ইহুদি লোকটির নামে চাপানোর প্রসঙ্গে। তিরমিযী কাতাদা ইবনুন নু'মান (রাঃ) থেকে এই পরিবার সম্পর্কে দীর্ঘ এক বর্ণনা এনেছেন এবং একে গরীব বলেছেন। তাঁর মন্তব্য, কেবল একজন বর্ণনাকারী এর সনদ মুত্তাসিল করে বর্ণনা করেছেন, অন্যরা করেছেন মুরসাল হিসেবে। এখানে তার খুঁটিনাটির উপর কিছু দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the reports describe: one false charge, in one household's case, long ago. It licenses nothing against any living person or community, not against Muslims or Jews, and not against any family that shares a name with anyone in these reports. Ibn Kathir turns the rebuke outward: it falls on them and on whoever takes on their description and commits a sin like theirs. Al-Qurtubi says the same of the wording: it is general, covering the people of the incident and others.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। বর্ণনাগুলো যা বলে, আয়াতও সেটুকুই বলে: অনেক আগের, এক পরিবারের ঘটনায়, একটি মিথ্যা অভিযোগ। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। মুসলিমদের বিরুদ্ধে না, ইহুদিদের বিরুদ্ধে না, আর এসব বর্ণনার কারও সঙ্গে নাম মিলে যায় এমন কোনো পরিবারের বিরুদ্ধেও না। ইবন কাসীর তিরস্কারটা বাইরের দিকে ঘুরিয়ে দেন: তা পড়ে তাদের উপর, আর তাদের উপরও যারা তাদের স্বভাব ধরে আর তাদের মতো গুনাহ করে। কুরতুবীও শব্দ নিয়ে একই কথা বলেন: শব্দটা সাধারণ, ঘটনার লোকেরা ও অন্যরা সবাই এর আওতায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Finger Turns Outward",
+          "bn": "আঙুল যখন অন্যের দিকে"
+        },
+        "p": [
+          {
+            "en": "Few readers will ever frame a neighbour for a theft. The reflex this verse weighs is smaller and far more common. A report is late, and the delay is put on a colleague who is not there to answer. A glass is broken, and a child says his brother did it; a parent does the same over a missed bill. A rumour starts with a guess about who said something, and the guess hardens into a name. Each time the first wrong may be small. The throwing is what the verse weighs.",
+            "bn": "প্রতিবেশীর ঘাড়ে চুরির দায় চাপাবেন, এমন পাঠক খুব কমই আছেন। এ আয়াত যে অভ্যাসকে মাপে, তা আরও ছোট, আরও চেনা। রিপোর্ট দেরিতে জমা পড়ল, আর দায়টা গেল সেই সহকর্মীর ঘাড়ে, যে তখন উত্তর দিতে সামনে নেই। গ্লাস ভাঙল, বাচ্চা বলল ভাইয়া ভেঙেছে। বিল দিতে ভুলে গিয়ে বাবা-মাও একই কাজ করেন। কে কী বলেছে, তা নিয়ে একটা আন্দাজ থেকে গুজব শুরু হয়, তারপর আন্দাজটা জমাট বেঁধে হয়ে যায় একটা নাম। প্রতিবারই প্রথম ভুলটা হয়তো ছোট। আয়াত ওজন করে ছুড়ে দেওয়াটাকে।"
+          },
+          {
+            "en": "The repair runs back along the same line. If my fault has landed on someone, as-Sa'di's list shows where the harm now lives: in a penalty that fell on the wrong person and in other people's talk about them. So the first step is to say so to those who heard the blame, not only to Allah in private. 4:110, two verses earlier, keeps the door open to whoever does a wrong and then seeks Allah's forgiveness. Walking through it here includes going back for the name that was used.",
+            "bn": "মেরামতের পথও চলে একই রেখা ধরে, উল্টো দিকে। আমার দোষ যদি কারও উপর গিয়ে পড়ে থাকে, তবে ক্ষতিটা এখন কোথায় বাস করছে, সা'দীর তালিকাই তা দেখিয়ে দেয়: ভুল মানুষের উপর পড়া শাস্তিতে, আর তাকে নিয়ে মানুষের কথাবার্তায়। তাই প্রথম কাজ, যারা দোষারোপটা শুনেছে তাদের কাছে সত্যটা বলা, শুধু একান্তে আল্লাহর কাছে বলা নয়। দুই আয়াত আগে ৪:১১০ দরজা খোলা রেখেছে তার জন্য, যে অন্যায় করে তারপর আল্লাহর কাছে ক্ষমা চায়। এখানে সে দরজা দিয়ে ঢোকার মধ্যে পড়ে, যার নাম ব্যবহার করা হয়েছিল তার কাছে ফিরে যাওয়াও।"
+          },
+          {
+            "en": "And there is a smaller guard, before anything is said at all. When I am caught, the half-second before I speak decides which of the three roads I take: the turn of 4:110, the plain ownership of 4:111, or the throw of 4:112. The first two leave me with one load and a way to set it down. The third leaves me with two, and leaves someone else carrying a shame that was never theirs, until somebody tells the truth.",
+            "bn": "আর একটা ছোট পাহারা আছে, মুখ খোলার আগেই। ধরা পড়ার পর কথা বলার আগের সেই আধা সেকেন্ডেই ঠিক হয়ে যায়, তিনটি পথের কোনটা আমি নেব: ৪:১১০-এর ফিরে আসা, ৪:১১১-এর সোজা স্বীকার, নাকি ৪:১১২-এর ছুড়ে দেওয়া। প্রথম দুটি পথে আমার কাঁধে থাকে একটা বোঝা, আর সেটা নামিয়ে রাখার উপায়। তৃতীয় পথে বোঝা হয় দুটো। আর আরেকজন বয়ে বেড়ায় এমন লজ্জা, যা কখনো তার ছিল না, যতদিন না কেউ সত্যটা বলে।"
+          }
+        ]
+      }
+    ]
+  },
   "4:116": {
     "sections": [
       {
