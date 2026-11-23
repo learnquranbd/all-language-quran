@@ -32603,6 +32603,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold yourself to what you were commanded and away from what you were forbidden, and keep going when it feels unseen: Allah lets no good deed be lost.",
     "lessonBn": "যা আদেশ করা হয়েছে তাতে নিজেকে বেঁধে রাখুন, যা নিষেধ করা হয়েছে তা থেকে দূরে রাখুন, আর কেউ না দেখলেও থামবেন না: আল্লাহ কোনো নেক আমল নষ্ট করেন না।"
+  },
+  "11:85": {
+    "reflectionEn": "Shu'ayb (AS) has already forbidden the short measure. Now he turns the same instruction around and asks for the full one, given with justice. Then he widens it: do not shortchange people in their things, and do not go about the earth spreading ruin. The scale is only where the verse begins. A person can be shorted in a wage, in time, in credit for their work, in an honest account of what they are buying. Each small shortfall feels like a private gain, yet the verse sets it beside corruption in the land. The full measure is not generosity. It is simply what already belongs to the other person. What am I holding back that was never mine to keep?",
+    "reflectionBn": "কম মাপ দেওয়া শু'আয়ব (আঃ) আগেই নিষেধ করেছেন। এবার একই কথা উল্টো দিক থেকে বলছেন: মাপ পুরো দাও, ইনসাফের সঙ্গে দাও। তারপর কথাটা আরও ছড়িয়ে দিচ্ছেন। মানুষকে তাদের কোনো জিনিসে কম দিও না, আর জমিনে ফাসাদ ছড়িয়ে বেড়িও না। দাঁড়িপাল্লা দিয়ে আয়াতের শুরু মাত্র। মানুষকে কম দেওয়া যায় মজুরিতে, সময়ে, তার কাজের স্বীকৃতিতে, কিংবা যা সে কিনছে তার সৎ বিবরণে। প্রতিটি ছোট ঘাটতি মনে হয় নিজের একটুখানি লাভ। অথচ আয়াত সেটাকে রেখেছে জমিনে ফাসাদের পাশে। পুরো মাপ দেওয়া কোনো দয়া নয়। ওটা তো আগে থেকেই অন্যজনের পাওনা। যা কখনো আমার ছিলই না, তার কোনটা আমি আটকে রেখেছি?",
+    "pointsEn": [
+      "Where do I insist on the full measure when I receive, and quietly hand over less when I give?",
+      "Whose due do I shorten in ways no scale would record: a wage, a deadline, a word of credit, an honest description?",
+      "Has the standard I measure by slipped below what others assume it to be, without anyone noticing, including me?",
+      "Do I call a small shortfall a margin when the verse places it beside corruption in the land?",
+      "Is there something I kept back from someone that I can still return this week?"
+    ],
+    "pointsBn": [
+      "নেওয়ার সময় আমি কোথায় পুরো মাপ আদায় করে ছাড়ি, অথচ দেওয়ার সময় চুপচাপ কম ধরিয়ে দিই?",
+      "কোনো দাঁড়িপাল্লায় যা ধরা পড়ে না, এমনভাবে কার পাওনা আমি কমিয়ে দিই? মজুরিতে, কথা দেওয়া সময়ে, প্রাপ্য প্রশংসায়, নাকি সৎ বিবরণে?",
+      "আমার নিজের মাপকাঠি কি অন্যদের ধারণার চেয়ে নিচে নেমে গেছে, আর কেউ টেরও পায়নি, আমি নিজেও না?",
+      "আয়াত যে ছোট ঘাটতিকে জমিনে ফাসাদের পাশে রেখেছে, আমি কি তাকে শুধু একটু মুনাফা বলে চালিয়ে দিই?",
+      "কারও কাছ থেকে আটকে রাখা এমন কিছু কি আছে, যা এ সপ্তাহেই ফিরিয়ে দেওয়া যায়?"
+    ],
+    "lessonEn": "Give the full measure, and with justice: no one is to be shortchanged in anything that is theirs. A shortfall kept quietly is still counted among the ways the earth is spoiled.",
+    "lessonBn": "মাপ পুরো দিন, ইনসাফের সঙ্গে দিন। কারও কোনো পাওনায় কম দেওয়া চলবে না। চুপচাপ রেখে দেওয়া ঘাটতিও জমিন নষ্ট করার পথগুলোর একটি।"
   }
 };
 

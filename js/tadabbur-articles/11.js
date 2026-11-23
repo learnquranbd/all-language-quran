@@ -3943,6 +3943,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "11:85": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Ban, Then the Command",
+          "bn": "নিষেধের পরে আদেশ"
+        },
+        "p": [
+          {
+            "en": "The verse continues a speech that began at 11:84. There Shu'ayb (AS), sent to Madyan, called them to worship Allah alone and forbade them to diminish the measure and the scale. Now he opens again with wa ya qawmi, and O my people, a fresh address inside the same speech, and says the same thing a second time in positive form. Just before, the account of Lut (AS) has closed; just after, 11:86 tells them that what Allah leaves them is better. This verse holds the instruction itself.",
+            "bn": "আয়াতটি ১১:৮৪-এ শুরু হওয়া এক ভাষণেরই ধারাবাহিকতা। সেখানে মাদইয়ানে প্রেরিত শু'আয়ব (আঃ) তাদের এক আল্লাহর ইবাদতের দিকে ডেকেছেন, আর মাপ ও ওজনে কম দিতে নিষেধ করেছেন। এখানে তিনি আবার ডাক দিয়ে শুরু করছেন: ওয়া ইয়া কাওমি, হে আমার সম্প্রদায়। একই ভাষণের ভেতরে নতুন করে সম্বোধন, আর একই কথা এবার ইতিবাচক রূপে। ঠিক আগে লূত (আঃ)-এর কাহিনি শেষ হয়েছে। ঠিক পরে ১১:৮৬ বলছে, আল্লাহ যা তাদের জন্য রেখে দেন সেটাই উত্তম। মাঝখানের এই আয়াতে আছে মূল নির্দেশটা।"
+          },
+          {
+            "en": "Why say it twice? Al-Qurtubi answers in a phrase: the command to give full measure comes after the prohibition of tatfif, short-measuring, as ta'kid, emphasis. Ma'arif al-Qur'an makes the same point at more length. The very prohibition of measuring short already makes measuring in full necessary, it observes, and Shu'ayb (AS) said it in positive form to emphasize it further. On this reading the second sentence adds weight rather than new content, the way a teacher repeats the one rule that matters most.",
+            "bn": "একই কথা দুবার কেন? কুরতুবী অল্প কথায় জবাব দেন। তাতফীফ, অর্থাৎ মাপে কম দেওয়ার নিষেধের পরে পুরো মাপ দেওয়ার আদেশ এসেছে তাকীদের জন্য, মানে জোর দিতে। মাআরিফুল কুরআন একই কথা একটু বিস্তারে বলে। কম মাপা নিষেধ হলে পুরো মাপা তো এমনিতেই জরুরি হয়ে যায়। তবু কথাটায় আরও জোর দিতে শু'আয়ব (আঃ) ইতিবাচক ভাষায় তা বলেছেন। এই পাঠে দ্বিতীয় বাক্য নতুন বিষয় যোগ করে না, ভার যোগ করে। শিক্ষক যেমন সবচেয়ে জরুরি নিয়মটা দ্বিতীয়বার বলেন।"
+          },
+          {
+            "en": "Ibn Kathir finds a difference between the two sentences. In his account Shu'ayb (AS) first forbade them to reduce the measure and weight when they gave to people, and then commanded full measure and weight with justice, akhidhina wa mu'tina, whether taking or giving. The first sentence closes one direction of the cheat; the second binds both. On his reading the repetition widens the rule, from the hand that pays out to the hand that receives as well.",
+            "bn": "ইবন কাসীর দুই বাক্যের মধ্যে একটা পার্থক্য দেখেন। তাঁর বর্ণনায় শু'আয়ব (আঃ) প্রথমে নিষেধ করেছেন মানুষকে দেওয়ার সময় মাপ ও ওজন কমাতে। তারপর আদেশ দিয়েছেন ইনসাফের সঙ্গে পুরো মাপ ও ওজনের, আখিযীনা ওয়া মু'তীন, অর্থাৎ নেওয়ার সময়ও, দেওয়ার সময়ও। প্রথম বাক্য প্রতারণার একটা দিক বন্ধ করে। দ্বিতীয় বাক্য দুই দিককেই বেঁধে দেয়। তাঁর পাঠে পুনরাবৃত্তি নিয়মটাকে বড় করে। যে হাত দেয় শুধু সে নয়, যে হাত নেয় সেও এর আওতায় আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Clauses, Fourteen Words",
+          "bn": "চৌদ্দ শব্দে তিনটি হুকুম"
+        },
+        "p": [
+          {
+            "en": "The verse is 14 Arabic words, counted without the recitation marks. After the address come three clauses, one command and two prohibitions. Awfu al-mikyala wal-mizana bil-qist: give full the measure and the scale with justice. Wa la tabkhasu an-nasa ashya'ahum: do not deprive people of their things. Wa la ta'thaw fil-ardi mufsidin: do not act wickedly in the land, working corruption. The first clause names instruments, the second names people, and the third names the whole earth.",
+            "bn": "যতিচিহ্ন বাদ দিয়ে গুনলে আয়াতে আরবি শব্দ ১৪টি। সম্বোধনের পরে তিনটি অংশ: একটি আদেশ, দুটি নিষেধ। আওফুল মিকইয়ালা ওয়াল মীযানা বিল কিসত: মাপ ও ওজন ইনসাফের সঙ্গে পুরো করো। ওয়া লা তাবখাসুন নাসা আশইয়াআহুম: মানুষকে তাদের জিনিসপত্রে কম দিও না। ওয়া লা তা'সাও ফিল আরদি মুফসিদীন: ফাসাদ করে জমিনে অনাচার ছড়িও না। প্রথম অংশে আছে মাপের যন্ত্র, দ্বিতীয় অংশে মানুষ, আর তৃতীয় অংশে গোটা জমিন।"
+          },
+          {
+            "en": "Awfu means atimmu, make complete, and al-Qurtubi notices what is to be made complete. The verse does not say awfu bil-mikyal, give full by the measure; the measure itself is the object. So the point, he says, is not only the goods poured out but the vessel: do not let the measuring vessel fall below its customary size, and the same for the weights, as-sanajat. Behind both he states the aim of the whole command, that every holder of a share should reach his share.",
+            "bn": "আওফূ মানে আতিম্মূ, পুরো করো। কুরতুবী খেয়াল করেন, পুরো করতে বলা হচ্ছে কোন জিনিসকে। আয়াত বলেনি আওফূ বিল মিকইয়াল, অর্থাৎ পাত্র দিয়ে পুরো মেপে দাও। এখানে মাপের পাত্রটাই কর্ম। তাই তাঁর মতে কথাটা শুধু ঢেলে দেওয়া পণ্যের নয়, পাত্রটারও। মাপের পাত্র যেন প্রচলিত আকারের চেয়ে ছোট না হয়, বাটখারাগুলোর বেলাতেও একই কথা। এর পেছনের উদ্দেশ্যও তিনি বলে দেন: যার যতটুকু অংশ, সে যেন ঠিক ততটুকুই পায়।"
+          },
+          {
+            "en": "The last word carries grammar too. Al-Jalalayn derives la ta'thaw from 'athiya, meaning afsada, he corrupted, and calls mufsidin a circumstantial qualifier that reiterates the sense of the verb governing it. The verb already means to spread ruin; the participle says it again, as the state of the one doing it. The same two prohibitions recur word for word at 26:183, where Shu'ayb (AS) speaks to the people of the Thicket just after telling them to weigh with the straight balance.",
+            "bn": "শেষ শব্দটাতেও ব্যাকরণের কথা আছে। জালালাইন বলেন, লা তা'সাও এসেছে আসিয়া থেকে, যার মানে আফসাদা, সে বিপর্যয় ঘটাল। আর মুফসিদীন হলো অবস্থাবাচক পদ, যা আগের ক্রিয়ার অর্থটাকেই আবার জোর দিয়ে বলে। ক্রিয়াটাই অনাচার ছড়ানো বোঝায়, তারপর কর্তার অবস্থা হিসেবে একই কথা আবার আসে। এই দুই নিষেধ হুবহু একই শব্দে ফিরে আসে ২৬:১৮৩-এ। সেখানে শু'আয়ব (আঃ) আইকাবাসীদের সঠিক দাঁড়িপাল্লায় ওজন করতে বলার ঠিক পরে কথাটা বলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Justice and the Scale's Tongue",
+          "bn": "ইনসাফ আর পাল্লার কাঁটা"
+        },
+        "p": [
+          {
+            "en": "Bil-qist. At-Tabari glosses it as bil-'adl, with justice, and spells out what that requires: that you give the holders of rights in what is measured or weighed their rights, in the completeness owed to them, without bakhs and without shortfall. Al-Muyassar and al-Baghawi give the same one-word gloss, justice. At-Tabari's wording is worth a second look. He does not describe the goods at all. He describes people, ahl al-huquq, those to whom something is owed.",
+            "bn": "বিল কিসত। তাবারী এর অর্থ করেন বিল আদল, ইনসাফের সঙ্গে। তারপর খুলে বলেন এর দাবি কী। যা মাপা হয় বা ওজন করা হয়, তাতে যাদের হক আছে, তাদের হক তাদের প্রাপ্য পূর্ণতায় বুঝিয়ে দিতে হবে, কোনো বাখস বা ঘাটতি ছাড়া। মুয়াসসার আর বাগাভীও এক শব্দে একই অর্থ দেন: ইনসাফ। তাবারীর ভাষা আরেকবার পড়ার মতো। তিনি পণ্যের বর্ণনাই দেন না। বর্ণনা দেন মানুষের: আহলুল হুকূক, যাদের কিছু পাওনা আছে।"
+          },
+          {
+            "en": "As-Sa'di frames the justice from the trader's own side: bil-qist means with the justice you would be satisfied with, alladhi tardawna an tu'tawhu. The measure is checked against what its holder would accept. The opposite habit is described in plain terms at 83:1, 83:2 and 83:3, where woe is pronounced on those who take in full when they measure from people, and cause loss when they measure or weigh for them. A separate standard for each direction is exactly what the verse forbids.",
+            "bn": "সা'দী ইনসাফটাকে দেখেন ব্যবসায়ীর নিজের জায়গা থেকে। বিল কিসত মানে সেই ইনসাফ, যাতে তোমরা নিজেরা সন্তুষ্ট থাকতে: আল্লাযী তারদাওনা আন তু'তাওহু। মাপ যার হাতে, সে নিজে কোন মাপ মেনে নিত, সেটাই এখানে কষ্টিপাথর। উল্টো অভ্যাসটার সোজা বিবরণ আছে ৮৩:১, ৮৩:২ ও ৮৩:৩ আয়াতে। সেখানে ধ্বংস ঘোষণা করা হয়েছে তাদের জন্য, যারা মানুষের কাছ থেকে মেপে নেওয়ার সময় পুরো নেয়, আর মেপে বা ওজন করে দেওয়ার সময় কম দেয়। নেওয়ার জন্য আলাদা মাপ, দেওয়ার জন্য আলাদা মাপ, ঠিক এটাই আয়াত নিষেধ করছে।"
+          },
+          {
+            "en": "Al-Baghawi records a second sense under qila, it was said: bi-taqwim lisan al-mizan, by setting the tongue of the scale straight. The tongue is the pointer of a balance, the needle that shows whether the pans hang level. On this reading justice begins before any goods change hands, in making sure the instrument tells the truth. It sits naturally beside al-Qurtubi's vessel of customary size. Both look past the sale to the tool that decides it.",
+            "bn": "বাগাভী 'বলা হয়েছে' কথাটি দিয়ে আরেকটি অর্থ উল্লেখ করেন: বি তাকবীমি লিসানিল মীযান, পাল্লার কাঁটা সোজা রেখে। কাঁটা হলো দাঁড়িপাল্লার মাঝখানের সূচক, যা দেখায় দুই দিকের পাল্লা সমান ঝুলছে কি না। এই অর্থে পণ্য হাতবদলের আগেই ইনসাফ শুরু হয়ে যায়। আগে নিশ্চিত করতে হয় যন্ত্রটা সত্যি বলছে। কুরতুবীর প্রচলিত আকারের পাত্রের কথার পাশে এটা সহজেই বসে যায়। দুজনেই বেচাকেনা পেরিয়ে তাকান সেই যন্ত্রের দিকে, যা বেচাকেনার ফয়সালা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Things, Not Only Grain",
+          "bn": "শুধু শস্য নয়, তাদের সব জিনিস"
+        },
+        "p": [
+          {
+            "en": "Wa la tabkhasu an-nasa ashya'ahum. Al-Qurtubi and al-Baghawi both gloss the verb as la tanqusu, do not reduce. What draws the commentators is the object. The verse could have said do not shortchange people in their measures. It says ashya'ahum, their things, a word as wide as anything a person can own or be owed. Two lines of reading follow from that width, and the commentaries fetched for this verse take both.",
+            "bn": "ওয়া লা তাবখাসুন নাসা আশইয়াআহুম। কুরতুবী ও বাগাভী দুজনেই ক্রিয়াটির অর্থ করেন লা তানকুসূ, কমিয়ে দিও না। তাফসীরকারদের নজর কাড়ে কর্মপদটা। আয়াত বলতে পারত, মাপে মানুষকে কম দিও না। কিন্তু বলেছে আশইয়াআহুম, তাদের জিনিসপত্র। মানুষ যা কিছুর মালিক হতে পারে বা যা কিছু তার পাওনা হতে পারে, সবই এ শব্দের ভেতরে আঁটে। এই ব্যাপ্তি থেকে দুই রকম পাঠ আসে, আর এ আয়াতের জন্য পড়া তাফসীরগুলোতে দুটোই আছে।"
+          },
+          {
+            "en": "At-Tabari reads it wide: do not reduce people's rights that you are obliged to give them in full, kaylan aw waznan aw ghayra dhalik, by measure, by weight, or otherwise. Al-Muyassar says the same in its own words: do not reduce people's due fi 'umumi ashya'ihim, across all their things. At-Tabari also brings two early glosses. Qatadah's is do not wrong people in their things. Ali ibn Salih ibn Hayy's, which he introduces with balaghani, it reached me, is do not reduce them.",
+            "bn": "তাবারী একে ব্যাপক অর্থে পড়েন। মানুষের যে হক পুরোপুরি বুঝিয়ে দেওয়া তোমাদের উপর ওয়াজিব, তা কমিয়ো না, কাইলান আও ওয়াযনান আও গাইরা যালিক: মাপে, ওজনে, কিংবা অন্য কিছুতে। মুয়াসসারও নিজের ভাষায় একই কথা বলে। মানুষের পাওনা কমিয়ো না, ফী উমূমি আশইয়াইহিম, তাদের সব রকম জিনিসে। তাবারী প্রথম যুগের দুটি ব্যাখ্যাও আনেন। কাতাদার কথা: মানুষের জিনিসে তাদের উপর জুলুম করো না। আলী ইবন সালিহ ইবন হাইয়ের কথা, যা তিনি শুরু করেন 'আমার কাছে পৌঁছেছে' বলে: তাদের কম দিও না।"
+          },
+          {
+            "en": "As-Sa'di reads it close to the scale: do not reduce people's things and so steal them by taking them, through shortening the measure and the weight. His word for it is theft, blunter than any of the others. Al-Qurtubi, for his part, refers the reader back to his comment on al-A'raf. At 7:85, where the same clause occurs, he lists its forms: finding fault with goods and talking down their worth, deceiving someone about the price, and tricks of adding to or taking from the measure. All of that, he says, is consuming wealth by falsehood.",
+            "bn": "সা'দী একে পড়েন দাঁড়িপাল্লার কাছাকাছি রেখে। মানুষের জিনিস কমিয়ে দিও না, মাপ ও ওজন কমিয়ে তা নিয়ে নিয়ে চুরি করো না। তাঁর শব্দটা চুরি, অন্য সবার চেয়ে কড়া। কুরতুবী আবার পাঠককে পাঠিয়ে দেন সূরা আ'রাফে তাঁর আলোচনার দিকে। ৭:৮৫ আয়াতে একই বাক্যাংশ আছে, আর সেখানে তিনি এর রূপগুলো গুনে দেন। পণ্যের দোষ ধরে তার কদর কমানো, দাম নিয়ে কাউকে ধোঁকা দেওয়া, আর মাপে বাড়ানো-কমানোর কৌশল। তাঁর কথায় এর সবই অন্যায়ভাবে মানুষের সম্পদ খাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Corruption Is Meant",
+          "bn": "কোন ফাসাদের কথা বলা হলো"
+        },
+        "p": [
+          {
+            "en": "Wa la ta'thaw fil-ardi mufsidin. At-Tabari reads it as do not go about the land doing acts of disobedience to Allah in it, and al-Muyassar follows him closely, adding the spreading of corruption. At-Tabari then gives Qatadah's terse gloss, do not go about in the land, and a report from ad-Dahhak, which he introduces with I was told: do not strive in the land as corrupters, meaning the shortening of measure and weight.",
+            "bn": "ওয়া লা তা'সাও ফিল আরদি মুফসিদীন। তাবারী এর অর্থ করেন: জমিনে ঘুরে ঘুরে আল্লাহর নাফরমানি করে বেড়িও না। মুয়াসসার প্রায় তাঁরই কথা বলে, সঙ্গে যোগ করে ফাসাদ ছড়ানোর কথা। তারপর তাবারী আনেন কাতাদার ছোট্ট ব্যাখ্যা: জমিনে ঘুরে বেড়িও না। আর দাহহাকের একটি বর্ণনা, যা তিনি শুরু করেন 'আমাকে জানানো হয়েছে' বলে। তাতে আছে: ফাসাদকারী হয়ে জমিনে দৌড়ঝাঁপ করো না। দাহহাকের মতে এর মানে মাপ ও ওজনে কম দেওয়া।"
+          },
+          {
+            "en": "So what is the corruption? On ad-Dahhak's report it is the short measure itself, named a second time. Ibn Kathir names something else: they used to cut the roads, kanu yaqta'una at-tariq, which his abridged English rendering gives as highway robbery. Al-Qurtubi binds the clause to what precedes it, saying the verse shows that betrayal in the measure and the scale is an extreme of corruption in the land. The difference is real. On ad-Dahhak's reading the third clause sums up what came before it; on Ibn Kathir's it adds a new crime.",
+            "bn": "তাহলে ফাসাদটা কী? দাহহাকের বর্ণনা অনুযায়ী এটা কম মাপই, দ্বিতীয়বার যার নাম নেওয়া হলো। ইবন কাসীর অন্য জিনিসের নাম নেন: কানূ ইয়াকতাঊনাত তারীক, তারা পথে ডাকাতি করত। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণেও একে রাহাজানি বলা হয়েছে। কুরতুবী বাক্যাংশটাকে আগের অংশের সঙ্গে জুড়ে দেন। তাঁর কথায় আয়াতটি দেখিয়ে দেয়, মাপ ও ওজনে খিয়ানত জমিনে ফাসাদের চরম রূপ। পার্থক্যটা সত্যিকারের। দাহহাকের পাঠে তৃতীয় অংশ আগের কথারই সারকথা। ইবন কাসীরের পাঠে তা নতুন আরেক অপরাধ।"
+          },
+          {
+            "en": "As-Sa'di reads the clause the widest of all. Persisting in sins, he writes, corrupts faiths and beliefs, religion and this world, and destroys tillage and offspring, wa yuhliku al-hartha wan-nasl. Those last words are the wording of 2:205, which describes a man who strives in the land to corrupt it. For him the clause is a warning about where a tolerated sin leads, more than a list of offences. The commentators leave these readings side by side, and so does this page.",
+            "bn": "সা'দী বাক্যাংশটা পড়েন সবচেয়ে বড় পরিসরে। তাঁর কথায়, গুনাহের উপর লেগে থাকা দ্বীন ও আকীদা নষ্ট করে, ধর্ম ও দুনিয়া দুটোই বরবাদ করে, আর ফসল ও বংশ ধ্বংস করে: ওয়া ইউহলিকুল হারসা ওয়ান নাসল। শেষ শব্দগুলো ২:২০৫ আয়াতেরই ভাষা। সেখানে বর্ণনা আছে এমন লোকের, যে জমিনে ফাসাদ করতে দৌড়ঝাঁপ করে। সা'দীর কাছে এই অংশ অপরাধের তালিকার চেয়ে বেশি এক সতর্কবাণী: সয়ে যাওয়া গুনাহ শেষে কোথায় নিয়ে যায়। তাফসীরকারেরা পাঠগুলো পাশাপাশি রেখে দেন, এ লেখাও তাই রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Measure Commanded Beyond Madyan",
+          "bn": "মাদইয়ানের বাইরেও একই হুকুম"
+        },
+        "p": [
+          {
+            "en": "The command is not confined to Madyan. 6:152 gives it, almost word for word, inside a list of commandments: wa awfu al-kayla wal-mizana bil-qist. 17:35 says give full measure when you measure and weigh with the straight balance, and 55:9 says establish the weight with justice and do not make the balance deficient. What Shu'ayb (AS) told one town, the Qur'an repeats to everyone who reads it.",
+            "bn": "হুকুমটা শুধু মাদইয়ানের জন্য নয়। ৬:১৫২ প্রায় হুবহু একই কথা বলে একগুচ্ছ আদেশের ভেতরে: ওয়া আওফুল কাইলা ওয়াল মীযানা বিল কিসত। ১৭:৩৫ বলে, মাপলে পুরো মাপ দাও আর সঠিক দাঁড়িপাল্লায় ওজন করো। ৫৫:৯ বলে, ইনসাফের সঙ্গে ওজন ঠিক রাখো, পাল্লায় কম দিও না। শু'আয়ব (আঃ) যা একটি জনপদকে বলেছিলেন, কুরআন তা বলে যাচ্ছে প্রত্যেক পাঠককে।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it. A general narration, not attached to this verse, carries the same concern into the market. Sahih Muslim 102, from Abu Hurairah (RA): the Messenger of Allah ﷺ passed by a heap of food and put his hand into it, and his fingers met wetness. He said, \"What is this, O owner of the food?\" He said, \"Rain fell on it, Messenger of Allah.\" He said, \"Why did you not put it on top of the food so that people could see it? Whoever cheats is not of me.\"",
+            "bn": "এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, একই চিন্তাকে বাজার পর্যন্ত নিয়ে যায়। সহীহ মুসলিম ১০২, আবু হুরায়রা (রাঃ) থেকে: রাসূলুল্লাহ ﷺ খাদ্যের একটি স্তূপের পাশ দিয়ে যাচ্ছিলেন। তিনি তাতে হাত ঢোকালেন, আঙুলে ভেজা ভাব লাগল। তিনি বললেন, \"হে খাদ্যের মালিক, এটা কী?\" সে বলল, \"হে আল্লাহর রাসূল, এতে বৃষ্টি পড়েছিল।\" তিনি বললেন, \"তাহলে ভেজাটা উপরে রাখলে না কেন, যাতে লোকে দেখতে পায়? যে প্রতারণা করে, সে আমার নয়।\""
+          },
+          {
+            "en": "The narration names the wrong from another side. Nothing was taken off the measure; the defect was simply kept out of sight. That is close to what al-Qurtubi listed at 7:85 as a form of bakhs, deceiving a buyer about value. Muslim records it in his Sahih. It is brought here as a general teaching on honest dealing, not as an explanation of this verse, and nothing said about Madyan rests on it.",
+            "bn": "বর্ণনাটি একই অন্যায়কে দেখায় আরেক দিক থেকে। মাপ থেকে কিছু কমানো হয়নি, শুধু দোষটা চোখের আড়ালে রাখা হয়েছিল। কুরতুবী ৭:৮৫-এ বাখসের যে রূপগুলো গুনেছিলেন, এটা তার একটির কাছাকাছি: দাম নিয়ে ক্রেতাকে ধোঁকা দেওয়া। ইমাম মুসলিম এটি তাঁর সহীহ গ্রন্থে এনেছেন। এখানে এটি আনা হলো সৎ লেনদেন নিয়ে এক সাধারণ শিক্ষা হিসেবে, এ আয়াতের ব্যাখ্যা হিসেবে নয়। মাদইয়ান নিয়ে বলা কোনো কথা এর উপর দাঁড়িয়ে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Standard, Not an Accusation",
+          "bn": "অভিযোগ নয়, নিজের মাপকাঠি"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse records what one prophet said to one people, and the surah goes on to tell what befell them. It licenses nothing against any living person, trade, market or community, and it settles no modern economic question. What it hands a reader is a standard for their own dealings, sharpened by the commentators, not a licence to accuse anyone else.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একজন নবীর কথা বর্ণনা করে, যা তিনি নিজের সম্প্রদায়কে বলেছিলেন। তাদের পরিণতি কী হয়েছিল, সূরা সামনে গিয়ে তা জানায়। কিন্তু জীবিত কোনো মানুষ, পেশা, বাজার বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আধুনিক অর্থনীতির কোনো প্রশ্নেরও ফয়সালা এখানে নেই। পাঠকের হাতে আয়াত তুলে দেয় নিজের লেনদেনের একটা মাপকাঠি, যা তাফসীরকারদের ব্যাখ্যায় আরও ধারালো হয়েছে। অন্যকে দোষ দেওয়ার ছাড়পত্র নয়।"
+          },
+          {
+            "en": "Take at-Tabari's or otherwise seriously and the scale is everywhere. A wage paid late or short. A colleague's work presented without their name on it. A product described as better than it is, or a fault left unmentioned. Al-Qurtubi's vessel of customary size asks something harder still: whether my own standard has slipped, quietly, below what everyone assumes it to be.",
+            "bn": "তাবারীর 'কিংবা অন্য কিছুতে' কথাটা গুরুত্ব দিয়ে নিলে দাঁড়িপাল্লা সবখানেই। দেরিতে বা কম দেওয়া মজুরি। সহকর্মীর কাজ তার নাম ছাড়া নিজের বলে পেশ করা। পণ্যকে আসলের চেয়ে ভালো বলে বর্ণনা করা, কিংবা তার দোষটা চেপে যাওয়া। কুরতুবীর প্রচলিত আকারের পাত্রের কথা আরও কঠিন প্রশ্ন তোলে। আমার নিজের মাপকাঠি কি চুপচাপ সেই মাপের নিচে নেমে গেছে, যা সবাই ধরে নিয়েছে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for a Full Measure",
+          "bn": "পূর্ণ মাপের জন্য দোয়া"
+        },
+        "p": [
+          {
+            "en": "No supplication is transmitted with this verse in the commentaries read here, so what follows is a du'a built from its own words. O Allah, make my measure full and my scale just, in what I give and in what I take. Keep me from reducing anyone's due, in goods, in wages, in time or in credit. And let me return what I have kept back while its owner can still be found.",
+            "bn": "এখানে পড়া তাফসীরগুলোতে এ আয়াতের সঙ্গে কোনো বর্ণিত দোয়া নেই। তাই নিচের দোয়াটি আয়াতের নিজের শব্দ দিয়ে গড়া। হে আল্লাহ, আমার মাপ পুরো করে দিন, আমার পাল্লা ন্যায্য রাখুন, দেওয়ার সময়ও, নেওয়ার সময়ও। কারও পাওনা কমিয়ে দেওয়া থেকে আমাকে বাঁচান, পণ্যে, মজুরিতে, সময়ে কিংবা প্রাপ্য স্বীকৃতিতে। আর যা আটকে রেখেছি, তার মালিককে খুঁজে পাওয়া যেতে যেতেই তা ফিরিয়ে দেওয়ার তাওফীক দিন।"
+          },
+          {
+            "en": "Then the questions. Where do I take a full measure and hand back a short measure, the habit 83:2 and 83:3 describe? In what do I shortchange people that no scale would record? Would I be satisfied with the measure I give if it were handed to me? And when I look at a small shortfall, do I see what al-Qurtubi saw in it, corruption in the land, or only a margin?",
+            "bn": "তারপর কয়েকটি প্রশ্ন। কোথায় আমি পুরো মাপে নিই আর কম মাপে ফেরত দিই, ঠিক যে অভ্যাসের কথা ৮৩:২ ও ৮৩:৩ বলে? কোন কোন জিনিসে আমি মানুষকে এমনভাবে কম দিই, যা কোনো পাল্লায় ধরা পড়বে না? যে মাপ আমি দিই, সেটা আমার হাতে এলে কি আমি খুশি থাকতাম? আর ছোট্ট কোনো ঘাটতির দিকে তাকিয়ে আমি কী দেখি? কুরতুবী যা দেখেছিলেন, জমিনে ফাসাদ, নাকি শুধু একটু মুনাফা?"
+          }
+        ]
+      }
+    ]
+  },
   "11:88": {
     "sections": [
       {
