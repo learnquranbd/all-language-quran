@@ -1747,6 +1747,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "15:38": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words That Close a Grant",
+          "bn": "চার শব্দে অবকাশের সীমা"
+        },
+        "p": [
+          {
+            "en": "Ila yawmi al-waqti al-ma'lum: until the Day of the known time. The verse is four words in Arabic and cannot stand alone. It finishes the sentence begun in 15:37, where Allah answers Iblis: then you are among those given respite. Both halves reply to 15:36, in which Iblis, cursed and expelled, asked: my Lord, then grant me respite until the Day they are raised. The article on 15:36 left one question open: what the known time is, and whether the grant reached as far as the request. This verse is where the commentators answer it.",
+            "bn": "ইলা ইয়াওমিল ওয়াকতিল মা'লূম: নির্দিষ্ট সময়ের দিন পর্যন্ত। আরবিতে মাত্র চারটি শব্দ, একা দাঁড়াতে পারে না। ১৫:৩৭ আয়াতে যে বাক্য শুরু হয়েছিল, এখানে তা শেষ হল। সেখানে আল্লাহ ইবলীসকে জবাব দেন: তাহলে তুমি অবকাশপ্রাপ্তদের একজন। দুটো অংশ মিলে ১৫:৩৬ আয়াতের জবাব। লা'নত পেয়ে, বিতাড়িত হয়ে ইবলীস সেখানে বলেছিল: হে আমার রব, তাহলে যেদিন তাদের ওঠানো হবে, সেদিন পর্যন্ত আমাকে অবকাশ দিন। ১৫:৩৬ আয়াতের প্রবন্ধে একটা প্রশ্ন খোলা রাখা হয়েছিল। নির্দিষ্ট সময়টা কী, আর যা চাওয়া হয়েছিল ততদূর পর্যন্ত কি অবকাশ দেওয়া হল? তাফসীরকারেরা সে প্রশ্নের জবাব দেন এই আয়াতে এসে।"
+          },
+          {
+            "en": "Set the two phrases side by side and a difference shows even before any commentary. The request names its day by an event, yawmi yub'athun, the Day they are raised. The grant names its day by a quality, al-waqt al-ma'lum, a time that is known. Allah does not repeat the words Iblis chose. The same two-line answer returns word for word in 38:80 and 38:81, while 7:15 gives only the first half, you are among those given respite, with no term at all.",
+            "bn": "দুটো কথা পাশাপাশি রাখলে কোনো তাফসীর পড়ার আগেই একটা তফাত চোখে পড়ে। চাওয়ার সময় দিনটাকে চেনানো হয়েছে একটা ঘটনা দিয়ে: ইয়াওমি ইউব'আসূন, যেদিন তাদের ওঠানো হবে। আর মঞ্জুর করার সময় দিনটাকে চেনানো হয়েছে একটা গুণ দিয়ে: আল-ওয়াকতুল মা'লূম, জানা বা নির্দিষ্ট সময়। ইবলীস যে শব্দ বেছে নিয়েছিল, আল্লাহ সেটা ফিরিয়ে বলেননি। হুবহু একই দুই লাইনের জবাব আবার এসেছে ৩৮:৮০ ও ৩৮:৮১ আয়াতে। আর ৭:১৫ আয়াতে আছে শুধু প্রথম অংশটুকু, তুমি অবকাশপ্রাপ্তদের একজন, কোনো মেয়াদের উল্লেখ ছাড়াই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Day of Perishing, Not Rising",
+          "bn": "ওঠার দিন নয়, বিনাশের দিন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari paraphrases both days. On 15:36 he has Iblis ask to be postponed until the day You raise Your creation from their graves and gather them for the standing of the Resurrection. On 15:37 the reply runs: you are among those whose destruction has been postponed. On this verse he glosses it as the Day of the time known for the destruction of all My creation, when not a single one of the children of Adam remains on the earth. His word for that is dayyar: an inhabitant, anyone at all.",
+            "bn": "তাবারী দুটো দিনেরই ব্যাখ্যা দেন। ১৫:৩৬ আয়াতে তাঁর ভাষায় ইবলীস চায়, যেদিন আপনি আপনার সৃষ্টিকে কবর থেকে ওঠাবেন আর কিয়ামতের ময়দানে জড়ো করবেন, সেদিন পর্যন্ত তাকে যেন পিছিয়ে রাখা হয়। ১৫:৩৭ আয়াতে জবাবটা তাঁর কথায় এমন: তুমি তাদের একজন, যাদের ধ্বংস পিছিয়ে দেওয়া হয়েছে। আর এই আয়াতে তাঁর ব্যাখ্যা: আমার গোটা সৃষ্টির ধ্বংসের জন্য যে সময় জানা, সেই সময়ের দিন পর্যন্ত, যখন পৃথিবীতে আদম-সন্তানদের একজনও বাকি থাকবে না। এখানে তাঁর শব্দটা দাইয়ার, মানে বাসিন্দা, যে কেউ।"
+          },
+          {
+            "en": "At-Tabari never says outright that the request was cut short; his wording does the work. What Iblis asked for was a day of rising; what at-Tabari gives as the grant is a day of perishing, when the earth is empty of people. The respite is measured to the end of human life on the earth, not to its return. A reader who holds his two paraphrases together sees that the two days are not one day under two names.",
+            "bn": "যে অংশগুলো দেখা হয়েছে, তার কোথাও তাবারী সরাসরি বলেননি যে চাওয়াটা কেটে ছোট করা হয়েছে। কাজটা করে দেয় তাঁর শব্দচয়ন। ইবলীস চেয়েছিল ওঠার দিন। তাবারী মঞ্জুর হওয়া দিনটাকে বলছেন বিনাশের দিন, যখন পৃথিবী মানুষশূন্য। অর্থাৎ অবকাশ মাপা হয়েছে পৃথিবীতে মানুষের জীবন শেষ হওয়া পর্যন্ত, মানুষের ফিরে আসা পর্যন্ত নয়। তাঁর দুটো ব্যাখ্যা পাশাপাশি রেখে পড়লে বোঝা যায়, এ দুই দিন একই দিনের দুই নাম নয়।"
+          },
+          {
+            "en": "The Muyassar, which treats 15:37 and 15:38 together, says outright what at-Tabari leaves to his wording. Allah said to him: you are among those whose destruction I have postponed until the day on which all creation dies after the first blast, la ila yawmi al-ba'th, not until the Day of Raising. The negation is the Muyassar's own, the plainest line in the sources consulted. Iblis named the Resurrection; the grant, on this reading, stops short of it, at the moment when everything that lives has died.",
+            "bn": "তাবারী যা শব্দচয়নে বুঝিয়ে দেন, মুয়াসসার তা খোলাখুলি বলে। ১৫:৩৭ ও ১৫:৩৮ একসঙ্গে ব্যাখ্যা করে সেখানে বলা হয়েছে: আল্লাহ তাকে বললেন, তুমি তাদের একজন, যাদের ধ্বংস আমি পিছিয়ে দিয়েছি সেদিন পর্যন্ত, যেদিন প্রথম ফুঁয়ের পর সব সৃষ্টি মারা যাবে। লা ইলা ইয়াওমিল বা'স, পুনরুত্থানের দিন পর্যন্ত নয়। এই 'নয়' কথাটা মুয়াসসারের নিজের, আর যে উৎসগুলো দেখা হয়েছে তার মধ্যে এটাই সবচেয়ে স্পষ্ট লাইন। ইবলীস নাম নিয়েছিল কিয়ামতের। এ ব্যাখ্যায় অবকাশ সেখানে পৌঁছায় না, থেমে যায় তার আগেই, যখন প্রাণ আছে এমন সবকিছু মারা গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The First Blast of the Horn",
+          "bn": "শিঙ্গার প্রথম ফুঁ"
+        },
+        "p": [
+          {
+            "en": "Others name the moment the same way. Al-Qurtubi opens his comment with Ibn Abbas (RA): he meant by it the first blast, that is, when the creatures die. Al-Baghawi, quoting 15:37 and 15:38 together, glosses the known time as the time in which the creatures die, and that is the first blast. On the quranx tafsir page for this verse, al-Jalalayn gives the time of the blowing of the first trumpet, and Tanwir al-Miqbas, the commentary attributed to Ibn Abbas, has the first blast of the trumpet. The sources that name the day agree.",
+            "bn": "আরও কয়েকজন মুহূর্তটার নাম দেন একইভাবে। কুরতুবী তাঁর ব্যাখ্যা শুরু করেন ইবন আব্বাস (রাঃ)-এর কথা দিয়ে: এর দ্বারা প্রথম ফুঁ বোঝানো হয়েছে, অর্থাৎ যখন সৃষ্টিকুল মারা যাবে। বাগাভী ১৫:৩৭ ও ১৫:৩৮ একসঙ্গে উদ্ধৃত করে বলেন, নির্দিষ্ট সময় হল সেই সময়, যখন সৃষ্টিকুল মারা যাবে, আর সেটাই প্রথম ফুঁ। এই আয়াতের জন্য quranx-এর তাফসীর পাতায় জালালাইন বলে, প্রথম শিঙ্গা ফোঁকার সময়। আর ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাসেও আছে শিঙ্গার প্রথম ফুঁ। যে উৎসগুলো দিনটার নাম বলে, তারা সবাই এক কথায় আছে।"
+          },
+          {
+            "en": "The Qur'an describes two blasts elsewhere, and the reader can see why the first matters. In 39:68 the Horn is blown and whoever is in the heavens and whoever is on the earth falls dead, except whom Allah wills; then it is blown again, and at once they are standing, looking on. Iblis asked to last until the standing. These commentators place his term at the falling. Ibn Kathir, in the Arabic lines consulted on 15:36 and 15:37, says Iblis asked for respite until the Day of Resurrection and was answered; those lines do not take up the two blasts.",
+            "bn": "কুরআন অন্য জায়গায় দুই ফুঁয়ের কথা বলে, তাতেই বোঝা যায় প্রথমটা কেন গুরুত্বপূর্ণ। ৩৯:৬৮ আয়াতে শিঙ্গায় ফুঁ দেওয়া হয়, আর আকাশে ও পৃথিবীতে যারা আছে সবাই মরে পড়ে যায়, আল্লাহ যাকে চান সে ছাড়া। তারপর আবার ফুঁ দেওয়া হয়, আর সঙ্গে সঙ্গে তারা উঠে দাঁড়িয়ে তাকিয়ে থাকে। ইবলীস টিকে থাকতে চেয়েছিল সেই উঠে দাঁড়ানো পর্যন্ত। এই তাফসীরকারেরা তার মেয়াদ রাখেন মরে পড়ার মুহূর্তে। ইবন কাসীর ১৫:৩৬ ও ১৫:৩৭ আয়াতের যে আরবি অংশ দেখা হয়েছে, সেখানে বলেন, ইবলীস কিয়ামতের দিন পর্যন্ত অবকাশ চেয়েছিল আর তার ডাকে সাড়া দেওয়া হয়েছিল। দুই ফুঁয়ের প্রশ্ন সে অংশে আসেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Known, but to Whom?",
+          "bn": "জানা, তবে কার কাছে?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi does not leave the phrase with one reading. After Ibn Abbas he adds, under it is said: the known time is the one whose knowledge Allah has kept to Himself, and of which Iblis is ignorant. On this reading ma'lum means known to Allah, not disclosed to the one given it. Iblis is told that his time has an end and is not told when. The two readings in al-Qurtubi answer different questions, which moment it is and who knows it, and he sets them side by side without choosing.",
+            "bn": "কুরতুবী শব্দটাকে একটিমাত্র অর্থে বেঁধে রাখেন না। ইবন আব্বাস (রাঃ)-এর কথার পর তিনি 'বলা হয়' বলে আরেকটি মত আনেন: নির্দিষ্ট সময় হল সেই সময়, যার জ্ঞান আল্লাহ নিজের কাছেই রেখেছেন, আর ইবলীস তা জানে না। এ ব্যাখ্যায় মা'লূম, অর্থাৎ জানা, মানে আল্লাহর জানা সময়। যাকে সময় দেওয়া হচ্ছে, তাকে তা জানিয়ে দেওয়া হয়নি। ইবলীসকে বলা হল তার সময়ের শেষ আছে, কবে তা বলা হল না। কুরতুবীর দুই মত আসলে দুই আলাদা প্রশ্নের জবাব: মুহূর্তটা কোনটা, আর তা জানেন কে। তিনি দুটোই পাশাপাশি রেখেছেন, কোনোটাকে বেছে নেননি।"
+          },
+          {
+            "en": "The Bengali translation used in this app happens to show the second reading at work. For 15:38 it renders the phrase as the day whose appointed hour is known to Me, while for the identical Arabic of 38:81 it says a day whose coming is fixed. The English translation keeps one wording, the time well-known, in both places. Neither rendering settles anything. They only show that ma'lum can be heard as fixed or as known, and that on either hearing the One who knows it is Allah.",
+            "bn": "এই অ্যাপে ব্যবহৃত বাংলা অনুবাদে দ্বিতীয় মতটার ছাপ দেখা যায়। ১৫:৩৮ আয়াতে অনুবাদটি বলে, সেদিন পর্যন্ত যার নির্দিষ্ট ক্ষণ আমার জানা আছে। অথচ হুবহু একই আরবি ৩৮:৮১ আয়াতে অনুবাদ হয়েছে, সেদিন পর্যন্ত যার আগমনকাল সুনির্ধারিত। ইংরেজি অনুবাদ দুই জায়গাতেই একই শব্দ রেখেছে, the time well-known। কোনো অনুবাদ দিয়েই প্রশ্নের মীমাংসা হয় না,। এগুলো শুধু দেখায়, মা'লূম শব্দকে নির্ধারিত অর্থেও শোনা যায়, জানা অর্থেও। আর দুই অর্থেই যিনি জানেন, তিনি আল্লাহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Too Will Taste Death",
+          "bn": "মৃত্যু তারও আসবে"
+        },
+        "p": [
+          {
+            "en": "The 15:36 article recorded al-Baghawi's one-line reading of the request: the vile creature wanted not to die. On this verse al-Qurtubi gives the outcome. Fa-yamutu Iblis thumma yub'ath: so Iblis dies and is then raised, and he supports it with 55:26, everyone upon it will perish. The wish that sat inside the request, on al-Baghawi's reading, is not granted. Iblis is given a long life, but no exemption from death. He will reach the Resurrection he asked for only by dying first, like everyone else.",
+            "bn": "১৫:৩৬ আয়াতের প্রবন্ধে বাগাভীর এক লাইনের ব্যাখ্যা উল্লেখ করা হয়েছিল: এই নিকৃষ্ট সৃষ্টি চেয়েছিল যেন তাকে মরতে না হয়। এই আয়াতে কুরতুবী জানিয়ে দেন শেষটা কী হল। ফা ইয়ামূতু ইবলীসু সুম্মা ইউব'আস: ইবলীস মারা যাবে, তারপর তাকে ওঠানো হবে। এর সমর্থনে তিনি আনেন ৫৫:২৬ আয়াত, পৃথিবীর উপর যা আছে সবই ধ্বংসশীল। বাগাভীর ব্যাখ্যা মানলে চাওয়ার ভেতরে যে আসল বাসনা লুকিয়ে ছিল, তা পূরণ হয়নি। ইবলীস পেয়েছে লম্বা আয়ু, কিন্তু মৃত্যু থেকে ছাড় পায়নি। যে কিয়ামত সে চেয়েছিল, সেখানে সে পৌঁছাবে সবার মতো আগে মরে তারপর।"
+          },
+          {
+            "en": "Al-Baghawi adds a detail under the words it is said: the span of Iblis's death is forty years, which is what lies between the two blasts. He gives it no source and no chain. A sound narration does speak of forty between the blasts, though no tafsir consulted attaches it to this verse and it does not mention Iblis. It is given as a general report on the blasts, not as an explanation of 15:38, in the wording of Sahih al-Bukhari (4814) from Abu Hurayra (RA):",
+            "bn": "বাগাভী 'বলা হয়' বলে আরেকটা খুঁটিনাটি যোগ করেন: ইবলীসের মৃত অবস্থার মেয়াদ চল্লিশ বছর, যা দুই ফুঁয়ের মাঝখানের সময়। এর কোনো উৎস বা সনদ তিনি দেননি। দুই ফুঁয়ের মাঝে চল্লিশের কথা একটি সহীহ বর্ণনায় সত্যিই আছে। তবে যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটি একে এই আয়াতের সঙ্গে জোড়েনি, আর এতে ইবলীসের উল্লেখও নেই। তাই এটা এখানে আনা হল দুই ফুঁ নিয়ে একটি সাধারণ বর্ণনা হিসেবে, ১৫:৩৮ আয়াতের ব্যাখ্যা হিসেবে নয়। নিচে তা সহীহ বুখারীর (৪৮১৪) শব্দে, আবু হুরায়রা (রাঃ) থেকে:"
+          },
+          {
+            "en": "Narrated Abu Huraira: The Prophet ﷺ said, 'Between the two blowing of the trumpet there will be forty.' The people said, 'O Abu Huraira! Forty days?' I refused to reply. They said, 'Forty years?' I refused to reply and added: Everything of the human body will decay except the coccyx bone (of the tail) and from that bone Allah will reconstruct the whole body. The Prophet's words, in this wording, stop at forty. The unit is what Abu Hurayra would not supply, so al-Baghawi's forty years stays a report marked it is said.",
+            "bn": "আবু হুরায়রা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: দুই শিঙ্গা-ফুঁয়ের মাঝে থাকবে চল্লিশ। লোকেরা বলল, হে আবু হুরায়রা, চল্লিশ দিন? আমি জবাব দিতে অস্বীকার করলাম। তারা বলল, চল্লিশ বছর? আমি জবাব দিতে অস্বীকার করলাম, আর যোগ করলাম: মানুষের দেহের সবকিছু পচে যাবে, শুধু লেজের গোড়ার ছোট হাড়টি ছাড়া। ওই হাড় থেকেই আল্লাহ গোটা দেহ আবার গড়ে তুলবেন। এই শব্দে নবী ﷺ-এর কথা থেমেছে চল্লিশে। চল্লিশ কী, দিন না বছর, সেটাই আবু হুরায়রা (রাঃ) বলতে চাননি। তাই বাগাভীর চল্লিশ বছর 'বলা হয়' চিহ্ন নিয়েই থেকে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rope Given, Not Honour",
+          "bn": "ঢিল দেওয়া, সম্মান নয়"
+        },
+        "p": [
+          {
+            "en": "Why grant the request at all? The 15:36 article gave as-Sa'di's answer, that the grant was no honour but a trial for Iblis and for the servants. Other commentators reach the same place in different words. Ibn Kathir, in the line filed under 15:37, says he was answered istidrajan lahu wa-imhalan: as a leading-on and a respite. Istidraj is being drawn step by step towards an end one does not see coming, given more rope rather than less. The respite that looks like a concession is, on this reading, the very means of drawing him on.",
+            "bn": "চাওয়াটা মঞ্জুরই বা হল কেন? ১৫:৩৬ আয়াতের প্রবন্ধে সা'দীর জবাব দেওয়া হয়েছিল: এ মঞ্জুরি সম্মান নয়, ইবলীস আর বান্দাদের জন্য পরীক্ষা। অন্য তাফসীরকারেরাও ভিন্ন শব্দে একই জায়গায় পৌঁছান। ইবন কাসীর ১৫:৩৭ আয়াতের অংশে বলেন, তার ডাকে সাড়া দেওয়া হয়েছিল ইসতিদরাজান লাহু ওয়া ইমহালান, তাকে ধাপে ধাপে টেনে নেওয়া আর ঢিল দেওয়ার জন্য। ইসতিদরাজ মানে এমন পরিণতির দিকে একটু একটু করে এগিয়ে নেওয়া, যা মানুষ আসতে দেখে না। দড়ি গুটিয়ে আনা হয় না, আরও ছেড়ে দেওয়া হয়। এ ব্যাখ্যায় যে অবকাশকে ছাড় বলে মনে হয়, সেটাই তাকে টেনে নেওয়ার উপায়।"
+          },
+          {
+            "en": "The Muyassar uses the same two words and adds a third: istidrajan lahu wa-imhalan wa-fitnatan li-th-thaqalayn, a leading-on and a respite for him, and a trial for the two weighty kinds, jinn and humans. Al-Baghawi, again under it is said, puts it the other way round: Allah's granting him the delay was not to honour him; rather, it was an increase in his affliction and wretchedness. On that reading each added year is not a gift to Iblis. It is more of the affliction and wretchedness that al-Baghawi names.",
+            "bn": "মুয়াসসার একই দুটি শব্দ ব্যবহার করে, সঙ্গে যোগ করে তৃতীয়টি: ইসতিদরাজান লাহু ওয়া ইমহালান ওয়া ফিতনাতান লিস সাকালাইন। অর্থাৎ তার জন্য ধাপে ধাপে টেনে নেওয়া আর ঢিল দেওয়া, আর জিন ও মানুষ দুই জাতির জন্য পরীক্ষা। বাগাভী আবারও 'বলা হয়' বলে কথাটা উল্টো দিক থেকে বলেন: তাকে সময় দেওয়াটা তাকে সম্মান করার জন্য ছিল না, বরং তার বিপদ আর দুর্ভাগ্য বাড়ানোর জন্য। এ ব্যাখ্যায় বাড়তি প্রতিটি বছর ইবলীসের জন্য উপহার নয়। বাগাভী যে বিপদ আর দুর্ভাগ্যের কথা বলেন, প্রতিটি বছর তারই বাড়তি ভাগ।"
+          },
+          {
+            "en": "Al-Qurtubi takes up a question the verse prompts without stating: how was Iblis addressed at all, once cursed? He gives two views. One is that Allah spoke to him through the tongue of His messenger. The other is that He spoke to him as a hardening of the threat, not by way of honour or bringing near. The second view says outright that being spoken to was no honour. The words of 15:37 and 15:38 are the words of a sentence passed, however they reached him.",
+            "bn": "আয়াত যে প্রশ্ন মুখে না এনেও জাগিয়ে তোলে, কুরতুবী তা নিয়ে কথা বলেন। লা'নত পাওয়ার পর ইবলীসের সঙ্গে কথাই বা বলা হল কীভাবে? তিনি দুটি মত দেন। একটি মতে আল্লাহ তার সঙ্গে কথা বলেছেন তাঁর রাসূলের মুখ দিয়ে। অন্য মতে তিনি কথা বলেছেন হুমকিকে আরও কঠিন করার জন্য, সম্মান দেওয়া বা কাছে টানার জন্য নয়। দ্বিতীয় মত সোজাসুজি বলে দেয়, এই কথা বলা কোনো সম্মান ছিল না। ১৫:৩৭ ও ১৫:৩৮ আয়াতের কথাগুলো এক রায় ঘোষণার কথা, তার কাছে যেভাবেই পৌঁছে থাকুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Grant Becomes a Plan",
+          "bn": "অবকাশ পেয়েই পরিকল্পনা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's comment filed under this verse is a single clause that looks ahead: fa-lamma tahaqqaqa an-nazirah, then, when the respite was made certain, followed by qabbahahu Allah, may Allah make him vile. The line stops there in the text consulted. What follows in the Qur'an is 15:39: because You have put me in error, I will surely make things fair-seeming to them on the earth, and I will mislead them all. The grant is barely spoken before it is turned into a plan.",
+            "bn": "এই আয়াতের নিচে ইবন কাসীরের মন্তব্য মাত্র একটি বাক্যাংশ, আর তা সামনের দিকে তাকিয়ে: ফালাম্মা তাহাক্কাকান নাযিরাহ, যখন অবকাশ নিশ্চিত হয়ে গেল। তারপরই তাঁর বদদোয়া, কাব্বাহাহুল্লাহ, আল্লাহ তাকে লাঞ্ছিত করুন। যে অংশ দেখা হয়েছে, সেখানে লাইনটা এখানেই থামে। কুরআনে এর পরেই আসে ১৫:৩৯ আয়াত: যেহেতু আপনি আমাকে বিপথে ঠেলে দিলেন, আমি পৃথিবীতে তাদের চোখে অবশ্যই সবকিছু সুশোভিত করে দেখাব আর তাদের সবাইকে বিপথে নেব। মঞ্জুরির কথা শেষ হতে না হতেই সে তা দিয়ে পরিকল্পনা সাজিয়ে ফেলে।"
+          },
+          {
+            "en": "The exception in 15:40, except Your chosen servants among them, has its own article and is only pointed to here. One thing should be said plainly. These verses describe Iblis, what he asked and what he was given; they license nothing against any living person or community, and no one is to be named as his likeness. Its use is to show the reader where the enemy's time ends, and then to turn the reader towards the time that is the reader's own.",
+            "bn": "১৫:৪০ আয়াতের ব্যতিক্রম, তাদের মধ্যে আপনার বাছাই করা বান্দারা ছাড়া, নিয়ে আলাদা প্রবন্ধ আছে। এখানে শুধু সেদিকে ইঙ্গিত করা হল। একটা কথা সোজাসুজি বলা দরকার। এ আয়াতগুলো ইবলীসের বর্ণনা দেয়, সে কী চেয়েছিল আর কী পেয়েছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এগুলো কিছুরই অনুমতি দেয় না। কাউকে তার প্রতিচ্ছবি বলে চিহ্নিত করাও চলে না। এর কাজ পাঠককে দেখানো, শত্রুর সময় কোথায় শেষ হয়। তারপর পাঠকের চোখ ফিরিয়ে দেওয়া তার নিজের সময়ের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living Inside a Fixed Term",
+          "bn": "বাঁধা মেয়াদের ভেতরে বাঁচা"
+        },
+        "p": [
+          {
+            "en": "Read with the commentators, the verse sets a limit on the figure who seems to have none. Iblis asked for life to the Resurrection and, on their reading, was given it only to the first blast, and al-Qurtubi has him die like everyone else. He works on a clock he did not set, and on a second reading in al-Qurtubi he does not know when it stops. Whatever pull he exerts on a person, it runs inside a term that Allah fixed and Allah knows.",
+            "bn": "তাফসীরকারদের সঙ্গে মিলিয়ে পড়লে দেখা যায়, যার কোনো সীমা নেই বলে মনে হয়, আয়াতটি তারই সীমা টেনে দেয়। ইবলীস চেয়েছিল কিয়ামত পর্যন্ত আয়ু। তাঁদের ব্যাখ্যায় সে পেয়েছে প্রথম ফুঁ পর্যন্ত, আর কুরতুবী বলেন সে সবার মতোই মরবে। সে কাজ করছে এমন এক ঘড়ি ধরে, যার কাঁটা সে নিজে ঠিক করেনি। কুরতুবীর দ্বিতীয় মতে, ঘড়িটা কখন থামবে তাও সে জানে না। মানুষের উপর তার টান যতই হোক, সবটাই চলে আল্লাহর বেঁধে দেওয়া আর আল্লাহর জানা এক মেয়াদের ভেতরে।"
+          },
+          {
+            "en": "That is a comfort and a warning together. The comfort is that temptation is not endless and its author is not free; the Muyassar calls his respite a trial for jinn and humans. The warning is that the trial is mine. The verse that measures his time reminds me that mine is measured too, by a known time I have not been told. I know only that it is fixed, and that each day of it either serves the test or wastes it.",
+            "bn": "এতে সান্ত্বনাও আছে, সতর্কবার্তাও আছে। সান্ত্বনা হল, প্রলোভন অনন্ত নয়, আর প্রলোভনদাতা ছাড়া পাওয়া কেউ নয়। মুয়াসসার তার অবকাশকে বলে জিন ও মানুষের জন্য পরীক্ষা। আর সতর্কবার্তা হল, পরীক্ষাটা আমার। যে আয়াত তার সময় মেপে দেয়, সে আমাকেও মনে করিয়ে দেয় যে আমার সময়ও মাপা। আমারও একটা নির্দিষ্ট সময় আছে, যা আমাকে জানানো হয়নি। শুধু এটুকু জানি, তা বাঁধা। আর তার প্রতিটি দিন হয় পরীক্ষার কাজে লাগে, নয়তো নষ্ট হয়।"
+          },
+          {
+            "en": "So the reflection is practical. Iblis wanted time to keep going the way he was going, and he was given it as istidraj, more rope towards his end. A believer is given days and years too. The question is whether they draw me nearer to Allah or only further along a road I already know is wrong. What would I set right today if I lived as though my own known time were close? And what am I doing, before it arrives, with the days that have already been given to me?",
+            "bn": "তাই ভাবনাটা হাতে-কলমে। ইবলীস সময় চেয়েছিল যেভাবে চলছিল সেভাবেই চলতে থাকার জন্য। সে সময় পেয়েছে ইসতিদরাজ হিসেবে, নিজের পরিণতির দিকে আরও ঢিল দেওয়া দড়ি। একজন মুমিনও দিন পায়, বছর পায়। প্রশ্ন হল, সেগুলো আমাকে আল্লাহর আরও কাছে নিচ্ছে, নাকি যে পথকে আমি ভুল বলে জানি, শুধু সেই পথেই আরও দূরে নিচ্ছে? আমার নিজের নির্দিষ্ট সময় কাছে এসে গেছে, এভাবে বাঁচলে আজ কোন জিনিসটা ঠিক করে নিতাম? আর তা আসার আগে, যে দিনগুলো আমাকে এর মধ্যেই দেওয়া হয়েছে, সেগুলো দিয়ে আমি কী করছি?"
+          }
+        ]
+      }
+    ]
+  },
   "15:40": {
     "sections": [
       {

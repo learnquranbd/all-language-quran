@@ -33303,6 +33303,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Take revelation as life for the heart, and answer its one message: worship none but Allah, and fear Him by keeping what He has made your duty.",
     "lessonBn": "ওহীকে অন্তরের প্রাণ হিসেবে গ্রহণ করুন, আর তার একটিমাত্র বার্তায় সাড়া দিন: আল্লাহ ছাড়া কারও ইবাদত নয়, আর তাঁর দেওয়া দায়িত্ব পালন করে তাঁকেই ভয় করুন।"
+  },
+  "15:38": {
+    "reflectionEn": "He asked for time until the Day the dead are raised. The answer gave him time, but in other words: until the Day of the known time. Read closely, the respite reaches the first blast of the trumpet, when every living thing dies, and stops there. The one who wanted never to die will die with everyone else. So the voice that whispers to me works against a clock it did not set, and its season has an end already fixed. My season has one too. My own term is known to Allah and hidden from me. The question is not how long the whisperer has left. It is what I do with the days I am given before my own known time arrives.",
+    "reflectionBn": "সে সময় চেয়েছিল সেদিন পর্যন্ত, যেদিন মৃতদের ওঠানো হবে। জবাবে সময় দেওয়া হল, কিন্তু অন্য কথায়: নির্দিষ্ট সময়ের দিন পর্যন্ত। খুঁটিয়ে পড়লে বোঝা যায়, এ অবকাশ শিঙ্গার প্রথম ফুঁ পর্যন্ত, যখন সব প্রাণী মারা যাবে। তার পরে আর নয়। যে কখনো মরতে চায়নি, সেও মরবে সবার সঙ্গে। তাহলে যে কণ্ঠ আমার কানে কুমন্ত্রণা দেয়, তার ঘড়ির কাঁটা সে নিজে ঠিক করেনি। তার মৌসুমের শেষ আগে থেকেই বাঁধা। আমার মৌসুমেরও শেষ আছে। আমার নিজের মেয়াদ আল্লাহ জানেন, আমার কাছে তা গোপন। প্রশ্ন এটা নয় যে কুমন্ত্রণাদাতার হাতে আর কত সময় বাকি। প্রশ্ন হল, আমার নির্দিষ্ট সময় আসার আগে যে দিনগুলো আমাকে দেওয়া হয়েছে, সেগুলো দিয়ে আমি কী করছি।",
+    "pointsEn": [
+      "If my own term is already fixed and hidden from me, what am I treating as though there will always be time for it?",
+      "When a pull towards wrong feels endless, do I remember that the one behind it works within a limit Allah has set?",
+      "Do I read the ease I have been given as a sign of approval, when it may be respite and a test?",
+      "What would I stop putting off this week if I took seriously that a known day is set for me too?",
+      "Whose voice is using up my days: the One who gave them, or the one who asked for time to mislead?"
+    ],
+    "pointsBn": [
+      "আমার মেয়াদ যদি আগেই ঠিক হয়ে থাকে আর আমার কাছে গোপন থাকে, তবে কোন কাজটাকে আমি এমনভাবে ফেলে রেখেছি, যেন তার জন্য সময় কখনো ফুরাবে না?",
+      "অন্যায়ের টান যখন শেষ হবার নয় বলে মনে হয়, তখন কি মনে রাখি যে এর পেছনে যে আছে, সে আল্লাহর বেঁধে দেওয়া সীমার ভেতরেই কাজ করে?",
+      "যে স্বস্তি আমাকে দেওয়া হয়েছে, তাকে কি আমি আল্লাহর খুশির আলামত ভেবে নিই, অথচ তা হয়তো অবকাশ আর পরীক্ষা?",
+      "আমার জন্যও একটা নির্দিষ্ট দিন ঠিক করা আছে, এ কথা সত্যি মেনে নিলে এ সপ্তাহে কোন কাজটা আর পিছিয়ে রাখতাম না?",
+      "আমার দিনগুলো কার কথায় খরচ হচ্ছে: যিনি দিনগুলো দিয়েছেন তাঁর, নাকি যে পথভ্রষ্ট করার জন্য সময় চেয়ে নিয়েছিল তার?"
+    ],
+    "lessonEn": "Remember that every respite has an end Allah has fixed: the whisperer's time runs out, and so will yours, so spend the days you have in obeying Him.",
+    "lessonBn": "মনে রাখুন, প্রতিটি অবকাশের শেষ আল্লাহ বেঁধে রেখেছেন। কুমন্ত্রণাদাতার সময় ফুরাবে, আপনার সময়ও ফুরাবে। তাই হাতে যে দিনগুলো আছে, তা তাঁর আনুগত্যে কাটান।"
   }
 };
 
