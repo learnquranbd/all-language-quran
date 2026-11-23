@@ -1251,6 +1251,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:24": {
+    "sections": [
+      {
+        "h": {
+          "en": "From a Plea to a Command",
+          "bn": "মিনতির পরে আদেশ"
+        },
+        "p": [
+          {
+            "en": "In 7:23 Adam (AS) and his wife end their confession with a plea for forgiveness and mercy. This verse opens with qala, He said, and what He says is a command in the plural: ihbitu, go down. The rest of the verse describes the life waiting below. Ba'dukum li-ba'din 'aduww: some of you enemies to others. Wa lakum fi al-ardi mustaqarrun wa mata'un ila hin: and for you on the earth a place to settle and enjoyment until a time. Twelve Arabic words carry the whole move from the Garden to the ground.",
+            "bn": "৭:২৩ আয়াতে আদম (আঃ) ও তাঁর স্ত্রী নিজেদের দোষ স্বীকার শেষ করেন ক্ষমা আর রহমতের মিনতি দিয়ে। এ আয়াত শুরু হয় কালা দিয়ে, তিনি বললেন। আর তিনি যা বলেন তা বহুবচনের আদেশ: ইহবিতূ, নেমে যাও। আয়াতের বাকি অংশে নিচের জীবনের ছবি। বা'দুকুম লিবা'দিন আদুওউ: তোমাদের কেউ কেউ অন্যদের শত্রু। ওয়া লাকুম ফিল আরদি মুসতাকাররুঁ ওয়া মাতাউন ইলা হীন: আর পৃথিবীতে তোমাদের জন্য আছে থাকার জায়গা আর একটা সময় পর্যন্ত ভোগের সামগ্রী। জান্নাত থেকে মাটিতে নেমে আসার পুরো ঘটনাটা ধরা আছে আরবি বারোটি শব্দে।"
+          },
+          {
+            "en": "The same command comes in 2:36 in almost the same words, and in 20:123 in the dual, ihbita, the two of you go down. Two of the commentators fetched for this verse add nothing new at this point. Al-Baghawi's entry only quotes it, and al-Qurtubi says its meaning has already gone before, which takes the reader back to his long comment on 2:36. Ma'arif al-Qur'an likewise sends its reader to its commentary on Surah al-Baqarah. The very next verse, 7:25, carries the thought further.",
+            "bn": "একই আদেশ প্রায় একই শব্দে এসেছে ২:৩৬ আয়াতে, আর ২০:১২৩ আয়াতে এসেছে দ্বিবচনে: ইহবিতা, তোমরা দুজন নেমে যাও। এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার দুটি এখানে নতুন কিছু যোগ করে না। বাগাভী শুধু আয়াতটি উদ্ধৃত করেছেন। আর কুরতুবী বলেন, এর অর্থ আগেই বলা হয়েছে। সেই আলোচনা আছে ২:৩৬ আয়াতে তাঁর দীর্ঘ ব্যাখ্যায়। মাআরিফুল কুরআনও পাঠককে পাঠায় সূরা বাকারার ব্যাখ্যায়। ঠিক পরের আয়াত ৭:২৫ ভাবনাটাকে আরও এগিয়ে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Heard the Word Ihbitu",
+          "bn": "ইহবিতূ আদেশ কারা শুনল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens his comment by calling the verse Allah's report of what He did with Iblis and his offspring, Adam and his children, and the snake. Then he paraphrases the command as spoken to Adam, Hawwa, Iblis and the snake: go down from the heaven to the earth, some of you enemies to others. He supports this with as-Suddi, who names the same four as sent down to the earth, and with Abu Salih, who names Adam, Hawwa and the snake.",
+            "bn": "তাবারী তাঁর আলোচনা শুরু করেন এ কথা বলে যে আয়াতটি আল্লাহর দেওয়া খবর: ইবলীস ও তার বংশধর, আদম ও তাঁর সন্তান, আর সাপের সঙ্গে তিনি কী করেছিলেন। তারপর আদেশটিকে তিনি নিজের ভাষায় বলেন আদম, হাওয়া, ইবলীস ও সাপকে লক্ষ্য করে: আকাশ থেকে পৃথিবীতে নেমে যাও, তোমাদের কেউ কেউ অন্যদের শত্রু। এর সমর্থনে তিনি আনেন সুদ্দীর বর্ণনা, যিনি পৃথিবীতে নামানো এই চারজনেরই নাম নেন। আরও আনেন আবু সালিহকে, যাঁর তালিকায় আছেন আদম, হাওয়া ও সাপ।"
+          },
+          {
+            "en": "Ibn Kathir begins with the words it is said: the address is to Adam, Hawwa, Iblis and the snake, while some leave the snake out, and Allah knows best. Then he gives his own weighting. The core of the enmity lies between Adam and Iblis, which is why 20:123 uses the dual. Hawwa follows Adam in it, and the snake, if the report that mentions it is sound, follows Iblis. On his reading the plural gathers several parties, but the quarrel that matters runs between two of them.",
+            "bn": "ইবন কাসীর শুরু করেন 'বলা হয়' কথাটি দিয়ে: আদেশ ছিল আদম, হাওয়া, ইবলীস ও সাপের প্রতি। কেউ কেউ সাপের উল্লেখ করেননি, আর আল্লাহই ভালো জানেন। এরপর তিনি নিজের মত দেন। শত্রুতার মূল জায়গা আদম আর ইবলীসের মাঝে। এ কারণেই ২০:১২৩ আয়াতে দ্বিবচন এসেছে। এতে হাওয়া আদমের অনুগামী। আর সাপের কথা যদি সত্যি হয়, তবে সে ইবলীসের অনুগামী। তাঁর পাঠে বহুবচনটা কয়েক পক্ষকে জড়ো করে, কিন্তু আসল বিবাদ দুই পক্ষের মধ্যে।"
+          },
+          {
+            "en": "Al-Qurtubi's comment on 2:36 widens the list. He gives Ibn 'Abbas for Adam, Hawwa, the snake and Shaytan; al-Hasan for Adam, Hawwa and the whispering itself; and Mujahid, with al-Hasan again, for the children of Adam and the children of Iblis. Ma'arif al-Qur'an, at the same place, ties the answer to a further question. If Satan had not yet been put out of the heavens, he is included, and the enmity is his against humankind. If he had already been expelled, as some scholars hold, the address is to Adam, Hawwa and their descendants.",
+            "bn": "২:৩৬ আয়াতের ব্যাখ্যায় কুরতুবী তালিকাটা আরও বড় করেন। ইবন আব্বাস (রাঃ)-এর মতে আদেশ ছিল আদম, হাওয়া, সাপ আর শয়তানের প্রতি। হাসানের মতে আদম, হাওয়া আর স্বয়ং ওয়াসওয়াসা, অর্থাৎ কুমন্ত্রণা। মুজাহিদের মতে, এবং আরেক বর্ণনায় হাসানেরও, আদমের সন্তানেরা আর ইবলীসের সন্তানেরা। মাআরিফুল কুরআন একই জায়গায় উত্তরটা বেঁধে দেয় আরেকটি প্রশ্নের সঙ্গে। শয়তান তখনো আকাশ থেকে বিতাড়িত না হয়ে থাকলে সেও এ আদেশের মধ্যে আছে, আর শত্রুতা তার ও মানবজাতির মধ্যে। কিছু আলেমের মতো যদি সে আগেই বিতাড়িত হয়ে থাকে, তবে আদেশ আদম, হাওয়া ও তাঁদের বংশধরদের প্রতি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Landing Places Left Unnamed",
+          "bn": "যে অবতরণস্থলের নাম নেই"
+        },
+        "p": [
+          {
+            "en": "The commentators also record where each party landed. Al-Qurtubi, at 2:36, gives a place for Adam, for Hawwa, for Iblis and for the snake. Ibn Kathir declines to follow that path. He says the reports about those places go back, in sum, to the Isra'iliyyat, narratives taken from the People of the Book, and Allah knows best whether they are true. Then he states a principle: had naming those spots brought any benefit to people under obligation, in their religion or their worldly life, Allah would have mentioned them in His Book, or His Messenger ﷺ would have done so.",
+            "bn": "কে কোথায় নেমেছিলেন, তাফসীরকারেরা তাও লিখে রেখেছেন। ২:৩৬ আয়াতে কুরতুবী আদম, হাওয়া, ইবলীস ও সাপ, প্রত্যেকের জন্য আলাদা জায়গার নাম দিয়েছেন। ইবন কাসীর সে পথে যাননি। তিনি বলেন, ওই জায়গাগুলো নিয়ে যত বর্ণনা, সব মিলিয়ে তার উৎস ইসরাঈলিয়্যাত, অর্থাৎ আহলে কিতাবের কাছ থেকে আসা কাহিনি। সেগুলো সত্য কি না, আল্লাহই ভালো জানেন। তারপর তিনি একটি নীতি বলে দেন। ওই জায়গাগুলোর নাম জানায় যদি দায়িত্বপ্রাপ্ত মানুষের দ্বীন বা দুনিয়ার কোনো উপকার থাকত, তবে আল্লাহ তাঁর কিতাবে তা উল্লেখ করতেন, কিংবা তাঁর রাসূল ﷺ তা বলে যেতেন।"
+          },
+          {
+            "en": "The snake's part in the story rests on reports, not on the wording of the verse. At-Tabari carries as-Suddi's account that the snake was cursed, its legs were cut off, it was left to move on its belly, and its provision was made from dust. Al-Qurtubi relays, as something that is mentioned, that it had served Adam in the Garden. Ibn Kathir attaches a condition: if its mention is sound. The verse itself names none of this, and a reader loses nothing by leaving it where Ibn Kathir left it.",
+            "bn": "কাহিনিতে সাপের ভূমিকা এসেছে বর্ণনা থেকে, আয়াতের শব্দ থেকে নয়। তাবারী সুদ্দীর বর্ণনা আনেন: সাপকে লানত করা হলো, তার পা কেটে দেওয়া হলো, তাকে পেটে ভর দিয়ে চলতে ছেড়ে দেওয়া হলো, আর তার খাবার করা হলো মাটি থেকে। কুরতুবী 'উল্লেখ করা হয়' বলে জানান, জান্নাতে সাপ ছিল আদমের সেবক। ইবন কাসীর এর সঙ্গে শর্ত জুড়ে দেন: যদি এর উল্লেখ সঠিক হয়। আয়াত নিজে এর কিছুই বলে না। এসব কথা ইবন কাসীর যেখানে রেখে গেছেন, পাঠক সেখানে রেখে দিলে কিছুই হারায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Envy Facing Faith",
+          "bn": "হিংসার মুখোমুখি ঈমান"
+        },
+        "p": [
+          {
+            "en": "What kind of enmity is this? At-Tabari answers at 2:36. Iblis's enmity towards Adam and his offspring comes from envy, and from his arrogance against obeying Allah in the prostration, when he said: I am better than him; You created me from fire and him from clay (38:76). The enmity of Adam and his offspring towards Iblis is the enmity believers bear for a creature that disbelieved in Allah and defied his Lord's command. Coming from Adam and the believers among his children, at-Tabari says, that enmity is faith in Allah; coming from Iblis, it is disbelief.",
+            "bn": "এ কেমন শত্রুতা? ২:৩৬ আয়াতে তাবারী এর উত্তর দেন। আদম ও তাঁর বংশধরের প্রতি ইবলীসের শত্রুতার মূলে হিংসা। আরও আছে সিজদার আদেশে আল্লাহর আনুগত্যের বিরুদ্ধে তার অহংকার, যখন সে বলেছিল: আমি তার চেয়ে শ্রেষ্ঠ, আমাকে আগুন থেকে বানিয়েছেন আর তাকে মাটি থেকে (৩৮:৭৬)। অন্যদিকে ইবলীসের প্রতি আদম ও তাঁর বংশধরের শত্রুতা হলো ঈমানদারদের শত্রুতা, এমন এক সৃষ্টির প্রতি যে আল্লাহকে অস্বীকার করেছে আর রবের আদেশ অমান্য করেছে। তাবারী বলেন, আদম ও তাঁর মুমিন সন্তানদের দিক থেকে এ শত্রুতা আল্লাহর প্রতি ঈমান। আর ইবলীসের দিক থেকে তা কুফর।"
+          },
+          {
+            "en": "As-Sa'di, at 2:36, reads the phrase as Adam and his offspring set against Iblis and his offspring, and draws the practical warning from it. It is well known, he says, that an enemy strives and labours to harm the person he is hostile to by every route. Inside the phrase, then, is a warning to the children of Adam. He joins it to 35:6, Satan is an enemy to you, so take him as an enemy, and to 18:50, which asks whether people will take him and his offspring as allies instead of Allah.",
+            "bn": "২:৩৬ আয়াতে সা'দী বাক্যটিকে পড়েন এভাবে: আদম ও তাঁর বংশধর একদিকে, ইবলীস ও তার বংশধর অন্যদিকে। এখান থেকে তিনি কাজের সতর্কবার্তা বের করেন। সবাই জানে, শত্রু তার প্রতিপক্ষের ক্ষতি করতে সব পথে চেষ্টা চালায়, খাটে। তাই এ বাক্যের ভেতরেই আদম সন্তানদের জন্য সতর্কবাণী লুকিয়ে আছে। তিনি এর সঙ্গে জুড়ে দেন ৩৫:৬ আয়াত: শয়তান তোমাদের শত্রু, তাই তাকে শত্রু হিসেবেই নাও। আরও জুড়ে দেন ১৮:৫০ আয়াত, যেখানে প্রশ্ন করা হয়েছে, মানুষ কি আল্লাহকে ছেড়ে তাকে আর তার বংশধরকে অভিভাবক বানাবে?"
+          },
+          {
+            "en": "Al-Qurtubi adds the word's root. 'Aduww comes from 'ada, to wrong, or from overstepping a limit, since an enemy goes too far in what he does to the person he hates. He also records that some scholars applied the phrase to a person against himself; he calls that far-fetched, though sound in meaning, and cites a report about the limbs and the tongue. At-Tirmidhi records that report and says the version that stops with Abu Sa'id al-Khudri (RA), not raised to the Prophet ﷺ, is the more correct.",
+            "bn": "কুরতুবী শব্দটির মূলও দেখান। আদুওউ এসেছে আদা থেকে, যার অর্থ জুলুম করা, কিংবা সীমা ছাড়িয়ে যাওয়া। কারণ শত্রু যাকে অপছন্দ করে, তার সঙ্গে আচরণে সীমা ছাড়ায়। তিনি আরও জানান, কিছু আলেম বাক্যটিকে মানুষের নিজের বিরুদ্ধে নিজেকে বোঝাতে ব্যবহার করেছেন। কুরতুবী এ ব্যাখ্যাকে দূরবর্তী বলেন, যদিও অর্থের দিক থেকে ঠিক। এর পক্ষে তিনি অঙ্গপ্রত্যঙ্গ আর জিহ্বা নিয়ে একটি বর্ণনা আনেন। তিরমিযী বর্ণনাটি সংকলন করেছেন, আর বলেছেন, নবী ﷺ পর্যন্ত না পৌঁছে আবু সাঈদ খুদরী (রাঃ)-তে থেমে যাওয়া রূপটিই বেশি সঠিক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Penalty, or a Wiser Purpose",
+          "bn": "শাস্তি, নাকি গভীর হিকমত"
+        },
+        "p": [
+          {
+            "en": "Was the descent a penalty? The commentators answer differently. At-Tabari, at 2:36, explains why the verse there says that Shaytan brought them out: it was he who caused them the khati'ah, the fault, for which Allah penalised them by bringing them out of the Garden. Ma'arif al-Qur'an, on the reading in which Satan had already been expelled, cites Bayan al-Qur'an that Adam and Hawwa would bear a double penalty: leaving the Garden, and then seeing enmity arise among their own children.",
+            "bn": "নেমে আসা কি শাস্তি ছিল? তাফসীরকারেরা এর ভিন্ন ভিন্ন উত্তর দেন। ২:৩৬ আয়াতে তাবারী ব্যাখ্যা করেন, সেখানে কেন বলা হয়েছে শয়তান তাঁদের বের করে দিল। কারণ সে-ই তাঁদের সেই খাতীআর, অর্থাৎ ত্রুটির কারণ ঘটিয়েছিল, যার জন্য আল্লাহ তাঁদের জান্নাত থেকে বের করে শাস্তি দেন। মাআরিফুল কুরআন, শয়তান আগেই বিতাড়িত হওয়ার পাঠে, বয়ানুল কুরআন থেকে উদ্ধৃত করে: আদম ও হাওয়াকে দ্বিগুণ শাস্তি বইতে হবে। প্রথমত জান্নাত ছাড়া, তারপর নিজেদের সন্তানদের মধ্যে শত্রুতা জন্মাতে দেখা।"
+          },
+          {
+            "en": "Al-Qurtubi, at 2:36, takes the other side. Allah's bringing Adam out of the Garden and sending him down was not a punishment for him, he writes, because He sent him down after He had turned to him and accepted his repentance. His evidence is the repeated command in 2:38, which comes after the words of 2:37: Adam received words from his Lord, and He turned to him. The descent, he says, was either for discipline or to make the trial weightier. Then he names what he calls the correct view: a wisdom set from eternity, to spread Adam's offspring across the earth.",
+            "bn": "২:৩৬ আয়াতে কুরতুবী অন্য পক্ষে দাঁড়ান। তিনি লেখেন, আদমকে জান্নাত থেকে বের করে নামিয়ে দেওয়া তাঁর জন্য শাস্তি ছিল না। কারণ আল্লাহ তাঁর তওবা কবুল করে তাঁর দিকে ফিরে আসার পরেই তাঁকে নামিয়েছেন। প্রমাণ হিসেবে তিনি দেখান ২:৩৮ আয়াতের দ্বিতীয়বারের আদেশ, যা এসেছে ২:৩৭ আয়াতের পরে: আদম তাঁর রবের কাছ থেকে কিছু বাক্য পেলেন, আর তিনি তাঁর তওবা কবুল করলেন। কুরতুবীর মতে নামানো হয়েছিল হয় শিক্ষা দেওয়ার জন্য, নয়তো পরীক্ষাকে আরও কঠিন করার জন্য। তারপর তিনি যাকে সঠিক মত বলেন তা জানান: অনাদিকাল থেকে স্থির এক হিকমত, আদমের বংশধরকে পৃথিবীতে ছড়িয়ে দেওয়া।"
+          },
+          {
+            "en": "On the earth, al-Qurtubi continues, Allah places them under obligation and tests them, and on that He builds their reward and punishment in the Hereafter, because neither the Garden nor the Fire is a place of obligation. He recalls 2:30, I am placing on the earth a successor, and calls it a great honour. As-Sa'di, at 2:36, describes the earth as the home of toil, weariness and striving. These positions stand side by side, and this article adopts none of them.",
+            "bn": "কুরতুবী আরও বলেন, পৃথিবীতে আল্লাহ তাদের উপর দায়িত্ব দেন, তাদের পরীক্ষা নেন, আর তার ভিত্তিতে আখিরাতে পুরস্কার ও শাস্তি ঠিক করেন। কারণ জান্নাত বা জাহান্নাম, কোনোটাই দায়িত্ব পালনের জায়গা নয়। তিনি মনে করিয়ে দেন ২:৩০ আয়াত: আমি পৃথিবীতে খলীফা বানাতে যাচ্ছি। একে তিনি বলেন বিরাট সম্মান। ২:৩৬ আয়াতে সা'দী পৃথিবীকে বলেন পরিশ্রম, ক্লান্তি আর সংগ্রামের ঘর। এই মতগুলো পাশাপাশি দাঁড়িয়ে আছে, আর এ প্রবন্ধ কোনোটিকেই নিজের মত হিসেবে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Settled on It, Then Within",
+          "bn": "উপরে বসবাস, পরে ভেতরে"
+        },
+        "p": [
+          {
+            "en": "Wa lakum fi al-ardi mustaqarr: and for you on the earth a mustaqarr, a place to settle. At-Tabari paraphrases it as a resting place you settle in and a bed you spread out, and gives Abu al-'Aliyah's reading through 2:22, He who made the earth a bed for you. From Ibn 'Abbas he relays, through as-Suddi and a narrator whom as-Suddi leaves unnamed, that the mustaqarr is the graves. Ibn Kathir has the same gloss from Ibn 'Abbas, and a second report from him: the surface of the earth and what lies beneath it. Both, he notes, are relayed by Ibn Abi Hatim.",
+            "bn": "ওয়া লাকুম ফিল আরদি মুসতাকার: আর পৃথিবীতে তোমাদের জন্য আছে মুসতাকার, থিতু হওয়ার জায়গা। তাবারী নিজের ভাষায় বলেন: এমন আশ্রয় যেখানে তোমরা স্থির হবে, এমন বিছানা যা তোমরা পেতে নেবে। আবুল আলিয়ার ব্যাখ্যাও তিনি আনেন ২:২২ আয়াত দিয়ে: যিনি পৃথিবীকে তোমাদের জন্য বিছানা বানিয়েছেন। ইবন আব্বাস (রাঃ) থেকে তিনি বর্ণনা করেন যে মুসতাকার মানে কবর। বর্ণনাটি এসেছে সুদ্দীর মাধ্যমে, আর সুদ্দী মাঝের বর্ণনাকারীর নাম বলেননি। ইবন কাসীরও ইবন আব্বাস (রাঃ) থেকে এই ব্যাখ্যা আনেন, সঙ্গে তাঁর আরেকটি বর্ণনা: পৃথিবীর উপরিভাগ আর তার নিচে যা আছে। তিনি জানান, দুটি বর্ণনাই ইবন আবী হাতিমের।"
+          },
+          {
+            "en": "At-Tabari then gives his own judgement, and it joins the readings. Allah told them they would have a mustaqarr on the earth without limiting it to their lives rather than their deaths, so the word keeps its full reach: they settle on its back while alive and in its belly after death. He cites 77:25 and 77:26: did We not make the earth a container, for the living and the dead? Ibn Kathir reads the phrase as settled homes and lifespans fixed to known terms, which the Pen has already written, decree has counted, and the First Book has recorded.",
+            "bn": "এরপর তাবারী নিজের সিদ্ধান্ত দেন, আর তাতে ব্যাখ্যাগুলো মিলে যায়। আল্লাহ জানিয়েছেন পৃথিবীতে তাদের মুসতাকার থাকবে, কিন্তু তা জীবিত অবস্থার জন্য সীমিত করেননি, মৃত্যুর পরকে বাদও দেননি। তাই শব্দটি তার পুরো অর্থ নিয়েই থাকবে। জীবিত অবস্থায় মানুষ থাকে মাটির পিঠে, মৃত্যুর পর তার পেটে। তিনি উদ্ধৃত করেন ৭৭:২৫ ও ৭৭:২৬ আয়াত: আমি কি পৃথিবীকে ধারণকারী বানাইনি, জীবিত ও মৃত সবার জন্য? ইবন কাসীর বাক্যটির অর্থ করেন স্থির বসবাস আর নির্দিষ্ট মেয়াদে বাঁধা আয়ু। কলম তা লিখে ফেলেছে, তাকদীর তা গুনে রেখেছে, প্রথম কিতাবে তা লেখা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enjoyment for an Unmeasured Time",
+          "bn": "অজানা মাপের সময় পর্যন্ত ভোগ"
+        },
+        "p": [
+          {
+            "en": "Wa mata'un ila hin: and enjoyment until a time. At-Tabari reads it as something you enjoy until the world comes to its end. Ibn 'Abbas, through the same chain with its unnamed link, says until the Day of Resurrection and the ending of the world. The Muyassar reads it more closely to each life: you will enjoy it until your own terms run out. As-Sa'di, at 2:36, also reads it as the end of your terms, after which you move on to the home you were created for, and which was created for you.",
+            "bn": "ওয়া মাতাউন ইলা হীন: আর একটা সময় পর্যন্ত ভোগের সামগ্রী। তাবারী এর অর্থ করেন, দুনিয়া শেষ হওয়া পর্যন্ত যা তোমরা ভোগ করবে। ইবন আব্বাস (রাঃ) থেকে, নাম না বলা বর্ণনাকারীসহ সেই একই সূত্রে, এসেছে: কিয়ামতের দিন আর দুনিয়ার সমাপ্তি পর্যন্ত। মুয়াসসার অর্থটাকে প্রত্যেকের জীবনের কাছে নিয়ে আসে: নিজেদের মেয়াদ ফুরানো পর্যন্ত তোমরা তা ভোগ করবে। ২:৩৬ আয়াতে সা'দীও একে বলেন তোমাদের মেয়াদের শেষ। তারপর তোমরা চলে যাবে সেই ঘরে, যার জন্য তোমাদের বানানো হয়েছে, আর যা বানানো হয়েছে তোমাদের জন্য।"
+          },
+          {
+            "en": "The word hin itself, at-Tabari explains, means a time whose extent is unknown, and he cites a line of the poet Jarir to show it. Al-Qurtubi, at 2:36, ties the two halves of the phrase together: those who take mustaqarr as life in this world read hin as death, and those who take it as the graves read hin as the rising of the Hour. He defines mata' widely, as whatever is enjoyed of food, clothing, life, conversation, companionship and more.",
+            "bn": "তাবারী বলেন, হীন শব্দের অর্থ এমন সময়, যার পরিমাণ জানা নেই। এর প্রমাণে তিনি কবি জারীরের একটি পঙক্তি আনেন। ২:৩৬ আয়াতে কুরতুবী বাক্যের দুই অংশকে মিলিয়ে দেখান। যারা মুসতাকার বলতে দুনিয়ার জীবন বোঝেন, তাঁরা হীন বলতে বোঝেন মৃত্যু। আর যারা মুসতাকার বলতে কবর বোঝেন, তাঁরা হীন বলতে বোঝেন কিয়ামত। মাতাকে তিনি সংজ্ঞায়িত করেন বড় পরিসরে: খাবার, পোশাক, জীবন, কথাবার্তা, সঙ্গ, আরও যা কিছু উপভোগ করা হয়।"
+          },
+          {
+            "en": "As-Sa'di, on this verse itself, describes the life it promises. Allah made for them on the earth a life followed by death, charged with testing and trial. They remain there while He sends them His messengers and sends down His books, until death comes and they are buried in it. Then, when they have run their course, He raises them and brings them out of it to the home that is truly a home, the abode of lasting residence. The next verse, 7:25, says this in three short clauses.",
+            "bn": "এ আয়াতের ব্যাখ্যায় সা'দী সেই জীবনের ছবি আঁকেন, যার কথা আয়াত বলছে। আল্লাহ পৃথিবীতে তাদের জন্য এমন জীবন রেখেছেন, যার পরে আসে মৃত্যু, আর যা পরীক্ষা ও যাচাইয়ে ভরা। তারা সেখানে থাকবে, আর তিনি তাদের কাছে রাসূল পাঠাবেন, কিতাব নাজিল করবেন, যতক্ষণ না মৃত্যু এসে তাদের সেখানেই দাফন করা হয়। তারপর পালা শেষ হলে তিনি তাদের জীবিত করে সেখান থেকে বের করবেন, নিয়ে যাবেন সেই ঘরে যা সত্যিকারের ঘর, চিরস্থায়ী বসবাসের ঠিকানা। পরের আয়াত ৭:২৫ এ কথাই বলে তিনটি ছোট বাক্যে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Guest in a Lent House",
+          "bn": "ধার দেওয়া ঘরের মেহমান"
+        },
+        "p": [
+          {
+            "en": "Two cautions belong here. The verse describes the enmity the text describes, and it licenses nothing against any living person or community; it makes no human group anyone's enemy. Nor does it lay the fall on the woman: the verses before it speak of both of them, in the dual, being whispered to, and of both repenting. None of the tafsirs fetched for this verse attaches a sound hadith to it, so none is quoted here.",
+            "bn": "এখানে দুটি সতর্কতা দরকার। আয়াত যে শত্রুতার বর্ণনা দেয়, সেটুকুই বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি তা দেয় না, কোনো মানবগোষ্ঠীকে কারও শত্রু বানায় না। পতনের দায়ও তা নারীর ঘাড়ে চাপায় না। আগের আয়াতগুলো দ্বিবচনে দুজনের কথাই বলে: কুমন্ত্রণা দেওয়া হয়েছিল দুজনকেই, তওবাও করেছিলেন দুজনেই। এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হয়নি।"
+          },
+          {
+            "en": "Lived, the verse asks for a posture. A mustaqarr is a place of rest, so the earth is no prison to resent; mata' is enjoyment, so its food and company are gifts. But ila hin stands at the end of both. Hold what you have as a guest holds what the host has laid out, and keep your hostility for the enemy who came down with you, not for those who share the lodging.",
+            "bn": "জীবনে এ আয়াত একটা ভঙ্গি চায়। মুসতাকার মানে বিশ্রামের জায়গা, তাই পৃথিবী এমন কারাগার নয় যাকে মনে মনে অভিশাপ দিতে হবে। মাতা মানে ভোগের সামগ্রী, তাই এখানকার খাবার আর সঙ্গ উপহার। কিন্তু দুটোর শেষেই দাঁড়িয়ে আছে ইলা হীন। মেজবান যা সাজিয়ে রেখেছেন, মেহমান যেভাবে তা ব্যবহার করে, আপনার হাতের জিনিসও সেভাবে ধরুন। আর শত্রুতা জমিয়ে রাখুন সেই শত্রুর জন্য, যে আপনার সঙ্গেই নেমেছে। একই সরাইখানায় যারা আছে, তাদের জন্য নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "7:27": {
     "sections": [
       {

@@ -31543,6 +31543,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "You were created, shaped and honoured before you could earn any of it; answer that honour with gratitude and ready obedience, and remember who has envied it from the first day.",
     "lessonBn": "কোনো কিছু অর্জনের আগেই আপনাকে সৃষ্টি করা হয়েছে, আকৃতি দেওয়া হয়েছে, সম্মানিত করা হয়েছে। সেই সম্মানের জবাব দিন শোকর আর তৎপর আনুগত্য দিয়ে, আর মনে রাখুন প্রথম দিন থেকে কে তাকে হিংসা করে আসছে।"
+  },
+  "7:24": {
+    "reflectionEn": "The prayer for forgiveness has just been spoken, and the next word is a command: go down. The verb is plural, so more than a couple leave the Garden, and the verse names what goes with them: some of them enemies to others. Then it hands them two things on the earth, a place to settle and enjoyment, and closes both with a short phrase: until a time. Nothing here calls the earth a prison, and nothing calls it a home for ever. It is a lodging with an end already set. That changes how I hold what I have, and how I read the enemy. Am I furnishing a rented room as though it were mine? And do I know where the real hostility comes from?",
+    "reflectionBn": "ক্ষমার দোয়া সবে শেষ হয়েছে, আর পরের কথাটাই আদেশ: নেমে যাও। ক্রিয়াটা বহুবচন, তাই জান্নাত ছেড়ে নামছেন শুধু দুজন নন। সঙ্গে কী নামছে, আয়াত তাও বলে দেয়: তোমাদের কেউ কেউ অন্যদের শত্রু। তারপর পৃথিবীতে দুটি জিনিস দেওয়া হয়, থাকার জায়গা আর ভোগের সামগ্রী। দুটোর শেষেই ছোট্ট একটা কথা জুড়ে আছে: একটা সময় পর্যন্ত। এখানে পৃথিবীকে কারাগার বলা হয়নি, চিরকালের বাড়িও বলা হয়নি। এ এক সরাইখানা, যার মেয়াদ আগেই ঠিক করা। কথাটা বুঝলে বদলে যায় আমার হাতের জিনিসগুলো ধরে রাখার ধরন, বদলে যায় শত্রুকে চেনার চোখও। ভাড়া করা ঘরকে কি আমি নিজের বাড়ির মতো সাজাচ্ছি? আর আসল শত্রুতা কোন দিক থেকে আসে, তা কি আমি জানি?",
+    "pointsEn": [
+      "If I knew the day my stay here ends, what would I stop collecting this week?",
+      "Where am I treating a passing comfort as though it were the place I was made for?",
+      "Who is the enemy this verse names, and have I been spending my hostility on people instead?",
+      "What provision am I carrying out of this lodging, and what am I only piling up inside it?",
+      "When something is taken from me here, do I remember that it was given until a time?"
+    ],
+    "pointsBn": [
+      "এখানে আমার থাকার মেয়াদ কবে শেষ, তা জানলে এ সপ্তাহে কোন জিনিস জমানো বন্ধ করতাম?",
+      "কোন ক্ষণস্থায়ী আরামকে আমি এমনভাবে আঁকড়ে আছি, যেন ওটাই আমার জন্য বানানো আসল ঠিকানা?",
+      "এ আয়াত কোন শত্রুর কথা বলছে? আর আমার শত্রুতা কি তার বদলে মানুষের উপর খরচ হয়ে যাচ্ছে?",
+      "এই সরাইখানা থেকে কোন পাথেয় সঙ্গে নিয়ে যাচ্ছি, আর কী শুধু এর ভেতরেই স্তূপ করে রাখছি?",
+      "এখানে কিছু হাতছাড়া হলে কি মনে রাখি, ওটা দেওয়াই হয়েছিল একটা সময় পর্যন্ত?"
+    ],
+    "lessonEn": "The earth is a lodging with provision until a set time, and the enemy came down with you, so live here lightly and keep your guard.",
+    "lessonBn": "পৃথিবী একটা নির্দিষ্ট সময় পর্যন্ত রিজিকসহ থাকার জায়গা, আর শত্রুও আপনার সঙ্গেই নেমেছে। তাই এখানে হালকা হয়ে থাকুন, আর সতর্কতা ছাড়বেন না।"
   }
 };
 
