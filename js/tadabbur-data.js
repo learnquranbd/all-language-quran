@@ -35099,6 +35099,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Faith is tested when Allah's ruling is called in to settle your own dispute; come to it willingly, even when you fear it may go against you.",
     "lessonBn": "নিজের বিবাদের মীমাংসায় যখন আল্লাহর ফয়সালা ডাকা হয়, তখনই ইমানের পরীক্ষা হয়। রায় আপনার বিপক্ষে যেতে পারে, এই ভয় থাকলেও স্বেচ্ছায় তার দিকে এগিয়ে যান।"
+  },
+  "24:17": {
+    "reflectionEn": "The warning comes after the event, not before it. The rumour had already run, tongues had already carried it, and the verses before this one had already named it for what it was. Now Allah speaks to the same people about tomorrow: never return to the like of it. He calls this His counsel, the word for advice given by one who wants your good. Then He attaches a condition that cuts deep: if you are believers. Faith here is not a label kept in a drawer. It is what holds the mouth shut the next time a story arrives. I have passed stories on before. What would it take for the next one to stop with me?",
+    "reflectionBn": "সতর্কবাণীটা এসেছে ঘটনার পরে, আগে নয়। গুজব ততক্ষণে ছড়িয়ে গেছে, মুখে মুখে ঘুরেছে, আর আগের আয়াতগুলো সেটাকে তার আসল নামে ডেকে দিয়েছে। এবার আল্লাহ সেই মানুষগুলোকেই আগামী দিনের কথা বলছেন: এমন কাজে আর কখনো ফিরে যেয়ো না। একে তিনি বলছেন তাঁর উপদেশ, অর্থাৎ এমন নসিহত যা দেয় সে-ই, যে আপনার ভালো চায়। তারপর জুড়ে দিচ্ছেন একটা শর্ত, যা গভীরে গিয়ে লাগে: যদি তোমরা মুমিন হও। ঈমান এখানে আলমারিতে তুলে রাখা কোনো খেতাব নয়। পরের বার কোনো কাহিনি কানে এলে মুখ বন্ধ রাখে যে জিনিস, সেটাই ঈমান। আমি আগেও কথা ছড়িয়েছি। পরের কাহিনিটা যেন আমার কাছে এসেই থেমে যায়, তার জন্য আমার কী লাগবে?",
+    "pointsEn": [
+      "Which kind of story have I passed on more than once, even after I knew it was wrong to?",
+      "When I am corrected, do I hear it as counsel from someone who wants my good, or as an insult to defend myself against?",
+      "If my faith this month were measured only by what I refused to repeat, how would it be counted?",
+      "What can I settle now, before the next rumour reaches me, so that it ends with me?",
+      "Is there someone I still look at through an old story, though nothing was ever proven against them?"
+    ],
+    "pointsBn": [
+      "কোন ধরনের কথা আমি একাধিকবার ছড়িয়েছি, এমনকি অন্যায় জেনেও?",
+      "কেউ আমার ভুল ধরিয়ে দিলে আমি কি সেটাকে আমার কল্যাণকামী কারও নসিহত হিসেবে শুনি, নাকি অপমান ভেবে আত্মরক্ষায় নামি?",
+      "এ মাসে আমার ঈমান যদি শুধু এই দিয়ে মাপা হতো যে কোন কথা আমি আর মুখে আনিনি, তবে হিসাবটা কেমন দাঁড়াত?",
+      "পরের গুজবটা কানে আসার আগেই এখন আমি কী ঠিক করে রাখতে পারি, যাতে সেটা আমার কাছেই শেষ হয়?",
+      "এমন কেউ কি আছে, যাকে আমি এখনো পুরোনো কোনো গল্পের চোখে দেখি, অথচ তার বিরুদ্ধে কিছুই কখনো প্রমাণিত হয়নি?"
+    ],
+    "lessonEn": "Take Allah's warning as counsel for every tomorrow: never again carry an unproven charge against a believer, and let your faith be what stops your tongue.",
+    "lessonBn": "আল্লাহর সতর্কবাণীকে প্রতিটি আগামী দিনের নসিহত হিসেবে নিন: কোনো মুমিনের বিরুদ্ধে অপ্রমাণিত অভিযোগ আর কখনো বয়ে নেবেন না, আর আপনার ঈমানই যেন আপনার জিহ্বা থামায়।"
   }
 };
 

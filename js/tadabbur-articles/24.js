@@ -603,6 +603,138 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "24:17": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Rebuke That Turns to Tomorrow",
+          "bn": "তিরস্কার এবার সামনের দিকে"
+        },
+        "p": [
+          {
+            "en": "Ya'izukumu Allahu an ta'udu li-mithlihi abadan in kuntum mu'minin: Allah admonishes you never to return to the like of it, if you are believers. Nine Arabic words close a run of verses that opened at 24:11 with those who came with the ifk, the slander raised against ʿĀʾishah (RA). Allah Himself declared her innocence in these verses, 24:11 to 24:26, and that verdict stands behind every line here. The verses just before rebuked what had already been said: why did you not think well (24:12), why did you not say it is not for us to speak of this (24:16).",
+            "bn": "ইয়াইযুকুমুল্লাহু আন তাঊদূ লিমিসলিহী আবাদান ইন কুনতুম মু'মিনীন: আল্লাহ তোমাদের উপদেশ দিচ্ছেন, তোমরা যেন আর কখনো এর মতো কিছুতে ফিরে না যাও, যদি তোমরা মুমিন হও। আরবিতে নয়টি শব্দ। এগুলো দিয়ে শেষ হচ্ছে সেই আয়াতের ধারা, যা ২৪:১১-এ শুরু হয়েছিল ইফক নিয়ে আসা লোকদের কথা দিয়ে। ইফক মানে আয়েশা (রাঃ)-এর নামে রটানো অপবাদ। এই আয়াতগুলোতে, ২৪:১১ থেকে ২৪:২৬ পর্যন্ত, আল্লাহ নিজেই তাঁর নির্দোষিতা ঘোষণা করেছেন, আর সেই রায় এখানকার প্রতিটি বাক্যের পেছনে দাঁড়িয়ে আছে। ঠিক আগের আয়াতগুলো তিরস্কার করেছে যা আগেই বলা হয়ে গেছে তার জন্য: কেন তোমরা ভালো ধারণা করলে না (২৪:১২), কেন বললে না, এ নিয়ে কথা বলা আমাদের কাজ নয় (২৪:১৬)।"
+          },
+          {
+            "en": "This verse changes direction. Each rebuke before it looked back at a day that was over; this one looks ahead to every day that remains. At-Tabari names its addressees as the people he has just described: those who took up the lie with their tongues and said with their mouths what they had no knowledge of. The same community that faltered is now spoken to about its future. Allah did not cast them off. He counselled them.",
+            "bn": "এই আয়াতে দিক বদলায়। আগের প্রতিটি তিরস্কার তাকিয়ে ছিল পেছনে, পার হয়ে যাওয়া একটা দিনের দিকে। এটি তাকায় সামনে, বাকি সব দিনের দিকে। তাবারী এর সম্বোধিতদের চিনিয়ে দেন সেই লোক হিসেবেই, যাদের কথা তিনি এইমাত্র বলেছেন: যারা জিহ্বায় মিথ্যাটা তুলে নিয়েছিল, আর মুখে এমন কথা বলেছিল যার কোনো জ্ঞান তাদের ছিল না। যে সমাজ হোঁচট খেয়েছিল, তাদেরকেই এখন তাদের ভবিষ্যৎ নিয়ে বলা হচ্ছে। আল্লাহ তাদের ছুড়ে ফেলেননি, নসিহত করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counsel That Carries a Ban",
+          "bn": "নিষেধের জোর নিয়ে নসিহত"
+        },
+        "p": [
+          {
+            "en": "The verb ya'izu comes from wa'z, admonition, and the commentators gloss it with a cluster of near-synonyms whose shades matter. At-Tabari: Allah reminds you and forbids you by the verses of His Book. The Muyassar keeps the same pair, reminds and forbids. Al-Baghawi sets two early glosses side by side: Ibn ʿAbbas (RA) said, Allah makes it unlawful for you, and Mujahid said, Allah forbids you. On each of these readings the counsel carries the weight of a command.",
+            "bn": "ইয়াইযু ক্রিয়াটি এসেছে ওয়া'য থেকে, যার অর্থ উপদেশ। তাফসীরকারেরা একে ব্যাখ্যা করেন কাছাকাছি অর্থের কয়েকটি শব্দে, আর সেগুলোর সূক্ষ্ম পার্থক্যটা গুরুত্বপূর্ণ। তাবারী বলেন: আল্লাহ তাঁর কিতাবের আয়াত দিয়ে তোমাদের স্মরণ করিয়ে দিচ্ছেন এবং নিষেধ করছেন। মুয়াসসারও এই জোড়াই রাখে: স্মরণ করানো আর নিষেধ। বাগাভী পাশাপাশি রাখেন প্রথম যুগের দুটি ব্যাখ্যা। ইবন আব্বাস (রাঃ) বলেছেন, আল্লাহ তোমাদের জন্য এটা হারাম করছেন। মুজাহিদ বলেছেন, আল্লাহ তোমাদের নিষেধ করছেন। যে ব্যাখ্যাই ধরুন, এই নসিহতের ওজন হুকুমের সমান।"
+          },
+          {
+            "en": "Ibn Kathir sharpens the edge. He reads ya'izukum as Allah forbidding you while threatening, mutawa'idan, that anything resembling this should ever come from you. This admonition is no gentle suggestion to be weighed and set aside. As-Sa'di turns to the other face of the word: Allah admonishes you and gives you sincere advice, and how excellent are the admonitions and counsels of our Lord. He quotes another verse that uses the same verb, inna Allaha ni'imma ya'izukum bihi, excellent is that with which Allah admonishes you (4:58).",
+            "bn": "ইবন কাসীর কথাটা আরও ধারালো করেন। তাঁর পাঠে ইয়াইযুকুম মানে আল্লাহ তোমাদের নিষেধ করছেন, আর সেই সঙ্গে হুঁশিয়ার করছেন (মুতাওয়াইদান), যেন এর মতো কিছু তোমাদের কাছ থেকে আর কখনো না ঘটে। এ উপদেশ তাই এমন কোনো নরম পরামর্শ নয়, যা ভেবে দেখে পাশে সরিয়ে রাখা যায়। সা'দী শব্দটির অন্য পিঠটা দেখান: আল্লাহ তোমাদের উপদেশ দিচ্ছেন, আন্তরিক নসিহত করছেন, আর আমাদের রবের উপদেশ ও নসিহত কতই না উত্তম। তিনি একই ক্রিয়া আছে এমন আরেকটি আয়াত উদ্ধৃত করেন: ইন্নাল্লাহা নি'ইম্মা ইয়াইযুকুম বিহী, আল্লাহ তোমাদের যে উপদেশ দেন তা কতই না উত্তম (৪:৫৮)।"
+          },
+          {
+            "en": "From this as-Sa'di draws a duty. Such counsel, he says, must be met with acceptance and compliance, with surrender, and with thanks to Allah for what He has made clear to us. Ibn Kathir hears the warning inside the counsel; as-Sa'di hears the kindness inside the warning. A listener who catches only one of them has heard half of the word.",
+            "bn": "সা'দী এখান থেকে একটা দায়িত্ব বের করেন। তাঁর কথায়, এমন নসিহতের জবাব হবে কবুল করা আর মেনে নেওয়া, আত্মসমর্পণ, আর আল্লাহ আমাদের জন্য যা স্পষ্ট করেছেন তার জন্য তাঁর শোকর। ইবন কাসীর নসিহতের ভেতরে হুঁশিয়ারিটা শোনেন, সা'দী হুঁশিয়ারির ভেতরে মমতাটা। যে শ্রোতা কেবল একটা শোনে, সে শব্দটার অর্ধেক শুনেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Out of Dislike That You Return",
+          "bn": "ফিরে যাওয়া তাঁর অপছন্দ বলে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi pauses on the grammar of an ta'udu, that you return. The particle an, he says, stands as a maf'ul min ajlihi, an object of purpose, and he supplies the word to be understood: karahiyata an, out of dislike that, or something like it. Read that way, the sentence does not merely say that Allah warns you about returning. It says He warns you because He dislikes that you should return. The prohibition carries its reason inside it, and the reason is Allah's own displeasure.",
+            "bn": "আন তাঊদূ, অর্থাৎ তোমরা যেন ফিরে না যাও, এর ব্যাকরণে কুরতুবী একটু থামেন। তিনি বলেন, এখানে আন অব্যয়টি মাফউল লি-আজলিহী, মানে উদ্দেশ্য বা কারণ বোঝানো কর্ম। উহ্য শব্দটাও তিনি বসিয়ে দেন: কারাহিয়াতা আন, অর্থাৎ ফিরে যাওয়া অপছন্দ বলে, কিংবা এ ধরনের কিছু। এভাবে পড়লে বাক্যটা শুধু এটুকু বলে না যে আল্লাহ ফিরে যাওয়ার ব্যাপারে সতর্ক করছেন। বলে, তিনি সতর্ক করছেন কারণ তোমাদের ফিরে যাওয়া তিনি অপছন্দ করেন। নিষেধের ভেতরেই তার কারণ গাঁথা, আর সেই কারণ আল্লাহর নিজের অসন্তুষ্টি।"
+          },
+          {
+            "en": "Then comes abadan, ever. Ibn Kathir glosses the phrase as anything resembling this, ever, and adds the time it governs: fima yustaqbal, in what is yet to come. The word shuts every door at once. There is no second time and no season for the old story. At-Tabari places abadan at the very end of his account of the deed, after the words what you had no knowledge of, so that the never is welded to the deed he has just spelled out.",
+            "bn": "তারপর আসে আবাদান, কখনো। ইবন কাসীর বাক্যাংশটির ব্যাখ্যা দেন এভাবে: এর মতো কোনো কিছু, কখনো। সঙ্গে জুড়ে দেন এর সময়সীমা: ফীমা ইউসতাকবাল, অর্থাৎ যা সামনে আসছে তাতে। এই একটা শব্দ সব দরজা একসঙ্গে বন্ধ করে দেয়। দ্বিতীয়বার বলে কিছু নেই, পুরোনো কাহিনি আবার বলার কোনো মৌসুমও নেই। তাবারী আবাদান শব্দটি রাখেন তাঁর বর্ণনার একেবারে শেষে, যে কথার জ্ঞান তোমাদের ছিল না, ঠিক তার পরে। ফলে কখনো-না কথাটা জুড়ে যায় তাঁর এইমাত্র খুলে বলা কাজটির সঙ্গেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Wide Is Its Like",
+          "bn": "এর মতো কতদূর পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "Li-mithlihi, to the like of it. What exactly is the it? Here the commentators part ways. At-Tabari reads it closely: the like of your deed in the matter of ʿĀʾishah (RA), your taking up with your tongues the falsehood told about her, and your saying with your mouths what you had no knowledge of. The Muyassar widens the frame a little, to the like of this act of false accusation, al-ittiham al-kadhib, without tying it to one name.",
+            "bn": "লিমিসলিহী, এর মতো কিছুতে। কিন্তু এই এর বলতে ঠিক কী? এখানে তাফসীরকারদের পথ আলাদা হয়ে যায়। তাবারী পড়েন কাছ থেকে: আয়েশা (রাঃ)-এর ব্যাপারে তোমরা যা করেছিলে তার মতো কিছু। অর্থাৎ তাঁর নামে রটানো মিথ্যাটা জিহ্বায় তুলে নেওয়া, আর মুখে এমন কথা বলা যার কোনো জ্ঞান তোমাদের ছিল না। মুয়াসসার পরিধিটা একটু বাড়ায়: এই মিথ্যা অভিযোগের (আল-ইত্তিহামুল কাযিব) মতো কোনো কাজ। কোনো একজনের নামের সঙ্গে সে কথাটা বেঁধে দেয় না।"
+          },
+          {
+            "en": "As-Sa'di widens it further. Mithlihi, he says, means its counterpart: accusing the believers of immoral conduct, ramy al-mu'minin bil-fujur. On his reading the verse guards every believer's honour. Al-Qurtubi moves the other way and narrows it. Its like, he argues, can only be the same saying about the very person spoken of, or about someone of her rank among the wives of the Prophet ﷺ, because of the harm such words do to the Messenger of Allah ﷺ in his honour and his family.",
+            "bn": "সা'দী আরও বাড়ান। তাঁর মতে মিসলিহী মানে এর সমতুল্য কিছু: মুমিনদের উপর অশ্লীলতার অপবাদ চাপানো (রামইউল মু'মিনীনা বিল-ফুজূর)। এভাবে পড়লে আয়াতটি প্রত্যেক মুমিনের সম্মান পাহারা দেয়। কুরতুবী চলেন উল্টো দিকে, পরিধি ছোট করে আনেন। তাঁর যুক্তি, এর মতো বলতে বোঝাতে পারে কেবল ঠিক সেই মানুষটির ব্যাপারে একই কথা, অথবা নবী ﷺ-এর স্ত্রীদের মধ্যে তাঁর মর্যাদার কারও ব্যাপারে। কারণ এমন কথা আল্লাহর রাসূল ﷺ-কে তাঁর সম্মান ও পরিবারের ব্যাপারে কষ্ট দেয়।"
+          },
+          {
+            "en": "The difference is real, and it is worth keeping open rather than settling. As-Sa'di reads the verse as a standing protection for the good name of every believer. Al-Qurtubi reads it as a protection drawn around the household of the Prophet ﷺ in particular. Both readings agree on the core that no one disputes: what was said about ʿĀʾishah (RA) may never be said again.",
+            "bn": "পার্থক্যটা সত্যিকারের, আর একে মীমাংসা না করে খোলা রাখাই ভালো। সা'দী আয়াতটিকে দেখেন প্রত্যেক মুমিনের সুনামের স্থায়ী রক্ষাকবচ হিসেবে। কুরতুবী দেখেন বিশেষ করে নবী ﷺ-এর পরিবারকে ঘিরে টানা এক সুরক্ষা হিসেবে। মূল কথায় দুই পাঠই একমত, যা নিয়ে কারও দ্বিমত নেই: আয়েশা (রাঃ)-এর ব্যাপারে যা বলা হয়েছিল, তা আর কখনো বলা যাবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If You Are Believers",
+          "bn": "যদি তোমরা মুমিন হও"
+        },
+        "p": [
+          {
+            "en": "In kuntum mu'minin, if you are believers. The condition is short, and each commentator hears a different weight in it. Ibn Kathir: if you believe in Allah and His law, and revere His Messenger ﷺ. Then he adds a sentence the verse itself does not spell out: as for one who is described by disbelief, his is another ruling. The counsel is spoken to believers, and it assumes that faith is the very thing that will make them listen to it.",
+            "bn": "ইন কুনতুম মু'মিনীন, যদি তোমরা মুমিন হও। শর্তটা ছোট, আর প্রত্যেক তাফসীরকার এতে আলাদা ওজন শোনেন। ইবন কাসীর বলেন: যদি তোমরা আল্লাহ ও তাঁর শরীয়তে ঈমান রাখো, আর তাঁর রাসূল ﷺ-কে সম্মান করো। তারপর তিনি এমন একটা বাক্য যোগ করেন, যা আয়াত নিজে খুলে বলে না: আর যে কুফরে চিহ্নিত, তার হুকুম আলাদা। নসিহতটা মুমিনদের উদ্দেশে বলা। ধরে নেওয়া হচ্ছে, ঈমানই সেই জিনিস যা তাদের এ কথা শোনাবে।"
+          },
+          {
+            "en": "At-Tabari reads the condition as a matter of response rather than of label: if you are people who take admonition from Allah's admonitions, follow His command, and stop at what He has forbidden you. Faith, for him, shows itself in being counselled. Al-Qurtubi calls the phrase tawqif wa-tawkid, a pointing-out and a strengthening, and gives an everyday parallel: as you might say, you ought to do such and such, if you are a man. The condition does not doubt the hearer's faith. It calls upon it.",
+            "bn": "তাবারী শর্তটাকে দেখেন পরিচয়ের প্রশ্ন হিসেবে নয়, সাড়া দেওয়ার প্রশ্ন হিসেবে: যদি তোমরা এমন লোক হও, যারা আল্লাহর উপদেশ থেকে শিক্ষা নেয়, তাঁর আদেশ মানে, আর যা তিনি নিষেধ করেছেন তাতে থেমে যায়। তাঁর কাছে ঈমানের প্রকাশ নসিহত কবুল করার মধ্যেই। কুরতুবী বাক্যাংশটিকে বলেন তাওকীফ ওয়া তাওকীদ, অর্থাৎ বিষয়টার দিকে ইঙ্গিত করা আর তাকে জোরালো করা। রোজকার ভাষা থেকে একটা তুলনাও দেন, যেমন কাউকে বলা হয়: তুমি পুরুষ হলে তোমার এই কাজটা করা উচিত। শর্তটা শ্রোতার ঈমানে সন্দেহ করছে না, তাকে ডেকে জাগাচ্ছে।"
+          },
+          {
+            "en": "As-Sa'di draws the general lesson in a single line. The verse shows, he says, that sincere faith prevents its holder from venturing upon what is forbidden. It is a restraint that acts on the tongue before the words leave it. If the slander could pass through a believing mouth a second time without a pause, then something in that faith was not doing the work faith is meant to do.",
+            "bn": "সা'দী সাধারণ শিক্ষাটা এক লাইনে বলে দেন। তাঁর কথায়, আয়াতটি দেখায় যে খাঁটি ঈমান তার ধারককে হারামের দিকে পা বাড়াতে দেয় না। ঈমান তাঁর কাছে এক বাঁধন, যা কথা বেরোনোর আগেই জিহ্বার উপর কাজ করে। কোনো মুমিনের মুখ দিয়ে সেই অপবাদ যদি দ্বিতীয়বার বিনা দ্বিধায় বেরিয়ে যেতে পারে, তবে সেই ঈমানের ভেতরে কিছু একটা তার কাজ করছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before a Thought Becomes Speech",
+          "bn": "ভাবনা কথা হয়ে ওঠার আগে"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to 24:17 itself. Ibn Kathir, commenting on the group 24:16 to 24:18, cites one on the clause before it. If an unsuitable thought about good people is put into the mind by Shaytan, he says, one should not speak of it. Al-Bukhari's wording (5269), from Abu Hurayra (RA): Allah has forgiven my followers the evil thoughts that occur to their minds, as long as such thoughts are not put into action or uttered.",
+            "bn": "এই আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, তার কোনোটিই ২৪:১৭ আয়াতের সঙ্গে সরাসরি কোনো হাদীস জোড়ে না। ইবন কাসীর ২৪:১৬ থেকে ২৪:১৮ আয়াতের দলটির আলোচনায় একটি হাদীস আনেন আগের আয়াতের বাক্যাংশে। তিনি বলেন, ভালো মানুষদের ব্যাপারে শয়তান যদি মনে কোনো অনুচিত ভাবনা ঢুকিয়ে দেয়, তা নিয়ে মুখ খোলা উচিত নয়। আবূ হুরায়রা (রাঃ)-এর সূত্রে বুখারীর ভাষ্য (৫২৬৯): আল্লাহ আমার উম্মতের মনে আসা মন্দ ভাবনাগুলো ক্ষমা করে দিয়েছেন, যতক্ষণ না সেগুলো কাজে পরিণত করা হয় বা মুখে উচ্চারণ করা হয়।"
+          },
+          {
+            "en": "Al-Bukhari gives the report in his Sahih, and Ibn Kathir notes that it is in both Sahihs. The narration is general and is not tied to this verse, but it draws the line the verse depends on. A passing thought is not yet the deed. The deed begins when the thought is spoken, or acted upon. Returning to the like of it, then, does not start with a suspicion that crosses the mind. It starts the moment that suspicion is allowed onto the tongue.",
+            "bn": "বুখারী বর্ণনাটি তাঁর সহীহ গ্রন্থে এনেছেন, আর ইবন কাসীর উল্লেখ করেন যে এটি দুই সহীহতেই আছে। বর্ণনাটি সাধারণ, এই আয়াতের সঙ্গে বাঁধা নয়। তবু আয়াতটি যে রেখার উপর দাঁড়িয়ে, সেটা এ হাদীস টেনে দেয়। মনে আসা ভাবনা এখনো কাজ নয়। কাজ শুরু হয় যখন ভাবনাটা মুখে আসে, কিংবা তার উপর আমল হয়। তাই এর মতো কিছুতে ফিরে যাওয়া শুরু হয় না মনে উঁকি দেওয়া কোনো সন্দেহ দিয়ে। শুরু হয় ঠিক তখন, যখন সেই সন্দেহকে জিহ্বায় উঠতে দেওয়া হয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, in its comment on the same group, explains why the slanderers' words could be called a lie without further proof. It is the integral spirit of Islam, it says, to consider every Muslim free from sin; anything contrary to this, put forward without proof, is a lie, and no further proof is needed to call it one. A believer's name begins clean, and the burden lies on the tongue that would stain it.",
+            "bn": "মাআরিফুল কুরআন একই দলের আলোচনায় ব্যাখ্যা করে, কেন অপবাদকারীদের কথাকে বাড়তি কোনো প্রমাণ ছাড়াই মিথ্যা বলা যায়। তার ভাষায়, প্রত্যেক মুসলিমকে গুনাহ থেকে মুক্ত ধরে নেওয়াই ইসলামের মূল চেতনা। প্রমাণ ছাড়া এর বিপরীত কিছু হাজির করা হলে সেটা মিথ্যা, আর একে মিথ্যা বলতে আর কোনো প্রমাণ লাগে না। মুমিনের নাম শুরু হয় নির্মল অবস্থায়, আর দায়টা বর্তায় সেই জিহ্বার উপর, যা তাতে দাগ লাগাতে চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cleared and Closed for Good",
+          "bn": "নির্দোষ ঘোষিত, চিরতরে বন্ধ"
+        },
+        "p": [
+          {
+            "en": "The next verse completes the thought: and Allah makes the verses clear to you, and Allah is Knowing, Wise (24:18). Ibn Kathir reads it as Allah making plain the rulings of His law and His decrees, knowing what is right for His servants and wise in what He lays down. After this, no one who heard the counsel can plead that the line was drawn unclearly.",
+            "bn": "পরের আয়াত কথাটা পূর্ণ করে: আর আল্লাহ তোমাদের জন্য আয়াতগুলো স্পষ্ট করে বর্ণনা করেন, আর আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময় (২৪:১৮)। ইবন কাসীরের পাঠে এর অর্থ, আল্লাহ তাঁর শরীয়তের বিধান ও তাঁর ফয়সালাগুলো খুলে বলেন। বান্দাদের জন্য কী ঠিক তা তিনি জানেন, আর যা নির্ধারণ করেন তাতে তিনি প্রজ্ঞাময়। এরপর যে এই নসিহত শুনেছে, সে আর দাবি করতে পারে না যে সীমারেখাটা অস্পষ্ট ছিল।"
+          },
+          {
+            "en": "These verses describe what was said in that one affair and the verdict Allah gave on it: ʿĀʾishah (RA) stands cleared by Allah Himself. They license nothing against any living person or community, and this verse names no one, so neither does this page. What it asks of the reader is smaller and harder: that the next unproven story about a believer should end where it arrives.",
+            "bn": "এই আয়াতগুলো বর্ণনা করে সেই একটি ঘটনায় কী বলা হয়েছিল, আর তার উপর আল্লাহ কী রায় দিয়েছেন: আয়েশা (রাঃ)-কে আল্লাহ নিজেই নির্দোষ ঘোষণা করেছেন। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এগুলো কোনো কিছুর অনুমতি দেয় না। এ আয়াত কারও নাম নেয় না, তাই এ লেখাও নেয় না। পাঠকের কাছে আয়াতটির চাওয়া ছোট, কিন্তু কঠিন: কোনো মুমিনের ব্যাপারে পরের অপ্রমাণিত কাহিনিটা যেন যেখানে এসে পৌঁছায়, সেখানেই শেষ হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "24:19": {
     "sections": [
       {
