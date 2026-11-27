@@ -35239,6 +35239,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Care deeply that others find guidance and keep conveying the truth with patience, but leave the outcome to God; it is not yours to carry until it breaks you.",
     "lessonBn": "অন্যরা হিদায়াত পাক, এ নিয়ে গভীরভাবে ভাবুন আর ধৈর্য ধরে সত্য পৌঁছে দিতে থাকুন। কিন্তু ফলাফল আল্লাহর হাতে ছেড়ে দিন; এ ভার এমনভাবে বইবার নয় যে তা আপনাকে ভেঙে দেয়।"
+  },
+  "25:1": {
+    "reflectionEn": "Before a single objection is answered, the surah opens with praise. Blessed is He: His good is abundant, and it stays. What He sent down is named the Furqan, the thing that separates, setting truth apart from falsehood, the lawful from the forbidden, guidance from straying. He sent it upon His servant, and the honour lies in that very word: the greatest of messengers is named by his worship. And He sent it so that he would be a warner to the worlds, which leaves no people and no age outside the address. So the copy on my shelf was not sent past me. Do I let it separate anything in my life, or do I keep it only as a blessing I own?",
+    "reflectionBn": "কোনো আপত্তির জবাব দেওয়ার আগেই সূরাটি শুরু হয় প্রশংসা দিয়ে। মহা বরকতময় তিনি: তাঁর কল্যাণ অফুরন্ত, আর তা টিকে থাকে চিরকাল। তিনি যা নাযিল করেছেন তার নাম ফুরকান, অর্থাৎ যা আলাদা করে দেয়। সত্যকে মিথ্যা থেকে, হালালকে হারাম থেকে, হেদায়াতকে গোমরাহি থেকে সে পৃথক করে। তিনি তা নাযিল করেছেন তাঁর বান্দার উপর। সম্মানটা লুকিয়ে আছে এই শব্দেই: রাসূলদের শ্রেষ্ঠ জনকে ডাকা হলো তাঁর ইবাদতের পরিচয়ে। আর নাযিল করেছেন যাতে তিনি বিশ্বজগতের জন্য সতর্ককারী হন। ফলে কোনো জাতি, কোনো যুগ এই সম্বোধনের বাইরে থাকে না। তাহলে আমার আলমারিতে রাখা কুরআনও আমাকে পাশ কাটিয়ে পাঠানো হয়নি। আমার জীবনের কোনো কিছু কি আমি একে আলাদা করতে দিই? নাকি শুধু বরকতের জিনিস হিসেবে নিজের কাছে রেখে দিই?",
+    "pointsEn": [
+      "What has the Qur'an actually separated in my life this year: a habit, a source of income, a way of speaking, a friendship?",
+      "When I count Allah's blessings, does the Book itself appear on my list, or only health, family and provision?",
+      "The best of creation was honoured with the name servant; do I carry my own servanthood as a weight or as a rank?",
+      "When I read a warning in the Qur'an, do I hear it spoken to other people, or to me first?",
+      "Which decision in front of me this week would come out differently if I let the Criterion sort right from wrong before my wishes do?"
+    ],
+    "pointsBn": [
+      "এ বছর কুরআন আমার জীবনে বাস্তবে কী আলাদা করে দিয়েছে: কোনো অভ্যাস, আয়ের কোনো পথ, কথা বলার কোনো ধরন, নাকি কোনো বন্ধুত্ব?",
+      "আল্লাহর নিয়ামত গুনতে বসলে কিতাবটি কি আমার তালিকায় আসে, নাকি শুধু সুস্থতা, পরিবার আর রিজিক?",
+      "সৃষ্টির শ্রেষ্ঠ মানুষটিকে সম্মান দেওয়া হয়েছে বান্দা নামে। আমি নিজের বান্দা হওয়াকে বোঝা মনে করি, নাকি মর্যাদা?",
+      "কুরআনে কোনো সতর্কবাণী পড়লে আমি কি ভাবি কথাটা অন্যদের বলা হচ্ছে, নাকি আগে আমাকেই?",
+      "এ সপ্তাহে সামনে থাকা কোন সিদ্ধান্তটা অন্যরকম হতো, যদি আমার ইচ্ছার আগে ফুরকানকে ঠিক-ভুল বাছাই করতে দিতাম?"
+    ],
+    "lessonEn": "The Qur'an was sent as a Criterion for all the worlds, you included; let it sort truth from falsehood in your own life, not only sit on a shelf as a blessing.",
+    "lessonBn": "কুরআন নাযিল হয়েছে গোটা বিশ্বজগতের জন্য ফুরকান হয়ে, আপনিও তার মধ্যে আছেন। শুধু বরকতের আশায় একে তুলে না রেখে, নিজের জীবনে একে সত্য-মিথ্যা বাছাই করতে দিন।"
   }
 };
 

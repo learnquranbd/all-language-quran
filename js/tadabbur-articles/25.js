@@ -11,6 +11,170 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "25:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "Praise at the Surah's Door",
+          "bn": "সূরার দুয়ারে প্রশংসা"
+        },
+        "p": [
+          {
+            "en": "Surat al-Furqan is wholly Makkan in the view of the majority, al-Qurtubi reports. Ibn 'Abbas (RA) and Qatada excepted three verses revealed in Madinah, 25:68 to 25:70; ad-Dahhak held the reverse, that the surah is Madinan with Makkan verses inside it. Al-Qurtubi then names its purpose: to show where the greatness of the Qur'an lies, to record the disbelievers' attacks on prophethood, and to answer what they said.",
+            "bn": "অধিকাংশ আলেমের মতে সূরা আল-ফুরকান পুরোটাই মক্কী, কুরতুবী এ কথা জানান। ইবন আব্বাস (রাঃ) ও কাতাদা এর তিনটি আয়াতকে আলাদা করেছেন, যেগুলো মদীনায় নাযিল হয়েছে: ২৫:৬৮ থেকে ২৫:৭০। দাহহাকের মত ঠিক উল্টো: সূরাটি মাদানী, তবে ভেতরে কিছু মক্কী আয়াত আছে। এরপর কুরতুবী সূরার লক্ষ্যও বলে দেন। কুরআনের মহত্ত্ব কোথায়, তা দেখানো। নবুওয়াতের বিরুদ্ধে কাফিরদের আক্রমণগুলো তুলে ধরা। আর তাদের কথার জবাব দেওয়া।"
+          },
+          {
+            "en": "One attack he names outright: that Muhammad ﷺ invented the Qur'an and that it is not from Allah. The surah quotes it at 25:4, where it is treated. Yet before any objection is voiced, the surah has already replied with praise. Ibn Kathir reads the opening as Allah praising Himself for what He sent down upon His noble Messenger, and sets it beside the start of al-Kahf: praise be to Allah, who sent down the Book upon His servant (18:1).",
+            "bn": "সেই আক্রমণগুলোর একটির নাম তিনি সরাসরি বলেন: কুরআন মুহাম্মাদ ﷺ নিজে বানিয়েছেন, এটি আল্লাহর কাছ থেকে আসেনি। সূরাটি এ অভিযোগ উদ্ধৃত করে ২৫:৪ আয়াতে, আর তার আলোচনা সেখানেই হয়েছে। কিন্তু কোনো আপত্তি মুখে আসার আগেই সূরা প্রশংসা দিয়ে জবাব দিয়ে রেখেছে। ইবন কাসীরের পাঠে শুরুটা এমন: আল্লাহ তাঁর সম্মানিত রাসূলের উপর যা নাযিল করেছেন, তার জন্য নিজেই নিজের প্রশংসা করছেন। পাশে তিনি রাখেন সূরা কাহফের সূচনা: সব প্রশংসা আল্লাহর, যিনি তাঁর বান্দার উপর কিতাব নাযিল করেছেন (১৮:১)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tabaraka, Weighed by the Linguists",
+          "bn": "তাবারাকা শব্দের ওজন"
+        },
+        "p": [
+          {
+            "en": "Tabaraka is the surah's first word, and the commentators define it differently. At-Tabari calls it a tafa'ul form from baraka, blessing, giving a chain to Ibn 'Abbas (RA), who said exactly that, and likens it to a speaker saying taqaddasa rabbuna, holy is our Lord. On his reading the sentence runs: blessed is He who sent down the separation between truth and falsehood upon His servant Muhammad ﷺ.",
+            "bn": "তাবারাকা সূরার প্রথম শব্দ, আর তাফসীরকারেরা একে একইভাবে ব্যাখ্যা করেন না। তাবারী বলেন, এটি বারাকাহ অর্থাৎ বরকত থেকে তাফাউল রূপ। এ ব্যাখ্যার পক্ষে তিনি সনদসহ ইবন আব্বাস (রাঃ)-এর কথা আনেন, যিনি হুবহু এ কথাই বলেছেন। সঙ্গে একটা তুলনাও দেন: এ যেন কেউ বলছে তাকাদ্দাসা রাব্বুনা, পবিত্র আমাদের রব। তাঁর পাঠে প্রথম বাক্যের অর্থ দাঁড়ায়: বরকতময় তিনি, যিনি সত্য ও মিথ্যার মাঝে পার্থক্যকারীকে নাযিল করেছেন তাঁর বান্দা মুহাম্মাদ ﷺ-এর উপর।"
+          },
+          {
+            "en": "Al-Qurtubi opens with the words 'its meaning is disputed' and sets the views side by side. Al-Farra' held that tabaraka and taqaddasa are the same in Arabic, both expressing greatness. Az-Zajjaj said it is tafa'ul from baraka, which means abundance in everything good. Others said it means He is exalted; or that His giving is exalted, having increased and multiplied; or that His favour has lasted and stood firm.",
+            "bn": "কুরতুবী শুরুই করেন এ কথা বলে যে শব্দটির অর্থ নিয়ে মতভেদ আছে, তারপর মতগুলো পাশাপাশি সাজান। ফাররার মতে আরবিতে তাবারাকা আর তাকাদ্দাসা একই, দুটোই মহত্ত্ব বোঝায়। যাজ্জাজ বলেন, এটি বারাকাহ থেকে তাফাউল, আর বারাকাহ মানে যেকোনো কল্যাণকর জিনিসের প্রাচুর্য। অন্যরা বলেছেন, এর অর্থ তিনি সমুন্নত। কেউ বলেছেন, তাঁর দান সমুন্নত, অর্থাৎ বেড়েছে, বহুগুণ হয়েছে। আবার কারও মতে, তাঁর অনুগ্রহ স্থায়ী হয়েছে, অটল হয়ে আছে।"
+          },
+          {
+            "en": "An-Nahhas, as al-Qurtubi reports him, judged the last the soundest in language and derivation: it comes from baraka ash-shay', said of a thing that stays fixed, as in baraka al-jamal, the camel kneeling down, or birds settling on water. He called the first view confused, since taqdis comes from purity and has nothing to do with this root. So a difference stands: at-Tabari sets tabaraka beside taqaddasa as a like expression, while an-Nahhas rejects treating them as the same in meaning.",
+            "bn": "কুরতুবীর বর্ণনায় নাহহাস এগুলোর মধ্যে শেষ মতটিকেই ভাষা ও শব্দমূলের বিচারে সবচেয়ে উপযুক্ত বলেছেন। এর উৎস বারাকাশ শাই, যা বলা হয় কোনো জিনিস স্থির হয়ে থাকলে। এখান থেকেই বারাকাল জামাল, মানে উট হাঁটু গেড়ে বসে পড়ল। পাখির পানির উপর থিতু হওয়াও এই অর্থে বলা হয়। প্রথম মতটিকে তিনি গুলিয়ে ফেলা কথা বলেছেন, কারণ তাকদীস এসেছে পবিত্রতা থেকে, এই শব্দমূলের সঙ্গে তার কোনো সম্পর্ক নেই। তাই এখানে একটা মতভেদ থেকে যায়। তাবারী তাবারাকাকে তাকাদ্দাসার মতো একটি প্রয়োগ হিসেবে পাশে রাখেন, আর নাহহাস দুটোকে একই অর্থের বলা প্রত্যাখ্যান করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Blessing That Settles and Stays",
+          "bn": "যে বরকত থিতু হয়ে থাকে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's definition lands near an-Nahhas's choice: tafa'ul from blessing that is settled, lasting and firm. Al-Baghawi reports from Ibn 'Abbas (RA) that it means He brought every blessing, citing in support the words of al-Hasan: the coming of blessing is from Him. Ad-Dahhak, in al-Baghawi's report, said it means He is magnified. Ma'arif al-Qur'an gives Ibn 'Abbas's explanation that all blessings come from Allah alone.",
+            "bn": "ইবন কাসীরের সংজ্ঞা নাহহাসের পছন্দের কাছাকাছি গিয়ে পড়ে। তাঁর মতে তাবারাকা এমন বরকত থেকে তাফাউল, যা থিতু, স্থায়ী ও অটল। বাগাভী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, এর অর্থ তিনি সব বরকত নিয়ে এসেছেন। এর সমর্থনে তিনি হাসানের কথা আনেন: বরকত আসে তাঁরই কাছ থেকে। বাগাভীর বর্ণনায় দাহহাক বলেছেন, এর অর্থ তিনি মহিমান্বিত। মাআরিফুল কুরআনে আছে ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা: সমস্ত বরকত কেবল আল্লাহর কাছ থেকেই আসে।"
+          },
+          {
+            "en": "The Muyassar folds three meanings into one line: great are Allah's blessings, many are His good gifts, complete are His attributes. As-Sa'di uses the same three, then ties the word to the rest of the verse: among the greatest of His gifts is that He sent down this Qur'an. Is there anything above this favour and grace, he asks, and he answers with the verse's own word: blessed is He, of whose goodness this is only a part.",
+            "bn": "মুয়াসসার তিনটি অর্থ একই বাক্যে ধরে রাখে: আল্লাহর বরকত মহান, তাঁর কল্যাণ অঢেল, তাঁর গুণাবলি পূর্ণ। সা'দীও এই তিনটি অর্থ নেন, তারপর শব্দটিকে আয়াতের বাকি অংশের সঙ্গে জুড়ে দেন। তিনি বলেন, তাঁর সবচেয়ে বড় কল্যাণগুলোর একটি হলো এই কুরআন নাযিল করা। এরপর প্রশ্ন রাখেন: এই নিয়ামত আর এই অনুগ্রহের উপরে আর কিছু আছে কি? জবাবও দেন আয়াতের নিজের শব্দেই: বরকতময় তিনি, এ তো তাঁর দয়ার একটি অংশমাত্র।"
+          },
+          {
+            "en": "Al-Qurtubi adds a point of usage from ath-Tha'labi: one says tabaraka Allah, but one does not say mutabarik or mubarak of Him, because His names and attributes stop where the texts have reached. Al-Qurtubi then answers in his own voice: some scholars listed al-Mubarak among the Beautiful Names, as he did in his own book. If there is agreement that it is not said, he defers to that consensus; if there is disagreement, many names were disputed in the counting.",
+            "bn": "কুরতুবী সা'লাবী থেকে শব্দ প্রয়োগের একটা কথা আনেন। বলা হয় তাবারাকাল্লাহ, কিন্তু তাঁর ক্ষেত্রে মুতাবারিক বা মুবারক বলা হয় না। কারণ তাঁর নাম ও গুণাবলির বেলায় থামতে হয় সেখানেই, যতদূর নস পৌঁছেছে। এরপর কুরতুবী নিজের কথা বলেন। কিছু আলেম আল-মুবারককে আসমাউল হুসনার মধ্যে গণ্য করেছেন, আর তিনি নিজেও আসমাউল হুসনা নিয়ে লেখা নিজের কিতাবে এটি উল্লেখ করেছেন। যদি এ নাম না বলার ব্যাপারে ঐকমত্য থাকে, তবে তিনি সেই ইজমা মেনে নেন। আর যদি মতভেদ থাকে, তবে গণনার বেলায় বহু নাম নিয়েই মতভেদ হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Doubled Letter in Nazzala",
+          "bn": "নাযযালা: বারবার নাযিল"
+        },
+        "p": [
+          {
+            "en": "The verb is nazzala, not anzala. Ibn Kathir calls it a form of repetition and abundance, and points to 4:136, where both forms stand in one verse: the Book that He nazzala upon His Messenger, and the Book that He anzala before. The earlier scriptures, he explains, came down all at once. The Qur'an came down in portions, divided and set out: verses after verses, rulings after rulings, surahs after surahs.",
+            "bn": "ক্রিয়াটি নাযযালা, আনযালা নয়। ইবন কাসীর বলেন, এ রূপে আছে বারবার আর বেশি পরিমাণে হওয়ার অর্থ। প্রমাণ হিসেবে তিনি ৪:১৩৬ আয়াত দেখান, যেখানে একই আয়াতে দুটো রূপ পাশাপাশি এসেছে: যে কিতাব তিনি তাঁর রাসূলের উপর নাযযালা করেছেন, আর যে কিতাব তিনি আগে আনযালা করেছেন। তাঁর ব্যাখ্যায়, আগের কিতাবগুলো নাযিল হয়েছিল একবারে। কুরআন নাযিল হয়েছে ভাগে ভাগে, আলাদা আলাদা করে, খুলে খুলে। আয়াতের পর আয়াত, বিধানের পর বিধান, সূরার পর সূরা।"
+          },
+          {
+            "en": "He calls this the stronger and more eloquent way, and a sign of greater care for its recipient, pointing ahead to 25:32 and 25:33, where the disbelievers ask why it was not sent down all at once and are told: so that We may make your heart firm by it. At-Tabari's paraphrase keeps the same picture inside this verse: He sent down the fasl, the separating of truth from falsehood, fasl after fasl and surah after surah.",
+            "bn": "তিনি বলেন, এ পদ্ধতি বেশি শক্তিশালী, বেশি অলংকারপূর্ণ। আর যাঁর উপর নাযিল হচ্ছে, তাঁর প্রতি বেশি যত্নের নিদর্শন। প্রমাণের জন্য তিনি এ সূরারই সামনের দিকে ২৫:৩২ ও ২৫:৩৩ আয়াতে যান। সেখানে কাফিররা জানতে চায়, পুরো কুরআন একবারে নাযিল হলো না কেন। জবাব আসে: এভাবেই, যাতে এর দ্বারা আমি আপনার অন্তর মজবুত করি। তাবারীর ব্যাখ্যাতেও এই আয়াতের ভেতরে একই ছবি। তিনি নাযিল করেছেন ফাসল, অর্থাৎ সত্য ও মিথ্যার মাঝে মীমাংসা, একের পর এক ফাসল, এক সূরার পর আরেক সূরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Name Is Furqan",
+          "bn": "নামটি কেন ফুরকান"
+        },
+        "p": [
+          {
+            "en": "Al-Furqan here is the Qur'an, al-Qurtubi says; it is also said to be a name for every revealed book, as in the verse: and We gave Musa (AS) and Harun (AS) the Furqan (21:48). He gives two reasons for the name. One is that it separates truth from falsehood, and the believer from the disbeliever. The other, which he relays from an-Naqqash, is that it contains the explanation of what has been laid down as law, the lawful and the forbidden.",
+            "bn": "কুরতুবী বলেন, এখানে আল-ফুরকান মানে কুরআন। আবার বলা হয়, নাযিল হওয়া প্রতিটি কিতাবেরই নাম ফুরকান, যেমন আয়াতে আছে: আমি মূসা (আঃ) ও হারূন (আঃ)-কে ফুরকান দিয়েছিলাম (২১:৪৮)। নামটির দুটি কারণ তিনি দেখান। একটি হলো, এ কিতাব সত্যকে মিথ্যা থেকে আর মুমিনকে কাফির থেকে আলাদা করে। দ্বিতীয় কারণটি তিনি নাক্কাশ থেকে আনেন: এতে আছে শরীয়তের বিধানের বিবরণ, কী হালাল আর কী হারাম।"
+          },
+          {
+            "en": "Others widen the list. Ibn Kathir, right after describing the gradual revelation, says: for this reason He named it here al-Furqan, because it separates truth from falsehood, guidance from misguidance, error from right conduct, and the lawful from the forbidden. As-Sa'di adds that it separates the people of felicity from the people of wretchedness. Ma'arif al-Qur'an says it distinguishes right from wrong by its very nature, and the right people from the wrong ones through miracles.",
+            "bn": "অন্যরা তালিকাটা আরও বড় করেন। ধাপে ধাপে নাযিলের কথা বলার ঠিক পরেই ইবন কাসীর বলেন: এ কারণেই এখানে তিনি এর নাম রেখেছেন আল-ফুরকান। কারণ এ কিতাব সত্য আর মিথ্যা, হেদায়াত আর গোমরাহি, বিপথ আর সুপথ, হালাল আর হারামের মাঝে পার্থক্য গড়ে দেয়। সা'দী যোগ করেন, এটি সৌভাগ্যবান মানুষকে হতভাগ্য মানুষ থেকেও আলাদা করে। মাআরিফুল কুরআন বলে, স্বভাবগতভাবেই এ কিতাব ঠিক ও ভুল আলাদা করে। আর মুজিযার মাধ্যমে সত্যপন্থী মানুষকে ভুলপথের মানুষ থেকে আলাদা করে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named Servant at the Revelation",
+          "bn": "নাযিলের মুহূর্তে বান্দা নামে"
+        },
+        "p": [
+          {
+            "en": "'Ala 'abdihi, upon His servant. Ibn Kathir calls this a description of praise and commendation, because Allah attaches him to his servanthood. He names the settings where the same word appears: the noblest of his states, the Night Journey (17:1), already treated in its place; his standing to call people to Allah, when the servant of Allah stood calling upon Him (72:19); and here, at the sending down of the Book and the angel's descent to him.",
+            "bn": "আলা আবদিহি, তাঁর বান্দার উপর। ইবন কাসীর বলেন, এটি প্রশংসা ও গুণগানের বিশেষণ, কারণ আল্লাহ তাঁকে যুক্ত করছেন তাঁর বান্দা হওয়ার পরিচয়ের সঙ্গে। একই শব্দ কোথায় কোথায় এসেছে, তিনি তা দেখান। তাঁর জীবনের সবচেয়ে মর্যাদার মুহূর্ত ইসরার রাতে (১৭:১), যার আলোচনা সেখানেই হয়েছে। আল্লাহর দিকে দাওয়াতের অবস্থানে: যখন আল্লাহর বান্দা তাঁকে ডাকতে দাঁড়ালেন (৭২:১৯)। আর এখানে, কিতাব নাযিল ও ফেরেশতার অবতরণের মুহূর্তে।"
+          },
+          {
+            "en": "As-Sa'di adds why the title fits: the servant is Muhammad ﷺ, who completed the ranks of servanthood and surpassed all the messengers. At-Tabari, al-Baghawi and the Muyassar likewise name the servant as Muhammad ﷺ. Al-Qurtubi records one variant reading, from 'Abdullah ibn az-Zubayr: 'ala 'ibadihi, upon His servants, in the plural. He reports it without discussion and passes on, and none of the other commentators fetched here mentions it.",
+            "bn": "উপাধিটা কেন মানানসই, সা'দী তা যোগ করেন। এই বান্দা মুহাম্মাদ ﷺ, যিনি বান্দা হওয়ার সব স্তর পূর্ণ করেছেন আর সব রাসূলকে ছাড়িয়ে গেছেন। তাবারী, বাগাভী আর মুয়াসসারও বান্দা বলতে মুহাম্মাদ ﷺ-কেই বোঝান। কুরতুবী একটি ভিন্ন কিরাআত উল্লেখ করেন আবদুল্লাহ ইবন যুবাইর থেকে: আলা ইবাদিহি, অর্থাৎ তাঁর বান্দাদের উপর, বহুবচনে। তিনি কোনো আলোচনা ছাড়াই কথাটি জানিয়ে সামনে এগিয়ে যান। এখানে আনা অন্য কোনো তাফসীরকার এর উল্লেখ করেননি।"
+          },
+          {
+            "en": "Then, who is the warner? Al-Qurtubi says the hidden subject of li-yakuna points back to 'abdihi, which is preferable because it is nearer, though it may also point back to al-Furqan. Al-Baghawi reports both without choosing: it is said the warner is the Qur'an, and it is said Muhammad ﷺ. As-Sa'di reads a third way: the very sending down of the Furqan upon His servant is what becomes a warner. At-Tabari and the Muyassar make the Messenger ﷺ the warner.",
+            "bn": "তাহলে সতর্ককারী কে? কুরতুবী বলেন, লিয়াকূনা ক্রিয়ার কর্তা উহ্য, আর তা ফিরে যায় আবদিহি শব্দের দিকে। এটিই উত্তম, কারণ শব্দটি কাছে। তবে আল-ফুরকানের দিকে ফেরাও সম্ভব। বাগাভী কোনোটিকে বেছে না নিয়ে দুটোই জানান: বলা হয়, সতর্ককারী কুরআন। আবার বলা হয়, মুহাম্মাদ ﷺ। সা'দী পড়েন তৃতীয়ভাবে। তাঁর মতে বান্দার উপর ফুরকান নাযিলের এই ঘটনাটিই সতর্ককারী হয়। তাবারী ও মুয়াসসার সতর্ককারী বলতে রাসূল ﷺ-কে বোঝান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "As Far as the Warning Reaches",
+          "bn": "সতর্কবাণী যতদূর পৌঁছায়"
+        },
+        "p": [
+          {
+            "en": "Al-'alamin here means humankind and jinn, al-Qurtubi says, because the Prophet ﷺ was a messenger and a warner to both, and he is the Seal of the Prophets. No one else had a universal message except Nuh (AS), whose message covered all humankind after the flood, since creation began again with him. At-Tabari, al-Baghawi and the Muyassar also say jinn and humans. Ma'arif al-Qur'an extends the reach through time as well: every age, not a single community or period.",
+            "bn": "কুরতুবী বলেন, আল-আলামীন অর্থাৎ বিশ্বজগৎ বলতে এখানে মানুষ ও জিন। কারণ নবী ﷺ দুই জাতিরই রাসূল ও সতর্ককারী, আর তিনি খাতামুন নাবিয়্যীন। নূহ (আঃ) ছাড়া আর কারও রিসালাত এমন সর্বজনীন ছিল না। প্লাবনের পর তাঁর রিসালাত গোটা মানবজাতিকে ঘিরে ছিল, কারণ সৃষ্টির নতুন শুরু হয়েছিল তাঁকে দিয়েই। তাবারী, বাগাভী ও মুয়াসসারও জিন ও মানুষের কথাই বলেন। মাআরিফুল কুরআন এই বিস্তারকে সময়ের উপর দিয়েও টেনে নেয়। এ নবুওয়াত সব যুগের জন্য, শুধু একটি জাতি বা একটি কালের জন্য নয়।"
+          },
+          {
+            "en": "At-Tabari records Ibn Zayd on the verse: the Prophet is the warner. He recited 35:24, there is no community but a warner has passed among it, and 26:208, We destroyed no town but it had warners, explaining that the warners are the messengers. He named Dhul-Qarnayn as a warner who reached from east to west, though he had heard no one establish that he was a prophet. Then he recited 6:19, that I may warn you by it and whomever it reaches: whoever the Qur'an reaches, the Messenger of Allah ﷺ is his warner.",
+            "bn": "তাবারী এ আয়াতে ইবন যায়দের কথা উল্লেখ করেন: নবীই সতর্ককারী। ইবন যায়দ তিলাওয়াত করেন: এমন কোনো উম্মত নেই, যার মধ্যে কোনো সতর্ককারী আসেনি (৩৫:২৪)। আরও পড়েন: আমি এমন কোনো জনপদ ধ্বংস করিনি, যার জন্য সতর্ককারী ছিল না (২৬:২০৮)। তাঁর ব্যাখ্যায় এই সতর্ককারীরা হলেন রাসূলগণ। তিনি যুলকারনাইনের নাম করেন, যিনি পূর্ব থেকে পশ্চিম পর্যন্ত পৌঁছানো এক সতর্ককারী ছিলেন। সঙ্গে বলেন, তিনি নবী ছিলেন, এমন কথা প্রমাণ করতে তিনি কাউকে শোনেননি। এরপর পড়েন: যাতে এর দ্বারা আমি তোমাদের সতর্ক করি এবং যার কাছে এটি পৌঁছায় তাকেও (৬:১৯)। অর্থাৎ সৃষ্টির মধ্যে যার কাছেই কুরআন পৌঁছায়, আল্লাহর রাসূল ﷺ তার সতর্ককারী।"
+          },
+          {
+            "en": "Al-Qurtubi defines the nadhir as one who warns of ruin, and relays al-Jawhari that the word also names the warning itself. At-Tabari says he warns them of Allah's punishment if they do not affirm His oneness, make their worship sincere for Him, and cast off every god and idol besides Him. As-Sa'di gives the warning a second face: it shows people where His pleasure lies, as distinct from His anger, and whoever accepts it and acts on it is among the saved in this world and the next.",
+            "bn": "কুরতুবীর সংজ্ঞায় নাযীর তিনি, যিনি ধ্বংস সম্পর্কে সাবধান করেন। জাওহারী থেকে তিনি আরও আনেন যে শব্দটি সতর্কবাণীকেও বোঝায়। তাবারী বলেন, তিনি তাদের আল্লাহর শাস্তির ভয় দেখান, যদি তারা তাঁর একত্ব না মানে, ইবাদত তাঁর জন্য খাঁটি না করে, আর তাঁকে ছাড়া সব ইলাহ ও মূর্তি ছুঁড়ে না ফেলে। সা'দী সতর্কবাণীর আরেকটি দিক দেখান। এটি মানুষকে দেখিয়ে দেয় আল্লাহর সন্তুষ্টি কোথায়, আর অসন্তুষ্টি কোথায়। তাঁর ভাষায়, যে এই সতর্কবাণী কবুল করে তার উপর আমল করে, সে দুনিয়া ও আখিরাতে মুক্তিপ্রাপ্তদের একজন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "To Every Red and Black",
+          "bn": "প্রত্যেক লাল ও কালোর কাছে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir supports the scope with two sayings of the Prophet ﷺ, without naming a collection: I was sent to the red and the black, and the hadith of five things no prophet before him was given. Muslim records it in his Sahih (521) from Jabir ibn 'Abdullah (RA): 'I have been given five things not given to anyone before me. Every prophet was sent to his own people only, and I have been sent to every red and black. The spoils have been made lawful for me, and were lawful to no one before me.'",
+            "bn": "ইবন কাসীর এই বিস্তারের পক্ষে নবী ﷺ-এর দুটি কথা আনেন, কোনো গ্রন্থের নাম না করে: আমাকে লাল ও কালোর কাছে পাঠানো হয়েছে, আর পাঁচটি জিনিসের হাদীস, যা তাঁর আগে কোনো নবীকে দেওয়া হয়নি। ইমাম মুসলিম তাঁর সহীহ গ্রন্থে (৫২১) জাবির ইবন আবদুল্লাহ (রাঃ) থেকে হাদীসটি বর্ণনা করেছেন: 'আমাকে এমন পাঁচটি জিনিস দেওয়া হয়েছে, যা আমার আগে কাউকে দেওয়া হয়নি। প্রত্যেক নবীকে পাঠানো হতো শুধু তাঁর নিজের জাতির কাছে, আর আমাকে পাঠানো হয়েছে প্রত্যেক লাল ও কালোর কাছে। আমার জন্য গনীমত হালাল করা হয়েছে, যা আমার আগে কারও জন্য হালাল ছিল না।'"
+          },
+          {
+            "en": "The hadith continues: 'The earth has been made for me good, a means of purification and a place of prayer, so any man whom the prayer reaches prays wherever he is. I have been helped by awe a month's journey ahead of me, and I have been given intercession.' Al-Bukhari records it from Jabir too (335), and 34:28 quotes his version in full. These are general narrations on the reach of the mission, not reports attached to this verse, and no commentator fetched here gives a hadith or an occasion of revelation as its cause.",
+            "bn": "হাদীসটি চলতে থাকে: 'জমিনকে আমার জন্য বানানো হয়েছে পবিত্র, পবিত্রতা অর্জনের উপায় ও সিজদার স্থান। তাই যার কাছে নামাযের সময় এসে যায়, সে যেখানে আছে সেখানেই নামায পড়ে নেয়। আমার সামনে এক মাসের পথের দূরত্ব পর্যন্ত ভীতি দিয়ে আমাকে সাহায্য করা হয়েছে, আর আমাকে শাফাআত দেওয়া হয়েছে।' ইমাম বুখারীও জাবির (রাঃ) থেকে হাদীসটি বর্ণনা করেছেন (৩৩৫), আর ৩৪:২৮ আয়াতের প্রবন্ধে তাঁর বর্ণনাটি পুরো উদ্ধৃত হয়েছে। এগুলো রিসালাতের বিস্তার নিয়ে সাধারণ বর্ণনা, এ আয়াতের সঙ্গে যুক্ত নয়। এখানে আনা কোনো তাফসীরকার এমন কোনো হাদীস বা শানে নুযূল দেননি, যাকে এ আয়াত নাযিলের কারণ বলা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Sender Owns the Worlds",
+          "bn": "পাঠিয়েছেন জগতের মালিক"
+        },
+        "p": [
+          {
+            "en": "The next verse names the Sender: He to whom belongs the dominion of the heavens and the earth, who has taken no son and has no partner in the dominion (25:2). Ibn Kathir draws the link through 7:158, where the Messenger ﷺ declares himself Allah's messenger to all mankind. He who sent me, Ibn Kathir paraphrases, owns the heavens and the earth, says to a thing Be and it is, and gives life and gives death.",
+            "bn": "যিনি পাঠিয়েছেন, পরের আয়াত তাঁর পরিচয় দেয়: আসমান ও জমিনের রাজত্ব যাঁর, যিনি কোনো সন্তান গ্রহণ করেননি, রাজত্বে যাঁর কোনো শরীক নেই (২৫:২)। ইবন কাসীর ৭:১৫৮ আয়াতের মাধ্যমে এ যোগসূত্র দেখান। সেখানে রাসূল ﷺ সব মানুষকে বলেন, তিনি তাদের সবার কাছে আল্লাহর রাসূল। ইবন কাসীরের ব্যাখ্যায় কথাটা এমন: যিনি আমাকে পাঠিয়েছেন, তিনি আসমান ও জমিনের মালিক। তিনি কোনো কিছুকে বলেন হও, আর তা হয়ে যায়। তিনিই জীবন দেন, তিনিই মৃত্যু দেন।"
+          },
+          {
+            "en": "This verse describes a Book that separates truth from falsehood and a warning entrusted to one Messenger ﷺ. It licenses nothing against any living person or community, and gives no one leave to make himself a warner over others by force or contempt. As-Sa'di's reading keeps the tone: the warning exists so that whoever accepts it is saved. What the verse leaves its reader is a narrower question. The Criterion was sent to the worlds, and I am in them. What has it yet separated in my own life?",
+            "bn": "এ আয়াত বর্ণনা করে এমন এক কিতাব, যা সত্যকে মিথ্যা থেকে আলাদা করে, আর এমন এক সতর্কবাণী, যার দায়িত্ব দেওয়া হয়েছিল একজন রাসূল ﷺ-কে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। জোর খাটিয়ে বা তুচ্ছ করে অন্যদের উপর নিজেকে সতর্ককারী বানানোর অনুমতিও কাউকে দেয় না। সা'দীর পাঠ সুরটা ঠিক রাখে: সতর্কবাণী আছে, যাতে যে তা কবুল করে সে মুক্তি পায়। পাঠকের জন্য আয়াতটি রেখে যায় আরও কাছের একটি প্রশ্ন। ফুরকান পাঠানো হয়েছে সব জগতের জন্য, আর আমিও তার মধ্যে আছি। আমার নিজের জীবনে এটি এখন পর্যন্ত কী আলাদা করেছে?"
+          }
+        ]
+      }
+    ]
+  },
   "25:4": {
     "sections": [
       {
