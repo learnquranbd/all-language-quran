@@ -603,6 +603,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "22:11": {
+    "sections": [
+      {
+        "h": {
+          "en": "Worship Kept Near the Exit",
+          "bn": "বেরোনোর পথের পাশে ইবাদত"
+        },
+        "p": [
+          {
+            "en": "Wa-mina n-nasi man ya'budu Allaha 'ala harf: and among the people is someone who worships Allah on an edge. If good reaches him, he is at rest with it; if a trial strikes him, he turns over on his face. He has lost this world and the Hereafter, and that is the manifest loss. The opening words repeat those of 22:8 exactly. There they introduced a disputer; here, a man who does worship, but from the rim.",
+            "bn": "ওয়া মিনান-নাসি মাই ইয়া'বুদুল্লাহা 'আলা হারফ: মানুষের মধ্যে এমন লোকও আছে, যে কিনারায় দাঁড়িয়ে আল্লাহর ইবাদত করে। ভালো কিছু পেলে তাতে সে নিশ্চিন্ত হয়, আর পরীক্ষা এলে মুখ থুবড়ে উল্টো দিকে ফিরে যায়। দুনিয়া আর আখিরাত দুটোই সে হারাল, আর এটাই স্পষ্ট ক্ষতি। আয়াতের শুরুর শব্দগুলো হুবহু ২২:৮ আয়াতের শুরু। সেখানে এ কথা দিয়ে এসেছিল এক তর্কবাজের পরিচয়। এখানে আসছে এমন লোক, যে ইবাদত ঠিকই করে, তবে কিনারায় দাঁড়িয়ে।"
+          },
+          {
+            "en": "The surah has just argued from the womb and from rain on dead earth that the resurrection is certain (22:5 to 22:7). It then shows people standing in different places before that truth. The disputer of 22:8 to 22:10 argues against it. The man of this verse prays and worships, yet keeps his feet where he can still leave. 22:12 and 22:13 follow him to what he calls on after he turns.",
+            "bn": "এর ঠিক আগে সূরাটি মাতৃগর্ভ আর বৃষ্টিতে জেগে ওঠা মরা মাটি দেখিয়ে প্রমাণ করেছে যে পুনরুত্থান নিশ্চিত (২২:৫ থেকে ২২:৭)। তারপর দেখাচ্ছে, সেই সত্যের সামনে মানুষ দাঁড়িয়ে আছে নানা জায়গায়। ২২:৮ থেকে ২২:১০ আয়াতের তর্কবাজ তার বিরুদ্ধে যুক্তি খাড়া করে। এ আয়াতের লোকটি নামাজ পড়ে, ইবাদতও করে, কিন্তু পা রাখে এমন জায়গায়, যেখান থেকে চাইলেই সরে যাওয়া যায়। ফিরে যাওয়ার পর সে কাকে ডাকে, ২২:১২ ও ২২:১৩ তা দেখায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Doubt, or a Cliff's Rim",
+          "bn": "সংশয়, নাকি পাহাড়ের কিনারা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets out the word's two senses. Mujahid, Qatada and others said 'ala harf means in doubt. Others said it means on an edge, as in harf al-jabal, the edge of a mountain: such a man entered the religion at its edge, and if he found what he loved he settled, and if not he slipped away. At-Tabari gives the doubt reading in his own gloss, and his chains carry it from Mujahid and from Qatada.",
+            "bn": "শব্দটির দুটি অর্থ ইবন কাসীর পাশাপাশি রাখেন। মুজাহিদ, কাতাদা ও অন্যরা বলেছেন, 'আলা হারফ মানে সংশয় নিয়ে। আবার কেউ বলেছেন, এর মানে কিনারায়, যেমন হারফুল জাবাল, পাহাড়ের কিনারা। অর্থাৎ লোকটি দ্বীনে ঢুকেছে তার এক প্রান্ত দিয়ে। মনের মতো কিছু পেলে থিতু হয়, না পেলে কেটে পড়ে। তাবারী নিজের ব্যাখ্যায় সংশয়ের অর্থটিই নেন, আর তাঁর সনদগুলো এ অর্থ মুজাহিদ ও কাতাদা থেকে বর্ণনা করে।"
+          },
+          {
+            "en": "Al-Qurtubi joins the two senses. The meaning is doubt, he says, citing Mujahid and others, and its reality is weakness in worship, like the weakness of a man standing on an edge that shakes beneath him. The harf of anything is its edge, its brink and its limit; the harf of a mountain is its sharp top. Al-Baghawi says most commentators read it as doubt, and he traces the word the same way, to the edge of a mountain or a wall.",
+            "bn": "কুরতুবী দুটি অর্থকে মিলিয়ে দেন। মুজাহিদ ও অন্যদের বরাতে তিনি বলেন, অর্থ হলো সংশয়। আর এর আসল রূপ ইবাদতে দুর্বলতা, ঠিক যেমন দুর্বল সেই লোকের দাঁড়ানো, যার পায়ের নিচের কিনারা কাঁপছে। যেকোনো জিনিসের হারফ হলো তার প্রান্ত, তার কিনার, তার সীমা। পাহাড়ের হারফ তার ধারালো চূড়া। বাগাভী বলেন, অধিকাংশ তাফসীরকার এর অর্থ নিয়েছেন সংশয়। শব্দের উৎসও তিনি একইভাবে দেখান: পাহাড় বা দেয়ালের কিনারা।"
+          },
+          {
+            "en": "Al-Baghawi explains the image. Whoever stands on such an edge is unsteady and may fall to either side, because his footing is weak; so the doubter is said to worship on an edge, being at the side and flank of the religion, not having entered it firmly. The Muyassar draws the same picture: he enters Islam weakly and in doubt, like a man on the edge of a mountain or a wall who cannot hold his footing, and he ties his faith to his worldly lot.",
+            "bn": "উপমাটি বাগাভী বুঝিয়ে দেন। এমন কিনারায় যে দাঁড়ায়, সে টলমল করে। পায়ের ভর দুর্বল বলে যেকোনো দিকে পড়ে যেতে পারে। সংশয়ী মানুষকেও তাই বলা হয় কিনারায় দাঁড়িয়ে ইবাদতকারী। সে দ্বীনের এক পাশে, এক ধারে পড়ে আছে, দৃঢ় হয়ে ভেতরে ঢোকেনি। মুয়াসসারও একই ছবি আঁকে। সে দুর্বলতা আর সংশয় নিয়ে ইসলামে ঢোকে, পাহাড় বা দেয়ালের কিনারায় দাঁড়ানো লোকের মতো, যে পা ঠিক রাখতে পারে না। আর নিজের ঈমানকে বেঁধে রাখে দুনিয়ার ভাগ্যের সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "On a Single Condition",
+          "bn": "একটিমাত্র শর্তে বাঁধা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records two further readings. In one, 'ala harf means on a single face: he worships Allah in good times and not in hard ones. Al-Qurtubi and al-Baghawi both add the sentence that answers it: had they worshipped Allah with gratitude in ease and patience in hardship, they would not have been worshipping on an edge. In the other, it means on a condition, that he would believe if he were given what he asked. Al-Qurtubi ties this reading to a report about Shayba ibn Rabi'a, taken up below.",
+            "bn": "কুরতুবী আরও দুটি ব্যাখ্যা উল্লেখ করেন। একটিতে 'আলা হারফ মানে একটিমাত্র দিকে: সুসময়ে সে আল্লাহর ইবাদত করে, দুঃসময়ে করে না। কুরতুবী ও বাগাভী দুজনেই এর জবাবে একই কথা যোগ করেন: তারা যদি সুখে শোকর আর কষ্টে সবর নিয়ে আল্লাহর ইবাদত করত, তাহলে কিনারায় দাঁড়ানো ইবাদতকারী হতো না। অন্য ব্যাখ্যায় এর মানে শর্তসাপেক্ষে: চাওয়া জিনিস পেলে তবেই সে ঈমান আনবে। এ ব্যাখ্যাকে কুরতুবী শাইবা ইবন রাবীআকে নিয়ে একটি বর্ণনার সঙ্গে জোড়েন, যার কথা সামনে আসছে।"
+          },
+          {
+            "en": "Others read the verse as a portrait of the hypocrite. Ibn Zayd, in at-Tabari and Ibn Kathir: if his world goes well he keeps to worship, and if it goes bad he turns; when hardship or trial strikes, he leaves his religion for disbelief. Al-Hasan, in al-Qurtubi and al-Baghawi: he worships with his tongue and not his heart. As-Sa'di describes weak faith that has not entered the heart or mixed with its joy, taken up from fear or habit, in a way that does not hold under trials.",
+            "bn": "কেউ কেউ আয়াতটিকে মুনাফিকের ছবি হিসেবে পড়েন। তাবারী ও ইবন কাসীরে ইবন যায়দের কথা: দুনিয়া ঠিকঠাক চললে সে ইবাদতে লেগে থাকে, বিগড়ে গেলে ফিরে যায়। কষ্ট বা ফিতনা এলে দ্বীন ছেড়ে কুফরিতে ফেরে। কুরতুবী ও বাগাভীতে হাসানের কথা: সে মুখে ইবাদত করে, অন্তরে নয়। সা'দী বলেন দুর্বল ঈমানের কথা। সে ঈমান অন্তরে ঢোকেনি, অন্তরের প্রফুল্লতার সঙ্গে মেশেনি। ভয়ে কিংবা অভ্যাসে সে তা নিয়েছে, এমনভাবে যে বিপদে তা টেকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Newcomers Weighing the Religion",
+          "bn": "নবাগতের দাঁড়িপাল্লায় দ্বীন"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari includes in his Sahih (4742), through Sa'id ibn Jubayr, Ibn Abbas's comment on this verse, which Ibn Kathir quotes from him and al-Qurtubi gives through the same chain: \"A man would come to Madinah. If his wife bore a boy and his horses foaled, he would say: this is a good religion. And if his wife did not give birth and his horses did not foal, he would say: this is a bad religion.\" These are a Companion's words describing such men, not a saying of the Prophet ﷺ.",
+            "bn": "বুখারী তাঁর সহীহ গ্রন্থে (৪৭৪২) সাঈদ ইবন জুবাইরের সূত্রে এ আয়াত নিয়ে ইবন আব্বাস (রাঃ)-এর মন্তব্য এনেছেন। ইবন কাসীর বুখারী থেকেই তা উদ্ধৃত করেন, আর কুরতুবী আনেন একই সনদে: \"কোনো লোক মদীনায় আসত। তার স্ত্রী ছেলে সন্তান জন্ম দিলে আর তার ঘোড়ার বাচ্চা হলে সে বলত: এ তো ভালো দ্বীন। আর তার স্ত্রীর সন্তান না হলে, ঘোড়ারও বাচ্চা না হলে বলত: এ তো মন্দ দ্বীন।\" এ কথা একজন সাহাবীর, এমন লোকদের বিবরণ। নবী ﷺ-এর বাণী নয়।"
+          },
+          {
+            "en": "A longer report, carried by at-Tabari and Ibn Kathir through al-Awfi from Ibn Abbas, adds that Madinah was a land of fever. If a newcomer stayed healthy, his mare bore a fine colt and his wife a boy, he was content and said he had met nothing but good in this religion. If the Madinah sickness struck, his wife bore a girl and the sadaqa came late, Shaytan came and said: by Allah, you have met nothing but evil since you took up this religion of yours.",
+            "bn": "আরেকটি দীর্ঘ বর্ণনা তাবারী ও ইবন কাসীর আওফীর সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন। তাতে আছে, মদীনা তখন জ্বরের দেশ। নতুন আসা লোকের শরীর সেখানে সুস্থ থাকলে, ঘোড়ি সুন্দর বাচ্চা দিলে আর স্ত্রী ছেলে সন্তান জন্ম দিলে সে খুশি হতো। বলত, এ দ্বীন ধরার পর থেকে ভালো ছাড়া কিছু পাইনি। আর মদীনার অসুখ তাকে ধরলে, স্ত্রী মেয়ে সন্তান জন্ম দিলে, সদকা আসতে দেরি হলে শয়তান এসে বলত: আল্লাহর কসম, তোমার এ দ্বীন ধরার পর থেকে তুমি খারাপ ছাড়া কিছুই পাওনি।"
+          },
+          {
+            "en": "\"And that is the fitna,\" the report ends, glossing fitna as al-bala', affliction. Notice what the man counted. A healthy body, a foal and a son were his proof for the religion; a fever, a late gift and a daughter were his proof against it. The report records his reckoning, not the Qur'an's, which censures the face that darkens at news of a daughter (16:58 and 16:59). The voice that turned his losses against his faith is named in the report: Shaytan.",
+            "bn": "\"আর এটাই সেই ফিতনা\", এ কথা বলে বর্ণনাটি শেষ হয়। ফিতনার অর্থও সেখানে বলা আছে: বালা, অর্থাৎ বিপদ। লক্ষ করুন, লোকটি কী গুনছিল। সুস্থ শরীর, ঘোড়ার বাচ্চা আর ছেলে, এগুলো তার কাছে দ্বীনের পক্ষে প্রমাণ। জ্বর, দেরিতে আসা দান আর মেয়ে, এগুলো বিপক্ষে। বর্ণনাটি তার হিসাব তুলে ধরে, কুরআনের হিসাব নয়। কুরআন তো মেয়ের জন্মের খবরে কালো হয়ে যাওয়া চেহারার নিন্দা করেছে (১৬:৫৮ ও ১৬:৫৯)। আর তার ক্ষতিগুলোকে ঈমানের বিরুদ্ধে যুক্তি বানিয়ে দিল যে কণ্ঠ, বর্ণনাটি নিজেই তার নাম বলে দেয়: শয়তান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Desert Tribesmen or Hypocrites",
+          "bn": "মরুবাসী, নাকি মুনাফিক"
+        },
+        "p": [
+          {
+            "en": "Who were they? At-Tabari's own reading: Bedouins who came to the Messenger of Allah ﷺ as emigrants from their desert; if they found ease of living after the hijra and entering Islam they stayed, and if not they turned back on their heels. He relays from Ibn Jurayj and ad-Dahhak that people of the Arab tribes and the villages around Madinah said: we will come to Muhammad ﷺ, and if we meet good we stay with him; if not, we go back to our families.",
+            "bn": "এরা কারা ছিল? তাবারীর নিজের ব্যাখ্যা: এরা ছিল বেদুইন, যারা মরুভূমি ছেড়ে হিজরত করে রাসূলুল্লাহ ﷺ-এর কাছে আসত। হিজরত করে ইসলামে ঢোকার পর জীবনে সচ্ছলতা পেলে থেকে যেত, না পেলে উল্টো পায়ে ফিরে যেত। ইবন জুরাইজ ও যাহহাক থেকে তিনি বর্ণনা করেন, আরব গোত্রগুলোর আর মদীনার আশপাশের গ্রামের কিছু লোক বলত: চলো, মুহাম্মাদ ﷺ-এর কাছে যাই। ভালো কিছু পেলে তাঁর সঙ্গে থেকে যাব, নইলে পরিবারের কাছে ফিরে আসব।"
+          },
+          {
+            "en": "Al-Baghawi says the verse came down about such a group of Bedouins, and Ma'arif al-Qur'an calls them opportunists. Al-Qurtubi opens otherwise: this verse, he says, is a report about the hypocrites. He then lists the views: the commentators say it came down about Bedouins, Ibn Zayd and others say about the hypocrites, and it is also said, about an-Nadr ibn al-Harith. Both readings share a faith that never settled; whether the man ever believed inwardly, the commentators leave divided, and so does this article.",
+            "bn": "বাগাভী বলেন, আয়াতটি নাযিল হয়েছে এমনই একদল বেদুইনকে নিয়ে। মাআরিফুল কুরআন তাদের বলে সুবিধাবাদী। কুরতুবী শুরু করেন অন্যভাবে। তাঁর মতে আয়াতটি মুনাফিকদের সম্পর্কে খবর। তারপর তিনি মতগুলো সাজান। তাফসীরকারেরা বলেন, বেদুইনদের নিয়ে নাযিল। ইবন যায়দ ও অন্যরা বলেন, মুনাফিকদের নিয়ে। আরেক মত, নাযর ইবনুল হারিসকে নিয়ে। দুই ব্যাখ্যাতেই ঈমান থিতু হয়নি। লোকটি ভেতরে কখনো ঈমান এনেছিল কি না, সে প্রশ্নে তাফসীরকারেরা ভিন্নমত, আর এ লেখাও কোনো পক্ষ নেয় না।"
+          },
+          {
+            "en": "Other occasion reports are mentioned only. Ibn Kathir relays from Ibn Abi Hatim, through Ibn Abbas, a report about desert Arabs who judged their new religion by the year's rain and births; no grading is given. Al-Qurtubi relays, without chain or grading, a report from Abu Sa'id al-Khudri about a Jewish convert who then suffered loss, and one from Ibn Abbas naming Shayba ibn Rabi'a. Nothing is built on them, and no sound hadith of the Prophet ﷺ is attached to this verse in the sources read.",
+            "bn": "নাযিলের প্রেক্ষাপট নিয়ে বাকি বর্ণনাগুলো এখানে শুধু উল্লেখ করা হলো। ইবন কাসীর ইবন আবী হাতিম থেকে ইবন আব্বাস (রাঃ)-এর সূত্রে একটি বর্ণনা আনেন। তাতে আছে কিছু মরুবাসী আরবের কথা, যারা বছরের বৃষ্টি আর জন্মের হিসাব দিয়ে নতুন দ্বীনকে মাপত। এর কোনো মান বলা হয়নি। কুরতুবী সনদ বা মান ছাড়াই আবু সাঈদ খুদরী (রাঃ) থেকে একটি বর্ণনা আনেন, ইসলাম গ্রহণের পর ক্ষতির মুখে পড়া এক ইহুদিকে নিয়ে। আরেকটি আনেন ইবন আব্বাস (রাঃ) থেকে, যাতে শাইবা ইবন রাবীআর নাম আছে। এগুলোর উপর কিছু দাঁড় করানো হয়নি। পড়া উৎসগুলোতে নবী ﷺ-এর কোনো সহীহ হাদীস এ আয়াতের সঙ্গে যুক্ত নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Resting on the Gift",
+          "bn": "দানের উপর ভর দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Fa-in asabahu khayrun itma'anna bih: if good reaches him, he is at rest with it. At-Tabari reads khayr as ampleness of living and the like among the means of this world, and itma'anna as settling in Islam and standing firm on it. In his chains, Mujahid glosses the good as ease and well-being, and Qatada as wealth and livestock grown many. Al-Baghawi: health in his body and room in his living.",
+            "bn": "ফা ইন আসাবাহু খাইরুনিতমাআন্না বিহ: ভালো কিছু পেলে সে তাতে নিশ্চিন্ত হয়। তাবারী খাইর বলতে বোঝেন জীবনের সচ্ছলতা আর দুনিয়ার এমন সব উপকরণ। আর ইতমাআন্না মানে ইসলামে থিতু হওয়া, তাতে অটল থাকা। তাঁর সনদে মুজাহিদ এই ভালোকে বলেন সচ্ছলতা ও সুস্থতা। কাতাদা বলেন, সম্পদ বেড়েছে, পশুর পাল বেড়েছে। বাগাভীর কথায়: শরীরের সুস্থতা আর জীবিকার প্রশস্ততা।"
+          },
+          {
+            "en": "As-Sa'di finds the sharpest point in a single word. Bihi, with it: if his provision keeps flowing and nothing he dislikes befalls him, he is at rest with that good, not with his faith. The calm is real, but it leans on the gift rather than on the Giver. As-Sa'di then adds a gentler line: perhaps Allah keeps such a man in well-being and does not send him the trials that would turn him from his religion.",
+            "bn": "সা'দী সবচেয়ে সূক্ষ্ম কথাটা খুঁজে পান ছোট্ট এক শব্দে: বিহি, তাতে। রিজিক যদি অবিরাম আসতে থাকে, অপছন্দের কিছু না ঘটে, তবে সে নিশ্চিন্ত থাকে ওই ভালোটুকু নিয়ে, নিজের ঈমান নিয়ে নয়। প্রশান্তিটা মিথ্যা নয়, কিন্তু তার ভর দানের উপর, দাতার উপর নয়। সা'দী এরপর একটু কোমল কথা যোগ করেন: হয়তো আল্লাহ এমন লোককে নিরাপদে রাখেন, এমন পরীক্ষা তার সামনে আনেন না, যা তাকে দ্বীন থেকে ফিরিয়ে দেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Back to the Face He Wore",
+          "bn": "আগের চেহারায় ফিরে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "Wa-in asabathu fitnatun inqalaba 'ala wajhih: and if a trial strikes him, he turns over on his face. Fitna here is trial: affliction in Ibn Abbas's gloss, punishment and calamity for Mujahid, narrowness of living for at-Tabari, and for as-Sa'di the arrival of something disliked or the loss of something loved. Mujahid reads the turning as becoming an apostate, a disbeliever. At-Tabari and al-Baghawi name the face he turns to: the face he had worn before, disbelief in Allah.",
+            "bn": "ওয়া ইন আসাবাতহু ফিতনাতুনিনকালাবা 'আলা ওয়াজহিহ: আর কোনো পরীক্ষা এলে সে মুখ থুবড়ে উল্টে যায়। ফিতনা এখানে পরীক্ষা। ইবন আব্বাস (রাঃ)-এর ব্যাখ্যায় বিপদ, মুজাহিদের মতে শাস্তি ও মুসিবত, তাবারীর মতে জীবিকার সংকট। আর সা'দীর মতে অপছন্দের কিছু ঘটে যাওয়া, কিংবা প্রিয় কিছু হাতছাড়া হওয়া। মুজাহিদ উল্টে যাওয়ার অর্থ করেন মুরতাদ হয়ে কাফির হয়ে যাওয়া। কোন চেহারায় সে ফেরে, তাবারী ও বাগাভী তা স্পষ্ট বলেন: আগে যে চেহারায় ছিল, আল্লাহর প্রতি কুফরির চেহারায়।"
+          },
+          {
+            "en": "The Muyassar names the step between the trial and the turning: he blamed the ill omen of what befell him on his religion, and so left it, like a man who falls on his face after standing upright. That is the inner move the Madinah reports also describe, a loss read as a verdict on faith. The verse allows no long decline: a trial strikes, and he turns.",
+            "bn": "পরীক্ষা আর ফিরে যাওয়ার মাঝখানের ধাপটি মুয়াসসার বলে দেয়। যা ঘটল তার অশুভ দায় সে চাপাল নিজের দ্বীনের উপর, তারপর দ্বীন ছেড়ে দিল। যেন সোজা দাঁড়িয়ে থাকা মানুষ হঠাৎ মুখ থুবড়ে পড়ল। মদীনার বর্ণনাগুলোও ভেতরের এই নড়াচড়ারই ছবি: একটা ক্ষতিকে ঈমানের বিরুদ্ধে রায় বলে পড়া। আয়াতে ধীরে ধীরে ধসে পড়ার কোনো ফাঁক নেই: পরীক্ষা এল, সে উল্টে গেল।"
+          },
+          {
+            "en": "Al-Qurtubi adds a point of recitation. On the reading of the majority, khasira, he has lost, begins a new sentence, and the reciter may stop at wajhih. Mujahid, Humayd ibn Qays, al-A'raj, az-Zuhri and Ibn Abi Ishaq, and by report Ya'qub, read khasir, losing, a description of his state, and then there is no stop at wajhih. At-Tabari reports the variant more narrowly, naming Humayd al-A'raj alone against all the readers of the cities; al-Baghawi gives khasir as Ya'qub's reading.",
+            "bn": "কুরতুবী তিলাওয়াতের একটি বিষয় যোগ করেন। অধিকাংশের কিরাআতে খাসিরা, সে হারাল, শব্দটি দিয়ে নতুন বাক্য শুরু, তাই ক্বারী ওয়াজহিহ-তে থামতে পারেন। মুজাহিদ, হুমাইদ ইবন কাইস, আ'রাজ, যুহরী ও ইবন আবী ইসহাক পড়েছেন খাসির, হারাতে হারাতে, আর ইয়াকুব থেকেও এমন বর্ণনা আছে। তখন এটি উল্টে যাওয়ার মুহূর্তে তার অবস্থার বর্ণনা, আর ওয়াজহিহ-তে থামা চলে না। তাবারী ভিন্ন পাঠটি আরও সংকীর্ণভাবে আনেন: শহরগুলোর সব ক্বারীর বিপরীতে কেবল হুমাইদ আল-আ'রাজের নাম। বাগাভী খাসিরকে বলেন ইয়াকুবের কিরাআত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Trade With No Profit",
+          "bn": "লাভহীন এক কারবার"
+        },
+        "p": [
+          {
+            "en": "Khasira d-dunya wa-l-akhira: he has lost this world and the Hereafter. At-Tabari explains the first loss with a trader's image. He was cheated of his world, because worshipping Allah in doubt did not get him what he wanted from it; he traded and made no profit. The second loss is the Hereafter, where he is punished in Allah's kindled fire. Al-Qurtubi: the worldly loss is no share in the spoils and no praise, and the other is no reward there.",
+            "bn": "খাসিরাদ-দুনইয়া ওয়াল-আখিরাহ: দুনিয়া আর আখিরাত দুটোই সে হারাল। প্রথম ক্ষতিটা তাবারী বোঝান এক ব্যবসায়ীর উপমায়। দুনিয়াতেই সে ঠকেছে, কারণ সংশয় নিয়ে আল্লাহর ইবাদত করে দুনিয়ার যা চেয়েছিল তা পায়নি। ব্যবসা করল, লাভ হলো না। দ্বিতীয় ক্ষতি আখিরাতের, যেখানে আল্লাহর জ্বালানো আগুনে তার শাস্তি। কুরতুবী দুনিয়ার ক্ষতিকে নির্দিষ্ট করে বলেন: গনিমতে কোনো ভাগ নেই, সুনামও নেই। আর আখিরাতের ক্ষতি মানে সেখানে কোনো সওয়াব নেই।"
+          },
+          {
+            "en": "As-Sa'di and the Muyassar press the same point. He turned from his religion to rescue his worldly lot, as-Sa'di says, making apostasy his capital and his price, and gained only what had been apportioned to him anyway. The Muyassar: his disbelief does not change what was decreed for him in this world. Ibn Kathir calls the end of the verse the great loss and the losing deal, and at-Tabari reads al-mubin, the manifest, as plain to whoever reflects on it.",
+            "bn": "সা'দী ও মুয়াসসার একই কথায় আরও জোর দেন। সা'দী বলেন, দুনিয়ার ভাগ বাঁচাতে সে দ্বীন থেকে ফিরে গেল। মুরতাদ হওয়াকেই বানাল নিজের পুঁজি, নিজের বিনিময়। অথচ পেল কেবল ততটুকু, যা তার ভাগ্যে আগে থেকেই লেখা ছিল। মুয়াসসারের কথা: তার কুফরি দুনিয়ায় তার জন্য নির্ধারিত কিছুই বদলায় না। আয়াতের শেষ কথাকে ইবন কাসীর বলেন সবচেয়ে বড় ক্ষতি, লোকসানের সওদা। আর তাবারী আল-মুবীন, স্পষ্ট, শব্দের অর্থ করেন: যে ভেবে দেখে আর চিন্তা করে, তার কাছে তা পরিষ্কার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Coming Down Onto the Ground",
+          "bn": "কিনারা ছেড়ে সমতলে নামা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes a kind of person, and the commentators name people of their own day: newcomers to Madinah, desert tribesmen, hypocrites. It describes what it describes, and it licenses no one to point it at any living person or community. A believer shaken by illness, debt or grief is not thereby the man of this verse, and no one may say so of him. The verse is a mirror: the only edge it asks a reader to inspect is his own.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি এক ধরনের মানুষের বর্ণনা দেয়, আর তাফসীরকারেরা নাম নেন নিজেদের সময়ের লোকদের: মদীনায় নবাগত, মরুর গোত্র, মুনাফিক। আয়াত যা বলে, ততটুকুই বলে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর দিকে এ আয়াত তাক করার অনুমতি কাউকে দেয় না। অসুখ, ঋণ বা শোকে টলে ওঠা কোনো মুমিন এ কারণে এ আয়াতের লোক হয়ে যায় না, আর তার সম্পর্কে এমন কথা বলার অধিকার কারও নেই। আয়াতটি আয়না: পাঠককে সে কেবল নিজের কিনারাটাই পরখ করে দেখতে বলে।"
+          },
+          {
+            "en": "The way off the edge lies in the sentence al-Qurtubi and al-Baghawi both give: worship Allah with gratitude in ease and patience in hardship, and you are no longer on an edge. The verses that follow show where the turning leads. He calls on what can neither harm nor benefit him (22:12), on a patron whose harm is nearer than his benefit (22:13). Then 22:14 turns to those who believe and do good, whom Allah admits to gardens.",
+            "bn": "কিনারা থেকে নামার পথ আছে সেই বাক্যেই, যা কুরতুবী ও বাগাভী দুজনেই বলেন: সুখে শোকর আর কষ্টে সবর নিয়ে আল্লাহর ইবাদত করুন, তাহলে আর কিনারায় দাঁড়িয়ে নেই। পরের আয়াতগুলো দেখায়, ফিরে যাওয়া কোথায় নিয়ে যায়। সে ডাকে এমন কিছুকে, যা তার ক্ষতিও করতে পারে না, উপকারও না (২২:১২)। ডাকে এমন কাউকে, যার উপকারের চেয়ে ক্ষতিই কাছে (২২:১৩)। তারপর ২২:১৪ ফেরে ঈমান এনে সৎকাজ করা মানুষদের দিকে, যাদের আল্লাহ জান্নাতে দাখিল করবেন।"
+          }
+        ]
+      }
+    ]
+  },
   "22:15": {
     "sections": [
       {

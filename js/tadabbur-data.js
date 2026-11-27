@@ -34679,6 +34679,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Guard what Allah has entrusted to you even when no one sees, speak of anyone's honour with the Qur'an's own restraint, and trust that He creates whatever He wills.",
     "lessonBn": "কেউ না দেখলেও আল্লাহর দেওয়া আমানত রক্ষা করুন, কারও সম্মান নিয়ে কথা বলুন কুরআনের মতো সংযমে, আর ভরসা রাখুন যে তিনি যা চান তা-ই সৃষ্টি করেন।"
+  },
+  "22:11": {
+    "reflectionEn": "Picture someone standing on the rim of a cliff or the top of a wall. He has not stepped down onto the ground; he keeps his weight where he can still slip away. That is how this verse draws a person who worships Allah on an edge. While good reaches him, health, money, a gift he hoped for, he is settled, though what settles him is the good and not his faith. When a trial strikes, he turns on his face and goes back the way he came. He meant to save his world, and he loses it along with the next. The verse is a mirror, not a label for anyone else. Where does my weight rest today: on Allah, or on how things are going?",
+    "reflectionBn": "ভাবুন, কেউ পাহাড়ের কিনারায় কিংবা দেয়ালের মাথায় দাঁড়িয়ে আছে। নিচে সমতলে সে নামেনি। শরীরের ভার এমনভাবে রেখেছে, যাতে চাইলেই সরে পড়তে পারে। যে মানুষ কিনারায় দাঁড়িয়ে আল্লাহর ইবাদত করে, আয়াতটি তার ছবি আঁকে ঠিক এভাবে। ভালো কিছু জুটলে, সুস্থতা, টাকা, আশা করে থাকা কোনো নেয়ামত, সে নিশ্চিন্ত। তবে তাকে নিশ্চিন্ত রাখে ওই ভালোটুকু, তার ঈমান নয়। পরীক্ষা এলেই মুখ ঘুরিয়ে যে পথে এসেছিল সে পথে ফিরে যায়। দুনিয়া বাঁচাতে চেয়েছিল, অথচ দুনিয়াও হারায়, আখিরাতও। এ আয়াত আয়না, অন্য কারও গায়ে সাঁটার তকমা নয়। আজ আমার ভার কোথায় রাখা: আল্লাহর উপর, নাকি দিনকাল কেমন যাচ্ছে তার উপর?",
+    "pointsEn": [
+      "If my duas seemed to go unanswered for a whole year, what in my worship would change, and what would stay?",
+      "When something good happens, do I thank Allah for it, or quietly take it as proof that my religion is paying off?",
+      "Which loss am I still holding against my faith, as though Allah owed me its opposite?",
+      "What would it take for me to step down from the edge and worship Him in hardship as I do in ease?",
+      "When someone near me is shaken by a trial, do I help steady their feet, or do I judge them by this verse?"
+    ],
+    "pointsBn": [
+      "পুরো এক বছর যদি মনে হয় আমার দোয়া কবুল হচ্ছে না, তাহলে আমার ইবাদতের কোন অংশ বদলে যাবে, আর কোনটা টিকে থাকবে?",
+      "ভালো কিছু ঘটলে আমি কি আল্লাহর শোকর আদায় করি, নাকি মনে মনে ধরে নিই যে আমার দ্বীন এবার লাভ দিচ্ছে?",
+      "কোন ক্ষতির দায় এখনো আমি আমার ঈমানের ঘাড়ে চাপিয়ে রেখেছি, যেন আল্লাহ আমাকে তার উল্টোটা দিতে বাধ্য ছিলেন?",
+      "কিনারা ছেড়ে নেমে এসে সুখের দিনের মতো কষ্টের দিনেও তাঁর ইবাদত করতে আমার কী লাগবে?",
+      "কাছের কেউ পরীক্ষায় টলে উঠলে আমি কি তার পা শক্ত করে দাঁড় করাতে সাহায্য করি, নাকি এ আয়াত দিয়ে তার বিচার করি?"
+    ],
+    "lessonEn": "Worship Allah with your whole weight, grateful in ease and patient in hardship, and never let your faith rise and fall with how the world treats you.",
+    "lessonBn": "পুরো ভার আল্লাহর উপর রেখে তাঁর ইবাদত করুন, সুখে শোকর আর কষ্টে সবর নিয়ে। দুনিয়া আপনার সঙ্গে কেমন আচরণ করছে, তার সঙ্গে ঈমানকে কখনো ওঠানামা করতে দেবেন না।"
   }
 };
 
