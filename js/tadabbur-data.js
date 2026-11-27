@@ -34043,6 +34043,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When Allah gives you good news, turn it into worship and invite others into it; even without words, a sign can call people to glorify their Lord.",
     "lessonBn": "আল্লাহ যখন সুসংবাদ দেন, তাকে ইবাদতে বদলে নিন আর অন্যদেরও তাতে ডেকে নিন। কথা না থাকলেও একটা ইশারাই মানুষকে রবের তাসবীহর দিকে ডাকতে পারে।"
+  },
+  "19:39": {
+    "reflectionEn": "The Prophet ﷺ is told to warn people of a day named for regret. On that day the matter is settled: everyone has gone where they will stay, and no one can go back to begin again. Then the verse turns from that day to this one. While all of it waits ahead, they are heedless, and they do not believe. The regret of that day is not made there. It is made here, out of ordinary hours spent as if the day would never come. That is why the warning is a mercy: it reaches me while the decision is still open. If the matter were settled tonight, what would I wish I had done? And what stops me from doing it tomorrow?",
+    "reflectionBn": "নবী ﷺ-কে বলা হলো, মানুষকে এমন এক দিনের ব্যাপারে সতর্ক করুন, যার নামই আফসোসের দিন। সেদিন সব ফয়সালা হয়ে যাবে। প্রত্যেকে পৌঁছে যাবে তার স্থায়ী ঠিকানায়, ফিরে গিয়ে নতুন করে শুরু করার পথ আর থাকবে না। তারপর আয়াতটি সেদিন থেকে চোখ ফিরিয়ে আনে আজকের দিকে। এত কিছু সামনে অপেক্ষা করছে, অথচ তারা উদাসীন, আর তারা ঈমান আনে না। সেদিনের আফসোস সেদিন তৈরি হয় না। তৈরি হয় এখানেই, সাধারণ দিনগুলোর সেই সময় দিয়ে, যা কাটে এমনভাবে যেন সে দিন কখনো আসবেই না। এ কারণেই সতর্কবাণীটা রহমত: এটা আমার কাছে পৌঁছায় তখন, যখন ফয়সালার দরজা এখনো খোলা। আজ রাতেই যদি সব চূড়ান্ত হয়ে যেত, কোন কাজটা করে রাখলে ভালো হতো বলে আমার মনে হতো? আর কাল সেটা করতে আমাকে আটকাচ্ছে কী?",
+    "pointsEn": [
+      "If the matter were decided today, what would I most regret having left undone?",
+      "Which hours of my week pass as though there were no Day ahead at all?",
+      "Do I hear warnings about the Hereafter as threats to resent, or as a mercy given while there is still time?",
+      "What have I kept postponing for later that this verse tells me is today's business?",
+      "When I remind others of that Day, do I speak as someone who has been warned too, or as one already safe?"
+    ],
+    "pointsBn": [
+      "আজই যদি ফয়সালা হয়ে যেত, কোন কাজটা না করে রেখে যাওয়ার জন্য আমার সবচেয়ে বেশি আফসোস হতো?",
+      "আমার সপ্তাহের কোন সময়গুলো এমনভাবে কাটে, যেন সামনে কোনো হিসাবের দিনই নেই?",
+      "আখিরাতের সতর্কবাণী শুনলে আমার কি বিরক্তি লাগে, যেন কেউ ভয় দেখাচ্ছে? নাকি একে রহমত মনে করি, যা এসেছে সময় থাকতেই?",
+      "কোন কাজটা আমি বারবার পরে করব বলে ফেলে রেখেছি, অথচ এ আয়াত বলছে সেটা আজকের কাজ?",
+      "অন্যকে সেই দিনের কথা মনে করিয়ে দেওয়ার সময় আমি কি নিজেকেও সতর্ক-হওয়া একজন মনে করি, নাকি এমনভাবে বলি যেন আমি নিরাপদে পৌঁছে গেছি?"
+    ],
+    "lessonEn": "The regret of that Day is built out of today's heedlessness. Take the warning while the matter is still open, and do now what you would wish you had done.",
+    "lessonBn": "সেই দিনের আফসোস গড়ে ওঠে আজকের উদাসীনতা দিয়ে। ফয়সালার দরজা খোলা থাকতেই সতর্কবাণীটা গ্রহণ করুন, আর যা করে রাখলে ভালো হতো বলে মনে হবে, তা এখনই করুন।"
   }
 };
 

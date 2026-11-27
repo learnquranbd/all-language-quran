@@ -1951,6 +1951,142 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:39": {
+    "sections": [
+      {
+        "h": {
+          "en": "Told Now, Before It Comes",
+          "bn": "আসার আগেই জানিয়ে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Wa-andhirhum yawma l-hasrah: and warn them of the Day of Regret. The verse follows two verses about the same Day seen from two sides. 19:37 promised woe to the disbelieving factions from the scene of a tremendous Day, and 19:38 said how sharply they will hear and see when they come, while the wrongdoers today are in plain error. This verse gives the Prophet ﷺ a task in the face of that contrast: tell them now. As-Sa'di defines indhar as informing someone of what is to be feared, by way of alarm, and describing what it is like.",
+            "bn": "ওয়া আনযিরহুম ইয়াওমাল হাসরাহ: আর তাদের সতর্ক করুন আফসোসের দিন সম্পর্কে। এর আগের দুটি আয়াতও সেই একই দিনের কথা বলে, দুই দিক থেকে। ১৯:৩৭ আয়াত কুফরকারী দলগুলোর জন্য এক মহাদিবসের উপস্থিতিতে ধ্বংসের ঘোষণা দিয়েছে। ১৯:৩৮ আয়াত বলেছে, যেদিন তারা আসবে সেদিন কত স্পষ্ট শুনবে আর দেখবে, অথচ যালিমরা আজ স্পষ্ট গোমরাহিতে ডুবে আছে। এই ফারাকের সামনে দাঁড়িয়ে নবী ﷺ-কে একটা দায়িত্ব দেওয়া হলো: এখনই তাদের জানিয়ে দিন। সা'দী ইনযারের সংজ্ঞা দেন এভাবে: ভয়ের জিনিস সম্পর্কে ভয় জাগিয়ে খবর দেওয়া, আর সেটা কেমন তা খুলে বলা।"
+          },
+          {
+            "en": "The commentators differ over who is to be warned. At-Tabari reads the pronoun closely: warn, O Muhammad, these who associate partners with Allah, of the day of their regret and their remorse. Ibn Kathir widens it: warn the creation, al-khala'iq, of the Day of Regret. The Muyassar says simply the people. The verse's setting is the factions of 19:37, and at-Tabari keeps to that setting; Ibn Kathir lets the warning reach everyone the verse reaches. As-Sa'di adds that of everything people are warned about, the Day of Regret is the most deserving of a warning.",
+            "bn": "কাদের সতর্ক করতে হবে, এ নিয়ে তাফসীরকারদের মধ্যে পার্থক্য আছে। তাবারী সর্বনামটাকে কাছের অর্থে নেন: হে মুহাম্মদ, যারা আল্লাহর সঙ্গে শরিক করে, তাদের সতর্ক করুন তাদের আফসোস আর অনুতাপের দিন সম্পর্কে। ইবন কাসীর পরিসরটা বড় করেন: সমগ্র সৃষ্টিকে, আল-খালায়িককে, আফসোসের দিনের ব্যাপারে সতর্ক করুন। মুয়াসসার সোজা বলে, মানুষকে। আয়াতের প্রেক্ষাপট ১৯:৩৭ আয়াতের দলগুলো, আর তাবারী সেই প্রেক্ষাপটের ভেতরেই থাকেন। ইবন কাসীরের পাঠে সতর্কবাণী পৌঁছায় তাদের সবার কাছে, যাদের কাছে আয়াতটি পৌঁছায়। সা'দী আরও বলেন, মানুষকে যত কিছুর ব্যাপারে ভয় দেখানো হয়, তার মধ্যে আফসোসের দিনই সতর্কবাণীর সবচেয়ে বেশি হকদার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name for Remorse",
+          "bn": "অনুতাপের নামে এক দিন"
+        },
+        "p": [
+          {
+            "en": "What kind of day carries that name? At-Tabari glosses al-hasrah with two words, their regret and their remorse, and then says what it is over: what they neglected in their duty to Allah. He pictures it in homes. Their dwellings in Paradise are given as an inheritance to the people of faith and obedience, and they are placed in the dwellings of the Fire that would have been the believers'. Both parties become certain of everlasting abode, a life with no death after it. He ends the paragraph with an exclamation: what a regret that is, and what a remorse.",
+            "bn": "কেমন দিনের নাম এমন হয়? তাবারী আল-হাসরাহর ব্যাখ্যা দেন দুটি শব্দে: তাদের আফসোস আর তাদের অনুতাপ। তারপর বলেন, আফসোসটা কী নিয়ে: আল্লাহর হকের ব্যাপারে তারা যে অবহেলা করেছিল, তা নিয়ে। ছবিটা তিনি আঁকেন ঘরবাড়ি দিয়ে। জান্নাতে তাদের জন্য যে বাসস্থান ছিল, তা উত্তরাধিকার হিসেবে দেওয়া হয় ঈমানদার ও আনুগত্যশীলদের। আর তাদের ঢোকানো হয় জাহান্নামের সেই বাসস্থানে, যা ঈমানদারদের হতে পারত। দুই দলই তখন নিশ্চিত হয়ে যায় চিরস্থায়ী থাকার ব্যাপারে, এমন জীবন যার পরে আর মৃত্যু নেই। অনুচ্ছেদটা তিনি শেষ করেন এক বিস্ময়ধ্বনিতে: কী সেই আফসোস, কী সেই অনুতাপ!"
+          },
+          {
+            "en": "Two early readings fix the name to the Last Day itself. ʿAli b. Abi Talhah reports Ibn ʿAbbas (RA): the Day of Regret is one of the names of the Day of Resurrection, which Allah made great and warned His servants of. Ibn Zayd says the same, and recites 39:56, where a soul cries out, alas, my regret over what I neglected in regard to Allah. The Muyassar calls it the day of remorse. Ma'arif al-Qur'an explains the name: those consigned to the Fire will regret disregarding the right way and wish they had lived as believers.",
+            "bn": "প্রথম যুগের দুটি ব্যাখ্যা নামটিকে সরাসরি কিয়ামতের দিনের সঙ্গে জুড়ে দেয়। আলী ইবন আবী তালহা ইবন আব্বাস (রাঃ)-এর কথা বর্ণনা করেন: আফসোসের দিন কিয়ামতের দিনের একটি নাম। আল্লাহ এ দিনকে মহান করেছেন আর তাঁর বান্দাদের এ দিনের ব্যাপারে সাবধান করেছেন। ইবন যায়দও একই কথা বলেন, আর তিলাওয়াত করেন ৩৯:৫৬ আয়াত, যেখানে এক প্রাণ চিৎকার করে বলে: হায় আফসোস, আল্লাহর ব্যাপারে আমি কত অবহেলা করেছি! মুয়াসসার একে বলে অনুতাপের দিন। মাআরিফুল কুরআন নামটির কারণ বোঝায় এভাবে: যাদের জাহান্নামে পাঠানো হবে, তারা সঠিক পথকে অবহেলা করার জন্য আফসোস করবে, আর কামনা করবে, যদি ঈমানদারের মতো জীবন কাটাত!"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Hour the Regret Strikes",
+          "bn": "আফসোস ধরে কোন মুহূর্তে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, with his chain through Abu z-Zaʿraʾ, gives a saying of ʿAbdullah b. Masʿud (RA), and Ibn Kathir repeats it. There is no soul but that it looks at a house in Paradise and a house in the Fire, and that is the Day of Regret. The people of the Fire see the house Allah had prepared for them had they believed, and they are told: had you believed and done good, what you see in Paradise would be yours; and regret seizes them. The people of Paradise see the house in the Fire, and are told: had Allah not been gracious to you.",
+            "bn": "তাবারী আবুয যা'রার সূত্রে আবদুল্লাহ ইবন মাসউদ (রাঃ)-এর একটি কথা উল্লেখ করেন, ইবন কাসীরও তা উদ্ধৃত করেন। এমন কোনো প্রাণ নেই, যে জান্নাতে একটি ঘর আর জাহান্নামে একটি ঘরের দিকে তাকাবে না। আর এটাই আফসোসের দিন। জাহান্নামীরা দেখবে সেই ঘর, যা আল্লাহ তাদের জন্য তৈরি রেখেছিলেন, যদি তারা ঈমান আনত। তাদের বলা হবে: তোমরা যদি ঈমান আনতে আর নেক আমল করতে, জান্নাতে যা দেখছ তা তোমাদেরই হতো। তখন আফসোস তাদের পেয়ে বসবে। জান্নাতীরা দেখবে জাহান্নামের ঘরটি, আর তাদের বলা হবে: আল্লাহ যদি তোমাদের উপর অনুগ্রহ না করতেন।"
+          },
+          {
+            "en": "That is Ibn Masʿud's own description, not words he raises to the Prophet ﷺ, and other reports place the regret at other moments. Ibn Kathir cites a second report from Ibn Masʿud, through as-Suddi, which he says Ibn Abi Hatim recorded: the verse refers to the moment death is slaughtered. Ibn Jurayj, in at-Tabari, says the same of the phrase when the matter is decided. Al-Qurtubi gives the house saying in a shorter form, then a third view introduced with it is said: the regret falls when a person is handed his record in his left hand. Neither Ibn Kathir nor al-Qurtubi chooses between them.",
+            "bn": "এ বর্ণনা ইবন মাসউদের নিজের কথা, নবী ﷺ-এর বাণী হিসেবে তিনি এটা বলেননি। অন্য বর্ণনাগুলো আফসোসের মুহূর্তটাকে অন্য সময়ে রাখে। ইবন কাসীর সুদ্দীর সূত্রে ইবন মাসউদের আরেকটি বর্ণনা আনেন, আর বলেন যে ইবন আবী হাতিম তা লিপিবদ্ধ করেছেন। সেখানে আয়াতের ইঙ্গিত সেই মুহূর্তের দিকে, যখন মৃত্যুকে যবেহ করা হবে। তাবারীর বর্ণনায় ইবন জুরাইজও 'যখন ব্যাপার চূড়ান্ত হবে' অংশটির একই ব্যাখ্যা দেন। কুরতুবী ঘরের কথাটা সংক্ষেপে আনেন, তারপর 'বলা হয়' বলে তৃতীয় একটি মত উল্লেখ করেন: আফসোস নেমে আসে তখন, যখন মানুষের হাতে তার আমলনামা দেওয়া হবে বাঁ হাতে। ইবন কাসীর বা কুরতুবী, কেউই এ মতগুলোর একটিকে বেছে নেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Decision Already Made",
+          "bn": "যে ফয়সালা হয়েই গেছে"
+        },
+        "p": [
+          {
+            "en": "Idh qudiya l-amr: when the matter is decided. Ibn Kathir: the people of Paradise are separated from the people of the Fire, and each enters what he has come to, to remain in it forever. Al-Qurtubi and al-Baghawi: the reckoning is finished, and the people of Paradise are brought into Paradise and the people of the Fire into the Fire; al-Baghawi adds, and death is slaughtered. At-Tabari puts it as a judgment completed: the verdict of everlasting stay for the people of the Fire, and of an abode without end for the people of Paradise, sealed by the slaughter of death.",
+            "bn": "ইয কুদিয়াল আমর: যখন ব্যাপারটা চূড়ান্ত করা হবে। ইবন কাসীর বলেন: জান্নাতীদের আলাদা করা হবে জাহান্নামীদের থেকে, আর প্রত্যেকে প্রবেশ করবে তার নির্ধারিত ঠিকানায়, সেখানে চিরকাল থাকার জন্য। কুরতুবী আর বাগাভী বলেন: হিসাব শেষ হবে, জান্নাতীদের জান্নাতে আর জাহান্নামীদের জাহান্নামে প্রবেশ করানো হবে। বাগাভী এর সঙ্গে যোগ করেন: আর মৃত্যুকে যবেহ করা হবে। তাবারী একে দেখেন সম্পূর্ণ হয়ে যাওয়া এক রায় হিসেবে। জাহান্নামীদের জন্য সেখানে চিরকাল থাকার রায়, জান্নাতীদের জন্য অনন্ত আবাসের রায়, আর মৃত্যুর যবেহ দিয়ে সেই রায়ে চূড়ান্ত সিলমোহর।"
+          },
+          {
+            "en": "As-Sa'di starts the decision earlier. The first and the last are gathered in a single standing and asked about their deeds. Whoever believed in Allah and followed His messengers is made happy with a happiness after which there is no misery; whoever did not is made wretched with a misery after which there is no happiness, and has lost himself and his family. The Muyassar holds the two moments together: death is brought like a ram and slaughtered, and the creation is separated. The verb qudiya is past and passive, told of a Day still to come as though it were already done.",
+            "bn": "সা'দী ফয়সালার শুরুটা ধরেন আরও আগে থেকে। আগের ও পরের সব মানুষকে এক জায়গায় দাঁড় করানো হবে, আর তাদের আমল সম্পর্কে জিজ্ঞেস করা হবে। যে আল্লাহর উপর ঈমান এনেছে আর তাঁর রাসূলদের অনুসরণ করেছে, সে এমন সৌভাগ্য পাবে যার পরে আর দুর্ভাগ্য নেই। যে তা করেনি, সে এমন দুর্ভাগ্যে পড়বে যার পরে আর সৌভাগ্য নেই, সে নিজেকে আর নিজের পরিবারকে হারিয়ে বসেছে। মুয়াসসার দুটি মুহূর্তকে একসঙ্গে রাখে: মৃত্যুকে ভেড়ার আকারে এনে যবেহ করা হবে, আর সৃষ্টিকে আলাদা আলাদা করা হবে। কুদিয়া ক্রিয়াটি অতীতকালের ও কর্মবাচ্যের। যে দিন এখনো আসেনি, তার কথা বলা হচ্ছে এমনভাবে, যেন তা ঘটেই গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Death Led Out Like a Ram",
+          "bn": "ভেড়ার রূপে আনা মৃত্যু"
+        },
+        "p": [
+          {
+            "en": "Four of the commentators fetched here cite one narration, and the Muyassar alludes to it. Al-Bukhari records it in his Sahih (4730), from Abu Saʿid al-Khudri (RA), who said that the Messenger of Allah ﷺ said: Death will be brought in the form of a black-and-white ram, and a caller will call: O people of Paradise! They will crane their necks and look, and he will say: Do you know this? They will say: Yes, this is death; and all of them have seen it. Then he will call: O people of the Fire! They will crane their necks and look, and he will say: Do you know this?",
+            "bn": "এখানে দেখা চারজন তাফসীরকার একটি বর্ণনা উল্লেখ করেন, আর মুয়াসসার তার দিকে ইঙ্গিত করে। বুখারী তা তাঁর সহীহ গ্রন্থে (৪৭৩০) এনেছেন আবু সাঈদ খুদরী (রাঃ)-এর সূত্রে। তিনি বলেন, রাসূলুল্লাহ ﷺ বলেছেন: মৃত্যুকে আনা হবে সাদা-কালো রঙের একটি ভেড়ার আকারে। তখন একজন ঘোষক ডাক দেবে: হে জান্নাতবাসীরা! তারা গলা উঁচিয়ে তাকাবে। ঘোষক বলবে: তোমরা কি একে চেনো? তারা বলবে: হ্যাঁ, এ তো মৃত্যু। ততক্ষণে তাদের প্রত্যেকেই তাকে দেখে ফেলেছে। তারপর সে ডাক দেবে: হে জাহান্নামবাসীরা! তারা গলা উঁচিয়ে তাকাবে। ঘোষক বলবে: তোমরা কি একে চেনো?"
+          },
+          {
+            "en": "They will say: Yes, this is death; and all of them have seen it. Then it is slaughtered, and he will say: O people of Paradise, everlasting life and no death; and O people of the Fire, everlasting life and no death. Then he recited: And warn them of the Day of Regret, when the matter is decided, while they are in heedlessness; and these are in heedlessness, the people of this world; and they do not believe. It is graded sound by its place in al-Bukhari's Sahih, and no tafsir fetched here questions it.",
+            "bn": "তারা বলবে: হ্যাঁ, এ তো মৃত্যু। ততক্ষণে তাদের প্রত্যেকেই তাকে দেখে ফেলেছে। তারপর একে যবেহ করা হবে, আর ঘোষক বলবে: হে জান্নাতবাসীরা, চিরস্থায়ী জীবন, আর মৃত্যু নেই। হে জাহান্নামবাসীরা, চিরস্থায়ী জীবন, আর মৃত্যু নেই। তারপর তিনি তিলাওয়াত করলেন: আর তাদের সতর্ক করুন আফসোসের দিন সম্পর্কে, যখন ব্যাপার চূড়ান্ত হবে, অথচ তারা উদাসীন; আর এরা উদাসীন, দুনিয়ার মানুষ; আর তারা ঈমান আনে না। বুখারীর সহীহ গ্রন্থে স্থান পাওয়ায় বর্ণনাটি সহীহ হিসেবে গণ্য, আর এখানে দেখা কোনো তাফসীর এ নিয়ে প্রশ্ন তোলে না।"
+          },
+          {
+            "en": "Muslim records it too (2849), through Abu Muʿawiyah from al-Aʿmash: there the ram is made to stand between Paradise and the Fire, and as he recited, the Prophet ﷺ pointed with his hand toward this world. Ibn Kathir gives Imam Ahmad's version with the same gesture and notes that the wording in al-Bukhari and Muslim is close to it. Al-Baghawi adds a second narration from al-Bukhari (6548), from Ibn ʿUmar (RA), in which death is set between Paradise and the Fire and slaughtered, and which ends: so the people of Paradise will have joy added to their joy, and the people of the Fire grief added to their grief.",
+            "bn": "মুসলিমও বর্ণনাটি এনেছেন (২৮৪৯), আবু মুআবিয়ার সূত্রে আ'মাশ থেকে। সেখানে ভেড়াটিকে জান্নাত আর জাহান্নামের মাঝখানে দাঁড় করানো হয়, আর তিলাওয়াতের সময় নবী ﷺ হাত দিয়ে এই দুনিয়ার দিকে ইশারা করেন। ইবন কাসীর ইমাম আহমাদের বর্ণনা আনেন, তাতেও একই ইশারা আছে। তিনি বলেন, বুখারী আর মুসলিমের শব্দও এর কাছাকাছি। বাগাভী বুখারী থেকে আরেকটি বর্ণনা যোগ করেন (৬৫৪৮), ইবন উমর (রাঃ)-এর সূত্রে। তাতে মৃত্যুকে জান্নাত আর জাহান্নামের মাঝখানে রেখে যবেহ করা হয়, আর শেষে আছে: তখন জান্নাতবাসীদের আনন্দের উপর আনন্দ বাড়বে, আর জাহান্নামবাসীদের দুঃখের উপর দুঃখ বাড়বে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heedless While It Is Today",
+          "bn": "আজ যারা উদাসীন"
+        },
+        "p": [
+          {
+            "en": "Wa-hum fi ghaflatin wa-hum la yu'minun: while they are in heedlessness, and they do not believe. Ibn Kathir, the Muyassar and as-Sa'di place this heedlessness in the present world, not on that Day. Ibn Kathir glosses the pronoun with one word, today: they are heedless of what they were warned of, and they do not believe it, meaning they do not hold it true. The Muyassar: today, in this world, they are heedless of what they were warned of, so they neither believe nor do righteous deeds. The narration points the same way, in al-Bukhari's wording to the people of this world, and in Muslim's with a gesture toward it.",
+            "bn": "ওয়া হুম ফী গাফলাতিন ওয়া হুম লা ইউমিনূন: অথচ তারা উদাসীন, আর তারা ঈমান আনে না। ইবন কাসীর, মুয়াসসার আর সা'দী এই উদাসীনতাকে রাখেন বর্তমান দুনিয়ায়, সেই দিনে নয়। ইবন কাসীর সর্বনামটির ব্যাখ্যা দেন একটি শব্দে: আজ। যে বিষয়ে তাদের সতর্ক করা হয়েছে, আজ তারা সে ব্যাপারে উদাসীন, আর তা বিশ্বাস করে না, মানে সত্য বলে মানে না। মুয়াসসার বলে: আজ এই দুনিয়ায় তারা সতর্কবাণী থেকে গাফেল, তাই না ঈমান আনে, না নেক আমল করে। হাদীসটিও একই দিকে ইঙ্গিত করে। বুখারীর শব্দে উদাসীনরা হলো দুনিয়ার মানুষ, আর মুসলিমের বর্ণনায় আছে দুনিয়ার দিকে হাতের ইশারা।"
+          },
+          {
+            "en": "At-Tabari spells out what they are heedless of: what Allah will do with them on the day they come out of their graves to Him, keeping them forever in Jahannam and giving their homes in Paradise to others. They do not believe in the Resurrection, the raising, and Allah's recompense for their evil deeds. As-Sa'di reads the clause as a circumstance: all this lies ahead of them, while in this world the matter does not even cross their hearts, or crosses them only in passing. Heedlessness has covered them, and a stupor has wrapped them; their worldly life has distracted them, and passing desires stand between them and faith.",
+            "bn": "তারা কী নিয়ে উদাসীন, তাবারী তা খুলে বলেন। যেদিন তারা কবর থেকে বেরিয়ে আল্লাহর কাছে আসবে, সেদিন আল্লাহ তাদের সঙ্গে কী করবেন: তাদের চিরকালের জন্য জাহান্নামে রাখবেন, আর জান্নাতে তাদের ঘরবাড়ি দিয়ে দেবেন অন্যদের। কিয়ামত, পুনরুত্থান আর তাদের মন্দ আমলের প্রতিদান, এর কোনোটাই তারা বিশ্বাস করে না। সা'দী অংশটিকে পড়েন অবস্থা বোঝাতে: এসব তাদের সামনে অপেক্ষা করছে, অথচ দুনিয়ায় এ মহা বিষয়টা তাদের মনেই আসে না, আর এলেও আসে উদাসীনভাবে। গাফলতি তাদের ঢেকে ফেলেছে, এক ঘোর তাদের ঘিরে ধরেছে। দুনিয়া তাদের ভুলিয়ে রেখেছে, আর ক্ষণস্থায়ী কামনা-বাসনা তাদের আর ঈমানের মাঝে আড়াল হয়ে দাঁড়িয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shown the Seat Not Taken",
+          "bn": "না-পাওয়া আসনটি দেখানো"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi brings a narration that shows how the regret is fed. Al-Bukhari records it in his Sahih (6569) from Abu Hurayrah (RA): the Prophet ﷺ said, No one enters Paradise but is shown his seat in the Fire had he done evil, so that he grows more grateful; and no one enters the Fire but is shown his seat in Paradise had he done good, so that it becomes a regret for him. Al-Bukhari does not file it under this verse. It is a general narration that al-Baghawi sets here, and it meets Ibn Masʿud's saying about the two houses.",
+            "bn": "আফসোস কীভাবে বাড়ে, বাগাভী এমন একটি বর্ণনা আনেন। বুখারী তাঁর সহীহ গ্রন্থে তা লিপিবদ্ধ করেছেন (৬৫৬৯) আবু হুরায়রা (রাঃ)-এর সূত্রে। নবী ﷺ বলেছেন: যে-ই জান্নাতে প্রবেশ করবে, তাকে দেখানো হবে জাহান্নামে তার সেই আসন, যা মন্দ কাজ করলে তার হতো, যাতে তার শোকর আরও বাড়ে। আর যে-ই জাহান্নামে প্রবেশ করবে, তাকে দেখানো হবে জান্নাতে তার সেই আসন, যা ভালো কাজ করলে তার হতো, যাতে তা তার জন্য আফসোস হয়ে থাকে। বুখারী এটি এই আয়াতের অধীনে আনেননি। এটি একটি সাধারণ বর্ণনা, বাগাভী একে এখানে রেখেছেন। দুই ঘরের ব্যাপারে ইবন মাসউদের কথার সঙ্গে এর মিল স্পষ্ট।"
+          },
+          {
+            "en": "Two further reports reach this verse without support in what was fetched. Ma'arif al-Qur'an, quoting al-Mazhari, relays a narration through at-Tabarani and Abu Yaʿla on regret felt in Paradise, and al-Baghawi relays one through Ibn al-Mubarak on regret felt at death. Neither carries a grading in the texts read for this verse, so they are only mentioned, and nothing here rests on them. Al-Qurtubi, finally, draws a point of creed from the ram narration and these verses: the disbelievers remain in the Fire for good, which he sets against those who claimed that the divine anger comes to an end.",
+            "bn": "আরও দুটি বর্ণনা এ আয়াতের সঙ্গে আসে, কিন্তু যা পড়া হয়েছে তাতে সেগুলোর কোনো সমর্থন মেলেনি। মাআরিফুল কুরআন মাযহারীর বরাতে তাবারানী আর আবু ইয়া'লার সূত্রে জান্নাতে আফসোস নিয়ে একটি বর্ণনা আনে। বাগাভী ইবনুল মুবারকের সূত্রে মৃত্যুর সময়ের আফসোস নিয়ে আরেকটি বর্ণনা আনেন। এ আয়াতের জন্য যে লেখাগুলো পড়া হয়েছে, তাতে এ দুটির কোনো মান নির্ধারণ নেই। তাই এখানে শুধু এগুলোর উল্লেখ থাকল, এগুলোর উপর কিছুই দাঁড় করানো হয়নি। সবশেষে কুরতুবী ভেড়ার বর্ণনা আর এ আয়াতগুলো থেকে আকীদার একটি কথা বের করেন: কাফিররা চিরকাল জাহান্নামে থাকবে। যারা দাবি করেছিল যে আল্লাহর ক্রোধ একসময় শেষ হয়ে যায়, তিনি একে তাদের জবাব হিসেবে দাঁড় করান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What That Day Does Not License",
+          "bn": "সেই দিন যা বৈধ করে না"
+        },
+        "p": [
+          {
+            "en": "The verse describes the people it describes: in at-Tabari's reading, the associators who denied the Resurrection, and in Ibn Kathir's, everyone who is warned. It describes what the text describes, and it licenses nothing against any living person or community. No reader is told who will regret on that Day, and the warning is to be passed on as the Prophet ﷺ was told to pass it on, as a warning given in time, not a verdict already pronounced. The only place a reader can apply it with certainty is his own heedlessness.",
+            "bn": "আয়াতটি যাদের কথা বলে, বর্ণনা শুধু তাদেরই। তাবারীর পাঠে তারা সেই মুশরিকরা, যারা কিয়ামতকে অস্বীকার করত। ইবন কাসীরের পাঠে তারা সবাই, যাদের সতর্ক করা হয়েছে। এর শব্দে যা আছে, আয়াত সেটুকুই বর্ণনা করে, আর কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। সেদিন কে আফসোস করবে, তা কোনো পাঠককে জানানো হয়নি। সতর্কবাণীটা পৌঁছে দিতে হবে সেভাবেই, যেভাবে নবী ﷺ-কে পৌঁছে দিতে বলা হয়েছিল: সময় থাকতে দেওয়া এক সাবধানবাণী হিসেবে, আগেই ঘোষিত রায় হিসেবে নয়। নিশ্চিতভাবে এ আয়াত খাটানো যায় কেবল এক জায়গায়: পাঠকের নিজের উদাসীনতার উপর।"
+          },
+          {
+            "en": "As-Sa'di reads 19:39 and 19:40 together. What regret, he asks, is greater than losing Allah's pleasure and His Garden and earning His anger and the Fire, with no way to go back and begin the work again? Then 19:40: the world and all in it will leave its people, and they will leave it; Allah will inherit the earth and whoever is on it, and return them to Himself to repay them for what they did. He closes: whoever has done good, let him praise Allah, and whoever finds otherwise, let him blame no one but himself.",
+            "bn": "সা'দী ১৯:৩৯ আর ১৯:৪০ আয়াত একসঙ্গে পড়েন। তিনি প্রশ্ন রাখেন: আল্লাহর সন্তুষ্টি আর তাঁর জান্নাত হারানো, তাঁর ক্রোধ আর জাহান্নামের যোগ্য হয়ে যাওয়া, অথচ ফিরে গিয়ে আবার আমল শুরু করার কোনো পথ নেই, এর চেয়ে বড় আফসোস আর কী হতে পারে? তারপর ১৯:৪০ আয়াত। দুনিয়া আর তার সবকিছু একদিন তার মানুষদের ছেড়ে চলে যাবে, মানুষও দুনিয়া ছেড়ে চলে যাবে। পৃথিবী আর তার উপর যারা আছে, সবকিছুর উত্তরাধিকারী হবেন আল্লাহ। তিনি সবাইকে নিজের কাছে ফিরিয়ে নেবেন, আর যার যা আমল, তার প্রতিদান দেবেন। শেষে তিনি বলেন: যে ভালো কাজ করেছে, সে যেন আল্লাহর প্রশংসা করে; আর যে অন্য কিছু পেল, সে যেন নিজেকে ছাড়া আর কাউকে দোষ না দেয়।"
+          }
+        ]
+      }
+    ]
+  },
   "19:43-44": {
     "sections": [
       {
