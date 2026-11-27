@@ -35615,6 +35615,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Refusing a truth because of the one who brings it refuses everyone who ever brought it; judge a message by what it carries, and let nothing you love become your name.",
     "lessonBn": "কে এনেছে তা দেখে সত্যকে ফিরিয়ে দিলে, যারা যুগে যুগে সে সত্য এনেছেন তাঁদের সবাইকেই ফিরিয়ে দেওয়া হয়। বার্তাকে বিচার করুন তার ভেতরের কথা দিয়ে, আর প্রিয় কোনো জিনিসকে নিজের পরিচয় হয়ে উঠতে দেবেন না।"
+  },
+  "26:195": {
+    "reflectionEn": "Three words close a long sentence about where the Qur'an came from: in a clear Arabic tongue. The Book did not arrive in a code that only a few could crack. It came in the everyday speech of the people who first heard it, plain enough that no one could say, we turned away because we did not understand. That clarity is a gift, and it is also a weight. Once a message is clear, the only thing left between it and me is my own will. So the verse asks me something uncomfortable. When I set a part of the Qur'an aside, is it truly because I cannot grasp it, or because I have grasped it well enough to know what it would cost me?",
+    "reflectionBn": "কুরআন কোথা থেকে এসেছে, সে বিষয়ে একটি দীর্ঘ বাক্য শেষ হয় তিনটি শব্দে: সুস্পষ্ট আরবী ভাষায়। কিতাবটি এমন কোনো সাংকেতিক ভাষায় আসেনি, যার জট শুধু গুটিকয় মানুষ খুলতে পারে। এসেছে প্রথম শ্রোতাদের মুখের চেনা ভাষায়, এতটাই সহজ করে যে কেউ বলতে পারেনি, বুঝিনি বলে মুখ ফিরিয়েছি। এই স্পষ্টতা এক নিয়ামত, আবার এক দায়ও। বার্তা যখন পরিষ্কার, তখন সেটা আর আমার মাঝে দাঁড়িয়ে থাকে শুধু আমার নিজের ইচ্ছা। তাই আয়াতটি আমাকে একটা অস্বস্তিকর প্রশ্ন করে। কুরআনের কোনো অংশ যখন আমি সরিয়ে রাখি, সেটা কি সত্যিই না বোঝার কারণে, নাকি এতটুকু ঠিকই বুঝেছি যে মানলে আমাকে কী ছাড়তে হবে?",
+    "pointsEn": [
+      "Which part of the Qur'an have I told myself I do not understand, when the truth is that I understand it and do not want it?",
+      "How much of what I recite in my own prayer do I actually know the meaning of, and what small step could I take this month to know more?",
+      "When a message reaches me plainly, do I answer it, or do I start looking for something wrong with the way it was delivered?",
+      "Do I ever speak of a language or a people as if the Qur'an had made them better than others, when the verse speaks only of clarity?",
+      "If the Book was sent so that its hearers would have no excuse, which excuse am I still holding on to?"
+    ],
+    "pointsBn": [
+      "কুরআনের কোন অংশকে আমি নিজের কাছে 'বুঝি না' বলে চালিয়ে দিয়েছি, অথচ আসলে বুঝি, শুধু মানতে চাই না?",
+      "নিজের নামাযে যা তিলাওয়াত করি, তার কতটুকুর অর্থ আমি সত্যিই জানি? এ মাসে আরেকটু জানার জন্য ছোট কোন পদক্ষেপটা নিতে পারি?",
+      "কোনো বার্তা যখন আমার কাছে পরিষ্কারভাবে পৌঁছায়, আমি কি তার জবাব দিই, নাকি কে কীভাবে বলল তাতে খুঁত খুঁজতে বসি?",
+      "আমি কি কখনো কোনো ভাষা বা জাতির কথা এমনভাবে বলি, যেন কুরআন তাদের অন্যদের চেয়ে বড় করে দিয়েছে, অথচ আয়াতটি বলছে শুধু স্পষ্টতার কথা?",
+      "কিতাবটি পাঠানো হয়েছিল যাতে শ্রোতাদের হাতে কোনো অজুহাত না থাকে। কোন অজুহাতটা আমি এখনো আঁকড়ে ধরে আছি?"
+    ],
+    "lessonEn": "The Qur'an came clear enough to leave no one the excuse of not understanding; when you turn from any part of it, ask honestly whether the barrier is your grasp or your will.",
+    "lessonBn": "কুরআন এতটাই স্পষ্ট হয়ে এসেছে যে না বোঝার অজুহাত কারও হাতে থাকে না। এর কোনো অংশ থেকে মুখ ফেরালে সৎভাবে নিজেকে জিজ্ঞেস করুন, বাধাটা আপনার বোঝায়, নাকি আপনার ইচ্ছায়।"
   }
 };
 

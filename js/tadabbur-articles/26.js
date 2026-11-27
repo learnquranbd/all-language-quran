@@ -9503,6 +9503,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:195": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Long Sentence Lands",
+          "bn": "দীর্ঘ বাক্যের শেষ ঠিকানা"
+        },
+        "p": [
+          {
+            "en": "Bi-lisanin ʿarabiyyin mubin: in a clear Arabic tongue. Three Arabic words, and they finish a sentence that began three verses earlier. In 26:192 the Qur'an is called the sending-down of the Lord of the worlds, and 26:193 and 26:194 name who brought it and the heart it reached. This verse adds no new subject or verb. It says in what form the whole descent took place, just as the surah turns from its stories of earlier peoples to the Book that told them.",
+            "bn": "বিলিসানিন আরাবিয়্যিম মুবীন: সুস্পষ্ট আরবী ভাষায়। মাত্র তিনটি আরবী শব্দ, অথচ এগুলো দিয়েই শেষ হয় তিন আয়াত আগে শুরু হওয়া একটি বাক্য। ২৬:১৯২ আয়াতে কুরআনকে বলা হয়েছে জগতসমূহের প্রতিপালকের নাযিল করা কিতাব। ২৬:১৯৩ ও ২৬:১৯৪ জানিয়েছে, কে তা নিয়ে এসেছেন আর কোন হৃদয়ে পৌঁছেছে। এ আয়াত নতুন কোনো কর্তা বা ক্রিয়া আনে না। গোটা অবতরণটা কোন রূপে ঘটেছিল, শুধু সেটুকু বলে দেয়। আর বলে ঠিক তখন, যখন সূরাটি আগের জাতিগুলোর কাহিনি থেকে ফিরছে সেই কিতাবের দিকে, যে কিতাব এসব কাহিনি শুনিয়েছে।"
+          },
+          {
+            "en": "At-Tabari settles the grammar in one clause. The preposition bi, he says, belongs to the verb nazala in 26:193: the Spirit brought it down, and brought it down in a clear Arabic tongue. Yet his paraphrase opens by tying the words to the warning just mentioned: so that you warn your people in a clear Arabic tongue. The two do not pull against each other. What was carried down in Arabic was carried for a purpose, and the purpose was that a people be warned in words they could follow from the first hearing.",
+            "bn": "ব্যাকরণের প্রশ্নটা তাবারী এক কথায় মিটিয়ে দেন। তাঁর মতে 'বি' অব্যয়টি জুড়েছে ২৬:১৯৩ আয়াতের 'নাযালা' ক্রিয়ার সঙ্গে। অর্থাৎ রূহ এটি নিয়ে নেমেছেন, আর নেমেছেন সুস্পষ্ট আরবী ভাষায়। আবার আয়াতের ব্যাখ্যা তিনি শুরু করেন ঠিক আগের সতর্ক করার কথার সঙ্গে মিলিয়ে: যাতে আপনি আপনার কওমকে সুস্পষ্ট আরবী ভাষায় সতর্ক করেন। দুটি কথা পরস্পরবিরোধী নয়। যা আরবীতে নেমেছে, তা নেমেছে একটা উদ্দেশ্য নিয়ে। উদ্দেশ্যটা হলো, একটি জাতিকে এমন ভাষায় সতর্ক করা, যা তারা প্রথমবার শুনেই ধরতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Plain to Whoever Hears It",
+          "bn": "যে শোনে, তার কাছেই স্পষ্ট"
+        },
+        "p": [
+          {
+            "en": "What makes the tongue mubin, clear? At-Tabari glosses the word with its own verb: it makes plain to whoever hears it that it is Arabic. Notice where he places the clarity. It sits in the hearer's recognition, so that no listener in Makkah could mistake this speech for something foreign. He adds a plain sentence of fact beside it: in the tongue of the Arabs it came down. On his reading the word answers a simple question any hearer might ask, whose language is this, and the answer is: yours.",
+            "bn": "ভাষাটিকে 'মুবীন' বা সুস্পষ্ট বলা হলো কেন? তাবারী শব্দটির ব্যাখ্যা দেন তারই ক্রিয়াপদ দিয়ে: যে শোনে, তার কাছে এটি স্পষ্ট করে দেয় যে এটি আরবী। খেয়াল করুন, স্পষ্টতাটা তিনি কোথায় রাখছেন। শ্রোতার চিনে নেওয়ার মধ্যে। মক্কার কোনো শ্রোতা এ কথাকে বিদেশি ভাষা বলে ভুল করতে পারত না। পাশে তিনি একটা সাদামাটা তথ্যও জুড়ে দেন: আরবদের ভাষাতেই এটি নাযিল হয়েছে। তাঁর ব্যাখ্যায় শব্দটি শ্রোতার মনের একটা সহজ প্রশ্নের জবাব দেয়। এ কার ভাষা? উত্তর: তোমাদেরই।"
+          },
+          {
+            "en": "Ibn Kathir piles up words to show how much the one adjective carries. The Qur'an was sent down, he writes, in Arabic that is eloquent, complete and comprehensive, so that it would be clear, plain and evident. Then he names what that clarity does: it cuts off excuse, it establishes the proof, and it points the way to the open road. In his hands mubin is not only a description of the language. It is a description of the listener's position once the language has reached him, with nothing left to hide behind.",
+            "bn": "একটিমাত্র বিশেষণে কত কিছু ধরা আছে, ইবন কাসীর তা দেখাতে শব্দের পর শব্দ সাজান। তিনি লেখেন, কুরআন নাযিল হয়েছে বিশুদ্ধ, পূর্ণাঙ্গ ও সর্বব্যাপী আরবীতে, যাতে তা হয় স্পষ্ট, পরিষ্কার ও প্রকাশ্য। তারপর তিনি বলে দেন, এই স্পষ্টতা কী কাজ করে। অজুহাতের পথ বন্ধ করে, প্রমাণ কায়েম করে, আর খোলা রাস্তার দিকে পথ দেখায়। তাঁর ব্যাখ্যায় 'মুবীন' শুধু ভাষার বর্ণনা নয়। ভাষাটা কারও কাছে পৌঁছে যাওয়ার পর সে কোথায় দাঁড়িয়ে, এটা তারও বর্ণনা। লুকানোর মতো আড়াল তখন আর থাকে না।"
+          },
+          {
+            "en": "Al-Muyassar measures the clarity by need. Jibril brought it down, it says, in an Arabic language clear in meaning and evident in what it points to, in everything people require to set right the affairs of their religion and their worldly life. That is a modest and practical claim. It does not say every verse yields its depths at a glance. It says that what a person must have in order to live rightly before Allah has not been buried in riddles, and is there for anyone who listens.",
+            "bn": "মুয়াসসার স্পষ্টতা মাপে প্রয়োজন দিয়ে। এর ভাষায়, জিবরাঈল (আঃ) এটি নিয়ে এসেছেন এমন আরবীতে, যার অর্থ পরিষ্কার আর যার ইঙ্গিত প্রকাশ্য, মানুষের দ্বীন ও দুনিয়ার কাজ ঠিক রাখতে যা কিছু দরকার সবকিছুতে। দাবিটা বিনয়ী, আবার কাজেরও। এখানে বলা হচ্ছে না যে প্রতিটি আয়াত এক নজরেই তার গভীরতা খুলে দেয়। বলা হচ্ছে, আল্লাহর সামনে ঠিকভাবে বাঁচতে মানুষের যা লাগে, তা ধাঁধার আড়ালে চাপা পড়েনি। যে মন দিয়ে শোনে, তার জন্য তা হাতের নাগালেই আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Speech of Its First Hearers",
+          "bn": "প্রথম শ্রোতাদের মুখের ভাষা"
+        },
+        "p": [
+          {
+            "en": "Which Arabic? Al-Baghawi relays a short gloss from Ibn Abbas (RA): in the tongue of Quraysh, so that they would understand what is in it. As-Saʿdi frames the same fact from the side of the messenger. It came, he says, in the language of those to whom the Prophet ﷺ was sent and whose call he took up directly from the start. The message had to begin somewhere, among particular people with a particular speech, and it began in the speech those people already used every day.",
+            "bn": "কোন আরবী? বাগাভী ইবন আব্বাস (রাঃ) থেকে ছোট্ট একটি ব্যাখ্যা উদ্ধৃত করেন: কুরাইশের ভাষায়, যাতে তারা এর বক্তব্য বুঝতে পারে। সা'দী একই কথা বলেন রাসূলের দিক থেকে। তাঁর ভাষায়, এটি এসেছে সেই মানুষদের ভাষায়, যাদের কাছে নবী ﷺ প্রেরিত হয়েছিলেন এবং শুরু থেকেই যাদের মাঝে তিনি নিজে দাওয়াত দিয়েছেন। বার্তার শুরুটা তো কোথাও না কোথাও হতেই হতো, নির্দিষ্ট একদল মানুষের মাঝে, তাদের নিজস্ব ভাষায়। শুরু হলো তাদের রোজকার মুখের ভাষাতেই।"
+          },
+          {
+            "en": "A beginning is not a boundary, though. On the grouped verses al-Muyassar says the Prophet ﷺ was to warn by this revelation mankind and jinn alike: the tongue of a single people, a warning addressed to all. The Qur'an speaks of its own Arabic elsewhere too, at 12:2, 16:103 and 41:44, each inside a different argument; they are only pointed to here. This verse's task is narrower: to say how the Book arrived, and so leave its first hearers no reason to turn away.",
+            "bn": "তবে শুরু মানেই সীমানা নয়। একসঙ্গে ব্যাখ্যা করা আয়াতগুলোর আলোচনায় মুয়াসসার বলে, নবী ﷺ এই অবতীর্ণ বাণী দিয়ে মানুষ ও জিন সবাইকে সতর্ক করবেন। ভাষাটা একটি জাতির, সতর্কবাণী সবার জন্য। কুরআন নিজের আরবী হওয়ার কথা আরও কয়েক জায়গায় বলেছে, যেমন ১২:২, ১৬:১০৩ ও ৪১:৪৪, প্রতিটি আলাদা যুক্তির ভেতরে। এখানে শুধু সেগুলোর দিকে ইশারা করা হলো। এ আয়াতের কাজ আরও সরু: কিতাবটি কীভাবে এসেছে তা জানানো, আর তাতে প্রথম শ্রোতাদের হাতে মুখ ফেরানোর কোনো কারণ না রাখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Excuse Closed in Advance",
+          "bn": "আগেভাগে বন্ধ করা অজুহাত"
+        },
+        "p": [
+          {
+            "en": "Why say this here, at this turn of the surah? At-Tabari answers directly. Allah mentions in this place that He sent the Qur'an down in a clear Arabic tongue to let the idolaters of Quraysh know it, so that they could not say: it came down in a tongue other than ours, and we only turn from it and do not listen because we do not understand it. Al-Qurtubi gives the same purpose in a single line: lest they say, we do not understand what you are saying. The verse closes a door before anyone could walk through it.",
+            "bn": "সূরার ঠিক এই মোড়ে কথাটা কেন? তাবারী সোজাসুজি জবাব দেন। আল্লাহ এখানে জানিয়ে দিলেন যে তিনি কুরআন সুস্পষ্ট আরবী ভাষায় নাযিল করেছেন, যাতে কুরাইশের মুশরিকরা তা জেনে নেয়। তারা যেন বলতে না পারে: এটা তো আমাদের ভাষায় আসেনি, বুঝি না বলেই আমরা মুখ ফিরিয়ে নিই, কান দিই না। কুরতুবী একই উদ্দেশ্য বলেন এক লাইনে: যাতে তারা বলতে না পারে, তুমি যা বলছ আমরা তা বুঝি না। কেউ পা বাড়ানোর আগেই আয়াতটি সেই দরজা বন্ধ করে দেয়।"
+          },
+          {
+            "en": "Then at-Tabari names the tone: this is a rebuke. He reaches back to 26:5, where every fresh reminder from the Most Merciful meets their turning away. They did not turn away, he says, for want of grasping its meanings; they grasped them, for it came in their own Arabic. They turned away in denial and arrogance, and so, as 26:6 warns, news of what they mocked would reach them, as it reached the nations this surah has described. Further on, 26:198 tests the same excuse from the other side.",
+            "bn": "এরপর তাবারী সুরটাও চিনিয়ে দেন: এ এক তিরস্কার। তিনি ফিরে যান ২৬:৫ আয়াতে, যেখানে বলা হয়েছে, দয়াময়ের কাছ থেকে তাদের কাছে নতুন যে উপদেশই আসে, তারা তা থেকে মুখ ফিরিয়ে নেয়। তাবারী বলেন, অর্থ ধরতে পারেনি বলে তারা মুখ ফেরায়নি। ঠিকই ধরেছিল, কারণ কিতাবটা নেমেছে তাদের নিজেদের আরবীতে। তারা মুখ ফিরিয়েছে মিথ্যা মনে করে আর অহংকার করে। তাই ২৬:৬ আয়াতের ভাষায়, যা নিয়ে তারা ঠাট্টা করত তার খবর তাদের কাছে পৌঁছাবে, যেমন পৌঁছেছিল এ সূরায় বর্ণিত জাতিগুলোর কাছে। কয়েক আয়াত পরে ২৬:১৯৮ একই অজুহাত যাচাই করে উল্টো দিক থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honours Gathered in One Book",
+          "bn": "এক কিতাবে জড়ো হওয়া মর্যাদা"
+        },
+        "p": [
+          {
+            "en": "As-Saʿdi reads the passage as a cluster of honours and asks the reader to pause over it. Reflect, he writes, how these excellences came together in this noble Book. It is the best of books, brought down by the best of the angels, upon the best of creation, upon the best part of him, which is his heart, to the best community brought forth for mankind, in the best of tongues, the most eloquent and the widest, the clear Arabic tongue. His phrase for the community echoes the wording of 3:110.",
+            "bn": "সা'দী আয়াতগুলোকে দেখেন অনেকগুলো মর্যাদার এক গুচ্ছ হিসেবে, আর পাঠককে একটু থেমে ভাবতে বলেন। তিনি লেখেন, ভেবে দেখুন এই সম্মানিত কিতাবে কতগুলো শ্রেষ্ঠত্ব একসঙ্গে জড়ো হয়েছে। এটি সেরা কিতাব। নিয়ে এসেছেন সেরা ফেরেশতা। নেমেছে সৃষ্টির সেরা মানুষের উপর, তাঁর দেহের সেরা অংশে, অর্থাৎ তাঁর হৃদয়ে। পৌঁছেছে মানুষের জন্য বের করা সেরা উম্মতের কাছে। আর এসেছে সেরা, সবচেয়ে বিশুদ্ধ ও সবচেয়ে প্রশস্ত ভাষায়, সেই সুস্পষ্ট আরবী ভাষায়। উম্মত সম্পর্কে তাঁর কথাটি ৩:১১০ আয়াতের শব্দের প্রতিধ্বনি।"
+          },
+          {
+            "en": "It helps to see what kind of statement this is. As-Saʿdi is writing in praise of the Book and all that joined its descent, and his estimate of the language belongs to that praise: his own appraisal, set down here as his. The other commentators read for this verse look elsewhere. At-Tabari, al-Qurtubi, al-Baghawi and al-Muyassar speak of clarity and understanding, and Ibn Kathir praises this Arabic's eloquence without setting it against any other tongue. The verse itself says Arabic and clear, and stops there.",
+            "bn": "কথাটা কোন ধরনের, সেটা বুঝে নেওয়া দরকার। সা'দী লিখছেন কিতাবের প্রশংসায়, আর এর অবতরণের সঙ্গে যা কিছু যুক্ত সেগুলোর প্রশংসায়। ভাষা সম্পর্কে তাঁর মূল্যায়ন সেই প্রশংসারই অংশ। এটা তাঁর নিজস্ব মত, আর এখানে তাঁর নামেই রাখা হলো। এ আয়াতের জন্য পড়া অন্য তাফসীরকারদের মনোযোগ অন্য জায়গায়। তাবারী, কুরতুবী, বাগাভী ও মুয়াসসার কথা বলেন স্পষ্টতা আর বোঝার বিষয়ে। ইবন কাসীর এই আরবীর বিশুদ্ধতার প্রশংসা করেন, কিন্তু অন্য কোনো ভাষার সঙ্গে তুলনায় যান না। আয়াত নিজে বলে 'আরবী' আর 'সুস্পষ্ট', তার বেশি কিছু নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Language, Not a Lineage",
+          "bn": "ভাষার কথা, বংশের নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes the language in which a Book came down; it ranks no people above another, and it licenses nothing against any non-Arab person or community, then or now. The passage itself shows why. The ones being rebuked in these verses were Arabs who heard revelation in their own mother tongue and still turned from it, on at-Tabari's reading, out of denial and pride. Sharing the language of the Qur'an saved none of them. And the warning carried in that language, al-Muyassar says, was meant for mankind and jinn together.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে একটি কিতাব কোন ভাষায় নাযিল হয়েছে, এর বেশি কিছু নয়। কোনো জাতিকে অন্য জাতির উপরে এটি তোলে না, আর কোনো অনারব মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না, তখনো না, এখনো না। আয়াতগুলোর প্রসঙ্গই কারণটা দেখিয়ে দেয়। এখানে যাদের তিরস্কার করা হচ্ছে, তারা ছিল আরব। নিজেদের মাতৃভাষায় ওহি শুনেও তারা মুখ ফিরিয়েছে, তাবারীর ব্যাখ্যায়, মিথ্যা মনে করে আর অহংকারে। কুরআনের ভাষায় কথা বলা তাদের কাউকে বাঁচায়নি। আর মুয়াসসারের ভাষায়, সেই ভাষায় বয়ে আনা সতর্কবাণী ছিল মানুষ ও জিন সবার জন্য।"
+          },
+          {
+            "en": "The same care runs the other way. The deniers in view are the particular Quraysh who opposed the Prophet ﷺ in Makkah, the ones at-Tabari names, and what the verse says of their refusal licenses nothing against any Arab person or people living today. Whatever honour a commentator sees in the Arabic tongue is paid to the vessel the Book came in; it gives no speaker of that tongue a rank before Allah, before whom each is weighed by what they did with the message.",
+            "bn": "একই সতর্কতা উল্টো দিকেও খাটে। এখানে যে অস্বীকারকারীদের কথা, তারা মক্কায় নবী ﷺ-এর বিরোধিতা করা নির্দিষ্ট কুরাইশ, তাবারী যাদের নাম নেন। তাদের প্রত্যাখ্যান নিয়ে আয়াত যা বলে, তা আজকের কোনো আরব মানুষ বা জাতির বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। কোনো তাফসীরকার আরবী ভাষায় যে মর্যাদা দেখেন, তা সেই পাত্রের মর্যাদা, যে পাত্রে কিতাবটি এসেছে। এই ভাষায় কথা বলে বলে কেউ আল্লাহর কাছে আলাদা মর্যাদা পায় না। তাঁর কাছে প্রত্যেককে মাপা হয় বার্তাটি নিয়ে সে কী করেছে তা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports Kept at a Distance",
+          "bn": "দূরে রাখা বর্ণনাগুলো"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read for this verse attaches a sound hadith to it. Ibn Kathir does relay, through Ibn Abi Hatim, a report about the Prophet's ﷺ eloquence that closes by citing these words. Its chain as printed reaches the scene through a narrator who names no Companion, and Ibn Kathir gives it no grading. It is mentioned here so the reader knows it exists, and nothing in this article is built on it. The verse makes its point without it.",
+            "bn": "এ আয়াতের জন্য পড়া কোনো তাফসীরই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। ইবন কাসীর অবশ্য ইবন আবী হাতিমের সূত্রে নবী ﷺ-এর বাগ্মিতা নিয়ে একটি বর্ণনা উদ্ধৃত করেন, যার শেষে এ আয়াতের উল্লেখ আছে। ছাপা সনদে ঘটনাটি পৌঁছেছে এমন এক বর্ণনাকারীর মাধ্যমে, যিনি কোনো সাহাবীর নাম নেননি। ইবন কাসীর এর কোনো মান নির্ধারণ করেননি। পাঠক যেন জানেন যে বর্ণনাটি আছে, তাই এখানে শুধু উল্লেখ করা হলো। এ লেখার কোনো কথাই এর উপর দাঁড়িয়ে নেই। আয়াতের বক্তব্য এটি ছাড়াই পূর্ণ।"
+          },
+          {
+            "en": "Ibn Kathir then adds, again from Ibn Abi Hatim, a saying of Sufyan ath-Thawri about the language of revelation to earlier prophets and the language of the Hereafter. These are Sufyan's own words, not a report from the Prophet ﷺ, and the verse states none of it, so it too is set aside. On matters unseen, this verse goes no further than its plain sentence: the Qur'an came down in a clear Arabic tongue.",
+            "bn": "এরপর ইবন কাসীর, আবারও ইবন আবী হাতিম থেকে, সুফিয়ান সাওরীর একটি উক্তি আনেন। বিষয়: আগের নবীদের কাছে ওহি কোন ভাষায় এসেছিল, আর আখিরাতের ভাষা কী। এটা সুফিয়ানের নিজের কথা, নবী ﷺ থেকে বর্ণিত কিছু নয়। আয়াতেও এর কিছু বলা নেই। তাই এটিও সরিয়ে রাখা হলো। গায়েবের বিষয়ে এ আয়াত তার সরল বাক্যের বাইরে যায় না: কুরআন নাযিল হয়েছে সুস্পষ্ট আরবী ভাষায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wording and Meaning Together",
+          "bn": "শব্দ ও অর্থ একসঙ্গে"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an draws a ruling-shaped conclusion from these three words. They make clear, it says, that the Qur'an is only what is in Arabic; a translation of a passage or of the whole, in any language, cannot be called the Qur'an. Its reason is that, in the majority view, the Qur'an names its wording and its meanings together. Qur'anic words strung from different places into a new passage are not the Qur'an, and neither are its meanings alone rendered into another tongue.",
+            "bn": "মাআরিফুল কুরআন এই তিনটি শব্দ থেকে বিধানের মতো একটি সিদ্ধান্ত টানে। এর মতে, শব্দগুলো স্পষ্ট করে দেয় যে কুরআন কেবল সেটাই, যা আরবী ভাষায় আছে। কোনো অংশের বা পুরো কুরআনের অনুবাদ, যে ভাষাতেই হোক, কুরআন বলে গণ্য হবে না। কারণ হিসেবে এটি বলে, অধিকাংশ আলেমের মতে কুরআন নাম তার শব্দ ও অর্থ দুটো মিলিয়ে। কুরআনের বিভিন্ন জায়গা থেকে শব্দ তুলে জুড়ে নতুন একটা অনুচ্ছেদ বানালে সেটা কুরআন নয়। আবার শুধু অর্থটুকু অন্য ভাষায় ঢেলে দিলে সেটাও কুরআন নয়।"
+          },
+          {
+            "en": "Two consequences follow in its account. It states that the Ummah is agreed that reciting a translation in Urdu, Persian, English or any other language does not fulfil the recitation required in the prayer, except in extreme necessity, and that the jurists reported to have relaxed this later changed their view. And it objects to calling a translation 'the Urdu Qur'an' or 'the English Qur'an', or printing and selling a rendering under that name without the Arabic text. Its concern is with the name and with the prayer. It says nothing against reading a translation to understand.",
+            "bn": "এর বর্ণনায় এখান থেকে দুটি ফল আসে। প্রথমত, এটি বলে, উম্মত একমত যে উর্দু, ফারসি, ইংরেজি বা অন্য কোনো ভাষায় অনুবাদ পড়লে নামাযের ফরয কিরাআত আদায় হয় না, চরম অপারগতার অবস্থা ছাড়া। যেসব ফকীহ এ ব্যাপারে ছাড় দিয়েছেন বলে বর্ণিত, তাঁরা পরে মত বদলেছেন। দ্বিতীয়ত, অনুবাদকে 'উর্দু কুরআন' বা 'ইংরেজি কুরআন' বলা, কিংবা আরবী মূল পাঠ ছাড়া শুধু অনুবাদ কুরআন নামে ছাপানো ও বিক্রি করায় এর আপত্তি। এর চিন্তা নাম আর নামায নিয়ে। বোঝার জন্য অনুবাদ পড়ার বিরুদ্ধে এটি কিছু বলে না।"
+          },
+          {
+            "en": "The very next verse, 26:196, says the Qur'an is in the scriptures of the earlier peoples, which were not in Arabic. Ma'arif raises the tension itself and answers that 'it' there means the Qur'an's subject matter, citing 87:18 and 87:19; it also relays narrations through al-Hakim, at-Tabarani and others on surahs tied to earlier revelation, which are only mentioned here. That verse deserves its own reading. For this one the point is enough: what is recited in prayer is the Arabic, and a rendering is a door to its meanings.",
+            "bn": "ঠিক পরের আয়াত, ২৬:১৯৬, বলে কুরআন পূর্ববর্তীদের কিতাবেও আছে। অথচ সেসব কিতাব আরবীতে ছিল না। মাআরিফুল কুরআন নিজেই এই টানাপোড়েন তোলে, আর জবাব দেয় যে সেখানে 'এটি' মানে কুরআনের বিষয়বস্তু। প্রমাণ হিসেবে আনে ৮৭:১৮ ও ৮৭:১৯। কিছু সূরার সঙ্গে আগের ওহির সম্পর্ক নিয়ে হাকিম, তাবারানী প্রমুখের সূত্রে কিছু বর্ণনাও এটি উদ্ধৃত করে। সেগুলোর এখানে শুধু উল্লেখ রইল। ওই আয়াতের আলাদা আলোচনা প্রাপ্য। এ আয়াতের জন্য এটুকুই যথেষ্ট: নামাযে তিলাওয়াত হয় আরবী, আর অনুবাদ সেই আরবীর অর্থে পৌঁছানোর একটি দরজা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Clarity Leaves Us Answerable",
+          "bn": "স্পষ্টতা আমাদের দায়ী করে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's phrase is worth carrying away: clarity that cuts off excuse. It reads differently depending on where a person stands. For someone whose mother tongue is Arabic, the verse is a warning against assuming that hearing your own language is the same as heeding it; the first hearers had every word and still turned away. For someone whose language is Bengali, English or anything else, it is a warning against a different excuse, the thought that because the Arabic is not mine, the message is not yet my concern.",
+            "bn": "ইবন কাসীরের যে কথাটা মনে রাখার মতো: এমন স্পষ্টতা, যা অজুহাতের পথ বন্ধ করে দেয়। কে কোথায় দাঁড়িয়ে, তার উপর কথাটার অর্থ বদলায়। যার মাতৃভাষা আরবী, তার জন্য আয়াতটি এক সতর্কবাণী। নিজের ভাষা কানে শোনা আর মেনে চলা এক কথা নয়। প্রথম শ্রোতারা প্রতিটি শব্দ বুঝেও মুখ ফিরিয়েছিল। আর যার ভাষা বাংলা, ইংরেজি বা অন্য কিছু, তার জন্য সতর্কবাণী ভিন্ন এক অজুহাত থেকে। সেই অজুহাত হলো এই ভাবনা: আরবী তো আমার ভাষা নয়, তাই বার্তাটা এখনো আমার মাথাব্যথা নয়।"
+          },
+          {
+            "en": "The meanings are within reach, and the Arabic comes within reach a little at a time, beginning with what you recite in your own prayer. Neither excuse survives the verse. What at-Tabari's reading leaves behind is a question: when I turn from something in the Qur'an, is it truly because I cannot understand it? Often I understood enough to see what it asks of me. The Book came clear so that the barrier left at the end is a barrier I can remove myself.",
+            "bn": "অর্থ হাতের নাগালেই আছে। আরবীও নাগালে আসে, একটু একটু করে, শুরু করা যায় নিজের নামাযে যা পড়েন তা দিয়ে। আয়াতটির সামনে কোনো অজুহাতই টেকে না। তাবারীর ব্যাখ্যা একটা প্রশ্ন রেখে যায়। কুরআনের কোনো কথা থেকে যখন মুখ ফেরাই, সত্যিই কি না বোঝার কারণে? প্রায়ই দেখা যায়, এটা আমার কাছে কী চায় তা দেখার মতো যথেষ্ট আমি বুঝেছিলাম। কিতাবটি স্পষ্ট হয়ে এসেছে, যাতে শেষ পর্যন্ত যে বাধা থাকে, তা সরানোর ক্ষমতা আমার নিজের হাতেই।"
+          }
+        ]
+      }
+    ]
+  },
   "26:198": {
     "sections": [
       {
