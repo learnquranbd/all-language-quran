@@ -1911,6 +1911,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "36:42": {
+    "sections": [
+      {
+        "h": {
+          "en": "Six Words After the Ark",
+          "bn": "নৌকার পরে ছয় শব্দ"
+        },
+        "p": [
+          {
+            "en": "The sign before this one is a ship. Wa-ayatun lahum anna hamalna dhurriyyatahum fi al-fulki al-mashhun: a sign for them is that We carried their offspring in the laden ship (36:41). Ibn Kathir, in the abridged English, takes the offspring as their forefathers and the ship as one filled with goods and animals, and relays ad-Dahhak, Qatada and Ibn Zayd naming it the ship of Nuh (AS). Then come six Arabic words: wa-khalaqna lahum min mithlihi ma yarkabun, and We created for them, of its like, what they ride.",
+            "bn": "এর আগের নিদর্শনটি একটি নৌকা। ওয়া আয়াতুল লাহুম আন্না হামালনা যুররিয়্যাতাহুম ফিল ফুলকিল মাশহূন: তাদের জন্য এক নিদর্শন এই যে, আমি তাদের বংশধরদের বোঝাই নৌকায় বহন করেছি (৩৬:৪১)। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, বংশধর মানে এখানে তাদের পূর্বপুরুষ, আর নৌকাটি মালপত্র ও পশুতে ভরা। দাহহাক, কাতাদা ও ইবন যায়েদের কথাও তিনি আনেন: সেটি ছিল নূহ (আঃ)-এর নৌকা। তারপর আরবিতে মাত্র ছয়টি শব্দ: ওয়া খালাকনা লাহুম মিম মিসলিহী মা ইয়ারকাবূন। আর তাদের জন্য আমি সৃষ্টি করেছি তার মতো আরও কিছু, যাতে তারা চড়ে।"
+          },
+          {
+            "en": "At-Tabari paraphrases with the first hearers in view: We created for these idolaters who deny you, O Muhammad, as a favour from Us, of the like of that ship in which We carried those of Adam's offspring whom We carried, the mounts that they ride. As-Sa'di reads lahum as those who came after the people of the Ark, and mithlihi as the kind of that ship. Al-Qurtubi adds a note of grammar: the full form would be yarkabunahu, they ride it, and the pronoun fell away because the relative clause is long and the word closes a verse.",
+            "bn": "তাবারী আয়াতের অর্থ খুলে বলেন প্রথম শ্রোতাদের সামনে রেখে। হে মুহাম্মাদ, যে মুশরিকরা আপনাকে মিথ্যা বলে, তাদের জন্য আমি নিজের অনুগ্রহে সৃষ্টি করেছি সেই নৌকার মতো বাহন, যাতে আমি আদমের বংশধরদের মধ্যে যাদের বহন করার তাদের বহন করেছিলাম। সা'দী বলেন, লাহুম মানে নৌকার লোকদের পরে যারা দুনিয়ায় এসেছে তারা। আর মিসলিহী মানে সেই নৌকার জাতের জিনিস। কুরতুবী একটি ব্যাকরণের কথা যোগ করেন। পূর্ণ রূপ হতো ইয়ারকাবূনাহু, তারা তাতে চড়ে। সম্বন্ধবাচক অংশটি লম্বা, আর শব্দটি আয়াতের শেষে, তাই সর্বনামটি বাদ পড়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Boats Built on Its Pattern",
+          "bn": "সেই নৌকার আদলে গড়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens the first view with a small scene. Sa'id ibn Jubayr reports that Ibn 'Abbas (RA) asked: do you know what wa-khalaqna lahum min mithlihi ma yarkabun means? We said no. He said: they are the ships, made after the ship of Nuh on its pattern. Ibn Kathir quotes the same report from at-Tabari, and al-Qurtubi gives Ibn 'Abbas's words as: He created for them ships like it, in which they ride. Ad-Dahhak, in at-Tabari, says the same: the ships taken after it, meaning after Nuh's ship.",
+            "bn": "প্রথম মতটি তাবারী শুরু করেন ছোট্ট একটি দৃশ্য দিয়ে। সাঈদ ইবন জুবাইর বর্ণনা করেন, ইবন আব্বাস (রাঃ) জিজ্ঞেস করলেন: তোমরা কি জানো, ওয়া খালাকনা লাহুম মিম মিসলিহী মা ইয়ারকাবূন কথাটির অর্থ কী? আমরা বললাম, না। তিনি বললেন: এগুলো নৌকা, নূহের নৌকার পরে তার আদলে বানানো। ইবন কাসীর তাবারী থেকে এই বর্ণনাটিই উদ্ধৃত করেন। কুরতুবীর কাছে ইবন আব্বাসের কথাটি এরকম: তিনি তাদের জন্য তার মতো নৌকা সৃষ্টি করেছেন, যাতে তারা চড়ে। তাবারীর বর্ণনায় দাহহাকও একই কথা বলেন: এগুলো সেই নৌকা, যা তার পরে, অর্থাৎ নূহের নৌকার পরে বানানো হয়েছে।"
+          },
+          {
+            "en": "Others on this side narrow it. Abu Malik, al-Hasan and Abu Salih, each in at-Tabari, say: the small ships. Al-Qurtubi gives Abu Malik's fuller sense, small ships that He created like the large ones, and records it from Ibn 'Abbas and al-Hasan too. Some widen it instead. Qatada, in at-Tabari: they are the ships that are of use. Ibn Zayd: it is these ships. Abu Salih, in a second report, answers simply: yes, of the like of a ship.",
+            "bn": "এই পক্ষের কেউ কেউ অর্থটা আরও নির্দিষ্ট করেন। তাবারীর বর্ণনায় আবু মালিক, হাসান ও আবু সালিহ প্রত্যেকে বলেন: ছোট নৌকা। কুরতুবী আবু মালিকের কথা আরেকটু খুলে বলেন। ছোট নৌকাগুলো তিনি সৃষ্টি করেছেন বড় নৌকার মতো করে। এই কথা তিনি ইবন আব্বাস ও হাসান থেকেও বর্ণনা করেন। কেউ আবার অর্থটা প্রশস্ত করেন। তাবারীর বর্ণনায় কাতাদা বলেন: এগুলো সেই নৌকা, যা মানুষের কাজে আসে। ইবন যায়েদ বলেন: এই নৌযানগুলোই। আবু সালিহ আরেক বর্ণনায় সংক্ষেপে বলেন: হ্যাঁ, নৌকার মতো জিনিস।"
+          },
+          {
+            "en": "Al-Baghawi sets two forms of this view side by side, both introduced with it is said. In one, they are the small ships built after Nuh's ship in its shape. In the other, they are the boats that run on rivers, which on rivers are like the large ships on the seas; he gives this as the view of Qatada, ad-Dahhak and others. Al-Jalalayn, read on quranx, joins the sizes: the small and large ships resembling Noah's Ark, which people made by the instruction of God, and in which they ride.",
+            "bn": "বাগাভী এই মতের দুটি রূপ পাশাপাশি রাখেন, দুটোই 'বলা হয়' দিয়ে শুরু। একটিতে এগুলো ছোট নৌকা, নূহের নৌকার পরে তার গড়নে বানানো। অন্যটিতে এগুলো নদীতে চলা নৌকা, সাগরে বড় জাহাজ যেমন, নদীতে এরা তেমন। এটিকে তিনি কাতাদা, দাহহাক ও আরও কয়েকজনের মত বলে উল্লেখ করেন। কুরআনএক্স সাইটে পড়া জালালাইন ছোট-বড় দুটোকেই এক করে দেয়। নূহ (আঃ)-এর নৌকার মতো ছোট ও বড় সব নৌযান, যা মানুষ আল্লাহর নির্দেশনায় বানিয়েছে, আর তাতে চড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Camels Likened to Ships",
+          "bn": "উট, ডাঙার জাহাজ"
+        },
+        "p": [
+          {
+            "en": "Others, at-Tabari says, held that camels were meant. Ibn 'Abbas heads it, by a chain passed from father to son, and Ibn Kathir gives the same words as al-'Awfi's report from him: it means the camels; Allah created them as you see, and they are the ships of the land, on which people load their goods and ride. 'Ikrima says: the camels. 'Abd Allah ibn Shaddad says: they are the camels. Qatada relays al-Hasan: they are the camels. Mujahid widens it a little: of the livestock, and Ibn Kathir has as-Suddi, in one report, say the same.",
+            "bn": "তাবারী বলেন, অন্যরা মনে করেছেন এখানে উটের কথা বলা হয়েছে। এ পক্ষে তাঁর প্রথম বর্ণনা ইবন আব্বাস থেকে, এমন এক সনদে যা পিতা থেকে পুত্রে চলে এসেছে। ইবন কাসীর একই কথা আনেন আওফীর সূত্রে, ইবন আব্বাস থেকে। অর্থ উট। আল্লাহ তাদের সৃষ্টি করেছেন যেমন তুমি দেখছ। এরা ডাঙার জাহাজ, মানুষ এদের পিঠে মালপত্র চাপায়, এদের উপর চড়ে। ইকরিমা বলেন: উট। আবদুল্লাহ ইবন শাদ্দাদ বলেন: এগুলো উট। কাতাদা হাসান থেকে বর্ণনা করেন: এগুলো উট। মুজাহিদ অর্থটা একটু প্রশস্ত করে বলেন: গবাদি পশুর মধ্য থেকে। ইবন কাসীরের বর্ণনায় সুদ্দীও এক রেওয়ায়েতে একই কথা বলেন।"
+          },
+          {
+            "en": "Al-Qurtubi explains why a camel can be the like of a ship. Allah created camels for riding on land, like the ships ridden at sea, and the Arabs liken camels to ships. He cites a line of Tarafa in which the camel-litters of al-Malikiyya, setting out in the early morning, look like great ships, and he glosses the poet's word khaliyya as the great ship. Al-Baghawi has it from Ibn 'Abbas: camels on land are like ships on the sea. Al-Qurtubi also records a wider second view: camels, riding beasts and everything that is ridden.",
+            "bn": "উট কীভাবে নৌকার মতো হতে পারে, কুরতুবী তা ব্যাখ্যা করেন। আল্লাহ উট সৃষ্টি করেছেন ডাঙায় চড়ার জন্য, যেমন সাগরে মানুষ নৌকায় চড়ে। আরবরা উটকে নৌকার সঙ্গে তুলনা করত। এর প্রমাণে তিনি তারাফার একটি পঙক্তি আনেন। ভোরবেলা মালিকিয়্যার উটের পিঠের হাওদাগুলো রওনা হয়েছে, দেখাচ্ছে যেন বিশাল সব জাহাজ। কবির ব্যবহৃত খালিয়্যা শব্দের অর্থ তিনি বলেন বিশাল জাহাজ। বাগাভী ইবন আব্বাস থেকে বলেন: ডাঙায় উট যেমন, সাগরে নৌকা তেমন। কুরতুবী আরও প্রশস্ত দ্বিতীয় একটি মতও উল্লেখ করেন: উট, অন্যান্য বাহন পশু এবং চড়ার মতো সবকিছু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Name on Both Lists",
+          "bn": "একই নাম দুই পক্ষে"
+        },
+        "p": [
+          {
+            "en": "The two lists do not divide the early scholars neatly. Ibn 'Abbas stands on both sides, by two different chains. Al-Hasan says small ships in one report and camels in another, the second relayed by Qatada. Qatada himself says the ships that are of use, while Ibn Kathir counts him among the camel side in one report. As-Suddi, in Ibn Kathir, says livestock in one report and ships in another. The disagreement runs through single names, not only between them.",
+            "bn": "দুই তালিকা প্রথম যুগের আলেমদের পরিষ্কার দুই ভাগে ভাগ করে না। ইবন আব্বাস দুই পক্ষেই আছেন, দুটি ভিন্ন সনদে। হাসান এক বর্ণনায় বলেন ছোট নৌকা, আরেক বর্ণনায় উট, আর দ্বিতীয়টি আসে কাতাদার মুখে। কাতাদা নিজে বলেন মানুষের কাজে আসা নৌকা, অথচ ইবন কাসীর এক রেওয়ায়েতে তাঁকে উটের পক্ষে গোনেন। ইবন কাসীরের বর্ণনায় সুদ্দী এক রেওয়ায়েতে বলেন গবাদি পশু, আরেকটিতে নৌকা। মতভেদটা কেবল ভিন্ন ভিন্ন আলেমের মধ্যে নয়, একই নামের ভেতর দিয়েও চলে গেছে।"
+          },
+          {
+            "en": "Some of the commentators weigh it. At-Tabari judges the ships reading the closer of the two, because the next verse says, and if We will, We drown them, and drowning, as is known, happens only in water; there is no drowning on land. Abu Malik had already argued so in at-Tabari's own report: do you not see that He said, if We will, We drown them? Al-Qurtubi quotes an-Nahhas calling the ships view the soundest, since its chain to Ibn 'Abbas is connected. Ibn Kathir says that 69:11 and 69:12, on the ship that carried you when the water rose, strengthen it in meaning.",
+            "bn": "কয়েকজন মুফাসসির দুই মত ওজন করে দেখেন। তাবারী নৌকার অর্থকেই বেশি কাছের মনে করেন, কারণ পরের আয়াত বলছে, আর আমি চাইলে তাদের ডুবিয়ে দিই। সবাই জানে, ডোবা হয় শুধু পানিতে, ডাঙায় কেউ ডোবে না। তাবারীর নিজের বর্ণনাতেই আবু মালিক এই যুক্তি আগে দিয়েছিলেন: দেখছ না, তিনি বলেছেন, আমি চাইলে তাদের ডুবিয়ে দিই? কুরতুবী নাহহাসের কথা উদ্ধৃত করেন, নৌকার মতই সবচেয়ে বিশুদ্ধ, কারণ ইবন আব্বাস পর্যন্ত এর সনদ মুত্তাসিল। ইবন কাসীর বলেন, ৬৯:১১ ও ৬৯:১২, পানি যখন সীমা ছাড়াল তখন যে নৌকা তোমাদের বহন করেছিল, অর্থের দিক থেকে এই মতকে আরও মজবুত করে।"
+          },
+          {
+            "en": "The camel reading did not vanish for all that. Al-Qurtubi lists it first, as the way of Mujahid, Qatada and a group of the commentators, and as-Sa'di finds that it makes the sentence run straight. Al-Muyassar declines to choose: We created for these idolaters and others the like of Nuh's ship, ships and other mounts that they ride and that bring them to their homelands. Both readings are kept here as they stand.",
+            "bn": "তবু উটের অর্থ হারিয়ে যায়নি। কুরতুবী এটিকেই প্রথমে রাখেন, মুজাহিদ, কাতাদা ও একদল মুফাসসিরের মত হিসেবে। আর সা'দী দেখেন, এই অর্থে বাক্যটা সোজা দাঁড়ায়। মুয়াসসার কোনো একটিকে বেছে নেয় না। তার ভাষায়, এই মুশরিক ও অন্যদের জন্য আমি সৃষ্টি করেছি নূহের নৌকার মতো নৌকা আর অন্যান্য বাহন, যাতে তারা চড়ে এবং যা তাদের নিজ নিজ দেশে পৌঁছে দেয়। এখানে দুই অর্থকেই যেমন আছে তেমন রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where As-Sa'di Paused",
+          "bn": "যেখানে সা'দী থমকে গেলেন"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di is unusually frank here. This place, he writes, is among the hardest for me in tafsir. Many commentators take the offspring of 36:41 as the forefathers, but the Qur'an is not known to use dhurriyya for forefathers. A better possibility is that offspring means the human kind, the hearers themselves as descendants of Adam. Yet then this verse, if it meant ships for those same hearers, would repeat the previous one, which the Qur'an's eloquence refuses. Read as camels, the ships of the land, the meaning comes straight.",
+            "bn": "এখানে সা'দী অস্বাভাবিক রকম খোলামেলা। তিনি লেখেন, তাফসীরে আমার কাছে সবচেয়ে কঠিন জায়গাগুলোর একটি এটি। অনেক মুফাসসির ৩৬:৪১-এর বংশধর বলতে পূর্বপুরুষ বোঝেন। কিন্তু কুরআনে যুররিয়্যা শব্দটি পূর্বপুরুষ অর্থে ব্যবহারের নজির জানা নেই। তার চেয়ে ভালো সম্ভাবনা হলো, বংশধর মানে মানবজাতি, শ্রোতারা নিজেরাই, কারণ তারাও আদমের বংশধর। কিন্তু তাহলে এ আয়াত যদি সেই শ্রোতাদের জন্যই নৌকার কথা বলে, তবে আগের আয়াতের কথারই পুনরাবৃত্তি হয়, আর কুরআনের বাগ্মিতা তা মানে না। ডাঙার জাহাজ উট অর্থ নিলে মানেটা সোজা হয়ে যায়।"
+          },
+          {
+            "en": "Even that, he says, leaves some unevenness, for the first verse says We carried their offspring and the second says for them, unless the pronoun returns to the offspring; and Allah knows best the truth of the matter. Then he records what happened as he wrote: when I reached this point, a meaning appeared to me not far from what Allah intends. The Book, he explains, speaks to matters present, past and future, and of every meaning it mentions the highest and most complete form. Ships have been among His signs and favours since He blessed people with learning them, and will be until the Day of Resurrection.",
+            "bn": "তবে এতেও কিছুটা অসংগতি থেকে যায়, তিনি বলেন। প্রথম আয়াতে আছে, আমি তাদের বংশধরদের বহন করেছি, আর দ্বিতীয়টিতে, তাদের জন্য। অবশ্য সর্বনামটি যদি বংশধরদের দিকেই ফেরে, তবে আলাদা কথা। আর আসল অবস্থা আল্লাহই ভালো জানেন। তারপর লিখতে লিখতে কী ঘটল, তা-ও তিনি জানিয়ে দেন: এই জায়গায় পৌঁছে আমার কাছে এমন এক অর্থ স্পষ্ট হলো, যা আল্লাহর উদ্দেশ্য থেকে দূরে নয়। তাঁর ব্যাখ্যায়, আল্লাহর কিতাব বর্তমান, অতীত ও ভবিষ্যৎ সব বিষয়েই কথা বলে, আর প্রতিটি অর্থের সবচেয়ে উঁচু ও পূর্ণ রূপটাই তুলে ধরে। যেদিন থেকে তিনি মানুষকে নৌকার বিদ্যা শেখার নিয়ামত দিয়েছেন, সেদিন থেকে কিয়ামত পর্যন্ত নৌকা তাঁর নিদর্শন ও নিয়ামত।"
+          },
+          {
+            "en": "His answer continues in the note the API files under 36:43. Allah addressed them in the Qur'an and mentioned the ship, knowing that its greatest signs would come in a time other than theirs, when He would teach people to build sea vessels, both sailing ships and fire-driven ones, craft that swim through the air like birds, and land vehicles. Since the greatest of these signs would exist only among the descendants, He pointed to the highest kind: We carried their offspring in the laden ship, filled with riders and goods.",
+            "bn": "তাঁর উত্তরের বাকি অংশ আছে সেই টীকায়, যা এপিআই ৩৬:৪৩-এর ঘরে রেখেছে। আল্লাহ কুরআনে তাদের সম্বোধন করে নৌকার কথা বললেন। তিনি জানতেন, নৌকার সবচেয়ে বড় নিদর্শনগুলো আসবে তাদের যুগে নয়, অন্য এক সময়ে। তখন তিনি মানুষকে শেখাবেন সাগরের নৌযান বানাতে, পালতোলা আর আগুনে চলা দুই ধরনেরই, পাখির মতো আকাশে সাঁতরে চলা যান, আর ডাঙার বাহন। এসব নিদর্শনের সবচেয়ে বড়টি যেহেতু দেখা দেবে কেবল বংশধরদের মধ্যে, তাই তিনি ইঙ্গিত করলেন সবচেয়ে উঁচু জাতটির দিকে: আমি তাদের বংশধরদের বহন করেছি বোঝাই নৌকায়, আরোহী ও মালপত্রে ভরা নৌকায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ma'arif Looks to the Sky",
+          "bn": "মাআরিফের দৃষ্টি আকাশে"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an goes further in the same direction, in its own name. The Qur'an, it says, has not named the camel or any particular conveyance here, so the words take in every means of transport that carries people and their baggage to where they want to go. It calls the aeroplane the greatest substantiation of min mithlihi in our time, and draws the likeness: as the sea does not drown a ship sailing on it, the air does not throw down an aeroplane flying on it.",
+            "bn": "মাআরিফুল কুরআন একই দিকে আরও এগিয়ে যায়, নিজের দায়িত্বে। তার বক্তব্য, কুরআন এখানে উট বা নির্দিষ্ট কোনো বাহনের নাম নেয়নি। তাই কথাটির ভেতরে আসে এমন সব যানবাহন, যা মানুষ ও তাদের মালপত্র গন্তব্যে পৌঁছে দেয়। আমাদের যুগে মিম মিসলিহী কথাটির সবচেয়ে বড় প্রমাণ সে বলে বিমানকে। তুলনাটাও সে টানে এভাবে: সাগরের পানি যেমন তার উপর ভাসা জাহাজকে ডোবায় না, বাতাসও তেমনি তার উপর দিয়ে উড়ে চলা বিমানকে নিচে ফেলে দেয় না।"
+          },
+          {
+            "en": "It suggests the Qur'an may have left the phrase open so that every conveyance invented until the Day of Qiyamah would be included, and closes with: and Allah knows best. That is Ma'arif's argument, as the forward reading in the previous section is as-Sa'di's. The early reports that at-Tabari, Ibn Kathir, al-Qurtubi and al-Baghawi collect speak of ships, boats and camels. The verse's claim does not wait on any machine: a camel crossing the sand and a boat on a river were already enough for those who first heard it.",
+            "bn": "মাআরিফের ধারণা, কুরআন হয়তো কথাটা খোলা রেখেছে, যাতে কিয়ামত পর্যন্ত যত বাহন আবিষ্কার হবে সবই এর ভেতরে আসে। শেষে সে বলে: আর আল্লাহই ভালো জানেন। এ যুক্তি মাআরিফের নিজের, ঠিক যেমন আগের অংশে ভবিষ্যতের দিকে তাকানো ব্যাখ্যাটি সা'দীর। তাবারী, ইবন কাসীর, কুরতুবী ও বাগাভী প্রথম যুগের যেসব বর্ণনা জড়ো করেছেন, তাতে কথা আছে জাহাজ, নৌকা আর উটের। আয়াতের দাবি কোনো যন্ত্রের অপেক্ষায় বসে নেই। বালির উপর দিয়ে চলা উট আর নদীর বুকে ভাসা নৌকাই প্রথম শ্রোতাদের জন্য যথেষ্ট ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Built by Hands, Created by Him",
+          "bn": "হাতে গড়া, তাঁরই সৃষ্টি"
+        },
+        "p": [
+          {
+            "en": "On the ships reading, the verse uses khalaqna, We created, for things people saw being built. The commentators place the human craft inside the divine gift. Al-Jalalayn says the ships were made by the instruction of God. As-Sa'di speaks of the craft as something Allah teaches, and says He carried and rescued people from drowning by the means He taught them. At-Tabari frames the whole verse as tafaddulan minna, a favour from Us.",
+            "bn": "নৌকার অর্থ নিলে আয়াতটি খালাকনা, আমি সৃষ্টি করেছি, শব্দটি ব্যবহার করছে এমন জিনিসের জন্য, যা মানুষ চোখের সামনে বানাতে দেখেছে। মুফাসসিরেরা মানুষের কারিগরিকে আল্লাহর দানের ভেতরেই রাখেন। জালালাইন বলে, নৌকাগুলো বানানো হয়েছে আল্লাহর নির্দেশনায়। সা'দী এই কারিগরিকে বলেন আল্লাহর শেখানো বিদ্যা। তাঁর ভাষায়, যে উপায় আল্লাহ মানুষকে শিখিয়েছেন, তা দিয়েই তিনি তাদের বহন করেছেন আর ডুবে যাওয়া থেকে বাঁচিয়েছেন। তাবারী পুরো আয়াতটিকে দেখেন তাফাদ্দুলান মিন্না হিসেবে, আমার পক্ষ থেকে অনুগ্রহ।"
+          },
+          {
+            "en": "The camel reading makes the same claim about a beast that people breed, own and sell: Allah created them as you see, in Ibn 'Abbas's words. Either way the human part is real, the shipwright's skill and the herder's care, and either way it sits inside His making. The pairing of ships and cattle as mounts appears again in 43:12 and 43:13. The hull may now be steel, but the verse still asks who taught the first boatbuilder, and who made the wood.",
+            "bn": "উটের অর্থ নিলেও দাবিটা একই, এবার এমন এক পশু সম্পর্কে, যাকে মানুষ পালে, মালিক হয়, কেনাবেচা করে। ইবন আব্বাসের ভাষায়: আল্লাহ তাদের সৃষ্টি করেছেন যেমন তুমি দেখছ। যে অর্থই নিই, মানুষের ভাগটা সত্যি, নৌকা-কারিগরের দক্ষতা আর রাখালের যত্ন। আবার যে অর্থই নিই, সেই ভাগ আল্লাহর সৃষ্টির ভেতরেই। বাহন হিসেবে নৌকা আর পশুর জোড় আবার এসেছে ৪৩:১২ ও ৪৩:১৩ আয়াতে। আজ জাহাজের খোল হয়তো ইস্পাতের। তবু আয়াত জিজ্ঞেস করে, প্রথম নৌকা-নির্মাতাকে কে শিখিয়েছিলেন, আর কাঠ কে সৃষ্টি করেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kept Afloat by Mercy",
+          "bn": "রহমতেই ভেসে থাকা"
+        },
+        "p": [
+          {
+            "en": "Wa-in nasha' nughriqhum fa-la sarikha lahum wa-la hum yunqadhun, illa rahmatan minna wa-mata'an ila hin: if We will, We drown them, and there is none to answer their cry, nor are they rescued, except as a mercy from Us and an enjoyment for a time (36:43 and 36:44). Ibn Kathir, in the abridged English, says this means those on board the ships, with no one to save them, and reads the exception as: by Our mercy We make it easy for you to travel on land and sea, and keep you safe until an appointed time.",
+            "bn": "ওয়া ইন নাশা' নুগরিকহুম ফালা সারীখা লাহুম ওয়ালা হুম ইউনকাযূন, ইল্লা রাহমাতাম মিন্না ওয়া মাতাআন ইলা হীন। আমি চাইলে তাদের ডুবিয়ে দিই, তখন তাদের আর্তনাদ শোনার কেউ থাকে না, আর তারা উদ্ধারও পায় না। তবে আমার পক্ষ থেকে রহমত হিসেবে, আর কিছুকালের ভোগের সুযোগ হিসেবে (৩৬:৪৩ ও ৩৬:৪৪)। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, এর অর্থ নৌকার আরোহীরা, যাদের বাঁচানোর কেউ থাকবে না। আর ব্যতিক্রমটির অর্থ: আমার রহমতেই তোমাদের জন্য জলে-স্থলে সফর সহজ করি, আর নির্ধারিত সময় পর্যন্ত নিরাপদ রাখি।"
+          },
+          {
+            "en": "As-Sa'di glosses the cry: no one to cry out on their behalf, help them in their hardship and lift the distress from them. This is the verse on which at-Tabari's preference for ships rests. None of the commentaries fetched for this verse attaches a hadith to it, and none reports an occasion of its revelation. The drowning in 36:43 states Allah's power over every traveller; it is not a verdict on anyone who has died at sea, and it licenses no one to read a shipwreck as a judgement on the people in it.",
+            "bn": "সা'দী আর্তনাদের কথাটা ব্যাখ্যা করেন এভাবে: তাদের হয়ে চিৎকার করে সাহায্য চাওয়ার কেউ নেই, বিপদে পাশে দাঁড়ানোর কেউ নেই, কষ্ট সরিয়ে দেওয়ারও কেউ নেই। এই আয়াতের উপরেই দাঁড়িয়ে আছে নৌকার অর্থের পক্ষে তাবারীর রায়। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো প্রেক্ষাপটও উল্লেখ করেনি। ৩৬:৪৩-এর ডুবিয়ে দেওয়ার কথা প্রতিটি মুসাফিরের উপর আল্লাহর ক্ষমতার ঘোষণা। সাগরে যারা মারা গেছেন, তাদের কারও বিরুদ্ধে এটি কোনো রায় নয়। কোনো নৌকাডুবিকে তার যাত্রীদের উপর শাস্তি বলে ব্যাখ্যা করার অনুমতিও এটি কাউকে দেয় না।"
+          },
+          {
+            "en": "So the verse sits between a rescue remembered and a drowning withheld, and every journey we make passes between the two: He created what carries us, and He could stop it. The fitting answer is not fear of travel but awareness on the road, setting out with His name and arriving with thanks. The safe arrival we take for granted is the mercy and the enjoyment for a time that 36:44 names.",
+            "bn": "তাই আয়াতটি দাঁড়িয়ে আছে দুইয়ের মাঝখানে: মনে রাখার মতো এক উদ্ধার, আর ঠেকিয়ে রাখা এক ডুবে যাওয়া। আমাদের প্রতিটি সফর চলে এই দুইয়ের মাঝ দিয়ে। যা আমাদের বয়ে নেয়, তা তিনি সৃষ্টি করেছেন। আর তিনি চাইলে তা থামিয়েও দিতে পারেন। এর সঠিক জবাব সফরের ভয় নয়, পথে সজাগ থাকা। তাঁর নাম নিয়ে রওনা হওয়া, শোকর নিয়ে পৌঁছানো। যে নিরাপদ পৌঁছানোকে আমরা স্বাভাবিক ধরে নিই, ৩৬:৪৪ সেটাকেই বলে রহমত, আর কিছুকালের ভোগ।"
+          }
+        ]
+      }
+    ]
+  },
   "36:47": {
     "sections": [
       {

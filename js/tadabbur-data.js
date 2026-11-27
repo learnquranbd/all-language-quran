@@ -36813,6 +36813,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "What Allah keeps hidden is guarded, not left for thieves to overhear. Seek what you need to know from His revelation, not from those who claim to read the unseen.",
     "lessonBn": "আল্লাহ যা গোপন রেখেছেন, তা পাহারায় ঘেরা, চোরের কানে পৌঁছানোর জন্য খোলা পড়ে নেই। যা জানা দরকার, তা খুঁজুন তাঁর ওহীতে, গায়েব পড়ার দাবিদারদের কাছে নয়।"
+  },
+  "36:42": {
+    "reflectionEn": "The verse before this one recalls a ship heavy with passengers, carried safely across a drowned world. Then come six words: and We created for them, of its like, what they ride. Some of the earliest commentators heard ships in it, the boats built after the Ark; others heard camels, the ships of the dry land. Either way, the verse claims as Allah's creating what people think of as their own craft or their own herds. I step onto a bus, a plane or a ferry, and the thought rarely crosses my mind that I am being carried. The very next verse says that if He willed, no cry for help would be answered. Do I travel as someone carried, or as someone in charge?",
+    "reflectionBn": "এর আগের আয়াতটি মনে করিয়ে দেয় যাত্রী-বোঝাই এক নৌকার কথা, যা ডুবে যাওয়া দুনিয়ার উপর দিয়ে নিরাপদে বয়ে নেওয়া হয়েছিল। তারপর মাত্র ছয়টি শব্দ: আর তাদের জন্য আমি সৃষ্টি করেছি তার মতো আরও বাহন, যাতে তারা চড়ে। প্রথম যুগের কোনো কোনো মুফাসসির এখানে নৌকার কথা শুনেছেন, নূহ (আঃ)-এর নৌকার পরে বানানো নৌযান। আবার কেউ শুনেছেন উটের কথা, যাকে বলা হয় মরুভূমির জাহাজ। যে অর্থই নিই, মানুষ যাকে নিজের হাতের কারিগরি বা নিজের পালের পশু মনে করে, আয়াত তাকে আল্লাহর সৃষ্টি বলে দাবি করছে। বাসে, বিমানে বা লঞ্চে ওঠার সময় আমার মনেই আসে না যে আমাকে বয়ে নেওয়া হচ্ছে। অথচ ঠিক পরের আয়াত বলছে, তিনি চাইলে কোনো আর্তনাদের জবাব দেওয়ার কেউ থাকত না। আমি কি সফর করি বয়ে-নেওয়া একজন হিসেবে, নাকি নিজেকে সবকিছুর কর্তা ভেবে?",
+    "pointsEn": [
+      "On my last journey, did I remember even once that I was being carried rather than carrying myself?",
+      "Which things that people have built do I treat as purely human achievement, forgetting who taught the skill and made the material?",
+      "Do I begin a trip with the remembrance of Allah, or only with checking the time and the tickets?",
+      "When I arrive safely, as I nearly always do, do I count it as a mercy or simply as what I expected?",
+      "What would change in the way I travel if I believed that every safe return is a gift and not a guarantee?"
+    ],
+    "pointsBn": [
+      "শেষ যে সফরটা করেছি, তাতে কি একবারও মনে পড়েছিল যে আমি নিজে চলছি না, আমাকে বয়ে নেওয়া হচ্ছে?",
+      "মানুষের বানানো কোন জিনিসগুলোকে আমি পুরোপুরি মানুষের কৃতিত্ব ভাবি, অথচ ভুলে যাই কে সেই কারিগরি শিখিয়েছেন আর উপকরণ কে সৃষ্টি করেছেন?",
+      "সফর শুরু করি কি আল্লাহর জিকির দিয়ে, নাকি শুধু সময় আর টিকিট মিলিয়ে নিয়ে?",
+      "প্রায় প্রতিবারই তো নিরাপদে পৌঁছে যাই। সেটাকে কি রহমত বলে গুনি, নাকি ধরে নিই এমনটাই হওয়ার কথা?",
+      "প্রতিটি নিরাপদ ফেরা যে নিশ্চয়তা নয়, বরং দান, এ কথা সত্যিই বিশ্বাস করলে আমার সফরের ধরন কতটা বদলে যেত?"
+    ],
+    "lessonEn": "Every vessel and mount that carries you, whether built or born, is Allah's provision; ride as one who is carried, and thank Him for each safe arrival.",
+    "lessonBn": "যে নৌযান বা বাহন আপনাকে বয়ে নেয়, মানুষের বানানো হোক বা জন্ম নেওয়া পশু, সবই আল্লাহর দেওয়া রিযক। বয়ে-নেওয়া মানুষের মতো চড়ুন, আর প্রতিটি নিরাপদ পৌঁছানোর জন্য তাঁর শোকর করুন।"
   }
 };
 
