@@ -591,6 +591,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "32:11": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Reply to Lost in Earth",
+          "bn": "মাটিতে হারানোর জবাব"
+        },
+        "p": [
+          {
+            "en": "Qul yatawaffakum malaku al-mawti alladhi wukkila bikum, thumma ila rabbikum turja'un: say, the angel of death who has been put in charge of you will take you; then to your Lord you will be returned. The verse answers a question. In 32:10 the deniers asked: when we are lost in the earth, shall we really be in a new creation? The Qur'an added that, rather, they disbelieve in the meeting with their Lord. This verse is the reply the Prophet ﷺ is told to give them.",
+            "bn": "কুল ইয়াতাওয়াফ্ফাকুম মালাকুল মাওতিল্লাযী উক্কিলা বিকুম, সুম্মা ইলা রাব্বিকুম তুরজাঊন: বলুন, তোমাদের দায়িত্বে নিযুক্ত মৃত্যুর ফেরেশতা তোমাদের প্রাণ নিয়ে যাবেন, তারপর তোমাদের রবের কাছেই তোমাদের ফিরিয়ে নেওয়া হবে। আয়াতটি একটি প্রশ্নের জবাব। ৩২:১০ আয়াতে অস্বীকারকারীরা জিজ্ঞেস করেছিল: আমরা মাটিতে মিশে হারিয়ে গেলেও কি সত্যিই নতুন করে সৃষ্টি হব? কুরআন সঙ্গে সঙ্গে জানিয়ে দিয়েছে, আসলে তারা রবের সাক্ষাৎকেই অস্বীকার করে। নবী ﷺ-কে তাদের যে উত্তর দিতে বলা হলো, এই আয়াত সেটিই।"
+          },
+          {
+            "en": "Al-Qurtubi names the link in one sentence: when Allah mentioned their finding the resurrection far-fetched, He mentioned their being taken in death, and that He brings them back. At-Tabari reads the command as: say, O Muhammad, to these who associate partners with Allah. Al-Muyassar addresses it the same way, to the Messenger, for these idolaters. Ma'arif al-Qur'an draws out the turn of the argument: the deniers are told to think of their own death, which is itself a great display of Allah's perfect power, and not something that simply happens on its own.",
+            "bn": "যোগসূত্রটা কুরতুবী এক বাক্যে বলে দেন: পুনরুত্থানকে তারা অসম্ভব ভাবছিল, সে কথা উল্লেখ করার পর আল্লাহ উল্লেখ করলেন তাদের মৃত্যুর কথা, আর এ কথাও যে তিনিই তাদের আবার ফিরিয়ে আনবেন। তাবারী আদেশটির অর্থ করেন এভাবে: হে মুহাম্মাদ, আল্লাহর সঙ্গে যারা শরীক করে, তাদের বলুন। মুয়াসসারও একইভাবে রাসূলকে সম্বোধন করে, এই মুশরিকদের উদ্দেশে। মাআরিফুল কুরআন যুক্তির মোড়টা খুলে দেখায়। অস্বীকারকারীদের বলা হচ্ছে নিজেদের মৃত্যুর কথা ভাবতে। সেই মৃত্যু নিজেই আল্লাহর পূর্ণ ক্ষমতার এক বড় প্রকাশ, আপনা আপনি ঘটে যাওয়া কোনো ব্যাপার নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Received to the Last Count",
+          "bn": "শেষ সংখ্যাটি পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains yatawaffakum as yastawfi 'adadakum: he takes your number in full by seizing your souls. To show that sense of the verb he cites a line of rajaz verse about a clan whom Quraysh do not count in full among their number. He then glosses the relative clause plainly: the angel of death who has been put in charge of seizing your souls. The word for dying, on this reading, is a word from counting, the completion of a tally.",
+            "bn": "তাবারী ইয়াতাওয়াফ্ফাকুম-এর ব্যাখ্যা দেন ইয়াসতাওফী আদাদাকুম দিয়ে: তোমাদের রূহ কবজ করে তিনি তোমাদের সংখ্যা পুরোপুরি বুঝে নেবেন। ক্রিয়াটির এই অর্থ বোঝাতে তিনি রাজায ছন্দের একটি পঙক্তি আনেন। তাতে এক গোত্রের কথা আছে, কুরাইশ যাদের নিজেদের সংখ্যার মধ্যে পুরো গোনে না। এরপর তিনি পরের অংশটি সহজ কথায় খুলে বলেন: মৃত্যুর ফেরেশতা, তোমাদের রূহ কবজের দায়িত্ব যাঁকে দেওয়া হয়েছে। এই পাঠে মৃত্যুর শব্দটা আসলে গণনার শব্দ, একটা হিসাব পূর্ণ হওয়া।"
+          },
+          {
+            "en": "Al-Qurtubi traces the same root. Yatawaffa, he says, comes from tawaffa al-'adad, to take a number or a thing in full and gather all of it. One says tawaffahu Allah, Allah took his soul in full and then seized it; and one says tawaffaytu mali min fulan, I received my money from so-and-so in full. Al-Baghawi spells out what this means for the dying: he seizes their souls until not one is left of the number on whom death has been written.",
+            "bn": "কুরতুবীও একই ধাতুর দিকে যান। তাঁর ব্যাখ্যায় ইয়াতাওয়াফ্ফা এসেছে তাওয়াফ্ফাল আদাদ থেকে, অর্থাৎ কোনো সংখ্যা বা জিনিস পুরোটা বুঝে নেওয়া, সবটা একত্র করা। আরবিতে বলা হয় তাওয়াফ্ফাহুল্লাহ: আল্লাহ তার রূহ পূর্ণভাবে বুঝে নিয়ে কবজ করলেন। আবার বলা হয় তাওয়াফ্ফাইতু মালী মিন ফুলান: অমুকের কাছ থেকে আমার পাওনা টাকা পুরোটা বুঝে পেয়েছি। মৃত্যুপথযাত্রীর বেলায় এর মানে কী, বাগাভী তা স্পষ্ট করেন। ফেরেশতা রূহ কবজ করতে থাকবেন, যতক্ষণ না মৃত্যু যাদের জন্য লেখা, সেই সংখ্যার একজনও বাকি থাকে।"
+          },
+          {
+            "en": "Read this way, the verb carries a quiet reply to 32:10. The deniers pictured themselves scattered and lost in the soil, beyond anyone's tracking. The word chosen for their death is a word of exact accounting. Nothing about them is lost to Him who counts. Each of them is received in full, by number, at the appointed moment, and what has been received in full and kept is not beyond being returned.",
+            "bn": "এভাবে পড়লে ক্রিয়াটির মধ্যেই ৩২:১০ আয়াতের এক নীরব জবাব পাওয়া যায়। অস্বীকারকারীরা ভেবেছিল, তারা মাটিতে ছড়িয়ে হারিয়ে যাবে, কেউ তাদের খোঁজ রাখতে পারবে না। অথচ তাদের মৃত্যুর জন্য বেছে নেওয়া শব্দটাই নিখুঁত হিসাবের শব্দ। যিনি গোনেন, তাঁর কাছ থেকে তাদের কিছুই হারায় না। নির্ধারিত মুহূর্তে প্রত্যেককে পুরোপুরি বুঝে নেওয়া হয়, সংখ্যা ধরে ধরে। আর যা পুরোপুরি বুঝে নিয়ে রেখে দেওয়া হয়েছে, তা ফিরিয়ে দেওয়া অসম্ভব কিছু নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Angel With Many Hands",
+          "bn": "এক ফেরেশতা, বহু সহকারী"
+        },
+        "p": [
+          {
+            "en": "Who is the angel of death? Ibn Kathir says the apparent meaning of the verse is that he is one particular individual among the angels, as also appears from the hadith of al-Bara' which he quoted under Surah Ibrahim. He adds that the angel has helpers. He then says a hadith describes how those helpers and the angel share the work of drawing out the soul, but he names no collection for it, so this article leaves its detail aside.",
+            "bn": "মৃত্যুর ফেরেশতা কে? ইবন কাসীর বলেন, আয়াতের বাহ্যিক অর্থ থেকে বোঝা যায়, তিনি ফেরেশতাদের মধ্যে নির্দিষ্ট একজন। সূরা ইবরাহীমের তাফসীরে তিনি বারা (রাঃ)-এর যে হাদীস এনেছেন, তা থেকেও এমনটাই বোঝা যায় বলে তিনি উল্লেখ করেন। সঙ্গে যোগ করেন, এই ফেরেশতার সহকারী আছেন। এরপর তিনি বলেন, এক হাদীসে আছে সহকারীরা আর ফেরেশতা কীভাবে রূহ বের করার কাজ ভাগ করে নেন। কিন্তু হাদীসটি কোন সংকলনের, তা তিনি জানান না। তাই এই লেখা তার খুঁটিনাটিতে যায় না।"
+          },
+          {
+            "en": "The helpers are named in the other commentaries too. At-Tabari reports from Qatada: the angel of death takes you, and with him are helpers from among the angels. As-Sa'di glosses wukkila bikum as: Allah made him an agent over the seizing of souls, and he has helpers. Al-Baghawi says the same and specifies them: he has helpers from the angels of mercy and the angels of punishment. The one entrusted is a single angel; the work is carried out by many.",
+            "bn": "সহকারীদের কথা অন্য তাফসীরেও আছে। তাবারী কাতাদা থেকে বর্ণনা করেন: মৃত্যুর ফেরেশতা তোমাদের প্রাণ নেবেন, আর তাঁর সঙ্গে থাকবেন ফেরেশতাদের মধ্য থেকে কিছু সহকারী। সা'দী উক্কিলা বিকুম-এর ব্যাখ্যায় বলেন, আল্লাহ তাঁকে রূহ কবজের দায়িত্বপ্রাপ্ত বানিয়েছেন, আর তাঁর সহকারী আছেন। বাগাভীও একই কথা বলেন এবং সহকারীদের পরিচয়ও দেন: রহমতের ফেরেশতা ও আযাবের ফেরেশতা। দায়িত্ব একজন ফেরেশতার, কিন্তু কাজটা সম্পন্ন হয় অনেকের হাতে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an notices the grammar. Malak al-mawt is singular here, while 16:28 speaks in the plural of those whom the angels take in death. The commentary reads this as a hint that he does not work alone, and that many angels under him take part. It adds that death has a time fixed with Allah and a standing order carried out through angels; nobody dies merely because death happens by itself.",
+            "bn": "মাআরিফুল কুরআন ব্যাকরণের দিকে নজর দেয়। এখানে মালাকুল মাওত, মৃত্যুর ফেরেশতা, একবচনে এসেছে। অথচ ১৬:২৮ আয়াতে বলা হয়েছে, ফেরেশতারা যাদের মৃত্যু ঘটায়, সেখানে শব্দটি বহুবচন। মাআরিফের মতে এতে ইঙ্গিত আছে যে তিনি একা এ কাজ করেন না, তাঁর অধীনে বহু ফেরেশতা এতে অংশ নেন। সেখানে আরও বলা হয়েছে, আল্লাহর কাছে প্রত্যেকের মৃত্যুর সময় নির্ধারিত, আর ফেরেশতাদের মাধ্যমে চলে এক স্থায়ী ব্যবস্থা। কেউ এমনি এমনি মারা যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Verses, One Taking",
+          "bn": "তিন আয়াত, এক প্রাণহরণ"
+        },
+        "p": [
+          {
+            "en": "The Qur'an speaks of the taking of the soul in several ways. Here it is the angel of death who takes. In 6:61 it is Our messengers who take him. In 8:50 the angels take those who disbelieved. And in 39:42 Allah takes the souls at the time of their death. Al-Qurtubi gathers these verses in this very place, together with 67:2, about Him who created death and life, and asks how they fit together.",
+            "bn": "রূহ নিয়ে যাওয়ার কথা কুরআন বলেছে কয়েকভাবে। এখানে প্রাণ নেন মৃত্যুর ফেরেশতা। ৬:৬১ আয়াতে বলা হয়েছে, আমার প্রেরিত ফেরেশতারা তার প্রাণ নিয়ে নেয়। ৮:৫০ আয়াতে ফেরেশতারা কাফিরদের প্রাণ নেয়। আর ৩৯:৪২ আয়াতে আল্লাহ নিজেই মৃত্যুর সময় প্রাণগুলো নিয়ে নেন। কুরতুবী ঠিক এই জায়গায় আয়াতগুলো এক করেন, সঙ্গে আনেন ৬৭:২ আয়াতও, যেখানে বলা হয়েছে তিনিই মৃত্যু ও জীবন সৃষ্টি করেছেন। তারপর প্রশ্ন তোলেন, এগুলো একসঙ্গে মেলে কীভাবে।"
+          },
+          {
+            "en": "His answer comes in a passage that follows a remark of Ibn 'Atiyya. Allah created the angel of death and created at his hands the seizing of souls, drawing them out of the bodies; and He created troops who are with him and do his work by His command. The Creator of all is the real doer of every act. Then the formula: the angel of death seizes, the helpers do the labour, and Allah takes the soul out. This, al-Qurtubi says, is how the verses and the hadiths are reconciled.",
+            "bn": "তাঁর উত্তর আসে ইবন আতিয়্যার এক মন্তব্যের পরের অংশে। আল্লাহ মৃত্যুর ফেরেশতাকে সৃষ্টি করেছেন, আর তাঁর হাতেই সৃষ্টি করেছেন রূহ কবজ করা, দেহ থেকে টেনে বের করা। তাঁর সঙ্গে আরও এক বাহিনী সৃষ্টি করেছেন, যারা আল্লাহর আদেশে তাঁর কাজই করে। সব কিছুর স্রষ্টাই প্রতিটি কাজের প্রকৃত কর্তা। এরপর আসে মূল সূত্রটি: মৃত্যুর ফেরেশতা কবজ করেন, সহকারীরা কাজে হাত লাগান, আর রূহ বের করে নেন আল্লাহ। কুরতুবী বলেন, আয়াত আর হাদীসগুলোর মধ্যে সমন্বয় এভাবেই।"
+          },
+          {
+            "en": "Why, then, is the taking credited to the angel here? Because, al-Qurtubi answers, he is charged with it, by mediation and by direct handling, just as creating is elsewhere attributed to an angel, a point he made under Surat al-Hajj. Earlier in this commentary he states the principle outright: everything the angel does is by Allah's command and by His creating. A single act is described from three heights, and none of the descriptions cancels the others.",
+            "bn": "তাহলে এখানে প্রাণহরণকে ফেরেশতার কাজ বলা হলো কেন? কুরতুবীর উত্তর: এ দায়িত্ব মৃত্যুর ফেরেশতার হাতে, মাধ্যম হিসেবেও, সরাসরি সম্পাদনকারী হিসেবেও, তাই কাজটি তাঁর নামে বলা হয়েছে। যেমন অন্য জায়গায় সৃষ্টির কাজকেও এক ফেরেশতার নামে বলা হয়েছে, সূরা হজ্জের আলোচনায় তিনি তা দেখিয়েছেন। এই তাফসীরের শুরুর দিকে তিনি মূলনীতিটাও সোজাসুজি বলে দেন: ফেরেশতা যা কিছু করেন, সবই আল্লাহর আদেশে এবং তাঁরই সৃষ্টিতে। একই কাজের বর্ণনা এসেছে তিনটি স্তর থেকে, আর কোনো বর্ণনাই অন্যটিকে বাতিল করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Title Given, Name Supplied",
+          "bn": "যে নাম আয়াতে নেই"
+        },
+        "p": [
+          {
+            "en": "The verse gives the angel a title, not a name. The commentators supply it. Al-Baghawi writes simply that he is 'Izra'il. Al-Qurtubi says his name is 'Izra'il and that it means 'Abd Allah, the servant of Allah, referring back to what he wrote under al-Baqara. Ma'arif al-Qur'an uses the name throughout its discussion. Ibn Kathir is more careful about where the name comes from: he has been named 'Izra'il in some athar, reports from early authorities, and that is the well-known name, as Qatada and others said.",
+            "bn": "আয়াতে ফেরেশতার পদবি আছে, নাম নেই। নামটা আসে তাফসীরকারদের কাছ থেকে। বাগাভী সরাসরি লেখেন, তিনি আযরাঈল। কুরতুবী বলেন, তাঁর নাম আযরাঈল, যার অর্থ আবদুল্লাহ, অর্থাৎ আল্লাহর বান্দা। এ কথা তিনি সূরা বাকারার আলোচনায় আগেই বলেছেন বলে উল্লেখ করেন। মাআরিফুল কুরআন পুরো আলোচনায় এই নামই ব্যবহার করে। ইবন কাসীর নামটির উৎস নিয়ে বেশি সাবধান। তাঁর ভাষায়, কিছু আসারে, অর্থাৎ পূর্বসূরিদের বর্ণনায়, তাঁকে আযরাঈল বলা হয়েছে। এটিই প্রসিদ্ধ নাম, কাতাদা ও আরও অনেকে তা বলেছেন।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse cites a hadith that gives the name. Ibn Kathir's word athar marks its level: the name comes down from early authorities, it is widely known and used, and it is not the point of the verse. The verse's own word for him describes his work rather than who he is: who has been put in charge of you. What it asks the listener to hold on to is the appointment, and the return that follows it.",
+            "bn": "এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিতেই নামটি কোনো হাদীস থেকে আনা হয়নি। ইবন কাসীরের আসার শব্দটিই নামটির স্তর জানিয়ে দেয়। নামটি এসেছে পূর্বসূরিদের কাছ থেকে, বহুল পরিচিত, বহুল ব্যবহৃত, তবে আয়াতের মূল কথা এটা নয়। আয়াত তাঁকে যে শব্দে চিনিয়েছে, তা তাঁর পরিচয় নয়, তাঁর কাজ: তোমাদের দায়িত্বে যাঁকে নিযুক্ত করা হয়েছে। শ্রোতাকে আয়াত যা আঁকড়ে ধরতে বলে, তা এই নিয়োগ আর তার পরের প্রত্যাবর্তন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports Around the Angel",
+          "bn": "ফেরেশতাকে ঘিরে বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "The most widely carried report here is Mujahid's saying, which at-Tabari gives through several chains: the earth was gathered up for him and made like a basin, from which he takes wherever he wishes. Ibn Kathir, al-Baghawi and al-Qurtubi relay it as Mujahid's. Ibn Kathir notes that Zuhayr ibn Muhammad relayed something similar from the Prophet ﷺ as a mursal report, with a link missing, and al-Qurtubi that the meaning was narrated as the Prophet's words; neither grades it, so it stays here as Mujahid's saying.",
+            "bn": "এখানে সবচেয়ে বেশি বর্ণিত কথাটি মুজাহিদের। তাবারী তা আনেন একাধিক সনদে: পৃথিবীকে তাঁর জন্য গুটিয়ে আনা হয়েছে, বানানো হয়েছে একটি থালার মতো, যেখান থেকে ইচ্ছামতো তিনি তুলে নেন। ইবন কাসীর, বাগাভী ও কুরতুবী সবাই এটিকে মুজাহিদের কথা হিসেবেই উদ্ধৃত করেন। ইবন কাসীর যোগ করেন, যুহাইর ইবন মুহাম্মাদ এর কাছাকাছি কথা নবী ﷺ থেকে মুরসাল সূত্রে বর্ণনা করেছেন, অর্থাৎ সনদের একটি কড়ি অনুপস্থিত। কুরতুবীও বলেন, এই অর্থ নবী ﷺ-এর বাণী হিসেবেও বর্ণিত হয়েছে। কেউই কোনো মান উল্লেখ করেননি। তাই এখানে এটি মুজাহিদের কথা হিসেবেই থাকছে।"
+          },
+          {
+            "en": "On hadith, the result is short. Ibn Kathir points to the hadith of al-Bara' ibn 'Azib, quoted in his commentary on Surah Ibrahim. Abu Dawud's narration of it (4753) was checked: it describes a burial and the questioning in the grave, does not contain the passage on the angel of death, and carries no grading from Abu Dawud. Ibn Kathir and al-Qurtubi also relay a report through Ja'far ibn Muhammad from his father, about the Prophet ﷺ at a dying Ansari man's bedside; it names no Companion and is not graded. No tafsir here attaches a sound hadith to this verse.",
+            "bn": "হাদীসের দিক থেকে ফলাফল সংক্ষিপ্ত। ইবন কাসীর বারা ইবন আযিব (রাঃ)-এর হাদীসের দিকে ইঙ্গিত করেন, যা তিনি সূরা ইবরাহীমের তাফসীরে এনেছেন। আবু দাউদের বর্ণনাটি (৪৭৫৩) মিলিয়ে দেখা হয়েছে। তাতে এক জানাযা আর কবরের প্রশ্নোত্তরের বিবরণ আছে, কিন্তু মৃত্যুর ফেরেশতার অংশটুকু নেই, আর আবু দাউদ এর কোনো মানও উল্লেখ করেননি। ইবন কাসীর ও কুরতুবী জাফর ইবন মুহাম্মাদ থেকে তাঁর পিতার সূত্রে আরেকটি বর্ণনা আনেন, এক আনসারী মুমূর্ষুর শিয়রে নবী ﷺ-এর উপস্থিতি নিয়ে। তাতে কোনো সাহাবীর নাম নেই, কোনো মানও দেওয়া হয়নি। এখানকার কোনো তাফসীর এই আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "The commentators leave one question divided: does the angel of death take the souls of animals? Ibn 'Atiyya, leaning on a narration none of these texts grades, held that animals die without his agency, humans being honoured by an angel's handling. Al-Qurtubi answers that the opposite has been narrated, and relays Malik's reply to a man asking about fleas: after lowering his head a long while, Malik asked whether they had souls, then said the angel of death takes them, citing 39:42. Ma'arif al-Qur'an sets out both sides without settling them.",
+            "bn": "একটি প্রশ্নে তাফসীরকারেরা বিভক্ত: পশুপাখির রূহও কি মৃত্যুর ফেরেশতা কবজ করেন? ইবন আতিয়্যা এমন এক বর্ণনার উপর ভর করেছেন, যার মান এই তাফসীরগুলোর কোনোটিতে নেই। তাঁর মতে পশুপাখির মৃত্যু ফেরেশতার হাত ছাড়াই ঘটে, আর মানুষের সম্মান এই যে তার রূহ কবজ করেন একজন ফেরেশতা। কুরতুবী জবাবে বলেন, এর উল্টোটাও বর্ণিত হয়েছে। তিনি ইমাম মালিকের একটি উত্তর উদ্ধৃত করেন। এক ব্যক্তি জানতে চেয়েছিল, পিসুর মতো পোকার রূহও কি মৃত্যুর ফেরেশতা কবজ করেন? মালিক অনেকক্ষণ মাথা নিচু করে রইলেন, তারপর জিজ্ঞেস করলেন, ওদের কি প্রাণ আছে? উত্তর এল, হ্যাঁ। তখন তিনি বললেন, মৃত্যুর ফেরেশতাই ওদের রূহ কবজ করেন, আর প্রমাণ হিসেবে পড়লেন ৩৯:৪২ আয়াত। মাআরিফুল কুরআন দুই মতই তুলে ধরে, কোনোটির পক্ষে রায় দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word the Jurists Weighed",
+          "bn": "ফকীহদের তুলাদণ্ডে একটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the verse a second issue, about one word. Some scholars took wukkila bikum, put in charge of you, as evidence that wakala, appointing an agent to act for another, is permitted. He quotes Ibn al-'Arabi's objection: this is drawn from the verse's wording, not from its meaning. If that method were applied consistently, one would have to call 7:158, say, O mankind, I am the Messenger of Allah to you all, a deputyship for Allah and an agency in conveying His message.",
+            "bn": "কুরতুবী আয়াতটির দ্বিতীয় একটি মাসআলা আনেন, একটিমাত্র শব্দ নিয়ে। কিছু আলেম উক্কিলা বিকুম, অর্থাৎ তোমাদের দায়িত্বে নিযুক্ত, কথাটিকে ওয়াকালার বৈধতার দলিল হিসেবে নিয়েছেন। ওয়াকালা মানে নিজের হয়ে কাজ করার জন্য অন্য কাউকে প্রতিনিধি বানানো। কুরতুবী এখানে ইবনুল আরাবীর আপত্তি উদ্ধৃত করেন: এ দলিল নেওয়া হয়েছে আয়াতের শব্দ থেকে, অর্থ থেকে নয়। এই পদ্ধতি সব জায়গায় চালালে ৭:১৫৮ আয়াতকেও, যেখানে বলা হয়েছে, হে মানুষ, আমি তোমাদের সবার প্রতি আল্লাহর রাসূল, বলতে হতো আল্লাহর পক্ষ থেকে প্রতিনিধিত্ব, তাঁর বার্তা পৌঁছানোর ওয়াকালা।"
+          },
+          {
+            "en": "The same would follow, he says, for the command to give zakat, since Allah guaranteed every creature its provision and placed the provision of the poor with the rich. Rulings attach to words only when the words serve their original purpose. The verse in 9:111, Allah has purchased from the believers their selves and their wealth, uses the language of sale, yet no one reads it as a ruling on trade. If a meaning must be drawn here, Ibn al-'Arabi allows this much: a judge may appoint someone to take a due right by force from the debtor, without his consent.",
+            "bn": "তাঁর মতে যাকাত দেওয়ার আদেশ সম্পর্কেও একই কথা বলতে হতো। কেননা আল্লাহ প্রতিটি প্রাণীর রিযকের দায়িত্ব নিয়েছেন, আর গরিবের রিযক রেখেছেন ধনীদের কাছে। শব্দের উপর বিধান তখনই বর্তায়, যখন শব্দটি তার আসল উদ্দেশ্যে ব্যবহৃত হয়। ৯:১১১ আয়াতে আছে, আল্লাহ মুমিনদের কাছ থেকে তাদের জান ও মাল কিনে নিয়েছেন। ভাষাটা বেচাকেনার, তবু কেউ একে কেনাবেচার বিধান হিসেবে পড়ে না। আয়াত থেকে কোনো অর্থ নিতেই হলে ইবনুল আরাবী এটুকু মানেন: বিচারক কাউকে নিযুক্ত করতে পারেন, যে দেনাদারের সম্মতি ছাড়াই তার কাছ থেকে প্রাপ্য হক জোর করে আদায় করবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Returned, Not Simply Ended",
+          "bn": "শেষ নয়, প্রত্যাবর্তন"
+        },
+        "p": [
+          {
+            "en": "Then to your Lord you will be returned. Ibn Kathir explains it as the day of your return and your rising from your graves for your recompense. Al-Baghawi: you come back to Him alive, and He repays you for your deeds. Al-Muyassar joins both halves of the verse: the angel seizes your souls when your terms end, and you will not be delayed by a single moment; then you are brought back to your Lord, who repays all your deeds, good with good and evil with evil.",
+            "bn": "তারপর তোমাদের রবের কাছেই তোমাদের ফিরিয়ে নেওয়া হবে। ইবন কাসীরের ব্যাখ্যায় এ হলো সেই দিন, যেদিন তোমরা ফিরবে, প্রতিদান পেতে কবর থেকে উঠে দাঁড়াবে। বাগাভী বলেন, তোমরা জীবিত অবস্থায় তাঁর কাছে পৌঁছাবে, আর তিনি তোমাদের আমলের প্রতিদান দেবেন। মুয়াসসার আয়াতের দুই অংশ একসঙ্গে বেঁধে দেয়। মেয়াদ ফুরোলে ফেরেশতা তোমাদের রূহ কবজ করবেন, এক মুহূর্তও দেরি হবে না। তারপর তোমাদের রবের কাছে ফিরিয়ে নেওয়া হবে, আর তিনি সব আমলের প্রতিদান দেবেন: ভালোর বদলে ভালো, মন্দের বদলে মন্দ।"
+          },
+          {
+            "en": "As-Sa'di turns the clause back on its first hearers: He will repay you for your deeds, and you have denied the resurrection, so look at what Allah will do with you. The next verses show it. In 32:12 the criminals hang their heads before their Lord and ask to be sent back to do good, and in 32:14 they are told to taste the punishment for having forgotten the meeting of this Day. The return named in our verse is where those scenes begin.",
+            "bn": "সা'দী বাক্যটিকে প্রথম শ্রোতাদের দিকেই ঘুরিয়ে দেন: তিনি তোমাদের আমলের প্রতিদান দেবেন, অথচ তোমরা পুনরুত্থান অস্বীকার করেছ, এবার দেখো আল্লাহ তোমাদের সঙ্গে কী করেন। পরের আয়াতগুলো তা-ই দেখায়। ৩২:১২ আয়াতে অপরাধীরা রবের সামনে মাথা নিচু করে দাঁড়িয়ে আবার পাঠিয়ে দেওয়ার মিনতি করে, যাতে ভালো কাজ করতে পারে। আর ৩২:১৪ আয়াতে তাদের বলা হয়, এই দিনের সাক্ষাৎ ভুলে থাকার শাস্তি এবার আস্বাদন করো। আমাদের আয়াতে যে প্রত্যাবর্তনের কথা, সেই দৃশ্যগুলোর শুরু সেখান থেকেই।"
+          },
+          {
+            "en": "Those verses describe what they describe, about people who denied the meeting with their Lord; they license no verdict against any living person or community. The verse addresses its reader. It began from a death nobody disputes and ended at a return many would rather not think about, with nothing in between but an angel already appointed and a Lord to whom all go back. What it leaves open is only the state in which each of us is returned.",
+            "bn": "ওই আয়াতগুলো যা বর্ণনা করে, তা-ই বর্ণনা করে, রবের সাক্ষাৎ অস্বীকারকারীদের সম্পর্কে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে রায় দেওয়ার অনুমতি এগুলো দেয় না। আয়াত সম্বোধন করে তার পাঠককেই। শুরু হয়েছিল এমন মৃত্যু দিয়ে, যা নিয়ে কারও বিতর্ক নেই। শেষ হলো এমন প্রত্যাবর্তনে, যার কথা অনেকে ভাবতেই চায় না। মাঝখানে আছেন শুধু আগে থেকে নিযুক্ত এক ফেরেশতা, আর সেই রব, যাঁর কাছে সবাই ফেরে। খোলা থাকে কেবল একটি প্রশ্ন: আমাদের প্রত্যেককে কোন অবস্থায় ফিরিয়ে নেওয়া হবে?"
+          }
+        ]
+      }
+    ]
+  },
   "32:15": {
     "sections": [
       {

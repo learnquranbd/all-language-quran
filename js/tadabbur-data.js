@@ -36293,6 +36293,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Believe and turn back to Allah while the choice is still yours; faith that waits until everything is seen comes too late to help.",
     "lessonBn": "বেছে নেওয়ার সুযোগ যতক্ষণ আপনার হাতে, ততক্ষণেই ঈমান আনুন আর আল্লাহর দিকে ফিরে আসুন। সব চোখে দেখার পর যে ঈমান আসে, তা আর কোনো কাজে আসে না।"
+  },
+  "32:11": {
+    "reflectionEn": "The deniers have just asked how they could be made anew once they are lost in the earth. The answer does not begin with the grave. It begins earlier, with the death that none of them doubts: the angel of death, put in charge of you, will take you. The verb means to take in full, so that not one of the number written for death is left over. My death is not an accident that happens to me. It is a duty carried out by one appointed to it, at a time already fixed, and it does not end me; it hands me back. Then to your Lord you will be returned. If the first half is certain, why do I treat the second as remote?",
+    "reflectionBn": "অস্বীকারকারীরা এইমাত্র প্রশ্ন তুলেছে: মাটিতে মিশে হারিয়ে গেলে আবার নতুন করে কীভাবে সৃষ্টি হব? জবাবটা কবর থেকে শুরু হয় না। শুরু হয় তার আগে, সেই মৃত্যু দিয়ে, যাতে কারও সন্দেহ নেই: তোমাদের দায়িত্বে নিযুক্ত মৃত্যুর ফেরেশতা তোমাদের প্রাণ নিয়ে যাবেন। ক্রিয়াটির অর্থ পুরোপুরি বুঝে নেওয়া, যাতে মৃত্যু যাদের জন্য লেখা, তাদের একজনও বাদ না পড়ে। আমার মৃত্যু তাই হঠাৎ ঘটে যাওয়া কোনো দুর্ঘটনা নয়। এ এক নির্ধারিত দায়িত্ব, যা পালন করেন নিযুক্ত একজন, আগে থেকে ঠিক করা সময়ে। আর তা আমাকে শেষ করে দেয় না, ফিরিয়ে দেয়। তারপর তোমাদের রবের কাছেই তোমাদের ফিরিয়ে নেওয়া হবে। প্রথম অর্ধেক যদি নিশ্চিত হয়, দ্বিতীয় অর্ধেককে আমি দূরের কথা ভাবি কেন?",
+    "pointsEn": [
+      "When I hear of a death, do I think of an illness or an accident, or of the one who was sent and the Lord who sent him?",
+      "If my number could be called today, what would I want finished before then, and what am I putting off?",
+      "Which of my doubts about the Hereafter would survive if I took my own death as seriously as I take tomorrow's plans?",
+      "Do I live as someone who is going back to his Lord, or as someone who expects simply to stop?",
+      "What would change in how I spend this evening if I believed that my term is already written and will not be put back by a moment?"
+    ],
+    "pointsBn": [
+      "কারও মৃত্যুর খবর পেলে আমি কি শুধু রোগ বা দুর্ঘটনার কথা ভাবি, নাকি ভাবি তাঁর কথা, যাঁকে পাঠানো হয়েছিল, আর সেই রবের কথা, যিনি পাঠিয়েছেন?",
+      "আজই যদি আমার ডাক আসে, তার আগে কী শেষ করে যেতে চাইতাম? আর কোনটা আমি এখনো ফেলে রাখছি?",
+      "আগামীকালের পরিকল্পনাকে যতটা গুরুত্ব দিই, নিজের মৃত্যুকে ততটা দিলে আখিরাত নিয়ে আমার কোন সন্দেহগুলো টিকে থাকত?",
+      "আমি কি এমনভাবে বাঁচি যেন রবের কাছে ফিরে যাচ্ছি, নাকি যেন একদিন সব কিছু থেমে যাবে, এতটুকুই?",
+      "আমার মেয়াদ আগেই লেখা হয়ে গেছে, এক মুহূর্তও পেছানো হবে না, এ কথা সত্যিই বিশ্বাস করলে আজকের সন্ধ্যাটা কি আমি অন্যভাবে কাটাতাম?"
+    ],
+    "lessonEn": "Your death is a duty already assigned and a return, not an ending; let the certainty of the first half make the second half near to you.",
+    "lessonBn": "আপনার মৃত্যু আগে থেকে নির্ধারিত এক দায়িত্ব আর রবের কাছে ফিরে যাওয়া, শেষ হয়ে যাওয়া নয়। প্রথম অংশের নিশ্চয়তা দ্বিতীয় অংশকে আপনার কাছে নিকট করে তুলুক।"
   }
 };
 
