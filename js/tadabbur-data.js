@@ -34639,6 +34639,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hearing is a mercy that can be taken away. Listen to the warning now, while it can still change you, and lean on nothing that could not save itself.",
     "lessonBn": "শুনতে পাওয়া এমন এক নিয়ামত, যা কেড়ে নেওয়া যায়। সতর্কবাণী এখনই শুনুন, যখন তা আপনাকে বদলাতে পারে, আর এমন কিছুর উপর ভর দেবেন না যে নিজেকেই বাঁচাতে পারে না।"
+  },
+  "21:84": {
+    "reflectionEn": "He had asked for nothing by name. His call in the verse before said only that harm had touched him, and that his Lord is the most merciful of all who show mercy. The reply comes in a run of verbs: We answered, We removed, We gave. Health came back, his family with it, and as many again beside them. Then the verse says why the story is told: a mercy from Us, and a reminder for those who worship. A reminder of what? That a long trial is no sign of being forgotten or held cheap, and that the door he knocked on with so few words was open all along. When harm touches me, where do I take it first?",
+    "reflectionBn": "তিনি নাম ধরে কিছুই চাননি। আগের আয়াতে তাঁর ডাক ছিল এটুকুই: কষ্ট আমাকে ছুঁয়েছে, আর তুমি দয়ালুদের মধ্যে সবচেয়ে বড় দয়ালু। জবাব এল পরপর কয়েকটি ক্রিয়ায়: আমি সাড়া দিলাম, দূর করলাম, দিলাম। সুস্থতা ফিরে এল, তার সঙ্গে পরিবার, আর তাদের পাশে তাদের সমান আরও। তারপর আয়াত নিজেই বলে দেয় কাহিনিটা কেন শোনানো হলো: আমার পক্ষ থেকে রহমত, আর যারা ইবাদত করে তাদের জন্য স্মরণ। কিসের স্মরণ? দীর্ঘ পরীক্ষা মানে এই নয় যে আল্লাহ ভুলে গেছেন বা বান্দাকে তুচ্ছ ভেবেছেন। আর যে দরজায় তিনি এত অল্প কথায় কড়া নেড়েছিলেন, সেটা আগাগোড়া খোলাই ছিল। কষ্ট যখন আমাকে ছোঁয়, আমি প্রথমে তা নিয়ে কোথায় যাই?",
+    "pointsEn": [
+      "When harm touches me, do I bring it to Allah in a few honest words, or spend my words complaining about it to people?",
+      "Have I ever read a long trial in my life as proof that Allah has forgotten me or holds me cheap?",
+      "If what I have lost were returned tomorrow, would my first response be gratitude, or a quick return to heedlessness?",
+      "Who around me is being tested right now, and what would it mean for me to stand by them faithfully until it lifts?",
+      "Which blessing do I treat as already enough, so that I no longer ask Allah to bless me in it?"
+    ],
+    "pointsBn": [
+      "কষ্ট যখন আমাকে ছোঁয়, আমি কি অল্প কয়েকটি সৎ কথায় তা আল্লাহর কাছে তুলে ধরি, নাকি মানুষের কাছে নালিশ করেই সব কথা শেষ করে ফেলি?",
+      "জীবনের কোনো দীর্ঘ পরীক্ষাকে কি কখনো এর প্রমাণ ভেবেছি যে আল্লাহ আমাকে ভুলে গেছেন বা তুচ্ছ মনে করেন?",
+      "যা হারিয়েছি তা যদি কাল ফিরে পাই, আমার প্রথম সাড়া কি হবে শুকরিয়া, নাকি দ্রুত আবার গাফিলতিতে ফিরে যাওয়া?",
+      "আমার আশপাশে কে এখন পরীক্ষার ভেতর দিয়ে যাচ্ছে? কষ্ট কেটে যাওয়া পর্যন্ত বিশ্বস্তভাবে তার পাশে থাকা আমার জন্য কী অর্থ বহন করে?",
+      "কোন নিয়ামতকে আমি এরই মধ্যে যথেষ্ট ধরে নিয়েছি, ফলে তাতে বরকতের জন্য আল্লাহর কাছে আর চাই না?"
+    ],
+    "lessonEn": "A long trial is no sign that Allah has forgotten you. Call on Him simply, trust His mercy, and let His answer, whenever it comes, deepen your worship.",
+    "lessonBn": "দীর্ঘ পরীক্ষা এই প্রমাণ নয় যে আল্লাহ আপনাকে ভুলে গেছেন। সহজ কথায় তাঁকে ডাকুন, তাঁর রহমতে ভরসা রাখুন, আর তাঁর জবাব যখনই আসুক, তা যেন আপনার ইবাদতকে আরও গভীর করে।"
   }
 };
 

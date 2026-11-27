@@ -4095,6 +4095,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:84": {
+    "sections": [
+      {
+        "h": {
+          "en": "Harm Had Touched Him",
+          "bn": "কষ্ট যখন তাঁকে ছুঁয়েছিল"
+        },
+        "p": [
+          {
+            "en": "Fa-stajabna lahu: so We answered him. The verse is the second half of a pair. In 21:83 Ayyub (AS) calls to his Lord with two statements and no request: harm has touched me, and You are the most merciful of those who show mercy. He names his state and he names his Lord. This verse is the reply, spoken by Allah in the plural of majesty, and it moves in a chain of verbs: We answered him, We removed the harm that was on him, and We gave him his family.",
+            "bn": "ফাসতাজাবনা লাহু: তখন আমি তার ডাকে সাড়া দিলাম। আয়াতটি একজোড়া আয়াতের দ্বিতীয় অংশ। ২১:৮৩ আয়াতে আইয়ুব (আঃ) রবকে ডাকেন দুটি কথা বলে, কোনো আবদার ছাড়াই: কষ্ট আমাকে ছুঁয়েছে, আর তুমি দয়ালুদের মধ্যে সবচেয়ে বড় দয়ালু। তিনি নিজের অবস্থার কথা বলেন, আর বলেন রবের পরিচয়। এ আয়াত সেই ডাকের জবাব। আল্লাহ কথা বলছেন মর্যাদার বহুবচনে, আর জবাব এগোয় পরপর কয়েকটি ক্রিয়ায়: আমি সাড়া দিলাম, তার কষ্ট দূর করলাম, তাকে তার পরিবার দিলাম।"
+          },
+          {
+            "en": "The same opening, fa-stajabna lahu, comes twice more within a few verses, for Dhun-Nun in 21:88 and for Zakariyya (AS) in 21:90, so the passage reads as a run of calls, each met by its answer. Here the answer fills sixteen Arabic words. The harm is lifted, the family is given, the like of them is given with them, and the whole is then named twice over: as a mercy from Us, and as a reminder for those who worship. The rest of this article follows those clauses in order.",
+            "bn": "ফাসতাজাবনা লাহু কথাটি কয়েক আয়াতের ভেতরে আরও দুবার আসে: ২১:৮৮ আয়াতে যুন-নূনের জন্য, আর ২১:৯০ আয়াতে যাকারিয়া (আঃ)-এর জন্য। পুরো অংশটা তাই পড়তে লাগে একের পর এক ডাকের মতো, আর প্রতিটি ডাকের পরেই তার জবাব। এখানে জবাবটি ষোলোটি আরবি শব্দ জুড়ে। কষ্ট সরে যায়, পরিবার ফিরে আসে, তাদের সঙ্গে আসে তাদের মতো আরও। তারপর পুরো ঘটনার দুটি নাম দেওয়া হয়: আমার পক্ষ থেকে রহমত, আর যারা ইবাদত করে তাদের জন্য স্মরণ। এ লেখা সেই অংশগুলো ধরে ধরেই এগোবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Water From a Struck Ground",
+          "bn": "পায়ের আঘাতে জেগে ওঠা পানি"
+        },
+        "p": [
+          {
+            "en": "The verse says only fa-kashafna ma bihi min durr: We removed what harm was on him. It does not say how. As-Sa'di fills the gap from Surah Sad: Allah told him, strike with your foot; this is a cool place for washing, and a drink (38:42). He struck the ground, a cool spring came out, he washed in it and drank, and Allah took away the harm that was on him. The Muyassar stays within the verse: We answered his supplication and lifted the trial from him.",
+            "bn": "আয়াত শুধু বলে, ফাকাশাফনা মা বিহী মিন দুর্র: তার যে কষ্ট ছিল, আমি তা দূর করে দিলাম। কীভাবে, সে কথা বলে না। সা'দী এই ফাঁকটা পূরণ করেন সূরা সোয়াদ থেকে। আল্লাহ তাঁকে বললেন: তোমার পা দিয়ে আঘাত করো, এই তো গোসলের ঠান্ডা পানি, আর পান করার পানি (৩৮:৪২)। তিনি মাটিতে পা ঠুকলেন, ঠান্ডা পানির এক ঝরনা বেরিয়ে এল। তিনি তাতে গোসল করলেন, পান করলেন, আর আল্লাহ তাঁর কষ্ট দূর করে দিলেন। মুয়াসসার আয়াতের সীমার ভেতরেই থাকে: আমি তার দোয়া কবুল করলাম আর তার উপর থেকে পরীক্ষা তুলে নিলাম।"
+          },
+          {
+            "en": "Al-Baghawi divides the healing in two. From a first spring Ayyub (AS) washed, and every illness on the outside of his body left him. He walked forty paces and struck the ground again; from a second, cool spring he drank, and every illness within him left, until he was as sound and handsome as any man. At-Tabari carries a report from al-Hasan with the same two springs, adding that his youth and beauty returned. These are reports from the Successors and later, not hadith; the firm ground is the Qur'an's own account in 38:41 to 38:44.",
+            "bn": "বাগাভী আরোগ্যকে দুই ভাগে দেখান। প্রথম ঝরনায় আইয়ুব (আঃ) গোসল করলেন, আর শরীরের বাইরের সব রোগ চলে গেল। তিনি চল্লিশ কদম হেঁটে আবার মাটিতে পা ঠুকলেন। দ্বিতীয় ঝরনার ঠান্ডা পানি তিনি পান করলেন, আর ভেতরের সব রোগও সেরে গেল। শেষে তিনি হয়ে উঠলেন সবচেয়ে সুস্থ ও সুদর্শন মানুষদের মতো। তাবারী হাসানের সূত্রে একই দুই ঝরনার বর্ণনা আনেন, সঙ্গে যোগ করেন যে তাঁর যৌবন ও সৌন্দর্য ফিরে এসেছিল। এগুলো তাবিঈ ও পরবর্তীদের বর্ণনা, হাদীস নয়। নিশ্চিত ভিত্তি হলো কুরআনের নিজের বর্ণনা, ৩৮:৪১ থেকে ৩৮:৪৪ আয়াত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Call, Not a Grievance",
+          "bn": "ডাক, নালিশ নয়"
+        },
+        "p": [
+          {
+            "en": "The commentaries carry long accounts of the illness itself: how long it lasted, what it did to his body, where he was left. Al-Qurtubi lists reports of its length that disagree with one another, and the Qur'an gives no length at all. Ma'arif al-Qur'an opens its treatment with a warning: the story of Ayyub (AS) rests mostly on Jewish legends, and the Qur'an tells us only that he suffered a serious illness and bore it with fortitude. This article keeps that restraint and describes nothing of his body that the Qur'an does not.",
+            "bn": "তাফসীরগুলোতে রোগটির লম্বা লম্বা বর্ণনা আছে: কতদিন চলেছিল, শরীরে কী করেছিল, তাঁকে কোথায় রেখে আসা হয়েছিল। কুরতুবী এর মেয়াদ নিয়ে কয়েকটি বর্ণনা তুলে দেন, যেগুলো একটি আরেকটির সঙ্গে মেলে না। কুরআন কোনো মেয়াদই বলে না। মাআরিফুল কুরআন আলোচনার শুরুতেই সতর্ক করে দেয়: আইয়ুব (আঃ)-এর কাহিনির বেশির ভাগ এসেছে ইহুদি লোককথা থেকে। কুরআন শুধু এটুকু জানায় যে তিনি কঠিন রোগে ভুগেছিলেন আর দৃঢ়তার সঙ্গে তা সয়েছিলেন। এ লেখাও সেই সংযম ধরে রাখে। তাঁর শরীরের এমন কোনো বর্ণনা এখানে নেই, যা কুরআনে নেই।"
+          },
+          {
+            "en": "Was his call a complaint? Ma'arif al-Qur'an says it was not: asking Allah for relief does not mean an absence of patience, and his words were a prayer with no sense of grievance. Allah set the seal on his endurance: inna wajadnahu sabiran, We found him patient (38:44). At-Tabari relays from Ibn Abbas (RA), through al-Awfi's chain, that he kept remembering Allah much, and the trial only increased him in longing for Allah and in sound faith. His words in 21:83 describe his state and name his Lord's mercy. They blame no one.",
+            "bn": "তাঁর ডাক কি নালিশ ছিল? মাআরিফুল কুরআন বলে: না। কষ্ট থেকে মুক্তির জন্য আল্লাহর কাছে চাওয়া মানে ধৈর্যের অভাব নয়। তাঁর কথাগুলো ছিল দোয়া, তাতে অভিযোগের কোনো সুর ছিল না। আল্লাহ নিজেই তাঁর সহনশীলতার উপর সিলমোহর দিয়েছেন: ইন্না ওয়াজাদনাহু সাবিরা, আমি তাকে ধৈর্যশীল পেয়েছি (৩৮:৪৪)। তাবারী আওফীর সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন: তিনি বেশি বেশি আল্লাহর জিকির করতেন, আর পরীক্ষা তাঁর মধ্যে আল্লাহর প্রতি আকাঙ্ক্ষা ও ঈমানের সৌন্দর্যই শুধু বাড়িয়েছে। ২১:৮৩ আয়াতে তাঁর কথা নিজের অবস্থা জানায়, আর রবের রহমতের কথা বলে। কারও উপর দোষ চাপায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Returned in Their Own Persons",
+          "bn": "সেই মানুষগুলোই ফিরে এলেন"
+        },
+        "p": [
+          {
+            "en": "Wa-ataynahu ahlahu wa-mithlahum ma'ahum: and We gave him his family, and the like of them with them. At-Tabari states the question: was this family given to Ayyub (AS) in this world, or is it a promise kept for the hereafter? The first answer is that the same family came back. Ibn Mas'ud (RA), through ad-Dahhak, says it in two words: ahluhu bi-a'yanihim, his family in their own persons. Ibn Abbas (RA), through al-Awfi, says Allah replaced all he had lost twice over, returning his family and their like with them.",
+            "bn": "ওয়া আতাইনাহু আহলাহু ওয়া মিসলাহুম মাআহুম: আর আমি তাকে দিলাম তার পরিবার, আর তাদের সঙ্গে তাদের মতো আরও। তাবারী প্রশ্নটা স্পষ্ট করে তোলেন: এই পরিবার কি আইয়ুব (আঃ)-কে দুনিয়াতেই দেওয়া হয়েছিল, নাকি এটি আখিরাতের জন্য রাখা এক প্রতিশ্রুতি? প্রথম উত্তর: সেই পরিবারই ফিরে এসেছিল। দাহহাকের সূত্রে ইবন মাসউদ (রাঃ) দুই শব্দে বলেন: আহলুহু বি-আ'ইয়ানিহিম, তাঁর পরিবার, সেই মানুষগুলোই। আওফীর সূত্রে ইবন আব্বাস (রাঃ) বলেন, যা কিছু তিনি হারিয়েছিলেন, আল্লাহ তার দ্বিগুণ ফিরিয়ে দিলেন, পরিবারকে ফেরালেন, আর সঙ্গে দিলেন তাদের মতো আরও।"
+          },
+          {
+            "en": "Al-Hasan and Qatadah, in at-Tabari, say Allah brought his family back to life in person and added as many again. Al-Baghawi names Ibn Mas'ud, Qatadah, Ibn Abbas, al-Hasan and most commentators for this view and calls it the apparent sense of the Qur'an. Al-Qurtubi, through ad-Dahhak from Ibn Mas'ud, has all but his wife dead and then revived, and quotes ath-Tha'labi that this is closer to the wording. They died before their terms as a trial, he explains, like those who fled their homes in 2:243 and the seventy struck down in 2:55 and 2:56.",
+            "bn": "তাবারীর বর্ণনায় হাসান ও কাতাদা বলেন, আল্লাহ তাঁর পরিবারকে সেই মানুষগুলোসহই আবার জীবিত করলেন, আর সমান সংখ্যায় আরও যোগ করলেন। বাগাভী এই মতের পক্ষে ইবন মাসউদ, কাতাদা, ইবন আব্বাস, হাসান ও বেশির ভাগ মুফাসসিরের নাম আনেন, আর বলেন এটিই কুরআনের বাহ্যিক অর্থ। কুরতুবী দাহহাকের সূত্রে ইবন মাসউদ থেকে আনেন: স্ত্রী ছাড়া পরিবারের সবাই মারা গিয়েছিল, পরে আল্লাহ তাদের জীবিত করেন। সা'লাবীর কথাও তিনি তুলে দেন: এই মত শব্দের বেশি কাছাকাছি। কুরতুবীর ব্যাখ্যা, পরীক্ষা হিসেবে তারা নির্ধারিত সময়ের আগেই মারা গিয়েছিল, যেমন ২:২৪৩ আয়াতে ঘর ছেড়ে পালানো লোকেরা, আর ২:৫৫ ও ২:৫৬ আয়াতে বজ্রে আক্রান্ত সেই সত্তরজন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Or Kept for the Hereafter",
+          "bn": "নাকি আখিরাতে জমা রইল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's second answer is that those who died were not returned in this world: Ayyub (AS) was given their like here, and the family itself was promised him in the hereafter. Mujahid, he relates, sent a man named Qasim to ask Ikrimah. Ikrimah replied: it was said to him, your family is yours in the hereafter; if you wish We hasten them to you here, or they stay yours there and We give you their like here. He chose the hereafter. Told of the answer, Mujahid said: he got it right.",
+            "bn": "তাবারীর দ্বিতীয় উত্তর: যারা মারা গিয়েছিল, দুনিয়াতে তাদের ফিরিয়ে দেওয়া হয়নি। আইয়ুব (আঃ)-কে এখানে দেওয়া হয়েছিল তাদের মতো অন্যদের, আর সেই পরিবারকে তাঁর জন্য রাখা হয়েছিল আখিরাতের প্রতিশ্রুতিতে। তাবারী বর্ণনা করেন, মুজাহিদ কাসিম নামের এক লোককে ইকরিমার কাছে পাঠালেন। ইকরিমা বললেন, তাঁকে বলা হয়েছিল: তোমার পরিবার আখিরাতে তোমারই থাকবে। চাইলে আমি দুনিয়াতেই তাদের এগিয়ে এনে দিই, নয়তো তারা সেখানে তোমার থাকুক, আর এখানে আমি তোমাকে তাদের মতো আরও দিই। তিনি আখিরাতকেই বেছে নিলেন। উত্তর শুনে মুজাহিদ বললেন: ঠিক বলেছেন।"
+          },
+          {
+            "en": "Mujahid is reported both ways. At-Tabari carries from him, through Layth, the same choice; through Ibn Jurayj, quoting the parallel wording of 38:43, that Allah revived them in person. Ibn Kathir counts him with the first view, then quotes his account of the choice. Al-Qurtubi gives the choice from Mujahid and Ikrimah, notes that al-Mahdawi relates it from Ibn Abbas, and draws the meaning: his family in the hereafter, their like in this world. Ibn Kathir adds Nawf al-Bikali: their reward in the hereafter, their like here. Told of it, Mutarrif said: I did not know its sense until today.",
+            "bn": "মুজাহিদ থেকে দুই রকম বর্ণনাই আছে। তাবারী লাইসের সূত্রে তাঁর কাছ থেকে একই বাছাইয়ের কথা আনেন। আবার ইবন জুরাইজের সূত্রে, ৩৮:৪৩ আয়াতের সমান্তরাল শব্দ উদ্ধৃত করে, আনেন যে আল্লাহ সেই মানুষগুলোকেই জীবিত করেছিলেন। ইবন কাসীর তাঁকে প্রথম মতের লোকদের মধ্যে গোনেন, তারপর বাছাইয়ের বর্ণনাটিও তাঁর কাছ থেকে উদ্ধৃত করেন। কুরতুবী বাছাইয়ের কথা আনেন মুজাহিদ ও ইকরিমা থেকে, জানান যে মাহদাবী এটি ইবন আব্বাস থেকে বর্ণনা করেছেন, আর অর্থ দাঁড় করান: পরিবার আখিরাতে, তাদের মতো আরও দুনিয়াতে। ইবন কাসীর নাওফ বিকালীর কথা যোগ করেন: তাদের প্রতিদান আখিরাতে, তাদের মতো আরও এখানে। এ কথা শুনে মুতাররিফ বলেছিলেন: আজকের আগে এর অর্থ আমি বুঝিনি।"
+          },
+          {
+            "en": "A third reading, from al-Hasan in at-Tabari, takes wa-mithlahum to mean from their offspring; al-Baghawi phrases it as the like from the increase of what was restored to him, and Ma'arif al-Qur'an mentions grandchildren. Ibn Abbas and Qatadah, like Mujahid, are named on more than one side. At-Tabari sets out the views and, in the text consulted, names no preference; al-Baghawi and ath-Tha'labi lean to the first. The disagreement stays open here. Every reading agrees on one thing: nothing he lost was lost to him for good.",
+            "bn": "তৃতীয় একটি ব্যাখ্যা আছে তাবারীতে, হাসানের কাছ থেকে: ওয়া মিসলাহুম মানে তাদের বংশধরদের মধ্য থেকে। বাগাভী কথাটা বলেন এভাবে: যা তাঁকে ফিরিয়ে দেওয়া হয়েছিল, তার বংশবৃদ্ধি থেকেই এই সমান আরও। মাআরিফুল কুরআন নাতি-নাতনিদের কথা বলে। মুজাহিদের মতো ইবন আব্বাস ও কাতাদার নামও একাধিক মতের পক্ষে পাওয়া যায়। তাবারী মতগুলো সাজিয়ে দেন, তবে যে পাঠ দেখা হয়েছে তাতে কোনোটিকে প্রাধান্য দেন না। বাগাভী ও সা'লাবী প্রথম মতের দিকে ঝোঁকেন। মতভেদটা এখানে খোলাই থাকছে। তবে একটি কথায় সব ব্যাখ্যাই একমত: তিনি যা হারিয়েছিলেন, তার কিছুই চিরতরে হারায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Mercy, Not a Name",
+          "bn": "রহমত, কারও নাম নয়"
+        },
+        "p": [
+          {
+            "en": "Rahmatan min 'indina: a mercy from Us. At-Tabari explains the case ending: rahmatan is accusative, meaning We did that for him as a mercy from Us. Ibn Kathir glosses it alike, and al-Baghawi reads rahma here as ni'ma, a blessing. Ibn Kathir also uses the word to correct a claim that the name of Ayyub's wife was Rahma. If that was taken from the verse's wording, he says, they went far afield for it; if from the People of the Book, and sound from them, it is neither believed nor denied.",
+            "bn": "রাহমাতাম মিন ইনদিনা: আমার পক্ষ থেকে রহমত। তাবারী শব্দটির শেষের স্বরচিহ্ন ব্যাখ্যা করেন: রাহমাতান এখানে নসবের অবস্থায়, অর্থ দাঁড়ায়, আমার পক্ষ থেকে রহমত হিসেবে আমি তার জন্য এসব করলাম। ইবন কাসীরও একই অর্থ করেন, আর বাগাভী রহমতকে পড়েন নিয়ামত অর্থে। ইবন কাসীর শব্দটি দিয়ে একটি দাবিও শুধরে দেন: আইয়ুবের স্ত্রীর নাম নাকি ছিল রহমত। তিনি বলেন, এ কথা আয়াতের শব্দ থেকে নেওয়া হলে তারা অনেক দূর গিয়ে খুঁজেছে। আর আহলে কিতাবের কাছ থেকে নেওয়া হলে, এবং তাদের কাছ থেকে ঠিকমতো এসে থাকলে, তা বিশ্বাসও করা হয় না, অস্বীকারও করা হয় না।"
+          },
+          {
+            "en": "Where does the mercy lie? As-Sa'di places it in the relief: because he was patient and content, Allah rewarded him in this life, ahead of the reward of the hereafter. Al-Qurtubi records another reading under the words it is said: We tried him so that his reward tomorrow would be greater. On that reading the trial itself belongs to the mercy, not only its ending. The two readings do not cancel each other. Min 'indina, from Our own presence, marks the mercy as Allah's own giving, whichever reading is taken.",
+            "bn": "রহমতটা কোথায়? সা'দী তা দেখেন মুক্তির মধ্যে। তিনি ধৈর্য ধরেছিলেন আর সন্তুষ্ট ছিলেন, তাই আখিরাতের প্রতিদানের আগেই আল্লাহ দুনিয়াতে তাঁকে এক প্রতিদান দিলেন। কুরতুবী 'বলা হয়' কথাটি দিয়ে আরেকটি ব্যাখ্যা আনেন: আমি তাকে পরীক্ষায় ফেলেছিলাম, যাতে আগামীতে তার প্রতিদান আরও বড় হয়। এই ব্যাখ্যায় শুধু পরীক্ষার শেষটা নয়, পরীক্ষাটাও রহমতের অংশ। দুটি ব্যাখ্যা একটি আরেকটিকে বাতিল করে না। মিন ইনদিনা, আমার নিজের পক্ষ থেকে: যে ব্যাখ্যাই নেওয়া হোক, কথাটি রহমতকে আল্লাহর নিজের দান হিসেবে চিহ্নিত করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Sign of Contempt",
+          "bn": "অবহেলার লক্ষণ নয়"
+        },
+        "p": [
+          {
+            "en": "Wa-dhikra lil-'abidin: and a reminder for those who worship. Ibn Kathir reads it as a guard against one thought: We made him an example so that people under trial do not think We did this to them because they count for little with Us, and so that they take him as their model in patience. At-Tabari says Allah may test His friends and those He loves in their persons, families and wealth, not out of contempt but as a test, so that by patience, hope of reward and firm certainty they reach the honour prepared for them.",
+            "bn": "ওয়া যিকরা লিল-আবিদীন: আর ইবাদতকারীদের জন্য স্মরণ। ইবন কাসীর কথাটিকে পড়েন একটি ভাবনার বিরুদ্ধে পাহারা হিসেবে: আমি তাকে দৃষ্টান্ত বানালাম, যাতে পরীক্ষায় পড়া মানুষ এমন না ভাবে যে তারা আমার কাছে তুচ্ছ বলেই তাদের সঙ্গে এমন করা হয়েছে, আর যাতে ধৈর্যের বেলায় তারা তাঁকেই আদর্শ বানায়। তাবারী বলেন, আল্লাহ তাঁর বন্ধুদের, আর যাদের তিনি ভালোবাসেন তাদেরও, জান, পরিবার ও সম্পদে পরীক্ষায় ফেলতে পারেন। সেটা অবহেলা থেকে নয়, পরীক্ষা হিসেবে, যাতে ধৈর্য, সওয়াবের আশা আর দৃঢ় ইয়াকীনের মধ্য দিয়ে তারা তাদের জন্য তৈরি রাখা সম্মানের স্তরে পৌঁছায়।"
+          },
+          {
+            "en": "As-Sa'di describes how the reminder works: the worshippers look at the trial, then at what came after it, and find that the cause was patience, which is why Allah praised him in 38:44. Al-Qurtubi notes that Ayyub (AS) was the best of his time, so worshippers who recall his trial steel themselves for this world's hardships. Muhammad ibn Ka'b al-Qurazi, in at-Tabari, speaks on this verse and on 38:43: any believer struck by a trial should recall Ayyub and say, one better than us was struck, a prophet among the prophets.",
+            "bn": "স্মরণটা কীভাবে কাজ করে, সা'দী তা বলেন। ইবাদতকারীরা পরীক্ষাটার দিকে তাকায়, তারপর তার পরে যা এল সেদিকে, আর দেখে কারণটা ছিল ধৈর্য। এজন্যই ৩৮:৪৪ আয়াতে আল্লাহ তাঁর প্রশংসা করেছেন। কুরতুবী মনে করিয়ে দেন, আইয়ুব (আঃ) ছিলেন তাঁর যুগের শ্রেষ্ঠ মানুষ। তাই তাঁর পরীক্ষার কথা মনে করে ইবাদতকারীরা দুনিয়ার কষ্ট সইবার জন্য মন শক্ত করে নেয়। তাবারীতে মুহাম্মাদ ইবন কা'ব কুরাযী এই আয়াত আর ৩৮:৪৩ নিয়ে বলেন: কোনো মুমিন পরীক্ষায় পড়লে আইয়ুবের কথা মনে করুক, আর বলুক, আমাদের চেয়ে উত্তম একজনের উপরও এসেছিল, নবীদের মধ্যে একজন নবীর উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Locusts of Gold",
+          "bn": "সোনার পঙ্গপাল"
+        },
+        "p": [
+          {
+            "en": "No commentary consulted gives this verse an occasion of revelation or a sound hadith. Al-Baghawi brings under it, by his own chain, a narration of Abu Hurayrah (RA) that al-Bukhari records in his Sahih, no. 279, in the book of bathing. In al-Bukhari's wording the Prophet ﷺ said: \"When the Prophet Job (Aiyub) was taking a bath naked, golden locusts began to fall on him. Job started collecting them in his clothes. His Lord addressed him, 'O Job! Haven't I given you enough so that you are not in need of them.' Job replied, 'Yes!' By Your Honor (power)! But I cannot dispense with Your Blessings.'\"",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিতে এই আয়াতের শানে নুযূল নেই, আর কেউই এর শব্দের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেননি। তবে বাগাভী এই আয়াতের নিচে নিজের সনদে আবু হুরায়রা (রাঃ)-এর একটি বর্ণনা আনেন। বুখারী তাঁর সহীহ গ্রন্থে গোসলের অধ্যায়ে এটি এনেছেন, নং ২৭৯। বুখারীর শব্দে নবী ﷺ বলেছেন: \"আইয়ুব (আঃ) একবার বিবস্ত্র হয়ে গোসল করছিলেন, এমন সময় তাঁর উপর সোনার পঙ্গপাল ঝরে পড়তে লাগল। আইয়ুব সেগুলো কাপড়ে তুলে নিতে লাগলেন। তাঁর রব তাঁকে ডেকে বললেন: হে আইয়ুব, তুমি যা দেখছ, তা থেকে আমি কি তোমাকে অভাবমুক্ত করে দিইনি? তিনি বললেন: অবশ্যই, তোমার ইজ্জতের কসম! কিন্তু তোমার বরকত থেকে আমি অমুখাপেক্ষী নই।\""
+          },
+          {
+            "en": "The narration does not say when this happened, nor tie it to the healing; al-Baghawi makes that link by placing it here. Its point is in the reply. Ayyub (AS) does not deny that he has been given enough; he calls what is falling baraka, blessing, and says no servant can do without it. Ibn Kathir, in the abridged English edition, relays another wording of this report from Ibn Abi Hatim; it is noted here and not quoted. Al-Bukhari's text is enough: the man who had been tried did not, once relieved, stop needing his Lord.",
+            "bn": "ঘটনাটা কখন ঘটেছিল, বর্ণনায় তা বলা নেই, আরোগ্যের সঙ্গেও তা জোড়া হয়নি। বাগাভী এখানে এনে সেই যোগটা করেছেন। বর্ণনার মূল কথা জবাবটিতে। আইয়ুব (আঃ) অস্বীকার করেন না যে তাঁকে যথেষ্ট দেওয়া হয়েছে। যা ঝরে পড়ছে, তাকে তিনি বলেন বরকত, আর বলেন, এ থেকে কোনো বান্দা অমুখাপেক্ষী হতে পারে না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে ইবন আবী হাতিমের সূত্রে এই বর্ণনার আরেকটি শব্দরূপ আছে। এখানে শুধু তার উল্লেখ রইল, উদ্ধৃতি নয়। বুখারীর পাঠই যথেষ্ট: যিনি পরীক্ষার ভেতর দিয়ে গিয়েছিলেন, মুক্তি পাওয়ার পরও রবের প্রতি তাঁর মুখাপেক্ষিতা ফুরোয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Carrying the Reminder Home",
+          "bn": "স্মরণটুকু সঙ্গে নিয়ে"
+        },
+        "p": [
+          {
+            "en": "The verse names its own purpose: a reminder for those who worship. Three things in it travel into any trial. First, the shape of the call: a plain account of his state and the naming of Allah's mercy, with no grievance against Him. Second, the reading of hardship that Ibn Kathir and at-Tabari both reject, that it means the servant is cheap in Allah's sight. Third, the answer itself: whether the family came back in this world or was kept for the next, nothing was lost with Allah.",
+            "bn": "আয়াত নিজেই নিজের উদ্দেশ্য বলে দেয়: ইবাদতকারীদের জন্য স্মরণ। যেকোনো পরীক্ষায় এ থেকে তিনটি জিনিস সঙ্গে নেওয়া যায়। প্রথমটি ডাকের ধরন: নিজের অবস্থার সোজা বর্ণনা, আর আল্লাহর রহমতের কথা বলা, তাঁর বিরুদ্ধে কোনো নালিশ ছাড়া। দ্বিতীয়টি কষ্টের সেই ব্যাখ্যা, যা ইবন কাসীর ও তাবারী দুজনেই নাকচ করেন: কষ্ট মানে বান্দা আল্লাহর কাছে তুচ্ছ। তৃতীয়টি জবাব নিজেই। পরিবার দুনিয়াতেই ফিরে আসুক বা আখিরাতের জন্য জমা থাকুক, আল্লাহর কাছে কিছুই হারায়নি।"
+          },
+          {
+            "en": "A caution follows. The verse tells of a prophet's trial and its end; it promises no particular person a particular outcome by a particular day. Nor does it license anyone to look at a sick or bereaved neighbour and conclude that Allah holds them cheap, the very thought the reminder was sent to correct. What it gives the worshipper is a way to speak when harm touches him, and a reason to keep worshipping while he waits.",
+            "bn": "এখান থেকে একটি সতর্কতাও আসে। আয়াতটি একজন নবীর পরীক্ষা আর তার সমাপ্তির কথা বলে। কোনো নির্দিষ্ট মানুষকে নির্দিষ্ট দিনে নির্দিষ্ট ফলের প্রতিশ্রুতি দেয় না। আবার অসুস্থ বা স্বজনহারা কোনো প্রতিবেশীর দিকে তাকিয়ে এই সিদ্ধান্ত টানার অনুমতিও দেয় না যে আল্লাহ তাকে তুচ্ছ মনে করেন। ঠিক এই ভাবনাটাকেই শুধরে দিতে স্মরণটা এসেছে। ইবাদতকারীকে আয়াত দেয় কষ্ট ছুঁয়ে গেলে কথা বলার একটি পথ, আর অপেক্ষার সময়েও ইবাদত চালিয়ে যাওয়ার কারণ।"
+          }
+        ]
+      }
+    ]
+  },
   "21:87": {
     "sections": [
       {
