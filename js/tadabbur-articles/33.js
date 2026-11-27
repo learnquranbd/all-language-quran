@@ -11,6 +11,162 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "33:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "Called by Station, Not Name",
+          "bn": "নাম নয়, মর্যাদা ধরে ডাক"
+        },
+        "p": [
+          {
+            "en": "Ya ayyuha an-nabiyyu ittaqi Allaha wa la tuti'i al-kafirina wal-munafiqin: O Prophet, fear Allah and do not obey the disbelievers and the hypocrites. Indeed, Allah is ever Knowing and Wise. Al-Qurtubi records that Surat al-Ahzab is Madani by the statement of all of them, and that it came down concerning the hypocrites and the harm they did the Messenger ﷺ, attacking him and his marriages. Ma'arif al-Qur'an adds that most of its subjects concern his person and his special place with Allah.",
+            "bn": "ইয়া আইয়ুহান নাবিয়্যু ইত্তাকিল্লাহা ওয়ালা তুতিইল কাফিরীনা ওয়াল মুনাফিকীন: হে নবী, আল্লাহকে ভয় করুন, আর কাফির ও মুনাফিকদের আনুগত্য করবেন না। নিশ্চয় আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়। কুরতুবী লেখেন, সবার কথামতেই সূরা আহযাব মাদানী। তিনি আরও জানান, সূরাটি নাযিল হয়েছে মুনাফিকদের নিয়ে। তারা রাসূল ﷺ-কে কষ্ট দিত, তাঁর নিন্দা করত, তাঁর বিয়ে নিয়েও খোঁচা দিত। মাআরিফুল কুরআন যোগ করে, সূরার বেশির ভাগ বিষয় তাঁর ব্যক্তিত্ব আর আল্লাহর কাছে তাঁর বিশেষ মর্যাদাকে ঘিরে।"
+          },
+          {
+            "en": "So the surah's first word to him is a title. Ma'arif al-Qur'an notes that the Qur'an calls other prophets by name: ya Adam, ya Nuh, ya Ibrahim, ya Musa. The final Prophet is never addressed by his name, only by a title such as nabiyy or rasul. His name appears in four places, 3:144, 33:40, 47:2 and 48:29, where the purpose was to declare that he is the Messenger of Allah. Ma'arif calls the form of this address a singular honour.",
+            "bn": "তাই সূরার প্রথম ডাকটাই একটি উপাধি। মাআরিফুল কুরআন লক্ষ করে, কুরআন অন্য নবীদের নাম ধরে ডাকে: ইয়া আদম, ইয়া নূহ, ইয়া ইবরাহীম, ইয়া মূসা। কিন্তু শেষ নবীকে কোথাও নাম ধরে সম্বোধন করা হয়নি, ডাকা হয়েছে নবী বা রাসূলের মতো উপাধিতে। তাঁর নাম এসেছে চারটি জায়গায়: ৩:১৪৪, ৩৩:৪০, ৪৭:২ ও ৪৮:২৯। সেখানে উদ্দেশ্যই ছিল ঘোষণা করা যে তিনি আল্লাহর রাসূল। মাআরিফ এই সম্বোধনকে এক অনন্য সম্মান বলে।"
+          },
+          {
+            "en": "As-Sa'di hears the whole title in the call: O you on whom Allah bestowed prophethood, whom He singled out with His revelation and preferred over the rest of creation. Then he turns the title into a duty. Thank your Lord's favour by practising His taqwa, which you are worthier of than anyone else, and of which more is required of you than of others. The honour and the command arrive together; the higher the station, the heavier what it carries.",
+            "bn": "সা'দী এই ডাকে পুরো উপাধিটাই শুনতে পান: হে সেই মানুষ, যাঁকে আল্লাহ নবুওয়াত দিয়ে অনুগ্রহ করেছেন, নিজের ওয়াহীর জন্য বেছে নিয়েছেন, আর সমস্ত সৃষ্টির উপর মর্যাদা দিয়েছেন। তারপর উপাধিটাকেই তিনি দায়িত্বে রূপ দেন। রবের এই নিয়ামতের শোকর আদায় করুন তাকওয়া দিয়ে। এর হকদার আপনিই সবচেয়ে বেশি, আর অন্য কারও চেয়ে আপনার কাছেই এর দাবি বড়। সম্মান আর আদেশ তাই একসঙ্গে আসে। মর্যাদা যত উঁচু, তার বোঝাও তত ভারী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told to Stay Standing",
+          "bn": "দাঁড়িয়ে থাকারই আদেশ"
+        },
+        "p": [
+          {
+            "en": "Why command the fear of Allah to the one who already lived by it? The Muyassar answers in its first word: dum, persist. Keep to the fear of Allah by acting on His commands and avoiding what He forbade. Al-Baghawi gives the same gloss, dum 'ala at-taqwa, and an everyday image. A man says to someone who is already standing, stand here, meaning stay standing. The command does not suggest the posture was lost; it asks that it be held.",
+            "bn": "যিনি আগে থেকেই আল্লাহভীতির উপর জীবন কাটাচ্ছেন, তাঁকে আবার আল্লাহকে ভয় করার আদেশ কেন? মুয়াসসার প্রথম শব্দেই উত্তর দেয়: দুম, অটল থাকুন। আল্লাহর আদেশ মেনে আর তাঁর নিষেধ এড়িয়ে তাকওয়ার উপর টিকে থাকুন। বাগাভীও একই ব্যাখ্যা দেন, দুম আলাত তাকওয়া। সঙ্গে দেন রোজকার কথাবার্তা থেকে একটা উদাহরণ। কেউ দাঁড়িয়ে থাকা লোককে বলে, এখানে দাঁড়াও। মানে, দাঁড়িয়েই থাকো। আদেশটি বোঝায় না যে অবস্থানটা হারিয়ে গিয়েছিল। বোঝায়, সেটা ধরে রাখতে হবে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an raises the question openly. The Prophet ﷺ was protected from sin, so what was the need for such an order? It answers from Ruh al-Ma'ani: the orders carry the sense of an instruction to abide by this conduct in future as well, as he did in the event concerned. Explaining a point from Ibn Kathir, Ma'arif adds that there was no probability he would do what they asked. None of the fetched commentaries reads the verse as saying he had obeyed them.",
+            "bn": "মাআরিফুল কুরআন প্রশ্নটা খোলাখুলি তোলে। নবী ﷺ তো গুনাহ থেকে সুরক্ষিত ছিলেন, তাহলে এমন আদেশের দরকার কী? উত্তর আসে রূহুল মাআনী থেকে: এ আদেশের অর্থ, ঘটনার সময় তিনি যেভাবে চলেছেন, ভবিষ্যতেও সেভাবেই চলবেন। ইবন কাসীরের একটি কথার ব্যাখ্যায় মাআরিফ যোগ করে: তারা যা চাইছিল, তা তিনি করে ফেলবেন, এমন কোনো সম্ভাবনাই ছিল না। এখানে পড়া কোনো তাফসীরই আয়াতটির এমন অর্থ করে না যে তিনি তাদের কথা মেনে নিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Through Him to Every Believer",
+          "bn": "তাঁর মাধ্যমে প্রত্যেক মুমিনের কাছে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir names the device: tanbih bil-a'la 'ala al-adna, pointing to the lower by way of the higher. If Allah commands His servant and Messenger with this, then those beneath him are all the more bound to follow it. The Muyassar makes the same move in its own words: persist in the fear of Allah, and let the believers follow your example, for they need it more than you do. The command passes through the Prophet ﷺ and lands on everyone.",
+            "bn": "ইবন কাসীর কৌশলটার নাম দেন: উঁচুকে দেখিয়ে নিচুকে সতর্ক করা। আল্লাহ যদি তাঁর বান্দা ও রাসূলকেই এ আদেশ দেন, তবে যারা তাঁর চেয়ে নিচে, তাদের উপর এটা মানার দায় আরও বেশি। মুয়াসসার নিজের ভাষায় একই কথা বলে: তাকওয়ার উপর অটল থাকুন, আর মুমিনরা আপনাকে অনুসরণ করুক। কারণ আপনার চেয়ে এর প্রয়োজন তাদেরই বেশি। আদেশটি নবী ﷺ-এর ভেতর দিয়ে গিয়ে সবার কাছে পৌঁছায়।"
+          },
+          {
+            "en": "The commentators weigh the two addressees differently. Al-Baghawi reports, under the words it is said, that the address is to the Prophet ﷺ while the community is what is meant. Al-Qurtubi closes his passage with a view, also introduced by it is said, that the address is to him and to his community together. Ma'arif al-Qur'an cites some commentators: he was protected, but the law is for everyone, so addressing the Messenger himself raised the order's weight. If even he is addressed, who in the community could claim exemption?",
+            "bn": "দুই শ্রোতাকে তাফসীরকারেরা আলাদা ওজনে মাপেন। বাগাভী 'বলা হয়' কথাটি দিয়ে একটি মত আনেন: সম্বোধন নবী ﷺ-কে, কিন্তু উদ্দেশ্য উম্মাহ। কুরতুবী আলোচনা শেষ করেন আরেকটি মত দিয়ে, সেটিও 'বলা হয়' বলে: সম্বোধন তাঁকে এবং তাঁর উম্মাহকে, দুজনকেই। মাআরিফুল কুরআন কয়েকজন তাফসীরকারের কথা আনে। তিনি সুরক্ষিত ছিলেন, কিন্তু বিধান সবার জন্য। তাই স্বয়ং রাসূলকে সম্বোধন করায় আদেশের গুরুত্ব বহুগুণ বেড়ে যায়। তিনিই যখন আদেশের লক্ষ্য, উম্মাহর কোন মানুষ নিজেকে এর বাইরে ভাবতে পারে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Fear Being Asked For",
+          "bn": "যে ভয় চাওয়া হয়েছে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari unpacks ittaqi Allah into its parts: fear Him by obeying Him, by fulfilling what He has made obligatory and the rights He is owed from you, by stopping at what He has forbidden, and by not violating His limits. Al-Qurtubi keeps it to two words, khaf Allah, fear Allah. Ibn Kathir quotes Talq ibn Habib: taqwa is to act in obedience to Allah, on a light from Allah, hoping for Allah's reward, and to leave disobedience to Allah, on a light from Allah, fearing Allah's punishment.",
+            "bn": "তাবারী ইত্তাকিল্লাহকে খুলে বলেন অংশে অংশে। তাঁর আনুগত্য করে তাঁকে ভয় করুন। তিনি যা ফরজ করেছেন আর আপনার উপর তাঁর যে হক, তা আদায় করুন। তিনি যা হারাম করেছেন, সেখানে থেমে যান, তাঁর সীমা লঙ্ঘন করবেন না। কুরতুবী রাখেন দুই শব্দে: খাফিল্লাহ, আল্লাহকে ভয় করুন। ইবন কাসীর তালক ইবন হাবীবের কথা উদ্ধৃত করেন: তাকওয়া হলো আল্লাহর দেওয়া আলোয় তাঁর আনুগত্য করা, তাঁর সওয়াবের আশায়। আর আল্লাহর দেওয়া আলোয় তাঁর নাফরমানি ছেড়ে দেওয়া, তাঁর শাস্তির ভয়ে।"
+          },
+          {
+            "en": "As-Sa'di fills the word with the Prophet's own work. Carry out His commands and prohibitions, convey His messages, deliver His revelation to His servants, and give sincere counsel to people. Then he turns to the second half of the verse: let nothing bar you from this aim and no one turn you back from it. In his reading the two commands are one. Taqwa is the mission, and obeying its opponents would be the thing that blocks it.",
+            "bn": "সা'দী শব্দটিকে ভরে দেন নবীর নিজের কাজ দিয়ে। আল্লাহর আদেশ-নিষেধ মেনে চলুন, তাঁর বার্তা পৌঁছে দিন, তাঁর বান্দাদের কাছে তাঁর ওয়াহী পৌঁছান, আর মানুষের প্রতি আন্তরিক কল্যাণকামী হোন। তারপর তিনি আসেন আয়াতের দ্বিতীয় অংশে। এই লক্ষ্য থেকে কেউ যেন আপনাকে আটকাতে না পারে, কেউ যেন ফিরিয়ে দিতে না পারে। তাঁর পাঠে দুটি আদেশ আসলে একটাই। তাকওয়াই মিশন। আর এর বিরোধীদের কথা মানা মানে সেই মিশনের পথেই বাধা দাঁড় করানো।"
+          },
+          {
+            "en": "A further reading gives the fear of Allah a pointed object. Al-Baghawi reports ad-Dahhak: the meaning is fear Allah and do not break the covenant between you and them. Ma'arif al-Qur'an reads the first command the same way, as forbidding the breach of a pledge, which it counts as a grave sin. On this reading the verse that forbids obeying opponents opens by protecting their rights under an agreement. Taqwa here guards a promise even toward an enemy.",
+            "bn": "আরেকটি ব্যাখ্যায় আল্লাহভীতির একটি নির্দিষ্ট লক্ষ্য আছে। বাগাভী দাহহাকের মত আনেন: অর্থ হলো, আল্লাহকে ভয় করুন, আর আপনার ও তাদের মধ্যে যে চুক্তি আছে, তা ভাঙবেন না। মাআরিফুল কুরআনও প্রথম আদেশকে এভাবেই পড়ে: অঙ্গীকার ভঙ্গ করা নিষেধ, আর তা বড় গুনাহ। এই পাঠে যে আয়াত বিরোধীদের আনুগত্য নিষেধ করছে, তার শুরুটাই চুক্তির ভিত্তিতে পাওয়া তাদের হক রক্ষা করে। এখানে তাকওয়া শত্রুর সঙ্গে দেওয়া কথাও পাহারা দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Obedience Quietly Begins",
+          "bn": "আনুগত্য যেখানে চুপচাপ শুরু হয়"
+        },
+        "p": [
+          {
+            "en": "Wa la tuti'i, and do not obey. Ibn Kathir explains the obedience forbidden in two short verbs: la tasma' minhum wa la tastashirhum, do not listen to them and do not consult them. At-Tabari says much the same: accept no opinion from them, and do not consult them as if seeking their good counsel, for they are your enemies. Al-Qurtubi adds a limit and a warning: in what you have been forbidden, and do not incline toward them.",
+            "bn": "ওয়ালা তুতি', আর আনুগত্য করবেন না। কোন আনুগত্য নিষেধ, ইবন কাসীর তা বোঝান দুটি ছোট ক্রিয়ায়: তাদের কথা শুনবেন না, তাদের সঙ্গে পরামর্শ করবেন না। তাবারীর কথাও প্রায় একই: তাদের কোনো মত গ্রহণ করবেন না, আর হিতাকাঙ্ক্ষী ভেবে তাদের কাছে পরামর্শ চাইবেন না, কারণ তারা আপনার শত্রু। কুরতুবী একটা সীমা আর একটা সতর্কবাণী যোগ করেন: যে বিষয়ে আপনাকে নিষেধ করা হয়েছে, সেখানে তাদের কথা মানবেন না, আর তাদের দিকে ঝুঁকবেন না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, explaining Ibn Kathir, draws out why the verse says obey when it means consult. Consultation and frequent sitting together generally end in a disposition that favours accepting what the other side proposes. There was no probability that the Prophet ﷺ would obey them; what is forbidden is the path that leads there. So ita'ah, obedience, names the first steps, since they usually end in acceptance.",
+            "bn": "মাআরিফুল কুরআন ইবন কাসীরের ব্যাখ্যা করতে গিয়ে দেখায়, পরামর্শের কথা বলতে আয়াত কেন আনুগত্য শব্দ বেছে নিল। পরামর্শ আর ঘন ঘন একসঙ্গে বসা সাধারণত মনকে এমন জায়গায় নিয়ে যায়, যেখানে অন্য পক্ষের প্রস্তাব মেনে নেওয়ার ঝোঁক তৈরি হয়। নবী ﷺ তাদের আনুগত্য করবেন, এমন সম্ভাবনা ছিল না। নিষেধ করা হয়েছে সেই পথ, যা আনুগত্যের দিকে নিয়ে যায়। তাই প্রথম ধাপগুলোকেই বলা হয়েছে ইতাআত, কারণ এ ধাপগুলোর শেষে সাধারণত মেনে নেওয়াই থাকে।"
+          },
+          {
+            "en": "As-Sa'di marks where the line runs. Do not obey them in those matters that undo taqwa and contradict it, and do not follow their desires, or they will lead you away from what is right. The prohibition is not on hearing any word from another person. It is on handing them the steering of matters that belong to Allah. The believer's question is practical: whose counsel shapes the decisions that touch my religion?",
+            "bn": "সীমারেখা কোথায়, সা'দী তা চিহ্নিত করেন। যে বিষয়গুলো তাকওয়াকে ভেঙে দেয়, তার বিপরীতে যায়, সেখানে তাদের আনুগত্য করবেন না। তাদের খেয়ালখুশির পেছনে চলবেন না, তাহলে তারা আপনাকে সঠিক পথ থেকে সরিয়ে নেবে। নিষেধটা অন্য মানুষের কোনো কথা কানে নেওয়ার উপর নয়। নিষেধ হলো, যে বিষয় আল্লাহর, তার হাল তাদের হাতে তুলে দেওয়া। মুমিনের কাছে প্রশ্নটা তাই একেবারে বাস্তব: দ্বীনের সঙ্গে জড়ানো আমার সিদ্ধান্তগুলো কার পরামর্শে গড়ে ওঠে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Open Enmity and Hidden Enmity",
+          "bn": "প্রকাশ্য শত্রুতা, গোপন শত্রুতা"
+        },
+        "p": [
+          {
+            "en": "The verse names two parties, and at-Tabari gives each its typical voice. The disbelievers are those who say to you: drive away your followers from among the weak believers, so that we may sit with you. The hypocrites are those who show you faith in Allah and good counsel, while they spare no effort to corrupt you, your companions and your religion. As-Sa'di draws the same line: one has shown open enmity to Allah and His Messenger; the other has hidden denial and shown its opposite.",
+            "bn": "আয়াতটি দুই দলের নাম নেয়, আর তাবারী প্রত্যেকের চেনা কণ্ঠটা তুলে ধরেন। কাফির তারা, যারা আপনাকে বলে: দুর্বল মুমিনদের মধ্যে যারা আপনার অনুসারী, তাদের তাড়িয়ে দিন, তাহলে আমরা আপনার কাছে বসব। মুনাফিক তারা, যারা আপনার সামনে আল্লাহর প্রতি ঈমান আর কল্যাণকামিতা দেখায়। অথচ আপনার, আপনার সাথীদের আর আপনার দ্বীনের ক্ষতি করতে তারা কোনো চেষ্টা বাকি রাখে না। সা'দীও একই রেখা টানেন। একদল আল্লাহ ও তাঁর রাসূলের সঙ্গে শত্রুতা প্রকাশ্যে দেখিয়েছে। অন্যদল অস্বীকার লুকিয়ে রেখে বাইরে উল্টোটা দেখিয়েছে।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi place the two groups: the disbelievers from the people of Makkah, the hypocrites from the people of Madinah. Ma'arif al-Qur'an asks why the hypocrites need naming at all, since any openly anti-Islamic proposal would make them plain disbelievers. Its answer: they may have spoken in support of the other disbelievers without openly opposing Islam. Hidden enmity rarely announces itself; it speaks as a friend making a sensible suggestion.",
+            "bn": "বাগাভী ও কুরতুবী দুই দলের ঠিকানা দেন: কাফিররা মক্কার লোক, মুনাফিকরা মদীনার। মাআরিফুল কুরআন প্রশ্ন তোলে, মুনাফিকদের আলাদা করে নাম নেওয়ার দরকার কী? প্রকাশ্যে ইসলামবিরোধী প্রস্তাব দিলে তো তারা সোজাসুজি কাফিরই হয়ে যেত। উত্তর: হয়তো তারা প্রকাশ্যে ইসলামের বিরোধিতা না করে অন্য কাফিরদের পক্ষে কথা বলেছিল। গোপন শত্রুতা নিজের পরিচয় দিয়ে আসে না। সে আসে বন্ধুর বেশে, যুক্তিসংগত পরামর্শ নিয়ে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes two parties as they stood toward the Prophet ﷺ in his own time, and at-Tabari calls them your enemies because of what they did. It licenses nothing against any living person or community. It gives no one the right to brand a fellow Muslim a hypocrite, or to treat non-Muslim neighbours as enemies. Its warning is turned inward: watch whom you let steer your religion. And, on ad-Dahhak's reading, it opens by commanding a kept promise.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নবী ﷺ-এর নিজের সময়ে তাঁর প্রতি দুই দলের অবস্থানের বর্ণনা দেয়। তারা যা করেছিল, তার কারণেই তাবারী তাদের বলেন আপনার শত্রু। জীবিত কোনো মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে আয়াতটি কোনো কিছুরই অনুমতি দেয় না। কোনো মুসলিম ভাইকে মুনাফিক তকমা দেওয়ার অধিকার এ আয়াত কাউকে দেয় না। অমুসলিম প্রতিবেশীকে শত্রু ভাবারও অনুমতি দেয় না। এর সতর্কবাণী নিজের দিকে ফেরানো: দ্বীনের হাল কার হাতে তুলে দিচ্ছেন, খেয়াল রাখুন। আর দাহহাকের পাঠে আয়াতটির শুরুই হয় অঙ্গীকার রক্ষার আদেশ দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Occasions Told Without Chains",
+          "bn": "সনদ ছাড়া বর্ণিত প্রেক্ষাপট"
+        },
+        "p": [
+          {
+            "en": "Several reports are offered as the occasion of revelation, and none comes with a chain that the fetched commentators grade. Al-Baghawi opens with one about leaders of Quraysh who came to Madinah after Uhud under a guarantee of safety and pressed for a concession over their idols. Al-Qurtubi relays it as told by al-Wahidi, al-Qushayri, ath-Tha'labi and al-Mawardi, with az-Zamakhshari's variant that ties the verse to breaking a truce. Ma'arif al-Qur'an says ath-Tha'labi and al-Wahidi give it with no ascription of authority.",
+            "bn": "নাযিলের প্রেক্ষাপট হিসেবে কয়েকটি বর্ণনা আসে, কিন্তু এখানে পড়া তাফসীরকারদের কেউ কোনোটির সনদের মান বলেননি। বাগাভী শুরু করেন এমন একটি দিয়ে: উহুদের পর কুরাইশের কয়েকজন নেতা নিরাপত্তার প্রতিশ্রুতি নিয়ে মদীনায় আসে, আর তাদের মূর্তি নিয়ে ছাড় আদায়ের চাপ দেয়। কুরতুবী এটি আনেন ওয়াহিদী, কুশাইরী, সা'লাবী ও মাওয়ারদীর বরাতে। সঙ্গে আনেন যামাখশারীর ভিন্ন বর্ণনা, যেখানে আয়াতকে যুক্ত করা হয়েছে সন্ধি ভাঙার সঙ্গে। মাআরিফুল কুরআন জানায়, সা'লাবী ও ওয়াহিদী এটি এনেছেন কোনো সূত্র উল্লেখ না করে।"
+          },
+          {
+            "en": "Al-Qurtubi also gives, with the passive it is reported, two further accounts. One concerns the Jewish tribes of Madinah, whose Islam the Prophet ﷺ hoped for, and some of whom followed him in hypocrisy. The other concerns an offer from Makkah and threats from hypocrites in Madinah. Ma'arif al-Qur'an relays a version of the second, citing Ruh al-Ma'ani, which credits it to Ibn Jarir from Ibn 'Abbas; the at-Tabari text fetched for this verse does not carry it.",
+            "bn": "কুরতুবী 'বর্ণিত আছে' বলে আরও দুটি বিবরণ দেন। একটি মদীনার ইহুদি গোত্রগুলো নিয়ে। নবী ﷺ তাদের ইসলাম গ্রহণের আশা করতেন, আর তাদের কেউ কেউ মুনাফিকি নিয়ে তাঁর অনুসরণ করেছিল। অন্যটি মক্কা থেকে আসা একটি প্রস্তাব আর মদীনার মুনাফিকদের হুমকি নিয়ে। মাআরিফুল কুরআন দ্বিতীয়টির একটি রূপ আনে রূহুল মাআনীর বরাতে। রূহুল মাআনী এটিকে ইবন জারীরের মাধ্যমে ইবন আব্বাস (রাঃ)-এর বর্ণনা বলে। কিন্তু এ আয়াতের যে তাবারী পাঠ এখানে পড়া হয়েছে, তাতে এটি নেই।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an holds that the reports do not contradict each other and that each could be a cause of the verse. Because none is graded in the sources read here, this article treats them only as reports and builds nothing on their details. No fetched commentary attaches a sound hadith to this verse. What is certain is the placement: the verse opens a surah that al-Qurtubi says came down about the hypocrites' harm to the Messenger ﷺ.",
+            "bn": "মাআরিফুল কুরআনের মতে বর্ণনাগুলো পরস্পরবিরোধী নয়, প্রতিটিই আয়াতের কারণ হতে পারে। এখানে পড়া কোনো উৎসে এগুলোর মান বলা হয়নি, তাই এ লেখা এগুলোকে কেবল বর্ণনা হিসেবেই দেখে, এদের খুঁটিনাটির উপর কিছু দাঁড় করায় না। এখানে পড়া কোনো তাফসীর এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। নিশ্চিত শুধু আয়াতের অবস্থান। কুরতুবীর ভাষায় যে সূরা মুনাফিকদের হাতে রাসূল ﷺ-এর কষ্ট নিয়ে নাযিল হয়েছে, এ আয়াত সেই সূরার শুরু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowledge Behind the Command",
+          "bn": "আদেশের পেছনে জ্ঞান ও প্রজ্ঞা"
+        },
+        "p": [
+          {
+            "en": "Inna Allaha kana 'aliman hakima: indeed Allah is ever Knowing and Wise. Ibn Kathir reads the close as the reason for the command: He is more deserving that His commands be followed, for He knows the outcomes of affairs and is wise in His words and deeds. At-Tabari makes the knowledge specific. Allah knows what their souls conceal and what they intend by showing you good counsel, and He is wise in managing your affair, your companions and your religion.",
+            "bn": "ইন্নাল্লাহা কানা আলীমান হাকীমা: নিশ্চয় আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়। ইবন কাসীর শেষাংশটিকে আদেশের কারণ হিসেবে পড়েন। তাঁর আদেশ মানাই বেশি সংগত, কারণ সব বিষয়ের পরিণাম তিনি জানেন, আর তাঁর কথা ও কাজ প্রজ্ঞায় ভরা। তাবারী জ্ঞানটিকে নির্দিষ্ট করে দেন। তাদের মনে কী লুকানো আছে, আপনার প্রতি কল্যাণকামিতা দেখিয়ে তারা আসলে কী চায়, আল্লাহ জানেন। আর আপনার, আপনার সাথীদের ও আপনার দ্বীনের ব্যাপার সামলাতে তিনি প্রজ্ঞাময়।"
+          },
+          {
+            "en": "Al-Baghawi says Allah knew His creation before He created them and is wise in what He arranged for them; al-Qurtubi, that He knows their disbelief and is wise in what He does with them. Both glosses meet at-Tabari's: the names answer the hidden side of the parties just named, who could show good counsel while concealing enmity. What a counsellor hides from the person he advises is never hidden from Allah. That is why His command, and not their advice, is the safer guide for the decisions it touches.",
+            "bn": "বাগাভী বলেন, সৃষ্টি করার আগেই আল্লাহ তাঁর সৃষ্টিকে জানতেন, আর তাদের জন্য যা ঠিক করেছেন, তাতে তিনি প্রজ্ঞাময়। কুরতুবী বলেন, তিনি তাদের কুফর জানেন, আর তাদের সঙ্গে যা করেন, তাতে প্রজ্ঞাময়। দুটি ব্যাখ্যাই এসে মেলে তাবারীর কথায়। নাম দুটি জবাব দেয় সদ্য উল্লেখ করা দুই দলের গোপন দিকের, যারা শত্রুতা লুকিয়ে রেখে কল্যাণকামিতা দেখাতে পারত। পরামর্শদাতা যাকে পরামর্শ দেয়, তার কাছে যা লুকায়, আল্লাহর কাছে তা কখনো লুকানো থাকে না। তাই যে সিদ্ধান্তে আদেশটি প্রযোজ্য, সেখানে তাদের পরামর্শ নয়, তাঁর আদেশই নিরাপদ পথনির্দেশ।"
+          },
+          {
+            "en": "The next two verses supply what replaces the forbidden counsel. Follow what is revealed to you from your Lord (33:2), which Ibn Kathir explains as the Qur'an and the Sunnah, and rely upon Allah, sufficient as Disposer of affairs (33:3), a Trustee for whoever turns to Him. The surah then moves to 33:4, which opens on an image worth keeping beside this verse: Allah has not made for any man two hearts in his chest.",
+            "bn": "পরের দুই আয়াত জানায়, নিষিদ্ধ পরামর্শের জায়গায় কী আসবে। আপনার রবের কাছ থেকে আপনার প্রতি যা ওয়াহী করা হয়, তার অনুসরণ করুন (৩৩:২)। ইবন কাসীরের ব্যাখ্যায় তা কুরআন ও সুন্নাহ। আর আল্লাহর উপর ভরসা করুন, কর্মবিধায়ক হিসেবে তিনিই যথেষ্ট (৩৩:৩)। যে তাঁর দিকে ফেরে, তার জন্য তিনিই অভিভাবক। এরপর সূরা যায় ৩৩:৪ আয়াতে। তার শুরুর ছবিটা এ আয়াতের পাশে রেখে পড়ার মতো: আল্লাহ কোনো মানুষের বুকে দুটি হৃদয় দেননি।"
+          }
+        ]
+      }
+    ]
+  },
   "33:4": {
     "sections": [
       {

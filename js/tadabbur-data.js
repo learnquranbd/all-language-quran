@@ -36333,6 +36333,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "You already live inside the first creation; let it convince you of the second, and never measure what Allah can do by the limits of your own strength.",
     "lessonBn": "প্রথম সৃষ্টির ভেতরেই আপনি বেঁচে আছেন। সেটাই আপনাকে দ্বিতীয় সৃষ্টির ব্যাপারে নিশ্চিত করুক, আর আল্লাহ কী পারেন, তা কখনো নিজের সামর্থ্যের সীমা দিয়ে মাপবেন না।"
+  },
+  "33:1": {
+    "reflectionEn": "The surah opens by calling the Prophet ﷺ not by his name but by his station: O Prophet. Then come two commands. Fear Allah, and do not obey the disbelievers and the hypocrites. He was already foremost in fearing Allah, so the first command reads as keep to it, stay standing where you stand, and through him it reaches every believer. The second command is about voices. Obedience rarely begins with one open surrender; it begins at the table, with whose words are heard and whose advice is sought. The verse ends on the reason: Allah is Knowing and Wise. He sees what lies behind a friendly offer and knows where each path ends. Whose voices sit closest to my decisions?",
+    "reflectionBn": "সূরাটি শুরু হয় নবী ﷺ-কে নাম ধরে নয়, তাঁর মর্যাদা ধরে ডেকে: হে নবী। তারপর দুটি আদেশ। আল্লাহকে ভয় করুন, আর কাফির ও মুনাফিকদের কথা মানবেন না। আল্লাহভীতিতে তিনি তো আগে থেকেই সবার আগে। তাই প্রথম আদেশের মানে দাঁড়ায়: এর উপর অটল থাকুন, যেখানে দাঁড়িয়ে আছেন সেখানেই দাঁড়িয়ে থাকুন। আর তাঁর মাধ্যমে আদেশটি পৌঁছে যায় প্রত্যেক মুমিনের কাছে। দ্বিতীয় আদেশ কণ্ঠস্বর নিয়ে। আনুগত্য সাধারণত এক ধাক্কায় আত্মসমর্পণ দিয়ে শুরু হয় না। শুরু হয় বৈঠকে, কার কথা শোনা হয় আর কার পরামর্শ চাওয়া হয়, সেখান থেকে। আয়াত শেষ হয় কারণ বলে: আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়। বন্ধুসুলভ প্রস্তাবের পেছনে কী আছে, তিনি দেখেন। কোন পথ কোথায় গিয়ে থামে, তিনি জানেন। আমার সিদ্ধান্তের সবচেয়ে কাছে কাদের কণ্ঠ বসে থাকে?",
+    "pointsEn": [
+      "Is my fear of Allah a standing state I keep returning to, or a mood that comes and goes with circumstance?",
+      "Whose advice do I actually seek before my big decisions, and do they share my concern for what pleases Allah?",
+      "Have I ever softened a clear principle because someone offered me ease or friendship in return?",
+      "If a command this firm was addressed to the best of creation, what makes me think I can do without it?",
+      "When a proposal sounds reasonable but pulls me away from what I know is right, do I trust that Allah knows where it leads?"
+    ],
+    "pointsBn": [
+      "আল্লাহভীতি কি আমার কাছে এমন এক অবস্থা, যেখানে বারবার ফিরে আসি? নাকি পরিস্থিতির সঙ্গে আসা-যাওয়া করা এক মেজাজ?",
+      "বড় সিদ্ধান্তের আগে আসলে কার পরামর্শ চাই? আল্লাহ কিসে খুশি হন, সে চিন্তা কি তাদের মনেও আছে?",
+      "কেউ আরাম বা বন্ধুত্বের লোভ দেখিয়েছে বলে কোনো স্পষ্ট নীতি কি কখনো একটু ঢিলে করে দিয়েছি?",
+      "সৃষ্টির শ্রেষ্ঠ মানুষটিকে যদি এত দৃঢ় আদেশ দেওয়া হয়, তবে আমি কিসের জোরে ভাবি যে আমার এর দরকার নেই?",
+      "কোনো প্রস্তাব শুনতে যুক্তিসংগত, অথচ যা সঠিক বলে জানি তা থেকে টেনে সরিয়ে নেয়। তখন কি ভরসা রাখি যে এর শেষ কোথায়, আল্লাহ তা জানেন?"
+    ],
+    "lessonEn": "Keep to the fear of Allah as a standing state, and guard your decisions: do not let those who oppose the truth become the counsel you lean on.",
+    "lessonBn": "আল্লাহভীতিকে স্থায়ী অবস্থা হিসেবে ধরে রাখুন, আর নিজের সিদ্ধান্ত পাহারা দিন: যারা সত্যের বিরোধী, তাদের যেন আপনার ভরসার পরামর্শদাতা বানিয়ে না ফেলেন।"
   }
 };
 
