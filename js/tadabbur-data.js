@@ -34003,6 +34003,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Even a parent's love can pull faith off course, so guard it there too; and never claim to know anyone's future, for al-Khidr knew only because Allah told him.",
     "lessonBn": "মা-বাবার ভালোবাসাও ঈমানকে পথ থেকে সরিয়ে দিতে পারে, তাই সেখানেও ঈমান আগলে রাখুন। আর কারও ভবিষ্যৎ জানার দাবি কখনো করবেন না; খিযির জেনেছিলেন কেবল আল্লাহ জানিয়েছিলেন বলে।"
+  },
+  "19:28": {
+    "reflectionEn": "She came home carrying her child, bound by a vow of silence, and her people met her with her own family. O sister of Harun, your father was no man of evil, and your mother was never unchaste. Every good name she belonged to was turned into a charge against her: you came from such people, so how could you? The verses that follow clear her completely, through the child in her arms. So this is no lesson in suspecting anyone. It shows how quickly a family's honour can become a weapon in other hands. When I hear a rumour, do I wait for the truth or reach for the verdict? And when my own family's name is spoken, does it make me careful, or only proud?",
+    "reflectionBn": "কোলে শিশু, মুখে নীরবতার মানত, এ অবস্থায় তিনি নিজের লোকদের কাছে ফিরলেন। তারা তাঁকে ঘিরে ধরল তাঁরই পরিবারের নাম নিয়ে: হে হারূনের বোন, তোমার বাবা খারাপ লোক ছিলেন না, তোমার মা-ও অসতী ছিলেন না। যত ভালো নামের সঙ্গে তিনি যুক্ত, সবগুলোই বানানো হলো তাঁর বিরুদ্ধে অভিযোগ। কথার মানে, এমন ঘরের মেয়ে হয়ে তুমি এ কাজ কীভাবে করলে? পরের আয়াতগুলোতেই তাঁর কোলের শিশুর মুখ দিয়ে তিনি পুরোপুরি নির্দোষ প্রমাণিত হন। কাজেই কাউকে সন্দেহ করার শিক্ষা এখানে নেই। বরং দেখা যায়, একটি পরিবারের সম্মান অন্যের হাতে কত তাড়াতাড়ি অস্ত্র হয়ে যেতে পারে। গুজব কানে এলে আমি কি সত্যের অপেক্ষা করি, নাকি রায় দিয়ে ফেলি? আর আমার নিজের পরিবারের নাম উঠলে তা কি আমাকে সাবধান করে, নাকি শুধু অহংকারী করে?",
+    "pointsEn": [
+      "The last time I heard something shameful about a person, did I wait to hear their side, or did I pass it on?",
+      "Have I ever used someone's good family against them, as if their parents' goodness made their supposed fault worse?",
+      "What does the honour of my own parents ask of me this week, in what I do and what I avoid?",
+      "When a question about my faith leaves me without an answer, do I go and ask those who know, or do I guess?",
+      "Whose name do I still hold under suspicion, though nothing has been proven against them?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন কারও সম্পর্কে লজ্জার কোনো কথা শুনেছি, তার দিকের কথা শোনার অপেক্ষা করেছি, নাকি কথাটা আরেকজনের কানে তুলে দিয়েছি?",
+      "কারও ভালো পরিবারকে কি কখনো তার বিরুদ্ধে ব্যবহার করেছি, যেন বাবা-মা ভালো বলে তার কথিত দোষ আরও বড় হয়ে গেল?",
+      "এ সপ্তাহে আমার কাজে আর আমার বর্জনে আমার বাবা-মায়ের সম্মান আমার কাছে কী দাবি করে?",
+      "ঈমানের কোনো প্রশ্নের জবাব না জানলে আমি কি যাঁরা জানেন তাঁদের কাছে গিয়ে জিজ্ঞেস করি, নাকি আন্দাজে কিছু বলে দিই?",
+      "কোন মানুষের নাম এখনো আমার মনে সন্দেহের তালিকায় রেখে দিয়েছি, অথচ তার বিরুদ্ধে কিছুই প্রমাণিত হয়নি?"
+    ],
+    "lessonEn": "A good family is a trust, not a weapon. Guard the honour you inherit by your own conduct, and never turn another person's lineage into a charge against them.",
+    "lessonBn": "ভালো পরিবার একটি আমানত, অস্ত্র নয়। উত্তরাধিকারে পাওয়া সম্মান নিজের আচরণ দিয়ে রক্ষা করুন, আর কখনো অন্যের বংশকে তার বিরুদ্ধে অভিযোগ বানাবেন না।"
   }
 };
 

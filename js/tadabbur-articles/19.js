@@ -1211,6 +1211,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:28": {
+    "sections": [
+      {
+        "h": {
+          "en": "Spoken Over a Silent Woman",
+          "bn": "নীরব এক নারীর সামনে"
+        },
+        "p": [
+          {
+            "en": "The verse carries on the words of Maryam's people. She has come back carrying her child (19:27), bound by a vow to speak to no one that day (19:26), and they have already called what she brought a monstrous thing. Now they press the point: ya ukhta Haruna, O sister of Harun, ma kana abuki imra'a saw'in wa ma kanat ummuki baghiyya, your father was not a man of evil, nor was your mother unchaste. Every word here is theirs. She answers none of it herself.",
+            "bn": "আয়াতটি মারইয়াম (আঃ)-এর সম্প্রদায়ের কথারই ধারাবাহিকতা। তিনি সন্তান কোলে নিয়ে ফিরেছেন (১৯:২৭)। সেদিন কারও সঙ্গে কথা না বলার মানত তাঁর উপর (১৯:২৬)। লোকেরা আগেই বলে দিয়েছে, তুমি এক সাংঘাতিক কাণ্ড করে এনেছ। এবার তারা কথাটা আরও চেপে ধরে: ইয়া উখতা হারূনা, মা কানা আবূকিমরাআ সাওইন ওয়া মা কানাত উম্মুকি বাগিয়্যা। হে হারূনের বোন, তোমার বাবা খারাপ লোক ছিলেন না, তোমার মা-ও অসতী ছিলেন না। এখানে প্রতিটি শব্দ তাদের। তিনি নিজে এর একটিরও জবাব দেন না।"
+          },
+          {
+            "en": "The charge is false, and the Qur'an answers it at once. She points to the child (19:29), and he speaks: I am the servant of Allah (19:30). Ibn Kathir, in the English abridgement, says that at this moment they were slandering her and falsely accusing her of a horrendous act, and he reads the child's words in 19:30 as a declaration of his mother's innocence from what was laid against her. Elsewhere the Qur'an itself calls what was said against Maryam a great slander (4:156).",
+            "bn": "অভিযোগটা মিথ্যা, আর কুরআন সঙ্গে সঙ্গেই তার জবাব দেয়। তিনি শিশুটির দিকে ইশারা করেন (১৯:২৯), আর শিশু কথা বলে ওঠে: আমি আল্লাহর বান্দা (১৯:৩০)। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ বলে, ঠিক তখন তারা তাঁর নামে অপবাদ রটাচ্ছিল, জঘন্য এক কাজের মিথ্যা অভিযোগ তুলছিল। ১৯:৩০ আয়াতে শিশুর কথাগুলোকে তিনি দেখেন মায়ের নির্দোষিতার ঘোষণা হিসেবে, তাঁর উপর যা চাপানো হয়েছিল তা থেকে মুক্তি হিসেবে। অন্য জায়গায় কুরআন নিজেই মারইয়ামের বিরুদ্ধে বলা কথাকে বলেছে গুরুতর অপবাদ (৪:১৫৬)।"
+          },
+          {
+            "en": "So this article spends little time on the accusation itself. What the commentators discuss at length is something else: who this Harun was, and why her people reached for her family in order to shame her. The second question also carries the verse's lesson, because it shows how a household's good name can be turned against one of its own, and what a believer owes that name in return.",
+            "bn": "তাই এ লেখায় অভিযোগটা নিয়ে বেশি সময় দেওয়া হবে না। তাফসীরকারেরা বিস্তারিত আলোচনা করেছেন অন্য বিষয়ে। এই হারূন কে, আর তাঁকে লজ্জা দিতে লোকেরা কেন তাঁর পরিবারকে টেনে আনল। দ্বিতীয় প্রশ্নেই আছে আয়াতের শিক্ষা। একটা ঘরের সুনাম কীভাবে সেই ঘরেরই একজনের বিরুদ্ধে ব্যবহার করা যায়, আর বিনিময়ে সেই সুনামের প্রতি একজন মুমিনের কী দায়, এখানে তা দেখা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Was This Harun",
+          "bn": "এই হারূন কে ছিলেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens by saying that the people of interpretation differed over why she was called sister of Harun, and who this Harun was. Al-Qurtubi begins the same way: people differed over the meaning of this brotherhood, and over who Harun is. The books fetched for this verse give several answers. The first answer, and the most widely carried, comes from Qatada: Harun was a righteous man of Maryam's own time.",
+            "bn": "তাবারী শুরুতেই বলেন, তাঁকে কেন হারূনের বোন বলা হলো আর এই হারূন কে, তা নিয়ে ব্যাখ্যাকারদের মধ্যে মতভেদ আছে। কুরতুবীও একইভাবে শুরু করেন: এই ভ্রাতৃত্বের অর্থ কী আর হারূন কে, তা নিয়ে মানুষ ভিন্ন ভিন্ন কথা বলেছে। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তাতে কয়েকটি জবাব পাওয়া যায়। প্রথম জবাব, যা সবচেয়ে বেশি তাফসীরে এসেছে, কাতাদার: হারূন ছিলেন মারইয়াম (আঃ)-এর নিজের যুগের এক নেককার মানুষ।"
+          },
+          {
+            "en": "In at-Tabari's first report from Qatada, Harun was a righteous man among the Children of Israel, and they likened her to him: O you who resemble Harun in righteousness. A longer report adds that he was a man who set things right and was loved in his clan, not Harun the brother of Musa (AS) but another Harun. Qatada says it was mentioned to us that forty thousand men of the Children of Israel, each of them named Harun, followed his bier. Al-Baghawi carries the same detail as something reported.",
+            "bn": "কাতাদা থেকে তাবারীর প্রথম বর্ণনায় হারূন বানী ইসরাঈলের এক নেককার লোক, আর লোকেরা মারইয়ামকে তাঁর সঙ্গে তুলনা করেছিল: নেকিতে হারূনের মতো যে মেয়ে। আরেকটি দীর্ঘ বর্ণনায় আছে, তিনি ছিলেন সংশোধনকারী, নিজের গোত্রে সবার প্রিয়। তিনি মূসা (আঃ)-এর ভাই হারূন নন, অন্য এক হারূন। কাতাদা বলেন, আমাদের কাছে বলা হয়েছে, তাঁর মৃত্যুর দিন বানী ইসরাঈলের চল্লিশ হাজার মানুষ তাঁর জানাযার পেছনে চলেছিল, যাদের প্রত্যেকের নাম ছিল হারূন। বাগাভীও এ বিবরণ আনেন বর্ণিত কথা হিসেবে।"
+          },
+          {
+            "en": "Al-Qurtubi gives Qatada's view in a fuller form. There was in that time a worshipper among the Children of Israel, devoted wholly to Allah, called Harun, and they ascribed her to his brotherhood because she had been on his path, dedicated to serving the house of worship. The sense is: you, a righteous woman, were not fit for this. At-Tabari adds Ibn Zayd's short gloss, a name that matched a name, since many nations lay between Harun and them. The Muyassar adopts this reading outright: O sister of the righteous man Harun.",
+            "bn": "কুরতুবী কাতাদার মত আরও খুলে বলেন। সে যুগে বানী ইসরাঈলে হারূন নামে এক আবেদ ছিলেন, যিনি পুরোপুরি আল্লাহর ইবাদতে ডুবে থাকতেন। মারইয়াম আগে থেকে তাঁরই পথে ছিলেন, ইবাদতখানার খেদমতে নিজেকে উৎসর্গ করেছিলেন। তাই লোকেরা তাঁকে ওই আবেদের বোন বলে ডাকল। কথার মানে: তোমার মতো নেককার নারীর তো এমন কাজ মানায় না। তাবারী এর সঙ্গে ইবন যায়দের ছোট্ট ব্যাখ্যাটি জুড়ে দেন: এক নামের সঙ্গে আরেক নামের মিল, কারণ হারূন আর তাঁদের মাঝে বহু জাতি গত হয়েছে। মুয়াসসার সরাসরি এ অর্থই নেয়: হে নেককার হারূনের বোন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kin by Blood, or by Likeness",
+          "bn": "রক্তের ভাই, নাকি মিলের"
+        },
+        "p": [
+          {
+            "en": "A second answer keeps Harun the prophet but reads sister as descent. As-Suddi, in at-Tabari, al-Baghawi and al-Qurtubi, says she was of the line of Harun the brother of Musa (AS), as you say to a man of Tamim, O brother of Tamim. Ibn Kathir gives this from ʿAli ibn Abi Talha and as-Suddi together. Al-Qurtubi relays az-Zamakhshari: a thousand years or more lay between them, so no one should imagine her the sister of Musa and Harun; if the link holds, it is through descent.",
+            "bn": "দ্বিতীয় জবাবে হারূন নবী হারূনই, তবে বোন মানে বংশধর। তাবারী, বাগাভী আর কুরতুবীতে সুদ্দীর কথা আছে: তিনি ছিলেন মূসা (আঃ)-এর ভাই হারূনের বংশের মেয়ে। তামীম গোত্রের লোককে যেমন বলা হয়, হে তামীমের ভাই। ইবন কাসীর কথাটি আনেন আলী ইবন আবী তালহা আর সুদ্দী দুজনের নামে। কুরতুবী যামাখশারীর বক্তব্য উদ্ধৃত করেন: তাঁদের মাঝে হাজার বছর বা তারও বেশি সময়ের ব্যবধান। তাই কেউ যেন না ভাবে মারইয়াম ছিলেন মূসা ও হারূনের বোন। সম্পর্ক যদি থেকেই থাকে, তা বংশের সূত্রে।"
+          },
+          {
+            "en": "A third answer makes the brother real. Al-Qurtubi and al-Baghawi both give al-Kalbi's view: she had a brother through her father named Harun, the finest man among the Children of Israel. Al-Qurtubi explains that the name was common among them, taken for the blessing of Harun the brother of Musa (AS). As-Saʿdi takes this as the apparent meaning: a true brother of hers, named after a prophet, as they used to name, and not Harun son of ʿImran, since many generations lay between the two.",
+            "bn": "তৃতীয় জবাবে ভাইটি আসল ভাই। কুরতুবী আর বাগাভী দুজনেই কালবীর মত আনেন: বাবার দিক থেকে তাঁর হারূন নামে এক ভাই ছিল, বানী ইসরাঈলের সবচেয়ে ভালো মানুষ। কুরতুবী ব্যাখ্যা করেন, ওদের মধ্যে নামটা খুব প্রচলিত ছিল। মূসা (আঃ)-এর ভাই হারূনের নামের বরকত পাওয়ার আশায় লোকেরা এ নাম রাখত। সা'দীর মতে আয়াতের বাহ্যিক অর্থ এটাই। হারূন ছিলেন তাঁর সত্যিকারের ভাই, নবীর নামে যাঁর নাম রাখা হয়েছিল, কারণ ওরা নবীদের নামে নাম রাখত। ইনি ইমরানের ছেলে হারূন নন, কারণ দুজনের মাঝে বহু প্রজন্মের ব্যবধান।"
+          },
+          {
+            "en": "Al-Baghawi reads it the other way. O sister of Harun means O you who resemble Harun; it is not brotherhood of lineage, just as the wasteful are called brothers of the devils (17:27), meaning their likes. Ibn Kathir opens on the same note, O you who resemble Harun in worship, and al-Qurtubi's first view has the brother of Musa (AS) in mind: we thought you were like Harun in devotion. So the difference stands: a blood brother for al-Kalbi and as-Saʿdi, a likeness for al-Baghawi and Qatada, descent for as-Suddi.",
+            "bn": "বাগাভী ঠিক উল্টো দিক থেকে পড়েন। হে হারূনের বোন মানে হারূনের মতো যে নারী। এটা বংশের ভ্রাতৃত্ব নয়, যেমন অপচয়কারীদের বলা হয়েছে শয়তানের ভাই (১৭:২৭), মানে তাদের মতো। ইবন কাসীরও এই সুরেই শুরু করেন: ইবাদতে হারূনের সঙ্গে যার মিল। কুরতুবীর উল্লেখ করা প্রথম মতে হারূন মূসা (আঃ)-এর ভাই, আর কথার মানে: আমরা ভাবতাম তুমি ইবাদতে হারূনের মতো। ফলে মতভেদটা থেকেই যায়। কালবী আর সা'দীর কাছে তিনি রক্তের ভাই, বাগাভী আর কাতাদার কাছে মিলের সম্পর্ক, সুদ্দীর কাছে বংশের সম্পর্ক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Carried From Najran",
+          "bn": "নাজরান থেকে আনা প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "One sound report bears directly on this verse. Muslim records it in his Sahih (2135): \"Mughira b. Shu'ba reported: When I came to Najran, they (the Christians of Najran) asked me: You read \"O sister of Harun\" (i. e. Hadrat Maryam) in the Qur'an, whereas Moses was born much before Jesus. When I came back to Allah's Messenger (ﷺ) I asked him about that, whereupon he said: The (people of the old age) used to give names (to their persons) after the names of Apostles and pious persons who had gone before them.\"",
+            "bn": "এ আয়াতের সঙ্গে সরাসরি যুক্ত একটি সহীহ বর্ণনা আছে। মুসলিম তাঁর সহীহ গ্রন্থে (২১৩৫) এনেছেন। মুগীরা ইবন শু'বা (রাঃ) বলেন: আমি নাজরানে গেলে তারা আমাকে জিজ্ঞেস করল, তোমরা তো পড়ো 'হে হারূনের বোন', অথচ মূসা ছিলেন ঈসার এত এত কাল আগে। আল্লাহর রাসূল ﷺ-এর কাছে ফিরে এসে আমি তাঁকে বিষয়টি জিজ্ঞেস করলাম। তিনি বললেন: তারা তাদের আগের নবী ও নেককারদের নামে নাম রাখত।"
+          },
+          {
+            "en": "Muslim places it in his Sahih, and the report carries no further grading from him. Al-Baghawi narrates it through his own chain running back to Muslim, at-Tabari through ʿAbdullah ibn Idris, and al-Qurtubi cites it as in Sahih Muslim. At-Tabari settles the question on it: the correct view is what came in the report from the Messenger of Allah ﷺ, and that she was linked by the name to a man of her own people. Al-Qurtubi draws a ruling from it: naming children after the prophets is permitted.",
+            "bn": "মুসলিম বর্ণনাটি তাঁর সহীহ গ্রন্থে রেখেছেন, এর বাইরে তিনি আলাদা কোনো মান উল্লেখ করেননি। বাগাভী নিজের সনদে মুসলিম পর্যন্ত পৌঁছে বর্ণনাটি আনেন, তাবারী আনেন আবদুল্লাহ ইবন ইদরীসের সূত্রে, আর কুরতুবী একে সহীহ মুসলিমের বর্ণনা বলে উল্লেখ করেন। তাবারী এর উপর ভিত্তি করেই প্রশ্নের মীমাংসা করেন। তাঁর মতে সঠিক কথা সেটাই, যা আল্লাহর রাসূল ﷺ থেকে বর্ণনায় এসেছে: মারইয়ামকে তাঁর নিজের সম্প্রদায়ের এক লোকের নামের সঙ্গে যুক্ত করা হয়েছিল। কুরতুবী এ থেকে একটা মাসআলাও বের করেন: নবীদের নামে সন্তানের নাম রাখা জায়েয।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an notes that the saying can be read in two ways. Either Maryam (AS) was linked to Harun the prophet because she was of his line, or the Harun meant was her own brother, named after the prophet out of reverence, in which case sister keeps its literal sense. What the report rules out, on every reading, is that she was the sister of the prophet Harun himself. Which of the remaining readings is meant, it leaves to the commentators.",
+            "bn": "মাআরিফুল কুরআন বলে, রাসূল ﷺ-এর কথাটি দুইভাবে বোঝা যায়। হয় মারইয়াম (আঃ)-কে নবী হারূনের সঙ্গে যুক্ত করা হয়েছে, কারণ তিনি ছিলেন তাঁর বংশধর। নয়তো এখানে হারূন মানে তাঁর নিজের ভাই, যাঁর নাম শ্রদ্ধাভরে নবীর নামে রাখা হয়েছিল। সে ক্ষেত্রে বোন শব্দটি আক্ষরিক অর্থেই থাকে। যে ব্যাখ্যাই ধরা হোক, বর্ণনাটি একটা কথা বাতিল করে দেয়: তিনি নবী হারূনের নিজের বোন ছিলেন না। বাকি ব্যাখ্যাগুলোর কোনটি উদ্দেশ্য, তা বর্ণনাটি তাফসীরকারদের আলোচনার উপরই ছেড়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Readings Firmly Refused",
+          "bn": "দুটি মত, যা নাকচ হয়েছে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reports, through Ibn Abi Hatim, that Muhammad ibn Kaʿb al-Qurazi took the words literally: she was the full sister of Harun and of Musa (AS), the sister who followed the infant Musa from a distance (28:11). Ibn Kathir calls this a sheer error. Allah says He sent ʿIsa (AS) after the messengers, so he was the last prophet sent before Muhammad ﷺ. And Dawud (AS) came after Musa (AS), as 2:246 and 2:251 show; on al-Qurazi's view ʿIsa would have come before Dawud and Sulayman.",
+            "bn": "ইবন কাসীর ইবন আবী হাতিমের সূত্রে জানান, মুহাম্মাদ ইবন কা'ব কুরাযী কথাটাকে আক্ষরিক অর্থে নিয়েছিলেন। তাঁর মতে মারইয়াম ছিলেন হারূন ও মূসা (আঃ)-এর আপন বোন, সেই বোন যিনি দূর থেকে শিশু মূসার পিছু পিছু গিয়েছিলেন (২৮:১১)। ইবন কাসীর একে বলেন নিছক ভুল। আল্লাহ জানিয়েছেন, তিনি রাসূলদের পরে ঈসা (আঃ)-কে পাঠিয়েছেন। তাই মুহাম্মাদ ﷺ-এর আগে তিনিই শেষ প্রেরিত নবী। আবার দাউদ (আঃ) এসেছেন মূসা (আঃ)-এর পরে, ২:২৪৬ আর ২:২৫১ আয়াত তা দেখায়। কুরাযীর কথা মানলে ঈসাকে দাউদ ও সুলাইমানেরও আগে ধরতে হয়।"
+          },
+          {
+            "en": "He supports the point with a hadith of al-Bukhari, which is about ʿIsa (AS) in general and not about this verse. Al-Bukhari records (3442) from Abu Hurayra: \"I heard Allah's Messenger (ﷺ) saying, 'I am the nearest of all the people to the son of Mary, and all the prophets are paternal brothers, and there has been no prophet between me and him (i.e. Jesus).'\" Ibn Kathir then explains what misled al-Qurazi: a Torah passage in which Maryam daughter of ʿImran, sister of Musa and Harun, beats the tambourine after the sea crossing.",
+            "bn": "কথাটির পক্ষে তিনি বুখারীর একটি হাদীস আনেন। হাদীসটি সাধারণভাবে ঈসা (আঃ) সম্পর্কে, এ আয়াত সম্পর্কে নয়। বুখারী (৩৪৪২) আবূ হুরাইরা (রাঃ) থেকে বর্ণনা করেন: আমি আল্লাহর রাসূল ﷺ-কে বলতে শুনেছি, মানুষের মধ্যে আমিই মারইয়ামের ছেলের সবচেয়ে নিকটজন। নবীরা সবাই এক বাবার সন্তান, ভাই ভাই। আমার আর তাঁর মাঝে কোনো নবী নেই। এরপর ইবন কাসীর ব্যাখ্যা করেন কুরাযী কোথা থেকে ভুল বুঝেছিলেন। তাওরাতের এক জায়গায় আছে, সাগর পার হওয়ার পর মূসা ও হারূনের বোন ইমরানকন্যা মারইয়াম দফ বাজাচ্ছিলেন।"
+          },
+          {
+            "en": "Al-Qurazi took that Maryam for the mother of ʿIsa, which Ibn Kathir calls a slip and a grave mistake: she merely bore the same name, for they named themselves after their prophets and righteous people. The second refused reading made Harun a notorious sinner of her time, so that the name was an insult. At-Tabari gives it under others said, without naming them; Ibn Kathir has Ibn Abi Hatim report it from Saʿid ibn Jubayr. Al-Qurtubi answers that the sound hadith refutes it, an explicit text that leaves no room for argument.",
+            "bn": "কুরাযী সেই মারইয়ামকেই ঈসা (আঃ)-এর মা ভেবে বসেছিলেন। ইবন কাসীরের ভাষায় এটা পদস্খলন ও মারাত্মক ভুল। ঈসার মা শুধু একই নাম বহন করতেন, কারণ লোকেরা তাদের নবী ও নেককারদের নামে নাম রাখত। নাকচ হওয়া দ্বিতীয় মতটি হারূনকে বানায় সে যুগের এক কুখ্যাত পাপী, যাতে নামটা হয়ে যায় গালি। তাবারী এটা আনেন 'অন্যরা বলেছেন' বলে, কারও নাম না নিয়ে। ইবন কাসীরের বর্ণনায় ইবন আবী হাতিম এটি সাঈদ ইবন জুবাইর থেকে এনেছেন। কুরতুবীর জবাব: সহীহ হাদীস এ মতকে খণ্ডন করে, আর তা এমন স্পষ্ট দলিল যার পরে কারও কোনো কথা চলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Father, a Mother, Two Denials",
+          "bn": "বাবা, মা আর দুটি অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "The second half names her parents. At-Tabari glosses imraʾa sawʾ as a man of evil who commits indecencies, and baghiyy, through as-Suddi, as a woman who commits zina. Al-Baghawi names the father as ʿImran and the mother as Hanna, and cites Ibn ʿAbbas glossing a man of evil as one who commits zina. At-Tabari also notes a point of grammar: the verse says baghiyy, not baghiyya with the feminine ending, because the word describes women only, and so behaves like haʾid, menstruating, and taliq, divorced.",
+            "bn": "আয়াতের দ্বিতীয় অংশে তাঁর বাবা-মায়ের কথা। তাবারী ইমরাআ সাওয়ের অর্থ করেন এমন খারাপ লোক, যে অশ্লীল কাজ করে। আর সুদ্দীর সূত্রে বাগিয়্যের অর্থ করেন ব্যভিচারিণী। বাগাভী বাবার নাম বলেন ইমরান, মায়ের নাম হান্না, আর ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা আনেন: খারাপ লোক মানে ব্যভিচারী। তাবারী একটি ব্যাকরণের দিকও দেখান। আরবীতে শব্দটি স্ত্রীলিঙ্গের বাড়তি চিহ্ন ছাড়াই এসেছে, কারণ এ গুণ কেবল নারীর বেলায় বলা হয়। হায়েয অবস্থার নারী বা তালাকপ্রাপ্তা নারী বোঝাতে যে শব্দ, তার মতোই এর ব্যবহার।"
+          },
+          {
+            "en": "The word has come before in this surah. When the angel brought her the news, Maryam (AS) said: how can I have a boy, when no man has touched me and I have not been baghiyy (19:20)? Her people now use against her the very word she had already denied. Ibn Kathir gives their reasoning: you are from a good and pure house, known for righteousness, worship and restraint, so how did this come from you? As-Saʿdi adds that offspring mostly follow each other in goodness and its opposite, so they marvelled, going by what was in their hearts.",
+            "bn": "শব্দটা এ সূরায় আগেও এসেছে। ফেরেশতা যখন সুসংবাদ নিয়ে এলেন, মারইয়াম (আঃ) বলেছিলেন: আমার ছেলে হবে কীভাবে, কোনো পুরুষ তো আমাকে স্পর্শ করেনি, আর আমি বাগিয়্যও নই (১৯:২০)। যে শব্দ তিনি আগেই নিজের সম্পর্কে অস্বীকার করেছিলেন, তাঁর লোকেরা এখন সেটাই তাঁর দিকে ছুড়ে দিচ্ছে। ইবন কাসীর তাদের যুক্তিটা তুলে ধরেন: তুমি তো ভালো ও পবিত্র ঘরের মেয়ে, যে ঘর নেকি, ইবাদত আর দুনিয়াবিমুখতার জন্য পরিচিত। তোমার কাছ থেকে এটা কীভাবে হলো? সা'দী যোগ করেন, ভালো-মন্দে বংশধরেরা সাধারণত একে অন্যের মতোই হয়। তাই মনে যা ছিল সে অনুযায়ী তারা অবাক হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Hint That Accuses",
+          "bn": "ইঙ্গিতে তোলা অভিযোগ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reads the shape of their sentence closely. The meaning is: neither your father nor your mother was given to such a deed, so how have you come with it? This, he says, is an insinuation that does the work of an open statement, and in his school such insinuation brings the legal penalty for slander, a matter he defers to Surat an-Nur. They never name the act. They praise her parents, and the praise itself is the charge.",
+            "bn": "কুরতুবী তাদের বাক্যের গড়নটা খুঁটিয়ে দেখেন। কথার মানে: তোমার বাবা বা মা কেউই এমন কাজের লোক ছিলেন না, তাহলে তুমি এটা নিয়ে এলে কী করে? তাঁর মতে এটা এমন ইঙ্গিত, যা খোলাখুলি বলার জায়গা নিয়ে নেয়। তাঁর মাযহাবে এমন ইঙ্গিতের জন্যও অপবাদের শরয়ী শাস্তি প্রযোজ্য। বিস্তারিত আলোচনা তিনি সূরা নূরের জন্য রেখে দেন। তারা কাজটার নাম মুখে আনে না। তারা তাঁর বাবা-মায়ের প্রশংসা করে, আর সেই প্রশংসাই হয়ে ওঠে অভিযোগ।"
+          },
+          {
+            "en": "This needs saying plainly. The verse reports what one crowd said to one innocent woman on one day, and the next verses answer it through the child in her arms. It licenses nothing against any people or community living today, nor against the descendants of those speakers, nor against the Christians of Najran, whose words were a question and received an answer. Nor does it license anyone to hint at a woman's honour through her family. Al-Qurtubi's ruling points the other way.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। একদিন একদল মানুষ এক নির্দোষ নারীকে যা বলেছিল, আয়াতটি সেটুকুই জানায়। আর পরের আয়াতগুলোতে তাঁর কোলের শিশুর মুখেই এর জবাব আসে। আজকের কোনো জাতি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। ওই বক্তাদের বংশধরদের বিরুদ্ধেও না, নাজরানের খ্রিস্টানদের বিরুদ্ধেও না। তাদের কথা ছিল একটা প্রশ্ন, আর তার জবাবও এসেছিল। পরিবারের নাম টেনে কোনো নারীর সম্মান নিয়ে ইঙ্গিত করার অনুমতিও এখানে নেই। কুরতুবীর মাসআলা বরং উল্টো কথাই বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Weight of a Good Name",
+          "bn": "ভালো নামের ভার"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an draws a lesson from the words your father was not a man of evil. When someone descended from righteous and pious forebears commits a sin, it says, the sin is graver than an ordinary person's, because it brings a bad name upon those pious elders. For that reason the descendants of the pious should make an extra effort in good deeds, and fear Allah at all times. A good family is not a shield. It is a trust carried in one's own conduct.",
+            "bn": "তোমার বাবা খারাপ লোক ছিলেন না, এ কথা থেকে মাআরিফুল কুরআন একটি শিক্ষা টানে। নেককার ও মুত্তাকী পূর্বপুরুষের বংশের কেউ গুনাহ করলে সে গুনাহ সাধারণ মানুষের গুনাহর চেয়ে ভারী হয়। কারণ তাতে ওই নেককার মুরুব্বিদের নামে বদনাম আসে। তাই নেককারদের বংশধরদের উচিত নেক আমলে বাড়তি চেষ্টা করা, আর সব সময় আল্লাহকে ভয় করা। ভালো পরিবার তাই ঢাল নয়। এটা এক আমানত, যা বইতে হয় নিজের আচরণ দিয়ে।"
+          },
+          {
+            "en": "The verse also shows that same reasoning turned the wrong way, against a woman who had done nothing. The honour you inherit binds you; it gives you no right to weigh another person's lineage against them. And the report from Najran adds a quieter lesson: al-Mughira did not answer from guesswork; he carried the question back and asked. Within a few verses, the child in her arms will call himself dutiful to his mother (19:32).",
+            "bn": "আয়াতটি আবার দেখায়, একই যুক্তি ভুল দিকে ঘুরে গেলে কী হয়। তা গিয়ে পড়ে এমন এক নারীর উপর, যিনি কিছুই করেননি। উত্তরাধিকারে পাওয়া সম্মান আপনাকে দায়বদ্ধ করে। অন্যের বংশ টেনে তাকে মাপার অধিকার তা আপনাকে দেয় না। নাজরানের বর্ণনা আরও একটা নীরব শিক্ষা দেয়। মুগীরা (রাঃ) আন্দাজে জবাব দেননি, প্রশ্নটা ফিরিয়ে এনে জিজ্ঞেস করেছিলেন। কয়েক আয়াত পরেই কোলের সেই শিশু নিজেকে বলবে মায়ের প্রতি সদয় (১৯:৩২)।"
+          }
+        ]
+      }
+    ]
+  },
   "19:31": {
     "sections": [
       {
