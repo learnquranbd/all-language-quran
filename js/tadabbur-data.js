@@ -34083,6 +34083,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let your call to prayer and giving begin at home, kept up as a habit and backed by your own practice, and seek your Lord's pleasure in it.",
     "lessonBn": "নামায আর দানের ডাক শুরু করুন নিজের ঘর থেকে। তা চালু রাখুন অভ্যাস হিসেবে, নিজের আমল দিয়ে তাকে সত্য করুন, আর এর মধ্যে খুঁজুন রবের সন্তুষ্টি।"
+  },
+  "19:45": {
+    "reflectionEn": "Four times the son begins with O my father, and the fourth time he speaks of fear. Not contempt, not a verdict: I fear that a punishment from the Most Merciful will touch you, and you will end up as Satan's ally. He does not hide the danger to spare his father's feelings, and he does not use it to win the argument. He names the One who would punish by His name of mercy, and he names the end while it can still be turned from. Every reading of the sentence carries an if inside it: if you stay where you are. Fear spoken like this is love that refuses to flatter. When I warn someone I love, do they hear fear for them, or judgement of them?",
+    "reflectionBn": "চারবার ছেলে কথা শুরু করেন 'হে আমার পিতা' বলে, আর চতুর্থবার মুখে আনেন ভয়ের কথা। তাতে তাচ্ছিল্য নেই, রায়ও নেই। তিনি বলেন: আমার ভয় হয়, দয়াময়ের কাছ থেকে কোনো শাস্তি আপনাকে ছুঁয়ে ফেলবে, আর আপনি হয়ে যাবেন শয়তানের সঙ্গী। পিতার মন রাখতে তিনি বিপদের কথা চেপে যান না, আবার তর্কে জেতার জন্যও বিপদটাকে হাতিয়ার বানান না। যিনি শাস্তি দেবেন, তাঁকে তিনি ডাকেন তাঁর রহমতের নামে। আর পরিণামের কথা বলেন এমন সময়ে, যখন তা থেকে ফেরা এখনো সম্ভব। বাক্যটা যেভাবেই পড়া হোক, ভেতরে একটা শর্ত থেকে যায়: যদি আপনি যেখানে আছেন সেখানেই থেকে যান। এমন ভয় আসলে ভালোবাসা, যে তোষামোদ করতে রাজি নয়। প্রিয় কাউকে সাবধান করলে সে কি আমার কথায় তার জন্য ভয় শোনে, নাকি তার উপর রায়?",
+    "pointsEn": [
+      "The last time I warned someone close to me, did my words carry fear for them or the satisfaction of being right?",
+      "When I speak of Allah's punishment, do I leave His mercy out of the picture, or keep both in view as this verse does?",
+      "Whose company am I drifting into through small acts of obedience, and where does that company lead in the end?",
+      "Is there a warning I have left unsaid to someone I love because I was afraid of how they would answer?",
+      "Have I quietly written someone off, as though the if in their story had already been settled?"
+    ],
+    "pointsBn": [
+      "শেষবার কাছের কাউকে সাবধান করার সময় আমার কথায় কী ছিল: তার জন্য ভয়, নাকি নিজে ঠিক থাকার তৃপ্তি?",
+      "আল্লাহর শাস্তির কথা বলতে গিয়ে আমি কি তাঁর রহমতকে আড়ালে ফেলে দিই, নাকি এ আয়াতের মতো দুটোকেই সামনে রাখি?",
+      "ছোট ছোট আনুগত্যের ভেতর দিয়ে আমি কার সঙ্গের দিকে গড়িয়ে যাচ্ছি, আর সে সঙ্গ শেষ পর্যন্ত কোথায় নিয়ে যায়?",
+      "প্রিয় কাউকে কোনো সতর্কবার্তা কি শুধু তার জবাবের ভয়ে এখনো বলা হয়নি?",
+      "কাউকে কি মনে মনে বাদের খাতায় তুলে দিয়েছি, যেন তার জীবনের 'যদি'টার মীমাংসা হয়ে গেছে?"
+    ],
+    "lessonEn": "Warn the people you love as one who fears for them, not one who has judged them: name the danger plainly, and leave the way back open.",
+    "lessonBn": "প্রিয়জনকে সাবধান করুন তার জন্য ভয় নিয়ে, তার উপর রায় দিয়ে নয়। বিপদের কথা স্পষ্ট বলুন, আর ফেরার পথ খোলা রাখুন।"
   }
 };
 

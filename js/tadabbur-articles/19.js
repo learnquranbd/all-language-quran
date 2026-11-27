@@ -2239,6 +2239,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:45": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Last of Four Appeals",
+          "bn": "চার আবেদনের শেষটি"
+        },
+        "p": [
+          {
+            "en": "Ya abati, inni akhafu an yamassaka 'adhabun mina r-Rahmani fa-takuna li-sh-shaytani waliyya: O my father, I fear that a punishment from the Most Merciful will touch you, and you will become an ally of Satan. This is the fourth sentence of Ibrahim's (AS) address to his father, and like the three before it, in 19:42 to 19:44, it opens with ya abati. The article on 19:43 and 19:44 covers that call. This verse is where the address ends; in 19:46 the father answers it with a threat.",
+            "bn": "ইয়া আবাতি, ইন্নী আখাফু আঁই ইয়ামাসসাকা আযাবুম মিনার রহমানি ফাতাকূনা লিশ শাইতানি ওয়ালিয়্যা: হে আমার পিতা, আমার ভয় হয়, দয়াময়ের কাছ থেকে কোনো শাস্তি আপনাকে ছুঁয়ে ফেলবে, আর আপনি হয়ে যাবেন শয়তানের বন্ধু। পিতার উদ্দেশে ইবরাহীম (আঃ)-এর কথার এটি চতুর্থ বাক্য। আগের তিনটির মতো, ১৯:৪২ থেকে ১৯:৪৪ আয়াতে, এটিও শুরু হয়েছে ইয়া আবাতি দিয়ে। ওই ডাকের আলোচনা আছে ১৯:৪৩ ও ১৯:৪৪-এর প্রবন্ধে। এই আয়াতে এসে কথা শেষ হয়। ১৯:৪৬ আয়াতে পিতা তার জবাব দেয় হুমকি দিয়ে।"
+          },
+          {
+            "en": "As-Sa'di, on this verse, finds an order in the whole address. Ibrahim (AS), he says, led his father on by degrees, from the easiest to the next easiest. He told him of the knowledge he had been given, which obliged the father to follow him to a straight road. Then he forbade him the worship of Satan and told him the harm in it. Only then did he warn him of Allah's punishment and vengeance if he stayed as he was, and that he would become Satan's ally.",
+            "bn": "এই আয়াতে এসে সা'দী গোটা আলাপের ভেতরে একটা ক্রম খুঁজে পান। তাঁর ভাষায়, ইবরাহীম (আঃ) পিতাকে ধাপে ধাপে এগিয়ে নিয়েছেন, সহজ থেকে তার পরের সহজে। প্রথমে জানিয়েছেন তাঁকে দেওয়া জ্ঞানের কথা। বলেছেন, এ জ্ঞানের দাবি হলো পিতা তাঁর অনুসরণ করবেন, আর কথা মানলে সরল পথ পাবেন। এরপর শয়তানের ইবাদত করতে নিষেধ করেছেন, আর তাতে কী ক্ষতি, তা বুঝিয়ে বলেছেন। সবশেষে সাবধান করেছেন: এ অবস্থায় অটল থাকলে আল্লাহর শাস্তি ও প্রতিশোধ নেমে আসবে, আর তিনি হয়ে যাবেন শয়তানের বন্ধু।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, on 19:42 to 19:46, reads the same order. In the third and fourth sentences, it says, he warned his father against the divine wrath that would fall on him as the punishment for unbelief and idolatry. Ma'arif also observes that the whole address holds not a single word that could hurt the father's feelings, and that words such as infidel or sinner were carefully avoided. That holds here too, at its hardest point.",
+            "bn": "মাআরিফুল কুরআন ১৯:৪২ থেকে ১৯:৪৬ আয়াতের আলোচনায় একই ক্রম দেখে। তার কথায়, তৃতীয় ও চতুর্থ বাক্যে তিনি পিতাকে সেই আল্লাহর গজব থেকে সাবধান করেছেন, কুফর ও মূর্তিপূজার শাস্তি হিসেবে যা তার উপর নেমে আসত। মাআরিফ আরও লক্ষ করে, গোটা আলাপে পিতার মনে আঘাত দেওয়ার মতো একটি শব্দও নেই, কাফির বা গুনাহগারের মতো শব্দ সযত্নে এড়ানো হয়েছে। সবচেয়ে কঠিন এই জায়গাতেও কথাটা খাটে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear That Means Knowing",
+          "bn": "যে ভয়ের মানে জানা"
+        },
+        "p": [
+          {
+            "en": "Inni akhafu: I fear. At-Tabari does not take the verb as a doubt. He paraphrases: O my father, I know that if you die upon the worship of Satan, a punishment from among the punishments of Allah will touch you. Then he states the point outright. Fear in this place means knowledge, he says, just as khashya, dread, means knowledge in the words of Surat al-Kahf, fa-khashina an yurhiqahuma tughyanan wa kufra, in 18:80: and we feared that he would burden them with transgression and disbelief.",
+            "bn": "ইন্নী আখাফু: আমার ভয় হয়। তাবারী এ ক্রিয়াকে সন্দেহ হিসেবে নেন না। তাঁর ব্যাখ্যা: হে আমার পিতা, আমি জানি, আপনি যদি শয়তানের ইবাদতের উপর মারা যান, তবে আল্লাহর শাস্তিগুলোর একটি আপনাকে ছুঁয়ে ফেলবে। এরপর তিনি কথাটা সরাসরি বলেন। তাঁর মতে এখানে ভয় মানে জ্ঞান। ঠিক যেমন সূরা কাহফের ১৮:৮০ আয়াতে খাশইয়া, অর্থাৎ আশঙ্কা, মানে জ্ঞান: ফাখাশীনা আঁই ইউরহিকাহুমা তুগইয়ানাও ওয়া কুফরা, আমরা আশঙ্কা করলাম যে সে তাদের দুজনকে অবাধ্যতা ও কুফরে জড়িয়ে ফেলবে।"
+          },
+          {
+            "en": "Al-Baghawi gives the same gloss in a single word: akhafu, that is, a'lamu, I know. Tanwir al-Miqbas, the commentary circulated under Ibn Abbas's name, read on quranx, does the same: I fear, meaning I know. On this reading the son is not guessing at where his father's road goes. He is telling him something he has been taught, and the verse sits close to his words two verses earlier in 19:43: there has come to me of knowledge what has not come to you.",
+            "bn": "বাগাভী একই ব্যাখ্যা দেন এক শব্দে: আখাফু, মানে আ'লামু, আমি জানি। ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাস, কুরআনএক্স-এ পড়া, একই কথা বলে: আমার ভয় হয়, অর্থাৎ আমি জানি। এ পাঠে ছেলে আন্দাজে বলছেন না পিতার পথ কোথায় গিয়ে ঠেকবে। তাঁকে যা শেখানো হয়েছে, সেটাই জানাচ্ছেন। দুই আয়াত আগে ১৯:৪৩-এ তিনি বলেছিলেন, আমার কাছে এমন জ্ঞান এসেছে যা আপনার কাছে আসেনি। এ আয়াত সেই কথার খুব কাছাকাছি।"
+          },
+          {
+            "en": "Al-Qurtubi keeps both readings open. He first gives the condition, if you die on what you are on, and then the gloss that akhafu means a'lamu. But it is also permissible, he says, for akhafu to keep its own sense, so that the meaning is: I fear that you will die in your unbelief and the punishment will touch you. The Muyassar and al-Jalalayn keep the plain verb, I fear. So the commentators divide: at-Tabari, al-Baghawi and Tanwir read knowledge, the Muyassar and al-Jalalayn read fear, and al-Qurtubi allows both.",
+            "bn": "কুরতুবী দুটো পাঠই খোলা রাখেন। প্রথমে শর্তটা বলেন: আপনি যে অবস্থায় আছেন, তার উপর যদি মারা যান। তারপর সেই ব্যাখ্যা দেন যে আখাফু মানে আ'লামু। কিন্তু তিনি এটাও বলেন, আখাফু নিজের অর্থে থাকতে পারে। তখন অর্থ দাঁড়ায়: আমার ভয় হয়, আপনি কুফরের উপর মারা যাবেন আর শাস্তি আপনাকে ছুঁয়ে ফেলবে। মুয়াসসার আর জালালাইন সাদামাটা ক্রিয়াটাই রাখে: আমার ভয় হয়। ফলে মত ভাগ হয়ে যায়। তাবারী, বাগাভী ও তানবীর পড়েন জ্ঞান, মুয়াসসার ও জালালাইন পড়ে ভয়, আর কুরতুবী দুটোই মেনে নেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Gloss Adds an If",
+          "bn": "প্রতিটি ব্যাখ্যায় একটি যদি"
+        },
+        "p": [
+          {
+            "en": "Whichever way the verb is read, no commentator lets the sentence stand without a condition. At-Tabari: if you die upon the worship of Satan. Al-Qurtubi: if you die on what you are on. Al-Baghawi: if you remain in unbelief. The Muyassar: that you die in your unbelief. Al-Jalalayn: if you do not repent. Tanwir al-Miqbas: if you do not believe in Him. Even those who read the verb as I know make the son know a consequence, not a fate: what follows if his father dies as he is now.",
+            "bn": "ক্রিয়াটি যেভাবেই পড়া হোক, কোনো তাফসীরকারই বাক্যটিকে শর্ত ছাড়া রেখে দেন না। তাবারী: যদি শয়তানের ইবাদতের উপর মারা যান। কুরতুবী: যে অবস্থায় আছেন, তার উপর যদি মারা যান। বাগাভী: যদি কুফরে অটল থাকেন। মুয়াসসার: যদি কুফরের উপর আপনার মৃত্যু হয়। জালালাইন: যদি তওবা না করেন। তানবীরুল মিকবাস: যদি তাঁর উপর ঈমান না আনেন। যাঁরা ক্রিয়াটিকে 'আমি জানি' অর্থে পড়েন, তাঁরাও ছেলেকে পরিণতির জ্ঞান দেন, ভাগ্যের নয়। তিনি জানেন, পিতা এখন যেমন আছেন তেমন অবস্থায় মারা গেলে কী ঘটবে।"
+          },
+          {
+            "en": "Ibn Kathir and as-Sa'di name the cause rather than the condition. Ibn Kathir: on account of your shirk and your disobedience to what I command you. As-Sa'di: because of your persisting in unbelief and going on in transgression. Both put the weight on what the father keeps doing, not on who he is. The verse itself has no if in it; the commentators supply it, and they agree on where it falls. A warning given to a living man is given while his road can still turn, and that is why it is worth giving.",
+            "bn": "ইবন কাসীর আর সা'দী শর্তের বদলে কারণটা বলেন। ইবন কাসীর: আপনার শিরকের কারণে, আর আমি যা বলি তা না মানার কারণে। সা'দী: কুফরে আপনার জেদ ধরে থাকা আর সীমালঙ্ঘনে এগিয়ে চলার কারণে। দুজনেই জোর দেন পিতা যা করে চলেছেন তার উপর, তিনি কে তার উপর নয়। আয়াতের শব্দে কোনো 'যদি' নেই। তাফসীরকারেরা সেটা যোগ করেন, আর কোথায় বসবে তা নিয়ে তাঁরা একমত। জীবিত মানুষকে সাবধান করা হয় এমন সময়ে, যখন তার পথ এখনো ঘুরতে পারে। এ কারণেই সাবধান করাটা অর্থবহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Punishment Named With Mercy",
+          "bn": "রহমতের নামে শাস্তির কথা"
+        },
+        "p": [
+          {
+            "en": "'Adhabun mina r-Rahman: a punishment from the Most Merciful. The verse before had said that Satan has ever been disobedient to ar-Rahman, and this verse keeps the name. As-Sa'di, on 19:44, gives his reading of that first pairing: tying the disobedience to the name of mercy signals that sins keep the servant from Allah's mercy and shut its doors on him, just as obedience is the greatest means of attaining it. The article on 19:43 and 19:44 sets that out. Here the same name stands beside the punishment itself.",
+            "bn": "আযাবুম মিনার রহমান: দয়াময়ের কাছ থেকে শাস্তি। আগের আয়াতে বলা হয়েছিল, শয়তান বরাবরই রহমানের অবাধ্য। এ আয়াতেও নামটা রয়ে গেছে। প্রথম জোড়াটির ব্যাখ্যা সা'দী দেন ১৯:৪৪-এ। তাঁর মতে অবাধ্যতাকে রহমতের নামের সঙ্গে জুড়ে দেওয়া ইঙ্গিত দেয় যে গুনাহ বান্দাকে আল্লাহর রহমত থেকে আটকে রাখে, তার দরজাগুলো বন্ধ করে দেয়। ঠিক যেমন আনুগত্য সে রহমত পাওয়ার সবচেয়ে বড় উপায়। ১৯:৪৩ ও ১৯:৪৪-এর প্রবন্ধে সে আলোচনা আছে। এখানে সেই নামই দাঁড়িয়ে আছে শাস্তির পাশে।"
+          },
+          {
+            "en": "On 19:45 itself the commentators fetched do not stop over the name. At-Tabari paraphrases it away: a punishment from among the punishments of Allah. Al-Jalalayn renders it the Compassionate One and Tanwir al-Miqbas the Beneficent, without comment. No commentary read for this verse gives a reason for the pairing, and this article will not supply one. The son does not reach for a harsher name to frighten his father. He speaks of punishment and of mercy in one breath, and leaves his father to hear both.",
+            "bn": "১৯:৪৫ আয়াতে এসে পড়া তাফসীরগুলো নামটা নিয়ে থামে না। তাবারী নামটা নিজের ব্যাখ্যায় রাখেনই না, বলেন: আল্লাহর শাস্তিগুলোর একটি। জালালাইন একে বলে পরম দয়ালু, তানবীরুল মিকবাস বলে পরম করুণাময়, কোনো মন্তব্য ছাড়াই। এ আয়াতের জন্য পড়া কোনো তাফসীর এই জোড়ার কারণ বলে না, আর এ প্রবন্ধও নিজে থেকে কারণ বানাবে না। পিতাকে ভয় দেখাতে ছেলে কোনো কঠোর নাম বেছে নেন না। এক নিঃশ্বাসে তিনি শাস্তির কথা বলেন, রহমতের নামও নেন, আর দুটোই শোনার ভার রেখে দেন পিতার উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Comrade, Ally or Patron",
+          "bn": "সঙ্গী, মিত্র, না অভিভাবক"
+        },
+        "p": [
+          {
+            "en": "Fa-takuna li-sh-shaytani waliyya: so that you become, to Satan, a waliyy. The commentators give the word more than one face, and they part ways over when the closeness comes. Al-Qurtubi, al-Baghawi and the Muyassar gloss it alike: a qarin, a companion, in the Fire. Tanwir al-Miqbas has a companion of the devil in hell, and al-Jalalayn an assistant and a comrade of his in the Fire. On this reading the verse runs in sequence: the punishment touches him, and then he ends beside the one he obeyed.",
+            "bn": "ফাতাকূনা লিশ শাইতানি ওয়ালিয়্যা: ফলে আপনি হয়ে যাবেন শয়তানের ওয়ালী। শব্দটির একাধিক চেহারা তাফসীরকারেরা দেখান, আর এই ঘনিষ্ঠতা কখন আসে, তা নিয়ে তাঁদের পথ আলাদা হয়ে যায়। কুরতুবী, বাগাভী ও মুয়াসসারের ব্যাখ্যা একই: জাহান্নামে কারীন, অর্থাৎ সঙ্গী। তানবীরুল মিকবাস বলে, জাহান্নামে শয়তানের সাথি। জালালাইন বলে, জাহান্নামে তার সহযোগী ও সঙ্গী। এ পাঠে আয়াতটি ধাপে ধাপে চলে। আগে শাস্তি তাঁকে ছোঁয়, তারপর তিনি গিয়ে পৌঁছান তারই পাশে, যার কথা তিনি মেনে চলেছিলেন।"
+          },
+          {
+            "en": "Ibn Kathir reads it as patronage. Then you will have no protector, no helper and no rescuer but Iblis, he paraphrases, and neither he nor anyone else has any say in the matter; rather, your following him is what makes the punishment surround you. At-Tabari: you will be his ally apart from Allah, and Allah will disown you, and you will perish. As-Sa'di widens it to both worlds: an ally in this world and the next, so that you come down in his blameworthy stations and graze in his unwholesome pastures.",
+            "bn": "ইবন কাসীর একে পড়েন অভিভাবকত্ব হিসেবে। তাঁর ব্যাখ্যায়: তখন ইবলীস ছাড়া আপনার কোনো অভিভাবক থাকবে না, কোনো সাহায্যকারী থাকবে না, বিপদে ডাক শোনার কেউ থাকবে না। অথচ বিষয়টায় তার বা অন্য কারও কোনো হাত নেই। বরং তার অনুসরণই শাস্তিকে আপনার চারপাশ ঘিরে ফেলার কারণ হবে। তাবারী বলেন: আল্লাহকে বাদ দিয়ে আপনি হবেন তার বন্ধু, আল্লাহ আপনার থেকে দায়মুক্ত হবেন, আর আপনি ধ্বংস হবেন। সা'দী একে দুই জগতে ছড়িয়ে দেন: দুনিয়া ও আখিরাত, দুই জায়গাতেই তার বন্ধু। ফলে আপনি নামবেন তার নিন্দিত ঠিকানাগুলোতে, চরে বেড়াবেন তার অশুভ চারণভূমিতে।"
+          },
+          {
+            "en": "The readings place the weight differently. For the first group the waliyy is the companion of the end, met in the Fire. For Ibn Kathir and at-Tabari it is the patron a man chooses in place of Allah, who turns out to own nothing. For as-Sa'di the bond begins now and carries on after death. The commentators fetched here set them side by side without ranking them. This article leaves them there, as they leave them.",
+            "bn": "পাঠগুলো জোর দেয় আলাদা আলাদা জায়গায়। প্রথম দলের কাছে ওয়ালী হলো শেষ পরিণতির সঙ্গী, যার দেখা মিলবে জাহান্নামে। ইবন কাসীর ও তাবারীর কাছে সে এমন অভিভাবক, যাকে মানুষ আল্লাহর জায়গায় বেছে নেয়, অথচ শেষে দেখা যায় তার হাতে কিছুই নেই। সা'দীর কাছে বন্ধনটা শুরু হয় এখনই, আর মৃত্যুর পরেও চলতে থাকে। এখানে পড়া তাফসীরগুলো এগুলো পাশাপাশি রাখে, কোনোটিকে উপরে তোলে না। এ প্রবন্ধও তাদের মতোই সেগুলো পাশাপাশি রেখে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Protector Who Owns Nothing",
+          "bn": "যে অভিভাবকের হাতে কিছু নেই"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir supports his reading with 16:63: by Allah, We sent messengers to nations before you, but Satan made their deeds seem fair to them, so he is their waliyy today, and theirs is a painful punishment. There, as in 19:45, Satan taken for patron and a punishment stand together. Ibn Kathir's gloss draws out the bitterness of the choice. The protector relied on has no power over the outcome at all, and following him only brings the punishment closer.",
+            "bn": "নিজের পাঠের সমর্থনে ইবন কাসীর আনেন ১৬:৬৩: আল্লাহর কসম, আপনার আগেও আমি বহু জাতির কাছে রসূল পাঠিয়েছি, কিন্তু শয়তান তাদের কাজগুলো তাদের চোখে সুন্দর করে দেখিয়েছে। তাই আজ সে-ই তাদের ওয়ালী, আর তাদের জন্য আছে যন্ত্রণাদায়ক শাস্তি। ১৯:৪৫-এর মতো সেখানেও দুটো জিনিস পাশাপাশি: অভিভাবক হিসেবে ধরা শয়তান, আর শাস্তি। ইবন কাসীরের ব্যাখ্যা এ বেছে নেওয়ার তিক্ততাটা খুলে দেখায়। যাকে রক্ষক ভেবে ভরসা করা হলো, পরিণামের উপর তার কোনো ক্ষমতাই নেই। তার পেছনে চললে শাস্তি কেবল আরও কাছে আসে।"
+          },
+          {
+            "en": "As-Sa'di, on the verse before, had already named the first step: whoever follows Satan's footsteps has taken him as a waliyy, and has become, like him, disobedient to Allah. Read beside that, 19:45 shows where the step leads. Ibn Kathir, in the abridged English on 19:41 to 19:45, has the son say: do not follow him, or you will become like him. Maududi, on quranx, notes that the father did not worship Satan as he worshipped idols; he followed and obeyed him. The closeness grew by obedience, without ever being chosen by name.",
+            "bn": "আগের আয়াতে সা'দী প্রথম ধাপটার নাম আগেই বলে দিয়েছিলেন: যে শয়তানের পদচিহ্ন ধরে চলে, সে তাকে ওয়ালী বানিয়ে নিয়েছে, আর তারই মতো আল্লাহর অবাধ্য হয়ে গেছে। সে কথার পাশে রাখলে ১৯:৪৫ দেখায়, ধাপটা কোথায় গিয়ে শেষ হয়। ১৯:৪১ থেকে ১৯:৪৫ আয়াতের আলোচনায় ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ছেলের মুখে বলায়: তার অনুসরণ করবেন না, করলে তার মতোই হয়ে যাবেন। কুরআনএক্স-এ মওদূদী লক্ষ করেন, মূর্তির যেভাবে পূজা হতো, পিতা শয়তানের সেভাবে পূজা করেননি। তিনি তার পেছনে চলেছেন, তার কথা মেনেছেন। ঘনিষ্ঠতাটা বেড়েছে আনুগত্যের পথ ধরে, নাম ধরে কখনো বেছে নেওয়া ছাড়াই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Met the Warning",
+          "bn": "সতর্কবার্তার জবাবে যা এল"
+        },
+        "p": [
+          {
+            "en": "In 19:46 the father asks whether his son is turning away from his gods, threatens to stone him, and tells him to keep away for a long while. Ma'arif sets this against the son's repeated ya abati: tenderness that should have drawn a tender my dear son, and instead he called him by his bare name. In 19:47 Ibrahim (AS) answers with peace and a promise to ask his Lord's forgiveness for him. 9:114 says that this asking was only because of a promise he had made. The article on 19:43 and 19:44 follows that thread.",
+            "bn": "১৯:৪৬ আয়াতে পিতা জানতে চায়, ছেলে কি তার দেবতাদের থেকে মুখ ফিরিয়ে নিচ্ছে। পাথর মেরে হত্যার হুমকি দেয়, আর বলে দীর্ঘ সময়ের জন্য দূরে সরে যেতে। মাআরিফ এর পাশে রাখে ছেলের বারবার বলা ইয়া আবাতি। এমন কোমল ডাকের জবাবে আসা উচিত ছিল স্নেহের 'ইয়া বুনাইয়া, আমার বাছা'। অথচ পিতা তাঁকে ডাকল শুধু নাম ধরে। ১৯:৪৭ আয়াতে ইবরাহীম (আঃ) জবাব দেন সালাম দিয়ে, আর রবের কাছে পিতার জন্য ক্ষমা চাওয়ার কথা দিয়ে। ৯:১১৪ বলে, তাঁর সেই ক্ষমা চাওয়া ছিল কেবল একটি প্রতিশ্রুতির কারণে। ১৯:৪৩ ও ১৯:৪৪-এর প্রবন্ধ সে সূত্র ধরে এগিয়েছে।"
+          },
+          {
+            "en": "Maududi, on the quranx page for 19:41 to 19:45, reads the passage as turned towards the people of Makkah, who had forced their own near relatives to leave their homes, just as Ibrahim (AS) was driven out by his own father and kin. The story was chosen, he says, because the Quraysh claimed Ibrahim as their religious leader and were proud to descend from him. On that reading the warning was recited to a city where fathers and sons stood on opposite sides.",
+            "bn": "১৯:৪১ থেকে ১৯:৪৫ আয়াতের কুরআনএক্স পাতায় মওদূদী বলেন, এখান থেকে কথাটা ফিরেছে মক্কার লোকদের দিকে। তারা নিজেদের আপনজনদেরই ঘরছাড়া হতে বাধ্য করেছিল, যেমন ইবরাহীম (আঃ)-কে তাঁর নিজের পিতা ও স্বজনেরা তাড়িয়ে দিয়েছিল। তাঁর মতে এ কাহিনি বেছে নেওয়ার কারণ, কুরাইশরা ইবরাহীমকে নিজেদের ধর্মীয় নেতা বলে মানত, আর তাঁর বংশধর হওয়া নিয়ে গর্ব করত। এ পাঠ ধরলে ছেলের সতর্কবার্তা পড়ে শোনানো হচ্ছিল এমন এক শহরে, যেখানে বাবা আর ছেলে দাঁড়িয়ে ছিল দুই বিপরীত শিবিরে।"
+          },
+          {
+            "en": "No commentator fetched on 19:45 attaches a hadith or an occasion of revelation to it. One sound narration, not attached to this verse, shows the same father and son on the Day of Resurrection: al-Bukhari 3350, from Abu Huraira, in which Ibrahim (AS) asks his father whether he had not told him not to disobey him. Its full wording, from the fetched page, is given in the article on 19:43 and 19:44, and its grading is its place in al-Bukhari's Sahih.",
+            "bn": "১৯:৪৫-এর জন্য পড়া কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস বা শানে নুযূল জোড়ে না। এ আয়াতের সঙ্গে যুক্ত নয়, এমন একটি সহীহ বর্ণনায় একই পিতা-পুত্রকে দেখা যায় কিয়ামতের দিন। সেটি বুখারী ৩৩৫০, আবু হুরায়রা (রাঃ) থেকে। তাতে ইবরাহীম (আঃ) পিতাকে জিজ্ঞেস করেন, আমি কি আপনাকে বলিনি যে আমার অবাধ্য হবেন না? সংগৃহীত পাতা থেকে তার পূর্ণ ভাষ্য দেওয়া আছে ১৯:৪৩ ও ১৯:৪৪-এর প্রবন্ধে। তার মানের প্রমাণ বুখারীর সহীহ গ্রন্থে তার স্থান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear Without a Sneer",
+          "bn": "তাচ্ছিল্যহীন ভয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes one father in one story, and the son who speaks is a prophet who had been given knowledge. It gives no licence to speak to any living parent, relative or neighbour as though their end were already known, and no licence to treat a parent with disrespect in the name of truth. It describes what it describes and licenses nothing against any living person or community. Even in this sentence, at the hardest point of the address, the son keeps calling his father father.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি কাহিনির একজন পিতার কথা বলে, আর যে ছেলে কথা বলছেন, তিনি এমন একজন নবী যাঁকে জ্ঞান দেওয়া হয়েছিল। কোনো জীবিত মা-বাবা, আত্মীয় বা প্রতিবেশীর সঙ্গে এমনভাবে কথা বলার অনুমতি এ আয়াত দেয় না, যেন তাদের পরিণতি জানা হয়ে গেছে। সত্যের দোহাই দিয়ে মা-বাবার সঙ্গে বেয়াদবির অনুমতিও দেয় না। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না। আলাপের সবচেয়ে কঠিন এই বাক্যেও ছেলে পিতাকে ডেকে চলেন পিতা বলেই।"
+          },
+          {
+            "en": "What the verse does offer is a shape for a hard warning. It opens with the bond, ya abati. It says I fear before it says punishment. It names the danger without softening it: a punishment, and closeness to Satan. It ties the danger to what the listener keeps doing, not to who he is. And it calls the One who punishes by His name of mercy. The father's reply in 19:46 shows that even such words can be refused. They are still the words to begin with.",
+            "bn": "আয়াতটি যা দেয়, তা হলো কঠিন সতর্কবার্তার একটা গড়ন। শুরু হয় সম্পর্ক দিয়ে, ইয়া আবাতি। শাস্তির কথার আগে আসে 'আমার ভয় হয়'। বিপদের কথা নরম করা হয় না: শাস্তি আছে, আছে শয়তানের ঘনিষ্ঠতা। বিপদটাকে জোড়া হয় শ্রোতা যা করে চলেছে তার সঙ্গে, সে কে তার সঙ্গে নয়। আর যিনি শাস্তি দেবেন, তাঁকে ডাকা হয় তাঁর রহমতের নামে। ১৯:৪৬-এ পিতার জবাব দেখায়, এমন কথাও ফিরিয়ে দেওয়া যায়। তবু শুরু করতে হয় এমন কথা দিয়েই।"
+          }
+        ]
+      }
+    ]
+  },
   "19:49": {
     "sections": [
       {
