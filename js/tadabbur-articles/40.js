@@ -1967,6 +1967,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "40:37": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Boast, Then a Reply",
+          "bn": "দম্ভের কথা, তারপর জবাব"
+        },
+        "p": [
+          {
+            "en": "Asbaba s-samawati fa-attali'a ila ilahi Musa wa-inni la-azunnuhu kadhiba: the ways of the heavens, so that I may look upon the God of Musa, and I think him a liar. The verse opens in the middle of a sentence. Fir'awn began it in 40:36 with his order to Haman to build him a sarh, a tower, and that verse's article takes up the tower, the meaning of asbab and the two readings of the verb. This one follows the rest of his sentence, and what is then said about him.",
+            "bn": "আসবাবাস সামাওয়াতি ফাআত্তালি'আ ইলা ইলাহি মূসা ওয়া ইন্নী লাআযুন্নুহু কাযিবা: আসমানের পথগুলো, যাতে আমি মূসার ইলাহকে উঁকি দিয়ে দেখতে পারি, আর আমি তো তাকে মিথ্যাবাদীই মনে করি। আয়াতটা শুরু হয় একটা বাক্যের মাঝখান থেকে। বাক্যের শুরু ৪০:৩৬-এ, যেখানে ফিরআউন হামানকে হুকুম দেয় তার জন্য সারহ, মানে উঁচু ইমারত বানাতে। ইমারত, আসবাব শব্দের অর্থ আর ক্রিয়াটির দুই পাঠ নিয়ে কথা হয়েছে ওই আয়াতের প্রবন্ধে। এখানে আমরা দেখব তার বাক্যের বাকিটা, আর তারপর তার সম্পর্কে কী বলা হয়।"
+          },
+          {
+            "en": "The verse holds two voices. Up to kadhiba the words are Fir'awn's. At wa-kadhalika, and thus, the commentators hear another speaker. At-Tabari opens the clause with: Allah, exalted be His mention, says. Ibn Kathir writes: Allah the Exalted said. As-Sa'di introduces it as Allah explaining what drove Fir'awn to say what he said. So a king's announcement of what he will find stands beside the Qur'an's statement of what became of him. Read that way, the clauses after the turn answer the clauses before it.",
+            "bn": "আয়াতে দুটি কণ্ঠ। কাযিবা পর্যন্ত কথাগুলো ফিরআউনের। ওয়া কাযালিকা, মানে আর এভাবেই, এখান থেকে তাফসীরকারেরা আরেকজন বক্তার কথা শোনেন। তাবারী অংশটা শুরু করেন এই বলে: আল্লাহ তা'আলা বলছেন। ইবন কাসীর লেখেন: আল্লাহ তা'আলা বললেন। সা'দী একে দেখেন এভাবে: ফিরআউনকে কিসে এ কথা বলতে প্ররোচিত করেছিল, আল্লাহ তা খুলে বলছেন। তাহলে এক পাশে রাজার ঘোষণা, সে কী খুঁজে পাবে। অন্য পাশে কুরআনের বিবরণ, তার শেষমেশ কী হয়েছিল। এভাবে পড়লে মোড়ের পরের অংশগুলো আগের অংশগুলোর জবাব হয়ে দাঁড়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Judged Before Anything Was Built",
+          "bn": "ইট গাঁথার আগেই রায়"
+        },
+        "p": [
+          {
+            "en": "Wa-inni la-azunnuhu kadhiba: and I think him a liar. The order of the sentence is worth slowing down for. Fir'awn has just given his reason for the building: to look upon the God of Musa. In the same breath, before anything has been built, he announces the result. The words carry emphasis, inni and then la-, so the doubt is spoken with confidence. A man who truly meant to look would wait to see what he found. Fir'awn has already decided what he will report.",
+            "bn": "ওয়া ইন্নী লাআযুন্নুহু কাযিবা: আর আমি তো তাকে মিথ্যাবাদীই মনে করি। বাক্যের সাজানোটা একটু থেমে দেখার মতো। ইমারতের কারণ ফিরআউন এইমাত্র বলেছে: মূসার ইলাহকে উঁকি দিয়ে দেখা। সেই একই নিঃশ্বাসে, কিছু বানানোর আগেই, সে ফলাফল ঘোষণা করে দেয়। কথাগুলোতে জোর আছে, প্রথমে ইন্নী, তারপর লা। ফলে সন্দেহের কথাটাও সে বলে পুরো আত্মবিশ্বাস নিয়ে। যে সত্যিই দেখতে চায়, সে দেখার পর কী পেল তার অপেক্ষা করে। ফিরআউন কী জানাবে, তা আগেই ঠিক করে রেখেছে।"
+          },
+          {
+            "en": "Ibn Kathir names what lies under the sentence: this is from his disbelief and his defiance, that he called Musa (AS) a liar in his claim that Allah had sent him to him. As-Sa'di puts the stated motive more generously, as Fir'awn presented it: he wanted to be careful and test the matter for himself. Then as-Sa'di at once turns to the clause that follows as Allah's own account of what really carried him to these words. The professed caution and the real cause sit a few words apart.",
+            "bn": "বাক্যের নিচে কী আছে, ইবন কাসীর তার নাম বলে দেন: এটা তার কুফরি আর অবাধ্যতা থেকে এসেছে। আল্লাহ মূসা (আঃ)-কে তার কাছে পাঠিয়েছেন, এই দাবিতে সে তাঁকে মিথ্যাবাদী বলেছিল। সা'দী ফিরআউনের ঘোষিত উদ্দেশ্যটা তুলে ধরেন সে যেভাবে পেশ করেছিল সেভাবেই: সে সাবধান থাকতে চায়, বিষয়টা নিজে যাচাই করে দেখতে চায়। তারপরই সা'দী পরের অংশে চলে যান। সেখানে আল্লাহ নিজে জানাচ্ছেন, আসলে কী তাকে এ কথা পর্যন্ত টেনে এনেছিল। মুখে বলা সতর্কতা আর আসল কারণ, দুটোর মাঝে মাত্র কয়েকটা শব্দের দূরত্ব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Doubt, or Certainty Disguised",
+          "bn": "সংশয়, নাকি ছদ্মবেশী নিশ্চয়তা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives two ways of taking the verb azunnu, I think. On the first, it keeps its usual sense: I think Musa a liar in claiming a god other than me, and I do what I am doing only to remove any excuse. Al-Qurtubi draws the consequence himself: this makes Fir'awn a man in doubt about the matter of Allah. On this reading the tower is a doubter's attempt to settle his doubt in the only direction he will accept.",
+            "bn": "আযুন্নু, মানে আমি মনে করি, এই ক্রিয়াটা কুরতুবী দুইভাবে বোঝার সুযোগ দেখান। প্রথম মতে শব্দটা তার স্বাভাবিক অর্থেই আছে: আমার ছাড়া অন্য এক ইলাহের দাবি করায় আমি মূসাকে মিথ্যাবাদী মনে করি, আর যা করছি তা শুধু অজুহাতের পথ বন্ধ করতে। এর ফল কুরতুবী নিজেই টেনে আনেন: তাহলে আল্লাহর ব্যাপারে ফিরআউন ছিল সংশয়ে। এ পাঠে ইমারতটা এক সংশয়ী মানুষের চেষ্টা, যে তার সংশয় মেটাতে চায় কেবল সেই দিকে, যেটা সে মেনে নিতে রাজি।"
+          },
+          {
+            "en": "The second view al-Qurtubi gives under the words it is said: here zann means certainty, yaqin. Fir'awn is saying, I am certain he is lying, and I say what I say only to remove the doubt from those who are not as certain as I am. On this reading there is no question at all in Fir'awn's mind. The tower is a demonstration staged for an audience, an answer dressed as an inquiry. Al-Qurtubi sets the two side by side and does not choose between them, and this article leaves them so.",
+            "bn": "দ্বিতীয় মতটি কুরতুবী আনেন 'বলা হয়' কথাটি দিয়ে: এখানে যন্ন মানে ইয়াকীন, অর্থাৎ নিশ্চিত বিশ্বাস। ফিরআউন যেন বলছে, আমি নিশ্চিত যে সে মিথ্যা বলছে। আমি যা বলছি তা শুধু তাদের মন থেকে সন্দেহ দূর করতে, যারা আমার মতো নিশ্চিত নয়। এ পাঠে ফিরআউনের মনে কোনো প্রশ্নই নেই। ইমারত তখন দর্শকদের জন্য সাজানো এক প্রদর্শনী, প্রশ্নের পোশাক পরানো এক উত্তর। কুরতুবী দুটি মত পাশাপাশি রাখেন, কোনোটিকে বেছে নেন না। এই প্রবন্ধও সেভাবেই রেখে দিচ্ছে।"
+          },
+          {
+            "en": "Others also turn to the audience. Ibn Kathir says the deed was meant to make his subjects imagine he was doing something that would end in proving Musa (AS) a liar. Ma'arif al-Qur'an, discussing this passage, reports that some commentators held that Fir'awn knew no building, however high, could reach the skies, and acted only to impress or confuse his people; it names none of them. Whichever reading is followed, the word liar was spoken before any looking had been done.",
+            "bn": "অন্যরাও দর্শকদের দিকেই তাকান। ইবন কাসীর বলেন, কাজটার উদ্দেশ্য ছিল প্রজাদের মনে এই ধারণা জাগানো যে সে এমন কিছু করছে, যার শেষে মূসা (আঃ)-কে মিথ্যাবাদী প্রমাণ করা যাবে। মাআরিফুল কুরআন এই আয়াতগুলোর আলোচনায় জানায়, কিছু তাফসীরকারের মতে ফিরআউন জানত, ইমারত যত উঁচুই হোক আসমানে পৌঁছাবে না। সে এসব করেছিল শুধু লোকদের মুগ্ধ বা বিভ্রান্ত করতে। তাঁরা কারা, মাআরিফুল কুরআন তা বলে না। যে পাঠই নিন, দেখার কাজ শুরুর আগেই মিথ্যাবাদী শব্দটা উচ্চারিত হয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Claim He Called False",
+          "bn": "মিথ্যা বলা হল কোন দাবিকে"
+        },
+        "p": [
+          {
+            "en": "A liar in what? The verse leaves the claim unstated, and the commentators fill it in from different parts of Musa's message. At-Tabari: a liar in what he says and claims, that he has a Lord in the heaven who sent him to us. Ibn Kathir: in his claim that Allah had sent him. Al-Baghawi: in his saying that he has a Lord other than me. Al-Qurtubi: in claiming a god besides me. The Muyassar and as-Sa'di use almost the same words: in his claim that we have a Lord, and that He is above the heavens.",
+            "bn": "মিথ্যাবাদী, কিন্তু কোন কথায়? আয়াত দাবিটা খুলে বলে না। তাফসীরকারেরা মূসা (আঃ)-এর বার্তার ভিন্ন ভিন্ন অংশ থেকে তা পূরণ করেন। তাবারী বলেন: সে যা বলে আর দাবি করে তাতে মিথ্যাবাদী, অর্থাৎ আসমানে তার এক রব আছেন যিনি তাকে আমাদের কাছে পাঠিয়েছেন। ইবন কাসীরের মতে: আল্লাহ তাকে পাঠিয়েছেন, এই দাবিতে। বাগাভী: তার এই কথায় যে আমি ছাড়া তার আরেকজন রব আছেন। কুরতুবী: আমার ছাড়া অন্য এক ইলাহের দাবিতে। মুয়াসসার আর সা'দীর ভাষা প্রায় এক: আমাদের একজন রব আছেন, আর তিনি আসমানের উপরে, তার এই দাবিতে।"
+          },
+          {
+            "en": "The glosses lean on different points. Ibn Kathir puts the weight on the mission; al-Baghawi and al-Qurtubi on a Lord other than Fir'awn; at-Tabari, the Muyassar and as-Sa'di include in the claim they report that this Lord is in, or above, the heaven. Al-Qurtubi, explaining the verb attali', describes Fir'awn's own picture another way: he imagined God a body contained by places, as the article on 40:36 sets out. Each of these is a statement about what Fir'awn denied and how he imagined it. This article reports each in its author's words and draws no theological argument from them.",
+            "bn": "ব্যাখ্যাগুলো জোর দেয় ভিন্ন ভিন্ন জায়গায়। ইবন কাসীরের জোর রিসালাতের উপর, মানে মূসা (আঃ)-কে পাঠানোর দাবির উপর। বাগাভী আর কুরতুবীর জোর ফিরআউন ছাড়া অন্য এক রবের উপর। তাবারী, মুয়াসসার আর সা'দী যে দাবির কথা বলেন, তাতে এটাও আছে যে সেই রব আসমানে, বা আসমানের উপরে। আত্তালি' ক্রিয়ার ব্যাখ্যায় কুরতুবী ফিরআউনের নিজের কল্পনাটা অন্যভাবে বর্ণনা করেন: সে ভেবেছিল আল্লাহ এমন এক দেহ, যাকে স্থান ধারণ করে। ৪০:৩৬-এর প্রবন্ধে তা আলোচিত হয়েছে। এগুলোর প্রতিটি ফিরআউন কী অস্বীকার করেছিল আর কী কল্পনা করেছিল, সে সম্পর্কে কথা। প্রবন্ধটি প্রত্যেকের কথা তাঁর নিজের ভাষায় তুলে দিচ্ছে, এ থেকে কোনো আকীদাগত বিতর্ক দাঁড় করাচ্ছে না।"
+          },
+          {
+            "en": "The Qur'an records the same boast in 28:38, where Fir'awn tells his chiefs that he knows of no god for them other than himself, orders a sarh so that he may look at the God of Musa, and ends: wa-inni la-azunnuhu mina l-kadhibin, and I think him among the liars. Ibn Kathir's gloss on that verse differs from his gloss here. There he says the lie meant was Musa's saying that there is a Lord other than Fir'awn, not that Allah had sent him, since Fir'awn did not acknowledge a Maker at all. Here he names the sending. Both stand as he wrote them.",
+            "bn": "একই দম্ভের কথা কুরআন তুলে ধরেছে ২৮:৩৮-এও। সেখানে ফিরআউন তার সভাসদদের বলে, সে ছাড়া তাদের আর কোনো ইলাহ আছে বলে সে জানে না। তারপর সারহ বানানোর হুকুম দেয়, যাতে মূসার ইলাহকে উঁকি দিয়ে দেখতে পারে। শেষে বলে: ওয়া ইন্নী লাআযুন্নুহু মিনাল কাযিবীন, আর আমি তো তাকে মিথ্যাবাদীদেরই একজন মনে করি। ওই আয়াতে ইবন কাসীরের ব্যাখ্যা এখানকার ব্যাখ্যা থেকে আলাদা। সেখানে তিনি বলেন, মিথ্যা বলতে বোঝানো হয়েছে মূসার এই কথা যে ফিরআউন ছাড়া আরেকজন রব আছেন। আল্লাহ তাঁকে পাঠিয়েছেন, এ দাবির কথা নয়, কারণ ফিরআউন স্রষ্টার অস্তিত্বই মানত না। আর এখানে তিনি বলেন পাঠানোর দাবির কথা। দুটোই তিনি যেভাবে লিখেছেন সেভাবে রাখা হল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thus, After His Own Words",
+          "bn": "কাযালিকা ইশারা করে যেদিকে"
+        },
+        "p": [
+          {
+            "en": "Wa-kadhalika zuyyina li-Fir'awna su'u 'amalihi: and thus the evil of his deed was made fair-seeming to Fir'awn. Who did the adorning is discussed under 40:36. Here the small word kadhalika, thus, deserves a look, because the commentators tie it to what has just been said. Al-Qurtubi reads it: just as he spoke these words and fell into doubt, so his evil deed was adorned for him. At-Tabari ties it to the moment Fir'awn grew insolent against Allah and rebelled.",
+            "bn": "ওয়া কাযালিকা যুয়্যিনা লিফিরআউনা সূউ আমালিহি: আর এভাবেই ফিরআউনের কাছে তার মন্দ কাজকে সুন্দর করে দেখানো হল। কে সুন্দর করে দেখাল, সে আলোচনা ৪০:৩৬-এ হয়েছে। এখানে ছোট্ট শব্দ কাযালিকা, মানে এভাবেই, একটু দেখার মতো। কারণ তাফসীরকারেরা একে জুড়ে দেন এইমাত্র বলা কথার সঙ্গে। কুরতুবীর পাঠে: যেমন সে এ কথাগুলো বলল আর সংশয়ে পড়ল, তেমনি তার মন্দ কাজ তার কাছে সুশোভিত করা হল। তাবারী একে বাঁধেন সেই সময়ের সঙ্গে, যখন ফিরআউন আল্লাহর বিরুদ্ধে উদ্ধত হয়ে বিদ্রোহ করল।"
+          },
+          {
+            "en": "As-Sa'di, as noted above, reads the same clause as the explanation of what carried Fir'awn to his words. The two directions do not cancel each other. Al-Qurtubi and at-Tabari place Fir'awn's own doubt and defiance first, with the adornment following on them; as-Sa'di presents the adornment as the force that brought the boast out of his mouth. Taken together they describe something like a loop: defiance opens the door, the adornment makes the next step look reasonable, and the next step is spoken aloud before a court.",
+            "bn": "সা'দী, আগেই যেমন বলা হল, একই অংশকে পড়েন ফিরআউনকে তার কথা পর্যন্ত টেনে আনার কারণ হিসেবে। দুই দিক একে অপরকে বাতিল করে না। কুরতুবী আর তাবারী আগে রাখেন ফিরআউনের নিজের সংশয় আর অবাধ্যতা, সুশোভিত করা আসে তার পরে। সা'দী দেখান, সুশোভিত করাটাই তার মুখ থেকে দম্ভের কথা বের করে এনেছিল। দুটো মিলিয়ে দেখলে একটা চক্রের মতো ছবি দাঁড়ায়। অবাধ্যতা দরজা খোলে। সুশোভিত করা পরের পদক্ষেপকে যুক্তিসঙ্গত দেখায়। আর সেই পদক্ষেপ উচ্চারিত হয় ভরা দরবারে।"
+          },
+          {
+            "en": "The next words, wa-sudda 'ani s-sabil, are read in several ways, and the two main readings, sudda, he was barred, and sadda, are set out under 40:36. Al-Qurtubi records more. He says sudda was the choice of Abu 'Ubayd and Abu Hatim. On that reading, he adds, sidda is also possible, the vowel of the doubled letter carried onto the first, and he gives it as the reading of Yahya ibn Waththab and 'Alqama. He also records wa-saddun, a noun with tanwin, from Ibn Abi Ishaq and 'Abd ar-Rahman ibn Bakra.",
+            "bn": "পরের শব্দগুলো, ওয়া সুদ্দা আনিস সাবীল, একাধিকভাবে পড়া হয়েছে। প্রধান দুই পাঠ, সুদ্দা মানে তাকে আটকে দেওয়া হল, আর সাদ্দা, ৪০:৩৬-এ আলোচিত হয়েছে। কুরতুবী আরও কিছু উল্লেখ করেন। তিনি বলেন, আবু উবায়দ আর আবু হাতিম সুদ্দা পাঠটি বেছে নিয়েছিলেন। এ পাঠে সিদ্দাও বলা যায়, দ্বিত্ব বর্ণের স্বরটি প্রথম বর্ণে সরিয়ে এনে। এটাকে তিনি ইয়াহইয়া ইবন ওয়াসসাব আর আলকামার পাঠ বলে উল্লেখ করেন। ইবন আবী ইসহাক আর আবদুর রহমান ইবন বাকরা থেকে তিনি আরেকটি পাঠ আনেন: ওয়া সাদ্দুন, তানবীনসহ বিশেষ্য হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Targets of One Plot",
+          "bn": "এক চক্রান্তের তিন নিশানা"
+        },
+        "p": [
+          {
+            "en": "Wa-ma kaydu Fir'awna illa fi tabab: and the scheme of Fir'awn was nothing but in ruin. The Muyassar glosses kayd as ihtiyal and tadbir, contrivance and planning. Against what was it aimed? The commentators answer differently. At-Tabari takes it as the contrivance by which Fir'awn tried to look upon the God of Musa; for him the money spent on the sarh is what was lost. Al-Baghawi says the kayd was his effort to invalidate the signs of Musa (AS): its target was the proofs themselves.",
+            "bn": "ওয়া মা কাইদু ফিরআউনা ইল্লা ফী তাবাব: আর ফিরআউনের চক্রান্ত ধ্বংস ছাড়া আর কোথাও গিয়ে ঠেকেনি। মুয়াসসার কাইদের ব্যাখ্যা দেয় ইহতিয়াল আর তাদবীর দিয়ে, মানে কৌশল আর পরিকল্পনা। কিন্তু চক্রান্তটা ছিল কার বিরুদ্ধে? তাফসীরকারদের উত্তর এক নয়। তাবারীর মতে এ সেই কৌশল, যা দিয়ে ফিরআউন মূসার ইলাহকে উঁকি দিয়ে দেখতে চেয়েছিল। তাঁর কাছে যা হারিয়ে গেল তা হল সারহের পেছনে ঢালা অর্থ। বাগাভী বলেন, কাইদ ছিল মূসা (আঃ)-এর নিদর্শনগুলোকে বাতিল করার চেষ্টা। অর্থাৎ নিশানা ছিল প্রমাণগুলোই।"
+          },
+          {
+            "en": "As-Sa'di and the Muyassar place the target in the people's minds. For as-Sa'di it is the scheme by which he meant to outwit the truth and make people believe that he was in the right and Musa in the wrong; the Muyassar says nearly the same. Ibn Kathir, as seen, says this of the deed itself. So the one word kayd is aimed, in these readings, at the sky, at Musa's signs and at the public's opinion. The verse's verdict covers all three with a single word.",
+            "bn": "সা'দী আর মুয়াসসার নিশানা খুঁজে পান মানুষের মনে। সা'দীর কাছে এ সেই চক্রান্ত, যা দিয়ে ফিরআউন সত্যকে ঘায়েল করতে চেয়েছিল আর লোকদের বোঝাতে চেয়েছিল যে সে-ই হকের উপর, মূসা বাতিলের উপর। মুয়াসসারও প্রায় একই কথা বলে। ইবন কাসীর, আগেই দেখা গেছে, এ কথা বলেন কাজটা সম্পর্কেই। তাহলে এসব ব্যাখ্যায় কাইদ শব্দটির নিশানা তিনটি: আসমান, মূসা (আঃ)-এর নিদর্শন, আর জনমত। আয়াতের রায় একটিমাত্র শব্দে তিনটিকেই ঢেকে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tabab and Its Kin",
+          "bn": "তাবাব ও তার আত্মীয় শব্দ"
+        },
+        "p": [
+          {
+            "en": "The early glosses on tabab, loss from Ibn Abbas and Mujahid and more besides, are gathered in the article on 40:36. Al-Qurtubi adds something they do not: the word's family in the Qur'an. He glosses tabab as khusran and dalal, loss and going astray, and says: from it comes tabbat yada Abi Lahab, may the hands of Abu Lahab be ruined (111:1), and the words wa-ma zaduhum ghayra tatbib, they added to them nothing but ruin (11:101), where another place has ghayra takhsir, nothing but loss (11:63).",
+            "bn": "তাবাব শব্দের প্রাচীন ব্যাখ্যাগুলো, যেমন ইবন আব্বাস আর মুজাহিদ থেকে ক্ষতি, আর আরও কিছু, ৪০:৩৬-এর প্রবন্ধে একত্র করা আছে। কুরতুবী এমন কিছু যোগ করেন যা সেখানে নেই: কুরআনে শব্দটির পরিবার। তিনি তাবাবের অর্থ দেন খুসরান আর দালাল, অর্থাৎ ক্ষতি আর পথভ্রষ্টতা। তারপর বলেন, এরই থেকে এসেছে তাব্বাত ইয়াদা আবী লাহাব, আবু লাহাবের দুই হাত ধ্বংস হোক (১১১:১)। আর এসেছে ওয়া মা যাদূহুম গাইরা তাতবীব, তারা তাদের ধ্বংস ছাড়া আর কিছুই বাড়ায়নি (১১:১০১)। অন্য এক জায়গায় আছে গাইরা তাখসীর, ক্ষতি ছাড়া কিছু নয় (১১:৬৩)।"
+          },
+          {
+            "en": "The cross-references widen the word. In 11:101 it is the gods people called on besides Allah that availed them nothing and added to them nothing but tatbib when your Lord's command came. In 11:63 Salih (AS) asks his people who would protect him from Allah if he disobeyed Him, and tells them they would add to him nothing but loss. Fir'awn's tabab belongs with these: effort spent against the truth does not merely fail to arrive; it leaves whoever spends it poorer than before. Al-Baghawi and the Muyassar add halak and bawar, perishing and ruin.",
+            "bn": "এই সূত্রগুলো শব্দটার পরিধি বাড়িয়ে দেয়। ১১:১০১-এ মানুষ আল্লাহ ছাড়া যেসব উপাস্যকে ডাকত, রবের হুকুম আসার পর তারা কোনো কাজে আসেনি, তাদের জন্য তাতবীব ছাড়া আর কিছুই বাড়ায়নি। ১১:৬৩-এ সালিহ (আঃ) তাঁর জাতিকে জিজ্ঞেস করেন, তিনি যদি আল্লাহর নাফরমানি করেন তবে কে তাঁকে আল্লাহর হাত থেকে রক্ষা করবে। তারপর বলেন, তারা তাঁর ক্ষতি ছাড়া আর কিছুই বাড়াবে না। ফিরআউনের তাবাব এদেরই সারিতে। সত্যের বিরুদ্ধে ঢালা খাটুনি শুধু লক্ষ্যে পৌঁছাতে ব্যর্থ হয় না, যে খাটে তাকে আগের চেয়েও নিঃস্ব করে দেয়। বাগাভী আর মুয়াসসার যোগ করেন হালাক আর বাওয়ার, অর্থাৎ বিনাশ আর সর্বনাশ।"
+          },
+          {
+            "en": "The reports of the tower's end are gathered in the article on 28:38. On this verse al-Qurtubi closes with a single sentence: then Allah demolished his tower, and drowned him and his people, as told earlier. Ma'arif al-Qur'an, on this passage, adds a caution: there is no sound and strong report to prove whether such a structure was ever raised, though it then relays al-Qurtubi's account of a collapse. Both are kept here as they stand. The verse itself describes no fall; it pronounces the scheme a ruin.",
+            "bn": "ইমারতের শেষ পরিণতি নিয়ে বর্ণনাগুলো ২৮:৩৮-এর প্রবন্ধে একত্র করা আছে। এ আয়াতের আলোচনা কুরতুবী শেষ করেন ছোট্ট একটি বাক্যে: তারপর আল্লাহ তার ইমারত ধসিয়ে দিলেন, আর তাকে ও তার জাতিকে ডুবিয়ে দিলেন, যেমন আগে বলা হয়েছে। মাআরিফুল কুরআন এ আয়াতগুলোর আলোচনায় একটা সতর্কতা জুড়ে দেয়: এমন ইমারত আদৌ বানানো হয়েছিল কি না, তা প্রমাণের মতো কোনো সহীহ ও মজবুত বর্ণনা নেই। অবশ্য তারপর ধসে পড়ার ব্যাপারে কুরতুবীর বর্ণনাও উল্লেখ করে। দুটোই এখানে যেমন আছে তেমন রাখা হল। আয়াত নিজে কোনো ধসের বিবরণ দেয় না, চক্রান্তটাকেই ধ্বংস বলে ঘোষণা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Fir'awn Within Reach",
+          "bn": "নিজের ভেতরের ফিরআউন"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it, and none gives an occasion of revelation; it is read through its place in Fir'awn's exchange with the believer of his household. And this needs saying plainly. The verse describes Fir'awn in the time of Musa (AS): what he said, and what the Qur'an says became of him. It licenses nothing against any present-day ruler, minister, government, nation or living person, and naming anyone today as Fir'awn steps outside what the verse says.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জুড়ে দেয় না, কোনো শানে নুযূলও বলে না। আয়াতটা পড়া হয় তার জায়গা দিয়ে, ফিরআউনের ঘরের সেই মুমিনের সঙ্গে তার কথোপকথনের ভেতরে। আর কথাটা সোজাসুজি বলা দরকার। আয়াতটি মূসা (আঃ)-এর যুগের ফিরআউনের বর্ণনা দেয়: সে কী বলেছিল, আর কুরআন বলছে তার কী পরিণতি হয়েছিল। আজকের কোনো শাসক, মন্ত্রী, সরকার, জাতি বা জীবিত কোনো মানুষের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজ কাউকে ফিরআউন নাম দেওয়া মানে আয়াতের কথার সীমা ছাড়িয়ে যাওয়া।"
+          },
+          {
+            "en": "Its warning is addressed to the reader, and it reaches close. Most of us will never order a tower. But the habit the verse exposes is small enough to carry: naming the verdict before looking, staging a search for others when the mind is already shut, and letting what we have said in public slowly become what we believe. The verse ends that road in tabab. We ask Allah to show us the truth as truth and give us the will to follow it, and not to let our own wrong look fair to us.",
+            "bn": "এর সতর্কবাণী পাঠকের উদ্দেশেই, আর তা খুব কাছে এসে লাগে। আমাদের বেশির ভাগই কোনোদিন মিনার বানানোর হুকুম দেব না। কিন্তু আয়াত যে অভ্যাসটা খুলে দেখায়, তা এত ছোট যে সহজেই সঙ্গে নিয়ে ঘোরা যায়। দেখার আগেই রায় দিয়ে দেওয়া। মন বন্ধ রেখে অন্যদের জন্য খোঁজাখুঁজির নাটক সাজানো। লোকের সামনে যা বলেছি, ধীরে ধীরে সেটাকেই নিজের বিশ্বাস বানিয়ে ফেলা। আয়াত এই পথের শেষ টানে তাবাবে। আমরা আল্লাহর কাছে চাই, তিনি যেন সত্যকে সত্য হিসেবে দেখান আর তা মানার তাওফীক দেন। আর আমাদের নিজেদের অন্যায় যেন আমাদের চোখে সুন্দর হয়ে না ওঠে।"
+          }
+        ]
+      }
+    ]
+  },
   "40:40": {
     "sections": [
       {

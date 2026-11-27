@@ -37553,6 +37553,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Cleanse yourself of setting anything beside Allah and give what you owe from your wealth; how freely you give shows how firmly you expect the Day of return.",
     "lessonBn": "আল্লাহর সাথে শরীক করা থেকে নিজেকে পবিত্র রাখুন আর সম্পদের হক আদায় করুন। কতটা খোলা হাতে দেন, তাতেই বোঝা যায় ফিরে যাওয়ার দিনে আপনার বিশ্বাস কতটা দৃঢ়।"
+  },
+  "40:37": {
+    "reflectionEn": "Fir'awn announces an inquiry and its result in the same breath. Build me a way up, he tells his minister, so that I may look at the God of Musa, and then he adds: I think he is a liar. The verdict was in before the first brick was laid. Then the Qur'an speaks over his words. So the evil of his deed was made fair-seeming to him, he was barred from the way, and his scheme ended in nothing but ruin. A search that already knows its answer is not a search. It is a show, and the one most taken in by a show is often the one staging it. Where have I gone looking for the truth only to confirm what I had already decided?",
+    "reflectionBn": "ফিরআউন একই নিঃশ্বাসে তদন্তের ঘোষণা দেয়, রায়ও শুনিয়ে দেয়। মন্ত্রীকে বলে, আমার জন্য উপরে ওঠার পথ বানাও, যাতে মূসার ইলাহকে উঁকি দিয়ে দেখতে পারি। পরক্ষণেই জুড়ে দেয়: আমি তো তাকে মিথ্যাবাদীই মনে করি। প্রথম ইটটা গাঁথার আগেই রায় তৈরি। তারপর কুরআন নিজে কথা বলে। এভাবেই তার মন্দ কাজ তার চোখে সুন্দর করে দেখানো হয়েছিল, তাকে পথ থেকে আটকে দেওয়া হয়েছিল, আর তার সব চক্রান্ত গিয়ে ঠেকেছিল কেবল ধ্বংসে। যে খোঁজ আগে থেকেই উত্তর জানে, সেটা আসলে খোঁজ নয়, প্রদর্শনী। আর প্রদর্শনীতে সবচেয়ে বেশি ঠকে প্রায়ই সে নিজেই, যে সেটা সাজায়। কোথায় আমি সত্য খুঁজতে গিয়েছি শুধু আগে থেকে ঠিক করে রাখা কথাটাই পাকা করতে?",
+    "pointsEn": [
+      "When I say I am looking into a question of faith, have I already written the answer I mean to find?",
+      "Do I ever put on a show of fairness for other people while my own mind stays shut?",
+      "Is there a position I first defended in public and only later came to believe in private?",
+      "What time, money or effort have I spent on a plan whose real aim was to get round a truth I did not want?",
+      "When I read about Fir'awn, do I look for him in other people, or in my own habits of mind?"
+    ],
+    "pointsBn": [
+      "যখন বলি দ্বীনের কোনো প্রশ্ন খতিয়ে দেখছি, তখন যে উত্তরটা পেতে চাই, সেটা কি আগেই লিখে রেখেছি?",
+      "অন্যদের সামনে আমি কি কখনো ন্যায্যতার ভান করি, অথচ ভেতরে মনের দরজা বন্ধই থাকে?",
+      "এমন কোনো অবস্থান কি আছে, যা আমি প্রথমে লোকের সামনে আঁকড়ে ধরেছি, আর পরে মনে মনে নিজেই বিশ্বাস করে ফেলেছি?",
+      "যে সত্য আমার পছন্দ নয়, তাকে পাশ কাটানোর কোনো পরিকল্পনায় আমি কতটা সময়, টাকা বা খাটুনি ঢেলেছি?",
+      "ফিরআউনের কথা পড়ে আমি কি তাকে অন্য মানুষের মধ্যে খুঁজি, নাকি নিজের চিন্তার অভ্যাসের মধ্যে?"
+    ],
+    "lessonEn": "Do not settle the verdict before you look. A search that already knows its answer is only a show, and every scheme against the truth ends in loss.",
+    "lessonBn": "দেখার আগেই রায় ঠিক করে ফেলবেন না। যে খোঁজ আগেই উত্তর জানে, তা কেবল প্রদর্শনী। আর সত্যের বিরুদ্ধে প্রতিটি চক্রান্তের শেষ ক্ষতিতে।"
   }
 };
 
