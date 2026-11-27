@@ -4307,6 +4307,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:81": {
+    "sections": [
+      {
+        "h": {
+          "en": "Shade No Hand Made",
+          "bn": "যে ছায়া কারও হাতে গড়া নয়"
+        },
+        "p": [
+          {
+            "en": "The verse picks up where 16:80 left off, in the same frame of favours: three times over, jaʿala lakum, He made for you. After homes and tents, this one begins further back. Wa'llahu jaʿala lakum mimma khalaqa zilalan: and Allah made for you, from what He created, shade. As-Sa'di explains mimma khalaqa as from His creations in which you had no craft, like the shade of trees, mountains and hillocks.",
+            "bn": "১৬:৮০ যেখানে থেমেছিল, এ আয়াত সেখান থেকেই শুরু করে, নিয়ামত গোনার সেই একই ভঙ্গিতে। তিনবার ফিরে আসে জাআলা লাকুম: তিনি তোমাদের জন্য বানিয়েছেন। ঘর আর তাঁবুর পর এ আয়াত শুরু করে আরও গোড়া থেকে। ওয়াল্লাহু জাআলা লাকুম মিম্মা খালাকা যিলালা: আল্লাহ তাঁর সৃষ্টি থেকে তোমাদের জন্য ছায়া বানিয়েছেন। সা'দী মিম্মা খালাকা-র ব্যাখ্যায় বলেন, এমন সব সৃষ্টি থেকে, যার নির্মাণে তোমাদের কোনো হাত নেই। যেমন গাছের ছায়া, পাহাড়ের ছায়া, টিলার ছায়া।"
+          },
+          {
+            "en": "What counts as shade? Qatada, in chains given by at-Tabari and Ibn Kathir, says simply: the trees. In a chain at-Tabari gives, he adds an oath: yes, by Allah, from the trees and from other things. At-Tabari himself writes of trees and the like, shade from the intensity of the heat. Al-Baghawi names buildings and trees. Al-Qurtubi defines zilal as everything under which shade is taken, houses and trees alike, and says mimma khalaqa takes in every body that casts a shadow.",
+            "bn": "ছায়া বলতে কী বোঝায়? তাবারী ও ইবন কাসীর কাতাদার যে বর্ণনা আনেন, তাতে তাঁর জবাব এক শব্দের: গাছ। তাবারীর আনা আরেক সনদে কাতাদা কসম খেয়ে যোগ করেন: হ্যাঁ, আল্লাহর কসম, গাছ থেকে, আরও অন্য কিছু থেকে। তাবারী নিজে লেখেন গাছপালা ও এ জাতীয় জিনিসের কথা, যার ছায়ায় প্রচণ্ড গরম থেকে আশ্রয় মেলে। বাগাভী নাম নেন দালান আর গাছের। কুরতুবীর সংজ্ঞায় যিলাল মানে যার নিচে ছায়া নেওয়া যায় তার সবকিছু, ঘরবাড়ি হোক বা গাছ। আর তাঁর মতে মিম্মা খালাকা কথাটি ছায়া ফেলে এমন প্রতিটি বস্তুকেই ধরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hollows in the Hills",
+          "bn": "পাহাড়ের বুকে আশ্রয়"
+        },
+        "p": [
+          {
+            "en": "Wa-jaʿala lakum mina'l-jibali aknanan: and He made for you, from the mountains, shelters. Aknan is the plural of kinn. Al-Qurtubi defines a kinn as whatever guards against rain, wind and the like, and says that here it means the caves in the mountains, which Allah made a provision for His creatures: they take refuge in them, fortify themselves in them, or withdraw into them away from people. At-Tabari, through Qatada, has mountain caves people live in; al-Baghawi names burrows and caves.",
+            "bn": "ওয়া জাআলা লাকুম মিনাল জিবালি আকনানা: আর পাহাড় থেকে তিনি তোমাদের জন্য আশ্রয়ের জায়গা বানিয়েছেন। আকনান শব্দটি কিন্ন-এর বহুবচন। কুরতুবী বলেন, কিন্ন হলো যা বৃষ্টি, বাতাস আর এ রকম জিনিস থেকে আগলে রাখে। এখানে তার অর্থ পাহাড়ের গুহা। আল্লাহ এগুলোকে তাঁর সৃষ্টির জন্য সঞ্চয় করে রেখেছেন: মানুষ সেখানে আশ্রয় নেয়, নিজেকে সুরক্ষিত করে, কিংবা লোকজন থেকে সরে গিয়ে নির্জনে থাকে। তাবারী কাতাদার সূত্রে বলেন, পাহাড়ের গুহা, যেখানে মানুষ বাস করে। বাগাভী নাম নেন সুড়ঙ্গ আর গুহার।"
+          },
+          {
+            "en": "Not every commentator stops at caves. Ibn Kathir glosses aknan as husun wa-maʿaqil, fortresses and strongholds. As-Sa'di keeps the caves but widens their use: caverns that shelter you from heat and cold, from rain, and from enemies. Al-Muyassar speaks of caverns and caves as places you resort to in time of need. For most of them the mountain offers a hollow to hide in; for Ibn Kathir it offers a stronghold to hold.",
+            "bn": "সব তাফসীরকার অবশ্য গুহাতেই থামেননি। ইবন কাসীর আকনান-এর অর্থ করেন হুসূন ওয়া মাআকিল, অর্থাৎ দুর্গ আর সুরক্ষিত ঘাঁটি। সা'দী গুহার অর্থ রাখেন, তবে কাজের পরিধি বাড়ান: এমন গুহা, যা গরম-ঠান্ডা, বৃষ্টি আর শত্রু থেকে তোমাদের আড়াল করে। মুয়াসসার বলে, প্রয়োজনের সময় আশ্রয় নেওয়ার মতো গিরিগুহা। বেশির ভাগের কাছে পাহাড় দেয় লুকানোর একটা খোঁড়ল। ইবন কাসীরের কাছে পাহাড় দেয় আঁকড়ে ধরে রাখার মতো এক দুর্গ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hira, Then the Cave of Thawr",
+          "bn": "হেরা, তারপর সওরের গুহা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the caves a history. Under aknan he recalls that the Prophet ﷺ, early in his mission, used to worship in the cave of Hira and stay there for nights; and that he left Makka as an emigrant with Abu Bakr, fleeing his people for the sake of his religion, until the two reached a cave in Mount Thawr and hid there three nights. Both reports are in al-Bukhari, at numbers 3 and 3905.",
+            "bn": "কুরতুবী গুহাগুলোর সঙ্গে এক ইতিহাস জুড়ে দেন। আকনান-এর আলোচনায় তিনি মনে করিয়ে দেন, নবুওয়াতের শুরুর দিকে নবী ﷺ হেরা গুহায় ইবাদত করতেন এবং সেখানে রাতের পর রাত কাটাতেন। তারপর তিনি আবু বকর (রাঃ)-কে সঙ্গে নিয়ে মক্কা ছেড়ে হিজরত করেন। দ্বীন বাঁচাতে নিজের কওম থেকে পালিয়ে দুজনে সওর পাহাড়ের এক গুহায় পৌঁছান এবং তিন রাত সেখানে লুকিয়ে থাকেন। দুটি বর্ণনাই বুখারীতে আছে, ৩ ও ৩৯০৫ নম্বরে।"
+          },
+          {
+            "en": "Neither narration speaks of this verse; they are al-Qurtubi's illustrations, not a cause of its revelation. Bukhari 3905 fills in those nights. ʿAbdullah ibn Abi Bakr, a sharp young man, stayed the nights with them and slipped away before dawn, to be among Quraysh in Makka by morning as though he had slept there; any plot he heard he brought back after dark. The hollow did both jobs al-Qurtubi named: withdrawal for worship, and refuge from enemies.",
+            "bn": "এ দুটি বর্ণনার কোনোটিই এ আয়াত নিয়ে নয়। এগুলো কুরতুবীর দেওয়া দৃষ্টান্ত, আয়াত নাজিলের কারণ নয়। বুখারীর ৩৯০৫ নম্বর বর্ণনায় সেই রাতগুলোর বিবরণ আছে। আবদুল্লাহ ইবন আবু বকর ছিলেন বুদ্ধিমান এক তরুণ। রাতে তিনি তাঁদের কাছে থাকতেন, ভোর হওয়ার আগেই চুপিচুপি বেরিয়ে যেতেন। সকালে তাঁকে দেখা যেত মক্কায় কুরাইশের মাঝে, যেন রাতটা সেখানেই কাটিয়েছেন। কোনো ষড়যন্ত্রের কথা কানে এলে অন্ধকার নামার পর খবরটা পৌঁছে দিতেন। কুরতুবী গুহার যে দুই কাজের কথা বলেছিলেন, পাহাড়ের এই খোঁড়ল দুটিই করেছে: ইবাদতের জন্য নির্জনতা, আর শত্রু থেকে আশ্রয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shirts That Hold Off Heat",
+          "bn": "গরম ঠেকানোর জামা"
+        },
+        "p": [
+          {
+            "en": "Wa-jaʿala lakum sarabila taqikumu'l-harr: and He made for you garments that protect you from the heat. Sarabil is the plural of sirbal, and al-Qurtubi and al-Baghawi both gloss it as shirts. At-Tabari's chains from Qatada name what they were made of: cotton, linen and wool in the first, cotton and linen in the second. Al-Baghawi adds raw silk to the list and gives taqikum its plain sense: they hold the heat back from you.",
+            "bn": "ওয়া জাআলা লাকুম সারাবীলা তাকীকুমুল হাররা: আর তিনি তোমাদের জন্য পোশাক বানিয়েছেন, যা তোমাদের গরম থেকে বাঁচায়। সারাবীল শব্দটি সিরবাল-এর বহুবচন। কুরতুবী আর বাগাভী দুজনেই এর অর্থ করেন জামা। তাবারী কাতাদার যে সনদগুলো আনেন, তাতে জামাগুলো কী দিয়ে তৈরি তাও বলা আছে: প্রথম বর্ণনায় তুলা, লিনেন আর পশম, দ্বিতীয়টিতে শুধু তুলা আর লিনেন। বাগাভী তালিকায় কাঁচা রেশমও যোগ করেন। আর তাকীকুম-এর সহজ অর্থ তিনি দেন: গরমকে তোমাদের থেকে ঠেকিয়ে রাখে।"
+          },
+          {
+            "en": "Here the commentators pause on the same question. A shirt keeps off cold as well as heat, so why does the verse name only heat? At-Tabari asks it outright and pairs it with another: why name the mountains and leave out what He made for people in the plains? Al-Qurtubi puts both questions the same way, and Ma'arif al-Qur'an takes up the first. Their answers show how the Qur'an speaks to the people standing in front of it.",
+            "bn": "এখানে এসে তাফসীরকারেরা একই প্রশ্নে থামেন। জামা তো গরমের মতো ঠান্ডাও ঠেকায়, তবে আয়াতে কেবল গরমের নাম কেন? তাবারী সরাসরি প্রশ্নটা তোলেন, সঙ্গে আরেকটি জুড়ে দেন: পাহাড়ের কথা বলা হলো, অথচ সমতলে তিনি মানুষের জন্য যা বানিয়েছেন তার উল্লেখ নেই কেন? কুরতুবী দুটি প্রশ্নই একইভাবে রাখেন, আর মাআরিফুল কুরআন প্রথমটি নিয়ে আলোচনা করে। তাঁদের জবাবগুলো দেখায়, সামনে দাঁড়ানো মানুষের সঙ্গে কুরআন কীভাবে কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken in What They Knew",
+          "bn": "যা তারা চিনত, সেই ভাষায়"
+        },
+        "p": [
+          {
+            "en": "The first answer is ʿAta' al-Khurasani's, relayed by at-Tabari, Ibn Kathir, al-Baghawi and al-Qurtubi: the Qur'an came down according to the measure of what its hearers knew. It names shelters in the mountains, though what Allah made for them in the plains is greater, because they were people of mountains; wool, fur and hair in 16:80, though other gifts are greater, because they were people of fur and hair; and garments against heat, though what they guard from cold is more, because they were people of heat.",
+            "bn": "প্রথম জবাবটি আতা খুরাসানীর। তাবারী, ইবন কাসীর, বাগাভী আর কুরতুবী চারজনই তা বর্ণনা করেন। তাঁর কথা: কুরআন নাজিল হয়েছে শ্রোতারা যতটুকু চিনত, সেই মাপে। পাহাড়ের আশ্রয়ের কথা এসেছে, যদিও সমতলে আল্লাহ তাদের জন্য এর চেয়ে বড় কিছু দিয়েছেন। কারণ তারা ছিল পাহাড়ি মানুষ। ১৬:৮০ আয়াতে পশম, লোম আর চুলের নাম এসেছে, যদিও অন্য দান তার চেয়ে বড়। কারণ লোম আর চুলই ছিল তাদের সম্বল। আর গরম ঠেকানো পোশাকের কথা এসেছে, যদিও ঠান্ডা থেকে পোশাক বাঁচায় আরও বেশি। কারণ তারা ছিল গরমের দেশের মানুষ।"
+          },
+          {
+            "en": "ʿAta' adds 24:43, where Allah sends down hail from mountains of cloud in the sky: the hail is named because it made them wonder, though the snow He sends down is greater; they simply did not know snow. Al-Qurtubi carries the point to materials: cotton and linen go unnamed in 16:80, as snow does, because none of them was found in their land, so Allah named for them the favours that were theirs in particular.",
+            "bn": "আতা দৃষ্টান্ত আনেন ২৪:৪৩ আয়াত থেকেও, যেখানে আল্লাহ আকাশের মেঘ-পাহাড় থেকে শিলা বর্ষণের কথা বলেন। শিলার নাম এসেছে, কারণ তা দেখে তারা অবাক হতো। অথচ তিনি যে বরফ নামান, তা এর চেয়ে অনেক বেশি। বরফের সঙ্গে তাদের পরিচয়ই ছিল না। কুরতুবী কথাটাকে কাপড়ের উপকরণ পর্যন্ত টেনে নেন। ১৬:৮০ আয়াতে তুলা আর লিনেনের নাম নেই, বরফেরও নেই। কারণ এর কোনোটাই তাদের দেশে ছিল না। তাই আল্লাহ তাদের সামনে সেই নিয়ামতগুলোর কথাই বলেছেন, যা বিশেষভাবে তাদেরই ছিল।"
+          },
+          {
+            "en": "At-Tabari puts the reason plainly: the people addressed were people of heat, so Allah reminded them of His shield against a harm they knew, not a harm whose full weight they had never met. After recording a second view, he judges this first view the soundest: they were addressed according to their knowledge, even if naming some things points, for anyone who knows both, to what was left out; for Allah was counting His favours to those this surah addressed.",
+            "bn": "তাবারী কারণটা খোলাখুলি বলেন। যাদের সম্বোধন করা হয়েছিল তারা গরমের মানুষ। তাই আল্লাহ তাদের মনে করিয়ে দিয়েছেন সেই কষ্ট থেকে বাঁচানোর নিয়ামত, যে কষ্ট তারা চিনত। যে কষ্টের পুরো ভার তারা কখনো টের পায়নি, তার কথা তোলা হয়নি। দ্বিতীয় আরেকটি মত উল্লেখ করার পর তিনি এই প্রথম মতটিকেই সবচেয়ে সঠিক বলে রায় দেন। তাঁর কথায়, তাদের সঙ্গে কথা বলা হয়েছে তাদের জানার মাপে। যদিও যে দুটোই চেনে, তার কাছে কয়েকটির উল্লেখই বাকিগুলোর দিকে ইশারা করে। কারণ আল্লাহ এ সূরায় যাদের উদ্দেশ করেছেন, তাদের প্রতি নিজের অনুগ্রহগুলোই গুনে শুনিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cold, Named at the Opening",
+          "bn": "শীতের কথা সূরার শুরুতেই"
+        },
+        "p": [
+          {
+            "en": "A second answer reads the silence as economy of speech. Al-Baghawi reports it from the scholars of meanings: He meant heat and cold, and named one because the speech points to the other. At-Tabari records it from others, who call it Arab usage and cite a poet: I do not know, when I turn my face toward a land seeking good, which of the two will meet me. The poet names only the good, yet asks which of the two.",
+            "bn": "দ্বিতীয় জবাবে এই নীরবতাকে দেখা হয় কথার সংক্ষেপ হিসেবে। বাগাভী তা বর্ণনা করেন অর্থবিদ আলেমদের থেকে: উদ্দেশ্য গরম ও ঠান্ডা দুটিই, কিন্তু একটির নাম নেওয়া হয়েছে, কারণ কথার ধরন থেকেই অন্যটি বোঝা যায়। তাবারী একই মত আনেন আরও কয়েকজনের থেকে। তাঁরা বলেন, আরবদের কথায় এ রীতি চালু আছে, আর প্রমাণ হিসেবে এক কবির পঙক্তি আনেন: কল্যাণের খোঁজে কোনো দেশের দিকে মুখ ফেরালে জানি না, দুটির কোনটি আমার ভাগে পড়বে। কবি নাম নিয়েছেন কেবল কল্যাণের, অথচ জিজ্ঞেস করছেন দুটির কথা।"
+          },
+          {
+            "en": "As-Sa'di answers from the shape of the surah: its opening deals with the roots of favour, its close with what completes them. Protection from cold is a root favour, a necessity, and it was named at the start: lakum fiha dif'un, in them is warmth for you (16:5). Ma'arif al-Qur'an reports the same point from Maulana Ashraf Ali Thanavi's Bayan al-Qur'an, beside the hot-country answer it credits to al-Qurtubi and others. Al-Muyassar simply has the garments guard from heat and cold.",
+            "bn": "সা'দী জবাব দেন সূরার গঠন থেকে। তাঁর মতে, এ সূরার শুরুর অংশে আছে নিয়ামতের মূলগুলোর কথা, আর শেষ অংশে সেগুলোকে পূর্ণ করার কথা। ঠান্ডা থেকে বাঁচা এক মৌলিক নিয়ামত, জীবনের জন্য অপরিহার্য। তাই এর উল্লেখ এসে গেছে শুরুতেই: লাকুম ফীহা দিফউন, এগুলোর মধ্যে তোমাদের জন্য আছে উষ্ণতার উপকরণ (১৬:৫)। মাআরিফুল কুরআন একই কথা বর্ণনা করে মাওলানা আশরাফ আলী থানভীর বায়ানুল কুরআন থেকে। পাশাপাশি গরমের দেশের জবাবটিও আনে, যা সে কুরতুবী ও অন্যদের নামে উল্লেখ করে। মুয়াসসার শুধু বলে, পোশাক গরম ও ঠান্ডা দুটি থেকেই বাঁচায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Iron Woven for the Fray",
+          "bn": "লড়াইয়ের জন্য বোনা লোহা"
+        },
+        "p": [
+          {
+            "en": "Wa-sarabila taqikum ba'sakum: and garments that protect you from your violence. At-Tabari glosses them as coats of mail and explains ba's as war: in your fighting, they keep weapons from reaching you. Qatada, in his two chains, says: from this iron, and: shirts of iron. Ibn Kathir names plated iron and ring-mail. Al-Muyassar reads it as what Allah made for you from iron to turn back thrusts and harm in your wars. One word, sarabil, covers both the soft shirt and the hard one.",
+            "bn": "ওয়া সারাবীলা তাকীকুম বা'সাকুম: আর এমন পোশাক, যা তোমাদের লড়াইয়ের আঘাত থেকে বাঁচায়। তাবারী এর অর্থ করেন লৌহবর্ম। বা'স মানে তাঁর মতে যুদ্ধ: লড়াইয়ের সময় এই বর্ম অস্ত্রকে তোমাদের শরীর পর্যন্ত পৌঁছাতে দেয় না। কাতাদা তাঁর দুই সনদে বলেন: এই লোহা থেকে, আর: লোহার জামা। ইবন কাসীর নাম নেন পাতলা পাত বসানো লোহা আর কড়ার বর্মের। মুয়াসসারের ব্যাখ্যায়, আল্লাহ লোহা থেকে তোমাদের জন্য এমন জিনিস বানিয়েছেন, যা যুদ্ধে বর্শার খোঁচা আর আঘাত ফিরিয়ে দেয়। একই শব্দ সারাবীল দুটোকেই বোঝায়, নরম জামাকেও, শক্ত বর্মকেও।"
+          },
+          {
+            "en": "Al-Qurtubi supports the sense with a line of Kaʿb ibn Zuhayr praising warriors, heroes whose clothing in the fray is sarabil from the weaving of Dawud (AS). The Qur'an names that weaving in 21:80: and We taught him the making of coats of mail for you, to protect you from your violence; so will you be grateful? The echo is close, down to the word ba's, and in both places the gift is followed at once by a call: gratitude there, submission here.",
+            "bn": "অর্থটির সমর্থনে কুরতুবী কাব ইবন যুহাইরের একটি পঙক্তি আনেন। কবি সেখানে বীর যোদ্ধাদের প্রশংসা করছেন, যুদ্ধের ময়দানে যাদের গায়ের সারাবীল দাউদ (আঃ)-এর বোনা। সেই বোনার কথা কুরআন নিজেই বলেছে ২১:৮০ আয়াতে: আমি তাঁকে তোমাদের জন্য বর্ম বানানো শিখিয়েছিলাম, যাতে তা তোমাদের লড়াইয়ের আঘাত থেকে রক্ষা করে। তবু কি তোমরা শোকর করবে? দুই আয়াতের মিল খুব কাছের, বা'স শব্দটি পর্যন্ত এক। দুই জায়গাতেই দানের ঠিক পরেই আসে এক ডাক। সেখানে শোকরের ডাক, এখানে আত্মসমর্পণের।"
+          },
+          {
+            "en": "From this clause al-Qurtubi draws a ruling he credits to the scholars: people may take up equipment for jihad to strengthen them against enemies. The Prophet ﷺ wore armour against wounds, he says, though he sought martyrdom, and no one may seek it by surrendering himself to blades. Two narrations in al-Bukhari, not attached to this verse, confirm the armour. In 2915 Ibn ʿAbbas reports the Prophet ﷺ clad in mail at Badr. In 2916 ʿA'isha says: Allah's Messenger (ﷺ) died while his (iron) armor was mortgaged to a Jew for thirty Sas of barley.",
+            "bn": "এ অংশ থেকে কুরতুবী একটি বিধান টানেন, যা তিনি আলেমদের নামে বলেন: শত্রুর বিরুদ্ধে শক্তি পেতে মানুষ জিহাদের সরঞ্জাম নিতে পারে। তাঁর কথায়, নবী ﷺ শাহাদাত চাইতেন, তবু আঘাত থেকে বাঁচতে বর্ম পরতেন। কেউ তলোয়ারের সামনে নিজেকে সঁপে দিয়ে শাহাদাত খুঁজতে পারে না। বুখারীর দুটি বর্ণনা বর্মের কথা নিশ্চিত করে, যদিও কোনোটিই এ আয়াতের সঙ্গে যুক্ত নয়। ২৯১৫ নম্বরে ইবন আব্বাস (রাঃ) জানান, বদরের দিন নবী ﷺ বর্ম পরা ছিলেন। ২৯১৬ নম্বরে আয়েশা (রাঃ) বলেন: আল্লাহর রাসূল ﷺ যখন ইন্তেকাল করেন, তখন তাঁর লোহার বর্ম ত্রিশ সা' যবের বিনিময়ে এক ইহুদির কাছে বন্ধক রাখা ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tuslimun or Tuslamun",
+          "bn": "তুসলিমূন, না তাসলামূন"
+        },
+        "p": [
+          {
+            "en": "Kadhalika yutimmu niʿmatahu ʿalaykum: thus He completes His favour upon you. At-Tabari reads kadhalika back over the passage: as your Lord gave you all these things, so He completes His favour on you. Ibn Kathir: in this way He gives you what you need for your affairs, so that it may help you to obey and worship Him. Al-Muyassar places the completion elsewhere: He completes His favour by making the true religion clear. Ibn Kathir also records Qatada's remark that this surah is called the surah of favours.",
+            "bn": "কাযালিকা ইউতিম্মু নি'মাতাহূ আলাইকুম: এভাবেই তিনি তোমাদের উপর তাঁর নিয়ামত পূর্ণ করেন। তাবারী কাযালিকা শব্দটিকে পুরো অংশের উপর ফিরিয়ে পড়েন: তোমাদের রব যেমন এসব জিনিস তোমাদের দিয়েছেন, তেমনি তিনি তোমাদের উপর তাঁর নিয়ামত পূর্ণ করেন। ইবন কাসীরের ব্যাখ্যা: এভাবে তিনি তোমাদের কাজকর্মের প্রয়োজনীয় সবকিছু দেন, যাতে তা তাঁর আনুগত্য ও ইবাদতে তোমাদের সহায় হয়। মুয়াসসার পূর্ণতাকে দেখে অন্য জায়গায়: সত্য দ্বীন স্পষ্ট করে দিয়ে তিনি নিয়ামত পূর্ণ করেন। ইবন কাসীর কাতাদার একটি মন্তব্যও আনেন: এ সূরার আরেক নাম নিয়ামতের সূরা।"
+          },
+          {
+            "en": "Then the closing words, laʿallakum tuslimun, that you might submit. Ibn Kathir says the majority interpreted it so, and read it with kasra on the lam, from islam. But a report through Shahr ibn Hawshab has Ibn ʿAbbas reading tuslamun, with fatha: that you might come away safe, meaning from wounds. On that reading, at-Tabari explains, the favour being completed is the coats of mail just named, so that you come safe out of the weapons in your wars.",
+            "bn": "এরপর শেষ কথাটি: লাআল্লাকুম তুসলিমূন, যাতে তোমরা আত্মসমর্পণ কর। ইবন কাসীর বলেন, অধিকাংশ আলেম এভাবেই ব্যাখ্যা করেছেন এবং লাম-এ যের দিয়ে পড়েছেন, শব্দটি এসেছে ইসলাম থেকে। কিন্তু শাহর ইবন হাওশাবের সূত্রে এক বর্ণনায় ইবন আব্বাস (রাঃ) পড়তেন তাসলামূন, যবর দিয়ে। তখন অর্থ দাঁড়ায়: যাতে তোমরা নিরাপদ থাক, অর্থাৎ আঘাত থেকে। তাবারী ব্যাখ্যা করেন, এই পাঠে যে নিয়ামত পূর্ণ হচ্ছে তা হলো ঠিক আগে বলা লৌহবর্ম, যাতে যুদ্ধে তোমরা অস্ত্রের আঘাত থেকে বেঁচে ফিরতে পার।"
+          },
+          {
+            "en": "At-Tabari will allow no reading but tuslimun, because the authoritative readers of the great cities agree on it, and Ibn Kathir notes that he rejected the other. Al-Qurtubi calls its chain weak and quotes Abu ʿUbayd: the choice is the reading of the generality, because the favour of Islam is better than safety from wounds. Al-Qurtubi adds a variant from Ibn Muhaysin and Humayd: tatimmu niʿmatuhu, His favour becomes complete.",
+            "bn": "তাবারী তুসলিমূন ছাড়া আর কোনো পাঠ অনুমোদন করেন না, কারণ বড় বড় শহরের প্রামাণ্য কারীরা এর উপর একমত। ইবন কাসীরও উল্লেখ করেন যে তাবারী অন্য পাঠটি প্রত্যাখ্যান করেছেন। কুরতুবী বলেন, এর সনদ দুর্বল। তিনি আবু উবাইদের কথাও আনেন: সাধারণ কারীদের পাঠই গ্রহণযোগ্য, কারণ ইসলামের নিয়ামত আঘাত থেকে নিরাপদ থাকার নিয়ামতের চেয়ে উত্তম। কুরতুবী আরেকটি পাঠও উল্লেখ করেন, ইবন মুহাইসিন ও হুমাইদের: তাতিম্মু নি'মাতুহূ, অর্থাৎ তাঁর নিয়ামত পূর্ণ হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Favour That Asks for Surrender",
+          "bn": "নিয়ামতের দাবি আত্মসমর্পণ"
+        },
+        "p": [
+          {
+            "en": "What does submitting mean here? At-Tabari: humbling yourselves to Allah in obedience, lowering your souls by affirming His oneness, making your worship His alone. Al-Baghawi: making your obedience sincerely His. Al-Qurtubi: yielding to knowing and obeying Allah, in thanks for His favours. As-Sa'di ties it to seeing: when you see Allah's favour covering you from every side, you submit to His greatness, yield to His command, and spend those favours in obeying their Giver.",
+            "bn": "এখানে আত্মসমর্পণ মানে কী? তাবারীর কথায়: আনুগত্যের মাধ্যমে আল্লাহর সামনে বিনীত হওয়া, তাঁর একত্বের স্বীকৃতিতে মনকে নত করা, আর ইবাদত কেবল তাঁর জন্য খাঁটি করা। বাগাভী বলেন: আনুগত্যকে কেবল তাঁর জন্য খাঁটি করা। কুরতুবীর মতে: তাঁর নিয়ামতের শোকর হিসেবে আল্লাহকে চেনা ও মানার পথে নিজেকে সঁপে দেওয়া। সা'দী একে জুড়ে দেন দেখার সঙ্গে। যখন দেখবে আল্লাহর নিয়ামত চারদিক থেকে তোমাদের ঘিরে আছে, তখন তাঁর মহিমার সামনে মাথা নোয়াবে, তাঁর হুকুম মেনে নেবে। আর সেই নিয়ামতগুলো খরচ করবে তাঁরই আনুগত্যে, যিনি তা দান করেছেন।"
+          },
+          {
+            "en": "As-Sa'di adds that abundant favour is among the things that draw from servants more thanks and more praise of Allah, yet the wrongdoers refuse everything but defiance and stubbornness. The next verse turns to that refusal: if they turn away, the Messenger's duty is only to convey clearly (16:82). Then 16:83 names its strangeness: they recognise the favour of Allah, then deny it. These verses describe a stance toward favour; they pass no verdict on any person one meets, and the same shade falls on everyone.",
+            "bn": "সা'দী আরও বলেন, নিয়ামতের প্রাচুর্য বান্দার মধ্যে আরও বেশি শোকর আর আল্লাহর আরও বেশি প্রশংসা জাগানোর একটি কারণ। কিন্তু জালিমরা অবাধ্যতা আর একগুঁয়েমি ছাড়া আর কিছুতেই রাজি হয় না। পরের আয়াত সেই মুখ ফেরানোর দিকেই ঘোরে: তারা যদি মুখ ফিরিয়ে নেয়, তবে রাসূলের দায়িত্ব কেবল স্পষ্টভাবে পৌঁছে দেওয়া (১৬:৮২)। তারপর ১৬:৮৩ এর অদ্ভুত দিকটা ধরিয়ে দেয়: তারা আল্লাহর নিয়ামত চেনে, তারপর তা অস্বীকার করে। এ আয়াতগুলো নিয়ামতের প্রতি এক মনোভাবের বর্ণনা দেয়। চেনা-অচেনা কোনো মানুষের উপর রায় দেয় না। একই ছায়া তো সবার উপর পড়ে।"
+          },
+          {
+            "en": "Read slowly, the verse moves from shade, in which as-Sa'di says you had no craft, to shirts and mail that hands sew and forge, and calls all of it His making: jaʿala lakum, three times. A tree on a hot road, a jacket on a cold morning, a helmet on a building site: each is a small completion of favour, and each asks a quiet question. The verse gives its own answer: let the favour lead you to the Giver, and submit.",
+            "bn": "ধীরে পড়লে দেখা যায়, আয়াতটি ছায়া থেকে শুরু করে, সা'দীর ভাষায় যাতে তোমাদের কোনো কারিগরি নেই। তারপর আসে জামা আর বর্ম, যা মানুষের হাতে সেলাই হয়, কামারের হাতে গড়া হয়। অথচ সবকিছুকেই আয়াত বলে তাঁর বানানো: জাআলা লাকুম, তিনবার। রোদে পোড়া পথে একটা গাছ, শীতের সকালে একটা জ্যাকেট, নির্মাণের জায়গায় মাথার হেলমেট, প্রতিটিই নিয়ামতের ছোট্ট এক পূর্ণতা। প্রতিটিই চুপচাপ একটা প্রশ্ন রাখে। আয়াত নিজেই জবাব দেয়: নিয়ামত যেন আপনাকে দাতার কাছে নিয়ে যায়, আর আপনি তাঁর কাছে আত্মসমর্পণ করেন।"
+          }
+        ]
+      }
+    ]
+  },
   "16:84": {
     "sections": [
       {

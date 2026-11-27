@@ -33663,6 +33663,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every sin is a lapse in sight, even when you knew the rule: turn back from it, put right what it damaged, and trust your Lord to forgive after it.",
     "lessonBn": "নিয়ম জেনেও করা প্রতিটি গুনাহ আসলে দৃষ্টির ভুল। তা থেকে ফিরে আসুন, যা নষ্ট হয়েছে তা শুধরে নিন, আর ভরসা রাখুন যে এরপর আপনার রব ক্ষমা করবেন।"
+  },
+  "16:81": {
+    "reflectionEn": "You step into the shade of a tree on a hot afternoon and never think of it as a gift. You pull on a shirt, shut a door, and the day goes on. This verse stops on exactly those things: shade from what Allah created, hollows in the hills to shelter in, clothing against the heat, and coats of mail against the blows of a fight. None of it is rare, and that is the point. Thus He completes His favour on you, the verse says, so that you might submit. The ordinary comforts are not a neutral background; they are a summons. So I ask myself: when I am covered and safe, does it bring me nearer to Him, or only make me forget I ever needed covering?",
+    "reflectionBn": "গরম দুপুরে গাছের ছায়ায় গিয়ে দাঁড়াই, অথচ একবারও মনে হয় না এটা কারও দান। জামা গায়ে দিই, দরজা বন্ধ করি, দিন চলতে থাকে। এ আয়াত থেমে যায় ঠিক এই জিনিসগুলোর সামনে: আল্লাহর সৃষ্টি থেকে ছায়া, পাহাড়ের ভেতরে মাথা গোঁজার গুহা, গরম ঠেকানোর পোশাক, আর লড়াইয়ের আঘাত ঠেকানোর বর্ম। এর কোনোটাই দুর্লভ নয়, আর আসল কথাটা সেখানেই। আয়াত বলছে, এভাবেই তিনি তোমাদের উপর তাঁর নিয়ামত পূর্ণ করেন, যাতে তোমরা তাঁর কাছে আত্মসমর্পণ কর। রোজকার আরামগুলো তাই নিছক পটভূমি নয়, এগুলো এক ডাক। নিজেকে তাই জিজ্ঞেস করি: যখন ঢাকা থাকি, নিরাপদ থাকি, সেই নিরাপত্তা কি আমাকে তাঁর কাছে টেনে নেয়? নাকি ভুলিয়ে দেয় যে ঢেকে রাখার দরকারটা আমারই ছিল?",
+    "pointsEn": [
+      "Which shade, shelter or garment did I use today without once remembering who made it?",
+      "When I feel covered and safe, does that ease draw me toward obedience, or let me drift away from it?",
+      "Do I take the protection Allah has placed within reach, while still trusting Him rather than the thing itself?",
+      "What would submitting to Allah look like in the way I use the comforts I already have?",
+      "Who near me lacks the shade, shelter or clothing I take for granted, and what could I share with them this week?"
+    ],
+    "pointsBn": [
+      "আজ কোন ছায়া, কোন আশ্রয় বা কোন পোশাক ব্যবহার করেছি, অথচ যিনি তা বানিয়েছেন তাঁকে একবারও মনে করিনি?",
+      "যখন নিজেকে ঢাকা আর নিরাপদ মনে হয়, সেই স্বস্তি কি আমাকে আনুগত্যের দিকে টানে, নাকি ধীরে ধীরে দূরে সরিয়ে দেয়?",
+      "আল্লাহ যে সুরক্ষা হাতের নাগালে রেখেছেন, তা কি আমি গ্রহণ করি, আর ভরসাটা রাখি জিনিসটার উপর নয়, তাঁরই উপর?",
+      "যে আরামগুলো আমার হাতে আছে, সেগুলো ব্যবহারের ধরনে আল্লাহর কাছে আত্মসমর্পণ দেখতে কেমন হবে?",
+      "আমার আশপাশে কার কাছে সেই ছায়া, আশ্রয় বা কাপড় নেই যা আমি স্বাভাবিক ধরে নিই? এ সপ্তাহে তাকে কী ভাগ করে দিতে পারি?"
+    ],
+    "lessonEn": "Let every shade, shelter and garment that protects you point you to the One who made it, and answer His completed favour by submitting to Him.",
+    "lessonBn": "যে ছায়া, আশ্রয় আর পোশাক আপনাকে রক্ষা করে, তার প্রতিটি যেন আপনাকে মনে করিয়ে দেয় কে তা বানিয়েছেন। তাঁর পূর্ণ করা নিয়ামতের জবাব দিন তাঁর কাছে আত্মসমর্পণ করে।"
   }
 };
 
