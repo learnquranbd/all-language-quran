@@ -34203,6 +34203,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Each of us comes to Allah alone, without wealth, family or helper; build now the deeds that will still be with you when everything else turns back.",
     "lessonBn": "আমরা প্রত্যেকে আল্লাহর কাছে যাব একা, সম্পদ, পরিবার বা সাহায্যকারী ছাড়া। তাই এখনই সেই আমল গড়ে তুলুন, যা বাকি সব ফিরে গেলেও আপনার সঙ্গে থেকে যাবে।"
+  },
+  "20:20": {
+    "reflectionEn": "He was told to throw down the staff he had leaned on for years, and he threw it. No reason was given and he asked for none. Then the dry wood was alive and moving, a snake where a stick had been. The verse is five words in Arabic and holds nothing back: the obedience, then the sight that met his eyes. Later in this surah the sorcerers' ropes only seemed to move; this snake truly moved. The answer to his alarm, in the next verse, is a command and a reassurance. When I am told to let go of something I lean on, do I let go? And can I tell a real sign from a trick of the eye?",
+    "reflectionBn": "বহু বছর ধরে যে লাঠিতে ভর দিয়ে চলেছেন, সেটাই ফেলে দিতে বলা হলো। তিনি ফেলে দিলেন। কোনো কারণ বলা হয়নি, তিনিও জানতে চাননি। তারপর সেই শুকনো কাঠ জ্যান্ত হয়ে নড়ে উঠল। যেখানে লাঠি ছিল, সেখানে এখন সাপ। আরবিতে আয়াতটা মাত্র পাঁচ শব্দের, অথচ কিছুই আড়াল করে না: আগে আনুগত্য, তারপর চোখের সামনে যা দেখা দিল। এই সূরাতেই পরে জাদুকরদের দড়িগুলো শুধু নড়ছে বলে মনে হয়েছিল। এই সাপ সত্যিই নড়ছিল। তাঁর ভয়ের জবাব আসে ঠিক পরের আয়াতে, একটা হুকুম আর একটা অভয়বাণী হয়ে। যে জিনিসে আমি ভর দিয়ে থাকি, তা ছেড়ে দিতে বলা হলে আমি কি ছাড়তে পারি? আর সত্যিকারের নিদর্শন আর চোখের ধাঁধা, এ দুটোকে কি আমি আলাদা করে চিনতে পারি?",
+    "pointsEn": [
+      "What am I leaning on so heavily that I would hesitate if I were told to put it down?",
+      "Do I obey a clear command of Allah only once I have been told what will come of it?",
+      "When something in my life suddenly changes its shape, do I remember who changed it?",
+      "How do I tell a real sign from an impression that only seems to move?",
+      "When what Allah sets in front of me frightens me, do I turn towards His word or away from it?"
+    ],
+    "pointsBn": [
+      "কোন জিনিসে আমি এত বেশি ভর দিয়ে আছি যে, নামিয়ে রাখতে বলা হলে দ্বিধায় পড়ে যাব?",
+      "আল্লাহর স্পষ্ট হুকুমও কি আমি তখনই মানি, যখন আগে থেকে জেনে যাই এর ফল কী হবে?",
+      "জীবনের কোনো কিছু হঠাৎ রূপ বদলে ফেললে আমার কি মনে পড়ে, কে তা বদলালেন?",
+      "সত্যিকারের নিদর্শন আর শুধু নড়ছে বলে মনে হওয়া একটা ধারণা, এ দুইয়ের তফাত আমি কীভাবে করি?",
+      "আল্লাহ আমার সামনে যা রাখেন তা দেখে ভয় পেলে আমি কি তাঁর কথার দিকে ফিরি, নাকি উল্টো দিকে সরে যাই?"
+    ],
+    "lessonEn": "Obey Allah's command before you see its outcome; what you put down at His word is in His hand, and what He shows you is real, not illusion.",
+    "lessonBn": "ফলাফল দেখার আগেই আল্লাহর হুকুম মেনে নিন। তাঁর কথায় যা নামিয়ে রাখেন, তা তাঁরই হাতে থাকে। আর তিনি যা দেখান, তা সত্য, চোখের ধাঁধা নয়।"
   }
 };
 

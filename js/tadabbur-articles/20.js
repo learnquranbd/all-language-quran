@@ -747,6 +747,142 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:20": {
+    "sections": [
+      {
+        "h": {
+          "en": "Thrown Down, Then Alive",
+          "bn": "ফেলে দিতেই জীবন্ত"
+        },
+        "p": [
+          {
+            "en": "Fa-alqaha fa-idha hiya hayyatun tas'a: so he threw it down, and there it was, a snake, moving. Five words in Arabic answer the command of 20:19, alqiha ya Musa, throw it down. At-Tabari, commenting on the two verses together, spells out what happened: Allah said to Musa (AS), throw down the staff in your right hand; he threw it, and Allah made it a snake that moves. Before that, he adds, it had been a dry piece of wood, a staff to lean on and to beat down leaves for his sheep, and it became a snake by Allah's command.",
+            "bn": "ফাআলকাহা ফাইযা হিয়া হাইয়াতুন তাসআ: তখন সে তা ফেলে দিল, আর অমনি সেটা এক সাপ, ছুটে চলছে। ২০:১৯ আয়াতে হুকুম এসেছিল: আলকিহা ইয়া মূসা, ওটা ফেলে দাও। তার জবাবে এল আরবির পাঁচটি শব্দ। তাবারী দুই আয়াত একসঙ্গে ব্যাখ্যা করে ঘটনাটা খুলে বলেন। আল্লাহ মূসা (আঃ)-কে বললেন, ডান হাতের লাঠিটা ফেলে দাও। তিনি ফেলে দিলেন, আর আল্লাহ সেটাকে চলমান সাপ বানিয়ে দিলেন। তাবারী যোগ করেন, এর আগে এটা ছিল শুকনো এক টুকরো কাঠ। এতে তিনি ভর দিতেন, ভেড়ার জন্য গাছের পাতা ঝাড়তেন। আল্লাহর হুকুমেই তা সাপ হয়ে গেল।"
+          },
+          {
+            "en": "The commentators slow the moment down in different ways. Ibn Kathir says it became a snake at once, in that very instant. Al-Baghawi says he threw it as a man throws something away, and then his eye happened to fall on it, and there it was. Al-Muyassar keeps to the plain line: Musa (AS) threw it on the ground, and by Allah's leave it turned into a snake moving. None of them pauses over the obedience itself, because the verse does not. The throw follows the command with nothing in between, no question and no delay.",
+            "bn": "মুহূর্তটাকে তাফসীরকারেরা একেকজন একেকভাবে ধীর করে দেখান। ইবন কাসীর বলেন, সেটা তৎক্ষণাৎ, সেই মুহূর্তেই সাপ হয়ে গেল। বাগাভীর বর্ণনায় তিনি লাঠিটা ছুড়ে ফেলেছিলেন, যেভাবে মানুষ অদরকারি জিনিস ফেলে দেয়। তারপর হঠাৎ চোখ পড়তেই দেখেন, সেটা সাপ। মুয়াসসার সাদামাটা কথায় থাকে: মূসা (আঃ) লাঠিটা মাটিতে ফেললেন, আর আল্লাহর অনুমতিতে তা চলমান সাপে পরিণত হলো। আনুগত্যের ব্যাপারটা নিয়ে তাঁরা কেউ আলাদা করে থামেন না, কারণ আয়াতও থামে না। হুকুমের পরেই নিক্ষেপ, মাঝে কোনো প্রশ্ন নেই, কোনো দেরিও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wood Given Another Nature",
+          "bn": "কাঠ পেল অন্য স্বভাব"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi describes the change in a single sentence: Allah overturned its attributes and its accidents, its awsaf and a'rad. It had been a staff with two prongs, and the two prongs became a mouth for it, and it became a snake moving. As-Sa'di and al-Muyassar both place the change in one phrase, bi-idhni Allah, by Allah's leave. Nothing in the verse credits Musa (AS) with it. He threw a stick; what landed was no longer a stick, and the only agent the commentators name is the One who gave the command.",
+            "bn": "কুরতুবী পরিবর্তনটা এক বাক্যে বলে দেন: আল্লাহ এর গুণাবলি আর বাহ্যিক অবস্থা, আওসাফ ও আরাদ, উল্টে দিলেন। লাঠিটার ছিল দুটি শাখা। সেই দুই শাখা হয়ে গেল তার মুখ, আর লাঠিটা হয়ে গেল চলমান সাপ। সা'দী ও মুয়াসসার দুজনেই পরিবর্তনটাকে বাঁধেন একটি কথায়: বিইযনিল্লাহ, আল্লাহর অনুমতিতে। আয়াতে এর কোনো কৃতিত্ব মূসা (আঃ)-কে দেওয়া হয়নি। তিনি ছুড়েছিলেন একটা লাঠি। মাটিতে যা পড়ল, তা আর লাঠি নয়। আর তাফসীরকারেরা কর্তা হিসেবে নাম নেন কেবল তাঁরই, যিনি হুকুম দিয়েছিলেন।"
+          },
+          {
+            "en": "Ibn Kathir, in the English abridgement, reads the whole scene as proof. It was a great miracle from Allah, he says, breaking through the bounds of what is normal, plain evidence that none but Allah could do it, and proof too that no one could bring the like of it except a prophet who had been sent. He also records a view of why the question of 20:17 came first: to fix for Musa (AS) that what he held was a stick he knew, before he saw what would be done with it. The familiar thing had to be named before it was changed.",
+            "bn": "ইবন কাসীর, তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণে, পুরো দৃশ্যটাকে প্রমাণ হিসেবে পড়েন। তাঁর কথায়, এ ছিল আল্লাহর পক্ষ থেকে এক মহা মুজিযা। স্বাভাবিকের সীমা ভেঙে দেওয়া এমন ঘটনা, যা আল্লাহ ছাড়া কেউ ঘটাতে পারেন না। আবার এ এমন প্রমাণ, যার মতো কিছু প্রেরিত নবী ছাড়া আর কেউ আনতে পারে না। ২০:১৭ আয়াতের প্রশ্নটা কেন আগে এল, তারও একটি ব্যাখ্যা তিনি উল্লেখ করেন। মূসা (আঃ)-এর মনে যেন বসে যায়, হাতে যা আছে তা তাঁর চেনা একটা লাঠি। তারপরই তিনি দেখবেন সেটা দিয়ে কী করা হয়। চেনা জিনিসটার নাম আগে নেওয়া হলো, বদলানো হলো পরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Snake, Three Names",
+          "bn": "এক সাপ, তিন নাম"
+        },
+        "p": [
+          {
+            "en": "Hayya, the word for snake here, occurs as a snake nowhere else in the Qur'an. The same sign is named twice as thu'banun mubin, a manifest serpent (7:107 and 26:32), and twice compared to a jann, ka-annaha jann, as if it were a jann (27:10 and 28:31). The placing is worth noticing. Both thu'ban verses are set before Pharaoh; both jann verses, like this one, are set at the first encounter, when Musa (AS) stood alone. The commentators fetched here do not build their reconciliation on that placing, but the text shows it.",
+            "bn": "হাইয়া, এখানে সাপের জন্য যে শব্দ, সাপ অর্থে তা কুরআনের আর কোথাও আসেনি। একই নিদর্শনকে দুবার বলা হয়েছে সুউবানুন মুবীন, স্পষ্ট অজগর (৭:১০৭ ও ২৬:৩২)। আর দুবার তুলনা করা হয়েছে জান্নের সঙ্গে, কাআন্নাহা জান্ন, যেন সেটা এক জান্ন (২৭:১০ ও ২৮:৩১)। কোথায় কোন শব্দ, সেটা খেয়াল করার মতো। সুউবানের দুই আয়াতই ফেরাউনের সামনের দৃশ্য। জান্নের দুই আয়াত, এ আয়াতের মতোই, প্রথম সাক্ষাতের দৃশ্য, যখন মূসা (আঃ) একা দাঁড়িয়ে। এখানে যেসব তাফসীর দেখা হয়েছে, সেগুলো এই অবস্থানকে মিলনের ভিত্তি বানায় না। তবে পাঠ নিজেই তা দেখিয়ে দেয়।"
+          },
+          {
+            "en": "Al-Baghawi defines the three words. The jann is the small snake, light of body; the thu'ban is the largest that snakes can be; and the hayya gathers the small and the large, the male and the female. Ma'arif al-Qur'an, citing al-Mazhari, gives the same: jann a small and slim snake, thu'ban a long and thick one, hayya a generic name for snakes of every size and thickness. So the word chosen for this verse is the one wide enough to hold both of the others. Al-Baghawi adds a colour: a yellow snake, among the greatest of snakes.",
+            "bn": "বাগাভী তিনটি শব্দের সংজ্ঞা দেন। জান্ন হলো ছোট, হালকা শরীরের সাপ। সুউবান হলো সাপ যত বড় হতে পারে তত বড়। আর হাইয়া শব্দে ছোট-বড়, নর-মাদি সবই ধরা পড়ে। মাআরিফুল কুরআন মাযহারীর বরাতে একই কথা বলে: জান্ন ছোট ও সরু সাপ, সুউবান লম্বা ও মোটা, আর হাইয়া সব আকার ও সব গড়নের সাপের সাধারণ নাম। অর্থাৎ এ আয়াতে বেছে নেওয়া হয়েছে সেই শব্দ, যার পরিসর বাকি দুটোকেই ধারণ করতে পারে। বাগাভী একটা রংও যোগ করেন: হলুদ সাপ, সবচেয়ে বড় সাপগুলোর একটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Small at First, or Swift",
+          "bn": "শুরুতে ছোট, নাকি দ্রুতগামী"
+        },
+        "p": [
+          {
+            "en": "How can one snake be both the largest kind and like the small one? Al-Baghawi gives two answers, each introduced with qila, it has been said. In the first, jann describes the beginning of its state: it was a snake the size of the staff, then it swelled and puffed out until it became a thu'ban, and thu'ban describes the end of its state. In the second, it had the bulk of a thu'ban and the speed of a jann at the same time. He leaves the two side by side and chooses neither.",
+            "bn": "একই সাপ কীভাবে সবচেয়ে বড় জাতেরও হয়, আবার ছোট সাপের মতোও হয়? বাগাভী দুটি উত্তর দেন, দুটোই কীলা, অর্থাৎ 'বলা হয়েছে' দিয়ে শুরু। প্রথম মতে, জান্ন তার শুরুর অবস্থার বর্ণনা। তখন সাপটা ছিল লাঠির সমান। তারপর তা ফুলে-ফেঁপে বাড়তে বাড়তে সুউবান হয়ে যায়, আর সুউবান তার শেষ অবস্থার বর্ণনা। দ্বিতীয় মতে, একই সময়ে তার দেহ ছিল সুউবানের মতো বিশাল, আর গতি জান্নের মতো। বাগাভী দুটো মত পাশাপাশি রেখে দেন, কোনোটাকে বেছে নেন না।"
+          },
+          {
+            "en": "Ibn Kathir states the second answer as his own reading. It became at once a huge snake, a long thu'ban moving with rapid movement, quivering as if it were a jann, which is the fastest of snakes in movement but small; this one, he says, was at the utmost of size and the utmost of speed. Al-Jalalayn says much the same: a giant snake moving about on its belly swiftly, with the speed of the small snake called al-jann, the word used for this serpent in 27:10 and 28:31.",
+            "bn": "ইবন কাসীর দ্বিতীয় উত্তরটাকেই নিজের ব্যাখ্যা হিসেবে বলেন। তাঁর কথায়, সেটা তৎক্ষণাৎ বিশাল সাপ হয়ে গেল, লম্বা এক সুউবান, খুব দ্রুত নড়ছে, কিলবিল করছে যেন জান্ন। জান্ন সব সাপের মধ্যে সবচেয়ে দ্রুত চলে, তবে আকারে ছোট। আর এটি, তিনি বলেন, আকারে ছিল চূড়ান্ত বড়, গতিতেও চূড়ান্ত দ্রুত। জালালাইনও প্রায় একই কথা বলে: বিশাল এক সাপ, পেটে ভর দিয়ে দ্রুত চলছে, জান্ন নামের ছোট সাপের গতিতে। ২৭:১০ ও ২৮:৩১ আয়াতে এই সাপের জন্য সেই শব্দই এসেছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, again citing al-Mazhari, offers both answers joined by an or. Either the snake was slim and small at first and grew later in size and thickness, or it was long and thick from the start and was called jann for its speed, since as a general rule big, thick snakes move slowly. The ka-annaha, as if, of 28:31 points the same way, it adds, to a likeness in movement. Al-Baghawi and Ma'arif leave the matter open; Ibn Kathir and al-Jalalayn choose between them. The article keeps both.",
+            "bn": "মাআরিফুল কুরআন আবারও মাযহারীর বরাতে দুটো উত্তরই দেয়, 'অথবা' দিয়ে জুড়ে। হয় সাপটা শুরুতে সরু ও ছোট ছিল, পরে আকারে আর গড়নে বেড়েছে। নয়তো শুরু থেকেই তা ছিল লম্বা ও মোটা, আর গতির কারণে তাকে জান্ন বলা হয়েছে, কেননা সাধারণত বড় ও মোটা সাপ ধীরে চলে। মাআরিফ যোগ করে, ২৮:৩১ আয়াতের কাআন্নাহা, অর্থাৎ 'যেন', সেদিকেই ইঙ্গিত করে: মিলটা চলার ধরনে। বাগাভী ও মাআরিফ প্রশ্নটা খোলা রাখেন। ইবন কাসীর ও জালালাইন এর মধ্যে বেছে নেন। এ লেখা দুটো মতই রেখে দিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Moving, Not Seeming To",
+          "bn": "নড়ছে, নড়ার ভান নয়"
+        },
+        "p": [
+          {
+            "en": "Tas'a, the verse's last word, is glossed in several ways. Ibn Kathir: it walks and writhes, tamshi wa-tadtarib, which his English abridgement renders as moving restlessly. Al-Baghawi: it moves fast on its belly. Al-Qurtubi: it moves from place to place, walks, and swallows stones. Tanwir al-Miqbas, attributed to Ibn Abbas, renders it gliding, and adds that when it lifted its head Musa (AS) ran from it. Every gloss is a word of motion. Whatever its size, the commentators agree the thing on the ground was going somewhere.",
+            "bn": "আয়াতের শেষ শব্দ তাসআ, যার ব্যাখ্যা এসেছে নানাভাবে। ইবন কাসীর বলেন, তামশী ওয়া তাদতারিব: হাঁটছে আর মোচড় খাচ্ছে। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণে আছে অস্থিরভাবে নড়ছে। বাগাভী বলেন, পেটে ভর দিয়ে দ্রুত চলছে। কুরতুবী বলেন, এক জায়গা থেকে আরেক জায়গায় সরে যাচ্ছে, হাঁটছে, পাথর গিলছে। ইবন আব্বাসের নামে প্রচলিত তানভীরুল মিকবাস একে বলে পিছলে চলা, আর যোগ করে, সাপটা মাথা তুলতেই মূসা (আঃ) সেখান থেকে দৌড়ে সরে গেলেন। প্রতিটি ব্যাখ্যাই চলার শব্দ। আকার যা-ই হোক, মাটিতে পড়া জিনিসটা যে কোথাও ছুটে যাচ্ছিল, এ বিষয়ে তাফসীরকারেরা একমত।"
+          },
+          {
+            "en": "As-Sa'di finds a purpose in the word. In describing it as tas'a, he says, there is the removal of a notion that might arise: that someone would think it an imagining, takhyil, and not a reality. That it moved removes the notion. The point gains weight a little later in this surah. In 20:66 the sorcerers' ropes and staffs are described with the same verb, but governed by another: yukhayyalu ilayhi min sihrihim annaha tas'a, it seemed to him, from their magic, that they were moving. There the motion was an impression; here nothing stands between the snake and its moving.",
+            "bn": "সা'দী শব্দটার মধ্যে একটা উদ্দেশ্য খুঁজে পান। তাঁর কথায়, তাসআ বলে বর্ণনা করার মধ্যে একটা সম্ভাব্য ভুল ধারণা দূর করা হয়েছে। কেউ ভাবতে পারত, এটা তাখয়ীল, চোখের কল্পনা মাত্র, বাস্তব কিছু নয়। সাপটা যে চলছিল, এটাই সেই ধারণা মুছে দেয়। এ সূরাতেই একটু পরে কথাটার ওজন বোঝা যায়। ২০:৬৬ আয়াতে জাদুকরদের দড়ি আর লাঠির বর্ণনায় একই ক্রিয়া এসেছে, তবে আরেকটা ক্রিয়ার অধীনে: ইউখাইয়ালু ইলাইহি মিন সিহরিহিম আন্নাহা তাসআ, তাদের জাদুর ফলে তাঁর মনে হচ্ছিল সেগুলো ছুটে বেড়াচ্ছে। সেখানে চলাটা ছিল কেবল মনে হওয়া। এখানে সাপ আর তার চলার মাঝে আর কিছু নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Narrations Add",
+          "bn": "বর্ণনাগুলোর বাড়তি কথা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, with his chain through 'Ikrima, and Ibn Kathir, quoting Ibn Abi Hatim by the same route, carry a report from Ibn Abbas (RA). It had not been a snake before, he says; it passed a tree and ate it, passed a rock and swallowed it, and Musa (AS) could hear the rock fall inside it, and he turned away. The report then runs on into the calls of 20:21 and 28:31. These are a Companion's words in a tafsir chain, not a saying of the Prophet ﷺ, and neither commentator grades them in the text fetched.",
+            "bn": "তাবারী ইকরিমার সূত্রে নিজের সনদে, আর ইবন কাসীর একই পথে ইবন আবী হাতিমের বরাতে, ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন। তিনি বলেন, এর আগে সেটা সাপ ছিল না। সেটা একটা গাছের পাশ দিয়ে গিয়ে গাছটা খেয়ে ফেলল, একটা পাথরের পাশ দিয়ে গিয়ে পাথরটা গিলে ফেলল। পাথরটা তার পেটের ভেতরে পড়ার শব্দ মূসা (আঃ) শুনতে পাচ্ছিলেন, আর তিনি মুখ ফিরিয়ে নিলেন। বর্ণনাটা এরপর ২০:২১ ও ২৮:৩১ আয়াতের আহ্বান পর্যন্ত গড়ায়। এগুলো তাফসীরের সনদে আসা একজন সাহাবীর কথা, নবী ﷺ-এর বাণী নয়। আর এখানে দেখা পাঠে দুই তাফসীরকারের কেউই এর মান নির্ণয় করেননি।"
+          },
+          {
+            "en": "Wahb ibn Munabbih, in at-Tabari's chain through Ibn Ishaq and again in Ibn Kathir, and Muhammad ibn Ishaq in al-Baghawi, describe the snake's fangs, eyes, jaws and size, at greatest length in Ibn Kathir. It is their account, not the Prophet's ﷺ, and the Qur'an gives none of its details, so this article only notes that it exists and builds nothing on it. Wahb's report in Ibn Kathir then continues into what happened when Musa (AS) took hold of the snake, which belongs to 20:21. No fetched tafsir attaches a hadith of the Prophet ﷺ to this verse.",
+            "bn": "ওয়াহব ইবন মুনাব্বিহ, তাবারীতে ইবন ইসহাকের সূত্রে আর ইবন কাসীরেও, এবং বাগাভীতে মুহাম্মাদ ইবন ইসহাক, সাপটার দাঁত, চোখ, চোয়াল আর আকারের বর্ণনা দিয়েছেন, সবচেয়ে বিস্তারিতভাবে ইবন কাসীরে। এটা তাঁদেরই বিবরণ, নবী ﷺ-এর নয়। কুরআনও এর কোনো খুঁটিনাটি দেয় না। তাই এ লেখা শুধু জানিয়ে রাখছে যে এমন বর্ণনা আছে, এর উপর কিছুই দাঁড় করাচ্ছে না। ইবন কাসীরে ওয়াহবের বর্ণনা এরপর গিয়ে পৌঁছায় মূসা (আঃ) সাপটা হাতে ধরার সময়ের ঘটনায়, যা ২০:২১ আয়াতের বিষয়। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস জুড়ে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turning From the Sight",
+          "bn": "দৃশ্য থেকে মুখ ফেরানো"
+        },
+        "p": [
+          {
+            "en": "What Musa (AS) did next, this verse does not say. The commentators bring it in from the two jann verses, where the Qur'an says walla mudbiran wa-lam yu'aqqib, he turned his back and did not look round (27:10 and 28:31). Al-Muyassar: Musa saw something immense and turned in flight. As-Sa'di: he turned away fleeing and afraid. Al-Qurtubi: when he saw it, he saw an 'ibra, a sight that holds a lesson, and turned. At-Tabari, through Wahb: he saw a dreadful thing, amran fazi'an, and turned his back.",
+            "bn": "এরপর মূসা (আঃ) কী করলেন, এ আয়াত তা বলে না। তাফসীরকারেরা সেটা আনেন জান্নের দুই আয়াত থেকে, যেখানে কুরআন বলে, ওয়াল্লা মুদবিরান ওয়ালাম ইউআক্কিব: তিনি পেছন ফিরে চললেন, আর ফিরেও তাকালেন না (২৭:১০ ও ২৮:৩১)। মুয়াসসার বলে, মূসা বিরাট এক ব্যাপার দেখলেন আর পালিয়ে যেতে মুখ ফেরালেন। সা'দী বলেন, তিনি ভয় পেয়ে পালাতে মুখ ফেরালেন। কুরতুবী বলেন, তিনি যখন সেটা দেখলেন, দেখলেন এক ইবরা, শিক্ষা নেওয়ার মতো দৃশ্য, আর মুখ ফেরালেন। তাবারী ওয়াহবের সূত্রে বলেন, তিনি ভয়ংকর এক ব্যাপার, আমরান ফাযীআন, দেখলেন আর পেছন ফিরলেন।"
+          },
+          {
+            "en": "The commentators describe the turning as the response to what they call immense and dreadful, and they leave it there. The Qur'an's own answer is a call. In 20:21 it is take it and do not fear, which has its own page. In 27:10 it is O Musa, do not fear; in My presence the messengers do not fear. In 28:31 it is come forward and do not fear; you are among the secure. The text meets the moment with a command and an assurance, and this article adds no verdict of its own to it.",
+            "bn": "তাফসীরকারেরা মুখ ফেরানোটাকে বর্ণনা করেন সেই দৃশ্যের প্রতিক্রিয়া হিসেবে, যাকে তাঁরা বলেন বিরাট আর ভয়ংকর। এর বেশি তাঁরা বলেন না। কুরআনের নিজের জবাব একটি আহ্বান। ২০:২১ আয়াতে তা হলো, ওটা ধর, ভয় পেও না। সে আয়াতের আলোচনা আলাদা। ২৭:১০ আয়াতে, হে মূসা, ভয় পেও না, আমার সামনে রাসূলেরা ভয় পায় না। ২৮:৩১ আয়াতে, সামনে এসো, ভয় পেও না, তুমি নিরাপদদের একজন। পাঠ মুহূর্তটার মুখোমুখি হয় একটা হুকুম আর একটা আশ্বাস নিয়ে। এ লেখা তার উপর নিজের কোনো রায় জুড়ে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Truly Moves",
+          "bn": "যা সত্যিই নড়ে"
+        },
+        "p": [
+          {
+            "en": "The staff passes through three states in three verses. It is in his right hand when Allah asks about it, on the ground when Allah commands it, and alive by Allah's leave. At each stage the commentators name one agent. A reader can take from this something simple and hard: what we lean on is ours to lean on only as long as He leaves it so, and what He asks us to put down is not lost by being put down. Musa (AS) threw his staff without being told why, and the why came after.",
+            "bn": "তিনটি আয়াতে লাঠিটা তিনটি অবস্থা পার হয়। আল্লাহ যখন জিজ্ঞেস করেন, তখন তা তাঁর ডান হাতে। আল্লাহ যখন হুকুম দেন, তখন মাটিতে। আর আল্লাহর অনুমতিতে তা জীবন্ত। প্রতিটি ধাপে তাফসীরকারেরা কর্তা হিসেবে একজনেরই নাম নেন। পাঠক এখান থেকে সহজ অথচ কঠিন একটা কথা নিতে পারেন। যে জিনিসে আমরা ভর দিই, তাতে ভর দেওয়া চলে ততক্ষণই, যতক্ষণ তিনি তা রেখে দেন। আর তিনি যা নামিয়ে রাখতে বলেন, নামিয়ে রাখলেই তা হারিয়ে যায় না। মূসা (আঃ) কারণ না জেনেই লাঠি ফেলেছিলেন। কারণটা এসেছিল পরে।"
+          },
+          {
+            "en": "As-Sa'di's remark gives the second lesson. A sign from Allah does not need the viewer's imagination to complete it; it moves on its own, and the verse says so in its last word. The surah sets that beside the sorcerers' ropes, which only seemed to move. Much in a life can seem to move without moving, and some of it is spun to frighten. The way through is shown here: hold to the word that came from Allah, and when a sight shakes you, listen for His call, which came to Musa (AS) as fear not.",
+            "bn": "সা'দীর মন্তব্য থেকে আসে দ্বিতীয় শিক্ষা। আল্লাহর নিদর্শন পূর্ণ হতে দর্শকের কল্পনার দরকার হয় না। তা নিজে থেকেই চলে, আর আয়াত তার শেষ শব্দে সে কথাই বলে দেয়। সূরাটি এর পাশে রাখে জাদুকরদের দড়ি, যেগুলো শুধু নড়ছে বলে মনে হয়েছিল। জীবনে অনেক কিছুই না নড়েও নড়ছে বলে মনে হতে পারে, আর তার কিছু বানানোই হয় ভয় দেখানোর জন্য। এখান থেকে বেরোনোর পথ এ আয়াতেই দেখানো আছে: আল্লাহর কাছ থেকে আসা কথাকে আঁকড়ে ধরুন। আর কোনো দৃশ্য আপনাকে নাড়িয়ে দিলে কান পাতুন তাঁর ডাকের দিকে, যা মূসা (আঃ)-এর কাছে এসেছিল এভাবে: ভয় পেও না।"
+          }
+        ]
+      }
+    ]
+  },
   "20:22": {
     "sections": [
       {
