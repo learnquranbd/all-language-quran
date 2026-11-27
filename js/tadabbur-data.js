@@ -34999,6 +34999,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Lord of the seven heavens and the mighty Throne is the One you already name; let His greatness shrink your other fears and leave Him alone to be feared.",
     "lessonBn": "সাত আসমান আর মহান আরশের রব তিনিই, যাঁর নাম আপনি আগে থেকেই নেন। তাঁর বড়ত্ব আপনার অন্য সব ভয় ছোট করে দিক, ভয় থাকুক শুধু তাঁরই।"
+  },
+  "23:106": {
+    "reflectionEn": "Asked about the verses they heard and denied, the people of the Fire answer with a confession: our Lord, our wretchedness overcame us, and we were a people astray. No denial is left in them now. They name the thing that defeated them, and they name their own straying. But the confession comes at the one hour when confessing changes nothing, and the next words they hear are a sentence, not a reprieve. The same two admissions are open to me today, while they still count. What is overpowering me now: a desire, a habit, a pride? And where am I walking like someone who has lost the way, knowing the road and still not taking it?",
+    "reflectionBn": "যে আয়াতগুলো তারা শুনেছিল আর মিথ্যা বলে উড়িয়ে দিয়েছিল, সে বিষয়ে প্রশ্ন আসতেই জাহান্নামীরা জবাব দেয় স্বীকারোক্তি দিয়ে: হে আমাদের রব, আমাদের দুর্ভাগ্য আমাদের উপর চেপে বসেছিল, আর আমরা ছিলাম পথহারা এক জাতি। অস্বীকার করার মতো কিছু আর তাদের হাতে নেই। যে জিনিস তাদের হারিয়ে দিয়েছে, তার নাম তারা নিজেরাই নেয়। নিজেদের পথ হারানোর কথাও মুখে আনে। কিন্তু স্বীকারোক্তিটা আসে ঠিক সেই সময়ে, যখন স্বীকার করে আর কিছু বদলায় না। এর পরে তারা যা শোনে তা রায়, রেহাই নয়। এই দুটো স্বীকারোক্তি আজ আমার সামনেও খোলা, এখনো যখন তার দাম আছে। কোন জিনিস এখন আমার উপর চেপে বসছে: কোনো কামনা, কোনো অভ্যাস, নাকি অহংকার? আর কোথায় আমি পথহারা মানুষের মতো হাঁটছি, রাস্তা চিনেও সে রাস্তায় উঠছি না?",
+    "pointsEn": [
+      "What in my life is overcoming me right now, and have I named it before Allah while naming it can still change something?",
+      "When I fall short, do I explain it by what was written for me, or do I own the choices that were mine?",
+      "Which verses have I heard recited many times without letting them change one thing I do?",
+      "Where do I know the right road and still walk the wrong one, like someone who has lost the way?",
+      "What admission am I putting off that I would want to have made before the hour when it no longer helps?"
+    ],
+    "pointsBn": [
+      "আমার জীবনে এখন কোন জিনিস আমার উপর চেপে বসছে? নাম নিলে যখন এখনো কিছু বদলাতে পারে, তখন কি আমি আল্লাহর সামনে তার নাম নিয়েছি?",
+      "পিছিয়ে পড়লে আমি কি তা আমার ভাগ্যে লেখা ছিল বলে ব্যাখ্যা করি, নাকি যে সিদ্ধান্তগুলো আমার নিজের ছিল তার দায় নিই?",
+      "কোন আয়াতগুলো আমি বহুবার তিলাওয়াত হতে শুনেছি, অথচ আমার একটা কাজও তা দিয়ে বদলাতে দিইনি?",
+      "কোথায় আমি সঠিক রাস্তা চিনি, তবু পথহারা মানুষের মতো ভুল রাস্তায় হাঁটছি?",
+      "কোন স্বীকারোক্তি আমি পিছিয়ে রাখছি, যা সেই সময়ের আগেই করে ফেলতে চাইতাম, যখন আর তাতে কোনো লাভ হবে না?"
+    ],
+    "lessonEn": "Admit your faults and your straying to Allah now, while admitting them can still change something, not on the Day when confession comes too late.",
+    "lessonBn": "নিজের দোষ আর পথ হারানোর কথা আল্লাহর কাছে এখনই স্বীকার করুন, যখন তাতে এখনো কিছু বদলায়। সেই দিনের জন্য রাখবেন না, যেদিন স্বীকারোক্তি আসে বড় দেরিতে।"
   }
 };
 

@@ -5247,6 +5247,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:106": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Answer to Verses Denied",
+          "bn": "অস্বীকৃত আয়াতের জবাব"
+        },
+        "p": [
+          {
+            "en": "The verse is one line in a dialogue. Verses 23:103 and 23:104 describe those whose scales are light and whose faces the Fire sears. Then comes a question in 23:105: were not My verses recited to you, and you used to deny them? Ibn Kathir, in the English abridgement, reads it as a rebuke that closes every excuse: I sent you messengers, revealed Books and cleared away the confusion. He sets beside it 4:165, no plea against Allah after the messengers, and 17:15, no punishment before a messenger comes.",
+            "bn": "আয়াতটি একটি কথোপকথনের একটি লাইন। ২৩:১০৩ ও ২৩:১০৪ আয়াতে তাদের কথা, যাদের পাল্লা হালকা আর যাদের মুখ আগুনে ঝলসে যায়। তারপর ২৩:১০৫ আয়াতে প্রশ্ন আসে: তোমাদের কাছে কি আমার আয়াত তিলাওয়াত করা হতো না, আর তোমরা কি সেগুলোকে মিথ্যা বলতে না? ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ একে এমন তিরস্কার হিসেবে পড়ে, যা সব অজুহাতের দরজা বন্ধ করে দেয়: আমি রাসূল পাঠিয়েছি, কিতাব নাযিল করেছি, সংশয় দূর করে দিয়েছি। এর পাশে তিনি রাখেন ৪:১৬৫ আয়াত, রাসূলদের পরে আল্লাহর বিরুদ্ধে মানুষের কোনো যুক্তি থাকে না। আর রাখেন ১৭:১৫ আয়াত, রাসূল না পাঠিয়ে তিনি শাস্তি দেন না।"
+          },
+          {
+            "en": "Ibn Kathir also sets beside it 67:8 to 67:11, where each time a group is cast into the Fire its keepers ask whether no warner came to them, and the passage ends: so away with the companions of the Blaze. The question in 23:105 is of that kind. It is not asked to learn anything. It reminds the people of the Fire that the warning did reach them, so that whatever they say next, they say as people who were told.",
+            "bn": "ইবন কাসীর এর পাশে আরও রাখেন ৬৭:৮ থেকে ৬৭:১১ আয়াত। সেখানে যখনই কোনো দলকে আগুনে ফেলা হয়, প্রহরীরা জিজ্ঞেস করে, তোমাদের কাছে কি কোনো সতর্ককারী আসেনি? আর সে অংশ শেষ হয় এ কথায়: জ্বলন্ত আগুনের বাসিন্দারা দূর হোক। ২৩:১০৫ আয়াতের প্রশ্নও সেই ধরনের। কিছু জানার জন্য এ প্রশ্ন নয়। এ প্রশ্ন জাহান্নামীদের মনে করিয়ে দেয় যে সতর্কবাণী তাদের কাছে ঠিকই পৌঁছেছিল। ফলে এরপর তারা যা-ই বলুক, বলছে এমন মানুষ হিসেবে, যাদের আগেই জানানো হয়েছিল।"
+          },
+          {
+            "en": "Our verse is their reply, eight words in Arabic: qalu rabbana ghalabat 'alayna shiqwatuna wa kunna qawman dallin, they will say: our Lord, our wretchedness overcame us, and we were a people astray. What follows is close and belongs to its own pages. In 23:107 they ask to be brought out, and in 23:108 they are told to remain there despised and not to speak. Ibn Kathir likens their request to 40:11 and 40:12. This page stays with the confession itself.",
+            "bn": "আমাদের আয়াতটি তাদের জবাব, আরবিতে আটটি শব্দ: কালূ রাব্বানা গালাবাত আলাইনা শিকওয়াতুনা ওয়া কুন্না কাওমান দাল্লীন। তারা বলবে, হে আমাদের রব, আমাদের দুর্ভাগ্য আমাদের উপর জয়ী হয়েছিল, আর আমরা ছিলাম পথভ্রষ্ট এক জাতি। এর পরের অংশ খুব কাছের, তবে তার আলোচনা আলাদা পাতায়। ২৩:১০৭ আয়াতে তারা বের হয়ে আসার আর্জি জানায়, আর ২৩:১০৮ আয়াতে তাদের বলা হয় লাঞ্ছিত অবস্থায় সেখানেই পড়ে থাকতে আর কথা না বলতে। ইবন কাসীর তাদের আর্জিকে মেলান ৪০:১১ ও ৪০:১২ আয়াতের সঙ্গে। এ পাতা থাকবে স্বীকারোক্তিটুকু নিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shiqwatuna or Shaqawatuna",
+          "bn": "শিকওয়াতুনা, নাকি শাকাওয়াতুনা"
+        },
+        "p": [
+          {
+            "en": "The key word has two readings. Al-Qurtubi reports shiqwatuna as the reading of the people of Madinah, Abu 'Amr and 'Asim, and shaqawatuna as the reading of the Kufans except 'Asim. He adds that shaqawatuna is narrated from Ibn Mas'ud and al-Hasan, and that the noun is also said shaqa' and shaqan, long and short. Al-Baghawi names Hamza and al-Kisa'i for shaqawatuna and calls the two forms two dialects of one word.",
+            "bn": "মূল শব্দটির দুটি কিরাআত আছে। কুরতুবী জানান, শিকওয়াতুনা পড়েন মদীনাবাসী, আবু আমর ও আসিম। আর শাকাওয়াতুনা পড়েন আসিম ছাড়া কূফার কারীগণ। তিনি আরও বলেন, শাকাওয়াতুনা পাঠটি ইবন মাসউদ (রাঃ) ও হাসান থেকেও বর্ণিত। শব্দটি দীর্ঘ ও হ্রস্ব দুইভাবে শাকা' আর শাকা রূপেও বলা হয়। বাগাভী শাকাওয়াতুনা পাঠের জন্য হামযা ও কিসাঈর নাম নেন। তাঁর মতে দুটি রূপ একই শব্দের দুই আঞ্চলিক ভাষা।"
+          },
+          {
+            "en": "At-Tabari gives the same split in his own terms: most readers of Madinah and Basra and some of Kufa read shiqwatuna, with kasra on the shin and no alif, and most Kufan readers read shaqawatuna, with fatha on the shin and an alif. His judgement is that both are well-known readings, each read by scholars of recitation with one meaning, so whichever a reciter reads he is correct. No difference of sense hangs on the vowel. The commentators differ over something else: what this wretchedness is that the speakers say overcame them.",
+            "bn": "তাবারী একই ভাগ দেখান নিজের ভাষায়। মদীনা ও বসরার অধিকাংশ কারী এবং কূফার কিছু কারী পড়েন শিকওয়াতুনা, শীনে যের দিয়ে, আলিফ ছাড়া। আর কূফার অধিকাংশ কারী পড়েন শাকাওয়াতুনা, শীনে যবর আর আলিফসহ। তাঁর সিদ্ধান্ত: দুটিই প্রসিদ্ধ কিরাআত। কিরাআতের আলেমরা দুটিই পড়েছেন, অর্থ একই। তাই যে পাঠই কেউ পড়ুক, সে ঠিক পড়ল। স্বরচিহ্নের উপর অর্থের কোনো পার্থক্য নির্ভর করে না। তাফসীরকারদের মতভেদ অন্য জায়গায়: যে দুর্ভাগ্য তাদের উপর জয়ী হয়েছিল বলে তারা দাবি করে, সেটা আসলে কী?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Was Written Against Them",
+          "bn": "যা তাদের নামে লেখা ছিল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's own paraphrase is: they will say, our Lord, what preceded for us in Your prior knowledge and was inscribed for us in the Mother of the Book overcame us. He says the people of interpretation said the same, and gives Mujahid by several chains: allati kutibat 'alayna, the wretchedness that was written against us. Al-Baghawi says the same in a line: our wretchedness that was written for us overcame us, so we were not guided.",
+            "bn": "তাবারীর নিজের ব্যাখ্যা এই: তারা বলবে, হে আমাদের রব, তোমার পূর্বজ্ঞানে আমাদের জন্য যা আগেই স্থির ছিল আর উম্মুল কিতাবে আমাদের নামে যা লেখা হয়েছিল, তা-ই আমাদের উপর জয়ী হয়েছে। তিনি বলেন, তাফসীরের আলেমরাও এমনই বলেছেন। এরপর কয়েকটি সূত্রে মুজাহিদের কথা আনেন: আল্লাতী কুতিবাত আলাইনা, আমাদের নামে যে দুর্ভাগ্য লেখা হয়েছিল। বাগাভীও এক লাইনে একই কথা বলেন: আমাদের জন্য লেখা দুর্ভাগ্য আমাদের উপর জয়ী হলো, তাই আমরা হিদায়াত পাইনি।"
+          },
+          {
+            "en": "Al-Qurtubi records this too, under it is said: what preceded in Your knowledge and was written for us of wretchedness in the Mother of the Book. A long report that at-Tabari relays from Muhammad ibn Ka'b al-Qurazi ends on the same gloss, al-kitab alladhi kutiba 'alayna, the writ that was written against us. On this line the speakers point to the decree. These are explanations of what the speakers mean by their words; the verse itself quotes them and adds no comment.",
+            "bn": "কুরতুবীও 'বলা হয়' কথাটি দিয়ে এ মত উল্লেখ করেন: তোমার জ্ঞানে যা আগেই ছিল, আর উম্মুল কিতাবে আমাদের জন্য যে দুর্ভাগ্য লেখা হয়েছিল। মুহাম্মাদ ইবন কা'ব কুরাযী থেকে তাবারী যে দীর্ঘ বর্ণনা আনেন, তার শেষেও একই ব্যাখ্যা: আল-কিতাবুল্লাযী কুতিবা আলাইনা, আমাদের বিরুদ্ধে লেখা সেই লিপি। এ ব্যাখ্যায় বক্তারা ইঙ্গিত করছে তাকদীরের দিকে। তবে এগুলো বক্তাদের কথার অর্থের ব্যাখ্যা মাত্র। আয়াত নিজে শুধু তাদের কথা উদ্ধৃত করে, কোনো মন্তব্য জোড়ে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pleasures Named for Their End",
+          "bn": "পরিণতির নামে কামনার নাম"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives a different reading and calls it the best that has been said on the meaning: our pleasures and our desires overcame us. Pleasures and desires are called shiqwa, he explains, because they lead to it. He compares the way Allah speaks of those who consume the wealth of orphans unjustly in 4:10: they only eat fire into their bellies, because that eating leads them to the Fire. The thing is named by where it ends.",
+            "bn": "কুরতুবী ভিন্ন এক ব্যাখ্যা দেন এবং বলেন, এর অর্থ নিয়ে যা বলা হয়েছে তার মধ্যে এটিই সবচেয়ে উত্তম: আমাদের ভোগবিলাস আর প্রবৃত্তির খেয়াল আমাদের উপর জয়ী হয়েছিল। তিনি বুঝিয়ে দেন, ভোগ আর কামনাকে শিকওয়া বলা হয়েছে, কারণ এগুলো মানুষকে দুর্ভাগ্যের দিকে টেনে নেয়। তুলনা হিসেবে তিনি আনেন ৪:১০ আয়াত, যেখানে আল্লাহ বলেন, যারা অন্যায়ভাবে ইয়াতীমের সম্পদ খায়, তারা আসলে পেটে আগুন ভরে। কারণ সেই খাওয়া তাদের আগুনে পৌঁছে দেয়। জিনিসের নাম রাখা হয়েছে তার শেষ ঠিকানা দিয়ে।"
+          },
+          {
+            "en": "Al-Muyassar holds both lines in a single sentence. When the messengers had conveyed the message and warned them, they will say on the Day of Resurrection: our Lord, our pleasures and desires, decreed for us in Your prior knowledge, overcame us, and we were, in what we did, astray from guidance. Al-Qurtubi also records a third view under it is said: the wretchedness was thinking well of oneself and thinking ill of other people. He gives it no further comment.",
+            "bn": "মুয়াসসার দুটি ধারাকে একটি বাক্যেই ধরে রাখে। রাসূলরা যখন বার্তা পৌঁছে দিয়েছেন আর সতর্ক করেছেন, তখন কিয়ামতের দিন তারা বলবে: হে আমাদের রব, তোমার পূর্বজ্ঞানে আমাদের জন্য নির্ধারিত আমাদের ভোগ আর কামনা আমাদের উপর জয়ী হয়েছিল, আর নিজেদের কাজে আমরা হিদায়াত থেকে দূরে সরে গিয়েছিলাম। কুরতুবী 'বলা হয়' দিয়ে তৃতীয় এক মতও উল্লেখ করেন: নিজের সম্পর্কে ভালো ধারণা আর মানুষের সম্পর্কে মন্দ ধারণা, এটাই সেই দুর্ভাগ্য। এ মত নিয়ে তিনি আর কিছু বলেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wretchedness Born of Wrongdoing",
+          "bn": "জুলুম থেকে জন্ম নেওয়া দুর্ভাগ্য"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the word from the other end: the wretchedness that arose from wrongdoing and from turning away from the truth, from turning towards what harms and leaving what benefits. Ibn Kathir's Arabic says: the proof had been established against us, but we were too wretched to submit to it and follow it, so we strayed from it and were not granted it. The English abridgement keeps the same sense: we were so doomed that we could not follow it.",
+            "bn": "সাদী শব্দটিকে পড়েন উল্টো দিক থেকে: সেই দুর্ভাগ্য, যা জন্ম নিয়েছে জুলুম থেকে, সত্য থেকে মুখ ফিরিয়ে নেওয়া থেকে, ক্ষতিকর জিনিসের দিকে ঝোঁকা আর উপকারী জিনিস ছেড়ে দেওয়া থেকে। ইবন কাসীরের আরবি তাফসীর বলে: আমাদের বিরুদ্ধে প্রমাণ প্রতিষ্ঠিত হয়ে গিয়েছিল। কিন্তু আমরা এতটাই হতভাগা ছিলাম যে তার কাছে মাথা নোয়াইনি, তার অনুসরণ করিনি। ফলে আমরা তা থেকে পথ হারিয়েছি, আর তা আমাদের ভাগ্যে জোটেনি। ইংরেজি সংক্ষিপ্ত সংস্করণেও একই অর্থ: আমরা এতই দুর্ভাগা ছিলাম যে তা মানতে পারিনি।"
+          },
+          {
+            "en": "Whichever reading is taken, the sentence has two halves in the speakers' own mouths. In the first, the wretchedness is the subject of ghalabat and they are the ones overcome. In the second, wa kunna qawman dallin, the subject is we, and they describe themselves. The commentators' difference concerns the first half. None of the fetched texts reads the second half as anything other than their own report of how they lived.",
+            "bn": "যে ব্যাখ্যাই নেওয়া হোক, বাক্যটির দুটি অংশ, দুটিই বক্তাদের নিজেদের মুখের। প্রথম অংশে গালাবাত ক্রিয়ার কর্তা দুর্ভাগ্য, আর তারা পরাজিত পক্ষ। দ্বিতীয় অংশে, ওয়া কুন্না কাওমান দাল্লীন, কর্তা তারা নিজেরাই, নিজেদের বর্ণনা নিজেরা দিচ্ছে। তাফসীরকারদের মতভেদ প্রথম অংশ নিয়ে। দ্বিতীয় অংশকে সংগৃহীত কোনো লেখাই অন্যভাবে পড়েনি। সবার কাছেই তা নিজেদের জীবনযাপনের বিবরণ, তাদের নিজেদের মুখে।"
+          },
+          {
+            "en": "So the commentators divide. At-Tabari, Mujahid and al-Baghawi take shiqwa as what was written for them. Al-Qurtubi prefers pleasures and desires that lead to wretchedness. As-Sa'di makes it a wretchedness born of their own wrongdoing. Al-Muyassar joins the desires to the prior knowledge. This page leaves the difference where they leave it. What Ibn Kathir and al-Muyassar both state outright is that the words come from people to whom the warning had already been delivered.",
+            "bn": "তাফসীরকারেরা তাই ভাগ হয়ে যান। তাবারী, মুজাহিদ ও বাগাভী শিকওয়া বলতে বোঝেন তাদের জন্য যা লেখা ছিল। কুরতুবী অগ্রাধিকার দেন সেই ভোগ ও কামনাকে, যা দুর্ভাগ্যের দিকে নিয়ে যায়। সাদীর মতে এ দুর্ভাগ্য তাদের নিজেদের জুলুম থেকে জন্ম নেওয়া। মুয়াসসার কামনাকে জুড়ে দেয় আল্লাহর পূর্বজ্ঞানের সঙ্গে। মতভেদটা তাঁরা যেখানে রেখেছেন, এ পাতাও সেখানেই রাখছে। তবে ইবন কাসীর ও মুয়াসসার দুজনেই স্পষ্ট বলেন, এ কথা তাদের মুখের, যাদের কাছে সতর্কবাণী আগেই পৌঁছে গিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Confession, Not an Excuse",
+          "bn": "অজুহাত নয়, স্বীকারোক্তি"
+        },
+        "p": [
+          {
+            "en": "The second half, wa kunna qawman dallin, draws closer agreement. At-Tabari: we were a people who strayed from the path of right conduct and the aim of the truth. Al-Qurtubi and al-Muyassar: we were, in what we did, astray from guidance. As-Sa'di adds that they say this of their deeds even though they knew they were wrongdoers: we acted in the world as the lost, straying, foolish person acts. He sets beside it 67:10: had we only listened or reasoned, we would not be among the companions of the Blaze.",
+            "bn": "দ্বিতীয় অংশ, ওয়া কুন্না কাওমান দাল্লীন, নিয়ে মতের মিল বেশি। তাবারী বলেন: আমরা ছিলাম এমন জাতি, যারা সঠিক পথ আর সত্যের লক্ষ্য থেকে বিচ্যুত হয়েছিল। কুরতুবী ও মুয়াসসারের ভাষায়: নিজেদের কাজে আমরা হিদায়াত থেকে দূরে সরে গিয়েছিলাম। সাদী যোগ করেন, তারা জালিম ছিল জেনেও নিজেদের আমল সম্পর্কে এ কথা বলে: দুনিয়ায় আমরা চলেছি দিশাহারা, পথভ্রষ্ট, নির্বোধ মানুষের মতো। এর পাশে তিনি রাখেন ৬৭:১০ আয়াত: আমরা যদি শুনতাম বা বুঝতাম, তাহলে জ্বলন্ত আগুনের বাসিন্দাদের মধ্যে থাকতাম না।"
+          },
+          {
+            "en": "Two commentators read the whole sentence as an admission. Al-Qurtubi says plainly: this is not an excuse from them; it is an acknowledgement, and he begins to cite their next words as proof, where the fetched text breaks off. As-Sa'di opens his comment with the same point and its sting: at that moment they acknowledged their wrongdoing, at a point where acknowledging it no longer benefits. Whatever they meant by shiqwa, on this reading they are not arguing their case. They are conceding it.",
+            "bn": "দুজন তাফসীরকার পুরো বাক্যটিকে স্বীকারোক্তি হিসেবে পড়েন। কুরতুবী সোজাসুজি বলেন: এটা তাদের পক্ষ থেকে অজুহাত নয়, এটা স্বীকারোক্তি। প্রমাণ হিসেবে তিনি তাদের পরের কথা আনতে শুরু করেন, আর সংগৃহীত লেখাটি সেখানেই থেমে যায়। সাদী তাঁর আলোচনা শুরু করেন একই কথা দিয়ে, সঙ্গে তার তিক্ত দিকটাও বলেন: তখন তারা নিজেদের জুলুম স্বীকার করল, এমন সময়ে যখন স্বীকার করায় আর কোনো লাভ নেই। শিকওয়া বলতে তারা যা-ই বোঝাক, এ পাঠে তারা নিজেদের পক্ষে মামলা লড়ছে না। তারা হার মেনে নিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pleas Spaced by Long Silence",
+          "bn": "দীর্ঘ নীরবতায় ঘেরা আর্জি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari relays reports from early figures after the Companions that place the verse in a sequence. Ibn Jurayj says it reached him that the people of the Fire call on the keepers of Hell, then on Malik, the keeper, who is silent for forty years before answering that they will remain. Then the wretched call on their Lord with 23:106 and 23:107, and He leaves them for as long as the world lasted before answering with 23:108.",
+            "bn": "তাবারী সাহাবীদের পরের যুগের কয়েকজনের বর্ণনা আনেন, যা আয়াতটিকে একটি ধারাবাহিকতায় বসায়। ইবন জুরাইজ বলেন, তাঁর কাছে এ কথা পৌঁছেছে: জাহান্নামীরা প্রথমে জাহান্নামের প্রহরীদের ডাকে। তারপর ডাকে জাহান্নামের প্রহরী মালিককে, যিনি চল্লিশ বছর চুপ থেকে জবাব দেন, তোমরা এখানেই থাকবে। এরপর হতভাগারা তাদের রবকে ডাকে ২৩:১০৬ ও ২৩:১০৭ আয়াতের কথায়। তিনি দুনিয়ার আয়ুষ্কালের সমান সময় তাদের ফেলে রাখেন, তারপর ২৩:১০৮ আয়াতের কথায় জবাব দেন।"
+          },
+          {
+            "en": "Muhammad ibn Ka'b, saying it reached him or was mentioned to him, strings together a longer series of pleas, each answered with a verse. It ends with 23:105; they say, now He will have mercy on us, and speak 23:106 and 23:107; then comes 23:108, after which they do not speak in it again, and their pleading and hope are cut off. Abu Bakr ibn 'Abd Allah, also in at-Tabari, swears that they spoke no word after it, only sighing and wailing.",
+            "bn": "মুহাম্মাদ ইবন কা'ব বলেন, কথাটি তাঁর কাছে পৌঁছেছে বা তাঁকে বলা হয়েছে। তিনি আর্জির আরও দীর্ঘ এক ধারা সাজান, যার প্রতিটির জবাব একটি করে আয়াত। ধারাটি শেষ হয় ২৩:১০৫ আয়াতে। তখন তারা বলে, এবার তিনি আমাদের উপর রহম করবেন, আর বলে ফেলে ২৩:১০৬ ও ২৩:১০৭ আয়াতের কথা। তারপর আসে ২৩:১০৮, যার পরে তারা সেখানে আর কখনো কথা বলে না, তাদের আর্জি আর আশা দুটোই শেষ হয়ে যায়। তাবারীতে আবু বকর ইবন আবদুল্লাহ কসম খেয়ে বলেন, এর পরে তারা আর একটি কথাও বলেনি, শুধু দীর্ঘশ্বাস আর আর্তনাদ।"
+          },
+          {
+            "en": "The same report, as at-Tabari gives it, ends with the Fire closing over them. Ibn al-Mubarak, one of its narrators, adds from al-Azhar ibn Abi al-Azhar that this is the meaning of 77:35 and 77:36: this is a Day on which they will not speak, nor will they be permitted to offer excuses. On this report, the answer in 23:108 is the last thing addressed to them, and their own words in 23:106 and 23:107 are among the last they say.",
+            "bn": "তাবারী যেভাবে বর্ণনাটি এনেছেন, তার শেষে আগুন তাদের উপর বন্ধ হয়ে যায়। বর্ণনাকারীদের একজন, আবদুল্লাহ ইবনুল মুবারক, আযহার ইবন আবিল আযহার থেকে যোগ করেন যে ৭৭:৩৫ ও ৭৭:৩৬ আয়াতের অর্থ এটাই: এ সেই দিন, যেদিন তারা কথা বলবে না, আর তাদের অজুহাত পেশ করার অনুমতিও দেওয়া হবে না। এ বর্ণনা অনুযায়ী ২৩:১০৮ আয়াতের জবাবই তাদের উদ্দেশে বলা শেষ কথা। আর ২৩:১০৬ ও ২৩:১০৭ আয়াতে তাদের নিজেদের কথাগুলো তাদের শেষ কথাগুলোর মধ্যে পড়ে।"
+          },
+          {
+            "en": "These are the words of early figures after the Companions, carried by at-Tabari's chains. In the fetched text none of them is raised to the Prophet ﷺ, and at-Tabari attaches no grading. They show how early readers heard the order of 23:105 to 23:108, and no more should be built on their details. No fetched tafsir attaches a sound hadith to this verse.",
+            "bn": "এগুলো সাহাবীদের পরের যুগের কয়েকজন মানুষের কথা, তাবারীর সনদে বর্ণিত। সংগৃহীত লেখায় এর কোনোটিই নবী ﷺ পর্যন্ত পৌঁছানো নয়, আর তাবারী এগুলোর কোনো মান নির্ধারণ করেননি। প্রথম যুগের মানুষ ২৩:১০৫ থেকে ২৩:১০৮ আয়াতের ক্রম কীভাবে বুঝেছিলেন, এগুলো তা দেখায়। এর খুঁটিনাটির উপর এর বেশি কিছু দাঁড় করানো ঠিক নয়। সংগৃহীত কোনো তাফসীর এ আয়াতের সঙ্গে কোনো সহীহ হাদীস জোড়েনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "While Speaking Still Counts",
+          "bn": "যতক্ষণ কথার দাম আছে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: the words of people in the Fire who had denied the verses recited to them. It licenses nothing against any living person or community. No one can read off another person's face what has been written for them, and none of the fetched commentators uses the verse to name anyone. A reader who reaches for it to pronounce someone else wretched has taken a confession and turned it into an accusation.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: জাহান্নামের সেই মানুষদের কথা, যারা তাদের সামনে তিলাওয়াত করা আয়াতগুলো অস্বীকার করেছিল। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। কারও চেহারা দেখে কেউ বলতে পারে না তার জন্য কী লেখা আছে। সংগৃহীত কোনো তাফসীরকারও এ আয়াত দিয়ে কারও নাম নেননি। কেউ যদি অন্য কাউকে হতভাগা ঘোষণা করতে এ আয়াত টেনে আনে, তবে সে একটা স্বীকারোক্তিকে বানিয়ে ফেলল অভিযোগ।"
+          },
+          {
+            "en": "As-Sa'di's gloss carries a second warning. They call themselves astray, he says, even though they knew they were wrongdoers. What they describe is not ignorance of the road but walking off it. A reader can recognise that pattern without waiting for the Day: knowing what a verse asks, hearing it often, and still acting as the lost person acts. The verse gives the pattern its name in the mouths of those who can no longer change it.",
+            "bn": "সাদীর ব্যাখ্যায় দ্বিতীয় একটা সতর্কবাণীও আছে। তিনি বলেন, নিজেদের জালিম জেনেও তারা নিজেদের পথভ্রষ্ট বলে। অর্থাৎ তারা যা বর্ণনা করছে তা রাস্তা না চেনা নয়, রাস্তা চিনে তা থেকে সরে যাওয়া। এ ধরন চিনতে পাঠককে কিয়ামতের দিনের অপেক্ষা করতে হয় না। কোনো আয়াত কী চায় তা জানা, বারবার শোনা, তবু দিশাহারা মানুষের মতো চলা। যারা আর কিছুই বদলাতে পারে না, তাদের মুখে আয়াতটি এ ধরনের নাম দিয়ে দেয়।"
+          },
+          {
+            "en": "What the verse holds out to a living reader is a matter of timing. The two admissions it records, something overpowered me and I lost the way, are made in the Fire, where, in as-Sa'di's words, admitting no longer benefits. The question of 23:105 is one a reader meets whenever verses are recited. The same admissions, made now before Allah, are still words spoken while speaking is allowed, and the answer of 23:108 has not yet been given.",
+            "bn": "জীবিত পাঠকের জন্য আয়াতটির শিক্ষা সময় নিয়ে। এতে যে দুটি স্বীকারোক্তি আছে, কিছু একটা আমার উপর জয়ী হয়েছিল আর আমি পথ হারিয়েছিলাম, সেগুলো উচ্চারিত হয় জাহান্নামে। সাদীর ভাষায়, সেখানে স্বীকার করায় আর লাভ নেই। ২৩:১০৫ আয়াতের প্রশ্নটি পাঠকের সামনে আসে প্রতিবার, যখনই আয়াত তিলাওয়াত হয়। একই স্বীকারোক্তি আজ আল্লাহর সামনে করলে তা এমন সময়ের কথা, যখন কথা বলার অনুমতি এখনো আছে। ২৩:১০৮ আয়াতের জবাব তখনো দেওয়া হয়নি।"
+          }
+        ]
+      }
+    ]
+  },
   "23:110": {
     "sections": [
       {
