@@ -37933,6 +37933,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Shared wrong is not lighter wrong: choose your companions while choosing still helps, and take no comfort from a crowd that does what you do.",
     "lessonBn": "ভাগ করা অন্যায় হালকা অন্যায় নয়: বাছাইয়ের সুযোগ থাকতেই সঙ্গী বেছে নিন, আর আপনার মতো কাজ করা ভিড় দেখে সান্ত্বনা খুঁজবেন না।"
+  },
+  "44:22": {
+    "reflectionEn": "Musa has asked for very little: hand over the servants of Allah, and if you will not believe me, at least leave me alone. They would not. So he turns, not to a weapon or a plot, but to his Lord, and what he says is hardly a request at all. He names what they have become, a people of crime, and leaves the rest with the One who already sees it. The answer in the next verse is a road out by night, not a battle. This is one prophet speaking of one people in his own age, not a curse for anyone to borrow. When I am wronged and worn down, do I carry my case to Allah honestly, or to the crowd?",
+    "reflectionBn": "মূসা (আঃ) খুব সামান্যই চেয়েছিলেন: আল্লাহর বান্দাদের আমার হাতে দাও, আর আমাকে বিশ্বাস না করলে অন্তত আমাকে আমার মতো থাকতে দাও। তারা সেটুকুও দিল না। তখন তিনি অস্ত্র বা ষড়যন্ত্রের দিকে হাত বাড়াননি, ফিরেছেন নিজের রবের দিকে। আর যা বলেছেন, তাকে দাবি বলাই কঠিন। তারা যা হয়ে উঠেছে, শুধু সেটুকু তিনি জানিয়ে দেন: এরা অপরাধী সম্প্রদায়। বাকিটা ছেড়ে দেন তাঁর হাতে, যিনি আগে থেকেই সব দেখছেন। পরের আয়াতে জবাব আসে রাতের আঁধারে বেরিয়ে যাওয়ার পথ হয়ে, যুদ্ধ হয়ে নয়। এ এক নবীর কথা, তাঁর নিজের যুগের এক সম্প্রদায় সম্পর্কে। কারও ধার করে নেওয়ার মতো অভিশাপ এটা নয়। আমার উপর অন্যায় হলে, ক্লান্ত হয়ে পড়লে, আমি কি নিজের নালিশ সততার সঙ্গে আল্লাহর কাছে নিয়ে যাই, নাকি মানুষের ভিড়ে?",
+    "pointsEn": [
+      "How much patience and plain speaking do I give someone before I decide there is nothing left for me to say?",
+      "When I have been wronged, whom do I tell first: Allah, or everyone around me?",
+      "Can I bring my situation to Allah simply by describing it truthfully, without dressing it up in demands?",
+      "Have I ever borrowed words the Qur'an said about a people of the past to judge or curse people living now?",
+      "If my prayer were answered with a way out rather than with the other side's defeat, would I recognise it as an answer?"
+    ],
+    "pointsBn": [
+      "কাউকে কতটা ধৈর্য আর কতটা সোজা কথা দিই, তারপর ঠিক করি যে তাকে আর কিছু বলার নেই?",
+      "আমার উপর অন্যায় হলে প্রথমে কাকে জানাই: আল্লাহকে, নাকি আশপাশের সবাইকে?",
+      "দাবির পোশাক না পরিয়ে, শুধু নিজের অবস্থাটা সত্যভাবে খুলে বলেই কি আমি আল্লাহর কাছে হাজির হতে পারি?",
+      "অতীতের কোনো জাতি সম্পর্কে কুরআনের বলা কথা ধার করে আমি কি কখনো আজকের মানুষকে বিচার করেছি বা অভিশাপ দিয়েছি?",
+      "আমার দু'আর জবাব যদি আসে প্রতিপক্ষের পরাজয় হয়ে নয়, বেরিয়ে যাওয়ার একটা পথ হয়ে, আমি কি সেটাকে জবাব বলে চিনতে পারব?"
+    ],
+    "lessonEn": "When you have been patient and are still wronged, take your case to Allah in plain, honest words, and leave the outcome with Him instead of reaching for revenge or curses.",
+    "lessonBn": "ধৈর্য ধরার পরও অন্যায়ের শিকার হলে নিজের নালিশ সোজা ও সত্য কথায় আল্লাহর কাছে নিয়ে যান, আর প্রতিশোধ বা অভিশাপের দিকে না গিয়ে ফলাফল তাঁর হাতে ছেড়ে দিন।"
   }
 };
 

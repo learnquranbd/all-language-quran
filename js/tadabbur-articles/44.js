@@ -895,6 +895,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "44:22": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Plea to Be Left",
+          "bn": "একা থাকতে চাওয়ার পর"
+        },
+        "p": [
+          {
+            "en": "The verse has six Arabic words: fa-da'a rabbahu anna ha'ula'i qawmun mujrimun, so he called on his Lord: these are a criminal people. It stands at a turning point. In 44:18 to 44:21 Musa (AS) has asked Fir'awn's people to hand over the servants of Allah, warned them not to exalt themselves against Allah, sought refuge from their threats, and at last asked only to be left alone. The two verses after it, 44:23 and 44:24, bring the command to leave by night and to let the sea lie still.",
+            "bn": "আয়াতটিতে আরবি শব্দ ছয়টি: ফাদাআ রাব্বাহূ আন্না হা-উলা-ই কাওমুম মুজরিমূন, তখন তিনি তাঁর রবকে ডাকলেন: এরা এক অপরাধী সম্প্রদায়। আয়াতটি দাঁড়িয়ে আছে এক মোড়ে। ৪৪:১৮ থেকে ৪৪:২১ পর্যন্ত মূসা (আঃ) ফেরাউনের লোকদের বলেছেন আল্লাহর বান্দাদের তাঁর হাতে তুলে দিতে, আল্লাহর বিরুদ্ধে ঔদ্ধত্য না দেখাতে। তাদের হুমকি থেকে রবের কাছে আশ্রয় চেয়েছেন। শেষে শুধু এটুকু চেয়েছেন যে তাঁকে যেন নিজের মতো থাকতে দেওয়া হয়। পরের দুই আয়াত, ৪৪:২৩ ও ৪৪:২৪, নিয়ে আসে রাতে বেরিয়ে পড়ার আর সাগরকে স্থির রেখে যাওয়ার আদেশ।"
+          },
+          {
+            "en": "Notice what the verse does not contain. There is no imperative in Musa's words, no 'destroy them' or 'punish them', and no call on anyone else to act. The only verb belongs to the narrator: he called. What follows anna is a statement about a people, given as the content of the call. The small particle fa at the start ties the call to what came before it, and the commentators spend most of their few lines on that link: what had happened before he called, and what the word mujrimun names.",
+            "bn": "আয়াতে কী নেই, সেটাও লক্ষ করার মতো। মূসা (আঃ)-এর কথায় কোনো আদেশ নেই। 'ওদের ধ্বংস করুন' বা 'ওদের শাস্তি দিন' জাতীয় কিছু নেই, অন্য কাউকে কিছু করতে ডাকাও নেই। একমাত্র ক্রিয়াটি বর্ণনাকারীর: তিনি ডাকলেন। আন্না-র পরে যা আসে, তা এক সম্প্রদায় সম্পর্কে একটি খবর, আর সেটাই ডাকের বিষয়। শুরুর ছোট্ট ফা অব্যয়টি এ ডাককে আগের ঘটনার সঙ্গে বেঁধে দেয়। তাফসীরকারদের অল্প কয়েক লাইনের বেশিরভাগ গেছে এই যোগসূত্রে: ডাকার আগে কী ঘটেছিল, আর মুজরিমূন শব্দটি আসলে কী বোঝায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Came Before the Call",
+          "bn": "ডাকার আগে যা ঘটেছিল"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi says the phrase fa-da'a rabbahu contains an ellipsis: they disbelieved, so he called on his Lord. The Qur'an leaves the refusal unspoken because the verses before it have already made it plain. At-Tabari fills the gap with a list. Musa called on his Lord when they denied him, did not believe in him, did not hand over to him the servants of Allah, and resolved to kill him. Read beside 44:18 to 44:21, the list answers Musa's requests one by one, each refused in turn.",
+            "bn": "কুরতুবী বলেন, ফাদাআ রাব্বাহূ কথাটির আগে একটি অংশ উহ্য আছে: তারা কুফরি করল, তাই তিনি তাঁর রবকে ডাকলেন। প্রত্যাখ্যানের কথাটা কুরআন আর মুখে আনেনি, কারণ আগের আয়াতগুলো তা স্পষ্ট করে দিয়েছে। তাবারী ফাঁকটা ভরেন একটা তালিকা দিয়ে। মূসা তাঁর রবকে ডেকেছিলেন যখন তারা তাঁকে মিথ্যাবাদী বলল, তাঁর উপর ঈমান আনল না, আল্লাহর বান্দাদের তাঁর হাতে তুলে দিল না, আর তাঁকে হত্যার মতলব আঁটল। ৪৪:১৮ থেকে ৪৪:২১ পাশে রেখে পড়লে দেখা যায়, তালিকাটা মূসার অনুরোধগুলোর জবাব। একটার পর একটা, সবই তারা ফিরিয়ে দিয়েছে।"
+          },
+          {
+            "en": "The Muyassar keeps the occasion short: he called on his Lord when Fir'awn and his people denied him and did not believe in him. Ibn Kathir, in the Arabic, gives the call a longer preamble. When his stay among them grew long, and he had set Allah's proofs before them, and all of that only increased them in disbelief and obstinacy, he called on his Lord against them. The English abridgement of Ibn Kathir keeps the same order: a long stay, the proof established, and only then the prayer.",
+            "bn": "মুয়াসসার উপলক্ষটা সংক্ষেপে বলে: ফেরাউন ও তার লোকেরা যখন তাঁকে মিথ্যাবাদী বলল আর তাঁর উপর ঈমান আনল না, তখন তিনি রবকে ডাকলেন। আরবি ইবন কাসীরে ডাকের আগে একটু দীর্ঘ ভূমিকা আছে। তাদের মাঝে তাঁর অবস্থান যখন দীর্ঘ হলো, তিনি তাদের সামনে আল্লাহর প্রমাণগুলো দাঁড় করালেন, আর এসব কিছু তাদের কুফরি ও জেদ শুধু বাড়িয়েই দিল, তখন তিনি তাদের বিরুদ্ধে রবকে ডাকলেন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণেও একই ক্রম: দীর্ঘ অবস্থান, প্রমাণ প্রতিষ্ঠা, তারপর দু'আ।"
+          },
+          {
+            "en": "None of the commentators has the call come early. In every account it follows refusal, and in Ibn Kathir's it follows a long stay in which Allah's proofs had been set before them. The order matters for the reader. Patient argument, a warning, a plea for refuge and a request to be left in peace all came first. Only when the door those verses held open had been shut did Musa (AS) take the matter to his Lord in these words. The verse is the end of a long road, not a reflex at the first insult.",
+            "bn": "কোনো তাফসীরকারই ডাকটাকে তাড়াহুড়োর কাজ বলে দেখাননি। সব বর্ণনায় তা আসে প্রত্যাখ্যানের পরে। ইবন কাসীরের বর্ণনায় আসে এমন এক দীর্ঘ অবস্থানের পর, যখন আল্লাহর প্রমাণগুলো তাদের সামনে রাখা হয়ে গেছে। পাঠকের জন্য এই ক্রমটা গুরুত্বপূর্ণ। আগে এসেছে ধৈর্যের সঙ্গে যুক্তি, সতর্কবাণী, আশ্রয় প্রার্থনা, আর শান্তিতে থাকতে দেওয়ার অনুরোধ। ওই আয়াতগুলো যে দরজা খোলা রেখেছিল, তা বন্ধ হওয়ার পরই মূসা (আঃ) এই কথাগুলো নিয়ে রবের কাছে গেলেন। আয়াতটি এক দীর্ঘ পথের শেষ মাথা। প্রথম অপমানেই ছুড়ে দেওয়া প্রতিক্রিয়া নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Crime Against Whom",
+          "bn": "অপরাধ কার বিরুদ্ধে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari first names who ha'ula'i, these, are: Fir'awn and his people. Then he glosses qawmun mujrimun in a single phrase: they associate partners with Allah and disbelieve in Him. The Muyassar uses the same pair, mushrikun bi-llah kafirun, and al-Baghawi reduces the gloss to one word, mushrikun. For these three, the crime Musa (AS) reports is first a crime against Allah: worship given to others besides Him, and the truth He sent refused when His messenger brought it to their door.",
+            "bn": "তাবারী প্রথমে বলে দেন হা-উলা-ই, অর্থাৎ 'এরা' কারা: ফেরাউন ও তার লোকজন। তারপর কাওমুম মুজরিমূনের ব্যাখ্যা দেন এক বাক্যাংশে: তারা আল্লাহর সঙ্গে শরিক করে, তাঁকে অস্বীকার করে। মুয়াসসারও একই জোড়া শব্দ ব্যবহার করে, মুশরিকূনা বিল্লাহি কাফিরূন। বাগাভী ব্যাখ্যাটা নামিয়ে আনেন এক শব্দে: মুশরিকূন। এই তিনজনের কাছে মূসা (আঃ) যে অপরাধের খবর দিচ্ছেন, তা প্রথমত আল্লাহর বিরুদ্ধে অপরাধ। ইবাদত গেছে তিনি ছাড়া অন্যদের কাছে। আর তাঁর পাঠানো সত্য তাঁর রসূল তাদের দুয়ারে পৌঁছে দিলেও তারা তা ফিরিয়ে দিয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi also begins with mushrikun, then adds a clause that widens the charge: they had refused to release the Children of Israel, and refused to believe. His gloss joins two refusals in one word. One is owed to Allah: faith in Him and in His messenger. The other is owed to people: the freedom of a community held in bondage. The request of 44:18, to hand over the servants of Allah, stands behind the second refusal, and al-Qurtubi keeps it inside the meaning of mujrimun rather than leaving it to the story.",
+            "bn": "কুরতুবীও শুরু করেন মুশরিকূন দিয়ে, তারপর একটি অংশ জুড়ে অভিযোগটা আরও বড় করেন: তারা বনী ইসরাঈলকে ছেড়ে দিতে অস্বীকার করেছিল, ঈমান আনতেও অস্বীকার করেছিল। তাঁর ব্যাখ্যায় এক শব্দের ভেতরে দুটি প্রত্যাখ্যান। একটি আল্লাহর হক: তাঁর উপর ও তাঁর রসূলের উপর ঈমান। অন্যটি মানুষের হক: দাসত্বে আটকে থাকা এক জনগোষ্ঠীর মুক্তি। ৪৪:১৮ আয়াতের দাবি, আল্লাহর বান্দাদের হাতে তুলে দাও, এই দ্বিতীয় প্রত্যাখ্যানের পেছনে দাঁড়িয়ে আছে। কুরতুবী সেটা কাহিনির হাতে ছেড়ে না দিয়ে মুজরিমূন শব্দের অর্থের ভেতরেই রেখেছেন।"
+          },
+          {
+            "en": "As-Sa'di reads the word by its weight rather than its content. They had committed a crime, he says, of the kind that calls for punishment to be hastened. His gloss looks ahead to what follows in 44:23 and 44:24. The commentators do not contradict one another here; they light different sides of one word. At-Tabari, the Muyassar and al-Baghawi say what the crime was. Al-Qurtubi adds whom else it harmed. As-Sa'di says what it had come to deserve, and in his reading Musa only reports it to the One who decides.",
+            "bn": "সা'দী শব্দটিকে পড়েন তার বিষয় দিয়ে নয়, তার ওজন দিয়ে। তিনি বলেন, তারা এমন অপরাধ করেছিল, যা শাস্তিকে ত্বরান্বিত করার দাবি রাখে। তাঁর ব্যাখ্যার চোখ সামনের দিকে, ৪৪:২৩ ও ৪৪:২৪ আয়াতে যা ঘটবে তার দিকে। এখানে তাফসীরকারেরা পরস্পরের বিরোধিতা করছেন না। একই শব্দের ভিন্ন ভিন্ন দিকে আলো ফেলছেন। তাবারী, মুয়াসসার ও বাগাভী বলেন অপরাধটা কী ছিল। কুরতুবী যোগ করেন, তা আর কার ক্ষতি করেছিল। সা'দী বলেন, তা কিসের যোগ্য হয়ে উঠেছিল। আর তাঁর পাঠে মূসা শুধু খবরটা পৌঁছে দেন তাঁর কাছে, ফয়সালা যাঁর হাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer Made by Describing",
+          "bn": "অবস্থা জানিয়েই দু'আ"
+        },
+        "p": [
+          {
+            "en": "The content of the call comes after anna, with a fatha, and al-Qurtubi explains it as bi-anna: he called on his Lord with this, that these are a criminal people. At-Tabari's paraphrase carries the same bi-anna. So the call has a content, and the content is a description. Musa (AS) tells his Lord what these people are. He does not, in this verse, tell Him what to do with them, and he does not set a time, a manner or a measure for whatever comes next.",
+            "bn": "ডাকের বিষয়বস্তু এসেছে যবরযুক্ত আন্না-র পরে। কুরতুবী একে ব্যাখ্যা করেন বি-আন্না হিসেবে: তিনি তাঁর রবকে ডাকলেন এই কথা দিয়ে যে, এরা এক অপরাধী সম্প্রদায়। তাবারীর ব্যাখ্যাতেও একই বি-আন্না। অর্থাৎ ডাকের একটা বিষয় আছে, আর সেই বিষয়টা একটা বর্ণনা। মূসা (আঃ) তাঁর রবকে জানাচ্ছেন এরা কেমন লোক। এ আয়াতে তিনি বলছেন না তাদের নিয়ে কী করতে হবে। পরে যা আসবে, তার সময়, ধরন বা মাত্রাও তিনি ঠিক করে দিচ্ছেন না।"
+          },
+          {
+            "en": "As-Sa'di makes this the heart of his short comment. Musa informed his Lord of their condition, he says, and this is a prayer made by the state, du'a bi-l-hal, which is more eloquent than a prayer made in words. He sets it beside another prayer of Musa's, in 28:24: rabbi inni li-ma anzalta ilayya min khayrin faqir, my Lord, I am in need of whatever good You send down to me. There too Musa (AS) names nothing he wants. He states his need and leaves the rest to the Lord he addresses.",
+            "bn": "সা'দীর ছোট্ট মন্তব্যের প্রাণ এই কথাটাই। তিনি বলেন, মূসা তাঁর রবকে তাদের অবস্থার খবর দিলেন। এটা অবস্থা দিয়ে দু'আ, দু'আ বিল-হাল, যা মুখের কথার দু'আর চেয়ে বেশি মর্মস্পর্শী। এর পাশে তিনি রাখেন মূসার আরেকটি দু'আ, ২৮:২৪ আয়াতে: রাব্বি ইন্নী লিমা আনযালতা ইলাইয়্যা মিন খাইরিন ফাকীর, হে আমার রব, আপনি আমার প্রতি যে কল্যাণই নাযিল করবেন, আমি তার মুখাপেক্ষী। সেখানেও মূসা (আঃ) চাওয়ার জিনিসটার নাম নেননি। নিজের প্রয়োজনটুকু জানিয়েছেন, বাকিটা ছেড়ে দিয়েছেন যাঁকে ডাকছেন তাঁর হাতে।"
+          },
+          {
+            "en": "The two prayers face opposite ways. In 28:24 Musa describes his own poverty; in 44:22 he describes the people who have wronged him. In both, the description is the request. It assumes a Listener who already knows, and who needs nothing explained to Him before He acts. As-Sa'di calls such a prayer more eloquent than words, and read that way the verse models a stance: setting the matter out truthfully before Allah, without inflating it and without prescribing the remedy, and trusting Him to judge what the truth requires and when it is due.",
+            "bn": "দুটি দু'আর মুখ দুই দিকে। ২৮:২৪ আয়াতে মূসা বর্ণনা করছেন নিজের অভাব। ৪৪:২২ আয়াতে বর্ণনা করছেন সেই লোকদের, যারা তাঁর উপর অন্যায় করেছে। দুই জায়গাতেই বর্ণনাটাই প্রার্থনা। এর পেছনে আছে এমন এক শ্রোতার উপর ভরসা, যিনি আগেই জানেন, কাজ করার আগে যাঁকে কিছু বুঝিয়ে বলতে হয় না। সা'দী এমন দু'আকে মুখের কথার চেয়ে বেশি মর্মস্পর্শী বলেছেন। সেভাবে পড়লে আয়াতটি একটা অবস্থান শেখায়: বিষয়টা বাড়িয়ে না বলে, প্রতিকারের ব্যবস্থাপত্র না দিয়ে, সত্যভাবে আল্লাহর সামনে তুলে ধরা। তারপর ভরসা রাখা যে সত্য কী দাবি করে আর কখন, তা তিনিই ঠিক করবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Called Against, Then Answered",
+          "bn": "বিরুদ্ধে ডাক, তারপর সাড়া"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir frames the same six words more sharply. In his Arabic, Musa called on his Lord against them, da'a rabbahu 'alayhim, with a call that took effect upon them, nafadhat fihim. He then cites 10:88 and 10:89 as the same prayer told more fully, ending with Allah's word that it was accepted, and introduces our verse with the words: and so He said here. For Ibn Kathir, 44:22 is the brief report of a prayer whose fuller wording and acceptance Surah Yunus records.",
+            "bn": "ইবন কাসীর একই ছয়টি শব্দকে আরও তীক্ষ্ণভাবে দেখেন। তাঁর আরবি তাফসীরে মূসা তাদের বিরুদ্ধে রবকে ডেকেছিলেন, দাআ রাব্বাহূ আলাইহিম, এমন এক ডাকে যা তাদের উপর কার্যকর হয়েছিল, নাফাযাত ফীহিম। এরপর তিনি ১০:৮৮ ও ১০:৮৯ আয়াত উল্লেখ করেন, সেখানে একই দু'আ আরও বিস্তারে এসেছে, আর শেষে আল্লাহ জানিয়েছেন দু'আটি কবুল হয়েছে। তারপর আমাদের আয়াতটি আনেন এই কথায়: আর এখানেও তিনি এভাবেই বলেছেন। ইবন কাসীরের কাছে ৪৪:২২ সেই দু'আর সংক্ষিপ্ত খবর, যার পূর্ণ ভাষা আর কবুল হওয়ার কথা সূরা ইউনুসে আছে।"
+          },
+          {
+            "en": "Ibn Kathir and as-Sa'di do not disagree about what happened, but they stress different sides of it. For Ibn Kathir the six words are a prayer against a people, and it was answered. For as-Sa'di they are a report of a people's state, set before Allah who judges, and the report itself is the prayer. This article keeps both framings as the two commentators give them, without choosing between them. In both, what follows the call is Allah's doing and not Musa's.",
+            "bn": "কী ঘটেছিল, তা নিয়ে ইবন কাসীর ও সা'দীর মধ্যে মতভেদ নেই। তবে দুজন জোর দেন দুই দিকে। ইবন কাসীরের কাছে ছয়টি শব্দ এক সম্প্রদায়ের বিরুদ্ধে দু'আ, আর সে দু'আ কবুল হয়েছে। সা'দীর কাছে এগুলো এক সম্প্রদায়ের অবস্থার খবর, যা জানানো হচ্ছে বিচারকর্তার কাছে, আর খবরটাই দু'আ। এ প্রবন্ধ দুটি দৃষ্টিভঙ্গিই রাখছে, যেভাবে দুই তাফসীরকার দিয়েছেন, কোনোটিকে বেছে না নিয়ে। দুই পাঠেই ডাকের পরে যা ঘটে, তা আল্লাহর কাজ, মূসার নয়।"
+          },
+          {
+            "en": "The answer itself is left unspoken between the verses. At-Tabari, commenting on 44:23, says the words contain an omission understood from context: his Lord answered him, saying, then travel by night with My servants. Al-Qurtubi has the same on that verse: We answered his prayer and revealed to him. Al-Baghawi says it in one line under 44:22: Allah answered him and commanded him to travel by night. Ibn Kathir adds that the command was to bring the Children of Israel out from among them without Fir'awn's order, consultation or permission.",
+            "bn": "সাড়াটা নিজে দুই আয়াতের মাঝখানে না-বলা রয়ে গেছে। তাবারী ৪৪:২৩ আয়াতের আলোচনায় বলেন, এখানে একটা অংশ উহ্য, প্রসঙ্গ থেকেই যা বোঝা যায়: তাঁর রব তাঁকে সাড়া দিয়ে বললেন, তাহলে আমার বান্দাদের নিয়ে রাতে বেরিয়ে পড়ো। কুরতুবীও ওই আয়াতে একই কথা বলেন: আমি তাঁর দু'আয় সাড়া দিলাম, তাঁর কাছে ওহি পাঠালাম। বাগাভী ৪৪:২২ আয়াতের নিচেই এক লাইনে বলে দেন: আল্লাহ তাঁর ডাকে সাড়া দিলেন আর রাতে বেরিয়ে পড়ার আদেশ দিলেন। ইবন কাসীর যোগ করেন, আদেশটা ছিল ফেরাউনের হুকুম, পরামর্শ বা অনুমতি ছাড়াই বনী ইসরাঈলকে তাদের মাঝখান থেকে বের করে আনার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Freed by Night, Not by War",
+          "bn": "যুদ্ধে নয়, রাতের যাত্রায় মুক্তি"
+        },
+        "p": [
+          {
+            "en": "Set the two ends of the passage side by side. In 44:18 Musa (AS) asked Fir'awn's people to hand over the servants of Allah. They refused, and that refusal is part of what al-Qurtubi folds into mujrimun. In 44:23 the answer gives him those same servants by another route: travel with them by night. At-Tabari, on that verse, says who they are: those who believed Musa and followed him, as against those who denied him, and in that day the people of that description were the Children of Israel.",
+            "bn": "অংশটির দুই প্রান্ত পাশাপাশি রাখুন। ৪৪:১৮ আয়াতে মূসা (আঃ) ফেরাউনের লোকদের বলেছিলেন আল্লাহর বান্দাদের তাঁর হাতে তুলে দিতে। তারা রাজি হয়নি, আর কুরতুবী সেই অস্বীকৃতিকেও মুজরিমূন শব্দের ভেতরে ধরেছেন। ৪৪:২৩ আয়াতে জবাব সেই বান্দাদেরই তাঁর হাতে দেয়, অন্য পথে: তাদের নিয়ে রাতে বেরিয়ে পড়ো। তাবারী ওই আয়াতে বলেন তারা কারা। যারা মূসাকে সত্য বলে মেনেছিল আর তাঁর অনুসরণ করেছিল, যারা তাঁকে মিথ্যাবাদী বলেছিল তারা নয়। সেকালে এই গুণের মানুষ ছিল বনী ইসরাঈল।"
+          },
+          {
+            "en": "The answer does not send Musa to fight, to curse again, or to take anything from those who had wronged him. It sends him to walk, at night, with the people he came to free, and it warns him that he will be pursued. What then happens to the pursuers belongs to the verses that follow and is not retold here. Ibn Kathir's phrase, without Fir'awn's permission, marks the turn. The release Musa had asked for as a request no longer waits on the consent of the man who had refused it.",
+            "bn": "জবাব মূসাকে যুদ্ধ করতে পাঠায় না, আবার অভিশাপ দিতে বলে না, অন্যায়কারীদের কাছ থেকে কিছু কেড়ে নিতেও বলে না। তাঁকে পাঠায় রাতের আঁধারে হেঁটে যেতে, যাদের মুক্ত করতে এসেছিলেন তাদের সঙ্গে নিয়ে। সঙ্গে সতর্ক করে দেয় যে পেছনে ধাওয়া আসবে। ধাওয়াকারীদের পরিণতি পরের আয়াতগুলোর বিষয়, এখানে তা আর বলা হচ্ছে না। ইবন কাসীরের কথাটা, ফেরাউনের অনুমতি ছাড়াই, মোড় ঘোরার জায়গাটা দেখিয়ে দেয়। যে মুক্তি মূসা অনুরোধ করে চেয়েছিলেন, তা আর সেই লোকের সম্মতির অপেক্ষায় থাকে না, যে তা ফিরিয়ে দিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verdict Bound to Its Age",
+          "bn": "নিজ যুগে বাঁধা এক রায়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports what one prophet said to his Lord about Fir'awn and his people, in one age, after a refusal the Qur'an has just narrated. It describes them, and it licenses nothing against any living Egyptian, or against any other people or community today. It gives no one leave to call a nation criminal, to curse a people, or to reach for this verse in a quarrel. Musa's words went to Allah and were answered by revelation; no one today speaks with that warrant.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জানায়, একজন নবী তাঁর রবকে ফেরাউন ও তার লোকদের সম্পর্কে কী বলেছিলেন, এক নির্দিষ্ট যুগে, এমন এক প্রত্যাখ্যানের পর যার কথা কুরআন এইমাত্র বলেছে। আয়াত তাদের বর্ণনা দেয়। আজকের কোনো মিসরীয়, কিংবা অন্য কোনো জাতি বা জনগোষ্ঠীর বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। কোনো জাতিকে অপরাধী বলার, কোনো সম্প্রদায়কে অভিশাপ দেওয়ার, কিংবা ঝগড়ার সময় এ আয়াত টেনে আনার অধিকার কাউকে দেয় না। মূসার কথা গিয়েছিল আল্লাহর কাছে, আর জবাব এসেছিল ওহির মাধ্যমে। আজ কেউ সেই অধিকার নিয়ে কথা বলে না।"
+          },
+          {
+            "en": "None of the commentators fetched for this verse attaches a hadith to it, and none gives an occasion of revelation; the verse sits inside a narrative. Al-Qurtubi, on 44:23, notes that Fir'awn's pursuit, his drowning and Musa's rescue are told in al-Baqara, al-A'raf, Ta Ha, al-Shu'ara and Yunus, and declines to repeat them. Ma'arif al-Qur'an, whose comment covers 44:20 to 44:23, spends its lines on the threat of stoning in 44:20 and says nothing further on this verse.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো উপলক্ষও দেয়নি। আয়াতটি একটি কাহিনির ভেতরে বসানো। কুরতুবী ৪৪:২৩ আয়াতে বলেন, ফেরাউনের পিছু ধাওয়া, তার ডুবে মরা আর মূসার রক্ষা পাওয়ার কথা সূরা বাকারা, আ'রাফ, ত্বাহা, শু'আরা ও ইউনুসে এসেছে, তাই তিনি আর পুনরাবৃত্তি করেননি। মাআরিফুল কুরআনের আলোচনা ৪৪:২০ থেকে ৪৪:২৩ জুড়ে, কিন্তু তার লাইনগুলো গেছে ৪৪:২০ আয়াতের পাথর মারার হুমকিতে। এ আয়াত নিয়ে আর কিছু বলেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taking a Grievance to Allah",
+          "bn": "নালিশ নিয়ে আল্লাহর কাছে"
+        },
+        "p": [
+          {
+            "en": "What can a reader take from six words spoken at the end of a long mission? First, the order. Musa (AS) argued, warned, sought refuge, and asked only to be left in peace before he brought these people before his Lord. Patience and plain speech come first; the complaint to Allah comes when they have run their course. A grievance carried to Allah at the first sting may be only anger looking for an ally.",
+            "bn": "দীর্ঘ এক দাওয়াতের শেষে উচ্চারিত ছয়টি শব্দ থেকে পাঠক কী নিতে পারেন? প্রথমত, ক্রম। এই লোকদের কথা রবের কাছে তোলার আগে মূসা (আঃ) যুক্তি দিয়েছেন, সতর্ক করেছেন, আশ্রয় চেয়েছেন, শুধু শান্তিতে থাকতে দেওয়ার অনুরোধ করেছেন। আগে ধৈর্য আর সোজা কথা। সেগুলো শেষ সীমায় পৌঁছালে তবে আল্লাহর কাছে নালিশ। প্রথম আঘাতেই যে নালিশ আল্লাহর কাছে নেওয়া হয়, তা হয়তো নিছক রাগ, যে একজন সঙ্গী খুঁজছে।"
+          },
+          {
+            "en": "Second, the address. He did not complain to the crowd, gather a faction, or answer harm with harm. He told his Lord the truth about what he faced, in as few words as the truth required, and as-Sa'di's reading shows that such honest description is itself a prayer. Third, the answer. It came as a way out for the oppressed, not as a part for Musa in avenging himself. Whoever is wronged today may say, as truthfully as he can, what has been done to him, and leave the judgement where Musa left it.",
+            "bn": "দ্বিতীয়ত, কার কাছে বলা। তিনি লোকের ভিড়ে নালিশ করেননি, দল পাকাননি, ক্ষতির জবাবে ক্ষতি করেননি। যা তিনি মোকাবিলা করছিলেন, তার সত্যটা রবকে বলেছেন, সত্য যতটুকু শব্দ চায় ততটুকুতেই। সা'দীর পাঠ দেখায়, এমন সৎ বর্ণনাই একটা দু'আ। তৃতীয়ত, জবাব। তা এসেছে মজলুমদের বেরোনোর পথ হয়ে, মূসার নিজের প্রতিশোধ নেওয়ার কোনো ভূমিকা হয়ে নয়। আজ যার উপর অন্যায় হয়, সে যতটা সম্ভব সত্যভাবে বলতে পারে তার সঙ্গে কী করা হয়েছে। তারপর ফয়সালা রেখে দিতে পারে সেখানে, যেখানে মূসা রেখেছিলেন।"
+          }
+        ]
+      }
+    ]
+  },
   "44:25": {
     "sections": [
       {
