@@ -595,6 +595,174 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "46:12": {
+    "sections": [
+      {
+        "h": {
+          "en": "Older Than the Charge",
+          "bn": "অভিযোগের চেয়েও পুরনো"
+        },
+        "p": [
+          {
+            "en": "The verse answers a sneer. In 46:11 those who disbelieve say of the believers that had this been any good, they would not have reached it before us, and when they are not guided by it they say, this is an ancient falsehood. Ibn Kathir explains the charge: they meant that the Qur'an had been copied and taken from ancient peoples. The next words, wa-min qablihi kitabu Musa, take up the deniers' word ancient and answer it.",
+            "bn": "আয়াতটি এক বিদ্রূপের জবাব। ৪৬:১১ আয়াতে কাফিররা মু'মিনদের সম্পর্কে বলে, এটা ভালো কিছু হলে ওরা আমাদের আগে সেখানে পৌঁছাতে পারত না। আর এর দ্বারা যখন তারা পথ পায় না, তখন বলে, এ তো এক পুরনো মিথ্যা। ইবন কাসীর অভিযোগটা খুলে বলেন: তাদের দাবি ছিল, কুরআন প্রাচীন লোকদের কাছ থেকে নকল করে নেওয়া। পরের কথাগুলো, ওয়া মিন কাবলিহী কিতাবু মূসা, অস্বীকারকারীদের মুখের সেই 'পুরনো' শব্দটাই তুলে নিয়ে তার জবাব দেয়।"
+          },
+          {
+            "en": "Before it, the verse says, was the Book of Musa. Every commentator consulted here names that book as the Torah: at-Tabari, Ibn Kathir, al-Qurtubi, al-Baghawi and al-Muyassar say so in plain words, and as-Sa'di speaks of the Torah that Allah sent down to Musa (AS). So the Qur'an is old in a sense the deniers did not intend. It stands in a line. And what came before it, the verse calls a guide and a mercy.",
+            "bn": "আয়াত বলছে, এর আগে ছিল মূসার কিতাব। এখানে যত তাফসীর দেখা হয়েছে, সবগুলোতেই সেই কিতাব তাওরাত। তাবারী, ইবন কাসীর, কুরতুবী, বাগাভী আর মুয়াসসার সোজাসুজি তা-ই বলেন। সা'দী বলেন সেই তাওরাতের কথা, যা আল্লাহ মূসা (আঃ)-এর উপর নাযিল করেছিলেন। তাহলে কুরআন পুরনো ঠিকই, তবে অস্বীকারকারীরা যে অর্থে বলেছিল সে অর্থে নয়। কুরআন দাঁড়িয়ে আছে এক ধারাবাহিকতার ভেতরে। আর এর আগে যা এসেছিল, আয়াত নিজেই তাকে বলছে পথপ্রদর্শক ও রহমত।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the verse as doing two jobs in its passage. It proves what 46:9 had the Prophet ﷺ say, that he is no unprecedented messenger and the Qur'an no singular book to raise doubts: Musa (AS) came before him as a messenger, and the Torah was revealed to him. It also supports 46:10, because Musa (AS) and the Torah are themselves witnesses that Muhammad ﷺ is Allah's messenger and the Qur'an is Allah's Book.",
+            "bn": "মাআরিফুল কুরআনের মতে আয়াতটি এই অংশে দুটি কাজ করছে। প্রথমত, ৪৬:৯ আয়াতে নবী ﷺ-কে যা বলতে বলা হয়েছিল, তার প্রমাণ দেয়। তিনি রসূলদের মধ্যে নতুন কেউ নন, আর কুরআনও এমন অভূতপূর্ব কিতাব নয় যা নিয়ে মনে সন্দেহ জাগবে। তাঁর আগে মূসা (আঃ) রসূল হয়ে এসেছিলেন, আর তাঁর উপর তাওরাত নাযিল হয়েছিল। দ্বিতীয়ত, এটা ৪৬:১০ আয়াতকে সমর্থন করে। কারণ মুহাম্মাদ ﷺ যে আল্লাহর রসূল আর কুরআন যে আল্লাহর কিতাব, তার সাক্ষী স্বয়ং মূসা (আঃ) ও তাওরাত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Book Walked Behind",
+          "bn": "যে কিতাবের পেছনে চলা হয়"
+        },
+        "p": [
+          {
+            "en": "Imaman: as an imam. The commentators gloss the word by what an imam is for, which is being followed. At-Tabari says an imam for the Children of Isra'il, ya'tammuna bihi, which they take as their lead. Al-Baghawi writes yuqtada bihi, something followed as a model, and al-Qurtubi writes yuqtada bima fihi, followed in what it contains. Al-Muyassar joins the two strands: an imam for the Children of Isra'il, whom they would follow.",
+            "bn": "ইমামান: ইমাম হিসেবে। তাফসীরকারেরা শব্দটার ব্যাখ্যা দেন ইমামের কাজ দিয়ে, আর সে কাজ হলো অনুসৃত হওয়া। তাবারী বলেন, বানী ইসরাঈলের জন্য ইমাম, ইয়া'তাম্মূনা বিহী, যাকে তারা নেতা মেনে চলবে। বাগাভী লেখেন ইউকতাদা বিহী, অর্থাৎ যাকে আদর্শ ধরে অনুসরণ করা হয়। কুরতুবী লেখেন ইউকতাদা বিমা ফীহি, অর্থাৎ তাতে যা আছে তার অনুসরণ করা হয়। মুয়াসসার দুই ব্যাখ্যাকে একসঙ্গে বাঁধে: বানী ইসরাঈলের জন্য ইমাম, যার অনুসরণ তারা করবে।"
+          },
+          {
+            "en": "As-Sa'di calls the Torah that Allah sent down to Musa the most complete and the best of the heavenly books after the Qur'an. The Children of Isra'il, he says, were to follow it and be guided by it, and so gain the good of this world and the next. None of these five reads imam as a title of honour alone. Each makes it a book whose worth is realised when people walk behind it.",
+            "bn": "সা'দী মূসার উপর নাযিল হওয়া তাওরাতকে বলেন কুরআনের পর আসমানি কিতাবগুলোর মধ্যে সবচেয়ে পূর্ণাঙ্গ ও সবচেয়ে উত্তম। তাঁর ভাষায়, বানী ইসরাঈল এর অনুসরণ করবে আর এর মাধ্যমে পথ পাবে, ফলে দুনিয়া ও আখিরাতের কল্যাণ লাভ করবে। এই পাঁচজনের কেউই ইমাম শব্দটাকে শুধু সম্মানের উপাধি হিসেবে পড়েন না। প্রত্যেকের কাছে এটা এমন কিতাব, যার মূল্য ফুটে ওঠে তখনই যখন মানুষ তার পেছনে চলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mercy That Reached the Doers",
+          "bn": "আমলকারীর কাছে পৌঁছানো রহমত"
+        },
+        "p": [
+          {
+            "en": "Wa-rahmatan: and a mercy. At-Tabari says a mercy for them, which We sent down upon them. Al-Baghawi says a mercy from Allah for whoever believed in it. Al-Muyassar widens it by a clause: a mercy for whoever believed in it and acted on what is in it. The three agree that the mercy was real and that it reached people through the book. The last two tie it to belief, and al-Muyassar adds the doing as well.",
+            "bn": "ওয়া রাহমাতান: আর রহমত হিসেবে। তাবারী বলেন, তাদের জন্য রহমত, যা আমি তাদের উপর নাযিল করেছি। বাগাভী বলেন, যে এর উপর ঈমান এনেছে তার জন্য আল্লাহর পক্ষ থেকে রহমত। মুয়াসসার আরেকটু যোগ করে: যে এর উপর ঈমান এনেছে আর এতে যা আছে সে অনুযায়ী আমল করেছে, তার জন্য রহমত। তিনজনই একমত যে রহমতটা ছিল সত্যিকারের, আর তা মানুষের কাছে পৌঁছেছিল কিতাবের মাধ্যমে। শেষ দুজন একে ঈমানের সঙ্গে জুড়ে দেন, আর মুয়াসসার জুড়ে দেয় আমলকেও।"
+          },
+          {
+            "en": "That gives the verse a quiet edge for its first listeners. Those who called the Qur'an an ancient lie were pointed to an older scripture as its precedent, and that scripture is described by what it gave to those who followed it. A book is honoured in this verse by being followed. To hold it in respect while leaving its guidance unused is to keep the imam and refuse to walk behind.",
+            "bn": "প্রথম শ্রোতাদের জন্য এখানে একটা নীরব খোঁচা আছে। যারা কুরআনকে পুরনো মিথ্যা বলেছিল, তাদের সামনে তুলে ধরা হলো তার চেয়েও পুরনো এক কিতাব। আর সেই কিতাবের পরিচয় দেওয়া হলো, যারা তার অনুসরণ করেছিল তাদের সে কী দিয়েছিল তা দিয়ে। এ আয়াতে কিতাবের সম্মান তার অনুসরণে। কুরআনকে সম্মান করলাম অথচ তার হিদায়াত কাজে লাগালাম না, তাহলে ইমামকে রেখে দিলাম ঠিকই, কিন্তু তার পেছনে চলতে রাজি হলাম না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Clause the Reader Supplies",
+          "bn": "যে অংশ পাঠক পূরণ করে"
+        },
+        "p": [
+          {
+            "en": "The Arabic is compressed. At-Tabari notes that the statement about the Book of Musa comes without its completion, because the context shows what completes it. Spelled out, he says, it runs: before it was the Book of Musa, as an imam and a mercy, which We sent down to him, and this is a Book We sent down in an Arabic tongue. Al-Qurtubi reads imaman as describing a state, the sense being that the Book of Musa went before it as an imam.",
+            "bn": "আরবি বাক্যটা সংক্ষিপ্ত। তাবারী লক্ষ করেন, মূসার কিতাব সম্পর্কে কথাটা পুরো না করেই রাখা হয়েছে, কারণ প্রসঙ্গ থেকেই বোঝা যায় কী দিয়ে তা পূর্ণ হবে। তাঁর মতে খুলে বললে বাক্যটা দাঁড়ায় এমন: এর আগে ছিল মূসার কিতাব, ইমাম ও রহমত হিসেবে, যা আমি তাঁর উপর নাযিল করেছিলাম। আর এ এমন কিতাব, যা আমি নাযিল করেছি আরবি ভাষায়। কুরতুবী ইমামান শব্দটিকে অবস্থাবাচক হিসেবে পড়েন। তাঁর মতে অর্থ হলো: মূসার কিতাব ইমাম হয়ে এর আগে আগে এসেছিল।"
+          },
+          {
+            "en": "Al-Baghawi reports from Abu 'Ubayda an implied verb: We made it an imam and a mercy. Then he supplies a different missing clause: the Book of Musa went before it as an imam, and they were not guided by it, as Allah said in the previous verse, and when they are not guided by it. On al-Baghawi's reading, the refusal named in 46:11 echoes into 46:12. A guide had gone ahead of the Qur'an, and the deniers of 46:11 were not guided by that one either.",
+            "bn": "বাগাভী আবু উবায়দা থেকে একটা উহ্য ক্রিয়ার কথা আনেন: আমি একে বানিয়েছি ইমাম ও রহমত। এরপর তিনি অন্য একটা বাদ পড়া অংশ পূরণ করেন: মূসার কিতাব ইমাম হয়ে এর আগে এসেছিল, আর তারা এর দ্বারা পথ পায়নি। এর সমর্থনে তিনি আগের আয়াতের কথা টানেন: আর যখন তারা এর দ্বারা পথ পায় না। বাগাভীর পাঠে ৪৬:১১ আয়াতের প্রত্যাখ্যানের প্রতিধ্বনি শোনা যায় ৪৬:১২ আয়াতে। কুরআনের আগেও এক পথপ্রদর্শক এসেছিল, আর ৪৬:১১ আয়াতের অস্বীকারকারীরা সেটা থেকেও পথ নেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Witness, Not a Copy",
+          "bn": "নকল নয়, সাক্ষী"
+        },
+        "p": [
+          {
+            "en": "Wa-hadha kitabun musaddiqun: and this is a confirming Book. Ibn Kathir says confirming what came before it of the earlier books. Al-Baghawi says the Qur'an confirms the books that were before it. Al-Qurtubi says confirming the Torah and what came before it of the books, then records a second view, introduced with it is said: confirming the Prophet ﷺ. As-Sa'di explains how: the Qur'an bore witness to the truth of the earlier books, and confirmed them by agreeing with them.",
+            "bn": "ওয়া হাযা কিতাবুম মুসাদ্দিকুন: আর এ এক সত্যায়নকারী কিতাব। ইবন কাসীর বলেন, আগে যে কিতাবগুলো এসেছে সেগুলোর সত্যায়নকারী। বাগাভী বলেন, কুরআন তার আগের কিতাবগুলোকে সত্য বলে ঘোষণা করে। কুরতুবীর ব্যাখ্যা: তাওরাত আর তার আগের কিতাবগুলোর সত্যায়নকারী। এরপর 'বলা হয়' কথাটা দিয়ে তিনি আরেকটা মত আনেন: নবী ﷺ-এর সত্যায়নকারী। সত্যায়নটা কীভাবে হয়, সা'দী তা খুলে বলেন: কুরআন আগের কিতাবগুলোর সত্যতার সাক্ষ্য দিয়েছে, আর তাদের সঙ্গে মিলে গিয়ে তাদের সত্য প্রমাণ করেছে।"
+          },
+          {
+            "en": "At-Tabari words the confirmation with a content. In one place he gives it as an Arabic Book confirming the Torah, the Book of Musa, in this: that Muhammad is Allah's messenger and that what he brought is truth from Allah. On the construction he prefers, the sense is that this Qur'an confirms the Book of Musa, that Muhammad is a prophet sent, in an Arabic tongue. Ma'arif al-Qur'an's remark, that Musa (AS) and the Torah are witnesses to the Prophet ﷺ, points the same way.",
+            "bn": "তাবারী সত্যায়নের একটা বিষয়বস্তুও উল্লেখ করেন। এক জায়গায় তিনি বলেন, আরবি ভাষার এ কিতাব মূসার কিতাব তাওরাতকে সত্যায়ন করে এই কথায় যে, মুহাম্মাদ আল্লাহর রসূল, আর তিনি যা এনেছেন তা আল্লাহর পক্ষ থেকে আসা সত্য। তিনি যে ব্যাকরণগত গঠন পছন্দ করেন, সে অনুযায়ী অর্থ দাঁড়ায়: এ কুরআন আরবি ভাষায় মূসার কিতাবকে সত্যায়ন করে এই কথায় যে, মুহাম্মাদ প্রেরিত নবী। মাআরিফুল কুরআনের কথাও একই দিকে ইঙ্গিত করে: মূসা (আঃ) আর তাওরাত নবী ﷺ-এর পক্ষে সাক্ষী।"
+          },
+          {
+            "en": "Set beside the charge of 46:11, the word does quiet work. The deniers said the Qur'an was taken from ancient peoples. The verse calls it musaddiq, and as-Sa'di's gloss is bearing witness to the truth of what came before. A copy repeats its source and adds nothing to it. A witness stands beside an earlier witness and says the same thing is true. The verse places the Qur'an in the second role.",
+            "bn": "৪৬:১১ আয়াতের অভিযোগের পাশে রাখলে শব্দটা নিঃশব্দে অনেক কাজ করে। অস্বীকারকারীরা বলেছিল, কুরআন প্রাচীন লোকদের কাছ থেকে নেওয়া। আয়াত একে বলছে মুসাদ্দিক, আর সা'দীর ব্যাখ্যায় তার মানে আগে যা এসেছে তার সত্যতার সাক্ষ্য দেওয়া। নকল তার উৎসেরই পুনরাবৃত্তি, নিজে কিছু যোগ করে না। সাক্ষী কিন্তু আগের সাক্ষীর পাশে দাঁড়িয়ে বলে, একই কথা সত্য। আয়াত কুরআনকে রাখছে এই দ্বিতীয় ভূমিকায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Plain to Take In",
+          "bn": "সহজে গ্রহণযোগ্য ভাষা"
+        },
+        "p": [
+          {
+            "en": "Lisanan 'arabiyyan: in an Arabic tongue. Ibn Kathir glosses it in three words: eloquent, plain and clear. As-Sa'di gives the reason Allah made it so: that it be easy to take up and easy to remember. The language is chosen for access. A warning that cannot be understood warns no one, and good news that cannot be kept in mind is soon forgotten.",
+            "bn": "লিসানান আরাবিয়্যান: আরবি ভাষায়। ইবন কাসীর এর ব্যাখ্যা দেন তিনটি শব্দে: বিশুদ্ধ, সুস্পষ্ট, পরিষ্কার। সা'দী বলেন আল্লাহ কেন একে এমন করেছেন: যাতে তা গ্রহণ করা সহজ হয় আর মনে রাখা সহজ হয়। ভাষা বাছাই করা হয়েছে যাতে মানুষ সহজে কাছে পৌঁছাতে পারে। যে সতর্কবাণী বোঝা যায় না, তা কাউকে সতর্ক করে না। আর যে সুসংবাদ মনে রাখা যায় না, তা দ্রুত হারিয়ে যায়।"
+          },
+          {
+            "en": "The grammarians, at-Tabari reports, differed over what governs the accusative lisanan. Some Basrans made it a description of the Book in the form of a state, or the object of an implied verb, I mean. Others made it the object of musaddiq itself. At-Tabari rejects that as meaningless, since the Arabic tongue is this Book, which would then confirm itself, unless the Arabic tongue is taken as Muhammad ﷺ, a line he allows as possible.",
+            "bn": "তাবারী জানান, লিসানান শব্দটি কর্মকারকে কেন এল, তা নিয়ে ব্যাকরণবিদেরা একমত ছিলেন না। বসরার কয়েকজন একে কিতাবের অবস্থাবাচক বিশেষণ ধরেছেন, অথবা উহ্য ক্রিয়া 'আমি বোঝাচ্ছি'-এর কর্ম। আরেক দল একে মুসাদ্দিক শব্দেরই কর্ম ধরেছেন। তাবারী এ মতকে অর্থহীন বলে নাকচ করেন। কারণ আরবি ভাষা মানে তো এ কিতাবই, তাহলে কিতাব নিজেকেই সত্যায়ন করছে দাঁড়ায়। তবে আরবি ভাষা বলতে যদি মুহাম্মাদ ﷺ-কে বোঝানো হয়, সেটাকে তিনি সম্ভাব্য ব্যাখ্যা হিসেবে মেনে নেন।"
+          },
+          {
+            "en": "At-Tabari's own choice is a state of the Book implied within musaddiq: this Qur'an confirms the Book of Musa, in an Arabic tongue. He notes that the reading of Ibn Mas'ud (RA) is reported as and this is a Book confirming what was before it, an Arabic tongue. Al-Qurtubi lists the same options, records the view that the tongue is the Prophet ﷺ, and judges it unlikely that the tongue is the Qur'an, for then it would confirm itself.",
+            "bn": "তাবারীর নিজের পছন্দ: মুসাদ্দিক শব্দের ভেতরে যে কিতাবের উল্লেখ লুকিয়ে আছে, লিসানান তারই অবস্থা বোঝায়। অর্থাৎ এ কুরআন আরবি ভাষায় মূসার কিতাবকে সত্যায়ন করে। তিনি আরও উল্লেখ করেন, ইবন মাসউদ (রাঃ)-এর কিরাআত বর্ণিত আছে এভাবে: আর এ কিতাব তার আগে যা আছে তার সত্যায়নকারী, আরবি ভাষায়। কুরতুবীও একই মতগুলো তুলে ধরেন। ভাষা বলতে নবী ﷺ, এ মতটিও তিনি উল্লেখ করেন। আর ভাষা মানে কুরআন, এ ব্যাখ্যাকে তিনি দূরবর্তী মনে করেন, কারণ তাহলে কিতাব নিজেকেই সত্যায়ন করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Delivers the Warning",
+          "bn": "সতর্কবাণী কার মুখে"
+        },
+        "p": [
+          {
+            "en": "Li-yundhira: that it may warn. The readers divided over the first letter. At-Tabari says most readers of the Hijaz recite li-tundhira, that you may warn, addressed to Muhammad ﷺ, and most readers of Iraq recite li-yundhira, that it may warn, with the Book as subject. Whichever of the two a reciter follows, he says, he is right. Al-Qurtubi names those who read with ta': Nafi', Ibn 'Amir and al-Bazzi, the choice of Abu 'Ubayd and Abu Hatim, and cites in support you are only a warner (13:7).",
+            "bn": "লিয়ুনযিরা: যাতে তা সতর্ক করে। প্রথম অক্ষরটি নিয়ে কারীদের মধ্যে ভিন্নতা আছে। তাবারী বলেন, হিজাযের অধিকাংশ কারী পড়েন লিতুনযিরা, যাতে তুমি সতর্ক কর, সম্বোধন মুহাম্মাদ ﷺ-এর প্রতি। আর ইরাকের অধিকাংশ কারী পড়েন লিয়ুনযিরা, যাতে তা সতর্ক করে, অর্থাৎ কিতাব সতর্ক করে। তাঁর মতে এই দুই পাঠের যেকোনোটা যে পড়বে, সে সঠিক। কুরতুবী তা দিয়ে পড়া কারীদের নাম দেন: নাফে', ইবন আমির ও বাযযী। আবু উবাইদ ও আবু হাতিম এটাই বেছে নিয়েছেন। সমর্থনে তিনি আনেন: তুমি তো কেবল সতর্ককারী (১৩:৭)।"
+          },
+          {
+            "en": "Al-Baghawi's list differs a little: the people of the Hijaz and Sham, and Ya'qub. Al-Qurtubi also records that the reading with ya' has been taken as speaking of the Messenger rather than of the Book. At-Tabari's verdict that both readings are right lets them stand together. The Book warns by what it says, and the Messenger ﷺ warns by reciting it and living by it. Two verses earlier, 46:9 had already had him say that he is nothing but a clear warner.",
+            "bn": "বাগাভীর তালিকা একটু আলাদা: হিজায ও শামের লোকেরা, আর ইয়াকুব। কুরতুবী আরও উল্লেখ করেন, ইয়া দিয়ে পড়ার বেলাতেও কেউ কেউ একে কিতাবের বদলে রসূলের কথা হিসেবে বুঝেছেন। তাবারী যখন বলেন দুটো পাঠই সঠিক, তখন দুটোকে পাশাপাশি রাখা যায়। কিতাব সতর্ক করে তার বাণী দিয়ে, আর রসূল ﷺ সতর্ক করেন তা তিলাওয়াত করে আর সে অনুযায়ী জীবন যাপন করে। দুই আয়াত আগে ৪৬:৯ আয়াতেই তাঁকে দিয়ে বলানো হয়েছে, তিনি স্পষ্ট সতর্ককারী ছাড়া আর কিছু নন।"
+          },
+          {
+            "en": "Alladhina zalamu: those who did wrong. At-Tabari says those who wronged themselves by disbelieving in Allah through worshipping others besides Him. Al-Qurtubi and al-Muyassar say wronged themselves through disbelief and disobedience. As-Sa'di widens it to disbelief, open sin and disobedience, and puts a condition on the warning: if they persist in their wrong, it warns them of a grievous punishment. Al-Baghawi names the immediate audience as the idolaters of Makkah, and Ibn Kathir says it carries a warning to the disbelievers.",
+            "bn": "আল্লাযীনা যালামূ: যারা জুলুম করেছে। তাবারী বলেন, যারা আল্লাহকে অস্বীকার করে আর তাঁকে ছেড়ে অন্যের ইবাদত করে নিজেদের উপর জুলুম করেছে। কুরতুবী ও মুয়াসসার বলেন, কুফর আর নাফরমানি দিয়ে যারা নিজেদের উপর জুলুম করেছে। সা'দী এর পরিধি বাড়িয়ে আনেন কুফর, ফিসক ও নাফরমানি পর্যন্ত। সঙ্গে সতর্কবাণীতে একটা শর্ত জুড়ে দেন: তারা যদি জুলুমে অটল থাকে, তবে তা তাদের কঠিন শাস্তির ভয় দেখায়। বাগাভী প্রথম শ্রোতাদের চিহ্নিত করেন মক্কার মুশরিক হিসেবে। আর ইবন কাসীর বলেন, এতে কাফিরদের জন্য সতর্কবাণী আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Glad News for Those Who Excel",
+          "bn": "যারা উত্তম কাজ করে তাদের সুখবর"
+        },
+        "p": [
+          {
+            "en": "Wa-bushra lil-muhsinin: and good news for the doers of good. At-Tabari says good news for those who obeyed Allah and did well in their faith and their obedience to Him in this world, and so a good reward from Allah in the Hereafter. As-Sa'di defines the doing of good along two lines, in the worship of the Creator and in benefit to creation, with abundant reward in this world and the next. Ibn Kathir says glad tidings for the believers.",
+            "bn": "ওয়া বুশরা লিল মুহসিনীন: আর সৎকর্মশীলদের জন্য সুসংবাদ। তাবারী বলেন, যারা আল্লাহর আনুগত্য করেছে আর দুনিয়ায় ঈমান ও আনুগত্যে উত্তম আচরণ করেছে, তাদের জন্য সুসংবাদ। ফলে আখিরাতে আল্লাহর কাছ থেকে তাদের আনুগত্যের উত্তম প্রতিদান। সা'দী ইহসানের সংজ্ঞা দেন দুই দিক থেকে: স্রষ্টার ইবাদতে, আর সৃষ্টির উপকারে। এর জন্য আছে দুনিয়া ও আখিরাতে বিপুল প্রতিদান। ইবন কাসীর বলেন, মু'মিনদের জন্য সুসংবাদ।"
+          },
+          {
+            "en": "The grammar again allows a pair of readings. At-Tabari and al-Qurtubi give bushra in the nominative, joined to the Book: this is a confirming Book and good news. Or in the accusative, as if the verse said to warn and to give good news, the noun standing in for the verb. As-Sa'di adds the practical side: the Book names the deeds it warns against and the deeds it brings good news of. Its warning and its good news come with instructions.",
+            "bn": "ব্যাকরণ এখানেও দুই ধরনের পাঠের সুযোগ দেয়। তাবারী ও কুরতুবী বলেন, বুশরা কর্তৃকারকে, কিতাবের সঙ্গে যুক্ত: এ এক সত্যায়নকারী কিতাব এবং সুসংবাদ। অথবা কর্মকারকে, যেন আয়াত বলছে সতর্ক করার জন্য আর সুসংবাদ দেওয়ার জন্য, যেখানে ক্রিয়ার জায়গায় বসেছে বিশেষ্য। সা'দী এর বাস্তব দিকটা যোগ করেন। কিতাব সেই আমলগুলোর নাম বলে দেয়, যেগুলোর বিরুদ্ধে সে সতর্ক করে, আর সেগুলোরও, যেগুলোর জন্য সুসংবাদ দেয়। তার সতর্কবাণী আর সুসংবাদ, দুটোর সঙ্গেই আছে করণীয়ের নির্দেশ।"
+          },
+          {
+            "en": "The next verse names who receives the good news: those who say our Lord is Allah and then stand firm, on whom there is no fear and who will not grieve (46:13). None of the commentaries consulted here attaches a hadith or an occasion of revelation to this verse. Its meaning rests on its own words and its place in the passage.",
+            "bn": "পরের আয়াতই বলে দেয় সুসংবাদ কারা পাবে: যারা বলে আমাদের রব আল্লাহ, তারপর তাতে অটল থাকে, তাদের কোনো ভয় নেই, আর তারা দুঃখও পাবে না (৪৬:১৩)। এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস বা শানে নুযূল যুক্ত করেনি। এর অর্থ তাই দাঁড়ায় তার নিজের শব্দ আর এই অংশে তার অবস্থানের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honour Without Hostility",
+          "bn": "বিদ্বেষহীন সম্মান"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse calls the Book of Musa a guide and a mercy, and the clause al-Baghawi supplies about those who were not guided is tied by him to the deniers' words in 46:11. The verse describes scriptures and what they were sent to do. It licenses nothing against any living Jewish person or community, and no contempt for any people given an earlier scripture. Whoever turns it into a weapon has made a verse that honours a book into an insult to its people.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি মূসার কিতাবকে বলছে পথপ্রদর্শক ও রহমত। আর যারা পথ পায়নি, তাদের নিয়ে বাগাভী যে অংশ পূরণ করেন, তা তিনি নিজেই জুড়ে দেন ৪৬:১১ আয়াতের অস্বীকারকারীদের কথার সঙ্গে। আয়াত বর্ণনা করছে কিতাবগুলো আর সেগুলো কী কাজের জন্য এসেছিল। বর্তমানের কোনো ইহুদি ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আগের কোনো কিতাব যারা পেয়েছে, তাদের কাউকে তুচ্ছ করারও অনুমতি দেয় না। যে একে অস্ত্র বানায়, সে এমন আয়াতকে অপমানে পরিণত করে, যা একটা কিতাবকে সম্মান দিয়েছে।"
+          },
+          {
+            "en": "What the verse asks of its reader is simpler and harder. A guide guides only the one who follows it, and a mercy, as al-Muyassar puts it of the Torah, reaches those who believe and act. The question it leaves is not whether the Book is honoured, but whether its warning has reached me while there is time, and whether I am among the doers of good who can hear its good news as meant for me.",
+            "bn": "আয়াতটি পাঠকের কাছে যা চায়, তা সহজও, কঠিনও। পথপ্রদর্শক শুধু তাকেই পথ দেখায়, যে তার পেছনে চলে। আর তাওরাত প্রসঙ্গে মুয়াসসার যেমন বলে, রহমত পৌঁছায় তাদের কাছে, যারা ঈমান আনে আর আমল করে। তাই প্রশ্নটা এই নয় যে কিতাবকে সম্মান করা হচ্ছে কি না। প্রশ্ন হলো, সময় থাকতে তার সতর্কবাণী আমার কাছে পৌঁছেছে কি না। আর আমি কি সেই সৎকর্মশীলদের একজন, যারা তার সুসংবাদকে নিজের জন্য বলে শুনতে পায়?"
+          }
+        ]
+      }
+    ]
+  },
   "46:15": {
     "sections": [
       {

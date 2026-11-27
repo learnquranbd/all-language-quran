@@ -38211,6 +38211,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Answer Allah's call while it is still being made, for no place on earth puts anyone beyond His reach, and no one protects besides Him.",
     "lessonBn": "আল্লাহর ডাক যতক্ষণ চলছে, ততক্ষণেই সাড়া দিন। পৃথিবীর কোনো জায়গা কাউকে তাঁর নাগালের বাইরে নেয় না, আর তিনি ছাড়া কোনো রক্ষকও নেই।"
+  },
+  "46:12": {
+    "reflectionEn": "Those who refused the Qur'an called it an ancient falsehood, as if being old made a thing false. The reply reaches further back still: before it came the Book of Musa, a guide to follow and a mercy. What arrives now is a Book that confirms what came before, in a clear Arabic tongue. Its purpose has two sides, a warning for those who wrong themselves and good news for those who do good. A guide guides only the one who walks behind it. So the question turns to me. Do I treat the Qur'an as something to admire and quote, or as a guide whose steps I actually follow, so that its warning reaches me in time and its good news can reach me too?",
+    "reflectionBn": "যারা কুরআন মানতে চায়নি, তারা একে বলেছিল পুরনো মিথ্যা, যেন পুরনো হলেই কোনো কথা মিথ্যা হয়ে যায়। জবাব আরও পেছনে ফিরে যায়: এর আগে এসেছিল মূসার কিতাব, অনুসরণের পথপ্রদর্শক আর রহমত হয়ে। এখন যে কিতাব এসেছে, তা আগের কিতাবকে সত্যায়ন করে, স্পষ্ট আরবি ভাষায়। এর কাজ দুটো: যারা নিজেদের উপর জুলুম করে তাদের সতর্ক করা, আর যারা সৎকর্ম করে তাদের সুসংবাদ দেওয়া। পথপ্রদর্শক তো কেবল তাকেই পথ দেখায়, যে তার পেছনে হাঁটে। তাই প্রশ্নটা এবার আমার দিকে। কুরআনকে কি আমি শুধু শ্রদ্ধা করি আর উদ্ধৃতি দিই? নাকি সত্যিই তার পায়ে পা মিলিয়ে চলি, যাতে তার সতর্কবাণী সময় থাকতে আমার কাছে পৌঁছায়, আর তার সুসংবাদও আমার ভাগে আসে?",
+    "pointsEn": [
+      "When something true reaches me from an old source or an unfamiliar voice, do I weigh it by its proof or dismiss it by its age?",
+      "Is the Qur'an a guide I actually follow in this week's decisions, or a book I honour from a distance?",
+      "Which of its warnings have I quietly assumed were meant for other people and not for me?",
+      "What would doing good look like today in one concrete act, both in my worship and in how I treat people?",
+      "Do I speak of earlier scriptures with the respect the Qur'an itself shows when it calls the Book of Musa a mercy?"
+    ],
+    "pointsBn": [
+      "কোনো সত্য কথা যখন পুরনো উৎস থেকে বা অচেনা কারও মুখে আমার কাছে আসে, আমি কি তা প্রমাণ দিয়ে মাপি, নাকি পুরনো বলে উড়িয়ে দিই?",
+      "কুরআন কি এ সপ্তাহের সিদ্ধান্তগুলোতে আমার সত্যিকারের পথপ্রদর্শক, নাকি দূর থেকে সম্মান করার একটা কিতাব?",
+      "এর কোন সতর্কবাণীগুলো আমি চুপচাপ ধরে নিয়েছি অন্যদের জন্য, আমার জন্য নয়?",
+      "ইবাদতে আর মানুষের সঙ্গে আচরণে, আজ একটা নির্দিষ্ট সৎকর্ম কেমন হতে পারে?",
+      "মূসার কিতাবকে কুরআন নিজেই রহমত বলেছে। আগের কিতাবগুলোর কথা বলার সময় আমি কি সেই সম্মান বজায় রাখি?"
+    ],
+    "lessonEn": "Follow the Qur'an as a guide, not merely an object of respect: heed its warning against wronging yourself and work toward the good news it holds for those who do good.",
+    "lessonBn": "কুরআনকে শুধু সম্মানের বস্তু না বানিয়ে পথপ্রদর্শক হিসেবে অনুসরণ করুন: নিজের উপর জুলুম করার বিরুদ্ধে তার সতর্কবাণী মেনে চলুন, আর সৎকর্মশীলদের জন্য তার সুসংবাদের দিকে এগিয়ে যান।"
   }
 };
 
