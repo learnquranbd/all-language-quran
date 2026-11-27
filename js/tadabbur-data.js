@@ -36213,6 +36213,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Send good ahead while you can still speak for yourself; on that Day those who brought only wrongs fall silent, with no argument and no hope left.",
     "lessonBn": "নিজের পক্ষে কথা বলার সময় থাকতেই ভালো কাজ আগে পাঠান। সেদিন যারা শুধু অন্যায় নিয়ে আসবে, তারা চুপ হয়ে যাবে, না থাকবে যুক্তি, না আশা।"
+  },
+  "30:44": {
+    "reflectionEn": "A Day is coming that no one can turn back, and on it people will be split in two. This verse says what each side brings with it. Disbelief rests on the one who chose it, and no one else is asked to carry it. Good deeds get a gentler verb: those who do them are spreading their own bed, smoothing a place to lie down before they arrive. A prayer, a kept promise, a right paid to someone who was owed it: each is one more fold of that bedding. Nobody can spread it for me, and I cannot spread it for anyone else. So the question is simple. What am I laying down today in the place where I will rest?",
+    "reflectionBn": "এমন এক দিন আসছে, যাকে কেউ ফেরাতে পারবে না। সেদিন মানুষ দুই ভাগ হয়ে যাবে। এ আয়াত বলে দেয়, কোন দল সঙ্গে করে কী নিয়ে যায়। কুফরির বোঝা পড়ে তারই কাঁধে, যে তা বেছে নিয়েছে। অন্য কাউকে সে বোঝা বইতে বলা হয় না। আর নেক আমলের বেলায় আল্লাহ এক কোমল ক্রিয়া বেছে নিয়েছেন: যারা ভালো কাজ করে, তারা নিজেদের বিছানা নিজেরাই পেতে রাখছে। পৌঁছানোর আগেই শোয়ার জায়গাটা সমান করে রাখছে। একটি নামায, রাখা একটি কথা, পাওনাদারের হাতে তুলে দেওয়া একটি হক: প্রতিটিই সেই বিছানার আরেকটি ভাঁজ। আমার বিছানা অন্য কেউ পেতে দেবে না, আমিও অন্য কারও বিছানা পেতে দিতে পারব না। তাই প্রশ্নটা সোজা। যেখানে আমাকে শুয়ে থাকতে হবে, সেখানে আজ আমি কী বিছিয়ে রাখছি?",
+    "pointsEn": [
+      "If the deeds of this past week were the bed I will lie on, how would that bed feel?",
+      "Which right owed to Allah, and which right owed to someone close to me, have I left unpaid?",
+      "Do I quietly hope that the goodness of my family or my community will carry me, when the verse says each prepares for themselves?",
+      "When I look at someone far from faith, do I remember that the verdict on that Day belongs to Allah and not to me?",
+      "What small good deed could I begin today that would still be waiting for me when I arrive?"
+    ],
+    "pointsBn": [
+      "গত এক সপ্তাহের আমলগুলোই যদি হয় আমার শোয়ার বিছানা, সে বিছানা কেমন লাগবে?",
+      "আল্লাহর কোন হক, আর কাছের কোনো মানুষের কোন হক আমি এখনো আদায় করিনি?",
+      "আয়াত বলছে প্রত্যেকে নিজের জন্যই প্রস্তুতি নেয়। তবু কি আমি মনে মনে আশা করি, পরিবার বা সমাজের নেক মানুষেরা আমাকে পার করে দেবে?",
+      "ঈমান থেকে দূরে থাকা কাউকে দেখলে আমার কি মনে থাকে যে সেদিনের ফয়সালা আল্লাহর হাতে, আমার হাতে নয়?",
+      "আজ কোন ছোট্ট নেক কাজ শুরু করতে পারি, যা আমি পৌঁছানোর দিনও আমার অপেক্ষায় থাকবে?"
+    ],
+    "lessonEn": "Every good deed is bedding you spread for yourself before you arrive; no one can lay it for you, and no one else carries what you refuse.",
+    "lessonBn": "প্রতিটি নেক আমল পৌঁছানোর আগেই নিজের জন্য পেতে রাখা বিছানা। কেউ আপনার হয়ে তা পেতে দেবে না, আর আপনি যা প্রত্যাখ্যান করেন তার বোঝাও অন্য কেউ বইবে না।"
   }
 };
 

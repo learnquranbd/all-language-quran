@@ -2087,6 +2087,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "30:44": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Day of Splitting",
+          "bn": "ভাগ হয়ে যাওয়ার দিনের পর"
+        },
+        "p": [
+          {
+            "en": "Man kafara fa-'alayhi kufruhu, wa man 'amila salihan fa-li-anfusihim yamhadun: whoever disbelieves, his disbelief is upon him, and whoever does righteousness, it is for themselves that they are making ready. Nine Arabic words, two clauses, no ornament. The verse does not stand alone. The one before it, 30:43, says: set your face toward the upright religion before a Day comes from Allah that cannot be turned back. It closes on a single verb, yawma'idhin yassadda'un, on that Day they will be split apart.",
+            "bn": "মান কাফারা ফাআলাইহি কুফরুহু, ওয়া মান আমিলা সালিহান ফালিআনফুসিহিম ইয়ামহাদূন: যে কুফরি করে, তার কুফরি তারই উপর। আর যে নেক কাজ করে, এমন লোকেরা নিজেদের জন্যই প্রস্তুতি নিচ্ছে। আরবিতে মাত্র নয়টি শব্দ, দুটি বাক্যাংশ, কোনো অলংকার নেই। তবে আয়াতটি একা দাঁড়িয়ে নেই। ঠিক আগের আয়াত, ৩০:৪৩, বলে: আল্লাহর পক্ষ থেকে এমন এক দিন আসার আগে, যাকে ফেরানো যাবে না, নিজের মুখ সরল দ্বীনের দিকে স্থির রাখো। আয়াতটি শেষ হয় একটি ক্রিয়ায়: ইয়াওমাইযিন ইয়াসসাদ্দাউন, সেদিন তারা ভাগ হয়ে যাবে।"
+          },
+          {
+            "en": "Ibn Kathir reads 30:43 as Allah commanding His servants to hasten to obedience and good deeds, and he explains the splitting plainly: they will be separated, one group in Paradise and another in the Fire. Then he quotes 30:44 and 30:45 together and comments on them as one. Read in that sequence, 30:44 answers the question its neighbour leaves open. If people are divided on that Day, what divides them? The verse names only two things, each done by a person with his own life: disbelief on one side, righteous work on the other.",
+            "bn": "ইবন কাসীর ৩০:৪৩-কে পড়েন আল্লাহর আদেশ হিসেবে: বান্দারা যেন আনুগত্য ও নেক কাজের দিকে তাড়াতাড়ি এগিয়ে যায়। ভাগ হয়ে যাওয়ার ব্যাখ্যাও তিনি সোজা কথায় দেন: মানুষ আলাদা হয়ে যাবে, একদল জান্নাতে, আরেকদল জাহান্নামে। এরপর তিনি ৩০:৪৪ ও ৩০:৪৫ একসঙ্গে উদ্ধৃত করে দুটির উপর একটিই আলোচনা করেন। এই ধারায় পড়লে আগের আয়াত যে প্রশ্ন খোলা রেখে যায়, ৩০:৪৪ তার জবাব দেয়। সেদিন মানুষ যদি ভাগ হয়ে যায়, তবে ভাগ করে কীসে? আয়াত মাত্র দুটি জিনিসের নাম নেয়, দুটিই মানুষ নিজের জীবন দিয়ে করে: একদিকে কুফরি, অন্যদিকে নেক আমল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Name on the Load",
+          "bn": "বোঝায় একজনেরই নাম"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses fa-'alayhi kufruhu as the burdens of his disbelief and the sins of his denying the blessings of his Lord. The word he picks, juhud, is refusal to acknowledge, and he pairs it with ni'am, favours. In his wording, disbelief is also a refusal to recognise favours a person has been living on. Al-Qurtubi is shorter: the recompense of his disbelief. Al-Baghawi uses wabal, the bad outcome that falls back on a person, and the Muyassar names it outright: the punishment of his disbelief, which is remaining forever in the Fire.",
+            "bn": "তাবারী ফাআলাইহি কুফরুহু-র ব্যাখ্যা দেন এভাবে: তার কুফরির বোঝা, আর রবের নিয়ামত অস্বীকার করার গুনাহ তারই উপর। তাঁর বেছে নেওয়া শব্দ জুহূদ, মানে জেনেও না মানা। সঙ্গে জুড়ে দেন নিআম, অর্থাৎ নিয়ামতরাজি। তাঁর ভাষায় তাই, যে নিয়ামতের উপর মানুষ বেঁচে আছে, সেগুলোকে স্বীকার না করাও কুফরি। কুরতুবী আরও সংক্ষেপে বলেন: তার কুফরির প্রতিফল। বাগাভী ব্যবহার করেন ওয়াবাল শব্দটি, অর্থাৎ যে মন্দ পরিণাম মানুষের উপরেই ফিরে আসে। আর মুয়াসসার খোলাখুলি বলে দেয়: তার কুফরির শাস্তি, আর তা হলো চিরকাল জাহান্নামে থাকা।"
+          },
+          {
+            "en": "As-Sa'di draws a second point from the preposition 'alayhi, upon him. Whoever disbelieves is punished in his own person, he says, and he adds the Qur'anic words la taziru waziratun wizra ukhra, no bearer of burdens bears the burden of another, found in several places, among them 17:15 and 35:18. The clause cuts both ways. No one else will be made to carry a disbeliever's load, and no one else can lift it from him either. In 35:18 the Qur'an adds that a heavily laden soul calling for help will find none of its load carried, even by a close relative.",
+            "bn": "আলাইহি, অর্থাৎ তার উপর, এই অব্যয় থেকে সা'দী আরেকটি কথা বের করেন। তিনি বলেন, যে কুফরি করে, শাস্তি পায় সে নিজেই। সঙ্গে তিনি কুরআনের এ বাক্যটি আনেন: লা তাযিরু ওয়াযিরাতুন উইযরা উখরা, কোনো বোঝা বহনকারী অন্যের বোঝা বইবে না। কথাটি কুরআনে কয়েক জায়গায় এসেছে, তার মধ্যে ১৭:১৫ ও ৩৫:১৮। বাক্যাংশটি তাই দুই দিকেই কাটে। কাফিরের বোঝা অন্য কাউকে বইতে বাধ্য করা হবে না, আবার অন্য কেউ তার কাঁধ থেকে তা নামিয়েও নিতে পারবে না। ৩৫:১৮ আরও বলে, ভারাক্রান্ত কেউ নিজের বোঝা বইয়ে দেওয়ার জন্য ডাকলেও তার কিছুই বহন করা হবে না, ডাকা লোকটি নিকটাত্মীয় হলেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Doing Good Covers",
+          "bn": "নেক কাজের পরিধি"
+        },
+        "p": [
+          {
+            "en": "The second clause opens wa man 'amila salihan, and whoever does righteousness. At-Tabari defines it in two halves: whoever obeys Allah, acting on what He commanded in this world and stopping at what He forbade there. Doing good, in his gloss, is as much about what a person holds back from as about what he performs. The phrase fi al-dunya, in this world, matters too. The work is done here, though the place it prepares lies elsewhere.",
+            "bn": "দ্বিতীয় বাক্যাংশ শুরু হয় ওয়া মান আমিলা সালিহান দিয়ে, আর যে নেক কাজ করে। তাবারী একে দুই ভাগে বোঝান: যে আল্লাহর আনুগত্য করে, দুনিয়াতে তিনি যা আদেশ করেছেন তা পালন করে, আর যা নিষেধ করেছেন তা থেকে থেমে যায়। তাঁর ব্যাখ্যায় তাই নেক কাজ যতটা করার ব্যাপার, ততটাই বিরত থাকার ব্যাপার। ফিদ দুনিয়া, অর্থাৎ দুনিয়াতে, কথাটিও গুরুত্বপূর্ণ। কাজটা হয় এখানে, যদিও যে জায়গার জন্য প্রস্তুতি, তা অন্য কোথাও।"
+          },
+          {
+            "en": "As-Sa'di widens the field. Righteous work, he says, covers the rights that belong to Allah and the rights that belong to His servants, both the obligatory and the recommended. The Muyassar's paraphrase quietly adds faith to the clause: whoever believes and does righteous deeds. That is the pairing 30:45 then states openly, those who have believed and done righteous deeds, so the deeds of the second clause are never cut loose from the faith whose opposite the first clause named.",
+            "bn": "সা'দী পরিধিটা আরও বড় করে দেখান। তাঁর মতে নেক কাজের মধ্যে পড়ে আল্লাহর হক আর বান্দার হক, দুটোই, ফরজ ও মুস্তাহাব উভয়ই। মুয়াসসার তার ব্যাখ্যায় নিঃশব্দে ঈমান যোগ করে দেয়: যে ঈমান আনে ও নেক কাজ করে। পরের আয়াত ৩০:৪৫ ঠিক এই জোড়াটাই খোলাখুলি বলে: যারা ঈমান এনেছে ও নেক কাজ করেছে। ফলে দ্বিতীয় বাক্যাংশের আমল কখনো সেই ঈমান থেকে বিচ্ছিন্ন হয় না, প্রথম বাক্যাংশে যার বিপরীতের নাম নেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Cradle to Bedding",
+          "bn": "দোলনা থেকে বিছানা"
+        },
+        "p": [
+          {
+            "en": "The verb at the end, yamhadun, carries the verse's picture, and al-Qurtubi lays out its family. Mahd al-sabi is a child's cradle. Al-mihad is a bed, and mahadtu al-firash means I spread the bedding out and smoothed it. From there the root moves into ordinary affairs: tamhid al-umur is levelling matters and setting them right, tamhid al-'udhr is laying out an excuse and having it accepted, and tamahhud is becoming firmly settled. The common thread is a surface made level and ready, so that something can rest on it.",
+            "bn": "শেষ ক্রিয়াটি, ইয়ামহাদূন, আয়াতের ছবিটা বহন করে। কুরতুবী এর শব্দ-পরিবার মেলে ধরেন। মাহদুস সাবী মানে শিশুর দোলনা। আল-মিহাদ মানে বিছানা। মাহাদতুল ফিরাশ মানে আমি বিছানা পেতে সমান করে দিয়েছি। সেখান থেকে ধাতুটি রোজকার কাজের দিকে যায়। তামহীদুল উমূর মানে কাজকর্ম সমান করে গুছিয়ে দেওয়া। তামহীদুল উযর মানে ওজর মেলে ধরা আর তা কবুল হওয়া। তামাহহুদ মানে মজবুত হয়ে বসে যাওয়া। সবগুলোর ভেতরের সুতো একটাই: একটা জায়গা সমান ও তৈরি করা, যাতে তার উপর কিছু স্থির হয়ে থাকতে পারে।"
+          },
+          {
+            "en": "Al-Qurtubi then applies the picture: through righteous work they are preparing for themselves, in the Hereafter, a bed, a dwelling and a settled abode. The image is domestic and calm. Nothing in the verb suggests a fortress or a trophy. It suggests someone who goes ahead of a traveller to make up the room where he will sleep. The difference is that here the traveller and the one who makes up the room are the same person.",
+            "bn": "এরপর কুরতুবী ছবিটা আয়াতের উপর বসান: নেক আমলের মাধ্যমে তারা আখিরাতে নিজেদের জন্য বিছানা, বাসস্থান আর স্থায়ী ঠিকানা তৈরি করে রাখছে। ছবিটা ঘরোয়া, শান্ত। ক্রিয়াটির মধ্যে কোনো দুর্গ বা জয়ের স্মারকের ইঙ্গিত নেই। মনে আসে এমন কারও কথা, যে মুসাফিরের আগে পৌঁছে তার ঘুমানোর ঘরটা গুছিয়ে রাখে। তফাত শুধু এই যে এখানে মুসাফির আর ঘর গোছানো লোক একই মানুষ।"
+          },
+          {
+            "en": "At-Tabari renders yamhadun with two verbs: yasta'iddun, they make themselves ready, and yusawwun al-madja', they level the place where a person lies, so as to be safe from their Lord's punishment and escape His torment. He supports the usage with a line of poetry: imhad li-nafsika hana al-suqmu wa-l-talafu, wa la tudayyi'anna nafsan ma laha khalafu. Prepare for yourself, sickness and ruin have drawn near, and do not squander a self that has no replacement. At-Tabari adds that the people of interpretation said much the same.",
+            "bn": "তাবারী ইয়ামহাদূন বোঝাতে দুটি ক্রিয়া আনেন। ইয়াসতাইদ্দূন, তারা নিজেদের তৈরি করে রাখে। আর ইউসাওয়ূনাল মাদজা, শোয়ার জায়গাটা সমান করে রাখে, যাতে রবের শাস্তি থেকে নিরাপদ থাকে আর তাঁর আযাব থেকে রক্ষা পায়। শব্দটির এ ব্যবহারের পক্ষে তিনি এক কবির পঙক্তি আনেন: ইমহাদ লিনাফসিকা হানাস সুকমু ওয়াত তালাফু, ওয়া লা তুদাইয়িআন্না নাফসান মা লাহা খালাফু। নিজের জন্য বিছানা পেতে রাখো, অসুখ আর বিনাশ কাছে এসে গেছে। আর যে প্রাণের কোনো বিকল্প নেই, তাকে নষ্ট কোরো না। তাবারী যোগ করেন, তাফসীরের আলেমরাও প্রায় এ কথাই বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "In the Grave, Then the Garden",
+          "bn": "প্রথমে কবর, তারপর জান্নাত"
+        },
+        "p": [
+          {
+            "en": "Where is this bed spread? At-Tabari brings Mujahid in four reports, all through Ibn Abi Najih. In one, Mujahid says they are levelling their resting places; in the others he says, more pointedly, in the grave, and in one wording, for the grave. Al-Qurtubi relays in the grave from Mujahid through Ibn Abi Najih, and al-Baghawi builds it into his own gloss: they smooth out their beds and level them in the graves. On this reading the first night after death is already furnished by the life that came before it.",
+            "bn": "বিছানাটা পাতা হচ্ছে কোথায়? তাবারী মুজাহিদের কথা আনেন চারটি বর্ণনায়, সবগুলোই ইবন আবী নাজীহের সূত্রে। একটিতে মুজাহিদ বলেন, তারা নিজেদের শোয়ার জায়গা সমান করছে। বাকিগুলোতে আরও নির্দিষ্ট করে বলেন: কবরে। আর এক বর্ণনায়: কবরের জন্য। কুরতুবীও ইবন আবী নাজীহের সূত্রে মুজাহিদের 'কবরে' কথাটি আনেন। বাগাভী কথাটা নিজের ব্যাখ্যার ভেতরেই গেঁথে দেন: তারা কবরে নিজেদের বিছানা পেতে সমান করে রাখে। এ পাঠে মৃত্যুর পরের প্রথম রাতের ঘরটা আগের জীবনই সাজিয়ে রেখে যায়।"
+          },
+          {
+            "en": "Others look further ahead. Al-Qurtubi's own gloss, quoted above, places the bed, the dwelling and the abode in the Hereafter. The Muyassar says they are preparing the dwellings of Paradise, because they held fast to obeying their Lord. As-Sa'di says they are making ready and building up their Hereafter, getting themselves prepared to win its stations and its chambers. Here the bed becomes a home with rooms, and the doer of good is its builder as well as its resident.",
+            "bn": "কেউ কেউ আরও সামনে তাকান। কুরতুবীর নিজের ব্যাখ্যা, যা আগে বলা হয়েছে, বিছানা, বাসস্থান আর ঠিকানাকে রাখে আখিরাতে। মুয়াসসার বলে, রবের আনুগত্য আঁকড়ে থাকার কারণে তারা জান্নাতের মনজিলগুলো তৈরি করে রাখছে। সা'দী বলেন, তারা প্রস্তুতি নিচ্ছে, নিজেদের আখিরাত আবাদ করছে, তার মনজিল আর কক্ষগুলো জয় করার জন্য তৈরি হচ্ছে। এখানে বিছানা হয়ে যায় অনেক কামরার এক ঘর। আর নেক আমলকারী সে ঘরের নির্মাতা, আবার বাসিন্দাও।"
+          },
+          {
+            "en": "These read less like rival positions than like stations on one road. None of the commentators fetched here argues against another, and nothing in the verb ties it to a single place. The grave comes first and the Garden after it, and a bed smoothed in the one belongs to the home built in the other. What the readings share is the direction of the work. It is done now, by the person who will need it, and it is waiting when that person arrives.",
+            "bn": "এগুলো পরস্পরবিরোধী মত বলে মনে হয় না, বরং একই পথের কয়েকটি মনজিল। এখানে যাঁদের তাফসীর দেখা হয়েছে, তাঁদের কেউ অন্যের মত খণ্ডন করেননি। ক্রিয়াটিও কোনো এক জায়গায় বাঁধা নয়। আগে কবর, পরে জান্নাত। একটিতে সমান করা বিছানা অন্যটিতে গড়া ঘরেরই অংশ। সব ব্যাখ্যায় যা মেলে, তা হলো কাজের দিক। কাজটা হচ্ছে এখন, যার দরকার হবে সে নিজেই করছে। আর সে যখন পৌঁছাবে, কাজটা তার জন্য অপেক্ষা করে থাকবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Alone, Many at Work",
+          "bn": "একজন একা, অনেকে কাজে"
+        },
+        "p": [
+          {
+            "en": "The shape of the verse rewards a slow reading. The first clause is singular throughout: man kafara, fa-'alayhi, kufruhu, he and his. The second begins the same way, man 'amila salihan, and then turns plural: fa-li-anfusihim yamhadun, for themselves they prepare. One word, man, governs both clauses, and the verse lets it be heard as one person in the first and as many in the second. That is an observation from the wording, not a ruling drawn by the commentators fetched here, but it is hard to miss: the one stands alone with his load, the many are at work.",
+            "bn": "আয়াতের গড়নটা ধীরে পড়লে কিছু চোখে পড়ে। প্রথম বাক্যাংশ পুরোটাই একবচন: মান কাফারা, ফাআলাইহি, কুফরুহু, সে আর তার। দ্বিতীয়টাও শুরু হয় একইভাবে, মান আমিলা সালিহান, তারপর হঠাৎ বহুবচন: ফালিআনফুসিহিম ইয়ামহাদূন, তারা নিজেদের জন্য প্রস্তুতি নেয়। দুই বাক্যাংশেই একটি শব্দ, মান, আর আয়াত প্রথমটিতে তাকে একজন হিসেবে, দ্বিতীয়টিতে অনেকজন হিসেবে শোনায়। এটা শব্দের গড়ন থেকে পাওয়া একটা পর্যবেক্ষণ, এখানে দেখা তাফসীরগুলোর কোনো সিদ্ধান্ত নয়। তবু চোখ এড়ানো কঠিন: একজন নিজের বোঝা নিয়ে একা দাঁড়িয়ে, অনেকে মিলে কাজে ব্যস্ত।"
+          },
+          {
+            "en": "The order inside the second clause matters too. Fa-li-anfusihim, for themselves, comes before the verb, and as-Sa'di draws the sense from it: for themselves, not for anyone else. The same two-sided frame appears elsewhere with other wording. In 41:46, whoever does righteousness, it is for his own soul, and whoever does evil does so against it. In 45:15 the same two halves are followed by: then to your Lord you will be returned. Here in ar-Rum, the evil half is named as disbelief, and the good half is given its picture of a bed.",
+            "bn": "দ্বিতীয় বাক্যাংশের ভেতরের ক্রমটাও লক্ষ করার মতো। ফালিআনফুসিহিম, নিজেদের জন্য, কথাটা ক্রিয়ার আগে এসেছে। সা'দী এখান থেকেই অর্থ টানেন: নিজেদের জন্য, অন্য কারও জন্য নয়। একই দুই দিকের কাঠামো কুরআনের অন্য জায়গাতেও আছে, অন্য শব্দে। ৪১:৪৬ বলে, যে নেক কাজ করে, নিজের কল্যাণেই করে, আর যে মন্দ করে, তার ফল তার নিজের উপরেই। ৪৫:১৫-তেও একই দুই ভাগ, তারপর: অতঃপর তোমাদের রবের কাছেই তোমাদের ফিরিয়ে নেওয়া হবে। সূরা রূমের এই আয়াতে মন্দ দিকটার নাম কুফরি, আর ভালো দিকটা পেয়েছে বিছানার ছবি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Paid From His Bounty",
+          "bn": "তাঁর অনুগ্রহ থেকে প্রতিদান"
+        },
+        "p": [
+          {
+            "en": "The next verse, 30:45, gives the purpose: li-yajziya alladhina amanu wa 'amilu al-salihati min fadlihi, that He may reward those who believed and did righteous deeds out of His bounty. Ibn Kathir, who comments on the two verses as one, explains that He rewards them with the reward of bounty: a good deed with ten like it, up to 700 times, up to whatever Allah wills. The bed is their own work; the home they find is larger than that work could pay for.",
+            "bn": "পরের আয়াত, ৩০:৪৫, উদ্দেশ্যটা বলে দেয়: লিইয়াজযিয়াল্লাযীনা আমানূ ওয়া আমিলুস সালিহাতি মিন ফাদলিহী, যাতে তিনি নিজ অনুগ্রহে তাদের প্রতিদান দেন, যারা ঈমান এনেছে ও নেক কাজ করেছে। ইবন কাসীর দুই আয়াতের উপর একসঙ্গে আলোচনা করেন। তিনি বলেন, আল্লাহ তাদের প্রতিদান দেন অনুগ্রহের হিসেবে: একটি নেকির বদলে দশটি, ৭০০ গুণ পর্যন্ত, আর আল্লাহ যত চান ততদূর। বিছানাটা তাদের নিজেদের আমল। কিন্তু যে ঘর তারা পায়, তা সেই আমলের দামের চেয়ে অনেক বড়।"
+          },
+          {
+            "en": "Ibn Kathir cites no narration here, but his numbers match a general report in Sahih al-Bukhari (6491), not attached to this verse. Ibn Abbas reports the Prophet ﷺ narrating from his Lord: Allah wrote down the good deeds and the bad deeds, then explained it. Whoever intends a good deed and does not do it, Allah writes it with Him as one complete good deed. If he intends it and does it, Allah writes it with Him as ten good deeds, up to 700 times, up to many times more.",
+            "bn": "ইবন কাসীর এখানে কোনো বর্ণনা উল্লেখ করেননি। তবে তাঁর সংখ্যাগুলো সহীহ বুখারীর (৬৪৯১) একটি সাধারণ হাদীসের সঙ্গে মেলে, যা এ আয়াতের সঙ্গে যুক্ত নয়। ইবন আব্বাস (রাঃ) বর্ণনা করেন, নবী ﷺ তাঁর রবের পক্ষ থেকে বর্ণনা করে বলেছেন: আল্লাহ নেকি ও গুনাহ লিখে রেখেছেন, তারপর তা ব্যাখ্যা করে দিয়েছেন। কেউ কোনো নেক কাজের ইচ্ছা করল কিন্তু করল না, আল্লাহ তাঁর কাছে তা একটি পূর্ণ নেকি হিসেবে লেখেন। আর ইচ্ছা করে কাজটা করে ফেললে আল্লাহ তাঁর কাছে তা দশটি নেকি হিসেবে লেখেন, ৭০০ গুণ পর্যন্ত, আরও বহু গুণ পর্যন্ত।"
+          },
+          {
+            "en": "It continues: whoever intends a bad deed and does not do it, Allah writes it with Him as one complete good deed; and if he intends it and does it, Allah writes it as one bad deed. Sahih Muslim (2577) preserves a longer narration from Abu Dharr, also general and not attached to this verse, which closes: O My servants, it is only your deeds that I count up for you and then repay you in full. So whoever finds good, let him praise Allah, and whoever finds other than that, let him blame no one but himself. No tafsir fetched for 30:44 attaches a hadith to the verse.",
+            "bn": "হাদীসটি এরপর বলে: কেউ কোনো মন্দ কাজের ইচ্ছা করল কিন্তু করল না, আল্লাহ তাঁর কাছে তা একটি পূর্ণ নেকি হিসেবে লেখেন। আর ইচ্ছা করে করে ফেললে আল্লাহ তা একটিমাত্র গুনাহ হিসেবে লেখেন। সহীহ মুসলিমে (২৫৭৭) আবূ যার (রাঃ) থেকে আরও দীর্ঘ একটি বর্ণনা আছে। সেটিও সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়। তার শেষ অংশ এই: হে আমার বান্দারা, এগুলো তো তোমাদেরই আমল, যা আমি তোমাদের জন্য গুনে রাখি, তারপর তার পুরো প্রতিদান দিই। তাই যে কল্যাণ পায়, সে যেন আল্লাহর প্রশংসা করে। আর যে অন্য কিছু পায়, সে যেন নিজেকে ছাড়া আর কাউকে দোষ না দেয়। ৩০:৪৪-এর জন্য দেখা তাফসীরগুলোর কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verdict That Stays With Him",
+          "bn": "যে ফয়সালা তাঁরই হাতে"
+        },
+        "p": [
+          {
+            "en": "On the close of 30:45, innahu la yuhibbu al-kafirin, He does not love the disbelievers, Ibn Kathir adds a line that governs how the first clause of 30:44 should be heard: and with this He is the Just among them, who does not wrong. The disbeliever's load is his own, measured and never inflated. The believer's reward is beyond measure. Whatever is uneven in the verse leans towards generosity, never towards injustice.",
+            "bn": "৩০:৪৫-এর শেষ কথা, ইন্নাহূ লা ইউহিব্বুল কাফিরীন, তিনি কাফিরদের ভালোবাসেন না, এর উপর ইবন কাসীর একটি বাক্য যোগ করেন। ৩০:৪৪-এর প্রথম বাক্যাংশ কীভাবে শুনতে হবে, সেটা এ বাক্যই ঠিক করে দেয়: এর পরও তিনি তাদের ব্যাপারে ন্যায়পরায়ণ, কারও উপর জুলুম করেন না। কাফিরের বোঝা তার নিজের, মাপা, কখনো বাড়ানো নয়। মুমিনের প্রতিদান মাপের বাইরে। আয়াতে যেটুকু অসমতা, তা ঝুঁকে আছে উদারতার দিকে, কখনো অবিচারের দিকে নয়।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what Allah sets for disbelief and for righteous work on a Day that He alone brings. It names no one, and it licenses nothing against any living person or community: no contempt, no harm, no verdict passed in advance. Who will be found on which side is not known to the reader, and the verse turns the reader towards his own deeds. Its practical weight falls on the second clause, where every hearer is told what his days are already doing.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। যে দিন কেবল আল্লাহই আনবেন, সেদিন কুফরি আর নেক আমলের জন্য তিনি কী নির্ধারণ করে রেখেছেন, আয়াতটি তারই বর্ণনা দেয়। এতে কারও নাম নেই। আর আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না: অবজ্ঞার নয়, ক্ষতি করার নয়, আগেভাগে রায় দিয়ে দেওয়ারও নয়। কে কোন দলে পড়বে, পাঠক তা জানে না। আয়াত বরং পাঠককে ফিরিয়ে দেয় তার নিজের আমলের দিকে। এর আসল ভার দ্বিতীয় বাক্যাংশে, যেখানে প্রত্যেক শ্রোতাকে জানানো হয়, তার দিনগুলো এখনই কী করে চলেছে।"
+          },
+          {
+            "en": "Read slowly, the verse turns ordinary acts into housekeeping for a home not yet seen. A prayer offered when it is inconvenient, a right paid to someone who could not have demanded it, a sin left alone when no one would have known: in at-Tabari's words, each levels the place where a person will lie. Mujahid's answer, in the grave, makes the timetable short. The bed is being made now, by the person who will sleep in it.",
+            "bn": "ধীরে পড়লে আয়াতটি রোজকার সাধারণ কাজগুলোকে বানিয়ে দেয় না-দেখা এক ঘরের গৃহস্থালি। অসুবিধার মধ্যেও পড়া নামায, এমন কারও হক আদায় করা যে নিজে দাবি করতেও পারত না, এমন গুনাহ ছেড়ে দেওয়া যা কেউ জানতেও পারত না: তাবারীর ভাষায়, প্রতিটিই শোয়ার জায়গাটা সমান করে। মুজাহিদের জবাব, কবরে, সময়টাকে আরও কাছে এনে দেয়। বিছানাটা পাতা হচ্ছে এখনই, আর যে শোবে সে নিজেই পাতছে।"
+          }
+        ]
+      }
+    ]
+  },
   "30:46": {
     "sections": [
       {
