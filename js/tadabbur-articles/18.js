@@ -4419,6 +4419,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:91": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Shortest of Three Journeys",
+          "bn": "তিন সফরের সবচেয়ে ছোটটি"
+        },
+        "p": [
+          {
+            "en": "Kadhalika, wa-qad ahatna bima ladayhi khubra: so it was, and We had encompassed in knowledge all that he had. Six Arabic words, and they close an episode. Each of Dhul-Qarnayn's three journeys in this surah opens the same way, with a means followed and a place reached (18:85, 18:89, 18:92). The western journey runs over three verses and carries a divine address, a choice and his answer (18:86 to 18:88). The eastern one has a single verse of arrival, and then this one.",
+            "bn": "কাযালিকা, ওয়া কাদ আহাতনা বিমা লাদাইহি খুবরা: এমনই ছিল, আর তার কাছে যা কিছু ছিল, সবই আমি জ্ঞান দিয়ে ঘিরে রেখেছিলাম। আরবিতে মাত্র ছয়টি শব্দ, আর এতেই একটি পর্ব শেষ। এ সূরায় যুলকারনাইনের তিনটি সফরই শুরু হয় একই ভঙ্গিতে: একটি উপায় অনুসরণ, তারপর কোনো এক জায়গায় পৌঁছানো (১৮:৮৫, ১৮:৮৯, ১৮:৯২)। পশ্চিমের সফর চলে তিন আয়াত ধরে। সেখানে আল্লাহর সম্বোধন আছে, একটি বাছাইয়ের সুযোগ আছে, আর আছে তার জবাব (১৮:৮৬ থেকে ১৮:৮৮)। পূর্বের সফরে পৌঁছানোর কথা এক আয়াতে, তারপর শুধু এই আয়াত।"
+          },
+          {
+            "en": "Look at what is missing. In the west he is told he may punish or do good, and he states his policy aloud. In the east no one speaks. He finds the sun rising on a people for whom, Allah says, We had made no shelter from it (18:90), and the account moves on: the next verse begins, then he followed a means (18:92), toward the two barriers. Between arrival and departure stands only this verse, tying the visit back to what came before and resting all of it inside Allah's knowledge.",
+            "bn": "কী নেই, সেদিকে একবার তাকান। পশ্চিমে তাকে বলা হয়, চাইলে শাস্তি দিতে পারো, চাইলে সদয় হতে পারো, আর তিনি নিজের নীতি মুখে ঘোষণা করেন। পূর্বে কেউ কথা বলে না। তিনি দেখেন, সূর্য উঠছে এমন এক জাতির উপর, আল্লাহ বলছেন যাদের জন্য আমি রোদ থেকে কোনো আড়াল রাখিনি (১৮:৯০)। তারপরই কাহিনি এগিয়ে যায়। পরের আয়াত শুরু হয়, তারপর সে আরেক উপায় ধরল (১৮:৯২), দুই প্রাচীরের দিকে। আসা আর চলে যাওয়ার মাঝে দাঁড়িয়ে আছে কেবল এই আয়াত। এক শব্দে সফরটাকে আগের ঘটনার সঙ্গে জুড়ে দেয়, আর পুরোটা রেখে দেয় আল্লাহর জ্ঞানের ভেতরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Like the West, but How?",
+          "bn": "পশ্চিমের মতো, কোন অর্থে?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads kadhalika as part of the journey itself. Its meaning, he says, is: then he followed a means likewise, until he reached the rising of the sun; the word, in his phrase, belongs to the verb atba'a. Put plainly, the sentence runs: he followed a means until he reached the sun's rising, just as he had followed a means until he reached its setting. On this reading the comparison is between two roads. The east was reached the way the west was, by a given means patiently followed.",
+            "bn": "তাবারী কাযালিকা শব্দটিকে সফরেরই অংশ ধরেন। তাঁর ব্যাখ্যায় অর্থ দাঁড়ায়: তারপর সে একইভাবে আরেক উপায় ধরল, শেষে সূর্যোদয়ের স্থানে পৌঁছল। তাঁর ভাষায়, শব্দটি আতবাআ ক্রিয়ার সঙ্গে যুক্ত। সহজ করে বললে বাক্যটা এমন: সে উপায় ধরে সূর্যোদয়ের স্থানে পৌঁছল, ঠিক যেমন উপায় ধরে পৌঁছেছিল সূর্যাস্তের স্থানে। এ পাঠে তুলনাটা দুটি পথের মধ্যে। পূর্বে পৌঁছানো হয়েছিল পশ্চিমে পৌঁছানোর মতোই, আল্লাহর দেওয়া উপায় ধৈর্যের সঙ্গে অনুসরণ করে।"
+          },
+          {
+            "en": "Al-Baghawi records that reading under qila, it was said: as he reached the setting of the sun, so he reached its rising. Then he gives another and calls it the correct reading: as he judged among the people at the setting of the sun, so he judged among those at its rising. Here the comparison is between two verdicts, not two roads. What the ruler did in the west, punishment for the wrongdoer and the best reward and an easy word for the believer (18:87, 18:88), he did again in the east.",
+            "bn": "বাগাভী ওই পাঠটি আনেন কীলা, অর্থাৎ বলা হয়েছে, এই শব্দে: যেমন সে সূর্যাস্তের স্থানে পৌঁছেছিল, তেমনি পৌঁছল সূর্যোদয়ের স্থানে। এরপর তিনি আরেকটি ব্যাখ্যা দেন এবং সেটিকেই সঠিক বলেন: সূর্যাস্তের কাছের জাতির ব্যাপারে সে যেমন ফয়সালা করেছিল, সূর্যোদয়ের কাছের জাতির ব্যাপারেও তেমনি করল। এখানে তুলনাটা দুটি পথের নয়, দুটি ফয়সালার। পশ্চিমে শাসক যা করেছিলেন, তা-ই পূর্বে আবার করলেন। যালিমের জন্য শাস্তি, আর মুমিনের জন্য উত্তম প্রতিদান ও নরম কথা (১৮:৮৭, ১৮:৮৮)।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing Ibn 'Atiyya through al-Bahr al-Muhit, explains why such a reading would leave the verse so brief. The Qur'an describes the eastern people's condition, it notes, but says nothing of their faith and deeds, nor of what Dhul-Qarnayn did with them. It takes it that he dealt with them as he had dealt with the people in the west, and that telling it again was not needed, since it could be worked out from the earlier account. The two readings stand side by side, and the word carries either.",
+            "bn": "মাআরিফুল কুরআন আল-বাহরুল মুহীতের সূত্রে ইবন আতিয়্যার কথা এনে বোঝায়, এমন পাঠে আয়াতটি কেন এত ছোট। কুরআন পূর্বের জাতির অবস্থা বলেছে, কিন্তু তাদের ঈমান ও আমলের কথা বলেনি, যুলকারনাইন তাদের সঙ্গে কী করেছিলেন তা-ও বলেনি। মাআরিফের ধারণা, পশ্চিমের জাতির সঙ্গে তিনি যেমন আচরণ করেছিলেন, এদের সঙ্গেও তেমনই করেছিলেন। আগের ঘটনা থেকেই তা বুঝে নেওয়া যায় বলে আবার বলার দরকার পড়েনি। দুটি পাঠ পাশাপাশি থাকে, আর শব্দটি দুটোই বহন করতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Nearness Is Meant",
+          "bn": "লাদাইহি: কার কাছে?"
+        },
+        "p": [
+          {
+            "en": "Bima ladayhi: what was with him, or beside him. Whose side is meant, and what lay there, is read in several ways in the texts fetched for this verse. At-Tabari reads it of the place. We had encompassed in knowledge, he explains, what was at the rising of the sun, so that nothing there was hidden from Us: not the creatures in it, nor their conditions, nor their means, nor anything else. On his reading, the eastern people themselves stand inside the clause.",
+            "bn": "বিমা লাদাইহি: যা তার সঙ্গে ছিল, বা তার পাশে। কার পাশে, আর সেখানে কী ছিল, এ আয়াতের জন্য আনা তাফসীরগুলোতে তা একাধিকভাবে পড়া হয়েছে। তাবারী এটিকে জায়গার কথা হিসেবে পড়েন। তাঁর ব্যাখ্যা: সূর্যোদয়ের স্থানে যা ছিল, তা আমি জ্ঞান দিয়ে ঘিরে রেখেছিলাম। সেখানকার কিছুই আমার কাছে গোপন ছিল না। সেখানকার সৃষ্টি নয়, তাদের অবস্থা নয়, তাদের উপায়-উপকরণ নয়, অন্য কিছুও নয়। তাঁর পাঠে পূর্বের সেই জাতিও এই বাক্যের ভেতরে এসে যায়।"
+          },
+          {
+            "en": "Others turn the pronoun toward the man. Ibn Kathir reads it as all his conditions and the conditions of his army: none of it is hidden from Us, he writes, even though their peoples were scattered and the earth spread them far apart. Al-Baghawi lists the contents of the camp: what was with him and beside him of troops, of equipment and of instruments. The knowledge in the verse reaches the soldiers, the stores and the tools of a march across the world.",
+            "bn": "অন্যরা সর্বনামটিকে মানুষটির দিকে ফেরান। ইবন কাসীরের পাঠে এর মানে তার সব অবস্থা আর তার বাহিনীর সব অবস্থা। তিনি লেখেন, এর কিছুই আমার কাছে গোপন নয়, যদিও তাদের জাতিগুলো ছড়িয়ে ছিল আর পৃথিবী তাদের দূরে দূরে সরিয়ে দিয়েছিল। বাগাভী শিবিরের জিনিসপত্রের তালিকা দেন: তার সঙ্গে আর তার পাশে যত সৈন্য, যত রসদ, যত যন্ত্রপাতি ছিল। আয়াতের জ্ঞান পৌঁছে যায় সৈনিকদের কাছে, রসদের কাছে, দুনিয়াজোড়া অভিযানের প্রতিটি হাতিয়ারের কাছে।"
+          },
+          {
+            "en": "Al-Muyassar and as-Sa'di read it more widely, in almost the same words: Our knowledge encompassed what he had of good and of great means, wherever he turned and travelled. The word for means, asbab, reaches back to the gift of 18:84, We gave him of everything a means, and to the means he then followed. Whichever reading one takes, nothing the clause names lay outside the knowledge it speaks of.",
+            "bn": "মুয়াসসার ও সা'দী আরও বিস্তৃতভাবে পড়েন, প্রায় একই ভাষায়: সে যেদিকেই ফিরেছে, যেখানেই গেছে, তার কাছে যত কল্যাণ আর যত বড় বড় উপায়-উপকরণ ছিল, সবই আমার জ্ঞানের বেষ্টনীতে ছিল। উপায় বোঝাতে তাঁরা যে আসবাব শব্দ ব্যবহার করেন, তা ফিরে যায় ১৮:৮৪ আয়াতের দানে: আমি তাকে সব বিষয়ের উপায় দিয়েছিলাম। আর ফিরে যায় সেই উপায়ের দিকে, যা সে পরে অনুসরণ করেছিল। যে পাঠই নিন, এ বাক্য যা-ই বোঝাক, তার কিছুই সেই জ্ঞানের বাইরে ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing From Every Side",
+          "bn": "সবদিক থেকে জানা"
+        },
+        "p": [
+          {
+            "en": "Khubran, the commentators agree, means knowledge. At-Tabari gives that sense and adds that the people of interpretation said the same, then names them: Mujahid, through Ibn Abi Najih by two chains, said 'ilman, knowledge, and Ibn Zayd said of the whole verse, knowledge. Ibn Kathir names Mujahid and as-Suddi for the same gloss, and al-Baghawi writes it in one word. On the meaning of the noun there is no dispute in anything fetched for this verse. The weight falls on the verb that carries it.",
+            "bn": "খুবরান মানে জ্ঞান, এ নিয়ে তাফসীরকারেরা একমত। তাবারী এ অর্থ দিয়ে বলেন, ব্যাখ্যাকারেরাও এ কথাই বলেছেন, তারপর তাঁদের নাম আনেন। ইবন আবী নাজীহর মাধ্যমে দুটি সূত্রে মুজাহিদ বলেছেন, ইলমান, অর্থাৎ জ্ঞান। আর ইবন যায়দ গোটা আয়াত সম্পর্কে বলেছেন, জ্ঞান। ইবন কাসীর একই ব্যাখ্যার জন্য মুজাহিদ ও সুদ্দীর নাম নেন, আর বাগাভী এক শব্দে তা লিখে দেন। এ আয়াতের জন্য আনা কোনো লেখায় শব্দটির অর্থ নিয়ে মতভেদ নেই। ভারটা পড়ে সেই ক্রিয়ার উপর, যা শব্দটিকে বয়ে আনে।"
+          },
+          {
+            "en": "Ahatna comes from ihata, to surround a thing and take it in from every side. The verse does not say We knew what he had, but We encompassed it, in knowledge. Ibn Kathir draws out what that rules out: We are aware of all his states, he says, and nothing of them is hidden from Us. He then brings a verse to seal the point: la yakhfa 'alayhi shay'un fi al-ardi wa la fi al-sama', nothing on earth or in the heaven is hidden from Him (3:5).",
+            "bn": "আহাতনা এসেছে ইহাতা থেকে, যার মানে কোনো কিছুকে চারদিক থেকে ঘিরে ফেলা, সবদিক থেকে আয়ত্তে নেওয়া। আয়াত বলছে না যে তার কাছে যা ছিল আমি তা জানতাম। বলছে, আমি তা জ্ঞান দিয়ে ঘিরে রেখেছিলাম। এতে কী বাদ পড়ে যায়, ইবন কাসীর তা খুলে বলেন: তার সব অবস্থা আমি দেখি, এর কিছুই আমার কাছে গোপন নয়। তারপর কথাটা পাকা করতে তিনি একটি আয়াত আনেন: লা ইয়াখফা আলাইহি শাইউন ফিল আরদি ওয়ালা ফিস সামা, আসমান ও জমিনের কোনো কিছুই তাঁর কাছে গোপন নয় (৩:৫)।"
+          },
+          {
+            "en": "The same verb, joined to knowledge, describes Allah's knowledge of all things elsewhere in the Qur'an: wa anna Allaha qad ahata bi-kulli shay'in 'ilma, and that Allah has encompassed all things in knowledge (65:12). This verse takes that general truth and sets it down on one man at one place, at the far end of a journey. It does so exactly where a reader might suppose a traveller had passed beyond anyone's notice.",
+            "bn": "জ্ঞানের সঙ্গে জুড়ে একই ক্রিয়া কুরআনের অন্য জায়গায় সব কিছু সম্পর্কে আল্লাহর জ্ঞান বোঝায়: ওয়া আন্নাল্লাহা কাদ আহাতা বিকুল্লি শাইয়িন ইলমা, আর আল্লাহ সব কিছুকে জ্ঞান দিয়ে ঘিরে রেখেছেন (৬৫:১২)। এ আয়াত সেই সাধারণ সত্যটাকে নামিয়ে আনে একজন মানুষের উপর, এক জায়গায়, এক দীর্ঘ সফরের শেষ প্রান্তে। আর তা করে ঠিক সেই জায়গায়, যেখানে পাঠক ভাবতে পারতেন, মুসাফির বুঝি সবার চোখের আড়ালে চলে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Phrase Musa Once Heard",
+          "bn": "মূসা (আঃ) যে কথা শুনেছিলেন"
+        },
+        "p": [
+          {
+            "en": "Khubran occurs only twice in the Qur'an, both times in this surah and both times with the verb of encompassing. The first is al-Khidr's answer to Musa (AS): wa kayfa tasbiru 'ala ma lam tuhit bihi khubra, and how can you be patient over what you have not encompassed in knowledge? (18:68). The second is this verse. The earlier phrase is said to a servant who does not encompass; the later is said by Allah of Himself, who does. The surah sets the two phrases some two dozen verses apart.",
+            "bn": "খুবরান শব্দটি পুরো কুরআনে আছে মাত্র দুবার, দুবারই এই সূরায়, আর দুবারই ঘিরে ফেলার ক্রিয়ার সঙ্গে। প্রথমবার খিযিরের জবাবে, মূসা (আঃ)-কে: ওয়া কাইফা তাসবিরু আলা মা লাম তুহিত বিহি খুবরা, যে বিষয় তুমি জ্ঞান দিয়ে ঘিরে নিতে পারোনি, তাতে ধৈর্য ধরবে কীভাবে? (১৮:৬৮)। দ্বিতীয়বার এই আয়াতে। আগের কথাটি বলা হয়েছে এমন এক বান্দাকে, যিনি ঘিরে নিতে পারেননি। পরেরটি আল্লাহ বলছেন নিজের সম্পর্কে, যিনি ঘিরে রাখেন। দুটি বাক্যের মাঝে সূরাটি রেখেছে প্রায় দুই ডজন আয়াতের দূরত্ব।"
+          },
+          {
+            "en": "No commentary fetched for this verse draws the pairing, but it is there in the wording. Musa (AS), a prophet, was told that the acts he was about to witness with his own eyes lay beyond what he had encompassed in knowledge. And no king, however many means he is given, takes in the whole of the world he crosses. Neither limit is a fault in them. It is simply the measure of a creature, and the encompassing belongs to Allah alone.",
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীর এই জোড়াটা দেখায়নি, তবু শব্দের ভেতরেই তা আছে। মূসা (আঃ) নবী ছিলেন। তাঁকে বলা হয়েছিল, যে কাজগুলো তিনি একটু পরেই নিজের চোখে দেখবেন, সেগুলো তাঁর জ্ঞানের বেষ্টনীর বাইরে। আর কোনো রাজা যত উপায়ই পান, যে দুনিয়া তিনি পাড়ি দেন তার পুরোটা আয়ত্তে নিতে পারেন না। এ সীমা তাঁদের কারও দোষ নয়। এটাই সৃষ্টির মাপ। সবকিছু ঘিরে রাখা কেবল আল্লাহরই কাজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Decreed, Then Known",
+          "bn": "নির্ধারিত, তারপর জানা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di opens his comment on this verse with a qualification that looks back over the whole account of Dhul-Qarnayn's strength and reach: and with all this, he writes, every bit of it was by Allah's decree for him and His knowledge of him, and that is why He said, so it was, and We had encompassed what he had. On this reading the verse guards the story from a misreading. A man who reaches the setting and the rising of the sun has not stepped outside the plan. He is walking inside it.",
+            "bn": "সা'দী এ আয়াতের ব্যাখ্যা শুরু করেন একটি শর্ত জুড়ে দিয়ে, যা যুলকারনাইনের শক্তি আর নাগালের পুরো বিবরণের দিকে ফিরে তাকায়। তিনি লেখেন: এত কিছুর পরও এর সবটাই ছিল তার জন্য আল্লাহর নির্ধারণ আর তার সম্পর্কে আল্লাহর জ্ঞান অনুযায়ী। সে কারণেই তিনি বলেছেন, এমনই ছিল, আর তার কাছে যা ছিল আমি তা ঘিরে রেখেছিলাম। এ পাঠে আয়াতটি কাহিনিকে একটা ভুল বোঝা থেকে বাঁচায়। যে মানুষ সূর্যাস্ত আর সূর্যোদয়ের স্থান পর্যন্ত পৌঁছান, তিনি আল্লাহর পরিকল্পনার বাইরে পা রাখেননি। তিনি হাঁটছেন তার ভেতরেই।"
+          },
+          {
+            "en": "The abridged English Ibn Kathir, on the verses just before, describes what that walking looked like. From the west he travelled east; at every nation he passed he subdued the people and called them to Allah, and from every nation he took what his armies needed to meet the next. Ibn Kathir's comment on this verse answers the question such a picture raises: however widely the peoples were scattered, nothing of them was hidden.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ঠিক আগের আয়াতগুলোর আলোচনায় দেখায়, সেই হাঁটা কেমন ছিল। পশ্চিম থেকে তিনি পূর্বে যাত্রা করেন। পথে যে জাতির কাছেই যেতেন, তাদের বশে এনে আল্লাহর দিকে ডাকতেন। আর প্রতিটি জাতির কাছ থেকে নিতেন পরের জাতির মোকাবিলায় তাঁর বাহিনীর যা দরকার। এমন ছবি দেখে যে প্রশ্ন জাগে, এ আয়াতে ইবন কাসীরের ব্যাখ্যা তারই জবাব: জাতিগুলো যত দূরেই ছড়িয়ে থাকুক, তাদের কিছুই গোপন ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The People Under the Rising Sun",
+          "bn": "উদীয়মান সূর্যের নিচের মানুষ"
+        },
+        "p": [
+          {
+            "en": "The verse sits close to the people of 18:90, and at-Tabari's comment on it in fact opens with reports about them. Ibn Jurayj and Qatada describe a land where no building stood, and people who went into underground shelters when the sun rose and came out once it had passed, to see to their livelihoods; Qatada introduces his with balaghana, we were told. Ibn Jurayj adds a longer tale of an army caught there, and Qatada relays, as something said, a name for the people. These remain reports, and nothing here is built on them.",
+            "bn": "আয়াতটি ১৮:৯০ আয়াতের সেই জাতির খুব কাছে, আর তাবারী এ আয়াতের ব্যাখ্যা শুরুই করেন তাদের সম্পর্কে কিছু বর্ণনা দিয়ে। ইবন জুরাইজ ও কাতাদা এমন এক দেশের কথা বলেন, যেখানে কোনো ঘরবাড়ি টিকত না। সূর্য উঠলে লোকেরা মাটির নিচের আশ্রয়ে ঢুকে পড়ত, রোদ সরে গেলে বেরিয়ে এসে জীবিকার কাজে লাগত। কাতাদা তাঁর বর্ণনা শুরু করেন বালাগানা দিয়ে, অর্থাৎ আমাদের কাছে খবর পৌঁছেছে। ইবন জুরাইজ সেখানে আটকে পড়া এক বাহিনীর লম্বা কাহিনিও জোড়েন। আর কাতাদা 'বলা হয়' বলে ওই জাতির একটি নামও আনেন। এগুলো বর্ণনাই থাকে, এখানে এর উপর কিছু দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "The Qur'an itself says only that Allah had made them no shelter from the sun, and Ma'arif al-Qur'an notes, as seen above, that it says nothing of their faith or their deeds. So this needs saying plainly. The verse describes a people as the text describes them, at one moment of a story, and licenses nothing against any living person or community. No nation or region of today may be read into it, and no judgement of anyone alive may be drawn from it. Its point is not their state but Allah's knowledge of it.",
+            "bn": "কুরআন নিজে শুধু এটুকু বলে যে আল্লাহ তাদের জন্য রোদ থেকে কোনো আড়াল রাখেননি। আর মাআরিফুল কুরআন মনে করিয়ে দেয়, আগেই যেমন দেখা গেছে, তাদের ঈমান বা আমল সম্পর্কে কুরআন কিছুই বলেনি। তাই কথাটা সোজাসুজি বলা দরকার। আয়াতটি এক কাহিনির এক মুহূর্তে একটি জাতিকে ঠিক সেভাবেই বর্ণনা করে, যেভাবে পাঠে আছে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কোনো অনুমতি দেয় না। আজকের কোনো জাতি বা অঞ্চলকে এর ভেতরে পড়া যায় না, আর আজ বেঁচে থাকা কারও সম্পর্কে এ থেকে কোনো রায় টানা যায় না। আয়াতের লক্ষ্য তাদের অবস্থা নয়, সেই অবস্থা সম্পর্কে আল্লাহর জ্ঞান।"
+          },
+          {
+            "en": "Nor do the fetched texts bring a hadith on this verse. None of the commentaries consulted for it attaches a narration from the Prophet ﷺ, and none is forced in here. The verse is spoken in Allah's own voice, and its meaning is carried by its own words and by the verses that stand around it.",
+            "bn": "এ আয়াতের জন্য আনা লেখাগুলোতে কোনো হাদীসও নেই। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো বর্ণনা যুক্ত করেনি, তাই এখানে জোর করে কিছু আনা হয়নি। আয়াতটি আল্লাহর নিজের কথা। এর অর্থ বহন করে এর নিজের শব্দগুলো আর চারপাশের আয়াতগুলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Known Where Nothing Is Told",
+          "bn": "যেখানে কিছুই বলা হয় না"
+        },
+        "p": [
+          {
+            "en": "Read slowly, the verse is a sentence about silence. The Qur'an leaves the eastern visit almost untold, and in the same breath says that all of it was known. A human story has to choose what to show; it cuts, summarises and moves on. Allah's knowledge does not cut. Whatever the narrative passes over in a single word, whatever was done at the rising of the sun, is not passed over in His knowing. The silence belongs to the telling, never to the knowing.",
+            "bn": "ধীরে পড়লে আয়াতটি নীরবতা নিয়ে একটি বাক্য। পূর্বের সফরের কথা কুরআন প্রায় বলেই না, আর একই নিঃশ্বাসে জানিয়ে দেয়, তার সবটাই জানা ছিল। মানুষের গল্পকে বেছে নিতে হয় কী দেখাবে। সে কাটে, সংক্ষেপ করে, এগিয়ে যায়। আল্লাহর জ্ঞান কিছু কাটে না। কাহিনি এক শব্দে যা পেরিয়ে যায়, সূর্যোদয়ের দেশে যা কিছু ঘটেছিল, তাঁর জানার মধ্যে তার কিছুই বাদ পড়ে না। নীরবতা কেবল বলার মধ্যে, জানার মধ্যে কখনো নয়।"
+          },
+          {
+            "en": "Most of a life is like the eastern journey. A few scenes may be remembered by others; the rest happens far from anyone who would recount it. It asks whether what I do in the places no one reports matches what I would do in the places everyone sees, because to Him who encompasses, there is no difference between them. The far edge of the map is as open to Him as home.",
+            "bn": "জীবনের বেশির ভাগটাই সেই পূর্বের সফরের মতো। কয়েকটা দৃশ্য হয়তো অন্যরা মনে রাখবে। বাকিটা ঘটে এমন জায়গায়, যেখানে তা বলে বেড়ানোর কেউ নেই। প্রশ্ন রাখে, যেখানে কেউ খবর দেয় না সেখানে আমি যা করি, আর যেখানে সবাই দেখে সেখানে যা করতাম, দুটো কি মেলে? কারণ যিনি সব ঘিরে রাখেন, তাঁর কাছে দুটোর মধ্যে কোনো তফাত নেই। মানচিত্রের শেষ প্রান্তও তাঁর কাছে ঘরের মতোই খোলা।"
+          },
+          {
+            "en": "And bima ladayhi turns the question to what is in my own hand. Troops, equipment, instruments, means of every kind: the commentators listed what one king carried, and every item lay inside the knowledge of the One who gave it. What I carry is smaller, but it is held the same way. Time, skill, wealth, the reach of a voice: none of it is mine to use unseen. That is a warning, and also a trust, and a companionship on every road.",
+            "bn": "আর বিমা লাদাইহি প্রশ্নটাকে ফিরিয়ে আনে আমার নিজের হাতে যা আছে তার দিকে। সৈন্য, রসদ, যন্ত্রপাতি, সব রকম উপায়: তাফসীরকারেরা একজন রাজার সঙ্গে থাকা জিনিসের তালিকা দিয়েছেন, আর তার প্রতিটি ছিল দাতার জ্ঞানের ভেতরে। আমার কাছে যা আছে তা অনেক ছোট, কিন্তু তা-ও একইভাবে ধরা আছে। সময়, দক্ষতা, সম্পদ, কণ্ঠের নাগাল, এর কিছুই আমি অদেখায় ব্যবহার করতে পারি না। এ কথা সতর্কবাণী, আবার আমানতও, আর প্রতিটি পথে এক সঙ্গও।"
+          }
+        ]
+      }
+    ]
+  },
   "18:94": {
     "sections": [
       {

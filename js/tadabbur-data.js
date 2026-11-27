@@ -33963,6 +33963,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Speak up against what looks like harm, out of care for others, but keep your verdict open: a loss whose reason is still hidden may yet prove to be a protection.",
     "lessonBn": "যা ক্ষতি বলে দেখায়, অন্যের প্রতি দরদ থেকে তার বিরুদ্ধে মুখ খুলুন, তবে রায়টা খোলা রাখুন: যে ক্ষতির কারণ এখনো গোপন, তা-ই হয়তো শেষে রক্ষাকবচ হয়ে দাঁড়াবে।"
+  },
+  "18:91": {
+    "reflectionEn": "Three journeys, and the middle one is told in almost nothing. He reaches the rising of the sun and finds a people with no shelter from it. Then the account closes in six words: so it was, and We had encompassed in knowledge all that he had. What he did there, the story leaves untold. What it does say is that none of it was hidden. The man who reached the far edge of the earth, with his armies and his means, was himself held inside a knowledge wider than his reach. Much of my own life will never be told to anyone. Do I live that part as if the One who knows all of it is watching? And what I hold, do I hold it as His?",
+    "reflectionBn": "তিনটি সফর, তার মাঝেরটির কথা প্রায় কিছুই বলা হয়নি। তিনি সূর্যোদয়ের দেশে পৌঁছান, এমন এক জাতির দেখা পান যাদের রোদ থেকে বাঁচার কোনো আড়াল নেই। তারপর ছয় শব্দে বর্ণনা শেষ: এমনই ছিল, আর তার কাছে যা কিছু ছিল, সবই আমার জ্ঞানের বেষ্টনীতে ছিল। সেখানে তিনি কী করেছিলেন, কাহিনি তা বলে না। বলে শুধু এটুকু: কিছুই গোপন ছিল না। যে মানুষ বাহিনী আর উপায়-উপকরণ নিয়ে পৃথিবীর শেষ প্রান্তে পৌঁছেছিলেন, তিনি নিজেই ছিলেন এমন এক জ্ঞানের ভেতরে, যা তাঁর নাগালের চেয়ে অনেক বড়। আমার জীবনের অনেকটাই কোনোদিন কাউকে বলা হবে না। সেই অংশটা কি আমি এমনভাবে কাটাই, যেন যিনি সবটা জানেন তিনি দেখছেন? আর আমার হাতে যা আছে, তা কি তাঁর আমানত বলে ধরে রাখি?",
+    "pointsEn": [
+      "If the part of my week that nobody will ever hear about were laid open, would it match the part I let people see?",
+      "What do I have with me right now, in time, skill, money or influence, that I have stopped thinking of as known and counted by Allah?",
+      "When I am far from the people who know me, do I live as I live at home?",
+      "Where has my reach persuaded me that I see the whole of something, when only Allah encompasses it?",
+      "When I remember that nothing of mine is hidden from Him, is it comfort or unease that I feel, and what does that tell me?"
+    ],
+    "pointsBn": [
+      "আমার সপ্তাহের যে অংশের কথা কেউ কোনোদিন শুনবে না, তা যদি খুলে দেখানো হয়, মানুষকে যে অংশ দেখাই তার সঙ্গে কি মিলবে?",
+      "সময়, দক্ষতা, টাকা বা প্রভাব, এখন আমার হাতে এমন কী আছে যাকে আল্লাহর জানা ও গোনা জিনিস বলে ভাবা আমি ছেড়ে দিয়েছি?",
+      "যারা আমাকে চেনে তাদের থেকে দূরে থাকলে আমি কি ঘরের মতোই চলি?",
+      "কোথায় আমার নাগাল আমাকে বুঝিয়েছে যে কোনো বিষয়ের পুরোটাই আমি দেখছি, অথচ পুরোটা ঘিরে আছেন কেবল আল্লাহ?",
+      "আমার কিছুই তাঁর কাছে গোপন নয়, এ কথা মনে পড়লে আমি স্বস্তি পাই, নাকি অস্বস্তি? আর তা থেকে নিজের সম্পর্কে কী বুঝি?"
+    ],
+    "lessonEn": "Nothing you hold and nowhere you go lies outside Allah's knowledge; live the untold parts of your life as carefully as the parts others will see.",
+    "lessonBn": "আপনার হাতে যা আছে আর আপনি যেখানেই যান, কিছুই আল্লাহর জ্ঞানের বাইরে নয়। তাই জীবনের যে অংশ কেউ জানবে না, তা-ও সেভাবেই কাটান যেভাবে মানুষের চোখের সামনের অংশটা কাটান।"
   }
 };
 
