@@ -4419,6 +4419,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:92": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Crowd to the Brother",
+          "bn": "জনতা থেকে ভাইয়ের দিকে"
+        },
+        "p": [
+          {
+            "en": "Qala ya Harunu ma mana'aka idh ra'aytahum dallu: he said, O Aaron, what prevented you, when you saw them going astray. Seven Arabic words, and the sentence does not end with them; it runs on into 20:93. At-Tabari fixes the moment. Moses (AS) said this to his brother, he writes, lamma faragha min khitabi qawmihi, once he had finished addressing his people and disputing with them over the wrong they had done. The crowd was answered first, across 20:86 to 20:91. Only then did he turn to the man he had left in charge.",
+            "bn": "কালা ইয়া হারূনু মা মানাআকা ইয রাআইতাহুম দাল্লু: সে বলল, হে হারূন, তুমি যখন দেখলে ওরা পথভ্রষ্ট হয়ে গেছে, তখন কিসে তোমাকে বাধা দিল। আরবিতে সাতটি শব্দ, কিন্তু বাক্য এখানে শেষ হয় না, গড়িয়ে যায় ২০:৯৩ আয়াতে। মুহূর্তটা ঠিক কখন, তাবারী তা বলে দেন। নিজের জাতিকে সম্বোধন করা আর তাদের ভুল কাজ নিয়ে তাদের সঙ্গে বাদানুবাদ শেষ করার পর, লাম্মা ফারাগা মিন খিতাবি কাওমিহি, মূসা (আঃ) ভাইকে এ কথা বলেন। আগে জবাব দেওয়া হয়েছে জনতাকে, ২০:৮৬ থেকে ২০:৯১ পর্যন্ত। তারপরই তিনি ফিরলেন সেই মানুষটির দিকে, যাঁকে দায়িত্ব দিয়ে গিয়েছিলেন।"
+          },
+          {
+            "en": "As-Sa'di describes the turn in a short phrase: fa-aqbala Musa 'ala akhihi la'iman lahu, so Moses turned to his brother, reproaching him. Al-Qurtubi records the gesture that came with the words: when he saw Aaron (AS), he took the hair of his head in his right hand and his beard in his left, ghadaban, in anger. Ibn Kathir adds that Moses (AS) had been filled with fury, had thrown down the Tablets he was holding and taken his brother by the head, pulling him close, and he sends the reader back to his fuller treatment of the scene in Surat al-A'raf.",
+            "bn": "এই ফিরে তাকানোকে সা'দী এক ছোট বাক্যে ধরেন: ফাআকবালা মূসা আলা আখীহি লাইমান লাহু, অর্থাৎ মূসা (আঃ) ভর্ৎসনা করতে করতে ভাইয়ের দিকে এগোলেন। কথার সঙ্গে হাত কী করেছিল, কুরতুবী তা লিখে রাখেন। হারূন (আঃ)-কে দেখে তিনি ডান হাতে তাঁর মাথার চুল আর বাঁ হাতে দাড়ি ধরলেন, গাদাবান, রাগে। ইবন কাসীর যোগ করেন, মূসা (আঃ) তখন ক্রোধে ভরে উঠেছিলেন। হাতে থাকা ফলকগুলো ছুঁড়ে ফেলে ভাইয়ের মাথা ধরে তাঁকে কাছে টেনে নিয়েছিলেন। দৃশ্যটির বিস্তারিত আলোচনার জন্য তিনি পাঠককে সূরা আল-আ'রাফের ব্যাখ্যায় ফিরে যেতে বলেন।"
+          },
+          {
+            "en": "The grip, and Aaron's (AS) plea to be released, belong to 20:94, which has its own article. This verse holds only the question. And the question does not fall on a man who had said nothing. Two verses earlier, at 20:90, the Qur'an has already recorded that Aaron (AS) warned the people before Moses (AS) came back: that the calf was only a trial, that their Lord was the Most Merciful, and that they should follow him.",
+            "bn": "চুল-দাড়ি ধরা আর ছেড়ে দেওয়ার জন্য হারূন (আঃ)-এর অনুনয় ২০:৯৪ আয়াতের বিষয়, তার আলাদা প্রবন্ধ আছে। এ আয়াতে আছে শুধু প্রশ্নটা। আর প্রশ্নটা এমন কারও উপর পড়েনি, যিনি চুপ করে বসে ছিলেন। দুই আয়াত আগে, ২০:৯০ আয়াতে, কুরআন জানিয়ে দিয়েছে যে মূসা (আঃ) ফেরার আগেই হারূন (আঃ) লোকদের সতর্ক করেছিলেন। বলেছিলেন, এই বাছুর শুধুই পরীক্ষা, তোমাদের রব দয়াময়, কাজেই আমার অনুসরণ করো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Held You Back?",
+          "bn": "কিসে তোমাকে আটকাল"
+        },
+        "p": [
+          {
+            "en": "Ma mana'aka: what prevented you. At-Tabari and al-Muyassar open the phrase the same way, ayyu shay'in mana'aka, what thing prevented you. The wording does not ask whether Aaron (AS) did something. It asks what stood between him and a course Moses (AS) had expected him to take. The reproach is real, as as-Sa'di's word la'iman says, but it arrives in the shape of a request for a reason, and a reason is exactly what Aaron (AS) gives in 20:94.",
+            "bn": "মা মানাআকা: কিসে তোমাকে বাধা দিল। তাবারী আর মুয়াসসার দুজনেই কথাটা খোলেন একইভাবে, আইয়ু শাইয়িন মানাআকা, কোন জিনিস তোমাকে বাধা দিল। প্রশ্নটা জানতে চায় না হারূন (আঃ) কিছু করেছেন কি না। জানতে চায়, মূসা (আঃ) তাঁর কাছ থেকে যে পথ আশা করেছিলেন, তার মাঝে কী এসে দাঁড়াল। ভর্ৎসনা যে আছে, সা'দীর লাইমান শব্দটাই তা বলে দেয়। তবে তা আসে কারণ জানতে চাওয়ার রূপ ধরে। আর ২০:৯৪ আয়াতে হারূন (আঃ) ঠিক সেই কারণটাই বলেন।"
+          },
+          {
+            "en": "The setting makes that shape worth noticing. Moses (AS) already knew of the calf before he came down: his Lord had told him at 20:85 that his people had been tried in his absence and that the Sāmirī had led them astray. What remained unheard was his brother's side of those days, and the question asks for it. What he had expected of Aaron (AS), the commentators read from the words that finish the sentence in 20:93.",
+            "bn": "প্রেক্ষাপটটা মনে রাখলে প্রশ্নের এই রূপ আলাদা করে চোখে পড়ে। পাহাড় থেকে নামার আগেই মূসা (আঃ) বাছুরের কথা জানতেন। ২০:৮৫ আয়াতে তাঁর রব তাঁকে জানিয়েছিলেন, তাঁর অনুপস্থিতিতে তাঁর জাতিকে পরীক্ষায় ফেলা হয়েছে আর সামিরী তাদের পথভ্রষ্ট করেছে। বাকি ছিল ওই দিনগুলো নিয়ে ভাইয়ের নিজের কথা, আর প্রশ্নটা সেটাই চায়। তিনি হারূন (আঃ)-এর কাছে কী আশা করেছিলেন, তাফসীরকারেরা তা পড়েন ২০:৯৩ আয়াতের সেই শব্দগুলো থেকে, যেগুলো বাক্যটা শেষ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When You Saw Them Stray",
+          "bn": "যখন দেখলে ওরা বিপথে"
+        },
+        "p": [
+          {
+            "en": "Idh ra'aytahum dallu: when you saw them going astray. The commentators say plainly what the straying was. At-Tabari: dallu 'an dinihim, fa-kafaru billahi wa-'abadu al-'ijl, they strayed from their religion, disbelieved in Allah and worshipped the calf. Al-Qurtubi: akhta'u at-tariqa wa-kafaru, they missed the road and disbelieved. Al-Baghawi gives a single word, ashraku, they associated partners with Allah. Al-Muyassar keeps to the first clause, they strayed from their religion.",
+            "bn": "ইয রাআইতাহুম দাল্লু: যখন তুমি দেখলে ওরা পথভ্রষ্ট হয়ে গেছে। এই পথভ্রষ্টতা কী ছিল, তাফসীরকারেরা খোলাখুলি বলেন। তাবারীর ভাষায়, দাল্লু আন দীনিহিম, ফাকাফারূ বিল্লাহি ওয়া আবাদুল ইজল: তারা নিজেদের দীন থেকে সরে গেল, আল্লাহর সঙ্গে কুফরি করল আর বাছুরের ইবাদত করল। কুরতুবী বলেন, আখতাউত তারীকা ওয়া কাফারূ: তারা রাস্তা ভুল করল আর কুফরি করল। বাগাভী দেন একটিমাত্র শব্দ, আশরাকূ: তারা শিরক করল। মুয়াসসার প্রথম অংশেই থামেন: তারা নিজেদের দীন থেকে সরে গেল।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an puts it in the same terms: Moses (AS) asked why, once the unbelief of the Children of Israel had become obvious, Aaron (AS) had not followed him. So in this setting dallu is not a mild word. It does not describe people who had grown careless in a duty; it describes people who had taken a calf as their god. The question assumes the full size of the wrong.",
+            "bn": "মাআরিফুল কুরআনও একই কথা বলে: বনী ইসরাঈলের কুফরি যখন স্পষ্ট হয়ে গেল, তখন হারূন (আঃ) কেন তাঁর অনুসরণ করলেন না, মূসা (আঃ) সেটাই জানতে চেয়েছিলেন। তাই এখানে দাল্লু হালকা কোনো শব্দ নয়। এ শব্দ এমন লোকদের কথা বলে না, যারা কোনো দায়িত্বে একটু ঢিলেমি করেছে। বলে এমন লোকদের কথা, যারা একটা বাছুরকে ইলাহ বানিয়ে নিয়েছে। প্রশ্নটা অন্যায়ের পুরো ওজন ধরে নিয়েই করা।"
+          },
+          {
+            "en": "Idh ra'aytahum, when you saw them, makes Aaron (AS) a witness to the scene, not someone who had only heard of it. Ibn Kathir, on this verse, says that in his commentary on al-A'raf he had mentioned a narration bearing on the episode. He only names it here and gives no grading for it, so it is noted and not quoted. The verse itself is enough for the point: Aaron (AS) saw, and the question is about what that seeing should have led to.",
+            "bn": "ইয রাআইতাহুম, যখন তুমি দেখলে: এ কথায় হারূন (আঃ) দৃশ্যটার প্রত্যক্ষদর্শী, শুধু খবর শোনা কেউ নন। ইবন কাসীর এ আয়াতের আলোচনায় বলেন, আল-আ'রাফের ব্যাখ্যায় তিনি এ ঘটনার সঙ্গে সম্পর্কিত একটি বর্ণনা উল্লেখ করেছিলেন। এখানে তিনি কেবল তার নাম নেন, কোনো মান বলেন না। তাই এখানে শুধু তার উল্লেখ থাকল, উদ্ধৃতি নয়। মূল কথার জন্য আয়াতটাই যথেষ্ট। হারূন (আঃ) দেখেছিলেন, আর প্রশ্নটা হলো, সেই দেখা তাঁকে কোন পদক্ষেপের দিকে নিয়ে যাওয়ার কথা ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Small Word Inside Allā",
+          "bn": "আল্লা শব্দের ভেতরের লা"
+        },
+        "p": [
+          {
+            "en": "The question finishes in the next verse: alla tattabi'ani, from following me (20:93). Taken word by word, alla is an joined to la, and la ordinarily means not. A literal rendering would then say, what prevented you from not following me, which turns the reproach upside down. Al-Qurtubi settles it in two words: la za'ida, the la is additional. The sense, he writes, is an tattabi'a amri wa-wasiyyati, that you should follow my order and my charge.",
+            "bn": "প্রশ্নটা শেষ হয় পরের আয়াতে: আল্লা তাত্তাবিআনি, আমাকে অনুসরণ করতে (২০:৯৩)। শব্দ ধরে ভাঙলে আল্লা হলো আন আর লা একসঙ্গে, আর লা সাধারণত না-বোধক। তাহলে আক্ষরিক অর্থ দাঁড়ায়: আমাকে অনুসরণ না করতে কিসে বাধা দিল। এতে ভর্ৎসনাটাই উল্টে যায়। কুরতুবী দুই শব্দে বিষয়টা মিটিয়ে দেন: লা যাইদা, এই লা অতিরিক্ত। তাঁর ব্যাখ্যায় অর্থ হলো আন তাত্তাবিআ আমরী ওয়া ওয়াসিয়্যাতী, অর্থাৎ তুমি আমার আদেশ আর আমার অসিয়ত মেনে চলবে।"
+          },
+          {
+            "en": "Al-Baghawi makes the same point with another term: wa-la sila, the la is a connective that carries no negation, and he glosses alla tattabi'ani as an tattabi'ani, that you follow me. The two agree on the grammar, and the English rendering, from following me, already reflects it. Where they and the other commentators part is the object of the verb. Follow Moses (AS) in what?",
+            "bn": "বাগাভী একই কথা বলেন আরেকটি পরিভাষায়: ওয়া লা সিলা, এই লা কেবল সংযোগের কাজ করে, এতে না-বোধক অর্থ নেই। তাঁর ব্যাখ্যায় আল্লা তাত্তাবিআনি মানে আন তাত্তাবিআনি, তুমি আমাকে অনুসরণ করবে। ব্যাকরণে দুজন একমত, আর বাংলা অনুবাদের 'আমাকে অনুসরণ করতে' কথাটায় সেটাই ধরা আছে। তাঁদের এবং অন্য তাফসীরকারদের পথ আলাদা হয় ক্রিয়ার বিষয় নিয়ে। মূসা (আঃ)-কে অনুসরণ, কিন্তু কোন ব্যাপারে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Follow Me to the Mount",
+          "bn": "আমার পিছে তূর পাহাড়ে"
+        },
+        "p": [
+          {
+            "en": "A first family of readings takes follow me in its plainest sense: come after me. Al-Muyassar glosses it fa-talhaqa bi wa-tatrukahum, so that you would join me and leave them. Al-Qurtubi lists the same reading: ma mana'aka min al-luhuqi bi lamma futinu, what kept you from joining me when they fell into the trial. Ma'arif al-Qur'an names the destination. On this meaning, once Aaron (AS) saw that the people had strayed beyond recall, he should have left them and joined Moses (AS) at Mount Tur.",
+            "bn": "একদল ব্যাখ্যা 'আমার অনুসরণ'-কে নেয় সবচেয়ে সরল অর্থে: আমার পেছনে চলে আসা। মুয়াসসারের ব্যাখ্যা, ফাতালহাকা বী ওয়া তাতরুকাহুম: যাতে তুমি আমার কাছে চলে আসো আর ওদের ছেড়ে দাও। কুরতুবীও এ ব্যাখ্যা উল্লেখ করেন: মা মানাআকা মিনাল লুহূকি বী লাম্মা ফুতিনূ, ওরা যখন ফিতনায় পড়ল, তখন আমার কাছে চলে আসতে কিসে তোমাকে বাধা দিল। গন্তব্যটা মাআরিফুল কুরআন স্পষ্ট করে বলে। এ অর্থে, লোকেরা ফেরানোর সীমা পেরিয়ে পথ হারিয়েছে দেখে হারূন (আঃ)-এর উচিত ছিল তাদের ছেড়ে তূর পাহাড়ে মূসা (আঃ)-এর কাছে চলে যাওয়া।"
+          },
+          {
+            "en": "At-Tabari frames the matter as a dispute: ikhtalafa ahl at-ta'wil, the interpreters differed over what Moses (AS) blamed his brother for. A first group held that he blamed him for not setting out after him with those who obeyed him. At-Tabari relays from Ibn Abbas that Aaron (AS) stayed among the Muslims who had not been tempted, fearing that if he marched off with them Moses (AS) would say, you divided the Children of Israel; and that he held Moses in awe and obeyed him.",
+            "bn": "তাবারী বিষয়টাকে মতভেদ হিসেবেই উপস্থাপন করেন: ইখতালাফা আহলুত তা'বীল, মূসা (আঃ) ভাইকে ঠিক কিসের জন্য দোষ দিয়েছিলেন, তা নিয়ে ব্যাখ্যাকারদের মত ভিন্ন। একদলের মতে, যারা তাঁর কথা মেনেছিল তাদের নিয়ে মূসা (আঃ)-এর পেছনে রওনা না দেওয়াই ছিল দোষের বিষয়। তাবারী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, ফিতনায় না পড়া মুসলিমদের নিয়ে হারূন (আঃ) সেখানেই থেকে যান। তাঁর ভয় ছিল, ওদের নিয়ে চলে গেলে মূসা (আঃ) বলবেন, তুমি বনী ইসরাঈলের মধ্যে বিভেদ ঘটিয়েছ। ইবন আব্বাস (রাঃ) আরও বলেন, হারূন (আঃ) মূসা (আঃ)-কে সমীহ করতেন আর তাঁর কথা মানতেন।"
+          },
+          {
+            "en": "That report is a companion's statement which at-Tabari relays with its chain and without a grading; it is not a saying of the Prophet ﷺ. Under the same reading he places Ibn Zayd's one-word gloss, tad'uhum, you would leave them. A related set of glosses turns follow me into come and tell me. Ibn Kathir: so that you would inform me of this the moment it happened. As-Sa'di: fa-tukhbirani li-ubadira lir-ruju'i ilayhim, so that you would tell me and I could hasten back to them.",
+            "bn": "এ বর্ণনা একজন সাহাবীর কথা। তাবারী সনদসহ তা উল্লেখ করেন, কোনো মান বলেন না। এটি নবী ﷺ-এর বাণী নয়। একই ব্যাখ্যার অধীনে তিনি ইবন যায়দের এক শব্দের ব্যাখ্যাও রাখেন: তাদাউহুম, তুমি ওদের ছেড়ে দেবে। এর কাছাকাছি আরেক ধরনের ব্যাখ্যায় 'আমার অনুসরণ' মানে এসে আমাকে খবর দেওয়া। ইবন কাসীরের ভাষায়, ঘটনাটা ঘটামাত্র তুমি আমাকে জানাতে। সা'দীর ভাষায়, ফাতুখবিরানী লিউবাদিরা লিররুজূই ইলাইহিম: তুমি আমাকে জানাতে, যাতে আমি তাড়াতাড়ি ওদের কাছে ফিরে আসতে পারি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Follow My Way With Them",
+          "bn": "ওদের বেলায় আমার পথ"
+        },
+        "p": [
+          {
+            "en": "The other family reads follow me as follow my way. Al-Qurtubi gives it in two forms: ma mana'aka 'an ittiba'i fi al-inkari 'alayhim, what kept you from following me in denouncing them; and halla qataltahum, why did you not fight them, when you knew that had I been among them I would have fought them for their disbelief. Al-Baghawi puts this second form first, as his explanation of follow my order and my charge.",
+            "bn": "অন্য দল ব্যাখ্যা 'আমার অনুসরণ'-কে বোঝে আমার পথ ধরে চলা হিসেবে। কুরতুবী এটি দুই রূপে দেন। এক: মা মানাআকা আন ইত্তিবাঈ ফিল ইনকারি আলাইহিম, ওদের অন্যায়ের প্রতিবাদে আমার পথ ধরতে কিসে তোমাকে বাধা দিল। দুই: হাল্লা কাতালতাহুম, তুমি কেন ওদের সঙ্গে লড়াই করলে না, অথচ তুমি জানতে, আমি ওদের মাঝে থাকলে ওদের কুফরির জন্য ওদের সঙ্গে লড়াই করতাম। বাগাভী এই দ্বিতীয় রূপটাকেই প্রথমে আনেন, 'আমার আদেশ আর অসিয়ত মেনে চলা'-র ব্যাখ্যা হিসেবে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an credits this reading to some commentators: Aaron (AS) should have fought them as Moses (AS) would have done had he been there. At-Tabari's second group puts it in terms of repair rather than combat. On their view Moses blamed him for not setting right the corruption among the people. He relays from Ibn Jurayj that Moses (AS) had ordered Aaron (AS) to set things right and not to follow the way of the corrupters, and that alla tattabi'ani refers to that order.",
+            "bn": "মাআরিফুল কুরআন এ ব্যাখ্যাকে কিছু তাফসীরকারের মত বলে উল্লেখ করে: মূসা (আঃ) উপস্থিত থাকলে যেমন লড়তেন, হারূন (আঃ)-এরও তেমনি ওদের সঙ্গে লড়া উচিত ছিল। তাবারীর উল্লেখ করা দ্বিতীয় দল কথাটা বলেন সংশোধনের ভাষায়, লড়াইয়ের ভাষায় নয়। তাঁদের মতে, লোকদের মধ্যে যে বিপর্যয় ঘটেছিল, তা ঠিক না করার জন্যই মূসা (আঃ) দোষ দিয়েছিলেন। তাবারী ইবন জুরাইজ থেকে বর্ণনা করেন, মূসা (আঃ) হারূন (আঃ)-কে আদেশ দিয়েছিলেন সংশোধন করতে আর ফাসাদকারীদের পথে না চলতে। আল্লা তাত্তাবিআনি সেই আদেশের দিকেই ইঙ্গিত করে।"
+          },
+          {
+            "en": "Al-Qurtubi adds one more, under qila, it was said: halla faraqtahum, why did you not part from them, so that your parting would be a rebuke and a check on them. The readings thus run from leaving, to reporting, to denouncing, to fighting. In the text fetched, at-Tabari sets his two groups side by side without stating a preference, and Ma'arif sums up that Moses (AS) meant one of two things, fighting them or leaving them for the Mount. The disagreement stays where they leave it.",
+            "bn": "কুরতুবী 'কীলা', বলা হয়েছে, কথাটা দিয়ে আরও একটি মত আনেন: হাল্লা ফারাকতাহুম, তুমি কেন ওদের ছেড়ে চলে গেলে না, যাতে তোমার চলে যাওয়াটাই ওদের জন্য তিরস্কার আর সতর্কবার্তা হতো। এভাবে ব্যাখ্যাগুলো ছড়িয়ে আছে ছেড়ে যাওয়া, খবর দেওয়া, প্রতিবাদ করা আর লড়াই করা পর্যন্ত। সংগৃহীত পাঠে তাবারী দুই দলের মত পাশাপাশি রাখেন, কোনোটিকে প্রাধান্য দেন না। আর মাআরিফ সারকথা টানে এভাবে: মূসা (আঃ) চেয়েছিলেন দুটোর একটা, হয় ওদের সঙ্গে লড়াই, নয় ওদের ছেড়ে তূর পাহাড়ে চলে আসা। মতভেদটা যেখানে তাঁরা রেখেছেন, সেখানেই থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Order Left Behind",
+          "bn": "রেখে যাওয়া আদেশ"
+        },
+        "p": [
+          {
+            "en": "Afa-'asayta amri: then have you disobeyed my order? (20:93). Which order? Ibn Kathir, as-Sa'di and al-Qurtubi all point to one sentence, Moses's (AS) charge on leaving for the Mount: ukhlufni fi qawmi wa-aslih wa-la tattabi' sabil al-mufsidin, take my place among my people, set things right, and do not follow the way of the corrupters (7:142). Al-Muyassar names its two parts, khilafati, my deputyship, and al-islah ba'di, setting things right after me.",
+            "bn": "আফাআসাইতা আমরী: তাহলে তুমি কি আমার আদেশ অমান্য করলে? (২০:৯৩)। কোন আদেশ? ইবন কাসীর, সা'দী আর কুরতুবী তিনজনই একটি বাক্যের দিকে ইশারা করেন। তূর পাহাড়ে যাওয়ার সময় মূসা (আঃ) বলে গিয়েছিলেন: উখলুফনী ফী কাওমী ওয়া আসলিহ ওয়া লা তাত্তাবি' সাবীলাল মুফসিদীন, আমার কওমের মধ্যে তুমি আমার স্থলাভিষিক্ত থাকো, সংশোধন করো, আর ফাসাদকারীদের পথে চলো না (৭:১৪২)। মুয়াসসার এর দুটি অংশের নাম বলেন: খিলাফাতী, আমার প্রতিনিধিত্ব, আর আল-ইসলাহু বা'দী, আমার পরে সংশোধনের কাজ।"
+          },
+          {
+            "en": "Al-Qurtubi reports from Ibn Abbas how Moses (AS) saw it: Aaron's staying among them while they worshipped other than Allah was, in Moses's eyes, disobedience to him. He then gives the reasoning: because Aaron (AS) stayed with them and did not press to the utmost in stopping and denouncing them, Moses (AS) ascribed disobedience to him. These are accounts of what Moses (AS) meant by his question. They are not the Qur'an's verdict on Aaron (AS), and the Qur'an gives him the reply.",
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, মূসা (আঃ) বিষয়টা কীভাবে দেখেছিলেন: ওরা যখন আল্লাহ ছাড়া অন্যের ইবাদত করছে, তখন ওদের মাঝে হারূন (আঃ)-এর থেকে যাওয়াটা মূসা (আঃ)-এর চোখে ছিল তাঁর আদেশ অমান্য করা। এরপর কুরতুবী অভিযোগের পেছনের যুক্তিটা বলেন। হারূন (আঃ) ওদের সঙ্গে থেকে গিয়েছিলেন, ওদের ঠেকাতে আর প্রতিবাদে শেষ সীমা পর্যন্ত যাননি, তাই মূসা (আঃ) তাঁর প্রতি অবাধ্যতার কথা তুলেছিলেন। এগুলো মূসা (আঃ)-এর প্রশ্নের উদ্দেশ্যের বিবরণ। হারূন (আঃ) সম্পর্কে এগুলো কুরআনের রায় নয়। জবাবের সুযোগ কুরআন হারূন (আঃ)-কেই দিয়েছে।"
+          },
+          {
+            "en": "That reply stands in 20:94, and more of it in 7:150: he feared being told that he had divided the Children of Israel, and the people had reckoned him weak and nearly killed him. The scene closes in 7:151 with Moses (AS) asking forgiveness for himself and his brother. Ma'arif al-Qur'an reads the exchange as two prophets weighing one duty by ijtihad, both aiming at the people's firmness on Allah's oneness, and says no firm and final judgment can be passed between them.",
+            "bn": "সেই জবাব আছে ২০:৯৪ আয়াতে, আর তার আরও খানিকটা ৭:১৫০ আয়াতে। তাঁর ভয় ছিল, তাঁকে বলা হবে তিনি বনী ইসরাঈলের মধ্যে বিভেদ ঘটিয়েছেন। আর লোকেরা তাঁকে দুর্বল ভেবেছিল, প্রায় মেরেই ফেলছিল। দৃশ্যটা শেষ হয় ৭:১৫১ আয়াতে, যেখানে মূসা (আঃ) নিজের ও ভাইয়ের জন্য মাগফিরাত চান। মাআরিফুল কুরআনের চোখে পুরো কথোপকথনটা দুই নবীর ইজতিহাদ, একই দায়িত্ব দুজন দুইভাবে মেপেছেন। দুজনেরই লক্ষ্য ছিল আল্লাহর একত্বে কওমকে অটল রাখা। মাআরিফ বলে, তাঁদের মাঝে চূড়ান্ত কোনো রায় দেওয়া সম্ভব নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Before a Verdict",
+          "bn": "বিচারের আগে জিজ্ঞাসা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws a general ruling from the passage: hadha kulluhu aslun fi al-amri bil-ma'rufi wa-n-nahyi 'an al-munkar, all of this is a basis for enjoining good and forbidding wrong, for changing wrong and parting from those who do it; and whoever stays among them, especially if content, shares their ruling. The weight falls on the one who stays content. Of Aaron (AS) the Qur'an has already recorded at 20:90 that he named the calf a trial and called the people back to their Lord.",
+            "bn": "কুরতুবী এ অংশ থেকে একটি সাধারণ বিধান বের করেন: হাযা কুল্লুহু আসলুন ফিল আমরি বিল মা'রূফি ওয়ান নাহয়ি আনিল মুনকার। অর্থাৎ এ সবকিছু সৎকাজের আদেশ আর অসৎকাজে নিষেধের ভিত্তি, অন্যায় বদলানো আর অন্যায়কারীদের সঙ্গ ছাড়ারও ভিত্তি। আর যে তাদের মাঝে থেকে যায়, বিশেষ করে খুশি মনে, তার বিধানও তাদেরই মতো। জোরটা পড়ে খুশি মনে থেকে যাওয়া মানুষের উপর। হারূন (আঃ)-এর ব্যাপারে কুরআন ২০:৯০ আয়াতেই জানিয়ে দিয়েছে: তিনি বাছুরকে পরীক্ষা বলে চিহ্নিত করেছিলেন আর লোকদের তাদের রবের দিকে ফিরে ডেকেছিলেন।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith to it, and none is supplied here. Nor does the passage, or the calf story it belongs to, license anything against any living person or community. It describes what a group among the Children of Israel did at a particular hour, and how two prophets spoke about it afterwards. It is set down so that a reader weighs his own conduct, not so that he passes sentence on anyone else.",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি, তাই এখানেও কোনো হাদীস আনা হয়নি। আর এ অংশ, কিংবা যে বাছুরের কাহিনির এটি অংশ, তা আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না। এখানে বর্ণনা আছে বনী ইসরাঈলের একদল লোক এক সময়ে কী করেছিল, আর পরে দুই নবী সে বিষয়ে কী কথা বলেছিলেন। এ কাহিনি রাখা হয়েছে পাঠক যেন নিজের আমল মেপে দেখে, অন্য কারও বিচার করতে বসে না যায়।"
+          },
+          {
+            "en": "What the verse leaves is its shape. A prophet, angry for Allah's sake and already told of the wrong by his Lord, meets the brother he trusted with a question rather than a sentence. He asks what held him back, and the answer follows. When someone we relied on seems to have failed us, the pattern is plain: ask first, ask for the reason, and let the other person finish. A sharp question can still be answered; a verdict delivered first leaves nothing to say.",
+            "bn": "আয়াতটি শেষ পর্যন্ত রেখে যায় তার গড়নটা। আল্লাহর জন্য রাগান্বিত একজন নবী, যাঁকে তাঁর রব আগেই অন্যায়ের খবর দিয়েছেন, ভরসার ভাইয়ের সামনে দাঁড়ান রায় নিয়ে নয়, প্রশ্ন নিয়ে। জানতে চান, কিসে তাঁকে আটকে রেখেছিল। তারপর জবাব আসে। যার উপর ভরসা করেছিলাম, সে ব্যর্থ হয়েছে মনে হলে পথটা পরিষ্কার: আগে জিজ্ঞেস করুন, কারণটা জানতে চান, আর অন্যজনকে কথা শেষ করতে দিন। কড়া প্রশ্নেরও জবাব দেওয়া যায়। কিন্তু আগেই রায় দিয়ে দিলে আর বলার কিছু থাকে না।"
+          }
+        ]
+      }
+    ]
+  },
   "20:94": {
     "sections": [
       {

@@ -34323,6 +34323,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When the truth unsettles you, let your private counsel ask whether it is true, not how to win, and do not let a group's agreed line silence what you have seen.",
     "lessonBn": "সত্য যখন আপনাকে নাড়া দেয়, গোপন পরামর্শে প্রশ্ন করুন কথাটা সত্য কি না, কীভাবে জেতা যায় তা নয়। আর দলের ঠিক করা কথার চাপে নিজের দেখা সত্যকে চুপ করিয়ে দেবেন না।"
+  },
+  "20:92": {
+    "reflectionEn": "Moses has finished with the crowd. Now he turns to the brother he left in charge, and the first thing he hands him is a question: what held you back, when you saw them going astray? The verse stops there, mid-sentence, and the question runs on into the next one. It is sharp, and it comes from a man burning with anger, yet it is still a question, and a question leaves room for an answer. Aaron gives his answer two verses later, and the scene ends with Moses praying for them both. Before I judge someone I trusted, do I ask first, and do I let them finish? And when I am the one being asked, can I answer without heat?",
+    "reflectionBn": "জনতার সঙ্গে কথা শেষ। এবার মূসা (আঃ) ফিরলেন সেই ভাইয়ের দিকে, যাঁকে তিনি দায়িত্ব দিয়ে গিয়েছিলেন। ভাইয়ের সামনে প্রথমে তিনি রাখলেন একটা প্রশ্ন: তুমি যখন দেখলে ওরা পথ হারাচ্ছে, তখন তোমাকে কিসে আটকে রাখল? আয়াতটি এখানেই থেমে যায়, বাক্য শেষ হয় না, প্রশ্নটা গড়িয়ে যায় পরের আয়াতে। প্রশ্নটা ধারালো। রাগে জ্বলতে থাকা একজন মানুষের মুখ থেকে এসেছে। তবু এটা প্রশ্নই, আর প্রশ্ন জবাবের জায়গা রেখে দেয়। দুই আয়াত পরে হারূন (আঃ) জবাব দেন, আর দৃশ্যটা শেষ হয় দুজনের জন্য মূসা (আঃ)-এর দোয়ায়। যাকে ভরসা করেছিলাম, তার বিচার করার আগে আমি কি আগে জিজ্ঞেস করি, আর তাকে কথা শেষ করতে দিই? আর যখন আমাকেই প্রশ্ন করা হয়, আমি কি উত্তাপ ছাড়া জবাব দিতে পারি?",
+    "pointsEn": [
+      "When someone I trusted seems to have let me down, are my first words a question or an accusation?",
+      "When I question someone, do I give them the time and the calm to give their whole answer?",
+      "When I see the people around me drifting from what is right, what actually holds me back from doing what I should?",
+      "Is there a trust someone left in my hands that I need to account for honestly today?",
+      "When I am questioned sharply, can I give the true reason instead of matching the other person's heat?"
+    ],
+    "pointsBn": [
+      "যাকে ভরসা করেছিলাম, সে আমাকে হতাশ করেছে মনে হলে আমার মুখের প্রথম কথাটা কি প্রশ্ন হয়, নাকি অভিযোগ?",
+      "কাউকে প্রশ্ন করলে আমি কি তাকে পুরো জবাব দেওয়ার মতো সময় আর শান্ত পরিবেশ দিই?",
+      "আশপাশের মানুষ যখন সঠিক পথ থেকে সরে যেতে থাকে, যা করা উচিত তা থেকে আসলে কোন জিনিস আমাকে আটকে রাখে?",
+      "কেউ কি আমার হাতে এমন কোনো আমানত রেখে গেছে, আজই যার হিসাব আমাকে সততার সঙ্গে দিতে হবে?",
+      "কেউ কড়া সুরে প্রশ্ন করলে আমি কি তার উত্তাপের জবাবে উত্তাপ না দেখিয়ে আসল কারণটা বলতে পারি?"
+    ],
+    "lessonEn": "Before you judge someone you trusted, ask them first and hear their answer through; a sharp question still leaves open a door that a verdict would shut.",
+    "lessonBn": "যাকে ভরসা করেছিলেন, তার বিচার করার আগে তাকে জিজ্ঞেস করুন আর পুরো জবাবটা শুনুন। কড়া প্রশ্নও এমন একটা দরজা খোলা রাখে, রায় যেটা বন্ধ করে দিত।"
   }
 };
 
