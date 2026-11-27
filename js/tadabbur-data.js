@@ -36073,6 +36073,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Keep your agreements to their fullest, go yourself to meet the needs of those in your care, and promise only what you can truly bring.",
     "lessonBn": "চুক্তি পুরোপুরি রক্ষা করুন, দায়িত্বে থাকা মানুষের প্রয়োজন মেটাতে নিজে এগিয়ে যান, আর যা সত্যিই এনে দিতে পারবেন শুধু তারই কথা দিন।"
+  },
+  "29:17": {
+    "reflectionEn": "Ibrahim stands before people who bow to figures they made themselves, and he names what they are doing in two strokes: you worship idols, and you make up a lie. Then he turns to the matter closest to daily life. Those you worship cannot give you provision, not even a little. So seek it with Allah, worship Him and thank Him, for to Him you will return. The argument reaches the table and the purse before it reaches the shrine, because worship is often decided there. When I worry about my income, whose door do I knock on first? And when the provision comes, whom do I thank, and whom do I quietly credit instead?",
+    "reflectionBn": "ইবরাহীম (আঃ) দাঁড়িয়ে আছেন এমন লোকদের সামনে, যারা নিজের হাতে বানানো মূর্তির সামনে মাথা নোয়ায়। তিনি দুই কথায় তাদের কাজের নাম বলে দেন: তোমরা মূর্তির পূজা কর, আর মিথ্যা বানাও। তারপর তিনি চলে যান রোজকার জীবনের সবচেয়ে কাছের প্রশ্নে। যাদের তোমরা পূজা কর, তারা তোমাদের রিযক দিতে পারে না, এতটুকুও না। তাই রিযক চাও আল্লাহর কাছে, তাঁর ইবাদত কর, তাঁর শোকর কর, তাঁর কাছেই তোমরা ফিরে যাবে। যুক্তিটা উপাসনালয়ে পৌঁছানোর আগে পৌঁছায় খাবারের থালা আর টাকার থলিতে। কারণ ইবাদত কার, সে ফয়সালা প্রায়ই হয় সেখানেই। আয়-রোজগার নিয়ে দুশ্চিন্তায় পড়লে আমি প্রথমে কার দরজায় কড়া নাড়ি? আর রিযক যখন আসে, শোকর করি কার, আর মনে মনে কৃতিত্ব দিই কাকে?",
+    "pointsEn": [
+      "When money runs short, what do I reach for first: a plan, a person, or a prayer?",
+      "Is there a job, a client or a connection I quietly treat as the real source of my livelihood, so that losing it feels like losing everything?",
+      "Which falsehood have I let grow around something I depend on, only because the people around me keep repeating it?",
+      "When provision reaches me, do I thank Allah for it as readily as I credit my own effort?",
+      "If I am returning to Him, what would I want my way of seeking a living to show on that day?"
+    ],
+    "pointsBn": [
+      "টাকা-পয়সায় টান পড়লে আমি প্রথমে কী আঁকড়ে ধরি: কোনো পরিকল্পনা, কোনো মানুষ, নাকি দোয়া?",
+      "কোনো চাকরি, কোনো খদ্দের বা কোনো চেনাজানাকে কি আমি মনে মনে আমার রোজগারের আসল উৎস ধরে বসে আছি, যা হারালে মনে হয় সবই হারালাম?",
+      "যার উপর আমি নির্ভর করি, তাকে ঘিরে কোন মিথ্যাকে আমি বাড়তে দিয়েছি, শুধু এ কারণে যে আশপাশের সবাই সেটা বলে যায়?",
+      "রিযক হাতে এলে নিজের চেষ্টাকে যত সহজে কৃতিত্ব দিই, আল্লাহর শোকর কি তত সহজে করি?",
+      "তাঁর কাছেই যদি ফিরে যেতে হয়, সেদিন আমার রোজগার খোঁজার ধরন কী সাক্ষ্য দিক বলে আমি চাই?"
+    ],
+    "lessonEn": "Seek your provision from Allah alone, worship Him and thank Him for what comes; nothing else you lean on owns a single morsel of it.",
+    "lessonBn": "রিযক চান শুধু আল্লাহর কাছে, তাঁর ইবাদত করুন আর যা আসে তার জন্য তাঁর শোকর করুন। আর যার উপরই ভরসা করুন, রিযকের এক লোকমারও মালিক সে নয়।"
   }
 };
 

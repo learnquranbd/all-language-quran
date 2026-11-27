@@ -603,6 +603,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "29:17": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Command, the Charge",
+          "bn": "আদেশের পরেই অভিযোগ"
+        },
+        "p": [
+          {
+            "en": "Innama ta'buduna min duni-llahi awthanan wa takhluquna ifkan: you worship besides Allah only idols, and you create a falsehood. The verse carries on Ibrahim's (AS) speech from 29:16, where he told his people to worship Allah and fear Him. As-Sa'di draws the link: having commanded them to worship Allah and be mindful of Him, Ibrahim forbade them the worship of idols, showed them how deficient the idols are, and showed that they have no claim to be worshipped. The command comes first, and the charge against the alternative follows at once.",
+            "bn": "ইন্নামা তা'বুদূনা মিন দূনিল্লাহি আওসানান ওয়া তাখলুকূনা ইফকা: তোমরা আল্লাহকে ছেড়ে কেবল মূর্তির পূজা কর, আর মিথ্যা বানাও। ২৯:১৬ আয়াতে ইবরাহীম (আঃ) তাঁর কওমকে বলেছিলেন, আল্লাহর ইবাদত কর আর তাঁকে ভয় কর। এ আয়াত সেই কথারই ধারাবাহিকতা। সা'দী যোগসূত্রটা দেখিয়ে দেন। আল্লাহর ইবাদত আর তাকওয়ার আদেশ দেওয়ার পর ইবরাহীম তাদের মূর্তিপূজা থেকে নিষেধ করলেন। মূর্তিগুলো কত অসম্পূর্ণ, আর ইবাদত পাওয়ার কোনো হক যে তাদের নেই, তা খুলে দেখালেন। আগে আদেশ, তার পরপরই বিকল্পের বিরুদ্ধে অভিযোগ।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, commenting on 29:14 to 29:18 as one passage, explains why these stories stand here. The surah has just described believers harassed for their faith, and the accounts of earlier prophets console the Prophet ﷺ: such opposition is old, and those before him did not lose hope. Nuh (AS) comes first, in 29:14, and Ibrahim (AS) second, a man Ma'arif describes as having passed through many testing trials. This verse carries the substance of what Ibrahim said to his people.",
+            "bn": "মাআরিফুল কুরআন ২৯:১৪ থেকে ২৯:১৮ পর্যন্ত আয়াতগুলোকে একটি অংশ ধরে আলোচনা করে, আর বুঝিয়ে দেয় কাহিনিগুলো এখানে কেন এসেছে। সূরাটি সবে বলেছে, ঈমানের কারণে মু'মিনদের কীভাবে হয়রানি করা হয়। আগের নবীদের ঘটনা শুনিয়ে নবী ﷺ-কে সান্ত্বনা দেওয়া হচ্ছে: এমন বিরোধিতা নতুন নয়, আর আগের নবীরা তাতে নিরাশ হননি। প্রথমে এসেছেন নূহ (আঃ), ২৯:১৪ আয়াতে। তারপর ইবরাহীম (আঃ), মাআরিফের ভাষায় যিনি বহু কঠিন পরীক্ষার ভেতর দিয়ে গেছেন। কওমকে তিনি যা বলেছিলেন, তার মূল কথাটা এ আয়াতেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stone, Gypsum or Gold",
+          "bn": "পাথর, চুন না সোনা"
+        },
+        "p": [
+          {
+            "en": "Awthan is the plural of wathan. At-Tabari glosses it as muthul, images or figures, and relays from Qatada the plainer word asnam, idols. Al-Qurtubi records a finer distinction from Abu 'Ubayda: a sanam is what is made of gold, silver or copper, and a wathan what is made of gypsum or stone. He then cites the lexicographer al-Jawhari, who treats the two words as one: al-wathan is al-sanam. Both views stand side by side in al-Qurtubi's entry, and he does not settle between them.",
+            "bn": "আওসান শব্দটি ওয়াসান-এর বহুবচন। তাবারী এর অর্থ করেন মুসুল, অর্থাৎ প্রতিকৃতি বা মূর্তি। কাতাদা থেকে তিনি আরও সহজ শব্দটি আনেন: আসনাম, প্রতিমা। কুরতুবী আবু উবায়দার একটা সূক্ষ্ম পার্থক্য তুলে ধরেন। সোনা, রুপা বা তামা দিয়ে যা বানানো হয় তা সানাম, আর চুন বা পাথর দিয়ে যা বানানো হয় তা ওয়াসান। এরপর তিনি অভিধানকার জাওহারীর কথা আনেন, যাঁর মতে দুটো একই জিনিস: ওয়াসান মানেই সানাম। কুরতুবীর আলোচনায় দুটি মত পাশাপাশি আছে, কোনোটিকে তিনি চূড়ান্ত বলেননি।"
+          },
+          {
+            "en": "The verse opens with innama, a word of restriction: you worship nothing but idols. Al-Muyassar renders the opening as a plain negation and exception, you worship nothing besides Allah except idols. Al-Qurtubi adds a note of grammar: the ma in innama is the kind that stops inna from governing, so awthanan is simply the object of ta'buduna. At-Tabari observes that the restriction reaches the second clause as well, as when someone says, you only do this, and you only do that. The worship and the making of falsehood fall under the one word.",
+            "bn": "আয়াতের শুরু ইন্নামা দিয়ে, যা সীমা টেনে দেয়: তোমরা মূর্তি ছাড়া আর কিছুর পূজা কর না। মুয়াসসার শুরুটা বলেছে সরাসরি না-বাচক বাক্যে: তোমরা আল্লাহকে ছেড়ে মূর্তি ছাড়া কিছুরই পূজা কর না। কুরতুবী ব্যাকরণের একটা কথা যোগ করেন। ইন্নামা-র মা এখানে ইন্না-র কাজ থামিয়ে দেয়, তাই আওসানান শুধু তা'বুদূনা ক্রিয়ার কর্ম। তাবারী দেখান, এই সীমা দ্বিতীয় অংশেও গিয়ে পৌঁছায়। যেমন কেউ বলে, তোমরা শুধু এটাই কর, আর শুধু ওটাই কর। পূজা আর মিথ্যা বানানো, দুটোই এক শব্দের আওতায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Carved, Spoken or Fabricated",
+          "bn": "খোদাই, মুখের কথা, না বানানো মিথ্যা"
+        },
+        "p": [
+          {
+            "en": "The verb in wa takhluquna ifkan comes from khalq, making or shaping, and ifk, Mujahid says in al-Qurtubi's entry, is a lie. At-Tabari states plainly that the people of interpretation differed over the phrase, and he sets out three positions, each with its chain. The first, from Ibn 'Abbas through 'Ali ibn Abi Talha: tasna'una kadhiban, you fabricate a lie. The second, from Ibn 'Abbas through another chain and from Mujahid: taqulun kadhiban, you speak a lie. The third takes the verb as the work of the hand.",
+            "bn": "ওয়া তাখলুকূনা ইফকা: ক্রিয়াটি এসেছে খালক থেকে, যার মানে বানানো বা গড়া। আর কুরতুবীর আলোচনায় মুজাহিদ বলেন, ইফক মানে মিথ্যা। তাবারী খোলাখুলি জানান, এ কথার ব্যাখ্যায় মুফাসসিরদের মতভেদ আছে। তিনি তিনটি মত তুলে ধরেন, প্রতিটির সনদসহ। প্রথমটি ইবন আব্বাস (রাঃ) থেকে, আলী ইবন আবী তালহার সূত্রে: তাসনাঊনা কাযিবা, তোমরা মিথ্যা বানাও। দ্বিতীয়টি ইবন আব্বাস (রাঃ) থেকে আরেক সূত্রে, আর মুজাহিদ থেকে: তাকূলূনা কাযিবা, তোমরা মিথ্যা বল। তৃতীয় মত ক্রিয়াটিকে ধরে হাতের কাজ হিসেবে।"
+          },
+          {
+            "en": "That third position reads the verb as craftsmanship. At-Tabari relays from Ibn 'Abbas, through 'Ata' al-Khurasani, you carve and shape a falsehood; from Qatada, you make idols; and from Ibn Zayd, the idols which they carve with their own hands. Al-Qurtubi gives this reading from al-Hasan: takhluquna means you carve, so the sense is that you worship idols and it is you who make them. On this reading the ifk is the statue itself, a lie that has been given a shape.",
+            "bn": "তৃতীয় মত ক্রিয়াটিকে কারিগরের কাজ হিসেবে পড়ে। তাবারী ইবন আব্বাস (রাঃ) থেকে আতা আল-খুরাসানীর সূত্রে আনেন: তোমরা খোদাই করে মিথ্যার আকার গড়। কাতাদা থেকে: তোমরা মূর্তি বানাও। আর ইবন যায়দ থেকে: সেই মূর্তি, যা তারা নিজের হাতে খোদাই করে। কুরতুবী এ ব্যাখ্যা আনেন হাসান থেকে। তাখলুকূনা মানে তোমরা খোদাই কর, অর্থাৎ যে মূর্তির পূজা কর, তা তোমরাই বানাও। এ ব্যাখ্যায় ইফক হলো মূর্তিটা নিজেই, এমন এক মিথ্যা যাকে আকার দেওয়া হয়েছে।"
+          },
+          {
+            "en": "At-Tabari then gives his own preference: the soundest of the views is that the meaning is tasna'una kadhiban, you make a lie, and he paraphrases the whole clause as you worship idols besides Allah and make lies and falsehood. Al-Baghawi opens with the second reading, you speak a lie, before turning to Mujahid. Al-Muyassar joins speech to the idols: you invent a lie by calling them gods. The commentators lean toward different senses, the hand that carves or the tongue that names, and the texts keep that difference as a difference.",
+            "bn": "এরপর তাবারী নিজের পছন্দ জানান। তাঁর মতে সবচেয়ে সঠিক কথা হলো, এর মানে তাসনাঊনা কাযিবা, তোমরা মিথ্যা বানাও। গোটা বাক্যটা তিনি এভাবে বলেন: তোমরা আল্লাহকে ছেড়ে মূর্তির পূজা কর, আর মিথ্যা ও বাতিল বানাও। বাগাভী শুরু করেন দ্বিতীয় অর্থ দিয়ে, তোমরা মিথ্যা বল, তারপর মুজাহিদের কথায় যান। মুয়াসসার মুখের কথাকে মূর্তির সঙ্গে জুড়ে দেয়: ওগুলোকে ইলাহ নাম দিয়ে তোমরা মিথ্যা রটাও। কেউ ঝুঁকেছেন খোদাই করা হাতের দিকে, কেউ নাম দেওয়া জিহ্বার দিকে। তাফসীরগুলোতে এ মতভেদ মতভেদ হিসেবেই রয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Same Names, Both Sides",
+          "bn": "একই নাম, দুই পক্ষে"
+        },
+        "p": [
+          {
+            "en": "What stands out is how the same early names appear on more than one side. Ibn Kathir reports from Ibn 'Abbas, through al-'Awfi, the reading of naming: the idols neither harm nor benefit, you invented names for them and called them gods, while they are created beings just as you are. He adds Mujahid and as-Suddi to it. Then he reports from Ibn 'Abbas, through al-Walibi, the carving reading, you carve them into idols, and lists Mujahid again, in one narration, with 'Ikrima, al-Hasan and Qatada.",
+            "bn": "লক্ষ করার মতো ব্যাপার হলো, প্রথম যুগের একই নাম একাধিক মতের পক্ষে পাওয়া যায়। ইবন কাসীর ইবন আব্বাস (রাঃ) থেকে আওফীর সূত্রে নাম দেওয়ার ব্যাখ্যাটি আনেন। মূর্তিগুলো না ক্ষতি করতে পারে, না উপকার। তোমরা নিজেরা ওগুলোর নাম বানিয়ে ইলাহ বলে ডেকেছ, অথচ ওরা তোমাদের মতোই সৃষ্ট। এ মতে তিনি মুজাহিদ আর সুদ্দীকেও রাখেন। তারপর ইবন আব্বাস (রাঃ) থেকে ওয়ালিবীর সূত্রে আনেন খোদাইয়ের ব্যাখ্যা: তোমরা ওগুলো খোদাই করে মূর্তি বানাও। এখানে তিনি একটি বর্ণনায় আবার মুজাহিদের নাম রাখেন, সঙ্গে ইকরিমা, হাসান আর কাতাদা।"
+          },
+          {
+            "en": "Al-Baghawi does the same with Mujahid. He glosses the phrase as you speak a lie, then quotes Mujahid: you make idols with your hands and call them gods. Ibn Kathir also counts Ibn Jarir, that is at-Tabari, among those who chose the carving reading. At-Tabari's own words, in the text fetched for this verse, name as soundest the view that it means tasna'una kadhiban, you make a lie, and he files that view apart from the carving reports.",
+            "bn": "মুজাহিদকে নিয়ে বাগাভীর বেলাতেও একই ছবি। তিনি কথাটার অর্থ করেন, তোমরা মিথ্যা বল। তারপর মুজাহিদের উক্তি আনেন: তোমরা নিজের হাতে মূর্তি বানাও, তারপর ওগুলোকে ইলাহ নাম দাও। ইবন কাসীর ইবন জারীর, অর্থাৎ তাবারীকে, খোদাইয়ের ব্যাখ্যা বেছে নেওয়া আলেমদের মধ্যে গণ্য করেন। অথচ এ আয়াতের জন্য সংগৃহীত তাবারীর নিজের লেখায় সবচেয়ে সঠিক বলা হয়েছে এই মতকে যে, এর মানে তাসনাঊনা কাযিবা, তোমরা মিথ্যা বানাও। আর খোদাইয়ের বর্ণনাগুলো তিনি রেখেছেন আলাদা মত হিসেবে।"
+          },
+          {
+            "en": "As-Sa'di does not choose; he gathers. You carve them and make them with your hands, he writes, you create for them the names of gods, and you fabricate the lie of commanding their worship and holding fast to it. On his reading the phrase covers the whole chain: the hand that shapes the figure, the tongue that names it a god, and the custom that requires others to bow to it. Ibrahim's (AS) two words, on this view, reach all three at once.",
+            "bn": "সা'দী কোনো একটা বেছে নেন না, সবগুলো একসঙ্গে ধরেন। তিনি লেখেন, তোমরা নিজের হাতে ওগুলো খোদাই করে বানাও, ওগুলোর জন্য ইলাহের নাম গড়ে নাও, আর ওগুলোর পূজার হুকুম দিয়ে ও তা আঁকড়ে থেকে মিথ্যা রচনা কর। তাঁর ব্যাখ্যায় কথাটা গোটা শিকলটাকেই ধরে। যে হাত মূর্তি গড়ে, যে জিহ্বা তাকে ইলাহ বলে, আর যে রীতি অন্যদের তার সামনে মাথা নোয়াতে বাধ্য করে। এ ব্যাখ্যায় ইবরাহীম (আঃ)-এর দুটি শব্দ তিনটিকেই একসঙ্গে ছুঁয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Provision, of All Things",
+          "bn": "এত কিছু থাকতে রিযক কেন"
+        },
+        "p": [
+          {
+            "en": "Inna lladhina ta'buduna min duni-llahi la yamlikuna lakum rizqan: those you worship besides Allah do not own for you any provision. At-Tabari explains: your idols which you worship cannot provide you with anything at all. Al-Muyassar uses nearly the same words, and al-Baghawi says simply, they have no power to provide for you. The verb is yamlikuna, they own. The idols are not described as unwilling to give. They are described as holding nothing that could be given.",
+            "bn": "ইন্নাল্লাযীনা তা'বুদূনা মিন দূনিল্লাহি লা ইয়ামলিকূনা লাকুম রিযকা: আল্লাহকে ছেড়ে তোমরা যাদের পূজা কর, তারা তোমাদের জন্য কোনো রিযকের মালিক নয়। তাবারী ব্যাখ্যা করেন: যে মূর্তিগুলোর তোমরা পূজা কর, ওরা তোমাদের কিছুই দিতে পারে না। মুয়াসসার প্রায় একই কথা বলে। বাগাভী সংক্ষেপে বলেন, তোমাদের রিযক দেওয়ার ক্ষমতা ওদের নেই। ক্রিয়াটি ইয়ামলিকূনা, মালিক হওয়া। মূর্তিগুলো দিতে চায় না, ব্যাপারটা তা নয়। দেওয়ার মতো কিছুই ওদের হাতে নেই।"
+          },
+          {
+            "en": "Why does Ibrahim (AS) single out provision? As-Sa'di answers from the nature of the heart. Once it is clear, he says, that these idols are created and deficient, owning neither benefit nor harm, neither death nor life nor raising up, and so deserve not the least particle of worship, a need still remains. Hearts must seek someone to worship and to ask for their needs. So the verse, urging them toward the One who truly deserves worship, tells them where to take that asking.",
+            "bn": "ইবরাহীম (আঃ) আলাদা করে রিযকের কথাই কেন বললেন? সা'দী উত্তর দেন মানুষের অন্তরের স্বভাব থেকে। তিনি বলেন, এটা তো পরিষ্কার হয়ে গেল যে মূর্তিগুলো সৃষ্ট ও অসম্পূর্ণ। উপকার-অপকার, মৃত্যু-জীবন, পুনরুত্থান, কোনো কিছুরই মালিক ওরা নয়। তাই ইবাদতের এক কণাও ওদের প্রাপ্য নয়। তবু একটা প্রয়োজন থেকেই যায়। অন্তর কাউকে না কাউকে মাবুদ বানাতে চায়, যার কাছে নিজের প্রয়োজন চাইবে। তাই আয়াতটি তাদের প্রকৃত ইবাদতের যোগ্য সত্তার দিকে ডাকে, আর বলে দেয় সেই চাওয়া কোথায় নিয়ে যেতে হবে।"
+          },
+          {
+            "en": "Al-Qurtubi puts it in terms of desire: turn your longing for your provision toward Allah, and ask Him alone, none besides Him. At-Tabari ties the provision to the return at the verse's end. They will be asked, he says, about their worship of others while they are His servants and His creation, turning about in His blessings and eating His provision. In his reading the daily bread is part of the case against them: the idols received the worship, and Allah fed the worshippers.",
+            "bn": "কুরতুবী কথাটা বলেন আকাঙ্ক্ষার ভাষায়: রিযকের যত আশা, সব আল্লাহর দিকে ফেরাও, আর চাও কেবল তাঁরই কাছে, অন্য কারও কাছে নয়। তাবারী রিযককে জুড়ে দেন আয়াতের শেষের ফিরে যাওয়ার সঙ্গে। তিনি বলেন, তাদের জিজ্ঞেস করা হবে অন্যের পূজা নিয়ে, অথচ তারা তাঁরই বান্দা, তাঁরই সৃষ্টি, তাঁরই নিয়ামতে দিন কাটায়, তাঁরই রিযক খায়। তাঁর ব্যাখ্যায় রোজকার রুটিই তাদের বিরুদ্ধে সাক্ষী। পূজা পেয়েছে মূর্তি, আর পূজারিদের খাইয়েছেন আল্লাহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seek It at His Door",
+          "bn": "চাইতে হবে তাঁর দুয়ারে"
+        },
+        "p": [
+          {
+            "en": "Fabtaghu 'inda-llahi r-rizqa: so seek provision with Allah. In the Arabic, 'with Allah' stands before the provision sought. Ibn Kathir calls the phrasing more forceful in restricting, and sets it beside two verses: iyyaka na'budu wa iyyaka nasta'in, You alone we worship and You alone we ask for help (1:5), and the prayer of Pharaoh's wife, my Lord, build for me with You a house in Paradise (66:11). Seek, he explains, means ask: ask Allah for provision and not anyone else, for no one else owns anything.",
+            "bn": "ফাবতাগূ ইন্দাল্লাহির রিযকা: কাজেই রিযক চাও আল্লাহর কাছে। আরবিতে 'আল্লাহর কাছে' কথাটা চাওয়ার বস্তুর আগে এসেছে। ইবন কাসীর বলেন, এ গঠন সীমা টানায় আরও জোরালো। পাশে তিনি রাখেন দুটি আয়াত। একটি ইয়্যাকা না'বুদু ওয়া ইয়্যাকা নাসতাঈন, আমরা শুধু তোমারই ইবাদত করি আর শুধু তোমারই কাছে সাহায্য চাই (১:৫)। অন্যটি ফেরাউনের স্ত্রীর দোয়া: হে আমার রব, তোমার কাছে জান্নাতে আমার জন্য একটি ঘর বানিয়ে দাও (৬৬:১১)। তিনি বলেন, চাওয়া মানে প্রার্থনা করা। রিযক চাও আল্লাহর কাছে, অন্য কারও কাছে নয়, কারণ আর কেউ কোনো কিছুর মালিক নয়।"
+          },
+          {
+            "en": "The two commands that follow are bound to the provision. At-Tabari glosses wa'buduhu as dhillu lahu, humble yourselves before Him, and washkuru lahu as thank Him for His provision to you and the blessings He has bestowed on you. He adds a point of usage: shakartu lahu, thanking to someone, is more eloquent than shakartuhu. Ibn Kathir joins the three in one line: eat from His provision, worship Him alone, and thank Him for what He has blessed you with. Al-Muyassar asks that both the worship and the thanks be made sincerely His.",
+            "bn": "পরের দুটি আদেশ রিযকের সঙ্গেই বাঁধা। তাবারী ওয়া'বুদূহু-র অর্থ করেন যুল্লূ লাহু, তাঁর সামনে নিজেদের নত কর। আর ওয়াশকুরূ লাহু-র অর্থ, তিনি যে রিযক দিয়েছেন আর যত নিয়ামত দান করেছেন, তার জন্য তাঁর শোকর কর। ভাষার একটা কথাও তিনি যোগ করেন: শাকারতু লাহু বলা শাকারতুহু বলার চেয়ে বেশি বিশুদ্ধ। ইবন কাসীর তিনটিকে এক বাক্যে বাঁধেন: তাঁর রিযক থেকে খাও, শুধু তাঁরই ইবাদত কর, আর তিনি যা দিয়েছেন তার জন্য তাঁর শোকর কর। মুয়াসসার বলে, ইবাদত আর শোকর দুটোই খাঁটিভাবে তাঁর জন্য কর।"
+          },
+          {
+            "en": "As-Sa'di gives a reason for each command. Seek provision with Allah, for He makes it easy and measures it out, and He answers whoever calls on Him in the affairs of his religion and his world. Worship Him alone, because He is perfect, He benefits and harms, and He is alone in governing all things. Thank Him alone, because every blessing that has reached creation or will reach it comes from Him, and every harm that has been turned away from them, it was He who turned it away.",
+            "bn": "সা'দী প্রতিটি আদেশের সঙ্গে কারণও বলে দেন। রিযক চাও আল্লাহর কাছে, কারণ তিনিই তা সহজ করেন, তিনিই তার পরিমাণ ঠিক করেন। দ্বীন-দুনিয়ার যেকোনো বিষয়ে যে তাঁকে ডাকে, তিনি তার ডাকে সাড়া দেন। শুধু তাঁরই ইবাদত কর, কারণ তিনি পরিপূর্ণ, উপকার আর ক্ষতি তাঁরই হাতে, সব কিছুর পরিচালনায় তিনি একা। শুধু তাঁরই শোকর কর, কারণ সৃষ্টির কাছে যত নিয়ামত পৌঁছেছে বা পৌঁছাবে, সবই তাঁর কাছ থেকে। আর যত বিপদ তাদের থেকে সরে গেছে, সরিয়েছেন তিনিই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Back to the One Who Fed",
+          "bn": "যিনি খাওয়ালেন, তাঁর কাছেই ফেরা"
+        },
+        "p": [
+          {
+            "en": "Ilayhi turja'un: to Him you will be returned. Ibn Kathir places the return on the Day of Resurrection, when He will repay every doer for what he did. Al-Muyassar says that to Allah you are brought back after your death, and He will repay you for your deeds. As-Sa'di adds that He will tell them what they kept hidden and what they showed openly, and draws the warning out of it: beware of coming before Him while still holding to your shirk, and long for what brings you near to Him.",
+            "bn": "ইলাইহি তুরজাঊন: তাঁর কাছেই তোমাদের ফিরিয়ে নেওয়া হবে। ইবন কাসীর এ ফেরাকে রাখেন কিয়ামতের দিনে, যখন তিনি প্রত্যেক আমলকারীকে তার আমলের প্রতিদান দেবেন। মুয়াসসার বলে, মৃত্যুর পর তোমাদের আল্লাহর কাছেই ফেরানো হবে, আর তিনি তোমাদের কাজের প্রতিদান দেবেন। সা'দী যোগ করেন, তোমরা যা গোপন রেখেছিলে আর যা প্রকাশ করেছিলে, সবই তিনি জানিয়ে দেবেন। এখান থেকে তিনি সতর্কবাণীও টানেন: শিরক আঁকড়ে থাকা অবস্থায় তাঁর সামনে হাজির হওয়া থেকে সাবধান, আর যা তাঁর কাছে নিয়ে যায়, তার দিকে আগ্রহী হও।"
+          },
+          {
+            "en": "No commentator consulted for this verse attaches a hadith or an occasion of revelation to it. Where Ibrahim's (AS) speech ends is discussed instead. Qatada, as Ibn Kathir relays, took the next verse, 29:18, as words of consolation to the Prophet ﷺ, so that the story breaks off there and resumes at 29:24; Ibn Kathir says Ibn Jarir held the same. Ibn Kathir himself judges from the context that Ibrahim said all of it. That question belongs to 29:18.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীর এর সঙ্গে কোনো হাদীস বা শানে নুযূল জোড়েনি। তার বদলে আলোচনা আছে ইবরাহীম (আঃ)-এর কথা কোথায় শেষ, তা নিয়ে। ইবন কাসীর জানান, কাতাদা পরের আয়াত, ২৯:১৮, নবী ﷺ-এর প্রতি সান্ত্বনার বাণী হিসেবে ধরেছেন। তাহলে কাহিনি সেখানে থেমে আবার শুরু হয় ২৯:২৪ আয়াতে। ইবন কাসীর বলেন, ইবন জারীরও একই কথা বলেছেন। তবে ইবন কাসীরের নিজের বিচারে প্রসঙ্গ দেখায় যে পুরো কথাটাই ইবরাহীম (আঃ)-এর। সে প্রশ্নের জায়গা ২৯:১৮ আয়াত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Door I Knock On",
+          "bn": "কার দরজায় কড়া নাড়ি"
+        },
+        "p": [
+          {
+            "en": "Ibrahim (AS) argues with his people in several surahs, each time from a different side. In 26:72 and 26:73 he asks whether the idols hear when they are called, or bring benefit or harm. In 21:56 he points his people to the Lord of the heavens and the earth, who originated them. Here the proof is the most domestic of all: who feeds you.",
+            "bn": "ইবরাহীম (আঃ) একাধিক সূরায় তাঁর কওমের সঙ্গে যুক্তিতর্ক করেছেন, প্রতিবার ভিন্ন দিক থেকে। ২৬:৭২ ও ২৬:৭৩ আয়াতে তিনি জিজ্ঞেস করেন, ডাকলে মূর্তিগুলো কি শোনে, বা কোনো উপকার-অপকার করে? ২১:৫৬ আয়াতে তিনি কওমকে দেখিয়ে দেন আসমান-জমিনের রবকে, যিনি এগুলো সৃষ্টি করেছেন। আর এখানে প্রমাণটা একেবারে ঘরের কথা: তোমাদের খাওয়ায় কে?"
+          },
+          {
+            "en": "The verse describes what Ibrahim's people did and what he said to them. It licenses nothing against any living person or community, and gives no one a warrant to cast a neighbour in the role of the people in this story. Its edge turns inward. Ibn Kathir's line that no one besides Allah owns anything is a test any believer can run on an ordinary day: on whom does my hope of a living really rest, and to whom does my thanks really go?",
+            "bn": "আয়াতটি বলছে ইবরাহীম (আঃ)-এর কওম কী করত আর তিনি তাদের কী বলেছিলেন। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিবেশীকে এ কাহিনির কওমের জায়গায় বসানোর অধিকারও কাউকে দেয় না। এর ধার বরং নিজের দিকে ফেরে। আল্লাহ ছাড়া আর কেউ কোনো কিছুর মালিক নয়, ইবন কাসীরের এ কথা যেকোনো সাধারণ দিনে যেকোনো মু'মিন নিজের উপর যাচাই করে দেখতে পারেন। রোজগারের আশা আসলে কার উপর ভর করে আছে? আর আমার শোকর আসলে কার কাছে যায়?"
+          },
+          {
+            "en": "The verse closes where every argument about worship closes, at the return. The idols cannot feed; Allah feeds, and to Him the fed return. The order of the commands carries its own lesson: seek, worship, thank. Asking Him for provision is already a turning toward Him, and thanks for what arrives completes a circle the idols could never close.",
+            "bn": "ইবাদত নিয়ে সব যুক্তি যেখানে গিয়ে থামে, আয়াতটিও থামে সেখানে, ফিরে যাওয়ার কথায়। মূর্তি খাওয়াতে পারে না। খাওয়ান আল্লাহ, আর যাদের তিনি খাওয়ান, তারা তাঁর কাছেই ফেরে। আদেশগুলোর ক্রমেও একটা শিক্ষা আছে: চাও, ইবাদত কর, শোকর কর। তাঁর কাছে রিযক চাওয়াটাই তাঁর দিকে ফেরা। আর যা আসে তার জন্য শোকর সেই বৃত্তটা পূর্ণ করে, যা মূর্তিরা কখনো পূর্ণ করতে পারত না।"
+          }
+        ]
+      }
+    ]
+  },
   "29:20": {
     "sections": [
       {
