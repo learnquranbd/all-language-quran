@@ -11,6 +11,146 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "47:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "Eight Words, Three Verbs",
+          "bn": "আট শব্দে তিন ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "Surah Muhammad begins directly with a verdict: alladhina kafaru wa saddu 'an sabili Allahi adalla a'malahum, those who disbelieve and bar from the way of Allah, He sends their deeds astray. Eight Arabic words carry three verbs. Two describe what certain people did, and the third, with Allah as its subject, says what became of their deeds. Al-Qurtubi gives the surah two names, Surat al-Qital, the surah of fighting, and Surah Muhammad ﷺ, and counts thirty-nine verses, adding that thirty-eight is also said.",
+            "bn": "সূরা মুহাম্মাদ কোনো ভূমিকা ছাড়াই শুরু হয় একটি রায় দিয়ে: আল্লাযীনা কাফারূ ওয়া সাদ্দূ আন সাবীলিল্লাহি আদাল্লা আ'মালাহুম। যারা কুফরি করে এবং আল্লাহর পথ থেকে বাধা দেয়, তিনি তাদের আমলগুলো পথহারা করে দেন। আটটি আরবি শব্দে তিনটি ক্রিয়া। প্রথম দুটি বলে কিছু লোক কী করেছে। তৃতীয়টির কর্তা আল্লাহ, আর সেটি বলে তাদের আমলের পরিণতি কী হলো। কুরতুবী সূরাটির দুটি নাম দেন: সূরাতুল কিতাল, অর্থাৎ যুদ্ধের সূরা, আর সূরা মুহাম্মাদ ﷺ। আয়াতসংখ্যা তিনি বলেন উনচল্লিশ, সঙ্গে যোগ করেন, আটত্রিশের কথাও বলা হয়েছে।"
+          },
+          {
+            "en": "Where it came down is reported in more than one way. Al-Qurtubi cites an-Nahhas that it is Madinan on the word of Ibn Abbas (RA). Al-Mawardi says it is Madinan by everyone's account except Ibn Abbas and Qatadah, who exempt one verse, 47:13, tied to a moment when the Prophet ﷺ was leaving Makkah. Al-Tha'labi calls it Makkan, and Ibn Hibat Allah relays that from ad-Dahhak and Sa'id ibn Jubayr. Ma'arif al-Qur'an places it soon after the migration, when rulings on fighting came down. The 47:13 report carries no chain here, and nothing below rests on it.",
+            "bn": "সূরাটি কোথায় নাজিল হয়েছে, সে নিয়ে একাধিক বর্ণনা আছে। কুরতুবী নাহহাসের সূত্রে বলেন, ইবন আব্বাস (রাঃ)-এর মতে এটি মাদানী। মাওয়ার্দী বলেন, সবার মতেই মাদানী, শুধু ইবন আব্বাস ও কাতাদা একটি আয়াতকে আলাদা করেছেন: ৪৭:১৩, যা নবী ﷺ-এর মক্কা ছেড়ে যাওয়ার এক মুহূর্তের সঙ্গে যুক্ত। সা'লাবী একে মাক্কী বলেন, আর ইবন হিবাতিল্লাহ এ মত বর্ণনা করেন দাহহাক ও সাঈদ ইবন জুবাইর থেকে। মাআরিফুল কুরআনের মতে সূরাটি নাজিল হয় হিজরতের অল্প পরে, যখন যুদ্ধের বিধান নাজিল হচ্ছিল। ৪৭:১৩ সংক্রান্ত বর্ণনাটির এখানে কোনো সনদ নেই, তাই এ লেখার কোনো কথা তার ওপর দাঁড়িয়ে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Disbelief, Then a Barrier",
+          "bn": "কুফরি, তারপর পথরোধ"
+        },
+        "p": [
+          {
+            "en": "The first verb, kafaru, is given different objects in the commentaries fetched for this verse. At-Tabari: they denied the oneness of Allah and worshipped another besides Him. Ibn Kathir: they disbelieved in the signs of Allah. The Muyassar: they denied that Allah alone is the true God, with no partner. Al-Qurtubi relays Ibn Abbas and Mujahid: they disbelieved in Allah's oneness. One names the signs, the others the oneness, but all of them read the verse as opening with a refusal, and the refusal stands first in the order of its words.",
+            "bn": "প্রথম ক্রিয়া কাফারূ। এ আয়াতের তাফসীরগুলো এর কর্ম হিসেবে ভিন্ন ভিন্ন জিনিস বসায়। তাবারীর মতে, তারা আল্লাহর একত্ব অস্বীকার করেছে আর তাঁকে বাদ দিয়ে অন্যের ইবাদত করেছে। ইবন কাসীরের মতে, তারা আল্লাহর আয়াতগুলো অস্বীকার করেছে। মুয়াসসার বলে, তারা মানেনি যে একমাত্র আল্লাহই সত্য ইলাহ, তাঁর কোনো শরিক নেই। কুরতুবী ইবন আব্বাস ও মুজাহিদ থেকে আনেন: তারা আল্লাহর তাওহীদ অস্বীকার করেছে। কেউ বলেন আয়াতের কথা, কেউ বলেন একত্বের কথা। তবু সবার পাঠেই আয়াতের শুরু এক প্রত্যাখ্যান দিয়ে, আর শব্দের ক্রমেও সেই প্রত্যাখ্যানই প্রথমে।"
+          },
+          {
+            "en": "The second verb, saddu, is read in two directions, toward the doers themselves and toward others. Ibn Kathir supplies the object: they barred others. At-Tabari says whom: anyone who wanted to worship Allah, affirm His oneness and believe His Prophet Muhammad ﷺ. Al-Qurtubi relays Ibn Abbas and Mujahid, with as-Suddi, that they barred themselves and the believers from Allah's religion, Islam, by forbidding people to enter it. As-Sa'di likewise has them bar themselves and others. Ad-Dahhak, in al-Qurtubi, reads the way of Allah as the House of Allah, closed to those making for it.",
+            "bn": "দ্বিতীয় ক্রিয়া সাদ্দূ। তাফসীরে এর দুই দিকই পড়া হয়েছে: নিজেদের ফিরিয়ে রাখা, আবার অন্যদেরও। ইবন কাসীর কর্ম জুড়ে দেন: তারা অন্যদের বাধা দিয়েছে। তাবারী বলেন কাদের: যে-ই আল্লাহর ইবাদত করতে, তাঁর একত্ব মেনে নিতে আর তাঁর নবী মুহাম্মাদ ﷺ-কে সত্য বলে মানতে চেয়েছে, তাকেই। কুরতুবী ইবন আব্বাস ও মুজাহিদ থেকে আনেন, সুদ্দীও একই কথা বলেন: তারা নিজেদের এবং মুমিনদের আল্লাহর দ্বীন ইসলাম থেকে আটকেছে, মানুষকে তাতে ঢুকতে নিষেধ করে। সা'দীর কথাতেও তারা নিজেদের ও অন্যদের আটকায়। কুরতুবীর বর্ণনায় দাহহাক আল্লাহর পথ বলতে বোঝেন আল্লাহর ঘর, যার দিকে যারা যেত তাদের পথ তারা বন্ধ করত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Men Who Fed Badr",
+          "bn": "বদরে যারা খাবার জুগিয়েছিল"
+        },
+        "p": [
+          {
+            "en": "Who is meant? Al-Qurtubi relays from Ibn Abbas that the verse came down about al-mut'imun at Badr, the men who supplied the food for their side's army, twelve in number, and he lists them by name. He gives the report without a chain, and it is not confirmed here from any collection of the occasions of revelation. This article does not repeat the names: a list relayed without a chain cannot carry the weight of a verdict on each person in it.",
+            "bn": "আয়াতটি কাদের নিয়ে? কুরতুবী ইবন আব্বাস থেকে বর্ণনা করেন, আয়াতটি নাজিল হয় বদরের মুতইমীনদের নিয়ে, অর্থাৎ যারা নিজেদের বাহিনীর খাবার জুগিয়েছিল। তারা ছিল ১২ জন, আর কুরতুবী তাদের নামও উল্লেখ করেন। বর্ণনাটি তিনি সনদ ছাড়া আনেন। শানে নুযূলের কোনো সংকলন থেকে এখানে এর সমর্থন পাওয়া যায়নি। এ লেখা নামগুলো আর উদ্ধৃত করছে না। সনদ ছাড়া বর্ণিত একটি তালিকার ওপর এর প্রত্যেক মানুষের ব্যাপারে রায়ের ভার চাপানো যায় না।"
+          },
+          {
+            "en": "Other early readings are wider. In the same passage al-Qurtubi relays Ibn Abbas and Mujahid, with as-Suddi, that these are the people of Makkah. As-Sa'di names no one: they are the heads of disbelief and the leaders of misguidance, who joined disbelief in Allah and His signs to barring. At-Tabari, Ibn Kathir and the Muyassar also describe them only by what they did. So two sides stand in the sources: a report that points to twelve men at one battle, and readings that take the verse as the description of a kind. Ibn Abbas's name, as al-Qurtubi relays it, stands behind both.",
+            "bn": "প্রথম যুগের অন্য পাঠগুলো আরও বিস্তৃত। একই আলোচনায় কুরতুবী ইবন আব্বাস ও মুজাহিদ থেকে আনেন, সুদ্দীও তাই বলেন: এরা মক্কাবাসী। সা'দী কারও নাম নেন না। তাঁর কথায় এরা কুফরের নেতা, গোমরাহির ইমাম, যারা আল্লাহ ও তাঁর আয়াত অস্বীকারের সঙ্গে মানুষকে বাধা দেওয়াও জুড়েছে। তাবারী, ইবন কাসীর ও মুয়াসসারও তাদের চেনান শুধু তাদের কাজ দিয়ে। ফলে উৎসে দুটি দিক পাশাপাশি দাঁড়ায়। একদিকে এক যুদ্ধের ১২ জন লোকের দিকে ইঙ্গিত করা একটি বর্ণনা। অন্যদিকে এমন পাঠ, যা আয়াতকে এক ধরনের মানুষের বিবরণ হিসেবে দেখে। কুরতুবীর বর্ণনামতে দুই দিকের পেছনেই আছে ইবন আব্বাসের নাম।"
+          },
+          {
+            "en": "The article keeps both, as the sources give them, without choosing. The wording itself, alladhina, those who, describes; it does not list. Whatever the occasion, the verse speaks of acts that can be named, disbelieving and barring, and not of a family or a tribe. What it condemns is the act and where the act ends, and the surah, as later sections show, ties the final verdict to how a life ends.",
+            "bn": "এ লেখা দুটোই রাখছে, উৎসে যেভাবে আছে সেভাবে, কোনোটিকে বেছে না নিয়ে। আয়াতের শব্দ আল্লাযীনা, অর্থাৎ যারা, একটি বিবরণ দেয়, নামের তালিকা নয়। নাজিলের উপলক্ষ যা-ই হোক, আয়াত কথা বলে এমন কাজ নিয়ে যার নাম দেওয়া যায়: কুফরি আর পথরোধ। কোনো পরিবার বা গোত্র নিয়ে নয়। নিন্দা কাজের, আর কাজটি কোথায় গিয়ে শেষ হয় তার। সামনের অংশে দেখা যাবে, সূরাটি চূড়ান্ত রায়কে বেঁধে দেয় জীবন কীভাবে শেষ হলো তার সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Deeds Made a Straying",
+          "bn": "আমল যখন পথ হারায়"
+        },
+        "p": [
+          {
+            "en": "Adalla a'malahum: He sent their deeds astray. At-Tabari keeps the picture inside the verb. Allah made their deeds a straying, without guidance and without right direction, because they were done in the way of the Shaytan and without uprightness. Al-Baghawi says He voided them and did not accept them. Ibn Kathir says He voided and removed them, and gave them neither recompense nor reward, and he recalls 25:23, where Allah turns to what such people did of deeds and makes it scattered dust. Each gloss ends in the same place: the deeds reach nothing.",
+            "bn": "আদাল্লা আ'মালাহুম: তিনি তাদের আমলগুলো পথহারা করে দেন। তাবারী ক্রিয়ার ভেতরের ছবিটা ধরে রাখেন। আল্লাহ তাদের আমলকে বানিয়ে দিলেন পথভ্রষ্টতা, যাতে না আছে হিদায়াত, না সঠিক দিশা। কারণ সেগুলো করা হয়েছিল শয়তানের পথে, সোজা পথে নয়। বাগাভী বলেন, তিনি সেগুলো বাতিল করেছেন, কবুল করেননি। ইবন কাসীরের ভাষায়, তিনি সেগুলো বাতিল করে মুছে দিয়েছেন, এর কোনো প্রতিদান বা সওয়াব রাখেননি। এখানে তিনি ২৫:২৩ আয়াত স্মরণ করান, যেখানে আল্লাহ এমন লোকদের আমলের দিকে এগিয়ে গিয়ে সেগুলোকে বানিয়ে দেন ছড়ানো ধূলিকণা। প্রতিটি ব্যাখ্যা শেষ হয় এক জায়গায়: এসব আমল কোথাও পৌঁছায় না।"
+          },
+          {
+            "en": "The Muyassar adds a turn. Allah removed their deeds, voided them, and made them wretched by means of them, ashqahum bi-sababiha. As-Sa'di uses the same words. On this reading the deeds are not only lost; they become the cause of their doers' misery. The surah sets its own contrast three verses later. 47:4 closes on those killed in the way of Allah: fa-lan yudilla a'malahum, He will never send their deeds astray. The same verb, negated, marks the other road, and the article on that verse treats it.",
+            "bn": "মুয়াসসার এখানে আরেকটু যোগ করে। আল্লাহ তাদের আমল মুছে দিয়েছেন, বাতিল করেছেন, আর সেই আমল দিয়েই তাদের হতভাগ্য করেছেন: আশকাহুম বিসাবাবিহা। সা'দীও একই শব্দ ব্যবহার করেন। এ পাঠে আমল শুধু হারিয়েই যায় না, বরং যারা করেছে তাদের দুর্ভাগ্যের কারণ হয়ে দাঁড়ায়। সূরাটি তিনটি আয়াত পরে নিজেই এর বিপরীত ছবি দেয়। ৪৭:৪ শেষ হয় আল্লাহর পথে নিহতদের কথায়: ফালান ইউদিল্লা আ'মালাহুম, তিনি কখনো তাদের আমল পথহারা করবেন না। একই ক্রিয়া, না-বাচক রূপে, অন্য পথটিকে চিহ্নিত করে। সে আয়াতের লেখায় এর আলোচনা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Plot, or a Kindness?",
+          "bn": "চক্রান্ত, নাকি সৌজন্য?"
+        },
+        "p": [
+          {
+            "en": "Which deeds were sent astray? The commentators give two answers. Ad-Dahhak, relayed by both al-Qurtubi and al-Baghawi, reads the deeds as their plotting: Allah voided their scheming and their plans against the Prophet ﷺ and turned the reverse of fortune upon them. On this reading the verb, in the past tense, records a campaign that failed. What they built to stop the message came to nothing, and the harm they intended fell back on themselves.",
+            "bn": "কোন আমলগুলো পথ হারাল? তাফসীরকারেরা দুটি উত্তর দেন। কুরতুবী ও বাগাভী দুজনেই দাহহাকের মত আনেন: আমল মানে তাদের চক্রান্ত। নবী ﷺ-এর বিরুদ্ধে তাদের কূটকৌশল আর ষড়যন্ত্র আল্লাহ বাতিল করে দিলেন, আর বিপর্যয়ের চাকা ঘুরিয়ে দিলেন তাদেরই দিকে। এ পাঠে অতীতকালের ক্রিয়াটি একটি ব্যর্থ অভিযানের খতিয়ান। বার্তাকে থামাতে তারা যা গড়েছিল তা ভেঙে পড়ল, আর যে ক্ষতি তারা চেয়েছিল তা তাদের ঘাড়েই ফিরে এল।"
+          },
+          {
+            "en": "The second answer reads the deeds as their good works. Al-Qurtubi gives it with 'it is said': Allah voided what they did in their disbelief and used to call noble deeds, makarim: joining ties of kinship, freeing captives, hosting guests and keeping faith with those under their protection. Al-Baghawi, in a bracket in his text, names feeding people and keeping ties of kinship. The feeding sits close to the report of the men who fed the army at Badr, though no commentator fetched here joins the two.",
+            "bn": "দ্বিতীয় উত্তরে আমল মানে তাদের ভালো কাজ। কুরতুবী কথাটি আনেন 'বলা হয়' দিয়ে: কুফরের অবস্থায় তারা যেসব কাজ করত আর সেগুলোকে মহৎ গুণ, মাকারিম বলে গর্ব করত, আল্লাহ সেগুলো বাতিল করেছেন। যেমন আত্মীয়তার বন্ধন রক্ষা, বন্দিদের মুক্ত করা, মেহমানদারি, আর আশ্রিতের হেফাজত। বাগাভী তাঁর লেখায় বন্ধনীর ভেতরে উল্লেখ করেন খাবার খাওয়ানো আর আত্মীয়তা রক্ষার কথা। খাওয়ানোর এ কথা বদরে বাহিনীকে খাবার জোগানো লোকদের বর্ণনার খুব কাছে বসে। তবে এখানে সংগৃহীত কোনো তাফসীরকার দুটিকে জুড়ে দেননি।"
+          },
+          {
+            "en": "As-Sa'di keeps both. The verse, he says, covers the deeds they did to scheme against the truth and the friends of Allah, whose scheming Allah turned back into their own throats so that they reached nothing they aimed at. It also covers the deeds they hoped to be rewarded for, which Allah will make void. He gives the cause too: they followed falsehood, which is every aim not directed to the face of Allah, and works done for falsehood share its end. 47:3 states that cause, and its article treats it.",
+            "bn": "সা'দী দুটোই রাখেন। তাঁর মতে আয়াতের আওতায় আছে সেসব কাজ, যা তারা করেছিল সত্য আর আল্লাহর বন্ধুদের বিরুদ্ধে ষড়যন্ত্র করতে। আল্লাহ তাদের সে চক্রান্ত তাদেরই গলায় ফিরিয়ে দিলেন, তারা যা চেয়েছিল তার কিছুই পেল না। আওতায় আছে সেসব কাজও, যার জন্য তারা সওয়াব আশা করত। আল্লাহ সেগুলোও বাতিল করবেন। কারণটিও তিনি বলেন: তারা বাতিলের অনুসরণ করেছে। বাতিল হলো এমন প্রতিটি লক্ষ্য, যাতে আল্লাহর সন্তুষ্টি চাওয়া হয় না। বাতিলের জন্য করা কাজও তাই বাতিলের পরিণতিই পায়। ৪৭:৩ আয়াত এ কারণটিই বলে, আর সে আয়াতের লেখায় তার আলোচনা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Feeding of Ibn Jud'an",
+          "bn": "ইবন জুদআনের অন্নদান"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an explains why the good works fail. They are good in themselves, it says, but in the Hereafter they bring benefit only with faith, because faith is a necessary condition for good actions to count; the disbelievers take their comfort in this world as the reward of such deeds. None of the commentaries fetched for this verse attaches a hadith to it. One narration in Sahih Muslim, not tied to this verse, speaks to the same question of deeds done without faith.",
+            "bn": "ভালো কাজগুলো কেন ব্যর্থ হয়, মাআরিফুল কুরআন তা ব্যাখ্যা করে। নিজের দিক থেকে কাজগুলো ভালোই। কিন্তু আখিরাতে এগুলোর উপকার মেলে কেবল ঈমানের সঙ্গে, কারণ ভালো কাজ গ্রহণযোগ্য হওয়ার জন্য ঈমান অপরিহার্য শর্ত। কাফিররা এসব কাজের প্রতিদান হিসেবে দুনিয়ার আরামটুকু পেয়ে যায়। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস জোড়েনি। তবে সহীহ মুসলিমের একটি বর্ণনা, এ আয়াতের সঙ্গে যুক্ত না হয়েও, ঈমানহীন আমলের একই প্রশ্নের জবাব দেয়।"
+          },
+          {
+            "en": "Muslim (214) records from 'A'ishah (RA): I said, Messenger of Allah, Ibn Jud'an in the days of ignorance used to keep the ties of kinship and feed the poor; will that benefit him? He said: It will not benefit him; he never once said, My Lord, forgive me my sin on the Day of Judgement. The reply does not call the feeding bad. It names what was absent beneath it, a single turning to Allah, and that absence is the whole of the answer.",
+            "bn": "মুসলিম (২১৪) আয়েশা (রাঃ) থেকে বর্ণনা করেন। তিনি বলেন: আমি বললাম, হে আল্লাহর রাসূল, ইবন জুদআন জাহিলিয়াতের যুগে আত্মীয়তার বন্ধন রক্ষা করত, মিসকীনকে খাওয়াত। এটা কি তার কোনো উপকারে আসবে? তিনি বললেন: এটা তার উপকারে আসবে না। সে কোনোদিন বলেনি, হে আমার রব, প্রতিদান দিবসে আমার গুনাহ মাফ করে দিয়ো। জবাবে খাওয়ানোকে মন্দ বলা হয়নি। বলা হয়েছে তার নিচে কী ছিল না: আল্লাহর দিকে একবারের জন্যও ফেরা। পুরো উত্তরটা ওই অনুপস্থিতির ওপরই দাঁড়িয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Opening Words Return",
+          "bn": "শুরুর কথা আবার ফেরে"
+        },
+        "p": [
+          {
+            "en": "The surah does not leave the phrase at its opening. 47:8 repeats the verdict on those who disbelieve: wretchedness is theirs, wa adalla a'malahum, and He sent their deeds astray. 47:9 gives a cause, that they disliked what Allah sent down, and uses another verb, ahbata, He made their deeds void. Near the end, 47:32 returns to the opening pair word for word, those who disbelieve and bar from the way of Allah, and adds that they opposed the Messenger after guidance had become clear to them. They will not harm Allah at all, and He will make their deeds void.",
+            "bn": "সূরাটি কথাটিকে শুরুতেই ফেলে রাখে না। ৪৭:৮ আয়াতে কাফিরদের ব্যাপারে রায় আবার আসে: তাদের জন্য দুর্ভোগ, ওয়া আদাল্লা আ'মালাহুম, আর তিনি তাদের আমল পথহারা করে দিয়েছেন। ৪৭:৯ কারণ বলে: আল্লাহ যা নাজিল করেছেন তারা তা অপছন্দ করেছে। সেখানে ক্রিয়াটা ভিন্ন, আহবাতা, তিনি তাদের আমল নিষ্ফল করে দিয়েছেন। শেষের দিকে ৪৭:৩২ হুবহু শুরুর জোড়া কথায় ফেরে: যারা কুফরি করে এবং আল্লাহর পথ থেকে বাধা দেয়। সঙ্গে যোগ হয়, হিদায়াত স্পষ্ট হওয়ার পরও তারা রাসূলের বিরোধিতা করেছে। তারা আল্লাহর কোনো ক্ষতিই করতে পারবে না, আর তিনি তাদের আমল নিষ্ফল করে দেবেন।"
+          },
+          {
+            "en": "Two verses later the pair comes once more, in 47:34, with a new condition: then they died while disbelievers, and Allah will never forgive them. The verdict waits on how a life ends, and no reader can know that ending for another. Between those two verses, 47:33 turns to the believers: obey Allah and obey the Messenger, and do not make your deeds void. The surah that opens with the deeds of others lost closes its argument by telling its own readers that theirs can be lost too.",
+            "bn": "দুই আয়াত পরে ৪৭:৩৪-এ জোড়াটি আরেকবার আসে, নতুন এক শর্ত নিয়ে: তারপর তারা কাফির অবস্থায় মারা গেছে, আল্লাহ তাদের কখনো ক্ষমা করবেন না। অর্থাৎ রায় নির্ভর করে জীবনটা কীভাবে শেষ হয় তার ওপর। আর অন্যের সেই শেষটা কোনো পাঠকের জানা নেই। এ দুই আয়াতের মাঝখানে ৪৭:৩৩ মুমিনদের দিকে ফেরে: তোমরা আল্লাহর আনুগত্য করো, রাসূলের আনুগত্য করো, আর নিজেদের আমল নষ্ট করে দিয়ো না। যে সূরা অন্যদের আমল হারানোর কথা দিয়ে শুরু, তার যুক্তির শেষ ধাপে নিজের পাঠকদেরই বলা হয়: তোমাদের আমলও হারাতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Description With No Target",
+          "bn": "বিবরণ আছে, নিশানা নেই"
+        },
+        "p": [
+          {
+            "en": "The surah moves in 47:4 to the conduct of a war already joined, and the article on that verse treats its rulings. 47:1 is not that command. It describes what the text describes: people who disbelieved and barred others, and what became of their deeds. It names no living person and no community today, and it licenses nothing against anyone: no fighting, no hostility, no contempt for a neighbour of another faith. Even the narrowest reading points to men of one battle long past, and the verdict on anyone's deeds belongs to Allah alone.",
+            "bn": "৪৭:৪ আয়াতে সূরাটি চলে যায় ইতিমধ্যে শুরু হয়ে যাওয়া এক যুদ্ধের নিয়মকানুনে, আর সে আয়াতের লেখায় তার বিধান আলোচিত হয়েছে। ৪৭:১ সেই নির্দেশ নয়। আয়াতটি শুধু ততটুকুই বর্ণনা করে, যতটুকু তার শব্দে আছে: কিছু লোক কুফরি করেছে, অন্যদের বাধা দিয়েছে, আর তাদের আমলের পরিণতি কী হয়েছে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের নাম এতে নেই। কারও বিরুদ্ধে কিছুরই অনুমতি এ আয়াত দেয় না: না লড়াই, না শত্রুতা, না ভিন্ন ধর্মের প্রতিবেশীর প্রতি অবজ্ঞা। সবচেয়ে সংকীর্ণ পাঠও ইঙ্গিত করে বহু আগে শেষ হয়ে যাওয়া একটি যুদ্ধের কিছু লোকের দিকে। আর কার আমলের কী পরিণতি, সে রায় কেবল আল্লাহর।"
+          },
+          {
+            "en": "What the verse leaves a reader is two checks. The first is on barring. In at-Tabari's reading, saddu means turning back someone who wanted to come to Allah, and a reader can ask whether harshness, mockery or a poor example has done the same in a small way. The second is on roots. A deed can be generous and still be cut off, as Ma'arif al-Qur'an says, when faith is not beneath it. The very next verse, 47:2, names what holds deeds in place: faith, righteous work, and belief in what was sent down to Muhammad ﷺ.",
+            "bn": "আয়াতটি পাঠকের হাতে দুটি পরীক্ষা রেখে যায়। প্রথমটি পথরোধ নিয়ে। তাবারীর পাঠে সাদ্দূ মানে আল্লাহর দিকে আসতে চাওয়া মানুষকে ফিরিয়ে দেওয়া। পাঠক নিজেকে জিজ্ঞেস করতে পারেন, আমার রূঢ়তা, ঠাট্টা বা খারাপ দৃষ্টান্ত কি ছোট পরিসরে হলেও একই কাজ করেছে? দ্বিতীয়টি শিকড় নিয়ে। মাআরিফুল কুরআন যেমন বলে, কোনো কাজ উদার হয়েও বিচ্ছিন্ন থেকে যেতে পারে, যদি তার নিচে ঈমান না থাকে। ঠিক পরের আয়াত ৪৭:২ বলে দেয় আমলকে কী ধরে রাখে: ঈমান, সৎকর্ম, আর মুহাম্মাদ ﷺ-এর ওপর যা নাজিল হয়েছে তাতে বিশ্বাস।"
+          }
+        ]
+      }
+    ]
+  },
   "47:3": {
     "sections": [
       {

@@ -38331,6 +38331,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold to what Allah commands, for turning from it opens the way to corruption; and keep your ties of kinship, even with the relative who has cut you off.",
     "lessonBn": "আল্লাহর হুকুম আঁকড়ে ধরুন, কারণ তা থেকে মুখ ফেরালেই বিপর্যয়ের পথ খুলে যায়। আর আত্মীয়তার বন্ধন বজায় রাখুন, এমনকি যে আত্মীয় আপনার সঙ্গে সম্পর্ক ছিন্ন করেছে, তার সঙ্গেও।"
+  },
+  "47:1": {
+    "reflectionEn": "Surah Muhammad opens with eight Arabic words about people who did two things: they disbelieved, and they barred others from the way of Allah. The verdict follows at once: He sends their deeds astray. The verse does not say they did nothing. Some of what they did may have looked generous, feeding guests, keeping ties, standing by a neighbour. It says that deeds cut off from Allah lose their way and arrive nowhere. Later the same surah turns the warning toward the believers: do not make your deeds void. So this is no verdict for me to pass on anyone. It asks what my own deeds are tied to, and whether anything I say or do stands between another person and Allah's way.",
+    "reflectionBn": "সূরা মুহাম্মাদ শুরু হয় আটটি আরবি শব্দে, এমন লোকদের নিয়ে যারা দুটি কাজ করেছে: কুফরি করেছে, আর অন্যদের আল্লাহর পথ থেকে আটকে রেখেছে। রায় আসে সঙ্গে সঙ্গে: তিনি তাদের আমলগুলো পথহারা করে দেন। আয়াত বলছে না যে তারা কিছুই করেনি। তাদের কোনো কোনো কাজ হয়তো দেখতে উদার ছিল: মেহমানকে খাওয়ানো, আত্মীয়তা রক্ষা, প্রতিবেশীর পাশে দাঁড়ানো। আয়াতের কথা হলো, আল্লাহ থেকে বিচ্ছিন্ন আমল পথ হারায়, কোথাও গিয়ে পৌঁছায় না। একই সূরা পরে মুমিনদের দিকেও সতর্কবাণী ঘুরিয়ে দেয়: তোমাদের আমল নষ্ট করে দিয়ো না। তাই এ আয়াত কারও ওপর রায় দেওয়ার হাতিয়ার নয়। সে জিজ্ঞেস করে, আমার নিজের আমলগুলো কিসের সঙ্গে বাঁধা? আর আমার কোনো কথা বা কাজ কি অন্য কারও আল্লাহর পথে আসার সামনে দেয়াল হয়ে দাঁড়িয়েছে?",
+    "pointsEn": [
+      "The good things I do most often: are they tied to Allah, or to how they make me look?",
+      "Is there anyone whom my words, my mockery or my example has made it harder to come near to Allah?",
+      "When I read of deeds sent astray, whose deeds do I think of first, other people's or my own?",
+      "Have I ever worked hard at a plan that, looking back, only pushed against what was right?",
+      "What could quietly make my own deeds void, and what am I doing to guard them before I meet my Lord?"
+    ],
+    "pointsBn": [
+      "যে ভালো কাজগুলো আমি সবচেয়ে বেশি করি, সেগুলো কি আল্লাহর সঙ্গে বাঁধা, নাকি মানুষের চোখে আমাকে কেমন দেখায় তার সঙ্গে?",
+      "আমার কথা, ঠাট্টা বা আচরণের কারণে কি কারও জন্য আল্লাহর কাছে আসা কঠিন হয়ে গেছে?",
+      "পথহারা আমলের কথা পড়লে প্রথমে কার আমলের কথা মনে আসে, অন্যদের, নাকি আমার নিজের?",
+      "কখনো কি এমন কোনো পরিকল্পনায় খুব খেটেছি, যা পেছন ফিরে দেখলে কেবল সত্যের বিরুদ্ধেই ঠেলেছে?",
+      "কোন জিনিস চুপিচুপি আমার নিজের আমল নষ্ট করে দিতে পারে, আর রবের সঙ্গে সাক্ষাতের আগে সেগুলো রক্ষা করতে আমি কী করছি?"
+    ],
+    "lessonEn": "Tie every good deed to faith in Allah, and never stand between anyone and His way; deeds cut off from Him lose their way.",
+    "lessonBn": "প্রতিটি ভালো কাজ আল্লাহর ওপর ঈমানের সঙ্গে বেঁধে রাখুন, আর কাউকে কখনো তাঁর পথ থেকে আটকাবেন না। তাঁর থেকে বিচ্ছিন্ন আমল পথ হারায়।"
   }
 };
 
