@@ -37593,6 +37593,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Whatever strength you have was given by the One who created you; never treat it as a shield against Him or as a licence over others.",
     "lessonBn": "আপনার যত শক্তি, সবই দিয়েছেন আপনার স্রষ্টা। সেই শক্তিকে কখনো তাঁর বিরুদ্ধে ঢাল বা অন্যের ওপর জোর খাটানোর ছাড়পত্র বানাবেন না।"
+  },
+  "41:42": {
+    "reflectionEn": "Most books that pass through many hands pick something up on the way: a copyist's slip, an editor's addition, a line quietly dropped. This verse says that falsehood cannot reach the Qur'an from before it or from behind it, and it gives the reason in the same breath: it is sent down from One who is Wise and Praiseworthy. The commentators name the two sides differently. Some speak of nothing added and nothing taken away, others of no earlier or later book that could refute it. Either way, the guarding is His. Mine is a smaller task. I can still let falsehood in through my own reading, bending a verse to suit me. When I open the mushaf, is it correcting me, or am I correcting it?",
+    "reflectionBn": "বহু হাত ঘুরে আসা বইয়ে পথে কিছু না কিছু জুড়ে যায়। কোথাও লিপিকারের ভুল, কোথাও সম্পাদকের সংযোজন, কোথাও চুপচাপ বাদ পড়া একটা লাইন। এ আয়াত বলছে, মিথ্যা কুরআনের কাছে আসতে পারে না, না সামনে দিয়ে, না পেছন দিয়ে। কারণটাও সঙ্গে সঙ্গে বলে দেয়: এটি নাযিল হয়েছে মহাপ্রজ্ঞাময়, প্রশংসিত সত্তার কাছ থেকে। সামনে আর পেছন বলতে কী বোঝায়, তাফসীরকারেরা তা ভিন্ন ভিন্নভাবে বলেন। কেউ বলেন, এতে কিছু যোগ হয় না, কিছু বাদও পড়ে না। কেউ বলেন, আগের বা পরের কোনো কিতাব একে মিথ্যা প্রমাণ করতে পারে না। যেভাবেই বলা হোক, পাহারার দায়িত্ব তাঁর। আমার কাজটা ছোট। নিজের মতো করে আয়াতের অর্থ বাঁকিয়ে আমি এখনো মিথ্যাকে ঢুকতে দিতে পারি। মুসহাফ খুললে কে কাকে শুধরায়? কুরআন আমাকে, নাকি আমি কুরআনকে?",
+    "pointsEn": [
+      "When a verse does not suit me, do I look for a reading that lets me off, or let it stand as it is?",
+      "How much of what I believe about the Qur'an have I taken from its own words, and how much only from what others say about it?",
+      "If I truly hold that this Book is guarded from falsehood, how much of my week actually goes to reading it or listening to it?",
+      "Does knowing that it comes from One who is Wise and Praiseworthy change how I receive a command whose reason I cannot yet see?",
+      "When I quote a verse to someone, am I quoting it to make the truth clear or to win an argument?"
+    ],
+    "pointsBn": [
+      "কোনো আয়াত মনমতো না হলে আমি কি এমন ব্যাখ্যা খুঁজি যাতে দায় এড়ানো যায়, নাকি আয়াতকে যেমন আছে তেমনই থাকতে দিই?",
+      "কুরআন সম্পর্কে আমার ধারণার কতটা এসেছে কুরআনের নিজের কথা থেকে, আর কতটা শুধু অন্যের মুখে শোনা কথা থেকে?",
+      "এ কিতাব মিথ্যা থেকে সুরক্ষিত, এ কথা যদি সত্যিই মানি, তবে সপ্তাহের কতটা সময় আমি একে পড়তে বা শুনতে দিই?",
+      "এটি মহাপ্রজ্ঞাময়, প্রশংসিত সত্তার কাছ থেকে এসেছে, এ কথা জানা থাকলে যে আদেশের কারণ এখনো বুঝি না, তা কি আমি অন্যভাবে গ্রহণ করি?",
+      "কাউকে কোনো আয়াত শোনানোর সময় আমি কি সত্যটা পরিষ্কার করতে চাই, নাকি শুধু তর্কে জিততে চাই?"
+    ],
+    "lessonEn": "The Qur'an is guarded from falsehood by the One who sent it down; your part is to read it honestly, without bending its words to fit what you already wanted.",
+    "lessonBn": "কুরআনকে মিথ্যা থেকে পাহারা দেন তিনিই, যিনি তা নাযিল করেছেন। আপনার কাজ সততার সঙ্গে তা পড়া, আগে থেকে যা চেয়েছিলেন তার সঙ্গে মেলাতে এর কথাকে না বাঁকানো।"
   }
 };
 

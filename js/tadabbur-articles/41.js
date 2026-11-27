@@ -2075,6 +2075,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "41:42": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Sentence Breaks Off",
+          "bn": "যেখানে বাক্য থেমে যায়"
+        },
+        "p": [
+          {
+            "en": "La ya'tihi al-batilu min bayni yadayhi wa-la min khalfihi: falsehood cannot come to it from before it or from behind it. The verse completes a description that begins in the verse before. Verse 41:41 opens, Indeed, those who disbelieve in the Reminder when it came to them, and then turns, without finishing that thought, to the Book itself: and indeed it is a mighty Book. At-Tabari and Ibn Kathir take the Reminder to be the Qur'an, and al-Qurtubi says this is the view of all, because it mentions the rulings people need.",
+            "bn": "লা ইয়া'তীহিল বাতিলু মিন বাইনি ইয়াদাইহি ওয়া লা মিন খালফিহি: মিথ্যা এর কাছে আসতে পারে না, না সামনে দিয়ে, না পেছন দিয়ে। কথাটা শুরু হয়েছে আগের আয়াতে। ৪১:৪১ আয়াত বলে, যারা উপদেশবাণী এসে পৌঁছানোর পর তা অস্বীকার করেছে। এরপর সেই কথা শেষ না করেই আয়াত চলে যায় কিতাবের দিকে: আর নিশ্চয়ই এটি এক মহাপরাক্রান্ত কিতাব। তাবারী ও ইবন কাসীর এখানে যিকর বা উপদেশবাণী বলতে কুরআনকেই বোঝেন। কুরতুবী বলেন, এ ব্যাপারে সবাই একমত, কারণ মানুষের প্রয়োজনীয় বিধিবিধানের কথা এতে আছে।"
+          },
+          {
+            "en": "Where is the rest of the first sentence? Al-Qurtubi says its predicate is left unstated, to be understood as they will perish, or they will be punished. Another view makes the predicate those are being called from a distant place, further on in 41:44. He reports an-Nahhas as saying the first is the choice of all the grammarians he knew of. Al-Baghawi gives both, phrasing the first as they will be repaid for their disbelief, and al-Muyassar fills the gap the first way. Just before, 41:40 had warned that those who twist Allah's verses are not hidden from Him.",
+            "bn": "প্রথম বাক্যের বাকি অংশ কোথায়? কুরতুবী বলেন, এর বিধেয় উহ্য রাখা হয়েছে। বুঝে নিতে হবে: তারা ধ্বংস হবে, অথবা শাস্তি পাবে। আরেক মত হলো, বিধেয়টি আছে আরও পরে, ৪১:৪৪ আয়াতে: তাদের ডাকা হচ্ছে বহু দূরের জায়গা থেকে। কুরতুবী নাহহাসের বরাতে জানান, তাঁর জানামতে সব ব্যাকরণবিদ প্রথম মতটিই বেছে নিয়েছেন। বাগাভী দুটো মতই আনেন, প্রথমটিকে বলেন: কুফরির প্রতিফল তারা পাবে। মুয়াসসার শূন্যস্থান পূরণ করে প্রথম মত অনুযায়ী। এর ঠিক আগে ৪১:৪০ আয়াত সতর্ক করেছে, যারা আল্লাহর আয়াতকে বাঁকা পথে নেয়, তারা তাঁর কাছে গোপন নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mighty Against Every Hand",
+          "bn": "কোনো হাত যেখানে পৌঁছায় না"
+        },
+        "p": [
+          {
+            "en": "Our verse reads like an unpacking of the word 'aziz, mighty, at the end of 41:41. At-Tabari explains it as mighty because Allah has made it so, guarding it from everyone who wants to substitute, distort or alter it, whether human, jinn or rebellious devil. Through his chain he reports Qatadah: Allah made it mighty because it is His speech, and guarded it from falsehood. As-Suddi says: mighty against Satan. Ibn Kathir reads it as unassailable, a Book no one can hope to match, and as-Sa'di as impregnable against anyone who comes at it with distortion or harm.",
+            "bn": "আমাদের আয়াতটি যেন ৪১:৪১-এর শেষ শব্দ আযীয, অর্থাৎ মহাপরাক্রান্ত, তার ব্যাখ্যা। তাবারী বলেন, এটি আযীয কারণ আল্লাহ একে মর্যাদা দিয়েছেন। মানুষ, জিন বা অবাধ্য শয়তান, যে-ই একে বদলাতে, বিকৃত করতে বা পাল্টাতে চায়, তার হাত থেকে তিনি একে রক্ষা করেছেন। নিজের সনদে তিনি কাতাদার কথা আনেন: আল্লাহ একে মর্যাদা দিয়েছেন কারণ এটি তাঁর কালাম, আর মিথ্যা থেকে একে রক্ষা করেছেন। সুদ্দী বলেন: শয়তানের নাগালের বাইরে। ইবন কাসীরের ব্যাখ্যায় এর আঙিনা দুর্ভেদ্য, এর মতো কিছু আনার আশা কেউ করতে পারে না। সা'দীর ভাষায়, বিকৃতি বা অনিষ্টের মতলবে যে-ই আসুক, এ কিতাব তার কাছে অজেয়।"
+          },
+          {
+            "en": "Al-Qurtubi collects more. From Ibn Abbas: dear to Allah, and in another report, beyond people's power to produce its like. Others say it deserves to be honoured, with no idle talk allowed over it. Al-Baghawi, from al-Kalbi from Ibn Abbas, has noble with Allah, and from Qatadah: Allah gave it might, so falsehood finds no way to it. That last phrase leads straight into our verse. Ibn Kathir, on our verse, makes the same link: there is no path for corruption to reach it, because it is sent down from the Lord of the worlds.",
+            "bn": "কুরতুবী আরও কয়েকটি মত জড়ো করেন। ইবন আব্বাস (রাঃ) থেকে: আল্লাহর কাছে প্রিয়। আরেক বর্ণনায়: এর মতো কিছু বলা মানুষের সাধ্যের বাইরে। কেউ বলেন, এর সম্মান করা উচিত, একে ঘিরে বাজে কথা চলবে না। বাগাভী কালবীর সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন: আল্লাহর কাছে সম্মানিত। আর কাতাদা থেকে: আল্লাহ একে এমন মর্যাদা দিয়েছেন যে মিথ্যা এর দিকে কোনো পথ পায় না। শেষ কথাটা সোজা আমাদের আয়াতে গিয়ে মেলে। ইবন কাসীরও আমাদের আয়াতের ব্যাখ্যায় একই যোগসূত্র টানেন: একে নষ্ট করার কোনো পথ নেই, কারণ এটি নাযিল হয়েছে জগতসমূহের রবের কাছ থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is the Falsehood?",
+          "bn": "বাতিল বলতে কে বা কী"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens by noting that the people of interpretation differed over the clause. Sa'id ibn Jubayr, in his chain, says: an-nakir, disavowal, cannot come to it from before it or from behind it; al-Qurtubi reports him as saying at-takdhib, being called a lie. Qatadah makes al-batil a person: it is Iblis, who cannot take any truth out of it or put any falsehood into it. As-Suddi agrees that al-batil here is Satan, and narrows the claim to the smallest unit: he cannot add a single letter to it or take one away.",
+            "bn": "তাবারী শুরুতেই জানান, এ অংশের ব্যাখ্যায় তাফসীরকারেরা ভিন্নমত পোষণ করেছেন। তাঁর সনদে সাঈদ ইবন জুবাইর বলেন, আন-নাকীর, অর্থাৎ অস্বীকৃতি, এর কাছে আসতে পারে না, না সামনে দিয়ে, না পেছন দিয়ে। কুরতুবী তাঁর কথা আনেন আত-তাকযীব শব্দে, অর্থাৎ মিথ্যা বলে উড়িয়ে দেওয়া। কাতাদার কাছে বাতিল এক সত্তা। সে ইবলীস। কুরআন থেকে কোনো সত্য সে সরাতে পারে না, কোনো মিথ্যা এতে ঢোকাতেও পারে না। সুদ্দীও বলেন, এখানে বাতিল মানে শয়তান। তবে তিনি দাবিটা নামিয়ে আনেন সবচেয়ে ছোট এককে: একটি হরফও সে এতে যোগ করতে পারে না, একটিও বাদ দিতে পারে না।"
+          },
+          {
+            "en": "Others take the word as a thing rather than a being. Al-Baghawi reports al-Zajjaj: the Qur'an is guarded from being reduced and from being added to, so on this reading al-batil is the addition and the omission themselves. Ma'arif al-Qur'an cites Abu Hayyan's al-Bahr al-Muhit to say the word is not confined to Satan: any falsehood or falsifier, from whatever source, fails against this Book. As-Sa'di joins the two: no devil of humans or jinn comes near it, not by theft, not by inserting what is not of it, and not by addition or omission.",
+            "bn": "অন্যরা শব্দটিকে কোনো সত্তা না ধরে একটি বিষয় হিসেবে দেখেন। বাগাভী যাজ্জাজের কথা আনেন: কুরআন সুরক্ষিত, এ থেকে কিছু কমানো যায় না, এতে কিছু বাড়ানোও যায় না। এ ব্যাখ্যায় বাতিল মানে সেই বাড়ানো আর কমানো। মাআরিফুল কুরআন আবু হাইয়ানের আল-বাহরুল মুহীত থেকে বলে, শব্দটি শুধু শয়তানের জন্য নির্দিষ্ট নয়। যেকোনো মিথ্যা বা মিথ্যার কারিগর, উৎস যা-ই হোক, এ কিতাবের সামনে ব্যর্থ। সা'দী দুটি দিক মিলিয়ে দেন। মানুষ বা জিন, কোনো শয়তানই এর কাছে ঘেঁষতে পারে না: চুরি করে নয়, এর অংশ নয় এমন কিছু ঢুকিয়ে নয়, বাড়িয়ে বা কমিয়েও নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Side Is Which",
+          "bn": "সামনে কোনটি, পেছনে কোনটি"
+        },
+        "p": [
+          {
+            "en": "The two sides receive more readings than the word itself. Al-Zajjaj, through al-Baghawi, maps them onto the text: falsehood would come from before it if something were taken out, and from behind it if something were added. At-Tabari, after listing the views, gives the reading he holds most correct. No one with falsehood can, by his scheming, change it or turn any of its meanings from what they are, and that is coming at it from before; nor attach to it what is not of it, and that is coming at it from behind.",
+            "bn": "শব্দটির চেয়ে দুই দিকের ব্যাখ্যা আরও বেশি। বাগাভীর বরাতে যাজ্জাজ দুই দিককে পাঠের সঙ্গে মিলিয়ে দেন। কিছু বাদ দেওয়া হলে মিথ্যা আসত সামনে দিয়ে, কিছু যোগ করা হলে আসত পেছন দিয়ে। তাবারী সব মত উল্লেখ করার পর নিজের কাছে যেটি সবচেয়ে সঠিক, তা জানান। বাতিলপন্থী কেউ ষড়যন্ত্র করে একে বদলাতে পারে না, এর কোনো অর্থকে আসল অর্থ থেকে সরাতে পারে না। এটিই সামনে দিয়ে আসা। আবার এর অংশ নয় এমন কিছু এর সঙ্গে জুড়েও দিতে পারে না। এটিই পেছন দিয়ে আসা।"
+          },
+          {
+            "en": "Another group reads the sides as time. Al-Qurtubi reports al-Kalbi: nothing Allah sent down before it gives it the lie, and nothing comes down after it to void and abrogate it. Al-Baghawi reports Muqatil in nearly the same terms: no denial reaches it from the books before it, and no book comes after it to cancel it. Ibn Jurayj, in al-Qurtubi, turns the axis towards its reports: there is no falsehood in what it tells of what has passed, nor in what it tells of what is still to come.",
+            "bn": "আরেক দল দুই দিককে দেখেন সময় হিসেবে। কুরতুবী কালবীর কথা আনেন: আল্লাহ এর আগে যা নাযিল করেছেন, তার কিছুই একে মিথ্যা প্রমাণ করে না। এর পরে এমন কিছু নামবে না, যা একে বাতিল বা রহিত করবে। বাগাভী মুকাতিলের কথা আনেন প্রায় একই ভাষায়: আগের কিতাবগুলো থেকে একে অস্বীকারের কিছু আসে না, আর পরে এমন কোনো কিতাব আসবে না যা একে বাতিল করবে। কুরতুবীর বর্ণনায় ইবন জুরাইজ বিষয়টাকে এর সংবাদের দিকে ঘুরিয়ে দেন: অতীত নিয়ে এটি যা জানায়, তাতে মিথ্যা নেই। ভবিষ্যতে যা ঘটবে বলে জানায়, তাতেও নেই।"
+          },
+          {
+            "en": "Al-Qurtubi also relays from Ibn Abbas a reading along the chain of its sending: from before it means from Allah, and from behind it means from Jibril, nor from Muhammad ﷺ. Ma'arif al-Qur'an reports Qatadah and as-Suddi as taking the pair to mean from any side at all, and al-Muyassar says the same: from any of its sides, with nothing able to void it. At-Tabari chose one reading, which Ma'arif al-Qur'an calls very apt; al-Qurtubi and al-Baghawi set theirs down without ranking them. These pages leave the choice where the commentators left it.",
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ) থেকে আরেকটি ব্যাখ্যা আনেন, যা নাযিলের ধারাবাহিকতা ধরে চলে। সামনে দিয়ে মানে আল্লাহর দিক থেকে, পেছন দিয়ে মানে জিবরীল (আঃ)-এর দিক থেকে, আর মুহাম্মাদ ﷺ-এর দিক থেকেও নয়। মাআরিফুল কুরআনের বর্ণনায় কাতাদা ও সুদ্দীর মতে এ জোড়া শব্দের অর্থ যেকোনো দিক থেকে। মুয়াসসারও একই কথা বলে: এর কোনো দিক থেকেই মিথ্যা আসে না, কোনো কিছুই একে বাতিল করতে পারে না। তাবারী একটি মত বেছে নিয়েছেন, আর মাআরিফুল কুরআন তাঁর ব্যাখ্যাকে খুবই যথাযথ বলেছে। কুরতুবী ও বাগাভী মতগুলো লিখে রেখেছেন, কোনোটিকে এগিয়ে রাখেননি। এখানেও সিদ্ধান্তটা সেখানেই থাকল, যেখানে তাফসীরকারেরা রেখে গেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Letters and Meanings Alike",
+          "bn": "হরফও রক্ষিত, অর্থও"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws the conclusion that the readings share. The Qur'an is guarded in its sending down, its words guarded and its meanings guarded, and the One who sent it down has taken its guarding upon Himself. Here he cites 15:9: Indeed, it is We who sent down the Reminder, and indeed, We will be its guardian. The guarding in his account is something Allah does, not something people achieve. Al-Muyassar puts it the same way: the Book is mighty because Allah made it so and preserved it from every change and substitution.",
+            "bn": "সা'দী সব ব্যাখ্যার অভিন্ন সিদ্ধান্তটা টেনে আনেন। নাযিলের সময়েই কুরআন সুরক্ষিত, এর শব্দ সুরক্ষিত, এর অর্থও সুরক্ষিত। যিনি নাযিল করেছেন, এর হেফাজতের দায়িত্ব তিনি নিজেই নিয়েছেন। এখানে তিনি ১৫:৯ উদ্ধৃত করেন: নিশ্চয়ই আমিই উপদেশবাণী নাযিল করেছি, আর আমিই এর হেফাজতকারী। তাঁর ব্যাখ্যায় এই হেফাজত আল্লাহর কাজ, মানুষের অর্জন নয়। মুয়াসসারও একইভাবে বলে: কিতাবটি মহাপরাক্রান্ত, কারণ আল্লাহ একে মর্যাদা দিয়েছেন এবং সব রকম পরিবর্তন ও বদল থেকে রক্ষা করেছেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an presses the point about meaning. It argues that the guarding is not limited to the words, since the Qur'an is the name of both words and meanings, and that its meanings and rulings were safeguarded through the Prophet ﷺ and his Companions. It uses at-Tabari's line, through Abu Hayyan, to name two routes of tampering: open addition or deletion, which it assigns to the front, and covert distortion of meaning by false interpretation, which it assigns to the back. At-Tabari's own wording, quoted above, pairs the sides the other way round.",
+            "bn": "মাআরিফুল কুরআন অর্থের দিকটায় জোর দেয়। তার যুক্তি, হেফাজত শুধু শব্দে সীমাবদ্ধ নয়, কারণ কুরআন শব্দ ও অর্থ দুয়েরই নাম। নবী ﷺ ও তাঁর সাহাবিদের মাধ্যমে এর অর্থ ও বিধানও রক্ষা পেয়েছে। আবু হাইয়ানের মাধ্যমে তাবারীর ব্যাখ্যা নিয়ে সে বিকৃতির দুটি পথের কথা বলে। একটি প্রকাশ্যে যোগ করা বা বাদ দেওয়া, যাকে সে সামনে দিয়ে আসা বলে। অন্যটি ভুল ব্যাখ্যা দিয়ে গোপনে অর্থ বিকৃত করা, যাকে বলে পেছন দিয়ে আসা। অথচ আগে উদ্ধৃত তাবারীর নিজের ভাষায় দুই দিকের জোড় উল্টো।"
+          },
+          {
+            "en": "The difference in pairing changes little in substance. Both accounts name the same two routes, a change to the text and a change to its sense, and both say that neither succeeds. Ma'arif adds a plain observation about the text: it is read and recited across the world, held by heart by hundreds of thousands, and if anyone makes even a slight slip in reciting it, young and old, scholars and the unlettered, raise their voices to correct him. Anyone who has heard a reciter corrected mid-prayer has seen it in small.",
+            "bn": "জোড় মেলানোর এই পার্থক্যে মূল কথার তেমন হেরফের হয় না। দুই ব্যাখ্যাতেই একই দুটি পথের কথা আছে: পাঠে পরিবর্তন আর অর্থে পরিবর্তন। দুটোতেই বলা হয়েছে, কোনো পথেই সফল হওয়া যায় না। মাআরিফুল কুরআন পাঠ নিয়ে একটি সাধারণ পর্যবেক্ষণও যোগ করে। সারা দুনিয়ায় এটি পড়া ও তিলাওয়াত করা হয়, লক্ষ লক্ষ মানুষের এটি মুখস্থ। কেউ তিলাওয়াতে সামান্য ভুল করলেও ছোট-বড়, আলেম ও নিরক্ষর সবাই তা শুধরে দিতে আওয়াজ তোলে। নামাযের মধ্যে ইমামের ভুল শুধরে দিতে যিনি শুনেছেন, তিনি এর ছোট্ট নমুনা দেখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From the Wise, the Praised",
+          "bn": "প্রজ্ঞাময়, প্রশংসিতের কাছ থেকে"
+        },
+        "p": [
+          {
+            "en": "Tanzilun min hakimin hamid: a revelation from a Lord Wise and Praiseworthy. Ibn Kathir reads this second half as the reason for the first: falsehood has no path to it because it is sent down from the Lord of the worlds, and that is why He said a revelation from a Lord Wise and Praiseworthy. Wise, he says, in His sayings and His acts; hamid in the sense of mahmud, praised, in all that He commands and forbids, everything in it praiseworthy in its outcomes and its aims. The source of the Book answers for its soundness.",
+            "bn": "তানযীলুম মিন হাকীমিন হামীদ: মহাপ্রজ্ঞাময়, প্রশংসিত সত্তার কাছ থেকে নাযিলকৃত। ইবন কাসীর এই দ্বিতীয় অংশকে প্রথম অংশের কারণ হিসেবে পড়েন। মিথ্যা এর কাছে আসার পথ পায় না, কারণ এটি নাযিল হয়েছে জগতসমূহের রবের কাছ থেকে। এজন্যই বলা হয়েছে, মহাপ্রজ্ঞাময়, প্রশংসিত সত্তার কাছ থেকে নাযিলকৃত। তাঁর ব্যাখ্যায় তিনি হাকীম তাঁর কথায় ও কাজে। আর হামীদ মানে মাহমূদ, প্রশংসিত। তিনি যা আদেশ করেন ও যা নিষেধ করেন, তার সবকিছুর পরিণাম ও লক্ষ্য প্রশংসনীয়। কিতাব কোথা থেকে এসেছে, সেটিই এর নির্ভুলতার জামিন।"
+          },
+          {
+            "en": "At-Tabari reads hakim as possessing wisdom in managing His servants and directing them to what is good for them, and hamid as praised for the favours He has given them. As-Sa'di says He is wise in His creation and His command, putting each thing in its place, and praised for His attributes of perfection, His justice and His bounty. For that reason, he adds, His Book holds complete wisdom, securing benefit and warding off harm. Al-Qurtubi gives two short glosses: from Ibn Abbas, wise in His creation; from Qatadah, wise in His command.",
+            "bn": "তাবারীর ব্যাখ্যায় হাকীম মানে বান্দাদের বিষয় পরিচালনায় এবং তাদের কল্যাণের দিকে চালিত করায় প্রজ্ঞার অধিকারী। আর হামীদ মানে তাদের দেওয়া নিয়ামতের জন্য প্রশংসিত। সা'দী বলেন, তিনি সৃষ্টিতে ও আদেশে প্রজ্ঞাময়, প্রতিটি জিনিস যথাস্থানে রাখেন। পূর্ণতার গুণাবলি, ইনসাফ ও অনুগ্রহের জন্য তিনি প্রশংসিত। এ কারণেই, সা'দী যোগ করেন, তাঁর কিতাবে আছে পরিপূর্ণ প্রজ্ঞা, যা কল্যাণ এনে দেয় আর অনিষ্ট দূর করে। কুরতুবী দুটি সংক্ষিপ্ত ব্যাখ্যা দেন। ইবন আব্বাস (রাঃ) থেকে: সৃষ্টিতে প্রজ্ঞাময়। কাতাদা থেকে: আদেশে প্রজ্ঞাময়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Comfort in the Next Line",
+          "bn": "পরের আয়াতেই সান্ত্বনা"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi ends his note on our verse with one sentence: then He consoled His Prophet ﷺ over their denial. That consolation is 41:43, nothing is said to you except what was already said to the messengers before you. Ibn Kathir reports Qatadah, as-Suddi and others on it: just as you have been denied, they were denied, and just as they bore their people's harm with patience, so should you. The order matters. First the Book is declared beyond the reach of falsehood; then the one who brings it is told that rejection does not touch that.",
+            "bn": "আমাদের আয়াতের আলোচনা বাগাভী শেষ করেন একটি বাক্যে: এরপর আল্লাহ তাদের অস্বীকারের ব্যাপারে তাঁর নবী ﷺ-কে সান্ত্বনা দিলেন। সেই সান্ত্বনা ৪১:৪৩ আয়াত: তোমাকে তা-ই বলা হচ্ছে, যা তোমার আগের রাসূলদেরও বলা হয়েছিল। ইবন কাসীর এ আয়াতে কাতাদা, সুদ্দী ও অন্যদের ব্যাখ্যা আনেন: তোমাকে যেমন অস্বীকার করা হয়েছে, তাঁদেরও তেমনি করা হয়েছিল। তাঁরা যেমন নিজ কওমের কষ্ট ধৈর্যের সঙ্গে সয়েছেন, তুমিও তেমনি সয়ে যাও। ক্রমটা লক্ষ করার মতো। আগে ঘোষণা আসে, কিতাব মিথ্যার নাগালের বাইরে। তারপর বাহককে জানানো হয়, মানুষের প্রত্যাখ্যান সেই সত্যকে ছোঁয় না।"
+          },
+          {
+            "en": "Then 41:44 takes up the objection that the Qur'an might have come in a foreign tongue, and calls it guidance and healing for those who believe. The people these verses describe are those who rejected the Reminder when it came to them. The text describes what it describes, and it licenses nothing against any living person or community; it is not a verdict to pass on a neighbour. None of the commentaries fetched for this verse attaches a hadith to it, and none gives an occasion of revelation, so it is read here in its place in Fussilat.",
+            "bn": "এরপর ৪১:৪৪ আয়াত সেই আপত্তির জবাব দেয় যে কুরআন অনারব ভাষায় এলে কী হতো, আর ঘোষণা করে, মুমিনদের জন্য এটি হিদায়াত ও শিফা। এ আয়াতগুলো বর্ণনা দেয় তাদের, যারা উপদেশবাণী আসার পর তা প্রত্যাখ্যান করেছিল। আয়াত যা বর্ণনা করে, ঠিক ততটুকুই বলে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ থেকে মেলে না। প্রতিবেশীর উপর রায় দেওয়ার জন্যও এ আয়াত নয়। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটি এর সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো প্রেক্ষাপটও উল্লেখ করেনি। তাই আয়াতটিকে এখানে পড়া হয়েছে সূরা ফুসসিলাতে এর নিজের অবস্থানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Reader Comes In",
+          "bn": "পাঠকের ভাগে যা থাকে"
+        },
+        "p": [
+          {
+            "en": "Every commentator above makes the guarding Allah's work. None of them hands it to the reader. Yet two verses earlier, 41:40 speaks of those who yulhiduna in Allah's verses, and Ibn Kathir reports Ibn Abbas defining ilhad as putting words in places that are not theirs. At-Tabari's chosen reading names exactly that as one of falsehood's two routes: turning a meaning away from what it is. The text stays as it was sent down. What remains open to any reader is the private route, a verse quietly bent towards what he wanted it to say.",
+            "bn": "উপরের সব তাফসীরকারের কাছে হেফাজত আল্লাহর কাজ। তাঁদের কেউই এ দায়িত্ব পাঠকের হাতে তুলে দেননি। তবু দুই আয়াত আগে ৪১:৪০ বলেছে তাদের কথা, যারা আল্লাহর আয়াতে ইলহাদ করে। ইবন কাসীর ইবন আব্বাস (রাঃ) থেকে আনেন, ইলহাদ মানে কথাকে তার জায়গা থেকে সরিয়ে অন্য জায়গায় বসানো। তাবারীর বেছে নেওয়া ব্যাখ্যায় মিথ্যার দুটি পথের একটি ঠিক এটাই: কোনো অর্থকে তার আসল অর্থ থেকে সরিয়ে দেওয়া। পাঠ যেমন নাযিল হয়েছিল, তেমনই আছে। যে পথ যেকোনো পাঠকের সামনে খোলা থাকে, তা ব্যক্তিগত পথ: নিজের মনমতো অর্থের দিকে চুপচাপ একটি আয়াতকে বাঁকিয়ে নেওয়া।"
+          },
+          {
+            "en": "That makes the verse a question as well as a statement. If falsehood cannot reach this Book from before or behind, the only falsehood I can bring to it is my own, carried in with the questions I refuse to ask. The commentators show a way to read against that: set the clause beside its neighbours, hear how the people of interpretation differed, and let a disagreement stand where they let it stand. A revelation from the Wise, the Praiseworthy deserves a reader who expects to be corrected by it.",
+            "bn": "তাই আয়াতটি একই সঙ্গে ঘোষণা, আবার প্রশ্নও। মিথ্যা যদি সামনে বা পেছন কোনো দিক দিয়েই এ কিতাবে পৌঁছাতে না পারে, তবে এর কাছে আমি যে মিথ্যা নিয়ে যেতে পারি, তা কেবল আমার নিজের। যে প্রশ্নগুলো আমি করতে চাই না, সেগুলোর আড়ালেই তা ঢোকে। তাফসীরকারেরা এর বিপরীতে পড়ার একটা ধারা দেখিয়ে দেন। আয়াতের অংশটিকে পাশের আয়াতগুলোর সঙ্গে মিলিয়ে দেখা, তাফসীরকারদের মতভেদ মন দিয়ে শোনা, আর তাঁরা যেখানে মতভেদ রেখে গেছেন সেখানে তা থাকতে দেওয়া। মহাপ্রজ্ঞাময়, প্রশংসিত সত্তার কাছ থেকে আসা কিতাব এমন পাঠকের হক রাখে, যে এর কাছে শোধরানোর আশায় আসে।"
+          }
+        ]
+      }
+    ]
+  },
   "41:44": {
     "sections": [
       {
