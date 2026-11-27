@@ -2935,6 +2935,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:58": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Portraits, One Lord",
+          "bn": "চার ছবি, এক রব"
+        },
+        "p": [
+          {
+            "en": "Wa-lladhina hum bi-ayati rabbihim yu'minun: and those who believe in the signs of their Lord. Five Arabic words, and the second of four traits. The passage before it described people who take wealth and sons as proof that good is being hastened to them, and 23:56 closed on the verdict that they do not perceive. Al-Qurtubi, at 23:57, explains the turn: having finished with the deniers and the warning to them, Allah follows with the believers who hasten to good deeds, gives them His promise, and describes them by their most telling qualities.",
+            "bn": "ওয়াল্লাযীনা হুম বিআয়াতি রাব্বিহিম ইউমিনূন: আর যারা তাদের রবের নিদর্শনে ঈমান রাখে। আরবিতে মাত্র পাঁচটি শব্দ, চারটি গুণের মধ্যে দ্বিতীয়টি। আগের আয়াতগুলোতে ছিল এমন লোকদের কথা, যারা ধনসম্পদ আর ছেলেসন্তানকে ধরে নেয় এই প্রমাণ হিসেবে যে তাদের দিকে কল্যাণ দ্রুত পাঠানো হচ্ছে। ২৩:৫৬ শেষ হয়েছে এই রায়ে: বরং তারা বোঝে না। এরপরের মোড়টা কুরতুবী ২৩:৫৭-এর আলোচনায় ব্যাখ্যা করেন। কাফিরদের কথা আর তাদের প্রতি হুঁশিয়ারি শেষ করে আল্লাহ এবার আনেন কল্যাণকাজে দ্রুতগামী মুমিনদের কথা। তাদের প্রতিশ্রুতি দেন, আর পরিচয় দেন তাদের সবচেয়ে গভীর গুণগুলো দিয়ে।"
+          },
+          {
+            "en": "The four verses are built alike. Each opens with alladhina, those who; the first three add the pronoun hum, they; and each names their Lord: from fear of their Lord in 23:57, in the signs of their Lord here, with their Lord in 23:59, to their Lord in 23:60. Then 23:61 gathers them all: it is those who hasten to good deeds. So this verse is not a creed to be read on its own. It is one stroke in a portrait that is summed up only at the end.",
+            "bn": "চারটি আয়াতের গড়ন একই রকম। প্রতিটি শুরু হয় আল্লাযীনা দিয়ে, অর্থাৎ যারা। প্রথম তিনটিতে সঙ্গে আছে হুম সর্বনাম, অর্থাৎ তারা। আর প্রতিটিতে আছে তাদের রবের নাম: ২৩:৫৭-এ রবের ভয়, এখানে রবের নিদর্শন, ২৩:৫৯-এ রবের সঙ্গে শরিক না করা, ২৩:৬০-এ রবের কাছে ফিরে যাওয়া। তারপর ২৩:৬১ সবাইকে এক জায়গায় জড়ো করে: এরাই কল্যাণকাজে দ্রুত এগিয়ে যায়। তাই এ আয়াত আলাদা করে পড়ার মতো কোনো আকিদার ঘোষণা নয়। এ এক ছবির একটি রেখা, যে ছবির সারকথা আসে একেবারে শেষে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear Given Something to Read",
+          "bn": "ভয়ের পাশে বিশ্বাস"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di, introducing 23:57, sets the two groups side by side. The deniers had combined wrongdoing with a sense of safety, claiming that what Allah gave them in this world proved their goodness and merit; now He mentions those who combined doing good with fear. Ibn Kathir, in the abridged English on this group of verses, relays a saying of al-Hasan al-Basri to the same effect: the believer combines excellence with awe, while the disbeliever combines evil deeds with a sense of security.",
+            "bn": "২৩:৫৭-এর ভূমিকায় সা'দী দুই দলকে পাশাপাশি দাঁড় করান। অস্বীকারকারীরা অন্যায় আর নিশ্চিন্ত ভাব একসঙ্গে ধরে রেখেছিল। তাদের দাবি ছিল, দুনিয়ায় আল্লাহ তাদের যা দিয়েছেন, সেটাই তাদের ভালোত্ব আর মর্যাদার প্রমাণ। এবার আল্লাহ উল্লেখ করেন তাদের কথা, যারা নেক আমলের সঙ্গে ভয়কে মিলিয়েছে। এই আয়াতগুচ্ছের ওপর ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে হাসান বসরীর একটি উক্তি আছে, কথা একই: মুমিন ইহসানের সঙ্গে ভয় মেলায়, আর কাফির মন্দ কাজের সঙ্গে মেলায় নিশ্চিন্ত থাকার ভাব।"
+          },
+          {
+            "en": "Read in that light, the order of the traits speaks to the reader, even though no fetched commentator explains it. Fear comes first, but fear alone can turn into shapeless worry. The verse that follows gives it ground to stand on: signs that tell the fearful who their Lord is, what He wants, and what He has promised. The deniers of 23:55 read the gifts in their hands as a verdict in their own favour. The people of this verse read a different set of signs, and read them as addressed to themselves.",
+            "bn": "এভাবে পড়লে গুণগুলোর ক্রম পাঠকের কাছে কিছু বলে, যদিও সংগৃহীত কোনো তাফসীর এ ক্রমের ব্যাখ্যা দেয় না। ভয় আসে প্রথমে। কিন্তু শুধু ভয় সহজেই দিশাহীন দুশ্চিন্তায় গিয়ে ঠেকতে পারে। পরের আয়াত সেই ভয়কে দাঁড়ানোর জমিন দেয়: এমন নিদর্শন, যা ভীত মানুষকে জানিয়ে দেয় তার রব কে, তিনি কী চান, কী ওয়াদা করেছেন। ২৩:৫৫-এর অস্বীকারকারীরা হাতের নিয়ামতকে নিজেদের পক্ষে রায় বলে পড়েছিল। এ আয়াতের মানুষেরা পড়ে অন্য নিদর্শন, আর পড়ে এমনভাবে যেন সেগুলো তাদেরকেই উদ্দেশ করে বলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "To Affirm, and to Act",
+          "bn": "সত্য মানা, মেনে চলা"
+        },
+        "p": [
+          {
+            "en": "What does yu'minun mean here? Three commentators reach for the same verb. At-Tabari: those who affirm as true the verses of His Book and His proofs, musaddiqun. Al-Baghawi gives a single word: yusaddiqun, they affirm. The Muyassar writes that they affirm the verses of Allah in the Qur'an, and then adds a second verb: wa-ya'maluna biha, and they act on them. Affirmation is where all three begin. Only the Muyassar, of the three, writes the acting into the gloss itself.",
+            "bn": "এখানে ইউমিনূন শব্দের মানে কী? তিনজন তাফসীরকার একই ক্রিয়ার দিকে হাত বাড়ান। তাবারী বলেন: যারা তাঁর কিতাবের আয়াত আর তাঁর প্রমাণগুলোকে সত্য বলে মানে, মুসাদ্দিকূন। বাগাভী দেন একটিমাত্র শব্দ: ইউসাদ্দিকূন, তারা সত্য বলে মানে। মুয়াসসার লেখে, তারা কুরআনে আল্লাহর আয়াতগুলোকে সত্য বলে মানে। তারপর জুড়ে দেয় দ্বিতীয় ক্রিয়া: ওয়া ইয়া'মালূনা বিহা, আর সেগুলো অনুযায়ী আমল করে। তিনজনেরই শুরু সত্য বলে মানা থেকে। তবে তিনজনের মধ্যে কেবল মুয়াসসারই আমলের কথাটা ব্যাখ্যার ভেতরেই লিখে দেয়।"
+          },
+          {
+            "en": "The addition is small, and it changes the shape of the trait. To believe in a sign, on the Muyassar's reading, is not only to hold it true but to let it move the hand and the foot. That fits the portrait's close: the people described here are those who hasten to good deeds in 23:61, not those who merely assent. It also sits well beside as-Sa'di's gloss, below, in which belief is something that grows. A belief that changed nothing would look out of place between a verse of fear and a verse of giving.",
+            "bn": "সংযোজনটা ছোট, কিন্তু গুণটার চেহারা বদলে দেয়। মুয়াসসারের পাঠে নিদর্শনে ঈমান মানে শুধু তা সত্য বলে ধরে রাখা নয়, তা দিয়ে হাত-পা চালানোও। ছবির শেষ রেখার সঙ্গেও এটা মেলে। ২৩:৬১ এদের পরিচয় দেয় কল্যাণকাজে দ্রুতগামী বলে, শুধু সম্মতি দেওয়া লোক বলে নয়। নিচে সা'দীর ব্যাখ্যাও আসছে, যেখানে ঈমান এমন জিনিস যা বাড়ে। যে ঈমান কিছুই বদলায় না, ভয়ের আয়াত আর দানের আয়াতের মাঝখানে তাকে বেমানান লাগত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Signs of Decree and Command",
+          "bn": "তাকদীর ও বিধানের নিদর্শন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir divides the signs in two: they believe in His ayat kawniyya and His ayat shar'iyya, the signs of His creating and the signs of His law. The first are what He brings into being and decrees; the second are what He reveals and commands. To show what belief in both looks like, he cites what the Qur'an says of Maryam (AS) in 66:12: wa-saddaqat bi-kalimati rabbiha wa-kutubihi, and she affirmed the words of her Lord and His scriptures.",
+            "bn": "ইবন কাসীর নিদর্শনগুলোকে দুই ভাগে ভাগ করেন: তারা ঈমান রাখে তাঁর আয়াতে কাওনিয়্যা ও আয়াতে শার'ইয়্যায়, অর্থাৎ সৃষ্টির নিদর্শনে আর শরিয়তের নিদর্শনে। প্রথমটি হলো যা তিনি অস্তিত্বে আনেন ও নির্ধারণ করেন। দ্বিতীয়টি হলো যা তিনি নাযিল করেন ও আদেশ করেন। দুটোতেই ঈমান দেখতে কেমন, তা বোঝাতে তিনি আনেন ৬৬:১২-তে মারইয়াম (আঃ) সম্পর্কে কুরআনের কথা: ওয়া সাদ্দাকাত বিকালিমাতি রাব্বিহা ওয়া কুতুবিহী, আর তিনি তাঁর রবের বাণী ও তাঁর কিতাবসমূহকে সত্য বলে মেনেছিলেন।"
+          },
+          {
+            "en": "His gloss on her affirmation spells it out. She was certain that whatever came to be came only from Allah's measure and decree, qadar and qada'. And whatever Allah legislated, if it was a command, was among what He loves and is pleased with; if it was a prohibition, it was among what He dislikes and refuses. Belief in the signs of His creating is then a way of receiving events. Belief in the signs of His law is a way of receiving commands: as something He loves, not merely something imposed.",
+            "bn": "তাঁর এই মেনে নেওয়ার ব্যাখ্যা ইবন কাসীর খুলে বলেন। মারইয়াম (আঃ) দৃঢ় বিশ্বাস রাখতেন, যা কিছু ঘটে তা ঘটে শুধু আল্লাহর তাকদীর ও ফয়সালায়। আর আল্লাহ যা বিধান দিয়েছেন, তা আদেশ হলে এমন কিছু যা তিনি ভালোবাসেন ও যাতে তিনি সন্তুষ্ট। নিষেধ হলে এমন কিছু যা তিনি অপছন্দ করেন ও প্রত্যাখ্যান করেন। তাহলে সৃষ্টির নিদর্শনে ঈমান হলো ঘটনাকে গ্রহণ করার এক ধরন। শরিয়তের নিদর্শনে ঈমান হলো আদেশকে গ্রহণ করার এক ধরন: তা তাঁর পছন্দের জিনিস, শুধু চাপিয়ে দেওয়া বোঝা নয়।"
+          },
+          {
+            "en": "Ibn Kathir's sentence has a third clause, which the fetched Arabic prints with the word khayr and the abridged English renders as 'if it was good, it would be true.' Its sense is unclear in the text as fetched, so it is set aside here. The two clear clauses are enough for the point. Maryam (AS) met whatever came to be as decree, and met what was revealed as what He loves. On Ibn Kathir's reading, this verse describes the same double reception among those who hasten to good.",
+            "bn": "ইবন কাসীরের বাক্যে তৃতীয় একটি অংশও আছে। সংগৃহীত আরবি পাঠে সেখানে খাইর শব্দটি ছাপা, আর সংক্ষিপ্ত ইংরেজি সংস্করণ তার অনুবাদ করেছে: যদি তা ভালো হয়, তবে তা সত্য। সংগৃহীত পাঠে এর অর্থ পরিষ্কার নয়, তাই এখানে তা বাদ রাখা হলো। পরিষ্কার দুটি অংশই মূল কথার জন্য যথেষ্ট। যা কিছু ঘটেছে, মারইয়াম (আঃ) তাকে নিয়েছেন তাকদীর হিসেবে। আর যা নাযিল হয়েছে, তাকে নিয়েছেন তাঁর ভালোবাসার জিনিস হিসেবে। ইবন কাসীরের পাঠে এ আয়াত কল্যাণে দ্রুতগামীদের মধ্যে ঠিক এই দুই রকম গ্রহণের কথাই বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Far the Signs Extend",
+          "bn": "শব্দটি কতদূর ছড়ায়"
+        },
+        "p": [
+          {
+            "en": "Here the commentators differ in breadth, and the difference is worth keeping. The Muyassar confines the signs to the verses of Allah in the Qur'an. At-Tabari speaks of the verses of His Book and His proofs, hujaj, a word that may reach beyond the text, though he does not say how far. Ibn Kathir names both the signs of creating and the signs of law, and as-Sa'di, as the next sections show, names the Qur'anic verses and the signs on the horizons. None argues against another; each draws the circle at a different size.",
+            "bn": "এখানে তাফসীরকারদের মধ্যে পরিসরের পার্থক্য আছে, আর পার্থক্যটা ধরে রাখার মতো। মুয়াসসার নিদর্শনকে কুরআনে আল্লাহর আয়াতের মধ্যেই সীমিত রাখে। তাবারী বলেন তাঁর কিতাবের আয়াত আর তাঁর হুজাজ, অর্থাৎ প্রমাণের কথা। শব্দটি হয়তো লিখিত পাঠের বাইরেও যায়, তবে কতদূর, তা তিনি বলেন না। ইবন কাসীর সৃষ্টির নিদর্শন ও শরিয়তের নিদর্শন দুটোরই নাম নেন। আর সা'দী, পরের অংশগুলোতে যেমন দেখা যাবে, নাম নেন কুরআনের আয়াত আর দিগন্তের নিদর্শনের। কেউ কারও বিরুদ্ধে যুক্তি দেন না। প্রত্যেকে কেবল বৃত্তটা আঁকেন ভিন্ন মাপে।"
+          },
+          {
+            "en": "The surah itself uses the word both ways. In 23:30, after the flood, Allah says that in that are signs. In 23:45 Musa (AS) and Harun (AS) are sent with Our signs, and in 23:50 the son of Maryam and his mother are made a sign. Then, a few verses later, 23:66 tells the deniers that My verses were recited to you, and 23:105 repeats the reproach in the next world. Whichever circle a reader draws, the surah has already set signs of event and signs of speech before him.",
+            "bn": "সূরাটি নিজেই শব্দটা দুই অর্থে ব্যবহার করে। ২৩:৩০-এ প্লাবনের পর আল্লাহ বলেন, এতে রয়েছে নিদর্শন। ২৩:৪৫-এ মূসা (আঃ) ও হারূন (আঃ)-কে পাঠানো হয় আমার নিদর্শনসহ। ২৩:৫০-এ মারইয়াম-পুত্র ও তাঁর মাকে বানানো হয় এক নিদর্শন। তারপর এ আয়াতের কয়েক আয়াত পরেই ২৩:৬৬ অস্বীকারকারীদের বলে, আমার আয়াত তোমাদের পড়ে শোনানো হতো। ২৩:১০৫ আখিরাতে সেই তিরস্কারই আবার করে। পাঠক যে মাপের বৃত্তই আঁকুন, সূরাটি আগেই তাঁর সামনে রেখে দিয়েছে ঘটনার নিদর্শন আর বাণীর নিদর্শন দুটোই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faith That Rises When Recited",
+          "bn": "তিলাওয়াতে বাড়ে ঈমান"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di gives the fullest reading. When His verses are recited to them, they increase them in faith. He cites no verse for it, but the words are close to the Qur'an's own description of believers in 8:2: when His verses are recited to them, it increases them in faith. On this reading belief in the signs is not a fixed amount, acquired once and stored away. It is a state that rises when the verses are heard, and a reader can watch for that rise in himself.",
+            "bn": "সবচেয়ে পূর্ণ ব্যাখ্যা দেন সা'দী। তাঁর আয়াত যখন তাদের সামনে তিলাওয়াত করা হয়, তা তাদের ঈমান বাড়িয়ে দেয়। এর জন্য তিনি কোনো আয়াতের হাওয়ালা দেন না, তবে কথাটা মুমিনদের সম্পর্কে ৮:২-এ কুরআনের নিজের বর্ণনার খুব কাছাকাছি: তাদের কাছে যখন তাঁর আয়াত পড়া হয়, তা তাদের ঈমান বৃদ্ধি করে। এ পাঠে নিদর্শনে ঈমান একবার পেয়ে তুলে রাখার মতো নির্দিষ্ট পরিমাণ নয়। এ এমন অবস্থা, আয়াত শুনলে যা বাড়ে। পাঠক নিজের ভেতরে সেই বাড়াটা খেয়াল করে দেখতে পারেন।"
+          },
+          {
+            "en": "He continues: they also reflect on the Qur'anic verses and ponder them, yatadabbarunaha. Through that pondering there becomes clear to them the meanings of the Qur'an, its majesty, its agreement with itself, and its freedom from discord and contradiction. There also becomes clear what it calls to: knowledge of Allah, fear of Him and hope in Him, and the states of the recompense. From all of this, he says, there arise in them details of faith that the tongue cannot express.",
+            "bn": "সা'দী আরও বলেন, তারা কুরআনের আয়াত নিয়ে চিন্তা করে, তাদাব্বুর করে, ইয়াতাদাব্বারূনাহা। এই তাদাব্বুরে তাদের কাছে খুলে যায় কুরআনের অর্থ, তার মহিমা, নিজের সঙ্গে তার মিল, আর তাতে কোনো বিরোধ বা স্ববিরোধ না থাকা। খুলে যায় সে কীসের দিকে ডাকে: আল্লাহকে চেনা, তাঁকে ভয় করা ও তাঁর কাছে আশা রাখা, আর প্রতিদানের নানা অবস্থা। তিনি বলেন, এসব থেকে তাদের ভেতরে জন্ম নেয় ঈমানের এমন খুঁটিনাটি, যা মুখের ভাষায় বলা যায় না।"
+          },
+          {
+            "en": "The same surah asks the deniers, in 23:68, have they not pondered the word? The verb there is the one as-Sa'di uses here. What the deniers failed to do is exactly what these believers do, and the contrast is drawn within ten verses. As-Sa'di's last phrase also carries a quiet caution against measuring faith only by what can be put into words. The fruit of pondering, on his account, lies partly beyond speech, which is a reason to keep pondering rather than stop at what can be said.",
+            "bn": "এই সূরাই ২৩:৬৮-এ অস্বীকারকারীদের জিজ্ঞেস করে, তারা কি এ বাণী নিয়ে তাদাব্বুর করে না? সেখানকার ক্রিয়া আর সা'দীর এখানকার ক্রিয়া একই। অস্বীকারকারীরা যা করেনি, এই মুমিনরা ঠিক তা-ই করে, আর তুলনাটা টানা হয়েছে দশটি আয়াতের মধ্যেই। সা'দীর শেষ কথাটিতে নিঃশব্দ একটা সতর্কতাও আছে: যতটুকু ভাষায় আনা যায়, ঈমানকে শুধু তা দিয়ে মাপা ঠিক নয়। তাঁর বর্ণনায় তাদাব্বুরের ফল খানিকটা কথার বাইরে থাকে। যা বলা যায় সেখানে থেমে না গিয়ে তাদাব্বুর চালিয়ে যাওয়ার কারণ এটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading the Horizons Too",
+          "bn": "দিগন্তের পাতা পড়া"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di then widens the circle. They also reflect, he says, on al-ayat al-ufuqiyya, the signs on the horizons, and he cites 3:190: in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding, adding, to the end of the verses. The next verse there, 3:191, describes those people as remembering Allah standing, sitting and lying on their sides, and reflecting on the creation of the heavens and the earth.",
+            "bn": "এরপর সা'দী বৃত্তটা আরও বড় করেন। তিনি বলেন, তারা চিন্তা করে আল-আয়াতুল উফুকিয়্যা নিয়েও, অর্থাৎ দিগন্তের নিদর্শন। সঙ্গে আনেন ৩:১৯০: নিশ্চয়ই আসমানসমূহ ও যমীনের সৃষ্টিতে এবং রাত ও দিনের আবর্তনে জ্ঞানবানদের জন্য নিদর্শন রয়েছে। তারপর যোগ করেন, আয়াতগুলোর শেষ পর্যন্ত। পরের আয়াত ৩:১৯১ এই মানুষদের বর্ণনা দেয় এভাবে: তারা দাঁড়িয়ে, বসে ও শুয়ে আল্লাহকে স্মরণ করে, আর আসমান ও যমীনের সৃষ্টি নিয়ে চিন্তা করে।"
+          },
+          {
+            "en": "His adjective comes from afaq, horizons, the word the Qur'an uses in 41:53: We will show them Our signs in the horizons and within themselves. So the believer of this verse reads two books, the one recited and the one spread out, and both are called ayat. Nothing in as-Sa'di's gloss makes the second a substitute for the first. The horizons confirm and widen; the recited verses name, command and promise. To believe in the signs of one's Lord, read this way, is to keep both books open.",
+            "bn": "তাঁর বিশেষণটি এসেছে আফাক শব্দ থেকে, যার অর্থ দিগন্তসমূহ। ৪১:৫৩-তে কুরআন এই শব্দই ব্যবহার করে: আমি তাদের দেখাব আমার নিদর্শন দিগন্তে এবং তাদের নিজেদের মধ্যেও। তাহলে এ আয়াতের মুমিন দুটি বই পড়েন, একটি তিলাওয়াত করা হয়, অন্যটি চারদিকে মেলে রাখা। দুটোরই নাম আয়াত। সা'দীর ব্যাখ্যায় এমন কিছু নেই যাতে দ্বিতীয়টি প্রথমটির বিকল্প হয়ে যায়। দিগন্ত সমর্থন জোগায়, পরিধি বাড়ায়। আর তিলাওয়াতের আয়াত নাম জানায়, আদেশ দেয়, ওয়াদা শোনায়। এভাবে পড়লে রবের নিদর্শনে ঈমান মানে দুটো বই-ই খোলা রাখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Contrast Stops",
+          "bn": "তুলনা যেখানে থামে"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it, and none gives an occasion of revelation. The well-known report from 'A'isha about those whose hearts are afraid belongs to 23:60, where Ibn Kathir and al-Qurtubi discuss it, and it is left to that verse here. What 23:58 offers is the trait itself and the readings above: affirmation and action, decree and command, the recited verses and the horizons.",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করে না, কোনো শানে নুযূলও দেয় না। যাদের অন্তর ভীত থাকে, তাদের সম্পর্কে আয়েশা (রাঃ)-এর প্রসিদ্ধ বর্ণনাটি ২৩:৬০-এর। সেখানে ইবন কাসীর ও কুরতুবী তা আলোচনা করেন, তাই এখানে তা সেই আয়াতের জন্যই রেখে দেওয়া হলো। ২৩:৫৮ যা দেয়, তা হলো গুণটি নিজে আর ওপরের পাঠগুলো: সত্য বলে মানা ও আমল, তাকদীর ও আদেশ, তিলাওয়াতের আয়াত আর দিগন্ত।"
+          },
+          {
+            "en": "The portrait is drawn against people who misread their wealth, whose hearts, in 23:63, are covered in confusion, and who, in 23:66, turned on their heels when the verses were recited. The verse describes what the text describes. It licenses nothing against any living person or community, and gives no one a list for sorting neighbours into those who believe in the signs and those who do not. Its traits are inward, and the only heart a reader can inspect is his own.",
+            "bn": "ছবিটি আঁকা হয়েছে এমন লোকদের বিপরীতে, যারা নিজেদের সম্পদের ভুল অর্থ করেছিল। ২৩:৬৩ অনুযায়ী তাদের অন্তর বিভ্রান্তিতে ঢাকা, আর ২৩:৬৬ অনুযায়ী আয়াত পড়ে শোনানো হলে তারা পেছন ফিরে চলে যেত। আয়াতটি শুধু তা-ই বর্ণনা করে, যা পাঠে আছে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এতে নেই। কে নিদর্শনে ঈমান রাখে আর কে রাখে না, প্রতিবেশীদের এভাবে ভাগ করার কোনো তালিকাও এ আয়াত কাউকে দেয় না। এর গুণগুলো ভেতরের, আর পাঠক কেবল একটি অন্তরই খুলে দেখতে পারেন: নিজেরটা।"
+          },
+          {
+            "en": "So the questions turn inward. When a verse is recited in prayer, does anything rise? When a command comes, is it heard as something He loves, or as a burden? When something happens that I did not choose, do I meet it as decree? And the last time I watched the night give way to the day, did I read it as a sign, or only as the hour? The verse is five words long. Living up to it is the work of a lifetime.",
+            "bn": "তাই প্রশ্নগুলো ফিরে আসে নিজের দিকে। নামাযে কোনো আয়াত তিলাওয়াত হলে ভেতরে কি কিছু বাড়ে? কোনো আদেশ এলে কি তা তাঁর পছন্দের জিনিস বলে শুনি, নাকি বোঝা বলে? নিজের বাছাই না করা কিছু ঘটলে কি তাকে তাকদীর বলে গ্রহণ করি? আর শেষবার যখন রাতকে দিনের কাছে জায়গা ছেড়ে দিতে দেখেছি, তখন কি তাকে নিদর্শন বলে পড়েছি, নাকি শুধু সময় বলে? আয়াতটি পাঁচ শব্দের। তার মাপে বাঁচা এক জীবনের কাজ।"
+          }
+        ]
+      }
+    ]
+  },
   "23:62": {
     "sections": [
       {

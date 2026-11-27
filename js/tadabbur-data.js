@@ -34959,6 +34959,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "You were spread across the earth by Allah and will be gathered back to Him; live wherever you are placed as one already on the road home, not as one who has arrived.",
     "lessonBn": "আল্লাহ আপনাকে পৃথিবীতে ছড়িয়ে দিয়েছেন, আর তাঁর কাছেই আপনাকে একত্র করা হবে; যেখানেই থাকুন, এমনভাবে বাঁচুন যেন আপনি ঘরে ফেরার পথে আছেন, পৌঁছে যাননি।"
+  },
+  "23:58": {
+    "reflectionEn": "Between a verse about fear and a verse about refusing any partner stands this short one: and those who believe in the signs of their Lord. Fear on its own can become shapeless worry; here it is given something to read. The signs are the verses recited from the Book and the signs spread across creation, the heavens and the earth and the turning of night into day. To believe in them is more than agreeing that they are true. It is letting a recited verse add to faith, hearing a command as something He loves, and meeting what happens as His decree. Do the verses I hear each week change anything in me? When did I last read the sky as a sign?",
+    "reflectionBn": "ভয়ের আয়াত আর শিরক না করার আয়াতের মাঝখানে দাঁড়িয়ে আছে এই ছোট্ট আয়াত: আর যারা তাদের রবের নিদর্শনে ঈমান রাখে। শুধু ভয় অনেক সময় দিশাহীন দুশ্চিন্তায় গিয়ে ঠেকে। এখানে সেই ভয় পায় পড়ার মতো কিছু। নিদর্শন হলো কিতাব থেকে তিলাওয়াত করা আয়াত, আর সৃষ্টিজুড়ে ছড়ানো নিদর্শন: আসমান-যমীন, রাতের দিনে বদলে যাওয়া। এগুলোতে ঈমান মানে শুধু সত্য বলে মেনে নেওয়া নয়। তিলাওয়াত শুনে ঈমান বাড়তে দেওয়া, আদেশকে তাঁর পছন্দের জিনিস বলে শোনা, আর যা ঘটে তাকে তাঁর ফয়সালা বলে গ্রহণ করা। প্রতি সপ্তাহে যে আয়াতগুলো শুনি, সেগুলো কি আমার ভেতরে কিছু বদলায়? শেষ কবে আকাশকে নিদর্শন বলে পড়েছি?",
+    "pointsEn": [
+      "When a verse is recited in prayer, do I notice anything rise in me, or has hearing it become routine?",
+      "Which command of God do I accept as true but have not yet let change what I do?",
+      "When something happens that I did not choose, do I meet it as His decree or only as bad luck?",
+      "When did I last stop over the night giving way to day and read it as a sign addressed to me?",
+      "Do I hear God's commands as things He loves, or only as burdens laid on me?"
+    ],
+    "pointsBn": [
+      "নামাযে কোনো আয়াত তিলাওয়াত হলে আমার ভেতরে কিছু বেড়ে ওঠে কি না টের পাই, নাকি শোনাটা নিছক অভ্যাস হয়ে গেছে?",
+      "আল্লাহর কোন আদেশকে আমি সত্য বলে মানি, অথচ এখনো তাকে আমার কাজে কোনো বদল আনতে দিইনি?",
+      "নিজের বাছাই না করা কিছু ঘটলে আমি কি তাকে তাঁর ফয়সালা বলে গ্রহণ করি, নাকি শুধু দুর্ভাগ্য বলে ধরে নিই?",
+      "শেষ কবে রাতকে দিনের কাছে জায়গা ছেড়ে দিতে দেখে থেমেছি, আর তাকে আমার উদ্দেশে পাঠানো নিদর্শন বলে পড়েছি?",
+      "আল্লাহর আদেশগুলো কি আমি তাঁর পছন্দের জিনিস বলে শুনি, নাকি কেবল ঘাড়ে চাপানো বোঝা বলে?"
+    ],
+    "lessonEn": "Believe in God's signs by letting His recited verses change what you do and by reading His creation as a message, not by agreeing and staying the same.",
+    "lessonBn": "তিলাওয়াতের আয়াতকে নিজের কাজ বদলাতে দিয়ে আর সৃষ্টিকে বার্তা হিসেবে পড়ে আল্লাহর নিদর্শনে ঈমান আনুন। শুধু মেনে নিয়ে আগের মতোই থেকে যাওয়া যথেষ্ট নয়।"
   }
 };
 
