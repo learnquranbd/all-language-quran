@@ -34559,6 +34559,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Judge as one whom Allah is watching, and when something of yours has done harm, look for the remedy that restores what was lost.",
     "lessonBn": "এমনভাবে বিচার করুন যেন আল্লাহ দেখছেন, আর আপনার কোনো কিছু থেকে ক্ষতি হলে এমন প্রতিকার খুঁজুন যাতে হারানো জিনিস ফিরে আসে।"
+  },
+  "21:56": {
+    "reflectionEn": "They asked whether he was serious or only joking, and part of them hoped he was joking. He did not protest his sincerity or raise his voice. He named their Lord: the Lord of the heavens and the earth, who first brought them into being, and the statues they sat beside were among the things He made. Then he placed himself under the claim: and to that I am one of those who bear witness. A witness does not float an opinion; he states what he knows and stands behind it in public. Here the answer to mockery is not anger but a clearer word about God. When my faith is laughed at, do I answer with heat, or with the truth said plainly and owned?",
+    "reflectionBn": "তারা জানতে চাইল, সে কি সত্যি বলছে, নাকি নিছক মজা করছে। মনে মনে হয়তো চাইছিল, কথাটা মজাই হোক। তিনি নিজের আন্তরিকতার দোহাই দেননি, গলাও চড়াননি। তিনি শুধু তাদের রবের পরিচয় দিলেন: তিনি আসমান ও জমিনের রব, যিনি এগুলোকে প্রথম অস্তিত্বে এনেছেন। যে মূর্তিগুলোর পাশে তারা বসে থাকে, সেগুলোও তাঁরই বানানো জিনিস। তারপর তিনি নিজেকে এই দাবির নিচে দাঁড় করালেন: আর এ কথার ওপর আমি সাক্ষীদের একজন। সাক্ষী কোনো আন্দাজ ছুড়ে দেয় না। সে যা জানে তা বলে, আর সবার সামনে সে কথার দায় নেয়। ঠাট্টার জবাব এখানে রাগ নয়, আল্লাহ সম্পর্কে আরও পরিষ্কার একটি কথা। আমার ঈমান নিয়ে কেউ হাসলে আমি কি উত্তেজিত হয়ে জবাব দিই, নাকি সত্যটা সোজা ভাষায় বলে তার দায় নিজের কাঁধে নিই?",
+    "pointsEn": [
+      "When someone treats what I believe as a joke, is my first reply about my hurt feelings or about the truth itself?",
+      "Do I speak of Allah only as my Lord, or can I tell others gently that He is already their Lord too?",
+      "Which things in my life do I treat as if they held power, though Allah made them just as He made me?",
+      "If I call myself a witness to Allah's oneness, does the way I spent this week back up what my words claim?",
+      "Can I give a reason for my faith that a doubter could actually weigh, or only a feeling I cannot explain?"
+    ],
+    "pointsBn": [
+      "আমার বিশ্বাসকে কেউ ঠাট্টা বলে উড়িয়ে দিলে আমার প্রথম জবাবটা কি নিজের আহত মন নিয়ে, নাকি সত্যটা নিয়ে?",
+      "আল্লাহকে আমি কি শুধু আমার রব বলেই জানি, নাকি অন্যদেরও নরম করে বলতে পারি যে তিনি আগে থেকেই তাদেরও রব?",
+      "জীবনের কোন জিনিসগুলোকে আমি এমনভাবে দেখি যেন তাদের হাতে ক্ষমতা আছে, অথচ আল্লাহ সেগুলোকেও বানিয়েছেন, যেমন আমাকে বানিয়েছেন?",
+      "নিজেকে যদি আল্লাহর একত্বের সাক্ষী বলি, এ সপ্তাহটা যেভাবে কাটালাম তা কি আমার মুখের কথার পক্ষে সাক্ষ্য দেয়?",
+      "আমার ঈমানের পক্ষে কি এমন কোনো যুক্তি দিতে পারি যা একজন সংশয়ী মানুষ যাচাই করে দেখতে পারে, নাকি শুধু এমন এক অনুভূতি যা বুঝিয়ে বলতে পারি না?"
+    ],
+    "lessonEn": "Answer mockery of the truth with the truth stated plainly: your Lord is the One who made the heavens and the earth, and the believer stands as a witness to it.",
+    "lessonBn": "সত্য নিয়ে ঠাট্টার জবাব দিন সত্যটা সোজা ভাষায় বলে: আপনার রব তিনিই, যিনি আসমান ও জমিন বানিয়েছেন, আর মুমিন এ কথার সাক্ষী হয়ে দাঁড়ায়।"
   }
 };
 

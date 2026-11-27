@@ -2499,6 +2499,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:56": {
+    "sections": [
+      {
+        "h": {
+          "en": "Not a Joke but a Lord",
+          "bn": "তামাশা নয়, রবের পরিচয়"
+        },
+        "p": [
+          {
+            "en": "Qala bal rabbukum rabbu s-samawati wa-l-ardi lladhi fatarahunna, wa-ana 'ala dhalikum mina sh-shahidin: he said, no, rather your Lord is the Lord of the heavens and the earth, who created them, and to that I am one of the witnesses. The verse is a reply. Ibrahim (AS) had told his people that they and their fathers were in manifest error (21:54), and they answered with a choice: have you come to us with the truth, or are you one of those who jest (21:55)?",
+            "bn": "কালা বাল রাব্বুকুম রাব্বুস সামাওয়াতি ওয়াল আরদিল্লাযী ফাতারাহুন্না, ওয়া আনা আলা যালিকুম মিনাশ শাহিদীন: সে বলল, না, বরং তোমাদের রব আসমান ও জমিনের রব, যিনি এগুলো সৃষ্টি করেছেন, আর এ কথার ওপর আমি সাক্ষীদের একজন। আয়াতটি একটি জবাব। ইবরাহীম (আঃ) তাঁর জাতিকে বলেছিলেন, তারা আর তাদের পিতৃপুরুষেরা স্পষ্ট গোমরাহিতে আছে (২১:৫৪)। উত্তরে তারা তাঁর সামনে দুটো পথ রাখল: তুমি কি আমাদের কাছে সত্য নিয়ে এসেছ, নাকি তুমি তামাশাকারীদের একজন (২১:৫৫)?"
+          },
+          {
+            "en": "Ibn Kathir's abridged commentary gives the sense of their question: these words you are saying, are you speaking in jest or telling the truth, for we have never heard such a thing before. Sayyid Abul A'la Maududi, in Tafhim al-Qur'an, reads the same doubt from inside their certainty. They were so sure their creed was true, he writes, that they could not imagine anyone being serious in declaring it false. The question was less an inquiry than a way out: perhaps he was only playing.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত তাফসীর তাদের প্রশ্নের মানে খুলে বলে: এই যে কথাগুলো বলছ, তুমি কি ঠাট্টা করছ, নাকি সত্য বলছ? কারণ এমন কথা আমরা আগে কখনো শুনিনি। সাইয়্যেদ আবুল আ'লা মওদূদী তাফহীমুল কুরআনে একই সন্দেহকে দেখেন তাদের আত্মবিশ্বাসের ভেতর থেকে। তাঁর মতে নিজেদের ধর্মবিশ্বাসকে তারা এতটাই সত্য ভাবত যে কেউ গুরুত্ব দিয়ে সেটাকে মিথ্যা বলতে পারে, এ তাদের কল্পনাতেও আসত না। তাই প্রশ্নটা যতটা না জানার চেষ্টা, তার চেয়ে বেশি পালানোর একটা পথ: হয়তো লোকটা শুধু মজা করছে।"
+          },
+          {
+            "en": "The first word of his answer closes that way out. At-Tabari spells it out: bal ji'tukum bi-l-haqqi la l-la'ib, rather I have come to you with the truth, not with play. Al-Qurtubi puts it in his own words, lastu bi-la'ib, I am not one who jests. Ibrahim (AS) does not argue for his own sincerity at all. He turns from himself to God, and lets the weight of what he says about his Lord show whether he is serious.",
+            "bn": "তাঁর জবাবের প্রথম শব্দটাই সেই পালানোর পথ বন্ধ করে দেয়। তাবারী কথাটা খুলে বলেন: বাল জি'তুকুম বিল হাক্কি লাল লা'ইব, বরং আমি তোমাদের কাছে সত্য নিয়ে এসেছি, খেলা নিয়ে নয়। কুরতুবী নিজের ভাষায় বলেন, লাসতু বিলা'ইব, আমি তামাশাকারী নই। নিজের আন্তরিকতার পক্ষে ইবরাহীম (আঃ) একটি কথাও বলেন না। তিনি নিজের দিক থেকে চোখ সরিয়ে আল্লাহর কথা বলেন। তিনি সত্যি বলছেন কি না, তা বোঝা যাবে রব সম্পর্কে তাঁর কথার ভার থেকেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Your Lord, Already Yours",
+          "bn": "তিনি আগে থেকেই তোমাদের রব"
+        },
+        "p": [
+          {
+            "en": "Notice the pronoun. He does not say my Lord; he says rabbukum, your Lord. Al-Muyassar keeps that edge: your Lord, whom I call you to worship, is the Lord of the heavens and the earth who created them. Al-Qurtubi widens the word: your Lord, wa-l-qa'imu bi-tadbirikum, the One who carries out the ordering of your affairs, the Creator of the heavens and the earth. Al-Jalalayn glosses it as the only One worthy of being worshipped, the Owner of both.",
+            "bn": "সর্বনামটা খেয়াল করুন। তিনি বলেননি আমার রব, বলেছেন রাব্বুকুম, তোমাদের রব। মুয়াসসার এই ধারটা ধরে রাখে: তোমাদের রব, যাঁর ইবাদতের দিকে আমি তোমাদের ডাকছি, তিনিই আসমান ও জমিনের রব, যিনি এগুলো সৃষ্টি করেছেন। কুরতুবী শব্দটাকে আরও প্রশস্ত করেন: তোমাদের রব, ওয়াল কা'ইমু বিতাদবীরিকুম, যিনি তোমাদের সব বিষয়ের ব্যবস্থাপনা করছেন, আসমান ও জমিনের স্রষ্টা। জালালাইন এর ব্যাখ্যায় বলে, তিনিই একমাত্র ইবাদতের যোগ্য, এ দুয়ের মালিক।"
+          },
+          {
+            "en": "Read together, these glosses show what kind of claim Ibrahim (AS) is making. He is not offering his people another god to set beside the statues. He is telling them who their Lord already is. Ibn Kathir puts it as rabbukumu lladhi la ilaha ghayruh, your Lord besides whom there is no other god. On this reading He who orders their lives was ordering them even as they sat devoted to the images. They had not lacked a Lord; they had misplaced their worship.",
+            "bn": "ব্যাখ্যাগুলো পাশাপাশি রাখলে বোঝা যায় ইবরাহীম (আঃ) কী ধরনের দাবি করছেন। তিনি মূর্তিগুলোর পাশে বসানোর জন্য আরেকজন দেবতা হাজির করছেন না। তিনি জানিয়ে দিচ্ছেন, তাদের রব আগে থেকেই কে। ইবন কাসীরের ভাষায়: রাব্বুকুমুল্লাযী লা ইলাহা গাইরুহ, তোমাদের রব, যিনি ছাড়া আর কোনো ইলাহ নেই। এ ব্যাখ্যা অনুযায়ী মূর্তির সামনে ভক্তিতে বসে থাকার সময়ও যিনি তাদের জীবন চালাচ্ছিলেন, তিনি তিনিই। তাদের রবের অভাব ছিল না। ইবাদতটাই তারা ভুল জায়গায় রেখেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Brought Into Being First",
+          "bn": "যিনি প্রথম অস্তিত্বে আনলেন"
+        },
+        "p": [
+          {
+            "en": "The verb is fatara, and the commentators read it with care. Ibn Kathir says your Lord is He who created the heavens and the earth and the creatures they contain, alladhi btada'a khalqahunn, who began their creation, and He is the Creator of all things. Al-Qurtubi pairs two verbs: khalaqahunna wa-abda'ahunn, He created them and brought them forth new. Al-Jalalayn says He originated them, creating them without any precedent. Al-Baghawi and al-Muyassar keep the plain gloss: He created them.",
+            "bn": "ক্রিয়াটি ফাতারা, আর তাফসীরকারেরা একে যত্ন নিয়ে পড়েন। ইবন কাসীর বলেন, তোমাদের রব তিনিই, যিনি আসমান ও জমিন আর এগুলোর ভেতরের সব সৃষ্টিকে বানিয়েছেন, আল্লাযিবতাদা'আ খালকাহুন্ন, যিনি এগুলোর সৃষ্টি শুরু করেছেন। তিনিই সবকিছুর স্রষ্টা। কুরতুবী দুটি ক্রিয়া পাশাপাশি আনেন: খালাকাহুন্না ওয়া আবদা'আহুন্ন, তিনি এগুলো সৃষ্টি করেছেন এবং নতুন করে উদ্ভাবন করেছেন। জালালাইন বলে, তিনি এগুলোর সূচনা করেছেন, আগের কোনো নমুনা ছাড়াই। বাগাভী ও মুয়াসসার সাদামাটা অর্থেই থাকেন: তিনি এগুলো সৃষ্টি করেছেন।"
+          },
+          {
+            "en": "The pronoun in fatarahunna is a feminine plural. Ibn Kathir makes its referent explicit, the heavens and the earth, and none of the commentators read for this verse takes it any other way. That reading carries the argument. At-Tabari sets the Lord who created the heavens and the earth against the statues: He is the Lord, duna t-tamathil, and not the images. Here stands the Maker of the whole frame of things; there, figures shaped by hand inside that frame.",
+            "bn": "ফাতারাহুন্না শব্দের সর্বনামটি স্ত্রীবাচক বহুবচন। ইবন কাসীর স্পষ্ট করে বলে দেন, এটি আসমান ও জমিনকে বোঝায়। এ আয়াতের জন্য পড়া কোনো তাফসীরই একে অন্য কিছুর দিকে ফেরায় না। যুক্তির ভারটা এখানেই। তাবারী আসমান ও জমিনের স্রষ্টা রবকে দাঁড় করান মূর্তিগুলোর বিপরীতে: তিনিই রব, দূনাত তামাসীল, মূর্তিগুলো নয়। এক দিকে গোটা সৃষ্টিজগতের কাঠামো যিনি বানিয়েছেন, তিনি। অন্য দিকে সেই কাঠামোর ভেতরেই হাতে গড়া কিছু মূর্তি।"
+          },
+          {
+            "en": "The same verb comes back to Ibrahim (AS) elsewhere in the Qur'an. In 6:79 he says, I have turned my face to the One who fatara the heavens and the earth, inclining to the truth. In 43:26 and 43:27 he tells his father and his people that he is free of what they worship, except the One who fatarani, who created me, and He will guide me. In 14:10 the messengers together ask whether there can be doubt about Allah, Fatir of the heavens and the earth.",
+            "bn": "একই ক্রিয়া কুরআনের অন্য জায়গাতেও ইবরাহীম (আঃ)-এর মুখে ফিরে আসে। ৬:৭৯ আয়াতে তিনি বলেন, আমি একনিষ্ঠ হয়ে তাঁর দিকে মুখ ফিরিয়েছি, যিনি আসমান ও জমিন ফাতারা করেছেন। ৪৩:২৬ ও ৪৩:২৭ আয়াতে তিনি পিতা ও জাতিকে জানান, তারা যাদের ইবাদত করে তাদের সঙ্গে তাঁর কোনো সম্পর্ক নেই। সম্পর্ক শুধু তাঁর সঙ্গে, যিনি তাঁকে ফাতারা করেছেন, আর তিনিই তাঁকে পথ দেখাবেন। ১৪:১০ আয়াতে রাসূলেরা একসঙ্গে প্রশ্ন তোলেন: আসমান ও জমিনের ফাতির আল্লাহ সম্পর্কে কি সন্দেহ থাকতে পারে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Statues Among His Works",
+          "bn": "মূর্তিও তাঁরই সৃষ্টির অংশ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari closes his reading of the verse with the conclusion Ibrahim (AS) is drawing: fa-iyyahu fa'budu, so worship Him, la hadhihi t-tamathila llati hiya khalquh, not these statues, which are His creation and which neither harm nor benefit. The phrase which are His creation turns the argument round. The images do not stand outside the heavens and the earth as rivals to their Maker. They stand inside what He made, so the very verse that names the Creator has already counted them among His works.",
+            "bn": "তাবারী আয়াতের ব্যাখ্যা শেষ করেন সেই সিদ্ধান্ত দিয়ে, যেটা ইবরাহীম (আঃ) টানছেন: ফা-ইয়্যাহু ফা'বুদূ, অতএব তাঁরই ইবাদত করো, লা হাযিহিত তামাসীলাল্লাতী হিয়া খালকুহ, এই মূর্তিগুলোর নয়, যেগুলো তাঁরই সৃষ্টি এবং যেগুলো কোনো ক্ষতিও করতে পারে না, উপকারও না। 'যেগুলো তাঁরই সৃষ্টি' কথাটা যুক্তিটাকে ঘুরিয়ে দেয়। মূর্তিগুলো আসমান-জমিনের বাইরে দাঁড়িয়ে তার স্রষ্টার প্রতিদ্বন্দ্বী হয়ে ওঠেনি। তিনি যা বানিয়েছেন তার ভেতরেই সেগুলোর জায়গা। তাই যে আয়াত স্রষ্টার নাম নেয়, সেই আয়াতই এগুলোকে তাঁর সৃষ্টির তালিকায় তুলে রেখেছে।"
+          },
+          {
+            "en": "As-Sa'di draws out the same point in general terms. Allah alone, he writes, is the Creator of every creature, of the children of Adam, the angels, the jinn, the animals, the heavens and the earth, and the One who manages them in every way. So every created thing is mafturan mudabbaran mutasarrafan fih, originated, managed, disposed of by another, wa-dakhala fi dhalika jami'u ma 'ubida min duni llah: and into that falls everything worshipped besides Allah.",
+            "bn": "সা'দী একই কথাকে সাধারণ নিয়মের রূপ দেন। তিনি লেখেন, প্রতিটি সৃষ্টির স্রষ্টা একমাত্র আল্লাহ: আদম সন্তান, ফেরেশতা, জিন, পশুপাখি, আসমান ও জমিন। আর সব ধরনের ব্যবস্থাপনায় এগুলোকে চালান তিনিই। তাই প্রতিটি সৃষ্টি মাফতূরান মুদাব্বারান মুতাসাররাফান ফীহ: অন্যের হাতে তৈরি, অন্যের পরিচালনায় চলে, অন্যের ইচ্ছায় তার ওপর হুকুম চলে। ওয়া দাখালা ফী যালিকা জামী'উ মা উবিদা মিন দূনিল্লাহ: আল্লাহ ছাড়া যার যার ইবাদত করা হয়েছে, সবাই এর ভেতরে পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reason and Report Together",
+          "bn": "বুদ্ধির দলিল, বর্ণনার দলিল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di sees two kinds of proof packed into this one sentence. Ibrahim (AS), he says, answered them with a reply that laid bare the folly of their position, and fa-jama'a lahum bayna d-dalili l-'aqli wa-d-dalili s-sam'i: he brought together for them the proof of reason and the proof of report. The verse's first half is the argument from reason; its second, I am one of the witnesses, is the argument from what a messenger conveys.",
+            "bn": "সা'দী এই এক বাক্যের ভেতরে দুই ধরনের প্রমাণ দেখতে পান। তাঁর মতে ইবরাহীম (আঃ) এমন জবাব দিলেন, যাতে তাদের অবস্থানের বোকামিটা খুলে গেল। ফা-জামা'আ লাহুম বাইনাদ দালীলিল আকলি ওয়াদ দালীলিস সাম'ঈ: তিনি তাদের সামনে বুদ্ধির দলিল আর বর্ণনার দলিল দুটোই একসঙ্গে রাখলেন। আয়াতের প্রথম অংশ বুদ্ধির যুক্তি। দ্বিতীয় অংশ, আমি সাক্ষীদের একজন, সেই যুক্তি যা একজন রাসূল পৌঁছে দেন।"
+          },
+          {
+            "en": "The argument from reason, as-Sa'di frames it, rests on something everyone knew, even the people Ibrahim (AS) was disputing with: that Allah alone created every creature and manages it. Then he asks: does it befit anyone with adna maskatin min 'aqlin wa-tamyiz, the least hold of reason and discernment, to worship a created thing that owns no benefit or harm, no death, life or raising up, and to leave the worship of the Creator, the Provider, the One who manages all?",
+            "bn": "সা'দীর উপস্থাপনায় বুদ্ধির যুক্তি দাঁড়িয়ে আছে এমন এক কথার ওপর, যা সবাই জানত, এমনকি ইবরাহীম (আঃ) যাদের সঙ্গে তর্ক করছিলেন তারাও: প্রতিটি সৃষ্টিকে একমাত্র আল্লাহই সৃষ্টি করেছেন এবং তিনিই তা চালান। তারপর তিনি প্রশ্ন তোলেন: যার আদনা মাসকাতিন মিন আকলিন ওয়া তাময়ীয, সামান্যতম বুদ্ধি ও বিবেচনা আছে, তার পক্ষে কি মানায় এমন এক সৃষ্ট জিনিসের ইবাদত করা, যার হাতে উপকার নেই, ক্ষতি নেই, মৃত্যু নেই, জীবন নেই, পুনরুত্থানও নেই? আর স্রষ্টা, রিজিকদাতা, সব কিছুর ব্যবস্থাপকের ইবাদত ছেড়ে দেওয়া?"
+          },
+          {
+            "en": "The argument from report, he continues, is what is transmitted from the messengers, for what they bring is ma'sum, protected: it does not err and does not tell anything but the truth. A messenger's own testimony is one form of it, and that, he says, is why Ibrahim (AS) added, and to that I am one of the witnesses. Then as-Sa'di asks: what testimony, after the testimony of Allah, stands higher than that of the messengers, above all the resolute among them, and above all the Friend of the Most Merciful?",
+            "bn": "সা'দী আরও বলেন, বর্ণনার দলিল হলো রাসূলদের কাছ থেকে যা এসেছে, কারণ তাঁরা যা নিয়ে আসেন তা মা'সূম, সুরক্ষিত। তাতে ভুল হয় না, সত্য ছাড়া অন্য কোনো খবরও তাতে থাকে না। রাসূলের নিজের সাক্ষ্য এই দলিলেরই একটি রূপ। এ কারণেই, তাঁর মতে, ইবরাহীম (আঃ) যোগ করলেন: আর এ কথার ওপর আমি সাক্ষীদের একজন। তারপর সা'দী প্রশ্ন রাখেন: আল্লাহর সাক্ষ্যের পর রাসূলদের সাক্ষ্যের চেয়ে উঁচু আর কোন সাক্ষ্য হতে পারে? বিশেষ করে দৃঢ়প্রতিজ্ঞ রাসূলদের, আর তাঁদের মধ্যেও বিশেষ করে খলীলুর রহমানের?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Witness to What",
+          "bn": "সাক্ষ্যটা কিসের"
+        },
+        "p": [
+          {
+            "en": "What exactly does Ibrahim (AS) bear witness to? The commentators do not all answer alike. Ibn Kathir reads it as the creed itself: wa-ana ashhadu annahu la ilaha ghayruhu wa-la rabba siwah, I bear witness that there is no god other than Him and no lord besides Him. Al-Baghawi gives two readings. First, that He is the God whom none but He deserves to be worshipped. Then, introduced with wa-qila, it is said: a witness that He is the Creator of the heavens and the earth.",
+            "bn": "ইবরাহীম (আঃ) ঠিক কিসের সাক্ষ্য দিচ্ছেন? তাফসীরকারেরা এর উত্তর একভাবে দেননি। ইবন কাসীর একে পড়েন সরাসরি আকীদার ঘোষণা হিসেবে: ওয়া আনা আশহাদু আন্নাহু লা ইলাহা গাইরুহু ওয়া লা রাব্বা সিওয়াহ, আমি সাক্ষ্য দিই, তিনি ছাড়া কোনো ইলাহ নেই, তিনি ছাড়া কোনো রব নেই। বাগাভী দুটি ব্যাখ্যা দেন। প্রথমটি: তিনিই সেই ইলাহ, যিনি ছাড়া আর কেউ ইবাদতের হকদার নয়। তারপর 'ওয়া কীলা', বলা হয়েছে, এই শব্দে দ্বিতীয়টি আনেন: তিনি যে আসমান ও জমিনের স্রষ্টা, সেই কথার সাক্ষী।"
+          },
+          {
+            "en": "Al-Qurtubi takes the line closest to the verse's wording: 'ala annahu rabbu s-samawati wa-l-ard, a witness that He is the Lord of the heavens and the earth. At-Tabari joins lordship to the right to worship. I bear witness, he has Ibrahim (AS) say, that your Lord is the Lord of the heavens and the earth who originated them, not the statues, and not anyone else besides Him. For him, witness to that lordship is already witness against every rival. Al-Jalalayn and Tanwir al-Miqbas, the commentary attributed to Ibn 'Abbas, keep it general: a witness to what I have said.",
+            "bn": "কুরতুবী আয়াতের শব্দের সবচেয়ে কাছের অর্থটা নেন: আলা আন্নাহু রাব্বুস সামাওয়াতি ওয়াল আরদ, তিনি যে আসমান ও জমিনের রব, তার সাক্ষী। তাবারী রুবূবিয়াতের সঙ্গে ইবাদতের হককে জুড়ে দেন। তাঁর ব্যাখ্যায় ইবরাহীম (আঃ) বলছেন, আমি সাক্ষ্য দিই যে তোমাদের রবই আসমান ও জমিনের রব, যিনি এগুলোর সূচনা করেছেন। মূর্তিগুলো নয়, তিনি ছাড়া আর কেউও নয়। তাবারীর কাছে এই রুবূবিয়াতের সাক্ষ্য দেওয়া মানেই প্রত্যেক প্রতিদ্বন্দ্বীর বিরুদ্ধে সাক্ষ্য দেওয়া। জালালাইন আর ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাস কথাটাকে সাধারণ রাখে: আমি যা বলেছি, তার সাক্ষী।"
+          },
+          {
+            "en": "Al-Qurtubi then gives the word shahid a second edge. Al-shahidu yubayyinu l-hukm, he writes: a witness makes the ruling clear, and from this sense comes shahida llah, Allah bears witness (3:18), meaning Allah has made it plain. So the verse means, in his words, wa-ana ubayyinu bi-d-dalili ma aqul: and I make clear, by proof, what I am saying. Ibn Kathir's reading stresses the declaration and al-Qurtubi's the demonstration, and the texts read here do not weigh one against the other.",
+            "bn": "কুরতুবী এরপর শাহিদ শব্দের আরেকটা দিক দেখান। আশ শাহিদু ইউবাইয়্যিনুল হুকম, তিনি লেখেন: সাক্ষী রায়টা স্পষ্ট করে দেয়। এই অর্থ থেকেই এসেছে 'শাহিদাল্লাহ', আল্লাহ সাক্ষ্য দেন (৩:১৮), অর্থাৎ আল্লাহ বিষয়টা পরিষ্কার করে দিয়েছেন। তাই তাঁর ভাষায় আয়াতের মানে: ওয়া আনা উবাইয়্যিনু বিদ দালীলি মা আকূল, আমি যা বলছি তা দলিল দিয়ে স্পষ্ট করে দিই। ইবন কাসীরের জোর ঘোষণায়, কুরতুবীর জোর প্রমাণে। এখানে পড়া তাফসীরগুলো একটিকে অন্যটির ওপর প্রাধান্য দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Word Before the Deed",
+          "bn": "কাজের আগে কথা"
+        },
+        "p": [
+          {
+            "en": "The verse that follows changes register. Wa-ta-llahi la-akidanna asnamakum, and by Allah, I will surely plan against your idols once you have turned and gone away (21:57). Maududi reads the link between the two as a sequence of proofs: if you do not understand this by argument, he has Ibrahim (AS) mean, I will present a practical proof that these idols are helpless and have no powers. The reasoned word about the Lord of the heavens and the earth comes first, and the rest of the passage stands on it.",
+            "bn": "পরের আয়াতে কথার সুর বদলে যায়। ওয়া তাল্লাহি লা আকীদান্না আসনামাকুম, আল্লাহর কসম, তোমরা পিঠ ফিরিয়ে চলে গেলে আমি অবশ্যই তোমাদের মূর্তিগুলোর বিরুদ্ধে একটা কৌশল নেব (২১:৫৭)। মওদূদী দুই আয়াতের সম্পর্কটাকে দেখেন প্রমাণের ধারাবাহিকতা হিসেবে। তাঁর ব্যাখ্যায় ইবরাহীম (আঃ)-এর কথার মানে: যুক্তি দিয়ে যদি না বোঝো, তবে হাতে-কলমে দেখিয়ে দেব যে এই মূর্তিগুলো অসহায়, এদের কোনো ক্ষমতা নেই। আসমান ও জমিনের রব সম্পর্কে যুক্তিপূর্ণ কথাটা আসে আগে, আর এই অংশের বাকি সবকিছু দাঁড়িয়ে আছে তারই ওপর।"
+          },
+          {
+            "en": "None of the commentaries read for this verse attaches a hadith or an occasion of revelation to it; they explain it from its own words and its place in the dialogue. Read in that place, the reply answers both halves of the question put to him. They asked whether he had come bi-l-haqq, with the truth, or as a jester. He stated the truth itself, about who made the heavens and the earth, and left them to judge whether a jester talks like that.",
+            "bn": "এ আয়াতের জন্য পড়া তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস বা শানে নুযূল যুক্ত করেনি। আয়াতের নিজের শব্দ আর সংলাপের ভেতরে তার জায়গা থেকেই তাঁরা এর ব্যাখ্যা দেন। সেই জায়গায় রেখে পড়লে দেখা যায়, জবাবটা তাঁর সামনে রাখা প্রশ্নের দুই দিকেরই উত্তর দেয়। তারা জানতে চেয়েছিল, তিনি বিল হাক্ক, সত্য নিয়ে এসেছেন, নাকি তামাশা করতে। আসমান ও জমিন কে বানিয়েছেন, সেই সত্যটাই সরাসরি বলে দিয়েছেন। তামাশাকারী কি এভাবে কথা বলে, সে বিচার তাদের হাতেই ছেড়ে দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bearing Witness Today",
+          "bn": "আজকের দিনে সাক্ষ্য"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports a debate between a prophet and his own people, an idol-worshipping community of the past, in a story the Qur'an tells. It describes what it describes, and it licenses nothing against any living person or community: no contempt, no insult and no harm. What Ibrahim (AS) offers in this verse is speech and proof alone. He names the Lord, gives his reason and stands behind it as a witness. What he does next belongs to a prophet's mission and is not a pattern for anyone to copy.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি কুরআনের বলা এক কাহিনির ভেতরে একজন নবী আর তাঁর নিজের জাতির, অতীতের এক মূর্তিপূজারী সমাজের, বিতর্কের বর্ণনা দেয়। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি এ আয়াত দেয় না: তাচ্ছিল্যের না, অপমানের না, ক্ষতির না। এ আয়াতে ইবরাহীম (আঃ) যা দিচ্ছেন তা কেবল কথা আর দলিল। তিনি রবের পরিচয় দেন, যুক্তি দেন, আর সাক্ষী হয়ে সে কথার পেছনে দাঁড়ান। এর পরে তিনি যা করেন, তা একজন নবীর দায়িত্বের অংশ, অন্য কারও অনুকরণের নমুনা নয়।"
+          },
+          {
+            "en": "Turned toward the reader, the verse becomes a model for answering mockery. When faith is treated as something no serious person could hold, the instinct is to defend oneself, one's feelings and one's sincerity. Ibrahim (AS) spends no words on himself. He says something true about God and lets it carry its own weight. And he says your Lord, not my Lord: he speaks to the people laughing at him as people who already belong to the same Lord. That leaves no room for contempt.",
+            "bn": "পাঠকের দিকে ফেরালে আয়াতটি ঠাট্টার জবাব দেওয়ার একটা নমুনা হয়ে ওঠে। ঈমানকে যখন এমন জিনিস ভাবা হয় যা কোনো বুদ্ধিমান মানুষ ধরে রাখতে পারে না, তখন মন চায় নিজেকে বাঁচাতে, নিজের অনুভূতি আর আন্তরিকতার পক্ষে কথা বলতে। ইবরাহীম (আঃ) নিজের জন্য একটি শব্দও খরচ করেননি। আল্লাহ সম্পর্কে একটা সত্য কথা বলেছেন, আর সেই কথাকেই নিজের ভার বইতে দিয়েছেন। তিনি বলেছেন তোমাদের রব, আমার রব নয়। যারা তাঁকে নিয়ে হাসছে, তাদের সঙ্গে তিনি কথা বলছেন এমন মানুষ হিসেবে, যারা আগে থেকেই একই রবের বান্দা। এতে তাচ্ছিল্যের কোনো জায়গা থাকে না।"
+          },
+          {
+            "en": "The two readings of the witness also reach the reader. Ibn Kathir's witness declares there is no god but Him; al-Qurtubi's makes clear by proof what he says. A believer is asked for both: to state the creed without embarrassment, and to be able to give a reason a doubter can weigh. No one else stands where Ibrahim (AS) stood, but everyone who says the same words joins those who bear witness to it, and how they live will show whether they mean it.",
+            "bn": "সাক্ষীর দুই ব্যাখ্যাও পাঠকের কাছে এসে পৌঁছায়। ইবন কাসীরের সাক্ষী ঘোষণা করে, তিনি ছাড়া কোনো ইলাহ নেই। কুরতুবীর সাক্ষী যা বলে, তা দলিল দিয়ে স্পষ্ট করে। মুমিনের কাছে দুটোই চাওয়া হয়: সংকোচ ছাড়া আকীদার কথা বলা, আর এমন যুক্তি দিতে পারা যা একজন সংশয়ী মানুষ যাচাই করে দেখতে পারে। ইবরাহীম (আঃ) যেখানে দাঁড়িয়েছিলেন, সেখানে আর কেউ দাঁড়ায় না। তবু যে-ই একই কথা বলে, সে এর সাক্ষীদের কাতারে শামিল হয়। আর সে কথাটা সত্যিই মানে কি না, তা বলে দেবে তার জীবনযাপন।"
+          }
+        ]
+      }
+    ]
+  },
   "21:59": {
     "sections": [
       {
