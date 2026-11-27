@@ -37253,6 +37253,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Watch the rain, the springs and the field turning yellow, and let them remind you that this world fades and that the One who revives the earth will raise you too.",
     "lessonBn": "বৃষ্টি, ঝর্ণা আর হলুদ হয়ে যাওয়া মাঠের দিকে তাকান। এগুলো আপনাকে মনে করিয়ে দিক, এ দুনিয়া ম্লান হয়ে যায়, আর যিনি মরা মাটিকে জীবিত করেন, তিনি আপনাকেও আবার জীবিত করবেন।"
+  },
+  "39:13": {
+    "reflectionEn": "The man told to say these words had more reason than anyone to feel secure. He carried the message, and others were asked to follow him. Yet he is commanded to say it out loud: I fear, if I disobey my Lord, the punishment of a tremendous Day. The sentence is a condition, not a confession. It names one possibility, turning away from the sincere worship he had just been commanded, and weighs it against a whole Day. If the messenger speaks this way about himself, the words reach every listener with greater force. Where do I treat my standing, my learning or my record as a guarantee? And what small disobedience have I stopped fearing because it has become familiar?",
+    "reflectionBn": "এ কথাগুলো যাঁকে বলতে বলা হয়েছে, নিশ্চিন্ত থাকার কারণ তাঁরই সবচেয়ে বেশি ছিল। বার্তা তিনিই বয়ে এনেছেন, অন্যদের বলা হয়েছে তাঁকে অনুসরণ করতে। তবু তাঁকে আদেশ দেওয়া হলো মুখ খুলে বলতে: আমি যদি আমার রবের নাফরমানি করি, তবে এক মহা দিবসের আযাবের ভয় করি। বাক্যটা শর্ত, স্বীকারোক্তি নয়। এতে একটিমাত্র সম্ভাবনার কথা আছে: যে খাঁটি ইবাদতের আদেশ তিনি এইমাত্র পেয়েছেন, তা থেকে সরে যাওয়া। আর সেই সম্ভাবনাকে মাপা হয়েছে গোটা একটা দিনের সঙ্গে। রাসূল নিজের সম্পর্কে যদি এভাবে বলেন, তবে প্রতিটি শ্রোতার কাছে কথাটা পৌঁছায় আরও জোর নিয়ে। আমি কোথায় নিজের অবস্থান, নিজের জ্ঞান বা নিজের আমলনামাকে নিশ্চয়তা ধরে বসে আছি? আর কোন ছোট নাফরমানির ভয় আমার মন থেকে উঠে গেছে, শুধু এ কারণে যে সেটা অভ্যাস হয়ে গেছে?",
+    "pointsEn": [
+      "If the Prophet ﷺ was told to say he fears that Day, on what grounds do I feel safe from it?",
+      "The disobedience the verse supposes is leaving sincere worship. Where has something other than Allah crept into what I do for Him?",
+      "Which person or pressure around me is quietly inviting me back to what I once left for Allah's sake?",
+      "Does my fear of that Day ever stop me at the moment of a choice, or does it only visit me afterwards?",
+      "When I advise others, do I count myself among those the warning is meant for?"
+    ],
+    "pointsBn": [
+      "নবী ﷺ-কেই যদি বলতে বলা হয় যে তিনি সেই দিনকে ভয় করেন, তবে আমি কিসের ভরসায় নিজেকে নিরাপদ ভাবি?",
+      "আয়াতে যে নাফরমানির কথা ধরা হয়েছে, তা হলো খাঁটি ইবাদত ছেড়ে দেওয়া। আল্লাহর জন্য যা করি, তাতে আল্লাহ ছাড়া আর কী ঢুকে পড়েছে?",
+      "আমার আশপাশের কোন মানুষ বা কোন চাপ আমাকে চুপচাপ সেদিকে ফিরিয়ে নিতে চাইছে, যা আমি একদিন আল্লাহর জন্য ছেড়ে এসেছিলাম?",
+      "সেই দিনের ভয় কি কখনো সিদ্ধান্তের মুহূর্তেই আমাকে থামায়, নাকি শুধু কাজ শেষ হওয়ার পরে মনে পড়ে?",
+      "অন্যকে উপদেশ দেওয়ার সময় আমি কি নিজেকেও সেই সতর্কবাণীর লক্ষ্য বলে গণ্য করি?"
+    ],
+    "lessonEn": "Never treat your faith or standing as a guarantee: fear disobeying your Lord, and let that fear keep your worship sincere for Him alone.",
+    "lessonBn": "নিজের ঈমান বা অবস্থানকে কখনো নিশ্চয়তা ধরে নেবেন না। রবের নাফরমানিকে ভয় করুন, আর সেই ভয় দিয়ে আপনার ইবাদতকে কেবল তাঁর জন্য খাঁটি রাখুন।"
   }
 };
 

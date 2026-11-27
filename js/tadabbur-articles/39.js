@@ -787,6 +787,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "39:13": {
+    "sections": [
+      {
+        "h": {
+          "en": "Third in a Run of Sayings",
+          "bn": "পরপর তিনটি বলার তৃতীয়টি"
+        },
+        "p": [
+          {
+            "en": "Qul inni akhafu in 'asaytu rabbi 'adhaba yawmin 'azim: say, I fear, if I disobey my Lord, the punishment of a tremendous Day. The verse is nine words long, the third in a run of things the Prophet ﷺ is told to say. In 39:11 he was told to say that he had been commanded to worship Allah, making the religion sincerely His. In 39:12 he was told to say that he had been commanded to be the first of those who submit. Two statements of what he was ordered to do are now followed by what he fears.",
+            "bn": "কুল ইন্নী আখাফু ইন আসাইতু রাব্বী আযাবা ইয়াওমিন আযীম: বলুন, আমি যদি আমার রবের নাফরমানি করি, তবে এক মহা দিবসের আযাবের ভয় করি। আয়াতটিতে শব্দ নয়টি। নবী ﷺ-কে পরপর যে কথাগুলো বলতে বলা হচ্ছে, এটি তার তৃতীয়টি। ৩৯:১১ আয়াতে তাঁকে বলতে বলা হয়েছিল, দ্বীনকে আল্লাহর জন্য খাঁটি রেখে তাঁর ইবাদত করার আদেশ তিনি পেয়েছেন। ৩৯:১২ আয়াতে বলতে বলা হয়েছিল, সর্বপ্রথম মুসলিম হওয়ার আদেশও তিনি পেয়েছেন। কী করার আদেশ এসেছে, এমন দুটি কথার পর এবার এল তিনি কিসের ভয় করেন, সেই কথা।"
+          },
+          {
+            "en": "After it the passage turns outward. In 39:14 he says, Allah alone do I worship, sincere to Him in my religion, and 39:15 tells the listeners to worship what they will besides Him, then names the losers as those who lose themselves and their families on the Day of Resurrection. Ibn Kathir's abridged English, treating 39:13 to 39:16 together, calls that permission in 39:15 a threat and a disowning of them. So the fear in this verse sits at a hinge: commands before it, a declaration and a warning after it.",
+            "bn": "এরপর আলোচনা বাইরের দিকে ঘোরে। ৩৯:১৪ আয়াতে তিনি বলেন, আমি আল্লাহরই ইবাদত করি, আমার দ্বীনকে তাঁর জন্য খাঁটি রেখে। ৩৯:১৫ আয়াত শ্রোতাদের বলে, তাঁকে ছেড়ে তোমাদের যার খুশি ইবাদত কর। তারপর জানিয়ে দেয়, ক্ষতিগ্রস্ত তারাই যারা কিয়ামতের দিন নিজেদের আর পরিবার-পরিজনকে হারায়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৩৯:১৩ থেকে ৩৯:১৬ পর্যন্ত এক অংশ ধরে পড়ে। সেখানে ৩৯:১৫ আয়াতের ওই অনুমতিকে বলা হয়েছে হুমকি, আর তাদের থেকে সম্পর্কচ্ছেদ। তাই এ আয়াতের ভয় দাঁড়িয়ে আছে একটা সন্ধিস্থলে। আগে আদেশ, পরে ঘোষণা আর সতর্কবাণী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nine Words, Each Doing Work",
+          "bn": "নয় শব্দ, প্রতিটির আলাদা কাজ"
+        },
+        "p": [
+          {
+            "en": "Each word carries part of the point. Qul, say, puts the sentence in the Prophet's mouth by command: it is given to him to speak, not reported about him. Inni, indeed I, is emphatic, and akhafu, I fear, is the present form of the verb, a fear held rather than felt once. Then comes the condition, in 'asaytu rabbi, if I disobey my Lord. A condition supposes a case; it does not report that the case has happened. Ibn Kathir's Arabic text says so in two words: wa-hadha shart, and this is a condition.",
+            "bn": "প্রতিটি শব্দ কথার একটা অংশ বহন করে। কুল, বলুন: বাক্যটা আদেশের সূত্রে নবী ﷺ-এর মুখে তুলে দেওয়া হয়েছে। এটা তাঁকে বলতে দেওয়া কথা, তাঁর সম্পর্কে কারও বর্ণনা নয়। ইন্নী, নিশ্চয়ই আমি: এতে জোর আছে। আখাফু, আমি ভয় করি: ক্রিয়াটি বর্তমান কালের, অর্থাৎ ভয়টা একবার জেগে মিলিয়ে যায়নি, মনে ধরে রাখা আছে। তারপর শর্ত: ইন আসাইতু রাব্বী, যদি আমি আমার রবের নাফরমানি করি। শর্ত একটা অবস্থা ধরে নেয়, ঘটে গেছে বলে খবর দেয় না। ইবন কাসীরের আরবি পাঠ কথাটা বলে দুই শব্দে: ওয়া হাযা শার্ত, এটি একটি শর্ত।"
+          },
+          {
+            "en": "The object of the fear is 'adhaba yawmin 'azim, the punishment of a tremendous Day. The adjective 'azim agrees with yawm, so it is the Day that is called tremendous. At-Tabari, al-Muyassar and Ibn Kathir all identify it as the Day of Resurrection, and at-Tabari, followed almost word for word by al-Muyassar, explains the adjective: dhalika huwa al-yawm alladhi ya'zumu hawluhu, that is the Day whose terror is great. The punishment takes its weight from the Day on which it falls, and the Lord whose disobedience is supposed is named rabbi, my own Lord.",
+            "bn": "ভয়ের বিষয় আযাবা ইয়াওমিন আযীম, এক মহা দিবসের আযাব। আযীম বিশেষণটি ইয়াওম শব্দের সঙ্গে মিলে আছে, তাই মহা বলা হয়েছে দিনটিকেই। তাবারী, মুয়াসসার আর ইবন কাসীর তিনজনই বলেন, এ দিন কিয়ামতের দিন। বিশেষণের অর্থও তাবারী খুলে বলেন, আর মুয়াসসার প্রায় হুবহু তাঁর কথাই নেয়: যালিকা হুয়াল ইয়াওমুল্লাযী ইয়াযুমু হাওলুহু, এটি সেই দিন যার বিভীষিকা ভয়ংকর। আযাবের ভার আসে সেই দিন থেকে, যেদিন তা নেমে আসবে। আর যাঁর নাফরমানির কথা ধরে নেওয়া হচ্ছে, তাঁকে ডাকা হয়েছে রাব্বী বলে, আমার নিজের রব।"
+          },
+          {
+            "en": "The clause is not unique to this surah. 6:15 is the same verse word for word, and in 10:15 the same words close the answer to those who asked for a different Qur'an; both are treated in their own places. Here the sentence is read where Surah az-Zumar sets it, straight after the commands to sincere worship and to being first in submission.",
+            "bn": "বাক্যটি শুধু এ সূরাতেই নেই। ৬:১৫ আয়াত হুবহু এই আয়াতই। আর ১০:১৫ আয়াতে, যারা অন্য রকম একটা কুরআন চেয়েছিল তাদের যে জবাব দেওয়া হয়েছে, তার শেষে এই কথাগুলোই এসেছে। সেগুলোর আলোচনা নিজ নিজ জায়গায়। এখানে বাক্যটি পড়া হচ্ছে সূরা যুমার যেখানে এটি রেখেছে, সেখানেই: খাঁটি ইবাদত আর সর্বপ্রথম আত্মসমর্পণের আদেশের ঠিক পরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Disobeying in Which Matter?",
+          "bn": "নাফরমানি কোন ব্যাপারে?"
+        },
+        "p": [
+          {
+            "en": "The verse says only, if I disobey my Lord. The commentators do not leave the disobedience open. At-Tabari supplies the missing object: if I disobey my Lord fima amarani bihi min 'ibadatihi, in what He commanded me of worshipping Him, mukhlisan lahu at-ta'a, making obedience sincere for Him, and mufridahu bi-r-rububiyya, singling Him out in lordship. Al-Muyassar gives the same reading in plainer words: if I disobey my Lord in what He commanded me of worshipping Him and of sincerity in obeying Him. On both readings the feared disobedience is defined by the verse just before.",
+            "bn": "আয়াতে শুধু আছে: যদি আমি আমার রবের নাফরমানি করি। তাফসীরকারেরা নাফরমানির বিষয়টা খোলা রাখেননি। তাবারী বাদ পড়া অংশটুকু জুড়ে দেন: যদি আমি নাফরমানি করি ফীমা আমারানী বিহী মিন ইবাদাতিহী, তাঁর ইবাদতের যে আদেশ তিনি আমাকে দিয়েছেন তাতে। মুখলিসান লাহুত তাআ, আনুগত্য কেবল তাঁর জন্য খাঁটি রেখে। মুফরিদাহু বির রুবূবিয়্যা, রব হিসেবে কেবল তাঁকেই এক বলে মেনে। মুয়াসসার সহজ কথায় একই পাঠ দেয়: তাঁর ইবাদত আর তাঁর আনুগত্যে ইখলাসের যে আদেশ তিনি দিয়েছেন, তাতে যদি নাফরমানি করি। দুই পাঠেই যে নাফরমানির ভয়, তার সংজ্ঞা আসে ঠিক আগের আয়াত থেকে।"
+          },
+          {
+            "en": "As-Sa'di ties it to both earlier commands at once: if I disobey my Lord fima amarani bihi min al-ikhlas wa-l-islam, in what He commanded me of sincerity and submission. Ikhlas is the command of 39:11 and islam the command of 39:12, so his gloss reads the three verses as one unit. Al-Baghawi narrows it further. His whole note on the condition is two words added to the verse: wa-'abadtu ghayrahu, and I worshipped other than Him. For him the disobedience in view is not any slip but the worship of something besides Allah.",
+            "bn": "সা'দী একসঙ্গে আগের দুই আদেশের সঙ্গেই একে বাঁধেন: যদি নাফরমানি করি ফীমা আমারানী বিহী মিনাল ইখলাসি ওয়াল ইসলাম, ইখলাস আর ইসলামের যে আদেশ তিনি আমাকে দিয়েছেন তাতে। ইখলাস হলো ৩৯:১১ আয়াতের আদেশ, ইসলাম ৩৯:১২ আয়াতের। তাই তাঁর ব্যাখ্যায় তিনটি আয়াত মিলে একটিই কথা। বাগাভী বিষয়টা আরও সরু করে আনেন। শর্তের উপর তাঁর পুরো টীকা আয়াতের সঙ্গে জোড়া দুটি শব্দ: ওয়া আবাদতু গাইরাহু, আর আমি যদি তাঁকে ছাড়া অন্যের ইবাদত করি। তাঁর কাছে এখানে যে নাফরমানির কথা, তা যেকোনো ভুলচুক নয়। তা হলো আল্লাহ ছাড়া অন্য কিছুর ইবাদত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Called Back to the Fathers' Way",
+          "bn": "বাপ-দাদার ধর্মে ফেরার ডাক"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi names the setting in which the words were said. Wa-qala hina da'ahu qawmuhu ila dini aba'ihi: he said it when his people called him to the religion of his forefathers. He adds that this is what most of the people of tafsir say. Al-Baghawi gives the same setting in almost the same words: wa-hadha hina du'iya ila dini aba'ihi, and this was when he was called to the religion of his forefathers. Neither attaches a chain or a named narrator to it, and no report of an occasion of revelation was found for this verse.",
+            "bn": "কথাগুলো কোন পরিস্থিতিতে বলা হয়েছিল, কুরতুবী তা জানান: ওয়া কালা হীনা দাআহু কাওমুহু ইলা দীনি আবাইহী, যখন তাঁর কওম তাঁকে বাপ-দাদার ধর্মের দিকে ডেকেছিল, তখন তিনি এ কথা বলেছিলেন। তিনি যোগ করেন, অধিকাংশ তাফসীরবিদ এ কথাই বলেন। বাগাভীও প্রায় একই ভাষায় একই পরিস্থিতির কথা বলেন: ওয়া হাযা হীনা দুইয়া ইলা দীনি আবাইহী, এটা তখনকার কথা, যখন তাঁকে বাপ-দাদার ধর্মের দিকে ডাকা হয়েছিল। দুজনের কেউই এর সঙ্গে কোনো সনদ বা নির্দিষ্ট বর্ণনাকারীর নাম জোড়েননি। এ আয়াতের শানে নুযূল নিয়ে কোনো বর্ণনাও পাওয়া যায়নি।"
+          },
+          {
+            "en": "Tanwir al-Miqbas, the commentary attributed to Ibn Abbas, reads the condition in the same light. Say to them, O Muhammad, if I should disobey my Lord, and it glosses the disobedience as if I revert to your religion. The pressure, on this reading, was not toward some private lapse but toward going back to what his people worshipped. The verse then gives him words for the moment of that invitation. He does not argue about their gods here; he states what he fears, and 39:14 follows with his answer.",
+            "bn": "ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাস শর্তটাকে একই আলোয় পড়ে: হে মুহাম্মাদ, তাদের বলুন, আমি যদি আমার রবের নাফরমানি করি। নাফরমানির ব্যাখ্যায় সেখানে আছে: যদি আমি তোমাদের ধর্মে ফিরে যাই। এ পাঠে চাপটা কোনো গোপন পদস্খলনের দিকে ছিল না। চাপ ছিল তাঁর কওম যার ইবাদত করত, সেদিকে ফিরে যাওয়ার। আয়াত তাঁকে সেই দাওয়াতের মুহূর্তে বলার মতো কথা দিয়ে দেয়। এখানে তিনি তাদের উপাস্যদের নিয়ে তর্কে যান না, শুধু নিজে কিসের ভয় করেন তা বলে দেন। তাঁর জবাব আসে পরের আয়াতে, ৩৯:১৪-তে।"
+          },
+          {
+            "en": "Tanwir al-Miqbas also glosses akhafu, I fear, as I know I will face, and so reads the fear as certainty about the consequence rather than doubt about it. No other commentary consulted has this gloss, so it is recorded as Tanwir's alone. It fits the verse's logic: only the condition is supposed, while the Day and its punishment are spoken of as real.",
+            "bn": "তানবীরুল মিকবাস আখাফু, আমি ভয় করি, শব্দটির ব্যাখ্যাও দেয়: আমি জানি যে আমাকে এর মুখোমুখি হতে হবে। অর্থাৎ ভয়টা পরিণতি নিয়ে সংশয় নয়, পরিণতি সম্পর্কে নিশ্চিত জ্ঞান। অন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিতে এ ব্যাখ্যা নেই, তাই এটা কেবল তানবীরের বলেই রাখা হলো। আয়াতের যুক্তির সঙ্গে অবশ্য মেলে। ধরে নেওয়া হয়েছে শুধু শর্তটুকু, আর দিন ও তার আযাবের কথা এসেছে বাস্তব হিসেবেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken to Be Overheard",
+          "bn": "অন্যের কানে পৌঁছানোর কথা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir begins by naming who is speaking: say, O Muhammad, wa-anta rasulu Allah, and you are the Messenger of Allah. The command to voice this fear is given to the one person in his community whose standing was not in question. Then Ibn Kathir explains why: wa-ma'nahu at-ta'rid bi-ghayrihi bi-tariq al-awla wa-l-ahra. Its meaning is an indirect allusion to others, by way of what is more fitting and more deserving. His abridged English puts it simply: if it applies to the Prophet ﷺ, it applies even more so to others.",
+            "bn": "ইবন কাসীর শুরুতেই বলে দেন কে বলছেন: হে মুহাম্মাদ, বলুন, ওয়া আনতা রাসূলুল্লাহ, অথচ আপনি আল্লাহর রাসূল। এ ভয় মুখে বলার আদেশ পেয়েছেন এমন একজন, যাঁর মর্যাদা নিয়ে তাঁর সমাজে কোনো প্রশ্নই ছিল না। তারপর ইবন কাসীর কারণটা বলেন: ওয়া মানাহুত তা'রীদু বিগাইরিহী বিতারীকিল আওলা ওয়াল আহরা। এর অর্থ অন্যদের প্রতি পরোক্ষ ইঙ্গিত, আর সে ইঙ্গিত তাদের ক্ষেত্রে আরও বেশি প্রযোজ্য। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণ সোজা কথায় বলে: কথাটা যদি নবী ﷺ-এর বেলায় খাটে, তবে অন্যদের বেলায় খাটে আরও বেশি।"
+          },
+          {
+            "en": "At-Tabari and al-Muyassar make the same point through the addressee. At-Tabari has qul ya Muhammad lahum, say to them, O Muhammad, and al-Muyassar has qul ayyuha ar-rasul li-n-nas, say, O Messenger, to the people. The sentence is in the first person, but it is aimed at listeners. None of these commentators reads it as a report that the Prophet ﷺ disobeyed, or came near it. The condition supposes the case so that its cost can be shown, and Ibn Kathir's lesson runs outward, to everyone who hears.",
+            "bn": "তাবারী আর মুয়াসসার একই কথা বলেন শ্রোতার দিক থেকে। তাবারীর ভাষ্যে: কুল ইয়া মুহাম্মাদু লাহুম, হে মুহাম্মাদ, তাদের বলুন। মুয়াসসারে: কুল আইয়্যুহার রাসূলু লিন্নাস, হে রাসূল, মানুষকে বলুন। কথাটা তিনি বলছেন নিজেকে নিয়ে, কিন্তু তার লক্ষ্য শ্রোতারা। এই তাফসীরকারদের কেউ এটাকে এমন খবর হিসেবে পড়েননি যে নবী ﷺ নাফরমানি করেছেন বা তার কাছাকাছি গিয়েছেন। শর্তটা একটা অবস্থা ধরে নেয়, যাতে তার মূল্য দেখানো যায়। আর ইবন কাসীরের শিক্ষা যায় বাইরের দিকে, যে-ই শোনে তার দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A View That It Was Abrogated",
+          "bn": "রহিত হওয়ার একটি মত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records a second, quite different view. Abu Hamza ath-Thumali and Ibn al-Musayyab, he reports, said that this verse is mansukha, abrogated, by the opening of Surah al-Fath, 48:2, in which Allah tells the Prophet ﷺ that He forgives him what came before and what comes after. On their view the verse belongs to the period before that forgiveness was announced. Al-Qurtubi relays the view without arguing with it.",
+            "bn": "কুরতুবী সম্পূর্ণ ভিন্ন আরেকটি মতও উল্লেখ করেন। তিনি জানান, আবু হামযা আস-সুমালী আর ইবনুল মুসাইয়িব বলেছেন, এ আয়াত মানসূখ, অর্থাৎ রহিত। রহিত করেছে সূরা ফাতহের শুরুর আয়াত ৪৮:২, যেখানে আল্লাহ নবী ﷺ-কে জানান যে আগের ও পরের সবকিছু তিনি ক্ষমা করে দিচ্ছেন। তাঁদের মতে আয়াতটি সেই ক্ষমার ঘোষণার আগের সময়ের। কুরতুবী মতটি বর্ণনা করেন, এর সঙ্গে তর্কে যান না।"
+          },
+          {
+            "en": "Ibn Kathir's reading sits differently beside it. He does not discuss abrogation in his note on this verse; he treats the sentence as a lesson that reaches others with greater force. The two readings answer different questions, one about the verse's place in time and one about what it teaches its hearers, and this article sets them side by side without deciding between them. Neither treats the condition as having come true.",
+            "bn": "ইবন কাসীরের পাঠ এর পাশে একটু অন্যভাবে দাঁড়ায়। এ আয়াতের আলোচনায় তিনি রহিত হওয়ার প্রসঙ্গই তোলেন না। বাক্যটাকে তিনি দেখেন এমন শিক্ষা হিসেবে, যা অন্যদের কাছে আরও জোর নিয়ে পৌঁছায়। দুই পাঠ দুটি আলাদা প্রশ্নের জবাব দেয়। একটি প্রশ্ন সময়ের দিক থেকে আয়াতের অবস্থান নিয়ে, অন্যটি শ্রোতাদের জন্য তার শিক্ষা নিয়ে। এ লেখা দুটিকে পাশাপাশি রাখছে, কোনোটির পক্ষে রায় দিচ্ছে না। তবে দুই পাঠের কোনোটিই শর্তটাকে বাস্তবে ঘটে যাওয়া বলে ধরে না।"
+          },
+          {
+            "en": "None of the commentaries consulted attaches a hadith to this verse. One narration not attached to it bears on what the abrogation view raises. Sahih al-Bukhari records from al-Mughira (RA): the Prophet ﷺ used to offer night prayers till his feet became swollen. Somebody said to him, Allah has forgiven you your faults of the past and those to follow. On that he said: Shouldn't I be a thankful slave of Allah? The forgiveness of 48:2, in his own practice, brought more worship and not less.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে এ আয়াতের সঙ্গে যুক্ত নয় এমন একটি বর্ণনা রহিত হওয়ার মতটি যে প্রশ্ন তোলে, তার সঙ্গে সম্পর্ক রাখে। সহীহ বুখারীতে মুগীরা (রাঃ) থেকে বর্ণিত: নবী ﷺ রাতে এত দীর্ঘ নামায পড়তেন যে তাঁর পা ফুলে যেত। কেউ তাঁকে বলল, আল্লাহ তো আপনার আগের ও পরের সব ত্রুটি ক্ষমা করে দিয়েছেন। তিনি বললেন: আমি কি আল্লাহর কৃতজ্ঞ বান্দা হব না? ৪৮:২ আয়াতের ক্ষমা তাঁর নিজের জীবনে ইবাদত কমায়নি, বাড়িয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Day Holds for Whom",
+          "bn": "সেদিন কার জন্য কী"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di explains the tremendous Day by what happens on it, and his sentence draws a line. Yukhallad fihi man ashraka, on it whoever associated partners with Allah abides forever, wa-yu'aqab fihi man 'asa, and on it whoever disobeyed is punished. He does not equate the two. Associating partners carries abiding; disobedience carries punishment. Read with his gloss on the condition, the verse sets the gravest case, leaving sincere worship, against the gravest outcome, while his wording also places other disobedience on that same Day, under punishment rather than abiding.",
+            "bn": "সা'দী মহা দিবসের ব্যাখ্যা দেন সেদিন যা ঘটবে তা দিয়ে, আর তাঁর বাক্যে একটা সীমারেখা টানা আছে। ইউখাল্লাদু ফীহি মান আশরাকা, সেদিন যে আল্লাহর সঙ্গে শরীক করেছে সে চিরকাল থাকবে। ওয়া ইউআকাবু ফীহি মান আসা, আর সেদিন যে নাফরমানি করেছে সে শাস্তি পাবে। দুটিকে তিনি এক করেন না। শিরকের পরিণাম চিরস্থায়ী থাকা, নাফরমানির পরিণাম শাস্তি। শর্ত নিয়ে তাঁর ব্যাখ্যার সঙ্গে মিলিয়ে পড়লে আয়াত সবচেয়ে গুরুতর অবস্থাকে, অর্থাৎ খাঁটি ইবাদত ছেড়ে দেওয়াকে, রাখে সবচেয়ে গুরুতর পরিণামের মুখোমুখি। আবার তাঁর ভাষায় অন্য নাফরমানিও সেই দিনের হিসাবের বাইরে নয়, তবে তার পরিণাম শাস্তি, চিরকাল থাকা নয়।"
+          },
+          {
+            "en": "Ibn Kathir's abridged English carries the warning on through the next verses. Those who lose themselves and their families are separated and never meet again, and of 39:16 he says that Allah tells of this to frighten His servants, so that they keep away from unlawful things and from sin. The passage describes what the text describes: the outcome on the Day of Resurrection for those it names. It licenses nothing against any living person or community, and it gives no one the right to decide who will be among the losers. That judgment is Allah's, on that Day.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ সতর্কবাণীটাকে পরের আয়াতগুলো পর্যন্ত টেনে নেয়। যারা নিজেদের আর পরিবারকে হারায়, তারা বিচ্ছিন্ন হয়ে যায়, আর কখনো মিলিত হয় না। ৩৯:১৬ আয়াত সম্পর্কে তিনি বলেন, আল্লাহ এ খবর দেন বান্দাদের ভয় দেখাতে, যাতে তারা হারাম আর গুনাহ থেকে দূরে থাকে। আলোচনাটি কেবল তা-ই বর্ণনা করে, যা এর ভাষ্যে আছে: কিয়ামতের দিন যাদের কথা বলা হয়েছে তাদের পরিণাম। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। ক্ষতিগ্রস্তদের দলে কে থাকবে, তা ঠিক করার অধিকারও কাউকে দেয় না। সে ফয়সালা আল্লাহর, সেই দিনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Rank Buys Safety",
+          "bn": "কোনো মর্যাদাই নিরাপত্তা কেনে না"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's a fortiori is where the verse reaches its reader. If the Messenger who carried the message was told to say, I fear, then no rank below his carries a guarantee: not learning, not leading prayer, not years of practice, not being the person in a family or circle who reminds others. The surah has already drawn the believer this way in 39:9, standing in the night, wary of the Hereafter and hoping for the mercy of his Lord. Fear here is not the opposite of hope; it is what keeps hope from turning into assumption.",
+            "bn": "ইবন কাসীরের ওই 'আরও বেশি প্রযোজ্য' কথাটাতেই আয়াত পাঠকের কাছে এসে পৌঁছায়। যিনি বার্তা বয়ে এনেছেন, তাঁকেই যদি বলতে বলা হয় 'আমি ভয় করি', তবে তাঁর নিচের কোনো মর্যাদাই নিশ্চয়তা দেয় না। না জ্ঞান, না ইমামতি, না বহু বছরের আমল, না পরিবারে বা বন্ধুমহলে সবাইকে মনে করিয়ে দেওয়ার দায়িত্ব। সূরাটি ৩৯:৯ আয়াতেই মুমিনের ছবি এঁকেছে এভাবে: রাতে দাঁড়িয়ে থাকে, আখিরাতকে ভয় করে, আর রবের রহমতের আশা রাখে। এখানে ভয় আশার বিপরীত নয়। ভয়ই আশাকে নিছক ধরে নেওয়ায় পরিণত হতে দেয় না।"
+          },
+          {
+            "en": "The commentators also make the fear specific, and that makes it usable. If the disobedience in view is leaving sincere worship, the daily test is intention: for whom is this prayer, this gift, this piece of advice? And if the setting was an invitation back to the religion of the forefathers, many readers know a smaller version of that pull, a custom, a circle or an old habit that asks them to return to what they left for Allah's sake. The verse does not hand them an argument for that moment. It hands them a sentence to say.",
+            "bn": "তাফসীরকারেরা ভয়টাকে নির্দিষ্টও করে দেন, আর তাতেই তা কাজে লাগানো যায়। যে নাফরমানির কথা ধরা হয়েছে তা যদি খাঁটি ইবাদত ছেড়ে দেওয়া হয়, তবে রোজকার পরীক্ষা হলো নিয়ত: এই নামায, এই দান, এই উপদেশ কার জন্য? আর প্রেক্ষাপট যদি হয় বাপ-দাদার ধর্মে ফেরার ডাক, তবে অনেক পাঠকই সেই টানের একটা ছোট রূপ চেনেন। কোনো রেওয়াজ, কোনো মহল, কোনো পুরোনো অভ্যাস, যা ডাকে সেখানে ফিরে যেতে, যা তিনি আল্লাহর জন্য ছেড়ে এসেছিলেন। সেই মুহূর্তের জন্য আয়াত তর্কের যুক্তি দেয় না। দেয় মুখে বলার মতো একটা বাক্য।"
+          },
+          {
+            "en": "Fear of this kind is not meant to leave a person frozen. The narration from al-Mughira, though not about this verse, shows the man who was told to say these words meeting forgiveness with longer nights of prayer and with thankfulness. The verse asks for the same pairing in a reader's life: a clear sense of what disobedience would cost, held alongside steady worship kept sincere for Allah alone. Whoever says, I fear, if I disobey my Lord, and then guards the very thing the verse names, has heard the sentence as it was given.",
+            "bn": "এ ধরনের ভয় মানুষকে অসাড় করে রাখার জন্য নয়। মুগীরা (রাঃ)-এর বর্ণনাটি এ আয়াত নিয়ে নয়, তবু তাতে দেখা যায়, যাঁকে এ কথা বলতে বলা হয়েছিল তিনি ক্ষমার জবাব দিয়েছেন আরও দীর্ঘ রাতের নামায আর কৃতজ্ঞতা দিয়ে। পাঠকের জীবনেও আয়াত এই জোড়টাই চায়। নাফরমানির মূল্য কত, তার স্পষ্ট বোধ, আর তার পাশাপাশি কেবল আল্লাহর জন্য খাঁটি রাখা নিয়মিত ইবাদত। যে বলে 'আমি যদি রবের নাফরমানি করি, তবে ভয় করি', তারপর আয়াত যে জিনিসের কথা বলেছে ঠিক সেটাই আগলে রাখে, সে বাক্যটা শুনেছে যেভাবে তা দেওয়া হয়েছিল।"
+          }
+        ]
+      }
+    ]
+  },
   "39:16": {
     "sections": [
       {
