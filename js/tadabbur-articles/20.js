@@ -4123,6 +4123,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:80": {
+    "sections": [
+      {
+        "h": {
+          "en": "Spoken to the Ones Who Crossed",
+          "bn": "যারা সমুদ্র পেরিয়ে এল"
+        },
+        "p": [
+          {
+            "en": "In 20:77 Musa (AS) was told to set out by night with Allah's servants and strike a dry road through the sea; in 20:78 the sea covered Pharaoh's army, and in 20:79 Pharaoh led his people astray. Then the address turns: ya bani Isra'il, O Children of Isra'il. At-Tabari sets the scene: when Musa had come through the sea with his people, and the sea had covered Pharaoh's people with what covered them, We said to Musa's people these words.",
+            "bn": "২০:৭৭ আয়াতে মূসা (আঃ)-কে বলা হয়েছিল আল্লাহর বান্দাদের নিয়ে রাতে বেরিয়ে পড়তে আর সমুদ্রের মধ্যে শুকনো পথ বের করতে। ২০:৭৮ আয়াতে সমুদ্র ফেরাউনের বাহিনীকে ঢেকে দিল, ২০:৭৯ আয়াতে ফেরাউন নিজের জাতিকে পথভ্রষ্ট করল। এরপর সম্বোধন ঘুরে যায়: ইয়া বানী ইসরাঈল, হে বনী ইসরাঈল। তাবারী দৃশ্যটা এভাবে সাজান: মূসা যখন নিজের লোকদের নিয়ে সমুদ্র পার হয়ে এলেন, আর ফেরাউনের লোকদের সমুদ্র যা দিয়ে ঢাকার তা দিয়ে ঢেকে দিল, তখন আমি মূসার জাতিকে এ কথাগুলো বললাম।"
+          },
+          {
+            "en": "Al-Qurtubi adds the purpose in a short phrase: when He rescued them from Pharaoh, He said this to them li-yashkuru, so that they would give thanks. Al-Muyassar opens its gloss with udhkuru, remember when We rescued you, which reads the verse as a reminder. Al-Jalalayn takes the address elsewhere. It says the ones called O Children of Isra'il are the Jews living in the time of the Prophet ﷺ, addressed through the favours Allah gave their forefathers in Musa's time, as a preface to what He then says to them. At-Tabari places the words just after the crossing; al-Jalalayn hears them aimed at later descendants.",
+            "bn": "কুরতুবী উদ্দেশ্যটা বলে দেন ছোট্ট এক কথায়: ফেরাউনের হাত থেকে বাঁচানোর পর আল্লাহ তাদের এ কথা বললেন লি-ইয়াশকুরূ, যাতে তারা শুকরিয়া আদায় করে। মুয়াসসার তার ব্যাখ্যা শুরু করে উযকুরূ দিয়ে, স্মরণ কর যখন আমি তোমাদের বাঁচিয়েছিলাম। ফলে আয়াতটা পড়া হয় মনে করিয়ে দেওয়ার কথা হিসেবে। জালালাইন সম্বোধনটা অন্য দিকে নিয়ে যায়। তার মতে হে বনী ইসরাঈল বলে ডাকা হয়েছে নবী ﷺ-এর যুগের ইহুদিদের। মূসার যুগে তাদের পূর্বপুরুষদের যে নিয়ামত দেওয়া হয়েছিল, সেগুলোর কথা তুলে তাদের ডাকা হচ্ছে, পরে আল্লাহ তাদের যা বলবেন তার ভূমিকা হিসেবে। তাবারী কথাগুলো রাখেন সমুদ্র পার হওয়ার ঠিক পরে, আর জালালাইন শোনে পরের বংশধরদের উদ্দেশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Worldly Favour, Then Religious",
+          "bn": "দুনিয়ার নিয়ামত, তারপর দ্বীনের"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens his comment by naming what the verse is: Allah recalling His great favours to the Children of Isra'il and His immense kindnesses. The grammar carries the same point. There are three verbs, anjaynakum, We rescued you, wa'adnakum, We appointed you, and nazzalna, We sent down, and each has Allah as its subject and the people as its object. They do nothing in this verse. They were taken out, they were given a meeting, and food was lowered to them. The verse is a list of things received, and nothing else.",
+            "bn": "ইবন কাসীর আলোচনার শুরুতেই আয়াতটার পরিচয় দেন: বনী ইসরাঈলের উপর আল্লাহর বড় বড় নিয়ামত আর বিশাল অনুগ্রহের কথা তিনি এখানে মনে করিয়ে দিচ্ছেন। ব্যাকরণও একই কথা বলে। তিনটি ক্রিয়া: আনজাইনাকুম, আমি তোমাদের বাঁচিয়েছি; ওয়া‘আদনাকুম, আমি তোমাদের সময় ঠিক করে দিয়েছি; নাযযালনা, আমি নামিয়েছি। প্রতিটার কর্তা আল্লাহ, আর কর্ম ওই মানুষেরা। এ আয়াতে তারা নিজেরা কিছুই করে না। তাদের বের করে আনা হয়েছে, সাক্ষাতের সময় দেওয়া হয়েছে, খাবার নামিয়ে দেওয়া হয়েছে। পুরো আয়াতটা শুধু পাওয়া জিনিসের তালিকা।"
+          },
+          {
+            "en": "As-Sa'di sees an order in the list. Allah reminds them first of His great favour in destroying their enemy, then of His appointment with Musa (AS) at the right side of the Mount to send down the Book, which holds weighty rulings and fine reports, so that the religious favour would be completed for them after the worldly one. Then He reminds them of the wilderness, where manna and quails came down as ample, wholesome provision that reached them without toil. Safety comes first, guidance second, and daily food is given alongside both.",
+            "bn": "সা'দী তালিকাটার মধ্যে একটা ক্রম দেখেন। আল্লাহ প্রথমে মনে করান তাদের শত্রুকে ধ্বংস করার বড় অনুগ্রহের কথা। তারপর তুর পাহাড়ের ডান পাশে মূসা (আঃ)-এর সঙ্গে কিতাব নাযিলের জন্য ঠিক করা সাক্ষাতের কথা। সেই কিতাবে আছে মহান বিধান আর সুন্দর খবর। এভাবে দুনিয়ার নিয়ামতের পরে তাদের উপর দ্বীনের নিয়ামতও পূর্ণ হলো। এরপর আল্লাহ মনে করান তীহ প্রান্তরের কথা। সেখানে মান্না আর সালওয়া নামত, প্রচুর আর তৃপ্তিকর রিজিক, কোনো কষ্ট ছাড়াই তাদের কাছে পৌঁছাত। আগে নিরাপত্তা, তারপর হিদায়াত, আর দুটোর পাশাপাশি রোজকার খাবার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eyes on the Drowning",
+          "bn": "চোখের সামনে ডুবে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "Who the enemy was is not in doubt. At-Tabari, al-Baghawi, al-Muyassar and Tanwir al-Miqbas all name him: Pharaoh. Al-Jalalayn adds how the rescue came, by drowning him. Ibn Kathir dwells on what the rescued saw. Allah saved them from Pharaoh and cooled their eyes over him, while they watched him and his army drown in a single morning, with not one of them escaping, and he cites 2:50: and We drowned Pharaoh's people while you were looking on. The favour was not reported to them; they stood on the shore and saw it.",
+            "bn": "শত্রু কে ছিল, তা নিয়ে কোনো সন্দেহ নেই। তাবারী, বাগাভী, মুয়াসসার আর তানবীরুল মিকবাস সবাই নাম বলে দেয়: ফেরাউন। জালালাইন যোগ করে উদ্ধারটা কীভাবে এল: তাকে ডুবিয়ে দিয়ে। ইবন কাসীর থামেন উদ্ধার পাওয়া মানুষেরা কী দেখেছিল তার উপর। আল্লাহ তাদের ফেরাউনের হাত থেকে বাঁচালেন, আর তার ব্যাপারে তাদের চোখ জুড়িয়ে দিলেন। তারা নিজের চোখে দেখল, এক সকালেই সে আর তার বাহিনী ডুবে গেল, একজনও রেহাই পেল না। এখানে তিনি ২:৫০ উদ্ধৃত করেন: আর আমি ফেরাউনের লোকদের ডুবিয়ে দিলাম, তোমরা তাকিয়ে দেখছিলে। নিয়ামতটা তাদের শুধু শোনানো হয়নি। তারা তীরে দাঁড়িয়ে নিজেরাই দেখেছিল।"
+          },
+          {
+            "en": "Ibn Kathir then brings a narration from al-Bukhari, which is in his Sahih as hadith 4737. Ibn 'Abbas said: when Allah's Messenger ﷺ arrived at Medina, he found the Jews observing the fast on the day of 'Ashura'. The Prophet ﷺ asked them about it and they replied, \"This is the day when Moses became victorious over Pharaoh.\" The Prophet ﷺ said to the Muslims, \"We are nearer to Moses than they, so fast on this day.\" Ibn Kathir adds that Muslim recorded it too. The fast is treated at 2:49 and 2:50 and at 7:141; here it shows a rescue still remembered, generations later, through a deed.",
+            "bn": "এরপর ইবন কাসীর বুখারীর একটি বর্ণনা আনেন। সহীহ বুখারীতে এটি ৪৭৩৭ নম্বর হাদিস। ইবন আব্বাস (রাঃ) বলেন: রাসূলুল্লাহ ﷺ মদীনায় এসে দেখলেন, ইহুদিরা আশুরার দিন রোজা রাখছে। নবী ﷺ তাদের এ বিষয়ে জিজ্ঞেস করলেন। তারা বলল, \"এ সেই দিন, যেদিন মূসা ফেরাউনের উপর বিজয়ী হয়েছিলেন।\" নবী ﷺ মুসলমানদের বললেন, \"মূসার সঙ্গে তাদের চেয়ে আমরাই বেশি ঘনিষ্ঠ, তাই এ দিন তোমরা রোজা রাখো।\" ইবন কাসীর জানান, মুসলিমও এটি বর্ণনা করেছেন। রোজাটার বিস্তারিত আলোচনা আছে ২:৪৯ ও ২:৫০ এবং ৭:১৪১ আয়াতের লেখায়। এখানে হাদিসটা দেখায়, এক উদ্ধারের স্মৃতি বহু প্রজন্ম পরেও একটা আমলের মধ্য দিয়ে বেঁচে ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Anjaynakum, or Anjaytukum",
+          "bn": "আনজাইনাকুম, নাকি আনজাইতুকুম"
+        },
+        "p": [
+          {
+            "en": "At-Tabari records that the readers differed over qad anjaynakum. Most readers of Medina and Basra read it with nun and alif, We rescued you, and read the verbs around it the same way. Most readers of Kufa read qad anjaytukum, I rescued you, with ta, and likewise the verbs that follow, until wa-nazzalna 'alaykum al-manna wa-s-salwa, where they agreed with the others and read We sent down. His own verdict is short: these are two well-known readings with one meaning, and whichever a reader recites, he is right.",
+            "bn": "তাবারী জানান, কাদ আনজাইনাকুম পড়া নিয়ে কারীদের মধ্যে ভিন্নতা আছে। মদীনা আর বসরার অধিকাংশ কারী পড়েন নূন ও আলিফ দিয়ে, আমি (বহুবচনে) তোমাদের বাঁচিয়েছি, আর আশপাশের ক্রিয়াগুলোও সেভাবে। কুফার অধিকাংশ কারী পড়েন কাদ আনজাইতুকুম, আমি (একবচনে) তোমাদের বাঁচিয়েছি, তা দিয়ে। পরের ক্রিয়াগুলোও তাঁরা এভাবে পড়েন, তবে ওয়া নাযযালনা আলাইকুমুল মান্না ওয়াস সালওয়ায় এসে বাকিদের সঙ্গে মিলে যান, পড়েন নাযযালনা। তাবারীর নিজের রায় সংক্ষিপ্ত: দুটি কিরাআতই সুপরিচিত, অর্থ একই। যে কারী যেটাই পড়ুন, তিনি ঠিক পড়েছেন।"
+          },
+          {
+            "en": "Al-Qurtubi records a second difference, on the middle verb. Abu 'Amr read wa-wa'adnakum without the alif, the plain form wa'ada, and Abu 'Ubayd preferred it, because the promise comes from Allah alone, to Musa in particular, while muwa'ada, the form the alif gives, can only be between two. Al-Qurtubi notes the point was already discussed in al-Baqarah. At-Tabari likewise says he explained earlier how Allah's appointment with Musa and his people at the right side of the Mount took place, and does not repeat it here.",
+            "bn": "কুরতুবী মাঝের ক্রিয়াটি নিয়ে আরেকটা ভিন্নতার কথা লেখেন। আবু আমর পড়েছেন আলিফ ছাড়া, ওয়া‘আদনাকুম, সাধারণ রূপ ওয়া‘আদা থেকে। আবু উবায়দ এটাকেই বেছে নিয়েছেন। তাঁর যুক্তি: প্রতিশ্রুতি এসেছে শুধু আল্লাহর পক্ষ থেকে, বিশেষ করে মূসার প্রতি। অথচ আলিফসহ রূপটির মূল মুওয়া‘আদা, আর মুওয়া‘আদা দুই পক্ষ ছাড়া হয় না। কুরতুবী বলেন, এ আলোচনা সূরা বাকারায় আগেই হয়ে গেছে। তাবারীও জানান, তুর পাহাড়ের ডান পাশে মূসা ও তাঁর জাতির সঙ্গে আল্লাহর সাক্ষাৎ কীভাবে ঠিক হয়েছিল, তা তিনি আগেই ব্যাখ্যা করেছেন, তাই এখানে আর বলছেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Meeting Set for Whom",
+          "bn": "সাক্ষাৎ কার জন্য ঠিক হলো"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi starts with the grammar. Janib, the side, is the second object of the verb, and it cannot be read as an adverb of place, because a definite place is not reached by a verb without a preposition; only an indefinite place is. Makki, he reports, called this a principle with no disagreement. So the sense is: We appointed you the coming to the side of the Mount, with the word coming left out. What was fixed was not a spot where something would happen to them, but an arrival they were to make.",
+            "bn": "কুরতুবী শুরু করেন ব্যাকরণ দিয়ে। জানিব, অর্থাৎ পাশ, শব্দটি ক্রিয়ার দ্বিতীয় কর্ম। একে স্থানবাচক ক্রিয়াবিশেষণ ধরা যায় না, কারণ নির্দিষ্ট কোনো জায়গায় ক্রিয়া পৌঁছায় অব্যয় ছাড়া নয়, অনির্দিষ্ট জায়গায় পৌঁছায়। তিনি জানান, মাক্কী একে এমন মূলনীতি বলেছেন যাতে কোনো দ্বিমত নেই। তাহলে অর্থ দাঁড়ায়: আমি তোমাদের জন্য তুরের পাশে আসাটা নির্ধারণ করলাম, আসা শব্দটি উহ্য। অর্থাৎ ঠিক করা হয়েছিল এমন কোনো জায়গা নয় যেখানে তাদের সঙ্গে কিছু ঘটবে। ঠিক হয়েছিল তাদের সেখানে গিয়ে পৌঁছানো।"
+          },
+          {
+            "en": "Then who was the meeting with? Al-Qurtubi gives two answers. An-Nahhas said it means: We commanded Musa to order you out with him, so that Allah would speak to him in your presence and you would hear the speech. The other view, given with qila, it is said, is that after Pharaoh drowned, Musa (AS) was promised that he would come to the right side of the Mount and be given the Torah; the promise was to Musa, but they were addressed with it because it was for their sake. Ma'arif al-Qur'an joins the two: the promise was to Musa and, through him, to the Children of Isra'il.",
+            "bn": "তাহলে সাক্ষাৎটা কার সঙ্গে? কুরতুবী দুটি উত্তর দেন। নাহহাস বলেছেন, এর অর্থ: আমি মূসাকে আদেশ দিলাম যেন তিনি তোমাদের তাঁর সঙ্গে বেরিয়ে আসতে বলেন, যাতে আল্লাহ তোমাদের সামনে তাঁর সঙ্গে কথা বলেন আর তোমরা সে কথা শোনো। অন্য মতটি কুরতুবী আনেন 'বলা হয়' দিয়ে: ফেরাউন ডুবে যাওয়ার পর মূসা (আঃ)-কে কথা দেওয়া হয়েছিল যে তিনি তুরের ডান পাশে আসবেন আর তাঁকে তাওরাত দেওয়া হবে। প্রতিশ্রুতি ছিল মূসার জন্য, কিন্তু সম্বোধন করা হয়েছে জাতিকে, কারণ প্রতিশ্রুতিটা ছিল তাদেরই জন্য। মাআরিফুল কুরআন দুটোকে মিলিয়ে দেয়: প্রতিশ্রুতি মূসার প্রতি, আর তাঁর মাধ্যমে বনী ইসরাঈলের প্রতি।"
+          },
+          {
+            "en": "Ma'arif adds the reason: so that Musa might receive the Torah and they might witness him speaking with Allah. Al-Muyassar, as-Sa'di and al-Jalalayn keep the Book at the centre; al-Jalalayn says it was to give Musa the Torah so that they would act on it. Ibn Kathir says this is the mountain on which Allah spoke to Musa, where Musa asked to see Him, and where He gave him the Torah, and meanwhile the people worshipped the calf. Maududi, citing 2:51 and 7:142, says Musa and the chiefs of Isra'il were summoned to the Mount to receive the commandments; 7:142 sets the term at forty nights.",
+            "bn": "মাআরিফ কারণটাও বলে: যাতে মূসা তাওরাত পান, আর তারা নিজের চোখে দেখে যে তিনি আল্লাহর সঙ্গে কথা বলছেন। মুয়াসসার, সা'দী আর জালালাইন কিতাবকেই কেন্দ্রে রাখে। জালালাইনের ভাষায়, উদ্দেশ্য ছিল মূসাকে তাওরাত দেওয়া, যাতে তারা সে অনুযায়ী আমল করে। ইবন কাসীর পাহাড়টার পরিচয় দেন: এখানেই আল্লাহ মূসার সঙ্গে কথা বলেছিলেন, এখানেই মূসা তাঁকে দেখতে চেয়েছিলেন, আর এখানেই তাঁকে তাওরাত দিয়েছিলেন। এর মধ্যেই জাতি বাছুরের পূজা শুরু করে। মওদূদী ২:৫১ ও ৭:১৪২ উল্লেখ করে বলেন, বিধান গ্রহণের জন্য মূসা আর বনী ইসরাঈলের নেতাদের তুরে ডাকা হয়েছিল। ৭:১৪২ মেয়াদ বেঁধে দেয় চল্লিশ রাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Right Hand Is Meant",
+          "bn": "ডান দিকটা কার"
+        },
+        "p": [
+          {
+            "en": "Whose right is meant? Al-Qurtubi says al-ayman, the right, is accusative because it describes the side, not the mountain, and the ending agrees with janib. A mountain, he explains, has no right or left of its own. When someone says take the right of the mountain, he means take the part of it that lies on your right. Then he adds a sentence that settles the picture: the mountain was on Musa's right when he came to it. The direction is measured from the man walking towards the Mount.",
+            "bn": "কোন দিকের ডান? কুরতুবী বলেন, আল-আইমান অর্থাৎ ডান শব্দটি পাশের বিশেষণ, পাহাড়ের নয়, তাই এর শেষ স্বর জানিবের সঙ্গে মিলে যায়। তিনি ব্যাখ্যা করেন, পাহাড়ের নিজের কোনো ডান-বাম নেই। কেউ যদি বলে পাহাড়ের ডান দিক ধরো, তার অর্থ পাহাড়ের যে অংশ তোমার ডান হাতে পড়ে, সেটা ধরো। তারপর এক বাক্যে ছবিটা পরিষ্কার করে দেন: মূসা যখন পাহাড়ের কাছে এলেন, পাহাড় ছিল তাঁর ডান দিকে। দিকটা মাপা হয়েছে পাহাড়ের দিকে হেঁটে যাওয়া মানুষটির জায়গা থেকে।"
+          },
+          {
+            "en": "Tanwir al-Miqbas reads it the same way, the right side of Moses, and ties it to his being given the Scripture there. Maududi gives a different kind of answer, a fixed bearing rather than a traveller's hand: that is, he writes, the eastern side of Tur. The two need not clash, but they answer different questions. The same phrase, the right side of the Mount, appears in 19:52, where Allah says He called Musa from it and drew him near in close converse. The people were summoned to the same side from which, by 19:52, their prophet had himself been called.",
+            "bn": "তানবীরুল মিকবাসও একইভাবে পড়ে: মূসার ডান দিক। সেখানেই তাঁকে কিতাব দেওয়া হয়েছিল, এর সঙ্গে সে কথাটা জুড়ে দেয়। মওদূদীর উত্তর অন্য ধরনের। তিনি পথিকের ডান হাত দিয়ে মাপেন না, দেন একটা স্থির দিক: অর্থাৎ তুরের পূর্ব দিক। দুই উত্তরে সংঘাত না-ও থাকতে পারে, তবে দুটো আলাদা প্রশ্নের জবাব। তুরের ডান পাশ কথাটা ১৯:৫২ আয়াতেও আছে। সেখানে আল্লাহ বলেন, তিনি মূসাকে ওই পাশ থেকে ডেকেছিলেন আর একান্ত আলাপের জন্য কাছে টেনে নিয়েছিলেন। ১৯:৫২ অনুযায়ী যে পাশ থেকে তাদের নবীকে ডাকা হয়েছিল, জাতিকেও ডাকা হলো সেই পাশেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Food Where Nothing Grew",
+          "bn": "যেখানে কিছু জন্মায় না, সেখানে খাবার"
+        },
+        "p": [
+          {
+            "en": "What were the manna and the quails? Ibn Kathir says the manna was a sweet that came down on them from the sky, and the salwa a bird that dropped among them, and that they took of each only what they needed until the next day, as a kindness, a mercy and a generosity from Allah. Al-Muyassar describes the first as something like gum that tasted of honey, and the second as a bird resembling the quail. Al-Jalalayn names them turunjabin and the quail. At-Tabari says he set out the differing views on both earlier, with the evidence, and does not repeat them.",
+            "bn": "মান্না আর সালওয়া কী ছিল? ইবন কাসীর বলেন, মান্না ছিল আকাশ থেকে তাদের উপর নেমে আসা এক মিষ্টান্ন, আর সালওয়া এক পাখি, যা তাদের মাঝে এসে পড়ত। প্রত্যেকটা থেকে তারা শুধু পরদিন পর্যন্ত যতটুকু দরকার ততটুকু নিত। এ ছিল আল্লাহর পক্ষ থেকে তাদের প্রতি দয়া, রহমত আর অনুগ্রহ। মুয়াসসারের বর্ণনায় প্রথমটা আঠার মতো কিছু, স্বাদ মধুর মতো, আর দ্বিতীয়টা বটের পাখির মতো এক পাখি। জালালাইন নাম দেয় তুরুনজাবীন আর বটের পাখি। তাবারী বলেন, দুটো নিয়েই ভিন্ন ভিন্ন মত তিনি আগে দলিলসহ বলে এসেছেন, এখানে আর বলছেন না।"
+          },
+          {
+            "en": "Al-Qurtubi, al-Muyassar, as-Sa'di and Tanwir al-Miqbas all place the food in al-Tih, the wilderness. Ma'arif al-Qur'an gives the setting: after the crossing they were commanded to enter a sacred city, refused, and as a punishment were confined to the Tih for forty years, and even while under that punishment they kept receiving gifts from Allah, of which the manna and quails were one. Maududi places the start elsewhere. He reports that according to the Bible the manna and quails began while they passed through the wilderness between Elim and Sinai. The two accounts are left side by side; 2:57 and 7:160 name the same gifts.",
+            "bn": "কুরতুবী, মুয়াসসার, সা'দী আর তানবীরুল মিকবাস সবাই খাবারটার জায়গা বলেন তীহ, অর্থাৎ মরু প্রান্তর। মাআরিফুল কুরআন প্রেক্ষাপটটা দেয়: সমুদ্র পার হওয়ার পর তাদের এক পবিত্র নগরে ঢুকতে বলা হয়। তারা অস্বীকার করে, আর শাস্তি হিসেবে চল্লিশ বছর তীহ প্রান্তরে আটকে থাকে। সেই শাস্তির মধ্যেও আল্লাহর দান আসা বন্ধ হয়নি, মান্না-সালওয়া ছিল তার একটি। মওদূদী শুরুটা রাখেন অন্য জায়গায়। তিনি জানান, বাইবেল অনুযায়ী মান্না আর সালওয়া শুরু হয় এলিম ও সিনাইয়ের মাঝের মরুভূমি পার হওয়ার সময়। দুটি বিবরণ পাশাপাশি থাকুক। একই দানের কথা ২:৫৭ ও ৭:১৬০ আয়াতেও আছে।"
+          },
+          {
+            "en": "No commentary fetched for this verse attaches a hadith to the manna. There is a general one, not tied to this verse. Al-Bukhari, in his Sahih as hadith 4478, has Sa'id ibn Zayd report that Allah's Messenger ﷺ said: \"Truffles are of the manna, and their water is a cure for the eye.\" Muslim records it too, through several chains, under 2049. It joins a humble food of the ground to the provision of this wilderness, and is cited here for that link alone, with nothing further built on it.",
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীর মান্নার সঙ্গে কোনো হাদিস জুড়ে দেয়নি। একটা সাধারণ হাদিস আছে, যা এ আয়াতের সঙ্গে বাঁধা নয়। সহীহ বুখারীর ৪৪৭৮ নম্বর হাদিসে সাঈদ ইবন যায়দ (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"কামআহ (এক ধরনের ছত্রাক) মান্নার অন্তর্ভুক্ত, আর এর পানি চোখের জন্য শিফা।\" মুসলিমও এটি একাধিক সনদে ২০৪৯ নম্বরে এনেছেন। মাটির এক সাধারণ খাবারকে হাদিসটি জুড়ে দেয় এই মরুপ্রান্তরের রিজিকের সঙ্গে। এখানে শুধু সেই যোগসূত্রটুকুর জন্যই এটি আনা হলো, এর উপর আর কিছু দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Gift Before the Rule",
+          "bn": "বিধানের আগে দান"
+        },
+        "p": [
+          {
+            "en": "The next verse turns the list into a rule: eat of the good things We have provided you, and do not transgress in it, lest My anger descend on you. Ibn Kathir, treating 20:80 to 20:82 together, links the two with for this reason, and glosses the command as: eat of this provision and do not overstep by taking it without need. Set beside his note that they took only what the next day required, the rule is the gift itself turned into a measure. Then 20:82 opens forgiveness to whoever repents and holds to guidance; that verse has its own page, and the calf follows from 20:83.",
+            "bn": "পরের আয়াত তালিকাটাকে বিধানে রূপ দেয়: আমি তোমাদের যে রিজিক দিয়েছি তার ভালো জিনিস খাও, আর এতে সীমা ছাড়িয়ো না, নইলে তোমাদের উপর আমার গজব নেমে আসবে। ইবন কাসীর ২০:৮০ থেকে ২০:৮২ একসঙ্গে আলোচনা করেন। দুই আয়াতকে তিনি জোড়েন 'এ কারণেই' বলে, আর হুকুমটার ব্যাখ্যা দেন: এই রিজিক থেকে খাও, প্রয়োজন ছাড়া নিয়ে সীমা লঙ্ঘন করো না। তারা যে পরদিনের দরকারটুকুই নিত, তাঁর সেই কথার পাশে রাখলে বোঝা যায়, বিধানটা আসলে দানটাই, মাপে বেঁধে দেওয়া। এরপর ২০:৮২ তওবাকারী আর হিদায়াতে অটল মানুষের জন্য মাগফিরাতের দরজা খুলে দেয়। সে আয়াতের আলাদা লেখা আছে, আর বাছুরের কাহিনি শুরু হয় ২০:৮৩ থেকে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse recounts favours given to one generation, and the verses after it tell of a failure in their camp. Even read with al-Jalalayn as addressed to the Jews of the Prophet's time, it describes what it describes, and it licenses nothing against any living Jewish person or community. Its lesson points inward. Al-Qurtubi gave the reason for the reminder in one word, li-yashkuru, so that they would give thanks. Before weighing what Allah asks of you, count the seas you were brought through and the food that reached you unasked.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি প্রজন্মকে দেওয়া নিয়ামতের বর্ণনা দেয়, আর পরের আয়াতগুলো বলে তাদের শিবিরে ঘটে যাওয়া এক বিচ্যুতির কথা। জালালাইনের মতো একে নবী ﷺ-এর যুগের ইহুদিদের প্রতি সম্বোধন ধরে পড়লেও আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজ বেঁচে থাকা কোনো ইহুদি ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। এর শিক্ষা বরং নিজের দিকে ফেরে। কুরতুবী মনে করিয়ে দেওয়ার কারণটা বলেছেন একটি শব্দে: লি-ইয়াশকুরূ, যাতে তারা শুকরিয়া আদায় করে। আল্লাহ আপনার কাছে কী চান তা মাপার আগে গুনে দেখুন, কোন কোন সমুদ্র তিনি আপনাকে পার করিয়েছেন, আর না চাইতেই কোন খাবার আপনার কাছে পৌঁছেছে।"
+          }
+        ]
+      }
+    ]
+  },
   "20:82": {
     "sections": [
       {

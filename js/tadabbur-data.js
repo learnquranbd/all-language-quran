@@ -34421,6 +34421,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not weigh your case by the size of the show against you; hold to what Allah has given you, act on His word, and remember that crafted illusions do not succeed.",
     "lessonBn": "আপনার বিরুদ্ধে সাজানো প্রদর্শনী কত বড়, তা দিয়ে নিজের অবস্থান মাপবেন না। আল্লাহ যা দিয়েছেন তা আঁকড়ে ধরুন, তাঁর কথামতো কাজ করুন, আর মনে রাখুন, বানানো ভেলকি কখনো সফল হয় না।"
+  },
+  "20:80": {
+    "reflectionEn": "The sea has just closed over Pharaoh and his army, and the next words are spoken to the people who walked out of it. They are not given a command first. They are reminded: We rescued you from your enemy, We set you a meeting on the right side of the Mount, We sent down manna and quails. A rescue, a meeting with revelation, and food that fell where no field could grow. Only after that comes the instruction to eat of the good things and not to overstep. The order teaches something. Gifts are counted before duties are named, so that the duty is received as a reply. What has Allah rescued me from, and have I ever said it aloud as a favour?",
+    "reflectionBn": "সমুদ্র এইমাত্র ফেরাউন আর তার সেনাদের ঢেকে দিয়েছে। পরের কথাগুলো বলা হচ্ছে সেই মানুষদের, যারা ওই সমুদ্র পেরিয়ে এসেছে। প্রথমেই তাদের কোনো হুকুম দেওয়া হয় না। মনে করিয়ে দেওয়া হয়: আমি তোমাদের শত্রুর হাত থেকে বাঁচিয়েছি, তুর পাহাড়ের ডান পাশে তোমাদের জন্য সাক্ষাতের সময় ঠিক করেছি, তোমাদের উপর মান্না আর সালওয়া নামিয়েছি। একটা উদ্ধার, ওহির সঙ্গে একটা সাক্ষাৎ, আর এমন জায়গায় খাবার, যেখানে কোনো ফসল জন্মায় না। হুকুম আসে এর পরে: ভালো জিনিস খাও, সীমা ছাড়িয়ো না। এই ক্রমের মধ্যেই শিক্ষা। দায়িত্বের কথা ওঠার আগে নিয়ামতের হিসাব দেওয়া হয়, যাতে দায়িত্বটা আসে জবাব হয়ে। আল্লাহ আমাকে কী থেকে বাঁচিয়েছেন? সে কথা কি কখনো নিয়ামত হিসেবে মুখে বলেছি?",
+    "pointsEn": [
+      "Which rescue in my own life have I stopped mentioning because it is now far behind me?",
+      "When I think of what Allah asks of me, do I begin with the list of duties or with the list of what He has already given?",
+      "Is there provision that reaches me with little effort of my own, and have I named it as His?",
+      "What would it look like for me to take only what I need of a gift, instead of hoarding it against tomorrow?",
+      "Guidance and food arrived to the same people in the same years. Do I treat the guidance as a gift, the way I treat the food?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন উদ্ধারের কথা আমি আর বলি না, শুধু এজন্য যে তা এখন অনেক পেছনে পড়ে গেছে?",
+      "আল্লাহ আমার কাছে কী চান, এ কথা ভাবতে গিয়ে আমি কি দায়িত্বের তালিকা দিয়ে শুরু করি, নাকি তিনি যা আগেই দিয়েছেন তার তালিকা দিয়ে?",
+      "এমন কোনো রিজিক কি আছে, যা আমার সামান্য চেষ্টাতেই চলে আসে? আমি কি সেটাকে তাঁর দান বলে চিনেছি?",
+      "কোনো নিয়ামত থেকে কালকের ভয়ে জমিয়ে না রেখে শুধু দরকারটুকু নেওয়া আমার বেলায় দেখতে কেমন হবে?",
+      "একই মানুষেরা একই বছরগুলোতে ওহি আর খাবার দুটোই পেয়েছিল। খাবারকে যেভাবে নিয়ামত মনে করি, ওহিকেও কি সেভাবে মনে করি?"
+    ],
+    "lessonEn": "Count what Allah has rescued you from and given you before you weigh what He asks, so that obedience comes as thanks rather than as a bill.",
+    "lessonBn": "আল্লাহ কী চান তা মাপার আগে গুনে দেখুন তিনি কী থেকে বাঁচিয়েছেন আর কী দিয়েছেন, যাতে আনুগত্য আসে শুকরিয়া হয়ে, বোঝা হয়ে নয়।"
   }
 };
 
