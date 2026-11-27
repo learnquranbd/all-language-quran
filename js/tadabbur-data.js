@@ -35893,6 +35893,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When your restraint is mocked as self-righteousness, do not count it a fault; and never sneer at someone else's clean hands to quiet your own conscience.",
     "lessonBn": "আপনার সংযমকে যখন 'পবিত্র সাজা' বলে ঠাট্টা করা হয়, তাকে দোষ ভাববেন না; আর নিজের বিবেককে চুপ করাতে কখনো অন্যের পরিচ্ছন্ন হাত নিয়ে বিদ্রূপ করবেন না।"
+  },
+  "28:20": {
+    "reflectionEn": "The secret is out, and powerful men are deciding what to do with Musa. Then one man comes from the far edge of the city, hurrying. He does not stop to weigh what it might cost him to be seen with someone the court wants dead. He says three things: they are planning to kill you, so leave, and I am telling you this because I wish you well. The Qur'an does not give his name. It keeps his errand, his haste and his honest word. Most of us will never be the one in danger. We may well be the one who knows. When I hear that harm is coming to someone, do I go to them, or do I wait to see what happens?",
+    "reflectionBn": "গোপন কথাটা ফাঁস হয়ে গেছে, আর ক্ষমতাবান লোকেরা মূসা (আঃ)-কে নিয়ে কী করবে তা ঠিক করছে। ঠিক তখন শহরের দূর প্রান্ত থেকে একজন লোক ছুটে আসে। দরবার যাকে মারতে চায়, তার পাশে দেখা দিলে নিজের কী হতে পারে, সে হিসাব কষতে সে থামেনি। সে তিনটি কথা বলে: তারা তোমাকে মেরে ফেলার পরামর্শ করছে, তাই বেরিয়ে যাও, আর আমি এ কথা বলছি তোমার ভালো চাই বলে। কুরআন তার নাম বলেনি। রেখে দিয়েছে তার ছুটে আসা, তার তাড়া আর তার সৎ কথাটুকু। আমাদের বেশিরভাগই হয়তো কখনো বিপদের মুখে পড়ব না। কিন্তু বিপদের খবর জানা লোকটা হয়তো আমরাই। কারও ক্ষতি আসছে শুনলে আমি কি তার কাছে যাই, নাকি দেখি কী হয়?",
+    "pointsEn": [
+      "When I last learned that someone was about to be harmed or wronged, did I tell them, or did I keep quiet to stay safe?",
+      "What would I need to give up, in comfort or standing, to take the shorter road to someone who needs a warning?",
+      "When I give advice, is it for the other person's good, or to look wise or to settle a score?",
+      "When someone who wishes me well tells me to change course, do I act on it, or argue until the moment passes?",
+      "Which good have I done that no one needs to know my name for?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন জেনেছি কারও ক্ষতি বা অন্যায় হতে যাচ্ছে, আমি কি তাকে জানিয়েছি, নাকি নিজে নিরাপদ থাকতে চুপ করে ছিলাম?",
+      "যার একটা সতর্কবার্তা দরকার, তার কাছে কাছের পথ ধরে পৌঁছাতে আমাকে কোন আরাম বা কোন মর্যাদা ছাড়তে হবে?",
+      "আমি যখন পরামর্শ দিই, তা কি সত্যিই অন্যের ভালোর জন্য, নাকি নিজেকে জ্ঞানী দেখাতে বা পুরোনো হিসাব মেটাতে?",
+      "আমার ভালো চায় এমন কেউ যখন পথ বদলাতে বলে, আমি কি সে কথায় কাজ করি, নাকি সময় পেরিয়ে না যাওয়া পর্যন্ত তর্ক করি?",
+      "কোন ভালো কাজটা করেছি, যার জন্য কারও আমার নাম জানার দরকার নেই?"
+    ],
+    "lessonEn": "When you know harm is coming to someone, go to them quickly and tell them plainly, for their sake alone; and when a sincere voice warns you, listen and act.",
+    "lessonBn": "কারও ক্ষতি আসছে জানলে দ্রুত তার কাছে যান, শুধু তার ভালোর জন্য সোজা কথায় জানিয়ে দিন। আর কেউ আন্তরিকভাবে সতর্ক করলে শুনুন, সে অনুযায়ী কাজ করুন।"
   }
 };
 

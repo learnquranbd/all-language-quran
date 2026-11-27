@@ -871,6 +871,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "28:20": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Farthest End",
+          "bn": "শহরের শেষ মাথা থেকে"
+        },
+        "p": [
+          {
+            "en": "Wa-ja'a rajulun min aqsa al-madinati yas'a: and a man came from the farthest end of the city, hurrying. The verse follows straight on from the second quarrel of 28:19, where a shouted question let slip who had been behind the death of the day before. From here the story turns on speed. The city's leaders are deciding what to do with Musa (AS), and he does not yet know it. Between their decision and its execution, the Qur'an sets one person on the move.",
+            "bn": "ওয়া জাআ রাজুলুম মিন আকসাল মাদীনাতি ইয়াসআ: আর শহরের শেষ প্রান্ত থেকে এক লোক ছুটে এল। আয়াতটি আসে ঠিক ২৮:১৯-এর দ্বিতীয় ঝগড়ার পরপরই। সেখানে চিৎকার করে বলা এক প্রশ্নে ফাঁস হয়ে যায়, আগের দিনের মৃত্যুর পেছনে কে ছিলেন। এখান থেকে কাহিনির সবকিছু নির্ভর করে গতির উপর। শহরের নেতারা মূসা (আঃ)-কে নিয়ে কী করবে তা ঠিক করছে, আর তিনি তখনো কিছুই জানেন না। তাদের সিদ্ধান্ত আর তা কার্যকর হওয়ার মাঝখানে কুরআন একজন মানুষকে পথে নামিয়ে দেয়।"
+          },
+          {
+            "en": "At-Tabari glosses aqsa al-madina as the far end of Pharaoh's city, and al-Baghawi as its last part. The man comes, that is, from the edge, a long way from where the quarrel took place. The Qur'an calls him simply rajulun, a man, with no name, no family and no office. His whole presence in the verse is an errand: he arrives, speaks three short sentences, and leaves the text.",
+            "bn": "তাবারী আকসাল মাদীনার ব্যাখ্যা দেন ফেরাউনের শহরের শেষ প্রান্ত, আর বাগাভী বলেন শহরের একেবারে শেষ অংশ। অর্থাৎ লোকটি এসেছে কিনারা থেকে, ঝগড়ার জায়গা থেকে অনেক দূর থেকে। কুরআন তাকে শুধু রাজুল বলেছে, একজন লোক। তার নাম নেই, বংশ নেই, পদও নেই। আয়াতে তার পুরো উপস্থিতি একটা কাজকে ঘিরে। সে আসে, ছোট তিনটি বাক্য বলে, তারপর আয়াত থেকে সরে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How the Secret Got Out",
+          "bn": "গোপন কথা যেভাবে ছড়াল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens his comment by explaining how the city came to know. It is reported, he says, that someone overheard the Israelite's words, spread them and told the dead man's people. Then Pharaoh sought Musa (AS) and ordered him killed, and once he had ordered it, a man came to Musa with the news and advised him to leave Egypt, the land of Pharaoh and his people.",
+            "bn": "তাবারী তাঁর আলোচনা শুরু করেন শহর কীভাবে জানল তা দিয়ে। বর্ণিত আছে, তিনি বলেন, কেউ ইসরাইলি লোকটির কথা শুনে ফেলে, তা ছড়িয়ে দেয় আর নিহত ব্যক্তির লোকদের জানিয়ে দেয়। তখন ফেরাউন মূসা (আঃ)-কে খুঁজতে থাকে এবং তাঁকে হত্যার হুকুম দেয়। হুকুম জারি হওয়ার পর এক লোক মূসা (আঃ)-এর কাছে খবর নিয়ে আসে, আর তাঁকে মিসর ছেড়ে যাওয়ার পরামর্শ দেয়, যে মিসর ফেরাউন ও তার কওমের দেশ।"
+          },
+          {
+            "en": "Their reports differ only in detail. In a report from Ibn Abbas, the Pharaonic man who had been fighting the Israelite went back to his people and told them what he had heard, and Pharaoh sent out the slaughterers to kill Musa (AS). Qatadah says the Copt, the enemy of both men, informed them, and so the chiefs conferred to kill him. As-Suddi has the Copt disclose that Musa was the killer, and Pharaoh command: seize him.",
+            "bn": "তাঁদের বর্ণনায় পার্থক্য শুধু খুঁটিনাটিতে। ইবন আব্বাস (রাঃ)-এর এক বর্ণনায় আছে, যে ফেরাউনি লোকটি ইসরাইলির সঙ্গে লড়ছিল, সে নিজের লোকদের কাছে ফিরে গিয়ে যা শুনেছিল তা বলে দেয়। তখন ফেরাউন মূসা (আঃ)-কে হত্যা করতে জল্লাদদের পাঠায়। কাতাদা বলেন, দুজনেরই শত্রু সেই কিবতি তাদের জানায়, ফলে নেতারা তাঁকে হত্যার পরামর্শে বসে। সুদ্দীর বর্ণনায় কিবতি ফাঁস করে দেয় যে খুনটা মূসাই করেছেন, আর ফেরাউন হুকুম দেয়: ওকে ধরো।"
+          },
+          {
+            "en": "A report through Abu Bakr ibn Abdullah from his companions sharpens the point: had the Copt not heard it from the Israelite, no one would have known. Ma'mar and Ibn Jurayj say only that an enemy standing nearby overheard and spread it. The commentators, in other words, trace the danger to one unguarded sentence. The verse itself says nothing of how the news travelled. It begins at the moment someone who cared heard it too.",
+            "bn": "আবু বকর ইবন আব্দুল্লাহ তাঁর সঙ্গীদের থেকে যে বর্ণনা দেন, তাতে কথাটা আরও স্পষ্ট: কিবতি যদি ইসরাইলির মুখ থেকে না শুনত, কেউই জানতে পারত না। মা'মার আর ইবন জুরাইজ শুধু এটুকু বলেন যে কাছে দাঁড়ানো এক শত্রু শুনে ফেলে কথাটা ছড়িয়ে দেয়। অর্থাৎ তাফসীরকারেরা পুরো বিপদের উৎস খুঁজে পান একটি বেখেয়াল বাক্যে। খবর কীভাবে ছড়াল, আয়াত নিজে তা বলে না। আয়াত শুরু হয় ঠিক সেই মুহূর্তে, যখন মূসা (আঃ)-এর জন্য দরদ রাখে এমন একজনও খবরটা শুনে ফেলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Nearer Way Through Town",
+          "bn": "শহরের ভেতর দিয়ে কাছের পথ"
+        },
+        "p": [
+          {
+            "en": "Ibn Abbas's report, as at-Tabari gives it, also explains how one man could get ahead of an armed party. The slaughterers took the main road, not worried that Musa (AS) might slip away from them. The man of Musa's party was at the far end of the city, and he cut across by a nearer way until he was ahead of them, reached Musa and told him the news. Al-Baghawi tells it the same way: he took a near road and got there first.",
+            "bn": "তাবারীর উদ্ধৃত ইবন আব্বাস (রাঃ)-এর বর্ণনা এটাও বুঝিয়ে দেয়, একজন মানুষ কীভাবে একটা সশস্ত্র দলকে পেছনে ফেলল। জল্লাদেরা বড় রাস্তা ধরেছিল। মূসা (আঃ) তাদের হাত ফসকে যেতে পারেন, এমন কোনো দুশ্চিন্তা তাদের ছিল না। মূসা (আঃ)-এর দলের সেই লোকটি ছিল শহরের শেষ প্রান্তে। সে কাছের এক পথ ধরে রাস্তা সংক্ষেপ করে, তাদের আগে পৌঁছে যায় আর মূসা (আঃ)-কে খবরটা দেয়। বাগাভীও একইভাবে বলেন: সে কাছের পথ ধরে আগে পৌঁছে গিয়েছিল।"
+          },
+          {
+            "en": "Ibn Kathir finds in this the reason for the word rajul. The man is described by his manliness, he says, because he left the usual route and took a nearer route than the men sent after Musa (AS), and so reached him first. As-Suddi's report adds Pharaoh's own calculation: look for him in the narrow side lanes, for Musa is a young man who does not know the way. In that report Musa did take the side lanes, and the man had already reached him.",
+            "bn": "ইবন কাসীর এখানেই রাজুল শব্দটির কারণ খুঁজে পান। তাঁর মতে লোকটিকে পুরুষোচিত গুণে বর্ণনা করা হয়েছে, কারণ সে চেনা পথ ছেড়ে, মূসা (আঃ)-এর পেছনে পাঠানো লোকদের পথের চেয়ে কাছের পথ ধরেছিল, আর এভাবে আগে পৌঁছে গিয়েছিল। সুদ্দীর বর্ণনায় ফেরাউনের নিজের হিসাবটাও আছে। সে বলে, ওকে সরু গলিপথে খোঁজো, মূসা কম বয়সী, পথঘাট চেনে না। সেই বর্ণনায় মূসা (আঃ) সত্যিই গলিপথ ধরেছিলেন, আর লোকটি ততক্ষণে তাঁর কাছে পৌঁছে গিয়েছিল।"
+          },
+          {
+            "en": "Al-Baghawi ends his sentence with a detail that is easy to miss: the man told and warned him, until he took another road, which reads most naturally as Musa (AS) setting off a different way. A warning that only says danger is coming can leave a person frozen or panicked. This one came with a way out. The man knew the city's paths, and he put what he knew at the service of someone who was being hunted.",
+            "bn": "বাগাভী তাঁর বাক্যটি শেষ করেন এমন এক খুঁটিনাটি দিয়ে, যা সহজেই চোখ এড়িয়ে যায়: লোকটি তাঁকে খবর দিল, সতর্ক করল, শেষে সে অন্য পথ ধরল। স্বাভাবিক পাঠে এর মানে, মূসা (আঃ) ভিন্ন পথে রওনা হলেন। যে সতর্কবার্তা শুধু বলে বিপদ আসছে, তা মানুষকে হয় জমিয়ে দেয়, নয়তো দিশেহারা করে। এই সতর্কবার্তার সঙ্গে বেরোনোর পথও ছিল। লোকটি শহরের পথঘাট চিনত, আর তার সেই জানাশোনা সে কাজে লাগাল এমন একজনের জন্য, যাকে তখন খোঁজা হচ্ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Fast Did He Come",
+          "bn": "কত জোরে এসেছিল সে"
+        },
+        "p": [
+          {
+            "en": "Yas'a is the verb that gives the man his urgency, and the commentators weigh how much it carries. At-Tabari glosses it as hastening, and gives Ibn Jurayj's narrower line: he was hurrying, not running flat out. Al-Baghawi reads it much the same way, as quickening his walk. On this reading the sa'y in the verse is haste of purpose, a man moving quickly on an errand, rather than a sprint through the streets.",
+            "bn": "ইয়াসআ, এই ক্রিয়াটিই লোকটির তাড়াহুড়োর ছবি দেয়, আর তাফসীরকারেরা মেপে দেখেন এর ভেতরে কতটা আছে। তাবারী এর অর্থ করেন তাড়াতাড়ি করা, আর ইবন জুরাইজের আরও সীমিত একটি কথা আনেন: সে তাড়াতাড়ি আসছিল, তবে প্রাণপণ দৌড়ে নয়। বাগাভীও প্রায় একইভাবে পড়েন: হাঁটার গতি বাড়িয়ে দেওয়া। এ পাঠে আয়াতের সা'ঈ হলো উদ্দেশ্য নিয়ে দ্রুত চলা। একটা জরুরি কাজে লোকটি জোর পায়ে চলছিল, রাস্তা দিয়ে ঊর্ধ্বশ্বাসে দৌড়াচ্ছিল না।"
+          },
+          {
+            "en": "As-Sa'di reads more into the word. Yas'a means running on his feet, he says, and he gives the reason: the man's sincere care for Musa (AS), and his fear that they would fall on him before he knew. As-Sa'di opens his comment by saying that Allah provided this sincere adviser, who hurried to tell Musa what the chiefs had agreed. The two readings differ over the pace. Both agree that the man did not delay.",
+            "bn": "সা'দী শব্দটির মধ্যে আরও বেশি দেখেন। তাঁর মতে ইয়াসআ মানে পায়ে দৌড়ে আসা, আর কারণটাও তিনি বলে দেন: মূসা (আঃ)-এর প্রতি লোকটির আন্তরিক কল্যাণকামিতা, আর ভয় যে তিনি টের পাওয়ার আগেই ওরা তাঁর উপর হামলা করে বসবে। সা'দী তাঁর আলোচনা শুরুই করেন এ কথা দিয়ে যে আল্লাহ এই হিতাকাঙ্ক্ষী লোকটিকে জুটিয়ে দিয়েছিলেন। নেতারা যা ঠিক করেছিল, সে তা মূসা (আঃ)-কে জানাতে তাড়াতাড়ি ছুটে যায়। গতি নিয়ে দুই পাঠে মতভেদ আছে। তবে দেরি যে সে করেনি, এ ব্যাপারে দুই পাঠই একমত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Council Weighing a Killing",
+          "bn": "হত্যা নিয়ে সভাসদদের পরামর্শ"
+        },
+        "p": [
+          {
+            "en": "Inna al-mala'a ya'tamiruna bika li-yaqtuluk: the chiefs are taking counsel about you, to kill you. At-Tabari identifies al-mala' as the nobles and heads of Pharaoh's people, and the Muyassar and al-Baghawi likewise speak of the notables of Pharaoh's people. This is a state's council at work, not a street crowd, and the man's report tells Musa (AS) that his case has reached the top.",
+            "bn": "ইন্নাল মালাআ ইয়া'তামিরূনা বিকা লিইয়াকতুলূক: নেতারা তোমাকে নিয়ে পরামর্শ করছে, তোমাকে হত্যা করার জন্য। তাবারী বলেন, আল-মালা মানে ফেরাউনের কওমের অভিজাত ও প্রধান ব্যক্তিরা। মুয়াসসার আর বাগাভীও ফেরাউনের কওমের গণ্যমান্যদের কথাই বলেন। এরা রাস্তার উত্তেজিত জনতা নয়, রাষ্ট্রের সভা, যেখানে ভেবেচিন্তে সিদ্ধান্ত হচ্ছে। লোকটির খবর মূসা (আঃ)-কে জানিয়ে দেয়, তাঁর বিষয়টা একেবারে উপরমহল পর্যন্ত পৌঁছে গেছে।"
+          },
+          {
+            "en": "The verb ya'tamirun is read two ways. At-Tabari, Ibn Kathir and as-Sa'di take it as consulting one another, and at-Tabari supports this with a line of the poet an-Namir ibn Tawlab, in which yu'tamar means that opinions are traded and weighed. Al-Qurtubi gives that sense and a second: that they are ordering one another. He cites al-Azhari that i'tamara and ta'amara mean that some commanded others, and sets beside it wa-'tamiru baynakum bi-ma'ruf in 65:6. Al-Baghawi cites az-Zajjaj to the same effect: some of them order others to kill you.",
+            "bn": "ইয়া'তামিরূন ক্রিয়াটির দুই রকম পাঠ আছে। তাবারী, ইবন কাসীর ও সা'দী এর অর্থ করেন পরস্পর পরামর্শ করা। তাবারী এর সমর্থনে কবি নামির ইবন তাওলাবের একটি চরণ আনেন, যেখানে ইউ'তামার মানে লোকেরা মত বিনিময় করে, যাচাই করে। কুরতুবী এ অর্থ দেন, সঙ্গে আরেকটিও: তারা একে অপরকে হুকুম দিচ্ছে। তিনি আযহারীর কথা উদ্ধৃত করেন যে ই'তামারা ও তাআমারা মানে তাদের কেউ কেউ অন্যদের আদেশ দিল। এর পাশে তিনি রাখেন ৬৫:৬ আয়াতের ওয়া'তামিরূ বাইনাকুম বিমা'রূফ। বাগাভীও যাজ্জাজের সূত্রে একই কথা বলেন: তোমাকে হত্যা করতে তাদের কেউ কেউ অন্যদের আদেশ দিচ্ছে।"
+          },
+          {
+            "en": "The Muyassar holds both senses together: they are conspiring to kill you, and consulting. Al-Qurtubi adds that the killing in view was for the Copt whom Musa (AS) had killed the day before, and reports, under the words it is narrated, that Pharaoh ordered his death and the man got ahead with the news. In Ibn Ishaq's report, as at-Tabari relates it, the chiefs had risen that morning already agreed on killing Musa for what had reached them.",
+            "bn": "মুয়াসসার এক বাক্যেই দুই অর্থ ধরে রাখে: তারা তোমাকে হত্যার ষড়যন্ত্র করছে, পরামর্শও করছে। কুরতুবী যোগ করেন, হত্যার এই পরিকল্পনা ছিল আগের দিন মূসা (আঃ)-এর হাতে নিহত সেই কিবতির বদলায়। 'বর্ণিত আছে' বলে তিনি এটাও আনেন যে ফেরাউন তাঁকে হত্যার হুকুম দিয়েছিল, আর লোকটি খবর নিয়ে আগেভাগে পৌঁছে যায়। তাবারীর উদ্ধৃত ইবন ইসহাকের বর্ণনায় আছে, নেতারা সেদিন সকালেই উঠেছিল মূসা (আঃ)-কে হত্যার ব্যাপারে একমত হয়ে, তাঁর সম্পর্কে তাদের কানে যে খবর এসেছিল তার কারণে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who the Runner Was",
+          "bn": "ছুটে আসা লোকটি কে"
+        },
+        "p": [
+          {
+            "en": "Who was he? The Qur'an does not say, and the commentators report rather than settle it. In Ibn Abbas's report he is a man of Musa's party, one of his shi'a, and al-Baghawi calls him the same. Qatadah, in at-Tabari, says: we used to be told that he was the believer of Pharaoh's family, the title the Qur'an gives a man in 40:28. Al-Qurtubi says most commentators take him to be that believer, and al-Baghawi says the same of most interpreters.",
+            "bn": "সে কে ছিল? কুরআন তা বলেনি, আর তাফসীরকারেরা বিষয়টির মীমাংসা না করে বর্ণনাগুলো তুলে ধরেন। ইবন আব্বাস (রাঃ)-এর বর্ণনায় সে মূসা (আঃ)-এর দলের লোক, তাঁর শীআ বা অনুসারীদের একজন। বাগাভীও তাকে তা-ই বলেন। তাবারীর উদ্ধৃতিতে কাতাদা বলেন: আমাদের বলা হতো, সে ছিল ফেরাউন-পরিবারের সেই মুমিন। ৪০:২৮ আয়াতে কুরআন এক ব্যক্তিকে এ পরিচয়েই উল্লেখ করেছে। কুরতুবী বলেন, অধিকাংশ তাফসীরকার তাকে সেই মুমিন বলেই ধরেন, আর বাগাভীও অধিকাংশ ব্যাখ্যাকারের একই মত উল্লেখ করেন।"
+          },
+          {
+            "en": "Names are attached to him in the reports, and they are given here only as reports. Al-Qurtubi, citing ath-Tha'labi, names him Hizqil ibn Sabura and calls him a cousin of Pharaoh; al-Baghawi spells the name Hizbil. At-Tabari records Sam'an from Ibn Ishaq, and Sham'un through Ibn Jurayj from Shu'ayb al-Jaba'i. Al-Qurtubi gives Sham'un from Qatadah, by way of al-Mahdawi, and Sham'an as another form. None of these names is in the verse, and nothing in its meaning depends on them.",
+            "bn": "বর্ণনাগুলোতে তার কিছু নামও এসেছে, এখানে সেগুলো শুধু বর্ণনা হিসেবেই উল্লেখ করা হলো। কুরতুবী সা'লাবীর সূত্রে তার নাম বলেন হিযকীল ইবন সাবূরা, আর তাকে ফেরাউনের চাচাতো ভাই বলেন। বাগাভী নামটি লেখেন হিযবীল। তাবারী ইবন ইসহাক থেকে সাম'আন নামটি আনেন, আর ইবন জুরাইজের মাধ্যমে শুআইব আল-জাবাঈ থেকে শাম'ঊন। কুরতুবী মাহদাভীর মাধ্যমে কাতাদা থেকে শাম'ঊন নামটি দেন, আর শাম'আনকে আরেকটি রূপ হিসেবে উল্লেখ করেন। এসব নামের কোনোটিই আয়াতে নেই, আর আয়াতের অর্থও এগুলোর উপর নির্ভর করে না।"
+          },
+          {
+            "en": "The verse's silence has its own weight. Almost the same words return in 36:20, where a man comes hurrying from the farthest end of a city to tell his people to follow the messengers. In both places what is kept is the deed and the words. Whoever this man was, he is remembered for one errand and three sentences.",
+            "bn": "আয়াতের এই নীরবতারও ওজন আছে। প্রায় একই শব্দ আবার আসে ৩৬:২০ আয়াতে, যেখানে শহরের শেষ প্রান্ত থেকে এক লোক ছুটে এসে নিজের কওমকে রাসূলদের অনুসরণ করতে বলে। দুই জায়গাতেই কুরআন রেখে দিয়েছে কাজটা আর কথাগুলো। এই লোকটি যে-ই হোক, তাকে মনে রাখা হয়েছে একটি কাজ আর তিনটি বাক্যের জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leave, Says a Well-Wisher",
+          "bn": "বেরিয়ে যাও, আমি তোমার শুভাকাঙ্ক্ষী"
+        },
+        "p": [
+          {
+            "en": "Fa-khruj: so leave. At-Tabari, as-Sa'di, the Muyassar and al-Baghawi all read it as leave the city, and at-Tabari's opening summary speaks of leaving Egypt, the land of Pharaoh and his people. Ibn Kathir has leave the land. The difference is small; the instruction is not. The man does not suggest hiding, or waiting for the anger to cool. He tells Musa (AS), plainly, to be gone.",
+            "bn": "ফাখরুজ: তাই বেরিয়ে যাও। তাবারী, সা'দী, মুয়াসসার আর বাগাভী সবাই এর অর্থ করেন শহর ছেড়ে যাও। তাবারী তাঁর শুরুর সারকথায় বলেন মিসর ছাড়ার কথা, যা ফেরাউন ও তার কওমের দেশ। ইবন কাসীর বলেন দেশ ছেড়ে যাও। পার্থক্যটা ছোট, কিন্তু নির্দেশটা ছোট নয়। লোকটি লুকিয়ে থাকতে বলেনি, রাগ ঠান্ডা হওয়া পর্যন্ত অপেক্ষা করতেও বলেনি। সে মূসা (আঃ)-কে সোজাসুজি চলে যেতে বলে।"
+          },
+          {
+            "en": "Inni laka min an-nasihin: I am one of those who advise you sincerely. At-Tabari ties it to the advice at hand: I am sincere to you in pointing you towards leaving. Al-Baghawi reads it the same way, sincere in telling you to go. The Muyassar adds a word of feeling, among those who advise you and feel for you. A warning from a stranger can sound like a trap. The man answers that doubt before it is spoken, by naming his motive.",
+            "bn": "ইন্নী লাকা মিনান নাসিহীন: আমি তোমার আন্তরিক হিতাকাঙ্ক্ষীদের একজন। তাবারী একে বেঁধে দেন হাতের কাছের পরামর্শটির সঙ্গে: তোমাকে বেরিয়ে যেতে বলার মধ্যে আমি তোমার প্রতি আন্তরিক। বাগাভীও একইভাবে পড়েন: চলে যাওয়ার কথা বলায় আমি তোমার কল্যাণকামী। মুয়াসসার এর সঙ্গে দরদের একটি শব্দ জুড়ে দেয়: যারা তোমার ভালো চায় আর তোমার জন্য মমতা রাখে। অচেনা কারও সতর্কবার্তা ফাঁদের মতো শোনাতে পারে। সন্দেহটা মুখে আসার আগেই লোকটি নিজের উদ্দেশ্য জানিয়ে তার জবাব দিয়ে দেয়।"
+          },
+          {
+            "en": "As-Sa'di closes his comment with three words: fa-mtathala nushahu, and he acted on his advice. The next verse, 28:21, shows it: Musa (AS) left the city fearful and watchful, praying, my Lord, save me from the wrongdoing people. He heard counsel from a man the Qur'an does not even name, and the text moves straight from that counsel to his leaving, with nothing in between.",
+            "bn": "সা'দী তাঁর আলোচনা শেষ করেন তিনটি শব্দে: ফামতাসালা নুসহাহু, তিনি তার পরামর্শ মেনে নিলেন। পরের আয়াত ২৮:২১ সেটাই দেখায়। মূসা (আঃ) ভীত ও সতর্ক অবস্থায় শহর ছেড়ে বেরিয়ে পড়লেন আর দোয়া করলেন: হে আমার রব, আমাকে যালিম কওম থেকে রক্ষা করো। যে লোকের নাম পর্যন্ত কুরআন বলেনি, তিনি তার পরামর্শ শুনলেন। আর আয়াতের বর্ণনা সেই পরামর্শ থেকে সোজা চলে যায় তাঁর বেরিয়ে পড়ায়, মাঝখানে আর কিছু নেই।"
+          },
+          {
+            "en": "No commentator here attaches a hadith to this verse. A general narration, not tied to it, names the quality the man claims for himself. In Sahih Muslim, number 55, it is narrated on the authority of Tamim ad-Dari that the Prophet (ﷺ) said: \"The Religion is sincerity.\" We said, \"To whom?\" He said \"To Allah, to His Book, To His Messenger, and to the leaders of the Muslims and their masses.\" Muslim includes it in his Sahih. The Arabic word there, nasiha, shares its root with the man's nasihin.",
+            "bn": "এখানে কোনো তাফসীরকার এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেননি। তবে একটি সাধারণ হাদীস, যা এ আয়াতের সঙ্গে সম্পৃক্ত নয়, লোকটির দাবি করা গুণটির নাম বলে দেয়। সহীহ মুসলিমের ৫৫ নম্বর হাদীসে তামীম আদ-দারী (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: \"দ্বীন হলো নাসীহাহ, আন্তরিক কল্যাণকামিতা।\" আমরা বললাম, \"কার জন্য?\" তিনি বললেন, \"আল্লাহর জন্য, তাঁর কিতাবের জন্য, তাঁর রাসূলের জন্য, মুসলিমদের নেতাদের জন্য এবং তাদের সাধারণ মানুষের জন্য।\" মুসলিম হাদীসটি তাঁর সহীহ গ্রন্থে এনেছেন। হাদীসের নাসীহাহ আর লোকটির নাসিহীন একই ধাতু থেকে এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Both Halves of Good Counsel",
+          "bn": "সদুপদেশের দুই দিক"
+        },
+        "p": [
+          {
+            "en": "One thing needs saying plainly. The verse describes what the account describes: the ruling council of Pharaoh, in one particular history, taking counsel to kill one man. It licenses nothing against any living person or community, Egyptian or any other, and gives no one grounds to cast a present-day government, people or rival as Pharaoh's chiefs. What it holds up is a pattern of conduct for the reader, not a label for anyone else.",
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। বর্ণনা যা বলে, আয়াতও শুধু তা-ই বলে: নির্দিষ্ট এক ইতিহাসে ফেরাউনের শাসকসভা একজন মানুষকে হত্যার পরামর্শ করছিল। জীবিত কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে, মিসরীয় হোক বা অন্য কেউ, এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো সরকার, জাতি বা প্রতিপক্ষকে ফেরাউনের সভাসদ বানিয়ে দেওয়ার ভিত্তিও এখানে কেউ পায় না। আয়াত পাঠকের সামনে রাখে নিজের আচরণের একটি আদর্শ, অন্য কারও গায়ে লাগানোর তকমা নয়।"
+          },
+          {
+            "en": "What it asks is simpler and harder. Most people will never be the target of a council. Many will, at some point, be the person who hears: a plan against a colleague, a rumour about to break over a neighbour, harm being arranged for someone who does not yet know. The man from the far end of the city shows what to do with that knowledge. He did not stay safe in his distance or wait to see how things turned out.",
+            "bn": "আয়াতের দাবি সহজ, আবার কঠিনও। বেশিরভাগ মানুষ কখনো কোনো সভার নিশানা হবে না। কিন্তু অনেকেই কোনো না কোনো সময় খবরটা শুনে ফেলবে। হয়তো কোনো সহকর্মীর বিরুদ্ধে পরিকল্পনা, প্রতিবেশীর নামে ছড়াতে যাওয়া কোনো গুজব, কিংবা এমন কারও ক্ষতির আয়োজন, যে এখনো কিছুই জানে না। শহরের শেষ মাথা থেকে আসা লোকটি দেখিয়ে দেয়, এমন খবর জানলে কী করতে হয়। সে নিজের দূরত্বে নিরাপদে বসে থাকেনি, কী হয় দেখার অপেক্ষাও করেনি।"
+          },
+          {
+            "en": "He went quickly, by the nearest way he knew, said only what was needed, named his motive and stepped out of the story. Facing him stands Musa (AS), who heard a sincere word from a stranger and followed it. Between the two of them the verse holds both halves of good counsel: the courage to give it when it costs something, and the readiness to take it when it comes from someone you did not expect.",
+            "bn": "সে দ্রুত গেল, জানা সবচেয়ে কাছের পথ ধরে। যতটুকু দরকার ততটুকুই বলল, নিজের উদ্দেশ্য জানাল, তারপর কাহিনি থেকে সরে গেল। তার সামনে মূসা (আঃ), যিনি এক অচেনা লোকের আন্তরিক কথা শুনে তা মেনে নিলেন। দুজনকে মিলিয়ে আয়াতটি সদুপদেশের দুই দিকই ধরে রাখে। দাম দিতে হলেও পরামর্শ দেওয়ার সাহস, আর অপ্রত্যাশিত কারও কাছ থেকে এলেও তা গ্রহণ করার মন।"
+          }
+        ]
+      }
+    ]
+  },
   "28:24": {
     "sections": [
       {
