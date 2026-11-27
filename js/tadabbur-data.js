@@ -34163,6 +34163,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not promise yourself a good end you have no grounds for; the only real claim on the Hereafter is a covenant with the Most Merciful, kept in faith and deeds.",
     "lessonBn": "যে ভালো পরিণতির কোনো ভিত্তি নেই, তার আশ্বাস নিজেকে দেবেন না। আখিরাতে একমাত্র সত্যিকারের দাবি দয়াময়ের সঙ্গে অঙ্গীকার, যা রক্ষা হয় ঈমান আর আমলে।"
+  },
+  "20:5": {
+    "reflectionEn": "The surah has just told the Prophet ﷺ that the Qur'an was not sent down to bring him distress, only as a reminder for whoever fears. Then it names the One who sent it: He created the earth and the high heavens, and ar-Rahman rose over the Throne. The name set beside the Throne in this verse is the Most Merciful. The verse does not ask me to picture how; nothing is like Him. It asks me to know who rose over the Throne, and that the name given there is mercy. When the duties of faith feel heavy, do I remember whose revelation I carry? And when I feel small under so vast a creation, do I remember that the One who rose over the Throne is ar-Rahman?",
+    "reflectionBn": "সূরাটি এইমাত্র নবী ﷺ-কে বলেছে, কুরআন তাঁকে কষ্টে ফেলার জন্য নাযিল হয়নি। এ কেবল উপদেশ, তার জন্য যে ভয় করে। এরপর জানানো হচ্ছে কে এটা পাঠিয়েছেন: যিনি পৃথিবী আর সুউচ্চ আকাশ সৃষ্টি করেছেন। আর বলা হচ্ছে, আর-রাহমান আরশের উপর উঠেছেন। এই আয়াতে আরশের পাশে যে নাম বসানো, তা হলো পরম দয়াময়। কেমন করে, সে ছবি আঁকতে আয়াত আমাকে ডাকে না। তাঁর মতো কিছুই নেই। আয়াত চায় আমি জানি, আরশের উপর কে উঠেছেন, আর সেখানে তাঁর যে নাম বলা হলো তা দয়ার নাম। দ্বীনের দায়িত্ব যখন ভারী লাগে, আমি কি মনে রাখি, কার পাঠানো ওহি আমি বহন করছি? আর এত বিশাল সৃষ্টির নিচে নিজেকে যখন ছোট মনে হয়, আমি কি মনে রাখি, আরশের উপর যিনি উঠেছেন তিনি আর-রাহমান?",
+    "pointsEn": [
+      "When I read what Allah says about Himself, do I accept it as He gave it, or do I catch myself either picturing it or explaining it away?",
+      "The name beside the Throne here is the Most Merciful. Does my thought of the One who rose over the Throne begin with mercy, or with distance?",
+      "When obedience feels heavy, do I remember that the One who sent the Qur'an said He did not send it to wear me down?",
+      "Where do I let curiosity run past what revelation actually says, and could I learn to stop where it stops?",
+      "If all that is in the heavens and the earth belongs to Him, what am I holding today as though it were mine?"
+    ],
+    "pointsBn": [
+      "আল্লাহ নিজের সম্পর্কে যা বলেছেন, তা পড়ে আমি কি যেভাবে এসেছে সেভাবেই মেনে নিই? নাকি দেখি, মনে মনে তার ছবি আঁকছি, কিংবা ব্যাখ্যা দিয়ে কথাটাই সরিয়ে দিচ্ছি?",
+      "এখানে আরশের পাশে নামটি পরম দয়াময়। আরশের উপর যিনি উঠেছেন, তাঁর কথা ভাবতে গেলে আমার মনে আগে আসে দয়া, নাকি দূরত্ব?",
+      "আনুগত্য যখন ভারী লাগে, আমি কি মনে রাখি, কুরআন যিনি পাঠিয়েছেন তিনিই বলেছেন, আমাকে ক্লান্ত করে ফেলার জন্য তা পাঠানো হয়নি?",
+      "কোথায় আমি কৌতূহলকে ওহির কথার সীমা ছাড়িয়ে যেতে দিই? ওহি যেখানে থামে, সেখানে থামতে কি শিখতে পারি?",
+      "আসমান ও যমীনে যা কিছু আছে সবই যদি তাঁর হয়, তবে আজ কোন জিনিসটা আমি নিজের বলে আঁকড়ে ধরে আছি?"
+    ],
+    "lessonEn": "Affirm what Allah says of Himself without asking how or likening Him to anything, and let the name beside His Throne, the Most Merciful, shape how you turn to Him.",
+    "lessonBn": "আল্লাহ নিজের সম্পর্কে যা বলেছেন, কেমন করে তা না জিজ্ঞেস করে এবং কোনো কিছুর সঙ্গে তাঁর তুলনা না করে মেনে নিন। আর তাঁর আরশের পাশে যে নাম, পরম দয়াময়, সেটাই ঠিক করে দিক আপনি কীভাবে তাঁর দিকে ফিরবেন।"
   }
 };
 

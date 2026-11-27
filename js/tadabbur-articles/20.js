@@ -151,6 +151,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words That Name the Sender",
+          "bn": "চার শব্দে প্রেরকের পরিচয়"
+        },
+        "p": [
+          {
+            "en": "Surah Ta Ha opens with comfort. In 20:2 and 20:3 the Prophet ﷺ is told that the Qur'an was not sent down to bring him distress, only as a reminder for whoever fears. Then 20:4 says where it came from: a revelation from Him who created the earth and the high heavens. Our verse continues that description in four Arabic words, ar-Rahmanu 'ala al-'arshi istawa: the Most Merciful rose over the Throne. Verse 20:6 carries it on: to Him belongs what is in the heavens, on the earth, between them and beneath the soil.",
+            "bn": "সূরা ত্ব-হা শুরু হয় সান্ত্বনা দিয়ে। ২০:২ ও ২০:৩ আয়াতে নবী ﷺ-কে বলা হয়, কুরআন তাঁকে কষ্টে ফেলতে নাযিল হয়নি, এ কেবল উপদেশ, তার জন্য যে ভয় করে। এরপর ২০:৪ জানায় এটা এসেছে কোথা থেকে: যিনি পৃথিবী আর সুউচ্চ আকাশ সৃষ্টি করেছেন, তাঁর কাছ থেকে। আমাদের আয়াত সেই পরিচয় আরও চারটি আরবি শব্দে এগিয়ে নেয়: আর-রাহমানু আলাল আরশিস তাওয়া, পরম দয়াময় আরশের উপর উঠেছেন। ২০:৬ কথাটা আরও টেনে নেয়: আসমানে, যমীনে, দুয়ের মাঝে আর মাটির নিচে যা কিছু আছে, সবই তাঁর।"
+          },
+          {
+            "en": "The order of the Arabic is worth noticing. The name comes first, then the Throne, and the verb that joins them is held to the end. The clause speaks of an attribute of Allah, so this article does what the commentators it draws on do: it reports their words, names who said what, and adds nothing of its own beyond what 42:11 states plainly, that there is nothing like Him.",
+            "bn": "আরবি বাক্যের সাজানোটা খেয়াল করার মতো। প্রথমে নাম, তারপর আরশ, আর দুটোকে যে ক্রিয়া জুড়ে দেয় তা রাখা হয়েছে একেবারে শেষে। কথাটা আল্লাহর এক সিফাত নিয়ে। তাই এই লেখা সেটাই করবে যা এর উৎস তাফসীরকারেরা করেছেন: তাঁদের কথা তুলে ধরবে, কে কী বলেছেন তা নাম ধরে জানাবে। নিজের পক্ষ থেকে এর বেশি কিছু যোগ করবে না, যা ৪২:১১ সোজাসুজি বলে দিয়েছে: তাঁর মতো কিছুই নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Most Merciful as Sender",
+          "bn": "যিনি পাঠালেন, তিনি দয়াময়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari first glosses the verse: ar-Rahman rose high over His Throne and was exalted, irtafa'a wa 'ala. He says he has already explained the meaning of istiwa', with its supporting evidence, earlier in his work, and recorded the disagreement of those who differed over it, so he does not repeat it here. What he does add on this verse is grammar. The name ar-Rahman stands in the nominative case, and he gives two ways of accounting for it.",
+            "bn": "তাবারী প্রথমে আয়াতের অর্থ বলেন: আর-রাহমান তাঁর আরশের উপর উঠেছেন ও সমুন্নত হয়েছেন, ইরতাফাআ ওয়া আলা। তিনি জানান, ইস্তিওয়ার অর্থ প্রমাণসহ তিনি আগেই ব্যাখ্যা করেছেন, এ নিয়ে যাঁরা মতভেদ করেছেন তাঁদের কথাও সেখানে এনেছেন। তাই এখানে আর পুনরাবৃত্তি করেন না। এ আয়াতে তিনি নতুন যা দেন তা ব্যাকরণ। আর-রাহমান নামটি পেশযুক্ত, অর্থাৎ কর্তৃকারকে। এর কারণ তিনি দুইভাবে ব্যাখ্যা করেন।"
+          },
+          {
+            "en": "On the first, the name explains tanzilan, a revelation, at the start of 20:4. The sense becomes: He who created the earth and the heavens sent it down; ar-Rahman, who rose over the Throne, sent it down. On the second, the name is the subject of the clause 'ala al-'arshi istawa, because the verb istawa carries within it a reference back to ar-Rahman. The first reading ties the name directly to the sending down of the Qur'an.",
+            "bn": "প্রথম ব্যাখ্যায় নামটি ২০:৪-এর শুরুর শব্দ তানযীলান, অর্থাৎ নাযিলকৃত, তার সঙ্গে যুক্ত। তখন অর্থ দাঁড়ায়: যিনি পৃথিবী ও আকাশ সৃষ্টি করেছেন তিনি এটা নাযিল করেছেন; আরশের উপর যিনি উঠেছেন সেই আর-রাহমান এটা নাযিল করেছেন। দ্বিতীয় ব্যাখ্যায় নামটি 'আলাল আরশিস তাওয়া' বাক্যের কর্তা, কারণ ইস্তাওয়া ক্রিয়ার ভেতরেই আর-রাহমানের দিকে ফেরানো একটা উল্লেখ আছে। প্রথম পাঠে নামটি সরাসরি কুরআন নাযিলের সঙ্গে বাঁধা পড়ে।"
+          },
+          {
+            "en": "At-Tabari draws no lesson from this himself. But on his first reading the sentence says, in so many words, that the Qur'an came down from ar-Rahman, and two verses earlier 20:2 has said it was not sent down to bring distress. A reader who feels the weight of the duties the Qur'an brings can hold the two statements together. The commands are real, and in this sentence the name of Him who sent them is the Most Merciful.",
+            "bn": "তাবারী নিজে এখান থেকে কোনো শিক্ষা বের করেননি। তবে তাঁর প্রথম পাঠে বাক্যটি স্পষ্ট বলে, কুরআন এসেছে আর-রাহমানের কাছ থেকে। আর দুই আয়াত আগে ২০:২ বলেছে, কষ্টে ফেলার জন্য তা নাযিল হয়নি। কুরআনের দায়িত্বের ভার যিনি অনুভব করেন, তিনি দুটো কথা একসঙ্গে মনে রাখতে পারেন। হুকুমগুলো সত্যি, আর এই বাক্যে সেগুলো যিনি পাঠিয়েছেন তাঁর নাম পরম দয়াময়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where a Reciter May Pause",
+          "bn": "তিলাওয়াতে কোথায় থামা চলে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi, on this verse, sets out what the grammarians allowed for the same word. The accusative is permissible, taken as praise. Abu Ishaq gives the genitive, taking the name as a substitute, a badal, for what came before it. Sa'id ibn Mas'ada takes the nominative in the sense of huwa ar-Rahman, He is the Most Merciful, as though a short new sentence began here. These are cases the grammar permits, as al-Qurtubi presents them, and each keeps the same name in view.",
+            "bn": "কুরতুবী এ আয়াতে দেখান, একই শব্দের বেলায় ব্যাকরণবিদেরা কী কী সম্ভাবনা মেনেছেন। প্রশংসার অর্থে যবর দিয়ে পড়া জায়েয। আবু ইসহাক যের দেওয়ার কথা বলেন, নামটিকে আগের শব্দের বদল ধরে। সাঈদ ইবন মাসআদা পেশ ধরেন 'হুওয়ার রাহমান' অর্থে, অর্থাৎ তিনিই পরম দয়াময়, যেন এখান থেকে ছোট একটা নতুন বাক্য শুরু হলো। কুরতুবী এগুলোকে ব্যাকরণে অনুমোদিত দিক হিসেবেই উপস্থাপন করেন। প্রতিটিতেই নামটা একই থাকে।"
+          },
+          {
+            "en": "An-Nahhas, whom al-Qurtubi quotes next, ties the grammar to recitation. If ar-Rahman is a subject whose predicate is lahu ma fi as-samawat, to Him belongs what is in the heavens, at the start of 20:6, then one does not pause at istawa, since the sentence runs on. If instead the name substitutes for the pronoun hidden in khalaqa, He created, in 20:4, a pause at istawa is allowed, and likewise if it is the predicate of an unstated subject. On the first view, the Throne and the ownership of all things form one sentence.",
+            "bn": "এরপর কুরতুবী নাহহাসের কথা আনেন, যিনি ব্যাকরণকে তিলাওয়াতের সঙ্গে মিলিয়ে দেখেন। আর-রাহমান যদি উদ্দেশ্য হয় আর তার বিধেয় হয় ২০:৬-এর শুরু 'লাহু মা ফিস সামাওয়াত', আসমানে যা আছে সব তাঁর, তবে ইস্তাওয়াতে থামা হবে না, কারণ বাক্য তখনো চলছে। আর নামটি যদি ২০:৪-এর খালাকা, অর্থাৎ সৃষ্টি করেছেন, ক্রিয়ার ভেতরের সর্বনামের বদল হয়, তবে ইস্তাওয়াতে থামা যায়। একই কথা খাটে যদি নামটি অনুক্ত কোনো উদ্দেশ্যের বিধেয় হয়। প্রথম মতে আরশ আর সবকিছুর মালিকানা মিলে একটাই বাক্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Risen and Exalted, in Their Glosses",
+          "bn": "উঠেছেন, সমুন্নত হয়েছেন"
+        },
+        "p": [
+          {
+            "en": "The glosses on the verb are short and close to each other. At-Tabari, as above: He rose high over His Throne and was exalted. The Muyassar: 'ala wa-irtafa'a, He was exalted and rose high, with a rising that befits His majesty and greatness. As-Sa'di: a rising that befits His majesty and suits His greatness and His beauty. None of the three explains the rising by anything in creation; each qualifies it by what is fitting for Allah alone.",
+            "bn": "ক্রিয়াটির অর্থ নিয়ে তাঁদের কথা ছোট, আর একে অন্যের খুব কাছাকাছি। তাবারী, যেমন আগে এসেছে: তিনি তাঁর আরশের উপর উঠেছেন ও সমুন্নত হয়েছেন। মুয়াসসার বলে: আলা ওয়া ইরতাফাআ, তিনি সমুন্নত হয়েছেন ও উঠেছেন, এমন উঠা যা তাঁর মহিমা ও বড়ত্বের উপযুক্ত। সা'দী বলেন: এমন উঠা যা তাঁর মহিমার উপযুক্ত, তাঁর বড়ত্ব আর সৌন্দর্যের সঙ্গে মানানসই। তিনজনের কেউই সৃষ্টির কোনো কিছু দিয়ে এ উঠার ব্যাখ্যা দেন না। প্রত্যেকে একে বেঁধে দেন কেবল আল্লাহর জন্য যা শোভন তার সঙ্গে।"
+          },
+          {
+            "en": "Al-Qurtubi, on this verse, refers his reader to al-A'raf, and at 7:54 he gives the language. In the speech of the Arabs, he says, istiwa' is height and settledness, al-'uluw wa-l-istiqrar. Through Abu 'Umar ibn 'Abd al-Barr he reports Abu 'Ubayda on this very verse, ar-Rahmanu 'ala al-'arshi istawa: it means 'ala, He was exalted.",
+            "bn": "কুরতুবী এ আয়াতে পাঠককে সূরা আ'রাফে পাঠিয়ে দেন, আর ৭:৫৪-এ তিনি ভাষার দিকটা খুলে বলেন। তাঁর কথায়, আরবদের ভাষায় ইস্তিওয়া মানে উচ্চতা ও স্থিতি, আল-উলুউ ওয়াল ইস্তিকরার। আবু উমার ইবন আব্দিল বার্‌রের সূত্রে তিনি আবু উবায়দার কথা আনেন, ঠিক এই আয়াত 'আর-রাহমানু আলাল আরশিস তাওয়া' সম্পর্কে: এর অর্থ আলা, তিনি সমুন্নত হয়েছেন।"
+          },
+          {
+            "en": "Al-Qurtubi then adds a remark in his own name. The highness of Allah and His elevation, he writes, are an expression of the highness of His glory, His attributes and His dominion: no one is above Him in the meanings of majesty that are His due, and no one shares that height with Him, for He is the Most High without qualification. It is his formulation, and it is given here as his.",
+            "bn": "এরপর কুরতুবী নিজের নামে একটি মন্তব্য যোগ করেন। তিনি লেখেন, আল্লাহর উচ্চতা ও সমুন্নতি হলো তাঁর মর্যাদা, তাঁর সিফাত ও তাঁর রাজত্বের উচ্চতার প্রকাশ। মহিমার যে অর্থ তাঁর প্রাপ্য, তাতে তাঁর উপরে কেউ নেই, আর সেই উচ্চতায় তাঁর কোনো শরিকও নেই। তিনিই নিঃশর্তভাবে সর্বোচ্চ। ভাষ্যটি কুরতুবীর, এখানে তাঁর কথা হিসেবেই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Over the Vastest Thing Made",
+          "bn": "সবচেয়ে বিশাল সৃষ্টির উপর"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di describes the Throne before he reaches the verb: it is the highest of created things, the greatest and the widest. Al-Qurtubi, at 7:54, gives the same reason in his account of the first generations: the Throne was singled out for this because it is the greatest of His creations. He also records the senses of the word 'arsh in Arabic, among them a king's seat, a roof, and kingship and rule, as when a man's throne is said to be toppled because his rule is gone.",
+            "bn": "ক্রিয়ায় পৌঁছানোর আগে সা'দী আরশের বর্ণনা দেন: সৃষ্টির মধ্যে সবচেয়ে উঁচু, সবচেয়ে বড়, সবচেয়ে প্রশস্ত। কুরতুবী ৭:৫৪-এ প্রথম যুগের আলেমদের কথা বলতে গিয়ে একই কারণ দেন: এর জন্য আরশকে আলাদা করে বলা হয়েছে, কারণ তা তাঁর সৃষ্টির মধ্যে সবচেয়ে বড়। আরবিতে আরশ শব্দের নানা অর্থও তিনি লিখে রাখেন। তার মধ্যে আছে রাজার আসন, ছাদ, আর রাজত্ব ও ক্ষমতা। যেমন কারও ক্ষমতা চলে গেলে বলা হয়, তার আরশ ভেঙে পড়েছে।"
+          },
+          {
+            "en": "As-Sa'di ends his line on the verse with two verbs that rhyme in Arabic: fa-stawa 'ala al-'arsh, wa-htawa 'ala al-mulk, He rose over the Throne and took the dominion in hand. That second verb leads straight into 20:6. There Ibn Kathir's English abridgement says that everything in the heavens, on the earth, between them and beneath the soil is owned by Him and in His grasp, under His control, will and judgement. The verses move from the Throne down to what lies under the soil, and all of it is His.",
+            "bn": "সা'দী আয়াতের উপর তাঁর কথা শেষ করেন এমন দুটি ক্রিয়া দিয়ে, আরবিতে যাদের ধ্বনি মিলে যায়: ফাসতাওয়া আলাল আরশ, ওয়াহতাওয়া আলাল মুলক। তিনি আরশের উপর উঠলেন, আর রাজত্ব হাতে নিলেন। দ্বিতীয় ক্রিয়াটি সোজা নিয়ে যায় ২০:৬-এর দিকে। সেখানে ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, আসমানে, যমীনে, দুয়ের মাঝে আর মাটির নিচে যা কিছু আছে, সব তাঁর মালিকানায়, তাঁর মুঠোয়, তাঁর নিয়ন্ত্রণ, ইচ্ছা আর ফয়সালার অধীন। আয়াতগুলো আরশ থেকে নেমে আসে মাটির নিচ পর্যন্ত, আর এর সবটাই তাঁর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Course He Calls Safest",
+          "bn": "যে পথকে তিনি নিরাপদ বলেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, on this verse, says the subject was treated in al-A'raf and gives one sentence of method. The safest course, he writes, is the way of the salaf: to pass on what came about this in the Book and the Sunnah without takyif, tahrif, tashbih, ta'til or tamthil. In plain terms: without asking how, without bending the words from their sense, without likening Him to creation, without denying the attribute, and without making anything His equal.",
+            "bn": "ইবন কাসীর এ আয়াতে বলেন, বিষয়টি সূরা আ'রাফে আলোচিত হয়েছে, আর পদ্ধতি নিয়ে একটি বাক্য দেন। তাঁর ভাষায় সবচেয়ে নিরাপদ পথ হলো সালাফের পথ: কিতাব ও সুন্নাহয় এ বিষয়ে যা এসেছে তা যেমন এসেছে তেমনই চালিয়ে দেওয়া, তাকয়ীফ, তাহরীফ, তাশবীহ, তা'তীল বা তামসীল ছাড়া। সহজ কথায়: কেমন করে তা না জিজ্ঞেস করে, শব্দকে তার অর্থ থেকে না ঘুরিয়ে, তাঁকে সৃষ্টির মতো না বানিয়ে, সিফাতকে অস্বীকার না করে, আর কোনো কিছুকে তাঁর সমান না ধরে।"
+          },
+          {
+            "en": "At 7:54, the place he points to, Ibn Kathir names those whose way this is: Malik, al-Awza'i, ath-Thawri, al-Layth ibn Sa'd, ash-Shafi'i, Ahmad ibn Hanbal, Ishaq ibn Rahawayh and other imams. There he uses three of the five terms: without takyif, tashbih or ta'til. Whatever first occurs to the minds of those who liken Allah to creation, he says, is denied of Him, because nothing in His creation resembles Him, and he quotes 42:11.",
+            "bn": "যে ৭:৫৪-এর দিকে তিনি ইশারা করেন, সেখানে ইবন কাসীর জানান এ পথ কাদের: মালিক, আওযাঈ, সাওরী, লাইস ইবন সা'দ, শাফিঈ, আহমাদ ইবন হাম্বল, ইসহাক ইবন রাহাওয়াইহ, আরও অনেক ইমাম। সেখানে তিনি পাঁচটির মধ্যে তিনটি শব্দ ব্যবহার করেন: তাকয়ীফ, তাশবীহ আর তা'তীল ছাড়া। আল্লাহকে যারা সৃষ্টির সঙ্গে তুলনা করে, তাদের মনে প্রথমেই যে অর্থ ভেসে ওঠে, তা আল্লাহর ক্ষেত্রে বাতিল। কারণ তাঁর সৃষ্টির কোনো কিছুই তাঁর সদৃশ নয়। এ কথা বলে তিনি ৪২:১১ উদ্ধৃত করেন।"
+          },
+          {
+            "en": "He closes that passage with a sentence that gathers both sides. Whoever affirms for Allah what the clear verses and the sound reports bring, in the manner that befits His majesty, and denies of Him every deficiency, has taken the path of guidance. At 20:5, Ibn Kathir's English abridgement renders his five terms as accepting the reports without describing them, reinterpreting them, resembling them to creation, rejecting them, or comparing them to the attributes of the creatures.",
+            "bn": "সেখানকার আলোচনা তিনি শেষ করেন এমন এক বাক্যে, যা দুই দিকই ধরে রাখে। স্পষ্ট আয়াত আর সহীহ বর্ণনা আল্লাহর জন্য যা সাব্যস্ত করে, তা যে ব্যক্তি তাঁর মহিমার উপযুক্তভাবে মেনে নেয় এবং তাঁর থেকে সব ত্রুটি নাকচ করে, সে হিদায়াতের পথ ধরেছে। ২০:৫-এ ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ তাঁর পাঁচ শব্দকে এভাবে প্রকাশ করে: বর্ণনাগুলো মেনে নেওয়া, তার রূপ বর্ণনা না করে, নতুন ব্যাখ্যা না দিয়ে, সৃষ্টির সদৃশ না বানিয়ে, অস্বীকার না করে, আর সৃষ্টির গুণের সঙ্গে তুলনা না করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Their Accounts Part",
+          "bn": "যেখানে তাঁদের বিবরণ আলাদা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the widest range. At 7:54 he says he set out fourteen views on istiwa' in another book of his, al-Kitab al-Asna. He reports the view of most scholars, earlier and later, which he names the view of the theologians: that Allah is beyond direction, since being in a direction would entail place, and place would entail motion, rest and change. He then says the first generations did not deny direction or speak of denying it; they, and people generally, affirmed it as His Book spoke.",
+            "bn": "সবচেয়ে বিস্তৃত চিত্র দেন কুরতুবী। ৭:৫৪-এ তিনি বলেন, ইস্তিওয়া নিয়ে চৌদ্দটি মত তিনি তাঁর আরেক গ্রন্থ আল-কিতাবুল আসনায় লিখেছেন। তিনি আগের ও পরের অধিকাংশ আলেমের মত উল্লেখ করেন, যাকে তিনি নাম দেন কালামশাস্ত্রবিদদের মত: আল্লাহ দিকের ঊর্ধ্বে। কারণ কোনো দিকে থাকলে স্থান লাগে, আর স্থান মানলে গতি, স্থিরতা ও পরিবর্তন এসে পড়ে। তারপর তিনি বলেন, প্রথম যুগের সালাফ দিক অস্বীকার করেননি, অস্বীকারের কথা মুখেও আনেননি। বরং তাঁরা ও সাধারণ মানুষ তা সাব্যস্ত করেছেন, যেমন তাঁর কিতাব বলেছে।"
+          },
+          {
+            "en": "None of the righteous predecessors, he goes on, denied that He rose over His Throne in reality; what they did not know was how. He quotes Malik: the istiwa' is known, meaning in the language, the how is unknown, and asking about this is an innovation; and he says Umm Salama said the same. On this verse he adds that ash-Shaykh Abu al-Hasan and others held that He is risen over His Throne without limit and without how, not as created beings rise.",
+            "bn": "তিনি আরও বলেন, নেককার সালাফের কেউই অস্বীকার করেননি যে তিনি প্রকৃত অর্থেই তাঁর আরশের উপর উঠেছেন। তাঁরা যা জানতেন না তা হলো, কেমন করে। এরপর তিনি ইমাম মালিকের কথা উদ্ধৃত করেন: ইস্তিওয়া জানা, অর্থাৎ ভাষায়; কেমন করে, তা অজানা; আর এ নিয়ে প্রশ্ন করা বিদআত। তিনি জানান, উম্মু সালামা (রাঃ)-ও একই কথা বলেছেন। এ আয়াতে তিনি যোগ করেন, আশ-শাইখ আবুল হাসান ও অন্যরা মনে করতেন, তিনি তাঁর আরশের উপর উঠেছেন সীমা ছাড়া, কেমন করে তা ছাড়া, সৃষ্টির উঠার মতো নয়।"
+          },
+          {
+            "en": "He also records, from the lexicographer al-Jawhari, the senses of istawa in Arabic: to straighten, to settle on a mount, to turn towards something, to take control and prevail, istawla, and to reach full manhood. These are the word's senses, not his reading of this verse. Of the Throne, he notes that some interpret it in the verse as dominion, meaning dominion is His alone; he calls that a good view, though open to question.",
+            "bn": "অভিধানবিদ জাওহারী থেকে কুরতুবী আরবিতে ইস্তাওয়ার নানা অর্থও লিখে রাখেন: বাঁকা থেকে সোজা হওয়া, বাহনের পিঠে স্থির হয়ে বসা, কোনো কিছুর দিকে মনোযোগ দেওয়া, দখল নেওয়া ও প্রবল হওয়া, অর্থাৎ ইস্তাওলা। আরেক অর্থ, যৌবনের পূর্ণতায় পৌঁছানো। এগুলো শব্দটির অভিধানগত অর্থ, এ আয়াতের ব্যাখ্যা হিসেবে তাঁর মত নয়। আরশ সম্পর্কে তিনি জানান, কেউ কেউ আয়াতে একে রাজত্ব অর্থে নেন, অর্থাৎ রাজত্ব একমাত্র তাঁর। কুরতুবী একে ভালো মত বলেন, তবে তাতে আপত্তির জায়গাও আছে বলে উল্লেখ করেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, on this verse, says the majority of the early scholars held that the exact nature of the istiwa' is known to no one, and counts the words among the mutashabihat. A Muslim, it says, believes that the istiwa' on the Throne is true, in a manner in keeping with Allah's high attributes, though no one can grasp its nature in this world. These positions are not identical, and each is left here with the scholar who holds it.",
+            "bn": "মাআরিফুল কুরআন এ আয়াতে বলে, প্রথম যুগের অধিকাংশ আলেমের মত হলো, ইস্তিওয়ার আসল ধরন কেউ জানে না। এ শব্দগুলোকে সে মুতাশাবিহাতের মধ্যে গণ্য করে। তার কথায়, একজন মুসলিম বিশ্বাস করেন, আরশের উপর ইস্তিওয়া সত্য, আর তা আল্লাহর উচ্চ সিফাতের সঙ্গে মানানসই। তবে দুনিয়ায় কেউ তার ধরন বুঝতে পারে না। এ মতগুলো হুবহু এক নয়। যে আলেমের যে মত, এখানে তা তাঁরই নামে রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Writing Above the Throne",
+          "bn": "আরশের উপরের সেই লেখা"
+        },
+        "p": [
+          {
+            "en": "None of the commentators fetched for this verse attaches a hadith to it, and none gives a report on the occasion of its revelation. There is a narration in Sahih al-Bukhari, not tied to this verse by them, that sets mercy and the Throne side by side. Abu Huraira reports that Allah's Messenger ﷺ said: \"When Allah completed the creation, He wrote in His Book which is with Him on His Throne, 'My Mercy overpowers My Anger.'\" The Arabic has fawqa al-'arsh, above the Throne.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জোড়ে না, নাযিলের কোনো প্রেক্ষাপটও দেয় না। সহীহ বুখারীতে একটি বর্ণনা আছে, যা তাঁরা এ আয়াতের সঙ্গে যুক্ত করেননি, কিন্তু তাতে রহমত আর আরশ পাশাপাশি এসেছে। আবু হুরাইরা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"আল্লাহ যখন সৃষ্টির কাজ সম্পন্ন করলেন, তখন তাঁর কাছে আরশের উপরে থাকা তাঁর কিতাবে লিখলেন: আমার রহমত আমার ক্রোধের উপর প্রবল।\" আরবিতে আছে ফাওকাল আরশ, আরশের উপরে।"
+          },
+          {
+            "en": "That narration is not an explanation of 20:5, and it should not be read as one. Yet the two can be held in mind together. The name this verse gives with the Throne is ar-Rahman, and in the narration the Prophet ﷺ speaks of a writing with Allah above the Throne whose words are about mercy prevailing. A reader who meets the Throne in this verse meets it first through a name of mercy, and the narration puts mercy in the same place.",
+            "bn": "এই বর্ণনা ২০:৫-এর ব্যাখ্যা নয়, আর ব্যাখ্যা হিসেবে পড়াও ঠিক নয়। তবু দুটি কথা মনে পাশাপাশি রাখা যায়। এ আয়াতে আরশের সঙ্গে যে নাম এসেছে, তা আর-রাহমান। আর বর্ণনায় নবী ﷺ বলছেন আরশের উপরে আল্লাহর কাছে থাকা এক লেখার কথা, যার বিষয় রহমতের প্রাবল্য। এ আয়াতে পাঠক আরশের সাক্ষাৎ পান প্রথমে দয়ার একটি নামের ভেতর দিয়ে। বর্ণনাটিও রহমতকে রাখে সেই একই জায়গায়।"
+          },
+          {
+            "en": "What the verse asks of a reader, then, lies in its own words and in 42:11. It names ar-Rahman, it names the Throne, and it says istawa; nothing is like Him, and He is the Hearing, the Seeing. The commentators quoted here stop at different points, and the article leaves each where he stops. The reader can keep what all of them share: to take the words as Allah gave them, to liken Him to nothing, and to turn to Him whom this verse names the Most Merciful.",
+            "bn": "তাহলে আয়াত পাঠকের কাছে যা চায়, তা আছে তার নিজের শব্দে আর ৪২:১১-এ। আয়াত নাম নেয় আর-রাহমানের, নাম নেয় আরশের, আর বলে ইস্তাওয়া। তাঁর মতো কিছুই নেই, আর তিনি সব শোনেন, সব দেখেন। এখানে যাঁদের কথা এসেছে, তাঁরা থেমেছেন আলাদা আলাদা জায়গায়। এই লেখা প্রত্যেককে তাঁর থামার জায়গাতেই রেখে দেয়। পাঠক ধরে রাখতে পারেন সেটুকু, যা সবার মধ্যে মিল: আল্লাহ যেভাবে শব্দগুলো দিয়েছেন সেভাবে গ্রহণ করা, কোনো কিছুর সঙ্গে তাঁর তুলনা না করা, আর এ আয়াত যাঁকে পরম দয়াময় বলে, তাঁর দিকেই ফেরা।"
+          }
+        ]
+      }
+    ]
+  },
   "20:7-8": {
     "sections": [
       {
