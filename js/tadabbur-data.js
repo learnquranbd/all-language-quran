@@ -36953,6 +36953,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every joy here carries something that spoils it. Hope for the gardens named for bliss, and ask Allah to make you one of the sincere, a gift before it is your work.",
     "lessonBn": "দুনিয়ার প্রতিটি আনন্দে এমন কিছু থাকে যা তাকে মলিন করে। সুখের নামে নাম রাখা জান্নাতের আশা রাখুন, আর আল্লাহর কাছে চান যেন তিনি আপনাকে একনিষ্ঠদের একজন করে নেন। এটা আপনার আমলের আগে তাঁর দান।"
+  },
+  "37:82": {
+    "reflectionEn": "Seven verses honour one man: his call answered, his family rescued, his descendants kept, his name greeted with peace, his faith named. Then three Arabic words close the account: then We drowned the others. They are not named, not counted, not described beyond the one word that sets them apart. They are simply the others, measured against him and found on the far side. Nothing is said of their wealth or their numbers, only of where they stood. The verse records one people in one past event, and it is no key for reading any flood or disaster today. It asks me something quieter. If my life were summed up in a single word beside the people of faith, would that word place me with them, or among the others?",
+    "reflectionBn": "সাতটি আয়াত জুড়ে একজন মানুষের সম্মান: তাঁর ডাকের জবাব এসেছে, পরিবার রক্ষা পেয়েছে, বংশধরেরা টিকে আছে, তাঁর নামে সালাম পাঠানো হয়েছে, তাঁর ঈমানের সাক্ষ্য দেওয়া হয়েছে। তারপর আরবি তিনটি শব্দে হিসাব শেষ: তারপর বাকিদের আমি ডুবিয়ে দিলাম। তাদের নাম নেই, সংখ্যা নেই। যে একটি শব্দ তাদের আলাদা করে, তার বাইরে কোনো বর্ণনাও নেই। তারা শুধু 'অন্যরা', তাঁর পাশে মেপে দেখা হয়েছে, আর পাওয়া গেছে উল্টো দিকে। তাদের ধনসম্পদ বা দলের বহরের কথা কিছুই বলা হয়নি, বলা হয়েছে কেবল তারা কোথায় দাঁড়িয়ে ছিল। আয়াতটি অতীতের একটি ঘটনায় একটি জাতির কথা বলে। আজকের কোনো বন্যা বা দুর্যোগ বোঝার চাবি এটি নয়। প্রশ্নটা বরং আরও নিঃশব্দ। ঈমানদারদের পাশে রেখে আমার গোটা জীবনকে যদি একটি শব্দে লেখা হয়, সে শব্দ কি আমাকে তাঁদের দলে রাখবে, নাকি 'অন্যদের' দলে?",
+    "pointsEn": [
+      "If a whole people could be summed up in three words, what would a single honest word about my life be today?",
+      "Which call to the good have I kept putting off, as though there will always be time to stop lagging behind?",
+      "Do I judge a life by what it leaves behind in wealth and fame, or by which side of the truth it stood on?",
+      "When disaster falls on other people, do I rush to call it punishment, or turn the question back on my own heart?",
+      "What would it take for me to move, this week, from watching the people of faith to standing among them?"
+    ],
+    "pointsBn": [
+      "গোটা একটি জাতিকে যদি তিন শব্দে বলে দেওয়া যায়, তাহলে আজ আমার জীবন নিয়ে একটি সৎ শব্দ কী হবে?",
+      "ভালোর দিকে কোন ডাকটা আমি বারবার পিছিয়ে দিচ্ছি, যেন পিছিয়ে থাকা থামানোর সময় সবসময়ই হাতে থাকবে?",
+      "একটি জীবনকে আমি কী দিয়ে মাপি: পেছনে রেখে যাওয়া সম্পদ আর খ্যাতি দিয়ে, নাকি সত্যের কোন পাশে সে দাঁড়িয়েছিল তা দিয়ে?",
+      "অন্য মানুষের উপর বিপদ নামলে আমি কি তাড়াহুড়ো করে তাকে শাস্তি বলে দিই, নাকি প্রশ্নটা নিজের অন্তরের দিকে ফিরিয়ে আনি?",
+      "এ সপ্তাহে ঈমানদারদের দূর থেকে দেখা ছেড়ে তাঁদের কাতারে গিয়ে দাঁড়াতে আমার কী করতে হবে?"
+    ],
+    "lessonEn": "Being among the saved or among the others is decided by where you stand, not by fortune. Do not lag behind faith while the call is still open to you.",
+    "lessonBn": "রক্ষা পাওয়াদের দলে থাকবেন নাকি অন্যদের দলে, তা ভাগ্যে নয়, আপনি কোথায় দাঁড়িয়ে আছেন তাতেই ঠিক হয়। ডাক যতক্ষণ খোলা আছে, ঈমান থেকে পিছিয়ে থাকবেন না।"
   }
 };
 

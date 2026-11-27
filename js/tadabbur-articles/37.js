@@ -4083,6 +4083,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:82": {
+    "sections": [
+      {
+        "h": {
+          "en": "Seven Verses, Then Three Words",
+          "bn": "সাত আয়াতের পর তিন শব্দ"
+        },
+        "p": [
+          {
+            "en": "Thumma aghraqna al-akharin: then We drowned the others. Three Arabic words close the account of Nuh (AS) in as-Saffat. The passage opened at 37:75 with his call and Allah's answer, and every verse since has been a gift to him: rescue from the great affliction, descendants made the survivors, a good name left among later generations, peace upon him among the worlds, a reward promised to every doer of good, and his place among the believing servants. Only now, at the very end, does the text turn to the people who rejected him.",
+            "bn": "সুম্মা আগরাকনাল আখারীন: তারপর বাকিদের আমি ডুবিয়ে দিলাম। সূরা সাফফাতে নূহ (আঃ)-এর বৃত্তান্ত শেষ হয় এই তিনটি আরবি শব্দে। ঘটনার শুরু ৩৭:৭৫ আয়াতে, তাঁর ডাক আর আল্লাহর জবাব দিয়ে। এরপর প্রতিটি আয়াতই তাঁর জন্য একেকটি দান। মহা বিপদ থেকে উদ্ধার, বংশধরদের টিকিয়ে রাখা, পরবর্তীদের মাঝে সুনাম, বিশ্বজগতে তাঁর প্রতি সালাম, প্রত্যেক সৎকর্মশীলের জন্য প্রতিদানের ওয়াদা, আর মুমিন বান্দাদের মধ্যে তাঁর স্থান। একেবারে শেষে এসে, এই প্রথম, আয়াত ফিরে তাকায় সেই লোকদের দিকে যারা তাঁকে প্রত্যাখ্যান করেছিল।"
+          },
+          {
+            "en": "The proportion is part of the message. Seven verses go to one man and his household; three words go to a whole people. The verse gives them no name, no number and no deeds, only the word that marks them off from him. Then the surah moves straight on, and 37:83 opens the story of Ibrahim (AS) by calling him one of Nuh's own party. The earlier gifts have their own articles at 37:75, 37:79 and 37:80. This one stays with the last three words and what the commentators found in them.",
+            "bn": "অনুপাতটাই বার্তার অংশ। একজন মানুষ আর তাঁর পরিবারের জন্য সাতটি আয়াত, আর গোটা এক জাতির জন্য তিনটি শব্দ। আয়াত তাদের নাম বলে না, সংখ্যা বলে না, কাজের কথাও বলে না। শুধু একটি শব্দ, যা তাদের তাঁর থেকে আলাদা করে দেয়। এরপর সূরা সোজা সামনে এগিয়ে যায়। ৩৭:৮৩ আয়াতে শুরু হয় ইবরাহীম (আঃ)-এর কাহিনি, আর সেখানে তাঁকে বলা হয় নূহেরই দলের লোক। আগের দানগুলো নিয়ে আলাদা লেখা আছে ৩৭:৭৫, ৩৭:৭৯ ও ৩৭:৮০ আয়াতে। এ লেখা থাকবে শেষ তিনটি শব্দের সঙ্গে, আর তাফসীরকারেরা সেখানে যা পেয়েছেন তার সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When 'Then' Is Not Later",
+          "bn": "যে 'তারপর' সময়ের নয়"
+        },
+        "p": [
+          {
+            "en": "The first word raises a question. Thumma usually marks what follows after an interval, yet the rescue of 37:76 and the drowning cannot have been far apart, since the ship was carried through the very water that took the rest. At-Tabari closes the gap in his paraphrase: then We drowned, at the time when We saved Nuh and his family from the great affliction, those of his people who remained. His word hina, at the time when, ties the two events together. The order of the verses is not the order of the clock.",
+            "bn": "প্রথম শব্দটিই একটি প্রশ্ন তোলে। সুম্মা সাধারণত বোঝায় কিছুটা সময় পরে যা ঘটে। অথচ ৩৭:৭৬ আয়াতের উদ্ধার আর এই ডুবিয়ে দেওয়ার মাঝে বেশি ব্যবধান থাকার কথা নয়। যে পানি বাকিদের নিয়ে গেছে, নৌকা তো সেই পানির উপর দিয়েই ভেসে গেছে। তাবারী তাঁর ব্যাখ্যায় ফাঁকটা বুজিয়ে দেন: তারপর আমি ডুবিয়ে দিলাম, যখন নূহ আর তাঁর পরিবারকে মহা বিপদ থেকে উদ্ধার করলাম, তখন তাঁর জাতির বাকি লোকদের। তাঁর ব্যবহৃত 'হীনা' শব্দের মানে 'যখন', আর এ শব্দই দুটি ঘটনাকে এক সময়ে বেঁধে দেয়। আয়াতের ক্রম তাই ঘড়ির ক্রম নয়।"
+          },
+          {
+            "en": "Al-Qurtubi says it outright: thumma here is not for delay but for counting off favours. He compares 90:16 and 90:17, where after freeing a slave and feeding an orphan or a needy person in misery, the passage goes on: then being among those who believed. Faith does not arrive after those deeds in time; the thumma adds one more item to a list. So here, he paraphrases the sense as: then I inform you that I drowned the others. The drowning becomes the closing entry in the record of what Allah did for Nuh (AS).",
+            "bn": "কুরতুবী কথাটা সরাসরি বলেন: এখানে সুম্মা দেরি বোঝাতে আসেনি, এসেছে একের পর এক নিয়ামত গুনে দেখাতে। তিনি তুলনা টানেন ৯০:১৬ ও ৯০:১৭ আয়াতের সঙ্গে। সেখানে দাস মুক্ত করা আর এতিম বা ধুলোমলিন অভাবীকে খাওয়ানোর কথার পর বলা হয়েছে: তারপর সে হয় তাদের একজন, যারা ঈমান এনেছে। ঈমান তো ওই কাজগুলোর পরে আসে না। সুম্মা সেখানে তালিকায় আরেকটি বিষয় যোগ করে। এখানেও কুরতুবী অর্থটা এভাবে খুলে বলেন: তারপর আমি তোমাদের জানাচ্ছি যে বাকিদের আমি ডুবিয়ে দিয়েছি। ফলে ডুবিয়ে দেওয়ার কথাটা হয়ে ওঠে নূহ (আঃ)-এর জন্য আল্লাহর করা কাজের খতিয়ানের শেষ অনুচ্ছেদ।"
+          },
+          {
+            "en": "Read this way, the drowning belongs to the rescue rather than standing apart from it. Ibn Kathir, in the same passage, glosses the great affliction of 37:76 as their disbelief and their insults. If that was the affliction, its end was the end of those who caused it, and the verse's place in the list makes the point without a word of comment. 26:120 tells the same end with thumma and ba'du, thereafter, and its own article weighs that wording. Here the narrower lesson is where the sentence sits.",
+            "bn": "এভাবে পড়লে ডুবিয়ে দেওয়ার ঘটনা উদ্ধারের বাইরের কিছু নয়, উদ্ধারেরই অংশ। একই অংশের আলোচনায় ইবন কাসীর ৩৭:৭৬ আয়াতের 'মহা বিপদ'-এর ব্যাখ্যা দেন: তাদের কুফর আর তাদের গালমন্দ। বিপদ যদি এটাই হয়, তবে তার অবসান মানে বিপদের হোতাদেরই অবসান। আর তালিকায় বাক্যটির জায়গাই কোনো মন্তব্য ছাড়া কথাটা বুঝিয়ে দেয়। ২৬:১২০ আয়াতেও একই পরিণতির কথা আছে, সেখানে সুম্মার সঙ্গে আছে 'বা'দু', মানে এরপর। সে শব্দ নিয়ে সেই আয়াতের লেখাতেই আলোচনা আছে। এখানকার শিক্ষাটা আরও সরু: বাক্যটি কোথায় বসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Only Beside Someone",
+          "bn": "কারও পাশে রেখেই 'অন্য'"
+        },
+        "p": [
+          {
+            "en": "Al-akharin is the plural of akhar, other. Al-Qurtubi notes that the word properly comes with min, others than someone, and that the min has been dropped here because the meaning is known. He adds a rule of usage: a thing is not called other unless something of its own kind came before it. The word cannot stand alone. To be the others is to be defined against a first party, and in this passage the first party is Nuh (AS), his family, and those who were with him in the ship.",
+            "bn": "আল-আখারীন শব্দটি আখার, মানে 'অন্য', এর বহুবচন। কুরতুবী জানান, শব্দটির সঙ্গে আসলে 'মিন' থাকার কথা, অর্থাৎ অমুকের বাইরের অন্যরা। কিন্তু অর্থ জানা বলে এখানে 'মিন' বাদ পড়েছে। তিনি ভাষার একটি নিয়মও যোগ করেন: আগে একই ধরনের কিছু না থাকলে কোনো কিছুকে 'অন্য' বলা হয় না। শব্দটি তাই একা দাঁড়াতে পারে না। 'অন্যরা' হওয়া মানে প্রথম কোনো পক্ষের বিপরীতে চিহ্নিত হওয়া। এই অংশে প্রথম পক্ষ নূহ (আঃ), তাঁর পরিবার, আর নৌকায় যারা তাঁর সঙ্গে ছিল।"
+          },
+          {
+            "en": "That is why the verse can say so much with so little. It does not need to describe the drowned, because the seven verses before it have described the man they are measured against. Whatever he was, they were not; whatever he was given, they lost. Al-Qurtubi then turns the word back on its sense: the others, he says, are those who lagged behind from faith. In Arabic, akhar, other, and ta'akhkhur, falling behind, are built from the same root, and his gloss lets the one explain the other.",
+            "bn": "এ কারণেই এত অল্প কথায় আয়াতটি এত কিছু বলতে পারে। ডুবে যাওয়া লোকদের বর্ণনা দেওয়ার দরকার পড়ে না। যাঁর পাশে রেখে তাদের মাপা হচ্ছে, আগের সাতটি আয়াত তাঁরই বর্ণনা দিয়েছে। তিনি যা ছিলেন, তারা তা ছিল না। তিনি যা পেয়েছেন, তারা তা হারিয়েছে। এরপর কুরতুবী শব্দটিকে তার অর্থের দিকে ফিরিয়ে নেন। তিনি বলেন, অন্যরা হলো তারা, যারা ঈমান থেকে পিছিয়ে রইল। আরবিতে আখার, মানে অন্য, আর তাআখখুর, মানে পিছিয়ে পড়া, একই ধাতু থেকে গড়া। তাঁর ব্যাখ্যায় একটি শব্দ অন্যটিকে খুলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Marks, One People",
+          "bn": "চার চিহ্নে এক জাতি"
+        },
+        "p": [
+          {
+            "en": "The commentators agree on who the others were, but each names them by a different mark. Al-Baghawi says only: the disbelievers. Al-Qurtubi says: those who disbelieved. The Muyassar says: the deniers from among his people, drowned by the flood. At-Tabari names them by what was left over: those of his people who remained once Nuh and his family had been saved. His report from Qatada, through Bishr, Yazid and Sa'id, draws the line by place: Allah saved him and those with him in the ship, and drowned the rest of his people.",
+            "bn": "অন্যরা কারা, তা নিয়ে তাফসীরকারদের মধ্যে মতভেদ নেই, তবে প্রত্যেকে তাদের চেনান ভিন্ন এক চিহ্নে। বাগাভী শুধু বলেন: কাফিররা। কুরতুবী বলেন: যারা কুফরি করেছে। মুয়াসসার বলে: তাঁর জাতির মিথ্যারোপকারীরা, যাদের তুফানে ডোবানো হয়েছে। তাবারী তাদের চেনান যা অবশিষ্ট ছিল তা দিয়ে: নূহ আর তাঁর পরিবারকে বাঁচানোর পর তাঁর জাতির যারা বাকি ছিল। বিশর, ইয়াযীদ ও সাঈদের সূত্রে কাতাদা থেকে তাঁর বর্ণনা সীমারেখা টানে জায়গা দিয়ে: আল্লাহ তাঁকে আর নৌকায় তাঁর সঙ্গীদের বাঁচালেন, আর ডুবিয়ে দিলেন তাঁর জাতির বাকি সবাইকে।"
+          },
+          {
+            "en": "The marks fit together: unbelief, denial, kinship and the ship all point to the same people seen from different sides. The Qur'an gives the same identity in its other tellings. 7:64 and 10:73 both say that Allah drowned those who denied His signs, and 29:14 says the flood seized them while they were wrongdoers. None of these readings marks the drowned by lineage, wealth or rank. They were Nuh's own people, at-Tabari's min qawmihi, and what set them apart from him was their answer to his call.",
+            "bn": "চিহ্নগুলো একটি আরেকটির সঙ্গে মিলে যায়। কুফর, মিথ্যারোপ, আত্মীয়তা আর নৌকা, সবগুলোই ভিন্ন ভিন্ন দিক থেকে একই লোকদের দেখায়। কুরআনের অন্য বর্ণনাগুলোও একই পরিচয় দেয়। ৭:৬৪ ও ১০:৭৩ দুই আয়াতেই আছে, যারা আল্লাহর আয়াতকে মিথ্যা বলেছিল তাদের তিনি ডুবিয়ে দিয়েছেন। আর ২৯:১৪ আয়াত বলে, তারা জালিম অবস্থায় থাকতেই তুফান তাদের পাকড়াও করল। এসব ব্যাখ্যার কোনোটিই বংশ, ধন বা পদমর্যাদা দিয়ে ডুবে যাওয়াদের চিহ্নিত করে না। তারা ছিল নূহেরই জাতির লোক, তাবারীর ভাষায় 'মিন কাওমিহি'। তাঁর থেকে তাদের আলাদা করেছিল তাঁর ডাকে তাদের জবাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not One Eye Left Blinking",
+          "bn": "পলক ফেলার মতো একটি চোখও নয়"
+        },
+        "p": [
+          {
+            "en": "Two commentaries describe the result with the same striking image. Ibn Kathir writes: We destroyed them, so that not one blinking eye remained of them, no mention, no presence and no trace. The Muyassar uses the same phrase: not a blinking eye remained of them. An eye that blinks is the smallest sign of a living person, the movement that continues even when the body lies still. Its absence says the end was complete. None of those who refused was left hidden or overlooked.",
+            "bn": "দুটি তাফসীর পরিণতির ছবি আঁকে একই চমকে দেওয়া উপমায়। ইবন কাসীর লেখেন: আমি তাদের ধ্বংস করে দিলাম, তাদের মধ্যে পলক ফেলার মতো একটি চোখও রইল না, রইল না কোনো স্মরণ, কোনো অস্তিত্ব, কোনো চিহ্ন। মুয়াসসারও একই কথা বলে: তাদের একটি চোখও আর পলক ফেলার মতো রইল না। পলক ফেলা চোখ জীবিত মানুষের সবচেয়ে ছোট আলামত। শরীর নিথর পড়ে থাকলেও এ নড়াচড়াটুকু চলতে থাকে। তার না থাকা মানে পরিণতি ছিল পরিপূর্ণ। যারা অস্বীকার করেছিল, তাদের কেউ লুকিয়ে থাকেনি, কেউ বাদও পড়েনি।"
+          },
+          {
+            "en": "Ibn Kathir then adds a sentence about memory: they are not known except by this ugly description. That is the hard edge of the verse. Whatever names, homes and pride they once had, in the Qur'an's record they survive only as al-akharin, the others who were drowned. The English abridgement of his tafsir puts it: there was no trace whatsoever left of them, and they are only known by this unfavourable description. Three words, in the end, make up their entire record.",
+            "bn": "এরপর ইবন কাসীর স্মৃতি নিয়ে একটি বাক্য যোগ করেন: এই কুৎসিত বিশেষণ ছাড়া আর কিছু দিয়ে তাদের চেনা যায় না। আয়াতের কঠিন দিকটা এখানেই। তাদের নাম, ঘরবাড়ি আর অহংকার যা-ই থাকুক, কুরআনের খতিয়ানে তারা টিকে আছে কেবল 'আল-আখারীন' হয়ে, যে অন্যদের ডুবিয়ে দেওয়া হয়েছিল। তাঁর তাফসীরের ইংরেজি সংক্ষেপেও একই কথা: তাদের কোনো চিহ্নই আর অবশিষ্ট রইল না, আর এই অপ্রীতিকর বিশেষণেই কেবল তাদের পরিচয়। শেষ পর্যন্ত তিনটি শব্দই তাদের গোটা ইতিহাস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Name Kept, a Name Lost",
+          "bn": "এক নাম রইল, আরেক নাম মুছল"
+        },
+        "p": [
+          {
+            "en": "Set beside 37:78 and 37:79, the contrast is plain. Of Nuh (AS), Allah left a good mention among later generations and peace upon him among the worlds. Ma'arif al-Qur'an, on those verses, says this is how it actually happened: every religion attributed to a revealed scripture reveres him as a prophet, and Jews and Christians, besides Muslims, regard him as a spiritual leader. Of his opponents, on Ibn Kathir's sentence, nothing is remembered but the manner of their end. One name is greeted; the others are not named at all.",
+            "bn": "৩৭:৭৮ ও ৩৭:৭৯ আয়াতের পাশে রাখলে তফাতটা স্পষ্ট। নূহ (আঃ)-এর জন্য আল্লাহ পরবর্তীদের মাঝে সুনাম রেখে দিলেন, আর বিশ্বজগতে তাঁর প্রতি সালাম। মাআরিফুল কুরআন ওই আয়াতগুলোর আলোচনায় বলে, বাস্তবে ঠিক তা-ই ঘটেছে। আসমানি কিতাবের সঙ্গে সম্পর্ক দাবি করে এমন প্রতিটি ধর্ম তাঁকে নবী বলে শ্রদ্ধা করে, আর মুসলিমদের পাশাপাশি ইহুদি ও খ্রিস্টানরাও তাঁকে আধ্যাত্মিক নেতা মানে। আর তাঁর বিরোধীদের বেলায়, ইবন কাসীরের বাক্য অনুযায়ী, তাদের পরিণতির ধরন ছাড়া আর কিছুই মনে রাখা হয়নি। একজনের নামে সালাম যায়, অন্যদের নামই নেওয়া হয় না।"
+          },
+          {
+            "en": "The same contrast runs through the idea of survival. In 37:77 Nuh's descendants are hum al-baqin, the ones who remained. In the same passage Ibn Kathir reports from Ibn 'Abbas, through 'Ali ibn Abi Talha, that no one remained except Nuh's offspring, and from Qatada that all people descend from them. Whether every later human descends from Nuh belongs to that verse. At-Tirmidhi also records a report from Samura, raised to the Prophet ﷺ, on Nuh's sons; he himself grades it hasan gharib, so it is not quoted here.",
+            "bn": "টিকে থাকার ধারণাতেও একই তফাত চলে আসে। ৩৭:৭৭ আয়াতে নূহের বংশধরদের বলা হয়েছে 'হুমুল বাকীন', তারাই রয়ে গেল। একই অংশে ইবন কাসীর আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা আনেন যে নূহের বংশধর ছাড়া আর কেউ রইল না। কাতাদা থেকে আনেন যে সব মানুষ তাঁদেরই বংশ। পরের সব মানুষ নূহেরই বংশধর কি না, সে প্রশ্ন ওই আয়াতের। তিরমিযী সামুরা (রাঃ) থেকে নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনাও রেখেছেন, বিষয় নূহের পুত্রেরা। তিনি নিজেই একে হাসান গরীব বলেছেন, তাই এখানে তা উদ্ধৃত হলো না।"
+          },
+          {
+            "en": "That makes the word baqin worth a second look. At-Tabari glosses the drowned as those of his people who remained, and 26:120 calls them al-baqin, the remaining ones. Yet after the flood, 37:77 gives the same word to Nuh's offspring. Those who remained among his people were drowned; those who truly remained were the children of the man they had insulted. The root does not change, but what it names does, and the turning point is where each one stood.",
+            "bn": "এ কারণে 'বাকীন' শব্দটার দিকে আরেকবার তাকানো দরকার। তাবারী ডুবে যাওয়াদের ব্যাখ্যা করেন তাঁর জাতির যারা বাকি ছিল বলে, আর ২৬:১২০ আয়াত তাদের বলে 'আল-বাকীন', বাকিরা। অথচ তুফানের পরে ৩৭:৭৭ আয়াত একই শব্দ দেয় নূহের বংশধরদের। জাতির মধ্যে যারা বাকি ছিল, তারা ডুবে গেল। আর যারা সত্যিই রয়ে গেল, তারা সেই মানুষটির সন্তান, যাঁকে ওরা গালমন্দ করত। ধাতু বদলায় না, বদলায় সে যাকে বোঝায়। আর মোড় ঘোরে প্রত্যেকে কোথায় দাঁড়িয়েছিল তার উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Disaster Today Read Back",
+          "bn": "আজকের কোনো দুর্যোগে এ আয়াত নয়"
+        },
+        "p": [
+          {
+            "en": "This must be said firmly. The verse describes what the text describes: one people, in one past event, who rejected the prophet sent to them, and whose end the Qur'an itself reports. It licenses nothing against any living person or community. No present-day flood, storm or disaster may be read from it as a punishment on those it strikes, and no one who suffers one may be counted among the others. The knowledge that set these people apart came by revelation about them; no one today holds such knowledge about anyone else.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াতটি ঠিক ততটুকুই বলে, যতটুকু তার শব্দে আছে: অতীতের একটি ঘটনায় একটি জাতি, যারা তাদের কাছে পাঠানো নবীকে প্রত্যাখ্যান করেছিল, আর যাদের পরিণতির খবর কুরআন নিজেই দিয়েছে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। এখনকার কোনো বন্যা, ঝড় বা দুর্যোগকে এ আয়াত দিয়ে আক্রান্তদের উপর শাস্তি বলে পড়া যাবে না। আর এমন বিপদে যে কষ্ট পায়, তাকে 'অন্যদের' দলে গোনা যাবে না। ওই জাতিকে যে জ্ঞান আলাদা করেছিল, তা এসেছিল তাদের ব্যাপারে ওহির মাধ্যমে। আজ কারও ব্যাপারে কারও কাছে এমন জ্ঞান নেই।"
+          },
+          {
+            "en": "The commentaries fetched for this verse speak only of Nuh's people: at-Tabari of those of his people who remained, the Muyassar of the deniers of his people, Qatada of the rest of his people. None of them stretches the verse to a later flood. Its claim rests on Allah's own report of a finished matter, and no human observer can repeat that report about a new event. What the verse hands the reader is a mirror, not a measuring rod for others. If its lesson lands anywhere, it lands on the one reading.",
+            "bn": "এ আয়াতের যেসব তাফসীর দেখা হয়েছে, সবগুলোই কেবল নূহের জাতির কথা বলে। তাবারী বলেন তাঁর জাতির বাকি লোকদের কথা, মুয়াসসার তাঁর জাতির মিথ্যারোপকারীদের কথা, কাতাদা তাঁর জাতির বাকি সবার কথা। পরের কোনো বন্যায় তাঁদের কেউ আয়াতটিকে টেনে নেননি। আয়াতের দাবি দাঁড়িয়ে আছে একটি সমাপ্ত বিষয়ে আল্লাহর নিজের দেওয়া খবরের উপর। নতুন কোনো ঘটনা দেখে কোনো মানুষ সে খবর নিজে দিতে পারে না। আয়াতটি পাঠকের হাতে তুলে দেয় একটি আয়না, অন্যদের মাপার গজ নয়। এর শিক্ষা কোথাও গিয়ে পড়লে, পড়ে যে পড়ছে তারই উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Danger of Lagging Behind",
+          "bn": "পিছিয়ে থাকার বিপদ"
+        },
+        "p": [
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith to these three words, and none is needed to hear them. Their weight comes from what stands behind them. 29:14 gives Nuh's stay among his people as a thousand years less fifty, and Ibn Kathir, opening this passage, notes how few believed despite that long call. 11:40 says the same: none had believed with him except a few. The drowning was not sudden in the sense that matters. It came at the end of a very long invitation.",
+            "bn": "এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এই তিনটি শব্দের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। আর শব্দগুলোর ভার বুঝতে হাদীসের প্রয়োজনও নেই। তাদের ওজন আসে পেছনে যা আছে তা থেকে। ২৯:১৪ আয়াত জানায়, নূহ তাঁর জাতির মধ্যে ছিলেন পঞ্চাশ কম এক হাজার বছর। ইবন কাসীর এ অংশের শুরুতে উল্লেখ করেন, এত দীর্ঘ দাওয়াতের পরও কত কম লোক ঈমান এনেছিল। ১১:৪০ আয়াতও একই কথা বলে: অল্প কয়েকজন ছাড়া কেউ তাঁর সঙ্গে ঈমান আনেনি। আসল অর্থে ডুবে যাওয়াটা হঠাৎ ছিল না। তা এসেছিল দীর্ঘতম এক দাওয়াতের শেষে।"
+          },
+          {
+            "en": "That is why al-Qurtubi's gloss is the part that reaches the reader: the others are those who lagged behind from faith. Lagging is not one refusal but a delay repeated until it hardens. The verse leaves its question with the reader, not with them. Am I still putting off what I already know, as though the call will always stay open? And when my own record is written, will it need verses of grace to tell it, or only a word that sets me apart?",
+            "bn": "এ কারণেই কুরতুবীর ব্যাখ্যাটুকু পাঠকের কাছে এসে পৌঁছায়: অন্যরা হলো তারা, যারা ঈমান থেকে পিছিয়ে রইল। পিছিয়ে থাকা একবারের অস্বীকার নয়। বারবার গড়িমসি করতে করতে তা একসময় শক্ত হয়ে যায়। আয়াত তার প্রশ্নটা রেখে যায় পাঠকের কাছে, ওই লোকদের কাছে নয়। যা আমি জানি, তা কি এখনো পিছিয়ে রাখছি, যেন ডাক চিরকাল খোলা থাকবে? আর আমার নিজের খতিয়ান যখন লেখা হবে, তা বলতে কি রহমতের আয়াত লাগবে, নাকি আমাকে আলাদা করে দেওয়া একটি শব্দই যথেষ্ট হবে?"
+          }
+        ]
+      }
+    ]
+  },
   "37:86": {
     "sections": [
       {
