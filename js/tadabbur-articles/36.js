@@ -2795,6 +2795,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "36:58": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Fruit, a Word",
+          "bn": "ফলমূলের পরে একটি কথা"
+        },
+        "p": [
+          {
+            "en": "Salamun qawlan min rabbin rahim: peace, a word from a merciful Lord. The verse is five Arabic words, and it is the last line of a short picture of Paradise. It comes after the Blast and the rising of 36:51 to 36:53, and after the promise of 36:54 that today no soul will be wronged at all. Then 36:55 to 36:57 describe the people of the Garden: busy in joy, resting with their spouses in shade on couches, with fruit before them and whatever they call for.",
+            "bn": "সালামুন কাওলাম মির রাব্বির রাহীম: সালাম, দয়াময় রবের পক্ষ থেকে একটি কথা। আরবিতে আয়াতটি মাত্র পাঁচ শব্দের। জান্নাতের যে ছোট্ট ছবি এখানে আঁকা হয়েছে, এটি তার শেষ রেখা। এর আগে ৩৬:৫১ থেকে ৩৬:৫৩ আয়াতে শিঙায় ফুঁ আর কবর থেকে ওঠার কথা এসেছে। ৩৬:৫৪ আয়াত জানিয়েছে, আজ কারও উপর সামান্যতম জুলুমও হবে না। তারপর ৩৬:৫৫ থেকে ৩৬:৫৭ আয়াতে জান্নাতবাসীদের ছবি। তারা আনন্দে মশগুল, স্ত্রীদের সঙ্গে ছায়ায় আসনে হেলান দিয়ে আছে, সামনে ফলমূল, আর যা চাইবে তা-ই তাদের জন্য।"
+          },
+          {
+            "en": "Every item in that list so far can be eaten, sat on or shared. This verse names something of another kind, a word, and ties the word to a Lord who is merciful. Then the scene turns at once: 36:59 addresses the criminals and tells them to stand apart today. That verse describes what the text describes, a separation on the Day of Judgement, and it licenses nothing against any living person or community. No one is entitled to sort the people around them into those two groups here.",
+            "bn": "এ পর্যন্ত তালিকার সবকিছুই খাওয়া যায়, তাতে বসা যায় বা কারও সঙ্গে ভাগ করা যায়। এই আয়াত সম্পূর্ণ আলাদা এক জিনিসের নাম নেয়। সেটি একটি কথা, আর কথাটিকে জুড়ে দেয় দয়াময় রবের সঙ্গে। এরপরই দৃশ্য বদলে যায়। ৩৬:৫৯ আয়াতে অপরাধীদের ডেকে বলা হয়, আজ তোমরা আলাদা হয়ে যাও। সে আয়াত শুধু তা-ই বর্ণনা করে যা পাঠে আছে, অর্থাৎ বিচারের দিনের এক বিভাজন। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এতে নেই। দুনিয়াতে আশপাশের মানুষকে এই দুই দলে ভাগ করার অধিকার কারও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken by the Lord Himself",
+          "bn": "রব নিজেই সালাম দেবেন"
+        },
+        "p": [
+          {
+            "en": "Who gives the peace? Ibn Kathir reports through Ibn Jurayj that Ibn 'Abbas said of this verse that Allah Himself gives peace to the people of Paradise. Ibn Kathir sets this beside 33:44, their greeting on the Day they meet Him will be peace, and says that Ibn 'Abbas's words are like that verse. Al-Baghawi opens with the same reading. Allah greets them with a saying, he writes, meaning that Allah says a word to them.",
+            "bn": "সালামটা কে দেবেন? ইবন কাসীর ইবন জুরাইজের সূত্রে জানান, ইবন আব্বাস (রাঃ) এ আয়াত সম্পর্কে বলেছেন, আল্লাহ নিজেই জান্নাতবাসীদের সালাম দেবেন। ইবন কাসীর এই মতকে রাখেন ৩৩:৪৪ আয়াতের পাশে: যেদিন তারা তাঁর সাক্ষাৎ পাবে, সেদিন তাদের অভিবাদন হবে সালাম। তাঁর ভাষায়, ইবন আব্বাসের কথা ঠিক ওই আয়াতের মতো। বাগাভীও শুরু করেন একই ব্যাখ্যা দিয়ে। তিনি লেখেন, আল্লাহ একটি কথা বলে তাদের সালাম দেবেন, অর্থাৎ আল্লাহ তাদের উদ্দেশে কথা বলবেন।"
+          },
+          {
+            "en": "As-Sa'di reads the verse as the Lord's speech to the people of Paradise and His greeting to them, and says He stressed it with qawlan, a word. When the merciful Lord greets them, he writes, complete safety is theirs from every side, and theirs is the greeting above which there is no greeting, and no bliss like it. The Muyassar counts it as a further and greater bliss: their merciful Lord speaks to them with peace, and with that complete safety is theirs in every respect.",
+            "bn": "সা'দী আয়াতটিকে পড়েন জান্নাতবাসীদের প্রতি রবের কথা ও তাঁর সালাম হিসেবে। তিনি বলেন, কাওলান শব্দ দিয়ে আল্লাহ কথাটিকে আরও জোরালো করেছেন। দয়াময় রব যখন তাদের সালাম দেবেন, তখন সব দিক থেকে তারা পূর্ণ নিরাপত্তা পাবে। তারা পাবে এমন অভিবাদন যার চেয়ে উঁচু কোনো অভিবাদন নেই, যার মতো কোনো নিয়ামতও নেই। মুয়াসসার একে গণ্য করে আরেকটি, আরও বড় নিয়ামত হিসেবে। তাদের দয়াময় রব সালাম দিয়ে তাদের সঙ্গে কথা বলবেন, আর তখনই সব দিক থেকে তাদের পূর্ণ নিরাপত্তা মিলবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Carried by Angels, Some Say",
+          "bn": "কারও মতে ফেরেশতাদের মুখে"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi does not stop at one reading. After his own gloss he adds, under it is said, that the angels greet them on behalf of their Lord. He then gives Muqatil's version: the angels come in upon the people of Paradise from every gate, saying peace be upon you, people of Paradise, from your merciful Lord. A third view, again under it is said, takes the peace as a safety He grants them, as if telling them to be safe with an everlasting safety. He does not argue between the three.",
+            "bn": "বাগাভী এক ব্যাখ্যায় থামেন না। নিজের ব্যাখ্যার পর তিনি 'বলা হয়' কথাটি দিয়ে আনেন, ফেরেশতারা তাদের রবের পক্ষ থেকে তাদের সালাম দেবেন। তারপর মুকাতিলের বর্ণনা: ফেরেশতারা প্রতিটি দরজা দিয়ে জান্নাতবাসীদের কাছে আসবেন আর বলবেন, হে জান্নাতবাসীরা, তোমাদের দয়াময় রবের পক্ষ থেকে তোমাদের প্রতি সালাম। তৃতীয় একটি মতও তিনি আনেন 'বলা হয়' দিয়ে। এ মতে সালাম মানে তিনি তাদের যে নিরাপত্তা দেবেন, যেন বলছেন, চিরস্থায়ী নিরাপত্তায় নিরাপদ থাকো। তিনটি মতের কোনটি ঠিক, তা নিয়ে তিনি তর্কে যান না।"
+          },
+          {
+            "en": "The Qur'an pictures angels greeting the people of the Garden elsewhere. At 13:23 and 13:24 they come in upon them from every gate: peace be upon you for what you patiently endured. At 39:73 the keepers of Paradise say peace be upon you as its gates stand open. These verses are cited here only as parallels; al-Baghawi does not cite them. The difference stays a difference. Ibn 'Abbas, as-Sa'di and the Muyassar have the Lord speak the word Himself, while Muqatil has the angels bring His greeting.",
+            "bn": "কুরআনের অন্য জায়গাতেও ফেরেশতাদের সালামের ছবি আছে। ১৩:২৩ ও ১৩:২৪ আয়াতে তারা প্রতিটি দরজা দিয়ে জান্নাতবাসীদের কাছে আসে আর বলে, তোমাদের প্রতি সালাম, কারণ তোমরা সবর করেছিলে। ৩৯:৭৩ আয়াতে জান্নাতের দরজাগুলো খোলা, আর তার রক্ষীরা বলে, তোমাদের প্রতি সালাম। এসব আয়াত এখানে কেবল মিল দেখাতে আনা হলো, বাগাভী নিজে এগুলো উল্লেখ করেননি। মতভেদটা মতভেদ হিসেবেই থাকুক। ইবন আব্বাস (রাঃ), সা'দী ও মুয়াসসারের মতে কথাটা রব নিজেই বলবেন, আর মুকাতিলের মতে ফেরেশতারা তাঁর সালাম পৌঁছে দেবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What They Were Calling For",
+          "bn": "তারা যা চেয়ে ডেকেছিল"
+        },
+        "p": [
+          {
+            "en": "The grammar of salamun is debated, and at-Tabari lays out the options. He reports from some Kufan grammarians two ways of explaining its nominative ending. In the first, salam is the predicate of whatever they call for in 36:57: what they call for is granted to them, purely theirs, and qawlan is then an accusative of emphasis, as if to say it was truly said. In the second, salam is raised in praise: it is peace for them, a word from Allah.",
+            "bn": "সালামুন শব্দের ব্যাকরণ নিয়ে মতভেদ আছে, আর তাবারী সব সম্ভাবনা সাজিয়ে দেখান। কুফার কিছু ব্যাকরণবিদের মত তিনি উদ্ধৃত করেন, যাদের কাছে শব্দটির পেশ বোঝানোর দুটি পথ আছে। প্রথম পথে সালাম হলো ৩৬:৫৭ আয়াতের 'তারা যা চাইবে' কথাটির বিধেয়। অর্থ দাঁড়ায়, তারা যা চাইবে তা তাদের হাতে তুলে দেওয়া, খাঁটিভাবে তাদেরই। তখন কাওলান শব্দটি জোর দেওয়ার জন্য যবর পেয়েছে, যেন বলা হলো, কথাটা সত্যিই বলা হয়েছে। দ্বিতীয় পথে সালাম প্রশংসার অর্থে পেশ পেয়েছে: এ হলো তাদের জন্য সালাম, আল্লাহর পক্ষ থেকে একটি কথা।"
+          },
+          {
+            "en": "He adds that the reading of 'Abd Allah, whom al-Qurtubi names as Ibn Mas'ud, is reported as salaman qawlan in the accusative. The statement then ends at and theirs is whatever they call for, and salaman follows as emphasis. A Basran grammarian, he says, took qawlan as standing in for its own verb, as though the speaker said I say that as a saying. At-Tabari then gives his own preference. Salam is the predicate of whatever they call for: what they call for is peace from Allah upon them, a greeting from Him.",
+            "bn": "তিনি আরও জানান, আবদুল্লাহর কিরাআতে শব্দ দুটি যবরসহ এসেছে বলে বর্ণিত: সালামান কাওলান। কুরতুবী এই আবদুল্লাহকে চিহ্নিত করেন ইবন মাসউদ (রাঃ) বলে। এ কিরাআতে বাক্য শেষ হয় 'আর তাদের জন্য তা-ই যা তারা চাইবে' পর্যন্ত, আর সালামান আসে জোর দিতে। বসরার এক ব্যাকরণবিদের মত তিনি এভাবে দেন: কাওলান তার নিজের ক্রিয়ার জায়গায় বসেছে, যেন বক্তা বলছেন, আমি এ কথা বলছি। এরপর তাবারী নিজের পছন্দ জানান। সালাম হলো 'তারা যা চাইবে' কথাটির বিধেয়। অর্থাৎ তারা যা চাইবে তা হলো তাদের প্রতি আল্লাহর সালাম, তাঁর পক্ষ থেকে অভিবাদন।"
+          },
+          {
+            "en": "He grounds the choice on a report from Muhammad ibn Ka'b al-Qurazi, discussed below, and draws from it that salam explains whatever they call for. Az-Zajjaj, as al-Qurtubi cites him, reaches a similar place by another route: salam stands in place of ma, so that theirs is that Allah should greet them, and that, in al-Qurtubi's text, is the wish of the people of Paradise. Ma'arif al-Qur'an, on 36:57, notes that yadda'un comes from da'wa, to call, and that the Qur'an did not say yas'alun, they ask, because receiving after asking is itself a kind of exertion.",
+            "bn": "এ পছন্দের ভিত্তি তিনি দাঁড় করান মুহাম্মাদ ইবন কা'ব কুরাযীর একটি বর্ণনার উপর, যার কথা নিচে আসছে। সেখান থেকে তিনি সিদ্ধান্ত টানেন, সালাম হলো 'তারা যা চাইবে' কথাটিরই ব্যাখ্যা। কুরতুবীর উদ্ধৃতিতে যাজ্জাজ ভিন্ন পথে কাছাকাছি জায়গায় পৌঁছান। তাঁর মতে সালাম 'মা' শব্দের স্থলাভিষিক্ত। অর্থাৎ তাদের প্রাপ্য হলো, আল্লাহ তাদের সালাম দেবেন, আর কুরতুবীর পাঠে এটাই জান্নাতবাসীদের আকাঙ্ক্ষা। মাআরিফুল কুরআন ৩৬:৫৭ আয়াতের আলোচনায় বলে, ইয়াদ্দাঊন এসেছে দা'ওয়া থেকে, যার অর্থ ডাকা। কুরআন এখানে ইয়াসআলূন, অর্থাৎ তারা চাইবে, বলেনি। কারণ চেয়ে নেওয়ার পর পাওয়াতেও এক রকম কষ্ট আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Reciter Rests",
+          "bn": "পাঠে বিরতির প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi turns the same debate into a question of where to pause. Ibn al-Anbari held that and theirs is whatever they call for is a good place to stop, after which one begins with salam, meaning that for them is peace. But if salam is read as granted, purely theirs, the stop is not good, because the sentence runs on. Al-Qurtubi lists further ways of parsing it, with salam as a description of ma or as its predicate, and on each of these too one does not stop at whatever they call for.",
+            "bn": "কুরতুবী একই বিতর্ককে নিয়ে যান তিলাওয়াতে থামার প্রশ্নে। ইবনুল আনবারীর মতে 'আর তাদের জন্য তা-ই যা তারা চাইবে' পর্যন্ত থামা ভালো। তারপর নতুন করে শুরু হবে সালাম দিয়ে, অর্থাৎ তাদের জন্য আছে সালাম। কিন্তু সালামের অর্থ যদি হয় 'তাদের হাতে তুলে দেওয়া, খাঁটিভাবে তাদেরই', তবে সেখানে থামা ভালো নয়, কারণ বাক্য তখনো চলছে। কুরতুবী আরও কয়েকভাবে বাক্যটির গঠন দেখান। কোথাও সালাম 'মা' শব্দের বিশেষণ, কোথাও তার বিধেয়। এর প্রতিটিতেও 'তারা যা চাইবে' পর্যন্ত থামা চলে না।"
+          },
+          {
+            "en": "He records two readings beside the standard reading. In Ibn Mas'ud's, salaman is a verbal noun or a word of circumstance: theirs is what they call for, with peace or safety, or as something granted. Muhammad ibn Ka'b al-Qurazi read a shorter form, s-l-m, as a fresh sentence: that is settled for them, with no contending over it. Qawlan, al-Qurtubi says, is a verbal noun, Allah said that as a saying, or it may mean a promise from Allah. As-Sijistani put the full stop at salam itself; al-Qurtubi calls that a mistake, because qawlan grows out of what comes before it.",
+            "bn": "প্রচলিত পাঠের পাশাপাশি তিনি আরও দুটি কিরাআত উল্লেখ করেন। ইবন মাসউদের (রাঃ) কিরাআতে সালামান হয় মাসদার, নয়তো অবস্থা বোঝানো শব্দ। অর্থ তখন: তারা যা চাইবে তা তাদের, সালাম বা নিরাপত্তাসহ, অথবা তাদের হাতে তুলে দেওয়া অবস্থায়। মুহাম্মাদ ইবন কা'ব কুরাযী পড়েছেন সংক্ষিপ্ত রূপে, স-ল-ম, আর সেখান থেকে নতুন বাক্য শুরু: এ তাদের জন্য নির্ধারিত, এ নিয়ে কোনো টানাটানি নেই। কুরতুবী বলেন, কাওলান মাসদার, অর্থাৎ আল্লাহ এ কথা বলেছেন। অথবা এর অর্থ আল্লাহর দেওয়া প্রতিশ্রুতি। সিজিস্তানী পূর্ণ বিরতি রেখেছেন সালাম শব্দেই। কুরতুবী একে ভুল বলেন, কারণ কাওলান আগের কথা থেকেই জন্ম নিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Narrations Around the Greeting",
+          "bn": "সালাম ঘিরে বর্ণনাগুলো"
+        },
+        "p": [
+          {
+            "en": "The report at-Tabari leans on is not a hadith of the Prophet ﷺ. It is the account of a Successor, Muhammad ibn Ka'b al-Qurazi, told to 'Umar ibn 'Abd al-'Aziz, which at-Tabari gives by three chains through Sulayman ibn Humayd. Its subject is Allah's greeting to the people of Paradise once judgement is finished, and what passes between Him and them afterwards. Ibn Kathir quotes it through at-Tabari and closes with his verdict: this is a strange report. For that reason this page does not retell its details or build on them.",
+            "bn": "তাবারী যে বর্ণনার উপর ভর দেন, সেটি নবী ﷺ-এর হাদীস নয়। এটি একজন তাবেয়ী, মুহাম্মাদ ইবন কা'ব কুরাযীর বিবরণ, যা তিনি উমার ইবন আবদুল আযীযকে শুনিয়েছিলেন। তাবারী এটি এনেছেন সুলাইমান ইবন হুমাইদের মাধ্যমে তিনটি সনদে। এর বিষয় হলো বিচার শেষ হওয়ার পর জান্নাতবাসীদের প্রতি আল্লাহর সালাম, আর তারপর তাঁর ও তাদের মধ্যে যা ঘটবে। ইবন কাসীর তাবারীর সূত্রে এটি উদ্ধৃত করে শেষে নিজের রায় দেন: এটি একটি গরীব, অর্থাৎ অপরিচিত বর্ণনা। তাই এ পাতায় এর খুঁটিনাটি বলা হয়নি, এর উপর কিছু দাঁড় করানোও হয়নি।"
+          },
+          {
+            "en": "A narration raised to the Prophet ﷺ links this verse to a greeting from the Lord to the people of Paradise. Ibn Majah records it in the Book of the Sunna of his Sunan, number 184, from Jabir ibn 'Abd Allah, and gives it no grading. Ibn Kathir cites Ibn Abi Hatim's version, notes Ibn Majah's, and says there is a question about its chain. Al-Baghawi gives it through ath-Tha'labi, while al-Qurtubi names the Companion as Jarir ibn 'Abd Allah al-Bajali, citing ath-Tha'labi and al-Qushayri. Its wording is therefore not quoted here.",
+            "bn": "নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা এ আয়াতকে জান্নাতবাসীদের প্রতি রবের সালামের সঙ্গে যুক্ত করে। ইবন মাজাহ তাঁর সুনানের কিতাবুস সুন্নাহ অংশে জাবির ইবন আবদুল্লাহ (রাঃ) থেকে এটি এনেছেন, নম্বর ১৮৪, আর এর কোনো মান তিনি উল্লেখ করেননি। ইবন কাসীর ইবন আবী হাতিমের বর্ণনাটি উদ্ধৃত করেন, ইবন মাজাহর বর্ণনার কথাও বলেন, আর জানান যে এর সনদ প্রশ্নসাপেক্ষ। বাগাভী এটি এনেছেন সা'লাবীর সূত্রে। কুরতুবী সাহাবির নাম বলেছেন জারীর ইবন আবদুল্লাহ বাজালী, সূত্র হিসেবে সা'লাবী ও কুশাইরীর নাম দিয়ে। তাই এর ভাষ্য এখানে উদ্ধৃত হলো না।"
+          },
+          {
+            "en": "Al-Qurtubi adds that its meaning is established in Sahih Muslim, pointing to his discussion of 10:26. Muslim's Sahih carries, as number 181, a narration from Suhayb that one chain closes by reciting 10:26, not this verse. The Prophet ﷺ said: 'When the people of Paradise enter Paradise, Allah, Blessed and Exalted, will say: Do you want anything, that I may give you more? They will say: Have You not brightened our faces? Have You not brought us into Paradise and saved us from the Fire? Then He will lift the veil, and nothing they were given will be dearer to them than looking at their Lord, Mighty and Majestic.'",
+            "bn": "কুরতুবী যোগ করেন, এর অর্থ সহীহ মুসলিমে প্রমাণিত, আর তিনি ১০:২৬ আয়াতে নিজের আলোচনার দিকে ইঙ্গিত করেন। সহীহ মুসলিমে ১৮১ নম্বরে সুহাইব (রাঃ) থেকে একটি বর্ণনা আছে, যার এক সনদের শেষে ১০:২৬ আয়াত তিলাওয়াতের কথা এসেছে, এ আয়াতের নয়। নবী ﷺ বলেছেন: 'জান্নাতবাসীরা যখন জান্নাতে প্রবেশ করবে, বরকতময় ও মহান আল্লাহ বলবেন: তোমরা কি আর কিছু চাও, যা আমি তোমাদের বাড়িয়ে দেব? তারা বলবে: আপনি কি আমাদের চেহারা উজ্জ্বল করেননি? আপনি কি আমাদের জান্নাতে প্রবেশ করাননি, জাহান্নাম থেকে বাঁচাননি? তখন তিনি পর্দা সরিয়ে দেবেন। তাদের যা কিছু দেওয়া হয়েছে, তার কোনোটিই তাদের কাছে মহিমাময় ও মহান রবের দিকে তাকানোর চেয়ে প্রিয় হবে না।'"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Merciful to the Forgiven",
+          "bn": "যাদের ভুল তিনি ধরেননি"
+        },
+        "p": [
+          {
+            "en": "The verse does not end on peace alone. It names who gives it: rabbin rahim, a Lord who is merciful. At-Tabari explains the word in one line: merciful to them, in that He did not punish them for the offences they had committed in the world. The people being greeted are not described as people without faults. They are people whose faults were not held against them, and the peace they hear comes from the same mercy that passed over those faults.",
+            "bn": "আয়াতটি শুধু সালাম বলে থামে না, কে সালাম দিচ্ছেন তারও নাম নেয়: রাব্বির রাহীম, দয়াময় রব। তাবারী শব্দটির ব্যাখ্যা দেন একটি বাক্যে। তিনি তাদের প্রতি দয়াময়, কারণ দুনিয়ায় তারা যেসব অপরাধ করেছিল, সেজন্য তিনি তাদের শাস্তি দেননি। অর্থাৎ যাদের সালাম দেওয়া হচ্ছে, তারা নির্দোষ মানুষ হিসেবে বর্ণিত নয়। তারা এমন মানুষ, যাদের দোষ তাদের বিরুদ্ধে ধরা হয়নি। যে রহমত সেই দোষগুলো মাফ করেছে, তারা যে সালাম শোনে তা আসে সেই রহমত থেকেই।"
+          },
+          {
+            "en": "The Qur'an joins the same two words in this life. At 6:54 the Prophet ﷺ is told that when those who believe in Our verses come to him, he should say peace be upon you; your Lord has written mercy upon Himself, that whoever of you does wrong in ignorance, then repents after it and puts things right, He is Forgiving, Merciful. The verse is cited only as a parallel. Read beside 36:58, it shows a greeting of peace and a mercy that covers past wrong standing side by side.",
+            "bn": "দুনিয়ার জীবনেও কুরআন এই দুটি কথাকে পাশাপাশি রেখেছে। ৬:৫৪ আয়াতে নবী ﷺ-কে বলা হয়েছে, আমার আয়াতে যারা ঈমান আনে তারা যখন আপনার কাছে আসে, তাদের বলুন, তোমাদের প্রতি সালাম। তোমাদের রব নিজের উপর রহমত লিখে নিয়েছেন। তোমাদের কেউ যদি অজ্ঞতাবশত মন্দ কাজ করে, তারপর তওবা করে ও নিজেকে শুধরে নেয়, তবে তিনি ক্ষমাশীল, দয়াময়। আয়াতটি এখানে কেবল মিল দেখাতে আনা হলো। ৩৬:৫৮ আয়াতের পাশে রেখে পড়লে দেখা যায়, সালাম আর অতীতের ভুল ঢেকে দেওয়া রহমত দুই জায়গাতেই একসঙ্গে আছে।"
+          },
+          {
+            "en": "As-Sa'di dwells on what such a greeting would mean. What then do you think, he asks, of a greeting from the King of kings, the Mighty Lord, the Kind and Merciful, to the people of the home of His honour, on whom He has settled His good pleasure so that He is never displeased with them again? Were it not that Allah had decreed otherwise, he adds, they would die, or their hearts would leave their places, out of joy and delight. He ends with a prayer that our Lord not deny us that bliss, and grant us the joy of looking at His noble face.",
+            "bn": "এমন সালামের অর্থ কী, সা'দী তা নিয়ে থামেন। তিনি প্রশ্ন করেন, রাজাধিরাজ, মহান রব, পরম স্নেহশীল ও দয়াময় যখন নিজের সম্মানের ঘরের বাসিন্দাদের সালাম দেবেন, তখন সে সালাম কেমন হবে বলে আপনার ধারণা? এরা তো সেই মানুষ, যাদের উপর তিনি নিজের সন্তুষ্টি নামিয়ে দিয়েছেন, ফলে আর কখনো তাদের উপর অসন্তুষ্ট হবেন না। তিনি আরও বলেন, আল্লাহ যদি অন্যভাবে নির্ধারণ না করতেন, তবে আনন্দ আর খুশিতে তারা মারা যেত, কিংবা তাদের হৃদয় জায়গা থেকে সরে যেত। শেষে তিনি দোয়া করেন, আমাদের রব যেন আমাদের সেই নিয়ামত থেকে বঞ্চিত না করেন, আর তাঁর সম্মানিত চেহারার দিকে তাকানোর আনন্দ দান করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Practising the Word Here",
+          "bn": "দুনিয়াতেই সালামের চর্চা"
+        },
+        "p": [
+          {
+            "en": "The Qur'an does not keep salam for the next life. At 24:61 believers entering houses are told to greet each other with a greeting from Allah, blessed and good, and 4:86 asks that a greeting be returned with a better greeting or at least its like. At 10:25 Allah invites to the home of peace. These verses are cited as parallels, not as commentary on this verse. Together they show that the word the people of Paradise will hear is a word Muslims already give each other many times a day.",
+            "bn": "কুরআন সালামকে শুধু আখিরাতের জন্য তুলে রাখেনি। ২৪:৬১ আয়াতে ঘরে প্রবেশের সময় পরস্পরকে সালাম দিতে বলা হয়েছে, আল্লাহর পক্ষ থেকে বরকতময় ও পবিত্র অভিবাদন হিসেবে। ৪:৮৬ আয়াত বলে, কেউ সালাম দিলে তার চেয়ে উত্তমভাবে জবাব দাও, অন্তত তার সমান জবাব দাও। ১০:২৫ আয়াতে আল্লাহ শান্তির ঘরের দিকে ডাকেন। এসব আয়াত এখানে মিল দেখাতে আনা হলো, এ আয়াতের তাফসীর হিসেবে নয়। একসঙ্গে পড়লে বোঝা যায়, জান্নাতবাসীরা যে কথা শুনবে, মুসলমানরা দিনে বহুবার সেই কথাই একে অপরকে বলে।"
+          },
+          {
+            "en": "That is the reflection the verse leaves. Peace said at a door, or to end a prayer, can turn into a habit of the tongue. Here it is the last gift in a list of gifts, spoken by a merciful Lord to people whose faults He did not hold against them. To mean the word when saying it, to keep it in the way the person greeted is then treated, and to greet first the person with whom things are strained, is a small way of living toward the place where that word is heard.",
+            "bn": "আয়াতটি আমাদের এই ভাবনার সামনে দাঁড় করায়। দরজায় দাঁড়িয়ে কিংবা নামাজ শেষ করতে যে সালাম আমরা বলি, তা সহজেই জিহ্বার অভ্যাস হয়ে যায়। অথচ এখানে সালাম হলো নিয়ামতের তালিকার শেষ নিয়ামত, আর তা বলছেন দয়াময় রব, এমন মানুষদের যাদের দোষ তিনি ধরেননি। মন থেকে সালাম বলা, যাকে সালাম দিলাম পরে তার সঙ্গে আচরণেও তা ধরে রাখা, আর যার সঙ্গে সম্পর্কে টান পড়েছে তাকে আগে সালাম দেওয়া, এগুলো ছোট কাজ। কিন্তু এভাবেই মানুষ সেই জায়গার দিকে এগোয়, যেখানে এ কথা শোনা যাবে।"
+          }
+        ]
+      }
+    ]
+  },
   "36:60": {
     "sections": [
       {

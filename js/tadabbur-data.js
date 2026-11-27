@@ -36853,6 +36853,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "No one can force you into disbelief or sin. Weigh every call by its proof, because on that Day blaming the ones who called you will not lift your own share.",
     "lessonBn": "কুফর বা গুনাহের পথে কেউ আপনাকে জোর করে নিতে পারে না। প্রতিটি ডাক তার প্রমাণ দিয়ে যাচাই করুন, কারণ সেদিন ডাকদাতাদের দোষ দিলেও আপনার নিজের ভাগ কমবে না।"
+  },
+  "36:58": {
+    "reflectionEn": "The picture of Paradise in these verses moves from what its people do, to where they rest, to the fruit before them and whatever they call for. Then it closes on something no one can set on a table: a word. Peace, spoken by a Lord who is merciful. Some say it comes from Him directly, some say through His angels, and some say it is the very thing they were calling for. Either way, the last gift named here is speech, and it is mercy that speaks it. Those who hear it once did wrong and were not held to it. I say peace to people every day. Do I mean it, and does my conduct keep it once the word is said?",
+    "reflectionBn": "এই আয়াতগুলোতে জান্নাতের ছবি ধাপে ধাপে এগোয়। প্রথমে জান্নাতবাসীরা কী নিয়ে ব্যস্ত, তারপর তারা কোথায় হেলান দিয়ে আছে, তারপর তাদের সামনের ফলমূল আর যা কিছু তারা চাইবে। শেষে এমন এক জিনিস আসে যা কোনো থালায় সাজিয়ে দেওয়া যায় না। একটি কথা: সালাম, দয়াময় রবের মুখ থেকে। কেউ বলেন তিনি নিজেই সালাম দেবেন, কেউ বলেন ফেরেশতাদের মাধ্যমে, আবার কেউ বলেন এই সালামই সেই জিনিস যা তারা চেয়েছিল। যেভাবেই বুঝি, এখানে শেষ যে নিয়ামতের নাম এল তা একটি কথা, আর সে কথা বলছে রহমত। যারা তা শুনবে, দুনিয়ায় তাদেরও ভুল ছিল, কিন্তু সেজন্য তাদের পাকড়াও করা হয়নি। আমি তো প্রতিদিন মানুষকে সালাম দিই। কথাটা কি আমি মন থেকে বলি? আর বলার পরে আমার আচরণ কি সেই সালামের মর্যাদা রাখে?",
+    "pointsEn": [
+      "When I picture Paradise, what comes to mind first: its comforts, or being spoken to by my Lord?",
+      "If the highest thing to hope for there is a word of peace from Him, what am I doing now to be among those He greets?",
+      "When I say peace be upon you to someone, does the way I treat them afterwards match the words?",
+      "Is there someone I have stopped greeting, and what would it take for me to greet them first again?",
+      "He greets them as Merciful though they were not free of faults. Do I offer that mercy to people whose faults I know?"
+    ],
+    "pointsBn": [
+      "জান্নাতের কথা ভাবলে আমার মনে আগে কী আসে: সেখানকার আরাম-আয়েশ, নাকি আমার রব আমার সঙ্গে কথা বলবেন, সেই কথা?",
+      "সেখানে সবচেয়ে বড় আশার জিনিস যদি হয় তাঁর পক্ষ থেকে একটি সালাম, তবে যাদের তিনি সালাম দেবেন তাদের দলে থাকতে আমি এখন কী করছি?",
+      "কাউকে আসসালামু আলাইকুম বলার পর তার সঙ্গে আমার ব্যবহার কি মুখের কথার সঙ্গে মেলে?",
+      "এমন কেউ কি আছে যাকে আমি সালাম দেওয়া ছেড়ে দিয়েছি? আবার আগ বাড়িয়ে তাকে সালাম দিতে আমার কী লাগবে?",
+      "তাদের দোষত্রুটি থাকা সত্ত্বেও রব তাদের সালাম দেবেন রহীম হিসেবে। যাদের দোষ আমি জানি, তাদের প্রতি কি আমি সেই দয়া দেখাই?"
+    ],
+    "lessonEn": "The last gift named for the people of Paradise is a word of peace from a merciful Lord. Make peace a word you mean, and seek the mercy that speaks it.",
+    "lessonBn": "জান্নাতবাসীদের জন্য শেষ যে নিয়ামতের নাম এসেছে, তা দয়াময় রবের পক্ষ থেকে সালাম। সালামকে এমন কথা বানান যা আপনি মন থেকে বলেন, আর সেই রহমত খুঁজুন যা এ সালাম দেয়।"
   }
 };
 
