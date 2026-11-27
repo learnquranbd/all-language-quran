@@ -38153,6 +38153,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Guard your tongue against easy lies, and when Allah's verses reach you, let them change something instead of carrying on as if you had not heard.",
     "lessonBn": "সহজ মিথ্যা থেকে জবানকে বাঁচিয়ে রাখুন। আল্লাহর আয়াত কানে এলে না শোনার ভান করে আগের মতো না চলে, তা দিয়ে নিজের কিছু একটা বদলান।"
+  },
+  "45:19": {
+    "reflectionEn": "The verse before this one sets out a clear way and a plain instruction: follow it, and do not follow the desires of those who do not know. This verse gives the reason. Those people, however many and however loud, cannot shield anyone from Allah, not even in the smallest thing. Wrongdoers stand by one another, and standing together does not save them. Allah stands by those who are mindful of Him. Two kinds of company are set side by side: many allies with nothing to give, and one Ally who is enough. I rarely follow a desire alone; I usually follow it in company. Whose approval quietly steers what I do? And when I am outnumbered on what is right, do I count the crowd, or count on Him?",
+    "reflectionBn": "আগের আয়াত একটি স্পষ্ট পথ দেখিয়ে সোজা নির্দেশ দিয়েছে: এ পথ ধরে চলো, আর যারা জানে না তাদের খেয়ালখুশির পেছনে যেয়ো না। এ আয়াত বলে দেয় কেন। ওরা সংখ্যায় যত বেশিই হোক, গলা যত চড়াই হোক, আল্লাহর হাত থেকে কাউকে সামান্যতম রক্ষাও করতে পারবে না। যালিমরা একে অপরের পাশে দাঁড়ায়, কিন্তু একসঙ্গে দাঁড়ালেই বাঁচা যায় না। আর আল্লাহ পাশে থাকেন তাদের, যারা তাঁকে ভয় করে চলে। দুই রকম সঙ্গ পাশাপাশি রাখা হয়েছে। একদিকে অনেক বন্ধু, যাদের দেওয়ার কিছু নেই। অন্যদিকে একজন অভিভাবক, যিনিই যথেষ্ট। আমি খুব কমই একা একা খেয়ালখুশির পেছনে চলি, সাধারণত চলি দলবেঁধে। কার সন্তুষ্টি চুপিসারে আমার কাজের দিক ঠিক করে দেয়? আর সঠিক কথায় আমি যখন একা পড়ে যাই, তখন কি ভিড়ের মাথা গুনি, নাকি তাঁর উপর ভরসা রাখি?",
+    "pointsEn": [
+      "When I am pulled away from what I know is right, whose desires am I really following, and could any of them do anything for me before Allah?",
+      "Which circle of mine makes a wrong feel normal simply because we do it together?",
+      "When I am the only one in the room holding to what is right, do I feel alone, or do I remember who my Ally is?",
+      "What does my mindfulness of Allah look like this week in practice: which duty am I keeping, and which sin am I leaving?",
+      "Do I ever use the word wrongdoers as a label for people I disagree with, instead of as a warning to check myself?"
+    ],
+    "pointsBn": [
+      "যা সঠিক বলে জানি, তা থেকে যখন কেউ আমাকে টেনে সরায়, তখন আসলে কার খেয়ালখুশির পেছনে চলছি? আল্লাহর সামনে তাদের কেউ কি আমার কোনো কাজে আসবে?",
+      "আমার কোন মহল একটা অন্যায়কে স্বাভাবিক বানিয়ে ফেলে, শুধু এ কারণে যে আমরা সবাই মিলে সেটা করি?",
+      "সঠিক কথার উপর যখন ঘরে আমি একাই দাঁড়িয়ে থাকি, তখন কি নিজেকে নিঃসঙ্গ লাগে, নাকি মনে পড়ে আমার অভিভাবক কে?",
+      "এ সপ্তাহে আমার তাকওয়া কাজে কেমন দেখাচ্ছে? কোন ফরজটা আমি আদায় করছি, আর কোন গুনাহটা ছেড়ে দিচ্ছি?",
+      "যাদের সঙ্গে মতের মিল নেই, তাদের গায়ে কি আমি কখনো যালিম তকমা সেঁটে দিই, অথচ শব্দটা ছিল নিজেকে যাচাই করার সতর্কবাণী?"
+    ],
+    "lessonEn": "Follow what Allah has made clear even when others pull the other way; their backing cannot shield you from Him, and His protection is enough for whoever is mindful of Him.",
+    "lessonBn": "অন্যরা উল্টো দিকে টানলেও আল্লাহ যা স্পষ্ট করে দিয়েছেন তা-ই মেনে চলুন। তাদের সমর্থন আপনাকে তাঁর হাত থেকে বাঁচাতে পারবে না, আর যে তাঁকে ভয় করে চলে তার জন্য তাঁর অভিভাবকত্বই যথেষ্ট।"
   }
 };
 

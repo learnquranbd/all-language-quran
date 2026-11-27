@@ -1067,6 +1067,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "45:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Clauses After a Command",
+          "bn": "এক নির্দেশের পর তিন বাক্য"
+        },
+        "p": [
+          {
+            "en": "Innahum lan yughnu 'anka mina Allahi shay'an, wa inna az-zalimina ba'duhum awliya'u ba'd, wallahu waliyyu al-muttaqin: indeed, they will never avail you against Allah in anything; and indeed the wrongdoers are allies of one another, while Allah is the ally of the righteous. The verse is fifteen Arabic words in three clauses. The first looks back at a group already mentioned, the second widens to every wrongdoer, and the third turns away from them altogether, to Allah and to those who are mindful of Him.",
+            "bn": "ইন্নাহুম লান ইউগনূ আনকা মিনাল্লাহি শাইআ, ওয়া ইন্নায যালিমীনা বা'দুহুম আওলিয়াউ বা'দ, ওয়াল্লাহু ওয়ালিয়্যুল মুত্তাকীন: আল্লাহর বিপক্ষে তারা তোমার কোনো কাজেই আসবে না। যালিমরা একে অপরের বন্ধু, আর আল্লাহ মুত্তাকীদের অভিভাবক। আরবিতে আয়াতটি পনেরো শব্দের, তিনটি বাক্যে ভাগ করা। প্রথম বাক্য ফিরে তাকায় আগে উল্লেখ হওয়া একটি দলের দিকে। দ্বিতীয়টি কথাকে ছড়িয়ে দেয় সব যালিমের উপর। আর তৃতীয়টি তাদের থেকে মুখ ফিরিয়ে নিয়ে আসে আল্লাহর কাছে, আর তাদের কাছে যারা তাঁকে ভয় করে চলে।"
+          },
+          {
+            "en": "The verse cannot be read apart from its predecessor. In 45:18 the Prophet ﷺ is told that he has been set on a shari'a of the matter, that he is to follow it, and that he is not to follow the desires of those who do not know. This verse gives the reason for that last instruction. What precedes 45:18, the gifts to the Children of Israel and their division after knowledge came in 45:16 and 45:17, has its own place. The question here is narrower: what the desires of others can do, and what they cannot.",
+            "bn": "আগের আয়াত বাদ দিয়ে এ আয়াত পড়া যায় না। ৪৫:১৮ আয়াতে নবী ﷺ-কে বলা হয়েছে, তাঁকে দ্বীনের এক শরীয়তের উপর দাঁড় করানো হয়েছে। তিনি যেন তা-ই অনুসরণ করেন, আর যারা জানে না তাদের খেয়ালখুশির পেছনে না যান। শেষ নির্দেশটির কারণ বলে দিচ্ছে এই আয়াত। ৪৫:১৮-এর আগে আছে বনী ইসরাঈলকে দেওয়া নিয়ামত আর জ্ঞান আসার পরও তাদের বিভেদের কথা, ৪৫:১৬ ও ৪৫:১৭ আয়াতে। সে আলোচনার জায়গা আলাদা। এখানে প্রশ্নটা আরও সরু: অন্যদের খেয়ালখুশি কী করতে পারে, আর কী পারে না।"
+          },
+          {
+            "en": "On the word shari'a itself this article only points. Al-Qurtubi, on 45:18, notes that a watering place, the way down to the water, is called a shari'a, and that a road is named from the same root because it leads to its goal. At-Tabari explains it there as a way, a practice and a method from Allah's command, and relays Qatada that it is the obligations, the limits, the command and the prohibition, and Ibn Zayd that it is the religion, reciting 42:13. Those questions, and Ma'arif al-Qur'an's discussion of earlier laws, belong to that verse.",
+            "bn": "শরীয়ত শব্দটি নিয়ে এখানে শুধু ইশারা করা হচ্ছে। ৪৫:১৮-এর আলোচনায় কুরতুবী বলেন, পানির ঘাট, যেখান দিয়ে নেমে পানি পান করা হয়, তাকেও শরীয়ত বলা হয়। রাস্তার নামও এসেছে একই ধাতু থেকে, কারণ রাস্তা গন্তব্যে নিয়ে যায়। তাবারী সেখানে শব্দটির ব্যাখ্যা দেন আল্লাহর আদেশ থেকে আসা পথ, রীতি ও পদ্ধতি হিসেবে। তিনি কাতাদা থেকে বর্ণনা করেন, শরীয়ত মানে ফরজসমূহ, সীমারেখা, আদেশ ও নিষেধ। আর ইবন যায়দ থেকে, শরীয়ত মানে দ্বীন, এবং তিনি ৪২:১৩ পাঠ করেছিলেন। এসব প্রশ্ন, আর আগের নবীদের বিধান নিয়ে মাআরিফুল কুরআনের আলোচনা, সেই আয়াতেরই বিষয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Callers to the Fathers' Way",
+          "bn": "বাপদাদার ধর্মে ফেরার ডাক"
+        },
+        "p": [
+          {
+            "en": "Who are the they of innahum? The verse does not name them, so the commentators read them from 45:18. At-Tabari calls them these people ignorant of their Lord, who call you, Muhammad, to follow their desires. The Muyassar says these polytheists who call you to follow their desires. On 45:18 itself at-Tabari had described them as those ignorant of Allah who do not know truth from falsehood, and al-Qurtubi there says the phrase means the polytheists. In each reading, they are people urging the Prophet ﷺ to leave what had been revealed to him.",
+            "bn": "ইন্নাহুম, অর্থাৎ তারা, বলতে কারা? আয়াত তাদের নাম বলে না, তাই তাফসীরকারেরা তাদের চিনে নেন ৪৫:১৮ থেকে। তাবারীর ভাষায় তারা নিজেদের রব সম্পর্কে অজ্ঞ এই লোকেরা, যারা হে মুহাম্মাদ, তোমাকে তাদের খেয়ালখুশি মানতে ডাকে। মুয়াসসার বলে, এই মুশরিকরা, যারা তোমাকে তাদের খেয়ালখুশির দিকে ডাকে। ৪৫:১৮-এর আলোচনাতেই তাবারী তাদের পরিচয় দিয়েছিলেন আল্লাহ সম্পর্কে অজ্ঞ হিসেবে, যারা হক আর বাতিলের তফাত বোঝে না। কুরতুবীও সেখানে বলেন, কথাটির মানে মুশরিকরা। সব ব্যাখ্যাতেই তারা এমন লোক, যারা নবী ﷺ-কে তাঁর উপর নাযিল হওয়া বাণী ছেড়ে দিতে চাপ দিচ্ছিল।"
+          },
+          {
+            "en": "Two commentators add what the calling consisted of. Al-Baghawi, on 45:18, says they used to tell him: go back to the religion of your fathers, for they were better than you. Al-Qurtubi relays two things from Ibn 'Abbas: that those who do not know were Qurayza and an-Nadir, and that 45:18 came down when Quraysh called him to the religion of his fathers. Neither gives a chain, and neither is offered here as an established occasion of revelation. They show how the verse was understood, and Ibn 'Abbas's two names are left side by side.",
+            "bn": "ডাকটা কী ছিল, দুজন তাফসীরকার তা যোগ করেন। ৪৫:১৮-এর আলোচনায় বাগাভী বলেন, তারা তাঁকে বলত, বাপদাদার ধর্মে ফিরে যাও, তারা তোমার চেয়ে ভালো ছিল। কুরতুবী ইবন আব্বাস (রাঃ) থেকে দুটি কথা বর্ণনা করেন। একটি হলো, যারা জানে না তারা ছিল কুরাইযা ও নাদীর। অন্যটি হলো, কুরাইশ যখন তাঁকে বাপদাদার ধর্মে ডাকল, তখন ৪৫:১৮ আয়াত নাযিল হয়। দুজনের কেউই সনদ উল্লেখ করেননি, তাই এখানে এগুলোকে প্রতিষ্ঠিত শানে নুযূল হিসেবে ধরা হচ্ছে না। এগুলো দেখায় আয়াতটি কীভাবে বোঝা হয়েছিল। ইবন আব্বাস (রাঃ)-এর দুটি নাম পাশাপাশিই রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Thing Against Allah",
+          "bn": "আল্লাহর বিপক্ষে কিছুই না"
+        },
+        "p": [
+          {
+            "en": "Lan yughnu 'anka: they will not avail you. Al-Qurtubi and al-Baghawi both gloss it the same way: they will not ward off from you anything of Allah's punishment, if you followed their desires. At-Tabari spells it out further. If you followed their desires and went against the shari'a your Lord laid down for you, they would not avail you anything against Allah's punishment, so as to push it away from you if He punished you, or to rescue you from it. As-Sa'di widens it to both sides: they cannot obtain good for you with Allah, nor keep harm away.",
+            "bn": "লান ইউগনূ আনকা: তারা তোমার কোনো কাজে আসবে না। কুরতুবী ও বাগাভী দুজনেই একই ব্যাখ্যা দেন: তুমি যদি তাদের খেয়ালখুশি মানতে, তারা আল্লাহর আযাবের কিছুই তোমার উপর থেকে ঠেকাতে পারত না। তাবারী কথাটা আরও খুলে বলেন। তুমি যদি তাদের খেয়ালখুশি মানতে আর তোমার রব তোমার জন্য যে শরীয়ত দিয়েছেন তার বিরোধিতা করতে, তবে আল্লাহ শাস্তি দিলে তারা তা সরাতে পারত না, তোমাকে উদ্ধারও করতে পারত না। সা'দী কথাটা দুই দিকেই ছড়িয়ে দেন। আল্লাহর কাছে তারা তোমার জন্য কোনো কল্যাণ এনে দিতে পারে না, কোনো অনিষ্টও দূর করতে পারে না।"
+          },
+          {
+            "en": "Notice where the condition sits. The verse has no if; the commentators supply one, because the clause answers the instruction of 45:18. It is the shape a command takes when it gives its reason: this is what following them would come to. It reports no leaning in the Prophet ﷺ, and at-Tabari, as a later section shows, turns the same clause into reassurance. The word lan rules out the future outright, and the indefinite shay'an, a thing, leaves no amount, however small, that their help could cover.",
+            "bn": "শর্তটা কোথায় বসে আছে, খেয়াল করুন। আয়াতে যদি শব্দটি নেই। তাফসীরকারেরা তা যোগ করেন, কারণ বাক্যটি ৪৫:১৮-এর নির্দেশের জবাব। আদেশ যখন নিজের কারণ জানিয়ে দেয়, তখন এমনই রূপ নেয়: তাদের মানলে পরিণতি দাঁড়াবে এই। এতে নবী ﷺ-এর কোনো ঝোঁকের খবর নেই। বরং তাবারী একই বাক্যকে সান্ত্বনায় রূপ দেন, পরের এক অংশে তা আসছে। লান শব্দটি ভবিষ্যতের সম্ভাবনা একেবারে নাকচ করে দেয়। আর অনির্দিষ্ট শাইআন, মানে কোনো কিছু, এমন কোনো পরিমাণ বাকি রাখে না, যত সামান্যই হোক, যা তাদের সাহায্যে ঢাকা পড়ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Allied Against Faith",
+          "bn": "ঈমানের বিরুদ্ধে জোট"
+        },
+        "p": [
+          {
+            "en": "Wa inna az-zalimina ba'duhum awliya'u ba'd: and the wrongdoers are allies of one another. Al-Qurtubi gives awliya' three senses at once: friends, helpers, and those who love one another. At-Tabari reads it as ansar, helpers, and says what they help one another against: faith in Allah and the people who obey Him. The Muyassar says much the same, describing the wrongdoers as those who overstep Allah's limits, helping one another against the believers. The alliance in these readings is not simple friendship. It is a front, held together by what it opposes.",
+            "bn": "ওয়া ইন্নায যালিমীনা বা'দুহুম আওলিয়াউ বা'দ: যালিমরা একে অপরের বন্ধু। কুরতুবী আওলিয়া শব্দের তিনটি অর্থ একসঙ্গে দেন: বন্ধু, সাহায্যকারী, আর পরস্পরকে ভালোবাসার মানুষ। তাবারী একে পড়েন আনসার, অর্থাৎ সাহায্যকারী হিসেবে। কীসের বিরুদ্ধে তারা একে অপরকে সাহায্য করে, তাও বলেন: আল্লাহর উপর ঈমান আর তাঁর অনুগত বান্দাদের বিরুদ্ধে। মুয়াসসারও প্রায় একই কথা বলে। তার বর্ণনায় যালিমরা আল্লাহর সীমা লঙ্ঘনকারী, যারা মু'মিনদের বিরুদ্ধে একে অপরকে সাহায্য করে। এসব ব্যাখ্যায় জোটটা নিছক বন্ধুত্ব নয়। এ এক মোর্চা, যাকে এক করে রেখেছে তাদের বিরোধিতার লক্ষ্য।"
+          },
+          {
+            "en": "On who these wrongdoers are, the readings differ. At-Tabari does not name them beyond the verse's own word. Al-Qurtubi relays from Ibn 'Abbas that the meaning is that the hypocrites are allies of the Jews. The Muyassar names the hypocrites, the Jews and others together. The first clause, as the commentators read it, was about those calling the Prophet ﷺ to their desires; the verse's own word here is wider, simply az-zalimin. The readings are set down as they stand, with no ruling between them.",
+            "bn": "এই যালিমরা কারা, তা নিয়ে ব্যাখ্যা ভিন্ন। তাবারী আয়াতের নিজের শব্দের বাইরে কারও নাম নেন না। কুরতুবী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, এর মানে মুনাফিকরা ইহুদিদের বন্ধু। মুয়াসসার মুনাফিক, ইহুদি ও অন্যদের একসঙ্গে উল্লেখ করে। তাফসীরকারদের পাঠে প্রথম বাক্যটি ছিল তাদের নিয়ে, যারা নবী ﷺ-কে নিজেদের খেয়ালখুশির দিকে ডাকছিল। এখানে আয়াতের নিজের শব্দ আরও প্রশস্ত, শুধু আয-যালিমীন। ব্যাখ্যাগুলো যেমন আছে তেমনই রাখা হলো, কোনোটির পক্ষে রায় দেওয়া হলো না।"
+          },
+          {
+            "en": "Ibn Kathir asks the question the clause leaves hanging: what will their alliance with one another avail them? His answer is that it adds nothing to them but loss, ruin and destruction. The English abridgement of his tafsir puts it as all they will earn from their protecting friends is more loss. So the second clause completes the first. The people calling the Prophet ﷺ to their desires could not shield him from Allah, and the wider company of wrongdoers, for all their mutual support, cannot shield one another either.",
+            "bn": "বাক্যটি যে প্রশ্ন ঝুলিয়ে রাখে, ইবন কাসীর তা তোলেন: একে অপরের সঙ্গে তাদের এই বন্ধুত্ব তাদের কী কাজে আসবে? তাঁর জবাব, এতে ক্ষতি, বরবাদি আর ধ্বংস ছাড়া তাদের আর কিছুই বাড়ে না। তাঁর তাফসীরের ইংরেজি সংক্ষেপও একই কথা বলে, বন্ধুদের কাছ থেকে তারা শুধু আরও ক্ষতিই কামাবে। এভাবে দ্বিতীয় বাক্য প্রথমটিকে পূর্ণ করে। যারা নবী ﷺ-কে খেয়ালখুশির দিকে ডাকছিল, তারা তাঁকে আল্লাহর হাত থেকে রক্ষা করতে পারত না। আর যালিমদের বড় দলটিও, পরস্পরকে যত মদদই দিক, নিজেরা নিজেদের রক্ষা করতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Wali, Many Awliya'",
+          "bn": "এক অভিভাবক, বহু বন্ধু"
+        },
+        "p": [
+          {
+            "en": "Wallahu waliyyu al-muttaqin: and Allah is the ally of the muttaqin. The wording sets a singular against a plural. The wrongdoers have awliya', many of them, and the clause before has shown what that crowd is worth. The muttaqin have one wali, and nothing is added after the word. At-Tabari draws the meaning from the root itself: Allah yali, takes charge of, whoever is mindful of Him, by sufficing him and by defending him against whoever means him harm. Taking charge, sufficing and defending are held together in his reading of the one word.",
+            "bn": "ওয়াল্লাহু ওয়ালিয়্যুল মুত্তাকীন: আর আল্লাহ মুত্তাকীদের অভিভাবক। শব্দের গড়নে একবচন দাঁড়িয়ে আছে বহুবচনের মুখোমুখি। যালিমদের আওলিয়া অনেক, আর সেই ভিড়ের দাম কত, আগের বাক্য তা দেখিয়ে দিয়েছে। মুত্তাকীদের ওয়ালি একজন, আর শব্দটির পরে কিছু জুড়ে দেওয়া হয়নি। তাবারী অর্থটা বের করেন শব্দের ধাতু থেকেই। যে তাঁকে ভয় করে চলে, আল্লাহ তার দায়িত্ব নেন। তার জন্য যথেষ্ট হয়ে যান, আর যে তার অনিষ্ট চায় তার হাত থেকে তাকে রক্ষা করেন। দায়িত্ব নেওয়া, যথেষ্ট হওয়া আর রক্ষা করা, তাঁর পাঠে তিনটিই এক শব্দে ধরা আছে।"
+          },
+          {
+            "en": "Who counts as muttaqi is defined by deeds. At-Tabari: the one mindful of Him by fulfilling His obligations and avoiding disobedience to Him. The Muyassar uses almost the same words, and glosses wali as nasir, helper. Al-Qurtubi says the muttaqun here are those who guarded against shirk and sins, and gives wali as their helper and supporter. None of these makes Allah's protection a title one can claim for oneself or a group. It follows a practice, and the practice is described in terms anyone can check against their own week.",
+            "bn": "মুত্তাকী কে, তা ঠিক হয় আমল দিয়ে। তাবারীর কথায়, যে আল্লাহর ফরজগুলো আদায় করে আর তাঁর নাফরমানি থেকে দূরে থেকে তাঁকে ভয় করে চলে। মুয়াসসার প্রায় একই শব্দ ব্যবহার করে, আর ওয়ালি-র অর্থ দেয় নাসির, অর্থাৎ সাহায্যকারী। কুরতুবী বলেন, এখানে মুত্তাকী তারা, যারা শিরক ও গুনাহ থেকে বেঁচে থেকেছে। তাঁর কাছে ওয়ালি মানে তাদের সাহায্যকারী ও সহায়। এর কোনোটিই আল্লাহর অভিভাবকত্বকে এমন উপাধি বানায় না, যা কেউ নিজের বা নিজের দলের নামে দাবি করতে পারে। এ আসে একটা জীবনচর্চার পিছু পিছু। আর সে চর্চার বর্ণনা এমন, যে কেউ নিজের গোটা সপ্তাহের সঙ্গে মিলিয়ে দেখতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Brought Out by Taqwa",
+          "bn": "তাকওয়ার হাত ধরে আলোয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir and as-Sa'di both explain this walaya by what it does: He brings them out of the darknesses into the light. Ibn Kathir then completes the contrast. Those who disbelieve have false deities, at-taghut, as their allies, and these take them out of the light into the darknesses. He gives no reference, but his words are the words of 2:257, which opens: Allah is the ally of those who believe. A verse is being read through another passage. The many awliya' of this verse are paired there with allies who lead the other way.",
+            "bn": "ইবন কাসীর ও সা'দী দুজনেই এই অভিভাবকত্বের ব্যাখ্যা দেন তার কাজ দিয়ে: তিনি তাদের অন্ধকার থেকে আলোর দিকে বের করে আনেন। ইবন কাসীর এরপর বৈপরীত্যটা পূর্ণ করেন। যারা কুফরি করে, তাদের অভিভাবক তাগূত, আর তারা তাদের আলো থেকে অন্ধকারের দিকে নিয়ে যায়। তিনি কোনো সূত্র উল্লেখ করেননি, কিন্তু তাঁর শব্দগুলো হুবহু ২:২৫৭ আয়াতের, যার শুরু: আল্লাহ মু'মিনদের অভিভাবক। এক আয়াতকে পড়া হচ্ছে আরেক আয়াতের আলোয়। এখানকার বহু আওলিয়ার জোড়া সেখানে সেই অভিভাবকেরা, যারা উল্টো দিকে নিয়ে যায়।"
+          },
+          {
+            "en": "As-Sa'di ties the rescue to its cause: Allah brings them out by reason of their taqwa and their acting in obedience to Him. He adds a sentence on the first two clauses as well. It is not fitting, he says, addressing the Prophet ﷺ, for you to fall in with them and take them as allies, for you and they are mutabayinun, set apart from one another, while they are allies to each other. In his context the distance is between two things to follow, the revealed way and their desires. He is explaining 45:18 and 45:19, not drawing up a policy.",
+            "bn": "সা'দী এই উদ্ধারকে তার কারণের সঙ্গে বেঁধে দেন: তাদের তাকওয়া আর আল্লাহর আনুগত্যে আমল করার কারণেই আল্লাহ তাদের বের করে আনেন। প্রথম দুই বাক্য নিয়েও তিনি একটি কথা যোগ করেন। নবী ﷺ-কে সম্বোধন করে তিনি বলেন, তাদের সঙ্গে সুর মেলানো আর তাদের বন্ধু বানানো তোমার শোভা পায় না। কারণ তুমি আর তারা মুতাবায়িন, একে অপর থেকে আলাদা, আর তারা নিজেরা একে অপরের বন্ধু। তাঁর প্রসঙ্গে এই দূরত্ব দুটি অনুসরণের মধ্যে: নাযিল হওয়া পথ, নাকি তাদের খেয়ালখুশি। তিনি ৪৫:১৮ ও ৪৫:১৯ আয়াতের ব্যাখ্যা দিচ্ছেন, কোনো নীতি রচনা করছেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Comfort Folded Into Warning",
+          "bn": "সতর্কবাণীর ভাঁজে সান্ত্বনা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari closes his reading with what he takes Allah to be saying to His Prophet ﷺ through the verse. Be among the muttaqin, and Allah will suffice you against what these polytheists sought against you and plotted, for He is the ally of whoever is mindful of Him. Do not let the opposition of those who oppose His command weigh heavily on you, even if their numbers are many, for they will not harm you so long as Allah is your ally and your helper.",
+            "bn": "তাবারী তাঁর ব্যাখ্যা শেষ করেন এভাবে, আয়াতের মাধ্যমে আল্লাহ তাঁর নবী ﷺ-কে যা বলছেন বলে তিনি বোঝেন। তুমি মুত্তাকীদের একজন হয়ে থাকো। এই মুশরিকরা তোমার বিরুদ্ধে যা চেয়েছে আর যে চক্রান্ত করেছে, তার মোকাবিলায় আল্লাহই তোমার জন্য যথেষ্ট হবেন, কারণ যে তাঁকে ভয় করে চলে তিনি তার অভিভাবক। যারা তাঁর আদেশের বিরোধিতা করে, তাদের বিরোধিতা যেন তোমার কাছে ভারী মনে না হয়, তাদের সংখ্যা যত বেশিই হোক। আল্লাহ যতক্ষণ তোমার অভিভাবক ও সাহায্যকারী, ততক্ষণ তারা তোমার কোনো ক্ষতি করতে পারবে না।"
+          },
+          {
+            "en": "Read that way, a verse that opened as a warning ends as comfort. The many who called him away could not avail him; the many who back one another cannot avail themselves; and against all their number stands the one wali. At-Tabari's phrase about numbers is the place to stop. Opposition does not become more dangerous by becoming larger, because its size was never what decided the outcome. For anyone who holds to what was revealed while outnumbered, that sentence carries over, on the verse's own condition of taqwa.",
+            "bn": "এভাবে পড়লে যে আয়াত শুরু হয়েছিল সতর্কবাণী দিয়ে, তা শেষ হয় সান্ত্বনায়। যারা দলবেঁধে তাঁকে সরিয়ে নিতে ডাকছিল, তারা তাঁর কোনো কাজে আসত না। যারা একে অপরকে মদদ দেয়, তারা নিজেদেরও কাজে আসে না। আর তাদের সব সংখ্যার বিপরীতে দাঁড়িয়ে আছেন একজন অভিভাবক। সংখ্যা নিয়ে তাবারীর কথাটিতে একটু থামা দরকার। বিরোধিতা বড় হলেই বেশি বিপজ্জনক হয়ে যায় না, কারণ শেষ ফল কখনো তার আকারের উপর নির্ভর করেনি। সংখ্যায় কম হয়েও যে নাযিল হওয়া বাণী আঁকড়ে থাকে, তার বেলাতেও কথাটি খাটে, আয়াতের নিজের শর্ত তাকওয়া মেনে।"
+          },
+          {
+            "en": "No tafsir read for this verse attaches a hadith to it, so none is quoted here. The next verse, 45:20, names the other side of the instruction: this is insight for people, and guidance and mercy for a people who are certain. The English abridgement of Ibn Kathir reads it as a reference to the Qur'an. What the Prophet ﷺ is told to follow in place of their desires is named there, and that verse's own reflection can take it further.",
+            "bn": "এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হলো না। পরের আয়াত, ৪৫:২০, নির্দেশের অন্য দিকটির নাম বলে দেয়: এ মানুষের জন্য অন্তর্দৃষ্টি, আর দৃঢ় বিশ্বাসী সম্প্রদায়ের জন্য হিদায়াত ও রহমত। ইবন কাসীরের ইংরেজি সংক্ষেপ একে কুরআনের কথা বলেই পড়ে। তাদের খেয়ালখুশির বদলে নবী ﷺ-কে কী অনুসরণ করতে বলা হচ্ছে, তার নাম সেখানেই আছে। সে আয়াতের নিজস্ব আলোচনা কথাটিকে আরও এগিয়ে নিতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Label for Opponents",
+          "bn": "প্রতিপক্ষের গায়ে তকমা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying firmly. The verse describes what it describes: people in the Prophet's ﷺ own time who called him to leave revelation for their desires, and the alliances the commentators name in their readings, the polytheists, or the hypocrites and the Jews of that time. It has no present-day political application. It licenses nothing against any living person or community, Jewish or otherwise, and it gives no one the word zalimin to pin on rivals, parties, neighbours or states.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। নবী ﷺ-এর নিজের যুগের কিছু মানুষ, যারা তাঁকে ওহী ছেড়ে নিজেদের খেয়ালখুশির দিকে ডাকছিল। আর তাফসীরকারেরা তাঁদের ব্যাখ্যায় যে জোটগুলোর নাম নেন, সে যুগের মুশরিক, কিংবা মুনাফিক ও ইহুদিরা। আজকের রাজনীতিতে এর কোনো প্রয়োগ নেই। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে, ইহুদি হোক বা অন্য কেউ, এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিদ্বন্দ্বী, দল, প্রতিবেশী বা রাষ্ট্রের গায়ে যালিম শব্দটি সেঁটে দেওয়ার অধিকারও এ কাউকে দেয় না।"
+          },
+          {
+            "en": "The commentators point its weight inward instead. Every one of them defines the muttaqi by what he does, keeping obligations and leaving sins, so the verse first asks which side of its own line the reader stands on. A practical reading is short. When I notice myself doing what a group wants rather than what I know to be right, the question is the verse's own: could they avail me anything before Allah? And when I hold to what is right alone, the last clause is open to me as well, on the one condition it names.",
+            "bn": "তাফসীরকারেরা বরং আয়াতের ভার ঘুরিয়ে দেন ভেতরের দিকে। তাঁদের প্রত্যেকে মুত্তাকীর সংজ্ঞা দেন তার আমল দিয়ে: ফরজ আদায় আর গুনাহ বর্জন। তাই আয়াতটি প্রথমে জানতে চায়, পাঠক নিজে তার টানা রেখার কোন পাশে দাঁড়িয়ে। কাজের কথাটা সংক্ষিপ্ত। যা সঠিক বলে জানি তা না করে যখন দেখি কোনো দলের চাওয়া মতো চলছি, তখন প্রশ্নটা আয়াতেরই: আল্লাহর সামনে তারা কি আমার কোনো কাজে আসবে? আর সঠিক কথায় যখন একা দাঁড়িয়ে থাকি, তখন শেষ বাক্যটি আমার জন্যও খোলা, সেই একটি শর্তে যা আয়াত নিজেই বলে দিয়েছে।"
+          }
+        ]
+      }
+    ]
+  },
   "45:22": {
     "sections": [
       {
