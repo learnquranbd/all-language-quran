@@ -33843,6 +33843,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Live by the faith you already have, and Allah adds guidance to it. Let no habit grow so hard that the truth can no longer reach you.",
     "lessonBn": "যে ঈমান আপনার আছে, সে অনুযায়ী চলুন, আল্লাহ তাতে হিদায়াত বাড়িয়ে দেবেন। কোনো অভ্যাসকে এত শক্ত হতে দেবেন না যে সত্য আর আপনার কাছে পৌঁছাতে না পারে।"
+  },
+  "18:33": {
+    "reflectionEn": "Both gardens gave their fruit, and neither fell short in anything; the Arabic says it did not wrong him of it at all. Then a river was split open to run between them. Nothing is missing: no failed season, no dry field, no blight. A reader might expect such a gift to make its owner humble. Two verses later he walks into his garden, wronging himself, and says it will never perish. The garden did not wrong him; he wronged himself inside it. A full harvest is not a sign that Allah is pleased with someone. It is a gift, and a test of what the gift does to the heart. Where in my life has a full harvest made me forget who made the river run?",
+    "reflectionBn": "দুটো বাগানই পুরো ফল দিয়েছে, কোনোটাই এতটুকু কম দেয়নি। আরবিতে কথাটা এমন: বাগান তার প্রতি কোনো জুলুম করেনি। তারপর দুই বাগানের মাঝখান দিয়ে একটা নহর বইয়ে দেওয়া হল। কিছুরই অভাব নেই। কোনো মৌসুম ব্যর্থ হয়নি, কোনো খেত শুকায়নি, কোনো রোগ লাগেনি। এমন নিয়ামত পেলে মানুষের তো বিনয়ী হওয়ার কথা। অথচ দুই আয়াত পরেই সে নিজের উপর জুলুম করতে করতে বাগানে ঢোকে আর বলে, এ কখনো ধ্বংস হবে না। বাগান তার উপর জুলুম করেনি, সে-ই বাগানের ভেতরে নিজের উপর জুলুম করেছে। ভরা ফসল আল্লাহর সন্তুষ্টির প্রমাণ নয়। এটা নিয়ামত, আর নিয়ামত অন্তরের উপর কী প্রভাব ফেলে তার পরীক্ষাও। আমার জীবনের কোন ভরা ফসল আমাকে ভুলিয়ে দিয়েছে নহরটা কে বইয়ে দিয়েছেন?",
+    "pointsEn": [
+      "Which blessing in my life has come to me so complete that I have stopped noticing it as a gift?",
+      "Do I read my own comfort as proof that Allah is pleased with me, or as a trust I will be asked about?",
+      "When things fall short for me, do I complain of being wronged, and when they come in full, do I give thanks with the same energy?",
+      "What river runs through my life, water, health, a steady income, that I would only miss if it sank out of reach?",
+      "Has a full harvest ever made me speak to someone with less as if my abundance were my own doing?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন নিয়ামত এত পূর্ণ হয়ে এসেছে যে সেটাকে আর দান বলে খেয়ালই করি না?",
+      "নিজের আরাম-আয়েশকে আমি কি আল্লাহর সন্তুষ্টির প্রমাণ ভাবি, নাকি এমন আমানত, যার হিসাব আমাকে দিতে হবে?",
+      "কিছু কম পড়লে আমি কি অভিযোগ করি যে আমার উপর অন্যায় হল? আর সব পুরো এলে কি একই জোরে শুকরিয়া আদায় করি?",
+      "পানি, সুস্বাস্থ্য, নিয়মিত রোজগার: আমার জীবনে কোন নহর বয়ে চলেছে, যা নাগালের বাইরে তলিয়ে না গেলে টেরই পাব না?",
+      "ভরা ফসল কি কখনো আমাকে কম পাওয়া কারও সঙ্গে এমনভাবে কথা বলিয়েছে, যেন এই প্রাচুর্য আমার নিজের কৃতিত্ব?"
+    ],
+    "lessonEn": "When a blessing comes to you whole, with nothing falling short, take it as a gift and a test, not as proof of your worth, and thank the One who sent it.",
+    "lessonBn": "কোনো নিয়ামত যখন এতটুকু কমতি ছাড়া পুরোপুরি আসে, তাকে নিজের যোগ্যতার প্রমাণ না ভেবে দান ও পরীক্ষা হিসেবে নিন, আর যিনি দিয়েছেন তাঁর শুকরিয়া আদায় করুন।"
   }
 };
 

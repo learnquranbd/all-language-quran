@@ -1467,6 +1467,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:33": {
+    "sections": [
+      {
+        "h": {
+          "en": "Each Garden on Its Own",
+          "bn": "প্রতিটি বাগান আলাদা করে"
+        },
+        "p": [
+          {
+            "en": "Kilta al-jannatayni atat ukulaha wa lam tazlim minhu shay'a, wa fajjarna khilalahuma nahara: each of the two gardens brought forth its produce and fell short of it in nothing, and We made a river gush forth between them. The previous verse described the estate, vines ringed with palms and crops between (18:32). This one tells how it performed. Its eleven Arabic words answer two questions any farmer would ask: did the land bear, and was there water enough?",
+            "bn": "কিলতাল জান্নাতাইনি আতাত উকুলাহা ওয়া লাম তাজলিম মিনহু শাইআ, ওয়া ফাজ্জারনা খিলালাহুমা নাহারা: দুটো বাগানের প্রতিটিই নিজের ফল দিয়েছে, তাতে এতটুকু কমতি করেনি, আর আমি দুইয়ের মাঝখান দিয়ে একটি নহর প্রবাহিত করেছি। আগের আয়াতে বাগানের নকশা এসেছে: আঙুরলতা, চারপাশে খেজুরগাছের বেষ্টনী, মাঝে শস্যখেত (১৮:৩২)। এ আয়াত বলে, সেই বাগান ফলন দিল কেমন। আরবিতে মাত্র ১১টি শব্দ। তাতেই যেকোনো কৃষকের দুটি প্রশ্নের জবাব মেলে: জমি কি ফল দিয়েছে, আর পানি কি যথেষ্ট ছিল?"
+          },
+          {
+            "en": "The commentators start with the first word. Al-Qurtubi glosses kilta al-jannatayni as each one of the two gardens, and al-Baghawi says the same: each of the two gave its fruit in full. At-Tabari paraphrases with a plainer word, kila al-bustanayn, both orchards, each feeding out its fruit. The point of the construction is that neither garden carried the other. Each was complete taken alone, so the owner had two harvests, not one shared between two plots.",
+            "bn": "তাফসীরকারেরা শুরু করেন প্রথম শব্দ থেকে। কুরতুবী কিলতাল জান্নাতাইনের অর্থ করেন দুই বাগানের প্রত্যেকটি। বাগাভীও একই কথা বলেন: দুটোর প্রতিটি নিজের ফল পুরোপুরি দিয়েছে। তাবারী আরও সহজ শব্দে বলেন কিলাল বুস্তানাইন, দুটো বাগানই নিজ নিজ ফল খাইয়েছে। গঠনটার উদ্দেশ্য হল, এক বাগান আরেকটির ভার বয়নি। আলাদা করে ধরলেও প্রতিটি ছিল পূর্ণ। ফলে মালিক পেয়েছিল দুটি আলাদা ফসল, দুই টুকরো জমিতে ভাগ করা একটি নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Singular Verb for Two",
+          "bn": "দুইয়ের জন্য একবচন ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "Two gardens, yet the verb is atat, she brought forth, not the dual atata. Al-Qurtubi notices it at once: the gardens gave their produce in full, and that is why the verse did not say atata. At-Tabari explains the agreement: kilta has no singular of its own, its root is kull, and when kilta, kila or kull is joined to a definite noun, the verb after it may be singular or plural. He cites a rajaz line in which a poet even says kilt for kilta, using the shortened word with a dual sense.",
+            "bn": "বাগান দুটি, অথচ ক্রিয়া আতাত, একবচন। দ্বিবচন আতাতা নয়। কুরতুবী সঙ্গে সঙ্গে বিষয়টা ধরেন: বাগান দুটি ফল দিয়েছে পুরোপুরি, এ জন্যই আয়াত আতাতা বলেনি। তাবারী এই মিলের ব্যাখ্যা দেন। কিলতা শব্দের নিজস্ব কোনো একবচন রূপ নেই, এর মূল কুল্ল। কিলতা, কিলা বা কুল্ল কোনো নির্দিষ্ট বিশেষ্যের সঙ্গে জুড়লে পরের ক্রিয়া একবচনেও আসতে পারে, বহুবচনেও। তিনি রজয ছন্দের একটি পঙক্তি আনেন, যেখানে কবি কিলতার বদলে ছোট করে কিলত বলেছেন, অর্থ রেখেছেন দ্বিবচনের।"
+          },
+          {
+            "en": "Al-Qurtubi turns this into a recorded disagreement among the grammarians. The people of Basra held that kila and kilta are singular in form, like kull, though made to point to two, much as nahnu is one word that points to two or more; so the verse gives a singular verb. Al-Farra' held that they are true duals, taken from kull with the lam lightened and an alif added for the dual, and he used the same rajaz line as evidence. Al-Qurtubi reports that the Basrans judged this weak.",
+            "bn": "কুরতুবী এখানে ব্যাকরণবিদদের একটি মতভেদ লিপিবদ্ধ করেন। বসরার আলেমদের মতে কিলা ও কিলতা রূপে একবচন, যেমন কুল্ল, যদিও তাদের কাজ দুইকে বোঝানো। যেমন নাহনু একটি শব্দ, অথচ বোঝায় দুই বা তার বেশি। তাই আয়াতে ক্রিয়া একবচন। অন্যদিকে ফাররা বলেন, শব্দ দুটি আসল দ্বিবচন। কুল্ল থেকে নেওয়া, লাম হালকা করে দ্বিবচনের আলিফ যোগ করা হয়েছে। প্রমাণ হিসেবে তিনিও সেই রজয পঙক্তিই আনেন। কুরতুবী জানান, বসরার আলেমরা এ মতকে দুর্বল মনে করতেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ukul, the Yield Itself",
+          "bn": "উকুল, খোদ ফলন"
+        },
+        "p": [
+          {
+            "en": "Atat ukulaha: it brought forth its ukul. Al-Qurtubi defines the word: ukul, with a damma on the hamza, is the fruit of palms and trees, and everything eaten is ukul. He points to its use elsewhere in the Qur'an, ukuluha da'im, its fruit is lasting (13:35), said of Paradise. Ibn Kathir's gloss is the shortest: it put out its fruit. The Muyassar says each of the two orchards bore its fruit. Al-Baghawi reads the verb as a'tat, it gave, and the object as its fruit, complete.",
+            "bn": "আতাত উকুলাহা: সে তার উকুল দিয়েছে। কুরতুবী শব্দটির সংজ্ঞা দেন: হামযায় পেশ দিয়ে উকুল মানে খেজুরগাছ ও অন্যান্য গাছের ফল। যা কিছু খাওয়া হয়, সবই উকুল। তিনি কুরআনের আরেক জায়গার প্রয়োগ দেখান, উকুলুহা দাইম, তার ফল চিরস্থায়ী (১৩:৩৫), যা জান্নাতের বর্ণনা। ইবন কাসীরের ব্যাখ্যা সবচেয়ে ছোট: সে তার ফল বের করেছে। মুয়াসসার বলে, দুই বাগানের প্রতিটি নিজের ফল দিয়েছে। বাগাভী ক্রিয়াটির অর্থ করেন আতাত মানে দিল, আর তার কর্ম পূর্ণ ফল।"
+          },
+          {
+            "en": "At-Tabari widens what counts as yield. Each orchard, he writes, fed out its fruit and what it held of plantings: the palms, the vines and the kinds of crops. So the ukul here is the whole estate's produce, dates from the ring of palms, grapes from the vines and grain from the fields between. As-Sa'di goes further, saying the gardens gave their fruit and their crops di'fayn, doubled, multiplied. Either way, the estate returned more than any owner could reasonably ask of it.",
+            "bn": "ফলন বলতে কী বোঝায়, তাবারী তার পরিধি বাড়িয়ে দেন। তিনি লেখেন, প্রতিটি বাগান নিজের ফল খাইয়েছে, আর তাতে যত গাছপালা ছিল সেগুলোরও: খেজুর, আঙুর আর নানা জাতের শস্য। তাই এখানে উকুল মানে গোটা বাগানের উৎপাদন। চারপাশের খেজুরগাছ থেকে খেজুর, লতা থেকে আঙুর, মাঝের খেত থেকে শস্য। সা'দী আরও এগিয়ে বলেন, বাগান দুটি তাদের ফল ও ফসল দিয়েছে দ্বিগুণ করে, বহুগুণ বাড়িয়ে। যেভাবেই পড়ি, কোনো মালিক ন্যায্যভাবে যতটা আশা করতে পারে, তার চেয়ে বেশিই ফিরিয়ে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wronging Here Means Withholding",
+          "bn": "জুলুম মানে এখানে কম দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Wa lam tazlim minhu shay'a: literally, and it did not wrong of it anything. Every commentator fetched here reads the verb the same way. At-Tabari: it did not diminish the produce at all, but gave it whole and complete. Ibn Kathir, al-Qurtubi, al-Baghawi and the Muyassar all give lam tanqus, it did not reduce. As-Sa'di sharpens it: it did not reduce its yield by the slightest thing. There is no disagreement to report on this phrase. The interest lies in why the Qur'an chose this verb.",
+            "bn": "ওয়া লাম তাজলিম মিনহু শাইআ: শাব্দিক অর্থে, আর সে তা থেকে কোনো কিছুতে জুলুম করেনি। এখানে যত তাফসীর দেখা হয়েছে, সবাই ক্রিয়াটি একইভাবে পড়েন। তাবারী বলেন, ফলনের কিছুই কমায়নি, বরং পুরো ও পূর্ণাঙ্গ দিয়েছে। ইবন কাসীর, কুরতুবী, বাগাভী আর মুয়াসসার সবাই বলেন লাম তানকুস, কমায়নি। সা'দী কথাটা আরও ধারালো করেন: ফলন থেকে সামান্যতম কিছুও কমায়নি। এই অংশে বর্ণনা করার মতো কোনো মতভেদ নেই। প্রশ্নটা অন্যখানে: কুরআন ঠিক এই ক্রিয়াটিই বেছে নিল কেন?"
+          },
+          {
+            "en": "At-Tabari supplies the usage behind it. Arabs say zalama fulanun fulanan haqqahu, so-and-so wronged someone of his due, when he short-changed him and cut it down. He quotes a poet complaining that someone had wronged him of his property and twisted his hand. He then gives the early reading with its chain, through Bishr, Yazid and Sa'id, from Qatada: lam tazlim minhu shay'a means it did not diminish any of it. Zulm, in this sense, is withholding part of what is owed.",
+            "bn": "এর পেছনের আরবি প্রয়োগ দেখান তাবারী। আরবরা বলে, জালামা ফুলানুন ফুলানান হাক্কাহু, অমুক অমুকের হকে জুলুম করেছে। অর্থাৎ তাকে পাওনা থেকে কম দিয়েছে, কেটে ছোট করেছে। তিনি এক কবির পঙক্তি আনেন, যে অভিযোগ করছে কেউ তার সম্পদে জুলুম করেছে, তার হাত মুচড়ে দিয়েছে। তারপর সনদসহ পূর্বসূরিদের ব্যাখ্যা দেন, বিশর, ইয়াযীদ ও সাঈদের সূত্রে কাতাদা থেকে: লাম তাজলিম মিনহু শাইআ মানে তা থেকে কিছুই কমায়নি। এই অর্থে জুলুম মানে পাওনার একটা অংশ আটকে রাখা।"
+          },
+          {
+            "en": "Read that way, the verse speaks of the gardens almost as parties to an agreement. The land owed its owner a harvest, and it paid in full, without holding any part back. A farmer knows how rare that is: no frost on the blossom, no pest in the vines. As-Sa'di names it: no blight and no deficiency touched the two gardens. The gift had no gap in it anywhere.",
+            "bn": "এভাবে পড়লে মনে হয়, আয়াতটি বাগান দুটির কথা বলছে প্রায় চুক্তির এক পক্ষের মতো। জমির কাছে মালিকের পাওনা ছিল ফসল, আর জমি তা পুরোটা শোধ করেছে, কিছুই আটকে রাখেনি। কৃষক জানেন এটা কত বিরল: ফুলে তুষার পড়েনি, লতায় পোকা ধরেনি। সা'দী কথাটা স্পষ্ট বলেন: বাগান দুটিকে কোনো আপদ বা ঘাটতি স্পর্শ করেনি। দানটির কোথাও কোনো ফাঁক ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Split Open Between Them",
+          "bn": "দুই বাগানের মাঝে চিরে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Wa fajjarna khilalahuma nahara: and We made a river burst forth between them. At-Tabari glosses fajjarna as sayyalna, We made flow, and places it between the two orchards and between their trees. Al-Qurtubi has We made run and We split, through the middle of the two gardens, with a river. Al-Baghawi likewise: We split and brought out a river in their midst. The Muyassar adds its purpose, to water them with ease. The gift that answers the second question, water, is placed inside the estate, not at a distance.",
+            "bn": "ওয়া ফাজ্জারনা খিলালাহুমা নাহারা: আর আমি দুইয়ের মাঝ দিয়ে একটি নহর ফুটিয়ে বইয়ে দিয়েছি। তাবারী ফাজ্জারনার অর্থ করেন সাইয়্যালনা, আমি প্রবাহিত করেছি। তাঁর মতে নহরটি দুই বাগানের মাঝে এবং তাদের গাছের ফাঁকে ফাঁকে। কুরতুবী বলেন, আমি দুই বাগানের ঠিক মাঝখান দিয়ে নহর চালিয়েছি, জমি চিরে দিয়েছি। বাগাভীও তাই: আমি তাদের মাঝখানে চিরে নহর বের করেছি। মুয়াসসার এর উদ্দেশ্যও বলে দেয়, যাতে সহজে সেচ দেওয়া যায়। দ্বিতীয় প্রশ্ন ছিল পানি নিয়ে। তার জবাব রাখা হয়েছে বাগানের ভেতরেই, দূরে কোথাও নয়।"
+          },
+          {
+            "en": "The form of the verb drew comment. Al-Baghawi records that the general body of readers recite fajjarna with the jim doubled, and that Ya'qub read it light, fajarna. At-Tabari explains the doubled form: the bursting covers the whole length of the river, because the water swells and part of it pushes the rest along. The river is not a spring that wells up at a single point. It is split open and pushed through the estate end to end.",
+            "bn": "ক্রিয়ার রূপটা নিয়েও আলোচনা হয়েছে। বাগাভী জানান, অধিকাংশ কারী ফাজ্জারনা পড়েন জীমে তাশদীদ দিয়ে, আর ইয়াকূব পড়েছেন হালকা করে, ফাজারনা। তাশদীদওয়ালা রূপের ব্যাখ্যা দেন তাবারী। তাঁর মতে ফেটে বেরোনোটা ঘটে নহরের পুরো দৈর্ঘ্য জুড়ে, কারণ পানি ফুলে ওঠে আর তার এক অংশ বাকি অংশকে ঠেলে নিয়ে যায়। নহরটা এমন ঝরনা নয় যা এক জায়গায় উথলে ওঠে। জমি চিরে তাকে বাগানের এক মাথা থেকে আরেক মাথা পর্যন্ত চালিয়ে দেওয়া হয়েছে।"
+          },
+          {
+            "en": "The commentators differ slightly on the number. The verse says nahar, a single river. Ibn Kathir paraphrases with the plural: rivers breaking through the gardens here and there. As-Sa'di also speaks of rivers along their sides, flowing, many and abundant. The Muyassar, al-Qurtubi and al-Baghawi keep to a single river, set between the two or through their middle. The two pictures need not clash. One reads the word as a channel in the centre; the other reads it as water reaching every corner of both gardens.",
+            "bn": "নহরের সংখ্যা নিয়ে তাফসীরকারদের মধ্যে সামান্য পার্থক্য আছে। আয়াতে আছে নাহার, একটি নহর। ইবন কাসীর ব্যাখ্যা করেন বহুবচনে: নহরগুলো বাগানের এদিক-ওদিক চিরে বয়ে যাচ্ছে। সা'দীও বলেন বাগানের পাশ দিয়ে বয়ে চলা অনেক নহরের কথা, প্রচুর পানিতে ভরা। মুয়াসসার, কুরতুবী আর বাগাভী থাকেন একটি নহরেই, যা দুই বাগানের মাঝে বা ঠিক মাঝখান দিয়ে বয়ে যায়। দুই ছবির মধ্যে বিরোধ থাকার দরকার নেই। একদল শব্দটাকে পড়েন মাঝখানের একটি ধারা হিসেবে। অন্যরা পড়েন এমন পানি হিসেবে, যা দুই বাগানের প্রতিটি কোণে পৌঁছে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing Left to Ask",
+          "bn": "জিজ্ঞেস করার আর কিছু নেই"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the verse as the answer to a reader's unspoken questions. Once the gardens have been described, he says, nothing remains but to ask: how is the fruit of these two gardens, and do they have water enough for them? So Allah told us that each gave its fruit, that it fell short in nothing, and that, with all this, rivers ran along their sides. Then, on wa kana lahu thamar in the next verse, he adds that the gardens had come to full fruit and their trees hung heavy.",
+            "bn": "সা'দী আয়াতটিকে পড়েন পাঠকের মনের না-বলা প্রশ্নের জবাব হিসেবে। তিনি বলেন, বাগানের বর্ণনা শেষ হওয়ার পর শুধু এটুকু জিজ্ঞেস করাই বাকি থাকে: এই দুই বাগানের ফল কেমন? আর তাদের জন্য যথেষ্ট পানি আছে কি? তাই আল্লাহ জানিয়ে দিলেন, প্রতিটি বাগান নিজের ফল দিয়েছে, কিছুতেই কমতি করেনি, তার উপর পাশ দিয়ে নহরও বয়ে চলেছে। তারপর পরের আয়াতের ওয়া কানা লাহু সামার প্রসঙ্গে তিনি যোগ করেন, বাগান দুটির ফল পূর্ণ হয়ে গিয়েছিল আর গাছগুলো ফলের ভারে নুয়ে পড়েছিল।"
+          },
+          {
+            "en": "Then comes the sentence that turns the description into a warning. This, as-Sa'di writes, is the utmost limit of the world's adornment in tillage, and that is why the man was deluded by the two gardens, swaggered and boasted, and forgot his Hereafter. The perfection of the gift is not a detail on the way to the story. In his reading it is the cause of the man's fall. Because nothing was lacking, he began to think nothing could be taken away.",
+            "bn": "এরপর আসে সেই বাক্য, যা বর্ণনাকে সতর্কবার্তায় পরিণত করে। সা'দী লেখেন, চাষাবাদে দুনিয়ার শোভার এটাই চূড়ান্ত সীমা। আর এ জন্যই লোকটি বাগান দুটি নিয়ে ধোঁকায় পড়ল, অহংকার আর বড়াই করল, নিজের আখিরাত ভুলে গেল। তাঁর পাঠে নিয়ামতের পূর্ণতা কাহিনির পথে কোনো ছোট খুঁটিনাটি নয়। এটাই লোকটির পতনের কারণ। কোনো কিছুর কমতি ছিল না বলেই সে ভাবতে শুরু করল, কিছুই কেড়ে নেওয়া যাবে না।"
+          },
+          {
+            "en": "Ibn Kathir, in the English abridgement covering 18:32 to 18:36, draws the same line from the other end. When the man says he does not think this will ever perish (18:35), Ibn Kathir explains that he was deceived by what he saw: the plants, the fruit, the trees and the rivers flowing through the different parts of his gardens. He thought it could never end. Every item in that list comes from 18:32 and 18:33. The verse that perfects the gift also supplies the inventory of his delusion.",
+            "bn": "১৮:৩২ থেকে ১৮:৩৬ নিয়ে ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে তিনি একই রেখা টানেন উল্টো দিক থেকে। লোকটি যখন বলে, আমি মনে করি না এ কখনো ধ্বংস হবে (১৮:৩৫), ইবন কাসীর ব্যাখ্যা করেন, সে নিজের চোখে যা দেখছিল তাতেই প্রতারিত হয়েছিল: গাছপালা, ফল, বৃক্ষ আর বাগানের নানা অংশে বয়ে চলা নহর। সে ভেবেছিল এর কোনো শেষ নেই। তালিকার প্রতিটি জিনিস এসেছে ১৮:৩২ ও ১৮:৩৩ থেকে। যে আয়াত নিয়ামতকে পূর্ণ করে, সেটিই তার ধোঁকার ফর্দও জোগায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Garden Kept Faith",
+          "bn": "বাগান তার কথা রেখেছিল"
+        },
+        "p": [
+          {
+            "en": "A reader of the Arabic will notice the root z-l-m twice in three verses. Here the garden lam tazlim, did not wrong its owner of anything. Two verses on, the owner enters his garden wa huwa zalimun li-nafsihi, while he was wronging himself (18:35). None of the commentaries fetched for this verse draws the link, so it is offered only as a reading of the text. The land paid its owner his due in full. The owner, standing in the middle of that full payment, failed to pay what he owed.",
+            "bn": "আরবি যিনি পড়েন, তিনি খেয়াল করবেন তিনটি আয়াতের মধ্যে জ-ল-ম ধাতু এসেছে দুবার। এখানে বাগান লাম তাজলিম, মালিকের প্রতি কিছুতেই জুলুম করেনি। দুই আয়াত পরে মালিক নিজের বাগানে ঢোকে ওয়া হুয়া জালিমুন লিনাফসিহী, নিজের উপর জুলুম করা অবস্থায় (১৮:৩৫)। এই আয়াতের জন্য যত তাফসীর দেখা হয়েছে, কোনোটিই এ যোগসূত্র টানেনি। তাই কথাটা এখানে রাখা হল কেবল আয়াতের পাঠ থেকে একটা পর্যবেক্ষণ হিসেবে। জমি মালিককে তার পাওনা পুরোটাই দিয়েছে। আর সেই পূর্ণ প্রাপ্তির মাঝখানে দাঁড়িয়ে মালিক নিজের দেনা শোধ করতে পারেনি।"
+          },
+          {
+            "en": "Ibn Kathir's gloss on 18:36 shows what that unpaid debt looked like. The man said that even if he were returned to his Lord he would find something better, reasoning, in Ibn Kathir's words, that if he were not dear to Allah, Allah would not have given him all this. A complete harvest had become, in his mind, a certificate of standing. The verse gives the harvest with the verb fajjarna, We made it gush, keeping Allah as the doer. The man kept the harvest and dropped the subject of the verb.",
+            "bn": "লোকটির সেই অপরিশোধিত দেনার চেহারা দেখা যায় ১৮:৩৬ আয়াতের উপর ইবন কাসীরের ব্যাখ্যায়। লোকটি বলেছিল, রবের কাছে ফিরিয়ে নেওয়া হলেও সে এর চেয়ে ভালো কিছুই পাবে। ইবন কাসীরের ভাষায় তার যুক্তি ছিল: আমি যদি আল্লাহর প্রিয় না হতাম, তিনি আমাকে এত কিছু দিতেন না। ভরা ফসল তার মনে হয়ে উঠল মর্যাদার সনদ। আয়াত ফসলের কথা বলে ফাজ্জারনা ক্রিয়া দিয়ে, আমি বইয়ে দিয়েছি, যেখানে কর্তা আল্লাহ। লোকটি ফসলটা রেখে দিল, আর ক্রিয়ার কর্তাকে বাদ দিল।"
+          },
+          {
+            "en": "The parable then takes back exactly what this verse gave. The believing companion warns that the water may sink into the ground beyond reach (18:41), the river of 18:33 reversed; the article on 18:40 traces that warning. In 18:42 the fruit is encompassed and the garden lies fallen on its trellises, the yield of this verse undone. Here it is enough to see that the river and the harvest are described in full, and that the loss is measured against them.",
+            "bn": "এরপর দৃষ্টান্তটি ঠিক সেটাই ফিরিয়ে নেয়, যা এ আয়াত দিয়েছিল। মুমিন সাথী সতর্ক করে, পানি মাটির এত গভীরে নেমে যেতে পারে যে আর নাগাল পাওয়া যাবে না (১৮:৪১)। এ যেন ১৮:৩৩-এর নহরের উল্টো ছবি। ১৮:৪০ আয়াতের প্রবন্ধে সেই সতর্কবাণীর আলোচনা আছে। ১৮:৪২ আয়াতে ফল ঘেরাও হয়ে যায়, বাগান মাচাসহ মুখ থুবড়ে পড়ে, আর এ আয়াতের ফলন মুছে যায়। এখানে এটুকু দেখাই যথেষ্ট: নহর আর ফসলের পুরো বিবরণ এখানেই দেওয়া হয়েছে, আর পরের ক্ষতি মাপা হয় সেই বিবরণের মাপেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Harvest Without a Verdict",
+          "bn": "রায়বিহীন এক ফসল"
+        },
+        "p": [
+          {
+            "en": "Who the two men were, and whether they ever lived, is taken up at 18:32. Al-Qurtubi, on that verse, relays named pairs, among them al-Kalbi's two brothers of Makhzum and two Israelite brothers, without confirming any; he records al-Mawardi's view that the story is a likeness for this community rather than a report of past events, and answers that the context points the other way. As-Sa'di holds that knowing who they were brings no benefit. The disagreement stays open, and nothing in 18:33 settles it.",
+            "bn": "দুই ব্যক্তি কারা ছিল, আদৌ তারা ছিল কি না, এ আলোচনা ১৮:৩২ আয়াতের। কুরতুবী সেই আয়াতে কয়েক জোড়া নাম বর্ণনা করেন, যেমন কালবীর বর্ণিত মাখযূম গোত্রের দুই ভাই আর বনী ইসরাঈলের দুই ভাই। কোনোটিকেই তিনি নিশ্চিত করেন না। তিনি মাওয়ারদীর এ মতও উল্লেখ করেন যে কাহিনিটি এই উম্মতের জন্য একটি দৃষ্টান্ত মাত্র, অতীতের কোনো ঘটনার খবর নয়। জবাবে বলেন, আয়াতের প্রসঙ্গ এর বিপরীত দিকে ইঙ্গিত করে। সা'দীর মতে তারা কে ছিল তা জেনে কোনো লাভ নেই। মতভেদটা খোলাই থাকে, আর ১৮:৩৩ এর কোনো মীমাংসা করে না।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. This needs saying plainly too: the verse describes what the text describes, a man in a parable whose gardens lacked nothing and who forgot their Giver. It licenses nothing against any living person, family or community, and gives no one leave to read a neighbour's full harvest as pride or a poor season as punishment. Wealth is not condemned here. The two gardens are a gift, and the verse praises them before anything goes wrong.",
+            "bn": "এই আয়াতের জন্য যত তাফসীর দেখা হয়েছে, কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। এ কথাটাও সোজাসুজি বলা দরকার: আয়াতটি কেবল তা-ই বর্ণনা করে যা তাতে আছে। এক দৃষ্টান্তের একজন মানুষ, যার বাগানে কিছুরই অভাব ছিল না, অথচ সে দাতাকে ভুলে গিয়েছিল। জীবিত কোনো মানুষ, পরিবার বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশীর ভরা ফসলকে অহংকার, কিংবা খারাপ মৌসুমকে শাস্তি বলে রায় দেওয়ার সুযোগও কাউকে দেয় না। এখানে সম্পদের নিন্দা নেই। বাগান দুটি নিয়ামত, আর কিছু বিগড়ানোর আগে আয়াত সেগুলোর প্রশংসাই করে।"
+          },
+          {
+            "en": "The mirror turns on the reader instead. Most people have some part of life that, for a season, gives its fruit and falls short in nothing: a sound body, a steady wage, a household at peace. The verse asks of that part: who made this river run through it? As-Sa'di's warning is that the fullest gifts are the most dangerous to a forgetful heart. The remedy the parable offers comes in 18:39, in the words the owner never said at his garden gate.",
+            "bn": "আয়নাটা বরং ঘোরে পাঠকের দিকে। প্রায় সবার জীবনেই কোনো একটা দিক থাকে, যা কিছুদিনের জন্য পুরো ফল দেয়, কিছুতেই কমতি করে না: সুস্থ শরীর, নিয়মিত রোজগার, শান্তিতে থাকা সংসার। আয়াতটি সে দিক নিয়ে প্রশ্ন তোলে: এর ভেতর দিয়ে এই নহর কে বইয়ে দিয়েছেন? সা'দীর সতর্কবাণী হল, যে অন্তর ভুলে যায় তার জন্য সবচেয়ে পূর্ণ নিয়ামতই সবচেয়ে বিপজ্জনক। দৃষ্টান্তটি যে প্রতিকার দেয়, তা আসে ১৮:৩৯ আয়াতে, সেই কথায় যা মালিক বাগানের দরজায় কখনো বলেনি।"
+          }
+        ]
+      }
+    ]
+  },
   "18:37": {
     "sections": [
       {
