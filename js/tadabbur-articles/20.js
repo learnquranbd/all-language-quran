@@ -2199,6 +2199,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:44": {
+    "sections": [
+      {
+        "h": {
+          "en": "Gentleness Ordered at the Summit",
+          "bn": "চূড়ায় দাঁড়িয়ে নরমের হুকুম"
+        },
+        "p": [
+          {
+            "en": "Fa-qūlā lahu qawlan layyinan: so speak to him, the two of you, a gentle word. The verb is dual, for Mūsā (AS) and Hārūn (AS) together, and it follows straight on from 20:43, where Pharaoh is said to have transgressed. The diagnosis is severe; the instruction is soft. Ibn Kathir calls this verse a great lesson. Pharaoh, he says, was at the very limit of insolence and arrogance, and Mūsā (AS) was then Allah's chosen among His creation, and still he was commanded to address Pharaoh only with kindness and gentleness.",
+            "bn": "ফাকূলা লাহু কাওলান লাইয়িনা: তোমরা দুজন তার সঙ্গে নরম কথা বলো। ক্রিয়াটি দ্বিবচন, মূসা (আঃ) ও হারূন (আঃ) দুজনকে একসঙ্গে বলা। আর কথাটা আসছে ঠিক ২০:৪৩-এর পরে, যেখানে ফেরাউনকে বলা হয়েছে সীমালঙ্ঘনকারী। অপরাধের বিবরণ কঠিন, অথচ হুকুম নরম। ইবন কাসীর এ আয়াতকে বলেন এক বিরাট শিক্ষা। তাঁর কথায়, ফেরাউন ছিল ঔদ্ধত্য আর অহংকারের শেষ সীমায়। আর মূসা (আঃ) ছিলেন সে যুগে আল্লাহর সৃষ্টির মধ্যে তাঁর বাছাই করা বান্দা। তবু তাঁকে হুকুম দেওয়া হলো, ফেরাউনের সঙ্গে কথা বলবেন কেবল কোমলতা আর নম্রতা দিয়ে।"
+          },
+          {
+            "en": "Ibn Kathir then quotes Yazīd ar-Raqāshī, speaking at these very words: O He who seeks the love of one who shows Him enmity, how then with one who takes Him as protector and calls upon Him? The saying turns the verse back on the believer. If this much gentleness was ordered towards a declared enemy of God, the reader may ask what Allah's gentleness looks like towards those who turn to Him.",
+            "bn": "এরপর ইবন কাসীর এ কথাগুলোর প্রসঙ্গে ইয়াযীদ আর-রাকাশীর একটি উক্তি আনেন: হে সেই সত্তা, যিনি তাঁর সঙ্গে শত্রুতাকারীরও ভালোবাসা চান! তাহলে যে তাঁকে অভিভাবক মানে আর তাঁকে ডাকে, তার বেলায় কেমন হবে? উক্তিটি আয়াতকে মুমিনের দিকে ঘুরিয়ে দেয়। আল্লাহর ঘোষিত শত্রুর বেলাতেই যদি এতটা নরম হওয়ার হুকুম আসে, তবে যারা তাঁর দিকে ফেরে তাদের প্রতি আল্লাহর কোমলতা কেমন, পাঠক তা ভেবে দেখতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Speech With No Roughness",
+          "bn": "যে কথায় কর্কশতা নেই"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi defines layyin simply: the gentle word is the word in which there is no roughness, from lāna yalīnu, to be soft. As-Sa'di fills out the picture: easy and kind, spoken with gentleness, softness and courtesy in the wording, without obscenity or arrogance, without harshness in what is said or coarseness in what is done. Al-Baghawi glosses the command as dāriyāhu wa-rfuqā ma'ahu, deal tactfully with him and be gentle with him, and gives Ibn 'Abbās (RA): do not be harsh in what you say. Al-Muyassar renders it qawlan laṭīfan, a kindly word.",
+            "bn": "লাইয়িন বা নরম কথার সংজ্ঞা কুরতুবী দেন সোজা ভাষায়: নরম কথা সেই কথা, যাতে কোনো কর্কশতা নেই। শব্দটি এসেছে লানা ইয়ালীনু থেকে, অর্থাৎ নরম হওয়া। সা'দী ছবিটা আরও ভরাট করেন। তাঁর মতে এমন কথা সহজ আর মোলায়েম, বলা হয় কোমলতা, নম্রতা আর শব্দের আদব রেখে। তাতে অশ্লীলতা নেই, দম্ভ নেই, কথায় রূঢ়তা নেই, আচরণেও কাঠিন্য নেই। বাগাভী হুকুমটির ব্যাখ্যা দেন দারিয়াহু ওয়ারফুকা মাআহু দিয়ে: তার সঙ্গে কৌশলে চলো আর নরম আচরণ করো। সঙ্গে আনেন ইবন আব্বাস (রাঃ)-এর কথা: তোমাদের কথায় কঠোর হয়ো না। মুয়াসসার বলে, কাওলান লাতীফান, মিষ্টি কথা।"
+          },
+          {
+            "en": "Ibn Kathir gathers the early sayings into a single summary: their call to him was to be in speech that is tender, soft, near and easy, so that it would fall more deeply on the soul, reach further and work better. As-Sa'di gives the reason in a single contrast. The gentle word calls a person towards that remembering and fearing, and the harsh word drives the listener away from the speaker. Gentleness here is not decoration on the message; it is what lets the message arrive.",
+            "bn": "ইবন কাসীর পূর্বসূরিদের কথাগুলো এক জায়গায় এনে সারকথা বলেন: তাঁদের দাওয়াত হবে মোলায়েম, নরম, কাছের আর সহজ কথায়, যাতে তা মনে আরও গভীরে বসে, আরও দূর পৌঁছায়, আরও বেশি কাজে আসে। সা'দী কারণটা বলেন এক তুলনায়। নরম কথা মানুষকে উপদেশ নেওয়া আর ভয় পাওয়ার দিকে ডাকে। আর কড়া কথা শ্রোতাকে বক্তার কাছ থেকেই দূরে ঠেলে দেয়। তাই এখানে নরম হওয়া বার্তার উপর কোনো সাজসজ্জা নয়। বার্তা যাতে পৌঁছায়, নরমই তার পথ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Calling Him by His Kunya",
+          "bn": "কুনিয়াত ধরে ডাকা"
+        },
+        "p": [
+          {
+            "en": "Many early readers made the gentle word concrete: address him by his kunya, the honorific Abū so-and-so. At-Tabari opens with it, and gives as-Suddī: kanniyāhu, call him by his kunya. Al-Qurtubi names al-Kalbī and 'Ikrima for this view and says Ibn 'Abbās (RA), Mujāhid and as-Suddī held it too. Which kunya? Al-Qurtubi lists Abū l-'Abbās, Abū l-Walīd and Abū Murra, each under the words it is said. Ibn Kathir carries the same from 'Alī (RA), through a chain in which one link is simply a man, unnamed, and from Sufyān ath-Thawrī: by Abū Murra.",
+            "bn": "প্রথম যুগের অনেকে নরম কথাকে একটা নির্দিষ্ট রূপ দিয়েছেন: তাকে কুনিয়াত ধরে ডাকো, অর্থাৎ আবূ অমুক বলে সম্মানের নামে। তাবারী এ কথা দিয়েই শুরু করেন, আর সুদ্দীর কথা আনেন: কান্নিয়াহু, তাকে কুনিয়াতে ডাকো। কুরতুবী এ মতের পক্ষে কালবী ও ইকরিমার নাম নেন, আর বলেন ইবন আব্বাস (রাঃ), মুজাহিদ ও সুদ্দীও এ কথা বলেছেন। কোন কুনিয়াত? কুরতুবী 'বলা হয়' কথাটি জুড়ে তিনটি নাম দেন: আবুল আব্বাস, আবুল ওয়ালীদ ও আবূ মুররা। ইবন কাসীর একই কথা আনেন আলী (রাঃ) থেকে, এমন এক সনদে যার একজন বর্ণনাকারী শুধুই 'এক ব্যক্তি', নাম নেই। সুফিয়ান সাওরী থেকেও আনেন: আবূ মুররা বলে ডাকো।"
+          },
+          {
+            "en": "Al-Qurtubi draws a ruling from this reading. On it, he says, giving a kunya to a disbeliever is permitted when he is a man of standing and honour and there is hope of his Islam, and it may be permitted even without that hope, since hope is not a fact that obliges an act. He adds two reports of the Prophet ﷺ honouring notable men, known here only through his tafsir and not built on. No tafsir here attaches a sound hadith to the verse. A third case he gives can be checked in Sahih al-Bukhari.",
+            "bn": "এ ব্যাখ্যা থেকে কুরতুবী একটি মাসআলা বের করেন। তাঁর মতে এ অনুযায়ী কোনো কাফিরকে কুনিয়াতে ডাকা জায়েয, যদি সে সমাজে মর্যাদাবান ও সম্মানিত হয় আর তার ইসলাম গ্রহণের আশা থাকে। আশা না থাকলেও জায়েয হতে পারে, কারণ আশা এমন কোনো বাস্তব ব্যাপার নয় যা কোনো আমলকে জরুরি করে। তিনি সম্মানিত লোকদের প্রতি নবী ﷺ-এর সম্মান দেখানো নিয়ে আরও দুটি বর্ণনা আনেন। সেগুলো এখানে কেবল তাঁর তাফসীর হয়েই এসেছে, তাই সেগুলোর উপর কিছু দাঁড় করানো হলো না। এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তবে তাঁর দেওয়া তৃতীয় দৃষ্টান্তটি সহীহ বুখারীতে মিলিয়ে দেখা যায়।"
+          },
+          {
+            "en": "Usāma ibn Zayd (RA) narrates that the Prophet ﷺ, riding to visit Sa'd ibn 'Ubāda before Badr, passed a gathering where 'Abdullāh ibn Ubayy sat, who had not yet entered Islam. Ibn Ubayy covered his nose against the dust and told him not to trouble them with his message in their gathering. Reaching Sa'd, the Prophet ﷺ said: O Sa'd, did you not hear what Abū Ḥubāb said? He said such and such (Sahih al-Bukhari 4566). He meant Ibn Ubayy, and named him by his kunya. The hadith is not about this verse; al-Qurtubi brings it as a parallel.",
+            "bn": "উসামা ইবন যায়দ (রাঃ) বর্ণনা করেন: বদরের আগে নবী ﷺ সা'দ ইবন উবাদাকে দেখতে যাচ্ছিলেন। পথে এক মজলিসের পাশ দিয়ে গেলেন, সেখানে বসে ছিল আবদুল্লাহ ইবন উবাই, তখনো সে ইসলাম গ্রহণ করেনি। ধুলো থেকে বাঁচতে ইবন উবাই নাক ঢাকল, আর বলল তাদের মজলিসে এসে এসব কথা বলে যেন তাদের কষ্ট দেওয়া না হয়। সা'দের কাছে পৌঁছে নবী ﷺ বললেন: হে সা'দ, আবূ হুবাব কী বলেছে শোনোনি? সে এমন এমন বলেছে (সহীহ বুখারী ৪৫৬৬)। আবূ হুবাব মানে ইবন উবাই। নবী ﷺ তাকে কুনিয়াতেই উল্লেখ করলেন। হাদীসটি এ আয়াত নিয়ে নয়, কুরতুবী একে সমান্তরাল দৃষ্টান্ত হিসেবে আনেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Words the Elders Proposed",
+          "bn": "পূর্বসূরিদের আরও কিছু প্রস্তাব"
+        },
+        "p": [
+          {
+            "en": "Not everyone made it a kunya. Ibn Kathir reports 'Ikrima saying the gentle word was lā ilāha illā Allāh, while al-Qurtubi counts 'Ikrima among those who said kunya; the two tafsirs differ on him, and the difference stands. Al-Ḥasan al-Baṣrī, through 'Amr ibn 'Ubayd, reads it as a'dhirā ilayhi, leave him no excuse: tell him, you have a Lord and a place of return, and before you lie a Garden and a Fire. Ibn Kathir also relays a saying of Wahb ibn Munabbih about pardon; it is Wahb's own report and is only noted here.",
+            "bn": "সবাই একে কুনিয়াত বলেননি। ইবন কাসীর ইকরিমার কথা আনেন যে নরম কথা হলো লা ইলাহা ইল্লাল্লাহ। অথচ কুরতুবী ইকরিমাকে গুনেছেন কুনিয়াতের পক্ষের লোকদের মধ্যে। দুই তাফসীর তাঁর কথা দুভাবে বর্ণনা করে, আর এই ভিন্নতা যেমন আছে তেমনই রাখা হলো। হাসান বসরী, আমর ইবন উবাইদের সূত্রে, একে বোঝেন আ'যিরা ইলাইহি অর্থে, অর্থাৎ তার আর কোনো অজুহাত বাকি রেখো না। তাকে বলো: তোমার একজন রব আছেন, ফিরে যাওয়ার একটা জায়গা আছে, আর তোমার সামনে আছে জান্নাত আর জাহান্নাম। ইবন কাসীর ক্ষমা প্রসঙ্গে ওয়াহব ইবন মুনাব্বিহের একটি উক্তিও আনেন। এটি ওয়াহবের নিজের বর্ণনা, তাই এখানে শুধু উল্লেখ করা হলো।"
+          },
+          {
+            "en": "Others looked for the gentle word inside the Qur'an itself. Ibn Mas'ūd (RA), in al-Qurtubi, and Muqātil, in al-Baghawi, both point to 79:18 and 79:19: say, would you like to purify yourself, and that I guide you to your Lord, so that you fear? Al-Qurtubi records another view, that the gentle word was the opening, O Pharaoh, we are messengers of your Lord, the Lord of the worlds; the title pleased him above any other, as kings are addressed by theirs among us. Al-Baghawi notes a further reason, under it is said: gentleness was owed because Pharaoh had raised him.",
+            "bn": "কেউ কেউ নরম কথাটা খুঁজেছেন কুরআনের ভেতরেই। কুরতুবীতে ইবন মাসঊদ (রাঃ) আর বাগাভীতে মুকাতিল, দুজনেই দেখান ৭৯:১৮ ও ৭৯:১৯: তাকে বলো, তুমি কি পবিত্র হতে চাও? আর আমি কি তোমাকে তোমার রবের পথ দেখাব, যাতে তুমি তাঁকে ভয় করো? কুরতুবী আরেকটি মতও আনেন। নরম কথা ছিল শুরুর বাক্যটি: হে ফেরাউন, আমরা তোমার রবের, বিশ্বজগতের রবের রসূল। এই উপাধিটিই তার সবচেয়ে প্রিয় ছিল, যেমন আমাদের সমাজে রাজাকে তার উপাধিতে ডাকা হয়। বাগাভী 'বলা হয়' কথাটি জুড়ে আরেকটি কারণ দেন: ফেরাউন তাঁকে লালনপালন করেছিল, সেই হকের খাতিরে নরম হওয়ার হুকুম এসেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Offer, Not a Summons",
+          "bn": "তলব নয়, প্রস্তাব"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di takes 79:18 and 79:19 apart to show where the softness lies. It begins with hal, would you, a word of offer and consultation that no one bristles at. It calls him to tazakkā, to purify himself of filth whose root is shirk, a call every sound mind accepts. And it does not say I will purify you, but that you purify yourself, leaving the act in his own hands. Then it calls him to his Lord, who raised him and gave him favours seen and unseen, owed thanks and remembrance.",
+            "bn": "নরমটা ঠিক কোথায়, তা দেখাতে সা'দী ৭৯:১৮ ও ৭৯:১৯ খুলে খুলে দেখান। শুরু 'হাল' দিয়ে, অর্থাৎ তুমি কি চাও? এ প্রস্তাব আর পরামর্শের শব্দ, যা শুনে কেউ বিরক্ত হয় না। এরপর ডাকা হয় তাযাক্কার দিকে, নোংরা থেকে নিজেকে পবিত্র করার দিকে, যার মূল শিরক থেকে পবিত্র হওয়া। সুস্থ বুদ্ধির যে কেউ এ ডাক মেনে নেয়। আর বলা হয়নি 'আমি তোমাকে পবিত্র করব', বলা হয়েছে 'তুমি নিজে পবিত্র হও'। কাজটা তার নিজের হাতেই রাখা হলো। তারপর তাকে ডাকা হয় তার রবের দিকে, যিনি তাকে লালন করেছেন, প্রকাশ্য ও গোপন নানা নিয়ামত দিয়েছেন। এমন নিয়ামতের জবাব তো শোকর আর স্মরণ।"
+          },
+          {
+            "en": "Then as-Sa'di closes the account. When Pharaoh did not accept this gentle speech, it became known that no reminder would work on him, and Allah seized him with the seizing of One Mighty and Able. The gentle word, then, does not promise acceptance. It promises that if the door stays shut, it was not shut by the messenger's tone. Al-Baghawi relays as-Suddī's story of promises made and of Hāmān talking Pharaoh out of them, and al-Qurtubi tells a like tale under it is said; these are reports without a chain to the Prophet ﷺ, and nothing in the verse rests on them.",
+            "bn": "এরপর সা'দী হিসাবটা শেষ করেন। এমন নরম কথাও ফেরাউন যখন মানল না, তখন বোঝা গেল কোনো উপদেশই তার উপর কাজ করবে না। তখন আল্লাহ তাকে পাকড়াও করলেন মহাপরাক্রমশালী, সর্বশক্তিমানের পাকড়াওয়ে। তাই নরম কথা মেনে নেওয়ার নিশ্চয়তা দেয় না। নিশ্চয়তা দেয় এটুকু যে, দরজা বন্ধই থাকলে তা রসূলের কথার সুরে বন্ধ হয়নি। বাগাভী সুদ্দীর একটি কাহিনি আনেন: কিছু প্রতিশ্রুতি দেওয়া হয়েছিল, আর হামান ফেরাউনকে সেগুলো থেকে ফিরিয়ে দেয়। কুরতুবীও 'বলা হয়' কথাটি জুড়ে একই রকম কাহিনি বলেন। এসব বর্ণনার কোনো সনদ নবী ﷺ পর্যন্ত পৌঁছায় না, আর আয়াতের কোনো কথা এগুলোর উপর দাঁড়িয়ে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Perhaps, From the All-Knowing",
+          "bn": "সর্বজ্ঞের মুখে 'হয়তো' কেন"
+        },
+        "p": [
+          {
+            "en": "La'allahu yatadhakkaru aw yakhshā: perhaps he will remember or fear. Al-Baghawi raises the obvious question: how can He say perhaps he will remember, when His knowledge had already settled that Pharaoh would neither remember nor submit? His answer: go in hope and longing on your part, and Allah's decree lies behind your errand. Al-Qurtubi gives the same sense, on your hope and your longing, and says the expectation belongs to the human side, as the great grammarians held, Sībawayh and others. Az-Zajjāj, in al-Qurtubi, adds that la'alla is a word of hope, and Allah addressed them in what they understand.",
+            "bn": "লাআল্লাহু ইয়াতাযাক্কারু আও ইয়াখশা: হয়তো সে উপদেশ নেবে, কিংবা ভয় করবে। বাগাভী স্পষ্ট ভাষায় প্রশ্নটা তোলেন। আল্লাহর জ্ঞানে তো আগেই স্থির ছিল যে ফেরাউন উপদেশ নেবে না, ইসলামও কবুল করবে না। তাহলে তিনি 'হয়তো সে উপদেশ নেবে' বললেন কীভাবে? তাঁর জবাব: তোমরা নিজেদের দিক থেকে আশা আর আকাঙ্ক্ষা নিয়ে যাও, আর তোমাদের কাজের পেছনে আছে আল্লাহর ফায়সালা। কুরতুবীও একই অর্থ দেন: তোমাদের আশা আর আকাঙ্ক্ষা অনুযায়ী। তাঁর কথায় প্রত্যাশাটা মানুষের দিকের ব্যাপার, আর এ কথা বড় বড় ব্যাকরণবিদের, সিবাওয়াইহ ও অন্যদের। কুরতুবীতে যাজ্জাজ যোগ করেন, লাআল্লা আশার শব্দ, আল্লাহ তাঁদের সঙ্গে কথা বলেছেন তাঁদের বোধগম্য ভাষায়।"
+          },
+          {
+            "en": "At-Tabari records a difference over la'alla here. Some took it as a question: speak gently to him, then see whether he will remember and come back, or fear Allah and leave his tyranny; he gives this from Ibn 'Abbās (RA), through 'Alī ibn Abī Ṭalḥa: will he remember or fear? Others took la'alla as kay, so that: call him and counsel him so that he may remember, as a man says do your work, perhaps you will get your wage, meaning so that you get it. At-Tabari does not choose. Both, he says, has a good aspect and a sound approach.",
+            "bn": "এখানে লাআল্লা নিয়ে তাবারী একটি মতভেদ উল্লেখ করেন। কেউ একে প্রশ্ন ধরেছেন: তার সঙ্গে নরম কথা বলো, তারপর দেখো সে উপদেশ নিয়ে ফিরে আসে কি না, কিংবা আল্লাহকে ভয় করে তার সীমালঙ্ঘন থেকে থামে কি না। এ মত তিনি আনেন ইবন আব্বাস (রাঃ) থেকে, আলী ইবন আবী তালহার সূত্রে: সে কি উপদেশ নেবে, নাকি ভয় পাবে? অন্যরা লাআল্লাকে ধরেছেন 'কাই' অর্থে, অর্থাৎ যাতে। তাকে ডাকো, উপদেশ দাও, যাতে সে উপদেশ নেয়। যেমন কেউ বলে, কাজটা করো, হয়তো মজুরি পাবে, মানে যাতে মজুরি পাও। তাবারী কোনোটি বেছে নেন না। তাঁর মতে দুটি মতেরই সুন্দর দিক আছে, দুটোই সঠিক পথ।"
+          },
+          {
+            "en": "Two readings move the perhaps off Pharaoh. Al-Ḥusayn ibn al-Faḍl, in al-Baghawi, turns it to others: perhaps someone will take heed, and someone will fear, on seeing Allah's kindness to a creature He made and favoured who then claimed lordship. Al-Ḥasan, in al-Qurtubi, reads the words as Hārūn's to Mūsā (AS). Ibn Kathir carries a further gloss from al-Ḥasan: the brothers are not to ask for his ruin before the case has been fully made to him. Ma'arif al-Qur'an notes the instruction stood although Allah knew Pharaoh would never relent; it bound the prophets to a conduct that leads people to reflect.",
+            "bn": "আরও দুটি ব্যাখ্যা 'হয়তো'-কে ফেরাউন থেকে সরিয়ে নেয়। বাগাভীতে হুসাইন ইবনুল ফাদল একে অন্যদের দিকে ফেরান: যে আল্লাহর সৃষ্টি আর অনুগ্রহ পেয়েও রব হওয়ার দাবি করল, তার প্রতি আল্লাহর এত দয়া দেখে হয়তো কেউ উপদেশ নেবে, কেউ ভয় পাবে। কুরতুবীতে হাসান একে মূসা (আঃ)-কে বলা হারূন (আঃ)-এর কথা হিসেবে পড়েন। ইবন কাসীর হাসান থেকে আরেকটি ব্যাখ্যা আনেন: তার কাছে পুরো প্রমাণ পৌঁছানোর আগে দুই ভাই যেন তার ধ্বংস না চান। মাআরিফুল কুরআন বলে, আল্লাহ জানতেন ফেরাউন কখনো জেদ ছাড়বে না, তবু এ নির্দেশ দেওয়া হয়েছিল। উদ্দেশ্য ছিল নবীদের এমন আচরণে বেঁধে দেওয়া, যা মানুষকে ভাবতে শেখায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Remembering, Fearing, Too Late",
+          "bn": "উপদেশ, ভয়, আর দেরি"
+        },
+        "p": [
+          {
+            "en": "What are the two hoped-for outcomes? Ibn Kathir defines them as a pair: to remember is to turn back from what is dangerous, the misguidance and ruin he was in, and to fear is to bring about obedience out of fear of his Lord. As-Sa'di reads them the same way from the other side: he remembers what benefits him and does it, or fears what harms him and leaves it. Al-Baghawi joins them into one end: he takes the warning, fears, and so submits.",
+            "bn": "যে দুটি ফলের আশা করা হলো, সেগুলো কী? ইবন কাসীর জোড়া ধরে সংজ্ঞা দেন। উপদেশ নেওয়া মানে বিপদের পথ থেকে ফেরা, যে গোমরাহি আর ধ্বংসের মধ্যে সে ছিল তা থেকে। আর ভয় করা মানে রবের ভয়ে আনুগত্য গড়ে তোলা। সা'দী একই কথা বলেন আরেক দিক থেকে: যা তার উপকারে আসে, তা মনে করে সে করবে, আর যা তার ক্ষতি করে, তার ভয়ে সে তা ছাড়বে। বাগাভী দুটোকে এক লক্ষ্যে মেলান: সে উপদেশ নেবে, ভয় পাবে, আর তাই ইসলাম কবুল করবে।"
+          },
+          {
+            "en": "Abū Bakr al-Warrāq, reported by both al-Baghawi and al-Qurtubi, reads the perhaps another way: from Allah, la'alla is certain. Pharaoh did remember and did fear, but when remembering and fearing no longer helped him, as the sea closed over him and he said, in 10:90, I believe there is no god but the One in whom the Children of Israel believe, and I am of those who submit. In al-Qurtubi the view comes framed more widely, that la'alla and 'asā throughout the Qur'an refer to what came to pass. It stands beside the readings of hope as another view.",
+            "bn": "আবূ বকর আল-ওয়াররাক, যাঁর কথা বাগাভী ও কুরতুবী দুজনেই আনেন, 'হয়তো'-কে পড়েন অন্যভাবে: আল্লাহর দিক থেকে লাআল্লা নিশ্চিত। ফেরাউন উপদেশও নিয়েছিল, ভয়ও পেয়েছিল। কিন্তু তখন, যখন উপদেশ আর ভয় তার আর কোনো কাজে আসত না। সাগর তাকে গ্রাস করছিল, আর ১০:৯০ আয়াতে সে বলল: আমি ঈমান আনলাম, বানী ইসরাঈল যাঁর উপর ঈমান এনেছে তিনি ছাড়া আর কোনো ইলাহ নেই, আর আমি মুসলিমদের একজন। কুরতুবীতে মতটি আসে আরও বিস্তৃত রূপে: কুরআনে যত জায়গায় লাআল্লা আর 'আসা' শব্দ এসেছে, সবই এমন কিছুর কথা যা ঘটেছে। আশার ব্যাখ্যাগুলোর পাশে এটিও একটি মত।"
+          },
+          {
+            "en": "Al-Baghawi tells of a man who recited this verse in the presence of Yaḥyā ibn Mu'ādh. Yaḥyā wept and said: My God, this is Your gentleness with one who says I am God; how then is Your gentleness with one who says You are God? Al-Qurtubi carries the same words. Like Yazīd ar-Raqāshī's saying in Ibn Kathir, it reads the command to the messengers as a sign of the One who sent them. Gentleness was ordered towards the man who claimed divinity; the believer who affirms Allah's oneness may hope for more.",
+            "bn": "বাগাভী বর্ণনা করেন, এক ব্যক্তি ইয়াহইয়া ইবন মুআযের সামনে এ আয়াত পড়ল। ইয়াহইয়া কেঁদে ফেললেন, বললেন: হে আমার ইলাহ, যে বলে 'আমিই ইলাহ', তার প্রতি তোমার কোমলতা যদি এই হয়, তবে যে বলে 'তুমিই ইলাহ', তার প্রতি তোমার কোমলতা কেমন হবে? কুরতুবীও একই কথা আনেন। ইবন কাসীরে ইয়াযীদ আর-রাকাশীর উক্তির মতো এটিও রসূলদের প্রতি দেওয়া হুকুমকে প্রেরণকারীর পরিচয়ের নিদর্শন হিসেবে পড়ে। যে নিজেকে ইলাহ দাবি করেছিল, তার প্রতিই নরম হওয়ার হুকুম এসেছিল। তাহলে যে মুমিন আল্লাহর একত্ব মেনে নেয়, সে এর চেয়ে বেশির আশা রাখতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Warrant for a Harsh Tongue",
+          "bn": "কড়া জিভের কোনো ছাড়পত্র নেই"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi finds here a proof for commanding right and forbidding wrong, and that it is done with gentle speech towards one who holds power. Mūsā (AS) had been promised protection, fear not, I am with you, in 20:46, and still he was told to be gentle; how much more, then, do we need it. Whoever stands below Mūsā (AS), he says, is all the more bound to follow this in how he speaks, and he cites 2:83, speak good to people. Ma'arif al-Qur'an draws the same principle and turns it on scholars who treat criticising one another as a service to Islam.",
+            "bn": "কুরতুবী এখানে সৎকাজের আদেশ আর অসৎকাজে নিষেধের দলিল পান, আর এটাও পান যে ক্ষমতাধরের সামনে তা করতে হয় নরম কথায়। ২০:৪৬ আয়াতে মূসা (আঃ)-কে নিরাপত্তার কথা দেওয়া হয়েছিল: ভয় করো না, আমি তোমাদের সঙ্গে আছি। তবু তাঁকে নরম হতে বলা হলো। তাহলে আমাদের তো এর প্রয়োজন আরও বেশি। তাঁর কথায়, মূসা (আঃ)-এর চেয়ে যে নিচে, কথাবার্তায় এ আদর্শ মেনে চলার দায় তার আরও বেশি। সঙ্গে আনেন ২:৮৩: মানুষের সঙ্গে ভালো কথা বলো। মাআরিফুল কুরআনও একই নীতি টানে, আর তা ফেরায় সেই আলেমদের দিকে, যাঁরা একে অন্যের সমালোচনাকে ইসলামের খেদমত মনে করেন।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes one ruler of a past age, whom the Qur'an names and judges; it names no ruler, government or person living now, and licenses no one to brand anyone a Pharaoh. Nor does it license harshness: what it orders is gentleness, even towards him. Gentle is not silent, for 20:47 carries a plain demand. So before the hard conversation, with a parent, a child, a colleague, choose the word that leaves the other person able to listen. That much is ours; whether they remember or fear is Allah's.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি অতীত যুগের একজন শাসকের বর্ণনা দেয়, যার নাম কুরআন নিজে নিয়েছে আর যার বিচার কুরআন নিজে করেছে। আজকের কোনো শাসক, সরকার বা জীবিত মানুষের নাম এতে নেই। কাউকে ফেরাউন বলে দাগিয়ে দেওয়ার অনুমতিও এ আয়াত কাউকে দেয় না। রূঢ় হওয়ার অনুমতিও দেয় না, কারণ এর হুকুমই হলো নরম হওয়া, এমনকি ফেরাউনের সঙ্গেও। নরম মানে চুপ থাকা নয়, ২০:৪৭-এ স্পষ্ট দাবিও আছে। তাই মা-বাবা, সন্তান বা সহকর্মীর সঙ্গে কঠিন আলাপের আগে এমন কথা বাছুন, যাতে অন্যজন শুনতে পারে। এটুকু আমাদের কাজ। সে উপদেশ নেবে কি ভয় পাবে, তা আল্লাহর হাতে।"
+          }
+        ]
+      }
+    ]
+  },
   "20:47": {
     "sections": [
       {

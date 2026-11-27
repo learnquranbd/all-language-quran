@@ -34283,6 +34283,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Lack of evidence is rarely what keeps a heart from the truth; once you have seen enough, stop asking for more proof and yield to what you already know.",
     "lessonBn": "প্রমাণের অভাবে মন সত্য থেকে দূরে থাকে, এমন খুব কমই হয়। যথেষ্ট দেখে ফেলার পর আরও প্রমাণ চাওয়া থামান, আর যা জেনেছেন তার সামনে নত হোন।"
+  },
+  "20:44": {
+    "reflectionEn": "Allah has just named Pharaoh's crime: he has transgressed. The next words are not an order to rebuke him. Speak to him a gentle word, perhaps he will remember, or fear. Two prophets are sent to the worst tyrant of their age, and the first thing settled is their tone. No insult, no contempt, nothing that would give him an excuse to stop listening. The door is held open even for him. I am rarely sent to anyone like Pharaoh. I am sent to a child who tests me, a colleague who wrongs me, a relative who will not listen. If gentleness was owed to him, what excuse do I have for the harsh word I keep ready for them?",
+    "reflectionBn": "আল্লাহ এইমাত্র ফেরাউনের অপরাধের নাম বলেছেন: সে সীমা ছাড়িয়ে গেছে। পরের কথাটা কিন্তু তাকে ধমক দেওয়ার হুকুম নয়। বলা হলো, তার সঙ্গে নরম কথা বলো, হয়তো সে উপদেশ নেবে, কিংবা ভয় পাবে। যুগের সবচেয়ে বড় জালিমের কাছে দুজন নবী যাচ্ছেন, আর সবার আগে ঠিক করে দেওয়া হলো তাঁদের কথার সুর। গালি নয়, তুচ্ছতাচ্ছিল্য নয়, এমন কিছু নয় যার অজুহাতে সে কান বন্ধ করে দিতে পারে। তার জন্যও দরজা খোলা রাখা হলো। আমাকে তো ফেরাউনের মতো কারও কাছে পাঠানো হয় না। আমার সামনে থাকে জেদি সন্তান, অন্যায় করা সহকর্মী, কথা না শোনা আত্মীয়। ফেরাউনও যদি নরম কথার হকদার হয়, তাহলে তাদের জন্য যে কড়া কথাটা আমি তৈরি রাখি, তার পক্ষে আমার অজুহাত কী?",
+    "pointsEn": [
+      "Who is the person I find hardest to speak to gently, and what would a gentle first sentence to them actually sound like?",
+      "When I correct someone, do I choose words that help them listen, or words that let me feel I have won?",
+      "Do I ever treat being right as permission to be rough, as if the truth of my point excused the tone of it?",
+      "Is there someone I have quietly given up on, whom I no longer speak to as if they could still change?",
+      "Before I raise a hard matter this week, can I ask Allah first to soften my words and open their heart?"
+    ],
+    "pointsBn": [
+      "কার সঙ্গে নরম করে কথা বলা আমার কাছে সবচেয়ে কঠিন? তাকে বলা একটা নরম প্রথম বাক্য আসলে শুনতে কেমন হবে?",
+      "কাউকে শোধরাতে গিয়ে আমি কি এমন কথা বাছি যাতে সে শুনতে পারে, নাকি এমন কথা যাতে মনে হয় আমি জিতে গেছি?",
+      "আমি কি কখনো ঠিক থাকাকে রূঢ় হওয়ার ছাড়পত্র বানাই, যেন কথাটা সত্য বলেই কথার সুর যেমন খুশি হতে পারে?",
+      "এমন কেউ কি আছে যাকে নিয়ে মনে মনে আশা ছেড়ে দিয়েছি, যার সঙ্গে আর এমনভাবে কথা বলি না যেন সে এখনো বদলাতে পারে?",
+      "এ সপ্তাহে কোনো কঠিন প্রসঙ্গ তোলার আগে কি আল্লাহর কাছে চাইতে পারি, তিনি যেন আমার কথা নরম করে দেন আর তার মন খুলে দেন?"
+    ],
+    "lessonEn": "Truth does not license harshness. If Allah sent two prophets to speak gently to Pharaoh, speak gently to the people you are trying to reach, and never close the door of hope on them.",
+    "lessonBn": "সত্য কথা রূঢ়তার অনুমতি দেয় না। আল্লাহ যদি দুজন নবীকে ফেরাউনের সঙ্গেও নরম কথা বলতে পাঠান, তাহলে যাদের কাছে আপনি সত্য পৌঁছাতে চান তাদের সঙ্গে নরম করে বলুন, আর তাদের জন্য আশার দরজা কখনো বন্ধ করবেন না।"
   }
 };
 
