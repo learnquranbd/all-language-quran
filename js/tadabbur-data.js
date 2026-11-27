@@ -35655,6 +35655,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Denial repeated becomes a nature. Heed the warning while it is still only words, and seek your shelter in Allah, not in what merely looks like shade.",
     "lessonBn": "বারবার অস্বীকার করতে করতে তা স্বভাব হয়ে যায়। সতর্কবাণী যতক্ষণ কেবল কথা, ততক্ষণেই তা কানে নিন, আর আশ্রয় খুঁজুন আল্লাহর কাছে, শুধু ছায়ার মতো দেখায় এমন কিছুর কাছে নয়।"
+  },
+  "26:216": {
+    "reflectionEn": "Two commands come just before this one: warn your nearest kin, and lower your wing to the believers who follow you. Then comes the moment every caller meets sooner or later. Some will not listen. The answer given is short: say, I am free of what you do. It does not say walk away, and it does not say stop being gentle. The line it draws runs around what they do. And the very next verse turns the one who said it toward reliance on the Mighty, the Merciful. When someone I love holds on to what is wrong, can I say plainly that I am not with it, and still stay near enough to be heard?",
+    "reflectionBn": "এর ঠিক আগে দুটি আদেশ এসেছে। নিকটাত্মীয়দের সতর্ক করো, আর যে মুমিনরা তোমার অনুসরণ করে তাদের জন্য তোমার ডানা নামিয়ে দাও। তারপর আসে সেই মুহূর্ত, যার সামনে প্রত্যেক আহ্বানকারীকে একদিন দাঁড়াতে হয়। কেউ কেউ কথা শুনবে না। জবাবটা ছোট: বলে দাও, তোমরা যা করো তা থেকে আমি মুক্ত। এখানে চলে যেতে বলা হয়নি, কোমলতা ছেড়ে দিতেও বলা হয়নি। রেখাটা টানা হয়েছে তাদের কাজের চারপাশে। আর ঠিক পরের আয়াতেই যিনি এ কথা বললেন, তাঁকে ফিরিয়ে দেওয়া হয় মহাপরাক্রমশালী, পরম দয়ালুর উপর ভরসার দিকে। আমার প্রিয় কেউ যখন অন্যায় আঁকড়ে থাকে, আমি কি স্পষ্ট বলতে পারি যে আমি এর সঙ্গে নেই, আবার এতটা কাছেও থাকতে পারি যে সে আমার কথা শুনতে পায়?",
+    "pointsEn": [
+      "Is there someone close to me whose wrong I have quietly gone along with, because naming it felt like losing them?",
+      "When I last said 'I am not with this', did my tone also tell them I was leaving them?",
+      "In my own reactions, can I tell refusing a deed apart from rejecting a person?",
+      "After I have said the true thing to someone, do I hand the outcome to Allah, or keep carrying it as my own failure?",
+      "Whom have I shut out over a disagreement, when the harder and better work was to stay and keep advising?"
+    ],
+    "pointsBn": [
+      "কাছের এমন কেউ কি আছে, যার অন্যায়ে আমি চুপচাপ সায় দিয়ে গেছি, কারণ মুখে বললে তাকে হারানোর ভয় ছিল?",
+      "শেষবার যখন বলেছি 'আমি এর সঙ্গে নেই', আমার গলার সুর কি তাকে এটাও বুঝিয়েছে যে আমি তাকেই ছেড়ে যাচ্ছি?",
+      "নিজের প্রতিক্রিয়ায় আমি কি একটা কাজ প্রত্যাখ্যান করা আর একজন মানুষকে প্রত্যাখ্যান করার তফাত ধরতে পারি?",
+      "কাউকে সত্য কথাটা বলার পর আমি কি ফলাফল আল্লাহর হাতে ছেড়ে দিই, নাকি সেটাকে নিজের ব্যর্থতা ভেবে বয়ে বেড়াই?",
+      "মতের অমিল হয়েছে বলে কাকে আমি দূরে ঠেলে দিয়েছি, অথচ কঠিন কিন্তু ভালো কাজ ছিল কাছে থেকে নসিহত চালিয়ে যাওয়া?"
+    ],
+    "lessonEn": "When those you care for persist in wrong, say clearly that you are not with what they do, keep your gentleness, and leave the outcome to the Mighty, the Merciful.",
+    "lessonBn": "আপনার প্রিয়জন অন্যায়ে অটল থাকলে স্পষ্ট বলুন, তাদের কাজের সঙ্গে আপনি নেই। কোমলতা ধরে রাখুন, আর ফলাফল ছেড়ে দিন মহাপরাক্রমশালী, পরম দয়ালুর হাতে।"
   }
 };
 

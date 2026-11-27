@@ -10539,6 +10539,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:216": {
+    "sections": [
+      {
+        "h": {
+          "en": "Seven Words After Gentleness",
+          "bn": "কোমলতার পরে সাতটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Fa-in 'asawka fa-qul inni bari'un mimma ta'malun: then if they disobey you, say, I am free of what you do. The verse is seven Arabic words, and its opening fa ties it to what has just been said. In 26:214 the Prophet ﷺ is told to warn his nearest kin. In 26:215 he is told to lower his wing to the believers who follow him. This verse takes up the case that both commands leave open: what is he to say when the call is refused?",
+            "bn": "ফা-ইন আসাওকা ফাকুল ইন্নী বারীউম মিম্মা তা'মালূন: তারা যদি তোমার অবাধ্য হয়, তবে বলো, তোমরা যা করো তা থেকে আমি মুক্ত। আরবিতে আয়াতটি ৭টি শব্দের। শুরুর 'ফা' একে বেঁধে দেয় ঠিক আগের কথার সঙ্গে। ২৬:২১৪ আয়াতে নবী ﷺ-কে নিকটাত্মীয়দের সতর্ক করতে বলা হয়েছে। ২৬:২১৫ আয়াতে বলা হয়েছে, যে মুমিনরা তাঁর অনুসরণ করে, তাদের জন্য ডানা নামিয়ে দিতে। দুই আদেশের পর একটা প্রশ্ন খোলা থাকে। ডাক কেউ ফিরিয়ে দিলে তিনি কী বলবেন? এ আয়াত সেই প্রশ্নেরই জবাব।"
+          },
+          {
+            "en": "The word bari' carries the verse. It describes someone clear of a thing, free of it, bearing none of it. The sentence does not tell him to fall silent, to argue on, or to leave. It gives him words to say, and those words have an object: mimma ta'malun, of what you do. What he declares himself free of is named as a doing. And the verse after it turns him at once to reliance on the Mighty, the Merciful, so the declaration never stands alone.",
+            "bn": "আয়াতের ভার বহন করছে 'বারী' শব্দটি। এর মানে, কোনো কিছু থেকে যে পরিষ্কার, মুক্ত, যার গায়ে তার কিছুই লেগে নেই। চুপ হয়ে যেতে, তর্ক চালিয়ে যেতে বা সরে যেতে বাক্যটি বলছে না। বরং মুখে বলার মতো কিছু কথা তাঁকে দিচ্ছে, আর সে কথার একটা লক্ষ্য আছে: মিম্মা তা'মালূন, তোমরা যা করো তা থেকে। যা থেকে তিনি নিজেকে মুক্ত ঘোষণা করছেন, তাকে চিহ্নিত করা হয়েছে একটা কাজ হিসেবে। আর পরের আয়াতই সঙ্গে সঙ্গে তাঁকে মহাপরাক্রমশালী, পরম দয়ালুর উপর ভরসার দিকে ফিরিয়ে দেয়। ঘোষণাটা তাই কখনো একা দাঁড়িয়ে থাকে না।"
+          },
+          {
+            "en": "The run of commands begins a verse earlier. In 26:213 the Prophet ﷺ is told not to invoke another god with Allah, or he would be among the punished. Ibn Kathir reads it as a command to worship Him alone, with no partner, and a warning that whoever associates others with Him, He will punish. Then come the kin, then the believers who follow, then this verse, then reliance. Each step answers what came before it, and this verse is where the call meets refusal.",
+            "bn": "আদেশের এ ধারা শুরু হয় এক আয়াত আগে। ২৬:২১৩ আয়াতে নবী ﷺ-কে বলা হয়েছে, আল্লাহর সঙ্গে অন্য কোনো ইলাহকে ডেকো না, ডাকলে শাস্তিপ্রাপ্তদের দলে পড়ে যাবে। ইবন কাসীর একে পড়েন শরিকহীনভাবে শুধু তাঁরই ইবাদতের আদেশ হিসেবে, সঙ্গে এই সতর্কবাণী যে, যে তাঁর সঙ্গে শরিক করে, তিনি তাকে শাস্তি দেবেন। তারপর আসে আত্মীয়দের কথা, তারপর অনুসারী মুমিনদের কথা, তারপর এ আয়াত, তারপর ভরসা। প্রতিটি ধাপ আগেরটির জবাব দেয়। আর এই আয়াতে এসে ডাক মুখোমুখি হয় প্রত্যাখ্যানের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Ones Turned Away?",
+          "bn": "মুখ ফিরিয়েছিল কারা?"
+        },
+        "p": [
+          {
+            "en": "The verb 'asawka names no subject, and the commentators supply it differently. At-Tabari reads it straight from 26:214. Those who disobey are your nearest kin, O Muhammad, the ones you were commanded to warn, who refused anything but to keep to the worship of idols and to associating partners with the Most Merciful. To them he is to say: I am free of what you do. On this reading the verse closes the scene that 26:214 opened, and it speaks of family who heard the warning and turned from it.",
+            "bn": "'আসাওকা' ক্রিয়ার কর্তা আয়াতে উল্লেখ নেই। তাফসীরকারেরা সেই ফাঁক ভরেন ভিন্ন ভিন্নভাবে। তাবারী সরাসরি ২৬:২১৪ থেকে পড়েন। তাঁর মতে অবাধ্য হয়েছিল নবী ﷺ-এর নিকটাত্মীয়রা, যাদের সতর্ক করার আদেশ তিনি পেয়েছিলেন। মূর্তিপূজা আর দয়াময়ের সঙ্গে শরিক করা ছাড়া অন্য কিছু তারা মানতে রাজি হয়নি। তাদেরকেই তিনি বলবেন: তোমরা যা করো তা থেকে আমি মুক্ত। এ পাঠে আয়াতটি ২৬:২১৪ আয়াতে শুরু হওয়া দৃশ্যের ইতি টানে। কথা হচ্ছে সেই পরিবারের, যারা সতর্কবাণী শুনেও মুখ ফিরিয়ে নিয়েছিল।"
+          },
+          {
+            "en": "Others leave the subject open. The Muyassar glosses the verb as opposing your command and not following you, and al-Qurtubi gives the same gloss: they went against your command. Al-Baghawi names only what is disowned, disbelief and the worship of other than Allah, which points to those who rejected the call outright. Ibn Kathir takes it widest. Whoever of Allah's creation disobeys the Prophet ﷺ, whoever that may be, he is to disown; and that, Ibn Kathir adds, is why Allah said: then if they disobey you.",
+            "bn": "অন্যরা কর্তাকে খোলা রাখেন। মুয়াসসার ক্রিয়াটির ব্যাখ্যা দেয় এভাবে: তারা তোমার আদেশের বিরোধিতা করল, তোমার অনুসরণ করল না। কুরতুবীর ব্যাখ্যাও একই: তারা তোমার আদেশের বিপরীতে গেল। বাগাভী শুধু বলেন কী থেকে মুক্ত থাকতে হবে: কুফর আর আল্লাহ ছাড়া অন্যের ইবাদত। এতে ইঙ্গিত মেলে তাদের দিকে, যারা ডাককে পুরোপুরি প্রত্যাখ্যান করেছিল। সবচেয়ে বিস্তৃত অর্থ নেন ইবন কাসীর। আল্লাহর সৃষ্টির মধ্যে যে-ই নবী ﷺ-এর অবাধ্য হোক, সে যে-ই হোক, তার থেকে তিনি সম্পর্কমুক্ত থাকবেন। ইবন কাসীর যোগ করেন, এ কারণেই আল্লাহ বলেছেন: তারা যদি তোমার অবাধ্য হয়।"
+          },
+          {
+            "en": "As-Sa'di looks the other way, back to 26:215. He takes the disobedience as being in any matter at all, and he explains the verse as guarding against a mistaken thought: that the command to lower the wing to the believers might be read as approval of everything they do, so long as they remain believers. On his reading the verse speaks to the believers themselves as well. So the sides are three: the kin who refused, anyone at all who disobeys, and believers who slip.",
+            "bn": "সা'দী তাকান উল্টো দিকে, ২৬:২১৫ আয়াতের দিকে। তাঁর মতে অবাধ্যতা যেকোনো বিষয়ে হতে পারে। তিনি ব্যাখ্যা করেন, আয়াতটি একটা ভুল ধারণা ঠেকানোর জন্য এসেছে। কেউ ভাবতে পারত, মুমিনদের জন্য ডানা নামিয়ে দেওয়ার আদেশের মানে তারা যা-ই করুক সবকিছুতে খুশি থাকা, যতক্ষণ তারা মুমিন থাকে। তাঁর পাঠে আয়াতটি তাই মুমিনদের কথাও বলে। পক্ষ তাহলে তিনটি: প্রত্যাখ্যানকারী আত্মীয়রা, যে-ই অবাধ্য হোক সে, আর পা ফসকে যাওয়া মুমিনরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Free of What, Exactly?",
+          "bn": "মুক্ত, কিন্তু কী থেকে?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari spells out the object of mimma ta'malun: the worship of idols, and disobedience to bari' al-anam, the Maker of all people. In Arabic, bari', free, and bari', Maker, are built from the same three letters, b-r-'. The Muyassar puts it as their deeds, and the associating of partners and the straying they are set on. Al-Baghawi names disbelief and the worship of other than Allah. Each of them answers the question the verse raises, free of what, with something done or held to.",
+            "bn": "মিম্মা তা'মালূন, তোমরা যা করো, তার ব্যাখ্যা তাবারী খুলে বলেন: মূর্তিপূজা, আর বারিউল আনামের নাফরমানি, অর্থাৎ সব মানুষের স্রষ্টার অবাধ্যতা। আরবিতে 'বারী' (মুক্ত) আর 'বারি' (স্রষ্টা) দুটো শব্দই একই ৩টি অক্ষর ব-র-আ থেকে তৈরি। মুয়াসসার বলে, তাদের কাজকর্ম, আর যে শিরক ও গোমরাহিতে তারা অটল। বাগাভী উল্লেখ করেন কুফর আর আল্লাহ ছাড়া অন্যের ইবাদত। আয়াত যে প্রশ্ন তোলে, মুক্ত কিন্তু কী থেকে, তার জবাবে প্রত্যেকে দেখান এমন কিছু, যা করা হয় বা যা আঁকড়ে ধরে থাকা হয়।"
+          },
+          {
+            "en": "Al-Qurtubi adds why the words weigh so much. He glosses the verse as: I am free of your disobedience to me. Then he gives the reason. Their disobeying him is disobedience to Allah, Mighty and Majestic, because the Prophet ﷺ commands nothing except what Allah is pleased with. The refusal, then, was never a private quarrel between a man and his relatives. Ibn Kathir's wording sets the object differently, and the next section takes that up beside as-Sa'di's.",
+            "bn": "কথাগুলোর ওজন এত বেশি কেন, কুরতুবী তা যোগ করেন। তাঁর ব্যাখ্যায় আয়াতের মানে: আমার প্রতি তোমাদের অবাধ্যতা থেকে আমি মুক্ত। তারপর কারণটা বলেন। নবী ﷺ-এর অবাধ্য হওয়া মানে মহান আল্লাহর অবাধ্য হওয়া, কারণ আল্লাহ যাতে সন্তুষ্ট, তা ছাড়া অন্য কিছুর আদেশ নবী ﷺ দেন না। প্রত্যাখ্যানটা তাই কখনোই একজন মানুষ আর তাঁর আত্মীয়দের ব্যক্তিগত ঝগড়া ছিল না। ইবন কাসীরের ভাষায় লক্ষ্যটা অন্যভাবে আসে। পরের অংশে সেটা সা'দীর কথার পাশে রেখে দেখা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Person or the Deed",
+          "bn": "মানুষটি, নাকি তার কাজ"
+        },
+        "p": [
+          {
+            "en": "Here the commentators genuinely part. Ibn Kathir reads 26:214 to 26:216 as one charge. The Prophet ﷺ was commanded to warn his nearest kin, to soften his side for the believing servants of Allah who followed him, and, whoever of Allah's creation disobeyed him, whoever they were, fa-l-yatabarra' minhu: let him disown that one. In Ibn Kathir's wording the disowning falls on the one who disobeys. Warn the near, be gentle with those who follow, and stand clear of those who refuse.",
+            "bn": "এখানে তাফসীরকারদের পথ সত্যিই আলাদা হয়ে যায়। ইবন কাসীর ২৬:২১৪ থেকে ২৬:২১৬ পর্যন্ত আয়াতগুলোকে একটাই দায়িত্ব হিসেবে পড়েন। নবী ﷺ-কে আদেশ দেওয়া হয়েছিল নিকটাত্মীয়দের সতর্ক করতে, আল্লাহর যে মুমিন বান্দারা তাঁর অনুসরণ করে তাদের প্রতি কোমল হতে। আর আল্লাহর সৃষ্টির মধ্যে যে-ই তাঁর অবাধ্য হোক, সে যে-ই হোক, ফাল-ইয়াতাবাররা মিনহু: তার থেকে তিনি যেন সম্পর্কমুক্ত হন। ইবন কাসীরের ভাষায় সম্পর্কমুক্তির লক্ষ্য অবাধ্য মানুষটি নিজে। কাছের লোকদের সতর্ক করো, অনুসারীদের প্রতি কোমল হও, আর যারা প্রত্যাখ্যান করে তাদের থেকে আলাদা থাকো।"
+          },
+          {
+            "en": "As-Sa'di says nearly the reverse, in so many words. If they disobey you in some matter, do not disown them, and do not stop treating them with the lowered wing and the gentle side. Disown their deed instead. Admonish them over it, counsel them, and spend what you can in turning them back from it and in their repenting of it. For him the verse sets a limit on 26:215 rather than stepping away from it: the gentleness stays, and the approval does not.",
+            "bn": "সা'দী প্রায় উল্টো কথাটা বলেন, একেবারে স্পষ্ট ভাষায়। কোনো বিষয়ে তারা তোমার অবাধ্য হলে তাদের থেকে সম্পর্কমুক্ত হয়ো না। নামানো ডানা আর নরম আচরণ দিয়ে তাদের সঙ্গে চলাফেরাও বন্ধ কোরো না। বরং তাদের কাজ থেকে মুক্ত হও। সে কাজের জন্য তাদের উপদেশ দাও, নসিহত করো। সেখান থেকে তাদের ফিরিয়ে আনতে আর তওবার পথে আনতে নিজের সাধ্যমতো চেষ্টা ঢেলে দাও। তাঁর মতে আয়াতটি ২৬:২১৫ থেকে সরে আসে না, বরং তার একটা সীমা টেনে দেয়। কোমলতা থাকবে, কিন্তু সায় থাকবে না।"
+          },
+          {
+            "en": "The two are not quite reading the same 'they'. Ibn Kathir has in view anyone who disobeys, near or far; as-Sa'di is guarding the gentleness owed to believers. Both quote the same seven words. Whether the disowning reaches the person or stops at the deed, these two commentators answer differently, and the difference is kept here as a difference. This article does not decide between them.",
+            "bn": "দুজন অবশ্য ঠিক একই 'তারা'-কে পড়ছেন না। ইবন কাসীরের চোখে আছে যে-ই অবাধ্য হয়, কাছের হোক বা দূরের। সা'দী রক্ষা করছেন মুমিনদের প্রাপ্য কোমলতা। দুজনই উদ্ধৃত করেন একই সাতটি শব্দ। সম্পর্কমুক্তি মানুষটি পর্যন্ত পৌঁছায়, নাকি কাজেই থেমে যায়, এ প্রশ্নে দুই তাফসীরকারের জবাব আলাদা। মতভেদটা এখানে মতভেদ হিসেবেই রাখা হলো। কোনটি ঠিক, এ লেখা তার মীমাংসা করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Echo From Surah Yunus",
+          "bn": "সূরা ইউনুসে একই সুর"
+        },
+        "p": [
+          {
+            "en": "The phrase is not new to this verse. In 10:41 the Prophet ﷺ is told: if they deny you, say, for me are my deeds and for you are your deeds; you are free of what I do, and I am free of what you do. Its last clause, wa-ana bari'un mimma ta'malun, matches the closing words here. There the freedom runs both ways, and each side carries its own deeds. In 6:19 the same word is turned on belief itself: indeed, I am free of what you associate with Him.",
+            "bn": "এ কথাটি শুধু এই আয়াতেই আসেনি। ১০:৪১ আয়াতে নবী ﷺ-কে বলা হয়েছে: তারা যদি তোমাকে মিথ্যাবাদী বলে, তবে বলো, আমার কাজ আমার, তোমাদের কাজ তোমাদের। আমি যা করি তা থেকে তোমরা মুক্ত, আর তোমরা যা করো তা থেকে আমি মুক্ত। শেষ বাক্যাংশ, ওয়া আনা বারীউম মিম্মা তা'মালূন, হুবহু মিলে যায় এখানকার শেষ শব্দগুলোর সঙ্গে। সেখানে মুক্তি দুই দিকেই, প্রত্যেক পক্ষ বইবে নিজের কাজের ভার। ৬:১৯ আয়াতে একই শব্দ সরাসরি আকিদার দিকে ফেরে: তোমরা যাকে তাঁর শরিক করো, তা থেকে আমি অবশ্যই মুক্ত।"
+          },
+          {
+            "en": "Read side by side, these passages show what the declaration does. It is not a curse and it is not a threat. It states where responsibility now lies. The caller has delivered the warning, and what the hearers do with it is theirs to carry. That lifts from him a weight he was never meant to hold, the weight of other people's choices, while the warning itself stays where he left it: said, heard, and still open to anyone who turns back.",
+            "bn": "পাশাপাশি পড়লে বোঝা যায়, ঘোষণাটা আসলে কী কাজ করে। এটা অভিশাপ নয়, হুমকিও নয়। এটা জানিয়ে দেয়, দায় এখন কার কাঁধে। আহ্বানকারী সতর্কবাণী পৌঁছে দিয়েছেন। শ্রোতারা তা নিয়ে কী করবে, সে ভার এখন তাদের। এতে তাঁর কাঁধ থেকে নেমে যায় এমন এক বোঝা, যা বহন করার কথা তাঁর কখনো ছিল না: অন্যের বেছে নেওয়া পথের বোঝা। সতর্কবাণী কিন্তু যেখানে ছিল সেখানেই থাকে। বলা হয়ে গেছে, শোনা হয়ে গেছে, আর যে ফিরে আসতে চায় তার জন্য পথ এখনো খোলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Handed to the Mighty",
+          "bn": "মহাপরাক্রমশালীর হাতে সঁপে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "The verse does not close the passage. Wa-tawakkal 'ala l-'aziz ar-rahim follows at once in 26:217: and rely on the Mighty, the Merciful. Ibn Kathir, on that verse, explains it as reliance in all your affairs, for it is He who supports you, helps you, guards you, grants you the victory and raises your word high. The order matters. The Prophet ﷺ has warned his kin, been gentle with those who followed, and spoken his freedom from what the rest did. What remains is not his to manage.",
+            "bn": "আয়াতটি এখানেই পর্ব শেষ করে না। সঙ্গে সঙ্গে ২৬:২১৭ আয়াতে আসে: ওয়া তাওয়াক্কাল আলাল আযীযির রহীম, আর ভরসা করো মহাপরাক্রমশালী, পরম দয়ালুর উপর। ইবন কাসীর সে আয়াতের ব্যাখ্যায় বলেন, তোমার সব বিষয়ে তাঁর উপর ভরসা করো। তিনিই তোমাকে শক্তি দেন, সাহায্য করেন, হেফাজত করেন, বিজয় দেন, আর তোমার কথাকে উঁচু করেন। ক্রমটা লক্ষ করার মতো। নবী ﷺ আত্মীয়দের সতর্ক করেছেন, অনুসারীদের প্রতি কোমল থেকেছেন, আর বাকিদের কাজ থেকে নিজের মুক্তির কথা মুখে বলেছেন। এরপর যা বাকি, তা সামলানোর দায় তাঁর নয়।"
+          },
+          {
+            "en": "Then 26:218 and 26:219 describe Him on whom he relies as seeing him when he stands and his movement among those who prostrate; the article on 26:219 takes that up. Here it is enough to notice the two names set side by side. Al-'Aziz, the Mighty, answers the fear that refusal by your own people leaves you exposed. Ar-Rahim, the Merciful, answers the grief of being refused by the people you love. Whoever has said I am free of what you do is not left alone with the words.",
+            "bn": "এরপর ২৬:২১৮ ও ২৬:২১৯ আয়াত বলে, যাঁর উপর ভরসা, তিনি তাঁকে দেখেন যখন তিনি দাঁড়ান, আর দেখেন সিজদাকারীদের মাঝে তাঁর চলাফেরা। ২৬:২১৯ আয়াতের লেখায় সে আলোচনা আছে। এখানে শুধু পাশাপাশি রাখা দুটি নাম খেয়াল করাই যথেষ্ট। আল-আযীয, মহাপরাক্রমশালী: নিজের লোকেরা মুখ ফিরিয়ে নিলে অরক্ষিত হয়ে পড়ার যে ভয়, এ নাম তার জবাব। আর-রহীম, পরম দয়ালু: প্রিয় মানুষদের প্রত্যাখ্যানের যে কষ্ট, এ নাম তার জবাব। যে বলেছে 'তোমরা যা করো তা থেকে আমি মুক্ত', তাকে সেই কথার সঙ্গে একা ফেলে রাখা হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kinship Outlasts Refusal",
+          "bn": "প্রত্যাখ্যানের পরেও আত্মীয়তা"
+        },
+        "p": [
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith to it; the narrations Ibn Kathir gathers here belong to 26:214 and are told in that article, including the promise to keep the tie of kinship moist. A general narration, not attached to this verse, shows the same shape. Al-Bukhari (5990) reports that 'Amr ibn al-'As (RA) heard the Prophet ﷺ say openly, not in secret: the family of Abu so-and-so are not my allies; my ally is only Allah and the righteous believers. A narrator notes that the name was blank in his written copy.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। ইবন কাসীর এখানে যেসব বর্ণনা একত্র করেছেন, সেগুলো ২৬:২১৪ আয়াতের, আর সে আয়াতের লেখায় সেগুলো বলা হয়েছে, আত্মীয়তার বন্ধন সজীব রাখার প্রতিশ্রুতিসহ। একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, একই ছবি দেখায়। বুখারী (৫৯৯০) বর্ণনা করেন, আমর ইবনুল আস (রাঃ) নবী ﷺ-কে গোপনে নয়, প্রকাশ্যে বলতে শুনেছেন: অমুকের পিতার পরিবার আমার অভিভাবক-বন্ধু নয়, আমার অভিভাবক কেবল আল্লাহ আর নেককার মুমিনরা। এক বর্ণনাকারী জানান, তাঁর লিখিত কপিতে নামের জায়গাটা ফাঁকা ছিল।"
+          },
+          {
+            "en": "Through another chain al-Bukhari adds the Prophet's words: but they have a tie of kinship, which I keep moist with its moisture. The report glosses it: I keep it joined as it should be joined. Allegiance in faith is refused; the tie of kinship is kept. The Qur'an draws the same line for parents in 31:15: if they strive to make you associate with Me that of which you have no knowledge, do not obey them, but keep company with them in this world with kindness.",
+            "bn": "আরেকটি সূত্রে বুখারী নবী ﷺ-এর এ কথাও যোগ করেন: তবে তাদের সঙ্গে আমার আত্মীয়তার বন্ধন আছে, আমি তা তার প্রাপ্য সজীবতায় ভিজিয়ে রাখি। বর্ণনাটিই এর ব্যাখ্যা দেয়: যেভাবে জুড়ে রাখার কথা, আমি সেভাবেই তা জুড়ে রাখি। ঈমানের অভিভাবকত্ব অস্বীকার করা হলো, কিন্তু আত্মীয়তার বন্ধন টিকে রইল। পিতামাতার বেলায় কুরআন একই রেখা টানে ৩১:১৫ আয়াতে: তারা যদি তোমাকে পীড়াপীড়ি করে আমার সঙ্গে এমন কিছুকে শরিক করতে, যার জ্ঞান তোমার নেই, তবে তাদের কথা মানবে না, কিন্তু দুনিয়াতে তাদের সঙ্গে সদ্ভাবে থাকবে।"
+          },
+          {
+            "en": "So this needs saying plainly. The verse gives the Prophet ﷺ words to say about what his hearers did. It describes what the text describes and licenses nothing against any living person or community: no cutting of family ties, no shunning, no harm to anyone's body, property or good name, whether kin or stranger, believer or not. As-Sa'di keeps the gentleness in so many words, and nothing in Ibn Kathir's words here speaks of harming anyone.",
+            "bn": "তাই কথাটা সোজাসুজি বলা দরকার। নবী ﷺ-এর শ্রোতারা যা করেছিল, তা নিয়ে কী বলতে হবে, আয়াতটি তাঁকে সেই কথাগুলো দেয়। পাঠ যা বর্ণনা করে, আয়াত শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। আত্মীয়তা ছিন্ন করার অনুমতি নেই, কাউকে একঘরে করার অনুমতি নেই, কারও শরীর, সম্পদ বা সম্মানের ক্ষতি করার অনুমতিও নেই। সে আত্মীয় হোক বা অচেনা, মুমিন হোক বা না হোক। সা'দী কোমলতা বজায় রাখার কথা স্পষ্ট ভাষায় বলেন, আর এখানে ইবন কাসীরের কথাতেও কারও ক্ষতি করার কোনো উল্লেখ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Saying It and Staying",
+          "bn": "কথাটা বলা, পাশে থাকা"
+        },
+        "p": [
+          {
+            "en": "For a reader today the verse sits where many people live: a parent, a sibling or a friend holding on to something wrong. Two failures lie on either side. One is to say nothing, so that silence passes for agreement. The other is to turn the disagreement into a reason to leave. The verse speaks to the first: plain words about what is done, said after the warning and after the gentleness, not in place of them. As-Sa'di's reading speaks to the second.",
+            "bn": "আজকের পাঠকের জন্য আয়াতটি এমন জায়গায় দাঁড়ায়, যেখানে অনেক মানুষ বাস করে। মা-বাবা, ভাই-বোন বা কোনো বন্ধু অন্যায় কিছু আঁকড়ে আছে। দুই দিকে দুটি ভুলের ফাঁদ। একটা হলো কিছুই না বলা, যাতে নীরবতাকে সম্মতি বলে মনে হয়। আরেকটা হলো মতের অমিলকে ছেড়ে যাওয়ার অজুহাত বানানো। প্রথমটির জবাব আয়াত নিজেই দেয়: যা করা হচ্ছে, তা নিয়ে সোজা কথা। সে কথা আসে সতর্কবাণীর পরে, কোমলতার পরে, সেগুলোর জায়গা দখল করে নয়। দ্বিতীয়টির জবাব মেলে সা'দীর পাঠে।"
+          },
+          {
+            "en": "Then comes the handing over. Having spoken, the believer is not asked to win the argument, or to keep a ledger of who has not yet changed. The outcome rests with the Mighty, the Merciful, who sees whoever stands in prayer. What is asked is honesty about the wrong, gentleness toward the person who may still hear it, and trust for everything beyond our own reach. The words are short because the rest is not ours to say.",
+            "bn": "তারপর আসে সঁপে দেওয়ার পালা। কথা বলে ফেলার পর মুমিনের কাছে তর্কে জেতার দাবি নেই। কে এখনো বদলায়নি, তার হিসাবের খাতা রাখারও দাবি নেই। ফলাফল মহাপরাক্রমশালী, পরম দয়ালুর হাতে, যিনি নামাযে দাঁড়ানো বান্দাকে দেখেন। চাওয়া হয়েছে তিনটি জিনিস: অন্যায়ের ব্যাপারে সততা, যে মানুষটি হয়তো এখনো শুনতে পারে তার প্রতি কোমলতা, আর নিজের নাগালের বাইরের সবকিছুর জন্য ভরসা। কথাগুলো ছোট, কারণ বাকিটা বলার দায় আমাদের নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "26:219": {
     "sections": [
       {
