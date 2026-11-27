@@ -839,6 +839,22 @@ Object.assign(TADABBUR_ARTICLES, {
       },
       {
         "h": {
+          "en": "Heart, Tongue, Then Time",
+          "bn": "মন, জিহ্বা, তারপর সময়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, in the abridged English of his comment on 24:16 to 24:18, heads the passage Further Discipline. It comes, he says, in addition to the command to think well of people: if something unbefitting is mentioned about good people, the believer should think well of them and feel towards them nothing but good. On glory be to You in 24:16 he adds, glory be to Allah that such a thing should be said about the wife of His Prophet and close Friend. Then comes this verse, which he reads as Allah forbidding and warning you against doing anything like this again.",
+            "bn": "ইবন কাসীরের তাফসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে ২৪:১৬ থেকে ২৪:১৮ আয়াতের আলোচনার শিরোনাম: আরও শিষ্টাচার। তিনি বলেন, মানুষ সম্পর্কে ভালো ধারণা রাখার আদেশের পর এ হলো বাড়তি শিক্ষা। ভালো মানুষদের ব্যাপারে অনুচিত কিছু বলা হলে তাদের সম্পর্কে ভালো ধারণাই রাখতে হবে, মনে তাদের প্রতি ভালো ছাড়া আর কিছু রাখা যাবে না। ২৪:১৬ আয়াতের সুবহানাকা কথাটির ব্যাখ্যায় তিনি যোগ করেন: আল্লাহ পবিত্র, তাঁর নবী ও অন্তরঙ্গ বন্ধুর স্ত্রী সম্পর্কে এমন কথা বলা হবে, তা থেকে। তারপর আসে এই আয়াত। তাঁর পাঠে, আল্লাহ তোমাদের নিষেধ করছেন এবং সতর্ক করছেন, যেন এমন কিছু আর কখনো না করো।"
+          },
+          {
+            "en": "Read in that order, the verses teach in steps. First the heart: think well (24:12). Then the tongue: it is not for us to speak of this (24:16). Then time itself: never return to the like of it. Al-Qurtubi's opening words on the verse point the same way. Allah admonished them, he says, about returning to the like of this hala, this state. The word is wider than a single sentence; it names the condition the listeners had fallen into. The Muyassar closes the condition briefly: if you are believers in Him.",
+            "bn": "এই ক্রমে পড়লে আয়াতগুলো ধাপে ধাপে শেখায়। প্রথমে মন: ভালো ধারণা করো (২৪:১২)। তারপর জিহ্বা: এ নিয়ে কথা বলা আমাদের কাজ নয় (২৪:১৬)। তারপর সময় নিজেই: এর মতো কিছুতে আর কখনো ফিরে যেয়ো না। আয়াতটি নিয়ে কুরতুবীর প্রথম কথাও একই দিকে ইঙ্গিত করে। তিনি বলেন, আল্লাহ তাদের উপদেশ দিলেন এমন হালে, অর্থাৎ এমন অবস্থায় আর ফিরে না যেতে। শব্দটা একটা বাক্যের চেয়ে বড়। শ্রোতারা যে অবস্থায় পড়ে গিয়েছিল, সেটারই নাম এটা। মুয়াসসার শর্তটা শেষ করে অল্প কথায়: যদি তোমরা তাঁর উপর ঈমান রাখো।"
+          }
+        ]
+      },
+      {
+        "h": {
           "en": "Before a Thought Becomes Speech",
           "bn": "ভাবনা কথা হয়ে ওঠার আগে"
         },
@@ -852,8 +868,8 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "বুখারী বর্ণনাটি তাঁর সহীহ গ্রন্থে এনেছেন, আর ইবন কাসীর উল্লেখ করেন যে এটি দুই সহীহতেই আছে। বর্ণনাটি সাধারণ, এই আয়াতের সঙ্গে বাঁধা নয়। তবু আয়াতটি যে রেখার উপর দাঁড়িয়ে, সেটা এ হাদীস টেনে দেয়। মনে আসা ভাবনা এখনো কাজ নয়। কাজ শুরু হয় যখন ভাবনাটা মুখে আসে, কিংবা তার উপর আমল হয়। তাই এর মতো কিছুতে ফিরে যাওয়া শুরু হয় না মনে উঁকি দেওয়া কোনো সন্দেহ দিয়ে। শুরু হয় ঠিক তখন, যখন সেই সন্দেহকে জিহ্বায় উঠতে দেওয়া হয়।"
           },
           {
-            "en": "Ma'arif al-Qur'an, in its comment on the same group, explains why the slanderers' words could be called a lie without further proof. It is the integral spirit of Islam, it says, to consider every Muslim free from sin; anything contrary to this, put forward without proof, is a lie, and no further proof is needed to call it one. A believer's name begins clean, and the burden lies on the tongue that would stain it.",
-            "bn": "মাআরিফুল কুরআন একই দলের আলোচনায় ব্যাখ্যা করে, কেন অপবাদকারীদের কথাকে বাড়তি কোনো প্রমাণ ছাড়াই মিথ্যা বলা যায়। তার ভাষায়, প্রত্যেক মুসলিমকে গুনাহ থেকে মুক্ত ধরে নেওয়াই ইসলামের মূল চেতনা। প্রমাণ ছাড়া এর বিপরীত কিছু হাজির করা হলে সেটা মিথ্যা, আর একে মিথ্যা বলতে আর কোনো প্রমাণ লাগে না। মুমিনের নাম শুরু হয় নির্মল অবস্থায়, আর দায়টা বর্তায় সেই জিহ্বার উপর, যা তাতে দাগ লাগাতে চায়।"
+            "en": "Ma'arif al-Qur'an, in its comment on the same group, explains why the slanderers' words could be called a lie without further proof. It first states the doubt: if a report cannot be verified as true without proof, why may it be called a lie without proof? It is the integral spirit of Islam, it says, to consider every Muslim free from sin; anything contrary to this, put forward without proof, is a lie, and no further proof is needed to call it one. A believer's name begins clean, and the burden lies on the tongue that would stain it.",
+            "bn": "মাআরিফুল কুরআন একই দলের আলোচনায় ব্যাখ্যা করে, কেন অপবাদকারীদের কথাকে বাড়তি কোনো প্রমাণ ছাড়াই মিথ্যা বলা যায়। প্রথমে সে সংশয়টা তোলে: প্রমাণ ছাড়া যদি কোনো খবরকে সত্য বলে যাচাই করা না যায়, তবে প্রমাণ ছাড়া তাকে মিথ্যা বলা যাবে কেন? জবাবে তার ভাষায়, প্রত্যেক মুসলিমকে গুনাহ থেকে মুক্ত ধরে নেওয়াই ইসলামের মূল চেতনা। প্রমাণ ছাড়া এর বিপরীত কিছু হাজির করা হলে সেটা মিথ্যা, আর একে মিথ্যা বলতে আর কোনো প্রমাণ লাগে না। মুমিনের নাম শুরু হয় নির্মল অবস্থায়, আর দায়টা বর্তায় সেই জিহ্বার উপর, যা তাতে দাগ লাগাতে চায়।"
           }
         ]
       },
