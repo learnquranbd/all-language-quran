@@ -2979,6 +2979,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "25:61": {
+    "sections": [
+      {
+        "h": {
+          "en": "Blessing Named a Third Time",
+          "bn": "তৃতীয়বার তাবারাকা"
+        },
+        "p": [
+          {
+            "en": "Tabaraka alladhi ja'ala fi al-sama'i burujan: blessed is He who placed buruj in the sky, and placed in it a lamp and a moon giving light. The verse comes straight after a refusal. In 25:60 the deniers, told to prostrate to the Most Merciful, ask what the Most Merciful is, and the command only adds to their aversion. The next words give no definition. They point upward, to the sky, its lamp and its moon, and name Him who placed them with a word of praise.",
+            "bn": "তাবারাকাল্লাযী জা'আলা ফিস সামা-ই বুরূজা: কত বরকতময় তিনি, যিনি আকাশে বুরূজ স্থাপন করেছেন, আর তাতে রেখেছেন এক প্রদীপ ও আলো ছড়ানো চাঁদ। আয়াতটি আসে এক প্রত্যাখ্যানের ঠিক পরে। ২৫:৬০ আয়াতে অস্বীকারকারীদের বলা হয় রহমানকে সিজদা করতে। তারা উল্টো প্রশ্ন করে, রহমান আবার কী? আদেশটা শুধু তাদের বিমুখতাই বাড়ায়। পরের কথাগুলো কোনো সংজ্ঞা দেয় না। ইশারা করে উপরের দিকে, আকাশ, তার প্রদীপ আর তার চাঁদের দিকে। আর যিনি এগুলো বসিয়েছেন, প্রশংসার এক শব্দে তাঁর নাম নেয়।"
+          },
+          {
+            "en": "As-Sa'di notes that the surah says tabaraka three times; the word opens 25:1, 25:10 and this verse. Its meaning, he explains, points to the greatness of the Creator, the abundance of His attributes, and the abundance of His good and His kindness. The surah, he says, is full of proofs of His greatness, the reach of His authority, the force of His will and the scope of His knowledge and power, and of His wide mercy and His many gifts, in religion and in this world. That is what calls for the praise to be said again.",
+            "bn": "সা'দী লক্ষ করেন, এ সূরায় তাবারাকা এসেছে তিনবার। ২৫:১, ২৫:১০ আর এই আয়াত, তিনটিই শুরু হয় এ শব্দে। তাঁর ব্যাখ্যায় শব্দটি বোঝায় স্রষ্টার মহত্ত্ব, তাঁর গুণাবলির প্রাচুর্য, আর তাঁর কল্যাণ ও অনুগ্রহের প্রাচুর্য। তিনি বলেন, সূরাটি ভরা এমন সব প্রমাণে, যা দেখায় তাঁর মহত্ত্ব, তাঁর রাজত্বের বিস্তার, তাঁর ইচ্ছার কার্যকারিতা, তাঁর জ্ঞান ও ক্ষমতার ব্যাপ্তি। সেই সঙ্গে দেখায় তাঁর প্রশস্ত রহমত আর দ্বীন ও দুনিয়ার অগণিত দান। এ কারণেই প্রশংসার এ শব্দ বারবার ফিরে আসে।"
+          },
+          {
+            "en": "At-Tabari glosses the opening as taqaddasa al-rabb: hallowed is the Lord who placed buruj in the sky. The Muyassar turns it toward mercy itself: great are the blessings of the Most Merciful, and abundant is His good. Read beside 25:60, the order of the verses is telling. People who asked who ar-Rahman is are answered with what ar-Rahman has given, and the reply is a sky that each of them had looked at all their lives. The rest of this article follows what the commentators say about each of its three gifts.",
+            "bn": "তাবারী শুরুর শব্দটির ব্যাখ্যা দেন তাকাদ্দাসার রব্ব বলে: পবিত্র সেই রব, যিনি আকাশে বুরূজ স্থাপন করেছেন। মুয়াসসার একে নিয়ে যায় রহমতের দিকে: রহমানের বরকত বিশাল, তাঁর কল্যাণ অফুরান। ২৫:৬০ আয়াতের পাশে রেখে পড়লে আয়াতের এই ক্রম অর্থবহ হয়ে ওঠে। যারা জানতে চেয়েছিল রহমান কে, তাদের জবাব আসে রহমানের দেওয়া জিনিস দিয়ে। আর সে জবাব এমন এক আকাশ, যা তারা প্রত্যেকে সারা জীবন দেখে এসেছে। এ লেখার বাকি অংশ দেখবে, তিনটি দানের প্রতিটি নিয়ে তাফসীরকারেরা কী বলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Great Stars Reading",
+          "bn": "বড় নক্ষত্রের ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "What are the buruj? Ibn Kathir begins with the view that they are the great stars, al-kawakib al-'izam, and names those who held it: Mujahid, Sa'id ibn Jubayr, Abu Salih, al-Hasan and Qatada. He reads the verse as Allah glorifying Himself and magnifying the beauty of what He created in the sky. Of the views he records, he calls this one the more apparent. The Muyassar takes the same line, glossing buruj as the great stars, and adds that they come with their stations.",
+            "bn": "বুরূজ আসলে কী? ইবন কাসীর শুরু করেন এই মত দিয়ে যে, এগুলো বড় বড় নক্ষত্র, আল-কাওয়াকিবুল ইযাম। যাঁরা এ মত দিয়েছেন, তাঁদের নামও বলেন: মুজাহিদ, সাঈদ ইবন জুবাইর, আবু সালিহ, হাসান ও কাতাদা। তাঁর পাঠে আল্লাহ এখানে নিজের মহিমা ঘোষণা করছেন, আর আকাশে যা সৃষ্টি করেছেন তার সৌন্দর্যের মর্যাদা তুলে ধরছেন। তিনি যত মত উল্লেখ করেন, তার মধ্যে এটিকেই বলেন বেশি স্পষ্ট। মুয়াসসারও একই পথে চলে। তার ব্যাখ্যায় বুরূজ হলো বড় বড় নক্ষত্র, সঙ্গে তাদের অবস্থানস্থলগুলো।"
+          },
+          {
+            "en": "At-Tabari carries this view too, with its chains. From Abu Salih: the great stars. From Mujahid: the stars, al-kawakib. From Qatada: the buruj are the stars. Al-Baghawi gives the same reading from al-Hasan, Mujahid and Qatada and adds a reason for the name: the stars were called buruj because they stand out and are plainly seen, li-zuhuriha. On this view the word describes what anyone notices on a clear night, the lights that stand out above the rest, and the verse asks for praise of the One who set them there.",
+            "bn": "তাবারীও এ মত এনেছেন, বর্ণনাসূত্রসহ। আবু সালিহ থেকে: বড় বড় নক্ষত্র। মুজাহিদ থেকে: নক্ষত্র, আল-কাওয়াকিব। কাতাদা থেকে: বুরূজ মানে তারকারাজি। বাগাভী একই ব্যাখ্যা আনেন হাসান, মুজাহিদ ও কাতাদা থেকে। সঙ্গে নামের একটা কারণও দেন: নক্ষত্রগুলোকে বুরূজ বলা হয়েছে, কারণ এগুলো স্পষ্ট চোখে পড়ে, লি-যুহূরিহা। এ মতে শব্দটি সেই দৃশ্যের কথা বলে, যা পরিষ্কার রাতে যে কেউ দেখে: বাকিদের ছাড়িয়ে জ্বলজ্বল করা আলোগুলো। আর আয়াত চায়, যিনি সেগুলো ওখানে বসিয়েছেন, তাঁর প্রশংসা করা হোক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Palaces Where Guards Keep Watch",
+          "bn": "প্রহরীদের প্রাসাদ"
+        },
+        "p": [
+          {
+            "en": "A second view takes buruj as palaces, qusur. At-Tabari gives it first, through several chains. 'Atiyya ibn Sa'd said: palaces in the sky, with guards in them. Yahya ibn Rafi' and Ibrahim said: palaces in the sky. Abu Salih, in one of his chains, said: palaces in the sky with guards in them. Ibn Kathir lists the same view from 'Ali and Ibn 'Abbas, Muhammad ibn Ka'b, Ibrahim an-Nakha'i and al-A'mash, and notes that it is also reported from Abu Salih, who is therefore quoted on both sides.",
+            "bn": "দ্বিতীয় মতে বুরূজ মানে প্রাসাদ, কুসূর। তাবারী এ মতই আগে আনেন, কয়েকটি সূত্রে। আতিয়্যা ইবন সা'দ বলেছেন: আকাশে কিছু প্রাসাদ, যেখানে প্রহরীরা থাকে। ইয়াহইয়া ইবন রাফি' আর ইবরাহীম বলেছেন: আকাশে প্রাসাদ। আবু সালিহ একটি সূত্রে বলেছেন: আকাশে প্রাসাদ, যাতে প্রহরী আছে। ইবন কাসীর এ মত উল্লেখ করেন আলী (রাঃ), ইবন আব্বাস (রাঃ), মুহাম্মাদ ইবন কা'ব, ইবরাহীম নাখঈ ও আ'মাশ থেকে। তিনি জানান, আবু সালিহ থেকেও এমন বর্ণনা আছে। ফলে আবু সালিহের নাম দুই দিকেই পাওয়া যায়।"
+          },
+          {
+            "en": "Here at-Tabari and Ibn Kathir part ways. At-Tabari judges the palaces reading the more correct of the two, because that is what burj means in the speech of the Arabs. He cites 4:78, wa law kuntum fi burujin mushayyada, even if you were in towers built high, and a line of al-Akhtal: as though it were a Roman burj that a builder raises with gypsum, brick and stone. By burj, he says, the poet meant a palace. Al-Baghawi gives the palaces reading from 'Atiyya al-'Awfi and cites 4:78 as well. Ibn Kathir, as seen, holds the great-stars reading the more apparent. Both judgements stand as their authors made them.",
+            "bn": "এখানে এসে তাবারী আর ইবন কাসীর দুই দিকে যান। তাবারীর বিচারে প্রাসাদের ব্যাখ্যাই বেশি সঠিক। কারণ আরবদের ভাষায় বুরজ শব্দের অর্থ এটাই। প্রমাণে তিনি আনেন ৪:৭৮ আয়াত, ওয়া লাও কুনতুম ফী বুরূজিম মুশাইয়াদাহ: যদি তোমরা সুউচ্চ দুর্গেও থাকো। আনেন আখতালের একটি পঙক্তিও: যেন সে এক রোমান বুরজ, যা নির্মাতা গড়ে তোলে চুন, ইট আর পাথরে। তাবারী বলেন, কবি এখানে বুরজ বলতে প্রাসাদই বুঝিয়েছেন। বাগাভী প্রাসাদের ব্যাখ্যা আনেন আতিয়্যা আল-আওফী থেকে, আর তিনিও ৪:৭৮ উদ্ধৃত করেন। অন্যদিকে ইবন কাসীরের কাছে বড় নক্ষত্রের ব্যাখ্যাই বেশি স্পষ্ট, যা আগে দেখা গেছে। দুজনের সিদ্ধান্তই এখানে রাখা হলো, যেভাবে তাঁরা দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Sayings Brought Together",
+          "bn": "দুই মতের মিলনবিন্দু"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir then leaves room for the two to meet: unless the great stars are themselves the palaces of the guards, in which case the two sayings come together. He supports this with 67:5, where Allah says He adorned the nearest sky with lamps and made them missiles against the devils, and then quotes the present verse after it. On that reading the same lights do two things at once. They are a beauty for whoever looks up, and they are posts from which the sky is guarded.",
+            "bn": "এরপর ইবন কাসীর দুই মত মেলানোর একটা পথ খোলা রাখেন: যদি না বড় নক্ষত্রগুলোই প্রহরীদের প্রাসাদ হয়, তাহলে দুই কথা এক জায়গায় এসে মেলে। এর সমর্থনে তিনি আনেন ৬৭:৫ আয়াত। সেখানে আল্লাহ বলেন, তিনি নিকটতম আকাশকে প্রদীপমালায় সাজিয়েছেন আর সেগুলোকে শয়তানদের প্রতি নিক্ষেপের উপকরণ বানিয়েছেন। তারপরই তিনি এ আয়াত উদ্ধৃত করেন। এ পাঠে একই আলো একসঙ্গে দুই কাজ করে। যে উপরে তাকায়, তার চোখে এগুলো সৌন্দর্য। আবার এগুলোই সেই চৌকি, যেখান থেকে আকাশ পাহারা দেওয়া হয়।"
+          },
+          {
+            "en": "As-Sa'di offers two meanings without choosing: the stars in general, or the stations of the sun and moon, which they enter one station after another. He then explains why either may be called buruj. Towers and fortresses keep a city safe; the stars are like towers set up for guarding, since they are missiles against the devils. Al-Qurtubi glosses buruj simply as manazil, stations, and refers back to his earlier discussion. The same word stands in 15:16 and opens 85:1, but the commentators followed here are those who wrote on this verse.",
+            "bn": "সা'দী কোনো একটি বেছে না নিয়ে দুটি অর্থ দেন: সাধারণভাবে সব নক্ষত্র, অথবা সূর্য ও চাঁদের অবস্থানস্থল, যেখানে তারা একটার পর একটায় নামে। তারপর বোঝান, দুটিকেই কেন বুরূজ বলা যায়। শহরকে নিরাপদ রাখে তার বুরুজ আর দুর্গ। নক্ষত্রও তেমনি পাহারার জন্য বসানো বুরুজের মতো, কারণ এগুলো শয়তানদের প্রতি নিক্ষেপের উপকরণ। কুরতুবী বুরূজের অর্থ সংক্ষেপে বলেন মানাযিল, অর্থাৎ অবস্থানস্থল, আর আগের আলোচনার দিকে ইঙ্গিত করেন। একই শব্দ আছে ১৫:১৬ আয়াতে, আর ৮৫:১ শুরুই হয় এ শব্দে। তবে এখানে শুধু সেই তাফসীরকারদের কথাই আনা হয়েছে, যাঁরা এ আয়াত নিয়ে লিখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Zodiac Lore in al-Baghawi",
+          "bn": "বাগাভীর বর্ণনায় রাশিচক্র"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi records a further report, from 'Ata from Ibn 'Abbas: the buruj are the twelve signs that are the stations of the seven moving stars. He names them, from Aries, al-hamal, through to Pisces, al-hut. He then sets out which planet each sign is a house of, and how the twelve are shared among four natures, fire, earth, air and water, three to each. It reads as a catalogue, and he attaches no judgement of his own to it.",
+            "bn": "বাগাভী আরেকটি বর্ণনা আনেন, আতা থেকে, তিনি ইবন আব্বাস (রাঃ) থেকে: বুরূজ হলো সেই বারোটি রাশি, যা সাতটি চলমান গ্রহের অবস্থানস্থল। তিনি নামগুলো একে একে বলেন, মেষ অর্থাৎ আল-হামাল থেকে মীন অর্থাৎ আল-হূত পর্যন্ত। তারপর জানান, কোন রাশি কোন গ্রহের ঘর। আরও জানান, বারোটি রাশি চারটি প্রকৃতিতে ভাগ হয়েছে: আগুন, মাটি, বাতাস আর পানি, প্রতিটিতে তিনটি করে। পুরোটা পড়ে মনে হয় একটা তালিকা, যার সঙ্গে তিনি নিজের কোনো মন্তব্য জোড়েন না।"
+          },
+          {
+            "en": "That catalogue needs to be read for what it is. Al-Baghawi reports it; he draws no reading of anyone's fate from it, and neither does this article. The verse itself names the buruj as a reason to say tabaraka, a cause of praise for Him who placed them, and the commentators fetched here give them three roles: beauty, guarding, and the measured stations of the lights. None of them turns the sky into a book of fortunes, and the verse offers no foothold for treating it so.",
+            "bn": "তালিকাটিকে তার নিজের জায়গাতেই রাখতে হবে। বাগাভী শুধু বর্ণনা করেছেন। কারও ভাগ্য নিয়ে কোনো কথা তিনি এ থেকে টানেননি, এ লেখাও টানছে না। আয়াত নিজে বুরূজের উল্লেখ করেছে তাবারাকা বলার কারণ হিসেবে, যিনি এগুলো বসিয়েছেন তাঁর প্রশংসার উপলক্ষ হিসেবে। এখানে যেসব তাফসীর দেখা হয়েছে, সেগুলো বুরূজকে তিনটি ভূমিকা দেয়: সৌন্দর্য, পাহারা, আর আলোগুলোর মাপা অবস্থানস্থল। তাঁদের কেউই আকাশকে ভাগ্য গণনার খাতা বানাননি। আর আয়াতেও এমন কিছু নেই, যার উপর দাঁড়িয়ে আকাশকে সেভাবে পড়া যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Lamp or Many Lamps",
+          "bn": "এক প্রদীপ, না অনেক প্রদীপ"
+        },
+        "p": [
+          {
+            "en": "Wa ja'ala fiha sirajan: and placed in it a lamp. At-Tabari reports that the readers of Madina and Basra read siraj, singular, and took it to be the sun; he gives Qatada's gloss, the lamp is the sun. Al-Qurtubi gives the same from Ibn 'Abbas and points to 71:16, and made the sun a lamp. Ibn Kathir calls it the shining sun, which is like a lamp in the world, citing 78:13, and al-Baghawi and as-Sa'di identify the lamp as the sun in the same way.",
+            "bn": "ওয়া জা'আলা ফীহা সিরাজা: আর তাতে রেখেছেন এক প্রদীপ। তাবারী জানান, মদীনা ও বসরার কারীগণ পড়েছেন সিরাজ, একবচনে, আর এর অর্থ ধরেছেন সূর্য। এখানে তিনি কাতাদার ব্যাখ্যা আনেন: প্রদীপ মানে সূর্য। কুরতুবী একই কথা আনেন ইবন আব্বাস (রাঃ) থেকে, আর ইঙ্গিত করেন ৭১:১৬ আয়াতের দিকে, যেখানে আছে: আর সূর্যকে বানিয়েছেন প্রদীপ। ইবন কাসীর বলেন, এ হলো উজ্জ্বল সূর্য, যা জগতে প্রদীপের মতো। সঙ্গে উদ্ধৃত করেন ৭৮:১৩ আয়াত। বাগাভী ও সা'দীও প্রদীপ বলতে সূর্যকেই বোঝান।"
+          },
+          {
+            "en": "The readers of Kufa read suruj, lamps, in the plural; al-Qurtubi and al-Baghawi name Hamza and al-Kisa'i among them. At-Tabari explains their sense: He placed stars in it, and they called the stars lamps because people find their way by them. His verdict is that both are well-known readings in the cities, each with a sound meaning, so that whoever reads either reads correctly. Al-Qurtubi records a preference on the other side: Abu 'Ubayd favoured the singular, since if suruj are stars and buruj are stars, the meaning comes out as stars and stars.",
+            "bn": "কূফার কারীগণ পড়েছেন সুরুজ, অর্থাৎ বহুবচনে, অনেক প্রদীপ। কুরতুবী ও বাগাভী তাঁদের মধ্যে হামযা ও কিসাঈর নাম বলেন। তাবারী তাঁদের পাঠের অর্থ খুলে বলেন: তিনি তাতে নক্ষত্র রেখেছেন। নক্ষত্রকে তাঁরা প্রদীপ বলেছেন, কারণ মানুষ এগুলো দেখে পথ খুঁজে পায়। তাবারীর সিদ্ধান্ত, দুটিই বিভিন্ন শহরে প্রসিদ্ধ পাঠ, দুটিরই বোধগম্য অর্থ আছে। তাই যে কোনোটি পড়লেই পাঠক সঠিক। কুরতুবী অন্য দিকের একটি পছন্দও উল্লেখ করেন। আবু উবাইদ একবচনকে প্রাধান্য দিতেন। কারণ সুরুজও যদি নক্ষত্র হয় আর বুরূজও নক্ষত্র, তাহলে অর্থ দাঁড়ায় নক্ষত্র আর নক্ষত্র।"
+          },
+          {
+            "en": "Al-Qurtubi also gives what was said on behalf of the plural. An-Nahhas relays that Aban ibn Taghlib said the suruj are the brilliant stars, an-nujum ad-darari, and ath-Tha'labi gives examples such as Venus, Jupiter, Saturn and the two Simaks. The plural then names the brightest stars in particular. Al-Baghawi adds that on the plural reading the moon is already among the lamps, and is named again for a kind of merit it has, as date palms and pomegranates are named after fruit in 55:68 though they are fruit too.",
+            "bn": "বহুবচনের পক্ষে যা বলা হয়েছে, কুরতুবী তা-ও আনেন। নাহহাস জানান, আবান ইবন তাগলিব বলেছেন, সুরুজ হলো দীপ্তিমান নক্ষত্ররাজি, আন-নুজূমুদ দারারী। সা'লাবী উদাহরণ দেন শুক্র, বৃহস্পতি, শনি আর দুই সিমাক নক্ষত্রের মতো তারার। এ পাঠে বহুবচন তাহলে বিশেষ করে সবচেয়ে উজ্জ্বল তারাগুলোকে বোঝায়। বাগাভী যোগ করেন, বহুবচনের পাঠে চাঁদ আগেই প্রদীপগুলোর মধ্যে এসে গেছে। তবু তার একটা বিশেষ মর্যাদার কারণে আলাদা করে তার নাম নেওয়া হয়েছে। যেমন ৫৫:৬৮ আয়াতে ফলের পরে খেজুর আর ডালিমের নাম আলাদা করে এসেছে, অথচ এগুলোও ফল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heat in One, Light in Both",
+          "bn": "একটিতে তাপ, দুটিতেই আলো"
+        },
+        "p": [
+          {
+            "en": "Wa qamaran muniran: and a moon giving light. At-Tabari glosses munir as mudi', shining. Al-Qurtubi says it lights the earth when it rises, and the Muyassar speaks of a sun that gives light and a moon that illumines. As-Sa'di draws the contrast in a few words: the lamp has light and heat in it, and that is the sun; the moon has light in it, not heat. One warms as it lights; the other lights without burning, and both are named in the same breath as gifts.",
+            "bn": "ওয়া কামারাম মুনীরা: আর আলো ছড়ানো চাঁদ। তাবারী মুনীরের অর্থ বলেন মুদী, অর্থাৎ দীপ্তিমান। কুরতুবী বলেন, চাঁদ উঠলে পৃথিবীকে আলোকিত করে। মুয়াসসারের ভাষায়, সূর্য আলো দেয় আর চাঁদ আলো ছড়ায়। সা'দী অল্প কথায় পার্থক্যটা দেখান: প্রদীপে আছে আলো আর তাপ দুটোই, আর সেটাই সূর্য। চাঁদে আছে আলো, তাপ নেই। একটি আলো দেয় উষ্ণতার সঙ্গে, অন্যটি আলো দেয় না পুড়িয়ে। আর দুটির নামই একসঙ্গে এসেছে দান হিসেবে।"
+          },
+          {
+            "en": "Ibn Kathir makes a related point. The moon, he says, is shining and bright with another light, of another kind and another order, other than the light of the sun. He cites 10:5, which calls the sun diya' and the moon nur, and the words of Nuh (AS) to his people in 71:15 and 71:16, that Allah placed the moon in the heavens as a light and made the sun a lamp. He is speaking of two kinds of light and the two names the Qur'an gives them. He makes no claim here about where the moon's light comes from, and neither does this article.",
+            "bn": "ইবন কাসীরের কথাও কাছাকাছি। তিনি বলেন, চাঁদ উজ্জ্বল ও দীপ্তিমান আরেক আলোয়, যা ভিন্ন প্রকারের, ভিন্ন ধরনের, সূর্যের আলো থেকে আলাদা। প্রমাণে তিনি আনেন ১০:৫ আয়াত, যেখানে সূর্যকে বলা হয়েছে যিয়া আর চাঁদকে নূর। আনেন নূহ (আঃ)-এর কথাও, যা তিনি তাঁর কওমকে বলেছিলেন ৭১:১৫ ও ৭১:১৬ আয়াতে: আল্লাহ আসমানে চাঁদকে বানিয়েছেন আলো, আর সূর্যকে প্রদীপ। ইবন কাসীর এখানে কথা বলছেন দুই রকম আলো আর কুরআনে তাদের দুই নাম নিয়ে। চাঁদের আলো কোথা থেকে আসে, সে বিষয়ে তিনি এখানে কিছু দাবি করেন না। এ লেখাও করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Looking Up Without a Theory",
+          "bn": "তত্ত্ব ছাড়াই আকাশ দেখা"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an, which treats this verse together with the next, gives a long excursus on old and new theories of the heavens, and its conclusion is modest. What the buruj really are, and whether the stars are fixed in the sky or move through space, are questions on which no basic human need depends, in this world or the next. The repeated mention of these things in the Qur'an, it says, is so that people reflect on their creation and their movements, come to know Him who creates and controls them, and then thank Him.",
+            "bn": "মাআরিফুল কুরআন এ আয়াত আর পরের আয়াত একসঙ্গে আলোচনা করে। সেখানে আকাশ নিয়ে পুরোনো ও নতুন নানা তত্ত্বের লম্বা আলোচনা আছে, কিন্তু উপসংহারটা সংযত। বুরূজ আসলে কী, নক্ষত্রগুলো আকাশে গাঁথা নাকি শূন্যে চলমান, এসব প্রশ্নের জবাবের উপর মানুষের কোনো মৌলিক প্রয়োজন নির্ভর করে না, দুনিয়াতেও না, আখিরাতেও না। মাআরিফ বলে, কুরআনে এসবের বারবার উল্লেখ এজন্য যে, মানুষ এগুলোর সৃষ্টি আর গতি নিয়ে ভাববে। তারপর চিনবে সেই সত্তাকে, যিনি এগুলো সৃষ্টি করেন ও চালান। আর শেষে তাঁর শোকর আদায় করবে।"
+          },
+          {
+            "en": "It goes further. The ordinary person, Ma'arif says, needs no astronomy for this: the alternation of day and night, the rising and waning of the moon, and the precision with which they keep their course are enough to show that a Power made them and holds them. It also sets a rule for reading such verses. Where the Qur'an's wording is plain, it is not twisted to fit any theory; where the wording bears two meanings, the one nearer to what is observed is taken. Applying this to the present verse, it notes that sama' can mean the sky itself or everything above us.",
+            "bn": "মাআরিফ আরও এগোয়। তার মতে সাধারণ মানুষের এজন্য জ্যোতির্বিদ্যা লাগে না। দিন-রাতের পালাবদল, চাঁদের বাড়া-কমা, আর কতটা নিখুঁতভাবে এগুলো নিজের পথে চলে, এটুকু দেখলেই বোঝা যায়, এক মহাশক্তি এগুলো বানিয়েছেন আর ধরে রেখেছেন। এমন আয়াত পড়ার একটা নিয়মও সে বেঁধে দেয়। কুরআনের ভাষা যেখানে স্পষ্ট, সেখানে কোনো তত্ত্বের সঙ্গে মেলাতে তাকে বাঁকানো হবে না। আর যেখানে শব্দে দুই অর্থের সুযোগ আছে, সেখানে পর্যবেক্ষণের কাছাকাছি অর্থটি নেওয়া হবে। এ আয়াতে নিয়মটি খাটাতে গিয়ে সে দেখায়, সামা শব্দের অর্থ আকাশ নিজেও হতে পারে, আবার আমাদের মাথার উপরের সবকিছুও হতে পারে।"
+          },
+          {
+            "en": "As-Sa'di closes on the same two threads. The dazzling creation, the ordered arrangement and the great beauty of the sky point to the greatness of its Creator in all His attributes, and the benefits it holds for His creatures point to the abundance of His good. No tafsir fetched for this verse attaches a hadith to it. The next verse, 25:62, carries the thought down to the night and day that follow one another, for whoever wishes to remember or to give thanks, so that the look upward ends in remembrance and thanks.",
+            "bn": "সা'দী শেষ করেন এই দুই সুতো ধরেই। আকাশের চোখধাঁধানো সৃষ্টি, তার সুশৃঙ্খল ব্যবস্থা আর বিপুল সৌন্দর্য দেখায়, এর স্রষ্টা তাঁর সব গুণে মহান। আর সৃষ্টিজীবের জন্য এতে যত উপকার আছে, তা দেখায় তাঁর কল্যাণ কত অফুরান। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। পরের আয়াত, ২৫:৬২, ভাবনাটিকে নামিয়ে আনে রাত আর দিনে, যা একটার পর একটা আসে তার জন্য, যে উপদেশ নিতে চায় বা শোকর করতে চায়। উপরের দিকে তাকানো এভাবেই গিয়ে শেষ হয় স্মরণ আর শোকরে।"
+          }
+        ]
+      }
+    ]
+  },
   "25:63": {
     "sections": [
       {

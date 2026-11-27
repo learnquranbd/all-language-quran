@@ -35279,6 +35279,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not let your own liking decide what you worship and obey; follow Allah's command over your whims, and leave other people's guidance to Him after you convey.",
     "lessonBn": "কী মানবেন আর কার ইবাদত করবেন, তা নিজের পছন্দকে ঠিক করতে দেবেন না। খেয়াল-খুশির উপরে আল্লাহর হুকুমকে রাখুন, আর সত্য পৌঁছে দেওয়ার পর অন্যের হিদায়াত তাঁর হাতে ছেড়ে দিন।"
+  },
+  "25:61": {
+    "reflectionEn": "Someone has just asked what the Most Merciful is. The reply is not an argument but a look upward: blessed is He who placed great stars in the sky, and set in it a lamp and a moon giving light. The sun burns and warms; the moon shines and does not burn. Both are named as gifts, and the word that opens the verse, tabaraka, says that His good is vast and keeps coming. Nothing here asks me to read my fortune in the stars or to master theories of them. It asks me to notice. When did I last look at the night sky and think of the One who placed it there? And does the light I live by every day make me grateful, or only busy?",
+    "reflectionBn": "এইমাত্র কেউ জানতে চেয়েছে, রহমান আবার কে? জবাবে কোনো তর্ক আসে না, আসে উপরের দিকে তাকানোর ডাক: কত বরকতময় তিনি, যিনি আকাশে বড় বড় নক্ষত্র বসিয়েছেন, আর তাতে রেখেছেন এক প্রদীপ আর আলো ছড়ানো চাঁদ। সূর্য জ্বলে, তাপ দেয়। চাঁদ আলো দেয়, পোড়ায় না। দুটিই এসেছে দান হিসেবে। আয়াতের প্রথম শব্দ তাবারাকা জানিয়ে দেয়, তাঁর কল্যাণ বিশাল আর তা আসতেই থাকে। তারায় নিজের ভাগ্য পড়তে এ আয়াত বলে না, তারা নিয়ে কোনো তত্ত্ব রপ্ত করতেও বলে না। বলে শুধু খেয়াল করতে। শেষ কবে রাতের আকাশের দিকে তাকিয়ে ভেবেছি, কে ওটা ওখানে বসিয়েছেন? আর যে আলোয় রোজ বেঁচে আছি, তা কি আমাকে কৃতজ্ঞ করে, নাকি শুধু ব্যস্ত রাখে?",
+    "pointsEn": [
+      "When did I last look up at the night sky on purpose, and what did I think about when I did?",
+      "If someone asked me who the Most Merciful is, could I point to anything I see every day, or only to words I have memorised?",
+      "The sun gives heat and light, the moon light alone: which gifts in my life do I use every day without ever naming them as gifts?",
+      "Do I let curiosity about the stars, or casual talk of horoscopes, take the place of the simple praise this verse asks for?",
+      "What would change in my day if each sunrise and each moonrise reminded me that His good keeps coming?"
+    ],
+    "pointsBn": [
+      "শেষ কবে ইচ্ছা করে রাতের আকাশের দিকে তাকিয়েছি? তখন মনে কী ভাবনা এসেছিল?",
+      "কেউ যদি জিজ্ঞেস করে রহমান কে, আমি কি রোজ চোখে দেখি এমন কিছুর দিকে ইশারা করতে পারব, নাকি শুধু মুখস্থ কিছু কথা বলব?",
+      "সূর্য দেয় তাপ আর আলো, চাঁদ দেয় শুধু আলো। আমার জীবনের কোন দানগুলো রোজ ব্যবহার করি, অথচ কখনো দান বলে চিনি না?",
+      "তারা নিয়ে কৌতূহল, কিংবা রাশিফল নিয়ে হালকা আলাপ, কি সেই সরল প্রশংসার জায়গা দখল করে নেয়, যা এ আয়াত চায়?",
+      "প্রতিটি সূর্যোদয় আর চাঁদ ওঠা যদি মনে করিয়ে দিত যে তাঁর কল্যাণ আসতেই থাকে, আমার দিনটা কেমন বদলে যেত?"
+    ],
+    "lessonEn": "See the sun, moon and stars as gifts that point to their Maker, and answer them with praise and gratitude, not with fortune-telling or idle curiosity.",
+    "lessonBn": "সূর্য, চাঁদ আর তারাকে দেখুন তাদের স্রষ্টার দিকে ইশারা করা দান হিসেবে। এর জবাব দিন প্রশংসা আর কৃতজ্ঞতায়, ভাগ্য গণনা বা অলস কৌতূহলে নয়।"
   }
 };
 
