@@ -34879,6 +34879,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Begin where the first messenger began: worship Allah alone, and watch what you honour, so that love for good people never slides into worship.",
     "lessonBn": "প্রথম রাসূল যেখান থেকে শুরু করেছিলেন, সেখান থেকেই শুরু করুন: শুধু আল্লাহর ইবাদত করুন, আর যাকে সম্মান করেন তার দিকে খেয়াল রাখুন, যাতে নেককারদের প্রতি ভালোবাসা কখনো ইবাদতে গড়িয়ে না যায়।"
+  },
+  "23:35": {
+    "reflectionEn": "The chiefs could picture the grave very well: a body gone to dust, bones with nothing left on them. What they could not picture was anyone bringing that back. So they turned the messenger's words into a sneer: does he promise you that you will be brought out? The surah had answered before they spoke. It opened by describing bones being made and then clothed in flesh, then death, then the raising. Their doubt sounded like plain realism, yet it measured God's power by their own. They even kept his word, promise, while they waved it away. I say I believe that promise. Do I live as if it were near, or as if it were far?",
+    "reflectionBn": "কবরের ছবিটা সর্দারদের চোখে খুব স্পষ্ট ছিল। দেহ মাটিতে মিশে গেছে, হাড়ের গায়ে আর কিছু নেই। কিন্তু সেখান থেকে কেউ আবার ফিরিয়ে আনবে, এটা তারা কল্পনাই করতে পারেনি। তাই রসূলের কথাকে তারা ঠাট্টায় পরিণত করল: সে কি তোমাদের কথা দেয় যে তোমাদের আবার বের করে আনা হবে? অথচ তারা মুখ খোলার আগেই সূরাটি জবাব দিয়ে রেখেছে। শুরুতেই সূরা বলেছে কীভাবে হাড় বানানো হলো, তারপর তাতে গোশত পরানো হলো, তারপর মৃত্যু, তারপর পুনরুত্থান। তাদের সন্দেহ শুনতে বাস্তববাদী মনে হয়, কিন্তু আসলে সেটা আল্লাহর কুদরতকে মেপেছে নিজেদের সাধ্য দিয়ে। লক্ষ করার মতো, কথাটা উড়িয়ে দেওয়ার সময়ও তারা রসূলের শব্দটাই রেখে দিয়েছে: ওয়াদা। আমি তো বলি, এই ওয়াদায় আমার বিশ্বাস আছে। কিন্তু আমি কি এমনভাবে বাঁচি যেন তা কাছেই, নাকি যেন বহু দূরে?",
+    "pointsEn": [
+      "When I think of my own death, does my thought stop at the grave, or does it carry on to the raising that comes after it?",
+      "Which of God's promises do I accept in words but treat in practice as too far off to plan around?",
+      "Have I ever measured what God can do by what I can imagine doing myself?",
+      "When someone mocks a belief I hold, do I answer with the reasons the Qur'an itself gives, or only with irritation?",
+      "If I were brought out tomorrow, which of this week's choices would I want to have made differently?"
+    ],
+    "pointsBn": [
+      "নিজের মৃত্যুর কথা ভাবলে আমার ভাবনা কি কবরে গিয়েই থেমে যায়, নাকি তার পরের পুনরুত্থান পর্যন্ত পৌঁছায়?",
+      "আল্লাহর কোন ওয়াদা আমি মুখে মেনে নিই, অথচ কাজে এমন ভাব করি যেন তা এত দূরের যে হিসাবে ধরার দরকার নেই?",
+      "আল্লাহ কী করতে পারেন, তা কি আমি কখনো মেপেছি আমি নিজে কী করতে পারি তা দিয়ে?",
+      "কেউ যখন আমার কোনো বিশ্বাস নিয়ে ঠাট্টা করে, আমি কি কুরআনের নিজের দেওয়া যুক্তি দিয়ে জবাব দিই, নাকি শুধু বিরক্তি দিয়ে?",
+      "কাল যদি আমাকে কবর থেকে বের করে আনা হয়, এ সপ্তাহের কোন সিদ্ধান্তগুলো আমি অন্যভাবে নিতে চাইতাম?"
+    ],
+    "lessonEn": "The One who first made your bones and clothed them in flesh can raise them again. Live as though His promise of the raising is near, not far.",
+    "lessonBn": "যিনি প্রথমবার আপনার হাড় বানিয়ে তাতে গোশত পরিয়েছেন, তিনি আবার তা উঠাতে পারেন। এমনভাবে বাঁচুন যেন পুনরুত্থানের ওয়াদা দূরে নয়, কাছেই।"
   }
 };
 

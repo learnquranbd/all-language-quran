@@ -1635,6 +1635,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:35": {
+    "sections": [
+      {
+        "h": {
+          "en": "Their Answer Turns to the Grave",
+          "bn": "জবাব এবার কবরের দিকে"
+        },
+        "p": [
+          {
+            "en": "A-ya'idukum annakum idha mittum wa-kuntum turaban wa-'izaman annakum mukhrajun: does he promise you that when you have died and become dust and bones, you will be brought out? The speakers are the eminent of the messenger's people, described in 23:33 as those who disbelieved, denied the meeting of the Hereafter and had been given ease in this life. Their speech runs from 23:33 to 23:38. It began with the man himself: he eats what you eat, and obeying him would make you losers (23:33 and 23:34). Here it moves from the man to his message.",
+            "bn": "আ-ইয়াইদুকুম আন্নাকুম ইযা মিত্তুম ওয়া কুনতুম তুরাবান ওয়া ইযামান আন্নাকুম মুখরাজূন: সে কি তোমাদের কথা দেয় যে, তোমরা মরে মাটি আর হাড় হয়ে গেলে তোমাদের আবার বের করে আনা হবে? কথাগুলো বলছে রসূলের সম্প্রদায়ের নেতৃস্থানীয় লোকেরা। ২৩:৩৩ আয়াত তাদের পরিচয় দিয়েছে: তারা কুফরি করেছিল, আখিরাতের সাক্ষাৎকে মিথ্যা বলেছিল, আর দুনিয়ার জীবনে তাদের সচ্ছলতা দেওয়া হয়েছিল। তাদের বক্তব্য চলেছে ২৩:৩৩ থেকে ২৩:৩৮ পর্যন্ত। শুরুটা ছিল রসূলের মানুষ পরিচয় নিয়ে: তোমরা যা খাও সে-ও তা খায়, তার কথা মানলে তোমরাই ক্ষতিগ্রস্ত হবে (২৩:৩৩ ও ২৩:৩৪)। এ আয়াতে এসে আক্রমণ মানুষটি থেকে সরে যায় তাঁর বার্তার দিকে।"
+          },
+          {
+            "en": "As-Sa'di marks the turn in a single sentence. Once they had denied his message and thrown it back, he says, they denied what it brought with it: the raising after death and the requital of deeds. In his telling the denial of the resurrection follows from the rejection of the messenger, not the other way round. Ibn Kathir's abridged commentary on the whole passage says much the same: they did not believe in the meeting with Allah on the Day of Resurrection, and they denied the physical resurrection. Rejecting the one who warned came first; rejecting the warning came with it.",
+            "bn": "এই মোড়টা সা'দী এক বাক্যে ধরিয়ে দেন। তাঁর কথায়, রসূলের রিসালাত অস্বীকার করে ফিরিয়ে দেওয়ার পর তারা অস্বীকার করল সেই রিসালাত যা নিয়ে এসেছিল: মৃত্যুর পর পুনরুত্থান আর আমলের প্রতিদান। অর্থাৎ তাঁর বর্ণনায় আগে এসেছে রসূলকে প্রত্যাখ্যান, তারপর তার ফল হিসেবে পুনরুত্থানের অস্বীকৃতি, উল্টোটা নয়। পুরো অংশের উপর ইবন কাসীরের সংক্ষিপ্ত তাফসীরও প্রায় একই কথা বলে: কিয়ামতের দিন আল্লাহর সাক্ষাতে তারা বিশ্বাস করত না, আর দেহসহ পুনরুত্থানকে তারা অস্বীকার করেছিল। যিনি সতর্ক করলেন তাঁকে আগে ফিরিয়ে দেওয়া হলো। সতর্কবাণী ফিরিয়ে দেওয়া এল তার সঙ্গে সঙ্গেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Chiefs and Their Messenger",
+          "bn": "সর্দারেরা ও তাদের রসূল"
+        },
+        "p": [
+          {
+            "en": "Whose chiefs were these? The Qur'an names neither the people nor the prophet; it says only that a generation was raised up after the people of Nuh (AS) (23:31). At-Tabari, explaining this very verse, puts a name into their mouths: they said to them, does Salih promise you. That places the scene among Thamud. Ibn Kathir reports two views, each introduced with it was said: 'Ad, because they came after the people of Nuh, or Thamud, because the passage ends with the Shriek, the sayhah, seizing them (23:41).",
+            "bn": "এই সর্দারেরা কারা ছিল? কুরআন এখানে জাতির নামও বলেনি, নবীর নামও বলেনি। শুধু বলেছে, নূহ (আঃ)-এর সম্প্রদায়ের পর আরেক প্রজন্ম সৃষ্টি করা হয়েছিল (২৩:৩১)। তাবারী ঠিক এই আয়াতের ব্যাখ্যায় তাদের মুখে একটি নাম বসিয়ে দেন: তারা বলল, সালিহ কি তোমাদের কথা দেয়? এতে ঘটনাটা দাঁড়ায় সামূদ জাতির মধ্যে। ইবন কাসীর দুটি মত আনেন, দুটিই 'বলা হয়' দিয়ে শুরু করে। একটি হলো 'আদ, কারণ তারাই নূহ (আঃ)-এর সম্প্রদায়ের পরে এসেছিল। অন্যটি সামূদ, কারণ এ অংশের শেষে বলা হয়েছে, এক বিকট আওয়াজ, সাইহা, তাদের পাকড়াও করল (২৩:৪১)।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an names Hud (AS) or Salih (AS), sent to 'Ad and Thamud. It notes that elsewhere the Shriek is tied to Thamud, which led some scholars to read another generation as Thamud, and it gives the other explanation as well: sayhah may stand for God's punishment in general, which would take in 'Ad too. The commentators differ and the verse does not decide, so this article leaves the question where they leave it. The articles on 23:32 and 23:38 go further into it; what concerns us here is the sentence the chiefs spoke.",
+            "bn": "মাআরিফুল কুরআন হূদ (আঃ) অথবা সালিহ (আঃ)-এর নাম বলে, যাঁরা প্রেরিত হয়েছিলেন 'আদ ও সামূদের কাছে। সেখানে উল্লেখ আছে, কুরআনের অন্য জায়গায় সাইহার শাস্তি নির্দিষ্টভাবে সামূদের সঙ্গে যুক্ত। এ কারণে কিছু আলেম 'আরেক প্রজন্ম' বলতে সামূদকেই বুঝেছেন। আবার বিকল্প ব্যাখ্যাও সেখানে আছে: সাইহা শব্দটি আল্লাহর শাস্তি অর্থে সাধারণভাবেও আসতে পারে, তখন 'আদও এর মধ্যে পড়ে। তাফসীরকারদের মত এখানে ভিন্ন, আয়াতও নিষ্পত্তি করেনি। তাই এই লেখা প্রশ্নটা সেখানেই রেখে দিচ্ছে, যেখানে তাঁরা রেখেছেন। ২৩:৩২ ও ২৩:৩৮ আয়াতের লেখায় বিষয়টি আরও বিস্তারে আছে। এখানে আমাদের মনোযোগ সর্দারদের মুখের এই বাক্যটির দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dust and Fleshless Bone",
+          "bn": "মাটি আর গোশতহীন হাড়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari fills in the picture the chiefs were drawing. Dust, turab, is dust in your graves. Bones, 'izam, are bones from which the flesh of the body has gone, so that only the bones remain. And brought out, mukhrajun, means brought out of your graves alive, as you were before you died. His paraphrase holds three stages together: death, decay into dust and bare bone, and a return to the very life that was lost. It is the third stage that the chiefs set out to make sound absurd.",
+            "bn": "সর্দারেরা যে ছবি আঁকছিল, তাবারী তা পূর্ণ করে দেন। তুরাব মানে মাটি, কবরের ভেতরের মাটি। ইযাম মানে হাড়, এমন হাড় যার উপর থেকে দেহের গোশত চলে গেছে, শুধু হাড়টুকু রয়ে গেছে। আর মুখরাজূন মানে তোমাদের কবর থেকে জীবিত অবস্থায় বের করে আনা হবে, মৃত্যুর আগে যেমন ছিলে তেমন। তাঁর এই ব্যাখ্যায় তিনটি ধাপ একসঙ্গে ধরা আছে। প্রথমে মৃত্যু, তারপর মাটি আর খালি হাড়ে পরিণত হওয়া, তারপর হারানো সেই জীবনেই ফিরে আসা। সর্দারেরা এই তৃতীয় ধাপটাকেই হাস্যকর করে দেখাতে চেয়েছিল।"
+          },
+          {
+            "en": "The other commentators keep to the same lines. Al-Qurtubi glosses mukhrajun with one word, mab'uthun, raised up from your graves. Al-Baghawi says from your graves alive. The Muyassar adds a detail to the bones, calling them mufattatah, crumbled to pieces, and it turns the question into what it really is: how can you believe what he promises you, that when you die and become dust and crumbled bones you will be brought out of your graves alive? Read this way, the question asks for no answer. It is a refusal dressed up as astonishment.",
+            "bn": "অন্য তাফসীরকারেরাও একই পথে চলেন। কুরতুবী মুখরাজূনের অর্থ দেন এক শব্দে: মাবঊসূন, কবর থেকে পুনরুত্থিত। বাগাভী বলেন, কবর থেকে জীবিত অবস্থায়। মুয়াসসার হাড়ের সঙ্গে একটি বিশেষণ যোগ করে, মুফাত্তাতা, অর্থাৎ ভেঙে গুঁড়ো হয়ে যাওয়া হাড়। প্রশ্নটার আসল চেহারাও মুয়াসসার খুলে দেয়: সে তোমাদের যে কথা দেয় তা তোমরা বিশ্বাস করো কী করে, যে তোমরা মরে মাটি আর গুঁড়ো হাড় হয়ে গেলেও কবর থেকে জীবিত বের হবে? এভাবে পড়লে বোঝা যায়, প্রশ্নটা কোনো উত্তর চায় না। এ আসলে বিস্ময়ের পোশাক পরা অস্বীকার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "They Still Called It a Promise",
+          "bn": "তবু তারা একে ওয়াদাই বলল"
+        },
+        "p": [
+          {
+            "en": "One word in their sentence deserves a second look. They do not say, does he claim, or does he imagine. They say ya'idukum, does he promise you, from wa'd, a promise. The word belongs to the messenger's own message: he had come with a promise and a warning, and they hold the promise up before their hearers in order to mock it. Their next words keep the same root. Hayhata hayhata li-ma tu'adun, far, far is what you are promised (23:36), and then their creed: there is only our life in this world, we die and we live, and we will not be raised (23:37).",
+            "bn": "তাদের বাক্যের একটি শব্দ আরেকবার দেখার মতো। তারা বলেনি, সে কি দাবি করে, বা সে কি কল্পনা করে। তারা বলেছে ইয়াইদুকুম, সে কি তোমাদের ওয়াদা দেয়। শব্দটি এসেছে ওয়া'দ থেকে, যার অর্থ প্রতিশ্রুতি। শব্দটা রসূলের নিজের বার্তারই অংশ। তিনি এসেছিলেন ওয়াদা আর সতর্কবাণী নিয়ে, আর সর্দারেরা সেই ওয়াদাকেই শ্রোতাদের সামনে তুলে ধরল ঠাট্টা করার জন্য। তাদের পরের কথাতেও একই ধাতু: হাইহাতা হাইহাতা লিমা তূআদূন, দূরে, বহু দূরে সেই জিনিস, যার ওয়াদা তোমাদের দেওয়া হচ্ছে (২৩:৩৬)। তারপর তাদের আকীদা: আমাদের এই দুনিয়ার জীবন ছাড়া কিছু নেই, আমরা মরি আর বাঁচি, আমাদের আর উঠানো হবে না (২৩:৩৭)।"
+          },
+          {
+            "en": "Later in the same surah the Qur'an hears these words again. Of a later generation of deniers it says: rather, they said the like of what the former ones said (23:81). They said, when we have died and become dust and bones, will we really be raised? We have been promised this, we and our fathers, before; this is nothing but the tales of the ancients (23:82 and 23:83). The wording is almost the chiefs' own, and the word promise comes back with it. The surah sets the two speeches side by side, and the reader sees one argument passing from age to age unchanged.",
+            "bn": "একই সূরার পরের দিকে কুরআন এই কথাগুলো আবার শোনায়। পরবর্তী এক প্রজন্মের অস্বীকারকারীদের সম্পর্কে বলে: বরং তারাও তা-ই বলল, যা আগের লোকেরা বলেছিল (২৩:৮১)। তারা বলল, আমরা মরে মাটি আর হাড় হয়ে গেলেও কি সত্যিই আমাদের আবার উঠানো হবে? আমাদের আর আমাদের বাপ-দাদাদের আগেও এই ওয়াদা দেওয়া হয়েছিল। এসব আগের কালের কিসসা ছাড়া কিছু নয় (২৩:৮২ ও ২৩:৮৩)। ভাষা প্রায় হুবহু সর্দারদের, আর ওয়াদা শব্দটাও সঙ্গে ফিরে এসেছে। সূরা দুটি বক্তব্য পাশাপাশি রেখে দেয়। পাঠক দেখতে পান, একই যুক্তি যুগ থেকে যুগে হাতবদল হচ্ছে, একটুও না বদলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Annakum Comes Twice",
+          "bn": "আন্নাকুম কেন দুবার"
+        },
+        "p": [
+          {
+            "en": "The verse has an unusual shape in Arabic. Annakum, that you, appears twice: once after does he promise you, and again before brought out, with the clause when you die and become dust and bones standing between them. The meaning, al-Qurtubi says, is simply this: does he promise you that you will be brought out when you die. He then sets out how the grammarians account for the second annakum. In the view he gives as Sibawayh's position, the first is the object of the verb promise, and the second is a substitute, badal, standing in its place.",
+            "bn": "আরবিতে আয়াতটির গঠন একটু ব্যতিক্রমী। আন্নাকুম, অর্থাৎ 'যে তোমরা', এসেছে দুবার। একবার 'সে কি তোমাদের ওয়াদা দেয়' কথাটির পরে, আবার 'বের করে আনা হবে' কথাটির আগে। মাঝখানে বসে আছে 'যখন তোমরা মরে মাটি আর হাড় হয়ে যাবে' অংশটি। কুরতুবী বলেন, অর্থ আসলে সরল: সে কি তোমাদের ওয়াদা দেয় যে মরে গেলে তোমাদের বের করে আনা হবে? এরপর তিনি দেখান, দ্বিতীয় আন্নাকুমকে ব্যাকরণবিদেরা কীভাবে ব্যাখ্যা করেছেন। যে মতকে তিনি সীবাওয়াইর মত বলে উল্লেখ করেন, তাতে প্রথমটি 'ওয়াদা দেওয়া' ক্রিয়ার কর্ম, আর দ্বিতীয়টি তার বদল, অর্থাৎ প্রথমটির জায়গায় বসা স্থলাভিষিক্ত।"
+          },
+          {
+            "en": "Al-Farra', al-Jarmi and Abu al-'Abbas al-Mubarrad, he reports, took the second as a repetition for emphasis: the sentence had grown long, so repeating the word was good style. Al-Akhfash read it differently, with the second annakum as the subject of an understood verb: does he promise you that, when you die and are dust and bones, your bringing-out will take place. He compares the Arab phrase al-yawma al-qital, today the fighting, meaning today the fighting happens. Abu Ishaq allows a further form, on the ground that does he promise you carries the sense of does he say to you.",
+            "bn": "কুরতুবীর বর্ণনায় ফাররা, জারমী ও আবুল আব্বাস মুবাররাদ দ্বিতীয়টিকে জোর দেওয়ার জন্য পুনরাবৃত্তি ধরেছেন। বাক্য লম্বা হয়ে গিয়েছিল, তাই শব্দটা আবার আনা ভাষার সৌন্দর্য। আখফাশের পাঠ ভিন্ন। তাঁর মতে দ্বিতীয় আন্নাকুম একটি উহ্য ক্রিয়ার কর্তা। অর্থ দাঁড়ায়: সে কি তোমাদের ওয়াদা দেয় যে, তোমরা মরে মাটি আর হাড় হয়ে গেলে তোমাদের বের করে আনা ঘটবে? তিনি তুলনা দেন আরবদের কথা আল-ইয়াওমা আল-কিতাল দিয়ে, অর্থাৎ আজ যুদ্ধ, মানে আজ যুদ্ধ হবে। আবু ইসহাক আরেকটি রূপও বৈধ বলেন, কারণ 'সে কি তোমাদের ওয়াদা দেয়' কথাটির ভেতরে 'সে কি তোমাদের বলে' অর্থটিও আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Reading of 'Abdullah",
+          "bn": "আবদুল্লাহর কিরাআতে আয়াতটি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains the repetition as a habit of the language. The first annakum is cut off from its predicate by idha, when, and so it is said again. The Arabs, he says, do this with any noun governed by zanna, to think, and the verbs like it, whenever a conditional clause breaks in before the predicate: they repeat the noun once, or they drop it. His example is azunnu annaka in jalastana annaka muhsin, I think that you, if you sit with us, that you do well. Drop either one and it is sound; keep both and it is sound.",
+            "bn": "তাবারী পুনরাবৃত্তিটাকে আরবি ভাষার একটি রীতি হিসেবে ব্যাখ্যা করেন। প্রথম আন্নাকুম আর তার বিধেয়ের মাঝখানে ইযা, অর্থাৎ 'যখন', এসে ব্যবধান তৈরি করেছে, তাই শব্দটা আবার বলা হয়েছে। তাঁর কথায়, যন্না (ধারণা করা) ও এ ধরনের ক্রিয়া যে বিশেষ্যের উপর কাজ করে, বিধেয়ের আগে শর্তবাচক বাক্য ঢুকে পড়লে আরবরা সেই বিশেষ্য একবার আবার বলে, আবার কখনো বাদও দেয়। তাঁর উদাহরণ: আযুন্নু আন্নাকা ইন জালাসতানা আন্নাকা মুহসিন, আমার ধারণা তুমি, যদি আমাদের সঙ্গে বসো, তুমি ভালো করছ। যেকোনো একটি বাদ দিলে বাক্য শুদ্ধ, দুটোই রাখলেও শুদ্ধ।"
+          },
+          {
+            "en": "But with nothing standing between them, he adds, it would be a plain error to say I think that you that you are sitting. The repetition is no filler; it is what a long sentence with a condition inside it permits. Al-Baghawi says more briefly that annakum was repeated because the speech had grown long, and he points to a parallel in the Qur'an: do they not know that whoever opposes Allah and His Messenger, then for him is the fire of Hell, abiding in it (9:63). There too anna appears a second time, after the conditional clause.",
+            "bn": "তবে তিনি যোগ করেন, মাঝখানে কিছু না থাকলে 'আমার ধারণা যে তুমি যে তুমি বসে আছ' বলা সরাসরি ভুল। কাজেই পুনরাবৃত্তিটা ফাঁকা শব্দ নয়। ভেতরে শর্ত বসানো লম্বা বাক্যে ভাষা এটা অনুমোদন করে। বাগাভী আরও সংক্ষেপে বলেন, কথা লম্বা হয়ে যাওয়ায় আন্নাকুম আবার আনা হয়েছে। এর নজির হিসেবে তিনি কুরআনের আরেকটি আয়াত দেখান: তারা কি জানে না, যে আল্লাহ ও তাঁর রসূলের বিরোধিতা করে, তার জন্য আছে জাহান্নামের আগুন, সেখানে সে চিরকাল থাকবে (৯:৬৩)? সেখানেও শর্তবাচক অংশের পরে আন্না দ্বিতীয়বার এসেছে।"
+          },
+          {
+            "en": "A reading of 'Abdullah is also reported, and here the reports differ. Al-Baghawi says that in it the sentence runs a-ya'idukum annakum idha mittum wa-kuntum turaban wa-'izaman mukhrajun, with the second annakum gone. Al-Qurtubi, relaying al-Farra', gives it with the first gone instead, a-ya'idukum idha mittum and so on up to annakum mukhrajun, like saying I think, if you go out, that you will regret it. At-Tabari also cites the reading of 'Abdullah, but the wording as printed in his text repeats the standard one, so it cannot settle the point. On the sense they agree: annakum is meant only once.",
+            "bn": "আবদুল্লাহর একটি কিরাআতের কথাও বর্ণিত আছে, আর এখানে বর্ণনাগুলো মেলে না। বাগাভী বলেন, সেই কিরাআতে বাক্যটি এমন: আ-ইয়াইদুকুম আন্নাকুম ইযা মিত্তুম ওয়া কুনতুম তুরাবান ওয়া ইযামান মুখরাজূন, অর্থাৎ দ্বিতীয় আন্নাকুম নেই। কুরতুবী ফাররার সূত্রে বলেন উল্টোটা, প্রথমটি নেই: আ-ইয়াইদুকুম ইযা মিত্তুম থেকে শুরু করে আন্নাকুম মুখরাজূন পর্যন্ত। যেমন বলা হয়, আমার ধারণা, তুমি বের হলে তুমি অনুতপ্ত হবে। তাবারীও আবদুল্লাহর কিরাআত উল্লেখ করেন, কিন্তু তাঁর ছাপা পাঠে উদ্ধৃত শব্দগুলো প্রচলিত পাঠেরই পুনরাবৃত্তি, তাই তা দিয়ে প্রশ্নটার মীমাংসা হয় না। অর্থের ব্যাপারে অবশ্য সবাই একমত: আন্নাকুম আসলে একবারই উদ্দিষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bones Clothed, Bones Bared",
+          "bn": "হাড়ে গোশত, হাড় থেকে গোশত"
+        },
+        "p": [
+          {
+            "en": "The surah had answered the chiefs before they spoke. Its opening verses trace how a human being is made: from an extract of clay (23:12), then a drop in a firm lodging (23:13), then a clot, then a lump, and then, in the words of 23:14, We made the lump into bones and clothed the bones with flesh, and then produced him as another creation. The chiefs describe the same body running backwards: the flesh gone, the bones left, then dust. What they thought could never be reversed, the surah has just shown being done once already.",
+            "bn": "সর্দারেরা মুখ খোলার আগেই সূরাটি তাদের জবাব দিয়ে রেখেছিল। শুরুর আয়াতগুলো দেখায় মানুষ কীভাবে তৈরি হয়: মাটির নির্যাস থেকে (২৩:১২), তারপর নিরাপদ আধারে এক ফোঁটা শুক্র (২৩:১৩), তারপর জমাট রক্ত, তারপর গোশতের পিণ্ড। তারপর ২৩:১৪ আয়াতের ভাষায়, আমি পিণ্ডকে হাড়ে পরিণত করলাম, হাড়কে গোশত দিয়ে ঢেকে দিলাম, তারপর তাকে গড়ে তুললাম এক নতুন সৃষ্টি রূপে। সর্দারেরা একই দেহের কথা বলে উল্টো দিক থেকে: গোশত চলে গেছে, হাড় পড়ে আছে, তারপর মাটি। যে পথ কখনো ফিরতি হতে পারে না বলে তারা ভেবেছিল, সূরাটি এইমাত্র দেখিয়েছে সে পথে একবার চলা হয়ে গেছে।"
+          },
+          {
+            "en": "Two verses later the surah states the very sequence the chiefs denied: then after that you will surely die (23:15), then on the Day of Resurrection you will be raised (23:16). Near its close it asks: did you think that We created you without purpose, and that you would not be returned to Us (23:115)? Elsewhere the Qur'an meets the same doubt with the same reasoning. When a man asks who will give life to bones that have crumbled, the reply comes at once: He will give them life who produced them the first time (36:78 and 36:79).",
+            "bn": "দুই আয়াত পরেই সূরা ঠিক সেই ক্রম ঘোষণা করে, যা সর্দারেরা অস্বীকার করেছিল: এরপর তোমরা অবশ্যই মরবে (২৩:১৫), তারপর কিয়ামতের দিন তোমাদের উঠানো হবে (২৩:১৬)। সূরার শেষের দিকে প্রশ্ন আসে: তোমরা কি ভেবেছিলে, আমি তোমাদের অনর্থক সৃষ্টি করেছি, আর তোমাদের আমার কাছে ফিরিয়ে আনা হবে না (২৩:১১৫)? কুরআনের অন্য জায়গাতেও একই সন্দেহের জবাব একই যুক্তিতে। এক ব্যক্তি জিজ্ঞেস করে, পচে গলে যাওয়া হাড়কে কে জীবিত করবে? সঙ্গে সঙ্গে জবাব আসে: তিনিই জীবিত করবেন, যিনি প্রথমবার এগুলো সৃষ্টি করেছেন (৩৬:৭৮ ও ৩৬:৭৯)।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it; they explain it from the passage around it and from the Arabic. That is enough. The chiefs' question rested on a picture, the grave and what it does to a body, and they let the picture do their arguing. The Qur'an's reply rests on something every listener has already lived through: each of them was once a drop and a clot before becoming a person who could argue at all. The One who made the first creation is not defeated by dust.",
+            "bn": "এই আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তাঁরা আয়াতটি ব্যাখ্যা করেছেন আশপাশের আয়াত আর আরবি ভাষা দিয়ে। সেটুকুই যথেষ্ট। সর্দারদের প্রশ্ন দাঁড়িয়ে ছিল একটা ছবির উপর: কবর, আর কবর দেহের কী দশা করে। যুক্তির কাজটা তারা ওই ছবির হাতেই ছেড়ে দিয়েছিল। কুরআনের জবাব দাঁড়িয়ে আছে এমন এক অভিজ্ঞতার উপর, যা প্রত্যেক শ্রোতা নিজেই পার করে এসেছে। তর্ক করার মতো মানুষ হওয়ার আগে প্রত্যেকে একদিন ছিল এক ফোঁটা শুক্র, এক টুকরো জমাট রক্ত। যিনি প্রথম সৃষ্টি করেছেন, মাটি তাঁকে হার মানাতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sneer, Not a Sentence",
+          "bn": "ঠাট্টার কথা, কারও উপর রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This verse records what one people said to their messenger, and the verses after it record what then befell them (23:39 to 23:41). It describes what the text describes, and it licenses nothing against any living person or community: not against a neighbour who doubts the Hereafter, a relative who asks how the raising could happen, or a stranger whose heart no one can see. A sincere question about the resurrection is not the chiefs' sneer, and the Qur'an itself, as the verses above show, answers such questions with reasons rather than with contempt.",
+            "bn": "এ আয়াত জানায় একটি জাতি তাদের রসূলকে কী বলেছিল, আর পরের আয়াতগুলো জানায় তারপর তাদের কী পরিণতি হয়েছিল (২৩:৩৯ থেকে ২৩:৪১)। আয়াতের বর্ণনা যতটুকু, আয়াত ততটুকুই বলে। জীবিত কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি এ আয়াত দেয় না। আখিরাত নিয়ে সন্দিহান প্রতিবেশী, পুনরুত্থান কীভাবে সম্ভব জানতে চাওয়া আত্মীয়, কিংবা যার অন্তর কেউ দেখতে পায় না এমন অচেনা মানুষ, কারও বিরুদ্ধেই নয়। পুনরুত্থান নিয়ে আন্তরিক প্রশ্ন আর সর্দারদের ঠাট্টা এক জিনিস নয়। উপরের আয়াতগুলোই দেখায়, কুরআন নিজে এমন প্রশ্নের জবাব দেয় যুক্তি দিয়ে, তাচ্ছিল্য দিয়ে নয়।"
+          },
+          {
+            "en": "The verse is better held up as a mirror. The chiefs said their denial aloud, but the same doubt can live quietly in someone who would never say it: in plans that end at the grave, in choices made as if no one will be brought out to answer for them. They called the raising a promise and then pushed it far away. The believer is asked to do the opposite: to take the promise at its word, to let it reach into this week's decisions, and to live as though the day of being brought out is near.",
+            "bn": "আয়াতটিকে বরং আয়না হিসেবে ধরা ভালো। সর্দারেরা নিজেদের অস্বীকৃতি মুখে বলেছিল। কিন্তু একই সন্দেহ এমন মানুষের ভেতরেও চুপচাপ বাস করতে পারে, যে কখনো তা মুখে আনবে না। তার পরিকল্পনা কবরে গিয়েই শেষ হয়, তার সিদ্ধান্তগুলো নেওয়া হয় এমনভাবে, যেন হিসাব দিতে কাউকে আর বের করে আনা হবে না। সর্দারেরা পুনরুত্থানকে ওয়াদা বলেছিল, তারপর ঠেলে দিয়েছিল বহু দূরে। মুমিনের কাছে চাওয়া হয় উল্টোটা: ওয়াদাকে তার কথামতোই গ্রহণ করা, এ সপ্তাহের সিদ্ধান্তেও তাকে জায়গা দেওয়া, আর এমনভাবে বাঁচা যেন বের হওয়ার দিন কাছেই।"
+          }
+        ]
+      }
+    ]
+  },
   "23:38": {
     "sections": [
       {
