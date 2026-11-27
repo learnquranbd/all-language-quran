@@ -1615,6 +1615,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "44:33": {
+    "sections": [
+      {
+        "h": {
+          "en": "Given, After Being Saved",
+          "bn": "রক্ষার পরে দান"
+        },
+        "p": [
+          {
+            "en": "Wa-ataynahum mina-l-ayati ma fihi bala'un mubin: and We gave them of the signs that in which there was a clear trial. The verse closes a short passage on the Children of Israel that opens at 44:30. They were saved from the humiliating torment, from Pharaoh, a haughty one among the transgressors; they were chosen, by knowledge, over the worlds; and now they are given signs. Three verbs speak in Allah's voice: We saved, We chose, We gave. The rescue and the choosing have their own articles. This one stays with the giving, and with the one word that describes what lay inside it.",
+            "bn": "ওয়া আতাইনাহুম মিনাল আয়াতি মা ফীহি বালাউম মুবীন: আর আমি তাদের এমন নিদর্শন দিয়েছিলাম, যাতে ছিল সুস্পষ্ট পরীক্ষা। বানী ইসরাঈলকে নিয়ে ছোট যে অংশটি ৪৪:৩০ আয়াতে শুরু হয়েছে, এ আয়াতে তা শেষ হয়। তাদের রক্ষা করা হয়েছিল অপমানজনক শাস্তি থেকে, ফেরাউনের হাত থেকে, যে ছিল সীমালঙ্ঘনকারীদের মধ্যে উদ্ধত। জেনে বুঝে তাদের বেছে নেওয়া হয়েছিল বিশ্বজগতের উপর। এবার তাদের দেওয়া হলো নিদর্শন। তিনটি ক্রিয়াই আল্লাহর নিজের কণ্ঠে: আমি রক্ষা করেছি, আমি বেছে নিয়েছি, আমি দিয়েছি। রক্ষা আর বেছে নেওয়ার কথা আলাদা প্রবন্ধে এসেছে। এ লেখা থাকবে দেওয়ার কথায়, আর সেই দানের ভেতরে কী ছিল তা বোঝাতে যে একটি শব্দ এসেছে, তার কাছে।"
+          },
+          {
+            "en": "The passage also answers its own beginning. At 44:17 the surah said wa-laqad fatanna qablahum qawma fir'awn, and We had already tried before them the people of Pharaoh, when a noble messenger came to them. The account that began with Pharaoh's people being tried ends with the rescued people being tried as well, this time through gifts. Neither side of the sea was left without a test. Then 44:34 turns straight to inna ha'ula'i, indeed these, the deniers the surah has been addressing, so the story of Israel is set before a later audience as something to weigh, not as an old tale.",
+            "bn": "অংশটির শেষ তার শুরুর সঙ্গে মিলে যায়। ৪৪:১৭ আয়াতে সূরা বলেছিল, ওয়া লাকাদ ফাতান্না কাবলাহুম কাওমা ফিরআউন: এদের আগে আমি ফেরাউনের সম্প্রদায়কে পরীক্ষা করেছিলাম, যখন তাদের কাছে এসেছিলেন এক সম্মানিত রাসূল। যে কাহিনি শুরু হয়েছিল ফেরাউনের লোকদের পরীক্ষা দিয়ে, তা শেষ হচ্ছে রক্ষা পাওয়া লোকদের পরীক্ষা দিয়ে। এবারের পরীক্ষা দানের ভেতর দিয়ে। সাগরের কোনো পাড়ই পরীক্ষার বাইরে থাকেনি। এরপর ৪৪:৩৪ আয়াত সরাসরি ফেরে ইন্না হাউলাই, অর্থাৎ এই লোকদের দিকে, যাদের সূরা এতক্ষণ সম্বোধন করছিল। তাই বানী ইসরাঈলের কাহিনি পুরোনো গল্প হয়ে থাকে না। পরের যুগের শ্রোতার সামনে তা রাখা হয় ভেবে দেখার জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Clarity That Waits",
+          "bn": "যে স্পষ্টতা অপেক্ষা করে"
+        },
+        "p": [
+          {
+            "en": "The verse does not name the signs. It describes them only by what they held: ma fihi, that in which there was. The test is placed inside the gift, as if packed within it from the start rather than added later. Then comes bala'un mubin. Bala' is the word the commentators will divide over, as the next sections show. Mubin, clear or making clear, already tells us something before that division begins: whatever the bala' was, it was not hidden from the people who received it. They could not later say that nothing had been asked of them.",
+            "bn": "আয়াতটি নিদর্শনগুলোর নাম বলে না। শুধু বলে, সেগুলোর ভেতরে কী ছিল: মা ফীহি, যার মধ্যে ছিল। পরীক্ষাটা রাখা হয়েছে দানের ভেতরেই, যেন শুরু থেকেই তার মধ্যে ভরে দেওয়া, পরে জুড়ে দেওয়া নয়। তারপর আসে বালাউম মুবীন। বালা শব্দের অর্থ নিয়ে তাফসীরকারদের মত ভাগ হয়ে যাবে, পরের অংশগুলোতে তা আসছে। কিন্তু সেই মতভেদের আগেই মুবীন শব্দটি একটা কথা জানিয়ে দেয়। মুবীন মানে স্পষ্ট, কিংবা যা স্পষ্ট করে দেয়। বালা যা-ই হোক, যারা তা পেয়েছিল তাদের কাছে তা গোপন ছিল না। পরে তারা বলতে পারত না যে তাদের কাছে কিছুই চাওয়া হয়নি।"
+          },
+          {
+            "en": "Two glosses of mubin are worth setting side by side. At-Tabari reads it as a test that makes plain, li-man ta'ammalahu, to whoever ponders it, that Allah was testing them by it. Ibn Kathir reads it as a test open and evident li-man ihtada bihi, for whoever was guided by it. Both tie the clarity to a person. The signs were plain, yet their plainness reached the one who reflected, or the one who accepted guidance. A clear sign does not force anyone. It stays clear, and it still waits for someone to read it.",
+            "bn": "মুবীন শব্দের দুটি ব্যাখ্যা পাশাপাশি রাখলে একটা কথা ধরা পড়ে। তাবারীর মতে এ এমন পরীক্ষা, যা লিমান তাআম্মালাহু, অর্থাৎ যে ভেবে দেখে তার কাছে স্পষ্ট করে দেয় যে আল্লাহ এর মাধ্যমে তাদের পরীক্ষা করছিলেন। ইবন কাসীরের মতে এ পরীক্ষা খোলা ও প্রকাশ্য লিমানিহতাদা বিহি, অর্থাৎ যে এর দ্বারা হিদায়াত পেয়েছে তার জন্য। দুজনই স্পষ্টতাকে বেঁধেছেন একজন মানুষের সঙ্গে। নিদর্শন ছিল পরিষ্কার। তবু সেই পরিষ্কার কথা পৌঁছেছে তার কাছে, যে ভেবেছে, কিংবা যে হিদায়াত গ্রহণ করেছে। স্পষ্ট নিদর্শন কাউকে জোর করে না। সে স্পষ্টই থাকে, আর অপেক্ষা করে কেউ তাকে পড়বে বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Signs, and for Whom",
+          "bn": "কোন নিদর্শন, কার জন্য"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi first glosses the signs as min al-mu'jizat li-Musa, among the miracles given to Musa (AS). He then sets out three views on which signs are meant, and pairs each with a different audience. The first is Qatada's: the signs were their rescue from Pharaoh, the parting of the sea for them, the shading of cloud over them and the sending down of manna and quails. On this view, he says, the verse is directed to the Children of Israel. At-Tabari and al-Baghawi both carry Qatada's list in nearly the same words.",
+            "bn": "কুরতুবী প্রথমে নিদর্শনের ব্যাখ্যা দেন মিনাল মু'জিযাতি লিমূসা, অর্থাৎ মূসা (আঃ)-কে দেওয়া মু'জিযাগুলোর কিছু। এরপর কোন নিদর্শন বোঝানো হয়েছে, সে বিষয়ে তিনটি মত তুলে ধরেন, আর প্রতিটি মতের সঙ্গে আলাদা শ্রোতা জুড়ে দেন। প্রথম মতটি কাতাদার। তাঁর মতে নিদর্শন হলো ফেরাউনের হাত থেকে তাদের উদ্ধার, তাদের জন্য সাগর চিরে দেওয়া, তাদের মাথার উপর মেঘের ছায়া আর মান্না ও সালওয়া নামানো। কুরতুবী বলেন, এ মত ধরলে আয়াতের কথা বানী ইসরাঈলের উদ্দেশে। তাবারী আর বাগাভীও কাতাদার এ তালিকা প্রায় একই শব্দে উদ্ধৃত করেছেন।"
+          },
+          {
+            "en": "The second view is that the signs were the staff and the hand. Al-Qurtubi does not state flatly whose view this is; he says only that it seems to be the view of al-Farra. On this reading, he says, the address is turned towards Pharaoh's people. The third view is Ibn Zayd's: the signs were the evil Allah held them back from and the good He commanded them to do. Here, al-Qurtubi says, the address takes in both groups together, the people of Pharaoh and the Children of Israel.",
+            "bn": "দ্বিতীয় মত হলো, নিদর্শন বলতে লাঠি আর হাত বোঝানো হয়েছে। মতটি কার, কুরতুবী তা নিশ্চিত করে বলেন না। তিনি শুধু বলেন, এটি সম্ভবত ফাররার মত। তাঁর কথায়, এ ব্যাখ্যায় সম্বোধন ঘুরে যায় ফেরাউনের সম্প্রদায়ের দিকে। তৃতীয় মত ইবন যায়দের। তাঁর মতে নিদর্শন হলো সেই মন্দ, যা থেকে আল্লাহ তাদের বিরত রেখেছেন, আর সেই ভালো, যার আদেশ তিনি তাদের দিয়েছেন। কুরতুবী বলেন, এ ব্যাখ্যায় সম্বোধন দুই দলকেই একসঙ্গে ধরে: ফেরাউনের সম্প্রদায় আর বানী ইসরাঈল।"
+          },
+          {
+            "en": "Other sources lean towards the miracles of Musa (AS). The Muyassar glosses the signs as al-mu'jizat 'ala yad Musa, the miracles at the hand of Musa. Ma'arif al-Qur'an names the staff and the shining hand, and adds 'and others'. As-Sa'di calls them dazzling signs and evident miracles. None of these lists is offered as the only one, and none is a rival account of what happened. They are ways of drawing a circle round gifts the verse leaves unnamed.",
+            "bn": "অন্য কয়েকটি সূত্র মূসা (আঃ)-এর মু'জিযার দিকেই ঝোঁকে। মুয়াসসার নিদর্শনের ব্যাখ্যা দেয় আলমু'জিযাতু আলা ইয়াদি মূসা, অর্থাৎ মূসার হাতে প্রকাশিত মু'জিযা। মাআরিফুল কুরআন নাম করে লাঠি আর উজ্জ্বল হাতের, সঙ্গে যোগ করে 'এবং আরও কিছু'। সা'দী এগুলোকে বলেন চোখ ধাঁধানো নিদর্শন আর প্রকাশ্য মু'জিযা। এর কোনো তালিকাই একমাত্র তালিকা হিসেবে আসেনি। ঘটনার পাল্টা কোনো বিবরণও এগুলো নয়। আয়াত নিজে যে দানগুলোর নাম বলেনি, সেগুলোর চারপাশে সীমারেখা টানার এগুলো ভিন্ন ভিন্ন চেষ্টা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Noun, Four Readings",
+          "bn": "এক বিশেষ্য, চার পাঠ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi then gives four senses for bala' mubin. The first is ni'ma zahira, an evident favour, which he gives from al-Hasan and Qatada. He supports it from the Qur'an and from poetry. In 8:17 the same root appears in wa-li-yubliya al-mu'minina minhu bala'an hasana, that He might test the believers with a good test, where the good bala' is something given to them. He also quotes a half-line of the poet Zuhayr, fa-ablahuma khayra al-bala'i alladhi yablu, as a witness that the word can carry the sense of doing someone good.",
+            "bn": "এরপর কুরতুবী বালাউম মুবীন-এর চারটি অর্থ দেন। প্রথমটি নি'মাতুন যাহিরা, প্রকাশ্য নিয়ামত। এ অর্থ তিনি এনেছেন হাসান ও কাতাদা থেকে। এর পক্ষে তিনি কুরআন থেকেও দলিল দেন, কবিতা থেকেও। ৮:১৭ আয়াতে একই ধাতু এসেছে ওয়া লিইউবলিয়াল মু'মিনীনা মিনহু বালাআন হাসানা বাক্যে: যাতে তিনি মু'মিনদের এক উত্তম পরীক্ষায় ফেলেন। সেখানে উত্তম বালা বলতে তাদের দেওয়া কিছুই বোঝায়। কবি যুহাইরের একটি পঙক্তির অংশও তিনি উদ্ধৃত করেন, ফাআবলাহুমা খাইরাল বালাইল্লাযী ইয়াবলূ। এটি তাঁর সাক্ষী যে শব্দটি কারও উপকার করার অর্থও বহন করতে পারে।"
+          },
+          {
+            "en": "The second sense runs the other way: 'adhab shadid, a severe punishment, which al-Qurtubi gives from al-Farra. The third is ikhtibar yatamayyazu bihi al-mu'min min al-kafir, a test by which the believer is told apart from the disbeliever, from 'Abd al-Rahman ibn Zayd. From Ibn Zayd too he gives a fourth: their trial by ease and by hardship, after which Ibn Zayd recited 21:35, wa-nablukum bi-sh-sharri wa-l-khayri fitna, and We test you with evil and with good as a trial. One noun has been read as a gift, a punishment, a sifting, and a test by both.",
+            "bn": "দ্বিতীয় অর্থ একেবারে উল্টো দিকে যায়: আযাবুন শাদীদ, কঠিন শাস্তি। কুরতুবী এ অর্থ এনেছেন ফাররা থেকে। তৃতীয় অর্থ ইখতিবারুন ইয়াতামাইয়াযু বিহিল মু'মিনু মিনাল কাফির: এমন পরীক্ষা, যা মু'মিনকে কাফির থেকে আলাদা করে দেয়। এটি আবদুর রহমান ইবন যায়দের কথা। চতুর্থ অর্থও তিনি এনেছেন ইবন যায়দ থেকে: সচ্ছলতা আর কষ্ট, দুটো দিয়েই তাদের পরীক্ষা। এরপর ইবন যায়দ ২১:৩৫ আয়াত পড়েছিলেন, ওয়া নাবলূকুম বিশশাররি ওয়াল খাইরি ফিতনা: আমি তোমাদের মন্দ আর ভালো দিয়ে পরীক্ষা করি। একটি বিশেষ্যকে তাই পড়া হয়েছে চারভাবে: দান, শাস্তি, বাছাই, আর দুই দিক থেকেই পরীক্ষা।"
+          },
+          {
+            "en": "Al-Qurtubi does not join the two lists himself, but read together they fit. Qatada's signs, the rescue and the food sent down, sit naturally with bala' as favour, and Qatada is named for both. The staff and the hand, which al-Qurtubi thinks resembles al-Farra's view and turns towards Pharaoh's people, sit with bala' as severe punishment, which he gives from al-Farra. Ibn Zayd's signs, the evil restrained and the good commanded, sit with a test that sorts believer from disbeliever on either side of the sea.",
+            "bn": "কুরতুবী নিজে দুটি তালিকা জোড়া লাগাননি। তবে পাশাপাশি পড়লে তারা মিলে যায়। কাতাদার নিদর্শন, অর্থাৎ উদ্ধার আর নামিয়ে দেওয়া খাবার, স্বাভাবিকভাবেই নিয়ামত অর্থের বালার সঙ্গে খাপ খায়। দুই জায়গাতেই কাতাদার নাম আছে। লাঠি আর হাতের মত, যাকে কুরতুবী ফাররার মতের মতো মনে করেন এবং ফেরাউনের সম্প্রদায়ের দিকে ফেরান, খাপ খায় কঠিন শাস্তি অর্থের সঙ্গে, যা তিনি ফাররা থেকেই এনেছেন। আর ইবন যায়দের নিদর্শন, অর্থাৎ নিষেধ করা মন্দ আর আদেশ করা ভালো, মেলে সেই পরীক্ষার সঙ্গে, যা সাগরের দুই পাড়েই মু'মিনকে কাফির থেকে আলাদা করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Favour and Test in One",
+          "bn": "নিয়ামতও যখন পরীক্ষা"
+        },
+        "p": [
+          {
+            "en": "The shorter commentaries each lean one way, without denying the other. As-Sa'di reads bala' as ihsanun kathirun zahir, abundant and evident goodness from Allah to them, and in the same breath as a proof against them for the truth of what Musa (AS) brought. Ma'arif al-Qur'an translates the phrase as a manifest blessing, then adds that bala' has two senses, blessing and trial, and that both are possible here, citing al-Qurtubi. The Muyassar goes the other way and glosses it as their trial and testing, by ease and by hardship.",
+            "bn": "সংক্ষিপ্ত তাফসীরগুলো একেকটি একেক দিকে ঝোঁকে, তবে অন্য দিকটা অস্বীকার করে না। সা'দী বালা পড়েন ইহসানুন কাসীরুন যাহির অর্থে: তাদের প্রতি আল্লাহর পক্ষ থেকে প্রচুর ও প্রকাশ্য অনুগ্রহ। একই নিঃশ্বাসে তিনি একে বলেন তাদের বিরুদ্ধে দলিল, মূসা (আঃ) যা নিয়ে এসেছিলেন তার সত্যতার প্রমাণ। মাআরিফুল কুরআন বাক্যাংশটির অনুবাদ করে প্রকাশ্য নিয়ামত। তারপর কুরতুবীর বরাতে যোগ করে, বালা শব্দের দুই অর্থ, নিয়ামত ও পরীক্ষা, আর এখানে দুটোই সম্ভব। মুয়াসসার যায় অন্য দিকে। তার ব্যাখ্যায় এর অর্থ তাদের পরীক্ষা ও যাচাই, সচ্ছলতা দিয়েও, কষ্ট দিয়েও।"
+          },
+          {
+            "en": "The two senses are less opposed than they first look. A favour that is evident is also a favour that will be asked about, which is why as-Sa'di can call the same gifts goodness and proof in one sentence. Manna sent down from above is a kindness, and it is also a question: will the one who eats it give thanks, obey, and hold to the truth the signs were pointing to? Arabic keeps both in one noun. The verse shows that the gift and the exam arrived together.",
+            "bn": "প্রথম দেখায় দুই অর্থকে যতটা বিপরীত মনে হয়, আসলে ততটা নয়। যে নিয়ামত প্রকাশ্য, সে নিয়ামতের হিসাবও চাওয়া হবে। তাই সা'দী এক বাক্যেই একই দানকে অনুগ্রহও বলতে পারেন, দলিলও বলতে পারেন। উপর থেকে নামানো মান্না এক দয়া। আবার তা এক প্রশ্নও: যে খাচ্ছে, সে কি শোকর করবে, আনুগত্য করবে, নিদর্শনগুলো যে সত্যের দিকে ইশারা করছিল তা আঁকড়ে থাকবে? আরবি ভাষা দুটো অর্থকে এক বিশেষ্যে ধরে রাখে। আয়াতটি দেখিয়ে দেয়, দান আর পরীক্ষা এসেছিল একসঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where At-Tabari Will Not Narrow",
+          "bn": "তাবারী যেখানে অর্থ সংকুচিত করেন না"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens with his own gloss: Allah gave them, of lessons and admonitions, that in which lay a test. He then records that the people of interpretation differed over the test. Some said Allah tried them by His blessings to them, and he cites Qatada's list of rescue, sea, cloud, manna and quails. Others said He tried them by ease and hardship, and he cites Ibn Zayd, who recited 21:35 and spoke of a trial to see who would believe in the signs and benefit from them, and who would let them go to waste.",
+            "bn": "তাবারী শুরু করেন নিজের ব্যাখ্যা দিয়ে: আল্লাহ তাদের শিক্ষা ও উপদেশের এমন কিছু দিয়েছিলেন, যার মধ্যে ছিল পরীক্ষা। তারপর তিনি জানান, এ পরীক্ষা নিয়ে তাফসীরবিদদের মতভেদ আছে। কেউ বলেছেন, আল্লাহ তাদের পরীক্ষা করেছেন তাদের দেওয়া নিয়ামত দিয়ে। এর পক্ষে তিনি কাতাদার তালিকা আনেন: উদ্ধার, সাগর, মেঘ, মান্না ও সালওয়া। অন্যরা বলেছেন, পরীক্ষা ছিল সচ্ছলতা আর কষ্ট দিয়ে। এর পক্ষে আনেন ইবন যায়দকে, যিনি ২১:৩৫ আয়াত পড়ে বলেছিলেন, এ পরীক্ষা দেখার জন্য কে নিদর্শনে ঈমান আনে আর তা থেকে উপকার নেয়, আর কে তা নষ্ট করে।"
+          },
+          {
+            "en": "His verdict is worth reading for its method. Allah has told us that He gave the Children of Israel signs that held their trial; a trial can come through ease and it can come through hardship; and He has set no evidence, lam yada' lana dalilan min khabarin wa-la 'aqlin, neither from a report nor from reason, that He meant one and not the other. Allah had in fact tested them by both. So the right course, at-Tabari concludes, is to say what Allah said: that He tested them.",
+            "bn": "তাঁর রায়টি পড়ার মতো, বিশেষ করে তার পদ্ধতির জন্য। আল্লাহ জানিয়েছেন, তিনি বানী ইসরাঈলকে এমন নিদর্শন দিয়েছিলেন, যাতে তাদের পরীক্ষা ছিল। পরীক্ষা সচ্ছলতা দিয়েও আসতে পারে, কষ্ট দিয়েও আসতে পারে। আর তিনি আমাদের জন্য কোনো দলিল রাখেননি, লাম ইয়াদা' লানা দালীলান মিন খাবারিন ওয়ালা আকলিন, না কোনো বর্ণনা থেকে, না যুক্তি থেকে, যে তিনি একটা বুঝিয়েছেন আর অন্যটা নয়। বাস্তবে আল্লাহ তাদের দুটো দিয়েই পরীক্ষা করেছিলেন। তাই তাবারীর সিদ্ধান্ত, সঠিক পথ হলো আল্লাহ যা বলেছেন তা-ই বলা: তিনি তাদের পরীক্ষা করেছেন।"
+          },
+          {
+            "en": "There is a discipline here for every reader. Where the Qur'an uses a wide word and nothing in a report or in reason narrows it, the honest course is to leave it as wide as Allah left it, rather than settle on the one reading that suits an argument. None of the commentaries fetched for this verse attaches a hadith to it, and this article quotes none. What the verse needs is already in its own words and in the verses it was read beside, 8:17 and 21:35.",
+            "bn": "এখানে প্রত্যেক পাঠকের জন্য একটা শৃঙ্খলার শিক্ষা আছে। কুরআন যেখানে প্রশস্ত অর্থের শব্দ ব্যবহার করেছে, আর কোনো বর্ণনা বা যুক্তি তাকে সংকুচিত করে না, সেখানে সৎ পথ হলো আল্লাহ যতটা প্রশস্ত রেখেছেন ততটাই রাখা। কোনো যুক্তির সুবিধামতো একটি অর্থে আটকে যাওয়া নয়। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, এ প্রবন্ধও কোনো হাদীস উদ্ধৃত করছে না। আয়াতের যা দরকার, তা তার নিজের শব্দেই আছে, আর আছে যে আয়াতগুলোর পাশে রেখে তাকে পড়া হয়েছে সেগুলোতে: ৮:১৭ ও ২১:৩৫।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing Against Anyone Living",
+          "bn": "জীবিত কারও উপর কোনো রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying firmly. The verse describes what Allah gave the Children of Israel in the time of Musa (AS), and what lay inside that gift. It licenses nothing against any living Jewish person or community. It supports no political reading, for or against, of any people, religion or state of the present day. No commentator cited here draws such a line, nor does this article. Whoever turns 44:33 into a charge against people now alive has stepped outside the verse and outside everything said about it above.",
+            "bn": "কথাটা দৃঢ়ভাবে বলা দরকার। আয়াতটি বর্ণনা করে মূসা (আঃ)-এর যুগে আল্লাহ বানী ইসরাঈলকে কী দিয়েছিলেন, আর সেই দানের ভেতরে কী ছিল। আজকের কোনো ইহুদি ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। বর্তমান যুগের কোনো জাতি, ধর্ম বা রাষ্ট্রের পক্ষে বা বিপক্ষে কোনো রাজনৈতিক ব্যাখ্যারও এতে জায়গা নেই। এখানে উদ্ধৃত কোনো তাফসীরকার এমন রেখা টানেননি, এ প্রবন্ধও টানছে না। কেউ যদি ৪৪:৩৩ আয়াতকে আজ জীবিত মানুষের বিরুদ্ধে অভিযোগ বানায়, তবে সে আয়াতের সীমা ছাড়িয়েছে, উপরে বলা সব ব্যাখ্যার সীমাও ছাড়িয়েছে।"
+          },
+          {
+            "en": "The verse itself points the other way. Its very next words, inna ha'ula'i, these, turn to the people who were hearing the Qur'an, so the lesson moves at once from a past people to the present listener. Ibn Zayd's reading cuts across every group: the trial sorts believer from disbeliever wherever it falls. And 21:35, the verse he recited, is spoken in the second person: We test you. A Muslim reader who sees the test only in someone else's history has not yet read the verse he was given.",
+            "bn": "আয়াতটি নিজেই উল্টো দিকে ইশারা করে। এর ঠিক পরের শব্দ ইন্না হাউলাই, অর্থাৎ এই লোকেরা, ফিরে যায় তাদের দিকে, যারা তখন কুরআন শুনছিল। ফলে শিক্ষাটা অতীতের এক জাতি থেকে সঙ্গে সঙ্গে সরে আসে বর্তমান শ্রোতার কাছে। ইবন যায়দের ব্যাখ্যা কোনো দলের সীমা মানে না। পরীক্ষা যেখানেই আসে, মু'মিন আর কাফিরকে আলাদা করে দেয়। আর তিনি যে আয়াত পড়েছিলেন, সেই ২১:৩৫ সরাসরি সম্বোধন করে: আমি তোমাদের পরীক্ষা করি। যে মুসলিম পাঠক পরীক্ষাটা শুধু অন্যের ইতিহাসে দেখে, সে এখনো তার নিজের জন্য দেওয়া আয়াতটি পড়েনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gifts That Ask Something Back",
+          "bn": "যে দান কিছু ফেরত চায়"
+        },
+        "p": [
+          {
+            "en": "For any reader the verse leaves a working question. What signs have I been given? They may not be a parted sea or bread from the sky. They may be a recovery, a door that opened, a prayer answered in a way I did not expect, a year of plenty, or a hardship that brought me back to Allah. Each of these, on at-Tabari's reading, can be the test in either of its forms, and none of them came empty. Something was folded inside each one, waiting to see what I would do.",
+            "bn": "যেকোনো পাঠকের জন্য আয়াতটি একটা কাজের প্রশ্ন রেখে যায়। আমাকে কোন কোন নিদর্শন দেওয়া হয়েছে? সেগুলো চিরে যাওয়া সাগর কিংবা আসমান থেকে নামা খাবার না-ও হতে পারে। হতে পারে রোগ থেকে সেরে ওঠা, খুলে যাওয়া কোনো দরজা, অপ্রত্যাশিত পথে কবুল হওয়া কোনো দোয়া, সচ্ছলতার একটা বছর, কিংবা এমন কোনো কষ্ট, যা আমাকে আল্লাহর দিকে ফিরিয়ে এনেছে। তাবারীর ব্যাখ্যা অনুযায়ী এর প্রতিটিই দুই রূপের যেকোনো রূপে পরীক্ষা হতে পারে। কোনোটিই খালি হাতে আসেনি। প্রতিটির ভেতরে কিছু একটা গুঁজে রাখা ছিল, দেখার জন্য আমি কী করি।"
+          },
+          {
+            "en": "The Children of Israel in the age of Musa (AS) were saved, chosen and given, and the verse calls what they were given a clear trial. Every later reader stands somewhere in the same pattern. Ease asks for gratitude and for using what was given in the way it was given for; hardship asks for patience and for turning back. Ibn Zayd put the question plainly: who believes in the signs and benefits from them, and who lets them go to waste. That question is still being asked, and the answer is still being written.",
+            "bn": "মূসা (আঃ)-এর যুগে বানী ইসরাঈলকে রক্ষা করা হয়েছিল, বেছে নেওয়া হয়েছিল, দান করা হয়েছিল। আর সেই দানকে আয়াতটি বলছে সুস্পষ্ট পরীক্ষা। পরের যুগের প্রত্যেক পাঠকও কোথাও না কোথাও এই একই ছকের ভেতরে দাঁড়িয়ে। সচ্ছলতা চায় শোকর, আর যে কাজের জন্য দেওয়া হয়েছে সে কাজে তা লাগানো। কষ্ট চায় সবর, আর আল্লাহর দিকে ফিরে আসা। ইবন যায়দ প্রশ্নটা সোজাসুজি রেখেছিলেন: কে নিদর্শনে ঈমান আনে আর উপকার নেয়, আর কে তা নষ্ট করে। সে প্রশ্ন আজও করা হচ্ছে। উত্তরটাও এখনো লেখা হচ্ছে।"
+          }
+        ]
+      }
+    ]
+  },
   "44:38": {
     "sections": [
       {

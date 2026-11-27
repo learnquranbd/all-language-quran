@@ -37993,6 +37993,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Come to the Qur'an awake: listen to it as a word Allah swears by and a warning sent in mercy, not as background sound while your mind is elsewhere.",
     "lessonBn": "কুরআনের কাছে আসুন জেগে থেকে। একে শুনুন আল্লাহর শপথ করা বাণী আর রহমত হিসেবে পাঠানো সতর্কবাণী হিসেবে, মন অন্যখানে রেখে পেছনের আওয়াজের মতো নয়।"
+  },
+  "44:33": {
+    "reflectionEn": "The sea closed over Pharaoh, and those who crossed it were given more: shade from the cloud, food sent down from above, sign after sign. The verse sums all of it up in one word, bala', and that word means both a favour and a trial. A sign could bring a person nearer to Allah, or be enjoyed and forgotten. Ease came with those signs, and so did hardship. The verse does not hide the test inside the gift; it names it. I read it about myself. Every easy year and every hard one has reached me with the same question folded inside it. Do I read my comforts as signs, or only enjoy them? And when it hurts, do I see a test, or just bad luck?",
+    "reflectionBn": "সাগর ফেরাউনকে গ্রাস করে নিল। যারা পার হয়ে এল, তারা এরপর আরও পেল: মেঘের ছায়া, উপর থেকে নামানো খাবার, একের পর এক নিদর্শন। আয়াতটি এসবকে এক শব্দে বেঁধে দেয়, বালা। এ শব্দের এক অর্থ নিয়ামত, আরেক অর্থ পরীক্ষা। নিদর্শন মানুষকে আল্লাহর কাছে নিয়ে যেতে পারে। আবার শুধু ভোগ করে ভুলেও যাওয়া যায়। সেসব নিদর্শনের সঙ্গে সচ্ছলতা এসেছিল, কষ্টও এসেছিল। দানের ভেতরে যে পরীক্ষা লুকানো, আয়াতটি তা চেপে রাখে না, খোলাখুলি বলে দেয়। আমি আয়াতটা নিজের দিকে ফিরিয়ে পড়ি। আমার জীবনের প্রতিটি সহজ বছর আর প্রতিটি কঠিন বছর একই প্রশ্ন বুকে নিয়ে এসেছে। আমার আরামগুলোকে কি আমি নিদর্শন হিসেবে পড়ি, নাকি শুধু উপভোগ করি? আর যখন কষ্ট আসে, তখন কি পরীক্ষা দেখি, নাকি শুধু দুর্ভাগ্য?",
+    "pointsEn": [
+      "Which comfort in my life have I been enjoying for years without once asking what it asks of me?",
+      "When hardship comes, do I treat it as a test from Allah, or only as bad luck to be got through?",
+      "What signs has Allah shown me, an answered prayer, a narrow escape, a plain mercy, that I have since let slip from memory?",
+      "If my blessings were read back to me as an exam paper, which answers would I most want to change?",
+      "Do I measure other people by what they were given, while forgetting that I will be asked about what I was given?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন আরামটা আমি বছরের পর বছর ভোগ করে যাচ্ছি, অথচ একবারও ভাবিনি সেটা আমার কাছে কী চায়?",
+      "কষ্ট এলে আমি কি একে আল্লাহর পরীক্ষা হিসেবে নিই, নাকি শুধু কোনোমতে পার করার মতো দুর্ভাগ্য ভাবি?",
+      "আল্লাহ আমাকে কোন কোন নিদর্শন দেখিয়েছেন, কবুল হওয়া কোনো দোয়া, অল্পের জন্য বেঁচে যাওয়া, সোজাসাপটা কোনো রহমত, যা পরে আমি ভুলে বসেছি?",
+      "আমার নিয়ামতগুলো যদি পরীক্ষার খাতার মতো আমাকে পড়ে শোনানো হয়, কোন উত্তরগুলো আমি সবচেয়ে বেশি বদলাতে চাইব?",
+      "অন্যকে কি আমি মাপি সে কী পেয়েছে তা দিয়ে, অথচ ভুলে যাই যে আমাকে কী দেওয়া হয়েছে সে বিষয়েই আমাকে জিজ্ঞেস করা হবে?"
+    ],
+    "lessonEn": "Every gift and every hardship from Allah is a test; meet the first with gratitude and the second with patience, and let both bring you nearer to Him.",
+    "lessonBn": "আল্লাহর দেওয়া প্রতিটি নিয়ামত আর প্রতিটি কষ্টই পরীক্ষা। নিয়ামতের জবাব দিন শোকর দিয়ে, কষ্টের জবাব সবর দিয়ে, আর দুটোকেই তাঁর আরও কাছে যাওয়ার পথ বানান।"
   }
 };
 
