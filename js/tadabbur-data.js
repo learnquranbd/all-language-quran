@@ -37913,6 +37913,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not keep arguing or postponing as if time were endless; the Hour comes without notice, so act today on the truth you already know.",
     "lessonBn": "সময় যেন অফুরন্ত, এমন ভেবে তর্ক আর গড়িমসি চালিয়ে যাবেন না। কিয়ামত আসবে কোনো আগাম খবর ছাড়াই, তাই যে সত্য আপনি ইতিমধ্যে জানেন, আজই তার উপর আমল করুন।"
+  },
+  "43:39": {
+    "reflectionEn": "Two who walked together reach the end of the road together. One of them now wishes there were the width of east and west between himself and the other, and the wish changes nothing. Then comes the answer: it will not help you today, since you did wrong, that you share in the punishment. In this world a shared misfortune somehow weighs less, and people take comfort in others who suffer the same. That Day even this comfort is gone, and each carries a full share of his own. The verse describes what it describes and places no living person there. It turns me back to the companions I choose now: the voices I let near me, and where they are walking me.",
+    "reflectionBn": "যারা একসঙ্গে পথ চলেছে, পথের শেষেও তারা একসঙ্গে পৌঁছায়। তাদের একজন এখন চায়, সঙ্গীর আর তার মাঝে পূর্ব-পশ্চিমের দূরত্ব থাকুক। কিন্তু এ চাওয়ায় কিছুই বদলায় না। তারপর আসে জবাব: তোমরা জুলুম করেছিলে, তাই আজ শাস্তিতে একে অপরের শরিক হওয়া তোমাদের কোনো কাজে আসবে না। দুনিয়ায় বিপদ ভাগ হলে কেমন যেন হালকা লাগে, একই কষ্টে থাকা অন্যদের দেখে মানুষ সান্ত্বনা পায়। সেদিন এই সান্ত্বনাটুকুও থাকবে না, প্রত্যেকে বইবে নিজের পুরো ভাগ। আয়াতটি যা বর্ণনা করে তা-ই বর্ণনা করে, কোনো জীবিত মানুষকে সেখানে বসিয়ে দেয় না। বরং আমাকে ফিরিয়ে আনে আজকের সঙ্গীদের কাছে: কাদের কথা আমি কাছে টেনে নিই, আর তারা আমাকে কোন দিকে নিয়ে যাচ্ছে।",
+    "pointsEn": [
+      "Whose company, people or voices, most shapes what I take to be right?",
+      "Have I ever eased my conscience by telling myself that everyone around me was doing the same?",
+      "If I could put distance between myself and one influence today, which would it be, and what is stopping me?",
+      "When regret comes to me now, do I turn it into change while change can still help?",
+      "Do I read this verse as a warning to myself, or do I use it to picture someone else in the punishment?"
+    ],
+    "pointsBn": [
+      "কাদের সঙ্গ, মানুষ হোক বা কোনো কণ্ঠস্বর, আমার ঠিক-বেঠিকের ধারণাকে সবচেয়ে বেশি গড়ে দেয়?",
+      "আশপাশের সবাই একই কাজ করছে, এ কথা বলে কখনো কি নিজের বিবেককে শান্ত করেছি?",
+      "আজ যদি কোনো একটি প্রভাব থেকে নিজেকে দূরে সরাতে পারতাম, সেটা কোনটা হতো? আর আমাকে আটকে রাখছে কী?",
+      "এখন যখন অনুশোচনা আসে, পরিবর্তনের সুযোগ থাকতেই কি আমি তাকে পরিবর্তনে রূপ দিই?",
+      "এ আয়াতকে আমি কি নিজের জন্য সতর্কবাণী হিসেবে পড়ি, নাকি অন্য কাউকে শাস্তির মধ্যে কল্পনা করতে কাজে লাগাই?"
+    ],
+    "lessonEn": "Shared wrong is not lighter wrong: choose your companions while choosing still helps, and take no comfort from a crowd that does what you do.",
+    "lessonBn": "ভাগ করা অন্যায় হালকা অন্যায় নয়: বাছাইয়ের সুযোগ থাকতেই সঙ্গী বেছে নিন, আর আপনার মতো কাজ করা ভিড় দেখে সান্ত্বনা খুঁজবেন না।"
   }
 };
 

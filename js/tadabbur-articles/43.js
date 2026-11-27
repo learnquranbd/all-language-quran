@@ -2347,6 +2347,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:39": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Reply to a Late Wish",
+          "bn": "দেরির আকাঙ্ক্ষার জবাব"
+        },
+        "p": [
+          {
+            "en": "Wa-lan yanfa'akumu al-yawma idh zalamtum annakum fi al-'adhabi mushtarikun: and it will never benefit you today, since you did wrong, that you are sharers in the punishment. The verse closes a short scene that began at 43:36 with whoever turns away from the remembrance of the Most Merciful and the companion assigned to him. In 43:38 that man reaches Allah and wishes there were the distance of the two easts between himself and his companion. This verse is what he hears next.",
+            "bn": "ওয়া লান ইয়ানফা'আকুমুল ইয়াওমা ইয জালামতুম আন্নাকুম ফিল 'আযাবি মুশতারিকূন: তোমরা জুলুম করেছিলে, তাই আজ শাস্তিতে তোমাদের শরিক হওয়া তোমাদের কোনো কাজেই আসবে না। ৪৩:৩৬ আয়াতে যে ছোট দৃশ্যের শুরু, এ আয়াতে তার সমাপ্তি। সেখানে আছে দয়াময়ের স্মরণ থেকে মুখ ফিরিয়ে নেওয়া এক ব্যক্তি, আর তার জন্য নিয়োজিত এক সঙ্গী। ৪৩:৩৮ আয়াতে লোকটি আল্লাহর কাছে পৌঁছে চায়, তার আর সঙ্গীর মাঝে দুই পূর্বের দূরত্ব থাকুক। এরপর সে যা শোনে, সেটাই এই আয়াত।"
+          },
+          {
+            "en": "Notice the pronouns. Verse 43:38 speaks of one man in the singular: he comes, he says. Verse 43:39 turns to a plural you. Ibn Kathir, in the abridged English of his commentary, records that some recited the earlier verse with the verb in the dual, hatta idha ja'ana: till, when the two of them come to Us, meaning the companion devil and the one he accompanied. On that reading the two arrive side by side, and the plural address that follows takes in both of them.",
+            "bn": "সর্বনামগুলো খেয়াল করুন। ৪৩:৩৮ আয়াতে কথা একবচনে, একজন মানুষকে নিয়ে: সে আসে, সে বলে। ৪৩:৩৯ আয়াতে সম্বোধন বহুবচনে, তোমরা। ইবন কাসীরের তাফসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে আছে, কেউ কেউ আগের আয়াতটির ক্রিয়া পড়েছেন দ্বিবচনে, হাত্তা ইযা জা'আনা, অর্থাৎ যখন তারা দুজন আমার কাছে আসবে। দুজন বলতে সঙ্গী শয়তান আর যাকে সে সঙ্গ দিত। এই পাঠ অনুযায়ী দুজনে পৌঁছায় পাশাপাশি। তাই পরের বহুবচনের সম্বোধনে দুজনই এসে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the Plural Gathers",
+          "bn": "বহুবচনে কারা জড়ো"
+        },
+        "p": [
+          {
+            "en": "At-Tabari names the addressees directly: ayyuha al-'ashuna 'an dhikri Allah fi al-dunya, you who turned blindly from the remembrance of Allah in the world. Al-Qurtubi frames the whole sentence as words Allah speaks to the disbeliever, yaqulu Allahu lil-kafir. The Muyassar opens in the same way, ayyuha al-mu'ridun, you who turned away, and then widens the circle: you and your companions, antum wa qurana'ukum, the very companions of 43:36.",
+            "bn": "তাবারী সম্বোধিতদের নাম সরাসরি বলে দেন: আইয়ুহাল 'আশূনা 'আন যিকরিল্লাহি ফিদ দুনইয়া, হে তোমরা, যারা দুনিয়ায় আল্লাহর স্মরণ থেকে অন্ধের মতো মুখ ফিরিয়েছিলে। কুরতুবীর মতে পুরো বাক্যটি আল্লাহর কথা, যা তিনি কাফিরকে বলবেন: ইয়াকূলুল্লাহু লিল কাফির। মুয়াসসারও শুরু করে একইভাবে, আইয়ুহাল মু'রিদূন, হে মুখ ফিরিয়ে নেওয়া লোকেরা। তারপর পরিধি বাড়িয়ে বলে: তোমরা আর তোমাদের সঙ্গীরা, আনতুম ওয়া কুরানাউকুম। এরা ৪৩:৩৬ আয়াতের সেই সঙ্গীরাই।"
+          },
+          {
+            "en": "As-Sa'di widens it further: you, your companions and your intimate friends, antum wa qurana'ukum wa akhilla'ukum. Al-Baghawi speaks of each one of the disbelievers and the devils. Ibn Kathir's gloss is addressed to a pair: your being together in the Fire will not help you, and you will both partake of the painful punishment. However they word it, these commentators read the plural as reaching both sides of the companionship that 43:36 described, the man who turned away and the devil assigned to him.",
+            "bn": "সা'দী পরিধি আরও বাড়ান: তোমরা, তোমাদের সঙ্গীরা আর তোমাদের অন্তরঙ্গ বন্ধুরা, আনতুম ওয়া কুরানাউকুম ওয়া আখিল্লাউকুম। বাগাভী বলেন কাফির আর শয়তানদের প্রত্যেকের কথা। ইবন কাসীরের ব্যাখ্যা দুজনকে উদ্দেশ করে: আগুনে তোমাদের একসঙ্গে থাকা তোমাদের কোনো উপকারে আসবে না, তোমরা দুজনেই যন্ত্রণাদায়ক শাস্তির ভাগ নেবে। ভাষা যার যেমনই হোক, এই তাফসীরকারেরা বহুবচনটিকে পড়েন ৪৩:৩৬ আয়াতের সেই সঙ্গের দুই পক্ষের জন্যই। একজন সে, যে মুখ ফিরিয়েছিল। অন্যজন সে, যাকে তার জন্য নিয়োজিত করা হয়েছিল।"
+          },
+          {
+            "en": "The word as-Sa'di reaches for, akhilla', intimate friends, is the word the surah itself uses later, in 43:67: al-akhilla'u yawma'idhin ba'duhum li-ba'din 'aduwwun illa al-muttaqin, close friends on that Day will be enemies to each other, except the righteous. Read beside it, 43:39 shows such a friendship at its end. The wish in 43:38 has already turned the friend into a wretched companion, and now even being together brings no relief.",
+            "bn": "সা'দী যে শব্দটি বেছে নেন, আখিল্লা, মানে অন্তরঙ্গ বন্ধুরা, সূরাটি নিজেও পরে সেই শব্দই ব্যবহার করে, ৪৩:৬৭ আয়াতে: আল আখিল্লাউ ইয়াওমাইযিন বা'দুহুম লিবা'দিন 'আদুওউন ইল্লাল মুত্তাকীন। সেদিন অন্তরঙ্গ বন্ধুরা একে অপরের শত্রু হবে, মুত্তাকীরা ছাড়া। পাশাপাশি পড়লে ৪৩:৩৯ আয়াত এমন বন্ধুত্বের শেষ পরিণতিটা দেখায়। ৪৩:৩৮ আয়াতের আকাঙ্ক্ষাতেই বন্ধু হয়ে গেছে নিকৃষ্ট সহচর। আর এখন একসঙ্গে থাকাতেও কোনো স্বস্তি নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Sharing, or the Lament",
+          "bn": "শরিকানা, নাকি হা-হুতাশ"
+        },
+        "p": [
+          {
+            "en": "What exactly will not benefit them? Most of the commentators fetched for this verse answer: the sharing itself. At-Tabari puts it as lan yukhaffafa 'ankum al-yawma min 'adhabi Allahi ishtirakukum fihi: your sharing in Allah's punishment will not lighten any of it for you today. Ibn Kathir, al-Baghawi, the Muyassar and as-Sa'di run along the same line. On this reading the verse answers a hope the sufferers might hold, that pain spread over many falls lighter on each.",
+            "bn": "ঠিক কোন জিনিসটা তাদের কাজে আসবে না? এ আয়াতের জন্য সংগ্রহ করা তাফসীরগুলোর বেশিরভাগের উত্তর: শরিক হওয়াটাই। তাবারীর ভাষায়, লান ইউখাফফাফা 'আনকুমুল ইয়াওমা মিন 'আযাবিল্লাহি ইশতিরাকুকুম ফীহি: আল্লাহর শাস্তিতে তোমাদের শরিকানা আজ সেই শাস্তির কিছুই তোমাদের থেকে হালকা করবে না। ইবন কাসীর, বাগাভী, মুয়াসসার আর সা'দীও একই পথে চলেন। এই পাঠে আয়াতটি শাস্তিপ্রাপ্তদের একটি সম্ভাব্য আশার জবাব দেয়। আশাটা হলো, কষ্ট অনেকের মাঝে ছড়িয়ে পড়লে প্রত্যেকের ভাগে কম পড়ে।"
+          },
+          {
+            "en": "Al-Qurtubi opens with another reading. Allah tells the disbeliever that this speech of his will not benefit him today, meaning his cry would that between me and you were the distance of the two easts: la tanfa'u al-nadamatu al-yawm, regret does not benefit today. Both al-Qurtubi and al-Baghawi then relay Muqatil: lan yanfa'akumu al-i'tidharu wa al-nadamu al-yawm, apology and regret will not benefit you today, because you and your companions share in the punishment as you shared in disbelief.",
+            "bn": "কুরতুবী শুরু করেন আরেকটি ব্যাখ্যা দিয়ে। আল্লাহ কাফিরকে জানিয়ে দেন, তার এই কথা আজ তার কোনো উপকারে আসবে না। কথাটা হলো তার সেই আর্তি: হায়, আমার আর তোমার মাঝে যদি দুই পূর্বের দূরত্ব থাকত! কুরতুবীর ভাষায়, লা তানফা'উন নাদামাতুল ইয়াওম, আজ অনুশোচনা কোনো কাজে আসে না। এরপর কুরতুবী আর বাগাভী দুজনেই মুকাতিলের কথা উদ্ধৃত করেন: লান ইয়ানফা'আকুমুল ই'তিযারু ওয়ান নাদামুল ইয়াওম। আজ ওজর পেশ আর অনুশোচনা তোমাদের কাজে আসবে না, কারণ তোমরা আর তোমাদের সঙ্গীরা শাস্তিতে শরিক, যেমন কুফরে শরিক ছিলে।"
+          },
+          {
+            "en": "In Muqatil's reading the sharing is not the thing that fails to help; it is the reason the lament fails. Ma'arif al-Qur'an sets the two explanations side by side and says its own translation follows the second. The two renderings shown with this verse in the app happen to divide the same way: the English makes the sharing what will not benefit, while the Bengali says ha-hutash, your lamenting, will not help you. Both readings have named holders, and this article leaves them as they stand.",
+            "bn": "মুকাতিলের ব্যাখ্যায় শরিকানা সেই জিনিস নয় যা কাজে আসে না। বরং শরিকানাই কারণ, যে জন্য আর্তি বৃথা যায়। মাআরিফুল কুরআন দুটি ব্যাখ্যাই পাশাপাশি রাখে এবং বলে, তার নিজের অনুবাদ দ্বিতীয়টির উপর দাঁড়ানো। লক্ষ করার মতো ব্যাপার, অ্যাপে এ আয়াতের সঙ্গে দেখানো দুটি অনুবাদও ঠিক এভাবে দুই ভাগ হয়েছে। ইংরেজি অনুবাদে কাজে না আসার জিনিস হলো শাস্তিতে শরিক হওয়া। আর বাংলা অনুবাদ বলে, তোমাদের হা-হুতাশ আজ তোমাদের কোনো কাজে আসবে না। দুটি ব্যাখ্যার পক্ষেই নির্দিষ্ট আলেমদের নাম পাওয়া যায়। এ লেখা কোনোটির পক্ষ নেয় না, দুটিকেই যার যার জায়গায় রেখে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Annakum, With One Vowel Changed",
+          "bn": "আন্নাকুম, এক স্বরচিহ্নের তফাত"
+        },
+        "p": [
+          {
+            "en": "The question has a grammatical side. At-Tabari explains that anna in annakum stands in the position of raf', the subject of the verb, because the meaning is lan yanfa'akum ishtirakukum, your sharing will not benefit you. Al-Qurtubi gives the same parse and spells out the underlying sentence: wa-lan yanfa'akumu al-yawma ishtirakukum fi al-'adhab, and your sharing in the punishment will not benefit you today. The reason he gives is the one the others give: each has his fullest portion of it.",
+            "bn": "প্রশ্নটার একটা ব্যাকরণগত দিকও আছে। তাবারী বলেন, আন্নাকুম শব্দের আন্না রাফ'-এর অবস্থানে, অর্থাৎ ক্রিয়াটির কর্তা হিসেবে বসেছে। কারণ অর্থ দাঁড়ায়: লান ইয়ানফা'আকুম ইশতিরাকুকুম, তোমাদের শরিকানা তোমাদের কাজে আসবে না। কুরতুবীও একই বিশ্লেষণ দেন এবং ভেতরের বাক্যটা খুলে লেখেন: ওয়া লান ইয়ানফা'আকুমুল ইয়াওমা ইশতিরাকুকুম ফিল 'আযাব, আর আজ শাস্তিতে তোমাদের শরিকানা তোমাদের কোনো কাজে আসবে না। কারণ হিসেবে তিনিও অন্যদের কথাই বলেন: প্রত্যেকে শাস্তির পূর্ণতম ভাগ পায়।"
+          },
+          {
+            "en": "Al-Qurtubi also records a second reading: innakum, with a kasra under the alif, the reading of Ibn 'Amir, though with a difference reported from him; the other readers have the fath, annakum. In the text fetched here he does not spell out how the kasra changes the sentence, and this article will not supply it for him. What is secure is narrower: on the common reading, the sharing in the punishment is grammatically the very thing that will not benefit.",
+            "bn": "কুরতুবী আরেকটি কিরাআতও উল্লেখ করেন: ইন্নাকুম, আলিফের নিচে যের দিয়ে। এটি ইবন আমিরের কিরাআত, যদিও তাঁর কাছ থেকে এ নিয়ে ভিন্ন বর্ণনাও আছে। বাকি কারীরা পড়েন যবর দিয়ে, আন্নাকুম। যের দিলে বাক্যের গঠন কীভাবে বদলায়, এখানে সংগ্রহ করা লেখায় কুরতুবী তা খুলে বলেননি। এ লেখাও তাঁর হয়ে সেটা জুড়ে দেবে না। নিশ্চিতভাবে যা বলা যায় তা এর চেয়ে সীমিত: প্রচলিত কিরাআতে শাস্তিতে শরিক হওয়াটাই ব্যাকরণের দিক থেকে সেই জিনিস, যা কাজে আসবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Partners in the Wrong First",
+          "bn": "আগে শরিক ছিল জুলুমে"
+        },
+        "p": [
+          {
+            "en": "Then the middle clause, idh zalamtum, since you did wrong. Al-Baghawi glosses zalamtum with one word, ashraktum fi al-dunya, you associated partners with Allah in the world, and al-Qurtubi and the Muyassar use the same gloss. The wrong in view is the gravest one, giving to another what is due to Allah alone. Al-Qurtubi adds a note on the little word idh: it is a badal, a substitute, for al-yawm, so that the clause is tied grammatically to the day itself.",
+            "bn": "এবার মাঝের অংশ, ইয জালামতুম, যেহেতু তোমরা জুলুম করেছিলে। বাগাভী জালামতুম শব্দের ব্যাখ্যা দেন ছোট্ট একটি কথায়: আশরাকতুম ফিদ দুনইয়া, তোমরা দুনিয়ায় আল্লাহর সঙ্গে শরিক করেছিলে। কুরতুবী আর মুয়াসসারও একই ব্যাখ্যা দেন। এখানে যে জুলুমের কথা, তা সবচেয়ে বড় জুলুম: যা কেবল আল্লাহর হক, তা অন্যকে দেওয়া। ইয শব্দটি নিয়েও কুরতুবীর একটি মন্তব্য আছে। তাঁর মতে এটি আল-ইয়াওম শব্দের বদল, অর্থাৎ স্থলাভিষিক্ত। ফলে বাক্যাংশটি ব্যাকরণের দিক থেকে সেই দিনের সঙ্গেই বাঁধা।"
+          },
+          {
+            "en": "As-Sa'di draws the line from deed to outcome as a matter of plain justice: li-annakum ishtaraktum fi al-zulm fa-shtaraktum fi 'iqabihi wa 'adhabih, because you shared in the wrong, you share in its penalty and its punishment. The Muyassar ends on the same note, kama ishtaraktum fi al-kufr, as you shared in disbelief. The company that once made the wrong feel ordinary is the same company in its result. The Qur'an says something close in 37:33: fa-innahum yawma'idhin fi al-'adhabi mushtarikun, so they, that Day, will be sharers in the punishment.",
+            "bn": "কাজ থেকে পরিণতি পর্যন্ত সূত্রটা সা'দী টানেন সোজা ইনসাফের হিসাবে: লি'আন্নাকুম ইশতারাকতুম ফিয যুলম, ফাশতারাকতুম ফী 'ইকাবিহী ওয়া 'আযাবিহ। তোমরা জুলুমে শরিক হয়েছিলে, তাই এর সাজা আর শাস্তিতেও শরিক হলে। মুয়াসসারও শেষ করে একই সুরে: কামাশতারাকতুম ফিল কুফর, যেমন তোমরা কুফরে শরিক হয়েছিলে। যে সঙ্গ একদিন অন্যায়কে স্বাভাবিক করে তুলেছিল, পরিণতিতেও সেই সঙ্গই থেকে যায়। ৩৭:৩৩ আয়াতে কুরআন প্রায় একই কথা বলে: ফা-ইন্নাহুম ইয়াওমাইযিন ফিল 'আযাবি মুশতারিকূন, সেদিন তারা সবাই শাস্তিতে শরিক থাকবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Solace in Numbers",
+          "bn": "সংখ্যায় কোনো সান্ত্বনা নেই"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reads in the verse a specific loss. Allah has made known, he says, that He withholds from the people of the Fire al-ta'assi, the comfort a sufferer draws from others who suffer as he does, the way people struck by calamity in this world console themselves. One of them says li fi al-bala'i wa al-musibati uswa, I have company in this trial and this loss, and that quiets something of his grief. The verse takes exactly that away.",
+            "bn": "কুরতুবী আয়াতে একটি নির্দিষ্ট বঞ্চনা দেখতে পান। তিনি বলেন, আল্লাহ জানিয়ে দিয়েছেন যে জাহান্নামবাসীদের তিনি তা'আসসী থেকে বঞ্চিত করবেন। তা'আসসী মানে একই কষ্টে থাকা অন্যদের দেখে পাওয়া সান্ত্বনা, যেমন দুনিয়ায় বিপদগ্রস্ত মানুষ নিজেকে প্রবোধ দেয়। তাদের কেউ বলে: লী ফিল বালা'ই ওয়াল মুসীবাতি উসওয়া, এই বিপদে আর এই ক্ষতিতে আমি একা নই। এতে তার দুঃখ কিছুটা থিতিয়ে আসে। আয়াতটি ঠিক এই জিনিসটাই কেড়ে নেয়।"
+          },
+          {
+            "en": "He cites the poet al-Khansa' mourning her brother: what held her up was the many around her weeping for their own brothers, though none of them, she says, wept for one like hers, and she consoled herself by their company in grief. In the Hereafter, al-Qurtubi concludes, such consolation does them no good at all, li-shughlihim bil-'adhab, because the punishment occupies them wholly. Ma'arif al-Qur'an makes the same contrast: here shared misfortune lightens each one's load, there terror leaves no one able to lighten another's.",
+            "bn": "এর সমর্থনে কুরতুবী উদ্ধৃত করেন কবি খানসার কবিতা, যা তিনি লিখেছিলেন ভাইয়ের শোকে। চারপাশে বহু মানুষ নিজ নিজ ভাইয়ের জন্য কাঁদছিল, এটাই তাঁকে টিকিয়ে রেখেছিল। তবে তিনি বলেন, তাদের কেউই তাঁর ভাইয়ের মতো কারও জন্য কাঁদছিল না। তবু শোকের এই সঙ্গ দিয়েই তিনি নিজেকে প্রবোধ দিতেন। কুরতুবীর উপসংহার: আখিরাতে এমন সান্ত্বনা তাদের একটুও কাজে আসবে না, লিশুগলিহিম বিল 'আযাব, কারণ শাস্তি তাদের পুরোপুরি ব্যস্ত রাখবে। মাআরিফুল কুরআনও একই তুলনা টানে। দুনিয়ায় ভাগ করা বিপদে প্রত্যেকের বোঝা কমে। সেখানে আতঙ্ক এত বেশি যে কেউ কারও কষ্ট হালকা করতে পারবে না।"
+          },
+          {
+            "en": "As-Sa'di names the same relief ruh al-tasalli fi al-musiba, the ease of consolation in misfortune. When a calamity falls in this world and those punished share it, he says, it eases a little and they console one another. The calamity of the Hereafter gathers every punishment, with not the least rest in it, not even this rest. He does not leave the thought there but turns it into a prayer: nas'aluka ya rabbana al-'afiya, wa an turihana bi-rahmatik, we ask You, our Lord, for well-being, and that You give us rest by Your mercy.",
+            "bn": "সা'দী একই স্বস্তির নাম দেন রাওহুত তাসাল্লী ফিল মুসীবা, বিপদে সান্ত্বনার আরাম। তিনি বলেন, দুনিয়ায় বিপদ এলে আর শাস্তিপ্রাপ্তরা তাতে শরিক হলে কষ্ট কিছুটা সহজ হয়, তারা একে অপরকে প্রবোধ দেয়। কিন্তু আখিরাতের বিপদে সব রকম শাস্তি একসঙ্গে জড়ো, তাতে সামান্যতম আরাম নেই, এই আরামটুকুও না। কথাটা তিনি এখানেই ছেড়ে দেন না, দোয়ায় রূপ দেন: নাস'আলুকা ইয়া রাব্বানাল 'আফিয়া, ওয়া আন তুরীহানা বিরাহমাতিক। হে আমাদের রব, আমরা আপনার কাছে আফিয়াত চাই, আর চাই আপনি নিজ রহমতে আমাদের আরাম দিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shared, Yet Not Divided",
+          "bn": "শরিকানা, তবু ভাগাভাগি নয়"
+        },
+        "p": [
+          {
+            "en": "Why would sharing not lighten anything? At-Tabari answers in one clause: li-anna li-kulli wahidin minkum nasibahu minhu, because each one of you has his own share of it. Al-Qurtubi and al-Baghawi sharpen it to al-nasib al-awfar and al-hazz al-awfar, the fullest portion, and al-Baghawi says it belongs to each of the disbelievers and the devils alike. The Muyassar uses the same phrase. In this world a load carried by many is lighter for each; here, on their account, the share is not split.",
+            "bn": "শরিকানায় কিছুই হালকা হবে না কেন? তাবারী উত্তর দেন এক বাক্যে: লি'আন্না লিকুল্লি ওয়াহিদিম মিনকুম নাসীবাহু মিনহু, কারণ তোমাদের প্রত্যেকের নিজস্ব ভাগ রয়েছে। কুরতুবী আর বাগাভী কথাটাকে আরও ধারালো করেন: আন নাসীবুল আওফার, আল হাযযুল আওফার, অর্থাৎ পূর্ণতম ভাগ। বাগাভী বলেন, এ ভাগ কাফির আর শয়তান প্রত্যেকের জন্যই। মুয়াসসারও একই শব্দ ব্যবহার করে। দুনিয়ায় অনেকে মিলে বোঝা বইলে প্রত্যেকের ভাগে কম পড়ে। তাঁদের ব্যাখ্যা অনুযায়ী সেখানে ভাগ টুকরো হয় না।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it, so this article quotes none, and none of them gives an occasion of revelation for it either. The passage then turns at once to the Prophet ﷺ in 43:40: can you make the deaf hear, or guide the blind? As-Sa'di reads that verse as consolation for him in the face of those who refused to respond, people whose natures and minds, he says, had been spoiled by their turning away from the reminder. The scene of the two companions is set inside that larger reassurance.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এ লেখায়ও কোনো হাদীস উদ্ধৃত হয়নি। কোনো তাফসীর এর শানে নুযূলও উল্লেখ করেনি। এরপর ৪৩:৪০ আয়াতে কথা সঙ্গে সঙ্গে ঘুরে যায় নবী ﷺ-এর দিকে: তুমি কি বধিরকে শোনাতে পারবে, কিংবা অন্ধকে পথ দেখাতে পারবে? সা'দী এ আয়াতকে পড়েন তাঁর জন্য সান্ত্বনা হিসেবে, যারা সাড়া দিতে অস্বীকার করেছিল তাদের মুখোমুখি দাঁড়িয়ে। তাঁর ভাষায়, উপদেশ থেকে মুখ ফিরিয়ে নেওয়ার ফলে এদের স্বভাব আর বিবেক নষ্ট হয়ে গিয়েছিল। দুই সঙ্গীর দৃশ্যটি বসানো আছে সেই বড় আশ্বাসের ভেতরেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Choosing the Company Now",
+          "bn": "সঙ্গ বাছাইয়ের সময় এখনই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse speaks of those who turned from the remembrance of the Most Merciful and of the companions assigned to them, at the judgement; it describes what it describes. It gives nobody licence to place any living person, named or unnamed, in that punishment, or to read a neighbour, a rival or a community into it. Who ends where is Allah's to judge. The reader this verse is looking for is the person asking about himself.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বিচারের দিনে তাদের কথা বলে, যারা দয়াময়ের স্মরণ থেকে মুখ ফিরিয়েছিল, আর তাদের জন্য নিয়োজিত সঙ্গীদের কথা। আয়াত যা বর্ণনা করে, তা-ই বর্ণনা করে। কোনো জীবিত মানুষকে, নাম ধরে হোক বা না ধরে, সেই শাস্তির মধ্যে বসিয়ে দেওয়ার অনুমতি এ আয়াত কাউকে দেয় না। প্রতিবেশী, প্রতিপক্ষ বা কোনো সম্প্রদায়কে এর ভেতরে পড়ে নেওয়ারও অনুমতি নেই। কে কোথায় যাবে, সে বিচার আল্লাহর। এ আয়াত যে পাঠককে খোঁজে, সে হলো নিজের সম্পর্কে প্রশ্ন করা মানুষটি।"
+          },
+          {
+            "en": "That reader will recognise the comfort of numbers, because it works on us long before any judgement. Everyone does this; I am not alone. The commentators show that comfort failing on the Day it would be wanted most, and the wish for distance in 43:38 failing with it, since it comes only when nothing can be changed. The time to want distance from a bad companion, and to act on that want, is while distance can still be had.",
+            "bn": "সেই পাঠক সংখ্যার সান্ত্বনাকে চিনবেন, কারণ বিচারের অনেক আগেই তা আমাদের উপর কাজ করে। সবাই তো এমন করে, আমি একা নই। তাফসীরকারেরা দেখান, যেদিন এই সান্ত্বনার প্রয়োজন হবে সবচেয়ে বেশি, সেদিনই তা ব্যর্থ। ৪৩:৩৮ আয়াতের দূরত্বের আকাঙ্ক্ষাও তার সঙ্গে ব্যর্থ, কারণ তা আসে তখন, যখন আর কিছুই বদলানো যায় না। খারাপ সঙ্গী থেকে দূরে সরতে চাওয়ার, আর সেই চাওয়া অনুযায়ী কাজ করার সময় তাই এখনই, যখন দূরত্ব তৈরি করা এখনো সম্ভব।"
+          },
+          {
+            "en": "The same passage names the protection. A few verses on, the Prophet ﷺ is told in 43:43 to hold fast to what is revealed to him, for he is on a straight path, and 43:44 calls it a reminder for him and his people, about which they will be asked. The companion of 43:36 came to whoever turned away from that reminder. Keeping it close is how a person chooses, today, who walks beside him, and as-Sa'di's prayer for well-being is the fitting thing to say on closing the scene.",
+            "bn": "রক্ষার উপায়ও এই অংশেই বলা আছে। কয়েক আয়াত পরে ৪৩:৪৩ আয়াতে নবী ﷺ-কে বলা হয়েছে, তাঁর প্রতি যা ওহি করা হয়েছে তা দৃঢ়ভাবে আঁকড়ে ধরতে, কারণ তিনি সরল পথে আছেন। ৪৩:৪৪ আয়াত একে বলে তাঁর ও তাঁর জাতির জন্য উপদেশ, যে সম্পর্কে তাদের জিজ্ঞেস করা হবে। ৪৩:৩৬ আয়াতের সঙ্গীটি এসেছিল তার কাছে, যে এই উপদেশ থেকেই মুখ ফিরিয়েছিল। এ উপদেশকে কাছে রাখা মানেই আজ বেছে নেওয়া, কে আমার পাশে হাঁটবে। আর দৃশ্যটি শেষ করে মুখে আনার মতো কথা হলো সা'দীর সেই দোয়া: হে আমাদের রব, আমরা আপনার কাছে আফিয়াত চাই।"
+          }
+        ]
+      }
+    ]
+  },
   "43:44": {
     "sections": [
       {
