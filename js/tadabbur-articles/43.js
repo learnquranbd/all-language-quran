@@ -319,6 +319,142 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:7": {
+    "sections": [
+      {
+        "h": {
+          "en": "Not One Spared the Laughter",
+          "bn": "হাসি থেকে রেহাই পাননি কেউ"
+        },
+        "p": [
+          {
+            "en": "Wa ma ya'tihim min nabiyyin illa kanu bihi yastahzi'un: and no prophet would come to them but they used to mock him. The verse completes a pair. Verse 43:6 has just said how many a prophet Allah sent among the former peoples; 43:7 says what met every one of them. The sentence denies and then excepts, ma and then illa, so the mockery is not presented as something that befell some prophets and spared others. As the verse states it, no prophet who came to them escaped it.",
+            "bn": "ওয়া মা ইয়া'তীহিম মিন নাবিয়্যিন ইল্লা কানূ বিহী ইয়াসতাহযিঊন: তাদের কাছে এমন কোনো নবী আসেননি, যাঁকে নিয়ে তারা ঠাট্টা করেনি। আয়াতটি একটি জোড়ার দ্বিতীয় অংশ। ৪৩:৬ আয়াত সবে জানিয়েছে, আল্লাহ পূর্বের জাতিগুলোর মধ্যে কত নবী পাঠিয়েছিলেন। ৪৩:৭ জানায়, তাঁদের প্রত্যেকের সঙ্গে কী আচরণ করা হয়েছিল। বাক্যটি আগে অস্বীকার করে, তারপর ব্যতিক্রম টানে: মা, তারপর ইল্লা। ফলে ঠাট্টাকে এমনভাবে দেখানো হয়নি যে কোনো নবীর ভাগ্যে তা জুটেছে আর কেউ বেঁচে গেছেন। আয়াতের ভাষায়, যে নবীই তাদের কাছে এসেছেন, কেউ এর হাত থেকে রেহাই পাননি।"
+          },
+          {
+            "en": "The commentators read the present-tense verb as a past that kept recurring. Al-Baghawi glosses ma ya'tihim as ma kana ya'tihim, there would not come to them; al-Qurtubi gives lam yakun ya'tihim. At-Tabari spells out who they were: there would not come to any generation of those generations, or any nation of those former nations, a prophet from Us calling them to guidance and the way of truth, except that those he came to mocked the prophet sent to them. Tanwir al-Miqbas likewise names them as these past nations.",
+            "bn": "তাফসীরকারেরা বর্তমান কালের ক্রিয়াটিকে পড়েছেন অতীতের এমন ঘটনা হিসেবে, যা বারবার ঘটেছে। বাগাভী মা ইয়া'তীহিম-এর ব্যাখ্যা দেন মা কানা ইয়া'তীহিম দিয়ে, অর্থাৎ তাদের কাছে আসতেন না। কুরতুবী লেখেন লাম ইয়াকুন ইয়া'তীহিম। তাবারী খুলে বলেন তারা কারা। তাঁর ভাষায়: সেই যুগগুলোর কোনো যুগের কাছে, সেই পূর্বের জাতিগুলোর কোনো জাতির কাছে আমার পক্ষ থেকে এমন কোনো নবী আসেননি, যিনি তাদের হিদায়াত আর সত্যের পথে ডাকতেন, অথচ যাদের কাছে এসেছেন তারা তাঁকে নিয়ে ঠাট্টা করেনি। তানবীরুল মিকবাসও তাদের চিহ্নিত করে সেই অতীত জাতিগুলো বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ridicule as a Way of Refusing",
+          "bn": "প্রত্যাখ্যানের এক কৌশল ঠাট্টা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's gloss is two verbs: yukadhdhibunahu wa yaskharuna bihi, they called him a liar and they ridiculed him. The abridged English renders it, they disbelieved him and mocked at him. In his reading the mockery does not stand alone. It travels with denial, so the laughter was not an aside to the argument over the message but one of the ways the message was turned down. The prophet was first declared false, and then made into something to be laughed at, which saved his hearers the trouble of weighing what he said.",
+            "bn": "ইবন কাসীরের ব্যাখ্যা দুটি ক্রিয়ায়: ইউকায্যিবূনাহু ওয়া ইয়াসখারূনা বিহী, তারা তাঁকে মিথ্যাবাদী বলত আর তাঁকে নিয়ে উপহাস করত। সংক্ষিপ্ত ইংরেজি সংস্করণেও একই কথা: তারা তাঁকে অবিশ্বাস করত আর ঠাট্টা করত। তাঁর পাঠে ঠাট্টা একা আসে না, আসে অস্বীকারের সঙ্গী হয়ে। তাই বার্তা নিয়ে যে বিতর্ক, হাসিটা তার পাশের কোনো তুচ্ছ ব্যাপার ছিল না। বার্তাটি প্রত্যাখ্যান করার এটাও ছিল একটা উপায়। নবীকে আগে মিথ্যাবাদী সাব্যস্ত করা হতো, তারপর বানানো হতো হাসির পাত্র। এতে শ্রোতাদের আর তাঁর কথা ওজন করে দেখার ঝামেলা থাকত না।"
+          },
+          {
+            "en": "As-Sa'di names the roots of the laughter in one short phrase: jahdan lima ja'a bihi wa takabburan 'ala al-haqq, out of denial of what he brought and arrogance towards the truth. The two are different. Denial concerns the message: they would not accept that it was true. Arrogance concerns the hearer: he holds himself too high to be told. As-Sa'di places both beneath the mockery, which makes the ridicule a symptom rather than a cause. The joke was the visible part of a refusal that had already been made inside.",
+            "bn": "সা'দী ছোট্ট একটি বাক্যাংশে ঠাট্টার শিকড় দেখিয়ে দেন: জাহদান লিমা জাআ বিহী ওয়া তাকাব্বুরান আলাল হাক্ক। অর্থাৎ তিনি যা এনেছিলেন তা অস্বীকার করে, আর সত্যের সামনে অহংকার দেখিয়ে। দুটি আলাদা জিনিস। অস্বীকারের সম্পর্ক বার্তার সঙ্গে: তারা মানতে চায়নি যে কথাটা সত্য। অহংকারের সম্পর্ক শ্রোতার নিজের সঙ্গে: সে নিজেকে এত উঁচুতে রাখে যে কারও কাছে উপদেশ শোনা তার মানায় না। সা'দী দুটোকেই রাখেন ঠাট্টার নিচে। ফলে বিদ্রূপ এখানে রোগের কারণ নয়, রোগের লক্ষণ। ভেতরে প্রত্যাখ্যান আগেই ঘটে গিয়েছিল, ঠাট্টা ছিল তার বাইরের চেহারা।"
+          },
+          {
+            "en": "Al-Muyassar, which explains 43:6 to 43:8 as one passage, lists mockery among the grounds of what followed. The former peoples were destroyed, it says, because of their disbelief, their transgression and their mocking of their prophets. Mockery stands in that list beside disbelief, not beneath it as a lesser fault. The commentary does not treat the laughter as harmless noise around the real offence. In its reading, the ridicule of a prophet was itself part of the record those peoples carried to their end.",
+            "bn": "মুয়াসসার ৪৩:৬ থেকে ৪৩:৮ পর্যন্ত আয়াতগুলোকে একটি অংশ হিসেবে ব্যাখ্যা করে, আর পরিণতির কারণগুলোর মধ্যে ঠাট্টাকেও গোনে। তার কথা, পূর্বের জাতিগুলো ধ্বংস হয়েছিল তাদের কুফর, তাদের সীমালঙ্ঘন আর তাদের নবীদের নিয়ে ঠাট্টার কারণে। এই তালিকায় ঠাট্টা দাঁড়িয়ে আছে কুফরের পাশে, তার নিচে ছোট কোনো দোষ হিসেবে নয়। আসল অপরাধের চারপাশে নিরীহ কোলাহল বলে হাসিটাকে এ তাফসীর উড়িয়ে দেয় না। তার পাঠে নবীকে নিয়ে বিদ্রূপও ছিল সেই আমলনামার অংশ, যা নিয়ে ওই জাতিগুলো তাদের শেষ পরিণতিতে পৌঁছেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Comfort for the Mocked Prophet",
+          "bn": "বিদ্রূপের শিকার নবীর সান্ত্বনা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the verse as addressed to the Prophet ﷺ himself. The former peoples mocked their prophets, he says, just as your people mock you, O Muhammad. Then he draws the consequence in Allah's voice: so let what your people do to you not weigh heavily on you, and let it not distress you. In this reading the verse is spoken to one man in the middle of being ridiculed, and its first purpose is to lighten what he was carrying, not to report history for its own sake.",
+            "bn": "তাবারী আয়াতটিকে পড়েন নবী ﷺ-কে সরাসরি সম্বোধন হিসেবে। তাঁর ব্যাখ্যায়, পূর্বের জাতিগুলো তাদের নবীদের নিয়ে ঠাট্টা করত, যেমন হে মুহাম্মাদ, আপনার জাতি আপনাকে নিয়ে ঠাট্টা করছে। তারপর তিনি আল্লাহর জবানিতে সিদ্ধান্ত টানেন: তাই আপনার জাতি আপনার সঙ্গে যা করছে, তা যেন আপনার কাছে ভারী হয়ে না ওঠে, আপনাকে কষ্টে না ফেলে। এ পাঠে আয়াতটি বলা হচ্ছে এমন একজনকে, যিনি ঠিক তখনই বিদ্রূপের মধ্যে আছেন। এর প্রথম উদ্দেশ্য ইতিহাস শোনানো নয়, তাঁর বোঝা হালকা করা।"
+          },
+          {
+            "en": "On this point the commentaries fetched for the verse speak with one voice. Al-Qurtubi: yu'azzi nabiyyahu Muhammadan ﷺ wa yusallihi, He consoles His Prophet Muhammad and comforts him. Al-Baghawi has the first verb, yu'azzi. Al-Muyassar closes its explanation of the passage with wa fi hadha tasliya lil-nabi ﷺ, and in this is comfort for the Prophet. Al-Jalalayn says the statement is intended to comfort the Prophet. The abridged English Ibn Kathir heads the passage as consolation to the Prophet for the disbelief of Quraysh. No commentator consulted reads it otherwise.",
+            "bn": "এ বিষয়ে আয়াতটির জন্য যেসব তাফসীর দেখা হয়েছে, সবাই একই কথা বলে। কুরতুবী লেখেন: ইউআয্যী নাবিয়্যাহু মুহাম্মাদান ﷺ ওয়া ইউসাল্লীহি, তিনি তাঁর নবী মুহাম্মাদ ﷺ-কে সান্ত্বনা দিচ্ছেন, প্রবোধ দিচ্ছেন। বাগাভী এনেছেন প্রথম ক্রিয়াটি, ইউআয্যী। মুয়াসসার এ অংশের ব্যাখ্যা শেষ করে এই বলে: ওয়া ফী হাযা তাসলিয়াতুন লিন-নাবিয়্যি ﷺ, এতে নবীর জন্য সান্ত্বনা আছে। জালালাইনও বলে, কথাটির উদ্দেশ্য নবীকে সান্ত্বনা দেওয়া। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এ অংশের শিরোনাম দেয় কুরাইশের কুফরের মুখে নবীর জন্য সান্ত্বনা। যত তাফসীর দেখা হয়েছে, কেউ অন্যভাবে পড়েনি।"
+          },
+          {
+            "en": "Notice a phrase that is not in the verse but appears in almost every gloss: kastihza'i qawmika bika, like your people's mocking of you. Al-Qurtubi, al-Baghawi and al-Muyassar all supply it, and at-Tabari has it too, adding ya Muhammad. The verse speaks only of the peoples of old; the commentators complete the comparison it leaves implied. Ibn Kathir adds that Allah, in these verses, commands His Prophet to bear it with patience. The comfort offered is not that the mockery would stop, but that it was not new.",
+            "bn": "একটা বাক্যাংশ খেয়াল করার মতো। আয়াতে সেটি নেই, অথচ প্রায় প্রতিটি ব্যাখ্যায় আছে: কাসতিহযাই কাওমিকা বিকা, যেমন আপনার জাতি আপনাকে নিয়ে ঠাট্টা করছে। কুরতুবী, বাগাভী আর মুয়াসসার তিনজনই কথাটা জুড়ে দেন, তাবারীও কথাটা আনেন, সঙ্গে যোগ করেন ইয়া মুহাম্মাদ। আয়াত কথা বলে শুধু পূর্বের জাতিগুলোর বিষয়ে। যে তুলনা সেখানে না বলে রাখা আছে, তাফসীরকারেরা তা পূর্ণ করে দেন। ইবন কাসীর যোগ করেন, এ আয়াতগুলোতে আল্লাহ তাঁর নবীকে ধৈর্য ধরার আদেশও দিচ্ছেন। সান্ত্বনাটা এই নয় যে ঠাট্টা থেমে যাবে। সান্ত্বনা হলো, এ ঠাট্টা নতুন কিছু নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Path Their Forebears Laid",
+          "bn": "পূর্বপুরুষদের বানানো পথ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives the reason the Prophet ﷺ need not be distressed, and it is a reason about the mockers rather than about him. In their mockery of you, he says, they have only followed the path of their forebears, maslak aslafihim, and the method of their leaders who went before, minhaj a'immatihim al-madin, from among those who disbelieved in Allah. The ridicule in Makka was not an original response to a new message. It was an inherited manner, learned long before the Qur'an was recited to them.",
+            "bn": "নবী ﷺ-এর কষ্ট না পাওয়ার কারণও তাবারী বলে দেন, আর কারণটা তাঁকে নিয়ে নয়, ঠাট্টাকারীদের নিয়ে। তাঁর কথা, আপনাকে নিয়ে ঠাট্টা করতে গিয়ে তারা কেবল তাদের পূর্বসূরিদের পথ ধরেছে, মাসলাকা আসলাফিহিম। ধরেছে আল্লাহর সঙ্গে কুফরকারী তাদের আগের নেতাদের রীতি, মিনহাজা আইম্মাতিহিমুল মাদীন। মক্কার বিদ্রূপ নতুন বার্তার জবাবে নতুন কোনো প্রতিক্রিয়া ছিল না। এ ছিল উত্তরাধিকারে পাওয়া এক অভ্যাস, কুরআন তাদের সামনে তিলাওয়াত হওয়ার বহু আগেই যা শেখা হয়ে গিয়েছিল।"
+          },
+          {
+            "en": "The thought has weight in this surah. A little further on, the Qur'an reports the reply that we found our fathers upon a religion and are guided in their footsteps (43:22), and the same reply given to warner after warner before him (43:23 and 43:24). The articles on those verses take up inherited practice at length. Here at-Tabari applies the same idea to the manner of refusal itself. Not only the beliefs were passed down, but the scorn with which a prophet was met, so that each generation of mockers had already been taught how to laugh.",
+            "bn": "এ সূরায় ভাবনাটির ওজন আছে। একটু পরেই কুরআন তাদের জবাব উদ্ধৃত করে: আমরা আমাদের বাপদাদাদের এক ধর্মের উপর পেয়েছি, আর তাদের পদচিহ্ন ধরেই আমরা পথ পেয়েছি (৪৩:২২)। তাঁর আগে একের পর এক সতর্ককারীকেও একই জবাব শুনতে হয়েছে (৪৩:২৩ ও ৪৩:২৪)। উত্তরাধিকারের রীতি নিয়ে ওই আয়াতগুলোর প্রবন্ধে বিস্তারিত আলোচনা আছে। তাবারী এখানে একই ভাবনা প্রয়োগ করেন প্রত্যাখ্যানের ধরনের উপর। শুধু বিশ্বাসই উত্তরাধিকারে আসেনি, নবীকে যে তাচ্ছিল্যে বরণ করা হতো তাও এসেছে। ফলে ঠাট্টাকারীদের প্রতিটি প্রজন্ম কীভাবে হাসতে হয়, তা আগেই শিখে এসেছিল।"
+          },
+          {
+            "en": "The same sentence returns elsewhere in the Qur'an almost word for word. In 15:11, no messenger would come to them except that they ridiculed him; in 36:30, after the cry how regretful for the servants, there did not come to them any messenger except that they used to ridicule him. Those two verses say rasul, messenger. Here the word is nabiyy, prophet, the same word 43:6 has just used. The recurrence is noted here only as a pointer; each of those verses has its own setting and its own commentary.",
+            "bn": "একই বাক্য কুরআনের অন্য জায়গায় প্রায় হুবহু ফিরে আসে। ১৫:১১ আয়াতে: তাদের কাছে এমন কোনো রাসূল আসেননি, যাঁকে নিয়ে তারা ঠাট্টা করেনি। ৩৬:৩০ আয়াতে, বান্দাদের জন্য আফসোস, এই আর্তির পর: তাদের কাছে এমন কোনো রাসূলই আসেননি, যাঁকে তারা বিদ্রূপ করত না। ওই দুই আয়াতে শব্দটি রাসূল। এখানে শব্দটি নবী, ঠিক যে শব্দ ৪৩:৬ আয়াত সবে ব্যবহার করেছে। এখানে এই পুনরাবৃত্তির কথা শুধু ইঙ্গিত হিসেবে বলা হলো। ওই আয়াতগুলোর প্রত্যেকটির নিজস্ব প্রেক্ষাপট আর নিজস্ব তাফসীর আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mocked, and Still They Came",
+          "bn": "বিদ্রূপের পরেও নবীরা এসেছেন"
+        },
+        "p": [
+          {
+            "en": "The verse also answers the question just before it. Verse 43:5 asked whether the Reminder would be turned away from a people because they were excessive. History, in 43:6 and 43:7, replies: prophets kept being sent, though each of them was mocked. Maududi, in Tafhim al-Qur'an, commenting on 43:5 to 43:8 together, puts it directly. If such absurdity and senselessness had barred the sending of a Prophet or a Book, he writes, no Prophet would ever have come to any nation nor a Book been sent to it.",
+            "bn": "আয়াতটি ঠিক আগের প্রশ্নেরও জবাব দেয়। ৪৩:৫ আয়াত জানতে চেয়েছিল, কোনো জাতি সীমালঙ্ঘনকারী বলে কি তাদের কাছ থেকে উপদেশবাণী সরিয়ে নেওয়া হবে? ৪৩:৬ আর ৪৩:৭ আয়াতে ইতিহাস জবাব দেয়: নবী পাঠানো থামেনি, যদিও প্রত্যেককেই ঠাট্টার শিকার হতে হয়েছে। মওদূদী তাফহীমুল কুরআনে ৪৩:৫ থেকে ৪৩:৮ পর্যন্ত আয়াত একসঙ্গে ব্যাখ্যা করতে গিয়ে কথাটা সোজাসুজি বলেন। তিনি লেখেন, এমন অর্থহীন আর নির্বোধ আচরণ যদি নবী বা কিতাব পাঠানোর পথে বাধা হতো, তবে কোনো জাতির কাছে কখনো কোনো নবী আসতেন না, কোনো কিতাবও পাঠানো হতো না।"
+          },
+          {
+            "en": "Maududi continues that the senselessness of some people could not mean that all mankind be deprived of the guidance of prophethood and the Book. Its result, he says, was that those who, drunk with the pride of power, did not desist from mocking the Prophets, were ultimately destroyed. That is the matter of the next verse, 43:8, where Allah destroyed those mightier in power than these. Ibn Kathir reads these as mightier than those who disbelieve in you, O Muhammad, and pairs the verse with 40:82.",
+            "bn": "মওদূদী আরও বলেন, কিছু মানুষের নির্বুদ্ধিতার ফল এই হতে পারে না যে গোটা মানবজাতি নবুওয়াত আর কিতাবের হিদায়াত থেকে বঞ্চিত হবে। বরং ফল হয়েছে এই: ক্ষমতার অহংকারে মত্ত হয়ে যারা নবীদের নিয়ে ঠাট্টা থেকে বিরত হয়নি, শেষ পর্যন্ত তারা ধ্বংস হয়েছে। এটাই পরের আয়াত ৪৩:৮-এর বিষয়, যেখানে আল্লাহ বলেন, তিনি এদের চেয়ে বেশি শক্তিধরদেরও ধ্বংস করেছেন। ইবন কাসীর এর অর্থ করেন: হে মুহাম্মাদ, যারা আপনাকে অস্বীকার করছে তাদের চেয়েও বেশি শক্তিশালী। আর এর সঙ্গে তিনি ৪০:৮২ আয়াত মিলিয়ে দেখান।"
+          },
+          {
+            "en": "The commentary Kashf al-Asrar reads 43:6 and 43:7 in its own allusive way. It calls the pairing a marvellous business: whenever there is talk of friends, Allah joins to it the story of the estranged, and beside gentleness He places severity. For every friend, it says, He creates a thousand enemies, and for everyone sincerely truthful, a hundred thousand heretics. That is the commentator's own image, offered as a reflection, and it is read here as such: those who carry the truth are never left without opposition.",
+            "bn": "কাশফুল আসরার নামের তাফসীর ৪৩:৬ আর ৪৩:৭ আয়াতকে পড়ে তার নিজস্ব ইশারার ভঙ্গিতে। জোড়াটিকে সে বলে এক বিস্ময়কর ব্যাপার। যেখানেই বন্ধুদের কথা ওঠে, আল্লাহ তার সঙ্গে জুড়ে দেন দূরে সরে যাওয়াদের কাহিনি, আর কোমলতার পাশে রাখেন কঠোরতা। তার ভাষায়, প্রত্যেক বন্ধুর জন্য তিনি সৃষ্টি করেন হাজার শত্রু, আর প্রত্যেক খাঁটি সত্যবাদীর বিপরীতে এক লাখ বিপথগামী। এ ছবি তাফসীরকারের নিজস্ব, চিন্তার খোরাক হিসেবে দেওয়া, আর এখানে সেভাবেই পড়া হলো: সত্য যাঁরা বয়ে নেন, তাঁরা কখনো বিরোধিতা ছাড়া থাকেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Report, and No Licence",
+          "bn": "হাদীস বা উপলক্ষ নেই, ছাড়পত্রও নেই"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it, and none gives an occasion of revelation for it. Its setting is its place in the passage: a Makkan surah, a run of verses on the Qur'an and its rejection, and a Prophet ﷺ being mocked by his own people, as the commentators describe. Nothing more specific is claimed here about when or why it came down, because no source consulted says more, and the verse does not need an incident to be understood.",
+            "bn": "আয়াতটির জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, কোনোটিই এর নাযিলের কোনো উপলক্ষও বলেনি। এর প্রেক্ষাপট তার অবস্থানেই। একটি মাক্কী সূরা, কুরআন আর তার প্রত্যাখ্যান নিয়ে পরপর কয়েকটি আয়াত, আর তাফসীরকারদের বর্ণনায় এমন এক নবী ﷺ, যাঁকে তাঁর নিজের জাতি ঠাট্টা করছে। কবে বা কেন আয়াতটি নাযিল হয়েছিল, সে বিষয়ে এখানে এর বেশি কিছু দাবি করা হচ্ছে না। কারণ দেখা কোনো সূত্র এর বেশি বলে না, আর আয়াতটি বুঝতে কোনো নির্দিষ্ট ঘটনার দরকারও নেই।"
+          },
+          {
+            "en": "This must be said plainly. The verse describes the peoples of old who mocked their prophets, and, as the commentators read it, the first hearers of the Qur'an in Makka who did the same. It licenses nothing against any present-day person, people or community. It names no one living as the heir of the mockers, and it gives no one a warrant to treat a neighbour, a rival or another nation as a people marked for destruction. Whoever uses it that way has turned a consolation into an accusation.",
+            "bn": "কথাটা পরিষ্কার করে বলা দরকার। আয়াতটি বর্ণনা দেয় অতীতের সেই জাতিগুলোর, যারা তাদের নবীদের নিয়ে ঠাট্টা করেছিল। তাফসীরকারদের পাঠ অনুযায়ী এর মধ্যে আছে মক্কায় কুরআনের প্রথম শ্রোতারাও, যারা একই কাজ করেছিল। আজকের কোনো মানুষ, কোনো জাতি বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। আজকের কোনো জীবিত মানুষকে সে ঠাট্টাকারীদের উত্তরসূরি বলে না। প্রতিবেশী, প্রতিদ্বন্দ্বী বা অন্য কোনো জাতিকে ধ্বংসের জন্য চিহ্নিত লোক ভাবার অধিকারও কাউকে দেয় না। যে এভাবে আয়াতটি ব্যবহার করে, সে সান্ত্বনাকে বানিয়ে ফেলে অভিযোগ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Laughter Comes Your Way",
+          "bn": "হাসি যখন আপনার দিকে আসে"
+        },
+        "p": [
+          {
+            "en": "The consolation was given to the Prophet ﷺ, but the experience it answers is not rare. Anyone who calls others to good, or simply keeps a practice that those around him find strange, may meet a smirk before he meets an argument. Ma'arif al-Qur'an, explaining 43:5 within the same group of verses, draws a working rule: whoever invites others to the truth must not give up on a person or a group because they are unbelievers, irreligious, sinners or transgressors. Laughter is among the easiest things to give up over, and the passage refuses that.",
+            "bn": "সান্ত্বনাটা দেওয়া হয়েছিল নবী ﷺ-কে, কিন্তু যে অভিজ্ঞতার জবাবে তা দেওয়া, তা বিরল নয়। যে মানুষ অন্যকে ভালোর দিকে ডাকে, কিংবা শুধু এমন কোনো আমল ধরে রাখে যা চারপাশের লোকের কাছে অদ্ভুত লাগে, যুক্তির আগে তার সামনে আসে বাঁকা হাসি। মাআরিফুল কুরআন একই আয়াতগুচ্ছের মধ্যে ৪৩:৫ আয়াতের ব্যাখ্যায় একটা কাজের নিয়ম টানে: যে মানুষকে সত্যের দিকে ডাকে, কেউ অবিশ্বাসী, দ্বীনবিমুখ, গুনাহগার বা সীমালঙ্ঘনকারী বলে কোনো মানুষ বা দলকে ছেড়ে দেওয়া তার উচিত নয়। হাসির মুখে হাল ছেড়ে দেওয়া সবচেয়ে সহজ, আর এ অংশ ঠিক সেটাই নাকচ করে।"
+          },
+          {
+            "en": "The verse also asks to be read from the other side. As-Sa'di found denial and arrogance beneath the mockery of the former peoples, and the same pair can sit beneath much smaller jokes. A reminder that comes at an awkward moment, an admonition from someone we think beneath us, a verse that touches a habit we mean to keep: each can be met with a laugh that spares us from answering it. The honest question is whether my humour ever does the work of refusal.",
+            "bn": "আয়াতটি উল্টো দিক থেকেও পড়ার দাবি রাখে। পূর্বের জাতিগুলোর ঠাট্টার নিচে সা'দী খুঁজে পেয়েছিলেন অস্বীকার আর অহংকার। এই জোড়া অনেক ছোট ঠাট্টার নিচেও লুকিয়ে থাকতে পারে। অসময়ে আসা কোনো উপদেশ, এমন কারও নসিহত যাকে আমরা নিজের চেয়ে ছোট ভাবি, কিংবা এমন কোনো আয়াত যা আমাদের ছাড়তে না চাওয়া কোনো অভ্যাসে হাত দেয়। এর প্রত্যেকটিকেই এক টুকরো হাসি দিয়ে বিদায় করা যায়, তাতে আর জবাব দিতে হয় না। সৎ প্রশ্নটা তাই এই: আমার রসিকতা কি কখনো প্রত্যাখ্যানের কাজটা করে দেয়?"
+          },
+          {
+            "en": "Nothing in the verse promises that the ridicule will stop. What it offers, on the commentators' reading, is company and perspective: the mockery is old, it was aimed at better people than us, and it did not stop the message. The abridged English Ibn Kathir says that Allah, with this consolation, commands His Prophet to be patient. For whoever is mocked, that patience is the way forward. For whoever is tempted to mock, the verse is a mirror held up before the laugh comes.",
+            "bn": "আয়াতের কোথাও প্রতিশ্রুতি নেই যে বিদ্রূপ থেমে যাবে। তাফসীরকারদের পাঠে আয়াতটি দেয় সঙ্গ আর দৃষ্টিভঙ্গি। এ ঠাট্টা পুরোনো, এর নিশানা ছিলেন আমাদের চেয়ে অনেক উত্তম মানুষেরা, আর তা বার্তাকে থামাতে পারেনি। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, এই সান্ত্বনার সঙ্গে আল্লাহ তাঁর নবীকে ধৈর্য ধরার আদেশ দেন। যাকে নিয়ে ঠাট্টা হচ্ছে, তার জন্য সেই ধৈর্যই সামনে এগোনোর পথ। আর যার ঠাট্টা করার ইচ্ছে জাগছে, তার জন্য আয়াতটি এক আয়না, হাসি মুখে আসার আগেই যা সামনে ধরা।"
+          }
+        ]
+      }
+    ]
+  },
   "43:11-12": {
     "sections": [
       {

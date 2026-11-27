@@ -37733,6 +37733,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Meet what you cannot yet explain in the Qur'an with attention and humility, say Allah knows best where no sound proof speaks, and keep listening.",
     "lessonBn": "কুরআনের যে অংশ এখনো ব্যাখ্যা করতে পারেন না, তার সামনে মনোযোগ আর বিনয় নিয়ে দাঁড়ান। মজবুত দলিল যেখানে কিছু বলে না, সেখানে বলুন আল্লাহই ভালো জানেন, আর শুনতে থাকুন।"
+  },
+  "43:7": {
+    "reflectionEn": "One verse asks how many prophets were sent to the peoples of old. The next says what met them: not one came without being mocked. Laughter has always been the cheapest reply to a message that asks for change, because it answers nothing and still sends the speaker away. These words were spoken to a Prophet who was being ridiculed in his own town, and they told him that others had walked this road before him. The verse describes past peoples and the first hearers of the Qur'an, and licenses no verdict on anyone alive. For me it cuts two ways. When I am laughed at for doing right, I am in good company. When a truth unsettles me, do I answer it, or laugh it away?",
+    "reflectionBn": "আগের আয়াত জানায়, পূর্বের জাতিগুলোর কাছে কত নবী পাঠানো হয়েছিল। এ আয়াত জানায়, তাঁদের কপালে কী জুটেছিল: এমন একজন নবীও আসেননি, যাঁকে নিয়ে তারা ঠাট্টা করেনি। পরিবর্তনের ডাক দেয় এমন বার্তার সবচেয়ে সস্তা জবাব সবসময়ই ছিল হাসি। হাসি কোনো যুক্তির উত্তর দেয় না, তবু বক্তাকে ফিরিয়ে দেয়। কথাগুলো বলা হয়েছিল এমন এক নবীকে, যাঁকে তাঁর নিজের শহরেই বিদ্রূপ করা হচ্ছিল। তাঁকে জানানো হলো, এ পথে তাঁর আগেও অনেকে হেঁটেছেন। আয়াতটি অতীতের জাতি আর কুরআনের প্রথম শ্রোতাদের বর্ণনা দেয়, আজকের কোনো জীবিত মানুষের বিরুদ্ধে রায় দেওয়ার অনুমতি দেয় না। আমার জন্য এর দুটি দিক। ভালো কাজের জন্য কেউ আমাকে নিয়ে হাসলে আমি উত্তম মানুষদের দলেই আছি। আর কোনো সত্য যখন আমাকে অস্বস্তিতে ফেলে, আমি কি তার জবাব খুঁজি, নাকি হেসে উড়িয়ে দিই?",
+    "pointsEn": [
+      "The last time I was laughed at for doing what was right, did it make me stop, or did I carry on?",
+      "Is there a reminder I have answered with a joke because answering it honestly would cost me something?",
+      "Do I let ridicule of my faith weigh on me as though I were the first person ever to face it?",
+      "When someone sincere is mocked in my company, do I join the laughter, keep quiet, or stand beside them?",
+      "Which truths do I find easier to make fun of than to examine?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন সঠিক কাজ করার জন্য লোকে আমাকে নিয়ে হেসেছে, আমি কি থেমে গেছি, নাকি কাজটা চালিয়ে গেছি?",
+      "এমন কোনো উপদেশ কি আছে, যার জবাব আমি ঠাট্টা দিয়ে দিয়েছি, কারণ সৎভাবে জবাব দিতে গেলে আমাকে কিছু ছাড়তে হতো?",
+      "দ্বীন পালনের জন্য বিদ্রূপ শুনলে আমি কি এমনভাবে ভেঙে পড়ি, যেন এ অভিজ্ঞতা দুনিয়ায় শুধু আমারই হয়েছে?",
+      "আমার সামনে কোনো আন্তরিক মানুষকে নিয়ে ঠাট্টা হলে আমি কি হাসিতে যোগ দিই, চুপ থাকি, নাকি তার পাশে দাঁড়াই?",
+      "কোন সত্যগুলো যাচাই করার চেয়ে ঠাট্টা করে উড়িয়ে দেওয়া আমার কাছে সহজ মনে হয়?"
+    ],
+    "lessonEn": "Mockery has met every bearer of Allah's message. Bear it with patience when it falls on you, and never make it your own answer to a reminder.",
+    "lessonBn": "আল্লাহর বার্তা যিনিই বয়ে এনেছেন, বিদ্রূপ তাঁর পিছু নিয়েছে। আপনার উপর তা এলে ধৈর্য ধরুন, আর কোনো উপদেশের জবাবে নিজে কখনো ঠাট্টাকে বেছে নেবেন না।"
   }
 };
 
