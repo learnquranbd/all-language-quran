@@ -35813,6 +35813,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let no gift buy your silence about what is right, and when you must speak firmly, keep the way back open and seek the other's good, not their ruin.",
     "lessonBn": "কোনো উপহার যেন ন্যায়ের ব্যাপারে আপনার মুখ বন্ধ করতে না পারে। আর কঠিন কথা বলতে হলে ফেরার পথ খোলা রাখুন, অপরের সর্বনাশ নয়, কল্যাণ চান।"
+  },
+  "27:48-49": {
+    "reflectionEn": "Nine men sit together and plan a killing. They will come by night, strike a prophet and his household, and then meet his kin with a sentence built to sound true: we did not witness it. Before any of this they swear to one another by Allah. The name that should have held their hands back is used to bind them to the deed. Their alibi shows that they still wanted to look honest while doing the darkest thing they could. The verses are not only about strangers in an ancient city. They ask where I keep the outward shape of truth while emptying it out, and whether my words of faith ever give cover to what faith forbids.",
+    "reflectionBn": "নয়জন লোক একসঙ্গে বসে খুনের ছক কষছে। রাতের অন্ধকারে তারা আসবে, একজন নবী আর তাঁর পরিবারকে শেষ করে দেবে। তারপর তাঁর আপনজনদের সামনে এমন এক কথা বলবে, যা শুনতে সত্যের মতো: আমরা তো ঘটনার সময় সেখানে ছিলাম না। এসব করার আগে তারা একে অপরের কাছে আল্লাহর নামে কসম খায়। যে নাম তাদের হাত থামিয়ে দেওয়ার কথা, সেই নামকেই তারা বানায় অপরাধে বেঁধে রাখার রশি। আর ওই অজুহাত বলে দেয়, সবচেয়ে অন্ধকার কাজটা করতে গিয়েও তারা সৎ দেখাতে চাইছিল। এ শুধু প্রাচীন এক শহরের অচেনা মানুষদের কথা নয়। আয়াত দুটি আমাকে জিজ্ঞেস করে: কোথায় আমি সত্যের বাইরের খোলসটা রেখে দিই, অথচ ভেতরটা ফাঁপা করে ফেলি? আমার মুখের দ্বীনি কথা কি কখনো এমন কাজকে আড়াল দেয়, যা দ্বীন নিজেই নিষেধ করে?",
+    "pointsEn": [
+      "Have I ever said something true in its words so that someone would believe something false?",
+      "When I bring Allah's name into a promise, does it hold me back from wrong, or have I made it a seal on what I had already decided?",
+      "Which circle around me do I follow so closely that its plans could become mine without my asking whether they are right?",
+      "Where in my life do I spoil things and never repair them, and what is one thing I could set right this week?",
+      "Do I care more about looking truthful than about being just?"
+    ],
+    "pointsBn": [
+      "কখনো কি এমন কথা বলেছি, যা শব্দে সত্য, কিন্তু বলেছি যেন শ্রোতা একটা মিথ্যা বিশ্বাস করে বসে?",
+      "কোনো প্রতিজ্ঞায় আমি যখন আল্লাহর নাম আনি, সে নাম কি আমাকে অন্যায় থেকে ফেরায়? নাকি আগে থেকে ঠিক করে রাখা কাজের উপর আমি শুধু সিলমোহর লাগাই?",
+      "আশপাশের কোন দলের পেছনে আমি এতটা অন্ধভাবে চলি যে তাদের ছক ঠিক কি না, সে প্রশ্ন না করেই তা আমার ছক হয়ে যেতে পারে?",
+      "জীবনের কোন জায়গায় আমি শুধু নষ্টই করি, কখনো মেরামত করি না? এ সপ্তাহে কোন একটা জিনিস আমি ঠিক করে দিতে পারি?",
+      "ন্যায়ের পথে থাকার চেয়ে সত্যবাদী দেখানোর চিন্তা কি আমার বেশি?"
+    ],
+    "lessonEn": "Never let Allah's name or a cleverly true sentence give cover to a wrong; truthfulness lives in the whole of what you mean, not only in the words you pick.",
+    "lessonBn": "আল্লাহর নাম কিংবা কৌশলে সাজানো কোনো 'সত্য' বাক্যকে কখনো অন্যায়ের আড়াল বানাবেন না। সত্যবাদিতা থাকে আপনার পুরো উদ্দেশ্যে, শুধু বেছে নেওয়া শব্দে নয়।"
   }
 };
 

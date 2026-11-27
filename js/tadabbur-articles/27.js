@@ -2323,6 +2323,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:48-49": {
+    "sections": [
+      {
+        "h": {
+          "en": "Nine Men in Salih's City",
+          "bn": "সালিহের শহরে নয়জন"
+        },
+        "p": [
+          {
+            "en": "Wa-kana fi l-madinati tis'atu rahtin yufsiduna fi l-ardi wa-la yuslihun: and in the city were nine men who spread corruption in the land and did not set things right. Then 27:49 gives their own words: swear to each other by Allah that we will fall on him and his household by night, then tell his next of kin that we did not witness the destruction of his household, and we are truthful. The two verses are read together here because in the second, the men of the first are speaking.",
+            "bn": "ওয়া কানা ফিল মাদীনাতি তিস'আতু রাহতিন ইউফসিদূনা ফিল আরদি ওয়া লা ইউসলিহূন: আর সেই শহরে ছিল নয়জন লোক, যারা দেশে ফাসাদ ছড়াত, কিছুই ঠিক করত না। পরের আয়াত ২৭:৪৯ শোনায় তাদের নিজেদের কথা: তোমরা আল্লাহর নামে একে অপরের কাছে কসম খাও, আমরা রাতে তাঁর আর তাঁর পরিবারের উপর হামলা করব। তারপর তাঁর অভিভাবককে বলব, তাঁর পরিবার যখন ধ্বংস হয়, আমরা সেখানে ছিলাম না, আর আমরা সত্যই বলছি। দুটি আয়াত এখানে একসঙ্গে পড়া হচ্ছে, কারণ দ্বিতীয়টিতে কথা বলছে প্রথম আয়াতের সেই লোকেরাই।"
+          },
+          {
+            "en": "The story of Thamud opened three verses earlier. In 27:45 Salih (AS) called his people to worship Allah and they split into two quarrelling parties; in 27:47 they called him and those with him a bad omen. Now the view narrows from a whole people to a handful. At-Tabari names the city as Salih's city, the Hijr of Thamud. Al-Muyassar places al-Hijr in the north-west of the Arabian Peninsula, while Ma'arif al-Qur'an calls Hijr a well-known city of Syria, and al-Qurtubi relays from al-Mawardi that it lay in the land of al-Sham.",
+            "bn": "সামূদের কাহিনি শুরু হয়েছে তিনটি আয়াত আগে। ২৭:৪৫ আয়াতে সালিহ (আঃ) তাঁর কওমকে আল্লাহর ইবাদতের দিকে ডাকলেন, আর তারা দুই দলে ভাগ হয়ে বিবাদে জড়াল। ২৭:৪৭ আয়াতে তারা তাঁকে আর তাঁর সঙ্গীদের অশুভ লক্ষণ বলে দিল। এবার দৃষ্টি গোটা জাতি থেকে সরে আসে হাতে গোনা কয়েকজনের উপর। তাবারী শহরটির পরিচয় দেন সালিহের শহর, সামূদের হিজর বলে। মুয়াসসার হিজরকে রাখে আরব উপদ্বীপের উত্তর-পশ্চিমে। মাআরিফুল কুরআন আবার হিজরকে বলে শামের এক পরিচিত শহর, আর কুরতুবী মাওয়ার্দী থেকে উদ্ধৃত করেন যে তা ছিল শাম অঞ্চলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Raht: A Chief and His Band",
+          "bn": "রাহত: সর্দার আর তার দল"
+        },
+        "p": [
+          {
+            "en": "Tis'atu rahtin. Ibn Kathir glosses it as nine nafar, nine persons; at-Tabari as nine anfus, nine souls; al-Muyassar simply as nine men. Yet raht is not the ordinary word for an individual. Al-Qurtubi explains that raht is a name for a group, and draws the consequence: it is as if they were chiefs, each of whom had a band, a raht, following him. Ma'arif al-Qur'an agrees: each had his own following, so nine groups.",
+            "bn": "তিস'আতু রাহতিন। ইবন কাসীর এর ব্যাখ্যা দেন নয় নাফার, অর্থাৎ নয়জন মানুষ। তাবারী বলেন নয়টি প্রাণ, আর মুয়াসসার সোজা বলে নয়জন পুরুষ। কিন্তু রাহত শব্দটা সাধারণত একজন ব্যক্তিকে বোঝায় না। কুরতুবী জানান, রাহত মানে একটা দল। সেখান থেকে তিনি সিদ্ধান্ত টানেন: তারা যেন একেকজন সর্দার ছিল, আর প্রত্যেকের পেছনে ছিল নিজের একটা দল, একটা রাহত। মাআরিফুল কুরআনও একমত: প্রত্যেকের আলাদা অনুসারী ছিল, তাই নয়টি দল।"
+          },
+          {
+            "en": "Who were they in the town? Al-Qurtubi and al-Baghawi both call them sons of the nobles of Thamud. Al-Qurtubi adds from ad-Dahhak that these nine were the great men of the city, and concludes that what the verse requires is what ad-Dahhak and others said: they were among the most prominent of the people, the best provided and the wealthiest, and people of disbelief and many sins. Ma'arif al-Qur'an says they were known as the chiefs of Hijr. These are not drifters at the edge of town; they stand at its centre.",
+            "bn": "শহরে তাদের অবস্থান কী ছিল? কুরতুবী আর বাগাভী দুজনেই বলেন, তারা ছিল সামূদের অভিজাতদের সন্তান। কুরতুবী দাহহাক থেকে যোগ করেন, এই নয়জন ছিল শহরের সবচেয়ে বড় মানুষ। তারপর তিনি সিদ্ধান্ত দেন, আয়াত থেকে যা অবশ্যই বোঝা যায় তা দাহহাক ও অন্যদের কথাই: তারা ছিল কওমের সবচেয়ে গণ্যমান্য, সবচেয়ে সম্পদশালী, আর কুফর ও অজস্র গুনাহে ডুবে থাকা লোক। মাআরিফুল কুরআন বলে, তারা হিজরের সর্দার হিসেবে পরিচিত ছিল। এরা শহরের কিনারায় ঘুরে বেড়ানো ভবঘুরে নয়, এরা দাঁড়িয়ে আছে শহরের ঠিক মাঝখানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why These Nine Are Singled Out",
+          "bn": "কেন আলাদা করে এই নয়জন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari raises the question himself. Every disbeliever is a corrupter in the land, so why does Allah single out these nine with that description? Because, as has reached us, he answers, they were the ones who strove to hamstring the she-camel, helped one another in it, and swore an alliance to kill Salih from among all the people of Thamud. Their corruption, he says, was their disbelief in Allah and their disobedience to Him. What set them apart from the rest was that they led the deed.",
+            "bn": "প্রশ্নটা তাবারী নিজেই তোলেন। প্রত্যেক কাফিরই তো দেশে ফাসাদকারী, তাহলে আল্লাহ এই নয়জনকে আলাদা করে এ বিশেষণ দিলেন কেন? তাঁর জবাব, আমাদের কাছে যা পৌঁছেছে সে অনুযায়ী, এরাই উটনীকে মেরে ফেলার চেষ্টায় নেমেছিল, এ কাজে একে অপরকে সাহায্য করেছিল, আর গোটা সামূদ জাতির মধ্য থেকে এরাই সালিহকে হত্যার শপথে জোট বেঁধেছিল। তাদের ফাসাদ বলতে তিনি বোঝান আল্লাহর সঙ্গে কুফর আর তাঁর নাফরমানি। বাকিদের থেকে তাদের আলাদা করেছে একটাই জিনিস: কাজটায় নেতৃত্ব দিয়েছিল তারাই।"
+          },
+          {
+            "en": "Ibn Kathir comes at it from another side. These men prevailed over the affairs of Thamud because they were its great ones and its heads, and they called their people to misguidance, disbelief and the denial of Salih. From al-'Awfi he relays Ibn 'Abbas: these are the ones who hamstrung the she-camel, which Ibn Kathir explains as meaning that it came from their opinion and their counsel. The hand that struck belonged to one man, Qudar ibn Salif, whom al-Baghawi calls their head. That part of the story is told at 54:29 and 91:12.",
+            "bn": "ইবন কাসীর বিষয়টা দেখেন আরেক দিক থেকে। সামূদের সব ব্যাপারে এদের কথাই চলত, কারণ এরাই ছিল জাতির বড় মানুষ ও মাথা। কওমকে তারা ডাকত গোমরাহি, কুফর আর সালিহকে মিথ্যা বলার দিকে। আওফীর সূত্রে তিনি ইবন আব্বাসের কথা আনেন: উটনীকে যারা মেরেছিল, তারা এরাই। ইবন কাসীর এর অর্থ খুলে বলেন, কাজটা হয়েছিল তাদেরই মত আর পরামর্শে। আঘাত হেনেছিল একজনের হাত, কুদার ইবন সালিফের, যাকে বাগাভী বলেন তাদের সর্দার। কাহিনির সে অংশ এসেছে ৫৪:২৯ ও ৯১:১২ আয়াতে।"
+          },
+          {
+            "en": "The commentators also try to name the nine. Ibn Kathir gives one list through as-Suddi, ascribed to Ibn 'Abbas. Al-Qurtubi sets out several more, from al-Ghaznawi, from Ibn Ishaq, from Wahb ibn Munabbih by way of az-Zamakhshari, and from al-Mawardi, and they do not agree. He quotes as-Suhayli saying that such naming cannot be pinned down by any report and is offered as conjecture. Only Qudar ibn Salif appears in every list. The names are left out here; the Qur'an gives a number and a deed.",
+            "bn": "তাফসীরকারেরা এই নয়জনের নামও বলার চেষ্টা করেছেন। ইবন কাসীর সুদ্দীর সূত্রে ইবন আব্বাসের নামে একটা তালিকা দেন। কুরতুবী আরও কয়েকটা তালিকা আনেন: গাযনাবী থেকে, ইবন ইসহাক থেকে, যামাখশারীর মাধ্যমে ওয়াহব ইবন মুনাব্বিহ থেকে, আর মাওয়ার্দী থেকে। তালিকাগুলো একটা আরেকটার সঙ্গে মেলে না। কুরতুবী সুহাইলীর কথা উদ্ধৃত করেন যে এসব নাম কোনো বর্ণনা দিয়ে নিশ্চিত করা যায় না, এগুলো অনুমান। শুধু কুদার ইবন সালিফের নাম আছে প্রতিটি তালিকায়। তাই নামগুলো এখানে রাখা হলো না। কুরআন দিয়েছে একটা সংখ্যা আর একটা কাজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoiling Without Ever Mending",
+          "bn": "ভাঙে, কিন্তু জোড়া দেয় না"
+        },
+        "p": [
+          {
+            "en": "Yufsiduna fi l-ardi wa-la yuslihun. As-Sa'di reads the pairing as a full portrait: corruption in the land was their description, and they had neither the intention nor the act of setting anything right. Al-Muyassar puts it in a line: their concern was corruption with nothing of good mixed into it. A person can do harm and still repair some of it. These men are described as having no mending side at all, and that is why the verse needs both halves.",
+            "bn": "ইউফসিদূনা ফিল আরদি ওয়া লা ইউসলিহূন। সা'দী এই জোড়াকে পড়েন এক পূর্ণ ছবি হিসেবে: দেশে ফাসাদ ছড়ানোই ছিল তাদের পরিচয়, আর কিছু শোধরানোর না ছিল নিয়ত, না ছিল কাজ। মুয়াসসার এক বাক্যে বলে: তাদের কাজই ছিল এমন ফাসাদ, যার সঙ্গে ভালোর ছিটেফোঁটাও মেশানো নেই। মানুষ ক্ষতি করেও কিছুটা মেরামত করতে পারে। এদের বর্ণনায় মেরামতের দিকটাই নেই, তাই আয়াতের দুটি অংশই দরকার।"
+          },
+          {
+            "en": "As-Sa'di then gives the corruption its content. They had readied themselves to oppose Salih, to attack his religion and to call their people to do the same. He quotes here Salih's own warning from 26:150 to 26:152: so fear Allah and obey me, and do not obey the command of the extravagant, who spread corruption in the land and do not reform. The closing words are the very ones of this verse, so the earlier warning and this portrait describe men of the same stamp.",
+            "bn": "এরপর সা'দী ফাসাদের ভেতরের কথাটা বলেন। তারা সালিহের বিরোধিতা করতে, তাঁর দ্বীনকে আক্রমণ করতে আর কওমকেও সেদিকে ডাকতে কোমর বেঁধে নেমেছিল। এখানে তিনি উদ্ধৃত করেন ২৬:১৫০ থেকে ২৬:১৫২ আয়াতে সালিহের নিজের সতর্কবাণী: অতএব আল্লাহকে ভয় করো আর আমার আনুগত্য করো। সীমালঙ্ঘনকারীদের হুকুম মেনো না, যারা দেশে ফাসাদ ছড়ায় আর সংশোধন করে না। শেষ কথাগুলো হুবহু এই আয়াতের কথা। আগের সতর্কবাণী আর এখানকার ছবি একই ধাঁচের মানুষের কথা বলে।"
+          },
+          {
+            "en": "Others look for the corruption in deeds. 'Ata and Sa'id ibn al-Musayyib, as Ibn Kathir and al-Qurtubi relay, found it in clipping coins, a detail the commentary on 27:52 has already taken up. Ibn Kathir also points to a narration in Abu Dawud about breaking coins; it concerns coinage in general, not this verse, and Abu Dawud gives it no grading. Al-Qurtubi notes a view, introduced with \"it is said\", that their corruption was tracking people's private faults and not covering them. Ibn Kathir's summary takes in all of it: corruption by every road they could reach.",
+            "bn": "কেউ কেউ ফাসাদ খুঁজেছেন নির্দিষ্ট কাজে। ইবন কাসীর ও কুরতুবীর বর্ণনায় আতা আর সাঈদ ইবনুল মুসাইয়িব তা পেয়েছেন মুদ্রা কেটে নেওয়ার মধ্যে। এ প্রসঙ্গ ২৭:৫২ আয়াতের আলোচনায় আগেই এসেছে। ইবন কাসীর মুদ্রা ভাঙা নিয়ে আবু দাউদের একটি বর্ণনার দিকেও ইঙ্গিত করেন। সেটা সাধারণভাবে মুদ্রা নিয়ে, এই আয়াত নিয়ে নয়, আর আবু দাউদ এর কোনো মান উল্লেখ করেননি। কুরতুবী 'বলা হয়' বলে একটা মত আনেন: তাদের ফাসাদ ছিল মানুষের গোপন দোষ খুঁজে বেড়ানো আর তা ঢেকে না রাখা। ইবন কাসীরের সারকথায় সবই আছে: যে পথে পারত, সে পথেই তারা ফাসাদ ছড়াত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Oath Taken in His Name",
+          "bn": "তাঁরই নামে কসম"
+        },
+        "p": [
+          {
+            "en": "Qalu taqasamu billah. At-Tabari explains it as: make a sworn alliance by Allah, O people, let each of you swear to the other. Al-Muyassar says the same, that each should swear to the others. As-Sa'di frames it as the outcome of everything before: they kept on in that ugly state until, out of their enmity, each swore to the other. Al-Baghawi gives tahalafu, they made a pact, and tawathaqu, they bound themselves by covenant. The form is mutual. Every man's oath ties him to the rest.",
+            "bn": "কালূ তাকাসামূ বিল্লাহ। তাবারী এর ব্যাখ্যা দেন এভাবে: হে লোকেরা, আল্লাহর নামে শপথ করে জোট বাঁধো, তোমাদের প্রত্যেকে অন্যের কাছে কসম খাও। মুয়াসসারও তাই বলে: প্রত্যেকে বাকিদের কাছে কসম খাবে। সা'দী একে দেখেন আগের সবকিছুর পরিণতি হিসেবে। সেই জঘন্য অবস্থায় তারা লেগেই ছিল, শেষে শত্রুতার তাড়নায় একে অপরের কাছে কসম খেল। বাগাভী অর্থ দেন তাহালাফূ, তারা চুক্তি করল, আর তাওয়াসাকূ, তারা অঙ্গীকারে নিজেদের বেঁধে নিল। কসমটা পারস্পরিক। প্রত্যেকের শপথ তাকে বাকিদের সঙ্গে বেঁধে রাখে।"
+          },
+          {
+            "en": "The grammar allows two readings, which at-Tabari, al-Qurtubi and al-Baghawi all set out. Taqasamu may be a command, one man telling the rest: swear. Or it may be a past verb describing their state: they spoke, having sworn together. For the second, at-Tabari and al-Qurtubi cite the reading of 'Abdullah, which runs straight on from wa-la yuslihuna to taqasamu billah with no qalu. The verb after it is read by most with nun, we will attack him; al-Qurtubi gives Hamza and al-Kisa'i with ta, the plotters addressing one another. At-Tabari holds all correct and prefers the nun.",
+            "bn": "ব্যাকরণে দুই রকম পড়া চলে, তাবারী, কুরতুবী ও বাগাভী তিনজনই তা দেখিয়েছেন। তাকাসামূ হতে পারে আদেশ: একজন বাকিদের বলছে, কসম খাও। আবার হতে পারে অতীত কালের ক্রিয়া, যা তাদের অবস্থা বোঝায়: তারা একসঙ্গে কসম খেয়ে বলল। দ্বিতীয় অর্থের পক্ষে তাবারী ও কুরতুবী আবদুল্লাহর কিরাআত দেখান, যেখানে কালূ শব্দটি নেই, ওয়া লা ইউসলিহূনের পরেই সরাসরি তাকাসামূ বিল্লাহ। পরের ক্রিয়াটি বেশিরভাগ পড়েন নূন দিয়ে, আমরা তাঁর উপর হামলা করব। কুরতুবী জানান, হামযা ও কিসাঈ পড়েছেন তা দিয়ে, যেন চক্রান্তকারীরা একে অপরকে সম্বোধন করছে। তাবারী সবগুলোকে শুদ্ধ মানেন, তবে নূনের পড়াই তাঁর পছন্দ।"
+          },
+          {
+            "en": "However it is parsed, the oath is by Allah. Men whom at-Tabari describes as disbelieving in Allah and disobeying Him still reached for His name when they needed a bond strong enough to hold a killing together. The commentaries fetched for these verses do not stop on this, so it is offered as a reflection, not as anyone's reported reading. The name that should have halted their hands became the seal on their plan. An oath does not clean what it is sworn to; it only shows how firmly a person has chosen it.",
+            "bn": "যেভাবেই পড়া হোক, কসমটা আল্লাহর নামে। তাবারী যাদের বর্ণনা দেন আল্লাহর সঙ্গে কুফরকারী ও তাঁর নাফরমান হিসেবে, একটা খুনকে বেঁধে রাখার মতো শক্ত বন্ধনের দরকার পড়তেই তারা হাত বাড়াল তাঁরই নামের দিকে। এ আয়াতগুলোর যেসব তাফসীর এখানে দেখা হয়েছে, সেগুলো এ বিষয়ে থামেনি। তাই কথাটা এখানে ভাবনা হিসেবেই রাখা হলো, কারও বর্ণিত ব্যাখ্যা হিসেবে নয়। যে নাম তাদের হাত থামিয়ে দেওয়ার কথা, সেটাই হয়ে গেল তাদের ছকের সিলমোহর। কসম কোনো কাজকে পবিত্র করে না। শুধু দেখিয়ে দেয়, মানুষ কতটা পাকাপোক্তভাবে সে কাজ বেছে নিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bayat, the Strike by Night",
+          "bn": "বায়াত, রাতের হানা"
+        },
+        "p": [
+          {
+            "en": "La-nubayyitannahu wa-ahlahu. Al-Qurtubi defines al-bayat as taking an enemy by surprise at night; al-Baghawi glosses it as killing him by night. Ibn Kathir adds ghilatan, by stealth, and in his reading the pact was that whoever met the Prophet Salih at night would kill him. Wa-ahlahu, and his household: al-Baghawi takes it as his people who had believed with him. The target was not one man but the small community of faith around him.",
+            "bn": "লানুবাইয়িতান্নাহূ ওয়া আহলাহূ। কুরতুবীর সংজ্ঞায় বায়াত মানে রাতে শত্রুর উপর অতর্কিতে চড়াও হওয়া। বাগাভী বলেন, রাতে তাঁকে হত্যা করা। ইবন কাসীর যোগ করেন গীলাতান, চুপিসারে। তাঁর ব্যাখ্যায় চুক্তি ছিল, রাতে আল্লাহর নবী সালিহকে যে পাবে, সে-ই তাঁকে মেরে ফেলবে। ওয়া আহলাহূ, আর তাঁর পরিবার: বাগাভী এর অর্থ নেন তাঁর সেই লোকজন, যারা তাঁর সঙ্গে ঈমান এনেছিল। নিশানা তাই একজন মানুষ নয়, তাঁকে ঘিরে থাকা ঈমানদারদের ছোট্ট দলটি।"
+          },
+          {
+            "en": "Ibn Ishaq's report, which at-Tabari and Ibn Kathir both carry, gives the nine's reasoning after the she-camel was killed: if Salih is truthful about the punishment due after three days, we hasten him before us; if he is lying, we send him after his camel. The report adds that they came by night and angels struck them with stones; Mujahid says they never reached him before they and their people perished. How the plot was answered belongs to 27:50 and 27:51, and the cave report to the commentary on 27:52.",
+            "bn": "ইবন ইসহাকের একটা বর্ণনা তাবারী ও ইবন কাসীর দুজনেই এনেছেন। উটনী মেরে ফেলার পর নয়জনের যুক্তি ছিল এই: তিনটি দিন পার হলে আযাব আসার কথায় সালিহ যদি সত্যবাদী হয়, তবে তার আগেই আমরা তাকে শেষ করব। আর মিথ্যাবাদী হলে তাকে তার উটনীর কাছে পাঠিয়ে দেব। বর্ণনায় আছে, তারা রাতে এলে ফেরেশতারা তাদের পাথর মেরে শেষ করে দেন। মুজাহিদ বলেন, তাঁর কাছে পৌঁছানোর আগেই তারা আর তাদের কওম সবাই ধ্বংস হয়ে যায়। চক্রান্তের জবাব কীভাবে এল, তা ২৭:৫০ ও ২৭:৫১ আয়াতের বিষয়। গুহার বর্ণনাটি এসেছে ২৭:৫২ আয়াতের আলোচনায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Truthful on a Technicality",
+          "bn": "কৌশলে সাজানো সত্য"
+        },
+        "p": [
+          {
+            "en": "Thumma la-naqulanna li-waliyyihi. The wali, al-Qurtubi explains, is Salih's kin who hold the right over his blood; al-Baghawi calls him the guardian of his blood, al-Muyassar the avenger of blood from among his relatives and Ibn Kathir his near kinsmen. The plan assumes a family will rise to claim the killing and prepares the answer in advance: ma shahidna mahlika ahlihi, we were not present at the destruction of his household. Al-Qurtubi and al-Baghawi add the unspoken rest: and we do not know who killed him.",
+            "bn": "সুম্মা লানাকূলান্না লিওয়ালিয়্যিহী। কুরতুবী বলেন, এই ওয়ালী মানে সালিহের সেই আত্মীয়েরা, যাদের হাতে তাঁর রক্তের দাবির অধিকার। বাগাভী বলেন তাঁর রক্তের অভিভাবক, মুয়াসসার বলে আত্মীয়দের মধ্যে যে রক্তের দাবিদার, আর ইবন কাসীর বলেন তাঁর নিকটাত্মীয়েরা। ছকটা ধরে নিয়েছে, পরিবারের কেউ না কেউ খুনের বিচার চাইতে দাঁড়াবে। তাই জবাব আগেই তৈরি: মা শাহিদনা মাহলিকা আহলিহী, তাঁর পরিবার যখন ধ্বংস হয়, আমরা সেখানে ছিলাম না। কুরতুবী আর বাগাভী না বলা বাকিটুকু জুড়ে দেন: আর কে তাঁকে মেরেছে, তা আমরা জানি না।"
+          },
+          {
+            "en": "Wa-inna la-sadiqun. At-Tabari makes the claim precise: we are truthful that we did not witness the destruction of his household. As-Sa'di says that when the guardian rose against them and accused them, they would deny it, reject it and swear that they were truthful. Ma'arif al-Qur'an draws out the device inside it. In the dark no one could know who had killed whom, so they could deny the killing and deny knowing the killer, and count themselves as having spoken the truth.",
+            "bn": "ওয়া ইন্না লাসাদিকূন। তাবারী দাবিটাকে নির্দিষ্ট করে দেন: আমরা সত্যবাদী এই অর্থে যে তাঁর পরিবারের ধ্বংস আমরা চোখে দেখিনি। সা'দী বলেন, অভিভাবক যখন দাঁড়িয়ে তাদের বিরুদ্ধে অভিযোগ আনবে, তারা অস্বীকার করবে, উড়িয়ে দেবে, আর কসম খেয়ে বলবে, আমরা সত্য বলছি। মাআরিফুল কুরআন এর ভেতরের কৌশলটা খুলে দেখায়। অন্ধকারে কে কাকে মেরেছে, কেউ জানতে পারত না। তাই তারা হত্যার কথা অস্বীকার করতে পারত, খুনিকে চেনার কথাও অস্বীকার করতে পারত, আর ভাবতে পারত যে তারা সত্যই বলেছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an then makes an observation of its own. Men given over to disbelief, killing and plunder were still careful not to be caught in a lie, and it takes this as a sign of how grave the sin of falsehood is, that even the doers of heinous crimes shun it for their self-respect. It also asks why the wali himself was to be spared, and offers two possibilities: an heir by lineage who sided with them, or a believer of standing whose killing could spark an uprising. It closes: Allah knows best.",
+            "bn": "এরপর মাআরিফুল কুরআন নিজের একটা পর্যবেক্ষণ দেয়। কুফর, হত্যা আর লুটপাটে ডুবে থাকা লোকেরাও খেয়াল রাখছিল, যেন মিথ্যায় ধরা না পড়ে। এ থেকে সে বোঝে মিথ্যা কত বড় গুনাহ, জঘন্য অপরাধীরাও নিজেদের মানসম্মানের খাতিরে তা এড়িয়ে চলে। সে আরও প্রশ্ন তোলে, ওয়ালীকে নিজে কেন রেহাই দেওয়া হচ্ছিল। দুটি সম্ভাবনা দেখায়: হয়তো সে বংশের সূত্রে উত্তরাধিকারী, কিন্তু নিজে ছিল কাফিরদের দলে। নয়তো সে ছিল প্রভাবশালী এক মুমিন, যাকে মারলে বিদ্রোহ আর প্রতিশোধের ঝুঁকি ছিল। শেষে বলে: আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Alibi That Hides Nothing",
+          "bn": "যে অজুহাত কিছুই ঢাকে না"
+        },
+        "p": [
+          {
+            "en": "These verses describe nine men of Thamud, whom the Qur'an names by what they did, and they license nothing against any present-day group, city or people. No one may hold them up against a neighbour, a party or a town as though it were the Hijr of Thamud. The answer to the nine comes in the next verse: they plotted and We planned, while they did not perceive (27:50). No commentator fetched here attaches a sound hadith to these two verses, so the reflection rests on the text.",
+            "bn": "আয়াত দুটি সামূদের নয়জন লোকের কথা বলে, কুরআন যাদের পরিচয় দিয়েছে তাদের কাজ দিয়ে। আজকের কোনো দল, শহর বা জাতির বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো প্রতিবেশী, দল বা জনপদকে সামূদের হিজর বানিয়ে তার গায়ে এ আয়াত সেঁটে দেওয়ার অধিকার কারও নেই। নয়জনের জবাব এসেছে পরের আয়াতেই: তারা চক্রান্ত করল, আর আমিও কৌশল করলাম, অথচ তারা টেরও পেল না (২৭:৫০)। এখানে দেখা কোনো তাফসীর এ দুই আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি, তাই ভাবনাটা দাঁড়িয়ে আছে আয়াতের নিজের কথার উপর।"
+          },
+          {
+            "en": "What the verses leave with the reader is a mirror. The nine kept the outward forms: an oath in Allah's name, a sentence true in its words. Ma'arif's remark cuts both ways, for even they felt a lie was shameful, yet they built a truth to carry one. Where do I say things that are accurate and still mislead, or bring Allah's name into a promise He would never accept? Truthfulness is not sentences that pass inspection but an intent that could bear the light.",
+            "bn": "আয়াত দুটি পাঠকের হাতে রেখে যায় একটা আয়না। নয়জন বাইরের খোলসটা ঠিক রেখেছিল: আল্লাহর নামে কসম, আর এমন এক বাক্য, যা শব্দে সত্য। মাআরিফুল কুরআনের পর্যবেক্ষণ দুই দিকেই কাটে। মিথ্যাকে তারাও লজ্জার জিনিস মনে করত, অথচ একটা মিথ্যাকে বয়ে নেওয়ার জন্য তারা সত্য দিয়ে বাহন বানাল। কোথায় আমি নির্ভুল কথা বলেও মানুষকে ভুল বোঝাই? কোথায় এমন প্রতিজ্ঞায় আল্লাহর নাম টেনে আনি, যা তিনি কখনো কবুল করবেন না? সত্যবাদিতা মানে যাচাইয়ে টিকে যাওয়া বাক্য নয়, এমন নিয়ত যা আলোয় দাঁড়াতে পারে।"
+          }
+        ]
+      }
+    ]
+  },
   "27:52": {
     "sections": [
       {
