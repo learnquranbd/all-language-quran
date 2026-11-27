@@ -2059,6 +2059,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "36:49": {
+    "sections": [
+      {
+        "h": {
+          "en": "No Date, Only a Blast",
+          "bn": "তারিখ নয়, শুধু এক আওয়াজ"
+        },
+        "p": [
+          {
+            "en": "Ma yanzuruna illa sayhatan wahidatan ta'khudhuhum wa-hum yakhissimun: they await nothing but a single blast, which will seize them while they are disputing. The verse is a reply. In 36:48 the deniers ask, when is this promise, if you are truthful? The answer comes here, and it names no year. Al-Qurtubi, al-Baghawi and Ibn Kathir all gloss ma yanzurun as ma yantazirun: they are waiting for nothing else. At-Tabari names the ones waiting: these polytheists who were demanding that Allah's threat against them be hurried on.",
+            "bn": "মা ইয়ানযুরূনা ইল্লা সাইহাতান ওয়াহিদাতান তা'খুযুহুম ওয়া হুম ইয়াখিসসিমূন: তারা অপেক্ষা করছে শুধু একটি প্রচণ্ড আওয়াজের, যা তাদের পাকড়াও করবে যখন তারা বিবাদে লিপ্ত। আয়াতটি আসলে একটা জবাব। ৩৬:৪৮ আয়াতে অবিশ্বাসীরা প্রশ্ন তোলে, তোমরা সত্যবাদী হলে বলো, এ প্রতিশ্রুতি কবে? জবাব এল এখানে, কিন্তু কোনো সাল বলা হলো না। কুরতুবী, বাগাভী ও ইবন কাসীর তিনজনই মা ইয়ানযুরূনের অর্থ করেন মা ইয়ানতাযিরূন, অর্থাৎ এ ছাড়া তারা আর কিছুর অপেক্ষায় নেই। কারা অপেক্ষা করছে, তাবারী তা স্পষ্ট করেন: এই মুশরিকরা, যারা আল্লাহর দেওয়া হুমকি তাড়াতাড়ি এনে দেখাতে বলছিল।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the question behind the answer. It was asked of the Muslims by way of mockery, its real purpose to deny the Day of Judgement, not to reach the truth. And even had it been a sincere inquiry, it says, the mercy of the Lord requires that the exact year and day of the Hour be given to no one, not even to His prophets and messengers. So instead of a date they were given a warning: sensible people who know something is certainly coming prepare for it.",
+            "bn": "মাআরিফুল কুরআন জবাবের পেছনের প্রশ্নটা খুলে দেখায়। প্রশ্নটা মুসলিমদের কাছে করা হয়েছিল ঠাট্টার ছলে। আসল উদ্দেশ্য ছিল বিচারদিবসকে অস্বীকার করা, সত্যে পৌঁছানো নয়। তারপর সেখানে বলা হয়, প্রশ্নটা আন্তরিক হলেও লাভ ছিল না। রাব্বুল আলামীনের রহমতের দাবিই হলো, কিয়ামতের সঠিক সাল আর দিনের জ্ঞান কাউকে দেওয়া হবে না, তাঁর সম্মানিত নবী-রাসূলদেরও নয়। তাই তারিখের বদলে তারা পেল সতর্কবাণী। বুদ্ধিমান মানুষ যখন জানে কোনো কিছু নিশ্চিত আসছে, তখন সে তার জন্য তৈরি হয়।"
+          },
+          {
+            "en": "Ibn Kathir's abridged English sets 42:18 beside the verse: those who do not believe in the Hour seek to hasten it. The irony sits in the verse's own word: those who ask when are already waiting, for the very thing they claim will never come. Ma'arif puts it sharply: they are so entangled in heedlessness that they seem to be waiting for nothing short of the Day itself arriving before them, and only then will they think about it.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এ আয়াতের পাশে ৪২:১৮ রাখে: যারা কিয়ামতে বিশ্বাস করে না, তারাই তা তাড়াতাড়ি চায়। পরিহাসটা আয়াতের নিজের শব্দেই আছে। যারা জিজ্ঞেস করছে কবে, তারা তো অপেক্ষাই করছে, ঠিক সেই জিনিসের, যা কখনো আসবে না বলে তারা দাবি করে। মাআরিফুল কুরআন কথাটা ধারালোভাবে বলে: গাফলতিতে তারা এমন জড়িয়ে আছে, যেন কিয়ামত নিজে চোখের সামনে এসে না দাঁড়ানো পর্যন্ত তারা কিছুই ভাববে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Terror, or the Death Blast",
+          "bn": "ভীতির ফুঁক, না মৃত্যুর ফুঁক"
+        },
+        "p": [
+          {
+            "en": "The commentators agree that the sayha is a blowing into the Horn. As-Sa'di says only that: it is the blowing of the Sur. Al-Qurtubi calls it the blowing of Israfil (AS). They part on which blowing it is. At-Tabari names it nafkhat al-faza', the blast of terror at the rising of the Hour, and adds that the interpreters said the same and the reports came with it. Al-Muyassar agrees. Ibn Kathir also calls it the blast of terror, but he sets wallahu a'lam, and Allah knows best, inside his own gloss.",
+            "bn": "সাইহা যে শিঙ্গায় ফুঁক, তাফসীরকারেরা এ ব্যাপারে একমত। সা'দী শুধু এটুকুই বলেন: এটা শিঙ্গার ফুঁক। কুরতুবী বলেন, এটা ইসরাফীল (আঃ)-এর ফুঁক। মতভেদ হলো, কোন ফুঁক। তাবারী একে বলেন নাফখাতুল ফাযা', কিয়ামত কায়েম হওয়ার সময়ের ভীতির ফুঁক। তিনি যোগ করেন, তাফসীরবিদরাও এমনই বলেছেন আর বর্ণনাগুলোও এ কথাই এনেছে। মুয়াসসারও তা-ই বলে। ইবন কাসীরও একে ভীতির ফুঁক বলেন, তবে নিজের ব্যাখ্যার মাঝখানেই জুড়ে দেন ওয়াল্লাহু আ'লাম, আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "Al-Qurtubi reads it otherwise. The blast seizes them while they dispute over the affairs of their world, and they die where they stand; this, he says, is nafkhat as-sa'q, the blast that strikes down. Ma'arif, drawing on al-Qurtubi's material, likewise has them lie dead in that very state. Ibn Kathir's abridgement places the death blast later: after this comes the blast that makes everyone alive die, besides the Ever-Living, and then the blast of resurrection.",
+            "bn": "কুরতুবী পড়েন ভিন্নভাবে। দুনিয়ার কাজকর্ম নিয়ে তারা যখন বিবাদে ব্যস্ত, ফুঁক তখন তাদের ধরে ফেলে, আর যে যেখানে আছে সেখানেই মারা যায়। তাঁর ভাষায়, এটা নাফখাতুস সা'ক, যে ফুঁক মানুষকে লুটিয়ে দেয়। মাআরিফুল কুরআনও কুরতুবীর বর্ণনা টেনে বলে, সেই অবস্থাতেই সবাই মরে পড়ে থাকবে। ইবন কাসীরের সংক্ষিপ্ত সংস্করণে মৃত্যুর ফুঁক আসে পরে। এরপর আসবে সেই ফুঁক, যাতে চিরঞ্জীব আল্লাহ ছাড়া সব জীবিত মারা যাবে, তারপর পুনরুত্থানের ফুঁক।"
+          },
+          {
+            "en": "Two early names stand behind calling it the first blowing. Al-Baghawi reports Ibn Abbas: he means the first blowing. Al-Qurtubi reports Ikrima: it is the first blowing in the Horn. Whatever its name, all place this blast before the blast that raises the dead, since those it seizes are still alive and arguing. How many blowings there are in all belongs to 36:51 and is set out there. Here the two positions stand side by side, each with its names.",
+            "bn": "একে প্রথম ফুঁক বলার পেছনে দুজন প্রথম যুগের মানুষের নাম আছে। বাগাভী ইবন আব্বাস (রাঃ)-এর কথা আনেন: এখানে প্রথম ফুঁক বোঝানো হয়েছে। কুরতুবী আনেন ইকরিমার কথা: এটা শিঙ্গার প্রথম ফুঁক। নাম যা-ই হোক, সবাই এ ফুঁককে মৃতদের জাগিয়ে তোলার ফুঁকের আগে রাখেন। কারণ যাদের এটা ধরে, তারা তখনো জীবিত, তখনো তর্কে লিপ্ত। মোট কয়টি ফুঁক, সে আলোচনা ৩৬:৫১ আয়াতের, সেখানেই তা আছে। এখানে দুই মত পাশাপাশি থাকুক, যার যার নাম সহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Haggling in the Marketplace",
+          "bn": "বাজারের দরদামের মাঝখানে"
+        },
+        "p": [
+          {
+            "en": "Wa-hum yakhissimun: and they are disputing. Over what? Al-Qurtubi says over the affairs of their worldly life. Al-Baghawi is more concrete: they dispute in worldly matters of buying and selling, and talk in the gatherings and the markets. Al-Muyassar says in the affairs of their lives, and adds the word faj'atan: it takes them suddenly. Ibn Kathir gives the fullest scene. The blast comes while people are in their markets and their livelihoods, disputing and quarrelling with one another as is their habit.",
+            "bn": "ওয়া হুম ইয়াখিসসিমূন: আর তারা বিবাদে লিপ্ত। কী নিয়ে বিবাদ? কুরতুবী বলেন, দুনিয়ার কাজকারবার নিয়ে। বাগাভী আরও নির্দিষ্ট করে বলেন: কেনাবেচার মতো দুনিয়াবি বিষয়ে তারা বিবাদ করছে, মজলিসে আর বাজারে কথাবার্তায় মেতে আছে। মুয়াসসার বলে, জীবনের নানা ব্যাপারে, আর সঙ্গে একটা শব্দ যোগ করে: ফাজআতান, অর্থাৎ হঠাৎ। সবচেয়ে পূর্ণ ছবিটা আঁকেন ইবন কাসীর। মানুষ তখন বাজারে, রুজিরোজগারের কাজে, অভ্যাসমতো একে অপরের সঙ্গে ঝগড়া আর কথা কাটাকাটি করছে। ঠিক তখনই ফুঁক আসে।"
+          },
+          {
+            "en": "Al-Qurtubi records a second sense, introduced with qila, it has been said: the blast seizes them while, in their own estimation, they are disputing over the argument that they will not be raised. Then the deniers are caught mid-debate about the very thing that is arriving. At-Tabari reaches a similar meaning through one of the readings discussed below, in which they think themselves the winners of the argument against whoever promised them the Hour.",
+            "bn": "কুরতুবী 'বলা হয়েছে' দিয়ে আরেকটি অর্থ উল্লেখ করেন। ফুঁক তাদের এমন অবস্থায় ধরবে, যখন তারা নিজেদের ধারণায় এই যুক্তি নিয়ে তর্ক করছে যে তাদের আর ওঠানো হবে না। তাহলে অবিশ্বাসীরা ধরা পড়ছে ঠিক সেই জিনিস নিয়ে বিতর্কের মাঝখানে, যা তখন এসে হাজির। তাবারীও একটি কিরাআতের সূত্রে কাছাকাছি অর্থে পৌঁছান, যা নিচে আসছে। সে পাঠে তারা ভাবে, যে তাদের কিয়ামতের প্রতিশ্রুতি দিয়েছে, তর্কে তাকে তারা হারিয়ে দিচ্ছে।"
+          },
+          {
+            "en": "Ibn Kathir goes on to describe the moment itself. Allah commands Israfil (AS), who blows into the Horn a blast he lengthens and draws out, and nobody is left on the face of the earth who does not bend and lift his neck, listening for the sound from the sky. Then the people still alive are driven to the gathering place by a fire that surrounds them on every side.",
+            "bn": "এরপর ইবন কাসীর মুহূর্তটার বর্ণনা দেন। আল্লাহ ইসরাফীল (আঃ)-কে হুকুম দেবেন, আর তিনি শিঙ্গায় এমন ফুঁক দেবেন যা দীর্ঘ, টানা। পৃথিবীর বুকে এমন কেউ থাকবে না যে ঘাড় হেলিয়ে আর তুলে আকাশের দিক থেকে আসা আওয়াজ কান পেতে শুনবে না। তারপর যারা তখনো বেঁচে আছে, তাদের হাঁকিয়ে নেওয়া হবে হাশরের ময়দানের দিকে, এক আগুন চারদিক থেকে তাদের ঘিরে রাখবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Verb, Several Voicings",
+          "bn": "এক ক্রিয়া, কয়েক রকম উচ্চারণ"
+        },
+        "p": [
+          {
+            "en": "Behind the word is yakhtasimun, they dispute among themselves, with the ta merged into the sad. At-Tabari lists four readings. Some readers of Medina said yakhssimun, the kha left silent and the sad doubled, so two silent letters meet. Some Meccans and Basrans said yakhassimun, carrying the ta's fatha over to the kha. Some Kufans said yakhissimun, giving the kha a kasra. Others said yakhsimun, the kha silent and the sad light. Al-Qurtubi assigns yakhissimun, the reading in the text above, to Asim and al-Kisa'i.",
+            "bn": "শব্দটির মূলে আছে ইয়াখতাসিমূন, অর্থাৎ তারা পরস্পর বিবাদ করে। এখানে তা-কে সাদের ভেতরে মিলিয়ে দেওয়া হয়েছে। তাবারী চারটি কিরাআত উল্লেখ করেন। মদীনার কিছু কারী পড়েছেন ইয়াখসসিমূন, খা সাকিন আর সাদে তাশদীদ, ফলে দুটি সাকিন অক্ষর পাশাপাশি পড়ে। মক্কা ও বসরার কিছু কারী পড়েছেন ইয়াখাসসিমূন, তা-এর যবর খা-তে সরিয়ে এনে। কুফার কিছু কারী পড়েছেন ইয়াখিসসিমূন, খা-তে যের দিয়ে। আর কেউ কেউ পড়েছেন ইয়াখসিমূন, খা সাকিন আর সাদ হালকা। কুরতুবী জানান, ইয়াখিসসিমূন, অর্থাৎ ওপরের আয়াতে যে পাঠ আছে, তা আসিম ও কিসাঈর কিরাআত।"
+          },
+          {
+            "en": "The last of them, at-Tabari explains, is from khusuma, quarrel, in a simpler verb form. Its reader may mean that they are merely talking, or that in their own minds they out-argue whoever promised them the Hour. Al-Baghawi gives this light reading to Hamza: they overcome one another in quarrel. Al-Qurtubi counts five readings, the fifth from Asim with both ya and kha taking a kasra, which the passage explains as one vowel echoing the next.",
+            "bn": "তাবারী বলেন, শেষ পাঠটি খুসূমা, অর্থাৎ ঝগড়া থেকে এসেছে, ক্রিয়ার একটি সহজ রূপে। এ পাঠের কারী হয়তো বোঝাতে চান যে তারা শুধু কথা বলছে। অথবা এই যে, তারা নিজেদের মনে মনে কিয়ামতের প্রতিশ্রুতিদাতাকে যুক্তিতে হারাচ্ছে। বাগাভী এই হালকা পাঠ হামযার বলে উল্লেখ করেন, যার অর্থ: ঝগড়ায় একে অপরকে হারিয়ে দেয়। কুরতুবী গোনেন পাঁচটি কিরাআত। পঞ্চমটি আসিম থেকে, যেখানে ইয়া আর খা দুটোতেই যের। আলোচনায় এর ব্যাখ্যা এই যে একটি স্বর পরের স্বরের অনুসরণ করেছে।"
+          },
+          {
+            "en": "In the passage al-Qurtubi quotes from an-Nahhas, the fatha reading is called the clearest. Al-Farra' had held the kasra reading better and more widespread, and an-Nahhas asks how it can be more widespread when the fatha is read by the people of Mecca, Basra and Medina. The same passage notes that the codex of Ubayy has the unmerged yakhtasimun. At-Tabari's verdict is the widest: all are well-known readings of the cities, close in meaning, and any of them is right.",
+            "bn": "কুরতুবী নাহহাসের যে বক্তব্য উদ্ধৃত করেন, তাতে যবরের পাঠকে সবচেয়ে স্পষ্ট বলা হয়েছে। ফাররা মনে করতেন যেরের পাঠই উত্তম আর বেশি প্রচলিত। নাহহাস প্রশ্ন তোলেন, মক্কা, বসরা আর মদীনার লোকেরা যখন যবর দিয়ে পড়েন, তখন যেরের পাঠ বেশি প্রচলিত হয় কীভাবে? একই আলোচনায় আছে, উবাই (রাঃ)-এর মুসহাফে শব্দটি না মিলিয়ে ইয়াখতাসিমূন লেখা। তাবারীর রায় সবচেয়ে উদার। সবগুলোই বিভিন্ন শহরের কারীদের মধ্যে প্রসিদ্ধ, অর্থে কাছাকাছি, আর যেকোনোটিই সঠিক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Garment Still in Hand",
+          "bn": "হাতে তখনো কাপড়ের থান"
+        },
+        "p": [
+          {
+            "en": "At-Tabari supports his reading with a report from Abdullah ibn Amr, given as his own words, not the Prophet's ﷺ. The Horn will be blown while people are in their roads, their markets and their gatherings, so that a garment lies between two men bargaining over it, and one of them has not let it go from his hand before the blowing. A man sets out from his house in the morning and does not come back before the Horn is blown. Then he recites this verse and the next.",
+            "bn": "তাবারী নিজের ব্যাখ্যার সমর্থনে আবদুল্লাহ ইবন আমর (রাঃ)-এর একটি বর্ণনা আনেন। এটা তাঁর নিজের কথা হিসেবে এসেছে, নবী ﷺ-এর দিকে সম্পৃক্ত করে নয়। মানুষ যখন পথে, বাজারে আর মজলিসে, তখনই শিঙ্গায় ফুঁক দেওয়া হবে। দুজন লোকের মাঝে একটা কাপড়, তারা দরদাম করছে, আর একজন হাত থেকে কাপড়টা ছাড়ার আগেই ফুঁক এসে যাবে। কেউ সকালে ঘর থেকে বের হবে, আর ফিরে আসার আগেই শিঙ্গা বেজে উঠবে। এরপর তিনি এ আয়াত আর পরের আয়াতটি তিলাওয়াত করেন।"
+          },
+          {
+            "en": "Al-Qurtubi records Abu Hurayra, again in his own words: the Horn is blown while people are in their markets, some milking a camel, some measuring out cloth, some passing by on an errand. The pictures are small and ordinary on purpose. No one in them is doing anything grave or sinful, and nothing in them is finished.",
+            "bn": "কুরতুবী আবু হুরায়রা (রাঃ)-এর কথা আনেন, এটাও তাঁর নিজের ভাষায়। মানুষ যখন বাজারে, কেউ উটনীর দুধ দোয়াচ্ছে, কেউ গজ মেপে কাপড় দিচ্ছে, কেউ কোনো দরকারে পথ দিয়ে যাচ্ছে, তখনই শিঙ্গায় ফুঁক দেওয়া হবে। ছবিগুলো ইচ্ছে করেই ছোট আর সাধারণ। এদের কেউ বড় কিছু করছে না, গুনাহের কিছুও না, আর কারও কাজই শেষ হয়নি।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith from a named collection to it. Al-Baghawi says only, we have related, that the Prophet ﷺ spoke of the Hour rising while two men have spread a garment between them. That wording matches a sound hadith from Abu Hurayra in Sahih al-Bukhari (6506), quoted in full in the reflection on 26:202. Al-Bukhari's text does not mention this verse; the link is al-Baghawi's placement.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর কোনো নির্দিষ্ট হাদীসগ্রন্থের নাম দিয়ে এর সঙ্গে হাদীস যুক্ত করেনি। বাগাভী শুধু বলেন, 'আমরা বর্ণনা করেছি' যে নবী ﷺ কিয়ামত কায়েম হওয়ার কথা বলেছেন এমন সময়ে, যখন দুজন লোক তাদের মাঝে কাপড় মেলে রেখেছে। এ শব্দগুলো সহীহ বুখারীর (৬৫০৬) আবু হুরায়রা (রাঃ) বর্ণিত একটি সহীহ হাদীসের সঙ্গে মেলে, যা ২৬:২০২ আয়াতের আলোচনায় পুরোটা উদ্ধৃত হয়েছে। বুখারীর বর্ণনায় এ আয়াতের উল্লেখ নেই। আয়াতের সঙ্গে সংযোগটা বাগাভীর বিন্যাস।"
+          },
+          {
+            "en": "Three further reports are relayed here and not built on. At-Tabari gives, from Qatada with the words it was mentioned to us, a saying he ascribes to the Prophet ﷺ about the Hour stirring among people at their daily work; it carries no chain back to him. At-Tabari also relays a long report on the Horn and its blowings whose chain includes an unnamed narrator. Al-Qurtubi gives a similar report through Nu'aym. The fetched texts grade none of them.",
+            "bn": "আরও তিনটি বর্ণনা এখানে শুধু উল্লেখ করা হলো, এগুলোর ওপর কিছু দাঁড় করানো হয়নি। তাবারী কাতাদা থেকে 'আমাদের কাছে উল্লেখ করা হয়েছে' বলে একটি কথা আনেন, যা তিনি নবী ﷺ-এর দিকে সম্পৃক্ত করেন। বিষয়টি দৈনন্দিন কাজে ব্যস্ত মানুষের মাঝে কিয়ামতের আকস্মিক আগমন, কিন্তু নবী ﷺ পর্যন্ত এর কোনো সনদ নেই। শিঙ্গা আর তার ফুঁকগুলো নিয়ে তাবারী একটি দীর্ঘ বর্ণনাও আনেন, যার সনদে একজন অজ্ঞাতনামা বর্ণনাকারী আছেন। কুরতুবী নুআইমের সূত্রে এমনই একটি বর্ণনা দেন। সংগৃহীত লেখায় এগুলোর কোনোটির মান নির্ণয় করা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Quarrels Born of Heedlessness",
+          "bn": "ঝগড়ার জন্ম গাফলতিতে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the scene from the inside. Wa-hum yakhissimun means that they are distracted from it: the blast has not crossed their hearts while they quarrel and wrangle with one another, and that, he adds, mostly happens only at a time of heedlessness. The dispute is then more than a setting; it is a symptom. People absorbed in a quarrel are, for that while, people who have forgotten what is coming.",
+            "bn": "সা'দী দৃশ্যটা পড়েন ভেতর থেকে। ওয়া হুম ইয়াখিসসিমূন মানে, তারা এ ব্যাপারে উদাসীন। নিজেদের মধ্যে ঝগড়া আর কথা কাটাকাটির সময় ফুঁকের কথা তাদের মনেও আসেনি। তিনি যোগ করেন, এমন ঝগড়া সাধারণত গাফলতির সময়েই হয়। তাহলে বিবাদটা শুধু পটভূমি নয়, একটা লক্ষণও। ঝগড়ায় ডুবে থাকা মানুষ সেই সময়টুকু ভুলে থাকে, সামনে কী আসছে।"
+          },
+          {
+            "en": "The verse does not condemn trade, or every disagreement. The reports set honest work beside the quarrel: bargaining, milking, walking out on an errand. What it exposes is absorption, a heart so full of the bargain or the argument that the one certain event finds no room in it. The deniers' question in 36:48 was a distraction of the same kind, debating the date of the Day in place of preparing for it.",
+            "bn": "আয়াতটি ব্যবসার নিন্দা করে না, প্রতিটি মতভেদেরও নয়। বর্ণনাগুলোতে ঝগড়ার পাশেই আছে হালাল কাজ: দরদাম, দুধ দোয়ানো, কোনো দরকারে বের হওয়া। আয়াত যা ধরিয়ে দেয়, তা হলো ডুবে থাকা। মন দরদামে বা তর্কে এতটাই ভরা যে একমাত্র নিশ্চিত ঘটনাটির জন্য সেখানে আর জায়গা নেই। ৩৬:৪৮ আয়াতে অবিশ্বাসীদের প্রশ্নটাও ছিল এমনই এক অন্যমনস্কতা। দিনটার জন্য তৈরি না হয়ে তারা ব্যস্ত ছিল তার তারিখ নিয়ে তর্কে।"
+          },
+          {
+            "en": "Ma'arif draws the practical conclusion. Once people have heard of the Hour, common sense requires that they believe and do what it takes to succeed in the life to come, not waste precious time hunting for its hour and day. The quarrel the blast interrupts gives the reader a test: if the end found me now, is this the argument I would want to be found inside?",
+            "bn": "মাআরিফুল কুরআন এখান থেকে বাস্তব শিক্ষাটা বের করে আনে। কিয়ামতের সতর্কবাণী শোনার পর সাধারণ বুদ্ধির দাবি হলো ঈমান আনা আর আখিরাতের সফলতার জন্য যা দরকার তা করা। কবে কোন দিন আসবে, তা খুঁজে খুঁজে মূল্যবান সময় নষ্ট করা নয়। ফুঁক যে ঝগড়াকে থামিয়ে দেয়, তা পাঠকের হাতে একটা মাপকাঠি তুলে দেয়। এখনই যদি শেষ সময় এসে পড়ে, এই তর্কের মাঝখানে কি আমি ধরা পড়তে চাইব?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Bequest and No Road Home",
+          "bn": "না ওসিয়ত, না ঘরে ফেরা"
+        },
+        "p": [
+          {
+            "en": "The next verse completes the picture: they will not be able to make a bequest, nor will they return to their families. Abdullah ibn Amr, in at-Tabari's report, recites the two verses together, and his man who left home in the morning and never came back is 36:50 in a single figure. Ibn Kathir's abridgement explains the lost bequest as concerning their possessions, because the matter is graver than that.",
+            "bn": "পরের আয়াত ছবিটা পূর্ণ করে: তারা ওসিয়ত করতে পারবে না, পরিবারের কাছেও ফিরে যেতে পারবে না। তাবারীর বর্ণনায় আবদুল্লাহ ইবন আমর (রাঃ) দুটি আয়াত একসঙ্গে তিলাওয়াত করেন। সকালে ঘর থেকে বেরিয়ে আর না ফেরা মানুষটি যেন এক চেহারায় ৩৬:৫০ আয়াত। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ বলে, ওসিয়ত না করতে পারার কথাটা ধনসম্পদ নিয়ে, কারণ ব্যাপারটা তখন এর চেয়ে অনেক গুরুতর।"
+          },
+          {
+            "en": "The sura uses the same two words three times, sayhatan wahidatan, one blast. In 36:29 one shout silenced a town that mocked its messengers. Here one blast seizes those who mock the promise. In 36:53 one blast brings them all before Allah. Between this verse and 36:53 comes 36:51, the blowing that empties the graves, discussed in its own place.",
+            "bn": "সূরাটি একই দুটি শব্দ তিনবার ব্যবহার করে: সাইহাতান ওয়াহিদাতান, একটিমাত্র আওয়াজ। ৩৬:২৯ আয়াতে এক চিৎকারেই নিস্তব্ধ হয়ে যায় এক জনপদ, যারা রাসূলদের নিয়ে ঠাট্টা করেছিল। এখানে এক আওয়াজ ধরে ফেলে তাদের, যারা প্রতিশ্রুতি নিয়ে ঠাট্টা করে। ৩৬:৫৩ আয়াতে এক আওয়াজেই সবাইকে আল্লাহর সামনে হাজির করা হয়। এ আয়াত আর ৩৬:৫৩ আয়াতের মাঝে আছে ৩৬:৫১, যে ফুঁকে কবর খালি হয়ে যায়। তার আলোচনা সেখানেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the Warning Addresses",
+          "bn": "সতর্কবাণী কার উদ্দেশে"
+        },
+        "p": [
+          {
+            "en": "The verse describes the deniers who mocked the promise, and the scene it draws is the end of the whole world, not the ruin of a single group. It licenses nothing against any living person or community, and it gives no one a date to announce; Ma'arif notes that the exact time was not given even to the prophets. Whoever reads it as a forecast about others has missed that its question is put to the reader.",
+            "bn": "আয়াতটি বর্ণনা দেয় সেই অবিশ্বাসীদের, যারা প্রতিশ্রুতি নিয়ে ঠাট্টা করেছিল। আর যে দৃশ্য আঁকে, তা গোটা দুনিয়ার সমাপ্তি, কোনো এক দলের ধ্বংস নয়। জীবিত কোনো মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কাউকে কোনো তারিখ ঘোষণার সুযোগও দেয় না। মাআরিফুল কুরআন মনে করিয়ে দেয়, সঠিক সময়টা নবীদেরও জানানো হয়নি। কেউ যদি একে অন্যদের নিয়ে ভবিষ্যদ্বাণী হিসেবে পড়ে, সে খেয়াল করেনি যে প্রশ্নটা পাঠককেই করা।"
+          },
+          {
+            "en": "Its demand is modest and constant: to hold work and disagreements lightly enough that they could be dropped mid-sentence. The bargainer in Abdullah ibn Amr's report never let go of the garment. The man who went out in the morning did not come home. The verse asks each reader what is still unsettled in his own life, a debt, a quarrel, a word owed to family, and to settle it while there is still time to let go.",
+            "bn": "এর দাবি ছোট, কিন্তু সবসময়ের। নিজের কাজ আর মতভেদগুলোকে এতটা হালকা করে ধরে রাখা, যেন বাক্যের মাঝখানেও ছেড়ে দেওয়া যায়। আবদুল্লাহ ইবন আমর (রাঃ)-এর বর্ণনায় দরদাম করা লোকটি কাপড় হাত থেকে ছাড়তেই পারেনি। সকালে বেরোনো মানুষটি আর ঘরে ফেরেনি। আয়াত প্রত্যেক পাঠককে জিজ্ঞেস করে, তার জীবনে কী এখনো অমীমাংসিত পড়ে আছে। কোনো ঋণ, কোনো ঝগড়া, পরিবারকে বলার মতো কোনো কথা। ছেড়ে দেওয়ার সময় থাকতে থাকতেই তা মিটিয়ে নিন।"
+          }
+        ]
+      }
+    ]
+  },
   "36:51": {
     "sections": [
       {

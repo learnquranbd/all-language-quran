@@ -36753,6 +36753,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Those who went before you have not come back, and you will not either. Spend your one life well, for every soul will be brought before Allah.",
     "lessonBn": "আপনার আগে যারা চলে গেছে, তারা আর ফিরে আসেনি, আপনিও ফিরবেন না। তাই একমাত্র জীবনটা ভালো কাজে লাগান, কারণ প্রত্যেককেই আল্লাহর সামনে হাজির করা হবে।"
+  },
+  "36:49": {
+    "reflectionEn": "Two traders are still haggling over a length of cloth. A man is still bent over the trough for his flock. Someone is halfway through an argument he fully means to win. The deniers had asked, mocking, when this promise would come. The verse gives them no date. It gives them a picture: one blast, and it seizes them while they are still disputing. No one in that scene is expecting it; their minds are full of the bargain, the quarrel, the next errand. That is the warning. The end will not knock first, and it will find people exactly as they are. If it came in the middle of my day today, what would it find me arguing about, and would the argument have been worth it?",
+    "reflectionBn": "দুই ব্যবসায়ী তখনো এক থান কাপড় নিয়ে দর কষাকষি করছে। একজন তখনো ঝুঁকে আছে পশুর পানির হাউজের ওপর। আরেকজন তর্কের মাঝপথে, জিতবেই বলে ঠিক করে রেখেছে। অবিশ্বাসীরা ঠাট্টা করে জিজ্ঞেস করেছিল, এ প্রতিশ্রুতি কবে আসবে? আয়াত তাদের কোনো তারিখ দেয় না, দেয় একটা ছবি। একটিমাত্র প্রচণ্ড আওয়াজ, আর তা তাদের পাকড়াও করবে যখন তারা ঝগড়ায় ব্যস্ত। সেই দৃশ্যে কেউ এর অপেক্ষায় নেই। সবার মাথায় দরদাম, বিবাদ আর পরের কাজটা। সতর্কবাণী এখানেই। শেষটা দরজায় কড়া নেড়ে আসবে না, মানুষকে যে অবস্থায় পাবে সে অবস্থাতেই ধরবে। আজ আমার দিনের মাঝখানে যদি তা এসে পড়ে, আমাকে কী নিয়ে তর্ক করতে দেখবে? আর সেই তর্ক কি তার দাম পাওয়ার মতো ছিল?",
+    "pointsEn": [
+      "When I wonder about the end, is it to prepare for it, or to give myself a reason to put preparing off?",
+      "Which argument have I been carrying for days that I would be ashamed to be found in the middle of?",
+      "What would I want to have said to my family, if there were no time left to say it?",
+      "Does my busyness with buying, selling and winning leave any room in my heart for what is coming?",
+      "What is one thing I have been postponing that I could settle today?"
+    ],
+    "pointsBn": [
+      "শেষ সময়ের কথা যখন ভাবি, তা কি প্রস্তুতি নেওয়ার জন্য, নাকি প্রস্তুতি পিছিয়ে দেওয়ার একটা অজুহাত খোঁজার জন্য?",
+      "কোন ঝগড়াটা আমি কয়েক দিন ধরে বয়ে বেড়াচ্ছি, যার মাঝখানে ধরা পড়লে আমি লজ্জা পাব?",
+      "আর একটুও সময় না থাকলে পরিবারকে কোন কথাটা বলে যেতে চাইতাম?",
+      "কেনাবেচা আর জেতার ব্যস্ততার পর যা আসছে তার জন্য আমার মনে কি কোনো জায়গা থাকে?",
+      "কোন কাজটা আমি দিনের পর দিন পিছিয়ে রেখেছি, যা আজই মিটিয়ে ফেলা যায়?"
+    ],
+    "lessonEn": "The Hour will come suddenly, while people are still busy with their quarrels and their trade. Live as one who could be found by it at any moment.",
+    "lessonBn": "কিয়ামত আসবে হঠাৎ, মানুষ যখন ঝগড়া আর কেনাবেচায় ব্যস্ত। এমনভাবে বাঁচুন, যেন যেকোনো মুহূর্তে তা আপনাকে এসে ধরতে পারে।"
   }
 };
 
