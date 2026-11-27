@@ -36573,6 +36573,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "On that Day no one can help or harm another. Weigh the clear verses on their merits now, not by what your forefathers held.",
     "lessonBn": "সেদিন কেউ কারও উপকার বা ক্ষতি করতে পারবে না। তাই স্পষ্ট আয়াতগুলোকে আজই তাদের নিজের মাপে যাচাই করুন, বাপদাদা কী মানত সে মাপে নয়।"
+  },
+  "33:69": {
+    "reflectionEn": "The call goes out to the believers, and it does not ask them for a great deed. It asks them not to be like a people who hurt Musa (AS). The hurt was talk: something said about him that was false, and that stuck. Allah cleared him of what they said, and the verse ends on where he truly stood, honoured in the sight of Allah. Talk can wound the best of people, and their rank with their Lord does not stop the speakers. Yet the last word here is Allah's, not theirs. So the warning turns inward. Have I passed on a guess about someone as if it were known? And when talk wounds me, can I leave my clearing to Him?",
+    "reflectionBn": "ডাকটা এসেছে মু'মিনদের প্রতি, অথচ কোনো বড় কাজের হুকুম তাতে নেই। শুধু বলা হচ্ছে: তোমরা তাদের মতো হয়ো না, যারা মূসা (আঃ)-কে কষ্ট দিয়েছিল। সে কষ্ট ছিল মুখের কথায়। তাঁর সম্পর্কে এমন কিছু রটানো হয়েছিল যা মিথ্যা, অথচ লোকের মনে গেঁথে গিয়েছিল। আল্লাহ তাঁকে সেই রটনা থেকে নির্দোষ প্রমাণ করলেন। আয়াত শেষ হয় তাঁর আসল মর্যাদার কথায়: আল্লাহর কাছে তিনি ছিলেন সম্মানিত। কথার আঘাত শ্রেষ্ঠ মানুষকেও ছাড়ে না, রবের কাছে তাঁর মর্যাদা বক্তাদের মুখ বন্ধ করে না। তবু শেষ কথাটা এখানে আল্লাহর, তাদের নয়। তাই সতর্কবাণী ঘুরে আসে নিজের দিকে। কারও সম্পর্কে নিছক আন্দাজকে কি আমি জানা কথার মতো ছড়িয়ে দিয়েছি? আর কথার আঘাত যখন আমার গায়ে লাগে, নির্দোষ প্রমাণের ভার কি আমি তাঁর হাতে ছেড়ে দিতে পারি?",
+    "pointsEn": [
+      "What have I said about someone lately that I only guessed and never actually knew?",
+      "When a person keeps something private, do I read their reserve as proof that something is wrong with them?",
+      "Is there a rumour I have repeated that I would be ashamed to have traced back to me?",
+      "When others speak falsely about me, do I hit back in kind, or can I bear it patiently and leave the truth with Allah?",
+      "Whose good standing do I resent, and has that resentment made my tongue looser about them?"
+    ],
+    "pointsBn": [
+      "ইদানীং কারও সম্পর্কে এমন কী বলেছি, যা আসলে আন্দাজ ছিল, আমি নিশ্চিত জানতাম না?",
+      "কেউ যখন নিজের কিছু আড়ালে রাখে, তার সেই সংকোচকে কি আমি ধরে নিই তার মধ্যে কোনো খুঁত থাকার প্রমাণ বলে?",
+      "এমন কোনো গুজব কি আমি ছড়িয়েছি, যার উৎস আমার দিকে ফিরে এলে লজ্জা পেতাম?",
+      "লোকে আমার সম্পর্কে মিথ্যা বললে আমি কি একই সুরে পাল্টা জবাব দিই, নাকি সবর করে সত্যের ভার আল্লাহর হাতে ছেড়ে দিতে পারি?",
+      "কার সুনাম আমার গায়ে লাগে? সেই জ্বালা কি তার সম্পর্কে আমার জিহ্বাকে আলগা করে দিয়েছে?"
+    ],
+    "lessonEn": "Do not wound anyone, least of all those who deserve honour, with guesses and false talk; and when words wound you, bear it patiently, for Allah clears the innocent.",
+    "lessonBn": "আন্দাজ আর মিথ্যা কথা দিয়ে কাউকে আঘাত করবেন না, সম্মানের যোগ্য মানুষকে তো নয়ই। আর কথার আঘাত আপনার গায়ে লাগলে সবর করুন, কারণ নির্দোষকে আল্লাহই নির্দোষ প্রমাণ করেন।"
   }
 };
 

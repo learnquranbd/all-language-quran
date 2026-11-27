@@ -3543,6 +3543,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "33:69": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Cursed to the Called",
+          "bn": "অভিশপ্তদের পরে মু'মিনদের ডাক"
+        },
+        "p": [
+          {
+            "en": "Ya ayyuha-lladhina amanu, la takunu ka-lladhina adhaw Musa: O you who believe, do not be like those who hurt Musa (AS). From 33:57 the surah speaks of those who hurt Allah and His Messenger, and 33:64 to 33:68 show the disbelievers cursed in the Fire. Al-Qurtubi joins the two: having named those who hurt the Messenger ﷺ and the believers, Allah warned the believers off such hurt and forbade them to resemble the Children of Israel in hurting their prophet.",
+            "bn": "ইয়া আইয়ুহাল্লাযীনা আমানূ, লা তাকূনূ কাল্লাযীনা আযাও মূসা: হে মু'মিনগণ, তোমরা তাদের মতো হয়ো না, যারা মূসা (আঃ)-কে কষ্ট দিয়েছিল। ৩৩:৫৭ থেকে সূরা কথা বলছে তাদের নিয়ে, যারা আল্লাহ ও তাঁর রাসূলকে কষ্ট দেয়। ৩৩:৬৪ থেকে ৩৩:৬৮ পর্যন্ত দেখা যায় আগুনে অভিশপ্ত কাফিরদের। কুরতুবী দুই অংশকে জুড়ে দেন। যারা রাসূল ﷺ ও মু'মিনদের কষ্ট দিয়েছিল, তাদের কথা বলার পর আল্লাহ মু'মিনদের এমন কষ্ট দেওয়া থেকে সাবধান করলেন। নিজেদের নবীকে কষ্ট দেওয়ায় বনী ইসরাঈলের মতো হতেও নিষেধ করলেন।"
+          },
+          {
+            "en": "At-Tabari hears the address as spoken to the Companions: do not hurt the Messenger of Allah by a word he dislikes or a deed he does not love, and do not be like those who hurt Musa, the prophet of Allah, and charged him falsely with a defect. The Muyassar keeps almost the same words. As-Sa'di describes the forbidden thing as meeting the kind and merciful Prophet ﷺ with the opposite of the honour and respect he is owed.",
+            "bn": "তাবারীর মতে সম্বোধনটা সাহাবীদের প্রতি: এমন কথা বলে রাসূলুল্লাহকে কষ্ট দিয়ো না যা তিনি অপছন্দ করেন, এমন কাজ করেও না যা তিনি ভালোবাসেন না। আর তাদের মতো হয়ো না, যারা আল্লাহর নবী মূসাকে কষ্ট দিয়েছিল, মিথ্যা করে তাঁর গায়ে খুঁতের অপবাদ দিয়েছিল। মুয়াসসার প্রায় একই শব্দে কথাটা বলে। সা'দীর ভাষায় নিষিদ্ধ কাজটা হলো, দয়ালু ও স্নেহশীল নবী ﷺ-এর যে সম্মান ও শ্রদ্ধা প্রাপ্য, তার উল্টো আচরণ নিয়ে তাঁর সামনে দাঁড়ানো।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an adds a caution. It does not follow, it says, that Muslims had actually done such a thing; they were forewarned as a precaution. Where a narration reports a Companion's remark that pained the Prophet ﷺ, Ma'arif thinks the speaker likely did not realise it would hurt, and holds that every deliberate hurt done to him belongs to the hypocrites. That is Ma'arif's own reading; none of the other commentators read here takes up the question.",
+            "bn": "মাআরিফুল কুরআন একটা সাবধানতা যোগ করে। তার মতে এ থেকে ধরে নেওয়া যায় না যে মুসলিমরা সত্যিই এমন কিছু করেছিল। আগেভাগে সাবধান করে রাখা হয়েছে মাত্র। কোনো বর্ণনায় সাহাবীর এমন কথা এলে যাতে নবী ﷺ কষ্ট পেয়েছেন, মাআরিফের ধারণা, বক্তা সম্ভবত বোঝেননি যে কথাটা আঘাত করবে। জেনেবুঝে তাঁকে কষ্ট দেওয়ার যত ঘটনা, তার সবই মুনাফিকদের। এটা মাআরিফের নিজস্ব পাঠ। এখানে পড়া অন্য কোনো তাফসীরকার প্রশ্নটা তোলেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shyness Mistaken for a Flaw",
+          "bn": "লজ্জাশীলতাকে খুঁত ভেবে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari's chapter on this surah has a short form from Abu Hurayrah (RA): the Messenger of Allah ﷺ said that Musa was a shy man, and that this is what the verse means (4799). The full wording, by the same chain, is among his narrations on the prophets (3404), and begins: \"Musa was a shy man who kept himself covered; nothing of his skin was seen, out of modesty. Those of the Children of Israel who hurt him said: He covers himself like this only because of some defect in his skin, leprosy, or a swelling of the scrotum, or some other affliction.\"",
+            "bn": "এই সূরার তাফসীর অধ্যায়ে বুখারী আবূ হুরায়রা (রাঃ) থেকে একটি সংক্ষিপ্ত রূপ এনেছেন: রাসূলুল্লাহ ﷺ বলেছেন, মূসা ছিলেন লাজুক মানুষ, আর আয়াতটি এ কথাই বোঝায় (৪৭৯৯)। একই সনদে পূর্ণ বর্ণনাটি আছে নবীদের প্রসঙ্গের হাদীসগুলোর মধ্যে (৩৪০৪)। তার শুরু এমন: \"মূসা ছিলেন লাজুক, সবসময় নিজেকে ঢেকে রাখতেন। লজ্জার কারণে তাঁর গায়ের চামড়ার কিছুই দেখা যেত না। বনী ইসরাঈলের মধ্যে যারা তাঁকে কষ্ট দিল, তারা বলল: এত ঢেকেঢুকে থাকার কারণ নিশ্চয় তার চামড়ার কোনো খুঁত। হয় কুষ্ঠ, নয় অণ্ডকোষের ফোলা, নয়তো অন্য কোনো রোগ।\""
+          },
+          {
+            "en": "Here the narration turns from the slander to the clearing, and it is Allah who wills it: \"And Allah wanted to clear him of what they said about Musa. Once, when he was alone, he put his clothes on the stone and bathed. When he had finished, he came towards his clothes to take them, and the stone ran off with his garment. Musa took up his staff and went after the stone, saying: My garment, stone! My garment, stone! until he reached a gathering of the Children of Israel.\"",
+            "bn": "এখান থেকে বর্ণনা অপবাদ ছেড়ে নির্দোষ প্রমাণের দিকে মোড় নেয়, আর সেটা চেয়েছেন আল্লাহ নিজেই: \"আর আল্লাহ চাইলেন, মূসা সম্পর্কে তারা যা বলেছিল তা থেকে তাঁকে মুক্ত করতে। এক দিন তিনি একা ছিলেন। কাপড় খুলে পাথরের উপর রাখলেন, তারপর গোসল করলেন। গোসল শেষে কাপড় নিতে এগিয়ে গেলেন, আর পাথরটা তাঁর কাপড় নিয়ে ছুটে পালাল। মূসা লাঠি হাতে নিয়ে পাথরের পেছনে ছুটলেন, বলতে লাগলেন: আমার কাপড়, হে পাথর! আমার কাপড়, হে পাথর! শেষে তিনি পৌঁছে গেলেন বনী ইসরাঈলের এক সমাবেশে।\""
+          },
+          {
+            "en": "It ends: \"They saw him unclothed, the finest of what Allah created, and He cleared him of what they were saying. The stone stood still; he took his garment and put it on, and began striking the stone with his staff. By Allah, there are marks on the stone from his striking, three or four or five. That is His saying: O you who believe, do not be like those who hurt Musa; then Allah cleared him of what they said, and he was honoured with Allah.\" Al-Bukhari placed it in his Sahih, which is its grading.",
+            "bn": "শেষটা এমন: \"তারা তাঁকে বস্ত্রহীন অবস্থায় দেখল, আল্লাহর সৃষ্টির মধ্যে সবচেয়ে সুন্দর গড়নের মানুষ। তারা যা বলছিল তা থেকে আল্লাহ তাঁকে মুক্ত করলেন। পাথরটা থেমে দাঁড়াল। তিনি কাপড় নিয়ে পরলেন, তারপর লাঠি দিয়ে পাথরটাকে মারতে লাগলেন। আল্লাহর কসম, তাঁর মারের দাগ পাথরের গায়ে রয়ে গেছে, তিনটি বা চারটি বা পাঁচটি। এ-ই তাঁর বাণী: হে মু'মিনগণ, তোমরা তাদের মতো হয়ো না যারা মূসাকে কষ্ট দিয়েছিল। তারা যা বলেছিল তা থেকে আল্লাহ তাঁকে মুক্ত করলেন, আর তিনি আল্লাহর কাছে সম্মানিত ছিলেন।\" বুখারী এটি তাঁর সহীহ গ্রন্থে রেখেছেন, সেটাই এর মান।"
+          },
+          {
+            "en": "The story also reaches Muslim (339) by another line, Hammam ibn Munabbih from Abu Hurayrah, which al-Bukhari gives in his chapter on bathing (278): the Children of Israel bathed naked, looking at one another, while Musa bathed alone, and they said only a swelling kept him from bathing with them. There Abu Hurayrah swears the stone bears six or seven marks. At-Tabari carries the story from Ibn Abbas as his own words, and as-Sa'di retells it briefly.",
+            "bn": "ঘটনাটা মুসলিমেও (৩৩৯) এসেছে আরেক সূত্রে: আবূ হুরায়রা থেকে হাম্মাম ইবন মুনাব্বিহ। বুখারী গোসলের অধ্যায়ে এই সূত্রটি এনেছেন (২৭৮)। সেখানে আছে, বনী ইসরাঈল একে অপরকে দেখে দেখে বস্ত্রহীন হয়ে গোসল করত, আর মূসা গোসল করতেন একা। তারা বলত, অণ্ডকোষের ফোলা ছাড়া আর কিছুই তাঁকে আমাদের সঙ্গে গোসল করা থেকে আটকায় না। সেখানে আবূ হুরায়রা কসম করে বলেন, পাথরের গায়ে ছয়টি বা সাতটি দাগ আছে। তাবারী একই ঘটনা ইবন আব্বাসের নিজের কথা হিসেবে আনেন, আর সা'দী সংক্ষেপে তা আবার বলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Charges They Laid",
+          "bn": "অপবাদের আরও কিছু বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "The verse does not name the hurt, and at-Tabari reports that the interpreters differed. Some said they called him a leper. Another account comes from Ali ibn Abi Talib (RA) through Ibn Abbas, relayed by Ibn Abi Hatim and at-Tabari: Musa and Harun (AS) climbed the mountain, and Harun died there. The Children of Israel said to Musa: You killed him; he was gentler with us than you. So Allah commanded the angels, who carried Harun past them and spoke of his death, until they knew he had not been killed.",
+            "bn": "কষ্টটা কী ছিল, আয়াত তা বলে না। তাবারী জানান, তাফসীরকারেরা এ নিয়ে ভিন্নমত পোষণ করেছেন। কেউ বলেন, তারা তাঁকে কুষ্ঠরোগী বলত। আরেকটি বর্ণনা আলী ইবন আবী তালিব (রাঃ) থেকে, ইবন আব্বাসের মাধ্যমে, যা ইবন আবী হাতিম ও তাবারী দুজনেই এনেছেন। মূসা ও হারূন (আঃ) পাহাড়ে উঠলেন, সেখানে হারূন মারা গেলেন। বনী ইসরাঈল মূসাকে বলল: তুমিই তাকে মেরেছ, সে তো তোমার চেয়ে আমাদের প্রতি বেশি নরম ছিল। তখন আল্লাহর হুকুমে ফেরেশতারা হারূনকে বহন করে তাদের পাশ দিয়ে নিয়ে গেলেন এবং তাঁর মৃত্যুর কথা জানালেন। শেষে তারা বুঝল, তাঁকে হত্যা করা হয়নি।"
+          },
+          {
+            "en": "Al-Qurtubi adds, from al-Qushayri, a report from Ali that Allah revived Harun to tell them Musa had not killed him, and that he then died. Al-Baghawi records from Abu al-Aliya that Qarun hired a woman of ill repute to accuse Musa before the assembly, and that Allah kept her from it, cleared Musa and destroyed Qarun. Al-Qurtubi also mentions, as something said, a charge of sorcery and madness. None of these comes as a word of the Prophet ﷺ, and the commentators give them no grading.",
+            "bn": "কুরতুবী কুশাইরীর সূত্রে আলী (রাঃ)-এর একটি বর্ণনা যোগ করেন: আল্লাহ হারূনকে আবার জীবিত করেছিলেন, তিনি তাদের জানালেন যে মূসা তাঁকে হত্যা করেননি, তারপর তিনি মারা গেলেন। বাগাভী আবুল আলিয়া থেকে বর্ণনা করেন, কারূন এক দুশ্চরিত্রা নারীকে ভাড়া করেছিল, যাতে সে লোকসমাবেশে মূসার বিরুদ্ধে অপবাদ দেয়। আল্লাহ তাকে সে কাজ থেকে বিরত রাখলেন, মূসাকে নির্দোষ প্রমাণ করলেন, আর কারূনকে ধ্বংস করলেন। 'বলা হয়' বলে কুরতুবী আরও উল্লেখ করেন, তারা তাঁকে জাদুকর ও পাগল বলেছিল। এর কোনোটিই নবী ﷺ-এর কথা হিসেবে আসেনি, আর তাফসীরকারেরা এগুলোর কোনো মান উল্লেখ করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Hurt Did Allah Mean?",
+          "bn": "কোন কষ্টের কথা বোঝানো হলো?"
+        },
+        "p": [
+          {
+            "en": "The commentators weigh these accounts differently. At-Tabari does not choose. The soundest thing to say, in his judgement, is that the Children of Israel hurt the prophet of Allah with something he disliked, and Allah cleared him of it. It may have been calling him a leper, or the claim that he killed his brother Harun, or all of it, since all of it is reported. No statement, he says, is closer to the truth than what Allah Himself said.",
+            "bn": "এই বর্ণনাগুলোকে তাফসীরকারেরা ভিন্ন ভিন্ন ওজন দেন। তাবারী কোনোটিকে বেছে নেন না। তাঁর বিচারে সবচেয়ে সঠিক কথা এটুকুই: বনী ইসরাঈল আল্লাহর নবীকে এমন কিছু দিয়ে কষ্ট দিয়েছিল যা তিনি অপছন্দ করতেন, আর আল্লাহ তাঁকে তা থেকে মুক্ত করেছেন। হতে পারে সেটা ছিল তাঁকে কুষ্ঠরোগী বলা, কিংবা ভাই হারূনকে হত্যার অভিযোগ, কিংবা সবগুলোই, কারণ সবগুলোর কথাই বর্ণিত আছে। তাবারী বলেন, আল্লাহ নিজে যা বলেছেন, তার চেয়ে সত্যের কাছাকাছি কোনো কথা নেই।"
+          },
+          {
+            "en": "Ibn Kathir goes a step further: all of it may be meant, and something else besides. Al-Qurtubi states that the sound account is the first, the bathing, while allowing that they did all of it and Allah cleared him of all of it. Ma'arif al-Qur'an grants that another story comes from the Companions, but holds that the weightier explanation is the hadith from the Prophet ﷺ himself. So the open phrase, what they said, is left open by one scholar and narrowed by others.",
+            "bn": "ইবন কাসীর আরও এক ধাপ এগিয়ে বলেন: সবগুলোই উদ্দেশ্য হতে পারে, তার সঙ্গে আরও কিছুও। কুরতুবী বলেন, সঠিক হলো প্রথম বর্ণনা, অর্থাৎ গোসলের ঘটনা। তবে এ সম্ভাবনাও তিনি রাখেন যে তারা এর সবই করেছিল, আর আল্লাহ সবকিছু থেকেই তাঁকে মুক্ত করেছেন। মাআরিফুল কুরআন মানে যে সাহাবীদের থেকে আরেকটি ঘটনাও এসেছে, তবু তার মতে বেশি ভারী ব্যাখ্যা স্বয়ং নবী ﷺ-এর হাদীসেরটাই। তাই আয়াতের খোলা শব্দ, 'তারা যা বলেছিল', একজন আলেম খোলাই রেখেছেন, অন্যরা সেটাকে নির্দিষ্ট করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "My Garment, O Stone",
+          "bn": "আমার কাপড়, হে পাথর"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws a ruling from the story: that Musa entered the water unclothed shows it is permitted when alone, and that is the view of the majority. Ibn Abi Layla forbade it, citing a narration that al-Qurtubi says is not sound and al-Qadi Iyad calls weak; it is mentioned here, not quoted. Al-Qurtubi still holds covering to be recommended, citing al-Hasan ibn Ali, who entered a pool wrapped in a cloak and said he covered himself from those who see him whom he does not see, meaning his Lord and the angels.",
+            "bn": "কুরতুবী ঘটনাটি থেকে একটি বিধান বের করেন: মূসা বস্ত্রহীন অবস্থায় পানিতে নেমেছিলেন, তাই একা থাকলে এটা জায়েয, আর এটাই অধিকাংশ আলেমের মত। ইবন আবী লায়লা একে নিষেধ করেছেন। তাঁর দলিল এমন এক বর্ণনা, যাকে কুরতুবী অশুদ্ধ বলেন আর কাযী ইয়ায বলেন দুর্বল। এখানে শুধু তার উল্লেখ রইল, উদ্ধৃতি নয়। তবু কুরতুবীর মতে ঢেকে রাখা মুস্তাহাব। দলিল হিসেবে তিনি আনেন হাসান ইবন আলী (রাঃ)-এর ঘটনা: তিনি চাদর জড়িয়ে একটি জলাশয়ে নেমেছিলেন, আর বলেছিলেন, আমি তাঁদের থেকে আড়াল নিয়েছি যাঁরা আমাকে দেখেন অথচ আমি তাঁদের দেখি না, অর্থাৎ আমার রব ও ফেরেশতারা।"
+          },
+          {
+            "en": "He also answers a question: why would Musa call to a stone as one calls a thinking being? Because, he says, the stone had done what only a thinking being does. Hajar is a vocative whose particle has been dropped, as in Yusufu a'rid an hadha, Yusuf, turn away from this, in 12:29. Thawbi, my garment, is governed by an implied verb, give my garment or leave my garment, left out because the situation makes it plain. Urgency speaks in fragments, and the Arabic keeps them.",
+            "bn": "কুরতুবী একটি প্রশ্নের জবাবও দেন: বোধসম্পন্ন কাউকে যেভাবে ডাকা হয়, মূসা পাথরকে সেভাবে ডাকলেন কেন? কারণ, তাঁর মতে, পাথরটা এমন কাজ করেছিল যা কেবল বোধসম্পন্ন কেউই করে। 'হাজার' সম্বোধিত শব্দ, ডাকার অব্যয়টি বাদ পড়েছে, যেমন ১২:২৯ আয়াতে 'ইউসুফু আ'রিদ আন হাযা', ইউসুফ, এ ব্যাপারটা ছেড়ে দাও। আর 'সাওবী', আমার কাপড়, একটি উহ্য ক্রিয়ার কর্ম: আমার কাপড় দাও, কিংবা আমার কাপড় ছাড়ো। অবস্থাই কথাটা বুঝিয়ে দেয়, তাই ক্রিয়াটি বাদ পড়েছে। তাড়াহুড়োর মুহূর্তে মানুষ ভাঙা ভাঙা কথা বলে, আর আরবি বাক্যটি সেই ভাঙা কথাই ধরে রেখেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wajih, and Where It Counts",
+          "bn": "ওয়াজীহ, আর সে মর্যাদার ঠিকানা"
+        },
+        "p": [
+          {
+            "en": "The verse closes, wa kana inda-llahi wajiha: and he was, in the sight of Allah, wajih. At-Tabari explains it as a man whose requests Allah grants, with face and rank before Him through his obedience; Ibn Zayd, in at-Tabari, glosses al-wajih in Arab speech as the beloved, the accepted. Al-Baghawi gives the root sense, of generous standing, and reports Ibn Abbas: Musa never asked Allah anything without being given it. Al-Qurtubi defines al-wajih among the Arabs as a person of great worth and high rank.",
+            "bn": "আয়াত শেষ হয় এভাবে: ওয়া কানা ইনদাল্লাহি ওয়াজীহা, আর তিনি আল্লাহর কাছে ছিলেন ওয়াজীহ। তাবারীর ব্যাখ্যায় ওয়াজীহ সেই মানুষ, যাঁর চাওয়া আল্লাহ পূরণ করেন, আনুগত্যের কারণে যিনি তাঁর কাছে মুখ ও মর্যাদার অধিকারী। তাবারীতেই ইবন যায়দের ব্যাখ্যা আছে: আরবদের ভাষায় ওয়াজীহ মানে প্রিয় ও গ্রহণযোগ্য। বাগাভী শব্দমূলের অর্থ দেন, সম্মানিত ও মর্যাদাবান, আর ইবন আব্বাসের কথা আনেন: মূসা আল্লাহর কাছে যা চাইতেন তা-ই পেতেন। কুরতুবীর সংজ্ঞায় আরবদের কাছে ওয়াজীহ মানে বিরাট মূল্যের, উঁচু মর্যাদার মানুষ।"
+          },
+          {
+            "en": "Ibn Kathir quotes al-Hasan al-Basri that his prayers were answered, and reports from others of the early generations that he was refused nothing he asked, except the sight of Allah, withheld as Allah willed. Some saw his great standing in his plea for his brother, answered in 19:53: And We granted him, out of Our mercy, his brother Harun as a prophet. Ma'arif al-Qur'an, citing Ibn Kathir, remarks that prophethood is not given on anyone's recommendation.",
+            "bn": "ইবন কাসীর হাসান বসরীর কথা উদ্ধৃত করেন: তাঁর দোয়া কবুল হতো। পূর্বসূরিদের আরও কারও কারও কাছ থেকে তিনি আনেন, মূসা যা চেয়েছেন তা-ই পেয়েছেন, কেবল আল্লাহকে দেখার আবেদন ছাড়া, যা আল্লাহ নিজের ইচ্ছায় মঞ্জুর করেননি। কেউ কেউ তাঁর বড় মর্যাদা দেখেছেন ভাইয়ের জন্য করা আবেদনে, যার জবাব ১৯:৫৩ আয়াতে: আর আমি নিজ রহমতে তাকে দান করলাম তার ভাই হারূনকে, নবী করে। মাআরিফুল কুরআন ইবন কাসীরের বরাতে মনে করিয়ে দেয়, কারও সুপারিশে নবুওয়াত দেওয়া হয় না।"
+          },
+          {
+            "en": "As-Sa'di turns the description back on the slanderers: Musa was honoured and brought near by Allah, among the chosen messengers, and still his virtues did not hold them back. Al-Qurtubi records a reading attributed to Ibn Mas'ud, wa kana abdan lillahi wajiha, and quotes Abu Bakr al-Anbari's reply to a man who used it to claim the received text was miscopied: in the sight of Allah fixes where the praise lies, and altering it would strip Musa of the highest praise.",
+            "bn": "সা'দী বর্ণনাটাকে অপবাদদাতাদের দিকেই ফিরিয়ে দেন: মূসা আল্লাহর কাছে সম্মানিত ও নৈকট্যপ্রাপ্ত, বাছাই করা রাসূলদের অন্যতম, তবু তাঁর এত গুণ তাদের থামাতে পারেনি। কুরতুবী ইবন মাসঊদের নামে বর্ণিত একটি কিরাআত উল্লেখ করেন: ওয়া কানা আবদান লিল্লাহি ওয়াজীহা। কেউ এটাকে দেখিয়ে দাবি করেছিল যে প্রচলিত পাঠ ভুল লেখা হয়েছে, আর তার জবাবে কুরতুবী আবূ বকর আনবারীর কথা আনেন। আনবারীর যুক্তি, 'আল্লাহর কাছে' কথাটিই প্রশংসার জায়গা নির্দিষ্ট করে দেয়। শব্দটা বদলালে মূসা সবচেয়ে বড় প্রশংসা থেকে বঞ্চিত হতেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hurt With More Than This",
+          "bn": "এর চেয়েও বেশি কষ্ট পেয়েছিলেন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reports from Abu Wa'il that the hurt done to Muhammad ﷺ was a remark about a distribution; al-Baghawi and Ibn Kathir bring the narration, which al-Bukhari records from Abdullah ibn Mas'ud (RA) (3405): \"The Prophet ﷺ made a distribution, and a man said: This is a distribution by which the face of Allah was not sought. I came to the Prophet ﷺ and told him, and he became angry until I saw the anger in his face. Then he said: May Allah have mercy on Musa; he was hurt with more than this, and he was patient.\"",
+            "bn": "কুরতুবী আবূ ওয়াইল থেকে বর্ণনা করেন, মুহাম্মাদ ﷺ-কে দেওয়া কষ্ট ছিল একটি বণ্টন নিয়ে কারও মন্তব্য। বাগাভী ও ইবন কাসীর সেই বর্ণনাটি আনেন, আর বুখারী তা আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে বর্ণনা করেছেন (৩৪০৫): \"নবী ﷺ কিছু জিনিস বণ্টন করলেন। এক লোক বলল: এ এমন বণ্টন, যাতে আল্লাহর সন্তুষ্টি চাওয়া হয়নি। আমি নবী ﷺ-এর কাছে এসে তাঁকে জানালাম। তিনি এত রাগ করলেন যে আমি তাঁর চেহারায় রাগ দেখতে পেলাম। তারপর বললেন: আল্লাহ মূসার উপর রহম করুন। তাঁকে এর চেয়েও বেশি কষ্ট দেওয়া হয়েছিল, আর তিনি সবর করেছিলেন।\""
+          },
+          {
+            "en": "Ibn Kathir says both Sahihs carry it. Al-Qurtubi also records from an-Naqqash that the hurt was people saying Zayd ibn Muhammad, a matter the surah settles in 33:5 and 33:40. Ibn Kathir adds a second line through Imam Ahmad, with shorter forms in Abu Dawud and at-Tirmidhi, and at-Tirmidhi calls one of his routes gharib; it is mentioned here, not quoted. None of the commentators read here makes the distribution the occasion of the verse's revelation.",
+            "bn": "ইবন কাসীর বলেন, দুই সহীহ গ্রন্থেই এটি আছে। কুরতুবী নাক্কাশ থেকে আরও উল্লেখ করেন, কষ্টটা ছিল লোকের মুখে 'যায়দ ইবন মুহাম্মাদ' বলা, যে বিষয়ের মীমাংসা সূরাটি করেছে ৩৩:৫ ও ৩৩:৪০ আয়াতে। ইবন কাসীর ইমাম আহমাদের মাধ্যমে আরেকটি সূত্র আনেন। আবূ দাঊদ ও তিরমিযীতে তার সংক্ষিপ্ত রূপ আছে, আর তিরমিযী তাঁর একটি সূত্রকে গরীব বলেছেন। এখানে শুধু তার উল্লেখ রইল, উদ্ধৃতি নয়। এখানে পড়া কোনো তাফসীরকার বণ্টনের ঘটনাকে আয়াত নাযিলের উপলক্ষ বলেননি।"
+          },
+          {
+            "en": "Look at what the narration records of how the Prophet ﷺ bore the hurt. The anger showed in his face; then he turned to Musa, asked Allah's mercy for him, and named his patience. It records no word thrown back at the speaker. The verse forbids the believers to be those who wound; the narration shows how the wounded carry it, taking comfort from a prophet who was slandered and then cleared by Allah.",
+            "bn": "বর্ণনাটি দেখায়, নবী ﷺ কষ্টটা কীভাবে বহন করেছিলেন। রাগ তাঁর চেহারায় ফুটে উঠেছিল। তারপর তিনি মূসার দিকে মন ফেরালেন, তাঁর জন্য আল্লাহর রহমত চাইলেন, আর তাঁর সবরের কথা বললেন। বক্তার দিকে পাল্টা কোনো কথা ছুড়ে দেওয়ার উল্লেখ বর্ণনায় নেই। আয়াত মু'মিনদের নিষেধ করে আঘাতকারী হতে, আর বর্ণনা দেখায় আঘাত পাওয়া মানুষ সেটা কীভাবে বয়ে নেয়: সান্ত্বনা খোঁজে এমন এক নবীর দৃষ্টান্তে, যাঁকে অপবাদ দেওয়া হয়েছিল, পরে আল্লাহ নির্দোষ প্রমাণ করেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leaving the Clearing to Allah",
+          "bn": "নির্দোষ প্রমাণের ভার আল্লাহর"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what some of the Children of Israel said about Musa (AS) in his own time, and the hadith itself says those of them who hurt him. It licenses nothing against any living Jewish person or community, and gives no one a warrant to speak of a people as the slanderers spoke of a prophet. Its warning is addressed to the believers, about their own tongues.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে, মূসা (আঃ)-এর নিজের যুগে বনী ইসরাঈলের কিছু লোক তাঁর সম্পর্কে কী বলেছিল। হাদীসটিও বলে, তাদের মধ্যে যারা তাঁকে কষ্ট দিয়েছিল। আজকের কোনো জীবিত ইহুদি ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে কিছুই করার অনুমতি এ আয়াত দেয় না। কোনো জাতি সম্পর্কে সেভাবে কথা বলারও অধিকার দেয় না, যেভাবে অপবাদদাতারা একজন নবী সম্পর্কে বলেছিল। এর সতর্কবাণী মু'মিনদের প্রতি, তাদের নিজেদের জিহ্বা নিয়ে।"
+          },
+          {
+            "en": "Read whole, the verse holds three things together. A man's modesty was taken for a hidden defect, and a guess spread as talk. The hurt was real, and the clearing came from Allah, by His means and at His time. And Musa's standing never rested on what they said: he was wajih with Allah before the stone moved and after it stopped. The next verse, 33:70, turns the warning into a command, to have taqwa of Allah and to speak a word that is straight.",
+            "bn": "পুরো আয়াতটি একসঙ্গে তিনটি কথা ধরে রাখে। একজন মানুষের লজ্জাশীলতাকে লুকানো খুঁত ভেবে নেওয়া হয়েছিল, আর একটা আন্দাজ মুখে মুখে ছড়িয়ে পড়েছিল। কষ্টটা ছিল সত্যিকারের, আর নির্দোষ প্রমাণ এসেছিল আল্লাহর কাছ থেকে, তাঁর উপায়ে, তাঁর সময়ে। আর মূসার মর্যাদা কখনো তাদের কথার উপর নির্ভর করেনি। পাথর নড়ার আগেও তিনি আল্লাহর কাছে ওয়াজীহ ছিলেন, পাথর থামার পরেও। পরের আয়াত, ৩৩:৭০, সতর্কবাণীকে হুকুমে বদলে দেয়: আল্লাহর তাকওয়া অবলম্বন করো, আর সোজা, সঠিক কথা বলো।"
+          }
+        ]
+      }
+    ]
+  },
   "33:70": {
     "sections": [
       {
