@@ -33803,6 +33803,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Judge a message by its truth, not by its bearer's wealth, and treat every garden you are given as a gift that asks for thanks.",
     "lessonBn": "বার্তাকে মাপুন তার সত্য দিয়ে, বাহকের ধনসম্পদ দিয়ে নয়। আর যে বাগানই আপনাকে দেওয়া হোক, তাকে দান মনে করুন, যার বদলে শোকর চাই।"
+  },
+  "18:51": {
+    "reflectionEn": "Before trusting someone's account of how a thing was made, people ask: were you there? This verse puts that question to every power people lean on in place of Allah. He did not call them to watch the heavens and the earth being made, nor even to watch their own making, and He never took those who lead others astray as His helpers. Whatever claims to know my life better than its Maker, whether a whisper inside, a crowd or a forecast in the stars, was absent at the start of things and holds no share in running them. The One who made me alone, without help, is the One whose word on my life should weigh most. Whose voice have I been treating as if it was there?",
+    "reflectionBn": "কোনো জিনিস কীভাবে তৈরি হলো, সে বিষয়ে কারও কথা মেনে নেওয়ার আগে মানুষ সোজা একটা প্রশ্ন করে: তুমি কি তখন সেখানে ছিলে? নিজের চোখে কি গড়তে দেখেছ? আল্লাহকে বাদ দিয়ে মানুষ যাদের উপর ভরসা করে, এ আয়াত তাদের সবার সামনে এই প্রশ্নটাই রাখে। আসমান আর যমীন সৃষ্টির সময় আল্লাহ তাদের ডেকে দেখাননি, তাদের নিজেদের সৃষ্টির সময়ও না। আর যারা মানুষকে পথভ্রষ্ট করে, তাদের তিনি কখনো সাহায্যকারী বানাননি। ভেতরের কোনো কুমন্ত্রণা হোক, ভিড়ের রায় হোক বা তারার ভবিষ্যদ্বাণী, যা-ই দাবি করুক যে আমার জীবন সে স্রষ্টার চেয়ে ভালো বোঝে, সৃষ্টির শুরুতে সে ছিল না, আর পরিচালনাতেও তার কোনো ভাগ নেই। যিনি একাই, কারও সাহায্য ছাড়া আমাকে বানিয়েছেন, আমার জীবনের ব্যাপারে তাঁর কথাই সবচেয়ে ভারী হওয়া উচিত। তাহলে কার কণ্ঠকে আমি এমনভাবে মানছি, যেন সে সেদিন সেখানে ছিল?",
+    "pointsEn": [
+      "Whose advice do I follow most readily about my own life, and what does that voice actually know about how I was made?",
+      "Where have I treated a feeling, a trend or a forecast as if it had a share in deciding what happens to me?",
+      "When I am in need, whom do I turn to first, and where does my Lord come in that order?",
+      "Do I give my ear to people who pull me away from what is right only because they sound sure of themselves?",
+      "What would change in my day if I kept in mind that Allah made everything without any helper?"
+    ],
+    "pointsBn": [
+      "নিজের জীবনের ব্যাপারে কার পরামর্শ আমি সবচেয়ে সহজে মেনে নিই? আর আমাকে কীভাবে বানানো হয়েছে, সে কণ্ঠ আসলে তার কতটুকু জানে?",
+      "কোথায় আমি কোনো অনুভূতি, হুজুগ বা ভবিষ্যদ্বাণীকে এমনভাবে নিয়েছি, যেন আমার ভাগ্যে কী ঘটবে তা ঠিক করায় তারও হাত আছে?",
+      "দরকারের সময় আমি প্রথমে কার কাছে যাই? সেই তালিকায় আমার রবের জায়গা কোথায়?",
+      "যারা আমাকে সঠিক পথ থেকে সরিয়ে নিতে চায়, শুধু জোর গলায় কথা বলে বলেই কি আমি তাদের কথায় কান দিই?",
+      "আল্লাহ কোনো সাহায্যকারী ছাড়াই সবকিছু সৃষ্টি করেছেন, এ কথা মনে রাখলে আমার দিনটা কোথায় কোথায় বদলে যেত?"
+    ],
+    "lessonEn": "Allah created the heavens, the earth and you without any helper or witness. Do not hand your obedience to whatever misleads you, as though it had a share in His work.",
+    "lessonBn": "আল্লাহ আসমান, যমীন আর আপনাকে সৃষ্টি করেছেন কোনো সাহায্যকারী বা সাক্ষী ছাড়াই। যা আপনাকে পথভ্রষ্ট করে, তার হাতে নিজের আনুগত্য তুলে দেবেন না, যেন তাঁর কাজে তারও কোনো ভাগ আছে।"
   }
 };
 

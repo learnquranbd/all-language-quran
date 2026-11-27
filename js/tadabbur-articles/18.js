@@ -2043,6 +2043,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:51": {
+    "sections": [
+      {
+        "h": {
+          "en": "Witnesses Who Were Never There",
+          "bn": "যারা সেদিন ছিলই না"
+        },
+        "p": [
+          {
+            "en": "Ma ashhadtuhum khalqa as-samawati wal-ardi wa la khalqa anfusihim: I did not make them witness the creation of the heavens and the earth, nor the creation of themselves. Wa ma kuntu muttakhidha al-mudillina 'adudan: nor would I take the misleaders as helpers. The verse is thirteen Arabic words in three clauses, and it follows straight on from the question of 18:50, which asked whether people would take Iblis and his offspring as allies in place of their Lord. That verse named the choice; this verse strips away its grounds.",
+            "bn": "মা আশহাদতুহুম খালকাস সামাওয়াতি ওয়াল আরদি ওয়ালা খালকা আনফুসিহিম: আসমান ও যমীনের সৃষ্টি আমি তাদের দেখাইনি, তাদের নিজেদের সৃষ্টিও না। ওয়ামা কুনতু মুত্তাখিযাল মুদিল্লীনা আদুদা: আর পথভ্রষ্টকারীদের আমি সাহায্যকারী বানানোর নই। আরবিতে আয়াতটি মাত্র ১৩টি শব্দের, তাতে তিনটি অংশ। এর ঠিক আগে ১৮:৫০ আয়াত প্রশ্ন রেখেছিল: তোমরা কি রবকে ছেড়ে ইবলিস আর তার বংশধরদের অভিভাবক বানাবে? সেখানে সিদ্ধান্তটা সামনে আনা হয়েছিল। এখানে সেই সিদ্ধান্তের পায়ের নিচের মাটিটুকুই সরিয়ে নেওয়া হলো।"
+          },
+          {
+            "en": "At-Tabari reads the verse as the answer to that question. God did not bring Iblis and his offspring to the making of the heavens and the earth so as to seek their help in it; He was alone in creating all of it, without helper or backer. So how, at-Tabari asks, did people take their enemy as allies apart from Him, when those allies are creatures like themselves, and abandon the worship of Him who favoured them and their forebears, and who created both them and whomever they befriend?",
+            "bn": "তাবারী আয়াতটিকে সেই প্রশ্নেরই জবাব হিসেবে পড়েন। আসমান-যমীন গড়ার সময় আল্লাহ ইবলিস ও তার বংশধরদের হাজির করেননি যে তাদের কাছে সাহায্য নেবেন। সবকিছু তিনি একাই সৃষ্টি করেছেন, কোনো সাহায্যকারী বা পৃষ্ঠপোষক ছাড়া। তাহলে মানুষ কীভাবে তাঁকে ছেড়ে নিজেদের শত্রুকে অভিভাবক বানাল, তাবারী জানতে চান। অথচ সেই অভিভাবকেরাও তাদের মতোই সৃষ্টি। আর তারা ছেড়ে দিল তাঁর ইবাদত, যিনি তাদের ও তাদের পূর্বপুরুষদের নিয়ামত দিয়েছেন, যিনি তাদেরকেও বানিয়েছেন, যাদের তারা বন্ধু বানায় তাদেরকেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the Pronoun Points To",
+          "bn": "তাদের বলতে কারা"
+        },
+        "p": [
+          {
+            "en": "The first question is the pronoun: who are 'them'? At-Tabari answers without hesitation that they are Iblis and his offspring, and al-Muyassar agrees, adding 'whom you obeyed'. Al-Baghawi gives the same as his main reading, then records two others: the disbelievers, introduced with 'it is said', and the angels, from al-Kalbi. As-Sa'di names the devils and, in a bracketed phrase, 'these misleaders', which leaves room for human ones as well. Ibn Kathir speaks of those whom people took as allies apart from God.",
+            "bn": "প্রথম প্রশ্ন সর্বনামটি নিয়ে: 'তাদের' বলতে কারা? তাবারী দ্বিধা ছাড়াই বলেন, ইবলিস ও তার বংশধরেরা। মুয়াসসারও তা-ই বলে, সঙ্গে যোগ করে: 'যাদের তোমরা আনুগত্য করেছ'। বাগাভীর মূল ব্যাখ্যাও এটাই। তবে তিনি আরও দুটি মত লিখে রাখেন। 'বলা হয়' বলে একটি মত আনেন, তারা হলো কাফিররা। আর কালবী থেকে আনেন, তারা হলো ফেরেশতারা। সা'দী শয়তানদের নাম নেন, আর বন্ধনীর ভেতরে লেখেন 'এই পথভ্রষ্টকারীরা', তাতে মানুষের মধ্যকার পথভ্রষ্টকারীরাও এর আওতায় আসার সুযোগ থাকে। ইবন কাসীর বলেন তাদের কথা, আল্লাহকে ছেড়ে মানুষ যাদের অভিভাবক বানিয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi sets out three readings side by side. On the first, the pronoun returns to Iblis and his offspring: God did not consult them about creating the heavens, the earth or their own selves, but created them as He willed. On the second, it is still Iblis and his offspring who were not made witnesses, but 'themselves' means the polytheists. On the third, the pronoun returns to the polytheists, and to people at large. He reports these as readings and does not settle between them in this passage.",
+            "bn": "কুরতুবী তিনটি ব্যাখ্যা পাশাপাশি রাখেন। প্রথমটিতে সর্বনাম ফিরে যায় ইবলিস ও তার বংশধরদের দিকে। আসমান, যমীন বা তাদের নিজেদের সৃষ্টি নিয়ে আল্লাহ তাদের সঙ্গে পরামর্শ করেননি, বরং যেভাবে চেয়েছেন সেভাবেই তাদের বানিয়েছেন। দ্বিতীয়টিতে সাক্ষী না রাখার কথা ইবলিস ও তার বংশধরদের নিয়েই, তবে 'তাদের নিজেদের' মানে মুশরিকরা। তৃতীয়টিতে সর্বনাম ফিরে যায় মুশরিকদের দিকে, আর সাধারণভাবে গোটা মানুষের দিকে। এ জায়গায় তিনি মতগুলো উল্লেখ করেন, কোনোটির পক্ষে রায় দেন না।"
+          },
+          {
+            "en": "The readings point the same way. If 'them' is Iblis and his line, the verse tells people that the ones they obey had no hand in making anything. If 'them' is the disbelievers, it reminds them that they saw nothing of creation either, so they have no ground for setting up partners beside its Maker. Ibn Kathir's wording fits both: those you took as allies apart from Me are servants like you, who own nothing, and they did not even exist when the heavens and the earth were made.",
+            "bn": "মতগুলো একই দিকে ইঙ্গিত করে। 'তাদের' যদি হয় ইবলিস আর তার বংশধর, তবে আয়াত মানুষকে জানাচ্ছে: যাদের তোমরা মানছ, কোনো কিছু বানানোয় তাদের হাত ছিল না। আর 'তাদের' যদি হয় কাফিররা, তবে আয়াত মনে করিয়ে দিচ্ছে যে তারাও সৃষ্টির কিছুই দেখেনি। কাজেই স্রষ্টার পাশে শরীক দাঁড় করানোর কোনো ভিত্তি তাদের নেই। ইবন কাসীরের কথা দুই ব্যাখ্যার সঙ্গেই খাপ খায়। আমাকে ছেড়ে যাদের তোমরা অভিভাবক বানিয়েছ, তারা তোমাদেরই মতো বান্দা, কোনো কিছুর মালিক নয়। আসমান-যমীন যখন সৃষ্টি হয়, তখন তাদের অস্তিত্বই ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Absent Even From Themselves",
+          "bn": "নিজেদের সৃষ্টিতেও অনুপস্থিত"
+        },
+        "p": [
+          {
+            "en": "Wa la khalqa anfusihim, nor the creation of themselves, presses the point a step further. To be absent from the shaping of the sky is one thing; to be absent from one's own shaping is another. At-Tabari reads it as: nor did I make some of them witness the creation of others, so as to seek help from one in making another. Al-Muyassar says the same in nearly the same words. On this reading, no member of that line stood by while another was made, let alone lent a hand.",
+            "bn": "ওয়ালা খালকা আনফুসিহিম, তাদের নিজেদের সৃষ্টিও না। কথাটা এখানে আরও এক ধাপ এগোয়। আকাশ গড়ার সময় হাজির না থাকা এক ব্যাপার, নিজের গড়ে ওঠার সময়ই হাজির না থাকা আরেক ব্যাপার। তাবারীর ব্যাখ্যা হলো: তাদের একজনের সৃষ্টি আমি আরেকজনকে দেখাইনি, যাতে একজনকে বানাতে আরেকজনের সাহায্য নিতে হয়। মুয়াসসারও প্রায় একই ভাষায় একই কথা বলে। এ ব্যাখ্যায় ওই বংশের কেউ অন্য কারও সৃষ্টির সময় পাশে দাঁড়িয়েও দেখেনি, হাত লাগানো তো দূরের কথা।"
+          },
+          {
+            "en": "Ibn Kathir puts it in terms of time: they did not witness the creation of the heavens and the earth because they did not yet exist. As-Sa'di turns it into a question. Since God did not bring them to it or consult them about it, how could they be creators of any part of it? He then asks how partners could be made for God from among the devils, befriended and obeyed as God is obeyed, when they neither created, nor witnessed any creating, nor helped Him in it.",
+            "bn": "ইবন কাসীর বিষয়টা দেখান সময়ের হিসাবে: আসমান-যমীনের সৃষ্টি তারা দেখেনি, কারণ তখনো তাদের অস্তিত্বই ছিল না। সা'দী একে প্রশ্নের রূপ দেন। আল্লাহ যখন তাদের সেখানে হাজিরও করেননি, পরামর্শও নেননি, তখন এর কোনো অংশের স্রষ্টা তারা হয় কী করে? তারপর তিনি জিজ্ঞেস করেন, শয়তানদের মধ্য থেকে আল্লাহর শরীক বানানো হয় কীভাবে, যাদের সঙ্গে বন্ধুত্ব রাখা হয়, আল্লাহর মতো যাদের আনুগত্য করা হয়? অথচ তারা কিছু সৃষ্টি করেনি, সৃষ্টি হতে দেখেওনি, আর এ কাজে আল্লাহকে কোনো সাহায্যও করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Minister, No Counsellor",
+          "bn": "উজির নেই, পরামর্শদাতাও নেই"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir draws out what the absence means. In his paraphrase God says: I alone create all things, govern them and set their measure; there is no partner with Me in that, no minister, no counsellor and no peer. The words come from the language of a royal court. Human rulers keep ministers and advisers because they cannot see or do everything themselves, and a king's counsellors share in his decisions. The verse leaves no such office standing anywhere around the Creator.",
+            "bn": "এই অনুপস্থিতির মানে কী, ইবন কাসীর তা খুলে বলেন। তাঁর ভাষ্যে আল্লাহ বলছেন: সবকিছু আমি একাই সৃষ্টি করি, আমিই তা পরিচালনা করি, আমিই তার পরিমাণ ঠিক করি। এ কাজে আমার কোনো শরীক নেই, কোনো উজির নেই, কোনো পরামর্শদাতা নেই, কোনো সমকক্ষও নেই। শব্দগুলো যেন রাজদরবারের ভাষা থেকে নেওয়া। মানুষের রাজা উজির আর উপদেষ্টা রাখেন, কারণ সবকিছু নিজে দেখা বা নিজে করা তাঁর সাধ্যে কুলায় না, আর রাজার সিদ্ধান্তে উপদেষ্টাদেরও ভাগ থাকে। স্রষ্টার চারপাশে এমন কোনো পদের অস্তিত্বই আয়াতটি রাখে না।"
+          },
+          {
+            "en": "He supports it with 34:22 and 34:23, which tell people to call on those they claim besides God: they do not own the weight of a speck in the heavens or on the earth, they have no share in either, God has no backer among them, and intercession with Him profits only the one He permits. At-Tabari's phrase for the same truth is 'without helper and without backer', and al-Qurtubi's first reading puts it as consultation: God did not seek their counsel.",
+            "bn": "এর সমর্থনে তিনি আনেন ৩৪:২২ ও ৩৪:২৩ আয়াত। সেখানে বলা হয়েছে, আল্লাহকে ছেড়ে যাদের তোমরা দাবি করো, তাদের ডাকো। আসমান বা যমীনে অণু পরিমাণ জিনিসেরও তারা মালিক নয়, দুটোর কোনোটিতেই তাদের ভাগ নেই, তাদের মধ্যে আল্লাহর কোনো সহযোগীও নেই। আর তিনি যাকে অনুমতি দেন, সে ছাড়া কারও জন্য তাঁর কাছে সুপারিশ কাজে আসে না। একই সত্যকে তাবারী বলেন 'কোনো সাহায্যকারী ও পৃষ্ঠপোষক ছাড়া'। আর কুরতুবীর প্রথম ব্যাখ্যা একে দেখে পরামর্শের দিক থেকে: আল্লাহ তাদের কাছে পরামর্শ চাননি।"
+          },
+          {
+            "en": "As-Sa'di sets governing beside creating. Alone in creating and in managing, in wisdom and in decree, is God, the creator of all things, who disposes of them by His wisdom. That pairing matters, because people seldom claim that a devil made the sky. They are more likely to act as if other powers steer what happens now. The verse answers both at once: He who made the world without help also runs it without help, and nobody else holds a share.",
+            "bn": "সা'দী সৃষ্টির পাশে পরিচালনার কথাও রাখেন। সৃষ্টি আর পরিচালনা, হিকমত আর তাকদীর, সবকিছুতে একক সত্তা আল্লাহ। তিনিই সবকিছুর স্রষ্টা, নিজের হিকমত দিয়ে সবকিছু চালান। দুটো কথা একসঙ্গে রাখার গুরুত্ব আছে। কোনো শয়তান আকাশ বানিয়েছে, এমন দাবি মানুষ খুব কমই করে। বরং আচরণে মনে হয়, এখনকার ঘটনাগুলো অন্য কোনো শক্তি চালাচ্ছে। আয়াতটি দুটোরই জবাব দেয় একসঙ্গে। যিনি কারও সাহায্য ছাড়া জগৎ বানিয়েছেন, তিনিই কারও সাহায্য ছাড়া তা চালান, আর অন্য কারও তাতে কোনো ভাগ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Strength Drawn From the Arm",
+          "bn": "বাহু থেকে আসা শক্তি"
+        },
+        "p": [
+          {
+            "en": "The last clause turns on 'adud. Ibn Kathir reports that Malik glossed it as helpers, and at-Tabari gives the same gloss from Qatada through two chains. At-Tabari explains the word from ordinary speech: people say that so-and-so ya'dudu so-and-so when he strengthens and helps him. The misleaders, in his words, are those who do not guide to the truth but lead astray, so that whoever follows them is turned aside from the straight course. He adds that they may also be those who follow in misguidance.",
+            "bn": "শেষ অংশের মূল শব্দ আদুদ। ইবন কাসীর জানান, মালিক এর অর্থ করেছেন সাহায্যকারী। তাবারীও দুটি সনদে কাতাদা থেকে একই অর্থ আনেন। শব্দটি তাবারী বোঝান রোজকার কথাবার্তা দিয়ে: কেউ কাউকে শক্তি জোগালে আর সাহায্য করলে আরবরা বলে, অমুক অমুককে ইয়াদুদু করছে। তাঁর ভাষায় পথভ্রষ্টকারী তারা, যারা সত্যের দিকে পথ দেখায় না, বরং পথ ভোলায়। ফলে যে তাদের অনুসরণ করে, সে সোজা রাস্তা থেকে ছিটকে পড়ে। তিনি আরও বলেন, এরা গোমরাহিতে চলা অনুসারীরাও হতে পারে।"
+          },
+          {
+            "en": "Al-Qurtubi traces the image to the body. I'tadadtu bi-fulan means I sought someone's help and was strengthened by him. The root is the 'adud of the arm, the upper arm, and the word came to stand for help because the hand draws its strength from the upper arm. He cites the promise to Musa (AS) in 28:35, sanashuddu 'adudaka bi-akhika, We will strengthen your arm through your brother, and reads it as: We will help you through your brother.",
+            "bn": "কুরতুবী ছবিটাকে শরীর পর্যন্ত নিয়ে যান। ই'তাদাদতু বি-ফুলান মানে, আমি অমুকের সাহায্য নিলাম আর তার দ্বারা শক্তি পেলাম। শব্দের মূল হলো হাতের আদুদ, অর্থাৎ বাহুর উপরের অংশ। সাহায্য অর্থে শব্দটা এল কারণ হাতের জোর আসে ওই বাহু থেকেই। তিনি উদ্ধৃত করেন ২৮:৩৫ আয়াতে মূসা (আঃ)-কে দেওয়া প্রতিশ্রুতি: সানাশুদ্দু আদুদাকা বি-আখীকা, তোমার ভাইকে দিয়ে আমি তোমার বাহু শক্ত করব। এর অর্থ তিনি করেন: তোমার ভাইয়ের মাধ্যমে আমি তোমাকে সাহায্য করব।"
+          },
+          {
+            "en": "Al-Qurtubi then guards the image: the word is used as a likeness, and God needs no one's help. Why name the misleaders in particular? He says it was for added censure and rebuke. As-Sa'di explains what would be unfitting in it. It does not befit God to give them any share in managing His affairs, because they strive to mislead His creatures and are hostile to their Lord. What befits Him, he says, is to keep them far and not bring them near.",
+            "bn": "এরপর কুরতুবী সাবধান করে দেন: শব্দটা এসেছে উপমা হিসেবে, আল্লাহর কারও সাহায্যের দরকার নেই। তাহলে আলাদা করে পথভ্রষ্টকারীদের কথা কেন? তিনি বলেন, তাদের আরও বেশি নিন্দা আর ভর্ৎসনা করার জন্য। এতে বেমানান কী, সা'দী তা বুঝিয়ে দেন। নিজের কাজকর্ম পরিচালনায় তাদের কোনো ভাগ দেওয়া আল্লাহর শানে মানায় না। কারণ তারা তাঁর সৃষ্টিকে পথভ্রষ্ট করার চেষ্টায় থাকে, আর নিজেদের রবের সঙ্গে শত্রুতা করে। তাঁর বক্তব্য, আল্লাহর শানে যা মানায় তা হলো তাদের দূরে রাখা, কাছে না টানা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "We, I and You in Recitation",
+          "bn": "তিলাওয়াতে আমি, আমরা, তুমি"
+        },
+        "p": [
+          {
+            "en": "The verse also carries variant readings, which al-Qurtubi and al-Baghawi report. Both say that Abu Ja'far read ma ashhadnahum, We did not make them witness, with the plural of majesty, while the rest read ma ashhadtuhum, in the singular. Al-Qurtubi also records a reading credited in his text to al-Jahdari, wa ma kunta, with the second-person ending: you, Muhammad, would not take the misleaders as helpers. On that reading the last clause addresses the Messenger ﷺ instead of speaking of God.",
+            "bn": "আয়াতটির কয়েকটি ভিন্ন পাঠও আছে, কুরতুবী ও বাগাভী তা উল্লেখ করেন। দুজনেই বলেন, আবু জাফর পড়েছেন মা আশহাদনাহুম, অর্থাৎ 'আমরা তাদের দেখাইনি', সম্মানসূচক বহুবচনে। বাকিরা পড়েছেন একবচনে, মা আশহাদতুহুম। কুরতুবী আরও একটি পাঠ উল্লেখ করেন, তাঁর লেখায় যা জাহদারীর নামে এসেছে: ওয়ামা কুনতা, মধ্যম পুরুষের রূপে। তখন অর্থ দাঁড়ায়, হে মুহাম্মাদ, তুমি পথভ্রষ্টকারীদের সাহায্যকারী বানাবে না। এ পাঠে শেষ অংশটি আল্লাহর কথা বলার বদলে রাসূল ﷺ-কে সম্বোধন করে।"
+          },
+          {
+            "en": "On the word 'adud itself al-Qurtubi counts eight forms. The majority read 'adudan, with a on the first letter and u on the second, and he calls it the most eloquent. He then lists a form with the middle letter unvowelled, the dialect of Banu Tamim; one with u on both letters, the reading of Abu Amr and al-Hasan; and further forms from Ikrima, ad-Dahhak, Isa ibn Umar and Harun the reciter. He presents all eight as forms of one word, not as different words with different meanings.",
+            "bn": "আদুদ শব্দটিরই আটটি রূপ কুরতুবী গুনে দেখান। অধিকাংশ কারী পড়েছেন আদুদা, প্রথম অক্ষরে যবর আর দ্বিতীয়টিতে পেশ দিয়ে। তাঁর মতে এটাই সবচেয়ে বিশুদ্ধ। তারপর তিনি একে একে আনেন মাঝের অক্ষরে সাকিন দেওয়া রূপ, যা বনু তামীমের ভাষা। দুই অক্ষরেই পেশ দেওয়া রূপ, যা আবু আমর ও হাসানের পাঠ। আর আরও কয়েকটি রূপ, ইকরিমা, দাহহাক, ঈসা ইবন উমর ও কারী হারূন থেকে। আটটিকেই তিনি একই শব্দের নানা রূপ হিসেবে দেখান, ভিন্ন অর্থের আলাদা শব্দ হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stars, Natures and the Valley",
+          "bn": "তারা, প্রকৃতি আর উপত্যকা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's third reading opens the verse outward. If 'them' includes people at large, the verse answers groups who claim inside knowledge of how things are made and moved: astrologers, those who hold that natural properties act by themselves, and physicians who overreach in their pronouncements. Ibn Atiyya, he reports, heard this interpretation through his father and a jurist of al-Mahdiyya from Abd al-Haqq as-Siqilli. Through ath-Tha'labi he adds that 'nor the creation of themselves' was taken as a reply to those who say natures are what act in souls.",
+            "bn": "কুরতুবীর তৃতীয় ব্যাখ্যা আয়াতটিকে আরও প্রশস্ত করে। 'তাদের' মধ্যে যদি সাধারণভাবে সব মানুষ থাকে, তবে আয়াতটি সেই দলগুলোর জবাব, যারা দাবি করে জিনিস কীভাবে সৃষ্টি হয় আর চলে, তার ভেতরের খবর তারা জানে। যেমন জ্যোতিষীরা, যারা বলে প্রাকৃতিক গুণ নিজে নিজেই কাজ করে তারা, আর সীমা ছাড়িয়ে রায় দেওয়া চিকিৎসকেরা। তিনি জানান, ইবন আতিয়্যা এ ব্যাখ্যা শুনেছেন তাঁর পিতা আর মাহদিয়ার এক ফকীহের সূত্রে, আবদুল হক সিকিল্লী থেকে। সা'লাবীর সূত্রে তিনি আরও আনেন, 'তাদের নিজেদের সৃষ্টিও না' অংশটিকে ধরা হয়েছে তাদের জবাব হিসেবে, যারা বলে প্রাণের ভেতরে আসলে প্রকৃতিই কাজ করে।"
+          },
+          {
+            "en": "Ibn Atiyya, quoted by al-Qurtubi, keeps the order clear. The first target of the verse is Iblis and his offspring, and it is through them that the reply reaches those groups, and also the soothsayers and the Arabs who honoured the jinn, saying 'I seek refuge with the mighty lord of this valley'. All of these attach themselves to Iblis and his line, who misled them all. So Iblis and his line are the first meaning of 'the misleaders', and the others fall within that meaning.",
+            "bn": "কুরতুবীর উদ্ধৃতিতে ইবন আতিয়্যা ক্রমটা পরিষ্কার রাখেন। আয়াতের প্রথম লক্ষ্য ইবলিস ও তার বংশধরেরা। তাদের মাধ্যমেই জবাবটা পৌঁছায় ওই দলগুলোর কাছে। পৌঁছায় গণকদের কাছেও, আর সেই আরবদের কাছে, যারা জিনদের সম্মান করত আর বলত, 'এ উপত্যকার প্রতাপশালীর কাছে আশ্রয় চাই'। এরা সবাই ইবলিস আর তার বংশের সঙ্গে জুড়ে আছে, আর তারাই এদের সবাইকে পথভ্রষ্ট করেছে। কাজেই 'পথভ্রষ্টকারী' বলতে প্রথমে তারাই, আর বাকিরা সেই অর্থের ভেতরেই পড়ে।"
+          },
+          {
+            "en": "None of the commentaries read for this verse attaches a sound hadith to it, and none gives an occasion of revelation. One thing needs saying plainly. The verse describes Iblis, his offspring and the misleaders, and it licenses nothing against any living person or community. Al-Qurtubi's list aims at a claim, that stars or natures share in creating, and not at people who study the sky or practise medicine; his own wording limits it to physicians who overreach. The verse asks the reader where power lies, not whom to condemn.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি, নাযিলের কোনো প্রেক্ষাপটও দেয়নি। একটা কথা সোজাসুজি বলা দরকার। আয়াতটি ইবলিস, তার বংশধর আর পথভ্রষ্টকারীদের কথা বলে, জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। কুরতুবীর তালিকার লক্ষ্য একটা দাবি, যে তারা বা প্রকৃতি সৃষ্টিতে ভাগীদার। আকাশ নিয়ে যারা গবেষণা করে বা চিকিৎসা করে, তারা লক্ষ্য নয়। তাঁর নিজের ভাষাই একে সীমা ছাড়ানো চিকিৎসকদের মধ্যে আটকে রাখে। আয়াত পাঠককে জিজ্ঞেস করে ক্ষমতা কার হাতে, কাকে দোষী বানাতে হবে তা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Call With No Reply",
+          "bn": "যে ডাকে সাড়া মেলে না"
+        },
+        "p": [
+          {
+            "en": "The next verse, 18:52, shows where this line of thought ends. On the Day, God will say: call My 'partners' whom you claimed. They will call, and there will be no response. Those who were not present at the making of anything, and were never taken as helpers, prove unable to help on the day help is most needed. This verse gives the reason in advance: a helper who never had a part in the work has nothing to bring to it at the end.",
+            "bn": "পরের আয়াত, ১৮:৫২, দেখিয়ে দেয় এ চিন্তার শেষ কোথায়। সেদিন আল্লাহ বলবেন, যাদের তোমরা আমার শরীক বলে দাবি করতে, তাদের ডাকো। তারা ডাকবে, কিন্তু কোনো সাড়া আসবে না। কোনো কিছুর সৃষ্টিতে যারা হাজির ছিল না, যাদের কখনো সাহায্যকারী বানানো হয়নি, সাহায্যের সবচেয়ে বড় দরকারের দিনে তারা কোনো সাহায্যই করতে পারবে না। কারণটা এ আয়াত আগেই বলে রেখেছে। কাজের মধ্যে যার কখনো কোনো ভূমিকা ছিল না, শেষ বেলায় দেওয়ার মতো কিছুই তার হাতে নেই।"
+          },
+          {
+            "en": "The verse also asks something of the reader now. Many voices speak with confidence about how a life should go: the whisper toward a wrong, the pull of a crowd, the forecast that claims to read what is coming. Each can be put to the verse's quiet test. Were you there when the heavens and the earth were made, or when I was made? None of them was. He who made everything alone, needing no helper, is He whose guidance is owed obedience, and the first to whom need should turn.",
+            "bn": "আয়াতটি আজকের পাঠকের কাছেও কিছু চায়। জীবন কীভাবে চলা উচিত, তা নিয়ে অনেক কণ্ঠ জোর দিয়ে কথা বলে। গুনাহর দিকে টানা কুমন্ত্রণা, ভিড়ের টান, ভবিষ্যৎ পড়ে ফেলার দাবি করা গণনা। প্রত্যেকটিকে এ আয়াতের নীরব পরীক্ষায় ফেলা যায়। আসমান-যমীন যখন সৃষ্টি হলো, কিংবা আমাকে যখন বানানো হলো, তুমি কি তখন ছিলে? কেউই ছিল না। যিনি একাই সবকিছু বানিয়েছেন, কোনো সাহায্যকারীর দরকার যাঁর হয়নি, আনুগত্য পাওনা তাঁর পথনির্দেশেরই। আর প্রয়োজনে মানুষ প্রথমে ফিরবে তাঁরই দিকে।"
+          }
+        ]
+      }
+    ]
+  },
   "18:55": {
     "sections": [
       {
