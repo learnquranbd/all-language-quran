@@ -603,6 +603,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "33:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "When, Then When Again",
+          "bn": "যখন, তারপর আবার যখন"
+        },
+        "p": [
+          {
+            "en": "Verse 33:9 told the whole favour in a single breath: armies came, and Allah sent against them a wind and hosts no one saw. Verse 33:10 slows down and goes back inside the siege. It opens with idh, when, and uses the word again halfway through: first the arrival of the enemy, then what that arrival did inside the besieged. At-Tabari ties the opening idh to the close of the previous verse: Allah was Seeing of what you did when the confederate armies came at you from above and below.",
+            "bn": "৩৩:৯ আয়াত গোটা অনুগ্রহের কথা বলেছে এক নিঃশ্বাসে: বাহিনী এল, আর আল্লাহ তাদের উপর পাঠালেন ঝড়ো হাওয়া আর এমন সৈন্য, যাদের কেউ দেখেনি। ৩৩:১০ আয়াত গতি কমিয়ে আবার অবরোধের ভেতরে ফিরে যায়। শুরু হয় ইয, অর্থাৎ যখন দিয়ে, মাঝপথে শব্দটা আবার আসে। ফলে শ্রোতাকে দুটি মুহূর্তের ভেতর দিয়ে নেওয়া হয়। প্রথমটা শত্রুর আগমন, দ্বিতীয়টা সেই আগমন অবরুদ্ধদের ভেতরে কী ঘটাল। তাবারী শুরুর ইয-কে জুড়ে দেন আগের আয়াতের শেষের সঙ্গে: তোমরা যা করছিলে আল্লাহ তা দেখছিলেন, যখন সম্মিলিত বাহিনী উপর আর নিচ, দুই দিক থেকে তোমাদের দিকে ধেয়ে এসেছিল।"
+          },
+          {
+            "en": "Al-Qurtubi gives the word a different grammatical home. For him idh stands in the accusative with the sense of remember, as it does again in 33:13, and when a faction of them said. The two readings do not pull the meaning apart. On at-Tabari's account the verse fills in what Allah saw; on al-Qurtubi's it is a fresh summons to recall. Either way, the believers are asked to look back at the worst hours of their lives as hours Allah had watched.",
+            "bn": "কুরতুবী শব্দটির ব্যাকরণগত অবস্থান দেখেন অন্যভাবে। তাঁর মতে ইয এখানে নসবের অবস্থানে, আর অর্থ হলো স্মরণ কর। ৩৩:১৩ আয়াতের শুরুতে 'আর যখন তাদের একদল বলেছিল' কথাটাতেও তিনি একই ব্যাখ্যা দেন। দুই ব্যাখ্যায় অর্থ আলাদা হয়ে যায় না। তাবারীর হিসেবে আয়াতটি খুলে বলছে আল্লাহ কী দেখছিলেন। কুরতুবীর হিসেবে এটা স্মরণের নতুন ডাক। যেভাবেই পড়া হোক, মু’মিনদের বলা হচ্ছে নিজেদের জীবনের সবচেয়ে কঠিন প্রহরগুলোর দিকে ফিরে তাকাতে, আর মনে রাখতে যে সেই প্রহরগুলো আল্লাহর চোখের সামনেই কেটেছে।"
+          },
+          {
+            "en": "The day is named in a short report in al-Bukhari (4103) from 'A'ishah. She recited when they came at you from above you and from below you, and when the eyes swerved, and said: that was the day of al-Khandaq. Muslim has it by the same route (3020). It is her own statement, not a saying of the Prophet ﷺ. The one prophetic narration Ibn Kathir places under these words, about what the Companions asked to say that day, he relays from Ibn Abi Hatim and Ahmad ungraded; it is only mentioned here.",
+            "bn": "প্রহরগুলো কোন দিনের, তা জানিয়ে দেয় বুখারীতে (৪১০৩) আয়িশা (রাঃ) থেকে বর্ণিত ছোট একটি বর্ণনা। তিনি তিলাওয়াত করলেন: যখন তারা তোমাদের উপর থেকে আর তোমাদের নিচ থেকে এসেছিল, আর যখন চোখ বাঁকা হয়ে গিয়েছিল। তারপর বললেন: সেটা ছিল খন্দকের দিন। মুসলিমও একই সূত্রে বর্ণনাটি এনেছেন (৩০২০)। কথাটা তাঁর নিজের, নবী ﷺ-এর বাণী নয়। এ অংশের নিচে ইবন কাসীর নবী ﷺ-এর নামে একটি বর্ণনা আনেন, সেদিন সাহাবিরা কী বলবেন সে বিষয়ে। সেটি তিনি ইবন আবী হাতিম ও আহমাদ থেকে উদ্ধৃত করেন, কোনো মান উল্লেখ না করে। তাই এখানে শুধু তার উল্লেখটুকুই থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Valley's Head and Bed",
+          "bn": "উপত্যকার মাথা আর তলা"
+        },
+        "p": [
+          {
+            "en": "Fawqikum, above you, and asfala minkum, below you, are read by several commentators as a map of the ground. Al-Baghawi says from above means from the top of the valley on the side of the east, and names Asad and Ghatafan. From below means the bed of the valley on the side of the west: Quraysh and Kinanah, under Abu Sufyan ibn Harb. Al-Qurtubi draws the same two directions: Najd and Banu Asad from the east, Abu Sufyan with the people of Makkah from the west.",
+            "bn": "ফাওকিকুম, তোমাদের উপর থেকে, আর আসফালা মিনকুম, তোমাদের নিচ থেকে: কয়েকজন তাফসীরকার এ দুটি শব্দে মাটির নকশা দেখেন। বাগাভী বলেন, উপর থেকে মানে উপত্যকার উঁচু দিক, পূর্ব দিক থেকে। সেদিক থেকে এসেছিল আসাদ ও গাতাফান। নিচ থেকে মানে উপত্যকার তলদেশ, পশ্চিম দিক থেকে। সেদিক থেকে এসেছিল কুরাইশ ও কিনানা, কুরাইশের নেতৃত্বে আবু সুফিয়ান ইবন হারব। কুরতুবীও একই দুই দিক আঁকেন। পূর্ব দিক থেকে আসে নাজদের লোকেরা আর বনু আসাদ, পশ্চিম দিক থেকে মক্কাবাসীদের নিয়ে আবু সুফিয়ান।"
+          },
+          {
+            "en": "The Muyassar keeps the same picture in plain words. The two sides matter. Ibn Kathir places the Muslims, about 3,000 by one report and 700 by another, with their backs to the hill of Sal' and their faces to the enemy, a dry trench between them that kept horse and foot back. The women and children were placed in the fortified houses of Madinah. An army in front can be watched. One that comes from two sides leaves the eye nowhere to rest.",
+            "bn": "মুয়াসসারও সাদা কথায় একই ছবি রাখে। দুই দিকের এই কথাটা গুরুত্বপূর্ণ। ইবন কাসীর মুসলমানদের অবস্থান বর্ণনা করেন। এক বর্ণনায় তাঁরা প্রায় ৩,০০০, আরেক বর্ণনায় ৭০০। পিঠ সাল পাহাড়ের দিকে, মুখ শত্রুর দিকে। মাঝখানে পানিহীন এক খন্দক, যা পদাতিক আর অশ্বারোহী কাউকেই তাঁদের কাছে পৌঁছাতে দেয়নি। নারী ও শিশুদের রাখা হয়েছিল মদীনার দুর্গঘরগুলোতে। সামনে থেকে আসা বাহিনীর উপর চোখ রাখা যায়। দুই দিক থেকে এলে চোখ আর কোথাও থামার জায়গা পায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Hands, Other Maps",
+          "bn": "অন্য বর্ণনা, অন্য নকশা"
+        },
+        "p": [
+          {
+            "en": "Not every report arranges the two sides the same way. At-Tabari relays from Mujahid that above was 'Uyaynah with the people of Najd and below was Abu Sufyan, while Qurayzah faced the Muslims. From Yazid ibn Ruman he relays a different arrangement: those who came from above were Qurayzah, and those from below were Quraysh and Ghatafan together. At-Tabari himself does not choose between them. He says only that the confederate armies came from both sides, and that it was said those below were Abu Sufyan and Quraysh.",
+            "bn": "সব বর্ণনা দুই দিককে একইভাবে সাজায় না। তাবারী মুজাহিদ থেকে আনেন: উপর থেকে এসেছিল নাজদবাসীদের নিয়ে উয়াইনা, নিচ থেকে আবু সুফিয়ান, আর কুরাইযা মুসলমানদের মুখোমুখি দাঁড়িয়েছিল। ইয়াযীদ ইবন রূমান থেকে তিনি আনেন ভিন্ন এক বিন্যাস: উপর থেকে যারা এসেছিল তারা কুরাইযা, আর নিচ থেকে কুরাইশ ও গাতাফান একসঙ্গে। তাবারী নিজে এর কোনোটাকে বেছে নেন না। তিনি শুধু বলেন, সম্মিলিত বাহিনী দুই দিক থেকেই এসেছিল। আর বলা হয়, নিচ থেকে যারা এসেছিল তারা আবু সুফিয়ান ও কুরাইশ।"
+          },
+          {
+            "en": "Ibn Kathir reads above as the confederates in general and below as Banu Qurayzah. He points back to a report from Hudhayfah, which he relays from al-Hakim and al-Bayhaqi without grading it: on the night of the confederates, Hudhayfah recalled, Abu Sufyan and his allies were above them and Qurayzah below them, and they feared for their families. As-Sa'di, alone among the commentators fetched here, turns the map over. For him the armies of Makkah and the Hijaz came from above, and the people of Najd from below.",
+            "bn": "ইবন কাসীরের কাছে উপর থেকে মানে সাধারণভাবে সম্মিলিত বাহিনী, আর নিচ থেকে মানে বনু কুরাইযা। এখানে তিনি হুযাইফা (রাঃ)-এর একটি বর্ণনার দিকে ফিরে যান, যা তিনি হাকিম ও বায়হাকী থেকে উদ্ধৃত করেন, কোনো মান উল্লেখ না করে। হুযাইফা (রাঃ) স্মরণ করেন, আহযাবের রাতে আবু সুফিয়ান ও তার মিত্ররা ছিল তাঁদের উপরে, কুরাইযা নিচে, আর পরিবার-পরিজনের জন্য তাঁরা ভয় পাচ্ছিলেন। এখানে যাঁদের তাফসীর দেখা হয়েছে, তাঁদের মধ্যে কেবল সা’দী নকশাটা উল্টে দেন। তাঁর মতে মক্কা ও হিজাযের বাহিনী এসেছিল উপর থেকে, আর নাজদের লোকেরা নিচ থেকে।"
+          },
+          {
+            "en": "This is a genuine difference, and it is kept here as a difference. All of them see the city pressed from two sides at once. The accounts in at-Tabari and Ibn Kathir also tell of a treaty partner close at hand breaking its pledge during the siege, so that danger stood behind the Muslims as well as before them. The verse itself names no party. It names the experience of being surrounded, and leaves the names to the reports.",
+            "bn": "মতভেদটা সত্যিকারের, তাই এখানে তা মতভেদ হিসেবেই রাখা হলো। সবাই দেখেন, শহরটা একসঙ্গে দুই দিক থেকে চাপের মুখে। তাবারী ও ইবন কাসীরের বর্ণনায় আরও আছে, অবরোধের মধ্যেই কাছের এক চুক্তিবদ্ধ পক্ষ তাদের অঙ্গীকার ভেঙে ফেলে। ফলে বিপদ শুধু সামনে নয়, মুসলমানদের পেছনেও দাঁড়িয়ে যায়। আয়াতটি নিজে কোনো পক্ষের নাম নেয় না। সে নাম দেয় ঘেরাও হয়ে পড়ার অভিজ্ঞতাকে, আর নামগুলো ছেড়ে দেয় বর্ণনার হাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eyes That Would Not Settle",
+          "bn": "যে চোখ স্থির থাকেনি"
+        },
+        "p": [
+          {
+            "en": "Wa-idh zaghat al-absar: and when the eyes swerved. At-Tabari explains it as the eyes leaving their resting place and staring up, fixed, and he relays from Qatadah a single word, shakhasat, they stared. Al-Qurtubi gives the same meaning first, then a second introduced with it is said: the eyes leaned aside, so that they turned to nothing but the enemy, dazed by the extremity of the terror. The Muyassar has it in one line: the eyes stared from the force of bewilderment and shock.",
+            "bn": "ওয়া ইয যাগাতিল আবসার: আর যখন চোখ বাঁকা হয়ে গিয়েছিল। তাবারীর ব্যাখ্যায় চোখ তার স্বাভাবিক জায়গা ছেড়ে উপরের দিকে স্থির হয়ে তাকিয়ে থাকে। কাতাদা থেকে তিনি আনেন একটি মাত্র শব্দ, শাখাসাত, অর্থাৎ চোখ ফ্যালফ্যাল করে তাকিয়ে রইল। কুরতুবীও প্রথমে এ অর্থই দেন। তারপর 'বলা হয়' দিয়ে আনেন দ্বিতীয় অর্থ: চোখ একপাশে হেলে গিয়েছিল, আতঙ্কের চরমে দিশেহারা হয়ে শত্রু ছাড়া আর কোনো দিকে ফিরছিল না। মুয়াসসার এক বাক্যে বলে: তীব্র বিহ্বলতা আর হতভম্ব ভাবের কারণে চোখ স্থির হয়ে গিয়েছিল।"
+          },
+          {
+            "en": "Al-Baghawi reports a second reading that runs the other way. The eyes leaned and stared out of terror, he says, and then, it is said, they turned away from everything, so that they did not look at their enemy. These two lesser readings picture opposite gestures: the eye locked on the danger, and the eye that cannot bear to face it. Both describe a gaze that is no longer its own master.",
+            "bn": "বাগাভী একটি দ্বিতীয় ব্যাখ্যা আনেন, যা চলে উল্টো দিকে। তিনি বলেন, আতঙ্কে চোখ হেলে গিয়ে স্থির হয়ে গিয়েছিল। তারপর 'বলা হয়' দিয়ে যোগ করেন: চোখ সবকিছু থেকে সরে গিয়েছিল, শত্রুর দিকেও তাকাচ্ছিল না। দুই বর্ণনার এই দ্বিতীয় অর্থ দুটি দুই বিপরীত ভঙ্গি আঁকে। এক চোখ বিপদের উপর আটকে আছে, আরেক চোখ বিপদের দিকে তাকাতেই পারছে না। দুটোতেই দৃষ্টি আর নিজের বশে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Heart at the Throat",
+          "bn": "কলিজা উঠে এল গলায়"
+        },
+        "p": [
+          {
+            "en": "Wa-balaghat al-qulub al-hanajir: and the hearts reached the throats. Al-hanajir is the plural of hanjarah, which al-Qurtubi and al-Baghawi both define as the throat; al-Baghawi specifies the hollow of the windpipe. At-Tabari reads them literally: the hearts rose from their places out of terror and fear and reached the throats, and he relays from 'Ikrimah that it was from fright. Al-Qurtubi cites Qatadah for the most physical reading: had the throats not been too narrow for them, the hearts would have come out.",
+            "bn": "ওয়া বালাগাতিল কুলূবুল হানাজির: আর কলিজা পৌঁছে গিয়েছিল কণ্ঠনালিতে। হানাজির শব্দটি হানজারার বহুবচন। কুরতুবী ও বাগাভী দুজনেই এর অর্থ করেন গলা, আর বাগাভী আরও নির্দিষ্ট করে বলেন, শ্বাসনালির ভেতরের ফাঁপা অংশ। তাবারী কথাটা পড়েন যেমন শোনায় তেমনই: আতঙ্ক আর ভয়ে কলিজা নিজের জায়গা থেকে উঠে গলা পর্যন্ত পৌঁছে গিয়েছিল। ইকরিমা থেকে তিনি আনেন, এটা ছিল ভীতির কারণে। সবচেয়ে শারীরিক অর্থটা কুরতুবী আনেন কাতাদা থেকে: গলা যদি সরু না হতো, কলিজা বেরিয়েই আসত।"
+          },
+          {
+            "en": "Others take the phrase as a figure. Al-Baghawi calls it tamthil, a likeness used to express the intensity of fear, and relays from al-Farra' that when a coward's fear grows hard his lung swells, and the swollen lung lifts the heart towards the throat. Al-Qurtubi adds the view that this is hyperbole in the Arab manner with an implied almost, the hearts all but reached the throats, quoting a line of poetry about blood that all but dripped.",
+            "bn": "অন্যরা কথাটাকে দেখেন উপমা হিসেবে। বাগাভী একে বলেন তামসীল, ভয়ের তীব্রতা বোঝাতে আনা এক তুলনা। ফাররা থেকে তিনি আনেন: ভীরু মানুষের ভয় যখন চরমে ওঠে, তার ফুসফুস ফুলে যায়, আর ফোলা ফুসফুস কলিজাকে গলার দিকে ঠেলে তোলে। কুরতুবী আরেকটি মত যোগ করেন। আরবদের রীতিতে এটা অতিশয়োক্তি, যেখানে 'প্রায়' শব্দটা না বলেও বোঝানো হয়: কলিজা প্রায় গলায় পৌঁছে গিয়েছিল। এর নজির হিসেবে তিনি এমন এক কবিতার চরণ আনেন, যেখানে রক্ত প্রায় ঝরে পড়ার কথা আছে।"
+          },
+          {
+            "en": "Al-Qurtubi then gives his own preference: the most apparent meaning is the agitation and pounding of the heart, as though from the force of its beating it had reached the throat. He also relays from 'Ikrimah, through Hammad ibn Zayd and Ayyub, that it was the heart's fright that reached so far. Either way, the verse chose a bodily sign every human knows. It does not say that the believers felt uneasy. It says where the fear was felt.",
+            "bn": "এরপর কুরতুবী নিজের পছন্দের মত জানান: সবচেয়ে স্পষ্ট অর্থ হলো কলিজার অস্থিরতা আর ধুকপুকানি। স্পন্দন এত জোরে যে মনে হয় তা গলা পর্যন্ত পৌঁছে গেছে। হাম্মাদ ইবন যায়দ ও আইয়ুবের সূত্রে ইকরিমা থেকেও তিনি আনেন, আসলে কলিজার ভীতিই অতদূর পৌঁছেছিল। যে অর্থই নেওয়া হোক, আয়াতটি বেছে নিয়েছে শরীরের এমন এক আলামত, যা প্রত্যেক মানুষ চেনে। আয়াত বলে না যে মু’মিনেরা একটু অস্বস্তিতে ছিলেন। বলে, ভয়টা ঠিক কোথায় টের পাওয়া যাচ্ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thoughts in the Plural",
+          "bn": "ধারণা, বহুবচনে"
+        },
+        "p": [
+          {
+            "en": "The verse ends wa-tazunnuna billahi al-zununa: and you were thinking thoughts about Allah. The commentators read the plural noun differently. At-Tabari takes them as false thoughts, such as the thought of some who were with the Messenger of Allah ﷺ in his camp that he would be overcome, and that the help Allah had promised would not come. The Muyassar and as-Sa'di gloss them as evil thoughts: that Allah would not help His religion, nor raise His word (the Muyassar) or complete it (as-Sa'di).",
+            "bn": "আয়াত শেষ হয় এভাবে: ওয়া তাযুন্নূনা বিল্লাহিয যুনূনা, আর তোমরা আল্লাহ সম্পর্কে নানা ধারণা করছিলে। বিশেষ্যটি বহুবচন, আর এই বহুবচন তাফসীরকারেরা পড়েন ভিন্ন ভিন্নভাবে। তাবারীর কাছে এগুলো মিথ্যা ধারণা। যেমন, রাসূলুল্লাহ ﷺ-এর শিবিরে তাঁর সঙ্গে থাকা কারও কারও ধারণা হয়েছিল যে তিনি পরাজিত হবেন, আর আল্লাহ যে সাহায্যের ওয়াদা করেছেন তা আসবে না। মুয়াসসার ও সা’দী এগুলোকে বলেন মন্দ ধারণা: আল্লাহ তাঁর দ্বীনকে সাহায্য করবেন না। মুয়াসসারের ভাষায় তিনি তাঁর বাণীকে উঁচু করবেন না, সা’দীর ভাষায় তা পূর্ণ করবেন না।"
+          },
+          {
+            "en": "Al-Hasan, whom at-Tabari, Ibn Kathir and al-Qurtubi all relay, reads the plural as a division in the camp: thoughts of different kinds. In at-Tabari's wording, the hypocrites thought that Muhammad and his Companions would be wiped out, and the believers were certain that what Allah had promised them was true, and that He would make it prevail over all religion, though the idolaters hate it. Al-Baghawi agrees: the thoughts differed, the hypocrites expecting the destruction of the Prophet ﷺ and his Companions, and the believers expecting help and victory.",
+            "bn": "তাবারী, ইবন কাসীর ও কুরতুবী তিনজনই হাসানের একটি ব্যাখ্যা আনেন। তাঁর কাছে এই বহুবচন শিবিরের ভেতরের এক বিভাজন, নানা রকমের ধারণা। তাবারীর বর্ণনায় হাসানের কথা এমন: মুনাফিকরা ধরে নিয়েছিল মুহাম্মাদ ﷺ আর তাঁর সাহাবিরা নির্মূল হয়ে যাবেন। আর মু’মিনদের দৃঢ় বিশ্বাস ছিল, আল্লাহ তাঁদের যে ওয়াদা দিয়েছেন তা সত্য। তিনি এই দ্বীনকে সব দ্বীনের উপর বিজয়ী করবেন, মুশরিকরা যতই অপছন্দ করুক। বাগাভী একই কথা বলেন নিজের ভাষায়: ধারণাগুলো ছিল ভিন্ন ভিন্ন। মুনাফিকরা অপেক্ষা করছিল নবী ﷺ ও তাঁর সাহাবিদের ধ্বংসের, আর মু’মিনেরা অপেক্ষা করছিলেন সাহায্য ও বিজয়ের।"
+          },
+          {
+            "en": "Al-Qurtubi records one more view, that the clause is addressed to the hypocrites alone, as though saying: you declared Muhammad and his Companions finished. The account of the siege that at-Tabari relays from Ibn Ishaq points the other way, saying that the Muslims themselves thought every kind of thought, and that hypocrisy surfaced among some of the hypocrites. Verse 33:11 then says that there the believers were tested and severely shaken, and 33:12 gives the hypocrites' own words, that the promise had been nothing but delusion. Both begin in the thoughts of this verse.",
+            "bn": "কুরতুবী আরও একটি মত উল্লেখ করেন: এ অংশের সম্বোধন কেবল মুনাফিকদের প্রতি, যেন বলা হচ্ছে, তোমরা তো বলে বেড়িয়েছিলে মুহাম্মাদ আর তাঁর সাহাবিরা শেষ হয়ে গেছেন। কিন্তু তাবারী ইবন ইসহাক থেকে অবরোধের যে বিবরণ আনেন, তা ইশারা করে অন্য দিকে। সেখানে আছে, মুসলমানেরা নিজেরাই নানা রকম ধারণা করছিলেন, আর কিছু মুনাফিকের ভেতরের নিফাক বেরিয়ে এসেছিল। এরপর ৩৩:১১ আয়াত বলে, সেখানে মু’মিনদের পরীক্ষা করা হয়েছিল আর তাঁরা প্রবলভাবে প্রকম্পিত হয়েছিলেন। আর ৩৩:১২ আয়াত তুলে ধরে মুনাফিকদের নিজেদের কথা: ওয়াদাটা ধোঁকা ছাড়া কিছুই ছিল না। দুটোরই শুরু এ আয়াতের ধারণাগুলোতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Alif at the Line's End",
+          "bn": "শেষ শব্দের আলিফ"
+        },
+        "p": [
+          {
+            "en": "Al-zununa ends in an alif that is written in the copies of the mushaf, as are al-rasula and al-sabila near the surah's close (33:66 and 33:67). At-Tabari reports three practices. Most readers of Madinah and some of Kufah pronounced the alif both in pause and in joining, because every copy of the mushaf writes it. Some Kufans pronounced it only in pause, as Arab poets lengthen the end of a rhyme. And some readers of Basrah and Kufah dropped it in both cases.",
+            "bn": "আয-যুনূনা শব্দের শেষে একটি আলিফ আছে, যা মুসহাফের কপিগুলোতে লেখা থাকে। সূরার শেষের দিকে আর-রাসূলা ও আস-সাবীলা শব্দেও তাই (৩৩:৬৬ ও ৩৩:৬৭)। তাবারী তিনটি চর্চার কথা জানান। মদীনার অধিকাংশ কারী আর কূফার কয়েকজন থামার সময়ও আলিফটি উচ্চারণ করতেন, মিলিয়ে পড়ার সময়ও, কারণ মুসলমানদের সব কপিতেই তা লেখা। কূফার কেউ কেউ শুধু থামার সময় উচ্চারণ করতেন, যেভাবে আরব কবিরা ছন্দের শেষ ধ্বনি টেনে লম্বা করেন। আর বসরা ও কূফার কিছু কারী দুই অবস্থাতেই তা বাদ দিতেন।"
+          },
+          {
+            "en": "At-Tabari prefers dropping the alif in both cases, as the familiar speech of the Arabs and the well-known reading in Kufah and Basrah, and ranks keeping it in both second. Al-Qurtubi lists the readers more fully, and notes that Abu 'Ubayd chose to keep the alif while advising the reciter to pause on these words rather than run past them. He also quotes Ibn al-Anbari: whoever reads them without the alif has not gone against the mushaf. The disagreement is over which reading to prefer.",
+            "bn": "তাবারীর পছন্দ দুই অবস্থাতেই আলিফ বাদ দেওয়া। এটাই আরবদের পরিচিত ভাষা, আর কূফা ও বসরায় এ কিরাআতই প্রসিদ্ধ। দ্বিতীয় স্থানে তিনি রাখেন দুই অবস্থাতেই আলিফ রাখার কিরাআত। কুরতুবী কারীদের তালিকা আরও বিস্তারিত দেন। তিনি জানান, আবু উবাইদ আলিফ রাখার মত বেছে নিয়েছিলেন, তবে পরামর্শ দিয়েছিলেন, কারী যেন এ শব্দগুলোতে থামেন, না থেমে পরের অংশে চলে না যান। ইবনুল আনবারীর কথাও তিনি উদ্ধৃত করেন: আলিফ ছাড়া যে পড়েছে, সে মুসহাফের বিরোধিতা করেনি। মতভেদটা তাই কোন কিরাআত বেশি পছন্দনীয়, তা নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear Recorded, Not Faulted",
+          "bn": "ভয় লেখা হলো, দোষ নয়"
+        },
+        "p": [
+          {
+            "en": "The verse sets the swerving eyes and the hearts in the throats inside a passage that began, in 33:9, with remember the favour of Allah upon you, and as-Sa'di reads the account as a reminder of blessing that calls for thanks. The fear is not listed as a charge; it is the measure of the rescue. What the commentators weigh is the thought. At-Tabari calls the bad thoughts false, and al-Hasan places the expectation of ruin with the hypocrites.",
+            "bn": "বাঁকা চোখ আর কণ্ঠাগত প্রাণের ছবি সে রাখে এমন এক অংশের ভেতরে, যা ৩৩:৯ আয়াতে শুরু হয়েছিল এই আদেশ দিয়ে: তোমাদের প্রতি আল্লাহর অনুগ্রহ স্মরণ কর। সা’দীও বিবরণটা পড়েন নিয়ামতের স্মরণ হিসেবে, যার দাবি শুকরিয়া। ভয়কে এখানে অভিযোগের তালিকায় তোলা হয়নি। ভয় বরং মাপকাঠি, উদ্ধার কত বড় ছিল তা বোঝার। তাফসীরকারেরা হিসাব করেন ধারণার। তাবারী মন্দ ধারণাগুলোকে বলেন মিথ্যা, আর হাসান ধ্বংসের প্রত্যাশাটা রাখেন মুনাফিকদের ঘরে।"
+          },
+          {
+            "en": "This must be said firmly. The verse describes one siege of Madinah. The tribes and leaders named in the reports, on whichever side of the map a commentator puts them, belong to that history. The verse licenses nothing against any living person, tribe, faith community or nation, gives no warrant to read any present-day war through it, and invites no one to cast today's opponents as the armies above and below. Nor may any reader use it to decide whose fear today is faith and whose is hypocrisy.",
+            "bn": "কথাটা দৃঢ়ভাবে বলা দরকার। আয়াতটি মদীনার একটি অবরোধের বর্ণনা দেয়। বর্ণনাগুলোতে যেসব গোত্র ও নেতার নাম এসেছে, কোনো তাফসীরকার তাদের নকশার যে দিকেই বসান, তারা সেই ইতিহাসের অংশ। কোনো জীবিত মানুষ, গোত্র, ধর্মীয় সম্প্রদায় বা জাতির বিরুদ্ধে আয়াতটি কিছুরই অনুমতি দেয় না। আজকের কোনো যুদ্ধকে এর আলোয় পড়ার কোনো ভিত্তিও দেয় না। আজকের প্রতিপক্ষকে উপর আর নিচ থেকে আসা সেই বাহিনী বানিয়ে দেওয়ার দাওয়াতও এতে নেই। আর আজ কার ভয় ঈমান, কার ভয় নিফাক, সেটা ঠিক করার কাজেও কোনো পাঠক একে ব্যবহার করতে পারেন না।"
+          },
+          {
+            "en": "So the mirror turns inward. Danger from two sides, the eye that will not settle, the heart that seems to climb into the throat: the verse treats these as human, and the believers of that day felt them. What it presses on is the last clause. When pressure closes in, which thoughts about Allah do I let my fear write? Al-Hasan's division is the test. The same siege produced, in one camp, the expectation of ruin and the certainty of His promise. The siege is rarely mine to choose. The thought is.",
+            "bn": "তাই আয়নাটা ঘুরে আসে নিজের দিকে। দুই দিক থেকে বিপদ, যে চোখ স্থির হতে চায় না, যে কলিজা যেন গলায় উঠে আসে: আয়াতটি এগুলোকে মানুষের স্বাভাবিক অবস্থা হিসেবেই দেখে, আর সেদিনের মু’মিনেরাও তা অনুভব করেছিলেন। আয়াতের চাপটা পড়ে শেষ অংশে। চাপ যখন ঘিরে ধরে, আল্লাহ সম্পর্কে কোন ধারণাগুলো আমি আমার ভয়কে লিখতে দিই? হাসানের ভাগ করাটাই পরীক্ষা। একই অবরোধ, একই শিবির, অথচ সেখান থেকে জন্ম নিয়েছিল ধ্বংসের প্রত্যাশা, আবার তাঁর ওয়াদার উপর দৃঢ় বিশ্বাসও। অবরোধ বেছে নেওয়া সাধারণত আমার হাতে থাকে না। ধারণা বেছে নেওয়াটা থাকে।"
+          }
+        ]
+      }
+    ]
+  },
   "33:13": {
     "sections": [
       {

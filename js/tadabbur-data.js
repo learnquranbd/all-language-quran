@@ -36373,6 +36373,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Night and day, sun and moon keep the order Allah set until their term; He is aware of all you do, so order your own hours before your term comes.",
     "lessonBn": "রাত-দিন, সূর্য-চাঁদ তাদের মেয়াদ পর্যন্ত আল্লাহর বেঁধে দেওয়া নিয়মে চলে। আপনি যা করেন সবই তিনি জানেন, তাই মেয়াদ আসার আগেই নিজের সময়গুলোকে নিয়মে বাঁধুন।"
+  },
+  "33:10": {
+    "reflectionEn": "Eyes that will not settle, a heart that seems to climb into the throat: the verse describes fear from the inside, as the besieged felt it. Armies had come from above and from below, and there was nowhere left to look that was not the enemy. Then the last clause turns from the body to the mind: and you were thinking thoughts about Allah. The word is plural. In the same camp some thoughts sank into despair while others held on to His promise. The verse does not shame the fear; it records it. What it weighs is the thought the fear produced. When pressure closes in on me from more than one side, my heart will race. The question is where my thinking about Allah goes while it does.",
+    "reflectionBn": "চোখ কোথাও স্থির থাকছে না, কলিজা যেন লাফিয়ে গলার কাছে উঠে আসছে। অবরুদ্ধ মানুষগুলো ভয়টা যেভাবে টের পেয়েছিলেন, আয়াতটি সেটাকে ভেতর থেকে দেখায়। বাহিনী এসেছে উপর থেকে, এসেছে নিচ থেকে। যেদিকেই তাকানো যায়, শত্রু। তারপর শেষ অংশে কথা শরীর ছেড়ে মনের দিকে ফেরে: আর তোমরা আল্লাহ সম্পর্কে নানা ধারণা করছিলে। শব্দটি বহুবচন। একই শিবিরে কারও ধারণা তলিয়ে গেছে হতাশায়, কেউ আঁকড়ে ধরেছেন তাঁর ওয়াদা। আয়াতটি ভয়ের জন্য লজ্জা দেয় না, শুধু লিখে রাখে। আসল হিসাব হয় সেই ধারণার, যা ভয় জন্ম দিয়েছে। চাপ যখন একাধিক দিক থেকে ঘিরে ধরে, আমার বুক ধড়ফড় করবেই। প্রশ্ন হলো, তখন আল্লাহ সম্পর্কে আমার ভাবনা কোন দিকে যায়?",
+    "pointsEn": [
+      "When trouble comes at me from two directions at once, what is the first thing I find myself thinking about Allah?",
+      "Do I treat my own fear as a failure of faith, when this verse records the fear of believers without blaming them for it?",
+      "Which of my thoughts about Allah in a hard week would I be ashamed to say aloud?",
+      "Whose heart is in their throat around me right now, and what could I do this week to steady them?",
+      "Which promise of Allah do I most need to hold on to when everything I can see points the other way?"
+    ],
+    "pointsBn": [
+      "একসঙ্গে দুই দিক থেকে বিপদ এলে আল্লাহ সম্পর্কে প্রথম কোন কথাটা আমার মনে আসে?",
+      "এ আয়াত তো মু’মিনদের ভয়ের কথা লিখেছে কোনো দোষ না দিয়ে। তবু কি আমি নিজের ভয়কে ঈমানের ব্যর্থতা ভেবে বসি?",
+      "কঠিন একটা সপ্তাহে আল্লাহকে নিয়ে আমার মনে আসা কোন ধারণাটা মুখে উচ্চারণ করতে আমি লজ্জা পাব?",
+      "আমার আশপাশে এখন কার প্রাণ কণ্ঠাগত? এ সপ্তাহে তাকে একটু স্থির করতে আমি কী করতে পারি?",
+      "চোখের সামনের সবকিছু যখন উল্টো দিকে ইশারা করে, আল্লাহর কোন ওয়াদাটা আমার সবচেয়ে বেশি আঁকড়ে ধরা দরকার?"
+    ],
+    "lessonEn": "Fear may rise to your throat when trouble presses from every side; guard what you think of Allah in that hour, and hold to His promise rather than the worst you imagine.",
+    "lessonBn": "চারদিক থেকে বিপদ চেপে ধরলে ভয়ে প্রাণ কণ্ঠাগত হতেই পারে। সেই মুহূর্তে আল্লাহ সম্পর্কে নিজের ধারণা পাহারা দিন, মনের কল্পনার সবচেয়ে খারাপটা নয়, আঁকড়ে ধরুন তাঁর ওয়াদা।"
   }
 };
 
