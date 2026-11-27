@@ -35933,6 +35933,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Certainty about the Hereafter will come to everyone, but only knowledge that arrives in time can help; let it reach your heart now, not on the Day it is seen.",
     "lessonBn": "আখিরাতের নিশ্চিত জ্ঞান সবার কাছেই আসবে, কিন্তু কাজে লাগে কেবল সময় থাকতে আসা জ্ঞান। তাই যেদিন তা চোখে দেখা যাবে সেদিনের অপেক্ষা না করে আজই তাকে অন্তরে পৌঁছাতে দিন।"
+  },
+  "27:87": {
+    "reflectionEn": "One sound, and every heart in the heavens and on the earth is seized with dread. The verse does not linger on what the terror looks like. It turns at once to two things. First, an exception: some will be spared that fear, because Allah wills it. Second, a destination: everyone, without one left behind, comes to Him humbled. The ruler and the ruled arrive the same way. No one runs, because there is nowhere to run to. The question the verse leaves me with is not how loud the Horn will be. It is whether, when it sounds, I will be among those Allah has kept from fear, and what I am doing today that would place me there.",
+    "reflectionBn": "একটি মাত্র ধ্বনি। তাতেই আসমান আর জমিনের প্রতিটি অন্তর আতঙ্কে কেঁপে ওঠে। আতঙ্কের চেহারা কেমন, আয়াতটি সেখানে থামে না। সোজা দুটি কথায় চলে যায়। প্রথমটি ব্যতিক্রম: আল্লাহ চাইলে কেউ কেউ সেই ভয় থেকে রেহাই পাবে। দ্বিতীয়টি গন্তব্য: সবাই, একজনও বাদ না পড়ে, বিনীত হয়ে তাঁর কাছে হাজির হবে। শাসক আর শাসিত সেদিন একইভাবে আসবে। কেউ পালাবে না, কারণ পালানোর কোনো জায়গাই থাকবে না। আয়াতটি আমার সামনে যে প্রশ্ন রেখে যায়, তা শিঙ্গার আওয়াজ কত জোরে হবে সে প্রশ্ন নয়। প্রশ্ন হলো, সেদিন আমি কি তাদের মধ্যে থাকব যাদের আল্লাহ ভয় থেকে আগলে রাখবেন? আর আজ আমি এমন কী করছি যা আমাকে সেখানে পৌঁছে দেবে?",
+    "pointsEn": [
+      "When I picture the Horn, do I feel the fear the verse describes, or have the words become too familiar to move me?",
+      "What do I fear most in this life, and how small does it look beside the terror that reaches everyone in the heavens and the earth?",
+      "If all will come to Him humbled whether they choose it or not, where can I choose humility before Him today?",
+      "Is there anyone I look down on now who will stand beside me on that Day, equal in submission?",
+      "What one good deed could I begin this week, hoping it places me among those kept safe from that fear?"
+    ],
+    "pointsBn": [
+      "শিঙ্গার কথা ভাবলে আয়াতের বর্ণিত সেই ভয় কি আমি টের পাই, নাকি কথাগুলো এত চেনা হয়ে গেছে যে আর নাড়া দেয় না?",
+      "এই দুনিয়ায় আমি সবচেয়ে বেশি কী নিয়ে ভয় পাই? আসমান-জমিনের সবাইকে ছুঁয়ে যাওয়া সেই আতঙ্কের পাশে তা কত ছোট দেখায়?",
+      "সবাই যদি ইচ্ছায় হোক বা অনিচ্ছায়, বিনীত হয়েই তাঁর কাছে যায়, তবে আজ আমি কোথায় নিজে থেকে তাঁর সামনে নত হতে পারি?",
+      "আজ যাকে আমি ছোট চোখে দেখি, এমন কেউ কি আছে যে সেদিন একই রকম নত হয়ে আমার পাশে দাঁড়াবে?",
+      "এ সপ্তাহে কোন একটি নেক আমল শুরু করতে পারি, এই আশায় যে তা আমাকে সেই ভয় থেকে নিরাপদদের দলে রাখবে?"
+    ],
+    "lessonEn": "When the Horn sounds, the heavens and the earth are seized with fear and all come to Allah humbled. Be humble before Him now, and seek the deeds that keep you safe that Day.",
+    "lessonBn": "শিঙ্গায় ফুঁ পড়লে আসমান-জমিন ভয়ে কেঁপে উঠবে, আর সবাই বিনীত হয়ে আল্লাহর কাছে আসবে। আজই নিজে থেকে তাঁর সামনে নত হোন, আর সেই আমল খুঁজুন যা সেদিন বান্দাকে নিরাপদ রাখে।"
   }
 };
 

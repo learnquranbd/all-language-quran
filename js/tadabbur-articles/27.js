@@ -4239,6 +4239,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:87": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Day Set Before the Listener",
+          "bn": "শ্রোতার সামনে একটি দিন"
+        },
+        "p": [
+          {
+            "en": "Wa-yawma yunfakhu fi aṣ-ṣūr: and the Day the Horn is blown. The verse comes straight after 27:83 to 27:85, where the deniers of every nation are gathered in ranks, questioned and struck silent, and after 27:86, the reminder of night for rest and day for sight. Al-Qurtubi reads the opening as an instruction, remember the Day, or remind them of it. Al-Muyassar turns it to the Prophet ﷺ directly: and remember, O Messenger, the Day the angel blows into the horn.",
+            "bn": "ওয়া ইয়াওমা ইউনফাখু ফিস সূর: আর যেদিন শিঙ্গায় ফুঁ দেওয়া হবে। আয়াতটি এসেছে ২৭:৮৩ থেকে ২৭:৮৫-এর ঠিক পরে। সেখানে প্রত্যেক জাতির অস্বীকারকারীদের সারি বেঁধে জড়ো করা হয়, প্রশ্ন করা হয়, আর তারা নির্বাক হয়ে যায়। তার আগে ২৭:৮৬ মনে করিয়ে দিয়েছে বিশ্রামের রাত আর দেখার দিনের কথা। কুরতুবী শুরুর অংশটিকে একটি নির্দেশ হিসেবে পড়েন: সেই দিনকে স্মরণ করো, কিংবা তাদের সেই দিনের কথা মনে করিয়ে দাও। মুয়াসসার কথাটা সরাসরি নবী ﷺ-এর দিকে ঘুরিয়ে দেয়: হে রাসূল, স্মরণ করুন সেই দিন, যেদিন ফেরেশতা শিঙ্গায় ফুঁ দেবেন।"
+          },
+          {
+            "en": "At-Tabari asks a grammarian's question: where is the answer to and the Day? He allows two possibilities. It may be implied with the and, as though the text ran: the word fell due on them for their wrong and they do not speak, and that is the Day the Horn is blown. Or it may be left unsaid, the context being enough, as elsewhere with if those who did wrong could see. On his first reading, the silence of 27:85 belongs to this very Day.",
+            "bn": "তাবারী এখানে ব্যাকরণের একটি প্রশ্ন তোলেন: 'আর সেই দিন' কথাটির জবাব কোথায়? তিনি দুটি সম্ভাবনা রাখেন। হতে পারে জবাবটা 'আর' শব্দের সঙ্গে উহ্য আছে। তখন অর্থ দাঁড়ায়: তাদের জুলুমের কারণে কথা তাদের উপর সত্য হলো, তারা কিছু বলতে পারল না, আর সেটা সেই দিন, যেদিন শিঙ্গায় ফুঁ দেওয়া হবে। আবার হতে পারে জবাবটা বলাই হয়নি, কারণ প্রসঙ্গ থেকেই তা বোঝা যায়। অন্য জায়গায় 'যারা জুলুম করেছে তারা যদি দেখত' কথাটির বেলায়ও এমনটা ঘটেছে। তাবারীর প্রথম ব্যাখ্যা ধরলে ২৭:৮৫-এর সেই নীরবতা এই দিনেরই ঘটনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Horn the Bedouin Asked About",
+          "bn": "বেদুইনের প্রশ্নে শিঙ্গা"
+        },
+        "p": [
+          {
+            "en": "What is aṣ-ṣūr? At-Tirmidhi records (2430) from Abdullah ibn Amr ibn al-As (RA): \"A Bedouin came to the Prophet ﷺ and said: 'What is the Sur?' He said: 'A horn that will be blown into.'\" At-Tirmidhi grades it hasan. Ibn Kathir opens his comment on this verse with those same words, as they came in the hadith. Mujahid, in at-Tabari, says it is shaped like a buq, a trumpet, and al-Qurtubi calls the sound view a horn of light that Israfil blows.",
+            "bn": "সূর জিনিসটা কী? তিরমিযী (২৪৩০) আব্দুল্লাহ ইবন আমর ইবনুল আস (রাঃ) থেকে বর্ণনা করেন: \"এক বেদুইন নবী ﷺ-এর কাছে এসে বলল: 'সূর কী?' তিনি বললেন: 'একটি শিং, যাতে ফুঁ দেওয়া হবে।'\" তিরমিযী একে হাসান বলেছেন। ইবন কাসীর এ আয়াতের আলোচনা শুরুই করেন এই কথা দিয়ে, হাদীসে যেমন এসেছে। তাবারীর বর্ণনায় মুজাহিদ বলেন, এর আকার বিউগলের মতো। কুরতুবীর মতে সঠিক কথা হলো, এটি নূরের তৈরি একটি শিং, যাতে ইসরাফীল ফুঁ দেবেন।"
+          },
+          {
+            "en": "The verse names no blower; al-Muyassar says only the angel. Al-Baghawi and al-Qurtubi name Israfil, and al-Baghawi adds al-Hasan's plain gloss: the Sur is the horn. Ibn Kathir names Israfil too, but he takes it from the long report known as the hadith of the Horn, which is weighed separately below. At-Tabari records one dissent: Qatada took the words as a blowing into the creation, reading aṣ-ṣūr as the forms of created beings rather than a horn.",
+            "bn": "আয়াতে কে ফুঁ দেবেন তা বলা নেই। মুয়াসসার শুধু বলে, ফেরেশতা। বাগাভী আর কুরতুবী নাম নেন ইসরাফীলের। বাগাভী সঙ্গে হাসানের সোজা ব্যাখ্যাটিও আনেন: সূর মানে শিং। ইবন কাসীরও ইসরাফীলের নাম নেন, তবে তা নেন 'শিঙ্গার হাদীস' নামে পরিচিত দীর্ঘ বর্ণনা থেকে। সেই বর্ণনার মান নিয়ে কথা নিচে আলাদা করে আসছে। তাবারী একটি ভিন্নমতও লিখে রাখেন। কাতাদা কথাটির অর্থ নিয়েছেন সৃষ্টির ভেতরে ফুঁ দেওয়া, অর্থাৎ সূর মানে শিং নয়, সৃষ্টিজীবের আকৃতিগুলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear Told in the Past Tense",
+          "bn": "অতীত কালে বলা ভয়"
+        },
+        "p": [
+          {
+            "en": "The verse joins a verb in the future, yunfakhu, is blown, to one in the past, fa-faziʿa, and were terrified. At-Tabari explains that Arabs do this wherever idha, when, could stand, since idha takes either tense: I will visit you when you visited me, or when you visit me. A day put in its place behaves the same way. Al-Qurtubi gives al-Farra's version of the sense: when the Horn is blown, they are terrified. At-Tabari names who: angels above, jinn, humans and devils below.",
+            "bn": "আয়াতটি ভবিষ্যৎ কালের একটি ক্রিয়া, ইউনফাখু, ফুঁ দেওয়া হবে, জুড়ে দিয়েছে অতীত কালের একটি ক্রিয়ার সঙ্গে: ফাফাযিআ, তারা আতঙ্কিত হলো। তাবারী বুঝিয়ে বলেন, যেখানে 'ইযা' অর্থাৎ 'যখন' বসতে পারে, আরবরা সেখানে এমনটা করে। কারণ 'ইযা'-র পরে দুই কালই চলে: তুমি যখন এসেছিলে তখন আসব, কিংবা তুমি যখন আসবে তখন আসব। 'দিন' শব্দটি সেই জায়গায় বসলে তারও একই নিয়ম। কুরতুবী ফাররার ব্যাখ্যা আনেন: শিঙ্গায় ফুঁ দেওয়া হলে তারা আতঙ্কিত হবে। কারা? তাবারী বলেন, উপরে ফেরেশতারা, আর নিচে জিন, মানুষ ও শয়তানেরা।"
+          },
+          {
+            "en": "What kind of fear? Ma'arif al-Qur'an glosses fazaʿ as being nervous and perplexed. As-Sa'di draws the scene: they are alarmed and seized with dread, and surge against each other, afraid of what the blast announces. Al-Qurtubi relays two senses from al-Mawardi, who took this as the Day of rising from the graves. Fazaʿ may mean hurrying to answer a call, as in the phrase I rushed to your aid; or it may be ordinary fear and grief. Al-Mawardi judged the second the likelier.",
+            "bn": "ভয়টা কেমন? মাআরিফুল কুরআন ফাযা'-র অর্থ করে অস্থির আর দিশেহারা হয়ে পড়া। সা'দী দৃশ্যটা এঁকে দেন: তারা চমকে ওঠে, আতঙ্ক তাদের পেয়ে বসে, ভয়ে একে অপরের উপর আছড়ে পড়ে, কারণ এই ফুঁ যে কিসের সূচনা তা তারা টের পায়। কুরতুবী মাওয়ারদী থেকে দুটি অর্থ আনেন। মাওয়ারদী দিনটিকে ধরেছেন কবর থেকে ওঠার দিন হিসেবে। ফাযা' হতে পারে ডাকে সাড়া দিতে দ্রুত ছুটে যাওয়া, যেমন আরবরা বলে, তোমার সাহায্যে ছুটে এলাম। আবার হতে পারে চেনা সেই ভয় আর দুঃখ। মাওয়ারদীর মতে দ্বিতীয় অর্থটিই বেশি সম্ভব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counting the Blasts",
+          "bn": "ফুঁ কয়বার"
+        },
+        "p": [
+          {
+            "en": "How many times is the Horn blown? Ibn Kathir counts three. This one, he says, is the blast of terror; after it comes the blast of swooning, which is death; then the blast of standing before the Lord of the worlds, when all creatures rise from their graves. Al-Baghawi records the same three under it is said. His own first reading, though, folds the terror into death: faziʿa here means ṣaʿiqa, as in 39:68. Terror is cast on them until they die.",
+            "bn": "শিঙ্গায় ফুঁ কয়বার দেওয়া হবে? ইবন কাসীর গোনেন তিনবার। তাঁর মতে এটি আতঙ্কের ফুঁ। এর পরে আসবে বেহুঁশ হওয়ার ফুঁ, যার মানে মৃত্যু। তারপর জগতসমূহের রবের সামনে দাঁড়ানোর ফুঁ, যখন সব সৃষ্টি কবর থেকে উঠে আসবে। বাগাভীও 'বলা হয়' কথাটি জুড়ে এই তিনটির উল্লেখ করেন। তবে তাঁর নিজের প্রথম ব্যাখ্যায় আতঙ্ক আর মৃত্যু একই ঘটনা। এখানে 'ফাযিআ' মানে 'সাইকা', যেমন এসেছে ৩৯:৬৮ আয়াতে। তাদের উপর আতঙ্ক চাপিয়ে দেওয়া হবে, যতক্ষণ না তারা মারা যায়।"
+          },
+          {
+            "en": "Al-Qurtubi argues the other way at length: the correct view is two blasts, not three. The blast of terror, he says, belongs either to the blast of swooning, since the two happen without an interval, so that they are terrified with a terror that kills them, or to the blast of raising. Al-Qushayri took this verse as the second blast: the dead are revived in terror at what they see. Al-Qurtubi gives Qatada with it: a call like a trumpet's, gathering creation for judgement.",
+            "bn": "কুরতুবী বিস্তারিত যুক্তি দিয়ে উল্টো কথা বলেন: সঠিক মত হলো ফুঁ দুটি, তিনটি নয়। তাঁর মতে আতঙ্কের ফুঁ আলাদা কিছু নয়। হয় তা বেহুঁশ হওয়ার ফুঁয়েরই অংশ, কারণ দুটির মাঝে কোনো সময়ের ফাঁক নেই, অর্থাৎ এমন আতঙ্ক যাতে তারা মারা যায়। নয়তো তা পুনরুত্থানের ফুঁয়ের অংশ। কুশাইরী এ আয়াতকে দ্বিতীয় ফুঁ ধরেছেন: মৃতরা জীবিত হয়ে উঠবে, আর যা দেখবে তাতে আতঙ্কিত হবে। কুরতুবী এর সঙ্গে কাতাদার কথাও আনেন: বিউগলের আওয়াজের মতো একটি ডাক, যাতে সব সৃষ্টি বিচারের মাঠে জড়ো হয়।"
+          },
+          {
+            "en": "His evidence is twofold. The established sunnah from Abu Hurayra (RA) and Abdullah ibn Amr (RA), both recorded by Muslim, speaks of two blasts. And 39:68 makes the same exception for the swoon that this verse makes for the terror, which points to one event. Ma'arif al-Qur'an states the two-blast count from the Qur'an and sound hadith. The disagreement is real and stays open here. The blast of raising and the interval between the blasts are taken up under 36:51.",
+            "bn": "কুরতুবীর প্রমাণ দুটি। আবু হুরায়রা (রাঃ) ও আব্দুল্লাহ ইবন আমর (রাঃ) থেকে প্রতিষ্ঠিত সুন্নাহ, দুটিই মুসলিমে সংকলিত, দুটি ফুঁয়ের কথা বলে। আর ৩৯:৬৮ আয়াত বেহুঁশ হওয়ার বেলায় ঠিক সেই ব্যতিক্রম রেখেছে, যা এ আয়াত রেখেছে আতঙ্কের বেলায়। এতে বোঝা যায় দুটি একই ঘটনা। মাআরিফুল কুরআনও বলে, কুরআন আর সহীহ হাদীসে দুটি ফুঁয়েরই উল্লেখ আছে। মতভেদটা আসল, আর এখানে তা খোলাই থাকছে। পুনরুত্থানের ফুঁ আর দুই ফুঁয়ের মাঝের সময় নিয়ে আলোচনা আছে ৩৬:৫১ আয়াতের অধীনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Man Mending His Trough",
+          "bn": "হাউজ মেরামতে ব্যস্ত লোকটি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir attaches one hadith to this verse from Sahih Muslim (2940), narrated by Abdullah ibn Amr (RA). It is long. It runs through the Dajjal, the coming of Isa (AS), seven years without enmity, and a cold wind that takes every soul holding a speck of good or faith, until only the worst of people are left. Then, in the translation on the page: \"Then the trumpet would be blown and no one would hear that but he would bend his neck to one side and raise it from the other side.\"",
+            "bn": "ইবন কাসীর এ আয়াতের সঙ্গে সহীহ মুসলিম (২৯৪০) থেকে একটি হাদীস জুড়ে দেন, যার বর্ণনাকারী আব্দুল্লাহ ইবন আমর (রাঃ)। হাদীসটি দীর্ঘ। তাতে একে একে আসে দাজ্জাল, ঈসা (আঃ)-এর আগমন, সাতটি বছর যখন দুজন মানুষের মাঝেও শত্রুতা থাকবে না, তারপর শাম দিক থেকে এক ঠান্ডা বাতাস। যার অন্তরে অণু পরিমাণ কল্যাণ বা ঈমান আছে, সেই বাতাস তার প্রাণ নিয়ে যাবে। থাকবে শুধু সবচেয়ে মন্দ মানুষেরা। তারপর মুসলিমের ভাষায়: \"ثُمَّ يُنْفَخُ فِي الصُّورِ فَلاَ يَسْمَعُهُ أَحَدٌ إِلاَّ أَصْغَى لِيتًا وَرَفَعَ لِيتًا\", অর্থাৎ তারপর শিঙ্গায় ফুঁ দেওয়া হবে। যে-ই তা শুনবে, ঘাড়ের এক পাশ নামিয়ে আরেক পাশ তুলে ধরবে।"
+          },
+          {
+            "en": "The narration goes on: \"and the first one to hear that trumpet would be the person who would be busy in setting right the tank meant for providing water to the camels. He would swoon and the other people would also swoon.\" Then comes rain like dew, from which bodies grow, and \"Then the second trumpet would be blown and they would stand up and begin to look (around).\" Muslim records it in his Sahih. The quotation here is a part of the hadith, not the whole of it.",
+            "bn": "বর্ণনা চলতে থাকে: \"وَأَوَّلُ مَنْ يَسْمَعُهُ رَجُلٌ يَلُوطُ حَوْضَ إِبِلِهِ فَيَصْعَقُ وَيَصْعَقُ النَّاسُ\", অর্থাৎ প্রথম যে তা শুনবে, সে এক লোক, যে তার উটের পানির হাউজ মেরামত করছে। সে বেহুঁশ হয়ে পড়বে, আর বাকি মানুষও বেহুঁশ হয়ে পড়বে। এরপর শিশিরের মতো বৃষ্টি নামবে, তাতে মানুষের দেহ গজিয়ে উঠবে। তারপর: \"ثُمَّ يُنْفَخُ فِيهِ أُخْرَى فَإِذَا هُمْ قِيَامٌ يَنْظُرُونَ\", অর্থাৎ আবার ফুঁ দেওয়া হবে, আর তারা দাঁড়িয়ে তাকিয়ে থাকবে। মুসলিম তাঁর সহীহ গ্রন্থে হাদীসটি সংকলন করেছেন। এখানে উদ্ধৃত অংশটুকু হাদীসের একটি অংশ মাত্র, পুরোটা নয়।"
+          },
+          {
+            "en": "The same hadith is read two ways. Ibn Kathir takes the neck-turning as the blast of terror, people straining to catch a sound from the sky, and then counts the swoon and the rising as the second and third. Al-Qurtubi cites a hadith of Abdullah ibn Amr in Muslim as proof of only two, and this one names a swoon and then one further blast. One more thing needs saying: the worst of people in the hadith are those left when no believer remains. It licenses no one to give that name to any living person or community.",
+            "bn": "একই হাদীস দুইভাবে পড়া হয়। ইবন কাসীর ঘাড় ফেরানোর অংশটিকে ধরেন আতঙ্কের ফুঁ হিসেবে: মানুষ আকাশ থেকে আসা আওয়াজটা ভালো করে শোনার জন্য কান পাতছে। তারপর বেহুঁশ হওয়াকে দ্বিতীয় আর দাঁড়িয়ে ওঠাকে তৃতীয় ফুঁ গোনেন। কুরতুবী আবার দুই ফুঁয়ের প্রমাণ হিসেবে মুসলিমে সংকলিত আব্দুল্লাহ ইবন আমরের একটি হাদীসের কথা বলেন। আর এই হাদীসে আছে একবার বেহুঁশ হওয়া, তারপর আর মাত্র একটি ফুঁ। আরেকটি কথা বলা দরকার। হাদীসে 'সবচেয়ে মন্দ মানুষ' তারা, যারা থেকে যাবে যখন কোনো মুমিন আর বেঁচে নেই। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়কে এই নামে ডাকার কোনো অনুমতি এ হাদীস কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Kept From the Dread",
+          "bn": "যাদের ভয় ছুঁতে পারবে না"
+        },
+        "p": [
+          {
+            "en": "Illa man shaʾa Allah: except whom Allah wills. Who are they? The largest group of answers says the martyrs. Ibn Kathir: they are alive with their Lord and provided for. At-Tabari gives it with it is said, adding that they count among the dead only to the people of this world. Al-Baghawi has it from Ibn Abbas through Sa'id ibn Jubayr and Ata: terror does not reach them. Al-Qurtubi has Sa'id picture them girded with swords around the Throne, and al-Qushayri counts the prophets among them.",
+            "bn": "ইল্লা মান শাআল্লাহ: তবে আল্লাহ যাদের চান। তারা কারা? সবচেয়ে বড় দলের উত্তর: শহীদেরা। ইবন কাসীর বলেন, তারা তাদের রবের কাছে জীবিত, রিযিক পাচ্ছে। তাবারী কথাটি আনেন 'বলা হয়' দিয়ে, আর যোগ করেন যে দুনিয়ার মানুষের চোখেই কেবল তারা মৃতদের দলে। বাগাভী এটি এনেছেন ইবন আব্বাস থেকে, সাঈদ ইবন জুবাইর ও আতার সূত্রে: আতঙ্ক তাদের কাছে পৌঁছাবে না। কুরতুবীর বর্ণনায় সাঈদ তাদের ছবি আঁকেন, তলোয়ার ঝুলিয়ে আরশের চারপাশে। কুশাইরী নবীদেরও তাদের মধ্যে গোনেন।"
+          },
+          {
+            "en": "A second group says angels. Al-Kalbi and Muqatil, in al-Baghawi, name Jibril, Mika'il, Israfil and the angel of death; al-Hasan, in al-Qurtubi, speaks of groups of angels who die between the blasts. Ad-Dahhak, in al-Baghawi, names Ridwan, the hur, Malik and the keepers of the Fire. Others in al-Qurtubi say the hur al-ʿin, or the believers, because 27:89 promises the doers of good safety from that Day's terror. Al-Muyassar and as-Sa'di name no group: those Allah honoured and kept from fear.",
+            "bn": "দ্বিতীয় দল বলে, ফেরেশতারা। বাগাভীর বর্ণনায় কালবী ও মুকাতিল নাম নেন জিবরীল, মীকাঈল, ইসরাফীল আর মৃত্যুর ফেরেশতার। কুরতুবীর বর্ণনায় হাসান বলেন ফেরেশতাদের কয়েকটি দলের কথা, যারা দুই ফুঁয়ের মাঝে মারা যাবে। বাগাভীর বর্ণনায় দাহহাক নাম নেন রিদওয়ান, হুর, মালিক আর জাহান্নামের প্রহরীদের। কুরতুবী আরও কিছু মত আনেন: হুরুল ঈন, কিংবা মুমিনেরা, কারণ ২৭:৮৯ নেককারদের সেদিনের আতঙ্ক থেকে নিরাপত্তার ওয়াদা দিয়েছে। মুয়াসসার আর সা'দী কোনো দলের নাম নেন না। তাদের কথায়: আল্লাহ যাদের সম্মান দিয়েছেন আর ভয় থেকে আগলে রেখেছেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an ties the answer to the count: those who make the terror and the swoon one blast read the exception as the special angels, as in 39:68, and those who separate them read it as the martyrs. At-Tabari also transmits a long report of the Horn, raised to the Prophet ﷺ through Isma'il ibn Rafi', on the blasts and on the martyrs. It is not in the collections checked here; al-Qurtubi relies on it, while a scholar he quotes held that no sound report names the excepted. Nothing here rests on it.",
+            "bn": "মাআরিফুল কুরআন উত্তরটাকে ফুঁয়ের সংখ্যার সঙ্গে মিলিয়ে দেখে। যারা আতঙ্ক আর বেহুঁশ হওয়াকে একই ফুঁ ধরেন, তারা ৩৯:৬৮-এর মতো এখানেও ব্যতিক্রম বলতে বিশেষ ফেরেশতাদের বোঝেন। আর যারা দুটিকে আলাদা ধরেন, তারা বোঝেন শহীদদের। তাবারী শিঙ্গা নিয়ে একটি দীর্ঘ বর্ণনাও আনেন, ইসমাঈল ইবন রাফির সূত্রে নবী ﷺ পর্যন্ত পৌঁছানো, ফুঁ আর শহীদদের প্রসঙ্গে। যাচাই করা হাদীস সংকলনগুলোতে এটি পাওয়া যায়নি। কুরতুবী এর উপর ভর দেন, অথচ তাঁরই উদ্ধৃত এক আলেম বলেছেন, কারা ব্যতিক্রম তা নির্দিষ্ট করে কোনো সহীহ বর্ণনা আসেনি। এখানে এর উপর কিছুই দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Musa Holding the Throne",
+          "bn": "আরশ ধরে মূসা (আঃ)"
+        },
+        "p": [
+          {
+            "en": "Under the same exception, al-Baghawi brings, with his own chain, a hadith of Abu Hurayra (RA) about Musa (AS). Al-Bukhari records a version of it in his Sahih (4813), from Abu Hurayra: \"I will be the first to raise my head after the second blowing of the trumpet and will see Moses hanging the Throne, and I will not know whether he had been in that state all the time or after the blowing of the trumpet.\" No tafsir fetched here ties al-Bukhari's wording to this verse itself.",
+            "bn": "এই একই ব্যতিক্রমের আলোচনায় বাগাভী নিজের সনদে আবু হুরায়রা (রাঃ)-এর একটি হাদীস আনেন মূসা (আঃ)-কে নিয়ে। বুখারী তাঁর সহীহ গ্রন্থে (৪৮১৩) আবু হুরায়রা থেকে এর একটি রূপ সংকলন করেছেন: \"إِنِّي أَوَّلُ مَنْ يَرْفَعُ رَأْسَهُ بَعْدَ النَّفْخَةِ الآخِرَةِ، فَإِذَا أَنَا بِمُوسَى مُتَعَلِّقٌ بِالْعَرْشِ فَلاَ أَدْرِي أَكَذَلِكَ كَانَ أَمْ بَعْدَ النَّفْخَةِ\", অর্থাৎ শেষ ফুঁয়ের পর আমিই প্রথম মাথা তুলব। তখন দেখব মূসা আরশ ধরে আছেন। জানি না তিনি কি আগে থেকেই এভাবে ছিলেন, নাকি ফুঁয়ের পরে। বুখারীর এই শব্দগুলোকে এখানে পড়া কোনো তাফসীর সরাসরি এ আয়াতের সঙ্গে যুক্ত করেনি।"
+          },
+          {
+            "en": "Notice what the Prophet ﷺ says of himself: I will not know. The one who will be first to raise his head leaves open whether Musa (AS) had been in that state all along or came to it after the blast. Al-Baghawi also relays, with it is narrated and no chain, an account of the angels dying one after another; it is mentioned here and not retold. Where the sound texts stop, the reader can stop too, and give the space left open to the One who wills.",
+            "bn": "লক্ষ করুন, নবী ﷺ নিজের সম্পর্কে কী বলছেন: আমি জানি না। যিনি সবার আগে মাথা তুলবেন, তিনিও খোলা রাখছেন, মূসা (আঃ) কি আগে থেকেই ওই অবস্থায় ছিলেন, নাকি ফুঁয়ের পরে সেখানে পৌঁছেছেন। বাগাভী 'বর্ণিত আছে' বলে, কোনো সনদ ছাড়া, ফেরেশতাদের একে একে মৃত্যুর একটি বিবরণও আনেন। এখানে শুধু তার উল্লেখ রইল, বর্ণনা নয়। সহীহ বর্ণনা যেখানে থেমে যায়, পাঠকও সেখানে থামতে পারেন। যে প্রশ্ন খোলা রইল, তা ছেড়ে দিন সেই সত্তার হাতে, যিনি চান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No One Lags Behind",
+          "bn": "কেউ পিছিয়ে থাকবে না"
+        },
+        "p": [
+          {
+            "en": "Wa-kullun atawhu dakhirin: and all came to Him humbled. Ibn Abbas and Qatada, both in at-Tabari, give one word for dakhirin: saghirin, abased. Ibn Kathir adds obedient: no one lags behind His command, and he sets beside it 17:52 and 30:25. As-Sa'di says abased and lowly, citing 19:93, where all in the heavens and the earth come to the Most Merciful as servants. On that Day, he writes, the leaders and the led are equal in lowliness before the Owner of all dominion.",
+            "bn": "ওয়া কুল্লুন আতাওহু দাখিরীন: আর সবাই তাঁর কাছে এল বিনীত হয়ে। তাবারীর বর্ণনায় ইবন আব্বাস ও কাতাদা 'দাখিরীন'-এর অর্থ দেন এক শব্দে: সাগিরীন, অপদস্থ। ইবন কাসীর সঙ্গে যোগ করেন অনুগত হয়ে: তাঁর হুকুম থেকে কেউ পিছিয়ে থাকবে না। পাশে তিনি রাখেন ১৭:৫২ আর ৩০:২৫ আয়াত। সা'দী বলেন, অপদস্থ আর হীন হয়ে, আর উদ্ধৃত করেন ১৯:৯৩, যেখানে আসমান-জমিনের সবাই দয়াময়ের কাছে আসে বান্দা হয়ে। তাঁর ভাষায়, সেদিন নেতা আর অনুসারী সবাই মালিকুল মুলকের সামনে একই রকম নত।"
+          },
+          {
+            "en": "Ibn Zayd, in at-Tabari, explains the link with the terror: a frightened man thinks only of fleeing what frightens him, and when the Horn was blown they were terrified and found no escape from Allah. The word is read two ways. Ibn Mas'ud, al-A'mash, Hamza and Hafs read atawhu, they came to Him, as printed here; the others read atuhu, comers to Him, as in 19:95. At-Tabari calls both widely read and close in meaning: whichever one recites is right.",
+            "bn": "তাবারীর বর্ণনায় ইবন যায়দ আতঙ্কের সঙ্গে এর যোগসূত্র বুঝিয়ে দেন। ভয় পাওয়া মানুষের মাথায় তখন একটাই চিন্তা: যা থেকে ভয়, তা থেকে পালানো। শিঙ্গায় ফুঁ পড়তেই তারা আতঙ্কিত হলো, কিন্তু আল্লাহর কাছ থেকে পালানোর কোনো পথ পেল না। শব্দটি দুইভাবে পড়া হয়। ইবন মাসঊদ, আ'মাশ, হামযা আর হাফস পড়েন 'আতাওহু', তারা তাঁর কাছে এল, যেমনটা এখানে ছাপা আছে। অন্যরা পড়েন 'আতূহু', তাঁর কাছে আগমনকারী, যেমন ১৯:৯৫ আয়াতে। তাবারী বলেন, দুটিই ব্যাপকভাবে প্রচলিত, অর্থও কাছাকাছি। যে পাঠই পড়া হোক, তা সঠিক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Safe From That Day's Terror",
+          "bn": "সেদিনের আতঙ্ক থেকে নিরাপদ"
+        },
+        "p": [
+          {
+            "en": "The scene does not end here. 27:88 turns to the mountains passing like clouds, read in its own place. Then 27:89 and 27:90 answer the fear: whoever comes with a good deed has better than it and is safe from the terror of that Day, and whoever comes with an evil deed is flung face down into the Fire. The word fazaʿ returns in 27:89, and al-Qurtubi records the view that those excepted here are these very doers of good.",
+            "bn": "দৃশ্যটা এখানেই শেষ নয়। ২৭:৮৮ চলে যায় মেঘের মতো ভেসে চলা পাহাড়ের দিকে, যার আলোচনা তার নিজের জায়গায়। তারপর ২৭:৮৯ ও ২৭:৯০ এই ভয়ের জবাব দেয়। যে নেক আমল নিয়ে আসবে, সে তার চেয়েও উত্তম প্রতিদান পাবে, আর সেদিনের আতঙ্ক থেকে নিরাপদ থাকবে। যে মন্দ নিয়ে আসবে, তাকে উপুড় করে আগুনে ফেলা হবে। ফাযা' শব্দটি ২৭:৮৯ আয়াতে আবার ফিরে আসে। কুরতুবী একটি মত লিখে রাখেন যে, এখানে যাদের ব্যতিক্রম রাখা হয়েছে, তারা এই নেককারেরাই।"
+          },
+          {
+            "en": "The deniers gathered in 27:83 to 27:85 are described as the text describes them, and these verses license nothing against any living person or community. What they leave the reader is a choice of timing. Every creature will come to Him humbled; that part is not chosen. What is chosen is whether humility comes now, freely, in prayer and in the good deed, or only then, when there is nowhere left to run.",
+            "bn": "২৭:৮৩ থেকে ২৭:৮৫ আয়াতে জড়ো করা অস্বীকারকারীদের কথা আয়াত যেভাবে বলেছে, সেভাবেই এসেছে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এই আয়াতগুলো কোনো অনুমতি দেয় না। পাঠকের সামনে আয়াতগুলো যা রেখে যায়, তা হলো সময় বেছে নেওয়ার সুযোগ। প্রতিটি সৃষ্টি তাঁর কাছে বিনীত হয়েই আসবে, এখানে বাছাইয়ের কিছু নেই। বাছাই শুধু এটুকু: বিনয় কি এখনই আসবে, নিজে থেকে, নামাযে আর নেক আমলে? নাকি আসবে তখন, যখন পালানোর আর কোনো জায়গা থাকবে না?"
+          }
+        ]
+      }
+    ]
+  },
   "27:88": {
     "sections": [
       {
