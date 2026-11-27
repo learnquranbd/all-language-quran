@@ -36353,6 +36353,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Keep to the fear of Allah as a standing state, and guard your decisions: do not let those who oppose the truth become the counsel you lean on.",
     "lessonBn": "আল্লাহভীতিকে স্থায়ী অবস্থা হিসেবে ধরে রাখুন, আর নিজের সিদ্ধান্ত পাহারা দিন: যারা সত্যের বিরোধী, তাদের যেন আপনার ভরসার পরামর্শদাতা বানিয়ে না ফেলেন।"
+  },
+  "31:29": {
+    "reflectionEn": "Do you not see? The question points at something that happens every day. In one season the night gives up its hours to the day; in another the day hands them back. The sun and the moon keep a course they did not choose, each running to a term already named, and neither can pass it. Then the verse turns from the sky to me: Allah is fully aware of what you do. The One who measures the hours of the night also knows how I spend mine. My days lengthen and shorten too, and my own term is named as surely as theirs. Shall I watch the sky keep its order and leave my own life without one?",
+    "reflectionBn": "তুমি কি দেখ না? প্রশ্নটা এমন জিনিসের দিকে আঙুল তোলে, যা রোজ ঘটে। এক মৌসুমে রাত তার কিছু ঘণ্টা দিনকে দিয়ে দেয়, আরেক মৌসুমে দিন সেগুলো ফিরিয়ে দেয়। সূর্য আর চাঁদ এমন এক পথে চলে, যা তারা নিজেরা বেছে নেয়নি। প্রত্যেকে ছুটছে আগে থেকে নির্ধারিত এক মেয়াদের দিকে, কেউ তা পেরোতে পারে না। তারপর আয়াত আকাশ থেকে মুখ ফেরায় আমার দিকে: তোমরা যা কর, আল্লাহ সে সম্পর্কে পুরোপুরি অবগত। যিনি রাতের ঘণ্টা মেপে দেন, তিনি জানেন আমার ঘণ্টাগুলো আমি কীভাবে কাটাই। আমার দিনও বাড়ে-কমে, আমার মেয়াদও ওদেরটার মতোই নির্ধারিত। আকাশকে নিয়ম মেনে চলতে দেখেও কি আমি নিজের জীবনটা নিয়মছাড়া রেখে দেব?",
+    "pointsEn": [
+      "When did I last stop to notice the days getting longer or shorter, and what did it remind me of?",
+      "The sun and moon run to a term they cannot pass. Do I live as though my own term is named, or as though it is open-ended?",
+      "If Allah is aware of everything I do, which of my hours this week would I least like to have seen?",
+      "What benefit do I take every day from the sun and the night without ever thanking the One who set them to work?",
+      "Where in my life do I need order, a fixed time for prayer, sleep or work, the way the sky keeps its own?"
+    ],
+    "pointsBn": [
+      "শেষ কবে থেমে খেয়াল করেছি যে দিন বড় হচ্ছে বা ছোট হচ্ছে? তখন মনে কী এসেছিল?",
+      "সূর্য আর চাঁদ এমন মেয়াদের দিকে চলে, যা তারা পেরোতে পারে না। আমি কি এমনভাবে বাঁচি যেন আমার মেয়াদও নির্ধারিত, নাকি যেন তার কোনো শেষ নেই?",
+      "আল্লাহ যদি আমার প্রতিটি কাজ জানেন, এ সপ্তাহের কোন সময়টুকু আমি সবচেয়ে কম চাইতাম যে কেউ দেখুক?",
+      "সূর্য আর রাত থেকে রোজ আমি কী উপকার পাই, অথচ যিনি এগুলোকে কাজে লাগিয়ে দিয়েছেন তাঁর শুকরিয়া কখনো আদায় করি না?",
+      "আকাশ যেমন নিজের নিয়ম মেনে চলে, তেমনি আমার জীবনের কোথায় নিয়ম দরকার: নামাজ, ঘুম বা কাজের নির্দিষ্ট সময়?"
+    ],
+    "lessonEn": "Night and day, sun and moon keep the order Allah set until their term; He is aware of all you do, so order your own hours before your term comes.",
+    "lessonBn": "রাত-দিন, সূর্য-চাঁদ তাদের মেয়াদ পর্যন্ত আল্লাহর বেঁধে দেওয়া নিয়মে চলে। আপনি যা করেন সবই তিনি জানেন, তাই মেয়াদ আসার আগেই নিজের সময়গুলোকে নিয়মে বাঁধুন।"
   }
 };
 

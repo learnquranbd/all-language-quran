@@ -1327,6 +1327,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "31:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Proof Within Plain Sight",
+          "bn": "চোখের সামনেই প্রমাণ"
+        },
+        "p": [
+          {
+            "en": "Alam tara anna Allaha yuliju al-layla fi al-nahar: do you not see that Allah merges the night into the day? The verses before it answer the Makkans from their own mouths. In 31:25 they concede that Allah created the heavens and the earth; in 31:28 creating and raising all people is to Him as a single soul. Now the argument turns to what anyone can watch from a doorway: night and day, sun and moon.",
+            "bn": "আলাম তারা আন্নাল্লাহা ইউলিজুল লাইলা ফিন নাহার: তুমি কি দেখ না যে আল্লাহ রাতকে দিনে প্রবেশ করান? এর আগের আয়াতগুলো মক্কার লোকদের জবাব দিচ্ছিল তাদের নিজেদের কথা দিয়েই। ৩১:২৫ আয়াতে তারা মেনে নেয়, আসমান ও জমিন আল্লাহই সৃষ্টি করেছেন। ৩১:২৮ আয়াতে সব মানুষকে সৃষ্টি করা আর আবার জীবিত করা তাঁর কাছে একজন মানুষের মতোই। এবার যুক্তি ফেরে এমন জিনিসের দিকে, যা যে কেউ ঘরের দরজায় দাঁড়িয়ে দেখতে পারে: রাত আর দিন, সূর্য আর চাঁদ।"
+          },
+          {
+            "en": "At-Tabari glosses the opening as: do you not see, O Muhammad, with your eye. The proof is not a report to be taken on trust but a thing in view. The speech comes out addressed to the Messenger of Allah ﷺ, while those meant by it are the mushrikun. Through the merging of night and day, Allah points to where His proof stands against whoever was ignorant of His greatness and joined others with Him in worship.",
+            "bn": "তাবারী শুরুর কথাটার ব্যাখ্যা দেন এভাবে: হে মুহাম্মাদ, তুমি কি নিজের চোখে দেখ না? প্রমাণটা তাহলে শুনে মেনে নেওয়ার মতো কোনো খবর নয়, চোখের সামনে থাকা একটা জিনিস। বাহ্যত সম্বোধন আল্লাহর রাসূল ﷺ-কে, কিন্তু উদ্দেশ্য মুশরিকরা। রাত-দিনের এই প্রবেশ দেখিয়ে আল্লাহ ইঙ্গিত করছেন তাঁর প্রমাণ কোথায় দাঁড়িয়ে আছে। সে প্রমাণ তাদের বিরুদ্ধে, যারা তাঁর মহত্ত্ব চিনল না আর ইবাদতে তাঁর সঙ্গে অন্যকে শরিক করল।"
+          },
+          {
+            "en": "His evidence is the very next verse, 31:30: that is because Allah is the Truth, and what they call upon besides Him is falsehood. So this is no nature passage dropped into Luqman's surah. It is a sight laid before the eye so that a conclusion can be drawn from it in the next breath. Even the verse's closing sentence, about what people do, belongs to that argument.",
+            "bn": "এই ব্যাখ্যার পক্ষে তাঁর দলিল ঠিক পরের আয়াত, ৩১:৩০: এটা এজন্য যে আল্লাহই সত্য, আর তাঁকে ছেড়ে তারা যাকে ডাকে তা মিথ্যা। তাই সূরা লুকমানের মাঝে এটা প্রকৃতির বর্ণনা নিয়ে আলাদা কোনো টুকরো নয়। চোখের সামনে একটা দৃশ্য রাখা হলো, যাতে পরের আয়াতেই তা থেকে সিদ্ধান্ত টানা যায়। আয়াতের শেষ বাক্যটি, মানুষের আমল নিয়ে যে কথা, সেটাও এই যুক্তিরই অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hours Taken and Given Back",
+          "bn": "ঘণ্টা নেওয়া, ঘণ্টা ফেরত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives the meaning in hours. Yuliju al-layla fi al-nahar: He adds to the hours of the day what He takes from the hours of the night. Wa-yuliju al-nahara fi al-layl: He adds to the hours of the night what was taken from the day. He supports this with Qatada, by his chain through Bishr, Yazid and Sa'id: the night's decrease in the day's increase, and the day's decrease in the night's increase.",
+            "bn": "তাবারী অর্থটা বলেন ঘণ্টার হিসাবে। ইউলিজুল লাইলা ফিন নাহার: রাতের ঘণ্টা থেকে যা কমে, তা তিনি দিনের ঘণ্টায় যোগ করেন। ওয়া ইউলিজুন নাহারা ফিল লাইল: দিনের ঘণ্টা থেকে যা কমেছিল, তা তিনি রাতের ঘণ্টায় যোগ করেন। এর সমর্থনে তিনি আনেন কাতাদার কথা, বিশর, ইয়াযীদ ও সাঈদের সূত্রে: রাতের কমতি দিনের বাড়তিতে, আর দিনের কমতি রাতের বাড়তিতে।"
+          },
+          {
+            "en": "Ibn Kathir reads it the same way and ties it to the seasons. Allah takes from the night into the day, so that one grows long and the other short. This, he says, is the summer, when the day lengthens to its furthest. Then the day begins to shorten quickly, the night grows long, and that is the winter. The Muyassar puts it plainly: He takes from the hours of the night so that the day is long and the night short, and the reverse.",
+            "bn": "ইবন কাসীরও একই অর্থ নেন, আর একে মৌসুমের সঙ্গে মিলিয়ে দেন। আল্লাহ রাত থেকে নিয়ে দিনে দেন, ফলে একটা লম্বা হয়, অন্যটা ছোট। তাঁর কথায়, এটাই গ্রীষ্মকাল, যখন দিন বাড়তে বাড়তে শেষ সীমায় পৌঁছায়। তারপর দিন দ্রুত কমতে থাকে, রাত লম্বা হয়, আর সেটাই শীতকাল। মুয়াসসার পুরো কথাটা সরল ভাষায় বলে: তিনি রাতের ঘণ্টা থেকে নেন, ফলে দিন লম্বা হয় আর রাত ছোট হয়। আবার উল্টোটাও করেন।"
+          },
+          {
+            "en": "On this reading the verse is not first about dusk and dawn but about a slow exchange across the year, hours lent in summer and returned in winter, so gradually that nobody sees it happen and everybody notices it has happened. The question do you not see fits that well. No one watches the evenings draw in, yet within weeks no one can miss that they have.",
+            "bn": "এই ব্যাখ্যায় আয়াতের মূল কথা সন্ধ্যা আর ভোর নয়। মূল কথা সারা বছর ধরে চলা ধীর এক লেনদেন। গ্রীষ্মে কিছু ঘণ্টা ধার যায়, শীতে ফেরত আসে। এত ধীরে যে ঘটতে কেউ দেখে না, অথচ ঘটে গেছে তা সবাই টের পায়। তুমি কি দেখ না, প্রশ্নটা এর সঙ্গে খুব মানায়। সন্ধ্যা একটু একটু করে এগিয়ে আসা কেউ বসে দেখে না, কিন্তু কয়েক সপ্তাহ পরে তা আর কারও চোখ এড়ায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Enters, the Other Departs",
+          "bn": "একটি ঢোকে, অন্যটি সরে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di starts from what the verse shows about its Agent: that He alone disposes and governs, and how wide that governing is. He glosses ilaj, the merging, as idkhal, making one of the two enter upon the other, and adds the consequence in a short clause: when one of them enters, the other goes. Night and day never share the sky. Each arrives only by the other's leaving, and neither has a say in when that is.",
+            "bn": "সা'দী শুরু করেন আয়াতটি তার কর্তা সম্পর্কে যা দেখায় তা দিয়ে: একমাত্র তিনিই সব কিছু চালান ও পরিচালনা করেন, আর তাঁর এই পরিচালনা কত বিস্তৃত। তিনি ঈলাজ, অর্থাৎ প্রবেশ করানো, শব্দের ব্যাখ্যা দেন ইদখাল দিয়ে: দুটির একটিকে অন্যটির উপর ঢুকিয়ে দেওয়া। সঙ্গে ছোট্ট এক বাক্যে এর ফলও বলে দেন: একটি ঢুকলে অন্যটি চলে যায়। রাত আর দিন কখনো একসঙ্গে আকাশ ভাগ করে না। একটা আসে কেবল অন্যটা সরে গেলে, আর কখন সরবে, সে সিদ্ধান্ত কারোরই নয়।"
+          },
+          {
+            "en": "Al-Qurtubi does not explain the phrase here; he refers the reader back to al-Hajj and Al 'Imran. Under 3:27 he gives the meaning from Ibn 'Abbas, Mujahid, al-Hasan, Qatada and as-Suddi: He makes what is lessened from one enter into the other, until the day reaches fifteen hours, its longest, and the night nine, its shortest. He adds that the words can also carry the succession of night and day, as though the passing of one were its entering into the other.",
+            "bn": "কুরতুবী এখানে কথাটার ব্যাখ্যা দেন না, পাঠককে ফিরিয়ে দেন সূরা হাজ্জ আর আলে ইমরানে। ৩:২৭ আয়াতের আলোচনায় তিনি ইবন আব্বাস, মুজাহিদ, হাসান, কাতাদা ও সুদ্দী থেকে অর্থ আনেন: একটি থেকে যা কমে, তা তিনি অন্যটিতে ঢুকিয়ে দেন। এভাবে দিন পৌঁছায় ১৫ ঘণ্টায়, যা তার সবচেয়ে লম্বা রূপ, আর রাত ৯ ঘণ্টায়, যা তার সবচেয়ে ছোট। তিনি আরও বলেন, শব্দগুলো রাত-দিনের পালাক্রমে আসাকেও ধারণ করতে পারে, যেন একটির চলে যাওয়াই অন্যটির ভেতরে ঢুকে পড়া।"
+          },
+          {
+            "en": "So the commentators hold two pictures that do not compete: the yearly trade of hours, which most of them name, and the daily handover, which al-Qurtubi allows and as-Sa'di's clause fits. Under 22:61, where the same words follow a promise of help to the wronged, al-Qurtubi draws the lesson for that setting: whoever is able to do this is able to help His servant. The merging is the same; each surah points it at a different need.",
+            "bn": "তাহলে তাফসীরকারদের হাতে দুটি ছবি, যারা একে অন্যের প্রতিদ্বন্দ্বী নয়। একটি বছরজুড়ে ঘণ্টার লেনদেন, যার কথা তাঁদের বেশির ভাগ বলেন। অন্যটি রোজকার হাতবদল, যার সুযোগ কুরতুবী রাখেন আর সা'দীর বাক্যটিও যার সঙ্গে মেলে। ২২:৬১ আয়াতে একই কথা এসেছে মজলুমকে সাহায্যের প্রতিশ্রুতির পরে। সেখানে কুরতুবী সেই প্রসঙ্গের শিক্ষাটা টানেন: যিনি এটা করতে পারেন, তিনি তাঁর বান্দাকে সাহায্যও করতে পারেন। প্রবেশ করানোর কাজটা একই, শুধু প্রতিটি সূরা তাকে ভিন্ন এক প্রয়োজনের দিকে ফিরিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lamps Set to Serve",
+          "bn": "কাজে লাগানো দুই বাতি"
+        },
+        "p": [
+          {
+            "en": "Wa-sakhkhara al-shamsa wa-al-qamar: and He has subjected the sun and the moon. At-Tabari names the purpose straight away: He subjected them for the welfare and the benefit of His creation. The Muyassar addresses the reader directly: He made the sun and the moon subservient to you. Al-Qurtubi says how: He made them submit by rising and setting, as a measuring-out of appointed times and a completing of benefits. The two largest lights in the sky are, in all three readings, put to work for others.",
+            "bn": "ওয়া সাখখারাশ শামসা ওয়াল কামার: আর তিনি সূর্য ও চাঁদকে নিয়ন্ত্রণে রেখেছেন। তাবারী সঙ্গে সঙ্গেই উদ্দেশ্যটা বলে দেন: তাঁর সৃষ্টির কল্যাণ আর উপকারের জন্যই তিনি এদের অধীন করেছেন। মুয়াসসার সরাসরি পাঠককে বলে: তিনি সূর্য ও চাঁদকে তোমাদের অনুগত করে দিয়েছেন। কুরতুবী বলেন কীভাবে: উদয় আর অস্তের মাধ্যমে তিনি এদের বশ করেছেন, যাতে সময়ের মাপ ঠিক হয় আর উপকার পূর্ণ হয়। তিনটি ব্যাখ্যাতেই আকাশের সবচেয়ে বড় দুই আলো অন্যের কাজে নিয়োজিত।"
+          },
+          {
+            "en": "As-Sa'di adds the word order. The two run by management and by a system that has not broken down since He created them, and through it He secures His servants' welfare in their religion and their world, by which they take lessons and draw benefit. He names both halves, religion and world, without listing what falls under each.",
+            "bn": "সা'দী যোগ করেন শৃঙ্খলার কথা। এ দুটি চলে পরিচালনা আর এমন এক ব্যবস্থায়, যা তিনি সৃষ্টি করার পর থেকে কখনো বিগড়ে যায়নি। এর মধ্য দিয়ে তিনি বান্দাদের দ্বীন ও দুনিয়ার কল্যাণ নিশ্চিত করেন, যা থেকে তারা শিক্ষা নেয়, উপকারও পায়। তিনি দ্বীন আর দুনিয়া, দুটো দিকেরই নাম নেন, কিন্তু কোনটার ভেতরে কী পড়ে তার তালিকা দেন না।"
+          },
+          {
+            "en": "The same clause appears in 13:2, 35:13 and 39:5: He subjected the sun and the moon, each running to a term appointed. Set side by side, they show one small difference. Those three verses say li-ajalin, while 31:29 alone says ila ajalin. None of the commentaries fetched for this verse remarks on it, so this article notes the change and offers no explanation of its own.",
+            "bn": "একই বাক্য এসেছে ১৩:২, ৩৫:১৩ ও ৩৯:৫ আয়াতে: তিনি সূর্য ও চাঁদকে নিয়ন্ত্রণে রেখেছেন, প্রত্যেকে চলছে নির্ধারিত মেয়াদের দিকে। পাশাপাশি রাখলে একটি ছোট পার্থক্য চোখে পড়ে। ওই তিনটি আয়াতে আছে লি-আজালিন, আর কেবল ৩১:২৯ আয়াতে আছে ইলা আজালিন। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ নিয়ে কিছু বলে না। তাই এ লেখা শুধু পার্থক্যটা দেখিয়ে রাখে, নিজের থেকে কোনো কারণ দাঁড় করায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Term Is Appointed",
+          "bn": "কোন মেয়াদ নির্ধারিত"
+        },
+        "p": [
+          {
+            "en": "Kullun yajri ila ajalin musamma: each runs to a term named in advance. Here the commentators divide, and al-Qurtubi sets the two sides side by side. Al-Hasan said: to the Day of Resurrection. Qatada said: to its time in its rising and its setting, which it neither passes nor falls short of. On the first reading the term is the end of the world. On the second it is the fixed station that each light keeps every day and every season.",
+            "bn": "কুল্লুই ইয়াজরী ইলা আজালিম মুসাম্মা: প্রত্যেকে চলছে আগে থেকে নাম দেওয়া এক মেয়াদের দিকে। এখানে তাফসীরকারেরা দুই ভাগ হন, আর কুরতুবী দুই মত পাশাপাশি রাখেন। হাসান বলেছেন: কিয়ামতের দিন পর্যন্ত। কাতাদা বলেছেন: উদয় ও অস্তের যে সময় তার জন্য বাঁধা, সে পর্যন্ত। তা সে পেরোয়ও না, তার আগে থেমেও যায় না। প্রথম মতে মেয়াদ মানে দুনিয়ার শেষ। দ্বিতীয় মতে মেয়াদ মানে সেই নির্দিষ্ট অবস্থান, যা প্রতিটি আলো রোজ আর প্রতি মৌসুমে মেনে চলে।"
+          },
+          {
+            "en": "At-Tabari takes the first side in his own words: each runs by His command to a known time and a fixed term, and when it reaches it the sun and the moon are rolled up. He then cites Qatada as agreeing: for all of that there is a time and a known limit, which it does not pass. So the same report of Qatada stands under at-Tabari's end-of-the-world reading and under al-Qurtubi's daily one.",
+            "bn": "তাবারী নিজের ভাষায় প্রথম মতটি নেন: প্রত্যেকে তাঁর হুকুমে চলছে এক জানা সময় আর বাঁধা মেয়াদের দিকে, সেখানে পৌঁছালে সূর্য ও চাঁদকে গুটিয়ে নেওয়া হবে। তারপর তিনি কাতাদার কথা আনেন নিজের মতের সমর্থনে: এ সবকিছুর জন্য আছে এক সময় আর জানা সীমা, যা সে পেরোয় না। ফলে কাতাদার একই বর্ণনা তাবারীর কাছে দাঁড়ায় দুনিয়ার শেষের ব্যাখ্যার পক্ষে, আর কুরতুবীর কাছে রোজকার ব্যাখ্যার পক্ষে।"
+          },
+          {
+            "en": "As-Sa'di is explicit: when that term comes their running stops and their rule ends, on the Day of Resurrection, when the sun is rolled up, the moon is eclipsed and this world gives way to the Hereafter. Ibn Kathir keeps both. He reports, each with the words it was said, a set limit and the Day of Resurrection, and judges both meanings correct. The Muyassar can carry either: each runs in its orbit to a known, fixed term.",
+            "bn": "সা'দী একেবারে স্পষ্ট: সেই মেয়াদ এলে তাদের চলা থেমে যাবে, তাদের রাজত্ব শেষ হবে। আর তা কিয়ামতের দিন, যখন সূর্যকে গুটিয়ে নেওয়া হবে, চাঁদ আলো হারাবে, দুনিয়ার ঘর শেষ হয়ে আখিরাতের ঘর শুরু হবে। ইবন কাসীর অবশ্য দুটোই রাখেন। 'বলা হয়েছে' বলে তিনি দুটি মত আনেন: বাঁধা এক সীমা, আর কিয়ামতের দিন। তারপর রায় দেন, দুটো অর্থই সঠিক। মুয়াসসারের ভাষ্য দুটোকেই ধারণ করতে পারে: প্রত্যেকে নিজের কক্ষপথে চলছে এক জানা, নির্দিষ্ট মেয়াদের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Abu Dharr at Sunset",
+          "bn": "সূর্যাস্তের সময় আবু যার (রাঃ)"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir supports his first meaning, the set limit, with a hadith of Abu Dharr that he places in the two Sahihs; al-Bukhari's wording, number 3199, follows whole. Note where al-Bukhari himself attaches it: to 36:38, and the sun runs to a resting place of its own, not to 31:29. Ibn Kathir brings it here because it too speaks of the sun keeping a limit set for it.",
+            "bn": "ইবন কাসীর তাঁর প্রথম অর্থ, অর্থাৎ বাঁধা সীমার অর্থ, সমর্থন করেন আবু যার (রাঃ)-এর একটি হাদীস দিয়ে, যা তাঁর কথায় দুই সহীহ গ্রন্থেই আছে। নিচে বুখারীর ভাষ্য পুরোটা দেওয়া হলো, নম্বর ৩১৯৯। খেয়াল করার মতো, বুখারী নিজে হাদীসটি জুড়েছেন ৩৬:৩৮ আয়াতের সঙ্গে: আর সূর্য চলে তার নিজের এক থামার জায়গার দিকে। ৩১:২৯ আয়াতের সঙ্গে নয়। ইবন কাসীর একে এখানে আনেন, কারণ এটিও সূর্যের জন্য বাঁধা এক সীমা মেনে চলার কথা বলে।"
+          },
+          {
+            "en": "The Prophet ﷺ said to Abu Dharr when the sun had set: Do you know where it goes? I said: Allah and His Messenger know best. He said: It goes until it prostrates beneath the Throne, and it asks permission and is given it. Soon it will prostrate and that will not be accepted from it, and it will ask permission and not be given it. It will be told: Go back from where you came, and it will rise from its setting place. That is His saying: and the sun runs to a resting place of its own; that is the decree of the Almighty, the All-Knowing.",
+            "bn": "সূর্য অস্ত যাওয়ার সময় নবী ﷺ আবু যারকে বললেন, জানো এটা কোথায় যায়? আমি বললাম, আল্লাহ ও তাঁর রাসূলই ভালো জানেন। তিনি বললেন: এটা যায়, শেষে আরশের নিচে সিজদা করে। তারপর অনুমতি চায়, আর তাকে অনুমতি দেওয়া হয়। অচিরেই এমন হবে যে সে সিজদা করবে, কিন্তু তা কবুল হবে না। সে অনুমতি চাইবে, কিন্তু অনুমতি দেওয়া হবে না। তাকে বলা হবে: যেখান থেকে এসেছ, সেখানে ফিরে যাও। তখন সে উঠবে তার অস্ত যাওয়ার দিক থেকে। এটাই আল্লাহর বাণী: আর সূর্য চলে তার নিজের এক থামার জায়গার দিকে; এটা মহাপরাক্রমশালী, সর্বজ্ঞের নির্ধারণ।"
+          },
+          {
+            "en": "Ibn Kathir also relays, through Ibn Abi Hatim, a saying of Ibn 'Abbas, not of the Prophet ﷺ: the sun runs by day in the sky in its course and, when it sets, runs by night in its course beneath the earth until it rises in the east, and so too the moon. This article reports both texts as the commentators bring them, and builds no claim about how the heavens work on either, in one direction or the other.",
+            "bn": "ইবন কাসীর ইবন আবী হাতিমের সূত্রে ইবন আব্বাস (রাঃ)-এর একটি কথাও আনেন। কথাটা ইবন আব্বাসের নিজের, নবী ﷺ-এর নয়: সূর্য দিনের বেলা আকাশে নিজের পথে চলে, আর অস্ত গেলে রাতে জমিনের নিচে নিজের পথে চলে, শেষে পূর্ব দিক থেকে ওঠে। চাঁদও তেমনি। এ লেখা দুটি বর্ণনাই তাফসীরকারেরা যেভাবে এনেছেন সেভাবে জানিয়ে রাখে। আকাশ কীভাবে চলে, সে বিষয়ে কোনোটির উপরই নিজের কোনো দাবি দাঁড় করায় না, কোনো দিকেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Aware of Whatever You Do",
+          "bn": "তোমাদের সব কাজের খবর"
+        },
+        "p": [
+          {
+            "en": "Wa-anna Allaha bi-ma ta'maluna khabir: and that Allah, of whatever you do, is aware. At-Tabari: Allah is possessed of experience and knowledge of your deeds, O people, good or evil. Nothing of them is hidden from Him, and He will requite you for all of it. As-Sa'di says the same and names the requital: reward for those who obey and punishment for those who disobey. The verse that began with the sky ends with the reader's own week.",
+            "bn": "ওয়া আন্নাল্লাহা বিমা তা'মালূনা খাবীর: আর তোমরা যা কর, আল্লাহ সে সম্পর্কে পুরোপুরি অবগত। তাবারী বলেন: হে মানুষ, তোমাদের ভালো-মন্দ সব আমলের খবর ও জ্ঞান আল্লাহর আছে। এর কিছুই তাঁর কাছে গোপন নয়, আর সবকিছুরই তিনি প্রতিদান দেবেন। সা'দীও একই কথা বলেন এবং প্রতিদানের ধরনটা স্পষ্ট করেন: আনুগত্যকারীর জন্য সওয়াব, নাফরমানের জন্য শাস্তি। যে আয়াত শুরু হয়েছিল আকাশ দিয়ে, তা শেষ হয় পাঠকের নিজের দিনগুলো দিয়ে।"
+          },
+          {
+            "en": "Why join the sky to deeds? Al-Qurtubi gives the link briefly: whoever is able to do these things must know them, and he who knows them knows your deeds. Ibn Kathir compares 22:70, do you not know that Allah knows what is in the heaven and the earth, and gives the meaning: He is the Creator who knows all things, as in 65:12.",
+            "bn": "আকাশের কথার সঙ্গে আমলের কথা কেন? কুরতুবী সংক্ষেপে যোগসূত্রটা দেন: যিনি এসব করতে পারেন, তাঁকে অবশ্যই এগুলো জানতে হয়। আর যিনি এগুলো জানেন, তিনি তোমাদের আমলও জানেন। ইবন কাসীর তুলনা টানেন ২২:৭০ আয়াতের সঙ্গে: তুমি কি জান না যে আসমান ও জমিনে যা আছে আল্লাহ তা জানেন? তাঁর মতে অর্থ হলো, তিনিই স্রষ্টা, যিনি সবকিছু জানেন, যেমন ৬৫:১২ আয়াতে আছে।"
+          },
+          {
+            "en": "Al-Qurtubi also records a difference in reading. The general reading is ta'maluna, you do, as direct address. As-Sulami, Nasr ibn 'Asim and ad-Duri from Abu 'Amr read ya'maluna, they do, as a report. On the second reading the sentence speaks about people rather than to them. On the first it faces the listener, which fits at-Tabari's remark that the whole verse is spoken to the Prophet ﷺ while aimed at those who joined partners with Allah.",
+            "bn": "কুরতুবী এখানে কিরাআতের একটি পার্থক্যও উল্লেখ করেন। সাধারণ পাঠ তা'মালূনা, তোমরা কর, সরাসরি সম্বোধন। সুলামী, নাসর ইবন আসিম, আর আবু আমর থেকে দূরী পড়েছেন ইয়া'মালূনা, তারা করে, সংবাদ হিসেবে। দ্বিতীয় পাঠে বাক্যটি মানুষের সম্পর্কে কথা বলে, তাদের উদ্দেশে নয়। প্রথম পাঠে বাক্যটি শ্রোতার দিকে মুখ ফেরায়। তাবারীর কথার সঙ্গেও তা মেলে: পুরো আয়াতের সম্বোধন নবী ﷺ-কে, কিন্তু লক্ষ্য তারা, যারা আল্লাহর সঙ্গে শরিক করত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Sky Becomes an Argument",
+          "bn": "আকাশ থেকে সিদ্ধান্ত"
+        },
+        "p": [
+          {
+            "en": "The conclusion arrives in 31:30: that is because Allah is the Truth, what they call upon besides Him is falsehood, and Allah is the Most High, the Great. Ibn Kathir explains there: He shows you His signs so that you may know from them that He is the Truth, and that everything besides Him is falsehood, dependent on Him. Then 31:31 opens with the same question, do you not see, and turns from the sky to ships on the sea.",
+            "bn": "সিদ্ধান্তটা আসে ৩১:৩০ আয়াতে: এটা এজন্য যে আল্লাহই সত্য, তাঁকে ছেড়ে তারা যাকে ডাকে তা মিথ্যা, আর আল্লাহই সর্বোচ্চ, মহান। সেখানে ইবন কাসীর ব্যাখ্যা দেন: তিনি তোমাদের তাঁর নিদর্শন দেখান, যাতে তা থেকে তোমরা জানতে পার যে তিনিই সত্য। আর তিনি ছাড়া সবকিছু মিথ্যা, তাঁর উপর নির্ভরশীল। তারপর ৩১:৩১ আয়াত একই প্রশ্ন দিয়ে শুরু হয়, তুমি কি দেখ না, আর আকাশ থেকে দৃষ্টি নিয়ে যায় সমুদ্রের জাহাজের দিকে।"
+          },
+          {
+            "en": "So the verse asks three things of the one who hears it. To see the hours of night and day pass from one to the other, and to know who moves them. To see the sun and the moon keep a term they did not set, whichever term the commentator has in mind. And to remember, in the same breath, that the One who keeps that order is aware of what we do.",
+            "bn": "তাহলে যে শোনে, তার কাছে আয়াতটি তিনটি জিনিস চায়। রাত-দিনের ঘণ্টাগুলোর এক থেকে অন্যে চলে যাওয়া দেখা, আর জানা কে এগুলো সরায়। সূর্য আর চাঁদকে এমন এক মেয়াদ মেনে চলতে দেখা, যা তারা নিজেরা ঠিক করেনি, সে মেয়াদ যে তাফসীরকারের ব্যাখ্যা অনুযায়ীই হোক। আর একই নিঃশ্বাসে মনে রাখা, যিনি এই শৃঙ্খলা ধরে রেখেছেন, তিনি আমাদের সব কাজের খবর রাখেন।"
+          }
+        ]
+      }
+    ]
+  },
   "31:34": {
     "sections": [
       {
