@@ -3447,6 +3447,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:72": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words Against a Boast",
+          "bn": "এক গর্বের জবাবে পাঁচ শব্দ"
+        },
+        "p": [
+          {
+            "en": "Qala hal yasma'unakum idh tad'un: he said, do they hear you when you call? The verse is five words long in Arabic, and it answers the line before it. Ibrahim (AS) had asked his father and his people what they worship (26:70), and they had answered without hesitation: we worship idols and remain ever devoted to them (26:71). Ibn Kathir, in his abridged commentary, glosses that devotion as worshipping them and praying to them. So the question takes up their own claim. You say you call on these idols; do they hear the call?",
+            "bn": "কালা হাল ইয়াসমাউনাকুম ইয তাদঊন: তিনি বললেন, তোমরা যখন ডাকো, ওরা কি তোমাদের কথা শোনে? আরবিতে আয়াতটি মাত্র পাঁচ শব্দের, আর এটি আগের আয়াতের জবাব। ইবরাহীম (আঃ) তাঁর পিতা ও সম্প্রদায়কে জিজ্ঞেস করেছিলেন, তোমরা কিসের ইবাদত করো (২৬:৭০)। তারা একটুও দ্বিধা না করে বলেছিল, আমরা মূর্তির পূজা করি আর সদা সর্বদা সেগুলোকে আঁকড়ে থাকি (২৬:৭১)। ইবন কাসীর তাঁর সংক্ষিপ্ত তাফসীরে এই আঁকড়ে থাকার ব্যাখ্যা দেন এভাবে: সেগুলোর ইবাদত করা আর সেগুলোর কাছে প্রার্থনা করা। প্রশ্নটা তাই তাদের নিজেদের দাবিকেই ধরে। তোমরা বলছ এই মূর্তিগুলোকে ডাকো; ওরা কি ডাকটা শোনে?"
+          },
+          {
+            "en": "Several commentators read the verse together with the next, as a single question: or do they benefit you, or do they harm (26:73)? Ibn Kathir's Arabic commentary quotes 26:72 to 26:74 as one passage before saying a word about it. Al-Muyassar runs 26:72 and 26:73 into one sentence and names the purpose: Ibrahim spoke munabbihan 'ala fasadi madhhabihim, drawing their attention to the corruption of their way. As-Sa'di frames it a little differently: he spoke mubayyinan li-'adami stihqaqiha li-l-'ibada, making clear that the idols do not deserve worship. In both readings the question is a test, not a request for information.",
+            "bn": "একাধিক তাফসীরকার আয়াতটিকে পরের আয়াতের সঙ্গে মিলিয়ে একটিমাত্র প্রশ্ন হিসেবে পড়েন: কিংবা ওরা কি তোমাদের উপকার করে, অথবা ক্ষতি (২৬:৭৩)? ইবন কাসীরের আরবি তাফসীর কোনো মন্তব্যের আগে ২৬:৭২ থেকে ২৬:৭৪ পর্যন্ত পুরোটা একসঙ্গে উদ্ধৃত করে। মুয়াসসার ২৬:৭২ ও ২৬:৭৩ এক বাক্যে গেঁথে উদ্দেশ্যটাও বলে দেয়: ইবরাহীম (আঃ) কথাটা বলেছিলেন মুনাব্বিহান আলা ফাসাদি মাযহাবিহিম, তাদের পথের গলদের দিকে তাদের মনোযোগ টেনে। সা'দী একটু ভিন্নভাবে বলেন: তিনি বলেছিলেন মুবাইয়িনান লি-আদামিস্তিহকাকিহা লিল-ইবাদাহ, অর্থাৎ মূর্তিগুলো যে ইবাদতের যোগ্য নয়, তা স্পষ্ট করে দিতে। দুই ব্যাখ্যাতেই প্রশ্নটা পরীক্ষা, কিছু জানতে চাওয়া নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Ear Takes In",
+          "bn": "কান আসলে কী শোনে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens with a paraphrase that supplies what the verse leaves unspoken: Ibrahim said to them, hal tasma'u du'a'akum ha'ula'i l-aliha idh tad'unahum, do these gods hear your supplication when you call them? The Arabic verb itself, though, takes the people as its object: do they hear you. At-Tabari reports that the scholars of Arabic differed over how to account for this wording, and he sets out the two positions in turn, each with its own argument.",
+            "bn": "তাবারী শুরু করেন এমন এক ব্যাখ্যা দিয়ে, যা আয়াতের না-বলা অংশটুকু পূরণ করে দেয়: ইবরাহীম (আঃ) তাদের বললেন, হাল তাসমাউ দুআআকুম হাউলাইল আলিহাতু ইয তাদঊনাহুম, তোমরা যখন এই উপাস্যদের ডাকো, ওরা কি তোমাদের দোয়া শোনে? অথচ আরবি ক্রিয়াটির কর্ম মানুষগুলো নিজেরাই: ওরা কি তোমাদের শোনে। তাবারী জানান, এই শব্দবিন্যাসের ব্যাখ্যা নিয়ে আরবি ভাষার পণ্ডিতদের মধ্যে মতভেদ আছে। তিনি দুই মত পরপর তুলে ধরেন, প্রত্যেকটির সঙ্গে তার নিজস্ব যুক্তিসহ।"
+          },
+          {
+            "en": "One of the grammarians of Basra, whom al-Qurtubi names as al-Akhfash, held that a word has been dropped. The meaning, he said, is do they hear from you, or do they hear your supplication, with the supplication left out. Both commentators cite a line by the poet Zuhayr in support: on this view the poet speaks of horses fitted with hakamat of qidd and of abaq, and means hakamat of abaq without repeating the word. Al-Qurtubi glosses abaq as flax and cites the lexicon al-Sihah for hemp. The verse, read this way, is shortened speech.",
+            "bn": "বসরার এক ব্যাকরণবিদ, কুরতুবী যাঁর নাম বলেন আখফাশ, মনে করতেন এখানে একটি শব্দ উহ্য। তাঁর মতে অর্থ হলো: ওরা কি তোমাদের কাছ থেকে শোনে, কিংবা ওরা কি তোমাদের দোয়া শোনে। দোয়া শব্দটা বাদ পড়েছে। প্রমাণ হিসেবে দুই তাফসীরকারই কবি যুহাইরের একটি পঙ্‌ক্তি উদ্ধৃত করেন। এই মত অনুযায়ী কবি এমন ঘোড়ার কথা বলছেন, যাদের কিদ্দ আর আবাকের হাকামাত পরানো হয়েছে। তাঁর বোঝানোর কথা আবাকের হাকামাত, কিন্তু শব্দটা তিনি দ্বিতীয়বার বলেননি। কুরতুবী আবাক অর্থ বলেন তিসি, আর আস-সিহাহ অভিধান থেকে শণের কথাও আনেন। এভাবে পড়লে আয়াতটি সংক্ষিপ্ত বাক্য।"
+          },
+          {
+            "en": "Others rejected that account, and at-Tabari gives their argument. The eloquent form, they said, is exactly what came in the Qur'an, because the Arabs say sami'tu Zaydan mutakalliman, I heard Zayd speaking, meaning I heard Zayd's speech. Hearing does not fall on persons; it falls on their words, and then one says I heard Zayd, meaning what he said. They added that the poet could not have put abaq where he did without naming the hakamat first. Both positions arrive at the same sense, that what would be heard is the call; they differ over whether anything has been dropped to get there.",
+            "bn": "অন্যরা এই ব্যাখ্যা মানেননি, আর তাবারী তাঁদের যুক্তিও তুলে ধরেন। তাঁদের মতে, শুদ্ধ ও প্রাঞ্জল আরবি ঠিক সেটাই যা কুরআনে এসেছে। কারণ আরবরা বলে সামি'তু যাইদান মুতাকাল্লিমান, আমি যায়দকে কথা বলতে শুনেছি, অর্থাৎ যায়দের কথা শুনেছি। শোনা মানুষের উপর পড়ে না, পড়ে তার কথার উপর। তারপরও লোকে বলে, আমি যায়দকে শুনেছি, মানে তার কথা শুনেছি। তাঁরা আরও বলেন, আগে হাকামাতের উল্লেখ না থাকলে কবি আবাক শব্দটা ওভাবে বসাতে পারতেন না। দুই মতই একই অর্থে পৌঁছায়: যা শোনার কথা, তা হলো ডাক। তফাত কেবল এখানে যে, সেখানে পৌঁছাতে কোনো শব্দ উহ্য ধরতে হয় কি না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Do They Make You Hear",
+          "bn": "ওরা কি তোমাদের কিছু শোনায়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records a different vowelling of the verb. It is related from Qatada, he says, that he read yusmi'unakum, with a damma on the ya: do they make you hear, that is, do they make you hear their voices. The reading turns the question round. On the wording as it stands, the idols are asked whether they receive the call; on the reading relayed from Qatada, they are asked whether they ever give anything back, a single sound in reply. Al-Qurtubi introduces it with ruwiya, it is related, and the passage fetched for this verse adds nothing further about it.",
+            "bn": "কুরতুবী ক্রিয়াটির ভিন্ন এক উচ্চারণের কথা উল্লেখ করেন। তিনি বলেন, কাতাদা থেকে বর্ণিত আছে যে তিনি ইয়া-তে পেশ দিয়ে পড়েছেন ইউসমিউনাকুম: ওরা কি তোমাদের শোনায়, অর্থাৎ নিজেদের আওয়াজ তোমাদের কানে পৌঁছায় কি? এই পাঠে প্রশ্নের মুখ ঘুরে যায়। প্রচলিত শব্দে মূর্তিদের কাছে জানতে চাওয়া হচ্ছে, তারা ডাকটা পায় কি না। কাতাদার নামে বর্ণিত পাঠে জানতে চাওয়া হচ্ছে, তারা কখনো কিছু ফিরিয়ে দেয় কি না, জবাবে অন্তত একটা আওয়াজ। কুরতুবী পাঠটি আনেন রুউইয়া, অর্থাৎ বর্ণিত আছে, বলে। এ আয়াতের জন্য আনা অংশে এর বেশি কিছু তিনি বলেননি।"
+          },
+          {
+            "en": "Al-Baghawi stays with the received wording and glosses it in two steps. On hal yasma'unakum he writes, hal yasma'una du'a'akum, do they hear your supplication; on idh tad'un he cites Ibn 'Abbas: yasma'una lakum, they listen to you. He gives no chain for the report and adds no comment. Set side by side, the gloss and the reading relayed from Qatada cover both directions of any exchange: does the call reach them, and does anything come back from them? For a carved idol the answer to both is no, and that is the admission the commentators go on to draw out.",
+            "bn": "বাগাভী প্রচলিত শব্দেই থাকেন এবং দুই ধাপে ব্যাখ্যা দেন। হাল ইয়াসমাউনাকুম প্রসঙ্গে তিনি লেখেন, হাল ইয়াসমাউনা দুআআকুম, ওরা কি তোমাদের দোয়া শোনে। ইয তাদঊন প্রসঙ্গে তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন: ইয়াসমাউনা লাকুম, ওরা তোমাদের কথায় কান দেয়। বর্ণনাটির কোনো সনদ তিনি দেননি, কোনো মন্তব্যও যোগ করেননি। বাগাভীর ব্যাখ্যা আর কাতাদার নামে বর্ণিত পাঠ পাশাপাশি রাখলে যেকোনো কথোপকথনের দুই দিকই ধরা পড়ে: ডাকটা কি ওদের কাছে পৌঁছায়, আর ওদের দিক থেকে কি কিছু ফিরে আসে? খোদাই করা মূর্তির বেলায় দুটোরই উত্তর না। আর এই স্বীকারোক্তিই তাফসীরকারেরা সামনে টেনে আনেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard, Then Answered",
+          "bn": "শোনার পরেই তো সাড়া"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di does not stop at hearing. He completes the question with what hearing is for: do they hear you when you call, fa-yastajibuna du'a'akum, wa-yufarrijuna karbakum, wa-yuziluna 'ankum kulla makruh, and so answer your supplication, relieve your distress, and remove from you every hateful thing? In his reading the hearing is asked about because of everything that is supposed to follow from it. A god is called on in order to answer. Whatever cannot hear has failed before the asking has even begun, and the rest of the question falls with it.",
+            "bn": "সা'দী শুধু শোনাতে থেমে থাকেন না। শোনার উদ্দেশ্য কী, সেটা যোগ করে তিনি প্রশ্নটা পূর্ণ করেন: তোমরা যখন ডাকো, ওরা কি শোনে, ফা-ইয়াসতাজীবূনা দুআআকুম, ওয়া ইউফাররিজূনা কারবাকুম, ওয়া ইউযীলূনা আনকুম কুল্লা মাকরূহ, আর তারপর তোমাদের দোয়ায় সাড়া দেয়, তোমাদের বিপদ দূর করে, অপছন্দের সবকিছু তোমাদের থেকে সরিয়ে দেয়? তাঁর ব্যাখ্যায় শোনার কথা জিজ্ঞেস করা হচ্ছে তার পরে যা আসার কথা, সেই সবকিছুর জন্য। উপাস্যকে ডাকা হয় সাড়া পাওয়ার আশায়। যে শুনতেই পায় না, চাওয়া শুরু হওয়ার আগেই সে ব্যর্থ। প্রশ্নের বাকি অংশও তার সঙ্গেই ভেঙে পড়ে।"
+          },
+          {
+            "en": "The Qur'an says the same of all such objects in 35:14: if you call them, they do not hear your call, and if they heard, they would not answer you. In 7:195 it asks of them, or have they ears to hear with? Ibrahim's question is the short form of both. It asks the first thing a call needs, and the other things follow or fail with it. Al-Muyassar gives the same sequence in its rendering of 26:72 and 26:73: do they hear your supplication when you call them, or bring you benefit when you worship them, or strike you with harm when you abandon their worship?",
+            "bn": "এ ধরনের সব উপাস্য সম্পর্কে কুরআন ৩৫:১৪ আয়াতে একই কথা বলে: তোমরা ওদের ডাকলে ওরা তোমাদের ডাক শোনে না, আর শুনলেও তোমাদের সাড়া দিত না। ৭:১৯৫ আয়াতে কুরআন ওদের সম্পর্কে প্রশ্ন তোলে, নাকি ওদের এমন কান আছে যা দিয়ে শোনে? ইবরাহীম (আঃ)-এর প্রশ্ন এ দুটিরই সংক্ষিপ্ত রূপ। ডাকের জন্য সবার আগে যা দরকার, তিনি সেটাই জিজ্ঞেস করেন, বাকি সব তার উপরই দাঁড়ায় বা পড়ে যায়। মুয়াসসারও ২৬:৭২ ও ২৬:৭৩ আয়াতের অনুবাদে একই ক্রম রাখে: তোমরা যখন ওদের ডাকো, ওরা কি তোমাদের দোয়া শোনে, কিংবা ইবাদত করলে কোনো উপকার এনে দেয়, অথবা ইবাদত ছেড়ে দিলে কোনো ক্ষতি করে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Provision Hoped, Punishment Feared",
+          "bn": "রিজিকের আশা, শাস্তির ভয়"
+        },
+        "p": [
+          {
+            "en": "The words that finish the question in 26:73 show what the people hoped from their idols and what they feared. At-Tabari spells both out: or do these idols benefit you, providing you with something in return for your worship of them, or harm you, punishing you for leaving their worship by stripping you of your wealth or bringing ruin on you? Al-Baghawi, more briefly, says the benefit is said to be provision, and the harm is what they would do if you abandoned their worship. Between hope of gain and fear of loss, the commentators name the whole of what held these people to their idols.",
+            "bn": "২৬:৭৩ আয়াতে প্রশ্নের যে শেষাংশ, তা দেখিয়ে দেয় মূর্তির কাছে মানুষগুলো কী আশা করত আর কিসের ভয় পেত। তাবারী দুটোই খুলে বলেন: এই মূর্তিগুলো কি তোমাদের উপকার করে, তোমাদের ইবাদতের বিনিময়ে কিছু রিজিক দেয়? নাকি ক্ষতি করে, তাদের ইবাদত ছেড়ে দিলে শাস্তি দেয়, তোমাদের ধনসম্পদ কেড়ে নেয় বা তোমাদের ধ্বংস করে দেয়? বাগাভী আরও সংক্ষেপে বলেন, উপকার বলতে বলা হয় রিজিক, আর ক্ষতি হলো তাদের ইবাদত ছেড়ে দিলে যা তারা করবে। লাভের আশা আর লোকসানের ভয়, এই দুইয়ের মধ্যেই তাফসীরকারেরা ধরে দেন কিসে এই মানুষগুলো মূর্তির সঙ্গে বাঁধা ছিল।"
+          },
+          {
+            "en": "Al-Qurtubi names the kind of question this is: istifham li-taqrir al-hujja, a question asked to establish the proof. If they neither benefit you nor harm, he writes, then what is the meaning of your worshipping them? The question is not seeking anything Ibrahim (AS) did not already know. It is built so that the hearers must supply the answer themselves, and once they have supplied it, the answer stands as the argument against the practice. Worship that rests on neither hope of good nor fear of harm, on al-Qurtubi's reasoning, has nothing left to stand on.",
+            "bn": "কুরতুবী বলে দেন এটা কোন ধরনের প্রশ্ন: ইসতিফহাম লি-তাকরীরিল হুজ্জাহ, অর্থাৎ প্রমাণ প্রতিষ্ঠার জন্য করা প্রশ্ন। তিনি লেখেন, ওরা যদি তোমাদের উপকারও না করে, ক্ষতিও না করে, তাহলে ওদের ইবাদতের মানে কী? ইবরাহীম (আঃ) এমন কিছু জানতে চাইছিলেন না যা তাঁর অজানা। প্রশ্নটা এমনভাবে গড়া যে উত্তর শ্রোতাদের নিজেদেরই দিতে হয়। আর একবার তারা উত্তর দিয়ে ফেললে সেই উত্তরই এই আচারের বিরুদ্ধে যুক্তি হয়ে দাঁড়ায়। কুরতুবীর যুক্তিতে, যে ইবাদতের পেছনে কল্যাণের আশাও নেই, ক্ষতির ভয়ও নেই, তার দাঁড়ানোর আর কোনো জায়গা থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The No Nobody Spoke",
+          "bn": "যে না মুখে আসেনি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari notices a gap in the exchange. There is something left out of the speech, he says, made unnecessary by what is mentioned: their answer to Ibrahim's question. What they meant was, no, they do not hear us when we call them, and they neither benefit us nor harm. Their actual words, we found our fathers doing thus (26:74), show that this was their reply. The no is never said aloud, yet the next verse makes no sense without it. What Ibrahim (AS) does with that reply belongs to 26:75 and 26:76.",
+            "bn": "তাবারী কথোপকথনের ভেতরে একটা ফাঁক লক্ষ করেন। তিনি বলেন, এখানে একটা অংশ উহ্য রাখা হয়েছে, কারণ যা বলা হয়েছে তা থেকেই সেটা বোঝা যায়: ইবরাহীম (আঃ)-এর প্রশ্নের জবাবে তাদের উত্তর। তাদের কথার মর্ম ছিল, না, আমরা ডাকলে ওরা শোনে না, উপকারও করে না, ক্ষতিও করে না। তাদের আসল কথা, আমরা আমাদের পিতৃপুরুষদের এমনই করতে দেখেছি (২৬:৭৪), প্রমাণ করে যে এটাই ছিল তাদের জবাব। এই না কেউ মুখে উচ্চারণ করেনি, অথচ সেটা ছাড়া পরের আয়াতের কোনো মানে দাঁড়ায় না। সেই জবাব নিয়ে ইবরাহীম (আঃ) কী করলেন, তা ২৬:৭৫ ও ২৬:৭৬ আয়াতের বিষয়।"
+          },
+          {
+            "en": "Ibn Kathir's Arabic commentary agrees. They admitted, he writes, that their idols do none of these things, and that they had only seen their fathers doing the same, so they hurried along in their footsteps. As-Sa'di, on 26:73, says they conceded that all of it was absent from the idols: they do not hear a call, do not benefit and do not harm. He ties this to a later moment in the same story, when Ibrahim (AS) says the largest of the idols did it and tells them to ask the idols, if they can speak (21:63), and they answer, you know well these do not speak (21:65).",
+            "bn": "ইবন কাসীরের আরবি তাফসীরও একই জায়গায় পৌঁছায়। তিনি লেখেন, তারা স্বীকার করে নিয়েছিল যে তাদের মূর্তিগুলো এর কোনোটাই করে না। তারা শুধু পিতৃপুরুষদের এমন করতে দেখেছে, তাই তাদের পায়ের ছাপ ধরে ছুটে চলেছে। সা'দী ২৬:৭৩ আয়াতে বলেন, তারা মেনে নিয়েছিল যে মূর্তির মধ্যে এর কিছুই নেই: ওরা ডাক শোনে না, উপকার করে না, ক্ষতিও করে না। তিনি এটাকে একই কাহিনির পরের এক মুহূর্তের সঙ্গে জুড়ে দেন। সেখানে ইবরাহীম (আঃ) বলেন, এ কাজ করেছে এদের সবচেয়ে বড়টা, ওরা কথা বলতে পারলে ওদেরই জিজ্ঞেস করো (২১:৬৩)। আর তারা উত্তর দেয়, তুমি তো ভালো করেই জানো, এরা কথা বলে না (২১:৬৫)।"
+          },
+          {
+            "en": "As-Sa'di adds that this was a settled fact about the idols, open to neither confusion nor doubt. The same encounter is told in 21:52 to 21:54, where Ibrahim (AS) asks what these statues are to which they are devoted, they answer that they found their fathers worshipping them, and he tells them that they and their fathers have been in manifest error; in 21:56 he names their Lord as the Lord of the heavens and the earth. Ash-Shu'ara' tells the scene through the question of hearing, and of benefit and harm, and lets the people's answer, which never once says yes, carry the weight.",
+            "bn": "সা'দী যোগ করেন, মূর্তিগুলোর এই অবস্থা ছিল প্রতিষ্ঠিত সত্য, যাতে কোনো সংশয় বা সন্দেহের অবকাশ নেই। একই ঘটনা এসেছে ২১:৫২ থেকে ২১:৫৪ আয়াতে। সেখানে ইবরাহীম (আঃ) জিজ্ঞেস করেন, এই মূর্তিগুলো কী, যাদের তোমরা আঁকড়ে আছ? তারা বলে, পিতৃপুরুষদের এদের ইবাদত করতে দেখেছি। তিনি বলেন, তোমরা আর তোমাদের পিতৃপুরুষেরা স্পষ্ট গোমরাহিতে আছ। ২১:৫৬ আয়াতে তিনি তাদের রবের পরিচয় দেন আসমান ও জমিনের রব হিসেবে। সূরা আশ-শুআরা দৃশ্যটি বলে শোনা, উপকার আর ক্ষতির প্রশ্ন দিয়ে, আর ভার ছেড়ে দেয় মানুষগুলোর সেই জবাবের উপর, যেখানে একবারও হ্যাঁ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Lord Who Does Hear",
+          "bn": "যে রব সত্যিই শোনেন"
+        },
+        "p": [
+          {
+            "en": "The question has another side, and the Qur'an gives it in Ibrahim's own voice. Thanking Allah for granting him Isma'il and Ishaq in old age, he says, inna rabbi la-sami'u d-du'a', indeed my Lord is the Hearer of supplication (14:39). To his father he says, why do you worship what does not hear and does not see and does not avail you at all (19:42)? The man who asks whether the idols hear has already found the Lord who does. None of the commentaries fetched for this verse draws these links; they are the Qur'an's own words, set beside it.",
+            "bn": "প্রশ্নটার আরেকটা দিক আছে, আর কুরআন সেটা শোনায় ইবরাহীম (আঃ)-এর নিজের মুখে। বৃদ্ধ বয়সে ইসমাঈল ও ইসহাককে দান করার জন্য আল্লাহর শোকর আদায় করে তিনি বলেন, ইন্না রব্বী লা-সামীউদ দুআ, নিশ্চয়ই আমার রব দোয়া শোনেন (১৪:৩৯)। আর পিতাকে বলেন, যে শোনে না, দেখে না, আপনার কোনো কাজেই আসে না, আপনি তার ইবাদত করেন কেন (১৯:৪২)? যিনি জিজ্ঞেস করছেন মূর্তিরা শোনে কি না, তিনি আগেই খুঁজে পেয়েছেন তাঁকে, যিনি সত্যিই শোনেন। এ আয়াতের জন্য আনা কোনো তাফসীর এই যোগসূত্রগুলো টানেনি। এগুলো কুরআনেরই কথা, পাশে রাখা হলো মাত্র।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a hadith or an occasion of revelation to it. A sound narration not tied to the verse shows the contrast from the other side. In Sahih al-Bukhari (7386), Abu Musa reports that on a journey they would say Allahu Akbar whenever they climbed high ground, and the Prophet ﷺ said: \"Don't trouble yourselves too much! You are not calling a deaf or an absent person, but you are calling One Who Hears, Sees, and is very near.\" The idols could not hear a call; the One who is called on in truth is never out of hearing.",
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো হাদীস বা নাজিলের প্রেক্ষাপট জুড়ে দেয়নি। আয়াতের সঙ্গে যুক্ত নয় এমন একটি সহীহ বর্ণনা উল্টো দিক থেকে পার্থক্যটা দেখায়। সহীহ বুখারীতে (৭৩৮৬) আবু মূসা (রাঃ) বর্ণনা করেন, এক সফরে তাঁরা উঁচু জায়গায় উঠলেই আল্লাহু আকবার বলতেন। তখন নবী ﷺ বললেন: \"নিজেদের উপর সদয় হও। তোমরা কোনো বধির বা অনুপস্থিতকে ডাকছ না, তোমরা ডাকছ এমন একজনকে যিনি শোনেন, দেখেন এবং অতি নিকটে।\" মূর্তিরা কোনো ডাক শুনত না। আর সত্যিকারের যাঁকে ডাকা হয়, তিনি কখনো শোনার বাইরে নন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom Do I Call On",
+          "bn": "আমি আসলে কাকে ডাকি"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports a question Ibrahim (AS) put to his father and his own people, an idol-worshipping community of the past, in a story the Qur'an tells. It describes what the text describes, their worship and their reply, and it licenses nothing against any living person or community: no contempt, no harm, no hostility toward anyone. What it shows is a question asked calmly and in plain words, with the hearers left to answer it for themselves.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জানায় সেই প্রশ্নের কথা, যা ইবরাহীম (আঃ) তাঁর পিতা ও নিজের সম্প্রদায়কে করেছিলেন। তারা ছিল অতীতের এক মূর্তিপূজারি জনগোষ্ঠী, আর কাহিনিটি কুরআনেরই বলা। আয়াতটি তা-ই বর্ণনা করে যা পাঠে আছে, অর্থাৎ তাদের ইবাদত আর তাদের জবাব। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না: না অবজ্ঞা, না ক্ষতি, না কারও প্রতি শত্রুতা। আয়াতটি দেখায় শান্ত ও সোজা ভাষায় করা একটি প্রশ্ন, যার উত্তর শ্রোতাদের নিজেদেরই দিতে দেওয়া হয়েছে।"
+          },
+          {
+            "en": "Turned toward the reader, the question keeps its force. Few of us keep carved idols, but most people have something they reach for first in fear or need: a person, a fortune, a routine, a charm. Ibrahim's test can be put to each in his own words: does it hear me when I call? The commentators sharpen it further. Can it answer, can it lift what weighs on me, can it keep harm away? What fails that test may still be a means to use, but it is not to be called on. He who hears every call is near.",
+            "bn": "পাঠকের দিকে ফেরালেও প্রশ্নটার ধার কমে না। আমাদের খুব কম লোকই খোদাই করা মূর্তি রাখে। কিন্তু ভয় বা অভাবের সময় প্রায় সবাই কোনো না কোনো কিছুর দিকে আগে হাত বাড়ায়: কোনো মানুষ, ধনসম্পদ, অভ্যাসের কোনো রুটিন, কোনো তাবিজ। ইবরাহীম (আঃ)-এর পরীক্ষাটা তাঁরই ভাষায় এদের প্রত্যেকের সামনে রাখা যায়: আমি ডাকলে কি সে শোনে? তাফসীরকারেরা প্রশ্নটা আরও ধারালো করেন। সে কি সাড়া দিতে পারে, আমার বোঝা হালকা করতে পারে, ক্ষতি ঠেকাতে পারে? যা এই পরীক্ষায় ফেল করে, তা হয়তো ব্যবহারের উপায় হতে পারে, কিন্তু ডাকার জন্য নয়। আর যিনি প্রতিটি ডাক শোনেন, তিনি কাছেই আছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "26:75": {
     "sections": [
       {

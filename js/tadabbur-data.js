@@ -35397,6 +35397,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The morning that shows the pursuer gaining is not the end of the story; read every closing danger in the light of what God has already promised.",
     "lessonBn": "যে সকাল দেখায় ধাওয়াকারী কাছে চলে আসছে, সেটাই কাহিনির শেষ নয়। ঘনিয়ে আসা প্রতিটি বিপদকে আল্লাহর আগেই দেওয়া ওয়াদার আলোয় দেখুন।"
+  },
+  "26:72": {
+    "reflectionEn": "His people have just told Ibrahim, almost with pride, that they worship idols and remain ever devoted to them. He does not answer with a verdict. He asks about the very thing they boasted of: when you call on them, do they hear you? A plea that reaches no ear is not worship; it is speech spent on stone. The question needs no learning to answer. It only asks whether the one being called can receive the call, and an honest reply settles everything. That question still travels. When I am afraid or in need, can what I turn to hear me at all? And the One who hears every call, do I call on Him as readily as I lean on lesser things?",
+    "reflectionBn": "ইবরাহীম (আঃ)-এর সম্প্রদায় সবেমাত্র প্রায় গর্বের সঙ্গে জানিয়েছে, তারা মূর্তির পূজা করে আর সদা সর্বদা সেগুলোকেই আঁকড়ে থাকে। তিনি রায় দিয়ে জবাব দেননি। যে জিনিস নিয়ে তারা গর্ব করছিল, সেটা নিয়েই প্রশ্ন করেছেন: তোমরা যখন ডাকো, ওরা কি তোমাদের কথা শোনে? যে ডাক কোনো কানে পৌঁছায় না, সেটা ইবাদত নয়, পাথরের কাছে কথা খরচ করা মাত্র। এ প্রশ্নের জবাব দিতে বিদ্যা লাগে না। শুধু জানতে চাওয়া হচ্ছে, যাকে ডাকা হচ্ছে সে ডাকটা পায় কি না। সৎভাবে জবাব দিলেই সব মীমাংসা হয়ে যায়। প্রশ্নটা আজও পথ চলে। ভয়ে বা অভাবে আমি যার দিকে ফিরি, সে কি আদৌ আমার কথা শোনে? আর যিনি প্রতিটি ডাক শোনেন, ছোটখাটো জিনিসের উপর যত সহজে ভর দিই, তাঁকে কি তত সহজে ডাকি?",
+    "pointsEn": [
+      "When I am in real need, what do I turn to first, and can it actually hear me?",
+      "What do I keep doing devotedly that I have never once asked to justify itself?",
+      "If someone asked why I trust what I trust, would my answer be a reason or only a habit?",
+      "How often do I call on the One who hears every call, compared with how often I lean on what cannot?",
+      "Can I put a hard question to someone as plainly and calmly as Ibrahim did, and let the question do the work?"
+    ],
+    "pointsBn": [
+      "সত্যিকারের প্রয়োজনে আমি সবার আগে কিসের দিকে ফিরি? সেটা কি আসলেই আমার কথা শুনতে পায়?",
+      "কোন কাজ আমি নিষ্ঠার সঙ্গে করেই যাচ্ছি, অথচ একবারও জিজ্ঞেস করিনি তার পক্ষে যুক্তি কী?",
+      "কেউ যদি জানতে চায় আমি যাতে ভরসা করি কেন করি, আমার জবাব কি কোনো যুক্তি হবে, নাকি শুধু অভ্যাস?",
+      "যিনি প্রতিটি ডাক শোনেন, তাঁকে আমি কতবার ডাকি? আর যা শুনতে পায় না, তার উপর কতবার ভর দিই?",
+      "ইবরাহীম (আঃ)-এর মতো শান্ত আর সোজা ভাষায় কাউকে কঠিন প্রশ্ন করে প্রশ্নটাকেই কাজ করতে দিতে পারি কি?"
+    ],
+    "lessonEn": "Before you call on anything, ask whether it can hear you, and turn your calling to the One who hears every call.",
+    "lessonBn": "কোনো কিছুকে ডাকার আগে জিজ্ঞেস করুন, সে আপনার ডাক শোনে কি না। আর আপনার ডাক ফিরিয়ে দিন তাঁর দিকে, যিনি প্রতিটি ডাক শোনেন।"
   }
 };
 
