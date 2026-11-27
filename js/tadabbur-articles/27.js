@@ -3199,6 +3199,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:66": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Steps Down, Each a Rather",
+          "bn": "তিন ধাপের নামা, প্রতিটিতে 'বরং'"
+        },
+        "p": [
+          {
+            "en": "Bal iddaraka ʿilmuhum fi al-akhirah; bal hum fi shakkin minha; bal hum minha ʿamun: rather, their knowledge of the Hereafter has run its course; rather, they are in doubt about it; rather, they are blind to it. Fourteen Arabic words make three clauses, and each clause opens with bal, the particle that turns from what was just said to something further. The verse does not argue with the deniers here. It describes their condition, and each description reaches below the last.",
+            "bn": "বালিদ্দারাকা ইলমুহুম ফিল আখিরাহ; বাল হুম ফী শাক্কিম মিনহা; বাল হুম মিনহা আমূন: বরং আখিরাত নিয়ে তাদের জ্ঞান শেষ সীমায় ঠেকেছে; বরং তারা এ নিয়ে সন্দেহে আছে; বরং এ ব্যাপারে তারা অন্ধ। আরবিতে মাত্র চৌদ্দটি শব্দ, তাতে তিনটি বাক্য। প্রতিটি বাক্যের শুরুতে 'বাল', যে শব্দ আগের কথা থেকে মুখ ফিরিয়ে আরও এক ধাপ এগিয়ে যায়। আয়াতটি এখানে অস্বীকারকারীদের সঙ্গে তর্ক করছে না। সে তাদের অবস্থার বর্ণনা দিচ্ছে, আর প্রতিটি বর্ণনা আগেরটার চেয়ে এক ধাপ নিচে নামে।"
+          },
+          {
+            "en": "The verse follows directly on a command to the Prophet ﷺ in 27:65: say that none in the heavens and the earth knows the unseen except Allah, and they do not perceive when they will be raised. Ibn Kathir, in the abridged English, reads that as an absolute exception: Allah alone knows the unseen, with no partner in that knowledge The Muyassar explains the two verses together as one passage. So 27:66 begins where human knowledge has just been shown its edge.",
+            "bn": "ঠিক আগের আয়াতে, ২৭:৬৫-এ, নবী ﷺ-কে বলতে বলা হয়েছে: আকাশ ও পৃথিবীতে যারা আছে, আল্লাহ ছাড়া তাদের কেউ গায়েব জানে না, আর তারা টেরও পায় না কখন তাদের ওঠানো হবে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর একে পূর্ণাঙ্গ ব্যতিক্রম হিসেবে পড়ে। গায়েবের জ্ঞান কেবল আল্লাহর, এতে তাঁর কোনো শরিক নেই। মুয়াসসার দুটি আয়াতকে এক সঙ্গে একটি অংশ হিসেবে ব্যাখ্যা করে। তাই ২৭:৬৬ শুরু হয় ঠিক সেখান থেকে, যেখানে মানুষের জ্ঞানকে এইমাত্র তার সীমা দেখিয়ে দেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Iddaraka or Adraka",
+          "bn": "ইদ্দারাকা, নাকি আদরাকা"
+        },
+        "p": [
+          {
+            "en": "The first verb has several readings, and the commentators record who read what. Al-Qurtubi gives iddaraka as the reading of most people, among them ʿAsim, Shaybah, Nafiʿ, al-Aʿmash, Hamzah and al-Kisaʾi. He gives adraka, the verb to reach, as the reading of Abu Jaʿfar, Ibn Kathir the reciter, Abu ʿAmr and Humayd; al-Baghawi names the first three of those for it. At-Tabari assigns iddaraka to the readers of Kufah and most of Madinah, and adraka to those of Makkah and Basrah.",
+            "bn": "প্রথম ক্রিয়াটি একাধিকভাবে পড়া হয়, আর কে কোনটা পড়েছেন তা তাফসীরকারেরা লিখে রেখেছেন। কুরতুবী বলেন, ইদ্দারাকা অধিকাংশের পাঠ। তাঁদের মধ্যে আছেন আসিম, শাইবা, নাফি', আ'মাশ, হামযা ও কিসাঈ। আর আদরাকা, অর্থাৎ পৌঁছানো ক্রিয়া, পড়েছেন আবু জা'ফর, কারী ইবন কাসীর, আবু আমর ও হুমাইদ। বাগাভী এর জন্য এঁদের প্রথম তিনজনের নাম দেন। তাবারীর হিসাবে ইদ্দারাকা কুফা ও মদীনার অধিকাংশ কারীর পাঠ, আর আদরাকা মক্কা ও বসরার কারীদের।"
+          },
+          {
+            "en": "At-Tabari's verdict is generous. Both are the well-known readings of the reciters of the great cities, he says, and whichever a reader follows, he is right. Two others he sets aside. Ibn ʿAbbas, by a chain through Shuʿbah from Abu Hamzah, read bala a-ddaraka: a ya added to bal and the verb voiced as a question, meaning their knowledge did not reach it. At-Tabari grants that it is sound in meaning and grammar, and adds that Ibn ʿAbbas seems to have meant it as mockery of those who deny the raising.",
+            "bn": "তাবারীর রায় উদার। তিনি বলেন, দুটিই বড় শহরগুলোর কারীদের সুপরিচিত পাঠ, যে কোনোটা পড়লেই পাঠক সঠিক। অন্য দুটি পাঠ তিনি সরিয়ে রাখেন। ইবন আব্বাস (রাঃ) শু'বা থেকে আবু হামযা হয়ে আসা সূত্রে পড়েছেন বালা আদ্দারাকা। 'বাল'-এর সঙ্গে একটি ইয়া যোগ হয়েছে, আর ক্রিয়াটি পড়া হয়েছে প্রশ্নের সুরে, যার মানে তাদের জ্ঞান সেখানে পৌঁছায়নি। তাবারী মানেন, অর্থ ও ব্যাকরণে এ পাঠ নির্ভুল। তিনি এও বলেন, ইবন আব্বাস সম্ভবত এর দ্বারা পুনরুত্থান অস্বীকারকারীদের প্রতি বিদ্রূপ বোঝাতে চেয়েছেন।"
+          },
+          {
+            "en": "Still, at-Tabari will not adopt it, because the extra letter is not in the copies of the Muslims and no reader of the cities read it so. The other reading he sets aside is Ibn Muhaysin's, voiced as a plain question. Abu ʿAmr ibn al-ʿAlaʾ rejected it, and at-Tabari agrees, for a reason that matters to the whole verse: the Arabs use bal to affirm what follows it, not to deny it, while a question here would deny. Al-Qurtubi, relaying a list from az-Zamakhshari, counts twelve readings in all.",
+            "bn": "তবু তাবারী এ পাঠ গ্রহণ করেন না, কারণ বাড়তি হরফটি মুসলিমদের মুসহাফে নেই, আর শহরগুলোর কোনো কারী এভাবে পড়েননি। আরেকটি যে পাঠ তিনি সরিয়ে রাখেন, তা ইবন মুহাইসিনের, সরাসরি প্রশ্ন হিসেবে পড়া। আবু আমর ইবনুল আলা এ পাঠ প্রত্যাখ্যান করেছেন, তাবারীও তাঁর সঙ্গে একমত। কারণটা গোটা আয়াত বোঝার জন্য জরুরি। আরবরা 'বাল' ব্যবহার করে পরের কথাকে প্রতিষ্ঠা করতে, নাকচ করতে নয়। অথচ এখানে প্রশ্নের সুর হতো নাকচের। কুরতুবী যামাখশারীর একটি তালিকা উদ্ধৃত করে মোট বারোটি পাঠ গুনেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing When It No Longer Helps",
+          "bn": "যখন জেনে আর লাভ নেই"
+        },
+        "p": [
+          {
+            "en": "The first family of meanings takes the verb as arrival. Al-Baghawi explains adraka as reaching and catching up: what they did not know in this world they will know in the Hereafter. Al-Qurtubi and al-Baghawi both relay Mujahid: their knowledge reaches it in the Hereafter, and they know it when they see it, when their knowledge no longer benefits them. At-Tabari gives the same through ʿAtaʾ al-Khurasani from Ibn ʿAbbas: their sight in the Hereafter, when knowledge and sight did not benefit them.",
+            "bn": "অর্থের প্রথম ধারাটি ক্রিয়াটিকে পৌঁছানো অর্থে নেয়। বাগাভী আদরাকা ব্যাখ্যা করেন নাগাল পাওয়া ও ধরে ফেলা হিসেবে। দুনিয়াতে তারা যা জানত না, আখিরাতে তা জানবে। কুরতুবী ও বাগাভী দুজনেই মুজাহিদের কথা আনেন: আখিরাতে তাদের জ্ঞান সেখানে পৌঁছাবে, চোখে দেখার পর তারা তা জানবে, কিন্তু তখন সে জ্ঞান তাদের কোনো কাজে আসবে না। তাবারী একই কথা আনেন আতা আল-খুরাসানীর সূত্রে ইবন আব্বাস (রাঃ) থেকে: আখিরাতে তাদের দৃষ্টি খুলবে, যখন জ্ঞান আর দৃষ্টি কোনোটাই তাদের উপকারে আসেনি।"
+          },
+          {
+            "en": "Ibn Kathir records this as the view of ʿAtaʾ al-Khurasani and as-Suddi too: their knowledge is reached and made complete only on the Day of Resurrection, where it does not help them. He sets beside it 19:38: how well they will hear and see on the Day they come to Us. The Muyassar takes only this line: their knowledge became complete in the Hereafter, and they were certain of it and its terrors once they saw it, having been in doubt about it in the world.",
+            "bn": "ইবন কাসীর জানান, আতা আল-খুরাসানী ও সুদ্দীরও এই মত: তাদের জ্ঞান নাগাল পাবে আর পূর্ণ হবে কেবল কিয়ামতের দিন, যখন তা তাদের কোনো উপকার করবে না। এর পাশে তিনি রাখেন ১৯:৩৮: যেদিন তারা আমার কাছে আসবে, সেদিন তারা কত স্পষ্ট শুনবে আর দেখবে! মুয়াসসার কেবল এ পথেই চলে। তার ব্যাখ্যায়, আখিরাতে তাদের জ্ঞান পূর্ণ হলো। চোখে দেখার পর আখিরাত আর তার বিভীষিকা নিয়ে তারা নিশ্চিত হলো, অথচ দুনিয়াতে এ নিয়েই তারা ছিল সন্দেহে।"
+          },
+          {
+            "en": "At-Tabari prefers this meaning for the reading adraka, as the most evident, and shows how it hangs on 27:65. Something is left unsaid, he explains, because what is said makes it plain: they do not perceive when they will be raised; rather, they will perceive it in the Hereafter, when it will not help them; in this world they are in doubt about it.",
+            "bn": "আদরাকা পাঠের ক্ষেত্রে তাবারী এই অর্থটিকেই প্রাধান্য দেন, কারণ এটাই সবচেয়ে স্পষ্ট। তিনি দেখান, এটি কীভাবে ২৭:৬৫-এর সঙ্গে জোড়া। তাঁর ব্যাখ্যায়, এখানে কিছু কথা উহ্য, কারণ উচ্চারিত কথাই তা বুঝিয়ে দেয়। পুরো অর্থ দাঁড়ায় এমন: কখন তাদের ওঠানো হবে, তারা টের পায় না; বরং আখিরাতে তা টের পাবে, যখন তাতে লাভ নেই; আর দুনিয়াতে তারা এ নিয়ে সন্দেহে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowledge That Went Missing",
+          "bn": "যে জ্ঞান হারিয়ে গেল"
+        },
+        "p": [
+          {
+            "en": "The second family takes the verb as loss. At-Tabari relays, through ʿAli ibn Abi Talhah from Ibn ʿAbbas, a single word: their knowledge was absent. Ibn Zayd says their knowledge strayed regarding the Hereafter, so they have no knowledge of it at all. Qatadah read adraka and explained it: no knowledge of it reached them, and no longing for it goes out from them. Ibn Kathir's own first gloss stands close by: their knowledge came to its end and was powerless to know the Hour's time.",
+            "bn": "দ্বিতীয় ধারাটি ক্রিয়াটিকে হারানো অর্থে নেয়। তাবারী আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) থেকে একটিমাত্র শব্দ আনেন: তাদের জ্ঞান অনুপস্থিত হয়ে গেছে। ইবন যায়দ বলেন, আখিরাতের বিষয়ে তাদের জ্ঞান পথ হারিয়েছে, তাই এ ব্যাপারে তাদের কিছুই জানা নেই। কাতাদা আদরাকা পড়তেন, আর ব্যাখ্যা করতেন এভাবে: সেখানে তাদের কোনো জ্ঞান পৌঁছায়নি, আর সেদিকে তাদের কোনো আগ্রহও যায় না। ইবন কাসীরের নিজের প্রথম ব্যাখ্যাও কাছাকাছি: তাদের জ্ঞান শেষ সীমায় এসে থেমে গেছে, কিয়ামতের সময় জানতে তা অক্ষম।"
+          },
+          {
+            "en": "Mujahid himself comes down two ways. Al-Qurtubi and al-Baghawi give him the meaning of knowledge that arrives too late. At-Tabari's chains give him something else: he read am in place of bal and asked, from where would their knowledge reach it? The expected answer: it does not. At-Tabari uses this for the reading iddaraka. With bal standing for am, as Arabs allow when a question opens the speech, the sense is that their knowledge did not follow through, but went missing and astray, and never reached it.",
+            "bn": "মুজাহিদের কথা আমাদের কাছে এসেছে দুইভাবে। কুরতুবী ও বাগাভী তাঁর নামে আনেন দেরিতে পৌঁছানো জ্ঞানের অর্থ। তাবারীর সনদগুলো তাঁর নামে আনে ভিন্ন কিছু। তিনি 'বাল'-এর জায়গায় 'আম' পড়তেন আর বলতেন: তাদের জ্ঞান কোথা থেকে সেখানে পৌঁছাবে? প্রশ্নটির উত্তর: পৌঁছায় না। ইদ্দারাকা পাঠের জন্য তাবারী এ ব্যাখ্যাই নেন। কথার শুরুতে প্রশ্ন থাকলে আরবরা 'বাল'-কে 'আম'-এর অর্থে ব্যবহার করে। তখন অর্থ দাঁড়ায়, তাদের জ্ঞান শেষ পর্যন্ত যায়নি। বরং হারিয়ে গেছে, পথ ভুলেছে, কখনো সেখানে পৌঁছায়নি।"
+          },
+          {
+            "en": "Al-Qurtubi adds Abu Ishaq, who took the verb as denial, their knowledge did not reach knowledge of the Hereafter, and argued for it from the verse's own close: rather, they are blind to it. Others, he notes, said simply that their knowledge strayed and vanished. Ma'arif al-Qur'an sums up this side: their knowledge about the Hereafter was lost, and they could not understand what it was. The two families pull opposite ways, toward a knowledge that comes too late and a knowledge that never came, and the sources leave both standing.",
+            "bn": "কুরতুবী আবু ইসহাকের মতও আনেন। তিনি ক্রিয়াটিকে নাকচের অর্থে নিয়েছেন: আখিরাতের জ্ঞান পর্যন্ত তাদের জ্ঞান পৌঁছায়নি। এর পক্ষে তিনি প্রমাণ টানেন আয়াতের শেষ অংশ থেকে: বরং এ ব্যাপারে তারা অন্ধ। কুরতুবী আরও জানান, কেউ কেউ সোজাসুজি বলেছেন, তাদের জ্ঞান পথ হারিয়ে উধাও হয়ে গেছে। মাআরিফুল কুরআন এ পক্ষের সারকথা বলে: আখিরাত নিয়ে তাদের জ্ঞান হারিয়ে গিয়েছিল, তা কী, তারা বুঝতে পারেনি। দুই ধারা দুই দিকে টানে। একটি দেরিতে আসা জ্ঞানের দিকে, অন্যটি কখনো না আসা জ্ঞানের দিকে। উৎসগুলো দুটিকেই দাঁড় করিয়ে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Mind Saying Yes, Then No",
+          "bn": "কখনো হ্যাঁ, কখনো না"
+        },
+        "p": [
+          {
+            "en": "Iddaraka carries a further shade of its own. At-Tabari explains its form: underneath is tadaraka, its first consonant merged into the next, as in iththaqaltum in 9:38. Tadaraka means to follow on in succession, and his gloss is that their knowledge of the Hereafter followed on itself over whether it will be or not. Al-Qurtubi, through an-Nahhas, gives the same sense: their knowledge today ran on and on about the Hereafter, so they said it will be, and they said it will not be.",
+            "bn": "ইদ্দারাকার আরেকটি নিজস্ব রং আছে। তাবারী শব্দটির গঠন খুলে বলেন: মূলে আছে তাদারাকা, যার প্রথম ব্যঞ্জন পরেরটির সঙ্গে মিশে গেছে, যেমন ৯:৩৮-এ ইছছাকালতুম। তাদারাকা মানে একটির পর একটি আসতে থাকা। তাবারীর ব্যাখ্যায়, আখিরাত হবে কি হবে না, এ নিয়ে তাদের জ্ঞান একের পর এক ঘুরপাক খেয়েছে। কুরতুবী নাহহাসের সূত্রে একই অর্থ আনেন: আজ আখিরাত নিয়ে তাদের জ্ঞান চলছে তো চলছেই। তাই তারা বলেছে, হবে। আবার বলেছে, হবে না।"
+          },
+          {
+            "en": "Al-Baghawi gives the same cluster of verbs: to follow, to come in succession. He adds, as it is said, a view that their knowledge came together on the Hereafter being real while they doubted its time. The picture is recognisable. It is not plain ignorance but a knowing that circles, admits, retracts and admits again, never settling into certainty; the second clause names what such circling leaves behind: rather, they are in doubt about it.",
+            "bn": "বাগাভীও একই ক্রিয়াগুলো পাশাপাশি রাখেন: অনুসরণ করা, পরপর আসা। 'বলা হয়' বলে তিনি আরেকটি মত আনেন: আখিরাত যে সত্য, তাতে তাদের জ্ঞান একত্র হয়েছিল, কিন্তু তার সময় নিয়ে তারা সন্দেহে ছিল। মনের এই ছবিটা আমাদের চেনা। এ নিছক অজ্ঞতা নয়। এ এমন জানা, যা ঘুরে ঘুরে আসে, মেনে নেয়, আবার ফিরিয়ে নেয়, আবার মেনে নেয়, কিন্তু কখনো নিশ্চিত বিশ্বাসে থিতু হয় না। এই ঘুরপাক শেষে কী রেখে যায়, আয়াতের দ্বিতীয় বাক্য তার নাম বলে দেয়: বরং তারা এ নিয়ে সন্দেহে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked No Wiser Than the Asker",
+          "bn": "প্রশ্নকারীর চেয়ে বেশি জানেন না"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir records one more sense of adraka: their knowledge is equal in this, everyone alike. He illustrates it from Sahih Muslim. Muslim records, from ʿUmar ibn al-Khattab (may Allah be pleased with him), that a stranger in very white clothes sat before the Prophet ﷺ, asked about Islam, faith and excellence, then said: \"Inform me about the Hour.\" He said: \"One who is asked knows no more than the one who is inquiring about it.\" The Prophet ﷺ later told ʿUmar that the questioner was Jibril.",
+            "bn": "ইবন কাসীর আদরাকার আরও একটি অর্থ আনেন: এ ব্যাপারে সবার জ্ঞান সমান। এর দৃষ্টান্ত তিনি দেন সহীহ মুসলিম থেকে। ইমাম মুসলিম উমর ইবনুল খাত্তাব (রাঃ) থেকে বর্ণনা করেন, ধবধবে সাদা পোশাকের এক অচেনা লোক নবী ﷺ-এর সামনে এসে বসল। সে ইসলাম, ঈমান ও ইহসান সম্পর্কে প্রশ্ন করল, তারপর বলল: \"আমাকে কিয়ামত সম্পর্কে বলুন।\" তিনি বললেন: \"যাকে জিজ্ঞেস করা হচ্ছে, সে প্রশ্নকারীর চেয়ে বেশি জানে না।\" পরে নবী ﷺ উমরকে জানালেন, প্রশ্নকারী ছিলেন জিবরীল।"
+          },
+          {
+            "en": "The report stands in Muslim's Sahih as hadith 8. Ibn Kathir's point is that asker and asked were equal in being unable to reach the Hour's time. The hadith is not about this verse and is not its occasion; he uses it to light up one reading. No source fetched for this verse attaches a sound hadith to it, and none gives a cause of revelation. Al-Baghawi reaches the idea of equality from another side: when they are raised, their knowledge of the Hereafter will be level, though in this world it differed.",
+            "bn": "বর্ণনাটি সহীহ মুসলিমে ৮ নম্বর হাদীস হিসেবে আছে। ইবন কাসীর যা বোঝাতে চান: কিয়ামতের সময় জানার ব্যাপারে প্রশ্নকারী আর যাঁকে প্রশ্ন করা হয়েছে, দুজনেই সমান অক্ষম। হাদীসটি এ আয়াত নিয়ে নয়, আয়াত নাজিলের উপলক্ষও নয়। একটি পাঠ বোঝাতে তিনি এটি ব্যবহার করেছেন। এ আয়াতের জন্য যেসব উৎস সংগ্রহ করা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো সহীহ হাদীস জোড়ে না, নাজিলের কোনো কারণও বলে না। বাগাভী অন্য দিক থেকে সমতার ধারণায় পৌঁছান: পুনরুত্থানের পর আখিরাত নিয়ে তাদের সবার জ্ঞান সমান হবে, যদিও দুনিয়াতে তা ছিল নানা রকম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Frail Knowing to Blindness",
+          "bn": "দুর্বল জানা থেকে অন্ধত্বে"
+        },
+        "p": [
+          {
+            "en": "As-Saʿdi reads the three clauses as a descent. Iddaraka, he says, means their knowledge weakened and dwindled: it was not certainty, not a knowledge that had reached the heart, and that is the lowest and frailest rank knowledge can hold. Then the next bal goes further down: rather, they have no knowledge at all, strong or weak, but are in doubt. Doubt removes knowledge, he explains, because knowledge at any of its ranks cannot sit together with doubt.",
+            "bn": "সা'দী তিনটি বাক্যকে পড়েন ধাপে ধাপে নেমে যাওয়া হিসেবে। তাঁর মতে ইদ্দারাকা মানে তাদের জ্ঞান দুর্বল হয়ে কমে গেছে। তা দৃঢ় বিশ্বাস ছিল না, অন্তর পর্যন্ত পৌঁছানো জ্ঞানও ছিল না। জ্ঞানের এটাই সবচেয়ে নিচু আর সবচেয়ে নড়বড়ে স্তর। তারপর পরের 'বাল' আরও নিচে নামে: বরং তাদের কাছে সবল বা দুর্বল কোনো জ্ঞানই নেই, আছে কেবল সন্দেহ। সা'দী বুঝিয়ে বলেন, সন্দেহ জ্ঞানকে মুছে দেয়, কারণ জ্ঞান তার কোনো স্তরেই সন্দেহের সঙ্গে একসাথে থাকতে পারে না।"
+          },
+          {
+            "en": "Then the last step: rather, they are blind to it. Their inner sight has gone blind to the Hereafter, as-Saʿdi says, so that its coming held not even a possibility in their hearts; they denied it and thought it remote. Ibn Kathir explains the doubt as doubting that it exists and will happen, and the blindness as deep blindness and ignorance about its whole affair. Al-Qurtubi places the doubt in this world and the blindness in their hearts, and al-Baghawi defines ʿamun as the blind of heart.",
+            "bn": "তারপর শেষ ধাপ: বরং এ ব্যাপারে তারা অন্ধ। সা'দী বলেন, আখিরাতের প্রতি তাদের অন্তর্দৃষ্টি অন্ধ হয়ে গেছে। তা যে ঘটতে পারে, এ সম্ভাবনাটুকুও তাদের অন্তরে ছিল না। তারা একে অস্বীকার করেছে, অসম্ভব রকম দূরের ব্যাপার মনে করেছে। ইবন কাসীরের ব্যাখ্যায়, সন্দেহ মানে আখিরাত আছে কি না আর ঘটবে কি না, তা নিয়ে সংশয়। আর অন্ধত্ব মানে তার পুরো ব্যাপারে গভীর অন্ধকার আর অজ্ঞতা। কুরতুবী সন্দেহকে রাখেন দুনিয়াতে, অন্ধত্বকে তাদের অন্তরে। বাগাভীর সংজ্ঞায় আমূন মানে অন্তরের অন্ধ।"
+          },
+          {
+            "en": "Who are they? At-Tabari says: these polytheists who ask you about the Hour, in doubt of its coming, not believing they will be raised after death. Ibn Kathir takes the pronoun as the whole kind, meaning the disbelievers, and compares 18:48, where those set before their Lord in rows are told: rather, you claimed We would never appoint a meeting for you. Al-Baghawi relays ʿAli ibn ʿIsa, who hears bal here as if: had they grasped in this world what they will grasp in the next, they would not have doubted.",
+            "bn": "তারা কারা? তাবারী বলেন, এরা সেই মুশরিকরা, যারা আপনাকে কিয়ামত সম্পর্কে জিজ্ঞেস করে। তার আগমন নিয়ে তারা সন্দেহে, মৃত্যুর পর ওঠানো হবে, এ কথা তারা মানে না। ইবন কাসীর সর্বনামটিকে পুরো শ্রেণি অর্থে নেন, অর্থাৎ কাফিররা। তুলনা করেন ১৮:৪৮-এর সঙ্গে, যেখানে সারি বেঁধে রবের সামনে দাঁড় করানো লোকদের বলা হবে: বরং তোমরা ভেবেছিলে, আমি তোমাদের জন্য কোনো নির্ধারিত সাক্ষাৎ রাখিনি। বাগাভী আলী ইবন ঈসার মত আনেন, যিনি এখানে 'বাল'-কে 'যদি' অর্থে নেন: দুনিয়াতে যদি তারা বুঝত যা আখিরাতে বুঝবে, তবে সন্দেহ করত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Letting It Arrive in Time",
+          "bn": "সময় থাকতে পৌঁছাতে দিন"
+        },
+        "p": [
+          {
+            "en": "A word of care first. The verse describes what the text describes, in people at-Tabari identifies as the polytheists who questioned the Prophet ﷺ about the Hour. It licenses nothing against any living person or community, and gives no one the right to call a neighbour blind of heart. Its use is inward. Doubt and blindness about the Hereafter are not only positions argued aloud; they can sit quietly inside a believer, as a knowledge that never reaches the heart, which is the frailest rank as-Saʿdi names.",
+            "bn": "আগে একটা সতর্কতার কথা। আয়াতটি কেবল সেটুকুই বর্ণনা করে, যা তার শব্দে আছে, আর তাবারী তাদের চিহ্নিত করেন সেই মুশরিক হিসেবে, যারা নবী ﷺ-কে কিয়ামত নিয়ে প্রশ্ন করত। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কাউকে অন্তরের অন্ধ বলে দাগিয়ে দেওয়ার অধিকারও কাউকে দেয় না। এর কাজ ভেতরের দিকে। আখিরাত নিয়ে সন্দেহ আর অন্ধত্ব কেবল মুখে তর্ক করা মত নয়। মুমিনের ভেতরেও তা চুপচাপ বসে থাকতে পারে, এমন জ্ঞান হয়ে, যা কখনো অন্তরে পৌঁছায় না। সা'দী একেই বলেন জ্ঞানের সবচেয়ে নড়বড়ে স্তর।"
+          },
+          {
+            "en": "Both families of meaning leave a lesson, whichever is right. If the knowledge arrives in the Hereafter too late, the task is to let it arrive now, while it can still change a life. If the knowledge went missing, the task is to go looking for it, in the signs that 27:60 to 27:64 have just set out: rain and gardens, rivers and mountains, the answered cry, guidance in the dark, provision from sky and earth. Each of those verses asks whether there is a god beside Allah.",
+            "bn": "কোন অর্থটি ঠিক, তার মীমাংসার অপেক্ষা না করেও দুই ধারা থেকে শিক্ষা নেওয়া যায়। জ্ঞান যদি আখিরাতে দেরিতে আসে, তবে কাজ হলো তাকে এখনই আসতে দেওয়া, যখন সে জীবন বদলাতে পারে। আর জ্ঞান যদি হারিয়ে গিয়ে থাকে, তবে কাজ হলো তাকে খুঁজতে বেরোনো। খোঁজার জায়গা সেই নিদর্শনগুলো, যা ২৭:৬০ থেকে ২৭:৬৪ এইমাত্র সামনে রেখেছে: বৃষ্টি আর বাগান, নদী আর পাহাড়, বিপন্নের ডাকে সাড়া, অন্ধকারে পথ দেখানো, আকাশ ও পৃথিবী থেকে রিযক। ওই প্রতিটি আয়াতে আছে একই প্রশ্ন: আল্লাহর সঙ্গে আর কোনো ইলাহ আছে কি?"
+          },
+          {
+            "en": "And the Hour's time stays hidden, even from the Prophet ﷺ when Jibril asked him about it. So the sound response to this verse is readiness, not calculation. The descent it describes, from frail knowing to doubt to blindness, can be climbed the other way too: from blindness to looking, from looking to certainty, and from certainty to a life that expects to be raised. The deniers will know everything on that Day. The mercy in the verse is that it tells us so while knowing still helps.",
+            "bn": "আর কিয়ামতের সময় গোপনই থাকে, এমনকি জিবরীল যখন নবী ﷺ-কে এ নিয়ে প্রশ্ন করেছিলেন, তখন তাঁর কাছেও। তাই এ আয়াতের সঠিক জবাব হিসাব কষা নয়, প্রস্তুত থাকা। আয়াতটি যে নিচে নামার বর্ণনা দেয়, দুর্বল জানা থেকে সন্দেহে, সন্দেহ থেকে অন্ধত্বে, সে সিঁড়ি উল্টো দিকেও বেয়ে ওঠা যায়। অন্ধত্ব থেকে তাকানোয়, তাকানো থেকে স্থির বিশ্বাসে, বিশ্বাস থেকে এমন জীবনে, যে জানে তাকে আবার ওঠানো হবে। অস্বীকারকারীরা সেদিন সবই জানবে। আয়াতের রহমত এখানেই, কথাটা সে আমাদের জানিয়ে দেয় এমন সময়ে, যখন জানা এখনো কাজে আসে।"
+          }
+        ]
+      }
+    ]
+  },
   "27:67": {
     "sections": [
       {

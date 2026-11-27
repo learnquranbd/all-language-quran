@@ -35913,6 +35913,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you know harm is coming to someone, go to them quickly and tell them plainly, for their sake alone; and when a sincere voice warns you, listen and act.",
     "lessonBn": "কারও ক্ষতি আসছে জানলে দ্রুত তার কাছে যান, শুধু তার ভালোর জন্য সোজা কথায় জানিয়ে দিন। আর কেউ আন্তরিকভাবে সতর্ক করলে শুনুন, সে অনুযায়ী কাজ করুন।"
+  },
+  "27:66": {
+    "reflectionEn": "The surah has just said that none in the heavens and earth knows the unseen except Allah. Now it turns to those who deny the raising and steps down three times, each step opening with rather. Their knowledge of the Hereafter has run out. Rather, they are in doubt about it. Rather, they are blind to it. One reading hears in the first clause a knowledge that will arrive in full, but only when the Hereafter is seen and knowing can no longer help. Certainty is coming to everyone; the question is whether it comes in time. So I ask what I truly know of the Hour, whether a doubt has been left to settle in me, and whether my eyes are open to it today.",
+    "reflectionBn": "সূরাটি এইমাত্র বলেছে, আকাশ ও পৃথিবীতে আল্লাহ ছাড়া কেউ গায়েব জানে না। এবার সে ফেরে পুনরুত্থান অস্বীকারকারীদের দিকে, আর তিন ধাপে নিচে নামে। প্রতিটি ধাপ শুরু হয় 'বরং' দিয়ে। আখিরাত নিয়ে তাদের জ্ঞান ফুরিয়ে গেছে। বরং তারা এ নিয়ে সন্দেহে আছে। বরং এ ব্যাপারে তারা অন্ধ। এক পাঠে প্রথম বাক্যটির অর্থ দাঁড়ায় এমন জ্ঞান, যা পুরোপুরি আসবে ঠিকই, তবে তখন, যখন আখিরাত চোখের সামনে আর জেনে আর কোনো লাভ নেই। নিশ্চিত জ্ঞান সবার কাছেই আসবে। আসল প্রশ্ন হলো, তা সময় থাকতে আসবে কি না। তাই নিজেকে জিজ্ঞেস করি: কিয়ামত সম্পর্কে আমি আসলে কতটুকু জানি? কোনো সন্দেহ কি আমার ভেতরে চুপচাপ বাসা বেঁধেছে? আর আজ কি আমার চোখ সেদিকে খোলা?",
+    "pointsEn": [
+      "If certainty about the Hereafter will reach everyone in the end, what would change in my week if I let it reach me now?",
+      "Is what I know of the Hereafter something that has reached my heart, or facts I can recite without being moved by them?",
+      "Where have I let a doubt sit unexamined because looking at it closely felt inconvenient?",
+      "When I cannot know when something will come, does that make me careless about it or more prepared?",
+      "Which reminders around me do I pass with open eyes but a closed heart?"
+    ],
+    "pointsBn": [
+      "আখিরাতের নিশ্চিত জ্ঞান যদি শেষমেশ সবার কাছেই পৌঁছায়, তবে এখনই তা নিজের কাছে পৌঁছাতে দিলে আমার এ সপ্তাহটা কেমন বদলে যেত?",
+      "আখিরাত নিয়ে আমি যা জানি, তা কি অন্তরে পৌঁছেছে? নাকি তা কিছু তথ্য, যা মুখস্থ বলতে পারি কিন্তু মনে কোনো দাগ কাটে না?",
+      "কোন সন্দেহটা আমি ঘেঁটে দেখিনি, শুধু এ কারণে যে খুঁটিয়ে দেখাটা ঝামেলার মনে হয়েছে?",
+      "কোনো কিছু কখন আসবে তা জানা না থাকলে আমি কি তা নিয়ে উদাসীন হয়ে পড়ি, নাকি আরও বেশি প্রস্তুত থাকি?",
+      "চারপাশের কোন কোন স্মরণ-জাগানো জিনিসের পাশ দিয়ে আমি চোখ খোলা রেখে, কিন্তু মন বন্ধ রেখে হেঁটে যাই?"
+    ],
+    "lessonEn": "Certainty about the Hereafter will come to everyone, but only knowledge that arrives in time can help; let it reach your heart now, not on the Day it is seen.",
+    "lessonBn": "আখিরাতের নিশ্চিত জ্ঞান সবার কাছেই আসবে, কিন্তু কাজে লাগে কেবল সময় থাকতে আসা জ্ঞান। তাই যেদিন তা চোখে দেখা যাবে সেদিনের অপেক্ষা না করে আজই তাকে অন্তরে পৌঁছাতে দিন।"
   }
 };
 
