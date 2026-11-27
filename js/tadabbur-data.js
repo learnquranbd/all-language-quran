@@ -34263,6 +34263,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Seek companions who help you remember Allah more, and be that companion for them; the best partnership is the one that multiplies remembrance.",
     "lessonBn": "এমন সঙ্গী খুঁজুন, যারা আপনাকে আল্লাহকে বেশি স্মরণ করতে সাহায্য করে, আর আপনিও তাদের জন্য তেমন সঙ্গী হোন। সবচেয়ে ভালো সঙ্গ সেটাই, যা জিকির বাড়িয়ে দেয়।"
+  },
+  "20:56": {
+    "reflectionEn": "Pharaoh was not short of evidence. Allah says He showed him His signs, all of them: shown before his eyes, not merely reported to him. And still he denied and refused. Two verbs, two failures: he called the truth a lie, and he would not yield to it. In the very next verse he calls the signs magic and asks for a contest, as if one more round of proof could settle what the proof had already settled. This is no verdict on anyone I know; it tells of one ruler in one story. But it asks me something. When I have already seen enough, do I keep asking for more so that I need not act? And what in me is doing the refusing?",
+    "reflectionBn": "প্রমাণের অভাব ফেরাউনের ছিল না। আল্লাহ বলছেন, তিনি তাকে তাঁর সব নিদর্শন দেখিয়েছিলেন। শুধু শোনানো নয়, চোখের সামনে দেখানো। তবু সে মিথ্যা বলল আর মানতে অস্বীকার করল। দুটি ক্রিয়া, দুটি ব্যর্থতা: সত্যকে সে মিথ্যা বলেছে, আর তার সামনে মাথা নোয়াতে রাজি হয়নি। ঠিক পরের আয়াতেই সে নিদর্শনগুলোকে যাদু বলে আর পাল্টা প্রতিযোগিতা চায়। যেন আরেক দফা প্রমাণ এসে সেই প্রশ্নের মীমাংসা করবে, যার মীমাংসা প্রমাণ আগেই করে দিয়েছে। এ আয়াত আমার চেনা কারও উপর রায় নয়। এ এক কাহিনির এক শাসকের কথা। তবু প্রশ্নটা আমার দিকেও আসে। যথেষ্ট দেখে ফেলার পরও কি আমি আরও প্রমাণ চাইতে থাকি, যাতে কিছু করতে না হয়? আর আমার ভেতরে আসলে কে অস্বীকার করছে?",
+    "pointsEn": [
+      "Is there a truth I already accept in my mind but keep asking more proof for, because acting on it would cost me something?",
+      "When someone shows me I am wrong, what comes first from me: calling the proof weak, or admitting the point?",
+      "Have I ever given a clear thing a dismissive name so that I would not have to answer it?",
+      "Is the reason I hold back a doubt in my reasoning, or a reluctance to give way?",
+      "What would change this week if I acted on what I have already seen instead of waiting for more?"
+    ],
+    "pointsBn": [
+      "এমন কোনো সত্য কি আছে, যা মনে মনে মেনে নিয়েছি, অথচ আরও প্রমাণ চেয়ে যাচ্ছি, কারণ সে অনুযায়ী চলতে গেলে কিছু ছাড়তে হবে?",
+      "কেউ যখন দেখিয়ে দেয় আমি ভুল, আমার মুখ থেকে আগে কী বের হয়: প্রমাণটা দুর্বল, নাকি কথাটা ঠিক?",
+      "স্পষ্ট কোনো জিনিসকে তাচ্ছিল্যের একটা নাম দিয়ে কি কখনো পাশ কাটিয়েছি, যাতে তার জবাব দিতে না হয়?",
+      "আমি যে পিছিয়ে থাকি, তার কারণ কি যুক্তির কোনো সংশয়, নাকি নত হতে না চাওয়া?",
+      "আরও প্রমাণের অপেক্ষা না করে যা দেখেছি সে অনুযায়ী চললে এ সপ্তাহে আমার কী বদলাত?"
+    ],
+    "lessonEn": "Lack of evidence is rarely what keeps a heart from the truth; once you have seen enough, stop asking for more proof and yield to what you already know.",
+    "lessonBn": "প্রমাণের অভাবে মন সত্য থেকে দূরে থাকে, এমন খুব কমই হয়। যথেষ্ট দেখে ফেলার পর আরও প্রমাণ চাওয়া থামান, আর যা জেনেছেন তার সামনে নত হোন।"
   }
 };
 

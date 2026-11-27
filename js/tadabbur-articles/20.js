@@ -2631,6 +2631,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:56": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Narrator Speaks Again",
+          "bn": "বর্ণনায় আবার আল্লাহর কণ্ঠ"
+        },
+        "p": [
+          {
+            "en": "Wa-laqad araynahu ayatina kullaha fa-kadhdhaba wa aba: and We certainly showed him Our signs, all of them, but he denied and refused. Six Arabic words, and the voice has changed. Through the preceding verses Musa (AS) has been answering Pharaoh's question about his Lord, and in the abridged English Ibn Kathir those verses are headed as the completion of Musa's reply. Here the reply ends. Allah Himself now speaks, in the first person plural, and passes judgement on how the whole encounter went.",
+            "bn": "ওয়া লাকাদ আরাইনাহু আয়াতিনা কুল্লাহা ফাকায্যাবা ওয়া আবা: আমি তাকে আমার নিদর্শনগুলো দেখিয়েছিলাম, সবগুলোই, কিন্তু সে মিথ্যা বলল আর অস্বীকার করল। আরবিতে মাত্র ছয়টি শব্দ, অথচ বক্তা বদলে গেছে। আগের আয়াতগুলোতে মূসা (আঃ) ফেরাউনের প্রশ্নের জবাব দিচ্ছিলেন, প্রশ্নটা ছিল তাঁর রবকে নিয়ে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ সেই আয়াতগুলোর শিরোনামই দিয়েছে মূসার জবাবের সমাপ্তি। এখানে এসে জবাব শেষ। এবার আল্লাহ নিজে কথা বলছেন, বহুবচনের সর্বনামে, আর পুরো সাক্ষাতের ফল কী দাঁড়াল তা জানিয়ে দিচ্ছেন।"
+          },
+          {
+            "en": "The opening carries weight. Wa-laqad joins an affirming particle to the word that confirms a completed event, so the sentence reads as a settled fact, not a claim waiting for proof. Araynahu is the causative form of the verb to see: We made him see. The object is ayatina, Our signs, and the sentence then adds kullaha, all of them, as a separate word at the end of the phrase, where it cannot be missed. The emphasis falls on completeness before anything is said of his response.",
+            "bn": "শুরুর শব্দগুলো ভারী। ওয়া লাকাদ-এ দৃঢ়তার একটি অব্যয়ের সঙ্গে যুক্ত হয়েছে এমন শব্দ, যা ঘটে যাওয়া ঘটনাকে পাকা করে। ফলে বাক্যটা শোনায় নিষ্পন্ন সত্যের মতো, প্রমাণের অপেক্ষায় থাকা দাবির মতো নয়। আরাইনাহু এসেছে দেখা ক্রিয়ার প্রযোজক রূপ থেকে: আমি তাকে দেখালাম। কর্ম হলো আয়াতিনা, আমার নিদর্শনগুলো। তারপর বাক্যাংশের শেষে আলাদা শব্দ হয়ে আসে কুল্লাহা, সবগুলো, যাতে কারও চোখ এড়িয়ে না যায়। তার প্রতিক্রিয়ার কথা বলার আগেই জোরটা পড়েছে পূর্ণতার উপর।"
+          },
+          {
+            "en": "Then the two verbs. Fa ties the first to the showing: he was shown, and so he denied, which places the denial after the seeing and not in its absence. Wa adds the second, and he refused. The pronoun in araynahu has no name in the verse, yet the commentaries supply one name for it. Al-Baghawi and Ibn Kathir gloss it as meaning Pharaoh, while at-Tabari, as-Sa'di and the Muyassar put his name straight into their paraphrase: We showed Pharaoh Our signs.",
+            "bn": "তারপর ক্রিয়া দুটি। ফা প্রথমটিকে বেঁধে দেয় দেখানোর সঙ্গে: তাকে দেখানো হলো, আর তাই সে মিথ্যা বলল। অর্থাৎ অস্বীকার এসেছে দেখার পরে, না দেখার কারণে নয়। ওয়া যোগ করে দ্বিতীয়টি: আর সে অস্বীকার করল। আরাইনাহু-র সর্বনামের কোনো নাম আয়াতে নেই, তবু তাফসীরগুলো সেখানে একটিই নাম বসায়। বাগাভী ও ইবন কাসীর ব্যাখ্যা দেন, এর মানে ফেরাউন। আর তাবারী, সা'দী ও মুয়াসসার নিজেদের ভাষ্যে নামটাই বসিয়ে দেন: আমি ফেরাউনকে আমার নিদর্শনগুলো দেখিয়েছিলাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Wide Is All?",
+          "bn": "সবগুলো মানে কতগুলো"
+        },
+        "p": [
+          {
+            "en": "Kullaha, all of them, raises an obvious question: all of which signs? The commentators do not answer alike. Al-Baghawi gives the narrowest reading: the nine signs that Allah gave Musa (AS). The Qur'an elsewhere speaks of Musa being given nine clear signs, at 17:101. Al-Qurtubi first reads the signs as the miracles that pointed to the prophethood of Musa, then reports a second view, introduced with the words it is said: they are Allah's proofs that point to His oneness.",
+            "bn": "কুল্লাহা, সবগুলো, শব্দটি একটা স্বাভাবিক প্রশ্ন তোলে: কোন নিদর্শনগুলোর সবগুলো? মুফাসসিরদের জবাব এক রকম নয়। বাগাভীর পাঠ সবচেয়ে সংকীর্ণ: সেই নয়টি নিদর্শন, যা আল্লাহ মূসা (আঃ)-কে দিয়েছিলেন। কুরআন অন্যত্র, ১৭:১০১ আয়াতে, মূসাকে নয়টি স্পষ্ট নিদর্শন দেওয়ার কথা বলেছে। কুরতুবী প্রথমে নিদর্শনগুলোকে পড়েন সেই মুজিযা হিসেবে, যা মূসার নবুওয়াতের প্রমাণ দিত। তারপর 'বলা হয়েছে' কথাটি দিয়ে আরেকটি মত আনেন: এগুলো আল্লাহর সেই প্রমাণ, যা তাঁর তাওহীদের দিকে ইঙ্গিত করে।"
+          },
+          {
+            "en": "At-Tabari frames the signs by what they proved. They are Our proofs and arguments, he says, for the truth of what We sent Our two messengers, Musa and Harun, to him with, all of them. The weight falls on the message, and the message was carried by two men. The Muyassar joins the strands together: Our proofs and arguments, all of them, pointing to Our divinity and Our power and to the truthfulness of Musa's message. In one sentence it holds the signs of prophethood and the signs of Allah side by side.",
+            "bn": "তাবারী নিদর্শনগুলোকে দেখেন তারা কী প্রমাণ করেছে সেই দিক থেকে। তাঁর ভাষায়, এগুলো আমার দলিল ও প্রমাণ, আমার দুই রাসূল মূসা ও হারূনকে যা দিয়ে তার কাছে পাঠিয়েছিলাম তা যে সত্য, তারই প্রমাণ, সবগুলো। জোরটা বার্তার উপর, আর বার্তা বহন করেছিলেন দুজন মানুষ। মুয়াসসার দুটি সুতো এক করে দেয়: আমার সব দলিল ও প্রমাণ, যা আমার উলুহিয়াত ও কুদরতের দিকে ইঙ্গিত করে, আর মূসার রিসালাতের সত্যতার দিকেও। একটি বাক্যেই সেখানে নবুওয়াতের নিদর্শন আর আল্লাহর নিদর্শন পাশাপাশি দাঁড়িয়ে আছে।"
+          },
+          {
+            "en": "As-Sa'di reads the widest. Allah showed Pharaoh signs, lessons and decisive proofs, he writes, of every kind: those seen with the eye, those in the horizons and those within the self. His last two terms recall 41:53, where Allah promises to show people His signs in the horizons and within themselves, with the same verb of showing. So the word all is read as the nine, as the proofs of a prophet, or as every kind of sign. The difference is real, and it is left standing here.",
+            "bn": "সা'দীর পাঠ সবচেয়ে প্রশস্ত। তিনি লেখেন, আল্লাহ ফেরাউনকে দেখিয়েছিলেন নিদর্শন, শিক্ষা আর অকাট্য প্রমাণ, সব ধরনের: চোখে দেখা যায় এমন, দিগন্তের, আর মানুষের নিজের ভেতরের। শেষ দুটি শব্দ মনে করিয়ে দেয় ৪১:৫৩ আয়াত, যেখানে আল্লাহ দিগন্তে আর মানুষের নিজেদের মধ্যে তাঁর নিদর্শন দেখানোর প্রতিশ্রুতি দিয়েছেন, দেখানোর সেই একই ক্রিয়া দিয়ে। ফলে 'সবগুলো' কারও কাছে নয়টি নিদর্শন, কারও কাছে নবীর প্রমাণ, কারও কাছে সব ধরনের নিদর্শন। মতভেদটা সত্যিকারের, এখানে তা যেমন আছে তেমনই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before His Own Eyes",
+          "bn": "নিজের চোখের সামনে"
+        },
+        "p": [
+          {
+            "en": "Two of the commentators stop on the verb of showing and draw a conclusion from it. Al-Qurtubi glosses fa-kadhdhaba wa aba simply as he did not believe, and then adds: this shows that his disbelief was stubbornness, because he saw the signs with his own eyes, not as a report. The point turns on araynahu. A man told about a sign at second hand may doubt the teller. A man who watches it happen has no teller left to doubt.",
+            "bn": "দুজন মুফাসসির দেখানোর ক্রিয়াটিতে থেমে সেখান থেকে একটা সিদ্ধান্ত টানেন। কুরতুবী ফাকায্যাবা ওয়া আবা-র ব্যাখ্যা দেন সংক্ষেপে: সে ঈমান আনেনি। তারপর যোগ করেন, এ থেকে বোঝা যায় তার কুফর ছিল জেদের কুফর, কারণ নিদর্শনগুলো সে নিজের চোখে দেখেছিল, কারও মুখে শোনা খবর হিসেবে নয়। কথাটা দাঁড়িয়ে আছে আরাইনাহু শব্দের উপর। যে লোক অন্যের মুখে কোনো নিদর্শনের কথা শোনে, সে বর্ণনাকারীকে সন্দেহ করতে পারে। যে নিজে ঘটনাটা ঘটতে দেখে, তার সন্দেহ করার মতো কোনো বর্ণনাকারী আর থাকে না।"
+          },
+          {
+            "en": "Ibn Kathir says much the same in his own words. The proofs, signs and evidences were established against Pharaoh, he writes, and he witnessed that and saw it, and he denied them and refused them out of disbelief, stubbornness and transgression. He uses two verbs of sight where one would do, as if to close every way out. Neither commentator suggests that Pharaoh failed to understand. Both place the failure after the understanding, in what he chose to do with what he had seen.",
+            "bn": "ইবন কাসীরও প্রায় একই কথা বলেন, নিজের ভাষায়। তিনি লেখেন, ফেরাউনের বিরুদ্ধে দলিল, নিদর্শন আর প্রমাণ প্রতিষ্ঠিত হয়েছিল। সে তা প্রত্যক্ষ করেছিল, চোখে দেখেছিল। তবু কুফর, জেদ আর সীমালঙ্ঘনের কারণে সে সেগুলোকে মিথ্যা বলেছিল, অস্বীকার করেছিল। যেখানে দেখার একটি ক্রিয়াই যথেষ্ট ছিল, তিনি সেখানে দুটি ব্যবহার করেন, যেন পালানোর প্রতিটি পথ বন্ধ করে দিতে চান। দুজনের কেউই বলেন না যে ফেরাউন বুঝতে পারেনি। দুজনেই ব্যর্থতাকে রাখেন বোঝার পরে, যা দেখেছিল তা নিয়ে সে কী করল সেখানে।"
+          },
+          {
+            "en": "This is why the verse spends a word on kullaha. If a single sign had been shown and refused, one might say the case was thin. Allah says it was all of them, and the commentators add that they were seen, not heard of. The refusal therefore cannot be put down to a shortage of evidence. Whatever kept Pharaoh from belief was not in the proofs. In the readings of al-Qurtubi and Ibn Kathir, it was in Pharaoh.",
+            "bn": "এ কারণেই আয়াতটি কুল্লাহা শব্দে একটা জায়গা খরচ করেছে। একটিমাত্র নিদর্শন দেখিয়ে তা প্রত্যাখ্যাত হলে কেউ বলতে পারত, প্রমাণ কম ছিল। আল্লাহ বলছেন, দেখানো হয়েছিল সবগুলো। আর মুফাসসিররা যোগ করেন, সেগুলো দেখা জিনিস, শোনা কথা নয়। তাই অস্বীকারের দায় প্রমাণের ঘাটতির উপর চাপানো যায় না। ফেরাউনকে ঈমান থেকে যা আটকে রেখেছিল, তা প্রমাণের মধ্যে ছিল না। কুরতুবী আর ইবন কাসীরের পাঠে, তা ছিল ফেরাউনের নিজের মধ্যে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denial, Then Refusal",
+          "bn": "মিথ্যা বলা, তারপর অমান্য"
+        },
+        "p": [
+          {
+            "en": "The two verbs are not repetition, and the commentators give each its own object. Al-Baghawi says kadhdhaba means he denied the signs and claimed they were magic, and aba means he refused to submit. At-Tabari gives the second verb a fuller sense: he refused to accept from Musa and Harun the truth they had brought from their Lord, out of arrogance and insolence. The Muyassar puts it plainly: he denied them, and he held back from accepting the truth.",
+            "bn": "ক্রিয়া দুটি একই কথার পুনরাবৃত্তি নয়। মুফাসসিররা প্রত্যেকটিকে আলাদা কাজ দেন। বাগাভী বলেন, কাযযাবা মানে সে নিদর্শনগুলোকে মিথ্যা বলেছে আর দাবি করেছে এগুলো যাদু। আর আবা মানে সে ইসলাম গ্রহণে, আত্মসমর্পণে রাজি হয়নি। তাবারী দ্বিতীয় ক্রিয়াকে আরও ভরাট অর্থ দেন: মূসা ও হারূন তাঁদের রবের কাছ থেকে যে সত্য নিয়ে এসেছিলেন, অহংকার আর ঔদ্ধত্যের কারণে সে তা তাঁদের কাছ থেকে নিতে অস্বীকার করেছে। মুয়াসসার সোজা কথায় বলে: সে সেগুলোকে মিথ্যা বলেছে, আর সত্য গ্রহণ থেকে বিরত থেকেছে।"
+          },
+          {
+            "en": "As-Sa'di sets the two halves against the two things a message asks for. Pharaoh neither went straight nor desisted, he writes; he only denied and turned away. He denied the report, and he turned away from the command and the prohibition. A message tells you something and asks something of you. Pharaoh rejected both. As-Sa'di then goes further: he made the truth falsehood and falsehood truth, and he argued with falsehood to lead the people astray.",
+            "bn": "সা'দী দুই অংশকে মিলিয়ে দেন বার্তার দুই দাবির সঙ্গে। তিনি লেখেন, ফেরাউন সোজা পথে আসেনি, থামেওনি। সে শুধু মিথ্যা বলেছে আর মুখ ফিরিয়ে নিয়েছে। খবরকে সে মিথ্যা বলেছে, আর আদেশ ও নিষেধ থেকে মুখ ফিরিয়েছে। বার্তা আপনাকে কিছু জানায়, আবার আপনার কাছে কিছু চায়ও। ফেরাউন দুটোই ফিরিয়ে দিয়েছে। সা'দী এরপর আরও এগোন: সে সত্যকে বানিয়েছে মিথ্যা, মিথ্যাকে বানিয়েছে সত্য, আর মানুষকে পথভ্রষ্ট করতে মিথ্যা দিয়ে তর্ক করেছে।"
+          },
+          {
+            "en": "As-Sa'di's wording, denied and turned away, is the very pair Musa and Harun had carried to Pharaoh at 20:48, where they tell him it has been revealed to them that the punishment falls on whoever denies and turns away. The warning named the two failures in advance, and the verse records that both came. The second verb of the verse, aba, is the verb this surah later uses of Iblis at 20:116, who alone refused when the angels prostrated.",
+            "bn": "সা'দীর শব্দজোড়া, মিথ্যা বলা আর মুখ ফিরিয়ে নেওয়া, হুবহু সেই জোড়া, যা মূসা ও হারূন ২০:৪৮ আয়াতে ফেরাউনের কাছে বয়ে নিয়ে গিয়েছিলেন। সেখানে তাঁরা বলেন, তাঁদের কাছে ওহী এসেছে যে শাস্তি তার উপর, যে মিথ্যা বলে আর মুখ ফিরিয়ে নেয়। সতর্কবাণী দুটি ব্যর্থতার নাম আগেই বলে রেখেছিল, আর এ আয়াত জানায় দুটোই ঘটেছে। আয়াতের দ্বিতীয় ক্রিয়া আবা। এই সূরা পরে ২০:১১৬ আয়াতে ইবলীসের বেলায় এ ক্রিয়াই ব্যবহার করেছে, যখন ফেরেশতারা সিজদা করল আর একা সে অস্বীকার করল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Convinced Within, Denying Aloud",
+          "bn": "ভেতরে নিশ্চিত, মুখে অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir and al-Qurtubi both reach for the same parallel, and al-Qurtubi calls it this verse's counterpart. It is 27:14: and they rejected them, while their inner selves were convinced of them, out of wrongdoing and haughtiness, so see what the end of the corrupters was. The verse just before it, 27:13, sets the scene: when Our visible signs came to them, they said, this is obvious magic. The signs were seen there too, and they were renamed there too.",
+            "bn": "ইবন কাসীর ও কুরতুবী দুজনেই একই সমান্তরাল আয়াতের কাছে যান, আর কুরতুবী সেটিকে বলেন এ আয়াতের জোড়া। আয়াতটি ২৭:১৪: তারা অন্যায় আর ঔদ্ধত্যের বশে নিদর্শনগুলো প্রত্যাখ্যান করল, যদিও তাদের অন্তর সেগুলোকে সত্য বলে নিশ্চিত জেনেছিল। অতএব দেখুন, ফাসাদকারীদের পরিণতি কেমন হয়েছিল। তার ঠিক আগের আয়াত, ২৭:১৩, দৃশ্যটা সাজিয়ে দেয়: আমার দৃশ্যমান নিদর্শন যখন তাদের কাছে এল, তারা বলল, এ তো স্পষ্ট যাদু। সেখানেও নিদর্শন চোখে দেখা হয়েছিল, সেখানেও তার নাম বদলে দেওয়া হয়েছিল।"
+          },
+          {
+            "en": "Read beside 27:14, the verse here gains what it leaves unsaid. This verse reports the outward act, denial and refusal; the parallel names the inner state behind it, a certainty that was held and not admitted. The reasons the commentators give line up with the reasons that verse gives. Ibn Kathir names disbelief, stubbornness and transgression; at-Tabari names arrogance and insolence; 27:14 names wrongdoing and haughtiness. On the reading these commentators share, the gap was never between Pharaoh and the proof. It lay between what he knew and what he would admit.",
+            "bn": "২৭:১৪-এর পাশে রেখে পড়লে এ আয়াত না-বলা কথাটুকুও পেয়ে যায়। এ আয়াত জানায় বাইরের কাজ: মিথ্যা বলা আর অস্বীকার। সমান্তরাল আয়াতটি নাম দেয় তার পেছনের ভেতরের অবস্থার: এমন নিশ্চয়তা, যা মনে ছিল কিন্তু মুখে স্বীকার করা হয়নি। মুফাসসিররা যে কারণগুলো বলেন, সেগুলো ওই আয়াতের কারণের সঙ্গে মিলে যায়। ইবন কাসীর বলেন কুফর, জেদ আর সীমালঙ্ঘন। তাবারী বলেন অহংকার আর ঔদ্ধত্য। ২৭:১৪ বলে অন্যায় আর দম্ভ। এই মুফাসসিরদের অভিন্ন পাঠে ফাঁকটা কখনো ফেরাউন আর প্রমাণের মাঝে ছিল না। ফাঁকটা ছিল সে যা জানত আর যা স্বীকার করত, তার মাঝে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Refusal Finds Words",
+          "bn": "অস্বীকার যখন কথা বলে"
+        },
+        "p": [
+          {
+            "en": "What denial and refusal sound like is heard at once. In 20:57 Pharaoh asks whether Musa (AS) has come to drive them out of their land with his magic, and in 20:58 he promises magic to match it and asks for a fixed meeting. At-Tabari opens his comment on 20:57 by tying it back to this verse: Pharaoh said this, he writes, when We had shown him all of Our signs given to Our messenger Musa. Al-Baghawi's gloss on kadhdhaba, he claimed they were magic, already looks ahead to that word.",
+            "bn": "মিথ্যা বলা আর অস্বীকার মুখে এলে কেমন শোনায়, তা সঙ্গে সঙ্গেই শোনা যায়। ২০:৫৭ আয়াতে ফেরাউন জিজ্ঞেস করে, মূসা (আঃ) কি তাঁর যাদু দিয়ে তাদেরকে তাদের দেশ থেকে বের করে দিতে এসেছেন? ২০:৫৮ আয়াতে সে পাল্টা সমান যাদু আনার কথা দেয় আর একটা নির্দিষ্ট সাক্ষাতের সময় চায়। তাবারী ২০:৫৭-এর আলোচনা শুরু করেন এ আয়াতের সঙ্গে জুড়ে দিয়ে। তিনি লেখেন, ফেরাউন এ কথা বলেছিল তখন, যখন আমি তাকে আমার রাসূল মূসাকে দেওয়া আমার সব নিদর্শন দেখিয়েছিলাম। কাযযাবা শব্দে বাগাভীর ব্যাখ্যা, সে দাবি করল এগুলো যাদু, ওই শব্দেরই আভাস আগে থেকে দিয়ে রাখে।"
+          },
+          {
+            "en": "Two moves stand out. The signs receive a new name, magic, and a sign that has been renamed no longer has to be answered; it only has to be matched. And the message about a Lord becomes a quarrel about land, as if Musa had come for Pharaoh's kingdom. Neither move engages the proof. Both change the subject. How the meeting was fixed and what followed belong to the verses after it, and they are left to tell it.",
+            "bn": "দুটি চাল চোখে পড়ে। নিদর্শনগুলো নতুন নাম পায়, যাদু। আর যে নিদর্শনের নাম বদলে দেওয়া হলো, তার জবাব দেওয়ার আর দরকার পড়ে না, শুধু পাল্টা কিছু দেখালেই চলে। আবার রবের বার্তা হয়ে যায় দেশ নিয়ে বিবাদ, যেন মূসা এসেছিলেন ফেরাউনের রাজত্ব কেড়ে নিতে। কোনো চালই প্রমাণের মুখোমুখি হয় না। দুটোই প্রসঙ্গ ঘুরিয়ে দেয়। সাক্ষাতের সময় কীভাবে ঠিক হলো আর তারপর কী ঘটল, তা পরের আয়াতগুলোর কথা, সেগুলোই তা বলবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told of One Ruler",
+          "bn": "এক শাসকের কাহিনি"
+        },
+        "p": [
+          {
+            "en": "A word on what the sources hold. None of the commentaries consulted attaches a hadith to this verse, and none gives an occasion of revelation for it, so neither is cited here. What they offer is their own reading of the words, together with the parallel at 27:14. Ma'arif al-Qur'an, whose grouped comment takes in this verse, spends that comment on the creation from earth in 20:55 and says nothing of this one, so it is not drawn on above.",
+            "bn": "উৎসগুলোতে কী আছে, সে বিষয়ে একটা কথা। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো প্রেক্ষাপটও দেয়নি। তাই এখানে দুটোর কোনোটিই উদ্ধৃত হয়নি। তাঁরা দিয়েছেন শব্দগুলোর নিজস্ব ব্যাখ্যা, সঙ্গে ২৭:১৪-এর সমান্তরাল আয়াত। মাআরিফুল কুরআনের একসঙ্গে লেখা আলোচনায় এ আয়াতও পড়েছে, কিন্তু সেখানে কথা হয়েছে ২০:৫৫-এর মাটি থেকে সৃষ্টির বিষয়ে, এ আয়াত নিয়ে কিছু বলা হয়নি। তাই উপরে তার উপর ভর করা হয়নি।"
+          },
+          {
+            "en": "This also needs saying plainly. The verse describes what one ruler did with the signs he was shown, in one story, and it licenses nothing against any living person or community. It gives no one the right to call an opponent a Pharaoh, or to assume that someone who disagrees has seen the truth and refused it. The commentators can speak of stubbornness because Allah has told what Pharaoh was shown. No reader holds that knowledge about anyone else's heart.",
+            "bn": "এ কথাটাও সোজাসুজি বলা দরকার। আয়াতটি একটি কাহিনিতে এক শাসকের কথা বলে: যে নিদর্শন তাকে দেখানো হয়েছিল, সেগুলো নিয়ে সে কী করেছিল। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিপক্ষকে ফেরাউন বলার অধিকার এটি কাউকে দেয় না। ভিন্নমত পোষণকারী সত্য দেখেও ফিরিয়ে দিয়েছে, এমন ধারণা করারও না। মুফাসসিররা জেদের কথা বলতে পারেন, কারণ ফেরাউনকে কী দেখানো হয়েছিল তা আল্লাহ নিজে জানিয়েছেন। অন্য কারও অন্তরের খবর কোনো পাঠকের হাতে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Proof Is Not Missing",
+          "bn": "প্রমাণ যখন কম নয়"
+        },
+        "p": [
+          {
+            "en": "Turned toward the reader, the verse unsettles a comfortable belief: that people turn from the truth because they lack evidence. Sometimes that is so. Here it was not. Pharaoh had all the signs, seen with his own eyes, and more of them would not have helped, because the problem did not lie in the proof. The same can be true on a small scale in any life, where the thing that holds a person back is not a doubt at all.",
+            "bn": "পাঠকের দিকে ফেরালে আয়াতটি একটা আরামের ধারণাকে নাড়িয়ে দেয়: মানুষ সত্য থেকে মুখ ফেরায় প্রমাণের অভাবে। কখনো কখনো তা সত্যি। এখানে তা নয়। ফেরাউনের কাছে সব নিদর্শন ছিল, নিজের চোখে দেখা। আরও নিদর্শন দিলেও কাজ হতো না, কারণ সমস্যাটা প্রমাণে ছিল না। ছোট পরিসরে যে কোনো জীবনেও এমন হতে পারে। মানুষকে যা পিছিয়ে রাখে, তা অনেক সময় আদৌ কোনো সংশয় নয়।"
+          },
+          {
+            "en": "It is worth noticing when you keep asking for more proof about something you already know to be right: a duty you have been putting off, an apology you owe, a habit you know you should leave. Ask honestly where the hold-up sits. If the reasoning is complete and you are still waiting, the waiting is probably not about reasons. As-Sa'di's two halves make a useful test: do I accept what I am told, and do I do what I am asked?",
+            "bn": "খেয়াল করার মতো একটা মুহূর্ত আছে: যে জিনিস ঠিক বলে আপনি জানেন, তার জন্যও যখন আরও প্রমাণ চাইতে থাকেন। হতে পারে এমন কোনো দায়িত্ব, যা ফেলে রেখেছেন, কিংবা কারও কাছে পাওনা একটা ক্ষমা চাওয়া, অথবা এমন কোনো অভ্যাস, যা ছাড়া দরকার বলে জানেন। সৎভাবে নিজেকে জিজ্ঞেস করুন, আটকে আছে কোথায়। যুক্তি পুরো হয়ে গেছে অথচ আপনি অপেক্ষা করছেন, তাহলে অপেক্ষাটা সম্ভবত যুক্তির জন্য নয়। সা'দীর দুই অংশ এখানে কাজের একটা পরীক্ষা: যা জানানো হয় তা কি মেনে নিই, আর যা চাওয়া হয় তা কি করি?"
+          },
+          {
+            "en": "The surah itself shows the other way to meet a sign. Later in the same story, at 20:70, the magicians who had come to defeat Musa saw what his staff did and were cast down in prostration. This verse says Pharaoh was shown all the signs; in that scene the magicians watched one. What separated them was not the evidence but the response to it. Aba, he refused, is the word for one response. The other is to yield.",
+            "bn": "অন্যভাবে নিদর্শনের মুখোমুখি হওয়ার ছবিও এই সূরাতেই আছে। একই কাহিনিতে পরে, ২০:৭০ আয়াতে, যে যাদুকরেরা মূসাকে হারাতে এসেছিল, তারা তাঁর লাঠির কাণ্ড দেখে সিজদায় লুটিয়ে পড়ল। এ আয়াত বলছে, ফেরাউনকে দেখানো হয়েছিল সব নিদর্শন। আর ওই দৃশ্যে যাদুকরেরা দেখেছিল একটি। তাদের আলাদা করেছিল প্রমাণ নয়, প্রমাণের প্রতি সাড়া। আবা, সে অস্বীকার করল, একটি সাড়ার নাম। অন্যটি হলো নত হওয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "20:59": {
     "sections": [
       {
