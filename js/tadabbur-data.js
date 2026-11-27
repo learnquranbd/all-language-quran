@@ -34381,6 +34381,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Ask about the Last Day in order to prepare for it: your Lord will scatter the mountains, and what remains is your own standing before Him.",
     "lessonBn": "শেষ দিন নিয়ে প্রশ্ন করুন তার প্রস্তুতি নেওয়ার জন্য: আপনার রব পাহাড়গুলোকে উড়িয়ে দেবেন, আর বাকি থাকবে তাঁর সামনে আপনার নিজের দাঁড়ানো।"
+  },
+  "20:111": {
+    "reflectionEn": "The mountains are scattered and the voices stilled, and now the verse looks at faces. Every face is bowed before the Ever-Living, the One who keeps all things standing. The verb comes from the same root as the Arabic word for a captive: no one there is free to turn away. Then one line divides the whole crowd. He has failed who carries wrongdoing. Carries, the way a person carries a load he packed himself and brought all the way to that ground. The very next verse tells the believer who did good that he need fear no wrong done to him. So the question is about the load. What am I carrying now that I could still set down before that Day?",
+    "reflectionBn": "পাহাড় উড়ে গেছে, কণ্ঠস্বর থেমে গেছে। এবার আয়াতের চোখ মুখগুলোর দিকে। যিনি চিরঞ্জীব, যিনি সবকিছুকে ধরে রেখেছেন, তাঁর সামনে প্রতিটি মুখ নত। ক্রিয়াটি যে ধাতু থেকে এসেছে, আরবিতে বন্দিকেও সেই ধাতু থেকেই ডাকা হয়। সেখানে কারও মুখ ফিরিয়ে নেওয়ার উপায় নেই। তারপর একটি বাক্যে পুরো ভিড় দুই ভাগ হয়ে যায়: সে ব্যর্থ, যে যুলম বয়ে এনেছে। বয়ে আনা, ঠিক যেভাবে মানুষ নিজের হাতে বাঁধা বোঝা কাঁধে নিয়ে সেই মাঠ পর্যন্ত হেঁটে যায়। ঠিক পরের আয়াত বলে, যে মুমিন হয়ে নেক আমল করেছে, তার উপর অবিচারের কোনো ভয় নেই। তাহলে প্রশ্নটা বোঝা নিয়েই। আজ আমি এমন কী বয়ে বেড়াচ্ছি, যা সেদিনের আগেই নামিয়ে রাখা যায়?",
+    "pointsEn": [
+      "Which wrong of mine against a person is still unsettled, and what would it take to return it this week?",
+      "When I put my face on the ground in prostration, do I mean the humility, or only make the movement?",
+      "Where do I lean on something that can die or fail as if it were the One who keeps me standing?",
+      "What small unfairness do I excuse in myself because the person I wronged seems not to mind?",
+      "If I had to carry this week's dealings to that ground, which one would I most want to have set down?"
+    ],
+    "pointsBn": [
+      "কারও প্রতি আমার কোন অন্যায়টা এখনো মীমাংসা হয়নি? এ সপ্তাহেই তার হক ফিরিয়ে দিতে কী লাগবে?",
+      "সেজদায় যখন মুখ মাটিতে রাখি, তখন কি সত্যিই নত হই, নাকি শুধু নড়াচড়াটুকু সারি?",
+      "যা মরে যায় বা ভেঙে পড়ে, এমন কিসের উপর আমি এমনভাবে ভর দিই, যেন সেটাই আমাকে ধরে রেখেছে?",
+      "যার প্রতি অন্যায় করেছি সে কিছু মনে করেনি বলে নিজের কোন ছোট অবিচারকে আমি মাফ করে দিই?",
+      "এ সপ্তাহের লেনদেন যদি সেই মাঠ পর্যন্ত বয়ে নিতে হয়, কোনটা আমি সবার আগে নামিয়ে রাখতে চাইতাম?"
+    ],
+    "lessonEn": "Every face will bow before the Ever-Living. Set down the wrongs you carry, against Allah and against people, while they can still be returned.",
+    "lessonBn": "চিরঞ্জীবের সামনে প্রতিটি মুখ নত হবে। আল্লাহর হক আর মানুষের হক, যে যুলমই বয়ে বেড়াচ্ছেন, ফেরত দেওয়ার সময় থাকতেই তা নামিয়ে রাখুন।"
   }
 };
 

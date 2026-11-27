@@ -5459,6 +5459,174 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:111": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Faces Come In",
+          "bn": "দৃশ্যে যখন মুখ আসে"
+        },
+        "p": [
+          {
+            "en": "Wa-'anati l-wujuhu li-l-hayyi l-qayyum, wa-qad khaba man hamala zulma: and faces are humbled before the Ever-Living, the Sustainer, and he has failed who carries wrongdoing. The verse sits inside a run that began with the mountains blown away (20:105 to 20:107). In 20:108 the crowd follows the caller and its voices fall still; in 20:109 intercession is closed except by His leave; in 20:110 His knowledge takes in all of them. Now the verse looks at faces.",
+            "bn": "ওয়া আনাতিল উজূহু লিল-হাইয়্যিল কাইয়্যূম, ওয়া কাদ খাবা মান হামালা যুলমা: চিরঞ্জীব, সবকিছুর ধারকের সামনে মুখগুলো নত হবে, আর যে যুলম বহন করেছে সে ব্যর্থ হয়েছে। আয়াতটি এসেছে এমন এক ধারার ভেতরে, যার শুরু পাহাড় উড়িয়ে দেওয়ার কথা দিয়ে (২০:১০৫ থেকে ২০:১০৭)। ২০:১০৮ আয়াতে মানুষ আহ্বানকারীর পেছনে চলে, তাদের কণ্ঠ থেমে যায়। ২০:১০৯ আয়াতে তাঁর অনুমতি ছাড়া সুপারিশের পথ বন্ধ। ২০:১১০ আয়াতে তাঁর জ্ঞান সবাইকে ঘিরে রাখে। এবার আয়াতের দৃষ্টি পড়ে মুখগুলোর উপর।"
+          },
+          {
+            "en": "Two things change at this point. Until now the divine name in the passage has been ar-Rahman: voices are humbled before the Most Merciful in 20:108, and it is He who grants leave in 20:109. Here the names are al-Hayy al-Qayyum, the Ever-Living, the Sustainer. And the verse speaks of faces rather than people. Al-Qurtubi gives the reason for that choice: people are referred to by their faces because the marks of abasement show in the face.",
+            "bn": "এখানে এসে দুটি জিনিস বদলে যায়। এতক্ষণ এই অংশে আল্লাহর যে নাম এসেছে, তা আর-রহমান। ২০:১০৮ আয়াতে দয়াময়ের সামনে কণ্ঠস্বর নত, ২০:১০৯ আয়াতে অনুমতিও দেন তিনিই। এখানে নাম দুটি বদলে হয়েছে আল-হাইয়্যু আল-কাইয়্যূম: চিরঞ্জীব, সবকিছুর ধারক। আর আয়াত মানুষের কথা না বলে বলছে মুখের কথা। কুরতুবী এর কারণ দেখান। মুখ দিয়ে মানুষকে বোঝানো হয়েছে, কেননা অপমান আর নতির ছাপ ফুটে ওঠে মুখেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Captive's Verb",
+          "bn": "বন্দির ধাতু থেকে ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari begins with the root. The base meaning of al-'anw is abasement: one says 'ana wajhuhu li-rabbihi, his face was humbled before his Lord, meaning he submitted and was abased before Him. That is why, he adds, a captive is called 'ani, for the abasement of captivity. Al-Baghawi gives the same gloss in a line, they were abased and submitted, with the same note on the captive. Al-Qurtubi cites al-Jawhari: 'ana ya'nu, he submitted and was abased, and al-'ani is the captive.",
+            "bn": "তাবারী শুরু করেন ধাতু দিয়ে। আল-আনও শব্দের মূল অর্থ নতি ও অপমান। আরবরা বলে, আনা ওয়াজহুহু লি-রাব্বিহি: তার মুখ তার রবের সামনে নত হলো, অর্থাৎ সে তাঁর কাছে মাথা নোয়াল, হীন হলো। তাবারী যোগ করেন, এ কারণেই বন্দিকে বলা হয় আনী, বন্দিত্বের অপমানের জন্য। বাগাবী এক লাইনে একই ব্যাখ্যা দেন: তারা হীন হলো, নত হলো। বন্দির কথাটাও তিনি একইভাবে আনেন। কুরতুবী জাওহারী থেকে উদ্ধৃত করেন: আনা ইয়া'নু মানে নত হওয়া, হীন হওয়া, আর আল-আনী হলো বন্দি।"
+          },
+          {
+            "en": "The word has a harder edge as well. Al-Qurtubi notes that in the language 'anat carries the sense of subjugation and overpowering, and that from it comes the phrase that lands were taken 'anwatan, by force. At-Tabari handles that phrase more carefully. Taking a thing 'anwatan, he says, can mean taking it by overpowering, but it can also mean taking it through surrender and obedience, and he quotes two lines of poetry.",
+            "bn": "শব্দটির আরেকটু কঠিন দিকও আছে। কুরতুবী জানান, ভাষায় আনাত শব্দে দমন ও পরাভবের অর্থ আছে। সেখান থেকেই কথাটা এসেছে: অমুক দেশ আনওয়াতান, অর্থাৎ বলপ্রয়োগে জয় করা হয়েছে। তাবারী এ কথাটা আরও সাবধানে ধরেন। তাঁর মতে কোনো কিছু আনওয়াতান নেওয়া মানে জোর খাটিয়ে নেওয়া হতে পারে, আবার আত্মসমর্পণ ও আনুগত্যের মধ্য দিয়ে নেওয়াও হতে পারে। এ নিয়ে তিনি কবিতার দুটি পঙ্ক্তি উদ্ধৃত করেন।"
+          },
+          {
+            "en": "Al-Qurtubi records two further strands. One is a view that the word comes from 'ana', toil. The other is poetry: he quotes Umayya ibn Abi as-Salt on a King over the Throne of heaven, before whose might faces are humbled and fall prostrate, and a second line of his, in which his own face and all his being are humbled to Him among those who prostrate. In both lines the humbling of the face and prostration go together.",
+            "bn": "কুরতুবী আরও দুটি সূত্র উল্লেখ করেন। একটি মত হলো, শব্দটি এসেছে আনা' থেকে, যার অর্থ ক্লান্তি ও কষ্ট। অন্যটি কবিতা। তিনি উমাইয়া ইবন আবিস সালতের পঙ্ক্তি আনেন: আসমানের আরশের উপর এক অধিপতি, যাঁর প্রতাপের সামনে মুখগুলো নত হয় আর সেজদায় লুটায়। একই কবির আরেক পঙ্ক্তিতে তাঁর নিজের মুখ আর গোটা সত্তা সেজদাকারীদের সঙ্গে তাঁর সামনে নত। দুটি পঙ্ক্তিতেই মুখ নত হওয়া আর সেজদা পাশাপাশি এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Abased, Surrendered, Made Captive",
+          "bn": "হীন, সমর্পিত, বন্দি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then lists how the early authorities glossed the verb. Ibn Abbas, by the route of Ali ibn Abi Talha, says one word: dhallat, they were abased. By the chain of Muhammad ibn Sa'd, Ibn Abbas explains 'anat as they surrendered to Me. Mujahid says khasha'at, they were humbled, and Qatada, in two chains, says the faces were abased. Al-Qurtubi adds Ibn al-A'rabi's pair, abased and submitted, and 'Atiyya al-'Awfi's single word istaslamat, they surrendered.",
+            "bn": "এরপর তাবারী দেখান, প্রথম যুগের আলেমরা ক্রিয়াটির অর্থ কীভাবে করেছেন। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) একটি শব্দ বলেন: যাল্লাত, তারা হীন হলো। মুহাম্মাদ ইবন সা'দের সূত্রে ইবন আব্বাস (রাঃ) আনাত-এর অর্থ করেন: তারা আমার কাছে আত্মসমর্পণ করল। মুজাহিদ বলেন খাশাআত, তারা বিনীত হলো। কাতাদা দুটি সূত্রে বলেন, মুখগুলো হীন হলো। কুরতুবী এর সঙ্গে যোগ করেন ইবনুল আ'রাবীর জোড়া অর্থ, হীন ও নত হওয়া, আর আতিয়্যা আল-আওফীর একটি শব্দ: ইসতাসলামাত, তারা আত্মসমর্পণ করল।"
+          },
+          {
+            "en": "Two of these words are close, and al-Mawardi, as al-Qurtubi reports him, stops to separate them. Dhull and khushu' are near in meaning, he says, but dhull is for the self to be abased, while khushu' is to humble oneself before someone owed obedience. The first describes a state that falls on a person; the second, a bearing he takes towards someone. A crowd standing before its Lord on that Day fits both descriptions.",
+            "bn": "এর মধ্যে দুটি শব্দ খুব কাছাকাছি। কুরতুবীর বর্ণনায় মাওয়ার্দী এ দুটিকে আলাদা করে দেখান। যুল্ল আর খুশূ' অর্থে কাছাকাছি হলেও যুল্ল মানে নিজেই হীন হয়ে পড়া, আর খুশূ' মানে আনুগত্যের যোগ্য কারও সামনে নিজেকে নত করা। প্রথমটি এমন এক অবস্থা, যা মানুষের উপর এসে পড়ে। দ্বিতীয়টি এমন এক ভঙ্গি, যা মানুষ কারও প্রতি নিজে গ্রহণ করে। সেদিন রবের সামনে দাঁড়ানো ভিড়ের বেলায় দুটি বর্ণনাই খাটে।"
+          },
+          {
+            "en": "Two glosses stand apart from the rest. Al-Kalbi, in al-Qurtubi, reads 'anat as 'alimat, they came to know. Ibn Zayd, in at-Tabari, presses the captive image furthest: the faces were taken captive before the Ever-Living, the Sustainer; they all became His captives, and al-'ani is the captive. At-Tabari's own summary joins the senses: the faces of creation surrendered to the Ever-Living who does not die, the Sustainer who manages His creation.",
+            "bn": "দুটি ব্যাখ্যা বাকিগুলো থেকে আলাদা। কুরতুবীতে কালবী আনাত-এর অর্থ করেন আলিমাত, তারা জেনে গেল। তাবারীতে ইবন যায়দ বন্দির ছবিটাকে সবচেয়ে দূর পর্যন্ত নিয়ে যান। তাঁর ভাষায়, চিরঞ্জীব ধারকের সামনে মুখগুলো বন্দি হয়ে গেল, তারা সবাই তাঁর বন্দি, আর আল-আনী মানে বন্দি। তাবারীর নিজের সারকথায় সব অর্থ এক জায়গায় মেলে: সৃষ্টির মুখগুলো আত্মসমর্পণ করল সেই চিরঞ্জীবের কাছে, যিনি মরেন না, আর সেই ধারকের কাছে, যিনি নিজের সৃষ্টির সব কাজ পরিচালনা করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Prostration Now, or That Day",
+          "bn": "আজকের সেজদা, না সেদিনের নতি"
+        },
+        "p": [
+          {
+            "en": "Is this humbling something that happens on the Day of Resurrection, or something done now? An-Nahhas, in al-Qurtubi, says there are two views on its meaning, the first being that it concerns the Hereafter. The context supports that: 20:108 to 20:110 all describe that Day, and Ibn Kathir explains the second half of the verse as on the Day of Resurrection. As-Sa'di, reading 20:110 to 20:112 together, places the scene in that Standing, where people are divided into two groups.",
+            "bn": "এই নতি কি কিয়ামতের দিনের ঘটনা, নাকি আজকের কোনো আমল? কুরতুবীতে নাহহাস বলেন, এর অর্থ নিয়ে দুটি মত আছে। প্রথম মত হলো, এটা আখিরাতের কথা। প্রসঙ্গও সেদিকেই ইঙ্গিত করে। ২০:১০৮ থেকে ২০:১১০ পর্যন্ত সব আয়াত সেই দিনেরই বর্ণনা, আর ইবন কাসীর আয়াতের দ্বিতীয় অংশের ব্যাখ্যায় বলেন: অর্থাৎ কিয়ামতের দিন। সা'দী ২০:১১০ থেকে ২০:১১২ একসঙ্গে পড়ে দৃশ্যটিকে সেই অবস্থানস্থলে রাখেন, যেখানে মানুষ দুই দলে ভাগ হয়ে যাবে।"
+          },
+          {
+            "en": "The other view reads the verse as prostration. Ikrima reports from Ibn Abbas, in al-Qurtubi, that it means bowing and prostration. Talq ibn Habib says the same through several chains in at-Tabari: when a man prostrates, his face has been humbled; it is placing the forehead and the nose on the ground; in one wording, the forehead, palms, knees and the tips of the feet. Al-Baghawi keeps Talq's reading as prostration on the forehead before the Ever-Living, the Sustainer.",
+            "bn": "অন্য মতে আয়াতটি সেজদার কথা। কুরতুবীতে ইকরিমা ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, এর অর্থ রুকু ও সেজদা। তাবারীতে কয়েকটি সূত্রে তালক ইবন হাবীবও একই কথা বলেন। মানুষ যখন সেজদা করে, তখনই তার মুখ নত হলো। এটা কপাল আর নাক মাটিতে রাখা। এক বর্ণনায় কপাল, দুই হাতের তালু, দুই হাঁটু আর পায়ের আঙুলের মাথা। বাগাবীও তালকের ব্যাখ্যাটি রেখেছেন: চিরঞ্জীব ধারকের জন্য কপাল রেখে সেজদা।"
+          },
+          {
+            "en": "The sources do not set these two views against each other. Al-Qurtubi records both without ruling between them, and at-Tabari lists Talq's chains among those who agree with his own gloss of abasement and surrender. The verse describes faces bowed on the Day; the prostrating believer bows the same face now, by choice, before the same Ever-Living, while the choice is still his to make.",
+            "bn": "সূত্রগুলো এই দুই মতকে পরস্পরের প্রতিদ্বন্দ্বী বানায় না। কুরতুবী দুটিই উল্লেখ করেন, কোনোটির পক্ষে রায় দেন না। আর তাবারী তালকের সূত্রগুলোকে সেই আলেমদের তালিকায় রাখেন, যারা নতি ও আত্মসমর্পণ বিষয়ে তাঁর নিজের ব্যাখ্যার সঙ্গে একমত। আয়াত সেদিনের নত মুখের কথা বলে। আর সেজদায় মুমিন সেই একই মুখ আজই নত করে, নিজের ইচ্ছায়, সেই একই চিরঞ্জীবের সামনে, যতক্ষণ ইচ্ছা করার সুযোগটা তার হাতে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living, and Never Sleeping",
+          "bn": "চিরঞ্জীব, যাঁর ঘুম নেই"
+        },
+        "p": [
+          {
+            "en": "The faces bow before al-Hayy al-Qayyum. Ibn Kathir reports from Ibn Abbas and others that creatures submit, are abased and surrender to their Compeller, the Ever-Living who does not die. Al-Qayyum, in his gloss, does not sleep: He stands over everything, managing it and preserving it; He is complete in Himself; everything is in need of Him, and nothing has any standing except through Him.",
+            "bn": "মুখগুলো নত হয় আল-হাইয়্যু আল-কাইয়্যূমের সামনে। ইবন কাসীর ইবন আব্বাস (রাঃ) ও আরও অনেকের সূত্রে বলেন, সৃষ্টিকুল তাদের মহাপরাক্রমশালী রবের কাছে নত হবে, হীন হবে, আত্মসমর্পণ করবে। তিনি চিরঞ্জীব, তাঁর মৃত্যু নেই। ইবন কাসীরের ব্যাখ্যায় আল-কাইয়্যূম তিনি, যাঁর ঘুম নেই। তিনি সবকিছুর তত্ত্বাবধায়ক, সবকিছু পরিচালনা করেন, রক্ষা করেন। তিনি নিজ সত্তায় পূর্ণ। সবকিছু তাঁর মুখাপেক্ষী, তাঁকে ছাড়া কোনো কিছুর টিকে থাকার উপায় নেই।"
+          },
+          {
+            "en": "Al-Qurtubi gives three interpretations of al-Qayyum: He who maintains the management of creation; He who stands over every soul with what it has earned; and the Everlasting who does not pass away or perish. The same pair of names opens the Throne Verse, 2:255, and Al 'Imran at 3:2. His second sense sits closest to the rest of this verse, which turns at once to what each person has carried to that Standing.",
+            "bn": "কুরতুবী আল-কাইয়্যূমের তিনটি ব্যাখ্যা দেন। এক, যিনি সৃষ্টির সব কাজ পরিচালনা করে চলেছেন। দুই, যিনি প্রত্যেক প্রাণের উপর দাঁড়িয়ে আছেন, তার কামাই সহ। তিন, যিনি চিরস্থায়ী, যাঁর বিলয় নেই, বিনাশ নেই। এই নাম দুটি দিয়েই শুরু হয়েছে আয়াতুল কুরসী (২:২৫৫), আর সূরা আলে ইমরানও (৩:২)। তাঁর দ্বিতীয় অর্থটি এই আয়াতের বাকি অংশের সবচেয়ে কাছে। কারণ আয়াত সঙ্গে সঙ্গেই চলে যায় সেই প্রশ্নে: সেই অবস্থানস্থলে কে কী বয়ে এনেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Wrong Is Carried",
+          "bn": "কোন যুলমের বোঝা"
+        },
+        "p": [
+          {
+            "en": "Wa-qad khaba man hamala zulma. At-Tabari explains khaba as not attaining what a person needed and sought, said of whoever carried to the Standing of the Resurrection shirk, disbelief and deeds of disobedience. Al-Qurtubi, al-Baghawi and al-Muyassar use the plainer word khasira, he lost. As-Sa'di joins failure with deprivation. The verb hamala deserves notice: wrongdoing here is a load, carried all the way to that ground.",
+            "bn": "ওয়া কাদ খাবা মান হামালা যুলমা। তাবারী খাবা-র অর্থ করেন: নিজের প্রয়োজন ও কাঙ্ক্ষিত জিনিস না পাওয়া। এমনই হবে সে, যে কিয়ামতের অবস্থানস্থলে শিরক, কুফর আর নাফরমানির আমল বয়ে এনেছে। কুরতুবী, বাগাবী আর মুয়াসসার আরও সহজ শব্দ ব্যবহার করেন: খাসিরা, সে ক্ষতিগ্রস্ত হলো। সা'দী ব্যর্থতার সঙ্গে বঞ্চনাকে জুড়ে দেন। হামালা ক্রিয়াটি খেয়াল করার মতো। এখানে যুলম এক বোঝা, যা সেই মাঠ পর্যন্ত বয়ে নিয়ে যাওয়া হয়।"
+          },
+          {
+            "en": "What is that wrongdoing? Several sources read it as shirk. Al-Baghawi reports Ibn Abbas: he has lost who associated partners with Allah, and wrongdoing is shirk. At-Tabari brings Qatada and Ibn Zayd, both saying whoever carried shirk, and the line after Ibn Zayd's says that zulm here is shirk. Al-Qurtubi and al-Muyassar agree. Ibn Kathir closes on the same point: the failure, all of it, belongs to whoever meets Allah associating partners with Him, and he cites 31:13, that shirk is a great wrong.",
+            "bn": "সেই যুলম আসলে কী? কয়েকটি সূত্র একে শিরক হিসেবে পড়ে। বাগাবী ইবন আব্বাস (রাঃ)-এর কথা আনেন: যে আল্লাহর সঙ্গে শরিক করেছে সে ক্ষতিগ্রস্ত, আর যুলম মানে শিরক। তাবারী কাতাদা ও ইবন যায়দের কথা আনেন। দুজনই বলেন: যে শিরক বয়ে এনেছে। ইবন যায়দের কথার পরের লাইনে আছে, এখানে যুলম মানে শিরক। কুরতুবী আর মুয়াসসারও একমত। ইবন কাসীরও শেষ করেন একই কথায়: পুরো ব্যর্থতা তার, যে আল্লাহর সঙ্গে শরিক করা অবস্থায় তাঁর সাক্ষাৎ পাবে। প্রমাণ হিসেবে তিনি ৩১:১৩ আনেন: শিরক তো মহা যুলম।"
+          },
+          {
+            "en": "Others read the word more widely. At-Tabari's own gloss puts deeds of disobedience beside shirk and disbelief. As-Sa'di describes the failed group as wrongdoers by their disbelief and their evil. Ibn Kathir starts wider before he narrows: on that Day Allah will render every right to its owner, so that even the hornless sheep is given redress against the horned. On this reading the warning reaches every wrong left unsettled, and shirk is its gravest form. Both readings are kept as given.",
+            "bn": "অন্যরা শব্দটিকে আরও বিস্তৃত অর্থে পড়েন। তাবারীর নিজের ব্যাখ্যায় শিরক ও কুফরের পাশে নাফরমানির আমলও আছে। সা'দী ব্যর্থ দলটিকে বলেন: কুফর আর মন্দ কাজের কারণে যারা যালিম। ইবন কাসীর শুরু করেন আরও প্রশস্ত জায়গা থেকে, তারপর সংকুচিত করেন। সেদিন আল্লাহ প্রত্যেক হকদারকে তার হক বুঝিয়ে দেবেন, এমনকি শিংহীন ছাগলকেও শিংওয়ালা ছাগলের কাছ থেকে বদলা পাইয়ে দেবেন। এ পাঠে সতর্কবাণী পৌঁছে যায় এমন প্রতিটি যুলম পর্যন্ত, যার মীমাংসা হয়নি, আর শিরক তার সবচেয়ে ভারী রূপ। দুটি পাঠই এখানে যেমন পাওয়া গেছে তেমন রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hornless and the Horned",
+          "bn": "শিংহীন আর শিংওয়ালা"
+        },
+        "p": [
+          {
+            "en": "No tafsir consulted gives a sound hadith that speaks of this verse itself; what Ibn Kathir brings are general narrations on wrongdoing. Ibn Kathir's image of the sheep matches a narration Muslim records in his Sahih from Abu Hurayra (2582): 'Rights will certainly be restored to those entitled to them on the Day of Resurrection, (to the point that) even the hornless sheep will lay claim upon the horned one.' It is general and not tied to this verse, but it shows what the wider reading has in view.",
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিতেই এমন কোনো সহীহ হাদীস নেই, যা সরাসরি এ আয়াতের কথা বলে। ইবন কাসীর যা আনেন, তা যুলম নিয়ে সাধারণ বর্ণনা। ইবন কাসীরের ছাগলের ছবিটি মিলে যায় একটি বর্ণনার সঙ্গে, যা মুসলিম তাঁর সহীহ গ্রন্থে আবু হুরায়রা (রাঃ) থেকে এনেছেন (নং ২৫৮২): 'কিয়ামতের দিন হকদারদের হক অবশ্যই আদায় করে দেওয়া হবে, এমনকি শিংওয়ালা ছাগল থেকে শিংহীন ছাগলের বদলাও নেওয়া হবে।' বর্ণনাটি সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়। তবে প্রশস্ত পাঠটি কী বোঝাতে চায়, তা এতে পরিষ্কার হয়।"
+          },
+          {
+            "en": "Ibn Kathir then cites, as found in the Sahih, a saying on wrongdoing as darkness on the Day of Resurrection. Al-Bukhari records it in his Sahih from Ibn Umar (2447), in a single line: 'Oppression will be a darkness on the Day of Resurrection.' It too is general and not attached to this verse. Ibn Kathir's wording differs a little from this report, so only al-Bukhari's line is quoted here.",
+            "bn": "এরপর ইবন কাসীর 'সহীহ'-তে আছে বলে একটি বাণী আনেন, যার বিষয় কিয়ামতের দিন যুলমের অন্ধকার। বুখারী তাঁর সহীহ গ্রন্থে ইবন উমর (রাঃ) থেকে তা এক লাইনে এনেছেন (নং ২৪৪৭): 'যুলম কিয়ামতের দিন অন্ধকার হয়ে দেখা দেবে।' এটিও সাধারণ বর্ণনা, এ আয়াতের সঙ্গে যুক্ত নয়। ইবন কাসীরের শব্দ এই বর্ণনা থেকে সামান্য আলাদা, তাই এখানে শুধু বুখারীর বাক্যটিই উদ্ধৃত হলো।"
+          },
+          {
+            "en": "Ibn Kathir also relays, introduced only as 'in the hadith', a saying attributed to Allah on the subject of wrongdoing on that Day. He names no collection and gives no grading, so it is only mentioned here, and nothing is built on it. None of the fetched commentaries gives an occasion of revelation for the verse either. It is read in its place in the sequence, as the hinge between the knowledge of 20:110 and the promise of 20:112.",
+            "bn": "ইবন কাসীর শুধু 'হাদীসে আছে' বলে আরেকটি বাণী আনেন, যা আল্লাহর কথা হিসেবে বর্ণিত, আর তার বিষয় সেদিনের যুলম। তিনি কোনো সংকলনের নাম বলেননি, মানও জানাননি। তাই এখানে কেবল এর উল্লেখটুকু রইল, এর উপর কিছু দাঁড় করানো হয়নি। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিতে এ আয়াতের শানে নুযূলও নেই। আয়াতটি তাই পড়া হয় ধারাবাহিকতার ভেতরে তার নিজের জায়গায়: ২০:১১০ আয়াতের জ্ঞানের কথা আর ২০:১১২ আয়াতের প্রতিশ্রুতির মাঝখানে সংযোগের কবজা হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither Wrong Nor Curtailment",
+          "bn": "না অবিচার, না কমতি"
+        },
+        "p": [
+          {
+            "en": "The next verse answers this one with the same word. Wa-man ya'mal mina s-salihati wa-huwa mu'minun fa-la yakhafu zulman wa-la hadma: whoever does righteous deeds while a believer fears neither wrong nor curtailment. In 20:111 a man carries zulm to the Day; in 20:112 the believer has no zulm to fear. Ibn Kathir names the pairing: after Allah mentions the wrongdoers and their threat, He praises the God-fearing and states their judgement, that they will be neither wronged nor oppressed.",
+            "bn": "পরের আয়াত এ আয়াতের জবাব দেয় একই শব্দ দিয়ে। ওয়া মাই ইয়া'মাল মিনাস সালিহাতি ওয়া হুয়া মু'মিনুন ফালা ইয়াখাফু যুলমান ওয়ালা হাদমা: মুমিন অবস্থায় যে নেক আমল করে, তার না অবিচারের ভয় আছে, না কমতির। ২০:১১১ আয়াতে একজন যুলম বয়ে নিয়ে যায় সেই দিনে। ২০:১১২ আয়াতে মুমিনের ভয় পাওয়ার মতো কোনো যুলম নেই। ইবন কাসীর এই জোড়টা স্পষ্ট করেন। যালিমদের আর তাদের প্রতি হুমকির কথা বলার পর আল্লাহ মুত্তাকীদের প্রশংসা করেন এবং তাদের ফয়সালা জানান: তাদের উপর যুলমও হবে না, নিপীড়নও হবে না।"
+          },
+          {
+            "en": "In Ibn Kathir, their evil deeds will not be increased and their good deeds will not be decreased, and he names Ibn Abbas, Mujahid, ad-Dahhak, al-Hasan and Qatada for it; zulm there is an increase from the sins of others being laid on a person, and hadm a decrease. As-Sa'di says the same and goes further: the believer's sins are forgiven, his faults cleansed and his good deeds multiplied, and he cites 4:40, that a good deed He multiplies.",
+            "bn": "ইবন কাসীরের ব্যাখ্যায় তাদের গুনাহ বাড়ানো হবে না, নেকিও কমানো হবে না। এ ব্যাখ্যার জন্য তিনি ইবন আব্বাস (রাঃ), মুজাহিদ, দাহহাক, হাসান ও কাতাদার নাম নেন। সেখানে যুলম মানে অন্যের গুনাহ কারও ঘাড়ে চাপিয়ে তার বোঝা বাড়ানো, আর হাদম মানে কমিয়ে দেওয়া। সা'দীও একই কথা বলেন, তারপর আরও এগিয়ে যান: মুমিনের গুনাহ মাফ হবে, দোষত্রুটি ধুয়ে যাবে, নেকি বহুগুণ হবে। প্রমাণ হিসেবে তিনি ৪:৪০ আনেন: নেকি হলে তিনি তা বহুগুণ করে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Setting the Load Down",
+          "bn": "বোঝাটা নামিয়ে রাখা"
+        },
+        "p": [
+          {
+            "en": "A word of restraint belongs here. The verse describes two outcomes on the Day; it names no living person and passes no verdict on anyone now. It gives no licence to call any person or community the one who carried zulm, or to declare anyone failed. The judgement there belongs to the Ever-Living, the Sustainer, whose knowledge in 20:110 takes in all of them. What the verse hands the reader is a question about his own load, not a label for someone else's.",
+            "bn": "এখানে একটি সংযমের কথা বলা জরুরি। আয়াত সেই দিনের দুটি পরিণতির বর্ণনা দেয়। এতে কোনো জীবিত মানুষের নাম নেই, আজকের কারও উপর কোনো রায়ও নেই। কোনো ব্যক্তি বা সম্প্রদায়কে 'যে যুলম বয়ে এনেছে' বলে চিহ্নিত করার, কিংবা কাউকে ব্যর্থ ঘোষণা করার কোনো অনুমতি এ আয়াত দেয় না। সেখানকার বিচার চিরঞ্জীব ধারকের হাতে, ২০:১১০ আয়াতে যাঁর জ্ঞান সবাইকে ঘিরে আছে। আয়াত পাঠকের হাতে তুলে দেয় তার নিজের বোঝা নিয়ে একটি প্রশ্ন, অন্যের গায়ে লাগানোর মতো কোনো তকমা নয়।"
+          },
+          {
+            "en": "That question is practical. On the wider reading, a wrong done to another stays a load until it is settled, and the sheep and the horn show that nothing is too small to be counted. On every reading, the heaviest load is shirk. The way to set a load down is named in the next verse: righteous deeds done in faith.",
+            "bn": "প্রশ্নটা হাতে-কলমে। প্রশস্ত পাঠ অনুযায়ী অন্যের প্রতি করা অন্যায় মীমাংসা না হওয়া পর্যন্ত বোঝা হয়েই থাকে। ছাগল আর শিংয়ের ছবি বলে দেয়, হিসাবের বাইরে থাকার মতো ছোট কিছু নেই। আর যে পাঠই ধরা হোক, সবচেয়ে ভারী বোঝা শিরক। বোঝা নামানোর পথ পরের আয়াতই বলে দেয়: ঈমানের সঙ্গে নেক আমল।"
+          }
+        ]
+      }
+    ]
+  },
   "20:114": {
     "sections": [
       {
