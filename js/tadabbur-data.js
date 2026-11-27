@@ -34579,6 +34579,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Answer mockery of the truth with the truth stated plainly: your Lord is the One who made the heavens and the earth, and the believer stands as a witness to it.",
     "lessonBn": "সত্য নিয়ে ঠাট্টার জবাব দিন সত্যটা সোজা ভাষায় বলে: আপনার রব তিনিই, যিনি আসমান ও জমিন বানিয়েছেন, আর মুমিন এ কথার সাক্ষী হয়ে দাঁড়ায়।"
+  },
+  "21:69": {
+    "reflectionEn": "They had lost the argument, so they reached for fire. A people who could not answer one young man decided to burn him, and the Qur'an does not describe the blaze at all. It gives only the command spoken to it: O fire, be coolness and safety upon Ibrahim. Not just less heat, but no harm of any kind, and aimed at one man by name. The fire that a whole city had built obeyed seven words. I should not expect every fire of mine to turn cold; this was a sign given to a prophet. But I can ask what I trust more: the heat in front of me, or the One who speaks to it? And when every human court has ruled against me, is Allah still enough?",
+    "reflectionBn": "যুক্তিতে হেরে গিয়ে তারা আগুনের আশ্রয় নিল। একজন তরুণের কথার জবাব দিতে না পেরে গোটা জাতি ঠিক করল, তাঁকে পুড়িয়ে মারবে। কুরআন সেই আগুনের কোনো বর্ণনাই দেয় না। দেয় শুধু আগুনকে দেওয়া হুকুমটি: হে আগুন, ইবরাহীমের জন্য শীতল ও নিরাপদ হয়ে যাও। শুধু তাপ কমে যাওয়া নয়, কোনো রকম ক্ষতিই না হওয়া। আর হুকুমটা একজন মানুষকে নাম ধরে লক্ষ্য করে। গোটা শহর মিলে যে আগুন জ্বালাল, তা মানল সাতটি শব্দের হুকুম। আমার জীবনের প্রতিটি আগুন ঠান্ডা হয়ে যাবে, এমন আশা আমি করি না। এ ছিল একজন নবীকে দেওয়া নিদর্শন। কিন্তু নিজেকে জিজ্ঞেস করতে পারি: আমি কার উপর বেশি ভরসা করি, সামনের আগুনের তাপের উপর, নাকি যিনি আগুনকে হুকুম দেন তাঁর উপর? আর মানুষের সব আদালত যখন আমার বিরুদ্ধে রায় দেয়, তখনও কি আমার জন্য আল্লাহই যথেষ্ট থাকেন?",
+    "pointsEn": [
+      "When I am losing an argument, do I ever reach for pressure, anger or numbers instead of the truth?",
+      "What fire am I standing in front of right now, and have I handed it to Allah or only to my own worry?",
+      "Do I treat the things I fear as if they had the final word over me?",
+      "When relief reached me in a form I did not expect, did I recognise whose command it was?",
+      "Who do I know who is standing in a fire tonight, and how could I be a little coolness and safety for them?"
+    ],
+    "pointsBn": [
+      "তর্কে হারতে বসলে আমি কি কখনো সত্যের বদলে চাপ, রাগ বা দলের জোরের আশ্রয় নিই?",
+      "এই মুহূর্তে আমি কোন আগুনের সামনে দাঁড়িয়ে আছি? সেটা কি আল্লাহর হাতে সঁপে দিয়েছি, নাকি শুধু নিজের দুশ্চিন্তার হাতে?",
+      "যে জিনিসগুলোকে আমি ভয় পাই, সেগুলোকে কি এমনভাবে দেখি যেন আমার উপর শেষ কথা ওদেরই?",
+      "স্বস্তি যখন আমার কাছে অপ্রত্যাশিত চেহারায় এসেছে, আমি কি চিনতে পেরেছি সেটা কার হুকুমে এল?",
+      "আমার চেনা কে আজ রাতে আগুনের মধ্যে দাঁড়িয়ে আছে? তার জন্য আমি কীভাবে একটু শীতলতা আর নিরাপত্তা হতে পারি?"
+    ],
+    "lessonEn": "People who lose an argument may reach for force, but every fire answers to Allah's command; meet what frightens you by entrusting it to Him.",
+    "lessonBn": "যুক্তিতে হেরে মানুষ শক্তির আশ্রয় নিতে পারে, কিন্তু প্রতিটি আগুন চলে আল্লাহর হুকুমে। যা আপনাকে ভয় দেখায়, তা তাঁর হাতে সঁপে দিয়েই তার মুখোমুখি হোন।"
   }
 };
 

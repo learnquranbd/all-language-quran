@@ -3071,6 +3071,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:69": {
+    "sections": [
+      {
+        "h": {
+          "en": "When the Argument Ran Out",
+          "bn": "যুক্তি ফুরোলে আগুন"
+        },
+        "p": [
+          {
+            "en": "The verse before this one records a verdict, not an answer: burn him and support your gods, if you are to act (21:68). Al-Muyassar joins the two verses in one movement. When their proof had collapsed and the truth was plain, it says, they turned to the use of their power. They lit a great fire and threw him into it, and Allah came to the aid of His messenger and said to the fire, be coolness and safety upon Ibrahim, so that no harm reached him there and nothing hateful touched him.",
+            "bn": "এর আগের আয়াতে আছে একটা রায়, কোনো জবাব নয়: তাকে পুড়িয়ে দাও, আর তোমাদের উপাস্যদের সাহায্য করো, যদি কিছু করতেই চাও (২১:৬৮)। মুয়াসসার দুটি আয়াতকে এক টানে পড়ে। তাদের যুক্তি যখন ভেঙে পড়ল আর সত্য স্পষ্ট হয়ে গেল, তখন তারা ক্ষমতার জোর খাটাতে নামল। বিশাল আগুন জ্বালিয়ে তাঁকে তাতে ছুড়ে ফেলল। তখন আল্লাহ তাঁর রাসূলের পক্ষ নিলেন এবং আগুনকে বললেন, ইবরাহীমের জন্য শীতল ও নিরাপদ হয়ে যাও। ফলে সেখানে কোনো কষ্ট তাঁকে ছুঁতে পারল না, কোনো অপ্রিয় কিছুও তাঁর গায়ে লাগল না।"
+          },
+          {
+            "en": "The verse itself leaps from the order to burn straight to the order given to the fire. At-Tabari notes that something has been left out of the wording, and that what is said around it is enough to supply it: they kindled a fire for him in order to burn him, then threw him into it, and We said to the fire. The building, the wood and the throwing get no word here. As-Sa'di keeps to the result: the fire was coolness and safety upon him, no harm reached him in it, and he felt nothing he disliked.",
+            "bn": "আয়াতটি পোড়ানোর হুকুম থেকে সোজা লাফ দেয় আগুনকে দেওয়া হুকুমে। তাবারী বলেন, এখানে কথার একটা অংশ উহ্য রাখা হয়েছে, আশপাশের কথাই তা বুঝিয়ে দেয়। উহ্য অংশটা এই: তারা তাঁকে পোড়াতে আগুন জ্বালাল, তারপর তাঁকে তাতে ফেলে দিল, তখন আমি আগুনকে বললাম। কাঠামো বানানো, কাঠ জোগাড়, ছুড়ে ফেলা, এর কোনোটার জন্য এ আয়াতে একটি শব্দও খরচ হয়নি। সা'দী থাকেন ফলাফলে: আগুন তাঁর জন্য শীতল ও নিরাপদ হয়ে গেল, তাতে কোনো কষ্ট তাঁকে স্পর্শ করেনি, অপছন্দের কিছু তিনি টেরও পাননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken Straight to the Flames",
+          "bn": "সরাসরি আগুনকে সম্বোধন"
+        },
+        "p": [
+          {
+            "en": "Qulna, We said, opens the verse, and the speaker is Allah. Al-Qurtubi introduces the command with a phrase of his own, and He is the most truthful of those who speak. Then ya naru, O fire: the fire is called by the vocative used for a person, and told what to be. The verse records no answer; the next one takes its obedience for granted.",
+            "bn": "আয়াতের শুরু কুলনা দিয়ে, অর্থাৎ আমি বললাম। বক্তা আল্লাহ নিজে। কুরতুবী হুকুমটির আগে নিজের একটি বাক্য জুড়ে দেন: আর তিনিই সবচেয়ে সত্যবাদী বক্তা। তারপর ইয়া নারু, হে আগুন। মানুষকে যেভাবে ডাকা হয়, আগুনকে সেভাবেই ডাকা হলো, আর বলে দেওয়া হলো তাকে কী হতে হবে। আগুনের কোনো জবাব আয়াতে নেই। পরের আয়াত তার আনুগত্যকে স্বাভাবিক ধরে নিয়েই এগোয়।"
+          },
+          {
+            "en": "Two reports in the tafsirs pull in different directions over who called out. At the end of a long account from as-Suddi, at-Tabari has it that Jibril called to the fire. In a report from Sa'id ibn Jubayr, which Ibn Kathir gives from Ibn Abbas (RA), the angel in charge of rain hoped to be allowed to send rain, but Allah's command was swifter, and He said: O fire, be coolness and safety. Neither report is traced to the Prophet ﷺ. The verse's own word is qulna.",
+            "bn": "কে আগুনকে ডেকেছিল, এ নিয়ে তাফসীরের দুটি বর্ণনা দুই দিকে যায়। সুদ্দীর এক দীর্ঘ বর্ণনার শেষে তাবারী আনেন যে আগুনকে ডেকেছিলেন জিবরীল। আবার সাঈদ ইবন জুবাইরের এক বর্ণনায়, যা ইবন কাসীর ইবন আব্বাস (রাঃ)-এর সূত্রে দেন, বৃষ্টির দায়িত্বে থাকা ফেরেশতা আশা করছিলেন বৃষ্টি পাঠানোর অনুমতি পাবেন। কিন্তু আল্লাহর হুকুম তার আগেই এসে গেল, তিনি বললেন: হে আগুন, শীতল ও নিরাপদ হয়ে যাও। কোনো বর্ণনাই নবী ﷺ পর্যন্ত পৌঁছায় না। আয়াতের নিজের শব্দ কুলনা, আমি বললাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Coolness Held by Safety",
+          "bn": "নিরাপত্তায় বাঁধা শীতলতা"
+        },
+        "p": [
+          {
+            "en": "Why both words, bardan wa salaman, coolness and safety? The early answer is that coolness alone could have been its own harm. Ibn Kathir relays from Ibn Abbas (RA) and Abu l-'Aliya that, had Allah not said wa salaman, Ibrahim would have been hurt by its cold. At-Tabari and al-Baghawi give the Ibn Abbas report more sharply: had its coolness not been followed by safety, Ibrahim would have died of its cold. In at-Tabari, Abu l-'Aliya says the cold would otherwise have been harder on him than the heat.",
+            "bn": "দুটি শব্দ কেন, বারদান ওয়া সালামান, শীতল ও নিরাপদ? প্রথম যুগের জবাব হলো, শুধু শীতলতাও নিজেই এক কষ্ট হয়ে উঠতে পারত। ইবন কাসীর ইবন আব্বাস (রাঃ) ও আবুল আলিয়ার কথা আনেন: আল্লাহ যদি ওয়া সালামান না বলতেন, তবে এর ঠান্ডাই ইবরাহীমকে কষ্ট দিত। তাবারী ও বাগাভী ইবন আব্বাসের বর্ণনাটি আরও কড়া ভাষায় দেন: শীতলতার পরে নিরাপত্তা না এলে ঠান্ডাতেই ইবরাহীম মারা যেতেন। তাবারীর বর্ণনায় আবুল আলিয়া বলেন, তা না হলে ঠান্ডা তাঁর উপর গরমের চেয়েও কঠিন হতো।"
+          },
+          {
+            "en": "A report from Ali ibn Abi Talib (RA), in at-Tabari and Ibn Kathir, turns the same idea into a moment: it grew cold upon him until it almost killed him, until it was said, and safety, meaning do not harm him. At-Tabari's chain for it runs through al-A'mash from a shaykh who is not named. Ibn Jurayj, also in at-Tabari, divides the work between the two words: bardan, it grew cool upon him; wa salaman, it did not hurt him. One word removes the heat; the other keeps the remedy from becoming a wound.",
+            "bn": "আলী ইবন আবী তালিব (রাঃ)-এর এক বর্ণনা, যা তাবারী ও ইবন কাসীর দুজনেই আনেন, একই ভাবনাকে একটা মুহূর্তে রূপ দেয়। আগুন তাঁর উপর এত ঠান্ডা হয়ে গেল যে প্রায় তাঁকে মেরে ফেলছিল, তখন বলা হলো: ওয়া সালামান, অর্থাৎ তাঁকে কষ্ট দিয়ো না। তাবারীর সনদে এ বর্ণনা আ'মাশ থেকে এক শায়খের মাধ্যমে আসে, যাঁর নাম বলা হয়নি। তাবারীতেই ইবন জুরাইজ দুই শব্দের কাজ ভাগ করে দেন: বারদান, আগুন তাঁর জন্য ঠান্ডা হলো; ওয়া সালামান, তা তাঁকে কষ্ট দিল না। একটি শব্দ তাপ সরায়, অন্যটি খেয়াল রাখে যাতে প্রতিকারটাই আবার আঘাত না হয়ে দাঁড়ায়।"
+          },
+          {
+            "en": "Al-Qurtubi records a subtler reading from some scholars: Allah placed in the fire a coolness that took away its heat and a heat that took away its coolness, so that it became safety for him. He then gives Abu l-'Aliya a second limit, on the last words of the verse: had He not said 'ala Ibrahim, upon Ibrahim, its coolness would have remained forever. Al-Baghawi states the same point without naming anyone. On these readings nothing in the seven words is spare: the cool, the safety, and the name at the end each set a boundary.",
+            "bn": "কুরতুবী কিছু আলিমের আরও সূক্ষ্ম একটি ব্যাখ্যা আনেন। আল্লাহ আগুনের মধ্যে এমন শীতলতা দিলেন যা তার তাপ সরিয়ে দেয়, আবার এমন উষ্ণতা দিলেন যা তার শীতলতা সরিয়ে দেয়। এভাবে আগুন তাঁর জন্য নিরাপত্তা হয়ে গেল। এরপর তিনি আয়াতের শেষ শব্দগুলো নিয়ে আবুল আলিয়ার আরেকটি সীমারেখা উল্লেখ করেন: আলা ইবরাহীম, ইবরাহীমের জন্য, এ কথা না বললে আগুনের শীতলতা চিরকাল থেকে যেত। বাগাভীও একই কথা বলেন, তবে কারও নাম না নিয়ে। এসব ব্যাখ্যায় সাতটি শব্দের কোনোটিই বাড়তি নয়। শীতলতা, নিরাপত্তা আর শেষের নামটি, প্রত্যেকটি একেকটা সীমা টেনে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Still Fire, Yet Harmless",
+          "bn": "আগুন রইল, ক্ষতি রইল না"
+        },
+        "p": [
+          {
+            "en": "Did the fire stop being fire? Ma'arif al-Qur'an sets out two explanations. One is that it ceased to be fire and turned into a pleasant breeze. The other, which it calls the more plausible, is that it remained fire but did not touch his body, while it burned the things around him, so much so that it burned through the rope that bound him. On either explanation the verse fixes what matters: the command is not be cool, simply, but be coolness and safety upon Ibrahim, a person named.",
+            "bn": "আগুন কি আগুনই থাকল না? মাআরিফুল কুরআন দুটি ব্যাখ্যা দেয়। একটি হলো, আগুন আর আগুন রইল না, বদলে গেল মনোরম বাতাসে। অন্যটিকে সে বেশি যুক্তিসংগত বলে: আগুন আগুনই রইল, কিন্তু তাঁর শরীর স্পর্শ করল না। আশপাশের জিনিস পুড়ল, এমনকি যে দড়িতে তাঁকে বাঁধা হয়েছিল তাও পুড়ে গেল। যে ব্যাখ্যাই ধরা হোক, আসল কথাটা আয়াত নিজেই ঠিক করে দেয়। আগুনকে শুধু ঠান্ডা হতে বলা হয়নি, বলা হয়েছে নাম ধরে একজন মানুষের জন্য, ইবরাহীমের জন্য, শীতল ও নিরাপদ হতে।"
+          },
+          {
+            "en": "The detail of the rope comes from a report of Ka'b al-Ahbar, relayed by four of the commentaries on this verse: the fire burned nothing of Ibrahim except his bonds. At-Tabari gives it through Qatada by several chains, and once through Ibn Jurayj, where it is the bonds they had tied him with. Ibn Kathir and al-Baghawi carry it from Ka'b; al-Qurtubi names Ka'b and Qatada together. It is a report from Ka'b, not a narration from the Prophet ﷺ, and it is weighed as such.",
+            "bn": "দড়ির কথাটা এসেছে কা'ব আল-আহবারের এক বর্ণনা থেকে, এ আয়াতের চারটি তাফসীরে যা পাওয়া যায়: আগুন ইবরাহীমের কিছুই পোড়ায়নি, শুধু তাঁর বাঁধন ছাড়া। তাবারী কথাটা কাতাদার মাধ্যমে একাধিক সনদে আনেন, আর একবার ইবন জুরাইজের মাধ্যমে, সেখানে বলা আছে, যে বাঁধনে তারা তাঁকে বেঁধেছিল। ইবন কাসীর ও বাগাভী তা কা'ব থেকে আনেন, আর কুরতুবী কা'ব ও কাতাদা দুজনের নাম একসঙ্গে নেন। এটি কা'বের বর্ণনা, নবী ﷺ থেকে আসা কোনো হাদীস নয়। তাই এর ওজনও সেই মাপেই।"
+          },
+          {
+            "en": "A wider report says the command reached further than one blaze. In at-Tabari, Ibn Abbas (RA) says that no fire on earth remained that day without going out, each one thinking it was the one addressed. Al-Qurtubi gives it from Ali and Ibn Abbas together, and al-Baghawi calls it what is well known in the reports, adding that no one in the world drew benefit from fire that day. Al-Baghawi holds this beside Abu l-'Aliya's limit in one passage: the fires went out on that day, and upon Ibrahim kept the cold from lasting.",
+            "bn": "আরেকটি বর্ণনা বলে, হুকুমের প্রভাব একটি আগুনের চেয়ে অনেক দূর গিয়েছিল। তাবারীতে ইবন আব্বাস (রাঃ) বলেন, সেদিন পৃথিবীর এমন কোনো আগুন বাকি ছিল না যা নিভে যায়নি। প্রতিটি আগুনই ভেবেছিল, হুকুমটা বুঝি তাকেই দেওয়া হয়েছে। কুরতুবী কথাটা আলী ও ইবন আব্বাস দুজনের নামে আনেন। বাগাভী একে বর্ণনাগুলোর মধ্যে সুপরিচিত কথা বলেন এবং যোগ করেন, সেদিন দুনিয়ার কেউ আগুন থেকে কোনো উপকার পায়নি। এক অনুচ্ছেদেই বাগাভী আবুল আলিয়ার সীমারেখার কথাও রাখেন: আগুনগুলো নিভেছিল সেই দিনটির জন্য, আর আলা ইবরাহীম শব্দ দুটি ঠান্ডাকে স্থায়ী হতে দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "His Last Words Before",
+          "bn": "আগুনে পড়ার আগের কথা"
+        },
+        "p": [
+          {
+            "en": "What did Ibrahim say as he was thrown? Ibn Kathir, writing on these verses, points to a narration of al-Bukhari from Ibn Abbas (RA). In Sahih al-Bukhari 4563 it reads whole: Allah is sufficient for us and He is the best Disposer of affairs, was said by Abraham when he was thrown into the fire; and it was said by Muhammad when they said, a great army is gathering against you, therefore fear them, but it only increased their faith and they said: Allah is sufficient for us, and He is the best Disposer of affairs.",
+            "bn": "ছুড়ে ফেলার মুহূর্তে ইবরাহীম (আঃ) কী বলেছিলেন? ইবন কাসীর এ আয়াতগুলোর আলোচনায় ইবন আব্বাস (রাঃ) থেকে বুখারীর একটি বর্ণনার দিকে ইঙ্গিত করেন। সহীহ বুখারী ৪৫৬৩-এ পুরো বর্ণনাটি এরকম: হাসবুনাল্লাহু ওয়া নি'মাল ওয়াকীল, আল্লাহই আমাদের জন্য যথেষ্ট, আর তিনি কত উত্তম কর্মবিধায়ক। এ কথা ইবরাহীম বলেছিলেন যখন তাঁকে আগুনে ফেলা হয়েছিল। আর মুহাম্মাদ ﷺ বলেছিলেন যখন লোকেরা বলল, তোমাদের বিরুদ্ধে বিশাল বাহিনী জড়ো হয়েছে, তাদের ভয় করো। কিন্তু এতে তাদের ঈমান আরও বেড়ে গেল, আর তারা বলল: আল্লাহই আমাদের জন্য যথেষ্ট, আর তিনি কত উত্তম কর্মবিধায়ক।"
+          },
+          {
+            "en": "The narration sits in al-Bukhari's Sahih, and its words are those of Ibn Abbas (RA), not a saying of the Prophet ﷺ. It ties the moment before this verse to 3:173, where the same sentence answered news of a gathered army. Ibn Kathir sets it beside a report from Shu'ayb al-Jaba'i with the same words. The order matters: the sentence came before the command to the fire, while the flames were still real to everyone there.",
+            "bn": "বর্ণনাটি বুখারীর সহীহ গ্রন্থের, আর কথাগুলো ইবন আব্বাস (রাঃ)-এর, নবী ﷺ-এর নিজের উক্তি নয়। এ বর্ণনা এ আয়াতের ঠিক আগের মুহূর্তকে জুড়ে দেয় ৩:১৭৩ আয়াতের সঙ্গে, যেখানে বাহিনী জড়ো হওয়ার খবরের জবাবে একই বাক্য উচ্চারিত হয়েছিল। ইবন কাসীর এর পাশে শুআইব আল-জাবাঈর একটি বর্ণনাও রাখেন, যাতে একই কথা আছে। ক্রমটা গুরুত্বপূর্ণ। বাক্যটি এসেছিল আগুনকে হুকুম দেওয়ার আগে, যখন উপস্থিত সবার চোখে আগুন তখনও সত্যিকারের আগুন।"
+          },
+          {
+            "en": "At-Tabari keeps other reports of what was said. In as-Suddi's account, Ibrahim raised his head to the sky and said that no one on earth worshipped Allah but him, then said, Allah is sufficient for me. Through Mu'tamir, from some of his companions who are not named, Jibril came while Ibrahim was being bound and asked whether he needed anything; he answered that he needed nothing from him. As-Suddi's account also has heaven and earth plead for him and receive a reply, which is left unquoted here as an unconfirmed report.",
+            "bn": "কী বলা হয়েছিল, এ নিয়ে তাবারী আরও কিছু বর্ণনা রাখেন। সুদ্দীর বর্ণনায় ইবরাহীম (আঃ) আকাশের দিকে মাথা তুললেন, বললেন যে পৃথিবীতে আল্লাহর ইবাদাত করার মতো তিনি ছাড়া আর কেউ নেই, তারপর বললেন: আল্লাহই আমার জন্য যথেষ্ট। মু'তামিরের মাধ্যমে, তাঁর এমন কিছু সঙ্গী থেকে যাঁদের নাম বলা হয়নি, বর্ণনা আছে: তাঁকে যখন বাঁধা হচ্ছিল, জিবরীল এসে জিজ্ঞেস করলেন, কিছু লাগবে কি না। তিনি জবাব দিলেন, আপনার কাছে আমার কিছু চাওয়ার নেই। সুদ্দীর বর্ণনায় আসমান-জমিনের সুপারিশ আর তার জবাবের কথাও আছে। অনিশ্চিত বর্ণনা বলে সে অংশ এখানে উদ্ধৃত করা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stories Told Around the Blaze",
+          "bn": "আগুন ঘিরে গড়ে ওঠা কাহিনি"
+        },
+        "p": [
+          {
+            "en": "Around these seven words the tafsirs gather a great deal of narrative. As-Suddi, in at-Tabari and in Ibn Kathir's abridged English, describes how the people collected wood and how fierce the blaze became, and in Ibn Kathir's version the same account has him put into a catapult. None of this is in the Qur'an, and none of it is traced to the Prophet ﷺ. They are mentioned here only so the reader knows they exist, not as part of the verse.",
+            "bn": "এই সাতটি শব্দকে ঘিরে তাফসীরগুলোতে অনেক কাহিনি জমেছে। সুদ্দী, তাবারীতে এবং ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে, বর্ণনা করেন লোকেরা কীভাবে কাঠ জোগাড় করেছিল আর আগুন কত ভয়াবহ হয়েছিল। ইবন কাসীরের সংস্করণে একই বর্ণনায় আছে, তাঁকে একটি নিক্ষেপ-যন্ত্রে বসানো হয়েছিল। এর কিছুই কুরআনে নেই, কিছুই নবী ﷺ পর্যন্ত পৌঁছায় না। এখানে উল্লেখ শুধু এটুকু জানাতে যে এমন বর্ণনা আছে, আয়াতের অংশ হিসেবে নয়।"
+          },
+          {
+            "en": "The same holds for what is said of the inside of the fire. Al-Qurtubi and al-Baghawi report that he stayed there seven days, and Ma'arif al-Qur'an gives the same from some historical accounts. Several tafsirs speak of an angel of shade beside him, and al-Baghawi and al-Qurtubi tell of a king watching from a tower who then offered a great sacrifice. Al-Minhal ibn Amr has Ibrahim say that no days of his life were more pleasant; in Ibn Kathir's chain al-Minhal himself says only, I was told.",
+            "bn": "আগুনের ভেতরের বর্ণনাগুলোর ব্যাপারেও একই কথা। কুরতুবী ও বাগাভী বলেন, তিনি সেখানে সাতটি দিন ছিলেন, আর মাআরিফুল কুরআনও কিছু ঐতিহাসিক বর্ণনার বরাতে একই কথা বলে। কয়েকটি তাফসীরে তাঁর পাশে ছায়ার ফেরেশতার কথা আছে। বাগাভী ও কুরতুবী শোনান এক রাজার কথা, যে উঁচু মিনার থেকে তাকিয়ে দেখছিল এবং পরে বড় এক কুরবানির প্রস্তাব দিয়েছিল। মিনহাল ইবন আমরের বর্ণনায় ইবরাহীম (আঃ) বলেন, জীবনে এর চেয়ে আরামের দিন তিনি কাটাননি। অথচ ইবন কাসীরের সনদে মিনহাল নিজেই শুধু বলেন: আমাকে জানানো হয়েছে।"
+          },
+          {
+            "en": "Even his age is reported two ways, and al-Qurtubi keeps the difference without settling it. A Shu'ayb, whose surname the tafsirs spell differently, says Ibrahim was sixteen when he was thrown into the fire; Ibn Jurayj says he was twenty-six. Al-Qurtubi notes that ath-Tha'labi mentions the first and al-Mawardi the second, and closes with Allah knows best. The verse itself gives no age, no number of days and no king's name. It gives a command and a name, and al-Qurtubi's restraint at the edges is a fair model for the reader.",
+            "bn": "এমনকি তাঁর বয়স নিয়েও দুই রকম বর্ণনা আছে, আর কুরতুবী মীমাংসা না করে মতভেদটা রেখে দেন। শুআইব নামের এক বর্ণনাকারী, তাফসীরগুলোতে যাঁর পদবির বানান একেক রকম, বলেন আগুনে নিক্ষেপের সময় ইবরাহীম (আঃ)-এর বয়স ছিল ষোলো। ইবন জুরাইজ বলেন, ছাব্বিশ। কুরতুবী জানান, প্রথম মতটি সা'লাবী উল্লেখ করেছেন, দ্বিতীয়টি মাওয়ার্দী, তারপর শেষ করেন আল্লাহু আ'লাম বলে। আয়াত নিজে কোনো বয়স দেয় না, দিনের হিসাব দেয় না, কোনো রাজার নামও নেয় না। দেয় একটি হুকুম আর একটি নাম। কিনারার এসব বিষয়ে কুরতুবীর এই সংযম পাঠকের জন্যও ভালো আদর্শ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Plotters Made the Losers",
+          "bn": "চক্রান্তকারীরাই হলো ক্ষতিগ্রস্ত"
+        },
+        "p": [
+          {
+            "en": "The verse that follows names the result from the other side: they intended a plot against him, and We made them the greatest losers (21:70). Ibn Kathir's abridged English reads it plainly: they were defeated and humiliated, because they had plotted against the Prophet of Allah, and Allah saved him from the fire. The same scene is told again in 29:24, where the people's answer is kill him or burn him, and in 37:97 and 37:98, where they build a structure and cast him into the blaze. In 29:24 Allah's rescue is stated outright; in 37:98, as in 21:70, the plotters are the ones brought low.",
+            "bn": "পরের আয়াত ফলাফলটা বলে অন্য পক্ষের দিক থেকে: তারা তাঁর বিরুদ্ধে চক্রান্ত করতে চেয়েছিল, কিন্তু আমি তাদেরকেই সবচেয়ে ক্ষতিগ্রস্ত করলাম (২১:৭০)। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ একে সরলভাবে পড়ে: তারা পরাজিত ও অপমানিত হলো, কারণ তারা আল্লাহর নবীর বিরুদ্ধে চক্রান্ত করেছিল, আর আল্লাহ তাঁকে আগুন থেকে বাঁচালেন। একই দৃশ্য আবার আসে ২৯:২৪ আয়াতে, যেখানে জাতির জবাব ছিল, তাকে হত্যা করো অথবা পুড়িয়ে দাও। আসে ৩৭:৯৭ ও ৩৭:৯৮ আয়াতেও, যেখানে তারা একটি কাঠামো বানিয়ে তাঁকে আগুনে ফেলে। ২৯:২৪ আয়াতে আল্লাহর উদ্ধারের কথা সরাসরি বলা আছে। আর ৩৭:৯৮ আয়াতে, ২১:৭০ আয়াতের মতোই, নিচু হয় চক্রান্তকারীরাই।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what one people did to one prophet, and what Allah did in answer, as the Qur'an tells it. It licenses nothing against any living person or community, and it gives no one the right to treat today's opponents as that crowd, or to call down their fate on anyone. The people of the story chose force when argument failed. A reader who answers disagreement with contempt or harm has stepped toward their side of the story, not toward Ibrahim's.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। কুরআন যেভাবে বলেছে, আয়াতটি সেভাবেই বর্ণনা করে একটি জাতি একজন নবীর সঙ্গে কী করেছিল, আর জবাবে আল্লাহ কী করেছিলেন। বর্তমানের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের প্রতিপক্ষকে সেই ভিড়ের মতো গণ্য করার, কিংবা কারও উপর তাদের পরিণতি কামনা করার অধিকারও কাউকে দেয় না। কাহিনির লোকেরা যুক্তিতে হেরে শক্তির পথ বেছে নিয়েছিল। যে পাঠক মতভেদের জবাব দেয় অবজ্ঞা বা আঘাত দিয়ে, সে কাহিনির ওদের দিকেই এক পা এগোল, ইবরাহীম (আঃ)-এর দিকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Fire Is Ours",
+          "bn": "আগুন যখন আমাদের সামনে"
+        },
+        "p": [
+          {
+            "en": "This verse is a sign given to a prophet, and it promises no believer that fire will not burn. What the verse teaches every reader is the order of command: the fire was addressed, and it obeyed. Whatever stands in front of us, a threat, an illness, a crowd that has already decided, is not the last word in its own right. It too stands under the One who said qulna.",
+            "bn": "এ আয়াত একজন নবীকে দেওয়া নিদর্শন। আগুন কোনো মুমিনকে পোড়াবে না, এমন প্রতিশ্রুতি এতে নেই। প্রত্যেক পাঠককে আয়াতটি যা শেখায় তা হলো হুকুমের ক্রম: আগুনকে সম্বোধন করা হলো, আর আগুন মেনে নিল। আমাদের সামনে যা-ই দাঁড়িয়ে থাকুক, কোনো হুমকি, কোনো অসুখ, কিংবা আগেই সিদ্ধান্ত নিয়ে ফেলা কোনো ভিড়, নিজের জোরে কোনোটাই শেষ কথা নয়। সেটাও তাঁরই অধীনে, যিনি বলেছিলেন কুলনা।"
+          },
+          {
+            "en": "So the practice the verse leaves is the sentence Ibrahim said before it, not a hope that every danger will vanish: Allah is sufficient, and He is the best Disposer of affairs. It is said while the fire is still fire. And the verse's own words suggest a second practice. Coolness and safety were what Allah gave a man surrounded by hatred; we cannot command flames, but we can be a little coolness and safety for someone standing in theirs, by our words, our presence and our refusal to join the crowd.",
+            "bn": "তাই আয়াতটি যে আমল রেখে যায়, তা প্রতিটি বিপদ উবে যাওয়ার আশা নয়। সেটা হলো আগুনের আগে ইবরাহীম (আঃ)-এর বলা বাক্য: আল্লাহই যথেষ্ট, আর তিনি কত উত্তম কর্মবিধায়ক। কথাটা বলা হয় আগুন যখনও আগুন। আয়াতের নিজের শব্দ আরেকটি আমলের দিকেও ইশারা করে। ঘৃণায় ঘেরা একজন মানুষকে আল্লাহ দিয়েছিলেন শীতলতা আর নিরাপত্তা। আমরা আগুনকে হুকুম দিতে পারি না। কিন্তু কেউ নিজের আগুনে দাঁড়িয়ে থাকলে আমরা তার জন্য একটু শীতলতা আর নিরাপত্তা হতে পারি: কথা দিয়ে, পাশে থেকে, আর ভিড়ের সঙ্গে গলা না মিলিয়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "21:72": {
     "sections": [
       {
