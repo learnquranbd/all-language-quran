@@ -755,6 +755,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "42:15": {
+    "sections": [
+      {
+        "h": {
+          "en": "So to That, Call",
+          "bn": "তাহলে সেদিকেই ডাকো"
+        },
+        "p": [
+          {
+            "en": "The verse opens with fa-li-dhalika fa-d'u, and the first question is what that points back to. At-Tabari answers from the passage just before it: to that religion which Allah ordained for you, enjoined on Nuh (AS) and revealed to you, O Muhammad, call the servants of Allah. He reads the lam as standing in the place of ila, to, as in bi-anna rabbaka awha laha, because your Lord inspired it (99:5). That religion is the subject of 42:13.",
+            "bn": "আয়াতের শুরু ফালিযালিকা ফাদউ দিয়ে, আর প্রথম প্রশ্ন হলো, 'সেদিকে' বলতে কোন দিক বোঝানো হচ্ছে। তাবারী উত্তর খোঁজেন ঠিক আগের অংশে। আল্লাহ তোমাদের জন্য যে দ্বীন নির্ধারণ করেছেন, নূহ (আঃ)-কে যার নির্দেশ দিয়েছিলেন এবং হে মুহাম্মাদ, তোমার কাছে যা ওহি করেছেন, সেই দ্বীনের দিকেই আল্লাহর বান্দাদের ডাকো। তাঁর মতে এখানে লাম বসেছে ইলা-র জায়গায়, অর্থাৎ 'দিকে', যেমন বি-আন্না রাব্বাকা আওহা লাহা (৯৯:৫) আয়াতে। সেই দ্বীনের বিবরণ ৪২:১৩ আয়াতে।"
+          },
+          {
+            "en": "At-Tabari records a second view from some grammarians: that means this, so the sense is to this Qur'an call. He calls it close in meaning but prefers his own, since the context is Allah's account of the religion He ordained, and nothing in the wording turns it elsewhere. Al-Qurtubi gathers more readings: Ibn 'Abbas took it as to the Qur'an; some read the order as reversed, joining the words to what weighs heavy on the idolaters in 42:13, so that the sense is: to the very thing that weighs on them, call; and some keep the lam in its own sense, for the sake of that.",
+            "bn": "তাবারী কিছু ব্যাকরণবিদের আরেকটি মতও আনেন। তাঁদের কাছে 'সেটি' মানে 'এটি', তাই অর্থ দাঁড়ায়: এই কুরআনের দিকে ডাকো। তাবারী বলেন, অর্থের দিক থেকে মতটা কাছাকাছি, তবু নিজের ব্যাখ্যাকেই তিনি অগ্রাধিকার দেন। কারণ প্রসঙ্গটা আল্লাহর নির্ধারিত দ্বীনের বিবরণ, আর শব্দের ভেতরে এমন কিছু নেই যা কথাটাকে অন্য দিকে ঘুরিয়ে দেয়। কুরতুবী আরও কয়েকটি পাঠ জড়ো করেন। ইবন আব্বাস বুঝেছেন কুরআনের দিকে ডাকা। কেউ বলেন, বাক্যের ক্রম আগে-পিছে হয়েছে। কথাটা জুড়ে আছে ৪২:১৩ আয়াতের সেই অংশের সঙ্গে, যেখানে দাওয়াত মুশরিকদের কাছে ভারী লাগে। অর্থ তখন: যা তাদের কাছে ভারী লাগে, সেদিকেই ডাকো। আবার কেউ লামকে তার নিজের অর্থেই রাখেন: সেই কারণেই ডাকো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ten Rulings, One Ayah",
+          "bn": "এক আয়াতে দশটি বিধান"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir begins his comment with the verse's structure. It holds ten separate words, he says, each standing apart from the one before, each with a ruling of its own. Then he adds, under they said, that it has no parallel except Ayat al-Kursi (2:255), which likewise has ten parts. The claim is attributed, not his own discovery, and he does not name who made it. Ma'arif al-Qur'an relays the same count from Ibn Kathir and walks through the verse one sentence at a time.",
+            "bn": "ইবন কাসীর মন্তব্য শুরু করেন আয়াতের গঠন দিয়ে। তাঁর ভাষায়, এতে আছে দশটি আলাদা বাক্য। প্রতিটি আগেরটি থেকে পৃথক, আর প্রতিটির নিজস্ব বিধান। তারপর 'তাঁরা বলেছেন' কথাটি জুড়ে তিনি যোগ করেন, আয়াতুল কুরসী (২:২৫৫) ছাড়া এর আর কোনো জুড়ি নেই, কেননা সেটিতেও এমন দশটি অংশ। দাবিটা তিনি অন্যদের নামে আনেন, নিজের আবিষ্কার বলে নয়, আর কারা বলেছেন তাও জানান না। মাআরিফুল কুরআন ইবন কাসীরের বরাতে একই হিসাব দেয়, তারপর আয়াতটি এক এক বাক্য করে ব্যাখ্যা করে।"
+          },
+          {
+            "en": "Counted that way, the ten are: call; stand firm as commanded; do not follow their desires; say, I believe in whatever Book Allah sent down; I am commanded to be just among you; Allah is our Lord and your Lord; to us our deeds and to you yours; no argument between us and you; Allah will gather us; and to Him is the return. The sections below take them in that order.",
+            "bn": "এভাবে গুনলে দশটি হলো: ডাকো; যেমন হুকুম, তেমন অটল থাকো; ওদের খেয়াল-খুশির অনুসরণ কোরো না; বলো, আল্লাহ যে কিতাবই নাযিল করেছেন তার উপর আমি ঈমান এনেছি; তোমাদের মাঝে ইনসাফ করতে আমি আদিষ্ট; আল্লাহ আমাদের রব, তোমাদেরও রব; আমাদের আমল আমাদের, তোমাদের আমল তোমাদের; আমাদের আর তোমাদের মাঝে কোনো বিতর্ক নেই; আল্লাহ আমাদের একত্র করবেন; আর তাঁরই কাছে ফেরা। নিচের অংশগুলো এই ক্রমেই এগোবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Straight, Neither Over nor Under",
+          "bn": "সোজা পথ, বাড়াবাড়িও নয়, কমতিও নয়"
+        },
+        "p": [
+          {
+            "en": "Wa-staqim kama umirta: and stand firm as you were commanded. Ibn Kathir widens the address: stand firm, you and those who follow you, on the worship of Allah as He commanded you. As-Sa'di defines the firmness as one that matches Allah's command, with neither falling short nor going too far, obeying what He orders and avoiding what He forbids, and continuing on it. He then draws a principle: a command to the Messenger ﷺ is a command to his community unless something marks it as his alone.",
+            "bn": "ওয়াসতাকিম কামা উমিরতা: যেমন তোমাকে হুকুম দেওয়া হয়েছে, তেমনি অটল থাকো। ইবন কাসীর সম্বোধনটা বড় করে দেখেন: তুমি আর তোমার অনুসারীরা, আল্লাহর ইবাদতে অটল থাকো, যেমন তিনি তোমাদের হুকুম দিয়েছেন। সা'দীর সংজ্ঞায় এই দৃঢ়তা আল্লাহর হুকুমের সঙ্গে মিলে চলে। তাতে কমতিও নেই, বাড়াবাড়িও নেই। আছে আদেশ মানা, নিষেধ থেকে বাঁচা, আর তার উপর লেগে থাকা। এখান থেকে তিনি একটি নীতি টানেন: রাসূল ﷺ-এর প্রতি হুকুম মানেই তাঁর উম্মতের প্রতি হুকুম, যদি না কোনো কিছু সেটিকে শুধু তাঁর জন্য নির্দিষ্ট করে।"
+          },
+          {
+            "en": "As-Sa'di also sees the two commands as a pair: Allah orders him to complete himself by holding to firmness, and to complete others by calling them to it. Al-Qurtubi records what the firmness is upon. Qatada said, on Allah's command; Sufyan said, on the Qur'an; ad-Dahhak said, on conveying the message. Ma'arif al-Qur'an reads it as moderation in belief, deeds, character, habits and dealings, with no tilt towards either extreme, and remarks that such firmness is not easy.",
+            "bn": "সা'দী দুটি নির্দেশকে জোড়া হিসেবেও দেখেন। দৃঢ়তা আঁকড়ে ধরে আল্লাহ তাঁকে নিজেকে পূর্ণ করতে বলছেন, আর দাওয়াত দিয়ে অন্যদের পূর্ণ করতে। কিসের উপর অটল থাকা, কুরতুবী তার কয়েকটি উত্তর লিপিবদ্ধ করেন। কাতাদা বলেছেন, আল্লাহর হুকুমের উপর। সুফিয়ান বলেছেন, কুরআনের উপর। দাহহাক বলেছেন, রিসালাত পৌঁছে দেওয়ার উপর। মাআরিফুল কুরআন একে দেখে মাঝামাঝি পথে চলা হিসেবে: আকীদা, আমল, চরিত্র, অভ্যাস আর লেনদেন, সবখানে। কোনো প্রান্তের দিকে সামান্য ঝোঁকও থাকবে না। সঙ্গে মন্তব্য করে, এমন দৃঢ়তা সহজ নয়।"
+          },
+          {
+            "en": "The same command, in the same words, stands in 11:112, and Ma'arif points there. It also recalls a report about grey hair and Surah Hud. At-Tirmidhi records a report on that theme and grades it hasan gharib, so it is mentioned here and nothing is built on it. A sound narration on firmness exists, though no commentary fetched here attaches it to this verse. In Sahih Muslim, Sufyan ibn 'Abdullah ath-Thaqafi asked for a word about Islam that he would need to ask no one after him about, and the Prophet ﷺ said: Say, I believe in Allah, then stand firm.",
+            "bn": "একই হুকুম, হুবহু একই শব্দে, এসেছে ১১:১১২ আয়াতে, আর মাআরিফুল কুরআন সেদিকে ইঙ্গিত করে। সূরা হুদ আর পাকা চুল নিয়ে একটি বর্ণনার কথাও সেখানে আছে। তিরমিযী এ বিষয়ে একটি বর্ণনা এনেছেন এবং একে হাসান গারীব বলেছেন। তাই এখানে শুধু উল্লেখ করা হলো, এর উপর কিছু দাঁড় করানো হলো না। দৃঢ়তা নিয়ে একটি সহীহ বর্ণনা আছে, যদিও এখানে পড়া কোনো তাফসীর সেটিকে এ আয়াতের সঙ্গে যুক্ত করেনি। সহীহ মুসলিমে সুফিয়ান ইবন আবদুল্লাহ সাকাফী (রাঃ) ইসলাম সম্পর্কে এমন একটি কথা চেয়েছিলেন, যা নিয়ে তাঁর পরে আর কাউকে জিজ্ঞেস করতে হবে না। নবী ﷺ বললেন: বলো, আমি আল্লাহর উপর ঈমান এনেছি, তারপর অটল থাকো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Desires, Not Their Religion",
+          "bn": "দ্বীন নয়, খেয়াল-খুশি"
+        },
+        "p": [
+          {
+            "en": "Wa-la tattabi' ahwa'ahum: and do not follow their desires. The commentators disagree on whose desires are meant. Ibn Kathir names the idolaters, in the worship of idols they invented and fabricated. At-Tabari names those who inherited the Book after the earlier generations and fell into doubt, the people of 42:14, so that the Prophet ﷺ should not doubt as they doubted. As-Sa'di speaks more broadly of those who have turned away from the religion, among the disbelievers and the hypocrites. The Muyassar keeps to those who doubted the truth and swerved from it.",
+            "bn": "ওয়ালা তাত্তাবি' আহওয়াআহুম: আর তাদের খেয়াল-খুশির অনুসরণ কোরো না। কার খেয়াল-খুশি, এ নিয়ে তাফসীরকারদের মত আলাদা। ইবন কাসীরের মতে মুশরিকদের, যারা মূর্তিপূজা বানিয়ে নিয়েছে, মিথ্যা রচনা করেছে। তাবারীর মতে তাদের, যারা আগের প্রজন্মের পরে কিতাবের উত্তরাধিকারী হয়ে সন্দেহে পড়েছে, অর্থাৎ ৪২:১৪ আয়াতের লোকেরা। নবী ﷺ যেন তাদের মতো সন্দেহে না পড়েন। সা'দী কথাটা আরও বড় পরিসরে বলেন: দ্বীন থেকে সরে যাওয়া লোকেরা, কাফির হোক বা মুনাফিক। মুয়াসসার থাকে তাদের মধ্যে, যারা সত্য নিয়ে সন্দেহ করেছে আর তা থেকে বেঁকে গেছে।"
+          },
+          {
+            "en": "As-Sa'di then names three ways of following such desires: going along with part of their religion, abandoning the call to Allah, or abandoning firmness. Read this way, the third command guards the first two. He also asks why the verse says their desires and not their religion. His answer: the true religion Allah laid down for them is the religion of all the messengers, but they did not follow it; they followed their desires instead. Al-Qurtubi gives the clause a practical sense: pay no regard to the opposition of whoever opposes you.",
+            "bn": "এরপর সা'দী এমন খেয়াল-খুশি মানার তিনটি পথ চিহ্নিত করেন: তাদের দ্বীনের কিছু অংশে তাদের সঙ্গে চলা, আল্লাহর দিকে দাওয়াত ছেড়ে দেওয়া, অথবা দৃঢ়তা ছেড়ে দেওয়া। এভাবে পড়লে তৃতীয় নির্দেশটি প্রথম দুটিকে পাহারা দেয়। তিনি একটি প্রশ্নও তোলেন: আয়াত কেন 'তাদের দ্বীন' না বলে 'তাদের খেয়াল-খুশি' বলল? তাঁর উত্তর, আল্লাহ তাদের জন্য যে আসল দ্বীন দিয়েছিলেন, তা সব রাসূলের দ্বীন। কিন্তু তারা সেটা মানেনি, মেনেছে নিজেদের খেয়াল-খুশি। কুরতুবী অংশটির একটি বাস্তব অর্থ দেন: যে তোমার বিরোধিতা করে, তার বিরোধিতার দিকে তাকিয়ো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whatever Book He Sent Down",
+          "bn": "তিনি যে কিতাবই নাযিল করেছেন"
+        },
+        "p": [
+          {
+            "en": "Wa-qul amantu bima anzala Allahu min kitab: and say, I believe in whatever Book Allah has sent down. At-Tabari spells out the whatever: Torah, Injil, Zabur or the scrolls of Ibrahim (AS), whichever it was. The Prophet ﷺ is to say that he denies none of it, unlike those addressed, who affirmed part and denied part. Ibn Kathir glosses it as belief in all the Books sent down from heaven to the prophets, with the words la nufarriqu bayna ahadin minhum, we make no distinction between any of them. Al-Baghawi and the Muyassar say the same in fewer words.",
+            "bn": "ওয়া কুল আমানতু বিমা আনযালাল্লাহু মিন কিতাব: আর বলো, আল্লাহ যে কিতাবই নাযিল করেছেন, তার উপর আমি ঈমান এনেছি। 'যে কিতাবই' কথাটা তাবারী খুলে বলেন: তাওরাত হোক, ইঞ্জিল হোক, যাবূর হোক বা ইবরাহীম (আঃ)-এর সহীফা, যেটাই হোক। নবী ﷺ ঘোষণা দেবেন, এর কোনোটিকেই তিনি মিথ্যা বলেন না। যাদের সম্বোধন করা হচ্ছে, তারা কিছু মেনেছে, কিছু অস্বীকার করেছে, তিনি তেমন নন। ইবন কাসীর এর ব্যাখ্যা দেন আসমান থেকে নবীদের উপর নাযিল হওয়া সব কিতাবের উপর ঈমান হিসেবে, সঙ্গে জুড়ে দেন: লা নুফাররিকু বাইনা আহাদিম মিনহুম, তাঁদের কারও মধ্যে আমরা পার্থক্য করি না। বাগাভী আর মুয়াসসার অল্প কথায় একই কথা বলেন।"
+          },
+          {
+            "en": "As-Sa'di makes this sentence the ground of any discussion with the People of the Book. Say it when they argue, he writes, and let the debate rest on this principle. If someone argues from belief in some books or some messengers and not others, that is not granted, because the Book and the Messenger they claim require belief in this Qur'an and in the Messenger who brought it. Belief, for him, is owed to Musa and 'Isa (AS) and to the Torah and the Injil as our Book describes and confirms them.",
+            "bn": "সা'দী এই বাক্যটিকে আহলে কিতাবের সঙ্গে যে কোনো আলোচনার ভিত্তি বানান। তিনি লেখেন, তারা যখন তর্ক করে তখন এটা বলো, আর আলোচনা দাঁড়াক এই মূলনীতির উপর। কেউ যদি কিছু কিতাব বা কিছু রাসূলকে মেনে বাকিদের বাদ দিয়ে যুক্তি দেয়, সেটা মেনে নেওয়া যায় না। কারণ তারা যে কিতাব আর যে রাসূলের দাবি করে, তাঁদের দাবিই হলো এই কুরআন আর এর বাহকের প্রতি বিশ্বাস। তাঁর কাছে ঈমান রাখতে হবে মূসা (আঃ) ও ঈসা (আঃ)-এর উপর, তাওরাত ও ইঞ্জিলের উপর, ঠিক যেভাবে আমাদের কিতাব তাঁদের বর্ণনা দিয়েছে ও সত্যায়ন করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Just Even Towards Opponents",
+          "bn": "বিরোধীর প্রতিও ইনসাফ"
+        },
+        "p": [
+          {
+            "en": "Wa-umirtu li-a'dila baynakum: and I am commanded to be just among you. At-Tabari reports a grammatical debate over the lam. A Basran grammarian read it as kay, so that: I am commanded so that I may be just. Another held that the verb umirtu takes an, kay or this lam alike, so the sense is: I am commanded to justice. At-Tabari's own view agrees: the command governs the clause, meaning I am commanded to justice among you. He then quotes Qatada: the Prophet of Allah ﷺ was commanded to be just, and he was just until he died. The report goes on: justice is Allah's balance on earth.",
+            "bn": "ওয়া উমিরতু লি-আ'দিলা বাইনাকুম: তোমাদের মাঝে ইনসাফ করতে আমি আদিষ্ট। লাম অক্ষরটি নিয়ে ব্যাকরণবিদদের একটি বিতর্ক তাবারী উল্লেখ করেন। বসরার এক ব্যাকরণবিদের মতে এটি 'কাই', অর্থাৎ যাতে: আমাকে হুকুম দেওয়া হয়েছে যাতে আমি ইনসাফ করি। আরেকজনের মতে উমিরতু ক্রিয়ার পরে 'আন', 'কাই' আর এই লাম, তিনটিই বসতে পারে। অর্থ তাই সোজা: আমাকে ইনসাফের হুকুম দেওয়া হয়েছে। তাবারীর নিজের মতও এদিকে। হুকুমটাই পুরো অংশের উপর কাজ করছে, অর্থাৎ তোমাদের মাঝে ইনসাফ করার হুকুম আমাকে দেওয়া হয়েছে। এরপর তিনি কাতাদার কথা আনেন: আল্লাহর নবী ﷺ-কে ইনসাফের হুকুম দেওয়া হয়েছিল, আর মৃত্যু পর্যন্ত তিনি ইনসাফ করে গেছেন। বর্ণনাটি আরও বলে, ইনসাফ হলো পৃথিবীতে আল্লাহর দাঁড়িপাল্লা।"
+          },
+          {
+            "en": "Just in what? The answers differ. Al-Baghawi cites Ibn 'Abbas: commanded not to burden you beyond the rulings Allah imposed on you; and another view, just in every state and matter. Al-Qurtubi cites Ibn 'Abbas and Abu al-'Aliya: to treat you equally in religion, believing in every Book and every messenger; others say all states, in rulings, or in conveying the message. Ibn Kathir and Ma'arif take the plain sense of judging disputes by Allah's command.",
+            "bn": "কিসে ইনসাফ? উত্তর এক নয়। বাগাভী ইবন আব্বাসের কথা আনেন: আল্লাহ তোমাদের উপর যে বিধান ফরয করেছেন, তার বেশি বোঝা তোমাদের উপর না চাপানোর হুকুম। আরেক মতে, সব অবস্থায়, সব বিষয়ে ইনসাফ। কুরতুবী আনেন ইবন আব্বাস ও আবুল আলিয়ার মত: দ্বীনের ব্যাপারে তোমাদের সবার সঙ্গে সমান আচরণ, প্রতিটি কিতাব আর প্রতিটি রাসূলের উপর ঈমান এনে। অন্যদের মতে সব অবস্থায়, বা বিধিবিধানে, বা দাওয়াত পৌঁছানোয়। ইবন কাসীর ও মাআরিফুল কুরআন সরল অর্থটি নেন: আল্লাহর হুকুম অনুযায়ী বিবাদের মীমাংসা।"
+          },
+          {
+            "en": "As-Sa'di gives the clause its edge. It means justice in judging what you differ over, and your enmity and hatred, O People of the Book, will not keep me from being just among you. Part of that justice, he adds, between holders of differing views, whether People of the Book or others, is to accept the truth they hold and reject the falsehood they hold. The command is to be fair to the very people who resist the call, and to weigh what they say on its merits.",
+            "bn": "সা'দী অংশটিকে সবচেয়ে ধারালো করে পড়েন। এর মানে, তোমরা যে বিষয়ে মতভেদ করো তার মীমাংসায় ইনসাফ। হে আহলে কিতাব, তোমাদের শত্রুতা আর বিদ্বেষ আমাকে তোমাদের মাঝে ইনসাফ করা থেকে ফেরাবে না। তিনি আরও বলেন, ভিন্ন ভিন্ন মতের লোকদের মাঝে, তারা আহলে কিতাব হোক বা অন্য কেউ, ইনসাফের একটা অংশ হলো তাদের কাছে যে সত্য আছে তা গ্রহণ করা, আর যে বাতিল আছে তা প্রত্যাখ্যান করা। হুকুমটা তাই ঠিক তাদের প্রতি ন্যায্য থাকার, যারা দাওয়াতের বিরোধিতা করছে, আর তাদের কথা তার নিজের ওজনে মাপার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Lord, Separate Deeds",
+          "bn": "রব একজন, আমল যার যার"
+        },
+        "p": [
+          {
+            "en": "Allahu rabbuna wa-rabbukum: Allah is our Lord and your Lord. At-Tabari glosses it as our owner and yours, addressed to the factions of the people of the Torah and the Injil. As-Sa'di: He is Lord of all, and you have no greater claim to Him than we do. Ibn Kathir: He alone is worshipped; we affirm it by choice, and even if you do not, all in the worlds prostrate to Him. The shared Lord is the ground the speech stands on.",
+            "bn": "আল্লাহু রাব্বুনা ওয়া রাব্বুকুম: আল্লাহ আমাদের রব, তোমাদেরও রব। তাবারীর ব্যাখ্যায়, তিনি আমাদের মালিক, তোমাদেরও মালিক। সম্বোধন তাওরাত ও ইঞ্জিলের অনুসারী দলগুলোর প্রতি। সা'দী বলেন, তিনি সবার রব, তাঁর উপর আমাদের চেয়ে তোমাদের দাবি বেশি নয়। ইবন কাসীর বলেন, ইবাদত কেবল তাঁরই। আমরা স্বেচ্ছায় তা মেনে নিই। তোমরা না মানলেও জগতে যা কিছু আছে, সবাই তাঁকেই সিজদা করে। এই অভিন্ন রবের উপরেই গোটা কথাটা দাঁড়িয়ে।"
+          },
+          {
+            "en": "Lana a'maluna wa-lakum a'malukum: to us our deeds and to you your deeds. Ibn Kathir reads it as a declaration of being clear of them, and sets beside it 10:41, where the Prophet ﷺ is told to say the same if they deny him. At-Tabari and the Muyassar speak of recompense: ours is the reward of what we earned, yours of what you earned. Al-Baghawi joins it to the clause before: our God is one even though our deeds differ, and each will be repaid for his own.",
+            "bn": "লানা আ'মালুনা ওয়া লাকুম আ'মালুকুম: আমাদের আমল আমাদের, তোমাদের আমল তোমাদের। ইবন কাসীর একে সম্পর্কচ্ছেদের ঘোষণা হিসেবে পড়েন, আর পাশে রাখেন ১০:৪১ আয়াত। সেখানে নবী ﷺ-কে বলা হয়েছে, তারা মিথ্যা বললে তিনিও একই কথা বলবেন। তাবারী ও মুয়াসসার কথা বলেন প্রতিদান নিয়ে: আমরা যা অর্জন করেছি তার প্রতিদান আমাদের, তোমরা যা অর্জন করেছ তার প্রতিদান তোমাদের। বাগাভী একে আগের অংশের সঙ্গে জোড়েন: আমাদের আমল ভিন্ন হলেও আমাদের ইলাহ একজন, আর প্রত্যেকে নিজের আমলের প্রতিদান পাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Quarrel, and Was It Abrogated?",
+          "bn": "বিতর্কের অবসান, রহিত কি না"
+        },
+        "p": [
+          {
+            "en": "La hujjata baynana wa-baynakum: no argument between us and you. At-Tabari, with Mujahid and Ibn Zayd, glosses hujja as khusuma, quarrel; Ibn Zayd recited 29:46, do not argue with the People of the Book except in the best way. As-Sa'di explains: once the truth is clear, no room is left for dispute, since argument exists to show truth from falsehood. He adds that this does not mean the People of the Book are never to be engaged, citing the same 29:46. The Muyassar also says: after the truth became clear.",
+            "bn": "লা হুজ্জাতা বাইনানা ওয়া বাইনাকুম: আমাদের আর তোমাদের মাঝে কোনো বিতর্ক নেই। তাবারী মুজাহিদ ও ইবন যায়দের বরাতে হুজ্জার অর্থ বলেন খুসুমা, ঝগড়া। ইবন যায়দ এখানে ২৯:৪৬ আয়াত তিলাওয়াত করেন: উত্তম পন্থা ছাড়া আহলে কিতাবের সঙ্গে বিতর্ক কোরো না। সা'দীর ব্যাখ্যা, সত্য স্পষ্ট হয়ে যাওয়ার পর বিবাদের আর জায়গা থাকে না, কারণ বিতর্কের উদ্দেশ্যই সত্য-মিথ্যা আলাদা করা। তিনি যোগ করেন, এর মানে এই নয় যে আহলে কিতাবের সঙ্গে আর আলোচনাই হবে না। প্রমাণ হিসেবে তিনিও ২৯:৪৬ আয়াত আনেন। মুয়াসসারও বলে: সত্য স্পষ্ট হওয়ার পর।"
+          },
+          {
+            "en": "Was the clause later abrogated? The commentators differ. Ibn Kathir relays as-Suddi: that was before the verse of the sword; he finds this plausible, as the verse is Makkan and the sword verse came after the Hijra. Al-Baghawi says the verse of fighting abrogated it. Al-Qurtubi records the abrogation by 9:29, and then the opposite view: it is not abrogated, because the proofs have appeared and only obstinacy remains. Ma'arif al-Qur'an sets out both views. This article keeps the disagreement and takes no side.",
+            "bn": "এ অংশ কি পরে রহিত হয়েছে? মুফাসসিরদের মত এখানে ভিন্ন। ইবন কাসীর সুদ্দীর কথা আনেন: এটা তলোয়ারের আয়াত নাযিলের আগের কথা। তাঁর মতে কথাটা যুক্তিসংগত, কারণ আয়াতটি মাক্কী, আর তলোয়ারের আয়াত এসেছে হিজরতের পরে। বাগাভী বলেন, যুদ্ধের আয়াত একে রহিত করেছে। কুরতুবী ৯:২৯ আয়াত দিয়ে রহিত হওয়ার মত লিপিবদ্ধ করেন, তারপর উল্টো মতটিও: এটি রহিত নয়। কারণ প্রমাণ প্রকাশ পেয়েছে, দলীল প্রতিষ্ঠিত, এখন বাকি কেবল জেদ। মাআরিফুল কুরআন দুটি মতই তুলে ধরে। এ লেখা মতভেদটা মতভেদ হিসেবেই রাখছে, কোনো পক্ষ নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Left for the Day of Gathering",
+          "bn": "একত্র হওয়ার দিনের জন্য রাখা"
+        },
+        "p": [
+          {
+            "en": "Allahu yajma'u baynana wa-ilayhi al-masir: Allah will gather us, and to Him is the return. Ibn Kathir places the gathering on the Day of Resurrection and sets beside it 34:26, where our Lord gathers us and then judges between us in truth. At-Tabari: He will judge between us with truth in what we differed over. As-Sa'di: each is repaid for his deeds, and then the truthful is told apart from the liar. The next verse, 42:16, turns to those who still argue about Allah after He has been answered.",
+            "bn": "আল্লাহু ইয়াজমাউ বাইনানা ওয়া ইলাইহিল মাসীর: আল্লাহ আমাদের একত্র করবেন, আর তাঁরই কাছে ফেরা। ইবন কাসীর এই একত্র হওয়াকে কিয়ামতের দিনে রাখেন, আর পাশে আনেন ৩৪:২৬ আয়াত, যেখানে আমাদের রব আমাদের একত্র করে সত্যের ভিত্তিতে মীমাংসা করবেন। তাবারী বলেন, যে বিষয়ে আমরা মতভেদ করেছি, তিনি তাতে হক অনুযায়ী ফয়সালা দেবেন। সা'দী বলেন, প্রত্যেকে নিজের আমলের প্রতিদান পাবে, আর তখন সত্যবাদী আর মিথ্যাবাদী আলাদা হয়ে যাবে। পরের আয়াত, ৪২:১৬, কথা বলে তাদের নিয়ে, যারা আল্লাহর ডাকে সাড়া দেওয়ার পরও তাঁকে নিয়ে বিতর্ক করে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse sets out how the Prophet ﷺ was to carry his call among those who resisted it, and the debate over abrogation is a debate about the history of rulings. Neither licenses anything against any Jewish, Christian or other community, or any living person. The verse itself asks for justice towards opponents and leaves the verdict to Allah. Al-Qurtubi also closes with a report, under it is said, naming an occasion for the verse; it gives no chain, so this article builds nothing on it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। যারা দাওয়াতের বিরোধিতা করছিল, তাদের মাঝে নবী ﷺ কীভাবে দাওয়াত বহন করবেন, আয়াতটি তা বলে দেয়। আর রহিত হওয়া নিয়ে বিতর্কটা বিধানের ইতিহাস নিয়ে বিতর্ক। এর কোনোটিই কোনো ইহুদি, খ্রিস্টান বা অন্য কোনো সম্প্রদায়ের বিরুদ্ধে, কিংবা কোনো জীবিত মানুষের বিরুদ্ধে কিছুর অনুমতি দেয় না। আয়াত নিজেই চায় বিরোধীর প্রতি ইনসাফ, আর রায়টা ছেড়ে দেয় আল্লাহর হাতে। কুরতুবী শেষে 'বলা হয়' দিয়ে একটি বর্ণনাও আনেন, যাতে আয়াত নাযিলের একটি উপলক্ষের কথা আছে। এর কোনো সনদ তিনি দেননি, তাই এ লেখা এর উপর কিছু দাঁড় করায় না।"
+          }
+        ]
+      }
+    ]
+  },
   "42:19": {
     "sections": [
       {

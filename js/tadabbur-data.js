@@ -37693,6 +37693,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When your own means run dry, do not despair of Allah; He sends the rain after hope is gone, and He alone is the Protector worthy of praise.",
     "lessonBn": "নিজের সব উপায় ফুরিয়ে গেলেও আল্লাহর রহমত থেকে নিরাশ হবেন না। আশা ফুরিয়ে যাওয়ার পরও তিনি বৃষ্টি নামান, আর তিনিই একমাত্র প্রশংসিত অভিভাবক।"
+  },
+  "42:15": {
+    "reflectionEn": "The verse before this one speaks of people who divided after knowledge came to them, and of doubt that would not settle. Then the command comes: so to that, call. Stand straight as you were told. Do not follow what they want. Say that you believe in every Book Allah sent down, that you were commanded to be just among them, that He is their Lord as He is yours. Each side carries its own deeds; there is no quarrel left to win, and Allah will gather everyone. The verse asks for a call without a fight, firmness without harshness, and fairness towards the very people who resist. Can I hold to what is true and still be just to those who reject it?",
+    "reflectionBn": "আগের আয়াতে আছে এমন মানুষের কথা, যারা জ্ঞান আসার পরও ভাগ হয়ে গেছে, আর এমন সন্দেহের কথা, যা কিছুতেই থিতু হয় না। তারপরই নির্দেশ আসে: তাহলে সেদিকেই ডাকো। যেমন বলা হয়েছে, তেমনি সোজা থাকো। ওদের খেয়াল-খুশির পেছনে যেয়ো না। বলো, আল্লাহ যত কিতাব নাযিল করেছেন, সবগুলোর উপর আমার ঈমান। বলো, তোমাদের মাঝে ইনসাফ করতে আমাকে হুকুম দেওয়া হয়েছে, আর তিনি যেমন আমাদের রব, তেমনি তোমাদেরও। যার আমল তার কাঁধে। জেতার মতো কোনো ঝগড়া আর বাকি নেই, আল্লাহই সবাইকে একত্র করবেন। আয়াতটি চায় লড়াই ছাড়া দাওয়াত, কঠোরতা ছাড়া দৃঢ়তা, আর যারা মানছে না তাদের প্রতিও ইনসাফ। সত্যকে আঁকড়ে ধরেও যারা তা প্রত্যাখ্যান করে, তাদের প্রতি কি আমি ন্যায্য থাকতে পারি?",
+    "pointsEn": [
+      "When I invite someone to what I believe, am I calling them to Allah or to winning an argument with me?",
+      "Where in my own practice do I lean towards excess, and where do I fall short of what was actually asked?",
+      "Whose wishes, spoken or unspoken, quietly shape what I say about my faith to please them?",
+      "Would the people who disagree with me most say that I have treated them justly?",
+      "Is there a quarrel I keep reopening that I could leave, calmly, for Allah to settle on the Day He gathers us?"
+    ],
+    "pointsBn": [
+      "কাউকে যখন নিজের বিশ্বাসের দিকে ডাকি, তখন কি তাকে আল্লাহর দিকে ডাকি, নাকি আমার সঙ্গে তর্কে হার মানাতে চাই?",
+      "নিজের আমলে কোথায় আমি বাড়াবাড়ির দিকে ঝুঁকি, আর কোথায় যা চাওয়া হয়েছে তার চেয়ে কম করি?",
+      "কার খুশি, মুখে বলা হোক বা না হোক, চুপচাপ ঠিক করে দেয় আমি নিজের দ্বীন নিয়ে কী বলব?",
+      "যারা আমার সঙ্গে সবচেয়ে বেশি দ্বিমত করে, তারা কি বলবে যে আমি তাদের সঙ্গে ইনসাফ করেছি?",
+      "এমন কোনো ঝগড়া কি আছে, যা আমি বারবার খুঁচিয়ে তুলি, অথচ শান্তভাবে ছেড়ে দিতে পারি সেই দিনের জন্য, যেদিন আল্লাহ সবাইকে একত্র করে মীমাংসা করবেন?"
+    ],
+    "lessonEn": "Call to the truth and stand firm on it without bending to anyone's wishes, stay just even towards those who reject you, and leave the final verdict to Allah.",
+    "lessonBn": "সত্যের দিকে ডাকুন, কারও খেয়াল-খুশির কাছে নত না হয়ে তার উপর অটল থাকুন, যারা আপনাকে প্রত্যাখ্যান করে তাদের প্রতিও ইনসাফ করুন, আর চূড়ান্ত ফয়সালা আল্লাহর হাতে ছেড়ে দিন।"
   }
 };
 
