@@ -2231,6 +2231,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "34:42-43": {
+    "sections": [
+      {
+        "h": {
+          "en": "Out of the Angels' Answer",
+          "bn": "ফেরেশতাদের জবাবের পরেই"
+        },
+        "p": [
+          {
+            "en": "These two verses hold one scene and the reason for it. In 34:40 Allah gathers them all and asks the angels whether these people used to worship them. In 34:41 the angels answer: glory be to You, You are our protector, not they; rather, they worshipped the jinn. Ibn Kathir, treating 34:40 to 34:42 together, takes the jinn here to be the devils, since it was they who made the worship of idols attractive and led people astray. Then 34:42 opens with fa, so: what follows grows out of that disowning.",
+            "bn": "এই দুটি আয়াতে আছে একটি দৃশ্য আর সেই দৃশ্যের কারণ। ৩৪:৪০ আয়াতে আল্লাহ সবাইকে একত্র করেন এবং ফেরেশতাদের জিজ্ঞেস করেন, এরা কি তোমাদের পূজা করত? ৩৪:৪১ আয়াতে ফেরেশতারা জবাব দেন: আপনি পবিত্র, আপনিই আমাদের অভিভাবক, ওরা নয়; বরং ওরা জিনদের পূজা করত। ৩৪:৪০ থেকে ৩৪:৪২ পর্যন্ত একসঙ্গে আলোচনায় ইবন কাসীর এখানে জিন বলতে শয়তানদের বোঝেন। কারণ মূর্তিপূজাকে তারাই মানুষের চোখে সুন্দর করে দেখিয়েছিল, তারাই পথভ্রষ্ট করেছিল। এরপর ৩৪:৪২ শুরু হয় 'ফা' দিয়ে, অর্থাৎ 'সুতরাং'। পরের কথাগুলো ওই অস্বীকৃতি থেকেই জন্ম নেয়।"
+          },
+          {
+            "en": "As-Sa'di states the link outright. Once the angels had declared themselves free of those who worshipped them, he says, Allah turned and addressed them: today none of you holds benefit or harm for another. Al-Baghawi likewise opens the verse with the words then Allah says. The order is worth noticing. Ibn Kathir describes the questioning as a rebuke of the idolaters before all of creation. The worshippers have just heard those they called on refuse them in public, and only then are they told what that refusal means for them.",
+            "bn": "সা'দী সংযোগটা সরাসরি বলে দেন। ফেরেশতারা যখন তাদের পূজারিদের থেকে নিজেদের সম্পর্কহীন ঘোষণা করলেন, তখন আল্লাহ তাদের সম্বোধন করে বললেন: আজ তোমাদের কেউ কারও জন্য উপকার বা ক্ষতির মালিক নয়। বাগাভীও আয়াতটি শুরু করেন এই কথা দিয়ে: তারপর আল্লাহ বলবেন। ক্রমটা খেয়াল করার মতো। ইবন কাসীরের ভাষায় এই জিজ্ঞাসাবাদ গোটা সৃষ্টির সামনে মুশরিকদের তিরস্কার। যাদের তারা ডাকত, তাদের মুখেই প্রকাশ্যে প্রত্যাখ্যান শুনল পূজারিরা। তার পরেই তাদের জানানো হলো, এই প্রত্যাখ্যানের অর্থ তাদের জন্য কী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken to Which Side",
+          "bn": "কথাটা কোন পক্ষকে"
+        },
+        "p": [
+          {
+            "en": "Who is the you in none of you? The commentators read it two ways. At-Tabari takes the words as spoken to the angels: today, you angels, none of you holds for those who worshipped you in the world any benefit by which they could profit you. He reads the harm in both directions too, harm they might bring on you or you on them. On his reading the sentence closes every account between the worshipped and their worshippers, whichever way it might have run.",
+            "bn": "'তোমাদের কেউ' বলতে কারা? তাফসীরকারেরা কথাটা দুইভাবে পড়েন। তাবারীর মতে কথাটা ফেরেশতাদের উদ্দেশে বলা: আজ হে ফেরেশতারা, দুনিয়ায় যারা তোমাদের পূজা করত, তাদের জন্য তোমাদের কেউ এমন কোনো উপকারের মালিক নয়, যা দিয়ে তারা তোমাদের উপকার করতে পারে। ক্ষতির কথাও তিনি দুই দিক থেকে পড়েন: তারা তোমাদের ক্ষতি করবে, কিংবা তোমরা তাদের। তাঁর পাঠে বাক্যটি পূজিত আর পূজারির মধ্যকার সব হিসাব বন্ধ করে দেয়, তা যে দিক থেকেই চলত।"
+          },
+          {
+            "en": "Ibn Kathir hears the words as addressed to the idolaters. No benefit will reach you today, he explains, from the rivals and idols whose help you hoped for, whose worship you had stored up for your hardships and your distress; today they hold neither benefit nor harm for you. Al-Muyassar puts it as a plain rule: on the Day of Gathering the worshipped hold no benefit or harm for those who worshipped them. Al-Jalalayn reads it the same way, and Tanwir al-Miqbas names the parties as the angels and the jinn, in relation to the Banu Malih.",
+            "bn": "ইবন কাসীর কথাটাকে শোনেন মুশরিকদের উদ্দেশে বলা হিসেবে। তাঁর ব্যাখ্যা: যেসব শরিক আর মূর্তির কাছে তোমরা উপকারের আশা করতে, বিপদ আর দুঃসময়ের জন্য যাদের পূজা জমিয়ে রেখেছিলে, আজ তাদের কাছ থেকে তোমাদের কোনো উপকার আসবে না; আজ তারা তোমাদের উপকার বা ক্ষতি কোনোটারই মালিক নয়। মুয়াসসার কথাটা সোজা নিয়মের মতো বলে: হাশরের দিন পূজিতরা পূজারিদের জন্য কোনো উপকার বা ক্ষতির মালিক নয়। জালালাইনও একইভাবে পড়ে। আর তানবীরুল মিকবাস দুই পক্ষের নাম দেয়: ফেরেশতা ও জিন, বনু মালীহের ক্ষেত্রে।"
+          },
+          {
+            "en": "Al-Qurtubi records a third angle under the words it is said: that the angels cannot ward off harm from those who worshipped them, a noun having been left unspoken in the Arabic. The difference between at-Tabari and Ibn Kathir is real, and both readings are kept here without choosing. Yet they meet in the result. Whether the sentence faces the angels or the idolaters, the line between them is cut, and nothing passes across it in either direction.",
+            "bn": "কুরতুবী 'বলা হয়' কথাটি দিয়ে তৃতীয় একটি দিক উল্লেখ করেন: ফেরেশতারা তাদের পূজারিদের উপর থেকে ক্ষতি সরাতে পারবেন না। আরবি বাক্যে একটি শব্দ উহ্য রাখা হয়েছে, এ পাঠ সেই ভিত্তিতে। তাবারী আর ইবন কাসীরের পার্থক্যটা সত্যিকারের। এখানে দুটো পাঠই রাখা হলো, কোনোটাকে বেছে না নিয়ে। তবে ফলাফলে দুটো এক জায়গায় মেলে। বাক্যটি ফেরেশতাদের দিকে হোক বা মুশরিকদের দিকে, দুই পক্ষের মাঝের সুতো কেটে গেছে। কোনো দিক থেকেই আর কিছু পার হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Intercession Gone, Threat Gone",
+          "bn": "সুপারিশও নেই, ভয়ও নেই"
+        },
+        "p": [
+          {
+            "en": "What benefit and what harm are meant? Al-Qurtubi glosses the benefit as intercession and rescue, and the harm as punishment and destruction. Al-Baghawi says the same in fewer words: no benefit by intercession, no harm by punishment. Then he names the point: he means that they are powerless, with neither benefit nor harm in their hands. Al-Jalalayn has benefit through intercession and hurt through chastisement, and Tanwir al-Miqbas speaks of no intercession and no turning the torment away.",
+            "bn": "কোন উপকার আর কোন ক্ষতির কথা বলা হচ্ছে? কুরতুবী উপকারের ব্যাখ্যা দেন সুপারিশ ও মুক্তি দিয়ে, আর ক্ষতির ব্যাখ্যা দেন শাস্তি ও ধ্বংস দিয়ে। বাগাভী একই কথা বলেন আরও কম শব্দে: সুপারিশ দিয়ে কোনো উপকার নয়, শাস্তি দিয়ে কোনো ক্ষতিও নয়। তারপর আসল কথাটা বলে দেন: উদ্দেশ্য এটাই যে তারা অক্ষম, উপকার বা ক্ষতি কিছুই তাদের হাতে নেই। জালালাইনে আছে সুপারিশের মাধ্যমে উপকার আর শাস্তির মাধ্যমে ক্ষতি। তানবীরুল মিকবাস বলে, কোনো সুপারিশ নেই, আযাব ঠেকানোও নেই।"
+          },
+          {
+            "en": "As-Sa'di reads the line as a severing: the ties between you are cut, and you are cut off from one another. It is worth pausing on why harm is named beside benefit. People can tie more than hope to something other than Allah; they can tie fear to it as well, and keep both alive for years. Here both are emptied in one sentence. What was hoped from no longer helps, and what was dreaded no longer threatens. Only one judgement is left standing.",
+            "bn": "সা'দী লাইনটিকে পড়েন বিচ্ছেদ হিসেবে: তোমাদের মাঝের সব বন্ধন ছিন্ন হয়েছে, তোমরা একে অপর থেকে বিচ্ছিন্ন হয়ে গেছ। উপকারের পাশে ক্ষতির কথাও কেন এল, একটু থেমে ভাবার মতো। আল্লাহ ছাড়া অন্য কিছুর সঙ্গে মানুষ শুধু আশা বাঁধে না, ভয়ও বাঁধে। বছরের পর বছর দুটোকেই সে জিইয়ে রাখে। এখানে একটি বাক্যেই দুটো খালি হয়ে যায়। যার কাছে আশা ছিল, সে আর সাহায্য করে না। যাকে ভয় পাওয়া হতো, সে আর ভয় দেখাতে পারে না। দাঁড়িয়ে থাকে কেবল একটি বিচার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Worship Set Out of Place",
+          "bn": "ইবাদত ভুল ঠিকানায়"
+        },
+        "p": [
+          {
+            "en": "Then: and We will say to those who did wrong. At-Tabari defines the wrong precisely. They are those who worshipped other than Allah, and so put worship somewhere other than its place, giving it to someone to whom it should never belong. The wrong, on his account, is a misplacing. Ibn Kathir names them in a phrase: they are the idolaters. Tanwir al-Miqbas has those who ascribed partners to Allah, and al-Jalalayn has those who disbelieved.",
+            "bn": "তারপর: আর যারা যুলম করেছে তাদের আমি বলব। তাবারী যুলমের সংজ্ঞা দেন নিখুঁতভাবে। এরা তারা, যারা আল্লাহ ছাড়া অন্যের ইবাদত করেছে। ফলে ইবাদতকে তারা তার আসল জায়গা থেকে সরিয়ে অন্য জায়গায় রেখেছে, দিয়েছে এমন কাউকে, যার তা পাওয়ার কোনো হক নেই। তাঁর ব্যাখ্যায় যুলম মানে জিনিসকে ভুল জায়গায় রাখা। ইবন কাসীর এক কথায় তাদের পরিচয় দেন: এরা মুশরিক। তানবীরুল মিকবাসে আছে, যারা আল্লাহর সঙ্গে শরিক করেছে। জালালাইনে আছে, যারা কুফরি করেছে।"
+          },
+          {
+            "en": "Two others draw the circle a little wider. As-Sa'di says they did wrong by disbelief and by sins, and al-Muyassar says they wronged themselves by associating partners with Allah and by sins. Neither drops the first meaning: as-Sa'di names disbelief first, and al-Muyassar names shirk first. The difference is of breadth, and it is worth holding gently. The verse's context is the worship of others beside Allah, and that is where all of them begin.",
+            "bn": "দুজন বৃত্তটা আরেকটু বড় করে আঁকেন। সা'দী বলেন, তারা যুলম করেছে কুফরি আর গুনাহ দিয়ে। মুয়াসসার বলে, শিরক আর গুনাহ দিয়ে তারা নিজেদের উপর যুলম করেছে। কেউই প্রথম অর্থটা বাদ দেননি। সা'দী প্রথমে বলেন কুফরির কথা, মুয়াসসার প্রথমে বলে শিরকের কথা। পার্থক্যটা পরিধির, আর সেটা আলতো করে ধরে রাখাই ভালো। আয়াতের প্রসঙ্গ আল্লাহর পাশে অন্যের ইবাদত, আর সবার ব্যাখ্যা শুরু হয় সেখান থেকেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tasting What Was Denied",
+          "bn": "অস্বীকারের স্বাদ"
+        },
+        "p": [
+          {
+            "en": "The command follows: taste the punishment of the Fire which you used to deny. Who says it? The verse says We will say, and al-Qurtubi allows two readings: it may be Allah who says taste to them, or the angels. Ibn Kathir gives the tone. It is said to them, he writes, as reproach and rebuke. At-Tabari fills in the timeline: the Fire you used to deny in the world, and now you have come to it.",
+            "bn": "এরপর আদেশ: যে আগুনকে তোমরা মিথ্যা বলতে, তার শাস্তির স্বাদ নাও। কথাটা কে বলবেন? আয়াতে আছে 'আমি বলব'। কুরতুবী দুটি সম্ভাবনা রাখেন: 'স্বাদ নাও' কথাটা আল্লাহ নিজে বলতে পারেন, ফেরেশতারাও বলতে পারেন। ইবন কাসীর জানান কথাটার সুর কেমন। তাঁর ভাষায়, এটা তাদের বলা হবে ভর্ৎসনা আর তিরস্কার হিসেবে। তাবারী সময়ের ধারাটা পূর্ণ করেন: দুনিয়ায় যে আগুনকে তোমরা মিথ্যা বলতে, এখন তোমরা তার কাছে এসে পৌঁছেছ।"
+          },
+          {
+            "en": "As-Sa'di places the words after they have been brought into the Fire. Today, he paraphrases, you have seen it with your own eyes and entered it, as recompense for your denial, and as punishment for what that denial produced in you: you never fled from what leads to it. His point reaches past the Day. Denying the Fire did not stay a mistaken opinion. It removed the reason to run, and so the denier walked toward the very thing he denied.",
+            "bn": "সা'দী কথাগুলোর সময় ধরেন তাদের আগুনে ঢোকানোর পরে। তাঁর ভাষ্যে: আজ তোমরা নিজের চোখে তা দেখলে, তাতে ঢুকলে। এটা তোমাদের অস্বীকারের প্রতিদান। আর সেই অস্বীকার তোমাদের ভেতরে যা জন্ম দিয়েছিল, এটা তারও শাস্তি: যে পথ আগুনের দিকে নেয়, তা থেকে তোমরা কখনো পালাওনি। তাঁর কথা কিয়ামতের দিন ছাড়িয়েও যায়। আগুনকে অস্বীকার করা শুধু একটা ভুল মত হয়ে থাকেনি। এতে পালানোর কারণটাই মুছে গিয়েছিল। ফলে যা সে অস্বীকার করত, ঠিক সেদিকেই সে হেঁটে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard Fresh From His Lips",
+          "bn": "তাঁর মুখ থেকে সদ্য শোনা"
+        },
+        "p": [
+          {
+            "en": "Verse 43 turns from that Day back to the world, and gives the cause. Ibn Kathir opens it this way: Allah tells of the disbelievers that they deserve punishment from Him, because when His clear verses were recited to them they heard them fresh and tender, ghadda tariyya, from the tongue of His Messenger ﷺ. Al-Jalalayn also has the verses recited by the tongue of the Prophet ﷺ. Nothing reached them second-hand. They heard the Qur'an from the very man it came down upon.",
+            "bn": "৪৩ নম্বর আয়াত সেই দিন থেকে ফিরে আসে দুনিয়ায়, আর কারণটা জানায়। ইবন কাসীর এভাবে শুরু করেন: আল্লাহ কাফিরদের সম্পর্কে জানাচ্ছেন যে তারা তাঁর শাস্তির উপযুক্ত। কারণ তাঁর স্পষ্ট আয়াত যখন তাদের সামনে পড়া হতো, তারা তা শুনত তাঁর রাসূল ﷺ-এর মুখ থেকে, একেবারে সদ্য আর তাজা অবস্থায়। জালালাইনেও আছে, আয়াতগুলো পড়া হতো নবী ﷺ-এর মুখে। তাদের কাছে কিছুই অন্যের মুখ ঘুরে পৌঁছায়নি। যাঁর উপর কুরআন নাযিল হয়েছিল, তাঁর মুখ থেকেই তারা তা শুনেছিল।"
+          },
+          {
+            "en": "What made the verses bayyinat, clear? At-Tabari says they were plain in showing that they are truth from Allah. Tanwir al-Miqbas adds that they set out the lawful and the unlawful. As-Sa'di dwells longest. These are Allah's clear verses, His evident proofs and decisive arguments, pointing to every good and forbidding every evil. They were the greatest blessing that ever came to these people, a favour that called for faith, assent and surrender. And they met it, he says, with the opposite of what it deserved.",
+            "bn": "আয়াতগুলোকে স্পষ্ট বলা হলো কেন? তাবারী বলেন, এগুলো যে আল্লাহর পক্ষ থেকে আসা সত্য, তা এগুলোতেই পরিষ্কার। তানবীরুল মিকবাস যোগ করে, এগুলো হালাল ও হারাম খুলে বলে। সবচেয়ে বেশি সময় দেন সা'দী। তাঁর ভাষায়, এগুলো আল্লাহর স্পষ্ট আয়াত, তাঁর প্রকাশ্য দলিল আর অকাট্য প্রমাণ। সব কল্যাণের দিকে পথ দেখায়, সব মন্দ থেকে নিষেধ করে। তাদের কাছে আসা সবচেয়ে বড় নিয়ামত ছিল এটাই। এমন অনুগ্রহের জবাব হওয়ার কথা ছিল ঈমান, সত্য বলে মেনে নেওয়া আর আত্মসমর্পণ। অথচ তারা এর জবাব দিল, তাঁর কথায়, ঠিক উল্টোটা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Fathers Made Into Proof",
+          "bn": "বাপদাদাই যখন দলিল"
+        },
+        "p": [
+          {
+            "en": "The first reply aims at the man, not the message. Al-Baghawi and al-Qurtubi both say that this means Muhammad ﷺ. At-Tabari voices it as an appeal to the crowd: do not follow Muhammad, for he is only a man who wants to turn you from the idols your fathers worshipped and to change your religion and theirs. Al-Qurtubi reads your fathers as your forebears and the gods they served. Ibn Kathir names the assumption underneath: they held that their fathers' religion was the truth and that what the Messenger brought was falsehood.",
+            "bn": "প্রথম জবাবের লক্ষ্য বার্তা নয়, মানুষটি। বাগাভী ও কুরতুবী দুজনেই বলেন, 'এ' বলতে মুহাম্মদ ﷺ। তাবারী জবাবটা পেশ করেন জনতার প্রতি আবেদনের সুরে: মুহাম্মদকে অনুসরণ কোরো না। সে তো এমন এক লোক, যে তোমাদের বাপদাদার পূজিত মূর্তিগুলো থেকে তোমাদের ফেরাতে চায়, তোমাদের আর তোমাদের বাপদাদার ধর্ম পাল্টে দিতে চায়। কুরতুবী 'বাপদাদা' বলতে বোঝেন পূর্বপুরুষদের আর তারা যেসব উপাস্যের পূজা করত তাদের। নিচে চাপা পড়া ধারণাটা ইবন কাসীর খুলে দেন: তারা মনে করত বাপদাদার ধর্মই সত্য, আর রাসূল যা এনেছেন তা বাতিল।"
+          },
+          {
+            "en": "As-Sa'di hears the charge as a confession of motive. This is his aim, they were saying, when he commands you to devote yourselves to Allah alone: that you abandon the customs of the fathers you revere and walk behind. So they turned the truth away with the sayings of people who had gone astray, he says, and brought neither a proof nor even a doubt worth the name. He then widens it: every truth that is turned away is, in the end, turned away only with such sayings, and these men are the pattern for every rejecter until the Day of Resurrection.",
+            "bn": "সা'দী অভিযোগটিকে শোনেন উদ্দেশ্যের স্বীকারোক্তি হিসেবে। তারা আসলে বলছিল: সে যখন তোমাদের একমাত্র আল্লাহর জন্য ইবাদতকে খাঁটি করতে বলে, তখন তার উদ্দেশ্য এটাই যে তোমরা বাপদাদার রীতি ছেড়ে দাও, যাদের তোমরা সম্মান করো, যাদের পেছনে পেছনে চলো। সা'দী বলেন, এভাবে তারা পথহারা লোকদের কথা দিয়ে সত্যকে ফিরিয়ে দিল। কোনো দলিল আনল না, এমনকি কোনো সংশয়ও না। তারপর তিনি কথাটা বিস্তৃত করেন: যে সত্যকেই ফিরিয়ে দেওয়া হয়, শেষ পর্যন্ত তা ফেরানো হয় এমন কথা দিয়েই। কিয়ামত পর্যন্ত সত্য প্রত্যাখ্যানকারী প্রত্যেকের জন্য এরাই নমুনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lie, Then Magic",
+          "bn": "প্রথমে মিথ্যা, তারপর জাদু"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di marks the turn to the second reply. Having argued from what their fathers did, he says, they then attacked the truth itself: this is nothing but a lie that this man has fabricated. At-Tabari glosses ifk as a lie and muftara as made up and conjured by guesswork. Ibn Kathir, al-Qurtubi and al-Baghawi agree that this second this means the Qur'an. Al-Muyassar voices the charge in full: what you recite to us, Muhammad, is an invented lie that you brought from yourself, not from Allah.",
+            "bn": "দ্বিতীয় জবাবের মোড়টা সা'দী চিহ্নিত করেন। বাপদাদার কাজকে দলিল বানানোর পর তারা আক্রমণ করল খোদ সত্যকে: এ তো এই লোকের বানানো এক মিথ্যা ছাড়া কিছু নয়। তাবারী 'ইফক' শব্দের অর্থ বলেন মিথ্যা, আর 'মুফতারা' মানে বানানো, আন্দাজে গড়া। ইবন কাসীর, কুরতুবী ও বাগাভী একমত যে এবারের 'এ' বলতে কুরআন। মুয়াসসার অভিযোগটা পুরো তুলে ধরে: হে মুহাম্মদ, তুমি আমাদের যা পড়ে শোনাও, তা বানানো মিথ্যা। তুমি নিজের কাছ থেকে এনেছ, আল্লাহর কাছ থেকে নয়।"
+          },
+          {
+            "en": "The third reply comes from those who disbelieved, said of the truth when it came to them. Here the commentators differ over what the truth is. At-Tabari says it means Muhammad ﷺ, when Allah sent him as a prophet. Al-Muyassar, al-Jalalayn and Tanwir al-Miqbas say it means the Qur'an. Both readings are kept, without a position. On the word magic, at-Tabari reads mubin as magic plain to whoever sees it and considers it, and al-Baghawi simply as clear. As-Sa'di adds why they said it: to deny the truth, and to sell the charge to the foolish.",
+            "bn": "তৃতীয় জবাব আসে কাফিরদের মুখ থেকে, সত্য যখন তাদের কাছে এল তখন সেই সত্য সম্পর্কে। এখানে 'সত্য' বলতে কী, তা নিয়ে তাফসীরকারদের মত ভিন্ন। তাবারী বলেন, এর অর্থ মুহাম্মদ ﷺ, যখন আল্লাহ তাঁকে নবী করে পাঠালেন। মুয়াসসার, জালালাইন ও তানবীরুল মিকবাস বলে, এর অর্থ কুরআন। দুটো মতই রাখা হলো, কোনো পক্ষ না নিয়ে। জাদুর কথায় তাবারী 'মুবীন' পড়েন এভাবে: যে দেখে আর ভেবে দেখে, তার কাছে যা জাদু বলে স্পষ্ট। বাগাভী শুধু বলেন, স্পষ্ট। সা'দী জানান কেন তারা এ কথা বলত: সত্যকে অস্বীকার করতে, আর নির্বোধদের মধ্যে অভিযোগটা চালু করে দিতে।"
+          },
+          {
+            "en": "Were these the same people saying different things? Al-Qurtubi gives two answers. At times they said magic, and at times they said a lie; or perhaps some of them said magic and others said a lie. The verse's own wording shifts too. Twice it says they said, and the third time it names the speakers: those who disbelieved. Whichever way it is read, three labels were spent on one message, and not one of them came with an argument attached.",
+            "bn": "একই লোকেরা কি ভিন্ন ভিন্ন কথা বলছিল? কুরতুবী দুটি উত্তর দেন। কখনো তারা বলত জাদু, কখনো বলত মিথ্যা। আবার হতে পারে, তাদের কেউ বলত জাদু, কেউ বলত মিথ্যা। আয়াতের নিজের শব্দেও একটা বদল আছে। দুবার বলা হয়েছে 'তারা বলল', আর তৃতীয়বার বক্তাদের নাম দেওয়া হয়েছে: যারা কুফরি করেছিল। যেভাবেই পড়া হোক, একটি বার্তার উপর তিনটি তকমা লাগানো হলো। তার কোনোটির সঙ্গেই কোনো যুক্তি আসেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Hearing Ends",
+          "bn": "শোনার সুযোগ ফুরানোর আগে"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for these two verses attaches a hadith to them, and none gives an occasion of revelation; the placement in the surah is the context. The surah answers the charges itself. On 34:44 Ibn Kathir notes that Allah had sent the Arabs no Book and no warner before this, that they used to wish for such a thing, and that when it came they rejected it. Then 34:46 asks them to stand for Allah, in pairs or alone, and think.",
+            "bn": "এই দুটি আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এগুলোর সঙ্গে কোনো হাদীস জুড়ে দেয়নি, শানে নুযূলও বলেনি। সূরার ভেতরে আয়াতদুটির অবস্থানই এদের প্রসঙ্গ। অভিযোগগুলোর জবাব সূরা নিজেই দেয়। ৩৪:৪৪ আয়াতের আলোচনায় ইবন কাসীর জানান, এর আগে আল্লাহ আরবদের কাছে কোনো কিতাব বা সতর্ককারী পাঠাননি। তারা এমন কিছুর আশা করত, অথচ যখন তা এল, তারা তা প্রত্যাখ্যান করল। তারপর ৩৪:৪৬ আয়াত তাদের ডাকে আল্লাহর জন্য দাঁড়াতে, দুজন দুজন করে বা একা একা, আর ভেবে দেখতে।"
+          },
+          {
+            "en": "This needs saying plainly. The verses describe what the text describes: a scene on the Day of Gathering, and the words of those in Makkah who rejected the Prophet ﷺ. They license nothing against any living person or community, and they hand no one the right to say who will taste the Fire. What they hand the reader is a question. What am I leaning on that will have nothing to give on that Day? And when something clear is recited to me, do I answer it, or only label it?",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতদুটি যা বর্ণনা করে, শুধু সেটুকুই বর্ণনা করে: হাশরের দিনের একটি দৃশ্য, আর মক্কার যারা নবী ﷺ-কে প্রত্যাখ্যান করেছিল তাদের কথা। আজ বেঁচে থাকা কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এগুলো কোনো কিছুর অনুমতি দেয় না। কে আগুনের স্বাদ নেবে, তা বলার অধিকারও কারও হাতে তুলে দেয় না। পাঠকের হাতে এগুলো তুলে দেয় একটি প্রশ্ন। আমি এমন কিসের উপর ভর দিয়ে আছি, যা সেদিন কিছুই দিতে পারবে না? আর স্পষ্ট কিছু যখন আমার সামনে পড়া হয়, আমি কি তার জবাব দিই, নাকি শুধু একটা তকমা লাগিয়ে দিই?"
+          }
+        ]
+      }
+    ]
+  },
   "34:46": {
     "sections": [
       {

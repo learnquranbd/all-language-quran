@@ -36553,6 +36553,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Nothing besides Allah owns an atom's weight, shares His dominion or helps Him rule; so turn your calling, your hope and your need to Him alone.",
     "lessonBn": "আল্লাহ ছাড়া কেউ অণু পরিমাণ কিছুর মালিক নয়, তাঁর রাজত্বে কারও ভাগ নেই, তাঁকে কেউ সাহায্যও করে না। তাই আপনার ডাক, আশা আর প্রয়োজন শুধু তাঁর কাছেই রাখুন।"
+  },
+  "34:42-43": {
+    "reflectionEn": "The angels have disowned those who worshipped them, and a sentence falls on everyone standing there: today none of you can bring another any benefit, or any harm. Every bond people leaned on in place of their Lord gives way at once. Then comes the word to taste the Fire they used to call a lie. The next verse goes back to where that lie began. Clear verses were recited to them, and they answered with three dismissals and no proof: he wants to take you from your fathers' ways; it is invented; it is plain magic. What am I leaning on now that will have nothing to give me then? And when a truth reaches me, do I weigh it, or only ask whether my people already hold it?",
+    "reflectionBn": "যাদের পূজা করা হতো, সেই ফেরেশতারা পূজারিদের সঙ্গে সম্পর্ক অস্বীকার করেছেন। এবার সেখানে দাঁড়ানো সবার উপর একটি ঘোষণা নেমে আসে: আজ তোমাদের কেউ কারও কোনো উপকার করতে পারবে না, ক্ষতিও না। রবকে বাদ দিয়ে মানুষ যেসব বন্ধনে ভর দিয়েছিল, সব একসঙ্গে ভেঙে পড়ে। তারপর আদেশ আসে, যে আগুনকে তারা মিথ্যা বলত তার স্বাদ নাও। পরের আয়াত ফিরে যায় সেই মিথ্যা বলার শুরুতে। তাদের সামনে স্পষ্ট আয়াত পড়া হয়েছিল। জবাবে তারা কোনো প্রমাণ ছাড়াই তিনটি কথায় উড়িয়ে দেয়: লোকটা তোমাদের বাপদাদার পথ থেকে সরাতে চায়, এটা বানানো কথা, এটা খোলা জাদু। আজ আমি এমন কিসের উপর ভর দিয়ে আছি, যা সেদিন আমাকে কিছুই দিতে পারবে না? আর কোনো সত্য আমার কাছে এলে আমি কি তা যাচাই করি, নাকি শুধু দেখি আমার লোকেরা আগে থেকে তা মানে কি না?",
+    "pointsEn": [
+      "Whose help am I counting on in a crisis that I have never once measured against the help of Allah?",
+      "When a clear verse unsettles a habit I inherited, is my first reply an argument, or only the age of the habit?",
+      "Have I ever dismissed something true by giving it a label instead of an answer?",
+      "The thing denied and the thing tasted are the same. What am I calling unreal today that I would not want to meet?",
+      "Who has set something clear before me that I waved away, and do I owe it a second hearing?"
+    ],
+    "pointsBn": [
+      "বিপদে আমি কার সাহায্যের আশায় থাকি, যার সাহায্যকে আল্লাহর সাহায্যের পাশে রেখে একবারও মেপে দেখিনি?",
+      "স্পষ্ট কোনো আয়াত যখন উত্তরাধিকারে পাওয়া আমার কোনো অভ্যাসে নাড়া দেয়, তখন আমার প্রথম জবাব কি কোনো যুক্তি, নাকি শুধু এটুকু যে অভ্যাসটা পুরোনো?",
+      "জবাব না দিয়ে শুধু একটা তকমা লাগিয়ে আমি কি কখনো কোনো সত্যকে উড়িয়ে দিয়েছি?",
+      "যাকে অস্বীকার করা হয়েছিল আর যার স্বাদ নিতে হলো, দুটো একই জিনিস। আজ আমি কোন জিনিসকে অবাস্তব বলছি, যার মুখোমুখি হতে আমি চাই না?",
+      "কে আমার সামনে স্পষ্ট কিছু তুলে ধরেছিল, যা আমি হাত নেড়ে সরিয়ে দিয়েছি? সেটা কি আরেকবার শোনার দাবি রাখে না?"
+    ],
+    "lessonEn": "On that Day no one can help or harm another. Weigh the clear verses on their merits now, not by what your forefathers held.",
+    "lessonBn": "সেদিন কেউ কারও উপকার বা ক্ষতি করতে পারবে না। তাই স্পষ্ট আয়াতগুলোকে আজই তাদের নিজের মাপে যাচাই করুন, বাপদাদা কী মানত সে মাপে নয়।"
   }
 };
 
