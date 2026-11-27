@@ -36313,6 +36313,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Your death is a duty already assigned and a return, not an ending; let the certainty of the first half make the second half near to you.",
     "lessonBn": "আপনার মৃত্যু আগে থেকে নির্ধারিত এক দায়িত্ব আর রবের কাছে ফিরে যাওয়া, শেষ হয়ে যাওয়া নয়। প্রথম অংশের নিশ্চয়তা দ্বিতীয় অংশকে আপনার কাছে নিকট করে তুলুক।"
+  },
+  "30:27": {
+    "reflectionEn": "Most of us accept the first creation without a second thought: we are here, so we were made. The doubt, when it comes, is about the second, that bodies gone to dust will stand again. This verse answers in the listener's own terms. The One who began creation repeats it, and repeating, as people reckon things, is easier than beginning. Nothing is hard for Him; the comparison is offered to our minds, not to His power. Then the verse lifts the gaze higher: His is the highest description in the heavens and the earth, and He is the Mighty, the Wise. If I already live inside the first wonder, what keeps the second from shaping how I live today?",
+    "reflectionBn": "প্রথম সৃষ্টি নিয়ে আমাদের মনে সাধারণত প্রশ্ন জাগে না। আমরা আছি, কাজেই আমাদের বানানো হয়েছে। খটকা লাগে দ্বিতীয়টায়: যে দেহ মাটিতে মিশে গেছে, তা আবার উঠে দাঁড়াবে? আয়াতটি জবাব দেয় শ্রোতার নিজের হিসাবেই। যিনি সৃষ্টির সূচনা করেছেন, তিনিই আবার সৃষ্টি করবেন। আর মানুষের হিসাবে নতুন করে গড়ার চেয়ে আবার গড়া সহজ। তাঁর কাছে কিছুই কঠিন নয়। তুলনাটা দেওয়া হয়েছে আমাদের বোঝার জন্য, তাঁর কুদরত মাপার জন্য নয়। তারপর আয়াত দৃষ্টি তুলে নেয় আরও উপরে: আসমান ও যমীনে সর্বোচ্চ গুণ তাঁরই, আর তিনি মহাপরাক্রমশালী, প্রজ্ঞাময়। প্রথম বিস্ময়ের ভেতরেই যখন আমি বেঁচে আছি, তখন দ্বিতীয়টা আমার আজকের জীবনকে বদলে দিতে পারছে না কেন?",
+    "pointsEn": [
+      "Which do I find harder to believe in the way I actually live: that I was made, or that I will be raised and asked what I did?",
+      "If I truly expected to stand again, what would I stop putting off?",
+      "When I call something impossible, am I measuring it by my own strength or by His?",
+      "What in my ordinary day shows me that He begins creation, and do I let it point me toward the return?",
+      "Does my picture of Allah rest on the highest description, or on smaller likenesses borrowed from people?"
+    ],
+    "pointsBn": [
+      "আমার চলাফেরা দেখে কোনটা বেশি অবিশ্বাস্য মনে হয়: আমাকে সৃষ্টি করা হয়েছে, নাকি আমাকে আবার ওঠানো হবে আর আমলের হিসাব নেওয়া হবে?",
+      "আবার উঠে দাঁড়াতে হবে, এ কথা সত্যিই মনে রাখলে কোন কাজটা আমি আর ফেলে রাখতাম না?",
+      "কোনো কিছুকে অসম্ভব বলার সময় আমি কি নিজের শক্তি দিয়ে মাপি, নাকি তাঁর শক্তি দিয়ে?",
+      "আমার রোজকার দিনে কোন জিনিস দেখায় যে তিনিই সৃষ্টির সূচনা করেন? সেটা কি আমাকে ফিরে যাওয়ার কথা মনে করিয়ে দেয়?",
+      "আল্লাহ সম্পর্কে আমার ধারণা কি সর্বোচ্চ গুণের উপর দাঁড়িয়ে, নাকি মানুষের কাছ থেকে ধার করা ছোট ছোট উপমার উপর?"
+    ],
+    "lessonEn": "You already live inside the first creation; let it convince you of the second, and never measure what Allah can do by the limits of your own strength.",
+    "lessonBn": "প্রথম সৃষ্টির ভেতরেই আপনি বেঁচে আছেন। সেটাই আপনাকে দ্বিতীয় সৃষ্টির ব্যাপারে নিশ্চিত করুক, আর আল্লাহ কী পারেন, তা কখনো নিজের সামর্থ্যের সীমা দিয়ে মাপবেন না।"
   }
 };
 

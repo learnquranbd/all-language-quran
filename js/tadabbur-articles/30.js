@@ -1187,6 +1187,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "30:27": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Call From the Earth",
+          "bn": "মাটি থেকে ডাকের পরে"
+        },
+        "p": [
+          {
+            "en": "Wa-huwa alladhi yabda'u al-khalqa thumma yu'iduhu: and it is He who begins creation, then repeats it. The verse closes a long run of signs opening wa-min ayatihi, and of His signs. The last, 30:25, ended with the dead coming out of the earth at a single call; then 30:26 said that whoever is in the heavens and the earth belongs to Him, all devoutly obedient. This verse gathers the thread: the One who owns them all began them, and He will bring them back.",
+            "bn": "ওয়া হুওয়াল্লাযী ইয়াবদাউল খালকা সুম্মা ইউঈদুহু: তিনিই সৃষ্টির সূচনা করেন, তারপর আবার তা সৃষ্টি করেন। আয়াতটি এসেছে নিদর্শনের লম্বা এক ধারার শেষে, যার প্রতিটি শুরু হয়েছে ওয়া মিন আয়াতিহী দিয়ে, অর্থাৎ তাঁর নিদর্শনের মধ্যে আছে। ধারার শেষটি ৩০:২৫, যেখানে একটিমাত্র ডাকে মৃতেরা মাটি থেকে বেরিয়ে আসে। তারপর ৩০:২৬ জানাল, আসমান ও যমীনে যে-ই আছে সে তাঁরই, আর সবাই তাঁর অনুগত। এ আয়াত সেই সুতো গুটিয়ে আনে। যিনি সবার মালিক, তিনিই তাদের শুরু করেছেন, আর তিনিই তাদের ফিরিয়ে আনবেন।"
+          },
+          {
+            "en": "At-Tabari opens by binding the verse to what came before it: the One to whom these attributes belong, blessed and exalted, is the One who begins creation. The signs were never only about this world. Spouses and mercy, tongues and colours, sleep and the search for provision, lightning and rain on dead ground were laid out one after another, and this verse names what they lead to.",
+            "bn": "তাবারী আয়াতটিকে আগের আলোচনার সঙ্গে জুড়ে দিয়ে শুরু করেন। তাঁর ভাষায়, যাঁর এসব গুণ, যিনি বরকতময় ও মহান, তিনিই সৃষ্টির সূচনা করেন। নিদর্শনগুলো তাই শুধু দুনিয়ার কথা ছিল না। স্বামী-স্ত্রী ও তাদের মাঝের দয়া, ভাষা ও গায়ের রং, ঘুম ও রিযিকের খোঁজ, বিদ্যুৎ আর মরা মাটিতে বৃষ্টি, একটার পর একটা সাজানো হয়েছে। এ আয়াত বলে দেয়, এগুলো কোন দিকে নিয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Nothing, Then Once More",
+          "bn": "শূন্য থেকে, তারপর আরেকবার"
+        },
+        "p": [
+          {
+            "en": "What is begun, and what is repeated? At-Tabari reads the first verb broadly: He begins creation from no prior origin, producing it and bringing it into being after it had been nothing; then He makes it pass away; then He repeats it after its passing, as He first began it. Al-Baghawi is briefer: He creates them first, then brings them back after death for the resurrection.",
+            "bn": "কী শুরু হয়, আর কী আবার করা হয়? তাবারী প্রথম ক্রিয়াটিকে বিস্তৃত অর্থে নেন। আগে কোনো মূল ছিল না, কিছুই ছিল না, সেখান থেকে তিনি সৃষ্টিকে গড়ে তোলেন, অস্তিত্বে আনেন। তারপর তাকে বিলীন করেন। বিলীন হওয়ার পর আবার তাকে সৃষ্টি করেন, যেমন প্রথমবার করেছিলেন। বাগাভী আরও সংক্ষেপে বলেন: তিনি প্রথমে তাদের সৃষ্টি করেন, তারপর মৃত্যুর পর পুনরুত্থানের জন্য আবার ফিরিয়ে আনেন।"
+          },
+          {
+            "en": "Al-Qurtubi brings the verse down to the single person. The beginning of a man's creation is his clinging in the womb before he is born; the repetition is his being given life after death at the second blowing, for the resurrection. Then he names the method. Allah made what is known of the beginning into a proof of what is hidden of the return, reasoning from the witnessed to the unseen. And He confirmed it, al-Qurtubi adds, with the words that follow: and that is easier for Him.",
+            "bn": "কুরতুবী আয়াতটিকে একজন মানুষের জীবনে নামিয়ে আনেন। মানুষের সৃষ্টির শুরু জন্মের আগে মায়ের গর্ভে তার আটকে থাকা। আর পুনরাবৃত্তি হলো মৃত্যুর পর দ্বিতীয় ফুঁৎকারে পুনরুত্থানের জন্য তাকে জীবিত করা। তারপর তিনি পদ্ধতিটার নাম বলেন। শুরুর যে অংশ মানুষ জানে, আল্লাহ সেটাকেই ফিরে আসার লুকানো অংশের প্রমাণ বানিয়েছেন। দেখা জিনিস থেকে না-দেখা জিনিসের দিকে যুক্তি টানা হয়েছে। কুরতুবী যোগ করেন, এরপর আল্লাহ কথাটাকে আরও পাকা করেছেন পরের বাক্যে: আর তা তাঁর জন্য সহজতর।"
+          },
+          {
+            "en": "Al-Qurtubi also records a variant in the first verb: Ibn Mas'ud and Ibn Umar read yubdi'u, from abda'a, which he supports with innahu huwa yubdi'u wa-yu'id, it is He who originates and repeats, in 85:13. For the majority's yabda'u he points to kama bada'akum ta'udun, as He began you, so you will return, in 7:29. Either reading sets the same pair side by side: a beginning the hearer cannot deny, and a return that follows from it.",
+            "bn": "প্রথম ক্রিয়াটির একটি ভিন্ন কিরাআতও কুরতুবী উল্লেখ করেন। ইবন মাসঊদ (রাঃ) ও ইবন উমর (রাঃ) পড়েছেন ইউবদিউ, আবদাআ থেকে। এর সমর্থনে তিনি আনেন ৮৫:১৩: ইন্নাহু হুওয়া ইউবদিউ ওয়া ইউঈদ, তিনিই সূচনা করেন এবং পুনরায় করেন। অধিকাংশের ইয়াবদাউ-র পক্ষে তিনি দেখান ৭:২৯: কামা বাদাআকুম তাঊদূন, তিনি যেভাবে তোমাদের শুরু করেছেন, সেভাবেই তোমরা ফিরে আসবে। যেভাবেই পড়া হোক, আয়াত একই জোড়া পাশাপাশি রাখে। একটি সূচনা, যা শ্রোতা অস্বীকার করতে পারে না, আর একটি প্রত্যাবর্তন, যা সেখান থেকেই আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Easier, by the Hearers' Reckoning",
+          "bn": "শ্রোতার হিসাবে সহজতর"
+        },
+        "p": [
+          {
+            "en": "Wa-huwa ahwanu 'alayhi: and that is easier for Him. Ahwan has the shape Arabic uses for comparison, and at-Tabari states plainly that the people of interpretation differed over its meaning. One group kept the comparison. Ibn Abbas, in the report through Ali ibn Abi Talha, glossed it as aysar 'alayhi, easier for Him. Mujahid said: the repetition is easier for Him than the beginning, and the beginning is easy for Him. Ikrimah said the repeating of creation is easier for Him than its first making.",
+            "bn": "ওয়া হুওয়া আহওয়ানু আলাইহি: আর তা তাঁর জন্য সহজতর। আহওয়ান শব্দের গড়ন আরবিতে তুলনার গড়ন। তাবারী সোজাসুজি জানান, এর অর্থ নিয়ে তাফসীরকারদের মধ্যে মতভেদ হয়েছে। একটি দল তুলনার অর্থ রেখেছেন। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) এর ব্যাখ্যা করেছেন আইসারু আলাইহি দিয়ে, অর্থাৎ তাঁর জন্য সহজতর। মুজাহিদ বলেছেন: শুরু করার চেয়ে আবার করা তাঁর জন্য সহজতর, আর শুরু করাও তাঁর জন্য সহজ। ইকরিমার কথা: প্রথমবার গড়ার চেয়ে সৃষ্টিকে আবার গড়া তাঁর জন্য সহজতর।"
+          },
+          {
+            "en": "Each who keeps the comparison adds a guard to it, as Mujahid did. Qatada, in at-Tabari's report, says His repeating is easier than His beginning, and all is easy for Allah. Al-Qurtubi gives this view from Mujahid, Ikrimah and ad-Dahhak and adds, even if all of it is easy for Allah. The Muyassar holds both halves together: the return is easier than the first making, and both are easy for Him. No one in this group says that anything is hard for Allah.",
+            "bn": "যাঁরা তুলনার অর্থ রেখেছেন, তাঁদের প্রত্যেকে সঙ্গে একটা রক্ষাকবচও জুড়ে দিয়েছেন, মুজাহিদ যেমন দিয়েছেন। তাবারীর বর্ণনায় কাতাদা বলেন: শুরু করার চেয়ে আবার করা তাঁর জন্য সহজতর, আর আল্লাহর কাছে সবই সহজ। কুরতুবী মতটি এনেছেন মুজাহিদ, ইকরিমা ও দাহহাক থেকে, সঙ্গে বলেছেন, যদিও আল্লাহর জন্য পুরোটাই সহজ। মুয়াসসার দুটো দিক একসঙ্গে ধরে রাখে: প্রথম সৃষ্টির চেয়ে ফিরিয়ে আনা সহজতর, আর দুটোই তাঁর কাছে সহজ। এই দলের কেউই বলেননি যে আল্লাহর কাছে কোনো কিছু কঠিন।"
+          },
+          {
+            "en": "Al-Baghawi says the comparison comes by way of a likeness: easier according to what falls within your minds, since people hold that repeating a thing is easier than producing it the first time. Al-Qurtubi calls it a likeness Allah struck for His servants: among you, restoring is easier than starting, so by your own measure the raising should be easier still. As-Sa'di says the comparison is relative to minds and understandings: if He can begin, which you admit, His power over the easier return is all the more certain.",
+            "bn": "বাগাভী বলেন, তুলনাটা এসেছে উপমা হিসেবে। তোমাদের বুদ্ধিতে যা ধরে, সেই হিসাবে সহজতর। কারণ মানুষ মনে করে, কোনো জিনিস প্রথমবার বানানোর চেয়ে দ্বিতীয়বার বানানো সহজ। কুরতুবী একে বলেন বান্দাদের জন্য আল্লাহর দেওয়া এক উপমা। তোমাদের মধ্যে শুরু করার চেয়ে আবার করা সহজ, কাজেই তোমাদের নিজেদের মাপেই পুনরুত্থান আরও সহজ হওয়ার কথা। সা'দী বলেন, তুলনাটা মানুষের মন ও বুদ্ধির হিসাবে। তোমরা তো মানো যে তিনি শুরু করতে পারেন। তাহলে সহজতর যে ফিরিয়ে আনা, তার উপর তাঁর ক্ষমতা আরও বেশি নিশ্চিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Comparative That Compares Nothing",
+          "bn": "তুলনার গড়ন, তুলনা নেই"
+        },
+        "p": [
+          {
+            "en": "The other group read ahwan as hayyin, simply easy, with no comparison at all. At-Tabari gives it from al-Rabi' ibn Khuthaym: ma shay'un 'alayhi bi-'aziz, nothing is too hard for Him. He gives it from Ibn Abbas too, by another chain: everything is easy for Him. Al-Qurtubi names al-Rabi' and al-Hasan for this view and states the reason in a single line: because no thing is easier for Allah than another thing. Al-Baghawi adds Qatada and al-Kalbi, so Qatada stands on both sides: at-Tabari's report from him keeps the comparison.",
+            "bn": "অন্য দল আহওয়ানকে পড়েছেন হাইয়িন অর্থে, শুধু সহজ, কোনো তুলনা ছাড়াই। তাবারী মতটি এনেছেন রাবী' ইবন খুসাইম থেকে: মা শাইউন আলাইহি বি-আযীয, কোনো কিছুই তাঁর কাছে কঠিন নয়। ভিন্ন এক সূত্রে ইবন আব্বাস (রাঃ) থেকেও এনেছেন: সব কিছুই তাঁর কাছে সহজ। কুরতুবী এ মতের পক্ষে রাবী' ও হাসানের নাম নেন, আর কারণটা এক লাইনে বলেন: আল্লাহর কাছে এক জিনিস অন্য জিনিসের চেয়ে সহজ, এমন কিছু নেই। বাগাভী এর সঙ্গে কাতাদা ও কালবীর নামও যোগ করেন। ফলে কাতাদার নাম দুই দিকেই পাওয়া যায়, কারণ তাবারী তাঁর থেকে যে বর্ণনা এনেছেন তাতে তুলনার অর্থ আছে।"
+          },
+          {
+            "en": "This side rests on a habit of Arabic: the comparative form sometimes stands for the plain adjective. Al-Baghawi and al-Qurtubi both cite al-Farazdaq, who says of the One who raised the sky that He built for his people a house whose pillars are a'azzu wa-atwal, mightier and taller in form, mighty and tall in meaning. At-Tabari and al-Qurtubi add a familiar case: Allahu akbar, taken to mean Allah is great.",
+            "bn": "এ মতের ভিত্তি আরবি ভাষার একটি রীতি: তুলনার গড়ন কখনো কখনো সাধারণ বিশেষণের কাজ করে। বাগাভী ও কুরতুবী দুজনেই ফারাযদাকের একটি পঙ্‌ক্তি আনেন। কবি বলেন, যিনি আকাশকে উঁচু করেছেন, তিনি আমাদের জন্য এমন ঘর বানিয়েছেন যার খুঁটি আআযযু ওয়া আতওয়াল। গড়নে শব্দ দুটো 'বেশি শক্ত, বেশি লম্বা', অর্থে শুধু 'শক্ত ও লম্বা'। তাবারী ও কুরতুবী একটি চেনা দৃষ্টান্তও যোগ করেন: আল্লাহু আকবার, যার অর্থ ধরা হয় আল্লাহ মহান।"
+          },
+          {
+            "en": "Al-Qurtubi quotes Abu Ubayda against the comparative reading: whoever takes ahwan as ranking a thing above another is answered by the verse that calls such a thing easy for Allah, and by wa-la ya'uduhu hifzuhuma, their preservation does not weary Him, in 2:255. Two reported readings are brought in support. Al-Qurtubi relays from Qatada that the reading of Abdullah ibn Mas'ud was wa-huwa 'alayhi hayyin, and that is easy for Him. At-Tabari notes that a certain reading has wa-kullun 'ala Allahi hayyin, and all is easy for Allah.",
+            "bn": "তুলনামূলক অর্থের বিরুদ্ধে কুরতুবী আবু উবাইদার কথা উদ্ধৃত করেন। যে আহওয়ানকে এক জিনিসকে অন্যটির উপরে রাখার অর্থে নেয়, তার জবাব সেই আয়াত, যেখানে এমন কাজকে আল্লাহর জন্য সহজ বলা হয়েছে। আরেক জবাব ২:২৫৫ আয়াত: ওয়া লা ইয়াঊদুহু হিফযুহুমা, এ দুটোর রক্ষণাবেক্ষণ তাঁকে ক্লান্ত করে না। সমর্থনে দুটি বর্ণিত কিরাআতও আনা হয়। কুরতুবী কাতাদা থেকে জানান, আব্দুল্লাহ ইবন মাসঊদ (রাঃ)-এর কিরাআত ছিল ওয়া হুওয়া আলাইহি হাইয়িন, আর তা তাঁর কাছে সহজ। তাবারী জানান, কোনো এক কিরাআতে আছে ওয়া কুল্লুন আলাল্লাহি হাইয়িন, আর আল্লাহর কাছে সবই সহজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Easier on Those Raised",
+          "bn": "যাদের ওঠানো হবে, তাদের জন্য সহজ"
+        },
+        "p": [
+          {
+            "en": "A third reading moves the pronoun. In 'alayhi, upon him, the him may be the creature rather than the Creator. Al-Qurtubi, giving it from Ibn Abbas and Qutrub, explains: they are called with one cry and they rise, they are told be and they are, and that is easier upon them than being drops, then clots, then lumps of flesh, and on through infancy and youth to men or women. Al-Baghawi gives the same sense through al-Kalbi from Abu Salih from Ibn Abbas, and at-Tabari allows it as a possible meaning.",
+            "bn": "তৃতীয় এক ব্যাখ্যা সর্বনামটিকে সরিয়ে নেয়। আলাইহি, অর্থাৎ তার উপর, এখানে 'তার' বলতে স্রষ্টা নয়, সৃষ্টিও হতে পারে। কুরতুবী ইবন আব্বাস (রাঃ) ও কুতরুব থেকে এ মত এনে ব্যাখ্যা করেন: একটিমাত্র আওয়াজে তাদের ডাকা হবে আর তারা উঠে দাঁড়াবে। বলা হবে, হয়ে যাও, আর তারা হয়ে যাবে। শুক্রবিন্দু, তারপর জমাট রক্ত, তারপর মাংসপিণ্ড, এরপর শৈশব ও যৌবন পেরিয়ে পুরুষ বা নারী হওয়ার চেয়ে এটা তাদের জন্য সহজ। বাগাভী একই অর্থ এনেছেন কালবীর সূত্রে, আবু সালিহের মাধ্যমে ইবন আব্বাস (রাঃ) থেকে। তাবারীও একে একটি সম্ভাব্য অর্থ হিসেবে মেনে নেন।"
+          },
+          {
+            "en": "Ibn Kathir sets out the comparative view first, then reports that others held both acts equal in relation to His power, and says that Ibn Jarir inclined to this and brought many witnesses for it. At-Tabari's own text, as fetched, lays out both views, adds the third as a possibility, and says only that the report from Ibn Abbas, everything is easy for Him, also has a sound basis; then it lists the grammarians' verses. They differ over the form of one word; none says anything is hard for Allah.",
+            "bn": "ইবন কাসীর আগে তুলনামূলক মতটি তুলে ধরেন। তারপর জানান, অন্যরা বলেছেন তাঁর কুদরতের বিচারে দুটি কাজই সমান। তাঁর কথায়, ইবন জারীর এ মতের দিকে ঝুঁকেছেন এবং এর পক্ষে অনেক সাক্ষ্য এনেছেন। তবে হাতে পাওয়া তাবারীর নিজের পাঠে দুটি মত সাজানো আছে, তৃতীয়টি এসেছে সম্ভাবনা হিসেবে। তিনি শুধু এটুকু বলেন যে ইবন আব্বাস (রাঃ)-এর বর্ণনা, সব কিছুই তাঁর কাছে সহজ, এরও একটা যুক্তিসংগত ভিত্তি আছে। সঙ্গে ব্যাকরণবিদদের পঙ্‌ক্তিগুলোও তুলে দেন। মতভেদ একটি শব্দের গড়ন নিয়ে। কেউই বলেননি যে আল্লাহর কাছে কোনো কিছু কঠিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Son of Adam's Denial",
+          "bn": "আদমসন্তানের অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir cites a hadith of al-Bukhari under this verse. Al-Bukhari's wording (Sahih al-Bukhari 4974) reads: Narrated Abu Huraira: The Prophet (ﷺ) said, \"Allah said: 'The son of Adam tells a lie against Me, though he hasn't the right to do so. He abuses me though he hasn't the right to do so. As for his telling a lie against Me, it is his saying that I will not recreate him as I created him for the first time. In fact, the first creation was not easier for Me than new creation.",
+            "bn": "ইবন কাসীর এ আয়াতের আলোচনায় বুখারীর একটি হাদীস এনেছেন। বুখারীর ভাষ্য (সহীহ বুখারী ৪৯৭৪) এই: আবু হুরায়রা (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন, \"আল্লাহ বলেন: আদমসন্তান আমাকে মিথ্যা প্রতিপন্ন করেছে, অথচ এ অধিকার তার নেই। সে আমাকে গালি দিয়েছে, অথচ এ অধিকারও তার নেই। আমাকে তার মিথ্যা প্রতিপন্ন করা হলো তার এই কথা যে, তিনি আমাকে আবার সৃষ্টি করবেন না, যেভাবে প্রথমবার সৃষ্টি করেছিলেন। অথচ প্রথম সৃষ্টি আমার জন্য নতুন সৃষ্টির চেয়ে সহজতর ছিল না।"
+          },
+          {
+            "en": "The narration continues: \"As for his abusing Me, it is his saying that Allah has begotten children, while I am the One, the Self-Sufficient Master Whom all creatures need, I beget not, nor was I begotten, and there is none like unto Me.\" Ibn Kathir says al-Bukhari alone recorded it, in his Sahih. The hadith does not name this verse; it is general, and Ibn Kathir brings it here because it shares the verse's own word, ahwan.",
+            "bn": "বর্ণনাটি এরপর বলে: \"আর আমাকে তার গালি দেওয়া হলো তার এই কথা যে, আল্লাহ সন্তান গ্রহণ করেছেন। অথচ আমি এক, অমুখাপেক্ষী, সব সৃষ্টি যাঁর মুখাপেক্ষী। আমি কাউকে জন্ম দিইনি, আমাকেও জন্ম দেওয়া হয়নি, আর আমার সমকক্ষ একজনও নেই।\" ইবন কাসীর জানান, হাদীসটি কেবল বুখারীই এনেছেন, তাঁর সহীহ গ্রন্থে। হাদীসে এ আয়াতের নাম নেই, এটি সাধারণ বর্ণনা। ইবন কাসীর এটি এখানে এনেছেন, কারণ আয়াতের মূল শব্দ আহওয়ান এতেও আছে।"
+          },
+          {
+            "en": "Laysa awwalu al-khalqi bi-ahwana 'alayya min i'adatihi: the first creation was not easier for Me than its repeating. The verse reasons from the hearer's own measure; the hadith closes the matter from the other side, for neither act is a strain on Him. As for Ikrimah's report, at-Tabari gives it through Shu'ba from Simak: the disbelievers wondered at Allah's giving life to the dead, and this verse came down. It is a Successor's statement, and no fetched source establishes it as a cause of revelation, so it reads as the verse's setting.",
+            "bn": "লাইসা আওওয়ালুল খালকি বি-আহওয়ানা আলাইয়া মিন ইআদাতিহী: প্রথম সৃষ্টি আমার জন্য তার পুনরাবৃত্তির চেয়ে সহজতর নয়। আয়াত যুক্তি দেয় শ্রোতার নিজের মাপকাঠি দিয়ে। হাদীস কথাটা শেষ করে অন্য দিক থেকে: কোনো কাজই তাঁর উপর ভার নয়। আর ইকরিমার বর্ণনা তাবারী এনেছেন শু'বা থেকে, সিমাকের মাধ্যমে: মৃতদের আল্লাহ জীবিত করবেন, এ কথায় কাফিররা অবাক হয়েছিল, তখন এ আয়াত নাযিল হয়। কথাটা একজন তাবিঈর। হাতে পাওয়া কোনো উৎস একে নাযিলের প্রতিষ্ঠিত কারণ বলে প্রমাণ করে না। তাই একে আয়াতের পটভূমি হিসেবেই পড়া ভালো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Above Every Likeness",
+          "bn": "সব উপমার ঊর্ধ্বে"
+        },
+        "p": [
+          {
+            "en": "Wa-lahu al-mathal al-a'la fi as-samawati wa-al-ard: and His is the highest description in the heavens and the earth. Al-Qurtubi gives al-Khalil's definition: mathal here means sifa, description, as in mathal al-jannah, meaning the garden's description. Al-Baghawi glosses it as the highest attribute, and the Muyassar as the highest description in everything He is described by. Ma'arif al-Qur'an adds a caution: mathal is used for something that resembles another without being exactly like it, and since Allah's being is beyond all resemblance, the word is rendered attribute.",
+            "bn": "ওয়া লাহুল মাসালুল আ'লা ফিস সামাওয়াতি ওয়াল আরদ: আসমান ও যমীনে সর্বোচ্চ গুণ তাঁরই। কুরতুবী এখানে খলীলের সংজ্ঞা আনেন: মাসাল মানে সিফাত, অর্থাৎ গুণ বা বিবরণ, যেমন মাসালুল জান্নাহ মানে জান্নাতের বিবরণ। বাগাভী এর অর্থ করেন সর্বোচ্চ গুণ। মুয়াসসার বলে, যত গুণে তাঁকে গুণান্বিত করা হয়, সবকিছুতে সর্বোচ্চ গুণ তাঁর। মাআরিফুল কুরআন একটি সতর্কতা যোগ করে। মাসাল বলা হয় এমন জিনিসকে, যা অন্য কিছুর মতো, তবে হুবহু এক নয়। আল্লাহর সত্তা যেহেতু সব সাদৃশ্যের ঊর্ধ্বে, তাই শব্দটির অনুবাদ করা হয়েছে গুণ।"
+          },
+          {
+            "en": "What is that description? Ibn Abbas, in the report through Ali ibn Abi Talha, said it is like laysa ka-mithlihi shay', there is nothing like Him, in 42:11, a report carried by at-Tabari, Ibn Kathir, al-Baghawi and al-Qurtubi. Qatada said His description is that there is no god but He and no Lord besides Him. Al-Qurtubi gives Mujahid: it is the saying la ilaha illa Allah, the description by oneness. Ibn Kathir gives the same from Muhammad ibn al-Munkadir, in the tafsir reported from Malik. At-Tabari joins the two: no god but He, alone without partner, and nothing like Him.",
+            "bn": "সেই গুণটা কী? আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেছেন, এটা ৪২:১১ আয়াতের মতো: লাইসা কামিসলিহী শাইউন, তাঁর মতো কিছুই নেই। তাবারী, ইবন কাসীর, বাগাভী ও কুরতুবী সবাই এ বর্ণনা এনেছেন। কাতাদা বলেছেন, তাঁর গুণ হলো, তিনি ছাড়া কোনো ইলাহ নেই, তিনি ছাড়া কোনো রব নেই। কুরতুবী মুজাহিদ থেকে আনেন: এটা লা ইলাহা ইল্লাল্লাহর বাণী, অর্থাৎ একত্বের গুণ। ইবন কাসীর মালিক থেকে বর্ণিত তাফসীরে মুহাম্মাদ ইবনুল মুনকাদির থেকে একই কথা আনেন। তাবারী দুটি কথাকে একসঙ্গে বলেন: তিনি ছাড়া কোনো ইলাহ নেই, তিনি একক, তাঁর কোনো শরীক নেই, আর তাঁর মতো কিছুই নেই।"
+          },
+          {
+            "en": "Other glosses widen the circle. Al-Qurtubi's first is short: whatever He wills comes to be. Az-Zajjaj, whom al-Qurtubi quotes, takes the likeness to be the verse's own words, that is easier for Him, struck for the hearers as a likeness drawn from what they find hard and what they find easy. As-Sa'di makes it every attribute of perfection, together with the complete love and turning toward Him in the hearts of His sincere servants, and their remembrance and worship of Him.",
+            "bn": "অন্য ব্যাখ্যাগুলো পরিধি আরও বাড়ায়। কুরতুবীর প্রথম ব্যাখ্যা ছোট: তিনি যা চান, তা-ই হয়। কুরতুবী যাজ্জাজের কথা উদ্ধৃত করেন। তাঁর মতে উপমাটা আয়াতের নিজের কথাই, আর তা তাঁর জন্য সহজতর। মানুষ কোনটাকে কঠিন আর কোনটাকে সহজ মনে করে, সেখান থেকে শ্রোতাদের জন্য এ উপমা টানা হয়েছে। সা'দীর কাছে এটা পূর্ণতার প্রতিটি গুণ। সঙ্গে আছে তাঁর মুখলিস বান্দাদের অন্তরে তাঁর প্রতি পূর্ণ ভালোবাসা ও রুজু, তাঁর জিকির ও ইবাদত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From the Lesser to the Greater",
+          "bn": "ছোট থেকে বড়র দিকে যুক্তি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws a method from the phrase. Scholars, he says, apply to the Creator the argument from what is more fitting: every perfection found in creatures, their Creator is more entitled to, in a way that none shares with Him; and every deficiency from which a creature is kept clear, the Creator is all the more clear of it. The verse's first half moves the same way. The beginning the hearers admit proves the return, and the highest description reminds them that no such comparison makes Him like His creatures.",
+            "bn": "সা'দী এ বাক্য থেকে একটি পদ্ধতি বের করেন। তিনি বলেন, আলেমরা স্রষ্টার ব্যাপারে 'অধিকতর উপযুক্ত'-এর যুক্তি ব্যবহার করেন। সৃষ্টির মধ্যে পূর্ণতার যে গুণই পাওয়া যায়, তার স্রষ্টা সে গুণের আরও বেশি হকদার, এমনভাবে যে তাতে কেউ তাঁর শরীক নয়। আর যে ত্রুটি থেকে সৃষ্টিকে মুক্ত রাখা হয়, স্রষ্টা তা থেকে আরও বেশি মুক্ত। আয়াতের প্রথম অংশও এভাবেই এগোয়। শ্রোতারা যে সূচনা মেনে নেয়, সেটাই প্রত্যাবর্তনের প্রমাণ। আর সর্বোচ্চ গুণের কথা মনে করিয়ে দেয়, এমন কোনো তুলনা তাঁকে সৃষ্টির মতো বানিয়ে দেয় না।"
+          },
+          {
+            "en": "The verse then closes on wa-huwa al-'aziz al-hakim, and He is the Mighty, the Wise. At-Tabari: mighty in vengeance on His enemies, wise in managing His creation through life and death, raising and spreading forth. Ibn Kathir: the One who is not overcome or withstood, wise in His acts and words, in His law and His decree. Al-Baghawi: mighty in His dominion, wise in His creation. Al-mathal al-a'la is His in 16:60 as well, and 30:28 at once draws a likeness from the hearers' own lives.",
+            "bn": "আয়াত শেষ হয় ওয়া হুওয়াল আযীযুল হাকীম দিয়ে, আর তিনি মহাপরাক্রমশালী, প্রজ্ঞাময়। তাবারীর ব্যাখ্যায় তিনি শত্রুদের থেকে প্রতিশোধ নেওয়ায় পরাক্রমশালী। আর জীবন ও মৃত্যু, পুনরুত্থান ও ছড়িয়ে দেওয়ার মধ্য দিয়ে সৃষ্টির ব্যবস্থাপনায় প্রজ্ঞাময়। ইবন কাসীরের কথায়, তাঁকে কেউ হারাতে পারে না, ঠেকাতেও পারে না। তিনি কাজে ও কথায় প্রজ্ঞাময়, শরীয়তে ও তাকদীরে। বাগাভী বলেন, রাজত্বে পরাক্রমশালী, সৃষ্টিতে প্রজ্ঞাময়। আল-মাসালুল আ'লা ১৬:৬০ আয়াতেও তাঁরই, আর ৩০:২৮ সঙ্গে সঙ্গে শ্রোতাদের নিজেদের জীবন থেকে একটি উপমা টানে।"
+          }
+        ]
+      }
+    ]
+  },
   "30:28": {
     "sections": [
       {
