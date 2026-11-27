@@ -35833,6 +35833,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Never let Allah's name or a cleverly true sentence give cover to a wrong; truthfulness lives in the whole of what you mean, not only in the words you pick.",
     "lessonBn": "আল্লাহর নাম কিংবা কৌশলে সাজানো কোনো 'সত্য' বাক্যকে কখনো অন্যায়ের আড়াল বানাবেন না। সত্যবাদিতা থাকে আপনার পুরো উদ্দেশ্যে, শুধু বেছে নেওয়া শব্দে নয়।"
+  },
+  "27:71": {
+    "reflectionEn": "They had heard the warning so many times that they turned it into a joke: when is this promise, then, if you are telling the truth? The question asks for a date, yet it does not want one. It wants the delay to stand as proof that nothing is coming. The surah has already said that no one in the heavens or the earth knows the unseen except Allah, and the next verse answers that some of what they hurry may already be close behind them. A quieter form of the same question can live in a believer's heart: there is still time. Do I mistake the respite Allah grants for His letting things go? And if the promise came today, what would it find me doing?",
+    "reflectionBn": "সতর্কবাণী তারা এত বার শুনেছিল যে শেষে সেটাকেই ঠাট্টার বিষয় বানিয়ে ফেলল: তোমরা সত্যবাদী হলে বলো তো, এ ওয়াদা কবে পূরণ হবে? প্রশ্নটা তারিখ জানতে চায়, অথচ আসলে তারিখ চায় না। সে চায় দেরিটাকেই প্রমাণ বানাতে যে কিছুই আসছে না। সূরাটি আগেই বলে দিয়েছে, আকাশ ও পৃথিবীতে আল্লাহ ছাড়া কেউ গায়েব জানে না। আর পরের আয়াত জবাব দেয়, যা নিয়ে তারা তাড়াহুড়া করছে, তার কিছু হয়তো তাদের ঠিক পেছনেই এসে গেছে। একই প্রশ্নের এক নরম রূপ মুমিনের মনেও বাসা বাঁধতে পারে: এখনো তো সময় আছে। আল্লাহর দেওয়া অবকাশকে কি আমি ছাড় ভেবে বসে আছি? আর ওয়াদা যদি আজই পূরণ হয়, আমাকে সে কোন কাজে ব্যস্ত পাবে?",
+    "pointsEn": [
+      "Which warning have I heard so often that it no longer moves me at all?",
+      "When I tell myself there is still time, is that a plan to repent, or a way of never deciding?",
+      "Have I ever read a delay in consequences as a sign that there will be none?",
+      "Do I spend more thought on when the Hour will come than on what I am taking to it?",
+      "If the promise came today, which unfinished duty would I most wish I had already done?"
+    ],
+    "pointsBn": [
+      "কোন সতর্কবাণী আমি এত বার শুনেছি যে এখন তা আমাকে আর একটুও নাড়া দেয় না?",
+      "যখন নিজেকে বলি এখনো সময় আছে, তখন কি সত্যিই তওবার পরিকল্পনা করছি, নাকি সিদ্ধান্তটা কেবল ঠেলে রাখছি?",
+      "পরিণাম আসতে দেরি হচ্ছে দেখে কখনো কি ধরে নিয়েছি যে পরিণাম আর আসবেই না?",
+      "কিয়ামত কবে আসবে, তা নিয়ে আমি যত ভাবি, সেদিন সঙ্গে কী নিয়ে যাব তা নিয়ে কি তার চেয়ে কম ভাবি?",
+      "ওয়াদা যদি আজই পূরণ হয়, কোন অসমাপ্ত দায়িত্বটা আগেই সেরে রাখলে সবচেয়ে বেশি স্বস্তি পেতাম?"
+    ],
+    "lessonEn": "Do not read delay as denial. The promise has its appointed time, known to Allah alone; spend the time you are given preparing for it, not asking when.",
+    "lessonBn": "দেরিকে অস্বীকার ভাববেন না। ওয়াদার নির্ধারিত সময় আছে, যা কেবল আল্লাহই জানেন। আপনাকে যে সময় দেওয়া হয়েছে, তা ‘কবে’ জিজ্ঞেস করে নয়, প্রস্তুতি নিয়ে কাটান।"
   }
 };
 

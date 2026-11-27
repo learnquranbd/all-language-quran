@@ -3343,6 +3343,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:71": {
+    "sections": [
+      {
+        "h": {
+          "en": "Seven Words of Mockery",
+          "bn": "সাত শব্দের বিদ্রূপ"
+        },
+        "p": [
+          {
+            "en": "Wa-yaquluna mata hadha al-wa'du in kuntum sadiqin: and they say, when is this promise, if you are truthful? In Arabic the verse is seven words long, and almost all of it is the deniers' own speech. It closes a short run in which the surah reports what those who disbelieve say. In 27:67 and 27:68 they ask whether they and their fathers, once turned to dust, will really be brought out, and they dismiss the whole promise as legends of the ancients.",
+            "bn": "ওয়া ইয়াকূলূনা মাতা হাযাল ওয়া'দু ইন কুনতুম সাদিকীন: আর তারা বলে, তোমরা সত্যবাদী হলে বলো, এ ওয়াদা কবে পূরণ হবে? আরবিতে আয়াতটি মাত্র সাতটি শব্দের, আর তার প্রায় পুরোটাই অস্বীকারকারীদের নিজেদের মুখের কথা। কাফিররা কী বলে, সূরাটি কয়েক আয়াত ধরে তা তুলে ধরছে, আর এ আয়াতে এসে সে ধারা শেষ হয়। ২৭:৬৭ ও ২৭:৬৮ আয়াতে তারা প্রশ্ন তোলে, তারা আর তাদের বাপদাদা মাটি হয়ে যাওয়ার পর সত্যিই কি আবার বের করে আনা হবে? তারপর গোটা ওয়াদাকেই তারা উড়িয়ে দেয় পূর্বপুরুষদের উপকথা বলে।"
+          },
+          {
+            "en": "Between that objection and this taunt stand two verses addressed to the Prophet ﷺ. In 27:69 he is told to send them walking through the land to see how the criminals ended; in 27:70 he is told not to grieve over them, nor be distressed by their plotting. Then the deniers speak again, and this time they do not argue. They ask for a date. The verb yaquluna is imperfect, the form that pictures a saying still going on, and the line reads less like a doubt honestly raised than like a challenge thrown back.",
+            "bn": "সেই আপত্তি আর এই খোঁচার মাঝখানে আছে নবী ﷺ-কে সম্বোধন করা দুটি আয়াত। ২৭:৬৯ আয়াতে তাঁকে বলা হয়, ওদের বলুন জমিনে ঘুরে দেখে আসতে, অপরাধীদের পরিণাম কেমন হয়েছিল। ২৭:৭০ আয়াতে বলা হয়, ওদের জন্য দুঃখ করবেন না, ওদের চক্রান্তে মন ছোট করবেন না। এরপর অস্বীকারকারীরা আবার মুখ খোলে। এবার তারা যুক্তি দেয় না, সোজা তারিখ চায়। ইয়াকূলূনা ক্রিয়াটি এসেছে এমন রূপে, যা বলাটাকে চলমান হিসেবে দেখায়, যেন তারা বলেই চলেছে। তাই প্রশ্নটা আন্তরিক সংশয়ের চেয়ে বেশি শোনায় ছুড়ে দেওয়া চ্যালেঞ্জের মতো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Promise They Meant",
+          "bn": "কোন ওয়াদার কথা তারা বলছিল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, in the Arabic commentary, opens with the subject. Allah is informing about the idolaters, in their question about the Day of Resurrection and their deeming it far-fetched that it would ever happen. For him the promise is the Hour itself, and the question is the voice of people who think it will never come. He then moves straight on: Allah said, answering them, and the next verse follows. Read this way, the verse continues the argument of 27:67, where the same people found it unthinkable that dust could be raised.",
+            "bn": "আরবি তাফসীরে ইবন কাসীর শুরুতেই বিষয়টা ধরিয়ে দেন। আল্লাহ এখানে মুশরিকদের কথা জানাচ্ছেন, কিয়ামত দিবস নিয়ে তাদের প্রশ্ন আর সেদিন যে আদৌ আসবে, এ কথাকে তাদের অসম্ভব মনে করার কথা। তাঁর কাছে ওয়াদা মানে কিয়ামত নিজেই। আর প্রশ্নটা সেই লোকদের গলা, যারা ভাবে সেদিন কখনো আসবে না। এরপর তিনি সরাসরি এগিয়ে যান: আল্লাহ তাদের জবাবে বললেন, আর পরের আয়াতটি উদ্ধৃত করেন। এভাবে পড়লে আয়াতটি ২৭:৬৭-এর যুক্তিরই ধারাবাহিকতা, যেখানে এই লোকেরাই মাটি থেকে আবার ওঠানোকে অভাবনীয় মনে করেছিল।"
+          },
+          {
+            "en": "At-Tabari places the weight on punishment. His paraphrase runs: the idolaters of your people, O Muhammad, who call you a liar in what you brought them from your Lord, say: when will this promise be, the punishment you promise us, which you say will descend upon us, if you are truthful in what you promise us? Al-Qurtubi's gloss is shorter and runs the same way: at what time will the punishment come to us for our denial, if you are truthful. The Muyassar also names the punishment as what was promised.",
+            "bn": "তাবারী জোর দেন শাস্তির উপর। তাঁর ব্যাখ্যা এরকম: হে মুহাম্মাদ, আপনার কওমের যে মুশরিকরা আপনার রবের কাছ থেকে আনা বাণীতে আপনাকে মিথ্যাবাদী বলে, তারা বলে, যে শাস্তির ওয়াদা তোমরা আমাদের দাও, তুমি বলো যা আমাদের উপর নেমে আসবে, সেটা কবে আসবে, যদি তোমাদের ওয়াদায় তোমরা সত্যবাদী হও? কুরতুবীর ব্যাখ্যা আরও সংক্ষিপ্ত, তবে একই দিকে যায়: আমাদের অস্বীকারের কারণে শাস্তি আমাদের উপর কোন সময় আসবে, যদি তোমরা সত্যবাদী হও? মুয়াসসারও ওয়াদার বিষয় হিসেবে শাস্তির কথাই বলে।"
+          },
+          {
+            "en": "As-Sa'di holds both threads at once. Those who say it, he writes, are the ones who deny the Return and the truth the Messenger brought, and they say it while hastening the punishment. So the commentators name the promise differently: Ibn Kathir the Day of Resurrection; at-Tabari, al-Qurtubi and the Muyassar the punishment; as-Sa'di the Return they deny together with the punishment they hurry. The verse itself says only this promise. Al-Baghawi, on this verse, quotes the words and adds no comment of his own.",
+            "bn": "সা'দী দুটো সুতাই একসঙ্গে ধরে রাখেন। তাঁর ভাষায়, কথাটা বলে তারা, যারা পুনরুত্থান অস্বীকার করে আর রাসূল যে সত্য এনেছেন তাও অস্বীকার করে। আর বলে শাস্তি তাড়াতাড়ি চেয়ে। তাহলে তাফসীরকারেরা ওয়াদার নাম দিচ্ছেন ভিন্ন ভিন্নভাবে। ইবন কাসীরের কাছে তা কিয়ামত দিবস। তাবারী, কুরতুবী আর মুয়াসসারের কাছে শাস্তি। সা'দীর কাছে অস্বীকার করা পুনরুত্থান আর তাড়াহুড়া করে চাওয়া শাস্তি, দুটোই। আয়াত নিজে শুধু বলে, এই ওয়াদা। বাগাভী এ আয়াতে শুধু শব্দগুলো উদ্ধৃত করেন, নিজের কোনো মন্তব্য যোগ করেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken to a Whole Company",
+          "bn": "গোটা দলকে লক্ষ্য করে"
+        },
+        "p": [
+          {
+            "en": "One small word widens the target. In kuntum, if you are truthful, the you is plural. The deniers are not addressing the Prophet ﷺ alone. The Muyassar spells it out: the punishment that you promise us, you and your followers. At-Tabari's paraphrase keeps the plural too, if you are truthful in what you promise us, with the verb in the plural. The believers in Makkah were being made to answer for the promise alongside the one who had brought it to them.",
+            "bn": "ছোট্ট একটা শব্দ লক্ষ্যটাকে বড় করে দেয়। ইন কুনতুম, তোমরা যদি সত্যবাদী হও, এখানে 'তোমরা' বহুবচন। অস্বীকারকারীরা শুধু নবী ﷺ-কে বলছে না। মুয়াসসার কথাটা খুলে বলে: যে শাস্তির ওয়াদা তুমি আর তোমার অনুসারীরা আমাদের দাও। তাবারীর ব্যাখ্যাতেও বহুবচন রয়ে গেছে: তোমাদের ওয়াদায় তোমরা যদি সত্যবাদী হও। অর্থাৎ মক্কার মুমিনদেরও ওয়াদার জবাবদিহি করতে হচ্ছিল, যিনি ওয়াদাটা এনেছিলেন তাঁর পাশাপাশি।"
+          },
+          {
+            "en": "That carries a quiet weight. Those who had accepted the message carried the same warning to their families and neighbours, and so they shared the same ridicule. The taunt treats the whole community as people who have staked their word on something that keeps failing to appear. In 27:68 the deniers had already said that they and their fathers were promised this before, so the warning was old to them by the time the first believers repeated it. Anyone who speaks of the Hereafter to someone who denies it meets this same tone.",
+            "bn": "এর ভার নিঃশব্দ, তবে ভারী। যাঁরা বাণীটা গ্রহণ করেছিলেন, তাঁরাও একই সতর্কবাণী নিজের পরিবার আর প্রতিবেশীর কাছে পৌঁছে দিতেন, তাই একই ঠাট্টা তাঁদেরও শুনতে হত। খোঁচাটা গোটা দলকে এমনভাবে দেখে, যেন তারা এমন এক জিনিসের উপর কথা দিয়ে বসে আছে, যা কিছুতেই দেখা দিচ্ছে না। ২৭:৬৮ আয়াতে অস্বীকারকারীরা আগেই বলেছিল, এ ওয়াদা তাদের আর তাদের বাপদাদাকেও আগে দেওয়া হয়েছিল। তাই প্রথম মুমিনরা যখন কথাটা বলতেন, তাদের কানে তা পুরোনো ঠেকত। আখিরাত অস্বীকার করে এমন কাউকে আখিরাতের কথা বললে আজও এই সুরই শোনা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Haste Dressed as a Question",
+          "bn": "প্রশ্নের মোড়কে তাড়াহুড়া"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di names what lies inside the question. This, he says, comes from the foolishness of their opinion and their ignorance. Its occurrence and its time Allah has deferred to its appointed term and fixed by a measure. Then comes the sentence that turns the taunt around: its not being hurried on proves nothing of what they are after. A promise does not become false because it has not arrived on the timetable the doubter demanded. The delay belongs to the One who set the term.",
+            "bn": "প্রশ্নের ভেতরে কী লুকিয়ে আছে, সা'দী তার নাম দেন। তিনি বলেন, এ তাদের মতের নির্বুদ্ধিতা আর অজ্ঞতা থেকে আসে। কারণ তা ঘটবে কবে, আল্লাহ তা নির্দিষ্ট মেয়াদ পর্যন্ত পিছিয়ে রেখেছেন, আর একটা পরিমাপে বেঁধে দিয়েছেন। এরপর যে বাক্যটা খোঁচাটাকে উল্টে দেয়: তা তাড়াতাড়ি আনা হচ্ছে না, এতে তারা যা চায় তার কিছুই প্রমাণ হয় না। সন্দেহকারী যে সময়সূচি দাবি করেছে, সে অনুযায়ী আসেনি বলে কোনো ওয়াদা মিথ্যা হয়ে যায় না। দেরিটা তাঁর হাতে, যিনি মেয়াদ ঠিক করেছেন।"
+          },
+          {
+            "en": "Ibn Kathir, on the answer that follows, links this exchange to two others. In 17:51 the deniers nod their heads and say, when is that? and the reply is, perhaps it will be soon. In 29:54 they urge the Prophet ﷺ to hasten the punishment, and the verse answers that Hell will surely encompass the disbelievers. The demand for a date and the demand for the punishment turn out to be one demand in two forms, and in each place the Qur'an withholds the date and affirms the thing itself.",
+            "bn": "পরের আয়াতের জবাব প্রসঙ্গে ইবন কাসীর এ কথোপকথনকে আরও দুটির সঙ্গে জুড়ে দেন। ১৭:৫১ আয়াতে অস্বীকারকারীরা মাথা নেড়ে বলে, সেটা কবে? জবাব আসে, হতে পারে তা শীঘ্রই। ২৯:৫৪ আয়াতে তারা নবী ﷺ-কে শাস্তি তাড়াতাড়ি আনতে বলে, আর আয়াত জবাব দেয়, জাহান্নাম কাফিরদের ঘিরে ফেলবেই। দেখা যায়, তারিখ চাওয়া আর শাস্তি চাওয়া আসলে একই দাবি, দুই চেহারায়। আর প্রতিটি জায়গায় কুরআন তারিখটা দেয় না, কিন্তু ঘটনাটা যে ঘটবে তা দৃঢ়ভাবে বলে।"
+          },
+          {
+            "en": "There is a logic here worth noticing. The clause if you are truthful makes the messenger's honesty hang on a calendar. But the surah had already set the terms in 27:65: none in the heavens and the earth knows the unseen except Allah, and they do not perceive when they will be resurrected. A messenger who names no day is not failing a test; he is keeping to what he was given. The demand for a date was, at bottom, a demand that he claim a knowledge which no creature has.",
+            "bn": "এখানে একটা যুক্তি খেয়াল করার মতো। 'তোমরা যদি সত্যবাদী হও' কথাটা রাসূলের সততাকে ঝুলিয়ে দেয় একটা তারিখের উপর। অথচ সূরাটি ২৭:৬৫ আয়াতেই শর্ত ঠিক করে দিয়েছে: আকাশ ও পৃথিবীতে আল্লাহ ছাড়া কেউ গায়েব জানে না, আর তারা টেরও পায় না কবে তাদের ওঠানো হবে। যে রাসূল কোনো দিন বলে দেন না, তিনি পরীক্ষায় ফেল করছেন না। তাঁকে যা দেওয়া হয়েছে, তিনি তার সীমায় থাকছেন। তারিখের দাবি আসলে ছিল এমন জ্ঞানের দাবি করতে বলা, যা কোনো সৃষ্টির কাছে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Refrain Heard Elsewhere",
+          "bn": "অন্য সূরাতেও একই সুর"
+        },
+        "p": [
+          {
+            "en": "The same seven Arabic words return elsewhere in the Qur'an unchanged: in 10:48, 21:38, 36:48 and 67:25 the deniers say again, when is this promise, if you are truthful? Each of those passages answers in its own way, and this article leaves them to their own commentaries. What the repetition shows on its face is that this was no passing remark. It was a refrain, the line those who rejected the warning reached for whenever the Hereafter was mentioned to them.",
+            "bn": "হুবহু এই সাতটি আরবি শব্দ কুরআনের আরও কয়েক জায়গায় ফিরে এসেছে। ১০:৪৮, ২১:৩৮, ৩৬:৪৮ ও ৬৭:২৫ আয়াতে অস্বীকারকারীরা আবার বলে, তোমরা সত্যবাদী হলে বলো, এ ওয়াদা কবে? প্রতিটি জায়গায় জবাব এসেছে নিজের মতো করে, সেগুলোর আলোচনা তাদের নিজ নিজ তাফসীরের কাজ। তবে বারবার ফিরে আসা থেকে এটুকু চোখে পড়ে যে এ কোনো হঠাৎ বলা কথা ছিল না। এ ছিল এক বাঁধা বুলি। যারা সতর্কবাণী প্রত্যাখ্যান করেছিল, আখিরাতের কথা উঠলেই তারা এ কথাটা টেনে আনত।"
+          },
+          {
+            "en": "Read with 27:66 just before it, the refrain makes sense. That verse says their knowledge of the Hereafter has failed; rather, they are in doubt about it; rather, they are blind to it. Ma'arif al-Qur'an, in its note on 27:66 within the group that includes this verse, records two senses of the verb iddaraka: some take it as knowledge that will be completed in the Hereafter, when it is of no use; others as knowledge that failed and was lost. Either way, a question about the Hereafter asked from such blindness could only come out as mockery.",
+            "bn": "ঠিক আগের ২৭:৬৬ আয়াতের সঙ্গে মিলিয়ে পড়লে বুলিটার মানে বোঝা যায়। সে আয়াত বলে, আখিরাতের ব্যাপারে তাদের জ্ঞান ফুরিয়ে গেছে। বরং তারা এ নিয়ে সন্দেহে আছে, বরং তারা এ বিষয়ে অন্ধ। এ আয়াতসহ যে গুচ্ছ, তার ভেতরে ২৭:৬৬-এর আলোচনায় মাআরিফুল কুরআন ইদ্দারাকা ক্রিয়ার দুটি অর্থ উল্লেখ করে। কেউ বলেন, আখিরাতে গিয়ে তাদের জ্ঞান পূর্ণ হবে, কিন্তু তখন তা কোনো কাজে আসবে না। অন্যরা বলেন, তাদের জ্ঞান ব্যর্থ হয়ে হারিয়ে গেছে। যে অর্থেই হোক, এমন অন্ধত্ব থেকে আখিরাত নিয়ে প্রশ্ন করলে তা বিদ্রূপ হয়েই বের হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Already at Your Heels",
+          "bn": "পিঠের ঠিক পেছনে"
+        },
+        "p": [
+          {
+            "en": "The answer comes in the next verse, and a pointer to it belongs here, since this verse is only half of the exchange. Say: perhaps some of what you seek to hasten is close behind you (27:72). Al-Qurtubi gives the root sense of radifa: radifahu, said when someone follows another and comes in his track. At-Tabari and Ibn Kathir report Ibn Abbas (RA) glossing it as it has drawn near to you, and at-Tabari also has Mujahid saying it has been hastened for you.",
+            "bn": "জবাব আসে পরের আয়াতে। আর এ আয়াত কথোপকথনের অর্ধেক মাত্র, তাই এখানে সেদিকে একটু ইশারা করা দরকার। বলুন, তোমরা যা তাড়াতাড়ি চাইছ, হয়তো তার কিছু তোমাদের ঠিক পেছনে এসে গেছে (২৭:৭২)। কুরতুবী রাদিফা শব্দের মূল অর্থ বলেন: রাদিফাহু, যখন কেউ কারও পেছন পেছন তার পায়ের ছাপ ধরে আসে। তাবারী ও ইবন কাসীর ইবন আব্বাস (রাঃ) থেকে এর ব্যাখ্যা আনেন: তোমাদের কাছে এসে পড়েছে। তাবারী মুজাহিদ থেকেও আনেন: তোমাদের জন্য তা তাড়াতাড়ি আনা হয়েছে।"
+          },
+          {
+            "en": "The reply does not give the date they asked for. It gives something closer: not all of it, but some, and perhaps already behind them. Al-Qurtubi and al-Baghawi say that this nearer portion fell on them at Badr, and al-Qurtubi adds a second opinion, introduced with it was said, that it is the punishment of the grave. That discussion belongs to the next verse. Here it is enough to see that the taunt was answered within a breath of being spoken, and answered with a warning, not a calendar.",
+            "bn": "জবাবে তারা যে তারিখ চেয়েছিল, তা নেই। আছে তার চেয়েও কাছের কিছু: পুরোটা নয়, কিছু অংশ, আর হয়তো তা ইতিমধ্যে পেছনে এসে দাঁড়িয়েছে। কুরতুবী ও বাগাভী বলেন, এই কাছের অংশটা তাদের উপর নেমেছিল বদরের দিন। কুরতুবী 'বলা হয়' কথাটা দিয়ে আরেকটি মতও আনেন: তা কবরের শাস্তি। সে আলোচনা পরের আয়াতের। এখানে এটুকু দেখাই যথেষ্ট যে খোঁচাটা বলা শেষ হতে না হতেই জবাব এসে গেছে, আর জবাব এসেছে সতর্কবাণী হয়ে, তারিখের তালিকা হয়ে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Near, With No Date Named",
+          "bn": "কাছে, তবু দিনক্ষণ নেই"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. There is a general narration on the nearness of the Hour which they do not connect to this verse, but which speaks to the same question. Al-Bukhari records from Anas (RA) that the Messenger of Allah ﷺ said: I have been sent and the Hour (is at hand) as these two (fingers). It is in his Sahih, number 6504, and the bracketed words are the translator's additions.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটি এর সঙ্গে কোনো হাদীস যুক্ত করেনি। কিয়ামতের নৈকট্য নিয়ে একটি সাধারণ বর্ণনা আছে। তাফসীরকারেরা সেটাকে এ আয়াতের সঙ্গে জোড়েননি, তবে প্রশ্নটা একই। বুখারী আনাস (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: আমাকে পাঠানো হয়েছে, আর কিয়ামত এই দুটির মতো (কাছাকাছি)। বর্ণনাটি তাঁর সহীহ গ্রন্থে, ৬৫০৪ নম্বরে। বন্ধনীর শব্দটি অনুবাদের সংযোজন।"
+          },
+          {
+            "en": "The narration does what 27:72 does. It speaks of closeness and names no time. The mockers asked for a date as if a date were the only honest answer, and the replies they received, from the Qur'an and in this saying, are of another kind: the thing is near. The believer is asked to hold two facts together, that the promise is close and that its moment is hidden with Allah, and to let the first make him careful rather than letting the second make him careless.",
+            "bn": "বর্ণনাটি ঠিক তা-ই করে, যা ২৭:৭২ করে। নৈকট্যের কথা বলে, কিন্তু কোনো সময় বলে না। বিদ্রূপকারীরা তারিখ চেয়েছিল, যেন তারিখই একমাত্র সৎ জবাব। অথচ কুরআন থেকে আর এই বাণী থেকে যে জবাব আসে, তা অন্য ধরনের: ঘটনাটা কাছে। মুমিনকে দুটি সত্য একসঙ্গে ধরে রাখতে বলা হয়। ওয়াদা কাছে, আর তার মুহূর্তটা আল্লাহর কাছে গোপন। প্রথমটা যেন তাকে সাবধান করে, দ্বিতীয়টা যেন তাকে গাফিল না করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking When, Living How",
+          "bn": "কবে নয়, কীভাবে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the deniers among the Prophet's own people, in at-Tabari's words those who called him a liar in what he brought, mocking a warning they did not believe. It licenses nothing against any living person or community. Nor does it make every questioner a mocker. Someone who sincerely asks about the Hour, or wrestles with doubt about the Hereafter, is not the speaker of this verse, and is owed a patient answer rather than this verse thrown back at him.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা তার শব্দে আছে: নবী ﷺ-এর নিজের কওমের অস্বীকারকারীরা, তাবারীর ভাষায় যারা তাঁর আনা বাণীতে তাঁকে মিথ্যাবাদী বলত, এমন এক সতর্কবাণী নিয়ে ঠাট্টা করছে, যা তারা বিশ্বাস করত না। আজকের কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। প্রশ্ন করলেই কেউ বিদ্রূপকারী হয়ে যায় না। যে আন্তরিকভাবে কিয়ামত নিয়ে জানতে চায়, কিংবা আখিরাত নিয়ে সংশয়ের সঙ্গে লড়ছে, সে এ আয়াতের বক্তা নয়। তার প্রাপ্য ধৈর্য ধরে দেওয়া জবাব, এ আয়াত তার দিকে ছুড়ে মারা নয়।"
+          },
+          {
+            "en": "The more searching use of the verse is inward. A believer will not say, when is this promise, if you are truthful. But a believer can live as though the promise had no date simply because its date is not known: the repentance put off to next year, the debt left unpaid, the prayer always to be set right later. As-Sa'di's sentence reaches there too. That the reckoning has not been hurried on proves nothing about whether it will come, and the delay is no permission to wait.",
+            "bn": "আয়াতটির গভীরতর ব্যবহার নিজের ভেতরে। মুমিন কখনো বলবে না, তোমরা সত্যবাদী হলে বলো, এ ওয়াদা কবে? কিন্তু তারিখ জানা নেই বলে মুমিনও এমনভাবে বাঁচতে পারে, যেন ওয়াদার কোনো তারিখই নেই। তওবা পিছিয়ে যায় আগামী বছরে, ঋণ শোধ হয় না, নামাজ ঠিক করার কাজ সবসময় পরে। সা'দীর বাক্যটা সেখানেও পৌঁছে যায়। হিসাবের দিন তাড়াতাড়ি আনা হচ্ছে না, এতে প্রমাণ হয় না যে তা আসবে না। আর দেরি মানে অপেক্ষা করে বসে থাকার অনুমতি নয়।"
+          },
+          {
+            "en": "So the verse turns the question around. They asked when, and received no day. What their own taunt never asked was how they would meet it, and that is the question left with every reader. The term and the measure, in as-Sa'di's words, are Allah's to fix. What belongs to the reader is the time between now and then, which, in the words of the next verse, may already be shorter than it looks, with the promised thing close behind.",
+            "bn": "এভাবে আয়াতটি প্রশ্নটাকে উল্টে দেয়। তারা জানতে চেয়েছিল কবে, কোনো দিন জানানো হয়নি। তাদের খোঁচায় যে প্রশ্নটা কখনো ওঠেনি, তা হল, সেদিনের মুখোমুখি তারা কীভাবে হবে। প্রত্যেক পাঠকের কাছে সেই প্রশ্নটাই রেখে যাওয়া হয়। সা'দীর ভাষায়, মেয়াদ আর পরিমাপ ঠিক করা আল্লাহর কাজ। পাঠকের হাতে আছে এখন থেকে সেদিন পর্যন্ত সময়টুকু। পরের আয়াতের ভাষায়, সে সময় হয়তো যতটা মনে হয় তার চেয়েও ছোট, আর ওয়াদা করা জিনিস হয়তো ঠিক পেছনেই।"
+          }
+        ]
+      }
+    ]
+  },
   "27:75-76": {
     "sections": [
       {
