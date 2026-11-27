@@ -38251,6 +38251,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Read the Book as sent by the One who also made the world: seek its light, ponder its verses patiently, and use this passing life as work for the life that lasts.",
     "lessonBn": "কিতাবটি পড়ুন তাঁর পাঠানো কথা হিসেবে, যিনি এই জগৎও বানিয়েছেন। এর আলোয় পথ খুঁজুন, ধৈর্য নিয়ে আয়াতগুলো নিয়ে ভাবুন, আর এই ক্ষণস্থায়ী জীবনকে স্থায়ী জীবনের জন্য কাজে লাগান।"
+  },
+  "46:20": {
+    "reflectionEn": "A crowd stands at the edge of the Fire and hears an account of its own life. Those who disbelieved are told that they used up their good things in the world and enjoyed them there, and that today they are repaid with humiliation, because they were proud on the earth without right and kept stepping outside obedience. The verse names its causes, and the food on their plates is not among them. Lawful good things are a gift. The danger is a heart that takes the gift as its whole share and forgets the Giver. So I look at my own comforts. Do they leave me grateful and humble, or do they quietly make me proud?",
+    "reflectionBn": "আগুনের কিনারে দাঁড়িয়ে একদল মানুষ শুনছে নিজেদের জীবনেরই হিসাব। যারা কুফরি করেছিল, তাদের বলা হচ্ছে: দুনিয়াতেই তোমরা তোমাদের ভালো জিনিসগুলো শেষ করে ফেলেছ, সেখানেই সেগুলো ভোগ করেছ। আজ তার বদলে তোমাদের প্রাপ্য অপমানের শাস্তি, কারণ জমিনে তোমরা অন্যায়ভাবে অহংকার করতে আর বারবার আনুগত্যের সীমা ছেড়ে বেরিয়ে যেতে। কারণগুলো আয়াত নিজেই বলে দিয়েছে, আর থালার খাবার সে তালিকায় নেই। হালাল ভালো জিনিস আল্লাহর দান। বিপদ হলো সেই অন্তর, যে দানটাকেই নিজের পুরো অংশ ভেবে বসে আর দাতাকে ভুলে যায়। তাই নিজের আরামের দিকে তাকাই। এগুলো কি আমাকে কৃতজ্ঞ আর বিনয়ী রাখে, নাকি চুপিসারে অহংকারী করে তোলে?",
+    "pointsEn": [
+      "Which comfort in my life have I stopped thanking Allah for because it now feels like something I am owed?",
+      "When I have more than someone else, does it make me gentler with them or quietly superior?",
+      "Is there a good thing I enjoy that has drawn me, little by little, toward something doubtful?",
+      "What one pleasure could I hold back this week, not because it is forbidden, but to keep my heart from leaning on it?",
+      "When I see another person's wealth, do I judge their Hereafter, or do I turn the question back on myself?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন আরামটার জন্য আমি আর আল্লাহর শোকর করি না, কারণ এখন সেটাকে নিজের পাওনা বলে মনে হয়?",
+      "কারও চেয়ে আমার বেশি থাকলে আমি কি তার প্রতি আরও নরম হই, নাকি মনে মনে নিজেকে তার চেয়ে বড় ভাবি?",
+      "এমন কোনো ভালো জিনিস কি ভোগ করছি, যা আমাকে একটু একটু করে সন্দেহজনক কিছুর দিকে টেনে নিচ্ছে?",
+      "এ সপ্তাহে কোন একটা আনন্দ আমি ছেড়ে থাকতে পারি, হারাম বলে নয়, বরং অন্তর যেন তার উপর ভর না দেয় সে জন্য?",
+      "অন্যের সম্পদ দেখলে আমি কি তার আখিরাতের বিচার করতে বসি, নাকি প্রশ্নটা নিজের দিকেই ফিরিয়ে আনি?"
+    ],
+    "lessonEn": "Enjoy lawful good things with gratitude and humility, and never let them become your whole share, spent here in pride and disobedience.",
+    "lessonBn": "হালাল ভালো জিনিস শোকর আর বিনয়ের সাথে উপভোগ করুন, তবে সেগুলোকে কখনো নিজের পুরো অংশ বানিয়ে অহংকার আর নাফরমানিতে এখানেই খরচ করে ফেলবেন না।"
   }
 };
 

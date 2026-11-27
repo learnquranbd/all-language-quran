@@ -1219,6 +1219,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "46:20": {
+    "sections": [
+      {
+        "h": {
+          "en": "Brought Up to the Fire",
+          "bn": "আগুনের সামনে হাজির"
+        },
+        "p": [
+          {
+            "en": "Wa yawma yu'radu alladhina kafaru 'ala an-nar: and the Day those who disbelieved are brought before the Fire. The verse follows 46:19, which promised everyone degrees according to what they did, and it shows one of those degrees being met. Al-Qurtubi reads the opening as a call to the Prophet ﷺ to remind them of that Day, and he pictures the exposure: the covering is lifted, they are brought close to the Fire, and they look at it.",
+            "bn": "ওয়া ইয়াওমা ইউ'রাদুল্লাযীনা কাফারূ 'আলান নার: আর যেদিন কাফিরদের আগুনের সামনে হাজির করা হবে। ঠিক আগের আয়াত ৪৬:১৯ বলেছে, প্রত্যেকের জন্য তার আমল অনুযায়ী স্তর আছে। এ আয়াতে সেই স্তরগুলোর একটির মুখোমুখি হওয়ার ছবি। কুরতুবীর মতে শুরুর কথাটা নবী ﷺ-এর প্রতি আহ্বান, তিনি যেন তাদের সেই দিনের কথা মনে করিয়ে দেন। হাজির করার দৃশ্যটাও তিনি এঁকে দেন: পর্দা সরিয়ে নেওয়া হবে, তাদের আগুনের কাছে আনা হবে, আর তারা নিজের চোখে সেটা দেখবে।"
+          },
+          {
+            "en": "No speaker is named before the words that follow. At-Tabari and al-Baghawi supply 'it will be said to them', and al-Qurtubi states that the saying is implied. Ibn Kathir and the Muyassar add the tone: the words come as reproach and rebuke. The next verse, 46:21, turns to the brother of 'Ad warning his people of the punishment of a terrible day.",
+            "bn": "পরের কথাগুলো কে বলবে, আয়াতে তা উল্লেখ নেই। তাবারী ও বাগাভী সেখানে জুড়ে দেন 'তাদের বলা হবে'। কুরতুবী সরাসরি বলেন, কথাটা এখানে উহ্য। ইবন কাসীর আর মুয়াসসার জানান কথার সুর: এ হলো তিরস্কার আর ভর্ৎসনা। পরের আয়াত ৪৬:২১ চলে যায় 'আদ জাতির ভাইয়ের কাহিনিতে, যিনি নিজের কওমকে এক ভয়াবহ দিনের শাস্তি সম্পর্কে সতর্ক করেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked, or Simply Told",
+          "bn": "প্রশ্ন, নাকি সোজা ঘোষণা"
+        },
+        "p": [
+          {
+            "en": "The first word, adhhabtum, you used up, was read in two ways. At-Tabari reports that the general body of readers in the main cities read it as a statement, except Abu Ja'far the reader, who read it as a question: a-adhhabtum, did you use up? Arabs, he explains, rebuke both with a question and without it. He prefers the statement, because the authoritative readers agree on it and because it is the more eloquent of the two usages.",
+            "bn": "প্রথম শব্দ আযহাবতুম, অর্থাৎ তোমরা শেষ করে ফেলেছ, দুইভাবে পড়া হয়েছে। তাবারী জানান, বড় শহরগুলোর অধিকাংশ কারী এটি পড়েছেন সংবাদ হিসেবে। ব্যতিক্রম কারী আবু জা'ফর, তিনি পড়েছেন প্রশ্ন হিসেবে: আ-আযহাবতুম, তোমরা কি শেষ করে ফেলেছ? তাবারী ব্যাখ্যা দেন, আরবরা তিরস্কার করে প্রশ্ন দিয়েও, প্রশ্ন ছাড়াও। তবু তিনি সংবাদের পাঠটাই বেছে নেন। কারণ নির্ভরযোগ্য কারীরা এতে একমত, আর দুই রীতির মধ্যে এটাই বেশি বিশুদ্ধ।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi give longer lists. Al-Baghawi names Ibn Kathir, Ibn 'Amir, Abu Ja'far and Ya'qub for the question; al-Qurtubi names al-Hasan, Ya'qub and Ibn Kathir among others, and records that Abu 'Ubayd chose the statement as the reading of most of the seven readers. Al-Qurtubi calls every form sound Arabic with the same meaning, rebuke, but finds the statement better: a question can suggest the deed never happened, as when someone asks 'did I wrong you?' meaning he did not. Either way, no one is being asked for information.",
+            "bn": "বাগাভী ও কুরতুবী আরও লম্বা তালিকা দেন। বাগাভীর হিসাবে প্রশ্নের পাঠ ইবন কাসীর, ইবন 'আমির, আবু জা'ফর ও ইয়া'কূবের। কুরতুবী অন্যদের সাথে হাসান, ইয়া'কূব ও ইবন কাসীরের নাম নেন, আর জানান যে আবু উবায়দ সংবাদের পাঠ বেছে নিয়েছিলেন, কারণ সাতজন কারীর অধিকাংশ এভাবেই পড়েছেন। কুরতুবীর মতে সব পাঠই বিশুদ্ধ আরবি, অর্থও এক: তিরস্কার। তবু সংবাদের পাঠ তাঁর কাছে উত্তম। প্রশ্ন শুনে মনে হতে পারে কাজটা ঘটেইনি, যেমন কেউ বলে 'আমি কি তোমার উপর জুলুম করেছি?' আর বোঝায় যে করেনি। যে পাঠই ধরুন, এখানে কেউ কিছু জানতে চাইছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Good Things Spent Early",
+          "bn": "আগেভাগে খরচ হওয়া নিয়ামত"
+        },
+        "p": [
+          {
+            "en": "What were the tayyibat, the good things? Al-Qurtubi's first answer: they enjoyed good things in the world and followed desires and pleasures, by which, he says, the sins are meant. He then records a second reading, that the good things are youth and strength, from the Arab saying that a man's two best things have gone, meaning his youth and vigour. He relays it from Ibn Bahr, and from al-Mawardi, who found ad-Dahhak saying it too. Al-Qurtubi judges the first reading the more evident.",
+            "bn": "তাইয়িবাত, অর্থাৎ ভালো জিনিসগুলো কী ছিল? কুরতুবীর প্রথম উত্তর: দুনিয়াতে তারা ভালো জিনিস ভোগ করেছে, প্রবৃত্তি আর মজার পেছনে ছুটেছে। তাঁর ভাষায়, এর দ্বারা উদ্দেশ্য গুনাহ। এরপর তিনি দ্বিতীয় একটি ব্যাখ্যা আনেন। ভালো জিনিস মানে যৌবন আর শক্তি। আরবরা বলে, লোকটার দুই সেরা জিনিস চলে গেছে, মানে তার যৌবন আর বল। এ মত তিনি নেন ইবন বাহর থেকে, আর মাওয়ার্দী থেকে, যিনি দাহহাকের কাছেও একই কথা পেয়েছেন। কুরতুবীর বিচারে প্রথম ব্যাখ্যাটাই বেশি স্পষ্ট।"
+          },
+          {
+            "en": "As-Sa'di describes the inner state behind the spending. They felt at ease with the world, were deceived by its pleasures and content with its appetites, and its good things distracted them from striving for their Hereafter. They enjoyed themselves as grazing cattle do, he writes, and that became their share in place of the Hereafter. Ibn Zayd, in at-Tabari, recited 11:15, 42:20 and 17:18 beside this verse, verses on those who want the present world and are given of it, and said: these are the ones who used up their good things.",
+            "bn": "খরচের পেছনে মনের অবস্থাটা কেমন ছিল, সা'দী তা দেখান। দুনিয়া নিয়ে তারা নিশ্চিন্ত হয়ে গিয়েছিল। তার মজায় ধোঁকা খেয়েছিল, তার কামনাতেই খুশি ছিল। দুনিয়ার ভালো জিনিসগুলো তাদের আখিরাতের চেষ্টা থেকে ভুলিয়ে রেখেছিল। তাঁর ভাষায়, চরে বেড়ানো পশুর মতো তারা ভোগ করেছে, আর সেটাই হয়ে গেছে আখিরাতের বদলে তাদের অংশ। তাবারীতে ইবন যায়দ এ আয়াতের পাশে পড়েন ১১:১৫, ৪২:২০ ও ১৭:১৮। এ আয়াতগুলো তাদের নিয়ে, যারা দুনিয়া চায় আর দুনিয়া থেকেই পায়। তারপর তিনি বলেন: এরাই সেই লোক, যারা নিজেদের ভালো জিনিস দুনিয়াতে শেষ করে ফেলেছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an adds a further point. Disbelievers have their good deeds repaid in this world with comfort, wealth and honour, so nothing is left for them in the Hereafter, where without faith those deeds carry no weight. It adds at once that this rule does not apply to believers: a believer given comfort here is not thereby deprived of his right in the Hereafter. Ibn Kathir quotes Abu Mijlaz: some people will go looking for good deeds they had in the world, and will be told these very words.",
+            "bn": "মাআরিফুল কুরআন আরেকটি দিক যোগ করে। কাফিরদের ভালো কাজের প্রতিদান দুনিয়াতেই দিয়ে দেওয়া হয় আরাম, সম্পদ আর সম্মানের রূপে। ফলে আখিরাতে তাদের জন্য কিছুই বাকি থাকে না, কারণ ঈমান ছাড়া সেখানে ওসব আমলের কোনো ওজন নেই। সাথে সাথেই সে স্পষ্ট করে, এ নিয়ম মুমিনদের বেলায় খাটে না। দুনিয়াতে আরাম পেলে মুমিন আখিরাতে তার হক থেকে বঞ্চিত হয় না। ইবন কাসীর আবু মিজলাযের কথা আনেন: কিছু লোক দুনিয়ার করা নেকিগুলো খুঁজে ফিরবে, আর তাদের শোনানো হবে ঠিক এই কথাগুলোই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Abasement Cut to Fit Pride",
+          "bn": "অহংকারের মাপে লাঞ্ছনা"
+        },
+        "p": [
+          {
+            "en": "Fal-yawma tujzawna 'adhaba al-hun: so today you are repaid with the punishment of humiliation. Mujahid glossed al-hun as al-hawan, abasement; at-Tabari and al-Qurtubi both carry his gloss, and al-Qurtubi adds from Qatada that the word belongs to the dialect of Quraysh. At-Tabari calls it the punishment of the Fire that humiliates them; al-Baghawi, a punishment holding abasement and disgrace; as-Sa'di, a severe punishment that humiliates them and lays them bare.",
+            "bn": "ফালইয়াওমা তুজযাওনা 'আযাবাল হূন: তাই আজ তোমাদের প্রতিদান দেওয়া হবে অপমানের শাস্তি দিয়ে। মুজাহিদ আল-হূন শব্দের অর্থ করেছেন আল-হাওয়ান, অর্থাৎ লাঞ্ছনা। তাবারী ও কুরতুবী দুজনেই তাঁর এ ব্যাখ্যা এনেছেন। কুরতুবী কাতাদা থেকে যোগ করেন, শব্দটি কুরাইশের ভাষার। তাবারীর কাছে এ হলো জাহান্নামের সেই শাস্তি, যা তাদের হীন করে দেয়। বাগাভী বলেন, এমন শাস্তি যাতে আছে লাঞ্ছনা আর অপদস্থতা। সা'দীর ভাষায়, কঠিন শাস্তি, যা তাদের অপমান করবে আর সবার সামনে তাদের মুখোশ খুলে দেবে।"
+          },
+          {
+            "en": "Ibn Kathir sees the fit between deed and recompense: they were repaid in kind. As they pampered themselves, were too proud to follow the truth, and gave themselves to defiance and sins, Allah repaid them with a punishment of abasement. He lists what that abasement holds: disgrace, painful torment, sorrow upon sorrow, and places in the dreadful depths. He closes by asking Allah's protection from it all.",
+            "bn": "আমল আর প্রতিদানের মিলটা ইবন কাসীর ধরিয়ে দেন: তাদের প্রতিদান হয়েছে তাদের কাজের জাতের। তারা নিজেদের আয়েশে ডুবিয়ে রেখেছিল, সত্য মেনে নিতে অহংকার করেছিল, ফাসিকি আর গুনাহে মেতে ছিল। তাই আল্লাহ তাদের প্রতিদান দিলেন লাঞ্ছনার শাস্তি দিয়ে। সেই লাঞ্ছনায় কী আছে, তিনি গুনে বলেন: অপমান, যন্ত্রণাদায়ক কষ্ট, একের পর এক আফসোস, আর ভয়ংকর গভীর স্তরে ঠাঁই। শেষে তিনি দোয়া করেন, আল্লাহ যেন আমাদের এসব থেকে রক্ষা করেন।"
+          },
+          {
+            "en": "The verse names two causes, and each has its gloss. On pride on the earth without right, at-Tabari reads pride against their Lord: refusing to make worship sincere to Him or to yield to His command, without right, meaning without anything their Lord had permitted. Al-Qurtubi reads it first as lording it over the earth's people without entitlement, and later as holding themselves above obedience to Allah and above His servants. For tafsuqun, at-Tabari has disobeying Him, al-Qurtubi transgression and wrong in their deeds, the Muyassar leaving obedience to Allah.",
+            "bn": "আয়াত দুটি কারণ বলেছে, আর দুটোরই ব্যাখ্যা আছে। জমিনে অন্যায়ভাবে অহংকার, এর অর্থ তাবারীর কাছে রবের বিরুদ্ধে অহংকার। তারা খাঁটিভাবে তাঁর ইবাদত করতে আর তাঁর আদেশ-নিষেধ মানতে রাজি হয়নি। আর অন্যায়ভাবে মানে, রব যার অনুমতি দেননি তেমন কিছুর ভিত্তিতে। কুরতুবী প্রথমে বলেন, হক ছাড়াই জমিনের মানুষের উপর নিজেদের বড় করে দেখানো। পরে বলেন, আল্লাহর আনুগত্য আর তাঁর বান্দাদের উপর নিজেদের বড় ভাবা। তাফসুকূন শব্দের অর্থ তাবারীর কাছে তাঁর নাফরমানি, কুরতুবীর কাছে কাজে বাড়াবাড়ি আর জুলুম, মুয়াসসারের কাছে আল্লাহর আনুগত্য থেকে বেরিয়ে যাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What 'Umar Was Afraid Of",
+          "bn": "উমর (রাঃ) যে ভয় পেতেন"
+        },
+        "p": [
+          {
+            "en": "The verse speaks of those who disbelieved, yet Companions heard it as a warning to themselves. Ibn Kathir writes, without a chain, that 'Umar ibn al-Khattab (RA) kept away from many fine foods and drinks, saying he feared being like those Allah rebuked with these words. Al-Qurtubi gives a report from al-Hasan from al-Ahnaf ibn Qays, with no grading, that 'Umar said: if I wished I could have roasts and sauces and thin bread, but I keep my good deeds in reserve, for Allah described a people and said, you used up your good things.",
+            "bn": "আয়াতটি কাফিরদের নিয়ে, তবু সাহাবিরা একে নিজেদের জন্য সতর্কবাণী হিসেবে শুনেছেন। ইবন কাসীর কোনো সনদ ছাড়া লেখেন, উমর ইবনুল খাত্তাব (রাঃ) অনেক উৎকৃষ্ট খাবার-পানীয় থেকে দূরে থাকতেন। তিনি বলতেন, ভয় হয় আমি না আবার তাদের মতো হয়ে যাই, যাদের আল্লাহ এই কথা বলে ধমক দিয়েছেন। কুরতুবী হাসান থেকে, তিনি আহনাফ ইবন কাইস থেকে একটি বর্ণনা আনেন, কোনো মান উল্লেখ না করে। উমর (রাঃ) বলেছিলেন: চাইলে আমি ভুনা মাংস, চাটনি আর পাতলা রুটি আনাতে পারতাম। কিন্তু আমি আমার নেকিগুলো জমিয়ে রাখছি। কারণ আল্লাহ এক দল লোকের কথা বলেছেন: তোমরা তোমাদের ভালো জিনিসগুলো শেষ করে ফেলেছ।"
+          },
+          {
+            "en": "At-Tabari and al-Qurtubi both carry a report from Qatada, introduced only with 'it was mentioned to us'. When 'Umar came to Syria, a meal was made for him like none he had seen. He said: this is for us, so what of the poor Muslims who died without their fill of barley bread? Khalid ibn al-Walid (RA) replied: theirs is Paradise. 'Umar's eyes filled with tears, and he said that if our share is this crumbling stuff and they have gone off with Paradise, they have left us far behind.",
+            "bn": "তাবারী ও কুরতুবী দুজনেই কাতাদার একটি বর্ণনা আনেন, শুরু শুধু এটুকু দিয়ে: আমাদের কাছে বলা হয়েছে। উমর (রাঃ) শামে এলে তাঁর জন্য এমন খাবার তৈরি হলো, যা তিনি আগে কখনো দেখেননি। তিনি বললেন, এ তো আমাদের জন্য। তাহলে সেই গরিব মুসলিমদের কী হবে, যারা যবের রুটিও পেট ভরে না খেয়েই মারা গেছে? খালিদ ইবনুল ওয়ালীদ (রাঃ) বললেন, তাদের জন্য জান্নাত। উমর (রাঃ)-এর চোখ পানিতে ভরে গেল। তিনি বললেন, আমাদের ভাগে যদি এই ভাঙাচোরা দুনিয়াটুকু পড়ে, আর তারা জান্নাত নিয়ে চলে যায়, তবে তারা আমাদের অনেক পেছনে ফেলে গেছে।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi add, again without a chain, that 'Umar saw Jabir with meat bought on a craving and asked whether he bought everything he craved, and whether he did not fear this verse. Al-Baghawi sets beside these a report in Sahih al-Bukhari (1275). 'Abd ar-Rahman ibn 'Awf (RA), fasting, was brought food and remembered Mus'ab ibn 'Umayr, a better man than he, shrouded in a cloak too short to cover him, and, the narrator thought he added, Hamza, also better than he. Then the world was spread out for us, he said, and we fear our good deeds were hastened to us. He wept until he left the food.",
+            "bn": "কুরতুবী ও বাগাভী এটাও যোগ করেন, এবারও সনদ ছাড়া, যে উমর (রাঃ) একবার জাবির (রাঃ)-এর হাতে মাংস দেখলেন, যা কেনা হয়েছিল খেতে মন চাওয়ায়। উমর (রাঃ) জিজ্ঞেস করলেন, যা মন চায় তা-ই কি কিনে ফেলো? এই আয়াতকে কি ভয় করো না? এর পাশে বাগাভী রাখেন সহীহ বুখারীর (১২৭৫) একটি বর্ণনা। আবদুর রহমান ইবন আওফ (রাঃ) রোজা অবস্থায় ছিলেন, তাঁর সামনে খাবার আনা হলো। তাঁর মনে পড়ল মুস'আব ইবন উমাইর (রাঃ)-এর কথা। তিনি তাঁর চেয়ে উত্তম ছিলেন, অথচ তাঁকে কাফন দেওয়া হয়েছিল এমন ছোট এক চাদরে, যা পুরো শরীর ঢাকত না। বর্ণনাকারীর ধারণা, তিনি হামযা (রাঃ)-এর কথাও বলেছিলেন, তিনিও তাঁর চেয়ে উত্তম। তিনি বললেন, তারপর আমাদের জন্য দুনিয়া বিছিয়ে দেওয়া হলো, ভয় হয় আমাদের নেকির প্রতিদান আগেই দিয়ে দেওয়া হয়েছে কি না। তারপর কাঁদতে কাঁদতে খাবার ছেড়ে উঠে গেলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Hides in the Room",
+          "bn": "ঘরে শুধু তিনটি চামড়া"
+        },
+        "p": [
+          {
+            "en": "The sound narration the commentators bring here is in Sahih al-Bukhari (5191), inside 'Umar's long answer to Ibn 'Abbas about 66:4. 'Umar looked around the Prophet's ﷺ room and saw nothing to catch the eye but three hides. He asked him to pray that his community be given plenty, since the Persians and Romans had been given the world while not worshipping Allah. The Prophet ﷺ, who had been reclining, sat up and said: 'Is that where you stand, son of al-Khattab? Those are a people whose good things have been hastened to them in the life of this world.'",
+            "bn": "সহীহ বুখারীতে (৫১৯১) যে সহীহ বর্ণনা আছে, তাফসীরকারেরা এখানে সেটাই আনেন। বর্ণনাটি ৬৬:৪ আয়াত নিয়ে ইবন আব্বাস (রাঃ)-এর প্রশ্নের জবাবে উমর (রাঃ)-এর দীর্ঘ বিবরণের ভেতরে। উমর (রাঃ) নবী ﷺ-এর ঘরে চারদিকে তাকালেন। চোখে পড়ার মতো কিছুই নেই, শুধু তিনটি চামড়া। তিনি অনুরোধ করলেন, নবী ﷺ যেন দোয়া করেন আল্লাহ তাঁর উম্মতকে সচ্ছলতা দেন। পারস্য আর রোমকে তো দুনিয়া দেওয়া হয়েছে, অথচ তারা আল্লাহর ইবাদত করে না। নবী ﷺ হেলান দিয়ে ছিলেন, উঠে বসলেন। বললেন: 'ইবনুল খাত্তাব, তুমি কি এই ভাবনায় আছ? ওরা এমন জাতি, যাদের ভালো জিনিসগুলো দুনিয়ার জীবনেই আগেভাগে দিয়ে দেওয়া হয়েছে।'"
+          },
+          {
+            "en": "Two cautions keep it in its place. Al-Bukhari does not narrate it as commentary on this verse; al-Qurtubi, citing Sahih Muslim, and al-Baghawi set it here because its words, good things hastened in this world, echo the verse. It is said of Persians and Romans who did not worship Allah, which matches the verse's subject, those who disbelieved. At-Tabari also relays from Qatada, again as 'mentioned to us', a report about the Prophet ﷺ and the poor of the Suffa. It reaches him with no chain and no grading, so it is noted here and nothing is built on it.",
+            "bn": "দুটি সতর্কতা বর্ণনাটিকে তার জায়গায় রাখে। বুখারী এটি এ আয়াতের ব্যাখ্যা হিসেবে বর্ণনা করেননি। কুরতুবী সহীহ মুসলিমের বরাতে, আর বাগাভী, এটি এখানে এনেছেন, কারণ এর শব্দ আয়াতের প্রতিধ্বনি: দুনিয়াতেই আগেভাগে দেওয়া ভালো জিনিস। আর কথাটা বলা হয়েছে পারস্য আর রোম সম্পর্কে, যারা আল্লাহর ইবাদত করত না। আয়াতের বিষয়ও তো কাফিররাই। তাবারী কাতাদা থেকে, আবারও 'আমাদের কাছে বলা হয়েছে' বলে, নবী ﷺ আর সুফফার গরিব সাহাবিদের নিয়ে একটি বর্ণনা আনেন। তাতে নবী ﷺ পর্যন্ত কোনো সনদ নেই, কোনো মানও বলা হয়নি। তাই শুধু উল্লেখ রইল, এর উপর কিছু দাঁড় করানো হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lawful Food, Thankfully Eaten",
+          "bn": "হালাল খাবার, শোকরের সাথে"
+        },
+        "p": [
+          {
+            "en": "None of this makes lawful good food suspect. Al-Qurtubi quotes Ibn al-'Arabi on 'Umar's words to Jabir: it was a reproach for widening his spending, because lawful luxuries grow into a habit, and when they are missing a person grows lax about getting them by doubtful means, until habit and desire carry him into what is plainly forbidden. 'Umar guarded the matter from its start. The rule, in Ibn al-'Arabi's words: eat what you find, fine or plain, and do not strain after the fine or make it a habit.",
+            "bn": "এসব কথা হালাল ভালো খাবারকে সন্দেহের তালিকায় তোলে না। জাবির (রাঃ)-কে বলা উমর (রাঃ)-এর কথা নিয়ে কুরতুবী ইবনুল আরাবীর ব্যাখ্যা উদ্ধৃত করেন। ওটা ছিল খরচ বাড়িয়ে দেওয়ার জন্য মৃদু তিরস্কার। কারণ হালাল আয়েশও ধীরে ধীরে অভ্যাস হয়ে যায়। অভ্যাসের জিনিস হাতে না থাকলে মানুষ সন্দেহজনক পথে তা জোগাড় করতে ঢিলে হয়ে পড়ে। শেষে অভ্যাস আর প্রবৃত্তি তাকে খাঁটি হারামে নিয়ে ফেলে। উমর (রাঃ) ব্যাপারটা গোড়াতেই আটকে দিয়েছিলেন। ইবনুল আরাবীর ভাষায় মূলনীতি হলো: যা পাও খাও, উৎকৃষ্ট হোক বা সাদামাটা। উৎকৃষ্টের পেছনে কষ্ট করে ছুটো না, তাকে অভ্যাসও বানিয়ো না।"
+          },
+          {
+            "en": "Ibn al-'Arabi ties this to the Prophet's ﷺ own way as he describes it: he ate his fill when food was there and was patient when it was not; he ate sweets when he could, drank honey when it came his way, and ate meat when it was easy, without relying on it or making it his custom. Al-Qurtubi then records a view introduced with 'it is said': the rebuke falls on abandoning gratitude, not on taking lawful good things. He calls it good. Taking them is permitted; whoever leaves off thanks and uses them for the unlawful has used them up.",
+            "bn": "ইবনুল আরাবী এ কথাকে মিলিয়ে দেন নবী ﷺ-এর জীবনধারার সাথে, যেমন তিনি তা বর্ণনা করেন। খাবার থাকলে নবী ﷺ পেট ভরে খেতেন, না থাকলে সবর করতেন। সামর্থ্য হলে মিষ্টি খেতেন, মধু জুটলে পান করতেন, সহজে পেলে মাংস খেতেন। তবে এগুলোর উপর ভর দিতেন না, নিয়মও বানাতেন না। এরপর কুরতুবী 'বলা হয়' বলে একটি মত আনেন: তিরস্কার শোকর ছেড়ে দেওয়ার জন্য, হালাল ভালো জিনিস গ্রহণের জন্য নয়। তিনি মতটিকে উত্তম বলেন। হালাল ভালো জিনিস গ্রহণের অনুমতি আছে। কিন্তু কেউ শোকর ছেড়ে দিলে আর তা হারাম কাজে লাগালে, সে-ই তা শেষ করে ফেলল।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an says the Prophet ﷺ, his Companions and their successors made a habit of avoiding worldly luxuries, and al-Baghawi says the righteous preferred to forgo pleasures hoping for the Hereafter's reward. That restraint was their choice, praised in them. It does not turn this verse, spoken to those who disbelieved, into a ruling against eating well. Set it beside 7:32, which asks who has forbidden the adornment of Allah that He brought out for His servants, and the good things of provision.",
+            "bn": "মাআরিফুল কুরআন বলে, নবী ﷺ, তাঁর সাহাবিরা আর তাঁদের পরের প্রজন্ম দুনিয়ার আয়েশ এড়িয়ে চলাকে অভ্যাস বানিয়েছিলেন। বাগাভী বলেন, নেককাররা আখিরাতের সওয়াবের আশায় দুনিয়ার মজা ছেড়ে থাকাকেই বেছে নিয়েছিলেন। এ সংযম ছিল তাঁদের নিজেদের পছন্দ, আর সেজন্য তাঁরা প্রশংসার যোগ্য। কিন্তু এতে কাফিরদের উদ্দেশে বলা এ আয়াত ভালো খাওয়ার বিরুদ্ধে কোনো বিধান হয়ে যায় না। পাশে রাখুন ৭:৩২ আয়াত। সেখানে প্রশ্ন: আল্লাহ তাঁর বান্দাদের জন্য যে সাজসজ্জা বের করেছেন, আর পবিত্র রিজিক, কে তা হারাম করেছে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Licence to Point Fingers",
+          "bn": "আঙুল তোলার অনুমতি নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying firmly. The verse describes what will be said, on a coming Day, to those who disbelieved as they are brought before the Fire. It licenses nothing against any living person or community. It gives no one the right to look at a neighbour's full table or a nation's wealth and declare that their good things are used up, or that humiliation awaits them. That sentence belongs to Allah alone, and in the verse it is pronounced at the edge of the Fire, not by onlookers in this world.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াতটি বর্ণনা করছে আগামী এক দিনে কাফিরদের আগুনের সামনে হাজির করার সময় তাদের কী বলা হবে। জীবিত কোনো মানুষ বা কোনো জাতির বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। প্রতিবেশীর ভরা দস্তরখান বা কোনো দেশের সম্পদ দেখে কেউ ঘোষণা দিতে পারে না যে তাদের ভালো জিনিস ফুরিয়ে গেছে, কিংবা তাদের জন্য অপমান অপেক্ষা করছে। এ রায় দেওয়ার অধিকার কেবল আল্লাহর। আর আয়াতে সে রায় শোনানো হয় আগুনের কিনারে, দুনিয়ার দর্শকদের মুখে নয়।"
+          },
+          {
+            "en": "What the verse hands the reader is a question about the self. The causes it names are pride on the earth without right and stepping outside obedience, and neither needs wealth to take root. 'Umar turned the verse on himself, and 'Abd ar-Rahman ibn 'Awf voiced the same fear about his own deeds; neither aimed it at others. The fitting response is the same today: take the lawful good things given, thank Allah for them, use them in obeying Him, and keep the heart from treating them as its whole share.",
+            "bn": "পাঠকের হাতে আয়াতটি তুলে দেয় নিজেকে নিয়ে একটি প্রশ্ন। যে দুটি কারণ আয়াত বলেছে, জমিনে অন্যায় অহংকার আর আনুগত্যের সীমা ছেড়ে বেরিয়ে যাওয়া, তার কোনোটির জন্যই সম্পদ লাগে না। উমর (রাঃ) আয়াতটি তাক করেছিলেন নিজের দিকে। আবদুর রহমান ইবন আওফ (রাঃ) একই ভয় প্রকাশ করেছিলেন নিজের আমল নিয়ে। কেউই তা অন্যের দিকে ছোড়েননি। আজও সঠিক জবাব সেটাই। যে হালাল ভালো জিনিস দেওয়া হয়েছে তা গ্রহণ করুন, তার জন্য আল্লাহর শোকর করুন, তাঁর আনুগত্যে তা কাজে লাগান। আর অন্তরকে সামলে রাখুন, যেন সে এগুলোকেই নিজের পুরো অংশ না ভাবে।"
+          }
+        ]
+      }
+    ]
+  },
   "46:21": {
     "sections": [
       {
