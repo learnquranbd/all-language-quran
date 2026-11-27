@@ -35219,6 +35219,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you meet opposition for standing with the truth, remember that every prophet met it too, and let your Lord be enough for you as guide and helper.",
     "lessonBn": "সত্যের পক্ষে দাঁড়িয়ে বাধার মুখে পড়লে মনে রাখুন, প্রত্যেক নবীই এমন বাধা পেয়েছেন। পথ দেখানো আর সাহায্যের জন্য আপনার রবকেই যথেষ্ট মনে করুন।"
+  },
+  "26:3": {
+    "reflectionEn": "The Book has just been called clear, and the next words turn to the one who carries it: perhaps you would destroy yourself that they do not become believers. The word bakhi' describes a man who kills himself; the sorrow is that deep. Yet look at what it is sorrow for. Not insults, not lost standing, but other people's loss of faith. God does not scold this grief; He eases it. Guidance is His to give, and the messenger's task is to deliver the message. The verse holds together two things I often pull apart: caring deeply whether others find the truth, and not breaking myself over a choice that is theirs to make and God's to guide. Do I carry that care to Him, or let it crush me?",
+    "reflectionBn": "এইমাত্র কিতাবটিকে সুস্পষ্ট বলা হলো, আর পরের কথাগুলো ফিরে তাকায় সেই মানুষটির দিকে, যিনি তা বহন করছেন: তারা মুমিন হচ্ছে না বলে তুমি হয়তো নিজেকেই শেষ করে ফেলবে। বাখি' শব্দটি বলে এমন মানুষের কথা, যে নিজেকে মেরে ফেলে। দুঃখটা এতটাই গভীর। কিন্তু দেখুন দুঃখটা কীসের জন্য। গালমন্দের জন্য নয়, মান হারানোর জন্যও নয়। অন্যরা ঈমান থেকে বঞ্চিত হচ্ছে, এটাই তাঁর কষ্ট। আল্লাহ এ কষ্টের জন্য তিরস্কার করেন না, বরং তা হালকা করে দেন। হিদায়াত দেওয়া তাঁর কাজ, রাসূলের কাজ বার্তা পৌঁছে দেওয়া। আমি যে দুটো জিনিস প্রায়ই আলাদা করে ফেলি, আয়াতটি সে দুটো একসঙ্গে ধরে রাখে: অন্যরা সত্য খুঁজে পাক, এ নিয়ে গভীর চিন্তা, আর যে সিদ্ধান্ত তাদের নিজের এবং যার হিদায়াত আল্লাহর হাতে, তার ভারে নিজেকে ভেঙে না ফেলা। আমার এই দরদ কি আমি তাঁর কাছে নিয়ে যাই, নাকি তার চাপে নিজেই পিষে যাই?",
+    "pointsEn": [
+      "Whose turning from the truth do I grieve over, and is the grief for their sake or for how their choice reflects on me?",
+      "Have I stopped speaking to someone about what is right because I decided they would never change?",
+      "When my efforts for someone come to nothing, do I treat the outcome as my verdict, or remember that guidance is God's to give?",
+      "Is my concern for others steady enough to last for years, or does it burn hot for a season and then give up?",
+      "Do I bring my sorrow over the people I love to God in du'a, or carry it alone until it wears me down?"
+    ],
+    "pointsBn": [
+      "সত্য থেকে কার মুখ ফিরিয়ে নেওয়া আমাকে কষ্ট দেয়? সে কষ্ট কি তার কল্যাণের জন্য, নাকি তার সিদ্ধান্তে আমার নিজের ভাবমূর্তি নষ্ট হচ্ছে বলে?",
+      "কেউ কখনো বদলাবে না, এমন ধরে নিয়ে আমি কি কারও সঙ্গে সঠিক পথের কথা বলাই ছেড়ে দিয়েছি?",
+      "কারও জন্য আমার চেষ্টা যখন বিফলে যায়, ফলাফলটাকে কি আমি নিজের ব্যর্থতার রায় বলে ধরি, নাকি মনে রাখি যে হিদায়াত দেন আল্লাহ?",
+      "মানুষের প্রতি আমার দরদ কি এমন স্থির যে বছরের পর বছর টিকে থাকে, নাকি কিছুদিন জ্বলে উঠে তারপর হাল ছেড়ে দেয়?",
+      "প্রিয় মানুষদের নিয়ে আমার দুঃখ কি আমি দোয়ায় আল্লাহর কাছে নিয়ে যাই, নাকি একা বয়ে বেড়াই যতক্ষণ না তা আমাকে ক্ষয় করে ফেলে?"
+    ],
+    "lessonEn": "Care deeply that others find guidance and keep conveying the truth with patience, but leave the outcome to God; it is not yours to carry until it breaks you.",
+    "lessonBn": "অন্যরা হিদায়াত পাক, এ নিয়ে গভীরভাবে ভাবুন আর ধৈর্য ধরে সত্য পৌঁছে দিতে থাকুন। কিন্তু ফলাফল আল্লাহর হাতে ছেড়ে দিন; এ ভার এমনভাবে বইবার নয় যে তা আপনাকে ভেঙে দেয়।"
   }
 };
 

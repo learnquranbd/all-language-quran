@@ -155,6 +155,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:3": {
+    "sections": [
+      {
+        "h": {
+          "en": "Six Words After the Book",
+          "bn": "কিতাবের পরেই ছয়টি শব্দ"
+        },
+        "p": [
+          {
+            "en": "La'allaka bakhi'un nafsaka alla yakunu mu'minin: perhaps you would destroy yourself that they do not become believers. The verse is six Arabic words. It comes straight after 26:2, these are the verses of the clear Book, and it turns from the Book to the man who carries it. At-Tabari names who is addressed: perhaps you, O Muhammad, would kill yourself and destroy it if your people do not believe in you. The Muyassar addresses him as O Messenger.",
+            "bn": "লাআল্লাকা বাখিউন নাফসাকা আল্লা ইয়াকূনূ মু'মিনীন: তারা মুমিন হচ্ছে না বলে তুমি হয়তো নিজেকেই শেষ করে ফেলবে। আরবিতে আয়াতটি মাত্র ছয়টি শব্দের। এর ঠিক আগে ২৬:২ বলেছে, এগুলো সুস্পষ্ট কিতাবের আয়াত। এবার কথা কিতাব থেকে সরে যায় তার বাহকের দিকে। কাকে বলা হচ্ছে, তাবারী তা স্পষ্ট করে দেন: হে মুহাম্মাদ, তোমার কওম যদি তোমার ওপর ঈমান না আনে, তবে হয়তো তুমি নিজেকে মেরে ফেলবে, ধ্বংস করে দেবে। মুয়াসসার তাঁকে সম্বোধন করে 'হে রাসূল' বলে।"
+          },
+          {
+            "en": "Al-Baghawi gives the setting in one sentence: it was when the people of Makkah denied him, and that weighed on him, and he was eager for their faith, so God revealed this verse. He gives it without a chain, and no fetched source names a fuller occasion, so it is best read as a description of the Makkan situation rather than an established report of revelation. What it describes the verse itself already says. A people were refusing, and the Prophet ﷺ felt it.",
+            "bn": "বাগাভী এক বাক্যে প্রেক্ষাপট বলেন: মক্কার লোকেরা যখন তাঁকে মিথ্যাবাদী বলল, তাঁর কাছে তা খুব ভারী লাগল। তিনি তাদের ঈমান আনার জন্য ব্যাকুল ছিলেন, তখন আল্লাহ এ আয়াত নাযিল করলেন। কথাটি তিনি কোনো সনদ ছাড়া বলেছেন, আর সংগৃহীত কোনো সূত্রে এর চেয়ে বিস্তারিত শানে নুযূল পাওয়া যায় না। তাই একে নাযিলের প্রতিষ্ঠিত বর্ণনা না ধরে মক্কার অবস্থার বিবরণ হিসেবে পড়াই ভালো। আর সে বিবরণ আয়াত নিজেই দিয়ে রেখেছে। একটি জাতি অস্বীকার করছিল, আর নবী ﷺ তার ব্যথা টের পাচ্ছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Taken from Slaughter",
+          "bn": "জবাইয়ের ভাষা থেকে আসা শব্দ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari states that bakh' in the speech of the Arabs is killing and destroying. As proof he quotes a line of the poet Dhu al-Rumma: O you whom grief has driven to destroy himself over a thing the decrees have moved out of his hands. Ibn Kathir quotes the same line, attributing it only to the poet, and his copy reads al-huzn, grief, where at-Tabari's reads al-wajd, the overwhelming feeling. In both versions the poet's man dies of sorrow over something that was never his to keep.",
+            "bn": "তাবারী বলেন, আরবদের ভাষায় বাখ' মানে হত্যা করা, ধ্বংস করা। প্রমাণ হিসেবে তিনি কবি যুর-রুম্মার একটি পঙ্‌ক্তি আনেন: ওহে, শোক যাকে নিজেকে শেষ করে দেওয়ার পথে ঠেলে দিয়েছে এমন এক জিনিসের জন্য, যা তাকদীর তার হাত থেকে সরিয়ে নিয়েছে। ইবন কাসীরও একই পঙ্‌ক্তি আনেন, তবে শুধু 'কবি বলেছেন' বলে। তাঁর পাঠে আছে আল-হুযন, অর্থাৎ দুঃখ। তাবারীর পাঠে সেখানে আল-ওয়াজদ, মন ছাপিয়ে ওঠা আবেগ। দুই পাঠেই কবির মানুষটি মারা যায় এমন কিছুর শোকে, যা কোনোদিন তার রাখার ছিল না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an goes to the root. It derives bakhi' from bakh', which it explains as reaching, in slaughter, the bikha', an artery of the neck. In this verse, it says, the word is used in the sense of putting oneself into trouble and toil. As-Sa'di's gloss sits between the literal and the extended sense: destroying the self and laying hardship on it. So the image is of a cut that goes all the way, and the verse uses it for a sorrow that wears a person down.",
+            "bn": "মাআরিফুল কুরআন শব্দের মূলে যায়। তার ব্যাখ্যায় বাখি' এসেছে বাখ' থেকে, যার অর্থ জবাই করার সময় গলার বিখা' নামের রগ পর্যন্ত পৌঁছে যাওয়া। এ আয়াতে অবশ্য শব্দটি এসেছে নিজেকে কষ্ট আর পরিশ্রমে ফেলে দেওয়ার অর্থে। সা'দীর ব্যাখ্যা আক্ষরিক আর প্রসারিত অর্থের মাঝামাঝি: নিজেকে ধ্বংস করা এবং নিজের ওপর কষ্ট চাপিয়ে দেওয়া। ছবিটা তাই এমন এক কাটার, যা শেষ পর্যন্ত গিয়ে থামে। আয়াত সেই ছবি ব্যবহার করেছে এমন দুঃখের জন্য, যা মানুষকে ভেতর থেকে ক্ষয় করে।"
+          },
+          {
+            "en": "The early glosses agree. Ibn Kathir lists Mujahid, 'Ikrimah, al-Hasan, Qatadah, 'Atiyyah and ad-Dahhak, who all said it means killing yourself. At-Tabari relays the same from Ibn 'Abbas through Ibn Jurayj. Qatadah, in at-Tabari's report through 'Abd al-Razzaq and Ma'mar, puts it most vividly: perhaps, out of eagerness for their faith, you would drive your soul out of your body; that, he says, is al-bakh'. Al-Baghawi and al-Qurtubi gloss it in the same way, as killing yourself.",
+            "bn": "প্রথম যুগের ব্যাখ্যাগুলো এক জায়গায় মেলে। ইবন কাসীর মুজাহিদ, ইকরিমা, হাসান, কাতাদা, আতিয়্যা ও দাহহাকের নাম নেন। তাঁদের সবার মতে এর অর্থ নিজেকে হত্যা করা। তাবারী ইবন জুরাইজের সূত্রে ইবন আব্বাস (রাঃ) থেকেও একই কথা আনেন। আব্দুর রাযযাক ও মা'মারের সূত্রে তাবারী কাতাদার যে কথা আনেন, তাতে ছবিটা সবচেয়ে জীবন্ত: তাদের ঈমানের জন্য ব্যাকুল হয়ে তুমি হয়তো নিজের প্রাণটাই দেহ থেকে বের করে দেবে। কাতাদা বলেন, এটাই বাখ'। বাগাভী ও কুরতুবীও একই ব্যাখ্যা দেন: নিজেকে হত্যা করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sorrow Over Others' Loss",
+          "bn": "অন্যের ক্ষতিতে যে দুঃখ"
+        },
+        "p": [
+          {
+            "en": "The verse names the cause of the grief, and the cause is not an injury to the Prophet ﷺ himself. It is alla yakunu mu'minin, that they do not become believers. The commentators trace the grief to eagerness for their good. Ibn Kathir explains bakhi' nafsak as destroying yourself through your eagerness for them and your grief over them. The Muyassar says it came from the intensity of your eagerness for their guidance, because they did not believe in you or act on your guidance.",
+            "bn": "দুঃখের কারণটা আয়াত নিজেই বলে দেয়, আর সে কারণ নবী ﷺ-এর নিজের কোনো ক্ষতি নয়। কারণটা হলো আল্লা ইয়াকূনূ মু'মিনীন, তারা মুমিন হচ্ছে না। তাফসীরকারেরা এ দুঃখের উৎস খুঁজে পান তাদের কল্যাণের ব্যাকুলতায়। ইবন কাসীরের ব্যাখ্যায়, তাদের জন্য তোমার ব্যাকুলতা আর তাদের নিয়ে তোমার দুঃখে তুমি নিজেকে শেষ করে ফেলবে। মুয়াসসার বলে, এর উৎস তাদের হিদায়াতের জন্য তোমার তীব্র আকাঙ্ক্ষা। কারণ তারা তোমাকে সত্য বলে মানেনি, তোমার দেখানো পথেও চলেনি।"
+          },
+          {
+            "en": "Ad-Dahhak, in at-Tabari's report, adds two words: over them, out of eagerness. The word the sources keep using is hirs, an eager wanting that something good should reach someone. Insult, lost standing and danger are absent from the verse. What hurts the Prophet ﷺ is that people who could have believed are refusing. A man can grieve for himself when he is rejected. This grief looks past him to the ones rejecting, and to what their refusal is costing them.",
+            "bn": "তাবারীর বর্ণনায় দাহহাক দুটি শব্দ যোগ করেন: তাদের ব্যাপারে, ব্যাকুলতা থেকে। সূত্রগুলোয় বারবার যে শব্দ আসে, তা হলো হিরস: কারও কাছে কল্যাণ পৌঁছাক, এ নিয়ে প্রবল আকুলতা। আয়াতে গালমন্দের কথা নেই, মর্যাদা হারানোর কথা নেই, বিপদের কথাও নেই। নবী ﷺ-কে ব্যথা দিচ্ছে এই যে, যারা ঈমান আনতে পারত, তারা মুখ ফিরিয়ে নিচ্ছে। প্রত্যাখ্যাত হলে মানুষ নিজের জন্যও দুঃখ পায়। কিন্তু এ দুঃখের দৃষ্টি নিজের দিকে নয়। তা যারা প্রত্যাখ্যান করছে তাদের দিকে, আর সে প্রত্যাখ্যানে তাদের কী হারাচ্ছে সেদিকে।"
+          },
+          {
+            "en": "No fetched tafsir attaches a hadith to this verse. A general narration, not tied to it, shows the same care. Al-Bukhari (6483) relays from Abu Hurayrah (RA) that the Prophet ﷺ said: \"My example and the example of the people is that of a man who made a fire, and when it lighted what was around it, moths and other insects started falling into the fire. The man tried his best to prevent them, but they overpowered him and rushed into the fire. Now, similarly, I take hold of the knots at your waist to prevent you from falling into the Fire, but you insist on falling into it.\"",
+            "bn": "সংগৃহীত কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে আয়াতের সঙ্গে সরাসরি যুক্ত নয় এমন একটি সাধারণ বর্ণনায় একই দরদ দেখা যায়। বুখারী (৬৪৮৩) আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: \"আমার আর মানুষের দৃষ্টান্ত এমন এক ব্যক্তির মতো, যে আগুন জ্বালাল। আগুন যখন চারপাশ আলোকিত করল, তখন পতঙ্গ আর আগুনে পড়া এসব প্রাণী তাতে পড়তে লাগল। লোকটি সেগুলোকে টেনে সরাতে লাগল, কিন্তু সেগুলো তাকে হারিয়ে দিয়ে আগুনে ঝাঁপিয়ে পড়তে থাকল। আমিও তেমনি তোমাদের কোমর ধরে আগুন থেকে টেনে রাখছি, আর তোমরা তাতে ঝাঁপিয়ে পড়ছ।\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If They Refuse, or Because",
+          "bn": "না মানলে, নাকি না মানায়"
+        },
+        "p": [
+          {
+            "en": "A small particle carries a real question. Is alla, that they do not, a condition or a reason? At-Tabari puts it in the accusative position, governed by bakhi', and calls it jaza', conditional in sense. He compares it to saying zurtu 'Abd Allah an zarani, I visited 'Abd Allah, he having visited me. Had the verb after it been future, he says, the natural form would be in with a kasra. His own gloss follows the conditional line: if your people do not believe in you. Al-Baghawi says the same in a brief gloss: that is, if they do not believe.",
+            "bn": "ছোট একটি অব্যয়ের ভেতরে লুকিয়ে আছে সত্যিকারের একটি প্রশ্ন। আল্লা, অর্থাৎ 'যে তারা না', এটা কি শর্ত, নাকি কারণ? তাবারীর মতে এটি নসবের অবস্থানে, বাখি' শব্দটি তাকে নিয়ন্ত্রণ করছে। আর অর্থের দিক থেকে এটি জাযা, অর্থাৎ শর্তবাচক। তুলনা হিসেবে তিনি আনেন এমন বাক্য: যুরতু আব্দাল্লাহি আন যারানী, আমি আব্দুল্লাহর কাছে গেলাম, যেহেতু সে আমার কাছে এসেছিল। তিনি বলেন, পরের ক্রিয়াটি ভবিষ্যৎকালের হলে স্বাভাবিক রূপ হতো যের দিয়ে 'ইন'। তাঁর নিজের ব্যাখ্যাও শর্তের পথেই চলে: তোমার কওম যদি তোমার ওপর ঈমান না আনে। বাগাভী সংক্ষেপে একই কথা বলেন: অর্থাৎ, যদি তারা ঈমান না আনে।"
+          },
+          {
+            "en": "Al-Qurtubi sets out the discussion. He relays al-Farra' that an is in the accusative position because it is jaza'. He then relays an-Nahhas, who notes that for jaza' the customary form is in with a kasra. The passage then settles on the view of Abu Ishaq in his book on the Qur'an: an is in the accusative as an object of reason, a maf'ul min ajlih. The meaning on that reading is perhaps you would kill yourself because they have abandoned faith. Al-Qurtubi's own gloss runs the same way: for their leaving of faith.",
+            "bn": "কুরতুবী আলোচনাটা সাজিয়ে দেন। তিনি ফাররা থেকে আনেন, আন এখানে নসবের অবস্থানে, কারণ এটি জাযা। এরপর আনেন নাহহাসের কথা, যিনি মনে করিয়ে দেন, জাযার ক্ষেত্রে প্রচলিত রূপ হলো যের দিয়ে 'ইন'। শেষে আলোচনাটি থামে আবু ইসহাকের মতে, যা তিনি কুরআন বিষয়ে তাঁর কিতাবে বলেছেন: আন এখানে নসবের অবস্থানে কারণবাচক কর্ম হিসেবে, মাফঊল মিন আজলিহ। এ পাঠে অর্থ দাঁড়ায়, তারা ঈমান ছেড়ে দিয়েছে বলে তুমি হয়তো নিজেকে মেরে ফেলবে। কুরতুবীর নিজের ব্যাখ্যাও সেদিকে যায়: তাদের ঈমান বর্জনের কারণে।"
+          },
+          {
+            "en": "The two readings are kept here as two. On the conditional reading, the grief leans forward, toward a refusal feared and not yet final. On the causal reading, the grief answers a refusal already in front of him. Both fit what the Muyassar says, that they had not believed in him or acted on his guidance. Either way the verse speaks to a man watching people turn from the truth and feeling it deeply. The grammar shifts the grief's timing, not its object.",
+            "bn": "দুটি পাঠ এখানে দুটি হিসেবেই রাখা হলো। শর্তের পাঠে দুঃখ সামনের দিকে তাকায়: এমন এক প্রত্যাখ্যানের ভয়, যা এখনো চূড়ান্ত হয়নি। কারণের পাঠে দুঃখ সাড়া দেয় এমন প্রত্যাখ্যানে, যা ইতিমধ্যেই তাঁর চোখের সামনে। মুয়াসসারের কথার সঙ্গে দুটোই মেলে: তারা তাঁকে সত্য বলে মানেনি, তাঁর দেখানো পথেও চলেনি। যেভাবেই পড়া হোক, আয়াত কথা বলছে এমন এক মানুষের সঙ্গে, যিনি দেখছেন লোকেরা সত্য থেকে মুখ ফেরাচ্ছে, আর সে ব্যথা গভীরভাবে অনুভব করছেন। ব্যাকরণ বদলায় দুঃখের সময়, দুঃখের বিষয় নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Perhaps That Holds Him Back",
+          "bn": "যে 'হয়তো' তাঁকে থামায়"
+        },
+        "p": [
+          {
+            "en": "La'allaka, perhaps you, looks like a statement about what might happen. Ma'arif al-Qur'an relays 'Allamah 'Askari: although in such places the sentence appears to be informative, in fact it means to prohibit or prevent. It paraphrases the sense: O Messenger, do not be so despondent over your people's disbelief that you cause yourself to collapse. The Muyassar ends its gloss on the same note, fa-la taf'al dhalik, so do not do that. As-Sa'di writes fa-la taf'al as well.",
+            "bn": "লাআল্লাকা, অর্থাৎ 'তুমি হয়তো', শুনতে মনে হয় কী ঘটতে পারে তার খবর। মাআরিফুল কুরআন আল্লামা আসকারী থেকে আনে: এমন জায়গায় বাক্যটি খবর দেওয়ার মতো দেখালেও আসলে এর অর্থ নিষেধ করা, থামিয়ে দেওয়া। অর্থটা সেখানে খুলে বলা হয়েছে এভাবে: হে রাসূল, তোমার কওমের কুফর আর ইসলাম প্রত্যাখ্যানে এতটা হতাশ হয়ো না যে নিজেকেই ভেঙে ফেলো। মুয়াসসারও তার ব্যাখ্যা শেষ করে একই সুরে: ফালা তাফআল যালিক, অতএব এমনটা কোরো না। সা'দীও লেখেন: ফালা তাফআল।"
+          },
+          {
+            "en": "Ibn Kathir names what kind of word this is: a consolation from God to His Messenger, tasliyah, over the unbelief of those who would not believe in him. So the holding back is not a reproach. The verse finds no fault in the grief. It shields the grieving man from being consumed by it. The Prophet ﷺ is told, in effect, that his sorrow has been seen, and that he is not to spend his life on it. The sentence that warns him off also tells him he is understood.",
+            "bn": "ইবন কাসীর বলে দেন, কথাটি কোন ধরনের: এটি আল্লাহর পক্ষ থেকে তাঁর রাসূলের জন্য সান্ত্বনা, তাসলিয়া, তাদের কুফরের ব্যাপারে, যারা তাঁর ওপর ঈমান আনেনি। তাই এ থামানো কোনো তিরস্কার নয়। আয়াত দুঃখটার মধ্যে কোনো দোষ খোঁজে না, বরং দুঃখী মানুষটিকে সে দুঃখে ক্ষয় হয়ে যাওয়া থেকে আগলে রাখে। নবী ﷺ-কে যেন বলা হচ্ছে, তোমার কষ্ট দেখা হয়েছে, কিন্তু এর পেছনে জীবন শেষ করে দেওয়া তোমার কাজ নয়। যে বাক্য তাঁকে থামায়, সেই বাক্যই জানায় যে তাঁকে বোঝা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Delivered, and the Rest Is His",
+          "bn": "পৌঁছানো শেষ, বাকিটা তাঁর"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di gives the reason not to grieve oneself to death, and it divides the work in two. Guidance is in the hand of God, he says, and you have already done what was on you in conveying the message. Then he turns back to 26:2. There is no sign above this clear Qur'an that We would send down so that they believe in it, for it is sufficient and healing for whoever wants guidance. The want, on his reading, has to come from them.",
+            "bn": "কেন নিজেকে দুঃখে শেষ করে দেওয়া নয়, সা'দী তার কারণ দেন, আর সে কারণ কাজটাকে দুই ভাগ করে। তিনি বলেন, হিদায়াত আল্লাহর হাতে। আর বার্তা পৌঁছে দেওয়ার যে দায় তোমার ওপর ছিল, তা তুমি আদায় করেছ। এরপর তিনি ফিরে যান ২৬:২ আয়াতে। এই সুস্পষ্ট কুরআনের ওপরে এমন কোনো নিদর্শন নেই, যা আমি নাযিল করব যাতে তারা ঈমান আনে। কারণ যে হিদায়াত চায়, তার জন্য এ কুরআনই যথেষ্ট, এ-ই আরোগ্য। তাঁর পাঠে চাওয়াটা আসতে হবে তাদের দিক থেকেই।"
+          },
+          {
+            "en": "The next verse, 26:4, points the same way: If We willed, We could send down to them from the sky a sign before which their necks would stay bowed. In Ibn Kathir's reading, such a sign would force belief, and God does not send it because He wants no one to believe except by choice. He sets beside it 10:99, which asks the Prophet ﷺ whether he would compel people until they become believers. Grief cannot do for him what God Himself has chosen not to do.",
+            "bn": "পরের আয়াত ২৬:৪ একই দিকে ইশারা করে: আমি চাইলে আকাশ থেকে তাদের ওপর এমন নিদর্শন নাযিল করতাম, যার সামনে তাদের ঘাড় নত হয়ে থাকত। ইবন কাসীরের পাঠে এমন নিদর্শন ঈমান আনতে বাধ্য করত। আল্লাহ তা পাঠান না, কারণ তিনি চান কেউ যেন নিজের ইচ্ছায় ছাড়া ঈমান না আনে। পাশে তিনি রাখেন ১০:৯৯ আয়াত, যেখানে নবী ﷺ-কে প্রশ্ন করা হয়েছে, তুমি কি মানুষকে বাধ্য করবে যতক্ষণ না তারা মুমিন হয়? আল্লাহ নিজে যা না করার সিদ্ধান্ত নিয়েছেন, দুঃখ দিয়ে তা তাঁর পক্ষে করা সম্ভব নয়।"
+          },
+          {
+            "en": "The same consolation is given elsewhere, and Ibn Kathir cites both places. In 35:8: so let not your soul go out over them in regrets. In 18:6: perhaps you would destroy yourself over their footsteps, if they do not believe in this message, in sorrow. Al-Qurtubi refers the reader back to his discussion at 18:6. On 26:5 Ibn Kathir adds 12:103: most of mankind will not believe, even if you desire it eagerly. Its verb, harasta, is the same hirs the commentators find behind this verse.",
+            "bn": "একই সান্ত্বনা অন্য জায়গাতেও এসেছে, আর ইবন কাসীর দুটি জায়গাই উল্লেখ করেন। ৩৫:৮ আয়াতে: অতএব তাদের জন্য আফসোসে তোমার প্রাণ যেন বেরিয়ে না যায়। ১৮:৬ আয়াতে: তারা যদি এই বাণীতে ঈমান না আনে, তবে হয়তো তুমি তাদের পেছনে দুঃখে নিজেকে শেষ করে ফেলবে। কুরতুবী পাঠককে ১৮:৬ আয়াতে তাঁর আলোচনার দিকে ফিরিয়ে দেন। ২৬:৫ আয়াতের আলোচনায় ইবন কাসীর আরও আনেন ১২:১০৩: তুমি যত আকাঙ্ক্ষাই করো, অধিকাংশ মানুষ ঈমান আনবে না। সেখানে ক্রিয়াপদ হারাসতা, আর তা সেই হিরস, যা তাফসীরকারেরা এ আয়াতের পেছনে দেখতে পান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Keep Calling, Without Collapsing",
+          "bn": "ডাক থামবে না, ভাঙবেনও না"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an draws two lessons. First, even if it is apparent that a disbeliever will not accept Islam, it is still not right to stop preaching to him. Second, the effort made for any goal must be balanced and moderate, and if someone is adamant not to be guided, a person should not be over-grieved. The two belong together. The first keeps the caller from writing people off; the second keeps him from destroying himself over them.",
+            "bn": "মাআরিফুল কুরআন দুটি শিক্ষা টানে। প্রথমত, কোনো কাফির ইসলাম গ্রহণ করবে না বলে স্পষ্ট মনে হলেও তাকে দাওয়াত দেওয়া বন্ধ করা ঠিক নয়। দ্বিতীয়ত, কোনো লক্ষ্যের জন্য মানুষের চেষ্টা হতে হবে ভারসাম্যপূর্ণ ও পরিমিত। কেউ যদি সঠিক পথে না আসার জেদ ধরে থাকে, তার জন্য মাত্রাছাড়া দুঃখ করা উচিত নয়। দুটি শিক্ষা একসঙ্গেই চলে। প্রথমটি দাওয়াতদাতাকে মানুষকে বাতিলের খাতায় ফেলে দেওয়া থেকে বাঁচায়। দ্বিতীয়টি তাদের জন্য নিজেকে শেষ করে দেওয়া থেকে বাঁচায়।"
+          },
+          {
+            "en": "Plainly: the verse describes what the text describes, a people in Makkah who were refusing the Prophet ﷺ in his lifetime, and it licenses nothing against any living person or community. It does not let anyone decide that a given person will never believe, since only God knows that. Nor does it make another person's unbelief a reason for contempt. The grief it addresses is grief for people, and the Ma'arif's first lesson is that the invitation stays open to them.",
+            "bn": "সোজা কথায়: আয়াত কেবল তা-ই বর্ণনা করে, যা পাঠ বর্ণনা করে। তা হলো মক্কার এক জনগোষ্ঠী, যারা নবী ﷺ-এর জীবদ্দশায় তাঁকে প্রত্যাখ্যান করছিল। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। অমুক কোনোদিন ঈমান আনবে না, এমন রায় দেওয়ার অধিকারও কাউকে দেয় না, কারণ তা কেবল আল্লাহই জানেন। আর অন্যের কুফরকে তাচ্ছিল্যের কারণও বানায় না। আয়াত যে দুঃখের কথা বলে, তা মানুষের জন্য দুঃখ। আর মাআরিফের প্রথম শিক্ষাই হলো, তাদের জন্য দাওয়াতের দরজা খোলা থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Care That Does Not Consume",
+          "bn": "যে দরদ নিজেকে গ্রাস করে না"
+        },
+        "p": [
+          {
+            "en": "Most readers will never carry a message to a whole people, but many carry someone: a child who has drifted, a parent who will not pray, a friend who mocks what they hold dear. The verse speaks to that ache without shaming it. Wanting good for someone is the right thing to feel. What the verse lifts off is the belief that their guidance rests on you, so that every refusal becomes your failure and every year without change a weight you must carry alone.",
+            "bn": "বেশির ভাগ পাঠক কোনোদিন গোটা এক জাতির কাছে বার্তা নিয়ে যাবেন না। কিন্তু অনেকেই বুকে কাউকে বয়ে বেড়ান: দূরে সরে যাওয়া এক সন্তান, নামায না পড়া মা-বাবা, কিংবা এমন বন্ধু, যে আপনার প্রিয় বিশ্বাস নিয়ে ঠাট্টা করে। আয়াত এ ব্যথাকে লজ্জা না দিয়েই তার সঙ্গে কথা বলে। কারও কল্যাণ চাওয়াটাই সঠিক অনুভূতি। আয়াত যা নামিয়ে দেয়, তা হলো এই ধারণা যে তার হিদায়াত আপনার ওপর নির্ভর করছে। এ ধারণায় প্রতিটি প্রত্যাখ্যান হয়ে দাঁড়ায় আপনার ব্যর্থতা, আর পরিবর্তনহীন প্রতিটি বছর এমন বোঝা, যা আপনাকে একা বইতে হবে।"
+          },
+          {
+            "en": "So the work, in as-Sa'di's division, is conveying. For a reader that can mean speaking, living what you speak, keeping the door open and making du'a. The outcome stays with the One who guides. 26:9 closes this opening passage by naming Him al-'Aziz, al-Rahim, the Mighty, the Merciful. The care can stay, and should. What the verse asks is that it be carried to God rather than turned inward until it breaks the one who carries it.",
+            "bn": "সা'দীর ভাগ অনুযায়ী তাই কাজটা হলো পৌঁছে দেওয়া। একজন পাঠকের বেলায় এর মানে হতে পারে কথা বলা, যা বলেন তা নিজে মেনে চলা, দরজা খোলা রাখা আর দোয়া করা। ফলাফল থাকে তাঁর হাতে, যিনি হিদায়াত দেন। সূরার এই সূচনা অংশ ২৬:৯ আয়াতে শেষ হয় তাঁর দুটি নাম দিয়ে: আল-আযীয, আর-রাহীম, মহাপরাক্রমশালী, পরম দয়ালু। দরদটা থাকতে পারে, থাকাই উচিত। আয়াত শুধু চায়, সে দরদ যেন আল্লাহর কাছে নিয়ে যাওয়া হয়। তা যেন ভেতরে ভেতরে জমে বহনকারীকেই ভেঙে না দেয়।"
+          }
+        ]
+      }
+    ]
+  },
   "26:6": {
     "sections": [
       {
