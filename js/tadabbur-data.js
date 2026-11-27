@@ -37193,6 +37193,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Choose companions and leaders you would be glad to stand beside on the Day; bonds built on doing wrong together end in blame and rejection.",
     "lessonBn": "এমন সঙ্গী আর নেতা বেছে নিন, সেদিন যাদের পাশে দাঁড়াতে পারলে আপনি খুশি হবেন; একসঙ্গে অন্যায় করার উপর গড়া বন্ধন শেষ হয় দোষারোপ আর প্রত্যাখ্যানে।"
+  },
+  "38:1": {
+    "reflectionEn": "The surah opens with a single letter, Sad, and then an oath: by the Qur'an, the one possessing dhikr. Dhikr can mean honour, and it can mean reminding, and the commentators found both here. The Book is weighty in itself, and it keeps bringing back to people what they forget: who their Lord is, what He asks of them, and where they are going. Then the very next verse turns to those who heard it and stayed in pride and dissension. So the oath also asks something of me. When I read, do I let it remind me, or do I only admire it? And is there one thing it has told me more than once that I have still not acted on?",
+    "reflectionBn": "সূরাটি শুরু হয় একটিমাত্র হরফ দিয়ে, স্বাদ। তারপর একটি শপথ: জিকিরওয়ালা কুরআনের কসম। জিকির মানে মর্যাদাও হয়, উপদেশও হয়, আর মুফাসসিররা এখানে দুটোই পেয়েছেন। এ কিতাব নিজেই ভারী মর্যাদার। আবার মানুষ যা ভুলে যায়, এ কিতাব তা বারবার মনে করিয়ে দেয়: তার রব কে, তিনি তার কাছে কী চান, আর সে কোথায় চলেছে। ঠিক পরের আয়াতেই কথা ঘুরে যায় তাদের দিকে, যারা এ কিতাব শুনেও অহংকার আর বিরোধিতায় আটকে থাকল। তাই এ শপথ আমার কাছেও কিছু চায়। পড়ার সময় আমি কি নিজেকে উপদেশ নিতে দিই, নাকি শুধু মুগ্ধ হয়ে থাকি? এমন কোনো কথা কি আছে, যা এ কিতাব আমাকে একাধিকবার বলেছে, অথচ আমি আজও তার উপর আমল করিনি?",
+    "pointsEn": [
+      "When I last read the Qur'an, did I come away reminded of something, or only able to say that I had read?",
+      "Which of its reminders have I heard so often that I no longer really hear it?",
+      "If I held this week's deeds up against what I recite, where would they stand?",
+      "Where does a little pride, or a habit of taking the other side, keep me from accepting a reminder I already know is true?",
+      "What honour am I chasing elsewhere that this Book already gives to whoever takes it to heart?"
+    ],
+    "pointsBn": [
+      "শেষবার কুরআন পড়ে উঠে আমি কি কোনো উপদেশ নিয়ে উঠেছি, নাকি শুধু এটুকু বলতে পারি যে পড়া হয়েছে?",
+      "এর কোন উপদেশ আমি এত বেশিবার শুনেছি যে এখন আর আসলে শুনতেই পাই না?",
+      "এ সপ্তাহের আমলগুলো যা তিলাওয়াত করি তার পাশে রাখলে কোথায় গিয়ে দাঁড়াবে?",
+      "কোথায় একটুখানি অহংকার, কিংবা উল্টো পক্ষ নেওয়ার অভ্যাস, আমাকে এমন উপদেশ মেনে নিতে দেয় না যাকে আমি সত্য বলে জানি?",
+      "কোন মর্যাদার খোঁজে আমি অন্য দরজায় ঘুরছি, অথচ যে এ কিতাবকে মনে ধরে, তাকে সে মর্যাদা এ কিতাবই দেয়?"
+    ],
+    "lessonEn": "The Qur'an is honoured and it reminds. Read it to be reminded, set your deeds beside it, and do not let pride turn you from what it tells you.",
+    "lessonBn": "কুরআন মর্যাদাপূর্ণ, আর কুরআন উপদেশ দেয়। উপদেশ নেওয়ার জন্য পড়ুন, নিজের আমল এর পাশে রেখে মিলিয়ে দেখুন, আর অহংকারকে এর কথা থেকে আপনাকে ফিরিয়ে নিতে দেবেন না।"
   }
 };
 

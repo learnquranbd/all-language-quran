@@ -11,6 +11,154 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "38:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Letter, Then a Sworn Book",
+          "bn": "একটি হরফ, তারপর কিতাবের কসম"
+        },
+        "p": [
+          {
+            "en": "The surah opens with four Arabic words: Sad, a single letter; wa-l-Qur'ani, and by the Qur'an; and dhi dh-dhikr, possessing the dhikr. Al-Qurtubi notes that the surah is Makkan by the word of all, and that the waw here is the waw of oath. Allah swore by the Qur'an, he says, to draw attention to the greatness of its worth, for in it is the clarification of everything, a healing for what is in the breasts, and a miracle of the Prophet ﷺ. The verse then ends before saying what is sworn to, and the commentators discuss that silence.",
+            "bn": "সূরাটি খোলে চারটি আরবি শব্দে: স্বাদ, একটিমাত্র হরফ; ওয়াল কুরআন, কুরআনের কসম; আর যিয-যিকর, জিকিরের অধিকারী। কুরতুবী জানান, সবার মতেই সূরাটি মাক্কী, আর এখানকার ওয়াও হলো কসমের ওয়াও। তাঁর মতে আল্লাহ কুরআনের কসম খেয়েছেন এর মর্যাদা কত বড়, সেদিকে মনোযোগ টানতে। কারণ এতে আছে সব কিছুর বিবরণ, অন্তরের রোগের শিফা, আর নবী ﷺ-এর মুজিযা। কসম খেয়ে কোন কথাটি বলা হচ্ছে, তা আসার আগেই আয়াত থেমে যায়। এই নীরবতা নিয়ে মুফাসসিররা আলোচনা করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Five Answers to One Letter",
+          "bn": "এক হরফের পাঁচ ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens by saying the people of interpretation differed over Sad, and he gives five positions with their chains. Al-Hasan al-Basri took it from musadat, facing or confronting, and read it as a command. As-Suddi said it is one of the letters. Ibn 'Abbas (RA), through 'Ali ibn Abi Talha, said it is an oath Allah swore, and one of His names. Qatada said it is one of the names of the Qur'an, by which Allah swore. Ad-Dahhak said it means: Allah has spoken truly.",
+            "bn": "তাবারী শুরুতেই বলেন, স্বাদ নিয়ে তাফসীরবিদদের মধ্যে মতভেদ আছে। তারপর সনদসহ পাঁচটি মত আনেন। হাসান বসরী একে মুসাদাত থেকে নিয়েছেন, যার মানে মুখোমুখি হওয়া, আর পড়েছেন আদেশ হিসেবে। সুদ্দী বলেন, এটি হরফগুলোর একটি। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেন, এটি আল্লাহর একটি কসম, আর তাঁর নামগুলোরও একটি। কাতাদা বলেন, এটি কুরআনের একটি নাম, যার কসম আল্লাহ খেয়েছেন। দাহহাকের মতে এর অর্থ: আল্লাহ সত্য বলেছেন।"
+          },
+          {
+            "en": "Al-Baghawi adds two more. It may be the name of the surah, as with the other letters that open surahs. And Muhammad ibn Ka'b al-Qurazi said Sad is the key to the name as-Samad and to Sadiq al-wa'd, true to His promise. Al-Baghawi also relays from Ibn 'Abbas, as a report, that it means Muhammad ﷺ has spoken truly. Al-Qurtubi gives Mujahid's view that it is simply the opening of the surah, and a view that it belongs to what Allah has kept to His own knowledge.",
+            "bn": "বাগাভী আরও দুটি মত যোগ করেন। এটি হতে পারে সূরার নাম, সূরার শুরুর অন্য হরফগুলোর মতোই। আর মুহাম্মাদ ইবন কা'ব কুরাযী বলেন, স্বাদ হলো আস-সামাদ নামের চাবি, আর সাদিকুল ওয়া'দ, অর্থাৎ ওয়াদায় সত্যবাদী, তারও চাবি। ইবন আব্বাস থেকে একটি বর্ণনা হিসেবে বাগাভী আরও আনেন: এর অর্থ মুহাম্মাদ ﷺ সত্য বলেছেন। কুরতুবী আনেন মুজাহিদের মত, এটি কেবল সূরার সূচনা। আরেকটি মতও তিনি দেন: এর জ্ঞান আল্লাহ নিজের কাছেই রেখেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi also relays that Ibn 'Abbas and Jabir ibn 'Abd Allah (RA), asked about Sad, said: we do not know what it is. He lists, without chains, reports making Sad the name of a sea; nothing is built on them here. Ibn Kathir, discussing the opening letters in general, quotes a scholar's summary: these letters were not sent down in vain; if something is sound from the Prophet, protected from error, we hold to it, and otherwise we stop where we stop and say, we believe in it, all is from our Lord.",
+            "bn": "কুরতুবী এটাও জানান, ইবন আব্বাস ও জাবির ইবন আবদুল্লাহ (রাঃ)-কে স্বাদ সম্পর্কে জিজ্ঞেস করা হলে তাঁরা বলেছিলেন: আমরা জানি না এটি কী। স্বাদকে এক সাগরের নাম বলে এমন কিছু বর্ণনাও তিনি সনদ ছাড়া উল্লেখ করেন। এ লেখা সেগুলোর উপর কিছু দাঁড় করায় না। ইবন কাসীর সূরার শুরুর হরফগুলো নিয়ে তাঁর সাধারণ আলোচনায় এক আলিমের সারকথা উদ্ধৃত করেন। এ হরফগুলো অনর্থক নাযিল হয়নি। নিষ্পাপ নবীর কাছ থেকে কিছু সহীহভাবে এলে আমরা তা ধরব। নইলে যেখানে থামার, সেখানেই থামব, আর বলব: আমরা ঈমান আনলাম, সবই আমাদের রবের পক্ষ থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Set Your Deeds Against It",
+          "bn": "আমলকে এর সামনে দাঁড় করান"
+        },
+        "p": [
+          {
+            "en": "Al-Hasan's reading deserves a closer look. At-Tabari explains it: from sadaytu fulanan, I faced so-and-so, so the word becomes a command, and whoever takes this meaning reads the dal with a kasra. Through Qatada, al-Hasan said: converse with the Qur'an. Through 'Amr ibn 'Ubayd: confront the Qur'an with your deeds. And 'Abd al-Wahhab, relaying from Sa'id from Qatada, glosses it: present it to your deeds, and see where your deeds stand in relation to the Qur'an.",
+            "bn": "হাসান বসরীর পাঠটা একটু কাছ থেকে দেখা দরকার। তাবারী বুঝিয়ে বলেন: সাদাইতু ফুলানান মানে আমি অমুকের মুখোমুখি হলাম। তাই স্বাদি একটি আদেশ, আর যে এ অর্থ নেয়, সে দাল-এ যের দিয়ে পড়ে। কাতাদার সূত্রে হাসান বলেছেন: কুরআনের সঙ্গে কথোপকথন করো। আমর ইবন উবায়দের সূত্রে: নিজের আমল দিয়ে কুরআনের মুখোমুখি হও। আর সাঈদ থেকে কাতাদার সূত্রে বর্ণনাকারী আবদুল ওয়াহহাব এর ব্যাখ্যা দেন: কুরআনকে তোমার আমলের সামনে রাখো, তারপর দেখো কুরআনের তুলনায় তোমার আমল কোথায় দাঁড়িয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi names those who read the word with a kasra on the dal and no tanwin: Ubayy ibn Ka'b, al-Hasan, Ibn Abi Ishaq and Nasr ibn 'Asim. In one account the word comes from sada yusadi, to face someone, and from the same root comes as-sada, the echo that answers a voice in empty places. The sense is then: meet the Qur'an with your deeds and match them to it, act on its commands and stop at what it forbids. He also gives from al-Hasan a second sense: recite it, and set yourself to reading it.",
+            "bn": "যারা দাল-এ যের দিয়ে, তানবীন ছাড়া স্বাদি পড়েছেন, কুরতুবী তাঁদের নাম দেন: উবাই ইবন কা'ব, হাসান, ইবন আবী ইসহাক ও নাসর ইবন আসিম। এক ব্যাখ্যায় শব্দটি এসেছে সাদা-ইউসাদী ক্রিয়া থেকে, মানে মুখোমুখি হওয়া। একই মূল থেকে আসে আস-সাদা, অর্থাৎ প্রতিধ্বনি, ফাঁকা জায়গায় যে আওয়াজ কণ্ঠের জবাব দেয়। তখন অর্থ দাঁড়ায়: নিজের আমল নিয়ে কুরআনের সামনে দাঁড়াও, আমলকে এর সঙ্গে মিলিয়ে নাও। এর আদেশ মানো, এর নিষেধে থেমে যাও। হাসান থেকে কুরতুবী দ্বিতীয় একটি অর্থও আনেন: কুরআন তিলাওয়াত করো, এর পাঠে নিজেকে লাগিয়ে দাও।"
+          },
+          {
+            "en": "At-Tabari does not adopt this reading. The correct reading, he says, has the dal silent, as widely read by the reciters of the cities, and the letter is one of the letters of the alphabet. So the command is not the received text, yet the thought al-Hasan drew from it does not depend on that reading. As-Sa'di reaches it from the recited verse: since the Qur'an is so described, people must receive it with faith and set about drawing from it what reminds them.",
+            "bn": "তাবারী এ পাঠ গ্রহণ করেন না। তাঁর মতে সঠিক পাঠ দাল-এ সাকিন দিয়ে, শহরগুলোর কারীদের মধ্যে যে পাঠ ব্যাপকভাবে চালু। আর হরফটি বর্ণমালার হরফগুলোরই একটি। আদেশের অর্থটা তাই প্রচলিত পাঠের অংশ নয়। তবু হাসান এ থেকে যে ভাবনা নিয়েছিলেন, তা ওই পাঠের উপর নির্ভর করে না। সা'দী সেখানে পৌঁছান তিলাওয়াতের পাঠ থেকেই। কুরআনের গুণ যখন এমন, তখন মানুষের কর্তব্য ঈমান ও বিশ্বাস নিয়ে একে গ্রহণ করা, আর এর ভেতর থেকে উপদেশ বের করে আনার কাজে লেগে যাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honour, Clarity, or Reminding",
+          "bn": "মর্যাদা, স্পষ্টতা, নাকি উপদেশ"
+        },
+        "p": [
+          {
+            "en": "Then dhi dh-dhikr, and at-Tabari records a second disagreement. Some said it means possessing honour: Sa'id ibn Jubayr, Abu Husayn, Abu Salih, as-Suddi, and Ibn 'Abbas (RA) through Sa'id ibn Jubayr. Others said it means possessing reminding, by which Allah reminds you. Ad-Dahhak said: in it is your reminder, and he set beside it 21:10, We have sent down to you a Book in which is your dhikr. Qatada said: that is, what is mentioned in it.",
+            "bn": "এরপর যিয-যিকর, আর তাবারী এখানে দ্বিতীয় মতভেদটি তুলে আনেন। কারও মতে এর অর্থ মর্যাদার অধিকারী। এ মত সাঈদ ইবন জুবায়র, আবু হুসাইন, আবু সালিহ ও সুদ্দীর, আর সাঈদ ইবন জুবায়রের সূত্রে ইবন আব্বাস (রাঃ)-এরও। অন্যদের মতে এর অর্থ উপদেশের অধিকারী, যা দিয়ে আল্লাহ তোমাদের উপদেশ দেন। দাহহাক বলেন: এতে আছে তোমাদের জন্য উপদেশ। পাশে তিনি রাখেন ২১:১০, আমি তোমাদের প্রতি এমন কিতাব নাযিল করেছি যাতে আছে তোমাদের জিকির। কাতাদা বলেন: অর্থাৎ এতে যা উল্লেখ করা হয়েছে।"
+          },
+          {
+            "en": "At-Tabari chooses reminding, and gives his reason from the next verse. Allah followed the oath with rather, those who disbelieve are in pride and dissension, so it is clear that He was telling of the Qur'an that He sent it down as a reminder to His servants, and that the disbelievers stand off from believing in it in pride and dissension. Ibn Kathir records ad-Dahhak and Qatada for reminding, notes at-Tabari's choice, lists the names for honour, glossed as standing and rank, and says there is no contradiction between the two views.",
+            "bn": "তাবারী উপদেশের অর্থটাই বেছে নেন, আর কারণ দেখান পরের আয়াত থেকে। কসমের পরেই আল্লাহ বলেছেন: বরং কাফিররা অহংকার আর বিরোধিতায় ডুবে আছে। এতে বোঝা যায়, তিনি কুরআন সম্পর্কে জানাচ্ছিলেন যে তিনি এটি নাযিল করেছেন বান্দাদের উপদেশ দিতে, আর কাফিররা অহংকার ও বিরোধিতার কারণে এর উপর ঈমান আনা থেকে দূরে সরে আছে। ইবন কাসীর উপদেশের পক্ষে দাহহাক ও কাতাদার নাম আনেন, তাবারীর পছন্দের কথাও জানান। মর্যাদার পক্ষের নামগুলোও তিনি দেন, আর মর্যাদার অর্থ করেন অবস্থান ও মর্তবা। তাঁর কথা, দুই মতের মধ্যে কোনো বিরোধ নেই।"
+          },
+          {
+            "en": "Al-Baghawi and al-Qurtubi bring a third sense: Ibn 'Abbas and Muqatil said it means possessing clarity, dhi l-bayan. Both give ad-Dahhak for honour, not reminding; al-Baghawi supports it with 43:44, it is a dhikr for you and for your people. In al-Qurtubi, ad-Dahhak's honour is this: whoever believes in it, it is an honour for him in both worlds, and he cites 21:10, reading fihi dhikrukum as your honour. So one proof-verse is read two ways, and two names carry more than one reading: ad-Dahhak for reminding and honour, Ibn 'Abbas for honour and clarity.",
+            "bn": "বাগাভী ও কুরতুবী তৃতীয় একটি অর্থ আনেন। ইবন আব্বাস ও মুকাতিলের মতে যিয-যিকর মানে স্পষ্টতার অধিকারী, যিল-বায়ান। দুজনেই দাহহাকের নাম দেন মর্যাদার পক্ষে, উপদেশের পক্ষে নয়। বাগাভী এর দলিল দেন ৪৩:৪৪ থেকে: এটি তোমার ও তোমার কওমের জন্য জিকির। কুরতুবীর বর্ণনায় দাহহাকের মর্যাদার অর্থ এই: যে এর উপর ঈমান আনে, দুনিয়া ও আখিরাতে এটি তার মর্যাদা। দলিল হিসেবে তিনিও আনেন সেই ২১:১০, আর ফীহি যিকরুকুম পড়েন তোমাদের মর্যাদা অর্থে। একই আয়াত তাই দুইভাবে পড়া হলো। দুটি নামের সঙ্গেও একাধিক অর্থ জুড়ে গেল: দাহহাকের সঙ্গে উপদেশ ও মর্যাদা, ইবন আব্বাসের সঙ্গে মর্যাদা ও স্পষ্টতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whatever the Servants Need",
+          "bn": "বান্দার যা কিছু দরকার"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di joins the two main senses and then spells out the reminding. Dhi dh-dhikr means possessing great worth and honour, and reminding the servants of everything they need of knowledge: knowledge of Allah's names, attributes and acts; of His legal rulings; and of the rulings of the return and the recompense. So it reminds them in the roots of their religion and in its branches. The Muyassar keeps it short: the Qur'an that contains a reminder to people of what they are heedless of.",
+            "bn": "সা'দী প্রধান দুই অর্থকে এক করেন, তারপর উপদেশের দিকটা খুলে বলেন। যিয-যিকর মানে মহা মর্যাদা ও সম্মানের অধিকারী। আবার বান্দাদের যত জ্ঞান দরকার, সবকিছুর কথা মনে করিয়ে দেয়। আল্লাহর নাম, গুণ ও কাজের জ্ঞান। তাঁর শরীয়তের বিধানের জ্ঞান। আর আখিরাতে ফেরা ও প্রতিদানের বিধানের জ্ঞান। দ্বীনের মূল বিষয়ে যেমন, শাখা-প্রশাখাতেও তেমনি এ কিতাব তাদের মনে করিয়ে দেয়। মুয়াসসার কথাটা ছোট করে বলে: এমন কুরআন, যা মানুষকে সেসব কথা মনে করিয়ে দেয়, যা থেকে তারা গাফিল।"
+          },
+          {
+            "en": "Al-Qurtubi lists further glosses: that it contains mention of what is needed of the religion; that it contains mention of Allah's names and His glorification; that it is possessed of admonition. He adds that the Qur'an is noble in itself, for its inimitability and for containing what nothing else contains. Ibn Kathir's own gloss is close to as-Sa'di's: the Qur'an that holds what is a reminder for the servants and a benefit to them in this life and the next.",
+            "bn": "কুরতুবী আরও কিছু ব্যাখ্যা দেন। এতে আছে দ্বীনের প্রয়োজনীয় বিষয়ের উল্লেখ। এতে আছে আল্লাহর নাম ও তাঁর মহিমার বর্ণনা। এটি নসীহতে ভরা। তিনি যোগ করেন, কুরআন নিজেই মর্যাদাপূর্ণ, কারণ এর মতো কিছু আনা অসম্ভব, আর এতে এমন কিছু আছে যা আর কোথাও নেই। ইবন কাসীরের নিজের ব্যাখ্যা সা'দীর কাছাকাছি: এমন কুরআন, যাতে আছে বান্দাদের জন্য উপদেশ, আর দুনিয়া ও আখিরাতে তাদের উপকার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Oath Awaiting Its Answer",
+          "bn": "কসমের জবাব কোথায়"
+        },
+        "p": [
+          {
+            "en": "An oath in Arabic normally leads to its answer, the thing sworn to. Here none follows in words. Al-Qurtubi says the answer is omitted, then records the ways it was understood. The first view makes Sad itself the answer, meaning it is true, as in the phrase truly, by Allah. He gives this from Ibn al-Anbari, and says ath-Tha'labi relates its sense from al-Farra'. Al-Baghawi has al-Farra' for it too, and a related view that the answer had already come: Allah swore by the Qur'an that Muhammad ﷺ had spoken truly.",
+            "bn": "আরবিতে কসমের পরে সাধারণত তার জবাব আসে, অর্থাৎ যে কথার উপর কসম। এখানে সরাসরি তেমন কিছু আসেনি। কুরতুবী বলেন, জবাবটা উহ্য। তারপর তিনি এর বিভিন্ন ব্যাখ্যা তুলে ধরেন। এক মতে স্বাদ নিজেই জবাব। এর অর্থ, এটা সত্য, যেমন বলা হয়: সত্যি, আল্লাহর কসম। এ মত তিনি আনেন ইবনুল আম্বারী থেকে, আর বলেন সা'লাবী এর মর্ম ফাররা থেকে বর্ণনা করেছেন। বাগাভীও এ মতের জন্য ফাররার নাম দেন। কাছাকাছি আরেকটি মতও তিনি আনেন: জবাব আগেই এসে গেছে, আল্লাহ কুরআনের কসম খেয়ে বলেছেন যে মুহাম্মাদ ﷺ সত্য বলেছেন।"
+          },
+          {
+            "en": "A second view places the answer at 38:2. At-Tabari, on that verse, relays Qatada: here the oath falls. Some grammarians explained that rather points to the disbelievers' denial and so stands in for the answer, as though it were said: Sad, the matter is not as you claimed; rather you are in pride and dissension. At-Tabari calls Qatada's view correct, and Ibn Kathir records both the view and that choice. Al-Qurtubi gives this placement from al-Qutabi, but relays Qatada differently: the answer is omitted, its sense being, you will surely be raised.",
+            "bn": "দ্বিতীয় মতে জবাব ৩৮:২-এ। সে আয়াতের তাফসীরে তাবারী কাতাদার কথা আনেন: কসম এখানেই এসে পড়েছে। কিছু ব্যাকরণবিদ ব্যাখ্যা দেন, 'বরং' শব্দটি কাফিরদের অস্বীকারের দিকে ইশারা করে, তাই জবাবের কাজ এ শব্দই সেরে দেয়। যেন বলা হলো: স্বাদ, তোমরা যা বলছ ব্যাপারটা তেমন নয়, বরং তোমরা অহংকার আর বিরোধিতায় আছ। তাবারী কাতাদার মতকেই সঠিক বলেন। ইবন কাসীরও মতটি আর তাবারীর এই পছন্দ দুটোই উল্লেখ করেন। কুরতুবী এ অবস্থান আনেন কুতাইবী থেকে। কিন্তু কাতাদার কথা তিনি বর্ণনা করেন অন্যভাবে: জবাব উহ্য, আর তার অর্থ, তোমাদের অবশ্যই আবার ওঠানো হবে।"
+          },
+          {
+            "en": "So two reports of Qatada stand side by side, and both are left as reported. Other answers sit further away: 38:3, how many a generation We destroyed, with the la of oath dropped, which al-Mahdawi, in al-Qurtubi, calls al-Farra''s view; 38:14, from al-Akhfash; 38:64, from al-Kisa'i; and 38:54. Ibn al-Anbari called 38:14 ugly, since so many stories come between oath and answer, and 38:64 uglier. Ibn Kathir calls 38:64 very far, notes that at-Tabari weakened it, and closes with a last view: the answer is what the whole surah contains.",
+            "bn": "কাতাদা থেকে তাই দুটি বর্ণনা পাশাপাশি রইল, আর দুটোই যেভাবে এসেছে সেভাবেই রাখা হলো। অন্য মতগুলো জবাব খোঁজে আরও দূরে। কারও মতে ৩৮:৩, আমি কত প্রজন্মকে ধ্বংস করেছি, যেখানে কসমের লাম বাদ পড়েছে। কুরতুবীর বর্ণনায় মাহদাভী একে ফাররার মত বলেছেন। আখফাশের মতে জবাব ৩৮:১৪, কিসাঈর মতে ৩৮:৬৪, আরেক মতে ৩৮:৫৪। ইবনুল আম্বারী ৩৮:১৪-কে অসুন্দর বলেছেন, কারণ কসম আর জবাবের মাঝে বহু কাহিনি এসে গেছে, আর ৩৮:৬৪-কে বলেছেন আরও অসুন্দর। ইবন কাসীর ৩৮:৬৪-কে অনেক দূরের মত বলেন, জানান তাবারী একে দুর্বল বলেছেন। শেষে তিনি আনেন আরেকটি মত: পুরো সূরা যা ধারণ করে, সেটাই জবাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sworn By and Sworn For",
+          "bn": "যার কসম, তারই কথা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di takes a different line. There is no need here, he says, to mention what is sworn to, because the thing sworn by and the thing sworn about are in truth the same: this Qur'an, so loftily described. If the Qur'an is like this, the servants' need of it is above every need. Ibn Kathir makes a related observation in his general discussion: every surah opening with these letters goes on to defend the Qur'an and show its greatness, and here the defence begins with the very next word.",
+            "bn": "সা'দী আলাদা পথ ধরেন। তাঁর মতে এখানে কসমের জবাব উল্লেখের দরকারই নেই। কারণ আসলে যার কসম খাওয়া হলো আর যে কথার উপর কসম, দুটো একই জিনিস: এই কুরআন, এত উঁচু গুণে যার পরিচয়। কুরআন যখন এমন, তখন স্পষ্ট হয়ে যায় যে বান্দাদের সব প্রয়োজনের উপরে এর প্রয়োজন। ইবন কাসীর তাঁর সাধারণ আলোচনায় কাছাকাছি একটি পর্যবেক্ষণ দেন। যে সূরাই এ হরফগুলো দিয়ে শুরু হয়েছে, তাতে কুরআনের পক্ষে কথা আর এর মহত্ত্বের বর্ণনা আসবেই। এখানে সে কথা শুরু হয়ে যায় ঠিক পরের শব্দ থেকেই।"
+          },
+          {
+            "en": "The oath was first heard by an audience. At-Tirmidhi records from Ibn 'Abbas (RA) the occasion: Abu Talib's illness, the complaint of Quraysh, and the call to say there is no god but Allah. The passage revealed about them, he says, ran from this verse to 38:7, and he grades the hadith hasan sahih; it is told in full under 38:4. At-Tabari, on 38:2, says those who disbelieve are the idolaters of Quraysh, in partisan zeal and hostility, though not for lack of knowing that he was neither sorcerer nor liar.",
+            "bn": "এ শপথ প্রথমবার যারা শুনেছিল, তাদের একটা প্রেক্ষাপট আছে। তিরমিযী ইবন আব্বাস (রাঃ) থেকে সে ঘটনা বর্ণনা করেছেন। আবু তালিব অসুস্থ, কুরাইশের অভিযোগ, আর লা ইলাহা ইল্লাল্লাহ বলার আহ্বান। তিনি জানান, তাদের ব্যাপারে নাযিল হয়েছিল এ আয়াত থেকে ৩৮:৭ পর্যন্ত। হাদীসটিকে তিনি হাসান সহীহ বলেছেন। পুরো ঘটনা ৩৮:৪-এর আলোচনায় আছে। ৩৮:২-এর তাফসীরে তাবারী বলেন, কাফির বলতে কুরাইশের মুশরিকদের বোঝানো হয়েছে। তারা গোত্রীয় জেদ আর শত্রুতায় আটকে ছিল, অথচ তিনি যে জাদুকর বা মিথ্যুক নন, এ জ্ঞান তাদের অজানা ছিল না।"
+          },
+          {
+            "en": "This needs saying plainly. The verse and the one after it describe what the text describes: a particular audience who heard this Book and turned from it in pride. They license nothing against any living person or community. No reader may take 38:2 and pin it on a neighbour, a rival or a people. The verse turns the reader's eye to the Book first, and the one question it leaves open for each of us is how we ourselves receive it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এ আয়াত আর পরের আয়াত শুধু ততটুকুই বর্ণনা করে, যতটুকু পাঠে আছে: নির্দিষ্ট একদল শ্রোতা, যারা এ কিতাব শুনে অহংকারে মুখ ফিরিয়ে নিয়েছিল। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি এ আয়াত দেয় না। ৩৮:২ তুলে নিয়ে প্রতিবেশী, প্রতিদ্বন্দ্বী বা কোনো জাতির গায়ে সেঁটে দেওয়ার অধিকার কোনো পাঠকের নেই। আয়াত পাঠকের চোখ আগে কিতাবের দিকে ফেরায়। আমাদের প্রত্যেকের জন্য সে একটি প্রশ্নই খোলা রাখে: আমি নিজে এ কিতাবকে কীভাবে গ্রহণ করছি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading in Order to Remember",
+          "bn": "মনে রাখার জন্য পড়া"
+        },
+        "p": [
+          {
+            "en": "Gather what the sources give, and the verse asks two things of a reader. The first is humility before what is not known: the surah opens with a single letter on which the most learned of the early generations reported views, or said, we do not know. Reciting it without pretending to have settled it honours the Book. The second is to let the Book's dhikr work. Whether the word means honour, clarity or reminding, each reading points to something the reader is meant to receive and carry.",
+            "bn": "উৎসগুলো যা দেয়, তা একসঙ্গে করলে আয়াতটি পাঠকের কাছে দুটি জিনিস চায়। প্রথমটি হলো, যা জানা নেই তার সামনে বিনয়। সূরা শুরু হয় একটিমাত্র হরফে। প্রথম যুগের সবচেয়ে জ্ঞানী মানুষেরা এ নিয়ে নানা মত বর্ণনা করেছেন, কেউ আবার বলেছেন, আমরা জানি না। মীমাংসা হয়ে গেছে এমন ভান না করে হরফটি তিলাওয়াত করাও কিতাবকে সম্মান করার অংশ। দ্বিতীয়টি হলো, কিতাবের জিকিরকে কাজ করতে দেওয়া। শব্দটির অর্থ মর্যাদা হোক, স্পষ্টতা হোক বা উপদেশ, প্রতিটি অর্থই এমন কিছুর দিকে ইশারা করে, যা পাঠককে গ্রহণ করতে হবে, বয়ে নিয়ে চলতে হবে।"
+          },
+          {
+            "en": "At-Tabari read dhikr as reminding because of the verse that follows, and that pairing is the warning. The same Book that reminds can be heard by people who stay in pride and dissension. So the measure al-Hasan gave is worth keeping, even on the received reading: set your deeds against the Qur'an and see where they stand. As-Sa'di's need above every need is not met by owning a copy or finishing a recitation. It is met when what is recited reminds, and the reminder is acted upon.",
+            "bn": "পরের আয়াতের কারণেই তাবারী জিকিরের অর্থ করেছেন উপদেশ, আর এই জোড়ের মধ্যেই সতর্কবাণী। যে কিতাব উপদেশ দেয়, সেই কিতাবই এমন লোকেরাও শোনে, যারা অহংকার আর বিরোধিতায় আটকে থাকে। তাই হাসানের দেওয়া মাপকাঠিটা রেখে দেওয়ার মতো, প্রচলিত পাঠ মেনে নিয়েও: নিজের আমলকে কুরআনের সামনে রাখুন, তারপর দেখুন সেগুলো কোথায় দাঁড়ায়। সা'দী যে প্রয়োজনকে সব প্রয়োজনের উপরে রেখেছেন, তা ঘরে একটি মুসহাফ রাখলে বা খতম শেষ করলেই মেটে না। মেটে তখন, যখন তিলাওয়াত মনে করিয়ে দেয়, আর মনে পড়া কথার উপর আমল হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "38:4": {
     "sections": [
       {
