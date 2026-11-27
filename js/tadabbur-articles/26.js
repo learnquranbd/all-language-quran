@@ -4479,6 +4479,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:92": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Before the Fall",
+          "bn": "পতনের আগে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verse is six words in Arabic: wa-qila lahum ayna ma kuntum ta'budun, and it will be said to them, where is what you used to worship? The sentence does not stop where the verse stops. The next verse carries it on with min duni Allah, besides Allah, and adds two questions: can they help you, or help themselves? So 26:92 and 26:93 make one utterance spread over two verses. The commentators read them that way: Ibn Kathir quotes both before he comments, and the Muyassar explains them in a single note.",
+            "bn": "আয়াতটি আরবিতে ছয়টি শব্দের: ওয়া কীলা লাহুম আইনা মা কুনতুম তা'বুদূন, আর তাদের বলা হবে, তোমরা যার ইবাদত করতে, তা কোথায়? আয়াত যেখানে থামে, বাক্য সেখানে থামে না। পরের আয়াত তাকে টেনে নিয়ে যায় মিন দূনিল্লাহ দিয়ে, অর্থাৎ আল্লাহকে ছেড়ে, তারপর জুড়ে দেয় আরও দুটি প্রশ্ন: তারা কি তোমাদের সাহায্য করতে পারে, নাকি নিজেদের? তাই ২৬:৯২ ও ২৬:৯৩ মিলে একটাই কথা, দুই আয়াতে ছড়ানো। তাফসীরকারেরাও এভাবেই পড়েন। ইবন কাসীর ব্যাখ্যার আগে দুটো আয়াতই উদ্ধৃত করেন, আর মুয়াসসার দুটোর ব্যাখ্যা দেয় একটি টীকায়।"
+          },
+          {
+            "en": "The scene opens just after Ibrahim's (AS) prayer reaches the Day on which only a sound heart avails (26:88 and 26:89). As-Sa'di marks the turn: then He mentioned features of that great Day, and the reward and punishment in it. In 26:90 the Garden is brought near for the God-fearing; in 26:91 the Blaze is set out in view of al-ghawin, the deviators. Al-Qurtubi gives the reason it is shown before they enter: so that they feel its dread and grief, as the people of the Garden feel joy, knowing they will enter it. Our question is put to them in that moment.",
+            "bn": "দৃশ্যটি শুরু হয় ইবরাহীম (আঃ)-এর দোয়া সেই দিনে পৌঁছানোর ঠিক পরে, যেদিন শুধু বিশুদ্ধ অন্তরই কাজে আসবে (২৬:৮৮ ও ২৬:৮৯)। সা'দী এই মোড়টা চিহ্নিত করেন: তারপর তিনি সেই মহাদিবসের কিছু বৈশিষ্ট্য এবং তাতে থাকা পুরস্কার ও শাস্তির কথা বললেন। ২৬:৯০ আয়াতে মুত্তাকীদের জন্য জান্নাত কাছে আনা হয়, আর ২৬:৯১ আয়াতে আল-গাবীন, অর্থাৎ পথভ্রষ্টদের চোখের সামনে খুলে দেওয়া হয় জাহান্নাম। প্রবেশের আগেই কেন তা দেখানো হয়, কুরতুবী তার কারণ বলেন: যাতে তারা এর আতঙ্ক আর দুঃখ অনুভব করে, যেমন জান্নাতবাসীরা প্রবেশ করবে জেনে আনন্দ অনুভব করে। আমাদের প্রশ্নটি তাদের সামনে রাখা হয় ঠিক সেই মুহূর্তে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said, but by Whom",
+          "bn": "বলা হবে, কিন্তু কে বলবে"
+        },
+        "p": [
+          {
+            "en": "Wa-qila is passive: it will be said. The verse does not name the speaker, and none of the commentaries fetched for it supplies a name. Al-Baghawi fixes only the time: on the Day of Resurrection. At-Tabari fixes only the hearers: it will be said to al-ghawin, the deviators of 26:91. Whether the words come from angels or from Allah Himself, the texts read for this verse do not say, so this article leaves the speaker where the verse leaves him, unnamed, and attends to what is asked.",
+            "bn": "ওয়া কীলা কর্মবাচ্যে: বলা হবে। বক্তা কে, আয়াত তা বলে না। এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিও কোনো নাম দেয় না। বাগাভী শুধু সময়টা জানান: কিয়ামতের দিন। তাবারী শুধু শ্রোতাদের চিনিয়ে দেন: বলা হবে আল-গাবীনকে, ২৬:৯১ আয়াতের সেই পথভ্রষ্টদের। কথাগুলো ফেরেশতাদের মুখে আসবে, নাকি আল্লাহ নিজে বলবেন, এ আয়াতের জন্য পড়া তাফসীরগুলো তা জানায় না। তাই এ লেখাও বক্তাকে আয়াতের মতোই নামহীন রাখছে, আর মন দিচ্ছে প্রশ্নটির দিকে।"
+          },
+          {
+            "en": "The Qur'an draws this scene elsewhere in both forms. In 28:62 Allah Himself calls them and says: where are My partners whom you used to claim? Two verses on, in 28:64, the form turns passive, as here: and it will be said, call your partners. In 37:22 to 37:24 a command goes out to gather the wrongdoers with what they used to worship besides Allah, and to stop them, for they are to be questioned. These are cited only for the shape of the scene. In our verse the passive keeps every eye on the question rather than on whoever asks it.",
+            "bn": "কুরআন অন্য জায়গায় এই দৃশ্য দুইভাবেই এঁকেছে। ২৮:৬২ আয়াতে আল্লাহ নিজেই তাদের ডেকে বলেন: যাদের তোমরা আমার শরীক মনে করতে, তারা কোথায়? দুই আয়াত পরে, ২৮:৬৪ আয়াতে, বাক্য আবার কর্মবাচ্যে, ঠিক এখানকার মতো: আর বলা হবে, তোমাদের শরীকদের ডাকো। ৩৭:২২ থেকে ৩৭:২৪ আয়াতে হুকুম আসে জালিমদের আর আল্লাহকে ছেড়ে তারা যাদের ইবাদত করত তাদের একসঙ্গে জড়ো করার, তারপর থামানোর, কারণ তাদের প্রশ্ন করা হবে। এগুলো এখানে শুধু দৃশ্যের গড়ন বোঝাতে আনা। আমাদের আয়াতে কর্মবাচ্য সবার দৃষ্টি রাখে প্রশ্নের উপর, প্রশ্নকর্তার উপর নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rebuke, Not Inquiry",
+          "bn": "জানতে চাওয়া নয়, ভর্ৎসনা"
+        },
+        "p": [
+          {
+            "en": "Nobody in that scene needs information. The worshippers know where their gods are, and so does the One before whom they stand. The commentators therefore read the question by its purpose. Ibn Kathir says it is said to the people of the Fire by way of reproach and rebuke. The Muyassar opens its note with a single word, tawbikhan, as a rebuke. Al-Qurtubi closes his brief comment on 26:93 with the sentence wa hadha kulluhu tawbikh: all of this is rebuke. Three commentators, three phrasings, one reading: a question asked so that its answer will be felt, not told.",
+            "bn": "সেই দৃশ্যে কারও কোনো তথ্যের দরকার নেই। উপাসকেরা জানে তাদের উপাস্যরা কোথায়, আর যাঁর সামনে তারা দাঁড়িয়ে, তিনিও জানেন। তাই তাফসীরকারেরা প্রশ্নটা পড়েন তার উদ্দেশ্য দিয়ে। ইবন কাসীর বলেন, জাহান্নামবাসীদের এ কথা বলা হবে তিরস্কার আর ভর্ৎসনা হিসেবে। মুয়াসসার টীকা শুরুই করে এক শব্দে: তাওবীখান, ভর্ৎসনা করে। কুরতুবী ২৬:৯৩ আয়াতের ছোট্ট ব্যাখ্যা শেষ করেন এই বাক্যে: ওয়া হাযা কুল্লুহু তাওবীখ, এর পুরোটাই ভর্ৎসনা। তিনজন তাফসীরকার, তিন রকম ভাষা, কিন্তু পাঠ একটাই। প্রশ্নটা করা হচ্ছে উত্তর শোনানোর জন্য নয়, উত্তরটা হাড়ে হাড়ে টের পাওয়ানোর জন্য।"
+          },
+          {
+            "en": "The Muyassar also names what the rebuke presses on. Where are your gods, it paraphrases, whom you used to worship besides Allah and claimed would intercede for you today? The hope these people had placed in their gods is spoken aloud, and in the same breath it is shown to be empty. What it means to have no intercessor at all is the subject of 26:100, already in this collection. Here it is enough to see the claim made in the world quoted back at them at the very hour it was supposed to pay out.",
+            "bn": "ভর্ৎসনা ঠিক কোথায় আঘাত করছে, মুয়াসসার তা-ও বলে দেয়। তার ভাষায় প্রশ্নটা এমন: তোমাদের সেই উপাস্যরা কোথায়, আল্লাহকে ছেড়ে যাদের ইবাদত করতে, আর দাবি করতে যে আজ তারা তোমাদের জন্য সুপারিশ করবে? উপাস্যদের ঘিরে এরা যে আশা বেঁধেছিল, সেটা মুখে উচ্চারিত হয়, আর একই নিঃশ্বাসে প্রমাণ হয়ে যায় যে তা ফাঁপা। কোনো সুপারিশকারী না থাকার অর্থ কী, সে আলোচনা ২৬:১০০ আয়াতের, যা এই সংকলনে আগেই আছে। এখানে এটুকু দেখাই যথেষ্ট: দুনিয়ায় করা দাবিটা তাদের সামনে ফিরিয়ে শোনানো হচ্ছে ঠিক সেই মুহূর্তে, যখন তার কাজে আসার কথা ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Idols and Rivals Named",
+          "bn": "মূর্তি আর আল্লাহর সমকক্ষ"
+        },
+        "p": [
+          {
+            "en": "The verse says ma, what: where is what you used to worship. The commentators fill the word with the objects of that worship. At-Tabari says: of the andad, the rivals set up beside Allah. Al-Qurtubi says: of the idols and the rivals. Ibn Kathir speaks of the gods they worshipped besides Allah, of those idols and rivals. The Muyassar says simply, your gods. Between them the word takes in the carved images and anything else that was made a rival to Allah, in whatever form it took, and holds all of it up for the same question.",
+            "bn": "আয়াত বলছে মা, অর্থাৎ যা: তোমরা যার ইবাদত করতে, তা কোথায়। তাফসীরকারেরা শব্দটাকে ভরে দেন সেই ইবাদতের বস্তু দিয়ে। তাবারী বলেন: আন্দাদ, মানে আল্লাহর পাশে দাঁড় করানো সমকক্ষগুলো। কুরতুবী বলেন: মূর্তি আর সমকক্ষগুলো। ইবন কাসীর বলেন আল্লাহকে ছেড়ে তারা যেসব উপাস্যের ইবাদত করত, সেই মূর্তি আর সমকক্ষদের কথা। মুয়াসসার সোজাসুজি বলে: তোমাদের উপাস্যরা। সব মিলিয়ে শব্দটার ভেতরে আসে খোদাই করা প্রতিমা, আর যা কিছুকেই আল্লাহর সমকক্ষ বানানো হয়েছিল, তার রূপ যেমনই হোক। সবাইকে দাঁড় করানো হয় একই প্রশ্নের সামনে।"
+          },
+          {
+            "en": "Two short phrases frame the list. Kuntum ta'budun, you used to worship, puts the worship in the past tense of a habit: what filled a lifetime is spoken of as something already over. Min duni Allah, besides Allah, at the head of 26:93, names the fault exactly. The rebuke is not for having worshipped, since worship is what human beings were made for (51:56), but for having turned it toward something other than Him. The things that received that devotion are asked after in a place where nothing can speak up for them any more.",
+            "bn": "দুটি ছোট বাক্যাংশ এই তালিকার দুই পাশে দাঁড়িয়ে। কুনতুম তা'বুদূন, তোমরা ইবাদত করতে, ইবাদতকে রাখে অভ্যাসের অতীতে। যা সারা জীবন জুড়ে ছিল, তার কথা বলা হচ্ছে শেষ হয়ে যাওয়া জিনিসের মতো। আর ২৬:৯৩ আয়াতের শুরুতে মিন দূনিল্লাহ, আল্লাহকে ছেড়ে, দোষটা ঠিক ঠিক চিনিয়ে দেয়। ভর্ৎসনা ইবাদত করার জন্য নয়, কারণ মানুষকে তো ইবাদতের জন্যই সৃষ্টি করা হয়েছে (৫১:৫৬)। ভর্ৎসনা সেই ইবাদতকে তিনি ছাড়া অন্য কিছুর দিকে ঘুরিয়ে দেওয়ার জন্য। যারা সেই ভক্তি পেয়েছিল, তাদের খোঁজ নেওয়া হচ্ছে এমন জায়গায়, যেখানে তাদের পক্ষে কেউ আর মুখ খুলতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Help You, or Themselves",
+          "bn": "তোমাদের, নাকি নিজেদের"
+        },
+        "p": [
+          {
+            "en": "Then come the two questions, both from the root n-s-r, to help or rescue: hal yansurunakum aw yantasirun. At-Tabari explains the first as: can they help you today against Allah, and save you from His punishment? And the second: or help themselves, and rescue themselves from what is intended for them? Al-Baghawi glosses the first as: can they keep the punishment from you? The Muyassar folds both into one line: can they help you by repelling the punishment from you, or help themselves by repelling it from themselves? And it answers at once: none of that.",
+            "bn": "তারপর আসে দুটি প্রশ্ন, দুটোই ন-স-র ধাতু থেকে, যার অর্থ সাহায্য করা বা উদ্ধার করা: হাল ইয়ানসুরূনাকুম আও ইয়ানতাসিরূন। তাবারী প্রথমটির ব্যাখ্যা দেন এভাবে: আজ আল্লাহর বিরুদ্ধে তারা কি তোমাদের সাহায্য করে তাঁর শাস্তি থেকে বাঁচাতে পারবে? আর দ্বিতীয়টির: নাকি নিজেদের সাহায্য করে, তাদের জন্য যা স্থির হয়েছে তা থেকে নিজেদের রক্ষা করতে পারবে? বাগাভী প্রথমটির অর্থ করেন: তারা কি তোমাদের থেকে শাস্তি ঠেকাতে পারবে? মুয়াসসার দুটোকে একটি বাক্যে বাঁধে: তারা কি শাস্তি সরিয়ে তোমাদের সাহায্য করতে পারে, নাকি নিজেদের থেকে তা সরিয়ে নিজেদের? সঙ্গে সঙ্গে জবাবও দেয়: এর কোনোটাই নয়।"
+          },
+          {
+            "en": "The order of the two questions is the sting. The first asks whether the gods can do for their worshippers what they were worshipped for. The second lowers the bar until it touches the ground: never mind you, can they even save themselves? Al-Qurtubi keeps the same two steps: can they help you against Allah's punishment, or help themselves? A related form of the same root sits in 37:25, what is the matter with you that you do not help one another, cited here only for the shared word. What cannot stand up for itself was never going to stand up for anyone else.",
+            "bn": "দুই প্রশ্নের ক্রমটাতেই আসল খোঁচা। প্রথমটি জানতে চায়, যে কাজের জন্য তাদের ইবাদত করা হতো, উপাসকদের জন্য সেটুকু তারা করতে পারে কি না। দ্বিতীয়টি মানদণ্ড নামিয়ে আনে একেবারে মাটিতে: তোমাদের কথা থাক, তারা কি অন্তত নিজেদের বাঁচাতে পারে? কুরতুবীও এই দুই ধাপ ধরে রাখেন: তারা কি আল্লাহর শাস্তি থেকে তোমাদের সাহায্য করতে পারে, নাকি নিজেদের? একই ধাতুর আরেক রূপ পাওয়া যায় ৩৭:২৫ আয়াতে: তোমাদের কী হলো, তোমরা একে অন্যকে সাহায্য করছ না কেন? শব্দের এই মিলটুকু দেখাতেই আয়াতটি এখানে আনা। যে নিজের পক্ষে দাঁড়াতে পারে না, সে কখনো অন্য কারও পক্ষেও দাঁড়াতে পারত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Silence for an Answer",
+          "bn": "উত্তরে শুধু নীরবতা"
+        },
+        "p": [
+          {
+            "en": "No reply is recorded. As-Sa'di reads that silence as the answer. None of that came to pass, he says: their lie became plain, and their disgrace; their loss came into view, and their exposure; their regret showed, and their striving went astray. The worshippers had spent a life on these gods, and the question does not invite them to defend the choice. It lets them watch it fail in front of them. As-Sa'di lists six things laid bare in one moment, and not one of them is something the worshippers could have wanted to be seen.",
+            "bn": "কোনো জবাবের কথা লেখা নেই। সা'দী এই নীরবতাকেই উত্তর হিসেবে পড়েন। তিনি বলেন, এর কিছুই ঘটল না। তাদের মিথ্যা প্রকাশ হয়ে গেল, প্রকাশ হলো তাদের লাঞ্ছনা। তাদের ক্ষতি চোখে পড়ল, চোখে পড়ল তাদের বেইজ্জতি। তাদের অনুতাপ ফুটে উঠল, আর তাদের সব চেষ্টা বিফলে গেল। এই উপাস্যদের পেছনে উপাসকেরা পুরো জীবন খরচ করেছিল, অথচ প্রশ্নটা তাদের সেই বাছাইয়ের পক্ষে সাফাই দিতে ডাকে না। বরং চোখের সামনে সেটার ভেঙে পড়া দেখতে দেয়। সা'দী এক মুহূর্তে খুলে যাওয়া ছয়টি জিনিসের কথা বলেন, আর তার একটিও উপাসকেরা কখনো প্রকাশ হোক বলে চাইত না।"
+          },
+          {
+            "en": "Ibn Kathir answers the questions in the words of another surah. The gods you worshipped besides Allah, he says, will not avail you today in anything, nor defend themselves, for you and they are today hasab of Hell, its fuel, and you will come down to it. That closing phrase is 21:98 almost word for word: you and what you worship besides Allah are the fuel of Hell. The commentators on our verse speak of idols and rivals, and in that same passage of Surat al-Anbiya the Qur'an sets apart those for whom good has already gone forth from Allah (21:101).",
+            "bn": "ইবন কাসীর প্রশ্নগুলোর জবাব দেন আরেক সূরার ভাষায়। তিনি বলেন, আল্লাহকে ছেড়ে তোমরা যেসব উপাস্যের ইবাদত করেছিলে, আজ তারা তোমাদের কোনো কাজে আসবে না, নিজেদেরও রক্ষা করবে না। কারণ আজ তোমরা আর তারা জাহান্নামের হাসাব, অর্থাৎ জ্বালানি, আর তাতে তোমরা নামবেই। শেষের কথাটুকু প্রায় হুবহু ২১:৯৮ আয়াত: তোমরা আর আল্লাহকে ছেড়ে যাদের ইবাদত করো, সবাই জাহান্নামের জ্বালানি। আমাদের আয়াতের তাফসীরকারেরা কথা বলছেন মূর্তি আর সমকক্ষদের নিয়ে। আর সূরা আল-আম্বিয়ার ওই একই অংশে কুরআন আলাদা করে রেখেছে তাদের, যাদের জন্য আল্লাহর পক্ষ থেকে কল্যাণ আগেই নির্ধারিত হয়ে আছে (২১:১০১)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Goes Down With Them",
+          "bn": "তাদের সঙ্গে কারা নামে"
+        },
+        "p": [
+          {
+            "en": "The question gets its answer by deed in the next verse: fa-kubkibu fiha hum wa-l-ghawun, so they will be toppled into it, they and the deviators. That verse has its own commentary, but one point bears directly on ours, because the commentators differ over who hum, they, are. As-Sa'di, on 26:94, says hum are what they used to worship, and al-ghawun are those who worshipped them. At-Tabari, on the same verse, reads it the same way: the rivals that were worshipped besides Allah are toppled into the Blaze, and the deviators with them.",
+            "bn": "প্রশ্নের জবাব আসে পরের আয়াতে, কথায় নয়, ঘটনায়: ফাকুবকিবূ ফীহা হুম ওয়াল গাবূন, অতঃপর তাদের উপুড় করে তাতে ফেলা হবে, তাদের আর পথভ্রষ্টদের। সে আয়াতের নিজস্ব আলোচনা আছে। তবে একটা কথা সরাসরি আমাদের আয়াতের সঙ্গে জড়িত, কারণ হুম, অর্থাৎ তারা বলতে কারা, তা নিয়ে তাফসীরকারদের মতভেদ আছে। সা'দী ২৬:৯৪ আয়াতে বলেন, হুম হলো তারা যাদের ইবাদত করা হতো, আর আল-গাবূন হলো তাদের উপাসকেরা। তাবারীও একই আয়াতে এভাবেই পড়েন: আল্লাহকে ছেড়ে যেসব সমকক্ষের ইবাদত করা হতো, তাদের উপুড় করে জাহান্নামে ফেলা হবে, সঙ্গে পথভ্রষ্টদেরও।"
+          },
+          {
+            "en": "Others draw the line elsewhere. At-Tabari reports from Qatada that al-ghawun here are the devils, so that the verse would mean the disbelievers who worshipped idols, and the devils. Al-Baghawi gives the devils as the view of Qatada and Muqatil, and adds al-Kalbi's view that they are the disbelieving jinn. Al-Qurtubi relays from as-Suddi the reverse of as-Sa'di's reading: hum are the idolaters of Arabia, and al-ghawun are the gods. These stand side by side as readings. On those of as-Sa'di, at-Tabari and as-Suddi, the gods asked after in 26:93 go down with those who served them.",
+            "bn": "অন্যরা রেখাটা টানেন ভিন্ন জায়গায়। তাবারী কাতাদা থেকে বর্ণনা করেন যে এখানে আল-গাবূন মানে শয়তানেরা। সে হিসেবে আয়াতের অর্থ দাঁড়ায়: যে কাফিরেরা মূর্তির ইবাদত করত তারা, আর শয়তানেরা। বাগাভী শয়তানদের কথাটি কাতাদা ও মুকাতিলের মত বলে উল্লেখ করেন, সঙ্গে কালবীর মতও আনেন যে এরা কাফির জিন। কুরতুবী সুদ্দী থেকে আনেন সা'দীর পাঠের ঠিক উল্টোটা: হুম হলো আরবের মুশরিকেরা, আর আল-গাবূন হলো উপাস্যরা। এগুলো পাশাপাশি থাকা ভিন্ন ভিন্ন পাঠ। সা'দী, তাবারী ও সুদ্দীর পাঠে ২৬:৯৩ আয়াতে যাদের খোঁজ নেওয়া হয়েছিল, সেই উপাস্যরা নামে তাদের সেবকদের সঙ্গেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Each Follows What It Served",
+          "bn": "যে যার উপাস্যের পিছে"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for 26:92 attaches a hadith to it, so what follows is a general narration about the same Day, not one the commentators tie to this verse. Bukhari records in his Sahih, from Abu Hurayra (RA), a long report about seeing Allah on the Day of Resurrection, and within it the Prophet ﷺ said: \"On the Day of Resurrection, people will be gathered and He will order the people to follow what they used to worship. So some of them will follow the sun, some will follow the moon, and some will follow other deities.\"",
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীর ২৬:৯২ আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। তাই নিচের বর্ণনাটি সেই একই দিন নিয়ে সাধারণ একটি হাদীস, তাফসীরকারেরা একে এ আয়াতের সঙ্গে বাঁধেননি। বুখারী তাঁর সহীহ গ্রন্থে আবু হুরায়রা (রাঃ) থেকে কিয়ামতের দিন আল্লাহকে দেখা নিয়ে দীর্ঘ এক বর্ণনা এনেছেন। তার ভেতরে নবী ﷺ বলেছেন: \"কিয়ামতের দিন মানুষকে একত্র করা হবে, তখন তিনি বলবেন, যে যার ইবাদত করত, সে যেন তার অনুসরণ করে। তখন তাদের কেউ সূর্যের অনুসরণ করবে, কেউ চাঁদের, আর কেউ অন্যান্য মিথ্যা উপাস্যের (তাগুত)।\""
+          },
+          {
+            "en": "The words that join it to our verse are what they used to worship: in the Arabic of the narration, kana with ya'budu, the same pairing the verse uses in kuntum ta'budun. In the narration the worship of a lifetime becomes the direction a person walks in on that Day; in the verse it becomes a question that cannot be answered. Both say one thing from two sides. Whatever a person served besides Allah is not left behind in the world. It is there at the gathering, and it can take no one anywhere safe.",
+            "bn": "আমাদের আয়াতের সঙ্গে এর যোগসূত্র হলো এই কথা: যে যার ইবাদত করত। হাদীসের আরবিতে আছে কানা আর ইয়া'বুদু, ঠিক যে জোড়া আয়াতে এসেছে কুনতুম তা'বুদূন রূপে। হাদীসে সারা জীবনের ইবাদত সেদিন হয়ে যায় মানুষের হাঁটার দিক। আয়াতে সেটাই হয়ে যায় এমন এক প্রশ্ন, যার কোনো জবাব নেই। দুটো একই কথা বলে দুই দিক থেকে। আল্লাহকে ছেড়ে মানুষ যার সেবা করেছে, তা দুনিয়ায় পড়ে থাকে না। হাশরের ময়দানে সেটা হাজির থাকে, আর কাউকেই সে নিরাপদ কোথাও নিয়ে যেতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard While It Can Change",
+          "bn": "শুধরানোর সময় থাকতেই শোনা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the Day of Resurrection will disclose about those the text calls al-ghawin, the deviators, and the gods they served. It licenses nothing against any living person or community. It is not a sentence to pronounce on a neighbour, on followers of another faith, or on a fellow Muslim whose practice you dislike, and no one is handed the right to say who will hear this question. Who stands in that crowd is known to Allah alone, and the sorting belongs to the Day, not to us.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করছে কিয়ামতের দিন কী প্রকাশ পাবে: যাদের কুরআন আল-গাবীন, অর্থাৎ পথভ্রষ্ট বলছে, তাদের আর তাদের উপাস্যদের অবস্থা। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশী, অন্য ধর্মের অনুসারী, কিংবা যে মুসলিম ভাইয়ের কোনো আমল আপনার পছন্দ নয়, কারও উপর রায় ঘোষণার জন্য এ আয়াত নয়। এ প্রশ্ন কে শুনবে, তা বলার অধিকার কাউকে দেওয়া হয়নি। সেই ভিড়ে কে দাঁড়াবে, তা শুধু আল্লাহ জানেন। বাছাইয়ের ভার সেই দিনের, আমাদের নয়।"
+          },
+          {
+            "en": "What the verse does hand me is the question itself, early. The idols of stone the commentators name may not tempt me, but the habit the verse exposes is wider: leaning with my whole weight on something that cannot hold itself up. Money, approval, a powerful patron, my own cleverness. Of each I can ask now what will be asked then: can it help me, or even help itself? The people in the verse hear the question once, with the Fire in view and no time left to change the answer. I am hearing it with time still left.",
+            "bn": "আয়াতটি আমার হাতে যা তুলে দেয়, তা হলো প্রশ্নটাই, আর আগেভাগে। তাফসীরকারেরা যে পাথরের মূর্তির কথা বলেন, তা হয়তো আমাকে টানে না। কিন্তু আয়াত যে অভ্যাসটা ধরিয়ে দেয়, তা আরও বড়: এমন কিছুর উপর পুরো ভর দেওয়া, যা নিজেই দাঁড়িয়ে থাকতে পারে না। টাকা, মানুষের বাহবা, ক্ষমতাধর কোনো মুরব্বি, নিজের চালাকি। এর প্রত্যেকটিকে এখনই সেই প্রশ্ন করা যায়, যা সেদিন করা হবে: এটা কি আমাকে বাঁচাতে পারবে, নাকি অন্তত নিজেকে? আয়াতের মানুষেরা প্রশ্নটা শুনবে একবার, চোখের সামনে আগুন, উত্তর বদলানোর সময় আর নেই। আমি শুনছি এমন সময়ে, যখন সময় এখনো বাকি।"
+          }
+        ]
+      }
+    ]
+  },
   "26:95": {
     "sections": [
       {

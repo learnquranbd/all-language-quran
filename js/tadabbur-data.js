@@ -35437,6 +35437,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Name plainly the Lord you believe in, so that no power around you can claim your words for itself; faith is owed to the One who sends, not to any man.",
     "lessonBn": "যে রবের উপর ঈমান রাখেন, তাঁর নাম স্পষ্ট করে নিন, যাতে আশপাশের কোনো ক্ষমতা আপনার কথাকে নিজের বলে দাবি করতে না পারে। ঈমান পাওনা তাঁর, যিনি পাঠান, কোনো মানুষের নয়।"
+  },
+  "26:92": {
+    "reflectionEn": "Before anyone is thrown in, there is a question. The Garden has been brought near for the God-fearing, the Fire set out in plain view of those who strayed, and then it is said to them: where are the things you used to worship besides God? Can they help you, or even help themselves? Nobody answers, because there is nothing left to say. Everything they leaned on stands in the same place, just as helpless. The question is asked there, but it is recorded here, where it can still be asked in time. What do I run to when I am afraid, or when I want to feel safe or seen? Could any of it rescue itself?",
+    "reflectionBn": "কাউকে আগুনে ফেলার আগে একটা প্রশ্ন আসে। মুত্তাকীদের জন্য জান্নাত কাছে আনা হয়েছে, পথভ্রষ্টদের চোখের সামনে খুলে রাখা হয়েছে জাহান্নাম। তারপর তাদের বলা হয়: আল্লাহকে ছেড়ে তোমরা যাদের ইবাদত করতে, তারা কোথায়? তারা কি তোমাদের সাহায্য করতে পারে, নাকি অন্তত নিজেদের? কেউ জবাব দেয় না, কারণ বলার মতো আর কিছুই নেই। যাদের উপর তারা ভর দিয়েছিল, তারাও একই জায়গায় দাঁড়িয়ে, একই রকম অসহায়। প্রশ্নটা করা হবে সেখানে, কিন্তু লেখা আছে এখানে, যেখানে সময় থাকতেই তা নিজেকে করা যায়। ভয় পেলে আমি কার কাছে ছুটে যাই? নিরাপদ বোধ করতে, কিংবা মানুষের চোখে পড়তে কিসের দিকে হাত বাড়াই? তার কোনোটা কি নিজেকে বাঁচাতে পারবে?",
+    "pointsEn": [
+      "When I am frightened or under pressure, what is the first thing I reach for, and could it save even itself?",
+      "Is there anything I give the fear, hope or devotion that belongs to Allah alone?",
+      "If someone asked of my money, my standing or my circle, \"where is it now?\", what would still be standing?",
+      "Which of my habits of trust would I be ashamed to hear named aloud on that Day?",
+      "What would it take for me to put this question to myself each day, while my answer can still change?"
+    ],
+    "pointsBn": [
+      "ভয় বা চাপের মুহূর্তে আমি প্রথমে কিসের দিকে হাত বাড়াই? সেটা কি অন্তত নিজেকে বাঁচাতে পারবে?",
+      "যে ভয়, আশা বা ভক্তি শুধু আল্লাহর প্রাপ্য, তার কিছু কি আমি অন্য কোথাও ঢেলে দিচ্ছি?",
+      "আমার টাকা, আমার মর্যাদা, আমার আপনজন, এদের নিয়ে কেউ যদি জিজ্ঞেস করে \"এখন সে কোথায়?\", তবে কী টিকে থাকবে?",
+      "কিসের উপর ভরসা করার কোন অভ্যাসটা সেদিন সবার সামনে উচ্চারিত হলে আমি লজ্জা পাব?",
+      "উত্তর বদলানোর সময় থাকতে থাকতেই প্রতিদিন এ প্রশ্ন নিজেকে করতে আমার কী লাগবে?"
+    ],
+    "lessonEn": "Ask now of everything you lean on besides Allah whether it could help you, or even help itself, while your answer can still change your course.",
+    "lessonBn": "আল্লাহ ছাড়া যার উপরই ভর দেন, এখনই তাকে প্রশ্ন করুন: সে কি আপনাকে বাঁচাতে পারবে, নাকি অন্তত নিজেকে? উত্তর বদলানোর সময় এখনো আছে।"
   }
 };
 
