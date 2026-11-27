@@ -35497,6 +35497,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah saved the believers before He drowned the rest; let the story turn you toward the call, and never read anyone's disaster today as His verdict on them.",
     "lessonBn": "বাকিদের ডোবানোর আগে আল্লাহ মুমিনদের রক্ষা করেছেন। কাহিনিটা যেন আপনাকে ডাকের দিকে ফেরায়, আর আজ কারও দুর্যোগকে কখনো তাদের উপর আল্লাহর রায় বলে পড়বেন না।"
+  },
+  "26:102": {
+    "reflectionEn": "The confession is over. They have sworn they were in plain error, named who misled them, and looked around for an intercessor and a true friend, and found neither. One thing is left to say, and it is a wish: if only we had one more turn, we would be among the believers. Everything they ask for is ordinary. A return to the world, a chance to believe, a place among the faithful. It is exactly what each living reader holds this morning, without asking. The verse does not let me pity them from a distance. It asks what I am doing with the turn they would give anything to have, and whether my own promises to change wait for a day that may not come.",
+    "reflectionBn": "স্বীকারোক্তি শেষ। তারা কসম খেয়ে বলেছে, তারা স্পষ্ট গুমরাহীতে ছিল। কে তাদের পথভ্রষ্ট করেছে, তা-ও বলেছে। তারপর একজন সুপারিশকারী আর একজন খাঁটি বন্ধু খুঁজেছে, কাউকে পায়নি। এখন বলার মতো আর একটা কথাই বাকি, আর সেটা একটা আকাঙ্ক্ষা: যদি আর একবার ফিরে যেতে পারতাম, আমরা মুমিনদের দলে থাকতাম। তারা যা চাইছে তা খুবই সাধারণ জিনিস। দুনিয়ায় ফেরা, ঈমান আনার সুযোগ, মুমিনদের মাঝে একটু জায়গা। জীবিত প্রত্যেক পাঠক আজ সকালে ঠিক এটাই হাতে পেয়েছে, না চেয়েই। আয়াতটি আমাকে দূরে দাঁড়িয়ে তাদের জন্য আফসোস করতে দেয় না। বরং জিজ্ঞেস করে, যে সুযোগের জন্য তারা সবকিছু দিয়ে দিতে রাজি, সেই সুযোগ দিয়ে আমি কী করছি? আর বদলে যাওয়ার যত প্রতিজ্ঞা আমি করি, সেগুলো কি এমন এক দিনের অপেক্ষায় পড়ে আছে, যে দিন হয়তো আসবেই না?",
+    "pointsEn": [
+      "If I were granted the return they beg for, what is the first thing I would change, and why have I not changed it already?",
+      "Which of my plans to turn back to Allah begins with the words 'one day', 'after this' or 'when things settle'?",
+      "Am I counted among the believers only by name, or by what I do with my days?",
+      "What do I tell myself about my own sincerity that I have never tested by acting on it?",
+      "Whose company am I choosing now, and would it be the company I wish for at the end?"
+    ],
+    "pointsBn": [
+      "তারা যে ফিরে আসার জন্য কাকুতি করছে, তা যদি আমাকে দেওয়া হতো, সবার আগে আমি কী বদলাতাম? আর সেটা এখনো কেন বদলাইনি?",
+      "আল্লাহর দিকে ফেরার আমার কোন পরিকল্পনাগুলো শুরু হয় 'একদিন', 'এটা শেষ হলে' বা 'সব গুছিয়ে নিয়ে' কথা দিয়ে?",
+      "আমি কি শুধু নামে মুমিনদের দলে, নাকি দিনগুলো কীভাবে কাটাই তা দিয়েও?",
+      "নিজের আন্তরিকতা নিয়ে নিজেকে যা বলি, তার কোনটা কখনো কাজে নেমে যাচাই করে দেখিনি?",
+      "এখন আমি কাদের সঙ্গ বেছে নিচ্ছি? শেষ বেলায় যে সঙ্গ পেতে চাইব, এটা কি সেই সঙ্গ?"
+    ],
+    "lessonEn": "The return they beg for in the Fire is the life you are living now. Believe and act today, while the turn is still yours.",
+    "lessonBn": "আগুনের ভেতরে তারা যে ফিরে আসার জন্য কাকুতি করে, সেটাই আপনার আজকের এই জীবন। সুযোগ হাতে থাকতেই আজ ঈমান আনুন, আমল করুন।"
   }
 };
 

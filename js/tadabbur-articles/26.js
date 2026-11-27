@@ -5043,6 +5043,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:102": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Last Line of the Speech",
+          "bn": "বক্তব্যের শেষ বাক্য"
+        },
+        "p": [
+          {
+            "en": "In Arabic the verse has seven words: fa-law anna lana karratan fa-nakuna mina l-mu'minin, if only we had a return, so that we could be among the believers. It closes a speech that began in 26:96, when the deviators, thrown into the Fire, fell to disputing there. They have sworn they were in manifest error, blamed the criminals who misled them, and found no intercessor and no devoted friend; that loss has its own article under 26:100. What is left after it is a wish.",
+            "bn": "আরবিতে আয়াতটিতে সাতটি শব্দ: ফালাও আন্না লানা কাররাতান ফানাকূনা মিনাল মু'মিনীন। অর্থ, যদি আমাদের একবার ফিরে যাওয়ার সুযোগ হতো, তাহলে আমরা মুমিনদের দলে থাকতাম। ২৬:৯৬ আয়াতে যে কথা শুরু হয়েছিল, এ আয়াতে তা শেষ হয়। পথভ্রষ্টদের আগুনে ছুড়ে ফেলা হয়েছে, আর সেখানে তারা পরস্পর ঝগড়ায় লেগে গেছে। কসম খেয়ে বলেছে, তারা স্পষ্ট গুমরাহীতে ছিল। যে অপরাধীরা তাদের বিপথে নিয়েছে, তাদের দোষ দিয়েছে। তারপর দেখেছে, কোনো সুপারিশকারী নেই, অন্তরঙ্গ বন্ধুও নেই। সেই শূন্যতার আলোচনা ২৬:১০০ আয়াতের প্রবন্ধে আছে। তার পরে বাকি থাকে শুধু একটা আকাঙ্ক্ষা।"
+          },
+          {
+            "en": "The scene sits inside the account of Ibrahim (AS), which opens at 26:69 with the command to recite his news. Maududi, in his note on 26:90 to 26:102, says these verses do not seem to be part of Ibrahim's speech; they are Allah's own words. Ibn Kathir, on this verse, points to Surah Sad, where Allah tells of the quarrel of the people of the Fire and then says: that is the truth, the quarrelling of the people of the Fire (38:64).",
+            "bn": "দৃশ্যটি বসানো আছে ইবরাহীম (আঃ)-এর কাহিনির ভেতরে। কাহিনি শুরু ২৬:৬৯ আয়াতে, তাঁর খবর শোনানোর আদেশ দিয়ে। মওদূদী ২৬:৯০ থেকে ২৬:১০২ আয়াতের টীকায় বলেন, এ আয়াতগুলো ইবরাহীম (আঃ)-এর বক্তব্যের অংশ বলে মনে হয় না। এগুলো আল্লাহর নিজের কথা। ইবন কাসীর এ আয়াতের আলোচনায় সূরা সোয়াদের দিকে ইঙ্গিত করেন। সেখানে আল্লাহ জাহান্নামবাসীদের ঝগড়ার কথা বলে তারপর বলেছেন: নিশ্চয়ই এটা সত্য, জাহান্নামবাসীদের পারস্পরিক বিবাদ (৩৮:৬৪)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One More Turn at Life",
+          "bn": "জীবনে আরেকবার ফেরা"
+        },
+        "p": [
+          {
+            "en": "Karrah is the word the commentators stop on first, and they agree about it. At-Tabari glosses it as raj'a, a going back, and names the destination: a return to the world, so that we would believe in Allah. Al-Baghawi gives the same gloss: a return in the world. As-Sa'di doubles it, a return to the world and a restoring to it, and the Muyassar keeps to one phrase, a return to the world. Tanwir al-Miqbas, the commentary attributed to Ibn Abbas, renders it as another turn in the life of the world.",
+            "bn": "তাফসীরকারেরা প্রথমে থামেন কাররাহ শব্দে, আর এর অর্থে তাঁরা একমত। তাবারী এর ব্যাখ্যা দেন রাজআহ দিয়ে, মানে ফিরে যাওয়া। কোথায় ফেরা, তা-ও বলে দেন: দুনিয়ায় ফেরা, যাতে আমরা আল্লাহর উপর ঈমান আনতে পারি। বাগাভীও একই কথা বলেন: দুনিয়াতে ফিরে যাওয়া। সা'দী দুটি শব্দ পাশাপাশি রাখেন: দুনিয়ায় ফেরা এবং আবার সেখানে পাঠানো। মুয়াসসার এক কথাতেই থামে: দুনিয়ায় ফিরে যাওয়া। ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাস এর অর্থ করে: দুনিয়ার জীবনে আরেকটি পালা।"
+          },
+          {
+            "en": "Nearly the same words occur twice more in the Qur'an. In 2:167, with the punishment in sight, those who followed say law anna lana karratan, wishing for a turn so that they could disown the leaders who had disowned them. In 39:58 a single soul says it in the singular, law anna li karratan, on seeing the punishment, wishing to be among the doers of good. Here the wish is to be among the believers. Three hopes hang on one phrase, each spoken once the punishment is in view.",
+            "bn": "প্রায় একই শব্দ কুরআনে আরও দুই জায়গায় এসেছে। ২:১৬৭ আয়াতে আযাব যখন চোখের সামনে, তখন অনুসারীরা বলে: লাও আন্না লানা কাররাতান। তারা ফেরার সুযোগ চায়, যাতে যে নেতারা তাদের সঙ্গ ছেড়ে দিয়েছে, তারাও সেই নেতাদের ছেড়ে দিতে পারে। ৩৯:৫৮ আয়াতে একজন মানুষ আযাব দেখে একবচনে একই কথা বলে: লাও আন্না লী কাররাতান। সে চায় সৎকর্মশীলদের দলে থাকতে। আর এখানে আকাঙ্ক্ষা মুমিনদের দলে থাকার। একই বাক্যাংশে তিনটি ভিন্ন আশা ঝুলে আছে, আর প্রতিটিই উচ্চারিত হয় আযাব দেখার পর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Wish Shaped Like a Condition",
+          "bn": "শর্তের ছাঁচে এক আকাঙ্ক্ষা"
+        },
+        "p": [
+          {
+            "en": "Law, if, usually opens a condition; the commentators read it here as closer to a sigh. The Muyassar replaces it outright with layta, would that: would that we had a return to the world. Ibn Kathir describes the speakers as wishing, yatamannawn, that they could be sent back. Al-Qurtubi uses the same verb in the past and adds a judgement on it: they wished at a time when wishing no longer benefits them. Al-Jalalayn names the grammar: law here is a conditional optative, a condition voiced as a wish, and the verb nakuna, we would be, stands as its response.",
+            "bn": "লাও শব্দের সাধারণ অর্থ 'যদি', এ দিয়ে সাধারণত শর্ত শুরু হয়। কিন্তু তাফসীরকারেরা এখানে একে পড়েন দীর্ঘশ্বাসের মতো করে। মুয়াসসার সরাসরি শব্দটা বদলে লাইতা বসায়, মানে 'হায়, যদি': হায়, যদি দুনিয়ায় আমাদের একবার ফেরা হতো! ইবন কাসীর বলেন, তারা ইয়াতামান্নাওন, মানে কামনা করে যে তাদের ফিরিয়ে দেওয়া হোক। কুরতুবী একই ক্রিয়া অতীতকালে এনে তার উপর রায়ও দেন: তারা এমন সময় কামনা করল, যখন কামনা আর কোনো উপকারে আসে না। জালালাইন ব্যাকরণটা খুলে বলে: এখানে লাও শর্তযুক্ত কামনার জন্য, মানে কামনার সুরে বলা এক শর্ত। আর নাকূনা, মানে 'আমরা হতাম', তারই জবাব।"
+          },
+          {
+            "en": "Al-Qurtubi also unpacks the sentence as a condition. He notes that anna and what follows stand in the nominative position, and gives the sense with an implied verb: if a return were to happen to us, we would believe, so that we would have intercessors. Read either way, as a wish or as a condition with its answer, the sentence leaves the speakers holding nothing: a condition they cannot bring about, attached to a promise no one is asking them to keep.",
+            "bn": "কুরতুবী বাক্যটিকে শর্ত হিসেবেও খুলে দেখান। তিনি বলেন, আন্না এবং তার পরের অংশ এখানে রফা'র অবস্থানে আছে। একটি উহ্য ক্রিয়া ধরে তিনি অর্থ দাঁড় করান: যদি আমাদের একবার ফেরা ঘটত, আমরা ঈমান আনতাম, যাতে আমাদের সুপারিশকারী থাকে। কামনা হিসেবে পড়ুন, কিংবা জবাবসহ শর্ত হিসেবে, দুভাবেই বক্তাদের হাত খালি। এমন এক শর্ত, যা পূরণ করার ক্ষমতা তাদের নেই। তার সঙ্গে জোড়া এমন এক প্রতিশ্রুতি, যা রাখার জন্য কেউ আর তাদের ডাকছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Return Would Buy",
+          "bn": "ফেরা দিয়ে তারা কী চায়"
+        },
+        "p": [
+          {
+            "en": "What do they want the return for? The verse says only: to be among the believers. The commentators fill in what that would mean, each in a clause, and they do not fill it in the same way. At-Tabari puts the weight on the act itself: so that we would believe in Allah, and by our believing in Him be among the believers. On his paraphrase, a place among the believers is not a label handed over at the gate. It is reached bi-imanina, through our own faith.",
+            "bn": "ফেরার সুযোগ দিয়ে তারা কী করতে চায়? আয়াত শুধু বলে: মুমিনদের দলে থাকতে। এর মানে কী, তাফসীরকারেরা এক এক বাক্যে তা খুলে বলেন, তবে সবাই একভাবে নয়। তাবারী জোর দেন কাজটার উপর: যাতে আমরা আল্লাহর উপর ঈমান আনি, আর তাঁর উপর ঈমানের মাধ্যমে মুমিনদের অন্তর্ভুক্ত হই। তাঁর ব্যাখ্যায় মুমিনদের দলে জায়গা দরজায় দাঁড়িয়ে পাওয়া কোনো তকমা নয়। সে জায়গায় পৌঁছাতে হয় বিঈমানিনা, নিজের ঈমান দিয়ে।"
+          },
+          {
+            "en": "The others name other gains. As-Sa'di names safety and wage: so that we may be spared the punishment and earn the reward. The Muyassar names a company: so that we become part of the believers who are saved, al-najin. Al-Qurtubi, as the previous section showed, names intercession: we would believe, so that we would have intercessors. Ibn Kathir names obedience: they wish to be sent back to the world so that they can act in obedience to their Lord.",
+            "bn": "অন্যরা অন্য লাভের কথা বলেন। সা'দীর কথায় লাভ হলো নিরাপত্তা আর প্রতিদান: যাতে আমরা আযাব থেকে বাঁচি আর সওয়াবের হকদার হই। মুয়াসসার বলে এক দলের কথা: যাতে আমরা নাজাতপ্রাপ্ত মুমিনদের একজন হয়ে যাই, আন-নাজীন। কুরতুবীর কথা আগের অংশেই এসেছে: আমরা ঈমান আনতাম, যাতে আমাদের সুপারিশকারী থাকে। ইবন কাসীর বলেন আনুগত্যের কথা: তারা দুনিয়ায় ফিরতে চায়, যাতে রবের আনুগত্যের কাজ করতে পারে।"
+          },
+          {
+            "en": "The commentators do not argue with one another here; each brings out one part of a single hope. Together the parts show how much the speakers ask one return to carry: their own faith, escape from punishment, a share of reward, a saved company, someone to plead for them, a life of obedience. Part for part, it is what a living believer already holds, or can still reach, without begging for a return.",
+            "bn": "এখানে তাফসীরকারেরা একে অন্যের বিরোধিতা করছেন না। প্রত্যেকে একটা আশারই এক একটা দিক তুলে ধরছেন। দিকগুলো একসঙ্গে রাখলে বোঝা যায়, একবার ফেরার উপর বক্তারা কত কিছুর ভার চাপাচ্ছে: নিজের ঈমান, আযাব থেকে মুক্তি, প্রতিদানের অংশ, নাজাতপ্রাপ্তদের সঙ্গ, তাদের পক্ষে সুপারিশ করার মতো কেউ, আনুগত্যের এক জীবন। অথচ এর প্রতিটি জিনিস জীবিত একজন মুমিনের হাতে হয় আছে, নয়তো এখনো তার নাগালে। সেজন্য তাকে ফেরার জন্য কাকুতি করতে হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Words: As They Claim",
+          "bn": "দুটি শব্দ: তাদের দাবিমতে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir slips two words into his paraphrase that change its tone: fima yaz'umun, as they claim. They wish to be sent back to the world to act in obedience to their Lord, as they claim; and He, glorified and exalted, knows that if He returned them to the world they would go back to what they were forbidden, and that they are liars. The last clause is not his own coinage. It is the wording of 6:28, where the same wish, voiced as they are made to stand before the Fire in 6:27, meets the same answer.",
+            "bn": "ইবন কাসীর তাঁর ব্যাখ্যায় দুটি শব্দ জুড়ে দেন, যাতে পুরো কথার সুরই বদলে যায়: ফীমা ইয়াযউমূন, মানে তাদের দাবিমতে। তারা দুনিয়ায় ফিরে গিয়ে রবের আনুগত্য করতে চায়, তাদের দাবিমতে। অথচ মহান আল্লাহ জানেন, তিনি যদি তাদের দুনিয়ায় ফিরিয়েও দেন, যা থেকে তাদের নিষেধ করা হয়েছিল তারা আবার তা-ই করবে, আর তারা মিথ্যাবাদী। শেষ বাক্যটি ইবন কাসীরের নিজের বানানো নয়। এটি ৬:২৮ আয়াতের শব্দ। ৬:২৭ আয়াতে আগুনের সামনে দাঁড় করানোর সময় তারা একই আকাঙ্ক্ষা প্রকাশ করে, আর সেখানেও একই জবাব আসে।"
+          },
+          {
+            "en": "Maududi makes the link explicit. On this verse he says the Qur'an has already answered this kind of longing, and he quotes 6:28: even if they were sent back to earthly life, they would do all that they had been forbidden to do. What is weighed in both places is not how the speakers feel at that moment. It is what they would do if the Fire were taken out of their sight and the old life handed back. That, Ibn Kathir says, is something Allah knows, and the verse leaves the knowledge with Him.",
+            "bn": "মওদূদী সংযোগটা সরাসরি বলে দেন। এ আয়াতের টীকায় তিনি বলেন, এমন আকাঙ্ক্ষার জবাব কুরআন আগেই দিয়ে রেখেছে, আর ৬:২৮ আয়াত উদ্ধৃত করেন: তাদের যদি দুনিয়ার জীবনে ফেরত পাঠানোও হয়, যা কিছু তাদের নিষেধ করা হয়েছিল তারা তা-ই করবে। দুই জায়গাতেই যা মাপা হচ্ছে, তা ওই মুহূর্তে বক্তাদের মনের অবস্থা নয়। মাপা হচ্ছে, আগুন চোখের সামনে থেকে সরিয়ে পুরোনো জীবন ফিরিয়ে দিলে তারা কী করত। ইবন কাসীর বলেন, সেটা আল্লাহ জানেন। আয়াতও সেই জ্ঞান তাঁর কাছেই রেখে দেয়।"
+          },
+          {
+            "en": "That is where the verse turns towards the reader, and where it must not be turned outward. A promise of the form if only I had, then I would, costs nothing; its measure is what is done while the chance is in hand. Nor does the verse license anyone to call another person's repentance a lie. The knowledge Ibn Kathir appeals to is Allah's alone, and it concerns people already in the Fire.",
+            "bn": "এখানে এসে আয়াতটি পাঠকের দিকে ফেরে, আর এখানেই একে অন্যের দিকে ঘুরিয়ে দেওয়া চলে না। 'যদি আমার থাকত, তাহলে আমি করতাম' ধরনের প্রতিজ্ঞা করতে কিছুই খরচ হয় না। তার আসল মাপ হলো, সুযোগ হাতে থাকতে কী করা হলো। আবার এ আয়াত কাউকে এই অনুমতিও দেয় না যে সে অন্যের তওবাকে মিথ্যা বলবে। ইবন কাসীর যে জ্ঞানের কথা বলেন, তা শুধু আল্লাহর, আর তা আগুনে পৌঁছে যাওয়া মানুষদের নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pledges Already Closed",
+          "bn": "বন্ধক আর ছাড়ানো যায় না"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di answers the wish in his own voice, in three short clauses. Hayhat, hayhat: far, far from it. A barrier has been set between them and what they desire. And the pledges have been closed on them, qad ghuliqat minhum al-ruhun. The second clause borrows its words from 34:54, where a barrier is placed between the deniers and what they desire. The third uses the language of rahn, a pledge handed over as security, and pictures those pledges as locked shut, with nothing left that the speakers can do to release them.",
+            "bn": "সা'দী এ আকাঙ্ক্ষার জবাব দেন নিজের ভাষায়, তিনটি ছোট বাক্যে। হাইহাতা হাইহাত: কত দূর, কত দূর! তারা যা চায় আর তাদের মাঝে আড়াল টেনে দেওয়া হয়েছে। আর তাদের বন্ধকগুলো আটকে গেছে, কাদ গুলিকাত মিনহুমুর রুহূন। দ্বিতীয় বাক্যের শব্দগুলো এসেছে ৩৪:৫৪ আয়াত থেকে, যেখানে অস্বীকারকারী আর তাদের কামনার জিনিসের মাঝে আড়াল টেনে দেওয়া হয়। তৃতীয় বাক্যে তিনি রাহন শব্দ ব্যবহার করেন, মানে জামানত হিসেবে রেখে দেওয়া বন্ধক। সেই বন্ধকগুলোকে তিনি দেখান তালাবদ্ধ অবস্থায়। ছাড়িয়ে আনার মতো কিছুই আর বক্তাদের হাতে নেই।"
+          },
+          {
+            "en": "Maududi, on this verse, sends the reader to his notes on 23:99 and 23:100 for the reasons the return is refused. There he gathers the places where the same plea recurs: 6:27 and 6:28, 7:53, 14:44 and 14:45, this verse, 35:37, 39:58 and 39:59, 40:10 to 40:12, and 42:44. Each of the criminals, he writes, will plead again and again, from his death until his entry into Hell and even after it, to be sent back to the world so that he can do righteous deeds and disobey no more.",
+            "bn": "মওদূদী এ আয়াতের টীকায় পাঠককে পাঠান ২৩:৯৯ ও ২৩:১০০ আয়াতের টীকায়। ফেরার আবেদন কেন নাকচ হয়, তা সেখানে বলা আছে। তিনি সেসব জায়গাও একত্র করেন, যেখানে একই আবেদন বারবার এসেছে: ৬:২৭ ও ৬:২৮, ৭:৫৩, ১৪:৪৪ ও ১৪:৪৫, এই আয়াত, ৩৫:৩৭, ৩৯:৫৮ ও ৩৯:৫৯, ৪০:১০ থেকে ৪০:১২, এবং ৪২:৪৪। তিনি লেখেন, অপরাধীদের প্রত্যেকে মৃত্যুর সময় থেকে জাহান্নামে ঢোকা পর্যন্ত, এমনকি তার পরেও, বারবার কাকুতি করবে: আমাকে দুনিয়ায় ফিরিয়ে দাও, আর নাফরমানি করব না, এবার নেক আমল করব।"
+          },
+          {
+            "en": "His reason is a single sentence: he will never be sent back or given another chance, for then the test for which man is sent into this world would become meaningless. On the barrier of 23:100 he adds that it stands between them and the world and will not let them return to it. As-Sa'di's refusal and Maududi's say the same thing from two sides. The way back is shut, and it is shut because the life behind it was itself the test.",
+            "bn": "তাঁর যুক্তি এক বাক্যের: তাকে আর কখনো ফেরত পাঠানো হবে না, নতুন সুযোগও দেওয়া হবে না। কারণ তাহলে যে পরীক্ষার জন্য মানুষকে দুনিয়ায় পাঠানো হয়েছে, সেটাই অর্থহীন হয়ে পড়ে। ২৩:১০০ আয়াতের আড়াল সম্পর্কে তিনি যোগ করেন, এটি তাদের আর দুনিয়ার মাঝে দাঁড়িয়ে থাকে, সেখানে ফিরতে দেয় না। সা'দীর জবাব আর মওদূদীর জবাব একই কথা বলে দুই দিক থেকে। ফেরার পথ বন্ধ, আর বন্ধ এজন্য যে পেছনে ফেলে আসা জীবনটাই ছিল পরীক্ষা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shown the Seat They Lost",
+          "bn": "হারানো আসনটি দেখানো হয়"
+        },
+        "p": [
+          {
+            "en": "No commentary consulted attaches a sound hadith to this verse. Al-Qurtubi, under it, relays from Jabir ibn Abdullah (RA) a report raised to the Prophet (ﷺ) about a man in Paradise and his friend in the Fire. He names no collection for it and gives no grading, so it is only mentioned here and nothing is built on it. He also relays a story from Ka'b about two friends, which is Ka'b's report and not the Prophet's words; it is not used. One sound narration on a nearby theme is set beside the verse instead.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। কুরতুবী এখানে জাবির ইবন আবদুল্লাহ (রাঃ)-এর সূত্রে নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা আনেন, জান্নাতের এক ব্যক্তি আর জাহান্নামে থাকা তার বন্ধুকে নিয়ে। তিনি এর কোনো সংকলনের নাম বলেননি, মানও জানাননি। তাই এখানে শুধু উল্লেখ করা হলো, এর উপর কিছু দাঁড় করানো হচ্ছে না। কা'ব থেকে দুই বন্ধুর একটি গল্পও তিনি আনেন। সেটা কা'বের বর্ণনা, নবী ﷺ-এর কথা নয়, তাই নেওয়া হয়নি। বরং কাছাকাছি বিষয়ের একটি সহীহ বর্ণনা এখানে আয়াতের পাশে রাখা হলো।"
+          },
+          {
+            "en": "In Sahih al-Bukhari, Abu Hurayra (RA) reports that the Prophet (ﷺ) said: \"None will enter Paradise but will be shown the place he would have occupied in the (Hell) Fire if he had rejected faith, so that he may be more thankful; and none will enter the (Hell) Fire but will be shown the place he would have occupied in Paradise if he had faith, so that may be a cause of sorrow for him.\" The word for sorrow in the Arabic is hasrah. The same root gives hasarat, regrets, in 2:167, a few words after the followers' law anna lana karratan.",
+            "bn": "সহীহ বুখারীতে আবু হুরায়রা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"যে কেউ জান্নাতে প্রবেশ করবে, তাকে জাহান্নামে তার সেই জায়গা দেখানো হবে, যেখানে সে থাকত যদি ঈমান প্রত্যাখ্যান করত, যাতে তার কৃতজ্ঞতা আরও বাড়ে। আর যে কেউ জাহান্নামে প্রবেশ করবে, তাকে জান্নাতে তার সেই জায়গা দেখানো হবে, যেখানে সে থাকত যদি ঈমান আনত, যাতে তা তার জন্য আফসোসের কারণ হয়।\" আরবিতে আফসোসের শব্দটি হাসরাহ। একই ধাতু থেকে এসেছে হাসারাত, মানে আক্ষেপ, যা ২:১৬৭ আয়াতে অনুসারীদের লাও আন্না লানা কাররাতান কথাটির কয়েক শব্দ পরেই আছে।"
+          },
+          {
+            "en": "Set beside the verse, the hadith gives the wish a backdrop. On its account the people of the Fire are not picturing in the abstract a life they might have had; they are shown its place. The hadith speaks of the Hereafter at large and does not mention this verse, and no commentator consulted connects the two. It is placed here as a companion to the verse, not as its explanation.",
+            "bn": "আয়াতের পাশে রাখলে হাদীসটি আকাঙ্ক্ষার পেছনের ছবিটা দেখায়। জাহান্নামবাসীরা শুধু কল্পনায় এক সম্ভাব্য জীবনের কথা ভাবছে না। হাদীসের বর্ণনামতে তাদের সেই জীবনের জায়গাটা দেখানো হয়। হাদীসটি সাধারণভাবে আখিরাতের কথা বলে, এ আয়াতের উল্লেখ তাতে নেই, আর দেখা কোনো তাফসীরকারও দুটিকে জোড়েননি। তাই এটি এখানে আয়াতের সঙ্গী হিসেবে রাখা হলো, আয়াতের ব্যাখ্যা হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Refrain and the Reader",
+          "bn": "ধুয়া আর পাঠক"
+        },
+        "p": [
+          {
+            "en": "The next two verses close the account of Ibrahim (AS) with the refrain this surah repeats: in that is a sign, yet most of them were not believers, and your Lord is the Mighty, the Merciful (26:103 and 26:104). Ibn Kathir reads the sign as Ibrahim's argument with his people and his proof that there is no god but Allah. The wish of 26:102 is the last voice heard before that refrain. Whoever hears the sign while still alive has what the speakers in the Fire are asking for.",
+            "bn": "পরের দুই আয়াত ইবরাহীম (আঃ)-এর কাহিনি শেষ করে সেই ধুয়া দিয়ে, যা এ সূরায় বারবার ফিরে আসে: নিশ্চয়ই এতে নিদর্শন আছে, তবু তাদের অধিকাংশ মুমিন ছিল না। আর তোমার রব, তিনিই মহাপরাক্রমশালী, পরম দয়ালু (২৬:১০৩ ও ২৬:১০৪)। ইবন কাসীরের মতে নিদর্শনটি হলো কওমের সঙ্গে ইবরাহীম (আঃ)-এর বিতর্ক, আর আল্লাহ ছাড়া কোনো ইলাহ নেই, তাঁর এই প্রমাণ। ধুয়ার ঠিক আগে শেষ যে কণ্ঠ শোনা যায়, তা ২৬:১০২ আয়াতের এই আকাঙ্ক্ষা। জীবিত অবস্থায় যে এ নিদর্শন শোনে, আগুনের বক্তারা যা চাইছে তা তার হাতেই আছে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: people in the Fire, on the Day of Judgement, wishing for a return they will not be given. It licenses nothing against any living person or community. No one may say of a neighbour, a relative or a whole people that they are the speakers here; that end is Allah's alone to decide. The verse's one use for the living is inward. The turn those speakers beg for is the turn the reader stands in today.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি ঠিক ততটুকুই বর্ণনা করে, যতটুকু পাঠে আছে: বিচার দিবসে আগুনের ভেতরের কিছু মানুষ, যারা এমন এক ফেরার কামনা করছে যা তাদের দেওয়া হবে না। জীবিত কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো প্রতিবেশী, আত্মীয় বা গোটা কোনো জাতি সম্পর্কে কেউ বলতে পারে না যে এরাই এখানকার বক্তা। সেই পরিণতির ফয়সালা কেবল আল্লাহর। জীবিতদের জন্য আয়াতটির একটাই কাজ, নিজের দিকে তাকানো। ওই বক্তারা যে সুযোগের জন্য কাকুতি করছে, পাঠক আজ ঠিক সেই সুযোগের ভেতরেই দাঁড়িয়ে আছে।"
+          }
+        ]
+      }
+    ]
+  },
   "26:106": {
     "sections": [
       {
