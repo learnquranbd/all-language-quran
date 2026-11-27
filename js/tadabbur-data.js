@@ -37093,6 +37093,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Bear opposition with patience and leave the outcome to Allah; and see the truth now, while seeing it can still change what you do.",
     "lessonBn": "বিরোধিতার মুখে ধৈর্য ধরুন, শেষ ফল আল্লাহর হাতে ছেড়ে দিন। আর সত্যটা এখনই দেখুন, যখন দেখলে এখনো আমল বদলানো যায়।"
+  },
+  "37:147": {
+    "reflectionEn": "A few verses ago he was inside the fish. Then he lay sick on a bare shore, shaded by a gourd vine. Now the Qur'an says: and We sent him to a hundred thousand or more. The man whom the sea had closed over is not set aside; he is given a people to call. Whether this sending came before the fish or after it, the commentators differ, but the Qur'an tells it here, after the rescue, and the next verse says they believed. The words 'or more' remind me that Allah knew every one of them, when a human eye could only guess at the crowd. When I have fallen short in some duty, do I quietly decide that its door has closed on me?",
+    "reflectionBn": "কয়েক আয়াত আগেও তিনি ছিলেন মাছের পেটে। তারপর অসুস্থ শরীরে পড়ে ছিলেন খোলা তীরে, মাথার উপর লাউগাছের ছায়া। এবার কুরআন বলছে: আর আমি তাঁকে পাঠালাম এক লাখ বা তার চেয়েও বেশি মানুষের কাছে। যাঁর উপর সমুদ্র বন্ধ হয়ে গিয়েছিল, তাঁকে একপাশে সরিয়ে রাখা হয়নি। তাঁর হাতে তুলে দেওয়া হয়েছে গোটা এক জনপদকে ডাকার দায়িত্ব। এই পাঠানো মাছের আগে না পরে, তা নিয়ে তাফসীরকারদের মতভেদ আছে। তবে কুরআন কথাটা বলছে এখানে, উদ্ধারের পরে, আর পরের আয়াতই জানায় যে তারা ঈমান এনেছিল। 'বা তার চেয়েও বেশি' কথাটা মনে করিয়ে দেয়, আল্লাহ তাদের প্রত্যেককে চিনতেন, অথচ মানুষের চোখ ভিড়টা আন্দাজই করতে পারত। কোনো দায়িত্বে পিছিয়ে পড়লে আমি কি চুপচাপ ধরে নিই যে সে দরজা আমার জন্য বন্ধ হয়ে গেছে?",
+    "pointsEn": [
+      "After a failure of mine, have I treated the work I was given as lost to me, when it may yet be handed back?",
+      "Who are the people my own work reaches, and do I see them as a number or as souls Allah knows one by one?",
+      "When I was left weak and exposed on a bare shore of my own, what did Allah grow over me to shade me?",
+      "Do I carry what is good only to those I expect to welcome it, or to everyone I have been placed among?",
+      "If I were sent back tomorrow to the people I once walked away from, what would I say to them first?"
+    ],
+    "pointsBn": [
+      "কোনো ব্যর্থতার পর যে কাজ আমাকে দেওয়া হয়েছিল, তাকে কি আমি চিরতরে হারানো ধরে নিয়েছি, অথচ তা হয়তো আবার আমার হাতেই ফিরে আসবে?",
+      "আমার কাজ কাদের কাছে পৌঁছায়? তাদের আমি কি একটা সংখ্যা হিসেবে দেখি, নাকি এমন মানুষ হিসেবে, যাদের প্রত্যেককে আল্লাহ আলাদা করে চেনেন?",
+      "যখন আমিও দুর্বল আর অসহায় অবস্থায় নিজের কোনো খোলা তীরে পড়ে ছিলাম, তখন আল্লাহ আমার মাথার উপর কোন ছায়া জন্মিয়ে দিয়েছিলেন?",
+      "ভালো কথা কি আমি শুধু তাদের কাছেই নিয়ে যাই, যারা খুশি হয়ে নেবে বলে আশা করি? নাকি যাদের মাঝে আমাকে রাখা হয়েছে, তাদের সবার কাছে?",
+      "যাদের ছেড়ে একদিন চলে এসেছিলাম, কাল যদি তাদের কাছেই আমাকে ফেরত পাঠানো হয়, প্রথম কোন কথাটা বলব?"
+    ],
+    "lessonEn": "A fall does not end the work Allah entrusts to you. Go back to it and carry it to all it reaches; He knows each of them, where you see only a crowd.",
+    "lessonBn": "পড়ে যাওয়া মানেই আল্লাহর দেওয়া কাজের শেষ নয়। সে কাজে ফিরে যান, যাদের কাছে পৌঁছায় সবার কাছে পৌঁছে দিন। আপনি দেখেন কেবল ভিড়, তিনি চেনেন প্রত্যেককে।"
   }
 };
 

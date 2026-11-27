@@ -7475,6 +7475,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:147": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Mission After the Shore",
+          "bn": "তীরের পরে রিসালাতের দায়িত্ব"
+        },
+        "p": [
+          {
+            "en": "Wa arsalnahu ila mi'ati alfin aw yazidun: and We sent him to a hundred thousand or more. These six Arabic words follow the scene of 37:145 and 37:146, where Yunus (AS) lies sick on a bare shore beneath a gourd vine. At-Tabari gives the plain sense first: so We sent Yunus to a hundred thousand people, or they exceeded a hundred thousand. Al-Muyassar, which treats this verse together with the next, reads it as a hundred thousand of his people, rather more, who believed him and acted on what he brought.",
+            "bn": "ওয়া আরসালনাহু ইলা মিআতি আলফিন আও ইয়াযীদূন: আর আমি তাঁকে পাঠালাম এক লাখ বা তার চেয়েও বেশি মানুষের কাছে। আরবিতে মোট ছয়টি শব্দ। এর ঠিক আগে ৩৭:১৪৫ ও ৩৭:১৪৬ আয়াতের দৃশ্য: ইউনুস (আঃ) অসুস্থ অবস্থায় পড়ে আছেন খোলা তীরে, মাথার উপর লাউগাছ। তাবারী প্রথমে সোজা অর্থটা দেন। আল্লাহ ইউনুসকে পাঠালেন এক লাখ মানুষের কাছে, কিংবা তারা ছিল লাখের চেয়েও বেশি। মুয়াসসার এ আয়াত আর পরেরটি একসঙ্গে ব্যাখ্যা করে। তার পাঠে এরা তাঁর নিজের কওমের এক লাখ লোক, বরং আরও বেশি, যারা তাঁকে সত্য বলে মেনেছিল আর তাঁর আনা বিধান অনুযায়ী আমল করেছিল।"
+          },
+          {
+            "en": "As-Sa'di reads the verse as a gift rather than a sentence. Then Allah showed him a further kindness, he writes, and bestowed on him a very great favour: He sent him to a hundred thousand people or more, and Yunus called them to Allah. The following verse, 37:148, completes the line: they believed, so We gave them enjoyment for a while. Where the account could have closed on the rescue alone, it closes instead on a mission and on those who answered it.",
+            "bn": "সা'দীর কাছে আয়াতটি শাস্তির রায় নয়, বরং দান। তিনি লেখেন, এরপর আল্লাহ তাঁর প্রতি আরেকটি অনুগ্রহ করলেন, তাঁকে দিলেন বিরাট এক নিয়ামত। তাঁকে পাঠালেন এক লাখ বা তার বেশি মানুষের কাছে, আর ইউনুস (আঃ) তাদের আল্লাহর দিকে ডাকলেন। পরের আয়াত, ৩৭:১৪৮, কথাটা পূর্ণ করে: তারা ঈমান আনল, তাই আমি তাদের কিছুকাল জীবন উপভোগ করতে দিলাম। কাহিনিটা শুধু উদ্ধারেই থেমে যেতে পারত। কিন্তু থামল দাওয়াতের দায়িত্বে আর সে ডাকে সাড়া দেওয়া মানুষদের কথায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Fish, or After",
+          "bn": "মাছের আগে, নাকি পরে"
+        },
+        "p": [
+          {
+            "en": "The commentators disagree over when this sending took place, and its position in the account does not settle the question. One side holds that it came before the fish. At-Tabari reports from Mujahid that these are the people of Yunus to whom he was sent before the fish swallowed him. Through Qatada he also reports al-Hasan: Allah sent him before what befell him befell him. Al-Baghawi gives the same view from Qatada and reads the verb to match it: wa arsalnahu means wa qad arsalnahu, and We had already sent him.",
+            "bn": "এই পাঠানো কখন ঘটেছিল, তা নিয়ে তাফসীরকারদের মতভেদ আছে। কাহিনিতে আয়াতটির অবস্থান দেখে প্রশ্নটার মীমাংসা হয় না। একপক্ষের মতে এটা মাছের ঘটনার আগের কথা। তাবারী মুজাহিদ থেকে বর্ণনা করেন: এরা ইউনুসের সেই কওম, মাছ তাঁকে গিলে ফেলার আগেই যাদের কাছে তাঁকে পাঠানো হয়েছিল। কাতাদার সূত্রে তিনি হাসানের কথাও আনেন: যা ঘটার তা ঘটার আগেই আল্লাহ তাঁকে পাঠিয়েছিলেন। বাগাভীও কাতাদা থেকে একই মত আনেন এবং ক্রিয়াটিকে সেভাবেই পড়েন। তাঁর মতে ওয়া আরসালনাহু মানে ওয়া কাদ আরসালনাহু, অর্থাৎ আমি তো তাঁকে আগেই পাঠিয়েছিলাম।"
+          },
+          {
+            "en": "The other side holds that it came after. At-Tabari, and Ibn Kathir after him, report from Shahr ibn Hawshab, from Ibn Abbas: the mission of Yunus came only after the fish had cast him out. At-Tabari also gives a longer account from Shahr himself, in which the fish carries Yunus (AS) past al-Ayla and along the Tigris before casting him out at Nineveh. Al-Baghawi records this side as well, under the word qila, it is said: his sending to them came after he left the belly of the fish.",
+            "bn": "অন্যপক্ষের মতে পাঠানো হয়েছিল পরে। তাবারী, আর তাঁর পরে ইবন কাসীর, শাহর ইবন হাওশাবের সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: মাছ তাঁকে বাইরে ফেলে দেওয়ার পরেই ইউনুসের রিসালাত শুরু হয়। তাবারী শাহরের নিজের মুখের একটি দীর্ঘ বিবরণও আনেন। সেখানে মাছ ইউনুস (আঃ)-কে নিয়ে আল-আইলা পেরিয়ে দজলা নদী ধরে এগিয়ে যায়, শেষে তাঁকে ফেলে দেয় নিনাওয়ায়। বাগাভীও এই মতটি লিখেছেন, তবে 'বলা হয়' কথাটি দিয়ে: মাছের পেট থেকে বের হওয়ার পরেই তাঁকে তাদের কাছে পাঠানো হয়।"
+          },
+          {
+            "en": "Al-Qurtubi weighs the two routes. He notes that the report from Ibn Abbas placing the mission after the fish has no route except through Shahr ibn Hawshab. He then quotes an-Nahhas, who calls a report from Abdullah ibn Mas'ud better in its chain and sounder. In it Ibn Mas'ud relates that Yunus (AS) had told his people the punishment would come within three days, that they separated every mother from her child, went out, cried to Allah and sought His forgiveness, and that Allah held the punishment back. From this, an-Nahhas concludes, it is clear that he was sent before the fish took him.",
+            "bn": "কুরতুবী দুই সূত্র পাশাপাশি রেখে মেপে দেখেন। তিনি জানান, মাছের পরে রিসালাত শুরু হওয়ার যে বর্ণনা ইবন আব্বাস থেকে আসে, তার শাহর ইবন হাওশাব ছাড়া আর কোনো সূত্র নেই। তারপর তিনি নাহহাসের কথা উদ্ধৃত করেন। নাহহাসের মতে আবদুল্লাহ ইবন মাসউদ (রাঃ)-এর একটি বর্ণনার সনদ এর চেয়ে ভালো, আর তা বেশি সহীহ। সে বর্ণনায় ইবন মাসউদ বলেন, ইউনুস (আঃ) কওমকে জানিয়েছিলেন ৩ দিনের মধ্যে আযাব আসবে। তারা প্রতিটি মাকে তার সন্তান থেকে আলাদা করল, বেরিয়ে এসে আল্লাহর কাছে কাকুতি জানাল, ইস্তিগফার করল। আল্লাহ আযাব ফিরিয়ে নিলেন। নাহহাস বলেন, এ থেকেই স্পষ্ট যে মাছ তাঁকে গিলে ফেলার আগেই তাঁকে পাঠানো হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sent Back to the Same People?",
+          "bn": "একই কওমের কাছে ফেরত?"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets out both reports and then gives his own view, marked qultu, I say: nothing prevents those to whom he was first sent from being the ones he was commanded to return to after he came out of the fish, and they then all believed him. On this reading the two sides need not clash at all.",
+            "bn": "ইবন কাসীর দুটি বর্ণনাই সামনে রাখেন, তারপর 'আমি বলি' দিয়ে নিজের মত জানান। যাদের কাছে তাঁকে প্রথমে পাঠানো হয়েছিল, মাছ থেকে বেরোনোর পর তাদের কাছেই ফিরে যাওয়ার আদেশ তাঁকে দেওয়া হয়ে থাকতে পারে। এতে কোনো বাধা নেই। আর তখন তারা সবাই তাঁকে সত্য বলে মেনে নেয়। এভাবে পড়লে দুই মতের মধ্যে কোনো সংঘাতই থাকে না।"
+          },
+          {
+            "en": "A third view is also on record. Al-Baghawi lists, again under qila, that he was sent to another people, and Ibn Kathir reports from al-Baghawi that after leaving the fish he was sent to a different nation, who numbered a hundred thousand or more. All three positions stand as the sources give them: before the fish, after it to the same people, or after it to others. What the verse itself states is the sending and the number, and on these the sources agree.",
+            "bn": "তৃতীয় আরেকটি মতও পাওয়া যায়। বাগাভী এটাও 'বলা হয়' দিয়ে আনেন: তাঁকে পাঠানো হয়েছিল অন্য এক কওমের কাছে। ইবন কাসীরও বাগাভীর বরাতে বলেন, মাছ থেকে বের হওয়ার পর তাঁকে ভিন্ন এক জাতির কাছে পাঠানো হয়, যাদের সংখ্যা ছিল এক লাখ বা তার বেশি। তিনটি মতই তাই যেমন আছে তেমন থাকছে: মাছের আগে, মাছের পরে একই কওমের কাছে, কিংবা মাছের পরে অন্যদের কাছে। আয়াত নিজে যা বলে তা হলো পাঠানো আর সংখ্যা, আর এ দুটিতে সব সূত্র একমত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A City That Cried Out",
+          "bn": "এক জনপদের আকুল ডাক"
+        },
+        "p": [
+          {
+            "en": "Who were these people? At-Tabari's own statement is that Allah meant the people of Yunus whom he had warned of the punishment; when it overshadowed them they repented, and Allah lifted it from them. He adds, under it is said, that they were the people of Nineveh, and reports from Qatada that Yunus was sent to the people of Nineveh in the land of Mosul. Al-Baghawi gives the same place from Qatada. The Qur'an itself names no city here; the name comes from these early reports.",
+            "bn": "এরা কারা ছিল? তাবারীর নিজের কথা হলো, আল্লাহ এখানে ইউনুসের সেই কওমের কথাই বলছেন, যাদের তিনি আযাবের সতর্কবাণী দিয়েছিলেন। আযাব যখন তাদের মাথার উপর ছায়া ফেলল, তারা তওবা করল, আর আল্লাহ তা সরিয়ে নিলেন। এরপর তিনি 'বলা হয়' দিয়ে যোগ করেন যে তারা ছিল নিনাওয়ার অধিবাসী। কাতাদা থেকেও বর্ণনা করেন: ইউনুসকে পাঠানো হয়েছিল মসুল অঞ্চলের নিনাওয়াবাসীর কাছে। বাগাভীও কাতাদা থেকে একই জায়গার নাম দেন। কুরআন নিজে এখানে কোনো শহরের নাম বলেনি। নামটা এসেছে প্রথম যুগের এসব বর্ণনা থেকে।"
+          },
+          {
+            "en": "At-Tabari also reports Sa'id ibn Jubayr on what happened once the punishment had been sent upon them. They separated the women from their children and the animals from their young, raised their voices to Allah, and the punishment was lifted from them. Sa'id adds, in the same report, that the sky rained blood. The Qur'an's own words on the outcome are in the next verse, 37:148, and in 10:98, which speaks of the people of Yunus by name.",
+            "bn": "তাবারী সাঈদ ইবন জুবাইরের একটি বর্ণনাও আনেন, তাদের উপর আযাব পাঠানোর পর কী ঘটেছিল তা নিয়ে। তারা মায়েদের থেকে সন্তানদের আলাদা করল, পশুদের থেকে আলাদা করল তাদের বাচ্চাদের। তারপর উচ্চস্বরে আল্লাহর কাছে কাকুতি জানাল, আর আযাব তাদের উপর থেকে উঠে গেল। একই বর্ণনায় সাঈদ এ কথাও যোগ করেন যে আকাশ থেকে রক্তবৃষ্টি হয়েছিল। পরিণতি নিয়ে কুরআনের নিজের কথা আছে পরের আয়াত ৩৭:১৪৮-এ, আর ১০:৯৮ আয়াতে, যেখানে ইউনুসের কওমের নাম ধরেই বলা হয়েছে।"
+          },
+          {
+            "en": "On when they repented, al-Qurtubi's text gives two positions. Drawing on the report of Ibn Mas'ud, the passage he quotes from an-Nahhas finds that the people of Yunus believed and regretted before they saw the punishment, and calls this the correct view: their case was therefore not like that of those in 40:85, whose faith did not benefit them once they saw Our might, or of those in 4:18, who repent only when death comes. The text then records some scholars who say they saw signs of the punishment and repented, and adds that this is not ruled out.",
+            "bn": "তারা ঠিক কখন তওবা করেছিল, এ নিয়ে কুরতুবীর লেখায় দুটি মত আছে। নাহহাস থেকে তিনি যে অংশটি উদ্ধৃত করেন, তা ইবন মাসউদের বর্ণনার ভিত্তিতে বলে: ইউনুসের কওম আযাব দেখার আগেই ঈমান এনেছিল আর অনুতপ্ত হয়েছিল। এ অংশ একে সঠিক মত বলে। তাই তাদের অবস্থা ৪০:৮৫ আয়াতের লোকদের মতো ছিল না, যাদের ঈমান আল্লাহর শাস্তি দেখে ফেলার পর আর কোনো কাজে আসেনি। ৪:১৮ আয়াতের লোকদের মতোও নয়, যারা তওবা করে মৃত্যু সামনে এসে দাঁড়ালে। এরপর লেখাটি কিছু আলিমের মত আনে, যাঁরা বলেন তারা আযাবের আলামত দেখে তওবা করেছিল। সঙ্গে যোগ করে যে এ মতও বাতিল নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Aw Is Doing Here",
+          "bn": "এখানে 'আও' শব্দের কাজ"
+        },
+        "p": [
+          {
+            "en": "The verse ends on two words, aw yazidun, or they are more. In ordinary Arabic aw offers alternatives, and the commentators ask how it can stand in Allah's own report of a number. One answer gives aw the sense of bal, rather. At-Tabari reports it with its chain from Ibn Abbas: rather, they were more, a hundred and thirty thousand. Al-Qurtubi records the same sense from al-Farra', al-Baghawi from Muqatil and al-Kalbi, and Ibn Kathir from Ibn Abbas in one of his reports. Al-Muyassar folds it into its paraphrase: a hundred thousand, rather more.",
+            "bn": "আয়াতের শেষ দুটি শব্দ আও ইয়াযীদূন: বা তারা আরও বেশি। সাধারণ আরবিতে 'আও' দুটি সম্ভাবনার একটি বোঝায়। তাই তাফসীরকারেরা প্রশ্ন তোলেন, আল্লাহ নিজে যখন একটা সংখ্যা জানাচ্ছেন, তখন এ শব্দ সেখানে কীভাবে বসে। একটি জবাব হলো, 'আও' এখানে 'বাল' অর্থে, মানে বরং। তাবারী সনদসহ ইবন আব্বাস থেকে আনেন: বরং তারা ছিল আরও বেশি, এক লাখ ত্রিশ হাজার। কুরতুবী একই অর্থ আনেন ফাররা থেকে, বাগাভী মুকাতিল ও কালবী থেকে, আর ইবন কাসীর ইবন আব্বাসের এক বর্ণনা থেকে। মুয়াসসার নিজের ব্যাখ্যায় কথাটা মিশিয়ে দেয়: এক লাখ, বরং আরও বেশি।"
+          },
+          {
+            "en": "A second answer gives aw the sense of wa, and. Al-Qurtubi records it from other scholars, citing a line of poetry in which aw joins two names as and would. Al-Baghawi attributes this sense to Ibn Abbas, comparing 77:6, udhran aw nudhran, and says that most hold the meaning to be: and they are more. So Ibn Abbas is reported for rather in at-Tabari and for and in al-Baghawi. Al-Qurtubi adds that Ja'far ibn Muhammad recited wa yazidun, without the hamza of aw, which makes the and explicit: and they are more.",
+            "bn": "দ্বিতীয় জবাব হলো, 'আও' এখানে 'ওয়া' অর্থে, মানে এবং। কুরতুবী অন্য আলিমদের থেকে এ মত আনেন। প্রমাণ হিসেবে দেন একটি কবিতার চরণ, যেখানে 'আও' দুটি নামকে 'এবং'-এর মতোই জুড়ে দিয়েছে। বাগাভী এ অর্থ ইবন আব্বাসের দিকে সম্পৃক্ত করেন, তুলনা টানেন ৭৭:৬ আয়াতের উযরান আও নুযরান দিয়ে। তিনি আরও বলেন, অধিকাংশের মতে অর্থ হলো: এবং তারা আরও বেশি। অর্থাৎ তাবারীতে ইবন আব্বাসের নামে আছে 'বরং', আর বাগাভীতে 'এবং'। কুরতুবী যোগ করেন, জা'ফর ইবন মুহাম্মাদ পড়েছেন ওয়া ইয়াযীদূন, 'আও'-এর হামযা ছাড়া। এতে 'এবং' অর্থটা সরাসরি এসে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counted as Onlookers Count",
+          "bn": "দর্শকের চোখে যে গণনা"
+        },
+        "p": [
+          {
+            "en": "A third answer keeps aw in its own meaning and places the uncertainty in people, not in Allah's knowledge. At-Tabari reports some Basran scholars of Arabic: to a hundred thousand, or they were more in your reckoning. Al-Baghawi gives it from az-Zajjaj: as when a man sees a crowd and says, these are a thousand or more; the doubt lies in the estimate of created beings. Al-Qurtubi has it from al-Akhfash and az-Zajjaj, and from al-Mubarrad: a multitude of whom you would have said, had you seen them, a hundred thousand or more.",
+            "bn": "তৃতীয় জবাব 'আও'-কে তার নিজের অর্থেই রাখে। অনিশ্চয়তাটা সেখানে মানুষের, আল্লাহর জ্ঞানের নয়। তাবারী বসরার কিছু আরবি ভাষাবিদের কথা আনেন: এক লাখের কাছে, কিংবা তোমাদের হিসাবে তারা আরও বেশি। বাগাভী যাজ্জাজের সূত্রে বলেন, কেউ একদল লোক দেখে যেমন বলে, এরা হাজারখানেক হবে বা আরও বেশি। সন্দেহটা সৃষ্টির আন্দাজে, স্রষ্টার জ্ঞানে নয়। কুরতুবী এ মত আনেন আখফাশ ও যাজ্জাজ থেকে, আর মুবাররাদ থেকেও: এমন এক বিশাল দল, তোমরা দেখলে বলতে এক লাখ বা তার বেশি।"
+          },
+          {
+            "en": "Al-Mubarrad's line ends with the reason: servants are addressed in terms of what they know. Ma'arif al-Qur'an takes the same route, citing the Mazhari: the statement matches how ordinary people see, so that anyone looking at them would have said a hundred thousand or somewhat more. It then gives a second answer from Maulana Ashraf Ali Thanavi: nothing is being doubted at all, since leaving off the fraction they were a hundred thousand, and counting it they were more. Al-Qurtubi also records that aw can work as when a speaker who knows leaves the answer open for the listener.",
+            "bn": "মুবাররাদ কারণটাও বলে দেন: বান্দাদের সঙ্গে কথা বলা হয়েছে তাদের চেনা হিসাবের ভাষায়। মাআরিফুল কুরআনও মাযহারীর বরাতে একই পথ ধরে। কথাটা সাধারণ মানুষের দেখার সঙ্গে মিলিয়ে বলা, কেউ তাদের দেখলে বলত এক লাখ বা তার কিছু বেশি। এরপর সেখানে মাওলানা আশরাফ আলী থানভীর আরেকটি জবাব আছে। তাঁর মতে এখানে কোনো সন্দেহই প্রকাশ করা হয়নি। ভগ্নাংশ বাদ দিলে তারা ছিল এক লাখ, আর ভগ্নাংশ ধরলে লাখের বেশি। কুরতুবী আরেকটি মতও আনেন: যে বক্তা উত্তর জানেন, তিনিও কখনো শ্রোতার জন্য কথাটা খোলা রেখে দেন, 'আও' সেভাবেও বসতে পারে।"
+          },
+          {
+            "en": "Al-Qurtubi quotes an-Nahhas saying that neither rather nor and holds for the Basrans: bal marks turning away from a first statement, and Allah is exalted above that, while wa means something other than aw. Ibn Kathir notes that at-Tabari reads this verse as he reads 2:74, like stones or harder still, 4:77, fearing people as one fears Allah or more, and 53:9, two bow-lengths or nearer: the meaning is not less than that, but more. As-Sa'di says it in one line: if they did not exceed it, they did not fall short of it.",
+            "bn": "প্রথম দুই জবাবের বিরুদ্ধে কুরতুবী নাহহাসের কথা উদ্ধৃত করেন: বসরার আলিমদের কাছে 'বরং' বা 'এবং', কোনো অর্থই টেকে না। 'বাল' দিয়ে প্রথম কথা থেকে সরে আসা বোঝায়, আর আল্লাহ এর অনেক ঊর্ধ্বে। আর 'ওয়া'-র অর্থ 'আও' থেকে আলাদা। ইবন কাসীর জানান, তাবারী এ আয়াতকে পড়েছেন ২:৭৪ (পাথরের মতো বা তার চেয়েও কঠিন), ৪:৭৭ (আল্লাহকে যেমন ভয় করে তেমন বা তার চেয়েও বেশি) আর ৫৩:৯ (দুই ধনুকের দূরত্ব বা আরও কাছে) আয়াতের মতো করে। অর্থাৎ এর কম নয়, বরং বেশি। সা'দী একটিমাত্র বাক্যে বলেন: তারা এর বেশি না হলেও কম ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Figures the Reports Give",
+          "bn": "বর্ণনায় আসা সংখ্যাগুলো"
+        },
+        "p": [
+          {
+            "en": "How many more? The verse does not say, and the figures in the commentaries are reports, not part of its text. Ibn Kathir gives three from Ibn Abbas: a hundred and thirty thousand, a hundred thousand and some thirty thousand, and a hundred thousand and some forty thousand. Sa'id ibn Jubayr, in at-Tabari and al-Baghawi, said seventy thousand more. Makhul, in a report Ibn Kathir takes from Ibn Abi Hatim, said a hundred and ten thousand. Al-Qurtubi gives some thirty thousand more from al-Hasan and ar-Rabi', and seventy thousand from Muqatil ibn Hayyan.",
+            "bn": "আরও কত বেশি? আয়াত তা বলেনি। তাফসীরে যে সংখ্যাগুলো পাওয়া যায় সেগুলো বর্ণনা, আয়াতের পাঠের অংশ নয়। ইবন কাসীর ইবন আব্বাস থেকে তিনটি সংখ্যা আনেন: এক লাখ ত্রিশ হাজার, এক লাখ আর ত্রিশ হাজারের কিছু বেশি, আর এক লাখ আর চল্লিশ হাজারের কিছু বেশি। তাবারী ও বাগাভীতে সাঈদ ইবন জুবাইর বলেন, সত্তর হাজার বেশি। ইবন কাসীর ইবন আবী হাতিম থেকে মাকহূলের কথা আনেন: এক লাখ ১০ হাজার। কুরতুবী হাসান ও রাবী' থেকে আনেন ত্রিশ হাজারের কিছু বেশি, আর মুকাতিল ইবন হাইয়ান থেকে সত্তর হাজার।"
+          },
+          {
+            "en": "These reports do not agree with one another, and none is taken here as the count. One narration on the size of the increase is raised to the Prophet ﷺ. At-Tirmidhi records it from Ubayy ibn Ka'b, with an unnamed man in its chain, and grades it gharib; at-Tabari, Ibn Kathir, al-Qurtubi and al-Baghawi relay it too. Because the collector himself grades it gharib, it is mentioned here and neither quoted nor built on. No fetched tafsir attaches a sound hadith to this verse.",
+            "bn": "এসব বর্ণনা একটি আরেকটির সঙ্গে মেলে না, আর এখানে কোনোটিকেই আসল সংখ্যা হিসেবে ধরা হচ্ছে না। বাড়তি সংখ্যাটা কত, এ নিয়ে একটি বর্ণনা নবী ﷺ-এর দিকে সম্পৃক্ত। তিরমিযী তা উবাই ইবন কা'ব (রাঃ) থেকে এনেছেন, তার সনদে এক নামহীন ব্যক্তি আছে, আর তিনি নিজেই একে গরীব বলেছেন। তাবারী, ইবন কাসীর, কুরতুবী ও বাগাভীও এটি উল্লেখ করেছেন। সংকলক নিজে গরীব বলায় এখানে শুধু উল্লেখ করা হলো। এটি উদ্ধৃতও করা হচ্ছে না, এর উপর কিছু দাঁড় করানোও হচ্ছে না। এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "They Believed, and Lived On",
+          "bn": "তারা ঈমান আনল, বেঁচে রইল"
+        },
+        "p": [
+          {
+            "en": "The very next verse closes the account: fa-amanu fa-matta'nahum ila hin, and they believed, so We gave them enjoyment for a while. Ibn Kathir reads it as all those to whom he was sent believing, with the enjoyment lasting until their appointed end; al-Muyassar likewise speaks of life until their terms were reached. Ibn Kathir sets it beside 10:98, where the people of Yunus are named as the exception, a town that believed and whose belief benefited it, and the same words close that verse: wa matta'nahum ila hin.",
+            "bn": "পরের আয়াতেই কাহিনির সমাপ্তি: ফাআমানূ ফামাত্তা'নাহুম ইলা হীন, তারা ঈমান আনল, তাই আমি তাদের কিছুকাল জীবন উপভোগ করতে দিলাম। ইবন কাসীরের পাঠে যাদের কাছে তাঁকে পাঠানো হয়েছিল তারা সবাই ঈমান এনেছিল, আর এই উপভোগ চলেছিল তাদের নির্ধারিত সময় পর্যন্ত। মুয়াসসারও বলে, আয়ু ফুরানো পর্যন্ত জীবন। ইবন কাসীর এর পাশে রাখেন ১০:৯৮ আয়াত। সেখানে ইউনুসের কওমকে ব্যতিক্রম হিসেবে নাম ধরে উল্লেখ করা হয়েছে: এমন এক জনপদ, যারা ঈমান এনেছিল আর ঈমান তাদের কাজে এসেছিল। সে আয়াতও শেষ হয় একই কথায়: ওয়া মাত্তা'নাহুম ইলা হীন।"
+          },
+          {
+            "en": "This needs saying plainly. These verses describe one people in one account, who were warned, believed and were spared. The verse licenses no judgement on any living person or community, whether to call a people saved or doomed, and no measuring of anyone's faith by a count or a crowd. What it records is a prophet restored to his task, a number Allah knew exactly where people could only estimate, and a people who answered the call.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতগুলো একটি কাহিনিতে একটি কওমের কথা বলে, যাদের সতর্ক করা হয়েছিল, যারা ঈমান এনেছিল আর রক্ষা পেয়েছিল। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের ব্যাপারে রায় দেওয়ার অনুমতি এ আয়াত দেয় না। কাউকে মুক্তিপ্রাপ্ত বা ধ্বংসপ্রাপ্ত ঘোষণা করার অনুমতিও না। গোনা মাথা বা ভিড়ের আকার দিয়ে কারও ঈমান মাপারও না। আয়াত যা ধরে রাখে তা হলো: দায়িত্বে ফিরে আসা এক নবী, এমন এক সংখ্যা যা আল্লাহ ঠিক ঠিক জানতেন অথচ মানুষ আন্দাজ করত, আর ডাকে সাড়া দেওয়া এক কওম।"
+          },
+          {
+            "en": "For the reader, the order of the verses carries its own weight. The shore and the vine come first, then the sending, then the belief. Whichever timing one follows, the Qur'an tells of the mission after the rescue. A low point, then, need not be where a person's work ends. And those that work reaches are never a vague crowd: the One who sent Yunus (AS) knew them to the last soul, even when human eyes could only say a hundred thousand or more.",
+            "bn": "পাঠকের জন্য আয়াতগুলোর ক্রমের মধ্যেই একটা কথা আছে। আগে তীর আর লাউগাছ, তারপর পাঠানো, তারপর ঈমান। সময় নিয়ে যে মতই নেওয়া হোক, কুরআন রিসালাতের কথা বলছে উদ্ধারের পরে। জীবনের সবচেয়ে নিচু জায়গাটাই তাই মানুষের কাজের শেষ ঠিকানা হতে হবে, এমন নয়। আর সেই কাজ যাদের কাছে পৌঁছায়, তারা কখনো নামহীন ভিড় নয়। যিনি ইউনুস (আঃ)-কে পাঠিয়েছিলেন, তিনি তাদের শেষ মানুষটিকেও চিনতেন, যখন মানুষের চোখ বড়জোর বলতে পারত এক লাখ বা তার বেশি।"
+          }
+        ]
+      }
+    ]
+  },
   "37:150": {
     "sections": [
       {
