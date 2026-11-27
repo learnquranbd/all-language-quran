@@ -1491,6 +1491,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "34:31": {
+    "sections": [
+      {
+        "h": {
+          "en": "Refused Here, Held There",
+          "bn": "এখানে অস্বীকার, সেখানে আটক"
+        },
+        "p": [
+          {
+            "en": "Wa qala alladhina kafaru lan nu'mina bi-hadha al-Qur'ani wa la bi-alladhi bayna yadayhi: and those who disbelieve say, we will never believe in this Qur'an nor in what is before it. As-Sa'di reads the verse in sequence with what has just been said. Allah had told those who hastened the punishment that their appointed Day must come when its term arrives (34:29 and 34:30). Here He shows their state on that Day, stood before their Lord, leaders and followers gathered together in disbelief and error.",
+            "bn": "ওয়া কালাল্লাযীনা কাফারূ লান নু'মিনা বিহাযাল কুরআনি ওয়া লা বিল্লাযী বাইনা ইয়াদাইহি: আর কাফিররা বলে, এ কুরআনে আমরা কখনো ঈমান আনব না, এর আগে যা আছে তাতেও না। সা'দী আয়াতটিকে পড়েন ঠিক আগের কথার সঙ্গে মিলিয়ে। যারা শাস্তি নিয়ে তাড়াহুড়া করছিল, আল্লাহ তাদের বলেছিলেন, মেয়াদ পূর্ণ হলে তাদের নির্ধারিত দিন আসবেই (৩৪:২৯ ও ৩৪:৩০)। এখানে তিনি দেখান সেদিন তাদের অবস্থা কেমন হবে। তাদের দাঁড় করানো হয়েছে রবের সামনে, আর নেতা ও অনুসারী সবাই সেখানে একত্র, কুফর আর গোমরাহিতে একই কাতারে।"
+          },
+          {
+            "en": "The commentators name the speakers in different terms. At-Tabari says they are the idolaters of the Arabs, refusing the Qur'an that Muhammad ﷺ brought and the scripture that another brought before it. Al-Qurtubi says the verse means the disbelievers of Quraysh, and records from Ibn Jurayj that the man who said it was Abu Jahl ibn Hisham. Ibn Kathir frames the clause as Allah's report of the disbelievers' persistence in transgression and stubbornness, and of their insistence on not believing the Qur'an and what it told of the Return.",
+            "bn": "কারা এ কথা বলেছিল, তাফসীরকারেরা তা বলেন ভিন্ন ভিন্ন শব্দে। তাবারীর মতে তারা আরবের মুশরিকরা। মুহাম্মাদ ﷺ যে কুরআন এনেছেন সেটাও তারা মানে না, তাঁর আগে অন্য কেউ যে কিতাব এনেছেন সেটাও না। কুরতুবী বলেন, এখানে উদ্দেশ্য কুরাইশের কাফিররা। তিনি ইবন জুরাইজ থেকে উল্লেখ করেন, কথাটা যে বলেছিল সে আবু জাহল ইবন হিশাম। ইবন কাসীর এ অংশকে দেখেন আল্লাহর দেওয়া এক খবর হিসেবে: কাফিররা তাদের সীমালঙ্ঘন আর জেদে অটল, কুরআনে এবং কুরআন যে পুনরুত্থানের সংবাদ দেয় তাতে ঈমান না আনার ব্যাপারে তারা নাছোড়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Earlier Books, or the Return",
+          "bn": "আগের কিতাব, নাকি আখিরাত"
+        },
+        "p": [
+          {
+            "en": "Bayna yadayhi, literally between its hands, is whatever stands before the Qur'an. At-Tabari, with his chain to Qatada, gives the idolaters' words as: we will not believe in this Qur'an nor in what came before it of the books and the prophets. Al-Qurtubi relays the same from Sa'id from Qatada. Al-Baghawi names the Torah and the Injil. The Muyassar names the Torah, the Injil and the Zabur, and states the conclusion plainly: they belied all of Allah's books.",
+            "bn": "বাইনা ইয়াদাইহি, শব্দে শব্দে 'তার দুই হাতের মাঝে', মানে কুরআনের সামনে বা আগে যা আছে। তাবারী নিজের সনদে কাতাদা থেকে মুশরিকদের কথাটা এভাবে আনেন: এ কুরআনে আমরা ঈমান আনব না, এর আগে যত কিতাব আর নবী এসেছেন তাঁদের প্রতিও না। কুরতুবীও সাঈদের সূত্রে কাতাদা থেকে একই কথা উদ্ধৃত করেন। বাগাভী নাম ধরে বলেন তাওরাত ও ইনজীলের কথা। মুয়াসসার যোগ করে যাবূরও, আর ফলাফলটা সোজাসুজি বলে দেয়: তারা আল্লাহর সব কিতাবকেই মিথ্যা বলেছে।"
+          },
+          {
+            "en": "Al-Qurtubi then records a second reading without naming its holder, under the words it is said: what is before it means the Hereafter. Al-Jalalayn, on the quranx page for this verse, holds the first reading but ties it to the second. What preceded it, such as the Torah and the Gospel, both contain proofs of the Resurrection, and they were rejected because the Resurrection itself was denied. Most commentators fetched here give the earlier scriptures; al-Qurtubi alone records the Hereafter, and gives no name for it.",
+            "bn": "এরপর কুরতুবী আরেকটি ব্যাখ্যা আনেন 'বলা হয়' কথাটি দিয়ে, কার মত তা না বলে: আগে যা আছে মানে আখিরাত। কুরআনএক্স পাতায় এ আয়াতের নিচে জালালাইন প্রথম ব্যাখ্যাটাই নেয়, তবে দ্বিতীয়টার সঙ্গে তাকে জুড়ে দেয়। কুরআনের আগে যা এসেছে, যেমন তাওরাত ও ইনজীল, দুটোতেই পুনরুত্থানের প্রমাণ আছে। পুনরুত্থানকেই তারা অস্বীকার করত, তাই এগুলোকেও প্রত্যাখ্যান করেছে। এখানে যত তাফসীর দেখা হয়েছে তার বেশিরভাগ বলে আগের কিতাবের কথা। আখিরাতের ব্যাখ্যা আনেন কেবল কুরতুবী, আর তিনিও কারও নাম বলেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Trusted Until It Agreed",
+          "bn": "সায় দেওয়া পর্যন্তই ভরসা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records one more account, again under it is said. The People of the Book told the idolaters that the description of Muhammad was in their scripture, and that they should go and question him. They questioned him, and what he said matched what the People of the Book had told them. Then the idolaters declared: we will not believe in this Qur'an, nor in what was sent down before it of the Torah and the Injil; rather, we disbelieve in all of it.",
+            "bn": "কুরতুবী আরও একটি বিবরণ আনেন, এবারও 'বলা হয়' দিয়ে। আহলে কিতাব মুশরিকদের বলেছিল, মুহাম্মাদের বর্ণনা আমাদের কিতাবে আছে, তোমরা গিয়ে তাঁকে জিজ্ঞেস করো। তারা জিজ্ঞেস করল। তিনি যা বললেন, আহলে কিতাবের কথার সঙ্গে তা হুবহু মিলে গেল। তখন মুশরিকরা ঘোষণা দিল: এ কুরআনে আমরা ঈমান আনব না, এর আগে নাজিল হওয়া তাওরাত আর ইনজীলেও না। আমরা বরং সবগুলোকেই অস্বীকার করি।"
+          },
+          {
+            "en": "Al-Qurtubi draws the lesson himself. Before this, he says, they used to consult the People of the Book and argue from their word, so the refusal exposed their contradiction and their little knowledge. The account has no chain in his text, and the quranx page for this verse carries no entry from al-Wahidi on its occasion, so it is given here as al-Qurtubi's report, not as an established occasion of revelation. Its point holds without that: a witness trusted until the moment it confirmed what they meant to refuse.",
+            "bn": "শিক্ষাটা কুরতুবী নিজেই টেনে দেন। তিনি বলেন, এর আগে তারা আহলে কিতাবের কাছে যেত আর তাদের কথাকে দলিল বানিয়ে তর্ক করত। তাই এ প্রত্যাখ্যানে ধরা পড়ল তাদের স্ববিরোধ আর জ্ঞানের দৈন্য। কুরতুবীর লেখায় এ বিবরণের কোনো সনদ নেই। কুরআনএক্স পাতাতেও এ আয়াতের শানে নুযূল নিয়ে ওয়াহিদীর কোনো ভুক্তি নেই। তাই এখানে এটা কুরতুবীর আনা বিবরণ, প্রতিষ্ঠিত শানে নুযূল নয়। তবু মূল কথাটা টিকে থাকে: যে সাক্ষীর কথা তারা মানত, সে সাক্ষী তাদের অপছন্দের সত্যে সায় দিতেই তারা তাকেও ছুড়ে ফেলল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stood and Detained for Reckoning",
+          "bn": "হিসাবের জন্য আটকে রাখা"
+        },
+        "p": [
+          {
+            "en": "Wa law tara idh az-zalimuna mawqufuna 'inda rabbihim: and if you could see when the wrongdoers are made to stand before their Lord. Al-Qurtubi and al-Baghawi take the address to be to Muhammad ﷺ, and the Muyassar to the Messenger. Mawqufun is passive: they do not take their stand, they are stood. Al-Baghawi, al-Qurtubi and the Muyassar all explain it as mahbusun, held or detained, al-Qurtubi adding at the station of the reckoning, and the Muyassar for the reckoning.",
+            "bn": "ওয়া লাও তারা ইয যযালিমূনা মাওকূফূনা ইনদা রাব্বিহিম: তুমি যদি দেখতে, যখন যালিমদের তাদের রবের সামনে দাঁড় করিয়ে রাখা হবে। কুরতুবী ও বাগাভীর মতে এখানে সম্বোধন মুহাম্মাদ ﷺ-কে, মুয়াসসারের ভাষায় রাসূলকে। মাওকূফূন কর্মবাচ্য শব্দ। তারা নিজেরা গিয়ে দাঁড়ায় না, তাদের দাঁড় করানো হয়। বাগাভী, কুরতুবী আর মুয়াসসার তিনজনই এর অর্থ করেন মাহবূসূন, অর্থাৎ আটক। কুরতুবী যোগ করেন, হিসাবের স্থানে আটক। মুয়াসসার বলে, হিসাবের জন্য আটক।"
+          },
+          {
+            "en": "The sentence that opens with law is never finished. Al-Qurtubi says the answer of law is omitted, and supplies it: you would have seen a dreadful, terrible matter. The Muyassar supplies the same, you would see something appalling, and as-Sa'di writes that you would see a great matter and a grave terror. The Qur'an leaves the gap open and lets the listener fill it. Ibn Kathir names the tone of the passage: Allah speaks here threatening and warning them, telling of their humiliating stations before Him as they quarrel and contend.",
+            "bn": "'লাও' দিয়ে যে বাক্য শুরু হয়, সেটা আর শেষ হয় না। কুরতুবী বলেন, 'লাও'-এর জবাব এখানে উহ্য। তিনি নিজে তা পূরণ করে দেন: তুমি দেখতে এক ভয়াবহ, বীভৎস ব্যাপার। মুয়াসসারও একই কথা বলে, তুমি দেখতে ভয়ংকর কিছু। সা'দী লেখেন, তুমি দেখতে এক বিরাট ব্যাপার আর গুরুতর আতঙ্ক। কুরআন ফাঁকটা খোলা রাখে, শ্রোতা নিজেই তা ভরে নেয়। পুরো অংশের সুর কী, ইবন কাসীর তা ধরিয়ে দেন। আল্লাহ এখানে তাদের হুমকি দিচ্ছেন, সতর্ক করছেন। তাঁর সামনে তাদের লাঞ্ছিত অবস্থার খবর দিচ্ছেন, যখন তারা একে অপরের সঙ্গে ঝগড়া আর বিতর্কে লিপ্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Allies Trading the Blame",
+          "bn": "মিত্ররা যখন দোষ চালাচালি করে"
+        },
+        "p": [
+          {
+            "en": "Yarji'u ba'duhum ila ba'din al-qawl: they throw words back to one another. At-Tabari explains it as yatalawamun, they blame each other, each disputing with the other. Al-Baghawi says each returns the other's words in argument. The Muyassar renders it as an exchange of speech in which each casts reproach upon the other, and Ibn Kathir describes it as their quarrelling and contending. The phrase pictures words passed back and forth, with no one willing to keep them in his own hands.",
+            "bn": "ইয়ারজিউ বা'দুহুম ইলা বা'দিনিল কাওল: তারা একে অপরের দিকে কথা ছুড়ে ফেরত পাঠাবে। তাবারী এর ব্যাখ্যা করেন ইয়াতালাওয়ামূন দিয়ে, মানে তারা পরস্পরকে দোষারোপ করবে, একজন আরেকজনের সঙ্গে বাদানুবাদ করবে। বাগাভী বলেন, তর্কের মধ্যে একজন আরেকজনের কথা তাকেই ফিরিয়ে দেবে। মুয়াসসারের ভাষায়, তারা নিজেদের মধ্যে কথা চালাচালি করবে, প্রত্যেকে অন্যের উপর ভর্ৎসনা চাপাবে। ইবন কাসীর একে বলেন তাদের ঝগড়া আর বাকবিতণ্ডা। শব্দগুলো যেন কথার এক ছবি আঁকে, যা হাত থেকে হাতে ঘোরে, কেউ নিজের কাছে রাখতে চায় না।"
+          },
+          {
+            "en": "Al-Qurtubi adds the detail that makes the scene bitter. They trade words with blame and reproach, he says, after having been in the world close friends who supported one another. The same people who stood together to say lan nu'min, we will never believe, now face each other as opponents. The verse does not need to announce that their alliance was hollow. It shows the alliance at the moment it is tested, before their Lord, and lets the quarrel speak for itself.",
+            "bn": "কুরতুবী এমন একটা খুঁটিনাটি যোগ করেন, যা দৃশ্যটাকে আরও তিক্ত করে তোলে। তিনি বলেন, তারা দোষারোপ আর ভর্ৎসনা নিয়ে কথা চালাচালি করবে, অথচ দুনিয়াতে তারা ছিল ঘনিষ্ঠ বন্ধু, একে অপরের সহায়। যে লোকেরা একসঙ্গে দাঁড়িয়ে বলেছিল লান নু'মিন, আমরা কখনো ঈমান আনব না, তারাই এখন পরস্পরের প্রতিপক্ষ। তাদের জোট যে ফাঁপা ছিল, আয়াতকে তা আলাদা করে ঘোষণা করতে হয় না। রবের সামনে পরীক্ষার মুহূর্তে জোটটা কেমন দেখায়, আয়াত শুধু সেটাই দেখায়। বাকিটা বলে দেয় তাদের ঝগড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Looked Down On, Lifted Up",
+          "bn": "যাদের ছোট করে রাখা হয়েছিল"
+        },
+        "p": [
+          {
+            "en": "Then the verse gives the first words of the quarrel. Yaqulu alladhina istud'ifu lilladhina istakbaru: those who were made weak say to those who were arrogant. Al-Baghawi explains istud'ifu as istuhqiru, those who were looked down upon, and says they are the followers. Ibn Kathir and as-Sa'di also identify them as the followers. At-Tabari specifies that this was their state in the world: those who were weak there speak to those who used to carry themselves proudly over them there.",
+            "bn": "এরপর আয়াত শোনায় ঝগড়ার প্রথম কথাগুলো। ইয়াকূলুল্লাযীনাস তুদ'ইফূ লিল্লাযীনাস তাকবারূ: যাদের দুর্বল করে রাখা হয়েছিল, তারা দাম্ভিকদের বলবে। বাগাভী ইসতুদ'ইফূর অর্থ করেন ইসতুহকিরূ, মানে যাদের তুচ্ছ চোখে দেখা হত। তিনি বলেন, এরা অনুসারী। ইবন কাসীর ও সা'দীও এদের অনুসারী বলেই চিহ্নিত করেন। তাবারী স্পষ্ট করে দেন, এটা ছিল দুনিয়াতে তাদের অবস্থা। দুনিয়াতে যারা দুর্বল ছিল, তারা কথা বলছে তাদের সঙ্গে, যারা সেখানে তাদের উপর দম্ভ দেখাত।"
+          },
+          {
+            "en": "The other party is named by its pride. Ibn Kathir calls them the followers' leaders and masters; al-Baghawi, the leaders and the nobles; al-Qurtubi, the leaders and the chiefs; at-Tabari, through the followers' own words, the heads and great ones of the world. The Muyassar adds a description: the leaders and chiefs who went astray and led others astray. Al-Qurtubi notes that the weak here are themselves among the disbelievers. Whatever their rank was in the world, both parties now stand in the same place.",
+            "bn": "অন্য দলের পরিচয় তাদের অহংকারেই। ইবন কাসীর তাদের বলেন অনুসারীদের নেতা ও কর্তা। বাগাভী বলেন নেতা ও অভিজাত, কুরতুবী বলেন নেতা ও সর্দার। তাবারী অনুসারীদের মুখের কথায় তাদের ডাকেন দুনিয়ার মাথা আর বড় বড় লোক। মুয়াসসার আরেকটু যোগ করে: এরা সেই নেতা ও সর্দার, যারা নিজেরা পথ হারিয়েছে, অন্যদেরও পথভ্রষ্ট করেছে। কুরতুবী মনে করিয়ে দেন, এখানকার দুর্বলরাও কাফিরদেরই অংশ। দুনিয়াতে কার কী মর্যাদা ছিল তাতে কিছু আসে যায় না। দুই দলই এখন দাঁড়িয়ে একই জায়গায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Had You Not Been There",
+          "bn": "তোমরা না থাকলে"
+        },
+        "p": [
+          {
+            "en": "Lawla antum la-kunna mu'minin: if not for you, we would have been believers. Each commentator spells out what the followers mean. Ibn Kathir: had you not barred us, we would have followed the messengers and believed in what they brought us. Al-Baghawi: you kept us from believing in Allah and His Messenger. Al-Qurtubi: you seduced us and led us astray. The Muyassar: had you not misled us from guidance. At-Tabari: we would have been believers in Allah and His signs.",
+            "bn": "লাওলা আনতুম লাকুন্না মু'মিনীন: তোমরা না থাকলে আমরা অবশ্যই মু'মিন হতাম। অনুসারীরা এ কথায় কী বোঝাতে চায়, প্রত্যেক তাফসীরকার তা খুলে বলেন। ইবন কাসীর: তোমরা যদি আমাদের বাধা না দিতে, আমরা রাসূলদের অনুসরণ করতাম, তাঁরা যা এনেছিলেন তাতে ঈমান আনতাম। বাগাভী: আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান থেকে তোমরাই আমাদের ঠেকিয়ে রেখেছিলে। কুরতুবী: তোমরাই আমাদের ফুসলিয়েছ, পথভ্রষ্ট করেছ। মুয়াসসার: তোমরা হিদায়াত থেকে আমাদের বিপথে না নিলে। তাবারী: আমরা আল্লাহ ও তাঁর আয়াতের প্রতি ঈমানদার হতাম।"
+          },
+          {
+            "en": "As-Sa'di goes a step further and names the aim behind the words. In his gloss they say: you came between us and faith and made disbelief attractive to us, and so we followed you in it. Their purpose in saying this, he writes, is that the punishment should fall on the leaders and not on themselves. The sentence presents itself as a confession of what happened, but it works as a plea to move the account onto someone else's shoulders.",
+            "bn": "সা'দী আরও এক ধাপ এগিয়ে কথাগুলোর পেছনের উদ্দেশ্যটা বলে দেন। তাঁর ব্যাখ্যায় তারা বলছে: তোমরা আমাদের আর ঈমানের মাঝে দেয়াল হয়ে দাঁড়িয়েছিলে, কুফরকে আমাদের চোখে সুন্দর করে দেখিয়েছিলে, তাই আমরা তোমাদের পেছনে চলেছি। তিনি লেখেন, এ কথা বলার উদ্দেশ্য হল শাস্তিটা যেন নেতাদের উপর পড়ে, তাদের নিজেদের উপর নয়। বাক্যটা শুনতে যা ঘটেছিল তার স্বীকারোক্তি। কিন্তু আসলে এটা এক আবেদন, নিজের হিসাবটা অন্যের ঘাড়ে তুলে দেওয়ার।"
+          },
+          {
+            "en": "Al-Qurtubi also pauses on the form of the words. The eloquent usage, he says, is lawla antum, with the independent pronoun. Some Arabs say lawlakum, as Sibawayh reports, in which lawla puts the attached pronoun in the genitive, while a noun after it is nominative as a subject whose predicate is dropped. Muhammad ibn Yazid holds that lawlakum is not permissible: since a noun after lawla is nominative by agreement, the pronoun in its place must be nominative too. Al-Qurtubi records both views.",
+            "bn": "শব্দের গঠন নিয়েও কুরতুবী একটু থামেন। তিনি বলেন, বিশুদ্ধ রীতি হল লাওলা আনতুম, স্বতন্ত্র সর্বনাম দিয়ে। সীবাওয়াইহ বর্ণনা করেন, কিছু আরব বলে লাওলাকুম। সেখানে লাওলা যুক্ত সর্বনামকে যের দেয়, আর তার পরে স্পষ্ট বিশেষ্য এলে সেটা উদ্দেশ্য হিসেবে পেশ পায়, বিধেয় থাকে উহ্য। মুহাম্মাদ ইবন ইয়াযীদ বলেন, লাওলাকুম বৈধ নয়। লাওলার পরে বিশেষ্য পেশযুক্ত হয়, এতে সবাই একমত। তাই তার জায়গায় সর্বনাম এলে সেটাকেও পেশযুক্ত হতে হবে। কুরতুবী দুটো মতই উল্লেখ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Chiefs Disown the Charge",
+          "bn": "সর্দাররা দায় মানে না"
+        },
+        "p": [
+          {
+            "en": "The quarrel does not end with the followers. In 34:32 the arrogant answer: did we turn you away from guidance after it had come to you? No, you were criminals. Ibn Kathir paraphrases their defence: we did no more than call you, and you followed us without evidence or proof, going against the evidence the messengers brought because of your own desires; it was your own choice. In 34:33 the followers answer again: no, it was plotting by night and day, when you ordered us to disbelieve in Allah and set up equals to Him.",
+            "bn": "ঝগড়া অনুসারীদের কথাতেই থামে না। ৩৪:৩২ আয়াতে দাম্ভিকরা জবাব দেয়: তোমাদের কাছে হিদায়াত আসার পর আমরা কি তোমাদের তা থেকে ফিরিয়ে রেখেছিলাম? বরং তোমরাই ছিলে অপরাধী। ইবন কাসীর তাদের আত্মপক্ষের কথাটা নিজের ভাষায় বলেন: আমরা শুধু তোমাদের ডেকেছিলাম। তোমরা কোনো দলিল-প্রমাণ ছাড়াই আমাদের পেছনে এসেছ। রাসূলরা যে প্রমাণ এনেছিলেন, নিজেদের খেয়ালখুশিতে তার বিরুদ্ধে গেছ। সেটা ছিল তোমাদেরই পছন্দ। ৩৪:৩৩ আয়াতে অনুসারীরা আবার জবাব দেয়: না, এ ছিল তোমাদের দিনরাতের চক্রান্ত, যখন তোমরা আমাদের হুকুম দিতে আল্লাহকে অস্বীকার করতে আর তাঁর সমকক্ষ দাঁড় করাতে।"
+          },
+          {
+            "en": "Ibn Kathir explains that plotting as tempting them with promises and false hopes, and telling them they were rightly guided. He then reads the close of 34:33: both parties conceal their regret when they see the punishment, and each is recompensed for what he used to do, the leaders for their deeds and the followers for theirs. He sets 7:38 beside it, where Allah says that for each there is a double portion. The same exchange appears elsewhere in the Qur'an, among other places in 14:21 and in 40:47 and 40:48.",
+            "bn": "ইবন কাসীর সেই চক্রান্তের ব্যাখ্যা দেন এভাবে: প্রতিশ্রুতি আর মিথ্যা আশা দিয়ে তাদের প্রলুব্ধ করা, আর বোঝানো যে তারা সঠিক পথেই আছে। এরপর তিনি ৩৪:৩৩ আয়াতের শেষাংশ পড়েন। শাস্তি দেখে দুই দলই মনের অনুতাপ গোপন রাখবে। প্রত্যেককে প্রতিফল দেওয়া হবে তার নিজের আমলের: নেতাদের তাদের কাজের, অনুসারীদের তাদের কাজের। এর পাশে তিনি রাখেন ৭:৩৮, যেখানে আল্লাহ বলেন, প্রত্যেকের জন্যই রয়েছে দ্বিগুণ। একই রকম কথোপকথন কুরআনের আরও কয়েক জায়গায় আছে, যেমন ১৪:২১ আয়াতে, এবং ৪০:৪৭ ও ৪০:৪৮ আয়াতে।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it. Ibn Kathir, on 34:33, relays a narration from Ibn Abi Hatim about the people of Hell; it is given there with no grading and does not concern this verse, so it is only mentioned here. Nor is there a confirmed occasion of revelation. The nearest thing is the report al-Qurtubi gives under it is said, and that was treated above as his account and nothing more. The verse's own words carry the weight.",
+            "bn": "এ আয়াতের জন্য যত তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। ইবন কাসীর ৩৪:৩৩ আয়াতের আলোচনায় ইবন আবী হাতিম থেকে জাহান্নামীদের নিয়ে একটি বর্ণনা আনেন। সেখানে এর কোনো মান উল্লেখ নেই, আর এটা এ আয়াতের বিষয়ও নয়, তাই এখানে শুধু তার উল্লেখটুকু থাকল। প্রমাণিত কোনো শানে নুযূলও নেই। সবচেয়ে কাছের জিনিস কুরতুবীর 'বলা হয়' দিয়ে আনা বিবরণটি, আর উপরে সেটাকে তাঁর আনা বিবরণ হিসেবেই দেখা হয়েছে, এর বেশি নয়। ভার বহন করে আয়াতের নিজের শব্দগুলোই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Scene Shown in Advance",
+          "bn": "আগেভাগে দেখানো দৃশ্য"
+        },
+        "p": [
+          {
+            "en": "The verse describes what it describes: a group in Makkah who refused the Qur'an and the scriptures before it, and the wrongdoers standing before their Lord. It names no living person, and it licenses no one to point at a community today and assign it a place in that scene, whether as leader or as follower. The reckoning of every soul belongs to Allah alone. What the verse hands the reader is a warning shown in advance, not a verdict to pass on others.",
+            "bn": "আয়াত যা বর্ণনা করে, ঠিক ততটুকুই বর্ণনা করে। মক্কার একদল লোক কুরআন আর তার আগের কিতাবগুলো প্রত্যাখ্যান করেছিল, আর যালিমরা দাঁড়িয়ে আছে তাদের রবের সামনে। আয়াতে কোনো জীবিত মানুষের নাম নেই। আজকের কোনো সম্প্রদায়ের দিকে আঙুল তুলে তাকে ওই দৃশ্যে নেতা বা অনুসারীর জায়গায় বসিয়ে দেওয়ার অনুমতিও এ আয়াত কাউকে দেয় না। প্রত্যেক মানুষের হিসাব কেবল আল্লাহর হাতে। আয়াত পাঠকের হাতে তুলে দেয় আগেভাগে দেখানো এক সতর্কবার্তা, অন্যের উপর রায় দেওয়ার কোনো হুকুম নয়।"
+          },
+          {
+            "en": "Read that way, it speaks to both seats. To anyone who leads, at home, in a mosque or at work, it says that a call to wrong is a weight carried into that standing. To anyone who follows, it says that lawla antum does not move the account: the leaders' reply in 34:32 and the recompense in 34:33 leave each answerable for his own deeds. Guidance reached both parties in the world. The scene is shown now, while it can still be acted on, so that no one has to reach for that sentence on the Day.",
+            "bn": "এভাবে পড়লে আয়াত দুই আসনের মানুষকেই কিছু বলে। যে নেতৃত্ব দেয়, ঘরে হোক, মসজিদে হোক বা কাজের জায়গায়, তাকে বলে: অন্যায়ের দিকে ডাক দেওয়া এক বোঝা, যা সেদিনের দাঁড়ানো পর্যন্ত বয়ে নিতে হবে। যে অনুসরণ করে, তাকে বলে: 'তোমরা না থাকলে' কথাটা হিসাব সরিয়ে দেয় না। ৩৪:৩২ আয়াতে নেতাদের জবাব আর ৩৪:৩৩ আয়াতের প্রতিফল প্রত্যেককে তার নিজের আমলের জন্য দায়ী রাখে। দুনিয়াতে হিদায়াত দুই দলের কাছেই পৌঁছেছিল। দৃশ্যটা দেখানো হচ্ছে এখন, যখন এ নিয়ে কিছু করার সময় আছে, যাতে সেদিন কাউকে ওই বাক্যের আশ্রয় নিতে না হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "34:34": {
     "sections": [
       {

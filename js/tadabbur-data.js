@@ -36493,6 +36493,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a truth about the Hereafter unsettles you, weigh it instead of labelling the one who brings it; denying the meeting with Allah is itself the far error.",
     "lessonBn": "আখিরাতের কোনো সত্য যখন অস্বস্তি জাগায়, তার বাহককে তকমা না দিয়ে কথাটা মেপে দেখুন; আল্লাহর সঙ্গে সাক্ষাৎ অস্বীকার করাই তো বহু দূরের গুমরাহি।"
+  },
+  "34:31": {
+    "reflectionEn": "In this life they speak with one voice: we will never believe in this Qur'an, nor in what came before it. Then the verse turns to a scene they never planned for. The same people stand before their Lord, held there, and the single voice has broken apart. Words are thrown back and forth. The followers turn on their leaders: but for you, we would have been believers. It is an accusation, and it is also an admission that the message had reached them, and that they chose to walk behind someone else. The verse puts the question to me while the choosing is still mine: whose voice stands between me and the truth, and will I blame it on that Day?",
+    "reflectionBn": "দুনিয়াতে তাদের মুখে একটাই কথা: এ কুরআনে আমরা কখনো ঈমান আনব না, এর আগের কিতাবেও না। তারপর আয়াতটি চলে যায় এমন এক দৃশ্যে, যার কথা তারা কখনো ভাবেনি। সেই একই লোকেরা দাঁড়িয়ে আছে তাদের রবের সামনে, আটকে রাখা অবস্থায়। একসুরের কথা তখন ভেঙে টুকরো টুকরো। কথা চালাচালি হয় এদিক থেকে ওদিক। অনুসারীরা নেতাদের দিকে ফিরে বলে: তোমরা না থাকলে আমরা মু'মিন হতাম। এ এক অভিযোগ, আবার এক স্বীকারোক্তিও। বার্তা তাদের কাছে পৌঁছেছিল, তবু তারা অন্যের পেছনে হাঁটাই বেছে নিয়েছিল। বেছে নেওয়ার সুযোগ যখন এখনো আমার হাতে, আয়াতটি তখনই আমাকে প্রশ্ন করে: কার কণ্ঠ আমার আর সত্যের মাঝখানে দাঁড়িয়ে আছে? সেদিন কি আমি তার ঘাড়েই দোষ চাপাব?",
+    "pointsEn": [
+      "Whose approval am I so afraid of losing that I hold back from what I already know is right?",
+      "When I picture standing before my Lord, whom do I imagine blaming, and would that blame change anything?",
+      "Is there anyone who follows my lead, at home or at work, whom my example is turning away from good?",
+      "Do I trust a source only until it confirms something I would rather not accept?",
+      "Which of my closest companionships would hold on that Day, and which would turn into blame?"
+    ],
+    "pointsBn": [
+      "কার খুশি হারানোর ভয়ে আমি এমন কাজ থেকে পিছিয়ে থাকি, যা ঠিক বলে আমি আগেই জানি?",
+      "রবের সামনে দাঁড়ানোর ছবিটা মনে আনলে আমি কাকে দোষ দেওয়ার কথা ভাবি? সে দোষারোপে কি কিছু বদলাবে?",
+      "ঘরে বা কাজের জায়গায় এমন কেউ কি আছে, যে আমাকে দেখে চলে, আর আমার দেখানো পথ তাকে ভালো থেকে দূরে সরিয়ে দিচ্ছে?",
+      "কোনো উৎসকে কি আমি ততক্ষণই মানি, যতক্ষণ না সে এমন কিছু সত্য বলে দেয় যা আমি মানতে চাই না?",
+      "আমার সবচেয়ে কাছের সম্পর্কগুলোর কোনটা সেদিন টিকে থাকবে, আর কোনটা পরিণত হবে দোষারোপে?"
+    ],
+    "lessonEn": "No one can carry your choice for you. Follow the truth now, for on the Day of standing, blaming those you followed will not make you a believer.",
+    "lessonBn": "আপনার বেছে নেওয়ার দায় অন্য কেউ বইতে পারবে না। সত্যের পথে এখনই চলুন, কারণ হিসাবের দিনে যাদের পেছনে চলেছেন তাদের দোষ দিলেই আপনি মু'মিন হয়ে যাবেন না।"
   }
 };
 
