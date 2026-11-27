@@ -36473,6 +36473,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Keep within the permissions Allah gives as carefully as within His commands, in private as in public, because He witnesses everything.",
     "lessonBn": "আল্লাহর আদেশ যেমন যত্নে মানেন, তাঁর দেওয়া ছাড়ের সীমাও তেমনি যত্নে মেনে চলুন, একান্তে যেমন প্রকাশ্যেও তেমন, কারণ তিনি সবকিছুর সাক্ষী।"
+  },
+  "34:8": {
+    "reflectionEn": "A man tells them that after their bodies are scattered they will be made anew, and they turn to one another with a question that offers only two answers: has he invented a lie about Allah, or is there madness in him? The third answer, that he is telling the truth, is not on their list. The verse does not argue over their labels. It turns the question back on them: it is those who do not believe in the Hereafter who are in the punishment and in error far from the road. A label can be a way of not listening. When a truth unsettles me, do I weigh it, or do I reach first for a name to call its bearer?",
+    "reflectionBn": "একজন মানুষ তাদের বলছেন, দেহ ছিন্নভিন্ন হয়ে মাটিতে মিশে গেলেও তাদের নতুন করে সৃষ্টি করা হবে। তারা একে অন্যের দিকে তাকিয়ে এমন এক প্রশ্ন তোলে, যার উত্তর মাত্র দুটি: সে কি আল্লাহর নামে মিথ্যা বানিয়েছে, নাকি তার মধ্যে আছে উন্মাদনা? তৃতীয় উত্তরটি, অর্থাৎ তিনি সত্য বলছেন, তাদের তালিকাতেই নেই। আয়াতটি তাদের দেওয়া তকমা নিয়ে তর্কে যায় না। প্রশ্নটা ঘুরিয়ে দেয় তাদেরই দিকে: যারা আখিরাতে ঈমান আনে না, শাস্তি আর পথ থেকে বহু দূরের গুমরাহিতে তারাই পড়ে আছে। তকমা লাগানো অনেক সময় না শোনার এক কৌশল। কোনো সত্য যখন আমাকে অস্বস্তিতে ফেলে, আমি কি তা মেপে দেখি, নাকি আগে খুঁজি বাহককে কী নামে ডাকা যায়?",
+    "pointsEn": [
+      "When I hear something I would rather not be true, do I examine it, or do I first look for a reason to dismiss the one who said it?",
+      "Which questions do I ask in a way that leaves out the answer I fear most?",
+      "How much of what I say about others comes from what I believe about the Hereafter, or from forgetting it?",
+      "If my belief in the meeting with Allah were weighed by how I spent today, would it look near or far?",
+      "Whose sincerity have I questioned only because their reminder was uncomfortable?"
+    ],
+    "pointsBn": [
+      "যে কথা সত্য না হলেই আমার সুবিধা, তা শুনলে আমি কি যাচাই করি, নাকি আগে বক্তাকে নাকচ করার অজুহাত খুঁজি?",
+      "কোন প্রশ্নগুলো আমি এমনভাবে করি, যাতে সবচেয়ে ভয়ের উত্তরটাই বাদ পড়ে যায়?",
+      "অন্যদের নিয়ে আমার কথার কতটা আসে আখিরাতে বিশ্বাস থেকে, আর কতটা আসে তা ভুলে থাকা থেকে?",
+      "আজকের দিনটা কীভাবে কাটালাম তা দিয়ে যদি আল্লাহর সঙ্গে সাক্ষাতের বিশ্বাস মাপা হয়, তা কাছের দেখাবে, নাকি দূরের?",
+      "শুধু কথাটা অস্বস্তিকর ছিল বলে কার আন্তরিকতা নিয়ে আমি প্রশ্ন তুলেছি?"
+    ],
+    "lessonEn": "When a truth about the Hereafter unsettles you, weigh it instead of labelling the one who brings it; denying the meeting with Allah is itself the far error.",
+    "lessonBn": "আখিরাতের কোনো সত্য যখন অস্বস্তি জাগায়, তার বাহককে তকমা না দিয়ে কথাটা মেপে দেখুন; আল্লাহর সঙ্গে সাক্ষাৎ অস্বীকার করাই তো বহু দূরের গুমরাহি।"
   }
 };
 

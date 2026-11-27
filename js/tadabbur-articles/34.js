@@ -319,6 +319,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "34:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Passed Among Them",
+          "bn": "মুখে মুখে ঘোরা এক প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "A-ftara 'ala Allahi kadhiban am bihi jinna: has he invented a lie about Allah, or is there madness in him? The words continue the speech begun in 34:7, where those who disbelieved offered to point people to a man who tells them that, once they are torn apart completely, they will be in a new creation. At-Tabari reads the whole exchange as something they said among themselves, marvelling at the Messenger of Allah ﷺ for promising them that. Al-Qurtubi likewise says the clause goes back to what the idolaters had just said.",
+            "bn": "আফতারা আলাল্লাহি কাযিবান আম বিহী জিন্নাহ: সে কি আল্লাহর নামে মিথ্যা বানিয়েছে, নাকি তার মধ্যে আছে উন্মাদনা? কথাগুলো ৩৪:৭-এ শুরু হওয়া সংলাপেরই বাকি অংশ। সেখানে কাফিররা লোকদের এমন এক মানুষের সন্ধান দিতে চেয়েছিল, যিনি বলেন, পুরোপুরি ছিন্নভিন্ন হয়ে যাওয়ার পরও তোমরা নতুন সৃষ্টিতে ফিরবে। তাবারীর পাঠে গোটা কথোপকথন তাদের নিজেদের মধ্যে চালাচালি। রাসূলুল্লাহ ﷺ তাদের এমন প্রতিশ্রুতি দিচ্ছেন, এতে তারা অবাক হয়ে একে অন্যকে কথাগুলো বলছিল। কুরতুবীও বলেন, বাক্যটি মুশরিকদের ঠিক আগের কথার সঙ্গেই জোড়া।"
+          },
+          {
+            "en": "Ibn Zayd, in at-Tabari's chain, puts it the same way: then some of them said to others. The scene is not a debate with the Prophet ﷺ but talk behind him, a verdict passed around a circle. Ma'arif al-Qur'an explains what drove the remark. To them, the idea that particles of a body wholly disintegrated could come back together, become a human body again and live, was so unreasonable that it hardly deserved a hearing. So whoever claimed it had to be either forging against Allah or not in his right mind.",
+            "bn": "তাবারীর সনদে ইবন যায়দও একই কথা বলেন: তারপর তাদের কেউ কেউ অন্যদের বলল। দৃশ্যটি তাই নবী ﷺ-এর সঙ্গে মুখোমুখি তর্ক নয়। এ হলো তাঁর আড়ালে চলা আলাপ, এক বৈঠকে হাতে হাতে ঘোরা রায়। কথাটির পেছনের তাড়না মাআরিফুল কুরআন খুলে বলে। তাদের চোখে পুরোপুরি গলে যাওয়া দেহের কণাগুলো আবার জোড়া লেগে মানুষের শরীর হবে, তাতে প্রাণও ফিরবে, এ ধারণা এতই অযৌক্তিক যে তা শোনারও যোগ্য নয়। তাই যে এমন দাবি করে, হয় সে আল্লাহর নামে বানিয়ে বলছে, নয়তো তার বুদ্ধি ঠিক নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hamza That Makes It Ask",
+          "bn": "যে হামযা বাক্যকে প্রশ্ন বানায়"
+        },
+        "p": [
+          {
+            "en": "Iftara, he invented, is a verb of the pattern ifta'ala, which begins with a connecting alif. Al-Baghawi, al-Qurtubi and at-Tabari all explain that the hamza of the question has entered on that connecting alif, so the connecting alif falls away and the question's hamza is voiced with a fatha. Al-Qurtubi adds that the fatha is what separates the two kinds of alif, and refers back to his fuller treatment of the same form in Surah Maryam, at the words a-ttala'a al-ghayb.",
+            "bn": "ইফতারা, অর্থাৎ সে বানিয়েছে, ইফতাআলা ছাঁচের ক্রিয়া, যার শুরুতে থাকে সংযোগের আলিফ। বাগাভী, কুরতুবী ও তাবারী তিনজনই ব্যাখ্যা করেন, প্রশ্নের হামযা এসে বসেছে সেই সংযোগের আলিফের উপর। তাই সংযোগের আলিফ ঝরে গেছে, আর প্রশ্নের হামযা উচ্চারিত হচ্ছে যবর দিয়ে। কুরতুবী যোগ করেন, এই যবরই দুই রকম আলিফের মধ্যে পার্থক্য গড়ে দেয়। একই গঠনের বিস্তারিত আলোচনার জন্য তিনি সূরা মারইয়ামের আত্তালাআল গাইব শব্দের ব্যাখ্যার দিকে ইঙ্গিত করেন।"
+          },
+          {
+            "en": "At-Tabari gives parallels where the same thing happens: sawa'un 'alayhim a-staghfarta lahum, bi-yadayya a-stakbarta, and a-stafa al-banat. In a-l-ana and a-l-dhakarayn, he adds, the joined alif itself carries a fatha, so dropping it would erase the difference between question and statement; there the vowel is lengthened instead. The point for the reader is plain: a-ftara is a question, has he invented, and not a report that he did.",
+            "bn": "তাবারী এমন আরও কয়েকটি জায়গা দেখান, যেখানে ঠিক এটাই ঘটেছে: সাওয়াউন আলাইহিম আসতাগফারতা লাহুম, বিইয়াদাইয়া আসতাকবারতা, আর আসতাফাল বানাত। তিনি আরও বলেন, আলআনা ও আযযাকারাইন শব্দে জোড়া আলিফটি নিজেই যবরযুক্ত। সেটি ফেলে দিলে প্রশ্ন আর সংবাদের পার্থক্য মুছে যেত, তাই সেখানে টেনে পড়া হয়। পাঠকের জন্য কথাটা সোজা: আফতারা একটি প্রশ্ন, সে কি বানিয়েছে? এটা বানিয়েছে বলে কোনো খবর নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Answers and No Third",
+          "bn": "দুটি উত্তর, তৃতীয়টি নেই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses the first option: did this man, who promises that after being torn apart we will be in a new creation, forge a lie against Allah, fabricating falsehood and inventing a false saying about Him? Al-Qurtubi defines al-iftira' as al-ikhtilaq, making something up. For the second option at-Tabari writes simply: or is he out of his mind, so that he speaks what has no meaning. Al-Qurtubi and the Muyassar give the same sense in other words: so that he speaks of what he does not know.",
+            "bn": "প্রথম বিকল্পের ব্যাখ্যায় তাবারী লেখেন: যে লোক বলছে ছিন্নভিন্ন হওয়ার পর আমরা নতুন সৃষ্টিতে ফিরব, সে কি আল্লাহর নামে মিথ্যা রটাচ্ছে? তাঁর উপর বাতিল কথা গড়ে নিচ্ছে, মনগড়া মিথ্যা চাপাচ্ছে? কুরতুবী ইফতিরার সংজ্ঞা দেন ইখতিলাক দিয়ে, অর্থাৎ বানিয়ে তোলা। দ্বিতীয় বিকল্পের বেলায় তাবারী সংক্ষেপে বলেন: নাকি তার বুদ্ধি লোপ পেয়েছে, তাই এমন কথা বলে যার কোনো অর্থ নেই। কুরতুবী ও মুয়াসসার অন্য শব্দে একই অর্থ দেন: সে এমন কিছু বলছে যা সে নিজেই জানে না।"
+          },
+          {
+            "en": "Qatadah, in at-Tabari's chain, says they said it in denial: either he is lying about Allah, or he is not sane. Ibn Kathir, in the abridged English, draws out what separates the two. Either he is deliberately fabricating and claiming that Allah revealed it to him, or he is not doing it deliberately but is deluded. One charge is about his honesty, the other about his mind. Between them they cover the case where he knows he is wrong and the case where he does not.",
+            "bn": "তাবারীর সনদে কাতাদা বলেন, অস্বীকার করেই তারা কথাটা বলেছিল: হয় সে আল্লাহর নামে মিথ্যা বলছে, নয়তো তার মাথা ঠিক নেই। ইবন কাসীর, সংক্ষিপ্ত ইংরেজি সংস্করণে, দুই অভিযোগের ফারাকটা স্পষ্ট করেন। হয় সে জেনেশুনে বানিয়ে বলছে আর দাবি করছে আল্লাহ তা নাযিল করেছেন, নয়তো সে ইচ্ছা করে করছে না, বিভ্রমে পড়েছে। একটি অভিযোগ তাঁর সততা নিয়ে, অন্যটি তাঁর বুদ্ধি নিয়ে। দুটো মিলে দুই দিকই ঢেকে দেয়: তিনি নিজের ভুল জানেন, কিংবা জানেন না।"
+          },
+          {
+            "en": "What the pair leaves out is the possibility that he is right. The question has been built so that every answer ends with the message rejected, and neither answer requires them to look at the claim itself. The verse refuses the frame rather than answering each charge. As-Sa'di says all of this came from them by way of stubbornness and wrongdoing, and the next section shows how he argues it.",
+            "bn": "দুটি বিকল্পের বাইরে যা পড়ে থাকে, তা হলো তিনি সঠিক, এই সম্ভাবনা। প্রশ্নটা এমনভাবে সাজানো যে যে উত্তরই আসুক, বার্তাটা বাতিল হয়ে যায়। কোনো উত্তরেই দাবিটা খুঁটিয়ে দেখার দরকার পড়ে না। আয়াতটি তাই আলাদা আলাদা অভিযোগের জবাব না দিয়ে গোটা কাঠামোটাই নাকচ করে দেয়। সা'দী বলেন, এসব কথা তাদের মুখ থেকে বেরিয়েছিল জেদ আর জুলুম থেকে। তিনি কীভাবে এ যুক্তি দাঁড় করান, পরের অংশে তা দেখা যাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Own Effort Gives Them Away",
+          "bn": "তাদের দৌড়ঝাঁপই তাদের ধরিয়ে দেয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's case rests on what the speakers knew. They knew, he says, that he was the most truthful of Allah's creation and the soundest of them in mind. Part of the evidence is their own conduct: they returned to their hostility again and again, and spent their lives and their wealth turning people away from him. The effort they poured into opposing him shows that they did not believe their own description of him.",
+            "bn": "সা'দীর যুক্তির ভিত্তি হলো, বক্তারা নিজেরা কী জানত। তিনি বলেন, তারা জানত যে তিনি আল্লাহর সৃষ্টির মধ্যে সবচেয়ে সত্যবাদী, আর বুদ্ধিতে সবচেয়ে পরিপক্ব। তার প্রমাণের একটা অংশ তাদের নিজেদের আচরণ। শত্রুতায় তারা বারবার ফিরে এসেছে, মানুষকে তাঁর কাছ থেকে ফেরাতে নিজেদের জান আর মাল ঢেলে দিয়েছে। বিরোধিতায় তারা যে শ্রম ঢেলেছে, তা-ই দেখিয়ে দেয় যে তাঁর সম্পর্কে নিজেদের দেওয়া বর্ণনা তারা নিজেরাই বিশ্বাস করত না।"
+          },
+          {
+            "en": "He then addresses them directly. If he were really a liar who had lost his reason, he says, it would not have been fitting for you, people whose minds are not pure, to pay attention to what he said or to make so much of his call. A sensible person does not turn his gaze towards a person whose mind has gone, nor let his words reach him so deeply. Had it not been for your stubbornness and wrongdoing, you would have hurried to answer him and accepted his call.",
+            "bn": "এরপর তিনি সরাসরি তাদের সম্বোধন করেন। তিনি বলেন, সে যদি সত্যিই বুদ্ধিহারা মিথ্যাবাদী হতো, তাহলে হে অশুদ্ধ বুদ্ধির লোকেরা, তার কথায় কান দেওয়া বা তার দাওয়াত নিয়ে এত মাতামাতি করা তোমাদের সাজত না। যার বুদ্ধি লোপ পেয়েছে, বুদ্ধিমান মানুষ তার দিকে ফিরেও তাকায় না, তার কথা মনের এত গভীরে পৌঁছাতেও দেয় না। তোমাদের জেদ আর জুলুম না থাকলে তোমরা ছুটে গিয়ে তাঁর ডাকে সাড়া দিতে, তাঁর দাওয়াত কবুল করতে।"
+          },
+          {
+            "en": "As-Sa'di closes the thought with 10:101: what do signs and warnings avail a people who will not believe? His point is that the obstacle was never a lack of evidence. A people can be shown everything and still reach for a label, because the label spares them the claim. The second half of the verse names the root of that refusal: they do not believe in the Hereafter.",
+            "bn": "সা'দী কথাটা শেষ করেন ১০:১০১ আয়াত দিয়ে: যে জাতি ঈমান আনবে না, নিদর্শন আর সতর্কবাণী তাদের কী কাজে আসে? তাঁর বক্তব্য হলো, বাধাটা কখনো প্রমাণের অভাব ছিল না। একটি জাতিকে সবকিছু দেখানো যায়, তবু তারা একটা তকমা খুঁজে নেয়, কারণ তকমা তাদের দাবিটার মুখোমুখি হওয়া থেকে বাঁচিয়ে দেয়। আয়াতের দ্বিতীয় অর্ধেক সেই অস্বীকারের মূল কারণের নাম বলে দেয়: তারা আখিরাতে বিশ্বাস করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bal: The Answer Turns Around",
+          "bn": "বাল: জবাব ঘুরে দাঁড়ায়"
+        },
+        "p": [
+          {
+            "en": "Bal, rather, is the hinge of the verse. Ibn Kathir introduces what follows as Allah's reply to them, and reads bal as: the matter is not as they claimed, nor as they supposed. On the contrary, Muhammad ﷺ is the truthful one, the righteous and rightly guided, who came with the truth, and they are the liars and the ignorant. At-Tabari gives the same opening: the matter is not as these idolaters said about Muhammad ﷺ, nor as they thought of him when they made their two charges.",
+            "bn": "বাল, বরং, এই শব্দেই আয়াতটি মোড় নেয়। ইবন কাসীর পরের অংশকে তাদের প্রতি আল্লাহর জবাব হিসেবে পরিচয় করান, আর বাল-এর অর্থ করেন: ব্যাপারটা তেমন নয়, যেমন তারা দাবি করেছে বা ভেবেছে। বরং মুহাম্মাদ ﷺ-ই সত্যবাদী, সৎ ও সঠিক পথের মানুষ, যিনি সত্য নিয়ে এসেছেন, আর মিথ্যাবাদী ও অজ্ঞ তো তারাই। তাবারীও একইভাবে শুরু করেন: এই মুশরিকরা মুহাম্মাদ ﷺ সম্পর্কে যা বলেছে, আর দুই অভিযোগ তুলে তাঁকে নিয়ে যা ভেবেছে, ব্যাপারটা তেমন নয়।"
+          },
+          {
+            "en": "Al-Qurtubi and the Muyassar put the reply briefly: rather, he is the most truthful of the truthful. Then notice where the sentence goes. The question was about him; the answer is about them. It says those who do not believe in the Hereafter are in the punishment and the far error. The accusers find themselves the subject of the verdict they meant to pass.",
+            "bn": "কুরতুবী ও মুয়াসসার জবাবটা দেন অল্প কথায়: বরং তিনি সত্যবাদীদের মধ্যে সবচেয়ে সত্যবাদী। এবার খেয়াল করুন বাক্যটা কোন দিকে যায়। প্রশ্ন ছিল তাঁকে নিয়ে, জবাব এল তাদের নিয়ে। আয়াত বলে, যারা আখিরাতে ঈমান আনে না, তারাই শাস্তি আর সুদূর গুমরাহিতে। যে রায় তারা দিতে চেয়েছিল, অভিযোগকারীরা নিজেরাই হয়ে গেল সে রায়ের বিষয়।"
+          },
+          {
+            "en": "At-Tabari draws the line between their state and their speech. Those among these idolaters who do not believe in the Hereafter are in that condition, he says, and for that reason they say about him what they say. The slander is a symptom, and the verse names its cause. As-Sa'di notes that the description reaches wider than the speakers: those who do not believe in the Hereafter, among them the ones who said this.",
+            "bn": "তাদের অবস্থা আর তাদের কথার মধ্যে সংযোগটা তাবারী স্পষ্ট করে দেন। তিনি বলেন, এই মুশরিকদের মধ্যে যারা আখিরাতে বিশ্বাস করে না, তারা ওই অবস্থায় আছে, আর সে কারণেই তাঁর সম্পর্কে তারা যা বলার বলে। অপবাদটা তাই রোগের উপসর্গ, আর আয়াতটি তার কারণ চিনিয়ে দেয়। সা'দী লক্ষ করেন, বর্ণনাটা বক্তাদের চেয়ে বড় পরিসর ছোঁয়: যারা আখিরাতে বিশ্বাস করে না, আর তাদেরই মধ্যে আছে এ কথা যারা বলেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "In the Punishment: When?",
+          "bn": "শাস্তির মধ্যে: কখন?"
+        },
+        "p": [
+          {
+            "en": "Fi al-'adhabi wa-d-dalali al-ba'id: in the punishment and the far error. The Arabic has no verb here, only a statement of where they are, and the commentators divide over when the first half holds. Ibn Kathir reads it of the present, through its cause: in the punishment means in the disbelief that leads them to Allah's punishment. The far error is their distance from the truth in this world.",
+            "bn": "ফিল আযাবি ওয়াদ্দালালিল বাঈদ: শাস্তি আর সুদূর গুমরাহির মধ্যে। আরবিতে এখানে কোনো ক্রিয়া নেই, শুধু বলা হয়েছে তারা কোথায় আছে। প্রথম অংশটি কখনকার, তা নিয়ে তাফসীরকারদের মত দুই দিকে যায়। ইবন কাসীর একে বর্তমানের কথা হিসেবে পড়েন, কারণের মধ্য দিয়ে। তাঁর মতে শাস্তির মধ্যে থাকা মানে এমন কুফরিতে থাকা, যা তাদের আল্লাহর শাস্তির দিকে নিয়ে যায়। আর সুদূর গুমরাহি হলো দুনিয়াতে সত্য থেকে তাদের দূরত্ব।"
+          },
+          {
+            "en": "At-Tabari reads the punishment as the Hereafter's: they are in Allah's punishment in the Hereafter, and in the far going away from the road of truth. The Muyassar is explicit on both halves: the lasting punishment in the Hereafter, and the error far from what is right in this world. Al-Qurtubi divides the two nouns across two days: whoever denies the resurrection is tomorrow in the punishment and today in the error. As-Sa'di glosses the punishment as great wretchedness without tying it to a time.",
+            "bn": "তাবারী শাস্তিকে আখিরাতের শাস্তি হিসেবে পড়েন: তারা আখিরাতে আল্লাহর শাস্তির মধ্যে থাকবে, আর আছে সত্যের পথ থেকে বহু দূরে সরে যাওয়ার মধ্যে। মুয়াসসার দুই অংশই স্পষ্ট করে বলে: আখিরাতে চিরস্থায়ী শাস্তি, আর দুনিয়াতে সঠিক পথ থেকে দূরের গুমরাহি। কুরতুবী দুটি শব্দকে দুই দিনে ভাগ করেন: যে পুনরুত্থান অস্বীকার করে, সে আগামীকাল শাস্তিতে থাকবে, আর আজ আছে গুমরাহিতে। সা'দী শাস্তির অর্থ করেন মহা দুর্ভাগ্য, কোনো সময়ের সঙ্গে না বেঁধে।"
+          },
+          {
+            "en": "So the disagreement is real and narrow: Ibn Kathir places them in the punishment now, through the unbelief that leads to it; at-Tabari, al-Qurtubi and the Muyassar place the punishment in the Hereafter. Ibn Kathir, al-Qurtubi, the Muyassar and al-Baghawi all place the error in this world. The English translation printed with this verse follows the second reading, supplying will be before the punishment and are in before the error, while the Bengali translation shown with it simply says they lie in both.",
+            "bn": "মতভেদটা তাই বাস্তব, তবে সরু। ইবন কাসীর তাদের এখনই শাস্তির মধ্যে দেখেন, সেই কুফরির মধ্য দিয়ে যা শাস্তির দিকে নিয়ে যায়। তাবারী, কুরতুবী ও মুয়াসসার শাস্তিকে রাখেন আখিরাতে। ইবন কাসীর, কুরতুবী, মুয়াসসার ও বাগাভী সবাই গুমরাহিকে রাখেন এই দুনিয়াতে। এ আয়াতের সঙ্গে ছাপা ইংরেজি অনুবাদটি দ্বিতীয় পাঠ অনুসরণ করে, শাস্তির আগে will be আর গুমরাহির আগে are in জুড়ে দিয়ে। অথচ বাংলা অনুবাদ সরাসরি বলে, তারা দুটোর মধ্যেই পড়ে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Far the Error Runs",
+          "bn": "গুমরাহি কত দূর গড়ায়"
+        },
+        "p": [
+          {
+            "en": "Al-ba'id, far, measures the error by distance from the road. At-Tabari speaks of going far from the road of truth and from the straight way; as-Sa'di of an error that is not near to what is right. Al-Qurtubi says what made it so far. They ended by ascribing incapacity to God, as if He could not raise the dead, and by ascribing fabrication to the Messenger whom Allah had supported with miracles. The two charges in their question are, on his reading, the two steps of that distance.",
+            "bn": "আল বাঈদ, দূর, শব্দটি গুমরাহিকে মাপে পথ থেকে দূরত্ব দিয়ে। তাবারী বলেন সত্যের পথ আর সরল রাস্তা থেকে দূরে সরে যাওয়ার কথা। সা'দী বলেন এমন গুমরাহির কথা, যা সঠিকের কাছাকাছিও নেই। এত দূর কেন, তা বলেন কুরতুবী। তারা শেষ পর্যন্ত আল্লাহকে অক্ষম ঠাওরাল, যেন তিনি মৃতকে ওঠাতে পারেন না। আর যাঁকে আল্লাহ মুজিযা দিয়ে শক্তি জুগিয়েছেন, তাঁর উপর চাপাল বানিয়ে বলার অপবাদ। তাঁর পাঠে প্রশ্নের দুই অভিযোগই সেই দূরত্বের দুই ধাপ।"
+          },
+          {
+            "en": "As-Sa'di asks what wretchedness and error could be greater than theirs, and lists it: denying Allah's power to raise the dead, rejecting His Messenger who brought that news, mocking him, and being certain that what they held was the truth. So they saw the truth as falsehood, and falsehood and error as truth and guidance. That last turn is the far end of the road. An error that knows itself can still come back. An error that has renamed itself guidance has stopped looking for the way.",
+            "bn": "সা'দী প্রশ্ন তোলেন, এর চেয়ে বড় দুর্ভাগ্য আর গুমরাহি কী হতে পারে? তারপর গুনে গুনে বলেন: মৃতকে ওঠানোর ব্যাপারে আল্লাহর ক্ষমতা অস্বীকার, সে খবর যিনি এনেছেন সেই রাসূলকে মিথ্যা বলা, তাঁকে নিয়ে বিদ্রূপ, আর নিজেদের ধারণাকেই নিশ্চিত সত্য বলে আঁকড়ে থাকা। এভাবে তারা সত্যকে দেখল বাতিল হিসেবে, আর বাতিল ও গুমরাহিকে দেখল সত্য ও হিদায়াত হিসেবে। পথের শেষ প্রান্ত এটাই। যে ভুল নিজেকে ভুল বলে চেনে, সে এখনো ফিরতে পারে। কিন্তু যে ভুল নিজের নাম বদলে হিদায়াত রেখেছে, সে আর পথ খোঁজে না।"
+          },
+          {
+            "en": "Ibn Zayd, in at-Tabari's chain, links the verse to the oaths the Prophet ﷺ was told to swear so that they might take heed, and recites two of them: say, yes, by my Lord, you will surely be raised (64:7), and the oath of 34:3, which this series has already treated. Read this way, the answer to their far error is not a counter-label but a sworn word that what they denied is coming.",
+            "bn": "তাবারীর সনদে ইবন যায়দ আয়াতটিকে সেই শপথগুলোর সঙ্গে জোড়েন, যা নবী ﷺ-কে করতে বলা হয়েছিল, যাতে তারা শিক্ষা নেয়। তিনি দুটি তিলাওয়াত করেন: বলুন, হ্যাঁ, আমার রবের শপথ, তোমাদের অবশ্যই ওঠানো হবে (৬৪:৭), আর ৩৪:৩-এর শপথ, যার আলোচনা এ ধারায় আগেই হয়েছে। এভাবে পড়লে তাদের সুদূর গুমরাহির জবাব কোনো পাল্টা তকমা নয়, বরং শপথ করা কথা: যা তারা অস্বীকার করেছে, তা আসছেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then the Sky and the Earth",
+          "bn": "তারপর আকাশ ও জমিন"
+        },
+        "p": [
+          {
+            "en": "The verse does not end the exchange. Ibn Kathir, in the abridged English, notes that Allah then warns them of His power in the creation of the heavens and the earth, and 34:9 asks whether they have not looked at what is before them and behind them of the sky and the earth. The deniers had called the new creation unreasonable; the next verse points them to a creation already standing over and beneath them. That argument belongs to 34:9.",
+            "bn": "আলাপ এ আয়াতে শেষ হয় না। ইবন কাসীর, সংক্ষিপ্ত ইংরেজি সংস্করণে, উল্লেখ করেন যে এরপর আল্লাহ আকাশ ও জমিন সৃষ্টিতে নিজের ক্ষমতার কথা বলে তাদের সতর্ক করেন। ৩৪:৯ জিজ্ঞেস করে, তারা কি তাদের সামনে আর পেছনে আকাশ ও জমিনের দিকে তাকায়নি? অস্বীকারকারীরা নতুন সৃষ্টিকে অযৌক্তিক বলেছিল। পরের আয়াত তাদের দেখিয়ে দেয় এমন এক সৃষ্টি, যা আগে থেকেই তাদের মাথার উপরে আর পায়ের নিচে দাঁড়িয়ে আছে। সে যুক্তি ৩৪:৯-এর আলোচনার বিষয়।"
+          },
+          {
+            "en": "None of the tafsir files fetched for this verse attaches a hadith to it, and none gives an occasion of revelation beyond the placement already described: the words of those who disbelieved, answered in the same breath. The verse describes what particular deniers said about the Messenger ﷺ and what their denial of the Hereafter meant for them. It licenses nothing against any living person or community, and it hands no one the right to place another person in the punishment it names.",
+            "bn": "এ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস জোড়েনি। ওপরে বলা প্রসঙ্গের বাইরে কোনো শানে নুযূলও দেয়নি: কাফিরদের কথা, আর একই নিঃশ্বাসে তার জবাব। আয়াতটি বর্ণনা করে, নির্দিষ্ট কিছু অস্বীকারকারী রাসূল ﷺ সম্পর্কে কী বলেছিল, আর আখিরাত অস্বীকার তাদের জন্য কী অর্থ বহন করেছিল। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আয়াতে যে শাস্তির কথা আছে, তাতে অন্য কাউকে বসিয়ে দেওয়ার অধিকারও কাউকে দেয় না।"
+          },
+          {
+            "en": "For the reader, the verse is a test. At-Tabari's line, that their unbelief in the Hereafter is why they said what they said, works in both directions. What we believe about the meeting with Allah shapes what we are willing to hear. When a reminder about the Hereafter unsettles us, the easy move is to question the motive or the sanity of whoever brought it. The verse asks us to weigh the claim instead, and to notice how near or far we stand from it.",
+            "bn": "পাঠকের জন্য আয়াতটি এক পরীক্ষা। তাবারীর কথা, আখিরাতে অবিশ্বাসের কারণেই তারা যা বলার বলেছিল, দুই দিকেই খাটে। আল্লাহর সঙ্গে সাক্ষাৎ নিয়ে আমাদের বিশ্বাসই ঠিক করে দেয়, আমরা কী শুনতে রাজি। আখিরাতের কোনো স্মরণ যখন অস্বস্তি জাগায়, সহজ পথ হলো বাহকের নিয়ত বা বুদ্ধি নিয়ে প্রশ্ন তোলা। আয়াতটি বলে, তার বদলে কথাটা মেপে দেখুন, আর খেয়াল করুন, আপনি নিজে তা থেকে কত কাছে বা কত দূরে দাঁড়িয়ে আছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "34:10": {
     "sections": [
       {
