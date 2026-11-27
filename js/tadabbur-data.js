@@ -37113,6 +37113,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A fall does not end the work Allah entrusts to you. Go back to it and carry it to all it reaches; He knows each of them, where you see only a crowd.",
     "lessonBn": "পড়ে যাওয়া মানেই আল্লাহর দেওয়া কাজের শেষ নয়। সে কাজে ফিরে যান, যাদের কাছে পৌঁছায় সবার কাছে পৌঁছে দিন। আপনি দেখেন কেবল ভিড়, তিনি চেনেন প্রত্যেককে।"
+  },
+  "37:163": {
+    "reflectionEn": "The idolaters are told plainly: you, and whatever you worship, cannot tempt anyone away from Allah, except the one who is to burn in the Blaze. A sentence that began with their worship ends with their limit. Neither they nor their idols decide who is lost; that knowledge and that decree belong to Allah. Yet the same verse is read as describing a person who walked toward that company with his own deeds and heart. So it is no list of names, and it hands no one a verdict on anyone. It turns my eyes inward instead. Whose voices am I letting lead me? And do I ask Allah, every day, to keep me among those whom no one can tempt away from Him?",
+    "reflectionBn": "মুশরিকদের সোজাসুজি জানিয়ে দেওয়া হলো: তোমরা আর তোমরা যাদের ইবাদত করো, তারা কাউকে আল্লাহ থেকে ফিতনায় ফেলে সরিয়ে নিতে পারবে না। পারবে শুধু তাকে, যে জাহান্নামের আগুনে জ্বলবে। যে বাক্য শুরু হয়েছিল তাদের উপাসনা দিয়ে, তা শেষ হলো তাদের সীমা দেখিয়ে। কে পথ হারাবে, সে সিদ্ধান্ত তাদের বা তাদের মূর্তির হাতে নেই। সেই জ্ঞান আর সেই ফয়সালা আল্লাহর। তবু এ আয়াতকে এমন মানুষের বর্ণনা হিসেবেও পড়া হয়, যে নিজের আমল আর নিজের অন্তর নিয়ে ওই দলের দিকে হেঁটে গেছে। তাই এখানে কারও নামের তালিকা নেই, কারও ব্যাপারে রায় দেওয়ার অধিকারও কাউকে দেওয়া হয়নি। আয়াতটি বরং আমার চোখ আমার দিকেই ফেরায়। কার কথা আমাকে পথ দেখাচ্ছে? আর আমি কি প্রতিদিন আল্লাহর কাছে চাই, যেন তিনি আমাকে তাদের মধ্যে রাখেন, যাদের কেউ তাঁর থেকে সরিয়ে নিতে পারে না?",
+    "pointsEn": [
+      "Whose voice, in what I read, watch and listen to, has quietly become a guide I follow without asking where it leads?",
+      "When I feel that nothing could shake my faith, do I thank Allah for that steadiness, or credit it to my own strength?",
+      "Have I ever spoken of a living person as bound for the Fire, when this verse leaves that knowledge with Allah alone?",
+      "Which of my habits draw me toward the company of those who turn people away from Allah, and which keep me away from it?",
+      "Do I ask Allah to keep my heart firm as often as I ask Him for the things of this world?"
+    ],
+    "pointsBn": [
+      "যা পড়ি, দেখি আর শুনি, তার মধ্যে কার কথা চুপিসারে আমার পথপ্রদর্শক হয়ে গেছে, অথচ আমি কখনো জিজ্ঞেস করিনি সে আমাকে কোথায় নিয়ে যাচ্ছে?",
+      "যখন মনে হয় কোনো কিছুই আমার ঈমান টলাতে পারবে না, তখন কি এই দৃঢ়তার জন্য আল্লাহর শুকরিয়া আদায় করি, নাকি একে নিজের জোর বলে ভাবি?",
+      "কোনো জীবিত মানুষকে কি কখনো জাহান্নামী বলে ফেলেছি, অথচ এ আয়াত সেই জ্ঞান শুধু আল্লাহর কাছেই রেখে দিয়েছে?",
+      "আমার কোন অভ্যাসগুলো আমাকে তাদের সঙ্গের দিকে টানে, যারা মানুষকে আল্লাহ থেকে ফিরিয়ে নেয়? আর কোনগুলো আমাকে সেখান থেকে দূরে রাখে?",
+      "দুনিয়ার জিনিস যত বার চাই, অন্তর অটল রাখার দোয়া কি আল্লাহর কাছে তত বার করি?"
+    ],
+    "lessonEn": "No one can lead you away from Allah except as He knows and decrees. Guard the company your heart keeps, leave every person's end to Him, and ask Him daily for steadiness.",
+    "lessonBn": "আল্লাহর জ্ঞান আর ফয়সালার বাইরে কেউ আপনাকে তাঁর থেকে সরিয়ে নিতে পারে না। অন্তর কার সঙ্গ নিচ্ছে, সেদিকে খেয়াল রাখুন, কার পরিণাম কী হবে তা তাঁর হাতে ছেড়ে দিন, আর প্রতিদিন তাঁর কাছে দৃঢ়তা চান।"
   }
 };
 

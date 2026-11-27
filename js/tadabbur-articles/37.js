@@ -8219,6 +8219,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:163": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words That Close a Sentence",
+          "bn": "পাঁচ শব্দে বাক্যের ইতি"
+        },
+        "p": [
+          {
+            "en": "Illa man huwa sali al-jahim: except whoever is to burn in the Blaze. These five Arabic words are not a sentence on their own. They close a sentence that began two verses earlier: fa-innakum wa ma ta'buduna, so indeed you and whatever you worship (37:161), ma antum 'alayhi bi-fatinin, you are not tempters of anyone over it (37:162). The power that the idolaters and their gods are thought to hold over people stops at a boundary, and Allah draws it.",
+            "bn": "ইল্লা মান হুয়া সালিল জাহীম: তবে সে ছাড়া, যে জাহান্নামের আগুনে জ্বলবে। আরবির এই পাঁচটি শব্দ একা কোনো পূর্ণ বাক্য নয়। বাক্যটা শুরু হয়েছিল দুই আয়াত আগে: ফা-ইন্নাকুম ওয়া মা তা'বুদূন, তোমরা আর তোমরা যাদের ইবাদত করো (৩৭:১৬১), মা আনতুম আলাইহি বিফাতিনীন, তোমরা কাউকে ফিতনায় ফেলতে পারবে না (৩৭:১৬২)। মুশরিকরা আর তাদের দেবতারা মানুষের উপর যে ক্ষমতা আছে বলে ধরা হয়, তা এক সীমায় এসে থেমে যায়। সেই সীমা টানেন আল্লাহ।"
+          },
+          {
+            "en": "At-Tabari supplies the word the exception assumes: except someone, ahadan, of whom it went before in My knowledge that he is to burn in the Blaze. Sali is the participle of the verb the Muyassar uses when it says yasla al-jahim, to burn in the Blaze, and al-Baghawi glosses the phrase as one who will enter the Fire. Al-Qurtubi adds a point about the spelling: the majority reading is in origin sali with a final ya, which the scribe left out of the written text because it drops out in speech.",
+            "bn": "ব্যতিক্রমটি যে শব্দ ধরে নেয়, তাবারী সেটা খুলে বলেন: তবে এমন কেউ, আহাদান, যার ব্যাপারে আমার জ্ঞানে আগেই আছে যে সে জাহান্নামে জ্বলবে। সালি শব্দটি সেই ক্রিয়া থেকে এসেছে, যা মুয়াসসার ব্যবহার করে 'ইয়াসলাল জাহীম' বলে, অর্থাৎ জাহান্নামে জ্বলা। বাগাভী অংশটির ব্যাখ্যা দেন এভাবে: যে আগুনে প্রবেশ করবে। কুরতুবী বানান নিয়ে একটা কথা যোগ করেন। অধিকাংশ কারির পাঠে শব্দটি মূলত শেষে ইয়াসহ 'সালী'। উচ্চারণে ইয়াটা পড়ে যায় বলে লেখক লেখাতেও তা বাদ দিয়েছেন।"
+          },
+          {
+            "en": "The Muyassar explains the three verses together, as a single statement: you, who associate partners with Allah, and the gods you worship besides Him, will lead no one astray, except one for whom Allah has decreed that he burn in the Blaze, because of his disbelief and his wrongdoing. That closing clause will matter later. The sentence is spoken to the idolaters; the very next verse, 37:164, turns to the angels' own words about their known stations.",
+            "bn": "মুয়াসসার তিনটি আয়াতের ব্যাখ্যা দেয় একসঙ্গে, একটিমাত্র বক্তব্য হিসেবে: হে আল্লাহর সঙ্গে শরিককারীরা, তোমরা আর আল্লাহকে ছেড়ে যেসব দেবতার ইবাদত করো, তারা কাউকেই পথভ্রষ্ট করতে পারবে না। পারবে কেবল তাকে, যার ব্যাপারে আল্লাহ ফয়সালা করে রেখেছেন যে সে জাহান্নামে জ্বলবে, তার কুফর আর জুলুমের কারণে। শেষের এই কথাটুকু পরে কাজে লাগবে। বাক্যটি মুশরিকদের উদ্দেশে বলা। ঠিক পরের আয়াত, ৩৭:১৬৪, চলে যায় ফেরেশতাদের নিজেদের কথায়, তাদের নির্দিষ্ট স্থান নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Worshippers and Worshipped Together",
+          "bn": "উপাসক আর উপাস্য এক কাতারে"
+        },
+        "p": [
+          {
+            "en": "Who is being spoken to? Ibn Kathir opens by saying that Allah is addressing the idolaters, al-mushrikin. At-Tabari, on 37:161, fills in both halves of the subject: you, O those who associate partners with Allah, and what you worship of gods and idols, al-alihah wa al-awthan. As-Sa'di says the same: you idolaters and whoever you worshipped alongside Allah. The address therefore takes in the worshippers and the worshipped at once.",
+            "bn": "কাদের সম্বোধন করা হচ্ছে? ইবন কাসীর শুরুতেই বলেন, আল্লাহ এখানে মুশরিকদের সম্বোধন করছেন। ৩৭:১৬১ আয়াতে তাবারী কর্তার দুই অংশই খুলে দেন: হে আল্লাহর সঙ্গে শরিককারীরা, তোমরা, আর তোমরা যেসব দেবতা ও মূর্তির ইবাদত করো, আল-আলিহা ওয়াল-আওসান। সা'দীও একই কথা বলেন: তোমরা মুশরিকরা, আর আল্লাহর সঙ্গে যাদের তোমরা ইবাদত করেছ। কাজেই সম্বোধনের ভেতরে উপাসক আর উপাস্য দুজনেই আছে।"
+          },
+          {
+            "en": "Al-Qurtubi, on 37:161, lists three ways to take the small word ma. It may mean alladhi, whatever or whoever you worship. It may be a verbal noun, so that the sense is you and your worship of these idols. Or the waw may mean with: you, together with what you worship besides Allah, as the Arabs say ja'a fulan wa fulan for ja'a fulan ma'a fulan. On each reading the worshipper and the object of worship are yoked, so whatever the next verse denies, it denies to both.",
+            "bn": "৩৭:১৬১ আয়াতে কুরতুবী ছোট্ট শব্দ 'মা' বোঝার তিনটি উপায় বলেন। এক, মা মানে আল্লাযী, অর্থাৎ যাদের বা যা কিছুর তোমরা ইবাদত করো। দুই, শব্দটি ক্রিয়াবাচক বিশেষ্য, তখন অর্থ দাঁড়ায়: তোমরা আর এসব মূর্তির প্রতি তোমাদের ইবাদত। তিন, ওয়াও এখানে 'সঙ্গে' অর্থে, অর্থাৎ আল্লাহকে ছেড়ে যাদের ইবাদত করো, তাদের সঙ্গে তোমরা। যেমন আরবরা 'জা-আ ফুলানুন ওয়া ফুলান' বলে বোঝায় অমুক অমুকের সঙ্গে এল। যে পাঠই নেওয়া হোক, উপাসক আর উপাস্য এক জোয়ালে বাঁধা। পরের আয়াত যা অস্বীকার করে, তা দুজনের বেলাতেই করে।"
+          },
+          {
+            "en": "Then the two commentators part on one pronoun, the hi in 'alayhi. At-Tabari, on 37:162, makes it point to the idols: you are not, over what you worship besides Allah, tempters of anyone, that is, you lead no one astray onto it. He also records that 'alayhi was said to mean bihi, by it. Al-Qurtubi instead takes it as 'ala Allah: you cannot mislead anyone against Allah. The English rendering, away from Him, follows the second.",
+            "bn": "এরপর একটি সর্বনামে এসে দুই তাফসীরকারের পথ আলাদা হয়ে যায়, 'আলাইহি' শব্দের 'হি'। ৩৭:১৬২ আয়াতে তাবারী একে মূর্তির দিকে ফেরান: আল্লাহকে ছেড়ে যাদের ইবাদত করো, তাদের ব্যাপারে তোমরা কাউকে ফিতনায় ফেলতে পারবে না, অর্থাৎ কাউকে তাদের দিকে পথভ্রষ্ট করে নিতে পারবে না। তিনি এ-ও উল্লেখ করেন যে কেউ কেউ বলেছেন, আলাইহি এখানে 'বিহি' অর্থে, মানে তা দিয়ে। কুরতুবী অন্যদিকে একে পড়েন 'আলাল্লাহ' হিসেবে: আল্লাহর বিরুদ্ধে তোমরা কাউকে পথভ্রষ্ট করতে পারবে না। ইংরেজি অনুবাদের 'তাঁর থেকে' দ্বিতীয় মতটিকে অনুসরণ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tempters Who Cannot Tempt",
+          "bn": "ফিতনাবাজের হাত বাঁধা"
+        },
+        "p": [
+          {
+            "en": "Bi-fatinin is glossed by nearly every commentary with one word, mudillin, those who lead astray. At-Tabari says it, the Muyassar says it, and al-Qurtubi quotes an-Nahhas saying it. As-Sa'di pairs the two verbs, to tempt and to lead astray. Al-Qurtubi adds a line of verse in which wa kana lana fatinan, and he was a fatin to us, is explained as a misleader. At-Tabari and al-Qurtubi, the latter citing al-Farra', both record a difference of dialect: the people of the Hijaz say fatantu, the people of Najd aftantu.",
+            "bn": "বিফাতিনীন শব্দের ব্যাখ্যায় প্রায় সব তাফসীর একটিই শব্দ ব্যবহার করে: মুদিল্লীন, যারা পথভ্রষ্ট করে। তাবারী তাই বলেন, মুয়াসসারও তাই বলে, আর কুরতুবী নাহহাসের মুখে একই কথা উদ্ধৃত করেন। সা'দী দুটি ক্রিয়া পাশাপাশি রাখেন: ফিতনায় ফেলা আর পথভ্রষ্ট করা। কুরতুবী একটি কবিতার চরণও আনেন, যেখানে 'ওয়া কানা লানা ফাতিনা', সে ছিল আমাদের জন্য ফাতিন, কথাটির অর্থ করা হয়েছে পথভ্রষ্টকারী। তাবারী আর কুরতুবী, শেষেরজন ফাররার বরাতে, আঞ্চলিক ভাষার একটা পার্থক্যও লিখে রাখেন। হিজাজের লোকেরা বলে ফাতানতু, আর নজদের লোকেরা বলে আফতানতু।"
+          },
+          {
+            "en": "As-Sa'di then says what the sentence is for. Its purpose, he writes, is to show the helplessness of the idolaters and of their gods to mislead anyone, and to show the perfection of Allah's power; so let them not hope to mislead Allah's sincere servants and His successful party. Those sincere servants are the ones excepted in 37:160, which has its own article.",
+            "bn": "বাক্যটি কী উদ্দেশ্যে, সা'দী তা স্পষ্ট করেন। তাঁর ভাষায়, এর উদ্দেশ্য হলো দেখিয়ে দেওয়া যে মুশরিকরা আর তাদের দেবতারা কাউকে পথভ্রষ্ট করতে অক্ষম, আর দেখিয়ে দেওয়া যে আল্লাহর ক্ষমতা পূর্ণ। কাজেই তারা যেন আল্লাহর একনিষ্ঠ বান্দা আর তাঁর সফল দলকে পথভ্রষ্ট করার আশা না করে। সেই একনিষ্ঠ বান্দাদের কথা এসেছে ৩৭:১৬০ আয়াতের ব্যতিক্রমে, তার আলাদা প্রবন্ধ আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Known, Written and Decreed",
+          "bn": "জানা, লেখা, ফয়সালা করা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then gathers the early readers, and nearly all of them explain the exception by what Allah knew or decreed beforehand. One report from Ibn 'Abbas has: you will not tempt anyone onto your idols, except one of whom it went before that he is to burn in the Blaze. Al-Hasan was asked twice. To Khalid he said: except one on whom Allah made it binding that he burn in the Blaze. To Humayd he said: except one who was, in Allah's knowledge, going to burn in it.",
+            "bn": "এরপর তাবারী প্রথম যুগের ব্যাখ্যাকারদের কথা একত্র করেন। প্রায় সবাই ব্যতিক্রমটির ব্যাখ্যা দেন আল্লাহ আগে থেকে কী জানতেন বা কী ফয়সালা করেছিলেন, তা দিয়ে। ইবন আব্বাস (রাঃ)-এর একটি বর্ণনায় আছে: তোমরা তোমাদের মূর্তির দিকে কাউকে ফিতনায় ফেলতে পারবে না, তাকে ছাড়া, যার ব্যাপারে আগেই স্থির হয়ে আছে যে সে জাহান্নামে জ্বলবে। হাসানকে দুবার প্রশ্ন করা হয়েছিল। খালিদকে তিনি বলেন: তবে সে ছাড়া, যার উপর আল্লাহ জাহান্নামে জ্বলা অবধারিত করেছেন। হুমাইদকে বলেন: তবে সে ছাড়া, যে আল্লাহর জ্ঞানে জাহান্নামে জ্বলবে বলে আছে।"
+          },
+          {
+            "en": "Ibrahim, in two chains, says: except one for whom it was measured out, and: except one for whom it was written, that he burn in the Blaze. As-Suddi says: except one whom Allah wrote would burn. Ad-Dahhak says: except one for whom wretchedness, ash-shaqawa, had gone before. Ibn Zayd says: except one whom Allah decreed to be of the people of the Fire. Al-Baghawi joins two of these strands in one line: except one for whom Allah decreed that he would enter the Fire, that is, for whom wretchedness went before in Allah's knowledge.",
+            "bn": "দুটি সূত্রে ইবরাহীম বলেন: তবে সে ছাড়া, যার জন্য জাহান্নামে জ্বলা নির্ধারিত হয়ে আছে। অন্য সূত্রে: যার জন্য তা লেখা হয়ে আছে। সুদ্দী বলেন: তবে সে ছাড়া, যার ব্যাপারে আল্লাহ লিখে রেখেছেন যে সে জ্বলবে। দাহহাক বলেন: তবে সে ছাড়া, যার জন্য দুর্ভাগ্য, আশ-শাকাওয়া, আগেই স্থির হয়ে আছে। ইবন যায়দ বলেন: তবে সে ছাড়া, যাকে আল্লাহ জাহান্নামীদের একজন বলে ফয়সালা করেছেন। বাগাভী এক বাক্যে এর দুটো ধারা মিলিয়ে দেন: তবে সে ছাড়া, যার ব্যাপারে আল্লাহ নির্ধারণ করেছেন যে সে আগুনে প্রবেশ করবে, অর্থাৎ আল্লাহর জ্ঞানে যার দুর্ভাগ্য আগেই স্থির হয়ে আছে।"
+          },
+          {
+            "en": "Al-Qurtubi, on 37:162, quotes an-Nahhas: the people of tafsir are agreed, as far as he knew, that the meaning is that you mislead no one except one for whom Allah decreed that he go astray. The words differ from reader to reader: knowledge, writing, measuring out, making binding, decree. The commentators lay them side by side and do not set one against another. This article records each as it was said, and enters none of the later arguments built on them.",
+            "bn": "৩৭:১৬২ আয়াতে কুরতুবী নাহহাসের কথা উদ্ধৃত করেন: তাঁর জানামতে তাফসীরবিদরা একমত যে অর্থ হলো, তোমরা কাউকেই পথভ্রষ্ট করতে পারবে না, তাকে ছাড়া, যার পথভ্রষ্ট হওয়া আল্লাহ নির্ধারণ করে রেখেছেন। একেক জনের শব্দ একেক রকম: জ্ঞান, লিখে রাখা, পরিমাপ করে স্থির করা, অবধারিত করা, ফয়সালা। তাফসীরকারেরা এগুলো পাশাপাশি রাখেন, একটাকে আরেকটার বিপরীতে দাঁড় করান না। এ প্রবন্ধও প্রত্যেকের কথা যেভাবে বলা হয়েছে সেভাবেই রাখছে। এসব কথার উপর পরে যেসব তর্ক গড়ে উঠেছে, তার কোনোটিতে এ প্রবন্ধ ঢুকছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Allied by the Deeds of Fire",
+          "bn": "আগুনের আমলে তাদের দোসর"
+        },
+        "p": [
+          {
+            "en": "One voice in at-Tabari's list puts the weight elsewhere. Qatada says: you mislead none of My servants with this falsehood of yours, except one who took you as allies, tawallakum, by the deeds of the Fire. Here the person who is led astray is described by his own allegiance and his own deeds. The Muyassar, as noted above, says the same in a closing phrase: Allah decreed that he burn, because of his disbelief and his wrongdoing.",
+            "bn": "তাবারীর তালিকায় একজনের কথায় জোরটা পড়ে অন্য জায়গায়। কাতাদা বলেন: তোমাদের এই বাতিল দিয়ে তোমরা আমার বান্দাদের কাউকেই পথভ্রষ্ট করতে পারবে না, তাকে ছাড়া, যে আগুনের আমল করে তোমাদের দোসর হয়েছে, তাওয়াল্লাকুম। এখানে পথভ্রষ্ট মানুষটির পরিচয় দেওয়া হয়েছে তার নিজের আনুগত্য আর নিজের আমল দিয়ে। আগেই বলা হয়েছে, মুয়াসসারও শেষের একটুকরো কথায় এটাই বলে: আল্লাহ ফয়সালা করেছেন সে জ্বলবে, তার কুফর আর জুলুমের কারণে।"
+          },
+          {
+            "en": "Ibn Kathir describes the follower in sharper terms. No one yields to your words, he writes, or to your misguidance and false worship, except one more astray than you, among those created for the Fire. He then cites 7:179: they have hearts with which they do not understand, eyes with which they do not see, and ears with which they do not hear; they are like cattle, rather more astray; they are the heedless.",
+            "bn": "অনুসারীর বর্ণনা ইবন কাসীর দেন আরও কড়া ভাষায়। তিনি লেখেন, তোমাদের কথায়, তোমাদের গোমরাহি আর বাতিল ইবাদতে সাড়া দেয় কেবল সেই লোক, যে তোমাদের চেয়েও বেশি পথভ্রষ্ট, যারা আগুনের জন্য সৃষ্ট তাদের একজন। তারপর তিনি ৭:১৭৯ আয়াত আনেন: তাদের অন্তর আছে কিন্তু তা দিয়ে বোঝে না, চোখ আছে কিন্তু তা দিয়ে দেখে না, কান আছে কিন্তু তা দিয়ে শোনে না। তারা চতুষ্পদ জন্তুর মতো, বরং তার চেয়েও বেশি পথহারা। তারাই গাফেল।"
+          },
+          {
+            "en": "He adds 51:8 and 51:9: you are in differing speech; turned away from it is whoever is turned away. Only someone deluded and given to falsehood, he explains, is led astray by it. Set together, the sources hold two things in a single frame. The end lies within Allah's knowledge and decree, and whoever follows the misleaders is described by his own heedless heart and his own deeds.",
+            "bn": "তিনি ৫১:৮ ও ৫১:৯ আয়াতও আনেন: তোমরা তো পরস্পরবিরোধী কথায় পড়ে আছ। তা থেকে ফিরিয়ে নেওয়া হয় তাকেই, যাকে ফিরিয়ে নেওয়া হয়েছে। তাঁর ব্যাখ্যায়, এতে পথভ্রষ্ট হয় কেবল সেই লোক, যে প্রতারিত আর বাতিলের পক্ষের। সব কথা একসঙ্গে রাখলে উৎসগুলো দুটি বিষয় এক ফ্রেমে ধরে রাখে। পরিণাম আল্লাহর জ্ঞান আর ফয়সালার ভেতরে। আবার যে ভ্রষ্টকারীদের পিছু নেয়, তার পরিচয় তার নিজের গাফেল অন্তর আর নিজের আমল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Caliph Recites the Verse",
+          "bn": "খলিফার মুখে এই আয়াত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari closes his list with a scene. Ten men, all of them debaters, came in to 'Umar ibn 'Abd al-'Aziz. When he spoke, the narrator says, we thought he had overturned what we held. He asked them whether they knew the explanation of this verse, recited 37:161 to 37:163, and explained it in Allah's voice: you and the gods you worship are not such as to tempt anyone over them, except one whom I have decreed is to burn in the Blaze.",
+            "bn": "তাবারী তাঁর তালিকা শেষ করেন একটা দৃশ্য দিয়ে। দশজন লোক, সবাই তর্কবিদ, উমর ইবন আবদুল আযীযের কাছে এল। বর্ণনাকারী বলেন, উমর যখন কথা বললেন, আমাদের মনে হলো তিনি আমাদের ধারণা খণ্ডন করে দিয়েছেন। তিনি তাদের জিজ্ঞেস করলেন, তোমরা কি এই আয়াতের তাফসীর জানো? তারপর ৩৭:১৬১ থেকে ৩৭:১৬৩ পর্যন্ত পড়লেন। এরপর আল্লাহর জবানিতে এর ব্যাখ্যা দিলেন: তোমরা আর তোমরা যাদের ইবাদত করো, তাদের দিকে তোমরা কাউকে ফিতনায় ফেলতে পারবে না, তাকে ছাড়া, যার ব্যাপারে আমি ফয়সালা করেছি যে সে জাহান্নামে জ্বলবে।"
+          },
+          {
+            "en": "Al-Qurtubi, on 37:162, gives the meeting through a different narrator, 'Amr ibn Dharr. The decree was mentioned in 'Umar's presence, and he said: had Allah willed not to be disobeyed, He would not have created Iblis, the head of sin; there is knowledge of this in Allah's Book, known to whoever knows it and unknown to whoever does not. He recited the verses and said that this verse had separated people. Al-Qurtubi presents the verse as a reply to a group who denied the decree.",
+            "bn": "৩৭:১৬২ আয়াতে কুরতুবী একই সাক্ষাতের কথা আনেন অন্য এক বর্ণনাকারীর সূত্রে, আমর ইবন যর। উমরের সামনে তাকদিরের প্রসঙ্গ উঠলে তিনি বললেন: আল্লাহ যদি চাইতেন তাঁর নাফরমানি না হোক, তাহলে তিনি গুনাহের মূল ইবলিসকে সৃষ্টি করতেন না। এ বিষয়ে আল্লাহর কিতাবে জ্ঞান আছে। যে জানার সে জানে, যে জানে না সে জানে না। তারপর তিনি আয়াতগুলো পড়লেন আর বললেন, এই আয়াত মানুষের মাঝে ভাগ টেনে দিয়েছে। কুরতুবী আয়াতটিকে উপস্থাপন করেন এমন এক দলের জবাব হিসেবে, যারা তাকদির অস্বীকার করত।"
+          },
+          {
+            "en": "Al-Qurtubi's passage goes on to a meaning of the verse: the devils reach the misleading of no one except one about whom Allah wrote that he would not be guided, and had Allah known that he would be guided, He would have come between him and them. The passage reads 17:64 the same way: you reach nothing of them except what is in My knowledge. The two accounts of 'Umar differ in chain and wording, so each is kept to its own book. None of the commentaries fetched for this verse attaches a hadith of the Prophet ﷺ to it.",
+            "bn": "কুরতুবীর আলোচনা এরপর আয়াতের একটি অর্থে যায়: শয়তানরা কাউকে পথভ্রষ্ট করতে পারে না, তাকে ছাড়া, যার ব্যাপারে আল্লাহ লিখে রেখেছেন যে সে হিদায়াত পাবে না। আল্লাহ যদি জানতেন সে হিদায়াত পাবে, তাহলে তিনি তার আর তাদের মাঝে আড়াল টেনে দিতেন। ১৭:৬৪ আয়াতকেও সেখানে এভাবেই পড়া হয়েছে: আমার জ্ঞানে যা আছে, তার বাইরে তুমি তাদের কিছুই নাগাল পাবে না। উমরের দুটি বর্ণনার সূত্র আর শব্দ আলাদা, তাই প্রত্যেকটি তার নিজের কিতাবের সঙ্গেই রাখা হলো। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Hasan's Reading, Salu",
+          "bn": "হাসানের পাঠ: সালু"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports that al-Hasan was said to have read salu, with the lam in the nominative. If he meant a plural, at-Tabari says, taking man in its plural sense, that is a possible way, though another form is more eloquent. If he meant a singular, the grammarians count it a solecism, as one may not say hadha ramun or qadun, unless the Arabs were heard using a transposed form, like shaku al-silah beside shaki al-silah. He heard of no one reporting that.",
+            "bn": "তাবারী জানান, হাসান সম্পর্কে বলা হয় যে তিনি পড়েছিলেন 'সালু', লামে পেশ দিয়ে। তাবারী বলেন, তিনি যদি 'মান'-কে বহুবচনের অর্থে নিয়ে থাকেন, তবে এর একটা পথ আছে, যদিও অন্য রূপটি বেশি বিশুদ্ধ। আর যদি একবচন বুঝিয়ে থাকেন, তবে ব্যাকরণবিদদের কাছে তা ভুল উচ্চারণ, যেমন 'হাযা রামুন' বা 'কাদুন' বলা চলে না। অবশ্য আরবদের মুখে উল্টে নেওয়া কোনো রূপ শোনা গেলে আলাদা কথা, যেমন শাকুস-সিলাহ আর শাকিস-সিলাহ। তাবারী বলেন, এমন শোনার কথা কাউকে বলতে তিনি শোনেননি।"
+          },
+          {
+            "en": "Al-Qurtubi quotes an-Nahhas: the commentators call the reading a solecism, since hadha qadu al-madina is not permitted. The best he heard came from 'Ali ibn Sulayman: man is plural in sense, so the form is salun, with the nun dropped for the construct and the waw for the meeting of two silent letters. Two other routes are listed: a transposed sa'il, as in shafa jurufin har (9:109), or a dropped final letter. The majority reading, as noted at the start, is sali, with its final ya unwritten.",
+            "bn": "কুরতুবী নাহহাসের কথা উদ্ধৃত করেন: তাফসীরবিদরা এই পাঠকে ভুল উচ্চারণ বলেন, কারণ 'হাযা কাদুল মাদীনা' বলা যায় না। এ বিষয়ে তিনি সবচেয়ে ভালো ব্যাখ্যা শুনেছেন আলী ইবন সুলাইমানের কাছে। 'মান' অর্থের দিক থেকে বহুবচন, তাই রূপটি 'সালূন'। সম্বন্ধপদ হওয়ায় নূন পড়ে গেছে, আর দুই সাকিন মিলে যাওয়ায় ওয়াও পড়ে গেছে। আরও দুটি পথের কথা বলা হয়েছে: উল্টে নেওয়া 'সাইল', যেমন শাফা জুরুফিন হার (৯:১০৯), অথবা শেষ বর্ণ বাদ পড়া। শুরুতে যেমন বলা হয়েছে, অধিকাংশের পাঠ 'সালি', শেষের ইয়াটি লেখায় নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Verdict Handed to Us",
+          "bn": "রায় দেওয়ার ভার আমাদের নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying firmly. The verse speaks to the idolaters it addresses and to the gods they worshipped, and it states what Allah knows of an outcome. It gives no one a licence to point at any living person or community and say: this person is among those who will burn. The commentators speak of what lies in Allah's knowledge and decree, and that knowledge is not ours to read off anyone's face. This article places no one in the Fire.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াতটি যে মুশরিকদের সম্বোধন করেছে, তাদের আর তাদের উপাস্যদের উদ্দেশে কথা বলে। কোনো পরিণাম সম্পর্কে আল্লাহ যা জানেন, তা জানিয়ে দেয়। কোনো জীবিত মানুষ বা সম্প্রদায়ের দিকে আঙুল তুলে 'এ জাহান্নামে জ্বলবে' বলার অনুমতি এ আয়াত কাউকে দেয় না। তাফসীরকারেরা কথা বলেছেন আল্লাহর জ্ঞান আর ফয়সালায় যা আছে, তা নিয়ে। সেই জ্ঞান কারও চেহারা দেখে পড়ে ফেলার জিনিস নয়, আমাদের হাতেও নেই। এ প্রবন্ধ কাউকে জাহান্নামে রাখছে না।"
+          },
+          {
+            "en": "What the verse does leave in our hands is narrower and nearer. The misleaders' reach is limited, as as-Sa'di says, and whoever they reach is described, by Qatada and by Ibn Kathir, through his own allegiance and his heedless heart. That turns the reader inward: whose voice am I allowing to lead me, and toward what? The next verse, 37:164, gives the angels' answer to the claims made about them, and it speaks of servants who know their place.",
+            "bn": "আয়াতটি আমাদের হাতে যা রেখে দেয়, তা আরও ছোট আর আরও কাছের। সা'দী যেমন বলেন, পথভ্রষ্টকারীদের নাগাল সীমিত। আর তারা যাকে নাগালে পায়, কাতাদা ও ইবন কাসীর তার পরিচয় দেন তার নিজের আনুগত্য আর তার গাফেল অন্তর দিয়ে। এতে পাঠকের চোখ নিজের দিকে ফেরে। কার কথা আমাকে পথ দেখাচ্ছে, আর কোন দিকে? পরের আয়াত, ৩৭:১৬৪, তাদের সম্পর্কে করা দাবির জবাব দেয় ফেরেশতাদের মুখে। সেখানে কথা আছে এমন বান্দাদের, যারা নিজেদের জায়গা চেনে।"
+          },
+          {
+            "en": "And there is room for hope. As-Sa'di reads the sentence as a word to the misleaders: do not hope to mislead Allah's sincere servants. So the fitting response is to keep watch over the company the heart keeps, to leave every other person's end to Allah, and to ask Him, day after day, to keep us among those whom no one can tempt away from Him.",
+            "bn": "আশার জায়গাও আছে। সা'দী বাক্যটিকে পড়েন পথভ্রষ্টকারীদের প্রতি এক সতর্কবাণী হিসেবে: আল্লাহর একনিষ্ঠ বান্দাদের পথভ্রষ্ট করার আশা কোরো না। তাই এর উপযুক্ত জবাব হলো অন্তর কার সঙ্গ নিচ্ছে, সেদিকে নজর রাখা। অন্য প্রত্যেকের পরিণাম আল্লাহর হাতে ছেড়ে দেওয়া। আর দিনের পর দিন তাঁর কাছে চাওয়া, তিনি যেন আমাদের তাদের মধ্যে রাখেন, যাদের কেউ তাঁর থেকে সরিয়ে নিতে পারে না।"
+          }
+        ]
+      }
+    ]
+  },
   "37:166": {
     "sections": [
       {
