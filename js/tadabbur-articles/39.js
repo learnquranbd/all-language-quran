@@ -3763,6 +3763,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "39:71": {
+    "sections": [
+      {
+        "h": {
+          "en": "Driven, Not Walking",
+          "bn": "হেঁটে নয়, তাড়া খেয়ে"
+        },
+        "p": [
+          {
+            "en": "Wa-siqa alladhina kafaru ila jahannama zumara: and those who disbelieved will be driven to Hell in groups. Al-Qurtubi reads it as the working out of the verse before it, in which every soul is paid in full for what it did: the one who disbelieved is driven to the Fire and the believer to Paradise. As-Sa'di frames it from another side. Allah had gathered His servants together in creation, provision, this world and the standing of Resurrection; at the recompense He separated them, as they had separated here by faith and disbelief, mindfulness and wickedness.",
+            "bn": "ওয়া সীকাল্লাযীনা কাফারূ ইলা জাহান্নামা যুমারা: আর যারা কুফরি করেছে, তাদের দলে দলে জাহান্নামের দিকে হাঁকিয়ে নেওয়া হবে। কুরতুবী আয়াতটিকে তার ধারাবাহিকতার ভেতরে বসান। আগের আয়াত কথা দিয়েছিল, প্রত্যেক প্রাণ তার আমলের পুরো প্রতিফল পাবে। এ আয়াত সেই কথারই বিস্তার: কাফিরকে হাঁকিয়ে নেওয়া হবে আগুনের দিকে, মুমিনকে জান্নাতের দিকে। সা'দী একই কথা বলেন অন্য দিক থেকে। আল্লাহ তাঁর বান্দাদের এক জায়গায় জড়ো করেছিলেন সৃষ্টিতে, রিজিকে, দুনিয়ার জীবনে, আবার কিয়ামতের ময়দানেও। প্রতিফলের সময় তিনি তাদের আলাদা করে দিলেন, ঠিক যেমন দুনিয়ায় তারা আলাদা হয়ে গিয়েছিল ঈমান আর কুফরে, তাকওয়া আর পাপাচারে।"
+          },
+          {
+            "en": "The verb is passive, and the commentators say what kind of driving it is. Ibn Kathir calls it a violent driving, with rebuke, threat and menace, and reads it beside 52:13, the Day they are shoved into the fire of Hell with a shove, which he explains as being pushed towards it. He adds that they go thirsty, citing 19:85 and 19:86, where the mindful are gathered to the Most Merciful as a delegation and the guilty are driven to Hell as herds are driven to water. Al-Baghawi too glosses the driving as violent.",
+            "bn": "ক্রিয়াটি কর্মবাচ্যে, আর কেমন সেই হাঁকিয়ে নেওয়া, তা তাফসীরকারেরা বলে দেন। ইবন কাসীরের ভাষায় এটা কঠোর তাড়না, সঙ্গে ধমক, হুমকি আর শাসানি। তিনি একে পড়েন ৫২:১৩ আয়াতের পাশে, যেদিন তাদের ধাক্কা দিয়ে জাহান্নামের আগুনের দিকে ঠেলে দেওয়া হবে। তাঁর ব্যাখ্যায় এর মানে, তাদের সেদিকে ঠেলে নেওয়া হবে। তিনি আরও বলেন, তারা তখন তৃষ্ণার্ত। প্রমাণ হিসেবে আনেন ১৯:৮৫ ও ১৯:৮৬, যেখানে মুত্তাকীদের দয়াময়ের কাছে আনা হবে সম্মানিত প্রতিনিধিদলের মতো, আর অপরাধীদের জাহান্নামের দিকে হাঁকানো হবে যেভাবে পশুপাল পানির ঘাটে হাঁকানো হয়। বাগাভীও এই হাঁকানোকে বলেন কঠোর তাড়না।"
+          },
+          {
+            "en": "Ibn Kathir completes the picture from 17:97: in that state they are deaf, dumb and blind, and some of them walk on their faces. As-Sa'di describes the driving in harder terms still. The zabaniya, harsh and severe, strike them with painful whips, towards the worst of prisons and the most dreadful of places, a Hell that has gathered every punishment and from which every joy has gone. He explains the shoving of 52:13 by their refusal to enter. Nobody walks towards that gate willingly, and that is why they must be driven.",
+            "bn": "ইবন কাসীর ছবিটা পূর্ণ করেন ১৭:৯৭ আয়াত দিয়ে। সেই অবস্থায় তারা বধির, বোবা ও অন্ধ, আর তাদের কেউ কেউ হাঁটবে মুখের উপর ভর দিয়ে। সা'দীর বর্ণনা আরও কঠিন। রূঢ় ও কঠোর যাবানিয়া ফেরেশতারা যন্ত্রণাদায়ক চাবুক দিয়ে তাদের পেটাতে পেটাতে নিয়ে যাবে সবচেয়ে নিকৃষ্ট কারাগারে, সবচেয়ে ভয়াবহ জায়গায়। সে এমন জাহান্নাম, যেখানে সব রকমের শাস্তি জমা হয়েছে আর সব আনন্দ বিদায় নিয়েছে। ৫২:১৩ আয়াতের ধাক্কা দেওয়ার কারণও তিনি বলে দেন: তারা ভেতরে ঢুকতে রাজি হবে না। ওই দরজার দিকে কেউ স্বেচ্ছায় হাঁটে না। তাই তাদের তাড়িয়ে নিতে হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Crowds That Match Their Deeds",
+          "bn": "আমলের মাপে দল"
+        },
+        "p": [
+          {
+            "en": "Zumara, the word that gives the surah its name, is the plural of zumra. At-Tabari explains it as groups, group by group and party by party, and supports it with Qatada, who said simply: groups. Al-Qurtubi gives the same meaning and adds the grammarians: al-Akhfash and Abu 'Ubayda said zumar are separate groups, one following another,. He also reports, with it is said, a reading that ties the word to a sound: pushing and rebuking with a voice like the sound of a reed pipe, the mizmar.",
+            "bn": "যুমারা শব্দটি থেকেই সূরার নাম আয-যুমার। এটি যুমরা শব্দের বহুবচন। তাবারী এর অর্থ করেন দল, একেক দল করে, একেক গোষ্ঠী করে। সমর্থনে তিনি আনেন কাতাদাকে, যিনি সংক্ষেপে বলেছেন: দলসমূহ। কুরতুবীও একই অর্থ দেন, সঙ্গে ব্যাকরণবিদদের কথা যোগ করেন। আখফাশ ও আবু উবাইদা বলেছেন, যুমার হলো আলাদা আলাদা দল, একটার পেছনে আরেকটা। 'বলা হয়' বলে তিনি আরেকটি ব্যাখ্যাও আনেন, যা শব্দটিকে একটা আওয়াজের সাথে জুড়ে দেয়: বাঁশির সুরের মতো শব্দে ধাক্কা আর ধমক। আরবিতে বাঁশিকে বলে মিযমার।"
+          },
+          {
+            "en": "Al-Baghawi says the groups come one after another, each nation by itself. As-Sa'di looks at who walks with whom. Each group goes with the group whose deeds suit it and whose striving resembles its own, and he adds what the march sounds like: they curse one another and disown one another. The same word returns two verses later, in 39:73, for a very different crowd, and the article on that verse covers how the two scenes mirror each other.",
+            "bn": "বাগাভী বলেন, দলগুলো আসবে একটার পর একটা, প্রত্যেক উম্মত আলাদাভাবে। সা'দী দেখেন কে কার সাথে হাঁটছে। প্রত্যেক দল যাবে সেই দলের সাথে, যাদের আমল তার আমলের মানানসই, যাদের চেষ্টা তার চেষ্টার মতো। মিছিলটা কেমন শোনায়, তাও তিনি বলেন: তারা একে অপরকে লানত করবে, একে অপরের সাথে সম্পর্ক অস্বীকার করবে। দুই আয়াত পরে, ৩৯:৭৩ আয়াতে, শব্দটি আবার আসে, একেবারে ভিন্ন এক দলের জন্য। দুই দৃশ্য কীভাবে একে অপরের প্রতিচ্ছবি, সে আলোচনা আছে ওই আয়াতের প্রবন্ধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gates Shut Until Arrival",
+          "bn": "পৌঁছানো পর্যন্ত বন্ধ দরজা"
+        },
+        "p": [
+          {
+            "en": "Hatta idha ja'uha futihat abwabuha: until, when they reach it, its gates are opened. At-Tabari, al-Muyassar and al-Baghawi all give the number: its seven gates. Al-Qurtubi says the same and refers back to his commentary on al-Hijr, the surah in which the Qur'an says Hell has seven gates (15:44). Al-Muyassar names who opens them, the keepers placed in charge of Hell. Al-Baghawi adds one detail that shapes the whole scene: the gates had been closed before that. Nothing stood open and waiting for this crowd; the gates opened only when it arrived.",
+            "bn": "হাত্তা ইযা জা'ঊহা ফুতিহাত আবওয়াবুহা: শেষে যখন তারা সেখানে পৌঁছবে, তার দরজাগুলো খুলে দেওয়া হবে। তাবারী, মুয়াসসার ও বাগাভী তিনজনই সংখ্যাটা বলে দেন: তার সাতটি দরজা। কুরতুবীও তাই বলেন, আর পাঠককে ফিরিয়ে দেন সূরা আল-হিজরের তাফসীরে, যেখানে কুরআন বলেছে জাহান্নামের সাতটি দরজা (১৫:৪৪)। দরজা কারা খোলে, মুয়াসসার তা জানান: জাহান্নামের দায়িত্বে নিযুক্ত রক্ষীরা। বাগাভী এমন একটা তথ্য যোগ করেন, যা পুরো দৃশ্যটাকে বদলে দেয়: এর আগে দরজাগুলো বন্ধ ছিল। এই দলের জন্য কিছুই খোলা অবস্থায় অপেক্ষা করছিল না। তারা পৌঁছানোর পরই দরজা খুলেছে।"
+          },
+          {
+            "en": "Why at that moment? Ibn Kathir says that as soon as they arrive the gates are opened quickly, to hasten their punishment upon them. Al-Qurtubi makes a grammatical point: futihat is the answer to idha, the main clause the sentence was waiting for, so the arrival and the opening follow each other directly. In 39:73 the verse about Paradise repeats the same sentence with one added letter, wa, before futihat, and the commentators read much into that difference. The article on that verse takes it up, and it is not retold here.",
+            "bn": "ঠিক ওই মুহূর্তেই কেন? ইবন কাসীর বলেন, তারা পৌঁছানো মাত্র দরজাগুলো দ্রুত খুলে দেওয়া হয়, যাতে তাদের শাস্তি তাড়াতাড়ি শুরু হয়। কুরতুবী একটা ব্যাকরণের কথা তোলেন। ফুতিহাত শব্দটি ইযা-র জবাব, অর্থাৎ বাক্যটি যে মূল অংশের অপেক্ষায় ছিল, এটাই সেই অংশ। তাই পৌঁছানো আর খুলে যাওয়া আসে একটার ঠিক পরেই আরেকটা। ৩৯:৭৩ আয়াতে জান্নাতের বর্ণনায় একই বাক্য আবার আসে, শুধু ফুতিহাত-এর আগে একটি বাড়তি অক্ষর, ওয়াও। এই পার্থক্য থেকে তাফসীরকারেরা অনেক কিছু বের করেছেন। ওই আয়াতের প্রবন্ধে সে আলোচনা আছে, এখানে তার পুনরাবৃত্তি করা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Welcome Turned Inside Out",
+          "bn": "উল্টে যাওয়া আপ্যায়ন"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the opening with a hard irony. The gates are opened lahum, for them, he says: for their arrival, and as qira, the hospitality laid out for a guest who comes to stay. Then wa-qala lahum khazanatuha, and its keepers say to them. In as-Sa'di's words the keepers speak congratulating them on everlasting misery and endless punishment, and rebuking them for the deeds that brought them to this dreadful place. The language of a host greeting guests is used here for its opposite.",
+            "bn": "সা'দী দরজা খোলাটাকে পড়েন কঠিন এক বিদ্রূপ হিসেবে। তিনি বলেন, দরজা খোলা হয় লাহুম, তাদের জন্য: তাদের আগমনের জন্য, আর কিরা হিসেবে। কিরা হলো সেই আপ্যায়ন, যা থাকতে আসা মেহমানের সামনে সাজিয়ে দেওয়া হয়। তারপর ওয়া কালা লাহুম খাযানাতুহা: আর তার রক্ষীরা তাদের বলবে। সা'দীর ভাষায় রক্ষীরা কথা বলে তাদের চিরস্থায়ী দুর্ভাগ্য আর অন্তহীন শাস্তির জন্য অভিনন্দন জানিয়ে, আর যে আমল তাদের এই ভয়ংকর জায়গায় পৌঁছে দিয়েছে, তার জন্য ভর্ৎসনা করে। মেহমানকে স্বাগত জানানোর ভাষা এখানে ব্যবহার হচ্ছে ঠিক তার উল্টো অর্থে।"
+          },
+          {
+            "en": "Who are the keepers? At-Tabari glosses khazanatuha as its custodians, those who manage it. Al-Qurtubi notes that the singular is khazin, on the same pattern as sadin and sadana, the custodians of a shrine. Ibn Kathir says they are from the zabaniya, harsh in manner and severe in strength. On the tone of what they say, the commentators agree. Al-Qurtubi and al-Baghawi call it taqri' and tawbikh, reproach and rebuke, and Ibn Kathir adds tankil, the kind of treatment that makes an example of someone. Al-Muyassar gives the rebuke words of its own: how could you disobey Allah and deny that He alone is the true God?",
+            "bn": "রক্ষীরা কারা? তাবারী খাযানাতুহা শব্দের অর্থ করেন তার তত্ত্বাবধায়ক, যারা তা পরিচালনা করে। কুরতুবী জানান, এর একবচন খাযিন, ঠিক যেমন সাদিন থেকে সাদানা, অর্থাৎ উপাসনালয়ের রক্ষণাবেক্ষণকারী। ইবন কাসীর বলেন, তারা যাবানিয়াদের অন্তর্ভুক্ত, স্বভাবে রূঢ়, শক্তিতে প্রবল। তারা যে সুরে কথা বলে, সে বিষয়ে তাফসীরকারেরা একমত। কুরতুবী ও বাগাভী একে বলেন তাকরী' ও তাওবীখ, অর্থাৎ তিরস্কার ও ভর্ৎসনা। ইবন কাসীর এর সাথে যোগ করেন তানকীল, এমন আচরণ যা কাউকে অন্যদের জন্য দৃষ্টান্ত বানিয়ে দেয়। মুয়াসসার ধমকটা নিজের ভাষায় তুলে ধরেন: তোমরা কীভাবে আল্লাহর নাফরমানি করলে, আর অস্বীকার করলে যে তিনিই একমাত্র সত্য ইলাহ?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Messengers You Could Have Asked",
+          "bn": "যাঁদের কাছে শেখা যেত"
+        },
+        "p": [
+          {
+            "en": "A-lam ya'tikum rusulun minkum: did there not come to you messengers from among you? Ibn Kathir explains minkum as of your own kind, so that you could speak with them and learn from them. As-Sa'di says the same and adds that they knew these messengers, knew their truthfulness, and were able to receive from them. Al-Baghawi glosses it as from yourselves. The weight of from among you is that nothing stood in the way. The messengers were people they could talk to, whom they knew, and from whom they could have learned.",
+            "bn": "আলাম ইয়া'তিকুম রুসুলুম মিনকুম: তোমাদের মধ্য থেকেই কি তোমাদের কাছে রসূলেরা আসেননি? ইবন কাসীর মিনকুম-এর ব্যাখ্যা দেন: তোমাদেরই জাতের মানুষ, যাতে তোমরা তাঁদের সাথে কথা বলতে আর তাঁদের কাছ থেকে শিখতে পারো। সা'দীও একই কথা বলেন, সঙ্গে যোগ করেন: তোমরা তাঁদের চিনতে, তাঁদের সত্যবাদিতাও জানতে, আর তাঁদের কাছ থেকে গ্রহণ করার সুযোগ তোমাদের ছিল। বাগাভী অর্থ করেন, তোমাদের নিজেদের মধ্য থেকে। 'তোমাদের মধ্য থেকে' কথাটার ভার এখানেই: পথে কোনো বাধা ছিল না। রসূলেরা ছিলেন এমন মানুষ, যাঁদের সাথে কথা বলা যেত, যাঁদের তারা চিনত, যাঁদের কাছে শেখা যেত।"
+          },
+          {
+            "en": "Yatluna 'alaykum ayati rabbikum: reciting to you the verses of your Lord. At-Tabari takes the verses as the Book of Allah sent down to His messengers, and the proofs He sent them with to their nations. Al-Qurtubi says they are the books revealed to the prophets. Ibn Kathir explains the reciting as establishing arguments and proofs against them that what the messengers called to was true. As-Sa'di speaks of the verses Allah sent them with, which point to certain truth through the clearest of proofs. In each reading the recitation is an argument already laid before them.",
+            "bn": "ইয়াতলূনা আলাইকুম আয়াতি রাব্বিকুম: যাঁরা তোমাদের কাছে তোমাদের রবের আয়াত পড়ে শোনাতেন। তাবারীর মতে আয়াত মানে আল্লাহর কিতাব, যা তিনি তাঁর রসূলদের উপর নাযিল করেছেন, আর সেই সব প্রমাণ, যা দিয়ে তিনি রসূলদের তাঁদের উম্মতের কাছে পাঠিয়েছেন। কুরতুবী বলেন, নবীদের উপর নাযিল হওয়া কিতাবসমূহ। ইবন কাসীরের ব্যাখ্যায় পড়ে শোনানো মানে তাদের সামনে যুক্তি ও প্রমাণ দাঁড় করানো যে রসূলদের দাওয়াত সত্য। সা'দী বলেন সেই আয়াতের কথা, যা দিয়ে আল্লাহ রসূলদের পাঠিয়েছেন, যা সবচেয়ে স্পষ্ট প্রমাণে নিশ্চিত সত্যের দিকে নির্দেশ করে। প্রতিটি ব্যাখ্যাতেই তিলাওয়াত মানে এমন এক যুক্তি, যা আগেই তাদের সামনে পেশ করা হয়েছিল।"
+          },
+          {
+            "en": "Wa-yundhirunakum liqa'a yawmikum hadha: and warning you of the meeting of this Day of yours. At-Tabari offers two readings: they warned you of what you meet on this Day, or, he says it may also mean, they warned you that you would come to this Day. Ibn Kathir has them warn of the evil of this Day. As-Sa'di draws out what the warning demanded: that they follow the messengers and guard against this Day's punishment by being mindful of Allah, though their condition had been the opposite. The same exchange appears in 67:8 and 67:9.",
+            "bn": "ওয়া ইউনযিরূনাকুম লিকা'আ ইয়াওমিকুম হাযা: আর তোমাদের এই দিনের সাক্ষাৎ সম্পর্কে তোমাদের সতর্ক করতেন। তাবারী দুটি ব্যাখ্যা দেন। এক, এই দিনে তোমরা যার মুখোমুখি হবে, সে বিষয়ে তাঁরা সতর্ক করতেন। দুই, তাঁর ভাষায় এমন অর্থও হতে পারে যে তোমরা একদিন এই দিনে এসে পৌঁছবে, সে বিষয়ে তাঁরা সতর্ক করতেন। ইবন কাসীরের ব্যাখ্যায় তাঁরা সতর্ক করতেন এই দিনের অনিষ্ট সম্পর্কে। সা'দী দেখান, এই সতর্কবাণী তাদের কাছে কী দাবি করেছিল: রসূলদের অনুসরণ করা, আর তাকওয়া অবলম্বন করে এই দিনের শাস্তি থেকে বাঁচা। অথচ তাদের অবস্থা ছিল ঠিক উল্টো। একই কথোপকথন আছে ৬৭:৮ ও ৬৭:৯ আয়াতেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Yes, Followed by But",
+          "bn": "হ্যাঁ, তারপর কিন্তু"
+        },
+        "p": [
+          {
+            "en": "Qalu bala: they will say, yes. Bala is the answer that affirms a negative question: did they not come? Yes, they did. Al-Qurtubi calls it their admission that the proof had been established against them. Al-Muyassar and as-Sa'di both describe them as saying it while acknowledging their sin, and as-Sa'di fills in the rest of their answer: the messengers of our Lord came to us with His signs and clear proofs, explained to us as fully as could be, and warned us of this Day. Nobody in the crowd claims the message failed to reach them.",
+            "bn": "কালূ বালা: তারা বলবে, হ্যাঁ। না-বোধক প্রশ্নের জবাবে হ্যাঁ বোঝাতে আরবিতে বালা বলা হয়: তাঁরা কি আসেননি? হ্যাঁ, এসেছিলেন। কুরতুবী একে বলেন তাদের স্বীকারোক্তি যে তাদের বিরুদ্ধে প্রমাণ পূর্ণ হয়ে গিয়েছিল। মুয়াসসার ও সা'দী দুজনেই বলেন, তারা কথাটা বলবে নিজেদের গুনাহ স্বীকার করে। সা'দী তাদের জবাবের বাকিটাও তুলে ধরেন: আমাদের রবের রসূলেরা তাঁর আয়াত আর স্পষ্ট প্রমাণ নিয়ে আমাদের কাছে এসেছিলেন, যতটা খুলে বলা সম্ভব ততটাই খুলে বলেছিলেন, আর এই দিন সম্পর্কে সতর্ক করেছিলেন। সেই ভিড়ের কেউ দাবি করে না যে বার্তা তার কাছে পৌঁছায়নি।"
+          },
+          {
+            "en": "Wa-lakin haqqat kalimatu al-'adhabi 'ala al-kafirin: but the word of punishment has come due upon the disbelievers. Al-Baghawi glosses haqqat as wajabat, became binding, and he and al-Qurtubi identify the word as Allah's statement, I will surely fill Hell with jinn and people all together, which al-Baghawi locates at 11:119. At-Tabari gives their sentence as: Allah's word, that His punishment is for those who disbelieve in Him, has become binding upon us because of our disbelief. He brings Qatada, who said of this clause: by their deeds.",
+            "bn": "ওয়া লাকিন হাক্কাত কালিমাতুল আযাবি আলাল কাফিরীন: কিন্তু কাফিরদের উপর শাস্তির বাণী অবধারিত হয়ে গেছে। বাগাভী হাক্কাত-এর অর্থ করেন ওয়াজাবাত, অর্থাৎ অনিবার্য হয়ে গেছে। সেই বাণী কোনটি, বাগাভী ও কুরতুবী দুজনেই তা চিহ্নিত করেন: আল্লাহর এই ঘোষণা যে, আমি অবশ্যই জিন ও মানুষ সবাইকে দিয়ে জাহান্নাম পূর্ণ করব। বাগাভী এর স্থান দেখান ১১:১১৯ আয়াতে। তাবারী তাদের কথাটা এভাবে বলেন: আল্লাহর বাণী, যে তাঁর শাস্তি তাঁকে অস্বীকারকারীদের জন্য, আমাদের কুফরের কারণে আমাদের উপর অনিবার্য হয়ে গেছে। এর সমর্থনে তিনি আনেন কাতাদাকে, যিনি এই অংশ সম্পর্কে বলেছেন: তাদের আমলের কারণে।"
+          },
+          {
+            "en": "Ibn Kathir paraphrases the reply differently: but we denied them and opposed them, because of the wretchedness that had gone ahead for us, which we deserved, since we turned from truth to falsehood. His reading brings what was written beforehand into their words, and still ties it to their own turning away. As-Sa'di puts the weight on the cause: by reason of their disbelief the word became binding on them, the word that stands against everyone who disbelieves in Allah's signs and rejects what the messengers brought. Each commentator's reading stands as he gave it.",
+            "bn": "ইবন কাসীর জবাবটা অন্যভাবে খুলে বলেন: কিন্তু আমরা তাঁদের মিথ্যা বলেছি, তাঁদের বিরোধিতা করেছি, কারণ আমাদের জন্য আগে থেকেই দুর্ভাগ্য নির্ধারিত হয়ে ছিল। সেটা আমাদের প্রাপ্যই ছিল, কেননা আমরা সত্য ছেড়ে বাতিলের দিকে ফিরে গিয়েছিলাম। তাঁর ব্যাখ্যায় আগে থেকে লেখা থাকার কথাটা তাদের মুখে আসে, তবু তা বাঁধা থাকে তাদের নিজেদের মুখ ফিরিয়ে নেওয়ার সাথে। সা'দী জোর দেন কারণের উপর: তাদের কুফরের কারণেই শাস্তির বাণী তাদের উপর অনিবার্য হয়েছে। এই বাণী প্রযোজ্য প্রত্যেক সেই ব্যক্তির উপর, যে আল্লাহর আয়াত অস্বীকার করে আর রসূলদের আনা বার্তা প্রত্যাখ্যান করে। প্রত্যেক তাফসীরকারের ব্যাখ্যা থাকুক তিনি যেভাবে দিয়েছেন সেভাবেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Confession Too Late",
+          "bn": "দেরিতে আসা স্বীকারোক্তি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the scene beside 67:8 to 67:11, where the same question meets the same yes, followed by: had we only listened or used our reason, we would not be among the people of the Blaze. He says they turn on themselves with blame and regret, and so they confess their sin; then comes away with the people of the Blaze, which he explains as remoteness and loss for them. The admission is complete, and it no longer changes anything. The next verse, 39:72, tells them to enter the gates of Hell to remain there, and calls it the dwelling of the arrogant.",
+            "bn": "ইবন কাসীর দৃশ্যটি পড়েন ৬৭:৮ থেকে ৬৭:১১ আয়াতের পাশে। সেখানেও একই প্রশ্ন, একই হ্যাঁ, তারপর এই কথা: আমরা যদি শুনতাম বা বুদ্ধি খাটাতাম, তাহলে জ্বলন্ত আগুনের বাসিন্দাদের মধ্যে থাকতাম না। ইবন কাসীর বলেন, তারা তখন নিজেদেরই দোষারোপ করবে, অনুতাপে পুড়বে, আর নিজেদের গুনাহ স্বীকার করবে। তারপর আসে: জ্বলন্ত আগুনের বাসিন্দাদের জন্য ধ্বংস। তাঁর ব্যাখ্যায় এর অর্থ, তাদের জন্য দূরত্ব আর ক্ষতি। স্বীকারোক্তি পুরোপুরি, কিন্তু তা আর কিছু বদলায় না। পরের আয়াত, ৩৯:৭২, তাদের বলে জাহান্নামের দরজা দিয়ে ঢুকে চিরকাল সেখানে থাকতে, আর জায়গাটিকে বলে অহংকারীদের ঠিকানা।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it or gives an occasion of revelation, so this article quotes neither. In the closing sequence of az-Zumar, which runs from the Horn in 39:68 to the angels around the Throne in 39:75, this verse is the moment the judgement of 39:69 is carried out on those it went against.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা তাফসীরগুলোর কোনোটিই এর সাথে কোনো হাদীস যুক্ত করেনি, কোনো শানে নুযূলও উল্লেখ করেনি। তাই এ প্রবন্ধে দুটোর কোনোটিই উদ্ধৃত হয়নি। সূরা আয-যুমারের শেষ অংশের ধারা শুরু হয় ৩৯:৬৮ আয়াতে শিঙ্গায় ফুঁ দিয়ে, শেষ হয় ৩৯:৭৫ আয়াতে আরশ ঘিরে থাকা ফেরেশতাদের দিয়ে। সেই ধারায় এ আয়াত হলো সেই মুহূর্ত, যখন ৩৯:৬৯ আয়াতের বিচার যাদের বিপক্ষে গেছে, তাদের উপর রায় কার্যকর হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a List of Names",
+          "bn": "নামের তালিকা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying firmly. The verse describes those it names, the ones who disbelieved, on the Day of Judgement, after a judgement made by Allah alone with every record laid open. It licenses nothing against any living person or community. It gives no reader the right to say of a neighbour, a relative, a public figure or a whole people that they belong in this crowd. The keepers in the verse speak only after the verdict, and only on that Day. No human being stands in their place, and no one alive knows how another person's life will end.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াতটি বর্ণনা করছে কেবল তাদের, যাদের কথা সে বলছে: যারা কুফরি করেছে, বিচারের দিনে, আল্লাহর একক বিচারের পরে, যখন প্রত্যেকের আমলনামা খোলা। কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশী, আত্মীয়, পরিচিত কোনো ব্যক্তি বা গোটা কোনো জাতি সম্পর্কে এ কথা বলার অধিকার এটি কোনো পাঠককে দেয় না যে তারা এই দলের লোক। আয়াতের রক্ষীরা কথা বলে কেবল রায়ের পরে, আর কেবল সেই দিনে। কোনো মানুষ তাদের জায়গায় দাঁড়িয়ে নেই। আর অন্য কারও জীবন কীভাবে শেষ হবে, তা কোনো জীবিত মানুষ জানে না।"
+          },
+          {
+            "en": "What the verse does hand to the reader is the question itself, asked ahead of time. Messengers have come, their verses have been recited, and the warning of this Day has been given. Al-Qurtubi, Ibn Kathir and as-Sa'di each make the point that on that Day the proof already stands complete, and the only answer left to give is yes. The time for a different answer is now, while it can still be given in what a person does and not only in what he says.",
+            "bn": "আয়াতটি পাঠকের হাতে যা তুলে দেয়, তা হলো প্রশ্নটাই, সময়ের আগে করা প্রশ্ন। রসূলেরা এসেছেন, তাঁদের আয়াত পড়ে শোনানো হয়েছে, এই দিনের সতর্কবাণীও দেওয়া হয়ে গেছে। কুরতুবী, ইবন কাসীর ও সা'দী প্রত্যেকেই দেখান, সেই দিন প্রমাণ আগেই পূর্ণ হয়ে থাকবে, আর দেওয়ার মতো জবাব বাকি থাকবে একটাই: হ্যাঁ। অন্যরকম জবাব দেওয়ার সময় এখনই, যখন তা কেবল মুখের কথায় নয়, আমল দিয়েও দেওয়া যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "39:73": {
     "sections": [
       {

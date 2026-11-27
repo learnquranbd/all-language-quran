@@ -37413,6 +37413,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Take every need to Allah directly: all intercession belongs to Him, no one speaks before Him without His leave, and you will be brought back to Him.",
     "lessonBn": "প্রতিটি প্রয়োজন সরাসরি আল্লাহর কাছে নিয়ে যান: সব শাফাআত তাঁরই, তাঁর অনুমতি ছাড়া তাঁর সামনে কেউ মুখ খোলে না, আর তাঁর কাছেই আপনাকে ফিরিয়ে নেওয়া হবে।"
+  },
+  "39:71": {
+    "reflectionEn": "The crowds move towards the gates, not walking of their own will but driven, each group beside those whose deeds matched its own. The gates stay shut until they arrive; then they swing open, and before anything else comes a question. Did messengers not come to you, from among you, reciting your Lord's verses and warning you of this very Day? The answer is yes. Nobody in that crowd claims the message never reached them. What failed was not the warning but the response to it. The same question reaches me now, while I can still answer it differently. The verses have been recited to me many times. Has the warning changed anything I actually do?",
+    "reflectionBn": "দলে দলে মানুষ দরজার দিকে এগোচ্ছে। নিজের ইচ্ছায় হেঁটে নয়, তাড়া খেয়ে। প্রত্যেক দল চলছে তাদের সাথে, যাদের আমল তাদের আমলের মতো। পৌঁছানো পর্যন্ত দরজাগুলো বন্ধ থাকে। তারপর খুলে যায়, আর সবার আগে আসে একটা প্রশ্ন: তোমাদের মধ্য থেকেই কি রসূলেরা আসেননি, যাঁরা তোমাদের রবের আয়াত পড়ে শোনাতেন আর এই দিনের সাক্ষাৎ নিয়ে সতর্ক করতেন? উত্তর আসে: হ্যাঁ। সেই ভিড়ের কেউ বলে না যে বার্তা তার কাছে পৌঁছায়নি। ব্যর্থ হয়েছে সতর্কবাণী নয়, তার জবাব। একই প্রশ্ন এখন আমার কাছেও আসছে, যখন অন্যরকম জবাব দেওয়ার সময় এখনো হাতে আছে। আয়াতগুলো আমাকে বহুবার শোনানো হয়েছে। সেই সতর্কবাণী কি আমার কোনো একটা আমল সত্যিই বদলেছে?",
+    "pointsEn": [
+      "If I were asked today whether the message reached me, what would I honestly have to add after the word yes?",
+      "Which verse of my Lord have I heard many times without letting it change a single habit?",
+      "Whose company and whose deeds am I matching myself to now, and where is that company heading?",
+      "When I explain away a wrong I keep doing, do I lean on what was written for me rather than on what I chose?",
+      "Do I ever read a verse like this as a verdict on someone else instead of a question put to me?"
+    ],
+    "pointsBn": [
+      "আজ যদি আমাকে জিজ্ঞেস করা হয় বার্তা আমার কাছে পৌঁছেছিল কি না, তাহলে হ্যাঁ বলার পর সততার সাথে আমাকে আর কী যোগ করতে হবে?",
+      "রবের কোন আয়াত আমি বহুবার শুনেছি, অথচ তা আমার একটা অভ্যাসও বদলাতে দিইনি?",
+      "এখন আমি কাদের সঙ্গ আর কাদের আমলের সাথে নিজেকে মেলাচ্ছি? সেই দল কোন দিকে যাচ্ছে?",
+      "যে ভুল আমি বারবার করি, তার অজুহাত দিতে গিয়ে আমি কি নিজের বাছাইয়ের বদলে তাকদীরের দোহাই দিই?",
+      "এমন আয়াত পড়ে আমি কি কখনো অন্য কারও উপর রায় খুঁজি, অথচ প্রশ্নটা করা হচ্ছে আমাকেই?"
+    ],
+    "lessonEn": "The warning has already reached you, so answer it with deeds now, before a Day when yes can only be followed by but.",
+    "lessonBn": "সতর্কবাণী আপনার কাছে পৌঁছে গেছে। তাই এখনই আমল দিয়ে তার জবাব দিন, সেই দিন আসার আগে, যেদিন হ্যাঁ বলার পরে কেবল কিন্তুই বলা যাবে।"
   }
 };
 
