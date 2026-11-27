@@ -37353,6 +37353,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Pride kept Iblis upright when every angel bowed. Bow where Allah tells you to bow, and never trust a good past over the ending that only He knows.",
     "lessonBn": "সব ফেরেশতা যখন নত হল, অহংকার ইবলীসকে সোজা দাঁড় করিয়ে রাখল। আল্লাহ যেখানে নত হতে বলেন, সেখানে নত হোন। আর যে শেষটা কেবল তিনিই জানেন, তার চেয়ে নিজের ভালো অতীতের উপর বেশি ভরসা করবেন না।"
+  },
+  "39:63": {
+    "reflectionEn": "The verse before this one calls Allah the Creator of all things and the One in charge of them. Then comes an image anyone can hold: keys. Whoever holds the keys of a house decides which door opens and which stays shut. The heavens and the earth have their stores, of rain, of provision, of mercy, and the keys to every one of them are His. The second half names the losers: not those who were given little, but those who turned away from His signs. So the real poverty is a closed heart, not an empty hand. When I need something, whose door do I knock on first? And when a door stays shut, do I blame the lock, or turn to the One who holds the keys?",
+    "reflectionBn": "আগের আয়াত বলেছে, আল্লাহ সব কিছুর স্রষ্টা, সব কিছুর দায়িত্বও তাঁরই হাতে। এরপর এমন এক ছবি আসে, যা যে কেউ হাতে ধরে বুঝতে পারে: চাবি। যার হাতে ঘরের চাবি, কোন দরজা খুলবে আর কোনটা বন্ধ থাকবে, সে-ই ঠিক করে। আসমান আর যমীনের ভাণ্ডার আছে। বৃষ্টির ভাণ্ডার, রিযিকের ভাণ্ডার, রহমতের ভাণ্ডার। প্রত্যেকটির চাবি তাঁর কাছে। আয়াতের দ্বিতীয় অংশ ক্ষতিগ্রস্তদের চিনিয়ে দেয়। তারা কম পাওয়া মানুষ নয়, তারা তাঁর নিদর্শন থেকে মুখ ফিরিয়ে নেওয়া মানুষ। আসল দারিদ্র্য তাই খালি হাত নয়, বন্ধ অন্তর। কিছু দরকার হলে আমি প্রথম কার দরজায় কড়া নাড়ি? আর কোনো দরজা বন্ধ থাকলে আমি কি তালাকে দোষ দিই, নাকি চাবি যাঁর হাতে, তাঁর দিকে ফিরি?",
+    "pointsEn": [
+      "When I need provision, work or a cure, whose door do I knock on first, and how long is it before I turn to Allah?",
+      "Is there something I treat as my own key, my salary, my contacts or my cleverness, that I have forgotten was only lent to me?",
+      "When a door stays shut for me, can I accept that the One who holds the keys may be keeping it shut for my good?",
+      "Which of Allah's signs, in the Qur'an or in the world around me, have I learned to walk past without letting it reach me?",
+      "If loss is counted the way this verse counts it, what am I losing now while I count only my money?"
+    ],
+    "pointsBn": [
+      "রিযিক, কাজ বা রোগমুক্তি দরকার হলে আমি প্রথম কার দরজায় যাই? আল্লাহর দিকে ফিরতে আমার কতক্ষণ লাগে?",
+      "বেতন, চেনাজানা লোক বা নিজের বুদ্ধি, এমন কিছুকে কি আমি নিজের চাবি ভেবে বসে আছি, অথচ ভুলে গেছি যে এগুলো ধার করা?",
+      "কোনো দরজা আমার জন্য বন্ধ থাকলে কি আমি মেনে নিতে পারি যে চাবি যাঁর হাতে, তিনি হয়তো আমার ভালোর জন্যই তা বন্ধ রেখেছেন?",
+      "কুরআনে বা চারপাশের দুনিয়ায় আল্লাহর কোন নিদর্শনের পাশ দিয়ে আমি এমনভাবে হেঁটে যেতে শিখেছি যে তা আর আমাকে ছোঁয় না?",
+      "এ আয়াত যেভাবে ক্ষতির হিসাব করে, সেভাবে হিসাব করলে শুধু টাকা গুনতে গুনতে এখন আমি কী হারাচ্ছি?"
+    ],
+    "lessonEn": "Every store of the heavens and the earth opens only with Allah's keys, so ask Him first, and count turning away from His signs as the only real loss.",
+    "lessonBn": "আসমান আর যমীনের প্রতিটি ভাণ্ডার খোলে শুধু আল্লাহর চাবিতে। তাই আগে তাঁর কাছেই চান, আর তাঁর নিদর্শন থেকে মুখ ফিরিয়ে নেওয়াকেই আসল ক্ষতি বলে গণ্য করুন।"
   }
 };
 

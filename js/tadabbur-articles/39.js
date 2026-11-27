@@ -3019,6 +3019,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "39:63": {
+    "sections": [
+      {
+        "h": {
+          "en": "Keys After the Creator",
+          "bn": "স্রষ্টার পরেই চাবির কথা"
+        },
+        "p": [
+          {
+            "en": "Lahu maqalidu as-samawati wa-l-ard: to Him belong the keys of the heavens and the earth. The verse is eleven Arabic words in two halves. The first half speaks about Allah; the second speaks about people. It follows straight on from 39:62, which says that Allah is the Creator of all things and has charge over all things. Ibn Kathir, in the abridged English, reads the passage together: Allah tells us that He is the Creator, Lord, Sovereign and Controller of all things, and everything is subject to His dominion, power and guardianship.",
+            "bn": "লাহু মাকালীদুস সামাওয়াতি ওয়াল আরদ: আসমান আর যমীনের চাবি তাঁরই। আরবিতে আয়াতটি ১১টি শব্দের, দুই ভাগে ভাগ করা। প্রথম ভাগ আল্লাহর কথা বলে, দ্বিতীয় ভাগ মানুষের কথা। আয়াতটি এসেছে ঠিক ৩৯:৬২ আয়াতের পরে। সেখানে বলা হয়েছে, আল্লাহ সব কিছুর স্রষ্টা, আর সব কিছুর দায়িত্বও তাঁরই হাতে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ অংশটিকে এক সঙ্গে পড়ে। আল্লাহ জানিয়ে দিচ্ছেন, তিনিই সব কিছুর স্রষ্টা, রব, মালিক ও নিয়ন্ত্রক। সব কিছুই তাঁর কর্তৃত্ব, ক্ষমতা আর তত্ত্বাবধানের অধীন।"
+          },
+          {
+            "en": "The Arabic places lahu, to Him, at the head of the sentence, before it names what is His, so the weight falls first on the Owner and only then on what He owns. The verse also sits between two others. Before it, Allah creates everything and manages everything. After it, in 39:64, the Prophet ﷺ is told to ask those who pressed him: is it other than Allah that you order me to worship, O ignorant ones? The keys stand between creation and worship, and they join the two.",
+            "bn": "আরবিতে বাক্যটি শুরু হয়েছে লাহু দিয়ে, অর্থাৎ তাঁরই। কী তাঁর, সেটা আসে পরে। ফলে জোরটা আগে পড়ে মালিকের উপর, মালিকানার বস্তুর উপর পড়ে তারপর। আয়াতটির অবস্থানও লক্ষ করার মতো, দুই আয়াতের মাঝখানে। আগের আয়াতে আল্লাহ সব কিছু সৃষ্টি করেন, সব কিছু পরিচালনা করেন। পরের আয়াতে, ৩৯:৬৪-এ, নবী ﷺ-কে বলতে বলা হয়েছে, যারা তাঁকে চাপ দিচ্ছিল তাদের জিজ্ঞেস করুন: হে অজ্ঞরা, তোমরা কি আমাকে আল্লাহ ছাড়া অন্য কারও ইবাদত করতে বলছ? চাবির কথাটা তাই সৃষ্টি আর ইবাদতের মাঝখানে দাঁড়িয়ে দুটোকে জুড়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word That Crossed Over",
+          "bn": "অন্য ভাষা থেকে আসা শব্দ"
+        },
+        "p": [
+          {
+            "en": "The commentators stop first at the word itself. At-Tabari gives its singular as miqlid, and notes that iqlid is the singular of a different plural, aqalid. Al-Qurtubi lists miqlid, then, as another view, miqlad, and says iqlid is the form most used; he also records aqalid as a second plural. Al-Baghawi gives two patterns: miqlad on the pattern of miftah, and miqlid on the pattern of mindil, plural manadil. Whatever the singular, they agree on the meaning: maqalid are keys.",
+            "bn": "তাফসীরকারেরা প্রথমে শব্দটির কাছেই থামেন। তাবারী এর একবচন বলেন মিকলীদ, আর জানান যে ইকলীদ হলো ভিন্ন এক বহুবচন আকালীদের একবচন। কুরতুবী প্রথমে বলেন মিকলীদ, তারপর আরেক মত হিসেবে মিকলাদ। তাঁর মতে সবচেয়ে বেশি চলে ইকলীদ, আর আকালীদকে তিনি দ্বিতীয় বহুবচন হিসেবেও উল্লেখ করেন। বাগাভী দুটি গড়ন দেখান: মিকলাদ, মিফতাহর মতো, আর মিকলীদ, মিনদীলের মতো, যার বহুবচন মানাদীল। একবচন যেটাই হোক, অর্থ নিয়ে তাঁরা একমত: মাকালীদ মানে চাবি।"
+          },
+          {
+            "en": "Mujahid, as Ibn Kathir reports him, said that maqalid means keys in Persian, and Ibn Kathir lists Qatada, Ibn Zayd and Sufyan ibn 'Uyayna as saying the same. Ma'arif al-Qur'an, citing Ruh al-Ma'ani, records the route by which this has been explained: in Persian a key is kalid, and when the word was taken into Arabic it became iqlid, with the plural maqalid. Ma'arif introduces this with it has been said, so it stands as an account of the word, not a settled fact.",
+            "bn": "ইবন কাসীর মুজাহিদের কথা আনেন: মাকালীদ ফারসিতে চাবি। কাতাদা, ইবন যায়দ ও সুফিয়ান ইবন উয়াইনাও একই কথা বলেছেন বলে তিনি জানান। মাআরিফুল কুরআন রূহুল মাআনীর বরাতে শব্দটির যাত্রাপথের একটি ব্যাখ্যা দেয়। ফারসিতে চাবিকে বলে কালীদ। আরবিতে ঢুকে তা হয়ে যায় ইকলীদ, আর তার বহুবচন মাকালীদ। তবে মাআরিফ কথাটি শুরু করে 'বলা হয়েছে' দিয়ে। তাই এটা শব্দটির উৎস সম্পর্কে একটি বিবরণ, নিশ্চিত সিদ্ধান্ত নয়।"
+          },
+          {
+            "en": "Al-Qurtubi also brings in the lexicographer al-Jawhari. The iqlid is a key, he says, and a miqlad is a key shaped like a sickle, with which fodder is sometimes twisted, the way clover is twisted when it is made into rope. From the same root comes a striking usage: aqlada al-bahru 'ala khalqin kathir, the sea closed over many people, that is, drowned them, as though it had locked them in. The one root holds both sides of a key's work, the opening and the shutting.",
+            "bn": "কুরতুবী অভিধানবিদ জাওহারীর কথাও আনেন। তাঁর মতে ইকলীদ মানে চাবি। আর মিকলাদ হলো কাস্তের মতো বাঁকা এক চাবি, যা দিয়ে কখনো কখনো ঘাস পাকানো হয়, যেমন দড়ি বানাতে গিয়ে বিচালি পাকানো হয়। একই ধাতু থেকে একটি চমকপ্রদ প্রয়োগও আছে: আকলাদাল বাহরু আলা খালকিন কাসীর, সাগর বহু মানুষের উপর বন্ধ হয়ে গেল, মানে তাদের ডুবিয়ে দিল, যেন তালা মেরে আটকে দিল। চাবির দুটি কাজই এই এক ধাতুর ভেতরে আছে: খোলা, আবার বন্ধ করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Keys, Stores, or Obedience",
+          "bn": "চাবি, ভাণ্ডার, নাকি আনুগত্য"
+        },
+        "p": [
+          {
+            "en": "Most early readings take maqalid simply as keys. At-Tabari reports it through a chain reaching Ibn 'Abbas: its keys. He reports Qatada: the keys of the heavens and the earth. And he reports Ibn Zayd: maqalid are keys; His are the keys of the stores of the heavens and the earth. As-Suddi, quoted by at-Tabari, Ibn Kathir and al-Qurtubi alike, uses a different word: khaza'in, the stores or treasuries of the heavens and the earth.",
+            "bn": "প্রথম যুগের বেশির ভাগ ব্যাখ্যা মাকালীদকে সোজা চাবি হিসেবেই নেয়। তাবারী ইবন আব্বাস (রাঃ) পর্যন্ত পৌঁছানো এক সনদে আনেন: এর চাবিগুলো। কাতাদা থেকে আনেন: আসমান আর যমীনের চাবি। ইবন যায়দ থেকে আনেন: মাকালীদ মানে চাবি, আসমান আর যমীনের ভাণ্ডারের চাবি তাঁরই। সুদ্দী অবশ্য অন্য শব্দ ব্যবহার করেন: খাযাইন, অর্থাৎ আসমান আর যমীনের ভাণ্ডার। তাবারী, ইবন কাসীর ও কুরতুবী তিনজনই তাঁর এ কথা উদ্ধৃত করেন।"
+          },
+          {
+            "en": "Ibn Kathir does not set the two readings against each other. On both views, he says, the meaning is that the reins of every affair are in His hand: His is the dominion, His is the praise, and He has power over all things. At-Tabari had already joined them in his own paraphrase, the keys of the stores. A key is worth having only for what it opens, and a store can be reached only through its key, so the two words point to one reality.",
+            "bn": "ইবন কাসীর দুটি ব্যাখ্যাকে পরস্পরের বিরুদ্ধে দাঁড় করান না। তাঁর কথায়, দুই মতেই অর্থ একই: সব বিষয়ের লাগাম তাঁর হাতে। রাজত্ব তাঁর, প্রশংসা তাঁর, আর সব কিছুর উপর তিনি ক্ষমতাবান। তাবারী নিজের ব্যাখ্যাতেই দুটোকে মিলিয়ে দিয়েছিলেন: ভাণ্ডারগুলোর চাবি। চাবির দাম তো যা খোলে তার জন্যই, আর ভাণ্ডারে ঢোকার পথ চাবি ছাড়া নেই। দুটি শব্দ তাই একই বাস্তবতার দিকে আঙুল তোলে।"
+          },
+          {
+            "en": "Some named what the stores hold. Al-Qurtubi relates from another commentator that the stores of the heavens are rain and the stores of the earth are plants, and al-Baghawi gives the same from al-Kalbi. Al-Baghawi also reports Qatada and Muqatil: the keys of the heavens and the earth, with provision and mercy. Al-Qurtubi then records a reading of another kind. Maqalid can mean obedience, from the idiom alqa ilayhi bi-l-maqalid, he handed him the keys, that is, he obeyed him in what he commanded. On that reading the verse says that the obedience of all who are in the heavens and the earth is His.",
+            "bn": "কেউ কেউ ভাণ্ডারে কী আছে, তার নামও বলেছেন। কুরতুবী অন্য একজনের কথা আনেন: আসমানের ভাণ্ডার হলো বৃষ্টি, আর যমীনের ভাণ্ডার উদ্ভিদ। বাগাভী একই কথা আনেন কালবী থেকে। বাগাভী কাতাদা ও মুকাতিলের কথাও আনেন: রিযিক আর রহমতসহ আসমান ও যমীনের চাবি। এরপর কুরতুবী একটু ভিন্ন ধরনের এক ব্যাখ্যা উল্লেখ করেন। মাকালীদ মানে আনুগত্যও হতে পারে। আরবিতে বলা হয়, আলকা ইলাইহি বিল মাকালীদ, সে তার হাতে চাবি তুলে দিল, মানে তার আদেশ মেনে চলল। এ ব্যাখ্যায় আয়াতের অর্থ দাঁড়ায়: আসমান ও যমীনে যারা আছে, তাদের সবার আনুগত্য তাঁরই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Opened for Whom He Wills",
+          "bn": "যার জন্য চান, তার জন্য খোলেন"
+        },
+        "p": [
+          {
+            "en": "What does holding the keys mean in practice? At-Tabari answers in one line: He opens from those stores to whomever He wills, and holds them back from whomever He wishes among His creation. Al-Muyassar says He gives from them to His creation as He wills. Ma'arif al-Qur'an explains that keys in someone's hand signify ownership, possession and the power to dispense at will. Allah alone is the keeper and the giver: He gives when He wills, to whom He wills and as much as He wills, and withholds from whom He wills.",
+            "bn": "চাবি হাতে থাকার বাস্তব অর্থ কী? তাবারী এক লাইনে উত্তর দেন: ওই ভাণ্ডার থেকে তিনি যার জন্য চান খুলে দেন, আর নিজের সৃষ্টির মধ্যে যার থেকে চান আটকে রাখেন। মুয়াসসার বলে, তিনি সেখান থেকে নিজের ইচ্ছামতো সৃষ্টিকে দান করেন। মাআরিফুল কুরআন ব্যাখ্যা করে, কারও হাতে চাবি থাকা মানে মালিকানা, দখল আর ইচ্ছামতো খরচ করার ক্ষমতা। একমাত্র আল্লাহই রক্ষক, তিনিই দাতা। যখন চান, যাকে চান, যতটা চান দেন, আর যাকে চান দেন না।"
+          },
+          {
+            "en": "As-Sa'di adds two words that widen the picture: the keys are His 'ilman wa tadbiran, in knowledge and in management. He holds them knowing what lies behind every door, and running every affair. Then he quotes 35:2: whatever mercy Allah opens to people, none can withhold it, and whatever He withholds, none can release it after Him, and He is the Mighty, the Wise. The keys are not only in His hand; no other hand can turn them.",
+            "bn": "সা'দী দুটি শব্দ যোগ করে ছবিটা আরও বড় করেন: চাবিগুলো তাঁর, ইলমান ওয়া তাদবীরান, জ্ঞানে আর পরিচালনায়। প্রতিটি দরজার ওপারে কী আছে তিনি জানেন, আর প্রতিটি কাজ তিনিই চালান। এরপর সা'দী ৩৫:২ আয়াত উদ্ধৃত করেন: আল্লাহ মানুষের জন্য যে রহমত খুলে দেন, কেউ তা আটকাতে পারে না। আর যা তিনি আটকে রাখেন, তাঁর পরে কেউ তা ছাড়াতে পারে না। তিনি পরাক্রমশালী, প্রজ্ঞাময়। চাবি শুধু তাঁর হাতেই নয়, অন্য কোনো হাত তা ঘোরাতেও পারে না।"
+          },
+          {
+            "en": "The same opening words return in 42:12: to Him belong the keys of the heavens and the earth. There they are followed by: He extends provision for whom He wills and restricts it; indeed He knows all things. Read beside each other, the two verses show what the keys are used for, and on what basis. He who opens and closes is the All-Knowing, and 35:2 ends on His wisdom. A door He keeps shut has not been shut by chance.",
+            "bn": "এই একই শুরুর কথাগুলো আবার এসেছে ৪২:১২ আয়াতে: আসমান আর যমীনের চাবি তাঁরই। সেখানে এর পরেই আছে: তিনি যার জন্য চান রিযিক প্রশস্ত করেন, আবার সংকুচিত করেন। নিশ্চয় তিনি সব বিষয়ে জ্ঞানী। আয়াত দুটি পাশাপাশি পড়লে বোঝা যায় চাবি কী কাজে লাগে, আর কিসের ভিত্তিতে। যিনি খোলেন আর বন্ধ করেন, তিনিই সর্বজ্ঞ। ৩৫:২ আয়াতও শেষ হয় তাঁর প্রজ্ঞার কথায়। তিনি যে দরজা বন্ধ রাখেন, তা দৈবক্রমে বন্ধ হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Share Forfeited",
+          "bn": "নিজের ভাগ থেকে ঠকে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "Wa-lladhina kafaru bi-ayati-llah: and those who disbelieve in the signs of Allah. The commentators read ayat broadly. Ibn Kathir explains them as His proofs and evidences. At-Tabari says the proofs of Allah, which these people called lies and rejected. Al-Muyassar names the verses of the Qur'an and the clear indications they contain. Al-Qurtubi says the Qur'an, the proofs and the indications. As-Sa'di describes them as the signs that point to certain truth and to the straight path. What is rejected, then, is evidence that was offered, not something hidden.",
+            "bn": "ওয়াল্লাযীনা কাফারূ বিআয়াতিল্লাহ: আর যারা আল্লাহর নিদর্শনগুলো অস্বীকার করে। তাফসীরকারেরা আয়াত শব্দটিকে প্রশস্ত অর্থে পড়েন। ইবন কাসীরের মতে এগুলো তাঁর প্রমাণ ও দলিল। তাবারী বলেন, আল্লাহর প্রমাণসমূহ, যেগুলোকে এরা মিথ্যা বলেছে আর মানতে অস্বীকার করেছে। মুয়াসসার বলে কুরআনের আয়াত আর তাতে থাকা স্পষ্ট দলিলের কথা। কুরতুবী বলেন কুরআন, প্রমাণ আর নিদর্শন। সা'দীর ভাষায়, এগুলো সেই নিদর্শন যা নিশ্চিত সত্য আর সরল পথের দিকে নিয়ে যায়। যা প্রত্যাখ্যান করা হলো, তা তাই লুকানো কিছু নয়, সামনে রাখা প্রমাণ।"
+          },
+          {
+            "en": "Ibn Kathir joins the two halves of the verse with a short phrase: wa-li-hadha qala, and that is why He said. Because the reins of every affair are in Allah's hand, those who reject His proofs are the losers. The Arabic makes the point sharp: ula'ika humu al-khasirun, those, they are the losers, with a pointing word, a pronoun and a definite article stacked together. The grammar narrows the title of loser until it fits these people above all.",
+            "bn": "ইবন কাসীর আয়াতের দুই ভাগ জুড়ে দেন ছোট্ট এক কথায়: ওয়া লিহাযা কালা, এ জন্যই তিনি বলেছেন। সব বিষয়ের লাগাম যেহেতু আল্লাহর হাতে, তাই যারা তাঁর প্রমাণ প্রত্যাখ্যান করে, ক্ষতিগ্রস্ত তারাই। আরবি বাক্যটা কথাটাকে ধারালো করে তোলে: উলাইকা হুমুল খাসিরূন, ওরাই, তারাই ক্ষতিগ্রস্ত। নির্দেশক শব্দ, সর্বনাম আর নির্দিষ্টবাচক আল, তিনটি একসঙ্গে বসেছে। ব্যাকরণ ক্ষতিগ্রস্ত উপাধিটাকে এমনভাবে সরু করে আনে যে তা সবার আগে এদের গায়েই বসে।"
+          },
+          {
+            "en": "At-Tabari explains al-khasirun with a word from the marketplace: al-maghbunun, people cheated in a bargain. They have been cheated of their share of the good of the heavens whose keys are in His hand. They were deprived of all of it, he says, in the Hereafter by remaining forever in the Fire, and in this world by being left without help towards faith in Allah. Al-Muyassar repeats the same two losses, the world and the Hereafter, in almost the same words.",
+            "bn": "তাবারী আল খাসিরূনের ব্যাখ্যা দেন বাজারের এক শব্দে: আল মাগবূনূন, কেনাবেচায় যারা ঠকে গেছে। আসমানের যে কল্যাণের চাবি তাঁর হাতে, তার থেকে নিজেদের ভাগে তারা ঠকেছে। তাবারী বলেন, তারা এর সবটুকু থেকে বঞ্চিত হয়েছে। আখিরাতে, জাহান্নামে চিরকাল থেকে। আর দুনিয়ায়, আল্লাহর প্রতি ঈমান আনার তাওফীক থেকে বঞ্চিত থেকে। মুয়াসসারও প্রায় একই ভাষায় এই দুই ক্ষতির কথা বলে, দুনিয়ার আর আখিরাতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearts, Tongues and Limbs",
+          "bn": "অন্তর, জিহ্বা আর অঙ্গপ্রত্যঙ্গ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the turn in the middle of the verse as a contrast. Having set out a greatness that ought to fill hearts with reverence and honour, Allah mentions those who reversed the matter and did not value Him as He deserves. His phrase, lam yaqduruhu haqqa qadrihi, is close to the wording of 39:67, a few verses on: they have not valued Allah as He truly deserves. The keys are named first, so that the loss which follows can be measured against them.",
+            "bn": "আয়াতের মাঝখানের মোড়টাকে সা'দী দেখেন এক বৈপরীত্য হিসেবে। এমন মহত্ত্বের কথা বলা হলো, যা অন্তরকে ভক্তি আর সম্মানে ভরিয়ে দেওয়ার কথা। এরপর আল্লাহ তাদের কথা বলেন, যারা ব্যাপারটা উল্টে দিয়েছে, আর তাঁকে তাঁর যথাযোগ্য মর্যাদা দেয়নি। সা'দীর শব্দ, লাম ইয়াকদুরহু হাক্কা কাদরিহী, কয়েক আয়াত পরে ৩৯:৬৭ আয়াতের ভাষার খুব কাছাকাছি: তারা আল্লাহর যথাযোগ্য মর্যাদা দেয়নি। চাবির কথা আগে আসে, যাতে পরে আসা ক্ষতিটা তার পাশে রেখে মাপা যায়।"
+          },
+          {
+            "en": "Then as-Sa'di lists what was lost, part by part. They lost what sets hearts right: devotion to Allah and sincerity towards Him. They lost what sets tongues right: keeping them busy with His remembrance. They lost what sets the limbs right: obedience to Him. In exchange they took everything that corrupts hearts and bodies. They lost the gardens of bliss, he says, and took the painful punishment in their place. Two verses later, in 39:65, the same word for losers returns, and 39:66 ends the passage with its opposite: worship Allah and be among the grateful.",
+            "bn": "এরপর সা'দী এক এক করে গুনে দেখান কী হারানো গেল। অন্তর যা দিয়ে ঠিক থাকে, তা তারা হারিয়েছে: আল্লাহর প্রতি ভক্তি আর ইখলাস। জিহ্বা যা দিয়ে ঠিক থাকে, তা হারিয়েছে: তাঁর জিকিরে তাকে ব্যস্ত রাখা। অঙ্গপ্রত্যঙ্গ যা দিয়ে ঠিক থাকে, তাও হারিয়েছে: তাঁর আনুগত্য। বদলে তারা নিয়েছে অন্তর আর দেহ নষ্ট করার সব কিছু। তাঁর কথায়, তারা নিয়ামতে ভরা জান্নাত হারিয়েছে, আর তার জায়গায় নিয়েছে যন্ত্রণাদায়ক শাস্তি। দুই আয়াত পরে, ৩৯:৬৫-এ, ক্ষতিগ্রস্ত শব্দটি আবার আসে। আর ৩৯:৬৬ অংশটি শেষ করে তার উল্টো দিয়ে: আল্লাহর ইবাদত করুন, আর কৃতজ্ঞদের অন্তর্ভুক্ত হোন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Report Called Very Strange",
+          "bn": "যে বর্ণনাকে খুবই অদ্ভুত বলা হলো"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir notes that Ibn Abi Hatim relays here a report, through Ibn 'Umar, in which 'Uthman (RA) asks the Prophet ﷺ about this verse, and that Abu Ya'la relays it too. Its subject is a formula of remembrance, with rewards attached to saying it. Ibn Kathir calls it very strange (gharib jiddan), says its soundness is open to question, and ends that it is strange and contains severe oddity (nakara). Al-Qurtubi mentions it from al-Bayhaqi and ath-Tha'labi, and a similar report from al-Harith from 'Ali (RA), without grading either.",
+            "bn": "ইবন কাসীর জানান, ইবন আবী হাতিম এখানে ইবন উমার (রাঃ)-এর সূত্রে একটি বর্ণনা এনেছেন। তাতে উসমান (রাঃ) এ আয়াত সম্পর্কে নবী ﷺ-কে জিজ্ঞেস করেন। আবূ ইয়া'লাও বর্ণনাটি এনেছেন। এর বিষয় একটি জিকির, আর তা পড়ার কিছু সওয়াবের কথা। ইবন কাসীর একে বলেন গারীব জিদ্দান, খুবই অদ্ভুত। তাঁর মতে এর বিশুদ্ধতা প্রশ্নসাপেক্ষ, আর শেষে বলেন, এটি গারীব এবং এতে কঠিন নাকারা, মানে গুরুতর অসংগতি আছে। কুরতুবী বর্ণনাটি বায়হাকী ও সা'লাবী থেকে উল্লেখ করেন, আর হারিসের সূত্রে আলী (রাঃ) থেকে একই ধরনের আরেকটি বর্ণনাও আনেন। কোনোটিরই মান তিনি বলেননি।"
+          },
+          {
+            "en": "With the tafsir that relays the 'Uthman report calling it very strange, and al-Qurtubi giving no grading for either version he mentions, this article quotes none of these narrations and builds nothing on them. Their subject is a formula of remembrance, while the verse itself speaks of something larger: who holds the keys. No commentary read for this verse attaches a sound hadith to it, and none gives an occasion of revelation for it.",
+            "bn": "যে তাফসীর উসমান (রাঃ)-এর বর্ণনাটি আনে, সে নিজেই একে খুবই অদ্ভুত বলেছে। আর কুরতুবী তাঁর উল্লেখ করা কোনো বর্ণনারই মান বলেননি। তাই এ প্রবন্ধ এসব বর্ণনার কিছুই উদ্ধৃত করে না, এর উপর কিছু দাঁড়ও করায় না। এগুলোর বিষয় একটি জিকির, অথচ আয়াতটি বলছে আরও বড় এক কথা: চাবি কার হাতে। এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি, নাযিলের কোনো উপলক্ষও উল্লেখ করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking the Keeper First",
+          "bn": "আগে চাবির মালিকের কাছে চাওয়া"
+        },
+        "p": [
+          {
+            "en": "The second half of the verse describes those who disbelieve in Allah's signs, and it names their end as loss. It describes what the text describes. It gives no one a licence to pass judgement on any living person or community, to treat them with contempt, or to wrong them in any way. The commentators place this loss in what such people forfeit from Allah, in this world and the next. Whoever reads the verse is asked to examine his own heart, not to sort his neighbours.",
+            "bn": "আয়াতের দ্বিতীয় ভাগ আল্লাহর নিদর্শন অস্বীকারকারীদের বর্ণনা দেয়, আর তাদের পরিণামকে বলে ক্ষতি। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায় সম্পর্কে রায় দেওয়ার, তাদের তুচ্ছ করার বা কোনোভাবে তাদের উপর অন্যায় করার অনুমতি এ আয়াত কাউকে দেয় না। তাফসীরকারেরা এই ক্ষতিকে দেখেন আল্লাহর কাছ থেকে তাদের হাতছাড়া হওয়া কল্যাণের মধ্যে, দুনিয়াতেও, আখিরাতেও। যে আয়াতটি পড়ে, তাকে নিজের অন্তর পরীক্ষা করতে বলা হচ্ছে, প্রতিবেশীদের ভাগ করতে নয়।"
+          },
+          {
+            "en": "For the reader, the verse turns into a habit. Before going to any door, go first to the One who holds its key, and ask Him. When a door opens, remember who opened it; when it stays shut, remember that He knows what is behind it. As-Sa'di's list doubles as a daily check: a heart devoted and sincere, a tongue busy with remembrance, limbs at work in obedience. Those are the shares this verse warns against losing, while the keys are still being turned.",
+            "bn": "পাঠকের জন্য আয়াতটি একটি অভ্যাসে পরিণত হয়। যে কোনো দরজায় যাওয়ার আগে, যাঁর হাতে তার চাবি, আগে তাঁর কাছে যান, তাঁর কাছে চান। দরজা খুললে মনে রাখুন কে খুলে দিলেন। বন্ধ থাকলে মনে রাখুন, ওপারে কী আছে তিনি জানেন। সা'দীর তালিকাটা প্রতিদিনের এক হিসাবও হতে পারে: ভক্তি আর ইখলাসে ভরা অন্তর, জিকিরে ব্যস্ত জিহ্বা, আনুগত্যে লেগে থাকা অঙ্গপ্রত্যঙ্গ। চাবি এখনো ঘুরছে, আর এ আয়াত সাবধান করে দেয়: এই ভাগগুলো যেন হাতছাড়া না হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "39:67": {
     "sections": [
       {
