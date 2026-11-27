@@ -36613,6 +36613,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Look at the colours one rain brings out of the earth and the colours set in the rock, and let that variety lead you to the One who made it.",
     "lessonBn": "একই বৃষ্টি মাটি থেকে যে নানা রং বের করে আনে আর পাহাড়ের গায়ে যে রং বসানো আছে, সেদিকে তাকান, আর সেই বৈচিত্র্য আপনাকে তার স্রষ্টার কাছে নিয়ে যাক।"
+  },
+  "35:9": {
+    "reflectionEn": "The verse sets out a scene anyone can watch. The wind comes first, then cloud driven along in front of it, then rain falling on ground that looked finished: cracked, bare, without a green blade anywhere. Soon the same ground is alive again. Then two Arabic words turn the whole scene toward me: kadhalika an-nushur, so is the raising. The commentators read it plainly. As He brings dead land back to life, He will bring the dead back out of their graves. I have seen the first many times and stopped noticing it. The verse asks me to let every rain remind me of the second. If I trust the earth to turn green again, why do I live as though my own grave were the end of the matter?",
+    "reflectionBn": "আয়াতটি এমন এক দৃশ্য সামনে রাখে, যা যে কেউ নিজের চোখে দেখতে পারে। প্রথমে বাতাস আসে। তার সামনে সামনে মেঘ ভেসে চলে। তারপর বৃষ্টি নামে এমন মাটিতে, যাকে দেখে মনে হচ্ছিল সব শেষ: ফাটা, ন্যাড়া, কোথাও একটা সবুজ ঘাসও নেই। কিছুদিন পরে সেই মাটিই আবার জীবন্ত। তারপর আরবি দুটি শব্দ পুরো দৃশ্যটাকে আমার দিকে ঘুরিয়ে দেয়: কাযালিকান নুশূর, পুনরুত্থানও এমনই। তাফসীরকারেরা সোজা অর্থই করেন। তিনি যেভাবে মরা মাটিকে বাঁচিয়ে তোলেন, সেভাবেই মৃতদের কবর থেকে উঠিয়ে আনবেন। প্রথমটা আমি বহুবার দেখেছি, আর দেখতে দেখতে খেয়াল করাই ছেড়ে দিয়েছি। আয়াতটি চায়, প্রতিটি বৃষ্টি আমাকে দ্বিতীয়টার কথা মনে করিয়ে দিক। মাটি আবার সবুজ হবে, এ ভরসা যদি আমার থাকে, তবে কেন এমনভাবে বাঁচি যেন আমার কবরেই সব কিছুর ইতি?",
+    "pointsEn": [
+      "When did I last watch rain fall on dry ground and think of anything beyond the weather?",
+      "If the raising of the dead is as certain as the greening after rain, what in this week would I do differently?",
+      "Do I thank Allah for the rain when it comes, or notice it only when it is late or too heavy?",
+      "What have I given up on as dead and beyond help, forgetting the One who brings a dead land back to life?",
+      "When I last stood beside a grave, did I leave it believing that the one buried there will rise?"
+    ],
+    "pointsBn": [
+      "শেষ কবে শুকনো মাটিতে বৃষ্টি পড়তে দেখে আবহাওয়ার বাইরে অন্য কিছু ভেবেছি?",
+      "বৃষ্টির পরে মাটি সবুজ হওয়ার মতোই যদি মৃতদের জেগে ওঠা নিশ্চিত হয়, তবে এ সপ্তাহে আমি কোন কাজটা অন্যভাবে করতাম?",
+      "বৃষ্টি এলে আমি কি আল্লাহর শুকরিয়া আদায় করি, নাকি বৃষ্টির কথা মনে পড়ে কেবল দেরি হলে বা বেশি হলে?",
+      "কোন জিনিসকে আমি মরা আর আশাহীন ভেবে ছেড়ে দিয়েছি, ভুলে গিয়ে যে মরা জমিনকে যিনি বাঁচান তিনি আছেন?",
+      "শেষবার কারও কবরের পাশে দাঁড়িয়ে যখন ফিরেছি, তখন কি এ বিশ্বাস নিয়ে ফিরেছি যে এখানে যিনি শুয়ে আছেন তিনি আবার উঠবেন?"
+    ],
+    "lessonEn": "Let every rain that revives dry ground remind you that Allah will raise the dead just as surely, and live today ready for that rising.",
+    "lessonBn": "শুকনো মাটিকে বাঁচিয়ে তোলা প্রতিটি বৃষ্টি আপনাকে মনে করিয়ে দিক, আল্লাহ ঠিক তেমনি নিশ্চিতভাবে মৃতদের ওঠাবেন। আর সেই ওঠার জন্য আজ থেকেই প্রস্তুত হয়ে বাঁচুন।"
   }
 };
 

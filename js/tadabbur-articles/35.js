@@ -295,6 +295,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "35:9": {
+    "sections": [
+      {
+        "h": {
+          "en": "Winds Sent, Clouds Raised",
+          "bn": "পাঠানো বাতাস, জাগানো মেঘ"
+        },
+        "p": [
+          {
+            "en": "Wa-Allahu alladhi arsala ar-riyaha fa-tuthiru sahaban fa-suqnahu ila baladin mayyitin fa-ahyayna bihi al-arda ba'da mawtiha, kadhalika an-nushur: and it is Allah who sends the winds, and they stir up cloud, and We drive it to a dead land and give life by it to the earth after its death. So is the raising. The verse is seventeen Arabic words, a chain of events joined link by link with fa: wind, cloud, a dead land, life. Then a short closing clause names what the whole chain points to.",
+            "bn": "ওয়াল্লাহুল্লাযী আরসালার রিয়াহা ফাতুসীরু সাহাবান ফাসুকনাহু ইলা বালাদিম মাইয়িতিন ফাআহইয়াইনা বিহিল আরদা বা'দা মাওতিহা, কাযালিকান নুশূর: আল্লাহই বাতাস পাঠান, তা মেঘ জাগিয়ে তোলে, তারপর আমি সেই মেঘ মরা জনপদের দিকে হাঁকিয়ে নিই এবং তা দিয়ে মাটিকে তার মৃত্যুর পর জীবিত করি। পুনরুত্থানও এমনই। আরবিতে আয়াতটি সতেরো শব্দের। ঘটনাগুলো একটার পর একটা 'ফা' দিয়ে গাঁথা: বাতাস, মেঘ, মরা জনপদ, জীবন। শেষে ছোট্ট একটি বাক্য জানিয়ে দেয়, পুরো শিকলটা কোন দিকে ইশারা করছে।"
+          },
+          {
+            "en": "The verse sits in a stretch of the surah addressed to people at large. In 35:5 Allah's promise is called true, with a warning not to be deluded by the life of this world, and 35:7 sets a severe punishment beside forgiveness and a great reward. Promise and reckoning alike assume that the dead will rise, and here the surah gives that assumption a picture. As-Sa'di opens on this verse by saying that Allah is telling of the perfection of His power and the breadth of His generosity.",
+            "bn": "আয়াতটি সূরার এমন এক অংশে, যেখানে সাধারণভাবে সব মানুষকে ডাকা হচ্ছে। ৩৫:৫ আয়াতে আল্লাহর ওয়াদাকে সত্য বলা হয়েছে, সঙ্গে সতর্ক করা হয়েছে যেন দুনিয়ার জীবন কাউকে ধোঁকায় না ফেলে। ৩৫:৭ আয়াতে কঠিন শাস্তির পাশেই রাখা হয়েছে মাগফিরাত আর মহা প্রতিদান। ওয়াদা আর হিসাব, দুটোরই পূর্বশর্ত হলো মৃতরা আবার উঠবে। এখানে সূরা সেই কথাটাকে একটা ছবি দিয়ে দেখায়। সা'দী এ আয়াতের আলোচনা শুরু করেন এই বলে যে, আল্লাহ এখানে নিজের পূর্ণ ক্ষমতা আর দানের প্রশস্ততার খবর দিচ্ছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verb Caught Mid-Motion",
+          "bn": "চোখের সামনে চলমান ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's discussion notes that the verse opens in the third person, Allah who sent, and then says fa-suqnahu, We drove it, and calls this talwin al-khitab, a change in the colouring of the address. He also records a remark of Abu 'Ubayda: since the verse had just said fa-tuthiru sahaban, the expected course would have been fa-tasuquhu, and it drives it, keeping the wind as the subject. Instead it hands the driving of the cloud to the Speaker Himself.",
+            "bn": "কুরতুবীর আলোচনায় দেখানো হয়েছে, আয়াতটি শুরু হয় আল্লাহর কথা দূর থেকে উল্লেখ করে: আল্লাহ, যিনি পাঠিয়েছেন। তারপরই বলা হয় ফাসুকনাহু, আমি তাকে হাঁকিয়ে নিলাম। একে বলা হয়েছে তালউইনুল খিতাব, অর্থাৎ সম্বোধনের রং বদলে দেওয়া। আবু উবাইদার একটি মন্তব্যও তিনি তুলে আনেন। আয়াতে যেহেতু আগেই বলা হয়েছে ফাতুসীরু সাহাবান, তাই স্বাভাবিক ধারা হতো ফাতাসূকুহু, অর্থাৎ বাতাসই মেঘটাকে হাঁকিয়ে নেয়। আয়াত বরং মেঘ হাঁকানোর কাজটা সঁপে দিয়েছে বক্তার নিজের হাতে।"
+          },
+          {
+            "en": "Al-Qurtubi then quotes az-Zamakhshari on a second feature. Why does fa-tuthiru come in the present form, when the verbs before and after it are past? His answer: to relate the very state in which the winds stir up the clouds, and to bring before the mind that wondrous picture which points to the Lord's power. Arabs do this, he adds, with an act that is unusual or that matters to the listener. He cites the poet Ta'abbata Sharran, who told in the present tense how he met a ghoul and struck it, so his people would see it happen.",
+            "bn": "এরপর কুরতুবী আরেকটি দিক নিয়ে যামাখশারীর কথা উদ্ধৃত করেন। আগের ও পরের ক্রিয়াগুলো অতীত কালের, তবু ফাতুসীরু কেন বর্তমান কালে? তাঁর জবাব: বাতাস যখন মেঘ জাগায়, ঠিক সেই অবস্থাটাকে তুলে ধরতে, আর রবের কুদরতের সাক্ষী সেই অপূর্ব ছবিটা মনের সামনে হাজির করতে। তিনি বলেন, আরবরা এমনটা করে সেই কাজের বেলায়, যাতে বিশেষ কিছু আছে কিংবা যা শ্রোতার কাছে গুরুত্বপূর্ণ। প্রমাণ হিসেবে তিনি কবি তাআব্বাতা শাররানের একটি পঙক্তি আনেন। এক দানোর সঙ্গে দেখা হওয়া আর তাকে আঘাত করার কথা কবি নিজের লোকদের শুনিয়েছিলেন বর্তমান কালে, যাতে তারা যেন ঘটনাটা চোখের সামনে দেখতে পায়।"
+          },
+          {
+            "en": "Az-Zamakhshari reads the change of person the same way. Driving cloud to a dead land and reviving it are among the proofs of an overwhelming power, so the verse says suqna and ahyayna, We drove and We revived, turned from the absent form to one that marks the act more clearly as belonging to Him alone. The listener is shown the wind at work as if it were happening now, and then hears Allah claim the driving and the reviving as His own doing.",
+            "bn": "বলার ভঙ্গির এই বদলটাও যামাখশারী একইভাবে ব্যাখ্যা করেন। মরা জনপদের দিকে মেঘ হাঁকিয়ে নেওয়া আর তাকে বাঁচিয়ে তোলা প্রবল কুদরতের নিদর্শন। তাই আয়াত বলে সুকনা আর আহইয়াইনা, আমি হাঁকালাম, আমি বাঁচালাম। দূর থেকে উল্লেখের ভঙ্গি ছেড়ে এমন রূপে আসা হলো, যা আরও স্পষ্ট করে জানিয়ে দেয় কাজটা একমাত্র তাঁরই। শ্রোতা প্রথমে দেখে বাতাস কাজ করছে, যেন ঠিক এখনই ঘটছে। তারপর শোনে, হাঁকানো আর বাঁচানো আল্লাহ নিজের কাজ বলে দাবি করছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Wind or Many",
+          "bn": "এক বাতাস, নাকি অনেক"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the reading of the majority as ar-riyah, the winds, and records that Ibn Muhaysin, Ibn Kathir the Qur'an reader, al-A'mash, Yahya, Hamza and al-Kisa'i read ar-rih, the wind, in the singular. He then turns to the word mayyit, dead, in baladin mayyitin. Mayyit and mayt, he says, are one in meaning, and so are their feminine forms; this is the view of the skilled grammarians. He adds that Muhammad ibn Yazid called it the view of the Basrans, excepting no one, and argued for it with decisive proofs.",
+            "bn": "কুরতুবী জানান, অধিকাংশের কিরাআত আর-রিয়াহ, বহু বাতাস। আর ইবন মুহাইসিন, কারী ইবন কাসীর, আ'মাশ, ইয়াহইয়া, হামযা ও কিসাঈ পড়েছেন আর-রীহ, একবচনে এক বাতাস। এরপর তিনি বালাদিম মাইয়িতিন কথাটার 'মাইয়িত' শব্দ নিয়ে আলোচনা করেন। তাঁর কথা, মাইয়িত আর মাইত একই অর্থের, এদের স্ত্রীলিঙ্গ রূপ দুটিও তাই। দক্ষ ব্যাকরণবিদদের মত এটাই। তিনি আরও বলেন, মুহাম্মাদ ইবন ইয়াযীদ একে বসরার আলেমদের মত বলেছেন, কাউকে বাদ না দিয়ে, এবং অকাট্য দলিল দিয়ে তা প্রমাণ করেছেন।"
+          },
+          {
+            "en": "Among that evidence is a couplet: whoever has died and found rest is not dead; the dead one is the dead among the living, who lives on in gloom, his heart darkened, with little hope. The poet uses both forms for one meaning, and that grammatical point is all the line is cited for. It is not an explanation of the verse, and nothing here is built on it.",
+            "bn": "সেই দলিলের মধ্যে আছে দুই পঙক্তির একটি কবিতা: যে মরে গিয়ে শান্তি পেয়েছে, সে মৃত নয়। মৃত তো সে, যে জীবিতদের মাঝে মরা হয়ে আছে। বিষণ্ণতায় দিন কাটায়, মন তার অন্ধকার, আশা সামান্য। কবি দুটি রূপই এক অর্থে ব্যবহার করেছেন, আর পঙক্তিটি আনা হয়েছে কেবল ব্যাকরণের এই কথাটুকুর জন্য। এটি আয়াতের ব্যাখ্যা নয়, আর এখানে এর উপর কিছু দাঁড় করানো হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ground With Nothing Growing",
+          "bn": "যে মাটিতে কিছুই গজায় না"
+        },
+        "p": [
+          {
+            "en": "At-Tabari says the winds stir the cloud for al-haya and al-ghayth, the rain that brings life and relief. The dead land, in his words, is a land whose people are stricken by drought, its ground barren and desolate, with no plant in it and no crop. Fa-ahyayna bihi he explains as: We made the land We drove the cloud to fertile with that cloud's rain after its drought, and We grew crops in it after the barren time.",
+            "bn": "তাবারী বলেন, বাতাস মেঘ জাগায় আল-হায়া ও আল-গাইসের জন্য, অর্থাৎ জীবন আর স্বস্তি নিয়ে আসা বৃষ্টির জন্য। তাঁর ভাষায় মরা জনপদ মানে এমন এলাকা, যার লোকেরা খরায় পড়েছে, মাটি ঊষর ও পোড়ো, সেখানে না আছে কোনো গাছপালা, না কোনো ফসল। ফাআহইয়াইনা বিহি কথাটার ব্যাখ্যা তিনি দেন এভাবে: যে জমিনের দিকে মেঘ হাঁকিয়ে নিয়েছি, খরার পর সেই মেঘের বৃষ্টি দিয়ে তাকে উর্বর করেছি, আর অনাবাদি দিনের পর সেখানে ফসল ফলিয়েছি।"
+          },
+          {
+            "en": "As-Sa'di carries the revival past the soil. When Allah sends the rain down on that land, he writes, the lands come alive and so do the servants; the animals find their provision and graze among those good things. The verse speaks only of the earth, but the earth is where people and their herds are fed, and a dead land brought back is a whole region brought back with it. The sign is first of all a mercy that people live by.",
+            "bn": "সা'দী জীবনদানের কথাটাকে মাটির গণ্ডি পার করে নিয়ে যান। তিনি লেখেন, আল্লাহ যখন সেই জমিনে বৃষ্টি নামান, তখন জনপদ বেঁচে ওঠে, বান্দারাও বেঁচে ওঠে। পশুরা রিযক পায় আর সেই নিয়ামতের মধ্যে চরে বেড়ায়। আয়াত কেবল মাটির কথাই বলে। কিন্তু মানুষ আর তাদের পশুপাল খাবার পায় এই মাটি থেকেই। তাই মরা জমিন বেঁচে উঠলে গোটা এলাকাই তার সঙ্গে বেঁচে ওঠে। নিদর্শনটা সবার আগে এক রহমত, যার উপর মানুষ বেঁচে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "So Shall the Raising Be",
+          "bn": "পুনরুত্থানও ঠিক এভাবে"
+        },
+        "p": [
+          {
+            "en": "Kadhalika an-nushur. At-Tabari explains: in this way Allah raises the dead after their decay in their graves, giving them life after they had perished, just as We gave this land life with rain after its death. The people of interpretation, he says, said the same, and he cites Qatada: He sends the winds and they drive the cloud, Allah revives this dead land with this water, and so He will raise him on the Day of Resurrection. Al-Baghawi adds only two words to the verse, min al-qubur, from the graves.",
+            "bn": "কাযালিকান নুশূর। তাবারী ব্যাখ্যা করেন: এভাবেই আল্লাহ মৃতদেরকে কবরে পচে-গলে যাওয়ার পর ওঠাবেন, বিলীন হয়ে যাওয়ার পর জীবন দেবেন, যেমন আমি বৃষ্টি দিয়ে এই জমিনকে তার মৃত্যুর পর জীবিত করেছি। তিনি বলেন, তাফসীরের আলেমরাও এমনটাই বলেছেন। প্রমাণে তিনি কাতাদার কথা আনেন: তিনি বাতাস পাঠান, বাতাস মেঘ হাঁকিয়ে নেয়, আল্লাহ এই পানি দিয়ে এই মরা জমিনকে বাঁচিয়ে তোলেন। এভাবেই কিয়ামতের দিন তিনি মানুষকে ওঠাবেন। বাগাভী আয়াতের সঙ্গে কেবল দুটি শব্দ জুড়ে দেন: মিনাল কুবূর, কবর থেকে।"
+          },
+          {
+            "en": "Al-Qurtubi glosses the phrase as: so you will be brought to life after you have died, from nashara al-insanu nushuran, a person was raised. The kaf, he notes, stands in the nominative position, so the clause reads as a full statement: the raising of the dead is like this giving of life. The Muyassar puts it most simply: like that reviving, Allah will revive the dead on the Day of Resurrection. The comparison is meant as proof, not ornament: Ibn Kathir's verb for it, below, is yastadillu, He argues from it.",
+            "bn": "কুরতুবী কথাটার অর্থ করেন: মৃত্যুর পর তোমাদেরকে এভাবেই জীবিত করা হবে। শব্দটা এসেছে নাশারাল ইনসানু নুশূরান থেকে, মানুষটি পুনরুত্থিত হলো। তিনি দেখান, 'কা' অব্যয়টি এখানে কর্তৃকারকের অবস্থানে বসেছে। ফলে বাক্যটা পূর্ণ এক ঘোষণা: মৃতদের পুনরুত্থান এই জীবনদানেরই মতো। মুয়াসসার সবচেয়ে সহজ করে বলে: ঐ জীবনদানের মতোই আল্লাহ কিয়ামতের দিন মৃতদের জীবিত করবেন। তুলনাটা অলংকার নয়, প্রমাণ। নিচে দেখা যাবে, ইবন কাসীর এর জন্য যে ক্রিয়া ব্যবহার করেন তা ইয়াসতাদিল্লু, অর্থাৎ তিনি এ থেকে দলিল দেন।"
+          },
+          {
+            "en": "Ibn Kathir places the verse in a pattern. Allah often argues for the Return, he says, from His reviving of the earth after its death, as at the opening of Surat al-Hajj, prompting His servants to take the one as a lesson for the other. The earth lies dead with nothing growing, and when He sends it water-bearing clouds it stirs and swells and puts forth every lovely kind (22:5). The same argument runs through 7:57 and 30:48. In each place the reasoning moves from what the listener has seen many times to what he has not yet seen.",
+            "bn": "ইবন কাসীর আয়াতটিকে একটি ধারার মধ্যে রাখেন। তিনি বলেন, আল্লাহ প্রায়ই জমিনকে মৃত্যুর পর জীবিত করার কথা দিয়ে আখিরাতে ফিরে যাওয়ার প্রমাণ দেন, যেমন সূরা হজ্জের শুরুতে। এভাবে তিনি বান্দাদের সজাগ করেন, যেন একটা দেখে অন্যটার শিক্ষা নেয়। মাটি পড়ে থাকে মরা, কিছুই গজায় না। তিনি যখন পানিভরা মেঘ পাঠান, তখন তা নড়ে ওঠে, ফুলে ওঠে, আর সব রকমের মনোরম উদ্ভিদ জন্মায় (২২:৫)। একই যুক্তি এসেছে ৭:৫৭ ও ৩০:৪৮ আয়াতে। প্রতিটি জায়গায় যুক্তি এগোয় শ্রোতার বহুবার দেখা জিনিস থেকে এখনো না দেখা জিনিসের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rain Before the Rising",
+          "bn": "ওঠার আগে বৃষ্টি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir carries the likeness further. So too the bodies, he writes: when Allah wills to raise them, He sends down from beneath the Throne a rain that covers the whole earth, and the bodies grow in their graves as a seed grows in the ground. As-Sa'di describes the same. After decay has torn the dead apart, Allah drives rain to them as He drove it to the dead land and sends it down on them. Bodies and souls come to life out of the graves, and they come to stand before Allah, who judges between them with His just ruling.",
+            "bn": "ইবন কাসীর তুলনাটাকে আরও এক ধাপ এগিয়ে নেন। তিনি লেখেন, দেহগুলোর বেলায়ও তাই। আল্লাহ যখন সেগুলো ওঠাতে চাইবেন, আরশের নিচ থেকে এমন বৃষ্টি নামাবেন যা গোটা পৃথিবী ঢেকে ফেলবে। তখন দেহগুলো কবরের ভেতরে গজিয়ে উঠবে, যেমন মাটিতে বীজ গজায়। সা'দীর বর্ণনাও একই রকম। পচন যখন মৃতদের ছিন্নভিন্ন করে ফেলেছে, তখন আল্লাহ তাদের দিকে বৃষ্টি হাঁকিয়ে নেবেন, যেমন মরা জমিনের দিকে নিয়েছিলেন, আর তাদের উপর তা নামাবেন। দেহ ও রূহ কবর থেকে জীবিত হয়ে উঠবে। তারপর তারা আল্লাহর সামনে দাঁড়াতে আসবে, আর তিনি ন্যায়ের হুকুমে তাদের মাঝে ফয়সালা করবেন।"
+          },
+          {
+            "en": "At-Tabari gives a report with his own chain: Ibn Bashshar, from 'Abd ar-Rahman, from Sufyan, from Salama ibn Kuhayl, from Abu az-Za'ra', from 'Abdullah, that is Ibn Mas'ud. These are a Companion's own words, not raised to the Prophet ﷺ, and at-Tabari gives them no grading. Ibn Mas'ud says that between the two blasts there is as long as Allah wills, and that of every human something remains in the earth. Then Allah sends a water from beneath the Throne, like a man's seed, and their bodies and flesh grow from it as the earth grows from moist soil.",
+            "bn": "তাবারী নিজস্ব সনদে একটি বর্ণনা আনেন: ইবন বাশশার, আবদুর রহমান থেকে, তিনি সুফইয়ান থেকে, তিনি সালামা ইবন কুহাইল থেকে, তিনি আবুয যা'রা থেকে, তিনি আবদুল্লাহ, অর্থাৎ ইবন মাসউদ (রাঃ) থেকে। এগুলো একজন সাহাবীর নিজের কথা, নবী ﷺ পর্যন্ত পৌঁছানো নয়, আর তাবারী এর কোনো মান নির্ণয় করেননি। ইবন মাসউদ (রাঃ) বলেন, দুই ফুঁয়ের মাঝে থাকবে আল্লাহ যতদিন চান ততদিন। প্রত্যেক মানুষেরই কিছু না কিছু মাটিতে রয়ে যায়। তারপর আল্লাহ আরশের নিচ থেকে পুরুষের বীর্যের মতো এক পানি পাঠাবেন। তা থেকে তাদের দেহ ও মাংস গজাবে, যেমন ভেজা মাটি থেকে উদ্ভিদ গজায়।"
+          },
+          {
+            "en": "Then, at-Tabari reports, Ibn Mas'ud recited this verse up to kadhalika an-nushur, and said that an angel will then stand with the Trumpet between heaven and earth and blow it, and every soul will go to its body and enter it. In this report the verse is read as describing the raising itself, not only as offering a likeness for it. It is carried here as at-Tabari carries it, with its chain and without a grading, and nothing further is built on its details.",
+            "bn": "তাবারী জানান, এরপর ইবন মাসউদ (রাঃ) এ আয়াতটি কাযালিকান নুশূর পর্যন্ত পড়লেন। তারপর বললেন, এরপর একজন ফেরেশতা আসমান ও জমিনের মাঝে শিঙা নিয়ে দাঁড়াবেন এবং তাতে ফুঁ দেবেন। তখন প্রতিটি প্রাণ নিজের দেহের দিকে ছুটে গিয়ে তাতে প্রবেশ করবে। এ বর্ণনায় আয়াতটিকে পড়া হয়েছে স্বয়ং পুনরুত্থানের বর্ণনা হিসেবে, কেবল তার উপমা হিসেবে নয়। তাবারী যেভাবে এনেছেন, এখানেও সেভাবেই রাখা হলো: সনদসহ, মান নির্ণয় ছাড়া। এর খুঁটিনাটির উপর আর কিছু দাঁড় করানো হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Bone the Earth Spares",
+          "bn": "মাটি যে হাড়টি রেখে দেয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir then brings a hadith: for this reason, he says, it has come in the Sahih that every part of the son of Adam decays except the tailbone, from which he was created and from which he will be put together again. A fuller report is in Sahih Muslim, which needs no grading beyond its place in that collection of sound reports. It is a general narration on the Resurrection, which Muslim does not attach to this verse. Its wording in the English of 2955a:",
+            "bn": "এরপর ইবন কাসীর একটি হাদীস আনেন। তিনি বলেন, এ কারণেই সহীহ গ্রন্থে এসেছে যে আদম সন্তানের সব কিছুই ক্ষয়ে যায়, কেবল মেরুদণ্ডের শেষ প্রান্তের হাড়টি ছাড়া। তা থেকেই তাকে সৃষ্টি করা হয়েছে, আর তা থেকেই তাকে আবার জোড়া লাগানো হবে। আরও পূর্ণাঙ্গ একটি বর্ণনা আছে সহীহ মুসলিমে। সহীহ বর্ণনার সংকলনে স্থান পাওয়াই তার মান, আলাদা করে আর কিছু বলার দরকার পড়ে না। এটি পুনরুত্থান বিষয়ে সাধারণ বর্ণনা, মুসলিম একে এ আয়াতের সঙ্গে যুক্ত করেননি। ২৯৫৫ক নম্বরের পাঠ এরকম:"
+          },
+          {
+            "en": "\"Abu Huraira reported Allah's Messenger (ﷺ) as saying: Between the two blowings of the trumpet (there would be an interval of forty). They said: Abu Huraira, do you mean forty days? He said: I cannot say anything. They said: Do you mean forty months? He said: I cannot say anything. They said: Do you mean forty years? He said: I cannot say anything. Then Allah would cause the water to descend from the sky and they (people) will sprout like vegetable. The only thing in a man which would not decay would be one bone (the tailbone) from which the whole frame would be reconstituted on the Day of Resurrection.\"",
+            "bn": "\"আবু হুরাইরা (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: শিঙায় দুই ফুঁয়ের মাঝে (চল্লিশের ব্যবধান থাকবে)। লোকেরা বলল: হে আবু হুরাইরা, চল্লিশ দিন? তিনি বললেন: আমি কিছু বলতে পারি না। তারা বলল: চল্লিশ মাস? তিনি বললেন: আমি কিছু বলতে পারি না। তারা বলল: চল্লিশ বছর? তিনি বললেন: আমি কিছু বলতে পারি না। তারপর আল্লাহ আকাশ থেকে পানি নামাবেন, আর (মানুষ) শাকসবজির মতো গজিয়ে উঠবে। মানুষের দেহে একটি হাড় (মেরুদণ্ডের শেষ প্রান্তের হাড়) ছাড়া আর সবই ক্ষয়ে যাবে। কিয়ামতের দিন সেই হাড় থেকেই গোটা দেহ আবার গড়া হবে।\""
+          },
+          {
+            "en": "Al-Bukhari records the same report from Abu Hurayra in nearly the same Arabic (4935 in the Darussalam numbering). Water sent down, and people growing as plants grow: the hadith and the verse draw one picture from two sides. Ibn Kathir and al-Qurtubi also relay, under this verse, a narration from Abu Razin al-'Uqayli, who asked the Prophet ﷺ about the reviving of the dead. Neither names a collection or a grading for it in the text read here, so it is only mentioned, and nothing in this article rests on it.",
+            "bn": "বুখারীও আবু হুরাইরা (রাঃ) থেকে প্রায় একই আরবি শব্দে বর্ণনাটি এনেছেন (দারুসসালাম ক্রমে ৪৯৩৫)। পানি নামানো হবে, আর মানুষ গজাবে যেমন উদ্ভিদ গজায়। হাদীস আর আয়াত দুই দিক থেকে একই ছবি আঁকে। ইবন কাসীর ও কুরতুবী এ আয়াতের আলোচনায় আবু রাযীন আল-উকাইলী (রাঃ) থেকে আরেকটি বর্ণনাও আনেন। তিনি নবী ﷺ-কে মৃতদের জীবিত করার বিষয়ে প্রশ্ন করেছিলেন। এখানে পড়া পাঠে তাঁদের কেউই এর কোনো সংকলন বা মান উল্লেখ করেননি। তাই এখানে কেবল এর উল্লেখটুকু থাকল, এ লেখার কোনো কথা এর উপর দাঁড়িয়ে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading the Next Rain",
+          "bn": "পরের বৃষ্টিকে যেভাবে পড়বেন"
+        },
+        "p": [
+          {
+            "en": "Two cautions belong here. The verse speaks of wind, cloud and rain as Allah's sending and Allah's driving. It does not give an account of how weather forms, and none should be read into it. And at-Tabari's dead land is a land whose people are in drought. The verse describes that land and its reviving, and it licenses nothing against any living person or community. A region struck by drought is not shown by it to be under a verdict, and no one is shown by it to be beyond Allah's reviving.",
+            "bn": "এখানে দুটি সতর্কতা দরকার। আয়াত বাতাস, মেঘ আর বৃষ্টির কথা বলে আল্লাহর পাঠানো আর আল্লাহর হাঁকিয়ে নেওয়া হিসেবে। আবহাওয়া কীভাবে তৈরি হয়, তার কোনো বিবরণ আয়াত দেয় না, আর তেমন কিছু এর মধ্যে ঢোকানোও ঠিক নয়। দ্বিতীয়ত, তাবারীর মরা জনপদ এমন এলাকা, যার লোকেরা খরায় পড়েছে। আয়াত সেই জমিন আর তার বেঁচে ওঠার কথাই বলে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। খরায় পড়া এলাকা এ আয়াতের কারণে কোনো রায়ের শিকার প্রমাণিত হয় না। কেউ আল্লাহর জীবনদানের বাইরে, এমন কথাও এ থেকে প্রমাণ হয় না।"
+          },
+          {
+            "en": "What the verse asks of its listener is attention. The sequence it describes is one people see season after season, and the commentators take its last two words as the reason it is described at all. In Ibn Kathir's phrase, Allah alerts His servants to take the one as a lesson for the other. Whoever watches bare ground turn green after rain has been shown a likeness of the raising of the dead, and is asked to live as one who expects to rise.",
+            "bn": "আয়াত শ্রোতার কাছে চায় মনোযোগ। যে ধারাবাহিকতার কথা এখানে, মানুষ তা মৌসুমের পর মৌসুম দেখে। আর তাফসীরকারেরা আয়াতের শেষ দুটি শব্দকেই ধরেছেন এ বর্ণনার আসল কারণ হিসেবে। ইবন কাসীরের ভাষায়, আল্লাহ বান্দাদের সজাগ করেন, যেন একটা দেখে অন্যটার শিক্ষা নেয়। বৃষ্টির পর ন্যাড়া মাটিকে যে সবুজ হতে দেখে, তাকে আসলে মৃতদের জেগে ওঠার একটা নমুনা দেখানো হলো। তার কাছে চাওয়া হয়, সে যেন এমন মানুষের মতো বাঁচে, যে জানে তাকে আবার উঠতে হবে।"
+          }
+        ]
+      }
+    ]
+  },
   "35:10": {
     "sections": [
       {
