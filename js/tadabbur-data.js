@@ -38291,6 +38291,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Live knowing every deed is being written for a reading on the Day each nation kneels: learn what your Book asks, and fill your record with what you would want read.",
     "lessonBn": "জেনে রাখুন, প্রতিটি আমল লেখা হচ্ছে সেদিন পড়ে শোনানোর জন্য, যেদিন প্রত্যেক জাতি হাঁটু গেড়ে থাকবে। আপনার কিতাব কী চায় তা শিখুন, আর আমলনামা ভরুন এমন কিছু দিয়ে যা পড়ে শোনানো হোক বলে আপনি চাইবেন।"
+  },
+  "47:7": {
+    "reflectionEn": "The surah has just spoken of battle and of those slain in Allah's way. Then, for the first time in it, comes the call: O you who believe, if you help Allah, He will help you and make your feet firm. Allah needs no one's help; a few verses earlier He says He could have dealt with His enemies Himself. So the help He asks for is help to His religion and His Messenger, and the one who gives it is the one who gains. The promise answers like with like: help given, help returned, and feet that hold when the ground shifts. What, in my ordinary week, would count as helping Allah's religion? And where are my feet slipping for lack of it?",
+    "reflectionBn": "সূরাটি এইমাত্র যুদ্ধের কথা বলেছে, আল্লাহর পথে যারা নিহত হয়েছে তাদের কথা বলেছে। তারপর এ সূরায় প্রথমবারের মতো ডাক আসে: হে ঈমানদারগণ, তোমরা যদি আল্লাহকে সাহায্য কর, তিনি তোমাদের সাহায্য করবেন আর তোমাদের পা দৃঢ় রাখবেন। আল্লাহর কারও সাহায্যের দরকার নেই। কয়েক আয়াত আগেই তিনি বলেছেন, চাইলে তিনি নিজেই শত্রুদের সামলে নিতে পারতেন। তাই যে সাহায্য তিনি চান, তা তাঁর দ্বীন আর তাঁর রাসূলের জন্য। লাভটা শেষ পর্যন্ত সাহায্যকারীরই। প্রতিশ্রুতিটা যেমন কাজ তেমন প্রতিদানের: সাহায্য দিলে সাহায্য ফিরে আসে, আর পায়ের নিচের মাটি সরে গেলেও পা টলে না। আমার সাধারণ একটা সপ্তাহে কোন কাজটা আল্লাহর দ্বীনের সাহায্য বলে গণ্য হবে? আর সেটার অভাবে কোথায় আমার পা পিছলে যাচ্ছে?",
+    "pointsEn": [
+      "If helping Allah's religion includes doing what He commands and leaving what He forbids, how much of that help is already within my reach today?",
+      "Do I picture Allah's cause as something distant and heroic, so that I never begin the small part that is mine?",
+      "The last time my feet slipped, under fear, pressure or temptation, what had I already stopped giving before that?",
+      "Do I turn to Allah for help mostly when I need it, or do I also ask what I am giving to His religion?",
+      "Is the good I do for Allah's face, or for a name and a cause of my own?"
+    ],
+    "pointsBn": [
+      "আল্লাহর দ্বীনকে সাহায্য করার মধ্যে যদি তাঁর হুকুম পালন আর তাঁর নিষেধ থেকে দূরে থাকাও পড়ে, তবে সেই সাহায্যের কতটা আজই আমার হাতের নাগালে আছে?",
+      "আল্লাহর দ্বীনের কাজকে কি আমি অনেক দূরের, বীরত্বের কোনো ব্যাপার ভাবি, যাতে নিজের ভাগের ছোট কাজটা কখনো শুরুই করি না?",
+      "শেষবার যখন ভয়ে, চাপে বা প্রলোভনে আমার পা পিছলে গেল, তার আগেই আমি কী দেওয়া বন্ধ করে দিয়েছিলাম?",
+      "আমি কি শুধু দরকারের সময় আল্লাহর কাছে সাহায্য চাই, নাকি এটাও ভাবি যে তাঁর দ্বীনকে আমি কী দিচ্ছি?",
+      "যে ভালো কাজ করি, তা কি আল্লাহর সন্তুষ্টির জন্য, নাকি নিজের নাম আর নিজের কোনো উদ্দেশ্যের জন্য?"
+    ],
+    "lessonEn": "Allah needs no help; helping His religion is for your own good. Give it in word and deed, for His sake, and ask Him for the firm footing He promises in return.",
+    "lessonBn": "আল্লাহর কারও সাহায্যের দরকার নেই, তাঁর দ্বীনকে সাহায্য করা আপনার নিজেরই কল্যাণ। কথায় ও কাজে, তাঁরই সন্তুষ্টির জন্য সে সাহায্য দিন, আর বিনিময়ে তাঁর প্রতিশ্রুত দৃঢ় পা চেয়ে নিন।"
   }
 };
 

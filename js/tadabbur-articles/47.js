@@ -311,6 +311,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "47:7": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Surah's First Direct Call",
+          "bn": "সূরার প্রথম সরাসরি ডাক"
+        },
+        "p": [
+          {
+            "en": "Surah Muhammad opens by describing two groups: those who disbelieve and turn others from Allah's way, whose deeds He sends astray, and those who believe and follow the truth from their Lord, whose condition He sets right. At 47:4 the speech turns to the believers in a time of battle, and 47:5 and 47:6 promise those slain in Allah's way guidance, a state set right and a Paradise made known to them. Then comes 47:7, and with it the surah's first direct call: ya ayyuha alladhina amanu, O you who believe.",
+            "bn": "সূরা মুহাম্মাদ শুরু হয় দুই দলের বর্ণনা দিয়ে। এক দল কুফরী করে আর মানুষকে আল্লাহর পথ থেকে ফিরিয়ে রাখে, আল্লাহ তাদের আমল বিপথে নিয়ে যান। অন্য দল ঈমান আনে আর রবের পক্ষ থেকে আসা সত্যের অনুসরণ করে, আল্লাহ তাদের অবস্থা ঠিক করে দেন। ৪৭:৪ আয়াতে কথা ঘুরে যায় যুদ্ধের সময়ের মুমিনদের দিকে। ৪৭:৫ ও ৪৭:৬ আয়াতে আল্লাহর পথে নিহতদের জন্য প্রতিশ্রুতি আসে: হিদায়াত, ঠিক করে দেওয়া অবস্থা, আর তাদের চেনানো জান্নাত। তারপর আসে ৪৭:৭, আর তার সঙ্গে এ সূরার প্রথম সরাসরি ডাক: ইয়া আইয়ুহাল্লাযীনা আমানু, হে ঈমানদারগণ।"
+          },
+          {
+            "en": "The call comes only once more in the surah, at 47:33, where the believers are told to obey Allah and the Messenger and not to let their deeds go to waste. Here it opens a sentence of nine Arabic words: in tansuru Allaha yansurkum wa yuthabbit aqdamakum. A condition, a reply, and a further gift added to the reply. The battle passage before it supplies the setting in which most commentators read it, and this article only points to that passage. The verse after it, 47:8, sets the end of those who disbelieve against this promise.",
+            "bn": "এ সূরায় এই ডাক আর একবারই আসে, ৪৭:৩৩ আয়াতে। সেখানে মুমিনদের বলা হয় আল্লাহ ও রাসূলের আনুগত্য করতে আর নিজেদের আমল নষ্ট না করতে। এখানে ডাকটি খুলে দেয় নয়টি আরবি শব্দের একটি বাক্য: ইন তানসুরুল্লাহা ইয়ানসুরকুম ওয়া ইউসাব্বিত আকদামাকুম। প্রথমে শর্ত, তারপর তার জবাব, আর জবাবের সঙ্গে বাড়তি এক দান। আগের যুদ্ধের অংশটিই সেই প্রেক্ষাপট, যার আলোয় বেশির ভাগ তাফসীরকার আয়াতটি পড়েন। এই প্রবন্ধ সে অংশের দিকে শুধু ইশারা করে রাখে। পরের আয়াত ৪৭:৮ এই প্রতিশ্রুতির পাশে কাফিরদের পরিণাম রেখে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Help for the One Without Need",
+          "bn": "অভাবহীনকে সাহায্য"
+        },
+        "p": [
+          {
+            "en": "The wording is striking on its face: if you help Allah. The surah has already answered the obvious question. In 47:4 Allah says that had He willed, He would have taken vengeance on the disbelievers Himself, but He lets people be tested by each other. Near its close, 47:38 says that Allah is al-Ghani, free of all need, and you are the needy, and that whoever holds back holds back only from himself. So whatever helping Allah means, it cannot mean meeting a need of His.",
+            "bn": "শব্দগুলো প্রথম দেখায় চমকে দেয়: তোমরা যদি আল্লাহকে সাহায্য কর। মনে যে প্রশ্ন জাগে, সূরাটি আগেই তার জবাব দিয়ে রেখেছে। ৪৭:৪ আয়াতে আল্লাহ বলেন, তিনি চাইলে নিজেই কাফিরদের থেকে প্রতিশোধ নিতে পারতেন, কিন্তু তিনি মানুষকে একে অপরের দ্বারা পরীক্ষা করেন। সূরার শেষ দিকে ৪৭:৩৮ আয়াত জানায়, আল্লাহ আল-গনী, সব অভাব থেকে মুক্ত, আর তোমরাই অভাবী। যে কৃপণতা করে, সে কৃপণতা করে নিজেরই সঙ্গে। কাজেই আল্লাহকে সাহায্য করার অর্থ যা-ই হোক, তাঁর কোনো অভাব পূরণ করা তার অর্থ হতে পারে না।"
+          },
+          {
+            "en": "The commentators fill in the object. Al-Qurtubi glosses it as the religion of Allah: if you help Allah's religion, He will help you against the disbelievers. He then reports Qutrub's reading, if you help the Prophet of Allah, and adds that the meaning is one. Al-Baghawi joins the two: His religion and His Messenger, and the Jalalayn, on the quranx page fetched for this verse, says the same. At-Tabari reads it as helping His Messenger Muhammad ﷺ against his enemies. The Qur'an pairs the two itself at 59:8, praising emigrants who help Allah and His Messenger.",
+            "bn": "কাকে সাহায্য, তাফসীরকারেরা তা খুলে বলেন। কুরতুবী অর্থ করেন আল্লাহর দ্বীন: তোমরা আল্লাহর দ্বীনকে সাহায্য করলে তিনি কাফিরদের বিরুদ্ধে তোমাদের সাহায্য করবেন। এরপর তিনি কুতরুবের পাঠ উল্লেখ করেন, তোমরা আল্লাহর নবীকে সাহায্য করলে, আর বলেন, অর্থ একই। বাগাভী দুটিকে এক করে বলেন: তাঁর দ্বীন ও তাঁর রাসূল। এ আয়াতের জন্য quranx থেকে আনা পাতায় জালালাইনও একই কথা বলে। তাবারী পড়েন তাঁর রাসূল মুহাম্মাদ ﷺ-কে শত্রুদের বিরুদ্ধে সাহায্য করা। কুরআন নিজেও ৫৯:৮ আয়াতে দুটিকে জোড়া বাঁধে, যেখানে সেই মুহাজিরদের প্রশংসা আছে যারা আল্লাহ ও তাঁর রাসূলকে সাহায্য করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Help Given in Word and Deed",
+          "bn": "কথায় ও কাজে সাহায্য"
+        },
+        "p": [
+          {
+            "en": "At-Tabari keeps closest to the hour of revelation. To help Allah, for him, is to help the Messenger ﷺ against those of the people of disbelief who were his enemies, and to strive against them alongside him, so that Allah's word be the highest. The reply follows the same line: He will help you against them and give you the upper hand over them, for He is the helper of His religion and of those close to Him. His reading ties the verse to the believers who stood with the Prophet ﷺ in his own time.",
+            "bn": "তাবারী নাযিলের সময়ের সবচেয়ে কাছে থাকেন। তাঁর কাছে আল্লাহকে সাহায্য করা মানে রাসূল ﷺ-কে সাহায্য করা, কাফিরদের মধ্যে যারা তাঁর শত্রু ছিল তাদের বিরুদ্ধে, আর তাঁর সঙ্গে থেকে তাদের বিরুদ্ধে জিহাদ করা, যাতে আল্লাহর বাণীই সবার উপরে থাকে। জবাবও একই সুরে: তিনি তাদের বিরুদ্ধে তোমাদের সাহায্য করবেন, তাদের উপর তোমাদের বিজয়ী করবেন, কারণ তিনি নিজের দ্বীন আর নিজের বন্ধুদের সাহায্যকারী। তাঁর এই পাঠ আয়াতটিকে বেঁধে রাখে সেই মুমিনদের সঙ্গে, যারা নবী ﷺ-এর নিজের যুগে তাঁর পাশে দাঁড়িয়েছিলেন।"
+          },
+          {
+            "en": "The Muyassar widens the circle. It addresses those who affirmed Allah and His Messenger and acted on His law, and names four ways of helping Allah's religion: striving in His path, judging by His Book, carrying out His commands and keeping away from what He forbids. Three of the four need no battlefield at all; they reach into an ordinary day of any believer's life. The promise it gives in return matches the verse: He will help you against your enemies and make your feet firm at the time of fighting.",
+            "bn": "মুয়াসসার পরিধিটা বড় করে। সে সম্বোধন করে তাদের, যারা আল্লাহ ও তাঁর রাসূলকে সত্য বলে মেনেছে আর তাঁর শরীয়ত অনুযায়ী আমল করেছে। আল্লাহর দ্বীনকে সাহায্যের চারটি পথের নাম দেয়: তাঁর পথে জিহাদ, তাঁর কিতাব অনুযায়ী ফয়সালা, তাঁর হুকুম পালন আর তাঁর নিষেধ থেকে দূরে থাকা। এই চারটির তিনটির জন্য কোনো রণক্ষেত্র লাগে না। সেগুলো যেকোনো মুমিনের সাধারণ দিনের ভেতরেই ঢুকে পড়ে। বিনিময়ে যে প্রতিশ্রুতি সে দেয়, তা আয়াতেরই মতো: তিনি শত্রুদের বিরুদ্ধে তোমাদের সাহায্য করবেন আর যুদ্ধের সময় তোমাদের পা দৃঢ় রাখবেন।"
+          },
+          {
+            "en": "As-Sa'di reads the verse as a command to the believers, and lists the help as upholding His religion, calling people to it, striving against His enemies, and seeking Allah's face in all of it. That last condition sits over the rest: the list names what is done, the condition names why. He closes with a sentence that gathers the verse into a rule: whoever helps Him with words and deeds, his Master will help him and make easy for him the means of help, firmness among them.",
+            "bn": "সা'দী আয়াতটিকে মুমিনদের প্রতি আল্লাহর এক নির্দেশ হিসেবে পড়েন। সাহায্যের তালিকা তিনি দেন এভাবে: তাঁর দ্বীন কায়েম রাখা, মানুষকে তাঁর দিকে ডাকা, তাঁর শত্রুদের বিরুদ্ধে জিহাদ করা, আর এ সবকিছুতে আল্লাহর সন্তুষ্টি চাওয়া। শেষ শর্তটি বাকি সবকিছুর উপরে বসে আছে। তালিকা বলে কী করতে হবে, শর্তটি বলে কেন। শেষে তিনি এক বাক্যে আয়াতটিকে নিয়মে বেঁধে দেন: যে কথায় ও কাজে তাঁকে সাহায্য করে, তার মাওলা তাকে সাহায্য করবেন, আর সাহায্যের উপকরণ তার জন্য সহজ করে দেবেন, যার একটি হলো দৃঢ়তা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Recompense in the Same Coin",
+          "bn": "যেমন কাজ, তেমন বদলা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets the verse beside 22:40, wa la-yansuranna Allahu man yansuruh: Allah will surely help whoever helps Him. He gives the principle in a phrase: the recompense is of the same kind as the deed. Helping is answered with help. Al-Qurtubi cites the same verse as its parallel. In 22:40 the setting is people driven from their homes for no reason but saying, Our Lord is Allah, and the verse names monasteries, churches, synagogues and mosques in which Allah's name is much remembered, which would have been pulled down had Allah not checked some people by means of others.",
+            "bn": "ইবন কাসীর আয়াতটিকে রাখেন ২২:৪০ আয়াতের পাশে: ওয়া লাইয়ানসুরান্নাল্লাহু মাই ইয়ানসুরুহ, যে আল্লাহকে সাহায্য করে, আল্লাহ অবশ্যই তাকে সাহায্য করবেন। মূলনীতিটা তিনি বলেন অল্প কথায়: প্রতিদান আমলেরই জাতের হয়। সাহায্যের জবাব সাহায্য। কুরতুবীও এই আয়াতকেই এর সমতুল্য হিসেবে আনেন। ২২:৪০ আয়াতের প্রেক্ষাপট এমন একদল মানুষ, যাদের ঘরবাড়ি থেকে বের করে দেওয়া হয়েছে শুধু এ কারণে যে তারা বলে, আমাদের রব আল্লাহ। সেখানে আয়াতটি মঠ, গির্জা, ইহুদিদের উপাসনালয় আর মসজিদের নাম নেয়, যেখানে আল্লাহর নাম বেশি বেশি স্মরণ হয়। আল্লাহ যদি মানুষের একদলকে আরেক দল দিয়ে প্রতিহত না করতেন, এগুলো ভেঙে ফেলা হত।"
+          },
+          {
+            "en": "At-Tabari reports from Qatada a reason for the promise: because it is a right upon Allah to give whoever asks of Him and to help whoever helps Him. The sentence pairs asking with giving and helping with being helped. Ibn Kathir adds, on the firm feet, a narration he relays without a source or a grading, on the topic of feet made firm on the Bridge; it is not confirmed on a page fetched for this article, so nothing here rests on it. No tafsir consulted attaches a sound hadith to this verse.",
+            "bn": "তাবারী কাতাদা থেকে প্রতিশ্রুতির একটি কারণ বর্ণনা করেন: কেননা আল্লাহর উপর এ হক যে, যে তাঁর কাছে চায় তাকে তিনি দেবেন, আর যে তাঁকে সাহায্য করে তাকে তিনি সাহায্য করবেন। বাক্যটি চাওয়ার সঙ্গে দেওয়াকে, আর সাহায্য করার সঙ্গে সাহায্য পাওয়াকে জোড়া বাঁধে। দৃঢ় পায়ের প্রসঙ্গে ইবন কাসীর একটি বর্ণনা যোগ করেন, যার কোনো সূত্র বা মান তিনি উল্লেখ করেননি। বিষয়টি পুলসিরাতের উপর পা দৃঢ় রাখা। এ প্রবন্ধের জন্য আনা কোনো পাতায় এটি নিশ্চিত হয়নি, তাই এখানে কিছুই এর উপর দাঁড় করানো হয়নি। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Feet That Do Not Run",
+          "bn": "যে পা পালায় না"
+        },
+        "p": [
+          {
+            "en": "Wa yuthabbit aqdamakum: and He will make your feet firm. Al-Baghawi, the Muyassar and the Jalalayn all place it at the time of fighting. At-Tabari explains what that firmness does: He strengthens you against them and makes you bold, so that you do not turn your backs on them, even if their number is great and yours is small. The picture is of a line that holds. Feet that stay planted are feet that do not flee, and the verse credits the planting to Allah, not to the soldier's own nerve.",
+            "bn": "ওয়া ইউসাব্বিত আকদামাকুম: আর তিনি তোমাদের পা দৃঢ় করবেন। বাগাভী, মুয়াসসার আর জালালাইন সবাই একে যুদ্ধের সময়ের সঙ্গে যুক্ত করেন। এই দৃঢ়তা কী করে, তাবারী তা খুলে বলেন: তিনি তাদের বিরুদ্ধে তোমাদের শক্তি দেন, সাহস জোগান, যাতে তোমরা তাদের দিকে পিঠ না ফেরাও, তাদের সংখ্যা যত বেশি আর তোমাদের সংখ্যা যত কমই হোক। ছবিটা এমন এক সারির, যা ভাঙে না। যে পা মাটিতে গেঁথে থাকে, সে পা পালায় না। আর আয়াতটি সেই পা গেঁথে দেওয়ার কাজ সৈনিকের নিজের সাহসকে দেয় না, দেয় আল্লাহকে।"
+          },
+          {
+            "en": "Al-Qurtubi gives the reading at the time of fighting as the meaning, then adds others, each introduced with it is said: firm upon Islam; firm upon the Bridge; and a reading in which the real firming is of hearts, by a sense of safety, so that firm feet become an expression for help and support in the place of battle. He does not argue between them. Together they stretch the phrase from a battlefield to a lifetime of faith and to the crossing on the Day of Judgement, and each keeps the same image of a foot that does not slip.",
+            "bn": "কুরতুবী যুদ্ধের সময়ের অর্থটি মূল অর্থ হিসেবে দেন। তারপর 'বলা হয়' বলে আরও কয়েকটি পাঠ আনেন: ইসলামের উপর দৃঢ় রাখা; পুলসিরাতের উপর দৃঢ় রাখা; আর এমন এক পাঠ, যেখানে আসল দৃঢ়তা অন্তরের, নিরাপত্তার অনুভূতি দিয়ে। সে পাঠে পা দৃঢ় করা হয়ে যায় রণক্ষেত্রে সাহায্য ও সহায়তার এক রূপক। এগুলোর মধ্যে তিনি কোনো বিতর্কে যান না। সব মিলিয়ে বাক্যাংশটি রণক্ষেত্র থেকে ছড়িয়ে যায় সারা জীবনের ঈমান পর্যন্ত, আর বিচার দিবসের পারাপার পর্যন্ত। প্রতিটি পাঠেই একই ছবি থাকে: এমন পা, যা পিছলে যায় না।"
+          },
+          {
+            "en": "As-Sa'di folds heart and body together. Allah binds their hearts with patience, calm and steadfastness, makes their bodies endure, and helps them against their enemies. His verb for the hearts, yarbitu 'ala qulubihim, is the very verb the Qur'an uses in 8:11 of the rain sent down upon the believers: to bind your hearts and make your feet firm by it. A foot holds when the heart behind it holds. As-Sa'di calls the verse a promise from the Generous, who is true to what He promises.",
+            "bn": "সা'দী অন্তর আর শরীরকে একসঙ্গে ধরেন। আল্লাহ ধৈর্য, প্রশান্তি আর অবিচলতা দিয়ে তাদের অন্তর বেঁধে দেন, তাদের শরীরকে সহনশীল করেন, আর শত্রুদের বিরুদ্ধে তাদের সাহায্য করেন। অন্তরের জন্য তিনি যে ক্রিয়া ব্যবহার করেন, ইয়ারবিতু আলা কুলুবিহিম, কুরআন ঠিক সেটিই ব্যবহার করেছে ৮:১১ আয়াতে, মুমিনদের উপর নামানো বৃষ্টির প্রসঙ্গে: তোমাদের অন্তর বেঁধে দিতে আর তা দিয়ে তোমাদের পা দৃঢ় করতে। ভেতরে অন্তর টিকে থাকলে বাইরে পা-ও টিকে থাকে। সা'দী আয়াতটিকে বলেন এমন এক সত্তার প্রতিশ্রুতি, যিনি দয়ালু আর যাঁর প্রতিশ্রুতি সত্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Doer but Allah Alone",
+          "bn": "আল্লাহ ছাড়া কোনো কর্তা নেই"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi notices something else. In Surah al-Anfal the same firming passes through angels: your Lord revealed to the angels, I am with you, so make firm those who believe (8:12). Here in 47:7 no one stands in between; Allah says He Himself will make your feet firm. Al-Qurtubi says the Qur'an affirms an intermediary there and leaves it out here, and gives a second case: in 32:11 the angel of death takes souls, while 30:40 says it is Allah who causes you to die, and 67:2 that He created death and life.",
+            "bn": "কুরতুবী আরেকটি বিষয় লক্ষ করেন। সূরা আনফালে এই দৃঢ় করার কাজ ফেরেশতাদের মাধ্যমে আসে: তোমার রব ফেরেশতাদের প্রতি ওহী পাঠালেন, আমি তোমাদের সঙ্গে আছি, অতএব মুমিনদের দৃঢ় রাখো (৮:১২)। এখানে ৪৭:৭ আয়াতে মাঝখানে কেউ নেই। আল্লাহ বলছেন, তিনি নিজেই তোমাদের পা দৃঢ় করবেন। কুরতুবী বলেন, কুরআন সেখানে মাধ্যমের কথা বলে, এখানে তা বাদ দেয়। এর আরেকটি দৃষ্টান্তও তিনি দেন: ৩২:১১ আয়াতে মৃত্যুর ফেরেশতা প্রাণ নেন, অথচ ৩০:৪০ বলে আল্লাহই তোমাদের মৃত্যু দেন, আর ৬৭:২ বলে তিনিই মৃত্যু ও জীবন সৃষ্টি করেছেন।"
+          },
+          {
+            "en": "His conclusion is short: fa-la fa'ila illa Allahu wahdah, there is no doer but Allah alone. Angels, rain, courage and numbers are means; the act is His. The Qur'an says as much at 8:10: victory comes only from Allah. For a reader the point is practical. Help from Allah may arrive through people and causes, and when it does, thanks pass beyond them to Him. As-Sa'di's word for the One who helps is mawla, the Master and Protector, the same word 47:11 uses: Allah is the mawla of those who believe.",
+            "bn": "তাঁর উপসংহার ছোট: ফালা ফাইলা ইল্লাল্লাহু ওয়াহদাহ, এক আল্লাহ ছাড়া কোনো কর্তা নেই। ফেরেশতা, বৃষ্টি, সাহস, লোকবল, এসবই উপকরণ। কাজটা তাঁরই। কুরআন ৮:১০ আয়াতে একই কথা বলে: সাহায্য কেবল আল্লাহর কাছ থেকেই আসে। পাঠকের জন্য কথাটা হাতে-কলমে কাজের। আল্লাহর সাহায্য মানুষ আর উপকরণের ভেতর দিয়ে আসতে পারে। যখন আসে, শুকরিয়া তাদের পেরিয়ে তাঁর কাছে পৌঁছায়। সাহায্যকারীর জন্য সা'দী যে শব্দ ব্যবহার করেন তা মাওলা, অর্থাৎ অভিভাবক ও রক্ষক। ৪৭:১১ আয়াতেও এই শব্দ: আল্লাহ মুমিনদের মাওলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer Answered as Promise",
+          "bn": "দোয়া ফিরে আসে প্রতিশ্রুতি হয়ে"
+        },
+        "p": [
+          {
+            "en": "The two gifts of this verse appear elsewhere in the Qur'an as prayers. Those who went out to face Jalut and his army said: Our Lord, pour patience upon us, make our feet firm and help us against the disbelieving people (2:250). The followers who fought beside earlier prophets, and did not weaken at what struck them, said: Our Lord, forgive us our sins and our excess in our affairs, make our feet firm and help us against the disbelieving people (3:147). In both, firm feet and help are asked for together.",
+            "bn": "এ আয়াতের দুই দান কুরআনের অন্য জায়গায় এসেছে দোয়া হয়ে। যারা জালূত ও তার বাহিনীর মুখোমুখি হতে বের হয়েছিল, তারা বলেছিল: হে আমাদের রব, আমাদের উপর ধৈর্য ঢেলে দাও, আমাদের পা দৃঢ় রাখো, আর কাফির সম্প্রদায়ের বিরুদ্ধে আমাদের সাহায্য করো (২:২৫০)। আগের নবীদের পাশে যারা লড়েছিল, আর যে বিপদ এসেছিল তাতে দুর্বল হয়নি, তারা বলেছিল: হে আমাদের রব, আমাদের গুনাহ আর আমাদের কাজের বাড়াবাড়ি ক্ষমা করো, আমাদের পা দৃঢ় রাখো, আর কাফির সম্প্রদায়ের বিরুদ্ধে আমাদের সাহায্য করো (৩:১৪৭)। দুই জায়গাতেই দৃঢ় পা আর সাহায্য একসঙ্গে চাওয়া হয়েছে।"
+          },
+          {
+            "en": "In 47:7 the same two arrive as a reply rather than a request, and the condition stands in front: in tansuru Allah. Read side by side, the verses keep prayer and effort together. The believers of 2:250 and 3:147 prayed while they stood their ground, and the promise here speaks to those who are already giving. In none of them are firm feet a matter of natural courage; each time they are asked of Allah or given by Him. And 3:147 puts the asking of forgiveness first, before the firm feet.",
+            "bn": "৪৭:৭ আয়াতে সেই দুটি একই জিনিস আসে চাওয়ার রূপে নয়, জবাবের রূপে, আর সামনে দাঁড়িয়ে থাকে শর্ত: ইন তানসুরুল্লাহ। পাশাপাশি পড়লে আয়াতগুলো দোয়া আর চেষ্টাকে আলাদা হতে দেয় না। ২:২৫০ ও ৩:১৪৭ আয়াতের মুমিনেরা মাটি আঁকড়ে দাঁড়িয়ে থেকেই দোয়া করেছিল। আর এখানকার প্রতিশ্রুতি তাদের উদ্দেশে, যারা ইতিমধ্যে দিচ্ছে। কোথাও দৃঢ় পা জন্মগত সাহসের ব্যাপার নয়। প্রতিবারই তা আল্লাহর কাছে চাওয়া হয়, অথবা তিনি দান করেন। আর ৩:১৪৭ আয়াত দৃঢ় পায়ের আগে রেখেছে গুনাহের ক্ষমা চাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Promise Read Through Its Commentators",
+          "bn": "তাফসীরের আলোয় এক প্রতিশ্রুতি"
+        },
+        "p": [
+          {
+            "en": "This needs saying firmly. The verse addresses the believers of the Prophet's ﷺ own community, in the setting of the battle passage before it, and at-Tabari reads the help as help given to the Messenger ﷺ, alongside him. Nothing in 47:7 licenses fighting, violence or any political act by any person or group today, and no one may take its promise as a pledge that Allah stands behind a campaign of their own. The commentators' readings include striving alongside the Prophet ﷺ in that setting, and also obedience, calling to Allah and sincerity; this article reports them and goes no further.",
+            "bn": "কথাটা দৃঢ়ভাবে বলা দরকার। আয়াতটি নবী ﷺ-এর নিজের যুগের মুমিনদের সম্বোধন করে, আগের যুদ্ধের অংশের প্রেক্ষাপটে। আর তাবারী সাহায্যকে পড়েন রাসূল ﷺ-কে সাহায্য করা হিসেবে, তাঁর সঙ্গে থেকে। আজকের কোনো ব্যক্তি বা দলের জন্য ৪৭:৭ আয়াত লড়াই, সহিংসতা বা কোনো রাজনৈতিক পদক্ষেপের অনুমতি দেয় না। কেউ এর প্রতিশ্রুতিকে এমন নিশ্চয়তা ধরে নিতে পারে না যে আল্লাহ তার নিজের কোনো অভিযানের পেছনে আছেন। তাফসীরকারদের পাঠে আছে সেই প্রেক্ষাপটে নবী ﷺ-এর পাশে থেকে জিহাদ, আবার আনুগত্য, আল্লাহর দিকে ডাকা আর ইখলাসও। এ প্রবন্ধ সেসব পাঠ শুধু তুলে ধরে, এর বাইরে যায় না।"
+          },
+          {
+            "en": "The verse after it, 47:8, sets the other path beside this one: for those who disbelieve there is misery, and their deeds are sent astray. Ibn Kathir reads that misery as the opposite of the firm feet promised here. The contrast concerns the end of a path as the Qur'an describes it. It describes what the text describes, gives no one a warrant to pronounce that end over a neighbour, and licenses nothing against any living person or community.",
+            "bn": "পরের আয়াত ৪৭:৮ এই পথের পাশে অন্য পথটি রেখে দেয়: যারা কুফরী করে তাদের জন্য দুর্ভোগ, আর তাদের আমল বিপথে যায়। ইবন কাসীর সেই দুর্ভোগকে পড়েন এখানে প্রতিশ্রুত দৃঢ় পায়ের বিপরীত হিসেবে। এই বৈপরীত্য একটি পথের শেষ নিয়ে, কুরআন যেভাবে তা বর্ণনা করে। আয়াতটি কেবল তা-ই বর্ণনা করে যা পাঠে আছে। কাউকে প্রতিবেশীর উপর সেই পরিণাম ঘোষণা করার অধিকার দেয় না, আর জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না।"
+          },
+          {
+            "en": "What stays with the reader is the shape of the promise. Most of the help the commentators list lies within any believer's reach: carrying out a command, leaving a forbidden thing, speaking for the truth, keeping one's intention for Allah's face. Each is help to His religion, and its benefit returns to the one who gives it, just as 47:38 says that whoever holds back holds back only from himself. The feet that hold in a hard hour, in a temptation, a fear or a long trial, are the feet the verse says Allah will make firm.",
+            "bn": "পাঠকের মনে যা থেকে যায়, তা এই প্রতিশ্রুতির গড়ন। তাফসীরকারেরা যে সাহায্যের তালিকা দেন, তার বেশির ভাগই যেকোনো মুমিনের নাগালে: একটি হুকুম পালন করা, একটি হারাম ছেড়ে দেওয়া, সত্যের পক্ষে কথা বলা, নিয়ত আল্লাহর সন্তুষ্টির জন্য খাঁটি রাখা। প্রতিটিই তাঁর দ্বীনের সাহায্য, আর তার লাভ ফিরে আসে দাতার কাছেই। ৪৭:৩৮ আয়াতও তো বলে, যে কৃপণতা করে সে নিজের সঙ্গেই কৃপণতা করে। কঠিন মুহূর্তে, প্রলোভনে, ভয়ে বা দীর্ঘ পরীক্ষায় যে পা টিকে থাকে, আয়াত বলছে সেই পা-ই আল্লাহ দৃঢ় করবেন।"
+          }
+        ]
+      }
+    ]
+  },
   "47:10": {
     "sections": [
       {
