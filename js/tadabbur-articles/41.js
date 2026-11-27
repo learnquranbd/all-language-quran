@@ -299,6 +299,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "41:7": {
+    "sections": [
+      {
+        "h": {
+          "en": "Woe, Then a Description",
+          "bn": "ধ্বংসের ঘোষণা, তারপর পরিচয়"
+        },
+        "p": [
+          {
+            "en": "This verse finishes a sentence that begins in the one before it. In 41:6 the Prophet ﷺ is told to say that he is only a man like his hearers, that it is revealed to him that their god is one God, and that they should go straight to Him and seek His forgiveness. The verse closes: and woe to the associators. Then 41:7 says who they are: alladhina la yu'tuna az-zakata wa hum bil-akhirati hum kafirun, those who do not give zakah, and who are disbelievers in the Hereafter.",
+            "bn": "এ আয়াত একটি বাক্যের শেষাংশ, যার শুরু আগের আয়াতে। ৪১:৬ আয়াতে নবী ﷺ-কে বলতে বলা হয়েছে, তিনি শ্রোতাদের মতোই একজন মানুষ মাত্র। তাঁর কাছে ওয়াহী আসে যে তাদের ইলাহ একজনই। কাজেই তারা যেন সোজা তাঁর দিকে চলে আর তাঁর কাছে ক্ষমা চায়। আয়াতটি শেষ হয় এ কথায়: আর ধ্বংস মুশরিকদের জন্য। তারপর ৪১:৭ জানিয়ে দেয় তারা কারা: আল্লাযীনা লা ইউ'তূনায যাকাতা ওয়া হুম বিল-আখিরাতি হুম কাফিরূন। অর্থাৎ যারা যাকাত দেয় না, আর আখিরাতকে অস্বীকার করে।"
+          },
+          {
+            "en": "At-Tabari quotes the two verses as one statement before explaining either. He glosses the woe in bodily terms: the pus of the people of the Fire and what flows from them, for those who claim a partner for Allah and worship idols besides Him. The English abridgement of Ibn Kathir renders it doom and destruction. The Muyassar, explaining both verses together, makes it punishment for those who worshipped idols that neither benefit nor harm. In every one of these readings, the two marks in 41:7 describe the associators just named.",
+            "bn": "তাবারী কোনো ব্যাখ্যায় যাওয়ার আগে দুটি আয়াতকে একটি বক্তব্য হিসেবেই উদ্ধৃত করেন। ধ্বংস বা ওয়াইল শব্দটি তিনি বোঝান দেহের ভাষায়: জাহান্নামীদের পুঁজ আর তাদের শরীর থেকে যা গড়িয়ে পড়ে। এটা তাদের জন্য, যারা আল্লাহর শরীক দাবি করে আর তাঁকে ছেড়ে মূর্তির ইবাদত করে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এর অর্থ করে সর্বনাশ ও ধ্বংস। মুয়াসসার দুটি আয়াত একসাথে ব্যাখ্যা করে বলে, এ শাস্তি তাদের, যারা এমন মূর্তি পূজা করেছে যা না উপকার করে, না ক্ষতি। সবগুলো ব্যাখ্যাতেই ৪১:৭-এর দুটি চিহ্ন আগের আয়াতে উল্লিখিত মুশরিকদেরই পরিচয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cleansing the Self First",
+          "bn": "আগে নিজের ভেতরটা পবিত্র করা"
+        },
+        "p": [
+          {
+            "en": "The commentators split over what zakah means here. One reading goes back to Ibn Abbas (RA). At-Tabari narrates it through Ali ibn Abi Talha: they are the ones who do not bear witness that there is no god but Allah. He gives Ikrimah's words too: those who do not say la ilaha illa Allah. At-Tabari sums up this side as those who do not give Allah the obedience that would purify them, and do not affirm His oneness, and he calls it a saying reported from Ibn Abbas.",
+            "bn": "এখানে যাকাত বলতে কী বোঝানো হয়েছে, তা নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। একটি ব্যাখ্যা ইবন আব্বাস (রাঃ)-এর দিকে ফেরে। তাবারী আলী ইবন আবী তালহার সূত্রে তা বর্ণনা করেন: এরা তারাই, যারা সাক্ষ্য দেয় না যে আল্লাহ ছাড়া কোনো ইলাহ নেই। ইকরিমার কথাও তিনি আনেন: যারা লা ইলাহা ইল্লাল্লাহ বলে না। এই পক্ষের সারকথা তাবারী এভাবে বলেন: তারা আল্লাহকে সেই আনুগত্য দেয় না যা তাদের পবিত্র করত, আর তাঁর একত্ব মানে না। তিনি একে ইবন আব্বাস থেকে বর্ণিত একটি মত বলে উল্লেখ করেন।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi report the same words from Ibn Abbas and add a phrase: that is the zakah of selves. Al-Baghawi spells it out: they do not purify themselves of associating partners with Allah by affirming His oneness. He also gives Mujahid's line, that they do not purify their deeds. Ibn Kathir sets this reading beside three verses that use the same root for cleansing the self: 91:9 and 91:10, he succeeds who purifies it; 87:14 and 87:15, he succeeds who purifies himself; and 79:18, the call to Pharaoh, would you purify yourself?",
+            "bn": "কুরতুবী ও বাগাভী ইবন আব্বাস (রাঃ) থেকে একই কথা এনে যোগ করেন: এটাই নফসের যাকাত। বাগাভী খুলে বলেন, তারা তাওহীদ দিয়ে নিজেদের শিরক থেকে পবিত্র করে না। মুজাহিদের একটি উক্তিও তিনি আনেন: তারা নিজেদের আমলকে পবিত্র করে না। ইবন কাসীর এ ব্যাখ্যার পাশে তিনটি আয়াত রাখেন, যেখানে একই ধাতু নফস পরিশুদ্ধির অর্থে এসেছে। ৯১:৯ ও ৯১:১০ আয়াতে আছে, সে-ই সফল যে নফসকে পবিত্র করল। ৮৭:১৪ ও ৮৭:১৫ আয়াতে আছে, সফল সে যে নিজেকে শুদ্ধ করল। আর ৭৯:১৮ আয়াতে ফিরআউনকে ডাকা হয়েছে: তুমি কি পবিত্র হতে চাও?"
+          },
+          {
+            "en": "From those verses Ibn Kathir draws his definition. Zakah here, he says, is the purity of the self from base traits of character, and the most important of these is purity from associating partners with Allah. He then explains why the levy on wealth carries the same name: it purifies wealth of what is unlawful, it becomes a cause of its increase and blessing and wider benefit, and it helps its owner to use it in obedience. On this reading, the verse is about a self that refused to be cleansed rather than about a purse kept shut.",
+            "bn": "ওই আয়াতগুলো থেকেই ইবন কাসীর তাঁর সংজ্ঞায় পৌঁছান। তাঁর মতে এখানে যাকাত মানে মন্দ স্বভাব থেকে নফসের পবিত্রতা, আর তার মধ্যে সবচেয়ে জরুরি হলো শিরক থেকে পবিত্রতা। সম্পদের যাকাতের নামও কেন একই, তা-ও তিনি বুঝিয়ে দেন। এটা সম্পদকে হারাম থেকে পবিত্র করে। এর ফলে সম্পদ বাড়ে, বরকত আসে, উপকার ছড়িয়ে পড়ে। আর মালিক তা আল্লাহর আনুগত্যের কাজে লাগানোর তাওফীক পায়। এই ব্যাখ্যায় আয়াতের কথা বন্ধ থলের নয়, বরং এমন নফসের, যে পবিত্র হতে রাজি হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Due on Wealth Held Back",
+          "bn": "সম্পদের হক আটকে রাখা"
+        },
+        "p": [
+          {
+            "en": "The other reading takes zakah as the due on wealth, and its voices differ in detail. Qatada, in at-Tabari's report, says they do not acknowledge it and do not believe in it; in Ibn Kathir's, that they withhold the zakah of their wealth. Al-Baghawi pairs al-Hasan with Qatada: they do not acknowledge zakah or see giving it as a duty. Ad-Dahhak and Muqatil, in al-Qurtubi and al-Baghawi, say they give no charity and spend nothing in obedience. Mu'awiya ibn Qurra, in Ibn Kathir, says they are not people of zakah.",
+            "bn": "অন্য ব্যাখ্যায় যাকাত মানে সম্পদের হক, তবে এ পক্ষের বক্তারা খুঁটিনাটিতে আলাদা। তাবারীর বর্ণনায় কাতাদা বলেন, তারা যাকাত স্বীকার করে না, এতে বিশ্বাসও রাখে না। ইবন কাসীরের বর্ণনায় তাঁর কথা হলো, তারা সম্পদের যাকাত আটকে রাখে। বাগাভী হাসান ও কাতাদাকে এক সাথে আনেন: তারা যাকাত মানে না, তা দেওয়াকে ফরযও মনে করে না। কুরতুবী ও বাগাভীতে দাহহাক ও মুকাতিল বলেন, তারা সদকা করে না, আল্লাহর আনুগত্যে খরচও করে না। ইবন কাসীরে মুআবিয়া ইবন কুররার কথা: তারা যাকাতওয়ালাদের দলভুক্তই নয়।"
+          },
+          {
+            "en": "As-Suddi is reported two ways. Ibn Kathir has him say they do not hold zakah as part of their religion. At-Tabari narrates something sharper from him: had they given zakah while still associating partners with Allah, it would not have benefited them. Having laid out both sides, at-Tabari chooses. The right view, he says, is that they do not pay the zakah of their wealth, and he gives two reasons. The first is plain usage: that is the best-known meaning of the word.",
+            "bn": "সুদ্দীর কথা দুইভাবে বর্ণিত হয়েছে। ইবন কাসীরের বর্ণনায় তিনি বলেন, তারা যাকাতকে দীনের অংশ বলে মানে না। তাবারী তাঁর থেকে আরও কড়া একটি কথা আনেন: শিরকে থেকেই যদি তারা যাকাত দিত, তাতে তাদের কোনো লাভ হতো না। দুই পক্ষের কথা সাজিয়ে তাবারী নিজের মত বেছে নেন। তাঁর মতে সঠিক কথা হলো, তারা নিজেদের সম্পদের যাকাত আদায় করে না। এর পক্ষে তিনি দুটি যুক্তি দেন। প্রথমটি শব্দের প্রচলিত ব্যবহার: যাকাতের সবচেয়ে পরিচিত অর্থ এটাই।"
+          },
+          {
+            "en": "The second reason comes from the verse itself. The disbelievers meant here, at-Tabari argues, already did not testify that there is no god but Allah. If the first clause meant only that, the second, and in the Hereafter they are disbelievers, would add nothing, since anyone who denies Allah's oneness plainly does not believe in the Hereafter. That the verse follows the first clause with the second shows that zakah here means the zakah of wealth. Ibn Kathir notes that this is the apparent sense for many commentators and the reading Ibn Jarir at-Tabari chose.",
+            "bn": "দ্বিতীয় যুক্তি আয়াতের ভেতর থেকেই। তাবারীর যুক্তি হলো, এখানে যে কাফিরদের কথা বলা হচ্ছে, তারা তো এমনিতেই লা ইলাহা ইল্লাল্লাহর সাক্ষ্য দিত না। প্রথম অংশের অর্থ যদি শুধু এটুকু হতো, তবে দ্বিতীয় অংশ, অর্থাৎ আখিরাতকে তারা অস্বীকার করে, নতুন কিছু যোগ করত না। কারণ যে আল্লাহর একত্ব মানে না, সে যে আখিরাতেও বিশ্বাস করে না, তা জানা কথা। প্রথম অংশের পরে দ্বিতীয় অংশ আনা থেকেই বোঝা যায়, এখানে যাকাত মানে সম্পদের যাকাত। ইবন কাসীর জানান, বহু তাফসীরকারের কাছে এটাই আয়াতের বাহ্যিক অর্থ, আর ইবন জারীর তাবারী এটাই গ্রহণ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Makkan Verse, a Later Duty",
+          "bn": "মক্কার আয়াত, পরের যুগের ফরয"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir does not let at-Tabari's choice pass unexamined. It needs looking into, he says, because the obligation of zakah came in the second year after the emigration to Madinah, as several scholars have stated, while this verse is Makkan. How could a Makkan verse fault people for withholding a levy not yet laid down? Ma'arif al-Qur'an raises the same question first among its three, and takes its answer from Ibn Kathir.",
+            "bn": "তাবারীর বেছে নেওয়া মত ইবন কাসীর যাচাই না করে ছেড়ে দেন না। তিনি বলেন, এতে ভেবে দেখার বিষয় আছে। একাধিক আলিমের বর্ণনামতে যাকাত ফরয হয়েছে মদীনায় হিজরতের দ্বিতীয় বছরে, অথচ এ আয়াত মক্কী। যে দায় তখনও নির্ধারিতই হয়নি, তা আটকে রাখার জন্য মক্কার আয়াত কীভাবে কাউকে দোষ দেবে? মাআরিফুল কুরআন তার তিনটি প্রশ্নের প্রথমটি হিসেবে এ প্রশ্নই তোলে, আর উত্তর নেয় ইবন কাসীর থেকে।"
+          },
+          {
+            "en": "Ibn Kathir's answer is a reconciliation. It is not far-fetched, he says, that the root of zakah, giving in charity, was commanded at the very start of the mission, as in 6:141, give its due on the day of its harvest, while the zakah with fixed thresholds and amounts was set out only in Madinah. That, he says, brings the two sayings together. Ma'arif al-Qur'an, relaying this answer, points to Surah al-Muzzammil for the early command; the Arabic text of Ibn Kathir on this verse cites al-An'am.",
+            "bn": "ইবন কাসীরের উত্তর দুই মতের মধ্যে সমন্বয়। তিনি বলেন, এমন হওয়া অসম্ভব নয় যে যাকাতের মূল, অর্থাৎ দান করা, নবুওয়াতের একেবারে শুরু থেকেই আদিষ্ট ছিল। যেমন ৬:১৪১ আয়াতে আছে, ফসল কাটার দিন তার হক আদায় করো। আর নিসাব ও নির্দিষ্ট পরিমাণসহ যাকাতের বিধান খুলে বলা হয়েছে মদীনায়। তাঁর ভাষায়, এভাবে দুই মত এক জায়গায় মেলে। মাআরিফুল কুরআন এ উত্তর তুলে ধরতে গিয়ে প্রথম দিকের আদেশের জন্য সূরা মুযযাম্মিলের কথা বলে। তবে এ আয়াতে ইবন কাসীরের আরবি পাঠ উদ্ধৃত করে সূরা আনআম।"
+          },
+          {
+            "en": "He supports it with a parallel from prayer. At the start of the mission, he says, the root of prayer was obligatory before sunrise and before sunset. On the Night of the Isra, a year and a half before the emigration, Allah made the five prayers obligatory on His Messenger ﷺ, and their conditions and pillars were set out after that, step by step. He closes with: and Allah knows best. Neither he nor at-Tabari is overruled here; each reading keeps its supporters.",
+            "bn": "নিজের কথার পক্ষে তিনি নামায থেকে একটি তুলনা আনেন। তিনি বলেন, নবুওয়াতের শুরুতে নামাযের মূল ফরয ছিল সূর্যোদয়ের আগে আর সূর্যাস্তের আগে। হিজরতের দেড় বছর আগে ইসরার রাতে আল্লাহ তাঁর রাসূল ﷺ-এর উপর পাঁচ ওয়াক্ত নামায ফরয করেন। তারপর ধাপে ধাপে এর শর্ত ও রুকনগুলো খুলে বলা হয়। তিনি শেষ করেন এ কথায়: আল্লাহই ভালো জানেন। এখানে ইবন কাসীর বা তাবারী, কারও মতকেই বাতিল ঘোষণা করা হচ্ছে না। দুই ব্যাখ্যারই সমর্থক আছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wealth, Twin of the Soul",
+          "bn": "সম্পদ, প্রাণের যমজ"
+        },
+        "p": [
+          {
+            "en": "Why, of all the traits of the associators, does the verse pick withholding zakah and pair it with denying the Hereafter? Al-Qurtubi quotes az-Zamakhshari's answer. The thing a person loves most is his wealth, which is the twin of his soul. When he spends it in the way of Allah, that is the strongest proof of his firmness, his uprightness, the truth of his intention and the purity of what he hides. Az-Zamakhshari cites 2:265, those who spend their wealth seeking Allah's pleasure and to make themselves firm.",
+            "bn": "মুশরিকদের এত স্বভাবের মধ্যে আয়াত কেন যাকাত আটকে রাখাকেই বেছে নিল, আর কেন তা আখিরাত অস্বীকারের সাথে জুড়ে দিল? কুরতুবী এর উত্তরে যামাখশারীর কথা উদ্ধৃত করেন। মানুষের কাছে সবচেয়ে প্রিয় তার সম্পদ, যা তার প্রাণের যমজ ভাই। সে যখন তা আল্লাহর পথে খরচ করে, তখন সেটাই তার দৃঢ়তা, সততা, নিয়তের সত্যতা আর ভেতরের পরিচ্ছন্নতার সবচেয়ে বড় প্রমাণ। যামাখশারী ২:২৬৫ আয়াত আনেন: যারা আল্লাহর সন্তুষ্টি চেয়ে আর নিজেদের দৃঢ় রাখতে সম্পদ খরচ করে।"
+          },
+          {
+            "en": "He reads that verse as saying that such people steady their own souls, and show their steadiness, by spending. The passage, as al-Qurtubi gives it, goes on to note that those whose hearts were being won over were won by a taste of worldly goods, and that the people who turned back after the Messenger ﷺ made their break public by withholding zakah. It ends by drawing a lesson for believers: the verse urges them to pay zakah and warns them hard against withholding it, since withholding is listed among the traits of associators.",
+            "bn": "তাঁর পাঠে ওই আয়াতের অর্থ হলো, এমন লোকেরা খরচের মধ্য দিয়ে নিজেদের মনকে স্থির রাখে, আর সেই স্থিরতা প্রকাশও করে। কুরতুবী যেভাবে উদ্ধৃত করেন, সে বক্তব্যে আরও আছে: যাদের মন জয় করা হচ্ছিল, তাদের জয় করা হয়েছিল দুনিয়ার সামান্য স্বাদ দিয়ে। আর রাসূল ﷺ-এর পরে যারা মুখ ফিরিয়েছিল, তারা নিজেদের বিচ্ছেদ প্রকাশ করেছিল যাকাত আটকে রেখে। বক্তব্যটি শেষ হয় ঈমানদারদের জন্য শিক্ষা দিয়ে। আয়াতটি তাদের যাকাত আদায়ে উৎসাহ দেয় আর আটকে রাখার ব্যাপারে কড়া সতর্ক করে, কারণ আটকে রাখাকে মুশরিকদের স্বভাবের মধ্যে গোনা হয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi also relays, from al-Farra' and others, an account of the setting. The associators used to spend freely, giving the pilgrims water and food, and then barred that help from anyone who believed in Muhammad ﷺ; the verse came down about them. He gives no chain for it, so it stands as al-Farra's explanation, not an established occasion of revelation. Ma'arif al-Qur'an passes it on as the reason zakah is named here: the wealthy Quraysh were known for giving, but cut off any of their own who accepted Islam.",
+            "bn": "কুরতুবী ফাররা ও আরও কারও কারও সূত্রে প্রেক্ষাপটের একটি বিবরণও আনেন। মুশরিকরা অকাতরে খরচ করত, হাজীদের পানি পান করাত আর খাওয়াত। কিন্তু যে মুহাম্মাদ ﷺ-এর উপর ঈমান আনত, তার জন্য সে সাহায্য বন্ধ করে দিত। তাদের নিয়েই আয়াতটি নাযিল হয়। কুরতুবী এর কোনো সনদ দেন না। তাই এটা ফাররার ব্যাখ্যা হিসেবেই থাকে, প্রতিষ্ঠিত শানে নুযূল হিসেবে নয়। মাআরিফুল কুরআন এখানে যাকাতের উল্লেখের কারণ হিসেবে এটাই তুলে ধরে: ধনী কুরাইশরা দানের জন্য পরিচিত ছিল, কিন্তু তাদের কেউ মুসলমান হলে তাকে সব সাহায্য থেকে বঞ্চিত করত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Held to Account Before Belief?",
+          "bn": "ঈমানের আগেই কি দায়?"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an raises a second question. Many jurists hold that those outside Islam are not required to carry out acts such as prayer, fasting, hajj and zakah: they must first accept the faith, and only then do these duties bind them. Why, then, are they reproached here for not giving? It records two answers. Many leading jurists hold that such people are addressed by these duties too, and on that view the verse raises no difficulty.",
+            "bn": "মাআরিফুল কুরআন আরেকটি প্রশ্ন তোলে। বহু ফকীহর মতে যারা ইসলামের বাইরে, তাদের উপর নামায, রোযা, হজ্জ ও যাকাতের মতো আমল বর্তায় না। আগে তাদের ঈমান আনতে হবে, তারপরই এসব দায় তাদের উপর আসে। তাহলে এখানে দান না করার জন্য তাদের ভর্ৎসনা কেন? গ্রন্থটি দুটি উত্তর লিখে রাখে। শীর্ষস্থানীয় বহু ফকীহর মতে এমন লোকেরাও এসব দায়ের আওতায় পড়ে। সে মত নিলে আয়াত নিয়ে কোনো জটিলতাই থাকে না।"
+          },
+          {
+            "en": "Those who hold the other view, it continues, can say the reproach is not really for the unpaid zakah but for the disbelief behind it, of which it is a sign: had they believed, they would have paid it. Ma'arif takes this from Bayan al-Qur'an and leaves the question there, and so does this article. As-Sa'di frames the loss as double: no sincerity towards the Creator, through affirming His oneness and through prayer, and no benefit to His creation, through zakah and the like.",
+            "bn": "গ্রন্থটি আরও বলে, যাঁরা ভিন্ন মত রাখেন, তাঁরা বলতে পারেন যে ভর্ৎসনার আসল কারণ যাকাত না দেওয়া নয়, বরং এর পেছনের কুফর। যাকাত না দেওয়া সেই কুফরেরই আলামত। ঈমান আনলে তারা ঠিকই যাকাত দিত। মাআরিফুল কুরআন এ কথা নিয়েছে বায়ানুল কুরআন থেকে, আর প্রশ্নটি সেখানেই রেখে দিয়েছে। এ লেখাও সেখানেই থামছে। সা'দী ক্ষতিটাকে দেখেন দুই দিক থেকে। তাওহীদ আর নামাযের মাধ্যমে স্রষ্টার প্রতি কোনো ইখলাস তাদের নেই। যাকাত ও এ রকম অন্য কাজের মাধ্যমে সৃষ্টির প্রতি কোনো উপকারও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Called the Bridge of Islam",
+          "bn": "ইসলামের সাঁকো যাকাত"
+        },
+        "p": [
+          {
+            "en": "After Qatada's words, at-Tabari adds an unattributed saying, which al-Baghawi also gives: it used to be said that zakah is the bridge of Islam; whoever crosses it is saved, and whoever lags behind perishes. At-Tabari's report then turns to the time after the Prophet ﷺ, when those who turned back said: as for prayer, we pray, but as for zakah, by Allah, our wealth will not be taken. Abu Bakr (RA), in this report, swore he would not separate what Allah had joined, and would fight them even over a hobbling cord.",
+            "bn": "কাতাদার কথার পর তাবারী একটি উক্তি আনেন, যার বক্তার নাম নেই, আর বাগাভীও তা উল্লেখ করেন: বলা হতো, যাকাত ইসলামের সাঁকো। যে তা পার হলো সে বেঁচে গেল, আর যে পিছিয়ে রইল সে ধ্বংস হলো। এরপর তাবারীর বর্ণনা নবী ﷺ-এর পরের সময়ের দিকে যায়। যারা মুখ ফিরিয়েছিল তারা বলেছিল, নামায আমরা পড়ব, কিন্তু আল্লাহর কসম, আমাদের সম্পদ কেড়ে নেওয়া চলবে না। এ বর্ণনায় আবু বকর (রাঃ) কসম খেয়ে বলেন, আল্লাহ যা একত্র করেছেন তিনি তা আলাদা করবেন না। উট বাঁধার একটি রশি আটকালেও তিনি তাদের বিরুদ্ধে লড়বেন।"
+          },
+          {
+            "en": "Al-Bukhari records the episode from Abu Hurayrah (RA), no. 1399, in other wording: there Abu Bakr speaks of a young she-goat they used to hand to the Messenger ﷺ, and says zakah is the due on wealth. It is not narrated about this verse, and no commentary fetched here attaches a sound hadith to 41:7. That was the first caliph's decision, in his own time, about a group who had broken away; neither it nor this verse licenses any reader to act against anyone living today.",
+            "bn": "বুখারী আবু হুরায়রা (রাঃ) থেকে ঘটনাটি ভিন্ন শব্দে বর্ণনা করেছেন, হাদীস নং ১৩৯৯। সেখানে আবু বকর (রাঃ) বলেন একটি ছাগলছানার কথা, যা তারা রাসূল ﷺ-কে দিত। আর বলেন, যাকাত হলো সম্পদের হক। এ হাদীস এ আয়াত প্রসঙ্গে বর্ণিত নয়। এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ৪১:৭-এর সাথে কোনো সহীহ হাদীস যুক্ত করে না। সে সিদ্ধান্ত ছিল প্রথম খলীফার, তাঁর নিজের সময়ে, আলাদা হয়ে যাওয়া একটি দলের ব্যাপারে। সে ঘটনা বা এ আয়াত, কোনোটিই আজকের কোনো জীবিত মানুষের বিরুদ্ধে কিছু করার অনুমতি কোনো পাঠককে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Once Fear of the Day Goes",
+          "bn": "শেষ দিনের ভয় যখন উঠে যায়"
+        },
+        "p": [
+          {
+            "en": "The second mark is wa hum bil-akhirati hum kafirun. At-Tabari explains it as denying the rising of the Hour and Allah's raising of His creatures alive from their graves after they have decayed and passed away. As-Sa'di draws the link: they do not believe in the resurrection, the Garden or the Fire, so once fear had left their hearts, they ventured on what harms them in the Hereafter. Al-Qurtubi ties it back to the commands of 41:6: for this reason they neither spend in obedience, nor go straight, nor seek forgiveness.",
+            "bn": "দ্বিতীয় চিহ্ন: ওয়া হুম বিল-আখিরাতি হুম কাফিরূন। তাবারী এর ব্যাখ্যা দেন কিয়ামত কায়েম হওয়া অস্বীকার করা দিয়ে। পচে গলে নিঃশেষ হয়ে যাওয়ার পর আল্লাহ তাঁর সৃষ্টিকে কবর থেকে জীবিত করে তুলবেন, তারা সেটাও মানে না। সা'দী যোগসূত্রটা দেখান। পুনরুত্থান, জান্নাত, জাহান্নাম কোনোটিতেই তাদের বিশ্বাস নেই। তাই দিল থেকে ভয় উঠে যেতেই তারা এমন কাজে নেমে পড়ল, যা আখিরাতে তাদেরই ক্ষতি করবে। কুরতুবী একে ৪১:৬-এর আদেশগুলোর সাথে জোড়েন: এ কারণেই তারা আনুগত্যে খরচ করে না, সোজা পথে চলে না, ক্ষমাও চায় না।"
+          },
+          {
+            "en": "The next verse, 41:8, gives the other side: those who believe and do good have a reward ghayr mamnun, which Mujahid and others, in Ibn Kathir, explain as never cut off or lessened. This verse describes the Makkan associators who turned from the call, and the article declares no living person a disbeliever; it is no verdict for a reader to pass on a neighbour. What it asks of a reader is a look inward: whether the self is being cleansed, and whether the hand gives as though the Day were real.",
+            "bn": "পরের আয়াত ৪১:৮ অন্য দিকটা দেখায়: যারা ঈমান আনে আর নেক আমল করে, তাদের জন্য আছে গাইরু মামনূন প্রতিদান। ইবন কাসীরে মুজাহিদ ও অন্যরা এর ব্যাখ্যা দেন: যা কখনো বন্ধ হবে না, কমবেও না। এ আয়াতে বর্ণনা আছে মক্কার সেই মুশরিকদের, যারা দাওয়াত থেকে মুখ ফিরিয়েছিল। এ লেখা কোনো জীবিত মানুষকে কাফির ঘোষণা করে না। প্রতিবেশীর উপর রায় দেওয়ার কোনো হাতিয়ারও এ আয়াত নয়। পাঠকের কাছে এর চাওয়া হলো নিজের ভেতরে তাকানো। আমার নফস কি পবিত্র হচ্ছে? আমার হাত কি এমনভাবে দেয়, যেন শেষ দিনটা সত্যিই আসছে?"
+          }
+        ]
+      }
+    ]
+  },
   "41:11": {
     "sections": [
       {

@@ -37533,6 +37533,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah's guidance reached you as an inheritance you did not earn. Hold the Qur'an as a trust: learn it, live by it, and pass it on.",
     "lessonBn": "আল্লাহর হিদায়াত আপনার কাছে এসেছে এমন এক মীরাস হয়ে, যা আপনি অর্জন করেননি। কুরআনকে আমানত হিসেবে ধরে রাখুন: শিখুন, মেনে চলুন, আর পরের প্রজন্মের হাতে তুলে দিন।"
+  },
+  "41:7": {
+    "reflectionEn": "The verse before ends with woe to those who set up partners with Allah. This one names them by two marks: they do not give zakah, and they deny the Hereafter. The word zakah carries two senses that meet here. It is the share of wealth handed over to others, and it is the cleansing of a self, first of all from setting anything beside Allah. A heart that refuses to be cleansed seldom lets go of its money, and a hand that will not give often hides a doubt about the Day of return. The next verse promises those who believe and do good a reward that is never cut off. So I ask what my giving says about what I truly expect.",
+    "reflectionBn": "আগের আয়াত শেষ হয়েছে আল্লাহর সাথে শরীককারীদের ধ্বংসের ঘোষণায়। এ আয়াত দুটি চিহ্ন দিয়ে তাদের চিনিয়ে দেয়: তারা যাকাত দেয় না, আর আখিরাতকে অস্বীকার করে। যাকাত শব্দের দুটি অর্থ এখানে এসে মিলেছে। একটি হলো সম্পদের যে অংশ অন্যের হাতে তুলে দিতে হয়। অন্যটি হলো নিজের ভেতরটা পরিষ্কার করা, আর সবার আগে আল্লাহর সাথে কাউকে শরীক করা থেকে। যে দিল পরিষ্কার হতে রাজি নয়, সে সহজে টাকা হাতছাড়া করে না। আর যে হাত দিতে চায় না, তার আড়ালে প্রায়ই ফিরে যাওয়ার দিন নিয়ে সন্দেহ লুকিয়ে থাকে। পরের আয়াতেই ঈমানদার ও নেককারদের জন্য এমন প্রতিদানের ওয়াদা, যা কখনো বন্ধ হবে না। তাই নিজেকে জিজ্ঞেস করি: আমার দান আসলে কী বলে, আমি সামনে কী আশা করি?",
+    "pointsEn": [
+      "If my giving this year were read as a statement of what I expect after death, what would it say?",
+      "Which habit of the heart do I most need to cleanse before the money I give can do its own cleansing?",
+      "Do I hand over what I owe from my wealth on time and in full, or only when I happen to feel generous?",
+      "Where does love of what I own keep me from going straight to Allah and asking His forgiveness?",
+      "When I read of a people under woe, do I look at myself first, or reach for a label to fix on someone else?"
+    ],
+    "pointsBn": [
+      "এ বছরের দানকে যদি মৃত্যুর পরের জীবন নিয়ে আমার বিশ্বাসের ঘোষণা হিসেবে পড়া হয়, তাতে কী লেখা থাকবে?",
+      "যে টাকা দিই তা আমাকে পবিত্র করার আগে, দিলের কোন অভ্যাসটা আমার সবচেয়ে আগে পরিষ্কার করা দরকার?",
+      "সম্পদের যে হক আমার উপর আছে, তা কি সময়মতো আর পুরোপুরি আদায় করি, নাকি মন ভালো থাকলে তবেই দিই?",
+      "নিজের জিনিসের মায়া কোথায় আমাকে সোজা আল্লাহর দিকে যেতে আর তাঁর কাছে ক্ষমা চাইতে বাধা দেয়?",
+      "কোনো জাতির ধ্বংসের কথা পড়লে আমি কি আগে নিজের দিকে তাকাই, নাকি অন্য কারও গায়ে তকমা লাগানোর খোঁজে থাকি?"
+    ],
+    "lessonEn": "Cleanse yourself of setting anything beside Allah and give what you owe from your wealth; how freely you give shows how firmly you expect the Day of return.",
+    "lessonBn": "আল্লাহর সাথে শরীক করা থেকে নিজেকে পবিত্র রাখুন আর সম্পদের হক আদায় করুন। কতটা খোলা হাতে দেন, তাতেই বোঝা যায় ফিরে যাওয়ার দিনে আপনার বিশ্বাস কতটা দৃঢ়।"
   }
 };
 
