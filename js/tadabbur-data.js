@@ -35259,6 +35259,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Qur'an was sent as a Criterion for all the worlds, you included; let it sort truth from falsehood in your own life, not only sit on a shelf as a blessing.",
     "lessonBn": "কুরআন নাযিল হয়েছে গোটা বিশ্বজগতের জন্য ফুরকান হয়ে, আপনিও তার মধ্যে আছেন। শুধু বরকতের আশায় একে তুলে না রেখে, নিজের জীবনে একে সত্য-মিথ্যা বাছাই করতে দিন।"
+  },
+  "25:43": {
+    "reflectionEn": "The mockers had just boasted that they held fast to their gods. This verse asks what those gods really were. One man prizes a stone until a finer one catches his eye, then throws the first away. The thing he serves is not the stone at all; it is his own liking, which picks a god and drops it again. Then the Prophet ﷺ is asked: would you be his guardian? Guiding such a heart is not in his keeping; his task is to convey. The question does not stay in Makkah. Desire can sit on the throne of a believer's choices too, deciding what is right by what feels good. When my wishes and Allah's command pull apart, which one actually gets obeyed?",
+    "reflectionBn": "বিদ্রূপকারীরা এইমাত্র গর্ব করে বলেছে, তারা নিজেদের ইলাহদের আঁকড়ে ধরে ছিল। এ আয়াত জানতে চায়, সেই ইলাহগুলো আসলে কী। একজন একটা পাথরকে খুব কদর করে। তারপর আরও সুন্দর একটা চোখে পড়ে, আগেরটা সে ছুড়ে ফেলে দেয়। সে আসলে পাথরের পূজা করছে না। পূজা করছে নিজের পছন্দের, যে পছন্দ একটা ইলাহ বেছে নেয়, আবার ছেড়েও দেয়। তারপর নবী ﷺ-কে প্রশ্ন করা হয়: তুমি কি তার জিম্মাদার হবে? এমন মনকে হিদায়াত দেওয়া তাঁর হাতে নয়, তাঁর কাজ পৌঁছে দেওয়া। প্রশ্নটা মক্কায় আটকে থাকে না। একজন মুমিনের সিদ্ধান্তের আসনেও খেয়াল-খুশি বসে যেতে পারে, যা ভালো লাগে তাকেই ঠিক বলে রায় দিতে পারে। আমার ইচ্ছা আর আল্লাহর হুকুম যখন দুই দিকে টানে, তখন আসলে কার কথা মানা হয়?",
+    "pointsEn": [
+      "In the last choice where my wish and Allah's command parted ways, which one did I actually follow?",
+      "What do I treat as good mainly because it feels good to me, without ever asking whether it is right?",
+      "Is there something I once held dear and dropped the moment a shinier option appeared, in faith, work or friendship?",
+      "Do I carry the guidance of someone close to me as if it were my burden, instead of conveying the truth and leaving the heart to Allah?",
+      "When I see another person following his whims, do I look at him with wonder and pity, or with a label ready on my tongue?"
+    ],
+    "pointsBn": [
+      "শেষ যে সিদ্ধান্তে আমার ইচ্ছা আর আল্লাহর হুকুম দুই দিকে গেল, সেখানে আসলে আমি কোনটা মেনেছি?",
+      "কোন জিনিসকে আমি ভালো ধরে নিই শুধু এ কারণে যে তা আমার ভালো লাগে, ঠিক কি না সে প্রশ্ন কখনো না করেই?",
+      "ঈমান, কাজ বা বন্ধুত্বে এমন কিছু কি আছে যা একসময় খুব প্রিয় ছিল, আর চকচকে কিছু সামনে আসতেই ছেড়ে দিয়েছি?",
+      "কাছের কারও হিদায়াতকে কি আমি নিজের বোঝা বানিয়ে বয়ে বেড়াই, অথচ আমার কাজ সত্যটা পৌঁছে দিয়ে মনটা আল্লাহর হাতে ছেড়ে দেওয়া?",
+      "কাউকে খেয়াল-খুশির পেছনে চলতে দেখলে আমি কি তার দিকে বিস্ময় আর মমতা নিয়ে তাকাই, নাকি জিভের ডগায় একটা তকমা তৈরি রাখি?"
+    ],
+    "lessonEn": "Do not let your own liking decide what you worship and obey; follow Allah's command over your whims, and leave other people's guidance to Him after you convey.",
+    "lessonBn": "কী মানবেন আর কার ইবাদত করবেন, তা নিজের পছন্দকে ঠিক করতে দেবেন না। খেয়াল-খুশির উপরে আল্লাহর হুকুমকে রাখুন, আর সত্য পৌঁছে দেওয়ার পর অন্যের হিদায়াত তাঁর হাতে ছেড়ে দিন।"
   }
 };
 

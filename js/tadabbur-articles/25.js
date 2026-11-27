@@ -2095,6 +2095,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "25:43": {
+    "sections": [
+      {
+        "h": {
+          "en": "Steadfast Over Which Gods",
+          "bn": "কোন ইলাহের উপর অটল"
+        },
+        "p": [
+          {
+            "en": "The verse before ours ends a quotation. The mockers said of the Prophet ﷺ that he had nearly led them away from their gods, had they not been patient over them (25:42). At-Tabari reports from Ibn Jurayj that la-wla an sabarna 'alayha means thabatna 'alayha, we held firm upon them. So the polytheists close their speech with a boast: their worship is constancy, a loyalty the Prophet ﷺ failed to break.",
+            "bn": "আগের আয়াতটা শেষ হয় এক উদ্ধৃতি দিয়ে। বিদ্রূপকারীরা নবী ﷺ সম্পর্কে বলেছিল, তিনি তো আমাদের ইলাহদের থেকে আমাদের প্রায় সরিয়েই দিচ্ছিলেন, যদি না আমরা তাদের উপর ধৈর্য ধরে থাকতাম (২৫:৪২)। তাবারী ইবন জুরাইজ থেকে বর্ণনা করেন, লাওলা আন সাবারনা আলাইহা মানে সাবাতনা আলাইহা, আমরা তাদের উপর অটল ছিলাম। মুশরিকরা তাই কথা শেষ করে এক গর্ব দিয়ে: তাদের পূজা নাকি দৃঢ়তা, এমন আনুগত্য, যা নবী ﷺ ভাঙতে পারেননি।"
+          },
+          {
+            "en": "Our verse answers that boast without repeating it. Its nine Arabic words are a-ra'ayta mani ttakhadha ilahahu hawahu, a-fa-anta takunu 'alayhi wakilan: have you seen the one who takes his own desire as his god? Would you then be a guardian over him? The first question looks at what their gods really were. The second turns to the Prophet ﷺ and to the limits of his task. Verse 25:44 then carries the same people a step further.",
+            "bn": "আমাদের আয়াত সেই গর্বের জবাব দেয়, গর্বটা আর না দোহরিয়েই। আরবিতে এর নয়টি শব্দ: আরাআইতা মানিত্তাখাযা ইলাহাহু হাওয়াহু, আফাআনতা তাকূনু আলাইহি ওয়াকীলা। তুমি কি তাকে দেখেছ, যে নিজের খেয়াল-খুশিকে নিজের ইলাহ বানিয়ে নিয়েছে? তবে কি তুমি তার জিম্মাদার হবে? প্রথম প্রশ্নটা তাকায় তাদের ইলাহগুলো আসলে কী ছিল, সেদিকে। দ্বিতীয়টা ফেরে নবী ﷺ-এর দিকে, তাঁর দায়িত্বের সীমার দিকে। পরের আয়াত ২৫:৪৪ একই লোকদের কথা আরও এক ধাপ এগিয়ে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Look Meant to Astonish",
+          "bn": "বিস্ময় জাগানো এক দৃষ্টি"
+        },
+        "p": [
+          {
+            "en": "A-ra'ayta is literally have you seen, but nobody is being asked to report a sighting. Al-Jalalayn glosses it as inform Me, and parses the clause beginning man ittakhadha as the verb's first object, with the following a-fa-anta question as its second. Al-Muyassar gives the tone instead of the grammar: look, O Messenger, in wonder, at whoever obeys his desire as Allah is obeyed. The question is an invitation to be astonished at a man's state.",
+            "bn": "আরাআইতা শব্দের আক্ষরিক অর্থ, তুমি কি দেখেছ। কিন্তু এখানে কাউকে চোখে দেখা কিছুর খবর দিতে বলা হচ্ছে না। জালালাইন এর অর্থ করেন, আমাকে জানাও। তাঁর বিশ্লেষণে মান ইত্তাখাযা দিয়ে শুরু হওয়া অংশটা ক্রিয়ার প্রথম কর্ম, আর পরের আফাআনতা প্রশ্নটা দ্বিতীয়। মুয়াসসার ব্যাকরণে যান না, ধরেন সুরটা: হে রসূল, বিস্ময়ের চোখে তাকান তার দিকে, যে নিজের খেয়াল-খুশির আনুগত্য করে ঠিক যেভাবে আল্লাহর আনুগত্য করা হয়। প্রশ্নটা আসলে এক মানুষের অবস্থা দেখে অবাক হওয়ার ডাক।"
+          },
+          {
+            "en": "Al-Qurtubi says what the wonder is at. Allah made His Prophet ﷺ marvel at their harbouring shirk and persisting in it, while they admitted that He was their Creator and Provider. Then the man turns to a stone and worships it with no proof at all. As-Sa'di asks the same question from another side: is there any straying beyond that of one who makes his desire the thing he worships, doing whatever he happens to want? He adds that this same man rules himself worthy of the highest ranks.",
+            "bn": "বিস্ময়টা কীসে, কুরতুবী তা বলে দেন। তারা স্বীকার করত, আল্লাহই তাদের স্রষ্টা আর রিজিকদাতা। তবু তারা মনে শিরক পুষে রাখত, তাতেই অটল থাকত। আল্লাহ তাঁর নবী ﷺ-কে এ অবস্থা দেখে অবাক করেছেন। তারপর লোকটা একটা পাথরের দিকে ফেরে আর কোনো দলিল ছাড়াই তার পূজা করে। সা'দী একই প্রশ্ন তোলেন অন্য দিক থেকে: যে নিজের খেয়াল-খুশিকে উপাস্য বানায়, মন যা চায় তাই করে, তার চেয়ে বড় গোমরাহি আর কী আছে? তিনি যোগ করেন, এই লোকই নিজেকে সবচেয়ে উঁচু মর্যাদার যোগ্য বলে রায় দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The God Placed First",
+          "bn": "আগে বসানো ইলাহ"
+        },
+        "p": [
+          {
+            "en": "The ordinary order would be ittakhadha hawahu ilahan, he took his desire as a god. The verse instead says ittakhadha ilahahu hawahu, he took his god, his desire. Al-Jalalayn explains the inversion: the second object, ilahahu, as his god, is placed before the first because it carries more weight. The word god arrives first, and only then the reader learns what fills it. At-Tabari names the filling plainly. His god, he writes, is his shahwa, the craving that he desires.",
+            "bn": "স্বাভাবিক বিন্যাস হতো ইত্তাখাযা হাওয়াহু ইলাহা, সে তার খেয়াল-খুশিকে ইলাহ বানাল। আয়াতে আছে উল্টো: ইত্তাখাযা ইলাহাহু হাওয়াহু, সে বানাল তার ইলাহকে, তার খেয়াল-খুশিকে। জালালাইন এর কারণ বলেন। দ্বিতীয় কর্ম ইলাহাহু আগে এসেছে, কারণ এর গুরুত্ব বেশি। তাই প্রথমে আসে ইলাহ শব্দটা, তারপর পাঠক জানতে পারে সেই আসনে কে বসে আছে। তাবারী সেটা সোজাসুজি বলেন: তার ইলাহ হলো তার শাহওয়াত, সেই কামনা, যা সে মনে মনে চায়।"
+          },
+          {
+            "en": "Ibn Kathir spells out how such a god rules. Whatever a man finds good and sees as fine in his own desire becomes his religion and his way. He sets beside it 35:8: is he, then, to whom the evil of his deed is made attractive, so that he sees it as good...? For Allah sends astray whom He wills and guides whom He wills, so do not let yourself waste away in grief over them. That, Ibn Kathir says, is why the verse here asks: would you then be a guardian over him?",
+            "bn": "এমন ইলাহ কীভাবে শাসন করে, ইবন কাসীর তা খুলে বলেন। মানুষ নিজের খেয়াল-খুশিতে যা ভালো মনে করে, যাকে সুন্দর দেখে, সেটাই হয়ে যায় তার দীন আর তার পথ। পাশে তিনি রাখেন ৩৫:৮ আয়াত: যার কাছে তার মন্দ আমল সুশোভিত করে দেখানো হয়েছে, ফলে সে তাকে ভালো দেখে, সে কি...? আল্লাহ যাকে চান পথভ্রষ্ট করেন, যাকে চান পথ দেখান। কাজেই তাদের জন্য আফসোস করে নিজেকে শেষ করে দিও না। ইবন কাসীর বলেন, এ কারণেই এখানে প্রশ্ন করা হয়েছে: তবে কি তুমি তার জিম্মাদার হবে?"
+          },
+          {
+            "en": "Al-Qurtubi records two short glosses that reach the same place. One, introduced with wa-qila, it is said, reads the phrase as he obeyed his desire. The other comes from al-Hasan: he does not desire a thing without following it. Al-Qurtubi adds that the meaning is one. Al-Muyassar's gloss, already seen, ties the two together: the man obeys his desire with the obedience owed to Allah. Worship here is measured by obedience.",
+            "bn": "কুরতুবী দুটি ছোট ব্যাখ্যা উল্লেখ করেন, দুটিই এক জায়গায় পৌঁছায়। একটা আসে ওয়া কীলা, বলা হয়েছে, কথাটা দিয়ে: সে তার খেয়াল-খুশির আনুগত্য করল। অন্যটা হাসানের: সে কোনো কিছু চাইলে তার পেছনেই চলে। কুরতুবী বলেন, অর্থ একটাই। মুয়াসসারের যে ব্যাখ্যা আগে দেখা গেছে, তা দুটিকে মিলিয়ে দেয়। লোকটা নিজের খেয়াল-খুশিকে মানে সেভাবে, যেভাবে আল্লাহকে মানা উচিত। এখানে ইবাদতের মাপকাঠি আনুগত্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Finer Stone Comes Along",
+          "bn": "আরও সুন্দর পাথর চোখে পড়ে"
+        },
+        "p": [
+          {
+            "en": "Several commentators give the verse a concrete picture from the age before Islam. Ibn Kathir reports from Ibn Abbas: a man in the Jahiliyya would worship a white stone for a time, and when he saw another finer than it, he would worship the second and leave the first. At-Tabari tells the same practice without naming a source. A man of the polytheists would worship a stone, and when he saw a better one he threw the first away and took the other to worship.",
+            "bn": "কয়েকজন তাফসীরকার আয়াতটাকে ইসলামপূর্ব যুগের একটা বাস্তব ছবি দিয়ে বোঝান। ইবন কাসীর ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: জাহিলিয়াতে কোনো লোক কিছুকাল একটা সাদা পাথরের পূজা করত। তারপর এর চেয়ে সুন্দর আরেকটা দেখলে দ্বিতীয়টার পূজা শুরু করত, আগেরটা ছেড়ে দিত। তাবারী একই রীতির কথা বলেন, কোনো সূত্রের নাম না নিয়ে। মুশরিকদের কেউ একটা পাথরের পূজা করত। আরও ভালো একটা দেখলে আগেরটা ছুড়ে ফেলত, আর নতুনটা তুলে নিয়ে পূজা করত।"
+          },
+          {
+            "en": "At-Tabari draws the conclusion. The man's object of worship, his god, was simply whatever he chose for himself, and that, he says, is why Allah said: have you seen the one who takes his desire as his god? Al-Baghawi gives the same story, also without a name. The stone is not the real deity in this picture. It stays only as long as it pleases, and the moment a better one pleases more, it is gone. What remains constant is the liking that does the choosing.",
+            "bn": "তাবারী এখান থেকে সিদ্ধান্ত টানেন। লোকটার উপাস্য, তার ইলাহ, ছিল আসলে সে নিজের জন্য যা বেছে নিত, সেটাই। আর তাবারীর ভাষায়, এ কারণেই আল্লাহ বলেছেন: তুমি কি তাকে দেখেছ, যে নিজের খেয়াল-খুশিকে ইলাহ বানিয়েছে? বাগাভীও একই কাহিনি আনেন, তিনিও কারও নাম নেন না। এই ছবিতে পাথরটা আসল উপাস্য নয়। যতক্ষণ মন ভরায়, ততক্ষণই সে টিকে থাকে। আরও ভালো কিছু বেশি মন কাড়লেই সে বিদায়। যা বদলায় না, তা হলো সেই পছন্দ, যে বাছাইটা করে।"
+          },
+          {
+            "en": "Al-Qurtubi adds a grammatical reading built on that practice. Al-Kalbi and others said that among the Arabs, when a man desired something, he worshipped it instead of Allah, and if he saw something finer he left the first for it. On this account, al-Qurtubi says, the verse means he took his god by his desire, bi-hawahu, with the preposition dropped. So two readings stand side by side. In one, the desire itself is the god. In the other, the god is an idol chosen by desire.",
+            "bn": "এ রীতির উপর ভিত্তি করে কুরতুবী ব্যাকরণের একটা পাঠ যোগ করেন। কালবী ও আরও কয়েকজন বলেছেন, আরবদের কেউ কোনো কিছু মনে ধরলে আল্লাহকে বাদ দিয়ে তারই পূজা করত। এর চেয়ে সুন্দর কিছু দেখলে আগেরটা ছেড়ে সেটা ধরত। কুরতুবী বলেন, এ ব্যাখ্যা মানলে আয়াতের অর্থ দাঁড়ায়: সে তার ইলাহকে গ্রহণ করল নিজের খেয়াল-খুশি দিয়ে, বিহাওয়াহু, মাঝের অব্যয়টা বাদ পড়েছে। ফলে দুটি পাঠ পাশাপাশি থাকে। একটায় খেয়াল-খুশিই ইলাহ। অন্যটায় ইলাহ এক মূর্তি, যাকে খেয়াল-খুশি বেছে নিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Idol Is Within",
+          "bn": "মূর্তি যখন ভেতরে"
+        },
+        "p": [
+          {
+            "en": "A second saying of Ibn Abbas widens the verse beyond stones. Al-Qurtubi reports that he said: hawa is a god worshipped besides Allah, and then he recited this verse. Al-Baghawi gives a third, in which Ibn Abbas voices the verse as a question from Allah: have you seen the one who abandoned the worship of Allah, his Creator, then took a liking to a stone and worshipped it, what is his state with Me?",
+            "bn": "ইবন আব্বাস (রাঃ)-এর আরেকটি কথা আয়াতটাকে পাথরের গণ্ডি ছাড়িয়ে নিয়ে যায়। কুরতুবী বর্ণনা করেন, তিনি বলেছেন: হাওয়া এমন এক ইলাহ, আল্লাহকে বাদ দিয়ে যার ইবাদত করা হয়। তারপর তিনি এ আয়াত তিলাওয়াত করেন। বাগাভী আনেন তৃতীয় একটি বর্ণনা। সেখানে ইবন আব্বাস (রাঃ) আয়াতটাকে আল্লাহর প্রশ্নের রূপে বলেন: যে তার স্রষ্টা আল্লাহর ইবাদত ছেড়ে দিল, তারপর একটা পাথর মনে ধরায় তার পূজা করল, আমার কাছে তার অবস্থা কী?"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing al-Qurtubi for the saying of Ibn Abbas, heads its note following forbidden things, a type of idolatry. It applies the verse to anyone who practises what is forbidden, against the tenets of Islam, to satisfy his desires: he is described here as a worshipper of his own lust. Maududi's Tafhim makes the same move. The one who becomes a slave of his lusts serves them as a worshipper serves his deity, and so, he writes, he is as guilty of shirk as one who worships an idol.",
+            "bn": "মাআরিফুল কুরআন ইবন আব্বাস (রাঃ)-এর কথাটা কুরতুবীর বরাতে আনে, আর নোটের শিরোনাম দেয়: হারাম কাজের অনুসরণ, এক ধরনের মূর্তিপূজা। তার প্রয়োগ এরকম: যে নিজের কামনা মেটাতে ইসলামের মূলনীতির বিরুদ্ধে হারাম কাজ করে, এ আয়াত তাকে বলছে নিজের প্রবৃত্তির পূজারি। মওদূদীর তাফহীমুল কুরআনও একই দিকে যায়। যে মানুষ নিজের কামনা-বাসনার গোলাম হয়ে যায়, সে তার সেবা করে ঠিক যেভাবে উপাসক তার দেবতার সেবা করে। তাঁর ভাষায়, তাই সে মূর্তিপূজারির মতোই শিরকের অপরাধে অপরাধী।"
+          },
+          {
+            "en": "Maududi adds an image: the slave of his desire is like a ship without an anchor, drifting down whatever path his lust leads, with little concern for the line between right and wrong. He also relays a narration from Abu Hurayra on desire as an object of worship, citing only at-Tabarani; it is not graded in what was fetched, and this article quotes nothing from it and builds nothing on it. None of the tafsirs fetched for this verse attaches a sound hadith to it.",
+            "bn": "মওদূদী একটা উপমাও দেন। খেয়াল-খুশির গোলাম নোঙরহীন জাহাজের মতো। কামনা যে পথে টানে, সে পথেই ভেসে যায়, ঠিক আর ভুলের সীমারেখা নিয়ে তার মাথাব্যথা সামান্যই। তিনি আবু হুরায়রা (রাঃ) থেকে একটি বর্ণনাও আনেন, বিষয় খেয়াল-খুশিকে উপাস্য বানানো, আর বরাত দেন শুধু তাবারানীর। যে লেখা আনা হয়েছে, তাতে এর কোনো মান নির্ণয় নেই। এ লেখা সেখান থেকে কিছু উদ্ধৃত করে না, তার উপর কিছু দাঁড় করায়ও না। এ আয়াতের জন্য আনা কোনো তাফসীরই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Keeper of Another's Heart",
+          "bn": "অন্যের মনের পাহারাদার"
+        },
+        "p": [
+          {
+            "en": "Then the second question: a-fa-anta takunu 'alayhi wakilan, would you then be a wakil over him? At-Tabari reads wakil as hafiz, a keeper, and fills in the address: would you, Muhammad, be a keeper over this man in his deeds, given how great his ignorance is? Al-Qurtubi gives two words, hafiz and kafil, keeper and guarantor, and states the goal such a keeper would have: until you bring him back to faith and draw him out of this corruption.",
+            "bn": "তারপর দ্বিতীয় প্রশ্ন: আফাআনতা তাকূনু আলাইহি ওয়াকীলা, তবে কি তুমি তার ওয়াকীল হবে? তাবারী ওয়াকীলের অর্থ করেন হাফিজ, পাহারাদার। সম্বোধনটাও খুলে বলেন: হে মুহাম্মাদ, এমন লোকের কাজকর্মের উপর কি তুমি পাহারাদার হবে, যার মূর্খতা এত বিশাল? কুরতুবী দুটি শব্দ দেন, হাফিজ আর কাফীল, পাহারাদার আর জামিনদার। এমন পাহারাদারের লক্ষ্যও তিনি বলে দেন: যাতে তুমি তাকে ঈমানে ফিরিয়ে আনো, এই বিপর্যয় থেকে বের করে আনো।"
+          },
+          {
+            "en": "The question expects a no, and the commentators say so. Al-Baghawi puts it as: are you a guarantor over him, guarding him from following his desire and worshipping what he fancies besides Allah? That is, you are not. Al-Jalalayn ends his gloss with the single word no. Al-Qurtubi draws the principle out: guidance and misguidance are not entrusted to your will; your duty is only to convey. Ibn Kathir's English abridgment agrees: when Allah has decreed that someone is astray and wretched, none can guide him but Allah.",
+            "bn": "প্রশ্নটার উত্তর যে না, তাফসীরকারেরা তা বলে দেন। বাগাভীর ভাষায়: তুমি কি তার জামিনদার, যে তাকে খেয়াল-খুশির অনুসরণ থেকে আর আল্লাহকে ছেড়ে মনে ধরা জিনিসের পূজা থেকে আগলে রাখবে? অর্থাৎ, তুমি তা নও। জালালাইন ব্যাখ্যা শেষ করেন একটি শব্দে: না। কুরতুবী নীতিটা বের করে আনেন: হিদায়াত আর গোমরাহি তোমার ইচ্ছার উপর ছেড়ে দেওয়া হয়নি, তোমার দায়িত্ব শুধু পৌঁছে দেওয়া। ইবন কাসীরের ইংরেজি সংক্ষেপও একমত: আল্লাহ যার জন্য গোমরাহি আর দুর্ভাগ্য নির্ধারণ করেছেন, আল্লাহ ছাড়া কেউ তাকে পথ দেখাতে পারে না।"
+          },
+          {
+            "en": "As-Sa'di turns the denial into reassurance. You are not a musaytir over him, one with power to compel; you are only a warner. You have done your duty, and his reckoning is with Allah. Al-Qurtubi also presses the clause into a debate among theologians about divine will, which lies beyond this article. Tanwir al-Miqbas, a commentary transmitted under Ibn Abbas's name, offers another sense of the guardian: would you protect them from the punishment?",
+            "bn": "সা'দী এই নাকচটাকে সান্ত্বনায় রূপ দেন। তুমি তার উপর মুসাইতির নও, জোর খাটানোর ক্ষমতা তোমার নেই। তুমি শুধু একজন সতর্ককারী। নিজের দায়িত্ব তুমি পালন করেছ, তার হিসাব আল্লাহর কাছে। কুরতুবী বাক্যাংশটাকে আল্লাহর ইচ্ছা নিয়ে ধর্মতাত্ত্বিকদের এক বিতর্কেও টেনে নেন, যা এ লেখার আলোচনার বাইরে। ইবন আব্বাস (রাঃ)-এর নামে প্রচলিত তাফসীর তানবীরুল মিকবাস জিম্মাদারের আরেকটা অর্থ দেয়: তুমি কি তাদের শাস্তি থেকে রক্ষা করবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Superseded, or Still Consoling",
+          "bn": "রহিত, নাকি এখনো সান্ত্বনা"
+        },
+        "p": [
+          {
+            "en": "Two of the sources record a view that this clause was later lifted. Al-Baghawi reports that al-Kalbi said: the verse of fighting abrogated it. Tanwir al-Miqbas says the same, that this was abrogated by the verse of jihad. Neither gives its reasoning in the text fetched, and neither names which verse of fighting is meant.",
+            "bn": "দুটি সূত্রে এমন এক মত আছে যে এ বাক্যাংশের বিধান পরে উঠে গেছে। বাগাভী বর্ণনা করেন, কালবী বলেছেন: কিতালের আয়াত একে রহিত করেছে। তানবীরুল মিকবাসও একই কথা বলে, জিহাদের আয়াতে এটি রহিত হয়েছে। আনা লেখায় দুই সূত্রের কোনোটিই নিজের যুক্তি দেয় না, কিতালের কোন আয়াত বোঝানো হয়েছে তাও বলে না।"
+          },
+          {
+            "en": "Al-Qurtubi records the question as open, with both sides unnamed. It is said, he writes, that it is abrogated by the verse of fighting. And it is said that it was not abrogated, because the verse is a consolation for the Prophet ﷺ. On that second view nothing here was ever a ruling that could be lifted. The clause tells a grieving messenger that the outcome is not his to secure. This article leaves the two views side by side.",
+            "bn": "কুরতুবী প্রশ্নটাকে খোলা রেখেই উল্লেখ করেন, কোনো পক্ষেরই নাম না নিয়ে। তিনি লেখেন, বলা হয়েছে, কিতালের আয়াত একে রহিত করেছে। আবার বলা হয়েছে, এটি রহিত হয়নি, কারণ আয়াতটা নবী ﷺ-এর জন্য সান্ত্বনা। দ্বিতীয় মতে এখানে এমন কোনো বিধানই ছিল না, যা তুলে নেওয়া যায়। বাক্যটা শুধু এক ব্যথিত রসূলকে জানায়, ফলাফল নিশ্চিত করা তাঁর দায় নয়। এ লেখাও দুই মত পাশাপাশি রেখে দেয়।"
+          },
+          {
+            "en": "Maududi's reading bears on the same question. Verses 43 and 44, he says, are not meant to stop the Prophet ﷺ from conveying the message to such people; they are an indirect warning to the deniers about where their conduct leads. Tanwir al-Miqbas names the one who took his desire as his god as al-Nadr and his host. No other commentary fetched here names anyone, and none gives an occasion of revelation for the verse, so it is read in its place in the passage.",
+            "bn": "মওদূদী অংশটাকে যেভাবে পড়েন, তা একই প্রশ্নের সঙ্গে জড়িত। তাঁর মতে ৪৩ ও ৪৪ নম্বর আয়াতের উদ্দেশ্য নবী ﷺ-কে এমন লোকদের কাছে বার্তা পৌঁছানো থেকে থামানো নয়। বরং অস্বীকারকারীদের জন্য পরোক্ষ সতর্কবাণী, তাদের আচরণ তাদের কোথায় নিয়ে যাচ্ছে। তানবীরুল মিকবাস খেয়াল-খুশিকে ইলাহ বানানো লোকটির নাম বলে নাদর আর তার দলবল। এখানে আনা আর কোনো তাফসীর কারও নাম নেয় না, আয়াতের শানে নুযূলও কেউ দেয় না। তাই আয়াতটা পড়া হয় অংশের ভেতরে তার নিজের জায়গায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Liking Rules Here",
+          "bn": "এখানে কার পছন্দ চলে"
+        },
+        "p": [
+          {
+            "en": "The next verse, 25:44, asks whether most of them hear or reason, and answers that they are like cattle, and even more astray. Ibn Kathir explains the comparison: cattle do only what they were created to do, while these people were created to worship Allah alone and worship others with Him, after proof has been set before them. The same phrase, the one who takes his desire as his god, returns at 45:23.",
+            "bn": "পরের আয়াত ২৫:৪৪ জানতে চায়, তাদের অধিকাংশ কি শোনে বা বোঝে? উত্তর দেয়: তারা চতুষ্পদ জন্তুর মতো, বরং আরও বেশি পথভ্রষ্ট। ইবন কাসীর তুলনাটা ব্যাখ্যা করেন। জন্তুরা কেবল তা-ই করে, যার জন্য তাদের সৃষ্টি। আর এ লোকদের সৃষ্টি এক আল্লাহর ইবাদতের জন্য, অথচ প্রমাণ সামনে আসার পরও তারা তাঁর সঙ্গে অন্যদের ইবাদত করে। খেয়াল-খুশিকে ইলাহ বানানোর একই কথা আবার এসেছে ৪৫:২৩ আয়াতে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: particular deniers in Makkah who answered the Prophet ﷺ with mockery and kept to idols they themselves chose and discarded. It licenses nothing against any living person or community, and no one may be labelled by this verse as a worshipper of his desire. Al-Qurtubi and as-Sa'di both read it as telling the Prophet ﷺ what was not his to carry. Whoever uses it to pass a verdict on someone has taken on the very role it denies.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, ঠিক তা-ই বর্ণনা করে: মক্কার কিছু নির্দিষ্ট অস্বীকারকারী, যারা নবী ﷺ-কে বিদ্রূপ দিয়ে জবাব দিত, আর নিজেদের বাছাই করা ও ছুড়ে ফেলা মূর্তিগুলো আঁকড়ে থাকত। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। এ আয়াত দিয়ে কাউকে খেয়াল-খুশির পূজারি বলে তকমা দেওয়ার অধিকারও কারও নেই। কুরতুবী আর সা'দী দুজনেই আয়াতটাকে পড়েন এমনভাবে যে, যা নবী ﷺ-এর বহন করার নয়, তা তাঁকে জানিয়ে দেওয়া হচ্ছে। কেউ যদি একে কারও উপর রায় দিতে ব্যবহার করে, তবে আয়াত যে ভূমিকা নাকচ করেছে, সে নিজেই সেটা নিয়ে বসল।"
+          },
+          {
+            "en": "What the verse leaves the reader is a question about the self. Ma'arif al-Qur'an already turned it inward, toward the believer who follows what is forbidden to satisfy a wish. Does my liking decide what I hold to be good, as Ibn Kathir put it, or does Allah's command decide it? The man with the white stone changed his god whenever a finer one caught his eye. The question is whether anything in my own life is held on the same terms.",
+            "bn": "আয়াতটা পাঠকের হাতে রেখে যায় নিজের সম্পর্কে একটা প্রশ্ন। মাআরিফুল কুরআন এটাকে আগেই ভেতরের দিকে ঘুরিয়েছে, সেই মুমিনের দিকে, যে কোনো ইচ্ছা মেটাতে হারামের পেছনে চলে। ইবন কাসীরের ভাষায়, কোনটা ভালো, তা কি আমার পছন্দ ঠিক করে, নাকি আল্লাহর হুকুম? সাদা পাথরের সেই লোকটা আরও সুন্দর কিছু চোখে পড়লেই ইলাহ বদলাত। প্রশ্ন হলো, আমার নিজের জীবনেও কি কোনো কিছু ঠিক এই শর্তে টিকে আছে?"
+          }
+        ]
+      }
+    ]
+  },
   "25:47": {
     "sections": [
       {
