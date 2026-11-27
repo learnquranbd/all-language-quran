@@ -295,6 +295,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "31:7": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Buyer Meets the Book",
+          "bn": "ক্রেতার সামনে কিতাব"
+        },
+        "p": [
+          {
+            "en": "Sūrat Luqmān opens with two kinds of people. First come the doers of good, for whom the wise Book is guidance and mercy (31:2 to 31:5). Then, with wa-min an-nās, and among the people, comes the man who buys lahw al-ḥadīth, idle talk, to lead others away from the path of Allah without knowledge (31:6). The next verse does not start a new subject. It keeps the camera on that same man and shows what he does at the moment that should have changed him: when the verses are recited to him.",
+            "bn": "সূরা লুকমান শুরু হয় দুই ধরনের মানুষের কথা দিয়ে। প্রথমে আসে সৎকর্মশীলরা, যাদের জন্য এই প্রজ্ঞাময় কিতাব হিদায়াত ও রহমত (৩১:২ থেকে ৩১:৫)। তারপর ওয়া মিনান নাস, মানুষের মধ্যে এমনও আছে, বলে আসে সেই লোক, যে অজ্ঞতাবশত মানুষকে আল্লাহর পথ থেকে সরাতে লাহওয়াল হাদীস, অসার কথা, কিনে আনে (৩১:৬)। পরের আয়াত নতুন প্রসঙ্গ খোলে না। ক্যামেরা ওই লোকটির উপরেই থাকে। যে মুহূর্তটা তাকে বদলে দিতে পারত, আয়াত যখন তাকে পড়ে শোনানো হয়, ঠিক তখন সে কী করে, আয়াতটি তা-ই দেখায়।"
+          },
+          {
+            "en": "The commentators read it the same way. At-Tabari opens his gloss with the link spelled out: when the verses of Allah's Book are recited to this one who bought idle talk to mislead from the path of Allah. Ibn Kathir names him by his habits: the one who goes eagerly after amusement, play and ṭarab, merrymaking. As-Sa'di begins with wa-li-hādhā, and for this reason, tying the verse to what came before. The man's purchase in 31:6 and his refusal in 31:7 are one portrait.",
+            "bn": "তাফসীরকারেরাও আয়াতটি এভাবেই পড়েন। তাবারী তাঁর ব্যাখ্যার শুরুতেই যোগসূত্রটা খুলে বলেন: আল্লাহর পথ থেকে বিচ্যুত করতে যে অসার কথা কিনেছে, তার সামনে যখন আল্লাহর কিতাবের আয়াত পড়া হয়। ইবন কাসীর লোকটিকে চেনান তার অভ্যাস দিয়ে: যে অসার আমোদ, খেলাধুলা আর ফুর্তির দিকে ঝুঁকে থাকে। সা'দী শুরু করেন ওয়া লিহাযা, এ কারণেই, কথাটি দিয়ে, আগের আয়াতের সঙ্গে জুড়ে দিয়ে। ৩১:৬ আয়াতের কেনা আর ৩১:৭ আয়াতের প্রত্যাখ্যান একই ছবির দুই দিক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Name Left Unsaid",
+          "bn": "অনুচ্চারিত এক নাম"
+        },
+        "p": [
+          {
+            "en": "Who was he? The verse does not say. Ma'arif al-Qur'an, writing on 31:6, gives the report it carries as the occasion of revelation: an-Naḍr ibn al-Ḥārith, a Makkan trader who travelled abroad, brought back tales of Rustam, Isfandiyar and the kings of Persia, and offered them to the Quraysh as better stories than the Prophet's ﷺ. It credits this to al-Wahidi and Muqatil through Ruh al-Ma'ani, with something similar from al-Bayhaqi in ad-Durr al-Manthur, and gives no grading for it.",
+            "bn": "লোকটি কে ছিল? আয়াত তা বলে না। মাআরিফুল কুরআন ৩১:৬ আয়াতের আলোচনায় শানে নুযূল হিসেবে একটি বর্ণনা আনে। নযর ইবনুল হারিস ছিল মক্কার এক ব্যবসায়ী, ব্যবসার কাজে বিদেশে যেত। সে রুস্তম, ইসফানদিয়ার আর পারস্যের রাজাদের কাহিনি কিনে এনে কুরাইশদের বলত, এগুলো নবী ﷺ-এর শোনানো কাহিনির চেয়ে ভালো। মাআরিফ এটি রুহুল মাআনীর সূত্রে ওয়াহিদী ও মুকাতিলের নামে উল্লেখ করে, আর আদ-দুররুল মানসূরে বাইহাকীর বরাতে কাছাকাছি একটি বর্ণনার কথাও বলে। বর্ণনাটির কোনো মান সে উল্লেখ করে না।"
+          },
+          {
+            "en": "Ma'arif adds a second report, from Ibn 'Abbas through ad-Durr al-Manthur: the same trader had bought a singing slave-girl and used her to draw away anyone heading off to hear the Qur'an. Whether lahw al-ḥadīth means such singing, such tales, or anything that turns a person from the remembrance of Allah is a question that belongs to 31:6, and Ma'arif treats it at length there. This article takes no ruling on it. Our verse is about something else: what a man does with his ears.",
+            "bn": "মাআরিফ ইবন আব্বাস (রাঃ)-এর সূত্রে আদ-দুররুল মানসূর থেকে আরেকটি বর্ণনা আনে। সেই ব্যবসায়ী এক গায়িকা দাসী কিনেছিল। কেউ কুরআন শুনতে যাচ্ছে জানলেই সে দাসীর গান শুনিয়ে তাকে ফিরিয়ে রাখত। লাহওয়াল হাদীস মানে কি এমন গান, এমন কাহিনি, নাকি আল্লাহর জিকির থেকে ভুলিয়ে রাখে এমন সবকিছু, এ প্রশ্নের জায়গা ৩১:৬ আয়াত। মাআরিফ সেখানেই বিস্তারিত আলোচনা করে। এ প্রবন্ধ সে বিষয়ে কোনো বিধান দেয় না। আমাদের আয়াতের বিষয় আলাদা: একজন মানুষ নিজের কান নিয়ে কী করে।"
+          },
+          {
+            "en": "One thing must be said plainly. The verse describes one man's conduct towards the Qur'an and the punishment announced for it. It licenses nothing against any living person, family or community, nothing against anyone said to descend from the man named in the report, and nothing against traders, storytellers or Persians. Its warning is addressed to a posture, and that posture can be found in anyone, the reader included. The name, if it is right, only shows that the posture once had a face.",
+            "bn": "একটি কথা সোজাসুজি বলা দরকার। আয়াতটি কুরআনের প্রতি একজন মানুষের আচরণ আর তার জন্য ঘোষিত শাস্তির বর্ণনা দেয়, এর বেশি কিছু নয়। জীবিত কোনো মানুষ, পরিবার বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। বর্ণনায় যার নাম এসেছে, তার বংশধর বলে পরিচিত কারও বিরুদ্ধেও নয়, ব্যবসায়ী, গল্পকার বা পারস্যের মানুষের বিরুদ্ধেও নয়। আয়াতের সতর্কবাণী একটি আচরণের বিরুদ্ধে, আর সে আচরণ যে কারও মধ্যে থাকতে পারে, পাঠকের মধ্যেও। নামটি সঠিক হলে শুধু এটুকু বোঝা যায় যে এ আচরণের একসময় একটা চেহারা ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Back Turned, Chin Raised",
+          "bn": "পিঠ ফেরানো, মাথা উঁচু"
+        },
+        "p": [
+          {
+            "en": "Wa-idhā tutlā ʿalayhi āyātunā: and when Our verses are recited to him. Al-Qurtubi says the verses meant are the Qur'an. As-Sa'di adds why they are recited at all: so that he might believe in them and submit to them. The recitation is an offer. Then comes the reply, wallā, he turned away. At-Tabari explains it as adbara ʿanhā, he turned his back on them, and says he turned from hearing the truth and from answering it. Al-Qurtubi gives the plainer synonym aʿraḍa, he turned aside.",
+            "bn": "ওয়া ইযা তুতলা আলাইহি আয়াতুনা: আর যখন তার সামনে আমার আয়াত পড়া হয়। কুরতুবী বলেন, এখানে আয়াত মানে কুরআন। সা'দী যোগ করেন, আয়াত পড়ে শোনানোর উদ্দেশ্যই হলো সে যেন তাতে ঈমান আনে আর তার কাছে মাথা নত করে। তিলাওয়াত তাই এক আহ্বান। এরপর আসে তার জবাব: ওয়াল্লা, সে মুখ ফিরিয়ে নিল। তাবারী এর ব্যাখ্যা দেন আদবারা আনহা দিয়ে, অর্থাৎ সে আয়াতের দিকে পিঠ ফিরিয়ে দিল। তাঁর ভাষায়, সে সত্য শোনা থেকেও সরে গেল, সত্যের ডাকে সাড়া দেওয়া থেকেও। কুরতুবী আরও সহজ প্রতিশব্দ দেন: আ'রাদা, সে এড়িয়ে গেল।"
+          },
+          {
+            "en": "The turning is not neutral. Mustakbiran, in arrogance, is grammatically a ḥāl, al-Qurtubi notes: it describes the state he is in while he turns. At-Tabari doubles the root, istakbara istikbāran, he was arrogant with real arrogance. As-Sa'di pictures him turning away as an arrogant man turns, rejecting what he heard, and says the verses neither entered his heart nor left a mark on it. The Muyassar puts it as turning from obeying Allah, proud, and taking no lesson.",
+            "bn": "এ মুখ ফেরানো নিরীহ কিছু নয়। কুরতুবী জানান, মুসতাকবিরান, অহংকারভরে, শব্দটি ব্যাকরণে হাল: মুখ ফেরানোর সময় সে কোন অবস্থায় ছিল, শব্দটি তা বলে দেয়। তাবারী একই ধাতু দুবার আনেন, ইসতাকবারা ইসতিকবারান, অর্থাৎ সে ভীষণ অহংকার দেখাল। সা'দীর ছবিতে লোকটি অহংকারীর মতো মুখ ফিরিয়ে চলে যায়, যা শুনেছে তা প্রত্যাখ্যান করে। তিনি বলেন, আয়াতগুলো তার অন্তরে ঢোকেনি, কোনো দাগও কাটেনি। মুয়াসসার বলে, সে আল্লাহর আনুগত্য থেকে মুখ ফিরিয়ে নিল, অহংকার করল, কোনো শিক্ষা নিল না।"
+          },
+          {
+            "en": "The Qur'an uses the same doubled phrase for the people of Nuh (AS), who put their fingers in their ears, wrapped themselves in their garments and were arrogant with great arrogance, wa-stakbarū stikbāran (71:7). The two scenes share a gesture: hearing is refused by an act of the body, and pride stands behind the act. What the man in Luqmān shows is not a failure to follow a difficult argument. The verse describes a refusal, and the refusal is carried out with his back and his bearing.",
+            "bn": "নূহ (আঃ)-এর কওমের বেলায়ও কুরআন একই জোড়া শব্দ ব্যবহার করেছে। তারা কানে আঙুল দিয়েছিল, কাপড়ে নিজেদের ঢেকে নিয়েছিল, আর ওয়াসতাকবারুসতিকবারা, খুব বেশি অহংকার করেছিল (৭১:৭)। দুই দৃশ্যে একই ভঙ্গি। শরীর দিয়ে শোনাকে ঠেকানো হচ্ছে, আর তার পেছনে দাঁড়িয়ে আছে অহংকার। সূরা লুকমানের লোকটি কঠিন কোনো যুক্তি ধরতে ব্যর্থ হয়নি। আয়াতটি এক প্রত্যাখ্যানের বর্ণনা দেয়, আর সে প্রত্যাখ্যান সে করে পিঠ ফিরিয়ে, মাথা উঁচু করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearing, Then Playing Deaf",
+          "bn": "শুনেও না শোনার ভান"
+        },
+        "p": [
+          {
+            "en": "The verse then gives two likenesses, each stronger than the last. Ka-an lam yasmaʿhā: as if he had not heard them. Then ka-anna fī udhunayhi waqran: as if there were a heaviness in his ears. The first says he behaves as though the words never reached him. The second goes further and says he behaves as though they could not have reached him. Both are introduced by ka-anna, as if. Neither says he is in fact deaf.",
+            "bn": "এরপর আয়াতটি দুটি উপমা দেয়, দ্বিতীয়টি প্রথমটির চেয়ে কড়া। কাআন লাম ইয়াসমা'হা: যেন সে আয়াতগুলো শোনেইনি। তারপর কাআন্না ফী উযুনাইহি ওয়াকরা: যেন তার দুই কানে ভার চাপানো। প্রথম উপমা বলে, সে এমন আচরণ করে যেন কথাগুলো তার কাছে পৌঁছায়ইনি। দ্বিতীয়টি আরও এক ধাপ এগিয়ে বলে, সে এমন ভাব করে যেন কথাগুলো তার কাছে পৌঁছানো সম্ভবই ছিল না। দুটিই শুরু হয় কাআন্না দিয়ে, যার মানে 'যেন'। কোনোটিই বলে না যে সে সত্যিই বধির।"
+          },
+          {
+            "en": "Ibn Kathir draws exactly that out. He piles up the verbs, wallā, aʿraḍa, adbara: he turned, turned aside, turned his back. Then he adds taṣāmma wa-mā bihi min ṣamam: he made himself deaf, though there is no deafness in him. And he gives the reason. Hearing the verses hurts him, because he has no benefit from them and no wish for anything in them. The ears work. What fails is the will to let the words in.",
+            "bn": "ইবন কাসীর ঠিক এ কথাটাই খুলে বলেন। তিনি একের পর এক ক্রিয়া সাজান: ওয়াল্লা, আ'রাদা, আদবারা, অর্থাৎ সে ফিরে গেল, পাশ কাটাল, পিঠ দেখাল। তারপর বলেন, তাসাম্মা ওয়া মা বিহী মিন সামাম: সে বধির সাজল, অথচ তার কোনো বধিরতা নেই। কারণটাও তিনি বলে দেন। আয়াত শুনলে তার কষ্ট হয়, কারণ তাতে তার কোনো লাভ নেই, তার কোনো চাওয়াও নেই। কান ঠিকই কাজ করে। ব্যর্থ হয় কেবল কথাগুলো ভেতরে ঢুকতে দেওয়ার ইচ্ছা।"
+          },
+          {
+            "en": "Set beside this the Makkans of 41:5, who said of themselves, in our ears is a heaviness, wa-fī ādhāninā waqr, and between us and you is a screen. There the claim of deafness is their own, made in defiance. Here the Qur'an describes the same kind of man from outside and keeps the word as if. Put together, the two verses show deafness to revelation being performed: worn as an excuse, and announced to end the conversation.",
+            "bn": "এর পাশে রাখুন ৪১:৫ আয়াতের মক্কাবাসীদের কথা। তারা নিজেরাই বলেছিল, ওয়া ফী আযানিনা ওয়াকর, আমাদের কানে ভার আছে, আর আমাদের ও তোমার মাঝে আছে পর্দা। সেখানে বধিরতার দাবি তাদের নিজেদের মুখের, জেদ দেখিয়ে বলা। এখানে কুরআন একই রকম মানুষকে বাইরে থেকে দেখায়, আর 'যেন' শব্দটি ধরে রাখে। দুটি আয়াত পাশাপাশি রাখলে বোঝা যায়, ওহীর প্রতি এই বধিরতা আসলে একটা অভিনয়। অজুহাত হিসেবে তা গায়ে চাপানো হয়, আর আলাপ বন্ধ করতে তা ঘোষণা করা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weight Lodged in Both Ears",
+          "bn": "দুই কানে চেপে বসা ভার"
+        },
+        "p": [
+          {
+            "en": "What is waqr? At-Tabari glosses it as thiqal, a heaviness, and adds what the heaviness does: because of it he cannot bear to hear. He then supports the word with Mujahid, through two chains reaching Ibn Abi Najih, who also said: thiqal. Al-Qurtubi pairs the two senses, thiqal wa-ṣamam, heaviness and deafness. As-Sa'di and the Muyassar go straight to ṣamam, and As-Sa'di sharpens it: a deafness that no sound gets through.",
+            "bn": "ওয়াকর কী? তাবারী এর অর্থ দেন সিকাল, অর্থাৎ ভার। সেই ভার কী করে, তাও বলেন: এর কারণে সে শোনার ধকল সইতে পারে না। তারপর তিনি নিজের সনদে ইবন আবী নাজীহের মাধ্যমে মুজাহিদের কথা আনেন, যিনিও বলেছেন: সিকাল। কুরতুবী দুটি অর্থ একসঙ্গে রাখেন, সিকাল ওয়া সামাম, ভার আর বধিরতা। সা'দী আর মুয়াসসার সোজা চলে যান সামামে, অর্থাৎ বধিরতায়। সা'দী আরও তীক্ষ্ণ করে বলেন: এমন বধিরতা, যা ভেদ করে কোনো আওয়াজ ঢোকে না।"
+          },
+          {
+            "en": "The pictures differ a little. At-Tabari's heaviness is a load the man will not lift, so listening becomes too much for him. As-Sa'di's deafness is a wall that keeps the sound out. The verse also says udhunayhi, in his two ears, in the dual: not one ear half-open, but both. As-Sa'di closes the clause with a hard conclusion, that for a man in this state there is no stratagem that will guide him. He is describing the posture the verse paints, not passing a verdict on a named person.",
+            "bn": "দুই ছবিতে সামান্য তফাত আছে। তাবারীর ভার এমন বোঝা, যা লোকটি তুলতে চায় না, তাই শোনাটা তার কাছে অসহ্য হয়ে ওঠে। সা'দীর বধিরতা এক দেয়াল, যা আওয়াজকে বাইরে আটকে রাখে। আয়াতে শব্দটি উযুনাইহি, দ্বিবচনে, তার দুই কানে। একটা কান আধখোলা নয়, দুটিই বন্ধ। সা'দী কথাটি শেষ করেন এক কঠিন উপসংহারে: এ অবস্থার মানুষকে হিদায়াতে আনার কোনো কৌশল নেই। তিনি আয়াতে আঁকা আচরণটির কথা বলছেন। নির্দিষ্ট কোনো মানুষের ব্যাপারে রায় দিচ্ছেন না।"
+          },
+          {
+            "en": "The same word appears elsewhere, said of those who turned from the Qur'an: coverings over their hearts lest they understand it, and in their ears waqr (6:25, 17:46, 18:57). In 17:46 the next words could almost caption our verse: when you mention your Lord alone in the Qur'an, they turn back in aversion. Different verses, the same scene.",
+            "bn": "কুরআন থেকে যারা মুখ ফিরিয়েছিল, তাদের বেলায় শব্দটি অন্য আয়াতেও এসেছে: তাদের অন্তরে আবরণ, যাতে তারা বুঝতে না পারে, আর তাদের কানে ওয়াকর (৬:২৫, ১৭:৪৬, ১৮:৫৭)। ১৭:৪৬ আয়াতের পরের কথাগুলো যেন আমাদের আয়াতেরই শিরোনাম: যখন তুমি কুরআনে কেবল তোমার রবের কথা বলো, তারা বিরক্ত হয়ে পিছু ফিরে চলে যায়। আয়াত আলাদা, দৃশ্য একই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tidings No One Wants",
+          "bn": "যে সুসংবাদ কেউ চায় না"
+        },
+        "p": [
+          {
+            "en": "Fa-bashshirhu bi-ʿadhābin alīm: so give him tidings of a painful punishment. Bashshara is the verb of good news, and the Qur'an turns it here on a man who would not listen. The Muyassar makes the addressee explicit, ayyuhā r-rasūl, O Messenger: the Prophet ﷺ is told to deliver this news. At-Tabari explains it as a punishment from Allah on the Day of Resurrection, mūjiʿ, aching, and names it: the punishment of the Fire.",
+            "bn": "ফাবাশশিরহু বিআযাবিন আলীম: কাজেই তাকে যন্ত্রণাদায়ক শাস্তির সুসংবাদ দাও। বাশশারা ক্রিয়াটি সাধারণত সুখবর দেওয়ার জন্য, অথচ এখানে কুরআন তা ব্যবহার করছে এমন লোকের বেলায়, যে শুনতেই রাজি নয়। মুয়াসসার স্পষ্ট করে দেয় কাকে বলা হচ্ছে: আইয়ুহার রাসূল, হে রাসূল। অর্থাৎ নবী ﷺ-কে এ খবর পৌঁছে দিতে বলা হচ্ছে। তাবারী ব্যাখ্যা করেন, এ শাস্তি কিয়ামতের দিন আল্লাহর পক্ষ থেকে, মূজি', মর্মান্তিক। তারপর নামও বলে দেন: জাহান্নামের আগুনের শাস্তি।"
+          },
+          {
+            "en": "As-Sa'di dwells on the word. It is a bishāra, he says, that leaves grief and gloom in the man's heart, and in his bashara, his skin, the same root, evil, darkness and dust. The pain reaches his heart and his body, beyond measure and beyond knowing how great it is. He closes with a dry line: this is the good news of the people of evil, and how wretched a piece of good news it is.",
+            "bn": "সা'দী শব্দটির উপর থামেন। তাঁর মতে এ এমন বিশারা, সুসংবাদ, যা লোকটির অন্তরে দুঃখ আর বিষাদ রেখে যায়। আর তার বাশারায়, অর্থাৎ গায়ের চামড়ায়, যা একই ধাতুর শব্দ, রেখে যায় অমঙ্গল, অন্ধকার আর ধুলোর ছাপ। যন্ত্রণা পৌঁছায় তার অন্তরে, তার শরীরে। এর পরিমাণ মাপা যায় না, এর ভয়াবহতা জানা যায় না। শেষে তিনি এক শুকনো বাক্য বলেন: এ হলো মন্দ লোকদের সুসংবাদ, আর কত নিকৃষ্ট এই সুসংবাদ!"
+          },
+          {
+            "en": "Surat al-Jathiyah has a verse close to this one in wording. Woe to every sinful liar who hears the verses of Allah recited to him, then persists in arrogance, mustakbiran, as if he had not heard them: so give him tidings of a painful punishment (45:7 and 45:8). There the ears clause is absent and the man persists rather than turns his back. The very next verse there speaks of taking the verses in ridicule (45:9), as 31:6 did.",
+            "bn": "সূরা জাসিয়ায় শব্দে এর খুব কাছের একটি আয়াত আছে। ধ্বংস প্রত্যেক পাপী মিথ্যাবাদীর জন্য, যে আল্লাহর আয়াত শোনে যখন তা তাকে পড়ে শোনানো হয়, তারপর মুসতাকবিরান, অহংকারের সঙ্গে আগের অবস্থায় অটল থাকে, যেন সে তা শোনেইনি। কাজেই তাকে যন্ত্রণাদায়ক শাস্তির সুসংবাদ দাও (৪৫:৭ ও ৪৫:৮)। সেখানে কানের কথাটি নেই, আর লোকটি পিঠ ফেরায় না, বরং জিদ ধরে থাকে। ঠিক পরের আয়াতেই আছে আয়াতকে ঠাট্টার বিষয় বানানোর কথা (৪৫:৯), যেমন ছিল ৩১:৬ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pain Answering Pain",
+          "bn": "কষ্টের বদলে কষ্ট"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir finds a measure in the last words. The punishment, he says, will pain him on the Day of Resurrection just as he was pained by hearing the Book of Allah and its verses. The man treated the recitation as something that hurt; the reply is framed in the same terms. On 31:6, the same commentator, in the abridged English, explains the humiliating punishment the same way: they showed no respect to Allah's signs and path, so they will be shown none.",
+            "bn": "শেষ শব্দগুলোর মধ্যে ইবন কাসীর এক মাপ খুঁজে পান। তিনি বলেন, কিয়ামতের দিন এ শাস্তি তাকে সেভাবেই কষ্ট দেবে, যেভাবে আল্লাহর কিতাব আর তাঁর আয়াত শুনে সে কষ্ট পেত। লোকটি তিলাওয়াতকে কষ্টের জিনিস বলে ধরে নিয়েছিল। জবাবও এসেছে সেই ভাষাতেই। ৩১:৬ আয়াতের অপমানজনক শাস্তিকেও তিনি, সংক্ষিপ্ত ইংরেজি সংস্করণে, একইভাবে ব্যাখ্যা করেন: তারা আল্লাহর আয়াত ও তাঁর পথকে কোনো সম্মান দেখায়নি, তাই তাদেরও কোনো সম্মান দেখানো হবে না।"
+          },
+          {
+            "en": "Set side by side, the two verses end on two different words. 31:6, about the man who mocks, ends ʿadhābun muhīn, a humiliating punishment. 31:7, about the man who finds the Qur'an painful to hear, ends ʿadhābun alīm, a painful punishment. Read with Ibn Kathir's two remarks, each ending answers the deed it follows. Then the passage turns at once: those who believe and do righteous deeds have the Gardens of Bliss, abiding there, a promise of Allah that is true (31:8 and 31:9).",
+            "bn": "দুটি আয়াত পাশাপাশি রাখলে দেখা যায়, দুটির শেষ শব্দ আলাদা। ৩১:৬ আয়াত, যেখানে লোকটি ঠাট্টা করে, শেষ হয় আযাবুন মুহীন দিয়ে, অপমানজনক শাস্তি। ৩১:৭ আয়াত, যেখানে লোকটির কাছে কুরআন শোনা কষ্টের, শেষ হয় আযাবুন আলীম দিয়ে, যন্ত্রণাদায়ক শাস্তি। ইবন কাসীরের দুটি মন্তব্য মিলিয়ে পড়লে বোঝা যায়, প্রতিটি সমাপ্তি তার আগের কাজের জবাব। তারপর আলোচনা সঙ্গে সঙ্গে মোড় নেয়: যারা ঈমান আনে আর সৎকাজ করে, তাদের জন্য নিয়ামতে ভরা জান্নাত, সেখানে তারা চিরকাল থাকবে, এ আল্লাহর সত্য ওয়াদা (৩১:৮ ও ৩১:৯)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Skins That Shiver Instead",
+          "bn": "যাদের গা শিউরে ওঠে"
+        },
+        "p": [
+          {
+            "en": "The abridged Ibn Kathir frames the whole passage as a contrast. Allah first speaks of the blessed, who are guided by His Book and benefit from hearing it, and he cites 39:23: the skins of those who fear their Lord shiver from it, then their skins and hearts soften to the remembrance of Allah. Then comes mention of the doomed, who turn from the Qur'an and gain nothing from hearing it. The same recitation reaches both. One group's skin shivers; the other's ears grow heavy.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত সংস্করণ পুরো অংশটিকে একটি তুলনা হিসেবে দেখে। আল্লাহ প্রথমে সৌভাগ্যবানদের কথা বলেন, যারা তাঁর কিতাব থেকে পথ পায় আর তা শুনে উপকৃত হয়। এখানে তিনি ৩৯:২৩ আয়াত উদ্ধৃত করেন: যারা তাদের রবকে ভয় করে, এতে তাদের গা শিউরে ওঠে, তারপর তাদের দেহ ও মন আল্লাহর জিকিরের দিকে নরম হয়ে যায়। এরপর আসে হতভাগাদের কথা, যারা কুরআন থেকে মুখ ফেরায় আর শুনে কিছুই পায় না। একই তিলাওয়াত দুই দলের কাছেই পৌঁছায়। এক দলের গা শিউরে ওঠে, অন্য দলের কান ভারী হয়ে যায়।"
+          },
+          {
+            "en": "None of the commentaries read for this verse attaches a hadith to it. What it leaves is a test anyone can run. The man of 31:7 is extreme, but his habits are ordinary: preferring a pleasant noise to a demanding voice, letting recitation play while the mind is elsewhere, treating a reminder as an intrusion. The sūrah names the opposite at its very start: the doers of good, for whom the Book is guidance and mercy (31:3). The ear that turns towards it is the beginning.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। আয়াতটি বরং একটা পরীক্ষা রেখে যায়, যা যে কেউ নিজের উপর চালাতে পারে। ৩১:৭ আয়াতের লোকটি চরম উদাহরণ, কিন্তু তার অভ্যাসগুলো খুব সাধারণ। দাবি নিয়ে আসা ডাকের চেয়ে মিষ্টি আওয়াজকে পছন্দ করা, মন অন্যখানে রেখে তিলাওয়াত চালিয়ে রাখা, উপদেশকে উৎপাত মনে করা। উল্টো দিকের মানুষের কথা সূরা একেবারে শুরুতেই বলে দিয়েছে: সৎকর্মশীলরা, যাদের জন্য এই কিতাব হিদায়াত ও রহমত (৩১:৩)। যে কান এর দিকে ফেরে, সেখান থেকেই শুরু।"
+          }
+        ]
+      }
+    ]
+  },
   "31:10": {
     "sections": [
       {

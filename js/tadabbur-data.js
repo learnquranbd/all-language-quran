@@ -36253,6 +36253,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hearing the truth is a life only Allah gives; call others with care, leave their hearts to Him, and keep your own face turned toward the call.",
     "lessonBn": "সত্য শোনার প্রাণ কেবল আল্লাহই দেন। অন্যদের যত্ন নিয়ে ডাকুন, তাদের অন্তর তাঁর হাতে ছেড়ে দিন, আর নিজের মুখটা ডাকের দিকে ফিরিয়ে রাখুন।"
+  },
+  "31:7": {
+    "reflectionEn": "The man of the previous verse has bought himself a distraction. Now the Qur'an is recited to him, and the verse films what happens next: he turns his back, with his chin up, as though nothing had been said. Not deaf, only acting deaf, as if a weight sat in both ears. The words reached him; he would not let them in. That is the quiet warning here. Deafness of this kind is rarely an accident of hearing. It is a decision made each time we choose the noise we like over the voice that asks something of us. So it is worth asking what my ears do when a verse is read near me: lean in, or close?",
+    "reflectionBn": "আগের আয়াতের লোকটি টাকা দিয়ে মন ভোলানোর জিনিস কিনেছে। এবার তার সামনে কুরআন পড়া হচ্ছে, আর আয়াতটি দেখিয়ে দেয় তারপর কী ঘটে। সে পিঠ ফিরিয়ে চলে যায়, মাথা উঁচু করে, যেন কিছুই বলা হয়নি। সে বধির নয়, বধিরের ভান করছে, যেন দুই কানে ভারী বোঝা চাপানো। কথাগুলো তার কানে পৌঁছেছিল, কিন্তু সে ভেতরে ঢুকতে দেয়নি। চুপিচুপি সতর্কবাণীটা এখানেই। এমন বধিরতা কানের দোষে আসে না। যে আওয়াজ আমাদের ভালো লাগে, তাকে বেছে নিয়ে যে ডাক আমাদের কাছে কিছু চায় তাকে ফিরিয়ে দিলে, প্রতিবার আমরা নিজেরাই এ সিদ্ধান্ত নিই। তাই নিজেকে জিজ্ঞেস করা দরকার: আমার কাছে কেউ আয়াত পড়লে আমার কান কী করে? এগিয়ে আসে, নাকি বন্ধ হয়ে যায়?",
+    "pointsEn": [
+      "When a verse is recited near me, in a gathering or on a phone, do I actually stop and listen, or let it run as background?",
+      "Which voice that asks something of me have I learned to tune out, the way this man tuned out the recitation?",
+      "What do I reach for when the Qur'an feels heavy to hear, and what does that choice say about what I have been feeding my ears?",
+      "Has any part of my refusal to listen been pride, the feeling that I already know enough to be told nothing?",
+      "What small habit this week would make it easier for the Qur'an to get past my ears and into my heart?"
+    ],
+    "pointsBn": [
+      "আমার আশেপাশে, কোনো মজলিসে বা ফোনে, আয়াত তিলাওয়াত হলে আমি কি সত্যিই থেমে শুনি, নাকি পেছনের আওয়াজ হিসেবে চলতে দিই?",
+      "যে ডাক আমার কাছে কিছু চায়, তার কোনটাকে আমি কানের বাইরে রাখতে শিখে গেছি, ঠিক যেভাবে এই লোকটি তিলাওয়াতকে বাইরে রেখেছিল?",
+      "কুরআন শোনা যখন ভারী লাগে, তখন আমি কিসের দিকে হাত বাড়াই? এতদিন কানকে কী খাইয়েছি, সেই বাছাই তা বলে দেয় না কি?",
+      "না শোনার পেছনে আমার ভেতরে কি কখনো অহংকার কাজ করেছে, এই ভাব যে আমি তো যথেষ্টই জানি, আমাকে আর কী বলবে?",
+      "এ সপ্তাহে কোন ছোট অভ্যাসটা কুরআনকে আমার কান পেরিয়ে অন্তরে পৌঁছাতে সাহায্য করবে?"
+    ],
+    "lessonEn": "Deafness to the Qur'an is usually chosen, not suffered: when its verses are recited, turn towards them, and do not let pride or a favourite noise close your ears.",
+    "lessonBn": "কুরআনের প্রতি বধিরতা সাধারণত কানের রোগ নয়, নিজের বাছাই। আয়াত পড়া হলে সেদিকে ফিরুন, অহংকার বা পছন্দের আওয়াজকে কান বন্ধ করতে দেবেন না।"
   }
 };
 
