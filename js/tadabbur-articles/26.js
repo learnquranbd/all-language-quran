@@ -5771,6 +5771,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:120": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words After the Ark",
+          "bn": "নৌকার পরের চার শব্দ"
+        },
+        "p": [
+          {
+            "en": "Thumma aghraqna ba'du al-baqin: then We drowned, thereafter, the rest. Four words in Arabic close the story of Nuh (AS) in this surah. Thumma, then, marks what comes next. Aghraqna, We drowned, is a verb from the root gh-r-q, spoken by Allah in the first person plural of majesty. Al-baqin is an active participle from b-q-y, to remain: those who were left. The third word, ba'du, after, stands alone, with what it comes after left unspoken.",
+            "bn": "সুম্মা আগরাকনা বা'দুল বাকীন: তারপর আমি ডুবিয়ে দিলাম, এর পরে, বাকিদের। এই সূরায় নূহ (আঃ)-এর কাহিনি শেষ হয় আরবি চারটি শব্দে। সুম্মা মানে তারপর, পরের ঘটনার দিকে ইঙ্গিত। আগরাকনা মানে আমি ডুবিয়ে দিলাম। ক্রিয়াটি গ-র-ক ধাতু থেকে, আর আল্লাহ বলছেন মর্যাদার বহুবচনে, নিজের কথা নিজে। আল-বাকীন এসেছে ব-ক-য় ধাতু থেকে, যার অর্থ থেকে যাওয়া। শব্দটি কর্তাবাচক বিশেষ্য: যারা রয়ে গিয়েছিল। তৃতীয় শব্দ বা'দু, মানে পরে। কিন্তু কিসের পরে, তা আয়াত মুখে আনে না।"
+          },
+          {
+            "en": "The commentators fill that gap alike. Al-Qurtubi reads it as after Our saving of Nuh and those who believed. Al-Baghawi has after the saving of Nuh and his family, and the Muyassar after the saving of Nuh and those with him. As-Sa'di puts it as after Nuh and the believers who were with him. The unstated word is the rescue told in the verse before: so We saved him and those with him in the laden ship (26:119).",
+            "bn": "ফাঁকটা তাফসীরকারেরা পূরণ করেন, আর সবাই একইভাবে। কুরতুবীর ব্যাখ্যায়: নূহ আর যারা ঈমান এনেছিল, তাদের আমি রক্ষা করার পরে। বাগাভী বলেন, নূহ ও তাঁর পরিবারকে রক্ষা করার পরে। মুয়াসসারে আছে, নূহ ও তাঁর সঙ্গীদের রক্ষা করার পরে। সা'দীর ভাষায়, নূহ আর তাঁর সঙ্গী মুমিনদের পরে। না-বলা শব্দটি আসলে আগের আয়াতের উদ্ধার: অতঃপর আমি তাকে ও তার সঙ্গে যারা ছিল তাদেরকে বোঝাই নৌযানে রক্ষা করলাম (২৬:১১৯)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Counted as the Rest",
+          "bn": "বাকি বলতে কারা"
+        },
+        "p": [
+          {
+            "en": "Who, then, were al-baqin? At-Tabari answers in one clause: those of his people who denied him and threw his good counsel back at him. The Muyassar repeats it nearly word for word: the ones of his people who did not believe and rejected his counsel. Al-Baghawi says simply whoever remained of his people. As-Sa'di widens it to the whole of his people: everyone apart from the believers he has just named. The readings differ in wording, not in who is meant.",
+            "bn": "তাহলে আল-বাকীন কারা? তাবারী এক বাক্যে উত্তর দেন: তাঁর কওমের সেই লোকেরা, যারা তাঁকে মিথ্যাবাদী বলেছিল আর তাঁর নসিহত তাঁরই দিকে ফিরিয়ে দিয়েছিল। মুয়াসসার প্রায় হুবহু একই কথা বলে: তাঁর কওমের যারা ঈমান আনেনি আর তাঁর নসিহত প্রত্যাখ্যান করেছিল। বাগাভী সোজাসুজি বলেন, তাঁর কওমের যারা রয়ে গিয়েছিল। সা'দী পরিধিটা বড় করে বলেন, তাঁর গোটা কওম, মানে একটু আগে যে মুমিনদের কথা তিনি বললেন, তারা ছাড়া সবাই। ভাষায় পার্থক্য আছে, কিন্তু কাদের কথা বলা হচ্ছে তাতে নেই।"
+          },
+          {
+            "en": "Ibn Kathir, writing on this passage as a whole, draws the line with a doubled kullahum, all of them: We saved him and those with him, all of them, and We drowned those who denied him and went against his command, all of them. The two halves mirror each other: on that reading, every believer was inside the ship and every denier outside it. The word al-baqin says nothing of their character, only where they stood when the rescue was complete.",
+            "bn": "ইবন কাসীর পুরো অংশটির আলোচনায় সীমারেখা টানেন দুবার কুল্লুহুম, অর্থাৎ সবাই, বলে: তাঁকে আর তাঁর সঙ্গীদের আমি রক্ষা করলাম, সবাইকে। আর যারা তাঁকে মিথ্যাবাদী বলেছিল ও তাঁর আদেশ অমান্য করেছিল, তাদের ডুবিয়ে দিলাম, সবাইকে। দুই অংশ যেন একে অপরের প্রতিচ্ছবি। এ পাঠ অনুযায়ী প্রত্যেক মুমিন ছিল নৌকার ভেতরে, আর প্রত্যেক অস্বীকারকারী বাইরে। আল-বাকীন শব্দটা ওই মানুষদের স্বভাবের কথা বলে না। শুধু জানায়, উদ্ধার সম্পূর্ণ হওয়ার সময় তারা কোথায় দাঁড়িয়ে ছিল।"
+          },
+          {
+            "en": "Elsewhere the Qur'an gives the other side of the count. When the command came, Nuh (AS) was told to carry his family and whoever had believed, and the verse adds: but none had believed with him, except a few (11:40). The rest, then, were the many. That fits the refrain that follows this verse, which says most of them were not believers. Being in the larger number did not make anyone safe, and being among the few put no believer at risk.",
+            "bn": "কুরআনের অন্য জায়গায় হিসাবের অপর দিকটা পাওয়া যায়। আদেশ আসার পর নূহ (আঃ)-কে বলা হয়েছিল পরিবার আর ঈমানদারদের নৌকায় তুলতে। আয়াতটি সঙ্গে যোগ করে: অল্প কয়েকজন ছাড়া তাঁর সঙ্গে কেউ ঈমান আনেনি (১১:৪০)। তাহলে বাকিরা ছিল সংখ্যায় বেশি। এর পরের আয়াতের সেই বারবার ফেরা কথার সঙ্গেও এটা মেলে: তাদের অধিকাংশই মুমিন ছিল না। দলে ভারী হওয়া কাউকে বাঁচায়নি। আর অল্পদের দলে থাকাও কোনো মুমিনকে বিপদে ফেলেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Ship Loaded to the Brim",
+          "bn": "কানায় কানায় ভরা নৌকা"
+        },
+        "p": [
+          {
+            "en": "To see who was left, it helps to see who was taken. The verse before calls the ship al-fulk al-mashhun, and at-Tabari, commenting on 26:119, explains it as the ship weighed down and filled. He gives the early readings with their chains: Ibn 'Abbas said al-mashhun means weighed down with load; Mujahid said it was finished and full, loaded to completion; and Qatada said it was laden. Al-Qurtubi adds that shahn is the filling of a ship with people, beasts and the rest.",
+            "bn": "কারা রয়ে গেল বুঝতে হলে আগে দেখা দরকার কাদের তুলে নেওয়া হয়েছিল। আগের আয়াত নৌকাটিকে বলে আল-ফুলকুল মাশহূন। তাবারী ২৬:১১৯-এর আলোচনায় এর ব্যাখ্যা দেন: ভারে নুয়ে পড়া, পরিপূর্ণ নৌকা। পূর্বসূরিদের মতও তিনি সনদসহ আনেন। ইবন আব্বাস (রাঃ) বলেছেন, মাশহূন মানে বোঝাইয়ের ভারে ভারী। মুজাহিদ বলেছেন, যার বোঝাই শেষ হয়ে গেছে, যা পুরোপুরি ভরা। কাতাদা বলেছেন, বোঝাই করা নৌকা। কুরতুবী যোগ করেন, শাহন মানে মানুষ, পশু আর অন্যান্য জিনিসে নৌকা ভরে তোলা।"
+          },
+          {
+            "en": "The other commentators list the cargo. Ibn Kathir says it was filled with goods and with the pairs that were carried in it, two of every kind. Al-Baghawi names people, birds and animals, all of them. As-Sa'di says it was full of creatures and animals, and the Muyassar speaks of the many kinds of creatures that Nuh carried with him. Al-Qurtubi also notes a point of grammar: fulk here takes no feminine form, because in this verse it means one ship, not many.",
+            "bn": "অন্য তাফসীরকারেরা বোঝাইয়ের তালিকা দেন। ইবন কাসীর বলেন, নৌকা ভরা ছিল মালপত্রে আর জোড়ায় জোড়ায় প্রাণীতে, প্রত্যেক প্রকারের দুটি করে। বাগাভীর তালিকায় মানুষ, পাখি আর সব রকমের প্রাণী। সা'দী বলেন, নৌকা ভরা ছিল সৃষ্টিজীব আর পশুপাখিতে। মুয়াসসার বলে, নূহ (আঃ) যে নানা রকমের সৃষ্টিকে সঙ্গে নিয়েছিলেন, তাতেই নৌকা ভরে উঠেছিল। কুরতুবী ব্যাকরণের একটা দিকও দেখান: এখানে ফুলক শব্দটি স্ত্রীলিঙ্গ রূপ নেয়নি, কারণ এ আয়াতে এর অর্থ একটি নৌকা, অনেকগুলো নয়।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse and its neighbours gives the ship's length, its decks, or how far the water reached, and the verse says nothing of them either. They are left aside here. The verse's contrast is simpler: a ship so full that every reading reaches for words of weight, and outside it al-baqin, who by their own choice had no place on board.",
+            "bn": "এই আয়াত ও পাশের আয়াতগুলোর জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিতে নৌকার দৈর্ঘ্য, তার তলা কয়টি, বা পানি কতদূর উঠেছিল, সে বিবরণ নেই। আয়াতও এসব নিয়ে কিছু বলে না। এখানেও সেগুলো বাদ থাকল। আয়াতের বৈপরীত্যটা সরল। একদিকে এমন ভরা নৌকা যে প্রত্যেক ব্যাখ্যাকার ভারের শব্দ খোঁজেন। আর বাইরে আল-বাকীন, নিজেদের বেছে নেওয়া পথের কারণে যাদের জন্য নৌকায় জায়গা ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer Answered in Order",
+          "bn": "দোয়ার জবাব, ধাপে ধাপে"
+        },
+        "p": [
+          {
+            "en": "Two verses earlier Nuh (AS) had asked for two things: judge between me and them with a decisive judgement, and save me and those with me of the believers (26:118). Ibn Kathir, on this passage, says that at that point he prayed against them and Allah answered his prayer. The answer arrives in two verses that match the two requests: 26:119 is the saving, and 26:120 is the judgement carried out. What he asked for in words, the story now shows in events.",
+            "bn": "দুই আয়াত আগে নূহ (আঃ) দুটি জিনিস চেয়েছিলেন: আমার ও তাদের মধ্যে চূড়ান্ত ফয়সালা করে দিন, আর আমাকে ও আমার সঙ্গী মুমিনদের রক্ষা করুন (২৬:১১৮)। ইবন কাসীর এ অংশের আলোচনায় বলেন, তখনই তিনি তাদের বিরুদ্ধে দোয়া করলেন, আর আল্লাহ তাঁর দোয়া কবুল করলেন। জবাব আসে দুটি আয়াতে, দুই চাওয়ার সঙ্গে মিলিয়ে। ২৬:১১৯ হলো রক্ষা, আর ২৬:১২০ হলো ফয়সালার বাস্তবায়ন। যা তিনি মুখে চেয়েছিলেন, কাহিনি এখন তা ঘটনায় দেখায়।"
+          },
+          {
+            "en": "At-Tabari ties the two halves together in his gloss on 26:119. We saved Nuh and the believers with him, he writes, at the time when We judged between them and their people and sent down Our might upon the disbelieving people. In his reading the rescue and the judgement are one event seen from two sides. The ship carried the believers through the very thing that took the others, so the same water that drowned al-baqin also bore up the ark.",
+            "bn": "তাবারী ২৬:১১৯-এর ব্যাখ্যায় দুই অংশকে এক সুতোয় বাঁধেন। তিনি লেখেন, নূহ আর তাঁর সঙ্গী মুমিনদের আমি রক্ষা করলাম সেই সময়, যখন তাদের ও তাদের কওমের মধ্যে ফয়সালা করলাম আর কাফের কওমের উপর আমার শাস্তি নামালাম। তাঁর পাঠে উদ্ধার আর ফয়সালা আসলে একই ঘটনা, দুই দিক থেকে দেখা। যে জিনিস অন্যদের কেড়ে নিল, নৌকা মুমিনদের সেটার ভেতর দিয়েই পার করে নিল। যে পানিতে আল-বাকীন ডুবল, সেই পানিই নৌকাকে ভাসিয়ে রাখল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Story, Retold",
+          "bn": "একই কাহিনি, অন্য সূরায়"
+        },
+        "p": [
+          {
+            "en": "The Qur'an tells the end of Nuh's people in several places, and the order holds each time. In 7:64 they denied him, so We saved him and those with him in the ship, and We drowned those who denied Our signs. In 10:73 the same sequence returns, with an addition: those saved were made successors. In 37:82, after the rescue, comes a line very close to this one: then We drowned the others. Where 26:120 says al-baqin, the rest, 37:82 says al-akharin, the others.",
+            "bn": "নূহ (আঃ)-এর কওমের পরিণতির কথা কুরআন কয়েক জায়গায় বলেছে, আর প্রতিবারই ক্রমটা একই থাকে। ৭:৬৪ আয়াতে: তারা তাঁকে অস্বীকার করল, তখন তাঁকে আর নৌকায় তাঁর সঙ্গীদের আমি বাঁচালাম, আর যারা আমার আয়াতগুলো অস্বীকার করেছিল তাদের ডুবিয়ে দিলাম। ১০:৭৩ আয়াতে একই ধারা ফিরে আসে, সঙ্গে একটা সংযোজন: যাদের বাঁচানো হলো, তাদের বানানো হলো উত্তরাধিকারী। ৩৭:৮২ আয়াতে উদ্ধারের পর আসে প্রায় এই আয়াতেরই মতো একটি বাক্য: তারপর অন্যদের আমি ডুবিয়ে দিলাম। ২৬:১২০ যেখানে বলে আল-বাকীন, বাকিরা, ৩৭:৮২ সেখানে বলে আল-আখারীন, অন্যরা।"
+          },
+          {
+            "en": "Other tellings name the reason, which 26:120 leaves to context. In 7:64 and 10:73 the drowned are those who denied Our signs. In 21:77 they were a people of evil, so We drowned them all together, and 71:25 says it was because of their sins that they were drowned. 25:37 adds that Allah made them a sign for mankind, and 29:15, after the rescue of those in the ship, says We made it a sign for the worlds. Across the Qur'an the account keeps together the denial, the rescue and the sign.",
+            "bn": "অন্য বর্ণনাগুলো কারণটাও বলে দেয়, যা ২৬:১২০ ছেড়ে দিয়েছে প্রসঙ্গের উপর। ৭:৬৪ ও ১০:৭৩ আয়াতে ডুবে যাওয়া মানুষেরা হলো যারা আমার আয়াতগুলো অস্বীকার করেছিল। ২১:৭৭ বলে, তারা ছিল এক মন্দ কওম, তাই তাদের সবাইকে একসঙ্গে ডুবিয়ে দিলাম। ৭১:২৫ বলে, নিজেদের গুনাহের কারণেই তাদের ডোবানো হয়েছিল। ২৫:৩৭ যোগ করে, আল্লাহ তাদের মানুষের জন্য নিদর্শন বানিয়েছেন। ২৯:১৫ নৌকারোহীদের রক্ষার কথা বলে জানায়, একে আমি বিশ্বজগতের জন্য নিদর্শন করলাম। পুরো কুরআনে তাই কাহিনিটা একসঙ্গে ধরে রাখে অস্বীকার, উদ্ধার আর নিদর্শন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Addressed to Those Who Hear",
+          "bn": "যারা শোনে, তাদের উদ্দেশে"
+        },
+        "p": [
+          {
+            "en": "The next verse turns from the event to its meaning: indeed in that is a sign, but most of them were not believers (26:121). At-Tabari reads the sign as spoken to the Prophet ﷺ: in what We did to Nuh and the believers with him, when We sent down Our might on his people who denied him, is a sign for you and for your people, those who accept you and those who deny you. The sign is that Our way is to save Our messengers and their followers.",
+            "bn": "পরের আয়াত ঘটনা থেকে তার অর্থের দিকে ফেরে: অবশ্যই এতে নিদর্শন আছে, কিন্তু তাদের অধিকাংশই মুমিন ছিল না (২৬:১২১)। তাবারী নিদর্শনটিকে পড়েন নবী ﷺ-কে উদ্দেশ করে বলা কথা হিসেবে। নূহ আর তাঁর সঙ্গী মুমিনদের সঙ্গে আমি যা করেছি, আর তাঁকে মিথ্যাবাদী বলা কওমের উপর যখন আমার শাস্তি নামিয়েছি, তাতে নিদর্শন আছে তোমার জন্য আর তোমার কওমের জন্য। যারা তোমাকে সত্য বলে মানে, আর যারা মিথ্যা বলে, উভয়ের জন্য। নিদর্শনটা এই: রসূলদের আর তাঁদের অনুসারীদের রক্ষা করাই আমার রীতি।"
+          },
+          {
+            "en": "He completes the thought: and the destruction of those who deny Allah, when Our vengeance falls on the deniers among their people, and so is My way with you and with your people. As-Sa'di makes the sign a proof: the saving of Nuh and his followers and the destruction of those who denied him point to the truthfulness of Our messengers, the soundness of what they brought, and the falsehood of their enemies. The Muyassar calls it a sign and a great lesson for those who came after.",
+            "bn": "তিনি কথাটা শেষ করেন এভাবে: আর রীতি হলো আল্লাহকে অস্বীকারকারীদের ধ্বংস করা, যখন তাদের কওমের মিথ্যারোপকারীদের উপর আমার শাস্তি নামে। আর তোমার ও তোমার কওমের বেলায়ও আমার রীতি একই। সা'দী নিদর্শনটিকে দেখেন প্রমাণ হিসেবে। নূহ ও তাঁর অনুসারীদের রক্ষা আর তাঁকে অস্বীকারকারীদের ধ্বংস প্রমাণ করে যে আমার রসূলরা সত্যবাদী, তাঁরা যা এনেছেন তা সঠিক, আর তাঁদের শত্রুরা যে পথে আছে তা বাতিল। মুয়াসসার একে বলে পরবর্তীদের জন্য এক নিদর্শন ও বড় শিক্ষা।"
+          },
+          {
+            "en": "On the closing clause the readings point in slightly different directions. At-Tabari takes most of them to mean most of the Prophet's own people, who would not believe because of what had gone before in Allah's decree. The Muyassar takes it as most of those who heard this story. The same refrain closes eight passages of this surah, at 26:8, 26:67, 26:103, 26:121, 26:139, 26:158, 26:174 and 26:190, so the question it leaves is put to every later hearer.",
+            "bn": "শেষ অংশটি নিয়ে ব্যাখ্যাগুলো একটু ভিন্ন দিকে যায়। তাবারীর মতে, তাদের অধিকাংশ মানে নবী ﷺ-এর নিজের কওমের অধিকাংশ, যারা আল্লাহর ফয়সালায় আগে থেকে যা আছে সে কারণে ঈমান আনবে না। মুয়াসসারের মতে, যারা এই কাহিনি শুনেছে তাদের অধিকাংশ। একই বাক্য এ সূরার আটটি অংশ শেষ করে: ২৬:৮, ২৬:৬৭, ২৬:১০৩, ২৬:১২১, ২৬:১৩৯, ২৬:১৫৮, ২৬:১৭৪ ও ২৬:১৯০ আয়াতে। তাই এর রেখে যাওয়া প্রশ্নটা পরের প্রত্যেক শ্রোতার সামনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Might Paired With Mercy",
+          "bn": "প্রতাপের পাশেই রহমত"
+        },
+        "p": [
+          {
+            "en": "The passage ends: and indeed your Lord, He is al-'Aziz, al-Rahim, the Exalted in Might, the Merciful (26:122). Closing the account of the drowning, the two names divide the story between them. As-Sa'di says it outright: al-'Aziz is He who overpowered His enemies by His might and drowned them with the flood, and al-Rahim is merciful to His friends, in that He saved Nuh and the people of faith with him. The Muyassar has mighty in His vengeance, merciful to His believing servants.",
+            "bn": "অংশটি শেষ হয় এভাবে: আর তোমার প্রতিপালক, অবশ্যই তিনি আল-আযীয, আর-রহীম, প্রবল পরাক্রান্ত, পরম দয়ালু (২৬:১২২)। ডুবে যাওয়ার কাহিনির শেষে এসে নাম দুটি যেন কাহিনিটা নিজেদের মধ্যে ভাগ করে নেয়। সা'দী সরাসরি বলেন: আল-আযীয তিনি, যিনি নিজের প্রতাপে শত্রুদের পরাভূত করেছেন আর তুফানে তাদের ডুবিয়ে দিয়েছেন। আর আর-রহীম তিনি, যিনি তাঁর প্রিয় বান্দাদের প্রতি দয়ালু, কারণ তিনি নূহ (আঃ) আর তাঁর সঙ্গী ঈমানদারদের রক্ষা করেছেন। মুয়াসসারে আছে: শাস্তিদানে পরাক্রান্ত, মুমিন বান্দাদের প্রতি দয়ালু।"
+          },
+          {
+            "en": "Al-Qurtubi reads the pair the same way: the Unassailable who takes vengeance on His enemies, merciful to His friends. At-Tabari places the mercy differently. Al-'Aziz, he says, is mighty in His vengeance on whoever disbelieved in Him and went against His command; al-Rahim is merciful to the one among them who repents, in that He does not punish him after his repentance. For as-Sa'di and al-Qurtubi the mercy is the rescue of the believers. For at-Tabari it is the door left open to the deniers themselves.",
+            "bn": "কুরতুবীও জোড়াটি একইভাবে পড়েন: তিনি অপরাজেয়, শত্রুদের থেকে প্রতিশোধ নেন, আর তাঁর প্রিয়জনদের প্রতি দয়ালু। তাবারী রহমতের জায়গাটা দেখান অন্যখানে। তাঁর মতে, আল-আযীয মানে যে তাঁকে অস্বীকার করেছে ও তাঁর আদেশ অমান্য করেছে, তার থেকে প্রতিশোধ নেওয়ায় তিনি পরাক্রান্ত। আর আর-রহীম মানে তাদের মধ্যে যে তওবা করে, তার প্রতি তিনি দয়ালু, তওবার পরে তাকে আর শাস্তি দেন না। সা'দী ও কুরতুবীর কাছে রহমত হলো মুমিনদের উদ্ধার। তাবারীর কাছে রহমত হলো অস্বীকারকারীদের জন্যও খোলা রাখা দরজা।"
+          },
+          {
+            "en": "Both readings sit easily with the verse, and neither is chosen over the other here. What they share is that neither name stands alone. Might without mercy would leave the reader only with the flood, and mercy without might would leave the warning empty. The surah repeats the pair after every one of its prophets, so the listener meets both at the close of each story, never one without the other.",
+            "bn": "দুটি পাঠই আয়াতের সঙ্গে সহজে মেলে, আর এখানে কোনোটিকে অন্যটির উপর বেছে নেওয়া হচ্ছে না। দুটির মিল এই যে কোনো নামই একা দাঁড়ায় না। রহমত ছাড়া প্রতাপ পাঠকের হাতে শুধু বন্যাটুকুই রেখে যেত। আর প্রতাপ ছাড়া রহমত সতর্কবাণীকে ফাঁকা করে দিত। সূরাটি প্রত্যেক নবীর কাহিনির পরে এই জোড়া ফিরিয়ে আনে, তাই প্রতিটি কাহিনির শেষে শ্রোতা দুটিকেই একসঙ্গে পান, কখনো একটিকে অন্যটি ছাড়া নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Flood Read as Verdict",
+          "bn": "কোনো বন্যা রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This has to be said firmly. The verse describes what the text describes: one people, in one story, after a long call refused, drowned by the decree of Allah, with a messenger present and the believers carried clear. It licenses nothing against any living person or community. No flood, storm or disaster of our own time may be read from it as a punishment on those it strikes, and no one who drowns today may be counted among al-baqin.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াতটি শুধু সেটুকুই বর্ণনা করে, যা পাঠে আছে: একটি কাহিনির একটি কওম, দীর্ঘ ডাক প্রত্যাখ্যানের পর, আল্লাহর ফয়সালায় ডুবে গিয়েছিল। তাদের মাঝে রসূল উপস্থিত ছিলেন, আর মুমিনদের আগেই নিরাপদে সরিয়ে নেওয়া হয়েছিল। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আমাদের সময়ের কোনো বন্যা, ঝড় বা দুর্যোগকে এ আয়াত দিয়ে আক্রান্ত মানুষদের উপর শাস্তি বলে পড়া যায় না। আজ যে মানুষ পানিতে ডুবে যায়, তাকে আল-বাকীনের দলে গোনার অধিকার কারও নেই।"
+          },
+          {
+            "en": "The knowledge that set al-baqin apart came by revelation, through a messenger who stood among them. No reader has that knowledge about the people of a flooded town today. What the sign asks of a later hearer is to answer the call while it is being made. When disaster comes to others, the believer's part is rescue, help and prayer, not a sentence. None of the commentaries fetched attaches a hadith to this verse, and none is used here.",
+            "bn": "আল-বাকীনকে আলাদা করে চেনার জ্ঞান এসেছিল ওহীর মাধ্যমে, তাদের মাঝে দাঁড়ানো এক রসূলের মুখে। বন্যায় ডোবা কোনো শহরের মানুষ সম্পর্কে আজকের কোনো পাঠকের কাছে সে জ্ঞান নেই। নিদর্শনটা পরের শ্রোতার কাছে চায় একটাই জিনিস: ডাক যখন আসছে, তখনই তার জবাব দেওয়া। অন্যের উপর দুর্যোগ এলে মুমিনের কাজ উদ্ধার, সাহায্য আর দোয়া, রায় দেওয়া নয়। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটি এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস আনা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Reader Stands",
+          "bn": "পাঠক দাঁড়িয়ে কোথায়"
+        },
+        "p": [
+          {
+            "en": "Read with its neighbours, the verse turns the question inward. Al-baqin were not marked out by poverty, rank or family; the surah had just shown Nuh's people mocking his followers as the lowest of people (26:111), and it was the mockers who were left outside. What placed people inside the ship or beyond it was their answer to the call. That is the only line the verse draws, and every hearer may still cross it toward the call.",
+            "bn": "পাশের আয়াতগুলোর সঙ্গে পড়লে আয়াতটি প্রশ্নটাকে নিজের দিকে ফিরিয়ে দেয়। আল-বাকীনকে দারিদ্র্য, পদমর্যাদা বা বংশ দিয়ে চিহ্নিত করা হয়নি। এ সূরাই একটু আগে দেখিয়েছে, নূহ (আঃ)-এর কওম তাঁর অনুসারীদের সবচেয়ে নিচু লোক বলে ঠাট্টা করেছিল (২৬:১১১)। আর বাইরে থেকে গিয়েছিল ঠাট্টাকারীরাই। নৌকার ভেতরে না বাইরে, তা ঠিক করেছিল ডাকের জবাবে মানুষের নিজের উত্তর। আয়াত এই একটি রেখাই টানে, আর প্রত্যেক শ্রোতা আজও ডাকের দিকে সে রেখা পেরোতে পারেন।"
+          },
+          {
+            "en": "So the four words leave the reader with a quiet, searching question. When good counsel reaches me, do I take it, or do I hand it back as Nuh's people did? Do I take comfort in being with the many, when so few were on board? The ship sailed long ago; the call has not gone silent. The reader who lets this verse examine him, rather than his neighbour, is reading it as it was sent.",
+            "bn": "তাই চারটি শব্দ পাঠকের সামনে রেখে যায় একটি শান্ত, গভীর প্রশ্ন। ভালো নসিহত আমার কাছে পৌঁছালে আমি কি তা গ্রহণ করি, নাকি নূহ (আঃ)-এর কওমের মতো ফিরিয়ে দিই? নৌকায় মানুষ এত অল্প ছিল, তবু আমি কি দলে ভারী হওয়াতেই স্বস্তি খুঁজি? সে নৌকা ভেসে গেছে বহুকাল আগে, কিন্তু ডাক থেমে যায়নি। যে পাঠক প্রতিবেশীর বদলে নিজেকে এ আয়াতের সামনে দাঁড় করান, তিনিই আয়াতটা পড়ছেন যেভাবে তা পাঠানো হয়েছিল।"
+          }
+        ]
+      }
+    ]
+  },
   "26:123": {
     "sections": [
       {

@@ -35477,6 +35477,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Weigh a call by its truth, not by who has answered it; no trade or class makes a believer lesser before Allah.",
     "lessonBn": "ডাকটা সত্য কি না সেটা দেখুন, কারা সাড়া দিয়েছে তা দিয়ে বিচার করবেন না। কোনো পেশা বা শ্রেণি একজন মু'মিনকে আল্লাহর কাছে ছোট করে না।"
+  },
+  "26:120": {
+    "reflectionEn": "Four words close the account of Nuh's people: then We drowned, after that, the rest. The verse before has already set Nuh and those with him safe in the laden ship, so the rescue comes first and the drowning second. Nobody is named among the rest. They are simply whoever was left outside, and what left them outside was not their wealth, their rank or their family but their answer to the call. The next verses call it a sign and repeat that most did not believe, which means the sign is addressed to those who hear it later. It is not a lens for reading the floods of my own time. Where do I stand when a call is made?",
+    "reflectionBn": "নূহ (আঃ)-এর কওমের কাহিনি শেষ হয় চারটি শব্দে: তারপর আমি ডুবিয়ে দিলাম, এর পরে, বাকিদের। আগের আয়াতেই নূহ (আঃ) আর তাঁর সঙ্গীরা বোঝাই নৌকায় নিরাপদে উঠে গেছেন। তাই আগে উদ্ধার, পরে ডুবে যাওয়া। বাকিদের কারও নাম নেই। তারা শুধু সেই লোকেরা, যারা বাইরে থেকে গেল। আর বাইরে তাদের রেখেছিল ধনসম্পদ নয়, মর্যাদা নয়, বংশও নয়, রেখেছিল ডাকের জবাবে তাদের নিজেদের উত্তর। পরের আয়াত একে নিদর্শন বলে, আর বলে অধিকাংশই ঈমান আনেনি। মানে নিদর্শনটা পাঠানো হয়েছে পরে যারা শুনবে তাদের কাছে। আমার সময়ের বন্যা মাপার চশমা এটা নয়। ডাক যখন আসে, আমি কোথায় দাঁড়াই?",
+    "pointsEn": [
+      "The rescue is told before the drowning. When I think of how Allah deals with people, which half do I tend to remember first?",
+      "The rest were defined by their answer, not their status. Which call to good have I been leaving unanswered, and what am I waiting for?",
+      "The ship was full, yet few were in it. Do I take comfort in being with the many, or ask whether the many are right?",
+      "When a disaster strikes people today, do I reach for a verdict on them, or for help, prayer and a look at my own heart?",
+      "This story is called a sign for later hearers. What would change this week if I read it as addressed to me?"
+    ],
+    "pointsBn": [
+      "উদ্ধারের কথা ডুবে যাওয়ার আগে বলা হয়েছে। মানুষের সঙ্গে আল্লাহর আচরণের কথা ভাবলে আমার মনে আগে কোন অংশটা আসে?",
+      "বাকিদের পরিচয় ঠিক করেছে তাদের জবাব, তাদের পদমর্যাদা নয়। ভালোর কোন ডাক আমি এখনো ফেলে রেখেছি, আর কিসের অপেক্ষায় আছি?",
+      "নৌকা ভরা ছিল, তবু তাতে মানুষ ছিল অল্প। আমি কি দলে ভারী হওয়াতেই স্বস্তি খুঁজি, নাকি জিজ্ঞেস করি দলটা ঠিক পথে আছে কি না?",
+      "আজ কোথাও দুর্যোগ এলে আমি কি আক্রান্ত মানুষদের নিয়ে রায় দিতে বসি, নাকি সাহায্য, দোয়া আর নিজের অন্তরের হিসাবের দিকে হাত বাড়াই?",
+      "পরে যারা শুনবে, তাদের জন্য এ কাহিনিকে নিদর্শন বলা হয়েছে। নিজেকে এর শ্রোতা ধরে পড়লে এ সপ্তাহে আমার কী বদলাত?"
+    ],
+    "lessonEn": "Allah saved the believers before He drowned the rest; let the story turn you toward the call, and never read anyone's disaster today as His verdict on them.",
+    "lessonBn": "বাকিদের ডোবানোর আগে আল্লাহ মুমিনদের রক্ষা করেছেন। কাহিনিটা যেন আপনাকে ডাকের দিকে ফেরায়, আর আজ কারও দুর্যোগকে কখনো তাদের উপর আল্লাহর রায় বলে পড়বেন না।"
   }
 };
 
