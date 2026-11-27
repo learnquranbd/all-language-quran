@@ -35953,6 +35953,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When the Horn sounds, the heavens and the earth are seized with fear and all come to Allah humbled. Be humble before Him now, and seek the deeds that keep you safe that Day.",
     "lessonBn": "শিঙ্গায় ফুঁ পড়লে আসমান-জমিন ভয়ে কেঁপে উঠবে, আর সবাই বিনীত হয়ে আল্লাহর কাছে আসবে। আজই নিজে থেকে তাঁর সামনে নত হোন, আর সেই আমল খুঁজুন যা সেদিন বান্দাকে নিরাপদ রাখে।"
+  },
+  "28:44": {
+    "reflectionEn": "Musa's story has just been told from the beginning: his birth, the river, the flight, the fire on the mountain, the command, the sea. Now Allah turns to His Messenger ﷺ and says: you were not on the western side when We decreed the matter to Musa, and you were not among the witnesses. He was not there, he read no books, and his people knew nothing of it. Yet he told it as one who had seen it. The verse turns his absence into evidence. I was not there either. Almost everything I believe about what came before me and what waits after me reaches me through this same channel. The question is whether I hold it as news I trust or as a story I have heard.",
+    "reflectionBn": "মূসা (আঃ)-এর কাহিনি এইমাত্র শুরু থেকে বলা শেষ হলো। তাঁর জন্ম, নদীতে ভাসানো, পালিয়ে যাওয়া, পাহাড়ের আগুন, আদেশ, সমুদ্র। এবার আল্লাহ তাঁর রাসূল ﷺ-কে বলছেন: মূসাকে যখন আমি বিষয়টির ফয়সালা দিয়েছিলাম, তুমি তখন পশ্চিম প্রান্তে ছিলে না, প্রত্যক্ষদর্শীদের মধ্যেও ছিলে না। তিনি সেখানে ছিলেন না, কোনো কিতাব পড়েননি, তাঁর কওমও এসবের কিছু জানত না। তবু তিনি বললেন এমনভাবে, যেন নিজের চোখে দেখেছেন। তাঁর অনুপস্থিতিকেই আয়াতটি প্রমাণ বানিয়ে দেয়। আমিও তো সেখানে ছিলাম না। আমার আগে কী ঘটেছে আর পরে কী অপেক্ষা করছে, তার প্রায় সবটুকুই আমার কাছে আসে এই একই পথে। প্রশ্ন হলো, আমি কি একে বিশ্বস্ত খবর হিসেবে ধরি, নাকি শোনা গল্প হিসেবে?",
+    "pointsEn": [
+      "When I read the stories of the prophets, do I read them as reports from the One who was present, or as old tales?",
+      "What do I believe about the unseen that I have never once stopped to thank Allah for telling me?",
+      "If a man who read no books could bring this, what is my excuse for leaving the Book unread on my shelf?",
+      "Which of the Qur'an's reports about what is still to come do I live as if I had not heard?",
+      "Do I speak about matters I did not witness with the care of someone who knows he was not there?"
+    ],
+    "pointsBn": [
+      "নবীদের কাহিনি পড়ার সময় আমি কি সেগুলোকে যিনি উপস্থিত ছিলেন তাঁর দেওয়া খবর হিসেবে পড়ি, নাকি পুরোনো গল্প হিসেবে?",
+      "গায়েবের এমন কোন কথা আমি বিশ্বাস করি, যা জানিয়ে দেওয়ার জন্য আল্লাহর শুকরিয়া একবারও আদায় করিনি?",
+      "যিনি কোনো বই পড়েননি তিনি যদি এ কিতাব নিয়ে আসতে পারেন, তবে আমার তাকে কিতাবটি না পড়ে ফেলে রাখার অজুহাত কী?",
+      "সামনে যা আসছে, তা নিয়ে কুরআনের কোন খবরটি নিয়ে আমি এমনভাবে চলি, যেন কখনো শুনিইনি?",
+      "যা নিজের চোখে দেখিনি, তা নিয়ে কথা বলার সময় আমি কি সেই মানুষের মতো সাবধান থাকি, যে জানে সে সেখানে ছিল না?"
+    ],
+    "lessonEn": "The Prophet ﷺ was not there, yet he told Musa's story truly. Receive what revelation tells you of the unseen as trusted news, and live by it.",
+    "lessonBn": "নবী ﷺ সেখানে ছিলেন না, তবু মূসা (আঃ)-এর কাহিনি সত্যভাবে বলেছেন। ওহি গায়েবের যে খবর দেয়, তা বিশ্বস্ত খবর হিসেবে গ্রহণ করুন এবং সে অনুযায়ী চলুন।"
   }
 };
 

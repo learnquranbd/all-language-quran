@@ -1911,6 +1911,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "28:44": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Whole Story",
+          "bn": "পুরো কাহিনি শেষ হওয়ার পর"
+        },
+        "p": [
+          {
+            "en": "Wa ma kunta bi-janibi al-gharbiyyi idh qadayna ila Musa al-amra, wa ma kunta mina ash-shahidin: and you were not on the western side when We decreed the matter to Musa, and you were not among the witnesses. The verse comes at a hinge. Since 28:3 the surah has told Musa's (AS) life in order: the infant cast into the river, the palace, the killing, the flight to Madyan, the fire on the mountain, the confrontation with Pharaoh and his drowning, and then, in 28:43, the Book given to Musa.",
+            "bn": "ওয়া মা কুনতা বিজানিবিল গারবিয়্যি ইয কাদাইনা ইলা মূসাল আমরা, ওয়া মা কুনতা মিনাশ শাহিদীন: মূসাকে যখন আমি বিষয়টির ফয়সালা দিয়েছিলাম, তখন তুমি পশ্চিম প্রান্তে ছিলে না, আর তুমি প্রত্যক্ষদর্শীদের মধ্যেও ছিলে না। আয়াতটি এসেছে এক মোড়ে। ২৮:৩ থেকে সূরাটি মূসা (আঃ)-এর জীবন ধারাবাহিকভাবে বলে এসেছে। নদীতে ভাসানো শিশু, রাজপ্রাসাদ, হত্যার ঘটনা, মাদইয়ানে পালিয়ে যাওয়া, পাহাড়ের আগুন, ফিরআউনের মুখোমুখি হওয়া আর তার ডুবে মরা। তারপর ২৮:৪৩ আয়াতে মূসাকে কিতাব দেওয়ার কথা।"
+          },
+          {
+            "en": "Now the address turns. The narrator stops narrating and speaks to the man through whom the story came. Ibn Kathir marks the turn exactly: Allah says this here after telling the story of Musa from its beginning to its end, and how Allah's revelation to him began and how He spoke to him. The verse is no longer about Musa. It is about the man reciting Musa's story in Makkah, and about the question every listener there had a right to ask: how does he know?",
+            "bn": "এবার সম্বোধনের দিক বদলে যায়। যিনি কাহিনি বলছিলেন, তিনি কাহিনি থামিয়ে কথা বলেন তাঁর সঙ্গে, যাঁর মুখ দিয়ে কাহিনিটা মানুষের কাছে পৌঁছেছে। ইবন কাসীর মোড়টা ঠিক ধরিয়ে দেন। তিনি বলেন, মূসার কাহিনি শুরু থেকে শেষ পর্যন্ত বলার পর, তাঁর কাছে আল্লাহর ওহি কীভাবে শুরু হলো আর আল্লাহ কীভাবে তাঁর সঙ্গে কথা বললেন তা জানানোর পর, এখানে এসে আল্লাহ এ কথা বলছেন। আয়াতটি তাই আর মূসাকে নিয়ে নয়। এটি মক্কায় সেই মানুষটিকে নিয়ে, যিনি মূসার কাহিনি তিলাওয়াত করছেন। আর সেখানকার প্রত্যেক শ্রোতার যে প্রশ্ন করার অধিকার ছিল, তা নিয়ে: তিনি এসব জানলেন কীভাবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Western Side of What?",
+          "bn": "কিসের পশ্চিম প্রান্ত?"
+        },
+        "p": [
+          {
+            "en": "The Arabic says only bi-janibi al-gharbi, on the side of the western, and leaves the listener to supply what was western. Most of the commentators supply the mountain. At-Tabari glosses it as the western side of the mountain, and relays the same wording from Qatada and from Ibn Jurayj. Al-Qurtubi has the side of the western mountain, and cites a line of poetry that uses al-gharbi in the same way. The Muyassar says the western side of the mountain from Musa, and as-Sa'di names it: the western side of at-Tur.",
+            "bn": "আরবিতে আছে শুধু বিজানিবিল গারবি, পশ্চিমটির পাশে। কোন জিনিসটা পশ্চিমে, তা শ্রোতাকেই বুঝে নিতে হয়। বেশির ভাগ তাফসীরকার এখানে পাহাড় ধরে নেন। তাবারী এর ব্যাখ্যা দেন পাহাড়ের পশ্চিম দিক বলে, আর একই কথা বর্ণনা করেন কাতাদা ও ইবন জুরাইজ থেকে। কুরতুবীর ভাষায়, পশ্চিমের পাহাড়টির পাশে। তিনি একটি কবিতার চরণও আনেন, যেখানে আল-গারবি শব্দটি এভাবেই ব্যবহৃত হয়েছে। মুয়াসসার বলে, মূসার কাছ থেকে পাহাড়ের পশ্চিম দিকে। আর সা'দী জায়গাটির নাম বলে দেন: তূর পাহাড়ের পশ্চিম দিক।"
+          },
+          {
+            "en": "Al-Baghawi records that the early authorities did not all agree. The western mountain, he reports, is the reading of Qatada and as-Suddi; al-Kalbi said instead the western side of the valley. Al-Baghawi then gives Ibn Abbas (RA) on the purpose of the phrase rather than its geography: he means the place where Musa conversed privately with his Lord. For the verse's argument the difference between mountain and valley matters little, but al-Baghawi keeps both names and does not choose between them.",
+            "bn": "বাগাভী জানান, প্রথম যুগের আলেমরা সবাই একমত ছিলেন না। পশ্চিমের পাহাড়, এ ব্যাখ্যা কাতাদা ও সুদ্দীর। কালবী বলেছেন উপত্যকার পশ্চিম দিক। এরপর বাগাভী ইবন আব্বাস (রাঃ)-এর কথা আনেন, যিনি জায়গার ভূগোল নয়, শব্দগুলোর উদ্দেশ্য বলেছেন: এর দ্বারা সেই জায়গা বোঝানো হয়েছে, যেখানে মূসা একান্তে তাঁর রবের সঙ্গে কথা বলেছিলেন। আয়াতের যুক্তির জন্য পাহাড় না উপত্যকা, তাতে তেমন কিছু আসে যায় না। তবু বাগাভী দুটো নামই রেখে দেন, কোনোটিকে বেছে নেন না।"
+          },
+          {
+            "en": "Ibn Kathir adds a detail of placement. You were not, he writes, on the western side of the mountain at which Allah spoke to Musa from the tree, which was eastern, on the bank of the valley. The Qur'an itself has already set that scene in 28:30, where Musa is called from the right bank of the valley, in the blessed spot, from the tree. Whatever the exact orientation, every reading points at one place: the ground where Musa (AS) heard his Lord, and where no one from Makkah stood.",
+            "bn": "ইবন কাসীর জায়গাটির অবস্থান নিয়ে একটু বেশি বলেন। তাঁর ভাষায়, তুমি পাহাড়ের সেই পশ্চিম দিকে ছিলে না, যেখানে আল্লাহ মূসার সঙ্গে কথা বলেছিলেন গাছের দিক থেকে। আর সে গাছটি ছিল পূর্ব দিকে, উপত্যকার কিনারে। দৃশ্যটি কুরআন নিজেই আগে এঁকে দিয়েছে ২৮:৩০ আয়াতে, যেখানে মূসাকে ডাকা হয় উপত্যকার ডান কিনারা থেকে, বরকতময় স্থানে, গাছের দিক থেকে। দিক নিয়ে খুঁটিনাটি যা-ই হোক, প্রতিটি ব্যাখ্যা একই জায়গার দিকে ইশারা করে। সেই মাটি, যেখানে মূসা (আঃ) তাঁর রবের কথা শুনেছিলেন, আর যেখানে মক্কার কেউ দাঁড়িয়ে ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Law Laid Down, or a Mission",
+          "bn": "শরীয়ত, নাকি দাওয়াতের দায়িত্ব"
+        },
+        "p": [
+          {
+            "en": "Idh qadayna ila Musa al-amr: when We decreed the matter to Musa. The commentators gloss the verb qadayna in more than one way. At-Tabari reads it as obligation: when We laid upon Musa the command, in what We made binding on him and his people, and the covenant We entrusted to him. The Muyassar is close: when We charged him with Our command and Our prohibition. Al-Qurtubi gives the same first reading in nearly the same words, that We charged him and bound him to Our covenant.",
+            "bn": "ইয কাদাইনা ইলা মূসাল আমর: যখন আমি মূসার কাছে বিষয়টির ফয়সালা দিয়েছিলাম। কাদাইনা ক্রিয়াটির ব্যাখ্যা তাফসীরকারেরা একভাবে করেননি। তাবারী একে দায়িত্ব অর্থে পড়েন। তাঁর ব্যাখ্যায়, যখন আমি মূসার উপর আদেশ ফরজ করেছিলাম, যা তাঁর ও তাঁর কওমের জন্য বাধ্যতামূলক করেছিলাম, আর তাঁর কাছ থেকে যে অঙ্গীকার নিয়েছিলাম। মুয়াসসারও কাছাকাছি কথা বলে: যখন আমি তাঁকে আমার আদেশ ও নিষেধের দায়িত্ব দিয়েছিলাম। কুরতুবীর প্রথম ব্যাখ্যাও প্রায় একই ভাষায়: আমি তাঁকে দায়িত্ব দিয়েছিলাম আর আমার অঙ্গীকারে বেঁধে দিয়েছিলাম।"
+          },
+          {
+            "en": "Al-Baghawi reads the same words toward a different moment. For him, qadayna ila Musa al-amr means that We made a covenant with him and settled the matter with him by the mission to Pharaoh and his people. On that reading the scene is the commissioning, the night of the fire, when Musa was sent to the court of Egypt. On at-Tabari's reading it is the laying down of what Musa and his people were bound to keep, which sits naturally beside the Book of 28:43.",
+            "bn": "বাগাভী একই শব্দগুলো পড়েন আরেকটি মুহূর্তের দিকে। তাঁর মতে কাদাইনা ইলা মূসাল আমর মানে, আমি তাঁর কাছ থেকে অঙ্গীকার নিয়েছিলাম এবং ফিরআউন ও তার লোকদের কাছে রিসালাত দিয়ে পাঠানোর বিষয়টি তাঁর সঙ্গে পাকা করেছিলাম। এ পড়ায় দৃশ্যটি হলো দায়িত্ব অর্পণের, আগুন দেখার সেই রাতের, যখন মূসাকে মিসরের রাজদরবারে পাঠানো হয়। তাবারীর পড়ায় দৃশ্যটি হলো মূসা ও তাঁর কওমকে যা মেনে চলতে হবে তা নির্ধারণ করে দেওয়ার। এ পড়া ২৮:৪৩ আয়াতের কিতাবের পাশে স্বাভাবিকভাবেই বসে যায়।"
+          },
+          {
+            "en": "The commentators fetched here do not argue the point against each other; each simply gives his reading. The two can be held side by side, and the verse loses nothing either way. Whether the moment was the first commission or the binding covenant, it was a moment between Allah and Musa (AS) alone at the mountain, and the verse's claim is the same: the Prophet ﷺ, now reciting it, was not present for it.",
+            "bn": "এখানে যাঁদের তাফসীর দেখা হয়েছে, তাঁরা এ নিয়ে একে অন্যের সঙ্গে তর্কে যান না। প্রত্যেকে কেবল নিজের ব্যাখ্যাটি দেন। দুটি ব্যাখ্যা পাশাপাশি রাখা যায়, আর কোনোটিতেই আয়াতের অর্থ কমে না। মুহূর্তটি প্রথম দায়িত্ব অর্পণের হোক বা অঙ্গীকারে বাঁধার, তা ছিল পাহাড়ে আল্লাহ ও মূসা (আঃ)-এর মধ্যকার একান্ত মুহূর্ত। আর আয়াতের দাবিও একই থাকে: আজ যিনি এটি তিলাওয়াত করছেন, সেই নবী ﷺ সেখানে উপস্থিত ছিলেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Your Matter, Told to Musa",
+          "bn": "মূসাকে জানানো তোমার কথা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records a further reading, introduced with it is said: that al-amr here is your matter, the Prophet's ﷺ, so that the verse means when We decreed your matter to Musa and mentioned you with the finest mention. He then gives Ibn Abbas (RA) as saying that idh qadayna means when We informed him that the community of Muhammad is the best of communities. Al-Qurtubi relays both without a chain and without weighing them against the first reading, which he placed first.",
+            "bn": "কুরতুবী আরেকটি ব্যাখ্যা উল্লেখ করেন 'বলা হয়' কথাটি দিয়ে। এ মতে আল-আমর এখানে নবী ﷺ-এর নিজের বিষয়। তখন আয়াতের অর্থ দাঁড়ায়: যখন আমি মূসার কাছে তোমার বিষয়টি জানিয়েছিলাম আর তোমাকে সবচেয়ে সুন্দরভাবে স্মরণ করেছিলাম। এরপর তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন: ইয কাদাইনা মানে, যখন আমি তাঁকে জানিয়েছিলাম যে মুহাম্মাদের উম্মত সব উম্মতের মধ্যে শ্রেষ্ঠ। কুরতুবী দুটোই বর্ণনা করেন কোনো সনদ ছাড়া। প্রথম ব্যাখ্যাটি তিনি আগে রেখেছেন, আর এ দুটোকে তার সঙ্গে তুলনা করে কোনো রায় দেননি।"
+          },
+          {
+            "en": "At-Tabari, among the reports he lists after his own gloss, also relays a saying of Abu Zur'a ibn 'Amr about the community of Muhammad ﷺ, which Abu Zur'a connected to this verse. Its chain stops at Abu Zur'a and is not raised to the Prophet ﷺ, at-Tabari gives it no grading, and it is not quoted or relied on here. Al-Qurtubi's second reading comes under it is said, and every gloss the commentators put first keeps al-amr as Musa's own charge.",
+            "bn": "নিজের ব্যাখ্যার পর তাবারী যে বর্ণনাগুলো আনেন, তার মধ্যে আবূ যুরআ ইবন আমরের একটি কথাও আছে। কথাটি মুহাম্মাদ ﷺ-এর উম্মত সম্পর্কে, আর আবূ যুরআ তা এ আয়াতের সঙ্গে যুক্ত করেছিলেন। এর সনদ আবূ যুরআ পর্যন্ত গিয়ে থেমে গেছে, নবী ﷺ পর্যন্ত পৌঁছায়নি। তাবারী এর কোনো মান নির্ণয় করেননি। তাই এখানে এর ভাষা উদ্ধৃত করা হয়নি, এর উপর কিছু দাঁড় করানোও হয়নি। কুরতুবীর দ্বিতীয় ব্যাখ্যাটি এসেছে 'বলা হয়' দিয়ে। আর তাফসীরকারেরা যে ব্যাখ্যা প্রথমে রেখেছেন, তার প্রতিটিতে আল-আমর মূসার নিজের দায়িত্বই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not One of Those Present",
+          "bn": "উপস্থিতদের কেউ নন"
+        },
+        "p": [
+          {
+            "en": "The second clause, wa ma kunta mina ash-shahidin, closes the sentence. Al-Qurtubi glosses ash-shahidin simply as al-hadirin, those who were present. At-Tabari reads it as: you were not among the witnesses to that. Al-Baghawi spells out what presence would have meant: you were not among those present at that station, so that you could relate it from yourself. The first clause said where he was not; the second says what he was not. He was not in the place, and he was not among the people who saw it.",
+            "bn": "দ্বিতীয় অংশ, ওয়া মা কুনতা মিনাশ শাহিদীন, বাক্যটি শেষ করে। কুরতুবী আশ-শাহিদীনের অর্থ করেন সহজভাবে, আল-হাদিরীন, যারা উপস্থিত ছিল। তাবারীর পড়ায়: তুমি সে ঘটনার সাক্ষীদের মধ্যে ছিলে না। উপস্থিত থাকলে কী হতো, বাগাভী তা খুলে বলেন: সেই জায়গায় যারা হাজির ছিল, তুমি তাদের একজন ছিলে না যে নিজের থেকে তা বর্ণনা করবে। প্রথম অংশ বলেছে তিনি কোথায় ছিলেন না। দ্বিতীয় অংশ বলে তিনি কী ছিলেন না। জায়গাটিতে তিনি ছিলেন না, যারা ঘটনাটি দেখেছে তাদের দলেও ছিলেন না।"
+          },
+          {
+            "en": "The Muyassar and as-Sa'di end their glosses with the same pointed clause: such that anyone could say it reached you by that route. The verse shuts one door through which knowledge of Musa's story could have come, the door of having been there. The other doors are shut by what the listeners already knew of the man. None of the commentaries fetched for this verse attaches a hadith to it, and the argument does not need one; it rests on facts the first listeners could check for themselves.",
+            "bn": "মুয়াসসার আর সা'দী দুজনেই তাঁদের ব্যাখ্যা শেষ করেন একই তীক্ষ্ণ কথায়: তুমি এমনভাবে উপস্থিত ছিলে না যে কেউ বলতে পারবে, খবরটা ওই পথেই তোমার কাছে পৌঁছেছে। মূসার কাহিনি জানার একটি দরজা ছিল, নিজে সেখানে থাকা। আয়াতটি সে দরজা বন্ধ করে দেয়। বাকি দরজাগুলো বন্ধ করে দেয় এ মানুষটি সম্পর্কে শ্রোতারা আগে থেকে যা জানত। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি। যুক্তিটির হাদীসের প্রয়োজনও নেই। এর ভিত্তি এমন সব তথ্য, যা প্রথম শ্রোতারা নিজেরাই যাচাই করে নিতে পারত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Man Who Read No Books",
+          "bn": "যিনি কোনো বই পড়েননি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens his comment on this verse by naming its purpose: Allah is drawing attention to a proof of the prophethood of Muhammad ﷺ. The proof is that he told of hidden things from the past, in a report given as though its hearer had been a witness and seen what went before. And he was, Ibn Kathir continues, an unlettered man who read nothing from books, raised among a people who knew nothing of such things.",
+            "bn": "এ আয়াতের আলোচনার শুরুতেই ইবন কাসীর এর উদ্দেশ্য বলে দেন। আল্লাহ এখানে মুহাম্মাদ ﷺ-এর নবুওয়াতের একটি প্রমাণের দিকে দৃষ্টি আকর্ষণ করছেন। প্রমাণটি হলো, তিনি অতীতের গায়েবি বিষয়ের খবর দিয়েছেন এমনভাবে, যেন খবরটির শ্রোতা নিজেই সাক্ষী ছিল আর আগের ঘটনা চোখে দেখেছে। ইবন কাসীর আরও বলেন, অথচ তিনি ছিলেন উম্মী মানুষ। কোনো বই থেকে তিনি কিছুই পড়েননি। আর তিনি বড় হয়েছেন এমন এক কওমের মধ্যে, যারা এসবের কিছুই জানত না।"
+          },
+          {
+            "en": "As-Sa'di frames the same point from the listener's side. Once Allah had related these reports of the unseen to His Messenger, He alerted His servants that this is purely divine news, and that the Messenger had no route to knowing it except by way of revelation. Put together, the commentators leave three routes closed: he was not there, he read no books, and no one around him knew the story to tell it. What remains is the route the verse names in its sequel.",
+            "bn": "সা'দী একই কথা বলেন শ্রোতার দিক থেকে। আল্লাহ যখন তাঁর রাসূলকে গায়েবের এ খবরগুলো শোনালেন, তখন বান্দাদের সতর্ক করে দিলেন যে এটি নিছক আল্লাহর দেওয়া খবর। ওহি ছাড়া রাসূলের এটি জানার আর কোনো পথ ছিল না। তাফসীরকারদের কথা একসঙ্গে রাখলে তিনটি পথ বন্ধ হয়ে যায়। তিনি সেখানে ছিলেন না, কোনো বই পড়েননি, আর তাঁর আশপাশের কেউ কাহিনিটা জানত না যে তাঁকে বলে দেবে। বাকি থাকে সেই পথ, যার নাম পরের আয়াতেই আছে।"
+          },
+          {
+            "en": "Ibn Kathir places the verse in a family. The Qur'an makes the same move after Maryam's story in 3:44, after Nuh's in 11:49, near the close of Hud at 11:100, after Yusuf's in 12:102, and in Ta-Ha at 20:99. Each time, a narrative ends by pointing to where the knowledge came from: it was related to the Prophet ﷺ, not seen by him. In 3:44 and 12:102 the wording is close to this verse: you were not with them. Here the same reminder closes Musa's story, which this surah has told from his birth onward.",
+            "bn": "ইবন কাসীর আয়াতটিকে একই ধরনের আরও কয়েকটি আয়াতের পাশে রাখেন। মারইয়ামের কাহিনির পর ৩:৪৪ আয়াতে, নূহের কাহিনির পর ১১:৪৯ আয়াতে, সূরা হূদের শেষ দিকে ১১:১০০ আয়াতে, ইউসুফের কাহিনির পর ১২:১০২ আয়াতে, আর সূরা ত্বা-হার ২০:৯৯ আয়াতে কুরআন একই কাজ করে। প্রতিবার কাহিনি শেষ হয় এ জ্ঞান কোথা থেকে এল সেদিকে ইশারা করে। নবী ﷺ-কে তা শোনানো হয়েছে, তিনি নিজে দেখেননি। ৩:৪৪ আর ১২:১০২ আয়াতের ভাষা এ আয়াতের খুব কাছাকাছি: তুমি তাদের কাছে ছিলে না। এখানে একই কথা এসে শেষ করে দেয় মূসার কাহিনি, যা এ সূরা বলে এসেছে তাঁর জন্ম থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Absences, One Sender",
+          "bn": "তিন অনুপস্থিতি, এক প্রেরক"
+        },
+        "p": [
+          {
+            "en": "The argument does not stop at this verse. The next two verses repeat its form. In 28:45 the Prophet ﷺ was not living among the people of Madyan, reciting Our verses to them; Ibn Kathir, in the abridged English that treats 28:44 to 28:47 together, explains that he was not there when he came to tell of Shu'ayb and what passed between him and his people. In 28:46 he was not at the side of the Mount when We called. Ibn Kathir relays Qatada that the call there was to Musa, and calls it a more specific way of saying what 28:44 said.",
+            "bn": "যুক্তিটা এ আয়াতে এসেই থামে না। পরের দুটি আয়াত একই ধাঁচে কথাটা ফিরিয়ে আনে। ২৮:৪৫ আয়াতে নবী ﷺ মাদইয়ানবাসীদের মধ্যে বসবাস করে তাদের কাছে আমার আয়াত তিলাওয়াত করছিলেন না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ২৮:৪৪ থেকে ২৮:৪৭ একসঙ্গে আলোচনা করে। সেখানে তিনি ব্যাখ্যা করেন, শুআইব আর তাঁর কওমের মধ্যে যা ঘটেছিল, সে কথা যখন তিনি শোনাচ্ছেন, তখন তিনি সেখানে ছিলেন না। ২৮:৪৬ আয়াতে, আমি যখন ডেকেছিলাম, তুমি তখন তূর পাহাড়ের পাশে ছিলে না। ইবন কাসীর কাতাদা থেকে বর্ণনা করেন যে সে ডাক ছিল মূসাকে। তাঁর মতে এটি ২৮:৪৪ আয়াতেরই কথা, আরও নির্দিষ্ট করে, ডাক হিসেবে বলা।"
+          },
+          {
+            "en": "Each absence is followed by its answer. After Madyan comes wa lakinna kunna mursilin, but it was We who were sending, which Ibn Kathir reads as: We revealed it to you and sent you as a Messenger. After the Mount comes rahmatan min rabbika, a mercy from your Lord, sent to warn a people to whom no warner had come. The verse that follows, 28:47, gives the reason for sending him: so that, when punishment struck, no one could plead that no messenger had come to them.",
+            "bn": "প্রতিটি অনুপস্থিতির পরেই আসে তার জবাব। মাদইয়ানের কথার পর আসে ওয়া লাকিন্না কুন্না মুরসিলীন, কিন্তু পাঠাচ্ছিলাম তো আমিই। ইবন কাসীর এর অর্থ করেন: আমিই তোমার কাছে তা ওহি করেছি আর তোমাকে রাসূল করে পাঠিয়েছি। তূর পাহাড়ের কথার পর আসে রাহমাতাম মির রাব্বিকা, তোমার রবের পক্ষ থেকে রহমত, এমন এক কওমকে সতর্ক করার জন্য যাদের কাছে আগে কোনো সতর্ককারী আসেনি। এর পরের আয়াত, ২৮:৪৭, তাঁকে পাঠানোর কারণ বলে দেয়: শাস্তি যখন আসবে, কেউ যেন এ অজুহাত দিতে না পারে যে তাদের কাছে কোনো রাসূল আসেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing What I Never Saw",
+          "bn": "যা কখনো দেখিনি, তা জানা"
+        },
+        "p": [
+          {
+            "en": "The verse argues with the people who first heard it, in Makkah, about one claim: where this knowledge came from. It describes what it describes. It licenses nothing against any living person or community, and gives no one a weapon against those who read Musa's story in other books today. The next verses, 28:48 to 28:50, record what that first audience said in reply, and the Qur'an answers them there with a challenge: bring a book from Allah that guides better, and I will follow it.",
+            "bn": "আয়াতটি তর্ক করছে মক্কায় যারা প্রথম এটি শুনেছিল তাদের সঙ্গে, আর তা একটি দাবি নিয়েই: এ জ্ঞান এল কোথা থেকে। আয়াত যা বর্ণনা করে, ঠিক ততটুকুই বলে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। আজ যারা অন্য কিতাবে মূসার কাহিনি পড়ে, তাদের বিরুদ্ধেও কাউকে কোনো অস্ত্র তুলে দেয় না। পরের আয়াতগুলো, ২৮:৪৮ থেকে ২৮:৫০, জানায় সেই প্রথম শ্রোতারা কী জবাব দিয়েছিল। কুরআন সেখানে তাদের জবাব দেয় একটি চ্যালেঞ্জ দিয়ে: আল্লাহর কাছ থেকে এর চেয়ে বেশি পথ দেখায় এমন কিতাব নিয়ে এসো, আমি তা মেনে চলব।"
+          },
+          {
+            "en": "For the reader, the verse sets a quieter question. I was not on the western side either, nor at Madyan, nor at the sea. Almost everything I hold about the prophets, and everything I hold about what waits after death, reaches me as news from the Lord who witnessed all of it. The Prophet ﷺ received it the same way, and the verse asks that it be received as news, not as legend. That means reading it, trusting it, and letting it shape the day, the way a true report from a reliable witness should.",
+            "bn": "পাঠকের সামনে আয়াতটি রাখে আরও নিভৃত এক প্রশ্ন। আমিও তো পশ্চিম প্রান্তে ছিলাম না, মাদইয়ানে ছিলাম না, সমুদ্রের তীরেও না। নবীদের সম্পর্কে আমার বিশ্বাসের প্রায় সবটুকু, আর মৃত্যুর পরে কী অপেক্ষা করছে সে বিশ্বাসের পুরোটা, আমার কাছে আসে খবর হিসেবে, তাঁর কাছ থেকে, যিনি সবকিছুর সাক্ষী। নবী ﷺ-ও তা পেয়েছিলেন এভাবেই। আয়াতটি চায়, এ খবরকে খবর হিসেবেই নেওয়া হোক, কিংবদন্তি হিসেবে নয়। তার মানে তা পড়া, তার উপর ভরসা রাখা, আর দিনের চলাফেরা তা দিয়ে গড়ে নেওয়া, নির্ভরযোগ্য সাক্ষীর সত্য খবর যেভাবে গ্রহণ করা উচিত।"
+          }
+        ]
+      }
+    ]
+  },
   "28:47": {
     "sections": [
       {
