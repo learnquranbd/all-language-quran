@@ -34539,6 +34539,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Lean for protection on Allah alone; whatever you set up beside Him cannot even save itself, let alone shelter you from Him.",
     "lessonBn": "রক্ষার জন্য কেবল আল্লাহর উপর ভরসা রাখুন। তাঁর পাশে যা-ই দাঁড় করান, তা নিজেকেই বাঁচাতে পারে না, তাঁর হাত থেকে আপনাকে আড়াল করবে কী করে?"
+  },
+  "21:78": {
+    "reflectionEn": "A flock slips out at night, and by morning a man's field is stripped bare. Two men stand before the judges. The Qur'an does not give their names, only the field, the sheep and the hour. Then it adds a sentence that changes the whole scene: We were witness to their judgement. Every ruling that day, the judges' reasoning and both men's claims, was given in full view of Allah. That is a weight and a comfort at once. When I settle a quarrel at home or at work, do I judge as one who is being watched? And when the damage came from something of mine, left loose in the dark, do I answer for it?",
+    "reflectionBn": "রাতের অন্ধকারে একপাল মেষ খোঁয়াড় থেকে বেরিয়ে পড়ে, আর সকালে দেখা যায় এক মানুষের ক্ষেত সাফ। দুজন লোক বিচারকদের সামনে দাঁড়ায়। কুরআন তাদের নাম বলে না, বলে শুধু ক্ষেত, মেষ আর রাতের কথা। তারপর এমন একটি বাক্য জুড়ে দেয়, যা গোটা দৃশ্যটাই বদলে দেয়: আমি তাদের বিচার প্রত্যক্ষ করছিলাম। সেদিনের প্রতিটি রায়, বিচারকদের যুক্তি আর দুই পক্ষের দাবি, সবই ঘটেছিল আল্লাহর চোখের সামনে। কথাটা একই সঙ্গে ভার আর সান্ত্বনা। ঘরে বা কাজের জায়গায় যখন কোনো ঝগড়া মেটাই, আমি কি এমনভাবে রায় দিই যেন কেউ দেখছেন? আর ক্ষতিটা যখন হয় আমারই কোনো জিনিস থেকে, যা আমি অন্ধকারে ছেড়ে রেখেছিলাম, তখন কি আমি তার দায় নিই?",
+    "pointsEn": [
+      "When I am asked to settle a dispute, do I remember that Allah sees my reasoning as well as my verdict?",
+      "What of mine, a habit, a tongue, a temper, have I let loose at night to graze in someone else's field?",
+      "When my carelessness has cost someone, do I look for a way to repair what was lost, or only for a reason it was not my fault?",
+      "Do I settle quarrels only by asking who should lose what, or do I also look for a way that lets both sides recover?",
+      "Does knowing that Allah witnessed every judgement make me more careful when I must decide, or do I forget it once the matter is closed?"
+    ],
+    "pointsBn": [
+      "কোনো বিবাদ মেটাতে ডাকা হলে আমার কি মনে থাকে যে আল্লাহ শুধু আমার রায় নয়, রায়ের পেছনের যুক্তিটাও দেখছেন?",
+      "আমার কোন জিনিস, কোনো অভ্যাস, জিহ্বা বা রাগ, আমি রাতের বেলা ছেড়ে দিয়েছি, যা গিয়ে অন্যের ক্ষেতে চরে বেড়ায়?",
+      "আমার অবহেলায় কারও ক্ষতি হলে আমি কি হারানো জিনিস ফিরিয়ে দেওয়ার পথ খুঁজি, নাকি শুধু খুঁজি কেন দোষটা আমার নয়?",
+      "ঝগড়া মেটাতে গিয়ে আমি কি কেবল ভাবি কে কী হারাবে, নাকি এমন পথও খুঁজি যাতে দুই পক্ষই আবার দাঁড়াতে পারে?",
+      "আল্লাহ প্রতিটি বিচার প্রত্যক্ষ করেন, এ কথা জানা কি সিদ্ধান্ত নেওয়ার সময় আমাকে আরও সাবধান করে, নাকি বিষয়টা মিটে গেলেই তা ভুলে যাই?"
+    ],
+    "lessonEn": "Judge as one whom Allah is watching, and when something of yours has done harm, look for the remedy that restores what was lost.",
+    "lessonBn": "এমনভাবে বিচার করুন যেন আল্লাহ দেখছেন, আর আপনার কোনো কিছু থেকে ক্ষতি হলে এমন প্রতিকার খুঁজুন যাতে হারানো জিনিস ফিরে আসে।"
   }
 };
 

@@ -3223,6 +3223,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:78": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Field Brought to Judgement",
+          "bn": "বিচারের সামনে এক ক্ষেত"
+        },
+        "p": [
+          {
+            "en": "The surah has been naming prophets in turn: Ibrahim and his line, Lut, then Nuh saved from the flood. With wa-Dawuda wa-Sulaymana the roll call reaches a father and son, and the scene shifts from rescue to a courtroom. At-Tabari reads the opening as an address to the Prophet ﷺ: and remember, O Muhammad, David and Solomon when they judged concerning the field. As-Sa'di adds the tone of that remembering: mention these two noble prophets with praise and honour, since Allah had given them wide knowledge and the work of judging between His servants.",
+            "bn": "সূরাটি পালা করে নবীদের কথা বলে আসছে: ইবরাহীম (আঃ) ও তাঁর বংশধর, লূত (আঃ), তারপর বন্যা থেকে রক্ষা পাওয়া নূহ (আঃ)। ওয়া দাঊদা ওয়া সুলায়মানা বলে এবার তালিকায় আসেন এক পিতা ও তাঁর পুত্র। দৃশ্যটাও বদলে যায়, উদ্ধারের কাহিনি থেকে আমরা চলে আসি বিচারের আসরে। তাবারী শুরুর কথাটিকে নবী ﷺ-এর প্রতি সম্বোধন হিসেবে পড়েন: হে মুহাম্মাদ, স্মরণ করুন দাঊদ ও সুলায়মানকে, যখন তাঁরা ক্ষেতের ব্যাপারে বিচার করছিলেন। সা'দী এই স্মরণের সুরটা ধরিয়ে দেন: এই দুই সম্মানিত নবীর কথা প্রশংসা ও মর্যাদার সঙ্গে উল্লেখ করুন, কারণ আল্লাহ তাঁদের দিয়েছিলেন প্রশস্ত জ্ঞান আর বান্দাদের মধ্যে বিচার করার দায়িত্ব।"
+          },
+          {
+            "en": "The verse is short and almost entirely narrative. It names the judges, the field, the sheep, their owners and the hour, then closes with a sentence about Allah. The next verse, 21:79, says what came of the case and what each prophet was given, and it has its own article. This one stays inside 21:78: the words it chooses, what the early authorities said those words describe, and the line about divine witness that frames the whole hearing.",
+            "bn": "আয়াতটি ছোট, আর প্রায় পুরোটাই বর্ণনা। এতে আছে বিচারকদের নাম, ক্ষেত, মেষ, মেষের মালিক আর ঘটনার সময়। শেষে আল্লাহ সম্পর্কে একটি বাক্য। মামলার পরিণতি কী হলো আর কোন নবীকে কী দেওয়া হলো, সে কথা আছে পরের আয়াতে, ২১:৭৯-এ, আর তার আলোচনা আলাদা। এখানে আমরা থাকব ২১:৭৮-এর ভেতরেই: আয়াতটি কোন শব্দ বেছে নিয়েছে, প্রথম যুগের আলেমদের মতে সেই শব্দগুলো কী বোঝায়, আর গোটা শুনানিকে ঘিরে রাখা আল্লাহর সাক্ষী থাকার বাক্যটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Judges, Each Alone",
+          "bn": "দুই বিচারক, আলাদা রায়"
+        },
+        "p": [
+          {
+            "en": "Idh yahkumani, when the two of them were judging: the verb is dual, and a reader might take it to mean that father and son sat together and issued one ruling between them. Al-Qurtubi rules that reading out. The verse does not mean that they joined in the judgement, he says, even though it joins them in the wording, because two judges giving a single ruling is not permitted. Each of them judged on his own, and Solomon was the one who understood the case, through Allah making him understand it. The verse gathers two separate rulings under one remembering.",
+            "bn": "ইয ইয়াহকুমান, যখন তাঁরা দুজন বিচার করছিলেন। ক্রিয়াটি দ্বিবচন, তাই কেউ ভাবতে পারেন পিতা-পুত্র একসঙ্গে বসে দুজনে মিলে একটি রায় দিয়েছিলেন। কুরতুবী এই পাঠ নাকচ করে দেন। তাঁর কথায়, আয়াত দুজনকে এক বাক্যে এনেছে ঠিকই, কিন্তু বোঝাতে চায়নি যে তাঁরা বিচারে একজোট হয়েছিলেন, কারণ এক রায়ের ওপর দুই বিচারক বসা বৈধ নয়। দুজনের প্রত্যেকে আলাদাভাবে রায় দিয়েছিলেন, আর মামলাটি বুঝেছিলেন সুলায়মান (আঃ), আল্লাহ তাঁকে বুঝিয়ে দিয়েছিলেন বলে। এভাবে আয়াত দুটি পৃথক রায়কে একই স্মরণের ভেতরে জড়ো করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Vines Heavy with Clusters",
+          "bn": "থোকায় ভরা আঙুরলতা"
+        },
+        "p": [
+          {
+            "en": "What was al-harth? The word means tilled ground, and the commentators part over what grew in it. Ibn Kathir and at-Tabari carry from Ibn Mas'ud that it was a vineyard whose grape clusters had formed, and Shurayh said the same. Murra, in at-Tabari, says it was growing plants, and Qatadah reports that the people's sheep fell on a sown crop by night. Al-Baghawi gives the vineyard to Ibn Mas'ud, Ibn Abbas and most commentators, and the sown crop to Qatadah. Al-Qurtubi records both and adds that harth is said of both, though of grain it is the more literal use.",
+            "bn": "আল-হারস বলতে কী ছিল? শব্দটির অর্থ চাষ করা জমি, আর তাতে কী জন্মেছিল তা নিয়ে তাফসীরকারদের মত দুই রকম। ইবন কাসীর ও তাবারী ইবন মাসঊদ (রাঃ) থেকে বর্ণনা করেন, সেটা ছিল আঙুরের বাগান, যাতে থোকা ধরে গিয়েছিল। শুরাইহও একই কথা বলেছেন। তাবারীর বর্ণনায় মুররা বলেন, সেটা ছিল গজিয়ে ওঠা ফসল। কাতাদা জানান, লোকদের মেষ রাতের বেলা একটি শস্যক্ষেতে ঢুকে পড়েছিল। বাগাভী আঙুরবাগানের মতটি দেন ইবন মাসঊদ, ইবন আব্বাস (রাঃ) ও অধিকাংশ তাফসীরকারের নামে, আর শস্যক্ষেতের মতটি কাতাদার নামে। কুরতুবী দুটোই উল্লেখ করে বলেন, হারস শব্দ দুটোর জন্যই চলে, তবে শস্যের বেলায় তা বেশি আক্ষরিক।"
+          },
+          {
+            "en": "At-Tabari settles it in a way worth noticing. The soundest position, he says, is what Allah Himself said, when they judged concerning the field, and harth is simply the tilling of land. It may have been a sown crop and it may have been planted trees, and not knowing which does no harm. The Qur'an gives what the lesson needs, a field someone had worked and was waiting on, and leaves the rest unsaid. A reader who spends the verse arguing over grapes and wheat has walked straight past the two men standing in it.",
+            "bn": "তাবারী বিষয়টির যে মীমাংসা করেন, তা লক্ষ করার মতো। তিনি বলেন, সবচেয়ে সঠিক কথা সেটাই, যা আল্লাহ নিজে বলেছেন: যখন তাঁরা ক্ষেতের ব্যাপারে বিচার করছিলেন। আর হারস মানে কেবল জমি চাষ। তা শস্যও হতে পারে, লাগানো গাছও হতে পারে, আর কোনটা ছিল তা না জানায় কোনো ক্ষতি নেই। শিক্ষার জন্য যতটুকু দরকার, কুরআন ততটুকুই দেয়: এমন এক ক্ষেত, যাতে কেউ খেটেছিল আর যার ফসলের অপেক্ষায় ছিল। বাকিটা সে বলে না। যে পাঠক আঙুর না গম, এই তর্কে আয়াতটা পার করে দেন, তিনি আয়াতের ভেতরে দাঁড়িয়ে থাকা দুই মানুষকেই পাশ কাটিয়ে গেলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Grazing After Dark",
+          "bn": "অন্ধকারে চরে বেড়ানো"
+        },
+        "p": [
+          {
+            "en": "Nafashat fihi ghanamu al-qawm: the people's sheep strayed into it. Ibn Abbas, in Ibn Kathir, says nafash is grazing; Shurayh, az-Zuhri and Qatadah say it is grazing by night, and Qatadah adds that the daytime word is hamal. Al-Qurtubi defines it the same way and gives the condition behind both words: animals grazing with no herdsman. He also relays Ibn Sida's note that hamal is not said of sheep, only of camels. Ma'arif al-Qur'an keeps to the plain sense: an animal getting into a field at night and damaging it.",
+            "bn": "নাফাশাত ফীহি গানামুল কাওম: লোকদের মেষ তাতে ঢুকে চরে বেড়াল। ইবন কাসীরের বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, নাফাশ মানে চরা। শুরাইহ, যুহরী ও কাতাদা বলেন, এ হলো রাতের চরা, আর কাতাদা যোগ করেন, দিনের চরাকে বলে হামাল। কুরতুবীও একই সংজ্ঞা দেন, আর দুটো শব্দের পেছনের শর্তটা জানিয়ে দেন: রাখাল ছাড়া পশুর চরে বেড়ানো। তিনি ইবন সীদার একটি মন্তব্যও আনেন: হামাল শব্দ মেষের বেলায় বলা হয় না, কেবল উটের বেলায়। মাআরিফুল কুরআন সাদামাটা অর্থেই থাকে: রাতের বেলা কোনো পশুর ক্ষেতে ঢুকে তা নষ্ট করা।"
+          },
+          {
+            "en": "The single verb therefore carries the whole circumstance: a flock loose and unattended, at an hour when the field's owner was asleep. At-Tabari spells out the rest of the phrase. Ghanam al-qawm are the sheep of other people, not the owners of the field, which entered the crop by night and grazed it or ruined it. In al-Baghawi the field's owner complains that the other man's sheep broke loose at night and spoiled his field until nothing of it was left. The verse never says the shepherd meant harm. It names an absence of care, and the loss that followed.",
+            "bn": "তাই একটিমাত্র ক্রিয়াই পুরো পরিস্থিতি বহন করে: রাখালহীন, ছাড়া পাওয়া এক পাল মেষ, এমন সময়ে যখন ক্ষেতের মালিক ঘুমিয়ে। বাক্যের বাকি অংশ তাবারী খুলে বলেন। গানামুল কাওম মানে অন্য লোকদের মেষ, ক্ষেতের মালিকদের নয়। সেগুলো রাতের বেলা ফসলে ঢুকে তা খেয়ে ফেলেছিল বা নষ্ট করেছিল। বাগাভীর বর্ণনায় ক্ষেতের মালিক নালিশ করে: এর মেষগুলো রাতে ছাড়া পেয়ে আমার ক্ষেতে ঢুকে এমনভাবে নষ্ট করেছে যে কিছুই আর বাকি নেই। রাখাল ক্ষতি করতে চেয়েছিল, এমন কথা আয়াত কোথাও বলে না। সে শুধু জানায় দেখাশোনার অভাবের কথা, আর তার পরে আসা ক্ষতির কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Flock for Field, or Repair",
+          "bn": "মেষের বদলে ক্ষেত, নাকি মেরামত"
+        },
+        "p": [
+          {
+            "en": "The early authorities supply the details the verse leaves out, each under its own name. In the report at-Tabari gives from Ibn Mas'ud, relayed by Ibn Kathir, David gave the sheep to the vineyard's owner. Solomon said, other than this, O Prophet of Allah: give the vineyard to the shepherd to tend until it returns as it was, and give the sheep to the vineyard's owner to benefit from meanwhile; then each takes back his own. Ibn Kathir says al-Awfi reports the same from Ibn Abbas.",
+            "bn": "আয়াত যে বিস্তারিত বলে না, তা দেন প্রথম যুগের আলেমরা, প্রত্যেকে নিজের নামে। ইবন কাসীর তাবারী থেকে ইবন মাসঊদ (রাঃ)-এর যে বর্ণনা আনেন, তাতে দাঊদ (আঃ) মেষগুলো আঙুরবাগানের মালিককে দিয়ে দেন। সুলায়মান (আঃ) বলেন, হে আল্লাহর নবী, অন্যভাবেও হতে পারে। বাগানটা মেষের মালিককে দেওয়া হোক, সে যত্ন নিয়ে আগের অবস্থায় ফিরিয়ে আনুক। আর মেষগুলো যাক বাগানের মালিকের কাছে, এই সময়টায় সে এগুলো থেকে উপকার নিক। তারপর যার যার জিনিস সে ফেরত নেবে। ইবন কাসীর জানান, আওফী ইবন আব্বাস (রাঃ) থেকেও একই কথা বর্ণনা করেছেন।"
+          },
+          {
+            "en": "The tellings differ in detail. In another report from Ibn Abbas the shepherds leave David's court with their dogs, and Solomon asks how he judged; his ruling gives the field's owner the lambs, milk, ghee and other yield, while the flock's owners sow for him a crop like the one lost. Masruq, in Ibn Abi Hatim's report, says the sheep left neither a leaf nor a cluster, and Ibn Kathir lists Shurayh, Murra, Mujahid, Qatadah and Ibn Zayd as saying the like. Al-Baghawi has, as a further report, Solomon calling his way gentler on both parties, and in his main account David then rules by it.",
+            "bn": "বর্ণনাগুলোর খুঁটিনাটিতে পার্থক্য আছে। ইবন আব্বাস (রাঃ) থেকে আরেক বর্ণনায় রাখালেরা কুকুর সঙ্গে নিয়ে দাঊদ (আঃ)-এর দরবার থেকে বের হয়, আর সুলায়মান (আঃ) জিজ্ঞেস করেন, তিনি তোমাদের মধ্যে কী রায় দিলেন? তাঁর নিজের রায়ে ক্ষেতের মালিক পায় মেষের বাচ্চা, দুধ, ঘি আর অন্যান্য উপকার, আর মেষের মালিকেরা তার জন্য হারানো ফসলের মতো ফসল বুনে দেয়। ইবন আবী হাতিমের বর্ণনায় মাসরূক বলেন, মেষগুলো একটা পাতা বা একটা থোকাও বাকি রাখেনি। ইবন কাসীর জানান, শুরাইহ, মুররা, মুজাহিদ, কাতাদা ও ইবন যায়দও এমনই বলেছেন। বাগাভী আরেকটি বর্ণনা আনেন, যাতে সুলায়মান (আঃ) নিজের পথটিকে দুই পক্ষের জন্যই কোমলতর বলেন। আর তাঁর মূল বর্ণনায় দাঊদ (আঃ) এরপর সেই অনুযায়ী রায় দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Each Ruling Weighed",
+          "bn": "কোন রায় কী বিবেচনা করল"
+        },
+        "p": [
+          {
+            "en": "The commentators also explain why each ruling took its shape, and they do so without blame. The Muyassar says David awarded the sheep to the field's owner as property, in return for what they had destroyed, because their values were equal. As-Sa'di gives a further reason: David looked at the negligence of the flock's owners and penalised them for it. Solomon's ruling, he says, agreed with what was right, letting the owner draw on the flock's milk and wool while the shepherds restored his orchard; this came, in his words, from the fullness of Solomon's understanding.",
+            "bn": "কোন রায় কেন এমন রূপ নিল, তাফসীরকারেরা সেটাও ব্যাখ্যা করেন, আর তা করেন কাউকে দোষ না দিয়ে। মুয়াসসার বলে, দাঊদ (আঃ) মেষগুলো ক্ষেতের মালিককে মালিকানা হিসেবে দিয়েছিলেন, সেগুলো যা নষ্ট করেছিল তার বিনিময়ে, কারণ দুইয়ের মূল্য ছিল সমান। সা'দী আরেকটি কারণ বলেন: দাঊদ (আঃ) মেষের মালিকদের অবহেলার দিকে তাকিয়েছিলেন, আর সেই অবহেলার শাস্তি দিয়েছিলেন। সা'দীর ভাষায়, সুলায়মান (আঃ)-এর রায় সঠিকের সঙ্গে মিলে গিয়েছিল। তাতে ক্ষেতের মালিক মেষের দুধ আর পশম কাজে লাগাত, আর রাখালেরা তার বাগান আগের অবস্থায় ফিরিয়ে আনত। সা'দী বলেন, এ ছিল সুলায়মান (আঃ)-এর বুঝ ও বিচক্ষণতার পূর্ণতা।"
+          },
+          {
+            "en": "Read side by side, the two rulings answer two questions. One asks what the loss was worth and who let it happen; the other asks how both households can be made whole without either losing everything. Ibn Kathir, writing on this passage (21:78 to 21:82 taken together), says plainly that the prophets, peace be upon them, were all protected and supported by Allah. As-Sa'di's opening, that both are to be remembered with praise and honour, sets the same tone. The verse gives no ground for anyone to speak of David as having failed.",
+            "bn": "পাশাপাশি রাখলে দেখা যায়, দুই রায় দুটি আলাদা প্রশ্নের উত্তর দেয়। একটি জানতে চায়, ক্ষতির দাম কত, আর কার গাফিলতিতে তা ঘটল। অন্যটি জানতে চায়, কীভাবে দুই পরিবারই আবার পুরোপুরি দাঁড়াতে পারে, কাউকে সব হারাতে না হয়। ইবন কাসীর এই অংশের আলোচনায় (২১:৭৮ থেকে ২১:৮২ একসঙ্গে) স্পষ্ট বলেন, নবীরা সবাই আল্লাহর হেফাজত ও সাহায্যপ্রাপ্ত ছিলেন। সা'দীর শুরুর কথাটিও একই সুর বাঁধে: দুজনকেই স্মরণ করতে হবে প্রশংসা ও সম্মানের সঙ্গে। দাঊদ (আঃ) ব্যর্থ হয়েছিলেন, এমন কথা বলার কোনো সুযোগ আয়াত কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Witness to the Hearing",
+          "bn": "শুনানির সাক্ষী"
+        },
+        "p": [
+          {
+            "en": "Wa-kunna li-hukmihim shahidin: and We were witness to their judgement. Notice the pronoun. Two judges are named, yet the verse says hukmihim, their judgement, in the plural rather than the dual. Al-Baghawi relays al-Farra': he joined two under a plural because two can count as a plural, as in the verse on inheritance, if he has brothers, his mother receives a sixth (4:11), which is read as two brothers. Al-Qurtubi takes the verse as evidence that the least plural is two, then gives a second reading: the plural takes in the two judges and the party judged.",
+            "bn": "ওয়া কুন্না লিহুকমিহিম শাহিদীন: আর আমি তাদের বিচার প্রত্যক্ষ করছিলাম। সর্বনামটা খেয়াল করুন। নাম এসেছে দুই বিচারকের, অথচ আয়াত বলছে হুকমিহিম, তাদের বিচার, দ্বিবচনে নয়, বহুবচনে। বাগাভী ফাররার ব্যাখ্যা আনেন: দুজনকে বহুবচনে জড়ো করা হয়েছে, কারণ দুইও বহুবচন হিসেবে গণ্য হতে পারে। যেমন উত্তরাধিকারের আয়াতে আছে, তার যদি ভাই থাকে, তবে তার মা পাবে ছয় ভাগের এক ভাগ (৪:১১), আর সেখানে দুই ভাইও ধরা হয়। কুরতুবী আয়াতটিকে প্রমাণ হিসেবে নেন যে বহুবচনের সর্বনিম্ন সংখ্যা দুই। তারপর আরেকটি পাঠও দেন: বহুবচনে দুই বিচারক আর যাদের বিচার হচ্ছিল, সবাই শামিল।"
+          },
+          {
+            "en": "At-Tabari's gloss holds both readings together: We were witnesses to the judgement of David and Solomon and of the people between whom they judged, over what one side's sheep had spoiled of the other's field; nothing of it was hidden from Us, and Our knowledge of it was never absent. Al-Baghawi puts it as, it happened with Our knowledge and in Our sight. The Muyassar says simply, it was not absent from Us. Each of them reads the line as the same assurance, that the whole hearing took place under Allah's eye.",
+            "bn": "তাবারীর ব্যাখ্যায় দুই পাঠই একসঙ্গে ধরা পড়ে: দাঊদ ও সুলায়মানের বিচার, আর যাদের মধ্যে তাঁরা বিচার করছিলেন সেই লোকদের ব্যাপার, অর্থাৎ এক পক্ষের মেষ অন্য পক্ষের ক্ষেতের যা নষ্ট করেছিল, সবকিছুর সাক্ষী ছিলাম আমি। এর কিছুই আমার কাছে গোপন ছিল না, আর এর জ্ঞান কখনো আমার থেকে সরে যায়নি। বাগাভী বলেন, সবকিছু ঘটেছিল আমার জ্ঞানে আর আমার চোখের সামনে। মুয়াসসার সংক্ষেপে বলে, কিছুই আমার অগোচরে ছিল না। সবাই বাক্যটিকে একই আশ্বাস হিসেবে পড়েন: গোটা শুনানিটাই হয়েছিল আল্লাহর দৃষ্টির সামনে।"
+          },
+          {
+            "en": "Ibn Kathir relays from Ibn Abi Hatim how al-Hasan al-Basri recited this verse to a newly appointed judge, Iyas ibn Mu'awiya. Al-Hasan then named three things Allah requires of judges: not to sell His signs for a small price, not to follow their own desires, and not to fear people in their judgements, reciting 38:26 and 5:44 for them. Set beside We were witness, the list reads as a reminder of who is watching, and of why no one else need be feared.",
+            "bn": "ইবন কাসীর ইবন আবী হাতিম থেকে বর্ণনা করেন, হাসান বসরী সদ্য নিযুক্ত বিচারক ইয়াস ইবন মুআবিয়াকে এই আয়াত তিলাওয়াত করে শুনিয়েছিলেন। তারপর তিনি বলেন, আল্লাহ বিচারকদের কাছে তিনটি জিনিস চান: তাঁর আয়াত সামান্য দামে বিক্রি না করা, নিজের খেয়ালখুশির অনুসরণ না করা, আর বিচারের ব্যাপারে মানুষকে ভয় না করা। এর প্রমাণ হিসেবে তিনি ৩৮:২৬ ও ৫:৪৪ তিলাওয়াত করেন। আমি প্রত্যক্ষ করছিলাম, এই কথার পাশে রাখলে তালিকাটা মনে করিয়ে দেয় কে দেখছেন, আর কেন অন্য কাউকে ভয় করার দরকার নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guarded by Day, by Night",
+          "bn": "দিনের পাহারা, রাতের পাহারা"
+        },
+        "p": [
+          {
+            "en": "The words by night drew the jurists' attention early. Ibn Kathir relays from at-Tabari that two men came to Shurayh, one complaining that the other's goat had cut his spun yarn. Shurayh asked, by day or by night? If by day, the goat's owner is cleared; if by night, he is liable. Then he recited this verse. Ibn Kathir says Shurayh's answer resembles a hadith about a she-camel of al-Bara' ibn Azib, which he cites through Ahmad, Abu Dawud and Ibn Majah, and al-Baghawi gives it with his own chain through Malik.",
+            "bn": "রাতের বেলা কথাটি শুরু থেকেই ফকীহদের মনোযোগ কেড়েছে। ইবন কাসীর তাবারী থেকে বর্ণনা করেন, দুজন লোক শুরাইহের কাছে এল। একজনের নালিশ, অন্যজনের ছাগল তার সুতা ছিঁড়ে ফেলেছে। শুরাইহ জিজ্ঞেস করলেন, দিনে না রাতে? দিনে হলে ছাগলের মালিক দায়মুক্ত, রাতে হলে সে ক্ষতিপূরণ দেবে। তারপর তিনি এই আয়াত তিলাওয়াত করলেন। ইবন কাসীর বলেন, শুরাইহের উত্তর বারা ইবন আযিব (রাঃ)-এর একটি উটনী সম্পর্কিত হাদীসের মতো, যা তিনি আহমাদ, আবূ দাঊদ ও ইবন মাজাহর সূত্রে উল্লেখ করেন। বাগাভী হাদীসটি নিজের সনদে মালিকের সূত্রে আনেন।"
+          },
+          {
+            "en": "Abu Dawud's wording (Sunan Abi Dawud 3570) reads: Al-Bara' had a she-camel which was accustomed to graze the standing crop belonging to the people. She entered a garden and did damage to it. The Messenger of Allah ﷺ was informed about it. So he gave decision that the owners of gardens are responsible for guarding them by day, and the owners of the animals are responsible for guarding them by night. Any damage done by animals during the night is a responsibility lying on their owners. Abu Dawud gives it no grading of his own.",
+            "bn": "আবূ দাঊদের ভাষ্য (সুনান আবী দাঊদ ৩৫৭০) এরকম: বারা (রাঃ)-এর একটি উটনী ছিল, যা লোকদের ক্ষেতের ফসল খেয়ে বেড়াতে অভ্যস্ত ছিল। সেটি একটি বাগানে ঢুকে তার ক্ষতি করল। আল্লাহর রাসূল ﷺ-কে বিষয়টি জানানো হলো। তিনি ফায়সালা দিলেন, দিনের বেলা বাগান পাহারার দায়িত্ব বাগানের মালিকদের, আর রাতের বেলা পশু পাহারার দায়িত্ব পশুর মালিকদের। রাতের বেলা পশু যে ক্ষতি করে, তার দায় পশুর মালিকদের ওপর। আবূ দাঊদ নিজে হাদীসটির কোনো মান উল্লেখ করেননি।"
+          },
+          {
+            "en": "Three cautions belong with it. The hadith does not mention this verse; Ibn Kathir and al-Baghawi bring it here, so it is not a report attached to the verse. Ibn Kathir himself notes that the hadith has been faulted for a defect, and refers to his longer discussion in his book on rulings. And the jurists did not all agree: al-Baghawi states the day-and-night rule with its basis in custom, that crops are guarded by day and flocks brought home at night, then records a group of jurists who held an absent owner liable for nothing, by day or night. This article settles no such question.",
+            "bn": "এর সঙ্গে তিনটি সতর্কতা মনে রাখা দরকার। হাদীসটিতে এই আয়াতের উল্লেখ নেই। ইবন কাসীর ও বাগাভী এটিকে এখানে এনেছেন, তাই একে আয়াতের সঙ্গে যুক্ত বর্ণনা বলা যায় না। ইবন কাসীর নিজেই জানান, হাদীসটির সূত্রে ত্রুটির অভিযোগ আছে, আর এ নিয়ে তাঁর বিস্তারিত আলোচনা আছে বিধান বিষয়ক বইয়ে। ফকীহরাও সবাই একমত নন। বাগাভী দিন-রাতের বিধানটি বলেন, আর তার ভিত্তি দেখান প্রচলিত রীতিতে: মানুষ দিনে ফসল পাহারা দেয়, আর রাতে পশু ফিরিয়ে আনে খোঁয়াড়ে। তারপর তিনি ফকীহদের এক দলের মত উল্লেখ করেন, যাঁদের মতে মালিক সঙ্গে না থাকলে দিনে হোক বা রাতে, পশুর করা ক্ষতির কোনো দায় তার নেই। এ ধরনের কোনো প্রশ্নের মীমাংসা এই লেখা করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Small Case Seen",
+          "bn": "ছোট মামলাও দৃষ্টির বাইরে নয়"
+        },
+        "p": [
+          {
+            "en": "In its plain lines the verse speaks to anyone who has had to settle something. Someone's labour has been lost, someone else's carelessness caused it, and a person with authority has to decide what is fair. The commentators show two prophets weighing it in two ways, one by the value of the loss and the fault behind it, the other by what would let both households recover. Both are spoken of with honour. Neither is the reader's to rank, and neither ruling is the reader's to apply without the jurists' own discussion.",
+            "bn": "সাদামাটা কথায় এ আয়াত তার সঙ্গেই কথা বলে, যাকে কখনো কোনো বিবাদ মেটাতে হয়েছে। কারও পরিশ্রম নষ্ট হয়েছে, অন্য কারও অবহেলায়, আর দায়িত্বে থাকা কাউকে ঠিক করতে হবে কোনটা ন্যায্য। তাফসীরকারেরা দেখান, দুই নবী বিষয়টিকে দুইভাবে মেপেছেন। একজন ক্ষতির মূল্য আর তার পেছনের গাফিলতি দিয়ে, অন্যজন এমন পথ দিয়ে যাতে দুই পরিবারই আবার দাঁড়াতে পারে। দুজনের কথাই আসে সম্মানের সঙ্গে। তাঁদের মধ্যে ক্রম সাজানো পাঠকের কাজ নয়, আর ফকীহদের নিজস্ব আলোচনা ছাড়া কোনো রায় নিজে প্রয়োগ করাও পাঠকের কাজ নয়।"
+          },
+          {
+            "en": "What the verse hands to every reader is its last line. However small the matter, a few sheep, one field, a single night, Allah says We were witness. The judge at a desk, the parent between two children, the manager hearing a complaint, the neighbour whose animal broke a fence: each decides in full view of Him. That is not meant to freeze anyone. It is meant to slow the hand, keep the reasons honest, and send each of us looking first for what would put the other person's field right again.",
+            "bn": "প্রত্যেক পাঠকের হাতে আয়াতটি যা তুলে দেয়, তা তার শেষ বাক্য। বিষয়টা যত ছোটই হোক, কয়েকটা মেষ, একটা ক্ষেত, একটা রাত, আল্লাহ বলেন: আমি প্রত্যক্ষ করছিলাম। টেবিলে বসা বিচারক, দুই সন্তানের মাঝে দাঁড়ানো বাবা-মা, অভিযোগ শুনছেন এমন কর্মকর্তা, যার পশু প্রতিবেশীর বেড়া ভেঙেছে সেই প্রতিবেশী, সবাই সিদ্ধান্ত নেন তাঁর চোখের সামনে। এ কথা কাউকে আড়ষ্ট করে দেওয়ার জন্য নয়। এর কাজ হাতটা একটু থামানো, যুক্তিগুলো সৎ রাখা, আর আমাদের প্রত্যেককে আগে সেই পথ খুঁজতে পাঠানো, যাতে অন্যের ক্ষেত আবার ঠিক হয়ে যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "21:79": {
     "sections": [
       {
