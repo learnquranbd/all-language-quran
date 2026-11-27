@@ -1919,6 +1919,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:43": {
+    "sections": [
+      {
+        "h": {
+          "en": "Who Else Stands Guard",
+          "bn": "আর কে পাহারা দেবে"
+        },
+        "p": [
+          {
+            "en": "The verse is the second half of a challenge. Just before it, 21:42 tells the Prophet ﷺ to ask who can guard them by night and by day from the Most Merciful, and observes that they turn away from the remembrance of their Lord. Ibn Kathir, in a passage the abridged English edition groups across 21:41 to 21:43, reads that question as a reminder of a favour: Allah Himself protects His creatures by night and by day and watches over them. The question in 21:43 then comes at the same claim from the other side.",
+            "bn": "আয়াতটি একটি চ্যালেঞ্জের দ্বিতীয় অংশ। ঠিক আগে ২১:৪২ আয়াতে নবী ﷺ-কে বলা হয়েছে জিজ্ঞেস করতে, রাতে আর দিনে রহমানের হাত থেকে কে তাদের পাহারা দেবে। সঙ্গে এও বলা হয়েছে যে তারা তাদের রবের স্মরণ থেকে মুখ ফিরিয়ে আছে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ২১:৪১ থেকে ২১:৪৩ পর্যন্ত এক অংশে রেখেছে। সেখানে তিনি প্রশ্নটিকে পড়েন এক অনুগ্রহের স্মরণ হিসেবে: রাতে-দিনে আল্লাহ নিজেই তাঁর সৃষ্টিকে রক্ষা করেন, তাদের দেখাশোনা করেন। ২১:৪৩ একই দাবির কাছে আসে উল্টো দিক থেকে।"
+          },
+          {
+            "en": "At-Tabari names who is being asked. He opens: do these people, who were urging their Lord to bring the punishment on, have gods that will defend them if We bring Our punishment down on them and send Our might upon them? That ties the verse back to 21:37 and 21:38, where those addressed are told not to hurry Allah and they ask when the promise will come. Ibn Kathir's Arabic gloss even borrows the verb of 21:42: do they have gods that defend them and guard them, takla'uhum, other than Us?",
+            "bn": "কাকে প্রশ্ন করা হচ্ছে, তাবারী তা স্পষ্ট করে দেন। তাঁর শুরুর কথা: যারা নিজেদের রবের কাছে আযাব তাড়াতাড়ি চেয়ে বসেছিল, আমি যদি তাদের উপর আযাব নামাই, আমার কঠোর আঘাত পাঠাই, তবে কি তাদের এমন উপাস্য আছে যারা তাদের রক্ষা করবে? এতে আয়াতটি ফিরে যায় ২১:৩৭ ও ২১:৩৮ আয়াতের কাছে। সেখানে তাদের বলা হয়েছে আল্লাহকে তাড়া না দিতে, আর তারা জানতে চেয়েছে প্রতিশ্রুতি কবে আসবে। ইবন কাসীরের আরবি ব্যাখ্যা তো ২১:৪২ আয়াতের ক্রিয়াটিই ধার নেয়: আমি ছাড়া তাদের কি এমন উপাস্য আছে, যারা তাদের ঠেকিয়ে রাখবে, তাদের পাহারা দেবে, তাকলাউহুম?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked to Shame, Not to Learn",
+          "bn": "প্রশ্নের ভেতরে ধমক"
+        },
+        "p": [
+          {
+            "en": "Am lahum alihatun: or have they gods. Al-Qurtubi and al-Baghawi both treat am here as a connective, so that the sense is simply a-lahum, have they? Ibn Kathir names the kind of question: an istifham of denial, reproach and rebuke. It is not asking for information. It expects the hearer to supply the answer, no, and to feel the reproof in having to give it. Ibn Kathir then says it outright: the matter is not as they imagined, nor as they claimed.",
+            "bn": "আম লাহুম আলিহাতুন: নাকি তাদের কোনো উপাস্য আছে? কুরতুবী ও বাগাভী দুজনেই এখানে 'আম'-কে সংযোগের শব্দ ধরেন। অর্থটা তাই সোজা দাঁড়ায় 'আ-লাহুম', তাদের কি আছে? প্রশ্নটা কোন জাতের, ইবন কাসীর তার নাম দেন: অস্বীকার, ভর্ৎসনা আর তিরস্কারের প্রশ্ন। এ প্রশ্ন কোনো তথ্য জানতে চায় না। শ্রোতা নিজেই উত্তর দেবে, না, আর উত্তরটা দিতে গিয়েই ধমকটা টের পাবে। তারপর ইবন কাসীর সোজাসুজি বলে দেন: ব্যাপারটা তারা যেমন ভেবেছে, যেমন দাবি করেছে, তেমন নয়।"
+          },
+          {
+            "en": "The word order drew comment too. Al-Baghawi says the verse holds a fronting and a postponing, and restores the plain order: am lahum alihatun min dunina tamna'uhum, have they gods besides Us who defend them? At-Tabari gives the same paraphrase and adds one word, minna: gods besides Us who defend them from Us. In at-Tabari's wording, then, the gods stand in a place other than Allah's, and the defence they are imagined to offer is a defence against Allah Himself. That is what makes the question unanswerable.",
+            "bn": "শব্দের ক্রম নিয়েও কথা হয়েছে। বাগাভী বলেন, আয়াতে কিছু শব্দ আগে আর কিছু পরে এসেছে। স্বাভাবিক ক্রমে সাজালে দাঁড়ায়: আম লাহুম আলিহাতুন মিন দূনিনা তামনাউহুম, আমি ছাড়া তাদের কি এমন উপাস্য আছে যারা তাদের রক্ষা করবে? তাবারীও একই কথা বলেন, শুধু একটি শব্দ জুড়ে দেন, 'মিন্না'। অর্থাৎ আমি ছাড়া এমন উপাস্য, যারা আমার হাত থেকেই তাদের রক্ষা করবে। তাবারীর ভাষায় তাই উপাস্যগুলো আল্লাহর জায়গার বাইরে দাঁড়িয়ে, আর তাদের কাছে যে রক্ষার আশা, তা খোদ আল্লাহর বিরুদ্ধে রক্ষা। এ কারণেই প্রশ্নটির কোনো জবাব নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shelter From What, Exactly",
+          "bn": "আশ্রয়, কিন্তু কিসের থেকে"
+        },
+        "p": [
+          {
+            "en": "Defend them from what? Al-Qurtubi answers in a phrase: min dunina here means from Our punishment. The Muyassar puts the question the same way: have they gods that would defend them from Our punishment? As-Sa'di frames it a little more widely. If We intend harm for them, he paraphrases, is there anyone among their gods able to hold back that harm and the evil coming down on them? His paraphrase names no particular punishment; it speaks of any harm that Allah intends for them.",
+            "bn": "রক্ষা করবে কিসের থেকে? কুরতুবী এক কথায় জবাব দেন: এখানে 'মিন দূনিনা' মানে আমার আযাব থেকে। মুয়াসসারও প্রশ্নটা একইভাবে রাখে: তাদের কি এমন উপাস্য আছে, যারা আমার আযাব থেকে তাদের ঠেকাবে? সা'দী ছবিটা একটু বড় করে আঁকেন। তাঁর ভাষ্যে প্রশ্নটা এরকম: আমি যদি তাদের অমঙ্গল চাই, তাদের উপাস্যদের মধ্যে কেউ কি আছে যে সেই অমঙ্গল আর নেমে আসা বিপদ আটকে দিতে পারে? তিনি নির্দিষ্ট কোনো শাস্তির নাম নেন না। আল্লাহ তাদের জন্য যে ক্ষতিই চান, তাঁর কথা সবকিছুকেই ধরে।"
+          },
+          {
+            "en": "At-Tabari's version is the most concrete, because he has the people of 21:38 in view: if We let Our punishment fall on them and send Our might upon them. Laid side by side, the readings agree on the shape of the question. The danger comes from Allah, so any shelter would have to hold against Allah. Nothing created can stand in that place, and the rest of the verse says why, beginning with the weakness of the gods themselves.",
+            "bn": "তাবারীর ভাষ্য সবচেয়ে নির্দিষ্ট, কারণ তাঁর চোখের সামনে ২১:৩৮ আয়াতের সেই লোকেরা: আমি যদি তাদের উপর আযাব নামাই, আমার কঠোর আঘাত পাঠাই। ব্যাখ্যাগুলো পাশাপাশি রাখলে প্রশ্নের কাঠামো নিয়ে সবাই একমত। বিপদ আসছে আল্লাহর কাছ থেকে, তাই যে আশ্রয়ই হোক, তাকে টিকতে হবে আল্লাহর বিরুদ্ধে। কোনো সৃষ্টি সে জায়গায় দাঁড়াতে পারে না। কেন পারে না, আয়াতের বাকি অংশ তা বলে দেয়, আর শুরু করে উপাস্যদের নিজেদের দুর্বলতা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Helpless in Their Own Cause",
+          "bn": "নিজের বেলাতেই অসহায়"
+        },
+        "p": [
+          {
+            "en": "La yastati'una nasra anfusihim: they cannot help themselves. At-Tabari says that here Allah describes the gods with weakness and lowliness, as they truly are, and spells out the argument: how could their gods, whom they call on besides Us, defend them from Us, when they cannot even help themselves? Al-Baghawi glosses the help as defence: they cannot defend themselves. Al-Qurtubi makes clear whose weakness is meant: those whom these disbelievers claimed would come to their aid.",
+            "bn": "লা ইয়াসতাতীঊনা নাসরা আনফুসিহিম: তারা নিজেদেরই সাহায্য করতে পারে না। তাবারী বলেন, এখানে আল্লাহ উপাস্যদের বর্ণনা দিয়েছেন তাদের আসল চেহারায়, দুর্বল আর তুচ্ছ হিসেবে। যুক্তিটাও তিনি খুলে বলেন: আমাকে বাদ দিয়ে যাদের তারা ডাকে, সেই উপাস্যরা আমার হাত থেকে তাদের কী করে বাঁচাবে, যখন নিজেদেরই সাহায্য করার ক্ষমতা তাদের নেই? বাগাভী সাহায্যের অর্থ করেন প্রতিরোধ: তারা নিজেদের রক্ষা করতে পারে না। কাদের দুর্বলতার কথা, কুরতুবী তা পরিষ্কার করেন: এই কাফিররা যাদের নিজেদের সাহায্যকারী বলে দাবি করত।"
+          },
+          {
+            "en": "Then al-Qurtubi, al-Baghawi and the Muyassar draw the same conclusion in almost the same words: so how could they help those who worship them? The reasoning runs from the lesser case to the greater. A protector's first test is whether he can keep harm from his own person. Fail that, and every promise he makes on behalf of others is empty. The verse need not argue at length that the idols are false; it only has to point at what they cannot do.",
+            "bn": "এরপর কুরতুবী, বাগাভী আর মুয়াসসার প্রায় একই ভাষায় একই সিদ্ধান্তে পৌঁছান: তাহলে যারা তাদের পূজা করে, তাদের সাহায্য ওরা করবে কী করে? যুক্তিটা ছোট থেকে বড়র দিকে যায়। রক্ষাকর্তার প্রথম পরীক্ষা, সে নিজের গা থেকে বিপদ সরাতে পারে কি না। এতেই যে ফেল করে, অন্যের হয়ে তার দেওয়া সব কথাই ফাঁকা। মূর্তিগুলো যে মিথ্যা, তা প্রমাণে আয়াতকে লম্বা তর্কে যেতে হয় না। ওরা কী পারে না, শুধু সেদিকে আঙুল তুললেই চলে।"
+          },
+          {
+            "en": "The Qur'an uses this test more than once. In 7:192 and 7:197 the same words return: those you call on besides Him can neither help you nor help themselves. In this surah, at 21:66, Ibrahim (AS) puts it to his people over the broken idols, which could neither benefit them nor harm them, and that verse has its own reflection. Here the argument passes from the idol to the worshipper standing behind it: if the gods have no help even for themselves, there is none left over for him.",
+            "bn": "কুরআন এই পরীক্ষা একাধিকবার করেছে। ৭:১৯২ ও ৭:১৯৭ আয়াতে একই কথা ফিরে আসে: তাঁকে ছাড়া যাদের তোমরা ডাক, তারা না তোমাদের সাহায্য করতে পারে, না নিজেদের। এই সূরাতেই ২১:৬৬ আয়াতে ইবরাহীম (আঃ) ভাঙা মূর্তিগুলোর সামনে দাঁড়িয়ে তাঁর কওমকে একই প্রশ্ন করেন: যা তোমাদের কোনো উপকারও করতে পারে না, ক্ষতিও না, তার উপাসনা কর? সে আয়াতের আলাদা আলোচনা আছে। এখানে যুক্তিটা মূর্তি থেকে সরে আসে তার পেছনে দাঁড়ানো উপাসকের দিকে। উপাস্যদের হাতে নিজেদের জন্যই সাহায্য নেই, তার জন্য আর কী থাকবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Glosses on Yushabun",
+          "bn": "ইউসহাবূনের চার ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "The verse closes with wa la hum minna yushabun, and the last word is where the commentators part. Its root, s-h-b, is the root of companionship, and the form is passive: they are not accompanied. But what kind of accompanying does a person in danger need? The answers gathered in the tafsirs fetched for this verse fall into four sets: defended, granted protection, helped or guarded, and accompanied by good. Each comes under a named early authority, and some names carry several.",
+            "bn": "আয়াতের শেষ বাক্য ওয়া লা হুম মিন্না ইউসহাবূন, আর শেষ শব্দটিতে এসেই তাফসীরকারদের পথ আলাদা হয়ে যায়। এর ধাতু স-হ-ব, যা থেকে সঙ্গ বা সাহচর্যের অর্থ আসে। রূপটা কর্মবাচ্য: তাদের সঙ্গ দেওয়া হবে না। কিন্তু বিপদে পড়া মানুষের কেমন সঙ্গ দরকার? এ আয়াতের জন্য সংগ্রহ করা তাফসীরগুলোতে উত্তরগুলো চারটি ভাগে পড়ে: রক্ষা করা, আশ্রয় দেওয়া, সাহায্য বা হেফাজত করা, আর কল্যাণের সঙ্গ দেওয়া। প্রতিটির পেছনে আছেন প্রথম যুগের কোনো না কোনো নামধারী ব্যক্তি, আর কারও কারও নামে একাধিক ব্যাখ্যা।"
+          },
+          {
+            "en": "From Ibn Abbas the reports differ. Al-Qurtubi and al-Baghawi give his gloss as yumna'un, they will not be defended; Ibn Kathir records the same word from an unnamed other. At-Tabari carries yujarun, they will not be given protection, from Ibn Abbas through two separate chains. Ibn Kathir cites the same gloss from Ibn Abbas through al-Awfi, al-Baghawi has it through Atiyya, and al-Qurtubi notes that yujarun is at-Tabari's choice. Ibn Jurayj, in at-Tabari, relays a third gloss from Ibn Abbas: yunsarun, they will not be helped.",
+            "bn": "ইবন আব্বাস (রাঃ) থেকে বর্ণনাগুলো এক রকম নয়। কুরতুবী ও বাগাভীর মতে তাঁর ব্যাখ্যা 'ইউমনাঊন', তাদের রক্ষা করা হবে না। ইবন কাসীর একই শব্দ আনেন নাম না বলা অন্য একজনের সূত্রে। তাবারী দুটি আলাদা সনদে ইবন আব্বাস (রাঃ) থেকে আনেন 'ইউজারূন', তাদের আশ্রয় দেওয়া হবে না। ইবন কাসীর একই ব্যাখ্যা আনেন আওফীর সূত্রে ইবন আব্বাস (রাঃ) থেকে, বাগাভী আনেন আতিয়্যার সূত্রে, আর কুরতুবী জানান যে 'ইউজারূন' তাবারীর বেছে নেওয়া অর্থ। তাবারীতে ইবন জুরাইজ ইবন আব্বাস (রাঃ) থেকে তৃতীয় একটি ব্যাখ্যাও আনেন: 'ইউনসারূন', তাদের সাহায্য করা হবে না।"
+          },
+          {
+            "en": "Mujahid is reported with yunsarun through Ibn Abi Najih, and with yuhfazun, they will not be guarded, through Ibn Jurayj; al-Qurtubi joins the two, helped meaning guarded. Qatada reads the word as companionship of another sort: they are not accompanied from Allah by any good. Al-Qurtubi's wording of Qatada adds that Allah does not make His mercy their companion. As-Sa'di's own gloss sits close to Mujahid's: they are not aided in their affairs from Our side.",
+            "bn": "মুজাহিদ থেকে ইবন আবী নাজীহের সূত্রে এসেছে 'ইউনসারূন', আর ইবন জুরাইজের সূত্রে 'ইউহফাযূন', তাদের হেফাজত করা হবে না। কুরতুবী দুটিকে এক করে বলেন, সাহায্য মানে এখানে হেফাজত। কাতাদা শব্দটিকে পড়েন অন্য রকম সঙ্গ হিসেবে: আল্লাহর পক্ষ থেকে কোনো কল্যাণ তাদের সঙ্গী হবে না। কুরতুবী কাতাদার কথাটা আনেন আরেকটু যোগ করে: আল্লাহ তাঁর রহমতকে তাদের সঙ্গী বানান না। সা'দীর নিজের ব্যাখ্যা মুজাহিদের কাছাকাছি: আমার পক্ষ থেকে তাদের কাজে কোনো সহায়তা আসবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gods or Their Worshippers",
+          "bn": "উপাস্য, না উপাসক"
+        },
+        "p": [
+          {
+            "en": "A second question sits under the first: who are the hum, the they, of wa la hum? At-Tabari reports that the people of interpretation differed on this and on the word's meaning together. One group took it to mean the gods: the false gods are not accompanied by any good from Allah. At-Tabari places Qatada in this group. On that reading the whole verse stays with the idols to the end: they cannot help themselves, and nothing good from Allah attends them.",
+            "bn": "প্রথম প্রশ্নের নিচে আরেকটা প্রশ্ন লুকিয়ে আছে: 'ওয়া লা হুম'-এর 'হুম', মানে 'তারা', কারা? তাবারী জানান, এ নিয়ে আর শব্দটির অর্থ নিয়ে একসঙ্গেই ব্যাখ্যাকারদের মতভেদ হয়েছে। একটি দল বলেছেন, এখানে উপাস্যদের কথা বলা হচ্ছে। সেই মিথ্যা উপাস্যদের সঙ্গে আল্লাহর পক্ষ থেকে কোনো কল্যাণ থাকে না। তাবারী কাতাদাকে এই দলে রাখেন। এই পাঠে পুরো আয়াতটি শেষ পর্যন্ত মূর্তিদের নিয়েই থাকে। তারা নিজেদের সাহায্য করতে পারে না, আর আল্লাহর কোনো কল্যাণও তাদের সঙ্গী নয়।"
+          },
+          {
+            "en": "At-Tabari himself prefers the report from Ibn Abbas. The they, he says, are the disbelievers, and yushabun means they are not escorted under a grant of protection. On that reading the verse turns in its last clause from the gods to their worshippers. Both readings are on record, the first with Qatada and the second as at-Tabari's choice, and this article sets them side by side without choosing. What the two share is the first half: the gods cannot help themselves.",
+            "bn": "তাবারী নিজে ইবন আব্বাস (রাঃ)-এর বর্ণনাটিকেই অগ্রাধিকার দেন। তাঁর মতে 'তারা' মানে কাফিররা, আর 'ইউসহাবূন' মানে আশ্রয়ের নিশ্চয়তা দিয়ে তাদের সঙ্গে কেউ থাকবে না। এই পাঠে আয়াতের শেষ বাক্যে কথা উপাস্য থেকে ঘুরে যায় তাদের উপাসকদের দিকে। দুটি পাঠই বর্ণিত আছে: প্রথমটি কাতাদার নামে, দ্বিতীয়টি তাবারীর পছন্দ হিসেবে। এখানে দুটিকে পাশাপাশি রাখা হলো, কোনোটিকে বেছে নেওয়া হলো না। দুই পাঠে যা মেলে, তা আয়াতের প্রথম অংশ: উপাস্যরা নিজেদের সাহায্য করতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Neighbour Against the Spears",
+          "bn": "বর্শার মুখে আশ্রয়দাতা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's reason comes from Arab speech. The Arabs, he says, are reported to say ana laka jarun min fulanin wa sahib, I am your neighbour and your companion against so-and-so, meaning I give you protection and defend you. Al-Qurtubi and al-Baghawi cite the same expression and gloss it as one who protects you from him. The second of at-Tabari's two reports from Ibn Abbas explains the companion the same way: a person has a khafir, an escort, against whatever he fears, and that is what yushabun means.",
+            "bn": "তাবারী তাঁর কারণটা আনেন আরবদের কথা থেকে। তিনি বলেন, আরবদের সম্পর্কে বর্ণিত আছে যে তারা বলত, 'আনা লাকা জারুন মিন ফুলানিন ওয়া সাহিব', অমুকের বিরুদ্ধে আমি তোমার প্রতিবেশী, তোমার সঙ্গী। মানে, আমি তোমাকে আশ্রয় দিচ্ছি, তোমাকে রক্ষা করব। কুরতুবী ও বাগাভীও একই কথাটা এনে অর্থ করেন: তার হাত থেকে যে তোমাকে বাঁচায়। ইবন আব্বাস (রাঃ) থেকে তাবারীর দুটি বর্ণনার দ্বিতীয়টিতেও সঙ্গীর ব্যাখ্যা একই রকম। যার যে বিপদের ভয়, তার বিরুদ্ধে তার সঙ্গে থাকে একজন 'খাফীর', পাহারাদার সঙ্গী। ইউসহাবূন বলতে সেটাই বোঝায়।"
+          },
+          {
+            "en": "Al-Qurtubi adds a line of poetry, from a poet he does not name, to show the usage alive: he calls out at the top of his voice, seeking refuge, so that he may be given protection from it, while the spears draw near. The verb there is the same, yushab. The picture is of a man in danger shouting for someone to take him under protection before the blow lands. On at-Tabari's reading, the verse says that against Allah no one will answer that shout.",
+            "bn": "কথাটা যে আরবদের মুখে চালু ছিল, তা দেখাতে কুরতুবী একটি কবিতার চরণ আনেন। কবির নাম তিনি বলেননি। চরণটির অর্থ: আশ্রয় চেয়ে সে গলা ফাটিয়ে ডাকছে, যাতে তাকে এর থেকে রক্ষার সঙ্গ দেওয়া হয়, আর বর্শাগুলো তখন একেবারে কাছে। সেখানেও ক্রিয়াটি একই, 'ইউসহাব'। ছবিটা এমন এক মানুষের, যে বিপদের মুখে চিৎকার করছে, আঘাত নামার আগেই কেউ যেন তাকে আশ্রয়ে নিয়ে নেয়। তাবারীর পাঠে আয়াতটি বলছে, আল্লাহর বিরুদ্ধে সেই ডাকে কেউ সাড়া দেবে না।"
+          },
+          {
+            "en": "The same report from Ibn Abbas links the word to another verse: and He protects while none can protect against Him, wa huwa yujiru wa la yujaru 'alayh, which stands in 23:88. Allah gives protection; no one gives protection against Him. At-Tabari then folds the other glosses into his choice. If they are not escorted under protection, he reasons, and have no one to hold off Allah's punishment while Allah is angry with them, then they are not accompanied by any good and they are not helped either.",
+            "bn": "ইবন আব্বাস (রাঃ)-এর একই বর্ণনা শব্দটিকে আরেকটি আয়াতের সঙ্গে জুড়ে দেয়: ওয়া হুয়া ইউজীরু ওয়া লা ইউজারু আলাইহ, তিনিই আশ্রয় দেন, আর তাঁর বিরুদ্ধে কেউ আশ্রয় দিতে পারে না। আয়াতটি ২৩:৮৮। আশ্রয় দেন আল্লাহ, তাঁর বিপক্ষে কেউ আশ্রয় দিতে পারে না। এরপর তাবারী বাকি ব্যাখ্যাগুলোকেও নিজের পছন্দের ভেতরে টেনে আনেন। তাঁর যুক্তি: আশ্রয়ের সঙ্গ যখন তারা পাবে না, আর আল্লাহর ক্রোধ মাথায় নিয়ে তাঁর আযাব ঠেকানোর কেউ যখন থাকবে না, তখন কোনো কল্যাণও তাদের সঙ্গী হবে না, কোনো সাহায্যও তারা পাবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Hadith, No Verdict",
+          "bn": "বর্ণনা নেই, ছাড়পত্রও নেই"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it, and none gives an occasion of revelation. Its context is its placement, in the run of verses from 21:36 that answers the disbelievers who met the Prophet ﷺ with ridicule and asked when the promised punishment would come. Ma'arif al-Qur'an's passage for this group, as fetched, deals with the haste of 21:37 and says nothing particular about this verse, so it is not cited here.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো উপলক্ষও বলেনি। আয়াতটির প্রেক্ষাপট তাই তার অবস্থান। ২১:৩৬ থেকে শুরু হওয়া এই ধারাবাহিক আয়াতগুলো সেই কাফিরদের জবাব দেয়, যারা নবী ﷺ-কে দেখলেই ঠাট্টা করত আর জানতে চাইত প্রতিশ্রুত আযাব কবে আসবে। এই অংশের জন্য মাআরিফুল কুরআনের যে আলোচনা পাওয়া গেছে, তা ২১:৩৭ আয়াতের তাড়াহুড়ার প্রসঙ্গ নিয়ে। এ আয়াত সম্পর্কে আলাদা কিছু তাতে নেই, তাই এখানে তার উল্লেখ নেই।"
+          },
+          {
+            "en": "One thing should be said plainly. The verse describes the idolaters it addresses and the gods they relied on, and its rebuke belongs to them as the text describes them. It licenses nothing against any living person or community: no one may use it to brand a neighbour, a family or a people as doomed or beyond Allah's protection. Its question is meant to be asked by each reader of himself, about whatever he leans on in place of Allah.",
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। আয়াতটি যাদের সম্বোধন করছে, সেই মূর্তিপূজারি আর তাদের ভরসার উপাস্যদের বর্ণনা দেয়। এর ভর্ৎসনা তাদেরই প্রাপ্য, ঠিক যেভাবে আয়াত তাদের বর্ণনা করেছে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। কোনো প্রতিবেশী, পরিবার বা জাতিকে ধ্বংসপ্রাপ্ত কিংবা আল্লাহর আশ্রয়ের বাইরে বলে দাগানোর কাজে একে ব্যবহার করা যায় না। এর প্রশ্নটা প্রত্যেক পাঠকের নিজের কাছে করার জন্য: আল্লাহর জায়গায় আমি কিসের উপর ভর দিয়ে আছি?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What I Lean On",
+          "bn": "আমি কিসে ভর দিই"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws the consequence in a single line. Whoever is not aided by Allah is forsaken in his affairs, makhdhul: he can neither bring himself a benefit nor push away a harm. In his reading that is the condition of anyone left without Allah's help, whatever else he may hold. The next verse, 21:44, suggests why the deniers felt so safe: they and their fathers were given enjoyment of this world until their lives grew long.",
+            "bn": "সা'দী পরিণামটা এক বাক্যে বলে দেন। আল্লাহর সহায়তা যে পায় না, সে তার সব কাজে অসহায় হয়ে পড়ে, 'মাখযূল'। সে নিজের জন্য কোনো উপকার আনতে পারে না, কোনো ক্ষতিও ঠেকাতে পারে না। তাঁর পাঠে এটাই সেই মানুষের অবস্থা, যে আল্লাহর সাহায্য থেকে বঞ্চিত, তার হাতে আর যা-ই থাকুক। পরের আয়াত ২১:৪৪ বলে দেয়, অস্বীকারকারীরা নিজেদের এত নিরাপদ ভাবত কেন। তাদের আর তাদের বাপদাদাদের দুনিয়ার ভোগের সামগ্রী দেওয়া হয়েছিল, আর এভাবে তাদের আয়ু দীর্ঘ হয়ে গিয়েছিল।"
+          },
+          {
+            "en": "The application is not hard to find. Few readers bow to stone, but most of us have something we quietly count on to stand between us and what Allah decrees: a salary, a family name, a powerful acquaintance, our own cleverness. The verse puts one question to each of them. Can it help itself? Every created thing fails that test in the end. The guard by night and by day of 21:42 is the Most Merciful Himself, and the fitting answer is the remembrance the deniers turned away from.",
+            "bn": "নিজের জীবনে এর প্রয়োগ খুঁজে পেতে কষ্ট হয় না। পাথরের সামনে মাথা নোয়ানো পাঠক কম। তবু আমাদের প্রায় সবারই এমন কিছু আছে, যার উপর মনে মনে ভরসা রাখি যে আল্লাহর ফয়সালা আর আমার মাঝে সে দাঁড়াবে। বেতন, বংশের নাম, প্রভাবশালী চেনা লোক, নিজের বুদ্ধি। আয়াতটি প্রত্যেকটিকে একটাই প্রশ্ন করে: সে কি নিজেকে বাঁচাতে পারে? শেষ পর্যন্ত প্রতিটি সৃষ্টি এ পরীক্ষায় হেরে যায়। ২১:৪২ আয়াতের রাত-দিনের পাহারাদার স্বয়ং রহমান। তাই এর উপযুক্ত জবাব সেই জিকির, যা থেকে অস্বীকারকারীরা মুখ ফিরিয়ে নিয়েছিল।"
+          }
+        ]
+      }
+    ]
+  },
   "21:47-48": {
     "sections": [
       {

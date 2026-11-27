@@ -34519,6 +34519,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let night and day, sun and moon, turn your eyes to the One who set them running, and keep your own course as steadily as they keep theirs.",
     "lessonBn": "রাত-দিন আর সূর্য-চাঁদ আপনার চোখকে ফিরিয়ে দিক তাঁর দিকে, যিনি এদের চালু রেখেছেন। আর এরা যেমন অবিচলভাবে নিজের পথ ধরে রাখে, আপনিও তেমনি নিজের পথ ধরে রাখুন।"
+  },
+  "21:43": {
+    "reflectionEn": "Just before this verse comes the question: who guards you by night and by day from the Most Merciful? Then a harder one follows. Have they gods who will shield them from Us? The answer comes in the same breath: those gods cannot even help themselves, and no one will stand as a protector for them against Allah. A guard who cannot keep his own door is no guard. The verse speaks of idols, but the reflex it exposes is common. When I feel unsafe, what do I reach for first? Which name, which savings, which connection do I quietly count on to stand between me and what Allah decrees? And have I ever asked whether it could save itself?",
+    "reflectionBn": "এর ঠিক আগের আয়াতে প্রশ্ন ছিল: রাতে আর দিনে রহমানের হাত থেকে কে তোমাদের পাহারা দেবে? এবার আরও কঠিন প্রশ্ন: তাদের কি এমন উপাস্য আছে, যারা আমার হাত থেকে তাদের বাঁচাবে? উত্তরও সঙ্গে সঙ্গে আসে। ওই উপাস্যরা নিজেদেরই সাহায্য করতে পারে না, আর আল্লাহর বিরুদ্ধে তাদের আশ্রয় দিতে কেউ দাঁড়াবে না। যে পাহারাদার নিজের দরজাই আগলাতে পারে না, সে কারও পাহারাদার নয়। আয়াতের কথা মূর্তি নিয়ে, কিন্তু যে অভ্যাসটা সে ধরিয়ে দেয় তা আমাদের সবার চেনা। নিরাপত্তাহীন লাগলে আমি প্রথমে কিসের দিকে হাত বাড়াই? কোন নাম, কোন সঞ্চয়, কোন চেনা লোকের উপর মনে মনে ভরসা রাখি যে আল্লাহর ফয়সালা আর আমার মাঝে সে দাঁড়াবে? কখনো কি ভেবে দেখেছি, সে নিজেকে বাঁচাতে পারে তো?",
+    "pointsEn": [
+      "When I am afraid, what do I turn to first, and could it protect even itself?",
+      "Which person, possession or position do I count on as though it could shield me from what Allah decrees?",
+      "Do I remember the One who guards me by night and by day, or notice protection only when it seems to fail?",
+      "If everything I lean on were put to this verse's question, what would still be standing?",
+      "Where have I asked a creature for a safety that only its Creator can give?"
+    ],
+    "pointsBn": [
+      "ভয় পেলে আমি প্রথমে কার কাছে ছুটে যাই? সে কি নিজেকেও রক্ষা করতে পারে?",
+      "কোন মানুষ, কোন সম্পদ বা কোন পদের উপর আমি এমনভাবে ভরসা করি, যেন সে আল্লাহর ফয়সালা থেকে আমাকে আড়াল করতে পারবে?",
+      "যিনি রাতে আর দিনে আমাকে পাহারা দেন, তাঁকে কি আমি মনে রাখি? নাকি নিরাপত্তার কথা মনে পড়ে কেবল তখন, যখন তা ভেঙে পড়তে দেখি?",
+      "যা কিছুর উপর আমি ভর দিই, সবকিছুকে যদি এ আয়াতের প্রশ্নের সামনে দাঁড় করাই, শেষে কোনটা টিকে থাকবে?",
+      "যে নিরাপত্তা কেবল স্রষ্টাই দিতে পারেন, তা কোথায় আমি কোনো সৃষ্টির কাছে চেয়ে বসেছি?"
+    ],
+    "lessonEn": "Lean for protection on Allah alone; whatever you set up beside Him cannot even save itself, let alone shelter you from Him.",
+    "lessonBn": "রক্ষার জন্য কেবল আল্লাহর উপর ভরসা রাখুন। তাঁর পাশে যা-ই দাঁড় করান, তা নিজেকেই বাঁচাতে পারে না, তাঁর হাত থেকে আপনাকে আড়াল করবে কী করে?"
   }
 };
 
