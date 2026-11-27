@@ -6319,6 +6319,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:120": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words, Two Names",
+          "bn": "চার শব্দ, দুটি নাম"
+        },
+        "p": [
+          {
+            "en": "Salāmun 'alā Mūsā wa-Hārūn: peace upon Musa and Harun. Four Arabic words, and the third greeting of its kind in as-Saffat. The surah has already said salāmun 'alā Nūḥin fī al-'ālamīn at 37:79 and salāmun 'alā Ibrāhīm at 37:109. It will say it again for Ilyas (AS) at 37:130, in a form whose reading is discussed there, and once more for all the messengers together at 37:181. Of those five greetings this is the only one that carries two names. Every other falls on a single prophet, or on the messengers as a whole.",
+            "bn": "সালামুন আলা মূসা ওয়া হারূন: মূসা ও হারূনের প্রতি সালাম। আরবিতে চারটি শব্দ, আর সূরা আস-সাফফাতে এ ধরনের সালাম এটি তৃতীয়বার এল। এর আগে ৩৭:৭৯ আয়াতে এসেছে সালামুন আলা নূহিন ফিল আলামীন, আর ৩৭:১০৯ আয়াতে সালামুন আলা ইবরাহীম। পরে ৩৭:১৩০ আয়াতে ইলিয়াস (আঃ)-এর জন্য আবার আসবে, এমন এক রূপে যার পাঠ নিয়ে আলোচনা সেখানেই। শেষবার আসবে ৩৭:১৮১ আয়াতে, সব রাসূলের জন্য একসঙ্গে। এই পাঁচ সালামের মধ্যে কেবল এটিতেই দুটি নাম আছে। বাকিগুলোর প্রতিটি পড়েছে একজন নবীর উপর, নয়তো সামগ্রিকভাবে রাসূলদের উপর।"
+          },
+          {
+            "en": "The verse sits at a hinge. Before it, from 37:114 to 37:119, Allah counts His favours to the two brothers: a favour conferred, rescue with their people, support until they prevailed, the clear Scripture, guidance on the straight path, and a good mention left among later generations. After it, 37:121 and 37:122 give the reason: thus do We reward the doers of good, and the two of them were of Our believing servants. This article stays with the four words in the middle, and with one question: what is being given when Allah says peace?",
+            "bn": "আয়াতটি দাঁড়িয়ে আছে দুই অংশের সংযোগস্থলে। এর আগে ৩৭:১১৪ থেকে ৩৭:১১৯ পর্যন্ত আল্লাহ দুই ভাইয়ের প্রতি তাঁর অনুগ্রহ গুনে গুনে বলেছেন: অনুগ্রহ দান, কওমসহ উদ্ধার, বিজয় পর্যন্ত সাহায্য, সুস্পষ্ট কিতাব, সরল পথের হেদায়াত, আর পরবর্তীদের মধ্যে রেখে যাওয়া সুনাম। এর পরে ৩৭:১২১ ও ৩৭:১২২ আয়াত কারণটা জানায়: এভাবেই আমি সৎকর্মশীলদের প্রতিদান দিই, আর তারা দুজন ছিল আমার মুমিন বান্দাদের অন্তর্ভুক্ত। এ লেখা থাকবে মাঝখানের চারটি শব্দ নিয়ে, আর একটি প্রশ্ন নিয়ে: আল্লাহ যখন সালাম বলেন, তখন আসলে কী দেওয়া হয়?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Greeting, Praise and Prayer",
+          "bn": "অভিবাদন, প্রশংসা ও দোয়া"
+        },
+        "p": [
+          {
+            "en": "Al-Muyassar, which reads 37:120 to 37:122 as one stretch, opens the single word salām into three. It is taḥiyyatun li-Mūsā wa-Hārūn min 'indi Allāh, a greeting to Musa and Harun from Allah. It is thanā', praise. And it is du'ā' lahumā bi-l-salāmati min kulli āfa, a prayer for their safety from every harm. A greeting is spoken to someone, praise is spoken about someone, and a prayer asks something for someone. On this gloss one word does all three at once, and does them from Allah.",
+            "bn": "মুয়াসসার ৩৭:১২০ থেকে ৩৭:১২২ পর্যন্ত এক সঙ্গে পড়ে, আর সালাম শব্দটিকে খুলে তিন ভাগে দেখায়। প্রথমত, এটি তাহিয়্যা: আল্লাহর পক্ষ থেকে মূসা ও হারূনের প্রতি অভিবাদন। দ্বিতীয়ত, সানা, অর্থাৎ প্রশংসা। তৃতীয়ত, তাঁদের জন্য দোয়া, যেন সব রকম বিপদ-আপদ থেকে তাঁরা নিরাপদ থাকেন। অভিবাদন জানানো হয় কাউকে উদ্দেশ করে। প্রশংসা করা হয় কারও সম্পর্কে। আর দোয়া চাওয়া হয় কারও জন্য। এই ব্যাখ্যায় একটি শব্দই তিনটি কাজ একসঙ্গে করে, আর তিনটিই আসে আল্লাহর কাছ থেকে।"
+          },
+          {
+            "en": "The same commentary then joins the greeting to the verses after it. As We rewarded the two of them with the good reward, it says, so We reward the doers of good among Our servants who are sincere to Us in truthfulness, faith and deeds; and the two of them are of Our servants al-rāsikhīna fī al-īmān, firmly rooted in faith. Those two verses keep their own place, and their refrain across the surah is taken up at 37:131. On the Muyassar's reading the peace is no passing courtesy; it belongs to the good reward itself.",
+            "bn": "এরপর একই তাফসীর সালামটিকে পরের আয়াতগুলোর সঙ্গে জুড়ে দেয়। সেখানে বলা হয়েছে: যেভাবে আমি তাঁদের দুজনকে উত্তম প্রতিদান দিয়েছি, সেভাবেই প্রতিদান দিই আমার সেই সৎকর্মশীল বান্দাদের, যারা সত্যবাদিতা, ঈমান ও আমলে আমার প্রতি একনিষ্ঠ। আর তাঁরা দুজন আমার সেই বান্দাদের অন্তর্ভুক্ত, যারা ঈমানে দৃঢ়মূল। ওই দুই আয়াতের আলোচনা তাদের নিজের জায়গায় থাকুক। সূরাজুড়ে এই ধুয়ার অর্থ নিয়ে কথা হয়েছে ৩৭:১৩১ আয়াতে। মুয়াসসারের পাঠে সালাম নিছক সৌজন্য নয়; এটি উত্তম প্রতিদানেরই অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken Above, Repeated Below",
+          "bn": "উপর থেকে বলা, নিচে বারবার বলা"
+        },
+        "p": [
+          {
+            "en": "Who speaks this peace? Several glosses fetched for the verse put it in Allah's own voice. The Muyassar's words are min 'indi Allāh, from Allah. Al-Jalalayn, as quranx gives it for this verse, renders it: peace from Us be to Moses and Aaron. Tanwīr al-Miqbās, the commentary attributed to Ibn Abbas, gives: bliss and safety from Us unto Moses and Aaron. On these readings the verse is a direct greeting, spoken by Allah over the two brothers, and the reader overhears it as it was given.",
+            "bn": "এই সালাম কে বলছেন? এ আয়াতের জন্য সংগ্রহ করা কয়েকটি ব্যাখ্যা একে রাখে আল্লাহর নিজের কণ্ঠে। মুয়াসসারের ভাষা: মিন ইনদিল্লাহ, আল্লাহর পক্ষ থেকে। কুরানএক্স এ আয়াতের জন্য জালালাইনের যে পাঠ দেয়, তাতে অর্থ দাঁড়ায়: আমার পক্ষ থেকে মূসা ও হারূনের প্রতি সালাম। ইবন আব্বাস (রাঃ)-এর নামে প্রচলিত তাফসীর তানবীরুল মিকবাস বলে: আমার পক্ষ থেকে মূসা ও হারূনের প্রতি সুখ ও নিরাপত্তা। এসব পাঠে আয়াতটি সরাসরি সালাম, যা আল্লাহ নিজে দুই ভাইয়ের প্রতি বলেছেন। পাঠক যেন সেই কথাটিই শুনতে পান, যেভাবে তা দেওয়া হয়েছিল।"
+          },
+          {
+            "en": "At-Tabari's short note puts the weight elsewhere. He reads 37:120 as the content of what was left in 37:119: wa-dhālika an yuqāla, and that is, that it be said: peace upon Musa and Harun. The verb is passive, and the ones who say it are the later generations of the verse before. As-Sa'di, glossing both verses together as good praise and taḥiyyatan fī al-ākhirīn, a greeting among later generations, stands close to this. Ibn Kathir reads the verse as Allah's explanation of that good mention, a link already traced at 37:119.",
+            "bn": "তাবারীর ছোট টীকায় ভার পড়েছে অন্য দিকে। তাঁর পাঠে ৩৭:১২০ হলো ৩৭:১১৯ আয়াতে যা রেখে যাওয়া হয়েছে, তারই বিষয়বস্তু: ওয়া যালিকা আন ইউকালা, অর্থাৎ বলা হবে: মূসা ও হারূনের প্রতি সালাম। ক্রিয়াটি কর্মবাচ্যে, আর যারা বলবে তারা আগের আয়াতের সেই পরবর্তী প্রজন্ম। সা'দী দুই আয়াত একসঙ্গে ব্যাখ্যা করেন: উত্তম প্রশংসা, আর পরবর্তীদের মধ্যে অভিবাদন। তাঁর কথা এর কাছাকাছি। ইবন কাসীর আয়াতটিকে পড়েন সেই সুনামের ব্যাখ্যা হিসেবে, যা আল্লাহ নিজেই দিয়েছেন। এই সংযোগ ৩৭:১১৯ আয়াতে আগেই দেখানো হয়েছে।"
+          },
+          {
+            "en": "These are not set against each other here, and none of the commentators argues with another. They describe two sides of one greeting: Allah speaks it, and those who come after keep saying it. The reading reported from Ibn Mas'ud, salāman in the accusative, which ties the word to the verb We left, was weighed for Nuh (AS) at 37:79 and is not reopened. Either way the greeting begins with Allah. What later generations say is what He said first, and what they keep is what He chose to leave.",
+            "bn": "এখানে এ দুই পাঠকে মুখোমুখি দাঁড় করানো হচ্ছে না, আর তাফসীরকারদের কেউ অন্যজনের বিরুদ্ধে যুক্তিও দেননি। তাঁরা একই সালামের দুটি দিক বলছেন। আল্লাহ তা বলেন, আর পরে যারা আসে তারা তা বলতে থাকে। ইবন মাসউদ (রাঃ)-এর নামে বর্ণিত পাঠ সালামান, যা শব্দটিকে তারাকনা, আমি রেখে গেলাম, ক্রিয়ার সঙ্গে বেঁধে দেয়, তার বিচার হয়েছে নূহ (আঃ)-এর প্রসঙ্গে ৩৭:৭৯ আয়াতে। সে আলোচনা এখানে আবার খোলা হচ্ছে না। যেভাবেই পড়া হোক, সালামের শুরু আল্লাহর কাছ থেকে। পরবর্তীরা যা বলে, তা তিনিই প্রথম বলেছেন। আর তারা যা ধরে রাখে, তা তিনিই রেখে যেতে চেয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Who Once Carried Peace",
+          "bn": "যাঁরা একদিন শান্তি বয়ে নিয়েছিলেন"
+        },
+        "p": [
+          {
+            "en": "Before this greeting reached Musa and Harun (AS), they had carried a greeting of their own. At 20:43 the command is in the dual: idhhabā ilā Fir'awna innahu ṭaghā, go, both of you, to Pharaoh; indeed he has transgressed. At 20:44 they are told to speak to him qawlan layyinan, a gentle word, that perhaps he may be reminded or fear. And at 20:47 the message they are to deliver closes: wa-l-salāmu 'alā mani ittaba'a al-hudā, and peace will be upon whoever follows the guidance.",
+            "bn": "এই সালাম মূসা ও হারূন (আঃ)-এর কাছে পৌঁছানোর আগে তাঁরা নিজেরাও এক সালাম বয়ে নিয়ে গিয়েছিলেন। ২০:৪৩ আয়াতে নির্দেশটি দ্বিবচনে: ইযহাবা ইলা ফিরআউনা ইন্নাহু তাগা, তোমরা দুজন ফেরাউনের কাছে যাও, সে সীমা ছাড়িয়ে গেছে। ২০:৪৪ আয়াতে বলা হয়, তার সঙ্গে নরম কথা বলবে, হয়তো সে উপদেশ নেবে বা ভয় পাবে। আর ২০:৪৭ আয়াতে তাঁদের পৌঁছে দেওয়ার বার্তাটি শেষ হয় এভাবে: ওয়াস সালামু আলা মানিত্তাবাআল হুদা, শান্তি তার প্রতি, যে হেদায়াত মেনে চলে।"
+          },
+          {
+            "en": "Set beside 37:120, the two passages face each other. At 20:47 the brothers offer peace in a tyrant's court, and the offer is open but conditional: it is for whoever follows the guidance, and the man addressed did not. Here peace is given to the two brothers themselves, with no condition and with their names on it. The word they carried at Allah's command comes back to them by name. That pairing is this article's own reading; no commentator fetched for 37:120 links the two verses, and nothing is built on it beyond what the text shows.",
+            "bn": "৩৭:১২০ আয়াতের পাশে রাখলে দুটি অংশ যেন পরস্পরের দিকে মুখ করে আছে। ২০:৪৭ আয়াতে দুই ভাই এক জালিমের দরবারে শান্তির প্রস্তাব রাখেন। প্রস্তাব সবার জন্য খোলা, তবে শর্তযুক্ত: শান্তি তার জন্য, যে হেদায়াত মানে। আর যাকে বলা হচ্ছিল, সে মানেনি। এখানে শান্তি দেওয়া হচ্ছে সেই দুই ভাইকেই, কোনো শর্ত ছাড়া, তাঁদের নাম ধরে। আল্লাহর হুকুমে যে শব্দ তাঁরা বয়ে নিয়ে গিয়েছিলেন, সেটিই নাম ধরে তাঁদের কাছে ফিরে এল। এ জোড়া মেলানো এই লেখার নিজের পাঠ। ৩৭:১২০ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর দুই আয়াতকে যুক্ত করেনি। তাই পাঠ্যে যা দেখা যায়, তার বাইরে এর উপর কিছু দাঁড় করানো হচ্ছে না।"
+          },
+          {
+            "en": "One small difference shows in the Arabic. At 20:47 the word is definite, al-salām; at 37:120 it is indefinite, salāmun, as in every greeting of this surah's refrain. No source fetched for this verse comments on the difference, so no reason for it is offered here. It is noted only so that the comparison above is not taken to rest on identical wording.",
+            "bn": "আরবিতে একটি ছোট পার্থক্য চোখে পড়ে। ২০:৪৭ আয়াতে শব্দটি নির্দিষ্ট রূপে, আস-সালাম। ৩৭:১২০ আয়াতে অনির্দিষ্ট রূপে, সালামুন, যেমন এ সূরার প্রতিটি সালামে। এ আয়াতের জন্য সংগ্রহ করা কোনো সূত্র এই পার্থক্য নিয়ে কিছু বলেনি, তাই এখানে কোনো কারণ দেখানো হচ্ছে না। কথাটা তোলা হলো শুধু এজন্য, যাতে কেউ না ভাবেন যে উপরের তুলনাটি হুবহু একই শব্দের উপর দাঁড়িয়ে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Names Cleared on Record",
+          "bn": "দুটি নাম, কুরআনে নির্দোষ"
+        },
+        "p": [
+          {
+            "en": "The Muyassar's third element, safety min kulli āfa, from every harm, is broad. For Nuh (AS), al-Qurtubi at 37:79 narrows a like greeting to one kind of safety: that he would not be mentioned with evil among later generations. That reading is his on Nuh's verse, and it is not transferred here as his view of this one. But the Qur'an itself shows that both brothers' names were once exposed to harm in people's mouths, and that it set the record straight for each of them.",
+            "bn": "মুয়াসসারের তৃতীয় দিক, সব রকম বিপদ-আপদ থেকে নিরাপত্তা, অনেক বিস্তৃত। নূহ (আঃ)-এর প্রসঙ্গে ৩৭:৭৯ আয়াতে কুরতুবী একই ধরনের সালামকে এক বিশেষ নিরাপত্তায় সীমিত করেন: পরবর্তীদের মধ্যে তাঁকে কেউ মন্দভাবে স্মরণ করবে না। সেটি নূহ (আঃ)-এর আয়াতে তাঁর নিজের ব্যাখ্যা। এ আয়াত সম্পর্কে তাঁর মত হিসেবে তা এখানে টেনে আনা হচ্ছে না। তবে কুরআন নিজেই দেখায়, এই দুই ভাইয়ের নামও একসময় মানুষের মুখে আঘাতের মুখে পড়েছিল। আর দুজনের বেলাতেই কুরআন সত্যটা লিখে রেখেছে।"
+          },
+          {
+            "en": "Of Musa (AS), 33:69 says: O you who have believed, be not like those who abused Musa; then Allah cleared him of what they said, and he was, in the sight of Allah, distinguished. Of Harun (AS), when his people took up the calf while his brother was away, 20:90 records what he had told them beforehand: O my people, you are only being tested by it, and indeed your Lord is the Most Merciful, so follow me and obey my order. Whatever his people did, the Qur'an keeps on record what he said to them.",
+            "bn": "মূসা (আঃ) সম্পর্কে ৩৩:৬৯ আয়াত বলে: হে মুমিনগণ, তোমরা তাদের মতো হয়ো না, যারা মূসাকে কষ্ট দিয়েছিল। তারা যা বলেছিল, আল্লাহ তা থেকে তাঁকে নির্দোষ প্রমাণ করেছেন, আর আল্লাহর কাছে তিনি ছিলেন সম্মানিত। হারূন (আঃ)-এর কথা ধরুন। ভাই যখন দূরে, তাঁর কওম বাছুরপূজায় মেতে উঠল। ২০:৯০ আয়াত জানায়, তিনি আগেই তাদের বলেছিলেন: হে আমার কওম, এ দিয়ে তোমাদের পরীক্ষা করা হচ্ছে মাত্র। তোমাদের রব তো দয়াময়, কাজেই আমার অনুসরণ করো, আমার কথা মানো। কওম যা-ই করুক, তিনি তাদের কী বলেছিলেন, কুরআন তা লিখে রেখেছে।"
+          },
+          {
+            "en": "Read beside those verses, the greeting of 37:120 falls on two names, one that had been abused and one that could have been blamed. In the order of the mushaf, the peace on them here is the surah's last word on both. This is an observation drawn from the Qur'an's own verses, not a claim made by any commentator fetched for this verse, offered for the reader to weigh, not as the reason the greeting was given.",
+            "bn": "ওই আয়াতগুলোর পাশে রেখে পড়লে দেখা যায়, ৩৭:১২০ আয়াতের সালাম পড়েছে এমন দুটি নামের উপর, যার একটিকে কষ্ট দেওয়া হয়েছিল, আর অন্যটির উপর দোষ চাপানো যেত। মুসহাফের ক্রমে এখানে তাঁদের প্রতি সালামই এ সূরায় দুজনের ব্যাপারে শেষ কথা। এটি কুরআনের নিজের আয়াত থেকে নেওয়া একটি পর্যবেক্ষণ। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীরকার এ দাবি করেননি। কথাটা রাখা হলো পাঠকের বিবেচনার জন্য, সালাম কেন দেওয়া হয়েছে তার কারণ হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Greeted in the Fifth and Sixth",
+          "bn": "পঞ্চম ও ষষ্ঠ আসমানে সালাম"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. A sound narration, though, shows both brothers greeted with salām, and it is offered as an illustration, not as a report on the verse. Al-Bukhari records in his Sahih (3887) Malik bin Sasaa's long account of the Night Journey. In the English rendering, the Prophet ﷺ says of the fifth heaven: ‘there I saw Harun (i.e. Aaron), Gabriel said, (to me). This is Aaron; pay him your greetings. I greeted him and he returned the greeting to me and said, You are welcomed, O pious brother and pious Prophet.’",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সহীহ বর্ণনায় দুই ভাইকেই সালাম দেওয়ার কথা আছে। এটি আনা হলো দৃষ্টান্ত হিসেবে, আয়াতের ব্যাখ্যায় বর্ণিত হাদীস হিসেবে নয়। ইমাম বুখারী তাঁর সহীহ গ্রন্থে (৩৮৮৭) মালিক ইবন সা'সা'আ (রাঃ) থেকে মি'রাজের দীর্ঘ বিবরণ এনেছেন। সেখানে নবী ﷺ পঞ্চম আসমানের কথা বলেন: ‘সেখানে আমি হারূনকে দেখলাম। জিবরীল আমাকে বললেন, ইনি হারূন, তাঁকে সালাম দিন। আমি তাঁকে সালাম দিলাম, তিনি জবাব দিলেন, তারপর বললেন: স্বাগতম, হে নেককার ভাই ও নেককার নবী।’"
+          },
+          {
+            "en": "The narration then continues, with the same exchange at the gate, to the sixth heaven, where he says: ‘there I saw Moses. Gabriel said (to me), This is Moses; pay him your greeting. So I greeted him and he returned the greetings to me and said, You are welcomed, O pious brother and pious Prophet.’ In the Arabic, Gabriel's instruction is fa-sallim 'alayhi, so greet him with salām, from the same root as the verse's word, and the Prophet ﷺ answers: fa-sallamtu 'alayhi, so I greeted him.",
+            "bn": "এরপর বর্ণনাটি এগিয়ে যায়। দরজায় একই প্রশ্নোত্তরের পর পৌঁছায় ষষ্ঠ আসমানে, যেখানে তিনি বলেন: ‘সেখানে আমি মূসাকে দেখলাম। জিবরীল আমাকে বললেন, ইনি মূসা, তাঁকে সালাম দিন। আমি তাঁকে সালাম দিলাম, তিনি জবাব দিলেন, তারপর বললেন: স্বাগতম, হে নেককার ভাই ও নেককার নবী।’ আরবিতে জিবরীলের নির্দেশ ফাসাল্লিম আলাইহি, তাঁকে সালাম দিন। শব্দটি আয়াতের সালামেরই ধাতু থেকে। আর নবী ﷺ বলেন, ফাসাল্লামতু আলাইহি, আমি তাঁকে সালাম দিলাম।"
+          },
+          {
+            "en": "The narration does not mention this verse, and nothing here claims that it explains it. In a sound report, the Prophet ﷺ is told to greet Harun and Musa (AS) by name, and he does. The second reading of later generations that al-Qurtubi records at 37:79, the prophets who came after, finds a ready picture here, though he does not cite this narration for it in the text fetched. A salām on these two names is not only recited, then; in this report it was also given in person.",
+            "bn": "বর্ণনাটিতে এ আয়াতের উল্লেখ নেই, আর এখানে দাবিও করা হচ্ছে না যে এটি আয়াতের ব্যাখ্যা। একটি সহীহ বর্ণনায় নবী ﷺ-কে বলা হয় হারূন ও মূসা (আঃ)-কে নাম ধরে সালাম দিতে, আর তিনি তা দেন। ৩৭:৭৯ আয়াতে কুরতুবী পরবর্তী প্রজন্মের যে দ্বিতীয় অর্থ উল্লেখ করেছেন, অর্থাৎ পরে আসা নবীগণ, তার একটি জীবন্ত ছবি এখানে পাওয়া যায়। তবে সংগ্রহ করা পাঠে তিনি এ বর্ণনাকে সে মতের পক্ষে উদ্ধৃত করেননি। তাহলে এই দুই নামের উপর সালাম শুধু তেলাওয়াতেই থাকেনি। এ বর্ণনায় তা সামনাসামনিও দেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Greeting Readers Still Say",
+          "bn": "যে সালাম পাঠক আজও বলেন"
+        },
+        "p": [
+          {
+            "en": "The greeting also lives outside the mushaf. When a Muslim says or writes Musa 'alayhi al-salām, peace be upon him, the word is the word this verse gives, on the same name. This article does it each time it writes (AS) after Musa and Harun. Nothing fetched for the verse says the custom comes from here, and no such claim is made. But at-Tabari's gloss, that it be said, describes exactly what happens whenever the names are spoken with honour: the later ones say it.",
+            "bn": "সালামটি মুসহাফের বাইরেও বেঁচে আছে। কোনো মুসলিম যখন মূসা আলাইহিস সালাম বলেন বা লেখেন, তখন শব্দটি সেই শব্দই, যা এ আয়াত দিয়েছে, আর নামটিও সেই নাম। এ লেখা নিজেও মূসা ও হারূনের নামের পরে প্রতিবার (আঃ) লিখে একই কাজ করছে। এ রীতি এ আয়াত থেকেই এসেছে, এমন কথা সংগ্রহ করা কোনো সূত্রে নেই, আর এখানেও সে দাবি করা হচ্ছে না। তবে তাবারীর ব্যাখ্যা, বলা হবে, ঠিক সেটাই বর্ণনা করে, যা নাম দুটি সম্মানের সঙ্গে উচ্চারিত হলেই ঘটে: পরবর্তীরা সালাম বলে।"
+          },
+          {
+            "en": "The Qur'an also widens this greeting in two places. Near the surah's end, 37:181 gives wa-salāmun 'alā al-mursalīn, and peace upon the messengers, all of them together. And 27:59 tells the Prophet ﷺ to say: praise be to Allah, and peace upon His servants whom He has chosen. Musa and Harun (AS) are among the servants this surah names, and the general greetings take them in as well. So the named greeting and the general one stand side by side: one spoken over two brothers, the other over every chosen servant.",
+            "bn": "কুরআন এই সালামকে আরও দুই জায়গায় প্রসারিত করেছে। সূরার শেষ দিকে ৩৭:১৮১ আয়াত বলে: ওয়া সালামুন আলাল মুরসালীন, সব রাসূলের প্রতি সালাম। আর ২৭:৫৯ আয়াতে নবী ﷺ-কে বলতে বলা হয়েছে: সব প্রশংসা আল্লাহর, আর সালাম তাঁর সেই বান্দাদের প্রতি, যাঁদের তিনি বেছে নিয়েছেন। মূসা ও হারূন (আঃ) এ সূরায় নাম ধরে উল্লেখ করা বান্দাদের মধ্যে আছেন, আর সাধারণ সালামগুলোও তাঁদের শামিল করে। ফলে নাম ধরে দেওয়া সালাম আর সাধারণ সালাম পাশাপাশি দাঁড়িয়ে আছে। একটি দুই ভাইয়ের জন্য, অন্যটি প্রত্যেক বাছাই করা বান্দার জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Greeting Grants No One",
+          "bn": "এ সালাম কাউকে যা দেয় না"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. Musa and Harun (AS) were sent to Pharaoh, and the rescue in this passage was of their people from Pharaoh and his people. The verse greets two prophets. It describes what the text describes, and it licenses nothing against any Jewish person or community, and nothing for or against any present-day state or nation. Pharaoh's downfall belongs to 37:116 and grants no one a warrant against anyone living. Nor is the greeting owned by a single community: Muslims send peace on Musa and Harun (AS) as prophets of their own faith.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। মূসা ও হারূন (আঃ)-কে পাঠানো হয়েছিল ফেরাউনের কাছে, আর এ অংশে যে উদ্ধারের কথা, তা ফেরাউন ও তার লোকদের হাত থেকে তাঁদের কওমের উদ্ধার। আয়াতটি দুজন নবীকে সালাম জানায়, এর বেশি নয়। পাঠ্যে যা আছে, আয়াত তা-ই বর্ণনা করে। কোনো ইহুদি ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। আজকের কোনো রাষ্ট্র বা জাতির পক্ষে বা বিপক্ষেও কিছু বলে না। ফেরাউনের পতনের আলোচনা ৩৭:১১৬ আয়াতে, আর তা জীবিত কারও বিরুদ্ধে কাউকে কোনো ছাড়পত্র দেয় না। এ সালাম কোনো এক সম্প্রদায়ের সম্পত্তিও নয়। মুসলিমরা মূসা ও হারূন (আঃ)-এর প্রতি সালাম পাঠায় নিজেদের দীনের নবী হিসেবেই।"
+          },
+          {
+            "en": "What remains for an ordinary reader is the shape of the gift. Peace came to Musa and Harun (AS) from Allah, by name and together: to the one who asked for a helper at 20:29 to 20:32, and to the helper he was given. The verses after it name what it rewarded, ihsan and faith. No reader can give himself this greeting. He can only do what was greeted: carry peace even to those who refuse it, stand by the one who carries the task, and say salām over the prophets as one who means it, because the verse said it first.",
+            "bn": "সাধারণ পাঠকের জন্য যা থাকে, তা হলো এই দানের ধরন। মূসা ও হারূন (আঃ)-এর কাছে সালাম এসেছে আল্লাহর কাছ থেকে, নাম ধরে, দুজনের কাছে একসঙ্গে। ২০:২৯ থেকে ২০:৩২ আয়াতে যিনি একজন সাহায্যকারী চেয়েছিলেন, তাঁর কাছে, আর যাঁকে সাহায্যকারী হিসেবে দেওয়া হয়েছিল, তাঁর কাছেও। পরের আয়াতগুলো জানিয়ে দেয় এটি কীসের প্রতিদান: ইহসান আর ঈমান। এই সালাম কেউ নিজেকে নিজে দিতে পারে না। পারে শুধু সেই কাজগুলো করতে, যার উপর সালাম এসেছে। যারা প্রত্যাখ্যান করে, তাদের কাছেও শান্তির কথা বয়ে নেওয়া। যিনি কাজের ভার বইছেন, তাঁর পাশে দাঁড়ানো। আর নবীদের প্রতি সালাম বলা মন থেকে, কারণ আয়াতটি তা আগেই বলে দিয়েছে।"
+          }
+        ]
+      }
+    ]
+  },
   "37:125": {
     "sections": [
       {

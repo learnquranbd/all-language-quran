@@ -37133,6 +37133,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "No one can lead you away from Allah except as He knows and decrees. Guard the company your heart keeps, leave every person's end to Him, and ask Him daily for steadiness.",
     "lessonBn": "আল্লাহর জ্ঞান আর ফয়সালার বাইরে কেউ আপনাকে তাঁর থেকে সরিয়ে নিতে পারে না। অন্তর কার সঙ্গ নিচ্ছে, সেদিকে খেয়াল রাখুন, কার পরিণাম কী হবে তা তাঁর হাতে ছেড়ে দিন, আর প্রতিদিন তাঁর কাছে দৃঢ়তা চান।"
+  },
+  "37:120": {
+    "reflectionEn": "Two brothers were once sent together to a tyrant, told to speak gently and to end their message with a word: peace upon whoever follows the guidance. They carried that peace into a hostile court and offered it on a condition. Here the same word comes back to them, with no condition at all and with both their names on it: peace upon Musa and Harun. The one who led and the one who stood beside him are greeted in a single breath. Every time a believer writes or says peace be upon them after those names, the greeting is spoken again. What peace am I carrying to people who may not want it? And whose name do I leave out when I give thanks?",
+    "reflectionBn": "একসময় দুই ভাইকে একসঙ্গে এক জালিমের কাছে পাঠানো হয়েছিল। বলে দেওয়া হয়েছিল, নরম কথা বলবে, আর বার্তা শেষ করবে একটি শব্দে: শান্তি তার প্রতি, যে হেদায়াত মেনে চলে। বৈরী দরবারে তাঁরা সেই শান্তি বয়ে নিয়ে গিয়েছিলেন, শর্তসহ। এখানে সেই শব্দই তাঁদের কাছে ফিরে আসে, কোনো শর্ত ছাড়া, আর দুজনের নাম সঙ্গে নিয়ে: মূসা ও হারূনের প্রতি সালাম। যিনি নেতৃত্ব দিলেন আর যিনি পাশে দাঁড়ালেন, দুজনকেই এক নিঃশ্বাসে সালাম জানানো হলো। কোনো মুমিন যখনই এ দুই নামের পরে আলাইহিমাস সালাম বলেন বা লেখেন, সালামটা আবার উচ্চারিত হয়। আমি কোন শান্তি বয়ে নিয়ে যাচ্ছি এমন মানুষের কাছে, যারা হয়তো তা চায় না? আর কৃতজ্ঞতা জানানোর সময় কার নামটা আমি বাদ দিয়ে ফেলি?",
+    "pointsEn": [
+      "When I disagree with someone about the truth, do my words still end in peace, or only in winning?",
+      "Who has stood beside me in a task the way Harun (AS) stood beside his brother, and have I ever named them when the work was praised?",
+      "When I say or write peace be upon him after a prophet's name, do I mean it as a greeting, or has it become a habit of the pen?",
+      "What would I want said after my name by people who never met me, and what am I doing this week that would make it true?",
+      "Is there a gift of mine that I would rather share with a helper than keep for myself alone?"
+    ],
+    "pointsBn": [
+      "সত্য নিয়ে কারও সঙ্গে মতভেদ হলে আমার কথা কি শেষ পর্যন্ত শান্তিতে গিয়ে থামে, নাকি শুধু জেতার চেষ্টায়?",
+      "হারূন (আঃ) যেমন ভাইয়ের পাশে দাঁড়িয়েছিলেন, তেমন করে কে আমার কাজে পাশে থেকেছে? কাজের প্রশংসা হওয়ার সময় আমি কি কখনো তার নাম বলেছি?",
+      "কোনো নবীর নামের পরে আলাইহিস সালাম বলার বা লেখার সময় আমি কি সত্যিই সালাম জানাই, নাকি এটা কলমের অভ্যাস হয়ে গেছে?",
+      "যারা আমাকে কখনো দেখেনি, তারা আমার নামের পরে কী বলুক বলে আমি চাই? আর এ সপ্তাহে আমি এমন কী করছি, যাতে কথাটা সত্য হয়?",
+      "আমার এমন কোনো পাওয়া কি আছে, যা একা রাখার চেয়ে কোনো সাহায্যকারীর সঙ্গে ভাগ করে নিতে চাইব?"
+    ],
+    "lessonEn": "Carry peace even to those who resist the truth, and mean it when you send peace on the prophets. Name the helper beside you; Allah greeted both brothers together.",
+    "lessonBn": "যারা সত্যকে মানতে চায় না, তাদের কাছেও শান্তির কথা বয়ে নিন, আর নবীদের প্রতি সালাম পাঠানোর সময় মন থেকে পাঠান। পাশে থাকা সাহায্যকারীর নামও বলুন; আল্লাহ দুই ভাইকে একসঙ্গে সালাম জানিয়েছেন।"
   }
 };
 
