@@ -35179,6 +35179,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Weigh every charge as if your own soul stood behind it, and leave to Allah what no witness saw.",
     "lessonBn": "প্রতিটি অভিযোগ এমনভাবে ওজন করুন যেন তার পেছনে আপনার নিজের প্রাণ দাঁড়িয়ে আছে, আর যা কোনো সাক্ষী দেখেনি তা আল্লাহর হাতে ছেড়ে দিন।"
+  },
+  "24:40": {
+    "reflectionEn": "The mirage at least shimmered. This second picture has nothing to shimmer at all: a sea too deep to find its floor, a wave, another wave riding on it, and over everything a cloud. Darkness is stacked on darkness until a man holds up his own hand and can barely see it. The verse is not describing a stranger's heart to me so that I can name him. It shows what any life becomes when it is lived without the light only Allah gives, and then it closes the last door: whoever Allah does not give light has no light at all. So where do I look for light? In my own cleverness, in the crowd I follow, or in Him?",
+    "reflectionBn": "মরীচিকা অন্তত চিকচিক করত। এই দ্বিতীয় ছবিতে চিকচিক করার মতো কিছুই নেই। এমন গভীর সাগর যার তল খুঁজে পাওয়া যায় না, তার উপর ঢেউ, সেই ঢেউয়ের উপর আরেক ঢেউ, আর সবার উপরে মেঘ। অন্ধকারের উপর অন্ধকার জমতে জমতে এমন অবস্থা হয় যে মানুষ নিজের হাত চোখের সামনে তুলে ধরেও প্রায় দেখতে পায় না। আয়াতটি আমাকে অন্য কারও অন্তরের বর্ণনা শোনাচ্ছে না যাতে আমি তার নাম ধরে আঙুল তুলি। এ বরং দেখায়, আল্লাহর দেওয়া আলো ছাড়া যে জীবন কাটে, তা শেষে কেমন দাঁড়ায়। তারপর শেষ দরজাটাও বন্ধ করে দেয়: আল্লাহ যাকে আলো দেন না, তার আর কোনো আলো নেই। তাহলে আমি আলো খুঁজি কোথায়? নিজের বুদ্ধিতে, যে ভিড়ের পেছনে হাঁটি সেই ভিড়ে, নাকি তাঁর কাছে?",
+    "pointsEn": [
+      "Which part of my life am I running on my own light, without once asking Allah to guide it?",
+      "If someone asked me where I am heading and why, could I answer, or would I only say that I am going where others go?",
+      "What darkness have I let settle on another darkness, a habit on a habit, until I no longer notice it?",
+      "When I recite this verse, do I picture someone else in that sea, or do I ask whether my own words and deeds carry light?",
+      "What would it mean for me to ask Allah for light each day, in my heart, my sight and my hearing, as a real need?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন অংশটা আমি চালাচ্ছি শুধু নিজের আলোয়, একবারও আল্লাহর কাছে পথ না চেয়ে?",
+      "কেউ যদি জিজ্ঞেস করে আমি কোথায় যাচ্ছি আর কেন, আমি কি উত্তর দিতে পারব? নাকি শুধু বলব, সবাই যেদিকে যায় আমিও সেদিকে যাচ্ছি?",
+      "কোন অন্ধকারের উপর আমি আরেক অন্ধকার জমতে দিয়েছি, এক অভ্যাসের উপর আরেক অভ্যাস, যতক্ষণ না সেটা আর চোখেই পড়ে না?",
+      "এই আয়াত পড়ার সময় আমি কি সেই সাগরে অন্য কাউকে কল্পনা করি, নাকি নিজেকে জিজ্ঞেস করি আমার কথা আর আমলে আলো আছে কিনা?",
+      "অন্তরে, চোখে আর কানে আলো চেয়ে প্রতিদিন আল্লাহর কাছে দু'আ করা, সত্যিকারের প্রয়োজন হিসেবে, আমার জন্য কেমন হবে?"
+    ],
+    "lessonEn": "Light for the heart is Allah's gift, not one's own cleverness or the crowd's; ask Him for it daily, and do not walk where you cannot see.",
+    "lessonBn": "অন্তরের আলো আল্লাহর দান, নিজের চালাকি বা ভিড়ের কাছ থেকে তা মেলে না। প্রতিদিন তাঁর কাছে তা চেয়ে নিন, আর যেখানে কিছুই দেখা যায় না সেখানে অন্ধের মতো হাঁটবেন না।"
   }
 };
 

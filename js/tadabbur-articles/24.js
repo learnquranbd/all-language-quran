@@ -1927,6 +1927,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "24:40": {
+    "sections": [
+      {
+        "h": {
+          "en": "Or Like Darknesses",
+          "bn": "অথবা অন্ধকারের মতো"
+        },
+        "p": [
+          {
+            "en": "Aw ka-zulumatin fi bahrin lujjiyy: or like darknesses in a fathomless sea. The verse is the second half of a pair. 24:39 likened the deeds of those who disbelieve to a mirage on a level plain, and this verse sets a second picture beside it. At-Tabari and al-Baghawi open with the same words: this is another parable Allah struck for the deeds of the disbelievers. At-Tabari names what the likeness holds: deeds done in error, corruption, straying and confusion, without guidance.",
+            "bn": "আও কা-যুলুমাতিন ফী বাহরিন লুজ্জিয়্যিন: অথবা অতল সাগরের অন্ধকাররাশির মতো। আয়াতটি একজোড়া দৃষ্টান্তের দ্বিতীয় অংশ। ২৪:৩৯ আয়াত কাফিরদের আমলকে তুলনা করেছে সমতল প্রান্তরের মরীচিকার সঙ্গে, আর এ আয়াত তার পাশে আরেকটি ছবি রাখে। তাবারী ও বাগাভী দুজনেই শুরু করেন একই কথায়: এটি কাফিরদের আমলের জন্য আল্লাহর দেওয়া আরেকটি দৃষ্টান্ত। তুলনাটা কোথায়, তাবারী তা বলে দেন। এসব আমল করা হয়েছে ভুল, বিকৃতি, পথভ্রষ্টতা আর দিশাহারা অবস্থায়, হেদায়াত ছাড়াই।"
+          },
+          {
+            "en": "Al-Qurtubi gathers the comment on the small word aw, or. Az-Zajjaj said: if you wish, liken them to the mirage, and if you wish, to the darknesses, so the word offers a choice, as in 2:19. Al-Jurjani read the two verses apart: the first speaks of the disbelievers' deeds, the second of their disbelief, joined to the deeds because disbelief is also a deed. Abu 'Ali took it as or like one in darknesses, since his hand needs a person. Al-Qushayri sums it up: for az-Zajjaj the likeness is of the deeds, for al-Jurjani of the disbelief, for Abu 'Ali of the disbeliever himself.",
+            "bn": "ছোট্ট শব্দ 'আও', অর্থাৎ অথবা, নিয়ে যে আলোচনা হয়েছে, কুরতুবী তা এক জায়গায় এনেছেন। যাজ্জাজ বলেন, চাইলে তাদের তুলনা দাও মরীচিকার সঙ্গে, চাইলে অন্ধকারের সঙ্গে। তাঁর মতে শব্দটি এখানে বেছে নেওয়ার সুযোগ দেয়, যেমন ২:১৯ আয়াতে। জুরজানী দুই আয়াতকে আলাদা করে পড়েন। প্রথমটি কাফিরদের আমলের কথা, দ্বিতীয়টি তাদের কুফরের কথা। কুফরকে আমলের সঙ্গে জোড়া হয়েছে, কারণ কুফরও তাদের এক আমল। আবু আলী অর্থ করেন, অথবা অন্ধকারে থাকা এক ব্যক্তির মতো, কারণ পরে 'তার হাত' বলতে একজন মানুষ লাগে। কুশাইরী সারকথা বলেন: যাজ্জাজের কাছে তুলনাটা আমলের, জুরজানীর কাছে কুফরের, আর আবু আলীর কাছে স্বয়ং কাফিরের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sea Without a Floor",
+          "bn": "যে সাগরের তল নেই"
+        },
+        "p": [
+          {
+            "en": "Lujjiyy is formed from lujja. Qatada, in both Ibn Kathir and at-Tabari, gives one word: deep. At-Tabari explains that the sea is tied to the lujja to describe it as deep and full of water, and the lujja of a sea is its main mass. Al-Qurtubi calls it the sea whose bottom cannot be reached, and gives the verb: the sea iltajja when its waves crash into one another. As-Sa'di says: far its bottom, long its reach.",
+            "bn": "লুজ্জিয়্য শব্দটি এসেছে লুজ্জা থেকে। ইবন কাসীর ও তাবারী দুজনের বর্ণনাতেই কাতাদা এক শব্দে অর্থ বলেন: গভীর। তাবারী ব্যাখ্যা করেন, সাগরকে লুজ্জার সঙ্গে যুক্ত করা হয়েছে এ কথা বোঝাতে যে তা গভীর আর পানিতে ভরা। সাগরের লুজ্জা মানে তার মূল বিস্তার। কুরতুবীর ভাষায় এ সেই সাগর যার তল নাগাল পাওয়া যায় না। তিনি ক্রিয়াপদটিও দেখান: ঢেউ যখন একটা আরেকটার গায়ে আছড়ে পড়ে, তখন বলা হয় সাগর 'ইলতাজ্জা' করেছে। সা'দী বলেন, তার তল বহু দূরে, বিস্তার বহু দীর্ঘ।"
+          },
+          {
+            "en": "Yaghshahu mawjun min fawqihi mawjun min fawqihi sahab: a wave covers it, above which is a wave, above which is cloud. At-Tabari walks through it: a wave covers the sea; above that wave another wave covers it; above the second wave, which covers the first, a cloud. Al-Qurtubi adds what the stacking does to the one inside it: the fear of the wave, the fear of the wind and the fear of the cloud all gather at once.",
+            "bn": "ইয়াগশাহু মাওজুম মিন ফাওকিহী মাওজুম মিন ফাওকিহী সাহাব: তাকে ঢেকে রাখে ঢেউ, তার উপরে ঢেউ, তার উপরে মেঘ। তাবারী ধাপে ধাপে বুঝিয়ে দেন। একটি ঢেউ সাগরকে ঢেকে রাখে, সেই ঢেউয়ের উপর আরেকটি ঢেউ এসে তাকে ঢাকে, আর প্রথম ঢেউয়ের উপর চড়া এই দ্বিতীয় ঢেউয়ের উপরে মেঘ। এই স্তূপ ভেতরের মানুষটির কী অবস্থা করে, কুরতুবী তা যোগ করেন। ঢেউয়ের ভয়, বাতাসের ভয় আর মেঘের ভয়, তিনটি একসঙ্গে এসে জমা হয়।"
+          },
+          {
+            "en": "He records a second picture under it is said: a wave followed by a wave, one behind another until they seem stacked, which is most frightening when the waves come close and without a break. The cloud, he says, adds to fear in two ways. It has covered the stars by which one finds the way, and it brings the wind that rises with clouds and the rain that falls from them. Above the man at sea, then, the last guide is gone, and around him the sea is only rising.",
+            "bn": "'বলা হয়' কথাটি দিয়ে তিনি আরেকটি ছবিও আনেন। ঢেউয়ের পেছনে ঢেউ, একটার পর একটা, এমনভাবে যে মনে হয় একটা আরেকটার উপর চেপে আছে। ঢেউ যখন ঘন ঘন, বিরতি ছাড়া আসে, তখনই সবচেয়ে বেশি ভয়। মেঘ ভয় বাড়ায় দুইভাবে, কুরতুবী বলেন। প্রথমত, যে তারা দেখে মানুষ পথ চেনে, মেঘ তা ঢেকে দিয়েছে। দ্বিতীয়ত, মেঘের সঙ্গে ওঠে বাতাস, আর তা থেকে নামে বৃষ্টি। ফলে সাগরে আটকে পড়া মানুষটির মাথার উপরে শেষ দিশাটুকুও হারিয়ে গেছে, আর চারপাশে সাগর কেবল ফুঁসে উঠছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dark Laid Over Dark",
+          "bn": "আঁধারের উপর আঁধার"
+        },
+        "p": [
+          {
+            "en": "Zulumatun ba'duha fawqa ba'd: darknesses, some above others. Al-Baghawi counts three, the dark of the cloud, of the wave and of the sea, each laid on the next. Al-Qurtubi's list adds the night, so that whoever is inside sees nothing, not even a star. As-Sa'di builds it upward: the deep sea, over it the piled waves, over that the black clouds, over that the pitch-dark night. Al-Qurtubi also records, under it is said, that the darknesses are hardships; at-Tabari gives Ibn Zayd's gloss: evil, some upon other.",
+            "bn": "যুলুমাতুন বা'দুহা ফাওকা বা'দ: অন্ধকাররাশি, একটার উপর আরেকটা। বাগাভী গোনেন তিনটি: মেঘের অন্ধকার, ঢেউয়ের অন্ধকার আর সাগরের অন্ধকার, প্রতিটি পরেরটার উপর চাপানো। কুরতুবীর তালিকায় যোগ হয় রাত, ফলে ভেতরে যে আছে সে কিছুই দেখে না, একটা তারাও না। সা'দী স্তরগুলো নিচ থেকে সাজান। গভীর সাগর, তার উপর জমে ওঠা ঢেউ, তার উপর কালো মেঘ, আর তারও উপর ঘুটঘুটে রাত। কুরতুবী 'বলা হয়' দিয়ে আরেকটি মতও আনেন: অন্ধকার মানে বিপদ, একটার উপর আরেকটা। তাবারী উদ্ধৃত করেন ইবন যায়দের ব্যাখ্যা: অনিষ্ট, একটার উপর আরেকটা।"
+          },
+          {
+            "en": "Then the commentators lay the picture back over the heart. Ibn 'Abbas, in a report at-Tabari gives with its chain and Ibn Kathir cites through al-'Awfi, said: by the darknesses He means the deeds, and by the deep sea the heart of man; darkness upon darkness is the covering over the heart, the hearing and the sight, as in 2:7 and 45:23. Al-Baghawi spells out the rest: the waves are the ignorance, doubt and confusion that cover the heart, and the cloud is the seal and the stamp set upon it.",
+            "bn": "এরপর তাফসীরকারেরা ছবিটা ফিরিয়ে আনেন অন্তরের উপর। ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা তাবারী সনদসহ এনেছেন, আর ইবন কাসীর তা উদ্ধৃত করেছেন আওফীর সূত্রে। তাতে তিনি বলেন: অন্ধকার মানে আমল, আর অতল সাগর মানে মানুষের অন্তর। অন্ধকারের উপর অন্ধকার হলো অন্তর, কান আর চোখের উপরের আবরণ, যেমনটা ২:৭ ও ৪৫:২৩ আয়াতে এসেছে। বাগাভী বাকিটাও খুলে বলেন। ঢেউ হলো অজ্ঞতা, সংশয় আর দিশাহারা ভাব, যা অন্তরকে ঢেকে ফেলে। আর মেঘ হলো সেই মোহর ও ছাপ, যা অন্তরের উপর মেরে দেওয়া হয়েছে।"
+          },
+          {
+            "en": "As-Sa'di gives the heart four layers to answer the four of the sea: the darkness of a nature with no good in it, over it the darkness of disbelief, over that the darkness of ignorance, and over that the darkness of the deeds that issue from all three. At-Tabari shows how the layers shut every way in: the heart does not understand from Allah, the hearing does not hear His admonitions, the sight does not see His proofs.",
+            "bn": "সাগরের চার স্তরের জবাবে সা'দী অন্তরেরও চারটি স্তর দেখান। প্রথমে এমন স্বভাবের অন্ধকার যাতে কোনো কল্যাণ নেই। তার উপর কুফরের অন্ধকার, তার উপর অজ্ঞতার অন্ধকার। আর সবার উপরে সেই আমলের অন্ধকার, যা এই তিনটি থেকে জন্ম নেয়। স্তরগুলো কীভাবে ঢোকার প্রতিটি পথ বন্ধ করে দেয়, তাবারী তা দেখান। অন্তর আল্লাহর কথা বোঝে না, কান তাঁর উপদেশ শোনে না, চোখ তাঁর প্রমাণ দেখে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ubayy's Count of Five",
+          "bn": "উবাই (রাঃ)-এর পাঁচ অন্ধকার"
+        },
+        "p": [
+          {
+            "en": "The best-known reading of the verse is a Companion's. Ubayy ibn Ka'b, in at-Tabari's chain through ar-Rabi' and Abu al-'Aliya, said that Allah struck another parable for the disbeliever: he turns about in five darknesses. His speech is darkness, his deed is darkness, his coming in is darkness, his going out is darkness, and his destination on the Day of Resurrection is to the darknesses, to the Fire. Ibn Kathir, al-Baghawi and al-Qurtubi all carry it, and Ibn Kathir adds that ar-Rabi' ibn Anas and as-Suddi said much the same.",
+            "bn": "আয়াতটির সবচেয়ে পরিচিত ব্যাখ্যাটি একজন সাহাবীর। রাবী' ও আবুল আলিয়ার সূত্রে তাবারী উবাই ইবন কা'ব (রাঃ)-এর কথা এনেছেন। তিনি বলেন, আল্লাহ কাফিরের জন্য আরেকটি দৃষ্টান্ত দিয়েছেন: সে পাঁচ অন্ধকারের ভেতর ঘুরপাক খায়। তার কথা অন্ধকার, তার আমল অন্ধকার, তার ঢোকা অন্ধকার, তার বের হওয়া অন্ধকার। আর কিয়ামতের দিন তার গন্তব্য অন্ধকারের দিকে, জাহান্নামের দিকে। ইবন কাসীর, বাগাভী ও কুরতুবী সবাই এটি এনেছেন। ইবন কাসীর যোগ করেন, রাবী' ইবন আনাস ও সুদ্দীও প্রায় একই কথা বলেছেন।"
+          },
+          {
+            "en": "It is Ubayy's own explanation, not words raised to the Prophet ﷺ, and it is read as that. The five are not only states of the heart. Speech and deed are what a person does; coming in and going out are the whole round of a day; the last is where the road ends. The sea's darkness pressed on the man from every side, and Ubayy's list presses on a life the same way, from what it says to where it is going.",
+            "bn": "এটি উবাই (রাঃ)-এর নিজের ব্যাখ্যা, নবী ﷺ-এর মুখের কথা হিসেবে বর্ণিত নয়, আর সেভাবেই একে পড়তে হবে। পাঁচটির সবই শুধু অন্তরের অবস্থা নয়। কথা আর আমল হলো মানুষের করা কাজ। ঢোকা আর বের হওয়া মিলে পুরো একটা দিনের চলাফেরা। আর শেষটা হলো পথ যেখানে গিয়ে থামে। সাগরের অন্ধকার মানুষটিকে চারদিক থেকে চেপে ধরেছিল। উবাই (রাঃ)-এর তালিকাও একটি জীবনকে তেমনি চারদিক থেকে ঘিরে ধরে, মুখের কথা থেকে শুরু করে শেষ গন্তব্য পর্যন্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Can Barely See His Hand",
+          "bn": "নিজের হাতও প্রায় দেখা যায় না"
+        },
+        "p": [
+          {
+            "en": "Idha akhraja yadahu lam yakad yaraha: when he puts out his hand, he can hardly see it. At-Tabari and al-Baghawi say he is the onlooker. At-Tabari raises the question himself. In Arabic, I hardly saw him admits seeing him after effort, yet in darkness less than this one cannot see one's hand at all, so why hardly? He gives three answers. It means he did not come near seeing it; or it means he did not see it, the word sitting there as thought sits in a statement of certainty, as in 41:48; or he saw it, slowly and with effort.",
+            "bn": "ইযা আখরাজা ইয়াদাহু লাম ইয়াকাদ ইয়ারাহা: সে হাত বের করলে তা প্রায় দেখতেই পায় না। তাবারী ও বাগাভী বলেন, 'সে' মানে যে দেখছে। তাবারী নিজেই একটা প্রশ্ন তোলেন। আরবিতে 'আমি তাকে প্রায় দেখিনি' বললে বোঝায়, কষ্ট করে শেষে দেখেছি। অথচ এর চেয়ে কম অন্ধকারেও মানুষ নিজের হাত মোটেই দেখে না। তাহলে 'প্রায়' কেন? তিনি তিনটি উত্তর দেন। এক, অর্থ হলো দেখার কাছাকাছিও যায়নি। দুই, অর্থ হলো দেখেইনি। এখানে শব্দটি বসেছে সেভাবে, যেভাবে নিশ্চিত কথায় 'ধারণা করল' বসে, যেমন ৪১:৪৮ আয়াতে। তিন, সে দেখেছে, তবে ধীরে, অনেক কষ্টে।"
+          },
+          {
+            "en": "His verdict divides the two levels of the question. The third answer, he says, is the most apparent meaning of the word in the way Arabs use akadu. The answer that it means he did not see it is the clearer one from the side of interpretation, though it is the more hidden meaning of the word. And hardly fits here despite such darkness, he adds, because this is a parable, not a report of something that took place. He weighs language and meaning separately.",
+            "bn": "তাঁর সিদ্ধান্ত প্রশ্নটির দুটি স্তরকে আলাদা করে। তিনি বলেন, আরবরা 'আকাদু' শব্দটি যেভাবে ব্যবহার করে, সে হিসেবে তৃতীয় উত্তরই শব্দের সবচেয়ে প্রকাশ্য অর্থ। আর 'দেখেইনি' উত্তরটি তাফসীরের দিক থেকে বেশি স্পষ্ট, যদিও শব্দের অর্থ হিসেবে সেটি বেশি প্রচ্ছন্ন। এত গভীর অন্ধকারেও 'প্রায়' শব্দটি এখানে মানিয়ে যায়, তিনি যোগ করেন, কারণ এটি একটি দৃষ্টান্ত, বাস্তবে ঘটে যাওয়া কোনো ঘটনার খবর নয়। ভাষা আর অর্থকে তিনি আলাদা আলাদা ওজন করেন।"
+          },
+          {
+            "en": "Al-Qurtubi sets the grammarians side by side. Az-Zajjaj and Abu 'Ubayda: he did not see it, nor nearly, which he gives as al-Hasan's meaning too. Al-Farra': the verb is an added link, so he did not see it. Al-Mubarrad: he saw it only after effort. An-Nahhas judges soundest that he did not come near seeing it at all. Ibn Kathir and the Muyassar keep to that line, from the sheer intensity of the dark, and as-Sa'di adds: this though the hand is so close, so what of anything else?",
+            "bn": "কুরতুবী ব্যাকরণবিদদের মত পাশাপাশি রাখেন। যাজ্জাজ ও আবু উবাইদা বলেন, দেখেনি, প্রায় দেখার মতোও না। কুরতুবী জানান, হাসানের কথার অর্থও এটাই। ফাররার মতে ক্রিয়াটি এখানে অতিরিক্ত সংযোগ মাত্র, অর্থাৎ দেখেনি। মুবাররাদের মতে দেখেছে, তবে অনেক চেষ্টার পর। নাহহাস সবচেয়ে বিশুদ্ধ মনে করেন এই অর্থ যে সে দেখার কাছাকাছিও যায়নি। ইবন কাসীর ও মুয়াসসারও এই পথে চলেন: অন্ধকার এত তীব্র। সা'দী যোগ করেন, হাত এত কাছে থাকার পরও যদি এই অবস্থা হয়, তাহলে অন্য কিছুর কী দশা!"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Light Except His Gift",
+          "bn": "তাঁর দান ছাড়া আলো নেই"
+        },
+        "p": [
+          {
+            "en": "Wa man lam yaj'ali llahu lahu nuran fa-ma lahu min nur: and whoever Allah has not given light has no light. At-Tabari reads light as faith, guidance out of straying, and knowledge of His Book; whom Allah does not provide with these has none of them. The Muyassar: whom Allah gives no light from His Book and the Sunnah of His Prophet to be guided by has no guide. Ibn 'Abbas, in al-Baghawi and al-Qurtubi: whom Allah gives no religion has no religion.",
+            "bn": "ওয়া মাল লাম ইয়াজ'আলিল্লাহু লাহু নূরান ফামা লাহু মিন নূর: আল্লাহ যাকে আলো দেননি, তার কোনো আলো নেই। তাবারীর কাছে এখানে আলো মানে ঈমান, পথভ্রষ্টতা থেকে বেরিয়ে আসার হেদায়াত, আর আল্লাহর কিতাবের জ্ঞান। আল্লাহ যাকে এগুলো দান করেননি, তার এর কোনোটিই নেই। মুয়াসসার বলে, আল্লাহ যাকে তাঁর কিতাব ও তাঁর নবীর সুন্নাহ থেকে পথ চলার আলো দেননি, তার কোনো পথপ্রদর্শক নেই। বাগাভী ও কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, আল্লাহ যাকে দীন দেননি, তার কোনো দীন নেই।"
+          },
+          {
+            "en": "Whether the light is of this world or the next, al-Qurtubi leaves open. In his report Ibn 'Abbas adds that whom Allah gives no light to walk by on the Day of Resurrection will not find the way to Paradise, and he reads it with 57:28, and He will give you a light by which you walk. Az-Zajjaj says it concerns this world: whom Allah does not guide is not guided. Al-Qurtubi opens with his own gloss and leaves the two standing: a light to be guided by when matters have grown dark around him.",
+            "bn": "এই আলো দুনিয়ার, নাকি আখিরাতের, কুরতুবী প্রশ্নটি খোলা রাখেন। তাঁর বর্ণনায় ইবন আব্বাস (রাঃ) যোগ করেন, কিয়ামতের দিন পথ চলার আলো আল্লাহ যাকে দেননি, সে জান্নাতের পথ খুঁজে পাবে না। এর সঙ্গে তিনি পড়েন ৫৭:২৮ আয়াত: আর তিনি তোমাদের এমন আলো দেবেন, যা নিয়ে তোমরা চলবে। যাজ্জাজ বলেন, কথাটি দুনিয়ার ব্যাপারে: আল্লাহ যাকে হেদায়াত দেন না, সে হেদায়াত পায় না। কুরতুবী শুরুতে নিজের একটি ব্যাখ্যা দেন, আর দুটি মতকেই পাশাপাশি রেখে দেন। তাঁর ব্যাখ্যায় আলো মানে এমন আলো, যা দিয়ে পথ চেনা যায়, যখন চারপাশের সব কিছু অন্ধকার হয়ে আসে।"
+          },
+          {
+            "en": "As-Sa'di gives the reason the clause is absolute. The soul is wrongful and ignorant, and holds no good and no light except what its Master gave it and its Lord granted; they lacked light because Allah left them unaided and did not give them of His light. Ibn Kathir and Ma'arif al-Qur'an both set the clause against 24:35, Allah guides to His light whom He wills: the believers' parable ends with light given, this with light withheld. Ibn Kathir joins 7:186: whom Allah sends astray has no guide.",
+            "bn": "বাক্যটি কেন এত নিরঙ্কুশ, সা'দী তার কারণ বলেন। নাফস নিজে জালিম ও অজ্ঞ। তার মালিক আর তার রব তাকে যা দান করেছেন, তার বাইরে তাতে কোনো কল্যাণ বা আলো নেই। আল্লাহ তাদের সাহায্য থেকে বঞ্চিত রেখেছেন, নিজের আলো থেকে কিছু দেননি, তাই তারা আলোহীন। ইবন কাসীর ও মাআরিফুল কুরআন দুটোই বাক্যটিকে মিলিয়ে দেখে ২৪:৩৫ আয়াতের সঙ্গে: আল্লাহ যাকে ইচ্ছা নিজের আলোর দিকে পথ দেখান। মুমিনদের দৃষ্টান্ত শেষ হয় আলো পাওয়ায়, আর এটি শেষ হয় আলো না পাওয়ায়। ইবন কাসীর সঙ্গে আনেন ৭:১৮৬: আল্লাহ যাকে পথভ্রষ্ট করেন, তার কোনো পথপ্রদর্শক নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "With Them, Not Knowing Where",
+          "bn": "তাদের সঙ্গে, কোথায় জানি না"
+        },
+        "p": [
+          {
+            "en": "The article on 24:39 sets out how the commentators divide the two parables between kinds of people; two points here add to it. Ibn Kathir gives the darkness to the plainly ignorant who follow the leaders of disbelief, not knowing whom they follow or where, and recalls the saying: asked where he was going, the man said, with them; asked where they were going, he said, I do not know. As-Sa'di leaves two readings open: both parables fit all the disbelievers' deeds, or the first is for the followed and the second for the followers.",
+            "bn": "দুই দৃষ্টান্তকে তাফসীরকারেরা কীভাবে দুই ধরনের মানুষের মধ্যে ভাগ করেন, ২৪:৩৯ আয়াতের লেখায় তা এসেছে। এখানে দুটি কথা তার সঙ্গে যোগ হয়। ইবন কাসীর অন্ধকারের দৃষ্টান্তটি দেন সাধারণ অজ্ঞদের, যারা কুফরের নেতাদের পেছনে চলে, অথচ জানে না কার পেছনে চলছে বা কোথায় যাচ্ছে। তিনি একটি প্রবাদও মনে করিয়ে দেন। লোকটিকে জিজ্ঞেস করা হলো, কোথায় যাচ্ছ? সে বলল, ওদের সঙ্গে। জিজ্ঞেস করা হলো, ওরা কোথায় যাচ্ছে? বলল, জানি না। সা'দী দুটি সম্ভাবনাই খোলা রাখেন। হয় দুই দৃষ্টান্তই সব কাফিরের আমলের বেলায় খাটে, নয়তো প্রথমটি অনুসৃত নেতাদের আর দ্বিতীয়টি অনুসারীদের।"
+          },
+          {
+            "en": "On whom it came down, al-Baghawi and al-Qurtubi relay Muqatil: 'Utba ibn Rabi'a, who sought religion before Islam and wore sackcloth, then disbelieved when Islam came. Al-Qurtubi adds al-Mawardi's name, Shayba ibn Rabi'a, notes that both died disbelievers, and allows that the verse means them and others; al-Baghawi says most hold it general to all disbelievers. Al-Qurtubi also relays, through ath-Tha'labi, an ungraded report raised to the Prophet ﷺ on this clause, left aside here. No fetched tafsir attaches a sound hadith to the verse.",
+            "bn": "আয়াতটি কার ব্যাপারে নাযিল হয়েছে, এ নিয়ে বাগাভী ও কুরতুবী মুকাতিলের কথা আনেন: উতবা ইবন রাবীআ। ইসলামের আগে সে দীনের খোঁজ করত, চটের পোশাক পরত, তারপর ইসলাম এলে কুফরি করল। কুরতুবী মাওয়ার্দীর বর্ণিত নামও যোগ করেন, শায়বা ইবন রাবীআ। তিনি জানান, দুজনেই কাফির অবস্থায় মারা গেছে, আর আয়াতটি তাদের ও অন্যদের বোঝাতে পারে। বাগাভী বলেন, অধিকাংশের মতে আয়াতটি সব কাফিরের ব্যাপারে সাধারণ। কুরতুবী সা'লাবীর সূত্রে এ বাক্য নিয়ে নবী ﷺ-এর দিকে সম্পৃক্ত একটি বর্ণনাও আনেন, যার কোনো মান উল্লেখ নেই। এখানে তা বাদ রাখা হলো। সংগ্রহ করা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes, a parable of a state, and it licenses nothing against any living person or community. It hands no reader the right to point at a neighbour and place him in that sea. The commentators keep turning the picture inward, onto the heart, the hearing and the sight. Ma'arif al-Qur'an, citing al-Mazhari, adds that insight into the Hereafter is not won by intelligence or learning; it comes by Allah's grace alone.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি ঠিক ততটুকুই বর্ণনা করে যতটুকু পাঠে আছে, একটি অবস্থার দৃষ্টান্ত। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিবেশীর দিকে আঙুল তুলে তাকে ওই সাগরে বসিয়ে দেওয়ার অধিকার এ আয়াত কোনো পাঠককে দেয়নি। তাফসীরকারেরা বারবার ছবিটাকে ভেতরের দিকে ফেরান, অন্তর, কান আর চোখের দিকে। মাআরিফুল কুরআন মাযহারীর উদ্ধৃতি দিয়ে যোগ করে, আখিরাতের ব্যাপারে অন্তর্দৃষ্টি বুদ্ধি বা বিদ্যার জোরে মেলে না। তা আসে কেবল আল্লাহর অনুগ্রহে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer for Light",
+          "bn": "আলোর জন্য দু'আ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir ends his comment not with a verdict but with a prayer: we ask Allah the Mighty to place light in our hearts, on our right and on our left, and to make our light great. A similar prayer is in a narration al-Bukhari records (6316), general and not attached to this verse. Ibn 'Abbas reports that the Prophet ﷺ used to say in his supplication: O Allah, place light in my heart, light in my sight, light in my hearing, light on my right, light on my left, light above me, light below me, light before me, light behind me, and make for me light.",
+            "bn": "ইবন কাসীর তাঁর আলোচনা শেষ করেন কোনো রায় দিয়ে নয়, একটি দু'আ দিয়ে: আমরা মহান আল্লাহর কাছে চাই, তিনি যেন আমাদের অন্তরে আলো দেন, আমাদের ডানে আলো, বাঁয়ে আলো, আর আমাদের আলোকে বড় করে দেন। এর কাছাকাছি একটি দু'আ বুখারীর এক বর্ণনায় (৬৩১৬) আছে। বর্ণনাটি সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়। ইবন আব্বাস (রাঃ) জানান, নবী ﷺ তাঁর দু'আয় বলতেন: হে আল্লাহ, আমার অন্তরে আলো দাও, আমার চোখে আলো, আমার কানে আলো, আমার ডানে আলো, আমার বাঁয়ে আলো, আমার উপরে আলো, আমার নিচে আলো, আমার সামনে আলো, আমার পেছনে আলো, আর আমার জন্য আলো করে দাও।"
+          }
+        ]
+      }
+    ]
+  },
   "24:43": {
     "sections": [
       {
