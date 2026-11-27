@@ -35715,6 +35715,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Qur'an comes from One who is Wise and Knowing, so receive it as the Prophet did: take it, learn it, keep it, and trust its commands over your own preferences.",
     "lessonBn": "কুরআন এসেছে প্রজ্ঞাময়, সর্বজ্ঞের কাছ থেকে। তাই নবী ﷺ যেভাবে গ্রহণ করেছিলেন, আপনিও সেভাবে গ্রহণ করুন: নিন, শিখুন, ধরে রাখুন, আর নিজের পছন্দের চেয়ে এর হুকুমের ওপর বেশি ভরসা রাখুন।"
+  },
+  "26:162": {
+    "reflectionEn": "Four words, and Lut (AS) is the fourth messenger in this surah to say them: I am to you a trustworthy messenger. Before he names a single wrong of theirs, he gives his people a reason to listen, and the reason is his own record. He had come to them from elsewhere, so the trust he could point to was built by living among them. The same sentence had been spoken to nations before him, because the message had not changed and neither had the way people turn from it. Before I correct anyone, have I given them a record that makes my words worth weighing? And when the truth reaches me in familiar words, do I set it aside because I have heard it before?",
+    "reflectionBn": "মাত্র চারটি শব্দ। এ সূরায় লূত (আঃ) চতুর্থ রসূল, যাঁর মুখে এ কথা আসে: আমি তোমাদের জন্য একজন বিশ্বস্ত রসূল। তাদের কোনো অন্যায়ের নাম নেওয়ার আগেই তিনি তাদের শোনার একটা কারণ দেন, আর সে কারণ তাঁর নিজের জীবন। তিনি এসেছিলেন অন্য দেশ থেকে। তাই যে আস্থার কথা তিনি বলতে পারতেন, তা গড়ে উঠেছিল তাদের মাঝে বছরের পর বছর থেকে। আগের জাতিগুলোকেও ঠিক এ বাক্যই শোনানো হয়েছিল। কারণ বার্তা বদলায়নি, আর মানুষ যেভাবে তা থেকে মুখ ফেরায়, সেটাও বদলায়নি। কাউকে শোধরানোর আগে আমি কি তাকে এমন কিছু দেখিয়েছি, যাতে আমার কথা ওজন পায়? আর চেনা শব্দে সত্য যখন আমার কাছে আসে, বহুবার শুনেছি বলে কি তা সরিয়ে রাখি?",
+    "pointsEn": [
+      "Before I point out someone's fault, what in my own record gives them a reason to weigh my words?",
+      "If the people who know me best were asked whether I keep what is entrusted to me, what would they say?",
+      "When a reminder reaches me in words I have heard many times, do I listen, or wave it off as old?",
+      "Am I faithful to what I pass on, or do I soften the hard part to keep my listener comfortable?",
+      "Where I am a newcomer, am I building the kind of trust that would one day let me speak the truth there?"
+    ],
+    "pointsBn": [
+      "কারও দোষ ধরিয়ে দেওয়ার আগে আমার নিজের জীবনে এমন কী আছে, যার জন্য সে আমার কথাকে গুরুত্ব দেবে?",
+      "যারা আমাকে সবচেয়ে ভালো চেনে, তাদের যদি জিজ্ঞেস করা হয় আমি আমানত রক্ষা করি কি না, তারা কী বলবে?",
+      "বহুবার শোনা শব্দে কোনো উপদেশ এলে আমি কি মন দিয়ে শুনি, নাকি পুরোনো কথা বলে উড়িয়ে দিই?",
+      "যা অন্যের কাছে পৌঁছে দিই, তাতে কি আমি বিশ্বস্ত থাকি, নাকি শ্রোতার আরামের জন্য কঠিন অংশটা নরম করে ফেলি?",
+      "যেখানে আমি নতুন এসেছি, সেখানে কি এমন আস্থা গড়ছি, যাতে একদিন সেখানে সত্য কথা বলতে পারি?"
+    ],
+    "lessonEn": "Earn trust before you ask to be heard: a call to good is weighed against the life people have already watched, and true words lose nothing by being old.",
+    "lessonBn": "শুনতে বলার আগে আস্থা অর্জন করুন। ভালোর দিকে ডাক মানুষ মেপে দেখে আপনার সেই জীবন দিয়ে, যা তারা আগেই দেখেছে। আর সত্য কথা পুরোনো হলেও তার ওজন কমে না।"
   }
 };
 

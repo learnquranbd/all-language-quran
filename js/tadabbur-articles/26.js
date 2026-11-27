@@ -8087,6 +8087,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:162": {
+    "sections": [
+      {
+        "h": {
+          "en": "Lut Takes Up the Line",
+          "bn": "এবার লূত (আঃ)-এর মুখে"
+        },
+        "p": [
+          {
+            "en": "The verse before has brought him forward: when their brother Lut said to them, will you not fear Allah? (26:161). Now, before he says a word about how they live, he says who he is. Innī lakum rasūlun amīn: indeed I am to you a trustworthy messenger. The sentence is not new in this surah. Nuh said it first (26:107), then Hud (26:125) and Salih (26:143). Lut (AS) is the fourth to say it, and Shu'ayb will be the fifth (26:178). The deed his people are remembered for is not named until 26:165.",
+            "bn": "আগের আয়াত তাঁকে সামনে এনেছে: যখন তাদের ভাই লূত তাদের বললেন, তোমরা কি আল্লাহকে ভয় করবে না? (২৬:১৬১)। তারা কীভাবে জীবন চালায়, সে বিষয়ে একটি কথাও বলার আগে তিনি জানিয়ে দেন তিনি কে। ইন্নী লাকুম রাসূলুন আমীন: আমি তোমাদের জন্য একজন বিশ্বস্ত রসূল। এ সূরায় বাক্যটি নতুন নয়। প্রথমে বলেছেন নূহ (আঃ) (২৬:১০৭), তারপর হূদ (আঃ) (২৬:১২৫) ও সালিহ (আঃ) (২৬:১৪৩)। লূত (আঃ) চতুর্থজন, আর পঞ্চমজন হবেন শুআইব (আঃ) (২৬:১৭৮)। যে কাজের জন্য তাঁর জাতিকে মানুষ মনে রাখে, তার নাম আসে আরও পরে, ২৬:১৬৫ আয়াতে।"
+          },
+          {
+            "en": "Ibn Kathir opens the passage with who Lut was and what he called to. Lut son of Haran son of Azar, the nephew of Ibrahim al-Khalil, was sent by Allah in Ibrahim's lifetime to a great nation living in Sadum and the towns around it. He called them to Allah, to worship Him alone with no partner, and to obey the messenger Allah had sent them. Obedience to the messenger is part of the call itself, and the next verse draws it from this one with a single letter: fa, so fear Allah and obey me (26:163).",
+            "bn": "ইবন কাসীর এ অংশ শুরু করেন লূত (আঃ)-এর পরিচয় আর তাঁর দাওয়াত দিয়ে। তিনি লূত ইবন হারান ইবন আযার, ইবরাহীম খলীল (আঃ)-এর ভাতিজা। ইবরাহীম (আঃ)-এর জীবদ্দশাতেই আল্লাহ তাঁকে পাঠান এক বড় জাতির কাছে, যারা থাকত সাদূম ও তার আশপাশের জনপদে। তিনি তাদের ডাকলেন আল্লাহর দিকে: শরিকহীনভাবে শুধু তাঁরই ইবাদত করতে, আর আল্লাহ যে রসূলকে পাঠিয়েছেন তাঁর আনুগত্য করতে। রসূলের আনুগত্য তাই দাওয়াতেরই অংশ। পরের আয়াত একটিমাত্র অক্ষরে সেটা এ আয়াত থেকে বের করে আনে: ফা, অতএব আল্লাহকে ভয় করো আর আমার আনুগত্য করো (২৬:১৬৩)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faithful at Both Ends",
+          "bn": "দুই প্রান্তেই বিশ্বস্ত"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's gloss is one line. A messenger min rabbikum, from your Lord, and amīn 'alā waḥyihi wa-tablīghi risālatihi, trustworthy over His revelation and over the conveying of His message. The trust has two objects. One is what Lut receives, the revelation itself; the other is what he hands on, the delivery. Among people, a carrier of words can fail at either end: he can take them in wrongly, or take them in rightly and pass on less. At-Tabari's gloss closes both doors.",
+            "bn": "তাবারীর ব্যাখ্যা মাত্র এক লাইনের। মিন রাব্বিকুম, তোমাদের রবের পক্ষ থেকে আসা রসূল। আর আমীনুন আলা ওয়াহয়িহি ওয়া তাবলীগি রিসালাতিহি, তাঁর ওহি আর তাঁর বার্তা পৌঁছানোর ব্যাপারে বিশ্বস্ত। আমানতের বিষয় তাহলে দুটি। একটি হলো যা লূত (আঃ) গ্রহণ করেন, অর্থাৎ ওহি। অন্যটি যা তিনি পৌঁছে দেন। মানুষের মধ্যে কথার বাহক দুই জায়গাতেই ভুল করতে পারে। হয় ভুল বুঝে নেয়, নয়তো ঠিক বুঝেও কম পৌঁছায়। তাবারীর ব্যাখ্যা দুটো দরজাই বন্ধ করে দেয়।"
+          },
+          {
+            "en": "The Muyassar keeps the second end in view: a messenger from your Lord, amīn 'alā tablīghi risālatihi ilaykum, trustworthy in conveying His message to you. Tanwir al-Miqbas, transmitted under the name of Ibn 'Abbas, has much the same: from Allah, and faithful regarding the message brought to you. Read beside what follows, the point is sharp. The message Lut carried included a hard word about their deed (26:165 and 26:166), and a messenger faithful in delivery is one who does not leave that word out to keep his hearers comfortable.",
+            "bn": "মুয়াসসার দ্বিতীয় প্রান্তটার দিকে নজর রাখে: তোমাদের রবের পক্ষ থেকে রসূল, আমীনুন আলা তাবলীগি রিসালাতিহি ইলাইকুম, তোমাদের কাছে তাঁর বার্তা পৌঁছানোর ব্যাপারে বিশ্বস্ত। ইবন আব্বাসের নামে বর্ণিত তানবীরুল মিকবাসেও প্রায় একই কথা: আল্লাহর পক্ষ থেকে আগত, আর তোমাদের কাছে যে বার্তা এনেছি তাতে বিশ্বস্ত। পরের আয়াতগুলো পাশে রেখে পড়লে কথাটা আরও ধারালো হয়। লূত (আঃ) যে বার্তা বহন করছিলেন, তাতে তাদের কাজ নিয়ে একটা কঠিন কথাও ছিল (২৬:১৬৫ ও ২৬:১৬৬)। পৌঁছে দেওয়ায় বিশ্বস্ত রসূল শ্রোতাকে খুশি রাখতে সে কথা বাদ দেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Truthful, or Known as Trusted",
+          "bn": "সত্যবাদী, নাকি আগে থেকেই আস্থাভাজন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives two readings and keeps both. First: ṣādiq fīmā ablaghtukum 'an Allāh, truthful in what I convey to you from Allah. Then, introduced with wa-qīla, and it was said: amīn fīmā baynakum, trustworthy among you, for they had known his trustworthiness and his truthfulness before, as with Muhammad ﷺ among Quraysh. The first reading looks at the message and its source. The second looks back at the man and his years with them before he claimed to be sent.",
+            "bn": "কুরতুবী দুটি ব্যাখ্যা দেন এবং দুটিই রেখে দেন। প্রথমটি: সাদিকুন ফীমা আবলাগতুকুম আনিল্লাহ, আল্লাহর পক্ষ থেকে তোমাদের কাছে যা পৌঁছাই, তাতে আমি সত্যবাদী। তারপর ওয়া কীলা, অর্থাৎ আরও বলা হয়েছে: আমীনুন ফীমা বাইনাকুম, তোমাদের মাঝে আমি বিশ্বস্ত। কারণ তারা আগে থেকেই তাঁর আমানতদারি আর সত্যবাদিতা জানত, যেমন কুরাইশের মাঝে মুহাম্মাদ ﷺ। প্রথম ব্যাখ্যার নজর বার্তা ও তার উৎসের দিকে। দ্বিতীয়টি ফিরে তাকায় মানুষটির দিকে, রসূল হওয়ার দাবির আগে তাদের মাঝে কাটানো তাঁর বছরগুলোর দিকে।"
+          },
+          {
+            "en": "Ibn Ashur, reaching this group of verses, does not explain them afresh: al-qawl fī tafsīrihā ka-l-qawl fī naẓīratihā, its explanation is as that of its parallel, Nuh's passage (26:105 to 26:110). There he reads the sentence as amīn 'indakum, trustworthy in your own estimation: Nuh was known for trustworthiness and not suspected among his people, as Muhammad ﷺ was called al-Amin among Quraysh. Then he records a second possibility: amīn on Allah's behalf over the community he was sent to. So each of the two gives one reading facing the Sender and one facing the people's own knowledge, in opposite order, and neither refutes the other.",
+            "bn": "ইবন আশূর এ আয়াতগুচ্ছে এসে নতুন করে ব্যাখ্যা করেন না। তিনি লেখেন, আল-কাওলু ফী তাফসীরিহা কাল-কাওলি ফী নাযীরাতিহা: এর ব্যাখ্যা এর সমতুল্য অংশের ব্যাখ্যার মতোই। সেই অংশ হলো নূহ (আঃ)-এর কাহিনি (২৬:১০৫ থেকে ২৬:১১০)। সেখানে তিনি বাক্যটি পড়েন আমীনুন ইনদাকুম, তোমাদের নিজেদের বিচারেই বিশ্বস্ত। নূহ (আঃ) তাঁর জাতির মাঝে আমানতদারির জন্য পরিচিত ছিলেন, কেউ তাঁকে সন্দেহ করত না, যেমন কুরাইশ মুহাম্মাদ ﷺ-কে আল-আমীন বলে ডাকত। এরপর তিনি আরেকটি সম্ভাবনার কথা লেখেন: যে উম্মতের কাছে পাঠানো হয়েছে, তার উপর আল্লাহর পক্ষ থেকে আমানতদার। তাহলে দুজনেই একটি ব্যাখ্যা রাখেন প্রেরণকারীর দিকে তাকিয়ে, আরেকটি মানুষের নিজের জানার দিকে তাকিয়ে। ক্রম শুধু উল্টো, আর কেউ অন্যটি খণ্ডন করেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Settler's Long Record",
+          "bn": "এক বসতকারীর দীর্ঘ জীবনখাতা"
+        },
+        "p": [
+          {
+            "en": "The second reading meets a particular question in Lut's case, because trust known from before needs a before. On this same group of verses Ibn Ashur records that Lut was not of his people's lineage. He was a nazīl, a settler among them: they were Canaanites of Palestine, and Lut was a Hebrew, the son of Ibrahim's brother, who became their brother because he made his home in their land, lived among them and allied with them. The article on 26:161 follows the word brother; here it bears on trustworthy.",
+            "bn": "লূত (আঃ)-এর বেলায় দ্বিতীয় ব্যাখ্যাটি একটা বিশেষ প্রশ্নের মুখে পড়ে। আগে থেকে জানা আস্থার জন্য তো একটা আগের সময় লাগে। এ আয়াতগুচ্ছেই ইবন আশূর লেখেন, লূত (আঃ) তাঁর জাতির বংশের লোক ছিলেন না। তিনি ছিলেন নাযীল, তাদের মাঝে এসে বসত গড়া মানুষ। তারা ছিল ফিলিস্তিনের কিনআনী, আর লূত (আঃ) ছিলেন ইবরানী, ইবরাহীম (আঃ)-এর ভাইয়ের ছেলে। তাদের দেশে ঘর বাঁধা, তাদের সঙ্গে জীবন কাটানো আর তাদের মিত্র হওয়ার সুবাদেই তিনি তাদের ভাই হলেন। ভাই শব্দের বেলায় এর অর্থ কী, তা ২৬:১৬১ আয়াতের প্রবন্ধে আছে। এখানে কথাটা ছুঁয়ে যায় বিশ্বস্ত শব্দটিকে।"
+          },
+          {
+            "en": "Ibn Ashur does not join the two notes himself, and no commentary fetched here says what Lut's people knew of his conduct. Set side by side, they show only what the second reading would ask of a settler: a record built not by birth among them but by years of dealing with them. The surah does record their answer, and it is a threat to his place: if you do not desist, O Lut, you will surely be among those driven out (26:167). In two other tellings the answer is a command to expel, with a reason in their own words: they are people who keep themselves pure (7:82, 27:56).",
+            "bn": "ইবন আশূর নিজে এ দুটি কথা জোড়া লাগান না। লূত (আঃ)-এর আচরণ সম্পর্কে তাঁর জাতি কী জানত, এখানে সংগৃহীত কোনো তাফসীরেও তা বলা নেই। তবু পাশাপাশি রাখলে এটুকু বোঝা যায় যে দ্বিতীয় ব্যাখ্যা একজন বসতকারীর কাছে কী চায়: জন্মসূত্রে নয়, বছরের পর বছর লেনদেনের ভেতর দিয়ে গড়া এক জীবনখাতা। তাদের জবাব সূরাটি ঠিকই লিখে রেখেছে, আর সে জবাব তাঁর বসতের উপর হুমকি: হে লূত, তুমি বিরত না হলে অবশ্যই বহিষ্কৃতদের দলে পড়বে (২৬:১৬৭)। অন্য দুটি বর্ণনায় জবাব হলো বের করে দেওয়ার হুকুম, সঙ্গে তাদের নিজের মুখের কারণ: এরা এমন লোক, যারা পবিত্র থাকতে চায় (৭:৮২, ২৭:৫৬)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Reason Before the Charge",
+          "bn": "অভিযোগের আগে যুক্তি"
+        },
+        "p": [
+          {
+            "en": "On the parallel, Ibn Ashur reads this sentence as ta'līl, the giving of a reason. The question in 26:161 is a rebuke, or an urging; this verse gives its ground: how can you keep to shirk when I have forbidden it to you, and I am a messenger to you, trustworthy among you? Why the emphatic inna, when no one had yet denied his trust? Because, Ibn Ashur answers, the messenger expected the denial and argued from their own experience of him, since trustworthiness is evidence of truthfulness in what he conveys. The Heraclius report he cites for this is set out in the article on 26:125.",
+            "bn": "সমতুল্য অংশের আলোচনায় ইবন আশূর এ বাক্যকে বলেন তা'লীল, অর্থাৎ কারণ দেখানো। ২৬:১৬১ আয়াতের প্রশ্নে আছে তিরস্কার, কিংবা তাগিদ। আর এ আয়াত তার ভিত্তি জোগায়: আমি তোমাদের শিরক থেকে নিষেধ করেছি, আর আমি তোমাদের প্রতি রসূল, তোমাদের মাঝেই বিশ্বস্ত, তবু তোমরা শিরকে লেগে থাকো কীভাবে? এরপর তিনি প্রশ্ন তোলেন, জাতি তখনো তাঁর বিশ্বস্ততা অস্বীকার করেনি, তবু ইন্না দিয়ে জোর দেওয়া কেন? তাঁর জবাব: রসূল অস্বীকারের আশঙ্কা করছিলেন। তাই বার্তার আগে তাঁর আমানতদারির যে অভিজ্ঞতা তাদের ছিল, সেটা দিয়েই যুক্তি দিলেন। কারণ আমানতদারি প্রমাণ করে, তিনি যা পৌঁছান তাতে তিনি সত্যবাদী। এর সমর্থনে তিনি যে হিরাক্লিয়াসের ঘটনা আনেন, তা ২৬:১২৫ আয়াতের প্রবন্ধে বিস্তারিত আছে।"
+          },
+          {
+            "en": "His map of the speech runs: rebuke, reason, command, a second reason, and the command again as conclusion. In Lut's passage the first steps stand in the same words: the question (26:161), this credential, so fear Allah and obey me (26:163), and I ask of you no payment for it (26:164). But the command that comes twice for Nuh, Hud and Salih (26:108 and 26:110, 26:126 and 26:131, 26:144 and 26:150) comes once for Lut, and after 26:164 his words turn to the deed itself (26:165). No commentary fetched here remarks on this, and this article offers no reason.",
+            "bn": "ইবন আশূর বক্তব্যের নকশাও দেখান: তিরস্কার, তার কারণ, আদেশ, দ্বিতীয় কারণ, আর উপসংহার হিসেবে আবার সেই আদেশ। লূত (আঃ)-এর অংশে প্রথম ধাপগুলো হুবহু একই শব্দে আছে: প্রশ্ন (২৬:১৬১), এই পরিচয়পত্র, অতএব আল্লাহকে ভয় করো আর আমার আনুগত্য করো (২৬:১৬৩), আর এর জন্য আমি তোমাদের কাছে কোনো প্রতিদান চাই না (২৬:১৬৪)। কিন্তু নূহ, হূদ ও সালিহ (আঃ)-এর বেলায় আদেশটি আসে দুবার (২৬:১০৮ ও ২৬:১১০, ২৬:১২৬ ও ২৬:১৩১, ২৬:১৪৪ ও ২৬:১৫০)। লূত (আঃ)-এর বেলায় আসে একবার, আর ২৬:১৬৪ আয়াতের পরই তাঁর কথা চলে যায় সেই কাজের দিকে (২৬:১৬৫)। এখানে সংগৃহীত কোনো তাফসীর এ নিয়ে কিছু বলে না, এ প্রবন্ধও কোনো কারণ দাঁড় করায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Alike in Heart, Alike in Word",
+          "bn": "মনে মিল, তাই মুখেও মিল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's note on this verse explains the repetition from the people's side. Qāla lahum, he said to them, wa-qālū kamā qāla man qablahum, and they said as those before them had said: tashābahat qulūbuhum fi l-kufr fa-tashābahat aqwāluhum, their hearts were alike in disbelief, so their words were alike. The phrase their hearts are alike is the Qur'an's own, in 2:118, where it follows the words: so too said those before them, the like of their saying.",
+            "bn": "সা'দী এ আয়াতে পুনরাবৃত্তির ব্যাখ্যা দেন জাতির দিক থেকে। কালা লাহুম, তিনি তাদের বললেন, ওয়া কালূ কামা কালা মান কাবলাহুম, আর তারাও তা-ই বলল যা তাদের পূর্বসূরিরা বলেছিল। তাশাবাহাত কুলূবুহুম ফিল কুফরি ফাতাশাবাহাত আকওয়ালুহুম: কুফরিতে তাদের মন একরকম হয়ে গিয়েছিল, তাই তাদের কথাও একরকম। মন একরকম হয়ে যাওয়ার কথাটি কুরআনেরই ভাষা, ২:১১৮ আয়াতে। সেখানে এর আগে আছে: তাদের পূর্ববর্তীরাও ঠিক এমন কথাই বলেছিল।"
+          },
+          {
+            "en": "Ibn Ashur, at the opening of the parallel, gives the messengers' side. Why does the surah say the people of Nuh denied the messengers, plural, when one had come to them? Because their denial was not about his person. They held it impossible that Allah would send a human being, so their denial carried the denial of every messenger, li-anna kulla rasūlin yaqūlu mithla mā qālahu Nūḥ, since every messenger says the like of what Nuh said. The same pattern, he adds, returns for the peoples after them, Lut's among them. The messengers echo one another because the message is one.",
+            "bn": "সমতুল্য অংশের শুরুতে ইবন আশূর দেখান রসূলদের দিকটা। নূহ (আঃ)-এর জাতির কাছে এসেছিলেন একজন রসূল, তবু সূরা কেন বলে তারা রসূলদের, বহুবচনে, মিথ্যা বলেছিল? কারণ তাদের অস্বীকার তাঁর ব্যক্তিকে ঘিরে ছিল না। আল্লাহ একজন মানুষকে রসূল করে পাঠাবেন, এটাই তারা অসম্ভব মনে করত। তাই তাদের অস্বীকারে সব রসূলের অস্বীকার এসে যায়। লিআন্না কুল্লা রাসূলিন ইয়াকূলু মিসলা মা কালাহু নূহ: কারণ প্রত্যেক রসূলই তা-ই বলেন যা নূহ (আঃ) বলেছিলেন। তিনি যোগ করেন, পরের জাতিগুলোর বেলাতেও একই ধারা ফিরে আসবে, লূতের জাতির বেলাতেও। রসূলদের কথা মিলে যায়, কারণ বার্তা একটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told With Makkah Listening",
+          "bn": "শ্রোতার আসনে মক্কা"
+        },
+        "p": [
+          {
+            "en": "Ibn Ashur also names the listener this sequence was first told to. The passage on Nuh, he writes, is an isti'nāf, a fresh start, to console the Messenger ﷺ, and it grows out of the words most of them were not believers (26:103): do not grieve over them, and do not let their denial of you weigh on you, for the people of Nuh denied the messengers. The surah, he adds, singled out this scene from Nuh's life because it best served its aim of consoling the Prophet ﷺ, by telling of a situation like his own with his people.",
+            "bn": "এ ধারাবাহিক কাহিনি প্রথমে কাকে শোনানো হয়েছিল, ইবন আশূর সেটাও বলেন। তাঁর ভাষায় নূহ (আঃ)-এর অংশ এক ইসতি'নাফ, নতুন সূচনা, যার উদ্দেশ্য রসূল ﷺ-কে সান্ত্বনা দেওয়া। এর উৎস আগের কথাটি: তাদের অধিকাংশ ঈমান আনার ছিল না (২৬:১০৩)। অর্থাৎ তাদের জন্য দুঃখ কোরো না, তারা তোমাকে মিথ্যা বলেছে বলে মন ভারী কোরো না। নূহ (আঃ)-এর জাতিও তো রসূলদের মিথ্যা বলেছিল। তিনি যোগ করেন, নূহ (আঃ)-এর জীবনের এই দৃশ্যটাই সূরা বেছে নিয়েছে, কারণ নবী ﷺ-কে সান্ত্বনা দেওয়ার উদ্দেশ্যে এটাই সবচেয়ে মানানসই। এতে আছে তাঁর নিজের জাতির সঙ্গে তাঁর অবস্থার মতোই এক অবস্থার কথা।"
+          },
+          {
+            "en": "On the credential itself he goes further. Nuh's appeal to his trustworthiness, told in a story set out as an example for the polytheists who denied Muhammad ﷺ, carries a ta'rīḍ, a pointed allusion, to them: they denied him after they used to call him al-Amin. That is said on Nuh's verse, but Ibn Ashur's own referral carries it here. When Lut says the same four words, the first listeners in Makkah were hearing a messenger stake his call on a trust they had once granted, in that very word, to the man reciting it to them.",
+            "bn": "পরিচয়পত্রের কথায় তিনি আরও এগিয়ে যান। মুহাম্মাদ ﷺ-কে যে মুশরিকরা মিথ্যা বলেছিল, তাদের জন্য দৃষ্টান্ত হিসেবে বলা কাহিনিতে নূহ (আঃ) নিজের আমানতদারি দিয়ে যুক্তি দেন। ইবন আশূরের মতে এতে তাদের প্রতি এক তা'রীদ, অর্থাৎ ইঙ্গিতে খোঁচা আছে। কারণ যাঁকে তারা আল-আমীন বলে ডাকত, তাঁকেই পরে মিথ্যা বলল। কথাটি তিনি বলেছেন নূহ (আঃ)-এর আয়াতে, কিন্তু তাঁর নিজের ইঙ্গিতেই তা এখানেও খাটে। লূত (আঃ) যখন একই চারটি শব্দ বলেন, মক্কার প্রথম শ্রোতারা শুনছিল এক রসূলের কথা, যিনি নিজের দাওয়াত দাঁড় করান আমানতের উপর। আর ঠিক সেই শব্দে সেই আস্থা তারা একদিন দিয়েছিল তাঁকেই, যিনি এখন তাদের আয়াতটি পড়ে শোনাচ্ছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Religion, Many Mothers",
+          "bn": "দ্বীন এক, মা ভিন্ন"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. One narration, brought for its theme and not as a comment on the verse, speaks to the refrain. Al-Bukhari records it in his Sahih (3443), from Abu Huraira (RA): Allah's Messenger ﷺ said, \"Both in this world and in the Hereafter, I am the nearest of all the people to Jesus, the son of Mary. The prophets are paternal brothers; their mothers are different, but their religion is one.\"",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। একটি বর্ণনা এখানে আনা হলো তার বিষয়ের জন্য, আয়াতের ব্যাখ্যা হিসেবে নয়, কারণ তা এই পুনরাবৃত্তির কথাই বলে। বুখারী তাঁর সহীহ গ্রন্থে (৩৪৪৩) আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"দুনিয়া ও আখিরাত, দুই জায়গাতেই আমি মারইয়ামের পুত্র ঈসার সবচেয়ে নিকটতম মানুষ। নবীরা বৈমাত্রেয় ভাই। তাঁদের মায়েরা ভিন্ন ভিন্ন, কিন্তু তাঁদের দ্বীন এক।\""
+          },
+          {
+            "en": "The image is of sons of one father born to different mothers: one religion, carried by men of different peoples and times. Read beside this surah, it fits what the five credentials show. Nuh, Hud, Salih, Lut and Shu'ayb (peace be upon them) come to five peoples, each with its own story and its own wrong, and each stands on the same four words. The wording repeats because what stands behind it does not change.",
+            "bn": "ছবিটা এক বাবার এমন সন্তানদের, যাদের মা আলাদা। দ্বীন একটাই, বহন করেছেন ভিন্ন ভিন্ন জাতি ও যুগের মানুষ। এ সূরার পাশে রেখে পড়লে পাঁচটি পরিচয়পত্র ঠিক এটাই দেখায়। নূহ, হূদ, সালিহ, লূত ও শুআইব (আঃ) গেছেন পাঁচটি জাতির কাছে। প্রত্যেক জাতির নিজস্ব কাহিনি, নিজস্ব অন্যায়। অথচ প্রত্যেকে দাঁড়িয়েছেন একই চারটি শব্দের উপর। শব্দ বারবার ফিরে আসে, কারণ তার পেছনে যা আছে তা বদলায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Credential, Not a Weapon",
+          "bn": "পরিচয়পত্র, হাতিয়ার নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The people of Lut are a people the Qur'an condemns, and this passage ends in their destruction (26:172 and 26:173). What they did is named in the Qur'an's own words, in 26:165 and 26:166, and this article adds nothing to those words. The verse describes what the text describes: a messenger's credential offered to one people of the distant past, and their refusal of it. It licenses nothing against any living person or community: no contempt, no harm, and no verdict, which belongs to Allah alone.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। লূতের জাতিকে কুরআন নিন্দা করেছে, আর এ অংশের শেষে আছে তাদের ধ্বংসের কথা (২৬:১৭২ ও ২৬:১৭৩)। তারা কী করেছিল, তা কুরআন নিজের ভাষায় বলেছে ২৬:১৬৫ ও ২৬:১৬৬ আয়াতে। এ প্রবন্ধ সে ভাষার সঙ্গে কিছুই যোগ করে না। আয়াতটি শুধু তা-ই বর্ণনা করে, যা পাঠে আছে: সুদূর অতীতের এক জাতির সামনে একজন রসূলের পরিচয়পত্র, আর তাদের তা প্রত্যাখ্যান। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। অবজ্ঞার নয়, ক্ষতি করার নয়, রায় দেওয়ারও নয়। রায় একমাত্র আল্লাহর।"
+          },
+          {
+            "en": "The passage also shows where Lut's own aversion was aimed. When they threatened him, he answered: I am, toward your deed, of those who detest it (26:168). The object is li-'amalikum, your deed. As-Sa'di glosses al-qālīn as those who hate it, forbid it and warn against it. Lut called them first to Allah, gave them his credential, asked nothing of them, and named the wrong as a wrong. Nothing in that sequence is contempt for people; all of it is faithfulness to a message.",
+            "bn": "লূত (আঃ)-এর নিজের বিতৃষ্ণা কোন দিকে ছিল, এ অংশ তাও দেখায়। তারা তাঁকে হুমকি দিলে তিনি বললেন: তোমাদের এ কাজকে আমি ঘৃণা করি (২৬:১৬৮)। ঘৃণার লক্ষ্য লিআমালিকুম, তোমাদের কাজ। সা'দী আল-কালীন শব্দের ব্যাখ্যা দেন এভাবে: যারা কাজটিকে ঘৃণা করে, তা থেকে নিষেধ করে আর সতর্ক করে। লূত (আঃ) প্রথমে তাদের আল্লাহর দিকে ডেকেছেন, নিজের পরিচয়পত্র দিয়েছেন, তাদের কাছে কিছু চাননি, আর অন্যায়কে অন্যায় বলেছেন। এই ধারাবাহিকতার কোথাও মানুষের প্রতি অবজ্ঞা নেই। পুরোটাই এক বার্তার প্রতি বিশ্বস্ততা।"
+          },
+          {
+            "en": "And the four words come back to the reader as a measure. Before Lut spoke of their deed, he spoke of his trust, and he could claim it only because it was true. Whoever calls others to good is weighed in the same way, against the record those people have already watched. A newcomer can build that record over years, and a familiar voice can keep it or lose it. What no one can do is borrow it at the moment of speaking.",
+            "bn": "চারটি শব্দ শেষে পাঠকের কাছেই ফিরে আসে একটা মাপকাঠি হয়ে। তাদের কাজের কথা বলার আগে লূত (আঃ) বলেছেন নিজের আমানতদারির কথা। আর সে দাবি তিনি করতে পেরেছেন, কারণ তা সত্য ছিল। যে মানুষ অন্যকে ভালোর দিকে ডাকে, তাকেও এভাবেই মাপা হয়, সেই জীবন দিয়ে যা মানুষ আগেই দেখেছে। নতুন আসা মানুষ বছরের পর বছর ধরে সে জীবনখাতা গড়তে পারেন। চেনা কণ্ঠ তা ধরে রাখতে পারে, হারাতেও পারে। কিন্তু কথা বলার মুহূর্তে তা ধার করে আনা কারও পক্ষে সম্ভব নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "26:165": {
     "sections": [
       {
