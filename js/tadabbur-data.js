@@ -33903,6 +33903,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Weigh what you say about Allah before it leaves your mouth. A sentence with no knowledge behind it can be grave, however lightly it is said or however long it has been repeated.",
     "lessonBn": "আল্লাহ সম্পর্কে কিছু বলার আগে কথাটা ওজন করে নিন। জ্ঞান ছাড়া বলা একটা বাক্য যত হালকাভাবেই বলা হোক, যত দিন ধরেই চলে আসুক, তা বড় সাংঘাতিক হতে পারে।"
+  },
+  "18:42": {
+    "reflectionEn": "He had said the garden would never perish. In a single night it was gone. By morning he stood turning his palms over and over, counting what he had poured into it, while the vines lay collapsed on their own trellises. Then he spoke the very words his poorer friend had spoken a few verses earlier: would that I had associated no one with my Lord. The sentence was true. It came late, and it came only after the loss. Whatever I own can be taken in one night. Do I say my friend's words while the garden still stands, or wait until I am standing among the ruins? And when I grieve a loss, do I grieve only the money, or also the heart that leaned on it?",
+    "reflectionBn": "সে বলেছিল, এ বাগান কোনোদিন ধ্বংস হবে না। এক রাতেই সব শেষ। সকালে দেখা গেল, সে দুই হাত উল্টে-পাল্টে দেখছে আর হিসাব করছে কত টাকা ঢেলেছিল। আঙুরলতাগুলো তখন নিজেদের মাচার উপরেই ভেঙে পড়ে আছে। এরপর তার মুখে এল ঠিক সেই কথা, যা কয়েক আয়াত আগে তার গরিব বন্ধু বলেছিল: হায়, আমি যদি আমার রবের সাথে কাউকে শরীক না করতাম! কথাটা সত্য। কিন্তু এল দেরিতে, আর এল সব হারানোর পরে। আমার যা আছে, তা-ও এক রাতে চলে যেতে পারে। বাগান থাকতে থাকতেই কি আমি বন্ধুর কথাটা বলি, নাকি ধ্বংসস্তূপের মাঝে দাঁড়ানো পর্যন্ত অপেক্ষা করি? আর কিছু হারালে আমি কি শুধু টাকার শোক করি, নাকি সেই মনেরও, যে ওই টাকার উপর ভর দিয়েছিল?",
+    "pointsEn": [
+      "If what I rely on most were gone by tomorrow morning, what would I discover I had really been trusting?",
+      "Which of my spending do I count most carefully, and have I ever counted my blessings with the same care?",
+      "Is there a true sentence I keep putting off, as if waiting for some loss to make me say it?",
+      "When someone with less than me gives me sound counsel, do I hear it then, or only remember it after the damage is done?",
+      "When I lose something, what do I regret first: the thing itself, or what my attachment to it had done to me?"
+    ],
+    "pointsBn": [
+      "যার উপর আমি সবচেয়ে বেশি ভরসা করি, কাল সকালের মধ্যে তা চলে গেলে বোঝা যাবে আসলে কিসের উপর ভরসা করে ছিলাম?",
+      "কোন খরচের হিসাব আমি সবচেয়ে যত্ন করে রাখি? আল্লাহর দেওয়া নিয়ামতের হিসাব কি কখনো অতটা যত্ন করে রেখেছি?",
+      "কোনো সত্য কথা কি আমি বারবার পিছিয়ে রাখছি, যেন কোনো ক্ষতি এসে আমাকে দিয়ে সেটা বলিয়ে নেবে?",
+      "আমার চেয়ে কম যার আছে, সে যখন ভালো পরামর্শ দেয়, আমি কি তখনই শুনি, নাকি ক্ষতি হয়ে যাওয়ার পরে মনে পড়ে?",
+      "কিছু হারালে আমার প্রথম আফসোস কিসের জন্য হয়: জিনিসটার জন্য, নাকি সেটার প্রতি টান আমার যে ক্ষতি করেছিল, তার জন্য?"
+    ],
+    "lessonEn": "Say the words of faith while the blessing still stands. Regret that arrives only with the ruin may come too late, so turn to your Lord before a loss has to teach you.",
+    "lessonBn": "নিয়ামত হাতে থাকতেই ঈমানের কথাটা বলুন। যে আফসোস শুধু ধ্বংসের সাথে আসে, তা দেরিতে আসতে পারে। তাই ক্ষতি এসে শেখানোর আগেই রবের দিকে ফিরে আসুন।"
   }
 };
 

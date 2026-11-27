@@ -2075,6 +2075,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:42": {
+    "sections": [
+      {
+        "h": {
+          "en": "Ringed Round by Ruin",
+          "bn": "চারদিক থেকে ঘেরা ধ্বংস"
+        },
+        "p": [
+          {
+            "en": "Wa-uhita bi-thamarihi: and his fruit was encompassed. The verb is passive and names no agent. Al-Qurtubi, on the grammar, takes the implied verbal noun, the encompassing itself, as its subject. It follows straight on from 18:40 and 18:41, where the believing companion said his Lord might send a reckoning from the sky or let the water sink. There it was a warning; here it is fact.",
+            "bn": "ওয়া উহীতা বিসামারিহী: আর তার ফল-ফসল ঘিরে ফেলা হলো। ক্রিয়াটি কর্মবাচ্য, কে ঘিরল তার নাম নেই। কুরতুবী ব্যাকরণের দিক থেকে বলেন, এখানে উহ্য কর্তা হলো ক্রিয়াবাচক বিশেষ্যটি, অর্থাৎ ঘিরে ফেলাটাই। ১৮:৪০ ও ১৮:৪১ আয়াতে মুমিন সঙ্গী বলেছিল, তার রব হয়তো আকাশ থেকে বিপদ পাঠাবেন, কিংবা পানি মাটির নিচে চলে যাবে। সেখানে ছিল সতর্কবাণী, এখানে তা বাস্তব।"
+          },
+          {
+            "en": "What was encompassed? Ibn Kathir gives two opinions: his wealth, or, on the other view, his fruits. At-Tabari takes thamar as the kinds of fruit his garden bore, the garden of which he had said, I do not think this will ever perish, and glosses the verb as destruction and blights closing round it. As-Sa'di draws out what the word implies: for ruin to encompass the fruit, every tree, every crop and every fruit had to go, so that nothing of it remained.",
+            "bn": "কী ঘেরাও হলো? ইবন কাসীর দুটি মত দেন: তার ধনসম্পদ, অথবা অন্য মতে, তার ফলমূল। তাবারী সামার বলতে বোঝেন বাগানের নানা জাতের ফল। এই সেই বাগান, যার ব্যাপারে লোকটি বলেছিল, আমার মনে হয় না এটা কখনো ধ্বংস হবে। তাবারীর ব্যাখ্যায় ধ্বংস আর দুর্যোগ এসে ফলগুলোকে চারদিক থেকে ঘিরে ধরে। সা'দী শব্দটির ভেতরের কথাটা খুলে দেখান। ফল যদি পুরোপুরি ঘেরাও হয়, তবে প্রতিটি গাছ, প্রতিটি ফসল, প্রতিটি ফল নষ্ট হতে হয়। কিছুই আর বাকি থাকে না।"
+          },
+          {
+            "en": "Al-Qurtubi reads it as the whole of his wealth destroyed, and adds that this was the first way in which Allah made his brother's warning come true. What the ruin was, the verse leaves unsaid. Ma'arif al-Qur'an notes that the Qur'an names no particular calamity, and inclines, with Allah knowing best, to fire from the sky. Al-Baghawi says Allah sent a fire upon it and its water sank. The word husban behind these readings belongs to 18:40.",
+            "bn": "কুরতুবীর মতে এর অর্থ, তার সব সম্পদ ধ্বংস হয়ে গেল। তিনি যোগ করেন, ভাইয়ের সতর্কবাণী আল্লাহ সত্য করে দেখালেন, আর এটাই ছিল তার প্রথম রূপ। ধ্বংসটা ঠিক কী ছিল, আয়াত তা বলে না। মাআরিফুল কুরআন লক্ষ করে, কুরআন কোনো নির্দিষ্ট দুর্যোগের নাম নেয়নি। তবে আল্লাহই ভালো জানেন বলে সেখানে আকাশ থেকে আগুন নামার দিকে ঝোঁক দেখানো হয়েছে। বাগাভী বলেন, আল্লাহ বাগানের উপর আগুন পাঠালেন আর তার পানি মাটিতে নেমে গেল। এসব ব্যাখ্যার পেছনের শব্দ হুসবানের আলোচনা ১৮:৪০ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gone by Morning",
+          "bn": "সকাল হতেই সব শেষ"
+        },
+        "p": [
+          {
+            "en": "Fa-asbaha: and he came to be, or, keeping the root, he rose in the morning to find. Al-Qurtubi takes the verb at that root meaning and says it shows the destruction happened during the night. He sets it beside another ruined garden, in 68:19 and 68:20: a visitation from your Lord went round it while they slept, and by morning it was like a field already reaped. In both, the ruin comes while no one is watching, and the morning only reveals it.",
+            "bn": "ফা আসবাহা: আর সে হয়ে গেল। মূল ধাতুর অর্থ ধরলে, সকালে উঠে সে দেখল। কুরতুবী ক্রিয়াটিকে এই সকাল অর্থেই নেন। তাঁর মতে এ থেকে বোঝা যায়, ধ্বংস ঘটেছিল রাতের বেলা। তিনি এর পাশে রাখেন আরেকটি ধ্বংস হওয়া বাগানের কথা, ৬৮:১৯ ও ৬৮:২০ আয়াতে। মালিকেরা যখন ঘুমিয়ে ছিল, তোমার রবের পক্ষ থেকে এক বিপদ বাগানটিকে ঘিরে গেল, আর সকালে তা হয়ে গেল কেটে নেওয়া ক্ষেতের মতো। দুই জায়গাতেই ধ্বংস আসে কেউ পাহারায় না থাকার সময়। সকাল শুধু সেটা চোখের সামনে খুলে দেয়।"
+          },
+          {
+            "en": "The timing sharpens the irony. In 18:35 he had entered his garden wronging himself and said, I do not think this will ever perish. At-Tabari quotes that sentence back in his comment on this verse, so that the reader sees the ruin land exactly on the boast. As al-Qurtubi reads the verb, there was no slow decline to watch. The ending came in the dark and was found at dawn.",
+            "bn": "সময়টাই ব্যাপারটাকে আরও তীক্ষ্ণ করে। ১৮:৩৫ আয়াতে সে নিজের উপর জুলুম করতে করতে বাগানে ঢুকেছিল আর বলেছিল, আমার মনে হয় না এটা কখনো ধ্বংস হবে। এ আয়াতের ব্যাখ্যায় তাবারী ঠিক সেই কথাটাই আবার তুলে আনেন। পাঠক তাই দেখতে পায়, ধ্বংস এসে পড়েছে ঠিক তার অহংকারের কথার উপর। কুরতুবী ক্রিয়াটি যেভাবে পড়েন, তাতে ধীরে ধীরে ক্ষয় হতে দেখার কোনো সুযোগ ছিল না। শেষটা এল অন্ধকারে, ধরা পড়ল ভোরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Palms Turned Over",
+          "bn": "উল্টে-পাল্টে দেখা দুই হাত"
+        },
+        "p": [
+          {
+            "en": "Yuqallibu kaffayhi: he turns his two palms over. At-Tabari explains it as turning them back to front, zahran li-batn, out of longing and grief at the loss of what he had spent. He then gives the report through Bishr from Qatada that it means he claps his palms, yusaffiqu, in anguish over what had slipped from him. Ibn Kathir carries the same words of Qatada: he struck his palms together in regret and sorrow over the wealth that had gone.",
+            "bn": "ইউকাল্লিবু কাফফাইহি: সে তার দুই হাতের তালু উল্টাতে-পাল্টাতে লাগল। তাবারী ব্যাখ্যা করেন, হাতের পিঠ একবার উপরে, একবার নিচে, যা খরচ করেছিল তা হারিয়ে যাওয়ার আফসোস আর কষ্টে। এরপর তিনি বিশরের সূত্রে কাতাদার বর্ণনা আনেন, এর মানে সে হাতে হাত মারছিল। যা তার হাতছাড়া হয়ে গেছে, তার জন্য সে ছটফট করছিল। ইবন কাসীরও কাতাদার একই কথা উদ্ধৃত করেন: চলে যাওয়া সম্পদের জন্য আফসোস আর দুঃখে সে দুই হাতের তালু একসাথে ঠুকছিল।"
+          },
+          {
+            "en": "Al-Baghawi joins the two pictures: he strikes one hand on the other and turns his palms back to front, in sorrow and longing. Al-Qurtubi describes it as striking one hand against the other in remorse, because that is what a regretful person does. Al-Jalalayn speaks of wringing the hands out of regret and anguish. The Qur'an uses a related picture of the hands elsewhere: in 25:27 the wrongdoer bites on his hands and says, would that I had taken a path with the Messenger.",
+            "bn": "বাগাভী দুটি ছবি একসাথে জুড়ে দেন। সে এক হাত দিয়ে আরেক হাতে মারছিল, আবার হাতের তালু উল্টে-পাল্টে দেখছিল, দুঃখ আর আফসোসে। কুরতুবীর বর্ণনায় সে অনুতাপে এক হাত আরেক হাতে মারছিল, কারণ অনুতপ্ত মানুষ এমনটাই করে। জালালাইন বলে, আফসোস আর যন্ত্রণায় সে হাত কচলাচ্ছিল। হাতের কাছাকাছি এক ছবি কুরআনের অন্য জায়গাতেও আছে। ২৫:২৭ আয়াতে জালিম নিজের দুই হাত কামড়ায় আর বলে, হায়, আমি যদি রাসূলের সাথে একই পথ ধরতাম!"
+          },
+          {
+            "en": "Al-Qurtubi records a second reading, introduced with qila, it is said: that he was turning over his property and finding nothing in it to make up for what he had spent. The hand, he explains, can stand for ownership, as when Arabs say there is wealth in his hand, meaning in his possession. On that reading the palms are his holdings, searched over and over for anything left. Either way the verse leaves a man staring at his own hands, empty.",
+            "bn": "কুরতুবী 'কীলা', অর্থাৎ বলা হয়, কথাটি দিয়ে দ্বিতীয় এক ব্যাখ্যাও আনেন। সে নাকি নিজের মালিকানার সবকিছু উল্টে-পাল্টে দেখছিল, অথচ যা খরচ করেছে তার বদলে কিছুই খুঁজে পাচ্ছিল না। তিনি বুঝিয়ে দেন, হাত দিয়ে মালিকানাও বোঝানো হয়। আরবরা বলে, তার হাতে সম্পদ আছে, মানে তার মালিকানায় আছে। এ ব্যাখ্যায় হাতের তালু মানে তার সহায়-সম্পত্তি, যা সে বারবার হাতড়ে দেখছিল কিছু বাকি আছে কি না। যেভাবেই পড়া হোক, আয়াত আমাদের দেখায় একজন মানুষকে, যে নিজের খালি হাতের দিকে তাকিয়ে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Sum He Had Spent",
+          "bn": "খরচের হিসাবটুকু"
+        },
+        "p": [
+          {
+            "en": "Notice what the verse says he was grieving: 'ala ma anfaqa fiha, over what he had spent on it. Not first the fruit, nor the beauty of the place, but the outlay. As-Sa'di reads it as the many worldly expenditures he had made on the garden, which had dwindled and vanished with nothing left in return. Al-Qurtubi adds a note on the wording: one says both anfaqtu fi hadhihi d-dar and anfaqtu 'alayha, I spent in this house and I spent on it.",
+            "bn": "আয়াত খেয়াল করে দেখুন, সে কিসের জন্য শোক করছিল: 'আলা মা আনফাকা ফীহা, বাগানে যা খরচ করেছিল তার জন্য। প্রথমে ফলের জন্য নয়, জায়গাটার সৌন্দর্যের জন্যও নয়, ঢেলে দেওয়া টাকার জন্য। সা'দী এর অর্থ করেন, বাগানের পেছনে দুনিয়াবি যত খরচ সে করেছিল, সব মিলিয়ে গেল, বিনিময়ে কিছুই রইল না। কুরতুবী শব্দের ব্যবহার নিয়ে একটি কথা যোগ করেন। আরবিতে দুভাবেই বলা চলে: আনফাকতু ফী হাযিহিদ দার, আর আনফাকতু 'আলাইহা। অর্থাৎ এই ঘরে খরচ করেছি, এই ঘরের জন্য খরচ করেছি।"
+          },
+          {
+            "en": "The detail shows what had held the man's heart. The garden described from 18:32 on had been an investment as much as a gift, and its owner had measured himself by it, telling his companion in 18:34 that he had more wealth than him and a mightier following. When the garden fell, the measure fell with it. The verse does not mock his grief. It reports it plainly, and lets the reader notice that the first thing he reached for was the account.",
+            "bn": "ছোট্ট এই খুঁটিনাটি দেখিয়ে দেয়, লোকটার মন কিসে আটকে ছিল। ১৮:৩২ থেকে যে বাগানের বর্ণনা, তা তার কাছে যতটা দান, ততটাই পুঁজি। নিজেকে সে মাপত ওই বাগান দিয়েই। ১৮:৩৪ আয়াতে সঙ্গীকে সে বলেছিল, তোমার চেয়ে আমার সম্পদ বেশি, আমার লোকবলও বেশি। বাগান ভেঙে পড়ল, সঙ্গে ভেঙে পড়ল তার নিজেকে মাপার মানদণ্ডও। আয়াত তার শোক নিয়ে ঠাট্টা করে না। সোজাসুজি জানিয়ে দেয়। পাঠক নিজেই লক্ষ করে, সবার আগে তার মনে এসেছিল টাকার হিসাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fallen on Its Trellises",
+          "bn": "মাচার উপরেই ধসে পড়া"
+        },
+        "p": [
+          {
+            "en": "Wa-hiya khawiyatun 'ala 'urushiha: while it lay fallen in upon its trellises. At-Tabari glosses it as empty, standing over its plants and its structures. Al-Qurtubi gives two senses together, empty and collapsed one part upon another, and traces the word: khawat an-nujum is said of stars that set without bringing their expected rain, and khawat ad-dar of a house left empty, as in 27:52: those are their houses, empty, because of the wrong they did.",
+            "bn": "ওয়া হিয়া খাবিয়াতুন 'আলা 'উরূশিহা: আর তা নিজের মাচাগুলোর উপর ধসে পড়ে ছিল। তাবারী বলেন, এর মানে বাগানটি খালি হয়ে গেল, পড়ে রইল নিজের গাছপালা আর কাঠামোর উপর। কুরতুবী দুটি অর্থ একসাথে দেন: খালি, আর একটার উপর আরেকটা ভেঙে পড়া। শব্দটার উৎসও তিনি দেখান। যে তারা অস্ত যায় অথচ আশা করা বৃষ্টি আনে না, তাকে বলা হয় খাওয়াতিন নুজূম। আর ঘর জনশূন্য হলে বলা হয় খাওয়াতিদ দার। যেমন ২৭:৫২ আয়াতে: ওই তো তাদের ঘরবাড়ি, তাদের জুলুমের কারণে খালি পড়ে আছে।"
+          },
+          {
+            "en": "Al-Baghawi says khawiya means fallen and takes 'urush as roofs. Al-Jalalayn gives the order of the fall: the trellises that held up the vines collapsed first, and the vines came down after them. The Muyassar puts it plainly: it lay empty, part of it fallen upon part. What had lifted the vines now lay beneath them. Al-Qurtubi calls this ruin of fruit and root together among the greatest of blights, a requital for his transgression.",
+            "bn": "বাগাভী বলেন, খাবিয়া মানে ভেঙে পড়া, আর 'উরূশ মানে ছাদ। জালালাইন পতনের ক্রমটাও বলে দেয়। আঙুরলতা যে মাচায় ভর দিয়ে ছিল, আগে সেগুলো ভাঙল, তারপর লতাগুলো তার উপর পড়ল। মুয়াসসার সাদা কথায় বলে: বাগান খালি পড়ে রইল, এক অংশ আরেক অংশের উপর পড়ে। যে খুঁটি লতাকে তুলে ধরেছিল, সেটাই এখন লতার নিচে চাপা। কুরতুবী বলেন, এখানে ফল আর গোড়া দুটোই একসাথে ধ্বংস হলো। তাঁর মতে এ সবচেয়ে বড় দুর্যোগগুলোর একটি, তার সীমালঙ্ঘনের বদলা।"
+          },
+          {
+            "en": "The same phrase, khawiyatun 'ala 'urushiha, occurs twice more in the Qur'an. In 2:259 it describes a town that a man passed by, and he wondered how Allah would give it life after its death. In 22:45 it describes towns destroyed while they were doing wrong, leaving an idle well and a lofty palace. Here the words for a ruined township are spent on one man's private garden.",
+            "bn": "খাবিয়াতুন 'আলা 'উরূশিহা কথাটি কুরআনে আরও দুবার এসেছে। ২:২৫৯ আয়াতে এক জনপদের বর্ণনায়, যার পাশ দিয়ে একজন যাচ্ছিল আর ভাবছিল, মরে যাওয়ার পর আল্লাহ একে কীভাবে জীবিত করবেন। ২২:৪৫ আয়াতে সেসব জনপদের বর্ণনায়, যেগুলো জুলুমে লিপ্ত থাকা অবস্থায় ধ্বংস করা হয়েছিল, পড়ে ছিল অকেজো কূপ আর সুউচ্চ প্রাসাদ। আর এখানে ধ্বংস হওয়া জনপদের সেই ভাষাই ব্যবহার হয়েছে একজন মানুষের নিজের বাগানের জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "His Friend's Words, Borrowed",
+          "bn": "বন্ধুর কথাই তার মুখে"
+        },
+        "p": [
+          {
+            "en": "Then he says: ya laytani lam ushrik bi-rabbi ahada, would that I had not associated anyone with my Lord. These are his believing companion's words from 18:38, wa la ushriku bi-rabbi ahada, I do not associate anyone with my Lord, returned almost word for word and turned into a wish about the past. The man who had argued against the creed now recites it. The Qur'an lets the two sentences echo across four verses, one spoken in time and one too late.",
+            "bn": "এরপর সে বলে: ইয়া লাইতানী লাম উশরিক বিরাব্বী আহাদা, হায়, আমি যদি আমার রবের সাথে কাউকে শরীক না করতাম! ১৮:৩৮ আয়াতে তার মুমিন সঙ্গী বলেছিল, ওয়া লা উশরিকু বিরাব্বী আহাদা, আমি আমার রবের সাথে কাউকে শরীক করি না। প্রায় হুবহু সেই কথাই ফিরে এসেছে, শুধু অতীত নিয়ে এক আফসোসের রূপে। যে লোক এই আকীদার বিরুদ্ধে তর্ক করেছিল, এখন সে নিজেই তা মুখে আনছে। চারটি আয়াতের ব্যবধানে কুরআন দুটি বাক্যকে পাশাপাশি বাজিয়ে দেয়। একটি বলা হয়েছিল সময় থাকতে, অন্যটি সময় পেরিয়ে যাওয়ার পর।"
+          },
+          {
+            "en": "What had his shirk been? Nowhere in these verses does he say he worshipped an idol; in 18:36 he even speaks of being returned to my Lord. Maududi, in Tafhim al-Qur'an as given on quranx, writes that unbelief is not confined to denying God's existence. Arrogance, pride and denial of the Hereafter are kufr too. Whoever takes his wealth as the fruit of his own power, lasting and unaccountable, acknowledges Allah as a Being, not as his Master.",
+            "bn": "তার শিরকটা আসলে কী ছিল? এই আয়াতগুলোর কোথাও সে বলেনি যে মূর্তিপূজা করত। ১৮:৩৬ আয়াতে বরং সে বলে, যদি আমাকে আমার রবের কাছে ফিরিয়ে নেওয়া হয়। কুরআনএক্স-এ দেওয়া তাফহীমুল কুরআনে মওদূদী লেখেন, কুফর শুধু আল্লাহর অস্তিত্ব অস্বীকারে সীমাবদ্ধ নয়। অহংকার, দম্ভ আর আখিরাত অস্বীকারও কুফর। যে নিজের সম্পদকে ভাবে নিজের ক্ষমতার ফল, চিরস্থায়ী, কারও কাছে জবাবদিহি নেই, সে আল্লাহকে সত্তা হিসেবে মানে, নিজের মালিক হিসেবে মানে না।"
+          },
+          {
+            "en": "The Muyassar and al-Qurtubi both gloss the wish in that direction. In al-Qurtubi's words: would that I had recognised Allah's blessings upon me, and known that they came by Allah's power, and had not disbelieved in Him. On this reading the fault lay in crediting the garden to himself and his means rather than to its Giver. His companion had urged the cure in 18:39: on entering the garden, to say ma sha' Allah.",
+            "bn": "মুয়াসসার আর কুরতুবী দুজনেই আফসোসের কথাটা এ দিকেই ব্যাখ্যা করেন। কুরতুবীর ভাষায়: হায়, আমি যদি আমার উপর আল্লাহর নিয়ামতগুলো চিনতাম, জানতাম যে সেগুলো আল্লাহর কুদরতেই এসেছে, আর তাঁর সাথে কুফরি না করতাম! এ ব্যাখ্যায় দোষটা ছিল বাগানকে দাতার দান না ভেবে নিজের আর নিজের উপায়-উপকরণের কৃতিত্ব মনে করায়। ১৮:৩৯ আয়াতে সঙ্গী এর প্রতিকারও বলে দিয়েছিল: বাগানে ঢোকার সময় বলো, মা শা আল্লাহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Repentance, or Grief at Loss?",
+          "bn": "তওবা, নাকি শুধু ক্ষতির শোক?"
+        },
+        "p": [
+          {
+            "en": "Was this regret a repentance that availed him, or only grief at what was gone? The texts fetched for this verse lean in the same direction, while differing on what the regret was for and when it was voiced. The Muyassar, after describing him turning his palms in sorrow and remorse, ends: this is regret from him at a time when regret does not benefit him. Al-Qurtubi closes his comment on the verse with the same sentence, word for word.",
+            "bn": "এই আফসোস কি এমন তওবা ছিল যা তার কাজে এসেছিল, নাকি শুধু হারানো জিনিসের শোক? এ আয়াতের জন্য সংগ্রহ করা তাফসীরগুলো একই দিকে ঝোঁকে। তবে আফসোসটা কিসের জন্য, আর কখন বলা, তা নিয়ে তাদের মধ্যে ভিন্নতা আছে। মুয়াসসার প্রথমে বলে, দুঃখ আর অনুতাপে সে হাত উল্টাচ্ছিল। তারপর শেষ করে এই কথায়: এ তার এমন সময়ের আফসোস, যখন আফসোস আর কোনো কাজে আসে না। কুরতুবীও এ আয়াতের আলোচনা শেষ করেন হুবহু এই বাক্য দিয়ে।"
+          },
+          {
+            "en": "As-Sa'di draws a distinction. He says the man regretted his worldly spending, which had vanished with nothing in return, and that he also regretted his shirk and his evil, which is why he said, would that I had not associated anyone with my Lord. On his reading the regret reached the root, not only the loss. In the text fetched he does not say whether that regret was accepted, and the article does not supply an answer he did not give.",
+            "bn": "সা'দী এখানে একটি পার্থক্য দেখান। তাঁর মতে লোকটি আফসোস করেছিল দুনিয়ার সেই খরচের জন্য, যা বিনিময়ে কিছু না রেখেই মিলিয়ে গেল। আবার আফসোস করেছিল নিজের শিরক আর মন্দ কাজের জন্যও। এজন্যই সে বলেছিল, হায়, আমি যদি আমার রবের সাথে কাউকে শরীক না করতাম! সা'দীর পাঠে আফসোস শুধু ক্ষতিতে থামেনি, গোড়া পর্যন্ত পৌঁছেছিল। তবে সংগ্রহ করা লেখায় তিনি বলেননি সেই আফসোস কবুল হয়েছিল কি না। তিনি যে উত্তর দেননি, এ লেখাও তা বানিয়ে দেবে না।"
+          },
+          {
+            "en": "At-Tabari reads the wish further ahead. He calls it the wish of this disbeliever after his garden was struck, then says it means that when he perishes, his world gone and he left alone with his deeds, he would wish he had never disbelieved. Tanwir al-Miqbas, the commentary attributed to Ibn Abbas, places the saying on the Day of Judgement. None of the commentators fetched says the regret saved him, and 18:43 goes on to state that no party helped him, nor could he help himself.",
+            "bn": "তাবারী আফসোসটাকে আরও সামনের দিকে নিয়ে পড়েন। তিনি বলেন, বাগানে বিপদ আসার পর এ ছিল ওই কাফিরের কামনা। তারপর যোগ করেন, এর মানে হলো: যখন সে মারা যাবে, তার দুনিয়া চলে যাবে, আর সে একা থাকবে শুধু নিজের আমল নিয়ে, তখন সে চাইবে, যদি কখনো কুফরি না করত! ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাস কথাটিকে কিয়ামতের দিনের বলে উল্লেখ করে। সংগ্রহ করা কোনো তাফসীরই বলেনি যে এই আফসোস তাকে বাঁচিয়েছিল। আর ১৮:৪৩ আয়াত জানিয়ে দেয়, কোনো দল তাকে সাহায্য করেনি, সে নিজেও নিজেকে রক্ষা করতে পারেনি।"
+          },
+          {
+            "en": "Ibn Kathir, reaching 18:44 in the same passage, explains one reading of al-walayah as everyone, believer or disbeliever, turning to Allah in submission when the punishment comes. Beside it he sets 40:84, where people who saw Our might said, we believe in Allah alone, and Pharaoh's words at drowning in 10:90 and 10:91. The next verse, 40:85, says their belief did not benefit them once they had seen it.",
+            "bn": "একই আলোচনায় ১৮:৪৪ আয়াতে পৌঁছে ইবন কাসীর আল-ওয়ালায়া শব্দের এক কিরাআতের ব্যাখ্যা দেন। শাস্তি যখন এসে পড়ে, তখন মুমিন হোক বা কাফির, সবাই আনুগত্য নিয়ে আল্লাহর দিকে ফেরে। এর পাশে তিনি রাখেন ৪০:৮৪ আয়াত, যেখানে আমার শাস্তি দেখে লোকেরা বলেছিল, আমরা এক আল্লাহর উপর ঈমান আনলাম। সাথে রাখেন ডুবে যাওয়ার মুহূর্তে ফিরআউনের কথা, ১০:৯০ ও ১০:৯১ আয়াতে। পরের আয়াত ৪০:৮৫ বলে, শাস্তি দেখে ফেলার পর তাদের ঈমান তাদের কোনো কাজে আসেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Regret While It Still Counts",
+          "bn": "যে আফসোস এখনো কাজে লাগে"
+        },
+        "p": [
+          {
+            "en": "None of the tafsir texts fetched for this verse attaches a hadith to it. A general narration, not attached to this verse, sets the other side of regret beside it. Ibn Majah (4252) records from Ibn Ma'qil: I entered with my father upon 'Abdullah, and I heard him say: The Messenger of Allah ﷺ said, Regret is repentance. My father said: Did you hear the Prophet ﷺ say, Regret is repentance? He said: Yes. Ibn Majah gives no grading.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সাথে কোনো হাদীস যুক্ত করেনি। এ আয়াতের সাথে যুক্ত নয়, এমন একটি সাধারণ বর্ণনা আফসোসের অন্য দিকটা সামনে আনে। ইবন মাজাহ (৪২৫২) ইবন মা'কিল থেকে বর্ণনা করেন: আমি আমার বাবার সাথে আবদুল্লাহ (রাঃ)-এর কাছে গেলাম, আর তাঁকে বলতে শুনলাম, রাসূলুল্লাহ ﷺ বলেছেন, অনুতাপই তওবা। আমার বাবা তাঁকে জিজ্ঞেস করলেন, আপনি কি নবী ﷺ-কে বলতে শুনেছেন, অনুতাপই তওবা? তিনি বললেন, হ্যাঁ। ইবন মাজাহ এর কোনো মান উল্লেখ করেননি।"
+          },
+          {
+            "en": "Set beside the verse, the narration does not change the parable's ending. It shows why the timing in 40:85 matters. The feeling the garden's owner reached too late is, in the narration's words, repentance itself. His companion had offered him the right words while the vines still stood, and he waved them away. A reader whose garden still stands can say those words now.",
+            "bn": "আয়াতের পাশে রাখলেও বর্ণনাটি উপমার শেষটা বদলায় না। বরং বোঝায়, ৪০:৮৫ আয়াতে সময়ের কথাটা কেন এত গুরুত্বপূর্ণ। বাগানের মালিক যে অনুভূতিতে পৌঁছেছিল দেরিতে, বর্ণনার ভাষায় সেটাই তওবা। লতাগুলো যখনো দাঁড়িয়ে, তখনই সঙ্গী তাকে সঠিক কথাটা দিয়েছিল, আর সে তা উড়িয়ে দিয়েছিল। যার বাগান এখনো দাঁড়িয়ে আছে, সে কথাটা এখনই বলতে পারে।"
+          },
+          {
+            "en": "This needs saying plainly. The owner of the two gardens is a parable struck in 18:32, and this verse describes what befell him within it. It names no one living and licenses nothing against any person or community today. Nor does it let anyone point at a neighbour's failed harvest or lost business and call it a punishment; why a loss comes is known to Allah. The verse is a mirror, held up to the reader's own garden and the reader's own heart.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। দুই বাগানের মালিক ১৮:৩২ আয়াতে বলা এক উপমা। এ আয়াত বর্ণনা করে সেই উপমার ভেতরে তার কী হয়েছিল, এর বেশি কিছু নয়। আজকের কোনো জীবিত মানুষের নাম এতে নেই। কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতিও এ আয়াত দেয় না। প্রতিবেশীর ফসল নষ্ট হলে বা ব্যবসা ডুবলে আঙুল তুলে সেটাকে শাস্তি বলার অধিকারও এ থেকে মেলে না। কোনো ক্ষতি কেন আসে, তা আল্লাহই জানেন। আয়াতটি এক আয়না, পাঠকের নিজের বাগান আর নিজের মনের সামনে ধরা।"
+          }
+        ]
+      }
+    ]
+  },
   "18:45": {
     "sections": [
       {
