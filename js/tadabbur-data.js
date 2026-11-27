@@ -38173,6 +38173,24 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Follow what Allah has made clear even when others pull the other way; their backing cannot shield you from Him, and His protection is enough for whoever is mindful of Him.",
     "lessonBn": "অন্যরা উল্টো দিকে টানলেও আল্লাহ যা স্পষ্ট করে দিয়েছেন তা-ই মেনে চলুন। তাদের সমর্থন আপনাকে তাঁর হাত থেকে বাঁচাতে পারবে না, আর যে তাঁকে ভয় করে চলে তার জন্য তাঁর অভিভাবকত্বই যথেষ্ট।"
+  },
+  "46:8": {
+    "reflectionEn": "One charge follows another. First they called the recitation plain magic; now they say he made it up himself. The answer does not raise its voice. If I had invented it, you could not shield me from Allah at all, so why would I stake my soul to please you? He knows best what you keep pouring out about it, and He is enough as witness between us. Then, where a threat could have ended the matter, the verse closes on two names: the Forgiving, the Merciful. Even those spreading the accusation are shown a way back. When someone twists what I say, do I fight for the last word, or leave the verdict to the Witness and keep the door open for them?",
+    "reflectionBn": "একটা অভিযোগের পর আরেকটা। আগে তারা তিলাওয়াতকে বলেছিল স্পষ্ট যাদু, এখন বলছে, এ তো সে নিজেই বানিয়েছে। জবাবে গলা চড়ে না। আমি যদি বানিয়েই থাকি, আল্লাহর হাত থেকে তোমরা আমাকে একটুও বাঁচাতে পারবে না। তাহলে তোমাদের খুশি করতে নিজের আখিরাত বাজি রাখব কেন? এ নিয়ে তোমরা যা কিছু বলে বেড়াচ্ছ, তিনি তা ভালো করেই জানেন। আমার আর তোমাদের মাঝে সাক্ষী হিসেবে তিনিই যথেষ্ট। হুমকি দিয়েই কথা শেষ হতে পারত। অথচ আয়াত থামে দুটি নামে: তিনি ক্ষমাশীল, পরম দয়ালু। যারা অভিযোগ ছড়াচ্ছে, তাদের সামনেও ফেরার পথ খোলা। কেউ আমার কথা বাঁকিয়ে দিলে আমি কি শেষ কথাটা বলার জন্য লড়াই করি? নাকি রায় সেই সাক্ষীর হাতে ছেড়ে দিয়ে তার জন্যও দরজা খোলা রাখি?",
+    "pointsEn": [
+      "When I am accused unfairly, do I need to win the argument, or is it enough for me that Allah knows?",
+      "What do I keep pouring out in talk about matters I have never honestly examined?",
+      "Whose approval could tempt me to say something about Allah's religion that I cannot stand behind?",
+      "When I argue with someone who rejects the truth, do my words still leave them a way back?"
+    ],
+    "pointsBn": [
+      "অন্যায়ভাবে অভিযুক্ত হলে আমার কি তর্কে জিততেই হয়? নাকি আল্লাহ জানেন, এটুকুই আমার জন্য যথেষ্ট?",
+      "যে বিষয় আমি কখনো সৎভাবে যাচাই করে দেখিনি, তা নিয়ে আমি কী কী বলে বেড়াই?",
+      "কার খুশির লোভে আমি আল্লাহর দ্বীন নিয়ে এমন কথা বলে ফেলতে পারি, যার দায় নিতে পারব না?",
+      "সত্য প্রত্যাখ্যানকারীর সঙ্গে তর্ক করার সময় আমার কথায় কি তার ফেরার পথ খোলা থাকে?"
+    ],
+    "lessonEn": "Answer false charges calmly, never speak about Allah to win anyone's approval, leave the verdict to Him as Witness, and keep the way of repentance open even to opponents.",
+    "lessonBn": "মিথ্যা অভিযোগের জবাব দিন শান্তভাবে। কারও খুশির জন্য আল্লাহর নামে কিছু বলবেন না, রায় সাক্ষী হিসেবে তাঁর হাতেই ছেড়ে দিন, আর বিরোধীর জন্যও তওবার পথ খোলা রাখুন।"
   }
 };
 

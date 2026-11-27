@@ -295,6 +295,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "46:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Magic to Forgery",
+          "bn": "যাদুর অভিযোগ থেকে জালিয়াতির অভিযোগে"
+        },
+        "p": [
+          {
+            "en": "Am yaquluna iftarahu: or do they say, he invented it? The verse before has just reported a first verdict on the recited verses: when the truth came to them, the deniers called it plain magic (46:7). Now a second charge follows. Al-Qurtubi reads the opening as a turn away from that saying, and paraphrases it: leave this aside, and hear their objectionable claim, the kind that leaves you marvelling. The question, he says, carries rejection and astonishment. The Muyassar renders the opening simply as: rather, do they say?",
+            "bn": "আম ইয়াকূলূনাফতারাহু: নাকি তারা বলে, সে এটা বানিয়েছে? ঠিক আগের আয়াতে তিলাওয়াত করা আয়াতগুলো নিয়ে তাদের প্রথম রায়টা এসেছে। সত্য যখন তাদের কাছে এল, অস্বীকারকারীরা বলল, এ তো স্পষ্ট যাদু (৪৬:৭)। এবার আসছে দ্বিতীয় অভিযোগ। কুরতুবীর মতে শুরুর শব্দটা আগের কথা থেকে মুখ ফিরিয়ে নেয়। তাঁর ভাষায় কথাটা যেন এমন: ওটা থাক, এবার তাদের সেই আপত্তিকর দাবিটা শোনো, যা শুনে অবাক হতে হয়। তিনি বলেন, প্রশ্নটার ভেতরে আছে প্রত্যাখ্যান আর বিস্ময়। মুয়াসসার শুরুটা সোজা কথায় বলে: বরং তারা কি বলে?"
+          },
+          {
+            "en": "Who said it, and about what? At-Tabari names the speakers as the idolaters of Quraysh, and the charge as this: that Muhammad ﷺ invented this Qur'an, fabricated it and made it up as a lie. Al-Qurtubi takes the pronoun in iftarahu back to al-haqq, the truth named in 46:7, meaning the verses. The same opening question recurs elsewhere with other answers: a challenge to bring a surah like it in 10:38, or ten surahs like it in 11:13. Here the answer takes another road.",
+            "bn": "কথাটা কারা বলেছিল, আর কী নিয়ে? তাবারী বক্তাদের চিহ্নিত করেন কুরাইশের মুশরিক হিসেবে। অভিযোগটা ছিল এই: মুহাম্মাদ ﷺ এ কুরআন নিজে বানিয়েছেন, মনগড়া করে মিথ্যা হিসেবে রচনা করেছেন। কুরতুবী ইফতারাহু শব্দের সর্বনামটিকে ফিরিয়ে নেন ৪৬:৭ আয়াতের আল-হাক্ক, অর্থাৎ সত্যের দিকে, যার মানে আয়াতগুলো। একই প্রশ্ন দিয়ে কুরআনের আরও জায়গা শুরু হয়, তবে জবাব সেখানে ভিন্ন। ১০:৩৮ আয়াতে চ্যালেঞ্জ আসে এর মতো একটি সূরা নিয়ে আসার, আর ১১:১৩ আয়াতে এর মতো দশটি সূরা। এখানে জবাব চলে অন্য পথে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Granted Only for Argument",
+          "bn": "তর্কের খাতিরে মেনে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "Qul in iftaraytuhu: say, if I have invented it. Al-Qurtubi marks the condition as spoken by way of supposition, ala sabil al-fard. The Prophet ﷺ concedes nothing; he grants his opponents' premise for a moment to show where it leads. Then comes fa-la tamlikuna li mina Allahi shay'a: you would not possess anything for me against Allah. At-Tabari glosses it: you would be of no use to me against Allah if He punished me for inventing it, and you could not push away any harm from me if He struck me with it.",
+            "bn": "কুল ইনিফতারাইতুহু: বলুন, যদি আমি এটা বানিয়ে থাকি। কুরতুবী শর্তটাকে চিহ্নিত করেন ধরে নেওয়ার ভঙ্গিতে বলা কথা হিসেবে, আলা সাবীলিল ফারদ। নবী ﷺ এখানে কিছুই স্বীকার করছেন না। বিরোধীদের ধারণাটা মুহূর্তের জন্য মেনে নিয়ে দেখাচ্ছেন, তা কোথায় গিয়ে ঠেকে। তারপর আসে ফালা তামলিকূনা লী মিনাল্লাহি শাইআ: আল্লাহর বিরুদ্ধে আমার জন্য তোমরা কিছুই করতে পারবে না। তাবারীর ব্যাখ্যা: বানানোর জন্য আল্লাহ যদি আমাকে শাস্তি দেন, তাঁর সামনে তোমরা আমার কোনো কাজে আসবে না। আর তিনি কোনো বিপদ দিলে তার কিছুই তোমরা আমার উপর থেকে সরাতে পারবে না।"
+          },
+          {
+            "en": "The Muyassar keeps to the same line: if I had made it up against Allah, you could not ward off any of His punishment from me, were He to punish me for it. Al-Baghawi and al-Qurtubi both add a question that turns the supposition into an argument: so how would I invent against Allah for your sake? Whatever a man might hope to gain from such listeners, they could not shield him from the Lord he had lied against. The motive the charge needs falls away.",
+            "bn": "মুয়াসসারও একই পথে চলে: আমি যদি আল্লাহর নামে এটা বানিয়ে থাকি, আর তিনি এর জন্য আমাকে শাস্তি দেন, তবে তাঁর শাস্তির কিছুই তোমরা আমার থেকে ঠেকাতে পারবে না। বাগাভী ও কুরতুবী দুজনেই এর সঙ্গে একটা প্রশ্ন জুড়ে দেন, যাতে ধরে নেওয়া কথাটা যুক্তি হয়ে ওঠে: তাহলে তোমাদের খাতিরে আমি আল্লাহর নামে মিথ্যা বানাব কেন? এমন শ্রোতাদের কাছ থেকে কেউ যা-ই পাওয়ার আশা করুক, যে রবের নামে সে মিথ্যা বলেছে, তাঁর হাত থেকে তারা তাকে বাঁচাতে পারবে না। অভিযোগটা টিকতে হলে যে উদ্দেশ্য লাগে, সেটাই আর থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Shield Against Him",
+          "bn": "তাঁর বিরুদ্ধে কোনো ঢাল নেই"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir spells out the supposition: if I lied against Him and claimed that He sent me when He had not, He would punish me with the severest punishment, and no one on earth, neither you nor anyone else, could protect me from Him. He sets two passages beside it. In 72:22 and 72:23 the Prophet ﷺ is told to say that none will protect him from Allah and he will find no refuge besides Him. In 69:44 to 69:47, had he made up sayings about Us, We would have seized him by the right hand and cut his aorta, and none of you could have held Us back.",
+            "bn": "ইবন কাসীর ধরে নেওয়া কথাটা খুলে বলেন: আমি যদি তাঁর নামে মিথ্যা বলতাম, দাবি করতাম তিনি আমাকে পাঠিয়েছেন অথচ তিনি পাঠাননি, তবে তিনি আমাকে কঠিনতম শাস্তি দিতেন। পৃথিবীর কেউ, তোমরা হও বা অন্য কেউ, তাঁর হাত থেকে আমাকে রক্ষা করতে পারত না। এর পাশে তিনি দুটি জায়গা রাখেন। ৭২:২২ ও ৭২:২৩ আয়াতে নবীকে ﷺ বলতে বলা হয়েছে, আল্লাহর হাত থেকে কেউ তাঁকে রক্ষা করবে না, আর তাঁকে ছাড়া তিনি কোনো আশ্রয়ও পাবেন না। ৬৯:৪৪ থেকে ৬৯:৪৭ আয়াতে আছে: সে যদি আমার নামে কোনো কথা বানাত, আমি তার ডান হাত ধরে ফেলতাম, তারপর কেটে দিতাম তার হৃৎপিণ্ডের ধমনী। তোমাদের কেউ আমাকে তা থেকে ঠেকাতে পারত না।"
+          },
+          {
+            "en": "As-Sa'di turns the same thought into a proof drawn from events. If I invented it, he paraphrases, then Allah has power over me and knows what you pour forth about it, so why has He not punished me for the forgery you allege? On kafa bihi shahidan he continues: had I been putting words in His mouth, He would have seized me by the right hand and punished me with a punishment everyone could see, because this would be the gravest kind of forgery. In his reading, the absence of that punishment is part of the witness.",
+            "bn": "সা'দী একই চিন্তাকে ঘটনার ভেতর থেকে প্রমাণ বানান। তাঁর ব্যাখ্যায় কথাটা এমন: আমি যদি বানিয়েই থাকি, আল্লাহ তো আমার উপর ক্ষমতাবান, আর তোমরা যা বলে বেড়াও তাও তিনি জানেন। তাহলে তোমাদের দাবি করা এই জালিয়াতির জন্য তিনি আমাকে শাস্তি দিলেন না কেন? কাফা বিহী শাহীদা প্রসঙ্গে তিনি আরও বলেন, আমি যদি তাঁর নামে কথা বানাতাম, তিনি আমার ডান হাত ধরে ফেলতেন আর এমন শাস্তি দিতেন যা সবাই দেখত। কারণ এটা হতো সবচেয়ে বড় জালিয়াতি। তাঁর পাঠে সেই শাস্তি না আসাটাও সাক্ষ্যের অংশ।"
+          },
+          {
+            "en": "As-Sa'di also reads the middle clause as reaching beyond punishment: could you do anything for me against Allah, whether He intended harm for me or intended mercy for me? Either way the matter rests with Him alone. Ibn Kathir, for his part, classes the whole reply, from in iftaraytuhu to the witness clause, as a threat to them, an emphatic warning and a severe deterrent. The deniers are told plainly what they are dealing with.",
+            "bn": "সা'দী মাঝের অংশটাকে শাস্তির চেয়েও বড় পরিসরে পড়েন: আল্লাহ যদি আমার ক্ষতি চান, কিংবা আমার উপর রহমত করতে চান, তোমরা কি তাঁর বিরুদ্ধে আমার জন্য কিছু করতে পারবে? দুই অবস্থাতেই বিষয়টা শুধু তাঁর হাতে। অন্যদিকে ইবন কাসীর ইনিফতারাইতুহু থেকে সাক্ষীর অংশ পর্যন্ত পুরো জবাবটাকে বলেন তাদের প্রতি হুমকি, জোরালো সতর্কবাণী আর কঠিন ভীতিপ্রদর্শন। অস্বীকারকারীদের সাফ জানিয়ে দেওয়া হচ্ছে, তারা কার সঙ্গে লড়ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Beyond Him, or a Sign",
+          "bn": "হয় সাধ্যের বাইরে, নয়তো নিদর্শন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi explains why the charge deserves astonishment in a compact chain of reasoning. Muhammad ﷺ was not able to produce it, so as to say it himself and attribute it falsely to Allah. Had he been able to, while the whole nation of the Arabs could not, that ability would itself have been a miracle, because it breaks the ordinary course of things. A miracle is Allah's confirmation of the person who brings it, and the Wise does not confirm a liar. So, he concludes, he cannot be a forger.",
+            "bn": "অভিযোগটা কেন বিস্ময়কর, কুরতুবী তা দেখান ছোট একটা যুক্তির শিকলে। মুহাম্মাদ ﷺ এটা রচনা করার সামর্থ্য রাখতেন না যে নিজে বলে আল্লাহর নামে চালিয়ে দেবেন। আর গোটা আরব জাতি যা পারেনি, তা যদি তিনি একা পারতেন, তবে সেই সামর্থ্যই হতো মুজিযা, কারণ তা স্বাভাবিক নিয়মকে ভেঙে দেয়। মুজিযা মানে যে তা নিয়ে আসে, তার পক্ষে আল্লাহর সত্যায়ন। আর প্রজ্ঞাময় কখনো মিথ্যাবাদীকে সত্যায়ন করেন না। তাই তাঁর সিদ্ধান্ত, তিনি জালিয়াত হতে পারেন না।"
+          },
+          {
+            "en": "The argument closes both exits. Either the Qur'an is beyond him, in which case he did not compose it; or it is within his power alone among his people, in which case that singular power is a sign from Allah, who would not lend His sign to a lie. The challenge verses already mentioned, 10:38 and 11:13, put the same claim into the opponents' hands as a test they could run themselves: if a man composed it, let men produce its like.",
+            "bn": "যুক্তিটা বের হওয়ার দুটি পথই বন্ধ করে দেয়। কুরআন যদি তাঁর সাধ্যের বাইরে হয়, তবে তিনি এটা রচনা করেননি। আর যদি গোটা জাতির মধ্যে কেবল তাঁরই সাধ্যে থাকে, তবে সেই অনন্য সামর্থ্য আল্লাহর নিদর্শন। আর আল্লাহ তাঁর নিদর্শন কোনো মিথ্যার পক্ষে দেন না। আগে উল্লেখ করা চ্যালেঞ্জের আয়াত দুটি, ১০:৩৮ ও ১১:১৩, একই দাবিকে বিরোধীদের হাতেই তুলে দেয় এমন এক পরীক্ষা হিসেবে, যা তারা নিজেরাই করে দেখতে পারত: কোনো মানুষ যদি এটা রচনা করে থাকে, তবে মানুষই এর মতো কিছু নিয়ে আসুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Talk That Pours Forth",
+          "bn": "উপচে পড়া কথার স্রোত"
+        },
+        "p": [
+          {
+            "en": "Huwa a'lamu bima tufiduna fihi: He knows best what you pour forth about it. The verb comes from ifada. Al-Qurtubi explains ifada in a matter as plunging into it and pushing on: afadu fi al-hadith, they launched into the talk. He gives two more uses. A camel afada when it pushed its cud up from its stomach and brought it out, and people afadu from Arafat when they surged out together. Every push, he says, is an ifada. The same verb gives afidu, depart, in 2:199.",
+            "bn": "হুয়া আ'লামু বিমা তুফীদূনা ফীহ: তোমরা এ নিয়ে যা কিছু বলে বেড়াও, তিনি তা সবচেয়ে ভালো জানেন। ক্রিয়াটি এসেছে ইফাদা থেকে। কুরতুবী বলেন, কোনো বিষয়ে ইফাদা মানে তাতে ঝাঁপিয়ে পড়া আর সামনে এগিয়ে যাওয়া। আফাদূ ফিল হাদীস মানে তারা কথায় মেতে উঠল। তিনি আরও দুটি ব্যবহার দেখান। উট যখন পেট থেকে জাবর ঠেলে ওপরে তুলে আনে, তাকেও বলে আফাদা। আর মানুষ যখন দলে দলে আরাফাত থেকে বেরিয়ে আসে, তাকেও বলে আফাদূ। তাঁর কথায়, প্রতিটি ধাক্কাই ইফাদা। ২:১৯৯ আয়াতে আফীদূ, অর্থাৎ রওনা হও, এই একই ক্রিয়া থেকে।"
+          },
+          {
+            "en": "What exactly were they pouring out? Al-Qurtubi cites Mujahid: you say it. At-Tabari reads the clause the same way: my Lord knows better than anything besides Him what you say among yourselves about this Qur'an. He notes that the pronoun in fihi refers to the Qur'an, adds that the people of interpretation said the like, and cites Mujahid with a chain for the gloss: you say. On this reading the verse sets every remark they trade in their gatherings before the One who hears it.",
+            "bn": "ঠিক কী উপচে পড়ছিল তাদের মুখ থেকে? কুরতুবী মুজাহিদের ব্যাখ্যা উদ্ধৃত করেন: যা তোমরা বলো। তাবারীও আয়াতটা এভাবেই পড়েন: এ কুরআন নিয়ে তোমরা নিজেদের মধ্যে যা বলাবলি করো, আমার রব তা অন্য সবকিছুর চেয়ে বেশি জানেন। তিনি জানান, ফীহি শব্দের সর্বনাম কুরআনকে বোঝায়। তিনি আরও বলেন, ব্যাখ্যাকারেরা একই কথা বলেছেন, আর সনদসহ মুজাহিদের ব্যাখ্যা আনেন: তোমরা বলো। এই পাঠে তাদের মজলিসে চালাচালি হওয়া প্রতিটি মন্তব্যই আয়াত তুলে ধরে সেই সত্তার সামনে, যিনি সব শোনেন।"
+          },
+          {
+            "en": "Al-Qurtubi records a second view, introduced with qila, it is said: you wade into it with denial. Al-Baghawi adopts this view and fills it in: you plunge into denying the Qur'an and saying of it that it is magic, which ties the clause back to 46:7. The two glosses differ in tone. The first is plain speech, what you say; the second is speech already rushing somewhere, a headlong slide into rejection. On either gloss, nothing of it is hidden from the Judge.",
+            "bn": "কুরতুবী 'কীলা', অর্থাৎ 'বলা হয়' দিয়ে আরেকটা মত আনেন: তোমরা অস্বীকারের মধ্যে ডুবে থাকো। বাগাভী এই মতটাই নেন এবং আরেকটু খুলে বলেন: তোমরা কুরআনকে অস্বীকার করায় মেতে আছ, আর বলছ এটা যাদু। এতে আয়াতটা আবার ৪৬:৭ আয়াতের সঙ্গে জুড়ে যায়। দুটি ব্যাখ্যার সুর আলাদা। প্রথমটা শুধু কথা, যা তোমরা বলো। দ্বিতীয়টা এমন কথা, যা আগেই একদিকে ছুটছে, প্রত্যাখ্যানের দিকে হুড়মুড় করে গড়িয়ে পড়ছে। যে ব্যাখ্যাই নিন, এর কিছুই বিচারকের কাছে গোপন নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Suffices Between Us",
+          "bn": "দুই পক্ষের উপর এক সাক্ষী"
+        },
+        "p": [
+          {
+            "en": "Kafa bihi shahidan bayni wa baynakum: sufficient is He as witness between me and you. Al-Qurtubi notes that shahidan stands in the accusative as a specification, tamyiz, so the sense is: sufficient is He, as a witness. The commentators then differ over what He witnesses. At-Tabari: Allah suffices as witness against me and against you, concerning what you say in denying me over what I brought you from Him. Al-Qurtubi: He knows that I am truthful and that you are in falsehood.",
+            "bn": "কাফা বিহী শাহীদান বাইনী ওয়া বাইনাকুম: আমার আর তোমাদের মাঝে সাক্ষী হিসেবে তিনিই যথেষ্ট। কুরতুবী জানান, শাহীদান শব্দটি তাময়ীয হিসেবে নসবযুক্ত, অর্থাৎ কোন দিক থেকে যথেষ্ট তা স্পষ্ট করছে: সাক্ষী হিসেবে তিনিই যথেষ্ট। তিনি কিসের সাক্ষী, সে প্রশ্নে তাফসীরকারদের কথা ভিন্ন। তাবারী বলেন, আল্লাহর কাছ থেকে যা এনেছি, তা নিয়ে তোমরা আমাকে মিথ্যাবাদী বলে যা বলছ, তার ব্যাপারে আমার আর তোমাদের উপর সাক্ষী হিসেবে আল্লাহই যথেষ্ট। কুরতুবী বলেন, তিনি জানেন আমি সত্যবাদী আর তোমরা বাতিলের উপর।"
+          },
+          {
+            "en": "Al-Baghawi names the object as the Qur'an's origin: He witnesses that it came from Him. As-Sa'di, as seen above, locates the testimony in what Allah did not do, since a forger would have been seized. These readings sit beside each other rather than against each other. The dispute has two parties and no human judge whom both would accept, so the Prophet ﷺ refers it to the Witness who saw all of it and whose verdict no one can appeal.",
+            "bn": "বাগাভী সাক্ষ্যের বিষয় বলেন কুরআনের উৎস: এটা যে তাঁর কাছ থেকেই এসেছে, তিনি তার সাক্ষী। সা'দী, আগেই যেমন দেখা গেছে, সাক্ষ্যটা খোঁজেন আল্লাহ যা করেননি তার মধ্যে, কেননা জালিয়াত হলে তাঁকে পাকড়াও করা হতো। এই পাঠগুলো একটা আরেকটার বিপরীতে নয়, পাশাপাশি দাঁড়ায়। বিবাদের দুই পক্ষ, আর এমন কোনো মানুষ বিচারক নেই যাকে দুই পক্ষই মেনে নেবে। তাই নবী ﷺ বিষয়টা সঁপে দেন সেই সাক্ষীর হাতে, যিনি সবটাই দেখেছেন, আর যাঁর রায়ের বিরুদ্ধে কোনো আপিল নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Threat That Ends Mercifully",
+          "bn": "হুমকির শেষে রহমতের ডাক"
+        },
+        "p": [
+          {
+            "en": "Then the verse closes: wa huwa al-ghafur al-rahim, and He is the Forgiving, the Merciful. After so much warning, why these two names? Ibn Kathir answers that the threat comes first and then an invitation. He calls the closing an encouragement to repentance and return, and paraphrases: with all of this, if you come back and repent, He will turn to you, pardon you, forgive you and have mercy on you. The people just told that Allah knows what they pour forth are offered forgiveness in the same breath.",
+            "bn": "তারপর আয়াতের শেষ কথা: ওয়া হুয়াল গাফূরুর রাহীম, আর তিনি ক্ষমাশীল, পরম দয়ালু। এত সতর্কবাণীর পর এই দুটি নাম কেন? ইবন কাসীরের জবাব, আগে হুমকি, তারপর আহ্বান। শেষ অংশটাকে তিনি বলেন তওবা আর ফিরে আসার প্রতি উৎসাহ। তাঁর ব্যাখ্যায় কথাটা এমন: এত কিছুর পরও তোমরা যদি ফিরে আসো আর তওবা করো, তিনি তোমাদের তওবা কবুল করবেন, তোমাদের মাফ করবেন, ক্ষমা করবেন, রহম করবেন। যাদের এইমাত্র বলা হলো, তোমরা যা বলে বেড়াও আল্লাহ তা জানেন, একই নিঃশ্বাসে তাদের সামনে মাগফিরাতের প্রস্তাব রাখা হলো।"
+          },
+          {
+            "en": "As-Sa'di frames it the same way and stresses whom the invitation reaches: Allah called them to repentance despite their obstinate resistance to the truth and their quarrel with it. His paraphrase runs: so repent to Him and give up what you are in; He will forgive your sins, have mercy on you, grant you success in good and reward you abundantly. At-Tabari ties the two names to the same door: Forgiving and Merciful to them, in that He will not punish them for it once they have repented of it.",
+            "bn": "সা'দীও একইভাবে দেখেন, আর জোর দেন আহ্বানটা কাদের কাছে পৌঁছাচ্ছে তার উপর। সত্যের বিরুদ্ধে তাদের একগুঁয়ে বিরোধিতা আর ঝগড়া সত্ত্বেও আল্লাহ তাদের তওবার দিকে ডেকেছেন। তাঁর ব্যাখ্যা: তাই তাঁর কাছে তওবা করো, যাতে আছ তা ছেড়ে দাও। তিনি তোমাদের গুনাহ মাফ করবেন, রহম করবেন, ভালো কাজের তাওফীক দেবেন আর বিপুল প্রতিদান দেবেন। তাবারী দুটি নামকে একই দরজার সঙ্গে বাঁধেন: তাদের প্রতি তিনি ক্ষমাশীল ও দয়ালু এই অর্থে যে, তওবা করার পর এর জন্য তিনি তাদের শাস্তি দেবেন না।"
+          },
+          {
+            "en": "Al-Baghawi gives two readings. His own is that He is forgiving and merciful in delaying the punishment from you. Then he relays az-Zajjaj: this is a call to them to repent, meaning that Allah forgives whoever of you repents and is merciful to him. The Muyassar and al-Qurtubi divide the names between two groups: forgiving to whoever repents to Him, merciful to His believing servants. Ibn Kathir points to 25:5 and 25:6, where another charge about the Qur'an's origin is answered and closes: He is ever Forgiving and Merciful.",
+            "bn": "বাগাভী দুটি পাঠ দেন। তাঁর নিজের কথা, তোমাদের থেকে শাস্তি পিছিয়ে দেওয়ায় তিনি ক্ষমাশীল ও দয়ালু। তারপর তিনি যাজ্জাজের কথা আনেন: এটা তাদের প্রতি তওবার ডাক। অর্থাৎ তোমাদের মধ্যে যে তওবা করবে, আল্লাহ তাকে ক্ষমা করেন, তার প্রতি দয়া করেন। মুয়াসসার ও কুরতুবী নাম দুটিকে দুটি দলের মধ্যে ভাগ করেন: যে তাঁর কাছে তওবা করে তার প্রতি ক্ষমাশীল, আর তাঁর মুমিন বান্দাদের প্রতি দয়ালু। ইবন কাসীর দেখিয়ে দেন ২৫:৫ ও ২৫:৬ আয়াত। সেখানেও কুরআনের উৎস নিয়ে আরেক অভিযোগের জবাব শেষ হয়েছে এভাবে: নিশ্চয়ই তিনি ক্ষমাশীল, পরম দয়ালু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Answering Without Rancour",
+          "bn": "তিক্ততা ছাড়াই জবাব"
+        },
+        "p": [
+          {
+            "en": "The next verse carries the same reply further: say, I am nothing new among the messengers, and I follow only what is revealed to me (46:9). Across this verse the Prophet ﷺ answers the forgery charge without a single counter-insult. He offers a supposition, a witness and an open door. None of the tafsirs fetched for this verse attaches a hadith to it, and none of them gives an occasion of revelation for it.",
+            "bn": "পরের আয়াত একই জবাবকে আরও এগিয়ে নেয়: বলুন, আমি রাসূলদের মধ্যে নতুন কেউ নই, আমার কাছে যা ওহী আসে আমি শুধু তারই অনুসরণ করি (৪৬:৯)। এই আয়াতে জালিয়াতির অভিযোগের জবাবে নবী ﷺ পাল্টা একটি কটু কথাও বলেননি। তিনি দিয়েছেন ধরে নেওয়া একটা যুক্তি, একজন সাক্ষী, আর খোলা একটা দরজা। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, আর কোনোটিই এর নাযিলের কোনো প্রেক্ষাপট দেয়নি।"
+          },
+          {
+            "en": "The verse describes what the idolaters of Quraysh, as at-Tabari names them, said about the Qur'an, and how the Prophet ﷺ was told to reply. It describes them and licenses nothing against any living person or community. Nor does it give anyone the right to treat a critic of Islam today as shut out from the forgiveness its last words hold out. It shows the opposite: the reply to the harshest charge still ends by naming Allah as Forgiving and Merciful.",
+            "bn": "আয়াতটি বর্ণনা করে, তাবারীর ভাষায় কুরাইশের মুশরিকরা কুরআন নিয়ে কী বলেছিল, আর নবীকে ﷺ কীভাবে জবাব দিতে বলা হয়েছিল। আয়াত তাদের কথাই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। আজ যে ইসলামের সমালোচনা করে, তাকে এ আয়াতের শেষ কথায় খুলে দেওয়া মাগফিরাতের বাইরে ধরে নেওয়ার অধিকারও কাউকে দেয় না। বরং আয়াত দেখায় উল্টোটা: সবচেয়ে কঠিন অভিযোগের জবাবও শেষ হয় আল্লাহকে ক্ষমাশীল ও পরম দয়ালু বলে।"
+          },
+          {
+            "en": "For a reader the verse offers a manner as well as an argument. When what we carry is questioned or twisted, we can lay out the reasoning plainly, refuse to trade the truth for anyone's approval, and leave the verdict with the Witness who knows what is said. And we can end, as this verse ends, by leaving the way back open, even for the person who has been doing the accusing.",
+            "bn": "পাঠকের জন্য আয়াতটি যুক্তির পাশাপাশি একটা আচরণও শেখায়। আমরা যে সত্য বহন করি, তা নিয়ে প্রশ্ন উঠলে বা কেউ তা বিকৃত করলে, আমরা যুক্তিটা পরিষ্কারভাবে সামনে রাখতে পারি। কারও খুশির বিনিময়ে সত্য বিকিয়ে দিতে অস্বীকার করতে পারি। আর রায় ছেড়ে দিতে পারি সেই সাক্ষীর হাতে, যিনি সব কথা জানেন। শেষে, এই আয়াতের মতোই, ফেরার পথটা খোলা রাখতে পারি, এমনকি যে এতক্ষণ অভিযোগ করে যাচ্ছিল তার জন্যও।"
+          }
+        ]
+      }
+    ]
+  },
   "46:10": {
     "sections": [
       {
