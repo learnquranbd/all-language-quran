@@ -1179,6 +1179,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "24:30": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Doorway to the Eye",
+          "bn": "দরজা পেরিয়ে চোখের কাছে"
+        },
+        "p": [
+          {
+            "en": "Qul lil-mu'minina yaghuddu min absarihim wa-yahfazu furujahum: tell the believing men to lower some of their gaze and guard their private parts. The verses just before it, 24:27 to 24:29, taught the believers to seek leave and give salam before entering another's house. Al-Qurtubi names the link: having spoken of covering, Allah joined to it what belongs with it, the matter of looking. A wall keeps out the body; this verse reaches the eye that might still look in.",
+            "bn": "কুল লিল-মু'মিনীনা ইয়াগুদ্দু মিন আবসারিহিম ওয়া ইয়াহফাযু ফুরূজাহুম: মু'মিন পুরুষদের বলুন, তারা যেন দৃষ্টির কিছু অংশ নামিয়ে রাখে আর লজ্জাস্থান হেফাজত করে। ঠিক আগের আয়াতগুলো, ২৪:২৭ থেকে ২৪:২৯, শিখিয়েছে অন্যের ঘরে ঢোকার আগে অনুমতি চাইতে আর সালাম দিতে। দুইয়ের যোগসূত্র কুরতুবী নিজেই বলে দেন। আড়ালের কথা বলার পর আল্লাহ তার সঙ্গে জুড়ে দিলেন যা তার সঙ্গেই থাকে, অর্থাৎ দেখার বিষয়টি। দেয়াল শরীরকে বাইরে রাখে। কিন্তু চোখ তবু ভেতরে উঁকি দিতে পারে, আর এ আয়াত পৌঁছে যায় সেই চোখ পর্যন্ত।"
+          },
+          {
+            "en": "At-Tabari reads the opening as Allah speaking to His Prophet ﷺ: say to those who believe in Allah and in you, O Muhammad. As-Sa'di notices whom the command assumes, people carrying a faith that holds them back from whatever would damage it. The verse also keeps its own order. The men are addressed first, in a verse of their own, and only in 24:31 does the same pair of commands reach the women. What follows here stays with the men's verse.",
+            "bn": "তাবারীর ব্যাখ্যায় শুরুর কথাটি আল্লাহর পক্ষ থেকে তাঁর নবী ﷺ-কে বলা: হে মুহাম্মাদ, যারা আল্লাহর উপর ও আপনার উপর ঈমান এনেছে, তাদের বলুন। সা'দী খেয়াল করেন, আদেশটি কাদের ধরে নিয়ে দেওয়া। তারা এমন মানুষ, যাদের ঈমানই তাদের আটকে রাখে ঈমানের ক্ষতি করে এমন সব কিছু থেকে। আয়াতের নিজস্ব একটা ক্রমও আছে। প্রথমে পুরুষদের ডাকা হয়েছে, তাদের নিজেদের আলাদা আয়াতে। একই জোড়া আদেশ নারীদের কাছে পৌঁছায় তার পরে, ২৪:৩১ আয়াতে। এখানের আলোচনা পুরুষদের এই আয়াতেই সীমিত থাকবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lowered Rather Than Shut",
+          "bn": "নামানো চোখ, বোজা চোখ নয়"
+        },
+        "p": [
+          {
+            "en": "The verb is ghadda, to lower or to lessen. Al-Qurtubi gives its forms, ghadda basarahu yaghudduhu ghaddan, and cites two lines of poetry. In one, a poet tells a rival to lower his eyes, for he is only of Numayr. In the other, 'Antara says that he lowers his eyes whenever his neighbour's wife appears, until her own dwelling hides her from view. The word was at home in the poets' Arabic, for humbled pride and for honour alike.",
+            "bn": "ক্রিয়াটি গাদ্দা, যার মানে নামানো বা কমিয়ে আনা। কুরতুবী এর রূপগুলো দেখান, গাদ্দা বাসারাহু ইয়াগুদ্দুহু গাদ্দান, আর দুটি কবিতার চরণ আনেন। একটিতে এক কবি প্রতিপক্ষকে বলছেন চোখ নামাতে, কারণ সে তো নুমায়র গোত্রেরই লোক। অন্যটিতে কবি আনতারা বলছেন, প্রতিবেশীর স্ত্রী সামনে এলে তিনি চোখ নামিয়ে নেন, যতক্ষণ না তার নিজের ঘর তাকে আড়াল করে। অর্থাৎ কবিদের আরবিতে শব্দটি আগে থেকেই চেনা ছিল। কখনো তা ভাঙা অহংকারের চিহ্ন, কখনো সম্মানের।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an cites ar-Raghib that ghadd means to bring down or lower, and, following Ibn Kathir, explains lowering the eyes as turning them from what the Shari'ah forbids a person to see. Al-Qurtubi adds that the verse never names what the gaze is lowered from, nor what the private parts are guarded from. Custom makes it known, he says, and what is meant is the forbidden, not the permitted. Sight itself is not under suspicion here; only its misuse is.",
+            "bn": "মাআরিফুল কুরআন রাগিবের সূত্রে বলে, গাদ্দ মানে নিচে নামানো। আর ইবন কাসীরকে অনুসরণ করে ব্যাখ্যা দেয়: চোখ নামানো মানে শরীয়ত যা দেখতে নিষেধ করেছে, তা থেকে চোখ ফিরিয়ে নেওয়া। কুরতুবী আরেকটি কথা যোগ করেন। কী থেকে দৃষ্টি নামাতে হবে, কী থেকে লজ্জাস্থান রক্ষা করতে হবে, আয়াত তার নাম বলেনি। তাঁর মতে প্রচলিত বোঝাপড়া থেকেই তা জানা যায়, আর উদ্দেশ্য হারাম জিনিস, হালাল নয়। তাই দেখা জিনিসটা এখানে সন্দেহের পাত্র নয়। সন্দেহ শুধু তার অপব্যবহার নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Small Particle, Three Readings",
+          "bn": "ছোট্ট এক অব্যয়, তিন পাঠ"
+        },
+        "p": [
+          {
+            "en": "Then the small word min, in min absarihim. Al-Qurtubi sets out three readings. Some called it redundant, as in 69:47, fa-ma minkum min ahadin 'anhu hajizin. Others took it as partitive, some of their gaze, because some looking is permitted. A third reading takes ghadd itself as lessening, as when it is said that a man lowered another's standing: sight not allowed its full work is reduced, and min simply belongs to the verb, neither partitive nor redundant.",
+            "bn": "তারপর ছোট্ট শব্দ মিন, মিন আবসারিহিম কথাটিতে। কুরতুবী তিনটি পাঠ তুলে ধরেন। কেউ বলেছেন এটি অতিরিক্ত, যেমন ৬৯:৪৭ আয়াতে ফামা মিনকুম মিন আহাদিন আনহু হাজিযীন। কেউ ধরেছেন আংশিক অর্থে, অর্থাৎ দৃষ্টির কিছু অংশ, কারণ কিছু দেখা তো বৈধ। তৃতীয় মত বলে, গাদ্দ শব্দটিই কমানোর অর্থ দেয়, যেমন বলা হয় অমুক অমুকের মর্যাদা নামিয়ে দিল। যে দৃষ্টিকে পুরো কাজ করতে দেওয়া হয় না, সে কমে যায়। তখন মিন কেবল ক্রিয়ার সঙ্গে লেগে থাকা অব্যয়, আংশিকও নয়, অতিরিক্তও নয়।"
+          },
+          {
+            "en": "Al-Baghawi records the redundant and the retained readings, and explains why min stands: the believers are not commanded to lower their gaze from everything, since there is no duty to look away from what is lawful to see; they are commanded to look away from what is not. At-Tabari relays from Ibn Zayd a plainer argument. When a man sees what is not lawful for him, he lowers his gaze from it, and no one can lower his entire gaze; that is why Allah said min absarihim.",
+            "bn": "বাগাভী অতিরিক্ত আর বহাল, দুই মতই উল্লেখ করেন, আর মিন কেন বহাল তার কারণ দেন। মু'মিনদের সব কিছু থেকে চোখ নামাতে বলা হয়নি, কারণ যা দেখা হালাল তা থেকে চোখ সরানো ফরজ নয়। তাদের বলা হয়েছে যা হালাল নয় তা থেকে চোখ সরাতে। তাবারী ইবন যায়দ থেকে আরও সহজ একটি যুক্তি আনেন। মানুষ যখন এমন কিছু দেখে যা তার জন্য হালাল নয়, তখন সে দৃষ্টি নামিয়ে নেয়। পুরো দৃষ্টি নামিয়ে রাখা তো কারও পক্ষেই সম্ভব নয়। সে কারণেই আল্লাহ বলেছেন মিন আবসারিহিম।"
+          },
+          {
+            "en": "As-Sa'di draws a contrast inside the verse itself. The private parts are to be guarded with no qualifying word, he says, while for the eyes Allah brought the particle of partition, because looking is allowed in some situations of need; he names the witness, the worker and the man seeking a marriage. Al-Qurtubi reaches the matter from another side: the first, unchosen glance lies outside one's control, so partition was needed for the eye, and not for the private parts, which are within it.",
+            "bn": "সা'দী আয়াতের ভেতরেই একটা তফাত দেখান। তাঁর কথায়, লজ্জাস্থান হেফাজতের আদেশ এসেছে কোনো শর্ত ছাড়া। কিন্তু চোখের বেলায় আল্লাহ আংশিকতার অব্যয় এনেছেন, কারণ প্রয়োজনের কিছু অবস্থায় দেখা বৈধ। উদাহরণ হিসেবে তিনি সাক্ষী, কর্মচারী আর বিয়ের প্রস্তাবদাতার কথা বলেন। কুরতুবী অন্য দিক থেকে একই জায়গায় পৌঁছান। প্রথম যে নজর অনিচ্ছায় পড়ে, তা মানুষের নিয়ন্ত্রণের বাইরে। তাই চোখের বেলায় আংশিকতার দরকার হয়েছে। লজ্জাস্থানের বেলায় হয়নি, কারণ তা মানুষের নিয়ন্ত্রণেই থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Glance Comes Unbidden",
+          "bn": "অনিচ্ছায় নজর পড়ে গেলে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, al-Qurtubi and al-Baghawi all bring the same report here. Sahih Muslim (2159) records it from Jarir ibn 'Abdullah: \"I asked the Messenger of Allah ﷺ about the sudden glance, and he commanded me to turn my eyes away.\" At-Tirmidhi records it as well (2776) and grades it hasan sahih. Al-Qurtubi reads it as support for the partitive reading: the first glance is not chosen, so no one is charged with it; what the believer owns is what he does next.",
+            "bn": "ইবন কাসীর, কুরতুবী ও বাগাভী তিনজনই এখানে একই বর্ণনা আনেন। সহীহ মুসলিম (২১৫৯) তা উদ্ধৃত করেছে জারীর ইবন আবদুল্লাহ (রাঃ) থেকে: \"আমি রাসূলুল্লাহ ﷺ-কে হঠাৎ পড়ে যাওয়া দৃষ্টি সম্পর্কে জিজ্ঞেস করলাম। তিনি আমাকে আদেশ দিলেন, আমি যেন আমার চোখ ফিরিয়ে নিই।\" তিরমিযীও বর্ণনাটি এনেছেন (২৭৭৬) এবং একে হাসান সহীহ বলেছেন। কুরতুবী একে আংশিক পাঠের সমর্থন হিসেবে পড়েন। প্রথম নজর কেউ বেছে নেয় না, তাই তার দায়ও কারও উপর চাপে না। মু'মিনের দায় শুধু তার পরের কাজটুকুর।"
+          },
+          {
+            "en": "Ibn Kathir puts the instruction in his own words: if the eye falls by chance on what is forbidden, without intent, let it be turned away quickly. Turning, he notes, is the broader word, since it may be towards the ground or in some other direction. Nothing dramatic is asked. The eye that was taken by surprise is not blamed; it is only asked not to let the surprise settle into a stare.",
+            "bn": "ইবন কাসীর নির্দেশটি নিজের ভাষায় বলেন: ইচ্ছা ছাড়া হঠাৎ যদি হারাম কিছুর উপর চোখ পড়ে যায়, তবে দ্রুত তা ফিরিয়ে নিতে হবে। তিনি খেয়াল করান, ফিরিয়ে নেওয়া কথাটির পরিসর বড়। চোখ মাটির দিকেও যেতে পারে, অন্য কোনো দিকেও। এখানে নাটকীয় কিছু চাওয়া হয়নি। যে চোখ অপ্রস্তুত অবস্থায় কিছু দেখে ফেলেছে, তাকে দোষ দেওয়া হয় না। তাকে শুধু বলা হয়, সেই আচমকা দেখাটা যেন একদৃষ্টে তাকিয়ে থাকায় না গড়ায়।"
+          },
+          {
+            "en": "A second narration states the same thought from the other end. Sunan Abu Dawud (2149) records from Buraydah that the Prophet ﷺ said to 'Ali: \"O 'Ali, do not follow a glance with a glance, for the first is yours, and the second is not yours.\" Abu Dawud gives no grading on the page fetched for it. At-Tirmidhi (2777) relays it through the same narrator, Sharik, and calls it hasan gharib, known only through Sharik, so it rests on a single line of transmission.",
+            "bn": "দ্বিতীয় একটি বর্ণনা একই কথা বলে উল্টো দিক থেকে। সুনান আবু দাউদ (২১৪৯) বুরায়দা (রাঃ) থেকে উদ্ধৃত করেছে, নবী ﷺ আলী (রাঃ)-কে বললেন: \"হে আলী, এক দৃষ্টির পেছনে আরেক দৃষ্টি দিয়ো না। প্রথমটি তোমার জন্য, দ্বিতীয়টি তোমার জন্য নয়।\" যে পাতা থেকে বর্ণনাটি নেওয়া, সেখানে আবু দাউদ কোনো মান উল্লেখ করেননি। তিরমিযী (২৭৭৭) একই বর্ণনাকারী শারীকের সূত্রে এটি এনে একে হাসান গরীব বলেছেন, আর জানিয়েছেন যে শারীকের সূত্র ছাড়া এটি তাঁর জানা নেই। অর্থাৎ বর্ণনাটি দাঁড়িয়ে আছে একটিমাত্র সূত্রধারায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guarded From What, From Whom",
+          "bn": "কী থেকে, কার চোখ থেকে"
+        },
+        "p": [
+          {
+            "en": "Wa-yahfazu furujahum: and guard their private parts. From what? At-Tabari relays from Abu l-'Aliya that every guarding of the private parts mentioned in the Qur'an means guarding from zina, except here and in the women's verse after it, where it means covering. At-Tabari makes this his own reading: that they keep them from being seen by anyone for whom seeing them is not lawful, by wearing what covers them. Al-Baghawi records the same words of Abu l-'Aliya.",
+            "bn": "ওয়া ইয়াহফাযু ফুরূজাহুম: আর তারা যেন লজ্জাস্থান হেফাজত করে। কিন্তু কী থেকে? তাবারী আবুল আলিয়া থেকে বর্ণনা করেন, কুরআনে যেখানেই লজ্জাস্থান হেফাজতের কথা এসেছে, সেখানে অর্থ যিনা থেকে বাঁচা। ব্যতিক্রম শুধু এই আয়াত আর এর পরের নারীদের আয়াত। এ দুই জায়গায় অর্থ ঢেকে রাখা। তাবারী এটিকেই নিজের ব্যাখ্যা হিসেবে নেন। তাঁর কথায়, যার জন্য দেখা হালাল নয়, সে যেন তা দেখতে না পায়, আর সেজন্য এমন পোশাক পরতে হবে যা তা ঢেকে রাখে। বাগাভীও আবুল আলিয়ার একই কথা উল্লেখ করেন।"
+          },
+          {
+            "en": "Others widen it. Ibn Kathir says guarding the private parts is sometimes keeping them from zina, as in 70:29 and 70:30, and sometimes keeping them from being looked at. Al-Qurtubi records both views, covering and zina, and then gives his own judgement: the correct view is that all of it is meant, since the wording is general. As-Sa'di and the Muyassar likewise join the two senses. Two positions stand, and the article leaves them standing.",
+            "bn": "অন্যরা অর্থটি আরও বিস্তৃত করেন। ইবন কাসীর বলেন, লজ্জাস্থান হেফাজত কখনো মানে যিনা থেকে বাঁচানো, যেমন ৭০:২৯ ও ৭০:৩০ আয়াতে। আবার কখনো মানে অন্যের দৃষ্টি থেকে আড়াল রাখা। কুরতুবী ঢেকে রাখা আর যিনা, দুটি মতই উল্লেখ করে নিজের রায় দেন: সঠিক কথা হলো দুটিই উদ্দেশ্য, কারণ শব্দটি ব্যাপক। সা'দী ও মুয়াসসারও দুই অর্থ একসঙ্গে ধরেন। এভাবে দুটি অবস্থান পাশাপাশি থেকে যায়, আর এ লেখা তাদের কোনোটিকে বাতিল করে না।"
+          },
+          {
+            "en": "The second sense has its own hadith, which Ibn Kathir and al-Qurtubi bring. Jami' at-Tirmidhi (2769) records from Bahz ibn Hakim, from his father, from his grandfather: \"I said: O Messenger of Allah, our 'awrah, what of it must we cover and what may we leave? He said: Guard your 'awrah except from your wife or what your right hand possesses. He said: What of a man with another man? He said: If you are able that no one sees it, then do so. I said: And a man when he is alone? He said: Then Allah is more deserving that one be shy before Him.\" At-Tirmidhi grades it hasan.",
+            "bn": "দ্বিতীয় অর্থের পক্ষে একটি হাদীস আছে, যা ইবন কাসীর ও কুরতুবী দুজনেই আনেন। জামে তিরমিযী (২৭৬৯) বাহয ইবন হাকীম থেকে, তিনি তাঁর পিতা থেকে, তিনি তাঁর দাদা থেকে বর্ণনা করেন: \"আমি বললাম, হে আল্লাহর রাসূল, আমাদের সতরের কতটুকু ঢাকতে হবে আর কতটুকু ছাড়া যায়? তিনি বললেন: তোমার স্ত্রী অথবা তোমার ডান হাতের মালিকানাধীন দাসী ছাড়া সবার থেকে তোমার সতর হেফাজত করো। তিনি বললেন: পুরুষ যদি আরেক পুরুষের সঙ্গে থাকে? তিনি বললেন: যদি পারো যে কেউ তা না দেখুক, তবে তা-ই করো। আমি বললাম: আর মানুষ যখন একা থাকে? তিনি বললেন: তাহলে আল্লাহই বেশি হকদার যে তাঁকে লজ্জা করা হবে।\" তিরমিযী একে হাসান বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Look Leads",
+          "bn": "তাকানো যেখানে নিয়ে যায়"
+        },
+        "p": [
+          {
+            "en": "Why join the eye and the private parts in one sentence? Ibn Kathir answers that looking draws the heart towards corruption, so Allah commanded the guarding of the private parts just as He commanded the guarding of the eyes that lead to it. He quotes some early scholars: the look is a poisoned arrow into the heart. He relays from 'Abida that every act of disobedience to Allah is a major sin, and that Allah has named both ends here. Ma'arif al-Qur'an explains those ends: the first step is the look cast with a bad motive, the last is zina, and whatever lies between them is included by implication.",
+            "bn": "চোখ আর লজ্জাস্থানকে একই বাক্যে জোড়া হলো কেন? ইবন কাসীরের উত্তর: দেখা অন্তরকে বিপর্যয়ের দিকে টেনে নেয়। তাই আল্লাহ লজ্জাস্থান হেফাজতের আদেশ দিয়েছেন, ঠিক যেমন আদেশ দিয়েছেন সেই চোখ হেফাজতের, যা ওদিকে নিয়ে যায়। তিনি পূর্বসূরিদের কারও কারও কথা উদ্ধৃত করেন: দৃষ্টি অন্তরের দিকে ছোড়া বিষমাখা তীর। আবীদা থেকে তিনি আরও বর্ণনা করেন, আল্লাহর প্রতিটি নাফরমানিই কবীরা গুনাহ, আর এখানে আল্লাহ দুই প্রান্তেরই নাম নিয়েছেন। মাআরিফুল কুরআন প্রান্ত দুটি খুলে বলে। প্রথম ধাপ মন্দ উদ্দেশ্যে তাকানো, শেষ ধাপ যিনা। মাঝখানে যা কিছু পড়ে, সবই এর আওতায় চলে আসে।"
+          },
+          {
+            "en": "Ibn Kathir supports the link with a narration that Sahih Muslim (2657) records, here in Muslim's wording through Ibn 'Abbas from Abu Hurayrah: \"Allah has written for the son of Adam his share of zina, which he will reach without fail. The zina of the eyes is looking, and the zina of the tongue is speaking; the self wishes and desires, and the private part confirms that or denies it.\" It is a general narration, not attached to this verse, but it shows why a single sentence can hold both the eye and the body.",
+            "bn": "এই সম্পর্কের পক্ষে ইবন কাসীর একটি বর্ণনা আনেন, যা সহীহ মুসলিম (২৬৫৭) উদ্ধৃত করেছে। এখানে মুসলিমের শব্দে, ইবন আব্বাস (রাঃ)-এর সূত্রে আবু হুরায়রা (রাঃ) থেকে: \"আল্লাহ আদম সন্তানের জন্য যিনার অংশ লিখে রেখেছেন, যা সে অবশ্যই পেয়ে যাবে। চোখের যিনা দেখা, জিহ্বার যিনা কথা বলা। মন কামনা করে, আকাঙ্ক্ষা করে, আর লজ্জাস্থান তা সত্য করে অথবা মিথ্যা করে দেয়।\" এটি সাধারণ বর্ণনা, এই আয়াতের সঙ্গে সরাসরি যুক্ত নয়। তবু তা দেখায়, একটি বাক্যে চোখ আর শরীর কেন একসঙ্গে আসতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Purer, and Made to Grow",
+          "bn": "পবিত্রতা, সঙ্গে বৃদ্ধিও"
+        },
+        "p": [
+          {
+            "en": "Dhalika azka lahum: that is purer for them. At-Tabari explains that lowering the gaze from what may not be looked at, and keeping the private parts from appearing to onlookers, is purer for them with Allah and better. For Ibn Kathir it is purer for their hearts and cleaner for their religion, and he adds a saying without naming its author: whoever guards his sight, Allah gives him light in his insight, or, in another wording, in his heart. Al-Qurtubi has it purer in religion and further from people's stains.",
+            "bn": "যালিকা আযকা লাহুম: এটাই তাদের জন্য বেশি পবিত্র। তাবারী বুঝিয়ে বলেন, যা দেখা যায় না তা থেকে চোখ নামিয়ে রাখা, আর লজ্জাস্থানকে দর্শকের চোখে প্রকাশ পেতে না দেওয়া, আল্লাহর কাছে তাদের জন্য বেশি পবিত্র ও উত্তম। ইবন কাসীরের কাছে এটি অন্তরের জন্য বেশি পবিত্র, দ্বীনের জন্য বেশি নির্মল। তিনি বক্তার নাম না বলে একটি কথাও জুড়ে দেন: যে নিজের দৃষ্টি হেফাজত করে, আল্লাহ তার অন্তর্দৃষ্টিতে আলো দেন। অন্য এক ভাষ্যে, তার অন্তরে। কুরতুবীর ভাষায়, এটি দ্বীনের দিক থেকে বেশি পবিত্র, আর মানুষের মলিনতা থেকে বেশি দূরে।"
+          },
+          {
+            "en": "As-Sa'di hears growth in azka as well as purity: purer, better, and more increasing for their deeds, because they left the forbidden thing the self craved, and whoever lowers his gaze from the forbidden, Allah lights up his insight. He asks why Allah called it guarding. A guarded thing stays safe only if its keeper watches over it; so too the eye and the private parts, which, left unwatched, lead a servant into trials. Ibn Kathir says of several narrations on the reward of lowering the gaze that their chains contain weakness, so none is relied on here.",
+            "bn": "সা'দী আযকা শব্দে পবিত্রতার পাশাপাশি বৃদ্ধির অর্থও শোনেন। অর্থাৎ বেশি পবিত্র, বেশি উত্তম, আর আমলের জন্য বেশি বর্ধনশীল। কারণ মন যে হারামের দিকে টানছিল, তারা তা ছেড়ে দিয়েছে। আর যে হারাম থেকে চোখ নামায়, আল্লাহ তার অন্তর্দৃষ্টি আলোকিত করেন। আল্লাহ একে হেফাজত কেন বললেন, সে প্রশ্নও তিনি তোলেন। রক্ষক যদি পাহারা না দেয়, তবে কোনো রক্ষিত জিনিস নিরাপদ থাকে না। চোখ ও লজ্জাস্থানও তেমনি, পাহারা ছাড়া থাকলে বান্দাকে বিপদে ফেলে। দৃষ্টি নামানোর পুরস্কার নিয়ে কয়েকটি বর্ণনার ব্যাপারে ইবন কাসীর বলেন, সেগুলোর সনদে দুর্বলতা আছে। তাই এখানে সেগুলোর কোনোটির উপর ভর করা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the One Who Knows",
+          "bn": "যিনি সব খবর রাখেন"
+        },
+        "p": [
+          {
+            "en": "Inna-llaha khabirun bima yasna'un: Allah is fully aware of what they do. Ibn Kathir sets it beside 40:19: He knows the treachery of the eyes and what the breasts conceal. At-Tabari reads it as Allah's knowledge of how people carry out His command to lower their gaze and keep themselves covered. Al-Qurtubi hears in it a warning; as-Sa'di, a reminder of His knowledge so that they strive to guard themselves. A glance is among the most private of deeds, and the verse closes on the One from whom it is never private.",
+            "bn": "ইন্নাল্লাহা খাবীরুন বিমা ইয়াসনাউন: তারা যা করে, আল্লাহ সে বিষয়ে পুরোপুরি অবগত। ইবন কাসীর একে রাখেন ৪০:১৯ আয়াতের পাশে: তিনি চোখের খেয়ানত জানেন, আর অন্তর যা লুকায় তা-ও। তাবারীর ব্যাখ্যায়, দৃষ্টি নামানো আর নিজেকে ঢেকে রাখার আদেশ মানুষ কীভাবে পালন করে, আল্লাহ তা জানেন। কুরতুবী এতে সতর্কবাণী শোনেন। সা'দী শোনেন তাঁর জ্ঞানের কথা মনে করিয়ে দেওয়া, যাতে মানুষ নিজেকে রক্ষার চেষ্টা করে। একটা নজর মানুষের সবচেয়ে গোপন কাজগুলোর একটি। আর আয়াত শেষ হয় তাঁর নামে, যাঁর কাছে তা কখনো গোপন নয়।"
+          },
+          {
+            "en": "Lowering the gaze also belongs to public life. Sahih al-Bukhari (6229) records from Abu Sa'id al-Khudri that the Prophet ﷺ said: \"Beware of sitting in the roads.\" They said, \"O Messenger of Allah, we cannot do without our sitting places, where we talk.\" He said, \"If you insist on sitting, then give the road its right.\" They asked, \"And what is the right of the road, O Messenger of Allah?\" He said, \"Lowering the gaze, holding back harm, returning the greeting, and enjoining good and forbidding evil.\" Ibn Kathir and al-Qurtubi bring it here, though it is not attached to this verse.",
+            "bn": "দৃষ্টি নামানো জনজীবনেরও অংশ। সহীহ বুখারী (৬২২৯) আবু সাঈদ খুদরী (রাঃ) থেকে উদ্ধৃত করেছে, নবী ﷺ বললেন: \"রাস্তায় বসা থেকে সাবধান থেকো।\" তাঁরা বললেন: \"হে আল্লাহর রাসূল, আমাদের বসার জায়গা ছাড়া চলে না, সেখানে আমরা কথাবার্তা বলি।\" তিনি বললেন: \"বসতেই যদি চাও, তবে রাস্তাকে তার হক দাও।\" তাঁরা জিজ্ঞেস করলেন: \"হে আল্লাহর রাসূল, রাস্তার হক কী?\" তিনি বললেন: \"দৃষ্টি নামিয়ে রাখা, কষ্ট দেওয়া থেকে বিরত থাকা, সালামের জবাব দেওয়া, আর সৎকাজের আদেশ ও অসৎকাজে নিষেধ করা।\" ইবন কাসীর ও কুরতুবী এখানে বর্ণনাটি আনেন, যদিও তা এই আয়াতের সঙ্গে সরাসরি যুক্ত নয়।"
+          },
+          {
+            "en": "The verse speaks to each believing man about his own eyes and his own body. It gives no one licence to police, shame or harm anyone, and no right to watch the eyes of others. Al-Qurtubi relays through al-Awza'i that a man named Ghazwan looked at a girl who had uncovered herself, then struck his own eye. Abu Musa al-Ash'ari told him: you have wronged your eye; ask Allah's forgiveness and repent, for it has the first glance and answers for what came after. Even towards oneself, the answer was repentance, not injury.",
+            "bn": "আয়াতটি প্রত্যেক মু'মিন পুরুষকে তার নিজের চোখ আর নিজের শরীর নিয়ে বলে। কাউকে পাহারা দেওয়ার, লজ্জা দেওয়ার বা ক্ষতি করার কোনো অনুমতি এটি কাউকে দেয় না। অন্যের চোখের উপর নজরদারি করার অধিকারও দেয় না। কুরতুবী আওযায়ীর সূত্রে বর্ণনা করেন, গাযওয়ান নামে এক ব্যক্তি এক মেয়ের দিকে তাকিয়েছিলেন, যে নিজের শরীর অনাবৃত করেছিল। তারপর তিনি নিজের চোখেই আঘাত করেন। আবু মূসা আশআরী (রাঃ) তাঁকে বললেন: তুমি তোমার চোখের উপর জুলুম করেছ। আল্লাহর কাছে ক্ষমা চাও, তওবা করো। প্রথম নজর তার নিজের, আর পরে যা হয়েছে তার দায় তার উপর। নিজের বেলাতেও উত্তর ছিল তওবা, আঘাত নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "24:31": {
     "sections": [
       {

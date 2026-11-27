@@ -35119,6 +35119,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Take Allah's warning as counsel for every tomorrow: never again carry an unproven charge against a believer, and let your faith be what stops your tongue.",
     "lessonBn": "আল্লাহর সতর্কবাণীকে প্রতিটি আগামী দিনের নসিহত হিসেবে নিন: কোনো মুমিনের বিরুদ্ধে অপ্রমাণিত অভিযোগ আর কখনো বয়ে নেবেন না, আর আপনার ঈমানই যেন আপনার জিহ্বা থামায়।"
+  },
+  "24:30": {
+    "reflectionEn": "The verses before this one were about doors: knock, give salam, turn back if you are told to. Now the verse moves from the door to the eye, and the men are spoken to first. It does not ask me to shut my eyes, only to lower some of my looking, the part that lingers where it has no right to be. A glance that falls on its own is not the question; the second look, the one I choose, is. The verse never says who is watching me, except to end with this: Allah is fully aware of what they do. So what do my eyes return to when no one else would ever know? And what would my heart be like if I let that second look go?",
+    "reflectionBn": "আগের আয়াতগুলো ছিল দরজা নিয়ে: অনুমতি চান, সালাম দিন, ফিরে যেতে বললে ফিরে যান। এবার কথা দরজা থেকে সরে আসে চোখে, আর প্রথমে ডাকা হয় পুরুষদের। আয়াতটি আমাকে চোখ বন্ধ করতে বলে না। বলে দেখার একটা অংশ নামিয়ে নিতে, সেই অংশ যা এমন জায়গায় আটকে থাকে যেখানে তার কোনো হক নেই। আপনা থেকে যে নজর পড়ে যায়, প্রশ্ন সেটা নিয়ে নয়। প্রশ্ন দ্বিতীয় দৃষ্টি নিয়ে, যেটা আমি নিজে বেছে নিই। কে আমাকে দেখছে, আয়াত তা বলে না। শুধু শেষে বলে: তারা যা করে, আল্লাহ সে বিষয়ে পুরোপুরি অবগত। তাহলে কেউ কোনোদিন জানবে না এমন মুহূর্তে আমার চোখ বারবার কোথায় ফিরে যায়? আর দ্বিতীয় দৃষ্টিটা ছেড়ে দিলে আমার অন্তর কেমন হতো?",
+    "pointsEn": [
+      "Where do my eyes keep going back to, on a screen or in the street, that I already know is not mine to look at?",
+      "When a glance falls somewhere by accident, do I turn away at once, or let it become a second look?",
+      "The verse speaks to the men first. Do I hold myself to the modesty I expect from others?",
+      "What would I gain in purity of heart if I lowered my eyes for a week, only for Allah's sake?",
+      "Have I ever used this verse to watch or shame someone else, when it was addressed to my own eyes?"
+    ],
+    "pointsBn": [
+      "পর্দায় হোক বা রাস্তায়, আমার চোখ বারবার এমন কোথায় ফিরে যায়, যা দেখার হক আমার নেই বলে আমি আগে থেকেই জানি?",
+      "হঠাৎ কোথাও নজর পড়ে গেলে আমি কি সঙ্গে সঙ্গে চোখ ফিরিয়ে নিই, নাকি সেটাকে দ্বিতীয় দৃষ্টিতে গড়াতে দিই?",
+      "আয়াতটি প্রথমে পুরুষদের ডাকে। অন্যের কাছে যে লজ্জাশীলতা আশা করি, নিজের বেলায় কি তা মেনে চলি?",
+      "শুধু আল্লাহর জন্য এক সপ্তাহ চোখ নামিয়ে রাখলে অন্তরের পবিত্রতায় আমি কী পেতাম?",
+      "যে আয়াত আমার নিজের চোখকে ডাকে, তা দিয়ে কি কখনো অন্য কাউকে পাহারা দিয়েছি বা লজ্জা দিয়েছি?"
+    ],
+    "lessonEn": "Lower your own gaze from what is not yours to look at and guard your own body, for that is purer for you, and Allah sees what you do.",
+    "lessonBn": "যা দেখার হক আপনার নেই, তা থেকে নিজের চোখ নামিয়ে নিন আর নিজের লজ্জাস্থান হেফাজত করুন। এটাই আপনার জন্য বেশি পবিত্র, আর আপনি যা করেন আল্লাহ তা দেখেন।"
   }
 };
 
