@@ -36933,6 +36933,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not measure Allah by your own limits. Remember that He made you when you were nothing worth mentioning, and the question of who will raise the dead answers itself.",
     "lessonBn": "নিজের সীমা দিয়ে আল্লাহকে মাপবেন না। মনে রাখুন, আপনি যখন উল্লেখ করার মতো কিছুই ছিলেন না, তখন তিনিই আপনাকে বানিয়েছেন। তাহলে মৃতকে কে ওঠাবেন, সে প্রশ্নের জবাব নিজেই মিলে যায়।"
+  },
+  "37:43": {
+    "reflectionEn": "Three words, and none of them is a thing you could hold. Just before, the sincere servants were promised a known provision, fruits and honour; just after come couches and a cup. This verse gives only the place where all of it happens: in gardens of bliss. The Arabic does not speak of gardens that happen to contain some bliss. It binds the two words together, as if the gardens took their very name from it. Here every pleasure carries a shadow: it ends, it tires, it comes mixed with worry. The verse names a place where nothing spoils the good. Does that hope shape what I want now? And do I ask for it, or only assume it?",
+    "reflectionBn": "মাত্র তিনটি শব্দ, অথচ তার কোনোটিই হাতে ধরার মতো জিনিস নয়। এর ঠিক আগে আল্লাহ একনিষ্ঠ বান্দাদের কথা দিয়েছেন নির্ধারিত রিযকের, ফলমূলের আর সম্মানের। ঠিক পরে আসবে মুখোমুখি আসন আর পানপাত্র। মাঝখানের এ আয়াত শুধু জায়গাটার নাম বলে, যেখানে এসব ঘটবে: নি‘মাতে ভরা জান্নাতে। আরবিতে এমন বলা হয়নি যে বাগানগুলোতে কিছু সুখও আছে। দুটি শব্দ একসঙ্গে গাঁথা, যেন বাগানগুলোর নামই এসেছে সেই সুখ থেকে। দুনিয়ার প্রতিটি আনন্দের সঙ্গে একটা ছায়া লেগে থাকে। আনন্দ ফুরিয়ে যায়, একসময় ক্লান্ত করে, হারানোর ভয়ও সঙ্গে আনে। আয়াতটি এমন এক জায়গার নাম বলে, যেখানে কোনো কিছুই ভালোকে নষ্ট করে না। সেই আশা কি আমার আজকের চাওয়াগুলোকে গড়ে দিচ্ছে? আমি কি তা আল্লাহর কাছে চাই, নাকি ধরেই নিয়েছি যে পেয়ে যাব?",
+    "pointsEn": [
+      "Which pleasure in my life right now is spoiled by the fear of losing it, and what would it mean to hold it more lightly?",
+      "When I hear about the Garden, do I picture only the things in it, or also the safety from everything that clouds joy?",
+      "These gardens belong to the sincere servants. What did I do this week for Allah alone, and what did I do to be seen?",
+      "Ibrahim (AS) prayed to be among the heirs of the Garden of Bliss. When did I last ask for it in so many words?",
+      "If I believed the lasting bliss were real and near, which one choice would I make differently today?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন আনন্দটা এখন হারানোর ভয়ে মলিন হয়ে আছে? সেটাকে একটু আলগা হাতে ধরলে কেমন হয়?",
+      "জান্নাতের কথা শুনলে আমি কি কেবল সেখানকার জিনিসগুলোর ছবি আঁকি, নাকি এটাও ভাবি যে আনন্দ মলিন করার মতো কিছুই সেখানে নেই?",
+      "এ বাগানগুলো একনিষ্ঠ বান্দাদের জন্য। এ সপ্তাহে কোন কাজটা আমি শুধু আল্লাহর জন্য করেছি, আর কোনটা মানুষকে দেখানোর জন্য?",
+      "ইবরাহীম (আঃ) দু‘আ করেছিলেন, যেন তিনি নি‘মাতে ভরা জান্নাতের উত্তরাধিকারীদের একজন হন। আমি শেষ কবে স্পষ্ট ভাষায় এটা চেয়েছি?",
+      "চিরস্থায়ী সুখ সত্যি এবং কাছে, এ কথা মনেপ্রাণে বিশ্বাস করলে আজ আমার কোন একটা সিদ্ধান্ত বদলে যেত?"
+    ],
+    "lessonEn": "Every joy here carries something that spoils it. Hope for the gardens named for bliss, and ask Allah to make you one of the sincere, a gift before it is your work.",
+    "lessonBn": "দুনিয়ার প্রতিটি আনন্দে এমন কিছু থাকে যা তাকে মলিন করে। সুখের নামে নাম রাখা জান্নাতের আশা রাখুন, আর আল্লাহর কাছে চান যেন তিনি আপনাকে একনিষ্ঠদের একজন করে নেন। এটা আপনার আমলের আগে তাঁর দান।"
   }
 };
 

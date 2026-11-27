@@ -2379,6 +2379,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:43": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words That Name a Place",
+          "bn": "তিন শব্দে একটি ঠিকানা"
+        },
+        "p": [
+          {
+            "en": "Fi jannati an-na'im: in gardens of bliss. The verse is three words long and has no verb of its own. It completes a sentence that began earlier. In 37:40 the passage turned away from the punishment of the deniers with an exception: illa 'ibada Allahi al-mukhlasin, except the sincere servants of Allah. Then 37:41 promised them a known provision, and 37:42 named fruits and added wa hum mukramun, and they will be honoured. Only now does the Qur'an say where. The provision, the fruit and the honour all belong to this place.",
+            "bn": "ফী জান্নাতিন নাঈম: নি‘মাতে ভরা জান্নাতে। আয়াতটিতে মাত্র তিনটি শব্দ, এর নিজস্ব কোনো ক্রিয়াপদ নেই। আগে শুরু হওয়া একটি বাক্যকে এটি পূর্ণ করে। ৩৭:৪০ আয়াতে অস্বীকারকারীদের শাস্তির বর্ণনা থেকে কথা ঘুরে যায় একটি ব্যতিক্রমে: ইল্লা ইবাদাল্লাহিল মুখলাসীন, তবে আল্লাহর একনিষ্ঠ বান্দারা নয়। তারপর ৩৭:৪১ তাদের নির্ধারিত রিযকের প্রতিশ্রুতি দেয়। ৩৭:৪২ ফলমূলের নাম বলে, আর যোগ করে ওয়া হুম মুকরামূন, আর তারা হবে সম্মানিত। কোথায়, সেটা কুরআন বলছে এখন এসে। রিযক, ফল আর সম্মান, সবকিছুর ঠিকানা এই জায়গা।"
+          },
+          {
+            "en": "Al-Muyassar reads 37:42 and 37:43 as a single statement: that provision is fruits of many kinds, and they are honoured with Allah's honour to them, in the gardens of lasting bliss. At-Tabari, on 37:42, says the same of the honour: they, along with the known provision that is theirs in Paradise, are honoured with the honour by which Allah has honoured them. Read this way, the verse is not one more gift added to a list. It is the setting that holds the gifts already named, and these two readings treat it as the frame rather than as a further item.",
+            "bn": "আল-মুয়াসসার ৩৭:৪২ আর ৩৭:৪৩ পড়ে একটি কথা হিসেবে: সেই রিযক হলো নানা রকম ফল, আর তারা আল্লাহর দেওয়া সম্মানে সম্মানিত, চিরস্থায়ী নি‘মাতের জান্নাতে। তাবারীও ৩৭:৪২ আয়াতে সম্মানের ব্যাপারে একই কথা বলেন। জান্নাতে তাদের জন্য যে নির্ধারিত রিযক আছে, তার সঙ্গে তারা সেই সম্মানেও সম্মানিত, যা দিয়ে আল্লাহ তাদের সম্মান দিয়েছেন। এভাবে পড়লে আয়াতটি তালিকায় যোগ হওয়া আরেকটি উপহার নয়। আগে যেসব উপহারের কথা বলা হলো, সেগুলো যেখানে রাখা, এ আয়াত সেই জায়গা। এ দুই ব্যাখ্যা একে আরেকটি জিনিস হিসেবে নয়, বরং সবকিছুর কাঠামো হিসেবে দেখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sincere, or Made Sincere",
+          "bn": "নিজে খাঁটি, নাকি খাঁটি করে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "Whose gardens are these? The answer lies three verses back, in one word that is read two ways. Al-Qurtubi reports that the people of Medina and Kufa read al-mukhlasin, with the lam vowelled a, meaning those whom Allah has made pure for His obedience, His religion and His friendship. The others read al-mukhlisin, with the lam vowelled i, meaning those who made their worship purely for Allah. In the first reading Allah is the one who acts and the servants receive His choosing. In the second the servants act, giving their worship to Him alone.",
+            "bn": "এ বাগানগুলো কাদের? উত্তরটা তিনটি আয়াত আগে, এমন একটি শব্দে যা দুইভাবে পড়া হয়। কুরতুবী জানান, মদীনা ও কূফার কারীরা পড়েন আল-মুখলাসীন, লাম অক্ষরে যবর দিয়ে। এর অর্থ, যাদেরকে আল্লাহ নিজের আনুগত্য, নিজের দ্বীন ও নিজের বন্ধুত্বের জন্য খাঁটি করে নিয়েছেন। বাকিরা পড়েন আল-মুখলিসীন, লামে যের দিয়ে। এর অর্থ, যারা ইবাদতকে কেবল আল্লাহর জন্য খাঁটি করেছে। প্রথম পাঠে কাজটা আল্লাহর, বান্দারা তাঁর বাছাই লাভ করে। দ্বিতীয় পাঠে কাজটা বান্দাদের, তারা ইবাদত শুধু তাঁকেই দেয়।"
+          },
+          {
+            "en": "At-Tabari explains the word along the first line. They are the servants of Allah whom He made sincere on the day He created them, for His mercy, and for whom He wrote felicity in the Mother of the Book. He also gives the reason they do not taste the punishment: they are people of obedience to Allah and of faith in Him. He then relays a short remark from Qatada on the verse: this is Allah's exception. Al-Baghawi glosses the word with a single term, al-muwahhidun, those who affirm that Allah is one.",
+            "bn": "তাবারী শব্দটির ব্যাখ্যা করেন প্রথম পাঠের ধারায়। তারা আল্লাহর সেই বান্দা, যাদেরকে তিনি সৃষ্টির দিনেই নিজের রহমতের জন্য খাঁটি করে নিয়েছেন, আর উম্মুল কিতাবে তাদের জন্য সৌভাগ্য লিখে রেখেছেন। তারা কেন শাস্তির স্বাদ পাবে না, সে কারণও তিনি বলেন: তারা আল্লাহর আনুগত্যকারী, তাঁর প্রতি ঈমানদার। এরপর তিনি আয়াতটি নিয়ে কাতাদার একটি ছোট মন্তব্য উদ্ধৃত করেন: এটা আল্লাহর ব্যতিক্রম। বাগাভী শব্দটির ব্যাখ্যা দেন এক কথায়: আল-মুওয়াহহিদূন, যারা আল্লাহর একত্বে বিশ্বাসী।"
+          },
+          {
+            "en": "As-Sa'di holds the two readings together in one sentence. They made their deeds sincere for Allah, so He made them His own, singled them out for His mercy and was generous to them with His kindness. Al-Qurtubi also records a grammatical opinion: some take the exception as detached, so that the sense is, you criminals will taste the punishment, but the sincere servants of Allah will not taste it. Either way, the gardens of bliss in 37:43 belong to the people this word describes, and the two readings together keep both Allah's choosing and the servant's effort in view.",
+            "bn": "সা'দী দুই পাঠকে এক বাক্যে মিলিয়ে দেন। তারা আমলকে আল্লাহর জন্য খাঁটি করেছে, তাই আল্লাহও তাদেরকে খাঁটি করে নিজের করে নিয়েছেন, নিজের রহমতের জন্য বেছে নিয়েছেন, আর নিজের অনুগ্রহ তাদের উপর ঢেলে দিয়েছেন। কুরতুবী একটি ব্যাকরণগত মতও উল্লেখ করেন। কেউ কেউ ব্যতিক্রমটিকে বিচ্ছিন্ন ধরেন। তখন অর্থ দাঁড়ায়: হে অপরাধীরা, তোমরা শাস্তির স্বাদ পাবে, কিন্তু আল্লাহর একনিষ্ঠ বান্দারা পাবে না। যেভাবেই পড়া হোক, ৩৭:৪৩-এর নি‘মাতে ভরা জান্নাত সেই মানুষদের, যাদের কথা এ শব্দটি বলে। দুই পাঠ মিলে আল্লাহর বাছাই আর বান্দার চেষ্টা, দুটোকেই চোখের সামনে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Orchards and a Life of Ease",
+          "bn": "বাগান আর আরামের জীবন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's whole comment on this verse is a single gloss: in jannat an-na'im means in the orchards of bliss. He uses basatin, orchards, to explain jannat. Al-Qurtubi keeps the same word and adds a verb: orchards in which they live in delight, yatana''amun fiha. The difference is small but worth seeing. At-Tabari's gloss describes the place by what fills it. Al-Qurtubi's describes it by what its people do there, as though the bliss were not only around them but something they are actively living in, a state they enter rather than a scene they look at.",
+            "bn": "এ আয়াতে তাবারীর পুরো মন্তব্য একটি মাত্র ব্যাখ্যা: জান্নাতিন নাঈম মানে নি‘মাতের বাগানসমূহে। জান্নাত বোঝাতে তিনি ব্যবহার করেন বাসাতীন, অর্থাৎ ফলের বাগান। কুরতুবী একই শব্দ রাখেন, তবে সঙ্গে একটি ক্রিয়া যোগ করেন: এমন বাগান, যেখানে তারা সুখে দিন কাটায়, ইয়াতানাআমূনা ফীহা। পার্থক্যটা ছোট, তবু খেয়াল করার মতো। তাবারীর ব্যাখ্যা জায়গাটাকে চেনায় তার ভেতরে কী আছে তা দিয়ে। কুরতুবীর ব্যাখ্যা চেনায় সেখানকার মানুষ কী করে তা দিয়ে। সুখ যেন শুধু তাদের চারপাশে নেই, তারা নিজেরাই তার ভেতরে বাস করছে। এটা দেখার দৃশ্য নয়, ঢুকে পড়ার অবস্থা।"
+          },
+          {
+            "en": "Ibn Kathir's Arabic, on the verse just before, gives the same picture in a run of verbs: they are served, provided for, given ease and given delight, yurfahun wa yuna''amun. The last of these comes from the same root as na'im. His English abridgement renders it, they will be served and will live a life of luxury, and then quotes 37:43 and 37:44 together. So three commentators, without contradicting one another, move the reader from the noun to the life it names. A garden is a place; na'im is how one lives in it.",
+            "bn": "ইবন কাসীর তাঁর আরবি তাফসীরে ঠিক আগের আয়াতে একই ছবি আঁকেন কয়েকটি ক্রিয়া দিয়ে: তাদের সেবা করা হবে, রিযক দেওয়া হবে, আরাম দেওয়া হবে, সুখে রাখা হবে, ইউরাফফাহূনা ওয়া ইউনাআমূন। শেষ ক্রিয়াটি নাঈম শব্দের একই ধাতু থেকে এসেছে। তাঁর ইংরেজি সংক্ষিপ্ত সংস্করণে এর অর্থ দাঁড়িয়েছে: তাদের সেবা করা হবে, তারা বিলাসের জীবন কাটাবে। এরপর সেখানে ৩৭:৪৩ ও ৩৭:৪৪ একসঙ্গে উদ্ধৃত। এভাবে তিনজন মুফাসসির, কেউ কারও বিরোধিতা না করে, পাঠককে বিশেষ্য থেকে সেই জীবনের দিকে নিয়ে যান, যার নাম এ বিশেষ্য। বাগান একটি জায়গা। নাঈম হলো সেখানে বেঁচে থাকার ধরন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Description or a Proper Name",
+          "bn": "গুণের বর্ণনা, নাকি একটি নাম"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi adds one more sentence to his comment on 37:43: it has already been said, in Surat Yunus, that the gardens are seven, and an-Na'im is one of them. The place he means is his commentary on 10:25, where Allah calls to the Home of Peace. There he relays from Ibn Abbas that the gardens are seven: Dar al-Jalal, the Home of Majesty; Dar as-Salam, the Home of Peace; Jannat 'Adn; Jannat al-Ma'wa, the Garden of Refuge; Jannat al-Khuld, the Garden of Eternity; Jannat al-Firdaws; and Jannat an-Na'im, the Garden of Bliss.",
+            "bn": "৩৭:৪৩ আয়াতের মন্তব্যে কুরতুবী আরেকটি বাক্য যোগ করেন: সূরা ইউনুসে আগেই বলা হয়েছে যে জান্নাত সাতটি, আর নাঈম তার একটি। তিনি বোঝাচ্ছেন ১০:২৫ আয়াতের ব্যাখ্যা, যেখানে আল্লাহ শান্তির ঘরের দিকে ডাকেন। সেখানে তিনি ইবন আব্বাস (রাঃ)-এর বরাতে বলেন, জান্নাত সাতটি: দারুল জালাল বা মহিমার ঘর, দারুস সালাম বা শান্তির ঘর, জান্নাতু আদন, জান্নাতুল মা’ওয়া বা আশ্রয়ের জান্নাত, জান্নাতুল খুলদ বা চিরস্থায়ী জান্নাত, জান্নাতুল ফিরদাউস, আর জান্নাতুন নাঈম বা নি‘মাতের জান্নাত।"
+          },
+          {
+            "en": "That report is a Companion's word as al-Qurtubi relays it, not a saying of the Prophet ﷺ, and the text fetched gives no chain for it. On that reading, an-Na'im here is a proper name: one named garden among several. As-Sa'di reads the phrase differently. For him jannat an-na'im means the gardens whose description is bliss and whose quality is joy. These are not the same claim. One makes Na'im the name of a particular garden; the other makes it what every garden there is like. The two stand side by side here, and this article does not choose between them.",
+            "bn": "কুরতুবী এ বর্ণনা এনেছেন একজন সাহাবির কথা হিসেবে, নবী ﷺ-এর বাণী হিসেবে নয়। যে পাঠ আমরা পেয়েছি, তাতে এর কোনো সনদও নেই। এ বর্ণনা অনুযায়ী এখানে নাঈম একটি নির্দিষ্ট নাম, কয়েকটি জান্নাতের মধ্যে একটির নাম। সা'দী শব্দবন্ধটি পড়েন অন্যভাবে। তাঁর মতে জান্নাতুন নাঈম মানে সেই জান্নাতগুলো, যাদের বৈশিষ্ট্যই সুখ, যাদের পরিচয়ই আনন্দ। দুটো এক কথা নয়। একটিতে নাঈম একটি বিশেষ জান্নাতের নাম। অন্যটিতে নাঈম হলো সেখানকার প্রতিটি জান্নাতের স্বভাব। দুই মত এখানে পাশাপাশি থাকল, এ লেখা কোনোটির পক্ষ নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bliss That Nothing Clouds",
+          "bn": "যে সুখে কোনো মলিনতা নেই"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di gives his reason for calling bliss the gardens' very description: because of what they gather, which no eye has seen, no ear has heard and has never occurred to a human heart. Then he adds a second reason, and this one is stated by what is missing. The gardens are kept safe from everything that would spoil their bliss, from every mukaddir and every munaghghis: everything that clouds it and everything that embitters it. His definition is therefore double. The bliss is made of what is present beyond imagining, and of what is absent beyond any spoiling.",
+            "bn": "জান্নাতের বৈশিষ্ট্যকেই কেন সুখ বলা হলো, সা'দী তার কারণ বলেন: এগুলোতে এমন সব জিনিস জমা আছে, যা কোনো চোখ দেখেনি, কোনো কান শোনেনি, কোনো মানুষের মনে কখনো ভাবনাতেও আসেনি। তারপর তিনি দ্বিতীয় একটি কারণ যোগ করেন, আর সেটি বলেন কী নেই তা দিয়ে। এ জান্নাতগুলো এমন সবকিছু থেকে নিরাপদ, যা তার সুখে খুঁত ধরাতে পারে। সব মুকাদ্দির আর মুনাগগিস থেকে, অর্থাৎ যা আনন্দকে ঘোলা করে আর যা তাকে তেতো করে দেয়। তাই তাঁর সংজ্ঞা দুই দিক থেকে। কল্পনার বাইরের যা আছে, আর নষ্ট করার মতো যা নেই, দুটো মিলেই এই সুখ।"
+          },
+          {
+            "en": "The second half is the part of the verse a reader in this world can grasp from experience. Pleasure here comes with its own shadow. It ends, or it tires, or it arrives with a worry about losing it. As-Sa'di's gloss promises not only more good but good with nothing mixed into it. Al-Muyassar makes a related point with one word, calling it an-na'im ad-da'im, the lasting bliss. The Tanwir al-Miqbas, a commentary attributed to Ibn Abbas, reads it the same way in the English carried on quranx: the Gardens of Delight whose delight is endless.",
+            "bn": "দ্বিতীয় অংশটি এমন, যা দুনিয়ার পাঠক নিজের অভিজ্ঞতা দিয়েই বুঝতে পারেন। এখানকার আনন্দের সঙ্গে তার নিজের ছায়াও আসে। আনন্দ ফুরিয়ে যায়, নয়তো ক্লান্ত করে, নয়তো হারানোর দুশ্চিন্তা সঙ্গে নিয়ে আসে। সা'দীর ব্যাখ্যা শুধু বেশি ভালোর কথা বলে না, বলে এমন ভালোর কথা, যাতে আর কিছু মেশানো নেই। আল-মুয়াসসার কাছাকাছি কথাটা বলে একটি শব্দে: আন-নাঈমুদ দাইম, চিরস্থায়ী সুখ। ইবন আব্বাস (রাঃ)-এর নামে প্রচলিত তাফসীর তানবীরুল মিকবাসও একইভাবে পড়ে। quranx-এ তার ইংরেজি পাঠে আছে: আনন্দের জান্নাত, যার আনন্দের কোনো শেষ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Prepared, and Still Unseen",
+          "bn": "প্রস্তুত, তবু অদেখা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's phrase is not his own coinage. It matches the wording of a hadith that al-Bukhari records in his Sahih from Abu Hurayra (no. 3244). Allah's Messenger ﷺ said: Allah said, I have prepared for My righteous servants what no eye has seen, no ear has heard, and has never occurred to the heart of a human being. So recite, if you wish: no soul knows what has been hidden for them of comfort for the eyes (32:17). The hadith ties the promise to righteous servants, and the Prophet ﷺ points to a verse to recite with it.",
+            "bn": "সা'দীর এ কথাগুলো তাঁর নিজের বানানো নয়। আবু হুরায়রা (রাঃ) থেকে বুখারী তাঁর সহীহ গ্রন্থে যে হাদীসটি এনেছেন (নং ৩২৪৪), তার শব্দের সঙ্গে এগুলো মিলে যায়। রাসূলুল্লাহ ﷺ বলেছেন: আল্লাহ বলেন, আমি আমার নেককার বান্দাদের জন্য এমন জিনিস প্রস্তুত করে রেখেছি, যা কোনো চোখ দেখেনি, কোনো কান শোনেনি, কোনো মানুষের অন্তরে কখনো ভাবনাতেও আসেনি। চাইলে তোমরা পড়ো: কেউ জানে না তাদের জন্য চোখ জুড়ানো কী লুকিয়ে রাখা হয়েছে (৩২:১৭)। হাদীসটি প্রতিশ্রুতিকে নেককার বান্দাদের সঙ্গে যুক্ত করে, আর নবী ﷺ সঙ্গে পড়ার জন্য একটি আয়াতও দেখিয়ে দেন।"
+          },
+          {
+            "en": "This is a general narration about Paradise. None of the commentaries fetched for this verse attaches it to 37:43, and as-Sa'di uses its words without naming it. Its place here is limited. It helps explain why this verse gives a name rather than an inventory. Na'im is a word the hearer knows, but what fills it is something the hearer has not seen. The verses on either side, with their fruit, couches and cup, speak in things a person can picture. This verse, between them, names what they all belong to and leaves its full measure unseen.",
+            "bn": "এটি জান্নাত সম্পর্কে একটি সাধারণ হাদীস। এ আয়াতের যেসব তাফসীর আমরা দেখেছি, তার কোনোটিই হাদীসটিকে ৩৭:৪৩-এর সঙ্গে যুক্ত করেনি। সা'দীও এর শব্দ ব্যবহার করেছেন, নাম উল্লেখ না করে। তাই এখানে এর ভূমিকা সীমিত। আয়াতটি কেন জিনিসের তালিকা না দিয়ে শুধু একটি নাম দেয়, হাদীসটি সেটা বুঝতে সাহায্য করে। নাঈম শব্দটি শ্রোতার চেনা, কিন্তু এর ভেতরে যা আছে তা সে কখনো দেখেনি। দুই পাশের আয়াতগুলো ফল, আসন আর পানপাত্রের কথা বলে, যা মানুষ কল্পনা করতে পারে। মাঝখানের এ আয়াত সেগুলো যার অংশ তার নাম বলে, আর তার পুরো পরিমাপ অদেখাই রেখে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seven Verses, One Phrase",
+          "bn": "সাত আয়াতে একই শব্দবন্ধ"
+        },
+        "p": [
+          {
+            "en": "The phrase jannat an-na'im, in this exact plural and definite form, occurs in seven verses: 5:65, 10:9, 22:56, 31:8, 37:43, 56:12 and 68:34. In 56:12 the wording is identical, the same three words, and it follows the description of the forerunners, those brought near to Allah. In 52:17 the two nouns stand apart: the righteous will be in gardens and bliss. These are parallels to set beside the verse, not explanations of it. In each of the seven, though, the place is named only after the people who reach it have been described.",
+            "bn": "জান্নাতুন নাঈম শব্দবন্ধটি ঠিক এই বহুবচন ও নির্দিষ্ট রূপে এসেছে সাতটি আয়াতে: ৫:৬৫, ১০:৯, ২২:৫৬, ৩১:৮, ৩৭:৪৩, ৫৬:১২ ও ৬৮:৩৪। ৫৬:১২ আয়াতে শব্দগুলো হুবহু এক, সেই তিনটি শব্দই। সেখানে এটি আসে অগ্রগামীদের বর্ণনার পরে, যারা আল্লাহর নৈকট্যপ্রাপ্ত। ৫২:১৭ আয়াতে বিশেষ্য দুটি আলাদা: মুত্তাকীরা থাকবে জান্নাতে আর নি‘মাতে। এগুলো পাশে রেখে পড়ার মতো সমান্তরাল আয়াত, এ আয়াতের ব্যাখ্যা নয়। তবে সাতটির প্রতিটিতেই জায়গার নাম আসে তখন, যখন সেখানে যারা পৌঁছাবে তাদের পরিচয় আগে দেওয়া হয়ে গেছে।"
+          },
+          {
+            "en": "Read side by side, the verses describe the people from different angles: those who believe and do righteous deeds (10:9, 22:56, 31:8), the God-fearing (68:34), the forerunners (56:12), and here the sincere servants. The singular form, jannat an-na'im, appears in a prayer. In 26:85 Ibrahim (AS) asks his Lord: and place me among the inheritors of the Garden of Bliss. A prophet asks for it; he does not assume it. The words he chose show a posture worth learning toward this place: a hope voiced to Allah, not a status a person announces for himself.",
+            "bn": "পাশাপাশি পড়লে আয়াতগুলো একই মানুষদের দেখায় ভিন্ন ভিন্ন দিক থেকে: যারা ঈমান আনে ও সৎকাজ করে (১০:৯, ২২:৫৬, ৩১:৮), মুত্তাকীরা (৬৮:৩৪), অগ্রগামীরা (৫৬:১২), আর এখানে একনিষ্ঠ বান্দারা। একবচন রূপটি, জান্নাতুন নাঈম, এসেছে একটি দু‘আয়। ২৬:৮৫ আয়াতে ইবরাহীম (আঃ) তাঁর রবের কাছে চান: আমাকে নি‘মাতে ভরা জান্নাতের উত্তরাধিকারীদের অন্তর্ভুক্ত করুন। একজন নবী এটা চাইছেন, ধরে নিচ্ছেন না। তাঁর বেছে নেওয়া শব্দে এ জায়গার প্রতি শেখার মতো একটি মনোভাব আছে। এটা আল্লাহর কাছে জানানো আশা, নিজের জন্য ঘোষণা করা কোনো মর্যাদা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Gardens to Facing Couches",
+          "bn": "বাগান থেকে মুখোমুখি আসনে"
+        },
+        "p": [
+          {
+            "en": "The next verse carries the scene on: on couches, facing one another (37:44). Ibn Kathir's English abridgement quotes the two verses together and gives one remark from Mujahid: none of them will look at the back of another. That belongs to 37:44 and deserves its own reading. Here it is enough to notice the order. First the place is named, then the people in it are placed in relation to one another. Bliss in these verses is not solitary. The very next thing said after the gardens are named is that their people sit face to face.",
+            "bn": "পরের আয়াত দৃশ্যটিকে এগিয়ে নেয়: উঁচু আসনে, পরস্পর মুখোমুখি (৩৭:৪৪)। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ দুই আয়াত একসঙ্গে উদ্ধৃত করে, আর মুজাহিদের একটি মন্তব্য আনে: তাদের কেউ অন্য কারও পিঠের দিকে তাকাবে না। এ কথা ৩৭:৪৪ আয়াতের, সেটা আলাদা করে পড়ার মতো। এখানে শুধু ক্রমটা খেয়াল করাই যথেষ্ট। আগে জায়গার নাম, তারপর সেখানকার মানুষেরা একে অপরের সঙ্গে কীভাবে বসে আছে। এ আয়াতগুলোতে সুখ একাকী নয়। জান্নাতের নাম বলার ঠিক পরের কথাটিই হলো, সেখানকার মানুষেরা মুখোমুখি বসে।"
+          },
+          {
+            "en": "What may a reader take from three words? Not a claim on the place. At-Tabari ties these servants to what Allah wrote for them in the Mother of the Book, and no one reads that writing for himself or for anyone else. What remains is the description of the people and the hope for the place. A Muslim can ask Allah, as Ibrahim (AS) asked, to be among its inheritors, and can work on the sincerity that 37:40 names, knowing from as-Sa'di's joined reading that even this sincerity is Allah's gift before it is the servant's effort.",
+            "bn": "তিনটি শব্দ থেকে পাঠক কী নিতে পারেন? জায়গাটার উপর কোনো দাবি নয়। তাবারী এ বান্দাদের যুক্ত করেন উম্মুল কিতাবে আল্লাহর লিখে রাখা ফয়সালার সঙ্গে। সে লেখা কেউ নিজের জন্য পড়তে পারে না, অন্যের জন্যও না। বাকি থাকে মানুষদের পরিচয় আর জায়গাটার আশা। একজন মুসলিম ইবরাহীম (আঃ)-এর মতো আল্লাহর কাছে চাইতে পারেন, যেন তিনি এর উত্তরাধিকারীদের একজন হন। ৩৭:৪০ যে ইখলাসের কথা বলে, তার জন্য চেষ্টাও করতে পারেন। সা'দীর মিলিয়ে পড়া থেকে তিনি জানেন, এই ইখলাসও বান্দার চেষ্টার আগে আল্লাহর দান।"
+          },
+          {
+            "en": "There is also a small, present use. As-Sa'di defines this bliss partly by what is absent from it: nothing clouds it and nothing embitters it. A reader who notices how much of this world's pleasure is mixed, with the fear of losing it and the tiredness after it, has not been taught to despise that pleasure. He has been shown where pleasure is finally unmixed. The verse invites the believer to want that more, and to stop demanding of this world a joy it was never made to give without something attached.",
+            "bn": "এর একটা ছোট, তাৎক্ষণিক ব্যবহারও আছে। সা'দী এই সুখকে চেনান অনেকটাই কী নেই তা দিয়ে: কিছুই তাকে ঘোলা করে না, কিছুই তাকে তেতো করে না। পাঠক যখন খেয়াল করেন দুনিয়ার কত আনন্দে কিছু না কিছু মেশানো থাকে, হারানোর ভয় বা পরের ক্লান্তি, তখন তাঁকে সেই আনন্দকে তুচ্ছ করতে শেখানো হচ্ছে না। তাঁকে দেখানো হচ্ছে, খাঁটি আনন্দ শেষ পর্যন্ত কোথায়। আয়াতটি মুমিনকে ডাকে সেটাকে বেশি করে চাইতে, আর দুনিয়ার কাছে এমন আনন্দ দাবি করা ছেড়ে দিতে, যা কিছু না মিশিয়ে দেওয়ার জন্য তাকে বানানোই হয়নি।"
+          }
+        ]
+      }
+    ]
+  },
   "37:45": {
     "sections": [
       {
