@@ -3167,6 +3167,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "39:65": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Demand Behind the Reply",
+          "bn": "যে দাবির জবাবে এ আয়াত"
+        },
+        "p": [
+          {
+            "en": "Wa laqad uhiya ilayka wa ila alladhina min qablik: and it has already been revealed to you and to those before you. The verse cannot be read alone, because it gives the ground for the question just before it. In 39:64 the Prophet ﷺ is told to say: is it other than Allah that you order me to worship, O ignorant ones? At-Tabari reads the command as spoken to the idolaters of his own people who were calling to the worship of idols, and he adds the reason for the refusal: worship is not fit for anything other than Him.",
+            "bn": "ওয়া লাকাদ ঊহিয়া ইলাইকা ওয়া ইলাল্লাযীনা মিন কাবলিক: তোমার কাছে আর তোমার পূর্ববর্তীদের কাছে আগেই ওহী পাঠানো হয়েছে। আয়াতটি একা পড়লে চলে না। ঠিক আগের প্রশ্নটির ভিত্তি এখানেই। ৩৯:৬৪ আয়াতে নবী ﷺ-কে বলতে বলা হয়েছে: ওহে অজ্ঞরা, তোমরা কি আমাকে আল্লাহ ছাড়া অন্যের ইবাদত করতে বলছ? তাবারীর ব্যাখ্যায় কথাটা তাঁর নিজের কওমের সেই মুশরিকদের উদ্দেশে, যারা মূর্তিপূজার দিকে ডাকছিল। অস্বীকারের কারণটাও তিনি জুড়ে দেন: আল্লাহ ছাড়া আর কোনো কিছুই ইবাদতের যোগ্য নয়।"
+          },
+          {
+            "en": "Al-Qurtubi places 39:64 at the time they invited the Prophet ﷺ to what they themselves followed, the worship of idols, saying it was the religion of his forefathers. Al-Baghawi gives a similar line from Muqatil: the disbelievers of Quraysh called him to the religion of his forefathers. Ibn Kathir names a fuller occasion about shared worship, relayed by Ibn Abi Hatim and others from Ibn Abbas (RA). He gives it no grading, so it is noted here only as a report, and nothing in this article rests on it.",
+            "bn": "কুরতুবীর মতে ৩৯:৬৪ নাযিল হয়েছে সেই সময়ের প্রেক্ষাপটে, যখন তারা নবী ﷺ-কে নিজেদের ধর্ম, অর্থাৎ মূর্তিপূজার দিকে ডাকছিল আর বলছিল, এ তো তোমার বাপদাদার দীন। বাগাভীও মুকাতিল থেকে প্রায় একই কথা আনেন: কুরাইশের কাফিররা তাঁকে বাপদাদার দীনে ফিরে আসতে ডেকেছিল। ইবন কাসীর ভাগাভাগি করা ইবাদত নিয়ে আরও বিস্তারিত এক শানে নুযূল উল্লেখ করেন, যা ইবন আবী হাতিম প্রমুখ ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেছেন। তিনি এর কোনো মান উল্লেখ করেননি। তাই এখানে শুধু বর্ণনা হিসেবে তা জানিয়ে রাখা হলো, এ লেখার কোনো কথা এর ওপর দাঁড়িয়ে নেই।"
+          },
+          {
+            "en": "As-Sa'di explains the address O ignorant ones. Such a demand, he says, could only come from ignorance. Had they known that Allah is perfect in every respect and the giver of every blessing, and so alone deserves worship, rather than something deficient in every respect that neither benefits nor harms, they would never have asked it. Verse 65 then answers on a deeper level. It states what every messenger had been told.",
+            "bn": "'ওহে অজ্ঞরা' সম্বোধনের ব্যাখ্যা দেন সা'দী। তাঁর কথায়, এমন দাবি অজ্ঞতা ছাড়া আর কোথাও থেকে আসতে পারে না। তারা যদি জানত যে আল্লাহ সব দিক থেকে পূর্ণ, সব নিয়ামতের দাতা, তাই ইবাদতের হকদার কেবল তিনিই, আর যা সব দিক থেকে অপূর্ণ, যা না উপকার করতে পারে না ক্ষতি, তা কোনো ইবাদতের যোগ্য নয়, তাহলে তারা কখনো এ আদেশ দিত না। এরপর ৬৫ নম্বর আয়াত জবাব দেয় আরও গভীর স্তরে। শুধু জানিয়ে দেয়, প্রত্যেক রসূলকে কী বলা হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Message Older Than Makkah",
+          "bn": "মক্কার চেয়েও পুরোনো বার্তা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari paraphrases the opening: your Lord has revealed to you, O Muhammad, and to the messengers before you. He then notes that the sentence holds a phrase placed later whose meaning belongs earlier. The sense, as he lays it out, is this: it has been revealed to you that if you associate, your deeds will be nullified and you will be among the losers; and to those before you, of the messengers, the like of what was revealed to you. The warning, on this reading, was never addressed to one man alone.",
+            "bn": "শুরুর অংশটা তাবারী নিজের ভাষায় বলেন এভাবে: হে মুহাম্মাদ, তোমার রব তোমার কাছে ওহী পাঠিয়েছেন, তোমার আগের রসূলদের কাছেও। তারপর তিনি দেখান, বাক্যের একটি অংশ পরে বসেছে, অথচ অর্থে তার জায়গা আগে। তাঁর বিন্যাসে অর্থ দাঁড়ায়: তোমার কাছে ওহী এসেছে যে তুমি শরীক করলে তোমার আমল বাতিল হবে আর তুমি ক্ষতিগ্রস্তদের একজন হবে। আর তোমার আগের রসূলদের কাছেও ঠিক এমনই ওহী এসেছিল। এই পাঠে সতর্কবার্তাটা কখনোই কেবল একজন মানুষকে বলা হয়নি।"
+          },
+          {
+            "en": "Al-Qurtubi records this arrangement and sets a second reading beside it. On the first, the sentence is reordered: it was revealed to you, if you associate, and it was revealed likewise to those before you. On the second, it keeps its natural order. Muqatil, as al-Qurtubi relays him, says that what was revealed to you and to the prophets before you was tawhid, the word itself being left unsaid; a fresh sentence then begins: if you associate, O Muhammad. Either way, what reached him had reached every prophet before him.",
+            "bn": "কুরতুবী এই বিন্যাসের কথা লিখে তার পাশে দ্বিতীয় আরেকটি ব্যাখ্যা রাখেন। প্রথম মতে বাক্যের ক্রম আগে-পিছে হয়েছে: তোমার কাছে ওহী এসেছে যে তুমি শরীক করলে..., আর তোমার পূর্ববর্তীদের কাছেও একই ওহী এসেছিল। দ্বিতীয় মতে বাক্য তার স্বাভাবিক ক্রমেই আছে। কুরতুবীর বর্ণনায় মুকাতিল বলেন, তোমার কাছে আর তোমার আগের নবীদের কাছে যা ওহী করা হয়েছিল তা তাওহীদ। শব্দটা শুধু উহ্য রাখা হয়েছে। এরপর নতুন বাক্য শুরু: হে মুহাম্মাদ, তুমি যদি শরীক কর। যে মতই ধরা হোক, তাঁর কাছে যা পৌঁছেছে, তা তাঁর আগের প্রত্যেক নবীর কাছেও পৌঁছেছিল।"
+          },
+          {
+            "en": "As-Sa'di reads those before you as all of the prophets and draws the conclusion: in the prophethood of every prophet is the teaching that shirk nullifies every deed. He and Ibn Kathir both point to 6:88, where, after a long line of prophets has been named, the Qur'an says: had they associated, all that they used to do would have come to nothing for them. The rule of 39:65 was not invented for a quarrel in Makkah. It is as old as revelation itself.",
+            "bn": "সা'দী 'তোমার পূর্ববর্তী' বলতে সব নবীকেই বোঝেন। সেখান থেকে তাঁর সিদ্ধান্ত: প্রত্যেক নবীর নবুওয়তে এই শিক্ষা ছিল যে শিরক সব আমল নষ্ট করে দেয়। তিনি আর ইবন কাসীর দুজনেই ৬:৮৮ আয়াতের দিকে ইঙ্গিত করেন। সেখানে নবীদের দীর্ঘ এক তালিকা দেওয়ার পর কুরআন বলে: তারা যদি শিরক করত, তবে তাদের সব আমল নিষ্ফল হয়ে যেত। তাই ৩৯:৬৫ আয়াতের নিয়ম মক্কার কোনো বিবাদের জন্য নতুন করে বানানো হয়নি। এ নিয়ম ওহীর মতোই পুরোনো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken to Him, Meant for All",
+          "bn": "সম্বোধন তাঁকে, সতর্কতা সবার"
+        },
+        "p": [
+          {
+            "en": "The conditional if you associate is addressed to the Prophet ﷺ, the very person whom the previous verse shows refusing the idolaters outright. Al-Baghawi and al-Qurtubi both record that it is a condition which does not occur from him. Al-Baghawi says plainly that this is an address to the Messenger ﷺ while what is meant by it is others. He then gives a second view: it is a lesson in conduct from Allah to His Prophet and a threat to others, because Allah protected him from shirk.",
+            "bn": "'যদি তুমি শরীক কর', এই শর্ত বলা হয়েছে নবী ﷺ-কে, অথচ ঠিক আগের আয়াতেই তাঁকে দেখা যায় মুশরিকদের দাবি সরাসরি ফিরিয়ে দিতে। বাগাভী ও কুরতুবী দুজনেই লিখেছেন, এ এমন এক শর্ত, যা তাঁর দিক থেকে ঘটে না। বাগাভী স্পষ্ট বলেন: সম্বোধন রসূল ﷺ-কে, কিন্তু উদ্দেশ্য অন্যরা। তারপর তিনি আরেকটি মত আনেন: এ হলো আল্লাহর পক্ষ থেকে তাঁর নবীর জন্য আদবের শিক্ষা আর অন্যদের জন্য হুমকি। কারণ আল্লাহ তাঁকে শিরক থেকে রক্ষা করেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi sets out the readings side by side. Muqatil takes if you associate, O Muhammad, as an address to the Prophet ﷺ in particular. Another view, introduced with it is said, holds that the address is to him while his community is meant, since Allah knew that he would not associate and that association would not occur from him. Ibn Kathir, on the very next verse, makes the same widening explicit: worship Allah alone with sincerity, you and those with you, you and those who follow you and believe you.",
+            "bn": "কুরতুবী মতগুলো পাশাপাশি সাজিয়ে দেন। মুকাতিলের মতে 'হে মুহাম্মাদ, তুমি যদি শরীক কর' কথাটা বিশেষভাবে নবী ﷺ-কেই বলা। 'বলা হয়' দিয়ে শুরু করা আরেক মতে সম্বোধন তাঁকে, কিন্তু উদ্দেশ্য তাঁর উম্মত। কারণ আল্লাহ জানতেন, তিনি শিরক করবেন না, তাঁর দিক থেকে শিরক ঘটবেই না। ঠিক পরের আয়াতে ইবন কাসীর এই বিস্তারটা খোলাখুলি বলেন: ইবাদত খাঁটিভাবে কেবল আল্লাহর জন্য কর, তুমি আর তোমার সঙ্গীরা, তুমি আর যারা তোমার অনুসরণ করে ও তোমাকে সত্য বলে মানে।"
+          },
+          {
+            "en": "Why lay such a warning before someone who would never need it? The verses around it suggest an answer. In 39:64 he has just refused to worship anything but Allah; in 39:66 he is told to worship Allah and be grateful. Between them stands the law that made the refusal necessary, stated at the highest possible address. When the condition is spoken even to the messenger who refused, no reader beneath him can treat the law as written for somebody else.",
+            "bn": "যাঁর কখনো এ সতর্কতার দরকার নেই, তাঁর সামনে কেন তা রাখা হলো? আশপাশের আয়াতগুলোই একটা উত্তরের দিকে ইশারা করে। ৩৯:৬৪ আয়াতে তিনি সবে আল্লাহ ছাড়া আর কারও ইবাদত করতে অস্বীকার করেছেন। ৩৯:৬৬ আয়াতে তাঁকে বলা হচ্ছে, আল্লাহরই ইবাদত কর আর শোকরগুজার হও। এ দুয়ের মাঝখানে সেই বিধান, যার কারণে অস্বীকারটা জরুরি ছিল। আর সেটা বলা হয়েছে সর্বোচ্চ ঠিকানায়। যে রসূল নিজেই দাবিটা ফিরিয়ে দিয়েছেন, তাঁকেও যখন শর্তটা শোনানো হয়, তখন তাঁর চেয়ে নিচের কোনো পাঠক আর ভাবতে পারে না যে বিধানটা অন্য কারও জন্য লেখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Deeds Emptied From Within",
+          "bn": "ভেতর থেকে শূন্য আমল"
+        },
+        "p": [
+          {
+            "en": "La-yahbatanna 'amaluk: your deeds will surely come to nothing. Both verbs that answer the condition carry the emphatic nun, la-yahbatanna and la-takunanna, so the consequence is stated as certain. Al-Qurtubi defines ihbat as annulment and ruin. At-Tabari gives it a practical edge: the work would be voided, it would earn no reward, and it would meet no recompense except the recompense of whoever associates partners with Allah. Al-Muyassar supplies the reason: no righteous deed is accepted alongside shirk.",
+            "bn": "লা-ইয়াহবাতান্না 'আমালুক: তোমার আমল অবশ্যই নিষ্ফল হয়ে যাবে। শর্তের জবাবে আসা দুটি ক্রিয়া, লা-ইয়াহবাতান্না আর লা-তাকূনান্না, দুটোতেই জোর দেওয়ার নূন। ফলে পরিণতিটা বলা হয়েছে নিশ্চিত কথা হিসেবে। কুরতুবী ইহবাতের অর্থ করেন বাতিল করা ও নষ্ট করা। তাবারী একে আরও হাতে-কলমে বোঝান: আমল বাতিল হবে, তার বিনিময়ে কোনো সওয়াব মিলবে না, আর শরীককারীর প্রাপ্য প্রতিফল ছাড়া অন্য কোনো প্রতিদানও জুটবে না। মুয়াসসার কারণটা বলে দেয়: শিরকের সঙ্গে কোনো নেক আমল কবুল হয় না।"
+          },
+          {
+            "en": "As-Sa'di looks closely at the word 'amaluk. It is a singular noun joined to you, he says, and so it takes in every deed; shirk nullifies deeds and corrupts a person's states. Al-Baghawi adds a precision of time: the deeds meant are those done before the shirk. The warning therefore looks backwards as well as forwards. It does not only say that later acts would be refused. It says that a whole record already built would be emptied.",
+            "bn": "সা'দী 'আমালুক' শব্দটার দিকে মনোযোগ দেন। তাঁর কথায়, এটি একবচন বিশেষ্য, 'তোমার' শব্দের সঙ্গে যুক্ত, তাই সব আমলকেই শামিল করে। শিরক আমল নষ্ট করে, মানুষের অবস্থাকেও বিগড়ে দেয়। বাগাভী সময়ের দিকটা স্পষ্ট করেন: এখানে উদ্দেশ্য সেইসব আমল, যা শিরকের আগে করা হয়েছিল। তাই সতর্কবার্তা শুধু সামনের দিকে নয়, পেছনের দিকেও তাকায়। পরের আমল প্রত্যাখ্যাত হবে, শুধু এটুকু বলা হচ্ছে না। আগে গড়া পুরো আমলনামাই খালি হয়ে যাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If One Returns Before Death",
+          "bn": "মৃত্যুর আগে যদি কেউ ফেরে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relays from al-Qushayri a question the verse raises. Whoever leaves Islam, al-Qushayri says, gains nothing from his earlier acts of obedience; but apostasy annuls deeds only on condition of dying in disbelief. His proof is 2:217: whoever of you turns back from his religion and dies while a disbeliever, those are the ones whose deeds have come to nothing. The unrestricted wording in this verse, he argues, is to be read in the light of the restricted wording in that one.",
+            "bn": "কুরতুবী কুশাইরী থেকে এমন একটি প্রশ্ন আনেন, যা আয়াতটি পড়লেই মনে জাগে। কুশাইরীর কথা: যে ইসলাম ছেড়ে যায়, তার আগের ইবাদত-আনুগত্য তার কোনো কাজে আসে না। তবে মুরতাদ হওয়ার কারণে আমল বাতিল হওয়ার শর্ত হলো কুফরের ওপর মৃত্যু। তাঁর দলীল ২:২১৭ আয়াত: তোমাদের মধ্যে যে নিজের দীন থেকে ফিরে যায় এবং কাফির অবস্থায় মারা যায়, তাদেরই আমল নিষ্ফল হয়ে গেছে। তাঁর যুক্তি, এ আয়াতের শর্তহীন কথাকে ওই আয়াতের শর্তযুক্ত কথার আলোয় বুঝতে হবে।"
+          },
+          {
+            "en": "From this al-Qushayri draws a ruling: whoever performed the hajj, then left Islam, then returned, need not repeat the hajj. Al-Qurtubi comments that this is the position of ash-Shafi'i, while according to Malik the hajj must be repeated. The two imams differ, and the difference is reported here as it stands. Both speak of a person who came back to Islam; they part only over how much of his past that return restores.",
+            "bn": "এখান থেকে কুশাইরী একটি মাসআলা বের করেন: কেউ হজ্জ করার পর ইসলাম ছেড়ে গিয়ে আবার ফিরে এলে তাকে নতুন করে হজ্জ করতে হবে না। কুরতুবী মন্তব্য করেন, এটি ইমাম শাফিঈর মাযহাব। আর ইমাম মালিকের মতে হজ্জ আবার করতে হবে। দুই ইমামের মধ্যে মতভেদ আছে, আর এখানে তা যেমন আছে তেমনই রাখা হলো। দুজনেই কথা বলছেন এমন মানুষ নিয়ে, যে ইসলামে ফিরে এসেছে। তাঁদের মতভেদ শুধু এটুকু: সেই ফেরা তার অতীতের কতটুকু ফিরিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Losing Faith and Hereafter Together",
+          "bn": "দীন ও আখিরাত একসঙ্গে হারানো"
+        },
+        "p": [
+          {
+            "en": "Wa la-takunanna min al-khasirin: and you will surely be among the losers. At-Tabari explains the losers as the ruined: among those who perish through associating partners with Allah. Al-Muyassar and as-Sa'di both name what is lost, your religion and your hereafter, and as-Sa'di adds that through shirk deeds are nullified and punishment and exemplary penalty become deserved.",
+            "bn": "ওয়া লা-তাকূনান্না মিনাল খাসিরীন: আর তুমি অবশ্যই ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হবে। তাবারীর ব্যাখ্যায় ক্ষতিগ্রস্ত মানে ধ্বংসপ্রাপ্ত, অর্থাৎ আল্লাহর সঙ্গে শরীক করার কারণে যারা ধ্বংস হয়। মুয়াসসার আর সা'দী দুজনেই বলে দেন কী হারায়: দীন আর আখিরাত। সা'দী আরও বলেন, শিরকের কারণে আমল নষ্ট হয়, আর শাস্তি ও দৃষ্টান্তমূলক সাজা প্রাপ্য হয়ে যায়।"
+          },
+          {
+            "en": "The word echoes two verses back. In 39:63, after the keys of the heavens and the earth are said to belong to Him, those who disbelieve in Allah's signs are called hum al-khasirun, they are the losers. The same root now closes 39:65. The One who holds every key has no partner to share them with, and the person who sets up a partner has turned towards a door that no key opens.",
+            "bn": "শব্দটা দুই আয়াত আগে একবার শোনা গেছে। ৩৯:৬৩ আয়াতে আসমান ও যমীনের চাবি তাঁরই, এ কথা বলার পর আল্লাহর আয়াত অস্বীকারকারীদের বলা হয়েছে, তারাই ক্ষতিগ্রস্ত। একই ধাতু এবার ৩৯:৬৫ আয়াতের শেষে। যাঁর হাতে সব চাবি, তাঁর এমন কোনো শরীক নেই যার সঙ্গে চাবি ভাগ হবে। আর যে শরীক দাঁড় করায়, সে এমন দরজার দিকে মুখ ফেরায়, যা কোনো চাবিতেই খোলে না।"
+          },
+          {
+            "en": "One thing must be said plainly. The verse states a law about a deed and its outcome, and it describes what the text describes. It licenses nothing against any living person or community. It gives no one the right to declare a neighbour's prayers void, to decide how anyone will end, or to treat people as already lost. How any person will end is hidden from every onlooker. The verse is a mirror held up to the one reading it.",
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। আয়াতটি একটি আমল আর তার পরিণতি সম্পর্কে বিধান জানায়, আর পাঠ যা বর্ণনা করে, সে শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে সে কোনো কিছুর অনুমতি দেয় না। প্রতিবেশীর নামায বাতিল ঘোষণা করার, কারও শেষ পরিণতি ঠিক করে দেওয়ার, কিংবা কাউকে আগেভাগেই হারিয়ে যাওয়া মানুষ ধরে নেওয়ার অধিকার এ আয়াত কাউকে দেয় না। কে কোন অবস্থায় শেষ করবে, তা বাইরে থেকে কেউ দেখতে পায় না। আয়াতটি আয়না, যে পড়ছে তার নিজের দিকে ধরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Narrations on the Theme",
+          "bn": "একই বিষয়ের দুটি হাদীস"
+        },
+        "p": [
+          {
+            "en": "None of the tafsir texts fetched for this verse attaches a sound hadith to it. Two authentic narrations speak to its theme and are given here as general teaching, not tied to this verse. In Sahih al-Bukhari (4477), Abdullah reports: I asked the Prophet ﷺ which sin is greatest in the sight of Allah. He said: that you set up a rival to Allah while He created you. I said: that is indeed great. Then which? He said: that you kill your child, fearing he will eat with you. Then which? He said: that you commit adultery with your neighbour's wife.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। দুটি সহীহ হাদীস এর বিষয়বস্তুর সঙ্গে মেলে। সেগুলো এখানে সাধারণ শিক্ষা হিসেবে আনা হলো, এ আয়াতের সঙ্গে সরাসরি যুক্ত হিসেবে নয়। সহীহ বুখারীতে (৪৪৭৭) আবদুল্লাহ বলেন: আমি নবী ﷺ-কে জিজ্ঞেস করলাম, আল্লাহর কাছে কোন গুনাহ সবচেয়ে বড়? তিনি বললেন: আল্লাহর সমকক্ষ দাঁড় করানো, অথচ তিনিই তোমাকে সৃষ্টি করেছেন। আমি বললাম: এ তো সত্যিই বড়। তারপর কোনটি? তিনি বললেন: তোমার সঙ্গে খাবে এই ভয়ে নিজের সন্তানকে হত্যা করা। তারপর কোনটি? তিনি বললেন: প্রতিবেশীর স্ত্রীর সঙ্গে ব্যভিচার করা।"
+          },
+          {
+            "en": "In Sahih Muslim (2985), Abu Hurayrah (RA) reports that the Messenger of Allah ﷺ said: Allah, Blessed and Exalted, said: I am, of all partners, the most free of need of partnership. Whoever does a deed in which he associates another with Me, I leave him and his partnership. Muslim gives no further grading beyond placing it in his Sahih. This narration speaks of a single deed shared with another; the verse speaks of association itself. Both make one point: what is given to Allah must be given to Him alone.",
+            "bn": "সহীহ মুসলিমে (২৯৮৫) আবু হুরায়রা (রাঃ) বর্ণনা করেন, আল্লাহর রসূল ﷺ বলেছেন: আল্লাহ তাবারাকা ওয়া তাআলা বলেন, শরীকদের মধ্যে আমিই শরীকানা থেকে সবচেয়ে বেশি অমুখাপেক্ষী। কেউ যদি এমন আমল করে, যাতে সে আমার সঙ্গে অন্য কাউকে শরীক করে, আমি তাকে ও তার শিরককে ছেড়ে দিই। ইমাম মুসলিম একে নিজের সহীহ গ্রন্থে রাখা ছাড়া আলাদা কোনো মান উল্লেখ করেননি। এ হাদীস বলছে এমন এক আমলের কথা, যাতে অন্যকে ভাগ দেওয়া হয়েছে। আয়াত বলছে খোদ শিরকের কথা। দুটোর কথা একটাই: আল্লাহকে যা দেওয়া হয়, তা দিতে হবে কেবল তাঁকেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Worship Him, Then Give Thanks",
+          "bn": "তাঁরই ইবাদত, তাঁরই শোকর"
+        },
+        "p": [
+          {
+            "en": "Verse 66 turns the warning into a command: bal Allaha fa'bud wa kun min ash-shakirin, rather, worship Allah and be among the grateful. Al-Qurtubi relays from Ibn Abbas (RA) that worship here means: single Him out. At-Tabari reads the verse as: do not worship what the idolaters of your people ask you to worship; worship Allah, apart from every god, idol and rival besides Him.",
+            "bn": "৬৬ নম্বর আয়াত সতর্কবার্তাকে আদেশে রূপ দেয়: বালিল্লাহা ফা'বুদ ওয়া কুম মিনাশ শাকিরীন, বরং আল্লাহরই ইবাদত কর আর শোকরগুজারদের একজন হও। কুরতুবী ইবন আব্বাস (রাঃ) থেকে আনেন, এখানে ইবাদতের মানে তাঁকে একক বলে মানা। তাবারী আয়াতটা পড়েন এভাবে: তোমার কওমের মুশরিকরা যার ইবাদত করতে বলছে, তার ইবাদত কোরো না। ইবাদত কর আল্লাহর, তিনি ছাড়া আর যত উপাস্য, মূর্তি আর সমকক্ষ আছে, সবাইকে বাদ দিয়ে।"
+          },
+          {
+            "en": "Gratitude is the second half. At-Tabari names its object: thanks to Allah for His favour in guiding to His worship and freeing from the worship of idols. As-Sa'di widens it. Allah is thanked for worldly favours such as health and provision, he says, and equally for favours of religion, such as being enabled to sincerity and piety, which are the favours in truth. Seeing that these come from Allah, he adds, keeps a worker safe from the blight of self-admiration that strikes many who do good.",
+            "bn": "আয়াতের দ্বিতীয় অর্ধেক শোকর। তাবারী বলে দেন কিসের শোকর: আল্লাহ তাঁর ইবাদতের পথ দেখিয়েছেন আর মূর্তিপূজা থেকে মুক্ত রেখেছেন, এই নিয়ামতের। সা'দী কথাটাকে আরও প্রসারিত করেন। তাঁর মতে, সুস্থ শরীর আর রিযিকের মতো দুনিয়ার নিয়ামতের জন্য যেমন আল্লাহর শোকর করা হয়, তেমনি দীনের নিয়ামতের জন্যও শোকর করতে হয়, যেমন ইখলাস আর তাকওয়ার তাওফীক। আসল নিয়ামত তো এগুলোই। তিনি আরও বলেন, এসব যে আল্লাহর দান, এ উপলব্ধি আমলকারীকে আত্মমুগ্ধতার সেই রোগ থেকে বাঁচায়, যা অনেক নেককারকেই পেয়ে বসে।"
+          },
+          {
+            "en": "Read together, the three verses make one movement: a refusal, its ground, and its remedy. The deed that survives is the deed whose foundation is Allah alone, and even that foundation is His gift. The warning of 39:65 is meant to be taken seriously, but its answer is not anxiety. It is worship with a single address, and gratitude that the address was ever made known. A reader who checks his deeds for sincerity, and then thanks Allah for whatever sincerity he finds, has heard both the warning and the command.",
+            "bn": "তিনটি আয়াত একসঙ্গে পড়লে একটা ধারা চোখে পড়ে: প্রথমে অস্বীকার, তারপর তার ভিত্তি, তারপর প্রতিকার। যে আমল টিকে থাকে, তার ভিত কেবল আল্লাহ, আর সেই ভিতটাও তাঁরই দান। ৩৯:৬৫ আয়াতের সতর্কবার্তা গুরুত্ব দিয়েই নিতে হবে, তবে তার জবাব দুশ্চিন্তা নয়। জবাব হলো এমন ইবাদত, যার ঠিকানা একটাই, আর সেই ঠিকানা চিনিয়ে দেওয়ার জন্য শোকর। যে পাঠক নিজের আমলে ইখলাস খোঁজেন, আর যতটুকু পান তার জন্য আল্লাহর শোকর করেন, তিনি সতর্কবার্তা আর আদেশ, দুটোই শুনেছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "39:67": {
     "sections": [
       {

@@ -37373,6 +37373,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every store of the heavens and the earth opens only with Allah's keys, so ask Him first, and count turning away from His signs as the only real loss.",
     "lessonBn": "আসমান আর যমীনের প্রতিটি ভাণ্ডার খোলে শুধু আল্লাহর চাবিতে। তাই আগে তাঁর কাছেই চান, আর তাঁর নিদর্শন থেকে মুখ ফিরিয়ে নেওয়াকেই আসল ক্ষতি বলে গণ্য করুন।"
+  },
+  "39:65": {
+    "reflectionEn": "The verse before this one answers people who wanted him to worship something besides Allah: is it other than Allah you order me to worship, you who do not know? This verse gives the ground of that refusal. The same message went to him and to every messenger before him: if you associate anything with Allah, your deeds will surely come to nothing, and you will surely be among the losers. It is addressed to the one man who would never do it, so that no one after him imagines an exemption. Prayer, charity, years of effort: all of it stands on a single foundation. I check the walls of my life often. How often do I check what they stand on?",
+    "reflectionBn": "আগের আয়াতে জবাব দেওয়া হয়েছে তাদের, যারা চাইছিল তিনি আল্লাহ ছাড়া অন্য কিছুর ইবাদত করুন: ওহে অজ্ঞরা, তোমরা কি আমাকে আল্লাহ ছাড়া অন্যের ইবাদত করতে বলছ? এ আয়াত জানায় সেই অস্বীকারের ভিত্তি কী। তাঁর কাছে আর তাঁর আগের সব রসূলের কাছে একই বার্তা গিয়েছে: তুমি যদি আল্লাহর সঙ্গে শরীক কর, তোমার আমল অবশ্যই নিষ্ফল হবে, আর তুমি অবশ্যই ক্ষতিগ্রস্তদের দলে পড়বে। কথাটা বলা হয়েছে এমন একজনকে, যিনি কখনো তা করতেন না। যাতে তাঁর পরে কেউ নিজেকে এর বাইরে না ভাবে। নামায, দান, বছরের পর বছরের মেহনত, সবই দাঁড়িয়ে আছে একটিমাত্র ভিতের ওপর। জীবনের দেয়ালগুলো আমি প্রায়ই পরখ করি। কিন্তু সেগুলো যার ওপর দাঁড়িয়ে, সেই ভিত কতবার পরখ করি?",
+    "pointsEn": [
+      "Is there any part of my hope, my fear or my reliance that I have quietly handed to someone or something other than Allah?",
+      "When I do a good deed, whose approval am I really waiting for?",
+      "If this warning is laid even before the best of messengers, what makes me feel so safe from it?",
+      "What do I lean on in hardship that I would be ashamed to call a partner, yet treat like one?",
+      "Do I thank Allah for guiding me to worship Him as readily as I thank Him for health and provision?"
+    ],
+    "pointsBn": [
+      "আমার আশা, ভয় বা ভরসার কোনো অংশ কি চুপিচুপি আল্লাহ ছাড়া অন্য কারও বা অন্য কিছুর হাতে তুলে দিয়েছি?",
+      "কোনো নেক আমল করার পর আসলে কার বাহবার অপেক্ষায় থাকি?",
+      "এ সতর্কবার্তা যদি শ্রেষ্ঠ রসূলের সামনেও রাখা হয়, তবে আমি নিজেকে এত নিরাপদ ভাবি কোন ভরসায়?",
+      "বিপদের দিনে আমি কিসের ওপর ভর দিই, যাকে শরীক বলতে লজ্জা পাব, অথচ আচরণ করি শরীকের মতোই?",
+      "সুস্থতা আর রিযিকের জন্য যেমন সহজে শোকর করি, আল্লাহর ইবাদতের পথ দেখানোর জন্যও কি তেমনি শোকর করি?"
+    ],
+    "lessonEn": "Guard the foundation of every deed: worship Allah alone, for the message given to every messenger is that associating partners with Him leaves all deeds worthless.",
+    "lessonBn": "প্রতিটি আমলের ভিত আগলে রাখুন: কেবল আল্লাহর ইবাদত করুন। কারণ প্রত্যেক রসূলকে জানানো হয়েছে, তাঁর সঙ্গে শরীক করলে সব আমল নিষ্ফল হয়ে যায়।"
   }
 };
 
