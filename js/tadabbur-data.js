@@ -35537,6 +35537,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Keep your scale straight in every dealing, weigh for others as you would want to be weighed for, and do not let a small lean in your favour pass as nothing.",
     "lessonBn": "প্রতিটি লেনদেনে নিজের পাল্লা সোজা রাখুন, অন্যের জন্য সেভাবেই মাপুন যেভাবে চান আপনার জন্য মাপা হোক, আর নিজের দিকে সামান্য হেলে পড়াকেও তুচ্ছ ভেবে ছেড়ে দেবেন না।"
+  },
+  "26:130": {
+    "reflectionEn": "Hud has already named the landmarks on every height and the fortresses built as if their owners would never die. Now he names the hand: when you strike, you strike as tyrants. The fault was never that 'Ad were strong; strength was a gift. The fault lay in how the blow fell: in anger, without right, without stopping to ask who deserved it, and without pardon even for the one who only slipped. That people is long gone, and the verse hands no one a charge against anyone living. It turns instead to the reader's own hand. Most of us hold a little power over someone. When I am angry and able, what does my hand do? Do I check first, and do I ever forgive?",
+    "reflectionBn": "উঁচু জায়গার স্মৃতিস্তম্ভ আর চিরকাল টিকে থাকার আশায় গড়া প্রাসাদের কথা হূদ (আঃ) আগেই তুলেছেন। এবার তিনি ধরলেন হাতের কথা: তোমরা যখন আঘাত করো, আঘাত করো জালিমের মতো। ‘আদ জাতির দোষ তাদের শক্তিতে ছিল না, শক্তি তো আল্লাহর দান। দোষ ছিল আঘাতের ধরনে। রাগের মাথায় মারা, ন্যায্য কারণ ছাড়া মারা, কে আসলে দোষী তা যাচাই না করেই মারা, আর যে শুধু ভুল করে ফেলেছে তাকেও মাফ না করা। সে জাতি বহু আগেই বিলীন। জীবিত কারও বিরুদ্ধে অভিযোগ তোলার হাতিয়ার এ আয়াত কাউকে দেয় না। আয়াতটি বরং পাঠকের নিজের হাতের দিকেই ফেরে। আমাদের প্রায় সবারই কারও না কারও উপর একটু ক্ষমতা আছে। রেগে গেলে আর হাতে ক্ষমতা থাকলে আমার হাত কী করে? আগে কি যাচাই করি? কখনো কি মাফ করি?",
+    "pointsEn": [
+      "Over whom do I hold some power, and how would they describe the way I use it?",
+      "When I am angry, do I make sure of the facts before I act, or does the blow come first and the checking afterwards?",
+      "Do I treat an honest mistake and a deliberate wrong the same way, leaving no room at all for pardon?",
+      "Which strength given to me, whether body, money, position or a sharp tongue, have I used to frighten people rather than to serve them?",
+      "When I am in the right, do I keep my response within what that right allows, or does it run past it?"
+    ],
+    "pointsBn": [
+      "কাদের উপর আমার কিছুটা ক্ষমতা আছে? আমি সেটা কীভাবে খাটাই, তারা হলে কী বলত?",
+      "রেগে গেলে কাজে নামার আগে কি ঘটনাটা নিশ্চিত হয়ে নিই? নাকি আঘাতটা আগে আসে, যাচাই আসে পরে?",
+      "সরল ভুল আর জেনেবুঝে করা অন্যায়, দুটোকে কি আমি একই চোখে দেখি, মাফের কোনো জায়গাই না রেখে?",
+      "শরীর, টাকা, পদ কিংবা ধারালো জিভ, আল্লাহর দেওয়া কোন শক্তি দিয়ে আমি মানুষের সেবা না করে তাদের ভয় দেখিয়েছি?",
+      "হক আমার পক্ষে থাকলেও কি আমার জবাব সেই হকের সীমার ভেতরে থাকে, নাকি সীমা ছাড়িয়ে যায়?"
+    ],
+    "lessonEn": "Strength is a trust, not a licence. When you must act against someone, act by right and with restraint: check before you strike, and leave room for pardon.",
+    "lessonBn": "শক্তি আমানত, যা খুশি করার ছাড়পত্র নয়। কারও বিরুদ্ধে ব্যবস্থা নিতেই হলে হক মেনে সংযত থেকে নিন: আঘাতের আগে যাচাই করুন, আর মাফের জায়গা রাখুন।"
   }
 };
 

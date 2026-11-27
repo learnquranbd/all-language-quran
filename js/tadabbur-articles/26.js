@@ -6491,6 +6491,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:130": {
+    "sections": [
+      {
+        "h": {
+          "en": "Height, Fortress, Then the Hand",
+          "bn": "উঁচু স্তম্ভ, প্রাসাদ, তারপর হাত"
+        },
+        "p": [
+          {
+            "en": "This verse sits in the middle of Hud's (AS) rebuke to his people, 'Ad. He has already asked why they raise a landmark on every height for amusement, in 26:128, and why they take strongholds as if they might live forever, in 26:129. Now comes the third charge, and it moves from stone to people: wa-idha batashtum batashtum jabbarin, and when you seize, you seize as tyrants. Straight after it, in 26:131, he repeats word for word the command he first gave in 26:126: so fear Allah and obey me.",
+            "bn": "আয়াতটি নিজের জাতি ‘আদের প্রতি হূদ (আঃ)-এর তিরস্কারের ঠিক মাঝখানে। ২৬:১২৮ আয়াতে তিনি জানতে চেয়েছেন, খেলার ছলে প্রতিটি উঁচু জায়গায় তারা কেন স্তম্ভ তোলে। ২৬:১২৯ আয়াতে জানতে চেয়েছেন, চিরকাল বাঁচবে ভেবে কেন মজবুত প্রাসাদ গড়ে। এবার তৃতীয় অভিযোগ, আর তা পাথর ছেড়ে মানুষের দিকে ফেরে: ওয়া ইযা বাতাশতুম বাতাশতুম জাব্বারীন, আর যখন তোমরা পাকড়াও করো, পাকড়াও করো জালিমের মতো। এর পরেই ২৬:১৩১ আয়াতে তিনি হুবহু সেই আদেশ আবার দেন, যা প্রথম দিয়েছিলেন ২৬:১২৬ আয়াতে: সুতরাং আল্লাহকে ভয় করো আর আমার আনুগত্য করো।"
+          },
+          {
+            "en": "The commentators read the passage as one movement. Ibn Kathir's English abridgement passes from the strongholds to this line and then to the command, which it glosses as: worship your Lord and obey your Messenger. As-Sa'di ends his comment on this very verse by saying that for this reason their prophet forbade them it. So the rebuke runs as three faults named and one call to fear Allah, and a reader of 26:130 should keep the three together rather than lift the hand out of its setting.",
+            "bn": "তাফসীরকারেরা পুরো অংশটাকে একটানা এক বক্তব্য হিসেবে পড়েন। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ প্রাসাদের কথা থেকে সোজা এই বাক্যে আসে, তারপর আদেশে। আদেশটির ব্যাখ্যা সেখানে এমন: তোমাদের রবের ইবাদত করো আর তোমাদের রসূলের আনুগত্য করো। সা'দী এ আয়াতেরই আলোচনা শেষ করেন এই বলে যে, এ কারণেই তাদের নবী তাদের এ কাজ থেকে নিষেধ করেছিলেন। তিরস্কারটা তাই তিনটি দোষের তালিকা, তারপর আল্লাহকে ভয় করার একটি ডাক। ২৬:১৩০ পড়ার সময় তিনটিকে একসাথে রাখা দরকার। হাতের কথাটাকে প্রসঙ্গ থেকে আলাদা করে তুলে আনা ঠিক হবে না।"
+          },
+          {
+            "en": "The Arabic is four words, and two of them are the same verb. The first batashtum states the condition and the second is its answer, so the answer adds only one new word: jabbarin, as tyrants. The repetition throws all the weight onto that last word. Hud's charge is not that 'Ad ever laid hands on anyone; it is the way they did it. The Muyassar spells the sense out in just this way: when you seize anyone of the creation, by killing or beating, you do it as overpowering wrongdoers.",
+            "bn": "আরবিতে মোট চারটি শব্দ, তার দুটি একই ক্রিয়া। প্রথম বাতাশতুম শর্ত, দ্বিতীয়টি তার জবাব। ফলে জবাবে নতুন শব্দ আসে একটিই: জাব্বারীন, জালিম হয়ে। একই ক্রিয়ার পুনরাবৃত্তি পুরো ভারটা ফেলে দেয় শেষ শব্দটির উপর। হূদ (আঃ)-এর অভিযোগ এ নয় যে ‘আদ কখনো কারও গায়ে হাত তুলেছে। অভিযোগ হলো, কীভাবে তুলেছে। মুয়াসসার অর্থটা ঠিক এভাবেই খুলে বলে: সৃষ্টির কাউকে যখন তোমরা পাকড়াও করো, হত্যা করে হোক বা মেরে, তখন তা করো দাপট দেখিয়ে, জুলুম করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Force Inside Batsh",
+          "bn": "বাতশ শব্দের ভেতরের জোর"
+        },
+        "p": [
+          {
+            "en": "What kind of seizing is batsh? Al-Qurtubi opens with the lexicon: al-batsh is as-satwah and al-akhdh bil-'unf, an assault, a taking hold with violence. He lists the verb's forms, batasha with two vowellings in the imperfect, and the mutual form, so that the word is fixed before any reading is built on it. Al-Baghawi glosses batashtum with a pair of verbs, akhadhtum wa-satawtum, you seized and you assaulted. Neither describes a firm grip that stops a wrong; both describe force brought down on a person.",
+            "bn": "বাতশ কেমন পাকড়াও? কুরতুবী শুরু করেন শব্দের অভিধানগত অর্থ দিয়ে: আল-বাতশ মানে আস-সাতওয়াহ আর আল-আখযু বিল-উনফ, অর্থাৎ হামলা, জোর খাটিয়ে ধরা। ক্রিয়াটির রূপগুলোও তিনি গুনে দেন: বাতাশা, যার বর্তমান কালের রূপে দুই রকম স্বর চলে, আর পরস্পরকে পাকড়াও করার রূপ। কোনো ব্যাখ্যা দাঁড় করানোর আগে শব্দটা এভাবে পাকা করে নেন। বাগাভী বাতাশতুমের অর্থ দেন দুটি ক্রিয়ায়: আখাযতুম ওয়া সাতাওতুম, তোমরা ধরেছ এবং হামলা করেছ। অন্যায় ঠেকাতে শক্ত হাতে ধরার কথা এখানে কেউ বলছেন না। দুজনেই বলছেন মানুষের উপর নেমে আসা জোরের কথা।"
+          },
+          {
+            "en": "At-Tabari keeps to the same line and makes it concrete. He reads the verse as: when you assault, you assault by killing with swords and beating with whips. He then gives a single report in support, through al-Qasim, from al-Husayn, from Hajjaj, from Ibn Jurayj, who said of the phrase: killing by the sword, and the whips. At-Tabari records no rival view here and no second report. For him the verse names two instruments, the blade and the lash, and leaves no doubt about what 'Ad did with them.",
+            "bn": "তাবারীও একই পথে চলেন, তবে কথাটা আরও নির্দিষ্ট করে দেন। তাঁর পাঠে আয়াতের অর্থ: যখন তোমরা হামলা করো, হামলা করো তলোয়ার দিয়ে হত্যা করে আর চাবুক দিয়ে মেরে। সমর্থনে তিনি একটিমাত্র বর্ণনা আনেন, কাসিম থেকে, তিনি হুসাইন থেকে, তিনি হাজ্জাজ থেকে, তিনি ইবন জুরাইজ থেকে। ইবন জুরাইজ বাক্যটি সম্পর্কে বলেছেন: তলোয়ারে হত্যা আর চাবুক। এখানে তাবারী ভিন্ন কোনো মত বা দ্বিতীয় কোনো বর্ণনা আনেন না। তাঁর কাছে আয়াতটি দুটি হাতিয়ারের নাম নেয়, ফলা আর চাবুক। আর ‘আদ সেগুলো দিয়ে কী করত, তা নিয়ে কোনো সংশয় রাখে না।"
+          },
+          {
+            "en": "Ibn Kathir in his Arabic tafsir gives the verse a single sentence: He described them with strength, harshness and tyranny, al-quwwah wal-ghilzah wal-jabarut. His English abridgement renders it the same way, saying that they are described as strong, violent and tyrannical. The three nouns are worth holding apart. Strength is the capacity; harshness is the temper that uses it without softness; tyranny is the claim that no one may call that use to account. The verse, on this reading, charges 'Ad with all three at once.",
+            "bn": "ইবন কাসীর তাঁর আরবি তাফসীরে আয়াতটির জন্য একটিমাত্র বাক্য রাখেন: তিনি তাদের বর্ণনা দিয়েছেন শক্তি, রূঢ়তা আর দাম্ভিক জুলুম দিয়ে, আল-কুওয়াহ ওয়াল-গিলযাহ ওয়াল-জাবারূত। তাঁর ইংরেজি সংক্ষিপ্ত সংস্করণও একই কথা বলে: তাদের বর্ণনা করা হয়েছে শক্তিশালী, হিংস্র আর অত্যাচারী হিসেবে। তিনটি শব্দ আলাদা করে দেখার মতো। শক্তি হলো সামর্থ্য। রূঢ়তা সেই মেজাজ, যা কোমলতা ছাড়াই সামর্থ্যটা খাটায়। আর জাবারূত হলো এই দাবি যে, এভাবে খাটানোর জন্য কেউ জবাব চাইতে পারবে না। এ পাঠে আয়াতটি ‘আদকে একসাথে তিনটিরই দায় দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sword, Lash, or Temper",
+          "bn": "তলোয়ার, চাবুক, না রাগ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gathers the early readings, and they do not all say the same thing. Ibn 'Abbas and Mujahid, he reports, said that batsh is al-'asf, harsh and arbitrary oppression, by killing with the sword and beating with the whip, and he adds that the meaning is: you did that wrongfully. Mujahid is also reported as saying something narrower: it is beating with whips. Al-Qurtubi notes, citing Ibn al-'Arabi, that Malik ibn Anas narrated this narrower sense from Nafi', from Ibn 'Umar.",
+            "bn": "কুরতুবী প্রথম যুগের ব্যাখ্যাগুলো একসাথে জড়ো করেন, আর সেগুলো সবাই একই কথা বলে না। তাঁর বর্ণনায় ইবন আব্বাস ও মুজাহিদ বলেছেন, বাতশ মানে আল-আসফ, অর্থাৎ খেয়ালখুশিমতো কঠোর জুলুম: তলোয়ার দিয়ে হত্যা আর চাবুক দিয়ে মারা। কুরতুবী যোগ করেন, এর অর্থ দাঁড়ায়: তোমরা কাজটা করেছ জুলুম করে। মুজাহিদ থেকে আরও সংকীর্ণ একটি কথাও বর্ণিত আছে: বাতশ হলো চাবুক দিয়ে মারা। ইবনুল আরাবীর বরাতে কুরতুবী জানান, এই সংকীর্ণ অর্থটি মালিক ইবন আনাস বর্ণনা করেছেন নাফি থেকে, তিনি ইবন উমর থেকে।"
+          },
+          {
+            "en": "Then come readings that move the fault from the instrument to the manner. Yahya ibn Sallam related that it is killing with the sword without right. Al-Kalbi and al-Hasan said it is killing in anger, min ghayr tathabbut, without first making sure. Al-Qurtubi judges that all of this returns to the statement of Ibn 'Abbas. He then adds a further reading, introduced only with it is said: that batsh is punishing the deliberate act and the mistake alike, with no pardon and no sparing.",
+            "bn": "এরপর আসে এমন কিছু ব্যাখ্যা, যা দোষটা হাতিয়ার থেকে সরিয়ে আনে আচরণের ধরনে। ইয়াহইয়া ইবন সাল্লাম বর্ণনা করেছেন, বাতশ মানে ন্যায্য কারণ ছাড়া তলোয়ারে হত্যা। কালবী ও হাসান বলেছেন, এ হলো রাগের মাথায় হত্যা, মিন গাইরি তাসাব্বুত, আগে নিশ্চিত না হয়েই। কুরতুবীর বিচারে এসব ব্যাখ্যা শেষমেশ ইবন আব্বাসের কথাতেই ফিরে যায়। তারপর তিনি 'বলা হয়' কথাটি দিয়ে আরেকটি ব্যাখ্যা আনেন: বাতশ মানে জেনেবুঝে করা কাজ আর ভুল, দুটোরই সমান শাস্তি দেওয়া, কোনো মাফ না করে, কাউকে রেহাই না দিয়ে।"
+          },
+          {
+            "en": "The difference is real and worth keeping as a difference. Mujahid in one report, and Malik's narration from Ibn 'Umar, confine the word to the whip; Ibn 'Abbas, Ibn Jurayj and at-Tabari take in the sword as well. Yahya ibn Sallam places the fault in the absence of right, al-Kalbi and al-Hasan in anger that does not stop to check, and the last reading in refusing to tell a mistake from a crime. Al-Qurtubi's own verdict is that the readings converge, and each still names a different way power goes wrong.",
+            "bn": "মতভেদটা আসল, আর মতভেদ হিসেবেই তা রেখে দেওয়া উচিত। মুজাহিদের একটি বর্ণনা আর ইবন উমর থেকে মালিকের বর্ণনা শব্দটিকে চাবুকেই সীমিত রাখে। ইবন আব্বাস, ইবন জুরাইজ আর তাবারী এর মধ্যে তলোয়ারকেও ধরেন। ইয়াহইয়া ইবন সাল্লাম দোষ দেখেন ন্যায্য কারণ না থাকায়। কালবী ও হাসান দোষ দেখেন সেই রাগে, যা থেমে যাচাই করে না। আর শেষ ব্যাখ্যাটি দোষ দেখে ভুল আর অপরাধের মধ্যে ফারাক না করায়। কুরতুবীর নিজের রায়, ব্যাখ্যাগুলো এক জায়গায় মেলে। তবু প্রতিটি ব্যাখ্যা ক্ষমতা বিপথে যাওয়ার আলাদা আলাদা পথ দেখায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Makes a Jabbar",
+          "bn": "জাব্বার কাকে বলে"
+        },
+        "p": [
+          {
+            "en": "The verse's own verdict lies in jabbarin, and al-Qurtubi gives two senses for it. Al-Harawi, he reports, said it means qattalin, much given to killing, and that the jabbar is a man who kills without right, as in 28:19, where the word appears again. Others said the jabbar is al-mutasallit al-'ati, the man who sets himself over others and is insolent in it, and they cite 50:45, wa-ma anta 'alayhim bi-jabbar, you are not over them a compeller, meaning not someone placed in power over them.",
+            "bn": "আয়াতের আসল রায় জাব্বারীন শব্দে, আর কুরতুবী এর দুটি অর্থ দেন। তাঁর বর্ণনায় হারাভী বলেছেন, এর অর্থ কাত্তালীন, অর্থাৎ যারা খুব বেশি হত্যা করে। হারাভীর মতে জাব্বার হলো সে, যে ন্যায্য কারণ ছাড়া হত্যা করে, যেমন ২৮:১৯ আয়াতে, যেখানে শব্দটি আবার এসেছে। অন্যরা বলেছেন, জাব্বার হলো আল-মুতাসাল্লিত আল-আতী: যে অন্যের ঘাড়ে চেপে বসে আর তাতে ঔদ্ধত্য দেখায়। তাঁরা প্রমাণ আনেন ৫০:৪৫ আয়াত থেকে, ওয়া মা আনতা আলাইহিম বি-জাব্বার, তুমি তাদের উপর জবরদস্তিকারী নও, অর্থাৎ তাদের উপর ক্ষমতা দিয়ে বসানো কেউ নও।"
+          },
+          {
+            "en": "The other commentators fill in the same picture from different sides. Al-Baghawi defines the jabbar as one who kills and beats 'ala al-ghadab, in anger. The Muyassar renders the state as qahirin zalimin, overpowering and wronging. As-Sa'di widens the reach of the hand: when you seize the creation, you do it as tyrants, by killing and beating and the taking of property. So jabbarin does not name a single act. It names a posture, power that answers to no one, falling on lives, bodies and wealth alike.",
+            "bn": "বাকি তাফসীরকারেরা একই ছবি ভিন্ন ভিন্ন দিক থেকে পূর্ণ করেন। বাগাভী জাব্বারের সংজ্ঞা দেন এভাবে: যে রাগের মাথায় হত্যা করে আর মারে, আলাল-গাদাব। মুয়াসসার অবস্থাটা বোঝায় কাহিরীন জালিমীন দিয়ে, অর্থাৎ দাপট খাটিয়ে আর জুলুম করে। সা'দী হাতের নাগাল আরও বাড়িয়ে দেন: সৃষ্টিকে যখন তোমরা পাকড়াও করো, করো জালিম হয়ে, হত্যা করে, মেরে, আর মানুষের সম্পদ কেড়ে নিয়ে। জাব্বারীন তাই কোনো একটি কাজের নাম নয়। এ এক ভঙ্গির নাম: এমন ক্ষমতা, যা কারও কাছে জবাবদিহি করে না, আর প্রাণ, শরীর ও সম্পদ সবকিছুর উপর একইভাবে নেমে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From a Shove to Iron",
+          "bn": "ধাক্কা থেকে লোহা পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "Ibn al-'Arabi, as al-Qurtubi quotes him, supports Malik's narrower reading from another verse. In 28:19, when Musa (AS) meant to seize the man who was an enemy to them both, the speaker in that verse says: do you mean to kill me as you killed a soul yesterday? You want only to be a jabbar in the land. Ibn al-'Arabi's point is about the words: Musa had drawn no sword and thrust no spear, he says; he had only struck with his fist, and the man's death came in that blow.",
+            "bn": "কুরতুবীর উদ্ধৃতিতে ইবনুল আরাবী মালিকের সংকীর্ণ ব্যাখ্যার পক্ষে আরেকটি আয়াত থেকে সমর্থন আনেন। ২৮:১৯ আয়াতে মূসা (আঃ) যখন দুজনেরই শত্রু লোকটিকে পাকড়াও করতে চাইলেন, তখন ওই আয়াতের বক্তা বলে: গতকাল যেমন একজনকে মেরেছ, তেমনি কি আমাকেও মারতে চাও? তুমি তো দেশে শুধু জাব্বার হতে চাও। ইবনুল আরাবীর আগ্রহ শব্দ দুটি নিয়ে। তিনি বলেন, মূসা তলোয়ার খোলেননি, বর্শাও মারেননি। তিনি শুধু ঘুষি মেরেছিলেন, আর সেই আঘাতেই লোকটির মৃত্যু হয়েছিল।"
+          },
+          {
+            "en": "The accusation in 28:19 belongs to the man who speaks it, and the Qur'an reports it as his words; Ibn al-'Arabi uses it only to show what batsh and jabbar can cover. The passage al-Qurtubi carries then sets out a ladder. Batsh is done with the hand; the least of it is the punch and the shove; next come the whip and the stick; then iron. And all of it, the passage says, is blameworthy except when it is by right. Two things follow: the smallest shove can be batsh, and force by right is not what the verse condemns.",
+            "bn": "২৮:১৯ আয়াতের অভিযোগটা যে লোক বলছে তার নিজের কথা। কুরআন সেটাকে তার মুখের কথা হিসেবেই উদ্ধৃত করেছে। ইবনুল আরাবী কথাটা ব্যবহার করেন কেবল এটুকু দেখাতে যে বাতশ আর জাব্বার শব্দ কতদূর পর্যন্ত বিস্তৃত। কুরতুবীর উদ্ধৃত অংশটি এরপর একটি সিঁড়ি সাজায়। বাতশ হয় হাত দিয়ে। এর সবচেয়ে ছোট রূপ ঘুষি আর ধাক্কা। তার উপরে চাবুক আর লাঠি। তারও উপরে লোহা। আর অংশটি বলে, হক ছাড়া এর সবই নিন্দনীয়। এ থেকে দুটি কথা বেরিয়ে আসে। ছোট্ট একটা ধাক্কাও বাতশ হতে পারে। আবার হক মেনে প্রয়োগ করা শক্তিকে আয়াতটি নিন্দা করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Strength Owed to Obedience",
+          "bn": "যে শক্তির পাওনা আনুগত্য"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di asks why this charge belongs in the rebuke at all, and answers from what 'Ad were given. Allah, he says, had given them great strength, and their duty was to draw on that strength in obeying Allah. Instead they boasted and grew proud, and said, as 41:15 reports of them, who is mightier than us in strength? They used their strength in disobedience to Allah, and in idle play and folly, and that, he concludes, is why their prophet forbade them it.",
+            "bn": "এ অভিযোগ তিরস্কারের মধ্যে কেন, সা'দী সে প্রশ্নের উত্তর দেন ‘আদকে যা দেওয়া হয়েছিল তা থেকে। তিনি বলেন, আল্লাহ তাদের বিপুল শক্তি দিয়েছিলেন। তাদের কর্তব্য ছিল সেই শক্তিকে আল্লাহর আনুগত্যে কাজে লাগানো। তারা বরং গর্ব করল, অহংকারী হলো, আর বলল, যেমন ৪১:১৫ আয়াত তাদের কথা জানায়: শক্তিতে আমাদের চেয়ে প্রবল কে আছে? নিজেদের শক্তি তারা খাটাল আল্লাহর নাফরমানিতে, অনর্থক খেলায় আর নির্বুদ্ধিতায়। সা'দীর উপসংহার: এ কারণেই তাদের নবী তাদের এ থেকে নিষেধ করেছিলেন।"
+          },
+          {
+            "en": "Ibn Kathir's English abridgement, at the head of this passage, sets the same scene. 'Ad lived in the Ahqaf, the curving sand-hills near Hadramawt, and it cites 7:69, where 'Ad are reminded that Allah increased them amply in stature. They were, it says, physically strong and well built, very violent and very tall, and had been given provision, wealth, gardens, rivers, sons, crops and fruit. Yet with all of that they worshipped others besides Allah. Their gifts are listed in 26:133 to 26:134, shortly after this verse.",
+            "bn": "ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ এ অংশের শুরুতেই একই ছবি আঁকে। ‘আদ থাকত আহকাফে, হাদরামাউতের কাছের বাঁকা বালিয়াড়িতে। সেখানে ৭:৬৯ আয়াত উদ্ধৃত হয়েছে, যেখানে ‘আদকে মনে করিয়ে দেওয়া হয়, আল্লাহ তাদের দৈহিক গড়ন বাড়িয়ে দিয়েছিলেন। সংস্করণটি বলে, তারা ছিল শারীরিকভাবে শক্তিশালী, সুগঠিত, অত্যন্ত হিংস্র আর খুব লম্বা। তাদের দেওয়া হয়েছিল রিযিক, সম্পদ, বাগান, নদী, ছেলে-সন্তান, ফসল আর ফল। এত কিছুর পরও তারা আল্লাহর পাশাপাশি অন্যের ইবাদত করত। তাদের পাওয়া নিয়ামতের তালিকা আসে এর কিছু পরেই, ২৬:১৩৩ ও ২৬:১৩৪ আয়াতে।"
+          },
+          {
+            "en": "Read beside 26:129, the verse completes a picture. The stronghold built as if its owners would live forever and the blow that answers to no one come from the same certainty: that nothing will outlast them and nothing will call them to account. As-Sa'di's point keeps the gift itself clear of blame. The strength that struck without right was the same strength that could have been spent in obedience. The fault was never in the arm, but in the heart that directed it.",
+            "bn": "২৬:১২৯ আয়াতের পাশে রেখে পড়লে ছবিটা পূর্ণ হয়। চিরকাল বাঁচবে ভেবে গড়া প্রাসাদ, আর কারও কাছে জবাব না দেওয়া আঘাত, দুটোরই উৎস একই নিশ্চিন্ত বিশ্বাস: তারা কখনো ফুরিয়ে যাবে না, আর কেউ তাদের হিসাব চাইবে না। সা'দীর কথা দানটাকে দোষ থেকে আলাদা রাখে। যে শক্তি হক ছাড়া আঘাত করেছিল, সেই একই শক্তি আল্লাহর আনুগত্যেও খরচ হতে পারত। দোষ কখনো বাহুতে ছিল না। দোষ ছিল সেই অন্তরে, যা বাহুটাকে চালাত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whips Like the Tails of Cattle",
+          "bn": "গরুর লেজের মতো চাবুক"
+        },
+        "p": [
+          {
+            "en": "The passage al-Qurtubi carries states the verse's purpose: it came down as a report about the nations that went before, and as an admonition from Allah to us to keep clear of the deed He blamed them for. In his own comment he laments that these traits had spread among many in his own time and land, people striking others with the whip and the stick without right. He then brings a report that Muslim records in his Sahih, from Abu Hurayra, which needs no grading beyond its place in that collection.",
+            "bn": "কুরতুবীর উদ্ধৃত অংশে আয়াতের উদ্দেশ্য বলা আছে: আগের জাতিগুলোর খবর হিসেবে আয়াতটি নাজিল হয়েছে, আর আমাদের প্রতি আল্লাহর উপদেশ হিসেবে, যাতে যে কাজের জন্য তিনি তাদের নিন্দা করেছেন, আমরা তা থেকে দূরে থাকি। নিজের মন্তব্যে কুরতুবী আক্ষেপ করেন, তাঁর নিজের কালে ও দেশে বহু মানুষের মধ্যে এ স্বভাব ছড়িয়ে পড়েছিল। মানুষ হক ছাড়াই চাবুক আর লাঠি দিয়ে অন্যদের মারত। এরপর তিনি একটি হাদীস আনেন, যা মুসলিম তাঁর সহীহ গ্রন্থে আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেছেন। ওই গ্রন্থে স্থান পাওয়াই এর মানের পরিচয়।"
+          },
+          {
+            "en": "The Messenger of Allah ﷺ said: Two kinds of the people of the Fire I have not seen: a people with whips like the tails of cattle, with which they beat people; and women clothed yet naked, inclining and making others incline, their heads like the leaning humps of Bactrian camels. They will not enter Paradise nor find its fragrance, though its fragrance is found from such and such a distance. The report says nothing of 'Ad or of this verse; al-Qurtubi sets it beside the verse as a parallel, and no commentator fetched here attaches a hadith to the verse itself.",
+            "bn": "আল্লাহর রসূল ﷺ বলেছেন: জাহান্নামীদের দুটি দল আমি দেখিনি। একদল লোক, যাদের হাতে গরুর লেজের মতো চাবুক থাকবে, তা দিয়ে তারা মানুষকে মারবে। আর এমন নারী, যারা পোশাক পরেও নগ্ন, নিজেরা বিপথে ঝোঁকে আর অন্যদেরও ঝোঁকায়, তাদের মাথা হেলে পড়া বুখতি উটের কুঁজের মতো। তারা জান্নাতে ঢুকবে না, তার সুবাসও পাবে না, অথচ তার সুবাস এত এত দূর থেকে পাওয়া যায়। হাদীসটিতে ‘আদ বা এ আয়াতের কোনো উল্লেখ নেই। কুরতুবী একে আয়াতের পাশে রাখেন সমান্তরাল হিসেবে। আর এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে সরাসরি কোনো হাদীস জোড়েনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Charge Against No One Living",
+          "bn": "জীবিত কারও প্রতি অভিযোগ নয়"
+        },
+        "p": [
+          {
+            "en": "This must be said firmly. 'Ad are a people the Qur'an records as denying Hud and being destroyed, in 26:139. The verse describes what it describes: their prophet's charge against them for how their hands came down on others. It licenses nothing against any living person, any present-day people or nation, and any ruler or government, and no one may lift it to brand those they oppose. Even al-Qurtubi's lament belonged to his own time and place; it is reported here as his, and carried no further.",
+            "bn": "কথাটা দৃঢ়ভাবে বলা দরকার। কুরআন জানায়, ‘আদ হূদ (আঃ)-কে মিথ্যা বলেছিল আর ধ্বংস হয়েছিল, ২৬:১৩৯ আয়াতে। আয়াতটি কেবল তা-ই বর্ণনা করে, যা এতে আছে: অন্যদের উপর তাদের হাত কীভাবে নেমে আসত, সে জন্য তাদের নবীর অভিযোগ। আজকের কোনো জীবিত মানুষ, কোনো জাতি বা দেশ, কোনো শাসক বা সরকারের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিপক্ষের গায়ে তকমা লাগাতে কেউ একে তুলে ধরতে পারে না। কুরতুবীর আক্ষেপও ছিল তাঁর নিজের কাল ও দেশের। এখানে তা তাঁর কথা হিসেবেই জানানো হলো, এর বেশি টানা হলো না।"
+          },
+          {
+            "en": "What the verse leaves is an admonition, and the readings above turn it on the reader's own hand. Do I strike without right? In anger, without checking first? Do I punish the slip and the deliberate wrong alike, with no pardon? Al-Qurtubi's ladder starts at the shove, so the question reaches anyone with a little power over a child, a worker or a pupil. And Hud's remedy follows at once in 26:131: fear Allah and obey me. Strength held in that fear is checked before the hand comes down.",
+            "bn": "আয়াতটি রেখে যায় একটি উপদেশ, আর উপরের ব্যাখ্যাগুলো সেটাকে পাঠকের নিজের হাতের দিকে ঘুরিয়ে দেয়। আমি কি হক ছাড়া আঘাত করি? রাগের মাথায়, আগে যাচাই না করে? ভুল আর জেনেবুঝে করা অন্যায়, দুটোর কি একই সাজা দিই, মাফের কোনো সুযোগ না রেখে? কুরতুবীর সিঁড়ি শুরু হয় ধাক্কা থেকে। তাই প্রশ্নটা পৌঁছে যায় সন্তান, কর্মচারী বা ছাত্রের উপর সামান্য ক্ষমতা রাখা যে কারও কাছে। আর হূদ (আঃ)-এর দাওয়াই আসে সঙ্গে সঙ্গেই, ২৬:১৩১ আয়াতে: আল্লাহকে ভয় করো আর আমার আনুগত্য করো। এই ভয়ে ধরে রাখা শক্তি হাত নামার আগেই থেমে যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "26:133": {
     "sections": [
       {
