@@ -33623,6 +33623,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Satan rules only those who hand him the reins by obeying him; rely on your Lord and seek His refuge, and his grip finds nothing in you to hold.",
     "lessonBn": "শয়তানের হুকুম চলে কেবল তাদের উপর, যারা তার কথা মেনে নিজেরাই লাগাম তার হাতে তুলে দেয়। রবের উপর ভরসা রাখুন, তাঁর আশ্রয় চান, তাহলে আপনার মধ্যে আঁকড়ে ধরার মতো কিছুই সে পাবে না।"
+  },
+  "16:112": {
+    "reflectionEn": "A town no raider touched while the tribes around it raided one another. Its people never had to move in search of pasture, and food reached it from every road. Safety and provision, the two things people pray for first, it had without asking. Then it met those favours with denial, and both were turned inside out: hunger in place of plenty, fear in place of rest. The verse calls them a garment, something that clings to the body, and says the town was made to taste it. The parable is not told so that I can point at some city. It is told so that I look at what I am wearing now. Is my safety, my full table, answered with thanks, or simply taken as owed?",
+    "reflectionBn": "এমন এক জনপদ, চারপাশের গোত্রগুলো যখন একে অন্যের উপর হামলা চালাত, তখনও কেউ তার গায়ে হাত দিত না। ঘাস-পানির খোঁজে তার লোকদের কোথাও সরে যেতে হতো না, আর খাবার আসত সব পথ ধরে। নিরাপত্তা আর রিযক, মানুষ যে দুটো জিনিস সবার আগে চায়, তা সে না চাইতেই পেয়েছিল। তারপর সে এই নিয়ামতের জবাব দিল অস্বীকার দিয়ে, আর দুটোই উল্টে গেল। প্রাচুর্যের জায়গায় এল ক্ষুধা, স্বস্তির জায়গায় ভয়। আয়াত এদের বলছে পোশাক, যা শরীরে লেপ্টে থাকে, আর বলছে জনপদটিকে তার স্বাদ নিতে হলো। কোনো শহরের দিকে আঙুল তোলার জন্য এ দৃষ্টান্ত নয়। এ দৃষ্টান্ত আমাকে দেখতে বলে, এই মুহূর্তে আমি কী পরে আছি। আমার নিরাপত্তা, আমার ভরা দস্তরখান, এর জবাবে কি শুকরিয়া যাচ্ছে, নাকি আমি এগুলোকে নিজের পাওনা ধরে নিয়েছি?",
+    "pointsEn": [
+      "Which favours in my life have become so ordinary that I no longer notice them, let alone thank Allah for them?",
+      "When I feel safe, whom do I credit: my locks, my savings and my connections, or the One who gave me all of them?",
+      "What would gratitude look like in my habits this week, beyond saying alhamdulillah?",
+      "When I hear of hunger or fear striking a people, do I hold back from calling it their punishment, knowing that only revelation could say so?",
+      "If the favour I take most for granted were lifted tomorrow, what would I wish I had done with it today?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন নিয়ামতগুলো এতই সাধারণ হয়ে গেছে যে চোখেই পড়ে না, আল্লাহর শুকরিয়া আদায় তো দূরের কথা?",
+      "নিজেকে নিরাপদ মনে হলে কৃতিত্বটা কাকে দিই: আমার তালা, সঞ্চয় আর চেনাজানাকে, নাকি যিনি এসব দিয়েছেন তাঁকে?",
+      "শুধু আলহামদুলিল্লাহ বলার বাইরে, এ সপ্তাহে আমার অভ্যাসে শুকরিয়া দেখতে কেমন হবে?",
+      "কোনো জাতির উপর ক্ষুধা বা ভয় নেমে এসেছে শুনলে আমি কি একে তাদের শাস্তি বলা থেকে বিরত থাকি? এমন কথা তো কেবল ওহিই বলতে পারে।",
+      "যে নিয়ামতকে আমি সবচেয়ে বেশি অবধারিত ধরে নিয়েছি, কাল যদি তা তুলে নেওয়া হয়, তবে আজ তা দিয়ে কী করে রাখলে ভালো হতো?"
+    ],
+    "lessonEn": "Answer the safety and provision you have with thanks to Allah, for the same favours, met with denial, can be turned into their opposites.",
+    "lessonBn": "যে নিরাপত্তা আর রিযক আপনার আছে, তার জবাব দিন আল্লাহর শুকরিয়া দিয়ে। অস্বীকারের জবাব পেলে এই নিয়ামতই উল্টে গিয়ে বিপরীত রূপ নিতে পারে।"
   }
 };
 

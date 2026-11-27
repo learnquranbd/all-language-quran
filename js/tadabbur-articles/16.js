@@ -5775,6 +5775,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:112": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Parable Is Struck",
+          "bn": "দৃষ্টান্তটি কোথায় এসে বসে"
+        },
+        "p": [
+          {
+            "en": "Wa-daraba Allahu mathalan qaryatan: and Allah strikes a parable, a town. The verse before it pictures the Day when every soul comes pleading for itself and each is paid in full for what it did, and none is wronged (16:111). Then the surah turns from that Day to a scene in this world. Al-Qurtubi ties the parable to what came before it: it is joined, he says, to the mention of the idolaters, and the verses just before it, 16:106 to 16:109, have spoken of wrath and loss for those who chose disbelief.",
+            "bn": "ওয়া দারাবাল্লাহু মাসালান কারইয়াতান: আল্লাহ একটি দৃষ্টান্ত দিচ্ছেন, এক জনপদের। আগের আয়াতে সেই দিনের ছবি, যেদিন প্রত্যেকে নিজের পক্ষে যুক্তি নিয়ে হাজির হবে, প্রত্যেকে নিজের আমলের পুরো প্রতিদান পাবে, কারও উপর যুলম হবে না (১৬:১১১)। তারপর সূরা সেই দিন থেকে চোখ ফেরায় এই দুনিয়ার এক দৃশ্যে। কুরতুবী দৃষ্টান্তটিকে আগের আলোচনার সঙ্গে জুড়ে দেন। তাঁর ভাষায়, এটি মুশরিকদের প্রসঙ্গের সঙ্গে যুক্ত। ঠিক আগের ১৬:১০৬ থেকে ১৬:১০৯ আয়াতে এসেছে কুফরি বেছে নেওয়া লোকদের গযব আর ক্ষতির কথা।"
+          },
+          {
+            "en": "The parable is short and moves in four steps: what the town had, what it did, what it was made to taste, and why. Two blessings are named first, safety and provision; two afflictions come at the end, hunger and fear, and each answers one of the first pair. The next verse, 16:113, then gives the cause in plain words: a messenger from among themselves came to them and they called him a liar. And 16:114 turns to the listener: so eat of what Allah has provided you, and be grateful for His favour.",
+            "bn": "দৃষ্টান্তটি ছোট, চলে চারটি ধাপে। জনপদটির কী ছিল, সে কী করল, তাকে কীসের স্বাদ নিতে হলো, আর কেন। শুরুতে দুটি নিয়ামতের নাম: নিরাপত্তা আর রিযক। শেষে দুটি বিপদ: ক্ষুধা আর ভয়। প্রথম জোড়ার প্রতিটির মুখোমুখি দাঁড়িয়ে আছে দ্বিতীয় জোড়ার একটি। পরের আয়াত, ১৬:১১৩, কারণটা খোলাখুলি বলে দেয়: তাদের মধ্য থেকেই তাদের কাছে একজন রসূল এসেছিলেন, আর তারা তাঁকে মিথ্যাবাদী বলেছিল। তারপর ১৬:১১৪ ফেরে শ্রোতার দিকে: আল্লাহ তোমাদের যে রিযক দিয়েছেন তা খাও, আর তাঁর নিয়ামতের শুকরিয়া আদায় করো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Safe Where Others Were Raided",
+          "bn": "চারপাশে হামলা, ভেতরে নিরাপদ"
+        },
+        "p": [
+          {
+            "en": "Aminatan, safe. At-Tabari spells out what that safety was. The Arabs were at enmity with one another; they killed one another and carried one another off as captives, while the people of Makkah were not raided and were not fought in their own land. That, he says, was its safety. Ibn Kathir agrees: people were snatched away all around it, and whoever entered it was safe. He cites 28:57, where some fear being snatched from their land if they follow the guidance, and are reminded of a secure sanctuary.",
+            "bn": "আমিনাতান, নিরাপদ। এই নিরাপত্তা কেমন ছিল, তাবারী তা খুলে বলেন। আরবরা তখন একে অন্যের শত্রু। তারা পরস্পরকে হত্যা করত, একে অন্যের লোক বন্দী করে নিয়ে যেত। অথচ মক্কাবাসীর উপর কেউ হামলা করত না, তাদের নিজেদের শহরে কেউ তাদের সঙ্গে যুদ্ধে নামত না। তাবারী বলেন, এটাই ছিল তার নিরাপত্তা। ইবন কাসীরও একই কথা বলেন। চারপাশ থেকে মানুষকে ছিনিয়ে নেওয়া হতো, আর যে এর ভেতরে ঢুকত সে নিরাপদ। তিনি ২৮:৫৭ আনেন। সেখানে কিছু লোক বলে, হিদায়াত মানলে তাদের নিজের ভূমি থেকে ছিনিয়ে নেওয়া হবে। আর তাদের মনে করিয়ে দেওয়া হয় এক নিরাপদ হারামের কথা।"
+          },
+          {
+            "en": "Mutma'innatan, at rest. At-Tabari and al-Baghawi give the same gloss: settled with its people, who had no need to move away in search of pasture as the dwellers of the desert did. The Muyassar divides the two words by what each guards against: safety from aggression, and rest from a straitened life. So the first word keeps the sword away from the town, and the second spares it the long march after grass and water.",
+            "bn": "মুতমাইন্নাতান, স্থির ও নিশ্চিন্ত। তাবারী আর বাগাভী একই ব্যাখ্যা দেন: জনপদটি তার লোকজন নিয়ে এক জায়গায় থিতু। মরুবাসীরা যেমন চারণভূমির খোঁজে এদিক-ওদিক সরে যেত, এদের তেমন দরকার পড়ত না। মুয়াসসার দুটি শব্দকে ভাগ করে দেয়, কোনটি কী থেকে রক্ষা করে সেই হিসাবে। একটি আগ্রাসন থেকে নিরাপত্তা, অন্যটি টানাটানির জীবন থেকে স্বস্তি। প্রথম শব্দ তলোয়ারকে শহর থেকে দূরে রাখে। দ্বিতীয় শব্দ তাকে ঘাস-পানির পেছনে দীর্ঘ যাত্রা থেকে রেহাই দেয়।"
+          },
+          {
+            "en": "As-Sa'di gives the most vivid picture. Even the Jahiliyya in its ignorance held the town sacred, so that a man would come upon the killer of his father or his brother there and not stir against him, for all their fierce pride and Arab zeal. The town gained, he says, a complete safety that no other place had, and a wide provision as well. That detail matters for the parable. The safety was not something the townspeople had built. It was a gift laid on them, honoured even by men who kept no other restraint.",
+            "bn": "সবচেয়ে জীবন্ত ছবিটা আঁকেন সা'দী। অজ্ঞতার সেই জাহিলি যুগও এই শহরকে সম্মান করত। কেউ সেখানে নিজের বাবা বা ভাইয়ের হত্যাকারীকে পেয়েও তার দিকে হাত বাড়াত না, অথচ তাদের বংশগৌরব আর আরবীয় জেদ ছিল প্রচণ্ড। সা'দী বলেন, এ শহর এমন পূর্ণ নিরাপত্তা পেয়েছিল যা আর কোথাও মেলেনি, সঙ্গে প্রশস্ত রিযকও। দৃষ্টান্তের জন্য এ খুঁটিনাটি গুরুত্বপূর্ণ। নিরাপত্তাটা শহরবাসীর নিজের গড়া ছিল না। এ ছিল তাদের উপর রাখা এক দান, যাকে সম্মান করত এমন লোকেরাও, যারা আর কোনো বাঁধন মানত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Provision From Every Pass",
+          "bn": "সব গিরিপথ বেয়ে আসা রিযক"
+        },
+        "p": [
+          {
+            "en": "Ya'tiha rizquha raghadan min kulli makan: its provision came to it in abundance from every place. Ibn Kathir reads raghadan as pleasant and easy; at-Tabari as livelihoods reaching its people wide and plentiful. For min kulli makan, at-Tabari stays close to the ground: from every pass among the passes leading to this town, from every side of it. Al-Qurtubi and al-Baghawi widen it to land and sea, and both set beside it the same parallel from 28:57: to it are brought the fruits of everything.",
+            "bn": "ইয়া'তীহা রিযকুহা রাগাদান মিন কুল্লি মাকান: সব জায়গা থেকে তার রিযক আসত প্রচুর পরিমাণে। ইবন কাসীর রাগাদান-এর অর্থ করেন তৃপ্তিকর ও সহজ। তাবারীর ব্যাখ্যায়, এর বাসিন্দাদের কাছে জীবিকা পৌঁছাত প্রশস্ত হয়ে, প্রচুর পরিমাণে। মিন কুল্লি মাকান-এর বেলায় তাবারী মাটির কাছাকাছি থাকেন: এই জনপদের দিকে যাওয়া প্রতিটি গিরিপথ থেকে, তার প্রতিটি দিক থেকে। কুরতুবী আর বাগাভী একে ছড়িয়ে দেন স্থল ও সমুদ্র পর্যন্ত। দুজনেই পাশে রাখেন ২৮:৫৭ আয়াতের একই মিল: সেখানে আনা হয় সব রকমের ফল।"
+          },
+          {
+            "en": "As-Sa'di notices what makes this remarkable. It was a town with no crops and no trees, yet Allah made its provision easy, coming to it from every place. The verb is quiet: the provision came to it, ya'tiha. The town did not go out and wrest its food from the land, for the land had nothing to give. The parable is built on that dependence. A people fed from outside, along roads they did not own, were living on a favour every day of the year, whether they called it that or not.",
+            "bn": "ব্যাপারটা কেন বিস্ময়কর, সা'দী তা ধরিয়ে দেন। শহরটিতে না ছিল ফসল, না গাছপালা। তবু আল্লাহ তার রিযক সহজ করে দিয়েছিলেন, তা আসত সব জায়গা থেকে। ক্রিয়াটি নীরব: ইয়া'তীহা, রিযক নিজেই তার কাছে আসত। শহরটি মাটি থেকে খাবার আদায় করতে বের হয়নি, কারণ মাটির দেওয়ার মতো কিছু ছিল না। পুরো দৃষ্টান্ত দাঁড়িয়ে আছে এই নির্ভরতার উপর। যাদের খাবার আসে বাইরে থেকে, এমন পথ বেয়ে যা তাদের মালিকানায় নেই, তারা বছরের প্রতিটি দিন এক নিয়ামতের উপর বেঁচে থাকে। তারা একে নিয়ামত বলে মানুক বা না মানুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Makkah, Madinah, or Any Town",
+          "bn": "মক্কা, মদিনা, নাকি যেকোনো জনপদ"
+        },
+        "p": [
+          {
+            "en": "Which town is it? At-Tabari names Makkah, where its idolaters lived, and says the people of interpretation held this: from Ibn 'Abbas (RA), it means Makkah; from Mujahid, by two chains, Makkah; from Qatada, we were told it is Makkah; from Ibn Zayd, this is Makkah. Ibn Kathir calls it a parable meant for the people of Makkah and names the same view from al-'Awfi from Ibn 'Abbas, Mujahid, Qatada and 'Abd ar-Rahman ibn Zayd, adding that Malik narrated it from az-Zuhri. Al-Baghawi, as-Sa'di and the Muyassar all write Makkah.",
+            "bn": "জনপদটি কোনটি? তাবারী নিজের ভাষায় মক্কার নাম নেন, যে শহরে তখন মুশরিকরা থাকত। তিনি বলেন, তাফসীরের আলিমরা এ কথাই বলেছেন। তারপর বর্ণনাগুলো দেন। ইবন আব্বাস (রাঃ) থেকে: এর অর্থ মক্কা। মুজাহিদ থেকে, দুই সনদে: মক্কা। কাতাদা থেকে: আমাদের জানানো হয়েছে, এটি মক্কা। ইবন যায়দ থেকে: এ হলো মক্কা। ইবন কাসীর একে মক্কাবাসীর উদ্দেশে দেওয়া দৃষ্টান্ত বলেন। একই মত তিনি উল্লেখ করেন আওফীর সূত্রে ইবন আব্বাস থেকে, আর মুজাহিদ, কাতাদা ও আবদুর রহমান ইবন যায়দ থেকে। সঙ্গে জানান, মালিক এটি যুহরী থেকে বর্ণনা করেছেন। বাগাভী, সা'দী ও মুয়াসসার সবাই লেখেন মক্কা।"
+          },
+          {
+            "en": "At-Tabari also records a second view: others said the town is the city of the Messenger ﷺ, Madinah. He gives it with his chain from Sulaym ibn Numayr, returning from Hajj with Hafsa (RA), the Prophet's wife, while 'Uthman (RA) was besieged in Madinah. When two riders told her he had been killed, she swore that it was the town, meaning Madinah, and recited the verse. Al-Qurtubi gives this view under it has been said, explains it by the killing of 'Uthman and the trials in Madinah after the Prophet ﷺ, and names it as the saying of 'A'isha and Hafsa.",
+            "bn": "তাবারী একটি দ্বিতীয় মতও লিখে রাখেন: অন্যরা বলেছেন, জনপদটি রসূল ﷺ-এর শহর, মদিনা। তিনি এটি দেন নিজের সনদে সুলাইম ইবন নুমাইর থেকে। তিনি হজ থেকে ফিরছিলেন নবীপত্নী হাফসা (রাঃ)-এর সঙ্গে, আর তখন উসমান (রাঃ) মদিনায় অবরুদ্ধ। দুজন আরোহী এসে খবর দিল, তাঁকে হত্যা করা হয়েছে। তখন হাফসা (রাঃ) কসম করে বললেন, এটাই সেই জনপদ, অর্থাৎ মদিনা, আর আয়াতটি তিলাওয়াত করলেন। কুরতুবী মতটি আনেন 'বলা হয়েছে' দিয়ে। তিনি এর ব্যাখ্যা দেন উসমান (রাঃ)-এর হত্যা আর নবী ﷺ-এর পরে মদিনায় ঘটা ফিতনা দিয়ে, আর একে আয়েশা ও হাফসার উক্তি বলে উল্লেখ করেন।"
+          },
+          {
+            "en": "A third reading frees the parable from any one place. Al-Qurtubi gives it last, again under it has been said: a parable struck for any town of this description. Ma'arif al-Qur'an goes further, saying that according to leading authorities the similitude is general and does not relate to a particular place, while others connect it with Makkah's seven-year famine. Al-Qurtubi also holds a view between the two: Makkah is a parable for other lands, for if a town beside the House of Allah met drought when its people denied, what of other towns? The sources keep the views side by side.",
+            "bn": "তৃতীয় এক পাঠ দৃষ্টান্তটিকে কোনো এক জায়গায় বেঁধে রাখে না। কুরতুবী এটি দেন সবার শেষে, সেই 'বলা হয়েছে' দিয়েই: যেকোনো জনপদ, যার এমন অবস্থা, তার জন্য দেওয়া দৃষ্টান্ত। মাআরিফুল কুরআন আরও এক ধাপ এগিয়ে বলে, প্রধান তাফসীরকারদের মতে দৃষ্টান্তটি সাধারণ, কোনো নির্দিষ্ট বসতির সঙ্গে যুক্ত নয়। আর অন্যরা একে মক্কার সাত বছরের দুর্ভিক্ষের সঙ্গে যুক্ত করেন। কুরতুবীর দুই মতের মাঝামাঝি একটি অবস্থানও আছে। মক্কাকে অন্য শহরগুলোর জন্য দৃষ্টান্ত বানানো হয়েছে। আল্লাহর ঘরের পাশের শহরটিও যদি অস্বীকারের পর খরায় পড়ে, তবে অন্য জনপদের কী দশা হবে? সূত্রগুলো মতগুলোকে পাশাপাশিই রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An'um, Favours in the Plural",
+          "bn": "আনউম: বহুবচনের নিয়ামত"
+        },
+        "p": [
+          {
+            "en": "Fa-kafarat bi-an'umi Allah: then it denied the favours of Allah. The grammarians at-Tabari cites differ over the singular of an'um. Some Basrans made it the plural of ni'ma, as ashudd, in until he reached his ashudd, is the plural of shidda. Another made the singular nu'm, comfort, so that the town denied Allah's comfort to it. Some Kufans made it the plural of na'ma', like ba'sa' and ab'us. Al-Qurtubi gives the plural of ni'ma first and then, under it is said, of nu'ma; al-Baghawi, of ni'ma and then of na'ma'. Whatever the singular, the word is plural.",
+            "bn": "ফাকাফারাত বিআনউমিল্লাহ: তারপর সে আল্লাহর নিয়ামতগুলো অস্বীকার করল। আনউম শব্দের একবচন কী, তা নিয়ে তাবারী যেসব ব্যাকরণবিদের কথা আনেন, তাঁদের মধ্যে মতভেদ আছে। বসরার কেউ কেউ একে নি'মা-র বহুবচন ধরেছেন, যেমন 'যখন সে তার আশুদ্দে পৌঁছল' আয়াতের আশুদ্দ শব্দটি শিদ্দা-র বহুবচন। আরেকজন একবচন ধরেছেন নু'ম, অর্থাৎ আরাম ও সুখ। তাহলে অর্থ দাঁড়ায়, জনপদটি তার প্রতি আল্লাহর দেওয়া সুখ অস্বীকার করল। কুফার কেউ কেউ একে না'মা-র বহুবচন বলেছেন, যেমন বা'সা থেকে আবউস। কুরতুবী প্রথমে নি'মা-র বহুবচনের কথা বলেন, তারপর 'বলা হয়' দিয়ে নু'মা-র। বাগাভী বলেন নি'মা, তারপর না'মা। একবচন যা-ই হোক, শব্দটি বহুবচন।"
+          },
+          {
+            "en": "What was the denial? The Muyassar names three things: its people rejected Allah's favours to them, set up partners with Him, and did not thank Him. Ibn Kathir says they denied Allah's gifts to them, the greatest of which was the sending of Muhammad ﷺ to them, and cites 14:28 and 14:29: those who exchanged the favour of Allah for disbelief and settled their people in the abode of ruin. Al-Qurtubi is the shortest: this ingratitude was the denial of Muhammad ﷺ. On these readings the messenger was himself the largest favour, and refusing him was refusing it.",
+            "bn": "অস্বীকারটা কী ছিল? মুয়াসসার তিনটি কথা বলে। এর বাসিন্দারা তাদের প্রতি আল্লাহর নিয়ামত অস্বীকার করল, তাঁর সঙ্গে শরীক করল, আর তাঁর শুকরিয়া আদায় করল না। ইবন কাসীর বলেন, তারা নিজেদের প্রতি আল্লাহর দানগুলো অস্বীকার করেছিল, যার মধ্যে সবচেয়ে বড় দান ছিল তাদের কাছে মুহাম্মাদ ﷺ-কে পাঠানো। তিনি আনেন ১৪:২৮ ও ১৪:২৯: যারা আল্লাহর নিয়ামতকে বদলে দিয়েছে কুফরি দিয়ে, আর নিজেদের জাতিকে নামিয়ে এনেছে ধ্বংসের ঘরে। কুরতুবীর কথা সবচেয়ে ছোট: এই অকৃতজ্ঞতা ছিল মুহাম্মাদ ﷺ-কে মিথ্যা বলা। এ ব্যাখ্যাগুলো অনুযায়ী রসূল নিজেই ছিলেন সবচেয়ে বড় নিয়ামত। তাঁকে ফিরিয়ে দেওয়া মানে সেই নিয়ামতকেই ফিরিয়ে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Garment Made to Be Tasted",
+          "bn": "যে পোশাকের স্বাদ নিতে হয়"
+        },
+        "p": [
+          {
+            "en": "Fa-adhaqaha Allahu libasa al-ju'i wa-l-khawf: so Allah made it taste the garment of hunger and fear. A garment is worn, not tasted. Al-Qurtubi explains both words. Tasting is first done with the mouth and is then borrowed and set in the place of trial; the hunger is called a garment because emaciation, pallor and a wretched state showed on them like clothing. Al-Baghawi gives the same reason. At-Tabari puts the image inside the body: a hunger whose harm mixed with their bodies, so that Allah made it, for that mixing, like a garment to them.",
+            "bn": "ফাআযাকাহাল্লাহু লিবাসাল জূয়ি ওয়াল খাওফ: তখন আল্লাহ তাকে ক্ষুধা ও ভয়ের পোশাকের স্বাদ নেওয়ালেন। পোশাক তো পরার জিনিস, চেখে দেখার নয়। কুরতুবী দুটি শব্দেরই ব্যাখ্যা দেন। স্বাদ নেওয়া আসলে মুখের কাজ, পরে শব্দটিকে ধার করে পরীক্ষার জায়গায় বসানো হয়। আর ক্ষুধাকে পোশাক বলা হয়েছে, কারণ শীর্ণতা, ফ্যাকাশে রং আর দুর্দশা তাদের গায়ে ফুটে উঠেছিল পোশাকের মতো। বাগাভীও একই কারণ বলেন। তাবারী ছবিটাকে নিয়ে যান শরীরের ভেতরে। এ এমন ক্ষুধা, যার কষ্ট তাদের দেহের সঙ্গে মিশে গিয়েছিল। এই মিশে যাওয়ার কারণেই আল্লাহ একে তাদের জন্য পোশাকের মতো করে দিলেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, quoting Mazhari, reads the garment as something spread wide and enveloping, as clothing becomes almost part of the body. As-Sa'di reads the pair as a reversal: hunger, the opposite of plenty, and fear, the opposite of safety. Ibn Kathir likewise says Allah replaced their two former states with their opposites. Al-Qurtubi also records a reading with wa-l-khawfa in the accusative, from al-Hasan, Ibn Abi Ishaq and others: He made them taste the garment of hunger, and made them taste fear. Worn or tasted, the affliction was not something they watched from afar.",
+            "bn": "মাআরিফুল কুরআন মাযহারীর বরাতে পোশাক বলতে বোঝে এমন কিছু, যা চারদিকে ছড়িয়ে পড়ে পুরোপুরি ঢেকে ফেলে, যেভাবে পোশাক প্রায় শরীরেরই অংশ হয়ে যায়। সা'দী জোড়াটিকে পড়েন উল্টে যাওয়া হিসেবে। ক্ষুধা এল প্রাচুর্যের বিপরীত হয়ে, ভয় এল নিরাপত্তার বিপরীত হয়ে। ইবন কাসীরও বলেন, আল্লাহ তাদের আগের দুই অবস্থাকে বদলে দিলেন ঠিক তাদের বিপরীত দিয়ে। কুরতুবী আরেকটি কিরাআতও উল্লেখ করেন, যেখানে ওয়াল খাওফা শব্দটি যবর দিয়ে পড়া হয়। এটি হাসান, ইবন আবী ইসহাক ও আরও কয়েকজনের পাঠ। তখন অর্থ হয়: তিনি তাদের ক্ষুধার পোশাকের স্বাদ নেওয়ালেন, আর ভয়েরও স্বাদ নেওয়ালেন। পরা হোক বা চাখা, এ বিপদ তারা দূর থেকে দেখেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hunger Called Down on Quraysh",
+          "bn": "কুরাইশের উপর নেমে আসা দুর্ভিক্ষ"
+        },
+        "p": [
+          {
+            "en": "The commentators who read the town as Makkah name the hunger. Ibn Kathir: when its people defied the Messenger of Allah ﷺ and would have nothing but opposition to him, he prayed against them for seven like the seven of Yusuf (AS), and a year struck them that took away everything they had, until they ate 'ilhiz, camel hair mixed with its blood. At-Tabari has hunger set on them for years in succession, by the Prophet's du'a, until they ate 'ilhiz and carrion. Al-Baghawi adds burnt bones and dead dogs.",
+            "bn": "যাঁরা জনপদটিকে মক্কা বলে পড়েন, তাঁরা ক্ষুধাটিরও পরিচয় দেন। ইবন কাসীর বলেন, এর বাসিন্দারা যখন আল্লাহর রসূল ﷺ-এর অবাধ্য হলো, তাঁর বিরোধিতা ছাড়া আর কিছুতেই রাজি হলো না, তখন তিনি তাদের বিরুদ্ধে দোয়া করলেন ইউসুফ (আঃ)-এর সাতটি বছরের মতো সাতটি বছরের জন্য। এক বছর তাদের উপর এমন আঘাত হানল যে তাদের সবকিছু শেষ হয়ে গেল। শেষে তারা খেল ইলহিয, উটের পশম তার রক্তে মেখে। তাবারীর বর্ণনায়, নবী ﷺ-এর দোয়ায় তাদের উপর বছরের পর বছর ক্ষুধা চাপিয়ে দেওয়া হলো। তারা ইলহিয আর মরা পশু খেতে বাধ্য হলো। বাগাভী এর সঙ্গে যোগ করেন পোড়া হাড় আর মরা কুকুর।"
+          },
+          {
+            "en": "The famine itself is in Sahih al-Bukhari 4693, from 'Abdullah ibn Mas'ud (RA), though al-Bukhari places it under Surat ad-Dukhan, not under this verse: \"When the Prophet ﷺ realized that the Quraish had delayed in embracing Islam, he said, 'O Allah! Protect me against their evil by afflicting them with seven (years of famine) like the seven years of (Prophet) Joseph.' So they were struck with a year of famine that destroyed everything till they had to eat bones, and till a man would look towards the sky and see something like smoke between him and it.\" The narration continues with 44:10 and 44:15.",
+            "bn": "দুর্ভিক্ষের ঘটনাটি আছে সহীহ বুখারী ৪৬৯৩-এ, আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে। তবে বুখারী এটি রেখেছেন সূরা দুখানের অধীনে, এই আয়াতের অধীনে নয়: \"কুরাইশরা ইসলাম গ্রহণে দেরি করছে দেখে নবী ﷺ বললেন, 'হে আল্লাহ! ইউসুফের সাতটি বছরের মতো সাতটি বছর দিয়ে তাদের বিরুদ্ধে আমার জন্য যথেষ্ট হয়ে যান।' তখন তাদের উপর এমন এক বছর এল, যা সবকিছু নিঃশেষ করে দিল। শেষে তারা হাড় খেতে লাগল। কেউ আকাশের দিকে তাকালে নিজের আর আকাশের মাঝে ধোঁয়ার মতো কিছু দেখত।\" বর্ণনাটি এরপর ৪৪:১০ ও ৪৪:১৫ আয়াতে গিয়ে শেষ হয়।"
+          },
+          {
+            "en": "Al-Baghawi records how it eased. The chiefs of Makkah spoke to the Messenger ﷺ: you have made enemies of the men, so what of the women and children? He allowed people to carry food to them while they were still idolaters, and al-Qurtubi likewise says he sent them food that was shared out among them. The fear, for at-Tabari, al-Qurtubi, al-Baghawi and the Muyassar, was of the Prophet's raiding parties circling them. Ibn Kathir's abridged English places it after the emigration to Madinah, lasting until Makkah was opened.",
+            "bn": "কষ্টটা কীভাবে কমল, বাগাভী তা লিখে রাখেন। মক্কার নেতারা রসূল ﷺ-কে বলল, শত্রুতা তো আপনার পুরুষদের সঙ্গে, তাহলে নারী আর শিশুদের দোষ কী? তখন তারা মুশরিক থাকা অবস্থাতেই তিনি লোকদের অনুমতি দিলেন তাদের কাছে খাবার নিয়ে যেতে। কুরতুবীও বলেন, তিনি তাদের কাছে খাবার পাঠালেন, আর তা তাদের মধ্যে বণ্টন করা হলো। আর ভয় বলতে তাবারী, কুরতুবী, বাগাভী ও মুয়াসসার বোঝান নবী ﷺ-এর ছোট ছোট সেনাদল, যারা তাদের চারপাশে ঘুরে বেড়াত। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এই ভয়কে রাখে মদিনায় হিজরতের পরে, যা চলেছিল মক্কা বিজয় পর্যন্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Its People, and No One Else",
+          "bn": "তার বাসিন্দারা, আর কেউ নয়"
+        },
+        "p": [
+          {
+            "en": "Bima kanu yasna'un: for what they used to do. Until here the verse speaks of the town in the feminine singular: it was safe, it denied, He made it taste. Then the pronoun turns plural. At-Tabari explains the turn: the town was named in place of its people because listeners knew who was meant, so the report returns to the people. He sets beside it 7:4, where Our punishment came to it by night, or while they rested at midday. What they used to do, he says, was denying Allah's favours, rejecting His signs and calling His messenger a liar.",
+            "bn": "বিমা কানূ ইয়াসনাঊন: তারা যা করত তার কারণে। এ পর্যন্ত আয়াত জনপদটির কথা বলেছে স্ত্রীলিঙ্গ একবচনে: সে নিরাপদ ছিল, সে অস্বীকার করল, তিনি তাকে স্বাদ নেওয়ালেন। এখানে এসে সর্বনাম বহুবচন হয়ে যায়। তাবারী এর কারণ বলেন। শ্রোতারা জানত কাদের কথা হচ্ছে, তাই বাসিন্দাদের বদলে জনপদের নাম নেওয়া হয়েছে। শেষে কথাটা ফিরে গেছে বাসিন্দাদের দিকেই। তিনি পাশে রাখেন ৭:৪ আয়াত: আমার শাস্তি তার উপর এল রাতে, অথবা যখন তারা দুপুরে বিশ্রামে ছিল। আর তারা যা করত, তাবারীর ভাষায়, তা ছিল আল্লাহর নিয়ামত অস্বীকার, তাঁর আয়াত প্রত্যাখ্যান আর তাঁর রসূলকে মিথ্যাবাদী বলা।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: a town given safety and provision whose people denied Allah's favours and His messenger, and tasted hunger and fear. It licenses nothing against any living person or community. It names no city of today, and it gives no one the right to read a famine, a war or a siege anywhere now as a verdict on the people who suffer it. In 2:155 Allah tells the believers He will test them with fear and hunger too. What the parable asks of its listener is 16:114: eat of what Allah has provided, and thank Him.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা পাঠে আছে। একটি জনপদ নিরাপত্তা আর রিযক পেয়েছিল, তার বাসিন্দারা আল্লাহর নিয়ামত আর তাঁর রসূলকে অস্বীকার করেছিল, তারপর ক্ষুধা ও ভয়ের স্বাদ পেয়েছিল। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো শহরের নাম এতে নেই। আজ কোথাও দুর্ভিক্ষ, যুদ্ধ বা অবরোধ হলে তাকে ভুক্তভোগীদের উপর আল্লাহর রায় বলে পড়ার অধিকারও এটি কাউকে দেয় না। ২:১৫৫ আয়াতে আল্লাহ মুমিনদেরও বলেছেন, তিনি তাদের ভয় ও ক্ষুধা দিয়ে পরীক্ষা করবেন। দৃষ্টান্তটি শ্রোতার কাছে যা চায়, তা ১৬:১১৪ আয়াতেই আছে: আল্লাহর দেওয়া রিযক খাও, আর তাঁর শুকরিয়া আদায় করো।"
+          }
+        ]
+      }
+    ]
+  },
   "16:114": {
     "sections": [
       {
