@@ -34939,6 +34939,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The religion of every messenger is one; do not cut it into pieces, and do not let pleasure in your own side stand in for following the way the messengers taught.",
     "lessonBn": "সব রসূলের দীন একটাই। একে টুকরো টুকরো করবেন না, আর নিজের দল নিয়ে তৃপ্তিকে রসূলদের দেখানো পথে চলার বদলি বানাবেন না।"
+  },
+  "23:79": {
+    "reflectionEn": "Seven Arabic words hold the whole shape of a life. It is He who dispersed you through the earth: born in one town, raised in another, moving for work, for study or for safety, until one family is spread across cities and continents. And to Him you will be gathered. Every scattering ends in a single assembly, and no one is missed in it. The ground where I was placed is not an exile; it was made fit to live on, its benefits laid open for use. Yet it is also where my deeds are done, and the earth keeps their record. Wherever I have been sent, I am still on the way back to Him. Do I live here as if this were the destination?",
+    "reflectionBn": "আরবি সাতটি শব্দে একটা গোটা জীবনের নকশা ধরা আছে। তিনিই তোমাদের পৃথিবীতে ছড়িয়ে দিয়েছেন। কেউ জন্মায় এক শহরে, বড় হয় আরেক শহরে। কাজের খোঁজে, পড়ার জন্য বা নিরাপত্তার আশায় মানুষ সরে যায়। একসময় একই পরিবারের লোক ছড়িয়ে পড়ে নানা শহরে, নানা মহাদেশে। আর তাঁর কাছেই তোমাদের একত্র করা হবে। সব ছড়িয়ে পড়ার শেষ এক জমায়েতে, আর সেখানে কেউ বাদ পড়বে না। যে মাটিতে আমাকে রাখা হয়েছে, তা নির্বাসন নয়। তাকে বসবাসের উপযোগী করা হয়েছে, তার উপকার কাজে লাগানোর জন্য খুলে দেওয়া হয়েছে। আবার এখানেই আমার আমল হয়, আর এই মাটিই তার হিসাব রাখে। যেখানেই আমাকে পাঠানো হোক, আমি তাঁর দিকে ফেরার পথেই আছি। আমি কি এখানে এমনভাবে বাঁচি, যেন এটাই শেষ ঠিকানা?",
+    "pointsEn": [
+      "Where has my life scattered me, and do I treat this place as a trust from Allah or only as a stop on my own plans?",
+      "If the ground under my feet could speak about me, what would it report from this past week?",
+      "When I meet people of another tongue, colour or country, do I see the work of the same Maker, or only the difference?",
+      "What would change in my plans for today if I kept in view that every road I take ends in one gathering before Him?",
+      "Do I use what the earth gives me as someone who will be asked about it, or as someone who expects no account?"
+    ],
+    "pointsBn": [
+      "জীবন আমাকে কোথায় এনে ছড়িয়ে দিয়েছে? এই জায়গাটাকে কি আমি আল্লাহর দেওয়া আমানত ভাবি, নাকি শুধু নিজের পরিকল্পনার একটা থামার জায়গা?",
+      "পায়ের নিচের মাটি যদি আমার কথা বলতে পারত, গত এক সপ্তাহের কী খবর সে দিত?",
+      "অন্য ভাষা, অন্য রং বা অন্য দেশের মানুষের সঙ্গে দেখা হলে আমি কি একই স্রষ্টার কাজ দেখি, নাকি শুধু তফাতটুকু?",
+      "যে পথেই যাই, সব পথ শেষ হয় তাঁর সামনে এক জমায়েতে, এ কথা মনে রাখলে আজকের পরিকল্পনায় কী বদলাত?",
+      "পৃথিবী আমাকে যা দেয়, তা কি আমি এমন মানুষের মতো খরচ করি যাকে এর হিসাব দিতে হবে, নাকি এমনভাবে যেন কোনো হিসাবই নেই?"
+    ],
+    "lessonEn": "You were spread across the earth by Allah and will be gathered back to Him; live wherever you are placed as one already on the road home, not as one who has arrived.",
+    "lessonBn": "আল্লাহ আপনাকে পৃথিবীতে ছড়িয়ে দিয়েছেন, আর তাঁর কাছেই আপনাকে একত্র করা হবে; যেখানেই থাকুন, এমনভাবে বাঁচুন যেন আপনি ঘরে ফেরার পথে আছেন, পৌঁছে যাননি।"
   }
 };
 

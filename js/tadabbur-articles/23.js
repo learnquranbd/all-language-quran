@@ -3803,6 +3803,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:79": {
+    "sections": [
+      {
+        "h": {
+          "en": "Seven Words, Two Movements",
+          "bn": "সাত শব্দে দুই যাত্রা"
+        },
+        "p": [
+          {
+            "en": "Wa huwa alladhi dhara'akum fi al-ardi wa ilayhi tuhsharun: and it is He who dispersed you through the earth, and to Him you will be gathered. The verse has seven Arabic words and two movements. The first runs outward, from one origin into every region; the second runs back, from every region to one place before one Lord. Between the two lies the whole of human history, and the whole of each single life, held in a sentence short enough to recite in one breath.",
+            "bn": "ওয়া হুওয়াল্লাযী যারাআকুম ফিল আরদি ওয়া ইলাইহি তুহশারূন: তিনিই তোমাদের পৃথিবীতে ছড়িয়ে দিয়েছেন, আর তাঁর কাছেই তোমাদের একত্র করা হবে। আরবিতে আয়াতটি মাত্র সাতটি শব্দের, অথচ তাতে দুটি যাত্রা। প্রথমটি বাইরের দিকে: একটিমাত্র উৎস থেকে পৃথিবীর প্রতিটি কোণে। দ্বিতীয়টি ফেরার: প্রতিটি কোণ থেকে এক জায়গায়, এক রবের সামনে। এ দুইয়ের মাঝখানে মানবজাতির গোটা ইতিহাস, আবার প্রত্যেক মানুষের নিজের জীবনটাও। সবটুকু ধরা আছে এমন এক বাক্যে, যা এক নিঃশ্বাসে পড়ে ফেলা যায়।"
+          },
+          {
+            "en": "The verse stands in a short chain. Verse 23:78 opened with the same words, wa huwa alladhi, and named the hearing, sight and hearts He made for people, closing on how little they give thanks. Verse 23:80 will open the same way once more, with giving life and causing death and the alternation of night and day. Each link names something the listener already lives inside and cannot claim to have made. This middle link widens the frame, from the faculties inside one person to the spread of all people across the earth.",
+            "bn": "আয়াতটি একটা ছোট শিকলের মাঝের কড়া। ২৩:৭৮ শুরু হয়েছিল ঠিক এই কথায়, ওয়া হুওয়াল্লাযী। সেখানে ছিল কান, চোখ আর অন্তরের কথা, যা তিনি মানুষের জন্য বানিয়েছেন, আর শেষে ছিল মানুষের শুকরিয়া কত কম। ২৩:৮০ আবার একইভাবে শুরু হবে, জীবন দেওয়া, মৃত্যু ঘটানো আর দিন-রাতের পালাবদল নিয়ে। প্রতিটি কড়া এমন কিছুর নাম নেয়, যার ভেতরে শ্রোতা রোজ বাস করে, অথচ নিজে বানিয়েছে বলে দাবি করতে পারে না। মাঝের এই কড়াটি ছবিটা বড় করে দেয়। এক মানুষের ভেতরের শক্তি থেকে চোখ সরে যায় গোটা পৃথিবীজুড়ে ছড়িয়ে থাকা মানুষের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Created, Spread Out, Multiplied",
+          "bn": "সৃষ্টি, বিস্তার, বৃদ্ধি"
+        },
+        "p": [
+          {
+            "en": "Dhara'akum comes from the root dh-r-', and the commentators fetched for this verse gloss it in more than one way. At-Tabari paraphrases the clause plainly: Allah, who created you in the earth (khalaqakum fi al-ard). Al-Baghawi gives the same one-word gloss, khalaqakum, He created you. The Muyassar widens the object: it is He who created all people in the earth. On this reading the verb is first of all a word of making, and the earth is the place where that making unfolds.",
+            "bn": "যারাআকুম শব্দের ধাতু য-র-আ। এ আয়াতের যে তাফসীরগুলো আনা হয়েছে, সেগুলো শব্দটির ব্যাখ্যা দেয় একাধিকভাবে। তাবারী বাক্যটি সহজ করে বলেন: সেই আল্লাহ, যিনি তোমাদের পৃথিবীতে সৃষ্টি করেছেন (খালাকাকুম ফিল আরদ)। বাগাভীও এক শব্দে একই অর্থ দেন, খালাকাকুম: তিনি তোমাদের সৃষ্টি করেছেন। মুয়াসসার কর্মটাকে আরও বড় করে: তিনিই সব মানুষকে পৃথিবীতে সৃষ্টি করেছেন। এই পাঠে ক্রিয়াটি আগে সৃষ্টির শব্দ, আর পৃথিবী সেই জায়গা যেখানে সৃষ্টির কাজটা ঘটে চলে।"
+          },
+          {
+            "en": "Al-Qurtubi does not settle on one equivalent. He explains dhara'akum with three verbs side by side: ansha'akum wa baththakum wa khalaqakum, He brought you into being, spread you out, and created you. As-Sa'di leans on the second sense: baththakum fi aqtariha wa jihatiha, He spread you through its regions and its directions. Ibn Kathir joins the two, speaking both of His originating of creation and of His dispersing of people through all the regions of the earth. The renderings complete one another rather than compete.",
+            "bn": "কুরতুবী কোনো একটি প্রতিশব্দে থামেন না। যারাআকুম বোঝাতে তিনি পাশাপাশি তিনটি ক্রিয়া আনেন: আনশাআকুম, ওয়া বাছ্ছাকুম, ওয়া খালাকাকুম। অর্থাৎ তিনি তোমাদের অস্তিত্বে এনেছেন, ছড়িয়ে দিয়েছেন, সৃষ্টি করেছেন। সাদী ঝোঁকেন দ্বিতীয় অর্থের দিকে: বাছ্ছাকুম ফী আকতারিহা ওয়া জিহাতিহা, তিনি তোমাদের ছড়িয়ে দিয়েছেন পৃথিবীর নানা অঞ্চলে, নানা দিকে। ইবন কাসীর দুটি অর্থকে এক করেন। তিনি একদিকে বলেন সৃষ্টির সূচনার কথা, অন্যদিকে পৃথিবীর সব অঞ্চলে মানুষকে ছড়িয়ে দেওয়ার কথা। এসব ব্যাখ্যা একটি আরেকটিকে কাটে না, বরং পূর্ণ করে।"
+          },
+          {
+            "en": "The same root appears in six verses of the Qur'an, and two of them sit close to this verse. In 16:13 it names what He multiplied for you on the earth of varying colours, and in 42:11 it is the verb of He multiplies you thereby, after the mention of mates made from yourselves. A third, 67:24, repeats this verse almost word for word. The English rendering used in this app gives multiplied here, the Bengali gives spread; both senses stay within what the commentators say.",
+            "bn": "কুরআনে এই ধাতু এসেছে ছয়টি আয়াতে, তার দুটি এ আয়াতের খুব কাছের। ১৬:১৩ আয়াতে এটি সেই নানা রঙের জিনিসের কথা বলে, যা তিনি পৃথিবীতে তোমাদের জন্য ছড়িয়ে রেখেছেন। ৪২:১১ আয়াতে তোমাদের মধ্য থেকে জোড়া বানানোর কথার পর আসে: এভাবেই তিনি তোমাদের বংশ বাড়িয়ে চলেন। তৃতীয়টি ৬৭:২৪, যা প্রায় হুবহু এ আয়াতেরই পুনরাবৃত্তি। এই অ্যাপের ইংরেজি অনুবাদ এখানে লিখেছে বাড়িয়ে দেওয়া, বাংলা লিখেছে ছড়িয়ে দেওয়া। দুটো অর্থই তাফসীরকারদের কথার সীমার ভেতরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Region, Every Tongue",
+          "bn": "প্রতিটি অঞ্চল, প্রতিটি ভাষা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the verse as a report of Allah's great power and overwhelming authority (qudratihi al-'azimah wa sultanihi al-qahir). The dispersal he describes is not of a uniform mass. People were spread through all the regions of the earth, he says, 'ala ikhtilafi ajnasihim wa lughatihim wa sifatihim: with their different kinds, languages and characteristics. In his reading the variety belongs to the sign itself. One beginning has produced nations that differ in speech and in features, and every one of them answers to a single Creator.",
+            "bn": "ইবন কাসীর আয়াতটিকে পড়েন আল্লাহর বিশাল কুদরত আর অপ্রতিরোধ্য কর্তৃত্বের খবর হিসেবে (কুদরাতিহিল আযীমা ওয়া সুলতানিহিল কাহির)। তিনি যে ছড়িয়ে পড়ার কথা বলেন, তা একরকম মানুষের ভিড় নয়। তাঁর ভাষায় মানুষ ছড়িয়েছে পৃথিবীর সব অঞ্চলে, আলা ইখতিলাফি আজনাসিহিম ওয়া লুগাতিহিম ওয়া সিফাতিহিম: নানা জাতি, নানা ভাষা আর নানা বৈশিষ্ট্য নিয়ে। তাঁর পাঠে এই বৈচিত্র্যটাই নিদর্শনের অংশ। একই সূচনা থেকে এমন সব জাতি এসেছে, যাদের কথা আলাদা, চেহারা আলাদা, অথচ সবাই একজন স্রষ্টারই সৃষ্টি।"
+          },
+          {
+            "en": "The Muyassar's phrase, all people (jami' al-nas), makes the same point from the other side: nobody stands outside this verse. Elsewhere the Qur'an counts the diversity of tongues and colours among His signs, in 30:22. Read beside that verse, the scattering of 23:79 is not a story of loss, of one family broken apart, but of one family made many by design. The strangeness a traveller meets in another country, a script he cannot read or a face unlike his own, is one more page in the same book of signs.",
+            "bn": "মুয়াসসারের কথা, সব মানুষ (জামীউন নাস), একই কথা বলে উল্টো দিক থেকে: এ আয়াতের বাইরে কেউ নেই। কুরআন অন্য জায়গায়, ৩০:২২ আয়াতে, ভাষা ও বর্ণের ভিন্নতাকে তাঁর নিদর্শনের মধ্যে গুনেছে। সেই আয়াতের পাশে রেখে পড়লে ২৩:৭৯-এর ছড়িয়ে পড়া হারানোর গল্প থাকে না, ভেঙে যাওয়া একটা পরিবারের কাহিনিও থাকে না। তখন তা একই পরিবারের পরিকল্পিতভাবে অনেক হয়ে ওঠার গল্প। ভিনদেশে গিয়ে মুসাফির যে অচেনা লিপি দেখে, নিজের থেকে আলাদা যে মুখ দেখে, সেটাও নিদর্শনের একই বইয়ের আরেকটা পাতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Earth Made Ready",
+          "bn": "তৈরি করে রাখা জমিন"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di adds what the dispersal came with. Having spread people through the earth's regions, Allah gave them mastery over drawing out its benefits and uses (sallatakum 'ala istikhraji masalihiha wa manafi'iha), and made it sufficient for their livelihoods and their dwellings (ja'alaha kafiyatan li-ma'ayishikum wa masakinikum). The scattering, on his reading, was not into a hostile wilderness. Wherever people were sent, the land had already been made able to feed and house them, and they had been given the skill to bring that provision out.",
+            "bn": "সাদী বলেন, ছড়িয়ে দেওয়ার সঙ্গে আর কী দেওয়া হয়েছিল। পৃথিবীর নানা অঞ্চলে মানুষকে ছড়িয়ে দিয়ে আল্লাহ তাদের ক্ষমতা দিয়েছেন জমিনের ভেতরের কল্যাণ আর উপকার বের করে আনার (সাল্লাতাকুম আলা ইসতিখরাজি মাসালিহিহা ওয়া মানাফিইহা)। আর জমিনকে করেছেন তাদের জীবিকা ও বসতের জন্য যথেষ্ট (জাআলাহা কাফিয়াতান লি-মাআয়িশিকুম ওয়া মাসাকিনিকুম)। তাঁর পাঠে মানুষকে কোনো বৈরী মরুভূমিতে ছুড়ে ফেলা হয়নি। যেখানেই পাঠানো হোক, সেই মাটিকে আগেই খাওয়ানো ও আশ্রয় দেওয়ার উপযোগী করা হয়েছিল, আর মানুষকে দেওয়া হয়েছিল সেই রিজিক বের করে আনার যোগ্যতা।"
+          },
+          {
+            "en": "This shapes how a person reads his own place. A migrant, a refugee, a family moved by work or by war, may feel they were thrown somewhere by accident. The verse names Him who did the spreading, and as-Sa'di names what was laid ready before they arrived. That is no promise that every move is easy, and the verse says nothing about any single journey. It says that the earth as a whole was prepared for human life, and that whoever is spread through it has been placed, not lost.",
+            "bn": "নিজের জায়গাটাকে মানুষ কীভাবে দেখবে, এ কথা তা বদলে দেয়। প্রবাসী, শরণার্থী, কাজের টানে বা যুদ্ধের তাড়ায় সরে যাওয়া পরিবার মনে করতে পারে, তাদের যেন হঠাৎ কোথাও ছুড়ে ফেলা হয়েছে। আয়াতটি বলে দেয় কে ছড়িয়েছেন। আর সাদী বলে দেন, তারা পৌঁছানোর আগেই কী তৈরি করে রাখা হয়েছিল। এর মানে এই নয় যে প্রতিটি সফর সহজ হবে। কোনো নির্দিষ্ট যাত্রার কথাও আয়াতে নেই। আয়াতের কথা এটুকু: গোটা পৃথিবীকে মানুষের বসবাসের জন্য তৈরি করা হয়েছে, আর যে-ই এখানে ছড়িয়ে আছে, তাকে রাখা হয়েছে, সে হারিয়ে যায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Raised, Assembled, Repaid",
+          "bn": "ওঠানো, জড়ো করা, প্রতিদান"
+        },
+        "p": [
+          {
+            "en": "Wa ilayhi tuhsharun, and to Him you will be gathered. The verb is passive: people do not gather themselves. At-Tabari sets out the order of events: you will be gathered to Him after your deaths (min ba'di mamatikum), then raised from your graves to the place where the reckoning is held (mawqif al-hisab). Al-Baghawi glosses tuhsharun with a single word, tub'athun, you will be raised. His stress falls on the rising from the grave itself, the very thing the deniers of 23:82 will soon call unthinkable.",
+            "bn": "ওয়া ইলাইহি তুহশারূন: আর তাঁর কাছেই তোমাদের একত্র করা হবে। ক্রিয়াটি কর্মবাচ্যে। মানুষ নিজে নিজে জড়ো হয় না, তাদের জড়ো করা হয়। তাবারী ঘটনার ক্রমটা সাজিয়ে দেন: মৃত্যুর পর (মিন বা'দি মামাতিকুম) তোমাদের তাঁর কাছে একত্র করা হবে, তারপর কবর থেকে উঠিয়ে নেওয়া হবে হিসাবের জায়গায় (মাওকিফুল হিসাব)। বাগাভী তুহশারূনের অর্থ দেন এক শব্দে, তুব'আছূন: তোমাদের উঠানো হবে। তাঁর জোর কবর থেকে উঠে আসার উপর। ঠিক এই জিনিসটাকেই ২৩:৮২ আয়াতের অস্বীকারকারীরা একটু পরেই অসম্ভব বলে উড়িয়ে দেবে।"
+          },
+          {
+            "en": "Al-Qurtubi gives the gathering its purpose: tujma'una lil-jaza', you will be assembled for recompense. The Muyassar spells out the consequence: to Him you will be gathered after your death, and He will repay you for what you did of good or evil. As-Sa'di uses almost the same words, adding that the deeds in question are those done on the earth (bima 'amiltum fi al-ard). These glosses do not disagree. Each names a stage of one event: the rising, the assembly, and the reckoning the assembly is for.",
+            "bn": "কুরতুবী এই জমায়েতের উদ্দেশ্য বলে দেন: তুজমাঊনা লিল জাযা, প্রতিদানের জন্য তোমাদের জড়ো করা হবে। মুয়াসসার পরিণামটা খুলে বলে: মৃত্যুর পর তাঁর কাছেই তোমাদের একত্র করা হবে, আর ভালো-মন্দ যা করেছ তার প্রতিদান তিনি দেবেন। সাদীও প্রায় একই কথা বলেন, শুধু যোগ করেন যে আমলগুলো সেই পৃথিবীতেই করা (বিমা আমিলতুম ফিল আরদ)। এসব ব্যাখ্যার মধ্যে কোনো বিরোধ নেই। প্রত্যেকে একই ঘটনার একেকটা ধাপের নাম নেন: উঠে আসা, জড়ো হওয়া, আর সেই হিসাব, যার জন্য এই জমায়েত।"
+          },
+          {
+            "en": "In the Arabic, the words to Him come before the verb. The clause does not merely say you will be gathered, leaving the destination unstated; it opens with the destination and names it as Him. The first half named who spread people out, and the second names the same One as the place where they end. The outward movement and the return have a single author and a single address, and the pronoun that carries both is the huwa with which the verse began.",
+            "bn": "আরবিতে ইলাইহি, অর্থাৎ তাঁর কাছেই, কথাটা ক্রিয়ার আগে এসেছে। বাক্যটা শুধু বলে না যে তোমাদের জড়ো করা হবে, আর গন্তব্যটা খোলা রাখে না। বাক্য শুরুই হয় গন্তব্য দিয়ে, আর সেই গন্তব্য তিনিই। প্রথম অর্ধেক বলেছে কে মানুষকে ছড়িয়ে দিয়েছেন। দ্বিতীয় অর্ধেক বলছে, একই সত্তা তাদের শেষ ঠিকানা। বাইরে ছড়িয়ে পড়া আর ফিরে আসা, দুটোর কর্তা একজন, ঠিকানাও একটাই। আর দুটোকে ধরে রাখে সেই হুওয়া শব্দটি, যা দিয়ে আয়াত শুরু হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Young and Old, Noble and Lowly",
+          "bn": "ছোট-বড়, সম্মানী-অবহেলিত"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir describes the gathering in words that echo 56:49 and 56:50: on the Day of Resurrection He will assemble the first of them and the last for the appointment of a known day (li-miqati yawmin ma'lum). Then he lists, in pairs, who will be included. None will be left, young or old, male or female, noble or insignificant (la jalilan wa la haqiran). The dispersal spread people unevenly, some to palaces and some to the margins. The gathering, as he describes it, takes no notice of any of those distinctions.",
+            "bn": "ইবন কাসীর জমায়েতের বর্ণনা দেন এমন ভাষায়, যাতে ৫৬:৪৯ ও ৫৬:৫০ আয়াতের প্রতিধ্বনি শোনা যায়। কিয়ামতের দিন তিনি আগের ও পরের সবাইকে জড়ো করবেন এক নির্ধারিত দিনের নির্দিষ্ট সময়ে (লি-মীকাতি ইয়াওমিন মা'লূম)। তারপর জোড়ায় জোড়ায় তিনি জানান কারা থাকবে। কেউ বাদ পড়বে না: না ছোট, না বড়, না পুরুষ, না নারী, না সম্মানী, না তুচ্ছ (লা জালীলান ওয়া লা হাকীরান)। ছড়িয়ে দেওয়ার সময় মানুষ সমানভাবে ছড়ায়নি। কেউ গেছে প্রাসাদে, কেউ সমাজের কিনারে। তাঁর বর্ণনায় জমায়েত এসব ভেদাভেদের কোনোটারই তোয়াক্কা করে না।"
+          },
+          {
+            "en": "He ends with the phrase illa a'adahu kama bada'ahu: He will bring each one back as He began him. The thought is the Qur'an's own. In 7:29, as He originated you, you will return; in 21:104, as He began the first creation, He will repeat it. The two halves of 23:79 thus mirror each other, since He who spread countless people through the earth from one beginning can bring every one of them back. None of the commentaries fetched for this verse attaches a hadith to it.",
+            "bn": "তিনি শেষ করেন এই কথায়: ইল্লা আআদাহু কামা বাদাআহু, যেভাবে প্রথমবার সৃষ্টি করেছিলেন, সেভাবেই প্রত্যেককে ফিরিয়ে আনবেন। ভাবনাটা কুরআনেরই। ৭:২৯ আয়াতে আছে, তিনি যেভাবে তোমাদের প্রথমে সৃষ্টি করেছেন, সেভাবেই তোমরা ফিরে আসবে। ২১:১০৪ আয়াতে আছে, যেভাবে তিনি প্রথম সৃষ্টির সূচনা করেছিলেন, সেভাবেই আবার করবেন। তাই ২৩:৭৯-এর দুই অর্ধেক একে অন্যের প্রতিচ্ছবি। যিনি একটিমাত্র সূচনা থেকে অগণিত মানুষকে পৃথিবীজুড়ে ছড়িয়ে দিয়েছেন, তিনি প্রত্যেককে ফিরিয়েও আনতে পারেন। এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Ground That Will Report",
+          "bn": "যে মাটি খবর দেবে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di closes his comment with a line that turns the earth from a stage into a witness: wa tuhaddithu al-ardu allati kuntum fiha bi-akhbariha, and the earth on which you lived will tell its news. The wording echoes 99:4, where on that Day the earth reports its news. In his reading the two halves of 23:79 are joined by the ground itself. The earth across which people were spread is the same earth that will speak, at the gathering, of what they did upon it.",
+            "bn": "সাদী তাঁর ব্যাখ্যা শেষ করেন এমন এক বাক্যে, যা পৃথিবীকে মঞ্চ থেকে সাক্ষী বানিয়ে দেয়: ওয়া তুহাদ্দিছুল আরদুল্লাতী কুনতুম ফীহা বি-আখবারিহা, আর যে জমিনে তোমরা ছিলে, সে তার খবর বলে দেবে। কথাগুলোতে ৯৯:৪ আয়াতের সুর, যেখানে বলা হয়েছে সেদিন পৃথিবী তার বৃত্তান্ত জানাবে। সাদীর পাঠে ২৩:৭৯-এর দুই অর্ধেককে জুড়ে দেয় মাটি নিজেই। যে জমিনে মানুষকে ছড়িয়ে দেওয়া হয়েছিল, জমায়েতের দিন সেই জমিনই বলবে তার বুকে তারা কী করেছিল।"
+          },
+          {
+            "en": "This gives the phrase fi al-ard, in the earth, a weight it does not seem to carry at first. The place where a person lives is not only an address or a market. It is where prayers are made or missed, where wages are paid in full or held back, where a neighbour is helped or harmed. As-Sa'di's line asks the reader to see each patch of ground as both provision and record: the land that feeds him today, and the testimony that will be heard about him later.",
+            "bn": "এতে ফিল আরদ, অর্থাৎ পৃথিবীতে, কথাটার ওজন বেড়ে যায়, যা প্রথম পড়ায় চোখে পড়ে না। মানুষ যেখানে থাকে, তা শুধু একটা ঠিকানা বা বাজার নয়। সেখানেই নামাজ পড়া হয় বা ছুটে যায়, মজুরি পুরো দেওয়া হয় বা আটকে রাখা হয়, প্রতিবেশীর উপকার হয় বা ক্ষতি। সাদীর কথাটা পাঠককে বলে, প্রতিটি মাটির টুকরোকে দুইভাবে দেখুন: রিজিকের জায়গা হিসেবে, আবার হিসাবের খাতা হিসেবে। যে মাটি আজ আপনাকে খাওয়ায়, পরে সে-ই আপনার ব্যাপারে সাক্ষ্য দেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Pair in al-Mulk",
+          "bn": "সূরা মুলকে একই জোড়া"
+        },
+        "p": [
+          {
+            "en": "The pairing is not unique to this surah. In 67:23 the Prophet ﷺ is told to say: it is He who produced you and made for you hearing, vision and hearts; little are you grateful. The very next verse, 67:24, is this one, with say in place of its opening and. Twice, then, the faculties a person carries and the spread of people across the earth are set side by side, and twice the gathering follows. A related thought opens 6:98, which speaks of people produced from a single soul.",
+            "bn": "এই জোড়া শুধু এ সূরায় নয়। ৬৭:২৩ আয়াতে নবী ﷺ-কে বলতে বলা হয়েছে: তিনিই তোমাদের সৃষ্টি করেছেন, আর তোমাদের দিয়েছেন কান, চোখ ও অন্তর; তোমরা শুকরিয়া খুব কমই আদায় করো। ঠিক পরের আয়াত ৬৭:২৪ হুবহু এই আয়াতটিই, শুধু শুরুর ওয়া-র জায়গায় আছে কুল, অর্থাৎ বলো। তাহলে দুই জায়গায় মানুষের ভেতরের শক্তি আর পৃথিবীজুড়ে মানুষের ছড়িয়ে পড়া পাশাপাশি এসেছে, আর দুই জায়গাতেই পরে এসেছে জমায়েতের কথা। কাছাকাছি একটা ভাবনা দিয়ে শুরু হয় ৬:৯৮, যেখানে আছে একটিমাত্র প্রাণ থেকে মানুষ সৃষ্টির কথা।"
+          },
+          {
+            "en": "Here the chain moves on to 23:80, life and death and night and day, and then to 23:81 to 23:83, where the deniers say only what earlier peoples said: that bones turned to dust cannot be raised. Verse 23:79 had answered them before they spoke. The verse describes those it addresses; it names no one living and licenses nothing against any person or community today. Its you is every human being, the Muyassar's all people, and the reader stands among them.",
+            "bn": "এখানে শিকলটা এগিয়ে যায় ২৩:৮০ আয়াতে, জীবন-মৃত্যু আর রাত-দিনের কথায়। তারপর ২৩:৮১ থেকে ২৩:৮৩ পর্যন্ত, যেখানে অস্বীকারকারীরা আগের লোকদের কথাই আওড়ায়: মাটি হয়ে যাওয়া হাড় আর ওঠানো যাবে না। তারা মুখ খোলার আগেই ২৩:৭৯ তাদের জবাব দিয়ে রেখেছে। আয়াতটি যাদের সম্বোধন করছে, তাদের বর্ণনা দেয় মাত্র। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের নাম এতে নেই, কারও বিরুদ্ধে কিছু করার অনুমতিও এ আয়াত দেয় না। এর তোমরা মানে প্রত্যেক মানুষ, মুয়াসসারের ভাষায় সব মানুষ, আর পাঠক নিজেও তাদেরই একজন।"
+          },
+          {
+            "en": "What the verse asks, then, is a way of standing in one's own place. Wherever a person has been spread, by birth, by work or by hardship, the land was readied for him and is keeping its account of him, and every road out from the first beginning bends back to one meeting. To live with that in view is to use the earth's benefits as a guest uses a host's table, to see its many peoples as the work of one Maker, and to walk toward the gathering with nothing one would want hidden.",
+            "bn": "তাহলে আয়াতটি চায় নিজের জায়গায় দাঁড়ানোর একটা ধরন। জন্মের সূত্রে, কাজের টানে বা কষ্টের ধাক্কায় মানুষ যেখানেই ছড়িয়ে পড়ুক, সেই মাটি তার জন্য আগেই তৈরি ছিল, আর সেই মাটি তার হিসাবও রাখছে। প্রথম সূচনা থেকে বেরোনো প্রতিটি পথ বাঁক নিয়ে ফিরে যায় একই সাক্ষাতে। এ কথা মনে রেখে বাঁচা মানে পৃথিবীর নিয়ামত ভোগ করা মেহমানের মতো, যে মেজবানের দস্তরখানে বসেছে। মানে পৃথিবীর নানা জাতিকে একই স্রষ্টার কাজ হিসেবে দেখা। আর এমনভাবে জমায়েতের দিকে হাঁটা, যাতে লুকানোর মতো কিছু সঙ্গে না থাকে।"
+          }
+        ]
+      }
+    ]
+  },
   "23:82": {
     "sections": [
       {
