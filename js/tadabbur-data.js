@@ -35139,6 +35139,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Lower your own gaze from what is not yours to look at and guard your own body, for that is purer for you, and Allah sees what you do.",
     "lessonBn": "যা দেখার হক আপনার নেই, তা থেকে নিজের চোখ নামিয়ে নিন আর নিজের লজ্জাস্থান হেফাজত করুন। এটাই আপনার জন্য বেশি পবিত্র, আর আপনি যা করেন আল্লাহ তা দেখেন।"
+  },
+  "25:13": {
+    "reflectionEn": "The Fire saw them from far off; now they are inside it. In nine Arabic words the verse gives three things: a narrow place, people bound together in it, and a cry from there for thubur, ruin and woe. Some commentators picture the narrowness as a spear's iron fitted tight on its shaft. Others read the binding as hands chained to necks, or each man yoked to the one who misled him. Then comes the cry, and it changes nothing; the next verse tells them to cry for much ruin, not one. Here, today, there is still room to move, still time to turn back. Where am I spending that room? And what would I wish I had done while a cry could still be heard?",
+    "reflectionBn": "আগুন তাদের দেখেছিল বহু দূর থেকে। এবার তারা তার ভেতরে। আরবিতে মাত্র নয়টি শব্দে আয়াতটি তিনটি জিনিস দেখায়: একটি সংকীর্ণ জায়গা, সেখানে একসঙ্গে বাঁধা মানুষ, আর সেখান থেকে ওঠা এক আর্তনাদ, সুবূর, মানে ধ্বংস আর হায় হায়। কোনো কোনো তাফসীরকার সেই সংকীর্ণতাকে দেখেন বর্শার দণ্ডে শক্ত করে আঁটা লোহার মতো। কেউ বাঁধনটা পড়েন গলার সঙ্গে শিকলে জোড়া হাত হিসেবে, কেউ পড়েন এভাবে যে প্রত্যেককে জুড়ে দেওয়া হবে তাকে যে পথভ্রষ্ট করেছিল তার সঙ্গে। তারপর সেই ডাক, যা কিছুই বদলায় না। পরের আয়াত তাদের বলে, একবার নয়, বহুবার ধ্বংসকে ডাকো। এখানে, আজ, এখনো নড়াচড়ার জায়গা আছে, ফিরে আসার সময় আছে। সেই জায়গাটুকু আমি কোথায় খরচ করছি? আর ডাক যখন এখনো শোনা যায়, তখন কী করে রাখলে পরে আফসোস থাকত না?",
+    "pointsEn": [
+      "What am I doing with the room I have now, the time, health and choices that the people in this verse no longer have?",
+      "Is there someone whose company keeps pulling me away from God, and what would it mean to be bound to them where no one can leave?",
+      "When I feel regret over a fault, do I turn it into repentance today, or let it sit until it can only become a cry?",
+      "Do I read the verses about the Fire as a warning to myself, or as news about other people?",
+      "Which small, repeated turning away from obedience would I most regret if the account were settled tonight?"
+    ],
+    "pointsBn": [
+      "এ আয়াতের মানুষগুলোর যা আর নেই, সেই সময়, সুস্থতা আর বেছে নেওয়ার সুযোগ এখনো আমার হাতে। এগুলো দিয়ে আমি কী করছি?",
+      "এমন কারও সঙ্গ কি আছে, যে বারবার আমাকে আল্লাহর কাছ থেকে দূরে টানে? যেখান থেকে কেউ বেরোতে পারে না, সেখানে তার সঙ্গে বাঁধা থাকার মানে কী হবে?",
+      "কোনো ভুলের জন্য মনে আফসোস জাগলে আমি কি আজই তাকে তওবায় বদলে দিই, নাকি ফেলে রাখি, যতক্ষণ না তা কেবল আর্তনাদ হয়ে থাকে?",
+      "জাহান্নামের আয়াত পড়ার সময় আমি কি নিজের জন্য সতর্কবাণী শুনি, নাকি অন্য লোকদের খবর পড়ি?",
+      "আল্লাহর আনুগত্য থেকে কোন ছোট ছোট সরে যাওয়া, বারবার যা করি, আজ রাতেই হিসাব হয়ে গেলে আমাকে সবচেয়ে বেশি পোড়াবে?"
+    ],
+    "lessonEn": "The cry of regret in the Fire changes nothing, while the same regret today can become repentance. Use the room you still have to turn back before it closes.",
+    "lessonBn": "জাহান্নামে আফসোসের আর্তনাদ কিছুই বদলায় না, অথচ আজকের সেই একই আফসোস তওবা হয়ে উঠতে পারে। পথ বন্ধ হওয়ার আগে হাতে থাকা সুযোগটুকু দিয়ে ফিরে আসুন।"
   }
 };
 

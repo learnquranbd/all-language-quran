@@ -443,6 +443,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "25:13": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Far Off to Hemmed In",
+          "bn": "দূরের দৃশ্য থেকে চেপে ধরা জায়গায়"
+        },
+        "p": [
+          {
+            "en": "Wa-idha ulqu minha makanan dayyiqan muqarranin da'aw hunalika thubura: and when they are flung into a narrow place of it, bound together, they cry out there for ruin. The verse finishes a scene. In 25:11 the cause was named, the denial of the Hour. In 25:12 the Fire sees them from a distant place and they hear its rage and its roaring. Now the distance is gone. The verb ulqu is passive: they do not walk in, they are thrown, and the verse does not stop to say by whom.",
+            "bn": "ওয়া ইযা উলকূ মিনহা মাকানান দাইয়িকান মুকাররানীনা দাআও হুনালিকা সুবূরা: আর যখন তাদেরকে একসঙ্গে বেঁধে সেখানকার এক সংকীর্ণ জায়গায় ছুড়ে ফেলা হবে, তখন সেখানে তারা ধ্বংসকে ডাকবে। আয়াতটি একটি দৃশ্যের সমাপ্তি টানে। ২৫:১১ আয়াতে কারণটা বলা হয়েছিল: কিয়ামতকে অস্বীকার। ২৫:১২ আয়াতে আগুন তাদের দেখে বহু দূর থেকে, আর তারা শোনে তার ক্রোধ আর গর্জন। এবার সেই দূরত্ব আর নেই। উলকূ ক্রিয়াটি কর্মবাচ্যে। তারা হেঁটে ঢোকে না, তাদের ছুড়ে ফেলা হয়। কে ছুড়ে ফেলে, আয়াত তা বলতে থামে না।"
+          },
+          {
+            "en": "As-Sa'di fixes the moment: the time of their punishment, when they are already in the midst of the Fire. The Muyassar reads minha, of it, as a place of severe narrowness within Jahannam itself. At-Tabari's paraphrase keeps the subject in view: these deniers of the Hour, when they are thrown from the Fire into a narrow place, their hands bound to their necks in fetters, call out there for thubur. The verse has not changed whom it is about, only where they stand.",
+            "bn": "সা'দী মুহূর্তটা নির্দিষ্ট করে দেন: তাদের শাস্তির সময়, যখন তারা আগুনের ঠিক মাঝখানে। মুয়াসসার মিনহা, অর্থাৎ তার মধ্য থেকে, কথাটিকে পড়ে জাহান্নামেরই এক জায়গা হিসেবে, যা ভীষণ সংকীর্ণ। তাবারীর ব্যাখ্যায় কারা, সেটা চোখের সামনেই থাকে: কিয়ামত অস্বীকারকারী এই লোকদের যখন আগুনের এক সংকীর্ণ জায়গায় ছুড়ে ফেলা হবে, হাত গলার সঙ্গে বেড়িতে বাঁধা, তখন তারা সেখানে সুবূরকে ডাকবে। আয়াত বদলায়নি কাদের কথা বলছে। বদলেছে তারা কোথায় দাঁড়িয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tight as Iron on a Shaft",
+          "bn": "দণ্ডে আঁটা লোহার মতো"
+        },
+        "p": [
+          {
+            "en": "How narrow is the place? Ibn Kathir gives a report with its chain: Qatada, from Abu Ayyub, from Abdullah ibn 'Amr, who said: like the zujj in the spear. Ibn Kathir adds his own gloss, meaning in its narrowness. The zujj is the iron piece fitted onto a spear's shaft, which the abridged English Ibn Kathir renders as the point of a spear. The image is of metal driven onto wood until nothing can move. Ibn Kathir gives no grading for the report, and it is the word of a Companion, not of the Prophet ﷺ.",
+            "bn": "জায়গাটা কতটা সংকীর্ণ? ইবন কাসীর সনদসহ একটি বর্ণনা আনেন: কাতাদা, আবু আইয়ুব থেকে, তিনি আবদুল্লাহ ইবন আমর (রাঃ) থেকে, যিনি বলেছেন: বর্শার যুজ্জের মতো। ইবন কাসীর নিজের ব্যাখ্যা জুড়ে দেন: মানে তার সংকীর্ণতায়। যুজ্জ হলো বর্শার দণ্ডে আঁটা লোহার অংশ। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ একে বলে বর্শার ডগা। ছবিটা এমন, কাঠের উপর লোহা এমনভাবে বসানো যে একটুও নড়ার উপায় নেই। ইবন কাসীর বর্ণনাটির কোনো মান উল্লেখ করেন না। আর এটি একজন সাহাবীর কথা, নবী ﷺ-এর বাণী নয়।"
+          },
+          {
+            "en": "Al-Qurtubi has the same image by other routes. Qatada said: it was mentioned to us that Abdullah used to say, Jahannam narrows upon the disbeliever as the zujj narrows upon the spear; al-Qurtubi notes that Ibn al-Mubarak recorded it in his Raqa'iq. He adds that Ibn 'Abbas said the same, as ath-Tha'labi and al-Qushayri report from him, and that al-Mawardi relates it from Abdullah ibn 'Amr. Al-Baghawi gives it as Ibn 'Abbas's words: it narrows on them as the zujj narrows in the spear. Al-Qurtubi's line names only Abdullah, with no father's name.",
+            "bn": "কুরতুবী একই ছবি আনেন অন্য পথে। কাতাদা বলেছেন: আমাদের কাছে উল্লেখ করা হয়েছে যে আবদুল্লাহ বলতেন, জাহান্নাম কাফিরের উপর এমনভাবে চেপে আসবে, যেমন বর্শার উপর যুজ্জ চেপে বসে। কুরতুবী জানান, ইবনুল মুবারক তাঁর রাকাইক গ্রন্থে এটি এনেছেন। তিনি আরও বলেন, ইবন আব্বাস (রাঃ)-ও একই কথা বলেছেন, সা'লাবী ও কুশাইরী তাঁর থেকে তা জানান। আর মাওয়ার্দী এটি আনেন আবদুল্লাহ ইবন আমর (রাঃ) থেকে। বাগাভী একে ইবন আব্বাস (রাঃ)-এর কথা হিসেবে দেন: বর্শায় যুজ্জ যেমন আঁটসাঁট, তাদের উপর জায়গাও তেমন সংকীর্ণ হবে। কুরতুবীর বর্ণনায় শুধু আবদুল্লাহ নামটি আছে, পিতার নাম নেই।"
+          },
+          {
+            "en": "Ibn Kathir also relays, through Ibn Wahb, a report that Yahya ibn Abi Usayd raises to the Prophet ﷺ, given as an answer when he was asked about this verse and its narrow place. Ibn Kathir gives it no grading, and it was not confirmed here in a canonical collection, so this article only mentions that it exists and builds nothing on it. What remains is enough: the verse's own word, dayyiq, narrow, and the ungraded Companion reports above that picture it as iron fitted tight.",
+            "bn": "ইবন কাসীর ইবন ওয়াহবের সূত্রে আরও একটি বর্ণনা আনেন, যা ইয়াহইয়া ইবন আবী উসাইদ নবী ﷺ পর্যন্ত পৌঁছান। বলা হয়েছে, এ আয়াত ও তার সংকীর্ণ জায়গা সম্পর্কে জিজ্ঞেস করা হলে এটি ছিল তাঁর জবাব। ইবন কাসীর এর কোনো মান উল্লেখ করেন না, আর কোনো প্রামাণ্য হাদীসগ্রন্থে এটি এখানে যাচাই করা যায়নি। তাই এ লেখা শুধু এর অস্তিত্বের কথা জানায়, এর উপর কিছু দাঁড় করায় না। নিশ্চিতভাবে যা বলা যায়, তা ছোট হলেও যথেষ্ট। আয়াতের নিজের শব্দ দাইয়িক, সংকীর্ণ। আর উপরের সাহাবীদের বর্ণনা, যেগুলোর মানও উল্লেখ নেই, সেই সংকীর্ণতাকে দেখায় শক্ত করে আঁটা লোহার মতো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bound, and Bound to Whom?",
+          "bn": "বাঁধা, কিন্তু কার সঙ্গে?"
+        },
+        "p": [
+          {
+            "en": "Muqarranin, joined together or bound, is read in several ways, and the commentators keep the readings apart. The first is Abu Salih's, which Ibn Kathir and al-Qurtubi both report: muktafin, pinioned, which the abridged English Ibn Kathir gives as tied from their shoulders. A man whose arms are bound cannot shield his face or push against the walls of a place that is already pressing in on him from every side.",
+            "bn": "মুকাররানীন, অর্থাৎ জুড়ে দেওয়া বা বাঁধা, শব্দটির একাধিক পাঠ আছে, আর তাফসীরকারেরা পাঠগুলো আলাদা করেই রাখেন। প্রথমটি আবু সালিহের, ইবন কাসীর ও কুরতুবী দুজনেই তা জানান: মুকতাফীন, যাদের বাহু বেঁধে রাখা। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ একে বলে কাঁধ থেকে বাঁধা। যার বাহু বাঁধা, সে মুখ আড়াল করতে পারে না। যে জায়গা চারদিক থেকে চেপে আসছে, তার দেয়াল ঠেলে সরাতেও পারে না।"
+          },
+          {
+            "en": "The second reading is musaffadin, shackled, with their hands joined to their necks in fetters. At-Tabari writes it into his paraphrase as the plain meaning. Al-Baghawi gives it first, al-Qurtubi gives it under the words it is said, and the Muyassar has hands bound to necks with chains. Al-Qurtubi also cites a line of the poet 'Amr ibn Kulthum, in which his side returns with captured kings muqarranin, to show the word used for prisoners led away in bonds. The picture here is of captives, not of a crowd.",
+            "bn": "দ্বিতীয় পাঠ মুসাফফাদীন, শৃঙ্খলিত, যাদের হাত গলার সঙ্গে বেড়িতে জোড়া। তাবারী একে সরল অর্থ হিসেবেই নিজের ব্যাখ্যায় লিখে দেন। বাগাভী এটি প্রথমে দেন, কুরতুবী আনেন 'বলা হয়' কথাটি দিয়ে, আর মুয়াসসারে আছে শিকল দিয়ে গলার সঙ্গে বাঁধা হাত। কুরতুবী কবি আমর ইবন কুলসুমের একটি পঙ্‌ক্তিও উদ্ধৃত করেন, যেখানে কবির দল বন্দি রাজাদের মুকাররানীন অবস্থায় নিয়ে ফেরে। তিনি দেখান, বাঁধা অবস্থায় নিয়ে যাওয়া বন্দিদের জন্য শব্দটি ব্যবহার হতো। এখানে ছবিটা ভিড়ের নয়, বন্দিদের।"
+          },
+          {
+            "en": "The third reading changes who is bound to whom. Al-Qurtubi reports from Yahya ibn Sallam that they are joined with the devils, each one tied to his own devil, and he notes that the point was discussed earlier, in Surah Ibrahim. Al-Baghawi gives the same reading under it is said: joined with the devils in chains. In this reading the companion who whispered in this life is the companion one cannot shake off in the next. Each commentator either sets the readings side by side or states one without refuting the others, and this article does not choose between them.",
+            "bn": "তৃতীয় পাঠে বদলে যায়, কাকে কার সঙ্গে বাঁধা হবে। কুরতুবী ইয়াহইয়া ইবন সাল্লাম থেকে জানান, তাদের জুড়ে দেওয়া হবে শয়তানদের সঙ্গে, প্রত্যেককে তার নিজের শয়তানের সঙ্গে। তিনি এও বলেন, সূরা ইবরাহীমে এ নিয়ে আগেই আলোচনা হয়েছে। বাগাভী 'বলা হয়' কথাটি দিয়ে একই পাঠ দেন: শিকলে শয়তানদের সঙ্গে জোড়া। এ পাঠে দুনিয়ায় যে সঙ্গী কানে কুমন্ত্রণা দিত, আখিরাতে সে-ই হয়ে যায় এমন সঙ্গী, যাকে ঝেড়ে ফেলা যায় না। তাফসীরকারেরা হয় পাঠগুলো পাশাপাশি রাখেন, নয়তো একটি বলেন অন্যগুলো খণ্ডন না করে। এ লেখাও কোনোটিকে বেছে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Crowded, Chained, Confined",
+          "bn": "ভিড়, শিকল আর আটক"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the verse as one place that gathers three hardships together: the narrowness of the place, the crowding of those who live in it, and their binding in chains and fetters. When they reach that wretched place, he writes, and are held in the worst of confinements, they cry out. He does not choose between the readings of muqarranin; he simply names chains and fetters together. His point is the accumulation. Each hardship would be heavy on its own, and the verse lays all three on the same people at once.",
+            "bn": "সা'দী আয়াতটিকে পড়েন এমন এক জায়গা হিসেবে, যেখানে তিনটি কষ্ট একসঙ্গে জমা হয়: জায়গার সংকীর্ণতা, সেখানকার বাসিন্দাদের ঠাসাঠাসি ভিড়, আর শিকল ও বেড়িতে তাদের বাঁধন। তিনি লেখেন, যখন তারা সেই অশুভ জায়গায় পৌঁছায় আর সবচেয়ে নিকৃষ্ট বন্দিত্বে আটকে যায়, তখনই তারা চিৎকার করে। মুকাররানীনের পাঠগুলোর মধ্যে তিনি কোনোটি বেছে নেন না, শুধু শিকল আর বেড়ির কথা একসঙ্গে বলেন। তাঁর মূল কথা হলো স্তূপ হয়ে জমা হওয়া। প্রতিটি কষ্ট একাই ভারী। আর আয়াত তিনটিকেই একসঙ্গে চাপিয়ে দেয় একই মানুষদের উপর।"
+          },
+          {
+            "en": "Set beside the verses before it, the narrowness gains weight. This passage opened with complaints about a messenger who ate food and walked in the markets (25:7). The ones who had streets to walk, trade to pursue and time to raise objection after objection are now where none of that is possible: no room to move, no hand free, no way out. The surah does not state the contrast; the order of its verses sets it out, from the open market to the tightest place.",
+            "bn": "আগের আয়াতগুলোর পাশে রাখলে এ সংকীর্ণতার ভার আরও বাড়ে। এ অংশ শুরু হয়েছিল এমন এক রাসূলকে নিয়ে আপত্তি দিয়ে, যিনি খাবার খান আর বাজারে চলাফেরা করেন (২৫:৭)। যাদের হাঁটার মতো পথ ছিল, ব্যবসার সুযোগ ছিল, একের পর এক আপত্তি তোলার সময় ছিল, তারা এখন এমন জায়গায়, যেখানে এর কিছুই সম্ভব নয়। নড়ার জায়গা নেই, হাত খোলা নেই, বেরোনোর পথ নেই। সূরাটি এ তুলনা মুখে বলে না, আয়াতের বিন্যাসই তা মেলে ধরে: খোলা বাজার থেকে সবচেয়ে সরু জায়গা পর্যন্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Woe or Ruin: Two Glosses",
+          "bn": "হায় হায়, নাকি ধ্বংস"
+        },
+        "p": [
+          {
+            "en": "Then the cry: da'aw hunalika thubura, they call out there for thubur. At-Tabari states plainly that the people of interpretation differed over the word. Some said it is wayl, woe, and he gives this from Ibn 'Abbas by two chains, both commenting on the wording of the next verse: do not call today for one thubur. Others said it is halak, destruction, and he gives this from ad-Dahhak, again on the wording of the next verse. The glosses are close, but not the same.",
+            "bn": "তারপর সেই ডাক: দাআও হুনালিকা সুবূরা, সেখানে তারা সুবূরকে ডাকবে। তাবারী সোজাসুজি বলেন, শব্দটির অর্থ নিয়ে ব্যাখ্যাকারদের মধ্যে মতভেদ আছে। কেউ বলেছেন এর অর্থ ওয়াইল, হায় হায়। এটি তিনি ইবন আব্বাস (রাঃ) থেকে দুটি সনদে আনেন, আর দুটিই পরের আয়াতের শব্দ নিয়ে: আজ একটি সুবূরকে ডেকো না। অন্যরা বলেছেন এর অর্থ হালাক, ধ্বংস। এটি তিনি আনেন দাহহাক থেকে, সেটিও পরের আয়াতের শব্দ নিয়ে। ব্যাখ্যা দুটি কাছাকাছি, তবে হুবহু এক নয়।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi set the same two names side by side: ad-Dahhak for halak, destruction, and Ibn 'Abbas for wayl, woe. Ibn Kathir gathers more into the cry: they call out with woe, with bitter regret and with loss, al-wayl wa-l-hasra wa-l-khayba. At-Tabari also reports an expert in Arabic from Basra who read thubur here as halaka, a perishing, the verbal noun of thabara in the sense of being destroyed, and who cited a line by the poet Ibn az-Ziba'ra in which the word mathbur appears.",
+            "bn": "কুরতুবী ও বাগাভী একই দুটি নাম পাশাপাশি রাখেন: ধ্বংস অর্থে দাহহাক, আর হায় হায় অর্থে ইবন আব্বাস (রাঃ)। ইবন কাসীর এ ডাকের ভেতরে আরও কিছু জড়ো করেন: তারা ডাকবে হায় হায়, তীব্র আফসোস আর ব্যর্থতার কান্না নিয়ে, আল-ওয়াইল ওয়াল-হাসরা ওয়াল-খাইবা। তাবারী বসরার এক আরবি ভাষাবিদের কথাও আনেন। তাঁর মতে এখানে সুবূর মানে হালাকা, বিনাশ, যা সাবারা ক্রিয়ার মাসদার, ধ্বংস হয়ে যাওয়ার অর্থে। প্রমাণ হিসেবে তিনি কবি ইবনুয যিবারার একটি পঙ্‌ক্তি উদ্ধৃত করেন, যেখানে মাসবূর শব্দটি এসেছে।"
+          },
+          {
+            "en": "Al-Qurtubi adds a point of grammar that changes the picture slightly. Az-Zajjaj took thubura as a verbal noun standing for its own verb, as if they say: we are ruined, utterly ruined. Others took it as the object of the calling, the thing they summon. On the first reading the cry is the ruin given a voice; on the second they call ruin to come to them. The Muyassar's paraphrase fits the second: they pray against themselves for destruction, hoping to be rid of the Fire by it.",
+            "bn": "কুরতুবী ব্যাকরণের একটি কথা যোগ করেন, যাতে ছবিটা খানিক বদলে যায়। যাজ্জাজের মতে সুবূরা এখানে মাসদার, নিজের ক্রিয়ার জায়গায় বসেছে, যেন তারা বলছে: আমরা ধ্বংস হয়ে গেছি, পুরোপুরি ধ্বংস। অন্যদের মতে শব্দটি ডাকার কর্ম, অর্থাৎ যাকে তারা ডাকে। প্রথম পাঠে আর্তনাদটাই ধ্বংসের কণ্ঠস্বর। দ্বিতীয় পাঠে তারা ধ্বংসকে ডেকে আনতে চায়। মুয়াসসারের ব্যাখ্যা দ্বিতীয়টির সঙ্গে মেলে: তারা নিজেদের বিরুদ্ধেই ধ্বংসের দোয়া করে, যাতে এভাবে আগুন থেকে রেহাই মেলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Regret of Turning Away",
+          "bn": "মুখ ফেরানোর আফসোস"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then gives his own account of the word. In the speech of the Arabs, he says, the root of thubur is a man's turning away from a thing; the Arabs say ma thabaraka 'an hadha, what turned you away from this? In this place, he writes, it is these people's cry of regret at having turned away, in the world, from obeying Allah and from believing in what the Prophet ﷺ brought them, until they earned His punishment. It is like a man saying: oh, my regret, oh, my grief.",
+            "bn": "এরপর তাবারী শব্দটির নিজস্ব ব্যাখ্যা দেন। তিনি বলেন, আরবদের ভাষায় সুবূরের মূল হলো কোনো কিছু থেকে মানুষের মুখ ফিরিয়ে নেওয়া। বলা হয়, মা সাবারাকা আন হাযা, কিসে তোমাকে এ থেকে ফিরিয়ে রাখল? তাঁর মতে এখানে এটি ওই লোকদের আফসোসের আর্তনাদ। দুনিয়ায় তারা আল্লাহর আনুগত্য থেকে মুখ ফিরিয়েছিল, নবী ﷺ যা নিয়ে এসেছিলেন তাতে ঈমান আনা থেকেও। শেষে তারা তাঁর শাস্তির যোগ্য হয়ে গেল। যেন কেউ বলছে: হায় আমার অনুশোচনা, হায় আমার দুঃখ।"
+          },
+          {
+            "en": "He completes the comparison with words that echo 39:56: regret for what was neglected of what was owed to Allah. On this reading the cry names its own cause. What they lament is not only the narrow place but the turning away that led to it, the same turning away that 25:11 traced to their denial of the Hour. As-Sa'di reaches a related point by another road. They call down thubur on themselves, with disgrace and exposure, and they know now that they were wrongdoers and transgressors.",
+            "bn": "তুলনাটা তিনি শেষ করেন এমন কথায়, যা ৩৯:৫৬ আয়াতের প্রতিধ্বনি: আল্লাহর হকের ব্যাপারে যে অবহেলা করেছি, তার জন্য আফসোস। এ পাঠে আর্তনাদ নিজের কারণটাও বলে দেয়। তারা যে বিলাপ করে, তা শুধু সংকীর্ণ জায়গার জন্য নয়। সেই মুখ ফেরানোর জন্যও, যা তাদের এখানে এনেছে। ২৫:১১ আয়াত এ মুখ ফেরানোর মূল দেখিয়েছিল কিয়ামতকে অস্বীকারে। সা'দী অন্য পথে কাছাকাছি কথায় পৌঁছান। তারা নিজেদের উপর সুবূর ডেকে আনে, সঙ্গে লাঞ্ছনা আর অপমান। আর এখন তারা জানে যে তারা ছিল জালিম ও সীমালঙ্ঘনকারী।"
+          },
+          {
+            "en": "As-Sa'di then adds two things. The Creator has been just with them, he writes, since He brought them to this dwelling by their own deeds. And the calling and the cry for help will neither benefit them nor spare them anything of Allah's punishment. The regret is real and the knowledge is now complete, but both have arrived after the time when either could change the outcome. At-Tabari hears regret in the cry; as-Sa'di adds that it comes when it can no longer help.",
+            "bn": "সা'দী এরপর দুটি কথা যোগ করেন। তিনি লেখেন, স্রষ্টা তাদের প্রতি ইনসাফই করেছেন, কারণ তাদের নিজেদের আমলের কারণেই তিনি তাদের এ ঠিকানায় এনেছেন। আর সেই ডাকাডাকি আর সাহায্যের আর্তি তাদের কোনো উপকারে আসবে না, আল্লাহর শাস্তি থেকে কিছুই রক্ষা করবে না। আফসোস সত্যি, বোঝাও এখন পূর্ণ। কিন্তু দুটোই এসেছে এমন সময়ে, যখন আর কোনোটাই পরিণাম বদলাতে পারে না। তাবারী এ আর্তনাদে আফসোস শোনেন। সা'দী যোগ করেন, তা এসেছে এমন সময়ে, যখন আর কোনো কাজে আসে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Cry Met With Many",
+          "bn": "এক ডাকের জবাবে বহু"
+        },
+        "p": [
+          {
+            "en": "The answer to the cry comes in the very next verse, 25:14, which has its own place: do not call today for one thubur, call for many. At-Tabari explains the grammar there. Thubur is a verbal noun, and verbal nouns are not made plural; they are described instead by their length and their abundance, as one says he sat a long sitting. So one means once, and many means call it again and again. The cry of 25:13 is not silenced. It is told that it will have to go on.",
+            "bn": "ডাকের জবাব আসে ঠিক পরের আয়াতে, ২৫:১৪-এ, যার নিজের আলোচনা আলাদা: আজ একটি সুবূরকে ডেকো না, বহু সুবূরকে ডাকো। তাবারী সেখানে ব্যাকরণটা খুলে বলেন। সুবূর মাসদার, আর মাসদারের বহুবচন হয় না। বরং তার দৈর্ঘ্য আর আধিক্য দিয়ে তাকে বর্ণনা করা হয়, যেমন বলা হয় সে দীর্ঘ সময় বসে রইল। তাই এক মানে একবার, আর বহু মানে বারবার ডাকো। ২৫:১৩-এর আর্তনাদকে থামিয়ে দেওয়া হয় না। তাকে জানিয়ে দেওয়া হয় যে তা চলতেই থাকবে।"
+          },
+          {
+            "en": "No sound hadith attached to this verse was found in the texts fetched for it. At-Tabari, al-Qurtubi and al-Baghawi each relay a narration raised to the Prophet ﷺ about Iblis and the cry of thubur in the Fire; at-Tabari gives it a chain through 'Ali ibn Zayd from Anas, and none of the three grades it. Like the report Ibn Kathir relays through Ibn Wahb, it was not confirmed here in a canonical collection, so it is mentioned and not quoted, and nothing in this article rests on it.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা তাফসীরগুলোতে আয়াতটির সঙ্গে যুক্ত কোনো সহীহ হাদীস পাওয়া যায়নি। তাবারী, কুরতুবী ও বাগাভী প্রত্যেকেই নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা আনেন, যার বিষয় ইবলীস আর জাহান্নামে সুবূরের ডাক। তাবারী এর সনদ দেন আলী ইবন যায়দ হয়ে আনাস (রাঃ) পর্যন্ত, আর তিনজনের কেউই এর মান উল্লেখ করেন না। ইবন ওয়াহবের সূত্রে ইবন কাসীর যে বর্ণনা আনেন, তার মতো এটিও কোনো প্রামাণ্য হাদীসগ্রন্থে এখানে যাচাই করা যায়নি। তাই এর শুধু উল্লেখ আছে, উদ্ধৃতি নেই, আর এ লেখার কোনো কথা এর উপর দাঁড়িয়ে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard While It Still Helps",
+          "bn": "শোনার সময় থাকতেই"
+        },
+        "p": [
+          {
+            "en": "This verse describes what its text describes: the end, as the Qur'an presents it, of those who denied the Hour and turned from the message. It names no living person and licenses nothing against any living person or community. No reader is told here who will be thrown into that place, and no one is given the right to say it of anyone. The verse is addressed to the one hearing it while hearing can still help, and the honest way to read it is to ask what it is warning me about.",
+            "bn": "এ আয়াত ঠিক তা-ই বর্ণনা করে, যা তার শব্দে আছে: কুরআনের বিবরণে, যারা কিয়ামতকে অস্বীকার করেছিল আর বাণী থেকে মুখ ফিরিয়েছিল, তাদের পরিণতি। এখানে কোনো জীবিত মানুষের নাম নেই। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতিও এ আয়াত দেয় না। কাকে সেই জায়গায় ছুড়ে ফেলা হবে, তা কোনো পাঠককে এখানে বলা হয়নি, আর কারও সম্পর্কে তা বলার অধিকারও কাউকে দেওয়া হয়নি। আয়াতটি তার উদ্দেশে, যে এখন শুনছে, যখন শোনা এখনো কাজে আসে। সৎভাবে পড়ার পথ তাই একটাই: নিজেকে জিজ্ঞেস করা, এ আয়াত আমাকে কোন বিষয়ে সতর্ক করছে।"
+          },
+          {
+            "en": "Read with at-Tabari's account of the word, the verse holds out its own remedy. The cry in the Fire is regret for having turned away. The same regret, felt today, has another name: it is the beginning of repentance, and today it can still change the outcome. The room this life gives, to walk, to choose and to come back, is exactly what the narrow place takes away. Then 25:15 asks the question the whole scene has been leading to: is that better, or the Garden of eternity?",
+            "bn": "তাবারীর ব্যাখ্যার আলোয় পড়লে আয়াতটি নিজেই তার প্রতিকার দেখিয়ে দেয়। জাহান্নামের আর্তনাদ হলো মুখ ফিরিয়ে নেওয়ার আফসোস। আজ যদি সেই আফসোস জাগে, তার নাম অন্য: তা তওবার শুরু, আর আজ তা পরিণাম বদলে দিতে পারে। হাঁটার, বেছে নেওয়ার আর ফিরে আসার যে জায়গা এ জীবন দেয়, সংকীর্ণ সেই জায়গা ঠিক সেটাই কেড়ে নেয়। তারপর ২৫:১৫ আয়াত সেই প্রশ্নটা করে, পুরো দৃশ্য যার দিকে এগোচ্ছিল: ওটাই কি ভালো, নাকি চিরস্থায়ী জান্নাত?"
+          }
+        ]
+      }
+    ]
+  },
   "25:15": {
     "sections": [
       {
