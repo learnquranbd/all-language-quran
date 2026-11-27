@@ -37493,6 +37493,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Answer Allah's invitation to faith while you are alive; the self-reproach that comes only in the Fire changes nothing.",
     "lessonBn": "বেঁচে থাকতেই আল্লাহর দেওয়া ঈমানের দাওয়াতে সাড়া দিন। শুধু জাহান্নামে গিয়ে নিজের প্রতি যে ক্ষোভ জাগে, তাতে আর কিছুই বদলায় না।"
+  },
+  "40:30": {
+    "reflectionEn": "Fir'awn has just told his court that he shows them only what he himself sees. The man of his household who believed does not fall silent. He speaks again, and he begins with 'O my people', then says: I fear for you a day like the day of the factions. A few verses earlier Fir'awn also said 'I fear', and his fear was that Musa would change their religion. This man's fear is for the very people about to do wrong. He makes no threat of his own; he only reminds them of nations that banded together against their prophets and fell. When I warn someone, whose loss am I really afraid of? And when I am warned, can I hear the care in it?",
+    "reflectionBn": "ফিরআউন সবে তার দরবারকে বলেছে, সে নিজে যা দেখে, তাদেরও শুধু তা-ই দেখায়। কিন্তু তার ঘরেরই যে লোকটি ঈমান এনেছিল, সে চুপ করে যায়নি। আবার মুখ খুলেছে। শুরু করেছে 'হে আমার কওম' বলে, তারপর বলেছে: আমি তোমাদের জন্য দলগুলোর সেই দিনের মতো দিনের ভয় করছি। কয়েক আয়াত আগে ফিরআউনও বলেছিল 'আমি ভয় করি', আর তার ভয় ছিল, মূসা (আঃ) তাদের ধর্ম বদলে দেবেন। এই মানুষটির ভয় কিন্তু তাদেরই জন্য, যারা অন্যায় করতে উদ্যত। নিজের পক্ষ থেকে সে কোনো হুমকি দেয়নি। শুধু মনে করিয়ে দিয়েছে সেই জাতিগুলোর কথা, যারা নবীদের বিরুদ্ধে জোট বেঁধেছিল আর ধ্বংস হয়ে গিয়েছিল। আমি যখন কাউকে সতর্ক করি, আসলে কার ক্ষতির ভয় পাই? আর কেউ যখন আমাকে সতর্ক করে, তার ভেতরের দরদটুকু কি আমি টের পাই?",
+    "pointsEn": [
+      "When I warn someone close to me, is my fear for them, or for my own comfort, name or standing?",
+      "Have I stopped speaking a truth after one refusal, when a second, calmer word might still have been heard?",
+      "Do I still call people my own while I disagree with them, or do I write them off the moment they resist?",
+      "Which account of those who went before do I read as news about others rather than as a warning to me?",
+      "When someone warns me with nothing to gain for themselves, do I weigh the warning or only resent the one who gives it?"
+    ],
+    "pointsBn": [
+      "কাছের কাউকে যখন সতর্ক করি, আমার ভয়টা কি তার জন্য, নাকি নিজের আরাম, সুনাম বা অবস্থানের জন্য?",
+      "একবার ফিরিয়ে দিলেই কি আমি সত্য কথা বলা থামিয়ে দিয়েছি? অথচ দ্বিতীয়বার শান্তভাবে বললে হয়তো কথাটা কানে পৌঁছাত।",
+      "দ্বিমত থাকার সময়ও কি মানুষকে আমি আপন বলে ডাকি, নাকি তারা বাধা দিলেই তাদের খাতা থেকে কেটে দিই?",
+      "আগের মানুষদের কোন কাহিনি আমি অন্যদের খবর হিসেবে পড়ি, নিজের জন্য সতর্কবার্তা হিসেবে নয়?",
+      "নিজের কোনো লাভ ছাড়াই কেউ যখন আমাকে সাবধান করে, আমি কি সাবধানবাণীটা ওজন করে দেখি, নাকি শুধু সাবধানকারীর উপর বিরক্ত হই?"
+    ],
+    "lessonEn": "Warn others out of care for them, not for yourself, and do not give up after one refusal: remind them, gently and again, of what came to those who opposed the truth.",
+    "lessonBn": "অন্যকে সতর্ক করুন তাদের প্রতি দরদ থেকে, নিজের স্বার্থে নয়। একবার ফিরিয়ে দিলেই হাল ছাড়বেন না। যারা সত্যের বিরুদ্ধে দাঁড়িয়েছিল তাদের কী পরিণতি হয়েছিল, নরম সুরে বারবার তা মনে করিয়ে দিন।"
   }
 };
 

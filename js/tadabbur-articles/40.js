@@ -1519,6 +1519,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "40:30": {
+    "sections": [
+      {
+        "h": {
+          "en": "Speaking Up a Second Time",
+          "bn": "দ্বিতীয়বার মুখ খোলা"
+        },
+        "p": [
+          {
+            "en": "The preceding verse ends with Fir'awn's reply. I show you only what I see, he tells his court, and I guide you only to the way of right conduct (40:29). That should have closed the matter. Instead the next words are wa qala alladhi amana: and he who believed said. The man who had already spoken against killing Musa (AS) in 40:28 and 40:29 does not take the king's answer as the end. He opens a second round, and the speech that begins here runs on for many verses.",
+            "bn": "আগের আয়াতটি শেষ হয়েছে ফিরআউনের জবাবে। সে দরবারকে বলে, আমি নিজে যা দেখি তোমাদের শুধু তা-ই দেখাই, আর তোমাদের শুধু সঠিক পথই দেখাই (৪০:২৯)। কথাটা এখানেই থেমে যাওয়ার কথা ছিল। কিন্তু পরের শব্দগুলো হলো ওয়া কালাল্লাযী আমানা: আর যে ঈমান এনেছিল, সে বলল। মূসা (আঃ)-কে হত্যার বিরুদ্ধে এই মানুষটি ৪০:২৮ ও ৪০:২৯ আয়াতে আগেই কথা বলেছে। রাজার জবাবকে সে শেষ কথা বলে মেনে নেয়নি। আবার নতুন করে শুরু করেছে, আর এখান থেকে শুরু হওয়া বক্তব্য চলেছে অনেকগুলো আয়াত জুড়ে।"
+          },
+          {
+            "en": "Two commentators describe the move in a single phrase each. Al-Qurtubi writes zadahum fi al-wa'z: he added to his admonition of them. As-Sa'di reads more into it. The man spoke again, he says, repeating his call to his people, not despairing of their guidance, as is the condition of those who call to Allah: they keep calling to their Lord, nothing turns them back from it, and the insolence of the people they call does not bend them away from calling again.",
+            "bn": "দুজন তাফসীরকার ব্যাপারটাকে এক কথায় ধরেছেন। কুরতুবী লেখেন, যাদাহুম ফিল ওয়া'য: সে তাদের উপদেশ আরও বাড়িয়ে দিল। সা'দী এর ভেতরে আরও কিছু দেখেন। তাঁর ভাষায়, লোকটি আবার কথা বলেছে, নিজের কওমকে বারবার ডেকেছে, তাদের হিদায়াতের আশা ছাড়েনি। আল্লাহর দিকে যারা ডাকে, তাদের অবস্থা এমনই। তারা নিজের রবের দিকে ডাকতেই থাকে। কেউ তাদের ফেরাতে পারে না। যাদের ডাকা হচ্ছে তাদের ঔদ্ধত্যও তাদের আবার ডাকা থেকে সরিয়ে দিতে পারে না।"
+          },
+          {
+            "en": "The audience is named too. At-Tabari says the believer of Fir'awn's family spoke to Fir'awn and his council, his mala'. Al-Muyassar gives the same audience and adds the manner: wa'izan wa muhadhdhiran, admonishing and warning. These are the people who, by the man's own words in 40:29, hold the kingdom today and have the upper hand in the land. He is not preaching to a crowd that might agree with him. He is warning the very men who are deciding whether a prophet should die.",
+            "bn": "কাদের উদ্দেশে বলা, সেটাও বলা আছে। তাবারী বলেন, ফিরআউন-পরিবারের এই মুমিন কথা বলেছিল ফিরআউন আর তার পারিষদ, তার মালা'-র সঙ্গে। মুয়াসসারও একই শ্রোতার কথা বলে, আর বলার ধরনটাও জুড়ে দেয়: ওয়া'ইযান ওয়া মুহাযযিরান, উপদেশ দিয়ে আর সাবধান করে। ৪০:২৯ আয়াতে লোকটির নিজের কথাতেই আছে, আজ রাজত্ব এদের হাতে, দেশে এরাই প্রবল। সে এমন কোনো ভিড়ের সামনে ওয়াজ করছে না, যারা তার সঙ্গে একমত হতে পারে। সে সতর্ক করছে ঠিক সেই লোকদের, যারা ঠিক করছে একজন নবীকে মেরে ফেলা হবে কি না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Known Now by His Faith",
+          "bn": "এবার শুধু ঈমানের পরিচয়ে"
+        },
+        "p": [
+          {
+            "en": "Notice how the verse names him. In 40:28 he was introduced at length: a believing man from the family of Fir'awn, who concealed his faith. Here he is simply alladhi amana, the one who believed, and the same words return when he speaks again in 40:38. The family and the concealment have dropped out of the description; what identifies him now is his faith. This is an observation on the wording only. None of the commentaries consulted here remarks on the change.",
+            "bn": "আয়াতটি তাকে কোন নামে ডাকছে, খেয়াল করুন। ৪০:২৮ আয়াতে তার পরিচয় এসেছিল বিস্তারিতভাবে: ফিরআউনের পরিবারের এক মুমিন লোক, যে নিজের ঈমান গোপন রাখত। এখানে সে শুধু আল্লাযী আমানা, যে ঈমান এনেছিল। ৪০:৩৮ আয়াতে সে যখন আবার কথা বলে, তখনও এই একই শব্দ ফিরে আসে। পরিবারের উল্লেখ নেই, গোপন রাখার কথাও নেই। এখন তাকে চেনা যায় তার ঈমান দিয়েই। এটা কেবল শব্দচয়নের উপর একটা পর্যবেক্ষণ। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটি এই পরিবর্তন নিয়ে কিছু বলেনি।"
+          },
+          {
+            "en": "Ibn Kathir, on 40:28, explains when the hiding ended. The man had concealed his faith from his people, the Copts, and did not show it until that day, when Fir'awn said leave me to kill Musa; then, he writes, a fury for the sake of Allah took hold of him. Ma'arif al-Qur'an, in a note grouped with this verse, says the description shows that in the dialogue that follows he invited Fir'awn and his people to truth and faith, and held them back from killing Musa (AS).",
+            "bn": "গোপন রাখার পালা কখন শেষ হলো, ইবন কাসীর ৪০:২৮ আয়াতের আলোচনায় তা বলেছেন। লোকটি নিজের কওম কিবতীদের কাছ থেকে ঈমান লুকিয়ে রেখেছিল। প্রকাশ করেছে সেদিনই, যেদিন ফিরআউন বলল, আমাকে ছেড়ে দাও, আমি মূসাকে হত্যা করব। ইবন কাসীরের ভাষায়, তখন আল্লাহর জন্য এক ক্রোধ তাকে পেয়ে বসল। মাআরিফুল কুরআন এ আয়াতসহ কয়েকটি আয়াতের একটি টীকায় বলে, এই পরিচয় থেকেই বোঝা যায়, পরের কথোপকথনে সে ফিরআউন ও তার লোকদের সত্য আর ঈমানের দিকে ডেকেছে, আর মূসা (আঃ)-কে হত্যা করা থেকে তাদের ঠেকিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Copt or Israelite",
+          "bn": "কিবতী, নাকি বনী ইসরাঈলের লোক"
+        },
+        "p": [
+          {
+            "en": "Who was he? At-Tabari, on 40:28, reports that the scholars differed. Some said he was of Fir'awn's own people, who had believed in Musa (AS) and hid it out of fear for himself; as-Suddi said he was Fir'awn's cousin. Others said he was an Israelite who hid his faith from Fir'awn's family. At-Tabari prefers the first view, for a stated reason: Fir'awn listened to the man and held back from killing Musa, whereas an Israelite saying such things would likely have been punished at once.",
+            "bn": "লোকটি কে ছিল? তাবারী ৪০:২৮ আয়াতের আলোচনায় জানান, আলেমরা এ নিয়ে একমত নন। কেউ বলেছেন, সে ফিরআউনের নিজের জাতির লোক। মূসা (আঃ)-এর উপর ঈমান এনেছিল, কিন্তু প্রাণের ভয়ে তা লুকিয়ে রাখত। সুদ্দী বলেছেন, সে ছিল ফিরআউনের চাচাতো ভাই। অন্যরা বলেছেন, সে ছিল বনী ইসরাঈলের লোক, ঈমান লুকিয়েছিল ফিরআউনের পরিবারের কাছ থেকে। তাবারী প্রথম মতটিকে অগ্রাধিকার দেন, আর কারণও বলেন। ফিরআউন লোকটির কথা শুনেছিল, মূসাকে হত্যা করা থেকে বিরত থেকেছিল। কোনো ইসরাঈলী এমন কথা বললে সম্ভবত সঙ্গে সঙ্গেই শাস্তি পেত।"
+          },
+          {
+            "en": "Ibn Kathir calls the first view the well-known position and notes that Ibn Jarir, that is at-Tabari, chose it. On his name the sources do not settle. Al-Baghawi and al-Qurtubi each list several names, and at-Tabari records another; even the name traced to Ibn Ishaq is spelled differently in at-Tabari and in al-Baghawi. None of these is fixed to the verse with certainty, so this article gives none of them and builds nothing on any of them.",
+            "bn": "ইবন কাসীর প্রথম মতটিকে প্রসিদ্ধ মত বলেছেন, আর উল্লেখ করেছেন যে ইবন জারীর, অর্থাৎ তাবারী, এটিই গ্রহণ করেছেন। লোকটির নাম নিয়ে সূত্রগুলো এক জায়গায় পৌঁছায়নি। বাগাভী আর কুরতুবী দুজনেই কয়েকটি করে নাম দিয়েছেন, তাবারী দিয়েছেন আরেকটি। এমনকি ইবন ইসহাকের সূত্রে যে নাম এসেছে, তাবারীর কাছে তার এক রূপ, বাগাভীর কাছে আরেক রূপ। এর কোনোটিই নিশ্চিতভাবে আয়াতের সঙ্গে জুড়ে নেই। তাই এই লেখায় কোনো নাম দেওয়া হয়নি, কোনো নামের উপর কিছু দাঁড় করানোও হয়নি।"
+          },
+          {
+            "en": "One more question touches 28:20, where a man comes running from the far end of the city to tell Musa (AS) that the chiefs are plotting to kill him. Al-Baghawi relays from Muqatil and as-Suddi that the believer of this verse is that same man, and al-Qurtubi records it as Muqatil's view. Ibn Kathir and al-Qurtubi also relay from Ibn 'Abbas (RA) that none of Fir'awn's family believed except this man, Fir'awn's wife and the man of 28:20, which counts them as two people. The difference is left standing.",
+            "bn": "আরেকটি প্রশ্ন ছুঁয়ে যায় ২৮:২০ আয়াতকে। সেখানে শহরের দূর প্রান্ত থেকে এক লোক দৌড়ে এসে মূসা (আঃ)-কে জানায়, সর্দাররা তাঁকে হত্যার পরামর্শ করছে। বাগাভী মুকাতিল ও সুদ্দীর সূত্রে বলেন, এ আয়াতের মুমিন আর সেই লোক একই ব্যক্তি। কুরতুবীও এটিকে মুকাতিলের মত হিসেবে উল্লেখ করেছেন। আবার ইবন কাসীর ও কুরতুবী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, ফিরআউনের পরিবারে এই লোক, ফিরআউনের স্ত্রী আর ২৮:২০ আয়াতের লোকটি ছাড়া আর কেউ ঈমান আনেনি। এই বর্ণনায় তারা দুজন আলাদা মানুষ। মতভেদটা যেমন আছে, তেমনই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Still Calling Them 'My People'",
+          "bn": "তবু তারা 'আমার কওম'"
+        },
+        "p": [
+          {
+            "en": "Ya qawmi: O my people. He used the address in 40:29, uses it here, and uses it again in 40:32, 40:38, 40:39 and 40:41, six times in this surah's account of his speech. The people he addresses rule over him, have just heard their king call for a prophet's death, and have brushed aside his first plea. He does not speak to them as enemies or as strangers. Each new turn of the argument opens with the same claim of belonging: you are my people.",
+            "bn": "ইয়া কওমি: হে আমার কওম। এই সম্বোধন সে করেছে ৪০:২৯ আয়াতে, এখানে আবার করছে, তারপর আবার ৪০:৩২, ৪০:৩৮, ৪০:৩৯ ও ৪০:৪১ আয়াতে। এই সূরায় তার বক্তব্যে সব মিলিয়ে ছয়টি জায়গায়। যাদের সে ডাকছে, তারা তার উপর শাসন চালায়। এইমাত্র তারা শুনেছে, তাদের রাজা একজন নবীকে মেরে ফেলতে চায়। তার প্রথম অনুরোধও তারা উড়িয়ে দিয়েছে। তবু সে তাদের সঙ্গে শত্রু বা অচেনা মানুষের মতো কথা বলে না। যুক্তির প্রতিটি নতুন ধাপ শুরু হয় একই দাবিতে: তোমরা আমারই লোক।"
+          },
+          {
+            "en": "The address also carries weight in the argument. A warning from outside can be dismissed as hostility; a warning from one of their own, spoken inside Fir'awn's house, is harder to wave away. At-Tabari's reasoning about who the man was runs the same way: because he was of his people's council, Fir'awn listened to what he said and held back from what he had intended against Musa (AS). The commentators consulted here draw no lesson from the repeated address itself, and none is pressed on them.",
+            "bn": "যুক্তির দিক থেকেও এই সম্বোধনের ওজন আছে। বাইরের কারও সতর্কবাণীকে শত্রুতা বলে উড়িয়ে দেওয়া যায়। কিন্তু নিজেদেরই একজন, তাও ফিরআউনের ঘরের ভেতর থেকে, সাবধান করলে তা উড়িয়ে দেওয়া কঠিন। লোকটি কে ছিল, সে প্রশ্নে তাবারীর যুক্তিও এই দিকেই যায়। সে ছিল তার কওমের পারিষদের একজন, তাই ফিরআউন তার কথা শুনেছিল, আর মূসা (আঃ)-কে নিয়ে যা করতে চেয়েছিল তা থেকে বিরত থেকেছিল। তবে বারবার এই সম্বোধন থেকে যে তাফসীরগুলো দেখা হয়েছে, তারা আলাদা কোনো শিক্ষা বের করেনি। এখানেও তাদের নামে কিছু চাপানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Men Who Said 'I Fear'",
+          "bn": "দুজনের মুখে 'আমি ভয় করি'"
+        },
+        "p": [
+          {
+            "en": "Inni akhafu 'alaykum: indeed, I fear for you. Fir'awn had used the same verb a little earlier. Inni akhafu, he said: I fear that he will change your religion or make corruption appear in the land (40:26). So two fears face each other in one court. Fir'awn fears Musa (AS) and what he might bring. The believer's fear is 'alaykum, over them: it is for the people themselves, the same people who are about to approve a killing. One fear reaches for the sword; the other reaches for a warning.",
+            "bn": "ইন্নী আখাফু আলাইকুম: আমি তোমাদের জন্য ভয় করছি। এর একটু আগে ফিরআউনও এই একই ক্রিয়া ব্যবহার করেছিল। সে বলেছিল, ইন্নী আখাফু: আমার ভয় হয়, সে তোমাদের দীন বদলে দেবে, কিংবা দেশে ফাসাদ ছড়াবে (৪০:২৬)। একই দরবারে তাই দুটি ভয় মুখোমুখি। ফিরআউনের ভয় মূসা (আঃ)-কে নিয়ে, তিনি কী নিয়ে আসবেন তা নিয়ে। আর মুমিন লোকটির ভয় আলাইকুম, তাদের উপর। ভয়টা মানুষগুলোর নিজেদের জন্যই, যারা একটা হত্যায় সায় দিতে যাচ্ছে। এক ভয় হাত বাড়ায় তলোয়ারের দিকে, অন্য ভয় হাত বাড়ায় সাবধানবাণীর দিকে।"
+          },
+          {
+            "en": "At-Tabari and al-Muyassar both tie the fear to a deed. At-Tabari paraphrases: I fear for you, through your killing Musa if you kill him, the like of the day of the ahzab. Al-Muyassar reads: I fear for you, if you kill Musa, the like of that day. On their reading the warning is conditional. The man does not announce that the court is already doomed; he names what the plan in front of them would bring on them if they carried it out, while it can still be dropped.",
+            "bn": "তাবারী আর মুয়াসসার দুজনেই এই ভয়কে একটা কাজের সঙ্গে বেঁধেছেন। তাবারীর ব্যাখ্যা: তোমরা যদি মূসাকে হত্যা করো, সেই হত্যার কারণে আমি তোমাদের জন্য আহযাবের দিনের মতো দিনের ভয় করছি। মুয়াসসারের ভাষ্য: তোমরা যদি মূসাকে হত্যা করো, আমি তোমাদের জন্য সেই দিনের মতো দিনের ভয় করছি। তাঁদের পাঠে সতর্কবাণীটি শর্তযুক্ত। লোকটি ঘোষণা দিচ্ছে না যে দরবার ধ্বংস হবেই। সামনের পরিকল্পনাটি কাজে পরিণত করলে কী নেমে আসবে, শুধু সেটুকু বলছে, যখন পরিকল্পনাটি বাদ দেওয়ার সময় এখনো আছে।"
+          },
+          {
+            "en": "Ibn Kathir widens the frame. This, he says, is Allah telling of the righteous man, the believer of Fir'awn's family: he warned his people of the might of Allah in this world and in the Hereafter. In the verses that follow the speech moves in that order. This verse and the next recall punishments that fell on nations in this world; then 40:32 turns to the Day of Calling. This article stays with the first step and leaves 40:32 and 40:33 to be read in their own place.",
+            "bn": "ইবন কাসীর দৃষ্টিটা আরও ছড়িয়ে দেন। তাঁর ভাষায়, এখানে আল্লাহ জানাচ্ছেন এক সৎ মানুষের কথা, ফিরআউন-পরিবারের মুমিনের কথা। সে নিজের কওমকে আল্লাহর পাকড়াও সম্পর্কে সাবধান করেছিল, দুনিয়াতেও, আখিরাতেও। পরের আয়াতগুলোতে বক্তব্য এগোয় ঠিক এই ক্রমে। এ আয়াত আর পরেরটি মনে করিয়ে দেয় দুনিয়াতে নানা জাতির উপর নেমে আসা শাস্তির কথা। তারপর ৪০:৩২ আয়াতে কথা ঘুরে যায় পরস্পরকে ডাকাডাকির দিনের দিকে। এই লেখা প্রথম ধাপেই থাকছে। ৪০:৩২ ও ৪০:৩৩ আয়াত পড়া হবে তাদের নিজের জায়গায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Day for Many Endings",
+          "bn": "এক দিনে বহু পরিণতি"
+        },
+        "p": [
+          {
+            "en": "Mithla yawm al-ahzab: the like of the day of the factions. The noun day is singular, yet the factions were many and did not fall together. Al-Qurtubi glosses it with a plural: the days of punishment, ayyam al-'adhab, in which those who banded against the prophets mentioned afterwards were punished. Al-Jalalayn, read on quranx, explains it as the day of one faction being destroyed after another. Both treat the single day as a pattern repeated across generations rather than one date in history.",
+            "bn": "মিসলা ইয়াওমিল আহযাব: দলগুলোর দিনের মতো। ইয়াওম, দিন, শব্দটি একবচন। অথচ দল ছিল অনেক, আর তারা একসঙ্গে ধ্বংস হয়নি। কুরতুবী এর ব্যাখ্যা দেন বহুবচনে: আইয়ামুল আযাব, শাস্তির দিনগুলো, যখন সেই নবীদের বিরুদ্ধে জোট বাঁধা লোকেরা শাস্তি পেয়েছিল, যাঁদের কথা পরে আসছে। কুরআনএক্স-এ পড়া জালালাইন বলে, এ হলো এক দলের পর আরেক দলের ধ্বংস হওয়ার দিন। দুটো ব্যাখ্যাই এক দিনকে দেখে ইতিহাসের কোনো একটি তারিখ হিসেবে নয়, বরং প্রজন্মের পর প্রজন্ম ঘুরে আসা একটা ধারা হিসেবে।"
+          },
+          {
+            "en": "Ibn Kathir gives the factions a time: those who denied Allah's messengers in ancient ages, fi qadim ad-dahr. The commentary attributed to Ibn 'Abbas (RA), Tanwir al-Miqbas, paraphrases the phrase as a punishment like that of the disbelievers of old. The verse itself stops at the word ahzab and says no more. Who those factions were, and what the custom was that bound them, is the subject of 40:31, which has its own article; the names are not retold here.",
+            "bn": "ইবন কাসীর দলগুলোর একটা সময়ও বলে দেন: যারা ফী কাদীমিদ দাহর, বহু প্রাচীন যুগে আল্লাহর রসূলদের মিথ্যা বলেছিল। ইবন আব্বাস (রাঃ)-এর নামে প্রচলিত তাফসীর তানউইরুল মিকবাস কথাটার ব্যাখ্যা দেয় এভাবে: আগের যুগের কাফিরদের উপর যেমন শাস্তি এসেছিল, তেমন শাস্তি। আয়াতটি নিজে আহযাব শব্দে এসে থেমে যায়, এর বেশি কিছু বলে না। সেই দলগুলো কারা ছিল, কোন অভ্যাস তাদের এক সুতোয় বেঁধেছিল, সে আলোচনা ৪০:৩১ আয়াতের। সে আয়াতের নিজস্ব লেখা আছে, তাই নামগুলো এখানে আবার বলা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Banded Against Their Messengers",
+          "bn": "রসূলদের বিরুদ্ধে জোট বাঁধা"
+        },
+        "p": [
+          {
+            "en": "Ahzab is the plural of hizb, a party or band, and the commentators explain it with the verb tahazzaba, to form into a party. At-Tabari: the ahzab who banded together against Allah's messengers, Nuh, Hud and Salih (AS), so Allah destroyed them for their daring against Him, and He will destroy you as He destroyed them. He names the messengers rather than the nations. Al-Muyassar puts it briefly: those who banded together against their prophets.",
+            "bn": "আহযাব শব্দটি হিযবের বহুবচন, অর্থ দল বা জোট। তাফসীরকারেরা এর ব্যাখ্যা দেন তাহাযযাবা ক্রিয়া দিয়ে, যার মানে দল পাকানো। তাবারী বলেন, আহযাব তারা, যারা আল্লাহর রসূল নূহ, হূদ ও সালিহ (আঃ)-এর বিরুদ্ধে জোট বেঁধেছিল। আল্লাহর বিরুদ্ধে তাদের দুঃসাহসের কারণে তিনি তাদের ধ্বংস করেছিলেন। আর তাদের যেভাবে ধ্বংস করেছেন, তোমাদেরও সেভাবে ধ্বংস করবেন। লক্ষণীয়, তাবারী এখানে জাতিগুলোর নয়, রসূলদের নাম বলেছেন। মুয়াসসার কথাটা সংক্ষেপে বলে: যারা নিজেদের নবীদের বিরুদ্ধে জোট বেঁধেছিল।"
+          },
+          {
+            "en": "As-Sa'di adds a second verb. The ahzab are the denying nations who banded together against their prophets and gathered together in opposing them, ijtama'u 'ala mu'aradatihim. On every one of these readings the factions are defined by what they did to a messenger: they joined forces against him. That is the very thing being weighed in the court as the man speaks, after Fir'awn's leave me to kill Musa (40:26). His warning holds up the precedent for the plan on the table.",
+            "bn": "সা'দী আরেকটি ক্রিয়া যোগ করেন। তাঁর মতে আহযাব হলো সেই অস্বীকারকারী জাতিগুলো, যারা নিজেদের নবীদের বিরুদ্ধে জোট বেঁধেছিল, আর তাঁদের বিরোধিতায় একজোট হয়েছিল, ইজতামাউ আলা মুআরাদাতিহিম। প্রতিটি ব্যাখ্যাতেই দলগুলোর পরিচয় তাদের সেই কাজ দিয়ে, যা তারা একজন রসূলের সঙ্গে করেছিল: সবাই মিলে তাঁর বিরুদ্ধে দাঁড়িয়েছিল। ফিরআউন বলেছে, আমাকে ছেড়ে দাও, আমি মূসাকে হত্যা করব (৪০:২৬)। লোকটি যখন কথা বলছে, দরবারে ঠিক এই জিনিসটাই বিবেচনায় আছে। তার সতর্কবাণী টেবিলে থাকা পরিকল্পনার সামনে আগের নজিরটা তুলে ধরে।"
+          },
+          {
+            "en": "The word appears earlier in this surah: before them the people of Nuh denied, and the ahzab after them, and every nation set out against its messenger to seize him (40:5). In Surah Sad a list of those who denied includes Fir'awn, lord of the stakes (38:12), and closes with those are the ahzab (38:13). So the ruler being warned here is himself counted, in that other surah, among the factions. No commentary consulted here draws this link; it is offered only as a reading of the Qur'an's own wording.",
+            "bn": "এই সূরার শুরুতেও শব্দটি এসেছে: তাদের আগে নূহের কওম অস্বীকার করেছিল, তাদের পরে আহযাবও, আর প্রত্যেক জাতি নিজের রসূলকে পাকড়াও করতে চেয়েছিল (৪০:৫)। সূরা সাদে অস্বীকারকারীদের একটি তালিকায় আছে কীলকওয়ালা ফিরআউন (৩৮:১২), আর তালিকাটি শেষ হয় এই কথায়: এরাই সেই আহযাব (৩৮:১৩)। অর্থাৎ এখানে যে শাসককে সতর্ক করা হচ্ছে, ওই সূরায় সে নিজেই দলগুলোর একজন বলে গণ্য। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটি এই যোগসূত্র টানেনি। এটা শুধু কুরআনের নিজের শব্দ পাশাপাশি রেখে পড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearing the Fear in a Warning",
+          "bn": "সাবধানবাণীর ভেতরের দরদ শোনা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports a warning given to Fir'awn's court about nations that opposed their prophets, as the text describes them, and it licenses nothing against any living person or community. It names no present people as the factions, and it gives no reader the right to cast anyone in that role. No commentary consulted here attaches a hadith to this verse, and none gives a cause of revelation; it is read here in its place within the believer's speech.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি ফিরআউনের দরবারকে দেওয়া একটি সতর্কবাণীর বিবরণ দেয়, যেখানে নিজেদের নবীদের বিরোধিতা করা জাতিগুলোর কথা আছে, ঠিক যেভাবে পাঠ তাদের বর্ণনা করেছে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। বর্তমানের কোনো জাতিকে সে আহযাব বলে চিহ্নিত করে না। কাউকে সেই ভূমিকায় বসানোর অধিকারও কোনো পাঠককে দেয় না। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটি এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো প্রেক্ষাপটও দেয়নি। তাই আয়াতটি এখানে পড়া হয়েছে মুমিন লোকটির বক্তব্যের ভেতরে তার নিজের জায়গায়।"
+          },
+          {
+            "en": "What turns the verse towards the reader is its speaker. He spoke inside the house of power, to people he still called his own, after being brushed aside once, and his fear was for them. As-Sa'di sees in his repeated call the mark of those who call to Allah, who do not despair of the guidance of the people they address. The question for us is whether our warnings sound like his, anxious for the hearer and not for our own standing, and whether we stop after the first refusal.",
+            "bn": "আয়াতটিকে পাঠকের দিকে ফিরিয়ে দেয় এর বক্তা নিজেই। সে কথা বলেছিল ক্ষমতার ঘরের ভেতরে দাঁড়িয়ে, এমন লোকদের সঙ্গে যাদের সে তখনো আপন বলে ডাকছে। একবার তাকে উড়িয়ে দেওয়া হয়েছে, তবু সে থামেনি। আর তার ভয় ছিল তাদেরই জন্য। সা'দী তার বারবার ডাকার মধ্যে দেখেন আল্লাহর দিকে আহ্বানকারীদের চিহ্ন, যারা সম্বোধিত মানুষদের হিদায়াতের আশা ছাড়ে না। আমাদের প্রশ্ন হলো, আমাদের সতর্কবাণী কি তার মতো শোনায়? তাতে কি শ্রোতার জন্য উদ্বেগ থাকে, নিজের মান-মর্যাদার চিন্তা নয়? আর প্রথমবার ফিরিয়ে দিলেই কি আমরা থেমে যাই?"
+          },
+          {
+            "en": "The verse also asks something of the one being warned. Fir'awn's court heard a man of their own house say I fear for you, and the account that follows shows how they answered. A reader can ask the reverse question. When someone with nothing to gain tells me they fear for me, do I weigh what they say, or do I hear only an attack and look for a reason to dismiss it? The believer's words are worth hearing as well as imitating.",
+            "bn": "যাকে সতর্ক করা হচ্ছে, তার কাছেও আয়াতটির একটা দাবি আছে। ফিরআউনের দরবার নিজেদের ঘরেরই একজনকে বলতে শুনেছিল, আমি তোমাদের জন্য ভয় করছি। তারা কী জবাব দিয়েছিল, পরের বিবরণেই তা আছে। পাঠক উল্টো দিক থেকেও প্রশ্নটা করতে পারেন। যার নিজের কোনো লাভ নেই, এমন কেউ যখন বলে, আমি আপনার জন্য ভয় পাচ্ছি, আমি কি তার কথাটা ওজন করে দেখি? নাকি শুধু আক্রমণ শুনি আর তা উড়িয়ে দেওয়ার অজুহাত খুঁজি? মুমিন লোকটির কথা শুধু অনুকরণের জন্য নয়, মন দিয়ে শোনার জন্যও।"
+          }
+        ]
+      }
+    ]
+  },
   "40:31": {
     "sections": [
       {
