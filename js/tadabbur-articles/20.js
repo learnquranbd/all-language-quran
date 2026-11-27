@@ -459,6 +459,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:12": {
+    "sections": [
+      {
+        "h": {
+          "en": "What the Call Said Next",
+          "bn": "ডাকের পরের কথাটি"
+        },
+        "p": [
+          {
+            "en": "The story has been building for three verses. Musa (AS) saw a fire, told his family to stay where they were, and went towards it hoping for a burning brand or for guidance at it (20:10). When he reached it he was called: ya Musa (20:11). This verse gives what the call said next. Its first clause is inni ana rabbuka, indeed I am your Lord, and Ibn Kathir glosses it simply: the One who is speaking to you and addressing you. He sets it beside 28:30, where the call is reported as inni ana Allah.",
+            "bn": "তিনটি আয়াত ধরে কাহিনিটা এগিয়ে আসছিল। মূসা (আঃ) আগুন দেখলেন, পরিবারকে বললেন এখানেই থাকো, আর নিজে এগিয়ে গেলেন এই আশায় যে হয়তো একটা জ্বলন্ত কাঠ আনতে পারবেন, কিংবা আগুনের কাছে পথের দিশা পাবেন (২০:১০)। কাছে পৌঁছাতেই তাঁকে ডাকা হলো: ইয়া মূসা (২০:১১)। ডাকটা এরপর কী বলল, তা আছে এই আয়াতে। প্রথম বাক্যাংশ ইন্নী আনা রব্বুকা, নিশ্চয় আমি তোমার রব। ইবন কাসীর এর ব্যাখ্যা দেন সহজ কথায়: যিনি তোমার সঙ্গে কথা বলছেন, তোমাকে সম্বোধন করছেন। তিনি একে পাশে রাখেন ২৮:৩০ আয়াতের, যেখানে একই ডাক এসেছে ইন্নী আনাল্লাহ রূপে।"
+          },
+          {
+            "en": "The Muyassar tells the whole scene briefly: when Musa came to that fire, Allah called him, said I am your Lord, take off your sandals, you are now in the valley of Tuwa which I have blessed, and all of it was preparation for his intimate converse with his Lord. In as-Sa'di, Allah told him that He was his Lord, commanded him to make himself ready for that converse and give it its due weight, and to throw off his sandals, because he stood in a valley purified and honoured.",
+            "bn": "মুয়াসসার পুরো দৃশ্যটা বলে দেয় এক নিঃশ্বাসে। মূসা সেই আগুনের কাছে এলে আল্লাহ তাঁকে ডাকলেন, বললেন আমি তোমার রব, জুতা খুলে ফেলো, তুমি এখন তুওয়া উপত্যকায়, যাকে আমি বরকত দিয়েছি। আর এসবই ছিল রবের সঙ্গে একান্ত কথোপকথনের প্রস্তুতি। সা'দীর ব্যাখ্যায়ও আল্লাহ তাঁকে জানালেন যে তিনিই তাঁর রব। আদেশ দিলেন সেই কথোপকথনের জন্য তৈরি হতে, একে যথাযথ গুরুত্ব দিতে, আর জুতা খুলে ফেলতে। কারণ তিনি দাঁড়িয়ে আছেন এমন উপত্যকায়, যা পবিত্র, পরিশুদ্ধ ও সম্মানিত।"
+          },
+          {
+            "en": "The first word is recorded in two readings. Al-Baghawi names Abu Ja'far, the Meccan reciter Ibn Kathir and Abu 'Amr as reading anni, with an open vowel, meaning he was called with the words that I am your Lord; the others read inni, a fresh sentence: he was called, and it was said, I am your Lord. Al-Qurtubi gives the same pair. At-Tabari prefers inni, reasoning that the vocative ya Musa stands between the verb nudiya and the particle, so the verb no longer governs it.",
+            "bn": "প্রথম শব্দটির দুই রকম কিরাআত বর্ণিত আছে। বাগাভী জানান, আবু জা'ফর, মক্কার কারী ইবন কাসীর আর আবু আমর পড়েছেন আন্নী, আলিফে যবর দিয়ে। তখন অর্থ দাঁড়ায়, তাঁকে এই কথা বলে ডাকা হলো যে আমি তোমার রব। বাকিরা পড়েছেন ইন্নী, নতুন বাক্যের শুরু হিসেবে: তাঁকে ডাকা হলো, আর বলা হলো, আমি তোমার রব। কুরতুবীও এই দুটিই উল্লেখ করেন। তাবারী ইন্নী পাঠকে অগ্রাধিকার দেন। তাঁর যুক্তি হলো, নূদিয়া ক্রিয়া আর এই অব্যয়ের মাঝখানে ইয়া মূসা সম্বোধনটি এসে পড়েছে। ফলে ক্রিয়াটি আর অব্যয়ের উপর কাজ করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing Whose Voice It Was",
+          "bn": "কণ্ঠটি কার, তিনি জানলেন কীভাবে"
+        },
+        "p": [
+          {
+            "en": "How did Musa (AS) know whose voice it was? Ma'arif al-Qur'an raises the question and answers it from two later works it names, al-Bahr al-Muhit and Ruh al-Ma'ani: Allah created in his heart the certainty that this was His speech. The fire did not burn the tree it was in but added to its beauty and lustre, and the voice came from no single direction and was perceived by his whole body, not only his ears. Ma'arif calls this a miracle that left no doubt.",
+            "bn": "মূসা (আঃ) কীভাবে বুঝলেন যে কণ্ঠটি কার? মাআরিফুল কুরআন প্রশ্নটি তোলে, আর উত্তর দেয় পরবর্তী দুটি গ্রন্থের নাম নিয়ে, আল-বাহরুল মুহীত ও রূহুল মাআনী। আল্লাহ তাঁর অন্তরে এই দৃঢ় বিশ্বাস সৃষ্টি করে দিয়েছিলেন যে এটা তাঁরই কালাম। যে গাছে আগুন জ্বলছিল, আগুন তাকে পোড়ায়নি, বরং তার সৌন্দর্য আর ঔজ্জ্বল্য বাড়িয়ে দিয়েছিল। কণ্ঠটি কোনো একদিক থেকে আসছিল না, আর তিনি তা শুনছিলেন শুধু কান দিয়ে নয়, সারা শরীর দিয়ে। মাআরিফ একে মুজিযা বলে, যা তাঁর মনে সন্দেহের কোনো অবকাশ রাখেনি।"
+          },
+          {
+            "en": "Fuller narrations go back to Wahb ibn Munabbih, who in at-Tabari's report also cites what some of the People of the Book say. At-Tabari relays from him that the fire was in a bramble bush, that it drew back as Musa approached and came close when he turned to go, and that when he heard the voice he was put at ease. Al-Baghawi and Ma'arif relay a longer exchange from Wahb, about where the speaker was. These are Wahb's reports, not words of the Prophet ﷺ, and nothing here is built on them.",
+            "bn": "দৃশ্যটির আরও বিস্তারিত বর্ণনা ফিরে যায় ওয়াহব ইবন মুনাব্বিহের কাছে। তাবারীর বর্ণনায় তিনি আহলে কিতাবের কারও কারও কথাও উদ্ধৃত করেন। তাবারী তাঁর সূত্রে জানান, আগুনটা ছিল একটা কাঁটাঝোপে। মূসা কাছে এগোলে আগুন পিছিয়ে যেত, আর ফিরে যেতে চাইলে কাছে চলে আসত। তারপর কণ্ঠ শুনে তিনি আশ্বস্ত হলেন। বাগাভী আর মাআরিফ ওয়াহব থেকে আরও দীর্ঘ এক কথোপকথন আনেন, বক্তা কোথায় আছেন সেই প্রসঙ্গে। এগুলো ওয়াহবের বর্ণনা, নবী ﷺ-এর বাণী নয়। এখানে এগুলোর উপর কিছুই দাঁড় করানো হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sandals of a Dead Animal",
+          "bn": "মৃত প্রাণীর চামড়ার জুতা"
+        },
+        "p": [
+          {
+            "en": "Then the command: fa-khla' na'layka, so take off your two sandals. Al-Qurtubi defines khal' as removal and na'l as whatever you make to shield your feet from the ground, and says the scholars differed over why the command was given. At-Tabari, al-Qurtubi and Ibn Kathir all set out that difference, and beneath its many forms it comes down to two answers: something was wrong with the sandals, or something was special about the ground.",
+            "bn": "এরপর আদেশ: ফাখলা' না'লাইকা, তাই তোমার জুতা দুটি খুলে ফেলো। কুরতুবী বলেন, খাল' মানে খুলে ফেলা, আর না'ল হলো পা দুটিকে মাটি থেকে বাঁচাতে যা বানানো হয়। তিনি জানান, আদেশটি কেন দেওয়া হলো, তা নিয়ে আলিমদের মধ্যে মতভেদ আছে। তাবারী, কুরতুবী আর ইবন কাসীর তিনজনই সেই মতভেদ তুলে ধরেন। নানা রূপের নিচে আসলে দুটি উত্তর: হয় জুতায় কোনো সমস্যা ছিল, নয়তো মাটির কোনো বিশেষত্ব ছিল।"
+          },
+          {
+            "en": "The first answer is that the sandals were made from the hide of a dead donkey. At-Tabari gives it from Ka'b, who saw people taking off their sandals, recited the verse, and said they had been of a dead donkey's hide and Allah wished holiness to touch him; from 'Ikrima; and from Qatada, who said they had been told so. Al-Qurtubi names the same three and spells out the reasoning: the sandals were impure, being of hide from an animal not ritually slaughtered. Al-Baghawi records a variant wording: untanned.",
+            "bn": "প্রথম উত্তর হলো, জুতা দুটি ছিল মৃত গাধার চামড়ার তৈরি। তাবারী এটি আনেন কা'ব থেকে। তিনি দেখলেন লোকেরা জুতা খুলছে, আয়াতটি পড়লেন, তারপর বললেন, জুতাগুলো ছিল মৃত গাধার চামড়ার, আর আল্লাহ চেয়েছিলেন পবিত্রতা যেন তাঁকে স্পর্শ করে। তাবারী এটি আনেন ইকরিমা থেকেও, আর কাতাদা থেকে, যিনি বলেন তাঁদের কাছে এমনটাই বর্ণনা করা হতো। কুরতুবী এই তিনজনেরই নাম নেন, আর যুক্তিটা খুলে বলেন: যে প্রাণী শরীয়তসম্মতভাবে যবেহ হয়নি, তার চামড়া বলে জুতা দুটি ছিল নাপাক। বাগাভী আরেকটি শব্দরূপও উল্লেখ করেন: অপরিশোধিত চামড়া।"
+          },
+          {
+            "en": "Ibn Kathir puts 'Ali ibn Abi Talib, Abu Dharr, Abu Ayyub and others of the early generations behind this view. As-Sa'di notes that many commentators say it, and closes with: Allah knows best about that. A report raised to the Prophet ﷺ on what Musa wore that day, his sandals included, is recorded by at-Tirmidhi (1734), who himself grades it gharib, known only through one narrator, and a note in his text judges that narrator munkar in hadith. At-Tabari says that had it been sound he would not have looked past it, but its chain calls for scrutiny.",
+            "bn": "ইবন কাসীর এই মতের পেছনে রাখেন আলী ইবন আবী তালিব (রাঃ), আবু যার, আবু আইয়ুব এবং পূর্বসূরিদের আরও অনেককে। সা'দী বলেন, বহু মুফাসসির এ কথা বলেছেন, তারপর শেষ করেন এই বলে: আল্লাহই ভালো জানেন। সেদিন মূসা কী পরে ছিলেন, জুতাসহ, এ নিয়ে নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা তিরমিযী (১৭৩৪) সংকলন করেছেন। তিনি নিজেই একে গরীব বলেছেন, যা কেবল একজন বর্ণনাকারীর সূত্রে জানা। তাঁর গ্রন্থের একটি মন্তব্যে সেই বর্ণনাকারীকে মুনকারুল হাদীস বলা হয়েছে। তাবারী বলেন, এটি সহীহ হলে তিনি আর অন্য দিকে যেতেন না, কিন্তু এর সনদ যাচাই করে দেখা দরকার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bare Feet on Blessed Soil",
+          "bn": "বরকতময় মাটিতে খালি পা"
+        },
+        "p": [
+          {
+            "en": "The second answer looks at the ground. At-Tabari relays al-Hasan saying the sandals were of cowhide, and that Allah wished Musa to take the blessing of the land through his bare feet, the valley having been sanctified twice. When Mujahid was told that people claimed the sandals were of donkey hide or carrion, he said no: he was commanded to let his feet touch the blessing of the land. Ibn Abi Najih's paraphrase of the command is a single line: let your feet reach the blessing of the valley.",
+            "bn": "দ্বিতীয় উত্তরের নজর মাটির দিকে। তাবারী হাসান বসরীর কথা আনেন: জুতা দুটি ছিল গরুর চামড়ার, কিন্তু আল্লাহ চেয়েছিলেন মূসা খালি পায়ে মাটির বরকত গ্রহণ করুন, কারণ উপত্যকাটিকে দুবার পবিত্র করা হয়েছিল। মুজাহিদকে যখন বলা হলো, লোকে বলে জুতা দুটি ছিল গাধার চামড়ার বা মৃত প্রাণীর, তিনি বললেন, না। তাঁকে আদেশ দেওয়া হয়েছিল পা দিয়ে মাটির বরকত ছুঁতে। ইবন আবী নাজীহ আদেশটির অর্থ বলেন এক লাইনে: পা দুটিকে উপত্যকার বরকতে পৌঁছে দাও।"
+          },
+          {
+            "en": "At-Tabari takes this side and gives his reasons. Nothing in the plain wording shows that the command came because the sandals were of donkey hide or impure, and no report says so from anyone whose word is binding proof. And the clause that follows straight after, you are in the sacred valley, is clear evidence that the command was for the valley's sake. Al-Baghawi gives the same reading from 'Ikrima and Mujahid, and adds that Musa took the sandals off and threw them behind the valley.",
+            "bn": "তাবারী এই মতটিই গ্রহণ করেন, আর কারণও দেখান। আয়াতের বাহ্যিক শব্দে এমন কোনো ইঙ্গিত নেই যে জুতা গাধার চামড়ার ছিল বা নাপাক ছিল বলে খুলতে বলা হয়েছে। যাঁর কথা দলিল হিসেবে মানতে হয়, এমন কারও কাছ থেকে এ বিষয়ে কোনো বর্ণনাও নেই। আর ঠিক পরের বাক্যাংশটি, তুমি পবিত্র উপত্যকায় আছ, স্পষ্ট প্রমাণ যে আদেশটি ছিল উপত্যকার খাতিরেই। বাগাভী একই ব্যাখ্যা আনেন ইকরিমা ও মুজাহিদ থেকে। তিনি আরও বলেন, মূসা জুতা খুলে উপত্যকার ওপারে ছুড়ে ফেলেছিলেন।"
+          },
+          {
+            "en": "The names do not sit neatly on either side. 'Ikrima is cited for the donkey hide by at-Tabari and al-Qurtubi, and for the blessing of the soil by al-Baghawi. 'Ali is placed with the donkey hide by Ibn Kathir, and by at-Tabari through a chain that runs through Jabir al-Ju'fi, while al-Qurtubi and Ma'arif al-Qur'an place him, with al-Hasan and Ibn Jurayj, on the side of the valley's blessing. The sources disagree on who held which view, and this article leaves the attribution where they leave it.",
+            "bn": "নামগুলো কোনো পক্ষেই পরিপাটি করে বসে না। তাবারী ও কুরতুবী ইকরিমাকে রাখেন গাধার চামড়ার মতে, আর বাগাভী রাখেন মাটির বরকতের মতে। ইবন কাসীর আলী (রাঃ)-কে রাখেন গাধার চামড়ার মতে, তাবারীও রাখেন জাবির আল-জু'ফীর মধ্য দিয়ে যাওয়া এক সনদে। অথচ কুরতুবী ও মাআরিফুল কুরআন তাঁকে হাসান বসরী ও ইবন জুরাইজের সঙ্গে রাখেন তাঁদের দলে, যাঁরা বলেছেন উদ্দেশ্য ছিল উপত্যকার বরকত। কে কোন মত পোষণ করতেন, তা নিয়ে সূত্রগুলো একমত নয়। এই লেখা কৃতিত্বটা সেখানেই রেখে দিচ্ছে, সূত্রগুলো যেখানে রেখেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reverence Carried in the Feet",
+          "bn": "পায়ের ভেতর দিয়ে সম্মান"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi lists further views. One: the command was for humility and lowliness at the moment of intimate converse with Allah, and the early generations did likewise when they circled the House. Another: it honoured the place, as the sanctuary is not entered in sandals out of reverence; he quotes Sa'id ibn Jubayr, tread the ground barefoot as you enter the Ka'ba barefoot, a saying at-Tabari also has. Before kings, he adds, the custom is to remove one's sandals in utmost humility, and on that view it does not matter whether the sandals were of carrion or not.",
+            "bn": "কুরতুবী আরও কয়েকটি মত উল্লেখ করেন। একটি হলো, আল্লাহর সঙ্গে একান্ত কথোপকথনের মুহূর্তে বিনয় আর নম্রতা প্রকাশের জন্যই এই আদেশ, আর পূর্বসূরিরাও কাবা তাওয়াফের সময় এমনটাই করতেন। আরেকটি হলো, স্থানটির মর্যাদার খাতিরে, যেমন হারামে সম্মানের কারণে জুতা পায়ে ঢোকা হয় না। তিনি সাঈদ ইবন জুবাইরের কথা উদ্ধৃত করেন: খালি পায়ে মাটিতে চলো, যেমন খালি পায়ে কাবায় ঢোকো। তাবারীর কাছেও কথাটি আছে। কুরতুবী আরও বলেন, রাজাদের সামনে জুতা খুলে চরম বিনয় দেখানোই রীতি। এই ব্যাখ্যায় জুতা মৃত প্রাণীর চামড়ার হোক বা না হোক, তাতে কিছু যায় আসে না।"
+          },
+          {
+            "en": "He records less literal readings too. A fifth view takes the command as an image for emptying his heart of concern for family and children, since family is sometimes spoken of as a sandal, and in dream interpretation one who sees himself in sandals will marry. Another says Allah had spread for him a carpet of light and guidance, not to be trodden in sandals. He also allows that this may have been the first duty laid on Musa, as the first words to Muhammad ﷺ included purify your garments (74:2 to 74:5). Then he closes: Allah knows best what was meant.",
+            "bn": "কুরতুবী কিছু রূপক ব্যাখ্যাও লিপিবদ্ধ করেন। পঞ্চম একটি মতে আদেশটি এক প্রতীক: পরিবার আর সন্তানের চিন্তা থেকে অন্তরকে খালি করা। কারণ পরিবারকে কখনো জুতা বলে বোঝানো হয়, আর স্বপ্নের ব্যাখ্যায় কেউ নিজেকে জুতা পরা দেখলে তার বিয়ে হবে বলে ধরা হয়। আরেক মতে, আল্লাহ তাঁর জন্য নূর ও হিদায়াতের বিছানা পেতে দিয়েছিলেন, যা জুতা পায়ে মাড়ানো চলে না। কুরতুবী এ সম্ভাবনাও রাখেন যে এটিই ছিল মূসার উপর আরোপিত প্রথম ফরয, যেমন মুহাম্মাদ ﷺ-কে প্রথম দিকের কথাগুলোর মধ্যে বলা হয়েছিল, তোমার পোশাক পবিত্র রাখো (৭৪:২ থেকে ৭৪:৫)। শেষে তিনি বলেন: উদ্দেশ্য কী, আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Made the Valley Holy",
+          "bn": "উপত্যকাটি পবিত্র হলো কীসে"
+        },
+        "p": [
+          {
+            "en": "Innaka bi-l-wadi l-muqaddas: you are in the sacred valley. At-Tabari glosses al-muqaddas as purified and blessed, and relays Ibn 'Abbas glossing it as blessed, with Ibn Zayd saying the same; Mujahid's gloss is that it was sanctified, blessed, twice over. Al-Qurtubi derives the word from al-quds, purity. He mentions the view that the Holy Land is so called because Allah drove the disbelievers out of it and settled believers in it, then sets that aside as a measure of holiness, since other places share it.",
+            "bn": "ইন্নাকা বিল-ওয়াদিল মুকাদ্দাস: তুমি পবিত্র উপত্যকায় আছ। তাবারী আল-মুকাদ্দাসের অর্থ করেন পরিশুদ্ধ ও বরকতময়। তিনি ইবন আব্বাস (রাঃ) থেকে আনেন, এর অর্থ বরকতময়, ইবন যায়দও একই কথা বলেন। মুজাহিদের ব্যাখ্যা হলো, একে দুবার পবিত্র করা হয়েছে, দুবার বরকত দেওয়া হয়েছে। কুরতুবী শব্দটিকে আল-কুদস থেকে নেন, যার অর্থ পবিত্রতা। তিনি এক মত উল্লেখ করেন যে পবিত্র ভূমির এ নাম কারণ আল্লাহ সেখান থেকে কাফিরদের বের করে মুমিনদের বসিয়েছিলেন। তারপর পবিত্রতার মাপকাঠি হিসেবে মতটি সরিয়ে রাখেন, কেননা অন্য জায়গাতেও তা ঘটেছে।"
+          },
+          {
+            "en": "His own ground for the holiness is wider: Allah has given some places more merit than others, as He has with some times and some living creatures, and He favours what He wills. As-Sa'di puts it briefly: even if nothing made the valley holy except that Allah chose it for speaking with Musa, whom He addressed directly, that would be enough. Ma'arif al-Qur'an sets Tuwa among the places granted a special status, with the Ka'ba, al-Aqsa and the Prophet's Mosque, and says it lies at the foot of Mount Tur.",
+            "bn": "কুরতুবীর নিজের ভিত্তি আরও বিস্তৃত। আল্লাহ কিছু স্থানকে অন্য স্থানের চেয়ে বেশি মর্যাদা দিয়েছেন, যেমন দিয়েছেন কিছু সময়কে আর কিছু প্রাণীকে। তিনি যাকে ইচ্ছা মর্যাদা দেন। সা'দী সংক্ষেপে বলেন: আল্লাহ এই উপত্যকাকে বেছে নিয়েছেন মূসার সঙ্গে কথা বলার জন্য, যাঁর সঙ্গে তিনি সরাসরি কথা বলেছেন। এ ছাড়া উপত্যকার পবিত্রতার আর কোনো কারণ না থাকলেও এটুকুই যথেষ্ট হতো। মাআরিফুল কুরআন তুওয়াকে রাখে বিশেষ মর্যাদা পাওয়া স্থানগুলোর মধ্যে, কাবা, মসজিদুল আকসা আর মসজিদে নববীর সঙ্গে। আর বলে, এটি তূর পাহাড়ের পাদদেশে অবস্থিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tuwa, a Name or Twice",
+          "bn": "তুওয়া: নাম, নাকি দুবার"
+        },
+        "p": [
+          {
+            "en": "The last word, tuwan, drew the most opinions, and at-Tabari sets them out. Some read it as a verbal noun: Ibn 'Abbas, in one chain, says Musa crossed the valley by night and so folded it behind him, going up to its higher end. Others take it as twice: he was called twice, and a line of 'Adi ibn Zayd is cited in which tuwa means a thing repeated. Qatada and al-Hasan say the valley was sanctified twice, Qatada adding that its name is Tuwa.",
+            "bn": "শেষ শব্দ তুওয়ান নিয়েই সবচেয়ে বেশি মত এসেছে, তাবারী সেগুলো সাজিয়ে দেন। কেউ একে ক্রিয়াবাচক বিশেষ্য ধরেন। এক সনদে ইবন আব্বাস (রাঃ) বলেন, মূসা রাতের বেলা উপত্যকাটি পার হয়েছিলেন, যেন সেটিকে পেছনে ভাঁজ করে ফেলেছিলেন, তারপর উঠে গিয়েছিলেন উপত্যকার উঁচু প্রান্তে। কেউ অর্থ করেন দুবার: তাঁকে দুবার ডাকা হয়েছিল। এর সাক্ষ্য হিসেবে আদী ইবন যায়দের একটি পঙক্তি আনা হয়, যেখানে তুওয়া মানে বারবার ঘটা জিনিস। কাতাদা ও হাসান বসরী বলেন, উপত্যকাটি দুবার পবিত্র করা হয়েছিল। কাতাদা যোগ করেন, এর নাম তুওয়া।"
+          },
+          {
+            "en": "Others again say Tuwa is simply the valley's name: Ibn 'Abbas in the chain of 'Ali ibn Abi Talha, Mujahid, and Ibn Zayd, who adds that it lies near at-Tur. A last group, among them 'Ikrima from Ibn 'Abbas, reads it as a command: tread the valley. Al-Baghawi and al-Qurtubi relay ad-Dahhak's description of the place itself, a deep and rounded valley, like a well in its roundness.",
+            "bn": "আরেক দলের মতে তুওয়া কেবল উপত্যকার নাম। এ মত আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর, মুজাহিদের, আর ইবন যায়দের। ইবন যায়দ যোগ করেন, জায়গাটি তূরের কাছে। শেষ দলটি, যাঁদের মধ্যে ইবন আব্বাস (রাঃ) থেকে ইকরিমাও আছেন, একে আদেশ হিসেবে পড়েন: উপত্যকায় পা রাখো। বাগাভী আর কুরতুবী জায়গাটির বর্ণনা আনেন দাহহাক থেকে: গভীর, গোলাকার এক উপত্যকা, কুয়ার মতো গোল।"
+          },
+          {
+            "en": "Those who weigh the views come down on the name. At-Tabari says it is, in his view, the valley's name, and prefers the reading with tanwin, tuwan, which al-Baghawi gives as the reading of Kufa and Syria here and in an-Nazi'at; the others read tuwa without it. Ibn Kathir calls the name the most correct view, which makes the word an apposition explaining the valley, and points to 79:16: when his Lord called him in the sacred valley of Tuwa.",
+            "bn": "যাঁরা মতগুলো যাচাই করেন, তাঁরা নামের পক্ষেই রায় দেন। তাবারী বলেন, তাঁর মতে এটি উপত্যকার নাম, আর তিনি তানবীনসহ তুওয়ান পাঠকে অগ্রাধিকার দেন। বাগাভী জানান, কুফা ও শামের কারীরা এখানে এবং সূরা নাযিআতেও এভাবেই পড়েন। বাকিরা পড়েন তানবীন ছাড়া, তুওয়া। ইবন কাসীর নামের মতটিকেই সবচেয়ে সঠিক বলেন। তাতে শব্দটি উপত্যকার ব্যাখ্যামূলক পরিচয় হয়ে দাঁড়ায়। তিনি দেখান ৭৯:১৬ আয়াত: যখন তার রব তাকে পবিত্র তুওয়া উপত্যকায় ডেকেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sandals, Prayer and the Moment",
+          "bn": "জুতা, নামায আর সেই মুহূর্ত"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs read here attaches a sound hadith to this verse; the one report tied to it is the one at-Tirmidhi grades gharib. Al-Qurtubi does move on to sandals in prayer, with general narrations not about this verse. One is in al-Bukhari (386): Sa'id ibn Yazid al-Azdi said, I asked Anas ibn Malik, did the Prophet ﷺ pray in his sandals? He said: yes. Al-Qurtubi also relays Ibn Mas'ud's question to Abu Musa, who had taken off his sandals to lead the prayer in his own house: are you in the sacred valley?",
+            "bn": "এখানে পড়া তাফসীরগুলোর কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। আয়াতের সঙ্গে জোড়া একমাত্র বর্ণনাটি সেটিই, যাকে তিরমিযী গরীব বলেছেন। কুরতুবী অবশ্য নামাযে জুতা পরার প্রসঙ্গে যান, এমন কিছু সাধারণ বর্ণনা নিয়ে যা এ আয়াত সম্পর্কে নয়। এর একটি বুখারীতে (৩৮৬): সাঈদ ইবন ইয়াযীদ আল-আযদী বলেন, আমি আনাস ইবন মালিক (রাঃ)-কে জিজ্ঞেস করলাম, নবী ﷺ কি জুতা পরে নামায পড়তেন? তিনি বললেন, হ্যাঁ। কুরতুবী আরও আনেন আবু মূসা (রাঃ)-কে করা ইবন মাসউদ (রাঃ)-এর প্রশ্ন। আবু মূসা নিজের ঘরে ইমামতি করতে গিয়ে জুতা খুলেছিলেন। ইবন মাসউদ বললেন, আপনি কি পবিত্র উপত্যকায় আছেন?"
+          },
+          {
+            "en": "Al-Qurtubi reports that the scholars did not differ on the permissibility of praying in sandals that are clean, and that some held it better; Ma'arif al-Qur'an reports the same agreement and adds that removing them appears to have been the more common practice, as closer to humility. Those are their statements, given here as theirs. The verse itself is about one moment: a servant called by name, told who is speaking and where he is standing, and asked to come nearer with nothing between his feet and the ground.",
+            "bn": "কুরতুবী জানান, পাক জুতা পরে নামায পড়া জায়েয হওয়ার ব্যাপারে আলিমদের মধ্যে মতভেদ নেই, আর কেউ কেউ একে উত্তমও বলেছেন। মাআরিফুল কুরআনও একই ঐকমত্যের কথা বলে, আর যোগ করে যে জুতা খুলে নামায পড়াই সম্ভবত বেশি প্রচলিত ছিল, কারণ তা বিনয়ের বেশি কাছাকাছি। এগুলো তাঁদের বক্তব্য, তাঁদের নামেই এখানে রাখা হলো। আয়াতটি নিজে একটি মুহূর্তের কথা বলে। এক বান্দাকে নাম ধরে ডাকা হলো, জানানো হলো কে কথা বলছেন আর তিনি কোথায় দাঁড়িয়ে আছেন। তারপর বলা হলো কাছে আসতে, পা আর মাটির মাঝে কোনো আড়াল না রেখে।"
+          }
+        ]
+      }
+    ]
+  },
   "20:14": {
     "sections": [
       {

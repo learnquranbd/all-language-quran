@@ -34223,6 +34223,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Obey Allah's command before you see its outcome; what you put down at His word is in His hand, and what He shows you is real, not illusion.",
     "lessonBn": "ফলাফল দেখার আগেই আল্লাহর হুকুম মেনে নিন। তাঁর কথায় যা নামিয়ে রাখেন, তা তাঁরই হাতে থাকে। আর তিনি যা দেখান, তা সত্য, চোখের ধাঁধা নয়।"
+  },
+  "20:12": {
+    "reflectionEn": "A man walks towards a fire in the dark, hoping for a burning brand or someone at it who knows the way. He is called by his name, and the first words after it are: I am your Lord, so take off your sandals; you are in the sacred valley. Before anything else is taught, he is told who is speaking and where he is standing, and he is asked to do one small thing with his body. The dust of the road comes off with the sandals. I come to prayer every day with my sandals still on, in a sense: the errand, the worry, the hurry. What would it mean to take them off first, and to know whose ground I am standing on?",
+    "reflectionBn": "অন্ধকারে একজন মানুষ আগুনের দিকে হেঁটে যাচ্ছেন। আশা, হয়তো একটা জ্বলন্ত কাঠ মিলবে, কিংবা আগুনের কাছে এমন কাউকে পাওয়া যাবে যে পথ চেনে। তাঁকে নাম ধরে ডাকা হলো, আর নামের পরেই প্রথম কথা: আমি তোমার রব, তাই জুতা খুলে ফেলো, তুমি পবিত্র উপত্যকায় আছ। আর কিছু শেখানোর আগে তাঁকে জানানো হলো কে কথা বলছেন আর তিনি কোথায় দাঁড়িয়ে আছেন। তারপর শরীর দিয়ে ছোট্ট একটা কাজ করতে বলা হলো। জুতার সঙ্গে পথের ধুলোও খসে পড়ল। আমি তো প্রতিদিন নামাযে দাঁড়াই জুতা পায়েই, এক অর্থে। সঙ্গে থাকে কাজের তাড়া, দুশ্চিন্তা, ব্যস্ততা। আগে সেগুলো খুলে রাখার মানে কী হতে পারে? আর কার জমিনে দাঁড়িয়ে আছি, সেটা জেনে দাঁড়ানোর মানেই বা কী?",
+    "pointsEn": [
+      "When I stand to pray, do I first remember who I am standing before, or do I begin reciting with my mind still out on the road?",
+      "What do I carry into worship that I should set down at the door, and have I ever named it to myself?",
+      "Do the places and times Allah has honoured change anything in how I walk, speak and dress there?",
+      "Is my humility before Him only in my words, or does my body ever take part in it?",
+      "This command came with its reason beside it: you are in the sacred valley. Which command do I keep putting off even though I already know why it was given?"
+    ],
+    "pointsBn": [
+      "নামাযে দাঁড়িয়ে আমি কি আগে মনে করি কার সামনে দাঁড়িয়েছি, নাকি মন রাস্তায় রেখেই তিলাওয়াত শুরু করে দিই?",
+      "ইবাদতে ঢোকার সময় এমন কী সঙ্গে নিয়ে আসি, যা দরজায় নামিয়ে রাখা উচিত? সেটার নাম কি কখনো নিজের কাছে উচ্চারণ করেছি?",
+      "আল্লাহ যে স্থান আর সময়কে মর্যাদা দিয়েছেন, সেখানে আমার চলা, কথা বলা আর পোশাকে কি কোনো তফাত আসে?",
+      "তাঁর সামনে আমার বিনয় কি শুধু মুখের কথায়, নাকি কখনো আমার শরীরও তাতে শরিক হয়?",
+      "এই আদেশের পাশেই কারণটা বলে দেওয়া আছে: তুমি পবিত্র উপত্যকায় আছ। কোন আদেশ আমি কারণ জেনেও বারবার পিছিয়ে দিচ্ছি?"
+    ],
+    "lessonEn": "Come before your Lord knowing who is speaking to you and whose ground you stand on, and set down at the door whatever you carried in from the road.",
+    "lessonBn": "রবের সামনে আসুন এটা জেনে যে কে আপনার সঙ্গে কথা বলছেন আর আপনি কার জমিনে দাঁড়িয়ে আছেন। পথ থেকে যা বয়ে এনেছেন, দরজায় তা নামিয়ে রেখে আসুন।"
   }
 };
 
