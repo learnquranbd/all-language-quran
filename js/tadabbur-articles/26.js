@@ -8511,6 +8511,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:176": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Last of Five Openings",
+          "bn": "পাঁচ সূচনার শেষটি"
+        },
+        "p": [
+          {
+            "en": "Kadhdhaba ashabu l-aykati l-mursalin: the companions of the thicket denied the messengers. Five times this surah opens a story with this line: the people of Nuh in 26:105, 'Ad in 26:123, Thamud in 26:141, the people of Lut in 26:160, and here, for the last time. The four earlier peoples are named by a tribe or by their prophet. This one alone is named for a place. Its verb, kadhdhaba, also lacks the feminine ending the four earlier lines carry; the commentaries fetched for this verse pass over that, so it is only noted here.",
+            "bn": "কায্যাবা আসহাবুল আইকাতিল মুরসালীন: বনের অধিবাসীরা রাসূলদের মিথ্যা বলেছিল। এই সূরা পাঁচবার একটি কাহিনি শুরু করে ঠিক এই বাক্য দিয়ে: ২৬:১০৫ আয়াতে নূহের কওম, ২৬:১২৩ আয়াতে আদ, ২৬:১৪১ আয়াতে সামূদ, ২৬:১৬০ আয়াতে লূতের কওম, আর শেষবারের মতো এখানে। আগের চারটি জাতির পরিচয় হয় গোত্রের নামে, নয়তো তাদের নবীর নামে। একমাত্র এরাই পরিচিত একটা জায়গার নামে। এখানকার ক্রিয়া কায্যাবা-তে আগের চার বাক্যের মতো স্ত্রীলিঙ্গের চিহ্নটিও নেই। এই আয়াতের জন্য আনা তাফসীরগুলো এ নিয়ে কিছু বলে না, তাই কথাটা এখানে শুধু উল্লেখ করে রাখা হলো।"
+          },
+          {
+            "en": "What follows comes quickly. In 26:177 Shu'ayb (AS) steps forward with the question each of these five messengers asks, will you not fear Allah, and 26:178, already in this collection, carries his claim to be a trustworthy messenger, together with Ibn Kathir's reason why the word 'brother' is missing from this story. That ground is not covered again here. This article stays with the four words of the opening: what an aykah is, how the word is read, who these people were, and what it means to deny the messengers when only one stood before them.",
+            "bn": "এরপর কথা এগোয় দ্রুত। ২৬:১৭৭ আয়াতে শুআয়ব (আঃ) সামনে আসেন সেই প্রশ্ন নিয়ে, যা এই পাঁচ কাহিনির প্রত্যেক রাসূল করেছেন: তোমরা কি আল্লাহকে ভয় করবে না? আর ২৬:১৭৮ আয়াতে, যা এই সংকলনে আগেই এসেছে, আছে তাঁর বিশ্বস্ত রাসূল হওয়ার দাবি। সেখানেই আলোচনা হয়েছে, এই কাহিনিতে 'ভাই' শব্দটি কেন নেই, ইবন কাসীরের ব্যাখ্যাসহ। সে কথা এখানে আর ফিরিয়ে আনা হবে না। এই লেখা থাকবে সূচনার চারটি শব্দ নিয়ে: আইকা কী, শব্দটা কীভাবে পড়া হয়, এই লোকেরা কারা ছিল, আর সামনে মাত্র একজন রাসূল থাকা সত্ত্বেও রাসূলদের অস্বীকার করার মানে কী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Branches Knotted Together",
+          "bn": "ডালে ডালে জড়ানো বন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari begins with the word. Al-aykah is al-shajar al-multaff, trees grown into one another; it is the singular of ayk, and every mass of interlaced trees, he says, is an aykah to the Arabs. He proves it from poetry, citing a line of an-Nabigha of Banu Dhubyan that speaks of the forward feathers of 'a dove of an aykah'. The word was not coined for this story. It was the ordinary Arabic for a grove grown so thick that its branches knot together.",
+            "bn": "তাবারী শুরু করেন শব্দটি দিয়ে। আইকা মানে আশ-শাজারুল মুলতাফ্ফ, এমন গাছ যা একটা আরেকটার সঙ্গে জড়িয়ে বেড়ে উঠেছে। শব্দটি আইক-এর একবচন। তাঁর ভাষায়, আরবদের কাছে জড়াজড়ি করা যেকোনো গাছের ঝাড়ই আইকা। প্রমাণ হিসেবে তিনি কবিতা আনেন: বনু যুবইয়ানের নাবিগার একটি পঙক্তি, যেখানে 'আইকার এক ঘুঘুর' সামনের পালকের কথা আছে। অর্থাৎ শব্দটা এই কাহিনির জন্য বানানো হয়নি। এমন ঘন বন, যার ডালপালা একে অপরের সঙ্গে গিঁট বেঁধে যায়, তাকে আরবরা সাধারণ কথাতেই আইকা বলত।"
+          },
+          {
+            "en": "He then gives the early reports, all on this verse. In one, Ibn Abbas (RA) explains the companions of al-aykah as the companions of the ghayda, the thicket. In a second, through another chain, he says al-aykah is majma' al-shajar, the place where trees gather. In a third, through Ibn Jurayj, he says they are the people of Madyan, and al-aykah is the tangled growth of trees. Ibn Zayd says simply that al-aykah means trees. The wording varies; the picture does not. These were a people at home among dense trees.",
+            "bn": "এরপর তিনি আনেন প্রথম যুগের বর্ণনাগুলো, সবই এই আয়াত নিয়ে। একটিতে ইবন আব্বাস (রাঃ) আসহাবুল আইকার ব্যাখ্যা দেন গাইদা-র লোক বলে, মানে ঝোপঝাড়ের বনের লোক। আরেক সূত্রের দ্বিতীয় বর্ণনায় তিনি বলেন, আইকা হলো মাজমাউশ শাজার, যেখানে গাছ এসে জমা হয়। ইবন জুরাইজের সূত্রে তৃতীয় বর্ণনায় তিনি বলেন, এরা মাদইয়ানের লোক, আর আইকা মানে গাছের জড়াজড়ি ঝাড়। ইবন যায়দ শুধু বলেন, আইকা মানে গাছ। ভাষা আলাদা, কিন্তু ছবি একটাই: ঘন গাছপালার মাঝে বসত করা এক জাতি।"
+          },
+          {
+            "en": "Al-Qurtubi's passage states that no disagreement is known among the scholars of language that al-aykah means tangled trees. He relays al-Khalil's description: a thicket that grows lote trees, arak and similar tender trees. From Qatada he relays that the companions of al-aykah were people of a thicket and trees, and that most of their trees were dawm, the doum palm. As-Sa'di calls them people of orchards whose trees interlace, and the Muyassar speaks of the people of a land with tangled trees.",
+            "bn": "কুরতুবীর আলোচনায় আছে, আইকা মানে জড়াজড়ি করা গাছ, এ নিয়ে ভাষাবিদদের মধ্যে কোনো মতভেদ জানা নেই। তিনি খলীলের বর্ণনাও আনেন: এমন ঝোপ-বন, যেখানে কুল গাছ, আরাক আর এ রকম নরম জাতের গাছ জন্মায়। কাতাদা থেকে তিনি বর্ণনা করেন, আসহাবুল আইকা ছিল ঝোপ আর গাছপালার মানুষ, আর তাদের বেশির ভাগ গাছ ছিল দাওম, এক জাতের তালগাছ। সা'দী তাদের বলেন এমন বাগানের মালিক, যার গাছগুলো একে অপরের সঙ্গে জড়ানো। মুয়াসসার বলেন, জড়াজড়ি গাছে ভরা এক ভূমির অধিবাসী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Aykah or Laykah",
+          "bn": "আল-আইকা, নাকি লাইকা"
+        },
+        "p": [
+          {
+            "en": "The word is not read the same way by every reader. Al-Baghawi reports that the Iraqi readers read al-Aykah here and in Surah Sad (38:13), with a hamza, a silent lam and a kasra on the final letter. The others read Laykah, without the hamza and with a fatha on the lam and on the final letter. They took it, he says, as the name of the town, a name that does not take the regular noun's ending. In Surah al-Hijr and Surah Qaf, he adds, there was no disagreement: both are read al-Aykah.",
+            "bn": "শব্দটি সব কারী একইভাবে পড়েন না। বাগাভী জানান, ইরাকের কারীগণ এখানে আর সূরা সোয়াদে (৩৮:১৩) পড়েন আল-আইকা: হামযাসহ, লাম সাকিন, শেষ অক্ষরে যের। অন্যরা পড়েন লাইকা: হামযা ছাড়া, লাম আর শেষ অক্ষর দুটোতেই যবর। বাগাভীর কথায়, তাঁরা একে ধরেছেন জনপদটির নাম হিসেবে, আর এমন নামে সাধারণ বিশেষ্যের শেষ-চিহ্ন বসে না। তিনি আরও বলেন, সূরা হিজর আর সূরা ক্বাফে কোনো মতভেদ হয়নি। সেখানে দুই জায়গাতেই সবাই পড়েন আল-আইকা।"
+          },
+          {
+            "en": "Al-Qurtubi names two of those readers. Citing an-Nahhas, he reports that Abu Ja'far and Nafi' read kadhdhaba ashabu Laykata l-mursalin here, and likewise in Sad. He relays al-Jawhari's remark that the two forms are said to be like Bakkah and Makkah, two shapes of one name. The difference shows on the page. In 15:78 and 50:14 the word is written with the alif of al-, while here and in 38:13 it is written short, which al-Qurtubi notes when he says the script in these two places has Laykah.",
+            "bn": "কুরতুবী সেই কারীদের দুজনের নাম বলেন। নাহহাসের সূত্রে তিনি জানান, আবু জাফর ও নাফি এখানে পড়েছেন কায্যাবা আসহাবু লাইকাতাল মুরসালীন, আর সূরা সোয়াদেও একইভাবে। জাওহারীর একটি মন্তব্যও তিনি আনেন: দুই রূপকে বলা হয় বাক্কা আর মাক্কার মতো, একই নামের দুই চেহারা। পার্থক্যটা লেখাতেও দেখা যায়। ১৫:৭৮ ও ৫০:১৪ আয়াতে শব্দটি লেখা হয়েছে আল-এর আলিফসহ। আর এখানে ও ৩৮:১৩ আয়াতে লেখা হয়েছে ছোট আকারে। কুরতুবী সে দিকেই ইঙ্গিত করেন যখন বলেন, এই দুই জায়গায় লিখিত রূপে আছে লাইকা।"
+          },
+          {
+            "en": "The Arabic printed with this verse follows the reading al-Aykah, with the final kasra, written in that shorter shape. Al-Baghawi and al-Qurtubi both record the other form as a reading, with its readers named, though, as the next section shows, the scholars they cite do not agree on what the shorter form means or how its last letter should be voiced. Whichever is recited, the verse names this people by where they lived, not by whom they descended from.",
+            "bn": "এই আয়াতের সঙ্গে যে আরবি পাঠ ছাপা আছে, তা আল-আইকা কিরাআত অনুসারে, শেষে যেরসহ, তবে লেখা ওই ছোট আকারে। অন্য রূপটিকে বাগাভী ও কুরতুবী দুজনেই কিরাআত হিসেবে উল্লেখ করেছেন, কারীদের নামসহ। তবে পরের অংশে দেখা যাবে, তাঁরা যাঁদের উদ্ধৃত করেন, ছোট রূপটির অর্থ কী আর তার শেষ অক্ষরে কোন স্বরচিহ্ন বসবে, তা নিয়ে তাঁরা একমত নন। যেটাই পড়া হোক, আয়াত এই জাতিকে চিনিয়ে দেয় তারা কোথায় থাকত তা দিয়ে, কার বংশধর তা দিয়ে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Town's Name or a Grove",
+          "bn": "জনপদের নাম, নাকি বনের"
+        },
+        "p": [
+          {
+            "en": "Behind the two readings sits a question of meaning. Al-Qurtubi records that whoever reads al-Aykah means the thicket, and whoever reads Laykah means the name of the town. He also records Abu Ubayd's report that Laykah was the name of the village they lived in and al-Aykah the name of the surrounding land. Al-Baghawi, as seen, describes the Laykah readers as taking it for the town's name. On this side, the two forms point to two things, a settlement and the country around it.",
+            "bn": "দুই কিরাআতের পেছনে আছে অর্থের একটা প্রশ্ন। কুরতুবী উল্লেখ করেন, যিনি আল-আইকা পড়েন তাঁর কাছে এর মানে ঝোপ-বন, আর যিনি লাইকা পড়েন তাঁর কাছে এটা জনপদের নাম। তিনি আবু উবাইদের একটি বর্ণনাও আনেন: লাইকা ছিল সেই গ্রামের নাম যেখানে তারা থাকত, আর আল-আইকা ছিল আশপাশের গোটা অঞ্চলের নাম। বাগাভীও, আগেই যেমন দেখা গেছে, লাইকার কারীদের সম্পর্কে বলেন যে তাঁরা একে জনপদের নাম ধরেছেন। এই মতে দুই রূপ দুটি আলাদা জিনিস বোঝায়: একটা বসতি, আর তার চারপাশের এলাকা।"
+          },
+          {
+            "en": "The passage in al-Qurtubi that follows an-Nahhas rejects Abu Ubayd's report firmly: it is not established, no one is known to have said it, and the scholars of tafsir and of Arabic all hold otherwise. Its argument is that Laykah is al-Aykah with the hamza softened and its vowel thrown back onto the lam, so the meaning is one, and on that analysis, citing Sibawayh, it allows only the kasra. Al-Baghawi, for his part, reports the fatha as the other readers' choice without objection. Both positions are kept here as they stand.",
+            "bn": "কুরতুবীর আলোচনায় নাহহাসের উদ্ধৃতির পরের অংশ আবু উবাইদের বর্ণনাকে কড়াভাবে নাকচ করে। বলা হয়, এটা প্রমাণিত নয়, কে বলেছেন তাও জানা নেই, আর তাফসীর ও আরবি ভাষার আলেমরা সবাই এর বিপরীত মত পোষণ করেন। যুক্তিটা এই: লাইকা আসলে আল-আইকাই, হামযাকে হালকা করে তার স্বরচিহ্ন লামের উপর সরিয়ে দেওয়া হয়েছে, তাই অর্থ একটাই। আর এই বিশ্লেষণে, সিবাওয়াইর নিয়ম টেনে, সেখানে শুধু যেরই বৈধ ধরা হয়। অন্যদিকে বাগাভী যবরের পাঠকে অন্য কারীদের পছন্দ হিসেবে উল্লেখ করেন, কোনো আপত্তি ছাড়াই। দুই অবস্থানই এখানে যেমন আছে তেমন রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Madyan, or a Second People",
+          "bn": "মাদইয়ান, নাকি ভিন্ন এক জাতি"
+        },
+        "p": [
+          {
+            "en": "Were they Madyan, the people to whom Shu'ayb (AS) is sent in 7:85 and 11:84, or another people? Ibn Kathir holds they were the people of Madyan on the correct view, and the article on 26:178 sets out his reasoning: Shu'ayb gives them the same command on weights and measures he gives Madyan. At-Tabari reports the same identification, more cautiously, with the words 'as is reported', and cites Ibn Jurayj from Ibn Abbas (RA): the people of Madyan. As-Sa'di says they are the people of Madyan, and al-Baghawi calls them Shu'ayb's people.",
+            "bn": "এরা কি মাদইয়ান, ৭:৮৫ ও ১১:৮৪ আয়াতে যাদের কাছে শুআয়ব (আঃ)-কে পাঠানো হয়েছে, নাকি অন্য কোনো জাতি? ইবন কাসীরের মতে সঠিক কথা হলো, এরা মাদইয়ানেরই লোক। ২৬:১৭৮ আয়াতের লেখায় তাঁর যুক্তি এসেছে: মাপ ও ওজন নিয়ে শুআয়ব (আঃ) এদের যে নির্দেশ দেন, মাদইয়ানকেও ঠিক সেই নির্দেশই দেন। তাবারীও একই কথা বলেন, তবে সাবধানে, 'যেমনটা বর্ণিত আছে' বলে। সঙ্গে আনেন ইবন জুরাইজের সূত্রে ইবন আব্বাস (রাঃ)-এর কথা: এরা মাদইয়ানের লোক। সা'দী বলেন, এরাই মাদইয়ানবাসী, আর বাগাভী এদের বলেন শুআয়বের কওম।"
+          },
+          {
+            "en": "Others held there were two peoples. Al-Qurtubi relays from Qatada that Shu'ayb (AS) was sent to two nations: to his own people of Madyan, and to the companions of al-aykah. At-Tabari's report from Ibn Zayd points the same way: Allah sent Shu'ayb to his people of Madyan and to the people of the open country, and these, Ibn Zayd said, are the companions of Laykah, Laykah and al-Aykah being one. Ibn Kathir knows the view, and that some counted three nations, and rejects it. Both sides are kept here as their sources give them.",
+            "bn": "অন্য কেউ কেউ বলেছেন, এরা দুই জাতি। কুরতুবী কাতাদা থেকে বর্ণনা করেন, শুআয়ব (আঃ)-কে পাঠানো হয়েছিল দুই উম্মতের কাছে: মাদইয়ানে তাঁর নিজের কওমের কাছে, আর আসহাবুল আইকার কাছে। তাবারী ইবন যায়দ থেকে যে বর্ণনা আনেন, তাও একই দিকে যায়: আল্লাহ শুআয়বকে পাঠিয়েছিলেন মাদইয়ানে তাঁর কওমের কাছে, আর খোলা প্রান্তরের অধিবাসীদের কাছে। ইবন যায়দ বলেন, এরাই আসহাবু লাইকা, আর লাইকা ও আল-আইকা একই। ইবন কাসীর এই মত জানেন, এও জানেন যে কেউ তিনটি জাতির কথা বলেছেন, এবং তিনি তা গ্রহণ করেন না। দুই পক্ষকেই এখানে রাখা হলো, তাদের সূত্র যেভাবে বলেছে সেভাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Man, Every Messenger",
+          "bn": "একজন মানুষ, সব রাসূল"
+        },
+        "p": [
+          {
+            "en": "Only one messenger stood before them, yet the verse says they denied al-mursalin, the messengers. As-Sa'di gives the reason in a clause: they denied their prophet Shu'ayb, who came with what the messengers came with. The Muyassar's wording, met already under 26:178, is that by denying their messenger in his message they became deniers of every message. The same plural closes each of the surah's five opening lines, and the same logic runs through them. The message is one, so to refuse one carrier of it is to refuse the whole line.",
+            "bn": "সামনে ছিলেন একজনমাত্র রাসূল, তবু আয়াত বলছে তারা আল-মুরসালীন, মানে রাসূলদের মিথ্যা বলেছিল। সা'দী কারণটা বলেন এক বাক্যে: তারা তাদের নবী শুআয়বকে অস্বীকার করেছিল, যিনি সেই জিনিসই এনেছিলেন যা রাসূলরা এনেছিলেন। মুয়াসসারের কথা, যা ২৬:১৭৮ আয়াতের আলোচনায় আগেই এসেছে, এই যে নিজেদের রাসূলের রিসালাত অস্বীকার করে তারা সব রিসালাতেরই অস্বীকারকারী হয়ে গেল। সূরার পাঁচটি সূচনা-বাক্যই শেষ হয় এই বহুবচনে, আর সবগুলোর ভেতরে একই যুক্তি। বার্তা একটাই, তাই তার একজন বাহককে ফিরিয়ে দেওয়া মানে গোটা ধারাটাকেই ফিরিয়ে দেওয়া।"
+          },
+          {
+            "en": "Elsewhere the Qur'an names them in passing and keeps to the same charge. 50:14 lists the companions of the thicket beside the people of Tubba' and says of all of them, kullun kadhdhaba al-rusul: each denied the messengers, so My threat came due. 15:78 says only that the companions of the thicket were wrongdoers, and 38:13 counts them among the confederates, al-ahzab. None of these adds a detail of their daily lives. Each repeats what they did with the truth that reached them.",
+            "bn": "কুরআনের অন্য জায়গায়ও এদের নাম আসে প্রসঙ্গক্রমে, আর অভিযোগ থাকে একই। ৫০:১৪ আয়াত আসহাবুল আইকাকে তুব্বার কওমের পাশে রেখে সবার সম্পর্কে বলে, কুল্লুন কায্যাবার রুসুল: প্রত্যেকেই রাসূলদের মিথ্যা বলেছিল, ফলে আমার সতর্কবাণী তাদের উপর সত্য হলো। ১৫:৭৮ আয়াত শুধু বলে, আসহাবুল আইকা ছিল জালিম। আর ৩৮:১৩ আয়াত তাদের গণ্য করে আল-আহযাব, মানে দলগুলোর মধ্যে। এর কোনোটিই তাদের দৈনন্দিন জীবনের কোনো খুঁটিনাটি যোগ করে না। প্রতিটি আয়াত শুধু আবার বলে, তাদের কাছে পৌঁছানো সত্যের সঙ্গে তারা কী করেছিল।"
+          },
+          {
+            "en": "The plural speaks to anyone who has ever said that the trouble is not the message but the messenger. A true word can reach us through someone we find tiresome, or too young, or too familiar, and we refuse the person and think the matter closed. The verse counts it otherwise. What came through Shu'ayb (AS) had come through Nuh, Hud, Salih and Lut (AS) before him, and the companions of the thicket, in turning away one man, joined every people that had turned the others away.",
+            "bn": "যে কখনো বলেছে, সমস্যা বার্তায় নয়, বাহকে, এই বহুবচন তার জন্যও। সত্য কথা আমাদের কাছে আসতে পারে এমন কারও হাত দিয়ে, যাকে আমরা বিরক্তিকর ভাবি, বা বয়সে ছোট ভাবি, বা বেশি চেনা বলে হালকা ধরি। তখন আমরা মানুষটিকে ফিরিয়ে দিয়ে ভাবি ব্যাপারটা মিটে গেল। আয়াত হিসাবটা অন্যভাবে করে। শুআয়ব (আঃ)-এর হাতে যা এসেছিল, তা তাঁর আগে এসেছিল নূহ, হূদ, সালিহ ও লূত (আঃ)-এর হাতে। একজন মানুষকে ফিরিয়ে দিয়ে আসহাবুল আইকা সেই সব জাতির দলে ভিড়ে গেল, যারা আগের রাসূলদের ফিরিয়ে দিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Shade They Gathered Under",
+          "bn": "যে ছায়ার নিচে তারা জড়ো হলো"
+        },
+        "p": [
+          {
+            "en": "The surah closes this story with fa-kadhdhabuhu fa-akhadhahum 'adhabu yawmi al-zullah: they denied him, so the punishment of the day of the canopy seized them (26:189). Al-Qurtubi, on our verse, relays a report from ad-Dahhak that ties that day to the trees. When the heat struck them, the companions of the thicket went out and gathered into the thicket and its trees. Then Allah sent a cloud over them, and they took shade beneath it, and when all of them were under it, they were burned.",
+            "bn": "সূরা এই কাহিনি শেষ করে এভাবে: ফাকায্যাবূহু ফাআখাযাহুম আযাবু ইয়াওমিয যুল্লাহ, তারা তাঁকে মিথ্যা বলল, ফলে ছায়ার দিনের আযাব তাদের পাকড়াও করল (২৬:১৮৯)। কুরতুবী আমাদের আয়াতের আলোচনায় দাহহাক থেকে একটি বর্ণনা আনেন, যা সেই দিনকে গাছের সঙ্গে জুড়ে দেয়। প্রচণ্ড গরম যখন তাদের ধরল, আসহাবুল আইকা বেরিয়ে এসে বন আর গাছপালার ভেতরে জড়ো হলো। তারপর আল্লাহ তাদের উপর একখণ্ড মেঘ পাঠালেন। তারা তার নিচে ছায়া নিল, আর সবাই যখন তার নিচে এসে জমা হলো, তখন তারা পুড়ে গেল।"
+          },
+          {
+            "en": "This is ad-Dahhak's own account, not words of the Prophet ﷺ, relayed by al-Qurtubi without a chain to him, and it is best held lightly; the day of the canopy belongs to 26:189, where it can be weighed with that verse's own sources. Read for its image alone, it is sobering: the shelter a people ran to, in the place they were named for, became the place where the end found them. No tafsir fetched for this verse attaches a hadith to it.",
+            "bn": "এটি দাহহাকের নিজের বর্ণনা, নবী ﷺ-এর কথা নয়। কুরতুবী তা এনেছেন তাঁর পর্যন্ত কোনো সনদ ছাড়া, তাই একে হালকাভাবেই ধরা উচিত। ছায়ার দিনের আলোচনা আসলে ২৬:১৮৯ আয়াতের, সেখানে সে আয়াতের নিজস্ব সূত্র দিয়ে একে যাচাই করা যাবে। শুধু ছবিটুকুর জন্য পড়লেও তা ভাবিয়ে তোলে। যে জায়গার নামে তাদের পরিচয়, সেখানে যে আশ্রয়ের দিকে তারা ছুটে গিয়েছিল, সেটাই হয়ে উঠল তাদের শেষের জায়গা। এই আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named for What They Lived Among",
+          "bn": "যা নিয়ে বাঁচে, তা-ই পরিচয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes one people, in one story, who denied the messenger sent to them, and the surah records what followed. It licenses nothing against any living person or community: not against people who live among forests or orchards, not against anyone in the lands once linked to Madyan, and not against any people who do not yet believe. The judgment on the companions of the thicket was Allah's, made known by revelation. No reader inherits the right to pronounce it on anyone.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি কাহিনিতে এক জাতির কথা বলে, যারা তাদের কাছে পাঠানো রাসূলকে অস্বীকার করেছিল, আর সূরা লিখে রাখে এরপর কী ঘটেছিল। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। যারা বন বা বাগানের মাঝে থাকে, তাদের বিরুদ্ধে নয়। এক সময় মাদইয়ানের সঙ্গে যুক্ত এলাকার কোনো বাসিন্দার বিরুদ্ধে নয়। যারা এখনো ঈমান আনেনি, তেমন কোনো জাতির বিরুদ্ধেও নয়। আসহাবুল আইকার উপর রায় ছিল আল্লাহর, জানানো হয়েছে ওহির মাধ্যমে। কোনো পাঠক উত্তরাধিকার সূত্রে সে রায় কারও উপর ঘোষণা করার অধিকার পায় না।"
+          },
+          {
+            "en": "Turned inward, the four words ask two questions. The first is about names. This people is remembered by the trees around them, not by a forefather, and Ibn Kathir, as 26:178 shows, ties the name to the tree they worshipped. What we live among and cling to can become what we are known by. The second is about refusal. No one denies the messengers in a single grand act; one turns away one person, on one day, for reasons that feel sufficient, and the verse records the whole of what was refused.",
+            "bn": "নিজের দিকে ফেরালে এই চারটি শব্দ দুটি প্রশ্ন তোলে। প্রথমটা নাম নিয়ে। এই জাতিকে মনে রাখা হয় তাদের চারপাশের গাছ দিয়ে, কোনো পূর্বপুরুষ দিয়ে নয়। আর ইবন কাসীর, ২৬:১৭৮ আয়াতে যেমন এসেছে, নামটিকে জুড়ে দেন সেই গাছের সঙ্গে, যার তারা উপাসনা করত। আমরা যা নিয়ে বাঁচি আর যা আঁকড়ে ধরি, এক সময় তা-ই আমাদের পরিচয় হয়ে যেতে পারে। দ্বিতীয় প্রশ্ন প্রত্যাখ্যান নিয়ে। কেউ এক ধাক্কায় সব রাসূলকে অস্বীকার করে না। মানুষ ফিরিয়ে দেয় একজনকে, একদিন, এমন কারণে যা তখন যথেষ্ট মনে হয়। আর আয়াত লিখে রাখে, আসলে কতটা ফিরিয়ে দেওয়া হলো।"
+          },
+          {
+            "en": "Shu'ayb (AS) speaks in the next verse, and his first words are a question, not a curse: will you not fear Allah? The surah has already told how the earlier peoples ended, yet it gives him the same opening it gave Nuh, Hud, Salih and Lut (AS). That is the door the surah keeps open, story after story, for whoever reads it while there is time. When a true word reaches you through one person, receive it for what it carries, and you will not be counted among those who denied them all.",
+            "bn": "পরের আয়াতেই শুআয়ব (আঃ) কথা বলেন, আর তাঁর প্রথম কথা অভিশাপ নয়, একটি প্রশ্ন: তোমরা কি আল্লাহকে ভয় করবে না? আগের জাতিগুলোর পরিণতি সূরা আগেই বলে দিয়েছে, তবু তাঁর মুখেও সেই একই সূচনা, যা ছিল নূহ, হূদ, সালিহ ও লূত (আঃ)-এর মুখে। কাহিনির পর কাহিনিতে সূরা এই দরজাটা খোলা রাখে, সময় থাকতে যে পড়ে তার জন্য। একজন মানুষের হাত দিয়ে কোনো সত্য কথা যখন আপনার কাছে পৌঁছায়, তার ভেতরে যা আছে তার জন্যই তা গ্রহণ করুন। তাহলে আপনি তাদের দলে গণ্য হবেন না, যারা সবাইকে অস্বীকার করেছিল।"
+          }
+        ]
+      }
+    ]
+  },
   "26:178": {
     "sections": [
       {

@@ -35597,6 +35597,24 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Weigh every command by where it leads, not by who gives it. A voice that spreads corruption and repairs nothing has no claim on your obedience, however high it stands.",
     "lessonBn": "প্রতিটি হুকুম মাপুন সেটা কোথায় নিয়ে যায় তা দিয়ে, কে দিচ্ছে তা দিয়ে নয়। যে কণ্ঠ বিপর্যয় ছড়ায় আর কিছুই সংশোধন করে না, যত উঁচু আসনেই থাকুক, আপনার আনুগত্যের উপর তার কোনো দাবি নেই।"
+  },
+  "26:176": {
+    "reflectionEn": "The last of five stories in this surah that open with one line begins with a people named not for a forefather but for a place: the companions of the thicket, a land of tangled, close-grown trees. They turned away one man, Shu'ayb, yet the verse says they denied the messengers, all of them, because he brought what every messenger brought. A people can come to be known by what surrounds them and what they cling to, until the name says more about them than any family line. The surah does not stop to describe their groves; it records only their answer. What would I be known by? And when a true word reaches me through one person, do I see that refusing it refuses far more than him?",
+    "reflectionBn": "এই সূরায় পাঁচটি কাহিনি একই বাক্যে শুরু হয়। তার শেষটিতে এমন এক জাতির কথা, যাদের পরিচয় কোনো পূর্বপুরুষের নামে নয়, একটা জায়গার নামে: আসহাবুল আইকা, ঘন জড়াজড়ি করা গাছে ভরা এক ভূমির লোক। তারা ফিরিয়ে দিয়েছিল একজন মানুষকে, শুআয়ব (আঃ)-কে। তবু আয়াত বলছে, তারা রাসূলদের মিথ্যা বলেছিল, সবাইকে। কারণ প্রত্যেক রাসূল যা এনেছিলেন, তিনিও তা-ই এনেছিলেন। মানুষ এক সময় পরিচিত হয়ে যায় তার চারপাশের জিনিস দিয়ে, যা সে আঁকড়ে ধরে থাকে তা দিয়ে। তখন বংশের চেয়ে নামটাই তার সম্পর্কে বেশি বলে দেয়। সূরাটি তাদের বাগান-বনের বর্ণনায় থামে না, শুধু লিখে রাখে তাদের জবাব। আমাকে মানুষ কী দিয়ে চিনবে? আর একজন মানুষের হাত দিয়ে কোনো সত্য কথা যখন আমার কাছে আসে, তখন কি বুঝি যে তা ফিরিয়ে দিলে আমি শুধু তাকে ফিরিয়ে দিচ্ছি না?",
+    "pointsEn": [
+      "If people named me for what I spend my days around and hold on to, what name would they give me?",
+      "Is there a true word I keep waving away because of who brought it, forgetting that it did not begin with them?",
+      "What comfort or plenty in my life has quietly become something I defend, rather than a gift I thank Allah for?",
+      "When I read of a people who were destroyed, do I look for myself in the story, or only for other people?"
+    ],
+    "pointsBn": [
+      "দিনভর যা নিয়ে থাকি আর যা আঁকড়ে ধরি, তা দিয়েই যদি মানুষ আমার নাম রাখত, তবে কী নাম রাখত?",
+      "এমন কোনো সত্য কথা কি আছে, যা আমি বারবার উড়িয়ে দিই কেবল কে এনেছে সেটা দেখে, অথচ ভুলে যাই যে কথাটা তার থেকে শুরু হয়নি?",
+      "আমার জীবনের কোন আরাম বা প্রাচুর্য চুপিচুপি এমন জিনিস হয়ে গেছে, যা আমি আগলে রাখি, অথচ আল্লাহর দেওয়া নিয়ামত বলে তার শোকর করি না?",
+      "ধ্বংস হয়ে যাওয়া কোনো জাতির কথা পড়ার সময় আমি কি কাহিনিতে নিজেকে খুঁজি, নাকি শুধু অন্যদের?"
+    ],
+    "lessonEn": "Refusing a truth because of the one who brings it refuses everyone who ever brought it; judge a message by what it carries, and let nothing you love become your name.",
+    "lessonBn": "কে এনেছে তা দেখে সত্যকে ফিরিয়ে দিলে, যারা যুগে যুগে সে সত্য এনেছেন তাঁদের সবাইকেই ফিরিয়ে দেওয়া হয়। বার্তাকে বিচার করুন তার ভেতরের কথা দিয়ে, আর প্রিয় কোনো জিনিসকে নিজের পরিচয় হয়ে উঠতে দেবেন না।"
   }
 };
 
