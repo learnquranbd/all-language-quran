@@ -33983,6 +33983,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Nothing you hold and nowhere you go lies outside Allah's knowledge; live the untold parts of your life as carefully as the parts others will see.",
     "lessonBn": "আপনার হাতে যা আছে আর আপনি যেখানেই যান, কিছুই আল্লাহর জ্ঞানের বাইরে নয়। তাই জীবনের যে অংশ কেউ জানবে না, তা-ও সেভাবেই কাটান যেভাবে মানুষের চোখের সামনের অংশটা কাটান।"
+  },
+  "18:80": {
+    "reflectionEn": "Al-Khidr gives his second reason, and it opens not with the boy but with his mother and father: they were believers. What he feared was a son who would grow into defiance and disbelief, and whose hold on their hearts would drag them after him. A parent's love is among the strongest pulls a person ever feels, and the verse admits that it can pull the wrong way. Their grief was real; the faith it guarded mattered more. Nothing here lets anyone act on a guess about another person's future. Al-Khidr knew because Allah told him, and no one else is told. What the verse leaves me with is a question about my own loves, and where they are leading me.",
+    "reflectionBn": "খিযির তাঁর দ্বিতীয় ব্যাখ্যা দিচ্ছেন। শুরু করছেন বালককে দিয়ে নয়, তার মা-বাবাকে দিয়ে: তাঁরা ছিলেন মুমিন। তাঁর আশঙ্কা ছিল, ছেলেটি বড় হয়ে সীমালঙ্ঘন আর কুফরে জড়াবে, আর মা-বাবার বুকে তার জন্য যে টান, সেই টানেই তাঁদের টেনে নেবে নিজের পথে। সন্তানের ভালোবাসা মানুষের জীবনের সবচেয়ে প্রবল টানগুলোর একটি। আয়াতটি মেনে নেয়, এ টান ভুল দিকেও নিয়ে যেতে পারে। তাঁদের শোক মিথ্যা ছিল না, কিন্তু সেই শোক যে ঈমানকে রক্ষা করল, তার দাম আরও বেশি। তবে অন্যের ভবিষ্যৎ আন্দাজ করে কিছু করার অনুমতি এখানে কারও জন্য নেই। খিযির জেনেছিলেন, কারণ আল্লাহ তাঁকে জানিয়েছিলেন। আর কাউকে তা জানানো হয় না। আমার কাছে থেকে যায় একটি প্রশ্ন: আমার ভালোবাসাগুলো আমাকে কোন দিকে নিয়ে চলেছে?",
+    "pointsEn": [
+      "Which love in my life most easily bends what I believe, and have I noticed it bending?",
+      "When a loss makes no sense to me, can I hold my grief and my trust in Allah at the same time?",
+      "Have I ever judged someone, a child above all, by what I imagined they would become?",
+      "If keeping my faith safe meant losing something I love, what would I choose?",
+      "Do I pray for the people I love to be guided, or only for them to stay close to me?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন ভালোবাসা আমার বিশ্বাসকে সবচেয়ে সহজে বাঁকিয়ে দেয়? সে বাঁকটা কি আমি কখনো টের পেয়েছি?",
+      "কোনো ক্ষতির মানে যখন বুঝি না, তখন কি শোক আর আল্লাহর উপর ভরসা একসঙ্গে ধরে রাখতে পারি?",
+      "কেউ ভবিষ্যতে কেমন হবে বলে মনে মনে ধরে নিয়ে, বিশেষ করে কোনো শিশুকে, আমি কি কখনো বিচার করে ফেলেছি?",
+      "ঈমান বাঁচাতে গিয়ে যদি প্রিয় কিছু হারাতে হয়, আমি কোনটা বেছে নেব?",
+      "প্রিয় মানুষদের জন্য আমি কি হেদায়াতের দোয়া করি, নাকি শুধু চাই তারা আমার কাছে থাকুক?"
+    ],
+    "lessonEn": "Even a parent's love can pull faith off course, so guard it there too; and never claim to know anyone's future, for al-Khidr knew only because Allah told him.",
+    "lessonBn": "মা-বাবার ভালোবাসাও ঈমানকে পথ থেকে সরিয়ে দিতে পারে, তাই সেখানেও ঈমান আগলে রাখুন। আর কারও ভবিষ্যৎ জানার দাবি কখনো করবেন না; খিযির জেনেছিলেন কেবল আল্লাহ জানিয়েছিলেন বলে।"
   }
 };
 

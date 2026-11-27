@@ -3999,6 +3999,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:80": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Believers and a Son",
+          "bn": "দুই মুমিন ও এক সন্তান"
+        },
+        "p": [
+          {
+            "en": "Wa-amma al-ghulamu: and as for the boy. Having explained the ship in 18:79, al-Khidr turns to the second deed, which Musa (AS) had called a terrible thing in 18:74. That scene is not retold here; the verse gives only its reason. As-Sa'di fills in the missing words, the boy whom I killed, and the Muyassar does the same: the boy I killed was, in Allah's knowledge, a disbeliever, while his father and mother were believers.",
+            "bn": "ওয়া আম্মাল গুলামু: আর বালকটির ব্যাপার। ১৮:৭৯ আয়াতে নৌকার ব্যাখ্যা শেষ করে খিযির এবার দ্বিতীয় ঘটনায় আসেন। এটিকেই মূসা (আঃ) ১৮:৭৪ আয়াতে গুরুতর অন্যায় বলেছিলেন। ঘটনাটা এখানে আর বলা হয় না, আয়াত শুধু তার কারণটুকু দেয়। সা'দী মাঝখানের ফাঁকা কথাটা জুড়ে দেন: যে বালককে আমি হত্যা করেছি। মুয়াসসারও তাই করে: যে বালককে আমি হত্যা করেছি, আল্লাহর জ্ঞানে সে ছিল কাফির, আর তার বাবা-মা ছিলেন মুমিন।"
+          },
+          {
+            "en": "The order of the explanation is worth noticing. The first fact al-Khidr offers is not about the boy at all but about his parents: fa-kana abawahu mu'minayn, his parents were believers. The dual gathers mother and father under one description, and everything that follows is measured against them: what the boy would do to them, and in 18:81 what their Lord would give them in his place. The reason is told from the side of the two who would grieve.",
+            "bn": "ব্যাখ্যার ক্রমটা খেয়াল করার মতো। খিযির প্রথম যে তথ্য দেন, তা বালককে নিয়ে নয়, তার মা-বাবাকে নিয়ে: ফাকানা আবাওয়াহু মু'মিনাইন, তার মা-বাবা ছিলেন মুমিন। দ্বিবচনের শব্দটি মা আর বাবাকে একই পরিচয়ে বেঁধে দেয়। এরপর যা কিছু আসে, সবই মাপা হয় তাঁদের দিক থেকে। বালক তাঁদের কী করত, আর ১৮:৮১ আয়াতে তাঁদের রব তার বদলে তাঁদের কী দেবেন। কারণটা বলা হচ্ছে সেই দুজনের দিক থেকে, যাঁরা শোক পাবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Readings From Two Codices",
+          "bn": "দুই মুসহাফের পাঠ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's paraphrase puts the point in one line: the boy was a disbeliever and his parents believers. The commentators said the same, he adds, and it is mentioned in some of the readings. He then gives Qatadah, by two chains: in the harf of Ubayy the verse ran wa-amma al-ghulamu fa-kana kafiran wa-kana abawahu mu'minayn, as for the boy, he was a disbeliever, and his parents were believers. Al-Baghawi records the same wording as the reading of Ibn Abbas.",
+            "bn": "তাবারী একটি বাক্যে আয়াতের সারকথা বলেন: বালকটি ছিল কাফির, আর তার মা-বাবা মুমিন। তাফসীরকারেরাও এ কথাই বলেছেন, তিনি যোগ করেন, আর কোনো কোনো পাঠে এটি সরাসরি আছে। তারপর তিনি দুটি সনদে কাতাদার বর্ণনা আনেন: উবাই (রাঃ)-এর পাঠে আয়াতটি ছিল ওয়া আম্মাল গুলামু ফাকানা কাফিরান ওয়া কানা আবাওয়াহু মু'মিনাইন, অর্থাৎ বালকটি ছিল কাফির, আর তার মা-বাবা ছিলেন মুমিন। বাগাভী হুবহু এই শব্দগুলো ইবন আব্বাস (রাঃ)-এর পাঠ হিসেবে উল্লেখ করেন।"
+          },
+          {
+            "en": "The same words surface in Sahih al-Bukhari (4726), in the long narration of the journey through Sa'id ibn Jubayr. Among the explanatory remarks woven into its telling stand the words his parents were believers, and he was a disbeliever, followed by a gloss on how he would overwhelm them. The passage does not mark these remarks as the Prophet's ﷺ own words, and al-Baghawi credits the gloss to Sa'id ibn Jubayr.",
+            "bn": "সহীহ বুখারীতেও (৪৭২৬) এই শব্দগুলো পাওয়া যায়। সেখানে আছে সাঈদ ইবন জুবাইরের সূত্রে সফরের দীর্ঘ বর্ণনাটি। বর্ণনার ফাঁকে ফাঁকে যে ব্যাখ্যামূলক মন্তব্য গাঁথা আছে, তার মধ্যে রয়েছে: তার মা-বাবা ছিলেন মুমিন, আর সে ছিল কাফির। এর পরেই আছে সে কীভাবে তাঁদের উপর চেপে বসত, তার ব্যাখ্যা। বর্ণনাটি এই মন্তব্যগুলোকে নবী ﷺ-এর নিজের কথা বলে চিহ্নিত করে না। আর বাগাভী ব্যাখ্যাটি সাঈদ ইবন জুবাইরের বলে উল্লেখ করেন।"
+          },
+          {
+            "en": "A second variant touches the verb. At-Tabari says that in the codex of Abd Allah ibn Mas'ud it read fa-khafa rabbuka, so your Lord feared. Al-Qurtubi records the same reading from Ibn Mas'ud, with a report that Ubayy read fa-'alima rabbuka, so your Lord knew. The text recited in the mushaf is the one given above. Both variants make the fearing or knowing Allah's.",
+            "bn": "আরেকটি পাঠভেদ ক্রিয়াপদটিকে নিয়ে। তাবারী বলেন, আবদুল্লাহ ইবন মাসঊদ (রাঃ)-এর মুসহাফে ছিল ফাখাফা রাব্বুকা, অর্থাৎ আপনার রব আশঙ্কা করলেন। কুরতুবীও ইবন মাসঊদের এই পাঠ উল্লেখ করেন, সঙ্গে একটি বর্ণনা আনেন যে উবাই পড়তেন ফাআলিমা রাব্বুকা, অর্থাৎ আপনার রব জানলেন। মুসহাফে যে পাঠ তিলাওয়াত করা হয়, তা উপরে দেওয়া পাঠটিই। দুটি পাঠভেদেই আশঙ্কা বা জানাটা আল্লাহর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Voice Says We",
+          "bn": "‘আমরা’ বলছেন কে"
+        },
+        "p": [
+          {
+            "en": "Fa-khashina is first person plural: so we feared. Al-Qurtubi sets out two views of whose word it is. One holds that it is al-Khidr's own speech. This, he says, is what the flow of the passage supports, and it is the view of many commentators; the sense is we were afraid that he would burden them. On this view, he adds, Allah had permitted al-Khidr to use his judgement in taking a life in this particular way.",
+            "bn": "ফাখাশীনা: তাই আমরা আশঙ্কা করলাম। ক্রিয়াটি এসেছে ‘আমরা’-র মুখে। কথাটা কার, এ নিয়ে কুরতুবী দুটি মত উল্লেখ করেন। একটি মত হলো, এটি খিযিরের নিজের কথা। তাঁর ভাষায়, প্রসঙ্গের ধারা এ মতের পক্ষে সাক্ষ্য দেয়, আর অনেক তাফসীরকার এ মতই পোষণ করেন। তখন অর্থ দাঁড়ায়: আমরা ভয় পেলাম, সে তাঁদের উপর চেপে বসবে। এ মত অনুযায়ী, তিনি যোগ করেন, এই বিশেষ ক্ষেত্রে প্রাণ নেওয়ার ব্যাপারে আল্লাহ খিযিরকে নিজ বিবেচনায় কাজ করার অনুমতি দিয়েছিলেন।"
+          },
+          {
+            "en": "The other view holds that the word is Allah's, and that al-Khidr voices it on His behalf. Under this view al-Qurtubi places at-Tabari's gloss, its meaning is we knew, and he adds that Ibn Abbas said the same. The readings of the previous section, your Lord feared and your Lord knew, lean the same way. Al-Qurtubi records both views without settling between them, and they are left here as he leaves them.",
+            "bn": "অন্য মতটি হলো, কথাটি আল্লাহর, খিযির তাঁর পক্ষ থেকে তা বলছেন। কুরতুবী তাবারীর ব্যাখ্যাটি এই মতের অধীনেই রাখেন: এর অর্থ, আমরা জানলাম। সঙ্গে বলেন, ইবন আব্বাসও এমনটাই বলেছেন। আগের অংশের পাঠভেদ দুটি, আপনার রব আশঙ্কা করলেন আর আপনার রব জানলেন, একই দিকে ঝোঁকে। কুরতুবী দুটি মতই উল্লেখ করেন, কোনোটির পক্ষে রায় দেন না। এখানেও মত দুটি তেমনই রাখা হলো।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the passage in al-Khidr's voice. On either view the next verse keeps the same we, so we intended that their Lord should give them in exchange, and in 18:82 al-Khidr closes all three explanations with and I did not do it of my own accord. Whoever speaks the word, the knowledge behind the act came from Allah.",
+            "bn": "মাআরিফুল কুরআন অংশটি খিযিরের কণ্ঠেই পড়ে। যে মতই নেওয়া হোক, পরের আয়াতেও একই ‘আমরা’ থাকে: তাই আমরা চাইলাম, তাঁদের রব তাঁদের এর বদলে দান করুন। আর ১৮:৮২ আয়াতে তিনটি ব্যাখ্যাই খিযির শেষ করেন এ কথায়: আমি এর কোনোটিই নিজের ইচ্ছায় করিনি। কথাটা যাঁরই হোক, কাজের পেছনের জ্ঞান এসেছিল আল্লাহর কাছ থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Fearing Means Knowing",
+          "bn": "আশঙ্কা যখন জানার অর্থে"
+        },
+        "p": [
+          {
+            "en": "Whoever's voice it is, fear sits strangely here, since it normally means dreading something uncertain. At-Tabari meets this head on. The Arabs, he writes, turn khashya and khawf to the sense of zann, supposing, and turn these words to the sense of knowing a thing that is grasped otherwise than through the senses and sight. So his paraphrase runs: we knew that he would overwhelm them. Al-Baghawi glosses fa-khashina in one word: fa-'alimna, so we knew.",
+            "bn": "কথাটা যাঁরই হোক, এখানে আশঙ্কা শব্দটি একটু খটকা জাগায়। সাধারণত আশঙ্কা হয় অনিশ্চিত কিছু নিয়ে। তাবারী প্রশ্নটির সরাসরি জবাব দেন। আরবরা খাশইয়া আর খাওফ, অর্থাৎ ভয় ও আশঙ্কার শব্দ, ধারণা অর্থে ব্যবহার করে। আবার এমন জিনিসের জ্ঞান বোঝাতেও ব্যবহার করে, যা ইন্দ্রিয় বা চোখে দেখা ছাড়া অন্য পথে জানা যায়। তাই তাবারীর ব্যাখ্যায় আয়াতের অর্থ: আমরা জানলাম যে সে তাঁদের উপর চেপে বসবে। বাগাভী ফাখাশীনার ব্যাখ্যা দেন একটিমাত্র শব্দে: ফাআলিমনা, অর্থাৎ আমরা জানলাম।"
+          },
+          {
+            "en": "Al-Qurtubi gives a Qur'anic parallel for fear standing for knowledge: illa an yakhafa alla yuqima hududa Allah, unless they both fear that they will not keep the limits of Allah, in 2:229. He then reports a second sense, khashya as dislike, as when one says I separated the two for fear that they would fight, meaning out of dislike of it. At-Tabari records the same view from a scholar of Arabic from Basra, who held that khashina here means karihna, we disliked, because Allah does not fear.",
+            "bn": "ভয় শব্দ যে জ্ঞান অর্থে আসে, কুরতুবী তার একটি কুরআনি নজির দেন: ২:২২৯ আয়াতে ইল্লা আঁই ইয়াখাফা আল্লা ইউকীমা হুদূদাল্লাহ, যদি না তারা দুজন আশঙ্কা করে যে আল্লাহর সীমা রক্ষা করতে পারবে না। এরপর তিনি দ্বিতীয় একটি অর্থ উল্লেখ করেন: খাশইয়া মানে অপছন্দ। যেমন কেউ বলে, মারামারি করবে এই ভয়ে দুজনকে আলাদা করে দিলাম, অর্থাৎ মারামারিটা অপছন্দ বলে। তাবারীও বসরার এক আরবি ভাষাবিদের কাছ থেকে এ মত উল্লেখ করেন। তাঁর মতে এখানে খাশীনা মানে কারিহনা, আমরা অপছন্দ করলাম, কারণ আল্লাহ ভয় করেন না।"
+          },
+          {
+            "en": "Ibn Atiyya, in al-Qurtubi, offers a third account while granting that the wording resists it: it is a figure of speech, meaning that people who knew the boy's state would have feared for the parents. The passage adds that the reading your Lord feared makes the figure plain, and likens it to la'alla and 'asa, perhaps and it may be, in Allah's speech: all such hope and fear is measured by the hearers addressed, not by Him.",
+            "bn": "কুরতুবী ইবন আতিয়্যার একটি তৃতীয় ব্যাখ্যাও আনেন। ইবন আতিয়্যা নিজেই মানেন, আয়াতের শব্দ এ ব্যাখ্যা সহজে মেনে নেয় না। তবু তাঁর মতে এটি রূপক: বালকের আসল অবস্থা জানলে মানুষ মা-বাবার জন্য এমন আশঙ্কাই করত। অংশটিতে আরও বলা হয়েছে, আপনার রব আশঙ্কা করলেন পাঠটিতে রূপকটা স্পষ্ট। এর তুলনা আল্লাহর বাণীতে লাআল্লা আর আসা, অর্থাৎ হয়তো ও সম্ভবত। এ ধরনের সব আশা আর আশঙ্কা মাপা হয় সম্বোধিত শ্রোতাদের দিক থেকে, আল্লাহর দিক থেকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Drawn After Him by Love",
+          "bn": "ভালোবাসার টানে তার পথে"
+        },
+        "p": [
+          {
+            "en": "An yurhiqahuma: that he would overwhelm them. At-Tabari glosses it as yughshiyahuma, he would cover them over, and al-Baghawi repeats the gloss, adding al-Kalbi's, he would load it on them. Al-Qurtubi has he would burden them and impose it on them. Tughyan, at-Tabari explains, is arrogance against Allah, and kufr is disbelief in Him. Ma'arif al-Qur'an adds rebellion against the parents themselves: a son who would harass them and cause them pain.",
+            "bn": "আঁই ইউরহিকাহুমা: সে তাঁদের উপর চেপে বসবে। তাবারী এর ব্যাখ্যা দেন ইউগশিয়াহুমা, অর্থাৎ সে তাঁদের ঢেকে ফেলবে। বাগাভীও এ ব্যাখ্যা আনেন, সঙ্গে কালবীর ব্যাখ্যা: সে তাঁদের উপর এর বোঝা চাপিয়ে দেবে। কুরতুবীর ভাষায়: সে তাঁদের কষ্টে ফেলবে, এ ভার তাঁদের বইতে বাধ্য করবে। তাবারী বলেন, তুগইয়ান হলো আল্লাহর বিরুদ্ধে অহংকার, আর কুফর হলো তাঁকে অস্বীকার। মাআরিফুল কুরআন এর সঙ্গে যোগ করে মা-বাবার বিরুদ্ধেও বিদ্রোহের কথা: এমন ছেলে, যে তাঁদের জ্বালাতন করবে, কষ্ট দেবে।"
+          },
+          {
+            "en": "How could one son overwhelm two believers with disbelief? Ibn Kathir answers that their love for him would carry them into following him in it. Al-Baghawi gives the same from Sa'id ibn Jubayr: that love for him would bring them to follow him in his religion, the gloss that also stands in Sahih al-Bukhari (4726). Al-Qurtubi puts it as his love casting them into following him, so that they would stray and take his religion for their own.",
+            "bn": "একটিমাত্র ছেলে দুজন মুমিনকে কীভাবে কুফরে ঢেকে ফেলতে পারে? ইবন কাসীরের জবাব: ছেলের প্রতি ভালোবাসাই তাঁদের টেনে নিয়ে যেত তার পেছনে, কুফরের পথে। বাগাভী সাঈদ ইবন জুবাইরের কাছ থেকে একই কথা আনেন: তার ভালোবাসা তাঁদের বাধ্য করত তার ধর্ম মেনে নিতে। সহীহ বুখারীর (৪৭২৬) বর্ণনায় গাঁথা ব্যাখ্যাটিও এটাই। কুরতুবীর ভাষায়, ছেলের ভালোবাসা তাঁদের ঠেলে দিত তার অনুসরণে, ফলে তাঁরা পথ হারাতেন আর তার ধর্মকেই নিজেদের ধর্ম বানিয়ে নিতেন।"
+          },
+          {
+            "en": "The Muyassar and as-Sa'di name a second cause beside love: their need of him. As-Sa'di adds a third, that he might drive them to it, and says it had been decreed of the boy that if he reached maturity he would overwhelm them so. Ma'arif al-Qur'an sums it up: he would endanger the very faith of his parents because of their love for him.",
+            "bn": "মুয়াসসার আর সা'দী ভালোবাসার পাশে দ্বিতীয় একটি কারণ বলেন: ছেলের উপর তাঁদের নির্ভরতা। সা'দী তৃতীয় আরেকটি যোগ করেন, ছেলে হয়তো তাঁদের সে দিকে তাড়িয়ে নিত। তিনি বলেন, বালকের ব্যাপারে নির্ধারিত ছিল, সে প্রাপ্তবয়স্ক হলে এভাবেই তাঁদের উপর চেপে বসত। মাআরিফুল কুরআন সারকথা বলে: তাঁদের ভালোবাসার কারণেই সে মা-বাবার ঈমানকে বিপদে ফেলত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stamped a Disbeliever",
+          "bn": "কুফরের মোহর নিয়েই"
+        },
+        "p": [
+          {
+            "en": "The Prophet ﷺ himself spoke of this boy. Sahih Muslim (2662), from Ubayy ibn Ka'b through Ibn Abbas, records him saying: the boy whom al-Khidr killed was stamped a disbeliever, and had he lived he would have overwhelmed his parents with transgression and disbelief. Muslim places it in his Sahih and gives no further grading. At-Tabari relays it by his own chain, and Ibn Kathir cites his version.",
+            "bn": "এই বালকের কথা নবী ﷺ নিজেই বলেছেন। সহীহ মুসলিম (২৬৬২) ইবন আব্বাসের সূত্রে উবাই ইবন কা'ব (রাঃ) থেকে বর্ণনা করে, রাসূলুল্লাহ ﷺ বলেছেন: খিযির যে বালককে হত্যা করেছিলেন, তার উপর কুফরের মোহর পড়েছিল। সে বেঁচে থাকলে তার মা-বাবাকে সীমালঙ্ঘন ও কুফরে ঢেকে ফেলত। মুসলিম হাদীসটি তাঁর সহীহ গ্রন্থে এনেছেন, আলাদা কোনো মান উল্লেখ করেননি। তাবারী নিজের সনদে হাদীসটি আনেন, আর ইবন কাসীর তাঁর সেই ভাষ্যটি উল্লেখ করেন।"
+          },
+          {
+            "en": "Read beside the verse, the narration states plainly what the verse voices as fear: the verse says we feared that he would overwhelm them, and the narration says that had he lived he would have. Its closing words take up the verse's own, tughyanan wa-kufran. Al-Qurtubi notes that the word stamped supports the outward sense that the boy had not reached maturity, while allowing that it could be said of him as a grown youth; the article on 18:74 sets out that question.",
+            "bn": "আয়াতের পাশে রেখে পড়লে দেখা যায়, আয়াত যা আশঙ্কার ভাষায় বলে, হাদীস তা বলে সোজা তথ্য হিসেবে। আয়াত বলে, আমরা আশঙ্কা করলাম সে তাঁদের উপর চেপে বসবে। হাদীস বলে, সে বেঁচে থাকলে তা-ই করত। হাদীসের শেষ শব্দ দুটিও আয়াতেরই: তুগইয়ানান ওয়া কুফরান। কুরতুবী বলেন, মোহর পড়ার কথাটি বাহ্যিক এই অর্থকে সমর্থন করে যে বালকটি তখনো প্রাপ্তবয়স্ক হয়নি। তবে তিনি এটাও সম্ভব মনে করেন যে কথাটি প্রাপ্তবয়স্ক অবস্থাতেই তার সম্পর্কে বলা। এ প্রশ্নের আলোচনা আছে ১৮:৭৪ আয়াতের প্রবন্ধে।"
+          },
+          {
+            "en": "The narration speaks of one boy, the one al-Khidr killed, whose end was known to Allah and made known to His servant. It is no rule by which anyone may read a child's face, conduct or family. Nor does it open here the wider question of what becomes of children, which this verse does not raise. The commentators on this verse draw from it only what it says about this boy and these two parents.",
+            "bn": "হাদীসটি একজন বালকের কথা বলে, যাকে খিযির হত্যা করেছিলেন। তার পরিণতি আল্লাহ জানতেন, আর তিনি তা তাঁর বান্দাকে জানিয়েছিলেন। কোনো শিশুর চেহারা, আচরণ বা পরিবার দেখে তার ভবিষ্যৎ পড়ে ফেলার কোনো নিয়ম এ হাদীস নয়। শিশুদের পরিণতি নিয়ে বড় প্রশ্নটিও এখানে খোলা হচ্ছে না, কারণ এ আয়াত সে প্রশ্ন তোলে না। এ আয়াতের তাফসীরকারেরা হাদীস থেকে কেবল এটুকুই নেন: এই বালক আর এই দুজন মা-বাবা সম্পর্কে তা কী বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Grief That Guarded Faith",
+          "bn": "যে শোক ঈমান আগলে রাখল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di puts the reason in al-Khidr's mouth: so I killed him, because I had been shown that, to keep safe the religion of his believing parents, and what benefit could be greater than this? He does not hide the cost. It was, he grants, a harm to them and a cutting off of their line; but Allah would give them offspring better than him. That promise is the next verse, 18:81, one better in purity and nearer in mercy, and its article takes it up.",
+            "bn": "সা'দী কারণটা খিযিরের মুখেই বসিয়ে দেন: তাই আমি তাকে হত্যা করেছি, কারণ আমাকে তা জানানো হয়েছিল, যাতে তার মুমিন মা-বাবার দ্বীন নিরাপদ থাকে। এর চেয়ে বড় উপকার আর কী হতে পারে? ক্ষতিটা তিনি লুকান না। তিনি মানেন, এতে তাঁদের কষ্ট হয়েছে, তাঁদের বংশধারাও কাটা পড়েছে। কিন্তু আল্লাহ তাঁদের এর চেয়ে উত্তম সন্তান দেবেন। সেই প্রতিশ্রুতিই পরের আয়াত ১৮:৮১: পবিত্রতায় আরও উত্তম, মমতায় আরও নিকটের একজন। সে আয়াতের প্রবন্ধে এ আলোচনা আছে।"
+          },
+          {
+            "en": "Ibn Kathir relays Qatadah, whose words the article on 18:74 also gives: the parents rejoiced at his birth and grieved at his death, and had he lived he would have been their ruin. So let a person be content with Allah's decree, for what Allah decrees for a believer in what he dislikes is better for him than what He decrees in what he loves. Ibn Kathir then cites 2:216: it may be that you dislike a thing while it is good for you.",
+            "bn": "ইবন কাসীর কাতাদার কথা আনেন, যা ১৮:৭৪ আয়াতের প্রবন্ধেও আছে: ছেলেটি জন্মালে মা-বাবা খুশি হয়েছিলেন, মারা গেলে শোক করেছিলেন। অথচ সে বেঁচে থাকলে তাঁদের সর্বনাশ হতো। তাই মানুষের উচিত আল্লাহর ফায়সালায় সন্তুষ্ট থাকা। মুমিনের অপছন্দের বিষয়ে আল্লাহ যা ফায়সালা করেন, তা তার জন্য পছন্দের বিষয়ে করা ফায়সালার চেয়েও ভালো। এরপর ইবন কাসীর ২:২১৬ আয়াত উল্লেখ করেন: হতে পারে তোমরা এমন কিছু অপছন্দ করো, যা তোমাদের জন্য কল্যাণকর।"
+          },
+          {
+            "en": "Ibn Kathir also cites a narration he calls sound on this theme, naming no collection, so it is not quoted here. A narration on that theme which is confirmed, though none of these commentators attaches it to the verse, is in Sahih Muslim (2999), from Suhayb: How wonderful is the affair of the believer! All of his affair is good, and that is so for no one but the believer. If good fortune befalls him he gives thanks, and it is good for him; if hardship befalls him he is patient, and it is good for him.",
+            "bn": "এ বিষয়ে ইবন কাসীর আরেকটি বর্ণনার কথা বলেন, যাকে তিনি সহীহ বলেন। কিন্তু কোন গ্রন্থের, তা বলেননি, তাই এখানে তার শব্দ দেওয়া হলো না। একই বিষয়ে প্রমাণিত একটি বর্ণনা আছে সহীহ মুসলিমে (২৯৯৯), সুহাইব (রাঃ) থেকে। এ তাফসীরকারদের কেউ অবশ্য একে এই আয়াতের সঙ্গে যুক্ত করেননি। রাসূলুল্লাহ ﷺ বলেছেন: মুমিনের ব্যাপারটা কত বিস্ময়কর! তার সব কিছুই কল্যাণকর, আর মুমিন ছাড়া আর কারও বেলায় এমন নয়। সুখ এলে সে শোকর করে, তা তার জন্য কল্যাণ। কষ্ট এলে সে সবর করে, তা-ও তার জন্য কল্যাণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shown to Him Alone",
+          "bn": "জানানো হয়েছিল শুধু তাঁকেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. Al-Khidr acted on knowledge that Allah gave to him in particular, about this one boy. The Muyassar says the boy was a disbeliever in Allah's knowledge; as-Sa'di has al-Khidr say he acted because he had been shown it; al-Qurtubi, on the view that the words are al-Khidr's, says Allah had permitted him to act in this particular way; and al-Khidr himself says in 18:82 that he did none of it of his own accord.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। খিযির কাজ করেছিলেন এমন জ্ঞানের ভিত্তিতে, যা আল্লাহ বিশেষভাবে তাঁকেই দিয়েছিলেন, একটিমাত্র বালক সম্পর্কে। মুয়াসসার বলে, বালকটি ছিল আল্লাহর জ্ঞানে কাফির। সা'দীর ভাষ্যে খিযির বলেন, তাঁকে তা জানানো হয়েছিল বলেই তিনি কাজটি করেছেন। কথাটি খিযিরের, এই মত অনুযায়ী কুরতুবী বলেন, এই বিশেষ ক্ষেত্রে আল্লাহ তাঁকে অনুমতি দিয়েছিলেন। আর খিযির নিজেই ১৮:৮২ আয়াতে বলেন, এর কোনোটিই তিনি নিজের ইচ্ছায় করেননি।"
+          },
+          {
+            "en": "So the verse licenses no one to harm anyone on foreknowledge, suspicion or a reading of character. No parent, teacher, ruler or self-appointed guardian of faith may lift a hand against a child or an adult because of what they think that person will become. No one today can claim knowledge of that kind, and fear for someone's future is never a warrant. The article on 18:74 gives Ibn Abbas's answer to a letter on exactly this point, and it shuts the door.",
+            "bn": "তাই ভবিষ্যৎ জানার দাবি, সন্দেহ বা কারও স্বভাব দেখে আন্দাজ, কোনো কিছুর জোরেই এ আয়াত কাউকে কারও ক্ষতি করার অনুমতি দেয় না। মা-বাবা, শিক্ষক, শাসক কিংবা নিজেকে ঈমানের পাহারাদার ভাবা কেউই কোনো শিশু বা বড় মানুষের গায়ে হাত তুলতে পারে না এই ভেবে যে সে ভবিষ্যতে কেমন হবে। এমন জ্ঞানের দাবি আজ কেউ করতে পারে না। আর কারও ভবিষ্যৎ নিয়ে আশঙ্কা কখনো কোনো কাজের বৈধতা দেয় না। ঠিক এ প্রশ্নে ইবন আব্বাস (রাঃ) একটি চিঠির যে জবাব দিয়েছিলেন, তা আছে ১৮:৭৪ আয়াতের প্রবন্ধে। সে জবাব এ দরজা বন্ধ করে দেয়।"
+          },
+          {
+            "en": "Nor is the verse a verdict on any family whose child goes astray. It calls these parents believers, and the danger it describes would have reached them through their love for him. A believing home can raise a child who rebels. What it asks of the reader is to watch where their own loves are leading, and to leave to Allah what only Allah knows.",
+            "bn": "কোনো পরিবারের সন্তান বিপথে গেলে এ আয়াত সে পরিবারের বিরুদ্ধে কোনো রায়ও নয়। আয়াত এই মা-বাবাকে মুমিন বলেছে। যে বিপদের কথা বলেছে, তা তাঁদের কাছে আসত ছেলের প্রতি ভালোবাসার পথ ধরে। মুমিনের ঘরেও বিদ্রোহী সন্তান বড় হতে পারে। আয়াতটি পাঠকের কাছে চায়: নিজের ভালোবাসাগুলো কোন দিকে নিয়ে যাচ্ছে তা খেয়াল রাখা, আর যা কেবল আল্লাহ জানেন তা আল্লাহর হাতেই ছেড়ে দেওয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "18:82": {
     "sections": [
       {
