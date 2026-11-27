@@ -35973,6 +35973,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Prophet ﷺ was not there, yet he told Musa's story truly. Receive what revelation tells you of the unseen as trusted news, and live by it.",
     "lessonBn": "নবী ﷺ সেখানে ছিলেন না, তবু মূসা (আঃ)-এর কাহিনি সত্যভাবে বলেছেন। ওহি গায়েবের যে খবর দেয়, তা বিশ্বস্ত খবর হিসেবে গ্রহণ করুন এবং সে অনুযায়ী চলুন।"
+  },
+  "28:79": {
+    "reflectionEn": "Qarun has just claimed that his wealth came from knowledge of his own. Now he steps out before his people in all his finery, to be seen. The crowd divides. Those whose wanting stops at this world say: if only we had what Qarun has been given; he is truly a man of great fortune. They are not wicked for noticing. They are measuring, and by their measure they are right, if nothing comes after this life. The very next verse answers from a longer measure: the reward of Allah is better. The scene is less about him than about the onlookers, and I stand among them most days. When someone's display passes in front of me, what does my wish say about what I really want?",
+    "reflectionBn": "কারূন এইমাত্র দাবি করেছে, তার ধনসম্পদ এসেছে তার নিজের জ্ঞানের জোরে। এবার সে পুরো সাজসজ্জা নিয়ে নিজের লোকদের সামনে বেরিয়ে আসে, লোকে দেখবে বলে। ভিড়টা দুই ভাগ হয়ে যায়। যাদের চাওয়া দুনিয়াতেই থেমে আছে, তারা বলে ওঠে: হায়, কারূনকে যা দেওয়া হয়েছে, আমাদেরও যদি তা থাকত! সত্যিই সে মহা ভাগ্যবান। চোখে পড়েছে বলে তারা মন্দ হয়ে যায়নি। তারা মাপছে। আর তাদের মাপকাঠিতে তারা ঠিকই বলছে, যদি এই জীবনের পরে আর কিছু না থাকে। ঠিক পরের আয়াত জবাব দেয় আরও লম্বা মাপকাঠি দিয়ে: আল্লাহর প্রতিদানই উত্তম। দৃশ্যটা কারূনকে নিয়ে যতটা, দর্শকদের নিয়ে তার চেয়ে বেশি। আর সেই দর্শকদের ভিড়ে আমিও প্রায় রোজই দাঁড়াই। কারও জাঁকজমক যখন আমার সামনে দিয়ে চলে যায়, তখন আমার মনের ইচ্ছাটা কী বলে দেয়, আমি আসলে কী চাই?",
+    "pointsEn": [
+      "Whose life did I watch this week and think, if only I had what they have been given?",
+      "If I measured fortune only by what can be seen, what would I count in, and what would I leave out?",
+      "When I show what I have been given, is it to share a blessing or to be looked at?",
+      "If people who know what lasts heard my wishes spoken aloud, what would they say to me?",
+      "Do I look more often at those above me in wealth, or at those below me?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে কার জীবন দেখে আমি মনে মনে বলেছি, ওকে যা দেওয়া হয়েছে, আমারও যদি থাকত?",
+      "চোখে যা দেখা যায় শুধু তা দিয়েই যদি সৌভাগ্য মাপি, তবে হিসাবে কী ঢুকবে, আর কী বাদ পড়ে যাবে?",
+      "আল্লাহ আমাকে যা দিয়েছেন তা যখন দেখাই, তখন কি নিয়ামতের কথা জানাই, নাকি চাই লোকে আমার দিকে তাকাক?",
+      "কোনটা টিকে থাকে তা যারা জানে, আমার মনের ইচ্ছাগুলো মুখে বললে তারা শুনে আমাকে কী বলত?",
+      "সম্পদে যারা আমার উপরে, আমি কি তাদের দিকেই বেশি তাকাই, নাকি যারা নিচে তাদের দিকেও?"
+    ],
+    "lessonEn": "Notice what your wishes are measured against: what dazzles in this world is a real share, but a small one beside the reward of Allah.",
+    "lessonBn": "খেয়াল করুন, আপনার ইচ্ছাগুলো কোন মাপকাঠিতে মাপা হচ্ছে। দুনিয়ার চোখধাঁধানো জিনিসও সত্যিকারের অংশ, তবে আল্লাহর প্রতিদানের পাশে তা খুবই ছোট।"
   }
 };
 

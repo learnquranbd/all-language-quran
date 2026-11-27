@@ -3391,6 +3391,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "28:79": {
+    "sections": [
+      {
+        "h": {
+          "en": "Out Before His People",
+          "bn": "লোকদের সামনে বেরিয়ে আসা"
+        },
+        "p": [
+          {
+            "en": "Fa-kharaja ʿala qawmihi fi zinatihi: so he went out before his people in his adornment. The fa ties the scene to what came just before. In 28:78 Qarun met his people's counsel with a claim, I was given it only because of knowledge I have. Ma'arif al-Qur'an, in the passage it files with this verse, finds the more plausible sense of that knowledge to be skill in trade and earning, and answers that the skill itself was a gift of Allah.",
+            "bn": "ফাখারাজা আলা কাওমিহী ফী যীনাতিহী: অতঃপর সে সাজসজ্জা নিয়ে তার লোকদের সামনে বেরিয়ে এল। শুরুর 'ফা' দৃশ্যটাকে ঠিক আগের কথার সঙ্গে বেঁধে দেয়। ২৮:৭৮ আয়াতে লোকেরা কারূনকে উপদেশ দিয়েছিল, আর সে জবাবে দাবি করেছিল: এ সম্পদ আমাকে দেওয়া হয়েছে আমার নিজের জ্ঞানের কারণে। মাআরিফুল কুরআন এ আয়াতের সঙ্গে রাখা আলোচনায় বলে, সেই জ্ঞানের বেশি সংগত অর্থ হলো ব্যবসা আর উপার্জনের দক্ষতা। সঙ্গে জবাবও দেয়: ওই দক্ষতাও আল্লাহরই দান।"
+          },
+          {
+            "en": "So the order of the story is plain: first the claim, then the procession. Al-Muyassar names the purpose in one phrase. He went out intending by it to display his greatness and the abundance of his wealth. Ibn Kathir and as-Sa'di both set the scene on a single day, dhata yawm. The verse gives Qarun no words here at all. He says nothing; he only appears, and lets the finery stand behind the claim he has just made. Every word spoken in the verse belongs to the people watching.",
+            "bn": "গল্পের ধারাটা তাই পরিষ্কার। আগে দাবি, তারপর শোভাযাত্রা। মুয়াসসার উদ্দেশ্যটা এক কথায় বলে দেয়: নিজের বড়ত্ব আর সম্পদের প্রাচুর্য দেখানোর ইচ্ছা নিয়েই সে বেরিয়েছিল। ইবন কাসীর ও সা'দী দুজনেই ঘটনাটাকে একটি দিনের ঘটনা বলেন, যাতা ইয়াওম, কোনো এক দিন। এখানে আয়াত কারূনের মুখে কোনো কথা দেয়নি। সে কিছু বলে না, শুধু হাজির হয়। এইমাত্র যে দাবি সে করেছে, তার পেছনে দাঁড় করিয়ে দেয় নিজের জাঁকজমক। আয়াতে যত কথা উচ্চারিত হয়েছে, সবই দর্শকদের মুখের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Finery as He Counted It",
+          "bn": "তার চোখে যা সাজসজ্জা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi glosses the phrase with care. His people are the Children of Israel, and the zina is what Qarun regarded as adornment from the goods of this life: clothes, mounts and display. He reads fi zinatihi as maʿa zinatihi, with his adornment, and cites a line of poetry in which fi carries the same sense of with. His wording places the valuation inside Qarun's own eyes. It was adornment as he counted it.",
+            "bn": "কুরতুবী শব্দগুলোর ব্যাখ্যা দেন সাবধানে। তার লোক মানে বনী ইসরাঈল। আর যীনা মানে দুনিয়ার ভোগ্যবস্তুর মধ্যে কারূন যেগুলোকে সাজসজ্জা মনে করত: পোশাক, বাহন আর জৌলুস। ফী যীনাতিহী-কে তিনি পড়েন মাআ যীনাতিহী, অর্থাৎ সাজসজ্জাসহ। প্রমাণ হিসেবে আনেন একটি কবিতার চরণ, যেখানে 'ফী' একই অর্থে 'সঙ্গে' বোঝায়। তাঁর শব্দচয়নে মূল্য বিচারটা থাকে কারূনের নিজের চোখে। এ ছিল তার নিজের হিসাবের সাজ।"
+          },
+          {
+            "en": "Ibn Kathir describes great adornment and a dazzling show: mounts, and fine clothes on him and on his servants and retinue. As-Sa'di says he came out in the highest state his worldly life could reach. He had prepared and beautified himself with the most he was able, and such adornment, from a man like him, is usually immense, gathering together the world's adornment, its flower, its brightness, its freshness and its pride.",
+            "bn": "ইবন কাসীর বর্ণনা করেন বিশাল সাজসজ্জা আর চোখধাঁধানো জৌলুসের কথা: বাহন, আর তার নিজের গায়ে এবং তার চাকর ও লোকলস্করের গায়ে দামি পোশাক। সা'দী বলেন, দুনিয়ার জীবনে তার পক্ষে যত উঁচু অবস্থায় থাকা সম্ভব, সেই অবস্থায় সে বেরিয়েছিল। যতটা পারে প্রস্তুতি নিয়েছিল, নিজেকে সাজিয়েছিল। তার মতো লোকের সাজ সাধারণত হয় বিপুল। দুনিয়ার শোভা, তার ফুল, তার ঝলক, তার সতেজতা আর তার অহংকার, সব যেন এক জায়গায় জড়ো হয়েছিল।"
+          },
+          {
+            "en": "Then as-Sa'di turns from the man to the effect. In that state the eyes fixed on him, his attire filled the hearts, and his adornment beguiled the souls. The order matters. Before any word is spoken, the sight has already done its work on the watchers. The verse studies what a display does to the people who look at it.",
+            "bn": "এরপর সা'দী মানুষটির কথা ছেড়ে তার প্রভাবের দিকে যান। ওই অবস্থায় সবার চোখ তার উপর আটকে গেল। তার পোশাক মন ভরে দিল, তার সাজ মানুষের প্রাণ কেড়ে নিল। ক্রমটা লক্ষ করার মতো। কেউ একটি কথা বলার আগেই দৃশ্যটা দর্শকদের উপর নিজের কাজ সেরে ফেলেছে। আয়াতটি তাই দেখায়, জাঁকজমক তাদের কী করে, যারা দাঁড়িয়ে তা দেখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Colours the Narrators Recalled",
+          "bn": "বর্ণনাকারীদের স্মৃতির রং"
+        },
+        "p": [
+          {
+            "en": "The verse says zina and stops. The early authorities supplied a picture, and at-Tabari collects it, saying the adornment, as it has been mentioned, was garments dyed deep red. From Jabir he reports crimson; from Mujahid, Ibrahim an-Nakhaʿi and al-Hasan, red garments, al-Hasan adding yellow. Mujahid, in another report, has white horses with red saddles and riders in safflower-dyed clothes, and Ibn Jurayj has a grey mule and a train of slave women.",
+            "bn": "আয়াত শুধু 'যীনা' বলেই থেমে যায়। প্রথম যুগের আলিমরা একটা ছবি জুড়ে দিয়েছেন, আর তাবারী তা জড়ো করেছেন। তিনি বলেন, যেমনটা বর্ণিত আছে, সেই সাজ ছিল গাঢ় লাল রঙে রাঙানো পোশাক। জাবির (রাঃ) থেকে তিনি আনেন টকটকে লাল রং। মুজাহিদ, ইবরাহীম নাখঈ আর হাসান থেকে লাল পোশাক, হাসান তার সঙ্গে হলুদও যোগ করেন। আরেক বর্ণনায় মুজাহিদ বলেন সাদা ঘোড়া আর লাল জিনের কথা, আরোহীদের গায়ে কুসুম ফুলে রাঙানো কাপড়। ইবন জুরাইজ বলেন ধূসর খচ্চর আর দাসীদের এক সারির কথা।"
+          },
+          {
+            "en": "The numbers do not agree. Qatada, introducing it with we were told, has them ride out on four thousand mounts; Ibn Zayd, from what his father used to mention, says seventy thousand. Al-Baghawi adds Muqatil's version, with a golden saddle and four thousand horsemen. Al-Qurtubi gathers much the same and sets it on a feast day, recording al-Ghaznawi's view that it was the Sabbath. None of this is in the verse, and none of it comes from the Prophet ﷺ. It may colour the scene; nothing should be built on a colour or a number.",
+            "bn": "সংখ্যাগুলো মেলে না। কাতাদা 'আমাদের জানানো হয়েছে' বলে শুরু করে বলেন, তারা ৪ হাজার বাহনে চড়ে বেরিয়েছিল। ইবন যাইদ বাবার মুখে যা শুনতেন তা থেকে বলেন ৭০ হাজার। বাগাভী যোগ করেন মুকাতিলের বর্ণনা: সোনার জিন আর ৪ হাজার অশ্বারোহী। কুরতুবী প্রায় একই কথা জড়ো করেন এবং দিনটাকে বলেন ঈদের দিন, সঙ্গে গাযনাবীর মত উল্লেখ করেন যে দিনটা ছিল শনিবার। এর কিছুই আয়াতে নেই, আর কিছুই নবী ﷺ থেকে আসেনি। এগুলো দৃশ্যে রং দিতে পারে। কিন্তু কোনো রং বা সংখ্যার উপর কিছু দাঁড় করানো ঠিক নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named by Their Wanting",
+          "bn": "চাওয়া দিয়েই যাদের পরিচয়"
+        },
+        "p": [
+          {
+            "en": "Then the crowd speaks: qala alladhina yuriduna al-hayata ad-dunya, said those who want the life of this world. The verse does not name them by wealth or poverty, tribe or rank. It names them by what they want. As-Sa'di defines them exactly: those whose will had fastened on this world until it became the farthest point of their desire, with no will left for anything beyond it. At-Tabari reads the object a little more narrowly: those of Qarun's people who wanted the adornment of the life of this world.",
+            "bn": "এবার ভিড় কথা বলে: কালাল্লাযীনা ইউরীদূনাল হায়াতাদ দুনইয়া, যারা দুনিয়ার জীবন চায় তারা বলল। আয়াত তাদের পরিচয় দেয়নি ধনী-গরিব দিয়ে, গোত্র বা পদমর্যাদা দিয়েও নয়। পরিচয় দিয়েছে তাদের চাওয়া দিয়ে। সা'দী তাদের সংজ্ঞা দেন নিখুঁতভাবে: যাদের ইচ্ছা দুনিয়াতেই আটকে গেছে, দুনিয়াই হয়ে গেছে তাদের আকাঙ্ক্ষার শেষ সীমা, এর বাইরে আর কিছুর ইচ্ছা তাদের নেই। তাবারী বিষয়টাকে একটু সরু করে পড়েন: কারূনের লোকদের মধ্যে যারা দুনিয়ার জীবনের সাজসজ্জা চাইত।"
+          },
+          {
+            "en": "Ibn Kathir describes them as people who lean toward the world's glitter and adornment, and al-Muyassar spells out what they wished for: Qarun's wealth, his adornment and his standing, al-jah. Three things, not one; the wish took in the whole figure he cut, not only the money. The same verb returns four verses later. In 28:83 the home of the Hereafter is assigned to those who do not want height on the earth or corruption. The surah sorts people by their wanting before it speaks of their doing.",
+            "bn": "ইবন কাসীর তাদের বর্ণনা দেন এমন লোক হিসেবে, যাদের মন দুনিয়ার চাকচিক্য আর সাজের দিকে ঝুঁকে থাকে। মুয়াসসার খুলে বলে তারা কী চেয়েছিল: কারূনের সম্পদ, তার সাজসজ্জা আর তার প্রতিপত্তি, আল-জাহ। একটি নয়, তিনটি জিনিস। ইচ্ছাটা শুধু টাকার জন্য ছিল না, ছিল তার গোটা চেহারাটার জন্য। একই ক্রিয়া চারটি আয়াত পরে আবার আসে। ২৮:৮৩ আয়াতে আখিরাতের ঘর রাখা হয়েছে তাদের জন্য, যারা পৃথিবীতে উচ্চতা চায় না, বিপর্যয়ও চায় না। কাজের কথা বলার আগে সূরাটি মানুষকে ভাগ করে তাদের চাওয়া দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Believers Who Wished, or Others",
+          "bn": "মুমিনদের আকাঙ্ক্ষা, নাকি অন্যদের"
+        },
+        "p": [
+          {
+            "en": "Who were these people? Al-Qurtubi records two answers and settles on neither. One, introduced with it was said: they were believers of that time, who wished for wealth like his out of a desire for this world. The other, again with it was said: they were people who did not believe in the Hereafter and had no desire for it, the disbelievers. The first reading makes the wish a weakness inside faith. The second makes it the natural speech of a heart that sees nothing past the present.",
+            "bn": "এরা কারা ছিল? কুরতুবী দুটি উত্তর উল্লেখ করেন, কোনোটিকেই চূড়ান্ত করেন না। একটি 'বলা হয়েছে' দিয়ে শুরু: তারা ছিল সে যুগের মুমিন, দুনিয়ার প্রতি টানের কারণে কারূনের মতো সম্পদ কামনা করেছিল। অন্যটিও 'বলা হয়েছে' দিয়ে: তারা এমন লোক, যারা আখিরাতে বিশ্বাস করত না, আখিরাতের প্রতি তাদের কোনো আগ্রহও ছিল না, অর্থাৎ কাফির। প্রথম পাঠে আকাঙ্ক্ষাটা ঈমানের ভেতরের এক দুর্বলতা। দ্বিতীয় পাঠে তা এমন হৃদয়ের স্বাভাবিক কথা, যে বর্তমানের বাইরে কিছুই দেখে না।"
+          },
+          {
+            "en": "As-Sa'di comes at the question from another side. He does not ask about their creed. He says the onlookers split into two groups, and each spoke according to what it held of himma and desire, its reach of aspiration. On his reading, what divides the crowd is how high its wanting climbs. The verse leaves the identity open, and so should the reader. What it does make plain is that a single sight drew two opposite responses, and the next verse gives the second.",
+            "bn": "সা'দী প্রশ্নটায় ঢোকেন অন্য দিক থেকে। তাদের আকীদা নিয়ে তিনি প্রশ্ন তোলেন না। তিনি বলেন, দর্শকেরা দুই দলে ভাগ হয়ে গেল, আর প্রত্যেকে কথা বলল নিজের হিম্মত আর আকাঙ্ক্ষা অনুযায়ী। তাঁর পাঠে ভিড়কে ভাগ করে দেয় চাওয়াটা কত উঁচুতে ওঠে, সেটাই। এরা ঠিক কারা, আয়াত তা খোলা রেখেছে, পাঠকেরও খোলা রাখা উচিত। আয়াত যা স্পষ্ট করে তা হলো, একই দৃশ্য দুটি বিপরীত সাড়া জাগিয়েছিল। দ্বিতীয় সাড়াটা আসে পরের আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "True Inside a Small Frame",
+          "bn": "ছোট ফ্রেমের ভেতরে সত্য"
+        },
+        "p": [
+          {
+            "en": "Ya layta lana mithla ma utiya Qarun: if only we had the like of what Qarun was given. Then innahu la-dhu hazzin ʿazim: he is indeed one of great fortune. The commentators gloss hazz alike. At-Tabari: a portion of this world. Al-Qurtubi and Ibn Kathir: an ample share of this world. Al-Baghawi: of wealth. The abridged English Ibn Kathir: he is very lucky and has a great share in this world. Every gloss adds the same limit, of this world, and the limit carries the point.",
+            "bn": "ইয়া লাইতা লানা মিসলা মা ঊতিয়া কারূন: হায়, কারূনকে যা দেওয়া হয়েছে আমাদেরও যদি তেমন থাকত! তারপর ইন্নাহূ লাযূ হাযযিন আযীম: নিশ্চয়ই সে মহা ভাগ্যবান। 'হায' শব্দের ব্যাখ্যায় তাফসীরকারেরা একমত। তাবারী বলেন, দুনিয়ার একটা অংশ। কুরতুবী ও ইবন কাসীর বলেন, দুনিয়ার প্রচুর অংশ। বাগাভী বলেন, সম্পদের অংশ। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, সে খুব ভাগ্যবান, দুনিয়াতে তার বড় অংশ আছে। প্রতিটি ব্যাখ্যা একই সীমা টেনে দেয়, দুনিয়ার। আসল কথাটা ওই সীমাতেই।"
+          },
+          {
+            "en": "Here as-Sa'di makes a striking concession. They spoke the truth, he says: he truly was a man of great fortune, if the matter ended at their desires and there were no other home beyond this world. He had been given of it what brings the utmost enjoyment of worldly comfort, and with it he could reach everything he sought. The admirers' sentence is not a lie. It is true inside a frame that is too small, and the error lies in the frame.",
+            "bn": "এখানে সা'দী একটা চমকে দেওয়ার মতো কথা স্বীকার করেন। তিনি বলেন, তারা সত্যই বলেছিল। সে সত্যিই মহা ভাগ্যবান ছিল, যদি ব্যাপারটা তাদের কামনাতেই শেষ হয়ে যেত আর দুনিয়ার পরে অন্য কোনো ঘর না থাকত। দুনিয়ার সুখভোগের চূড়ান্ত যা, তার সবই তাকে দেওয়া হয়েছিল। তা দিয়ে সে যা চাইত তা-ই হাতে পেত। ভক্তদের কথাটা তাই মিথ্যা নয়। কথাটা সত্য, তবে খুব ছোট এক ফ্রেমের ভেতরে। ভুলটা ফ্রেমে।"
+          },
+          {
+            "en": "As-Sa'di then names the fault. An aspiration that makes this its final aim and the end of its seeking is among the lowest of aspirations, without the least climb toward the high aims and precious goals. The reply comes in 28:80, from those given knowledge. Ma'arif al-Qur'an, discussing that verse, notes how it sets them against those who want this life: it is not their way to make wealth the object of life; they take of it what their needs require and stay content.",
+            "bn": "তারপর সা'দী দোষটার নাম বলেন। যে হিম্মত এটাকেই চূড়ান্ত লক্ষ্য আর চাওয়ার শেষ সীমা বানায়, তা সবচেয়ে নিচু হিম্মতগুলোর একটি। উঁচু লক্ষ্য আর দামি প্রাপ্তির দিকে তার সামান্যতম ওঠাও নেই। জবাব আসে ২৮:৮০ আয়াতে, যাদের জ্ঞান দেওয়া হয়েছিল তাদের মুখে। মাআরিফুল কুরআন ওই আয়াতের আলোচনায় দেখায়, আয়াতটি জ্ঞানীদের দাঁড় করিয়েছে দুনিয়া-চাওয়া লোকদের মুখোমুখি। সম্পদকে জীবনের লক্ষ্য বানানো জ্ঞানীদের স্বভাব নয়। প্রয়োজন মেটাতে যতটুকু লাগে, ততটুকু নেন, আর তাতেই সন্তুষ্ট থাকেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Only Wishes Allowed",
+          "bn": "যে দুটি কামনা বৈধ"
+        },
+        "p": [
+          {
+            "en": "No commentator fetched for this verse attaches a hadith to it. Two sound narrations speak to the same wish in general terms, and neither is reported about this verse. Sahih al-Bukhari (73) records from ʿAbdullah ibn Masʿud that the Prophet ﷺ said: \"Do not wish to be like anyone except in two cases. (The first is) A person, whom Allah has given wealth and he spends it righteously; (the second is) the one whom Allah has given wisdom (the Holy Qur'an) and he acts according to it and teaches it to others.\"",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে দুটি সহীহ বর্ণনা সাধারণভাবে একই আকাঙ্ক্ষার কথা বলে, যদিও কোনোটিই এ আয়াত প্রসঙ্গে বর্ণিত নয়। সহীহ বুখারী (৭৩) আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে বর্ণনা করে, নবী ﷺ বলেছেন: \"দুটি ক্ষেত্র ছাড়া কারও মতো হওয়ার কামনা কোরো না। এক, যাকে আল্লাহ সম্পদ দিয়েছেন, আর সে তা ন্যায়ের পথে খরচ করে। দুই, যাকে আল্লাহ হিকমত (কুরআন) দিয়েছেন, আর সে সে অনুযায়ী আমল করে এবং অন্যকে শেখায়।\""
+          },
+          {
+            "en": "Set beside 28:79, the hadith does not leave wealth out of what may be wished for. It names wealth, and ties the wish to one use of it: spending it rightly. The crowd wished for Qarun's wealth as it looked that day, in procession. A second narration speaks to the eyes. Sahih Muslim (2963) records from Abu Hurayra that the Messenger of Allah ﷺ said: \"Look at those who stand at a lower level than you but don't look at those who stand at a higher level than you, for that is better-suited that you do not disparage Allah's favors.\"",
+            "bn": "২৮:৭৯ আয়াতের পাশে রাখলে দেখা যায়, হাদীসটি কামনার তালিকা থেকে সম্পদকে বাদ দেয়নি। সম্পদের নামই নিয়েছে, তবে কামনাটাকে বেঁধে দিয়েছে তার একটি ব্যবহারের সঙ্গে: ন্যায়ের পথে খরচ। ভিড় কারূনের সম্পদ চেয়েছিল সেদিনের শোভাযাত্রায় যেমন দেখাচ্ছিল, তেমন করে। দ্বিতীয় বর্ণনাটি চোখের কথা বলে। সহীহ মুসলিম (২৯৬৩) আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করে, রাসূলুল্লাহ ﷺ বলেছেন: \"তোমাদের চেয়ে যারা নিচে আছে তাদের দিকে তাকাও, তোমাদের চেয়ে যারা উপরে আছে তাদের দিকে তাকিয়ো না। আল্লাহর নিয়ামতকে তুচ্ছ না ভাবার জন্য এটাই বেশি উপযোগী।\""
+          },
+          {
+            "en": "The crowd in this verse did what the second narration warns against: every eye went up. As-Sa'di's phrase, that the eyes fixed on Qarun, catches the posture exactly. The hadith gives its own reason for looking down instead, so that a person does not belittle the favours of Allah already in hand. Neither narration names Qarun, and neither is offered as the explanation of the verse. They stand beside it as teaching on the same human pull.",
+            "bn": "এ আয়াতের ভিড় ঠিক সেটাই করেছিল, যা থেকে দ্বিতীয় বর্ণনা সাবধান করে: সবার চোখ উঠে গিয়েছিল উপরের দিকে। সা'দীর কথা, সবার চোখ কারূনের উপর আটকে গেল, ভঙ্গিটা নিখুঁতভাবে ধরে। নিচের দিকে তাকানোর কারণও হাদীস নিজেই বলে দেয়: যাতে হাতে থাকা আল্লাহর নিয়ামতকে মানুষ ছোট করে না দেখে। কোনো বর্ণনাতেই কারূনের নাম নেই, কোনোটিকেই আয়াতের ব্যাখ্যা হিসেবে আনা হয়নি। মানুষের একই টানের ব্যাপারে শিক্ষা হিসেবে এগুলো আয়াতের পাশে দাঁড়িয়ে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Charge Against the Wealthy",
+          "bn": "ধনীদের বিরুদ্ধে কোনো রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This verse describes one man's display and one crowd's wish, inside a story the Qur'an tells to its end. It licenses nothing against any wealthy person or community today. It gives no one leave to read a neighbour's clothes or house as Qarun's procession, or to presume pride behind a good garment. The faults the surrounding verses name are tyranny over his people, exultation, and the claim that he owed his wealth to himself; and 28:77 had told him not to forget his share of this world.",
+            "bn": "এ আয়াত একজন মানুষের জাঁকজমক আর এক দল লোকের আকাঙ্ক্ষার বর্ণনা দেয়, এমন এক কাহিনির ভেতরে যা কুরআন শেষ পর্যন্ত বলেছে। আজকের কোনো ধনী ব্যক্তি বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। প্রতিবেশীর পোশাক বা বাড়িকে কারূনের শোভাযাত্রা ভাবার, কিংবা ভালো কাপড়ের পেছনে অহংকার আছে ধরে নেওয়ার অধিকার কাউকে দেয় না। আশপাশের আয়াতগুলো যে দোষের নাম নেয়, তা হলো নিজের লোকদের উপর জুলুম, দম্ভ, আর সম্পদকে নিজের কৃতিত্ব বলে দাবি করা। আর ২৮:৭৭ আয়াতে তাকে বলাই হয়েছিল, দুনিয়ায় নিজের অংশ ভুলে যেও না।"
+          },
+          {
+            "en": "Nor does it license contempt for the admirers. They are ordinary people saying what ordinary people say, and 28:82 shows the same people who wished for his place, the next day, owning that Allah's favour alone kept the earth from swallowing them too. The verse sketches a temptation common to anyone who has stood at a roadside watching splendour pass. Whoever reads it as a charge sheet against others has missed that the crowd is drawn wide enough to include the reader.",
+            "bn": "ভক্তদের তুচ্ছ করারও কোনো অনুমতি এ আয়াত দেয় না। তারা সাধারণ মানুষ, সাধারণ মানুষ যা বলে তা-ই বলেছে। ২৮:৮২ আয়াতে পরদিন সেই একই লোকদের দেখা যায়, যারা কারূনের জায়গাটা কামনা করেছিল। এবার তারা স্বীকার করছে, শুধু আল্লাহর অনুগ্রহেই মাটি তাদেরও গিলে নেয়নি। রাস্তার ধারে দাঁড়িয়ে যে কেউ কখনো জৌলুস চলে যেতে দেখেছে, তার সবার চেনা এক প্রলোভনের ছবি আঁকে আয়াতটি। যে এটাকে অন্যদের বিরুদ্ধে অভিযোগপত্র বানায়, সে খেয়াল করেনি, ভিড়টা এত বড় করে আঁকা যে পাঠকও তার ভেতরে পড়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Standing at the Roadside",
+          "bn": "রাস্তার ধারে দাঁড়িয়ে"
+        },
+        "p": [
+          {
+            "en": "So the verse holds a mirror at two angles. One angle shows the procession. Few readers will ever ride out with a retinue, but almost everyone has some small stage: a photograph, a purchase, a title, a way of entering a room. Al-Muyassar's phrase fits any scale, going out to display one's greatness and the abundance of what one has. The question for the one on display is what the display is for, and whether, like Qarun in 28:78, he has quietly credited himself with the gift.",
+            "bn": "আয়াতটি তাই দুই কোণ থেকে আয়না ধরে। এক কোণে দেখা যায় শোভাযাত্রা। লোকলস্কর নিয়ে বের হওয়ার সুযোগ খুব কম পাঠকেরই আসবে। কিন্তু প্রায় সবারই ছোট একটা মঞ্চ থাকে: একটা ছবি, একটা কেনাকাটা, একটা পদবি, ঘরে ঢোকার একটা ভঙ্গি। মুয়াসসারের কথাটা যেকোনো মাপে খাটে: নিজের বড়ত্ব আর যা আছে তার প্রাচুর্য দেখাতে বেরিয়ে পড়া। যে নিজেকে দেখাচ্ছে, তার প্রশ্ন হলো এ প্রদর্শন কীসের জন্য। আর ২৮:৭৮ আয়াতের কারূনের মতো সে কি চুপচাপ দানটার কৃতিত্ব নিজের ঘরে তুলে নিয়েছে?"
+          },
+          {
+            "en": "The other angle shows the roadside. As-Sa'di's test is a test of himma, of how high the wanting reaches. The fault he names is not the noticing; it is making this world the final aim and the end of one's seeking. The two narrations above give a practical turn: point the wish toward wealth spent rightly and wisdom acted on, and look more at those below than at those above. Then the sentence of 28:80 comes easier in one's own heart: the reward of Allah is better.",
+            "bn": "অন্য কোণে দেখা যায় রাস্তার ধার। সা'দীর পরীক্ষাটা হিম্মতের পরীক্ষা, চাওয়াটা কত উঁচুতে পৌঁছায় তার পরীক্ষা। তিনি যে দোষের নাম নেন, তা চোখে পড়া নয়। দোষ হলো দুনিয়াকেই চূড়ান্ত লক্ষ্য আর চাওয়ার শেষ সীমা বানানো। ওপরের দুটি বর্ণনা কাজের একটা পথ দেখায়। কামনাটা ঘুরিয়ে দিন সেই সম্পদের দিকে যা ন্যায়ের পথে খরচ হয়, আর সেই হিকমতের দিকে যার উপর আমল হয়। আর উপরের লোকদের চেয়ে নিচের লোকদের দিকে বেশি তাকান। তখন ২৮:৮০ আয়াতের কথাটা নিজের মনে বলা সহজ হয়ে আসে: আল্লাহর প্রতিদানই উত্তম।"
+          }
+        ]
+      }
+    ]
+  },
   "28:83": {
     "sections": [
       {
