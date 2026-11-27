@@ -37433,6 +37433,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The warning has already reached you, so answer it with deeds now, before a Day when yes can only be followed by but.",
     "lessonBn": "সতর্কবাণী আপনার কাছে পৌঁছে গেছে। তাই এখনই আমল দিয়ে তার জবাব দিন, সেই দিন আসার আগে, যেদিন হ্যাঁ বলার পরে কেবল কিন্তুই বলা যাবে।"
+  },
+  "40:5": {
+    "reflectionEn": "Before the Prophet's own people, the people of Nuh denied, and after them faction upon faction did the same. The verse folds whole ages into a single pattern: every nation set its mind on its messenger to seize him, and argued with falsehood to make the truth lose its footing. Then a short sentence answers all of it: so I seized them, and how was My penalty! The verse came as comfort to the Prophet ﷺ, who was meeting that same pattern. It also asks something of me. When a truth corners me, do I look for an answer, or for an argument that will make it go away? And when I see the truth mocked by the strong, do I remember how the pattern ended?",
+    "reflectionBn": "নবী ﷺ-এর নিজের জাতির আগে নূহ (আঃ)-এর জাতি অস্বীকার করেছিল, আর তাদের পরে একের পর এক দল সেই একই কাজ করেছে। আয়াতটি যুগের পর যুগকে একটা ছকে ভাঁজ করে রাখে। প্রত্যেক জাতি নিজের রসূলকে পাকড়াও করার মতলব এঁটেছে। মিথ্যা দিয়ে তর্ক করেছে, যাতে সত্যের পায়ের নিচের মাটি সরে যায়। তারপর ছোট্ট এক বাক্যে সবকিছুর জবাব: ফলে আমি তাদের পাকড়াও করলাম, দেখো কেমন ছিল আমার শাস্তি! নবী ﷺ তখন ঠিক এই ছকেরই মুখোমুখি, তাই আয়াতটি তাঁর জন্য সান্ত্বনা হয়ে এসেছিল। আমার কাছেও আয়াতটি কিছু চায়। কোনো সত্য যখন আমাকে কোণঠাসা করে, আমি কি জবাব খুঁজি, নাকি এমন যুক্তি খুঁজি যাতে সত্যটাই উড়ে যায়? আর ক্ষমতাবানদের হাতে সত্যকে বিদ্রূপের শিকার হতে দেখলে, আমার কি মনে পড়ে এই ছকের শেষটা কেমন হয়েছিল?",
+    "pointsEn": [
+      "When a truth I dislike reaches me, is my first move to understand it or to find a way to knock it down?",
+      "Have I ever kept an argument going after I knew I was wrong, only so that I would not lose?",
+      "When I am mocked or pressured for holding to what is right, do I remember that the messengers met far worse and held firm?",
+      "Do I let the wealth and confidence of those who reject the truth unsettle what I already know?",
+      "Which honest question about my faith have I been avoiding, and which empty quarrel have I been feeding instead?"
+    ],
+    "pointsBn": [
+      "অপছন্দের কোনো সত্য আমার কাছে পৌঁছালে আমার প্রথম চেষ্টা কী হয়: সেটা বোঝা, নাকি সেটাকে ধরাশায়ী করার পথ খোঁজা?",
+      "ভুল জেনেও শুধু হার না মানার জন্য কি কখনো তর্ক চালিয়ে গেছি?",
+      "হকের উপর থাকার কারণে কেউ বিদ্রূপ করলে বা চাপ দিলে, আমার কি মনে পড়ে যে রসূলগণ এর চেয়ে অনেক কঠিন কিছুর মুখে অবিচল ছিলেন?",
+      "সত্য প্রত্যাখ্যানকারীদের প্রাচুর্য আর দাপট দেখে আমি যা জানি, তা কি নড়বড়ে হয়ে যায়?",
+      "ঈমান নিয়ে কোন সৎ প্রশ্নটা আমি এড়িয়ে চলছি, আর তার বদলে কোন অসার ঝগড়াকে খোরাক জোগাচ্ছি?"
+    ],
+    "lessonEn": "Meet a truth with honest questions, never with arguments built to topple it; and when rejection comes, remember the messengers faced worse and the outcome belongs to Allah.",
+    "lessonBn": "সত্যের সামনে সৎ প্রশ্ন নিয়ে দাঁড়ান, তাকে ধসিয়ে দেওয়ার যুক্তি নিয়ে নয়। আর প্রত্যাখ্যানের মুখে মনে রাখুন, রসূলগণ এর চেয়েও কঠিন কিছু সয়েছেন, আর শেষ ফয়সালা আল্লাহর হাতে।"
   }
 };
 

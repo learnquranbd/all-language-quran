@@ -159,6 +159,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "40:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "Comfort and Warning Together",
+          "bn": "একসঙ্গে সান্ত্বনা ও সতর্কবাণী"
+        },
+        "p": [
+          {
+            "en": "Kadhdhabat qablahum qawmu Nuhin: before them the people of Nuh denied. The verse follows directly on 40:4, which says that none dispute concerning the signs of Allah except those who disbelieve, and tells the Prophet ﷺ not to be deceived by their free movement through the land. Ibn Kathir reads 40:5 as consolation: the Prophet has an example in the prophets before him, whose nations denied and opposed them, and of whom only a few believed.",
+            "bn": "কায্যাবাত কাবলাহুম কাওমু নূহিন: এদের আগে নূহের জাতি অস্বীকার করেছিল। আয়াতটি এসেছে ঠিক ৪০:৪-এর পরে। সেখানে বলা হয়েছে, কাফিররা ছাড়া কেউ আল্লাহর আয়াত নিয়ে বিতর্ক করে না, আর নবী ﷺ-কে বলা হয়েছে, দেশে দেশে তাদের অবাধ চলাফেরা যেন তাঁকে ধোঁকায় না ফেলে। ইবন কাসীর ৪০:৫-কে পড়েন সান্ত্বনা হিসেবে। আগের নবীদের মধ্যে নবী ﷺ-এর জন্য আদর্শ আছে। তাঁদের জাতিও তাঁদের অস্বীকার করেছিল, বিরোধিতা করেছিল, আর তাঁদের উপর ঈমান এনেছিল অল্প কয়েকজন।"
+          },
+          {
+            "en": "As-Sa'di reads the same verse from the other side, as a threat to whoever disputes Allah's signs in order to nullify them, as the nations before had done. At-Tabari keeps both sides in view. The nations argued with their messengers by falsehood, he says, just as the disbelievers of your people argue with you by falsehood, O Muhammad. Ibn Kathir also explains why the list opens with Nuh (AS): he was the first messenger Allah sent to forbid the worship of idols.",
+            "bn": "সা'দী একই আয়াতকে পড়েন উল্টো দিক থেকে, হুমকি হিসেবে। যে আল্লাহর আয়াতকে বাতিল করার জন্য তা নিয়ে বিতর্ক করে, আগের জাতিগুলো যেমন করেছিল, তার প্রতি এ হুমকি। তাবারী দুটো দিকই সামনে রাখেন। তিনি বলেন, জাতিগুলো মিথ্যা দিয়ে তাদের রসূলদের সঙ্গে বিতর্ক করেছিল, ঠিক যেমন হে মুহাম্মাদ, তোমার জাতির কাফিররা মিথ্যা দিয়ে তোমার সঙ্গে বিতর্ক করছে। তালিকাটা কেন নূহ (আঃ) দিয়ে শুরু, ইবন কাসীর তাও বলেন। তিনিই প্রথম রসূল, যাঁকে আল্লাহ মূর্তিপূজা থেকে নিষেধ করতে পাঠিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nations Banded Into Factions",
+          "bn": "দল বেঁধে দাঁড়ানো জাতিগুলো"
+        },
+        "p": [
+          {
+            "en": "Wal-ahzabu min ba'dihim: and the factions after them. Qatada, in at-Tabari's report, glosses al-ahzab in a word: the disbelievers. Al-Qurtubi and al-Baghawi explain the name. These were the nations, or the disbelievers, who formed into parties, tahazzabu, against their prophets with denial, after the people of Nuh. Al-Qurtubi gives 'Ad and Thamud as examples, and those after them. Al-Muyassar names 'Ad and Thamud too, as nations that declared war on the messengers. Ibn Kathir keeps the scope wide: the factions came from every nation.",
+            "bn": "ওয়াল আহযাবু মিন বা'দিহিম: আর তাদের পরে দলগুলো। তাবারীর বর্ণনায় কাতাদা আহযাবের ব্যাখ্যা দেন এক শব্দে: কাফিররা। নামটা কেন, কুরতুবী আর বাগাভী তা খুলে বলেন। এরা সেই জাতি বা সেই কাফির, যারা নূহের জাতির পরে অস্বীকারের পতাকা তুলে নিজেদের নবীদের বিরুদ্ধে দল বেঁধেছিল, তাহায্যাবূ। কুরতুবী উদাহরণ দেন আদ ও সামূদের, তারপর তাদের পরের লোকদের। মুয়াসসারও আদ ও সামূদের নাম নেয়, এমন জাতি হিসেবে যারা রসূলদের বিরুদ্ধে যুদ্ধ ঘোষণা করেছিল। ইবন কাসীর পরিধিটা খোলা রাখেন: দলগুলো এসেছে প্রত্যেক জাতি থেকে।"
+          },
+          {
+            "en": "As-Sa'di explains the word through what the factions did. They banded and gathered against the truth to nullify it, and behind falsehood to support it. A hizb in this sense is more than a crowd; it is a crowd organised around a cause, and as-Sa'di names the cause from both ends, the truth they massed against and the falsehood they massed behind. Al-Muyassar adds the means: they resolved to harm the messengers and gathered against them, with torment or with killing.",
+            "bn": "দলগুলো কী করেছিল, তা দিয়েই সা'দী শব্দটার অর্থ বোঝান। তারা জোট বেঁধে জড়ো হয়েছিল সত্যের বিরুদ্ধে, তাকে বাতিল করতে। আর জড়ো হয়েছিল মিথ্যার পক্ষে, তাকে জেতাতে। এ অর্থে হিযব নিছক ভিড় নয়। এ এমন ভিড়, যা একটা উদ্দেশ্যকে ঘিরে সংগঠিত। সা'দী সেই উদ্দেশ্যের দুই মাথাই দেখান: যে সত্যের বিরুদ্ধে তারা জমায়েত হয়েছিল, আর যে মিথ্যার পেছনে। মুয়াসসার উপায়গুলোও জুড়ে দেয়। তারা রসূলদের কষ্ট দেওয়ার সংকল্প করেছিল, নির্যাতন বা হত্যার জন্য তাঁদের বিরুদ্ধে একজোট হয়েছিল।"
+          },
+          {
+            "en": "The surah comes back to the word. In 40:30 the believer of Fir'awn's family warns of a day like the day of the ahzab, and 40:31 spells it out as the way of the people of Nuh, 'Ad, Thamud and those after them, the same sequence as here. Surah Sad lists such nations by name and says in 38:13: those are the ahzab. In the Qur'an's own usage, the factions are named nations of the past.",
+            "bn": "সূরাটি পরে আবার এ শব্দে ফিরে আসে। ৪০:৩০ আয়াতে ফিরআউনের পরিবারের মুমিন লোকটি আহযাবের দিনের মতো এক দিনের ভয় দেখান। ৪০:৩১ আয়াত তা খুলে বলে: নূহের জাতি, আদ, সামূদ আর তাদের পরের লোকদের মতো পরিণতি। ক্রমটা এখানকার মতোই। সূরা সোয়াদ এমন জাতিগুলোর নাম গুনিয়ে ৩৮:১৩ আয়াতে বলে: এরাই সেই আহযাব। কুরআনের নিজের ব্যবহারে এই দলগুলো অতীতের নাম-জানা জাতি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Set on Seizing the Messenger",
+          "bn": "রসূলকে ধরার মতলব"
+        },
+        "p": [
+          {
+            "en": "Wa-hammat kullu ummatin bi-rasulihim li-ya'khudhuhu: and every nation set its mind on its messenger, to seize him. At-Tabari explains: each of these denying nations resolved against the messenger sent to it, to seize him and kill him; Qatada, in his report, says simply to kill him. Al-Qurtubi first glosses it as to imprison and torment him, then gives Qatada and as-Suddi: to kill him. Al-Baghawi relays from Ibn 'Abbas, to kill and destroy him, and adds another view, to take him captive.",
+            "bn": "ওয়া হাম্মাত কুল্লু উম্মাতিম বিরাসূলিহিম লিয়া'খুযূহু: আর প্রত্যেক জাতি নিজের রসূলকে পাকড়াও করার মতলব এঁটেছিল। তাবারী ব্যাখ্যা করেন, অস্বীকারকারী এই জাতিগুলোর প্রত্যেকে নিজের কাছে পাঠানো রসূলকে ধরে হত্যা করার সংকল্প করেছিল। তাঁর উদ্ধৃত বর্ণনায় কাতাদা সোজা বলেন: হত্যা করার জন্য। কুরতুবী প্রথমে অর্থ করেন বন্দি করে নির্যাতন করা, তারপর কাতাদা ও সুদ্দীর মত আনেন: হত্যা করা। বাগাভী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, হত্যা করে ধ্বংস করে দেওয়া। সঙ্গে আরেকটি মতও আনেন: বন্দি করা।"
+          },
+          {
+            "en": "The captive reading rests on usage: al-Qurtubi and al-Baghawi both note that the Arabs call a captive akhidh, literally taken, and al-Qurtubi adds that he is held for killing. As-Sa'di draws out the weight of the gloss 'to kill'. These messengers were the leaders of the people of good, carrying pure truth with no doubt in it, and their nations meant to kill them. After such transgression, he asks, what could follow but a great punishment? Ibn Kathir adds that some of them did kill their messenger.",
+            "bn": "বন্দি করার অর্থটা দাঁড়িয়ে আছে ভাষার ব্যবহারের উপর। কুরতুবী ও বাগাভী দুজনেই বলেন, আরবরা বন্দিকে বলে আখীয, অর্থাৎ ধরে নেওয়া মানুষ। কুরতুবী যোগ করেন, তাকে আটকে রাখা হয় হত্যার জন্য। 'হত্যা করা' অর্থের ভার সা'দী স্পষ্ট করে দেন। এই রসূলগণ ছিলেন কল্যাণের পথের মানুষদের নেতা। তাঁদের সঙ্গে ছিল সন্দেহহীন খাঁটি সত্য। আর তাঁদের জাতি তাঁদের হত্যা করতে চেয়েছিল। তিনি প্রশ্ন রাখেন, এমন সীমালঙ্ঘনের পর মহা শাস্তি ছাড়া আর কী আসতে পারে? ইবন কাসীর যোগ করেন: তাদের কেউ কেউ সত্যিই নিজেদের রসূলকে হত্যা করেছিল।"
+          },
+          {
+            "en": "At-Tabari pauses on a pronoun. The verse says kullu ummatin, every nation, in the singular, then bi-rasulihim, their messenger, with a plural pronoun. He explains that the pronoun points to the people within the nation rather than to the word umma, and reports that the reading of 'Abd Allah is said to have bi-rasuliha, its messenger, matching the noun. Al-Qurtubi records a different question, over when they meant to seize their messenger. He gives two views: when the messenger called them, or when the punishment came down on them.",
+            "bn": "তাবারী একটি সর্বনামে এসে থামেন। আয়াতে আছে কুল্লু উম্মাতিন, প্রত্যেক জাতি, একবচনে। তারপর বিরাসূলিহিম, তাদের রসূল, সর্বনামটা বহুবচন। তাঁর ব্যাখ্যা, সর্বনামটা উম্মাহ শব্দের দিকে নয়, জাতির ভেতরের মানুষগুলোর দিকে ফিরেছে। তিনি এও জানান, আবদুল্লাহর কিরাআতে বিরাসূলিহা, তার রসূল, আছে বলে উল্লেখ পাওয়া যায়, যা বিশেষ্যের সঙ্গে মেলে। কুরতুবী অন্য এক প্রশ্নে দুটি মত লিখে রাখেন: তারা কখন রসূলকে ধরতে চেয়েছিল? একটি মত, রসূল যখন তাদের দাওয়াত দিচ্ছিলেন। অন্যটি, যখন তাদের উপর শাস্তি নেমে আসছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Arguing So Truth Would Slip",
+          "bn": "সত্যকে পিছলে ফেলার তর্ক"
+        },
+        "p": [
+          {
+            "en": "Wa-jadalu bil-batili li-yudhidu bihi al-haqq: and they disputed with falsehood, to refute the truth by it. Al-Qurtubi glosses yudhidu as to remove, and traces it to a concrete picture: a makan dahd is a slippery place, where a foot cannot hold. Then he turns the picture round. It is falsehood that is dahid, he says, because it slides and slips and does not settle. The disputers tried to knock the truth off its footing, yet the word fits their own position best.",
+            "bn": "ওয়া জাদালূ বিলবাতিলি লিয়ুদহিদূ বিহিল হাক্ক: আর তারা মিথ্যা দিয়ে বিতর্ক করেছিল, তা দিয়ে সত্যকে খণ্ডন করার জন্য। কুরতুবী ইউদহিদূর অর্থ করেন সরিয়ে দেওয়া, আর শব্দটার উৎস খুঁজে পান একটা চোখে দেখা ছবিতে। মাকান দাহদ মানে পিচ্ছিল জায়গা, যেখানে পা টেকে না। তারপর তিনি ছবিটা উল্টে দেন। আসলে মিথ্যাই দাহিদ, কারণ তা পিছলে যায়, গড়িয়ে পড়ে, কোথাও স্থির থাকে না। বিতর্ককারীরা সত্যের পায়ের নিচের মাটি সরিয়ে দিতে চেয়েছিল, অথচ শব্দটা সবচেয়ে বেশি খাটে তাদের নিজেদের অবস্থানের উপরেই।"
+          },
+          {
+            "en": "At-Tabari spells out what was at stake. They contended with their messenger by false contention, to cancel through their argument the truth he brought them from Allah: entering into His obedience, affirming His oneness, and disowning the worship of anything besides Him. Yahya ibn Sallam, as al-Qurtubi reports him, says they disputed the prophets with shirk in order to nullify faith. Ibn Kathir's word for their method is shubha: they wrangled with specious doubts to turn back a truth that was plain and clear.",
+            "bn": "ঝুঁকিতে আসলে কী ছিল, তাবারী তা খুলে বলেন। তারা অসার যুক্তি দিয়ে রসূলের সঙ্গে ঝগড়া করেছিল, যাতে আল্লাহর কাছ থেকে তিনি যে হক এনেছেন, তর্কের জোরে তা বাতিল করে দেওয়া যায়। সেই হক হলো আল্লাহর আনুগত্যে প্রবেশ, তাঁর একত্বের স্বীকৃতি, আর তিনি ছাড়া অন্য সবকিছুর ইবাদত থেকে সম্পর্কচ্ছেদ। কুরতুবীর বর্ণনায় ইয়াহইয়া ইবন সাল্লাম বলেন, তারা শিরক দিয়ে নবীদের সঙ্গে বিতর্ক করেছিল, ঈমানকে বাতিল করার জন্য। ইবন কাসীর তাদের কৌশলকে বলেন শুবহা। তারা ধোঁয়াশা ছড়ানো সন্দেহ দিয়ে লড়েছিল, যাতে স্পষ্ট ও উজ্জ্বল সত্যকে ফিরিয়ে দেওয়া যায়।"
+          },
+          {
+            "en": "Al-Baghawi gives the dispute its actual words, taken from elsewhere in the Qur'an. Their arguing, he says, was like their saying you are nothing but human beings like us, in 14:10, and why were the angels not sent down to us, in 25:21. Neither line engages the message. The first turns attention to the messenger; the second sets the terms on which the doubter would agree to listen. That, on al-Baghawi's examples, is what arguing with falsehood looks like: the point at issue is never met.",
+            "bn": "বাগাভী বিতর্কটাকে তার আসল ভাষা দেন, কুরআনেরই অন্য জায়গা থেকে। তিনি বলেন, তাদের বিতর্ক ছিল এমন কথার মতো: তোমরা তো আমাদের মতোই মানুষ ছাড়া কিছু নও (১৪:১০), কিংবা আমাদের কাছে ফেরেশতা কেন পাঠানো হলো না (২৫:২১)। কোনো কথাই বার্তাটার মুখোমুখি হয় না। প্রথমটা দৃষ্টি সরিয়ে নেয় রসূলের ব্যক্তিত্বের দিকে। দ্বিতীয়টা শর্ত বেঁধে দেয়, কোন শর্তে সন্দেহকারী শুনতে রাজি হবে। বাগাভীর উদাহরণ ধরে বললে, মিথ্যা দিয়ে বিতর্কের চেহারা এমনই: আসল প্রশ্নের জবাব কখনো দেওয়া হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honest Questions Are Not Jidal",
+          "bn": "সৎ প্রশ্ন জিদাল নয়"
+        },
+        "p": [
+          {
+            "en": "The word jidal can trouble a careful reader, since asking hard questions of scripture is part of studying it. Ma'arif al-Qur'an, commenting on 40:4 in the passage it groups with this verse, draws the line. The disputing the Qur'an condemns, it says, means throwing taunts, making sarcastic remarks, raising quarrels over invented and absurd doubts, or giving a verse a meaning that runs against other verses and the binding texts of the Sunnah. An honest enquiry into what is unclear is not included; in its place, it earns reward.",
+            "bn": "জিদাল শব্দটা মনোযোগী পাঠককে খটকায় ফেলতে পারে, কারণ কঠিন প্রশ্ন করা তো কুরআন অধ্যয়নেরই অংশ। মাআরিফুল কুরআন এ আয়াতের সঙ্গে ৪০:৪ একসঙ্গে আলোচনা করে, আর সেখানেই সীমারেখাটা টেনে দেয়। তার মতে কুরআন যে বিতর্কের নিন্দা করে, তা হলো খোঁচা দেওয়া, বিদ্রূপ করা, মনগড়া অবান্তর সন্দেহ নিয়ে ঝগড়া বাধানো। কিংবা কোনো আয়াতের এমন অর্থ করা, যা অন্য আয়াত আর সুন্নাহর অবশ্যপালনীয় দলিলের বিপরীতে যায়। অস্পষ্ট কিছু নিয়ে সৎভাবে জানতে চাওয়া এর মধ্যে পড়ে না। নিজের জায়গায় সেটা বরং সওয়াবের কাজ।"
+          },
+          {
+            "en": "In the same place, Ma'arif al-Qur'an cites a narration that Muslim records. 'Abd Allah ibn 'Amr said that he came to the Messenger of Allah ﷺ one day, and the Prophet heard the voices of two men who differed over a verse. He came out to them, anger showing on his face, and said: those before you perished only because of their differing over the Book (Muslim 2666). It is in Sahih Muslim; it is cited under 40:4, and none of the commentators consulted attaches it to this verse.",
+            "bn": "একই জায়গায় মাআরিফুল কুরআন একটি বর্ণনা উদ্ধৃত করে, যা মুসলিম সংকলন করেছেন। আবদুল্লাহ ইবন আমর (রাঃ) বলেন, একদিন তিনি আল্লাহর রসূল ﷺ-এর কাছে গেলেন। নবী ﷺ দুজন লোকের গলা শুনলেন, যারা একটি আয়াত নিয়ে মতভেদ করছিল। তিনি বেরিয়ে এলেন, চেহারায় রাগের ছাপ, আর বললেন: তোমাদের আগের লোকেরা ধ্বংস হয়েছে কেবল কিতাব নিয়ে তাদের মতভেদের কারণে (মুসলিম ২৬৬৬)। হাদীসটি সহীহ মুসলিমের। তবে এটি উদ্ধৃত হয়েছে ৪০:৪-এর আলোচনায়, আর সংগৃহীত তাফসীরকারদের কেউ একে এ আয়াতের সঙ্গে যুক্ত করেননি।"
+          },
+          {
+            "en": "Ibn Kathir, on this verse itself, relays through at-Tabarani a narration attributed to the Prophet ﷺ about supporting falsehood to refute a truth. He gives it no grading, and it is not confirmed here in a canonical collection, so it is only mentioned. No sound hadith attached to 40:5 was found in the commentaries consulted, and none is needed for the verse's own warning to stand.",
+            "bn": "ইবন কাসীর এ আয়াতের আলোচনাতেই তাবারানীর সূত্রে নবী ﷺ-এর নামে একটি বর্ণনা আনেন, যার বিষয় সত্যকে খণ্ডন করতে মিথ্যাকে সহায়তা করা। তিনি এর কোনো মান উল্লেখ করেননি, আর কোনো প্রামাণ্য হাদীসগ্রন্থে এখানে তা যাচাই করা যায়নি। তাই শুধু উল্লেখ করা হলো। সংগৃহীত তাফসীরগুলোতে ৪০:৫-এর সঙ্গে যুক্ত কোনো সহীহ হাদীস পাওয়া যায়নি। আয়াতের নিজের সতর্কবাণী দাঁড়িয়ে থাকার জন্য তার প্রয়োজনও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Would-Be Seizers, Seized",
+          "bn": "যারা ধরতে চেয়েছিল, তারাই ধরা পড়ল"
+        },
+        "p": [
+          {
+            "en": "Then the verse turns on its verb. They set out li-ya'khudhuhu, to seize him, and the answer comes in the same root: fa-akhadhtuhum, so I seized them. At-Tabari draws the line between the clauses himself. I seized, he paraphrases, those who had set their minds on their messenger to seize him, with punishment from Me. The plot named in one clause meets its answer a few words later, and the subject changes from they to I. The seizers become the seized.",
+            "bn": "এরপর আয়াতটি তার ক্রিয়াপদেই মোড় নেয়। তারা নেমেছিল লিয়া'খুযূহু, তাঁকে ধরার জন্য। জবাব আসে একই ধাতু থেকে: ফাআখাযতুহুম, ফলে আমি তাদের ধরলাম। দুই অংশের মধ্যে সংযোগটা তাবারী নিজেই টেনে দেন। তাঁর ভাষ্যে: যারা নিজেদের রসূলকে ধরার মতলব এঁটেছিল, আমি আমার পক্ষ থেকে শাস্তি দিয়ে তাদেরই ধরলাম। একটি অংশে যে চক্রান্তের কথা, কয়েক শব্দ পরেই তার জবাব। কর্তা বদলে যায়, 'তারা' থেকে 'আমি'। যারা ধরতে চেয়েছিল, তারাই ধরা পড়ে।"
+          },
+          {
+            "en": "Al-Qurtubi notes that akhdh can mean destruction, citing as a parallel the words then I seized them, and how was My reproach, found in 22:44. Ibn Kathir glosses it the same way: I destroyed them for their sins and grave offences. As-Sa'di says they were seized for their denial and their banding together, and lists the forms it took: a shout, a storm of stones, the earth commanded to take them, or the sea to drown them, and then they were extinguished.",
+            "bn": "কুরতুবী বলেন, আখয শব্দের অর্থ ধ্বংস করাও হতে পারে। সমান্তরাল উদাহরণ হিসেবে তিনি আনেন ২২:৪৪ আয়াতের কথা: তারপর আমি তাদের পাকড়াও করলাম, দেখো কেমন ছিল আমার প্রত্যাখ্যান। ইবন কাসীরের ব্যাখ্যাও একই: তাদের গুনাহ আর গুরুতর অপরাধের জন্য আমি তাদের ধ্বংস করলাম। সা'দী বলেন, অস্বীকার আর দল বাঁধার কারণে তাদের ধরা হয়েছিল। পাকড়াওয়ের রূপগুলোও তিনি গুনিয়ে দেন: বিকট আওয়াজ, পাথরের ঝড়, মাটিকে হুকুম যে তাদের গিলে ফেলো, কিংবা সাগরকে হুকুম যে ডুবিয়ে দাও। তারপর তারা নিভে গেল।"
+          },
+          {
+            "en": "At-Tabari pictures what remained. Did I not destroy them, he paraphrases, and make them a lesson for creation and an admonition for those after them, and leave their homes and dwellings empty of them, a resting place for wild animals? The surah itself invites that look. In 40:21 and 40:82 it asks whether they have not travelled through the land and seen how those before them ended, though those were greater in strength. The free movement through the land that 40:4 warned about becomes, here, a reason to look.",
+            "bn": "যা পড়ে রইল, তাবারী তার ছবি আঁকেন। তাঁর ভাষ্যে প্রশ্নটা এমন: আমি কি তাদের ধ্বংস করে সৃষ্টির জন্য শিক্ষা আর পরবর্তীদের জন্য উপদেশ বানিয়ে দিইনি? তাদের ঘরবাড়ি কি জনশূন্য করে বুনো জন্তুর আস্তানা বানিয়ে দিইনি? সূরাটি নিজেই সেদিকে তাকাতে বলে। ৪০:২১ ও ৪০:৮২ আয়াতে প্রশ্ন আছে, তারা কি দেশে ঘুরে দেখেনি, তাদের আগের লোকদের পরিণতি কী হয়েছিল, অথচ তারা ছিল শক্তিতে আরও বড়। ৪০:৪ আয়াতে দেশে দেশে যে চলাফেরার কথা ছিল সতর্কবাণী হিসেবে, এখানে তা-ই হয়ে ওঠে চোখ মেলে দেখার উপলক্ষ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Was My Penalty?",
+          "bn": "কেমন ছিল আমার শাস্তি?"
+        },
+        "p": [
+          {
+            "en": "Fa-kayfa kana 'iqab: and how was My penalty! The verse ends on a question and leaves the hearer to answer it. Ibn Kathir answers: how did My punishment of them and the example I made of them reach you? It was severe, grievous and painful. Qatada's answer, reported by both at-Tabari and Ibn Kathir, is an oath: by Allah, it was severe. Al-Qurtubi hears the question differently. For him it asks about the outcome of the denying nations, and its force is: did they not find it true?",
+            "bn": "ফাকাইফা কানা ইকাব: দেখো, কেমন ছিল আমার শাস্তি! আয়াতটি শেষ হয় একটি প্রশ্নে, জবাবটা শ্রোতার উপর ছেড়ে দিয়ে। ইবন কাসীর জবাব দেন: তাদের উপর আমার শাস্তি আর তাদের যে দৃষ্টান্ত বানিয়েছি, তার খবর তোমার কাছে কেমন পৌঁছেছে? তা ছিল কঠোর, কষ্টদায়ক, যন্ত্রণাদায়ক। তাবারী ও ইবন কাসীর দুজনেই কাতাদার জবাব আনেন, আর সেটা একটা কসম: আল্লাহর কসম, তা ছিল কঠোর। কুরতুবী প্রশ্নটা শোনেন অন্যভাবে। তাঁর মতে এটা অস্বীকারকারী জাতিগুলোর পরিণাম নিয়ে প্রশ্ন, আর এর মর্ম হলো: তারা কি তা সত্য বলে পায়নি?"
+          },
+          {
+            "en": "Ibn Kathir and Qatada stress the severity; al-Qurtubi stresses a warning that was doubted and then came true. The next verse carries the thought forward: in 40:6 the word of your Lord came into effect upon those who disbelieved, that they are the companions of the Fire. Ibn Kathir, in the English abridgement, reads it as a comparison: as with the past nations, so with those who rejected the Prophet ﷺ. As-Sa'di reads the seizing as both worldly and next-worldly.",
+            "bn": "ইবন কাসীর আর কাতাদা জোর দেন কঠোরতার উপর। কুরতুবী জোর দেন এমন সতর্কবাণীর উপর, যাকে সন্দেহ করা হয়েছিল, অথচ যা পরে সত্য হয়ে দেখা দিয়েছে। পরের আয়াত চিন্তাটাকে এগিয়ে নেয়। ৪০:৬ বলে, এভাবেই কাফিরদের ব্যাপারে তোমার রবের বাণী সত্য হলো যে, তারা জাহান্নামের অধিবাসী। ইবন কাসীরের ইংরেজি সংক্ষেপণ একে তুলনা হিসেবে পড়ে: অতীতের জাতিগুলোর বেলায় যেমন, নবী ﷺ-কে যারা প্রত্যাখ্যান করেছিল তাদের বেলায়ও তেমন। সা'দী পাকড়াওকে পড়েন দুনিয়া ও আখিরাত দুই জায়গার শাস্তি হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Verdict on Today's Disasters",
+          "bn": "আজকের দুর্যোগের উপর রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes the people of Nuh and the factions after them, nations that denied their messengers, plotted against them and argued to overturn what they brought, as the Qur'an describes them. It licenses nothing against any living person or community. Nor does it give anyone the right to point at a flood, an earthquake or any present-day disaster and call it the punishment of a particular people. The commentators consulted speak of named past nations seized after their messengers had warned them; none extends the verse to calamities of later times.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নূহের জাতি আর তাদের পরের দলগুলোর বর্ণনা দেয়, যারা রসূলদের অস্বীকার করেছিল, তাঁদের বিরুদ্ধে চক্রান্ত করেছিল আর তাঁদের আনা বার্তা উল্টে দিতে তর্ক করেছিল। বর্ণনা ততটুকুই, যতটুকু কুরআনে আছে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কোনো বন্যা, ভূমিকম্প বা আজকের কোনো দুর্যোগের দিকে আঙুল তুলে সেটাকে নির্দিষ্ট কোনো জাতির শাস্তি বলার অধিকারও কাউকে দেয় না। সংগৃহীত তাফসীরকারেরা কথা বলেন নাম-জানা অতীত জাতিগুলো নিয়ে, যাদের রসূলগণ আগেই সতর্ক করেছিলেন। তাঁদের কেউ আয়াতটিকে পরের যুগের বিপদের উপর টেনে আনেননি।"
+          },
+          {
+            "en": "What the verse does leave the reader is a mirror. The danger it describes is not a hard question but an argument built to make the truth lose its footing. A believer can repeat that method in small ways: answering a reminder by attacking the one who gives it, or setting conditions before agreeing to listen. Ma'arif al-Qur'an's distinction gives a working test for any dispute about the faith. Is this question being asked in order to understand, or in order to win?",
+            "bn": "আয়াতটি পাঠকের হাতে যা রেখে যায়, তা একটা আয়না। এখানে যে বিপদের কথা, তা কঠিন প্রশ্ন নয়। বিপদ হলো এমন যুক্তি, যা বানানো হয় সত্যের পায়ের নিচের মাটি সরাতে। একজন মুমিনও ছোট ছোট উপায়ে সেই পদ্ধতি দোহরাতে পারে। কেউ উপদেশ দিলে উপদেশ ছেড়ে তার উপর আক্রমণ করা, কিংবা শোনার আগেই শর্ত জুড়ে দেওয়া। দ্বীন নিয়ে যেকোনো বিতর্কে মাআরিফুল কুরআনের পার্থক্যটা কাজের একটা মাপকাঠি দেয়। এ প্রশ্ন কি বোঝার জন্য করা হচ্ছে, নাকি জেতার জন্য?"
+          }
+        ]
+      }
+    ]
+  },
   "40:8": {
     "sections": [
       {
