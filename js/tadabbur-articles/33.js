@@ -1787,6 +1787,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "33:33": {
+    "sections": [
+      {
+        "h": {
+          "en": "Settle, or Be Still",
+          "bn": "স্থির থাকা, নাকি শান্ত থাকা"
+        },
+        "p": [
+          {
+            "en": "Wa-qarna fi buyutikunna: and settle in your houses. The verse carries on the address begun in 33:32, still spoken to the wives of the Prophet ﷺ, and its very first word has two readings. Al-Baghawi and al-Qurtubi report that the people of Madinah and Asim read wa-qarna, with a after the qaf, as the text above does, while most others read wa-qirna. Read with a, al-Baghawi explains, the word comes from qarar, staying in a place: keep to your houses. Read with i, it may come from the same root, or from waqar, dignity and calm.",
+            "bn": "ওয়া কারনা ফী বুয়ূতিকুন্না: আর নিজেদের ঘরে স্থির থাকো। ৩৩:৩২ আয়াতে যে সম্বোধন শুরু হয়েছিল, এ আয়াত তারই ধারাবাহিকতা। কথা এখনো নবী ﷺ-এর স্ত্রীগণের সঙ্গে। আর প্রথম শব্দটিরই দুই রকম কিরাআত আছে। বাগাভী ও কুরতুবী জানান, মদীনার কারীগণ ও আসিম পড়েছেন ওয়া কারনা, কাফে যবর দিয়ে। উপরের পাঠও তা-ই। অন্য বেশিরভাগ কারী পড়েছেন ওয়া কিরনা, যের দিয়ে। বাগাভী বুঝিয়ে বলেন, যবরের পাঠে শব্দটি এসেছে কারার থেকে, মানে এক জায়গায় থেকে যাওয়া: ঘরেই থাকো। যেরের পাঠে শব্দটি একই মূল থেকেও আসতে পারে, আবার ওয়াকার থেকেও, যার অর্থ গাম্ভীর্য ও প্রশান্তি।"
+          },
+          {
+            "en": "At-Tabari prefers wa-qirna and takes it from waqar: be people of dignity and calm in your houses. Al-Baghawi likewise calls the waqar derivation of that reading the more correct. Al-Qurtubi lays out both derivations with the grammarians' arguments, and adds that once a reading is established from the Prophet ﷺ, it is itself proof of sound Arabic, whatever a grammarian objects. Al-Muyassar gives the plain sense: keep to your houses and do not go out of them except for a need. As-Sa'di gives the reason: it is safer for you and guards you better.",
+            "bn": "তাবারী যেরের পাঠকেই অগ্রাধিকার দেন এবং একে ওয়াকার থেকে নেন: নিজেদের ঘরে গাম্ভীর্য আর প্রশান্তি নিয়ে থাকো। বাগাভীও বলেন, এ পাঠে ওয়াকার থেকে আসার ব্যাখ্যাটাই বেশি সঠিক। কুরতুবী ব্যাকরণবিদদের যুক্তিসহ দুটি ব্যাখ্যাই তুলে ধরেন। সঙ্গে যোগ করেন, কোনো কিরাআত নবী ﷺ থেকে প্রমাণিত হলে সেটাই আরবি ভাষার শুদ্ধতার দলিল, কোনো ব্যাকরণবিদ আপত্তি তুললেও। মুয়াসসার সাদামাটা অর্থটা দেয়: নিজেদের ঘরে থাকো, প্রয়োজন ছাড়া বের হয়ো না। সা'দী কারণটা বলেন: এতে তোমাদের নিরাপত্তা বেশি, সুরক্ষাও বেশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Showing What Is Better Hidden",
+          "bn": "যা ঢেকে রাখাই শোভন"
+        },
+        "p": [
+          {
+            "en": "Wa-la tabarrajna: and do not display yourselves. The commentators define the display in several ways. Mujahid, in Ibn Kathir, says a woman would go out and walk about in front of men, and that was the display of the jahiliyyah. Qatadah, in at-Tabari, describes a swaying, coquettish gait when they left their houses, which Allah forbade. Ibn Abi Najih calls it strutting. Others, as at-Tabari and al-Baghawi report, make it the showing of adornment, a woman bringing her charms out before men.",
+            "bn": "ওয়া লা তাবাররাজনা: আর নিজেদের প্রদর্শন করে বেড়িও না। এ প্রদর্শনের ব্যাখ্যা তাফসীরকারেরা কয়েকভাবে দিয়েছেন। ইবন কাসীরে মুজাহিদ বলেন, নারীরা বেরিয়ে পুরুষদের সামনে দিয়ে হেঁটে বেড়াত, সেটাই ছিল জাহিলিয়াতের প্রদর্শন। তাবারীতে কাতাদা বলেন, ঘর থেকে বের হলে তাদের হাঁটায় থাকত দোলানো আর ছলাকলা, আল্লাহ তা নিষেধ করেছেন। ইবন আবী নাজীহ একে বলেন দম্ভভরে চলা। তাবারী ও বাগাভী আরেকটি মতও আনেন: সাজসজ্জা প্রকাশ করা, পুরুষদের সামনে নিজের সৌন্দর্য মেলে ধরা।"
+          },
+          {
+            "en": "Muqatil ibn Hayyan, in Ibn Kathir, is concrete: a woman would throw her head-covering over her head without fastening it, so that her necklaces, earrings and neck all showed. Al-Qurtubi gives the root sense: tabarruj is showing what is better kept covered, from a word for wideness, as al-Mubarrad says of teeth set wide apart. As-Sa'di reads it as going out often, adorned or perfumed, in the way of those who had neither knowledge nor religion, and he calls the whole instruction a warding off of harm and of the causes that lead to it.",
+            "bn": "ইবন কাসীরে মুকাতিল ইবন হাইয়ান বিষয়টা স্পষ্ট করে বলেন: নারী মাথায় ওড়না ফেলে রাখত, কিন্তু বাঁধত না। ফলে তার গলার হার, কানের দুল আর গলা সবই দেখা যেত। কুরতুবী শব্দের মূল অর্থটা বলেন: তাবাররুজ মানে যা ঢেকে রাখাই সুন্দর, তা প্রকাশ করা। শব্দটা এসেছে প্রশস্ততা অর্থ থেকে, যেমন মুবাররাদ ফাঁক ফাঁক দাঁতের বেলায় এ শব্দ ব্যবহারের কথা বলেন। সা'দীর পাঠে এর মানে সেজেগুজে বা সুগন্ধি মেখে ঘন ঘন বাইরে যাওয়া, সেই লোকদের ধরনে, যাদের না ছিল জ্ঞান, না দ্বীন। তাঁর মতে পুরো নির্দেশটাই অনিষ্ট আর অনিষ্টের পথ ঠেকানোর ব্যবস্থা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Ignorance Came First",
+          "bn": "প্রথম জাহিলিয়াত কোনটি"
+        },
+        "p": [
+          {
+            "en": "Tabarruj al-jahiliyyah al-ula: the display of the first ignorance. Which age is meant? At-Tabari records that ash-Sha'bi said the period between Isa (AS) and Muhammad ﷺ; that al-Hakam said between Adam and Nuh (AS), 800 years; and a report from Ikrimah from Ibn Abbas placing it between Nuh and Idris (AS), a thousand years, with a long story of two clans and a festival. Al-Baghawi adds Abu l-Aliyah's view, the time of Dawud and Sulayman (AS), and Qatadah's: simply what came before Islam.",
+            "bn": "তাবাররুজাল জাহিলিয়্যাতিল উলা: প্রথম জাহিলিয়াতের প্রদর্শন। কোন যুগের কথা বলা হচ্ছে? তাবারী শা'বীর মত আনেন: ঈসা (আঃ) ও মুহাম্মাদ ﷺ-এর মাঝের সময়। হাকামের মত: আদম (আঃ) ও নূহ (আঃ)-এর মাঝের ৮০০ বছর। আর ইকরিমার সূত্রে ইবন আব্বাস (রাঃ)-এর এক বর্ণনা এ যুগকে রাখে নূহ (আঃ) ও ইদরীস (আঃ)-এর মাঝে, এক হাজার বছর। সঙ্গে আছে দুই গোত্র আর এক উৎসবের লম্বা কাহিনি। বাগাভী যোগ করেন আবুল আলিয়ার মত, দাউদ (আঃ) ও সুলাইমান (আঃ)-এর যুগ। আর কাতাদার মত: ইসলামের আগের সময়, এটুকুই।"
+          },
+          {
+            "en": "At-Tabari declines to fix the date. Each period is possible, he says, so the right course is to say what Allah said: He forbade the display of the first jahiliyyah. Asked whether Islam has a jahiliyyah, so that one could speak of a first, he answers that it still holds some of the jahiliyyah's habits. He also records Ibn Abbas answering Umar with a question: is there a first that has no last? Al-Baghawi notes the opposite reading, that first may be said where no second exists, as with Ad the first in 53:50.",
+            "bn": "তাবারী নির্দিষ্ট কোনো কাল বেঁধে দেন না। তাঁর মতে প্রতিটি সময়ই হতে পারে, তাই সঠিক পথ হলো আল্লাহ যা বলেছেন তা-ই বলা: তিনি প্রথম জাহিলিয়াতের প্রদর্শন নিষেধ করেছেন। কেউ যদি প্রশ্ন তোলে, ইসলামেও কি জাহিলিয়াত আছে যে একটিকে প্রথম বলা হবে? তাবারীর জবাব: ইসলামের ভেতরেও জাহিলিয়াতের কিছু স্বভাব রয়ে যায়। তিনি উমর (রাঃ)-কে দেওয়া ইবন আব্বাস (রাঃ)-এর জবাবও আনেন, যা ছিল এক পাল্টা প্রশ্ন: শেষ নেই এমন প্রথম কি কিছু আছে? বাগাভী উল্টো ব্যাখ্যাটাও জানান। দ্বিতীয় না থাকলেও প্রথম বলা যায়, যেমন ৫৩:৫০ আয়াতে প্রথম আদ জাতির কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Refraining to Doing",
+          "bn": "বর্জনের পর আমল"
+        },
+        "p": [
+          {
+            "en": "Wa-aqimna s-salata wa-atina z-zakata wa-ati'na Allaha wa-rasulah: and establish the prayer, give the zakah, and obey Allah and His Messenger. Ibn Kathir notes the order. He first forbade them what is evil, then commanded them what is good. Prayer, he says, is the worship of Allah alone with no partner, and zakah is kindness to His creatures; obedience to Allah and His Messenger then follows as the general after the specific. At-Tabari glosses the first two as the obligatory prayer and the zakah due on their own wealth.",
+            "bn": "ওয়া আকিমনাস সালাতা ওয়া আতীনায যাকাতা ওয়া আতি'নাল্লাহা ওয়া রাসূলাহ: আর নামায কায়েম করো, যাকাত দাও, আল্লাহ ও তাঁর রাসূলের আনুগত্য করো। ইবন কাসীর ক্রমটা খেয়াল করেন। আল্লাহ আগে তাঁদের মন্দ থেকে নিষেধ করেছেন, তারপর ভালোর আদেশ দিয়েছেন। তাঁর ভাষায়, নামায হলো শরীকহীন এক আল্লাহর ইবাদত, আর যাকাত হলো সৃষ্টির প্রতি সদাচরণ। তারপর আসে আল্লাহ ও রাসূলের আনুগত্য, নির্দিষ্টের পর সাধারণ। তাবারী প্রথম দুটির ব্যাখ্যা দেন ফরয নামায আর তাঁদের নিজেদের সম্পদের ওপর ওয়াজিব যাকাত হিসেবে।"
+          },
+          {
+            "en": "As-Sa'di explains why these two are named out of all the acts of obedience. Every person needs them and is bound to them, and they are the greatest acts of worship and the most exalted. In prayer lies sincerity towards Him who is worshipped; in zakah, kindness towards His servants. Then comes obedience in general, which, he says, takes in every command Allah and His Messenger have given, whether binding or recommended.",
+            "bn": "এত আনুগত্যের মধ্যে বিশেষ করে এ দুটির নাম কেন এল, সা'দী তা বুঝিয়ে দেন। প্রত্যেক মানুষের এ দুটির প্রয়োজন, কেউ এ থেকে মুক্ত নয়। এ দুটিই সবচেয়ে বড় ইবাদত, সবচেয়ে মহৎ আনুগত্য। নামাযে আছে যাঁর ইবাদত করা হয় তাঁর প্রতি ইখলাস, আর যাকাতে আছে তাঁর বান্দাদের প্রতি সদাচরণ। তারপর আসে সাধারণ আনুগত্য। সা'দী বলেন, আল্লাহ ও তাঁর রাসূলের প্রতিটি আদেশই এর মধ্যে পড়ে, তা ফরয হোক বা মুস্তাহাব।"
+          },
+          {
+            "en": "Who else does this bind? Ma'arif al-Qur'an holds that all of it, the instructions on speech and on staying at home included, applies to every Muslim woman, the wives being asked for greater care. Al-Muyassar calls it an address to believing women in every age. Al-Qurtubi says others enter it by its meaning, though the words are spoken to the wives, and that Allah addressed them so to honour them.",
+            "bn": "এ আদেশ আর কার জন্য? মাআরিফুল কুরআনের মতে কথা বলার ধরন আর ঘরে থাকার নির্দেশসহ সবই প্রত্যেক মুসলিম নারীর জন্য, তবে স্ত্রীগণের কাছে চাওয়া হয়েছে আরও বেশি যত্ন। মুয়াসসার বলে, এ সম্বোধন সব যুগের মু'মিন নারীদের প্রতি। কুরতুবীর মতে কথাগুলো স্ত্রীগণকে বলা হলেও অর্থের দিক থেকে অন্যরাও এতে শামিল। আর আল্লাহ তাঁদের এভাবে সম্বোধন করেছেন তাঁদের সম্মান দিতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cleansed Through the Commands",
+          "bn": "আদেশের পথেই পবিত্রতা"
+        },
+        "p": [
+          {
+            "en": "Innama yuridu Allahu li-yudhhiba 'ankumu r-rijsa ahla l-bayt: Allah only wishes to remove impurity from you, people of the House. What is the rijs? Al-Baghawi gathers the answers. Muqatil says the sin Allah had forbidden the women; Ibn Abbas, the work of Satan and whatever does not please Allah; Qatadah, evil; Mujahid, doubt. At-Tabari glosses it as evil and indecency, and records Ibn Zayd saying it means Satan here. Ma'arif al-Qur'an, citing al-Bahr al-Muhit, takes the word in its widest sense: whatever is held detestable.",
+            "bn": "ইন্নামা ইউরীদুল্লাহু লিইউযহিবা আনকুমুর রিজসা আহলাল বাইত: হে নবীর ঘরের মানুষেরা, আল্লাহ শুধু চান তোমাদের থেকে অপবিত্রতা দূর করতে। রিজস জিনিসটা কী? বাগাভী উত্তরগুলো একসঙ্গে করেছেন। মুকাতিলের মতে, যে গুনাহ থেকে আল্লাহ নারীদের নিষেধ করেছেন। ইবন আব্বাস (রাঃ)-এর মতে, শয়তানের কাজ আর যাতে আল্লাহর সন্তুষ্টি নেই। কাতাদার মতে মন্দ, আর মুজাহিদের মতে সংশয়। তাবারী এর ব্যাখ্যা দেন মন্দ আর অশ্লীলতা দিয়ে, আর ইবন যায়দের কথা আনেন যে এখানে রিজস মানে শয়তান। মাআরিফুল কুরআন আল-বাহরুল মুহীতের বরাতে শব্দটিকে নেয় সবচেয়ে বিস্তৃত অর্থে: যা কিছু ঘৃণ্য বলে গণ্য।"
+          },
+          {
+            "en": "As-Sa'di ties the purification to the commands just given. By commanding you what He commanded and forbidding you what He forbade, he says, Allah wishes to remove from you harm, evil and filth. So praise and thank your Lord for these commands, which are purely for your good: He did not mean them as hardship, but so that your souls grow pure, your character is cleansed, and your reward is made great. Al-Muyassar says the same in brief: Allah counselled you with this only to purify you.",
+            "bn": "সা'দী এ পবিত্রতাকে জুড়ে দেন ঠিক আগের আদেশগুলোর সঙ্গে। তাঁর ভাষায়, যা আদেশ করার তা আদেশ করে আর যা নিষেধ করার তা নিষেধ করে আল্লাহ তোমাদের থেকে কষ্ট, মন্দ আর নোংরামি দূর করতে চান। তাই এসব আদেশের জন্য তোমাদের রবের প্রশংসা করো, শুকরিয়া আদায় করো, কারণ এগুলো পুরোপুরি তোমাদেরই কল্যাণের জন্য। কষ্টে ফেলার জন্য তিনি এগুলো দেননি। দিয়েছেন যেন তোমাদের অন্তর পবিত্র হয়, চরিত্র পরিশুদ্ধ হয়, প্রতিদান বড় হয়। মুয়াসসারও সংক্ষেপে একই কথা বলে: আল্লাহ এ উপদেশ দিয়েছেন শুধু তোমাদের পবিত্র করতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the House Includes",
+          "bn": "এ ঘরের মানুষ কারা"
+        },
+        "p": [
+          {
+            "en": "Then comes the question the verse is best known for: who are ahl al-bayt here? The commentators give two answers and a third that joins them. The first is the Prophet's ﷺ wives alone. At-Tabari records that Ikrimah used to call out in the market that it was revealed about the wives of the Prophet ﷺ specifically, and Ibn Kathir adds his challenge to meet any who disagreed in mutual imprecation. Al-Baghawi gives the same from Ibn Abbas through Sa'id ibn Jubayr, who recited the next verse, 'remember what is recited in your houses', as proof.",
+            "bn": "এরপর সেই প্রশ্ন, যার জন্য আয়াতটি সবচেয়ে বেশি পরিচিত: এখানে আহলে বাইত কারা? তাফসীরকারেরা দুটি উত্তর দেন, আর তৃতীয় একটি মত দুটিকে মিলিয়ে নেয়। প্রথম মত, শুধু নবী ﷺ-এর স্ত্রীগণ। তাবারী জানান, ইকরিমা বাজারে ঘোষণা দিয়ে বেড়াতেন, আয়াতটি নাযিল হয়েছে বিশেষভাবে নবী ﷺ-এর স্ত্রীদের ব্যাপারে। ইবন কাসীর তাঁর এ চ্যালেঞ্জও আনেন: যে দ্বিমত করবে, তার সঙ্গে তিনি মুবাহালা করতে প্রস্তুত। বাগাভী একই মত আনেন সাঈদ ইবন জুবাইরের সূত্রে ইবন আব্বাস (রাঃ) থেকে। তিনি দলিল হিসেবে পরের আয়াতটি পড়েছিলেন: 'তোমাদের ঘরে যা তিলাওয়াত করা হয়, তা স্মরণ করো।'"
+          },
+          {
+            "en": "The second answer is Ali, Fatimah, al-Hasan and al-Husayn. At-Tabari opens his list with it, naming the Prophet ﷺ with them, and al-Baghawi attributes it to Abu Sa'id al-Khudri and a group of the Successors, among them Mujahid and Qatadah; al-Qurtubi names al-Kalbi. Their argument from the wording, as al-Qurtubi gives it, is the pronoun. The verse says 'ankum and yutahhirakum, in the masculine plural; had it been for the women alone, it would have said 'ankunna and yutahhirakunna, the feminine forms used in the verses around it.",
+            "bn": "দ্বিতীয় উত্তর, আলী (রাঃ), ফাতিমা (রাঃ), হাসান (রাঃ) ও হুসাইন (রাঃ)। তাবারী তাঁর তালিকা এ মত দিয়েই শুরু করেন, তাঁদের সঙ্গে নবী ﷺ-এর নামও রাখেন। বাগাভী মতটি আবু সাঈদ খুদরী (রাঃ) এবং মুজাহিদ ও কাতাদাসহ তাবেয়ীদের একটি দলের বলে উল্লেখ করেন। কুরতুবী নাম নেন কালবীর। শব্দের দিক থেকে তাঁদের যুক্তি, কুরতুবী যেভাবে তুলে ধরেন, সর্বনামে। আয়াতে আছে আনকুম ও ইউতাহহিরাকুম, পুংলিঙ্গ বহুবচনে। শুধু নারীদের জন্য হলে বলা হতো আনকুন্না ও ইউতাহহিরাকুন্না, আশপাশের আয়াতগুলোতে যেমন স্ত্রীলিঙ্গের রূপ এসেছে।"
+          },
+          {
+            "en": "The third answer includes both. Al-Qurtubi says the apparent sense is general, all the people of the House, the wives and others; the masculine came because the Prophet ﷺ, Ali, al-Hasan and al-Husayn were among them, and when men and women are addressed together the masculine prevails. He also answers the pronoun argument: the word ahl is itself masculine, as the angels' words to the wife of Ibrahim (AS) in 11:73, 'upon you, people of the House', show. Al-Muyassar names among the people of the House his wives and his offspring, and Ma'arif al-Qur'an likewise includes both.",
+            "bn": "তৃতীয় উত্তর দুই দলকেই শামিল করে। কুরতুবীর মতে আয়াতের বাহ্যিক অর্থ সাধারণ, ঘরের সব মানুষ, স্ত্রীগণ ও অন্যরা। পুংলিঙ্গ এসেছে কারণ নবী ﷺ, আলী (রাঃ), হাসান (রাঃ) ও হুসাইন (রাঃ) তাঁদের মধ্যে ছিলেন, আর নারী-পুরুষকে একসঙ্গে সম্বোধন করলে পুংলিঙ্গই প্রাধান্য পায়। সর্বনামের যুক্তিরও তিনি জবাব দেন। আহল শব্দটাই পুংলিঙ্গ, যেমন ১১:৭৩ আয়াতে ইবরাহীম (আঃ)-এর স্ত্রীকে ফেরেশতারা বলেছিলেন: 'তোমাদের ওপর, হে এ ঘরের মানুষেরা।' মুয়াসসার আহলে বাইতের মধ্যে নবীর স্ত্রীগণ ও তাঁর বংশধর দুই দলেরই নাম নেয়। মাআরিফুল কুরআনও দুই দলকে শামিল করে।"
+          },
+          {
+            "en": "Ibn Kathir weighs the first view. The wives are surely included, he says, since they are the cause of the revelation, alone according to some, or with others on the sound view. If Ikrimah meant only that they were the cause, he is right; if he meant they alone are intended, that needs examination, for hadiths have come showing the meaning is wider. At-Tabari glosses the phrase as the people of Muhammad's ﷺ house and records both views without settling between them.",
+            "bn": "প্রথম মতটি ইবন কাসীর যাচাই করেন। তাঁর মতে স্ত্রীগণ নিঃসন্দেহে এর অন্তর্ভুক্ত, কারণ আয়াত নাযিলের উপলক্ষ তাঁরাই। কারও মতে তাঁরা একাই, আর সঠিক মতে অন্যদের সঙ্গে। ইকরিমা যদি শুধু এটুকু বোঝাতে চান যে উপলক্ষ তাঁরাই, তবে কথাটা ঠিক। আর যদি বোঝাতে চান শুধু তাঁরাই উদ্দেশ্য, তবে তা ভেবে দেখার বিষয়, কারণ এমন হাদীস এসেছে যা দেখায় অর্থ আরও বিস্তৃত। তাবারী শব্দটির ব্যাখ্যা দেন মুহাম্মাদ ﷺ-এর ঘরের মানুষ হিসেবে, আর দুটি মতই উল্লেখ করেন, কোনোটির পক্ষে রায় না দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Under the Black Hair Cloak",
+          "bn": "কালো পশমের চাদরের নিচে"
+        },
+        "p": [
+          {
+            "en": "The hadith behind the second and third views is in Muslim's Sahih (2424), from Aishah, quoted here in his wording alone: 'The Prophet ﷺ went out early in the morning wearing a patterned cloak of black hair. Al-Hasan ibn Ali came, and he took him in. Then al-Husayn came and went in with him. Then Fatimah came, and he took her in. Then Ali came, and he took him in. Then he said: Allah only wishes to remove impurity from you, people of the House, and to purify you thoroughly.' Ibn Kathir and al-Baghawi both relay it.",
+            "bn": "দ্বিতীয় ও তৃতীয় মতের পেছনের হাদীসটি আছে মুসলিমের সহীহ গ্রন্থে (২৪২৪), আয়িশা (রাঃ) থেকে। এখানে শুধু তাঁর শব্দই দেওয়া হলো: 'নবী ﷺ ভোরবেলা বের হলেন, গায়ে কালো পশমের নকশাদার চাদর। হাসান ইবন আলী এলেন, তিনি তাঁকে ভেতরে নিলেন। তারপর হুসাইন এলেন, তিনিও তাঁর সঙ্গে ঢুকে গেলেন। তারপর ফাতিমা এলেন, তিনি তাঁকে ভেতরে নিলেন। তারপর আলী এলেন, তিনি তাঁকেও ভেতরে নিলেন। তারপর বললেন: হে নবীর ঘরের মানুষেরা, আল্লাহ শুধু চান তোমাদের থেকে অপবিত্রতা দূর করতে আর তোমাদের পুরোপুরি পবিত্র করতে।' ইবন কাসীর ও বাগাভী দুজনেই হাদীসটি এনেছেন।"
+          },
+          {
+            "en": "Many further reports, through Umm Salamah, Wathilah ibn al-Asqa', Anas and others, are relayed by at-Tabari through his own chains and by Ibn Kathir from Ahmad and Ibn Jarir. Ibn Kathir says some of their chains need examination; he notes an unnamed narrator in one and calls a narrator in another a liar, and al-Qurtubi records that at-Tirmidhi graded one gharib. They are mentioned here, not quoted. Al-Qurtubi reads the scene under the cloak as a supplication the Prophet ﷺ made for them after the verse came down, wishing to bring them into a verse addressed to his wives.",
+            "bn": "উম্মে সালামা (রাঃ), ওয়াসিলা ইবনুল আসকা (রাঃ), আনাস (রাঃ) ও অন্যদের সূত্রে আরও অনেক বর্ণনা এনেছেন তাবারী নিজের সনদে, আর ইবন কাসীর আহমাদ ও ইবন জারীর থেকে। ইবন কাসীর নিজেই বলেন, এগুলোর কিছু সনদ যাচাইসাপেক্ষ। একটিতে তিনি নামহীন এক বর্ণনাকারীর কথা বলেন, আরেকটির এক বর্ণনাকারীকে বলেন মিথ্যাবাদী। কুরতুবী জানান, তিরমিযী এর একটিকে গরীব বলেছেন। তাই এখানে এগুলোর শুধু উল্লেখ, উদ্ধৃতি নয়। কুরতুবী চাদরের নিচের দৃশ্যটিকে পড়েন নবী ﷺ-এর এক দোয়া হিসেবে, যা আয়াত নাযিলের পর তিনি তাঁদের জন্য করেছিলেন। তিনি চেয়েছিলেন, তাঁর স্ত্রীদের উদ্দেশে নাযিল হওয়া আয়াতে এঁরাও শামিল হোন।"
+          },
+          {
+            "en": "Muslim also records (2408), in a narration not attached to this verse, Zayd ibn Arqam's reply when asked whether the Prophet's ﷺ wives were of his household: 'His wives are of his household, but his household are those for whom charity was forbidden after him', naming the families of Ali, Aqil, Ja'far and Abbas. In another route in the same place Zayd answers no. Ibn Kathir prefers the first and joins the two: the household is the wives together with his kin. The answer is Zayd's own, not words of the Prophet ﷺ.",
+            "bn": "মুসলিম (২৪০৮) আরেকটি বর্ণনাও এনেছেন, যা এ আয়াতের সঙ্গে যুক্ত নয়। যায়দ ইবন আরকাম (রাঃ)-কে জিজ্ঞেস করা হয়েছিল, নবী ﷺ-এর স্ত্রীগণ কি তাঁর আহলে বাইত নন? তিনি বলেন: 'তাঁর স্ত্রীগণ তাঁর আহলে বাইতের অন্তর্ভুক্ত, তবে তাঁর আহলে বাইত তাঁরা, যাঁদের জন্য তাঁর পরে সদকা হারাম করা হয়েছে।' তারপর তিনি আলী, আকীল, জা'ফর ও আব্বাসের পরিবারের নাম নেন। একই স্থানে আরেক সূত্রে যায়দ (রাঃ) উত্তর দেন, না। ইবন কাসীর প্রথমটিকে অগ্রাধিকার দেন এবং দুটিকে মিলিয়ে নেন: আহলে বাইত মানে স্ত্রীগণ, সঙ্গে তাঁর আত্মীয়স্বজন। উত্তরটা যায়দ (রাঃ)-এর নিজের, নবী ﷺ-এর কথা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honour for the Whole Household",
+          "bn": "গোটা পরিবারের প্রতি সম্মান"
+        },
+        "p": [
+          {
+            "en": "Two things need saying plainly. First, these commands were spoken to the Mothers of the Believers, and the commentators who extend them to other women also name lawful needs: Ibn Kathir names prayer in the mosque, and Ma'arif al-Qur'an names Hajj, parents, visiting sick relatives and, for a woman without support, earning an honourable living. How far the command reaches is a question for qualified scholars. The verse licenses no one to confine, shame or harm any woman.",
+            "bn": "দুটি কথা সোজাসুজি বলা দরকার। প্রথমত, এ আদেশগুলো বলা হয়েছিল মু'মিনদের মায়েদের। যে তাফসীরকারেরা এগুলোকে অন্য নারীদের পর্যন্ত বিস্তৃত করেন, তাঁরাই বৈধ প্রয়োজনের কথাও বলেন। ইবন কাসীর মসজিদে নামাযের কথা বলেন। মাআরিফুল কুরআন বলে হজ, বাবা-মা, অসুস্থ আত্মীয়কে দেখতে যাওয়া, আর ভরণপোষণের ব্যবস্থা না থাকলে সম্মানজনক উপার্জনের কথা। আদেশটা কতদূর পর্যন্ত যায়, তা যোগ্য আলেমদের বিচারের বিষয়। কোনো নারীকে আটকে রাখা, লজ্জা দেওয়া বা কষ্ট দেওয়ার অনুমতি এ আয়াত কাউকে দেয় না।"
+          },
+          {
+            "en": "Second, the disagreement over ahl al-bayt licenses contempt for no one. On every view cited here the verse honours someone in the Prophet's ﷺ house, and on the view that joins them it honours all: his wives, the Mothers of the Believers, and his daughter Fatimah, Ali, al-Hasan and al-Husayn. Whoever holds one reading has no warrant from it to belittle those the other reading names. The verse closes on purification; it is poorly served by a reader who leaves it with a grudge.",
+            "bn": "দ্বিতীয়ত, আহলে বাইত নিয়ে মতভেদ কাউকে অবজ্ঞা করার অনুমতি দেয় না। এখানে উল্লেখ করা প্রতিটি মতেই আয়াতটি নবী ﷺ-এর ঘরের কাউকে না কাউকে সম্মান দেয়। আর যে মত দুটিকে মিলিয়ে নেয়, তাতে সম্মান পান সবাই: তাঁর স্ত্রীগণ, মু'মিনদের মায়েরা, আর তাঁর কন্যা ফাতিমা (রাঃ), আলী (রাঃ), হাসান (রাঃ) ও হুসাইন (রাঃ)। যিনি একটি মত ধরেন, অন্য মত যাঁদের নাম নেয়, তাঁদের ছোট করার কোনো দলিল তিনি এ আয়াত থেকে পান না। আয়াতটি শেষ হয়েছে পবিত্রতার কথায়। মনে বিদ্বেষ নিয়ে এ আয়াত থেকে উঠে যাওয়া পাঠক এর হক আদায় করেন না।"
+          }
+        ]
+      }
+    ]
+  },
   "33:35": {
     "sections": [
       {

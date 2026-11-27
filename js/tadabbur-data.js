@@ -36513,6 +36513,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "No one can carry your choice for you. Follow the truth now, for on the Day of standing, blaming those you followed will not make you a believer.",
     "lessonBn": "আপনার বেছে নেওয়ার দায় অন্য কেউ বইতে পারবে না। সত্যের পথে এখনই চলুন, কারণ হিসাবের দিনে যাদের পেছনে চলেছেন তাদের দোষ দিলেই আপনি মু'মিন হয়ে যাবেন না।"
+  },
+  "33:33": {
+    "reflectionEn": "After the warning and the doubled reward, the instructions turn to ordinary life: settle in your homes, do not parade yourselves as people did in the old age of ignorance, keep the prayer, give the zakah, obey Allah and His Messenger. Then comes the reason, and it is tender. Allah only wishes to take uncleanness away from you, people of the House, and to purify you thoroughly. The commands are not a cage; they are how the cleaning is done. The verse speaks first to one honoured household. Yet anyone can hold it up as a mirror. What do I put on display, and for whom? Is my home a place of calm? And do I meet Allah's commands as burdens, or as His care?",
+    "reflectionBn": "সতর্কবাণী আর দ্বিগুণ পুরস্কারের কথার পর নির্দেশগুলো নেমে আসে প্রতিদিনের জীবনে। নিজের ঘরে স্থির থাকো, পুরোনো জাহিলিয়াতের মতো নিজেদের প্রদর্শন করে বেড়িও না, নামায কায়েম করো, যাকাত দাও, আল্লাহ ও তাঁর রাসূলের আনুগত্য করো। তারপর আসে কারণটা, আর তা বড় কোমল। হে নবীর ঘরের মানুষেরা, আল্লাহ শুধু চান তোমাদের থেকে অপবিত্রতা দূর করতে আর তোমাদের পুরোপুরি পবিত্র করতে। আদেশগুলো খাঁচা নয়, এগুলোই পবিত্র করার পথ। আয়াতের প্রথম শ্রোতা একটি সম্মানিত পরিবার। তবু যে কেউ একে আয়না বানাতে পারেন। আমি কী দেখিয়ে বেড়াই, আর কাকে দেখাতে? আমার ঘর কি প্রশান্তির জায়গা? আর আল্লাহর আদেশকে আমি বোঝা মনে করি, নাকি তাঁর যত্ন?",
+    "pointsEn": [
+      "When I step out, what am I really hoping other people will notice about me?",
+      "Is my home a place where I am settled and at peace, or only somewhere I pass through on the way to elsewhere?",
+      "Which of Allah's commands do I carry as a weight, and could I learn to see it as His way of cleaning my heart?",
+      "Do I reach for prayer and for giving as my first answer to what pulls me away, or only after I have already given in?",
+      "When I speak of the Prophet's ﷺ household, his wives and his family alike, do I speak with honour, or with a side to defend?"
+    ],
+    "pointsBn": [
+      "ঘর থেকে বের হলে আমি আসলে কী আশা করি, মানুষ আমার কোন জিনিসটা খেয়াল করুক?",
+      "আমার ঘর কি এমন জায়গা, যেখানে আমি স্থির আর শান্ত থাকি? নাকি শুধু অন্য কোথাও যাওয়ার পথে একটু থামার জায়গা?",
+      "আল্লাহর কোন আদেশটা আমি বোঝার মতো বয়ে বেড়াই? সেটাকে কি আমি অন্তর পরিষ্কার করার জন্য তাঁর দেওয়া পথ হিসেবে দেখতে শিখতে পারি?",
+      "যা আমাকে টেনে সরিয়ে নিতে চায়, তার মোকাবিলায় নামায আর দান কি আমার প্রথম জবাব? নাকি হার মানার পরেই সেগুলোর কথা মনে পড়ে?",
+      "নবী ﷺ-এর পরিবারের কথা, তাঁর স্ত্রীগণ আর তাঁর বংশধর সবার কথা, আমি কি সম্মানের সঙ্গে বলি? নাকি কোনো একটা পক্ষ সামলাতে গিয়ে বলি?"
+    ],
+    "lessonEn": "Let Allah's commands clean you rather than confine you: carry dignity at home and in public, hold to prayer and giving, and honour the whole of the Prophet's ﷺ household.",
+    "lessonBn": "আল্লাহর আদেশ যেন আপনাকে আটকে না রেখে পবিত্র করে। ঘরে ও বাইরে মর্যাদা বজায় রাখুন, নামায ও দানকে আঁকড়ে ধরুন, আর নবী ﷺ-এর গোটা পরিবারকে সম্মান করুন।"
   }
 };
 
