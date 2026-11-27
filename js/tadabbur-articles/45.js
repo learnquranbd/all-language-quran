@@ -11,6 +11,162 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "45:2": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Source Named First",
+          "bn": "শুরুতেই উৎসের ঘোষণা"
+        },
+        "p": [
+          {
+            "en": "Al-Jathiyah opens with Ha Mim in 45:1 and then, in 45:2, with six Arabic words: tanzilu-l-kitabi mina-llahi-l-'azizi-l-hakim, the sending down of the Book is from Allah, the Mighty, the Wise. The two letters were discussed at 42:1, 43:1 and 44:1 and are not reopened here. It is enough to note that this is the sixth of seven surahs in a row, 40 to 46, whose first verse is Ha Mim, and that the first words after the letters concern the Book itself.",
+            "bn": "আল-জাসিয়াহ শুরু হয় ৪৫:১ আয়াতের হা-মীম দিয়ে। এরপর ৪৫:২ আয়াতে আসে আরবি ছয়টি শব্দ: তানযীলুল কিতাবি মিনাল্লাহিল আযীযিল হাকীম, এ কিতাবের অবতরণ মহাপরাক্রমশালী, প্রজ্ঞাময় আল্লাহর পক্ষ থেকে। হরফ দুটির আলোচনা ৪২:১, ৪৩:১ ও ৪৪:১ আয়াতে হয়ে গেছে, এখানে আর খোলা হচ্ছে না। শুধু এটুকু মনে রাখা যায়: ৪০ থেকে ৪৬ পর্যন্ত পরপর সাতটি সূরার প্রথম আয়াত হা-মীম, আর এটি তার ষষ্ঠটি। হরফের পরের প্রথম কথাই কিতাব নিয়ে।"
+          },
+          {
+            "en": "Ibn Kathir's English abridgement heads the surah as revealed in Makkah. Ma'arif al-Qur'an, at this verse, records one view that a single verse, 45:14, telling the believers to forgive those who do not hope for the days of Allah, came down in Madinah, and adds that the overwhelming view places the whole surah before the hijrah. Like other Makkan surahs, it says, the surah's subject is the basic beliefs: the oneness of Allah, the messengership of the Prophet ﷺ and the Hereafter.",
+            "bn": "ইবন কাসীরের ইংরেজি সংক্ষেপ সূরাটিকে মক্কায় নাযিল বলে উল্লেখ করে। মাআরিফুল কুরআন এই আয়াতের আলোচনায় একটি মত তুলে ধরে: শুধু একটি আয়াত, ৪৫:১৪, মদীনায় নাযিল হয়েছিল। সে আয়াতে মুমিনদের বলা হয়েছে, যারা আল্লাহর দিনগুলোর আশা রাখে না, তাদের ক্ষমা করে দিতে। তবে মাআরিফুল কুরআন জানায়, অধিকাংশের মতে পুরো সূরাটিই হিজরতের আগের। অন্যান্য মাক্কী সূরার মতো এর মূল বিষয়ও ঈমানের ভিত্তি: আল্লাহর একত্ব, নবী ﷺ-এর রিসালাত আর আখিরাত।"
+          },
+          {
+            "en": "Ma'arif adds that the surah brings evidence for all of these, especially for the Hereafter, and answers the criticisms of atheists and the arguments of sceptics at length. That frame matters for 45:2. A surah that will argue and answer objections begins not with an argument but with a statement of source. Before anything is proved, the listener is told where the words he is about to hear have come from, and who stands behind them.",
+            "bn": "মাআরিফুল কুরআন আরও বলে, সূরাটি এসব বিষয়ে প্রমাণ পেশ করে, বিশেষ করে আখিরাতের পক্ষে, আর নাস্তিকদের সমালোচনা ও সংশয়বাদীদের ভ্রান্ত যুক্তির জবাব দেয় বিস্তারিতভাবে। ৪৫:২ বোঝার জন্য এই প্রেক্ষাপট গুরুত্বপূর্ণ। যে সূরা যুক্তি দেবে, আপত্তির জবাব দেবে, তার শুরুটা কোনো যুক্তি দিয়ে নয়, উৎসের ঘোষণা দিয়ে। কিছু প্রমাণ করার আগেই শ্রোতাকে জানিয়ে দেওয়া হয়, যে কথা সে শুনতে যাচ্ছে তা কোথা থেকে এসেছে, আর এর পেছনে কে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Subject, Predicate, or Name",
+          "bn": "উদ্দেশ্য, বিধেয়, না সূরার নাম"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi begins with grammar and gives two analyses. In the first, Ha Mim is the subject, the mubtada', and tanzil is its predicate, the khabar: Ha Mim is the sending down of the Book. In the second, which he introduces with the words 'some of them said', Ha Mim is the name of the surah, and tanzilu-l-kitab is itself the subject, with mina-llah, from Allah, as its predicate: the sending down of the Book is from Allah. He sets the two side by side without ranking them.",
+            "bn": "কুরতুবী শুরু করেন ব্যাকরণ দিয়ে, আর দুটি বিশ্লেষণ দেন। প্রথমটিতে হা-মীম উদ্দেশ্য (মুবতাদা), তানযীল তার বিধেয় (খাবার)। অর্থ দাঁড়ায়: হা-মীম হলো কিতাবের অবতরণ। দ্বিতীয়টি তিনি আনেন 'তাঁদের কেউ কেউ বলেছেন' কথাটি দিয়ে। এ মতে হা-মীম সূরার নাম। তখন 'তানযীলুল কিতাব' নিজেই উদ্দেশ্য, আর 'মিনাল্লাহ', আল্লাহর পক্ষ থেকে, তার বিধেয়। অর্থ দাঁড়ায়: কিতাবের অবতরণ আল্লাহর পক্ষ থেকে। দুটি মত তিনি পাশাপাশি রাখেন, কোনোটিকে এগিয়ে রাখেন না।"
+          },
+          {
+            "en": "At-Tabari's paraphrase reads it a third way. Its meaning, he writes, is: this is the sending down of the Qur'an from Allah. The word hadha, this, is his own addition, so tanzil becomes the predicate of a subject left unsaid. The Muyassar runs close to him: this Qur'an is sent down from Allah. On every reading the claim is the same, that the Book came from Allah. What a reader may notice is how each analysis lets the weight fall on a different part of the sentence.",
+            "bn": "তাবারীর ব্যাখ্যায় পাওয়া যায় তৃতীয় আরেকটি পাঠ। তিনি লেখেন, এর অর্থ: এটি আল্লাহর পক্ষ থেকে কুরআনের অবতরণ। 'হাযা', অর্থাৎ 'এটি', শব্দটি তাঁর নিজের যোগ করা। ফলে তানযীল হয়ে যায় এমন এক উদ্দেশ্যের বিধেয়, যা মুখে বলা হয়নি। মুয়াসসারের ভাষাও কাছাকাছি: এই কুরআন আল্লাহর পক্ষ থেকে নাযিল করা। যে পাঠই ধরা হোক, মূল দাবি একটাই: কিতাব এসেছে আল্লাহর কাছ থেকে। পাঠক শুধু খেয়াল করতে পারেন, একেক বিশ্লেষণে বাক্যের ভার পড়ে একেক জায়গায়।"
+          },
+          {
+            "en": "The commentators agree on what al-kitab means here. Al-Qurtubi says it in two words: al-kitabu-l-qur'an, the Book is the Qur'an. At-Tabari's paraphrase puts the Qur'an where the verse says the Book, and the Muyassar does the same, opening with hadha-l-qur'an, this Qur'an. So the sentence is not about scripture in general. It points at the very recitation the surah is made of, and at the words the listener is hearing at that moment.",
+            "bn": "এখানে 'আল-কিতাব' বলতে কী বোঝানো হয়েছে, তাতে তাফসীরকারেরা একমত। কুরতুবী দুই শব্দে বলে দেন: আল-কিতাব মানে কুরআন। আয়াতে যেখানে 'কিতাব', তাবারী তাঁর ব্যাখ্যায় সেখানে বসান 'কুরআন'। মুয়াসসারও তা-ই করে, শুরুই করে 'হাযাল কুরআন', এই কুরআন দিয়ে। তাই বাক্যটি সাধারণভাবে আসমানী কিতাবের কথা বলছে না। এটি ইঙ্গিত করছে এই তিলাওয়াতের দিকেই, যা দিয়ে সূরাটি গড়া, যে কথা শ্রোতা ঠিক সেই মুহূর্তে শুনছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sent Down Upon His Servant",
+          "bn": "বান্দার উপর নাযিল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the verse as a report: Allah informs that He sent the Book down upon His servant and messenger Muhammad, and he adds the prayer that Allah's blessings and peace be upon him always, until the Day of Judgement. The verse itself names only the source. It says from whom the Book came, not to whom; Ibn Kathir names the recipient. Within the passage, 45:6 turns to the Prophet ﷺ directly: these are the verses of Allah which We recite to you in truth.",
+            "bn": "ইবন কাসীর আয়াতটিকে পড়েন একটি সংবাদ হিসেবে: আল্লাহ জানাচ্ছেন, তিনি তাঁর বান্দা ও রাসূল মুহাম্মাদের উপর কিতাব নাযিল করেছেন। সঙ্গে তিনি দুআ যোগ করেন, কিয়ামত পর্যন্ত সবসময় তাঁর উপর আল্লাহর রহমত ও শান্তি বর্ষিত হোক। আয়াত নিজে শুধু উৎসের নাম বলে। কিতাব কার কাছ থেকে এসেছে, তা বলে, কার কাছে এসেছে, তা বলে না। প্রাপকের নাম নেন ইবন কাসীর। আর এই অংশেই ৪৫:৬ আয়াত সরাসরি নবী ﷺ-কে সম্বোধন করে: এগুলো আল্লাহর আয়াত, যা আমি তোমার কাছে যথাযথভাবে তিলাওয়াত করছি।"
+          },
+          {
+            "en": "Tanzil is a verbal noun from the root n-z-l, tagged in the morphology as a masdar of the second verb form: the act of sending down. The verse does not say 'a Book from Allah' but 'the sending down of the Book is from Allah', so the claim covers both the text and the way it arrived. Mina-llah answers the first question anyone asks of speech they did not write: where did it come from? The answer is given before the surah offers a single proof.",
+            "bn": "তানযীল ন-য-ল ধাতু থেকে আসা ক্রিয়াবাচক বিশেষ্য। শব্দতত্ত্বের তালিকায় একে দ্বিতীয় ক্রিয়ারূপের মাসদার হিসেবে দেখানো হয়েছে। এর অর্থ নাযিল করার কাজটি। আয়াত বলেনি 'আল্লাহর পক্ষ থেকে একটি কিতাব'। বলেছে, 'কিতাবের অবতরণ আল্লাহর পক্ষ থেকে'। ফলে দাবিটি লেখা ও তার আগমনের পথ, দুটোকেই ঘিরে রাখে। নিজের লেখা নয় এমন কোনো কথা হাতে এলে মানুষ প্রথমেই জানতে চায়, এটা কোথা থেকে এল। 'মিনাল্লাহ' সেই প্রশ্নেরই জবাব। সূরা কোনো প্রমাণ দেওয়ার আগেই জবাবটা দিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "News That Carries an Order",
+          "bn": "সংবাদের ভেতরে হুকুম"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the verse as a khabar, a report, that contains an amr, a command. Allah informs, he says, with a statement that carries an order to honour the Qur'an and to give it care: ta'zim al-qur'an wa-l-i'tina' bihi. Nothing in the wording is in the imperative. In his reading the command sits inside the report: to be told that a Book comes from Allah is already to be told how to receive it.",
+            "bn": "সা'দী আয়াতটিকে পড়েন এমন এক খবর (খাবার) হিসেবে, যার ভেতরে আছে হুকুম (আমর)। তিনি বলেন, আল্লাহ এমন এক সংবাদ দিচ্ছেন, যাতে কুরআনকে সম্মান করা আর এর প্রতি যত্নবান হওয়ার নির্দেশ রয়েছে: তা'যীমুল কুরআন ওয়াল ই'তিনা বিহি। আয়াতের শব্দে কোনো আদেশসূচক ক্রিয়া নেই। তাঁর পাঠে হুকুমটা খবরের ভেতরেই বসে আছে। কোনো কিতাব আল্লাহর কাছ থেকে এসেছে, এ কথা জানানো মানেই সেটা কীভাবে গ্রহণ করতে হবে তা-ও জানিয়ে দেওয়া।"
+          },
+          {
+            "en": "He also pauses on the name Allah. The Book is from Allah, he writes, al-ma'luh al-ma'bud, the One held divine and worshipped, and he gives the reason: the attributes of perfection He possesses and the blessings He alone bestows. Then he glosses the closing names together: to Him belong complete might and perfect wisdom. In his reading, each word of the source clause already says why the Book deserves the honour he spoke of a line earlier.",
+            "bn": "'আল্লাহ' নামটির কাছেও তিনি একটু থামেন। তিনি লেখেন, কিতাব এসেছে আল্লাহর কাছ থেকে, যিনি আল-মা'লূহ আল-মা'বূদ, যাঁকে ইলাহ মানা হয়, যাঁর ইবাদত করা হয়। কারণও তিনি বলেন: তাঁর মধ্যে আছে পূর্ণতার সব গুণ, আর এমন সব নিয়ামত, যা একমাত্র তিনিই দেন। তারপর শেষের নাম দুটির ব্যাখ্যা দেন একসাথে: পূর্ণ পরাক্রম ও পরিপূর্ণ প্রজ্ঞা তাঁরই। তাঁর পাঠে উৎস-বাক্যের প্রতিটি শব্দই বলে দেয়, কিতাবটি কেন সেই সম্মানের যোগ্য, যার কথা তিনি এক লাইন আগে বলেছেন।"
+          },
+          {
+            "en": "As-Sa'di does not list practices at this verse, and none will be supplied here on his behalf. What a reader can do is hold himself to the two words he uses. Ta'zim is honour: not letting the Qur'an become background sound, or a book kept and never opened. I'tina' is care and attention: returning to it, reading it with the mind present, asking what it says. Each reader can measure an ordinary week against those two words.",
+            "bn": "এই আয়াতে সা'দী কোনো আমলের তালিকা দেননি, তাঁর নাম দিয়ে এখানেও কোনো তালিকা বানানো হবে না। পাঠক যা করতে পারেন, তা হলো তাঁর ব্যবহার করা দুটি শব্দের সামনে নিজেকে দাঁড় করানো। তা'যীম মানে সম্মান: কুরআনকে পেছনের আওয়াজ হয়ে যেতে না দেওয়া, তাকে তুলে রেখে কখনো না খোলা বইয়ে পরিণত না করা। ই'তিনা মানে যত্ন ও মনোযোগ: বারবার এর কাছে ফেরা, মন হাজির রেখে পড়া, এটি কী বলছে তা জানতে চাওয়া। সাধারণ একটা সপ্তাহ এই দুটি শব্দের পাশে রেখে যে কেউ নিজের হিসাব নিতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Might Beyond Reach",
+          "bn": "নাগালের বাইরের পরাক্রম"
+        },
+        "p": [
+          {
+            "en": "The commentators gloss al-'Aziz in more than one way. At-Tabari says Mighty in His vengeance on His enemies, and the Muyassar repeats the phrase almost word for word: al-'aziz fi intiqamihi min a'da'ihi. Ibn Kathir speaks instead of a might that la turam, that no one can aim at or attain. Al-Qurtubi gives a single synonym, al-mani', the One who is beyond reach and cannot be overcome. As-Sa'di, as seen, calls it complete might and leaves it there.",
+            "bn": "আল-আযীয শব্দটির ব্যাখ্যা তাফসীরকারেরা একভাবে দেননি। তাবারী বলেন, শত্রুদের থেকে প্রতিশোধ নেওয়ায় তিনি পরাক্রমশালী। মুয়াসসার প্রায় হুবহু একই কথা বলে: আল-আযীয ফী ইনতিকামিহী মিন আ'দাইহী। ইবন কাসীর বলেন অন্যভাবে। তাঁর ভাষায় এ এমন পরাক্রম, যা 'লা তুরাম', কেউ যার দিকে হাত বাড়াতে বা যার নাগাল পেতে পারে না। কুরতুবী দেন একটিমাত্র প্রতিশব্দ: আল-মানী', যাঁর কাছে কেউ পৌঁছাতে পারে না, যাঁকে কেউ পরাস্ত করতে পারে না। আর সা'দী, যেমনটা আগে দেখা গেছে, বলেন পূর্ণ পরাক্রম, এর বেশি কিছু নয়।"
+          },
+          {
+            "en": "None of the fetched commentators sets his gloss against another's, so they need not be ranked here. At-Tabari's looks outward, at what befalls those who oppose Him. Ibn Kathir's and al-Qurtubi's look at the might itself, which nothing can touch. A reader can hold both. Placed beside the Book, either reading tells the listener that the speech in front of him does not come from someone who needs his approval, or who can be pressured into changing it.",
+            "bn": "সংগৃহীত তাফসীরগুলোর কেউই নিজের ব্যাখ্যাকে অন্যেরটির বিপরীতে দাঁড় করাননি, তাই এখানে কোনোটিকে উপরে-নিচে রাখার দরকার নেই। তাবারীর ব্যাখ্যার দৃষ্টি বাইরের দিকে, যারা তাঁর বিরোধিতা করে তাদের পরিণতির দিকে। ইবন কাসীর ও কুরতুবীর দৃষ্টি পরাক্রমের নিজের দিকে, যাকে কিছুই স্পর্শ করতে পারে না। পাঠক দুটোই মনে রাখতে পারেন। কিতাবের পাশে রাখলে যেকোনোটিই শ্রোতাকে জানিয়ে দেয়: সামনের এই কথা এমন কারও নয়, যার তার সমর্থন দরকার, কিংবা চাপ দিয়ে যাকে দিয়ে কথা বদলানো যায়।"
+          },
+          {
+            "en": "At-Tabari's word 'enemies' calls for a plain statement. The verse names no enemy, and neither does his gloss name any people. Who opposes Allah, and what becomes of them, is for Him to judge. The phrase describes an attribute of Allah. It is not a label a reader may fix on a neighbour, a rival group or any living community, and it licenses nothing against anyone. The surah's warning in 45:7 and 45:8 likewise describes a kind of person, not a list of names.",
+            "bn": "তাবারীর 'শত্রু' শব্দটি নিয়ে সোজাসুজি একটা কথা বলা দরকার। আয়াতে কোনো শত্রুর নাম নেই, তাবারীর ব্যাখ্যাতেও কোনো জাতির নাম নেই। কে আল্লাহর বিরোধী, আর তার পরিণতি কী, তার ফয়সালা আল্লাহর হাতে। কথাটি আল্লাহর একটি গুণের বর্ণনা। পাঠক এটাকে কোনো প্রতিবেশী, প্রতিপক্ষ দল বা বর্তমানের কোনো জনগোষ্ঠীর গায়ে লেবেল হিসেবে সেঁটে দিতে পারেন না। কারও বিরুদ্ধে কিছু করার অনুমতিও এ আয়াত দেয় না। ৪৫:৭ ও ৪৫:৮ আয়াতের সতর্কবাণীও একই রকম। সেখানে এক ধরনের মানুষের ছবি আঁকা হয়েছে, কারও নামের তালিকা দেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wise in Saying and Doing",
+          "bn": "কথায় ও কাজে প্রজ্ঞা"
+        },
+        "p": [
+          {
+            "en": "Al-Hakim draws glosses of its own. At-Tabari says wise in His tadbir, His management of the affairs of His creation, and the Muyassar again follows him closely. Al-Qurtubi says wise in His fi'l, in what He does. Ibn Kathir widens the field: wisdom fi-l-aqwali wa-l-af'al, in sayings and in deeds. As-Sa'di calls it perfect wisdom without saying where it shows. Five commentaries, one word, and at least three different emphases.",
+            "bn": "আল-হাকীম শব্দেরও আলাদা আলাদা ব্যাখ্যা আছে। তাবারী বলেন, সৃষ্টির যাবতীয় বিষয়ের পরিচালনায় (তাদবীর) তিনি প্রজ্ঞাময়। মুয়াসসার এখানেও তাঁকে কাছ থেকে অনুসরণ করে। কুরতুবী বলেন, তাঁর কাজে (ফি'ল) তিনি প্রজ্ঞাময়। ইবন কাসীর পরিসর বাড়িয়ে দেন: প্রজ্ঞা 'ফিল আকওয়ালি ওয়াল আফআল', কথায় এবং কাজে। সা'দী বলেন পরিপূর্ণ প্রজ্ঞা, তবে তা কোথায় প্রকাশ পায়, বলেন না। পাঁচটি তাফসীর, একটি শব্দ, আর অন্তত তিনটি ভিন্ন ঝোঁক।"
+          },
+          {
+            "en": "The difference is small but real, and it can be stated without taking a side. At-Tabari and al-Qurtubi place the wisdom in what Allah does and how He governs. Ibn Kathir names His sayings as well. In a verse whose subject is a Book, his wording lets a reader see the text itself as part of the wisdom named. The other wording points instead to the ordering of creation, which is where the surah turns next, in 45:3 to 45:5.",
+            "bn": "পার্থক্যটা ছোট, তবে বাস্তব, আর কারও পক্ষ না নিয়েই তা বলা যায়। তাবারী ও কুরতুবী প্রজ্ঞাকে দেখেন আল্লাহর কাজে আর তাঁর পরিচালনায়। ইবন কাসীর এর সঙ্গে তাঁর কথাকেও যুক্ত করেন। যে আয়াতের বিষয়ই একটি কিতাব, সেখানে তাঁর এই শব্দচয়ন পাঠককে দেখার সুযোগ দেয় যে কিতাবের লেখাও সেই প্রজ্ঞারই অংশ। অন্য ব্যাখ্যাটি বরং ইঙ্গিত করে সৃষ্টির বিন্যাসের দিকে। আর ৪৫:৩ থেকে ৪৫:৫ আয়াতে সূরাটি ঠিক সেদিকেই ফেরে।"
+          },
+          {
+            "en": "Why do these two names, and not others, close the verse? None of the fetched commentaries says. An answer offered here would be a guess dressed as a reading, so the question is left open. What can be said is what they do say: He who sent the Book down cannot be overpowered, and He is wise in what He does. A reader can carry both sentences into the rest of the surah and test them against it.",
+            "bn": "আয়াতের শেষে অন্য কোনো নাম নয়, এই দুটি নামই কেন? সংগৃহীত তাফসীরগুলোর কোনোটিই তা বলেনি। এখানে কোনো উত্তর দিলে সেটা হবে ব্যাখ্যার পোশাক পরা অনুমান। তাই প্রশ্নটা খোলা রাখা হলো। যা বলা যায়, তা হলো তাফসীরকারেরা যা বলেছেন: যিনি কিতাব নাযিল করেছেন, কেউ তাঁকে পরাস্ত করতে পারে না, আর তিনি যা করেন তাতে তিনি প্রজ্ঞাময়। পাঠক এই দুটি কথা সঙ্গে নিয়ে সূরার বাকি অংশে যেতে পারেন, আর সেখানে মিলিয়ে দেখতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Sentence, Four Openings",
+          "bn": "এক বাক্য, চার সূরার শুরু"
+        },
+        "p": [
+          {
+            "en": "The six words of 45:2 occur word for word at 39:1, the first verse of az-Zumar, and at 46:2, which follows Ha Mim at the start of al-Ahqaf, the surah after this one. At 40:2, after the Ha Mim that opens Ghafir, the sentence begins the same way but closes with a different name: al-'azizi-l-'alim, the Mighty, the All-Knowing. Memorisers learn to watch that last word, because the openings otherwise run identically.",
+            "bn": "৪৫:২ আয়াতের ছয়টি শব্দ হুবহু আছে ৩৯:১ আয়াতে, যা আয-যুমারের প্রথম আয়াত। আছে ৪৬:২ আয়াতেও, আল-আহকাফের শুরুর হা-মীমের ঠিক পরে। আল-আহকাফ এই সূরার পরের সূরা। গাফিরের শুরুর হা-মীমের পর ৪০:২ আয়াতে বাক্যটি একইভাবে শুরু হয়, কিন্তু শেষ হয় ভিন্ন এক নামে: আল-আযীযিল আলীম, মহাপরাক্রমশালী, সর্বজ্ঞ। হাফেযরা তাই শেষ শব্দটির দিকে বিশেষ নজর রাখেন, কারণ বাকি অংশ একেবারে এক।"
+          },
+          {
+            "en": "This article draws no commentary from those verses and does not try to explain the change at 40:2; no fetched commentary on 45:2 does either. The parallels are noted for a simpler reason. Whoever hears this opening is hearing a sentence the Qur'an places at the head of three other surahs as well. Its claim about where the Book comes from is not a passing remark in one passage. It is a statement the Qur'an makes about itself, again and again.",
+            "bn": "এ লেখায় ওই আয়াতগুলোর কোনো তাফসীর আনা হয়নি, আর ৪০:২ আয়াতের ভিন্নতার ব্যাখ্যাও দেওয়া হচ্ছে না। ৪৫:২ আয়াতের যে তাফসীরগুলো সংগ্রহ করা হয়েছে, সেগুলোও এর ব্যাখ্যা দেয়নি। মিলগুলো তুলে ধরার কারণ আরও সাদামাটা। এই শুরুটা যে শোনে, সে এমন এক বাক্য শোনে, যা কুরআন আরও তিনটি সূরার মাথায় বসিয়েছে। কিতাব কোথা থেকে এসেছে, সে দাবি তাই কোনো একটি অংশের পাশ কাটানো মন্তব্য নয়। কুরআন নিজের সম্পর্কে এ কথা বলে বারবার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Signs, Then the Verses Again",
+          "bn": "নিদর্শনের পর আবার আয়াত"
+        },
+        "p": [
+          {
+            "en": "The verse is followed at once by signs: in the heavens and the earth for the believers (45:3), in human creation and the creatures spread about for people of certainty (45:4), and in night and day, rain and wind for people who reason (45:5). Those verses have their own articles and are not retold here. Ibn Kathir's English abridgement treats 45:1 to 45:5 as one passage and heads it as a directive to contemplate Allah's signs.",
+            "bn": "আয়াতটির পরপরই আসে নিদর্শনের কথা: আকাশ ও পৃথিবীতে মুমিনদের জন্য (৪৫:৩), মানুষের সৃষ্টি আর ছড়িয়ে থাকা প্রাণীকুলে দৃঢ় বিশ্বাসীদের জন্য (৪৫:৪), আর রাত-দিন, বৃষ্টি ও বাতাসে বুদ্ধিমানদের জন্য (৪৫:৫)। ওই আয়াতগুলোর আলাদা আলোচনা আছে, এখানে আবার বলা হচ্ছে না। ইবন কাসীরের ইংরেজি সংক্ষেপ ৪৫:১ থেকে ৪৫:৫ আয়াতকে একটি অংশ ধরে আলোচনা করে। এর শিরোনাম দেয় আল্লাহর নিদর্শন নিয়ে চিন্তা করার নির্দেশ।"
+          },
+          {
+            "en": "Then 45:6 comes back to the opening thought: these are the verses of Allah which We recite to you in truth; then in what statement after Allah and His verses will they believe? The same word, ayat, has just named the signs in creation and now names verses recited. The passage begins with the Book's source and returns to it. Then 45:7 and 45:8 describe the person who hears those verses recited and persists in arrogance as if he had not heard.",
+            "bn": "তারপর ৪৫:৬ আয়াত ফিরে আসে শুরুর কথায়: এগুলো আল্লাহর আয়াত, যা আমি তোমার কাছে যথাযথভাবে তিলাওয়াত করছি। তাহলে আল্লাহ ও তাঁর আয়াতের পর আর কোন কথায় তারা ঈমান আনবে? যে 'আয়াত' শব্দ একটু আগে সৃষ্টির নিদর্শনের নাম ছিল, এখানে সেটিই তিলাওয়াত করা আয়াতের নাম। অংশটি শুরু হয়েছিল কিতাবের উৎস দিয়ে, আবার সেখানেই ফেরে। এরপর ৪৫:৭ ও ৪৫:৮ আয়াতে আসে সেই লোকের কথা, যে এ আয়াতগুলোর তিলাওয়াত শোনে, তারপর অহংকারে অটল থাকে, যেন কিছুই শোনেনি।"
+          },
+          {
+            "en": "No fetched commentary attaches a hadith to this verse or gives an occasion of revelation for it, so none is offered here. What remains is the verse's plain claim and the habit it invites. Before reading a page of the Qur'an, it is worth recalling, even for a breath, where the page came from: sent down from Allah, the Mighty, the Wise. Read that way, the sentences that follow are heard as address, not as familiar sound.",
+            "bn": "সংগৃহীত কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো উপলক্ষও বলেনি। তাই এখানেও তেমন কিছু আনা হচ্ছে না। বাকি থাকে আয়াতের সরল দাবি, আর যে অভ্যাসের দিকে এটি ডাকে। কুরআনের একটি পৃষ্ঠা পড়ার আগে এক নিঃশ্বাসের জন্য হলেও মনে করা যায়, পৃষ্ঠাটি কোথা থেকে এসেছে: মহাপরাক্রমশালী, প্রজ্ঞাময় আল্লাহর কাছ থেকে নাযিল হয়ে। এভাবে পড়লে পরের বাক্যগুলো কানে আসে সম্বোধন হয়ে, চেনা কোনো আওয়াজ হয়ে নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "45:4": {
     "sections": [
       {

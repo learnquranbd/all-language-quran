@@ -38113,6 +38113,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "In the Garden the people of taqwa ask and receive without fear of loss or harm; here, eat what you are given with thanks, and let worry lead you to the Giver.",
     "lessonBn": "জান্নাতে তাকওয়াওয়ালারা চান আর পান, হারানোর বা ক্ষতির কোনো ভয় ছাড়াই। এখানে যা পান শুকরিয়ার সঙ্গে খান, আর দুশ্চিন্তাকে দাতার দিকে ফেরার পথ বানান।"
+  },
+  "45:2": {
+    "reflectionEn": "Before the signs in the heavens and the earth, before the warning to the one who hears and turns away, the surah tells you where the words in front of you come from. They were sent down, and they were sent down from Allah, the Mighty, the Wise. A letter reads differently once you know who wrote it. If this Book comes from One whose might no one can reach and whose wisdom runs through what He says and does, it deserves more than a hurried glance between other tasks. The verse is a report, and it carries a request: honour this, and attend to it. Do I open the Qur'an as a text I already know, or as words sent to me by the One who sent them?",
+    "reflectionBn": "আকাশ ও পৃথিবীর নিদর্শনের কথা আসার আগে, শুনেও মুখ ফিরিয়ে নেওয়া লোকটির সতর্কবাণীর আগে, সূরাটি জানিয়ে দেয় সামনের কথাগুলো কোথা থেকে এসেছে। এগুলো নাযিল হয়েছে, আর নাযিল হয়েছে মহাপরাক্রমশালী, প্রজ্ঞাময় আল্লাহর কাছ থেকে। চিঠি কে লিখেছে জানলে চিঠি পড়ার ধরনই বদলে যায়। যাঁর ক্ষমতার নাগাল কেউ পায় না, যাঁর প্রজ্ঞা তাঁর কথায় ও কাজে ছড়িয়ে আছে, কিতাব যদি তাঁরই পাঠানো হয়, তবে অন্য কাজের ফাঁকে তাড়াহুড়োর এক নজর তার প্রাপ্য নয়। আয়াতটি একটি খবর, আর খবরের ভেতরে একটা দাবিও আছে: একে সম্মান করুন, এর প্রতি মন দিন। আমি কি কুরআন খুলি আগে থেকে জানা কোনো লেখা হিসেবে, নাকি যিনি পাঠিয়েছেন তাঁর পক্ষ থেকে আমার কাছে আসা কথা হিসেবে?",
+    "pointsEn": [
+      "When I open the mushaf, do I pause even for a moment to remember who sent it down?",
+      "Which verse have I read many times without once asking what the One who sent it wants from me?",
+      "If the Sender is Mighty, which of His commands have I been treating as optional?",
+      "If the Sender is Wise, which of His rulings have I quietly doubted because I could not see the reason for it?",
+      "How much of my day goes to words that people wrote, and how much to the words He sent down?"
+    ],
+    "pointsBn": [
+      "মুসহাফ খোলার সময় কে এটি নাযিল করেছেন, সেটা মনে করতে আমি কি এক মুহূর্তও থামি?",
+      "কোন আয়াত আমি বহুবার পড়েছি, অথচ একবারও ভাবিনি যিনি পাঠিয়েছেন তিনি এতে আমার কাছে কী চান?",
+      "প্রেরণকারী যদি মহাপরাক্রমশালী হন, তবে তাঁর কোন হুকুমগুলো আমি ইচ্ছামতো মানা না-মানার জিনিস বানিয়ে রেখেছি?",
+      "প্রেরণকারী যদি প্রজ্ঞাময় হন, তবে তাঁর কোন বিধান নিয়ে আমি মনে মনে সন্দেহ পুষে রেখেছি, শুধু কারণটা চোখে পড়েনি বলে?",
+      "আমার দিনের কতটা যায় মানুষের লেখা কথায়, আর কতটা তাঁর নাযিল করা কথায়?"
+    ],
+    "lessonEn": "Open the Qur'an as a Book sent down by the Mighty, the Wise, and give it the honour, attention and obedience owed to the One who sent it.",
+    "lessonBn": "কুরআন খুলুন মহাপরাক্রমশালী, প্রজ্ঞাময় আল্লাহর নাযিল করা কিতাব হিসেবে, আর যিনি পাঠিয়েছেন তাঁর প্রাপ্য সম্মান, মনোযোগ ও আনুগত্য একে দিন।"
   }
 };
 
