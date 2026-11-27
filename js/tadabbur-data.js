@@ -35199,6 +35199,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Light for the heart is Allah's gift, not one's own cleverness or the crowd's; ask Him for it daily, and do not walk where you cannot see.",
     "lessonBn": "অন্তরের আলো আল্লাহর দান, নিজের চালাকি বা ভিড়ের কাছ থেকে তা মেলে না। প্রতিদিন তাঁর কাছে তা চেয়ে নিন, আর যেখানে কিছুই দেখা যায় না সেখানে অন্ধের মতো হাঁটবেন না।"
+  },
+  "25:31": {
+    "reflectionEn": "The verse before this one carries a complaint: my Lord, my people have taken this Qur'an as something abandoned. The answer does not open with a promise that the people will change. It opens with company. Thus have We made for every prophet an enemy from among the criminals. Whoever calls to the truth and meets resistance is not the first to meet it, and has not failed by meeting it. Then the answer turns away from the enemy and towards the Lord. He is enough as a guide, so the way is not lost, and enough as a helper, so no one is left to stand alone. When the people I hoped to reach turn away, which of those two do I doubt first?",
+    "reflectionBn": "এর আগের আয়াতে একটি অভিযোগ আছে: হে আমার রব, আমার জাতি এই কুরআনকে পরিত্যক্ত বানিয়ে রেখেছে। জবাবটা এই প্রতিশ্রুতি দিয়ে শুরু হয় না যে লোকগুলো বদলে যাবে। শুরু হয় সঙ্গী দেখিয়ে। এভাবেই আমি প্রত্যেক নবীর জন্য অপরাধীদের মধ্য থেকে শত্রু বানিয়েছি। যে সত্যের দিকে ডাকে আর বাধার মুখে পড়ে, সে প্রথম নয়। বাধা এসেছে বলেই সে ব্যর্থও নয়। তারপর জবাবটা শত্রুর দিক থেকে মুখ ফিরিয়ে রবের দিকে তাকায়। পথ দেখানোর জন্য তিনিই যথেষ্ট, তাই পথ হারায় না। সাহায্যের জন্য তিনিই যথেষ্ট, তাই কাউকে একা দাঁড়িয়ে থাকতে হয় না। যাদের কাছে পৌঁছাতে চেয়েছিলাম তারা যখন মুখ ফিরিয়ে নেয়, এই দুটির কোনটিতে আমার সন্দেহ আগে জাগে?",
+    "pointsEn": [
+      "When something I said for the sake of the truth was rejected, did I take the rejection as proof that I had been wrong?",
+      "Is there a grief I still carry over people who turned away, and have I handed it to Allah or kept it to myself?",
+      "Where do I need guidance more right now: in knowing what to say, or in knowing what to leave unsaid?",
+      "Whose help am I counting on to carry something heavy, and did I ask Allah for help before I asked them?",
+      "Have I ever called someone an enemy of the truth when he was only someone I had failed to persuade?"
+    ],
+    "pointsBn": [
+      "সত্যের খাতিরে বলা আমার কোনো কথা যখন প্রত্যাখ্যাত হয়েছে, আমি কি সেই প্রত্যাখ্যানকেই ধরে নিয়েছি যে আমি ভুল ছিলাম?",
+      "যারা মুখ ফিরিয়ে নিয়েছে তাদের নিয়ে কোনো দুঃখ কি এখনো বুকে বয়ে বেড়াচ্ছি? সেটা কি আল্লাহর হাতে তুলে দিয়েছি, নাকি নিজের কাছেই আটকে রেখেছি?",
+      "এই মুহূর্তে আমার পথনির্দেশ বেশি দরকার কোথায়: কী বলব তা জানায়, নাকি কী না বলে ছেড়ে দেব তা জানায়?",
+      "ভারী কোনো বোঝা বইতে আমি কার সাহায্যের ভরসা করে আছি? তাদের কাছে চাওয়ার আগে কি আল্লাহর কাছে সাহায্য চেয়েছি?",
+      "এমন কি কখনো হয়েছে যে কাউকে সত্যের শত্রু বলে ফেলেছি, অথচ সে আসলে এমন একজন যাকে আমি বোঝাতে পারিনি?"
+    ],
+    "lessonEn": "When you meet opposition for standing with the truth, remember that every prophet met it too, and let your Lord be enough for you as guide and helper.",
+    "lessonBn": "সত্যের পক্ষে দাঁড়িয়ে বাধার মুখে পড়লে মনে রাখুন, প্রত্যেক নবীই এমন বাধা পেয়েছেন। পথ দেখানো আর সাহায্যের জন্য আপনার রবকেই যথেষ্ট মনে করুন।"
   }
 };
 

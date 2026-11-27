@@ -1335,6 +1335,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "25:31": {
+    "sections": [
+      {
+        "h": {
+          "en": "Spoken After a Complaint",
+          "bn": "এক অভিযোগের পরের কথা"
+        },
+        "p": [
+          {
+            "en": "25:30 is short and heavy: and the Messenger said, my Lord, my people have taken this Qur'an as a thing abandoned. Ibn Kathir's abridged English, which treats 25:30 and 25:31 together, sets it among the idolaters who would not listen and who, when he recited, talked over it so as not to hear, citing 41:26. Al-Qurtubi records, under it has been said, a view that the Messenger speaks these words on the Day of Resurrection: they abandoned the Qur'an, abandoned me and called me a liar.",
+            "bn": "২৫:৩০ আয়াতটি ছোট, কিন্তু ভারী: রসূল বললেন, হে আমার রব, আমার জাতি এই কুরআনকে পরিত্যক্ত বানিয়ে রেখেছে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি ভাষ্য ২৫:৩০ ও ২৫:৩১ একসাথে আলোচনা করে। সেখানে প্রেক্ষাপট হিসেবে আসে সেই মুশরিকরা, যারা কুরআন শুনত না। তিনি তিলাওয়াত করলে তারা জোরে অন্য কথা বলত, যাতে কানে না আসে। এর পক্ষে তিনি ৪১:২৬ উদ্ধৃত করেন। কুরতুবী 'বলা হয়েছে' কথাটি দিয়ে একটি মত উল্লেখ করেন: রসূল এ কথা বলবেন কিয়ামতের দিন। অর্থাৎ তারা কুরআন ছেড়েছে, আমাকে ছেড়েছে, আমাকে মিথ্যাবাদী বলেছে।"
+          },
+          {
+            "en": "Our verse comes straight after, and the commentators read it as the reply. Al-Qurtubi's first words are that Allah consoled him and comforted him with it. As-Sa'di says Allah spoke it to console His Messenger and to tell him that these people had predecessors who did as they did. The Muyassar ends its gloss by calling it a consolation for the Prophet ﷺ. The answer does not deny the loss. It places it in a longer history, then names the Lord who is enough.",
+            "bn": "আমাদের আয়াতটি ঠিক তার পরেই, আর তাফসীরকারেরা একে সেই অভিযোগের জবাব হিসেবেই পড়েন। কুরতুবীর প্রথম কথাই হলো, আল্লাহ এর মাধ্যমে তাঁকে সান্ত্বনা দিলেন, তাঁর মন হালকা করলেন। সা'দী বলেন, আল্লাহ তাঁর রসূলকে প্রবোধ দিতে আর এ খবর জানাতে কথাটি বলেছেন যে এই লোকদের আগেও এমন লোক ছিল, যারা ঠিক এদের মতোই করেছে। মুয়াসসার তার ব্যাখ্যা শেষ করে এ কথা বলে যে এতে নবী ﷺ-এর জন্য সান্ত্বনা আছে। জবাব ক্ষতিটা অস্বীকার করে না। বরং তাকে এক দীর্ঘ ইতিহাসের ভেতরে বসিয়ে দেয়, তারপর সেই সত্তার নাম নেয় যিনি যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Singled Out Among Them",
+          "bn": "শুধু আপনার বেলায় নয়"
+        },
+        "p": [
+          {
+            "en": "Wa kadhalika, and thus. At-Tabari spells out the comparison as Allah's address to His Prophet: as We made for you, Muhammad, enemies from among the idolaters of your people, so We made for everyone We sent as a prophet before you an enemy from among the idolaters of his people. Then comes a short clause: so you were not singled out for this among them. He adds that the people of interpretation said the same.",
+            "bn": "ওয়া কাযালিকা, আর এভাবেই। তাবারী তুলনাটা খুলে বলেন আল্লাহর পক্ষ থেকে নবীকে সম্বোধন হিসেবে: হে মুহাম্মাদ, যেভাবে আমি তোমার জাতির মুশরিকদের মধ্য থেকে তোমার শত্রু বানিয়েছি, সেভাবেই তোমার আগে যাকেই নবী করে পাঠিয়েছি, তার জাতির মুশরিকদের মধ্য থেকে তার জন্যও শত্রু বানিয়েছি। তারপর ছোট্ট একটি বাক্য: কাজেই এ ব্যাপারে তাদের মধ্যে কেবল তোমাকেই আলাদা করা হয়নি। তিনি যোগ করেন, ব্যাখ্যাকারেরাও এমনটাই বলেছেন।"
+          },
+          {
+            "en": "Ibn Kathir draws the line from the abandoning of the Qur'an itself. As it was for you among your people, those who abandoned the Qur'an, so it was among the past nations, because Allah made for every prophet an enemy from the criminals, who call people to their own misguidance and disbelief. The opposition he describes is more than private dislike. It is a counter-call, a rival invitation set up against the prophet's invitation.",
+            "bn": "ইবন কাসীর রেখাটা টানেন কুরআন পরিত্যাগের ঘটনা থেকেই। তোমার জাতির মধ্যে যারা কুরআন ছেড়ে দিয়েছে, তাদের নিয়ে তোমার যা হয়েছে, আগের উম্মতগুলোতেও তা-ই হয়েছিল। কারণ আল্লাহ প্রত্যেক নবীর জন্য অপরাধীদের মধ্য থেকে শত্রু বানিয়েছেন, যারা মানুষকে নিজেদের গোমরাহি আর কুফরের দিকে ডাকে। তাঁর বর্ণনায় এই বিরোধিতা কেবল ব্যক্তিগত অপছন্দ নয়। এ এক পাল্টা দাওয়াত, নবীর দাওয়াতের বিপরীতে দাঁড় করানো আরেকটা ডাক।"
+          },
+          {
+            "en": "At-Tabari supports his reading with a report from Ibn 'Abbas (RA), and its verb is worth noticing. Ibn 'Abbas says the verse prepares Muhammad ﷺ, readying him for the fact that Allah would make for him an enemy from the criminals, as He had made for those before him. On this reading the verse is preparation as well as comfort: what was still to come would be met as something every prophet had met.",
+            "bn": "তাবারী তাঁর ব্যাখ্যার পক্ষে ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন, আর তার ক্রিয়াপদটা খেয়াল করার মতো। ইবন আব্বাস বলেন, আয়াতটি মুহাম্মাদ ﷺ-কে আগে থেকে প্রস্তুত করছে। তাঁর মনকে তৈরি করছে এ কথার জন্য যে আল্লাহ তাঁর জন্যও অপরাধীদের মধ্য থেকে শত্রু বানাবেন, যেমন বানিয়েছিলেন তাঁর আগের নবীদের জন্য। এভাবে পড়লে আয়াতটি সান্ত্বনার পাশাপাশি প্রস্তুতিও। সামনে যা আসবে, তা আসবে এমন জিনিস হিসেবে, যার মুখোমুখি প্রত্যেক নবীই হয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Criminals Near at Hand",
+          "bn": "কাছের মানুষই অপরাধী"
+        },
+        "p": [
+          {
+            "en": "The verse says min al-mujrimin, from among the criminals, and the commentators name them in the terms of the setting. Al-Baghawi says plainly that the criminals are the idolaters. At-Tabari and the Muyassar both speak of the idolaters, or the criminals, of each prophet's own people, so the enemy is someone near, not a stranger. As-Sa'di describes them by character: those not fit for good and not purified by it, who oppose the prophets, answer them back and dispute with them by falsehood.",
+            "bn": "আয়াত বলছে মিনাল মুজরিমীন, অপরাধীদের মধ্য থেকে। তাফসীরকারেরা প্রেক্ষাপটের ভাষাতেই তাদের পরিচয় দেন। বাগাভী সোজা বলেন, অপরাধী মানে মুশরিকরা। তাবারী আর মুয়াসসার দুজনেই বলেন প্রত্যেক নবীর নিজের জাতির মুশরিক বা অপরাধীদের কথা। অর্থাৎ শত্রু কাছের মানুষ, দূরের অচেনা কেউ নয়। সা'দী তাদের চেনান স্বভাব দিয়ে: যারা কল্যাণের উপযুক্ত নয়, কল্যাণ পেয়েও যাদের পরিশুদ্ধি আসে না। তারা নবীদের বিরোধিতা করে, তাঁদের কথা ফিরিয়ে দেয়, আর বাতিল দিয়ে তাঁদের সঙ্গে তর্ক করে।"
+          },
+          {
+            "en": "Al-Qurtubi names the Prophet's own enemy. As We made for you, Muhammad, an enemy from the idolaters of your people, he writes, and adds that this was Abu Jahl in the saying of Ibn 'Abbas (RA); at the end of his entry he repeats that Ibn 'Abbas named Abu Jahl as the enemy of the Prophet ﷺ. The other commentaries fetched for this verse name no one. They keep the verse's wide sense, an enmity that every prophet met, and leave the individual faces to the history books.",
+            "bn": "কুরতুবী নবী ﷺ-এর নিজের শত্রুর নাম বলেন। তিনি লেখেন, হে মুহাম্মাদ, যেভাবে তোমার জাতির মুশরিকদের মধ্য থেকে তোমার জন্য শত্রু বানিয়েছি। তারপর যোগ করেন, ইবন আব্বাস (রাঃ)-এর কথা অনুযায়ী সে ছিল আবু জাহল। তাঁর আলোচনার শেষেও তিনি আবার উল্লেখ করেন যে ইবন আব্বাস আবু জাহলকেই নবী ﷺ-এর শত্রু বলেছেন। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, বাকিগুলো কারও নাম নেয় না। তারা আয়াতের বিস্তৃত অর্থটাই ধরে রাখে, অর্থাৎ এমন শত্রুতা যার মুখোমুখি প্রত্যেক নবী হয়েছেন। আলাদা আলাদা চেহারার কথা তারা ইতিহাসের হাতে ছেড়ে দেয়।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the opponents of the prophets, and in this setting the idolaters of the Prophet's own people who turned others away from the Qur'an. It licenses nothing against any living person or community. It gives no one today the standing to call a neighbour, a relative or a rival the criminal of this verse, or to treat whoever disagrees with him as an enemy appointed against the truth. The word belongs to the record of the prophets, not to anyone's quarrel.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি সেটুকুই বর্ণনা করে যা এর ভাষায় আছে: নবীদের বিরোধীরা, আর এই প্রেক্ষাপটে নবী ﷺ-এর নিজের জাতির সেই মুশরিকরা, যারা অন্যদের কুরআন থেকে ফিরিয়ে রাখত। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিবেশী, আত্মীয় বা প্রতিদ্বন্দ্বীকে এ আয়াতের অপরাধী বলে দাগিয়ে দেওয়ার অধিকার এটি কাউকে দেয় না। যে দ্বিমত করে, তাকে সত্যের বিরুদ্ধে নিযুক্ত শত্রু ভাবারও অধিকার দেয় না। শব্দটা নবীদের ইতিহাসের, কারও ব্যক্তিগত ঝগড়ার নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patient as the Resolute Were",
+          "bn": "দৃঢ়প্রতিজ্ঞদের মতো সবর"
+        },
+        "p": [
+          {
+            "en": "The comparison carries an instruction, and at-Tabari draws it out: so be patient with what reaches you from them, as the resolute among Our messengers were patient before you. Al-Baghawi relays from Muqatil the same counsel in a more personal voice: let it not weigh heavily on you, for the prophets before you met this from their peoples, so be patient with My command as they were patient, for I am your helper and your guide. The Muyassar says it briefly: be patient as they were patient.",
+            "bn": "তুলনার ভেতরেই একটা নির্দেশ আছে, তাবারী সেটা বের করে আনেন: তাদের কাছ থেকে তোমার উপর যা আসে, তাতে সবর করো, যেমন তোমার আগে আমার রসূলদের মধ্যে উলুল আযম, অর্থাৎ দৃঢ়প্রতিজ্ঞরা সবর করেছিলেন। বাগাভী মুকাতিল থেকে একই উপদেশ আনেন আরও আপন সুরে: এটা যেন তোমার কাছে ভারী না ঠেকে। তোমার আগের নবীরাও নিজেদের জাতির কাছ থেকে এমনটাই পেয়েছেন। কাজেই আমার হুকুমের উপর সবর করো, যেমন তাঁরা করেছিলেন। আমিই তোমার সাহায্যকারী, আমিই পথপ্রদর্শক। মুয়াসসার কথাটা বলে অল্প কথায়: তাঁরা যেমন সবর করেছেন, তুমিও করো।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an puts the point in its own terms: if your adversaries do not accept the Qur'an, it is nothing new, for the messengers before had to contend with the same. The surah itself goes on to show it. A few verses later it turns to Musa (AS) and Harun (AS), sent to a people who denied, and then to the people of Nuh (AS), in 25:35 to 25:37. The verse states the rule, and the verses after it begin calling the witnesses.",
+            "bn": "মাআরিফুল কুরআন কথাটা বলে নিজের ভাষায়: তোমার বিরোধীরা কুরআন না মানলে তা নতুন কিছু নয়। আগের রসূলদেরও একই জিনিসের মোকাবিলা করতে হয়েছে। সূরাটি নিজেই সামনে গিয়ে তা দেখায়। কয়েক আয়াত পরেই আসে মূসা (আঃ) ও হারূন (আঃ)-এর কথা, যাঁদের পাঠানো হয়েছিল মিথ্যারোপকারী এক জাতির কাছে। তারপর আসে নূহ (আঃ)-এর জাতি, ২৫:৩৫ থেকে ২৫:৩৭ আয়াতে। আমাদের আয়াত নিয়মটা জানিয়ে দেয়, আর পরের আয়াতগুলো একে একে সাক্ষী হাজির করতে শুরু করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Resistance Makes Plain",
+          "bn": "বাধা যা পরিষ্কার করে দেয়"
+        },
+        "p": [
+          {
+            "en": "Why would Allah make such enemies at all? As-Sa'di answers on this verse with some of the benefits of the arrangement. One is that truth rises above falsehood. Another is that the truth becomes plain and very clear, because falsehood's resistance to it only adds to its clarity, its exposition and the completeness of its proof. A third is that it becomes evident what Allah does with the people of truth, in honour, and with the people of falsehood, in punishment. The enmity is real, and it is made to serve the truth it attacks.",
+            "bn": "আল্লাহ এমন শত্রু বানান কেন? এ আয়াতের আলোচনায় সা'দী এই ব্যবস্থার কিছু উপকারিতা দিয়ে উত্তর দেন। একটি হলো, হক বাতিলের উপরে ওঠে। আরেকটি হলো, হক স্পষ্ট হয়, খুব স্পষ্ট হয়। কারণ বাতিল যখন হকের বিরোধিতা করে, তাতে হকের স্বচ্ছতা বাড়ে, ব্যাখ্যা খোলে, দলিল পূর্ণ হয়। তৃতীয়টি হলো, স্পষ্ট হয়ে যায় আল্লাহ হকপন্থীদের কীভাবে সম্মান দেন আর বাতিলপন্থীদের কীভাবে শাস্তি দেন। শত্রুতাটা সত্যি। তবু তাকে কাজে লাগানো হয় সেই হকেরই সেবায়, যার উপর সে আঘাত করে।"
+          },
+          {
+            "en": "From that he draws a word for the Prophet's heart: so do not grieve over them, and do not let your soul waste away in regrets for them. Ibn Kathir cites 6:112 and 6:113 beside this verse, where the same sentence of appointment names the enemies as devils of mankind and the jinn, and that verse has its own article. Here the point is narrower: the enmity has a wisdom behind it.",
+            "bn": "এখান থেকে তিনি নবী ﷺ-এর মনের জন্য একটা কথা বের করেন: তাদের জন্য দুঃখ কোরো না, আফসোসে নিজেকে শেষ করে দিয়ো না। ইবন কাসীর এ আয়াতের পাশে ৬:১১২ ও ৬:১১৩ উদ্ধৃত করেন। সেখানেও শত্রু বানানোর একই বাক্য আছে, তবে শত্রুদের বলা হয়েছে মানুষ ও জিনের শয়তান। সে আয়াতের নিজস্ব আলোচনা আলাদা আছে। এখানে কথাটা আরও সরু: শত্রুতার পেছনে হিকমত আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enough as Guide and Helper",
+          "bn": "পথপ্রদর্শক ও সাহায্যকারী হিসেবে যথেষ্ট"
+        },
+        "p": [
+          {
+            "en": "Then the verse turns: wa kafa bi-rabbika hadiyan wa nasiran, and your Lord suffices as a guide and a helper. At-Tabari keeps the address on the Prophet ﷺ: your Lord is enough for you, Muhammad, as a guide who guides you to the truth and shows you what is right, and as a helper who helps you against your enemies. As-Sa'di widens what each word reaches. The guide guides you so that you attain what you seek, and what is good for your religion and your world.",
+            "bn": "তারপর আয়াতের মোড় ঘোরে: ওয়া কাফা বিরব্বিকা হাদিয়ান ওয়া নাসীরা, পথপ্রদর্শক ও সাহায্যকারী হিসেবে তোমার রবই যথেষ্ট। তাবারী সম্বোধনটা নবী ﷺ-এর উপরেই রাখেন: হে মুহাম্মাদ, তোমার রবই তোমার জন্য যথেষ্ট। তিনি এমন পথপ্রদর্শক যিনি তোমাকে হকের দিকে নিয়ে যান, সঠিক পথ দেখিয়ে দেন। আর এমন সাহায্যকারী যিনি শত্রুর বিরুদ্ধে তোমাকে সাহায্য করেন। সা'দী প্রতিটি শব্দের পরিধি আরও বাড়ান। পথপ্রদর্শক তোমাকে পথ দেখান, ফলে তুমি যা চাও তা পাও, আর পাও দীন ও দুনিয়ার কল্যাণ।"
+          },
+          {
+            "en": "On the second word as-Sa'di writes that the helper helps you against your enemies and turns away from you every harm, in religion and in worldly matters. His conclusion is a command in two parts: so be content with Him, and rely on Him. At-Tabari's conclusion is close in spirit but turned towards the mission: let your enemies among the idolaters not frighten you, for I am your helper against them, so be patient with My command and go on delivering My message to them.",
+            "bn": "দ্বিতীয় শব্দটি নিয়ে সা'দী লেখেন, সাহায্যকারী শত্রুর বিরুদ্ধে তোমাকে সাহায্য করেন, আর দীন ও দুনিয়ার সব অপছন্দনীয় জিনিস তোমার থেকে সরিয়ে দেন। তাঁর উপসংহার দুই ভাগের এক হুকুম: কাজেই তাঁকেই যথেষ্ট মনে করো, আর তাঁর উপরই তাওয়াক্কুল করো। তাবারীর উপসংহার কাছাকাছি, তবে তার মুখ দাওয়াতের কাজের দিকে: মুশরিকদের মধ্যে তোমার শত্রুরা যেন তোমাকে ভয় পাইয়ে না দেয়। আমিই তাদের বিরুদ্ধে তোমার সাহায্যকারী। কাজেই আমার হুকুমের উপর সবর করো, আর তাদের কাছে আমার বার্তা পৌঁছে দিতে থাকো।"
+          },
+          {
+            "en": "Al-Qurtubi adds a note of grammar. The two words hadiyan and nasiran stand in the accusative either as a state, hal, or as a specification, tamyiz: your Lord suffices in the role of guide and helper, or suffices as to guiding and helping. Either way his gloss ends on the same practical line: He guides you and helps you, so pay no heed to whoever shows you enmity. One Lord meets two needs. The one who is opposed must keep to the way, and must not be overpowered on it.",
+            "bn": "কুরতুবী ব্যাকরণের একটা কথা যোগ করেন। হাদিয়ান আর নাসীরা শব্দ দুটি যবরযুক্ত, হয় হাল হিসেবে, নয়তো তাময়ীয হিসেবে। প্রথম মতে অর্থ, পথপ্রদর্শক ও সাহায্যকারীর ভূমিকায় তোমার রবই যথেষ্ট। দ্বিতীয় মতে অর্থ, পথ দেখানো আর সাহায্য করার ব্যাপারে তিনিই যথেষ্ট। যেভাবেই পড়া হোক, তাঁর ব্যাখ্যা শেষ হয় একই কাজের কথায়: তিনি তোমাকে পথ দেখান, তোমাকে সাহায্য করেন, কাজেই যে তোমার সাথে শত্রুতা করে তার পরোয়া কোরো না। একজন রব দুটি প্রয়োজন মেটান। যার বিরোধিতা হচ্ছে, তাকে পথে টিকে থাকতে হয়, আবার সেই পথে পরাজিতও হওয়া চলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "To Him, or to Every Follower",
+          "bn": "শুধু নবীকে, নাকি প্রত্যেক অনুসারীকে"
+        },
+        "p": [
+          {
+            "en": "Here the commentaries differ in emphasis. At-Tabari, al-Baghawi through Muqatil, al-Qurtubi and as-Sa'di all read the closing words as said to the Prophet ﷺ: your Lord is your guide and your helper. Ibn Kathir reads them wider. Your Lord suffices, he writes, for whoever follows His Messenger, believes in His Book, affirms it and follows it, for Allah is his guide and his helper in this world and the Hereafter. Both readings sit in the words, and neither commentator argues against the other.",
+            "bn": "এখানে তাফসীরগুলোর জোর পড়ে ভিন্ন জায়গায়। তাবারী, মুকাতিলের সূত্রে বাগাভী, কুরতুবী আর সা'দী সবাই শেষ বাক্যটি পড়েন নবী ﷺ-কে বলা কথা হিসেবে: তোমার রবই তোমার পথপ্রদর্শক, তোমার সাহায্যকারী। ইবন কাসীর পড়েন আরও বিস্তৃত করে। তিনি লেখেন, যে তাঁর রসূলের অনুসরণ করে, তাঁর কিতাবে ঈমান আনে, তাকে সত্য বলে মানে আর মেনে চলে, তার জন্য তোমার রবই যথেষ্ট। দুনিয়া ও আখিরাতে আল্লাহই তার পথপ্রদর্শক ও সাহায্যকারী। দুটি পাঠই আয়াতের শব্দে জায়গা পায়, আর কোনো তাফসীরকার অন্যজনের বিরুদ্ধে যুক্তি দেন না।"
+          },
+          {
+            "en": "Ibn Kathir also explains why these two words were chosen. The idolaters, he says, used to block people from following the Qur'an, so that no one would be guided by it, and so that their own way would overcome the way of the Qur'an. Read beside that, guide answers the first aim: they worked to stop guidance, and the Lord Himself guides. Helper answers the second: they wanted their way to win, and the Lord Himself helps. The closing meets the opposition point for point.",
+            "bn": "এই দুটি শব্দই কেন বেছে নেওয়া হলো, ইবন কাসীর তাও ব্যাখ্যা করেন। তিনি বলেন, মুশরিকরা মানুষকে কুরআনের অনুসরণ থেকে বাধা দিত, যাতে কেউ এর দ্বারা হিদায়াত না পায়, আর যাতে তাদের নিজেদের পথ কুরআনের পথকে হারিয়ে দেয়। এর পাশে রেখে পড়লে, পথপ্রদর্শক শব্দটি প্রথম উদ্দেশ্যের জবাব। তারা হিদায়াত আটকাতে চেয়েছিল, আর রব নিজেই হিদায়াত দেন। সাহায্যকারী শব্দটি দ্বিতীয় উদ্দেশ্যের জবাব। তারা নিজেদের পথের জয় চেয়েছিল, আর রব নিজেই সাহায্য করেন। শেষ বাক্যটি বিরোধিতার প্রতিটি দিকের মুখোমুখি দাঁড়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Narrations Near the Verse",
+          "bn": "আয়াতের আশেপাশের বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it. Al-Qurtubi and Ma'arif al-Qur'an, discussing the abandonment of 25:30, both relay from ath-Tha'labi a report traced to Anas (RA) about a person who learns the Qur'an and then neglects it. Neither of them gives it a grading, and its source is not one that could be checked for this article. It is therefore mentioned here and nothing is built on it.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই একে কোনো সহীহ হাদীসের সঙ্গে যুক্ত করে না। কুরতুবী আর মাআরিফুল কুরআন ২৫:৩০ আয়াতের পরিত্যাগ নিয়ে আলোচনায় সা'লাবী থেকে আনাস (রাঃ)-এর সূত্রে একটি বর্ণনা আনেন। বিষয় এমন একজন, যে কুরআন শিখে তারপর অবহেলা করে। দুজনের কেউই এর মান উল্লেখ করেন না, আর এর উৎস এই আলোচনার জন্য যাচাই করা যায়নি। তাই এখানে শুধু এর উল্লেখটুকু থাকল, এর উপর কিছু দাঁড় করানো হলো না।"
+          },
+          {
+            "en": "In a general narration not attached to this verse, at-Tirmidhi reports from Mus'ab ibn Sa'd, from his father, that a man asked the Messenger of Allah ﷺ who is tried most severely. He said: The Prophets, then those nearest to them, then those nearest to them. A man is tried according to his religion; if he is firm in his religion, then his trials are more severe, and if he is frail in his religion, then he is tried according to the strength of his religion. The servant shall continue to be tried until he is left walking upon the earth without any sins. He grades it hasan sahih.",
+            "bn": "এ আয়াতের সঙ্গে যুক্ত নয় এমন একটি সাধারণ বর্ণনায় তিরমিযী মুসআব ইবন সা'দ থেকে, তিনি তাঁর পিতা থেকে বর্ণনা করেন যে এক ব্যক্তি আল্লাহর রসূল ﷺ-কে জিজ্ঞেস করল, মানুষের মধ্যে সবচেয়ে কঠিন পরীক্ষা কাদের হয়? তিনি বললেন: নবীদের, তারপর যারা তাঁদের নিকটবর্তী, তারপর যারা তাদের নিকটবর্তী। মানুষকে পরীক্ষা করা হয় তার দীন অনুযায়ী। তার দীন মজবুত হলে পরীক্ষাও কঠিন হয়, আর দীনে দুর্বলতা থাকলে দীনের সেই মাপ অনুযায়ী পরীক্ষা হয়। বান্দার উপর পরীক্ষা চলতেই থাকে, শেষে তাকে এমন অবস্থায় ছেড়ে দেয় যে সে পৃথিবীর উপর হেঁটে বেড়ায়, তার উপর কোনো গুনাহ থাকে না। তিরমিযী একে হাসান সহীহ বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eyes Moved Off the Enemy",
+          "bn": "শত্রু থেকে চোখ সরিয়ে"
+        },
+        "p": [
+          {
+            "en": "Look at the shape of the verse. Its first half is about the enemy, and its second half does not mention him again. It ends on your Lord, a guide and a helper. Someone opposed can spend all his attention on the opponent. The verse moves the eye elsewhere. At-Tabari's gloss ends not on the enemy's defeat but on the work: be patient with My command, and go on delivering My message.",
+            "bn": "আয়াতের গড়নটা লক্ষ করুন। প্রথম অর্ধেক শত্রুকে নিয়ে, আর দ্বিতীয় অর্ধেকে তার নাম আর আসেই না। আয়াত শেষ হয় আপনার রবের কথায়, যিনি পথপ্রদর্শক ও সাহায্যকারী। যার বিরোধিতা হচ্ছে, সে চাইলে পুরো মনোযোগ বিরোধীর পেছনেই খরচ করতে পারে। আয়াত চোখটা অন্যদিকে ঘুরিয়ে দেয়। তাবারীর ব্যাখ্যাও শত্রুর পরাজয়ে শেষ হয় না, শেষ হয় কাজের কথায়: আমার হুকুমের উপর সবর করো, আর আমার বার্তা পৌঁছে দিতে থাকো।"
+          },
+          {
+            "en": "As-Sa'di's closing words, be content with Him and rely on Him, turn that into practice: ask for guidance when the way is unclear, ask for help when the weight is too much, and keep doing the work while the asking goes on. The verse also guards the heart from the other side. It names the prophets' enemies, not ours, and it invites no one to go hunting for enemies. Whoever reads it should look first at his own patience, and only last, if at all, at another's hostility.",
+            "bn": "সা'দীর শেষ কথা, তাঁকেই যথেষ্ট মনে করো আর তাঁর উপর তাওয়াক্কুল করো, এটাকেই আমলে নিয়ে আসে। পথ অস্পষ্ট লাগলে হিদায়াত চান। বোঝা বেশি ভারী লাগলে সাহায্য চান। আর চাইতে চাইতেই কাজটা চালিয়ে যান। আয়াতটি অন্য দিক থেকেও মনকে পাহারা দেয়। এখানে নাম এসেছে নবীদের শত্রুদের, আমাদের শত্রুদের নয়। শত্রু খুঁজে বেড়ানোর দাওয়াত এ আয়াত কাউকে দেয় না। যে এটা পড়বে, সে আগে দেখুক নিজের সবর কতটুকু। অন্যের শত্রুতার দিকে তাকানো থাকুক সবার শেষে, যদি আদৌ তাকাতে হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "25:35": {
     "sections": [
       {
