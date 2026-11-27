@@ -37813,6 +37813,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Think of Allah only as He has described Himself, and answer His countless favours with thanks, not with complaints that forget them.",
     "lessonBn": "আল্লাহকে কেবল সেভাবেই ভাবুন, যেভাবে তিনি নিজের পরিচয় দিয়েছেন। আর তাঁর অগণিত নিয়ামতের জবাব দিন শুকরিয়া দিয়ে, নিয়ামত ভুলে যাওয়া অভিযোগ দিয়ে নয়।"
+  },
+  "43:33": {
+    "reflectionEn": "Picture a street where every house that rejects the Most Merciful has a roof of silver and silver stairs climbing to it, and, in the next two verses, doors, couches and gold besides. The verse says Allah would have built that street, were it not that people would all have walked into disbelief to live on it. What was held back was held back for their sake, so that no one would read wealth as a sign of His love. That turns a question back on me. When I see someone with more, do I take it as proof that they are favoured? When I have less, do I take it as proof that I am forgotten? Provision is real, but this verse will not let it be a verdict.",
+    "reflectionBn": "এমন এক রাস্তার কথা ভাবুন, যেখানে দয়াময়কে অস্বীকারকারী প্রতিটি ঘরের ছাদ রুপার, ছাদে ওঠার সিঁড়িও রুপার। পরের দুই আয়াতে আরও আছে দরজা, পালঙ্ক আর সোনা। আয়াত বলছে, আল্লাহ এমন রাস্তা বানিয়েই দিতেন, যদি না এই আশঙ্কা থাকত যে সবাই সেখানে থাকার লোভে কুফরিতে ঢুকে পড়বে। যা আটকে রাখা হয়েছে, তা মানুষের ভালোর জন্যই আটকে রাখা হয়েছে, যাতে কেউ সম্পদকে তাঁর ভালোবাসার চিহ্ন বলে না ভাবে। প্রশ্নটা তাই আমার দিকেই ফিরে আসে। কারও হাতে বেশি দেখলে আমি কি মনে মনে ধরে নিই, সে আল্লাহর প্রিয়? নিজের হাতে কম থাকলে কি ধরে নিই, আমাকে ভুলে যাওয়া হয়েছে? রিজিক সত্য, কিন্তু এ আয়াত রিজিককে কারও মর্যাদার রায় হতে দেয় না।",
+    "pointsEn": [
+      "When I see wealth in someone's house, what conclusion about them do I draw without noticing?",
+      "Is there something I was denied that, looking back, protected my faith more than it would have served my comfort?",
+      "If silver roofs were offered on a condition that cost me my faith, how quickly would I recognise the price?",
+      "What would change in my week if I stopped measuring Allah's pleasure by the size of my provision?",
+      "Am I working harder for what 43:35 calls the enjoyment of this life than for what it says is with my Lord for the God-fearing?"
+    ],
+    "pointsBn": [
+      "কারও ঘরে সম্পদ দেখলে না বুঝেই আমি তার সম্পর্কে কোন সিদ্ধান্ত টেনে ফেলি?",
+      "এমন কিছু কি আছে যা আমি পাইনি, আর এখন পেছন ফিরে দেখি তা না পাওয়াটাই আমার ঈমানকে রক্ষা করেছে, পেলে যতটা আরাম দিত তার চেয়ে বেশি?",
+      "ঈমানের বিনিময়ে যদি রুপার ছাদ সাধা হয়, দামটা কত তাড়াতাড়ি আমি চিনতে পারব?",
+      "রিজিকের পরিমাণ দিয়ে আল্লাহর সন্তুষ্টি মাপা যদি ছেড়ে দিই, আমার এ সপ্তাহের কোন জিনিসটা বদলে যাবে?",
+      "৪৩:৩৫ যাকে দুনিয়ার জীবনের ভোগ বলেছে, তার পেছনে কি আমি বেশি খাটছি, আর যা মুত্তাকিদের জন্য আমার রবের কাছে আছে বলেছে, তার পেছনে কম?"
+    ],
+    "lessonEn": "Wealth is no sign of Allah's love and want is no sign of His neglect; He may hold the world back in mercy, so weigh yourself by faith, not by provision.",
+    "lessonBn": "সম্পদ আল্লাহর ভালোবাসার প্রমাণ নয়, অভাবও তাঁর অবহেলার প্রমাণ নয়। তিনি রহমত করেই দুনিয়া আটকে রাখতে পারেন। তাই নিজেকে মাপুন ঈমান দিয়ে, রিজিক দিয়ে নয়।"
   }
 };
 

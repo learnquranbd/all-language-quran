@@ -1775,6 +1775,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:33": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Offer Held Back",
+          "bn": "যে দান আটকে রাখা হলো"
+        },
+        "p": [
+          {
+            "en": "The objectors of 43:31 wanted the Qur'an sent down to a great man of the two towns, and 43:32 answered that it is Allah who apportions their livelihood among them. Ma'arif al-Qur'an calls this verse the second reply to that demand: abundance of wealth cannot be the ground on which a prophet is chosen. Wa-lawla an yakuna n-nasu ummatan wahidatan: and were it not that people would become one community, We would have made for those who disbelieve in the Most Merciful roofs of silver for their houses, and stairways on which they climb.",
+            "bn": "৪৩:৩১ আয়াতের আপত্তিকারীরা চেয়েছিল, কুরআন নাযিল হোক দুই জনপদের কোনো গণ্যমান্য লোকের উপর। ৪৩:৩২ জবাব দিয়েছে, তাদের জীবিকা তাদের মধ্যে বণ্টন করেন আল্লাহই। মাআরিফুল কুরআন এ আয়াতকে বলে সেই দাবির দ্বিতীয় জবাব: অঢেল ধনসম্পদ নবী বাছাইয়ের ভিত্তি হতে পারে না। ওয়া লাওলা আন ইয়াকূনান নাসু উম্মাতাঁও ওয়াহিদাহ: মানুষ একই জাতিতে পরিণত হবে, এ কথা না থাকলে যারা দয়াময়কে অস্বীকার করে, তাদের ঘরের জন্য আমি রুপার ছাদ বানিয়ে দিতাম, আর সিঁড়ি, যা বেয়ে তারা উপরে উঠত।"
+          },
+          {
+            "en": "The verse is one sentence of seventeen Arabic words. Lawla, were it not for, names the obstacle; la-ja'alna, We would surely have made, names what the obstacle prevented. 43:34 adds doors for their houses and couches on which they recline, which Ibn Kathir and as-Sa'di both say would be of silver, and 43:35 adds zukhruf, which Ibn Kathir, after Ibn Abbas, Qatada, as-Suddi and Ibn Zayd, glosses as gold. Then 43:35 closes the list: all of that is only the enjoyment of the life of this world, and the Hereafter with your Lord is for the God-fearing.",
+            "bn": "আয়াতটি সতেরো আরবি শব্দের একটিমাত্র বাক্য। লাওলা মানে 'যদি না থাকত', এ শব্দ বাধাটার নাম বলে। লাজাআলনা মানে 'আমি অবশ্যই বানিয়ে দিতাম', এ শব্দ বলে বাধাটা কী ঠেকিয়ে রেখেছে। ৪৩:৩৪ যোগ করে ঘরের দরজা আর হেলান দেওয়ার পালঙ্ক। ইবন কাসীর ও সা'দী দুজনেই বলেন, এগুলোও হতো রুপার। ৪৩:৩৫ যোগ করে যুখরুফ। ইবন আব্বাস (রাঃ), কাতাদা, সুদ্দী ও ইবন যায়দের সূত্রে ইবন কাসীর এর অর্থ করেন সোনা। তারপর ৪৩:৩৫ নিজেই তালিকার ইতি টানে: এসবই দুনিয়ার জীবনের ভোগ মাত্র, আর আখিরাত আপনার রবের কাছে মুত্তাকিদের জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gathered Upon What",
+          "bn": "কিসের উপর এক হওয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses umma here as a single group, then notes that the people of interpretation differed over which gathering Allah guarded against. Some said it was a gathering in disbelief: were it not that people would be one community upon disbelief, all of them becoming disbelievers. He reports it from Ibn Abbas, who has Allah say: were it not that I would make all people disbelievers, I would have given the disbelievers roofs of silver for their houses. He reports it from Qatada, disbelievers all of them, and from as-Suddi, disbelievers upon one religion. Al-Baghawi and al-Muyassar read the verse the same way.",
+            "bn": "তাবারী এখানে উম্মাহ শব্দের অর্থ করেন একটিমাত্র দল। তারপর জানান, আল্লাহ কোন ধরনের একজোট হওয়া ঠেকাতে চেয়েছেন, তা নিয়ে তাফসীরকারদের মতভেদ আছে। একদল বলেছেন, কুফরির উপর একজোট হওয়া। অর্থাৎ মানুষ কুফরির উপর এক জাতি হয়ে সবাই কাফির হয়ে যাবে, এ কথা না থাকলে। তিনি মতটি এনেছেন ইবন আব্বাস (রাঃ) থেকে, যাঁর ভাষ্যে আল্লাহ বলছেন: সব মানুষকে কাফির বানিয়ে ফেলার কথা না থাকলে আমি কাফিরদের ঘরের জন্য রুপার ছাদ বানিয়ে দিতাম। কাতাদা থেকে এনেছেন: সবাই কাফির। সুদ্দী থেকে: এক ধর্মের উপর কাফির। বাগাভী ও মুয়াসসারও আয়াতটি এভাবেই পড়েন।"
+          },
+          {
+            "en": "Others said the gathering would be upon seeking this world and turning down the Hereafter. At-Tabari gives this from Ibn Zayd: were it not that people would choose their world over their religion, We would have made this for the people of disbelief. Al-Hasan's wording, in at-Tabari, joins the two: were it not that people would all be disbelievers, inclining towards the world. At-Tabari sets the two views side by side and, in this passage, does not choose between them.",
+            "bn": "আরেকদল বলেছেন, একজোট হওয়াটা হতো দুনিয়া খোঁজা আর আখিরাত ছেড়ে দেওয়ার উপর। তাবারী এ মত এনেছেন ইবন যায়দ থেকে: মানুষ যদি দ্বীনের চেয়ে দুনিয়াকে বেছে না নিত, তবে কুফরিওয়ালাদের জন্য আমি এসব বানিয়ে দিতাম। তাবারীর বর্ণনায় হাসান বসরীর কথাটি দুটো মতকে মিলিয়ে দেয়: মানুষ দুনিয়ার দিকে ঝুঁকে সবাই কাফির হয়ে যাবে, এ কথা না থাকলে। তাবারী এখানে দুটি মত পাশাপাশি রেখেছেন, কোনোটিকে বেছে নেননি।"
+          },
+          {
+            "en": "Al-Qurtubi adds a third reading, from al-Kisa'i: were it not that among the disbelievers there are rich and poor, and among the Muslims likewise, We would have given the disbelievers this much of the world, because of how little it is worth. The gloss keeps wealth and want on both sides, so that neither side would be marked out by riches alone. Ma'arif al-Qur'an adds a note on scope: when the verse says that all people would have become disbelievers, it means most of them. Some would have held to their faith even then, but their number would have been very small.",
+            "bn": "কুরতুবী তৃতীয় এক ব্যাখ্যা এনেছেন কিসাঈ থেকে: কাফিরদের মধ্যে ধনী-গরিব আছে, মুসলমানদের মধ্যেও তেমনই আছে, এ কথা না থাকলে আমি কাফিরদের দুনিয়ার এতটা দিয়ে দিতাম, কারণ দুনিয়ার দাম খুবই সামান্য। এ ব্যাখ্যায় ধন আর অভাব দুই দিকেই থেকে যায়, যাতে শুধু সম্পদ দিয়ে কোনো পক্ষকে আলাদা করে চেনা না যায়। মাআরিফুল কুরআন পরিধি নিয়ে একটা কথা যোগ করে। সব মানুষ কাফির হয়ে যেত, আয়াতের এ কথার মানে অধিকাংশ মানুষ। কেউ কেউ তখনো ঈমানের উপর অটল থাকত, তবে তাদের সংখ্যা হতো খুবই কম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wealth Mistaken for Love",
+          "bn": "সম্পদকে ভালোবাসা ভাবার ভুল"
+        },
+        "p": [
+          {
+            "en": "Why would silver roofs turn people to disbelief? Ibn Kathir names the error they would fall into: many ignorant people would believe that Our giving wealth is a sign that We love whoever receives it, and so they would gather on disbelief for the sake of wealth. He says this is the meaning of what Ibn Abbas, al-Hasan, Qatada, as-Suddi and others said. The danger, on this reading, is a false inference drawn from a gift.",
+            "bn": "রুপার ছাদ মানুষকে কুফরির দিকে টানবে কেন? মানুষ কোন ভুলে পড়ত, ইবন কাসীর তা স্পষ্ট বলে দেন। অনেক অজ্ঞ মানুষ ভাবত, আমি যাকে সম্পদ দিই, সম্পদ দেওয়াটাই তাকে ভালোবাসার প্রমাণ। ফলে সম্পদের লোভে তারা কুফরির উপর একজোট হয়ে যেত। তিনি বলেন, ইবন আব্বাস (রাঃ), হাসান, কাতাদা, সুদ্দী প্রমুখের কথার অর্থ এটাই। এ ব্যাখ্যায় বিপদটা দানে নয়, দান থেকে টানা ভুল সিদ্ধান্তে।"
+          },
+          {
+            "en": "Al-Qurtubi places the cause in the heart. The world is so slight with Him, he says after the scholars, that He would have made the houses of the disbelievers and their stairs of gold and silver, were it not that love of the world overpowers hearts, and that this would carry people into disbelief. At-Tabari and al-Qurtubi both report al-Hasan's oath on the verse: by Allah, the world has already swayed most of its people, and He has not done that; so how would it be if He had? The remark measures the verse against what anyone can already see.",
+            "bn": "কুরতুবী কারণটা খোঁজেন মানুষের অন্তরে। আলেমদের বরাতে তিনি বলেন, তাঁর কাছে দুনিয়া এতই তুচ্ছ যে তিনি কাফিরদের ঘর আর সিঁড়ি সোনা-রুপা দিয়ে বানিয়ে দিতেন। বাধা শুধু এই যে, দুনিয়ার ভালোবাসা মানুষের অন্তরকে কাবু করে ফেলে, আর সেটাই তাদের কুফরির দিকে টেনে নিত। এ আয়াত প্রসঙ্গে হাসান বসরীর একটি কসম তাবারী ও কুরতুবী দুজনেই বর্ণনা করেছেন: আল্লাহর কসম, দুনিয়া তো এমনিতেই তার অধিকাংশ বাসিন্দাকে টেনে নিয়েছে, অথচ তিনি এমনটা করেননি। করলে কী হতো? যা সবাই চোখের সামনে দেখছে, কথাটি আয়াতকে সেই বাস্তবতার পাশে দাঁড় করায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Held Back as a Mercy",
+          "bn": "রহমত বলেই আটকে রাখা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's first question on the verse begins with what the scholars said: it speaks of the lowliness of the world and how little it weighs, and of how slight it is with Him. Al-Hasan's gloss in al-Qurtubi gives the same reason for the offer: were it not that all people would disbelieve through their inclination to the world and their leaving the Hereafter, We would have given them in this world what We described, because of the world's lowliness with Allah. Al-Qurtubi says that most commentators, Ibn Abbas, as-Suddi and others, hold this view.",
+            "bn": "আয়াতের উপর কুরতুবীর প্রথম মাসআলা শুরু হয় আলেমদের কথা দিয়ে: আয়াতটি দুনিয়ার তুচ্ছতা আর তার সামান্য মূল্যের কথা বলে, বলে তাঁর কাছে দুনিয়া কত হালকা। কুরতুবীতে হাসান বসরীর ব্যাখ্যাও একই কারণ দেখায়। দুনিয়ার দিকে ঝুঁকে আর আখিরাত ছেড়ে সব মানুষ কাফির হয়ে যাবে, এ কথা না থাকলে আমি দুনিয়াতেই তাদের সেসব দিয়ে দিতাম, যার বর্ণনা দিয়েছি। কারণ আল্লাহর কাছে দুনিয়া তুচ্ছ। কুরতুবী বলেন, অধিকাংশ মুফাসসির এ মতেই আছেন, যেমন ইবন আব্বাস (রাঃ), সুদ্দী প্রমুখ।"
+          },
+          {
+            "en": "As-Sa'di's comment on this verse, which the quran.com files place under 43:32, names what did the holding back. Allah tells, he writes, that the world is worth nothing to Him, and that were it not for His kindness and mercy to His servants, which He puts before everything, He would have widened the world for those who disbelieve, and widened it greatly. Commenting on the list as it closes in 43:35, he draws a wider lesson: Allah withholds some matters of this world from His servants, from all of them or from some, for their own good.",
+            "bn": "এ আয়াতের উপর সা'দীর আলোচনা quran.com-এর ফাইলে রাখা আছে ৪৩:৩২-এর ঘরে। আটকে রাখল কোন জিনিস, সেটা তিনি নাম ধরে বলেন। তাঁর ভাষায়, আল্লাহ জানাচ্ছেন যে দুনিয়া তাঁর কাছে কিছুই না। বান্দাদের প্রতি তাঁর দয়া আর রহমত, যাকে তিনি সবকিছুর আগে রাখেন, তা না থাকলে তিনি কাফিরদের জন্য দুনিয়াকে প্রশস্ত করে দিতেন, অনেক বেশি প্রশস্ত। ৪৩:৩৫ আয়াতে তালিকা যেখানে শেষ হয়, সেখানে তিনি আরও বড় একটা শিক্ষা টানেন: আল্লাহ বান্দাদের কল্যাণের জন্যই দুনিয়ার কিছু জিনিস তাদের থেকে আটকে রাখেন, কখনো সবার থেকে, কখনো কারও কারও থেকে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an applies this to the objection. Abundance of wealth, it says, cannot make anyone superior, and poverty cannot be taken as a sign that someone is lower in rank. The qualities that prophethood requires were found in the Prophet ﷺ in their perfection, so the demand for a rich man from the two towns was baseless. The verse does not say that silver is evil or that houses should be poor. It says that silver, offered or withheld, tells nobody where they stand with Allah.",
+            "bn": "যে আপত্তি দিয়ে প্রসঙ্গটা শুরু, মাআরিফুল কুরআন সেখান থেকেই শিক্ষা টানে। অঢেল সম্পদ কাউকে শ্রেষ্ঠ বানাতে পারে না, আর দারিদ্র্যকেও কারও নিচু মর্যাদার চিহ্ন ধরা যায় না। নবুওয়তের জন্য যেসব গুণ দরকার, নবী ﷺ-এর মধ্যে তা পূর্ণমাত্রায় ছিল। তাই দুই জনপদের ধনী কাউকে চাওয়ার দাবিটা ছিল ভিত্তিহীন। আয়াত বলছে না যে রুপা খারাপ, কিংবা ঘর গরিবি হালে রাখতে হবে। বলছে, রুপা দেওয়া হোক বা আটকে রাখা হোক, আল্লাহর কাছে কার অবস্থান কোথায়, তা রুপা দিয়ে বোঝা যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Saqfan or Suqufan",
+          "bn": "সাকফান, নাকি সুকুফান"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains suqufan as the tops of their houses, the flat roofs, and Qatada, in his report, says the roof is the highest part of a house. Then the reading. Al-Baghawi says Ibn Kathir the reciter, Abu Ja'far and Abu Amr read saqfan, singular in form and plural in meaning, as in 16:26, the roof fell upon them from above them. The others read suqufan, a plural. At-Tabari assigns saqfan to most readers of Makkah, some of Madinah and most of Basra, and suqufan to some readers of Madinah and most of Kufa.",
+            "bn": "তাবারী সুকুফান শব্দের ব্যাখ্যা করেন তাদের ঘরের উপরিভাগ, অর্থাৎ সমতল ছাদ। তাঁর বর্ণনায় কাতাদা বলেন, ছাদ হলো ঘরের সবচেয়ে উঁচু অংশ। এরপর কিরাআতের প্রশ্ন। বাগাভী জানান, কারী ইবন কাসীর, আবু জা'ফর ও আবু আমর পড়েছেন সাকফান। শব্দটি গঠনে একবচন, অর্থে বহুবচন, যেমন ১৬:২৬ আয়াতে: উপর থেকে ছাদ তাদের উপর ধসে পড়ল। বাকিরা পড়েছেন সুকুফান, বহুবচনে। তাবারীর হিসাবে সাকফান পড়েছেন মক্কার অধিকাংশ কারী, মদিনার কয়েকজন আর বসরার অধিকাংশ। সুকুফান পড়েছেন মদিনার কয়েকজন আর কুফার অধিকাংশ।"
+          },
+          {
+            "en": "The grammarians then differ over what suqufan is the plural of. Al-Baghawi and al-Qurtubi say it is the plural of saqf, like rahn and ruhun, and record that there is no third such pair. At-Tabari explains it as the plural of saqifa or of suquf, but rejects that first view outright: Arabic, he says, has no noun of that pattern gathered into that plural, so whoever made suquf the plural of saqf missed the right way. His verdict on the readings is plain: both are well known and close in meaning, and whoever reads either is right.",
+            "bn": "সুকুফান কোন শব্দের বহুবচন, তা নিয়ে ব্যাকরণবিদদের মতভেদ আছে। বাগাভী ও কুরতুবী বলেন, এটি সাকফের বহুবচন, যেমন রাহন থেকে রুহুন। তাঁরা এ কথাও লিখেছেন যে এমন জোড়া তৃতীয়টি নেই। তাবারী একে সাকীফা বা সুকূফের বহুবচন বলে ব্যাখ্যা করেন, কিন্তু প্রথম মতটি সরাসরি নাকচ করেন। তাঁর যুক্তি, আরবি ভাষায় ওই গঠনের কোনো বিশেষ্যের এমন বহুবচন হয় না। তাই যিনি সুকুফকে সাকফের বহুবচন বানিয়েছেন, তিনি সঠিক পথ হারিয়েছেন। কিরাআত নিয়ে তাঁর রায় সোজা: দুটোই সুপরিচিত, অর্থে কাছাকাছি, যে কোনোটি পড়লেই সঠিক।"
+          },
+          {
+            "en": "Ma'arij are the means of going up. Al-Qurtubi gives the singular as mi'raj, a ladder, and adds that the Night of the Mi'raj takes its name from it; he says the gloss steps is from Ibn Abbas and is the view of the majority. At-Tabari reports Ibn Abbas twice: stairways of silver, and steps by which they climb to the upper rooms; Ibn Zayd: steps of silver; as-Suddi: the means of ascent. Then yazharun. Al-Baghawi and al-Qurtubi both cite the Arab saying zahartu ala s-sath, I got up onto the roof, and al-Qurtubi explains why: whoever climbs above something becomes visible to those looking on.",
+            "bn": "মাআরিজ মানে উপরে ওঠার উপায়। কুরতুবী এর একবচন বলেন মি'রাজ, অর্থাৎ সিঁড়ি। তিনি যোগ করেন, মি'রাজের রাতের নামও এখান থেকেই। সিঁড়ির ধাপ, এ ব্যাখ্যা ইবন আব্বাস (রাঃ)-এর, আর অধিকাংশের মতও এটাই, কুরতুবী জানান। তাবারী ইবন আব্বাস (রাঃ) থেকে দুটি বর্ণনা আনেন: রুপার সিঁড়ি, আর এমন ধাপ যা বেয়ে তারা উপরের কামরায় ওঠে। ইবন যায়দ থেকে: রুপার ধাপ। সুদ্দী থেকে: ওঠার উপায়। তারপর ইয়াযহারূন। বাগাভী ও কুরতুবী দুজনেই আরবদের কথা আনেন: যাহারতু আলাস সাত্‌হ, আমি ছাদের উপর উঠলাম। কুরতুবী কারণও বলেন: কেউ কোনো কিছুর উপরে উঠলে দর্শকদের চোখে সে দৃশ্যমান হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Roof and Its Owner",
+          "bn": "ছাদ কার মালিকানায়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws a ruling from li-buyutihim, for their houses. Some scholars inferred from the verse that the owner of an upper storey has no claim in the roof, because Allah assigned roofs to houses just as He assigned doors to them. Al-Qurtubi says this is the position of Malik, and quotes Ibn al-Arabi: a house is a floor, walls, a roof and a door, and whoever owns the house owns its parts. He then sets out rulings for an upper and a lower storey held by two people, and calls the Prophet's ﷺ parable of the ship, which al-Bukhari records (2493), a foundation for them.",
+            "bn": "লিবুয়ূতিহিম, তাদের ঘরের জন্য, এ কথা থেকে কুরতুবী একটি বিধান বের করেন। কিছু আলেম আয়াত থেকে সিদ্ধান্ত টেনেছেন যে উপরতলার মালিকের ছাদে কোনো হক নেই। কারণ আল্লাহ দরজার মতো ছাদকেও ঘরের অংশ করেছেন। কুরতুবী বলেন, এটি ইমাম মালিকের মত। ইবনুল আরাবীর কথাও তিনি উদ্ধৃত করেন: ঘর মানে মেঝে, দেয়াল, ছাদ আর দরজা, যে ঘরের মালিক সে এর সব অংশের মালিক। এরপর তিনি দুজনের মালিকানায় থাকা উপরতলা আর নিচতলার বিধান সাজান। এর ভিত্তি হিসেবে আনেন নৌকার সেই উপমা, যা নবী ﷺ দিয়েছিলেন আর বুখারী (২৪৯৩) বর্ণনা করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports Beside the Passage",
+          "bn": "প্রসঙ্গের পাশের হাদিস"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a sound hadith to 43:33 itself. Ma'arif al-Qur'an, on the passage 43:33 to 43:35, and Ibn Kathir, on 43:35, both bring a saying that at-Tirmidhi records (2320) from Sahl ibn Sa'd, raised to the Prophet ﷺ, about how much the world weighs with Allah. At-Tirmidhi himself grades it sahih but gharib through this route, so it is only mentioned here and nothing in this article is built on it.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটি ৪৩:৩৩-এর সঙ্গে সরাসরি কোনো সহীহ হাদিস জোড়েনি। মাআরিফুল কুরআন ৪৩:৩৩ থেকে ৪৩:৩৫ পর্যন্ত অংশে, আর ইবন কাসীর ৪৩:৩৫ আয়াতে একটি বাণী আনেন, যা তিরমিযী (২৩২০) সাহল ইবন সা'দ (রাঃ) থেকে নবী ﷺ-এর কথা হিসেবে বর্ণনা করেছেন। বিষয়টা আল্লাহর কাছে দুনিয়ার ওজন। তিরমিযী নিজে একে বলেছেন সহীহ, তবে এ সূত্রে গরীব। তাই এখানে শুধু উল্লেখ করা হলো, এ লেখার কোনো কথা এর উপর দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "Ibn Kathir, in his grouped commentary, places two reports from the Sahih under 43:35. Al-Bukhari (4913) records from Ibn Abbas the long account of Umar: when the Prophet ﷺ had kept away from his wives, Umar found him on a mat of palm leaves with nothing between him and it, saw its marks on his side and wept, saying that Caesar and Khosrau lived as they did while he was the Messenger of Allah. The Prophet ﷺ answered: \"Are you not content that this world should be theirs and the Hereafter ours?\"",
+            "bn": "ইবন কাসীর তাঁর সম্মিলিত আলোচনায় সহীহ গ্রন্থের দুটি বর্ণনা ৪৩:৩৫ আয়াতের নিচে রাখেন। বুখারী (৪৯১৩) ইবন আব্বাস (রাঃ) থেকে উমর (রাঃ)-এর দীর্ঘ ঘটনাটি বর্ণনা করেছেন। নবী ﷺ তখন স্ত্রীদের থেকে আলাদা থাকছিলেন। উমর (রাঃ) গিয়ে দেখেন, তিনি খেজুরপাতার চাটাইয়ের উপর শুয়ে আছেন, মাঝখানে আর কিছু নেই। পাঁজরে চাটাইয়ের দাগ দেখে উমর (রাঃ) কেঁদে ফেলেন। বলেন, কায়সার আর কিসরা কত আরামে আছে, অথচ আপনি আল্লাহর রাসূল! নবী ﷺ জবাব দেন: \"তুমি কি খুশি নও যে দুনিয়া তাদের হোক আর আখিরাত আমাদের?\""
+          },
+          {
+            "en": "The second is a general ruling, not tied by any commentator to this verse as its occasion. Al-Bukhari (5633) records from Hudhayfa that the Prophet ﷺ said: \"Do not drink from vessels of gold and silver, and do not wear silk or brocade, for they are theirs in this world and yours in the Hereafter.\" Ibn Kathir quotes a version of it on 43:35.",
+            "bn": "দ্বিতীয়টি একটি সাধারণ বিধান, কোনো মুফাসসির একে এ আয়াতের শানে নুযুল বলেননি। বুখারী (৫৬৩৩) হুযায়ফা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: \"তোমরা সোনা ও রুপার পাত্রে পান করো না, আর রেশম ও দিবাজ পরো না। কারণ এগুলো দুনিয়ায় তাদের জন্য, আর আখিরাতে তোমাদের জন্য।\" ইবন কাসীর ৪৩:৩৫ আয়াতে এর একটি রূপ উদ্ধৃত করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Provision Is No Verdict",
+          "bn": "রিজিক কোনো রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: an offer Allah held back from those who disbelieve in the Most Merciful, given in answer to particular objectors in Makkah who measured a messenger by wealth. It licenses nothing against any living person or community. It makes no neighbour's fine house a mark of Allah's displeasure, and no one's poverty a mark of His favour or of His neglect. Nor does it condemn wealth as such: the commentators read it as a statement of how little the world weighs with Allah, not as a ban on roofs.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বলে, শুধু তা-ই বলে: দয়াময়কে অস্বীকারকারীদের জন্য আল্লাহ একটি দান আটকে রেখেছেন। কথাটি এসেছে মক্কার সেই নির্দিষ্ট আপত্তিকারীদের জবাবে, যারা রাসূলকে মাপছিল সম্পদ দিয়ে। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশীর সুন্দর বাড়িকে আল্লাহর অসন্তুষ্টির চিহ্ন বানায় না। কারও দারিদ্র্যকেও তাঁর অনুগ্রহ বা অবহেলার চিহ্ন বানায় না। সম্পদকেও এ আয়াত নিন্দা করে না। মুফাসসিররা একে পড়েছেন আল্লাহর কাছে দুনিয়ার সামান্য ওজনের বর্ণনা হিসেবে, ছাদ বানানোর নিষেধ হিসেবে নয়।"
+          },
+          {
+            "en": "For the reader, the verse turns inward. Al-Hasan's question deserves keeping: the world has already swayed most of its people without silver roofs, so what would it do with them? Before envying another's house, or reading our own lack as a judgment, the verse asks each of us what we are leaning on. 43:35 names the scale itself: all of it only the enjoyment of this life, and the Hereafter with your Lord for the God-fearing. And 43:36 goes on to whoever turns dim-eyed from the remembrance of the Most Merciful.",
+            "bn": "পাঠকের জন্য আয়াতটি ভেতরের দিকে ফেরে। হাসান বসরীর প্রশ্নটাই মনে রাখার মতো: রুপার ছাদ ছাড়াই দুনিয়া তার অধিকাংশ বাসিন্দাকে টেনে নিয়েছে, ছাদ থাকলে কী করত? অন্যের বাড়ি দেখে ঈর্ষা করার আগে, কিংবা নিজের অভাবকে কোনো রায় ভাবার আগে, আয়াত আমাদের প্রত্যেককে জিজ্ঞেস করে: আমরা কিসের উপর ভর দিয়ে আছি? মাপকাঠিটা ৪৩:৩৫ নিজেই বলে দেয়: এসবই দুনিয়ার জীবনের ভোগ মাত্র, আর আখিরাত আপনার রবের কাছে মুত্তাকিদের জন্য। তারপর ৪৩:৩৬ কথা বলে তার সম্পর্কে, যে দয়াময়ের জিকির থেকে চোখ ফিরিয়ে নেয়।"
+          }
+        ]
+      }
+    ]
+  },
   "43:36": {
     "sections": [
       {
