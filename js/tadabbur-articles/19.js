@@ -2515,6 +2515,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:55": {
+    "sections": [
+      {
+        "h": {
+          "en": "Praise That Moves Indoors",
+          "bn": "প্রশংসা এবার ঘরের ভেতরে"
+        },
+        "p": [
+          {
+            "en": "The passage on Isma'il (AS) runs over two verses. In 19:54 he is to be mentioned in the Book as one true to his promise, a messenger and a prophet. This verse completes the portrait in two further clauses: wa-kana ya'muru ahlahu bis-salati waz-zakati, and he used to enjoin prayer and zakah on his ahl; wa-kana 'inda rabbihi mardiyya, and with his Lord he was one found pleasing. The first verse speaks of his word and his office. The second turns to his household, and then to how he stood before Allah.",
+            "bn": "ইসমাঈল (আঃ)-এর আলোচনা চলেছে দুটি আয়াত জুড়ে। ১৯:৫৪ আয়াত কিতাবে তাঁকে স্মরণ করতে বলে এমন একজন হিসেবে, যিনি ওয়াদা রক্ষায় সত্যবাদী, একজন রসূল ও নবী। এ আয়াত আরও দুটি বাক্যে ছবিটা পূর্ণ করে। ওয়া কানা ইয়া'মুরু আহলাহু বিস-সালাতি ওয়ায-যাকাতি: তিনি তাঁর আহলকে নামায ও যাকাতের আদেশ দিতেন। ওয়া কানা ইনদা রব্বিহি মারদিয়্যা: আর তাঁর রবের কাছে তিনি ছিলেন সন্তুষ্টির পাত্র। আগের আয়াতে তাঁর কথা রাখা আর তাঁর দায়িত্বের পরিচয়। এ আয়াত চোখ ফেরায় তাঁর ঘরের দিকে, তারপর আল্লাহর সামনে তাঁর অবস্থানের দিকে।"
+          },
+          {
+            "en": "Ibn Kathir calls this another instance of beautiful praise, a commendable attribute and a sound trait, and he gives the reason in a single clause: Isma'il persevered in obeying his Lord and enjoined that obedience on his ahl. The verse's grammar suits the word persevered. Kana followed by a present-tense verb describes what someone kept doing rather than a single occasion, so the verse presents the enjoining as a standing habit of his life. Two verbs of being frame the whole sentence: he used to enjoin, and he was pleasing.",
+            "bn": "ইবন কাসীর একে বলেন আরেকটি সুন্দর প্রশংসা, প্রশংসনীয় গুণ আর সঠিক স্বভাব। কারণটাও তিনি এক বাক্যে বলে দেন: ইসমাঈল নিজে রবের আনুগত্যে লেগে থাকতেন, আর সেই আনুগত্যের আদেশ দিতেন তাঁর আহলকে। 'লেগে থাকা' কথাটার সঙ্গে আয়াতের ব্যাকরণও মেলে। কানা-র পরে বর্তমান কালের ক্রিয়া এলে বোঝায় কেউ কাজটা করতেই থাকত, একবার করে থেমে যায়নি। তাই আয়াতে এই আদেশ দেওয়া তাঁর জীবনের স্থায়ী অভ্যাস। পুরো বাক্যটা দুই 'কানা'র ফ্রেমে বাঁধা: তিনি আদেশ দিতেন, আর তিনি ছিলেন সন্তুষ্টির পাত্র।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Counted as His Ahl",
+          "bn": "আহল বলতে কারা"
+        },
+        "p": [
+          {
+            "en": "The word ahl carries the verse's main disagreement. Ibn Kathir reads it as his family. He brings in the command to the Prophet ﷺ to enjoin prayer on his own ahl, and the call to believers to guard themselves and their families, both of them verses about the people of one's house. As-Sa'di says the same in his own terms: Isma'il completed himself and completed others, and especially those closest to him, his ahl, because they had more right to his call than anyone else.",
+            "bn": "আয়াতের প্রধান মতভেদটা 'আহল' শব্দে। ইবন কাসীর এর অর্থ নেন তাঁর পরিবার। তিনি পাশে আনেন দুটি আয়াত: একটিতে নবী ﷺ-কে নিজের আহলকে নামাযের আদেশ দিতে বলা হয়েছে, অন্যটিতে মুমিনদের ডাকা হয়েছে নিজেদের ও পরিবারকে রক্ষা করতে। দুটোই ঘরের মানুষদের নিয়ে। সা'দী নিজের ভাষায় একই কথা বলেন। ইসমাঈল নিজেকে পূর্ণ করেছিলেন, অন্যদেরও পূর্ণ করেছিলেন, বিশেষ করে তাঁর সবচেয়ে কাছের মানুষদের, অর্থাৎ তাঁর আহলকে। কারণ তাঁর দাওয়াতের উপর অন্য সবার চেয়ে তাদের হক বেশি।"
+          },
+          {
+            "en": "Al-Qurtubi records a wider reading. Al-Hasan said that ahl here means his umma, the whole community he was sent to. Al-Baghawi opens with a gloss of his own, qawmahu, his people, and then adds, under the words it is said, that it means his family and all of his nation together. On this reading the verse describes a prophet's mission to everyone placed in his charge, not only the circle of his home.",
+            "bn": "কুরতুবী একটি প্রশস্ত ব্যাখ্যাও উল্লেখ করেন। হাসান বলেছেন, এখানে আহল মানে তাঁর উম্মত, যে গোটা সম্প্রদায়ের কাছে তিনি প্রেরিত হয়েছিলেন। বাগাভী শুরু করেন নিজের ব্যাখ্যা দিয়ে: কাওমাহু, অর্থাৎ তাঁর কওম। তারপর 'বলা হয়' কথাটি দিয়ে যোগ করেন, এর অর্থ তাঁর পরিবার আর তাঁর গোটা উম্মত একসঙ্গে। এই ব্যাখ্যায় আয়াতটি শুধু ঘরের গণ্ডির কথা বলে না। বলে একজন নবীর সেই দাওয়াতের কথা, যা তাঁর দায়িত্বে থাকা প্রত্যেকের কাছে পৌঁছায়।"
+          },
+          {
+            "en": "Al-Qurtubi also cites a wording from the harf of Ibn Mas'ud, that Companion's reading of the text: he used to enjoin on his ahl, Jurhum and his children, prayer and zakah. Those added words are not in the text that is recited, and al-Qurtubi gives them only as Ibn Mas'ud's wording. They show an early understanding that named, beside his own children, Jurhum as part of his ahl. The commentators leave both readings standing, family and wider people, and so does this article.",
+            "bn": "কুরতুবী ইবন মাসউদ (রাঃ)-এর হারফ, অর্থাৎ তাঁর পাঠ থেকেও একটি শব্দরূপ আনেন: তিনি তাঁর আহলকে, জুরহুম ও তাঁর সন্তানদের, নামায ও যাকাতের আদেশ দিতেন। বাড়তি শব্দগুলো তিলাওয়াতের পাঠে নেই, আর কুরতুবী সেগুলো কেবল ইবন মাসউদের শব্দরূপ হিসেবেই আনেন। তবু এতে একটি প্রাচীন বোঝাপড়া চোখে পড়ে, যেখানে নিজের সন্তানদের পাশাপাশি জুরহুমকেও তাঁর আহলের মধ্যে ধরা হয়েছে। তাফসীরকারেরা দুই ব্যাখ্যাই রেখে দিয়েছেন, পরিবার আর বৃহত্তর কওম। এ লেখাও কোনো একটিকে বেছে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Command, Given Again",
+          "bn": "একই আদেশ, আবার"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir places two verses next to this one. The first is addressed to the Prophet ﷺ in 20:132: wa'mur ahlaka bis-salati wastabir 'alayha, enjoin prayer on your family and be steadfast in it; We ask no provision of you, We provide for you, and the good end belongs to taqwa. The same verb of commanding and the same word ahl appear in both. What Isma'il (AS) did as a habit, the final Messenger ﷺ was told to do, with steadfastness written into the command itself.",
+            "bn": "ইবন কাসীর এ আয়াতের পাশে আরও দুটি আয়াত রাখেন। প্রথমটি ২০:১৩২, নবী ﷺ-কে সম্বোধন করে: ওয়া'মুর আহলাকা বিস-সালাতি ওয়াসতাবির আলাইহা। নিজের পরিবারকে নামাযের আদেশ দাও আর নিজেও তাতে অবিচল থাকো। আমি তোমার কাছে রিযিক চাই না, আমিই তোমাকে রিযিক দিই, আর শুভ পরিণাম তাকওয়ার। দুই আয়াতেই আদেশ দেওয়ার একই ক্রিয়া, একই 'আহল' শব্দ। ইসমাঈল (আঃ) যা অভ্যাস হিসেবে করতেন, শেষ রসূল ﷺ-কে ঠিক সেটাই করতে বলা হলো, আর আদেশের ভেতরেই জুড়ে দেওয়া হলো অবিচল থাকার কথা।"
+          },
+          {
+            "en": "The second is 66:6, where believers are told to protect themselves and their families from a Fire whose fuel is people and stones. Ibn Kathir explains it: command them to what is right, forbid them what is wrong, and do not leave them neglected, so that the Fire consumes them on the Day of Resurrection. The order inside that verse matters, yourselves first and then your families, and Ibn Kathir's description of Isma'il keeps the same order: his own obedience first, then the command to others.",
+            "bn": "দ্বিতীয়টি ৬৬:৬। সেখানে মুমিনদের বলা হয়েছে নিজেদের আর নিজেদের পরিবারকে এমন আগুন থেকে বাঁচাতে, যার জ্বালানি মানুষ আর পাথর। ইবন কাসীর এর ব্যাখ্যা দেন এভাবে: তাদের ভালো কাজের আদেশ দাও, মন্দ কাজ থেকে নিষেধ করো, আর তাদের অবহেলায় ফেলে রেখো না। নইলে কিয়ামতের দিন আগুন তাদের গ্রাস করবে। সে আয়াতের ক্রমটাও খেয়াল করার মতো: আগে নিজেরা, তারপর পরিবার। ইবন কাসীর ইসমাঈলের যে বর্ণনা দেন, তাতেও একই ক্রম। আগে তাঁর নিজের আনুগত্য, তারপর অন্যদের প্রতি আদেশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Nearest Circle First",
+          "bn": "আগে সবচেয়ে কাছের বৃত্ত"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an raises the obvious question. If every Muslim is told in 66:6 to save his family from the Fire, why is Isma'il (AS) singled out for doing it? Its answer is that the duty is shared by all, but he made a special effort in carrying it out. It adds that the Prophet ﷺ was given his own particular instruction, in 26:214, to warn his nearest kin, and that he gathered them all and conveyed Allah's command to them.",
+            "bn": "মাআরিফুল কুরআন স্বাভাবিক প্রশ্নটাই তোলে। ৬৬:৬ আয়াতে যদি প্রত্যেক মুসলিমকেই পরিবারকে আগুন থেকে বাঁচাতে বলা হয়ে থাকে, তবে এ কাজের জন্য ইসমাঈল (আঃ)-কে আলাদা করে উল্লেখ করা হলো কেন? তার উত্তর: দায়িত্বটা সবার, কিন্তু তিনি তা পালনে বিশেষ চেষ্টা করতেন। সেখানে আরও বলা হয়েছে, নবী ﷺ-কেও ২৬:২১৪ আয়াতে আলাদা নির্দেশ দেওয়া হয়েছিল নিকটাত্মীয়দের সতর্ক করতে। তিনি তাদের সবাইকে একত্র করে আল্লাহর আদেশ পৌঁছে দিয়েছিলেন।"
+          },
+          {
+            "en": "A second question follows. Prophets are sent to whole peoples, so why mention the family at all? Ma'arif answers that one principle the prophets keep when calling people to righteousness is to call their own family first. Family members are easier to persuade and their practice easier to watch over; once a household lives by a way of life, others see it and take it up more readily. It closes on an observation from experience: virtue and vice both spread faster through a receptive environment than through teaching and preaching.",
+            "bn": "এরপর দ্বিতীয় প্রশ্ন। নবীরা তো প্রেরিত হন গোটা জাতির কাছে, তাহলে আলাদা করে পরিবারের কথা কেন? মাআরিফের উত্তর: মানুষকে সৎপথে ডাকার সময় নবীরা কিছু নীতি মেনে চলেন, তার একটি হলো সবার আগে নিজের পরিবারকে ডাকা। পরিবারের লোকদের রাজি করানো সহজ, তাদের আমলের খোঁজ রাখাও সহজ। একটা ঘর যখন কোনো জীবনধারায় অভ্যস্ত হয়ে যায়, বাইরের লোকেরা তা দেখে আরও সহজে গ্রহণ করে। শেষে আছে অভিজ্ঞতার একটি কথা: শিক্ষা আর ওয়াজের চেয়ে অনুকূল পরিবেশেই ভালো আর মন্দ দুটোই দ্রুত ছড়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Pair Contained",
+          "bn": "দুই আমলের ভেতরের কথা"
+        },
+        "p": [
+          {
+            "en": "What were the prayer and zakah that Isma'il enjoined? Al-Baghawi relays from Ibn Abbas that they were the ones Allah had made obligatory on them, and that this was the hanifiyya, the same upright way that has been made obligatory on us. At-Tabari supplies the verbs the verse leaves implied: he enjoined the establishing of prayer and the giving of zakah, and the Muyassar keeps to those two phrases. None of them describes the form of the prayer or the measure of the giving in his time, and this article does not guess.",
+            "bn": "ইসমাঈল যে নামায আর যাকাতের আদেশ দিতেন, তা কেমন ছিল? বাগাভী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: আল্লাহ তাদের উপর যা ফরয করেছিলেন সেটাই, আর তা ছিল হানীফিয়্যা, সেই একই সরল পথ, যা আমাদের উপরও ফরয করা হয়েছে। আয়াতে যে ক্রিয়া উহ্য, তাবারী তা খুলে বলেন: তিনি নামায কায়েম করার আর যাকাত আদায় করার আদেশ দিতেন। মুয়াসসারও এই দুই কথাতেই থামে। তাঁর যুগে নামাযের ধরন বা দানের পরিমাণ কী ছিল, তাঁদের কেউ তা বলেননি। এ লেখাও অনুমান করে তা ভরাট করে না।"
+          },
+          {
+            "en": "As-Sa'di reads the pair as facing two directions. Prayer, he says, contains sincerity toward the One who is worshipped; zakah contains kindness toward His servants. The command therefore gathered into two words what is owed to Allah and what is owed to people. In as-Sa'di's phrase, Isma'il was upholding Allah's command over his household. Read this way, the verse does not praise a man who taught rituals alone, but one who taught his house to stand before Allah and to give to those around it.",
+            "bn": "সা'দী এই জোড়াকে দেখেন দুই দিকে মুখ করা দুটি আমল হিসেবে। তাঁর মতে নামাযের মধ্যে আছে যাঁর ইবাদত করা হয় তাঁর প্রতি ইখলাস, আর যাকাতের মধ্যে আছে তাঁর বান্দাদের প্রতি ইহসান। ফলে দুটি শব্দেই এক হয়ে গেছে আল্লাহর হক আর মানুষের হক। সা'দীর ভাষায়, ইসমাঈল তাঁর পরিবারের উপর আল্লাহর হুকুম কায়েম রাখতেন। এভাবে পড়লে আয়াতটি শুধু আচার-অনুষ্ঠান শেখানো কোনো মানুষের প্রশংসা করে না। প্রশংসা করে এমন একজনের, যিনি ঘরকে শিখিয়েছিলেন আল্লাহর সামনে দাঁড়াতে আর আশপাশের মানুষকে দিতে।"
+          },
+          {
+            "en": "The pairing recurs within this surah. Earlier on, the infant 'Isa (AS) says in 19:31 that his Lord enjoined on him prayer and zakah for as long as he lives. A little further on, 19:59 describes successors who came after the favoured prophets, lost the prayer and followed their desires. Between the two, the household of Isma'il stands as the picture of a prayer kept and handed on. That later verse describes those it describes, and licenses no one to fasten its label on any family or community living today.",
+            "bn": "এই সূরাতেই জোড়াটি আবার ফিরে আসে। এর আগে ১৯:৩১ আয়াতে শিশু ঈসা (আঃ) বলেন, তাঁর রব তাঁকে যতদিন বেঁচে থাকবেন ততদিন নামায ও যাকাতের নির্দেশ দিয়েছেন। আর একটু পরেই ১৯:৫৯ আয়াতে আছে এমন উত্তরসূরিদের কথা, যারা অনুগ্রহপ্রাপ্ত নবীদের পরে এসে নামায নষ্ট করেছে আর লালসার পেছনে ছুটেছে। এ দুইয়ের মাঝখানে ইসমাঈলের পরিবার যেন সেই নামাযের ছবি, যা রক্ষা করা হয়েছে আর পরের হাতে তুলে দেওয়া হয়েছে। পরের আয়াতটি যাদের কথা বলে, শুধু তাদেরই কথা বলে। আজকের কোনো পরিবার বা সম্প্রদায়ের গায়ে সেই তকমা লাগানোর অনুমতি এ আয়াত কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pleasing in His Lord's Sight",
+          "bn": "রবের দৃষ্টিতে পছন্দনীয়"
+        },
+        "p": [
+          {
+            "en": "The last clause says where he stood. At-Tabari explains mardiyy as his deeds being approved: praised in what his Lord had charged him with, and never falling short in obeying Him. The Muyassar gives the plain sense, one with whom his Lord was pleased. Al-Qurtubi glosses the word with three adjectives, radiyy, zakiyy, salih: approved, pure and righteous. Al-Baghawi offers two readings. One is that he stood firm in obedience to Him; the other, under it is said, is that Allah approved him for His prophethood and messengership.",
+            "bn": "শেষ বাক্যটি বলে আল্লাহর কাছে তাঁর অবস্থান কোথায়। তাবারী 'মারদিয়্যি'-র ব্যাখ্যায় বলেন, তাঁর আমল ছিল পছন্দনীয়। রব তাঁকে যে দায়িত্ব দিয়েছিলেন তাতে তিনি প্রশংসিত, তাঁর আনুগত্যে কোনো কমতি করেননি। মুয়াসসার সোজা অর্থটা দেয়: তিনি এমন একজন, যাঁর উপর তাঁর রব সন্তুষ্ট। কুরতুবী শব্দটির ব্যাখ্যা দেন তিনটি বিশেষণে, রাদিয়্যি, যাকিয়্যি, সালিহ: পছন্দনীয়, পবিত্র, নেককার। বাগাভী দুটি ব্যাখ্যা দেন। একটি হলো, তিনি আল্লাহর আনুগত্যে অবিচল ছিলেন। অন্যটি তিনি আনেন 'বলা হয়' দিয়ে: আল্লাহ তাঁকে নবুওয়াত ও রিসালাতের জন্য পছন্দ করে নিয়েছিলেন।"
+          },
+          {
+            "en": "As-Sa'di ties the clause to the one before it. Because Isma'il complied with what pleases his Lord and strove in it, Allah approved of him and made him one of His chosen servants and close allies; Allah was pleased with him, and he was pleased with his Lord. The difference between the readings is real. Al-Baghawi's second gloss links being found pleasing to Allah's choosing him for prophethood, while as-Sa'di and at-Tabari link it to his conduct and his obedience. The commentators record both without settling between them.",
+            "bn": "সা'দী এ বাক্যকে আগের বাক্যের সঙ্গে জুড়ে দেন। ইসমাঈল রবের সন্তুষ্টির কাজগুলো মেনে চলতেন আর তাতে প্রাণপণ চেষ্টা করতেন। সে কারণে আল্লাহ তাঁকে পছন্দ করে নিলেন, তাঁকে করলেন নিজের বিশেষ বান্দা আর নৈকট্যপ্রাপ্ত ওলিদের একজন। আল্লাহ তাঁর উপর সন্তুষ্ট হলেন, আর তিনিও সন্তুষ্ট হলেন তাঁর রবের উপর। ব্যাখ্যাগুলোর পার্থক্যটা সত্যিকারের। বাগাভীর দ্বিতীয় ব্যাখ্যা এই সন্তুষ্টিকে জোড়ে নবুওয়াতের জন্য আল্লাহর বেছে নেওয়ার সঙ্গে। সা'দী আর তাবারী জোড়েন তাঁর আচরণ আর আনুগত্যের সঙ্গে। তাফসীরকারেরা দুটোই উল্লেখ করেছেন, কোনোটির পক্ষে রায় দেননি।"
+          },
+          {
+            "en": "Al-Qurtubi also pauses on the form of the word. He reports from al-Kisa'i and al-Farra' that whoever says mardiyy builds it on raditu, and that the people of the Hijaz say mardu, with a waw. Both add that some Arabs form the related dual with a waw and some with a ya, while the grammarians of Basra, he notes, allow only the waw. The form the verse uses, mardiyya, also keeps the rhyme that runs through this passage: nabiyya, najiyya, 'aliyya, mardiyya.",
+            "bn": "কুরতুবী শব্দটির গঠন নিয়েও একটু থামেন। তিনি কিসাঈ আর ফাররা থেকে বর্ণনা করেন: যিনি 'মারদিয়্যি' বলেন, তিনি একে গড়েন 'রাদিতু' থেকে, আর হিজাযের লোকেরা বলে 'মারদু', ওয়াও দিয়ে। তাঁরা দুজন আরও বলেন, সংশ্লিষ্ট দ্বিবচন কোনো কোনো আরব ওয়াও দিয়ে গড়ে, কেউ কেউ ইয়া দিয়ে। কুরতুবী জানান, বসরার ব্যাকরণবিদেরা কেবল ওয়াও-ই মানেন। আয়াত যে রূপটি নিয়েছে, মারদিয়্যা, তা এ অংশের অন্ত্যমিলও রক্ষা করে: নাবিয়্যা, নাজিয়্যা, আলিয়্যা, মারদিয়্যা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Waking Each Other at Night",
+          "bn": "রাতে একে অন্যকে জাগানো"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries attaches a hadith to this verse itself, and none reports an occasion of revelation for it. Ibn Kathir brings in a general narration to illustrate enjoining prayer at home, and it should be read as that, not as an explanation of the verse. Abu Dawud records it from Abu Hurayrah: May Allah have mercy on a man who gets up at night and prays, and awakens his wife; if she refuses, he should sprinkle water on her face. May Allah have mercy on a woman who gets up at night and prays, and awakens her husband; if he refuses, she would sprinkle water on his face.",
+            "bn": "কোনো তাফসীর এ আয়াতের সঙ্গে সরাসরি কোনো হাদীস যুক্ত করেনি, আর কেউ এর শানে নুযূলও বর্ণনা করেনি। ঘরে নামাযের আদেশ দেওয়ার উদাহরণ হিসেবে ইবন কাসীর একটি সাধারণ বর্ণনা আনেন। একে সেভাবেই পড়তে হবে, আয়াতের ব্যাখ্যা হিসেবে নয়। আবু দাউদ আবু হুরায়রা (রাঃ) থেকে তা বর্ণনা করেন: আল্লাহ রহম করুন সেই পুরুষের উপর, যে রাতে উঠে নামায পড়ে আর তার স্ত্রীকে জাগায়; স্ত্রী রাজি না হলে সে তার মুখে পানি ছিটিয়ে দেয়। আল্লাহ রহম করুন সেই নারীর উপর, যে রাতে উঠে নামায পড়ে আর তার স্বামীকে জাগায়; স্বামী রাজি না হলে সে তার মুখে পানি ছিটিয়ে দেয়।"
+          },
+          {
+            "en": "Abu Dawud gives no grading for it (Sunan Abu Dawud 1308), and Ibn Kathir notes that Ibn Majah records it too. Its shape is worth noticing: the same prayer for mercy, the same waking and the same water are given to the husband and to the wife alike, so the call to prayer inside a marriage runs in both directions. Ibn Kathir follows it with a second report on spouses praying together at night. Abu Dawud himself notes that one transmission of it stops at the Companion, so it is only mentioned here and nothing is built on it.",
+            "bn": "আবু দাউদ এর কোনো মান উল্লেখ করেননি (সুনান আবু দাউদ ১৩০৮), আর ইবন কাসীর জানান, ইবন মাজাহও এটি বর্ণনা করেছেন। বর্ণনাটির গড়ন লক্ষ করার মতো। রহমতের একই দোয়া, একই জাগানো, একই পানি, স্বামী আর স্ত্রী দুজনের বেলাতেই। অর্থাৎ দাম্পত্যের ভেতরে নামাযের ডাক দুই দিক থেকেই চলে। এরপর ইবন কাসীর স্বামী-স্ত্রীর একসঙ্গে রাতের নামায নিয়ে আরেকটি বর্ণনা আনেন। আবু দাউদ নিজেই জানান, এর একটি সূত্র সাহাবী পর্যন্ত গিয়ে থেমে যায়। তাই এখানে শুধু এর উল্লেখটুকু থাকল, এর উপর কিছু দাঁড় করানো হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Practice Before the Instruction",
+          "bn": "আদেশের আগে নিজের আমল"
+        },
+        "p": [
+          {
+            "en": "Read together, the commentators describe an order. Ibn Kathir's clause puts Isma'il's own perseverance before his command to others, and as-Sa'di says he completed himself before completing others; 66:6 itself says yourselves, then your families. None of them pictures a man lecturing a household he did not lead by practice. For a reader today, the verse is a question about the home before it is a question about the wider world: is prayer something my house sees me keep, and is giving something we do together?",
+            "bn": "তাফসীরকারদের কথা একসঙ্গে পড়লে একটা ক্রম চোখে পড়ে। ইবন কাসীরের বাক্যে অন্যদের আদেশ দেওয়ার আগে আসে ইসমাঈলের নিজের লেগে থাকা। সা'দী বলেন, অন্যদের পূর্ণ করার আগে তিনি নিজেকে পূর্ণ করেছিলেন। ৬৬:৬ আয়াতও বলে, আগে নিজেরা, তারপর পরিবার। তাঁদের কেউ এমন মানুষের ছবি আঁকেননি, যে নিজে আমল না করে ঘরের লোকদের উপদেশ শোনায়। আজকের পাঠকের কাছে আয়াতটি বাইরের দুনিয়ার আগে ঘরের প্রশ্ন: আমার ঘর কি আমাকে নামায কায়েম করতে দেখে? আর দান কি আমরা একসঙ্গে করি?"
+          },
+          {
+            "en": "The household is also the hardest audience. Ma'arif's point that a family is easier to persuade sits beside an everyday truth: it is also the audience that knows every lapse. Perhaps that is why the verse ends where it does. Its final clause does not record how many in his home answered him. It records that he was pleasing to his Lord, and that is the measure it leaves for anyone who takes up the same habit: the persistence is ours to keep, and the outcome belongs to Allah.",
+            "bn": "ঘরের মানুষই আবার সবচেয়ে কঠিন শ্রোতা। মাআরিফ বলে, পরিবারকে রাজি করানো সহজ। তার পাশেই আছে রোজকার একটা সত্য: এই শ্রোতারাই আমাদের প্রতিটি গাফিলতি চেনে। হয়তো এ কারণেই আয়াতটি যেখানে থেমেছে সেখানেই থেমেছে। শেষ বাক্যটি জানায় না, তাঁর ঘরের কতজন তাঁর ডাকে সাড়া দিয়েছিল। জানায় শুধু, তিনি তাঁর রবের কাছে সন্তুষ্টির পাত্র ছিলেন। একই অভ্যাস যে গড়ে নিতে চায়, তার জন্য আয়াত এই মাপকাঠিই রেখে যায়: লেগে থাকা আমাদের কাজ, ফলাফল আল্লাহর হাতে।"
+          }
+        ]
+      }
+    ]
+  },
   "19:58": {
     "sections": [
       {

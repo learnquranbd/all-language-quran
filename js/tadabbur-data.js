@@ -34063,6 +34063,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The regret of that Day is built out of today's heedlessness. Take the warning while the matter is still open, and do now what you would wish you had done.",
     "lessonBn": "সেই দিনের আফসোস গড়ে ওঠে আজকের উদাসীনতা দিয়ে। ফয়সালার দরজা খোলা থাকতেই সতর্কবাণীটা গ্রহণ করুন, আর যা করে রাখলে ভালো হতো বলে মনে হবে, তা এখনই করুন।"
+  },
+  "19:55": {
+    "reflectionEn": "Of everything that could be said about a prophet, this verse records what he did at home. Isma'il (AS) kept telling his own people to pray and to give, and he was pleasing to his Lord. The verb describes a habit, not a single speech: he used to enjoin, again and again. Calling strangers can feel easier than calling those who see us every day, who know our tempers and our lapses, and who will notice at once if our own prayer slips. Perhaps that is exactly why it counts. The household is where words are tested against a life. Who in my home hears me speak of prayer, and do they also see me keep it?",
+    "reflectionBn": "একজন নবী সম্পর্কে কত কথাই তো বলা যেত। এ আয়াত বেছে নিয়েছে তাঁর ঘরের কথা। ইসমাঈল (আঃ) নিজের লোকদের বারবার নামায আর যাকাতের কথা বলতেন, আর তিনি ছিলেন তাঁর রবের সন্তুষ্টির পাত্র। ক্রিয়াটা একবারের ভাষণ বোঝায় না, বোঝায় অভ্যাস: তিনি বলতেই থাকতেন। অচেনা মানুষকে ডাকা অনেক সময় সহজ লাগে। কঠিন হলো তাদের ডাকা, যারা রোজ আমাদের দেখে, আমাদের মেজাজ আর গাফিলতি চেনে, আর নিজের নামায একটু ঢিলে হলেই সঙ্গে সঙ্গে টের পায়। হয়তো এ কারণেই কাজটার এত মূল্য। ঘরেই কথাকে জীবনের পাশে রেখে যাচাই করা হয়। আমার ঘরে কে আমার মুখে নামাযের কথা শোনে, আর সে কি আমাকে নামায কায়েম করতেও দেখে?",
+    "pointsEn": [
+      "When did I last speak to someone in my own home about prayer, gently and without a lecture?",
+      "Do the people closest to me see me keep the prayer I would urge on them?",
+      "Is it easier for me to advise strangers than my own family, and what does that tell me?",
+      "What would change in my home if giving to others were a habit we shared, not a duty I kept alone?",
+      "If the verse's last word on him is that his Lord was pleased with him, what do I hope the last word on me will be?"
+    ],
+    "pointsBn": [
+      "নিজের ঘরের কারও সঙ্গে শেষ কবে নামায নিয়ে কথা বলেছি, নরম সুরে, উপদেশের বোঝা না চাপিয়ে?",
+      "যে নামাযের তাগিদ আমি অন্যদের দিই, আমার সবচেয়ে কাছের মানুষেরা কি আমাকে তা কায়েম করতে দেখে?",
+      "নিজের পরিবারের চেয়ে অচেনা লোককে উপদেশ দেওয়া কি আমার কাছে সহজ? তা থেকে নিজের সম্পর্কে কী বুঝি?",
+      "অন্যকে দেওয়াটা যদি আমার একার দায় না হয়ে পুরো ঘরের অভ্যাস হতো, ঘরে কী বদলাত?",
+      "আয়াতের শেষ কথা, তাঁর রব তাঁর উপর সন্তুষ্ট ছিলেন। আমার জীবনের শেষ কথাটা কী হোক, আমি চাই?"
+    ],
+    "lessonEn": "Let your call to prayer and giving begin at home, kept up as a habit and backed by your own practice, and seek your Lord's pleasure in it.",
+    "lessonBn": "নামায আর দানের ডাক শুরু করুন নিজের ঘর থেকে। তা চালু রাখুন অভ্যাস হিসেবে, নিজের আমল দিয়ে তাকে সত্য করুন, আর এর মধ্যে খুঁজুন রবের সন্তুষ্টি।"
   }
 };
 
