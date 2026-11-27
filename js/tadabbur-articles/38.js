@@ -3599,6 +3599,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "38:74": {
+    "sections": [
+      {
+        "h": {
+          "en": "Every Angel, Save One",
+          "bn": "সব ফেরেশতা, একজন বাদে"
+        },
+        "p": [
+          {
+            "en": "Illa Iblisa stakbara wa-kana mina l-kafirin: except Iblis; he was arrogant and was of the disbelievers. Six Arabic words, and they lean on the verse before. In 38:73 the angels prostrated, kulluhum ajma'un, all of them, every one. The emphasis is doubled, and then a single exception breaks it. The scene opened in 38:71 and 38:72, where Allah announces a human being from clay and commands the prostration once he is formed and given spirit. Those verses are not retold here.",
+            "bn": "ইল্লা ইবলীসা স্তাকবারা ওয়া কানা মিনাল কাফিরীন: ইবলীস ছাড়া; সে অহংকার করল, আর সে ছিল কাফিরদের একজন। আরবিতে ছয়টি শব্দ, আর এগুলো ভর দিয়ে আছে আগের আয়াতের উপর। ৩৮:৭৩ আয়াতে ফেরেশতারা সাজদা করেছিল, কুল্লুহুম আজমাঊন, তাদের সবাই, একজনও বাদ না পড়ে। জোর দেওয়া হয়েছে দুবার, তারপর একটিমাত্র ব্যতিক্রম সেই জোরটা ভেঙে দেয়। দৃশ্যের শুরু ৩৮:৭১ ও ৩৮:৭২ আয়াতে। সেখানে আল্লাহ কাদামাটি থেকে মানুষ সৃষ্টির ঘোষণা দেন, আর বলে দেন, তাকে গড়ে রূহ ফুঁকে দেওয়ার পর সাজদায় পড়ে যেতে হবে। ওই আয়াতগুলোর কথা এখানে আর বলা হচ্ছে না।"
+          },
+          {
+            "en": "Ibn Kathir, in the Arabic text read for this verse, notes that Allah tells this story in al-Baqarah, at the opening of al-A'raf, in al-Hijr, al-Isra', al-Kahf and here. The close of the sentence changes from one telling to another. In 2:34 he refused, was arrogant and was of the disbelievers; Sad keeps the last two and leaves the refusal unsaid. Al-Hijr uses the same line as 38:73 for the angels and then ends: he refused to be with those who prostrated (15:31). In 7:11 he simply was not among them.",
+            "bn": "এই আয়াতের জন্য পড়া আরবি তাফসীরে ইবন কাসীর মনে করিয়ে দেন, আল্লাহ এ কাহিনি বলেছেন সূরা বাকারায়, সূরা আ'রাফের শুরুতে, সূরা হিজর, ইসরা ও কাহফে, আর এখানে। প্রতিবারের বর্ণনায় বাক্যের শেষটা বদলে যায়। ২:৩৪ আয়াতে সে অস্বীকার করল, অহংকার করল, আর ছিল কাফিরদের একজন। সূরা সাদ শেষ দুটি কথা রেখেছে, অস্বীকারের কথাটা আলাদা করে বলেনি। সূরা হিজর ফেরেশতাদের বেলায় ৩৮:৭৩-এর হুবহু বাক্যটাই এনেছে, তারপর শেষ করেছে এভাবে: সে সাজদাকারীদের সঙ্গে থাকতে অস্বীকার করল (১৫:৩১)। আর ৭:১১ আয়াতে শুধু বলা হয়েছে, সে তাদের মধ্যে ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Excepted, Yet Not of Them",
+          "bn": "ব্যতিক্রম, তবু তাদের কেউ নয়"
+        },
+        "p": [
+          {
+            "en": "If Iblis is excepted from the angels, was he one of them? Ibn Kathir answers in the text read for this verse: wa-lam yakun minhum jinsan, kana mina l-jinn, he was not of them by kind; he was of the jinn. On that reading the command reached him along with them, and he is set apart from those who obeyed it. Other commentators held other positions. They are set out in the article on 18:50, where the Qur'an itself says he was of the jinn, and noted at 17:61; they are pointed to here, not retold.",
+            "bn": "ফেরেশতাদের থেকে যদি ইবলীসকে আলাদা করা হয়, তাহলে কি সে তাদেরই একজন ছিল? এই আয়াতের জন্য পড়া তাফসীরে ইবন কাসীরের জবাব: ওয়া লাম ইয়াকুন মিনহুম জিনসান, কানা মিনাল জিন্ন। জাতের দিক থেকে সে তাদের কেউ ছিল না, সে ছিল জিনদের একজন। এই পাঠে হুকুমটা তাদের সঙ্গে তার কাছেও পৌঁছেছিল, আর যারা হুকুম মেনেছে তাদের থেকে তাকে আলাদা করা হয়েছে। অন্য তাফসীরকারদের ভিন্ন মতও আছে। সেগুলো বিস্তারিত আছে ১৮:৫০ আয়াতের প্রবন্ধে, যেখানে কুরআন নিজেই বলেছে সে জিনদের একজন। ১৭:৬১ আয়াতের প্রবন্ধেও প্রসঙ্গটা এসেছে। এখানে শুধু সেদিকে ইশারা করা হল, আবার বলা হল না।"
+          },
+          {
+            "en": "Ibn Kathir adds a phrase about what happened inside him: fa-khanahu tab'uhu wa-jibillatuhu ahwaja ma kana ilayh, his nature and his make-up betrayed him at the very moment he most needed them. What he was made of failed him exactly when obedience was asked. Ibn Kathir does not offer it as an excuse. The same sentence calls the refusal a quarrel with his Lord, a breach of Allah's command and disbelief, as set out below.",
+            "bn": "ইবন কাসীর তার ভেতরের অবস্থা নিয়ে একটা কথা যোগ করেন: ফা খানাহু তাব'উহু ওয়া জিবিল্লাতুহু আহওয়াজা মা কানা ইলাইহি। যে মুহূর্তে তার স্বভাব আর গড়নের সবচেয়ে বেশি দরকার ছিল, ঠিক তখনই সেগুলো তার সঙ্গে বিশ্বাসঘাতকতা করল। আনুগত্য যখন চাওয়া হল, তখনই তার নিজের উপাদান তাকে ডুবিয়ে দিল। তবে ইবন কাসীর এটাকে অজুহাত হিসেবে দাঁড় করান না। একই বাক্যে তিনি এই অস্বীকারকে বলেন রবের সঙ্গে বিবাদ, আল্লাহর হুকুমের বিরোধিতা আর কুফর। দ্বিতীয় ক্রিয়াটি নিয়ে নিচের অংশে সে কথা আসছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Too Great a Thing to Bow",
+          "bn": "মাথা নোয়ানো তার কাছে বড় ঠেকল"
+        },
+        "p": [
+          {
+            "en": "Istakbara comes from the root k-b-r, greatness. At-Tabari glosses it briefly: he did not prostrate; istakbara 'ani s-sujudi lahu ta'azzuman wa-takabburan, he held himself above prostrating to him, out of self-exaltation and arrogance. The Muyassar's sentence is close: he did not prostrate, anafatan wa-takabburan, out of disdain and arrogance. Neither gloss mentions an argument, and the verse gives none at this point. The reason Iblis offers comes two verses later, in 38:76, and its article weighs it.",
+            "bn": "ইসতাকবারা শব্দের মূল ক-ব-র, যার অর্থ বড়ত্ব। তাবারী সংক্ষেপে এর ব্যাখ্যা দেন: সে সাজদা করল না; ইসতাকবারা আনিস সুজূদি লাহু তা'আযযুমান ওয়া তাকাব্বুরান। অর্থাৎ নিজেকে বড় ভেবে আর দম্ভভরে সে আদম (আঃ)-কে সাজদা করার ঊর্ধ্বে নিজেকে রাখল। মুয়াসসারের বাক্যও কাছাকাছি: সে সাজদা করল না, আনাফাতান ওয়া তাকাব্বুরান, তুচ্ছ জ্ঞান করে আর অহংকারে। কোনো ব্যাখ্যাতেই যুক্তির কথা নেই, আয়াতও এখানে কোনো যুক্তি দেয় না। ইবলীস যে কারণ দেখায়, তা আসে দুই আয়াত পরে, ৩৮:৭৬ আয়াতে, আর সেই আয়াতের প্রবন্ধে তার বিচার হয়েছে।"
+          },
+          {
+            "en": "As-Sa'di gives the arrogance two directions in a handful of words: istakbara 'an amri rabbihi, wa-stakbara 'ala Adam. He was too proud for his Lord's command, and he was proud over Adam. One preposition faces upward, the other faces across. The pride that would not take an order from above was the same pride that looked down on the one standing beside him. In as-Sa'di's phrasing, the refusal was never only about Adam. It was first a refusal of the One who gave the command.",
+            "bn": "সা'দী অল্প কয়েকটি শব্দে এই অহংকারের দুটি দিক দেখান: ইসতাকবারা আন আমরি রাব্বিহি, ওয়াসতাকবারা আলা আদম। রবের হুকুমের বেলায় সে নিজেকে বড় ভাবল, আর আদমের উপরেও নিজেকে বড় ভাবল। একটা অব্যয় উপরের দিকে তাকায়, অন্যটা পাশের দিকে। যে অহংকার উপরের হুকুম মানতে রাজি হয়নি, সেই একই অহংকার পাশে দাঁড়ানো জনকে নিচু চোখে দেখেছে। সা'দীর ভাষায় অস্বীকারটা কখনোই শুধু আদমকে নিয়ে ছিল না। আগে তা ছিল হুকুমদাতাকেই অস্বীকার।"
+          },
+          {
+            "en": "Al-Qurtubi's note on this verse sends the reader back to his long discussion of 2:34, where the same clause stands. There he defines al-istikbar as al-isti'zam, counting a thing too great. It was as though Iblis disliked the prostration as beneath his own due and thought it too much to give Adam (AS), so that leaving it was tasfih, treating Allah's command and His wisdom as foolish. In the same place al-Qurtubi relays a short saying of Qatada: the beginning of sins was kibr, pride.",
+            "bn": "এই আয়াতে কুরতুবীর টীকা পাঠককে ফেরত পাঠায় ২:৩৪ আয়াতে তাঁর দীর্ঘ আলোচনায়, যেখানে হুবহু এই বাক্যাংশটাই আছে। সেখানে তিনি আল-ইসতিকবারের সংজ্ঞা দেন আল-ইসতি'যাম, অর্থাৎ কোনো কিছুকে খুব বড় মনে করা। যেন ইবলীস সাজদাকে নিজের মর্যাদার চেয়ে নিচু কাজ ভেবে অপছন্দ করল, আর আদমকে তা দেওয়া তার কাছে অনেক বেশি মনে হল। ফলে সাজদা না করাটা হয়ে দাঁড়াল তাসফীহ, আল্লাহর হুকুম আর তাঁর হিকমতকে নির্বুদ্ধিতা বলে ধরে নেওয়া। একই জায়গায় কুরতুবী কাতাদার একটি ছোট উক্তি আনেন: গুনাহের শুরু হয়েছিল কিবর, অর্থাৎ অহংকার দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Knowing, or Not Willing",
+          "bn": "না জেনে, নাকি জেনেশুনে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's own short note on 38:74 goes one step further. Anifa mina s-sujudi lahu jahlan bi-anna s-sujuda lahu ta'atun li-llah: he disdained prostrating to Adam, not knowing that prostrating to him was obedience to Allah. Then comes the principle: wa-l-anafatu min ta'ati llahi stikbaran kufr, disdain for obeying Allah, out of arrogance, is disbelief. Wa-li-dhalika kana mina l-kafirin bi-stikbarihi 'an amri llah: and that is why he was of the disbelievers, through his arrogance toward Allah's command.",
+            "bn": "৩৮:৭৪ আয়াতে কুরতুবীর নিজের ছোট টীকাটা আরেক ধাপ এগিয়ে যায়: আনিফা মিনাস সুজূদি লাহু জাহলান বিআন্নাস সুজূদা লাহু তা'আতুন লিল্লাহ। আদমকে সাজদা করা যে আসলে আল্লাহরই আনুগত্য, তা না বুঝে সে সাজদাকে তুচ্ছ জ্ঞান করল। তারপর তিনি মূলনীতিটা বলেন: অহংকারবশত আল্লাহর আনুগত্যকে তুচ্ছ জ্ঞান করা কুফর। ওয়া লিযালিকা কানা মিনাল কাফিরীনা বিসতিকবারিহী আন আমরিল্লাহ। এ কারণেই আল্লাহর হুকুমের সামনে অহংকার করে সে কাফিরদের একজন হল।"
+          },
+          {
+            "en": "On 2:34 al-Qurtubi shows that jahl, ignorance, was not the only answer. He records two views among the scholars on whether Iblis disbelieved jahlan, out of ignorance, or 'inadan, out of stubborn defiance, and says there is no disagreement that he knew Allah before his disbelief. Those who say ignorance hold that his knowledge was taken from him when he disbelieved. Those who say defiance hold that he disbelieved with his knowledge still in him.",
+            "bn": "২:৩৪ আয়াতের আলোচনায় কুরতুবী দেখান, জাহল বা অজ্ঞতাই একমাত্র জবাব নয়। ইবলীস কি জাহলান, অর্থাৎ না জেনে কুফরি করেছিল, নাকি ইনাদান, অর্থাৎ জেনেশুনে জেদ করে, এ নিয়ে আলেমদের দুটি মত তিনি উল্লেখ করেন। সঙ্গে এটাও বলেন যে কুফরির আগে সে আল্লাহকে চিনত, এতে কোনো মতভেদ নেই। যাঁরা অজ্ঞতার কথা বলেন, তাঁদের মতে কুফরির মুহূর্তে তার জ্ঞান কেড়ে নেওয়া হয়েছিল। আর যাঁরা জেদের কথা বলেন, তাঁদের মতে জ্ঞান ভেতরে থাকা অবস্থাতেই সে কুফরি করেছিল।"
+          },
+          {
+            "en": "He then quotes Ibn 'Atiyya: disbelief out of defiance while knowledge remains is unlikely, but to him it is possible, not impossible, given Allah's forsaking of whom He wills. Al-Qurtubi lays the two views side by side there and does not settle them, and this article leaves them as he left them. In the same passage he records a further difference: one view holds that Iblis was the first to disbelieve, another that disbelievers came before him, the jinn who lived on the earth.",
+            "bn": "এরপর তিনি ইবন আতিয়্যার কথা আনেন। জ্ঞান থাকা অবস্থায় জেদ থেকে কুফরি করা দূরের কথা মনে হয়, তবে তাঁর মতে তা অসম্ভব নয়, কারণ আল্লাহ যাকে চান তাকে তার নিজের হাতে ছেড়ে দেন। কুরতুবী সেখানে দুটি মত পাশাপাশি রেখেছেন, কোনোটার পক্ষে রায় দেননি। এ প্রবন্ধও সেভাবেই রেখে দিল। একই আলোচনায় তিনি আরেকটি মতভেদের কথা বলেন। এক মতে ইবলীসই প্রথম কুফরি করেছিল। অন্য মতে তার আগেও কাফির ছিল, তারা পৃথিবীতে বাস করা জিনেরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Was He, or Did He Become",
+          "bn": "আগেই ছিল, নাকি হয়ে গেল"
+        },
+        "p": [
+          {
+            "en": "Then the second verb: wa-kana mina l-kafirin. Kana usually means was. The English and Bengali renderings shown in this app both give became. Both readings are on record. Al-Qurtubi, on 2:34, gives the first under qila, it is said: kana here means sara, became. His evidence is 11:43, fa-kana mina l-mughraqin, said of the son of Nuh (AS), and he was among the drowned, that is, he became one of them. He adds a line of poetry about sand grouse whose eggs kanat firakhan, had become chicks.",
+            "bn": "এবার দ্বিতীয় ক্রিয়া: ওয়া কানা মিনাল কাফিরীন। কানা শব্দের সাধারণ অর্থ ছিল। এই অ্যাপে দেখানো ইংরেজি আর বাংলা দুই অনুবাদেই অর্থ করা হয়েছে, হয়ে গেল। দুটি পাঠই তাফসীরে আছে। ২:৩৪ আয়াতে কুরতুবী প্রথমটা আনেন কীলা, অর্থাৎ 'বলা হয়' দিয়ে: এখানে কানা মানে সারা, হয়ে গেল। প্রমাণ হিসেবে তিনি আনেন ১১:৪৩ আয়াত, নূহ (আঃ)-এর ছেলের কথা: ফাকানা মিনাল মুগরাকীন। অর্থাৎ সে ডুবে যাওয়াদের একজন হয়ে গেল। সঙ্গে একটি কবিতার চরণও আনেন, যেখানে মরুপাখির ডিমগুলো কানাত ফিরাখান, ছানা হয়ে গিয়েছিল।"
+          },
+          {
+            "en": "Ibn Furak rejected that reading. Kana here in the sense of sara, he said, is a mistake that the principles refute. The majority of interpreters, al-Qurtubi goes on, take the sense to be that it was in Allah's knowledge that Iblis would disbelieve. Their reason: the true disbeliever and the true believer are those whom Allah knows will reach their end as such, al-muwafat. On this view the verse speaks of where Iblis would finally arrive.",
+            "bn": "ইবন ফূরাক এই পাঠ মানেননি। তাঁর কথায়, এখানে কানাকে সারা অর্থে নেওয়া ভুল, মূলনীতিই তা খণ্ডন করে। কুরতুবী আরও বলেন, অধিকাংশ তাফসীরকারের মতে অর্থ হল: ইবলীস যে কুফরি করবে, তা আল্লাহর জ্ঞানে ছিল। তাঁদের যুক্তি: প্রকৃত কাফির আর প্রকৃত মুমিন তারাই, আল্লাহ জানেন যারা শেষ পর্যন্ত সেই অবস্থাতেই পৌঁছাবে। এর নাম আল-মুওয়াফাত, শেষ অবস্থায় গিয়ে পৌঁছানো। এই মতে আয়াতটি বলছে ইবলীস শেষ পর্যন্ত কোথায় গিয়ে দাঁড়াবে।"
+          },
+          {
+            "en": "That majority reading is the one the commentaries on 38:74 itself give. At-Tabari relays it from Ibn Abbas (RA), through Abu Kurayb and Abu Bakr: kana fi 'ilmi llahi mina l-kafirin, he was, in Allah's knowledge, of the disbelievers. The Muyassar ends its sentence with the same phrase, fi 'ilmi llahi ta'ala, and as-Sa'di closes his short gloss with it too. On this reading kana keeps its everyday sense, was, and what it reports is not a change in Iblis but what Allah had known all along.",
+            "bn": "৩৮:৭৪ আয়াতের তাফসীরগুলো এই অধিকাংশের মতটাই দেয়। তাবারী আবূ কুরাইব ও আবূ বকরের সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: কানা ফী ইলমিল্লাহি মিনাল কাফিরীন। অর্থাৎ আল্লাহর জ্ঞানে সে কাফিরদের একজন ছিল। মুয়াসসারের বাক্যও শেষ হয় একই কথায়, ফী ইলমিল্লাহি তা'আলা। সা'দীও তাঁর ছোট ব্যাখ্যা এ কথা দিয়েই শেষ করেন। এই পাঠে কানা তার রোজকার অর্থ, ছিল, ধরে রাখে। আয়াত তখন ইবলীসের কোনো পরিবর্তনের খবর দেয় না, দেয় সেই কথার খবর যা আল্লাহ আগে থেকেই জানতেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cause and Foreknowledge Together",
+          "bn": "কারণ আর পূর্বজ্ঞান একসঙ্গে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari does not choose between the cause and the knowledge; he writes both into one sentence. Wa-kana bi-ta'azzumihi dhalika wa-takabburihi 'ala rabbihi wa-ma'siyatihi amrahu mimman kafara fi 'ilmi llahi s-sabiq: through that self-exaltation, his arrogance toward his Lord and his disobedience of His command, he was of those who disbelieved in Allah's prior knowledge. The disbelief, he adds, was denying His lordship and refusing the obedient submission owed to Him.",
+            "bn": "কারণ আর জ্ঞানের মধ্যে তাবারী কোনোটা বেছে নেন না, দুটোকেই এক বাক্যে লেখেন: ওয়া কানা বিতা'আযযুমিহী যালিকা ওয়া তাকাব্বুরিহী আলা রাব্বিহী ওয়া মা'সিয়াতিহী আমরাহু মিম্মান কাফারা ফী ইলমিল্লাহিস সাবিক। নিজেকে বড় ভাবা, রবের সামনে অহংকার আর তাঁর হুকুম অমান্য করা, এসবের মধ্য দিয়ে সে তাদের একজন ছিল, আল্লাহর আগের জ্ঞানে যারা কুফরি করেছে। তারপর তিনি বলেন সেই কুফরি কী ছিল। ইবলীস আল্লাহর রুবূবিয়াত অস্বীকার করল। আর আনুগত্যে মাথা নোয়ানোর যে স্বীকৃতি তার দেওয়ার কথা ছিল, তা প্রত্যাখ্যান করল।"
+          },
+          {
+            "en": "Others on this verse put the weight on the cause. Ibn Kathir's sentence ends wa-kafara bi-dhalik, and by that he disbelieved. Al-Qurtubi's note says he was of the disbelievers bi-stikbarihi, through his arrogance. Ma'arif al-Qur'an, citing the Tafsir Kabir on the passage from 38:71 to 38:74, names envy and arrogance as what kept Iblis from prostrating. So the commentaries give two emphases: what the refusal made of him, and what Allah already knew. At-Tabari holds both; the others lean one way or the other.",
+            "bn": "এই আয়াতের অন্য তাফসীরকারেরা জোর দেন কারণের উপর। ইবন কাসীরের বাক্য শেষ হয় ওয়া কাফারা বিযালিকা দিয়ে, আর এর দ্বারাই সে কুফরি করল। কুরতুবীর টীকা বলে, বিসতিকবারিহী, নিজের অহংকারের কারণে সে কাফিরদের একজন হল। মাআরিফুল কুরআন ৩৮:৭১ থেকে ৩৮:৭৪ আয়াতের আলোচনায় তাফসীরে কাবীরের বরাতে বলে, হিংসা আর অহংকারই ইবলীসকে সাজদা থেকে আটকে রেখেছিল। তাহলে তাফসীরে জোর পড়েছে দুই জায়গায়। একটা হল অস্বীকার তাকে কী বানাল, অন্যটা হল আল্লাহ আগে থেকেই কী জানতেন। তাবারী দুটোই ধরে রাখেন, অন্যরা এক দিকে একটু বেশি ঝোঁকেন।"
+          },
+          {
+            "en": "A reader may ask how foreknowledge sits with choice. The commentaries read for this verse do not take that question up, and this article does not answer it on their behalf. What every reading shares is plainer: istakbara has Iblis as its subject. No commentator consulted here places the arrogance anywhere but in him, or names the prior knowledge as the reason he refused.",
+            "bn": "পাঠকের মনে প্রশ্ন জাগতে পারে, আল্লাহর আগের জ্ঞানের সঙ্গে বান্দার বেছে নেওয়ার সম্পর্ক তাহলে কী? এই আয়াতের জন্য পড়া তাফসীরগুলো এখানে সে প্রশ্নে যায়নি, আর এ প্রবন্ধও তাদের হয়ে তার জবাব দিচ্ছে না। তবে সব পাঠে যে কথাটা এক, তা আরও সহজ: ইসতাকবারা ক্রিয়ার কর্তা ইবলীস নিজে। এখানে দেখা কোনো তাফসীরকার অহংকারটাকে তার বাইরে কোথাও রাখেননি, আর কেউই আগের জ্ঞানকে তার অস্বীকারের কারণ বলেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Deeds Weighed at the Close",
+          "bn": "আমলের বিচার শেষটায়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read for 38:74 attaches a hadith to it, and none gives an occasion of revelation. Al-Qurtubi, though, in the discussion of 2:34 to which his note here points, backs the majority reading of kana with a sound narration. This is correct, he writes, because of the words of the Prophet ﷺ in Sahih al-Bukhari: wa-innama l-a'malu bi-l-khawatim, and deeds are only by their endings. The link to the clause is al-Qurtubi's, made on 2:34; the commentaries on this verse do not make it.",
+            "bn": "৩৮:৭৪ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, শানে নুযূলও দেয়নি। তবে এখানকার টীকায় কুরতুবী যে ২:৩৪ আয়াতের আলোচনার দিকে ইশারা করেছেন, সেখানে তিনি কানা শব্দের অধিকাংশের পাঠকে একটি সহীহ বর্ণনা দিয়ে মজবুত করেন। তিনি লেখেন, এটাই সঠিক, কারণ সহীহ বুখারীতে নবী ﷺ বলেছেন: ওয়া ইন্নামাল আ'মালু বিল খাওয়াতীম, আমল তো শেষ অবস্থা দিয়েই বিচার হয়। বাক্যাংশটির সঙ্গে এই যোগসূত্র কুরতুবীর, ২:৩৪ আয়াতে টানা। এই আয়াতের তাফসীরগুলো তা করেনি।"
+          },
+          {
+            "en": "Al-Bukhari records it in his Sahih (6607) from Sahl ibn Sa'd. In one campaign a man fought harder for the Muslims than anyone, yet the Prophet ﷺ said that whoever wished to see a man of the people of the Fire should look at him. Later, wounded, the man hurried his own death with his sword. Then the Prophet ﷺ said: Truly the servant does the deeds of the people of the Fire while he is of the people of the Garden, and does the deeds of the people of the Garden while he is of the people of the Fire; and deeds are only by their endings.",
+            "bn": "বুখারী তাঁর সহীহ গ্রন্থে (৬৬০৭) সাহল ইবন সা'দ (রাঃ) থেকে এটি বর্ণনা করেছেন। এক অভিযানে এক লোক মুসলিমদের পক্ষে সবার চেয়ে বেশি লড়াই করছিল। অথচ নবী ﷺ বললেন, কেউ জাহান্নামি লোক দেখতে চাইলে যেন একে দেখে। পরে আহত হয়ে লোকটা নিজের তলোয়ার দিয়ে মৃত্যু ত্বরান্বিত করল। তখন নবী ﷺ বললেন: বান্দা জাহান্নামিদের আমল করে, অথচ সে জান্নাতিদের একজন। আবার জান্নাতিদের আমল করে, অথচ সে জাহান্নামিদের একজন। আমল তো শেষ অবস্থা দিয়েই বিচার হয়।"
+          },
+          {
+            "en": "Under istakbara on 2:34, al-Qurtubi also cites the narration that defines pride. Muslim records it in his Sahih (91) from 'Abdullah ibn Mas'ud (RA), that the Prophet ﷺ said: No one will enter the Garden who has in his heart the weight of a speck of pride. A man said: a man likes his garment to be fine and his sandals fine. He said: Allah is beautiful and loves beauty. Pride is batar al-haqq wa-ghamt an-nas, rejecting the truth and looking down on people. The article on 15:33 also sets it out.",
+            "bn": "২:৩৪ আয়াতে ইসতাকবারা প্রসঙ্গে কুরতুবী অহংকারের সংজ্ঞা দেওয়া হাদীসটিও আনেন। মুসলিম তাঁর সহীহ গ্রন্থে (৯১) আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ বলেছেন: যার অন্তরে অণু পরিমাণ অহংকার আছে, সে জান্নাতে প্রবেশ করবে না। এক ব্যক্তি বলল, মানুষ তো চায় তার কাপড় সুন্দর হোক, তার জুতা সুন্দর হোক। তিনি বললেন: আল্লাহ সুন্দর, তিনি সৌন্দর্য ভালোবাসেন। অহংকার হল বাতারুল হাক্ক ওয়া গামতুন নাস, সত্যকে প্রত্যাখ্যান করা আর মানুষকে তুচ্ছ করা। ১৫:৩৩ আয়াতের প্রবন্ধেও হাদীসটি আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Label to Pin on Anyone",
+          "bn": "কারও গায়ে সাঁটার তকমা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes one named being, Iblis, and what it says of him is Allah's own verdict. It licenses nothing against any living person or community. Ma'arif al-Qur'an, citing the Tafsir Kabir, likens the envy and arrogance of the Arabian polytheists who rejected the Prophet ﷺ to his, a reading the article on 38:71 already discusses. That comparison describes people of the past. It gives no one the right to call an opponent Iblis, or to number anyone among the disbelievers.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একজন নির্দিষ্ট সত্তার কথা বলে, সে ইবলীস। তার সম্পর্কে যা বলা হয়েছে, তা আল্লাহর নিজের রায়। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে আয়াতটি কোনো কিছুর অনুমতি দেয় না। মাআরিফুল কুরআন তাফসীরে কাবীরের বরাতে নবী ﷺ-কে প্রত্যাখ্যানকারী আরবের মুশরিকদের হিংসা আর অহংকারকে ইবলীসের সঙ্গে তুলনা করেছে। ৩৮:৭১ আয়াতের প্রবন্ধে সে পাঠ নিয়ে আলোচনা হয়ে গেছে। তুলনাটা অতীতের এক দলের বর্ণনা। এর জোরে কেউ প্রতিপক্ষকে ইবলীস বলার বা কাউকে কাফিরদের দলে গোনার অধিকার পায় না।"
+          },
+          {
+            "en": "The commentaries point the other way, toward oneself. If the decisive fact is an ending that only Allah knows, no one can claim it for another. Al-Qurtubi says as much on 2:34, in a passage on people credited with wonders: no one can be certain that a given man will die a believer, and the man himself cannot be certain either. So the verse asks each reader to keep watch over the heart. Bow where Allah commands, notice the moment a command feels beneath you, and ask Him for a good ending.",
+            "bn": "তাফসীরগুলো বরং উল্টো দিকে, নিজের দিকে আঙুল তোলে। আসল কথা যদি হয় সেই শেষ পরিণতি, যা কেবল আল্লাহ জানেন, তাহলে অন্যের হয়ে তা দাবি করার সাধ্য কারও নেই। কারামত বা অলৌকিক ঘটনা যাদের হাতে ঘটে বলে শোনা যায়, তাদের নিয়ে ২:৩৪ আয়াতের আলোচনায় কুরতুবী এ কথাই বলেন। কোনো লোক ঈমান নিয়ে মারা যাবে কি না, কেউ নিশ্চিত হতে পারে না, এমনকি লোকটা নিজেও না। তাই আয়াতটি নিজের অন্তরের উপর পাহারা বসাতে বলে। আল্লাহ যেখানে হুকুম দেন সেখানে নত হোন। কোনো হুকুম নিজের মর্যাদার চেয়ে নিচু মনে হলে সেই মুহূর্তটা চিনে নিন। আর তাঁর কাছে ভালো শেষের দোয়া করুন।"
+          }
+        ]
+      }
+    ]
+  },
   "38:76": {
     "sections": [
       {

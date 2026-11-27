@@ -37333,6 +37333,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When the truth has been made clear and is still refused, say it plainly once, keep doing what Allah asked of you, and leave the outcome to Him.",
     "lessonBn": "সত্য স্পষ্ট করে বলার পরও কেউ না মানলে কথাটা একবার সোজাসুজি বলুন, আল্লাহ যা করতে বলেছেন তা করে যান, আর পরিণাম তাঁর হাতে ছেড়ে দিন।"
+  },
+  "38:74": {
+    "reflectionEn": "Every angel went down in prostration. One figure stayed upright, and the verse gives him six words: except Iblis; he was arrogant, and he was of the disbelievers. No struggle is described, no hesitation, no argument yet. The verse names a stance, holding himself too great, and then names where that stance placed him. The pride was not a passing mood. It was a refusal to do what Allah had commanded, because doing it seemed beneath him. The second verb leaves a quiet question: did he become a disbeliever in that moment, or was it always known how he would end? Either way, a long past did not decide the outcome. Where do I stay upright when I am told to bow, and what will my ending show?",
+    "reflectionBn": "সব ফেরেশতা সাজদায় নুয়ে পড়ল। একজনই সোজা দাঁড়িয়ে রইল, আর আয়াত তাকে দিয়েছে মাত্র ছয়টি শব্দ: ইবলীস ছাড়া; সে অহংকার করল, আর সে ছিল কাফিরদের একজন। কোনো দ্বিধার কথা নেই, টানাপোড়েনের কথা নেই, তখনো কোনো তর্কও নেই। আয়াত শুধু একটা অবস্থানের নাম বলে: নিজেকে বড় ভাবা। তারপর বলে, সেই অবস্থান তাকে কোথায় নিয়ে দাঁড় করাল। এই অহংকার ক্ষণিকের মেজাজ ছিল না। আল্লাহর হুকুম পালন করা তার কাছে নিজের মর্যাদার চেয়ে নিচু মনে হয়েছিল, তাই সে অস্বীকার করল। দ্বিতীয় ক্রিয়াটা একটা নীরব প্রশ্ন রেখে যায়। সে কি ঠিক সেই মুহূর্তে কাফির হয়ে গেল, নাকি তার শেষটা কী হবে তা আগে থেকেই জানা ছিল? যেটাই হোক, লম্বা অতীত পরিণতি ঠিক করে দেয়নি। আমাকে যেখানে নত হতে বলা হয়, সেখানে আমি কোথায় সোজা দাঁড়িয়ে থাকি? আর আমার শেষটা কী দেখাবে?",
+    "pointsEn": [
+      "When a clear command of Allah reaches me, do I ever weigh whom it seems to honour before I weigh who gave it?",
+      "Is there something right that I keep putting off, not because I doubt it, but because doing it would make me feel smaller?",
+      "How much do I lean on my good record so far, as if it already settles how I will end?",
+      "When I see someone fall, do I quietly rank myself above them, forgetting that only Allah knows how either of us will end?",
+      "What small act of submission could I make today, exactly where my pride pushes back hardest?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কোনো স্পষ্ট হুকুম যখন আমার কাছে আসে, তখন কে হুকুম দিলেন সেটা দেখার আগে কি আমি দেখি, এতে কার সম্মান বাড়ছে?",
+      "এমন কোনো ভালো কাজ কি আছে যা আমি বারবার পিছিয়ে দিচ্ছি, সন্দেহের কারণে নয়, বরং করলে নিজেকে ছোট মনে হবে বলে?",
+      "এ পর্যন্ত আমার ভালো আমলের খাতার উপর আমি কতটা ভরসা করে বসে আছি, যেন শেষটা কেমন হবে তা ওতেই ঠিক হয়ে গেছে?",
+      "কাউকে পিছলে পড়তে দেখলে আমি কি মনে মনে নিজেকে তার উপরে বসাই, আর ভুলে যাই যে আমাদের দুজনের শেষটা কেবল আল্লাহই জানেন?",
+      "আমার অহংকার ঠিক যেখানে সবচেয়ে জোরে বাধা দেয়, আজ সেখানে আমি কোন ছোট্ট আনুগত্যটুকু করতে পারি?"
+    ],
+    "lessonEn": "Pride kept Iblis upright when every angel bowed. Bow where Allah tells you to bow, and never trust a good past over the ending that only He knows.",
+    "lessonBn": "সব ফেরেশতা যখন নত হল, অহংকার ইবলীসকে সোজা দাঁড় করিয়ে রাখল। আল্লাহ যেখানে নত হতে বলেন, সেখানে নত হোন। আর যে শেষটা কেবল তিনিই জানেন, তার চেয়ে নিজের ভালো অতীতের উপর বেশি ভরসা করবেন না।"
   }
 };
 
