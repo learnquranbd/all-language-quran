@@ -11,6 +11,166 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "37:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Words Open the Surah",
+          "bn": "দুটি শব্দে খোলা সূরা"
+        },
+        "p": [
+          {
+            "en": "Wa-s-saffati saffa: by those ranged in rows. The verse is two words, an oath followed by the noun of its own verb, and it gives Surah as-Saffat its name. Al-Qurtubi notes that the surah is Makkan in the view of all. First comes the oath itself, the first of three that run through 37:1, 37:2 and 37:3.",
+            "bn": "ওয়াস-সাফফাতি সাফফা: শপথ তাদের, যারা সারি বেঁধে দাঁড়ায়। আয়াতটি মাত্র দুই শব্দের। প্রথমটি শপথ, দ্বিতীয়টি একই ক্রিয়ার নিজস্ব বিশেষ্য। এ আয়াত থেকেই সূরা আস-সাফফাতের নাম। কুরতুবী জানান, সবার মতেই সূরাটি মাক্কী। আগে শপথটি নিজে। ৩৭:১, ৩৭:২ ও ৩৭:৩ আয়াত জুড়ে যে তিনটি শপথ, এটি তার প্রথম।"
+          },
+          {
+            "en": "Al-Qurtubi names what the three oaths are for. The sentence inna ilahakum la-wahid, indeed your God is One, in 37:4 is the jawab al-qasam, the answer the oath was sworn to deliver. The shipped pages on 37:3 and 37:5 follow the reciters and the One who is Lord of the sunrises. This page stays with the first witnesses: who those ranged in rows are, where the commentators part ways, and what the Prophet ﷺ drew from the angels' rows for his Companions.",
+            "bn": "তিনটি শপথ কিসের জন্য, কুরতুবী তা স্পষ্ট করে দেন। ৩৭:৪ আয়াতের বাক্য ইন্না ইলাহাকুম লা-ওয়াহিদ, নিশ্চয় তোমাদের ইলাহ একজন, হলো জাওয়াবুল কাসাম। অর্থাৎ যে কথা পৌঁছে দিতে শপথ করা হয়েছে, এটি সেই কথা। ৩৭:৩ ও ৩৭:৫ আয়াতের প্রকাশিত লেখায় এসেছে পাঠকারীদের কথা, আর সেই একক সত্তার কথা যিনি সব উদয়স্থলের রব। এ লেখা থাকবে প্রথম সাক্ষীদের কাছে। সারিবদ্ধরা কারা, তাফসীরকারেরা কোথায় ভিন্ন পথে গেছেন, আর ফেরেশতাদের সারি থেকে নবী ﷺ তাঁর সাহাবিদের জন্য কী শিক্ষা নিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Line, Then Rows of Rows",
+          "bn": "এক রেখা, তারপর কাতারের পর কাতার"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi defines the word before he interprets it: as-saff is the arranging of a gathering on a line, like the row in prayer. At-Tabari and al-Qurtubi both add a point of grammar. One company standing in line is a saffa, and saffat gathers many such companies, so the word is a plural of a plural. The picture is not a single row but many rows, each a body of its own. The verb's own noun, saffan, then follows it: ranged in a ranging.",
+            "bn": "ব্যাখ্যায় যাওয়ার আগে কুরতুবী শব্দটির সংজ্ঞা দেন। সাফ মানে একদল মানুষকে এক রেখায় সাজানো, যেমন নামাজের কাতার। তাবারী ও কুরতুবী দুজনেই এখানে একটি ব্যাকরণের কথা যোগ করেন। এক রেখায় দাঁড়ানো একটি দলকে বলে সাফফা। আর সাফফাত এমন বহু দলকে একসঙ্গে ধরে। তাই শব্দটি বহুবচনেরও বহুবচন। ছবিটা তাই একটিমাত্র কাতারের নয়, বহু কাতারের, যার প্রতিটি নিজেই একটি দল। এরপর আসে একই ক্রিয়ার বিশেষ্য সাফফান। অর্থাৎ সারি বাঁধা, পুরোপুরি সারি বেঁধে।"
+          },
+          {
+            "en": "The later works describe what such rows look like. The Muyassar, reading 37:1 to 37:4 together, speaks of angels ranged in their worship in rows that are mutarassa, packed close with no gap between those who stand in them. As-Sa'di says they are ranged in rows in the service of their Lord. Both keep the image the word itself gives: a company placed shoulder to shoulder on one line, all of it facing one way.",
+            "bn": "পরবর্তী তাফসীরগুলো দেখায়, এমন কাতার দেখতে কেমন। মুয়াসসার ৩৭:১ থেকে ৩৭:৪ পর্যন্ত একসঙ্গে পড়ে বলে, ফেরেশতারা ইবাদতে সারি বাঁধে মুতারাসসা কাতারে। অর্থাৎ এমন ঘন কাতার, যেখানে দাঁড়ানোদের মাঝে কোনো ফাঁক নেই। সা'দী বলেন, তারা তাদের রবের খেদমতে কাতারবন্দী। দুটি ব্যাখ্যাই শব্দটির নিজের ছবিকে ধরে রাখে। একদল সৃষ্টি কাঁধে কাঁধ মিলিয়ে এক রেখায় দাঁড়ানো, আর সবাই একই দিকে মুখ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Angels Ranged in Heaven",
+          "bn": "আসমানে কাতারবন্দী ফেরেশতা"
+        },
+        "p": [
+          {
+            "en": "The earliest name on the reading that prevailed is Ibn Mas'ud. At-Tabari carries it through Masruq in two chains: first Masruq's own words, that those ranged in rows are the angels, then the same from Masruq from 'Abd Allah ibn Mas'ud. Ibn Kathir gives it through Sufyan ath-Thawri, al-A'mash, Abu ad-Duha and Masruq: Ibn Mas'ud said of by those ranged in rows, they are the angels. At-Tabari also says it in his own voice. The saffat are the angels ranged for their Lord in heaven, and so, he adds, the interpreters explained it.",
+            "bn": "যে ব্যাখ্যা শেষ পর্যন্ত প্রাধান্য পেয়েছে, তার সবচেয়ে পুরোনো নাম ইবন মাসঊদ (রাঃ)। তাবারী মাসরূকের মাধ্যমে দুটি সনদে কথাটি আনেন। প্রথমটিতে মাসরূকের নিজের কথা: সারিবদ্ধরা হলো ফেরেশতা। দ্বিতীয়টিতে একই কথা মাসরূক থেকে, তিনি আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে। ইবন কাসীর কথাটি আনেন সুফিয়ান সাওরী, আ'মাশ, আবুদ-দুহা ও মাসরূকের সূত্রে: ইবন মাসঊদ (রাঃ) 'শপথ তাদের, যারা সারি বেঁধে দাঁড়ায়' সম্পর্কে বলেছেন, এরা ফেরেশতা। তাবারী নিজের ভাষাতেও একই কথা বলেন। সাফফাত হলো আসমানে নিজেদের রবের জন্য কাতারবন্দী ফেরেশতারা। তিনি যোগ করেন, ব্যাখ্যাকারেরা এভাবেই এর ব্যাখ্যা করেছেন।"
+          },
+          {
+            "en": "Other early names join him. At-Tabari adds Qatada, who said the saffat are the angels in rows in the heaven, and as-Suddi, who said simply: they are the angels. Al-Qurtubi gives the reading to Ibn 'Abbas, Ibn Mas'ud, 'Ikrima, Sa'id ibn Jubayr, Mujahid and Qatada, and applies it to all three oaths. Al-Baghawi names Ibn 'Abbas, al-Hasan and Qatada: these are the angels in heaven, ranging themselves as people range themselves in this world for prayer.",
+            "bn": "প্রথম যুগের আরও কয়েকজন একই কথা বলেছেন। তাবারী আনেন কাতাদাকে, যিনি বলেছেন, সাফফাত হলো আসমানে সারিবদ্ধ ফেরেশতারা। আর সুদ্দী সংক্ষেপে বলেছেন: এরা ফেরেশতা। কুরতুবী মতটি সম্পৃক্ত করেন ইবন আব্বাস (রাঃ), ইবন মাসঊদ (রাঃ), ইকরিমা, সাঈদ ইবন জুবাইর, মুজাহিদ ও কাতাদার সঙ্গে। আর তিনি একে তিনটি শপথের সবগুলোর উপরেই প্রয়োগ করেন। বাগাভী নাম নেন ইবন আব্বাস (রাঃ), হাসান ও কাতাদার। তাঁদের কথায়, এরা আসমানের ফেরেশতা। দুনিয়াতে মানুষ যেমন নামাজের জন্য কাতার বাঁধে, তারাও তেমনি কাতার বাঁধে।"
+          },
+          {
+            "en": "At-Tabari closes his entry with Ibn Zayd, who said only that this is an oath Allah swore. Ma'arif al-Qur'an points to the angels' own words near the end of the surah, in 37:165: and indeed, we are those ranged in rows. The next verse, 37:166, completes their sentence: and indeed, we are those who glorify. The surah opens on their rows and later lets them name themselves with the same word.",
+            "bn": "তাবারী তাঁর আলোচনা শেষ করেন ইবন যায়দকে দিয়ে। তিনি শুধু এটুকু বলেছেন: এটি আল্লাহর করা একটি শপথ। মাআরিফুল কুরআন দৃষ্টি ফেরায় সূরার শেষ দিকে ফেরেশতাদের নিজেদের কথার দিকে, ৩৭:১৬৫ আয়াতে: আর আমরাই তো সারিবদ্ধ হয়ে দাঁড়ানো। পরের আয়াত ৩৭:১৬৬ তাদের কথাটি পূর্ণ করে: আর আমরাই তো তাসবীহ পাঠকারী। সূরা শুরু হয় তাদের কাতার দিয়ে, আর পরে তারা নিজেরাই একই শব্দে নিজেদের পরিচয় দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Waiting on the Command",
+          "bn": "হুকুমের অপেক্ষায় দাঁড়িয়ে"
+        },
+        "p": [
+          {
+            "en": "When are these rows formed? Ma'arif al-Qur'an, citing Tafsir Mazhari, reports from Ibn 'Abbas, al-Hasan al-Basri and Qatada that the angels are always standing in their rows, awaiting their Lord's command, and carry it out when it comes. Others, it says citing Tafsir Kabir, tie the rows to the time of worship: when the angels are busy with worship, remembrance and glorification, they stand in rows. Al-Qurtubi reports al-Hasan on the second side: saffan means their rows before their Lord in their prayer. So al-Hasan's name appears in two reports that do not say the same thing.",
+            "bn": "এই কাতার কখন বাঁধা হয়? মাআরিফুল কুরআন তাফসীরে মাযহারীর বরাতে ইবন আব্বাস (রাঃ), হাসান বসরী ও কাতাদা থেকে জানায়, ফেরেশতারা সব সময়ই নিজেদের কাতারে দাঁড়িয়ে থাকে। তারা রবের হুকুমের অপেক্ষা করে, আর হুকুম এলে তা পালন করে। মাআরিফুল কুরআন তাফসীরে কাবীরের বরাতে আরও জানায়, অন্যরা কাতারকে ইবাদতের সময়ের সঙ্গে যুক্ত করেছেন। ফেরেশতারা যখন ইবাদত, জিকির ও তাসবীহে মগ্ন থাকে, তখন তারা কাতারবন্দী হয়। কুরতুবী হাসানের যে কথা আনেন, তা দ্বিতীয় মতের পক্ষে: সাফফান মানে নামাজে রবের সামনে তাদের কাতার। ফলে হাসানের নাম আসে দুটি বর্ণনায়, আর দুটি একই কথা বলে না।"
+          },
+          {
+            "en": "A third picture comes under the words it is said, in both al-Qurtubi and al-Baghawi: the angels spread their wings in the air, standing still in it until Allah commands them what He wills. Al-Qurtubi follows it with a comparison: this is how servants stand in rows before their kings. The Qur'an shows angels in rows in other places as well, on the Day when the Spirit and the angels stand in rows and none speaks without leave (78:38), and when your Lord comes with the angels rank upon rank (89:22). No commentator fetched here cites them; they stand only as parallels.",
+            "bn": "তৃতীয় একটি ছবি আসে 'বলা হয়' কথাটির অধীনে, কুরতুবী ও বাগাভী দুজনের তাফসীরেই। ফেরেশতারা শূন্যে ডানা মেলে স্থির দাঁড়িয়ে থাকে, যতক্ষণ না আল্লাহ তাদের যা ইচ্ছা হুকুম করেন। কুরতুবী এর পরে একটি তুলনা টানেন: রাজাদের সামনে দাসেরা যেভাবে সারি বেঁধে দাঁড়ায়, এ তেমনই। কুরআনের অন্য জায়গাতেও ফেরেশতাদের কাতারবন্দী দেখা যায়। সেদিন রূহ ও ফেরেশতারা সারি বেঁধে দাঁড়াবে, অনুমতি ছাড়া কেউ কথা বলবে না (৭৮:৩৮)। আর আপনার রব আসবেন, ফেরেশতারা আসবে কাতারে কাতারে (৮৯:২২)। এখানে সংগৃহীত কোনো তাফসীর এ দুটি আয়াত উল্লেখ করেনি। এগুলো দেওয়া হলো শুধু সমান্তরাল দৃষ্টান্ত হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Birds, Worshippers and Fighters",
+          "bn": "পাখি, নামাজি আর যোদ্ধা"
+        },
+        "p": [
+          {
+            "en": "Not every reading takes the rows to be angels, and the commentators name the other side. Al-Qurtubi and al-Baghawi both record, under the words it is said, that those ranged in rows are the birds. Al-Qurtubi's proof is 67:19, have they not seen the birds above them, saffat, with wings outspread. Al-Baghawi's is 24:41, and the birds, saffat. The same word describes birds holding their wings open in flight, and the reading rests on that use of it in the Qur'an.",
+            "bn": "সব ব্যাখ্যা এই সারিকে ফেরেশতা ধরেনি, আর তাফসীরকারেরা অন্য পক্ষের কথাও উল্লেখ করেন। কুরতুবী ও বাগাভী দুজনেই 'বলা হয়' বলে লেখেন যে সারিবদ্ধরা হলো পাখি। কুরতুবীর দলিল ৬৭:১৯ আয়াত: তারা কি তাদের উপরে পাখিদের দেখে না, সাফফাত, ডানা মেলে? বাগাভীর দলিল ২৪:৪১ আয়াত: আর পাখিরা, সাফফাত। ওড়ার সময় ডানা মেলে রাখা পাখির বর্ণনায় কুরআন এই শব্দটিই ব্যবহার করেছে। এ ব্যাখ্যা দাঁড়িয়ে আছে সেই ব্যবহারের উপর।"
+          },
+          {
+            "en": "A second view turns to people. Al-Qurtubi relays from al-Qushayri that the saffat are the believers when they stand in a row in prayer or in jihad. Ma'arif al-Qur'an, citing Tafsir Kabir and al-Qurtubi, gives two forms of it. Some take the words to mean fighters in the way of Allah, standing row after row to hold back the forces of falsehood and keeping to remembrance and recitation as they do. Others take them to mean worshippers in rows in the mosque, who shut out the whispers of Shaytan by full attention to remembrance and the Qur'an.",
+            "bn": "দ্বিতীয় একটি মত মানুষের দিকে ফেরে। কুরতুবী কুশাইরী থেকে আনেন, সাফফাত হলো মুমিনেরা, যখন তারা নামাজে কিংবা জিহাদে কাতার বেঁধে দাঁড়ায়। মাআরিফুল কুরআন তাফসীরে কাবীর ও কুরতুবীর বরাতে এ মতের দুটি রূপ দেখায়। কেউ কেউ এর অর্থ নিয়েছেন আল্লাহর পথের যোদ্ধা। তারা কাতারের পর কাতার দাঁড়িয়ে বাতিলের শক্তিকে ঠেকায়, আর তখনও জিকির ও তিলাওয়াতে লেগে থাকে। অন্যরা এর অর্থ নিয়েছেন মসজিদে কাতারবন্দী নামাজি। তারা জিকির ও কুরআনে পুরো মন দিয়ে শয়তানের কুমন্ত্রণার পথ বন্ধ করে দেয়।"
+          },
+          {
+            "en": "Ma'arif adds that a few further explanations fit the words of the Qur'an poorly, and that the angels found the widest acceptance. At-Tabari records no reading but the angels. Those are their own judgements, reported as theirs. One thing needs saying plainly about the reading of rows in battle. It explains a word in an oath, and it describes what those commentators describe. It licenses nothing against any living person or community, and no one may take a warrant to fight from it.",
+            "bn": "মাআরিফুল কুরআন আরও বলে, আরও কিছু ব্যাখ্যা আছে যা কুরআনের শব্দের সঙ্গে ভালো মেলে না, আর সবচেয়ে বেশি গ্রহণযোগ্যতা পেয়েছে ফেরেশতা-ব্যাখ্যা। তাবারী ফেরেশতা ছাড়া আর কোনো মত আনেননি। এগুলো তাঁদের নিজস্ব বিচার, তাঁদের নামেই বলা হলো। যুদ্ধের কাতারের ব্যাখ্যা নিয়ে একটি কথা সোজাসুজি বলা দরকার। এ ব্যাখ্যা একটি শপথের একটি শব্দের অর্থ বলে, আর ওই তাফসীরকারেরা যা বর্ণনা করেছেন, শুধু তা-ই বর্ণনা করে। জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। এ থেকে লড়াইয়ের ছাড়পত্র নেওয়ার অধিকারও কারও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Order Instead of a Crowd",
+          "bn": "ভিড় নয়, শৃঙ্খলা"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an draws a lesson from the word itself. The angels could have carried out their worship and their Lord's command, it says, even had they gathered as a disorderly mob. Instead they were given the ability to form rows, and this is the first of their good qualities the verse mentions. From that it concludes that doing things in an organised and disciplined way, with due care for order and skill, is expected of believers and is something Allah likes.",
+            "bn": "মাআরিফুল কুরআন শব্দটি থেকেই একটি শিক্ষা বের করে। তাদের কথায়, ফেরেশতারা এলোমেলো ভিড় হয়ে জড়ো হলেও তাদের ইবাদত আর রবের হুকুম পালন হয়তো হয়ে যেত। কিন্তু তাদের কাতার বাঁধার তাওফিক দেওয়া হয়েছে। আর আয়াতটি তাদের সব ভালো গুণের মধ্যে প্রথমেই এই গুণের উল্লেখ করেছে। এ থেকে মাআরিফুল কুরআন সিদ্ধান্ত টানে, যে কাজই হোক, শৃঙ্খলা ও নিয়ম মেনে, যত্ন আর দক্ষতার সঙ্গে করা মুমিনের কাছে কাম্য। আর আল্লাহ এটা পছন্দ করেন।"
+          },
+          {
+            "en": "It then carries the point from angels to people. Straight and complete rows in prayer, it says, are not for the angels alone, and so many hadith stress them that they could fill a treatise of their own. That turn is where the narrations below come in. Here it is enough that the first witnesses to the word One are shown keeping order.",
+            "bn": "তারপর মাআরিফুল কুরআন কথাটিকে ফেরেশতা থেকে মানুষের দিকে নিয়ে আসে। তাদের কথায়, নামাজে সোজা ও পূর্ণ কাতার শুধু ফেরেশতাদের জন্য নয়। এ বিষয়ে এত হাদীস এসেছে যে তা দিয়ে আলাদা একটি পুস্তিকা লেখা যায়। পরের হাদীসগুলো আসে ঠিক এই জায়গা থেকে। এখানে এটুকুই যথেষ্ট যে 'একজন' কথাটির প্রথম সাক্ষীদের দেখানো হয়েছে শৃঙ্খলায় দাঁড়ানো অবস্থায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Complete the Front Rows",
+          "bn": "সামনের কাতার আগে পূর্ণ করো"
+        },
+        "p": [
+          {
+            "en": "The commentators fetched here attach narrations to this verse, and none of them is about why it came down; they are about rows. Al-Baghawi carries one directly under the verse, through his own chain to Abu Dawud. Ibn Kathir says Muslim, Abu Dawud, an-Nasa'i and Ibn Majah recorded it. The wording is Sahih Muslim's (430), given whole; the page on 37:3 quoted only its end. Jabir ibn Samura reported: The Messenger of Allah ﷺ came to us and said: \"How is it that I see you lifting your hands like the tails of headstrong horses? Be calm in prayer.\"",
+            "bn": "এখানে সংগৃহীত তাফসীরগুলো এ আয়াতের সঙ্গে কিছু বর্ণনা যুক্ত করে। এর কোনোটিই আয়াত নাজিলের কারণ নিয়ে নয়, সবই কাতার নিয়ে। বাগাভী একটি বর্ণনা আনেন ঠিক এ আয়াতের নিচে, আবু দাউদ পর্যন্ত নিজের সনদে। ইবন কাসীর জানান, মুসলিম, আবু দাউদ, নাসাঈ ও ইবন মাজাহ এটি বর্ণনা করেছেন। ভাষ্যটি সহীহ মুসলিমের (৪৩০), পুরোটা দেওয়া হলো। ৩৭:৩ আয়াতের লেখায় এর শুধু শেষ অংশ এসেছিল। জাবির ইবন সামুরা (রাঃ) বলেন: রাসূলুল্লাহ ﷺ আমাদের কাছে বেরিয়ে এসে বললেন: \"কী ব্যাপার, তোমাদের দেখছি অবাধ্য ঘোড়ার লেজের মতো হাত উঠাচ্ছ? নামাজে স্থির থাকো।\""
+          },
+          {
+            "en": "He said: He then again came to us and saw us (sitting) in circles. He said: \"How is it that I see you in separate groups?\" He said: He again came to us and said: \"Why don't you draw yourselves up in rows as angels do in the presence of their Lord?\" We said: Messenger of Allah, how do the angels draw themselves up in rows in the presence of their Lord? He said: \"They make the first rows complete and keep close together in the row.\"",
+            "bn": "তিনি বলেন: এরপর আবার তিনি আমাদের কাছে এলেন, আর আমাদের গোল হয়ে আলাদা আলাদা বসে থাকতে দেখলেন। তিনি বললেন: \"কী ব্যাপার, তোমাদের দেখছি ভাগ ভাগ হয়ে আছ?\" তিনি বলেন: এরপর আবার তিনি আমাদের কাছে এসে বললেন: \"ফেরেশতারা যেভাবে তাদের রবের সামনে কাতার বাঁধে, তোমরা কেন সেভাবে কাতার বাঁধো না?\" আমরা বললাম: হে আল্লাহর রাসূল, ফেরেশতারা তাদের রবের সামনে কীভাবে কাতার বাঁধে? তিনি বললেন: \"তারা প্রথম কাতারগুলো পূর্ণ করে, আর কাতারে গায়ে গায়ে মিলে দাঁড়ায়।\""
+          },
+          {
+            "en": "The report is in Muslim's Sahih and needs no further grading. Ibn Kathir sets beside it the report of Hudhayfa, also in Sahih Muslim (522): The Messenger of Allah ﷺ said: \"We have been made to excel (other) people in three (things): Our rows have been made like the rows of the angels and the whole earth has been made a mosque for us, and its dust has been made a purifier for us in case water is not available.\" And he mentioned another characteristic too.",
+            "bn": "বর্ণনাটি সহীহ মুসলিমে আছে, এর আলাদা মান নির্ণয়ের প্রয়োজন নেই। ইবন কাসীর এর পাশে রাখেন হুযাইফা (রাঃ)-এর বর্ণনা, সেটিও সহীহ মুসলিমে (৫২২)। রাসূলুল্লাহ ﷺ বলেছেন: \"তিনটি বিষয়ে আমাদের অন্য মানুষের উপর শ্রেষ্ঠত্ব দেওয়া হয়েছে: আমাদের কাতারকে ফেরেশতাদের কাতারের মতো করা হয়েছে, পুরো পৃথিবীকে আমাদের জন্য মসজিদ বানানো হয়েছে, আর পানি না পেলে এর মাটিকে আমাদের জন্য পবিত্রকারী করা হয়েছে।\" আর তিনি আরও একটি বৈশিষ্ট্যের কথা উল্লেখ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Straight Rows, Undivided Hearts",
+          "bn": "সোজা কাতার, অবিভক্ত হৃদয়"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an, citing Jam' al-Fawa'id with reference to Muslim and an-Nasa'i, adds a report of Abu Mas'ud al-Badri. Sahih Muslim (432) has it so: The Messenger of Allah ﷺ used to touch our shoulders in prayer and say: \"Keep straight, don't be irregular, for there would be dissension in your hearts. Let those of you who are sedate and prudent be near me, then those who are next to them, then those who are next to them.\" Abu Mas'ud said: Now-a-days there is much dissension amongst you.",
+            "bn": "মাআরিফুল কুরআন জাম'উল ফাওয়াইদের বরাতে, মুসলিম ও নাসাঈর উল্লেখসহ, আবু মাসঊদ বদরী (রাঃ)-এর একটি বর্ণনা যোগ করে। সহীহ মুসলিমে (৪৩২) তা এভাবে আছে: রাসূলুল্লাহ ﷺ নামাজে আমাদের কাঁধে হাত বুলিয়ে বলতেন: \"সোজা হয়ে দাঁড়াও, আগে-পিছে হয়ো না, তাহলে তোমাদের অন্তরে বিভেদ ঢুকে পড়বে। তোমাদের মধ্যে যারা বিচক্ষণ ও প্রাজ্ঞ, তারা আমার কাছাকাছি দাঁড়াক, তারপর যারা তাদের কাছাকাছি, তারপর যারা তাদের কাছাকাছি।\" আবু মাসঊদ (রাঃ) বলেন: আর আজ তোমাদের মধ্যে বিভেদ অনেক বেশি।"
+          },
+          {
+            "en": "This narration is about the rows of prayer in general. No commentator attaches it to this verse as its occasion; Ma'arif gives it as one of the many hadith on straightening the rows. Read after the oath, though, it says something the angels' rows only show. The Prophet ﷺ tied a crooked line of bodies to a divided state of hearts. The row is an outward thing, and in his words it does not stay outward.",
+            "bn": "এ বর্ণনা সাধারণভাবে নামাজের কাতার নিয়ে। কোনো তাফসীরকার একে এ আয়াতের প্রেক্ষাপট হিসেবে যুক্ত করেননি। মাআরিফুল কুরআন একে আনে কাতার সোজা করা বিষয়ক বহু হাদীসের একটি হিসেবে। তবু শপথের পরে পড়লে এটি এমন একটি কথা বলে, যা ফেরেশতাদের কাতার শুধু দেখায়। নবী ﷺ শরীরের বাঁকা সারিকে অন্তরের বিভক্ত অবস্থার সঙ্গে জুড়ে দিয়েছেন। কাতার বাইরের জিনিস, কিন্তু তাঁর কথায় তা বাইরে আটকে থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Led in Prayer With as-Saffat",
+          "bn": "আস-সাফফাত পড়ে ইমামতি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens the surah with a report that, he notes, an-Nasa'i alone recorded. Sunan an-Nasa'i (826): It was narrated that 'Abdullah bin 'Umar said: \"The Messenger of Allah ﷺ used to enjoin upon us to make the prayer short, but he would lead us in prayer and recite As-Saffat.\" An-Nasa'i gives the report no grading. Neither he nor the commentators fetched here explain how its two halves fit together, and this page does not offer an explanation of its own.",
+            "bn": "ইবন কাসীর সূরাটি শুরু করেন এমন একটি বর্ণনা দিয়ে, যা তাঁর ভাষায় শুধু নাসাঈ বর্ণনা করেছেন। সুনান নাসাঈ (৮২৬): আবদুল্লাহ ইবন উমর (রাঃ) বলেন: \"রাসূলুল্লাহ ﷺ আমাদের নামাজ সংক্ষিপ্ত করার নির্দেশ দিতেন, অথচ তিনি আমাদের ইমামতি করতেন আস-সাফফাত পড়ে।\" নাসাঈ বর্ণনাটির কোনো মান উল্লেখ করেননি। এর দুই অংশ কীভাবে মেলে, তা তিনিও বলেননি, এখানে সংগৃহীত তাফসীরগুলোও বলেনি। এ লেখাও নিজের পক্ষ থেকে কোনো ব্যাখ্যা দিচ্ছে না।"
+          },
+          {
+            "en": "The verse asks little of the tongue and shows much. Whichever reading one follows, angels in heaven, birds with wings held open, or believers lined up in a mosque, the oath sets an ordered row before the listener and then says what the row witnesses: your God is One. The narrations bring that row down to the floor of every mosque. Filling the front row and closing the gap beside you are small acts, and they are the ones the Prophet ﷺ drew from the angels.",
+            "bn": "আয়াতটি মুখে উচ্চারণে ছোট, কিন্তু দেখায় অনেক। যে ব্যাখ্যাই ধরা হোক, আসমানের ফেরেশতা, ডানা মেলে রাখা পাখি, কিংবা মসজিদে কাতারবন্দী মুমিন, শপথ শ্রোতার সামনে একটি সুশৃঙ্খল সারি দাঁড় করায়। তারপর বলে, সেই সারি কিসের সাক্ষী: তোমাদের ইলাহ একজন। হাদীসগুলো সেই সারিকে নামিয়ে আনে প্রতিটি মসজিদের মেঝেতে। সামনের কাতার পূর্ণ করা, পাশের ফাঁকটুকু বন্ধ করা, কাজ দুটি ছোট। আর ফেরেশতাদের দেখিয়ে নবী ﷺ ঠিক এ কাজগুলোই শিখিয়েছেন।"
+          }
+        ]
+      }
+    ]
+  },
   "37:3": {
     "sections": [
       {

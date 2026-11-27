@@ -36873,6 +36873,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The last gift named for the people of Paradise is a word of peace from a merciful Lord. Make peace a word you mean, and seek the mercy that speaks it.",
     "lessonBn": "জান্নাতবাসীদের জন্য শেষ যে নিয়ামতের নাম এসেছে, তা দয়াময় রবের পক্ষ থেকে সালাম। সালামকে এমন কথা বানান যা আপনি মন থেকে বলেন, আর সেই রহমত খুঁজুন যা এ সালাম দেয়।"
+  },
+  "37:1": {
+    "reflectionEn": "The surah opens on two words: by those ranged in rows. Before any argument is made, Allah calls as witnesses beings who stand in order, row behind row, at worship before Him and waiting on His command. Most early readers took them to be the angels; others heard in the words the believers' own rows in prayer. Either way, the first thing shown is not a crowd but a line. Order here is not stiffness. It is what attention looks like when many stand before one Lord, and the oath soon lands on its point: your God is One. When I stand to pray, and when I live the rest of the day, does my place in the row show whom I stand for?",
+    "reflectionBn": "সূরাটি খোলে মাত্র দুটি শব্দে: শপথ তাদের, যারা সারি বেঁধে দাঁড়ায়। কোনো যুক্তি তোলার আগেই আল্লাহ সাক্ষী হিসেবে ডাকেন এমন সৃষ্টিকে, যারা শৃঙ্খলা মেনে দাঁড়িয়ে আছে, এক কাতারের পেছনে আরেক কাতার। তারা তাঁর ইবাদতে রত, তাঁর হুকুমের অপেক্ষায়। প্রথম যুগের বেশির ভাগ আলিম এদের ফেরেশতা বলেছেন। কেউ কেউ এ শব্দে নামাজে মুমিনদের নিজেদের কাতারও দেখেছেন। যেভাবেই পড়া হোক, প্রথম যে ছবি সামনে আসে তা ভিড়ের নয়, সারির। এ শৃঙ্খলা আড়ষ্টতা নয়। বহু জন যখন এক রবের সামনে দাঁড়ায়, মনোযোগের চেহারা এমনই হয়। আর শপথ অল্প পরেই আসল কথায় পৌঁছায়: তোমাদের ইলাহ একজন। নামাজে দাঁড়ালে, আর দিনের বাকি সময়টা কাটালেও, কাতারে আমার জায়গাটা কি জানিয়ে দেয় আমি কার জন্য দাঁড়িয়েছি?",
+    "pointsEn": [
+      "When I join a congregation, do I look for the gap in the front row, or settle wherever is easiest to leave from?",
+      "What would change in my prayer if I pictured it as one row among the rows of those who never tire of worship?",
+      "Where in my week does a crowd's carelessness pass for freedom, when order would have served the people around me better?",
+      "Do I stand close to the believers beside me, in the row and outside it, or leave spaces that someone else has to fill?",
+      "If the first witness to Allah's Oneness is a row standing ready for His command, what command am I still waiting to carry out?"
+    ],
+    "pointsBn": [
+      "জামাতে শামিল হলে আমি কি সামনের কাতারের ফাঁকটা খুঁজি, নাকি এমন জায়গায় দাঁড়াই যেখান থেকে সহজে বেরিয়ে যাওয়া যায়?",
+      "আমার নামাজকে যদি সেই কাতারগুলোর পাশে আরেকটি কাতার ভাবি, যারা ইবাদতে কখনো ক্লান্ত হয় না, তবে নামাজে কী বদলাবে?",
+      "সপ্তাহের কোথায় কোথায় ভিড়ের বেপরোয়া ভাবটাকে আমি স্বাধীনতা ভেবে নিই, অথচ শৃঙ্খলা থাকলে আশপাশের মানুষের বেশি উপকার হতো?",
+      "কাতারে এবং কাতারের বাইরে, পাশের মুমিন ভাইয়ের গা ঘেঁষে কি আমি দাঁড়াই, নাকি এমন ফাঁক রেখে যাই যা অন্য কাউকে পূরণ করতে হয়?",
+      "আল্লাহর একত্বের প্রথম সাক্ষী যদি হয় তাঁর হুকুমের জন্য প্রস্তুত একটি সারি, তবে কোন হুকুম পালন করতে আমি এখনো দেরি করছি?"
+    ],
+    "lessonEn": "Stand before Allah the way those He swore by stand: in order, close together and ready, so that your prayer and your day both witness that your God is One.",
+    "lessonBn": "আল্লাহ যাদের শপথ করেছেন, তাদের মতো করেই তাঁর সামনে দাঁড়ান: শৃঙ্খলায়, কাছাকাছি, প্রস্তুত হয়ে, যাতে আপনার নামাজ আর আপনার সারাটা দিন সাক্ষ্য দেয় যে আপনার ইলাহ একজন।"
   }
 };
 
