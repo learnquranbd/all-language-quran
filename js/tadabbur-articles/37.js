@@ -3227,6 +3227,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:60": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words After the Look",
+          "bn": "উঁকি দেওয়ার পর পাঁচ শব্দ"
+        },
+        "p": [
+          {
+            "en": "The scene before this verse has already been told: a believer in Paradise remembers a companion who mocked the Resurrection, looks, and finds him in the middle of the Fire (37:51 to 37:57). Then the talk turns from the companion to where he himself stands. Afa-ma nahnu bi-mayyitin: are we, then, not to die, except our first death, and are we not to be punished? (37:58 and 37:59). Then comes the verdict, five words in Arabic: inna hadha la-huwa al-fawzu al-'azim, indeed this is the great triumph.",
+            "bn": "এ আয়াতের আগের দৃশ্যটি আগেই বলা হয়ে গেছে। জান্নাতের এক মুমিনের মনে পড়ে এক সঙ্গীর কথা, যে পুনরুত্থান নিয়ে ঠাট্টা করত। তিনি উঁকি দেন, আর তাকে দেখতে পান জাহান্নামের মাঝখানে (৩৭:৫১ থেকে ৩৭:৫৭)। এরপর কথার মোড় ঘোরে সঙ্গী থেকে নিজের অবস্থানের দিকে। আফামা নাহনু বিমাইয়িতীন: তাহলে প্রথম মৃত্যু ছাড়া আমরা কি আর মরব না, আর আমাদের কি শাস্তিও হবে না? (৩৭:৫৮ ও ৩৭:৫৯)। তারপর রায়, আরবিতে পাঁচটি শব্দ: ইন্না হাযা লাহুওয়াল ফাওযুল আযীম, নিশ্চয় এটাই মহাসাফল্য।"
+          },
+          {
+            "en": "At-Tabari reads the sentence as a statement about the present moment. In his gloss the speakers mean: this honour that Allah has given us in Paradise, that we are not punished and do not die, is the great deliverance. He then relays, through Bishr, Yazid and Sa'id, that Qatada said of the words from afa-ma nahnu bi-mayyitin to al-fawz al-'azim: this is the saying of the people of Paradise. For Qatada, then, 37:58 to 37:60 are one continuous speech, and this verse is its last line.",
+            "bn": "তাবারী বাক্যটিকে পড়েন বর্তমান মুহূর্তের এক ঘোষণা হিসেবে। তাঁর ব্যাখ্যায় বক্তারা বলতে চান: জান্নাতে আল্লাহ আমাদের যে সম্মান দিয়েছেন, আমাদের শাস্তি হয় না, মৃত্যুও হয় না, এটাই সেই মহামুক্তি। এরপর তিনি বিশর, ইয়াযীদ ও সাঈদের সূত্রে কাতাদার উক্তি আনেন। আফামা নাহনু বিমাইয়িতীন থেকে আল-ফাওযুল আযীম পর্যন্ত অংশ সম্পর্কে কাতাদা বলেছেন: এটা জান্নাতবাসীদের কথা। কাতাদার মতে তাই ৩৭:৫৮ থেকে ৩৭:৬০ একটি টানা বক্তব্য, আর এ আয়াত তার শেষ বাক্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Voices for One Verdict",
+          "bn": "এক রায়, তিন কণ্ঠ"
+        },
+        "p": [
+          {
+            "en": "Who speaks the verse is where the commentators part ways. Al-Qurtubi gives it to the one believer: then the believer said, pointing to what he is in, indeed this is the great triumph. Ibn Kathir follows the same line. He calls 37:58 and 37:59 the believer's words as he counts himself blessed in the eternity Allah gave him, a home of honour with no death and no punishment in it, and then adds: and for this he said, indeed this is the great triumph.",
+            "bn": "আয়াতটি কার মুখের কথা, এখানে এসে তাফসীরকারদের পথ আলাদা হয়ে যায়। কুরতুবী কথাটি দেন সেই এক মুমিনকে: তারপর মুমিন নিজে যে অবস্থায় আছেন সেদিকে ইশারা করে বললেন, নিশ্চয় এটাই মহাসাফল্য। ইবন কাসীরও একই পথে চলেন। তাঁর মতে ৩৭:৫৮ ও ৩৭:৫৯ সেই মুমিনের কথা। আল্লাহ তাঁকে জান্নাতে যে চিরস্থায়ী জীবন দিয়েছেন, মৃত্যু আর শাস্তিহীন যে সম্মানের ঘর দিয়েছেন, তা নিয়ে তিনি নিজের সৌভাগ্যে মুগ্ধ। ইবন কাসীর এরপর যোগ করেন: আর এ কারণেই তিনি বললেন, নিশ্চয় এটাই মহাসাফল্য।"
+          },
+          {
+            "en": "Others hear a whole company. Qatada, as at-Tabari relays him, calls it the saying of the people of Paradise, and al-Baghawi opens with they say, in the plural. As-Sa'di takes a third view. When Allah had mentioned the bliss of Paradise and described it in those fine qualities, he writes, He praised it, stirred the longing of those who work, urged them to act, and said: indeed this is the great triumph. On that reading the sentence stands outside the conversation. It is Allah's own comment on it.",
+            "bn": "অন্যরা এখানে শোনেন গোটা একটি দলের কণ্ঠ। তাবারীর বর্ণনায় কাতাদা একে বলেছেন জান্নাতবাসীদের কথা, আর বাগাভী শুরুই করেন বহুবচনে, 'তারা বলবে'। সা'দীর মত তৃতীয়। তিনি লেখেন, জান্নাতের নিয়ামতের কথা বলে আর সেগুলোর সুন্দর গুণ বর্ণনা করে আল্লাহ তার প্রশংসা করলেন, আমলকারীদের মনে আগ্রহ জাগালেন, তাদের আমলে উৎসাহ দিলেন, তারপর বললেন: নিশ্চয় এটাই মহাসাফল্য। এ পাঠে বাক্যটি কথোপকথনের ভেতরের কথা নয়। কথোপকথনের ওপর এ আল্লাহর নিজের মন্তব্য।"
+          },
+          {
+            "en": "None of the commentators fetched here reconciles the three, and this article takes no side. The voice changes; the claim does not. A believer who almost fell names what he was saved into, or the people of Paradise answer their own question, or Allah, who gave the reward, declares its worth. However it is read, this points to the same thing: life with no second death and no punishment.",
+            "bn": "এখানে দেখা তাফসীরগুলোর কোনোটিই এ তিনটি মতকে মিলিয়ে দেয়নি, আর এ লেখাও কোনো পক্ষ নিচ্ছে না। বদলায় বক্তা, দাবিটা বদলায় না। হয় প্রায় পড়ে যাওয়া এক মুমিন নাম দিচ্ছেন সেই জিনিসের, যার ভেতরে তাঁকে উদ্ধার করে আনা হয়েছে। নয়তো জান্নাতবাসীরা নিজেদের প্রশ্নের জবাব দিচ্ছে। অথবা প্রতিদান যিনি দিয়েছেন, সেই আল্লাহ নিজেই এর মূল্য ঘোষণা করছেন। যেভাবেই পড়ুন, 'এটা' বলতে একই জিনিস বোঝায়: দ্বিতীয় মৃত্যু নেই, শাস্তি নেই, এমন জীবন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told No, Then They Spoke",
+          "bn": "উত্তর 'না', তারপর ঘোষণা"
+        },
+        "p": [
+          {
+            "en": "Two early reports in Ibn Kathir give the question of 37:58 a real answer. Al-Hasan al-Basri said that they knew every bliss is cut off by death, so they asked: are we, then, not to die except our first death, and are we not to be punished? It was said to them: no. Then they said: indeed this is the great triumph. In al-Hasan's telling, 37:60 is what the people of Paradise say once the fear that shadows every pleasure has been answered.",
+            "bn": "ইবন কাসীর দুটি প্রাচীন বর্ণনা আনেন, যাতে ৩৭:৫৮-এর প্রশ্নটি সত্যিকারের উত্তর পায়। হাসান বসরী বলেছেন, তারা জানত, প্রতিটি সুখকেই মৃত্যু এসে কেটে দেয়। তাই তারা জিজ্ঞেস করল: তাহলে প্রথম মৃত্যু ছাড়া আমরা কি আর মরব না, আর আমাদের কি শাস্তিও হবে না? তাদের বলা হলো: না। তখন তারা বলল: নিশ্চয় এটাই মহাসাফল্য। হাসানের বর্ণনায় ৩৭:৬০ তাই জান্নাতবাসীদের সেই কথা, যা তারা বলে সব সুখের পেছনে লেগে থাকা ভয়ের জবাব পাওয়ার পর।"
+          },
+          {
+            "en": "Ibn Kathir also relays, through Ibn Abi Hatim with its chain to 'Ikrima, that Ibn 'Abbas (RA) explained the word hani'an in 52:19, eat and drink with enjoyment, as: they will not die in it. At that, he said, they asked the question of 37:58 and 37:59. Ibn Kathir gives no grading for either report. On 37:59, al-Baghawi and al-Qurtubi mention a further view: that the people of Paradise put the question to the angels when death is slaughtered. Al-Baghawi, relaying some, adds that the angels answer them: no.",
+            "bn": "ইবন কাসীর ইবন আবী হাতিমের সূত্রে, ইকরিমা পর্যন্ত সনদসহ, আরও বর্ণনা করেন যে ইবন আব্বাস (রাঃ) ৫২:১৯ আয়াতের হানীআন শব্দের ব্যাখ্যা দিয়েছেন। আয়াতটি বলে, তৃপ্তির সঙ্গে খাও ও পান করো। ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা: তারা সেখানে মরবে না। তিনি বলেন, তখনই তারা ৩৭:৫৮ ও ৩৭:৫৯-এর প্রশ্নটি করে। এ দুই বর্ণনার কোনোটির মান ইবন কাসীর উল্লেখ করেননি। ৩৭:৫৯-এর আলোচনায় বাগাভী ও কুরতুবী আরেকটি মতের কথা বলেন: মৃত্যুকে যখন জবাই করা হবে, তখন জান্নাতবাসীরা ফেরেশতাদের কাছে এ প্রশ্ন রাখবে। বাগাভী কারও কারও বরাতে যোগ করেন, ফেরেশতারা উত্তর দেবেন: না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Death Itself Is Ended",
+          "bn": "যেদিন মৃত্যুরই অবসান"
+        },
+        "p": [
+          {
+            "en": "The slaughter of death has a narration in al-Bukhari's Sahih (6548). Ibn 'Umar (RA) reported that the Messenger of Allah ﷺ said: When the people of Paradise have entered Paradise and the people of the Fire have entered the Fire, death will be brought and will be placed between the Fire and Paradise, and then it will be slaughtered, and a call will be made: O people of Paradise, no more death! O people of the Fire, no more death! So the people of Paradise will have happiness added to their previous happiness, and the people of the Fire will have sorrow added to their previous sorrow.",
+            "bn": "মৃত্যুকে জবাই করার বিষয়ে সহীহ বুখারীতে (৬৫৪৮) একটি হাদীস আছে। ইবন উমর (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: জান্নাতবাসীরা যখন জান্নাতে আর জাহান্নামবাসীরা যখন জাহান্নামে পৌঁছে যাবে, তখন মৃত্যুকে আনা হবে এবং জান্নাত ও জাহান্নামের মাঝখানে রাখা হবে। তারপর তাকে জবাই করা হবে। এরপর এক ঘোষক ঘোষণা দেবে: হে জান্নাতবাসীরা, আর মৃত্যু নেই! হে জাহান্নামবাসীরা, আর মৃত্যু নেই! তখন জান্নাতবাসীদের আনন্দের ওপর আনন্দ বেড়ে যাবে, আর জাহান্নামবাসীদের দুঃখের ওপর দুঃখ বেড়ে যাবে।"
+          },
+          {
+            "en": "None of the tafsirs fetched for 37:60 attaches a sound hadith to the verse itself, and neither al-Qurtubi nor al-Baghawi cites this narration by name. It is a general report about the Hereafter, set beside the verse here and not offered as its explanation. What it adds is the very thing the question of 37:58 was about. The joy of the people of Paradise grows when death itself is ended, because the last threat to their bliss is gone. That is the shape of the triumph this verse names.",
+            "bn": "৩৭:৬০-এর জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। কুরতুবী বা বাগাভীও এ হাদীসটির নাম উল্লেখ করেননি। এটি আখিরাত সম্পর্কে একটি সাধারণ বর্ণনা। এখানে আয়াতের পাশে রাখা হলো, আয়াতের ব্যাখ্যা হিসেবে নয়। তবে ৩৭:৫৮-এর প্রশ্ন যে বিষয় নিয়ে, হাদীসটি ঠিক সেটাই যোগ করে। মৃত্যুরই যখন অবসান ঘটে, জান্নাতবাসীদের আনন্দ তখন আরও বাড়ে, কারণ তাদের সুখের শেষ হুমকিটাও আর থাকে না। এ আয়াত যে সাফল্যের নাম দিয়েছে, তার চেহারা এটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gratitude, or a Last Reproach",
+          "bn": "শোকর, নাকি শেষ ভর্ৎসনা"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi records two further views on why the words are said. In one, they are spoken as a way of talking about Allah's favour upon them: that they will not die and will not be punished. In the other, the believer says it to his companion as a rebuke for what he used to deny. Al-Qurtubi lists the same two views on 37:59, beside the reading about the angels, and puts the first in the speaker's mouth as: this is our state and our description.",
+            "bn": "কথাগুলো কেন বলা হচ্ছে, সে বিষয়ে বাগাভী আরও দুটি মত উল্লেখ করেন। একটি মতে, তারা এ কথা বলে আল্লাহর নিয়ামতের কথা মুখে আনার জন্য: তাদের মৃত্যু হবে না, শাস্তিও হবে না। অন্য মতে, মুমিন কথাটা বলেন তাঁর সেই সঙ্গীকে, সে যা অস্বীকার করত তার জন্য ভর্ৎসনা হিসেবে। কুরতুবীও ৩৭:৫৯-এর আলোচনায়, ফেরেশতাদের মতটির পাশে, এ দুটি মত উল্লেখ করেন। প্রথম মতটি তিনি বক্তার মুখে বসান এভাবে: এই আমাদের অবস্থা, এই আমাদের পরিচয়।"
+          },
+          {
+            "en": "As-Sa'di holds both in one place. In a passage the edition sets in square brackets, his text calls the question of 37:58 and 37:59 an interrogative that means affirmation, spoken by the believer in delight at Allah's favour of unending life and safety from punishment. He then adds that it is said to his punished companion: do you claim that we die only the first death, with no resurrection after it and no punishment? The Muyassar keeps only the wonder: is it really true that we are made to live forever in bliss? Neither view is chosen here.",
+            "bn": "সা'দী দুটোকে এক জায়গায় ধরে রাখেন। তাঁর তাফসীরের যে অংশটি মুদ্রিত সংস্করণে বন্ধনীর ভেতরে রাখা, সেখানে বলা হয়েছে, ৩৭:৫৮ ও ৩৭:৫৯-এর প্রশ্ন আসলে প্রশ্ন নয়, নিশ্চিত করে বলার একটি ধরন। মুমিন এ কথা বলেন আল্লাহর নিয়ামতে আনন্দিত হয়ে, চিরস্থায়ী জীবন আর শাস্তি থেকে নিরাপত্তা পেয়ে। এরপর সা'দী যোগ করেন, কথাটা বলা হচ্ছে শাস্তিতে থাকা সেই সঙ্গীকেও: তুমি কি দাবি করো, প্রথম মৃত্যুর পর আমাদের আর কিছু নেই, না পুনরুত্থান, না শাস্তি? মুয়াসসার রাখে শুধু বিস্ময়টুকু: সত্যিই কি আমাদের চিরকাল নিয়ামতের মধ্যে রাখা হবে? এখানে কোনো মতকেই বেছে নেওয়া হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rescue and Arrival in One Word",
+          "bn": "এক শব্দে মুক্তি ও প্রাপ্তি"
+        },
+        "p": [
+          {
+            "en": "Al-fawz is the word the verse uses for triumph, and at-Tabari's gloss gives it two halves. It is an-naja' al-'azim, the great deliverance from the punishment of Allah that we used to fear in the world, together with the reaching of what we used to hope for there through our faith and our obedience to our Lord. The deliverance answers a fear; the reaching answers a hope. Both were carried through the life of this world, and both are settled in the same moment.",
+            "bn": "সাফল্য বোঝাতে আয়াতটি যে শব্দ ব্যবহার করেছে, তা আল-ফাওয। তাবারীর ব্যাখ্যায় এর দুটি দিক। এক দিকে আন-নাজাউল আযীম, মহামুক্তি: দুনিয়ায় আমরা আল্লাহর যে শাস্তির ভয় করতাম, তা থেকে মুক্তি। অন্য দিকে প্রাপ্তি: ঈমান আর রবের আনুগত্যের মাধ্যমে দুনিয়ায় আমরা যা আশা করতাম, তা লাভ করা। মুক্তি হলো এক ভয়ের জবাব, প্রাপ্তি এক আশার জবাব। দুটোই বয়ে বেড়াতে হয়েছিল দুনিয়ার জীবন জুড়ে, আর দুটোরই মীমাংসা হলো একই মুহূর্তে।"
+          },
+          {
+            "en": "The Muyassar uses a plainer word, az-zafar al-'azim, the great success, and names its object: the bliss we are in. As-Sa'di keeps at-Tabari's double shape in his own terms. It is the triumph by which every good came to them, and all that souls desire and long for, and by which every feared and hated thing was pushed away from them. Three commentators, three wordings, one pairing: something escaped and something gained, and the triumph needs both.",
+            "bn": "মুয়াসসার আরও সহজ একটি শব্দ নেয়, আয-যাফারুল আযীম, মহাবিজয়। আর এর বিষয়ও বলে দেয়: আমরা যে নিয়ামতের মধ্যে আছি। সা'দী নিজের ভাষায় তাবারীর সেই দুই দিক ধরে রাখেন। এ সেই সাফল্য, যার মাধ্যমে তারা পেয়েছে সব কল্যাণ, মন যা চায় আর যার জন্য ব্যাকুল হয় সবকিছু। আর এর মাধ্যমেই তাদের কাছ থেকে দূর হয়েছে সব ভয়ের আর অপছন্দের জিনিস। তিনজন তাফসীরকার, তিন রকম ভাষা, কিন্তু জোড়াটা একই: কিছু থেকে বাঁচা আর কিছু পাওয়া। সাফল্য পূর্ণ হতে দুটোই লাগে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "This, Where Elsewhere It Is That",
+          "bn": "অন্যত্র 'ওটা', এখানে 'এটা'"
+        },
+        "p": [
+          {
+            "en": "The phrase al-fawz al-'azim, the great triumph, appears thirteen times in the Qur'an. In twelve of them it is introduced by dhalika, that, as in 9:72, 10:64 and 44:57. Only here is it inna hadha la-huwa: indeed this, it is. The same frame, inna hadha la-huwa, returns elsewhere for other things: the true account in 3:62, the clear favour in 27:16, the plain trial in 37:106, the certain truth in 56:95. Only in this verse does it carry the great triumph.",
+            "bn": "আল-ফাওযুল আযীম, মহাসাফল্য, কথাটি কুরআনে এসেছে তেরো বার। এর বারোটিতে শুরুতে আছে যালিকা, 'ওটা', যেমন ৯:৭২, ১০:৬৪ ও ৪৪:৫৭ আয়াতে। শুধু এখানেই আছে ইন্না হাযা লাহুওয়া: নিশ্চয় এটা, এটাই। ইন্না হাযা লাহুওয়া কাঠামোটি কুরআনে অন্য বিষয়েও ফিরে আসে: ৩:৬২ আয়াতে সত্য কাহিনি, ২৭:১৬ আয়াতে সুস্পষ্ট অনুগ্রহ, ৩৭:১০৬ আয়াতে সুস্পষ্ট পরীক্ষা, ৫৬:৯৫ আয়াতে নিশ্চিত সত্য। কিন্তু মহাসাফল্যের সঙ্গে কাঠামোটি এসেছে কেবল এ আয়াতে।"
+          },
+          {
+            "en": "Al-Qurtubi's note on the verse is grammatical. Huwa may be a subject, with what follows as its predicate and the whole clause the predicate of inna; or huwa may be a separating pronoun. Either way the sentence carries inna, the la that strengthens it, and huwa, before it reaches its noun. His gloss also has the believer pointing to what he is in. The near this, where the other twelve say that, keeps the eye on what is present, which suits his picture, though no commentator fetched draws the contrast.",
+            "bn": "এ আয়াতে কুরতুবীর মন্তব্য ব্যাকরণগত। হুওয়া হতে পারে উদ্দেশ্য, পরের অংশ তার বিধেয়, আর পুরো বাক্যটি ইন্নার বিধেয়। আবার হুওয়া হতে পারে পৃথককারী সর্বনাম। যেভাবেই ধরা হোক, মূল শব্দে পৌঁছানোর আগে বাক্যটি বহন করে ইন্না, জোর বাড়ানো লাম, আর হুওয়া। তাঁর ব্যাখ্যায় মুমিন নিজের অবস্থার দিকে ইশারা করছেন। অন্য বারোটি আয়াতে 'ওটা', এখানে কাছের 'এটা', যা চোখ রাখে সামনে যা আছে তার ওপর। এ কুরতুবীর ছবির সঙ্গে মেলে, যদিও দেখা তাফসীরগুলোর কেউ এ তুলনা টানেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Goal Beyond Every Goal",
+          "bn": "সব লক্ষ্যের শেষ লক্ষ্য"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di does not stop at food, drink and safety. Is there any triumph sought above it, he asks, or is it the goal of goals and the end of ends, since there has descended upon them the pleasure of the Lord of the earth and the heavens, and they rejoice in His nearness, find their bliss in knowing Him, are gladdened by seeing Him, and are moved by His speech? For him the greatness of the triumph lies finally in Allah's pleasure and His nearness, not only in what Paradise contains.",
+            "bn": "সা'দী খাবার, পানীয় আর নিরাপত্তায় থেমে থাকেন না। তিনি প্রশ্ন তোলেন: এর ওপরে চাওয়ার মতো আর কোনো সাফল্য কি আছে? নাকি এটাই সব লক্ষ্যের লক্ষ্য, সব শেষের শেষ? কারণ তাদের ওপর নেমে এসেছে আসমান ও জমিনের রবের সন্তুষ্টি। তাঁর নৈকট্যে তারা আনন্দিত, তাঁকে চেনার মধ্যে তারা নিয়ামত খুঁজে পায়, তাঁর দর্শনে তারা খুশি, আর তাঁর কালাম শুনে তারা আবেগে ভরে ওঠে। সা'দীর কাছে তাই এ সাফল্যের বড়ত্ব শেষ পর্যন্ত আল্লাহর সন্তুষ্টি আর তাঁর নৈকট্যে, শুধু জান্নাতের ভেতরের জিনিসগুলোতে নয়।"
+          },
+          {
+            "en": "Other uses of the phrase agree. In 9:72 the gardens and the good dwellings are listed, and then: and the pleasure of Allah is greater; that is the great triumph. In 44:56 and 44:57 the pattern of this passage returns almost point for point: they will not taste death in it except the first death, He has guarded them from the punishment of the Fire, as a favour from your Lord; that is the great triumph. There the triumph itself is called a favour from the Lord, as the believer of 37:57 owes his rescue to his Lord's favour.",
+            "bn": "কুরআনে কথাটির অন্য ব্যবহারগুলোও একই কথা বলে। ৯:৭২ আয়াতে বাগান আর উত্তম বাসস্থানের কথা বলার পর আসে: আর আল্লাহর সন্তুষ্টিই সবচেয়ে বড়, এটাই মহাসাফল্য। ৪৪:৫৬ ও ৪৪:৫৭ আয়াতে এ অংশের ছাঁচটি প্রায় হুবহু ফিরে আসে: প্রথম মৃত্যু ছাড়া সেখানে তারা আর মৃত্যুর স্বাদ নেবে না, আর তিনি তাদের জাহান্নামের শাস্তি থেকে রক্ষা করেছেন, তোমার রবের অনুগ্রহ হিসেবে। এটাই মহাসাফল্য। সেখানে সাফল্যটিকেই বলা হয়েছে রবের অনুগ্রহ, যেমন ৩৭:৫৭ আয়াতের মুমিন তাঁর রক্ষা পাওয়াকে রবের অনুগ্রহ বলে জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Worth Every Spent Breath",
+          "bn": "প্রতিটি নিঃশ্বাসের যোগ্য"
+        },
+        "p": [
+          {
+            "en": "The next verse turns the verdict into a summons: for the like of this let the workers work (37:61). At-Tabari gives it to Allah: for the like of what I gave these believers of honour in the Hereafter, let the workers work in the world for themselves, so that they reach what these reached by obeying their Lord. Ibn Kathir relays that Qatada counted it the speech of the people of Paradise, while Ibn Jarir held it to be Allah's. Al-Qurtubi allows the believer, the angels, or Allah addressing the people of the world.",
+            "bn": "পরের আয়াত এ রায়কে বানিয়ে দেয় এক আহ্বান: এরই মতো কিছুর জন্য আমলকারীরা আমল করুক (৩৭:৬১)। তাবারী কথাটি দেন আল্লাহকে: এই মুমিনদের আমি আখিরাতে যে সম্মান দিয়েছি, তারই মতো কিছুর জন্য আমলকারীরা দুনিয়ায় নিজেদের জন্য আমল করুক, যাতে রবের আনুগত্য করে এরা যা পেয়েছে, তারাও তা পায়। ইবন কাসীর জানান, কাতাদা একে জান্নাতবাসীদের কথা ধরেছেন, আর ইবন জারীর ধরেছেন আল্লাহর কথা। কুরতুবী তিনটিরই সুযোগ রাখেন: মুমিনের কথা, ফেরেশতাদের কথা, অথবা দুনিয়াবাসীর প্রতি আল্লাহর কথা।"
+          },
+          {
+            "en": "As-Sa'di's note on it is a warning about time. This, he writes, is the most deserving thing on which precious breaths are spent, and the deepest regret is for a resolute person to let one of his moments pass without the work that brings him near this abode. The scene itself describes only what it describes: a believer and a companion the Qur'an leaves unnamed. It places no living person in the Fire, and it gives no reader leave to place anyone there.",
+            "bn": "এ আয়াতে সা'দীর মন্তব্য সময় নিয়ে এক সতর্কবাণী। তিনি লেখেন, মূল্যবান নিঃশ্বাসগুলো খরচ করার সবচেয়ে উপযুক্ত জায়গা এটাই। আর সবচেয়ে বড় আফসোস হলো, বিচক্ষণ কোনো মানুষের একটি মুহূর্তও এমনভাবে কেটে যাওয়া, যখন সে এই ঘরের কাছে নিয়ে যাওয়ার মতো কোনো আমলে ব্যস্ত ছিল না। দৃশ্যটি শুধু ততটুকুই বলে, যতটুকু বলে: একজন মুমিন আর এক সঙ্গী, যাদের নাম কুরআন জানায়নি। জীবিত কোনো মানুষকে এ দৃশ্য জাহান্নামে বসায় না। কাউকে সেখানে বসানোর অনুমতিও কোনো পাঠককে দেয় না।"
+          },
+          {
+            "en": "What the verse leaves the reader is a measure. Every gain of this world carries its own ending, and in al-Hasan's report the people of Paradise asked their question because they knew it. The triumph named here is the one gain a second death cannot touch: rescue from what was feared, arrival at what was hoped for, and the pleasure of the Lord who gave both. Whatever you are working for today, ask whether it is for the like of this.",
+            "bn": "আয়াতটি পাঠকের হাতে তুলে দেয় একটি মাপকাঠি। দুনিয়ার প্রতিটি অর্জনের ভেতরেই তার শেষ লুকিয়ে থাকে। হাসান বসরীর বর্ণনায় জান্নাতবাসীরা প্রশ্নটি করেছিল ঠিক এ কথা জানত বলেই। এখানে যে সাফল্যের নাম দেওয়া হয়েছে, দ্বিতীয় কোনো মৃত্যু তাকে ছুঁতে পারে না। এতে আছে ভয়ের জিনিস থেকে মুক্তি, আশার জিনিসের প্রাপ্তি, আর সেই রবের সন্তুষ্টি, যিনি দুটোই দিয়েছেন। আজ আপনি যার জন্যই খাটছেন, নিজেকে একবার জিজ্ঞেস করে দেখুন: এটা কি এরই মতো কিছুর জন্য?"
+          }
+        ]
+      }
+    ]
+  },
   "37:63": {
     "sections": [
       {

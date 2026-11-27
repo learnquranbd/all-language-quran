@@ -36973,6 +36973,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Being among the saved or among the others is decided by where you stand, not by fortune. Do not lag behind faith while the call is still open to you.",
     "lessonBn": "রক্ষা পাওয়াদের দলে থাকবেন নাকি অন্যদের দলে, তা ভাগ্যে নয়, আপনি কোথায় দাঁড়িয়ে আছেন তাতেই ঠিক হয়। ডাক যতক্ষণ খোলা আছে, ঈমান থেকে পিছিয়ে থাকবেন না।"
+  },
+  "37:60": {
+    "reflectionEn": "The believer has looked down into the Fire and seen the friend who nearly ruined him. Then he turns back to where he stands and asks, almost in wonder: so we are not to die again, except our first death, and we will not be punished? And then five words: indeed, this is the great triumph. Whether he says it, or all the people of Paradise, or Allah Himself, the measure is the same. A triumph is great when two things meet: rescue from what you feared and arrival at what you hoped for, with no death waiting to take it away. Every success I chase here has an ending built into it. Am I working for the one that has none?",
+    "reflectionBn": "মুমিন উঁকি দিয়ে জাহান্নামের ভেতরে তাকিয়েছেন, দেখেছেন সেই বন্ধুকে, যে তাঁকে প্রায় ধ্বংস করে দিয়েছিল। এবার তিনি নিজের অবস্থানের দিকে ফিরে তাকান, আর যেন বিস্ময়ে জিজ্ঞেস করেন: তাহলে প্রথম মৃত্যুর পর আমাদের আর মরতে হবে না, আর কোনো শাস্তিও হবে না? তারপর পাঁচটি শব্দ: নিশ্চয় এটাই মহাসাফল্য। কথাটা তিনি বলুন, জান্নাতবাসীরা সবাই বলুক, কিংবা আল্লাহ নিজেই বলুন, মাপকাঠি একই থাকে। সাফল্য তখনই বড় হয়, যখন দুটো জিনিস একসঙ্গে মেলে: যে ভয় ছিল তা থেকে মুক্তি, আর যে আশা ছিল তার প্রাপ্তি। আর তা কেড়ে নিতে সামনে কোনো মৃত্যু অপেক্ষা করে না। দুনিয়ায় আমি যে সাফল্যের পেছনে ছুটি, তার প্রতিটির ভেতরেই শেষ হয়ে যাওয়ার দিন লেখা আছে। যার শেষ নেই, আমি কি সেটার জন্য কাজ করছি?",
+    "pointsEn": [
+      "What do I call success this year, and does any of it survive the death I know is coming?",
+      "When I picture Paradise, do I picture rescue from what I fear, arrival at what I hope for, or both?",
+      "How much of today's effort went to the like of this, and how much to things that end?",
+      "When a blessing reaches me, do I speak of it as Allah's favour or as something I earned?",
+      "Have I ever treated someone else's failure as quiet proof of my own success?"
+    ],
+    "pointsBn": [
+      "এ বছর আমি কোন জিনিসকে সাফল্য বলে ধরছি? যে মৃত্যু আসবেই বলে জানি, তার পরেও কি এর কিছু টিকে থাকবে?",
+      "জান্নাতের কথা ভাবলে আমার মনে কোন ছবি আসে: ভয় থেকে মুক্তি, আশার প্রাপ্তি, নাকি দুটোই?",
+      "আজকের পরিশ্রমের কতটুকু গেছে এরই মতো কিছুর জন্য, আর কতটুকু গেছে এমন জিনিসে, যা ফুরিয়ে যায়?",
+      "কোনো নিয়ামত হাতে এলে আমি কি তাকে আল্লাহর অনুগ্রহ বলে উল্লেখ করি, নাকি নিজের কামাই বলে?",
+      "অন্যের ব্যর্থতাকে আমি কি কখনো মনে মনে নিজের সাফল্যের প্রমাণ বানিয়ে নিয়েছি?"
+    ],
+    "lessonEn": "Measure success by what outlasts death: rescue from Allah's punishment and arrival at His pleasure. Speak of every good you are given as His favour, and work now for the like of it.",
+    "lessonBn": "সাফল্য মাপুন তা দিয়ে, যা মৃত্যুর পরেও টিকে থাকে: আল্লাহর শাস্তি থেকে মুক্তি আর তাঁর সন্তুষ্টি লাভ। যে কল্যাণই পান, তাকে তাঁর অনুগ্রহ বলে জানুন, আর এখনই এরই মতো কিছুর জন্য আমল করুন।"
   }
 };
 
