@@ -1339,6 +1339,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "29:28": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Ibrahim's Side to His Own",
+          "bn": "ইবরাহীমের পাশ থেকে নিজের দাওয়াতে"
+        },
+        "p": [
+          {
+            "en": "Wa Lutan idh qala li-qawmihi innakum la-ta'tuna al-fahishata ma sabaqakum biha min ahadin mina al-'alamin: and Lut, when he said to his people, you commit the indecency in which no one among the worlds went before you. The verse opens a new account inside a long run. From 29:16 the surah has told Ibrahim's (AS) call to his people, their answer in 29:24, kill him or burn him, and his rescue from the fire. Then 29:26 records that Lut believed him, and 29:27 closes on what Ibrahim was given.",
+            "bn": "ওয়া লূতান ইয কালা লিকাওমিহী ইন্নাকুম লাতা'তূনাল ফাহিশাতা মা সাবাকাকুম বিহা মিন আহাদিম মিনাল আলামীন: আর লূত, যখন সে তার সম্প্রদায়কে বলল, তোমরা তো এমন অশ্লীল কাজ করছ, যাতে জগতের কেউ তোমাদের আগে যায়নি। দীর্ঘ এক ধারাবাহিকতার মাঝখানে আয়াতটি নতুন এক বৃত্তান্ত খোলে। ২৯:১৬ থেকে সূরা বলে আসছে ইবরাহীম (আঃ)-এর দাওয়াতের কথা। ২৯:২৪ আয়াতে আছে তাঁর সম্প্রদায়ের জবাব, তাঁকে হত্যা কর অথবা পুড়িয়ে দাও, আর আছে আগুন থেকে তাঁর উদ্ধার। তারপর ২৯:২৬ জানায়, লূত তাঁর উপর ঈমান আনলেন। আর ২৯:২৭ শেষ হয় ইবরাহীমকে যা দেওয়া হয়েছিল তার বিবরণে।"
+          },
+          {
+            "en": "As-Sa'di reads the start of Lut's story against that line. He recalls that Lut (AS) believed in Ibrahim and became one of those guided through him. So the man who stood beside Ibrahim in 29:26 now stands on his own, before a people he must warn himself. The surah's pattern carries on: a messenger, a people, a warning, a reply. Nuh's account began at 29:14 and Ibrahim's at 29:16, and now Lut's, each told in a few strokes and each built around what the messenger said and what his people answered.",
+            "bn": "সা'দী লূত (আঃ)-এর কাহিনির শুরুটা পড়েন এই ধারার সঙ্গে মিলিয়ে। তিনি মনে করিয়ে দেন, লূত ইবরাহীমের উপর ঈমান এনেছিলেন এবং তাঁর মাধ্যমে হেদায়েত পাওয়া মানুষদের একজন হয়েছিলেন। ২৯:২৬ আয়াতে যিনি ইবরাহীমের পাশে দাঁড়িয়ে ছিলেন, এখন তিনি দাঁড়িয়েছেন একা, এমন এক সম্প্রদায়ের সামনে যাদের সতর্ক করার দায় তাঁর নিজের। সূরার ধাঁচ একই থাকে: একজন রাসূল, একটি সম্প্রদায়, একটি সতর্কবাণী, একটি জবাব। নূহ (আঃ)-এর বৃত্তান্ত শুরু হয়েছিল ২৯:১৪ আয়াতে, ইবরাহীমের ২৯:১৬ আয়াতে, এবার লূতের। প্রতিটি আঁকা হয়েছে অল্প কয়েক টানে, আর প্রতিটির কেন্দ্রে আছে দুটি কথা: রাসূল কী বললেন, আর তাঁর সম্প্রদায় কী জবাব দিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Verb Left Unsaid",
+          "bn": "যে ক্রিয়া উহ্য রাখা হয়েছে"
+        },
+        "p": [
+          {
+            "en": "Lutan stands in the accusative, the case of an object, yet no verb in the verse governs it. The commentators supply one, and they do not supply the same one. Al-Qurtubi reports al-Kisa'i: the meaning is wa anjayna Lutan, and We saved Lut, or wa arsalna Lutan, and We sent Lut, and al-Kisa'i says this is the reading he prefers. Al-Qurtubi then allows a second: wadhkur Lutan, and remember Lut, when he spoke to his people, rebuking them or warning them.",
+            "bn": "লূতান শব্দটি কর্মকারকে, অর্থাৎ কোনো ক্রিয়ার কর্ম হিসেবে এসেছে। অথচ আয়াতে এমন কোনো ক্রিয়া নেই, যার কর্ম এটি হতে পারে। তাফসীরকারেরা একটি ক্রিয়া ধরে নেন, তবে সবাই একই ক্রিয়া ধরেন না। কুরতুবী কিসাঈর মত উদ্ধৃত করেন: অর্থ হলো ওয়া আনজাইনা লূতান, আর আমি লূতকে রক্ষা করলাম, অথবা ওয়া আরসালনা লূতান, আর আমি লূতকে পাঠালাম। কিসাঈ বলেন, এ ব্যাখ্যাই তাঁর বেশি পছন্দের। কুরতুবী এরপর দ্বিতীয় একটি অর্থও সম্ভব বলেন: ওয়াযকুর লূতান, আর লূতের কথা স্মরণ কর, যখন তিনি তিরস্কার করে বা সতর্ক করে নিজের সম্প্রদায়কে বললেন।"
+          },
+          {
+            "en": "At-Tabari takes the second path and does not mention the first. Allah, he writes, says to His Prophet Muhammad ﷺ: and remember Lut when he said to his people. The Muyassar reads it the same way and names the one addressed: remember, O Messenger, Lut. So the difference is real and stays open. On al-Kisa'i's reading the verse carries on Allah's own account of what He did, sending or saving; on at-Tabari's it tells the Prophet ﷺ to call the story to mind and set it before his hearers.",
+            "bn": "তাবারী দ্বিতীয় পথটি ধরেন, প্রথমটির উল্লেখই করেন না। তিনি লেখেন, আল্লাহ তাঁর নবী মুহাম্মাদ ﷺ-কে বলছেন: আর লূতের কথা স্মরণ কর, যখন তিনি নিজের সম্প্রদায়কে বললেন। মুয়াসসারও একইভাবে পড়ে, আর কাকে বলা হচ্ছে তাও জানিয়ে দেয়: হে রাসূল, লূতের কথা স্মরণ করুন। তাই মতভেদটা সত্যিকারের, এবং খোলাই থাকে। কিসাঈর ব্যাখ্যায় আয়াতটি আল্লাহর নিজের কাজের বিবরণ চালিয়ে যায়, তিনি পাঠিয়েছেন বা রক্ষা করেছেন। তাবারীর ব্যাখ্যায় এটি নবী ﷺ-এর প্রতি নির্দেশ: কাহিনিটা মনে আনুন, আর শ্রোতাদের সামনে তুলে ধরুন।"
+          },
+          {
+            "en": "The surah's own wording shows that the construction is not Lut's alone. Ibrahim's account in 29:16 opens the same way, wa Ibrahima idh qala li-qawmihi, a name in the object case with no verb before it. Nuh's account in 29:14, just before, had opened with the verb spelled out: wa laqad arsalna Nuhan ila qawmihi, We sent Nuh to his people. Whichever verb a reader supplies for Lut, he enters as one more named man in that line, introduced at the moment he spoke to his people.",
+            "bn": "এ গঠন যে শুধু লূতের বেলায় নয়, সূরার নিজের ভাষাই তা দেখায়। ২৯:১৬ আয়াতে ইবরাহীমের বৃত্তান্তও শুরু হয় একইভাবে: ওয়া ইবরাহীমা ইয কালা লিকাওমিহী। নামটি কর্মকারকে, অথচ আগে কোনো ক্রিয়া নেই। তার ঠিক আগে ২৯:১৪ আয়াতে নূহের বৃত্তান্ত শুরু হয়েছিল ক্রিয়াটা স্পষ্ট বলে দিয়ে: ওয়া লাকাদ আরসালনা নূহান ইলা কাওমিহী, আমি নূহকে তার সম্প্রদায়ের কাছে পাঠিয়েছিলাম। লূতের বেলায় পাঠক যে ক্রিয়াই ধরে নিন, তিনি এই সারিতে আরও একজন নামধারী মানুষ হিসেবে প্রবেশ করেন। আর তাঁর পরিচয় আসে ঠিক সেই মুহূর্তে, যখন তিনি নিজের সম্প্রদায়ের সঙ্গে কথা বললেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not of His Line",
+          "bn": "বংশধর নন, তবু তাঁরই অনুসারী"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di uses this verse to settle a question that the verse before it raises. In 29:27 Allah says He placed prophethood and the Book among Ibrahim's descendants. Yet Lut (AS) is a prophet and a messenger, and as-Sa'di relays what has been mentioned about him: that he was not of Ibrahim's offspring but his brother's son. Does the general statement then leave Lut outside, or does Lut's prophethood strain against it? As-Sa'di's answer is that the two do not conflict at all.",
+            "bn": "আগের আয়াত একটা প্রশ্ন তোলে, আর সা'দী এ আয়াতের আলোচনায় তার মীমাংসা করেন। ২৯:২৭ আয়াতে আল্লাহ বলেন, তিনি ইবরাহীমের বংশধরদের মধ্যে নবুওয়াত ও কিতাব রেখেছেন। অথচ লূত (আঃ) একজন নবী ও রাসূল। আর সা'দী জানান, তাঁর সম্পর্কে উল্লেখ করা হয়েছে যে তিনি ইবরাহীমের বংশধর ছিলেন না, ছিলেন তাঁর ভাইয়ের ছেলে। তাহলে কি সাধারণ ঘোষণাটি লূতকে বাইরে রেখে দেয়? নাকি লূতের নবুওয়াত সেই ঘোষণার সঙ্গে খাপ খায় না? সা'দীর জবাব: দুটির মধ্যে কোনো বিরোধ নেই।"
+          },
+          {
+            "en": "His reasoning has two steps. First, 29:27 comes in a setting of praise for al-Khalil, Ibrahim, so it names an honour given to his line rather than drawing a fence around prophethood. Second, Allah has told us that Lut was guided at Ibrahim's hands, and as-Sa'di judges that one guided at his hands is more complete than one guided from among his descendants, when measured by the merit it brings to the one who guided. He ends the passage with: and Allah knows best.",
+            "bn": "তাঁর যুক্তির দুটি ধাপ। প্রথমত, ২৯:২৭ আয়াত এসেছে খলীল ইবরাহীমের প্রশংসা ও গুণগানের প্রসঙ্গে। তাই এটি তাঁর বংশকে দেওয়া একটি সম্মানের কথা বলে, নবুওয়াতের চারপাশে কোনো বেড়া টানে না। দ্বিতীয়ত, আল্লাহ জানিয়েছেন যে লূত হেদায়েত পেয়েছিলেন ইবরাহীমের হাতে। সা'দীর বিচারে, যিনি হেদায়েত দিলেন তাঁর মর্যাদার হিসাবে, তাঁর হাতে হেদায়েত পাওয়া মানুষ তাঁর বংশধরদের মধ্য থেকে হেদায়েত পাওয়া মানুষের চেয়ে বেশি পূর্ণ। আলোচনা তিনি শেষ করেন এই কথায়: আর আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "The point reaches past family trees. What a person leaves behind is not only the children who carry his name but the people who found the way because he showed it to them. Lut enters this verse as a messenger in his own right, sent to his own people, yet the surah has just introduced him as the one who believed Ibrahim. On as-Sa'di's reckoning, what passes on through guidance is no lesser legacy than what passes on through blood.",
+            "bn": "কথাটা বংশতালিকার চেয়ে অনেক দূর পর্যন্ত যায়। মানুষ যা রেখে যায়, তা শুধু তার নাম বহনকারী সন্তান নয়। তারাও, যারা তার দেখানো পথে চলে পথ খুঁজে পেয়েছে। এ আয়াতে লূত আসেন স্বতন্ত্র একজন রাসূল হিসেবে, পাঠানো হয়েছে তাঁর নিজের সম্প্রদায়ের কাছে। অথচ ঠিক আগেই সূরা তাঁকে পরিচয় করিয়ে দিয়েছে ইবরাহীমের উপর ঈমান আনা মানুষ হিসেবে। সা'দীর হিসাবে, হেদায়েতের সূত্রে যা পৌঁছায়, তা রক্তের সূত্রে পৌঁছানো উত্তরাধিকারের চেয়ে কম নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said Flatly, or Asked",
+          "bn": "সরাসরি ঘোষণা, নাকি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The opening word is read in two ways, and al-Baghawi lists who read which. Abu 'Amr, Hamza, al-Kisa'i and Abu Bakr read a'innakum, do you, as a question; the rest read innakum, you indeed, as a statement. All of them, he adds, agree on the question in the second sentence, the a'innakum that opens 29:29. Al-Qurtubi says only that this reading and its explanation were already given in al-A'raf, the surah where a near-identical address to Lut's people stands at 7:80.",
+            "bn": "প্রথম শব্দটি দুইভাবে পড়া হয়, আর কে কোনভাবে পড়েছেন, বাগাভী তার তালিকা দেন। আবু আমর, হামযা, কিসাঈ ও আবু বকর পড়েছেন আ-ইন্নাকুম, অর্থাৎ তোমরা কি, প্রশ্ন হিসেবে। বাকিরা পড়েছেন ইন্নাকুম, অর্থাৎ নিশ্চয়ই তোমরা, ঘোষণা হিসেবে। তিনি আরও বলেন, দ্বিতীয় বাক্যে, অর্থাৎ ২৯:২৯ আয়াতের শুরুর আ-ইন্নাকুম শব্দে, সবাই প্রশ্নের রূপেই একমত। কুরতুবী শুধু এটুকু বলেন যে এ পাঠ ও তার ব্যাখ্যা আগেই সূরা আরাফে দেওয়া হয়েছে। সেখানেই ৭:৮০ আয়াতে লূতের সম্প্রদায়ের প্রতি প্রায় হুবহু একই সম্বোধন আছে।"
+          },
+          {
+            "en": "On the first reading Lut opens with a statement made doubly firm, by inna and by the la- on la-ta'tuna, and then presses with a question. On the second, both sentences come as questions. Al-Qurtubi's gloss fits either: he spoke rebuking or warning. A question like this does not ask for information, since Lut knew the answer and so did they. It makes the hearer say the thing to himself, and a reproach that a man finds in his own mouth is harder to wave away than one he only hears.",
+            "bn": "প্রথম পাঠে লূত শুরু করেন দ্বিগুণ জোর দেওয়া এক ঘোষণা দিয়ে: একবার ইন্না দিয়ে, আরেকবার লাতা'তূনা শব্দের লা দিয়ে। তারপর তিনি চাপ দেন একটি প্রশ্ন দিয়ে। দ্বিতীয় পাঠে দুটি বাক্যই প্রশ্ন। কুরতুবীর ব্যাখ্যা দুটির সঙ্গেই মেলে: তিনি বলেছিলেন তিরস্কার করে বা সতর্ক করে। এমন প্রশ্ন কোনো তথ্য জানতে চায় না। উত্তর লূত জানতেন, তারাও জানত। প্রশ্নটা শ্রোতাকে দিয়ে কথাটা নিজের মনে নিজেকেই বলিয়ে নেয়। আর যে তিরস্কার মানুষ নিজের মুখে খুঁজে পায়, শুধু কানে শোনা তিরস্কারের চেয়ে তা উড়িয়ে দেওয়া কঠিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named in the Qur'an's Words",
+          "bn": "কুরআনের নিজের ভাষায় নাম"
+        },
+        "p": [
+          {
+            "en": "Al-fahisha carries the definite article: not an indecency, but the indecency, a deed both speaker and hearers knew. The commentators name it only as the Qur'an names it. At-Tabari glosses la-ta'tuna with adh-dhukran, the males, and says the fahisha they used to commit was itiyan adh-dhukran, coming to males. Al-Baghawi says the same in a few words: it is coming to men. The next verse gives it in the Qur'an's own wording: a'innakum la-ta'tuna ar-rijal, do you indeed come to men.",
+            "bn": "আল-ফাহিশা শব্দে নির্দিষ্টবাচক আল যুক্ত। অর্থাৎ যেকোনো একটা অশ্লীল কাজ নয়, সেই অশ্লীল কাজ, যা বক্তা ও শ্রোতা দুপক্ষেরই জানা। তাফসীরকারেরা কাজটির নাম নেন কেবল সেভাবে, যেভাবে কুরআন নিয়েছে। তাবারী লাতা'তূনা শব্দের ব্যাখ্যায় বলেন আয-যুকরান, অর্থাৎ পুরুষদের কাছে। তিনি জানান, তারা যে ফাহিশা করত তা হলো ইতইয়ানুয যুকরান, পুরুষদের কাছে যাওয়া। বাগাভী অল্প কথায় একই কথা বলেন: তা হলো পুরুষদের কাছে যাওয়া। পরের আয়াতে কুরআন নিজের ভাষায় এর উল্লেখ করে: আ-ইন্নাকুম লাতা'তূনার রিজাল, তোমরা কি সত্যিই পুরুষদের কাছে যাও?"
+          },
+          {
+            "en": "Ibn Kathir and the Muyassar speak of it by its moral weight rather than its detail. Ibn Kathir says Lut denounced the evil of what they did and the ugly deeds they practised; the Muyassar calls it al-fi'la al-qabiha, the vile deed. The verb itself is worth noticing. Ta'tuna is literally you come to, a plain word that names the act without picturing it. The Qur'an says what is needed to condemn and stops there, and a reader who keeps the same restraint in speech is following its lead.",
+            "bn": "ইবন কাসীর ও মুয়াসসার কাজটির খুঁটিনাটিতে যান না, কথা বলেন তার নৈতিক ভার নিয়ে। ইবন কাসীর বলেন, লূত তাদের মন্দ আচরণ আর কুৎসিত কাজের প্রতিবাদ করেছিলেন। মুয়াসসার একে বলে আল-ফি'লাতুল কাবীহা, জঘন্য কাজ। ক্রিয়াটাও লক্ষ করার মতো। তা'তূনা শব্দের আক্ষরিক অর্থ তোমরা আস বা যাও। সাদামাটা এই শব্দ কাজটির নাম নেয়, তার ছবি আঁকে না। নিন্দার জন্য যতটুকু দরকার, কুরআন ততটুকুই বলে থেমে যায়। যে পাঠক নিজের কথাবার্তায় এই সংযম ধরে রাখেন, তিনি কুরআনেরই পথ অনুসরণ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Boundary Is Drawn",
+          "bn": "সীমারেখা কোথায় টানা"
+        },
+        "p": [
+          {
+            "en": "Ma sabaqakum biha min ahadin mina al-'alamin: no one among the worlds went before you in it. At-Tabari reads it at face value, as no one of the worlds having preceded them in this indecency, and says the people of interpretation said the same. He supports it with a report through his chain from 'Amr ibn Dinar, who said that such a thing had not happened among males until the people of Lut. Ma'arif al-Qur'an gives the sense in its own words: a deed never committed before in the whole world.",
+            "bn": "মা সাবাকাকুম বিহা মিন আহাদিম মিনাল আলামীন: জগতের কেউ এতে তোমাদের আগে যায়নি। তাবারী কথাটা যেমন আছে তেমনই পড়েন: এ অশ্লীল কাজে জগতের কেউ তাদের আগে যায়নি। তিনি জানান, তাফসীরের আলেমরাও একই কথা বলেছেন। নিজের সনদে তিনি আমর ইবন দীনারের একটি বক্তব্য আনেন: লূতের সম্প্রদায়ের আগে পুরুষদের মধ্যে এমন কিছু ঘটেনি। মাআরিফুল কুরআন নিজের ভাষায় একই অর্থ দেয়: এমন কাজ, যা এর আগে গোটা দুনিয়ায় কখনো করা হয়নি।"
+          },
+          {
+            "en": "Ibn Kathir frames the same words a little more narrowly: no one of the children of Adam had done this before them. At-Tabari keeps the verse's own widest word, al-'alamin, the worlds, while Ibn Kathir speaks of humankind. They do not disagree; they simply draw the boundary in different places. The parallel at 7:80 carries almost the same sentence. Either way the claim is about a wrong, not about its standing. A thing done for the first time is not made right by being new, any more than a thing done by many is made right by being common.",
+            "bn": "ইবন কাসীর একই কথাকে একটু সরু পরিসরে রাখেন: আদম সন্তানদের কেউ তাদের আগে এ কাজ করেনি। তাবারী আয়াতের নিজের সবচেয়ে বিস্তৃত শব্দটিই ধরে রাখেন, আল-আলামীন, সমগ্র জগৎ। আর ইবন কাসীর কথা বলেন মানবজাতি নিয়ে। দুজনের মধ্যে বিরোধ নেই, তাঁরা শুধু সীমারেখা টানেন ভিন্ন জায়গায়। ৭:৮০ আয়াতে প্রায় হুবহু একই বাক্য আছে। যেভাবেই পড়া হোক, দাবিটা একটা অন্যায়কে নিয়ে, তার কোনো মর্যাদা নিয়ে নয়। কোনো কাজ প্রথমবার করা হলেই নতুন বলে তা ঠিক হয়ে যায় না। ঠিক যেমন অনেকে করলেই সাধারণ বলে কোনো কাজ ঠিক হয়ে যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two More Counts to Come",
+          "bn": "অভিযোগের আরও দুই দফা"
+        },
+        "p": [
+          {
+            "en": "The charge does not end with this verse. In 29:29 Lut names the deed again and adds two counts, cutting the road and committing al-munkar in their gatherings, and 29:30 gives his prayer for help against a people who spread corruption. The commentators who read 29:28 together with what follows draw one lesson from those gatherings. The Muyassar says it teaches that people may not gather together on a wrong that Allah and His Messenger forbade; Ibn Kathir, in the abridged English, says they did unseemly things in company and did not forbid one another.",
+            "bn": "অভিযোগ এ আয়াতেই শেষ হয় না। ২৯:২৯ আয়াতে লূত কাজটির কথা আবার বলেন, আর যোগ করেন আরও দুই দফা: পথে রাহাজানি, আর নিজেদের মজলিসে মুনকার বা ঘৃণ্য কাজ। ২৯:৩০ আয়াতে আছে ফাসাদ সৃষ্টিকারী সম্প্রদায়ের বিরুদ্ধে সাহায্যের জন্য তাঁর দোয়া। যে তাফসীরকারেরা ২৯:২৮ আয়াতকে পরের আয়াতের সঙ্গে মিলিয়ে পড়েন, তাঁরা সেই মজলিস থেকে একটি শিক্ষা টানেন। মুয়াসসার বলে, এতে জানিয়ে দেওয়া হয়েছে যে আল্লাহ ও তাঁর রাসূল যা নিষেধ করেছেন, এমন মন্দ কাজে মানুষের একজোট হওয়া জায়েয নয়। সংক্ষিপ্ত ইংরেজি ইবন কাসীর বলে, তারা মজলিসে অশোভন কাজ করত, অথচ কেউ কাউকে বাধা দিত না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an notes that the Qur'an does not specify the third sin, and deduces from this that any sin committed openly and with indifference becomes a double sin. It also mentions a report from Umm Hani' about what went on in those gatherings, giving no source or grading; that report concerns 29:29, and nothing here rests on it. No tafsir fetched for 29:28 attaches a sound hadith to this verse, and none gives an occasion of revelation. The angels' visit begins at 29:31 and is told in its own place.",
+            "bn": "মাআরিফুল কুরআন লক্ষ করে যে তৃতীয় গুনাহটি কী, কুরআন তা নির্দিষ্ট করে বলেনি। সেখান থেকে সে এই সিদ্ধান্ত টানে: যেকোনো গুনাহ প্রকাশ্যে আর বেপরোয়াভাবে করা হলে তা দ্বিগুণ গুনাহ হয়ে যায়। সেই মজলিসে কী হতো, সে বিষয়ে উম্মে হানী (রাঃ)-এর একটি বর্ণনার কথাও সে উল্লেখ করে, কোনো সূত্র বা মান না জানিয়ে। বর্ণনাটি ২৯:২৯ আয়াত নিয়ে, আর এখানে কোনো কথা তার উপর দাঁড়িয়ে নেই। ২৯:২৮ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না, শানে নুযূলও দেয় না। ফেরেশতাদের আগমন শুরু হয় ২৯:৩১ আয়াতে, আর সে কথা বলা হয়েছে তার নিজের জায়গায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Words, Never a Warrant",
+          "bn": "শুধু কথা, কোনো সনদ নয়"
+        },
+        "p": [
+          {
+            "en": "This must be said firmly. The verse reports what one messenger said to one people at one time, and it condemns a deed in the terms the Qur'an itself chooses. It licenses no harm, insult, threat or violence against any living person or community, and it hands no one a present-day target. Lut (AS) met what he saw with speech alone: a statement, a question, a warning, and then a prayer to his Lord in 29:30. He raised no hand, and whoever reaches for his story to justify cruelty has left the story behind.",
+            "bn": "কথাটা দৃঢ়ভাবে বলা দরকার। আয়াতটি জানায়, একজন রাসূল এক সময়ে একটি সম্প্রদায়কে কী বলেছিলেন। আর এটি একটি কাজের নিন্দা করে ঠিক সেই ভাষায়, যা কুরআন নিজে বেছে নিয়েছে। আজ বেঁচে থাকা কোনো মানুষ বা জনগোষ্ঠীর ক্ষতি করা, অপমান করা, হুমকি দেওয়া বা তাদের উপর সহিংসতা চালানোর কোনো অনুমতি এ আয়াত দেয় না। বর্তমানের কোনো লক্ষ্যবস্তুও কারও হাতে তুলে দেয় না। লূত (আঃ) যা দেখেছিলেন, তার মোকাবিলা করেছিলেন শুধু কথায়: একটি ঘোষণা, একটি প্রশ্ন, একটি সতর্কবাণী, তারপর ২৯:৩০ আয়াতে রবের কাছে দোয়া। তিনি কারও দিকে হাত তোলেননি। যে তাঁর কাহিনি টেনে এনে নিষ্ঠুরতার পক্ষে যুক্তি দেয়, সে কাহিনিটাকেই পেছনে ফেলে এসেছে।"
+          },
+          {
+            "en": "Judgement over people belongs to Allah, who knows what no one else knows. The commentators read here speak of a people of the past and their deeds, and none of them gives a reader any part in punishing anyone. What the verse asks of a reader today is inward: to call a wrong by its name when it must be named, clearly and without contempt, and to want guidance for others rather than their ruin. The dignity owed to every human being is not lessened by a single line of this passage.",
+            "bn": "মানুষের উপর বিচারের ভার আল্লাহর, যিনি এমন কিছু জানেন যা আর কেউ জানে না। এখানে যে তাফসীরকারদের পড়া হয়েছে, তাঁরা কথা বলেন অতীতের এক সম্প্রদায় আর তাদের কাজ নিয়ে। তাঁদের কেউই কাউকে শাস্তি দেওয়ার কোনো ভূমিকা পাঠকের হাতে দেন না। আজকের পাঠকের কাছে আয়াতটি যা চায়, তা ভেতরের কাজ। যখন অন্যায়ের নাম নেওয়া দরকার, তখন তুচ্ছতাচ্ছিল্য ছাড়া পরিষ্কার করে নাম নেওয়া। আর অন্যের ধ্বংস নয়, তার হেদায়েত কামনা করা। প্রতিটি মানুষের যে মর্যাদা প্রাপ্য, এ অংশের একটি লাইনও তা একটুও খাটো করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Speaking Up Without a Crowd",
+          "bn": "ভিড় ছাড়াই মুখ খোলা"
+        },
+        "p": [
+          {
+            "en": "Read within the surah, the moment has a shape worth keeping. In 29:26 Lut was the believer at Ibrahim's side; now, sent on to a town of his own, he stood before it with no crowd behind him. He still spoke in the second person, innakum, you, to their faces and not about them behind their backs. The surah opened in 29:2 by asking whether people think they will be left alone for saying we believe, and not be tested. Lut's test was to say an unwelcome truth to the people he lived among.",
+            "bn": "সূরার ভেতরে রেখে পড়লে মুহূর্তটার একটা আকার চোখে পড়ে, যা মনে রাখার মতো। ২৯:২৬ আয়াতে লূত ছিলেন ইবরাহীমের পাশে দাঁড়ানো মুমিন। এখন তিনি, যাঁকে পাঠানো হলো নিজের এক জনপদে, তার সামনে দাঁড়ালেন পেছনে কোনো ভিড় ছাড়াই। তবু তিনি কথা বললেন সরাসরি সম্বোধনে, ইন্নাকুম, তোমরা। মুখের উপর বললেন, আড়ালে তাদের নিয়ে নয়। সূরা শুরু হয়েছিল ২৯:২ আয়াতের প্রশ্ন দিয়ে: মানুষ কি ভাবে, আমরা ঈমান এনেছি বললেই তাদের ছেড়ে দেওয়া হবে, পরীক্ষা করা হবে না? লূতের পরীক্ষা ছিল, যাদের মধ্যে তিনি থাকতেন, তাদের এক অপ্রিয় সত্য শোনানো।"
+          },
+          {
+            "en": "The question for me sits close to home. Where, in my family, my work or my circle, has something plainly wrong come to look normal only because nobody before me questioned it and everybody around me does it? Do I have the courage to name it, plainly and kindly, to the people concerned rather than about them? And once I have named it, can I leave the outcome with Allah, as Lut did when he turned from his people to his Lord and asked Him for help?",
+            "bn": "আমার জন্য প্রশ্নটা খুব কাছের। আমার পরিবারে, কাজের জায়গায় বা বন্ধুমহলে কোন স্পষ্ট অন্যায় স্বাভাবিক হয়ে উঠেছে শুধু এ কারণে যে আমার আগে কেউ প্রশ্ন তোলেনি, আর চারপাশের সবাই তা করে? যাদের ব্যাপার, তাদের আড়ালে নয়, তাদের সামনেই সোজাসুজি আর নরম ভাষায় কথাটা বলার সাহস কি আমার আছে? আর একবার বলে ফেলার পর ফলাফলটা কি আমি আল্লাহর হাতে ছেড়ে দিতে পারি? যেমন লূত (আঃ) নিজের সম্প্রদায় থেকে মুখ ফিরিয়ে রবের দিকে ফিরেছিলেন, আর তাঁর কাছেই সাহায্য চেয়েছিলেন।"
+          }
+        ]
+      }
+    ]
+  },
   "29:31": {
     "sections": [
       {

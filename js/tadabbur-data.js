@@ -36113,6 +36113,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every effort you make in obedience benefits you, not Allah, who needs nothing; so strive without counting it a favour and without waiting to be noticed.",
     "lessonBn": "আনুগত্যের পথে আপনার প্রতিটি চেষ্টার লাভ আপনারই, আল্লাহর নয়, তিনি কিছুরই মুখাপেক্ষী নন। তাই চেষ্টা করুন, একে দয়া ভেবে হিসাব না কষে আর কারও নজরে পড়ার অপেক্ষা না করে।"
+  },
+  "29:28": {
+    "reflectionEn": "After Ibrahim's story, the surah turns to the man who believed him first. Lut stands before his own people and names what they are doing, to their faces: you commit an indecency that no one in all the worlds did before you. He has no army behind him and no crowd, only the message of his Lord. He does not blur it into a hint, and he does not take the matter into his own hands. The verse tells what happened in one town long ago and licenses nothing against anyone alive. Its question is for me. What wrong has come to look normal around me only because everyone does it? And when I must speak, do I speak plainly, and with words alone?",
+    "reflectionBn": "ইবরাহীম (আঃ)-এর কাহিনি শেষ হতেই সূরা ফিরে তাকায় সেই মানুষটির দিকে, যিনি সবার আগে তাঁর উপর ঈমান এনেছিলেন। লূত (আঃ) নিজের সম্প্রদায়ের সামনে দাঁড়িয়ে মুখের উপর বলে দেন তারা কী করছে: তোমরা এমন এক অশ্লীল কাজ করছ, যা জগতের কেউ তোমাদের আগে করেনি। তাঁর পেছনে কোনো বাহিনী নেই, কোনো ভিড় নেই, আছে শুধু রবের পাঠানো বার্তা। কথাটা তিনি ইশারায় ঝাপসা করে দেন না, আবার বিষয়টা নিজের হাতেও তুলে নেন না। আয়াতটি বহু আগের এক জনপদের ঘটনা বলে, আজ বেঁচে থাকা কারও বিরুদ্ধে কোনো অনুমতি দেয় না। প্রশ্নটা বরং আমার জন্য। কোন অন্যায় আমার চারপাশে স্বাভাবিক হয়ে গেছে শুধু এ কারণে যে সবাই তা করে? আর যখন কথা বলা দরকার, আমি কি সোজাসুজি বলি, আর শুধু কথা দিয়েই বলি?",
+    "pointsEn": [
+      "Which wrong around me has stopped looking wrong only because it has become common?",
+      "When I have to name a fault, do I say it clearly and without cruelty, or do I hint, or keep quiet?",
+      "Have I been the first in my circle to start something I would not want anyone to copy?",
+      "Who first showed me the way to Allah, and whom am I showing it to now?",
+      "When I read about a condemned people, do I look for someone to blame, or for something to mend in myself?"
+    ],
+    "pointsBn": [
+      "কোন অন্যায় আমার চোখে আর অন্যায় মনে হয় না, শুধু এ কারণে যে তা চারদিকে চলছে?",
+      "কারও দোষ ধরিয়ে দিতে হলে আমি কি তা পরিষ্কার করে বলি, নিষ্ঠুর না হয়ে? নাকি ইশারায় সারি, বা চুপ করে থাকি?",
+      "আমার বন্ধুমহলে এমন কিছু কি আমিই প্রথম শুরু করেছি, যা আর কেউ অনুসরণ করুক তা আমি চাই না?",
+      "আল্লাহর পথ আমাকে প্রথম কে দেখিয়েছিলেন? আর এখন আমি কাকে সে পথ দেখাচ্ছি?",
+      "কোনো ধ্বংসপ্রাপ্ত জাতির কথা পড়ার সময় আমি কি দোষ চাপানোর মতো কাউকে খুঁজি, নাকি নিজের মধ্যে শোধরানোর মতো কিছু খুঁজি?"
+    ],
+    "lessonEn": "Name a wrong plainly and with words alone, never let a wrong pass as normal because it is common, and leave every judgement over people to Allah.",
+    "lessonBn": "অন্যায়ের নাম সোজাসুজি নিন, শুধু কথা দিয়ে; কোনো অন্যায় চারদিকে চলছে বলে তাকে স্বাভাবিক হতে দেবেন না; আর মানুষের উপর সব বিচার আল্লাহর হাতে ছেড়ে দিন।"
   }
 };
 
