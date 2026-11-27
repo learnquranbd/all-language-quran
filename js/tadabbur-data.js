@@ -36913,6 +36913,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "On that Day each person is gathered with those whose deeds match his own, so choose your deeds and your company now as you would want them counted then.",
     "lessonBn": "সেদিন প্রত্যেককে একত্র করা হবে তাদের সঙ্গে, যাদের আমল তার আমলের মতো। তাই আমল আর সঙ্গী আজই এমনভাবে বেছে নিন, যেভাবে সেদিন তা গোনা হোক বলে আপনি চাইবেন।"
+  },
+  "36:78": {
+    "reflectionEn": "A man holds up an old bone, crumbles it between his fingers and asks: who will give life to this, now that it has rotted? The Qur'an calls his question a parable, and in the middle of it says something about him: he forgot his own creation. He measured the Maker by what human hands can do, and because no hand can rebuild dust, he decided that no one could. Yet he had once been less than that bone, and there he stood, speaking. I may never hold up a bone, but I can carry the same measuring rod. When something Allah has promised looks too large, am I judging it by His power, or by mine?",
+    "reflectionBn": "এক লোক পুরনো একটা হাড় তুলে ধরে, আঙুলে চেপে গুঁড়িয়ে দেয়, তারপর প্রশ্ন করে: পচে গলে যাওয়ার পর একে কে আবার জীবিত করবে? কুরআন তার এই প্রশ্নকে বলছে এক উপমা। আর প্রশ্নের ঠিক মাঝখানে তার সম্পর্কে একটা কথা জুড়ে দিচ্ছে: সে নিজের সৃষ্টির কথা ভুলে গেছে। মানুষের হাত যা পারে, তা দিয়েই সে স্রষ্টাকে মাপল। ধুলো জোড়া লাগানো কোনো হাতের কাজ নয়, তাই সে ধরে নিল, কেউই তা পারবে না। অথচ একদিন সে ওই হাড়ের চেয়েও তুচ্ছ ছিল, আর আজ সেখানে দাঁড়িয়ে কথা বলছে। আমি হয়তো কখনো হাড় তুলে ধরব না, কিন্তু মাপার সেই একই ফিতা আমার হাতেও থাকতে পারে। আল্লাহর কোনো ওয়াদা যখন খুব বড় মনে হয়, তখন আমি তা মাপি কার ক্ষমতা দিয়ে, তাঁর, নাকি আমার?",
+    "pointsEn": [
+      "Which promise of Allah do I find hard to believe only because I could never do such a thing myself?",
+      "When did I last think about my own beginning, not as a fact I know but as something done for me without my help?",
+      "Are some of my questions about the Hereafter asked to understand, and others asked only to win an argument?",
+      "What have I let myself forget about my own life that would quietly answer a doubt I still carry?",
+      "When someone near me mocks the idea of rising again, how can I answer with calm reasoning rather than scorn?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কোন ওয়াদা আমার কাছে বিশ্বাস করা কঠিন লাগে শুধু এ কারণে যে, এমন কাজ আমি নিজে কখনো পারতাম না?",
+      "নিজের শুরুটা নিয়ে শেষ কবে ভেবেছি? জানা একটা তথ্য হিসেবে নয়, বরং আমার কোনো ভূমিকা ছাড়াই আমার জন্য করা একটা কাজ হিসেবে?",
+      "আখিরাত নিয়ে আমার কিছু প্রশ্ন কি বোঝার জন্য, আর কিছু প্রশ্ন কি শুধু তর্কে জেতার জন্য?",
+      "নিজের জীবনের কোন কথাটা আমি ভুলে থাকতে দিয়েছি, যা মনে পড়লে আমার মনের একটা সন্দেহের জবাব নিঃশব্দে মিলে যেত?",
+      "আশপাশের কেউ আবার জীবিত হওয়ার কথা নিয়ে ঠাট্টা করলে, তাচ্ছিল্য না করে শান্ত যুক্তি দিয়ে আমি কীভাবে জবাব দিতে পারি?"
+    ],
+    "lessonEn": "Do not measure Allah by your own limits. Remember that He made you when you were nothing worth mentioning, and the question of who will raise the dead answers itself.",
+    "lessonBn": "নিজের সীমা দিয়ে আল্লাহকে মাপবেন না। মনে রাখুন, আপনি যখন উল্লেখ করার মতো কিছুই ছিলেন না, তখন তিনিই আপনাকে বানিয়েছেন। তাহলে মৃতকে কে ওঠাবেন, সে প্রশ্নের জবাব নিজেই মিলে যায়।"
   }
 };
 

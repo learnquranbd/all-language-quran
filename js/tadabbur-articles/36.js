@@ -3823,6 +3823,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "36:78": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Set in Three Clauses",
+          "bn": "তিন টুকরো কথায় এক চ্যালেঞ্জ"
+        },
+        "p": [
+          {
+            "en": "Wa daraba lana mathalan wa nasiya khalqahu, qala man yuhyi al-'izama wa hiya ramim: and he strikes for Us a parable and forgets his own creation; he says, who will give life to bones when they have crumbled? The verse follows directly on 36:77, which called man a clear adversary though he was made from a drop. This verse reports what the adversary said: a parable struck, a creation forgotten, and a question asked.",
+            "bn": "ওয়া দারাবা লানা মাসালান ওয়া নাসিয়া খালকাহু, কালা মাই ইউহয়িল ইযামা ওয়া হিয়া রামীম: সে আমার জন্য এক উপমা দাঁড় করায়, আর নিজের সৃষ্টির কথা ভুলে যায়। সে বলে, হাড়গুলো পচে গলে যাওয়ার পর কে সেগুলোকে জীবিত করবে? আয়াতটি এসেছে ঠিক ৩৬:৭৭-এর পরে। সেখানে বলা হয়েছে, এক ফোঁটা থেকে তৈরি হয়েও মানুষ হয়ে গেল প্রকাশ্য প্রতিপক্ষ। এ আয়াত জানায়, সেই প্রতিপক্ষ কী বলেছিল: উপমা দাঁড় করানো, নিজের সৃষ্টি ভুলে যাওয়া, আর একটা প্রশ্ন।"
+          },
+          {
+            "en": "As-Sa'di reads these as one statement. The parable, he says, is explained by the words that follow it: qala, that man said, who will give life to bones? The question is the parable. Between the two stands wa nasiya khalqahu, set inside the man's own speech, so that the flaw in the objection is named before the objection is finished. The answer opens in the next verse, 36:79, with the command qul, say.",
+            "bn": "সা'দী এগুলোকে পড়েন একটিমাত্র বক্তব্য হিসেবে। তাঁর কথায়, উপমাটির ব্যাখ্যা পরের কথাতেই আছে: কালা, অর্থাৎ সেই লোক বলল, হাড়গুলোকে কে জীবিত করবে? প্রশ্নটাই তার উপমা। আর এ দুইয়ের মাঝখানে বসানো আছে ওয়া নাসিয়া খালকাহু, লোকটির নিজের কথার ভেতরেই। ফলে আপত্তি শেষ হওয়ার আগেই তার গলদের নাম বলে দেওয়া হলো। জবাব শুরু হয় পরের আয়াতে, ৩৬:৭৯-এ, কুল, অর্থাৎ বলুন, এই আদেশ দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Measuring the Maker by the Made",
+          "bn": "সৃষ্টির মাপে স্রষ্টাকে মাপা"
+        },
+        "p": [
+          {
+            "en": "What kind of parable is this? At-Tabari explains mathal as a likeness: by asking who will give life to crumbled bones, the man made Allah like those of the creation who cannot revive them, since no one is able to do that. The parable, then, is not a story or a picture. It is a comparison, set up silently inside a question, between Allah and the creatures whose power runs out at a crumbled bone.",
+            "bn": "এ কেমন উপমা? তাবারী মাসাল শব্দের অর্থ করেন সাদৃশ্য। গুঁড়ো হাড়কে কে জীবিত করবে, এ প্রশ্ন তুলে লোকটি আল্লাহকে মিলিয়ে দিল সৃষ্টির সেই সদস্যদের সঙ্গে, যারা এগুলোকে জীবিত করতে পারে না, কারণ এমন কাজের ক্ষমতা কারও নেই। তাহলে উপমাটা কোনো গল্প বা ছবি নয়। এ এক তুলনা, প্রশ্নের ভেতরে চুপিচুপি বসানো। তুলনাটা আল্লাহর সঙ্গে সেই সৃষ্টির, গুঁড়ো হাড়ের সামনে এসে যাদের ক্ষমতা ফুরিয়ে যায়।"
+          },
+          {
+            "en": "Al-Muyassar and as-Sa'di name the comparison in nearly the same words: a parable that ought not to be struck, qiyas qudrat al-khaliq bi-qudrat al-makhluq, measuring the power of the Creator by the power of the created. As-Sa'di supplies the hidden step in the reasoning: whatever seems far-fetched for a creature's power is taken to be far-fetched for the Creator's power too. That, he says, is the substance of the doubt.",
+            "bn": "মুয়াসসার আর সা'দী তুলনাটার নাম দেন প্রায় একই ভাষায়: এমন এক উপমা, যা দেওয়া উচিত নয়। কিয়াসু কুদরাতিল খালিকি বি-কুদরাতিল মাখলূক, অর্থাৎ সৃষ্টির ক্ষমতা দিয়ে স্রষ্টার ক্ষমতা মাপা। সা'দী যুক্তির লুকানো ধাপটা খুলে দেন। সৃষ্টির ক্ষমতায় যা অসম্ভব ঠেকে, ধরে নেওয়া হয় স্রষ্টার ক্ষমতাতেও তা অসম্ভব। তাঁর মতে সন্দেহের সারকথা এটাই।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the phrase from a slightly different angle. For its author, daraba lana mathalan points back at the scene behind these verses: the man crushing a bone into powder and then treating its revival as improbable. On this reading the parable is the crumbled bone itself, held up in the hand. The two readings sit together easily: the bone is the exhibit, and the false comparison is the argument built on it.",
+            "bn": "মাআরিফুল কুরআন কথাটা দেখে একটু ভিন্ন কোণ থেকে। লেখকের মতে দারাবা লানা মাসালান ইঙ্গিত করে এ আয়াতগুলোর পেছনের ঘটনার দিকে: লোকটি হাড় পিষে গুঁড়া করল, তারপর সেটা আবার জীবিত হওয়াকে অসম্ভব ভাবল। এ পাঠে উপমা হলো ওই গুঁড়ো হাড় নিজেই, হাতে তুলে ধরা। দুই পাঠ সহজেই পাশাপাশি থাকে। হাড়টা নমুনা, আর ভুল তুলনাটা তার উপর দাঁড় করানো যুক্তি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Questioner Forgot",
+          "bn": "প্রশ্নকারী যা ভুলে গেল"
+        },
+        "p": [
+          {
+            "en": "Wa nasiya khalqahu: and he forgot his own creation. At-Tabari spells out what was forgotten: how We created him, and that he was nothing but a drop which We made into a well-formed, speaking creature. The man did not think, at-Tabari says. Had he thought, he would have known that He who did this is not unable to bring the dead back to life, and to make crumbled bones human again, as they were before they perished.",
+            "bn": "ওয়া নাসিয়া খালকাহু: আর সে নিজের সৃষ্টির কথা ভুলে গেল। কী ভুলে গেল, তাবারী তা খুলে বলেন: আমি তাকে কীভাবে সৃষ্টি করেছি, আর সে যে এক ফোঁটা ছাড়া কিছুই ছিল না, যাকে আমি সুগঠিত, কথা-বলা এক সৃষ্টিতে পরিণত করেছি। তাবারী বলেন, লোকটি ভেবে দেখেনি। ভাবলে বুঝত, যিনি এ কাজ করেছেন, মৃতকে আবার জীবিত করতে তিনি অক্ষম নন। বিলীন হওয়ার আগে যেমন ছিল, গুঁড়ো হাড়কে সেই চেহারায় আবার মানুষ বানাতেও নন।"
+          },
+          {
+            "en": "Ibn Kathir takes the forgetting further back. The man forgot himself, he says, and that Allah created him from nothing, min al-'adam, so that he knew from his own self something greater than what he denied. Al-Baghawi glosses khalqahu as bad' amrihi, the beginning of his affair. Al-Qurtubi's gloss is pointed: he forgot that We produced him from a lifeless drop and set life into it. On that gloss, the man asking who can put life into dead bones was himself life placed into something dead.",
+            "bn": "ইবন কাসীর ভুলে যাওয়াটাকে নিয়ে যান আরও পেছনে। তাঁর কথায়, লোকটি নিজেকেই ভুলে গেল। ভুলে গেল, আল্লাহ তাকে সৃষ্টি করেছেন শূন্য থেকে, মিনাল আদাম। ফলে যা সে অস্বীকার করল, তার চেয়েও বড় জিনিস সে নিজের ভেতরেই জানত। বাগাভী খালকাহু শব্দের অর্থ করেন বাদউ আমরিহি, তার ব্যাপারের সূচনা। কুরতুবীর ব্যাখ্যা আরও তীক্ষ্ণ: সে ভুলে গেল, আমি তাকে বানিয়েছি প্রাণহীন এক ফোঁটা থেকে, আর তাতে জুড়ে দিয়েছি প্রাণ। এ ব্যাখ্যায়, মরা হাড়ে কে প্রাণ দেবে বলে যে প্রশ্ন করছে, সে নিজেই মরা জিনিসে বসানো প্রাণ।"
+          },
+          {
+            "en": "As-Sa'di calls the man's words ghafla, heedlessness, and a forgetting of how his creation began. Had he noticed, he says, that he was created after he had been nothing worth mentioning, he would never have struck this parable. For at-Tabari and as-Sa'di alike, then, the forgetting is a failure to reflect rather than a lapse of memory. Al-Qurtubi puts it most sharply: jawabuhu min nafsihi hadir, his answer is present in his own self.",
+            "bn": "সা'দী লোকটির কথাকে বলেন গাফলা, অর্থাৎ উদাসীনতা, আর নিজের সৃষ্টির শুরুটা ভুলে যাওয়া। তাঁর মতে, উল্লেখ করার মতো কিছুই না থাকার পর তাকে সৃষ্টি করা হয়েছে, এ কথা খেয়াল করলে সে কখনো এই উপমা দিত না। তাহলে তাবারী ও সা'দী দুজনের কাছেই ভুলে যাওয়াটা স্মৃতির গোলমাল নয়, ভেবে না দেখার দোষ। কুরতুবী কথাটা বলেন সবচেয়ে ধারালোভাবে: জাওয়াবুহু মিন নাফসিহি হাদির, তার জবাব তার নিজের মধ্যেই হাজির।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Man Behind the Words",
+          "bn": "কথাগুলোর পেছনের মানুষটি"
+        },
+        "p": [
+          {
+            "en": "The commentators tie the question to the scene already told under 36:77. In at-Tabari, Mujahid explains wa daraba lana mathalan with a name, Ubayy ibn Khalaf, and Qatada's report of the crumbled bone scattered into the wind is given under the words who will give life to bones. Sa'id ibn Jubayr's report in at-Tabari names al-As ibn Wa'il instead. The article on 36:77 sets out the disagreement over the name, and this article takes no side in it.",
+            "bn": "তাফসীরকারেরা প্রশ্নটাকে জুড়ে দেন সেই ঘটনার সঙ্গে, যা ৩৬:৭৭-এর আলোচনায় বলা হয়ে গেছে। তাবারীতে মুজাহিদ ওয়া দারাবা লানা মাসালান কথাটির ব্যাখ্যা দেন একটা নাম দিয়ে: উবাই ইবন খালাফ। আর হাড় গুঁড়িয়ে বাতাসে উড়িয়ে দেওয়ার যে ঘটনা কাতাদা বর্ণনা করেছেন, তা এসেছে 'হাড়গুলোকে কে জীবিত করবে' কথাটির নিচে। তাবারীতেই সাঈদ ইবন জুবাইরের বর্ণনায় নাম আসে আস ইবন ওয়াইলের। নাম নিয়ে মতভেদটা ৩৬:৭৭-এর লেখায় সাজানো আছে। এ লেখা তাতে কোনো পক্ষ নিচ্ছে না।"
+          },
+          {
+            "en": "These reports also give a reply of the Prophet ﷺ to the man. In the texts consulted it comes in the reports of Mujahid, Qatada and Sa'id ibn Jubayr, which stop at these Successors without naming a Companion, and in a chain Ibn Kathir cites from Ibn Abi Hatim reaching Ibn Abbas (RA); al-Qurtubi cites a reply with no chain. None of these texts grades it, so it is mentioned here and not quoted, and nothing in this article rests on its wording.",
+            "bn": "এসব বর্ণনায় লোকটিকে নবী ﷺ-এর দেওয়া একটি জবাবেরও উল্লেখ আছে। এখানে দেখা তাফসীরগুলোতে তা এসেছে মুজাহিদ, কাতাদা ও সাঈদ ইবন জুবাইরের বর্ণনায়, যেগুলো এই তাবিঈদের পর্যন্ত এসে থেমে যায়, কোনো সাহাবীর নাম নেয় না। আরেকটি সনদ ইবন কাসীর আনেন ইবন আবী হাতিম থেকে, যা ইবন আব্বাস (রাঃ) পর্যন্ত গেছে। কুরতুবী একটা জবাবের কথা আনেন সনদ ছাড়াই। এর কোনোটিতেই বর্ণনাটির মান বলা হয়নি। তাই এখানে শুধু উল্লেখ করা হলো, উদ্ধৃত করা হলো না, আর এ লেখার কোনো কথা তার শব্দের উপর দাঁড়িয়ে নেই।"
+          },
+          {
+            "en": "This must be said firmly. The verse describes what one man said to the Prophet ﷺ in his lifetime, and the reports name a man long dead. It licenses nothing against any living person or community: nothing against his descendants or kin, and nothing against anyone today who doubts the Hereafter. Allah meets the question with reasoning in the verses that follow, and a reader who turns this man's name into a weapon has stepped outside the verse.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াতটি বর্ণনা করে, নবী ﷺ-এর জীবদ্দশায় একজন লোক তাঁকে কী বলেছিল। বর্ণনাগুলো যার নাম নেয়, সে বহু আগেই মারা গেছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। তার বংশধর বা আত্মীয়দের বিরুদ্ধে নয়, আজ যে আখিরাত নিয়ে সন্দেহ করে, তার বিরুদ্ধেও নয়। পরের আয়াতগুলোতে আল্লাহ এ প্রশ্নের জবাব দিয়েছেন যুক্তি দিয়ে। যে পাঠক এই লোকের নামকে অস্ত্র বানায়, সে আয়াতের সীমা পেরিয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ramim, Not Ramima",
+          "bn": "রামীম, রামীমা নয়"
+        },
+        "p": [
+          {
+            "en": "Ramim is glossed by al-Qurtubi and al-Baghawi with a single word, baliya, worn out and decayed. Al-Qurtubi gives the usage: one says ramma al-'azmu, the bone has decayed, and it is then ramim, and also rimam. Al-Muyassar's paraphrase adds a second picture, al-baliya al-mutafattita, worn out and broken into crumbs, and as-Sa'di speaks of bones after they have decayed and vanished away, ba'da ma baliyat wa talashat. The word carries the scene inside it: not simply bones, but bones gone to powder.",
+            "bn": "রামীম শব্দের অর্থ কুরতুবী আর বাগাভী দেন একটি শব্দে: বালিয়া, অর্থাৎ জীর্ণ, পচে যাওয়া। কুরতুবী শব্দটির ব্যবহার দেখান। বলা হয় রাম্মাল আযমু, হাড়টা পচে গেছে, তখন সেটা রামীম, আবার রিমামও। মুয়াসসারের ব্যাখ্যায় আরও একটা ছবি যোগ হয়: আল-বালিয়াতুল মুতাফাত্তিতা, জীর্ণ হয়ে টুকরো টুকরো ঝরে পড়া। সা'দী বলেন সেই হাড়ের কথা, যা পচে গিয়ে মিলিয়ে গেছে, বা'দা মা বালিয়াত ওয়া তালাশাত। শব্দটার ভেতরেই গোটা দৃশ্য ধরা আছে। শুধু হাড় নয়, গুঁড়া হয়ে যাওয়া হাড়।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi both stop over a point of grammar. The bones take the feminine pronoun hiya, so one might expect ramima, yet the Qur'an says ramim. Their explanation is that the word is turned from the pattern fa'ila, and whatever is turned from its usual form and measure also departs from its usual inflection. Both cite wa ma kanat ummuki baghiyya, nor was your mother unchaste (19:28), where a woman is described without the feminine ending because, they say, the word is turned from baghiya.",
+            "bn": "কুরতুবী আর বাগাভী দুজনেই এখানে ব্যাকরণের একটা বিষয়ে থামেন। হাড়গুলোর জন্য এসেছে স্ত্রীবাচক সর্বনাম হিয়া, তাই আশা করা যেত রামীমা। অথচ কুরআন বলেছে রামীম। তাঁদের ব্যাখ্যা, শব্দটিকে ফা'ইলা ওজন থেকে ঘুরিয়ে আনা হয়েছে, আর যে শব্দ নিজের স্বাভাবিক রূপ ও ওজন থেকে সরে আসে, সে স্বাভাবিক রূপান্তর থেকেও সরে যায়। দুজনেই নজির দেন ওয়া মা কানাত উম্মুকি বাগিয়্যা থেকে: তোমার মা-ও ব্যভিচারিণী ছিল না (১৯:২৮)। সেখানে এক নারীর বর্ণনায় স্ত্রীবাচক চিহ্ন নেই, কারণ তাঁদের মতে শব্দটি বাগিয়া থেকে ঘুরিয়ে আনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Is There Life in Bone?",
+          "bn": "হাড়ে কি প্রাণ থাকে?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws a legal question from the verse. Since Allah speaks of giving life to bones, he says, the verse indicates that there is life in bones, and so that they become impure through death. He gives this as the view of Abu Hanifa and some of al-Shafi'i's companions, against al-Shafi'i's own statement that there is no life in them, and refers back to his discussion under Surah an-Nahl. It is a question of ritual purity, not of creed.",
+            "bn": "কুরতুবী আয়াত থেকে ফিকহের একটা প্রশ্ন বের করেন। তাঁর যুক্তি, আল্লাহ হাড়কে জীবিত করার কথা বলেছেন, তাই আয়াতটি ইঙ্গিত দেয় যে হাড়ে প্রাণ আছে, আর সে কারণে মৃত্যুতে হাড়ও নাপাক হয়ে যায়। এ মত তিনি জানান আবু হানীফা আর শাফিঈর কিছু সঙ্গীর বলে। এর বিপরীতে রাখেন শাফিঈর নিজের কথা যে হাড়ে প্রাণ নেই। সঙ্গে সূরা নাহলের আগের আলোচনার দিকে ইশারা করেন। বিষয়টা পবিত্রতার, আকীদার নয়।"
+          },
+          {
+            "en": "He then answers an objection: that who will give life to bones means the owners of the bones, the people having been left unsaid, a usage common in Arabic and found in the Shari'a. The reply, which al-Qurtubi gives from Ibn al-Arabi, is that such a reading is used only when need requires it, and none does here: Allah has stated it and is able to do it, and sensation, the sign of life, is found in bone. Both views are reported here, with no position taken between the imams.",
+            "bn": "এরপর তিনি একটা আপত্তির জবাব দেন। আপত্তিটা হলো, 'হাড়গুলোকে কে জীবিত করবে' মানে হাড়ের মালিকদের কে জীবিত করবে। মানুষদের কথাটা উহ্য রাখা হয়েছে, আর আরবিতে এমন ব্যবহার প্রচুর, শরীয়তেও আছে। কুরতুবী জবাবটা আনেন ইবনুল আরাবী থেকে। এমন উহ্য ধরা হয় কেবল প্রয়োজনে, আর এখানে তেমন প্রয়োজন নেই। আল্লাহ নিজে কথাটা জানিয়েছেন, তিনি তা করতে সক্ষম, আর প্রাণের আলামত যে অনুভূতি, তা হাড়ে পাওয়া যায়। এখানে দুই মতই তুলে ধরা হলো, ইমামদের মাঝে কোনো পক্ষ নেওয়া হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Analogy Answering Another",
+          "bn": "এক কিয়াসের জবাবে আরেক কিয়াস"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws a second lesson, about reasoning itself. The verse, he says, is evidence for the soundness of qiyas, analogy, because Allah argued against those who deny the resurrection by pointing to the first creation. Beside al-Muyassar and as-Sa'di, this makes a telling pair. The man reasoned by analogy, measuring the Creator by the creature, and they call it a parable that ought not to be struck. The reply also reasons by analogy, from the first making to the second. What is rejected is the wrong measure, not reasoning.",
+            "bn": "কুরতুবী আরেকটা শিক্ষা বের করেন, এবার খোদ যুক্তি নিয়েই। তাঁর মতে আয়াতটি কিয়াস, অর্থাৎ তুলনামূলক যুক্তি যে সঠিক, তার দলিল। কারণ পুনরুত্থান অস্বীকারকারীদের বিরুদ্ধে আল্লাহ যুক্তি দিয়েছেন প্রথম সৃষ্টিকে দেখিয়ে। মুয়াসসার আর সা'দীর কথার পাশে রাখলে জোড়াটা বেশ অর্থবহ হয়ে ওঠে। লোকটিও কিয়াস করেছিল, সৃষ্টি দিয়ে স্রষ্টাকে মেপেছিল, আর তাঁরা একে বলেন এমন উপমা, যা দেওয়া উচিত নয়। জবাবটাও কিয়াস, প্রথমবার বানানো থেকে দ্বিতীয়বারের দিকে। বাতিল হলো ভুল মাপকাঠি, যুক্তি নয়।"
+          },
+          {
+            "en": "The answer itself belongs to the next verse: say, He will give them life who produced them the first time (36:79). The passage then moves through the fire from green wood and the heavens and the earth, and comes to rest on the word be in 36:82. The same doubt is voiced in 17:49, when we are bones and crumbled particles, and in 79:11, even when we are decayed bones. Here the Qur'an names, inside the question itself, what the questioner left out.",
+            "bn": "জবাবটা পরের আয়াতের: বলুন, প্রথমবার যিনি এগুলোকে সৃষ্টি করেছেন, তিনিই এগুলোকে জীবিত করবেন (৩৬:৭৯)। তারপর আলোচনা এগোয় সবুজ গাছের আগুন আর আসমান-যমীন হয়ে, শেষে থামে ৩৬:৮২-এর 'হও' শব্দে। একই সন্দেহের কথা আছে ১৭:৪৯ আয়াতে, যখন আমরা হাড় আর চূর্ণ-বিচূর্ণ হয়ে যাব, আর ৭৯:১১ আয়াতে, যখন আমরা পচে যাওয়া হাড় হয়ে যাব। এখানে কুরআন প্রশ্নের ভেতরেই জানিয়ে দেয়, প্রশ্নকারী কী বাদ দিয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ashes the Sea Gave Back",
+          "bn": "সাগরে ছড়ানো ছাই ফিরে এল"
+        },
+        "p": [
+          {
+            "en": "None of the texts consulted attaches a hadith from the main collections to this verse by name. On the next verse, Ibn Kathir cites from Ahmad a narration of Hudhayfa (RA), noting that many versions of it are in the two Sahihs. It is given here as a general narration, not as an explanation of this verse. Al-Bukhari records it in his Sahih (3479) from Rib'i ibn Hirash: Uqba said to Hudhayfa, won't you narrate to us what you heard from Allah's Messenger ﷺ? Hudhayfa said, I heard him saying:",
+            "bn": "এখানে দেখা কোনো তাফসীর এ আয়াতের নাম ধরে প্রধান হাদীসগ্রন্থগুলোর কোনো হাদীস জুড়ে দেয়নি। ইবন কাসীর পরের আয়াতের আলোচনায় আহমাদ থেকে হুযাইফা (রাঃ)-এর একটি বর্ণনা আনেন, আর জানান, এর অনেকগুলো রূপ দুই সহীহ গ্রন্থে আছে। এখানে হাদীসটি আনা হলো একটি সাধারণ বর্ণনা হিসেবে, এ আয়াতের ব্যাখ্যা হিসেবে নয়। বুখারী নিজের সহীহ গ্রন্থে রিবঈ ইবন হিরাশ থেকে এটি বর্ণনা করেছেন (৩৪৭৯): উকবা হুযাইফাকে বললেন, রাসূলুল্লাহ ﷺ-এর কাছে যা শুনেছেন, তা কি আমাদের শোনাবেন না? হুযাইফা বললেন, আমি তাঁকে বলতে শুনেছি:"
+          },
+          {
+            "en": "'Death approached a man and when he had no hope of surviving, he said to his family, \"When I die, gather for me much wood and build a fire (to burn me). When the fire has eaten my flesh and reached my bones, take the bones and grind them and scatter the resulting powder in the sea on a hot (or windy) day.\" (That was done.) But Allah collected his particles and asked (him), \"Why did you do so?\" He replied, \"For fear of You.\" So Allah forgave him.'",
+            "bn": "'এক লোকের মৃত্যু ঘনিয়ে এল। বেঁচে থাকার আর কোনো আশা নেই দেখে সে পরিবারকে ওসিয়ত করল: আমি মারা গেলে আমার জন্য অনেক কাঠ জড়ো করবে, তারপর আগুন জ্বালাবে। আগুন যখন আমার গোশত খেয়ে হাড় পর্যন্ত পৌঁছে যাবে, তখন হাড়গুলো নিয়ে পিষে ফেলবে। তারপর কোনো গরম দিনে, কিংবা বাতাসের দিনে, আমাকে সাগরে ছড়িয়ে দেবে। কিন্তু আল্লাহ তাকে একত্র করলেন, আর জিজ্ঞেস করলেন: কেন এমন করলে? সে বলল: আপনার ভয়ে। তখন আল্লাহ তাকে ক্ষমা করে দিলেন।'"
+          },
+          {
+            "en": "Beside the verse, the narration answers the man with the bone from another direction. He crumbled one bone in his hand and asked who could revive it. In the hadith a whole body is burnt, ground and scattered over the sea, and Allah gathers it and speaks to the man. The reason the man gives is fear of his Lord, and it is met with forgiveness. The questioner in the verse held up a bone to win an argument; the man in the hadith fled from his Lord and found Him forgiving.",
+            "bn": "আয়াতের পাশে রাখলে বর্ণনাটি হাড় হাতে লোকটিকে জবাব দেয় আরেক দিক থেকে। সে হাতের মুঠোয় একটা হাড় গুঁড়িয়ে জানতে চেয়েছিল, একে কে জীবিত করবে। হাদীসে পুরো একটা দেহ পোড়ানো হয়, পিষে সাগরে ছড়িয়ে দেওয়া হয়, তবু আল্লাহ তাকে একত্র করেন এবং তার সঙ্গে কথা বলেন। লোকটি কারণ হিসেবে বলে রবের ভয়ের কথা, আর তার প্রতিদান আসে ক্ষমায়। আয়াতের প্রশ্নকারী হাড় তুলে ধরেছিল তর্কে জিততে। হাদীসের লোকটি রবের কাছ থেকে পালাতে চেয়েছিল, আর পেল তাঁকে ক্ষমাশীল রূপে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Putting Down the Wrong Measure",
+          "bn": "ভুল মাপকাঠি নামিয়ে রাখা"
+        },
+        "p": [
+          {
+            "en": "The man with the bone is long gone, but his measuring rod is still easy to pick up. A person picks it up whenever a promise of Allah feels too large for human experience: that the dead will rise, that the scattered will be gathered, that every hidden deed will come back into view. The question who could do this? is rarely spoken aloud. Most often it sits quietly beneath carelessness or despair.",
+            "bn": "হাড় হাতে সেই লোক বহু আগেই চলে গেছে, কিন্তু তার মাপার ফিতাটা তুলে নেওয়া এখনো সহজ। আল্লাহর কোনো ওয়াদা যখন মানুষের অভিজ্ঞতার তুলনায় খুব বড় ঠেকে, তখনই মানুষ ফিতাটা তুলে নেয়। মৃতেরা উঠবে, ছড়িয়ে যাওয়া সব একত্র হবে, গোপন প্রতিটি আমল আবার সামনে আসবে, এসব শুনে মনে প্রশ্ন জাগে: এ কে পারবে? প্রশ্নটা কমই মুখে আসে। বেশির ভাগ সময় তা চুপচাপ লুকিয়ে থাকে গাফিলতি বা হতাশার নিচে।"
+          },
+          {
+            "en": "The verse offers its remedy in its middle clause: before doubting what Allah will do, remember what He has already done with you. At-Tabari's phrase is that the man did not think; as-Sa'di's, that he was heedless. Both point to a habit any reader can practise: to look at your own existence, which you did not make and could not have made, and let it settle the question of the return. The answer to the doubt, as al-Qurtubi put it, is already present in the doubter's own self.",
+            "bn": "আয়াতটি ওষুধ রেখেছে তার মাঝের অংশে: আল্লাহ কী করবেন, তা নিয়ে সন্দেহ করার আগে মনে করুন, তিনি আপনাকে নিয়ে এর মধ্যেই কী করেছেন। তাবারী বলেন, লোকটি ভেবে দেখেনি। সা'দী বলেন, সে ছিল উদাসীন। দুই কথাই এমন এক অভ্যাসের দিকে ইশারা করে, যা যে কোনো পাঠক গড়ে তুলতে পারেন। নিজের অস্তিত্বের দিকে তাকানো, যা আপনি বানাননি, বানাতে পারতেনও না, আর সেটাকেই ফিরে যাওয়ার প্রশ্নের মীমাংসা করতে দেওয়া। কুরতুবীর কথায়, সন্দেহের জবাব সন্দেহকারীর নিজের মধ্যেই হাজির।"
+          }
+        ]
+      }
+    ]
+  },
   "36:82": {
     "sections": [
       {
