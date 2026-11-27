@@ -1479,6 +1479,142 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:32": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Dare, Then a Throw",
+          "bn": "চ্যালেঞ্জের জবাবে এক নিক্ষেপ"
+        },
+        "p": [
+          {
+            "en": "Fa-alqa 'asahu fa-idha hiya thu'banun mubin: so he threw his staff, and there it was, a serpent, plain to see. The throw answers a dare. In 26:29 Pharaoh has threatened to put Musa (AS) among the imprisoned if he takes any god but him. In 26:30 Musa asks, even if I bring you something plain? In 26:31 Pharaoh answers, bring it, then, if you are among the truthful. At-Tabari, on that verse, gives Pharaoh's meaning in full: bring the plain thing that proves what you say, and we will not imprison you then. Al-Baghawi words the promise the same way.",
+            "bn": "ফা-আলকা আসাহু ফা-ইযা হিয়া সু'বানুম মুবীন: তখন তিনি তাঁর লাঠি ফেলে দিলেন, আর সঙ্গে সঙ্গে তা হয়ে গেল চোখের সামনে স্পষ্ট এক অজগর। এই নিক্ষেপ এক চ্যালেঞ্জের জবাব। ২৬:২৯ আয়াতে ফেরাউন হুমকি দিয়েছে, মূসা (আঃ) তাকে ছাড়া অন্য কাউকে ইলাহ মানলে তাঁকে কয়েদিদের দলে ভরবে। ২৬:৩০ আয়াতে মূসা জানতে চান, স্পষ্ট কিছু নিয়ে এলেও কি? ২৬:৩১ আয়াতে ফেরাউনের উত্তর: তাহলে আনো, যদি তুমি সত্যবাদী হও। ওই আয়াতে তাবারী ফেরাউনের পুরো বক্তব্য খুলে বলেন: তোমার কথার সত্যতা প্রমাণ করে এমন স্পষ্ট জিনিসটা আনো, তাহলে আমরা আর তোমাকে কারাগারে পাঠাব না। বাগাভীও প্রতিশ্রুতিটা একই ভাষায় বলেন।"
+          },
+          {
+            "en": "Al-Qurtubi, on the two verses before ours, reads the exchange from both sides. Musa (AS), he says, was not shaken by the threat, because of what he held from Allah's command, and he spoke to Pharaoh gently, hoping that he would believe. His offer of a plain thing was meant, in al-Qurtubi's words, to make his truthfulness clear to him. Pharaoh, hearing it, hoped to find somewhere in it a point he could contest, and so he said, bring it. Each man expected the sign to serve his own side. Our verse is the moment it arrived.",
+            "bn": "আমাদের আয়াতের আগের দুই আয়াতে কুরতুবী কথোপকথনটা দুই দিক থেকেই পড়েন। তাঁর ভাষায়, আল্লাহর আদেশ থেকে মূসা (আঃ)-এর কাছে যা ছিল, তার কারণে ফেরাউনের হুমকি তাঁকে টলাতে পারেনি। তিনি নরম সুরে কথা বলেছেন, ফেরাউন ঈমান আনবে সেই আশায়। কুরতুবী বলেন, স্পষ্ট জিনিস আনার প্রস্তাবের উদ্দেশ্য ছিল যেন ফেরাউনের কাছে তাঁর সত্যবাদিতা পরিষ্কার হয়ে যায়। ফেরাউন কথাটা শুনে আশা করল, এর ভেতরে কোথাও আপত্তি তোলার মতো একটা জায়গা পেয়ে যাবে। তাই সে বলল, আনো। দুজনেই ভেবেছিল নিদর্শনটা তার পক্ষে যাবে। আমাদের আয়াত সেই নিদর্শন হাজির হওয়ার মুহূর্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Six Words Heard Twice",
+          "bn": "দুবার শোনা ছয় শব্দ"
+        },
+        "p": [
+          {
+            "en": "The verse is six words in Arabic, and all six are heard again elsewhere. Surat al-A'raf tells the same scene in the same six words at 7:107, and al-Qurtubi, reaching our verse, says only that its explanation has already come in al-A'raf. The joining letters carry the pace. Fa-alqa, so he threw, follows Pharaoh's bring it with no word between, and fa-idha, and there it was, is the construction Arabic uses for what appears all at once. There is no stage in the verse where the staff is becoming something. It is a staff, and then it is a serpent.",
+            "bn": "আরবিতে আয়াতটি ছয় শব্দের, আর এই ছয়টি শব্দই অন্যত্র আবার শোনা যায়। সূরা আরাফের ৭:১০৭ আয়াতে একই দৃশ্য ঠিক এই ছয় শব্দেই এসেছে। কুরতুবী আমাদের আয়াতে পৌঁছে শুধু এটুকু বলেন যে এর ব্যাখ্যা আরাফে আগেই দেওয়া হয়েছে। গতিটা ধরে রাখে সংযোগের অক্ষরগুলো। ফেরাউন বলল আনো, আর মাঝে কোনো শব্দ ছাড়াই এল ফা-আলকা, তখন তিনি ফেলে দিলেন। তারপর ফা-ইযা, আর অমনি, যে গঠন আরবি ব্যবহার করে হঠাৎ সামনে এসে পড়া কিছুর জন্য। লাঠিটা ধীরে ধীরে কিছু একটা হয়ে উঠছে, আয়াতে এমন কোনো ধাপ নেই। এই ছিল লাঠি, পরক্ষণেই অজগর।"
+          },
+          {
+            "en": "The same staff is thrown once more in this surah, and the Qur'an uses the same frame for it. In 26:45, after the sorcerers have cast their ropes and staffs, fa-alqa Musa 'asahu fa-idha hiya talqafu ma ya'fikun: then Musa threw his staff, and there it was, swallowing what they had faked. The two verses mirror each other, with the same verb, the same staff and the same sudden fa-idha hiya. Here the sign stands alone before Pharaoh and his chiefs; there it meets the sorcerers' work and undoes it. The first throw makes the claim plain, and the second tests it against its rivals.",
+            "bn": "এই সূরাতেই একই লাঠি আরেকবার ফেলা হয়, আর কুরআন সেখানেও একই কাঠামো ব্যবহার করে। ২৬:৪৫ আয়াতে, যাদুকরেরা তাদের দড়ি আর লাঠি ফেলার পর: ফা-আলকা মূসা আসাহু ফা-ইযা হিয়া তালকাফু মা ইয়া'ফিকূন, তখন মূসা তাঁর লাঠি ফেললেন, আর অমনি তা গিলে ফেলতে লাগল তাদের সাজানো মিথ্যা। দুই আয়াত যেন একে অপরের প্রতিবিম্ব। একই ক্রিয়া, একই লাঠি, একই আচমকা ফা-ইযা হিয়া। এখানে নিদর্শনটা একা দাঁড়িয়ে ফেরাউন আর তার সভাসদদের সামনে। সেখানে তা যাদুকরদের কারসাজির মুখোমুখি হয়ে সেটাকে নস্যাৎ করে। প্রথম নিক্ষেপ দাবিটা স্পষ্ট করে দেয়, দ্বিতীয়টি প্রতিদ্বন্দ্বীদের সামনে সেই দাবির পরীক্ষা নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Male of Serpents",
+          "bn": "পুরুষ জাতের সাপ"
+        },
+        "p": [
+          {
+            "en": "Thu'ban, the word for the serpent, is glossed by two of the fetched commentaries in the same phrase. At-Tabari says the staff turned into a thu'ban, which is the male snake, adding that he has already explained its description earlier in his work. As-Sa'di says the same: the thu'ban is the male of snakes. Neither stops over the word longer than that. At 20:20 the same sign is called a hayya, a snake, and at 27:10 and 28:31 it is said to move as if it were a jann. How the commentators bring the three names together is set out on the page for 20:20 and is not retold here.",
+            "bn": "সু'বান, অর্থাৎ অজগর শব্দটির ব্যাখ্যা সংগৃহীত দুটি তাফসীরে একই কথায় এসেছে। তাবারী বলেন, লাঠিটা সু'বানে পরিণত হলো, আর সু'বান হলো পুরুষ সাপ। সঙ্গে জানান, এর বর্ণনা তিনি তাঁর গ্রন্থে আগেই দিয়েছেন। সা'দীও একই কথা বলেন: সু'বান সাপদের মধ্যে পুরুষটি। শব্দটির উপর এর বেশি কেউ থামেন না। ২০:২০ আয়াতে একই নিদর্শনকে বলা হয়েছে হাইয়া, সাপ। আর ২৭:১০ ও ২৮:৩১ আয়াতে বলা হয়েছে, তা এমনভাবে নড়ছিল যেন এক জান্ন। এই তিনটি নাম তাফসীরকারেরা কীভাবে মিলিয়েছেন, তা ২০:২০ আয়াতের পাতায় আছে। এখানে আর পুনরাবৃত্তি করা হলো না।"
+          },
+          {
+            "en": "Ibn Kathir describes what the court saw. It was, he says, at the height of plainness, clarity and greatness, with legs and a large mouth, a dreadful and alarming shape; his English abridgement renders it a huge body with a big mouth, terrifying in appearance. That is his picture, and the text fetched gives no source for it. The verse itself gives no size, no mouth and no colour. It says only what the thing was and that it was plain, and the rest of the scene, as the Qur'an tells it, rests on those two words alone.",
+            "bn": "দরবার কী দেখেছিল, ইবন কাসীর তার একটা বর্ণনা দেন। তাঁর ভাষায়, তা ছিল স্পষ্টতা, প্রকাশ্যতা আর বিশালতার চূড়ান্ত সীমায়, পা-ওয়ালা, বড় মুখ, ভয়ংকর আর আতঙ্ক জাগানো আকৃতির। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণেও আছে বিশাল দেহ, বড় মুখ আর দেখতে ভয়ংকর। ছবিটা তাঁর আঁকা, আর সংগৃহীত লেখায় এর কোনো সূত্র নেই। আয়াত নিজে কোনো আকার, মুখ বা রঙের কথা বলে না। আয়াত শুধু বলে জিনিসটা কী ছিল আর তা ছিল স্পষ্ট। কুরআনের বর্ণনায় দৃশ্যের বাকি সবটা দাঁড়িয়ে আছে কেবল এই দুটি শব্দের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Plain to Whom, and How",
+          "bn": "কার কাছে স্পষ্ট, কীভাবে"
+        },
+        "p": [
+          {
+            "en": "Mubin is the word the commentators work hardest on, and they read it from different sides. At-Tabari ties it to the audience: it made plain to Pharaoh and the chiefs of his people that it was a serpent. As-Sa'di widens the circle: plain to everyone, to each person who looked. Ibn Kathir places the plainness in the thing itself: evident and clear, at the furthest reach of clarity. The three are not in dispute. They describe one fact from three positions: the sign was clear in itself, it was clear to the court, and it would have been clear to anyone who stood in that hall.",
+            "bn": "মুবীন শব্দটি নিয়েই তাফসীরকারেরা সবচেয়ে বেশি কথা বলেন, আর একেকজন একেক দিক থেকে পড়েন। তাবারী একে শ্রোতাদের সঙ্গে জুড়ে দেন: ফেরাউন আর তার কওমের প্রধানদের কাছে তা স্পষ্ট করে দিল যে এটা অজগর। সা'দী বৃত্তটা বড় করেন: প্রত্যেকের কাছে স্পষ্ট, যে-ই তাকিয়েছে তার কাছেই। ইবন কাসীর স্পষ্টতাকে রাখেন জিনিসটার নিজের ভেতরে: প্রকাশ্য, পরিষ্কার, স্বচ্ছতার শেষ সীমায়। তিনজনের মধ্যে কোনো বিরোধ নেই। একই সত্যকে তাঁরা দেখছেন তিন জায়গা থেকে। নিদর্শনটা নিজে স্পষ্ট ছিল, দরবারের কাছে স্পষ্ট ছিল, আর সেই সভায় যে-ই দাঁড়াত তার কাছেও স্পষ্ট হতো।"
+          },
+          {
+            "en": "At-Tabari notes that the people of interpretation said much the same as he did, and gives one report as his example, with a chain through Shahr ibn Hawshab to Ibn Abbas (RA): mubin, it had the very make of a snake. The point of that reading is that nothing about the serpent was partial. It did not look like a snake from one angle and a stick from another; its whole form, its khalq, was a snake's. These are a Companion's words carried in a tafsir chain, not a saying of the Prophet ﷺ, and at-Tabari does not grade them in the text fetched.",
+            "bn": "তাবারী জানান, তাফসীরের আলিমরাও মোটামুটি তাঁর মতোই বলেছেন। উদাহরণ হিসেবে তিনি একটি বর্ণনা আনেন, শাহর ইবন হাওশাবের মাধ্যমে ইবন আব্বাস (রাঃ) পর্যন্ত সনদসহ: মুবীন, অর্থাৎ তার গড়নটাই ছিল সাপের। এই পাঠের কথা হলো, অজগরটার কোনো কিছুই আধাআধি ছিল না। এক দিক থেকে সাপ আর অন্য দিক থেকে লাঠি মনে হয়, এমন নয়। তার পুরো আকৃতি, তার খালক, ছিল সাপেরই। এগুলো তাফসীরের সনদে আসা একজন সাহাবীর কথা, নবী ﷺ-এর বাণী নয়। আর সংগৃহীত লেখায় তাবারী এর কোনো মান নির্ধারণ করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Illusion, No Likeness",
+          "bn": "কল্পনা নয়, সাদৃশ্যও নয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di ends his gloss with two negations: la khayal wa-la tashbih, no illusion and no likeness. The serpent was not an image in the viewer's mind, and it was not a thing made to look like a serpent. Al-Muyassar makes the same point by naming the contrast outright: the staff turned into a real serpent, thu'banan haqiqiyyan, not a deception, tamwih, of the kind sorcerers practise. Both commentators read mubin as an answer given in advance. Before any sorcerer has entered the story, the verse has already said what kind of thing the sign is.",
+            "bn": "সা'দী তাঁর ব্যাখ্যা শেষ করেন দুটি না দিয়ে: লা খায়াল ওয়ালা তাশবীহ, কল্পনাও নয়, সাদৃশ্যও নয়। অজগরটা দর্শকের মনের কোনো ছবি ছিল না। আবার অজগরের মতো দেখতে বানানো কোনো জিনিসও ছিল না। মুয়াসসার একই কথা বলেন বৈপরীত্যটা সরাসরি নাম ধরে: লাঠিটা হয়ে গেল সত্যিকারের অজগর, সু'বানান হাকীকিয়্যান, যাদুকরেরা যে ধোঁকা বা তামবীহ দেখায় তেমন কিছু নয়। দুজনেই মুবীন শব্দকে পড়েন আগাম দেওয়া এক জবাব হিসেবে। কাহিনিতে কোনো যাদুকর ঢোকার আগেই আয়াত বলে দিয়েছে নিদর্শনটা কোন জাতের জিনিস।"
+          },
+          {
+            "en": "The surah's own sequel shows why that matters. In 26:44 the sorcerers throw their ropes and staffs and swear by Pharaoh's might. Al-A'raf says of the same moment that they bewitched the people's eyes (7:116), and Ta-Ha that it seemed to Musa (AS), from their magic, that the ropes were moving (20:66). Their work lived in the eye and the mind; the staff's change did not. That difference is the whole contest that follows, and the word mubin has settled it one scene early, at the very moment Pharaoh was hoping to find something to dispute.",
+            "bn": "কেন কথাটা জরুরি, সূরার পরের অংশই তা দেখায়। ২৬:৪৪ আয়াতে যাদুকরেরা তাদের দড়ি আর লাঠি ফেলে, আর ফেরাউনের ইজ্জতের কসম খায়। একই মুহূর্ত সম্পর্কে সূরা আরাফ বলে, তারা মানুষের চোখে যাদু করেছিল (৭:১১৬)। আর সূরা ত্বা-হা বলে, তাদের যাদুর ফলে মূসা (আঃ)-এর মনে হচ্ছিল দড়িগুলো নড়ছে (২০:৬৬)। তাদের কারসাজির বাস ছিল চোখে আর মনে। লাঠির রূপান্তর তেমন ছিল না। পরের গোটা প্রতিযোগিতা এই পার্থক্যকে ঘিরেই। আর মুবীন শব্দটি এক দৃশ্য আগেই তার মীমাংসা করে রেখেছে, ঠিক যখন ফেরাউন আপত্তি তোলার মতো কিছু খুঁজছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Promised Plain, Delivered Plain",
+          "bn": "যে স্পষ্টের কথা, সেটাই হাজির"
+        },
+        "p": [
+          {
+            "en": "The word mubin did not first appear in this verse. Two verses earlier Musa (AS) offered Pharaoh bi-shay'in mubin, something plain, and Ibn Kathir explains it there as clear and definitive proof. Pharaoh asked for that plain thing, and our verse delivers it under the same word: a serpent, mubin. The promise and its fulfilment share a single adjective. The surah opened with it as well, tilka ayat al-kitab al-mubin, these are the verses of the plain Book (26:2), so the sign shown in Pharaoh's court is described with the word the surah uses for itself.",
+            "bn": "মুবীন শব্দটি এই আয়াতে প্রথম আসেনি। দুই আয়াত আগে মূসা (আঃ) ফেরাউনকে প্রস্তাব দিয়েছিলেন বিশাইয়িম মুবীন, স্পষ্ট কিছু আনার। ইবন কাসীর সেখানে এর ব্যাখ্যা দেন পরিষ্কার ও চূড়ান্ত প্রমাণ বলে। ফেরাউন সেই স্পষ্ট জিনিসটাই চেয়েছিল। আমাদের আয়াত তা হাজির করে ওই একই শব্দে: অজগর, মুবীন। প্রতিশ্রুতি আর তার পূরণ, দুটোর বিশেষণ একটাই। সূরাটির শুরুও এই শব্দে: তিলকা আয়াতুল কিতাবিল মুবীন, এগুলো সুস্পষ্ট কিতাবের আয়াত (২৬:২)। তাই ফেরাউনের দরবারে দেখানো নিদর্শনের বর্ণনায় এসেছে সেই শব্দ, যা দিয়ে সূরা নিজের পরিচয় দেয়।"
+          },
+          {
+            "en": "Ibn Kathir names the turn in this exchange: once the proof had been established against Pharaoh clearly and rationally, he resorted to force, thinking there would be no further room for discussion. The threat of prison was that resort. What Musa (AS) set against it was not force of his own. He did not answer prison with a counter-threat, and in al-Qurtubi's reading he spoke gently and in hope. He answered with something everyone could see. The verse shows a messenger meeting coercion with evidence, and then leaving the evidence to speak.",
+            "bn": "এই কথোপকথনের মোড়টা ইবন কাসীর চিহ্নিত করেন। পরিষ্কার যুক্তিতে ফেরাউনের বিরুদ্ধে প্রমাণ দাঁড়িয়ে যাওয়ার পর সে শক্তির আশ্রয় নিল। তার ধারণা ছিল, এরপর আর আলোচনার জায়গা থাকবে না। কারাগারের হুমকি ছিল সেই শক্তির আশ্রয়। মূসা (আঃ) এর জবাবে নিজের কোনো শক্তি দেখাননি। জেলের হুমকির জবাবে পাল্টা হুমকি দেননি। কুরতুবীর পাঠে তিনি কথা বলেছেন নরমভাবে, আশা নিয়ে। তাঁর জবাব ছিল এমন কিছু, যা সবাই দেখতে পায়। আয়াতটি দেখায়, একজন রসূল জবরদস্তির মোকাবিলা করছেন প্রমাণ দিয়ে, তারপর প্রমাণকেই কথা বলতে দিচ্ছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports Left at the Edge",
+          "bn": "কিনারায় রাখা বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi, under our verse, adds a single line: he said, and is there anything besides it? The speaker is left implicit, and the question leads into 26:33, where Musa (AS) draws out his hand and it is white for those who watch; that verse has its own place. Some commentators carry longer stories. At-Tabari, under 26:33, relays a report from al-Minhal about the serpent's height and Pharaoh's terror, and al-Qurtubi, under 26:29, records with the words it is related a report about how badly Pharaoh feared Musa (AS). Neither is a saying of the Prophet ﷺ, the Qur'an gives none of their details, and this article builds nothing on them.",
+            "bn": "আমাদের আয়াতে বাগাভী শুধু এক লাইন যোগ করেন: সে বলল, এ ছাড়া আর কিছু আছে কি? কে বলল তা উহ্য রাখা হয়েছে। প্রশ্নটা নিয়ে যায় ২৬:৩৩ আয়াতে, যেখানে মূসা (আঃ) হাত বের করেন আর দর্শকদের সামনে তা সাদা ঝলমলে হয়ে ওঠে। সে আয়াতের আলোচনা তার নিজের জায়গায়। কোনো কোনো তাফসীরকার আরও লম্বা কাহিনি আনেন। তাবারী ২৬:৩৩ আয়াতের অধীনে মিনহালের একটি বর্ণনা আনেন অজগরের উচ্চতা আর ফেরাউনের আতঙ্ক নিয়ে। কুরতুবী ২৬:২৯ আয়াতে 'বর্ণিত আছে' বলে উল্লেখ করেন ফেরাউন মূসা (আঃ)-কে কতটা ভয় পেত সে বিষয়ে একটি বর্ণনা। কোনোটিই নবী ﷺ-এর বাণী নয়, কুরআন এদের কোনো খুঁটিনাটি বলে না, আর এই লেখা এগুলোর উপর কিছুই দাঁড় করায় না।"
+          },
+          {
+            "en": "No fetched tafsir attaches a hadith of the Prophet ﷺ to this verse. One narration bears on its theme without being tied to it. Al-Bukhari records in his Sahih, from Abu Hurayra (RA), that the Prophet ﷺ said: \"Every Prophet was given miracles because of which people believed, but what I have been given, is Divine Inspiration which Allah has revealed to me. So I hope that my followers will outnumber the followers of the other Prophets on the Day of Resurrection.\" (Bukhari 4981) The staff that became a serpent was a sign of the first kind, given for its hour.",
+            "bn": "সংগৃহীত কোনো তাফসীর এই আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস জুড়ে দেয়নি। একটি বর্ণনা আয়াতের বিষয়ের সঙ্গে মেলে, যদিও আয়াতের সঙ্গে তা বাঁধা নয়। বুখারী তাঁর সহীহ গ্রন্থে আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: \"নবীদের মধ্যে এমন কোনো নবী নেই, যাঁকে এমন কিছু দেওয়া হয়নি যা দেখে মানুষ ঈমান এনেছে। আর আমাকে যা দেওয়া হয়েছে তা হলো ওহী, যা আল্লাহ আমার প্রতি নাযিল করেছেন। তাই আমি আশা করি, কিয়ামতের দিন অনুসারীর সংখ্যায় আমিই তাঁদের সবার চেয়ে এগিয়ে থাকব।\" (বুখারী 4981) যে লাঠি অজগর হয়ে গেল, তা ছিল প্রথম ধরনের নিদর্শন, নিজের সময়ের জন্য দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Plain Is Refused",
+          "bn": "স্পষ্টকে যখন ফিরিয়ে দেওয়া হয়"
+        },
+        "p": [
+          {
+            "en": "What the plainness did not do is told next. Ibn Kathir, on 26:33, says that Pharaoh, in his wretchedness, hastened to denial and stubbornness, and in 26:34 he tells his chiefs that this is a learned sorcerer; that verse has its own page. The sign was mubin to everyone in the hall, and the man who had demanded it did not follow it. The verse never claims that what is plain will be accepted. It claims only that what was shown was real and could be seen, and it leaves the response to those who saw it.",
+            "bn": "স্পষ্টতা যা করতে পারেনি, পরের আয়াতগুলো তা বলে। ২৬:৩৩ আয়াতে ইবন কাসীর বলেন, ফেরাউন তার দুর্ভাগ্যের কারণে তাড়াহুড়ো করে অস্বীকার আর হঠকারিতার পথ ধরল। ২৬:৩৪ আয়াতে সে তার প্রধানদের বলে, এ তো এক দক্ষ যাদুকর। সে আয়াতের আলাদা পাতা আছে। সভার প্রত্যেকের কাছে নিদর্শনটা ছিল মুবীন। তবু যে লোকটা নিজেই তা দাবি করেছিল, সে তা মানল না। আয়াত কোথাও দাবি করে না যে স্পষ্ট জিনিস মানুষ মেনে নেবেই। তার দাবি শুধু এটুকু: যা দেখানো হয়েছিল তা ছিল সত্যি, চোখে দেখার মতো। সাড়া দেওয়ার ভার রইল যারা দেখেছে তাদের উপর।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes one ruler, in one court, refusing one sign, and it describes only what the text describes. It licenses nothing against any living person or community. It gives no one the right to name a present-day ruler or people as Pharaoh, or to treat those who do not accept an argument as his court. The Qur'an records the scene so that its readers can see themselves in it, and the person each reader is best placed to examine is himself, not a neighbour.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে একটি দরবারে একজন শাসকের একটি নিদর্শন প্রত্যাখ্যানের কথা। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো শাসক বা কোনো জাতিকে ফেরাউন আখ্যা দেওয়ার অধিকার এ আয়াত কাউকে দেয় না। কেউ কোনো যুক্তি না মানলে তাকে ফেরাউনের দরবারের লোক ভাবার অধিকারও দেয় না। কুরআন দৃশ্যটি লিখে রেখেছে যেন পাঠক এতে নিজেকে দেখতে পান। আর প্রত্যেক পাঠক সবচেয়ে ভালো যাচাই করতে পারেন নিজেকেই, প্রতিবেশীকে নয়।"
+          },
+          {
+            "en": "Two things remain for the reader. The first is the way Musa (AS) answered. When he was threatened, he offered evidence and spoke gently, and when he was told to bring it, he brought it without boast or delay. The second is the warning in what followed. A sign can be plain to every eye and still be refused by the very person who asked for it. The question the verse leaves is not whether the truth has been shown clearly enough. It is whether I, when it has been, am willing to look.",
+            "bn": "পাঠকের জন্য দুটি কথা থেকে যায়। প্রথমটি মূসা (আঃ)-এর জবাব দেওয়ার ধরন। হুমকির মুখে তিনি প্রমাণ দিতে চেয়েছেন, কথা বলেছেন নরমভাবে। আর যখন বলা হলো আনো, তিনি কোনো বড়াই বা দেরি ছাড়াই তা এনেছেন। দ্বিতীয়টি পরের ঘটনার সতর্কবার্তা। নিদর্শন প্রত্যেক চোখের কাছে স্পষ্ট হয়েও ফিরিয়ে দেওয়া হতে পারে, এমনকি তার হাতে, যে নিজেই তা চেয়েছিল। আয়াত যে প্রশ্ন রেখে যায়, তা এই নয় যে সত্য যথেষ্ট স্পষ্ট করে দেখানো হয়েছে কি না। প্রশ্নটা হলো, দেখানো হয়ে গেলে আমি কি তাকাতে রাজি?"
+          }
+        ]
+      }
+    ]
+  },
   "26:34": {
     "sections": [
       {

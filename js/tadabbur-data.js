@@ -35319,6 +35319,24 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not let anyone's past, or your own, decide whether a truth is true, and never use a person's worst day to silence what he brings.",
     "lessonBn": "কারও অতীত, এমনকি নিজের অতীতও, যেন ঠিক করে না দেয় কোনো সত্য সত্য কি না। আর কারও জীবনের সবচেয়ে খারাপ দিনটা টেনে এনে তার আনা কথাকে চুপ করিয়ে দেবেন না।"
+  },
+  "26:32": {
+    "reflectionEn": "Pharaoh has just threatened prison. Musa (AS) does not threaten back. He asks only whether a plain proof would change anything, and when Pharaoh says bring it, he throws his staff, and in an instant it is a serpent. The verse adds one more word: mubin, plain to see. Nothing about it needs the viewer's imagination or a trick played on the eyes; everyone in the hall can see what it is. Yet the next verses show that plain is not the same as accepted. The sign settled the question; it did not settle the hearts. So the verse turns to me. When the truth is plain in front of me, what do I reach for: the evidence, or a reason not to look?",
+    "reflectionBn": "ফেরাউন এইমাত্র জেলের হুমকি দিয়েছে। মূসা (আঃ) পাল্টা হুমকি দেন না। শুধু জানতে চান, স্পষ্ট কোনো প্রমাণ আনলেও কি সে একই কথা বলবে? ফেরাউন বলে, তাহলে আনো। তিনি লাঠি ফেলে দেন, আর মুহূর্তেই তা অজগর। আয়াত আরেকটি শব্দ জুড়ে দেয়: মুবীন, চোখের সামনে স্পষ্ট। এতে দর্শকের কল্পনা লাগে না, চোখের ভেলকিও লাগে না। দরবারের সবাই দেখতে পায় জিনিসটা কী। তবু পরের আয়াতগুলো দেখায়, স্পষ্ট হওয়া আর মেনে নেওয়া এক কথা নয়। নিদর্শনে প্রশ্নের মীমাংসা হয়েছে, অন্তরের হয়নি। তাই আয়াত আমার দিকে ফেরে। সত্য যখন আমার চোখের সামনে স্পষ্ট, তখন আমি কী আঁকড়ে ধরি: প্রমাণ, নাকি না দেখার কোনো অজুহাত?",
+    "pointsEn": [
+      "When someone threatens or mocks me over what I hold true, do I answer with calm proof, or with threats of my own?",
+      "Is there a truth already plain to me that I keep asking to see again, as if one more sign would make the difference?",
+      "Do I expect evidence alone to convince the people I speak to, and how do I treat them when it does not?",
+      "Where do I let an impression that frightens or flatters me outweigh a reality I can plainly see?"
+    ],
+    "pointsBn": [
+      "আমি যা সত্য বলে জানি, তা নিয়ে কেউ হুমকি দিলে বা ঠাট্টা করলে আমি কি শান্তভাবে প্রমাণ দিয়ে জবাব দিই, নাকি পাল্টা হুমকি দিই?",
+      "এমন কোনো সত্য কি আছে, যা আমার কাছে আগেই স্পষ্ট, তবু বারবার আরেকবার দেখতে চাই, যেন আর একটা নিদর্শন এলেই সব বদলে যাবে?",
+      "আমি কি আশা করি শুধু প্রমাণ দেখেই মানুষ মেনে নেবে? আর না মানলে তাদের সঙ্গে আমার আচরণ কেমন হয়?",
+      "যে ধারণা আমাকে ভয় দেখায় বা তোষামোদ করে, তাকে কোথায় আমি চোখের সামনের স্পষ্ট বাস্তবের চেয়ে বেশি গুরুত্ব দিই?"
+    ],
+    "lessonEn": "Answer threats against the truth with plain evidence, not force; and when the truth is plain before you, do not wait for one more sign before you accept it.",
+    "lessonBn": "সত্যের বিরুদ্ধে হুমকির জবাব দিন স্পষ্ট প্রমাণ দিয়ে, শক্তি দিয়ে নয়; আর সত্য যখন আপনার সামনে স্পষ্ট, তা মেনে নিতে আরেকটি নিদর্শনের অপেক্ষায় থাকবেন না।"
   }
 };
 
