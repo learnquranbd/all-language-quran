@@ -3227,6 +3227,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:62": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words After a Warning",
+          "bn": "সতর্কবাণীর পরে পাঁচ শব্দ"
+        },
+        "p": [
+          {
+            "en": "Fa-tanaza'u amrahum baynahum wa-asarru n-najwa: so they disputed their affair among themselves and kept their private talk secret. Five Arabic words, and the fa at their head ties them to what came just before. In 20:61 Musa (AS) faced the sorcerers Pharaoh had summoned and warned them: woe to you, do not invent a lie against Allah, or He will destroy you with a punishment, and whoever invents a lie has failed. This verse records what the warning did. It gives no reply to Musa. It gives a quarrel.",
+            "bn": "ফাতানাযাউ আমরাহুম বাইনাহুম ওয়া আসাররুন নাজওয়া: তখন তারা নিজেদের মধ্যে নিজেদের ব্যাপার নিয়ে বিবাদ করল, আর গোপন আলাপ গোপনেই রাখল। আরবিতে মাত্র পাঁচ শব্দ। শুরুর ফা অক্ষরটি এগুলোকে ঠিক আগের কথার সঙ্গে বেঁধে দেয়। ২০:৬১ আয়াতে ফেরাউনের ডেকে আনা যাদুকরদের সামনে দাঁড়িয়ে মূসা (আঃ) সতর্ক করেছিলেন: তোমাদের সর্বনাশ হোক, আল্লাহর নামে মিথ্যা রটিয়ো না, তাহলে তিনি শাস্তি দিয়ে তোমাদের নির্মূল করবেন, আর যে মিথ্যা রটায় সে ব্যর্থ হয়। সেই সতর্কবাণী কী ঘটাল, এ আয়াত তা-ই জানায়। মূসার কথার কোনো জবাব এখানে নেই, আছে একটা বিবাদ।"
+          },
+          {
+            "en": "Who are 'they'? Al-Qurtubi says plainly that the sorcerers are meant, and at-Tabari opens with the same words: the sorcerers disputed their affair among themselves. Al-Baghawi and the Muyassar agree. The scene around them belongs to the verses before and is not retold here; at-Tabari, through a report of Wahb ibn Munabbih, places Pharaoh in his seat among the nobles of his kingdom, with the people gathered round him. Inside that crowd, the verse turns to a small knot of men with their heads together.",
+            "bn": "'তারা' কারা? কুরতুবী সোজাসুজি বলেন, এখানে যাদুকরদের কথা বলা হচ্ছে। তাবারীও শুরু করেন একই কথায়: যাদুকরেরা নিজেদের ব্যাপার নিয়ে নিজেদের মধ্যে বিবাদ করল। বাগাভী ও মুয়াসসারও তা-ই বলেন। চারপাশের দৃশ্যটা আগের আয়াতগুলোর, এখানে তার পুনরাবৃত্তি হবে না। তাবারী ওয়াহব ইবন মুনাব্বিহের এক বর্ণনার সূত্রে জানান, ফেরাউন বসে ছিল নিজের আসনে, রাজ্যের অভিজাতরা ছিল তার সঙ্গে, আর লোকজন তাকে ঘিরে জড়ো হয়েছিল। সেই ভিড়ের মাঝখানে আয়াতটি নজর দেয় ছোট্ট এক দলের দিকে, যারা মাথা জড়ো করে কথা বলছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Consulting, or Pulling Apart",
+          "bn": "পরামর্শ, নাকি টানাটানি"
+        },
+        "p": [
+          {
+            "en": "What kind of dispute was it? The commentators give the verb two shades. Al-Qurtubi glosses tanaza'u with a single word, tashawaru: they consulted one another. Al-Baghawi pairs two, tanazaru wa-tashawaru: they debated and consulted. On these readings the sorcerers are a council weighing a hard case. Ibn Kathir uses a sharper verb, tashajaru, they quarrelled, and the Muyassar a vivid one, tajadhaba: the sorcerers pulled their affair back and forth between them, as if each side were tugging it towards itself.",
+            "bn": "বিবাদটা কেমন ছিল? তাফসীরকারেরা ক্রিয়াটির দুটি রং দেখান। কুরতুবী তানাযাউ-র অর্থ দেন এক শব্দে, তাশাওয়ারু: তারা পরস্পর পরামর্শ করল। বাগাভী জোড়া দেন দুটি শব্দ, তানাযারু ওয়া তাশাওয়ারু: তারা যুক্তিতর্ক করল আর পরামর্শ করল। এই পাঠে যাদুকরেরা যেন একটা কঠিন মামলা ওজন করতে বসা পরিষদ। ইবন কাসীর আনেন আরও কড়া ক্রিয়া, তাশাজারু: তারা ঝগড়া করল। মুয়াসসারের শব্দটা আরও জীবন্ত, তাজাযাবা: যাদুকরেরা নিজেদের ব্যাপারটা নিয়ে টানাটানি করল, যেন প্রতিটি পক্ষ সেটাকে নিজের দিকে টেনে নিতে চাইছে।"
+          },
+          {
+            "en": "The two shades need not exclude each other, and none of the commentators sets one against the other. A consultation turns into a quarrel when the men in it no longer see the same thing. As-Sa'di explains how this one began. The word of truth, he writes, must leave its mark on hearts, so it is no wonder that argument and dispute broke out among the sorcerers when they heard what Musa (AS) said, and that they were thrown into confusion. On his reading the warning of 20:61 did its work before a single rope was thrown.",
+            "bn": "দুটি অর্থ একে অপরকে বাদ দেয় না, আর তাফসীরকারদের কেউ একটিকে অন্যটির বিপরীতে দাঁড় করাননি। পরামর্শসভায় বসা লোকেরা যখন আর একই জিনিস দেখে না, তখন পরামর্শই ঝগড়ায় গড়ায়। এখানে ঝগড়াটা কীভাবে শুরু হলো, সা'দী তা বুঝিয়ে বলেন। তাঁর কথায়, সত্যের বাণী হৃদয়ে দাগ কাটবেই। তাই মূসা (আঃ)-এর কথা শুনে যাদুকরদের মধ্যে তর্ক আর বিবাদ বেধে গেল, তারা দিশেহারা হয়ে পড়ল, এতে অবাক হওয়ার কিছু নেই। তাঁর পাঠে ২০:৬১ আয়াতের সতর্কবাণী নিজের কাজ সেরে ফেলেছিল একটা রশি ছোড়ার আগেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Sorcerer's Speech",
+          "bn": "যাদুকরের মুখের কথা নয়"
+        },
+        "p": [
+          {
+            "en": "What did the quarrel turn on? One report given for it comes from Wahb ibn Munabbih, through Ibn Ishaq, who says it reached him at second hand. At-Tabari relays it: when Musa (AS) said to the sorcerers, woe to you, do not invent a lie against Allah, they went back and forth among themselves, and some said to others, this is not the speech of a sorcerer. Al-Baghawi gives the same sentence under the name of Muhammad ibn Ishaq. Both place it in the dispute, the first half of the verse.",
+            "bn": "ঝগড়াটা কী নিয়ে? এ বিষয়ে একটি বর্ণনা ওয়াহব ইবন মুনাব্বিহের, ইবন ইসহাকের সূত্রে। ইবন ইসহাক জানান, কথাটা তাঁর কাছে পৌঁছেছে অন্যের মুখে শুনে। তাবারী বর্ণনাটি আনেন এভাবে: মূসা (আঃ) যখন যাদুকরদের বললেন, তোমাদের সর্বনাশ হোক, আল্লাহর নামে মিথ্যা রটিয়ো না, তখন তারা নিজেদের মধ্যে কথা চালাচালি করল। কেউ কেউ অন্যদের বলল, এ তো যাদুকরের কথা নয়। বাগাভী একই বাক্য আনেন মুহাম্মাদ ইবন ইসহাকের নামে। দুজনেই কথাটা রাখেন বিবাদের অংশে, অর্থাৎ আয়াতের প্রথম ভাগে।"
+          },
+          {
+            "en": "Al-Qurtubi gives the same sentence a different home. He lists it, under 'it is said', among the views of what they kept secret: when Musa told them not to invent a lie against Allah, their secret was that they said, this is not the speech of a sorcerer. The words are all but identical in the three books; what moves is their place in the verse. Spoken in the open quarrel, they are one voice among several. Kept as the secret, they are what the men could not say aloud.",
+            "bn": "কুরতুবী একই বাক্যকে বসান অন্য জায়গায়। 'বলা হয়' কথাটি দিয়ে তিনি এটাকে রাখেন তাদের গোপন কথা কী ছিল, সেই মতগুলোর মধ্যে। মূসা যখন তাদের আল্লাহর নামে মিথ্যা রটাতে নিষেধ করলেন, তখন তাদের গোপন কথা ছিল: এ তো যাদুকরের কথা নয়। তিনটি বইয়েই কথাগুলো প্রায় হুবহু এক, বদলায় শুধু আয়াতের ভেতরে তাদের জায়গা। খোলা ঝগড়ায় বলা হলে এটা অনেক কণ্ঠের একটি। আর গোপন কথা হলে এটা সেই কথা, যা লোকগুলো মুখ ফুটে বলতে পারেনি।"
+          },
+          {
+            "en": "Ibn Kathir sets both sides of the argument in one picture, under 'it has been said': one of them said, this is not the speech of a sorcerer, it is the speech of a prophet; and another said, no, he is a sorcerer. He adds that other things have been said, and closes with Allah knows best. As-Sa'di will not go further than a 'perhaps': perhaps part of their dispute was uncertainty about Musa, whether he was in the right or not. Neither claims to know more than the verse says.",
+            "bn": "ইবন কাসীর 'বলা হয়েছে' কথাটি দিয়ে তর্কের দুই পক্ষকে এক ছবিতে আনেন। তাদের একজন বলল, এটা যাদুকরের কথা নয়, এটা নবীর কথা। আরেকজন বলল, না, সে যাদুকরই। তিনি যোগ করেন, এ নিয়ে আরও কথা বলা হয়েছে, আর শেষ করেন 'আল্লাহই ভালো জানেন' বলে। সা'দী একটা 'হয়তো'-র বেশি এগোন না: হয়তো তাদের বিবাদের একটা অংশ ছিল মূসাকে নিয়ে সংশয়, তিনি সত্যের উপর আছেন কি নেই। আয়াত যতটুকু বলে, তার বেশি জানার দাবি তাঁদের কেউ করেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If It Comes From Heaven",
+          "bn": "যদি তা আসমান থেকে হয়"
+        },
+        "p": [
+          {
+            "en": "A second report gives the dispute the shape of two conditions. At-Tabari relays from Qatada that the sorcerers said among themselves: if this man is a sorcerer, we will overcome him, and if he is from heaven, then he has a matter of his own. Al-Qurtubi gives Qatada's words slightly differently: if what he has brought is sorcery, we will overcome it, and if it is from Allah, there will be a matter for him. At-Tabari files the report under the dispute; al-Qurtubi names it as the thing they kept secret.",
+            "bn": "দ্বিতীয় একটি বর্ণনা বিবাদটাকে দুটি শর্তের আকার দেয়। তাবারী কাতাদা থেকে আনেন, যাদুকরেরা নিজেদের মধ্যে বলল: লোকটা যদি যাদুকর হয়, আমরা তাকে হারিয়ে দেব। আর যদি সে আসমান থেকে এসে থাকে, তবে তার ব্যাপারটা আলাদা। কুরতুবী কাতাদার কথাটা আনেন সামান্য অন্য শব্দে: সে যা এনেছে তা যদি যাদু হয়, আমরা তা হারিয়ে দেব। আর যদি তা আল্লাহর কাছ থেকে হয়, তবে তার একটা ব্যাপার ঘটবেই। তাবারী বর্ণনাটি রাখেন বিবাদের অংশে, কুরতুবী একে বলেন তাদের গোপন কথা।"
+          },
+          {
+            "en": "At-Tabari then gives the same two conditions, without a name, as one view of the secret, and there the ending is plainer: if it is a matter from heaven, he will overcome us. The sorcerers were masters of one craft, and on this report they reasoned from it. If this is our craft, we know its limits and can beat it. If it is not, it is beyond us. The condition already holds a question they could not yet answer, and the next report turns it into a promise.",
+            "bn": "এরপর তাবারী কারও নাম ছাড়াই একই দুটি শর্ত আনেন গোপন কথা নিয়ে একটি মত হিসেবে। সেখানে শেষটা আরও স্পষ্ট: যদি তা আসমানের ব্যাপার হয়, তবে সে-ই আমাদের হারিয়ে দেবে। যাদুকরেরা ছিল একটা বিদ্যার ওস্তাদ, আর এই বর্ণনায় তারা ভাবছিল সেই বিদ্যা দিয়েই। এটা যদি আমাদের বিদ্যা হয়, এর সীমা আমরা জানি, একে হারাতেও পারব। আর যদি না হয়, তবে এ আমাদের নাগালের বাইরে। শর্তটার ভেতরেই লুকিয়ে আছে এমন এক প্রশ্ন, যার উত্তর তারা তখনো দিতে পারেনি। পরের বর্ণনা সেটাকে একটা অঙ্গীকারে পরিণত করে।"
+          },
+          {
+            "en": "Al-Kalbi takes the condition one step further. In al-Qurtubi and al-Baghawi he reports that what they said in secret was: if Musa overcomes us, we will follow him. Al-Qurtubi adds a sentence of his own in its support: its evidence is what became clear in the outcome of their affair. He means what the surah goes on to tell in 20:70, where the sorcerers fall down in prostration. That scene has its own article and is not retold here; it is enough that al-Qurtubi reads the end back into the whisper.",
+            "bn": "কালবী শর্তটাকে আরও এক ধাপ এগিয়ে নেন। কুরতুবী ও বাগাভীতে তাঁর বর্ণনা, তারা গোপনে বলেছিল: মূসা যদি আমাদের হারিয়ে দেয়, আমরা তার অনুসারী হব। কুরতুবী এর সমর্থনে নিজের একটি বাক্য যোগ করেন: এর প্রমাণ তাদের ব্যাপারটার শেষ পরিণতিতে যা প্রকাশ পেয়েছে। তিনি বোঝাচ্ছেন ২০:৭০ আয়াতের কথা, যেখানে সূরা জানায় যাদুকরেরা সিজদায় লুটিয়ে পড়ল। সে দৃশ্যের নিজস্ব প্রবন্ধ আছে, এখানে তার পুনরাবৃত্তি নয়। এটুকু দেখাই যথেষ্ট যে কুরতুবী শেষটাকে ফিরিয়ে পড়েন সেই ফিসফিসানির ভেতরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hidden From Whose Ears?",
+          "bn": "কার কান থেকে লুকানো?"
+        },
+        "p": [
+          {
+            "en": "Wa-asarru n-najwa: and they kept the private talk secret. From whom? Here the commentators part ways. Al-Baghawi says the sorcerers debated and consulted about Musa's affair secretly from Pharaoh. As-Suddi, relayed by at-Tabari, names the other party: they held their counsel apart from Musa and Harun (AS). On the first reading, men who had come to serve the king were hiding a doubt from him. On the second, they were hiding a plan from their opponents. Both are kept here, with their names, and neither is chosen.",
+            "bn": "ওয়া আসাররুন নাজওয়া: আর তারা গোপন আলাপ গোপন রাখল। কার কাছ থেকে? এখানে তাফসীরকারদের পথ আলাদা হয়ে যায়। বাগাভী বলেন, যাদুকরেরা মূসার ব্যাপার নিয়ে তর্ক আর পরামর্শ করেছিল ফেরাউনের কাছ থেকে লুকিয়ে। তাবারীর সূত্রে সুদ্দী অন্য পক্ষের নাম বলেন: তারা পরামর্শ করেছিল মূসা ও হারূন (আঃ)-কে বাদ রেখে। প্রথম পাঠে, রাজার সেবা করতে আসা লোকেরা তার কাছ থেকেই একটা সংশয় লুকাচ্ছিল। দ্বিতীয় পাঠে, তারা প্রতিপক্ষের কাছ থেকে একটা পরিকল্পনা লুকাচ্ছিল। দুটো মতই নামসহ এখানে রাখা হলো, কোনোটিকে বেছে নেওয়া হলো না।"
+          },
+          {
+            "en": "The second reading goes with a view of what the secret was. As-Suddi says that what they said in their private talk was the sentence of the next verse, in hadhani la-sahirani: these two are sorcerers who want to drive you from your land by their sorcery. Al-Qurtubi names as-Suddi and Muqatil for this view. At-Tabari also relays from Wahb that they pointed to one another with whispers of that same sentence. The Muyassar runs this verse straight into the next, as one counsel. How the words of 20:63 are read is that verse's question and is left to it.",
+            "bn": "দ্বিতীয় পাঠের সঙ্গে জড়িয়ে আছে গোপন কথাটা কী ছিল, সে বিষয়ে একটি মত। সুদ্দী বলেন, গোপন আলাপে তারা বলেছিল পরের আয়াতের বাক্যটি, ইন হাযানি লাসাহিরানি: এ দুজন যাদুকর, যাদুর জোরে তোমাদের দেশ থেকে তোমাদের বের করে দিতে চায়। কুরতুবী এ মতের জন্য সুদ্দী ও মুকাতিলের নাম বলেন। তাবারী ওয়াহব থেকেও আনেন, তারা ফিসফিস করে ওই বাক্যটি দিয়েই একে অপরকে ইশারা করেছিল। মুয়াসসার এ আয়াতকে সরাসরি পরের আয়াতের সঙ্গে জুড়ে দেয়, যেন একটাই পরামর্শ। ২০:৬৩ আয়াতের শব্দগুলো কীভাবে পড়া হয়, সে প্রশ্ন সেই আয়াতের, তার জন্যই রেখে দেওয়া হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Secret Made Secret",
+          "bn": "গোপন কথারও গোপনীয়তা"
+        },
+        "p": [
+          {
+            "en": "The phrase itself doubles the privacy. Najwa is already talk held apart from others: al-Qurtubi and al-Baghawi both define it as munajat, private conversation, and both note that the word serves as a noun and as a verbal noun. At-Tabari glosses it: the sorcerers kept the munajat secret between them. Ibn Kathir: they conferred privately among themselves. So the verse says, in effect, that they made their private talk more private still. This observation rests on the wording, not on the commentators, who leave the doubling unremarked.",
+            "bn": "শব্দবন্ধটা নিজেই গোপনীয়তাকে দ্বিগুণ করে। নাজওয়া মানেই অন্যদের থেকে আলাদা হয়ে বলা কথা। কুরতুবী ও বাগাভী দুজনেই এর অর্থ দেন মুনাজাত, অর্থাৎ নিভৃত আলাপ। দুজনেই জানান, শব্দটি বিশেষ্য হিসেবেও আসে, ক্রিয়াবাচক বিশেষ্য হিসেবেও। তাবারীর ব্যাখ্যা: যাদুকরেরা নিজেদের মধ্যকার মুনাজাত গোপন রাখল। ইবন কাসীরের ব্যাখ্যা: তারা নিজেদের মধ্যে চুপিচুপি শলাপরামর্শ করল। ফলে আয়াতটি কার্যত বলছে, গোপন কথাকে তারা আরও গোপন করল। এ পর্যবেক্ষণ শব্দের গঠন থেকে, তাফসীরকারদের কথা থেকে নয়। এই দ্বিগুণতা নিয়ে তাঁরা কিছু বলেননি।"
+          },
+          {
+            "en": "Al-Qurtubi notes that he has already explained the word in Surat an-Nisa. That surah has a verse on private talk which bears on this scene: there is no good in much of their private conversation, except for one who enjoins charity, or what is right, or making peace between people (4:114). Private talk is not condemned in itself. It is judged by what it carries. Here it carried a doubt about the truth and a search for a way to beat it. None of the commentaries fetched for this verse attaches a hadith to it, and none is offered here.",
+            "bn": "কুরতুবী জানান, শব্দটির ব্যাখ্যা তিনি আগেই দিয়েছেন সূরা নিসায়। সেই সূরায় গোপন আলাপ নিয়ে একটি আয়াত আছে, যা এ দৃশ্যের সঙ্গে মেলে: তাদের অধিকাংশ গোপন পরামর্শে কোনো কল্যাণ নেই, তবে কল্যাণ আছে তার পরামর্শে, যে দান-খয়রাতের, কোনো সৎকাজের কিংবা মানুষের মধ্যে মিলমিশের নির্দেশ দেয় (৪:১১৪)। গোপন আলাপ নিজে নিন্দনীয় নয়। তার বিচার হয় সে কী বহন করে তা দিয়ে। এখানে সে বহন করছিল সত্য নিয়ে এক সংশয়, আর সেই সত্যকে হারানোর উপায় খোঁজা। এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানেও কোনো হাদীস আনা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Many Voices, One Line",
+          "bn": "অনেক কণ্ঠ, এক বুলি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the end of the verse as the end of the quarrel. Their affair, he says, was not yet settled, so that Allah might bring about a matter that was to be done, and he quotes 8:42: that whoever perished might perish upon clear evidence, and whoever lived might live upon clear evidence. Then they kept their counsel secret and agreed on a single statement, so as to succeed in their words and their deeds, and so that the people would hold fast to their religion.",
+            "bn": "সা'দী আয়াতের শেষ অংশকে পড়েন ঝগড়ার সমাপ্তি হিসেবে। তিনি বলেন, তাদের ব্যাপারটা তখনো চূড়ান্ত হয়নি, যাতে আল্লাহ সেই কাজ সম্পন্ন করেন যা হওয়ারই ছিল। এখানে তিনি ৮:৪২ আয়াত উদ্ধৃত করেন: যাতে যে ধ্বংস হবে সে সুস্পষ্ট প্রমাণ দেখেই ধ্বংস হয়, আর যে বেঁচে থাকবে সেও সুস্পষ্ট প্রমাণ দেখেই বেঁচে থাকে। এরপর তারা নিজেদের পরামর্শ গোপন রাখল আর একটিমাত্র কথায় একমত হলো, যাতে কথায় ও কাজে সফল হতে পারে, আর লোকেরা নিজেদের ধর্ম আঁকড়ে থাকে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an says the same in a narrower frame: in the end their unanimous decision was to go on with the contest, because in their view Musa and Harun (AS) were both sorcerers who wished to drive Pharaoh and his men out of Egypt, a decision it says is told in 20:63. Read beside the reports above, the picture is of a doubt that was voiced and then set aside. What came out of the huddle was not the most honest voice in it. It was the voice the group could agree on.",
+            "bn": "মাআরিফুল কুরআন একই কথা বলে আরও সংকীর্ণ পরিসরে। শেষ পর্যন্ত তারা সবাই মিলে প্রতিযোগিতা চালিয়ে যাওয়ার সিদ্ধান্ত নিল। কারণ তাদের ধারণায় মূসা ও হারূন (আঃ) দুজনেই যাদুকর, যাদুর জোরে ফেরাউন ও তার লোকদের মিসর থেকে তাড়াতে চান। মাআরিফ বলে, এ সিদ্ধান্তের কথা আছে ২০:৬৩ আয়াতে। ওপরের বর্ণনাগুলোর পাশে রেখে পড়লে ছবিটা দাঁড়ায় এমন: একটা সংশয় মুখে উচ্চারিত হয়েছিল, তারপর তাকে সরিয়ে রাখা হলো। দলটার ভেতর থেকে যে কথা বেরিয়ে এল, তা সেখানকার সবচেয়ে সৎ কণ্ঠ নয়। তা ছিল সেই কণ্ঠ, যাতে সবাই একমত হতে পারল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Private Counsel Decides",
+          "bn": "গোপন পরামর্শে যা ঠিক হয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the private counsel of men who, in this story, had been gathered to defeat a messenger of Allah. It licenses nothing against any living person or community. It gives no warrant to treat people who confer quietly as conspirators, or to read a sorcerer's plot into every closed door. The Qur'an tells believers how to hold such talk, not to shun it: when you converse privately, do not converse about sin and aggression, but about righteousness and piety (58:9).",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি কেবল সেটুকুই বর্ণনা করে, যা পাঠে আছে: এমন কিছু লোকের গোপন পরামর্শ, যাদের এই কাহিনিতে জড়ো করা হয়েছিল আল্লাহর এক রাসূলকে হারানোর জন্য। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। যারা নিচু গলায় পরামর্শ করে, তাদের ষড়যন্ত্রকারী ভাবার, কিংবা প্রতিটি বন্ধ দরজার পেছনে যাদুকরের চক্রান্ত খোঁজার অধিকারও দেয় না। কুরআন মুমিনদের এমন আলাপ এড়াতে বলেনি, বলেছে কীভাবে করতে হয়: তোমরা যখন গোপনে পরামর্শ করো, গুনাহ আর সীমালঙ্ঘনের পরামর্শ কোরো না, পরামর্শ করো সৎকাজ আর তাকওয়ার (৫৮:৯)।"
+          },
+          {
+            "en": "The lesson turns inward. The sorcerers were not short of evidence. On the reports above, the warning reached them, some of them heard in it something other than a sorcerer's speech, and they said so to one another. What went wrong at this point lay in what came after: the private doubt was folded into a public line that kept the contest going. Many of us know that move. A meeting hears a hard truth, and leaves with a statement that keeps everything as it was.",
+            "bn": "শিক্ষাটা ফেরে নিজের দিকে। যাদুকরদের সামনে প্রমাণের অভাব ছিল না। ওপরের বর্ণনাগুলো অনুযায়ী সতর্কবাণী তাদের কাছে পৌঁছেছিল, তাদের কেউ কেউ তাতে যাদুকরের কথার চেয়ে ভিন্ন কিছু শুনেছিল, আর পরস্পরকে সে কথা বলেও ছিল। এ পর্যায়ে গলদটা ছিল তার পরের ধাপে। মনের গোপন সংশয়কে গুঁজে দেওয়া হলো এমন এক প্রকাশ্য বুলির ভেতরে, যা প্রতিযোগিতা চালু রাখল। আমাদের অনেকেই এ চালটা চিনি। কোনো বৈঠকে কঠিন একটা সত্য শোনা যায়, আর বৈঠক শেষ হয় এমন এক বিবৃতিতে, যাতে সবকিছু আগের মতোই থাকে।"
+          },
+          {
+            "en": "So the verse asks what my own private counsel is for. When something true unsettles me, do I and the people I trust ask whether it is true, or only how to answer it? Is the line I agree to in the huddle the most honest thing said there, or only the safest? These same men, the surah goes on to say, would in the end fall down in prostration (20:70). On al-Qurtubi's reading of al-Kalbi's report, that end was already present in the whisper.",
+            "bn": "তাই আয়াতটি আমাকে জিজ্ঞেস করে, আমার নিজের গোপন পরামর্শ আসলে কীসের জন্য? সত্য কোনো কথা যখন আমাকে নাড়িয়ে দেয়, আমি আর আমার আস্থার লোকেরা কি জিজ্ঞেস করি কথাটা সত্য কি না? নাকি শুধু ভাবি, এর জবাব কীভাবে দেওয়া যায়? দলের ভেতরে যে কথায় আমি সায় দিই, সেটা কি সেখানে বলা সবচেয়ে সৎ কথা, নাকি কেবল সবচেয়ে নিরাপদ কথা? সূরা সামনে জানায়, এই লোকেরাই শেষে সিজদায় লুটিয়ে পড়বে (২০:৭০)। কালবীর বর্ণনাকে কুরতুবী যেভাবে পড়েন, তাতে সেই পরিণতি ফিসফিসানির ভেতরেই হাজির ছিল।"
+          }
+        ]
+      }
+    ]
+  },
   "20:64": {
     "sections": [
       {

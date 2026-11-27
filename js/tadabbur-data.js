@@ -34303,6 +34303,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Truth does not license harshness. If Allah sent two prophets to speak gently to Pharaoh, speak gently to the people you are trying to reach, and never close the door of hope on them.",
     "lessonBn": "সত্য কথা রূঢ়তার অনুমতি দেয় না। আল্লাহ যদি দুজন নবীকে ফেরাউনের সঙ্গেও নরম কথা বলতে পাঠান, তাহলে যাদের কাছে আপনি সত্য পৌঁছাতে চান তাদের সঙ্গে নরম করে বলুন, আর তাদের জন্য আশার দরজা কখনো বন্ধ করবেন না।"
+  },
+  "20:62": {
+    "reflectionEn": "A short warning lands, and a row of skilled men suddenly cannot agree. Some of them seem to have heard something they did not expect; others hold to the old answer. They argue among themselves and lower their voices so that no one outside can hear. What they settle there decides what they will say in public. The verse shows no faces, only the huddle. It asks me where my own decisions are really made. When a true word unsettles me, do I let the doubt speak, or do I agree with the people around me on a line that keeps everything as it was? And what would I be ashamed to hear repeated from my own private counsel?",
+    "reflectionBn": "ছোট্ট একটা সতর্কবাণী এসে পড়ল, আর দক্ষ লোকদের সারিতে হঠাৎ মতের মিল রইল না। কারও কারও মনে হলো, তারা এমন কিছু শুনেছে যা তারা আশা করেনি। অন্যরা পুরনো জবাব আঁকড়ে রইল। নিজেদের মধ্যে তারা তর্ক করল, তারপর গলা নামিয়ে কথা বলল, যাতে বাইরের কেউ শুনতে না পায়। সেখানে যা ঠিক হলো, প্রকাশ্যে তারা সেটাই বলবে। আয়াতে কারও চেহারা নেই, আছে শুধু মাথা জড়ো করা সেই দলটা। আয়াত আমাকে জিজ্ঞেস করে, আমার নিজের সিদ্ধান্তগুলো আসলে কোথায় হয়? কোনো সত্য কথা যখন আমাকে নাড়িয়ে দেয়, আমি কি মনের সংশয়টাকে কথা বলতে দিই? নাকি আশপাশের লোকদের সঙ্গে এমন এক কথায় একমত হয়ে যাই, যাতে সবকিছু আগের মতোই থাকে? আর আমার গোপন পরামর্শের কোন কথাটা কেউ হুবহু শুনিয়ে দিলে আমি লজ্জা পাব?",
+    "pointsEn": [
+      "When a true word unsettled me recently, did I give it a hearing, or hurry to agree with others on how to dismiss it?",
+      "What do I say about people and questions in private that I would never say in the open?",
+      "Have I ever silenced my own doubt because the group I belong to had already settled its line?",
+      "In the private talks I take part in, are we looking for what is right, or only for how to win?",
+      "Whose good opinion keeps me from saying aloud what I quietly suspect is true?"
+    ],
+    "pointsBn": [
+      "সম্প্রতি কোনো সত্য কথা যখন আমাকে নাড়া দিয়েছে, আমি কি তা মন দিয়ে শুনেছি, নাকি তাড়াহুড়ো করে অন্যদের সঙ্গে মিলে ঠিক করেছি কীভাবে কথাটা উড়িয়ে দেওয়া যায়?",
+      "মানুষ আর নানা প্রশ্ন নিয়ে গোপনে আমি এমন কী বলি, যা প্রকাশ্যে কখনো বলতাম না?",
+      "আমার দল আগেই নিজেদের অবস্থান ঠিক করে ফেলেছে বলে কি কখনো নিজের মনের সংশয় চেপে গেছি?",
+      "যেসব গোপন আলাপে আমি থাকি, সেখানে আমরা কি ঠিকটা খুঁজি, নাকি শুধু জেতার উপায় খুঁজি?",
+      "কার ভালো ধারণা হারানোর ভয়ে আমি মুখ ফুটে বলি না, যা মনে মনে সত্য বলে টের পাই?"
+    ],
+    "lessonEn": "When the truth unsettles you, let your private counsel ask whether it is true, not how to win, and do not let a group's agreed line silence what you have seen.",
+    "lessonBn": "সত্য যখন আপনাকে নাড়া দেয়, গোপন পরামর্শে প্রশ্ন করুন কথাটা সত্য কি না, কীভাবে জেতা যায় তা নয়। আর দলের ঠিক করা কথার চাপে নিজের দেখা সত্যকে চুপ করিয়ে দেবেন না।"
   }
 };
 
