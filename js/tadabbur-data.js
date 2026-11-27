@@ -34839,6 +34839,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When dry earth turns green after rain, see the Subtle, the Aware behind it, and bring Him the dry places in your own life.",
     "lessonBn": "বৃষ্টির পর শুকনো মাটি যখন সবুজ হয়ে ওঠে, তার পেছনে সূক্ষ্মদর্শী, সর্বজ্ঞ আল্লাহকে দেখুন, আর নিজের জীবনের শুকনো জায়গাগুলো তাঁর কাছেই নিয়ে যান।"
+  },
+  "22:56": {
+    "reflectionEn": "Until now the passage has been about doubt: whispers cast into the message, hearts that are sick or hardened, and people who will not stop doubting until the Hour takes them by surprise. Then one short sentence closes the argument. Sovereignty, that Day, belongs to Allah. Here people carry titles, claim authority and win disputes by being louder; there, no one else will be called a king, and no one will be left to contest the ruling. The verdict follows at once: those who believed and acted on their belief are in gardens of delight. The question is not whether that Day will settle things. It is which side of the verdict my choices are building toward, while doubt is still something I can leave behind.",
+    "reflectionBn": "এতক্ষণ আলোচনা চলছিল সন্দেহ নিয়ে। বাণীর ভেতরে শয়তানের ছুড়ে দেওয়া কুমন্ত্রণা, রোগাক্রান্ত আর কঠিন হয়ে যাওয়া অন্তর, আর এমন লোক যারা কিয়ামাত হঠাৎ এসে না পড়া পর্যন্ত সন্দেহ ছাড়বে না। তারপর ছোট্ট একটি বাক্যে তর্কের ইতি। সেদিন রাজত্ব আল্লাহর। এখানে মানুষ উপাধি নেয়, ক্ষমতা দাবি করে, গলার জোরে বিবাদে জেতে। সেখানে আর কাউকে রাজা বলে ডাকা হবে না, রায় নিয়ে প্রশ্ন তোলার মতোও কেউ থাকবে না। রায়টাও সঙ্গে সঙ্গে শোনানো হয়: যারা ঈমান এনেছে আর সেই ঈমান অনুযায়ী আমল করেছে, তারা নিয়ামতে ভরা জান্নাতে। প্রশ্নটা এ নয় যে সেদিন সব মীমাংসা হবে কি না। প্রশ্ন হলো, আমার আজকের সিদ্ধান্তগুলো আমাকে রায়ের কোন দিকে নিয়ে যাচ্ছে, যতক্ষণ সন্দেহ ছেড়ে আসার সুযোগ এখনো হাতে আছে।",
+    "pointsEn": [
+      "Whose approval do I treat as final, when on that Day no authority but Allah's will remain?",
+      "Is there a doubt I keep alive because settling it would ask something of me?",
+      "Do my heart, my words and my deeds agree, or does my faith stay on my tongue?",
+      "Which argument am I straining to win now that I could leave for Allah to judge?",
+      "If the Hour came suddenly today, what would I wish I had already begun?"
+    ],
+    "pointsBn": [
+      "কার সন্তুষ্টিকে আমি শেষ কথা ধরে নিই, অথচ সেদিন আল্লাহ ছাড়া আর কারও কর্তৃত্ব থাকবে না?",
+      "এমন কোনো সন্দেহ কি আমি পুষে রেখেছি, যার মীমাংসা করলে আমার কাছে কিছু দাবি এসে পড়বে?",
+      "আমার অন্তর, কথা আর কাজ কি এক সুরে চলে, নাকি আমার ঈমান মুখেই আটকে থাকে?",
+      "কোন তর্কে আমি আজ জেতার জন্য মরিয়া, যার ফয়সালা আল্লাহর হাতে ছেড়ে দিতে পারতাম?",
+      "কিয়ামাত যদি আজই হঠাৎ এসে পড়ে, কোন কাজটা আগেই শুরু করে রাখলে ভালো হতো বলে আফসোস হবে?"
+    ],
+    "lessonEn": "On that Day every authority but Allah's falls away and His verdict follows at once, so bring Him a faith your deeds have confirmed.",
+    "lessonBn": "সেদিন আল্লাহ ছাড়া সব কর্তৃত্ব খসে পড়বে, আর তাঁর রায় আসবে সঙ্গে সঙ্গে। তাই তাঁর কাছে এমন ঈমান নিয়ে যান, যার সত্যতা আপনার আমল প্রমাণ করেছে।"
   }
 };
 

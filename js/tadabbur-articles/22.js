@@ -3131,6 +3131,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "22:56": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Doubting Stops",
+          "bn": "যেখানে এসে সন্দেহ থামে"
+        },
+        "p": [
+          {
+            "en": "Al-mulku yawma'idhin lillah: sovereignty, that Day, is Allah's. Its word for time, yawma'idhin, on that day, points back. The passage behind it opens at 22:52. When any messenger or prophet before him recited, Satan cast something into it; Allah abolishes what he casts and makes His verses firm. Then 22:55: the disbelievers will not cease to doubt it until the Hour comes upon them suddenly, or the punishment of a barren day.",
+            "bn": "আল-মুলকু ইয়াওমায়িযিল লিল্লাহ: সেদিন রাজত্ব আল্লাহর। এর সময়বাচক শব্দ ইয়াওমায়িযিন, মানে 'সেদিন', পেছনের কথার দিকে ইশারা করে। পেছনের ধারাটা শুরু হয়েছে ২২:৫২ থেকে। আগের কোনো রাসূল বা নবী যখনই তিলাওয়াত করেছেন, শয়তান তাতে কিছু ছুড়ে দিয়েছে। আল্লাহ সেটা মুছে দেন আর নিজের আয়াতকে মজবুত করেন। তারপর ২২:৫৫ আয়াত: কাফিররা এ নিয়ে সন্দেহ করতেই থাকবে, যতক্ষণ না কিয়ামাত হঠাৎ এসে পড়ে, কিংবা এসে পড়ে এক বন্ধ্যা দিনের শাস্তি।"
+          },
+          {
+            "en": "That is where 22:56 begins. The doubt has an end point, and this verse describes what waits there: one Owner of all authority, one Judge, and a verdict given in the same breath. Al-Muyassar, which explains 22:56 and 22:57 together, sets out the plain sequence. Sovereignty and authority on this day belong to Allah alone; He decides between the believers and the disbelievers. Then the two outcomes: lasting bliss in the gardens, and a punishment in Hell that disgraces and humiliates.",
+            "bn": "২২:৫৬ আয়াতের শুরু ঠিক সেখান থেকে। সন্দেহেরও একটা শেষ সীমা আছে, আর সেখানে কী অপেক্ষা করছে, আয়াতটি তা জানায়। সব কর্তৃত্বের একজনই মালিক, একজনই বিচারক, আর রায়টাও শোনানো হয় একই নিঃশ্বাসে। মুয়াসসার ২২:৫৬ ও ২২:৫৭ আয়াত একসঙ্গে ব্যাখ্যা করে, আর ক্রমটা সাদামাটা ভাষায় সাজিয়ে দেয়। সেদিন রাজত্ব ও ক্ষমতা কেবল আল্লাহর। তিনি মুমিন ও কাফিরের মাঝে ফয়সালা করবেন। তারপর দুই পরিণাম: জান্নাতে স্থায়ী নিয়ামত, আর জাহান্নামে এমন শাস্তি যা লাঞ্ছিত ও অপমানিত করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Barren Day, Read Twice",
+          "bn": "বন্ধ্যা দিনের দুই পাঠ"
+        },
+        "p": [
+          {
+            "en": "Which day is that day? 22:55 offers two: the Hour, and a yawm 'aqim, a barren day. Al-Qurtubi explains the word. In the language, 'aqim is one who has no child. Days follow one another, so the day that comes after is treated like offspring; since no day comes after that one, it is called barren. He gives this from an-Nahhas. A further reading he records: barren of every good, without compassion or mercy, as the barren wind of 51:41 brings no rain.",
+            "bn": "'সেদিন' কোন দিন? ২২:৫৫ আয়াতে দুটি দিনের কথা আছে: কিয়ামাত, আর ইয়াওমুন আকীম, এক বন্ধ্যা দিন। শব্দটা কুরতুবী খুলে বলেন। ভাষায় আকীম বলে তাকে, যার কোনো সন্তান হয় না। দিনগুলো একটার পর একটা আসে, তাই পরের দিনটাকে আগের দিনের সন্তানের মতো ধরা হয়। ওই দিনের পরে আর কোনো দিন আসবে না, তাই তাকে বলা হয়েছে বন্ধ্যা। কথাটা তিনি নাহহাস থেকে আনেন। আরেকটি ব্যাখ্যাও তিনি লেখেন: সব কল্যাণ থেকে বন্ধ্যা, যাতে দয়া বা রহমত কিছুই নেই, যেমন ৫১:৪১ আয়াতের বন্ধ্যা বাতাস কোনো বৃষ্টি আনে না।"
+          },
+          {
+            "en": "A second line of reports names the day of Badr. At-Tabari gives it from Mujahid, from Sa'id ibn Jubayr, and from Qatada, who relays it from Ubay ibn Ka'b (RA); Ibn Jurayj explains that they were given no respite until nightfall but were killed before evening. At-Tabari prefers this reading. If the barren day were also the Hour, he argues, the verse would be saying until the Hour comes or the Hour comes, naming it twice in different words, which he says carries no meaning.",
+            "bn": "আরেক ধারার বর্ণনা বলে, দিনটি বদরের দিন। তাবারী এটা আনেন মুজাহিদ থেকে, সাঈদ ইবন জুবাইর থেকে, আর কাতাদা থেকে, যিনি কথাটা বর্ণনা করেন উবাই ইবন কা'ব (রাঃ) থেকে। ইবন জুরাইজ কারণটা বলেন: রাত পর্যন্ত তাদের অবকাশ দেওয়া হয়নি, সন্ধ্যার আগেই তারা নিহত হয়েছিল। তাবারী এই ব্যাখ্যাকেই বেশি সঠিক মনে করেন। তাঁর যুক্তি হলো, বন্ধ্যা দিনও যদি কিয়ামাতই হয়, তবে আয়াতের কথা দাঁড়ায়: যতক্ষণ না কিয়ামাত আসে, অথবা কিয়ামাত আসে। একই জিনিসের নাম দুবার, শুধু শব্দ আলাদা। তাঁর মতে এর কোনো অর্থ হয় না।"
+          },
+          {
+            "en": "Ibn Kathir records both lines. Ubay's report through Mujahid, with Ikrimah, Sa'id ibn Jubayr, Qatada and others, says Badr, and he notes that Ibn Jarir chose it. Ikrimah and Mujahid, in another report from each, with ad-Dahhak and al-Hasan al-Basri, say the Day of Resurrection, which has no night. Then he rules: this is the correct view, even though Badr is among what they were threatened with, and for this reason He said, and his next words are 22:56 itself. Both readings are kept here.",
+            "bn": "ইবন কাসীর দুই ধারাই উল্লেখ করেন। মুজাহিদের সূত্রে উবাই (রাঃ)-এর বর্ণনা, সঙ্গে ইকরিমা, সাঈদ ইবন জুবাইর, কাতাদা ও আরও অনেকে বলেন, দিনটি বদর। তিনি এ-ও জানান যে ইবন জারীর এ মতটি বেছে নিয়েছেন। আবার ইকরিমা ও মুজাহিদ থেকে অন্য এক বর্ণনায়, সঙ্গে দাহহাক ও হাসান বাসরী বলেন, দিনটি কিয়ামাত, যার কোনো রাত নেই। তারপর ইবন কাসীর রায় দেন: এটাই সঠিক মত, যদিও বদরও সেসব বিষয়ের একটি যার হুমকি তাদের দেওয়া হয়েছিল। আর এ কারণেই তিনি বলেছেন। এর পরের কথাটাই ২২:৫৬ আয়াত। এখানে দুই ব্যাখ্যাই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kings Who Bore the Name",
+          "bn": "রাজা নামধারীদের কথা"
+        },
+        "p": [
+          {
+            "en": "Why say that Day, when sovereignty is always Allah's? At-Tabari answers in a sentence. Authority and kingship, when the Hour comes, belong to Allah alone, without partner, and on that day no contender disputes it with Him. In this world there were kings who were called by this name; on that day no one is called king except Him. The verse does not mean His kingship begins then. It means every borrowed title ends then.",
+            "bn": "রাজত্ব তো সবসময়ই আল্লাহর, তাহলে 'সেদিন' বলার মানে কী? তাবারী এক বাক্যে উত্তর দেন। কিয়ামাত যখন আসবে, ক্ষমতা ও রাজত্ব থাকবে কেবল আল্লাহর, তাঁর কোনো শরিক নেই, সেদিন কেউ তাঁর সঙ্গে বিরোধে নামবে না। দুনিয়ায় এমন অনেক রাজা ছিল, যাদের এই নামে ডাকা হতো। সেদিন তিনি ছাড়া আর কাউকে রাজা বলা হবে না। অর্থাৎ আয়াতটি বলছে না যে তাঁর রাজত্ব সেদিন শুরু হবে। বলছে, ধার করা সব উপাধি সেদিন শেষ।"
+          },
+          {
+            "en": "Al-Qurtubi: the Day of Resurrection is Allah's alone, with no rival in it and no one to resist Him. Al-Baghawi: Allah's alone, without a contender. As-Sa'di: Allah's, not anyone else's. Al-Qurtubi then defines the word itself: al-mulk is the breadth of what lies within the power of whoever directs affairs. On that definition, kingship is two things together, reach and the right to arrange, and on that Day no one but Allah holds either.",
+            "bn": "কুরতুবী: কিয়ামাতের দিন কেবল আল্লাহর, সেদিন তাঁর কোনো প্রতিদ্বন্দ্বী নেই, তাঁকে ঠেকানোর মতো কেউ নেই। বাগাভী: কেবল আল্লাহর, কোনো প্রতিপক্ষ ছাড়া। সা'দী: আল্লাহর, আর কারও নয়। তারপর কুরতুবী শব্দটার সংজ্ঞা দেন। আল-মুলক মানে ক্ষমতার আওতার প্রশস্ততা, যা থাকে সব বিষয়ের পরিচালনা যাঁর হাতে তাঁর কাছে। এই সংজ্ঞা ধরলে রাজত্ব দুটি জিনিসের মিলন: নাগাল আর বন্দোবস্ত করার অধিকার। সেদিন আল্লাহ ছাড়া আর কারও হাতে এর কোনোটাই থাকবে না।"
+          },
+          {
+            "en": "Ibn Kathir places the verse beside two others. One is 1:4, recited in every prayer. The other is 25:26: sovereignty that Day, the true sovereignty, belongs to the Most Merciful, and it will be a hard day for the disbelievers. 40:16 makes the same claim again. In each of these verses the Qur'an brings its reader to that Day and names its one Owner, before any other detail of it.",
+            "bn": "ইবন কাসীর আয়াতটিকে আরও দুটি আয়াতের পাশে রাখেন। একটি ১:৪, যা প্রতি নামাযে পড়া হয়। অন্যটি ২৫:২৬: সেদিন সত্যিকারের রাজত্ব হবে পরম দয়াময়ের, আর কাফিরদের জন্য সেটা হবে বড় কঠিন দিন। ৪০:১৬ আয়াতও একই দাবি আবার তোলে। এই আয়াতগুলোর প্রতিটিতে কুরআন পাঠককে সেই দিনের সামনে দাঁড় করায়, আর দিনটির অন্য কোনো খুঁটিনাটির আগে তার একক মালিকের নাম বলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Or a Day at Badr",
+          "bn": "নাকি বদরের সেই দিন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi, al-Baghawi and as-Sa'di gloss yawma'idhin in 22:56 plainly as the Day of Resurrection. Al-Qurtubi then adds a thought of his own, introduced with qultu, I say: the pointer that Day may possibly refer to the day of Badr, for on it He ruled the destruction of the disbeliever and the happiness of the believer. That fits the Badr reading of the barren day in 22:55, which at-Tabari preferred. Yet at-Tabari himself, on this verse, explains the authority as Allah's when the Hour comes.",
+            "bn": "কুরতুবী, বাগাভী ও সা'দী ২২:৫৬ আয়াতের ইয়াওমায়িযিন বলতে স্পষ্ট ভাষায় কিয়ামাতের দিন বোঝান। তারপর কুরতুবী 'আমি বলি' কথাটি দিয়ে নিজের একটা ভাবনা যোগ করেন। 'সেদিন' শব্দের ইশারা বদরের দিনের দিকেও হতে পারে, কারণ সেদিন তিনি কাফিরের ধ্বংস আর মুমিনের সৌভাগ্যের ফয়সালা করেছিলেন। ২২:৫৫ আয়াতের বন্ধ্যা দিনকে বদর ধরার যে ব্যাখ্যা তাবারী বেশি সঠিক মনে করেছেন, এ কথা তার সঙ্গে মেলে। অথচ তাবারী নিজেই এ আয়াতের ব্যাখ্যায় বলেন, কিয়ামাত এলে ক্ষমতা হবে আল্লাহর।"
+          },
+          {
+            "en": "Al-Qurtubi supports his possibility with a narration about the people of Badr. In al-Bukhari's wording (3983), Ali (RA) tells how a letter from Hatib ibn Abi Balta'a (RA) to the idolaters of Makkah was intercepted, and Umar (RA) asked leave to strike his neck. The Prophet ﷺ said: \"Is he not one of the people of Badr? Perhaps Allah has looked upon the people of Badr and said: Do whatever you wish, Paradise has become due for you, or: I have forgiven you.\" Umar's eyes filled with tears, and he said: Allah and His Messenger know best.",
+            "bn": "নিজের এই সম্ভাবনার পক্ষে কুরতুবী বদরের সাহাবিদের নিয়ে একটি বর্ণনা আনেন। বুখারীর ভাষ্যে (৩৯৮৩) আলী (রাঃ) জানান, মক্কার মুশরিকদের কাছে লেখা হাতিব ইবন আবী বালতা'আ (রাঃ)-এর একটি চিঠি পথে ধরা পড়ে, আর উমর (রাঃ) তাঁর গর্দান নেওয়ার অনুমতি চান। নবী ﷺ বললেন: \"সে কি বদরের লোকদের একজন নয়? হয়তো আল্লাহ বদরের লোকদের দিকে তাকিয়ে বলেছেন: তোমরা যা খুশি করো, তোমাদের জন্য জান্নাত অবধারিত হয়ে গেছে, অথবা: আমি তোমাদের ক্ষমা করে দিয়েছি।\" উমর (রাঃ)-এর চোখ ভিজে গেল। তিনি বললেন: আল্লাহ ও তাঁর রাসূলই ভালো জানেন।"
+          },
+          {
+            "en": "Two cautions go with it. The narration is in al-Bukhari's Sahih, but it is not attached to this verse: it concerns the people of Badr, and al-Qurtubi brings it only in support of a reading he himself frames as a possibility. None of the tafsirs fetched for 22:56 attaches a sound hadith to the verse itself. The Badr reading is one view among others: al-Qurtubi offers it, at-Tabari's choice on 22:55 lends it weight, Ibn Kathir's ruling on 22:55 runs against it, and this article keeps the difference without choosing.",
+            "bn": "এর সঙ্গে দুটি সতর্কতা আছে। বর্ণনাটি বুখারীর সহীহ গ্রন্থে আছে, কিন্তু এ আয়াতের সঙ্গে যুক্ত নয়। এর বিষয় বদরের সাহাবিরা, আর কুরতুবী এটা এনেছেন কেবল এমন এক ব্যাখ্যার সমর্থনে, যাকে তিনি নিজেই সম্ভাবনা বলে উপস্থাপন করেছেন। ২২:৫৬ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। বদরের ব্যাখ্যাটি কয়েকটি মতের একটি মাত্র: কুরতুবী এটা প্রস্তাব করেন, ২২:৫৫ আয়াতে তাবারীর পছন্দ একে কিছুটা জোর দেয়, আর একই আয়াতে ইবন কাসীরের রায় যায় এর বিপক্ষে। এই লেখা মতভেদটা রেখে দিচ্ছে, কোনো পক্ষ না নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Ruling Comes Straight After",
+          "bn": "রায় আসে সঙ্গে সঙ্গে"
+        },
+        "p": [
+          {
+            "en": "Yahkumu baynahum: He will judge between them. At-Tabari explains the verb as separating: He divides between His creation, those who associated partners with Him and the believers. Al-Muyassar says He decides between the believers and the disbelievers. As-Sa'di describes the manner: by His just ruling and His decisive judgement. So the pronoun them, which follows the doubting disbelievers of 22:55, is read by these commentators as the two parties together.",
+            "bn": "ইয়াহকুমু বাইনাহুম: তিনি তাদের মাঝে বিচার করবেন। তাবারী ক্রিয়াটিকে ব্যাখ্যা করেন আলাদা করে দেওয়া অর্থে: তিনি তাঁর সৃষ্টিকে ভাগ করে দেবেন, একদিকে যারা তাঁর সঙ্গে শরিক করেছে, অন্যদিকে মুমিনরা। মুয়াসসার বলে, তিনি মুমিন ও কাফিরের মাঝে ফয়সালা করবেন। সা'দী জানান বিচারের ধরন: তাঁর ন্যায়সংগত রায় আর চূড়ান্ত ফয়সালা দিয়ে। ২২:৫৫ আয়াতের সন্দেহকারী কাফিরদের পরেই 'তাদের' সর্বনামটা এসেছে। তবু এই তাফসীরকারেরা একে দুই পক্ষকে একসঙ্গে ধরে পড়েন।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi mark the next step in the same words: thumma bayyana hukmahu, then He made His ruling clear. The verse does not describe the hearing; it states the outcome. Its own half of the outcome is the believers in gardens of bliss. The other half is 22:57: those who disbelieved and denied Our signs, for them is a humiliating punishment. Ibn Kathir explains the humiliation as a recompense for their arrogance in turning away from the truth.",
+            "bn": "পরের ধাপটা কুরতুবী ও বাগাভী একই শব্দে চিহ্নিত করেন: সুম্মা বাইয়ানা হুকমাহু, তারপর তিনি তাঁর রায় স্পষ্ট করে দিলেন। আয়াতে শুনানির বর্ণনা নেই, আছে শুধু ফলাফল। এ আয়াতের ভাগে পড়েছে ফলাফলের এক অংশ: মুমিনরা নিয়ামতে ভরা জান্নাতে। বাকি অংশ ২২:৫৭ আয়াতে: যারা কুফরি করেছে আর আমার আয়াতকে মিথ্যা বলেছে, তাদের জন্য অপমানজনক শাস্তি। ইবন কাসীর বলেন, এই অপমান সত্য থেকে অহংকারভরে মুখ ফিরিয়ে নেওয়ার প্রতিফল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heart, Tongue and Hand Agreeing",
+          "bn": "অন্তর, মুখ আর হাতের মিল"
+        },
+        "p": [
+          {
+            "en": "Fa-lladhina amanu wa 'amilu s-salihat: so those who believed and did righteous deeds. Ibn Kathir unpacks the pair. Their hearts believed, and they affirmed Allah and His Messenger; they acted on what they knew; and their hearts, their words and their deeds agreed. That last clause names three things that have to line up: what sits in the heart, what is said with the tongue, and what the limbs carry out. In his gloss, the believers of this verse are people in whom the three agree.",
+            "bn": "ফাল্লাযীনা আমানূ ওয়া আমিলুস সালিহাত: অতএব যারা ঈমান এনেছে আর নেক আমল করেছে। ইবন কাসীর জোড়াটা খুলে বলেন। তাদের অন্তর ঈমান এনেছে, তারা আল্লাহ ও তাঁর রাসূলকে সত্য বলে মেনেছে। যা জেনেছে সে অনুযায়ী আমল করেছে। আর তাদের অন্তর, কথা ও কাজ একে অপরের সঙ্গে মিলে গেছে। শেষ কথাটায় তিনটি জিনিসের নাম আছে, যাদের এক সারিতে আসতে হয়: অন্তরে যা আছে, মুখে যা বলা হয়, আর হাত-পা যা করে। তাঁর ব্যাখ্যায় এ আয়াতের মুমিন সেই মানুষ, যার ভেতরে এই তিনের মিল আছে।"
+          },
+          {
+            "en": "At-Tabari makes the object of belief specific: those who believed in this Qur'an, in Him who sent it down and in him who brought it, and acted on what it contains of its lawful and unlawful, its limits and its obligations. That matches his reading of 22:55, where he takes minhu, in doubt of it, to mean the Qur'an, following Ibn Jurayj. Al-Qurtubi records that others said the religion, and Ibn Kathir that Sa'id ibn Jubayr and Ibn Zayd said what Satan cast. On at-Tabari's line, the believers stand exactly where the doubters would not.",
+            "bn": "তাবারী ঈমানের বিষয়টা নির্দিষ্ট করে দেন: যারা এই কুরআনের উপর ঈমান এনেছে, যিনি তা নাযিল করেছেন তাঁর উপর, আর যিনি তা নিয়ে এসেছেন তাঁর উপর। আর এতে যা হালাল-হারাম, যত সীমারেখা ও ফরজ আছে, সে অনুযায়ী আমল করেছে। ২২:৫৫ আয়াতের যে ব্যাখ্যা তিনি দেন, এটা তার সঙ্গে মেলে। সেখানে মিনহু, অর্থাৎ 'এ নিয়ে সন্দেহ', বলতে তিনি ইবন জুরাইজের অনুসরণে কুরআনকেই বোঝেন। কুরতুবী জানান, অন্যরা বলেছেন দ্বীন। আর ইবন কাসীর জানান, সাঈদ ইবন জুবাইর ও ইবন যায়দ বলেছেন শয়তানের ছুড়ে দেওয়া জিনিস। তাবারীর ধারায় মুমিনরা ঠিক সেখানে দাঁড়ায়, যেখানে সন্দেহকারীরা দাঁড়াতে রাজি হয়নি।"
+          },
+          {
+            "en": "As-Sa'di gives the deeds a purpose. They believed in Allah, in His messengers and in what the messengers brought, and they did righteous deeds li-yusaddiqu bi-dhalika imanahum, so that by them they would confirm their faith. The deed, on this reading, is the evidence that the belief was real. However the commentators phrase it, none of them lets the two words separate: in their glosses belief is never left as a private conviction, and deeds never appear apart from belief.",
+            "bn": "সা'দী আমলের একটা উদ্দেশ্য দেখান। তারা ঈমান এনেছে আল্লাহর উপর, তাঁর রাসূলদের উপর, আর রাসূলরা যা নিয়ে এসেছেন তার উপর। তারপর নেক আমল করেছে লিইউসাদ্দিকূ বিযালিকা ঈমানাহুম, যাতে আমল দিয়ে নিজেদের ঈমানের সত্যতা প্রমাণ করে। এই ব্যাখ্যায় আমল হলো ঈমান যে খাঁটি ছিল তার সাক্ষ্য। তাফসীরকারেরা যেভাবেই বলুন, কেউই দুটি শব্দকে আলাদা হতে দেন না। তাঁদের ব্যাখ্যায় ঈমান কখনো কেবল মনের ভেতরের বিশ্বাস হয়ে থাকে না, আর আমলও কখনো ঈমান থেকে আলাদা হয়ে আসে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bliss Described by Negation",
+          "bn": "না-বাচক শব্দে নিয়ামতের ছবি"
+        },
+        "p": [
+          {
+            "en": "Fi jannati n-na'im: in the gardens of bliss. Ibn Kathir describes it with three negatives: for them is the abiding bliss, which does not shift, does not cease and does not perish. The choice of words suits the passage. Everything before it has been about what changes: hearts that harden, doubts that last until something sudden arrives, a day that, on one reading, cut its people off before evening. Against that, the bliss is defined by what it will never do.",
+            "bn": "ফী জান্নাতিন নাঈম: নিয়ামতে ভরা জান্নাতে। ইবন কাসীর একে বর্ণনা করেন তিনটি না-বাচক শব্দে: তাদের জন্য আছে স্থায়ী নিয়ামত, যা বদলায় না, ফুরায় না, ধ্বংসও হয় না। শব্দ বাছাইটা এই ধারার সঙ্গে মানানসই। আগের সব কথা ছিল বদলে যাওয়া জিনিস নিয়ে। অন্তর কঠিন হয়ে যায়, সন্দেহ টিকে থাকে যতক্ষণ না হঠাৎ কিছু এসে পড়ে, আর একটি ব্যাখ্যায় এমন এক দিন, যা সন্ধ্যার আগেই মানুষগুলোকে শেষ করে দিয়েছিল। এর বিপরীতে নিয়ামতের পরিচয় দেওয়া হলো, সে কখনো কী করবে না তা দিয়ে।"
+          },
+          {
+            "en": "As-Sa'di widens the picture: the bliss of the heart, of the spirit and of the body, of a kind that no describer can describe and no mind can grasp. His gloss names the three places that bliss reaches, then stops at the limit of words. The passage does not end here. The next two verses, 22:58 and 22:59, carry the promise to those who emigrated in Allah's way and were then killed or died: a good provision, and an entrance with which they will be pleased.",
+            "bn": "সা'দী ছবিটা আরও বড় করেন: অন্তরের নিয়ামত, রূহের নিয়ামত, দেহের নিয়ামত, এমন ধরনের যা কোনো বর্ণনাকারী বর্ণনা করতে পারে না, কোনো বুদ্ধি নাগাল পায় না। তাঁর ব্যাখ্যা নিয়ামতের পৌঁছানোর তিনটি জায়গার নাম বলে, তারপর ভাষার সীমায় এসে থেমে যায়। ধারাটা এখানেই শেষ নয়। পরের দুই আয়াত, ২২:৫৮ ও ২২:৫৯, একই প্রতিশ্রুতি পৌঁছে দেয় তাদের কাছে, যারা আল্লাহর পথে হিজরত করেছে, তারপর নিহত হয়েছে বা মারা গেছে: উত্তম রিযিক, আর এমন এক প্রবেশস্থল যাতে তারা খুশি হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "While the Hour Still Waits",
+          "bn": "কিয়ামাত এখনো যখন আসেনি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir records Qatada on baghtatan, suddenly, in 22:55: Allah's command took the people by surprise, and Allah never seized a people except at the moment of their intoxication, their heedlessness and their ease; so do not be deceived about Allah, for none are deceived about Allah except the defiantly disobedient. That warning stands directly before the verse of sovereignty. Because the Hour comes suddenly, the verdict of 22:56 is not something to wait and see about. It is something to prepare for while the preparing is still possible.",
+            "bn": "২২:৫৫ আয়াতের বাগতাতান, অর্থাৎ হঠাৎ, শব্দের ব্যাখ্যায় ইবন কাসীর কাতাদার কথা আনেন: আল্লাহর আদেশ লোকদের উপর আচমকা এসে পড়েছিল। আল্লাহ কোনো জাতিকে কখনো পাকড়াও করেননি, যখন তারা মত্ত, উদাসীন আর আরাম-আয়েশে ডুবে ছিল তখন ছাড়া। তাই আল্লাহর ব্যাপারে ধোঁকায় পড়বেন না, কারণ আল্লাহর ব্যাপারে ধোঁকায় পড়ে কেবল নাফরমান লোকেরাই। এই সতর্কবাণীর ঠিক পরেই রাজত্বের আয়াত। কিয়ামাত হঠাৎ আসে বলেই ২২:৫৬ আয়াতের রায় দেখি-কী-হয় বলে অপেক্ষা করার বিষয় নয়। প্রস্তুতির সুযোগ যতক্ষণ আছে, ততক্ষণ এর জন্য প্রস্তুত হওয়ার বিষয়।"
+          },
+          {
+            "en": "As-Sa'di, on 22:55, describes the moment the doubt ends. When the Hour comes, those who disbelieved will know that they were liars; they will regret where regret is of no use, despair of every good, and wish they had believed in the Messenger and taken a path with him. Then he adds: in this is a warning to them against persisting in their doubt and their fabrication. The passage, in other words, speaks to the doubter while the doubt can still be left.",
+            "bn": "২২:৫৫ আয়াতের ব্যাখ্যায় সা'দী সেই মুহূর্তের বর্ণনা দেন, যখন সন্দেহ শেষ হয়। কিয়ামাত এলে কাফিররা জানবে যে তারা মিথ্যাবাদী ছিল। তারা আফসোস করবে, যখন আফসোসে আর কোনো লাভ নেই। সব কল্যাণ থেকে নিরাশ হবে, আর কামনা করবে, যদি রাসূলের উপর ঈমান আনত আর তাঁর সঙ্গে পথ ধরত! তারপর তিনি যোগ করেন: এতে তাদের জন্য সতর্কবাণী আছে, যেন তারা নিজেদের সন্দেহ আর মিথ্যা রটনায় অটল না থাকে। অর্থাৎ সন্দেহ ছেড়ে আসার সুযোগ যতক্ষণ আছে, ধারাটা ততক্ষণ সন্দেহকারীকেই সম্বোধন করছে।"
+          },
+          {
+            "en": "One thing should be said plainly. The verse describes what the text describes: a verdict on that Day, given by Allah between those who believed and those who denied, and, in al-Qurtubi's possibility, a verdict that came at Badr. It licenses nothing against any living person or community. The ruling it speaks of belongs to the One whose sovereignty it announces, and it hands no reader a verdict to pass on anyone else. What it asks of the reader is narrower and harder: to check whether his own heart, words and deeds agree.",
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। আয়াতটি কেবল তা-ই বর্ণনা করে, যা এর ভাষায় আছে: সেদিন আল্লাহর দেওয়া রায়, যারা ঈমান এনেছে আর যারা অস্বীকার করেছে তাদের মাঝে। আর কুরতুবীর প্রস্তাবিত সম্ভাবনায়, বদরের দিনে আসা এক রায়। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। যে রায়ের কথা এখানে, তা সেই সত্তার, যাঁর রাজত্বের ঘোষণা আয়াতটি দিচ্ছে। অন্য কারও উপর রায় দেওয়ার ভার কোনো পাঠকের হাতে এটি তুলে দেয় না। পাঠকের কাছে এর দাবি আরও সংকীর্ণ, আরও কঠিন: নিজের অন্তর, কথা আর কাজ পরস্পরের সঙ্গে মেলে কি না, তা যাচাই করা।"
+          }
+        ]
+      }
+    ]
+  },
   "22:58": {
     "sections": [
       {
