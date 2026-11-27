@@ -3111,6 +3111,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "44:55": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where Zaqqum Once Stood",
+          "bn": "জাক্কুমের জায়গায় ফলের ডালা"
+        },
+        "p": [
+          {
+            "en": "Food first appears in this part of the surah as a torment. In 44:43 and 44:44 the tree of zaqqum is the food of the sinner, and 44:45 and 44:46 say it boils in the bellies like scalding water. Then 44:51 turns to the people of taqwa, and gift follows gift: a secure station, gardens and springs, silk and brocade, spouses. This verse brings food back, and this time they ask for it; nobody forces it on them.",
+            "bn": "সূরার এই অংশে খাবারের প্রথম দেখা মেলে শাস্তি হিসেবে। ৪৪:৪৩ ও ৪৪:৪৪ আয়াতে জাক্কুম গাছকে বলা হয়েছে পাপীর খাদ্য, আর ৪৪:৪৫ ও ৪৪:৪৬ আয়াত জানায়, তা পেটের ভেতর ফুটন্ত পানির মতো টগবগ করে। তারপর ৪৪:৫১ আয়াত মুত্তাকীদের দিকে ফেরে, আর একের পর এক দান যোগ হতে থাকে: নিরাপদ আবাস, বাগান আর ঝরনা, মিহি ও পুরু রেশম, জীবনসঙ্গিনী। এ আয়াতে খাবার আবার ছবিতে ফিরে আসে। তবে এবার তা কারও উপর চাপিয়ে দেওয়া হয় না, তারা নিজেরাই চেয়ে নেন।"
+          },
+          {
+            "en": "At-Tabari reads the run of verses as one line of honour. On 44:54 he paraphrases: just as We gave these muttaqin honour in the Hereafter by bringing them into the gardens and clothing them there in silk and brocade, so too We honoured them by marrying them. His comment on this verse follows straight on in the same place, and the next verse, 44:56, will take away death itself. Fruit is one more mark of honour in that sequence.",
+            "bn": "তাবারী আয়াতগুলোকে পড়েন সম্মানের একটানা ধারা হিসেবে। ৪৪:৫৪ আয়াতের ব্যাখ্যায় তাঁর ভাষ্য মোটামুটি এই: যেমন আখিরাতে আমি এই মুত্তাকীদের সম্মান দিয়েছি বাগানে প্রবেশ করিয়ে আর সেখানে মিহি ও পুরু রেশম পরিয়ে, তেমনি তাদের সম্মানিত করেছি বিয়ে দিয়ে। এ আয়াত নিয়ে তাঁর মন্তব্য ঠিক তার পরেই, একই জায়গায়। আর পরের আয়াত, ৪৪:৫৬, মৃত্যুকেই সরিয়ে দেবে। এই ধারায় ফলও সম্মানেরই আরেকটি চিহ্ন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Called For, Then Brought",
+          "bn": "চাওয়া মাত্র হাজির"
+        },
+        "p": [
+          {
+            "en": "Yad'una fiha bi-kulli fakihatin aminin: they call therein for every fruit, safe. The verb comes from the root of calling, and with the preposition bi it means calling for something, asking that it be brought. The Muyassar glosses it yatlubu, they request. Ibn Kathir writes mahma talabu, whatever they ask for. As-Sa'di explains fiha in a word: in the Garden. So the verse shows a request being made. It does not say who hears the request, and none of the commentaries consulted here names anyone.",
+            "bn": "ইয়াদউনা ফীহা বিকুল্লি ফাকিহাতিন আমিনীন: সেখানে তারা নিরাপদে প্রত্যেক ফল চেয়ে পাঠাবে। ক্রিয়াটি এসেছে ডাকার ধাতু থেকে, আর সঙ্গে বি অব্যয় থাকায় অর্থ দাঁড়ায় কোনো কিছু ডেকে আনা, এনে দিতে বলা। মুয়াসসার এর অর্থ করেছে ইয়াতলুবু, তারা চায়। ইবন কাসীর লেখেন মাহমা তালাবূ, যা-ই তারা চায়। ফীহা শব্দটি সা'দী এক কথায় খুলে দেন: জান্নাতে। আয়াতে তাই একটি চাওয়ার দৃশ্য। কে সেই চাওয়া শোনে, আয়াত তা বলে না। এখানে দেখা কোনো তাফসীরেও কারও নাম আসেনি।"
+          },
+          {
+            "en": "What follows the request is filled in by the commentators. Ibn Kathir: whatever kinds of fruit they ask for are brought to them, and brought whenever they want. As-Sa'di: whatever they ask for of its kinds is brought to them at once, fi al-hal, with no toil and no effort, min ghayri ta'abin wa la kulfah. In this world a tree, a season, a market and a price stand between wanting a fruit and eating it. In these paraphrases every one of them has gone.",
+            "bn": "চাওয়ার পর কী হয়, তা তাফসীরকারেরা পূরণ করে দেন। ইবন কাসীর বলেন, যে ধরনের ফলই তারা চায়, তা তাদের সামনে হাজির করা হয়, আর যখনই চায় তখনই। সা'দীর ভাষায়, যে রকম ফলই তারা চায়, তা তৎক্ষণাৎ হাজির করা হয়, ফিল হাল, কোনো খাটুনি বা কষ্ট ছাড়াই, মিন গাইরি তাআবিন ওয়া লা কুলফাহ। দুনিয়ায় একটা ফল চাওয়া আর মুখে তোলার মাঝখানে থাকে গাছ, মৌসুম, বাজার আর দাম। এই ব্যাখ্যাগুলোতে তার কোনোটাই আর নেই।"
+          },
+          {
+            "en": "The same picture appears elsewhere. In 38:51 the people of the Garden recline there and yad'una fiha, call therein, for abundant fruit and drink: the same verb with the same preposition. In 36:57 they have fruit, and they have whatever they call for, with yadda'un, a related form of the same root. In 37:42 fruits are named in the provision of Allah's sincere servants, who are honoured, and 37:43 places them in gardens of bliss. Fruit and the freedom to ask for it keep company across these passages.",
+            "bn": "একই ছবি অন্য জায়গাতেও আছে। ৩৮:৫১ আয়াতে জান্নাতবাসীরা সেখানে হেলান দিয়ে বসে প্রচুর ফল আর পানীয় চেয়ে পাঠায়, ক্রিয়াটি সেই একই, সঙ্গে সেই একই অব্যয়। ৩৬:৫৭ আয়াতে তাদের জন্য ফল আছে, আর আছে যা কিছু তারা চাইবে। সেখানে শব্দটি ইয়াদ্দাউন, একই ধাতুর আরেক রূপ। ৩৭:৪২ আয়াতে আল্লাহর একনিষ্ঠ বান্দাদের রিজিকের মধ্যে ফলের নাম এসেছে, তারা সম্মানিত। ৩৭:৪৩ আয়াত তাদের রাখে নিয়ামতে ভরা বাগানে। এই অংশগুলোতে ফল আর চেয়ে নেওয়ার স্বাধীনতা পাশাপাশি চলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Kind Their Hearts Want",
+          "bn": "মন যত রকম চায়"
+        },
+        "p": [
+          {
+            "en": "Bi-kulli fakihatin, for every fruit. At-Tabari paraphrases it as every kind of the fruits of the Garden that they desired, bi-kulli naw'in min fawakihi al-jannati ishtahawhu. The Muyassar uses almost the same words. Al-Baghawi adds just one verb after the word fruit: ishtahawha, which they desired. Ibn Kathir speaks of the kinds of fruits, anwa' ath-thimar. Several of these glosses measure every by the people's own desire. It is not a fixed list served to everyone alike. Whatever kind a person wants, he may call for.",
+            "bn": "বিকুল্লি ফাকিহাতিন, প্রত্যেক ফল। তাবারী এর ব্যাখ্যা করেন: জান্নাতের ফলের মধ্যে যে ধরনটি তারা চেয়েছে, বিকুল্লি নাওয়িন মিন ফাওয়াকিহিল জান্নাতি ইশতাহাওহু। মুয়াসসার প্রায় হুবহু একই শব্দ ব্যবহার করেছে। বাগাভী ফল শব্দের পরে শুধু একটি ক্রিয়া যোগ করেন: ইশতাহাওহা, যা তাদের মন চেয়েছে। ইবন কাসীর বলেন ফলের নানা ধরন, আনওয়াউস সিমার। এই ব্যাখ্যাগুলোর কয়েকটিতে প্রত্যেক শব্দের মাপকাঠি মানুষের নিজের চাওয়া। সবার জন্য বাঁধা একই তালিকা এটা নয়। যার যে রকম মন চায়, সে তা-ই চেয়ে নিতে পারে।"
+          },
+          {
+            "en": "As-Sa'di pushes the word further. Every fruit, he writes, includes what has a name in this world and what has no name and no likeness in this world. On his reading the request is not limited to what a person has tasted before. The word fakiha itself, and the report that it covers fruit fresh and dried, is treated in the article on 43:73, where al-Qurtubi discusses it. The commentators on this verse do not pause on the word, so this article moves on to aminin.",
+            "bn": "সা'দী শব্দটিকে আরও দূরে নিয়ে যান। তিনি লেখেন, প্রত্যেক ফলের মধ্যে আছে দুনিয়ায় যার নাম আছে সেটাও, আর যার কোনো নাম নেই, দুনিয়ায় যার কোনো তুলনাও নেই, সেটাও। তাঁর পাঠে চাওয়াটা মানুষের আগে চেখে দেখা জিনিসে আটকে থাকে না। ফাকিহা শব্দের নিজস্ব অর্থ, আর এটি তাজা ও শুকনো দুই রকম ফলই বোঝায় এমন বর্ণনা, ৪৩:৭৩ আয়াতের প্রবন্ধে আলোচিত হয়েছে, যেখানে কুরতুবী শব্দটি নিয়ে কথা বলেছেন। এ আয়াতের তাফসীরকারেরা শব্দটিতে থামেননি, তাই এ প্রবন্ধও চলে যাচ্ছে আমিনীন শব্দে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Safety Said of the Eaters",
+          "bn": "নিরাপত্তা এবার মানুষের গায়ে"
+        },
+        "p": [
+          {
+            "en": "The verse ends on aminin, a plural word describing the people at the moment they call: they ask while safe. In 44:51 the same root gave amin, a singular word laid on the station itself, a secure place. Its article covers the harms the station is secure from. Here the safety moves from the place to the people and goes with them into the act of eating. Once again the verse names the safety without saying what it is from.",
+            "bn": "আয়াতটি শেষ হয় আমিনীন শব্দে। শব্দটি বহুবচন, আর তা বর্ণনা করে মানুষগুলোকে, ঠিক যখন তারা চেয়ে পাঠায়: তারা চায় নিরাপদ অবস্থায়। ৪৪:৫১ আয়াতে একই ধাতু থেকে এসেছিল আমীন, একবচন, যা বসেছিল আবাসের উপর: নিরাপদ স্থান। কোন কোন ক্ষতি থেকে সেই আবাস নিরাপদ, তা ওই আয়াতের প্রবন্ধে আছে। এখানে নিরাপত্তা জায়গা থেকে সরে মানুষের গায়ে এসে বসে, খাওয়ার মুহূর্তেও তাদের সঙ্গে থাকে। এবারও আয়াত নিরাপত্তার কথা বলে, কিন্তু কিসের থেকে, তা বলে না।"
+          },
+          {
+            "en": "The commentators supply the missing from, and they go in two directions. One group ties the safety to the fruit itself: the people are safe from its being cut off, and safe from any harm in eating it. The other, beginning with Qatada, ties it to the person: safe from death, from aches and from the Shaytan. As-Sa'di gathers both into one sentence. The next three sections take these readings one at a time, keeping each in the words of whoever gave it.",
+            "bn": "কিসের থেকে, সেই ফাঁকটা তাফসীরকারেরা পূরণ করেন, আর তাঁরা যান দুই দিকে। একদল নিরাপত্তাকে বাঁধেন ফলের সঙ্গেই: ফল ফুরিয়ে যাওয়া থেকে তারা নিরাপদ, খেয়ে কোনো ক্ষতি হওয়া থেকেও নিরাপদ। অন্য দিকটা শুরু হয় কাতাদা থেকে। তিনি নিরাপত্তাকে বাঁধেন মানুষের সঙ্গে: মৃত্যু, যন্ত্রণা আর শয়তান থেকে নিরাপদ। সা'দী দুটোকে এক বাক্যে জড়ো করেন। পরের তিনটি অংশে এই পাঠগুলো একটা একটা করে আসবে, যার যে কথা, তাঁর ভাষাতেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Season, No Last Basket",
+          "bn": "মৌসুম নেই, শেষ ঝুড়িও নেই"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir: they are safe from its being cut off and from its being withheld, min inqita'ihi wa imtina'ihi; rather it is brought to them whenever they want. His abridged English puts it as the security of knowing that this supply will never come to an end or be withheld. The Muyassar: safe from its being cut off from them and from its passing away. Al-Baghawi: safe from its running out, min nafadiha. As-Sa'di opens his list the same way: safe from its being cut off.",
+            "bn": "ইবন কাসীর বলেন, ফল বন্ধ হয়ে যাওয়া আর আটকে রাখা, দুটো থেকেই তারা নিরাপদ, মিন ইনকিতাইহি ওয়া ইমতিনাইহি। বরং যখনই চায়, তখনই তা তাদের কাছে আনা হয়। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণ কথাটা বলে এভাবে: তারা নিশ্চিত জানে যে এই জোগান কখনো শেষ হবে না, আটকেও রাখা হবে না। মুয়াসসার বলে, ফল তাদের কাছ থেকে বন্ধ হয়ে যাওয়া আর নিঃশেষ হওয়া থেকে তারা নিরাপদ। বাগাভী বলেন, ফুরিয়ে যাওয়া থেকে নিরাপদ, মিন নাফাদিহা। সা'দীও তাঁর তালিকা শুরু করেন এভাবেই: বন্ধ হয়ে যাওয়া থেকে নিরাপদ।"
+          },
+          {
+            "en": "At-Tabari gathers three words: safe from its being cut off from them, from its running out and from its passing away. Then he explains why the word is needed. That fruit, he writes, is not like the fruit of this world that we eat, which runs out on those who have it and is missing at some seasons and times. The clause is ordinary experience: the stall changes with the months, and the last of a fruit is always in sight.",
+            "bn": "তাবারী তিনটি শব্দ জড়ো করেন: ফল বন্ধ হয়ে যাওয়া, ফুরিয়ে যাওয়া আর নিঃশেষ হওয়া থেকে তারা নিরাপদ। তারপর বুঝিয়ে দেন, শব্দটা কেন দরকার। তিনি লেখেন, সেখানকার ফল দুনিয়ার সেই ফলের মতো নয় যা আমরা খাই, যা মালিকের হাত থেকে ফুরিয়ে যায়, কোনো কোনো মৌসুমে আর সময়ে যার দেখাই মেলে না। কথাটা আমাদের রোজকার অভিজ্ঞতা। মাসের সঙ্গে ফলের দোকান বদলায়, আর কোনো ফলের শেষটুকু সবসময় চোখের সামনে।"
+          },
+          {
+            "en": "Read this way, aminin answers a worry of scarcity. The promise is not only plenty, though other verses say that too. It is that nothing there is ever the last of its kind. Nobody at that table eats quickly before it is gone, holds some back for tomorrow or watches another's share. On at-Tabari's reading, a single word removes the counting that comes with every meal here.",
+            "bn": "এভাবে পড়লে আমিনীন জবাব দেয় অভাবের দুশ্চিন্তার। ওয়াদাটা শুধু এই নয় যে অনেক আছে, যদিও অন্য আয়াতে প্রাচুর্যের কথাও আছে। ওয়াদা হলো, শেষ বলে কিছু নেই। সেই দস্তরখানে কাউকে তাড়াতাড়ি খেতে হয় না যাতে ফুরিয়ে যাওয়ার আগে পাওয়া যায়। কালকের জন্য কিছু সরিয়ে রাখতে হয় না, অন্যের ভাগের দিকেও তাকাতে হয় না। তাবারীর পাঠে একটিমাত্র শব্দ দুনিয়ার প্রতিটি খাবারের সঙ্গে লেগে থাকা হিসাবটাকে মুছে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eating With No Aftermath",
+          "bn": "খাওয়ার পরে কোনো ভোগান্তি নেই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's gloss has a second half: safe from the harm it might bring and from anything unpleasant in it, min gha'ilati adhahu wa makruhihi. His contrast covers this too. The fruit of this world, he says, is eaten while people fear the unpleasant outcome of it and the after-effect of its harm. Al-Baghawi joins the two halves in a few words: safe from its running out and from its harm, min nafadiha wa min madarratiha. As-Sa'di: safe from its harm, and safe from everything that spoils, kulli mukaddir.",
+            "bn": "তাবারীর ব্যাখ্যার দ্বিতীয় অংশ: ফল যে ক্ষতি ডেকে আনতে পারে আর তার যা কিছু অপ্রিয়, তা থেকেও তারা নিরাপদ, মিন গাইলাতি আযাহু ওয়া মাকরূহিহি। তাঁর তুলনাটা এখানেও খাটে। তিনি বলেন, দুনিয়ার ফল মানুষ খায় এই ভয় নিয়ে যে পরিণামটা খারাপ হতে পারে, পরে তার ক্ষতি টের পাওয়া যেতে পারে। বাগাভী দুই অংশকে অল্প কথায় জোড়েন: ফুরিয়ে যাওয়া থেকে আর তার ক্ষতি থেকে নিরাপদ, মিন নাফাদিহা ওয়া মিন মাদাররাতিহা। সা'দী বলেন, ক্ষতি থেকে নিরাপদ, আর যা কিছু আনন্দ মাটি করে, কুল্লি মুকাদ্দির, তা থেকেও নিরাপদ।"
+          },
+          {
+            "en": "Al-Qurtubi puts this whole line under wa qila, it is said: safe from the bliss they are in being cut off, or from any harm or unpleasantness reaching them from eating it. In this world appetite and caution sit together at most tables. A stomach cannot take everything, and some foods endanger some bodies. On these readings the caution is lifted and only the appetite is left, with nothing to fear on the far side of a meal.",
+            "bn": "কুরতুবী এই পুরো ব্যাখ্যাটা রাখেন ওয়া কীলা, বলা হয়, এই কথার অধীনে: তারা যে নিয়ামতের মধ্যে আছে তা বন্ধ হয়ে যাওয়া থেকে নিরাপদ, অথবা ফল খেয়ে কোনো কষ্ট বা অপ্রিয় কিছু ঘটা থেকে নিরাপদ। দুনিয়ার বেশির ভাগ দস্তরখানে রুচি আর সাবধানতা পাশাপাশি বসে থাকে। পেট সবকিছু সয় না, আর কোনো কোনো খাবার কোনো কোনো শরীরের জন্য বিপদ। এই পাঠগুলোতে সাবধানতাটা উঠে যায়, থেকে যায় শুধু রুচি। খাওয়ার পরে ভয় পাওয়ার মতো কিছুই আর থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qatada Looks Past the Fruit",
+          "bn": "কাতাদার দৃষ্টি ফল ছাড়িয়ে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, after giving his own reading, reports that Qatada took aminin another way. Through the chain Bishr, from Yazid, from Sa'id, from Qatada: they are safe from death, from aches, al-awsab, and from the Shaytan. Al-Qurtubi gives Qatada's gloss first, then the fruit reading under it is said. Al-Baghawi gives the fruit reading first, then Qatada, with the Shaytan in the plural, ash-shayatin. None of the three argues between the two readings, so they stand here side by side, Qatada's and at-Tabari's, with no ranking.",
+            "bn": "নিজের পাঠ দেওয়ার পর তাবারী জানান, কাতাদা আমিনীনকে অন্যভাবে বুঝেছিলেন। বিশর, ইয়াযীদ ও সাঈদের সূত্রে কাতাদার কথা: তারা নিরাপদ মৃত্যু থেকে, যন্ত্রণা থেকে, আল-আওসাব, আর শয়তান থেকে। কুরতুবী আগে কাতাদার ব্যাখ্যা দেন, তারপর বলা হয় কথাটি জুড়ে ফলের পাঠটি আনেন। বাগাভী আগে আনেন ফলের পাঠ, পরে কাতাদা, আর সেখানে শয়তান শব্দটি বহুবচনে, আশ-শায়াতীন। তিনজনের কেউই দুই পাঠের মধ্যে কোনোটিকে প্রাধান্য দেননি। তাই এখানেও দুটো পাশাপাশি রইল, কাতাদারটা আর তাবারীরটা, কোনো ক্রম ছাড়াই।"
+          },
+          {
+            "en": "As-Sa'di closes his list by joining Qatada's direction to the other: safe from leaving the Garden, and from death. The next verse says the same in its own words. In 44:56 they will not taste death therein except the first death, which at-Tabari explains as the first death they tasted in this world, after which they taste no other. Qatada's gloss reaches forward into that verse. Read with it, the fruit is eaten by people whose life there will not end, so the meal has no last day either.",
+            "bn": "সা'দী তাঁর তালিকা শেষ করেন কাতাদার দিকটাকে অন্যটির সঙ্গে জুড়ে দিয়ে: জান্নাত থেকে বের হওয়া থেকে নিরাপদ, মৃত্যু থেকেও নিরাপদ। পরের আয়াত নিজের ভাষায় একই কথা বলে। ৪৪:৫৬ আয়াতে আছে, সেখানে তারা প্রথম মৃত্যু ছাড়া আর মৃত্যুর স্বাদ নেবে না। তাবারী ব্যাখ্যা করেন, প্রথম মৃত্যু মানে দুনিয়ায় যে মৃত্যুর স্বাদ তারা নিয়েছিল, তারপর আর কোনো মৃত্যু নেই। কাতাদার ব্যাখ্যা সেই আয়াত পর্যন্ত পৌঁছে যায়। দুটো মিলিয়ে পড়লে, যারা ফল খাচ্ছে তাদের সেখানকার জীবন কখনো ফুরাবে না, তাই সেই খাওয়ারও কোনো শেষ দিন নেই।"
+          },
+          {
+            "en": "None of the commentaries consulted here attaches a hadith to this verse. On 44:56 Ibn Kathir cites one that Muslim records in his Sahih, number 2837; it is general, about the people of Paradise, and not attached to this verse. From Abu Sa'id al-Khudri and Abu Hurayra, from the Prophet ﷺ: A caller will call out: It is yours to be healthy and never fall ill, it is yours to live and never die, it is yours to be young and never grow old, and it is yours to enjoy bliss and never be in misery.",
+            "bn": "এখানে দেখা কোনো তাফসীরই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। ৪৪:৫৬ আয়াতের আলোচনায় ইবন কাসীর একটি হাদীস আনেন, যা মুসলিম তাঁর সহীহ গ্রন্থে বর্ণনা করেছেন, নম্বর ২৮৩৭। হাদীসটি জান্নাতবাসীদের নিয়ে সাধারণ কথা, এ আয়াতের সঙ্গে যুক্ত নয়। আবু সাঈদ খুদরী (রাঃ) ও আবু হুরায়রা (রাঃ) থেকে, নবী ﷺ থেকে: একজন ঘোষক ঘোষণা দেবেন: তোমাদের জন্য আছে সুস্থ থাকা, আর কখনো অসুস্থ হবে না। তোমাদের জন্য আছে বেঁচে থাকা, আর কখনো মরবে না। তোমাদের জন্য আছে যৌবন, আর কখনো বুড়ো হবে না। তোমাদের জন্য আছে নিয়ামত ভোগ, আর কখনো দুর্দশায় পড়বে না।"
+          },
+          {
+            "en": "The report then closes: and that is His saying, Mighty and Majestic: and they will be called: that is the Garden, which you have been made to inherit for what you used to do (7:43). Its first two promises, health without illness and life without death, run close to Qatada's gloss, safe from aches and from death. No commentator here uses the hadith to explain aminin, but it speaks of a like safety in the Prophet's ﷺ own words.",
+            "bn": "বর্ণনাটি শেষ হয় এভাবে: আর এটাই মহিমান্বিত আল্লাহর এই বাণী: তাদের ডেকে বলা হবে, এই সেই জান্নাত, তোমরা যা করতে তার বিনিময়ে যার উত্তরাধিকারী তোমাদের করা হয়েছে। কথাগুলো ৭:৪৩ আয়াতের। হাদীসের প্রথম দুটি ওয়াদা, রোগহীন সুস্থতা আর মৃত্যুহীন জীবন, এ আয়াতে কাতাদার ব্যাখ্যার খুব কাছাকাছি: যন্ত্রণা আর মৃত্যু থেকে নিরাপদ। এখানে কোনো তাফসীরকার আমিনীনের ব্যাখ্যায় হাদীসটি কাজে লাগাননি। তবে একই ধরনের নিরাপত্তার কথা এতে শোনা যায় নবী ﷺ-এর নিজের মুখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking Safely, Starting Here",
+          "bn": "নিরাপদে চাওয়া, শুরু এখান থেকেই"
+        },
+        "p": [
+          {
+            "en": "This passage describes two ends, as the text describes them: the sinner fed from zaqqum and the people of taqwa calling for fruit. It licenses nothing against any living person or community. No one may place a neighbour or a whole people at the first table, or claim the second for himself or his group. The next verses call all of this a bounty from your Lord, fadlan min rabbik, in 44:57, and Ibn Kathir explains it as coming from His bounty and His kindness to them.",
+            "bn": "এই অংশ দুটি পরিণতির বর্ণনা দেয়, ঠিক যেভাবে পাঠে আছে: জাক্কুম খাওয়ানো পাপী, আর ফল চেয়ে পাঠানো তাকওয়াওয়ালারা। এর মধ্যে আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার কোনো অনুমতি নেই। কেউ কোনো প্রতিবেশীকে বা গোটা কোনো জাতিকে প্রথম দস্তরখানে বসিয়ে দিতে পারে না। দ্বিতীয় দস্তরখান নিজের বা নিজের দলের নামে লিখে নিতেও পারে না। ৪৪:৫৭ আয়াতে এর সবকিছুকে বলা হয়েছে তোমার রবের অনুগ্রহ, ফাদলান মিন রাব্বিক। ইবন কাসীর ব্যাখ্যা করেন, এটা তাদের প্রতি তাঁর অনুগ্রহ আর দয়া থেকেই আসে।"
+          },
+          {
+            "en": "At-Tabari's contrast describes our tables honestly. We eat while counting what is left, waiting for a season, and wondering what a meal will do to us. The verse does not mock those fears; it promises a place where they end. Until then they can be put to use. The fear of running short can become thanks for what is on the plate today. It can also become a reason to share with someone whose basket is emptier, since every fruit here is still a gift that can end.",
+            "bn": "তাবারীর তুলনাটা আমাদের দস্তরখানের সৎ ছবি। আমরা খাই বাকিটা গুনতে গুনতে, মৌসুমের অপেক্ষায়, আর ভাবতে ভাবতে এই খাবার শরীরে কী করবে। আয়াতটি এই ভয়গুলোকে ঠাট্টা করে না। বরং কথা দেয় এমন এক জায়গার, যেখানে এগুলো শেষ হয়ে যায়। ততদিন ভয়গুলোকে কাজে লাগানো যায়। কম পড়ার ভয় হয়ে উঠতে পারে আজ পাতে যা আছে তার শুকরিয়া। আবার তা হতে পারে এমন কারও সঙ্গে ভাগ করে খাওয়ার কারণ, যার ঝুড়ি আমার চেয়েও খালি। কারণ এখানে প্রতিটি ফল এখনো এমন এক দান, যা ফুরিয়ে যেতে পারে।"
+          },
+          {
+            "en": "The verse ends on aminin, so before any taste is described, the reader learns that the eating will be safe. The passage opened in 44:51 with the muttaqin, and in the abridged English of Ibn Kathir's comment on the passage they are those who fear Allah and are dutiful towards Him in this world. That work begins now, and so does the habit of asking. The people of the Garden ask and are answered at once; a believer can begin today by asking Allah, often and humbly, for what he needs.",
+            "bn": "আয়াতটি শেষ হয় আমিনীন শব্দে। তাই কোনো স্বাদের বর্ণনা শোনার আগেই পাঠক জেনে যায়, খাওয়াটা হবে নিরাপদ। এই অংশ শুরু হয়েছিল ৪৪:৫১ আয়াতে মুত্তাকীদের দিয়ে। পুরো অংশ নিয়ে ইবন কাসীরের মন্তব্যের সংক্ষিপ্ত ইংরেজি সংস্করণে তাদের পরিচয়: যারা দুনিয়াতেই আল্লাহকে ভয় করে আর তাঁর প্রতি কর্তব্য পালন করে। সেই কাজ শুরু হয় এখনই, চাওয়ার অভ্যাসও তাই। জান্নাতবাসীরা চায়, আর তৎক্ষণাৎ সাড়া পায়। মুমিন আজ থেকেই শুরু করতে পারেন: নিজের যা দরকার তা আল্লাহর কাছে চাওয়া, বারবার আর বিনয়ের সঙ্গে।"
+          }
+        ]
+      }
+    ]
+  },
   "44:58": {
     "sections": [
       {

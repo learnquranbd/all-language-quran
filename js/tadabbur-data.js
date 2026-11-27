@@ -38093,6 +38093,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "No rank a person claims in this world shields the head that held it high; humble yourself before Allah now, and seek His refuge from the Fire He has described.",
     "lessonBn": "দুনিয়ায় মানুষ যে মর্যাদারই দাবি করুক, যে মাথা তা নিয়ে উঁচু ছিল, সে দাবি তাকে বাঁচাবে না। তাই এখনই আল্লাহর সামনে বিনয়ী হোন, আর যে আগুনের বর্ণনা তিনি দিয়েছেন, তা থেকে তাঁর আশ্রয় চান।"
+  },
+  "44:55": {
+    "reflectionEn": "A few verses earlier the sinner was fed from the tree of zaqqum. Here the people of taqwa simply call for fruit, any kind they want, and it is there. Then one last word: aminin, safe. The commentators say what from: safe from its running out, safe from any harm in eating it, and some add safe from death and every ache. Think how we eat here. We check what is left, wait for the season, and worry over what a meal might do to us. The verse does not mock that worry; it promises its end. Until then, can I eat what I am given with thanks, and let the worry turn me towards the One who gives?",
+    "reflectionBn": "কয়েক আয়াত আগে পাপীকে খাওয়ানো হয়েছিল জাক্কুম গাছ থেকে। এখানে তাকওয়াওয়ালারা শুধু ফল চেয়ে নেন, যে রকম মন চায়, আর তা হাজির। তারপর শেষ একটি শব্দ: আমিনীন, নিরাপদে। কিসের থেকে নিরাপদ, তাফসীরকারেরা বলে দেন। ফল ফুরিয়ে যাওয়ার ভয় নেই, খেয়ে কোনো ক্ষতির ভয় নেই। কেউ কেউ যোগ করেন মৃত্যু আর সব রকম যন্ত্রণা থেকেও নিরাপদ। আমরা এখানে কীভাবে খাই, একবার ভাবুন। কতটা বাকি আছে দেখি, মৌসুমের অপেক্ষায় থাকি, এক বেলার খাবার শরীরে কী করবে তা নিয়ে দুশ্চিন্তা করি। আয়াতটি এই দুশ্চিন্তাকে ঠাট্টা করে না, বরং কথা দেয় একদিন তা শেষ হবে। ততদিন কি আমি যা পাই তা শুকরিয়ার সঙ্গে খেতে পারি, আর দুশ্চিন্তাটাকে দাতার দিকে ফিরে যাওয়ার উপলক্ষ বানাতে পারি?",
+    "pointsEn": [
+      "When I last sat down to eat, did I thank the One who gave it before I worried about how long it would last?",
+      "Which worry about food, health or running short have I let grow so large that it crowds out gratitude?",
+      "What do I hold on to in this life as if it could never be cut off, when the verse keeps that promise for the Garden alone?",
+      "Is there someone near me who still waits for the season, or for the next meal, whom I could help this week?",
+      "If I believe the Garden's fruit is a gift and not a wage, how should that change the way I ask Allah for anything now?"
+    ],
+    "pointsBn": [
+      "শেষবার খেতে বসে আমি কি আগে দাতার শুকরিয়া আদায় করেছি, নাকি আগে ভেবেছি খাবারটা কতদিন চলবে?",
+      "খাবার, স্বাস্থ্য বা অভাব নিয়ে কোন দুশ্চিন্তাকে আমি এত বড় হতে দিয়েছি যে শুকরিয়ার জায়গাই আর থাকে না?",
+      "এ জীবনের কোন জিনিস আমি এমনভাবে আঁকড়ে ধরি যেন তা কখনো ফুরাবে না? অথচ না ফুরানোর ওয়াদা আয়াতটি রেখেছে শুধু জান্নাতের জন্য।",
+      "আমার আশপাশে কি এমন কেউ আছেন, যিনি এখনো মৌসুমের বা পরের বেলার খাবারের অপেক্ষায় থাকেন? এ সপ্তাহে তাঁর পাশে কি দাঁড়াতে পারি?",
+      "জান্নাতের ফল যদি পারিশ্রমিক না হয়ে দান হয়, তবে আজ আল্লাহর কাছে কিছু চাওয়ার ধরন আমার কীভাবে বদলানো উচিত?"
+    ],
+    "lessonEn": "In the Garden the people of taqwa ask and receive without fear of loss or harm; here, eat what you are given with thanks, and let worry lead you to the Giver.",
+    "lessonBn": "জান্নাতে তাকওয়াওয়ালারা চান আর পান, হারানোর বা ক্ষতির কোনো ভয় ছাড়াই। এখানে যা পান শুকরিয়ার সঙ্গে খান, আর দুশ্চিন্তাকে দাতার দিকে ফেরার পথ বানান।"
   }
 };
 
