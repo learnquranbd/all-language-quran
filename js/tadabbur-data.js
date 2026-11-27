@@ -37893,6 +37893,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "You already know who created you; let that knowledge decide where your worship, hope and reliance go, and let nothing turn you away from Him.",
     "lessonBn": "কে আপনাকে সৃষ্টি করেছেন, তা আপনি জানেন। সেই জানাই ঠিক করে দিক আপনার ইবাদত, আশা আর ভরসা কোথায় যাবে, আর কোনো কিছুই যেন আপনাকে তাঁর থেকে ফিরিয়ে নিতে না পারে।"
+  },
+  "43:66": {
+    "reflectionEn": "The verses before this one are full of argument. A comparison is thrown out only to win a point, and parties split over who 'Isa (AS) was, each sure of its own words. Then the verse steps back and asks one quiet question: what are they waiting for, apart from the Hour, coming suddenly while they do not perceive? Argument can feel like time well spent, as if a matter stays open for as long as we keep talking about it. It does not. The Hour will not wait for a debate to finish, or for me to make up my mind. Some questions are settled only by acting on what is already clear. What am I putting off until a better moment that may never be given?",
+    "reflectionBn": "এ আয়াতের আগের আয়াতগুলো তর্কে ভরা। শুধু কথায় জেতার জন্য একটা তুলনা ছুড়ে দেওয়া হয়। ঈসা (আঃ) আসলে কে, তা নিয়ে লোকেরা নানা দলে ভাগ হয়ে যায়, আর প্রত্যেক দল নিজের কথাকেই খাঁটি ভাবে। তারপর আয়াতটি একটু দূরে দাঁড়িয়ে শান্ত গলায় একটাই প্রশ্ন করে: তারা কিসের অপেক্ষায় আছে? কিয়ামতের অপেক্ষা ছাড়া আর কী, যা হঠাৎ এসে পড়বে আর তারা টেরও পাবে না? তর্ক করতে করতে মনে হয় সময়টা কাজে লাগছে, যেন যতক্ষণ কথা চলছে, ততক্ষণ ব্যাপারটা খোলা আছে। আসলে তা নয়। কিয়ামত কোনো বিতর্ক শেষ হওয়ার জন্য বসে থাকবে না, আমার মন ঠিক করার জন্যও না। কিছু প্রশ্নের মীমাংসা হয় কেবল যা স্পষ্ট তার উপর আমল করে। আরও ভালো কোনো সময়ের আশায় আমি কী ফেলে রাখছি, যে সময় হয়তো আর পাওয়াই যাবে না?",
+    "pointsEn": [
+      "Which question of faith have I kept open for years, talking around it instead of acting on what I already know?",
+      "When I argue about religion, am I looking for the truth, or only for the win?",
+      "If the Hour came today, which unfinished matter between me and Allah would I most regret leaving undone?",
+      "What change do I already know I must make, and what exactly am I still waiting for before I make it?",
+      "Do the friendships I keep help me get ready for that Day, or help me forget it?"
+    ],
+    "pointsBn": [
+      "দ্বীনের কোন প্রশ্নটা আমি বছরের পর বছর খোলা রেখে দিয়েছি? যা জানি তার উপর আমল না করে শুধু চারপাশ ঘুরে কথা বলে যাচ্ছি?",
+      "দ্বীন নিয়ে তর্ক করার সময় আমি কি সত্যটা খুঁজি, নাকি শুধু জিততে চাই?",
+      "কিয়ামত যদি আজই এসে যায়, আল্লাহর সঙ্গে আমার কোন অসমাপ্ত হিসাবটা ফেলে রাখার আফসোস সবচেয়ে বেশি হবে?",
+      "কোন পরিবর্তনটা আনতে হবে তা আমি আগে থেকেই জানি। তাহলে সেটা করার আগে আমি ঠিক কিসের অপেক্ষা করছি?",
+      "যাদের সঙ্গে আমার বন্ধুত্ব, তারা কি আমাকে সেই দিনের জন্য তৈরি হতে সাহায্য করে, নাকি দিনটাকে ভুলিয়ে রাখে?"
+    ],
+    "lessonEn": "Do not keep arguing or postponing as if time were endless; the Hour comes without notice, so act today on the truth you already know.",
+    "lessonBn": "সময় যেন অফুরন্ত, এমন ভেবে তর্ক আর গড়িমসি চালিয়ে যাবেন না। কিয়ামত আসবে কোনো আগাম খবর ছাড়াই, তাই যে সত্য আপনি ইতিমধ্যে জানেন, আজই তার উপর আমল করুন।"
   }
 };
 

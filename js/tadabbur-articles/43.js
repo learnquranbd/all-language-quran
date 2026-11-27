@@ -3515,6 +3515,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:66": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question After the Woe",
+          "bn": "দুর্ভোগের ঘোষণার পর প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Hal yanzuruna illa as-sa'ata an ta'tiyahum baghtatan wa-hum la yash'urun: are they waiting for anything but the Hour, that it should come upon them suddenly while they do not perceive? The verse closes the passage on 'Isa (AS) that opens at 43:57. That passage has already said he is a sign of the Hour, so do not doubt it (43:61), and it has just ended on woe for those who did wrong, from the punishment of a painful Day (43:65). Now the Hour itself is named.",
+            "bn": "হাল ইয়ানযুরূনা ইল্লাস সা'আতা আন তা'তিয়াহুম বাগতাতাও ওয়া হুম লা ইয়াশ'উরূন: তারা কি কিয়ামত ছাড়া আর কিছুর অপেক্ষায় আছে, যা তাদের উপর হঠাৎ এসে পড়বে আর তারা টেরও পাবে না? ঈসা (আঃ)-কে নিয়ে যে আলোচনা ৪৩:৫৭ থেকে শুরু, এ আয়াতে এসে তা শেষ হয়। ওই আলোচনা আগেই জানিয়েছে, তিনি কিয়ামতের নিদর্শন, অতএব তাতে সন্দেহ করো না (৪৩:৬১)। ঠিক আগের আয়াতটি থেমেছে জালিমদের দুর্ভোগের কথায়, যন্ত্রণাদায়ক এক দিনের শাস্তি থেকে (৪৩:৬৫)। এবার সরাসরি কিয়ামতের নাম এল।"
+          },
+          {
+            "en": "The earlier verses of the passage carry their own reflections, and this article does not retell them. What matters here is the turn. After a quarrel over who 'Isa (AS) was, after his own words, my Lord and your Lord (43:64), and after the parties split, the verse stops describing and starts asking. It does not argue the case again. It asks the people who are still arguing what, in the end, they are actually waiting for.",
+            "bn": "আলোচনার আগের আয়াতগুলোর নিজস্ব ভাবনা আলাদা করে লেখা আছে, এখানে সেগুলো আর বলা হবে না। এখানে দেখার বিষয় হলো মোড়টা। ঈসা (আঃ) আসলে কে, তা নিয়ে ঝগড়া হয়েছে। তিনি নিজে বলেছেন, আল্লাহ আমার রব, তোমাদেরও রব (৪৩:৬৪)। তারপর দলগুলো ভাগ হয়ে গেছে। এবার আয়াতটি বর্ণনা থামিয়ে প্রশ্ন করে। মামলাটা নতুন করে আর লড়ে না। যারা এখনো তর্ক চালিয়ে যাচ্ছে, তাদের শুধু জিজ্ঞেস করে: শেষ পর্যন্ত তোমরা আসলে কিসের অপেক্ষায় আছ?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Waiting, Put as a Question",
+          "bn": "প্রশ্নের আকারে অপেক্ষা"
+        },
+        "p": [
+          {
+            "en": "The commentators read yanzuruna in the sense of waiting. Ibn Kathir and the Muyassar paraphrase it with hal yantaziru, do they wait, and keep the question; at-Tabari keeps the verse's own verb and the question with it. Al-Qurtubi and as-Sa'di turn it into a plain negative. Al-Qurtubi writes la yantazirun, they wait for nothing but the Hour. As-Sa'di writes ma yantaziru al-mukadhdhibun, the deniers wait for nothing else, then adds a second phrasing, wa hal yatawaqqa'un, and do they expect anything else?",
+            "bn": "তাফসীরকারেরা ইয়ানযুরূনা শব্দটি পড়েন অপেক্ষা করার অর্থে। ইবন কাসীর আর মুয়াসসার প্রশ্নের রূপ রেখেই লেখেন হাল ইয়ানতাযিরু, তারা কি অপেক্ষা করছে? তাবারী আয়াতের নিজের ক্রিয়াটাই রাখেন, সঙ্গে প্রশ্নটাও। কুরতুবী আর সা'দী প্রশ্নকে সরাসরি না-বাচক বাক্যে বদলে দেন। কুরতুবী লেখেন লা ইয়ানতাযিরূন: কিয়ামত ছাড়া তারা আর কিছুর অপেক্ষা করে না। সা'দী লেখেন মা ইয়ানতাযিরুল মুকাযযিবূন: অস্বীকারকারীরা আর কিছুর অপেক্ষায় নেই। তারপর আরেকভাবে বলেন, ওয়া হাল ইয়াতাওয়াক্কা'ঊন: তারা কি আর কিছুর আশা রাখে?"
+          },
+          {
+            "en": "Al-Baghawi explains in what sense people who did not believe in the Hour can be said to wait for it at all. His answer is short: it will come to them la mahala, without fail, fa-ka'annahum yantazirunaha, so it is as though they were waiting for it. On his reading the verb describes where their days are heading, not what they had in mind. They expected nothing of the kind, and yet the arrival ahead of them was the Hour.",
+            "bn": "যারা কিয়ামতেই বিশ্বাস করত না, তাদের সম্পর্কে কী অর্থে বলা যায় যে তারা এর অপেক্ষা করছে? বাগাভী অল্প কথায় তার ব্যাখ্যা দেন। কিয়ামত তাদের কাছে আসবে লা মাহালা, অবধারিতভাবে। ফা-কাআন্নাহুম ইয়ানতাযিরূনাহা: তাই যেন তারা এরই অপেক্ষা করছে। তাঁর ব্যাখ্যায় ক্রিয়াটি তাদের মনের কথা বলছে না, বলছে তাদের দিনগুলো কোন দিকে গড়াচ্ছে। এমন কিছুর আশা তারা মোটেই করেনি। তবু সামনে যা এগিয়ে আসছিল, তা কিয়ামত।"
+          },
+          {
+            "en": "Ibn Kathir grounds the same point in his own paraphrase: fa-innaha ka'inatun la mahala wa waqi'a, for it is bound to be and it will happen, while these people are ghafiluna 'anha, heedless of it, ghayru musta'iddin, unprepared. Read side by side, the two commentators show the shape of the verse. The waiting lies in the facts more than in the people. Their days run toward the Hour whether they look ahead or not, and the question asks them to notice it.",
+            "bn": "ইবন কাসীর নিজের ব্যাখ্যায় একই কথার ভিত গেঁথে দেন: ফা-ইন্নাহা কাইনাতুন লা মাহালা ওয়া ওয়াকি'আ, কিয়ামত হবেই, ঘটবেই। অথচ এই লোকেরা গাফিলূনা আনহা, তা থেকে উদাসীন, গাইরু মুসতা'ইদ্দীন, প্রস্তুতিহীন। দুই তাফসীরকারের কথা পাশাপাশি রাখলে আয়াতের ছবিটা পরিষ্কার হয়। অপেক্ষাটা মানুষগুলোর মনে যতটা, তার চেয়ে বেশি বাস্তবতায়। তারা সামনে তাকাক বা না তাকাক, তাদের দিনগুলো কিয়ামতের দিকেই ছুটছে। প্রশ্নটা চায়, তারা যেন অন্তত এটুকু খেয়াল করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is Doing the Waiting",
+          "bn": "অপেক্ষায় আছে আসলে কারা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari names them from the verses just before: hadhihi al-ahzab al-mukhtalifun fi 'Isa ibn Maryam, al-qa'iluna fihi al-batila min al-qawl, these parties who differed over 'Isa son of Maryam, saying what is false about him. The Muyassar uses nearly the same words, the parties who differed concerning 'Isa son of Maryam. Al-Qurtubi opens the same way, yuridu al-ahzab, He means the parties, which ties the question back to the camps that formed in 43:65.",
+            "bn": "তাবারী তাদের পরিচয় নেন ঠিক আগের আয়াতগুলো থেকে: হাযিহিল আহযাবুল মুখতালিফূনা ফী ঈসাবনি মারইয়াম, আল-কাইলূনা ফীহিল বাতিলা মিনাল কাওল। অর্থাৎ মারইয়ামের পুত্র ঈসাকে নিয়ে যে দলগুলো মতভেদ করেছে, তাঁর সম্পর্কে বাতিল কথা বলেছে, তারাই। মুয়াসসারের ভাষাও প্রায় এক রকম: মারইয়ামের পুত্র ঈসার ব্যাপারে মতভেদকারী দলগুলো। কুরতুবীও শুরু করেন একইভাবে, ইউরীদুল আহযাব, অর্থাৎ এখানে দলগুলোর কথাই বলা হচ্ছে। এতে প্রশ্নটা গিয়ে জুড়ে যায় ৪৩:৬৫ আয়াতে গড়ে ওঠা শিবিরগুলোর সঙ্গে।"
+          },
+          {
+            "en": "Al-Qurtubi then gives a second reading, introduced with wa qila, and it is said. On it the meaning is that the idolaters among the Arabs wait for nothing but the Hour, and al-ahzab are those who banded together against the Prophet ﷺ and called him a liar. This reading, he says, connects with ma darabuhu laka illa jadalan in 43:58: they did not put the comparison to you except for argument. The waiting then belongs to the people who raised that argument.",
+            "bn": "এরপর কুরতুবী আরেকটি ব্যাখ্যা আনেন ওয়া কীলা, অর্থাৎ 'বলা হয়েছে' বলে। সে অনুযায়ী অর্থ দাঁড়ায়: আরবের মুশরিকরা কিয়ামত ছাড়া আর কিছুর অপেক্ষায় নেই। আর আহযাব তখন তারা, যারা নবী ﷺ-এর বিরুদ্ধে জোট বেঁধেছিল এবং তাঁকে মিথ্যাবাদী বলেছিল। কুরতুবী বলেন, এ ব্যাখ্যা গিয়ে মেলে ৪৩:৫৮ আয়াতের মা দারাবূহু লাকা ইল্লা জাদালা কথার সঙ্গে: তারা কেবল তর্কের জন্যই তোমার সামনে এ তুলনা টেনেছে। তাহলে অপেক্ষার কথাটা তাদেরই, যারা ওই তর্ক তুলেছিল।"
+          },
+          {
+            "en": "Ibn Kathir speaks of al-mushrikun al-mukadhdhibun lir-rusul, the idolaters who deny the messengers, and as-Sa'di of al-mukadhdhibun, the deniers, without narrowing further. The readings differ in whom they put in front, and al-Qurtubi sets his two side by side without choosing; this article leaves the difference where the commentators leave it. What they share is plain enough: the verse speaks of people who had the truth set before them and turned away from it.",
+            "bn": "ইবন কাসীর বলেন আল-মুশরিকূনাল মুকাযযিবূনা লির-রুসুল, রাসূলদের অস্বীকারকারী মুশরিকদের কথা। সা'দী বলেন শুধু আল-মুকাযযিবূন, অস্বীকারকারীরা, এর বেশি সীমা টানেন না। কাকে সামনে রাখা হবে, তা নিয়ে ব্যাখ্যাগুলো আলাদা। কুরতুবী নিজেও তাঁর দুই ব্যাখ্যা পাশাপাশি রেখেছেন, কোনোটিকে বেছে নেননি। তাফসীরকারেরা মতভেদটা যেখানে রেখেছেন, এ লেখাও সেখানেই রাখছে। তবে সবার কথায় মিল আছে একটা জায়গায়: আয়াতটি এমন লোকদের কথা বলে, যাদের সামনে সত্য রাখা হয়েছিল আর তারা মুখ ফিরিয়ে নিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faj'atan, and Not Noticing",
+          "bn": "ফাজআতান, আর খেয়াল না করা"
+        },
+        "p": [
+          {
+            "en": "An ta'tiyahum baghtatan: that it come upon them suddenly. At-Tabari, al-Qurtubi, al-Baghawi and the Muyassar all gloss baghtatan with the same word, faj'atan, all at once. At-Tabari also says what the Hour is, as-sa'a allati fiha taqumu al-qiyama, the Hour in which the Resurrection takes place, and al-Qurtubi glosses as-sa'a simply as al-qiyama. The grammar of baghtatan, and the pair of words that ends the verse, are weighed at length on 12:107 and 26:202, and are not repeated here.",
+            "bn": "আন তা'তিয়াহুম বাগতাতান: যেন তা তাদের উপর হঠাৎ এসে পড়ে। তাবারী, কুরতুবী, বাগাভী আর মুয়াসসার, সবাই বাগতাতান শব্দের ব্যাখ্যায় একই শব্দ আনেন: ফাজআতান, আচমকা। তাবারী সা'আর পরিচয়ও দেন: আস-সা'আতুল্লাতী ফীহা তাকূমুল কিয়ামা, সেই মুহূর্ত, যখন কিয়ামত সংঘটিত হবে। কুরতুবী সা'আর অর্থ লেখেন সোজাসুজি আল-কিয়ামা। বাগতাতান শব্দের ব্যাকরণ আর আয়াতের শেষের শব্দজোড়া নিয়ে বিস্তারিত আলোচনা আছে ১২:১০৭ ও ২৬:২০২ আয়াতে। এখানে তা আর বলা হচ্ছে না।"
+          },
+          {
+            "en": "On wa-hum la yash'urun, while they do not perceive, the glosses differ in what they stress. At-Tabari writes wa hum la ya'lamuna bi-maji'iha: they do not know of its coming. The Muyassar pairs two verbs, la yash'uruna wa la yaftanun, they do not perceive and they do not notice, and al-Qurtubi gives the second of these on its own, yaftanun. That second verb moves the weight from knowing a date to noticing at all: whether anything in them registers what is approaching.",
+            "bn": "ওয়া হুম লা ইয়াশ'উরূন, আর তারা টেরও পাবে না। এ অংশের ব্যাখ্যায় তাফসীরগুলোর জোর পড়ে ভিন্ন ভিন্ন জায়গায়। তাবারী লেখেন ওয়া হুম লা ইয়া'লামূনা বি-মাজীইহা: তা যে আসছে, তারা জানে না। মুয়াসসার দুটি ক্রিয়া পাশাপাশি রাখেন: লা ইয়াশ'উরূনা ওয়া লা ইয়াফতানূন, তারা টের পায় না, খেয়ালও করে না। কুরতুবী শুধু দ্বিতীয়টি দেন, ইয়াফতানূন। এই দ্বিতীয় ক্রিয়ায় এসে প্রশ্নটা আর তারিখ জানা না-জানার থাকে না। প্রশ্ন হয়ে দাঁড়ায়, যা এগিয়ে আসছে, ভেতরের কিছু কি আদৌ তা খেয়াল করছে?"
+          },
+          {
+            "en": "Ibn Kathir joins the clause to the people's state before it. They are heedless of it and unprepared, fa-idha ja'at innama taji'u wa hum la yash'uruna biha: so when it comes, it comes while they do not perceive it. In his paraphrase the not-perceiving at the end follows from the heedlessness before. The verse does not fault anyone for not knowing the Hour's date, which 43:85 keeps with Allah; what it describes is a life lived as if the Hour were not coming.",
+            "bn": "ইবন কাসীর এই অংশকে জুড়ে দেন তার আগে মানুষগুলোর অবস্থার সঙ্গে। তারা উদাসীন, প্রস্তুতিহীন। ফা-ইযা জাআত ইন্নামা তাজীউ ওয়া হুম লা ইয়াশ'উরূনা বিহা: তাই যখন আসে, তখন তারা টের না পাওয়া অবস্থাতেই আসে। তাঁর ব্যাখ্যায় শেষের এই টের না পাওয়া আগের উদাসীনতারই ফল। কিয়ামতের তারিখ না জানার জন্য আয়াত কাউকে দোষ দেয় না। সে জ্ঞান তো আল্লাহর কাছেই, ৪৩:৮৫ আয়াত তা বলে দিয়েছে। আয়াত যা তুলে ধরে, তা হলো এমন জীবন, যেন কিয়ামত আসছেই না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Regret That Arrives Late",
+          "bn": "দেরিতে আসা অনুতাপ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir carries the scene a step past the verse's last word: fa-hina'idhin yandamuna kulla an-nadam, then they will regret with the whole of regret, haythu la yanfa'uhum wa la yadfa'u 'anhum, when it neither benefits them nor wards anything off. The English abridgement puts it as the utmost regret, when regret will not benefit them in the slightest. The regret does come. It simply comes after the time in which it could have changed anything.",
+            "bn": "ইবন কাসীর দৃশ্যটাকে আয়াতের শেষ শব্দ পেরিয়ে আরেকটু সামনে নিয়ে যান। ফা-হীনাইযিন ইয়ানদামূনা কুল্লান নাদাম: তখন তারা পুরোপুরি অনুতপ্ত হবে। হাইসু লা ইয়ানফাউহুম ওয়া লা ইয়াদফাউ আনহুম: এমন সময়ে, যখন সে অনুতাপ তাদের কোনো উপকারে আসবে না, কিছু ঠেকাতেও পারবে না। ইংরেজি সংক্ষিপ্ত সংস্করণে আছে, চরম অনুতাপ, অথচ তাতে তাদের বিন্দুমাত্র লাভ হবে না। অনুতাপ ঠিকই আসে। শুধু আসে তখন, যখন তা দিয়ে আর কিছু বদলানোর সময় নেই।"
+          },
+          {
+            "en": "As-Sa'di stops at the threshold with an Arabic turn of phrase: fa-idha ja'at, fa-la tas'al 'an ahwali man kadhdhaba biha wa-stahza'a bi-man ja'a biha. When it comes, do not ask about the state of those who denied it and mocked whoever brought it. The words do not ask leave that state untold, as something past describing. He also names two faults together, denying the Hour and mocking whoever brought word of it, and the passage before has shown both.",
+            "bn": "সা'দী দোরগোড়ায় এসে থেমে যান আরবি ভাষার এক বাকরীতি দিয়ে: ফা-ইযা জাআত, ফালা তাসআল আন আহওয়ালি মান কাযযাবা বিহা ওয়াসতাহযাআ বিমান জাআ বিহা। যখন তা আসবে, তখন যারা একে অস্বীকার করেছিল আর যিনি এর খবর এনেছিলেন তাঁকে নিয়ে ঠাট্টা করেছিল, তাদের অবস্থা জিজ্ঞেস করো না। জিজ্ঞেস করো না, এ কথায় সে অবস্থা আর খুলে বলা হয় না, যেন তা বর্ণনার বাইরে। সঙ্গে তিনি দুই দোষের নাম একসঙ্গে নেন: কিয়ামতকে অস্বীকার, আর যিনি এর খবর এনেছেন তাঁকে বিদ্রূপ। আগের আয়াতগুলোতে দুটিই দেখা গেছে।"
+          },
+          {
+            "en": "The Qur'an gives that regret words in other places. In 6:31 those who denied the meeting with Allah, when the Hour comes upon them baghtatan, say ya hasratana, alas for our regret over what we neglected concerning it. In 39:55 and 39:56 the call to follow the best of what was revealed comes before the punishment arrives suddenly while you do not perceive, lest a soul say: alas for my regret over what I neglected in regard to Allah.",
+            "bn": "অনুতাপের সেই কথা কুরআন অন্য জায়গায় মুখে তুলে দিয়েছে। ৬:৩১ আয়াতে যারা আল্লাহর সাক্ষাৎকে মিথ্যা বলেছিল, কিয়ামত যখন তাদের উপর বাগতাতান, হঠাৎ এসে পড়বে, তারা বলবে ইয়া হাসরাতানা: হায় আফসোস, এ ব্যাপারে আমরা কত অবহেলা করেছি! আর ৩৯:৫৫ ও ৩৯:৫৬ আয়াতে ডাক আসে, যা নাযিল হয়েছে তার উত্তমটির অনুসরণ করো, শাস্তি হঠাৎ এসে পড়ার আগেই, যখন তোমরা টেরও পাবে না। নইলে কেউ বলবে: হায় আফসোস, আল্লাহর ব্যাপারে আমি কত অবহেলা করেছি!"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Its Twin in Surat Muhammad",
+          "bn": "সূরা মুহাম্মাদে এর জুড়ি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi ends his short note with wa qad mada fi ghayri mawdi': this has come before in more than a single place, a reminder that the verse's words recur. The closest is 47:18: fa-hal yanzuruna illa as-sa'ata an ta'tiyahum baghtatan, then are they waiting for anything but the Hour, that it come upon them suddenly? Apart from its opening fa, the wording matches. Where 43:66 ends on wa-hum la yash'urun, though, 47:18 goes on: its signs have already come, so how will their remembrance help them once it has come?",
+            "bn": "কুরতুবী তাঁর ছোট্ট আলোচনা শেষ করেন এ কথায়: ওয়া কাদ মাদা ফী গাইরি মাওদি', এ বিষয় আগেও একাধিক জায়গায় এসেছে। অর্থাৎ আয়াতের এই শব্দগুলো কুরআনে বারবার ফিরে আসে। সবচেয়ে কাছের জুড়ি ৪৭:১৮: ফাহাল ইয়ানযুরূনা ইল্লাস সা'আতা আন তা'তিয়াহুম বাগতাতান, তারা কি তবে কিয়ামত ছাড়া আর কিছুর অপেক্ষায় আছে, যা তাদের উপর হঠাৎ এসে পড়বে? শুরুর ফা অক্ষরটুকু বাদে শব্দগুলো হুবহু এক। তবে ৪৩:৬৬ যেখানে থামে ওয়া হুম লা ইয়াশ'উরূন বলে, ৪৭:১৮ সেখানে আরও এগোয়: এর আলামতগুলো তো এসেই গেছে, তা এসে পড়লে তাদের উপদেশ গ্রহণ কী কাজে আসবে?"
+          },
+          {
+            "en": "The two endings sit well together. One names the people's state, unaware; the other names what should have woken them, signs already arrived, and the uselessness of remembering once the Hour is there. In this sura such a sign stands in the passage itself: 43:61 has just said of 'Isa (AS) that he is a knowledge of the Hour, so do not doubt it. The question of 43:66 comes after that sign has been given, not before.",
+            "bn": "দুই সমাপ্তি পাশাপাশি রাখলে ভালো মেলে। একটি বলে মানুষগুলোর অবস্থা: তারা বেখবর। অন্যটি বলে, কী তাদের জাগিয়ে দেওয়ার কথা ছিল: আলামত তো এসে গেছে, আর কিয়ামত এসে পড়লে তখন উপদেশ নিয়ে কোনো লাভ নেই। এই সূরায় তেমন এক আলামত আলোচনার ভেতরেই আছে। ঠিক আগে ৪৩:৬১ আয়াত ঈসা (আঃ) সম্পর্কে বলেছে, তিনি কিয়ামতের জ্ঞানের উপায়, অতএব তাতে সন্দেহ করো না। ৪৩:৬৬ আয়াতের প্রশ্ন তাই আসে আলামত দেওয়ার পরে, আগে নয়।"
+          },
+          {
+            "en": "Two more verses mark the limits. In 7:187 the Prophet ﷺ is told to say that the knowledge of the Hour is only with his Lord, and that it will not come upon you except baghtatan; 43:85, later in this sura, says that with Him is the knowledge of the Hour. Suddenness, then, is not a threat kept for the careless alone. It is how the Hour comes for everyone, and what differs from person to person is whether it finds them ready.",
+            "bn": "আরও দুটি আয়াত সীমারেখা টেনে দেয়। ৭:১৮৭ আয়াতে নবী ﷺ-কে বলতে বলা হয়েছে, কিয়ামতের জ্ঞান কেবল আমার রবের কাছে, আর তা তোমাদের উপর আসবে বাগতাতান, হঠাৎই। এই সূরারই পরে ৪৩:৮৫ আয়াত বলে, কিয়ামতের জ্ঞান তাঁরই কাছে। তাহলে আকস্মিকতা শুধু অসতর্কদের জন্য তোলা কোনো হুমকি নয়। কিয়ামত সবার কাছেই এভাবে আসবে। মানুষে মানুষে তফাত শুধু এখানে, তা এসে কাকে প্রস্তুত পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Verdict Placed in Our Hands",
+          "bn": "রায় আমাদের হাতে নয়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it, and none gives an occasion of revelation; the verse is read from its place in the passage. That place already tells us whom it describes, in the commentators' words: the parties who differed over 'Isa (AS) and said what was false about him, or, on al-Qurtubi's second reading, the Arab idolaters who banded against the Prophet ﷺ and argued only to argue.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি, শানে নুযূলও বলেনি। আয়াতটি পড়া হয় আলোচনার ভেতরে তার অবস্থান থেকে। আর সেই অবস্থানই বলে দেয়, তাফসীরকারদের ভাষায় এখানে কাদের কথা। হয় সেই দলগুলো, যারা ঈসা (আঃ)-কে নিয়ে মতভেদ করেছিল আর তাঁর সম্পর্কে বাতিল কথা বলেছিল। নয়তো কুরতুবীর দ্বিতীয় ব্যাখ্যা অনুযায়ী আরবের সেই মুশরিকরা, যারা নবী ﷺ-এর বিরুদ্ধে জোট বেঁধেছিল আর শুধু তর্কের খাতিরে তর্ক করেছিল।"
+          },
+          {
+            "en": "That needs to be said plainly. The verse describes what its text describes: people in this passage who were given clear proofs and split over them, or who denied the messenger sent to them. It licenses nothing against any living person or community, including those who hold a different belief about 'Isa (AS) today. No reader is given knowledge of who will be found heedless when the Hour comes, and no reader is made a judge of it. The question is put to the reader first.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি ঠিক ততটুকুই বর্ণনা করে, যতটুকু এর ভাষায় আছে: এই আলোচনার সেই লোকেরা, যাদের সামনে স্পষ্ট প্রমাণ এসেছিল আর তারা তা নিয়ে ভাগ হয়ে গিয়েছিল, কিংবা যারা তাদের কাছে পাঠানো রাসূলকে অস্বীকার করেছিল। বর্তমানের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজ যারা ঈসা (আঃ) সম্পর্কে ভিন্ন বিশ্বাস রাখে, তারাও এর বাইরে নয়। কিয়ামত এলে কাকে উদাসীন অবস্থায় পাওয়া যাবে, তা কোনো পাঠককে জানানো হয়নি, কাউকে তার বিচারকও বানানো হয়নি। প্রশ্নটা সবার আগে পাঠকের নিজের দিকেই আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Friendships Turn",
+          "bn": "বন্ধুত্ব শত্রুতায় বদলানোর আগে"
+        },
+        "p": [
+          {
+            "en": "The next verse turns at once to what the Hour does to bonds: close friends that Day will be enemies to each other, except the righteous (43:67). Ibn Kathir, in the abridged English that treats 43:66 to 43:73 together, reads it as every friendship held for a purpose other than Allah turning to enmity, except what was for His sake, and sets beside it the words of Ibrahim (AS) in 29:25. That verse deserves its own reflection; here it is enough to point the way.",
+            "bn": "পরের আয়াতই সঙ্গে সঙ্গে দেখায়, কিয়ামত সম্পর্কগুলোর কী দশা করে: সেদিন ঘনিষ্ঠ বন্ধুরা একে অপরের শত্রু হয়ে যাবে, মুত্তাকীরা ছাড়া (৪৩:৬৭)। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৪৩:৬৬ থেকে ৪৩:৭৩ পর্যন্ত আয়াত একসঙ্গে আলোচনা করে। সেখানে এর ব্যাখ্যা: আল্লাহ ছাড়া অন্য কোনো উদ্দেশ্যে গড়া প্রতিটি বন্ধুত্ব সেদিন শত্রুতায় বদলে যাবে, টিকে থাকবে শুধু আল্লাহর জন্য গড়া বন্ধুত্ব। পাশে তিনি রাখেন ২৯:২৫ আয়াতে ইবরাহীম (আঃ)-এর কথা। সে আয়াতের ভাবনা আলাদা প্রাপ্য, এখানে শুধু পথটা দেখিয়ে রাখা হলো।"
+          },
+          {
+            "en": "Read inward, the verse asks a question with no one else in it: what am I waiting for? Not the date of the Hour, which no one is given, but the moment when I will finally act on what I already accept. Ibn Kathir's two words for the people in view, heedless and unprepared, name the opposite of what the verse hopes to find: attention, and a readiness made of deeds. Neither of them needs to wait for anything.",
+            "bn": "নিজের দিকে ফিরিয়ে পড়লে আয়াতটি এমন এক প্রশ্ন করে, যেখানে আর কেউ নেই, শুধু আমি: আমি কিসের অপেক্ষায় আছি? কিয়ামতের তারিখের নয়, সে তো কাউকে জানানো হয়নি। অপেক্ষা সেই মুহূর্তের, যখন যা আমি আগেই মেনে নিয়েছি, অবশেষে তার উপর আমল শুরু করব। এখানে যাদের কথা, তাদের জন্য ইবন কাসীর দুটি শব্দ ব্যবহার করেছেন: উদাসীন আর প্রস্তুতিহীন। আয়াত যা দেখতে চায়, তা ঠিক এর উল্টো: সজাগ মন, আর আমল দিয়ে গড়া প্রস্তুতি। এ দুটির কোনোটির জন্যই কোনো কিছুর অপেক্ষা লাগে না।"
+          },
+          {
+            "en": "The passage around the verse also shows what that readiness looks like. It is the argument dropped once it serves only to win, the bond kept for Allah's sake, and the belief and submission that 43:69 names in those who are welcomed. None of these depends on knowing when the Hour will come. Each depends on a decision that can be made today, while there is still time to perceive.",
+            "bn": "আয়াতের চারপাশের আলোচনা সেই প্রস্তুতির চেহারাও দেখিয়ে দেয়। যে তর্ক শুধু জেতার জন্য চলছে, তা ছেড়ে দেওয়া। আল্লাহর জন্য সম্পর্ক টিকিয়ে রাখা। আর ৪৩:৬৯ আয়াতে যাদের স্বাগত জানানো হয়েছে, তাদের ঈমান আর আত্মসমর্পণ। এর কোনোটিই কিয়ামত কবে আসবে তা জানার উপর নির্ভর করে না। প্রতিটি নির্ভর করে এমন এক সিদ্ধান্তের উপর, যা আজই নেওয়া যায়, যতক্ষণ টের পাওয়ার সময় এখনো হাতে আছে।"
+          }
+        ]
+      }
+    ]
+  },
   "43:70": {
     "sections": [
       {
