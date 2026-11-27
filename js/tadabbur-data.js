@@ -34739,6 +34739,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Which side of the dispute about your Lord you stand on is settled by faith and deeds, not by winning arguments, so live the claim you make.",
     "lessonBn": "রবকে নিয়ে বিবাদে আপনি কোন পক্ষে, তা ঠিক হয় ঈমান আর আমল দিয়ে, তর্কে জেতা দিয়ে নয়। তাই যে দাবি করেন, সেই অনুযায়ী জীবন যাপন করুন।"
+  },
+  "22:31": {
+    "reflectionEn": "Picture a body falling from a great height. Nothing below can catch it. Birds take it in midair, or a wind carries it off to a place too far for anyone to reach. That is the picture the verse paints of a person who sets a partner beside Allah. It is not someone who lost a little; it is someone who lost the very ground he stood on. The verse opens with the other path: people turned to Allah alone, leaning away from every rival. Faith is the height, and the fall begins when the grip loosens. What in my own life keeps pulling at that grip: a fear, a hope, or a wish to be seen by someone other than Him?",
+    "reflectionBn": "ভাবুন, অনেক উঁচু থেকে একজন মানুষ পড়ে যাচ্ছে। নিচে তাকে ধরার কেউ নেই। মাঝপথেই পাখি তাকে ছোঁ মেরে নেয়, নয়তো বাতাস তাকে উড়িয়ে নিয়ে যায় এমন দূরে, যেখানে কেউ পৌঁছাতে পারে না। আল্লাহর সাথে যে শরীক করে, আয়াতটি তার ছবি আঁকে ঠিক এভাবে। সে সামান্য কিছু হারায়নি, হারিয়েছে নিজের পায়ের নিচের মাটিটাই। আয়াতের শুরুতে আছে উল্টো পথটি: এমন মানুষ, যারা সব প্রতিদ্বন্দ্বী থেকে মুখ ফিরিয়ে কেবল আল্লাহর দিকে ঝুঁকে থাকে। ঈমানই সেই উচ্চতা। হাত আলগা হলেই পতনের শুরু। আমার জীবনে কোন জিনিস সেই হাত ধরে টানছে? কোনো ভয়, কোনো আশা, নাকি তিনি ছাড়া অন্য কারও চোখে পড়ার ইচ্ছা?",
+    "pointsEn": [
+      "When I am afraid or in need, to whom do I turn first, and does that turning leave room for anyone beside Allah?",
+      "Which of my good deeds would I still do if no one but Allah ever saw them?",
+      "What in my day, a habit, a voice or a craving, works like the birds or the wind, pulling me away a little at a time?",
+      "Do I guard my faith as a height I must keep my footing on, or treat it as something that can never be lost?",
+      "When someone calls me back toward guidance, do I answer, or keep drifting with whatever is carrying me?"
+    ],
+    "pointsBn": [
+      "ভয় পেলে বা ঠেকায় পড়লে আমি সবার আগে কার কাছে যাই? সেই যাওয়ায় কি আল্লাহর পাশে আর কারও জন্য জায়গা থেকে যায়?",
+      "আল্লাহ ছাড়া আর কেউ কখনো না দেখলেও আমার কোন নেক আমলগুলো আমি তবু করে যেতাম?",
+      "আমার দিনের কোন জিনিসটা, কোনো অভ্যাস, কোনো কণ্ঠ বা কোনো লোভ, পাখি বা বাতাসের মতো আমাকে একটু একটু করে দূরে টেনে নিচ্ছে?",
+      "ঈমানকে কি আমি এমন উচ্চতা মনে করি, যেখানে পা শক্ত করে রাখতে হয়? নাকি ধরে নিয়েছি, ওটা কখনো হারাবে না?",
+      "কেউ যখন আমাকে হেদায়াতের দিকে ফিরে ডাকে, আমি কি সাড়া দিই, নাকি যা আমাকে ভাসিয়ে নিচ্ছে তার সঙ্গেই ভেসে চলি?"
+    ],
+    "lessonEn": "Turn to Allah alone and set no partner beside Him. Faith is the height you stand on; leaving it is a fall that nothing below can break.",
+    "lessonBn": "কেবল আল্লাহর দিকে ঝুঁকে থাকুন, তাঁর সাথে কাউকে শরীক করবেন না। ঈমানই আপনার দাঁড়ানোর উচ্চতা, তা ছেড়ে দেওয়া এমন পতন, যা নিচের কিছুই ঠেকাতে পারে না।"
   }
 };
 

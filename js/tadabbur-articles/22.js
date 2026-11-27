@@ -1651,6 +1651,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "22:31": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Shunning Leads",
+          "bn": "বর্জনের পরের পথ"
+        },
+        "p": [
+          {
+            "en": "Hunafa'a lillah: upright for Allah. Al-Qurtubi explains the grammar: hunafa' stands in the accusative as a hal, a word that describes the state of the people addressed. Those people are the ones 22:30 has just told, twice, to shun: the filth of idols and false speech. At-Tabari runs the two verses together: shun, people, the worship of idols and the speech of shirk, being upright for Allah in sincere tawhid, and giving obedience and worship to Him alone.",
+            "bn": "হুনাফাআ লিল্লাহ: আল্লাহর জন্য একনিষ্ঠ হয়ে। কুরতুবী এর ব্যাকরণ বলেন: হুনাফা শব্দটি 'হাল' হিসেবে মানসূব, অর্থাৎ যাদের সম্বোধন করা হচ্ছে, এটি তাদের অবস্থার বিবরণ। এরা সেই লোকেরাই, যাদের ২২:৩০ আয়াত এইমাত্র দুবার বর্জন করতে বলেছে: মূর্তির অপবিত্রতা আর মিথ্যা কথা। তাবারী দুই আয়াতকে মিলিয়ে পড়েন: হে লোকেরা, মূর্তিপূজা আর শিরকের কথা বর্জন কর। তাওহীদে খাঁটি থেকে আল্লাহর জন্য সোজা হয়ে দাঁড়াও, আনুগত্য আর ইবাদত কেবল তাঁকেই দাও।"
+          },
+          {
+            "en": "The shunning in 22:30 clears a space, and 22:31 says what is to stand in it. Ibn Kathir shows how closely the two verses were read together. He relays through Sufyan ath-Thawri that Ibn Mas'ud (RA) said false testimony is made equal to associating partners with Allah, and then recited this verse. That is a Companion's own statement in Ibn Kathir's report. The Prophet's ﷺ words on the same pairing, in the hadith of Khuraym ibn Fatik, were taken up in the article on 22:30 and are not retold here.",
+            "bn": "২২:৩০ আয়াতের বর্জন একটা জায়গা খালি করে দেয়, আর ২২:৩১ বলে দেয় সেখানে কী দাঁড়াবে। দুই আয়াতকে কতটা ঘনিষ্ঠভাবে একসঙ্গে পড়া হতো, ইবন কাসীর তা দেখান। সুফিয়ান সাওরীর সূত্রে তিনি বর্ণনা করেন, ইবন মাসঊদ (রাঃ) বলেছেন, মিথ্যা সাক্ষ্যকে আল্লাহর সাথে শরীক করার সমান গণ্য করা হয়েছে। তারপর তিনি এই আয়াত পড়েন। ইবন কাসীরের বর্ণনায় এটি একজন সাহাবীর নিজের কথা। একই জোড়া নিয়ে নবী ﷺ-এর বাণী, খুরাইম ইবন ফাতিকের হাদীসে, ২২:৩০ আয়াতের প্রবন্ধে আলোচিত হয়েছে, এখানে তার পুনরাবৃত্তি নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Straight and Leaning at Once",
+          "bn": "সোজা, আবার ঝুঁকে থাকা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives two glosses for hunafa': upright, or Muslims inclining toward the truth. He then notes that the word belongs to the addad, the words that carry opposite senses, since it is used both for being straight and for leaning. A hanif stands straight toward Allah because he leans away from everything else, and the straightness and the leaning describe one posture seen from two sides.",
+            "bn": "কুরতুবী হুনাফা শব্দের দুটি অর্থ দেন: সোজা হয়ে থাকা মানুষ, অথবা সত্যের দিকে ঝুঁকে থাকা মুসলিম। তারপর তিনি জানান, শব্দটি 'আদদাদ' শ্রেণির, অর্থাৎ যে শব্দ পরস্পরবিরোধী দুই অর্থ বহন করে। একে সোজা থাকা অর্থেও বলা হয়, ঝুঁকে পড়া অর্থেও। হানীফ আল্লাহর দিকে সোজা হয়ে দাঁড়ান, কারণ বাকি সবকিছু থেকে তিনি সরে এসেছেন। সোজা থাকা আর ঝুঁকে থাকা আসলে একই ভঙ্গি, দুই পাশ থেকে দেখা।"
+          },
+          {
+            "en": "The other commentators fill in the two sides. At-Tabari reads mustaqimin, upright for Allah in sincere tawhid. The Muyassar uses the same word and adds both directions: turned toward Him with worship of Him alone and obedience to Him alone, and turned away from everything besides Him by casting off shirk. As-Sa'di frames it as a command, He ordered them to be hunafa', and gives the same two movements: facing Him and His worship, and turning from all else.",
+            "bn": "বাকি তাফসীরকারেরা এই দুই দিক পূর্ণ করেন। তাবারী অর্থ করেন 'মুস্তাকীমীন': তাওহীদে খাঁটি থেকে আল্লাহর জন্য সোজা। মুয়াসসারও একই শব্দ নেয়, আর দুই দিকই জুড়ে দেয়: কেবল তাঁরই ইবাদত আর তাঁরই আনুগত্য নিয়ে তাঁর দিকে মুখ করা, আর শিরক ছুঁড়ে ফেলে বাকি সবকিছু থেকে মুখ ফেরানো। সা'দী একে আদেশ হিসেবে পড়েন: আল্লাহ তাদের হানীফ হতে বলেছেন। দুটি গতি তিনিও দেন: তাঁর ও তাঁর ইবাদতের দিকে এগিয়ে আসা, আর অন্য সবকিছু থেকে সরে যাওয়া।"
+          },
+          {
+            "en": "Ibn Kathir and al-Baghawi put the weight on sincerity. Al-Baghawi says simply: sincere toward Him. Ibn Kathir: making the religion sincerely His, swerving away from falsehood with the truth as the aim. He then draws the next phrase out of that meaning: for this reason Allah said, ghayra mushrikina bihi, not associating anything with Him. To be turned to Allah and still keep a partner beside Him is not a weaker form of the same thing; the two cannot be held together.",
+            "bn": "ইবন কাসীর আর বাগাভী জোর দেন ইখলাসের উপর। বাগাভী সংক্ষেপে বলেন: তাঁর জন্য খাঁটি। ইবন কাসীর বলেন: দ্বীনকে কেবল তাঁর জন্য খাঁটি করা, বাতিল থেকে সরে এসে সত্যকে লক্ষ্য বানানো। এই অর্থ থেকেই তিনি পরের অংশটি বের করেন: এ জন্যই আল্লাহ বলেছেন 'গাইরা মুশরিকীনা বিহী', তাঁর সাথে কাউকে শরীক না করে। আল্লাহর দিকে ফিরেও তাঁর পাশে কাউকে রেখে দেওয়া একই জিনিসের দুর্বল রূপ নয়। দুটি একসঙ্গে টেকেই না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pilgrims Who Kept a Partner",
+          "bn": "শরীক রেখেই যারা হজ করত"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi records a report from Qatada. In their shirk, he says, the Arabs used to perform the Hajj and to forbid marriage with daughters, mothers and sisters, and they were called hunafa'. Then came the words hunafa'a lillahi ghayra mushrikina bihi, which al-Baghawi glosses: pilgrims for Allah, Muslims, monotheists. He adds: whoever associates is not a hanif. Al-Baghawi frames the report as the cause of the verse's coming down, but he gives no chain for it, so this article does not treat it as an established occasion of revelation.",
+            "bn": "বাগাভী কাতাদার একটি বর্ণনা আনেন। কাতাদা বলেন, শিরকের যুগেও আরবরা হজ করত, মেয়ে, মা আর বোনকে বিয়ে করা হারাম মানত, আর তাদের ডাকা হতো 'হুনাফা' নামে। তখন নাযিল হলো 'হুনাফাআ লিল্লাহি গাইরা মুশরিকীনা বিহী'। বাগাভী এর অর্থ করেন: আল্লাহর জন্য হজকারী, মুসলিম, তাওহীদপন্থী। তিনি যোগ করেন: যে শরীক করে, সে হানীফ হয় না। বাগাভী বর্ণনাটিকে আয়াত নাযিলের কারণ হিসেবে উপস্থাপন করেন, কিন্তু এর কোনো সনদ দেন না। তাই এই প্রবন্ধ একে প্রতিষ্ঠিত শানে নুযূল হিসেবে ধরছে না।"
+          },
+          {
+            "en": "Al-Qurtubi disputes it. It is said, he writes, that hunafa' here means pilgrims; this is a restriction with no proof behind it. So the two differ: al-Baghawi, through Qatada, ties the word to the Hajj that the surrounding verses describe, and al-Qurtubi keeps its general sense of uprightness and inclining to the truth. On either reading, the qualifier draws the line. A name for devotion can survive among people who have kept a partner beside Allah; the verse takes the name back and gives it only to those who associate nothing with Him.",
+            "bn": "কুরতুবী এই পাঠ মানেন না। তিনি লেখেন, বলা হয়, এখানে হুনাফা মানে হজকারী। কিন্তু এ এমন এক সীমাবদ্ধকরণ, যার পক্ষে কোনো প্রমাণ নেই। দুজনের মত তাই আলাদা। বাগাভী কাতাদার সূত্রে শব্দটিকে বেঁধে দেন সেই হজের সঙ্গে, যার বর্ণনা আশপাশের আয়াতে চলছে। কুরতুবী রেখে দেন এর সাধারণ অর্থ: সোজা থাকা আর সত্যের দিকে ঝোঁকা। যে পাঠই নেওয়া হোক, সীমারেখা টানে পরের শর্তটি। আল্লাহর পাশে শরীক রেখেও মানুষের মুখে ভক্তির নাম টিকে থাকতে পারে। আয়াতটি সেই নাম ফিরিয়ে নিয়ে কেবল তাদেরই দেয়, যারা তাঁর সাথে কিছুই শরীক করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Fall With Nothing Below",
+          "bn": "নিচে ধরার কিছু নেই"
+        },
+        "p": [
+          {
+            "en": "Wa man yushrik billahi fa-ka'annama kharra mina as-sama': and whoever associates with Allah, it is as though he fell from the sky. Ibn Kathir and as-Sa'di gloss kharra as fell from it; al-Baghawi says fell from the sky to the earth. Ka'annama, as though, marks a likeness. Qatada, in the report at-Tabari gives by two routes, says: this is a parable Allah struck for whoever associates with Him, in his distance from guidance and his ruin.",
+            "bn": "ওয়া মান ইউশরিক বিল্লাহি ফাকাআন্নামা খাররা মিনাস সামা: আর যে আল্লাহর সাথে শরীক করে, সে যেন আকাশ থেকে পড়ে গেল। ইবন কাসীর আর সা'দী 'খাররা' শব্দের অর্থ করেন: সেখান থেকে পড়ে গেল। বাগাভী বলেন: আকাশ থেকে মাটিতে পড়ল। 'কাআন্নামা', অর্থাৎ 'যেন', বুঝিয়ে দেয় এটি একটি উপমা। তাবারী দুই সূত্রে কাতাদার কথা আনেন: শরীককারী হেদায়াত থেকে কতটা দূরে আর কীভাবে ধ্বংস হয়, তা বোঝাতে আল্লাহ এই উপমা দিয়েছেন।"
+          },
+          {
+            "en": "At-Tabari widens it a little: the associator's likeness, in his distance from guidance and from reaching the truth, in his ruin and in his going away from his Lord, is that of a man who fell from the sky. Ibn Kathir names the same three: his misguidance, his doom, and his distance from guidance. Each of these readings measures the fall in distance and in loss: what the man has fallen away from is guidance, the truth and his Lord.",
+            "bn": "তাবারী অর্থটা একটু বড় করে বলেন: শরীককারী হেদায়াত থেকে দূরে, সত্যে পৌঁছানো থেকে দূরে, সে ধ্বংসের পথে, আর নিজের রব থেকে সরে গেছে। এসবে তার উপমা হলো আকাশ থেকে পড়ে যাওয়া মানুষ। ইবন কাসীরও এই তিনটিই বলেন: তার পথভ্রষ্টতা, তার ধ্বংস, আর হেদায়াত থেকে তার দূরত্ব। প্রতিটি পাঠে পতনের মাপ হলো দূরত্ব আর ক্ষতি। লোকটি যা থেকে সরে পড়েছে, তা হলো হেদায়াত, সত্য আর তার রব।"
+          },
+          {
+            "en": "Two commentators say what the sky stands for. As-Sa'di: faith is in the place of the sky, guarded and raised high, and whoever leaves faith is like a man falling from it, laid open to every blight and calamity. The Muyassar speaks of a fall from the height of faith to the lowest depth of disbelief. On their reading the parable starts at a height. The danger it pictures belongs to whoever stood on faith and let it go, not only to someone who never had it.",
+            "bn": "দুজন তাফসীরকার বলেন, আকাশ এখানে কিসের প্রতীক। সা'দী বলেন: ঈমান আকাশের মতো, সুরক্ষিত আর উঁচুতে তোলা। যে ঈমান ছেড়ে দেয়, সে আকাশ থেকে পড়ে যাওয়া মানুষের মতো, সব রকম বিপদ আর মুসিবতের মুখে খোলা। মুয়াসসার বলে, ঈমানের উঁচু চূড়া থেকে কুফরের সবচেয়ে নিচু গর্তে পতন। তাঁদের পাঠে উপমাটির শুরু এক উচ্চতা থেকে। যে বিপদের ছবি এখানে, তা কেবল তার নয় যে কখনো ঈমান পায়নি। তা তারও, যে ঈমানের উপর দাঁড়িয়ে ছিল, তারপর তা ছেড়ে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taken by Birds in Midair",
+          "bn": "শূন্যেই পাখির ছোঁ"
+        },
+        "p": [
+          {
+            "en": "Fa-takhtafuhu at-tayr: and the birds snatch him. Al-Baghawi defines the verb: khatf and ikhtitaf mean taking a thing quickly, and the birds seize him and carry him off. As-Sa'di adds the same speed, quickly. The others describe what the snatching does. Ibn Kathir: the birds cut him to pieces in the air. Al-Qurtubi: they tear him with their talons. The Muyassar: they tear his limbs apart. The picture is of a body that never reaches the ground whole, broken up while it is still falling.",
+            "bn": "ফাতাখতাফুহুত তাইর: আর পাখি তাকে ছোঁ মেরে নেয়। বাগাভী ক্রিয়াটির সংজ্ঞা দেন: 'খাতফ' আর 'ইখতিতাফ' মানে কোনো কিছু দ্রুত তুলে নেওয়া। পাখিরা তাকে কেড়ে নিয়ে উড়ে যায়। সা'দীও একই দ্রুততার কথা বলেন। বাকিরা বর্ণনা করেন ছোঁ মারার পরিণাম। ইবন কাসীর বলেন: পাখিরা শূন্যেই তাকে টুকরো টুকরো করে ফেলে। কুরতুবী বলেন: নখর দিয়ে তাকে ছিঁড়ে ফেলে। মুয়াসসার বলে: তার অঙ্গপ্রত্যঙ্গ আলাদা করে ফেলে। ছবিটা এমন এক দেহের, যা আস্ত অবস্থায় মাটিতে পৌঁছায়ই না। পড়ার পথেই ভেঙে টুকরো হয়ে যায়।"
+          },
+          {
+            "en": "Who are the birds? As-Sa'di answers: so it is with the associator when he gives up holding fast to faith; the devils snatch him from every side, tear him apart and take from him his religion and his world. The Muyassar names the same snatching by devils from every side. Ibn Kathir does not decode the birds, but he sets beside this verse another parable of the associator, in 6:71: like a man whom the devils have lured into bewilderment in the land, while his companions call him to guidance, saying, come to us.",
+            "bn": "পাখিগুলো কারা? সা'দী উত্তর দেন: শরীককারীর অবস্থা এমনই। ঈমান আঁকড়ে ধরা ছেড়ে দিলে শয়তানরা চারদিক থেকে তাকে ছোঁ মেরে নেয়, ছিঁড়ে ফেলে, আর তার দ্বীন ও দুনিয়া দুটোই কেড়ে নেয়। মুয়াসসারও চারদিক থেকে শয়তানদের এই ছোঁ মারার কথা বলে। ইবন কাসীর পাখির অর্থ খুলে বলেন না। তবে এই আয়াতের পাশে তিনি শরীককারীর আরেকটি উপমা রাখেন, ৬:৭১ আয়াতে: সেই লোকের মতো, যাকে শয়তানরা ভুলিয়ে জমিনে দিশেহারা করে ছেড়েছে, আর তার সাথীরা তাকে হেদায়াতের দিকে ডাকছে: আমাদের কাছে এসো।"
+          },
+          {
+            "en": "Two small points of language sit in the clause. At-Tabari notices the tenses: kharra is past, while takhtafuhu is imperfect, so an imperfect is joined to a past verb, as in 22:25, inna alladhina kafaru wa yasudduna, those who disbelieved and who bar the way. Al-Baghawi records a reading: the people of Madina recite fa-takhattafuhu, with a fatha on the kha and a doubled ta, meaning yatakhattafuhu.",
+            "bn": "এই অংশে ভাষার দুটি ছোট বিষয় আছে। তাবারী কালের দিকে নজর দেন। 'খাররা' অতীত কাল, আর 'তাখতাফুহু' বর্তমান-ভবিষ্যৎ কাল। অর্থাৎ অতীত ক্রিয়ার সঙ্গে বর্তমান-ভবিষ্যৎ কালের ক্রিয়া জোড়া হয়েছে, যেমন ২২:২৫ আয়াতে: ইন্নাল্লাযীনা কাফারূ ওয়া ইয়াসুদ্দূনা, যারা কুফরী করেছে আর পথে বাধা দেয়। বাগাভী একটি কিরাআত উল্লেখ করেন: মদীনার কারীরা পড়েন 'ফাতাখাত্তাফুহু', খা-তে যবর আর তা-তে তাশদীদ দিয়ে, যার অর্থ 'ইয়াতাখাত্তাফুহু'।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Swept Into the Far Place",
+          "bn": "বাতাসে ভেসে বহু দূরে"
+        },
+        "p": [
+          {
+            "en": "Aw tahwi bihi ar-rihu fi makanin sahiq: or the wind sweeps him down into a far place. Al-Baghawi glosses tahwi bihi as the wind bending him off course and carrying him away. The Muyassar makes the wind a violent storm that seizes him and hurls him into a place far off, as far as can be. Ibn Kathir describes the place itself: remote, and deadly for whoever falls into it. In this half there is no tearing.",
+            "bn": "আও তাহবী বিহির রীহু ফী মাকানিন সাহীক: অথবা বাতাস তাকে উড়িয়ে নিয়ে বহু দূরের কোনো জায়গায় ফেলে। বাগাভী 'তাহবী বিহী' অর্থ করেন: বাতাস তাকে পথ থেকে সরিয়ে নিয়ে যায়। মুয়াসসারের ভাষায় বাতাসটি এক প্রচণ্ড ঝড়, যা তাকে ধরে নিয়ে ছুঁড়ে ফেলে দূরে, যত দূরে সম্ভব। ইবন কাসীর জায়গাটির বর্ণনা দেন: অনেক দূরের, আর যে সেখানে পড়ে, তার জন্য প্রাণঘাতী। এই অংশে ছিঁড়ে ফেলার কথা নেই।"
+          },
+          {
+            "en": "Sahiq means far. Mujahid says so in at-Tabari's two reports, and as-Sa'di, al-Baghawi and al-Qurtubi give the same gloss. At-Tabari traces the word: it comes from the Arabs' saying ab'adahu Allah wa ashaqahu, may Allah put him far away, and there are two forms, ashaqathu ar-rih and sahaqathu, the wind carried him far. A tall palm, he adds, is called nakhla sahuq. Al-Qurtubi points to the same root in 67:11, fa-suhqan li-ashabi as-sa'ir: so away with the companions of the blaze.",
+            "bn": "সাহীক মানে বহু দূর। তাবারীর দুটি বর্ণনায় মুজাহিদ এই অর্থই দেন, আর সা'দী, বাগাভী ও কুরতুবীও তাই বলেন। তাবারী শব্দটির উৎস দেখান: আরবরা বলে 'আবআদাহুল্লাহু ওয়া আসহাকাহু', আল্লাহ তাকে দূর করুন। শব্দটির দুটি রূপ আছে, 'আসহাকাতহুর রীহ' আর 'সাহাকাতহু', অর্থাৎ বাতাস তাকে দূরে নিয়ে গেল। তিনি আরও বলেন, লম্বা খেজুর গাছকে বলা হয় 'নাখলা সাহূক'। কুরতুবী একই ধাতু দেখান ৬৭:১১ আয়াতে: ফাসুহকান লিআসহাবিস সাঈর, জ্বলন্ত আগুনের অধিবাসীরা দূর হোক।"
+          },
+          {
+            "en": "Al-Qurtubi also cites the Prophet's ﷺ words suhqan suhqan, and al-Bukhari records them. In the report from Abu Sa'id al-Khudri (RA) at the end of al-Bukhari 6584, the Prophet ﷺ said: \"I will say: They are of me. It will be said: You do not know what they introduced after you. I will say: Far away, far away, whoever changed after me.\" Al-Bukhari adds that Ibn Abbas (RA) said suhqan means bu'dan, distance, and that sahiq is said for far. The narration is not about this verse; it is cited only for the word.",
+            "bn": "কুরতুবী নবী ﷺ-এর 'সুহকান সুহকান' কথাটিও উল্লেখ করেন, আর বুখারী তা বর্ণনা করেছেন। বুখারী ৬৫৮৪-এর শেষে আবু সাঈদ খুদরী (রাঃ)-এর বর্ণনায় নবী ﷺ বলেন: \"আমি বলব: এরা তো আমার লোক। বলা হবে: আপনি জানেন না, আপনার পরে এরা কী নতুন জিনিস চালু করেছে। তখন আমি বলব: দূর হোক, দূর হোক, যারা আমার পরে বদলে দিয়েছে।\" বুখারী আরও জানান, ইবন আব্বাস (রাঃ) বলেছেন, 'সুহকান' মানে 'বু'দান', দূরত্ব, আর 'সাহীক' বলা হয় দূর অর্থে। এই বর্ণনা এ আয়াত নিয়ে নয়, এখানে আনা হয়েছে কেবল শব্দটির জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading the Two Endings",
+          "bn": "দুই পরিণতির পাঠ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the birds and the wind as two sides of one likeness. The associator's distance from his Lord and from the truth is like the distance of the one falling from the sky to the earth; or his ruin is like the ruin of the one the birds snatch in the air. He adds that the people of interpretation said the same. Al-Baghawi's main reading stays with distance: the associator is as far from the truth as the one the birds took or the wind carried off, and cannot reach it in any way.",
+            "bn": "তাবারী পাখি আর বাতাসকে একই উপমার দুই দিক হিসেবে পড়েন। রব আর সত্য থেকে শরীককারীর দূরত্ব আকাশ থেকে মাটিতে পড়া মানুষের দূরত্বের মতো। অথবা তার ধ্বংস সেই মানুষের ধ্বংসের মতো, যাকে পাখি শূন্যে ছোঁ মেরে নিয়েছে। তিনি জানান, তাফসীরের আলেমরাও এমনই বলেছেন। বাগাভীর মূল পাঠ দূরত্বকে ঘিরেই। যাকে পাখি নিয়ে গেছে বা বাতাস উড়িয়ে নিয়েছে, শরীককারী সত্য থেকে ঠিক ততটাই দূরে, আর কোনোভাবেই সেখানে পৌঁছাতে পারে না।"
+          },
+          {
+            "en": "Al-Baghawi then records a second view, under it is said: the likeness lies in helplessness. A man falling has no means of saving himself until he lands wherever the wind drops him, and he is doomed without fail, either as the birds tear away his flesh or as he falls into the far place. Al-Hasan, in al-Baghawi's report, applies the picture to deeds instead: the disbelievers' works go the same way and come to nothing, and they cannot hold on to any of them.",
+            "bn": "এরপর বাগাভী 'বলা হয়' বলে আরেকটি মত আনেন: উপমাটির মূল অসহায়ত্বে। যে পড়ছে, তার নিজেকে বাঁচানোর কোনো উপায় নেই, বাতাস তাকে যেখানে ফেলবে, সেখানে গিয়েই পড়বে। আর তার ধ্বংস অনিবার্য: হয় পাখিরা তার মাংস ছিঁড়ে নেবে, নয়তো সে বহু দূরের সেই জায়গায় আছড়ে পড়বে। বাগাভীর বর্ণনায় হাসান বসরী ছবিটিকে মানুষের আমলের উপর বসান। কাফিরদের আমলও এভাবেই হারিয়ে যায়, নিষ্ফল হয়ে পড়ে, আর তার কিছুই তারা ধরে রাখতে পারে না।"
+          },
+          {
+            "en": "Al-Qurtubi moves the scene to the Day of Resurrection. There, he says, the associator is like one who has no power to bring himself benefit or to ward off harm or punishment, like a man fallen from the sky who cannot defend himself. He also records, under it is said, a reading that places the fall at death and the soul's journey after it, pointing to a long narration from al-Bara' (RA). Ibn Kathir cites the same narration. Neither page grades it, the version in Abu Dawud (4753) does not contain the lines tied to this verse, and this article builds nothing on it.",
+            "bn": "কুরতুবী দৃশ্যটিকে নিয়ে যান কিয়ামতের দিনে। তিনি বলেন, সেদিন শরীককারী এমন মানুষের মতো, যে নিজের কোনো উপকার করতে পারে না, কোনো ক্ষতি বা শাস্তিও ঠেকাতে পারে না। ঠিক আকাশ থেকে পড়া সেই মানুষের মতো, যে নিজেকে রক্ষা করতে অক্ষম। 'বলা হয়' বলে তিনি আরেকটি পাঠও আনেন, যা পতনকে বসায় মৃত্যুর সময়ে আর তার পরে রূহের যাত্রায়। এর জন্য তিনি বারা (রাঃ)-এর একটি দীর্ঘ বর্ণনার দিকে ইঙ্গিত করেন। ইবন কাসীরও একই বর্ণনা উল্লেখ করেন। দুজনের কেউই এখানে এর মান উল্লেখ করেননি। আবু দাউদে (৪৭৫৩) বর্ণনাটির যে পাঠ আছে, তাতে এ আয়াতের সঙ্গে যুক্ত অংশটুকু নেই। তাই এই প্রবন্ধ এর উপর কিছুই দাঁড় করায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Keeping Hold of the Height",
+          "bn": "উচ্চতা আঁকড়ে থাকা"
+        },
+        "p": [
+          {
+            "en": "The verse carries its own remedy in its first words. The fall belongs to whoever associates; the height belongs to the hanif, turned to Allah and away from every rival. As-Sa'di's phrase for what is lost is precise: the associator gave up i'tisam, holding fast, to faith, and once he did, the devils took him from every side. The next verse, 22:32, turns to the same hearts from the other direction: whoever honours the rites of Allah, that comes from the taqwa of the hearts.",
+            "bn": "আয়াতের প্রথম শব্দগুলোতেই তার প্রতিকার রয়েছে। পতন তার, যে শরীক করে। উচ্চতা হানীফের, যিনি সব প্রতিদ্বন্দ্বী থেকে মুখ ফিরিয়ে আল্লাহর দিকে ফিরেছেন। কী হারিয়ে যায়, তা বোঝাতে সা'দীর শব্দটি খুব নিখুঁত: শরীককারী ঈমানকে 'ই'তিসাম', অর্থাৎ আঁকড়ে ধরা ছেড়ে দিয়েছে। তারপরই শয়তানরা চারদিক থেকে তাকে ছোঁ মেরে নিয়েছে। পরের আয়াত ২২:৩২ একই অন্তরের দিকে ফেরে উল্টো দিক থেকে: যে আল্লাহর নিদর্শনগুলোর সম্মান করে, তা আসে অন্তরের তাকওয়া থেকে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the state of whoever associates partners with Allah, drawn as a fall, and the commentators read it as a likeness of misguidance, ruin and distance from the truth. It licenses nothing against any living person or community. It gives no one the right to declare another fallen, and no right to harm anyone. Its address runs the other way, to the reader: be hunafa' for Allah. The question it leaves is about your own grip on faith, not about anyone else's.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা এর ভাষায় আছে: আল্লাহর সাথে যে শরীক করে, তার অবস্থা, পতনের ছবিতে আঁকা। তাফসীরকারেরা একে পড়েছেন পথভ্রষ্টতা, ধ্বংস আর সত্য থেকে দূরত্বের উপমা হিসেবে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কাউকে পতিত ঘোষণা করার অধিকারও কাউকে দেয় না, কারও ক্ষতি করার অধিকারও না। এর সম্বোধন বরং পাঠকের দিকে: আল্লাহর জন্য হানীফ হও। প্রশ্নটা রেখে যায় নিজের ঈমান আঁকড়ে রাখা নিয়ে, অন্য কারও নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "22:35": {
     "sections": [
       {
