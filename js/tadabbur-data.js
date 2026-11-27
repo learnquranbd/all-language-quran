@@ -33583,6 +33583,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A tiny bee, guided along easy roads, brings out a healing drink. Let ordinary blessings turn your thought to their Maker, and seek remedies while trusting Him.",
     "lessonBn": "সহজ পথে চালিত ছোট্ট এক মৌমাছি বের করে আনে আরোগ্যের পানীয়। প্রতিদিনের নিয়ামত যেন আপনার চিন্তাকে তার স্রষ্টার দিকে ফেরায়। চিকিৎসা নিন, আর ভরসা রাখুন তাঁর উপর।"
+  },
+  "16:94": {
+    "reflectionEn": "An oath sworn with a hidden purpose looks exactly like an honest one. The other side relaxes, trusts the words and lowers its guard, and that trust is what the oath was sworn to buy. The verse names what it costs. A foot that stood firm slips. Something bitter is tasted in this life, and a great punishment waits beyond it. The harm also travels past the one who swore, because whoever watches a believer break faith may turn away from the faith itself. My word is never only mine; people read my religion through it. When I give my word, do I mean all of it? Has anyone ever judged Islam by a promise of mine?",
+    "reflectionBn": "লুকানো মতলব নিয়ে করা কসম দেখতে হুবহু সৎ কসমের মতো। অন্য পক্ষ নিশ্চিন্ত হয়, কথায় ভরসা করে, পাহারা ঢিলে করে দেয়। ঠিক এই ভরসাটুকু কেনার জন্যই কসমটা খাওয়া হয়েছিল। আয়াতটি এর দাম বলে দেয়। যে পা শক্ত হয়ে দাঁড়িয়ে ছিল, তা পিছলে যায়। দুনিয়াতেই তেতো স্বাদ চাখতে হয়, আর এর পরে অপেক্ষা করে কঠিন শাস্তি। ক্ষতিটা কসমকারীর গণ্ডিতেও থেমে থাকে না। কোনো মু'মিনকে কথা ভাঙতে দেখে কেউ দ্বীন থেকেই মুখ ফিরিয়ে নিতে পারে। আমার কথা কখনো শুধু আমার নয়। মানুষ আমার কথার ভেতর দিয়েই আমার দ্বীনকে পড়ে। কথা দেওয়ার সময় আমি কি পুরো কথাটাই মন থেকে দিই? আমার কোনো প্রতিশ্রুতি দেখে কেউ কি কখনো ইসলামের বিচার করেছে?",
+    "pointsEn": [
+      "Is there a promise I am keeping only until it stops being useful to me?",
+      "When I swear by Allah, do I mean every part of what I say, or do I leave myself a quiet way out?",
+      "Who around me has learned what a believer is from the way I keep, or break, my word?",
+      "Where did my own footing first begin to slip: in one large betrayal, or in small promises I let go?",
+      "Which agreement, at work or at home, do I need to honour this week even though it now costs me?"
+    ],
+    "pointsBn": [
+      "এমন কোনো প্রতিশ্রুতি কি আছে, যা আমি রাখছি শুধু ততক্ষণ, যতক্ষণ তাতে আমার লাভ?",
+      "আল্লাহর নামে কসম খাওয়ার সময় আমি কি প্রতিটি কথা মন থেকে বলি, নাকি নিজের জন্য চুপিচুপি একটা পালানোর পথ রেখে দিই?",
+      "আমার কথা রাখা বা ভাঙা দেখে আশপাশের কে মু'মিন সম্পর্কে ধারণা নিয়েছে?",
+      "আমার নিজের পা প্রথম কোথায় টলতে শুরু করেছিল: বড় কোনো বিশ্বাসঘাতকতায়, নাকি ছোট ছোট কথা ছেড়ে দেওয়ায়?",
+      "কাজে বা ঘরে কোন চুক্তিটা এ সপ্তাহে আমাকে রক্ষা করতে হবে, যদিও এখন তার দাম চুকাতে হচ্ছে?"
+    ],
+    "lessonEn": "Never use an oath or a promise as a tool of deceit. Keep your word, because people judge Allah's religion by the way a believer keeps faith.",
+    "lessonBn": "কসম বা প্রতিশ্রুতিকে কখনো ধোঁকার হাতিয়ার বানাবেন না। কথা রাখুন, কারণ মু'মিন কীভাবে কথা রাখে তা দেখেই মানুষ আল্লাহর দ্বীনের বিচার করে।"
   }
 };
 

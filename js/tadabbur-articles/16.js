@@ -4743,6 +4743,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:94": {
+    "sections": [
+      {
+        "h": {
+          "en": "Spun Thread, Then the Warning",
+          "bn": "পাকানো সুতা, তারপর সতর্কবাণী"
+        },
+        "p": [
+          {
+            "en": "This verse is the third link in a chain that opens at 16:91. There the command is to fulfil Allah's covenant once it is made, and not to break oaths after confirming them, since you have made Allah a surety over yourselves. 16:92 then gives the image of a woman who unpicked her thread into strands after spinning it strong, and names what that looks like among people: taking your oaths as dakhal between you, because one community is more numerous than another. Just before the chain stands 16:90, with its command of justice and good conduct.",
+            "bn": "এ আয়াত একটি ধারাবাহিকতার তৃতীয় কড়া, যার শুরু ১৬:৯১-এ। সেখানে হুকুম: আল্লাহর সঙ্গে অঙ্গীকার করলে তা পূর্ণ করো, আর পাকা করার পর কসম ভেঙো না, কারণ তোমরা আল্লাহকে নিজেদের উপর জামিন বানিয়েছ। ১৬:৯২ এরপর এক নারীর ছবি আঁকে, যে সুতা শক্ত করে পাকানোর পর নিজেই খুলে টুকরো টুকরো করে ফেলে। মানুষের মধ্যে এর চেহারা কেমন, তা-ও সেখানে বলা আছে: একদল আরেক দলের চেয়ে সংখ্যায় বেশি বলে কসমকে নিজেদের মধ্যে দাখাল বানানো। এই ধারার ঠিক আগে আছে ১৬:৯০, ন্যায় ও সদাচরণের হুকুম নিয়ে।"
+          },
+          {
+            "en": "Wa la tattakhidhu aymanakum dakhalan baynakum: and do not take your oaths as dakhal between you. The words have already appeared inside 16:92, describing what the spinner's people do; here they return as a direct prohibition, with its consequences attached. Al-Qurtubi notices the return and names its purpose: karrara dhalika ta'kidan, He repeated it for emphasis. The image of the slipping foot that follows, he says, heightens the prohibition, because the matter weighs so much in the religion and comes up so often in the way people deal with each other.",
+            "bn": "ওয়া লা তাত্তাখিযূ আইমানাকুম দাখালান বাইনাকুম: তোমাদের কসমগুলোকে নিজেদের মধ্যে দাখাল বানিয়ো না। কথাগুলো ১৬:৯২-এর ভেতরেই একবার এসেছে, সুতা-খোলা নারীর মতো লোকদের কাজের বর্ণনা হিসেবে। এখানে তা ফিরে এসেছে সরাসরি নিষেধ হয়ে, সঙ্গে পরিণতির কথাও জুড়ে। কুরতুবী এই ফিরে আসা লক্ষ করেছেন এবং কারণও বলেছেন: কাররারা যালিকা তা'কীদান, জোর দেওয়ার জন্য তিনি কথাটা আবার বলেছেন। তাঁর মতে এরপর পা পিছলে যাওয়ার ছবিটা নিষেধকে আরও কঠোর করে। কারণ দ্বীনে বিষয়টির ওজন অনেক, আর মানুষের লেনদেনে তা বারবার সামনে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dakhal: Something Hidden Inside",
+          "bn": "দাখাল: ভেতরে লুকানো মতলব"
+        },
+        "p": [
+          {
+            "en": "The key word is dakhal. At-Tabari glosses it as khadi'a, deception practised between you. Ibn Kathir pairs khadi'a with makr, scheming. Al-Baghawi gives khadi'a and fasad, deception and corruption, and then traces the sequence: you beguile people with the oaths, so they settle into them and feel secure, and then you break them. The Muyassar keeps it plain: do not make the oaths you swear a deception against those you swore them to.",
+            "bn": "মূল শব্দ দাখাল। তাবারী এর অর্থ করেন খাদী'আ, অর্থাৎ নিজেদের মধ্যে চালানো ধোঁকা। ইবন কাসীর খাদী'আর পাশে বসান মাকর, অর্থাৎ চক্রান্ত। বাগাভী বলেন খাদী'আ ও ফাসাদ, ধোঁকা আর বিপর্যয়। তারপর তিনি ধাপগুলো দেখান। কসম দিয়ে মানুষকে ভোলানো হয়, তারা সেই কসমের উপর ভরসা করে নিশ্চিন্ত হয়, তারপর কসমটা ভেঙে ফেলা হয়। মুয়াসসার সাদামাটা ভাষায় বলে: যাদের কাছে কসম খেয়েছ, সেই কসমকে তাদের বিরুদ্ধে ধোঁকা বানিয়ো না।"
+          },
+          {
+            "en": "Al-Qurtubi places the fault at the moment of swearing. Do not contract oaths, he writes, while folding deception and corruption inside them. Ma'arif al-Qur'an develops the same point and cites al-Qurtubi for it. Whoever, at the very time of taking an oath, harbours other intentions and goes through the swearing only to deceive the other party commits something, it says, far more dangerous than breaking an ordinary oath. The danger it names is that such a person may end up deprived of faith itself.",
+            "bn": "কুরতুবী দোষটা ধরেন কসম খাওয়ার মুহূর্তেই। তিনি লেখেন, ভেতরে ধোঁকা আর ফাসাদ গুটিয়ে রেখে কসম বেঁধো না। মাআরিফুল কুরআন একই কথা আরও খুলে বলে, আর সূত্র হিসেবে কুরতুবীর নাম দেয়। কসম খাওয়ার সময়েই যার মনে অন্য মতলব, যে কেবল অন্য পক্ষকে ঠকানোর জন্য কসমের আনুষ্ঠানিকতা সারে, তার কাজ সাধারণ কসম ভাঙার চেয়ে অনেক বেশি বিপজ্জনক। মাআরিফুল কুরআনের ভাষায় আশঙ্কাটা হলো, এমন মানুষ শেষ পর্যন্ত ঈমানের সম্পদ থেকেই বঞ্চিত হয়ে যেতে পারে।"
+          },
+          {
+            "en": "As-Sa'di reads the same words from another side. Do not take your oaths, covenants and pledges, he says, as followers of your desires, keeping them when you wish and breaking them when you wish. Here the fault is not a plan laid in advance but a word that bends to whatever the self wants at the time. One describes an oath that was false from the start; the other describes an oath kept only for as long as it suits.",
+            "bn": "সা'দী একই শব্দগুলো পড়েন অন্য দিক থেকে। তাঁর ব্যাখ্যায়: নিজেদের কসম, অঙ্গীকার আর প্রতিশ্রুতিকে খেয়ালখুশির অনুগামী বানিয়ো না, যখন মন চাইল রাখলে, যখন মন চাইল ভাঙলে। এখানে দোষটা আগে থেকে আঁটা কোনো ফন্দি নয়। দোষ হলো এমন কথা, যা মনের তখনকার চাওয়া অনুযায়ী বেঁকে যায়। একটি বলে শুরু থেকেই মিথ্যা কসমের কথা, অন্যটি বলে এমন কসমের কথা, যা রাখা হয় যতক্ষণ সুবিধা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Foot Planted, Then Sliding",
+          "bn": "পা জমেছিল, তারপর পিছলাল"
+        },
+        "p": [
+          {
+            "en": "Fa-tazilla qadamun ba'da thubutiha: so that a foot slips after being firm. At-Tabari explains it as perishing after you had been safe from perishing, and calls it a likeness for anyone struck by trial after wellbeing, or fallen into a predicament after safety. Al-Baghawi gives the same sense and the same idiom: the Arabs say zallat qadamuhu, his foot slipped, of anyone afflicted after health. The Muyassar folds both into one line: you would perish after being secure, like a man whose foot slid after it stood firm.",
+            "bn": "ফাতাযিল্লা কাদামুম বা'দা সুবূতিহা: তাহলে দৃঢ় হওয়ার পর পা পিছলে যাবে। তাবারীর ব্যাখ্যা: ধ্বংস থেকে নিরাপদ থাকার পর তোমরা ধ্বংস হয়ে যাবে। তিনি একে বলেন উপমা, এমন যে কারও জন্য, যে সুস্থতার পর বিপদে পড়ে, কিংবা নিরাপদ থাকার পর কোনো ফাঁদে আটকে যায়। বাগাভীও একই অর্থ আর একই বাগধারা আনেন। সুস্থতার পর যে বিপদে পড়ে, আরবরা তার সম্পর্কে বলে যাল্লাত কাদামুহু, তার পা পিছলে গেছে। মুয়াসসার দুটোকে এক বাক্যে জুড়ে দেয়: নিরাপদ থাকার পর তোমরা ধ্বংস হবে, ঠিক যেমন কারও পা শক্ত হয়ে দাঁড়ানোর পর পিছলে যায়।"
+          },
+          {
+            "en": "Al-Qurtubi calls the phrase an isti'ara, a borrowed image, for someone whose state is upright and who then falls into great evil, because a foot that slips moves a person from a good condition to a bad one. He adds that zalla fihi is said of anyone who errs in a matter. Both he and at-Tabari cite a line of old Arabic verse about a man whose lead protects him while he is truly ahead, until his footing gives way and he is brought down; at-Tabari's wording has the sandals slip, al-Qurtubi's the feet.",
+            "bn": "কুরতুবী বাক্যটিকে বলেন ইসতি'আরা, অর্থাৎ ধার করা ছবি। যার অবস্থা ঠিকঠাক ছিল, অথচ পরে বড় কোনো অনিষ্টে গিয়ে পড়ে, তার জন্য এই ছবি। কারণ পা পিছলালে মানুষ ভালো অবস্থা থেকে মন্দ অবস্থায় গিয়ে পড়ে। তিনি আরও বলেন, কেউ কোনো বিষয়ে ভুল করলে বলা হয় যাল্লা ফীহি, সে এতে পিছলে গেছে। তিনি ও তাবারী দুজনেই পুরোনো আরবি কবিতার একটি চরণ উদ্ধৃত করেন। সেখানে এক দৌড়বিদের কথা, যে সত্যিই এগিয়ে থাকলে তার অগ্রগামিতাই তাকে রক্ষা করে, যতক্ষণ না পা ফসকে সে পড়ে যায়। তাবারীর পাঠে পিছলায় জুতা, কুরতুবীর পাঠে দুই পা।"
+          },
+          {
+            "en": "The verse speaks of a foot, qadamun, singular and indefinite, not of your feet. As-Sa'di makes it plural when he explains it, tazillu aqdamukum, your feet slip after standing firm on the straight path, so he hears it as said to everyone addressed. What the image carries in every reading is the word ba'da, after. The slip described here is not that of someone who never stood. It is the slip of someone who once had firm ground under him and lost it.",
+            "bn": "আয়াতে আছে কাদাম, একবচন ও অনির্দিষ্ট, অর্থাৎ একটি পা। তোমাদের পাগুলো, এমন বলা হয়নি। সা'দী ব্যাখ্যা করার সময় শব্দটিকে বহুবচন করে নেন: তাযিল্লু আকদামুকুম, সরল পথে স্থির থাকার পর তোমাদের পা পিছলে যাবে। অর্থাৎ তিনি কথাটিকে সব শ্রোতার প্রতি বলা হিসেবে বোঝেন। সব ব্যাখ্যাতেই ছবিটার ভার বহন করে একটি শব্দ: বা'দা, পরে। এখানে যার পতনের কথা, সে কখনো দাঁড়ায়নি এমন কেউ নয়। সে এমন মানুষ, যার পায়ের নিচে একসময় শক্ত মাটি ছিল, আর সে তা হারিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Slipping Away From What",
+          "bn": "পা সরে যায় কোথা থেকে"
+        },
+        "p": [
+          {
+            "en": "The commentators differ on what the foot slips away from, and the difference is worth keeping. At-Tabari, al-Baghawi and the Muyassar speak of safety: the swearers perish after being secure. Al-Qurtubi names something graver: 'an al-iman ba'da al-ma'rifa billah, away from faith after knowing Allah. Ibn Kathir speaks of a person who was on istiqama, uprightness, and swerved from it, slipping from the road of guidance. As-Sa'di, as above, has the feet slip from the straight path on which they stood.",
+            "bn": "পা ঠিক কোথা থেকে সরে যায়, এ নিয়ে মুফাসসিরদের কথা এক নয়, আর এই পার্থক্যটা মনে রাখার মতো। তাবারী, বাগাভী ও মুয়াসসার বলেন নিরাপত্তার কথা: নিরাপদ থাকার পর কসমকারীরা ধ্বংস হয়। কুরতুবী আরও গুরুতর কিছুর নাম নেন: আনিল ঈমানি বা'দাল মা'রিফাতি বিল্লাহ, আল্লাহকে চেনার পর ঈমান থেকে সরে যাওয়া। ইবন কাসীর বলেন এমন মানুষের কথা, যে ইসতিকামাত, অর্থাৎ অবিচলতার উপর ছিল, তারপর তা থেকে বেঁকে গিয়ে হিদায়াতের পথ থেকে পিছলে পড়ল। সা'দীর কথা আগেই এসেছে: যে সরল পথে পা দাঁড়িয়ে ছিল, সেখান থেকেই পিছলায়।"
+          },
+          {
+            "en": "Ibn Kathir also names the cause of the slip in a phrase: the broken oaths that contain a turning of others from the way of Allah. On his reading the slip is not just a fall from comfort. It is a fall from guidance, brought about by oaths whose damage reached other people. That ties the image of the foot to the next clause of the verse, where the damage is named outright.",
+            "bn": "পিছলে পড়ার কারণটাও ইবন কাসীর একটি বাক্যাংশে বলে দেন: এমন ভাঙা কসম, যার ভেতরে আছে অন্যকে আল্লাহর পথ থেকে ফিরিয়ে রাখা। তাঁর ব্যাখ্যায় এই পতন শুধু আরাম থেকে কষ্টে পড়া নয়। এ হলো হিদায়াত থেকে পতন, আর তা ঘটায় এমন কসম, যার ক্ষতি অন্য মানুষের গায়েও লাগে। এভাবে পায়ের ছবিটা জুড়ে যায় আয়াতের পরের অংশের সঙ্গে, যেখানে ক্ষতির কথাটা সরাসরি বলা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Pledge Was Meant",
+          "bn": "কোন বাই'আতের কথা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari uses this verse to settle a question raised at 16:91. There he reports, through a chain to Burayda, that the passage came down about the pledge given to the Prophet ﷺ: whoever accepted Islam pledged on Islam, and they were told not to let the fewness of Muhammad ﷺ and his Companions, and the great number of the idolaters, push them into breaking the pledge they had given. Others, he reports there, said it came down about alliances the idolaters had sworn before Islam, which they were told to keep.",
+            "bn": "১৬:৯১-এ ওঠা একটি প্রশ্নের মীমাংসা তাবারী করেন এই আয়াত দিয়ে। সেখানে তিনি বুরাইদা পর্যন্ত পৌঁছানো এক সনদে বর্ণনা করেন যে অংশটি নাযিল হয়েছিল নবী ﷺ-এর হাতে বাই'আত নিয়ে। যে-ই ইসলাম গ্রহণ করত, সে ইসলামের উপর বাই'আত দিত। তাদের বলা হয়েছিল, মুহাম্মাদ ﷺ ও তাঁর সাহাবীরা সংখ্যায় কম আর মুশরিকরা বেশি, এই কারণে যেন তারা দেওয়া বাই'আত ভেঙে না ফেলে। সেখানে তিনি অন্যদের মতও আনেন: অংশটি নাযিল হয়েছিল জাহিলি যুগে মুশরিকদের করা মৈত্রীচুক্তি নিয়ে, ইসলামে এসে যা রক্ষা করতে বলা হয়।"
+          },
+          {
+            "en": "On 16:94 he decides between them. This verse, he says, shows that Burayda's reading is correct, and not Mujahid's, which is about people who leave their allies for others. His reason lies in the verse's own wording. A people moving from its allies to new ones hinders no one from the way of Allah and strays from no guidance, yet this verse calls those who take oaths as dakhal people who turn others from Allah's way, and the verse before it calls them people of misguidance. That, he says, describes disbelief, not a change of allies.",
+            "bn": "১৬:৯৪-এ এসে তিনি দুই মতের মধ্যে ফয়সালা করেন। তাঁর বক্তব্য, এই আয়াত প্রমাণ করে বুরাইদার ব্যাখ্যাই সঠিক, মুজাহিদের ব্যাখ্যা নয়। মুজাহিদের ব্যাখ্যা ছিল এমন লোকদের নিয়ে, যারা নিজেদের মিত্র ছেড়ে অন্যদের সঙ্গে গিয়ে মেলে। তাবারীর যুক্তি আয়াতের শব্দেই। এক মিত্রপক্ষ ছেড়ে অন্য পক্ষে গেলে কেউ আল্লাহর পথ থেকে বাধা পায় না, হিদায়াত থেকেও কেউ বিচ্যুত হয় না। অথচ এই আয়াত কসমকে দাখাল বানানো লোকদের বলছে আল্লাহর পথে বাধাদানকারী, আর আগের আয়াত তাদের বলছে গুমরাহ। তাবারীর মতে এ হলো কুফরের বৈশিষ্ট্য, মিত্র বদলের নয়।"
+          },
+          {
+            "en": "Al-Qurtubi takes the same line in his own words. The threat in this verse, he says, concerns whoever broke the covenant of the Messenger ﷺ, because whoever pledged to him and then broke that pledge left faith. Ibn Kathir, al-Baghawi and the Muyassar, on this verse, do not limit it to that pledge; they speak of oaths sworn between people. On whom the passage first addressed, the question stays as at-Tabari lays it out: Burayda's reading and Mujahid's side by side, with at-Tabari's own preference stated as his.",
+            "bn": "কুরতুবীও নিজের ভাষায় একই পথে যান। তিনি বলেন, এ আয়াতের হুমকি তার জন্য, যে রাসূল ﷺ-এর সঙ্গে করা অঙ্গীকার ভেঙেছে। কারণ যে তাঁর হাতে বাই'আত দিয়ে পরে তা ভেঙেছে, সে ঈমান থেকে বেরিয়ে গেছে। অন্যদিকে ইবন কাসীর, বাগাভী ও মুয়াসসার এ আয়াতকে ওই বাই'আতের মধ্যে সীমাবদ্ধ করেন না। তাঁরা মানুষের মধ্যে খাওয়া কসমের কথা বলেন। অংশটি প্রথমে কাদের উদ্দেশে, এ প্রশ্ন তাই তাবারী যেভাবে সাজিয়েছেন সেভাবেই থাকে: বুরাইদার ব্যাখ্যা আর মুজাহিদের ব্যাখ্যা পাশাপাশি, আর তাবারীর নিজের পছন্দ তাঁর নিজের মত হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turned Back by a Broken Word",
+          "bn": "ভাঙা কথায় মুখ ফেরানো"
+        },
+        "p": [
+          {
+            "en": "Bima sadadtum 'an sabil Allah: for having turned people from the way of Allah. How does a broken oath block anyone's road? Ibn Kathir answers directly. When a disbeliever sees that a believer made a covenant with him and then betrayed him, he is left with no trust in the religion, and so he is turned away from entering Islam. The Muyassar says the same: the swearers taste what grieves them because they caused others to be kept from this religion, through the treachery those others saw in them.",
+            "bn": "বিমা সাদাদতুম আন সাবীলিল্লাহ: আল্লাহর পথ থেকে মানুষকে ফিরিয়ে রাখার কারণে। একটা ভাঙা কসম কারও পথ আটকায় কীভাবে? ইবন কাসীর সোজাসুজি উত্তর দেন। কোনো কাফির যখন দেখে, এক মু'মিন তার সঙ্গে অঙ্গীকার করে পরে বিশ্বাসঘাতকতা করেছে, তখন দ্বীনের উপর তার আর কোনো ভরসা থাকে না। ফলে ইসলামে প্রবেশ থেকেই সে ফিরে যায়। মুয়াসসারও একই কথা বলে: কসমকারীরা মন্দ পরিণতির স্বাদ পায়, কারণ তাদের মধ্যে প্রতারণা দেখে অন্যরা এই দ্বীন থেকে দূরে সরে গেছে, আর এর কারণ তারাই।"
+          },
+          {
+            "en": "At-Tabari puts it in terms of those affected: bima fatantum, for your having lured away from faith whoever wanted to believe in Allah and His Messenger. As-Sa'di joins the two harms in a pair of verbs: dalaltum wa adlaltum ghayrakum, you went astray and you led others astray. Al-Baghawi records a further meaning under the words qila, it is said: by breaking your covenant you made the road of covenant-breaking easy for others. On that reading the damage is a precedent that others then follow.",
+            "bn": "তাবারী কথাটা বলেন ক্ষতিগ্রস্তদের দিক থেকে: বিমা ফাতানতুম, যে আল্লাহ ও তাঁর রাসূলের উপর ঈমান আনতে চেয়েছিল, তাকে তোমরা ঈমান থেকে ভুলিয়ে সরিয়ে দিয়েছ বলে। সা'দী দুই ক্ষতিকে জুড়ে দেন দুটি ক্রিয়ায়: দালালতুম ওয়া আদলালতুম গাইরাকুম, তোমরা নিজেরা পথ হারিয়েছ, অন্যদেরও পথহারা করেছ। বাগাভী 'কীলা', অর্থাৎ 'বলা হয়' কথাটি জুড়ে আরেকটি অর্থ আনেন: নিজেদের অঙ্গীকার ভেঙে তোমরা অন্যদের জন্য অঙ্গীকার ভাঙার পথ সহজ করে দিয়েছ। এই অর্থে ক্ষতিটা একটা নজির হয়ে দাঁড়ায়, যার দেখাদেখি অন্যরাও চুক্তি ভাঙে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tasted Here, Owed Hereafter",
+          "bn": "এখানে স্বাদ, ওখানে হিসাব"
+        },
+        "p": [
+          {
+            "en": "Wa tadhuqu as-su': and you taste the evil. At-Tabari says this evil is Allah's punishment, with which He punishes those who disobey Him in this world, part of what He punished the people of disbelief with. Al-Qurtubi describes the taste of evil in this world as the hateful things that befall them. As-Sa'di explains as-su' as the punishment that harms and grieves you. Then wa lakum 'adhabun 'azim: and yours is a great punishment, which at-Tabari places in the Hereafter, naming it the Fire of Hell.",
+            "bn": "ওয়া তাযূকুস সূ': আর তোমরা মন্দের স্বাদ পাবে। তাবারী বলেন, এই মন্দ হলো আল্লাহর শাস্তি, যা দিয়ে তিনি দুনিয়াতে তাঁর নাফরমানদের শাস্তি দেন। কাফিরদের তিনি যেসব শাস্তি দিয়েছেন, এটা তারই অংশ। কুরতুবীর বর্ণনায় দুনিয়াতে মন্দের স্বাদ মানে তাদের উপর নেমে আসা অপছন্দনীয় বিপদগুলো। সা'দী আস-সূ'-এর ব্যাখ্যা দেন এমন শাস্তি হিসেবে, যা তোমাদের কষ্ট দেয় আর দুঃখে ফেলে। তারপর ওয়া লাকুম আযাবুন আযীম: আর তোমাদের জন্য আছে কঠিন শাস্তি। তাবারী এটাকে রাখেন আখিরাতে, আর এর নাম বলেন জাহান্নামের আগুন।"
+          },
+          {
+            "en": "So the verse threatens twice, as al-Qurtubi puts it: a punishment in this world, then a great punishment in the Hereafter. The Muyassar draws the same line, tasting what grieves you in this world and a great punishment in the next. As-Sa'di adds one word to the second, muda'af, doubled. He gives no reason for the doubling on this verse, so it is best left as he states it.",
+            "bn": "কুরতুবীর ভাষায় আয়াতটি তাই দুবার সতর্ক করে: দুনিয়াতে এক শাস্তি, তারপর আখিরাতে কঠিন শাস্তি। মুয়াসসারও একই রেখা টানে: দুনিয়াতে যা কষ্ট দেয় তার স্বাদ, আর পরকালে কঠিন শাস্তি। সা'দী দ্বিতীয়টির সঙ্গে একটি শব্দ যোগ করেন: মুদা'আফ, দ্বিগুণ। এ আয়াতে দ্বিগুণ হওয়ার কারণ তিনি বলেননি, তাই কথাটা তিনি যেমন বলেছেন তেমনই থাকুক।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. A general narration on the same subject, not attached to this verse, is in al-Bukhari's Sahih (34), from 'Abdullah ibn 'Amr: The Prophet ﷺ said, \"Whoever has the following four (characteristics) will be a pure hypocrite and whoever has one of the following four characteristics will have one characteristic of hypocrisy unless and until he gives it up. 1. Whenever he is entrusted, he betrays. 2. Whenever he speaks, he tells a lie. 3. Whenever he makes a covenant, he proves treacherous. 4. Whenever he quarrels, he behaves in a very imprudent, evil and insulting manner.\"",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। একই বিষয়ে একটি সাধারণ বর্ণনা আছে বুখারীর সহীহ গ্রন্থে (৩৪), যা এ আয়াতের সঙ্গে যুক্ত নয়। আবদুল্লাহ ইবন আমর (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: \"চারটি স্বভাব যার মধ্যে থাকে, সে খাঁটি মুনাফিক। আর যার মধ্যে এর একটি থাকে, তার মধ্যে মুনাফিকির একটি স্বভাব থেকে যায়, যতক্ষণ না সে তা ছেড়ে দেয়। ১. তাকে আমানত দিলে খিয়ানত করে। ২. কথা বললে মিথ্যা বলে। ৩. অঙ্গীকার করলে বিশ্বাসঘাতকতা করে। ৪. ঝগড়া করলে অশ্লীল ও অন্যায় আচরণ করে।\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Warned, Never Labelled",
+          "bn": "সতর্ক করে, তকমা দেয় না"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse warns those it addresses against swearing in order to deceive, and the commentators connect it to the pledge given to the Prophet ﷺ and to oaths between people. It describes what the text describes. It licenses nothing against any living person or community: it gives no one the right to call another Muslim an apostate or a hypocrite, and it has no present-day political application to any ruler, state, party, pledge or treaty. The hadith above, too, names traits to root out of oneself, not labels to fix on others.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যাদের সম্বোধন করেছে, তাদের ধোঁকা দেওয়ার উদ্দেশ্যে কসম খেতে নিষেধ করছে। মুফাসসিররা একে যুক্ত করেছেন নবী ﷺ-এর হাতে দেওয়া বাই'আত আর মানুষের মধ্যকার কসমের সঙ্গে। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। অন্য কোনো মুসলিমকে মুরতাদ বা মুনাফিক বলার অধিকার এটি কাউকে দেয় না। আজকের কোনো শাসক, রাষ্ট্র, দল, বাই'আত বা চুক্তির উপর এর কোনো রাজনৈতিক প্রয়োগও নেই। উপরের হাদীসও এমন স্বভাবের কথা বলে, যা নিজের ভেতর থেকে উপড়ে ফেলতে হবে, অন্যের গায়ে সাঁটার তকমা নয়।"
+          },
+          {
+            "en": "What the verse asks of its reader is close at hand. A contract, a promise to a colleague or a spouse, an agreement with a neighbour of another faith: each is a place where a believer's word is tested and where others are watching. Swear only what you mean to keep, with nothing folded inside it. Keep it when it no longer suits. And remember the onlooker of Ibn Kathir's explanation, who learns what Islam is from a believer's word; a promise kept at a cost may teach him more than any argument.",
+            "bn": "আয়াতটি পাঠকের কাছে যা চায়, তা হাতের কাছেই। একটা চুক্তি, সহকর্মী বা স্বামী-স্ত্রীকে দেওয়া কোনো কথা, ভিন্ন ধর্মের প্রতিবেশীর সঙ্গে কোনো বোঝাপড়া, প্রতিটিই এমন জায়গা, যেখানে মু'মিনের কথার পরীক্ষা হয়, আর অন্যরা তা দেখে। যা রাখার ইচ্ছা আছে, শুধু তা-ই কসম করে বলুন, ভেতরে কোনো মতলব গুটিয়ে রাখবেন না। সুবিধা ফুরিয়ে গেলেও কথা রাখুন। আর ইবন কাসীরের ব্যাখ্যার সেই দর্শকের কথা মনে রাখুন, যে মু'মিনের কথা দেখে ইসলামকে চেনে। দাম দিয়ে রাখা একটা প্রতিশ্রুতি তাকে যে শিক্ষা দেয়, কোনো যুক্তিতর্ক হয়তো তা দিতে পারে না।"
+          }
+        ]
+      }
+    ]
+  },
   "16:96-97": {
     "sections": [
       {
