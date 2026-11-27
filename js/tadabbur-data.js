@@ -33683,6 +33683,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let every shade, shelter and garment that protects you point you to the One who made it, and answer His completed favour by submitting to Him.",
     "lessonBn": "যে ছায়া, আশ্রয় আর পোশাক আপনাকে রক্ষা করে, তার প্রতিটি যেন আপনাকে মনে করিয়ে দেয় কে তা বানিয়েছেন। তাঁর পূর্ণ করা নিয়ামতের জবাব দিন তাঁর কাছে আত্মসমর্পণ করে।"
+  },
+  "17:10": {
+    "reflectionEn": "The verse before this one tells of a Book that guides to what is most upright and gives good news to those who believe and do good. This verse finishes the same sentence. In nine words it names people by one denial, the Hereafter, and says a painful punishment has already been made ready for them. The warning is not added from outside; it belongs to the same message as the good news. A person who believes no return to his Lord is coming loses the reason to hold back. So the question turns inward. Does my belief in the Hereafter actually stop my hand, or does it only sit in my mind while my days run as if nothing waits?",
+    "reflectionBn": "আগের আয়াত বলে, এ কিতাব সবচেয়ে সোজা পথ দেখায়, আর যারা ঈমান আনে ও নেক আমল করে তাদের সুসংবাদ দেয়। এ আয়াত সেই বাক্যটাই শেষ করে। মাত্র নয় শব্দে সে এক দল মানুষের পরিচয় দেয় একটি অস্বীকার দিয়ে: আখিরাতের অস্বীকার। আর জানায়, তাদের জন্য যন্ত্রণাদায়ক শাস্তি আগেই প্রস্তুত রাখা আছে। সতর্কবাণীটা বাইরে থেকে জোড়া লাগানো নয়, সুসংবাদের সঙ্গে একই বার্তার অংশ। যে মানুষ মনে করে রবের কাছে ফেরার কোনো দিন আসছে না, তার কাছে নিজেকে সামলে রাখার কারণটাই হারিয়ে যায়। তাই প্রশ্নটা ফেরে নিজের দিকে। আখিরাতের উপর আমার বিশ্বাস কি সত্যিই আমার হাত থামায়? নাকি সেটা শুধু মাথায় বসে থাকে, আর আমার দিনগুলো চলে এমনভাবে যেন সামনে কিছুই অপেক্ষা করছে না?",
+    "pointsEn": [
+      "When I read the Qur'an's good news, do I let myself hear the warning that sits in the same sentence, or do I keep only the half I like?",
+      "What did I do this week that I would have left undone if the Day of return had been in front of my eyes?",
+      "Which sin do I commit most easily, and what does that ease say about how near the Hereafter feels to me?",
+      "If the punishment is already prepared, what am I preparing, today, for the day I arrive before my Lord?",
+      "Do I ever use a verse like this to judge someone else, instead of letting it weigh my own heart?"
+    ],
+    "pointsBn": [
+      "কুরআনের সুসংবাদ পড়ার সময় একই বাক্যের ভেতরে থাকা সতর্কবাণীটাও কি আমি কানে নিই, নাকি পছন্দের অর্ধেকটুকুই রেখে দিই?",
+      "এ সপ্তাহে এমন কী করেছি, যা ফেরার দিনটা চোখের সামনে থাকলে করতাম না?",
+      "কোন গুনাহটা আমি সবচেয়ে সহজে করে ফেলি? সেই সহজ হওয়াটা আখিরাতকে আমি কতটা কাছে মনে করি, সে বিষয়ে কী বলে?",
+      "শাস্তি যদি আগেই প্রস্তুত থাকে, রবের সামনে হাজির হওয়ার দিনের জন্য আজ আমি কী প্রস্তুত করছি?",
+      "এমন আয়াত দিয়ে আমি কি কখনো অন্যের বিচার করে বসি, নিজের অন্তরকে না মেপে?"
+    ],
+    "lessonEn": "Hear the warning with the good news: belief in the return to your Lord is meant to hold your hand back from sin, not to sit idle in the mind.",
+    "lessonBn": "সুসংবাদের সঙ্গে সতর্কবাণীটাও শুনুন। রবের কাছে ফিরে যাওয়ার বিশ্বাস মাথায় অলস পড়ে থাকার জন্য নয়, গুনাহ থেকে হাত থামানোর জন্য।"
   }
 };
 

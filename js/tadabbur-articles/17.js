@@ -447,6 +447,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Verse That Starts Mid-Sentence",
+          "bn": "বাক্যের মাঝখান থেকে শুরু"
+        },
+        "p": [
+          {
+            "en": "Wa-anna alladhina la yu'minuna bil-akhirati a'tadna lahum 'adhaban alima: and that those who do not believe in the Hereafter, We have prepared for them a painful punishment. The verse has nine Arabic words, and its opening, wa-anna, and that, shows it cannot stand alone. It completes the sentence begun in 17:9, where the Qur'an guides to what is most upright and gives good tidings to the believers who do righteous deeds. That verse has its own article.",
+            "bn": "ওয়া আন্নাল্লাযীনা লা ইউ'মিনূনা বিল আখিরাতি আ'তাদনা লাহুম 'আযাবান আলীমা: আর এই যে, যারা আখিরাতে ঈমান আনে না, তাদের জন্য আমি যন্ত্রণাদায়ক শাস্তি প্রস্তুত করে রেখেছি। আয়াতে আরবি শব্দ নয়টি। শুরুর ওয়া আন্না, অর্থাৎ 'আর এই যে', বুঝিয়ে দেয় আয়াতটি একা দাঁড়াতে পারে না। ১৭:৯ আয়াতে যে বাক্য শুরু হয়েছিল, এটি তারই শেষাংশ। সেখানে কুরআন সবচেয়ে সোজা পথ দেখায় আর নেক আমলকারী মুমিনদের সুসংবাদ দেয়। সে আয়াতের আলাদা প্রবন্ধ আছে।"
+          },
+          {
+            "en": "Al-Muyassar paraphrases both verses as a single sentence: this Qur'an directs people to the best of ways and gives the believers good news that they have an immense reward, and that those who do not affirm the abode of the Hereafter and its recompense, We have prepared for them a painful punishment in the Fire. What the second half adds is compact: a group named by one denial, a verb of preparation in the past tense, and a punishment with a single adjective.",
+            "bn": "মুয়াসসার দুই আয়াতকে বলে দেন এক বাক্যে: এ কুরআন মানুষকে সবচেয়ে উত্তম পথ দেখায়, মুমিনদের সুসংবাদ দেয় যে তাদের জন্য আছে বিরাট প্রতিদান, আর এই যে, যারা আখিরাতের জগৎ ও সেখানকার প্রতিদানকে সত্য বলে মানে না, তাদের জন্য আমি আগুনে যন্ত্রণাদায়ক শাস্তি প্রস্তুত রেখেছি। দ্বিতীয় অর্ধেকের সংযোজন ছোট, কিন্তু ঘন। একটি দল, যাদের পরিচয় একটিমাত্র অস্বীকারে। অতীত কালের একটি প্রস্তুতির ক্রিয়া। আর একটিমাত্র বিশেষণসহ একটি শাস্তি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Good Tidings for Whom",
+          "bn": "সুসংবাদটা কার জন্য"
+        },
+        "p": [
+          {
+            "en": "If anna hangs on the verb of 17:9, that verb, yubashshiru, it gives good tidings, needs a word. Ibn Kathir reads it straight across: wa yubashshiru alladhina la yu'minuna bil-akhirah, and it gives those who do not believe in the Hereafter tidings that they will have a painful punishment, on the Day of Resurrection. The tidings, on his reading, go to the deniers themselves, and he cites a verse that uses the same verb for a warning: fa-bashshirhum bi-'adhabin alim, so give them tidings of a painful punishment.",
+            "bn": "আন্না যদি ১৭:৯-এর ক্রিয়ার সঙ্গে যুক্ত থাকে, তবে সেই ক্রিয়া, ইউবাশশিরু, অর্থাৎ সুসংবাদ দেয়, তা নিয়ে কিছু বলা দরকার। ইবন কাসীর সোজাসুজি পড়েন: ওয়া ইউবাশশিরুল্লাযীনা লা ইউ'মিনূনা বিল আখিরাহ। অর্থাৎ যারা আখিরাতে ঈমান আনে না, কুরআন তাদেরও সংবাদ দেয় যে কিয়ামতের দিন তাদের জন্য আছে যন্ত্রণাদায়ক শাস্তি। তাঁর পাঠে সংবাদটা যায় অস্বীকারকারীদের কাছেই। পক্ষে তিনি এমন এক আয়াত আনেন যেখানে একই ক্রিয়া সতর্কবাণী বহন করে: ফাবাশশিরহুম বি'আযাবিন আলীম, অতএব তাদের যন্ত্রণাদায়ক শাস্তির সংবাদ দাও।"
+          },
+          {
+            "en": "The two editions of Ibn Kathir read for this verse cite that phrase from different places. The Arabic text gives Al 'Imran, verse 21, which is 3:21; the abridged English gives 84:24. The words stand in both verses, so either reference holds. Al-Qurtubi construes the clause another way: wa yubashshiruhum bi-anna li-a'da'ihim al-'iqab, and it gives them, the believers, the good news that their enemies will have the punishment. On his reading all of 17:10 belongs to the believers' good news.",
+            "bn": "এ আয়াতের জন্য ইবন কাসীরের যে দুই সংস্করণ পড়া হয়েছে, তাতে বাক্যাংশটির উৎস দুই জায়গায় দেখানো। আরবি পাঠে আছে সূরা আলে ইমরান, আয়াত ২১, অর্থাৎ ৩:২১। সংক্ষিপ্ত ইংরেজি সংস্করণে আছে ৮৪:২৪। কথাটি দুই আয়াতেই আছে, তাই দুটো উল্লেখই ঠিক। কুরতুবী বাক্যটিকে সাজান অন্যভাবে: ওয়া ইউবাশশিরুহুম বিআন্না লিআ'দাইহিমুল 'ইকাব। অর্থাৎ কুরআন মুমিনদের সুসংবাদ দেয় যে তাদের শত্রুদের জন্য আছে শাস্তি। তাঁর পাঠে গোটা ১৭:১০ আয়াতই মুমিনদের সুসংবাদের অংশ।"
+          },
+          {
+            "en": "Al-Jalalayn, on the quranx page for this verse, supplies a third verb: and this Qur'an informs that those who do not believe in the Hereafter, We have prepared for them a painful chastisement. The three construals are kept apart here. For Ibn Kathir the verb of good news is turned on the deniers as a warning; for al-Qurtubi the good news stays with the believers; for al-Jalalayn the clause is a report. They differ on who is addressed, not on what will happen.",
+            "bn": "কুরআনএক্সের পাতায় এ আয়াতের নিচে জালালাইন তৃতীয় একটি ক্রিয়া বসান: আর এই কুরআন জানিয়ে দেয় যে, যারা আখিরাতে ঈমান আনে না, তাদের জন্য আমি যন্ত্রণাদায়ক শাস্তি প্রস্তুত রেখেছি। তিনটি ব্যাখ্যা এখানে আলাদাই রাখা হলো। ইবন কাসীরের কাছে সুসংবাদের ক্রিয়াটি অস্বীকারকারীদের দিকে ঘুরে সতর্কবাণী হয়ে যায়। কুরতুবীর কাছে সুসংবাদ থাকে মুমিনদের কাছেই। জালালাইনের কাছে বাক্যটি একটি খবর। তাঁদের পার্থক্য কথাটা কাকে বলা হচ্ছে তা নিয়ে, কী ঘটবে তা নিয়ে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named by What They Deny",
+          "bn": "পরিচয় তাদের অস্বীকারে"
+        },
+        "p": [
+          {
+            "en": "One verse earlier, at the close of 17:8, the surah used a plain noun: We have made Hell a prison for al-kafirin, the disbelievers. Here it uses a description instead: alladhina la yu'minuna bil-akhirah, those who do not believe in the Hereafter. The group is not named by lineage, place or nation. It is named by one belief that is missing. The commentators unfold that belief in their own words, and each of the glosses fetched for this verse brings out a different side of what the Hereafter means.",
+            "bn": "এক আয়াত আগে, ১৭:৮-এর শেষে, সূরাটি একটি সাধারণ বিশেষ্য ব্যবহার করেছিল: আমি জাহান্নামকে কাফিরদের জন্য কারাগার বানিয়েছি। এখানে বিশেষ্যের বদলে এসেছে একটি বর্ণনা: আল্লাযীনা লা ইউ'মিনূনা বিল আখিরাহ, যারা আখিরাতে ঈমান আনে না। দলটির পরিচয় বংশ, জায়গা বা জাতি দিয়ে নয়। পরিচয় একটিমাত্র বিশ্বাসের অভাব দিয়ে। তাফসীরকারেরা সেই বিশ্বাসটিকে নিজেদের ভাষায় খুলে বলেন। এ আয়াতের জন্য সংগৃহীত প্রতিটি ব্যাখ্যা আখিরাতের অর্থের আলাদা একটি দিক তুলে ধরে।"
+          },
+          {
+            "en": "At-Tabari explains them as those who do not affirm the ma'ad ila Allah, the return to Allah, and who do not acknowledge the reward and the punishment. Al-Muyassar speaks of those who do not affirm al-dar al-akhirah, the abode of the Hereafter, and the recompense that is in it. Tanwir al-Miqbas, the commentary attributed to Ibn 'Abbas on the quranx page, says: those who do not believe in resurrection after death. One gloss looks to the return, one to the recompense, one to the rising from the grave.",
+            "bn": "তাবারী তাদের ব্যাখ্যা দেন এভাবে: যারা আল্লাহর কাছে ফিরে যাওয়াকে, অর্থাৎ মা'আদ ইলাল্লাহকে, সত্য বলে মানে না, আর সওয়াব ও শাস্তিকে স্বীকার করে না। মুয়াসসার বলেন, যারা আদ-দারুল আখিরাহ, আখিরাতের জগৎ, আর সেখানকার প্রতিদানকে সত্য বলে মানে না। কুরআনএক্সের পাতায় ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাস বলে: যারা মৃত্যুর পর পুনরুত্থানে বিশ্বাস করে না। একটি ব্যাখ্যার চোখ ফেরার দিকে, একটির প্রতিদানের দিকে, আরেকটির কবর থেকে ওঠার দিকে।"
+          },
+          {
+            "en": "The same description returns in 17:45: when you recite the Qur'an, We place between you and those who do not believe in the Hereafter a hidden barrier. Both verses set this group beside the Qur'an itself: once as people the Book warns, and once as people a hidden barrier separates from the one reciting it. Each time the surah ties the denial to the Book.",
+            "bn": "একই বর্ণনা আবার আসে ১৭:৪৫ আয়াতে: তুমি যখন কুরআন পাঠ করো, তখন তোমার আর যারা আখিরাতে ঈমান আনে না তাদের মাঝে আমি এক অদৃশ্য পর্দা টেনে দিই। দুই আয়াতেই দলটি দাঁড়িয়ে আছে কুরআনের পাশে। একবার তারা সেই মানুষ, যাদের কিতাব সতর্ক করে। আরেকবার তারা সেই মানুষ, যাদের আর পাঠকারীর মাঝে থাকে এক অদৃশ্য পর্দা। প্রতিবার সূরাটি অস্বীকারকে বেঁধে দেয় কিতাবের সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Nothing Holds Back",
+          "bn": "যখন কিছুই আটকায় না"
+        },
+        "p": [
+          {
+            "en": "At-Tabari does not stop at defining the denial. He adds one clause that explains why it matters: fa-hum li-dhalika la yatahashawna min rukub ma'asi Allah, and so, because of that, they do not keep themselves away from committing acts of disobedience to Allah. On his reading, not believing in the return is more than a wrong opinion about the future. It removes the reason a person has for holding back now. Whoever expects no meeting with his Lord and no recompense has nothing left to weigh a sin against.",
+            "bn": "তাবারী শুধু অস্বীকারের সংজ্ঞা দিয়ে থামেন না। একটি বাক্যাংশ যোগ করে দেখান কেন বিষয়টা গুরুত্বপূর্ণ: ফাহুম লিযালিকা লা ইয়াতাহাশাওনা মিন রুকূবি মা'আসিল্লাহ। অর্থাৎ এ কারণেই তারা আল্লাহর নাফরমানিতে লিপ্ত হওয়া থেকে নিজেদের দূরে রাখে না। তাঁর ব্যাখ্যায় ফেরার দিনে অবিশ্বাস ভবিষ্যৎ নিয়ে কেবল একটা ভুল মত নয়। এটা মানুষের হাত থেকে আজ নিজেকে সামলে রাখার কারণটাই কেড়ে নেয়। যে রবের সঙ্গে সাক্ষাৎ আশা করে না, প্রতিদানও আশা করে না, গুনাহকে মাপার মতো কোনো পাল্লা তার হাতে আর থাকে না।"
+          },
+          {
+            "en": "This turns the verse toward the reader who does believe. If denial of the return is what lets the hand go, as at-Tabari says, then belief in it ought to make a person hesitate before a wrong. The surah speaks of that work in 17:19: whoever desires the Hereafter and strives for it as it deserves, being a believer, their striving is appreciated. A belief that never slows the hand has kept its words but lost its use. The honest question is whether it ever stops me.",
+            "bn": "এ কথা আয়াতটিকে ঘুরিয়ে দেয় সেই পাঠকের দিকে, যিনি ঈমান রাখেন। তাবারীর কথামতো ফেরার দিনের অস্বীকারই যদি হাতের লাগাম খুলে দেয়, তবে সেই দিনের বিশ্বাসের কাজ হওয়া উচিত অন্যায়ের আগে মানুষকে থমকে দেওয়া। সেই কাজের কথা সূরাটি বলে ১৭:১৯ আয়াতে: যে আখিরাত চায়, আর মুমিন অবস্থায় তার জন্য যথাযথ চেষ্টা করে, তার চেষ্টার কদর করা হবে। যে বিশ্বাস কখনো হাত থামায় না, তার কথাগুলো রয়ে গেছে, কাজটা হারিয়ে গেছে। তাই সৎ প্রশ্নটা হলো, সে বিশ্বাস কখনো আমাকে থামায় কি না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Already Made Ready",
+          "bn": "আগে থেকেই প্রস্তুত"
+        },
+        "p": [
+          {
+            "en": "A'tadna lahum: We have prepared for them. At-Tabari glosses the verb with a more common one, a'dadna, We have made ready, and then says what it is made ready for: li-qudumihim 'ala rabbihim yawm al-qiyamah, for their arrival before their Lord on the Day of Resurrection. Al-Muyassar uses the same gloss, a'dadna. The verb is past in form while the meeting it looks toward is still ahead. The preparation is spoken of as done.",
+            "bn": "আ'তাদনা লাহুম: আমি তাদের জন্য প্রস্তুত করে রেখেছি। তাবারী ক্রিয়াটির অর্থ দেন বেশি প্রচলিত আরেকটি ক্রিয়া দিয়ে, আ'দাদনা, আমি তৈরি করে রেখেছি। তারপর বলেন কীসের জন্য তৈরি: লিকুদূমিহিম 'আলা রব্বিহিম ইয়াওমাল কিয়ামাহ, কিয়ামতের দিন তাদের রবের সামনে হাজির হওয়ার জন্য। মুয়াসসারও একই অর্থ দেন, আ'দাদনা। ক্রিয়াটি গঠনে অতীত কালের, অথচ যে সাক্ষাতের দিকে সে তাকিয়ে আছে তা এখনো সামনে। প্রস্তুতির কথা বলা হচ্ছে শেষ হয়ে যাওয়া কাজ হিসেবে।"
+          },
+          {
+            "en": "At-Tabari's phrase also frames the punishment as part of an arrival before the Lord. The return to Allah, the very thing he said these people deny, is the occasion on which what was prepared meets them. Ibn Kathir places the punishment on the same day, the Day of Resurrection; Tanwir al-Miqbas says simply: in the Hereafter. What they refused to expect is the meeting at which the prepared punishment is found.",
+            "bn": "তাবারীর বাক্যাংশ শাস্তিকে দেখায় রবের সামনে হাজির হওয়ার অংশ হিসেবেও। আল্লাহর কাছে ফিরে যাওয়া, যাকে তিনি এই মানুষদের অস্বীকারের বিষয় বলেছিলেন, সেটাই সেই উপলক্ষ, যেখানে প্রস্তুত রাখা জিনিসটি তাদের সামনে আসবে। ইবন কাসীরও শাস্তিকে রাখেন সেই একই দিনে, কিয়ামতের দিনে। তানবীরুল মিকবাস শুধু বলে: আখিরাতে। যে সাক্ষাৎকে তারা আশা করতে চায়নি, প্রস্তুত শাস্তি অপেক্ষা করছে সেখানেই।"
+          },
+          {
+            "en": "The verb itself carries no threat; it means making something ready. The Qur'an uses a'tadna for a Blaze in 25:11, for those who deny the Hour, and in 33:31 for a noble provision prepared for the one who obeys Allah and His Messenger and does righteousness. In 17:9 and 17:10 the two outcomes are worded differently, the reward with lahum alone and the punishment with a'tadna; the commentaries read for this verse do not remark on it.",
+            "bn": "ক্রিয়াটি নিজে হুমকির অর্থ বহন করে না। এর মানে কোনো কিছু তৈরি করে রাখা। ২৫:১১ আয়াতে কুরআন আ'তাদনা বলেছে জ্বলন্ত আগুনের জন্য, যারা কিয়ামতকে অস্বীকার করে তাদের বেলায়। আবার ৩৩:৩১ আয়াতে একই শব্দ এসেছে সম্মানজনক রিজিকের জন্য, যা প্রস্তুত আল্লাহ ও তাঁর রাসূলের অনুগত নেক আমলকারীর জন্য। ১৭:৯ ও ১৭:১০ আয়াতে দুই পরিণামের ভাষা আলাদা: পুরস্কারের বেলায় শুধু লাহুম, শাস্তির বেলায় আ'তাদনা। এ আয়াতের জন্য পড়া তাফসীরগুলো এ পার্থক্য নিয়ে কিছু বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Painful, and in Which Abode",
+          "bn": "যন্ত্রণাদায়ক, কোন জগতে"
+        },
+        "p": [
+          {
+            "en": "'Adhaban alima: a painful punishment. At-Tabari glosses alim as muji', that which causes pain, and then names it: dhalika 'adhab jahannam, that is the punishment of Hell. Al-Muyassar uses the same word, 'adhaban muji'an, and places it fi al-nar, in the Fire. Al-Baghawi's whole comment on the verse is three words: wa huwa al-nar, and it is the Fire. Al-Jalalayn says the same: namely the Fire. On where this punishment lies, these four commentaries speak with one voice.",
+            "bn": "'আযাবান আলীমা: যন্ত্রণাদায়ক শাস্তি। তাবারী আলীম শব্দের অর্থ দেন মূজি', যা ব্যথা দেয়। তারপর নাম বলে দেন: যালিকা 'আযাবু জাহান্নাম, সেটা জাহান্নামের শাস্তি। মুয়াসসার একই শব্দ ব্যবহার করেন, 'আযাবান মূজি'আন, আর তা রাখেন ফিন নার, আগুনে। এ আয়াতে বাগাভীর পুরো মন্তব্য তিনটি শব্দের: ওয়া হুয়ান নার, আর তা হলো আগুন। জালালাইনও একই কথা বলেন: অর্থাৎ আগুন। শাস্তিটা কোথায়, এ প্রশ্নে এই চারটি তাফসীর এক সুরে কথা বলে।"
+          },
+          {
+            "en": "Maududi, commenting on 17:9 and 17:10 together, reads the verses with their context: this means to warn those persons or people or nations who do not take a lesson from the admonitions of the Qur'an to be ready to undergo that chastisement which the Israelites had to suffer. He links the warning to 17:4 to 17:8, the account just told. The other commentaries fetched place the punishment in the Hereafter and the Fire. Both emphases are kept here, without choosing.",
+            "bn": "মওদূদী ১৭:৯ ও ১৭:১০ আয়াতের আলোচনা একসঙ্গে করেন, এবং আয়াত দুটোকে পড়েন প্রসঙ্গসহ। তাঁর কথায়, এর উদ্দেশ্য সেই ব্যক্তি, গোষ্ঠী বা জাতিকে সতর্ক করা, যারা কুরআনের উপদেশ থেকে শিক্ষা নেয় না, যেন তারা সেই শাস্তির জন্য প্রস্তুত থাকে, যা বানী ইসরাঈলকে ভোগ করতে হয়েছিল। এভাবে তিনি সতর্কবাণীটিকে যুক্ত করেন ১৭:৪ থেকে ১৭:৮ আয়াতের সদ্য বলা ঘটনার সঙ্গে। সংগৃহীত বাকি তাফসীরগুলো শাস্তিকে রাখে আখিরাতে ও আগুনে। দুই ঝোঁকই এখানে রাখা হলো, কোনোটিকে বেছে না নিয়ে।"
+          },
+          {
+            "en": "This needs saying plainly. 17:4 to 17:8 tell what was decreed for the Children of Israel in their Scripture, and 17:10 describes those who do not believe in the Hereafter. The verses describe what the text describes and license nothing against any living person or community. Al-Kashani, on the same page, gives an inward reading: the deniers are veiled from the world of light and imprisoned in the darkness of physical nature, and their punishment includes the fires of privation from pleasures and passionate desires.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। ১৭:৪ থেকে ১৭:৮ আয়াত জানায়, বানী ইসরাঈলের কিতাবে তাদের জন্য কী নির্ধারিত হয়েছিল। আর ১৭:১০ আয়াত বর্ণনা দেয় তাদের, যারা আখিরাতে ঈমান আনে না। আয়াতগুলো কেবল সেটুকুই বর্ণনা করে যা তাদের পাঠে আছে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কোনো কিছুর অনুমতি তারা দেয় না। একই পাতায় কাশানী এক অন্তর্মুখী ব্যাখ্যা দেন। তাঁর মতে অস্বীকারকারীরা আলোর জগৎ থেকে পর্দায় ঢাকা, দেহজ স্বভাবের অন্ধকারে বন্দি। তাদের শাস্তির মধ্যে আছে ভোগ আর কামনা থেকে বঞ্চিত হওয়ার আগুনও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Promise and Threat Together",
+          "bn": "প্রতিশ্রুতি ও হুঁশিয়ারি একসঙ্গে"
+        },
+        "p": [
+          {
+            "en": "Why is the warning placed inside the good news, rather than in a sentence of its own? Al-Qurtubi answers with a remark about the whole Book: wal-Qur'an mu'zamuhu wa'd wa wa'id, and the greater part of the Qur'an is promise and threat. On his account, 17:9 and 17:10 are not an exception but a sample. The promise of a great reward and the threat of a painful punishment come in one breath because that is how the Qur'an speaks for most of its length.",
+            "bn": "সতর্কবাণীটিকে আলাদা বাক্যে না রেখে সুসংবাদের ভেতরেই কেন রাখা হলো? কুরতুবী উত্তর দেন গোটা কিতাব নিয়ে একটি মন্তব্যে: ওয়াল কুরআনু মু'যামুহু ওয়া'দুন ওয়া ওয়া'ঈদ, আর কুরআনের বেশির ভাগই প্রতিশ্রুতি ও হুঁশিয়ারি। তাঁর হিসাবে ১৭:৯ ও ১৭:১০ ব্যতিক্রম নয়, বরং নমুনা। বিরাট পুরস্কারের প্রতিশ্রুতি আর যন্ত্রণাদায়ক শাস্তির হুঁশিয়ারি এক নিঃশ্বাসে আসে, কারণ কুরআনের বেশির ভাগ অংশ জুড়ে কথা বলার ধরনটাই এমন।"
+          },
+          {
+            "en": "As-Sa'di explains what the pairing does. Fal-Qur'an mushtamil 'ala al-bisharah wal-nidharah: the Qur'an contains both good news and warning. And it mentions the causes by which each is reached: the good news is attained through faith and righteous deeds, and the warning is deserved through their opposite. On his reading the verse does more than announce two outcomes. It names what leads to each, so a reader can see which road his own deeds are on.",
+            "bn": "এ জোড়া কী কাজ করে, সা'দী তা ব্যাখ্যা করেন। ফাল কুরআনু মুশতামিলুন 'আলাল বিশারাতি ওয়ান নিযারাহ: কুরআনে সুসংবাদও আছে, সতর্কবাণীও আছে। সঙ্গে কুরআন উল্লেখ করে, কোন কারণে কোনটা পাওয়া যায়। সুসংবাদ মেলে ঈমান ও নেক আমলের মাধ্যমে, আর সতর্কবাণীর যোগ্য হয় মানুষ তার উল্টো কাজে। তাঁর ব্যাখ্যায় আয়াতটি শুধু দুটি পরিণাম ঘোষণা করে না। কোনটার দিকে কী নিয়ে যায়, তাও জানিয়ে দেয়, যাতে পাঠক দেখতে পান তাঁর নিজের আমল কোন পথে চলছে।"
+          },
+          {
+            "en": "Al-Qurtubi closes with a note on the verb of 17:9 on which, for him, both clauses hang: Hamza and al-Kisa'i read wa yabshuru, in the lighter form, and he says the reading has been mentioned already. Either way the verb is one of glad tidings. A reader who keeps only the reward has heard half of the sentence, and a reader who keeps only the threat has heard the other half. The verse sees to it that neither is heard alone.",
+            "bn": "কুরতুবী শেষ করেন ১৭:৯-এর সেই ক্রিয়া নিয়ে একটি টীকায়, তাঁর পাঠে যার উপর দুই অংশই নির্ভর করে। হামযা ও কিসাঈ পড়েছেন ওয়া ইয়াবশুরু, হালকা রূপে। তিনি বলেন, এ পাঠের কথা আগেই বলা হয়েছে। যে রূপেই পড়া হোক, ক্রিয়াটি সুসংবাদেরই। যে পাঠক শুধু পুরস্কারটুকু মনে রাখেন, তিনি বাক্যের অর্ধেক শুনেছেন। যিনি শুধু হুঁশিয়ারিটুকু রাখেন, তিনি শুনেছেন বাকি অর্ধেক। আয়াতটি নিশ্চিত করে, কোনোটিই যেন একা শোনা না হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Haste, Then the Open Record",
+          "bn": "তাড়াহুড়া, তারপর খোলা খাতা"
+        },
+        "p": [
+          {
+            "en": "The verses that follow turn to the human being. 17:11, man prays for evil as he prays for good and is ever hasty, has its own commentary and is only pointed to here. Then 17:13 and 17:14 speak of each person's deeds fastened to his neck and a record spread open on the Day of Resurrection: read your record, your own self suffices against you today. The arrival before the Lord that at-Tabari named is described there from the inside.",
+            "bn": "পরের আয়াতগুলো দৃষ্টি ফেরায় মানুষের দিকে। ১৭:১১ বলে, মানুষ অকল্যাণের জন্য দোয়া করে যেভাবে কল্যাণের জন্য করে, আর মানুষ বড়ই তাড়াহুড়াপ্রবণ। সে আয়াতের ব্যাখ্যা তার নিজের জায়গায়, এখানে শুধু ইঙ্গিত দেওয়া হলো। তারপর ১৭:১৩ ও ১৭:১৪ আয়াত বলে, প্রত্যেকের আমল তার গলায় বেঁধে দেওয়া, আর কিয়ামতের দিন খোলা অবস্থায় তার সামনে আসবে আমলনামা: তোমার কিতাব পড়ো, আজ তোমার হিসাবের জন্য তুমি নিজেই যথেষ্ট। তাবারী রবের সামনে যে হাজির হওয়ার কথা বলেছিলেন, সেখানে তার বর্ণনা আসে ভেতর থেকে।"
+          },
+          {
+            "en": "And 17:15 completes the frame: whoever is guided is guided for his own soul, whoever strays strays against it, no bearer of burdens bears another's, and We never punish until We have sent a messenger. Read beside it, 17:10 is part of the sending. The warning arrives in the Book before anything it warns of. None of the commentaries fetched for this verse attaches a hadith to it, so this article quotes none. Nor do they report any occasion of revelation for it.",
+            "bn": "আর ১৭:১৫ আয়াত কাঠামোটা পূর্ণ করে: যে হেদায়েত পায় সে নিজের জন্যই পায়, যে পথ হারায় সে নিজের ক্ষতিতেই হারায়, কোনো বোঝা বহনকারী অন্যের বোঝা বহন করবে না, আর রাসূল না পাঠানো পর্যন্ত আমি শাস্তি দিই না। সে আয়াতের পাশে রাখলে দেখা যায়, ১৭:১০ নিজেই সেই পাঠানো বার্তার অংশ। যা নিয়ে সতর্ক করা হচ্ছে, তা ঘটার আগেই সতর্কবাণী কিতাবে পৌঁছে গেছে। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এ প্রবন্ধে কোনো হাদীস উদ্ধৃত হয়নি। আয়াতটির কোনো শানে নুযূলও তারা উল্লেখ করেনি।"
+          },
+          {
+            "en": "What the verse leaves with a believing reader is a test of his own belief, not a verdict on anyone else. At-Tabari's clause is the measure: those who do not believe in the return do not hold back from sin. Turned around, belief that one will arrive before one's Lord ought to show in the sins a person leaves. The good news and the warning are one sentence; the reader is asked to keep both, and to let the second stay his hand.",
+            "bn": "ঈমানদার পাঠকের হাতে আয়াতটি রেখে যায় নিজের বিশ্বাসের একটি পরীক্ষা, অন্য কারও উপর রায় নয়। মাপকাঠি তাবারীর সেই বাক্যাংশ: যারা ফেরার দিনে বিশ্বাস করে না, তারা গুনাহ থেকে নিজেদের সামলায় না। কথাটা উল্টে দেখলে দাঁড়ায়: রবের সামনে হাজির হতে হবে, এ বিশ্বাস থাকলে তা চোখে পড়ার কথা সেই গুনাহগুলোতে, যা মানুষ ছেড়ে দেয়। সুসংবাদ আর সতর্কবাণী মিলে একটিই বাক্য। পাঠকের কাছে চাওয়া হয় দুটোকেই ধরে রাখতে, আর দ্বিতীয়টিকে দিয়ে নিজের হাত থামাতে।"
+          }
+        ]
+      }
+    ]
+  },
   "17:13": {
     "sections": [
       {
