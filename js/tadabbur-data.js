@@ -35635,6 +35635,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Qur'an came clear enough to leave no one the excuse of not understanding; when you turn from any part of it, ask honestly whether the barrier is your grasp or your will.",
     "lessonBn": "কুরআন এতটাই স্পষ্ট হয়ে এসেছে যে না বোঝার অজুহাত কারও হাতে থাকে না। এর কোনো অংশ থেকে মুখ ফেরালে সৎভাবে নিজেকে জিজ্ঞেস করুন, বাধাটা আপনার বোঝায়, নাকি আপনার ইচ্ছায়।"
+  },
+  "26:189": {
+    "reflectionEn": "They had dared their prophet to bring a piece of the sky down on them, and he answered only that his Lord knew what they did. Then, the verse says, they denied him, and the punishment of the Day of the Canopy seized them. The day is named for what came over their heads: a covering from above, which the commentators picture as a cloud they ran to for relief from the heat. The verse calls it the punishment of a great day, and it passes no sentence on anyone living. Its question is for me. What am I running toward for shade, and have I asked whether it is shelter at all?",
+    "reflectionBn": "তারা নিজেদের নবীকে চ্যালেঞ্জ দিয়েছিল, পারলে আকাশের এক টুকরো আমাদের মাথায় ফেলে দেখাও। তিনি শুধু বলেছিলেন, তোমরা যা কর, আমার রব তা ভালো জানেন। তারপর, আয়াত বলছে, তারা তাঁকে মিথ্যাবাদী বলল, আর ছায়ার দিনের শাস্তি তাদের পাকড়াও করল। দিনটার নাম হয়েছে মাথার উপর যা এসেছিল তার নামে: উপর থেকে এক আচ্ছাদন। তাফসীরকারেরা একে দেখেন এক মেঘ হিসেবে, প্রচণ্ড গরম থেকে বাঁচতে মানুষ যার নিচে ছুটে গিয়েছিল। আয়াত একে বলে মহাদিবসের শাস্তি। আজকের কোনো জীবিত মানুষের উপর সে কোনো রায় দেয় না। প্রশ্নটা বরং আমার কাছে। ছায়ার খোঁজে আমি কিসের দিকে ছুটছি? আর সেটা আদৌ আশ্রয় কি না, কখনো কি জিজ্ঞেস করেছি?",
+    "pointsEn": [
+      "When the truth asks something of me, do I refuse it outright, or keep putting it off until refusing has become my habit?",
+      "What do I lean on for comfort and safety without ever asking whether Allah is pleased with it?",
+      "Have I ever demanded that Allah prove Himself on my terms, as if He owed me a sign?",
+      "When I hear of a heatwave or a disaster, do I hurry to say whom it is punishing, or turn to my own account and to helping those it struck?",
+      "Which warning have I already been given that I am treating as if its day will never come?"
+    ],
+    "pointsBn": [
+      "সত্য যখন আমার কাছে কিছু চায়, আমি কি সরাসরি না বলে দিই? নাকি কেবল পিছিয়ে যাই, যতক্ষণ না ফিরিয়ে দেওয়াটাই আমার অভ্যাস হয়ে যায়?",
+      "আরাম আর নিরাপত্তার জন্য কোন জিনিসের উপর আমি ভরসা করি, অথচ কখনো জিজ্ঞেস করিনি আল্লাহ তাতে খুশি কি না?",
+      "আমি কি কখনো চেয়েছি, আল্লাহ আমার শর্তে নিজেকে প্রমাণ করুন, যেন আমাকে নিদর্শন দেখানো তাঁর দায়?",
+      "কোনো তাপপ্রবাহ বা দুর্যোগের খবর শুনলে আমি কি তাড়াহুড়া করে বলে দিই, এটা কাদের শাস্তি? নাকি নিজের হিসাবের দিকে ফিরি আর বিপন্ন মানুষের পাশে দাঁড়াই?",
+      "কোন সতর্কবাণী আমি আগেই পেয়ে গেছি, অথচ এমনভাবে চলছি যেন তার দিন কখনো আসবে না?"
+    ],
+    "lessonEn": "Denial repeated becomes a nature. Heed the warning while it is still only words, and seek your shelter in Allah, not in what merely looks like shade.",
+    "lessonBn": "বারবার অস্বীকার করতে করতে তা স্বভাব হয়ে যায়। সতর্কবাণী যতক্ষণ কেবল কথা, ততক্ষণেই তা কানে নিন, আর আশ্রয় খুঁজুন আল্লাহর কাছে, শুধু ছায়ার মতো দেখায় এমন কিছুর কাছে নয়।"
   }
 };
 

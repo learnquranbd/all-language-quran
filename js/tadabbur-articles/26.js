@@ -9359,6 +9359,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:189": {
+    "sections": [
+      {
+        "h": {
+          "en": "Denied, Then Seized",
+          "bn": "অস্বীকার, তারপর পাকড়াও"
+        },
+        "p": [
+          {
+            "en": "Fa-kadhdhabuhu fa-akhadhahum ʿadhabu yawmi al-zullah: so they denied him, and the punishment of the Day of the Canopy seized them. Two small particles of sequence carry the whole story. The first closes the exchange of the last few verses: the charge of sorcery in 26:185, the claim in 26:186 that he was a man like them and a liar, and the dare in 26:187. The second opens the consequence without a pause. At-Tabari glosses the first word in two: his people denied him. Nothing more is said of what they did.",
+            "bn": "ফাকাযযাবূহু ফাআখাযাহুম আযাবু ইয়াওমিয যুল্লাহ: তারা তাঁকে মিথ্যাবাদী বলল, ফলে ছায়ার দিনের শাস্তি তাদের পাকড়াও করল। পুরো কাহিনি বইছে ছোট্ট দুটি 'ফা', যা একটার পর আরেকটা ঘটনা জুড়ে দেয়। প্রথমটি আগের কয়েক আয়াতের কথাবার্তায় ইতি টানে। ২৬:১৮৫ আয়াতে তারা তাঁকে যাদুগ্রস্ত বলেছিল, ২৬:১৮৬ আয়াতে বলেছিল তিনি তাদের মতোই মানুষ আর মিথ্যুক, আর ২৬:১৮৭ আয়াতে দিয়েছিল চ্যালেঞ্জ। দ্বিতীয় 'ফা' কোনো বিরতি ছাড়াই পরিণতির দরজা খুলে দেয়। তাবারী প্রথম শব্দের ব্যাখ্যা দেন দুই শব্দে: তাঁর কওম তাঁকে মিথ্যাবাদী বলল। তারা আর কী করেছিল, তা আর বলা হয়নি।"
+          },
+          {
+            "en": "The pronoun is singular. At 26:176 the passage opened with the people of al-Aykah denying al-mursalin, the messengers, in the plural; here they deny him, the one man who stood in front of them. The surah's earlier stories close in the same words. Of ʿAd, 26:139 says fa-kadhdhabuhu fa-ahlaknahum, so they denied him and We destroyed them; of Thamud, 26:158 says fa-akhadhahum al-ʿadhab, so the punishment seized them. The verb of seizing returns here, and with it the surah's pattern: a messenger, a refusal, and an ending told in very few words.",
+            "bn": "সর্বনামটি একবচন। ২৬:১৭৬ আয়াতে আইকাবাসীদের কথা শুরু হয়েছিল এভাবে: তারা রাসূলদের, আল-মুরসালীনকে, বহুবচনে অস্বীকার করল। এখানে তারা অস্বীকার করছে তাঁকে, সামনে দাঁড়ানো সেই একজন মানুষকে। সূরার আগের কাহিনিগুলোও শেষ হয়েছে একই শব্দে। আদ জাতির ব্যাপারে ২৬:১৩৯ আয়াত বলে: ফাকাযযাবূহু ফাআহলাকনাহুম, তারা তাঁকে মিথ্যাবাদী বলল, তাই আমি তাদের ধ্বংস করলাম। সামূদের ব্যাপারে ২৬:১৫৮ আয়াত বলে: ফাআখাযাহুমুল আযাব, শাস্তি তাদের পাকড়াও করল। পাকড়াওয়ের সেই ক্রিয়া এখানে ফিরে এসেছে। সঙ্গে ফিরে এসেছে সূরার ছাঁদ: একজন রাসূল, একটি প্রত্যাখ্যান, আর অল্প কয়েক শব্দে বলা এক পরিণতি।"
+          },
+          {
+            "en": "As-Saʿdi reads more into the first word than a single act. On his gloss, denial had become their description and disbelief their settled habit, so that signs no longer did them any good, and there was no way left with them except the descent of the punishment. On this account the verse pictures not a people who refused once and were struck at once, but a refusal that had hardened into what they were, and a punishment that came when nothing else remained for them.",
+            "bn": "সা'দী প্রথম শব্দটিতে একবারের একটি কাজের চেয়ে বেশি কিছু দেখেন। তাঁর ব্যাখ্যায়, মিথ্যা বলা তখন তাদের পরিচয় হয়ে গিয়েছিল, আর কুফর হয়ে গিয়েছিল তাদের বাঁধা অভ্যাস। নিদর্শন আর তাদের কোনো কাজে আসত না। শাস্তি নেমে আসা ছাড়া তাদের বেলায় আর কোনো উপায় বাকি ছিল না। সা'দীর পাঠে আয়াতটি এমন লোকদের ছবি আঁকে না, যারা একবার অস্বীকার করেছে আর সঙ্গে সঙ্গে ধরা পড়েছে। ছবিটা বরং এমন এক প্রত্যাখ্যানের, যা জমে জমে তাদের স্বভাব হয়ে গিয়েছিল। শাস্তি এসেছিল তখন, যখন তাদের জন্য আর কিছুই অবশিষ্ট ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Day Named for Its Shade",
+          "bn": "ছায়ার নামে এক দিন"
+        },
+        "p": [
+          {
+            "en": "Al-zullah shares its root with zill, shade: it is something that shades from above. At-Tabari gives his own gloss before any report. By al-zullah, he says, is meant a cloud that shaded them; when they had all gathered beneath it, it blazed upon them as fire and burned them, and that, he adds, is what the reports brought. The Muyassar tells it in plain steps: they persisted in denial, intense heat struck them, a cloud shaded them, and when they gathered under it, it flamed upon them as fire.",
+            "bn": "আয-যুল্লাহ শব্দের মূল আর যিল্ল, অর্থাৎ ছায়া, একই। যুল্লাহ মানে এমন কিছু, যা উপর থেকে ছায়া দেয়। কোনো বর্ণনা আনার আগে তাবারী নিজের ব্যাখ্যা দেন। তাঁর কথায়, যুল্লাহ মানে এক মেঘ, যা তাদের উপর ছায়া ফেলেছিল। সবাই যখন তার নিচে জড়ো হলো, মেঘটি আগুন হয়ে তাদের উপর জ্বলে উঠল আর তাদের পুড়িয়ে দিল। তিনি যোগ করেন, বর্ণনাগুলোও এ কথাই এনেছে। মুয়াসসার ধাপে ধাপে সহজ করে বলে: তারা তাঁকে মিথ্যাবাদী বলতেই থাকল। তারপর প্রচণ্ড গরম তাদের ঘিরে ধরল। এক মেঘ তাদের ছায়া দিল। নিচে জড়ো হতেই সেটা আগুন হয়ে জ্বলে উঠল।"
+          },
+          {
+            "en": "Mujahid, in two chains that at-Tabari records, reads the word more starkly. In one wording the Day of the Canopy is the punishment's overshadowing of them; in the other, the punishment overshadowed the people of Shuʿayb. On that reading the canopy is not a cloud that happened to carry punishment; the punishment itself was what hung over their heads. Either way, the day takes its name from what came over them, and the verse names the day twice: yawm al-zullah, then yawmin ʿazim, a great day.",
+            "bn": "মুজাহিদের কাছ থেকে তাবারী দুটি সনদে বর্ণনা এনেছেন, আর তাতে শব্দটির পাঠ আরও কঠিন। একটি ভাষ্যে ছায়ার দিন মানে শাস্তি তাদের উপর ছায়া হয়ে নেমে আসা। অন্য ভাষ্যে, শাস্তি শুআয়ব (আঃ)-এর কওমের উপর ছায়া ফেলেছিল। এ পাঠে আচ্ছাদনটা এমন মেঘ নয়, যা ঘটনাচক্রে শাস্তি বয়ে এনেছিল। মাথার উপর ঝুলে থাকা জিনিসটাই ছিল শাস্তি। যেভাবেই পড়ি, দিনটির নাম হয়েছে তাদের উপর যা এসেছিল তার নামে। আর আয়াত দিনটির কথা বলে দুবার: প্রথমে ইয়াওমুয যুল্লাহ, ছায়ার দিন, তারপর ইয়াওমিন আযীম, এক মহাদিবস।"
+          },
+          {
+            "en": "The Qur'an knows another cloud of this kind. When ʿAd saw a cloud advancing toward their valleys, 46:24 says, they called it a cloud that would bring them rain; it was, rather, what they had sought to hasten, a wind carrying a painful punishment. No commentator fetched here links the two passages; it is offered only as an echo within the Qur'an. In both, the thing that looked like relief was the punishment, and those beneath it did not know until it fell.",
+            "bn": "কুরআনে এ রকম আরেকটি মেঘের কথা আছে। ৪৬:২৪ আয়াত বলছে, আদ জাতি যখন দেখল একটি মেঘ তাদের উপত্যকার দিকে এগিয়ে আসছে, তারা বলল, এ মেঘ আমাদের বৃষ্টি দেবে। আসলে সেটা ছিল তা-ই, যা তারা তাড়াতাড়ি চেয়েছিল: এমন এক বাতাস, যার ভেতরে যন্ত্রণাদায়ক শাস্তি। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটি দুই জায়গাকে মিলিয়ে দেখায়নি। তাই এটা এখানে রাখা হলো কেবল কুরআনের ভেতরের এক প্রতিধ্বনি হিসেবে। দুই জায়গাতেই যা স্বস্তির মতো দেখাচ্ছিল, সেটাই ছিল শাস্তি। নিচে যারা ছিল, তারা টের পেল তা নেমে আসার পরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heat First, Then a Cloud",
+          "bn": "আগে তাপ, পরে মেঘ"
+        },
+        "p": [
+          {
+            "en": "The fullest report is at-Tabari's, from Yazid al-Bahili, who asked Ibn ʿAbbas about this very verse; Ibn Kathir cites it from him. Ibn ʿAbbas said that Allah sent upon them a heavy, stifling heat that seized their breath. They went into their houses, and it entered the innermost rooms after them, so they fled out into the open country. Then Allah sent a cloud that shaded them from the sun, and they found coolness and delight in it, and called to each other, until, when they had gathered beneath it, Allah sent it upon them as fire.",
+            "bn": "সবচেয়ে পূর্ণাঙ্গ বর্ণনাটি তাবারী এনেছেন ইয়াযীদ আল-বাহিলী থেকে। তিনি ঠিক এ আয়াত সম্পর্কে ইবন আব্বাস (রাঃ)-কে জিজ্ঞেস করেছিলেন। ইবন কাসীরও তাবারীর সূত্রে বর্ণনাটি এনেছেন। ইবন আব্বাস (রাঃ) বললেন, আল্লাহ তাদের উপর ভারী, দম আটকানো গরম পাঠালেন, যা তাদের নিঃশ্বাস চেপে ধরল। তারা ঘরে ঢুকল, গরম তাদের পিছু পিছু ঘরের একেবারে ভেতরে ঢুকে পড়ল। তখন তারা ঘর ছেড়ে খোলা প্রান্তরের দিকে পালাল। এরপর আল্লাহ এক মেঘ পাঠালেন, যা রোদ থেকে তাদের ছায়া দিল। তাতে তারা শীতলতা আর আরাম পেল, একে অপরকে ডাকতে লাগল। যখন সবাই তার নিচে জড়ো হলো, আল্লাহ সেটাকেই আগুন বানিয়ে তাদের উপর পাঠালেন।"
+          },
+          {
+            "en": "Others give the same outline, most of them in at-Tabari. Qatada says the punishment was raised before them as though it were a cloud, and when it drew near they went out to it hoping for its coolness, and beneath it it rained fire on them. Ibn Jurayj says a party went out to it and found a breeze and coolness before punishment was poured on them from above. Al-Baghawi, like Jaʿfar in at-Tabari, has them going down into underground tunnels to cool themselves and finding them hotter than the open air.",
+            "bn": "অন্যরাও একই কাঠামো দিয়েছেন, যার বেশিরভাগই তাবারীতে আছে। কাতাদা বলেন, শাস্তিকে তাদের সামনে তুলে ধরা হয়েছিল যেন তা এক মেঘ। কাছে আসতেই তারা শীতলতার আশায় সেদিকে বেরিয়ে গেল, আর তার নিচে পৌঁছাতেই মেঘ তাদের উপর আগুন বর্ষাল। ইবন জুরাইজ বলেন, তাদের একদল সেদিকে গিয়ে হাওয়া আর শীতলতা পেয়েছিল। তারপর উপর থেকে তাদের উপর শাস্তি ঢেলে দেওয়া হলো। বাগাভী, আর তাবারীতে জাফর, বলেন তারা ঠান্ডা হওয়ার জন্য মাটির নিচের সুড়ঙ্গে ঢুকত, কিন্তু ভেতরে ঢুকে দেখত বাইরের চেয়েও বেশি গরম।"
+          },
+          {
+            "en": "Ibn Kathir's own summary sets the heat at seven days. Ma'arif al-Qur'an, citing Ruh al-Maʿani, places the dark cloud over a nearby forest, with a cool breeze beneath it, and says that it rained fire instead of water. Yet the reports do not agree in every particular. In at-Tabari, Zayd ibn Muʿawiya says it was the quake that took them once they were gathered under it, and Ibn Zayd says the cloud was drawn back and the sun heated upon them until they burned like locusts in a pan.",
+            "bn": "ইবন কাসীর নিজের সারকথায় বলেন, গরম চলেছিল সাতটি দিন। মাআরিফুল কুরআন রূহুল মাআনীর বরাতে বলে, কালো মেঘটি ছিল কাছের এক বনের উপর, নিচে বইছিল ঠান্ডা হাওয়া। আর সেই মেঘ পানির বদলে আগুন বর্ষিয়েছিল। তবু প্রতিটি খুঁটিনাটিতে বর্ণনাগুলো এক নয়। তাবারীতে যায়দ ইবন মুআবিয়া বলেন, মেঘের নিচে জড়ো হওয়ার পর ভূকম্পনই তাদের পাকড়াও করেছিল। আর ইবন যায়দ বলেন, মেঘটি সরিয়ে নেওয়া হয়েছিল, তারপর সূর্যকে তাদের উপর উত্তপ্ত করা হলো, ফলে তারা কড়াইয়ে পঙ্গপালের মতো পুড়ে গেল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Particulars Held Lightly",
+          "bn": "খুঁটিনাটি আলগা হাতে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi adds further pictures under the words it is said: that the canopy was raised over their heads and heated until they died, or that a burning wind drove them to the thicket, which was set alight around them. He also relays from Yazid al-Jariri that the canopy was a mountain raised before them that fell on them once they had gathered beneath it. Then at-Tabari records one more saying of Ibn ʿAbbas, through Jabir, that cuts across all of these: whoever among the scholars tells you what the punishment of the Day of the Canopy was, call him a liar.",
+            "bn": "কুরতুবী 'বলা হয়' বলে আরও কিছু ছবি যোগ করেন। এক বর্ণনায় আচ্ছাদনটিকে তাদের মাথার উপর দাঁড় করিয়ে এমন তপ্ত করা হয়েছিল যে তারা মারা গেল। আরেক বর্ণনায় এক তপ্ত হাওয়া তাদের তাড়িয়ে নিয়ে গিয়েছিল আইকা অর্থাৎ ঘন বনের দিকে, আর বনটাই তাদের ঘিরে জ্বলে উঠেছিল। ইয়াযীদ আল-জুরাইরী থেকে তিনি আনেন, আচ্ছাদনটি ছিল দূরে উঁচু হয়ে ওঠা এক পাহাড়। সবাই তার নিচে জড়ো হতেই পাহাড়টি তাদের উপর ভেঙে পড়েছিল। তারপর তাবারী জাবিরের সূত্রে ইবন আব্বাস (রাঃ)-এর আরও একটি কথা আনেন, যা এর সবগুলোকে ছাপিয়ে যায়: আলেমদের মধ্যে কেউ যদি তোমাকে বলে ছায়ার দিনের শাস্তিটা কী ছিল, তাকে মিথ্যাবাদী বলো।"
+          },
+          {
+            "en": "At-Tabari gives that saying no grading and draws no conclusion from it. Set beside the rest, it reads as a caution against certainty in the particulars: the number of days, the tunnels, the man who first found the shade and called the others. These are reports from Companions and the generations after them about an unseen past, and their pictures differ. This article holds them as reports, attributed to their givers, and builds nothing on their details. The tafsirs fetched for this verse attach no hadith of the Prophet ﷺ to it, and none is offered here.",
+            "bn": "তাবারী এ কথার কোনো মান উল্লেখ করেননি, এ থেকে কোনো সিদ্ধান্তও টানেননি। তবে বাকি বর্ণনাগুলোর পাশে রাখলে একে মনে হয় খুঁটিনাটি নিয়ে নিশ্চিত হয়ে যাওয়ার বিরুদ্ধে এক সতর্কতা। কত দিন গরম ছিল, সুড়ঙ্গের ঘটনা, কে প্রথম ছায়া পেয়ে অন্যদের ডেকেছিল, এসব নিয়ে। এগুলো সাহাবী ও পরবর্তী প্রজন্মের আলেমদের বর্ণনা, এমন এক অতীত নিয়ে যা চোখে দেখা যায়নি, আর তাঁদের আঁকা ছবি এক নয়। তাই এ প্রবন্ধ এগুলোকে বর্ণনা হিসেবেই রাখছে, যিনি যা বলেছেন তাঁর নামে, আর এদের খুঁটিনাটির উপর কিছুই দাঁড় করাচ্ছে না। এ আয়াতের জন্য দেখা তাফসীরগুলো নবী ﷺ-এর কোনো হাদীস এর সঙ্গে যুক্ত করেনি, এখানেও কোনো হাদীস আনা হলো না।"
+          },
+          {
+            "en": "What the verse itself says carries the lesson. They denied the messenger sent to them; a punishment named for the canopy over them took them; it was the punishment of a great day. Every commentator fetched here agrees on that outline, a covering from above. The rest is colour, some of it contested, and a reader who keeps to the outline loses nothing the Qur'an chose to say, and learns to speak of the unseen no further than the text has spoken.",
+            "bn": "শিক্ষাটা বয়ে নেওয়ার জন্য আয়াতের নিজের কথাই যথেষ্ট। তারা নিজেদের কাছে পাঠানো রাসূলকে মিথ্যাবাদী বলেছিল। মাথার উপরের আচ্ছাদনের নামে যে শাস্তির নাম, তা তাদের পাকড়াও করেছিল। আর সেটা ছিল এক মহাদিবসের শাস্তি। এখানে দেখা সব তাফসীর এ কাঠামোয় একমত: উপর থেকে এক আচ্ছাদন। বাকিটা রঙ, তার কিছু অংশ নিয়ে মতভেদও আছে। যে পাঠক কাঠামোতেই থেমে থাকেন, কুরআন যা বলতে চেয়েছে তার কিছুই তিনি হারান না। বরং শেখেন, অদৃশ্য নিয়ে ততদূরই বলতে হয়, পাঠ যতদূর বলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Given What They Dared",
+          "bn": "যা চেয়েছিল, তা-ই এল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the verse against the dare. They had said, so cause pieces of the sky to fall on us, if you are truthful (26:187). This, he writes, is of the same kind as what they asked for, the dropping of pieces upon them. Because they asked in obstinacy and defiance, he says, it was fitting that what they thought would never happen should come true upon them. They demanded something from the sky, and what took them came from above.",
+            "bn": "ইবন কাসীর আয়াতটি পড়েন তাদের চ্যালেঞ্জের সঙ্গে মিলিয়ে। তারা বলেছিল, তুমি সত্যবাদী হলে আকাশের টুকরো আমাদের উপর ফেলে দাও (২৬:১৮৭)। তিনি লেখেন, শাস্তিটা ছিল তাদের চাওয়ারই জাতের, উপর থেকে টুকরো ফেলার মতো। তারা চেয়েছিল জেদ আর হঠকারিতা থেকে। তাই, তাঁর ভাষায়, যা কখনো ঘটবে না বলে তারা ভেবেছিল, ঠিক সেটাই তাদের উপর সত্য হয়ে নেমে আসা ছিল মানানসই। তারা আকাশ থেকে কিছু চেয়েছিল, আর যা তাদের পাকড়াও করল, তা এল উপর থেকেই।"
+          },
+          {
+            "en": "Shuʿayb (AS) had not met the dare with a date or a threat of his own; 26:188, read in its own article, records only that his Lord knew best what they did. The answer came here, and from the One he had named. A dare thrown at a prophet is never a contest between one man and his people. He steps back, and the matter returns to its Owner. Those who demanded a sign from above were given one, and it was their end.",
+            "bn": "শুআয়ব (আঃ) চ্যালেঞ্জের জবাবে কোনো দিন-তারিখ দেননি, নিজের পক্ষ থেকে হুমকিও দেননি। ২৬:১৮৮ আয়াত, যার আলাদা প্রবন্ধ আছে, শুধু জানায় তিনি বলেছিলেন, তোমরা যা কর, আমার রব তা ভালো জানেন। জবাব এল এই আয়াতে, আর এল তাঁর কাছ থেকে, যাঁর নাম তিনি নিয়েছিলেন। কোনো নবীর দিকে ছুড়ে দেওয়া চ্যালেঞ্জ কখনো একজন মানুষ আর তাঁর কওমের লড়াই নয়। নবী সরে দাঁড়ান, বিষয়টি ফিরে যায় তার আসল মালিকের কাছে। যারা উপর থেকে নিদর্শন চেয়েছিল, তারা তা পেল, আর সেটাই হলো তাদের শেষ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Ruin in Three Pictures",
+          "bn": "এক ধ্বংস, তিন ছবি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir notes that the Qur'an describes the destruction of Shuʿayb's people in three places, each in a way that suits its context. In al-Aʿraf the quake seized them (7:91), because they had threatened to drive him and the believers from their town (7:88). In Hud the shout seized the wrongdoers (11:94), because they had mocked his prayer (11:87), and a shout fitted to silence them. Here they asked for pieces of the sky, and the canopy came.",
+            "bn": "ইবন কাসীর লক্ষ করেন, কুরআন শুআয়ব (আঃ)-এর কওমের ধ্বংসের কথা বলেছে তিনটি জায়গায়, আর প্রতিটি জায়গায় এমনভাবে, যা সেই প্রসঙ্গের সঙ্গে মেলে। সূরা আ'রাফে ভূকম্পন তাদের পাকড়াও করেছিল (৭:৯১), কারণ তারা তাঁকে আর মুমিনদের জনপদ থেকে বের করে দেওয়ার হুমকি দিয়েছিল (৭:৮৮)। সূরা হূদে এক বিকট আওয়াজ জালিমদের পাকড়াও করেছিল (১১:৯৪), কারণ তারা তাঁর নামাজ নিয়ে ঠাট্টা করেছিল (১১:৮৭)। তাদের চুপ করাতে আওয়াজই ছিল মানানসই। আর এখানে তারা আকাশের টুকরো চেয়েছিল, তাই এল আচ্ছাদন।"
+          },
+          {
+            "en": "Muhammad ibn Kaʿb al-Qurazi, whom Ibn Kathir quotes, puts the three together: the people of Madyan were punished with three kinds, the quake that drove them from their homes, the canopy, and one shout beneath it that killed them all. Qatada, in at-Tabari and al-Qurtubi, reads it the other way: Shuʿayb (AS) was sent to two nations, Madyan and al-Aykah, and in al-Qurtubi's wording the canopy destroyed al-Aykah while Jibril's shout destroyed Madyan. That is the question raised where al-Aykah first appears at 26:176. This article records both readings and takes no side.",
+            "bn": "ইবন কাসীর মুহাম্মাদ ইবন কা'ব আল-কুরাযীর যে কথা এনেছেন, তাতে তিনটিকে এক সুতোয় গাঁথা হয়েছে। তাঁর মতে মাদইয়ানবাসীকে তিন রকম শাস্তি দেওয়া হয়েছিল: ভূকম্পন তাদের ঘর থেকে বের করে দেয়, তারপর আসে আচ্ছাদন, আর তার নিচে একটিমাত্র আওয়াজ তাদের সবাইকে শেষ করে দেয়। তাবারী ও কুরতুবীতে কাতাদা উল্টো দিক থেকে পড়েন। তাঁর মতে শুআয়ব (আঃ)-কে পাঠানো হয়েছিল দুই জাতির কাছে, মাদইয়ান আর আইকা। কুরতুবীর ভাষ্যে আচ্ছাদন ধ্বংস করেছিল আইকাবাসীদের, আর জিবরাঈল (আঃ)-এর আওয়াজ ধ্বংস করেছিল মাদইয়ানবাসীদের। আইকাবাসীদের কথা প্রথম আসে ২৬:১৭৬ আয়াতে, প্রশ্নটা সেখানেই ওঠে। এ প্রবন্ধ দুটি পাঠই তুলে রাখছে, কোনো পক্ষ নিচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Great Day, Once Feared",
+          "bn": "যে মহাদিবসের ভয় ছিল"
+        },
+        "p": [
+          {
+            "en": "Innahu kana ʿadhaba yawmin ʿazim: indeed, it was the punishment of a great day. The phrase is not new to the surah. Hud (AS) told ʿAd, I fear for you the punishment of a great day (26:135), and Salih (AS) warned Thamud that, if they harmed the she-camel, the punishment of a great day would seize them (26:156). There it was a warning in a prophet's mouth. Here it is a report in the past tense: it was. What earlier messengers feared for their people, this verse records as done.",
+            "bn": "ইন্নাহূ কানা আযাবা ইয়াওমিন আযীম: নিশ্চয়ই তা ছিল এক মহাদিবসের শাস্তি। এ কথা সূরায় নতুন নয়। হূদ (আঃ) আদ জাতিকে বলেছিলেন, আমি তোমাদের জন্য এক মহাদিবসের শাস্তির ভয় করি (২৬:১৩৫)। সালেহ (আঃ) সামূদকে সাবধান করেছিলেন, উটনীর কোনো ক্ষতি করলে এক মহাদিবসের শাস্তি তোমাদের পাকড়াও করবে (২৬:১৫৬)। সেখানে কথাটি ছিল নবীর মুখে এক সতর্কবাণী। এখানে তা অতীত কালের খবর: কানা, তা ছিল। আগের রাসূলেরা নিজেদের কওমের জন্য যার ভয় করেছিলেন, এ আয়াত তাকে ঘটে যাওয়া ঘটনা হিসেবে জানায়।"
+          },
+          {
+            "en": "At-Tabari keeps it brief: it was, for the people of Shuʿayb, the punishment of a great day. As-Saʿdi reads the greatness forward: there is no return for them to this world to begin their deeds anew, the punishment is not lightened for them for an hour, and they are given no respite. Then the surah's refrain follows at 26:190 and 26:191, as after every story: in that is a sign, most of them were not believers, and your Lord is the Mighty, the Merciful.",
+            "bn": "তাবারী সংক্ষেপে বলেন: শুআয়ব (আঃ)-এর কওমের জন্য তা ছিল এক মহাদিবসের শাস্তি। সা'দী মহত্ত্বটা দেখেন সামনের দিকে তাকিয়ে। দুনিয়ায় ফিরে এসে নতুন করে আমল শুরু করার কোনো সুযোগ তাদের নেই। শাস্তি এক মুহূর্তের জন্যও হালকা হবে না, তাদের অবকাশও দেওয়া হবে না। তারপর আসে সূরার সেই পুনরাবৃত্ত কথা, প্রতিটি কাহিনির পরে যেমন আসে, ২৬:১৯০ ও ২৬:১৯১ আয়াতে: এতে আছে নিদর্শন, তাদের বেশিরভাগই ঈমান আনেনি, আর আপনার রব মহাপরাক্রমশালী, পরম দয়ালু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Heatwave Is a Verdict",
+          "bn": "কোনো তাপপ্রবাহ রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This must be said firmly. The verse describes what the text describes, the end of one people who denied the messenger sent to them, and it licenses nothing against any living person or community. It does not turn a heatwave, a drought, a fire or any disaster of our time into proof that those it strikes are being punished. No one now has a prophet's word or a revelation to say why a hardship fell where it fell. Those who suffer in such times are owed help and mercy, not a verdict.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াত বর্ণনা করছে কেবল তা-ই, যা পাঠে আছে: নিজেদের কাছে পাঠানো রাসূলকে মিথ্যাবাদী বলা একটি জাতির পরিণতি। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। আমাদের সময়ের কোনো তাপপ্রবাহ, খরা, আগুন বা দুর্যোগকে এ আয়াত প্রমাণ বানায় না যে যাদের উপর তা এসেছে, তারা শাস্তি পাচ্ছে। কোনো কষ্ট কেন কোথায় নেমেছে, তা বলার মতো নবীর কথা বা ওহী আজ কারও হাতে নেই। এমন সময়ে যারা কষ্ট পায়, তাদের প্রাপ্য সাহায্য আর দয়া, রায় নয়।"
+          },
+          {
+            "en": "As-Saʿdi pictures them gathering beneath the cloud, taking pleasure in its shade, a shade that was no shade, ghayr al-zalil. The Qur'an uses that same word, zalil, for the shadow the deniers are sent to in 77:30 and 77:31, which gives no shade and no protection from the flame. Turned on the self, the question is not what cloud hangs over someone else. It is what each of us runs toward for relief, and whether we have asked if Allah is pleased with it, while the warning is still only words.",
+            "bn": "সা'দী তাদের ছবি আঁকেন এভাবে: তারা মেঘের নিচে জড়ো হলো, তার ছায়ায় আরাম পেল, অথচ সে ছায়া আসলে কোনো ছায়াই ছিল না, গাইরুয যালীল। ৭৭:৩০ ও ৭৭:৩১ আয়াতে মিথ্যাবাদীদের যে ছায়ার দিকে যেতে বলা হবে, তার বেলায়ও কুরআন একই শব্দ, যালীল, ব্যবহার করেছে: তা ছায়া দেয় না, আগুনের শিখা থেকেও বাঁচায় না। নিজের দিকে ফেরালে প্রশ্নটা এই নয় যে অন্য কারও মাথার উপর কোন মেঘ ঝুলছে। প্রশ্নটা হলো, স্বস্তির খোঁজে আমরা প্রত্যেকে কিসের দিকে ছুটছি। আর সতর্কবাণী যতক্ষণ কেবল কথা, ততক্ষণে কি জিজ্ঞেস করেছি, আল্লাহ তাতে খুশি কি না?"
+          }
+        ]
+      }
+    ]
+  },
   "26:193": {
     "sections": [
       {
