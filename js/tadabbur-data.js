@@ -36453,6 +36453,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Keep what you have promised Allah without bending it, and if your test has not yet come, spend the waiting in preparing to meet it truthfully.",
     "lessonBn": "আল্লাহকে যা কথা দিয়েছেন তা না বাঁকিয়ে রাখুন। আর আপনার পরীক্ষা যদি এখনো না এসে থাকে, অপেক্ষার সময়টা কাটান সত্যনিষ্ঠভাবে তার মুখোমুখি হওয়ার প্রস্তুতিতে।"
+  },
+  "33:55": {
+    "reflectionEn": "One verse sets a curtain between the Prophet's ﷺ household and the men who came to ask for things. Two verses on, another lifts it for a short list: fathers, sons, brothers, the sons of brothers and of sisters, their women, and those in their service. Then, before the list can be read as a loophole, the address turns to the women themselves: and fear Allah, for Allah is witness over everything. The permission is real, and so is the watch over it. A rule may relax at home without relaxing before Allah. Where do I keep the outward form only while people are looking? And when I am given room, do I remember Who still sees me inside it?",
+    "reflectionBn": "এক আয়াত নবী ﷺ-এর ঘর আর জিনিস চাইতে আসা পুরুষদের মাঝে পর্দা টেনে দেয়। দুই আয়াত পরে আরেক আয়াত ছোট একটা তালিকার জন্য সেই পর্দা তুলে নেয়: বাবা, ছেলে, ভাই, ভাইয়ের ছেলে, বোনের ছেলে, তাদের নিজেদের নারীরা আর তাদের অধীনে যারা কাজ করে। তালিকাটাকে কেউ ফাঁকফোকর ভাবার আগেই কথা ঘুরে যায় নারীদের দিকে, সরাসরি তাঁদেরকেই বলা হয়: আল্লাহকে ভয় করো, আল্লাহ সবকিছুর সাক্ষী। ছাড়টা সত্যি, আর তার উপর নজরদারিও সত্যি। ঘরের ভেতরে নিয়ম শিথিল হতে পারে, কিন্তু আল্লাহর সামনে কিছুই শিথিল হয় না। মানুষ দেখছে বলেই কি আমি শুধু বাইরের চেহারাটা ঠিক রাখি? আর যখন আমাকে খানিকটা ছাড় দেওয়া হয়, তখন কি মনে রাখি যে সেই ছাড়ের ভেতরেও কেউ আমাকে দেখছেন?",
+    "pointsEn": [
+      "Which rule do I keep carefully in public and quietly loosen where only my family can see?",
+      "When I am given a permission, do I treat it as a boundary to keep, or as a starting point to stretch?",
+      "Does everyone who lives under my roof feel safe and respected there, or only some of them?",
+      "How would my private hours change if I truly believed Allah witnesses them as fully as my public ones?",
+      "Have I ever used the limits Allah set to control or shame someone, instead of to honour them?"
+    ],
+    "pointsBn": [
+      "কোন নিয়মটা আমি লোকের সামনে যত্ন করে মানি, আর যেখানে শুধু পরিবারের লোক দেখে সেখানে চুপচাপ ঢিলে করে দিই?",
+      "কোনো ছাড় পেলে আমি কি সেটাকে মেনে চলার সীমা ভাবি, নাকি আরও টেনে বাড়ানোর শুরু ভাবি?",
+      "আমার ঘরে যারা থাকে, তারা সবাই কি সেখানে নিরাপদ আর সম্মানিত বোধ করে, নাকি কেবল কয়েকজন?",
+      "আল্লাহ আমার একান্ত সময়গুলোও প্রকাশ্য সময়ের মতোই পুরোপুরি দেখছেন, এ কথা সত্যিই বিশ্বাস করলে সেই সময়গুলো কেমন বদলে যেত?",
+      "আল্লাহর দেওয়া সীমাকে আমি কি কখনো কাউকে সম্মান দেওয়ার বদলে নিয়ন্ত্রণ করতে বা লজ্জা দিতে ব্যবহার করেছি?"
+    ],
+    "lessonEn": "Keep within the permissions Allah gives as carefully as within His commands, in private as in public, because He witnesses everything.",
+    "lessonBn": "আল্লাহর আদেশ যেমন যত্নে মানেন, তাঁর দেওয়া ছাড়ের সীমাও তেমনি যত্নে মেনে চলুন, একান্তে যেমন প্রকাশ্যেও তেমন, কারণ তিনি সবকিছুর সাক্ষী।"
   }
 };
 

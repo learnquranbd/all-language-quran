@@ -2831,6 +2831,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "33:55": {
+    "sections": [
+      {
+        "h": {
+          "en": "Straight After the Screen",
+          "bn": "পর্দার আদেশের ঠিক পরেই"
+        },
+        "p": [
+          {
+            "en": "Two verses earlier the screen was set: when you ask the Prophet's wives for something, ask from behind a partition, purer for your hearts and theirs. 33:54 then reminded the hearers that Allah knows whatever they show or hide. Our verse answers the question that ruling left open. As-Sa'di puts it directly. The wording about asking from behind a screen was general, reaching anyone at all, so the close relatives named here had to be excepted from it, and there is no blame on the wives in not screening themselves from them.",
+            "bn": "দুই আয়াত আগে পর্দার বিধান এসেছে: নবীর স্ত্রীদের কাছে কিছু চাইলে পর্দার আড়াল থেকে চাও, এতে তোমাদের ও তাঁদের অন্তর বেশি পবিত্র থাকে। ৩৩:৫৪ আয়াত তারপর মনে করিয়ে দিয়েছে, মানুষ যা প্রকাশ করে বা লুকায়, আল্লাহ সবই জানেন। সেই বিধান যে প্রশ্নটা খোলা রেখেছিল, আমাদের আয়াত তার জবাব দেয়। সা'দী কথাটা সোজাসুজি বলেন। আড়াল থেকে চাওয়ার কথাটা ছিল ব্যাপক, যে-কোনো মানুষের বেলায় খাটে। তাই এখানে যে নিকটাত্মীয়দের নাম এসেছে, তাদের আলাদা করে বাদ দেওয়ার দরকার ছিল। তাদের সামনে পর্দা না করলে নবীপত্নীদের কোনো দোষ নেই।"
+          },
+          {
+            "en": "Al-Qurtubi opens with a report that when the verse of the screen came down, the fathers, sons and relatives said to the Messenger of Allah ﷺ: shall we too speak with them from behind a screen? Then this verse was revealed. He gives no chain and names no reporter, none of the other commentaries fetched repeats it, and the tafsir page for 33:55 at quranx carries no entry from al-Wahidi. It is a report one commentator relays, not an established occasion, so the placement is the context.",
+            "bn": "কুরতুবী শুরু করেন একটি বর্ণনা দিয়ে। পর্দার আয়াত নাযিল হলে বাবা, ছেলে ও আত্মীয়রা আল্লাহর রাসূল ﷺ-কে জিজ্ঞেস করেছিল: আমরাও কি তাঁদের সঙ্গে পর্দার আড়াল থেকে কথা বলব? তখন এ আয়াত নাযিল হয়। তিনি এর কোনো সনদ দেননি, কোনো বর্ণনাকারীর নামও বলেননি। সংগৃহীত অন্য কোনো তাফসীরে বর্ণনাটি নেই, আর quranx-এ ৩৩:৫৫ আয়াতের তাফসীর পাতায় ওয়াহিদীর কিছু নেই। তাই এটি একজন তাফসীরকারের উদ্ধৃত বর্ণনা, প্রতিষ্ঠিত শানে নুযূল নয়। আয়াতের অবস্থানই তার প্রেক্ষাপট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Blame Is Lifted",
+          "bn": "কোন দায় তুলে নেওয়া হলো"
+        },
+        "p": [
+          {
+            "en": "Lā junāḥa ʿalayhinna: there is no blame on them. At-Tabari names them: no fault and no sin on the wives of the Messenger of Allah ﷺ, the mothers of the believers. Al-Jalalayn, on the quranx page, also reads them as the Prophet's wives. Tanwir al-Miqbas, the commentary attributed to Ibn Abbas, widens it to his wives and the wives of the believers. Ibn Kathir frames it generally: Allah commanded women to screen themselves from men not related to them, then explained the relatives before whom they need not.",
+            "bn": "লা জুনাহা আলাইহিন্না: তাঁদের কোনো দোষ নেই। তাঁরা কারা, তাবারী নাম ধরে বলেন: আল্লাহর রাসূল ﷺ-এর স্ত্রীগণ, মু'মিনদের মা। তাঁদের কোনো দোষ বা গুনাহ নেই। quranx পাতার জালালাইনও তাঁদের নবীর স্ত্রী হিসেবেই পড়েন। ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাস পরিধি বাড়িয়ে নবীর স্ত্রীদের সঙ্গে মু'মিনদের স্ত্রীদেরও ধরে। ইবন কাসীর কথাটা বলেন সাধারণভাবে। আল্লাহ নারীদের আদেশ দিয়েছিলেন অনাত্মীয় পুরুষের সামনে পর্দা করতে, তারপর জানিয়ে দিলেন কোন আত্মীয়দের সামনে পর্দার দরকার নেই।"
+          },
+          {
+            "en": "What blame, exactly, is removed? At-Tabari records that the people of interpretation differed. Mujahid said, by one chain, that it is putting down the jilbāb before them, and by another, that they may see the women. Qatada said the women were given leave not to screen themselves from them. At-Tabari judges the second the sounder, because the verse comes straight after the verse of the screen. Taking it as an exception from those told to ask from behind a partition is, he says, more fitting than taking it as a fresh statement about something else.",
+            "bn": "ঠিক কোন দায়টা তুলে নেওয়া হলো? তাবারী জানান, ব্যাখ্যাকারেরা এখানে ভিন্নমত পোষণ করেছেন। মুজাহিদ একটি সনদে বলেছেন, এর অর্থ তাদের সামনে জিলবাব নামিয়ে রাখা। আরেক সনদে বলেছেন, তারা নারীদের দেখতে পারবে। কাতাদা বলেছেন, নারীদের ছাড় দেওয়া হয়েছে যেন তাদের সামনে পর্দা না করেন। তাবারীর বিচারে দ্বিতীয় মতটিই বেশি সঠিক, কারণ আয়াতটি এসেছে পর্দার আয়াতের ঠিক পরে। যাদের আড়াল থেকে চাইতে বলা হয়েছিল, তাদের ভেতর থেকে এটাকে ব্যতিক্রম ধরাই বেশি মানানসই, অন্য কোনো বিষয়ে নতুন কথা ধরার চেয়ে।"
+          },
+          {
+            "en": "The others gloss it in the same sense. Al-Baghawi says no sin on them in leaving the screen before these. Al-Muyassar says the same, and closes its list with a reason: the great need for these people in service. Al-Jalalayn spells out what the permission covers, seeing them or conversing with them without a screen. At-Tabari's paraphrase also has the wives giving their fathers leave to come in. The household keeps its door, and the verse names who may come through it.",
+            "bn": "অন্যরাও একই অর্থে ব্যাখ্যা করেন। বাগাভী বলেন, এদের সামনে পর্দা ছেড়ে দিলে তাঁদের গুনাহ নেই। মুয়াসসারও তাই বলে, আর তালিকার শেষে একটা কারণ জুড়ে দেয়: সেবা ও কাজকর্মে এদের খুব দরকার পড়ে। ছাড়টা কতদূর, জালালাইন খুলে বলেন: পর্দা ছাড়াই তাদের দেখা দেওয়া বা তাদের সঙ্গে কথা বলা। তাবারীর ব্যাখ্যায় আরও আছে, নবীপত্নীরা তাঁদের বাবাদের ভেতরে আসার অনুমতি দেন। ঘরের দরজা থাকেই, আয়াত শুধু বলে দেয় কারা সে দরজা দিয়ে আসতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Five Kinds of Kin",
+          "bn": "পাঁচ রকম আত্মীয়"
+        },
+        "p": [
+          {
+            "en": "The men are listed in order: their fathers, their sons, their brothers, their brothers' sons, their sisters' sons. At-Tabari pauses on a point of grammar. Ikhwān here means brothers by birth, and he explains the form: akh takes the plural ikhwān just as fatā takes fityān, while ikhwa follows the other pattern, as fitya does. The meaning is the same either way. Arabic allows both plurals, and the verse uses one.",
+            "bn": "পুরুষদের তালিকা আসে ক্রমানুসারে: তাদের বাবা, তাদের ছেলে, তাদের ভাই, ভাইয়ের ছেলে, বোনের ছেলে। তাবারী এখানে একটু ব্যাকরণের কথা বলেন। এখানে ইখওয়ান মানে আপন ভাই। শব্দের গঠনটাও তিনি বুঝিয়ে দেন: ফাতা থেকে যেমন বহুবচন ফিতইয়ান, তেমনি আখ থেকে ইখওয়ান। আর ইখওয়া হলো অন্য ছাঁচের বহুবচন, যেমন ফিতইয়া। অর্থ দুই ক্ষেত্রেই এক। আরবি দুটো বহুবচনই চলে, আয়াত একটিকে বেছে নিয়েছে।"
+          },
+          {
+            "en": "Ibn Kathir sets the verse beside 24:31, which lists those before whom a woman may show her adornment, and notes that the verse in an-Nur has additions over this one. Al-Qurtubi says the same in his own words: this verse names some of the mahram relatives, those a woman may never marry, while an-Nur names them all, and he discussed them fully there. That verse has its own entry in this module and is not retold here. Maududi, on the quranx page, quotes al-Alusi that the brothers and the sons of brothers and sisters include such relatives by fosterage as well as by blood.",
+            "bn": "ইবন কাসীর আয়াতটিকে ২৪:৩১ আয়াতের পাশে রাখেন। সেখানে আছে, কাদের সামনে নারী তার সাজ প্রকাশ করতে পারে। তিনি বলেন, সূরা নূরের আয়াতে এর চেয়ে বেশি নাম আছে। কুরতুবীও নিজের ভাষায় একই কথা বলেন। এ আয়াতে এসেছে কয়েকজন মাহরাম আত্মীয়ের নাম, অর্থাৎ যাদের সঙ্গে নারীর বিয়ে কখনো বৈধ নয়। সূরা নূরে এসেছে সবার নাম, আর সেখানেই তিনি বিস্তারিত আলোচনা করেছেন। সে আয়াতের আলাদা লেখা এই অংশে আছে, এখানে তার পুনরাবৃত্তি করা হলো না। quranx পাতায় মওদূদী আলূসীর কথা উদ্ধৃত করেন: ভাই, ভাইয়ের ছেলে ও বোনের ছেলের মধ্যে রক্তের আত্মীয়ের মতো দুধের সম্পর্কের আত্মীয়রাও পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Uncles Left Unnamed",
+          "bn": "চাচা ও মামার নাম নেই কেন"
+        },
+        "p": [
+          {
+            "en": "Someone among the early generations, Ibn Kathir reports, asked why the paternal and maternal uncles are not mentioned in either verse. At-Tabari gives the exchange with its chain, through Dawud from ash-Sha'bi and Ikrimah. The narrator asked what was the matter with the uncle and the maternal uncle, that they were left out. The answer was that the two might describe her to their own sons. Ash-Sha'bi and Ikrimah disliked her putting down her headcover before her maternal or paternal uncle. A second chain at-Tabari gives carries the same, without the clause about describing.",
+            "bn": "ইবন কাসীর জানান, পূর্বসূরিদের কেউ প্রশ্ন তুলেছিলেন: দুই আয়াতের কোনোটিতেই চাচা আর মামার নাম নেই কেন? তাবারী সনদসহ কথোপকথনটি এনেছেন, দাউদের সূত্রে শা'বী ও ইকরিমা থেকে। বর্ণনাকারী জিজ্ঞেস করলেন, চাচা আর মামার কী হলো যে তাদের নাম বাদ পড়ল? উত্তর এল, তারা হয়তো তার বর্ণনা নিজেদের ছেলেদের কাছে দিয়ে দেবে। শা'বী ও ইকরিমা অপছন্দ করতেন যে নারী তার চাচা বা মামার সামনে ওড়না নামিয়ে রাখবে। তাবারী আরেকটি সনদে একই কথা এনেছেন, তবে সেখানে বর্ণনা দেওয়ার অংশটুকু নেই।"
+          },
+          {
+            "en": "The worry turns on the cousins. Al-Qurtubi relays az-Zajjaj: an uncle may describe the woman to his son, and since she is lawful in marriage to the son of her uncle, seeing her was disliked for the two. Al-Qurtubi also records that ash-Sha'bi and Ikrimah disliked her removing her headcover before them. But he opens with a different explanation. The uncles are not named because they run in the place of parents, and an uncle may even be called a father: in 2:133 the sons of Ya'qub (AS) speak of the god of your fathers Ibrahim, Isma'il and Ishaq, and Isma'il was his uncle.",
+            "bn": "চিন্তাটা আসলে চাচাতো আর মামাতো ভাইদের নিয়ে। কুরতুবী যাজ্জাজের কথা আনেন: চাচা বা মামা হয়তো নারীর বর্ণনা নিজের ছেলেকে দেবেন। আর চাচাতো বা মামাতো ভাইয়ের সঙ্গে তার বিয়ে বৈধ, তাই এই দুজনের তাকে দেখা অপছন্দ করা হয়েছে। শা'বী ও ইকরিমার অপছন্দের কথাও কুরতুবী লিখে রাখেন। তবে তিনি শুরু করেন অন্য এক ব্যাখ্যা দিয়ে। চাচা ও মামার নাম আসেনি, কারণ তাঁরা বাবা-মায়ের জায়গায়। চাচাকে বাবাও বলা যায়। ২:১৩৩ আয়াতে ইয়াকুব (আঃ)-এর ছেলেরা বলে, আপনার পিতৃপুরুষ ইবরাহীম, ইসমাঈল ও ইসহাকের ইলাহ। অথচ ইসমাঈল (আঃ) ছিলেন ইয়াকুব (আঃ)-এর চাচা।"
+          },
+          {
+            "en": "As-Sa'di reasons from the stronger case. The women do not screen themselves from their nephews, to whom they are aunts and over whom they stand higher; all the more, then, they need not screen themselves from their own uncles. He adds that the explicit wording of the other verse naming the uncles takes precedence over anything inferred from this verse. Maududi relays al-Alusi with two reasons: uncles are like parents, or they needed no mention once their sons were named. The early report counsels caution; the later reasons treat the uncles as included. Both stand here, side by side.",
+            "bn": "সা'দী যুক্তি দেন জোরালো দৃষ্টান্ত থেকে। ভাতিজা-ভাগনের কাছে নারীরা ফুফু বা খালা, তাদের চেয়ে মর্যাদায় উপরে। তবু তাদের সামনে তাঁরা পর্দা করেন না। তাহলে নিজের চাচা-মামার সামনে পর্দা না করার কথা তো আরও স্বাভাবিক। তিনি আরও বলেন, চাচা-মামার নাম স্পষ্ট করে বলেছে যে অন্য আয়াত, তার সরাসরি ভাষ্য এ আয়াত থেকে টেনে আনা যে-কোনো অনুমানের আগে আসে। মওদূদী আলূসীর দুটো কারণ উদ্ধৃত করেন: চাচা-মামা বাবা-মায়ের মতো, অথবা তাদের ছেলেদের নাম আসার পর তাদের নাম আলাদা করে বলার দরকার ছিল না। পুরোনো বর্ণনাটি সতর্কতার পরামর্শ দেয়, পরের যুক্তিগুলো চাচা-মামাকে তালিকার ভেতরেই ধরে। দুই মতই এখানে পাশাপাশি থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Women of Their Own",
+          "bn": "তাঁদের নিজেদের নারীরা"
+        },
+        "p": [
+          {
+            "en": "Wa-lā nisāʾihinna: nor their women. Ibn Kathir says it means not screening from the believing women, and at-Tabari likewise: no blame on them in not screening themselves from the women of the believers. Ibn Zayd, in at-Tabari's chain, said the free believing women may see that adornment, that all of this concerns adornment, and that a woman still may not look at any part of another woman's awra. Al-Jalalayn has their own believing women.",
+            "bn": "ওয়া লা নিসাইহিন্না: তাদের নিজেদের নারীদের সামনেও দোষ নেই। ইবন কাসীর বলেন, এর অর্থ মু'মিন নারীদের সামনে পর্দা না করা। তাবারীও তাই বলেন: মু'মিনদের নারীদের সামনে পর্দা না করলে তাঁদের দোষ নেই। তাবারীর সনদে ইবন যায়দ বলেছেন, স্বাধীন মু'মিন নারীরা সেই সাজ দেখতে পারে। তাঁর মতে এর সবটাই সাজসজ্জা নিয়ে, আর এক নারীও অন্য নারীর আওরাতের কোনো অংশের দিকে তাকাতে পারে না। জালালাইন বলেন, তাদের নিজেদের মু'মিন নারীরা।"
+          },
+          {
+            "en": "Al-Baghawi and as-Sa'di both record that the word can be read two ways. Al-Baghawi gives, under it is said, that it means Muslim women, and then, again under it is said, that it covers Muslim women and women of the People of the Book alike, called their women because they are of their kind. As-Sa'di leans to those of their kind in religion, then allows that it may mean women as such, since a woman does not screen herself from a woman. The article records the reading and rules on neither; nothing here licenses suspicion of any woman of another faith.",
+            "bn": "বাগাভী ও সা'দী দুজনেই জানান, শব্দটি দুইভাবে পড়া যায়। বাগাভী 'বলা হয়' বলে প্রথমে আনেন, এর অর্থ মুসলিম নারী। তারপর আবার 'বলা হয়' বলে আনেন, এতে মুসলিম নারী আর আহলে কিতাবের নারী দুই-ই পড়ে। তাদের নারী বলা হয়েছে, কারণ তারা তাদেরই জাতের। সা'দী ঝোঁকেন দ্বীনের দিক থেকে যারা তাদের মতো, সেই অর্থের দিকে। তারপর মেনে নেন, এর অর্থ নারী জাতি সাধারণভাবেও হতে পারে, কারণ নারী নারীর সামনে পর্দা করে না। এখানে শুধু ব্যাখ্যাগুলো লিখে রাখা হলো, কোনোটির পক্ষে রায় দেওয়া হলো না। অন্য ধর্মের কোনো নারীকে সন্দেহের চোখে দেখার অনুমতি এখান থেকে মেলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Their Right Hands Hold",
+          "bn": "যারা তাঁদের মালিকানায় ছিল"
+        },
+        "p": [
+          {
+            "en": "The last group is mā malakat aymānuhunna, those their right hands possess, and here the commentators divide plainly. At-Tabari's gloss is from the men and the women; others, he notes, said from the women only. Ibn Kathir reads it as their male and female slaves, then gives Sa'id ibn al-Musayyib, from Ibn Abi Hatim, that it means female slaves only. Tanwir al-Miqbas says women slaves, not male slaves, and al-Jalalayn has slave-girls or male servants. Ibn Zayd, in at-Tabari, adds that the Prophet's wives did not screen themselves from those they owned.",
+            "bn": "শেষ দল মা মালাকাত আইমানুহুন্না, তাঁদের ডান হাত যাদের মালিক। এখানে তাফসীরকারদের মত স্পষ্টভাবে ভাগ হয়ে যায়। তাবারীর ব্যাখ্যা: পুরুষ ও নারী দুই-ই। তবে তিনি জানান, অন্যরা বলেছেন শুধু নারী। ইবন কাসীরের মতে এরা তাদের দাস ও দাসী। তারপর তিনি ইবন আবী হাতিমের সূত্রে সাঈদ ইবনুল মুসাইয়িবের কথা আনেন, এর অর্থ শুধু দাসী। তানবীরুল মিকবাস বলে দাসী, দাস নয়। জালালাইন বলেন দাসী অথবা পুরুষ খাদেম। তাবারীতে ইবন যায়দ যোগ করেন, নবীপত্নীরা তাঁদের মালিকানাধীনদের সামনে পর্দা করতেন না।"
+          },
+          {
+            "en": "Al-Baghawi names the question underneath. They differed, he says, over whether a woman's male slave is her mahram. Some said he is, on the strength of this very clause. Others said he is like any stranger, and that the verse means female slaves rather than male. As-Sa'di attaches one condition: the exemption holds so long as the slave is wholly in her ownership. The disagreement stays here as the commentators left it. No commentary fetched attaches a hadith to this verse; Ibn Kathir, on this clause, only points back to one he cited earlier.",
+            "bn": "ভেতরের প্রশ্নটা বাগাভী খুলে বলেন। নারীর মালিকানাধীন পুরুষ দাস তার মাহরাম কি না, এ নিয়ে মতভেদ হয়েছে। কেউ বলেছেন, সে মাহরাম, প্রমাণ এই অংশটুকুই। অন্যরা বলেছেন, সে অন্য যে-কোনো অনাত্মীয়ের মতো, আর আয়াতে দাস নয়, দাসী বোঝানো হয়েছে। সা'দী একটি শর্ত জুড়ে দেন: দাস যতদিন পুরোপুরি তার মালিকানায় থাকে, ততদিনই এই ছাড়। মতভেদটা তাফসীরকারেরা যেমন রেখে গেছেন, এখানেও তেমনই থাকল। সংগৃহীত কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। ইবন কাসীর এই অংশে শুধু আগে উল্লেখ করা একটি হাদীসের দিকে ইঙ্গিত করেন।"
+          },
+          {
+            "en": "These lines describe the households the verse was first spoken to, and the article reports them as readings of its words. It draws from them no ruling for any present arrangement. Nor does anything in the verse license restricting, confining or harming any woman. Its own movement runs the other way. A screen was set for the sake of purer hearts, and two verses later it was lifted for the people a woman lives among. The verse sets the household's limits; it does not make any woman a prisoner within them.",
+            "bn": "এই কথাগুলো সেই ঘরগুলোর বর্ণনা, যেখানে আয়াতটি প্রথম শোনানো হয়েছিল। এখানে এগুলো আয়াতের শব্দের ব্যাখ্যা হিসেবেই তুলে ধরা হলো। আজকের কোনো ব্যবস্থার জন্য এখান থেকে কোনো বিধান টানা হচ্ছে না। কোনো নারীকে আটকে রাখা, তার চলাফেরা সীমিত করা বা তার ক্ষতি করার অনুমতিও আয়াতের কোথাও নেই। আয়াতের নিজের গতি বরং উল্টো দিকে। অন্তরের পবিত্রতার জন্য একটি পর্দা টানা হলো, আর দুই আয়াত পরেই নারী যাদের মাঝে থাকে, তাদের জন্য তা তুলে নেওয়া হলো। আয়াত ঘরের সীমা ঠিক করে দেয়, কিন্তু কোনো নারীকে সেই সীমার ভেতরে বন্দি বানায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then Spoken To Directly",
+          "bn": "এবার সরাসরি সম্বোধন"
+        },
+        "p": [
+          {
+            "en": "The grammar turns in mid-verse. The list speaks of the women in the third person, no blame on them; then comes wa-ttaqīna llāh, a command in the feminine plural: and fear Allah, you women. Al-Qurtubi admires the joining. Once the concession for these classes was stated and the permission settled, he says, a command to taqwa was attached as a fresh sentence, in the utmost eloquence and concision, as if it said: keep to this, and fear Allah in it, lest you go beyond it to others.",
+            "bn": "আয়াতের মাঝখানে এসে বাক্যের ধরন বদলে যায়। তালিকায় নারীদের কথা বলা হচ্ছিল নাম পুরুষে: তাঁদের দোষ নেই। তারপর আসে ওয়াত্তাকীনাল্লাহ, স্ত্রীলিঙ্গ বহুবচনের আদেশ: হে নারীরা, আল্লাহকে ভয় করো। এই জোড়া লাগানোটা কুরতুবীর চোখে পড়ে। তিনি বলেন, এই দলগুলোর জন্য ছাড়ের কথা বলা হলো, অনুমতি পাকা হলো, তারপর নতুন বাক্য হিসেবে তাকওয়ার আদেশ জুড়ে দেওয়া হলো। এ হলো অলংকার আর সংক্ষেপের চূড়ান্ত রূপ। যেন বলা হচ্ছে: এটুকুতেই থেমে থাকো, আর এ ব্যাপারে আল্লাহকে ভয় করো, যেন এর সীমা পেরিয়ে অন্যদের দিকে না যাও।"
+          },
+          {
+            "en": "At-Tabari spells out what the fear guards against: exceeding the limit Allah set for them, showing adornment they may not show, or leaving the screen He told them to keep, except where He allowed it to be left. Al-Muyassar follows him closely, and al-Baghawi has lest anyone other than these see you. As-Sa'di makes it general: having lifted the blame for these, Allah made taqwa the condition in this and in all else. Maududi, on the quranx page, adds a meaning of his own: a wife must not keep the screen while her husband is present and drop it before other men when he is away.",
+            "bn": "এই ভয় কী থেকে রক্ষা করে, তাবারী খুলে বলেন। আল্লাহর ঠিক করে দেওয়া সীমা পেরিয়ে যাওয়া, যে সাজ দেখানোর অনুমতি নেই তা দেখানো, কিংবা যে পর্দা তিনি বজায় রাখতে বলেছেন তা ছেড়ে দেওয়া, শুধু যেখানে ছাড়ার অনুমতি দিয়েছেন সেখানে ছাড়া। মুয়াসসার তাঁর কথাই প্রায় হুবহু বলে। বাগাভী বলেন, যেন এরা ছাড়া অন্য কেউ তোমাদের না দেখে। সা'দী কথাটাকে ব্যাপক করেন: এদের বেলায় দোষ তুলে নিয়ে আল্লাহ এখানে আর সবখানে তাকওয়াকে শর্ত করে দিলেন। quranx পাতায় মওদূদী আরেকটি অর্থ যোগ করেন। স্বামী উপস্থিত থাকলে পর্দা রাখা আর স্বামী না থাকলে অন্য পুরুষের সামনে তা ছেড়ে দেওয়া, স্ত্রীর এমন আচরণ চলবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Witness in Private and Public",
+          "bn": "একান্তে ও প্রকাশ্যে সাক্ষী"
+        },
+        "p": [
+          {
+            "en": "Inna llāha kāna ʿalā kulli shayʾin shahīdā: Allah is ever, over all things, witness. Ibn Kathir reads the closing as the reason for the command: fear Him in private and in public, for He witnesses everything and nothing hidden is hidden from Him, so keep watch of the Watcher. At-Tabari makes the witness specific. Allah sees their screening, their leaving it for those it was permitted, and all their other affairs, so they should not meet Him in disobedience while He witnesses it. Maududi makes the same point: such conduct may stay hidden from the husband, but not from Allah.",
+            "bn": "ইন্নাল্লাহা কানা আলা কুল্লি শাইইন শাহীদা: আল্লাহ সবকিছুর উপর সাক্ষী। ইবন কাসীর এই সমাপ্তিকে আদেশের কারণ হিসেবে পড়েন। একান্তে ও প্রকাশ্যে তাঁকে ভয় করো, কারণ তিনি সবকিছু দেখেন, কোনো গোপন কথাই তাঁর কাছে গোপন নয়। তাই যিনি পাহারা দেন, তাঁর কথা মনে রেখে চলো। তাবারী সাক্ষ্যকে নির্দিষ্ট করে বলেন। তাঁদের পর্দা করা, যাদের বেলায় অনুমতি আছে তাদের সামনে পর্দা ছেড়ে দেওয়া, আর তাঁদের অন্য সব কাজ আল্লাহ দেখেন। কাজেই তিনি সাক্ষী থাকা অবস্থায় নাফরমানি নিয়ে যেন তাঁর সামনে হাজির না হন। মওদূদীও একই কথা বলেন: এমন আচরণ স্বামীর কাছে গোপন থাকতে পারে, আল্লাহর কাছে নয়।"
+          },
+          {
+            "en": "As-Sa'di widens the witness to all that people do. He sees the deeds of His servants, outward and inward, hears what they say, sees how they move, then repays them in full. Read with its neighbours, the closing completes a small pattern. 33:52 ended on Allah as watcher over all things, raqīb, and 33:54 on Him as knowing of all things, ʿalīm. Here He is witness over all things, shahīd. Three rulings about one household, and each is handed back to the One whom no door or curtain keeps out.",
+            "bn": "সা'দী সাক্ষ্যের পরিধি ছড়িয়ে দেন মানুষের সব কাজে। তিনি বান্দাদের ভেতর-বাইরের সব আমল দেখেন, তাদের কথা শোনেন, তাদের চলাফেরা দেখেন, তারপর পুরোপুরি প্রতিদান দেন। আশপাশের আয়াতের সঙ্গে মিলিয়ে পড়লে একটা ছোট নকশা চোখে পড়ে। ৩৩:৫২ আয়াত শেষ হয়েছে আল্লাহ সবকিছুর পর্যবেক্ষক, রাকীব, এই কথায়। ৩৩:৫৪ শেষ হয়েছে তিনি সবকিছু জানেন, আলীম, এই কথায়। আর এখানে তিনি সবকিছুর সাক্ষী, শাহীদ। একই ঘর নিয়ে তিনটি বিধান, আর প্রতিটিকে সঁপে দেওয়া হয়েছে তাঁর হাতে, যাঁকে কোনো দরজা বা পর্দা আটকাতে পারে না।"
+          }
+        ]
+      }
+    ]
+  },
   "33:59": {
     "sections": [
       {
