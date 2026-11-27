@@ -8503,6 +8503,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:175": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words, Two Sightings",
+          "bn": "তিন শব্দে দুই দেখা"
+        },
+        "p": [
+          {
+            "en": "Wa-absirhum fa-sawfa yubsirun: and watch them, for they will see. The verse is three Arabic words, and two of them come from one root, b-s-r, the root of sight. The first is a command to the Prophet ﷺ, absir, with the pronoun for them attached to it. The second describes what they themselves will do: yubsirun, they will see. One sight is asked of him now. The other is promised of them, and fa-sawfa sets it ahead, in a time that has not yet come.",
+            "bn": "ওয়া আবসিরহুম ফাসাওফা ইউবসিরূন: আর তাদের দেখতে থাকো, তারাও শীঘ্রই দেখবে। আরবিতে আয়াতটি মাত্র তিনটি শব্দের। তার দুটি এসেছে একই ধাতু ব-স-র থেকে, যার মূলে আছে দেখা। প্রথমটি নবী ﷺ-এর প্রতি আদেশ, আবসির, সঙ্গে জোড়া 'তাদের' বোঝানো সর্বনাম। দ্বিতীয়টি তাদের নিজেদের কাজের কথা: ইউবসিরূন, তারা দেখবে। একটি দেখা তাঁর কাছে চাওয়া হচ্ছে এখনই। অন্যটির প্রতিশ্রুতি তাদের বেলায়, আর ফাসাওফা শব্দটি তাকে ঠেলে রাখে সামনে, এমন এক সময়ে, যা এখনো আসেনি।"
+          },
+          {
+            "en": "The verse stands in the run of short lines that close the surah. In 37:171 to 37:173 Allah states that His word has already gone before for His messengers: they will be helped, and His host will prevail. Then 37:174 gives the first command, fa-tawalla 'anhum hatta hin, so turn away from them for a while, and this verse adds the second. Ibn Kathir, after explaining 37:174, says that what follows it carries the same meaning, and the Muyassar glosses the two verses as a single instruction.",
+            "bn": "সূরাটি শেষ হচ্ছে একসারি ছোট ছোট আয়াতে, আর এ আয়াত তারই একটি। ৩৭:১৭১ থেকে ৩৭:১৭৩ আয়াতে আল্লাহ জানিয়ে দেন, রাসূলদের ব্যাপারে তাঁর কথা আগেই স্থির হয়ে আছে: তাঁরা সাহায্য পাবেন, আর তাঁর বাহিনীই জয়ী হবে। এরপর ৩৭:১৭৪ আয়াতে প্রথম আদেশ: ফাতাওয়াল্লা আনহুম হাত্তা হীন, কিছুকাল তাদের থেকে মুখ ফিরিয়ে থাকো। এ আয়াত যোগ করে দ্বিতীয় আদেশ। ইবন কাসীর ৩৭:১৭৪ ব্যাখ্যা করে বলেন, এর পরের আয়াতও একই অর্থ বহন করে। মুয়াসসার দুটি আয়াতকে ব্যাখ্যা করে একটিমাত্র নির্দেশ হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Watching as a Kind of Waiting",
+          "bn": "দেখা মানে অপেক্ষা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains the command as: look at them, and wait to see what will come down on them of punishment and exemplary penalty, al-'adhab wa-n-nakal, for opposing you and belying you. The Muyassar uses almost the same words: look at them and wait, irtaqib, for what will befall them of punishment for opposing you. At-Tabari's gloss is shorter: look at them, for they will see what comes down on them of Our punishment. He adds that the people of interpretation said the like, and names Qatada and Ibn Zayd among them.",
+            "bn": "ইবন কাসীর আদেশটির ব্যাখ্যা দেন এভাবে: তাদের দিকে তাকিয়ে থাকো, আর অপেক্ষা করো, তোমার বিরোধিতা করার আর তোমাকে মিথ্যা বলার কারণে তাদের উপর কোন আযাব ও দৃষ্টান্তমূলক শাস্তি নেমে আসে। তাঁর শব্দ আল-আযাব ওয়ান-নাকাল। মুয়াসসারও প্রায় একই কথা বলে: তাদের দেখো আর অপেক্ষা করো, ইরতাকিব, তোমার বিরোধিতার জন্য তাদের উপর কী শাস্তি আসে। তাবারীর ব্যাখ্যা আরও ছোট: তাদের দেখতে থাকো, আমার শাস্তির যা তাদের উপর নামবে, তারা তা দেখবে। তিনি যোগ করেন, তাফসীরকারেরা এমনটাই বলেছেন, আর তাঁদের মধ্যে কাতাদা ও ইবন যায়দের নাম আনেন।"
+          },
+          {
+            "en": "In all three the watching is a waiting. Nothing in these glosses asks the Prophet ﷺ to do anything to the people he is watching; the thing awaited belongs to Allah. As-Sa'di, on 37:174, sums up the situation in a clause: Allah commanded His messenger to turn away from those who were obstinate and did not accept the truth, and nothing remained but to wait for the punishment that would befall them. The Muyassar, on the same pair, frames the wait as a term: until the respite Allah granted them runs out and His command comes.",
+            "bn": "তিনটি ব্যাখ্যাতেই দেখা মানে অপেক্ষা। যাদের দিকে তিনি তাকিয়ে আছেন, তাদের বিরুদ্ধে নবী ﷺ-কে কিছু করতে বলা হচ্ছে না। যার অপেক্ষা, তা আল্লাহর হাতে। সা'দী ৩৭:১৭৪ আয়াতের আলোচনায় পুরো অবস্থাটা এক বাক্যে বলে দেন: যারা জেদ ধরে সত্য মানেনি, আল্লাহ তাঁর রাসূলকে তাদের থেকে মুখ ফিরিয়ে নিতে বললেন। তাদের উপর যে আযাব নামবে, তার অপেক্ষা ছাড়া আর কিছু বাকি রইল না। মুয়াসসার একই দুই আয়াতে অপেক্ষাটাকে দেখে একটা মেয়াদ হিসেবে: আল্লাহ তাদের যে অবকাশ দিয়েছেন তা শেষ হবে, আর তাঁর ফয়সালা এসে পড়বে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A While That Ends Somewhere",
+          "bn": "যে সময়ের শেষ আছে"
+        },
+        "p": [
+          {
+            "en": "The watching is bounded by the hin of 37:174, the while, and at-Tabari reports that the people of interpretation differed over how long it is. Qatada said until death. As-Suddi said until the day of Badr. Ibn Zayd said the Day of Resurrection. At-Tabari then gives his own preference: as-Suddi's view is closer to what the apparent wording points to, because Allah threatened them with the punishment they were trying to hasten, in 37:176, and told His Prophet ﷺ to turn away from them until its time came.",
+            "bn": "এই দেখার একটা সীমা আছে, ৩৭:১৭৪ আয়াতের 'হীন', কিছুকাল। তাবারী জানান, এ সময়টা কতদিনের, তা নিয়ে তাফসীরকারদের মতভেদ আছে। কাতাদা বলেছেন, মৃত্যু পর্যন্ত। সুদ্দী বলেছেন, বদরের দিন পর্যন্ত। ইবন যায়দ বলেছেন, কিয়ামতের দিন। তারপর তাবারী নিজের পছন্দ জানান: আয়াতের বাহ্যিক শব্দ যেদিকে ইঙ্গিত করে, সুদ্দীর মত তার বেশি কাছাকাছি। কারণ ৩৭:১৭৬ আয়াতে আল্লাহ তাদের সেই আযাবের হুমকি দিয়েছেন, যা তারা তাড়াতাড়ি চাইছিল। আর নবী ﷺ-কে বলেছেন, সেই আযাবের সময় না আসা পর্যন্ত তাদের থেকে মুখ ফিরিয়ে থাকতে।"
+          },
+          {
+            "en": "Al-Qurtubi's list overlaps with this but is not the same. He gives Qatada for death and az-Zajjaj for the time to which they were given respite; he reports Ibn Abbas as saying it means the killing at Badr; and he adds, with it is said, the conquest of Makkah. Al-Baghawi reports Ibn Abbas as saying death, Mujahid as saying the day of Badr, and as-Suddi as saying until We command you to fight, and then, with it is said, until Allah's punishment comes to them. Ibn Kathir records only that some set its limit at Badr.",
+            "bn": "কুরতুবীর তালিকা এর সঙ্গে কিছুটা মেলে, পুরোটা নয়। মৃত্যুর মতটি তিনি দেন কাতাদার নামে। যাজ্জাজের মতে, তাদের যে সময় পর্যন্ত অবকাশ দেওয়া হয়েছে, সে পর্যন্ত। ইবন আব্বাস (রাঃ) বলেছেন, বদরে নিহত হওয়া পর্যন্ত। আর 'বলা হয়' কথাটি জুড়ে তিনি আনেন মক্কা বিজয়ের মত। বাগাভীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেছেন মৃত্যু, মুজাহিদ বলেছেন বদরের দিন, আর সুদ্দী বলেছেন, যতদিন না আমি তোমাকে লড়াইয়ের আদেশ দিই। তারপর 'বলা হয়' দিয়ে আরেকটি মত: যতদিন না তাদের উপর আল্লাহর আযাব আসে। ইবন কাসীর শুধু এটুকু জানান যে, কেউ কেউ এর সীমা ধরেছেন বদর।"
+          },
+          {
+            "en": "Two of these attributions do not agree across the books. Al-Qurtubi has Ibn Abbas say Badr where al-Baghawi has him say death, and at-Tabari's as-Suddi says Badr where al-Baghawi's as-Suddi says until the command to fight. The texts fetched here do not settle either point, so both are left as the commentators give them. The answers range widely: a battle, a conquest, a death, the Day of Resurrection. What they share is that the while has an end, and that it is Allah who sets it.",
+            "bn": "এর মধ্যে দুটি বর্ণনা দুই কিতাবে দুই রকম। কুরতুবীর কিতাবে ইবন আব্বাস (রাঃ)-এর মত বদর, বাগাভীর কিতাবে মৃত্যু। তেমনি তাবারীর বর্ণনায় সুদ্দীর মত বদর, অথচ বাগাভীর বর্ণনায় লড়াইয়ের আদেশ আসা পর্যন্ত। এখানে যে লেখাগুলো সংগ্রহ করা হয়েছে, তা দিয়ে কোনোটারই মীমাংসা হয় না। তাই দুটোই রাখা হলো তাফসীরকারেরা যেভাবে দিয়েছেন সেভাবে। উত্তরগুলো অনেক দূর পর্যন্ত ছড়ানো: একটি যুদ্ধ, একটি বিজয়, মৃত্যু, কিয়ামতের দিন। তবে সবার মধ্যে মিল এক জায়গায়। এই 'কিছুকাল' কোথাও গিয়ে শেষ হয়, আর তা ঠিক করেন আল্লাহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sight That Comes Too Late",
+          "bn": "যে দেখা দেরিতে আসে"
+        },
+        "p": [
+          {
+            "en": "The second half, fa-sawfa yubsirun, is a threat, and Ibn Kathir says so in as many words: Allah said it by way of threat and warning, tahdid wa-wa'id. What they will see, and when, the commentators answer in more than one way. Qatada's line is carried by both at-Tabari and al-Qurtubi: they will see when seeing no longer benefits them. The sentence does not name a moment. It names a condition: a sight that arrives after the time in which it could have changed anything for them.",
+            "bn": "দ্বিতীয় অংশ, ফাসাওফা ইউবসিরূন, একটি হুমকি। ইবন কাসীর সোজাসুজি তা-ই বলেন: আল্লাহ এ কথা বলেছেন ভয় দেখিয়ে ও সতর্ক করে, তাহদীদ ওয়া ওয়াঈদ। তারা কী দেখবে, কখন দেখবে, তাফসীরকারেরা এর উত্তর দেন একাধিকভাবে। কাতাদার কথাটি তাবারী ও কুরতুবী দুজনেই এনেছেন: তারা দেখবে তখন, যখন দেখা তাদের আর কোনো কাজে আসবে না। কথাটিতে কোনো নির্দিষ্ট মুহূর্তের নাম নেই। আছে একটা অবস্থার বর্ণনা। দেখাটা আসবে ঠিকই, কিন্তু সেই সময় পেরিয়ে যাওয়ার পর, যখন দেখে কিছু বদলানোর সুযোগ ছিল।"
+          },
+          {
+            "en": "Ibn Zayd, in at-Tabari, places the sight at the end. Watch them, he says, for they will see what is theirs after this day; they will see on the Day of Resurrection what they wasted of Allah's command, and their disbelief in Allah, His Messenger and His Book. Al-Qurtubi also records, with it is said, that they will see the punishment on the Day of Resurrection. At-Tabari himself, on the matching verse 37:179, ties the seeing to the coming down of Allah's might upon them, at a time when repentance will not benefit them.",
+            "bn": "তাবারীর বর্ণনায় ইবন যায়দ দেখাটাকে রাখেন একেবারে শেষে। তিনি বলেন, তাদের দেখতে থাকো, আজকের পর তাদের জন্য কী আছে তা তারা দেখবে। কিয়ামতের দিন তারা দেখবে, আল্লাহর আদেশের কতটা তারা নষ্ট করেছে, আর আল্লাহ, তাঁর রাসূল ও তাঁর কিতাবকে কীভাবে অস্বীকার করেছে। কুরতুবীও 'বলা হয়' দিয়ে একটি মত আনেন: কিয়ামতের দিন তারা আযাব দেখবে। আর তাবারী নিজে ৩৭:১৭৯ আয়াতে, যেখানে কথাটা আবার এসেছে, দেখাটাকে বাঁধেন তাদের উপর আল্লাহর পাকড়াও নেমে আসার সঙ্গে। তখন তওবা আর কোনো কাজে আসবে না।"
+          },
+          {
+            "en": "Al-Qurtubi adds a note on the wording itself. Seeing, he says, is used here to express how near the matter is: they will see soon, 'an qarib. On that reading the verb of sight carries a sense of distance, as though the thing were already close enough to be seen. Al-Qurtubi does not say which of the readings above this nearness favours, and nothing here chooses for him. What the readings have in common is the shape of the threat: a sight that is certain to come, held back for a time that Allah has fixed.",
+            "bn": "শব্দ নিয়ে কুরতুবী আরেকটি কথা যোগ করেন। তাঁর মতে এখানে দেখা শব্দটি আনা হয়েছে ব্যাপারটা যে কাছে, তা বোঝাতে: শীঘ্রই তারা দেখবে, আন কারীব। এভাবে পড়লে দেখার ক্রিয়াটি নিজেই দূরত্বের একটা মাপ দেয়, যেন জিনিসটা এত কাছে যে চোখেই পড়ছে। উপরের কোন মতকে এই নৈকট্য সমর্থন করে, কুরতুবী তা বলেননি, আর এখানেও তাঁর হয়ে কিছু বেছে নেওয়া হচ্ছে না। সব মতের মধ্যে মিল হুমকির ধরনে। দেখাটা আসবেই, তবে তা আটকে আছে আল্লাহর ঠিক করা এক সময় পর্যন্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Penalty Lands",
+          "bn": "শাস্তি কার ঘাড়ে নামে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the object of their seeing a little differently. They will see, he writes, on whom the penalty comes down, and it will come down on them. His phrasing turns the verse into the end of a dispute. Each side had held that it was in the right and that the other would be shown wrong. The Prophet ﷺ is told to watch, and his opponents will see for themselves where the penalty lands. As-Sa'di does not leave the answer open: it falls on those who rejected him.",
+            "bn": "তারা কী দেখবে, সা'দী তা পড়েন একটু অন্যভাবে। তিনি লেখেন, তারা দেখবে শাস্তি কার উপর নামে, আর তা নামবে তাদেরই উপর। এভাবে বললে আয়াতটি হয়ে ওঠে একটি বিরোধের শেষ কথা। দুই পক্ষই ভাবত, সত্য তাদের দিকে, আর অন্য পক্ষ ভুল প্রমাণিত হবে। নবী ﷺ-কে বলা হলো দেখতে থাকতে, আর তাঁর বিরোধীরা নিজের চোখেই দেখবে শাস্তি কোথায় গিয়ে পড়ে। উত্তরটা সা'দী খোলা রাখেন না। শাস্তি পড়বে তাদের উপর, যারা তাঁকে প্রত্যাখ্যান করেছিল।"
+          },
+          {
+            "en": "Al-Baghawi joins the verse to the next. Watch them when the punishment comes down on them, he glosses, and they will see it; and then, he says, they asked: when is this punishment? That question is the hinge to 37:176, are they trying to hasten Our punishment, and to 37:177, evil is the morning of those who were warned, which has its own article here. The narration of Anas about the morning at Khaybar, in al-Bukhari (371), belongs to 37:177 and is treated there. No tafsir fetched for this verse attaches a hadith to it.",
+            "bn": "বাগাভী আয়াতটিকে জুড়ে দেন পরের আয়াতের সঙ্গে। তাঁর ব্যাখ্যা: তাদের উপর যখন আযাব নামবে, তখন তাদের দেখো, তারা তা দেখবে। তারপর, তিনি বলেন, তারা জিজ্ঞেস করল: এই আযাব কবে আসবে? এই প্রশ্নই আমাদের নিয়ে যায় ৩৭:১৭৬ আয়াতে, তারা কি আমার আযাব তাড়াতাড়ি চায়? আর ৩৭:১৭৭ আয়াতে, যাদের সতর্ক করা হয়েছিল তাদের সকাল কতই না মন্দ। সে আয়াতের আলাদা প্রবন্ধ এখানেই আছে। খায়বারের সকাল নিয়ে আনাস (রাঃ)-এর বর্ণনা, বুখারী (৩৭১), সেই ৩৭:১৭৭ আয়াতের, আলোচনাও সেখানে। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "With the Pronoun and Without",
+          "bn": "সর্বনাম থাকা আর না থাকা"
+        },
+        "p": [
+          {
+            "en": "Four verses later the command returns: wa-tawalla 'anhum hatta hin, wa-absir fa-sawfa yubsirun, in 37:178 and 37:179. The second pair repeats the first almost exactly, with one difference a reader of the Arabic will notice. In 37:179 the command absir has no object. It is no longer watch them, only watch. Ibn Kathir calls the two later verses a confirmation, ta'kid, of the command given earlier, and al-Qurtubi's whole note on 37:179 is that it too is a confirmation.",
+            "bn": "চারটি আয়াত পরে আদেশটি আবার ফিরে আসে, ৩৭:১৭৮ ও ৩৭:১৭৯ আয়াতে: ওয়া তাওয়াল্লা আনহুম হাত্তা হীন, ওয়া আবসির ফাসাওফা ইউবসিরূন। দ্বিতীয় জোড়াটি প্রথমটিরই প্রায় হুবহু পুনরাবৃত্তি। পার্থক্য শুধু একটি, আরবি পাঠক যা লক্ষ করবেন। ৩৭:১৭৯ আয়াতে আবসির আদেশের সঙ্গে কোনো কর্ম নেই। 'তাদের দেখো' আর নেই, আছে শুধু 'দেখো'। ইবন কাসীর পরের দুই আয়াতকে বলেন আগের আদেশের তাকীদ, অর্থাৎ জোর দিয়ে আবার বলা। ৩৭:১৭৯ আয়াতে কুরতুবীর পুরো মন্তব্যই এটুকু: এটিও তাকীদ।"
+          },
+          {
+            "en": "Ibn Zayd, reported by at-Tabari on this verse, speaks to the difference directly: fa-absirhum wa-absir wahid, watch them and watch are one. At-Tabari's own gloss of 37:179 restores the missing pronoun: and look at them. Al-Baghawi gives the bare verb a different object: watch the punishment when it comes down on them. So the shorter form is read either as the same command with them understood, or as turning the eyes towards the punishment rather than towards the people. The commentators set these side by side without arguing between them.",
+            "bn": "এই আয়াতে তাবারী ইবন যায়দের যে কথা এনেছেন, তা সরাসরি এই পার্থক্য নিয়েই: ফাআবসিরহুম ওয়া আবসির ওয়াহিদ, 'তাদের দেখো' আর 'দেখো' একই কথা। ৩৭:১৭৯ আয়াতে তাবারী নিজের ব্যাখ্যায় হারানো সর্বনামটি ফিরিয়ে আনেন: আর তাদের দেখো। বাগাভী খালি ক্রিয়াটির সঙ্গে জুড়ে দেন অন্য কর্ম: তাদের উপর যখন আযাব নামবে, সেই আযাব দেখো। তাহলে ছোট রূপটির দুটি পাঠ দাঁড়ায়। হয় এটি সেই একই আদেশ, 'তাদের' কথাটা বোঝা যাচ্ছে বলে উহ্য। নয়তো এখানে চোখ ফেরানো হচ্ছে মানুষগুলোর দিক থেকে আযাবের দিকে। তাফসীরকারেরা দুটো পাশাপাশি রাখেন, একটার বিরুদ্ধে আরেকটার পক্ষে তর্ক করেন না।"
+          },
+          {
+            "en": "One more echo sits inside the passage. Five verses before this one, 37:170 ends fa-sawfa ya'lamun, so they are going to know, said of those who rejected the reminder once it reached them. Here the same opening is followed by yubsirun, they are going to see. None of the commentators fetched here remarks on the pairing, so nothing is built on it. It is enough to notice that the passage puts both verbs, knowing and seeing, after the same fa-sawfa, and leaves both of them to arrive in their time.",
+            "bn": "এই অংশের ভেতরে আরেকটি প্রতিধ্বনি আছে। এ আয়াতের পাঁচ আয়াত আগে ৩৭:১৭০ শেষ হয় ফাসাওফা ইয়া'লামূন দিয়ে, শীঘ্রই তারা জানতে পারবে। কথাটা তাদের নিয়ে, উপদেশ পৌঁছানোর পর যারা তা অস্বীকার করেছিল। এখানে একই শুরুর পর আসে ইউবসিরূন, শীঘ্রই তারা দেখবে। এখানে সংগ্রহ করা তাফসীরগুলোর কোনোটিই এই জোড়া নিয়ে কিছু বলেনি, তাই এর উপর কিছু দাঁড় করানো হচ্ছে না। শুধু এটুকু চোখে রাখা যায়: জানা আর দেখা, দুটি ক্রিয়াই এসেছে একই ফাসাওফার পরে, আর দুটিকেই রেখে দেওয়া হয়েছে নিজ নিজ সময়ে আসার জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning, Not a Warrant",
+          "bn": "সতর্কবাণী, অনুমতিপত্র নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse addresses the Prophet ﷺ about the people who opposed and belied him in his own time, and every reading of its while that the commentators give points to an event in that history, to death, or to the Day of Resurrection. It describes a punishment that Allah sends, at a time that Allah sets. It licenses nothing against any living person or community, of any faith or of none, and it gives no one the right to name a people of today as those who will see.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নবী ﷺ-কে বলা হয়েছে তাঁর নিজের যুগের সেই লোকদের সম্পর্কে, যারা তাঁর বিরোধিতা করেছিল আর তাঁকে মিথ্যা বলেছিল। 'কিছুকাল'-এর যত ব্যাখ্যা তাফসীরকারেরা দিয়েছেন, সবই হয় সেই ইতিহাসের কোনো ঘটনার দিকে ইঙ্গিত করে, নয়তো মৃত্যু বা কিয়ামতের দিকে। আয়াত বলছে এমন আযাবের কথা, যা পাঠান আল্লাহ, তাঁরই ঠিক করা সময়ে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে, সে যে ধর্মেরই হোক বা কোনো ধর্মের না হোক, এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো জাতিকে 'যারা দেখবে' বলে চিহ্নিত করার অধিকারও কাউকে দেয় না।"
+          },
+          {
+            "en": "Two of the sources record a claim that the command to turn away was later abrogated: al-Qurtubi, with it is said, by the verse of the sword, and al-Baghawi, from Muqatil ibn Hayyan, by the verse of fighting. These are reports about the order of rulings in the Prophet's ﷺ lifetime, and they are given here only as reports. They do not turn this verse into an instruction to anyone today, and this article draws no ruling from them. What the verse itself asks of the one it addresses is patience and watchfulness, with the outcome left to Allah.",
+            "bn": "দুটি সূত্রে এমন একটি মতও আছে যে, মুখ ফিরিয়ে থাকার আদেশটি পরে মানসূখ বা রহিত হয়েছে। কুরতুবী 'বলা হয়' দিয়ে আনেন, তরবারির আয়াত দিয়ে রহিত। বাগাভী মুকাতিল ইবন হাইয়ানের নামে আনেন, লড়াইয়ের আয়াত দিয়ে রহিত। এগুলো নবী ﷺ-এর জীবদ্দশায় বিধানগুলোর ধারাক্রম নিয়ে বর্ণনা, আর এখানে সেগুলো শুধু বর্ণনা হিসেবেই রাখা হলো। এগুলো এ আয়াতকে আজকের কারও জন্য কোনো নির্দেশে পরিণত করে না, আর এই প্রবন্ধও এগুলো থেকে কোনো বিধান বের করছে না। আয়াত নিজে যাঁকে সম্বোধন করেছে, তাঁর কাছে চেয়েছে ধৈর্য আর সজাগ দৃষ্টি। শেষ ফল রেখে দিয়েছে আল্লাহর হাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patience With Open Eyes",
+          "bn": "চোখ খোলা রেখে সবর"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's gloss of 37:174 gives the inner side of the command: be patient with the harm they do you, and wait for an appointed time, for We will give you the final outcome, help and victory. The watching of this verse belongs to that patience. It is not the watching of someone hoping for an enemy's fall. It is the watching of someone who has been given a promise, in 37:171 to 37:173, and keeps looking towards it while the opposition goes on around him.",
+            "bn": "৩৭:১৭৪ আয়াতে ইবন কাসীরের ব্যাখ্যা আদেশটির ভেতরের দিকটা খুলে দেয়: তারা তোমাকে যে কষ্ট দেয়, তাতে সবর করো, আর একটি নির্ধারিত সময়ের অপেক্ষা করো। শেষ ফল, সাহায্য আর বিজয় আমি তোমাকেই দেব। এ আয়াতের দেখা সেই সবরেরই অংশ। এটা শত্রুর পতনের আশায় তাকিয়ে থাকা নয়। এটা এমন একজনের তাকিয়ে থাকা, যাঁকে ৩৭:১৭১ থেকে ৩৭:১৭৩ আয়াতে একটি প্রতিশ্রুতি দেওয়া হয়েছে। চারপাশে বিরোধিতা চলছে, আর তিনি চোখ রেখেছেন সেই প্রতিশ্রুতির দিকে।"
+          },
+          {
+            "en": "For the reader, the verse holds two positions, and only one of them is worth wanting. The Prophet ﷺ watches; his opponents will see. Qatada's description of their seeing, when seeing no longer benefits, is the one to fear. Anyone who meets a warning can look at it now, while looking still leads somewhere, or wait for the day it is plain to every eye. The verse was said about others, and it is safest read as a question put to oneself: which of the two sights am I keeping for myself?",
+            "bn": "পাঠকের সামনে আয়াতটি দুটি অবস্থান রাখে, আর চাওয়ার মতো তার একটিই। নবী ﷺ দেখছেন, আর তাঁর বিরোধীরা পরে দেখবে। তাদের দেখা নিয়ে কাতাদার কথাটিই ভয়ের: যখন দেখা আর কোনো কাজে আসে না। সতর্কবাণী যার কাছেই পৌঁছায়, সে চাইলে এখনই তার দিকে তাকাতে পারে, যখন তাকালে এখনো কিছু বদলায়। নয়তো অপেক্ষা করতে পারে সেই দিনের, যেদিন তা সবার চোখেই স্পষ্ট। আয়াতটি বলা হয়েছিল অন্যদের নিয়ে। তবু একে নিজের প্রতি প্রশ্ন হিসেবে পড়াই নিরাপদ: এই দুই দেখার কোনটি আমি নিজের জন্য রেখে দিচ্ছি?"
+          }
+        ]
+      }
+    ]
+  },
   "37:177": {
     "sections": [
       {

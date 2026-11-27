@@ -37073,6 +37073,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a duty grows heavy, do not slip away before you are given leave. No ship carries you beyond Allah's reach, and He brings His servants back.",
     "lessonBn": "দায়িত্ব ভারী হলে অনুমতি পাওয়ার আগে সরে পড়বেন না। কোনো জাহাজ আপনাকে আল্লাহর নাগালের বাইরে নিতে পারে না, আর তিনি তাঁর বান্দাদের ফিরিয়ে আনেন।"
+  },
+  "37:175": {
+    "reflectionEn": "The Prophet ﷺ is given two commands in a row: turn away from them for a while, and watch them, for they will see. He is not told to strike, to argue on, or to give up. He is told to wait with his eyes open. What he is watching for is not his to bring about; it is Allah's to send, at a time Allah has set. Those who mocked him will see too, but the verse puts their seeing later, at a point where seeing may no longer help them. That is where the verse turns towards me. I can see the truth now, while seeing it still changes what I do, or I can wait until it is plain to everyone and too late to act on.",
+    "reflectionBn": "নবী ﷺ-কে পরপর দুটি নির্দেশ দেওয়া হলো: কিছুকাল তাদের থেকে মুখ ফিরিয়ে থাকো, আর তাদের দেখতে থাকো, তারাও শীঘ্রই দেখবে। আঘাত করতে বলা হয়নি, তর্ক চালিয়ে যেতেও না, হাল ছেড়ে দিতেও না। বলা হয়েছে চোখ খোলা রেখে অপেক্ষা করতে। যার অপেক্ষা, তা ঘটানো তাঁর কাজ নয়। তা পাঠাবেন আল্লাহ, নিজের ঠিক করা সময়ে। যারা ঠাট্টা করত, তারাও দেখবে। কিন্তু আয়াত তাদের দেখাটাকে রেখেছে পরে, এমন সময়ে, যখন দেখে হয়তো আর কোনো লাভ নেই। এখানে এসে আয়াতটি আমার দিকে ফেরে। সত্যটা আমি এখনই দেখতে পারি, যখন দেখলে আমার আমল বদলায়। নয়তো অপেক্ষা করতে পারি সেই দিনের, যেদিন তা সবার চোখেই স্পষ্ট, কিন্তু কিছু করার সময় আর নেই।",
+    "pointsEn": [
+      "When someone opposes what I know to be right, can I wait with patience, or do I need to see them proved wrong today?",
+      "Which truth am I putting off until it becomes impossible to ignore, when by then seeing it may no longer help me?",
+      "Do I leave the outcome of a dispute with Allah, or do I quietly appoint myself the one who will bring it about?",
+      "Is my patience with those who mock my faith the patience of trust, or only a tired way of giving up?",
+      "Which warning have I watched others ignore without asking whether it is addressed to me as well?"
+    ],
+    "pointsBn": [
+      "যা সঠিক বলে জানি, কেউ তার বিরোধিতা করলে আমি কি ধৈর্য ধরে অপেক্ষা করতে পারি, নাকি আজই তাকে ভুল প্রমাণিত হতে দেখা আমার চাই?",
+      "কোন সত্যটা আমি ফেলে রাখছি সেই সময়ের জন্য, যখন তা আর অস্বীকার করা যাবে না? তখন তো দেখেও হয়তো কোনো লাভ হবে না।",
+      "কোনো বিরোধের শেষ ফল কি আমি আল্লাহর হাতে ছেড়ে দিই, নাকি চুপচাপ নিজেকেই তা ঘটানোর দায়িত্ব দিয়ে বসি?",
+      "যারা আমার দ্বীন নিয়ে ঠাট্টা করে, তাদের বেলায় আমার ধৈর্য কি আল্লাহর উপর ভরসার ধৈর্য, নাকি ক্লান্ত হয়ে হাল ছেড়ে দেওয়া?",
+      "কোন সতর্কবাণী আমি অন্যদের অগ্রাহ্য করতে দেখেছি, অথচ একবারও ভাবিনি যে তা আমাকেও বলা হয়েছে?"
+    ],
+    "lessonEn": "Bear opposition with patience and leave the outcome to Allah; and see the truth now, while seeing it can still change what you do.",
+    "lessonBn": "বিরোধিতার মুখে ধৈর্য ধরুন, শেষ ফল আল্লাহর হাতে ছেড়ে দিন। আর সত্যটা এখনই দেখুন, যখন দেখলে এখনো আমল বদলানো যায়।"
   }
 };
 
