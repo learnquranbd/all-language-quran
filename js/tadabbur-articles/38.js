@@ -2407,6 +2407,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "38:59": {
+    "sections": [
+      {
+        "h": {
+          "en": "Ten Words at the Fire's Door",
+          "bn": "আগুনের দরজায় দশটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Hadha fawjun muqtahimun ma'akum, la marhaban bihim, innahum salu an-nar: this is a crowd rushing in with you; no welcome for them; they will burn in the Fire. The verse is ten Arabic words in three clauses. The verses before it have described where the transgressors end: in 38:55 an evil place of return, in 38:56 Hell and a wretched resting place, in 38:57 and 38:58 its drink and other torments of the same kind. With this verse the passage turns from what is endured to what is said, and voices are heard inside the Fire.",
+            "bn": "হাযা ফাওজুম মুকতাহিমুম মা'আকুম, লা মারহাবাম বিহিম, ইন্নাহুম সালুন নার: এই তো এক দল তোমাদের সঙ্গে ঢুকে পড়ছে; ওদের জন্য কোনো স্বাগত নেই; ওরা আগুনে জ্বলবে। আরবিতে আয়াতটি দশটি শব্দের, তিনটি খণ্ডে ভাগ করা। আগের আয়াতগুলো জানিয়েছে সীমালঙ্ঘনকারীদের শেষ ঠিকানা কোথায়। ৩৮:৫৫ আয়াতে নিকৃষ্ট প্রত্যাবর্তনস্থল, ৩৮:৫৬ আয়াতে জাহান্নাম ও তার মন্দ বিছানা, ৩৮:৫৭ ও ৩৮:৫৮ আয়াতে সেখানকার পানীয় আর একই ধরনের আরও শাস্তি। এবার আলোচনা সরে আসে সহ্য করার কথা থেকে বলার কথায়। আগুনের ভেতর থেকে প্রথমবার কণ্ঠস্বর শোনা যায়।"
+          },
+          {
+            "en": "The Qur'an names the scene itself a few verses later. In 38:64 it calls all of this takhasum ahl an-nar, the quarrelling of the people of the Fire, and says that it is true. So this verse is the first line of a quarrel, and what follows it belongs to the same exchange: the reply in 38:60, the appeal in 38:61, the search for missing men in 38:62 and 38:63. This article stays with the opening line: who speaks it, what its words mean, and why the welcome is refused.",
+            "bn": "দৃশ্যটির নাম কুরআন নিজেই দিয়েছে কয়েক আয়াত পরে। ৩৮:৬৪ আয়াতে এর সবটাকে বলা হয়েছে তাখাসুমু আহলিন নার, জাহান্নামবাসীদের বাগবিতণ্ডা, আর জানানো হয়েছে যে এ কথা সত্য। তাহলে এ আয়াত এক ঝগড়ার প্রথম লাইন। এর পরে যা আসে, সবই সেই একই কথা-কাটাকাটির অংশ: ৩৮:৬০ আয়াতে পাল্টা জবাব, ৩৮:৬১ আয়াতে রবের কাছে আবেদন, ৩৮:৬২ ও ৩৮:৬৩ আয়াতে হারিয়ে যাওয়া লোকদের খোঁজ। এই লেখা থাকবে শুধু শুরুর লাইনটির সঙ্গে। কথাটা কে বলছে, শব্দগুলোর অর্থ কী, আর স্বাগত কেন ফিরিয়ে দেওয়া হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Crowd That Throws Itself In",
+          "bn": "যে দল নিজেকে ছুড়ে দেয়"
+        },
+        "p": [
+          {
+            "en": "Fawj is a crowd or company. Al-Qurtubi glosses it simply as al-jama'a, a group. Al-Baghawi is more vivid: al-fawj is al-qati' min an-nas, a drove of people, and its plural is afwaj. At-Tabari gives firqa wa jama'a, a party and a group, and reads the clause as addressed to the transgressors named in 38:55: this is a company entering the Fire with you, you who transgressed. He explains the scene as one of the disbelieving nations entering after another nation.",
+            "bn": "ফাওজ মানে দল বা ভিড়। কুরতুবী সংক্ষেপে বলেন, আল-জামা'আ, অর্থাৎ একদল মানুষ। বাগাভীর ব্যাখ্যা আরও জীবন্ত। তাঁর মতে ফাওজ হলো আল-কাতী'উ মিনান নাস, মানুষের এক পাল, আর এর বহুবচন আফওয়াজ। তাবারী অর্থ দেন ফিরকা ও জামা'আ, একটি দল, একটি গোষ্ঠী। তিনি খণ্ডটিকে পড়েন ৩৮:৫৫ আয়াতের সীমালঙ্ঘনকারীদের প্রসঙ্গে: হে সীমালঙ্ঘনকারীরা, এই এক দল তোমাদের সঙ্গে আগুনে ঢুকছে। দৃশ্যটি তাঁর ব্যাখ্যায় এমন: কাফির জাতিগুলোর একটির পর আরেকটি জাতি সেখানে প্রবেশ করছে।"
+          },
+          {
+            "en": "Muqtahim is the participle of iqtahama. Al-Baghawi defines iqtiham as entering into a thing by throwing oneself into it, and glosses the clause as entering the Fire just as you entered it. Al-Qurtubi gives the plainer dakhil, an entrant, and Ibn Kathir in his Arabic tafsir also writes dakhil ma'akum, entering with you. On al-Baghawi's definition the picture is not of a slow procession through a gate. It is of people pitched in headlong, with no pause at the threshold.",
+            "bn": "মুকতাহিম শব্দটি ইকতাহামা ক্রিয়া থেকে। বাগাভী ইকতিহামের সংজ্ঞা দেন এভাবে: নিজেকে ছুড়ে দিয়ে কোনো কিছুর ভেতরে ঢুকে পড়া। আর খণ্ডটির অর্থ করেন, তোমরা যেমন আগুনে ঢুকেছ, ওরাও তেমনি ঢুকছে। কুরতুবী সহজ শব্দ ব্যবহার করেন, দাখিল, অর্থাৎ প্রবেশকারী। ইবন কাসীরও তাঁর আরবি তাফসীরে লেখেন দাখিলুন মা'আকুম, তোমাদের সঙ্গে প্রবেশ করছে। বাগাভীর সংজ্ঞা ধরলে ছবিটা দরজা দিয়ে ধীরে ধীরে ঢোকা কোনো মিছিলের নয়। মানুষগুলো হুমড়ি খেয়ে ভেতরে পড়ছে, চৌকাঠে এক মুহূর্তও থামার সুযোগ নেই।"
+          },
+          {
+            "en": "Al-Baghawi then relays from al-Kalbi why they throw themselves in: they are beaten with maqami' until they cast themselves into the Fire out of fear of those maces. Al-Kalbi's explanation stands in al-Baghawi's text with no chain, and it is a commentator's reading, not a narration from the Prophet ﷺ. The word maqami' is itself Qur'anic. In 22:21 the Qur'an says of the people of the Fire, wa lahum maqami'u min hadid: and for them are maces of iron.",
+            "bn": "এরপর বাগাভী কালবীর বরাতে জানান, তারা নিজেদের কেন ছুড়ে দেয়। তাদের মাকামি' দিয়ে পেটানো হবে, আর সেই মুগুরের ভয়ে তারা নিজেরাই আগুনে ঝাঁপিয়ে পড়বে। বাগাভীর লেখায় কালবীর এ ব্যাখ্যার সঙ্গে কোনো সনদ নেই। এটি একজন মুফাসসিরের ব্যাখ্যা, নবী ﷺ থেকে বর্ণিত কোনো হাদীস নয়। তবে মাকামি' শব্দটি কুরআনেরই। ২২:২১ আয়াতে জাহান্নামবাসীদের সম্পর্কে বলা হয়েছে, ওয়া লাহুম মাকামি'উ মিন হাদীদ: আর তাদের জন্য আছে লোহার মুগুর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Keepers, Leaders, or Earlier Arrivals",
+          "bn": "প্রহরী, নেতা, নাকি আগে আসা দল"
+        },
+        "p": [
+          {
+            "en": "Who says these words is a question the commentators answer differently, and the difference is worth keeping as it stands. Al-Qurtubi and al-Baghawi both relay from Ibn 'Abbas (RA) that the leaders enter the Fire first and their followers after them. Then the keepers of the Fire say to the leaders: hadha fawj, meaning the followers, a company entering the Fire with you. On this report the first clause is the angels' announcement, and the leaders answer it: la marhaban bihim, no welcome for them, meaning the followers.",
+            "bn": "কথাগুলো কে বলছে, এ প্রশ্নের উত্তর মুফাসসিরগণ ভিন্ন ভিন্ন দিয়েছেন। মতভেদটা যেমন আছে তেমনই রাখা দরকার। কুরতুবী ও বাগাভী দুজনেই ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: নেতারা আগে আগুনে ঢুকবে, তাদের পরে ঢুকবে অনুসারীরা। তখন জাহান্নামের প্রহরীরা নেতাদের বলবে, হাযা ফাওজ, অর্থাৎ এই অনুসারীরা, এক দল যারা তোমাদের সঙ্গে আগুনে ঢুকছে। এই বর্ণনা অনুযায়ী প্রথম খণ্ডটি ফেরেশতাদের ঘোষণা। নেতারা তার জবাবে বলবে, লা মারহাবাম বিহিম, ওদের জন্য কোনো স্বাগত নেই। ওদের বলতে অনুসারীদের বোঝানো হয়েছে।"
+          },
+          {
+            "en": "Ibn Kathir, in his Arabic tafsir, hears the whole verse as the people of the Fire speaking to one another. The party that entered first says it when the party after it comes forward with the keepers: this is a company entering with you, no welcome for them. As-Sa'di puts the words in the inmates' mouths too. As they arrive at the Fire one after another, he says, they revile each other, and some say this to the others. Al-Muyassar gives the same scene, with one group announcing the newcomers and the others answering.",
+            "bn": "ইবন কাসীর তাঁর আরবি তাফসীরে পুরো আয়াতটিকে জাহান্নামবাসীদের পারস্পরিক কথা হিসেবে পড়েন। যে দল আগে ঢুকেছে, পরের দলটি যখন প্রহরীদের সঙ্গে এগিয়ে আসে, তখন তারা বলে: এই এক দল তোমাদের সঙ্গে ঢুকছে, ওদের জন্য কোনো স্বাগত নেই। সা'দীও কথাগুলো জাহান্নামবাসীদের মুখেই রাখেন। তাঁর ভাষায়, একের পর এক আগুনের কাছে পৌঁছানোর সময় তারা একে অপরকে গালমন্দ করে, আর একদল অন্যদলকে এ কথা বলে। মুয়াসসারও একই দৃশ্য আঁকে। সেখানে একদল নতুন আগতদের কথা জানায়, আর অন্যরা জবাব দেয়।"
+          },
+          {
+            "en": "So the first clause has two speakers in the sources: the keepers addressing the leaders, in the report from Ibn 'Abbas, or the inmates already inside, in Ibn Kathir's Arabic, as-Sa'di and al-Muyassar. The abridged English version of Ibn Kathir gives the words to the keepers, but his Arabic text gives them to the earlier party. At-Tabari names no speaker for that clause and says only what Allah means by it. The second clause, no welcome for them, is in every fetched Arabic commentary spoken by those already in the Fire.",
+            "bn": "তাহলে সূত্রগুলোতে প্রথম খণ্ডের বক্তা দুই রকম। ইবন আব্বাস (রাঃ)-এর বর্ণনায় প্রহরীরা নেতাদের উদ্দেশে বলছে। ইবন কাসীরের আরবি পাঠ, সা'দী আর মুয়াসসারে বলছে আগে থেকে ভেতরে থাকা লোকেরা। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ কথাগুলো প্রহরীদের মুখে দিয়েছে, কিন্তু তাঁর আরবি মূল পাঠে বক্তা আগে ঢোকা দলটি। তাবারী এই খণ্ডের কোনো বক্তার নাম বলেন না, শুধু জানান আল্লাহ এ দিয়ে কী বোঝাতে চেয়েছেন। আর দ্বিতীয় খণ্ড, ওদের জন্য কোনো স্বাগত নেই, সংগৃহীত প্রতিটি আরবি তাফসীরেই আগে থেকে আগুনে থাকা লোকদের কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Voices Run Together",
+          "bn": "দুই কণ্ঠ জুড়ে এক বাক্য"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's reading turns on how the verse is stitched. La marhaban bihim, he says, is a report from Allah of what the transgressors who entered the Fire before this crowd say to the crowd rushing in on them. But the speech is joined, so that it reads as if it were one saying. His example is 7:110, where, he says, the words of Pharaoh run on from the words of his council without a break. He also sets beside it Allah's report about the people of the Fire in 7:38: every time a nation enters, it curses its sister.",
+            "bn": "তাবারীর ব্যাখ্যার মূল কথা হলো, আয়াতটি কীভাবে জোড়া লাগানো। তিনি বলেন, লা মারহাবাম বিহিম আল্লাহর দেওয়া এক সংবাদ। এই দলের আগে যে সীমালঙ্ঘনকারীরা আগুনে ঢুকেছিল, হুড়মুড় করে ঢুকে পড়া দলটিকে তারা কী বলবে, সেটাই এখানে জানানো হয়েছে। কিন্তু কথাগুলো জোড়া লেগে গেছে, ফলে মনে হয় যেন একজনেরই কথা। উদাহরণ হিসেবে তিনি আনেন ৭:১১০ আয়াত। তাঁর মতে সেখানে ফেরাউনের কথা তার পারিষদবর্গের কথার সঙ্গে কোনো বিরতি ছাড়াই মিশে গেছে। পাশাপাশি তিনি উল্লেখ করেন ৭:৩৮ আয়াতে জাহান্নামবাসীদের সম্পর্কে আল্লাহর সংবাদ: যখনই কোনো জাতি প্রবেশ করবে, সে তার সহোদর জাতিকে অভিশাপ দেবে।"
+          },
+          {
+            "en": "Al-Qurtubi asks the same question of the last clause, innahum salu an-nar. He records two views, both introduced with qila, it has been said. On one, it is still the leaders speaking: they will burn in the Fire as we have burned in it. On the other, it is the angels' speech, joined to their opening words, this is a company rushing in with you. He does not choose between them, and neither does this article. The verse carries no 'they said' to mark where one voice ends and the next begins.",
+            "bn": "শেষ খণ্ড, ইন্নাহুম সালুন নার, নিয়েও কুরতুবী একই প্রশ্ন তোলেন। তিনি দুটি মত উল্লেখ করেন, দুটোই কীলা, অর্থাৎ বলা হয়েছে, শব্দ দিয়ে শুরু। এক মতে এখানেও নেতারাই বলছে: আমরা যেমন আগুনে জ্বলেছি, ওরাও তেমনি জ্বলবে। অন্য মতে এটি ফেরেশতাদের কথা, যা তাদের শুরুর কথা, এই এক দল তোমাদের সঙ্গে ঢুকছে, তার সঙ্গেই যুক্ত। কুরতুবী এর কোনোটিকে বেছে নেন না, এই লেখাও নেবে না। আয়াতে 'তারা বলল' জাতীয় কোনো শব্দ নেই, যা দেখিয়ে দেবে এক কণ্ঠ কোথায় থামল আর অন্যটি কোথায় শুরু হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Marhaban, a Wish for Room",
+          "bn": "মারহাবা মানে জায়গা দেওয়ার দোয়া"
+        },
+        "p": [
+          {
+            "en": "La marhaban bihim is built on the root r-h-b, which carries the sense of width. Al-Qurtubi says it plainly: ar-rahb is spaciousness, and from it comes rahbat al-masjid, the open court of a mosque. So marhaban, at its root, wishes a newcomer room. To say la marhaban is to wish the opposite. Abu 'Ubayda, as al-Qurtubi relays him, explains that the Arabs say la marhaban bik, meaning may the earth not be spacious for you, and may it not open out.",
+            "bn": "লা মারহাবাম বিহিম কথাটির মূলে আছে র-হ-ব ধাতু, যার ভেতরে আছে প্রশস্ততার অর্থ। কুরতুবী সোজা কথায় বলেন, আর-রাহব মানে প্রশস্ততা, আর এ থেকেই এসেছে রাহবাতুল মাসজিদ, মসজিদের খোলা চত্বর। তাহলে মূল অর্থে মারহাবা হলো আগন্তুকের জন্য জায়গার দোয়া। লা মারহাবা বলা মানে ঠিক উল্টোটা কামনা করা। কুরতুবী আবু উবাইদার বরাতে জানান, আরবরা বলে লা মারহাবান বিকা। এর অর্থ, জমিন তোমার জন্য প্রশস্ত না হোক, তোমার জন্য খুলে না যাক।"
+          },
+          {
+            "en": "At-Tabari glosses the phrase as may their entrances not be wide for them, and cites a half-line of Abu al-Aswad that uses the same expression. Al-Qurtubi and al-Muyassar make it concrete: may their dwellings in the Fire not be wide. Al-Qurtubi adds a note of grammar. Marhaban stands in the accusative because it is in the mode of a supplication, here a wish turned against someone. He quotes a line of an-Nabigha: no welcome to tomorrow, nor greeting to it, if the parting of loved ones is tomorrow.",
+            "bn": "তাবারী শব্দবন্ধটির অর্থ করেন, ওদের প্রবেশপথ ওদের জন্য প্রশস্ত না হোক। একই কথা আছে এমন আবুল আসওয়াদের একটি আধা-পঙক্তিও তিনি উদ্ধৃত করেন। কুরতুবী ও মুয়াসসার অর্থটাকে আরও স্পষ্ট করেন: আগুনের ভেতরে ওদের থাকার জায়গা প্রশস্ত না হোক। কুরতুবী একটি ব্যাকরণগত দিকও দেখান। মারহাবা শব্দটি নাসব অবস্থায় আছে, কারণ এটি দোয়ার ধাঁচে বলা, যদিও এখানে দোয়াটা কারও বিরুদ্ধে। তিনি নাবিগার একটি পঙক্তি আনেন: আগামীকালের জন্য কোনো মারহাবা নেই, কোনো অভ্যর্থনাও নেই, যদি প্রিয়জনদের বিচ্ছেদ আগামীকালই হয়।"
+          },
+          {
+            "en": "Put together, the phrase is a greeting refused. The word that should give a newcomer room is spoken with a negative before it, in a place where no room is left to give. In the report from Ibn 'Abbas (RA) it is spoken by leaders to their own followers. Ibn Kathir says of this exchange that instead of greeting each other with peace, the people of the Fire curse each other, call each other liars and disown each other. The welcome that is withheld is the first sign of that.",
+            "bn": "সব মিলিয়ে কথাটা এক ফিরিয়ে দেওয়া অভিবাদন। যে শব্দ আগন্তুকের জন্য জায়গা করে দেওয়ার কথা, তার আগে বসানো হয়েছে না-বোধক শব্দ। আর বলা হচ্ছে এমন জায়গায়, যেখানে দেওয়ার মতো কোনো জায়গাই আর অবশিষ্ট নেই। ইবন আব্বাস (রাঃ)-এর বর্ণনায় কথাটা নেতারা বলছে তাদের নিজেদেরই অনুসারীদের। ইবন কাসীর এই কথোপকথন সম্পর্কে বলেন, সালাম বিনিময়ের বদলে জাহান্নামবাসীরা একে অপরকে অভিশাপ দেবে, একে অপরকে মিথ্যুক বলবে, একে অপরকে অস্বীকার করবে। স্বাগত না জানানোই তার প্রথম লক্ষণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Burning as the Others Burned",
+          "bn": "যেভাবে আগেরা জ্বলেছে"
+        },
+        "p": [
+          {
+            "en": "The third clause, innahum salu an-nar, gives the reason for the refusal. Salu is a plural participle from the same root as yaslawnaha in 38:56: to be exposed to the Fire and burn in it. Ibn Kathir's gloss is short: because they are of the people of Hell. Al-Baghawi reads it as entering it as we entered. Al-Muyassar puts it most sharply: they are suffering the heat of the Fire as we have suffered it. The newcomers bring nothing with them. They are only more of the same burning.",
+            "bn": "তৃতীয় খণ্ড, ইন্নাহুম সালুন নার, স্বাগত না জানানোর কারণ বলে দেয়। সালু বহুবচনের একটি কৃদন্ত শব্দ। এর ধাতু আর ৩৮:৫৬ আয়াতের ইয়াসলাওনাহা শব্দের ধাতু একই, যার অর্থ আগুনের মুখোমুখি হয়ে তাতে জ্বলা। ইবন কাসীরের ব্যাখ্যা ছোট: কারণ ওরাও জাহান্নামের অধিবাসী। বাগাভী অর্থ করেন, আমরা যেমন ঢুকেছি, ওরাও তেমনি ঢুকছে। মুয়াসসার কথাটা সবচেয়ে তীক্ষ্ণ করে বলে: আমরা যেমন আগুনের তাপ সয়েছি, ওরাও তেমনি সইছে। নতুন যারা আসছে, তারা সঙ্গে করে কিছুই আনেনি। তারা কেবল একই আগুনে জ্বলা আরও কিছু মানুষ।"
+          },
+          {
+            "en": "That reason says something about the bonds the verse breaks. Whatever these people shared before, whether a cause, a leader or a habit of mockery, it gives them nothing to offer one another now. Ibn Kathir, as quoted above, sees cursing and disowning where greetings of peace should be. The Qur'an states the same reversal as a general rule in 43:67: close friends on that Day will be enemies to one another, except the righteous. This verse shows that rule at its first moment, at the door.",
+            "bn": "এই কারণটি আয়াতে ভেঙে পড়া বন্ধনগুলো সম্পর্কেও কিছু বলে। দুনিয়ায় এরা যা-ই ভাগাভাগি করে থাকুক, কোনো আদর্শ, কোনো নেতা কিংবা ঠাট্টা-বিদ্রুপের অভ্যাস, আজ তা দিয়ে একে অপরকে দেওয়ার মতো কিছুই তাদের নেই। ইবন কাসীর, যেমন আগে বলা হলো, সালামের জায়গায় দেখেন অভিশাপ আর অস্বীকার। কুরআন এই উল্টে যাওয়াকে একটি সাধারণ নিয়ম হিসেবে বলেছে ৪৩:৬৭ আয়াতে: সেদিন ঘনিষ্ঠ বন্ধুরাও একে অপরের শত্রু হয়ে যাবে, মুত্তাকীরা ছাড়া। এ আয়াত দেখায় সেই নিয়মের একেবারে প্রথম মুহূর্ত, দরজার মুখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Reply, and Its Echoes",
+          "bn": "পাল্টা জবাব ও তার প্রতিধ্বনি"
+        },
+        "p": [
+          {
+            "en": "The next verse answers it, and it is close enough to need only a pointer. In 38:60 the newcomers turn the words back: rather you, no welcome for you; it was you who brought this upon us. Ibn Kathir explains their complaint as, you called us to what led us to this fate. In 38:61 they appeal past their leaders to their Lord, asking that whoever brought this on them be given a double punishment in the Fire. Both verses belong to the quarrel that 38:64 names, and each deserves its own reading.",
+            "bn": "পরের আয়াতটি এ আয়াতেরই জবাব, এত কাছের যে শুধু ইঙ্গিত দিলেই চলে। ৩৮:৬০ আয়াতে নবাগতরা কথাটা ফিরিয়ে দেয়: বরং তোমরাই, তোমাদের জন্যও কোনো স্বাগত নেই, তোমরাই তো আমাদের জন্য এটা এগিয়ে এনেছ। ইবন কাসীর তাদের অভিযোগের ব্যাখ্যা দেন এভাবে: তোমরা আমাদের এমন কিছুর দিকে ডেকেছিলে, যা আমাদের এই পরিণতিতে নিয়ে এসেছে। ৩৮:৬১ আয়াতে তারা নেতাদের ডিঙিয়ে সরাসরি রবের কাছে আবেদন করে, যে এটা আমাদের জন্য এনেছে, আগুনে তার শাস্তি দ্বিগুণ করে দাও। দুটো আয়াতই ৩৮:৬৪ আয়াতে উল্লিখিত সেই বাগবিতণ্ডার অংশ, আর প্রত্যেকটির আলাদা পাঠ প্রাপ্য।"
+          },
+          {
+            "en": "Other passages show the same scene from other angles, and each is read in its own place. In 7:38 every nation that enters curses its sister, the last ask for the first to be given a double punishment, and Allah answers that for each there is double. In 34:31 those who were looked down on say to the arrogant, had it not been for you, we would have been believers. In 37:30 the leaders answer that they had no authority over their followers, who were themselves a transgressing people. In none of them does anyone accept the blame.",
+            "bn": "আরও কিছু আয়াত একই দৃশ্য দেখায় ভিন্ন ভিন্ন দিক থেকে, আর প্রত্যেকটির পাঠ তার নিজের জায়গায়। ৭:৩৮ আয়াতে প্রতিটি জাতি ঢুকেই তার সহোদর জাতিকে অভিশাপ দেয়, পরের দল আগের দলের জন্য দ্বিগুণ শাস্তি চায়, আর আল্লাহ জবাব দেন, প্রত্যেকের জন্যই দ্বিগুণ। ৩৪:৩১ আয়াতে যাদের দুর্বল করে রাখা হয়েছিল, তারা দাম্ভিকদের বলে, তোমরা না থাকলে আমরা মুমিন হতাম। ৩৭:৩০ আয়াতে নেতারা জবাব দেয়, তোমাদের উপর আমাদের কোনো কর্তৃত্ব ছিল না, তোমরা নিজেরাই ছিলে সীমালঙ্ঘনকারী জাতি। এর কোনোটিতেই কেউ দোষ নিজের কাঁধে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Name Placed in the Fire",
+          "bn": "আগুনে কারও নাম বসানো নয়"
+        },
+        "p": [
+          {
+            "en": "This verse describes a scene in the Hereafter, as the text and its commentators describe it, and nothing more. It names no person and no community, and it places no living person or group in the Fire. The report from Ibn 'Abbas (RA) speaks of leaders and followers; at-Tabari speaks of disbelieving nations entering one after another. Neither gives a reader licence to point at anyone alive today and assign them a place in this crowd. Judgment on that Day belongs to Allah alone, and the verse is told as a warning to its listener.",
+            "bn": "এ আয়াত আখিরাতের একটি দৃশ্য বর্ণনা করে, আয়াতের পাঠ আর মুফাসসিরগণ যেভাবে বর্ণনা করেছেন ঠিক সেভাবে, এর বেশি কিছু নয়। আয়াতটি কোনো ব্যক্তি বা সম্প্রদায়ের নাম নেয় না। আজ বেঁচে থাকা কোনো মানুষ বা গোষ্ঠীকে আগুনে বসিয়ে দেয় না। ইবন আব্বাস (রাঃ)-এর বর্ণনায় আছে নেতা আর অনুসারীদের কথা, তাবারীর ব্যাখ্যায় আছে একের পর এক কাফির জাতির প্রবেশের কথা। এর কোনোটিই পাঠককে এই অনুমতি দেয় না যে আজকের কোনো জীবিত মানুষের দিকে আঙুল তুলে তাকে এই ভিড়ে জায়গা দেবে। সেদিনের বিচার একমাত্র আল্লাহর, আর আয়াতটি বলা হয়েছে শ্রোতাকে সতর্ক করার জন্য।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it, and none gives a cause of revelation, so the verse is read in its place within the passage from 38:55 to 38:64. The one report the commentators bring, from Ibn 'Abbas (RA), appears in al-Qurtubi and al-Baghawi without a chain, as an explanation of the scene. It is given here as their report of his reading, and nothing in this article is built on it beyond who says which words.",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীরই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, কোনো শানে নুযূলও উল্লেখ করেনি। তাই আয়াতটি পড়া হয়েছে ৩৮:৫৫ থেকে ৩৮:৬৪ পর্যন্ত অংশের ভেতরে তার নিজের জায়গায় রেখে। মুফাসসিরগণ যে একটিমাত্র বর্ণনা আনেন, ইবন আব্বাস (রাঃ)-এর, তা কুরতুবী ও বাগাভীতে এসেছে কোনো সনদ ছাড়া, দৃশ্যটির ব্যাখ্যা হিসেবে। এখানে তা রাখা হয়েছে তাঁর মত সম্পর্কে তাঁদের বর্ণনা হিসেবেই। কোন কথা কে বলছে, এটুকু ছাড়া এই লেখার আর কিছুই এর উপর দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "What the verse leaves its listener with is a question about company. The crowd that rushes in did not arrive there alone. It followed, cheered or was led, and at the end those it followed would not make room for it. The lesson is not to find that crowd among your neighbours. It is to look at what your own friendships and loyalties rest on, and to choose leaders and companions you would be glad to stand beside on that Day, while the choice is still open.",
+            "bn": "আয়াতটি শ্রোতার হাতে শেষ পর্যন্ত যে প্রশ্ন রেখে যায়, তা সঙ্গ নিয়ে। যে দল হুড়মুড় করে ঢুকে পড়ে, তারা একা সেখানে পৌঁছায়নি। তারা কারও পেছনে চলেছে, কারও জন্য গলা ফাটিয়েছে, কিংবা কেউ তাদের টেনে নিয়ে গেছে। আর শেষে যাদের পেছনে চলেছে, তারাই তাদের জন্য একটু জায়গা ছাড়েনি। শিক্ষাটা প্রতিবেশীদের মধ্যে সেই ভিড় খুঁজে বের করা নয়। শিক্ষা হলো নিজের বন্ধুত্ব আর আনুগত্য কীসের উপর দাঁড়িয়ে আছে, তা দেখে নেওয়া। আর এখনো যখন বেছে নেওয়ার সুযোগ আছে, এমন নেতা ও সঙ্গী বেছে নেওয়া, সেদিন যাদের পাশে দাঁড়াতে পারলে আপনি খুশি হবেন।"
+          }
+        ]
+      }
+    ]
+  },
   "38:62": {
     "sections": [
       {

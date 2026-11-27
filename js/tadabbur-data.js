@@ -37173,6 +37173,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every strength you are given needs understanding beside it; when you judge between people, ask for proof and speak so that the matter is settled.",
     "lessonBn": "আপনাকে দেওয়া প্রতিটি শক্তির পাশে বুঝ থাকা চাই; মানুষের মধ্যে ফয়সালা করতে গেলে প্রমাণ চান, আর এমনভাবে কথা বলুন যাতে বিষয়টা মিটে যায়।"
+  },
+  "38:59": {
+    "reflectionEn": "They arrive in crowds, one after another, and those already inside make no room. No welcome for them, they say; they will burn in the Fire. In this world the same people may have walked together, cheered the same voices and laughed at the same warnings. Now the word of welcome that once met a friend at the door is turned around and thrown at him. The verse names no one and gives me no list of who is there. It asks something closer to home. Whose company am I keeping, and what holds it together? A bond made on doing wrong together does not survive the sight of where it leads. The friendships worth keeping are the ones I would be glad to find beside me on that Day.",
+    "reflectionBn": "দলে দলে তারা আসছে, একটার পর একটা। আর যারা আগে থেকে ভেতরে আছে, তারা একটুও জায়গা ছাড়ে না। বলে, ওদের জন্য কোনো স্বাগত নেই, ওরাও আগুনে জ্বলবে। দুনিয়ায় হয়তো এরাই একসঙ্গে পথ চলেছে, একই আওয়াজে গলা মিলিয়েছে, একই সতর্কবাণী নিয়ে হাসাহাসি করেছে। আজ যে শব্দে দরজায় বন্ধুকে বরণ করা হতো, সেই শব্দই উল্টে তার দিকে ছুড়ে মারা হচ্ছে। আয়াতটি কারও নাম নেয় না, সেখানে কারা আছে তার কোনো তালিকাও আমার হাতে দেয় না। প্রশ্নটা বরং আমার নিজের ঘরের। আমি কাদের সঙ্গ দিচ্ছি, আর কী দিয়ে সেই সম্পর্ক বাঁধা? একসঙ্গে অন্যায় করার উপর গড়া বন্ধন তার শেষ ঠিকানা চোখে পড়লে আর টেকে না। রাখার মতো বন্ধুত্ব সেগুলোই, সেদিন যাদের পাশে পেলে আমি খুশি হব।",
+    "pointsEn": [
+      "Which of my friendships rest on something I would be ashamed to carry with me into the Hereafter?",
+      "Whom do I follow without asking where they are taking me, and would I still follow if I could see the end of the road?",
+      "When someone I encouraged goes wrong, do I own my part, or am I quick to say it had nothing to do with me?",
+      "Do I give people a warm welcome and a word of peace now, while it still costs me so little?",
+      "When I picture the Fire, do I picture other people in it, or do I ask what in me needs to change?"
+    ],
+    "pointsBn": [
+      "আমার কোন বন্ধুত্বগুলো এমন কিছুর উপর দাঁড়িয়ে আছে, যা আখিরাতে সঙ্গে নিয়ে যেতে আমি লজ্জা পাব?",
+      "কার পেছনে আমি চলছি অথচ জিজ্ঞেসও করিনি সে আমাকে কোথায় নিয়ে যাচ্ছে? পথের শেষটা দেখতে পেলে কি তবুও তার পেছনে চলতাম?",
+      "যাকে আমি উৎসাহ দিয়েছিলাম সে ভুল পথে গেলে আমি কি নিজের দায়টুকু মেনে নিই, নাকি তাড়াতাড়ি বলে দিই এতে আমার কোনো হাত নেই?",
+      "এখন, যখন এর দাম এত সামান্য, আমি কি মানুষকে আন্তরিকভাবে স্বাগত জানাই আর সালাম দিই?",
+      "জাহান্নামের কথা ভাবলে আমি কি সেখানে অন্য মানুষদের ছবি দেখি, নাকি নিজেকে জিজ্ঞেস করি আমার ভেতরে কী বদলানো দরকার?"
+    ],
+    "lessonEn": "Choose companions and leaders you would be glad to stand beside on the Day; bonds built on doing wrong together end in blame and rejection.",
+    "lessonBn": "এমন সঙ্গী আর নেতা বেছে নিন, সেদিন যাদের পাশে দাঁড়াতে পারলে আপনি খুশি হবেন; একসঙ্গে অন্যায় করার উপর গড়া বন্ধন শেষ হয় দোষারোপ আর প্রত্যাখ্যানে।"
   }
 };
 
