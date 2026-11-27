@@ -723,6 +723,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:18": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Column Reaches the Valley",
+          "bn": "বাহিনী পৌঁছাল উপত্যকায়"
+        },
+        "p": [
+          {
+            "en": "The verse opens with hatta, until, so it carries on a movement already under way. In 27:17 the soldiers of Sulayman (AS), from the jinn, men and birds, are gathered and held in their ranks, fa-hum yuza'un. Now that column arrives: hatta idha ataw 'ala wadi an-naml, until, when they came upon the valley of the ants. At-Tabari restates it without ornament: until Sulayman and his soldiers came upon the valley of the ants. Ibn Kathir, in the Arabic, says that Sulayman passed over the valley with the armies and troops who were with him.",
+            "bn": "আয়াতটি শুরু হয় হাত্তা দিয়ে, যার অর্থ 'অবশেষে' বা 'যতক্ষণ না'। তাই এটি আগে থেকে চলতে থাকা এক যাত্রারই ধারাবাহিকতা। ২৭:১৭ আয়াতে সুলাইমান (আঃ)-এর জিন, মানুষ আর পাখির সৈন্যদের জড়ো করা হয়, তারপর সারিতে বেঁধে রাখা হয়: ফাহুম ইউযা‘ঊন। এবার সেই বাহিনী এসে পৌঁছায়: হাত্তা ইযা আতাও আলা ওয়াদিন নামল, অবশেষে যখন তারা পিঁপড়ার উপত্যকায় এল। তাবারী কোনো অলংকার ছাড়াই কথাটা আবার বলেন: অবশেষে সুলাইমান ও তাঁর সৈন্যরা পিঁপড়ার উপত্যকায় এসে পৌঁছাল। ইবন কাসীর আরবি তাফসীরে বলেন, সুলাইমান তাঁর সঙ্গের সেনাদল ও বাহিনী নিয়ে সেই উপত্যকা পার হচ্ছিলেন।"
+          },
+          {
+            "en": "Then the verse turns from the army to the ground. Qalat namlatun: an ant said. The noun is indefinite, one ant among many, and her words fill the rest of the verse: O ants, enter your dwellings, lest Sulayman and his soldiers crush you while they do not perceive. Ibn Kathir names what she feared: that the horses would crush the ants under their hooves. So she ordered them into their dwellings, and Sulayman understood that from her. The great procession of the verse before is now seen from below, through the eyes of a creature no one in it was looking at.",
+            "bn": "এরপর আয়াতের দৃষ্টি বাহিনী থেকে নেমে আসে মাটিতে। কালাত নামলাতুন: একটি পিঁপড়া বলল। শব্দটি অনির্দিষ্ট, অসংখ্য পিঁপড়ার মধ্যে একটি। আয়াতের বাকি অংশ জুড়ে তারই কথা: হে পিঁপড়ার দল, তোমাদের ঘরে ঢুকে পড়ো, যাতে সুলাইমান ও তাঁর সৈন্যরা তোমাদের পিষে না ফেলে, অথচ তারা টেরও পাবে না। তার ভয়টা কী ছিল, ইবন কাসীর তা বলে দেন: ঘোড়াগুলো খুর দিয়ে পিঁপড়াদের পিষে ফেলবে। তাই সে তাদের ঘরে ঢুকতে বলল, আর সুলাইমান তার কথা বুঝে নিলেন। আগের আয়াতের সেই জাঁকালো মিছিল এবার দেখা হচ্ছে নিচ থেকে, এমন এক প্রাণীর চোখ দিয়ে, যার দিকে মিছিলের কেউ তাকিয়ে ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Voice Across a Colony",
+          "bn": "এক ডাকে গোটা দল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di describes her as munabbihatan li-rufqatiha wa bani jinsiha, alerting her companions and her own kind. He then asks how one ant's warning could reach a valley full of ants, and leaves two answers open. Either she made them all hear by herself, in which case Allah had given the ants a hearing beyond the ordinary, since alerting a whole valley with the voice of a single ant would be among the most wondrous of wonders. Or she told the ants around her, and the news ran from one to the next until it reached them all.",
+            "bn": "সা'দী তাকে বলেন মুনাব্বিহাতান লি-রুফকাতিহা ওয়া বানী জিনসিহা: নিজের সঙ্গীদের আর স্বজাতিকে সে সজাগ করছিল। এরপর তিনি প্রশ্ন তোলেন, একটি পিঁপড়ার সতর্কবাণী পিঁপড়ায় ভরা গোটা উপত্যকায় পৌঁছাল কীভাবে? দুটি উত্তরই তিনি খোলা রাখেন। হয়তো সে একাই সবাইকে শুনিয়েছিল। তা হলে আল্লাহ পিঁপড়াদের স্বাভাবিকের বাইরে শোনার ক্ষমতা দিয়েছিলেন, কারণ একটিমাত্র পিঁপড়ার আওয়াজে পুরো উপত্যকাকে সতর্ক করা আশ্চর্যের মধ্যেও সবচেয়ে আশ্চর্য ব্যাপার। নয়তো সে আশপাশের পিঁপড়াদের জানিয়েছিল, তারপর খবরটা একজন থেকে আরেকজনে ছড়াতে ছড়াতে সবার কাছে পৌঁছে গিয়েছিল।"
+          },
+          {
+            "en": "Either way, as-Sa'di's word for what she did is fa-nasahat: she gave sincere counsel. She made the ants hear, told them to beware, and pointed them to the way out, which was to enter their homes. Al-Muyassar renders her verb as la yuhlikannakum, lest Sulayman and his soldiers destroy you, while they know nothing of it. Al-Qurtubi records al-Mahdawi's view that Allah gave the ant this understanding so that it would be a miracle for Sulayman. He also notes the word itself: the ant is called namlah from tanammul, its constant movement and little rest.",
+            "bn": "যেভাবেই হোক, সা'দী তার কাজটিকে বলেন ফানাসাহাত: সে আন্তরিকভাবে কল্যাণের পরামর্শ দিল। সে পিঁপড়াদের শুনিয়েছিল, সাবধান হতে বলেছিল, আর বাঁচার পথও দেখিয়ে দিয়েছিল: নিজেদের ঘরে ঢুকে পড়া। মুয়াসসার তার ক্রিয়াটির অর্থ করে লা ইউহলিকান্নাকুম, যাতে সুলাইমান ও তাঁর সৈন্যরা তোমাদের ধ্বংস না করে, অথচ তারা এর কিছুই জানবে না। কুরতুবী মাহদাভীর মত উল্লেখ করেন: আল্লাহ পিঁপড়াটিকে এ বোধ দিয়েছিলেন, যাতে তা সুলাইমানের জন্য মুজিযা হয়। শব্দটি নিয়েও তিনি একটি কথা বলেন। পিঁপড়াকে নামলা বলা হয় তানাম্মুল থেকে, অর্থাৎ সারাক্ষণ নড়াচড়া করা আর খুব কম স্থির থাকা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken to Like People",
+          "bn": "মানুষের ভাষায় সম্বোধন"
+        },
+        "p": [
+          {
+            "en": "Her call uses a form usually kept for people. She says udkhulu, enter, in the masculine plural, and not udkhulna, the feminine form. Al-Baghawi gives the reason: since they were given speech like that of human beings, they were addressed as human beings are addressed. Al-Qurtubi says the same, that the ants here were treated as people are because they spoke as people speak. So the grammar of the verse quietly honours its speaker. For the length of one sentence, a colony of ants is spoken of in the language used for persons.",
+            "bn": "তার ডাকে এমন একটি রূপ আছে, যা সাধারণত মানুষের জন্য রাখা হয়। সে বলে উদখুলূ, ঢুকে পড়ো, পুরুষবাচক বহুবচনে। স্ত্রীবাচক রূপ উদখুলনা সে বলেনি। বাগাভী কারণটা বলেন: তাদের যেহেতু মানুষের মতো কথা বলার ক্ষমতা দেওয়া হয়েছিল, তাই তাদের সম্বোধনও করা হয়েছে মানুষের মতো করে। কুরতুবীও একই কথা বলেন। পিঁপড়ারা এখানে মানুষের মতো কথা বলেছে, তাই তাদের সাথে আচরণও হয়েছে মানুষের মতো। আয়াতের ব্যাকরণ এভাবে নিঃশব্দে বক্তাকে সম্মান দেয়। একটি বাক্যের জন্য এক দল পিঁপড়ার কথা বলা হচ্ছে সেই ভাষায়, যা মানুষের জন্য ব্যবহৃত হয়।"
+          },
+          {
+            "en": "Al-Qurtubi also records how others read these words. Sulayman at-Taymi, reciting in Makkah, read namlah and naml with a fatha on the nun and a damma on the mim, and is also reported to have put a damma on both. Shahr ibn Hawshab read maskanakum, your dwelling, in the singular. The codex of Ubayy had masakinakunna la yahtimannakum, and Sulayman at-Taymi read masakinakum la yahtimannakunna, as an-Nahhas mentioned. These are reported readings kept by al-Qurtubi; the recited text has udkhulu masakinakum la yahtimannakum.",
+            "bn": "কুরতুবী আরও জানান, অন্যরা এ শব্দগুলো কীভাবে পড়েছেন। সুলাইমান আত-তাইমী মক্কায় তিলাওয়াতের সময় নামলা ও নামল পড়েছেন নূনে যবর আর মীমে পেশ দিয়ে। তাঁর থেকে দুটো অক্ষরেই পেশ দিয়ে পড়ার কথাও বর্ণিত আছে। শাহর ইবন হাওশাব পড়েছেন মাসকানাকুম, একবচনে, তোমাদের ঘর। উবাই (রাঃ)-এর মুসহাফে ছিল মাসাকিনাকুন্না লা ইয়াহতিমান্নাকুম। আর সুলাইমান আত-তাইমী পড়েছেন মাসাকিনাকুম লা ইয়াহতিমান্নাকুন্না, নাহহাস যেমন উল্লেখ করেছেন। এগুলো কুরতুবীর সংরক্ষিত বর্ণিত পাঠ। প্রচলিত তিলাওয়াতে আছে উদখুলূ মাসাকিনাকুম লা ইয়াহতিমান্নাকুম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning That Holds No Grudge",
+          "bn": "সতর্কবাণীতে নেই কোনো অভিযোগ"
+        },
+        "p": [
+          {
+            "en": "La yahtimannakum: at-Tabari glosses the verb as lest they break you and kill you, and al-Baghawi defines al-hatm as breaking. Then come the closing words, wa hum la yash'urun. At-Tabari reads them plainly: while they do not know that they are crushing you. As-Sa'di draws out what the clause does. The ant knew the condition of Sulayman and his soldiers and the greatness of his rule, and she made an excuse for them, i'tadharat 'anhum: if they crush you, it will not be by their intention, nor with their awareness.",
+            "bn": "লা ইয়াহতিমান্নাকুম: তাবারী ক্রিয়াটির ব্যাখ্যা করেন এভাবে, যাতে তারা তোমাদের ভেঙে না ফেলে, মেরে না ফেলে। বাগাভী বলেন, হাতম মানে ভাঙা। এরপর আসে শেষ কথাগুলো: ওয়াহুম লা ইয়াশ‘উরূন। তাবারী সরল অর্থ করেন: অথচ তারা জানবেই না যে তোমাদের পিষে ফেলছে। বাক্যাংশটি আসলে কী কাজ করছে, সা'দী তা খুলে দেখান। সুলাইমান ও তাঁর সৈন্যদের অবস্থা আর তাঁর রাজত্বের বিশালতা পিঁপড়াটির জানা ছিল। তাই সে তাদের পক্ষ থেকে ওজর পেশ করল, ই‘তাযারাত আনহুম: তারা যদি তোমাদের পিষেও ফেলে, তা হবে ইচ্ছা ছাড়া, টের না পেয়ে।"
+          },
+          {
+            "en": "Al-Baghawi reports a statement from the people of tafsir: the ant knew that Sulayman was a prophet in whom there was no tyranny and no injustice. He then gives the sense of the whole verse: if you do not enter your dwellings, they will tread on you without being aware of you. So the warning and the defence sit in one sentence. She names the danger plainly, and she names the people it comes from, yet she will not lay malice at their door. Her fear is real, and her fairness is just as real.",
+            "bn": "বাগাভী তাফসীরবিদদের একটি কথা উল্লেখ করেন: পিঁপড়াটি জানত, সুলাইমান একজন নবী, তাঁর মধ্যে না আছে জবরদস্তি, না জুলুম। তারপর তিনি গোটা আয়াতের মর্ম বলেন: তোমরা ঘরে না ঢুকলে তারা তোমাদের মাড়িয়ে যাবে, তোমাদের অস্তিত্ব টেরও পাবে না। এভাবে সতর্কবাণী আর পক্ষ সমর্থন একই বাক্যে এসে বসে। সে বিপদের কথা সোজাসুজি বলে, বিপদ কাদের দিক থেকে আসছে তাদের নামও নেয়। কিন্তু তাদের ঘাড়ে মন্দ নিয়তের দায় চাপায় না। তার ভয় যেমন সত্যি, তার ন্যায্যতাও ঠিক ততটাই সত্যি।"
+          },
+          {
+            "en": "The next verse, 27:19, takes up what Sulayman (AS) did on hearing her, and its own article treats his smile and his prayer. Al-Baghawi closes his comment here with a report introduced only as yurwa, it is narrated: that when Sulayman reached the valley he held back his soldiers until the ants had gone into their homes. It carries no chain in his text. What the verse itself shows is enough: she spoke of a king and his army, about a harm that might come from them, and still guarded their name.",
+            "bn": "পরের আয়াত, ২৭:১৯, বলে তার কথা শুনে সুলাইমান (আঃ) কী করলেন। সে আয়াতের আলাদা প্রবন্ধে তাঁর মুচকি হাসি আর দোয়ার আলোচনা আছে। বাগাভী এখানে তাঁর ব্যাখ্যা শেষ করেন একটি বর্ণনা দিয়ে, যার শুরুতে শুধু বলা আছে ইউরওয়া, অর্থাৎ বর্ণিত আছে: সুলাইমান উপত্যকায় পৌঁছে নিজের সৈন্যদের থামিয়ে রাখলেন, যতক্ষণ না পিঁপড়ারা ঘরে ঢুকে গেল। তাঁর পাঠে এর কোনো সনদ নেই। আয়াত নিজে যা দেখায়, সেটুকুই যথেষ্ট। পিঁপড়াটি এক বাদশাহ আর তাঁর বাহিনীর কথা বলেছে, তাদের দিক থেকে আসতে পারে এমন ক্ষতির কথা বলেছে, তবু তাদের সুনাম রক্ষা করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Believer's Turn of Thought",
+          "bn": "এক মুমিনের মনের টান"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the closing clause a name. Wa hum la yash'urun, he says, is iltifatat mu'min, a believer's turn of thought. Its sense is that, given the justice and excellence of Sulayman and the excellence of his soldiers, they would not crush an ant, or anything larger, except without knowing it. He calls the clause a pointer to religion, justice and compassion. When he weighs the reports that this ant had a name, the passage he quotes allows that, if they are sound, she was singled out for her speech and her faith, and by her faith it means exactly this sentence.",
+            "bn": "শেষ বাক্যাংশটিকে কুরতুবী একটি নাম দেন। ওয়াহুম লা ইয়াশ‘উরূন, তাঁর ভাষায়, ইলতিফাতাতু মুমিন: এক মুমিনের মনের টান। মর্ম এই যে সুলাইমানের ন্যায়পরায়ণতা ও মর্যাদা আর তাঁর সৈন্যদের মর্যাদার কারণে তারা একটি পিঁপড়া, বা তার চেয়ে বড় কিছুকে, না জেনে ছাড়া পিষে ফেলবে না। কুরতুবী বলেন, বাক্যাংশটি দীন, ইনসাফ আর দয়ার দিকে ইঙ্গিত করে। পিঁপড়াটির নাম ছিল, এমন বর্ণনা যাচাই করতে গিয়ে তিনি যে আলোচনা উদ্ধৃত করেন, তাতে বলা হয়: বর্ণনা সঠিক হলে কথা বলা আর ঈমানের কারণেই তাকে আলাদা করা হয়েছিল। আর তার ঈমান বলতে বোঝানো হয়েছে ঠিক এই বাক্যটিকেই।"
+          },
+          {
+            "en": "He then sets the verse beside another. In 48:25 Allah speaks of believing men and women in Makkah whom the Muslims did not know, lest they tread on them and a blame fall on the Muslims because of it bi-ghayri 'ilm, without knowledge. Al-Qurtubi calls this the counterpart of the ant's words: a pointer that those soldiers too had no intention of letting a believer's blood be lost. The difference he draws is in who speaks. Sulayman's army is praised by the ant, by Allah's leave; the army of Muhammad ﷺ is praised by Allah Himself, which for al-Qurtubi reflects that army's rank.",
+            "bn": "এরপর তিনি আয়াতটিকে আরেকটি আয়াতের পাশে রাখেন। ৪৮:২৫ আয়াতে আল্লাহ মক্কার সেই মুমিন নারী-পুরুষদের কথা বলেন, যাদের মুসলমানেরা চিনত না। আশঙ্কা ছিল, তারা তাদের মাড়িয়ে ফেলবে, আর বিগাইরি ইলম, না জেনেই সে কারণে মুসলমানদের উপর দোষ এসে পড়বে। কুরতুবী একে পিঁপড়ার কথার জোড়া বলেন। এখানেও ইঙ্গিত আছে যে সেই সৈন্যদেরও কোনো মুমিনের রক্ত বৃথা যেতে দেওয়ার ইচ্ছা ছিল না। তিনি পার্থক্য দেখান বক্তার জায়গায়। সুলাইমানের বাহিনীর প্রশংসা করেছে পিঁপড়া, আল্লাহর অনুমতিতে। আর মুহাম্মাদ ﷺ-এর বাহিনীর প্রশংসা করেছেন আল্লাহ নিজে। কুরতুবীর মতে এতে সেই বাহিনীর মর্যাদা ফুটে ওঠে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Storytellers Added",
+          "bn": "গল্পকারদের জুড়ে দেওয়া কথা"
+        },
+        "p": [
+          {
+            "en": "Where was the valley? The reports differ, and none of them comes from the Prophet ﷺ. Al-Qurtubi relays from Qatada, with the words 'it was mentioned to us', that it lay in the land of Sham, and from Ka'b that it was at at-Ta'if; al-Baghawi gives Sham from Qatada and Muqatil and at-Ta'if from Ka'b. Al-Qurtubi also cites al-Kalbi placing it in Yemen. Al-Baghawi opens with a long account, narrated from Wahb ibn Munabbih from Ka'b, of Sulayman's travelling kitchens and a journey past Madinah. This article builds nothing on any of it.",
+            "bn": "উপত্যকাটি কোথায় ছিল? বর্ণনাগুলো ভিন্ন ভিন্ন কথা বলে, আর তার কোনোটিই নবী ﷺ থেকে আসেনি। কুরতুবী কাতাদা থেকে আনেন, 'আমাদের কাছে উল্লেখ করা হয়েছে' কথাটি দিয়ে, যে উপত্যকাটি ছিল শাম দেশে। আর কা‘ব থেকে আনেন, সেটি তায়েফে। বাগাভী শামের কথা আনেন কাতাদা ও মুকাতিল থেকে, তায়েফের কথা কা‘ব থেকে। কুরতুবী কালবীর মতও উল্লেখ করেন, তাঁর মতে উপত্যকাটি ছিল ইয়েমেনে। বাগাভী তাঁর আলোচনা শুরু করেন ওয়াহব ইবন মুনাব্বিহ থেকে, তিনি কা‘ব থেকে বর্ণিত এক লম্বা কাহিনি দিয়ে: সুলাইমানের সাথে চলা রান্নাঘর, আর মদীনার পাশ দিয়ে এক যাত্রা। এ প্রবন্ধ এসবের কোনোটির উপর কিছু দাঁড় করায় না।"
+          },
+          {
+            "en": "The ants' size draws still more variety. At-Tabari has a report from 'Awf that Sulayman's ants were like flies, and al-Baghawi cites Nawf al-Himyari for the same; others in al-Qurtubi say they were the size of wolves, or of ewes. Ash-Sha'bi said this ant had two wings, and several reports make her lame. Her name is given as Tahiya, Jirma, Harmiya or, in a report Ibn Kathir carries through Ibn 'Asakir, Haras, depending on who tells it. Al-Baghawi's verdict is short: al-mashhur, the well-known view, is that they were the small ant.",
+            "bn": "পিঁপড়াগুলোর আকার নিয়ে মতের ভিন্নতা আরও বেশি। তাবারী আওফ থেকে একটি বর্ণনা আনেন: সুলাইমানের পিঁপড়াগুলো ছিল মাছির মতো। বাগাভী নাওফ আল-হিমইয়ারী থেকেও একই কথা আনেন। কুরতুবীর উদ্ধৃত অন্য কেউ বলেছেন, সেগুলো ছিল নেকড়ের মতো বড়, কেউ বলেছেন ভেড়ির মতো। শা‘বী বলেছেন, এ পিঁপড়াটির দুটি ডানা ছিল। কয়েকটি বর্ণনায় সে খোঁড়া। তার নাম কেউ বলেছেন তাহিয়া, কেউ জিরমা, কেউ হারমিয়া। ইবন কাসীর ইবন আসাকিরের সূত্রে একটি বর্ণনা আনেন, যাতে নাম হারাস। কে বলছেন, তার উপর নাম বদলায়। বাগাভীর রায় সংক্ষিপ্ত: আল-মাশহূর, অর্থাৎ প্রসিদ্ধ মত হলো, এগুলো ছিল ছোট পিঁপড়া।"
+          },
+          {
+            "en": "Al-Qurtubi tests two of these claims himself. He quotes as-Suhayli, who could not see how an ant could carry a proper name at all, since ants do not name one another and people cannot tell one from another; the passage allows only that, if the report were sound, Allah might have named her in an earlier scripture. And al-Qurtubi notes that the verb la yahtimannakum supports al-Kalbi's view that she was an ordinary small ant: had they been the size of wolves or ewes, treading would not have crushed them. The verse's own wording, in his reading, is the check on the stories.",
+            "bn": "এর দুটি দাবি কুরতুবী নিজে যাচাই করেন। তিনি সুহাইলীর কথা উদ্ধৃত করেন। সুহাইলী বুঝতে পারেননি, একটি পিঁপড়ার নিজস্ব নাম থাকে কী করে। পিঁপড়ারা তো একে অন্যের নাম রাখে না, আর মানুষও একটিকে আরেকটি থেকে আলাদা করে চিনতে পারে না। উদ্ধৃত আলোচনা শুধু এটুকু সম্ভাবনা রাখে: বর্ণনা সঠিক হলে হয়তো আল্লাহ আগের কোনো আসমানি কিতাবে তার নাম দিয়েছিলেন। আর কুরতুবী লক্ষ করেন, লা ইয়াহতিমান্নাকুম ক্রিয়াটি কালবীর মতকেই সমর্থন করে যে সে ছিল সাধারণ ছোট পিঁপড়া। সেগুলো নেকড়ে বা ভেড়ির মতো বড় হলে পায়ের চাপে পিষে যেত না। তাঁর পাঠে আয়াতের নিজের শব্দই গল্পগুলো যাচাইয়ের মাপকাঠি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Nation That Glorifies Allah",
+          "bn": "তাসবিহ পড়া এক উম্মত"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a sound hadith to it. A general narration, not about this verse, shows how the Prophet ﷺ spoke of ants. In Sahih al-Bukhari (3019), Abu Hurairah (RA) said: I heard Allah's Messenger ﷺ saying, 'An ant bit a Prophet amongst the Prophets, and he ordered that the place of the ants be burnt. So, Allah inspired to him, \"It is because one ant bit you that you burnt a nation amongst the nations that glorify Allah?\"' Al-Bukhari placed it in his Sahih. It names no prophet and does not tie itself to Sulayman (AS).",
+            "bn": "এ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটি আয়াতটির সাথে কোনো সহীহ হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা আছে, যা এ আয়াত নিয়ে নয়। তাতে দেখা যায়, নবী ﷺ পিঁপড়ার কথা কীভাবে বলেছেন। সহীহ বুখারীতে (৩০১৯) আবু হুরায়রা (রাঃ) বলেন: আমি আল্লাহর রাসূল ﷺ-কে বলতে শুনেছি, 'নবীদের মধ্যে একজন নবীকে একটি পিঁপড়া কামড় দিল। তিনি পিঁপড়াদের বাসা পুড়িয়ে দিতে আদেশ দিলেন, আর তা পুড়িয়ে দেওয়া হলো। তখন আল্লাহ তাঁর কাছে ওহি পাঠালেন: একটি পিঁপড়া তোমাকে কামড়েছে বলে তুমি উম্মতসমূহের মধ্যে এমন এক উম্মতকে পুড়িয়ে দিলে, যারা আল্লাহর তাসবিহ পড়ে?' বুখারী এটি তাঁর সহীহ গ্রন্থে রেখেছেন। বর্ণনায় কোনো নবীর নাম নেই, সুলাইমান (আঃ)-এর সাথেও একে যুক্ত করা হয়নি।"
+          },
+          {
+            "en": "What the narration lends this verse is a word, ummah, a nation, used for a colony of ants, and a description: they glorify Allah. Al-Qurtubi, on this verse, relays Muhammad ibn 'Ali at-Tirmidhi: the sounds of birds and beasts are their speech, and in that speech are meanings of glorification, as Allah says in 17:44, there is nothing but glorifies His praise, but you do not understand their glorification. Ma'arif al-Qur'an adds that animals and birds have sense and intelligence to a degree, though not developed far enough to be bound by the Shari'ah.",
+            "bn": "এ আয়াতের পাশে বর্ণনাটি একটি শব্দ রেখে যায়: উম্মাহ, এক জাতি, এক দল পিঁপড়াকে এ নামে ডাকা হয়েছে। সাথে আছে তাদের পরিচয়: তারা আল্লাহর তাসবিহ পড়ে। কুরতুবী এ আয়াতের আলোচনায় মুহাম্মাদ ইবন আলী আত-তিরমিযীর কথা আনেন। পাখি আর পশুর আওয়াজই তাদের ভাষা, আর সে ভাষার ভেতরে আছে তাসবিহর অর্থ। যেমন আল্লাহ ১৭:৪৪ আয়াতে বলেন, এমন কিছু নেই যা তাঁর প্রশংসাসহ তাসবিহ পড়ে না, কিন্তু তোমরা তাদের তাসবিহ বোঝো না। মাআরিফুল কুরআন যোগ করে, পশুপাখির মধ্যেও কিছু মাত্রায় বোধ ও বুদ্ধি আছে। তবে তা এতটা পূর্ণ নয় যে তাদের শরীয়তের বিধান মানতে বাধ্য করা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Who Live Underfoot",
+          "bn": "পায়ের নিচে যাদের বাস"
+        },
+        "p": [
+          {
+            "en": "The verse is short, and most of it is the ant's own voice. Staying with what the commentators drew from it, three things stand out. She saw the danger and spoke for the whole colony instead of slipping away alone; as-Sa'di's word for it is counsel. She told them what to do, not only what to fear. And she spoke of the powerful fairly, warning against their heedlessness while refusing to call it cruelty. Each of these is a habit a believer can carry into a home, a workplace or a street, wherever one person sees a danger first.",
+            "bn": "আয়াতটি ছোট, আর তার বেশির ভাগই পিঁপড়াটির নিজের কথা। তাফসীরকারেরা এ থেকে যা টেনেছেন, তার মধ্যে থাকলেও তিনটি জিনিস চোখে পড়ে। সে বিপদ দেখেছিল, আর একা চুপচাপ সরে না গিয়ে পুরো দলের হয়ে কথা বলেছিল। সা'দী একে বলেন কল্যাণকামনা। সে শুধু কী ভয়ের তা বলেনি, কী করতে হবে তাও বলেছিল। আর ক্ষমতাবানদের ব্যাপারে সে ন্যায্য কথা বলেছিল: তাদের অসাবধানতা থেকে সতর্ক করেছে, কিন্তু তাকে নিষ্ঠুরতা বলেনি। এর প্রতিটিই এমন অভ্যাস, যা একজন মুমিন ঘরে, কর্মস্থলে বা রাস্তায় নিয়ে যেতে পারেন, যেখানেই কেউ একজন বিপদটা সবার আগে দেখতে পায়।"
+          },
+          {
+            "en": "There is also a mirror here for those who march in columns. Sulayman's soldiers were, in the ant's words, people who would not perceive. Numbers, power and purpose can make anyone heedless of what lies underfoot, and a harm done without intent is still a harm to the one it falls on. The verse that follows shows a prophet who heard, understood and turned to his Lord. Read first, this verse leaves a plain question: whose small voice is calling out ahead of me, and am I listening for it?",
+            "bn": "যারা দল বেঁধে সারি করে চলে, তাদের জন্যও এখানে একটা আয়না আছে। পিঁপড়াটির কথায় সুলাইমানের সৈন্যরা ছিল এমন লোক, যারা টেরও পাবে না। সংখ্যা, ক্ষমতা আর লক্ষ্যের ব্যস্ততা যে কাউকে পায়ের নিচের জিনিস সম্পর্কে বেখেয়াল করে দিতে পারে। আর ইচ্ছা ছাড়া হওয়া ক্ষতিও যার উপর পড়ে, তার জন্য ক্ষতিই। পরের আয়াত দেখায় এমন এক নবীকে, যিনি শুনলেন, বুঝলেন, আর নিজের রবের দিকে ফিরলেন। তার আগে এ আয়াত একটি সোজা প্রশ্ন রেখে যায়: কার ছোট্ট কণ্ঠ আমার সামনে থেকে ডাক দিচ্ছে, আর আমি কি তা শোনার জন্য কান পেতে আছি?"
+          }
+        ]
+      }
+    ]
+  },
   "27:19": {
     "sections": [
       {

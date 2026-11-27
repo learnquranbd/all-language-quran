@@ -35735,6 +35735,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Earn trust before you ask to be heard: a call to good is weighed against the life people have already watched, and true words lose nothing by being old.",
     "lessonBn": "শুনতে বলার আগে আস্থা অর্জন করুন। ভালোর দিকে ডাক মানুষ মেপে দেখে আপনার সেই জীবন দিয়ে, যা তারা আগেই দেখেছে। আর সত্য কথা পুরোনো হলেও তার ওজন কমে না।"
+  },
+  "27:18": {
+    "reflectionEn": "A great column of jinn, men and birds comes over a valley, and down on the ground one small creature sees what is coming. She does not freeze, and she does not save only herself. She calls her whole community home: get inside, before Sulayman and his soldiers crush you. Then she adds the words that change the sentence: while they do not perceive. In the same breath that she warns of the danger, she clears the people who bring it of meaning any harm. The verse asks two things of me. When I see trouble first, do I raise my voice for those beside me? And when someone's carelessness threatens me, can I guard against it without accusing them of malice?",
+    "reflectionBn": "জিন, মানুষ আর পাখির বিশাল এক বাহিনী এগিয়ে আসছে একটি উপত্যকার উপর দিয়ে। নিচে মাটিতে ছোট্ট এক প্রাণী দেখতে পায়, কী আসছে। সে ভয়ে জমে যায় না, শুধু নিজেকে বাঁচিয়েও সরে পড়ে না। পুরো দলকে সে ডাক দেয়: ঘরে ঢুকে পড়ো, নইলে সুলাইমান আর তাঁর সৈন্যরা তোমাদের পিষে ফেলবে। তারপর সে এমন কথা জুড়ে দেয়, যাতে গোটা বাক্যের সুর বদলে যায়: অথচ তারা টেরও পাবে না। বিপদের খবর দেওয়ার সাথে সাথেই সে বিপদ যাদের দিক থেকে আসছে, তাদের নিয়ত থেকে মন্দ সরিয়ে দেয়। আয়াতটি আমার কাছে দুটো জিনিস চায়। বিপদ আগে চোখে পড়লে আমি কি পাশের মানুষদের জন্য গলা তুলি? আর কারও অসাবধানতা যখন আমার ক্ষতির কারণ হতে পারে, তখন কি তাকে খারাপ নিয়তের দোষ না দিয়ে নিজেকে সামলাতে পারি?",
+    "pointsEn": [
+      "When I see a danger before others do, do I speak up for them, or only step out of the way myself?",
+      "Whose harm to me may have come from not noticing rather than from intent, and have I judged it as if it were deliberate?",
+      "Who around me is so small in the world's eyes that a crowd could walk over them without noticing, and am I part of that crowd?",
+      "When I am busy, important or in a hurry, what might I be stepping on that I never look down to see?",
+      "Can I speak about a powerful person fairly, naming the risk they pose without inventing a motive for them?"
+    ],
+    "pointsBn": [
+      "অন্যদের আগে বিপদ চোখে পড়লে আমি কি তাদের জন্য মুখ খুলি, নাকি শুধু নিজে পথ থেকে সরে দাঁড়াই?",
+      "কার হাতে আমার যে ক্ষতি হয়েছে, তা হয়তো ইচ্ছায় নয়, খেয়াল না করার কারণে হয়েছিল? আর আমি কি সেটাকে ইচ্ছাকৃত ধরে বিচার করেছি?",
+      "আমার আশপাশে কে আছে, যে দুনিয়ার চোখে এত ছোট যে ভিড় টেরও না পেয়ে তার উপর দিয়ে হেঁটে যেতে পারে? আমি কি সেই ভিড়েরই একজন?",
+      "যখন আমি ব্যস্ত, ক্ষমতাবান বা তাড়াহুড়োয় থাকি, তখন পায়ের নিচে কী মাড়িয়ে যাচ্ছি, যা নিচে তাকিয়ে কখনো দেখি না?",
+      "কোনো ক্ষমতাবান মানুষের ব্যাপারে কি আমি ন্যায্য কথা বলতে পারি, তার দিক থেকে আসা ঝুঁকির কথা বলেও তার উপর মনগড়া মতলব না চাপিয়ে?"
+    ],
+    "lessonEn": "Warn the people around you when you see danger coming, and when others may harm you through heedlessness, guard against it without charging them with ill intent.",
+    "lessonBn": "বিপদ আসছে দেখলে আশপাশের মানুষকে সতর্ক করুন, আর কেউ অসাবধানতায় আপনার ক্ষতি করতে পারে মনে হলে নিজেকে বাঁচান, কিন্তু তার উপর খারাপ নিয়তের দোষ চাপাবেন না।"
   }
 };
 
