@@ -34599,6 +34599,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "People who lose an argument may reach for force, but every fire answers to Allah's command; meet what frightens you by entrusting it to Him.",
     "lessonBn": "যুক্তিতে হেরে মানুষ শক্তির আশ্রয় নিতে পারে, কিন্তু প্রতিটি আগুন চলে আল্লাহর হুকুমে। যা আপনাকে ভয় দেখায়, তা তাঁর হাতে সঁপে দিয়েই তার মুখোমুখি হোন।"
+  },
+  "21:14": {
+    "reflectionEn": "The blow has landed and they are running. A voice tells them to go back to their comforts and their homes, perhaps someone will come asking. They have nothing left to say but this: woe to us, we were wrongdoers. Every word of it is true. They name the wrong, they own it, and they blame no one else. Yet the next verse says the cry went on and on until they lay like a mown field, like a fire gone out. A true confession made at the wrong hour changed nothing for them. The same sentence, said while life still runs, is where tawbah begins. What am I waiting for a blow to make me say?",
+    "reflectionBn": "আঘাত নেমে এসেছে, আর তারা দৌড়াচ্ছে। একটা কণ্ঠ তাদের বলছে, ফিরে যাও তোমাদের আরাম-আয়েশে, তোমাদের ঘরবাড়িতে, হয়তো কেউ এসে কিছু জিজ্ঞেস করবে। বলার মতো তাদের কাছে আর কিছুই নেই, শুধু এটুকু: হায় আমাদের সর্বনাশ, আমরা তো জালিম ছিলাম। কথাটার প্রতিটি শব্দ সত্য। তারা অন্যায়ের নাম নিচ্ছে, দায় নিজেদের ঘাড়ে নিচ্ছে, কাউকে দোষ দিচ্ছে না। তবু পরের আয়াত জানায়, এই আর্তনাদ চলতেই থাকল, যতক্ষণ না তারা কেটে ফেলা ফসলের মতো পড়ে রইল, নিভে যাওয়া আগুনের মতো। ভুল সময়ে বলা সত্য স্বীকারোক্তি তাদের কোনো কাজে আসেনি। অথচ জীবন চলতে থাকা অবস্থায় এই একই বাক্য তওবার শুরু। কোন কথাটা মুখে আনার জন্য আমি একটা আঘাতের অপেক্ষায় বসে আছি?",
+    "pointsEn": [
+      "Which wrong of mine do I already know by name, and what am I waiting for before I say it to Allah?",
+      "When I am told of a fault, do my first words own it, or do they look for someone else to carry it?",
+      "What comfort in my life is so full that it keeps me from hearing a warning until it is too late to act on it?",
+      "When I read of a place where ruin fell, do I come away examining myself, or judging other people?",
+      "What would it take for me to say 'I have been a wrongdoer' in my prayer today, while no blow has fallen?"
+    ],
+    "pointsBn": [
+      "আমার কোন অন্যায়টার নাম আমি এখনই জানি? সেটা আল্লাহর কাছে স্বীকার করার আগে আমি আর কিসের অপেক্ষা করছি?",
+      "কেউ আমার কোনো দোষ ধরিয়ে দিলে আমার মুখের প্রথম কথা কি দায় স্বীকার করে, নাকি অন্য কারও ঘাড়ে বোঝাটা চাপানোর লোক খোঁজে?",
+      "আমার জীবনের কোন আরামটা এত ভরপুর যে তা আমাকে সতর্কবাণী শুনতে দেয় না, যতক্ষণ না কাজে লাগানোর সময় পেরিয়ে যায়?",
+      "যেখানে ধ্বংস নেমেছিল এমন জায়গার কথা পড়লে আমি কি নিজের হিসাব নিয়ে উঠি, নাকি অন্য মানুষের বিচার করতে বসে যাই?",
+      "কোনো আঘাত আসার আগেই আজ নামাজে 'আমি জালিমদের একজন ছিলাম' বলতে আমার কী লাগবে?"
+    ],
+    "lessonEn": "The confession that helps is the one made before the blow: name your wrong to Allah now, while saying it can still be met with mercy.",
+    "lessonBn": "কাজে আসে সেই স্বীকারোক্তি, যা আঘাত আসার আগে করা হয়। এখনই আল্লাহর কাছে নিজের অন্যায়ের নাম নিন, যখনো সেই কথার জবাবে রহমত আসতে পারে।"
   }
 };
 

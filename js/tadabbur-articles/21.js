@@ -603,6 +603,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:14": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Only Reply Left",
+          "bn": "বাকি ছিল একটাই জবাব"
+        },
+        "p": [
+          {
+            "en": "Qalu ya waylana inna kunna zalimin: they said, O woe to us, we were wrongdoers. Five words in the Arabic close a short scene. Towns that did wrong were shattered (21:11). Their people felt the blow and ran (21:12). A voice told them not to run but to go back to the luxury they had been given and to their homes, that perhaps they would be asked (21:13). This verse is what they said; the next tells how long they kept saying it.",
+            "bn": "কালু ইয়া ওয়াইলানা ইন্না কুন্না যালিমীন: তারা বলল, হায় আমাদের দুর্ভোগ, আমরা তো জালিম ছিলাম। আরবিতে পাঁচটি শব্দ, আর এগুলো দিয়েই একটা ছোট দৃশ্য শেষ হয়। অন্যায়কারী জনপদগুলো চূর্ণ হয়েছে (২১:১১)। তাদের লোকেরা আঘাত টের পেয়ে দৌড়ে পালাচ্ছিল (২১:১২)। একটা কণ্ঠ তাদের বলল, পালিয়ো না, ফিরে যাও যে ভোগবিলাস তোমাদের দেওয়া হয়েছিল তার দিকে, তোমাদের ঘরবাড়িতে, হয়তো তোমাদের কিছু জিজ্ঞেস করা হবে (২১:১৩)। এ আয়াত জানায় তারা কী বলল। পরের আয়াত জানায়, কতক্ষণ ধরে তারা কথাটা বলতেই থাকল।"
+          },
+          {
+            "en": "The Muyassar reads the verse as the end of that exchange: they had no answer but to admit their crime. As-Sa'di, on 21:13, hears the taunt as saying that running and regret will not help them; go back to your pleasures if you can, and how far off that is. On 21:14 he goes on: how could they reach it, when the time had passed, the punishment and the loathing had come down, their power, honour and world were gone, and only remorse and anguish remained? So they said: woe to us.",
+            "bn": "মুয়াসসার আয়াতটিকে ওই কথোপকথনের শেষ বলে পড়ে: নিজেদের অপরাধ স্বীকার করা ছাড়া তাদের আর কোনো জবাব ছিল না। সা'দী ২১:১৩ আয়াতের ব্যাখ্যায় বিদ্রূপটার অর্থ খোলেন এভাবে: দৌড়ানো আর আফসোস তোমাদের কোনো কাজে আসবে না। পারলে ফিরে যাও তোমাদের ভোগের জিনিসে, কিন্তু তা কত দূরের কথা! ২১:১৪ আয়াতে তিনি কথাটা এগিয়ে নেন। সেখানে তারা পৌঁছাবে কীভাবে? সময় তো ফুরিয়ে গেছে। শাস্তি আর ক্রোধ নেমে এসেছে। তাদের ক্ষমতা, মর্যাদা আর দুনিয়া সব হাতছাড়া। পড়ে আছে শুধু অনুশোচনা আর হাহাকার। তাই তারা বলে উঠল: হায় আমাদের দুর্ভোগ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Calling Out to Their Own Ruin",
+          "bn": "নিজেদের সর্বনাশকে ডাকা"
+        },
+        "p": [
+          {
+            "en": "Ya waylana is a call. Al-Jalalayn says the ya is there to rouse attention, and woe to us means this is our destruction; the Muyassar renders it ya halakana, O our ruin. On the next verse, as-Sa'di calls their cry a calling down of woe and perdition, and the Muyassar a prayer of destruction upon themselves. The call goes to no one who can answer. They do not cry to Allah, nor to the gods they had served, but to their own ruin, as if it could hear.",
+            "bn": "ইয়া ওয়াইলানা একটা ডাক। জালালাইন বলেন, এখানে 'ইয়া' এসেছে মনোযোগ জাগাতে, আর 'হায় আমাদের দুর্ভোগ' মানে: এই তো আমাদের ধ্বংস। মুয়াসসার শব্দটিকে বলে 'ইয়া হালাকানা', হায় আমাদের বিনাশ। পরের আয়াতের ব্যাখ্যায় সা'দী তাদের এই আর্তনাদকে বলেন দুর্ভোগ আর সর্বনাশকে ডেকে আনা, আর মুয়াসসার বলে নিজেদের উপর ধ্বংসের বদদোয়া। ডাকটা এমন কারও দিকে যাচ্ছে না, যে সাড়া দিতে পারে। তারা আল্লাহকে ডাকছে না, যেসব উপাস্যের পূজা করত তাদেরও না। তারা ডাকছে নিজেদের সর্বনাশকে, যেন সেটা শুনতে পায়।"
+          },
+          {
+            "en": "The same words return twice more in this surah, each time at the touch of punishment. If a whiff of your Lord's punishment touched them, they would surely say, O woe to us, we have been wrongdoers (21:46). When the true promise draws near, the disbelievers' eyes will stare: O woe to us, we were heedless of this; no, we were wrongdoers (21:97). The surah opened on people heedless and turning away as their reckoning drew near (21:1). Their voice comes only when the punishment does.",
+            "bn": "এই সূরায় একই কথা আরও দুবার ফিরে আসে, প্রতিবারই শাস্তির ছোঁয়া লাগার মুহূর্তে। তোমার রবের শাস্তির সামান্য একটা ঝাপটা যদি তাদের ছুঁয়ে যায়, তারা নিশ্চয়ই বলবে, হায় আমাদের দুর্ভোগ, আমরা তো জালিম ছিলাম (২১:৪৬)। আবার যখন সত্য প্রতিশ্রুতি কাছে চলে আসবে, কাফিরদের চোখ স্থির হয়ে থাকবে: হায় আমাদের দুর্ভোগ, আমরা এ ব্যাপারে গাফেল ছিলাম, বরং আমরা জালিম ছিলাম (২১:৯৭)। সূরাটি শুরু হয়েছিল এমন মানুষের কথা দিয়ে, যাদের হিসাব ঘনিয়ে এসেছে অথচ তারা গাফেল, মুখ ফিরিয়ে আছে (২১:১)। তাদের মুখে কথা ফোটে শুধু তখন, যখন শাস্তি এসে হাজির হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Wrong Named at Last",
+          "bn": "অবশেষে অন্যায়ের নাম"
+        },
+        "p": [
+          {
+            "en": "Inna kunna zalimin: we were wrongdoers. What wrong? At-Tabari answers in a short phrase: by our disbelief in our Lord. The speakers, he says, are those on whom Allah brought His punishment for their wrong, and they say it as it comes down. The Muyassar makes it a wrong against the self: we wronged ourselves by our disbelief. The commentators read here agree: what is confessed is not a slip or a single misdeed, but the denial of their Lord.",
+            "bn": "ইন্না কুন্না যালিমীন: আমরা জালিম ছিলাম। কোন জুলুম? তাবারী উত্তর দেন ছোট্ট এক কথায়: আমাদের রবকে অস্বীকার করে। তিনি বলেন, কথাটা তাদের, যাদের উপর আল্লাহ তাদের জুলুমের কারণে নিজের শাস্তি নামিয়েছেন, আর শাস্তি নামার মুহূর্তেই তারা এ কথা বলে। মুয়াসসার জুলুমটাকে দেখে নিজের বিরুদ্ধে করা অন্যায় হিসেবে: কুফরি করে আমরা নিজেদের উপরই জুলুম করেছি। এখানে পড়া তাফসীরকারেরা একমত: যা স্বীকার করা হচ্ছে তা কোনো পদস্খলন বা বিচ্ছিন্ন ভুল নয়। তা নিজের রবকে অস্বীকার করা।"
+          },
+          {
+            "en": "As-Sa'di, explaining on 21:15 what their cry held, adds a second layer: woe and ruin, regret, and the admission against themselves that they had done wrong and that Allah was just in what He brought upon them. Their confession carries a verdict on the Judge, and it is in His favour. Surat al-A'raf gives the same scene: how many a town We destroyed, and Our punishment came upon it (7:4), and their call, when Our punishment came, was only that they said, we were wrongdoers (7:5).",
+            "bn": "২১:১৫ আয়াতে তাদের আর্তনাদে কী ছিল, তা বলতে গিয়ে সা'দী আরেকটা স্তর যোগ করেন। তাতে ছিল দুর্ভোগ আর সর্বনাশের ডাক, ছিল অনুশোচনা। আর ছিল নিজেদের বিরুদ্ধে এই স্বীকৃতি যে তারা জুলুম করেছে, এবং আল্লাহ তাদের উপর যা নামিয়েছেন তাতে তিনি ন্যায়বিচারই করেছেন। অর্থাৎ তাদের স্বীকারোক্তির ভেতরে বিচারকের ব্যাপারেও একটা রায় আছে, আর সে রায় তাঁরই পক্ষে। সূরা আ'রাফে একই দৃশ্য: কত জনপদ আমি ধ্বংস করেছি, আমার শাস্তি তাদের উপর এসে পড়েছে (৭:৪)। আর যখন আমার শাস্তি এল, তাদের ডাক ছিল শুধু এটুকু: আমরা তো জালিম ছিলাম (৭:৫)।"
+          },
+          {
+            "en": "What the sentence leaves out says as much as what it holds. It has no excuse and blames nobody else. It also has no request. They do not ask forgiveness or turn to Allah by name; the call goes to their own ruin. And kunna, we were, looks back over what they had been, not only over what they had just done. These are people who finally see their whole past clearly, at the very moment when seeing it can change nothing.",
+            "bn": "বাক্যটায় কী নেই, সেটাও কম কিছু বলে না। এতে কোনো অজুহাত নেই, দোষ চাপানোর অন্য কেউ নেই। আবার কোনো প্রার্থনাও নেই। তারা ক্ষমা চায় না, আল্লাহর নাম নিয়ে তাঁর দিকে ফেরেও না। ডাকটা যায় নিজেদের সর্বনাশের দিকে। আর 'কুন্না', আমরা ছিলাম, কথাটা শুধু সদ্য করা কাজের দিকে তাকায় না। তাকায় তারা যা হয়ে ছিল তার দিকে। এরা এমন মানুষ, যারা অবশেষে নিজেদের পুরো অতীত পরিষ্কার দেখতে পাচ্ছে। কিন্তু দেখছে ঠিক সেই মুহূর্তে, যখন দেখে আর কিছুই বদলানো যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "True Words, Wrong Hour",
+          "bn": "সত্য কথা, ভুল সময়"
+        },
+        "p": [
+          {
+            "en": "Every commentator read here agrees that the words were true and that the truth came too late. Ibn Kathir: they confessed their sins when that did not benefit them. Al-Qurtubi: they admitted their wrong when admission does not benefit. As-Sa'di: the time had passed. None faults the content of the confession; each faults its hour. A person can say exactly the right thing about himself, in exactly the right words, and still say it too late.",
+            "bn": "এখানে পড়া প্রত্যেক তাফসীরকার একমত যে কথাগুলো সত্য ছিল, আর সেই সত্য এসেছিল অনেক দেরিতে। ইবন কাসীর বলেন, তারা নিজেদের গুনাহ স্বীকার করেছে এমন সময়ে, যখন তা আর কোনো উপকারে আসে না। কুরতুবী বলেন, তারা জুলুমের কথা স্বীকার করেছে তখন, যখন স্বীকারোক্তির আর কোনো লাভ নেই। সা'দীর ভাষায়, সময় পেরিয়ে গিয়েছিল। তাঁদের কেউ স্বীকারোক্তির বিষয়বস্তুতে খুঁত ধরেন না, সবাই খুঁত ধরেন তার সময়ে। মানুষ নিজের সম্পর্কে একদম ঠিক কথাটা, একদম ঠিক শব্দে বলতে পারে, আর তবু বলতে পারে বড্ড দেরিতে।"
+          },
+          {
+            "en": "The Qur'an states the rule elsewhere. When they saw Our punishment they said, we believe in Allah alone and reject what we used to associate with Him; but their faith did not benefit them once they had seen Our punishment, the way of Allah that has gone before among His servants (40:84 and 40:85). On the Day some of your Lord's signs come, no soul will benefit from a faith it did not hold before (6:158). It did not benefit is the Qur'an's own verdict.",
+            "bn": "কুরআন অন্য জায়গাতেও নিয়মটা বলে দেয়। যখন তারা আমার শাস্তি দেখল, বলল, আমরা এক আল্লাহর উপর ঈমান আনলাম, আর যাদের তাঁর শরিক করতাম তাদের অস্বীকার করলাম। কিন্তু আমার শাস্তি দেখে ফেলার পর তাদের ঈমান তাদের কোনো উপকারে আসেনি। এটাই আল্লাহর রীতি, যা তাঁর বান্দাদের মধ্যে আগে থেকে চলে আসছে (৪০:৮৪ ও ৪০:৮৫)। যেদিন তোমার রবের কিছু নিদর্শন এসে পড়বে, সেদিন এমন কারও ঈমান কাজে আসবে না, যে আগে ঈমান আনেনি (৬:১৫৮)। 'উপকারে আসে না' কথাটা কুরআনেরই রায়।"
+          },
+          {
+            "en": "For a single life the line falls at death. Tawbah accepted by Allah is for those who do wrong in ignorance and repent soon after; it is not for those who go on doing evil until, when death comes to any of them, he says, now I repent (4:17 and 4:18). Pharaoh, as the sea closed over him, declared his belief, and was answered: now, when you disobeyed before and were among the corrupters? (10:90 and 10:91). The fault in 21:14 is not in the words. It is in the waiting.",
+            "bn": "একজন মানুষের জীবনের বেলায় এই সীমারেখা পড়ে মৃত্যুর কাছে। আল্লাহর কাছে কবুল তওবা তাদের, যারা অজ্ঞতাবশত মন্দ কাজ করে ফেলে, তারপর দেরি না করে তওবা করে। তাদের তওবা নয়, যারা মন্দ কাজ করেই যায়, যতক্ষণ না তাদের কারও মৃত্যু এসে পড়ে আর সে বলে, এখন আমি তওবা করলাম (৪:১৭ ও ৪:১৮)। ফিরআউন যখন ডুবে যাচ্ছিল, সে ঈমানের ঘোষণা দিল। জবাব এল: এখন? অথচ এর আগে তুমি নাফরমানি করেছ, আর ছিলে ফাসাদকারীদের দলে (১০:৯০ ও ১০:৯১)। ২১:১৪ আয়াতে দোষটা কথায় নয়। দোষটা অপেক্ষায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Refrain Until the Silence",
+          "bn": "নীরবতা পর্যন্ত একই বুলি"
+        },
+        "p": [
+          {
+            "en": "Fa-ma zalat tilka da'wahum: and that cry of theirs did not cease (21:15). Ibn Kathir calls the confession of wrong their hijjira, the refrain a person keeps returning to, until We reaped them and their movements and voices died away. At-Tabari uses the same word: facing the punishment, they had no refrain but woe to us, we were wrongdoers, until Allah destroyed them. Al-Baghawi says it was their call, cried out and repeated.",
+            "bn": "ফামা যালাত তিলকা দা'ওয়াহুম: তাদের সেই আর্তনাদ থামেনি (২১:১৫)। ইবন কাসীর জুলুমের এই স্বীকারোক্তিকে বলেন তাদের 'হিজ্জীরা', মানুষ বারবার যে বুলিতে ফিরে আসে। তা চলতেই থাকল, যতক্ষণ না আমি তাদের কেটে ফেললাম, আর তাদের নড়াচড়া ও আওয়াজ থেমে গেল। তাবারীও একই শব্দ ব্যবহার করেন: শাস্তি চোখের সামনে দেখে 'হায় আমাদের দুর্ভোগ, আমরা জালিম ছিলাম' ছাড়া তাদের মুখে আর কোনো বুলি ছিল না, যতক্ষণ না আল্লাহ তাদের ধ্বংস করলেন। বাগাভী বলেন, এটাই ছিল তাদের ডাক, যা তারা বারবার আওড়াত।"
+          },
+          {
+            "en": "Hasidan, a reaped field, is read two ways, and al-Qurtubi sets them side by side. Mujahid says they were cut down by swords, as crops are cut with a sickle; al-Hasan says it was by the punishment. At-Tabari's own wording follows the first: Allah killed them and reaped them with the sword, as a crop is reaped and cut away with sickles. As-Sa'di keeps the picture without naming the means: like plants reaped and laid flat. The verse does not say which, and the difference stands.",
+            "bn": "'হাসীদান', কেটে ফেলা ফসল, শব্দটার দুই রকম ব্যাখ্যা আছে, আর কুরতুবী দুটোকে পাশাপাশি রাখেন। মুজাহিদ বলেন, তাদের কাটা হয়েছিল তলোয়ার দিয়ে, যেমন কাস্তে দিয়ে ফসল কাটা হয়। হাসান বলেন, কাটা হয়েছিল শাস্তি দিয়ে। তাবারীর নিজের ভাষা প্রথম মতের সঙ্গে যায়: আল্লাহ তাদের হত্যা করলেন, তলোয়ারে কেটে ফেললেন, যেমন কাস্তে দিয়ে ফসল কেটে সাফ করা হয়। সা'দী উপায়ের নাম না নিয়ে শুধু ছবিটা রাখেন: কেটে মাটিতে শুইয়ে দেওয়া চারাগাছের মতো। আয়াত নিজে বলে না কোনটা, তাই মতভেদটা যেমন আছে তেমনই থাকল।"
+          },
+          {
+            "en": "Khamidin, extinguished, completes the picture. At-Tabari reports Ibn Abbas (RA), through Ibn Jurayj, glossing it as a fire dying down when it is put out, and explains it himself: perished, their spark quenched, their movement stilled, gone quiet as a fire goes quiet. Al-Qurtubi notes that the end of life is likened here to the end of a fire, as people say of the dead that they have been put out. The last thing to stop was the confession. Then there was nothing left to hear.",
+            "bn": "'খামিদীন', নিভে যাওয়া, শব্দটা ছবিটা পূর্ণ করে। তাবারী ইবন জুরাইজের সূত্রে ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা আনেন: আগুন নিভিয়ে দিলে যেমন তা ঝিমিয়ে যায়। তারপর নিজে বুঝিয়ে বলেন: তারা ধ্বংস হলো, তাদের স্ফুলিঙ্গ নিভে গেল, নড়াচড়া থেমে গেল, আগুন যেমন নিভে চুপ হয়ে যায়। কুরতুবী বলেন, এখানে জীবনের নিভে যাওয়াকে আগুনের নিভে যাওয়ার সঙ্গে তুলনা করা হয়েছে, যেমন কেউ মারা গেলে লোকে বলে, সে নিভে গেছে। সবার শেষে যা থামল, তা ওই স্বীকারোক্তি। তারপর শোনার মতো আর কিছুই রইল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports That Name the Town",
+          "bn": "যেসব বর্ণনা জনপদের নাম দেয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi ties the cry to his report for the passage: when the angels called to them not to run and they saw no one speaking, they understood that Allah had set their enemy over them for killing the prophet sent among them. At-Tabari, on 21:15, records Mujahid saying they were people of fortresses, that Allah sent Nebuchadnezzar against them, and that they had killed a prophet of theirs. Neither report has a chain to the Prophet ﷺ in these texts; the reflection on 21:11 sets out the variants. Ma'arif al-Qur'an concludes that the Qur'an names no settlement, so the matter is best left open.",
+            "bn": "কুরতুবী এই আর্তনাদকে মেলান পুরো অংশের জন্য তাঁর দেওয়া বর্ণনার সঙ্গে: ফেরেশতারা যখন ডেকে বলল, পালিয়ো না, আর কথা বলছে এমন কাউকে তারা দেখতে পেল না, তখন বুঝল, তাদের মধ্যে পাঠানো নবীকে হত্যা করার কারণেই আল্লাহ তাদের উপর শত্রু চাপিয়ে দিয়েছেন। তাবারী ২১:১৫ আয়াতে মুজাহিদের কথা আনেন: তারা ছিল দুর্গবাসী, আল্লাহ তাদের বিরুদ্ধে বুখতে নসরকে পাঠালেন, আর তারা তাদের এক নবীকে হত্যা করেছিল। এই পাঠগুলোতে কোনো বর্ণনারই নবী ﷺ পর্যন্ত সনদ নেই, আর ২১:১১ আয়াতের আলোচনায় এদের বিভিন্ন রূপ তুলে ধরা হয়েছে। মাআরিফুল কুরআনের সিদ্ধান্ত: কুরআন কোনো জনপদের নাম বলেনি, তাই বিষয়টা খোলা রাখাই ভালো।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: people of past towns who denied their messengers and confessed too late. It licenses nothing against any living person or community, and gives no one the right to point at a town, a flood, an earthquake or a war today and declare its people wrongdoers getting their due. In a narration not attached to this verse, al-Bukhari records that the Prophet ﷺ said: Do not enter upon these punished people unless you are weeping; if you are not weeping, do not enter upon them, lest what befell them befall you (Sahih al-Bukhari 433).",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা পাঠে আছে: অতীতের কিছু জনপদের লোক, যারা নিজেদের রাসূলদের অস্বীকার করেছিল আর স্বীকার করেছিল বড্ড দেরিতে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো শহর, বন্যা, ভূমিকম্প বা যুদ্ধের দিকে আঙুল তুলে কেউ বলতে পারে না যে সেখানকার লোকেরা জালিম ছিল, তাই উচিত সাজা পেয়েছে। এ আয়াতের সঙ্গে যুক্ত নয় এমন একটি বর্ণনায় বুখারী এনেছেন, নবী ﷺ বলেছেন: শাস্তিপ্রাপ্ত এই লোকদের কাছে কাঁদতে কাঁদতে ছাড়া প্রবেশ কোরো না। যদি কান্না না আসে, তবে তাদের কাছে প্রবেশ কোরো না, যাতে তাদের উপর যা এসেছিল তা তোমাদের উপরও না আসে (সহীহ বুখারী ৪৩৩)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Words in Time",
+          "bn": "সময় থাকতে একই কথা"
+        },
+        "p": [
+          {
+            "en": "The Qur'an shows these very words at another hour. The owners of the garden in Surat al-Qalam swore to cut its fruit at dawn (68:17), meaning to let no poor person in (68:24); an affliction struck it as they slept, leaving it as though reaped (68:19 and 68:20). They said: glory be to our Lord, we were wrongdoers (68:29). They fell to blaming each other (68:30), then said: O woe to us, we were transgressors (68:31). But their speech goes on: perhaps our Lord will give us better in its place; to our Lord we turn in longing (68:32).",
+            "bn": "কুরআন এই একই কথা আরেক সময়ে বলতে দেখায়। সূরা কলমের বাগানের মালিকেরা কসম খেয়েছিল, ভোরবেলা ফল পেড়ে নেবে (৬৮:১৭)। মতলব ছিল, কোনো গরিব যেন ঢুকতে না পারে (৬৮:২৪)। তারা যখন ঘুমিয়ে, তখনই এক বিপদ এসে বাগানটাকে এমন করে দিল, যেন কেটে সাফ করা হয়েছে (৬৮:১৯ ও ৬৮:২০)। তারা বলল: আমাদের রব পবিত্র, আমরা তো জালিম ছিলাম (৬৮:২৯)। তারপর পরস্পরকে দোষারোপ করতে লাগল (৬৮:৩০), আর বলল: হায় আমাদের দুর্ভোগ, আমরা তো সীমালঙ্ঘনকারী ছিলাম (৬৮:৩১)। কিন্তু তাদের কথা এখানে থামে না: হয়তো আমাদের রব এর বদলে এর চেয়ে ভালো কিছু দেবেন, আমরা আমাদের রবের দিকেই আশা নিয়ে ফিরছি (৬৮:৩২)।"
+          },
+          {
+            "en": "Their loss was a garden, in this world, and they still had mornings in which to turn. The Qur'an closes the story with its own warning: such is the punishment, and the punishment of the Hereafter is greater, if only they knew (68:33). Later in this surah the same admission becomes a prayer. Dhun-Nun (AS) called out in the darkness: there is no god but You; glory be to You; I have been of the wrongdoers (21:87). And the answer: so We responded to him and saved him from the distress, and thus do We save the believers (21:88).",
+            "bn": "তাদের হারানো জিনিস ছিল একটা বাগান, এই দুনিয়ায়, আর ফেরার মতো সকাল তখনো তাদের হাতে ছিল। কুরআন কাহিনিটা শেষ করে নিজের সতর্কবাণী দিয়ে: শাস্তি এমনই হয়, আর আখিরাতের শাস্তি আরও বড়, যদি তারা জানত (৬৮:৩৩)। এই সূরাতেই সামনে একই স্বীকৃতি আসে দোয়ার রূপে। যুন-নূন (আঃ) অন্ধকারের ভেতর ডেকে বললেন: তুমি ছাড়া কোনো ইলাহ নেই, তুমি পবিত্র, আমি জালিমদের একজন ছিলাম (২১:৮৭)। আর জবাব: আমি তাঁর ডাকে সাড়া দিলাম, তাঁকে দুশ্চিন্তা থেকে উদ্ধার করলাম, আর এভাবেই আমি মুমিনদের উদ্ধার করি (২১:৮৮)।"
+          },
+          {
+            "en": "Set the three sentences side by side and the difference is plain. The towns' words admit the wrong and stop. The garden's owners admit it and go on to hope in their Lord. The prayer of 21:87 admits it inside a declaration of Allah's oneness and glory, addressed to Him directly. What separates them is not a better choice of words about oneself. It is the hour, and the Lord to whom the words are said.",
+            "bn": "তিনটি বাক্য পাশাপাশি রাখলেই পার্থক্যটা চোখে পড়ে। জনপদবাসীর কথা অন্যায় স্বীকার করে, তারপর থেমে যায়। বাগানের মালিকেরা স্বীকার করে, তারপর রবের কাছে আশা রাখে। ২১:৮৭ আয়াতের দোয়া স্বীকৃতিটা রাখে আল্লাহর একত্ব আর পবিত্রতার ঘোষণার ভেতরে, আর তা সরাসরি তাঁকেই উদ্দেশ করে বলা। তাদের আলাদা করে দেয় নিজের সম্পর্কে আরও ভালো শব্দ বাছাই নয়। আলাদা করে দেয় সময়, আর সেই রব, যাঁকে কথাটা বলা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Sun Rises West",
+          "bn": "পশ্চিমে সূর্য ওঠার আগে"
+        },
+        "p": [
+          {
+            "en": "No commentator read here attaches a hadith to this verse. A general narration, not attached to it, gives the hour from the other side. Muslim records in his Sahih from Abu Hurayrah (RA) that the Messenger of Allah ﷺ said: Whoever repents before the sun rises from where it sets, Allah turns to him (Sahih Muslim 2703). Read with 4:17 and 4:18, the door the towns found shut stays open to the reader while the world lasts and while death has not yet come.",
+            "bn": "এখানে পড়া কোনো তাফসীরকার এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেননি। একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, সময়ের কথাটা উল্টো দিক থেকে বলে। মুসলিম তাঁর সহীহ গ্রন্থে আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: যে ব্যক্তি পশ্চিম দিক থেকে সূর্য ওঠার আগে তওবা করে, আল্লাহ তার তওবা কবুল করেন (সহীহ মুসলিম ২৭০৩)। ৪:১৭ ও ৪:১৮ আয়াতের সঙ্গে মিলিয়ে পড়লে বোঝা যায়, যে দরজা জনপদবাসীরা বন্ধ পেয়েছিল, পাঠকের জন্য তা খোলা থাকে, যতদিন দুনিয়া আছে আর যতক্ষণ মৃত্যু এসে হাজির না হয়।"
+          },
+          {
+            "en": "As-Sa'di and the Muyassar close their comment on 21:15 by turning to the listener: beware, you who are addressed, of persisting in denial of the Messenger, lest what came down on those nations come down on you. That is why the verse is kept. The towns' confession helped none who spoke it; it stays in the Qur'an so that others can say it first. I have been a wrongdoer is a hard sentence. Said today, to Allah, with a plea for forgiveness after it, it begins tawbah.",
+            "bn": "২১:১৫ আয়াতের ব্যাখ্যা শেষে সা'দী আর মুয়াসসার শ্রোতার দিকে ফেরেন: হে সম্বোধিত লোকেরা, সাবধান! রাসূলকে অস্বীকার করার উপর অটল থেকো না, নইলে আগের জাতিগুলোর উপর যা নেমেছিল, তোমাদের উপরও তা নামবে। এ আয়াত এ কারণেই রয়ে গেছে। জনপদবাসীর স্বীকারোক্তি যারা বলেছিল তাদের কারও কাজে আসেনি। কুরআনে তা রয়ে গেছে, যাতে অন্যরা আগেভাগে কথাটা বলে ফেলতে পারে। 'আমি জালিম ছিলাম' বলা কঠিন কথা। আজই কথাটা আল্লাহকে বলুন, সঙ্গে ক্ষমা চেয়ে নিন। তখন এটাই তওবার শুরু।"
+          }
+        ]
+      }
+    ]
+  },
   "21:16": {
     "sections": [
       {
