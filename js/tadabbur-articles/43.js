@@ -11,6 +11,134 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "43:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "One Word, Then an Oath",
+          "bn": "এক শব্দ, তারপর শপথ"
+        },
+        "p": [
+          {
+            "en": "Ha Mim is the whole of 43:1: one word in the count, two letters in the reading. The surah it opens is az-Zukhruf. Al-Qurtubi says it is Makkan by consensus, adds that Muqatil excepted one verse, 43:45, and ask those of Our messengers whom We sent before you, and gives its length as eighty-nine verses. Al-Baghawi writes only that it is Makkan, sets down Ha Mim, and moves on. The abridged English Ibn Kathir likewise notes that it was revealed in Makkah before turning to the next verse.",
+            "bn": "হা-মীম, এটুকুই ৪৩:১ আয়াতের পুরোটা। গণনায় একটি শব্দ, পড়তে গেলে দুটি হরফ। এ আয়াত দিয়ে শুরু হয়েছে সূরা যুখরুফ। কুরতুবী বলেন, সূরাটি মাক্কী, এ নিয়ে সবাই একমত। তবে মুকাতিল একটি আয়াতকে আলাদা রেখেছেন, ৪৩:৪৫: আপনার আগে আমি যেসব রাসূল পাঠিয়েছি তাদের জিজ্ঞেস করুন। কুরতুবীর হিসাবে সূরার আয়াত ৮৯টি। বাগাভী শুধু লেখেন যে সূরাটি মাক্কী, তারপর হা-মীম লিখে সামনে এগিয়ে যান। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণও কেবল জানায় যে সূরাটি মক্কায় নাজিল হয়েছে, তারপর চলে যায় পরের আয়াতে।"
+          },
+          {
+            "en": "On this page the commentaries mostly point elsewhere. At-Tabari says he has explained Ha Mim before, and the Muyassar refers the reader to the opening of al-Baqara. That restraint, and the meanings others proposed, are set out at 42:1 and are not repeated here. One pointer is particular to this surah: al-Qurtubi takes Ha Mim and wal-kitabi-l-mubin under a single heading and says the discussion of them has gone before. This article follows him in reading the letters and the oath side by side.",
+            "bn": "এ জায়গায় তাফসীরগুলো মূলত অন্যত্র ইশারা করে। তাবারী বলেন, হা-মীমের ব্যাখ্যা তিনি আগেই দিয়েছেন। মুয়াসসার পাঠককে পাঠিয়ে দেয় সূরা বাকারার শুরুতে। এই সংযম, আর অন্যরা যেসব অর্থ প্রস্তাব করেছেন, তার বিবরণ আছে ৪২:১ আয়াতের আলোচনায়, এখানে তা আর দোহরানো হলো না। তবে একটা ইশারা এই সূরারই নিজস্ব। কুরতুবী হা-মীম আর ওয়াল কিতাবিল মুবীন একই শিরোনামে এনে বলেন, এদের আলোচনা আগে হয়ে গেছে। এ লেখাও তাঁর মতো হরফ আর শপথকে পাশাপাশি রেখে পড়বে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kept Back, or Explained",
+          "bn": "আড়ালে রাখা, নাকি খুলে বলা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens his commentary on the surah with the disagreement itself. Some held that these letters are among what Allah kept to His own knowledge, so they returned their meaning to Him and did not explain them. Al-Qurtubi, Ibn Kathir says, relates this from Abu Bakr, 'Umar, 'Uthman, 'Ali and Ibn Mas'ud; 'Amir ash-Sha'bi, Sufyan ath-Thawri and ar-Rabi' ibn Khuthaym said it too, and Abu Hatim ibn Hibban chose it. On this view the letters are recited, and their meaning stays with Allah.",
+            "bn": "ইবন কাসীর সূরার তাফসীর শুরু করেন মতভেদটা দিয়েই। একদল বলেছেন, এই হরফগুলো সেইসব বিষয়ের মধ্যে পড়ে যার জ্ঞান আল্লাহ নিজের কাছে রেখে দিয়েছেন। তাই তাঁরা এর অর্থ আল্লাহর উপর ছেড়ে দিয়েছেন, ব্যাখ্যা করেননি। ইবন কাসীর জানান, কুরতুবী এ মত বর্ণনা করেছেন আবু বকর, উমর, উসমান, আলী ও ইবন মাসউদ (রাঃ) থেকে। আমির আশ-শাবী, সুফিয়ান সাওরী ও রবী ইবন খুসাইমও এ কথা বলেছেন, আর আবু হাতিম ইবন হিব্বান এ মতটাই বেছে নিয়েছেন। এই মতে হরফগুলো তিলাওয়াত হবে, আর এদের অর্থ থাকবে আল্লাহর কাছে।"
+          },
+          {
+            "en": "Others explained the letters, and differed among themselves. 'Abd ar-Rahman ibn Zayd ibn Aslam said they are names of the surahs. Ibn Kathir reports az-Zamakhshari as saying that most scholars agree on this, and that Sibawayh stated it plainly. He supports it with a report in the Sahihs of al-Bukhari and Muslim from Abu Hurayra. Al-Bukhari's wording (891) reads: the Prophet ﷺ used to recite on Friday, in the Fajr prayer, Alif Lam Mim Tanzil, as-Sajda, and Hal ata 'ala al-insan. There a surah is called by its opening letters.",
+            "bn": "আরেক দল হরফগুলোর ব্যাখ্যা দিয়েছেন, তবে ব্যাখ্যায় তাঁরা নিজেরাও একমত হননি। আবদুর রহমান ইবন যায়দ ইবন আসলাম বলেছেন, এগুলো সূরার নাম। ইবন কাসীর যামাখশারীর বরাতে জানান, বেশিরভাগ আলেম এ মতে একমত, আর সিবাওয়াইহ এটা স্পষ্ট বলে গেছেন। এর সমর্থনে তিনি আনেন আবু হুরায়রা (রাঃ) থেকে বুখারী ও মুসলিমের একটি বর্ণনা। বুখারীর (৮৯১) ভাষ্য এই: নবী ﷺ জুমার দিন ফজরের নামাজে পড়তেন আলিফ-লাম-মীম তানযীল, অর্থাৎ সূরা সাজদা, আর হাল আতা আলাল ইনসান। এখানে সূরাকে ডাকা হয়েছে তার শুরুর হরফ দিয়ে।"
+          },
+          {
+            "en": "The hadith is about the Friday prayer, not about this verse; Ibn Kathir draws on it only because a surah is named there by its opening letters. Mujahid, through Sufyan ath-Thawri, called the letters openings with which Allah opened the Qur'an. Ibn Kathir sets the views down in turn and, in this passage, does not rule between them, so the disagreement stays standing. As-Sa'di, on this verse, holds back from any meaning without a basis in the Shari'a, while affirming that the letters were not sent down in vain; his sentence is discussed at 42:1.",
+            "bn": "হাদীসটি জুমার নামাজ নিয়ে, এই আয়াত নিয়ে নয়। ইবন কাসীর এটা এনেছেন কেবল এজন্য যে সেখানে একটি সূরাকে তার শুরুর হরফ দিয়ে উল্লেখ করা হয়েছে। মুজাহিদ, সুফিয়ান সাওরীর সূত্রে, হরফগুলোকে বলেছেন সূচনা, যা দিয়ে আল্লাহ কুরআন শুরু করেছেন। ইবন কাসীর মতগুলো একটার পর একটা লিখে যান, আর এই অংশে কোনোটার পক্ষে রায় দেন না। তাই মতভেদটা যেমন ছিল তেমনই রইল। সা'দী এ আয়াতে শরীয়তের ভিত্তি ছাড়া কোনো অর্থ বলা থেকে বিরত থাকেন, আবার জোর দিয়ে বলেন, এ হরফগুলো অনর্থক নাজিল হয়নি। তাঁর এই বাক্যের আলোচনা আছে ৪২:১ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Name, Oath, or Alphabet",
+          "bn": "নাম, শপথ, নাকি বর্ণমালা"
+        },
+        "p": [
+          {
+            "en": "Where at-Tabari first meets Ha Mim, at 40:1, he lists with chains what was said about it. Through 'Ikrima, Ibn 'Abbas said that Alif Lam Ra, Ha Mim and Nun are the letters of ar-Rahman, divided. By another chain, Ibn 'Abbas said that Ha Mim is an oath Allah swore, and one of His names. As-Suddi said it is from the letters of Allah's names. Qatada said it is one of the names of the Qur'an. Others said it is simply letters of the alphabet.",
+            "bn": "তাবারী প্রথম হা-মীমের মুখোমুখি হন ৪০:১ আয়াতে। সেখানে তিনি সনদসহ তুলে ধরেন এ নিয়ে কে কী বলেছেন। ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) বলেছেন, আলিফ-লাম-রা, হা-মীম আর নূন হলো আর-রহমান নামের হরফ, ভাগ ভাগ করে আনা। আরেক সনদে ইবন আব্বাস (রাঃ) বলেছেন, হা-মীম এক শপথ, যা আল্লাহ করেছেন, আর এটি তাঁর নামগুলোর একটি। সুদ্দী বলেছেন, এটি আল্লাহর নামসমূহের হরফ থেকে। কাতাদা বলেছেন, এটি কুরআনের নামগুলোর একটি। আর কেউ কেউ বলেছেন, এ নিছক বর্ণমালার হরফ।"
+          },
+          {
+            "en": "Others again took Ha Mim as a name, and cited a line of poetry by Shurayh ibn Awfa al-'Absi in which it is recalled. At-Tabari relays, through Ma'mar ibn al-Muthanna, an objection from Yunus al-Jarmi: the letters are read without case endings, the way one spells, while a surah named by them would take endings. At-Tabari's own position is that Ha Mim is read like its sisters, which he explained at Alif Lam Mim, since all such letters in the Qur'an take a single account.",
+            "bn": "আরেক দল হা-মীমকে একটি নাম ধরেছেন। প্রমাণ হিসেবে এনেছেন শুরাইহ ইবন আওফা আল-আবসীর একটি কবিতার চরণ, যেখানে হা-মীমের কথা স্মরণ করা হয়েছে। মামার ইবনুল মুসান্নার সূত্রে তাবারী ইউনুস আল-জারমীর একটি আপত্তিও তুলে ধরেন। আপত্তিটা এই: হরফগুলো পড়া হয় বানান করার মতো, শেষে কোনো বিভক্তি ছাড়া। অথচ এদের দিয়ে কোনো সূরার নাম রাখা হলে শেষে বিভক্তি আসত। তাবারীর নিজের মত হলো, হা-মীমকে পড়তে হবে এর বোনদের মতো করেই। সেটা তিনি আলিফ-লাম-মীমের আলোচনায় বুঝিয়ে দিয়েছেন, কারণ কুরআনে এ ধরনের সব হরফের ব্যাপারে কথা একটাই।"
+          },
+          {
+            "en": "On 43:1 itself, al-Qurtubi adds one line: it was said that Ha Mim is an oath. If so, the surah opens with two oaths in a row, the second by the clear Book; his reading of that second oath and its answer is given at 43:3. In at-Tabari's list no view is raised to the Prophet ﷺ; each rests on a Companion, a Successor, a poet's usage or a grammarian. Al-Qurtubi, at 40:1, also relays reports raised to the Prophet ﷺ on what Ha Mim means, through 'Ikrima and Anas, without a full chain or a grading; they are noted here, and nothing is built on them.",
+            "bn": "খোদ ৪৩:১ আয়াতে কুরতুবী একটি লাইন যোগ করেন: বলা হয়েছে, হা-মীম একটি শপথ। তা হলে সূরার শুরুতে পরপর দুটি শপথ, দ্বিতীয়টি সুস্পষ্ট কিতাবের। সেই দ্বিতীয় শপথ আর তার জবাব নিয়ে তাঁর ব্যাখ্যা আছে ৪৩:৩ আয়াতের আলোচনায়। তাবারীর তালিকার কোনো মতই নবী ﷺ পর্যন্ত পৌঁছায় না। প্রতিটির পেছনে আছেন কোনো সাহাবী, তাবেয়ী, কবির ব্যবহার কিংবা কোনো ব্যাকরণবিদ। কুরতুবী ৪০:১ আয়াতে ইকরিমা ও আনাসের সূত্রে হা-মীমের অর্থ নিয়ে নবী ﷺ পর্যন্ত পৌঁছানো কিছু বর্ণনাও আনেন, পূর্ণ সনদ বা মান-নির্ণয় ছাড়াই। এখানে শুধু সেগুলোর উল্লেখ রইল। এর উপর কিছুই দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seven Surahs, One Family",
+          "bn": "সাত সূরা, এক পরিবার"
+        },
+        "p": [
+          {
+            "en": "Az-Zukhruf is the fourth of the seven surahs, 40 to 46, that open with Ha Mim. Ibn Kathir, introducing the first, records that some of the early generations, among them Muhammad ibn Sirin, disliked calling them al-hawamim and said Al Ha Mim, the family of Ha Mim. He then gathers sayings about them. Ibn Mas'ud called Al Ha Mim the brocade of the Qur'an. Ibn 'Abbas said everything has a kernel, and the kernel of the Qur'an is Al Ha Mim. Mis'ar ibn Kidam said they used to be called the brides.",
+            "bn": "পরপর সাতটি সূরা, ৪০ থেকে ৪৬, শুরু হয়েছে হা-মীম দিয়ে। যুখরুফ তাদের চতুর্থ। প্রথম সূরাটির ভূমিকায় ইবন কাসীর জানান, আগের যুগের কেউ কেউ, তাঁদের মধ্যে মুহাম্মাদ ইবন সীরীন, এদের 'হাওয়ামীম' বলা অপছন্দ করতেন। তাঁরা বলতেন 'আলে হা-মীম', মানে হা-মীমের পরিবার। এরপর ইবন কাসীর এ সূরাগুলো নিয়ে কিছু উক্তি জড়ো করেন। ইবন মাসউদ (রাঃ) আলে হা-মীমকে বলেছেন কুরআনের রেশমি কারুকাজ। ইবন আব্বাস (রাঃ) বলেছেন, প্রতিটি জিনিসের একটা সার থাকে, আর কুরআনের সার হলো আলে হা-মীম। মিসআর ইবন কিদাম বলেছেন, এদের বলা হতো 'নববধূ'।"
+          },
+          {
+            "en": "Ibn Kathir says all of this was recorded by Abu 'Ubayd al-Qasim ibn Sallam in his Fada'il al-Qur'an, and he gives no grading in the text consulted. These are sayings of Companions and later scholars, not words of the Prophet ﷺ. Through Humayd ibn Zanjawayh, with a chain through Abu l-Ahwas to 'Abdullah, he adds a parable, also relayed by al-Baghawi. A man looking for a place to settle his family passes the traces of rain and marvels at them, then comes down upon soft, level gardens and marvels more. The rain is the Qur'an at large; the gardens are Al Ha Mim within it.",
+            "bn": "ইবন কাসীর বলেন, এসবই আবু উবাইদ কাসিম ইবন সাল্লাম তাঁর 'ফাযাইলুল কুরআন' গ্রন্থে লিপিবদ্ধ করেছেন। যে পাঠ দেখা হয়েছে, তাতে তিনি এগুলোর মান নিয়ে কিছু বলেননি। এগুলো সাহাবী ও পরবর্তী আলেমদের উক্তি, নবী ﷺ-এর বাণী নয়। হুমাইদ ইবন যানজাওয়াইহর সূত্রে, আবুল আহওয়াস হয়ে আবদুল্লাহ পর্যন্ত সনদে, তিনি একটি উপমাও আনেন, যা বাগাভীও বর্ণনা করেছেন। এক লোক পরিবারের জন্য থাকার জায়গা খুঁজতে বেরিয়েছে। পথে বৃষ্টির চিহ্ন দেখে সে মুগ্ধ হয়। তারপর নেমে আসে নরম, সমতল কিছু বাগানে, আর আরও বেশি মুগ্ধ হয়। বৃষ্টি হলো গোটা কুরআন, আর সেই বাগানগুলো তার ভেতরের আলে হা-মীম।"
+          },
+          {
+            "en": "Ibn Kathir also records Ibn Mas'ud: when I come upon Al Ha Mim, I come upon gardens in which I linger with delight. He then cites, as bearing on these letters, a report in Abu Dawud (2597) from al-Muhallab ibn Abi Sufra, from a man who heard the Prophet ﷺ say: if you are attacked by night, let your watchword be Ha Mim, they will not be helped. Abu Dawud gives no grading on the page consulted. At-Tirmidhi (1682) records it too and notes that some narrate it as mursal. It is not attached to this verse.",
+            "bn": "ইবন কাসীর ইবন মাসউদের (রাঃ) আরেকটি কথাও এনেছেন: আলে হা-মীমে এসে পৌঁছালে আমি যেন এমন বাগানে এসে পড়ি, যেখানে আমি মন ভরে থেমে থাকি। এরপর এই হরফের প্রসঙ্গে তিনি আবু দাউদের (২৫৯৭) একটি বর্ণনা আনেন। আল-মুহাল্লাব ইবন আবী সুফরা বলেন, নবী ﷺ-কে বলতে শুনেছেন এমন এক ব্যক্তি তাঁকে জানিয়েছেন: রাতে তোমাদের উপর আক্রমণ হলে তোমাদের সংকেতধ্বনি হোক, হা-মীম, তারা সাহায্য পাবে না। দেখা পাতায় আবু দাউদ এর কোনো মান উল্লেখ করেননি। তিরমিযীও (১৬৮২) এটি এনেছেন, আর জানিয়েছেন যে কেউ কেউ একে মুরসাল হিসেবে বর্ণনা করেন। বর্ণনাটি এই আয়াতের সঙ্গে যুক্ত নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Twin Openings, Twin Answers",
+          "bn": "যমজ সূচনা, যমজ জবাব"
+        },
+        "p": [
+          {
+            "en": "The whole run of Ha Mim surahs is set out at 42:1. Within it, two surahs share a second verse word for word. Ghafir, al-Jathiya and al-Ahqaf follow the letters with the sending down of the Book from Allah, and Fussilat with a sending down from the Most Gracious, the Most Merciful. Az-Zukhruf and ad-Dukhan alone follow them with an oath: wal-kitabi-l-mubin, by the clear Book. In these two the Book is not first introduced by its descent; it is sworn by, and called clear.",
+            "bn": "সাত সূরার এই ধারার বিবরণ আছে ৪২:১ আয়াতের আলোচনায়। তার ভেতরে দুটি সূরার দ্বিতীয় আয়াত হুবহু এক। গাফির, জাসিয়া আর আহকাফে হরফের পরেই আসে আল্লাহর কাছ থেকে কিতাব নাজিলের কথা, আর ফুসসিলাতে আসে পরম দয়াময়, পরম দয়ালুর কাছ থেকে নাজিলের কথা। কেবল যুখরুফ আর দুখানে হরফের পরে আসে শপথ: ওয়াল কিতাবিল মুবীন, শপথ সুস্পষ্ট কিতাবের। এ দুই সূরায় কিতাবের পরিচয় প্রথমে তার নাজিল হওয়া দিয়ে নয়। তার শপথ করা হয়, আর তাকে বলা হয় সুস্পষ্ট।"
+          },
+          {
+            "en": "Their answers begin alike as well. In 43:3 it is inna ja'alnahu qur'anan 'arabiyyan, indeed We made it an Arabic Qur'an; in 44:3, inna anzalnahu fi laylatin mubarakatin, indeed We sent it down on a blessed night. One twin speaks of the Book's language and the hearer's understanding, the other of the night of its descent. Why the twins part ways at this point, the commentaries fetched here do not say; the reader can still hear each opening echo the other.",
+            "bn": "জবাবগুলোর শুরুও একই ধাঁচের। ৪৩:৩ আয়াতে: ইন্না জাআলনাহু কুরআনান আরাবিয়্যান, আমি একে আরবী কুরআন বানিয়েছি। ৪৪:৩ আয়াতে: ইন্না আনযালনাহু ফী লাইলাতিম মুবারাকাহ, আমি একে নাজিল করেছি এক বরকতময় রাতে। এক যমজ কথা বলে কিতাবের ভাষা আর শ্রোতার বোঝা নিয়ে, অন্যটি বলে তার নেমে আসার রাত নিয়ে। যমজ দুটি কেন এখানে আলাদা পথে যায়, এখানে দেখা তাফসীরগুলো তা বলে না। তবু পাঠক শুনতে পান, একটার সুর আরেকটায় বাজে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Vowel Kept",
+          "bn": "প্রতিটি স্বরের হেফাজত"
+        },
+        "p": [
+          {
+            "en": "Even where the meaning is left open, the sound is not. Al-Qurtubi, at 40:1, records how Ha Mim is recited. Abu 'Amr, Abu Bakr, Hamza, al-Kisa'i, Khalaf and Ibn Dhakwan read the Ha with imala, leaning its vowel. Abu Ja'far separates the Ha from the Mim, while the rest join them. 'Isa ibn 'Umar ath-Thaqafi read the Mim with a fatha, and Ibn Abi Ishaq and Abu s-Sammal with a kasra. Two letters, and the readers kept track of every vowel in them.",
+            "bn": "অর্থ খোলা রাখা হলেও উচ্চারণ খোলা রাখা হয়নি। কুরতুবী ৪০:১ আয়াতে লিখে রেখেছেন হা-মীম কীভাবে তিলাওয়াত হয়। আবু আমর, আবু বকর, হামযা, কিসাঈ, খালাফ ও ইবন যাকওয়ান 'হা'-কে ইমালা করে পড়েন, অর্থাৎ স্বরটা একটু হেলিয়ে। আবু জাফর 'হা' আর 'মীম' আলাদা করে পড়েন, বাকিরা মিলিয়ে পড়েন। ঈসা ইবন উমার আস-সাকাফী 'মীম'-এ যবর দিয়ে পড়েছেন, আর ইবন আবী ইসহাক ও আবুস সাম্মাল পড়েছেন যের দিয়ে। মাত্র দুটি হরফ, অথচ কারীরা এর প্রতিটি স্বরের হিসাব রেখেছেন।"
+          },
+          {
+            "en": "There is a lesson in that care which needs no theory about the letters. Those who left the meaning to Allah, and those who offered one, recited the same two letters, and the readers preserved how each was voiced. Understanding is not the price of admission to recitation. Yet the very next verse calls the Book clear, and the verse after names its purpose: that you might understand. The care that keeps every vowel of Ha Mim is owed all the more to the verses whose meaning was given.",
+            "bn": "এই যত্নের মধ্যে একটা শিক্ষা আছে, যার জন্য হরফ নিয়ে কোনো তত্ত্বের দরকার পড়ে না। যাঁরা অর্থ আল্লাহর উপর ছেড়েছেন আর যাঁরা অর্থ বলেছেন, সবাই তো একই দুটি হরফ তিলাওয়াত করেছেন। আর কারীরা আগলে রেখেছেন প্রতিটি হরফ কীভাবে উচ্চারিত হয়। তিলাওয়াতের দরজায় ঢোকার শর্ত পুরোপুরি বুঝে ফেলা নয়। তবু ঠিক পরের আয়াত কিতাবকে বলছে সুস্পষ্ট, আর তার পরের আয়াত বলে দিচ্ছে এর উদ্দেশ্য: যাতে তোমরা বুঝতে পারো। হা-মীমের প্রতিটি স্বর যে যত্নে রক্ষা করা হয়েছে, যেসব আয়াতের অর্থ খুলে দেওয়া হয়েছে সেগুলোর পাওনা তার চেয়েও বেশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Little Withheld, Much Made Plain",
+          "bn": "সামান্য আড়ালে, অনেকটা খোলা"
+        },
+        "p": [
+          {
+            "en": "Two things near this verse need a plain word. Ibn Kathir says the watchword Ha Mim, they will not be helped, was taught to the Companions on a campaign, against an enemy attacking by night. And a few verses on, 43:6 to 43:8 speak of earlier peoples who mocked their prophets and were destroyed. Both describe only what they describe. Neither licenses anything against any living person or community. The passage after 43:1 is read at 43:3 and 43:5, where the Reminder keeps coming to those who turned from it.",
+            "bn": "এই আয়াতের আশপাশের দুটি বিষয়ে সোজা কথা বলা দরকার। ইবন কাসীর বলেন, 'হা-মীম, তারা সাহায্য পাবে না', এই সংকেতধ্বনি সাহাবীদের শেখানো হয়েছিল কোনো এক অভিযানে, রাতে হামলা করা শত্রুর মোকাবেলায়। আর কয়েক আয়াত পরে, ৪৩:৬ থেকে ৪৩:৮ আয়াতে, আছে আগের যুগের সেইসব জাতির কথা, যারা নিজেদের নবীদের নিয়ে ঠাট্টা করেছিল আর ধ্বংস হয়েছিল। দুটোই কেবল সেটুকুই বর্ণনা করে যা বর্ণনা করে। কোনোটাই আজকের কোনো ব্যক্তি বা জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি দেয় না। ৪৩:১ আয়াতের পরের অংশ পড়া হয়েছে ৪৩:৩ ও ৪৩:৫ আয়াতের আলোচনায়, যেখানে মুখ ফিরিয়ে নেওয়া লোকদের কাছেও উপদেশবাণী আসতেই থাকে।"
+          },
+          {
+            "en": "So the surah opens with a pause that the reader cannot fill. Some of the most learned left it unfilled, as-Sa'di counsels leaving it so, and others offered meanings without closing the question. Then comes an oath by a Book called clear. The order teaches by itself: a little held back, and much made plain. A reader who can accept the first without unease is well placed to take up the second, and to treat the Book's clarity as a task to be done rather than a possession to be admired.",
+            "bn": "তাহলে সূরাটি শুরু হলো এমন এক বিরতি দিয়ে, যা পাঠক নিজে ভরাতে পারে না। সবচেয়ে বড় আলেমদের কেউ কেউ জায়গাটা খালি রেখেছেন, সা'দী খালি রাখারই পরামর্শ দেন, আর অন্যরা অর্থ বললেও প্রশ্নটার মীমাংসা করে দেননি। এরপরই আসে এমন এক কিতাবের শপথ, যাকে বলা হয়েছে সুস্পষ্ট। এই ক্রমটা নিজেই শিক্ষা দেয়: সামান্য কিছু আড়ালে রাখা, আর অনেকখানি খুলে বলা। যে পাঠক প্রথমটা অস্বস্তি ছাড়া মেনে নিতে পারেন, দ্বিতীয়টার দায়িত্ব নেওয়ার জন্য তিনি ভালো অবস্থানে আছেন। কিতাবের স্পষ্টতা তাঁর কাছে তখন শুধু মুগ্ধ হওয়ার সম্পদ থাকে না, হয়ে ওঠে করার মতো একটা কাজ।"
+          }
+        ]
+      }
+    ]
+  },
   "43:3": {
     "sections": [
       {

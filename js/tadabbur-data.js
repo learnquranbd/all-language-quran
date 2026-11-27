@@ -37833,6 +37833,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Wealth is no sign of Allah's love and want is no sign of His neglect; He may hold the world back in mercy, so weigh yourself by faith, not by provision.",
     "lessonBn": "সম্পদ আল্লাহর ভালোবাসার প্রমাণ নয়, অভাবও তাঁর অবহেলার প্রমাণ নয়। তিনি রহমত করেই দুনিয়া আটকে রাখতে পারেন। তাই নিজেকে মাপুন ঈমান দিয়ে, রিজিক দিয়ে নয়।"
+  },
+  "43:1": {
+    "reflectionEn": "Two letters open the surah, and no one is told what they mean. The early commentators divided: some left the meaning to Allah, others spoke of names, oaths and openings, and the disagreement was kept rather than settled. Then the very next verse swears by the clear Book. What is held back is two letters; what is made plain is everything after them. That order speaks to me. I am not asked to solve the letters, and I am not excused from the rest. Do I spend my curiosity on what was kept back and leave unread what was made clear? Can I recite what I cannot explain with the same care, sure that none of it was sent down in vain?",
+    "reflectionBn": "দুটি হরফ দিয়ে সূরার শুরু, আর এদের অর্থ কাউকে বলে দেওয়া হয়নি। আগের যুগের তাফসীরকারেরা দুই ভাগ হয়েছেন। কেউ অর্থটা আল্লাহর উপর ছেড়ে দিয়েছেন, কেউ নাম, শপথ বা সূচনার কথা বলেছেন। মতভেদটা মীমাংসা না করে যেমন ছিল তেমনই রাখা হয়েছে। ঠিক পরের আয়াতেই শপথ আসে সুস্পষ্ট কিতাবের। যা আড়ালে রাখা হলো তা মাত্র দুটি হরফ, আর যা খুলে বলা হলো তা এর পরের সবকিছু। এই ক্রমটা আমাকে কিছু বলে। হরফের রহস্য ভাঙার দায় আমার উপর নেই, আবার বাকিটা থেকেও আমার ছুটি নেই। আমি কি আমার কৌতূহল খরচ করি আড়ালের জিনিসে, আর যা স্পষ্ট করে দেওয়া হয়েছে তা না পড়েই ফেলে রাখি? যার ব্যাখ্যা জানি না, তা কি একই যত্নে তিলাওয়াত করতে পারি, এই বিশ্বাস নিয়ে যে এর কিছুই অকারণে নাজিল হয়নি?",
+    "pointsEn": [
+      "When I meet a verse I cannot explain, do I hurry past it, or recite it with the same care as the rest?",
+      "Have I ever repeated a meaning for these letters, or for any verse, that I could not trace back to someone who knew?",
+      "How much of what is plain in the Qur'an have I actually read and understood, compared with the time I give to its puzzles?",
+      "Can I say 'Allah knows best' about something without feeling that I have lost anything by saying it?",
+      "Which part of the Qur'an do I return to the way one returns to a garden, and why that part?"
+    ],
+    "pointsBn": [
+      "যে আয়াতের ব্যাখ্যা আমি জানি না, সেখানে এসে কি তাড়াহুড়া করে পার হয়ে যাই, নাকি বাকি আয়াতের মতোই যত্ন নিয়ে তিলাওয়াত করি?",
+      "এই হরফগুলোর, কিংবা অন্য কোনো আয়াতের এমন কোনো অর্থ কি কখনো মুখে মুখে ছড়িয়েছি, যার পেছনে কোনো জানাশোনা মানুষের সূত্র খুঁজে পাইনি?",
+      "কুরআনের রহস্যময় জায়গাগুলোর পেছনে যত সময় দিই, তার তুলনায় এর স্পষ্ট অংশের কতটুকু আসলে পড়েছি আর বুঝেছি?",
+      "কোনো বিষয়ে 'আল্লাহই ভালো জানেন' বলে কি আমি মনে করি কিছু হারালাম, নাকি স্বস্তি নিয়ে বলতে পারি?",
+      "কুরআনের কোন অংশে আমি বাগানে ফেরার মতো বারবার ফিরে যাই, আর কেন সেই অংশেই?"
+    ],
+    "lessonEn": "Recite what you cannot explain with care, leave its meaning to Allah where knowledge stops, and give your effort to the Book He made clear.",
+    "lessonBn": "যার ব্যাখ্যা জানা নেই তা-ও যত্ন নিয়ে তিলাওয়াত করুন, জ্ঞান যেখানে থামে সেখানে অর্থ আল্লাহর উপর ছেড়ে দিন, আর পরিশ্রম ঢালুন সেই কিতাবে যাকে তিনি স্পষ্ট করেছেন।"
   }
 };
 
