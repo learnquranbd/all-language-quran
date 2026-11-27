@@ -36133,6 +36133,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Name a wrong plainly and with words alone, never let a wrong pass as normal because it is common, and leave every judgement over people to Allah.",
     "lessonBn": "অন্যায়ের নাম সোজাসুজি নিন, শুধু কথা দিয়ে; কোনো অন্যায় চারদিকে চলছে বলে তাকে স্বাভাবিক হতে দেবেন না; আর মানুষের উপর সব বিচার আল্লাহর হাতে ছেড়ে দিন।"
+  },
+  "29:49": {
+    "reflectionEn": "The verse before has just said that he never read a book before it, nor wrote one with his hand. Then comes rather: it is clear signs in the breasts of those given knowledge. A Book that came without ink found its home not first on paper but in people. Some read the verse of the Qur'an held in memory, others of the Prophet ﷺ himself, described in earlier scripture and recognised by those who knew it. Either way the proof was clear, and refusing it took more than doubt; the verse names it wrongdoing. So I ask what of it lives in me. How much would remain if every copy were taken from my shelf? And what I already know of it, do I let it change me?",
+    "reflectionBn": "আগের আয়াত সবে বলেছে, এর আগে তিনি কোনো কিতাব পড়েননি, নিজের হাতে কোনো কিতাব লেখেননি। তারপর আসে 'বরং': এ হলো সুস্পষ্ট নিদর্শন, যাদের জ্ঞান দেওয়া হয়েছে তাদের বুকে। কালি ছাড়াই যে কিতাব এসেছে, তার প্রথম ঠিকানা কাগজ নয়, মানুষ। কেউ আয়াতটি বোঝেন মুখস্থ রাখা কুরআনের কথা হিসেবে, কেউ বোঝেন স্বয়ং নবী ﷺ-এর কথা হিসেবে, যাঁর বর্ণনা আগের কিতাবে ছিল এবং যারা সে কিতাব জানত তারা তাঁকে চিনেছিল। যেভাবেই পড়ি, প্রমাণ ছিল স্পষ্ট, আর তা অস্বীকার করা নিছক সন্দেহ নয়; আয়াত একে বলে জুলুম। তাই নিজেকে জিজ্ঞেস করি, এর কতটুকু আমার ভেতরে বেঁচে আছে? তাক থেকে সব কপি সরিয়ে নিলে কতটুকু থাকবে? আর যা আমি ইতিমধ্যে জানি, তাকে কি আমাকে বদলাতে দিই?",
+    "pointsEn": [
+      "If every printed copy were gone tomorrow, how much of the Qur'an could I still recite, and when did I last add to it?",
+      "What I have memorised, do I keep it tied by regular recitation, or have I let parts of it slip away without noticing?",
+      "Is there a verse I know clearly to be true that I still keep at a distance in the way I live?",
+      "When I meet someone who carries the Qur'an in their heart, do I learn from them, or only admire them from afar?",
+      "Do I hold what I have learned as a gift that was given to me, or as a possession that makes me proud?"
+    ],
+    "pointsBn": [
+      "কাল যদি ছাপা সব কপি হারিয়ে যায়, কুরআনের কতটুকু আমি তখনও তিলাওয়াত করতে পারব? আর শেষ কবে নতুন কিছু মুখস্থ করেছি?",
+      "যা মুখস্থ করেছি, নিয়মিত তিলাওয়াতে কি তা বেঁধে রাখি, নাকি টের না পেয়েই তার কিছু অংশ হারিয়ে যেতে দিয়েছি?",
+      "এমন কোনো আয়াত কি আছে, যা সত্য বলে আমি স্পষ্ট জানি, তবু জীবনযাপনে তাকে দূরে সরিয়ে রেখেছি?",
+      "যার বুকে কুরআন আছে এমন কারও দেখা পেলে আমি কি তার কাছ থেকে শিখি, নাকি দূর থেকে শুধু মুগ্ধ হই?",
+      "যা শিখেছি, তাকে কি আমাকে দেওয়া একটি দান হিসেবে ধরে রাখি, নাকি এমন সম্পদ হিসেবে, যা আমাকে অহংকারী করে?"
+    ],
+    "lessonEn": "Carry the Qur'an inside you, not only on your shelf: memorise what you can, keep it alive by recitation, and never turn from a truth you have recognised.",
+    "lessonBn": "কুরআনকে শুধু তাকে নয়, নিজের ভেতরে বহন করুন: যতটা পারেন মুখস্থ করুন, তিলাওয়াতে তাকে জীবন্ত রাখুন, আর যে সত্য চিনেছেন তা থেকে কখনো মুখ ফেরাবেন না।"
   }
 };
 

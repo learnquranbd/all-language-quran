@@ -2367,6 +2367,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "29:49": {
+    "sections": [
+      {
+        "h": {
+          "en": "Without Ink or Page",
+          "bn": "কালি নেই, পাতাও নেই"
+        },
+        "p": [
+          {
+            "en": "Bal huwa ayatun bayyinatun fi suduri alladhina utu al-'ilm: rather, it is clear signs in the breasts of those who were given knowledge. The verse opens on bal, a word that turns away from what came just before. What came before is 29:48: you did not recite any book before it, nor did you write one with your right hand, for then the falsifiers would have had cause to doubt. This verse cannot be read without that setup, because its one pronoun, it, reaches straight back into it.",
+            "bn": "বাল হুয়া আয়াতুম বাইয়িনাতুন ফী সুদূরিল্লাযীনা ঊতুল ইলম: বরং এ হলো সুস্পষ্ট নিদর্শন, যাদের জ্ঞান দেওয়া হয়েছে তাদের বুকে। আয়াতটি শুরু হয় 'বাল' দিয়ে, যে শব্দ ঠিক আগের কথা থেকে মোড় ঘোরায়। আগের কথাটি হলো ২৯:৪৮ আয়াত: এর আগে তুমি কোনো কিতাব পাঠ করোনি, নিজের ডান হাতে কোনো কিতাব লেখোনি, করলে বাতিলপন্থীরা সন্দেহ করার সুযোগ পেত। সেই ভূমিকা ছাড়া এ আয়াত পড়া যায় না, কারণ এর একটিমাত্র সর্বনাম, 'তা', সরাসরি সেখানেই ফিরে যায়।"
+          },
+          {
+            "en": "Ibn Kathir, commenting on 29:48, spells out that setup. You stayed among your people, he says, for a lifetime before you brought this Qur'an, not reading a book and not able to write, and everyone among your people and beyond knew you as an unlettered man. Yet they said it all the same, as 25:5 records: tales of the ancients, which he has had written down. Ma'arif al-Qur'an adds that forty years of his life passed in this way before the eyes of the people of Makkah.",
+            "bn": "২৯:৪৮ আয়াতের ব্যাখ্যায় ইবনে কাসীর এই ভূমিকা খুলে বলেন। তিনি বলেন, এই কুরআন নিয়ে আসার আগে তুমি তোমার কওমের মধ্যে জীবনের দীর্ঘ সময় কাটিয়েছ। কোনো কিতাব পড়োনি, লিখতেও জানতে না, আর তোমার কওম ও অন্যরা সবাই জানত তুমি উম্মী, পড়তে-লিখতে জানো না। তবু তারা সেই কথাই বলেছিল, যেমন ২৫:৫ আয়াতে আছে: এগুলো পূর্বপুরুষদের উপকথা, যা সে লিখিয়ে নিয়েছে। মাআরিফুল কুরআন যোগ করে, তাঁর জীবনের চল্লিশটি বছর এভাবেই মক্কাবাসীর চোখের সামনে কেটেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Answers to It",
+          "bn": "'তা' কে, দুই উত্তর"
+        },
+        "p": [
+          {
+            "en": "Rather, it is clear signs. But what is it? At-Tabari opens by saying that the people of interpretation differed. Some said it means the Prophet ﷺ: the People of the Book finding in their own books that Muhammad neither writes nor reads, that he is unlettered, is itself clear signs in their breasts. He gives this from Ibn Abbas through a chain he cites: Allah had sent down the matter of Muhammad in the Torah and the Gospel for the people of knowledge and made it a sign for them, that he would come forth knowing no book and writing none with his hand.",
+            "bn": "বরং তা সুস্পষ্ট নিদর্শন। কিন্তু 'তা' কী? তাবারী শুরুতেই বলেন, ব্যাখ্যাকারেরা এখানে ভিন্নমত পোষণ করেছেন। কেউ বলেছেন, এর অর্থ নবী ﷺ। আহলে কিতাব নিজেদের কিতাবে পেয়েছিল যে মুহাম্মাদ লেখেন না, পড়েন না, তিনি উম্মী; এই জানাটাই তাদের বুকে সুস্পষ্ট নিদর্শন। এ মত তিনি নিজের উল্লেখ করা এক সনদে ইবনে আব্বাস থেকে আনেন: আল্লাহ তাওরাত ও ইনজীলে জ্ঞানীদের জন্য মুহাম্মাদের বিষয় নাযিল করেছিলেন এবং একে তাদের জন্য নিদর্শন বানিয়েছিলেন যে, তিনি যখন আসবেন, কোনো কিতাব জানবেন না, নিজের হাতে লিখবেনও না।"
+          },
+          {
+            "en": "Ad-Dahhak, in at-Tabari, says the same more briefly: the Prophet of Allah did not write or read, and so Allah set his description in the Torah and the Gospel as an unlettered prophet who neither reads nor writes, and that is the clear sign in the breasts of those given knowledge. Qatada reads those given knowledge as people of the Book who confirmed Muhammad, his description and his prophethood. Ibn Jurayj, also in at-Tabari, says it is the Prophet ﷺ. Al-Qurtubi and al-Baghawi list this view under Qatada and Ibn Abbas.",
+            "bn": "তাবারীতে দাহহাক একই কথা আরও সংক্ষেপে বলেন: আল্লাহর নবী লিখতেন না, পড়তেন না, আর আল্লাহ তাওরাত ও ইনজীলে তাঁর পরিচয় দিয়েছিলেন এমন এক উম্মী নবী হিসেবে, যিনি পড়েন না, লেখেন না; এটাই জ্ঞানপ্রাপ্তদের বুকে সুস্পষ্ট নিদর্শন। কাতাদার মতে জ্ঞানপ্রাপ্তরা হলো আহলে কিতাবের সেই লোকেরা, যারা মুহাম্মাদকে, তাঁর পরিচয় ও নবুওয়াতকে সত্য বলে মেনেছিল। তাবারীতেই ইবনে জুরাইজ বলেন, এর অর্থ নবী ﷺ। কুরতুবী ও বাগাভী এ মতকে কাতাদা ও ইবনে আব্বাসের নামে উল্লেখ করেন।"
+          },
+          {
+            "en": "Others said it means the Qur'an. At-Tabari gives this from al-Hasan alone: the Qur'an is clear signs in the breasts of those given knowledge, meaning the believers. Al-Qurtubi begins his own comment on this side, saying it means the Qur'an, and al-Baghawi lists al-Hasan's view first. As-Sa'di and the Muyassar explain the verse as the Qur'an, and so does Ibn Kathir, who then reports at-Tabari's contrary choice. Most of the commentators fetched here read it as the Qur'an; the other reading carries Ibn Abbas, Qatada and ad-Dahhak. Both readings stand.",
+            "bn": "অন্যরা বলেছেন, এর অর্থ কুরআন। তাবারী এ মত শুধু হাসান থেকে আনেন: কুরআন হলো সুস্পষ্ট নিদর্শন, জ্ঞানপ্রাপ্তদের বুকে, অর্থাৎ মুমিনদের বুকে। কুরতুবী নিজের ব্যাখ্যা এ দিক থেকেই শুরু করেন, বলেন এর অর্থ কুরআন, আর বাগাভী হাসানের মতটি আগে আনেন। সা'দী ও মুয়াসসার আয়াতটিকে কুরআনের কথা হিসেবেই ব্যাখ্যা করেন, ইবনে কাসীরও তাই করেন, তারপর তাবারীর ভিন্ন পছন্দটি উল্লেখ করেন। এখানে যেসব তাফসীর দেখা হয়েছে, তার বেশিরভাগ একে কুরআন বলে পড়ে; অন্য মতের পেছনে আছেন ইবনে আব্বাস, কাতাদা ও দাহহাক। দুটি পাঠই টিকে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Between Two Reports",
+          "bn": "দুই সংবাদের মাঝখানে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari states his choice plainly. The more correct of the two readings, he says, is this: rather, the knowledge that you recited no book before this Book and wrote none with your right hand is clear signs in the breasts of those given knowledge from the People of the Book. His reason concerns placement. The sentence stands between two reports that Allah gives about His Messenger, so it is more fitting as a report about him than about the Book, whose report had already ended. Ibn Kathir records this choice and its source in Qatada and Ibn Jurayj.",
+            "bn": "তাবারী নিজের পছন্দ স্পষ্ট করে বলেন। দুই ব্যাখ্যার মধ্যে বেশি সঠিক, তাঁর মতে, এটি: তুমি এই কিতাবের আগে কোনো কিতাব পাঠ করোনি, ডান হাতে কিছু লেখোনি, এই জ্ঞানই আহলে কিতাবের জ্ঞানপ্রাপ্তদের বুকে সুস্পষ্ট নিদর্শন। তাঁর যুক্তি বাক্যের অবস্থান নিয়ে। বাক্যটি রাসূল সম্পর্কে আল্লাহর দেওয়া দুটি সংবাদের মাঝখানে বসেছে, তাই একে কিতাবের সংবাদ না ধরে তাঁর সংবাদ ধরাই বেশি মানানসই, কারণ কিতাবের কথা আগেই শেষ হয়ে গেছে। ইবনে কাসীর এ পছন্দটি এবং কাতাদা ও ইবনে জুরাইজ থেকে এর উৎস উল্লেখ করেন।"
+          },
+          {
+            "en": "Al-Qurtubi notes that this is at-Tabari's choice and offers a proof for it: a reading of Ibn Mas'ud and Ibn as-Samayqa', bal hadha ayatun bayyinat, rather, this is clear signs. Why signs in the plural for one man? Because, he says, the Prophet ﷺ pointed to many things in the matter of religion, so he was signs and not a single sign. Another view he records supplies a missing word: rather, he is the bearer of clear signs. Al-Baghawi words the Qatada and Ibn Abbas reading the same way, dhu ayat.",
+            "bn": "কুরতুবী জানান, এটি তাবারীর পছন্দ, এবং এর পক্ষে একটি প্রমাণ দেন: ইবনে মাসঊদ ও ইবনুস সুমাইকা'র কিরাআত, 'বাল হাযা আয়াতুম বাইয়িনাত', বরং এ হলো সুস্পষ্ট নিদর্শন। একজন মানুষের জন্য বহুবচনে 'নিদর্শনসমূহ' কেন? কুরতুবী বলেন, কারণ নবী ﷺ দ্বীনের বহু বিষয়ের দিকে নির্দেশ করেছেন, তাই তিনি একটি নয়, বহু নিদর্শন। তিনি আরেকটি মতও আনেন, যেখানে একটি শব্দ উহ্য ধরা হয়: বরং তিনি সুস্পষ্ট নিদর্শনের অধিকারী। বাগাভী কাতাদা ও ইবনে আব্বাসের মতটি এভাবেই বলেন, 'যূ আয়াত'।"
+          },
+          {
+            "en": "The Qur'an side has its grammar as well. Al-Qurtubi relays from al-Farra' a reading in the name of Abdullah, bal hiya ayatun bayyinat, with a feminine pronoun, meaning the verses of the Qur'an are clear verses. His comment likens the recited masculine form to hadha basa'ir, this is insight, where a masculine pronoun also points to a plural. Both variant wordings sit outside the recited text, and al-Qurtubi uses them only as evidence for meaning, one cited for each side. The recited huwa stays open to both.",
+            "bn": "কুরআনের পক্ষেরও নিজস্ব ব্যাকরণ আছে। কুরতুবী ফাররা থেকে আবদুল্লাহর নামে একটি কিরাআত আনেন, 'বাল হিয়া আয়াতুম বাইয়িনাত', স্ত্রীলিঙ্গ সর্বনাম দিয়ে, যার অর্থ: কুরআনের আয়াতগুলো সুস্পষ্ট আয়াত। পঠিত পুংলিঙ্গ রূপটিকে তিনি তুলনা করেন 'হাযা বাসাইর', এ হলো অন্তর্দৃষ্টি, এই বাক্যের সঙ্গে, যেখানেও পুংলিঙ্গ সর্বনাম বহুবচনের দিকে ইঙ্গিত করে। এই দুই ভিন্ন শব্দরূপ পঠিত পাঠের বাইরে, আর কুরতুবী এগুলো শুধু অর্থের সাক্ষ্য হিসেবে আনেন, প্রতিটি এক এক পক্ষের জন্য। পঠিত 'হুয়া' দুই অর্থের জন্যই খোলা থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Clear Rather Than Hidden",
+          "bn": "গোপন নয়, সুস্পষ্ট"
+        },
+        "p": [
+          {
+            "en": "Whichever reading is taken, the signs are bayyinat, clear. As-Sa'di gives the sense in two words: clear, not hidden. The Muyassar calls them signs plain in pointing to the truth, which the scholars memorise. Ibn Kathir, in a comment the API files under 29:48, says the Qur'an is clear signs pointing to the truth in command, prohibition and report, memorised by the scholars, for whom Allah has made it easy to memorise, recite and explain. He joins it to 54:17: We have made the Qur'an easy for remembrance; is there anyone who will remember?",
+            "bn": "যে ব্যাখ্যাই নেওয়া হোক, নিদর্শনগুলো 'বাইয়িনাত', সুস্পষ্ট। সা'দী অর্থটা দুই শব্দে বলেন: সুস্পষ্ট, গোপন নয়। মুয়াসসার বলে, এগুলো সত্যের দিকে স্পষ্ট নির্দেশ করে, আর আলেমরা তা মুখস্থ রাখেন। ইবনে কাসীর তাঁর যে ব্যাখ্যা এপিআই-তে ২৯:৪৮ আয়াতের ঘরে রাখা আছে, সেখানে বলেন, কুরআন হলো আদেশ, নিষেধ ও সংবাদে সত্যের দিকে নির্দেশকারী সুস্পষ্ট নিদর্শন। আলেমরা তা মুখস্থ রাখেন, আল্লাহ তাঁদের জন্য তা মুখস্থ করা, তিলাওয়াত করা ও ব্যাখ্যা করা সহজ করে দিয়েছেন। এর সঙ্গে তিনি জুড়ে দেন ৫৪:১৭: আমি কুরআনকে উপদেশের জন্য সহজ করেছি, আছে কি কেউ উপদেশ গ্রহণকারী?"
+          },
+          {
+            "en": "Al-Qurtubi draws the contrast the context asks for. This Qur'an is not, he says, what the falsifiers claim, magic or poetry; it is marks and proofs by which the religion of Allah and its rulings are known. His word for them, al-mubtilun, is the very word that closes 29:48. There, they would have had grounds to doubt had he been a reader of books. Here the reply is that the Book they doubted is lodged, clear, in living people who hold it and recite it.",
+            "bn": "প্রসঙ্গ যে তুলনাটা চায়, কুরতুবী সেটাই টানেন। তিনি বলেন, বাতিলপন্থীরা যা বলে, এই কুরআন তা নয়, জাদু নয়, কবিতাও নয়; এ হলো এমন চিহ্ন ও প্রমাণ, যা দিয়ে আল্লাহর দ্বীন ও তার বিধান চেনা যায়। তাদের জন্য তিনি যে শব্দ ব্যবহার করেন, 'আল-মুবতিলূন', ঠিক সেই শব্দেই ২৯:৪৮ আয়াত শেষ হয়েছে। সেখানে বলা হয়েছে, তিনি কিতাব পড়তে জানলে তারা সন্দেহের সুযোগ পেত। এখানে জবাব হলো, যে কিতাব নিয়ে তারা সন্দেহ করেছিল, তা সুস্পষ্টভাবে গেঁথে আছে জীবন্ত মানুষের ভেতরে, যারা তা ধারণ করে ও তিলাওয়াত করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gospels Carried in Breasts",
+          "bn": "বুকের ভেতর বহন করা কিতাব"
+        },
+        "p": [
+          {
+            "en": "This nation was given memorisation: so al-Hasan says in al-Qurtubi. Those before it read their book only by looking at it, and when they closed it they did not retain what was in it, except the prophets. Al-Qurtubi then relays from Ka'b a description of this nation: that they are wise and learned, and in their understanding of the religion like prophets. Ka'b's words are a report about earlier scripture, not a saying of the Prophet ﷺ, and they are taken here only as al-Qurtubi gives them, with nothing built on them.",
+            "bn": "এই উম্মতকে মুখস্থ রাখার ক্ষমতা দেওয়া হয়েছে: কুরতুবীতে হাসান এ কথা বলেন। এর আগের লোকেরা নিজেদের কিতাব শুধু দেখে দেখে পড়ত, বন্ধ করলে তার ভেতরের কিছুই মনে রাখত না, নবীরা ছাড়া। এরপর কুরতুবী কা'ব থেকে এই উম্মতের একটি বর্ণনা আনেন: তারা প্রজ্ঞাবান ও জ্ঞানী, আর দ্বীনের বোঝাপড়ায় যেন নবীদের মতো। কা'বের কথা আগের কিতাব সম্পর্কে একটি বর্ণনা, নবী ﷺ-এর বাণী নয়; তাই কুরতুবী যেভাবে এনেছেন, এখানে শুধু সেভাবেই তা রাখা হলো, এর উপর কিছু দাঁড় করানো হলো না।"
+          },
+          {
+            "en": "Ibn Kathir ends his comment on the same idea from another side. In the earlier scriptures, he says, it came in the description of this nation that their gospels are in their breasts. He explains why the written copy is not where the Qur'an finally lives: it is preserved in the breasts, easy on the tongues, governing the hearts, inimitable in word and in meaning. He supports this with part of a long hadith that Muslim records from Iyad ibn Himar, number 2865 on the page fetched, in which Allah addresses the Prophet ﷺ about the Book sent down to him.",
+            "bn": "ইবনে কাসীর তাঁর ব্যাখ্যা শেষ করেন একই ভাবনা দিয়ে, ভিন্ন দিক থেকে। তিনি বলেন, আগের কিতাবগুলোতে এই উম্মতের পরিচয়ে এসেছে: তাদের ইনজীল তাদের বুকে। লিখিত কপিই কেন কুরআনের শেষ ঠিকানা নয়, তিনি তাও বলেন: এটি বুকে সংরক্ষিত, জিহ্বায় সহজ, হৃদয়ের উপর কর্তৃত্বশীল, শব্দে ও অর্থে অনন্য। এর সমর্থনে তিনি মুসলিমের বর্ণিত ইয়ায ইবনে হিমারের একটি দীর্ঘ হাদীসের অংশ আনেন, দেখা পাতায় যার নম্বর ২৮৬৫; সেখানে আল্লাহ নবী ﷺ-কে তাঁর প্রতি নাযিল হওয়া কিতাব সম্পর্কে সম্বোধন করেন।"
+          },
+          {
+            "en": "Ibn Kathir also cites here the hadith in which the Prophet ﷺ names revelation as the gift he was given, where earlier prophets were given wonders. The articles on 29:47 and 29:52 quote it in full, so it is only pointed to here. What this verse adds is the place: the signs are fi suduri, in breasts. Under either reading the proof sits inside people, whether as a Book they hold by heart or as a description they had long carried and recognised when he came.",
+            "bn": "ইবনে কাসীর এখানে সেই হাদীসটিও আনেন, যেখানে নবী ﷺ বলেন, আগের নবীদের দেওয়া হয়েছিল অলৌকিক নিদর্শন, আর তাঁকে দেওয়া হয়েছে ওয়াহী। ২৯:৪৭ ও ২৯:৫২ আয়াতের প্রবন্ধে হাদীসটি পুরোটা উদ্ধৃত আছে, তাই এখানে শুধু ইঙ্গিত করা হলো। এ আয়াত যা যোগ করে তা হলো জায়গাটা: নিদর্শন 'ফী সুদূর', বুকের ভেতরে। যে ব্যাখ্যাই নিই, প্রমাণ থাকে মানুষের ভেতরে, হয় মুখস্থ রাখা কিতাব হিসেবে, নয়তো এমন এক পরিচয় হিসেবে, যা তারা বহুদিন বহন করেছিল এবং তিনি আসার পর চিনে নিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Like Camels on a Tether",
+          "bn": "রশিতে বাঁধা উটের মতো"
+        },
+        "p": [
+          {
+            "en": "The two hadiths that follow are not attached to this verse by any tafsir fetched for it. They are general, about keeping the Qur'an once it is in the breast. Al-Bukhari records, number 5031, from Ibn Umar that Allah's Messenger ﷺ said: The example of the person who knows the Qur'an by heart is like the owner of tied camels. If he keeps them tied, he will control them, but if he releases them, they will run away. It stands in al-Bukhari's Sahih, which is its grading.",
+            "bn": "নিচের হাদীস দুটিকে এ আয়াতের জন্য দেখা কোনো তাফসীর এ আয়াতের সঙ্গে যুক্ত করেনি। এগুলো সাধারণ হাদীস, কুরআন বুকে আসার পর তা ধরে রাখা নিয়ে। বুখারী ৫০৩১ নম্বরে ইবনে উমার থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: কুরআন যার মুখস্থ, তার দৃষ্টান্ত বাঁধা উটের মালিকের মতো। সে যদি সেগুলো বেঁধে রাখে, নিয়ন্ত্রণে রাখতে পারে, আর যদি ছেড়ে দেয়, সেগুলো চলে যায়। হাদীসটি বুখারীর সহীহ গ্রন্থে আছে, আর সেটাই এর মান।"
+          },
+          {
+            "en": "At-Tirmidhi records, number 2913, from Ibn Abbas that the Messenger of Allah ﷺ said: Indeed, the one who does not have the Qur'an inside him (his heart), is like the ruined house. At-Tirmidhi grades it hasan sahih. Set beside the verse, the two speak to the reader who takes the Qur'an reading of it. A breast is where the clear signs can live, but they stay only where they are tended, and a breast that holds none of them is a house left standing in ruins.",
+            "bn": "তিরমিযী ২৯১৩ নম্বরে ইবনে আব্বাস থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: যার ভেতরে (হৃদয়ে) কুরআনের কিছুই নেই, সে বিরান ঘরের মতো। তিরমিযী একে হাসান সহীহ বলেছেন। আয়াতের পাশে রাখলে হাদীস দুটি কথা বলে সেই পাঠকের সঙ্গে, যিনি আয়াতটিকে কুরআনের কথা হিসেবে পড়েন। বুক হলো সেই জায়গা, যেখানে সুস্পষ্ট নিদর্শন বাস করতে পারে; কিন্তু যত্ন নিলে তবেই তা টিকে থাকে, আর যে বুকে তার একটিও নেই, তা যেন ভেঙে পড়া এক বিরান ঘর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowledge as a Thing Given",
+          "bn": "জ্ঞান, যা দেওয়া হয়"
+        },
+        "p": [
+          {
+            "en": "Utu al-'ilm, they were given knowledge: the verb is passive, and the knowledge is named as something received. Who received it depends on the reading. For at-Tabari and Qatada they are of the People of the Book, who found the unlettered prophet described in their books. Al-Qurtubi, on the Qur'an reading, names them the companions of Muhammad ﷺ and the believers in him, who memorise it and recite it, described with knowledge because by their understanding they told apart the speech of Allah from the speech of humans and of devils. Al-Baghawi calls them the believers who carried the Qur'an.",
+            "bn": "ঊতুল ইলম, তাদের জ্ঞান দেওয়া হয়েছে: ক্রিয়াটি কর্মবাচ্যে, আর জ্ঞানকে বলা হয়েছে এমন কিছু, যা গ্রহণ করা হয়। কারা পেয়েছে, তা নির্ভর করে ব্যাখ্যার উপর। তাবারী ও কাতাদার মতে তারা আহলে কিতাবের লোক, যারা নিজেদের কিতাবে উম্মী নবীর পরিচয় পেয়েছিল। কুরআনের ব্যাখ্যা ধরে কুরতুবী তাদের বলেন মুহাম্মাদ ﷺ-এর সাহাবি ও তাঁর প্রতি ঈমান আনা মুমিনরা, যারা কুরআন মুখস্থ রাখে ও তিলাওয়াত করে। তাদের জ্ঞানী বলা হয়েছে, কারণ নিজেদের বোধ দিয়ে তারা আল্লাহর কালামকে মানুষ ও শয়তানের কথা থেকে আলাদা করে চিনেছে। বাগাভী তাদের বলেন সেই মুমিনরা, যারা কুরআন বহন করেছে।"
+          },
+          {
+            "en": "As-Sa'di raises them high. They are, he says, the masters of creation, its people of reason and of understanding, the most complete among them. If the Qur'an is clear signs in the breasts of such people, he reasons, then they are a proof against everyone else, and the denial of others does no harm and can only be wrongdoing. That step carries him straight into the verse's last clause, where the word for those who deny is chosen with care.",
+            "bn": "সা'দী তাদের অনেক উঁচুতে স্থান দেন। তিনি বলেন, তারা সৃষ্টির নেতৃস্থানীয়, বুদ্ধিমান ও বোধসম্পন্ন মানুষ, তাদের মধ্যে সবচেয়ে পূর্ণ। তাঁর যুক্তি: কুরআন যদি এমন মানুষের বুকে সুস্পষ্ট নিদর্শন হয়, তবে তারাই বাকিদের বিরুদ্ধে প্রমাণ, আর অন্যদের অস্বীকার কোনো ক্ষতি করে না, তা জুলুম ছাড়া আর কিছু হতে পারে না। এই ধাপ তাঁকে সরাসরি আয়াতের শেষ অংশে নিয়ে যায়, যেখানে অস্বীকারকারীদের জন্য শব্দটি বেছে নেওয়া হয়েছে যত্ন করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denial Under Another Name",
+          "bn": "অস্বীকারের আরেক নাম"
+        },
+        "p": [
+          {
+            "en": "Wa ma yajhadu bi-ayatina illa az-zalimun: and none rejects Our signs but the wrongdoers. Two verses earlier, 29:47 closed on nearly the same words with al-kafirun, the disbelievers; here the word is az-zalimun. At-Tabari, keeping to his reading, takes it as: none denies the prophethood of Muhammad ﷺ, and the knowledge of his sending found in the books of Allah, except those who wronged themselves by disbelief. Al-Qurtubi glosses them as the disbelievers, who denied his prophethood and what he brought.",
+            "bn": "ওয়ামা ইয়াজহাদু বিআয়াতিনা ইল্লায যালিমূন: আর জালিমরা ছাড়া কেউ আমার নিদর্শন অস্বীকার করে না। দুই আয়াত আগে ২৯:৪৭ প্রায় একই শব্দে শেষ হয়েছিল 'আল-কাফিরূন', অবিশ্বাসীরা, দিয়ে; এখানে শব্দটি 'আয-যালিমূন'। তাবারী নিজের ব্যাখ্যা ধরে রেখে অর্থ করেন: মুহাম্মাদ ﷺ-এর নবুওয়াত এবং আল্লাহর কিতাবগুলোতে তাঁর আগমনের যে জ্ঞান আছে, তা অস্বীকার করে কেবল তারাই, যারা কুফরির মাধ্যমে নিজেদের উপর জুলুম করেছে। কুরতুবী তাদের ব্যাখ্যা করেন কাফির বলে, যারা তাঁর নবুওয়াত ও তাঁর আনা বিষয় অস্বীকার করেছে।"
+          },
+          {
+            "en": "Ibn Kathir explains the denial in three verbs: they belie the signs, cut short their due and push them back. The wrongdoers, he says, are the aggressors and the obstinate, who know the truth and swerve from it, and he sets beside them 10:96 and 10:97, on those who will not believe though every sign should come to them. As-Sa'di finds two kinds of denier: one ignorant, who spoke without knowledge though he could have learned, and one feigning ignorance, who knew it true and resisted it.",
+            "bn": "ইবনে কাসীর অস্বীকারকে তিনটি ক্রিয়ায় ব্যাখ্যা করেন: তারা নিদর্শনকে মিথ্যা বলে, তার প্রাপ্য মর্যাদা খর্ব করে, আর তা ফিরিয়ে দেয়। তিনি বলেন, জালিমরা হলো সীমালঙ্ঘনকারী ও হঠকারী, যারা সত্য জানে, তবু তা থেকে সরে যায়। এর পাশে তিনি রাখেন ১০:৯৬ ও ১০:৯৭, যাদের কাছে সব নিদর্শন এলেও তারা ঈমান আনবে না। সা'দী দুই ধরনের অস্বীকারকারী দেখেন: একজন অজ্ঞ, যে শেখার সুযোগ থাকা সত্ত্বেও না জেনে কথা বলেছে; আরেকজন অজ্ঞতার ভান করে, যে সত্য জেনেও তার বিরোধিতা করেছে।"
+          },
+          {
+            "en": "The verse describes people who denied a proof they had the means to see, in the Prophet's own day, and it names that denial wrongdoing. It licenses nothing against any living person or community, People of the Book or anyone else. Its edge turns inward instead. The reader who carries clear signs in the breast is left asking whether what he knows has been honoured, or quietly pushed back.",
+            "bn": "আয়াতটি সেই মানুষদের বর্ণনা দেয়, যারা নবী ﷺ-এর নিজের যুগে এমন এক প্রমাণ অস্বীকার করেছিল, যা দেখার সব উপায় তাদের ছিল, আর সেই অস্বীকারকে আয়াত জুলুম বলেছে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে, আহলে কিতাব হোক বা অন্য কেউ, এ আয়াত কোনো কিছুর অনুমতি দেয় না। বরং এর ধার ফেরে নিজের দিকে। যে পাঠক বুকে সুস্পষ্ট নিদর্শন বহন করেন, প্রশ্নটা তাঁরই সামনে: যা তিনি জানেন, তাকে কি সম্মান দিয়েছেন, নাকি নীরবে ফিরিয়ে দিয়েছেন?"
+          }
+        ]
+      }
+    ]
+  },
   "29:52": {
     "sections": [
       {
