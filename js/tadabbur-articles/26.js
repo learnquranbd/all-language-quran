@@ -8183,6 +8183,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:182": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words Turned to the Pan",
+          "bn": "তিন শব্দ, পাল্লার দিকে"
+        },
+        "p": [
+          {
+            "en": "Wa-zinu bil-qistasi al-mustaqim: and weigh with the straight balance. The verse is three Arabic words, one command and one instrument, and it is spoken into a marketplace. Shuʿayb (AS) gives it to the people of the thicket in the middle of his appeal to them, as the second of two commands about trade. The verse before it told them to give the measure in full; this one turns from the measuring vessel to the scale. The verb zinu, from the root w-z-n, is plural: it addresses the whole people, not one dishonest dealer.",
+            "bn": "ওয়া যিনূ বিল-কিসতাসিল মুসতাকীম: আর সঠিক দাঁড়িপাল্লায় ওজন করো। আরবিতে আয়াতটি মাত্র তিনটি শব্দের। একটি আদেশ, একটি যন্ত্র, আর কথাটা বলা হচ্ছে বাজারের ভেতরে দাঁড়িয়ে। আইকাবাসীদের কাছে শু‘আয়ব (আঃ) যে দাওয়াত দিচ্ছিলেন, তার মাঝখানে এ আদেশ আসে, ব্যবসা নিয়ে দুটি আদেশের দ্বিতীয়টি হয়ে। আগের আয়াতে তিনি বলেছিলেন মাপ পুরো করে দিতে। এবার পাত্র ছেড়ে তাঁর কথা দাঁড়িপাল্লা নিয়ে। যিনূ ক্রিয়াটি এসেছে ও-য-ন ধাতু থেকে, আর তা বহুবচন। অর্থাৎ ডাকটা গোটা জাতির প্রতি, কোনো একজন অসৎ ব্যবসায়ীর প্রতি নয়।"
+          },
+          {
+            "en": "Why the command was needed, the commentators state in a clause. Al-Muyassar, glossing this verse and the next together, opens with the circumstance: Shuʿayb said this to them while they used to reduce the measure and the balance. As-Sa'di, on 26:181, sets the same habit beside their worship: along with their shirk, they used to short the measures and the scales. Idolatry and cheating are named in one breath, and the prophet sent to them addressed both, first the Lord they owed and then the neighbour they were robbing.",
+            "bn": "আদেশটার দরকার কেন পড়ল, তাফসীরকারেরা তা এক বাক্যেই বলে দেন। মুয়াসসার এ আয়াত আর পরেরটি একসঙ্গে ব্যাখ্যা করেছে, আর শুরুতেই পরিস্থিতিটা জানিয়ে দিয়েছে: শু‘আয়ব (আঃ) তাদের এ কথা বলেছিলেন এমন অবস্থায়, যখন তারা মাপে ও ওজনে কম দিত। সা'দী ২৬:১৮১ আয়াতের আলোচনায় একই অভ্যাসকে তাদের ইবাদতের পাশে রেখেছেন: শিরকের পাশাপাশি তারা মাপ আর দাঁড়িপাল্লায় কম দিত। শিরক আর ঠকানো, দুটোর নাম এসেছে একসঙ্গে। তাদের কাছে পাঠানো নবী দুটোরই জবাব দিয়েছেন। আগে সেই রবের কথা, যাঁর হক তাদের উপর। তারপর সেই প্রতিবেশীর কথা, যার হক তারা লুট করছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Give as You Would Take",
+          "bn": "যেমন নেন, তেমন দিন"
+        },
+        "p": [
+          {
+            "en": "The verse is best heard as the second half of a pair. Ibn Kathir, on 26:181, says Allah commands them to give full the measure and the balance, and forbids them tatfif, the skimming, in both. When you hand goods to people, he explains, complete the measure for them; do not give it short and then take it complete and full when it is yours to receive. He closes with a rule that fits both verses: take as you give, and give as you take. Read in that light, 26:182 carries the balance half of one instruction.",
+            "bn": "আয়াতটি ভালো বোঝা যায় জোড়ার দ্বিতীয় অর্ধেক হিসেবে পড়লে। ইবন কাসীর ২৬:১৮১ আয়াতের আলোচনায় বলেন, আল্লাহ তাদের আদেশ দিচ্ছেন মাপ আর ওজন দুটোই পুরো করে দিতে, আর দুটোতেই তাতফীফ, মানে কেটে-ছেঁটে কম দেওয়া, নিষেধ করছেন। তাঁর ব্যাখ্যা: মানুষকে যখন মাল বুঝিয়ে দেবেন, মাপ পুরো করে দিন। কম দিয়ে আবার নিজের পাওনার বেলায় পুরোপুরি বুঝে নেবেন না। শেষে তিনি একটা নিয়ম বলে দেন, যা দুটো আয়াতেই খাটে: যেমন দেন তেমন নিন, যেমন নেন তেমন দিন। এভাবে পড়লে বোঝা যায়, একই নির্দেশের দাঁড়িপাল্লার অংশটুকু বহন করছে ২৬:১৮২।"
+          },
+          {
+            "en": "The other commentators confirm that the pair belongs together. At-Tabari glosses 26:181 as give people their rights of the measure, and al-mukhsirin as those who reduce people their rights. Al-Baghawi defines the same word as those who diminish people's rights by measure and by weight, and al-Qurtubi as those who reduce the measure and the weight. So even the verse about measuring already reaches the scale in their reading. Between the two commands, everything sold by volume and everything sold by weight is covered, and nothing in the market is left outside the rule.",
+            "bn": "জোড়াটা যে একসঙ্গেই পড়ার, অন্য তাফসীরকারেরাও তা নিশ্চিত করেন। তাবারী ২৬:১৮১-এর অর্থ করেন: মানুষকে মাপে তাদের হক পুরো দাও। আর আল-মুখসিরীন বলতে বোঝান তাদের, যারা মানুষের হক কমিয়ে দেয়। বাগাভীর সংজ্ঞায় তারা মাপে ও ওজনে মানুষের হক কমিয়ে দেয়। কুরতুবী বলেন, যারা মাপ আর ওজন কমায়। অর্থাৎ তাঁদের পাঠে মাপের আয়াতটিও দাঁড়িপাল্লা পর্যন্ত পৌঁছে যায়। দুই আদেশ মিলে পাত্রে মেপে যা বিক্রি হয় আর পাল্লায় ওজন করে যা বিক্রি হয়, সবই ধরা পড়ে। বাজারের কোনো কিছু নিয়মের বাইরে থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Object, or a Quality",
+          "bn": "যন্ত্র, নাকি ন্যায়"
+        },
+        "p": [
+          {
+            "en": "What is the qistas? Ibn Kathir, on this verse, gives two kinds of answer in a few lines. One names an object: the qistas is the mizan, the balance, and it has been said that it is the qabban, the steelyard. The other names a quality. Mujahid said al-qistas al-mustaqim is justice, in the Roman tongue, and Qatada said the qistas is justice. Ibn Kathir also records that some said the word was taken into Arabic from the language of the Romans. He lists these views side by side and does not choose among them.",
+            "bn": "কিসতাস জিনিসটা কী? ইবন কাসীর এ আয়াতের আলোচনায় অল্প কয়েক লাইনে দুই ধরনের জবাব দেন। একটি জবাব একটা যন্ত্রের নাম বলে: কিসতাস হলো মীযান, মানে দাঁড়িপাল্লা। আবার বলা হয়েছে, তা কাব্বান, অর্থাৎ দণ্ড-পাল্লা। অন্য জবাবটি একটা গুণের নাম বলে। মুজাহিদ বলেছেন, আল-কিসতাসুল মুসতাকীম মানে ন্যায়, রোমানদের ভাষায়। কাতাদা বলেছেন, কিসতাস মানে ন্যায়। ইবন কাসীর এটাও উল্লেখ করেন যে কেউ কেউ বলেছেন, শব্দটি রোমানদের ভাষা থেকে আরবিতে এসেছে। মতগুলো তিনি পাশাপাশি রেখে দিয়েছেন, কোনোটিকে বেছে নেননি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an keeps the question of origin open as well. Some scholars, it says, held qistas to be a Roman word meaning justice, while others took it as Arabic, derived from qist, which is also used for justice. The two positions are reported here as a disagreement, without a verdict. Al-Qurtubi gives only a short gloss on this verse and says the matter was already treated in Surat Subhan. That fuller discussion sits under 17:35, which carries the near-identical command, and it is not retold here.",
+            "bn": "শব্দটি কোথা থেকে এসেছে, মাআরিফুল কুরআনও সে প্রশ্ন খোলা রেখেছে। সেখানে বলা হয়েছে, কিছু আলেম কিসতাসকে রোমান শব্দ মনে করেছেন, যার অর্থ ন্যায়। আবার কেউ একে আরবি শব্দ ধরেছেন, যা এসেছে কিসত থেকে, আর কিসতও ন্যায় অর্থেই ব্যবহৃত হয়। দুটি মতকে এখানে মতভেদ হিসেবেই রাখা হলো, কোনো রায় ছাড়া। কুরতুবী এ আয়াতে ছোট্ট একটা ব্যাখ্যা দিয়েই থেমেছেন, আর বলেছেন বিষয়টি সূরা সুবহানে আগেই আলোচিত হয়েছে। সেই বিস্তারিত আলোচনা আছে ১৭:৩৫ আয়াতের অধীনে, যেখানে প্রায় একই আদেশ এসেছে। এখানে তার পুনরাবৃত্তি করা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Straight Toward the Buyer",
+          "bn": "ক্রেতার দিকে সোজা"
+        },
+        "p": [
+          {
+            "en": "Then the adjective: al-mustaqim, straight. At-Tabari explains the verse as weigh with the balance, al-mustaqim, the balance in which there is no bakhs, no shortchanging, against the person for whom you weigh. He defines straightness by its effect on whoever stands across the counter. As-Sa'di describes the instrument itself: the just balance, a balance that does not lean. Al-Muyassar joins the two words, weigh with the just and straight balance. In all three, a scale is straight when the person on the other side comes away with exactly what was owed.",
+            "bn": "তারপর বিশেষণটি: আল-মুসতাকীম, সোজা। তাবারী আয়াতের ব্যাখ্যা দেন এভাবে: দাঁড়িপাল্লায় ওজন করো, আর মুসতাকীম মানে এমন পাল্লা, যাতে যার জন্য ওজন করছ তার বিরুদ্ধে কোনো বাখস, মানে কম দেওয়া, নেই। সোজা হওয়ার সংজ্ঞাটা তিনি টানেন দোকানের ওপাশে দাঁড়ানো মানুষটির দিক থেকে। সা'দী বর্ণনা করেন যন্ত্রটিকেই: ন্যায্য দাঁড়িপাল্লা, যা কোনো দিকে হেলে না। মুয়াসসার দুটি শব্দ জুড়ে দেয়: ন্যায্য, সোজা পাল্লায় ওজন করো। তিনটি ব্যাখ্যাতেই পাল্লা সোজা তখনই, যখন ওপাশের মানুষটি ঠিক তার পাওনাটুকু নিয়ে ফেরে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an moves the straightness into the hand. The verse, it says, means making use of the scale and the other measuring tools in a straight and correct manner, where there is no possibility of weighing less. The emphasis differs, though nothing here is a disagreement. As-Sa'di speaks of a beam that does not lean, Ma'arif of the way it is used, and at-Tabari of the buyer who must not lose. A true beam can still cheat in a crooked hand, and an honest hand still cheats with a bent beam. The command asks for both.",
+            "bn": "মাআরিফুল কুরআন সোজা হওয়ার ব্যাপারটা নিয়ে যায় হাতের কাছে। তাদের ব্যাখ্যায় আয়াতের অর্থ: দাঁড়িপাল্লা আর অন্য মাপার যন্ত্র সোজা ও সঠিকভাবে ব্যবহার করা, যাতে কম ওজনের কোনো সুযোগই না থাকে। জোরটা একেক জায়গায় পড়েছে, তবে এখানে কোনো মতভেদ নেই। সা'দীর কথা এমন দণ্ড নিয়ে, যা হেলে না। মাআরিফুলের কথা তার ব্যবহার নিয়ে। আর তাবারীর কথা সেই ক্রেতাকে নিয়ে, যার কোনো ক্ষতি হওয়া চলবে না। খাঁটি পাল্লাও বাঁকা হাতে পড়লে ঠকায়। আবার সৎ হাতও বাঁকা পাল্লা দিয়ে ঠকিয়ে ফেলে। আদেশটা দুটোই সোজা চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Scale Holds a Right",
+          "bn": "পাল্লায় থাকে অন্যের হক"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's whole gloss on this verse is two words: a'tu al-haqq, give the right. He does not describe the beam or debate the word here. He says what weighing is for. What sits in the pan, once the price is agreed, already belongs to someone else, and the scale is how that right is handed over. At-Tabari's language on 26:181 points the same way, since he speaks of giving people their rights, huquq, of the measure, and of those who reduce people their rights. The trade is a transfer of what is owed.",
+            "bn": "এ আয়াতে কুরতুবীর পুরো ব্যাখ্যা মাত্র দুই শব্দের: আ‘তুল হাক্ক, হক বুঝিয়ে দাও। দণ্ডের বর্ণনা বা শব্দ নিয়ে তর্ক তিনি এখানে করেননি। তিনি বলেছেন ওজন করাটা কিসের জন্য। দাম ঠিক হয়ে যাওয়ার পর পাল্লায় যা রাখা হয়, তা আগেই অন্য কারও হয়ে গেছে। পাল্লা হলো সেই হক তার হাতে তুলে দেওয়ার উপায়। ২৬:১৮১ আয়াতে তাবারীর ভাষাও একই দিকে ইশারা করে। তিনি বলেন মাপে মানুষের হুকূক, মানে হক, পুরো দেওয়ার কথা, আর তাদের কথা, যারা মানুষের হক কমিয়ে দেয়। লেনদেন মানে পাওনা জিনিস তার মালিকের কাছে পৌঁছে দেওয়া।"
+          },
+          {
+            "en": "Al-Muyassar carries the same word of rights into the next verse. Glossing 26:182 and 26:183 together, it says: weigh with the just, straight balance, and do not reduce people anything of their rights, in measure, in weight, or in anything else. The scale is the plainest case of a principle that does not stop at the scale. How 26:183 widens it, to people's things and to corruption in the land, is treated under that verse and is only pointed to here. The command at 26:182 stays with the pan, and asks that nothing be lost there.",
+            "bn": "অধিকারের এই কথাটাকেই মুয়াসসার পরের আয়াতে টেনে নিয়ে যায়। ২৬:১৮২ আর ২৬:১৮৩ একসঙ্গে ব্যাখ্যা করে সেখানে বলা হয়েছে: ন্যায্য, সোজা পাল্লায় ওজন করো, আর মাপে, ওজনে বা অন্য যেকোনো কিছুতে মানুষের হক থেকে একটুও কমিয়ো না। দাঁড়িপাল্লা হলো এমন এক নীতির সবচেয়ে সহজ উদাহরণ, যা পাল্লাতেই থেমে থাকে না। মানুষের জিনিসপত্র আর পৃথিবীতে বিশৃঙ্খলা পর্যন্ত ২৬:১৮৩ কীভাবে কথাটাকে ছড়িয়ে দেয়, তা সেই আয়াতের আলোচনায় আছে। এখানে শুধু সেদিকে ইশারা করা হলো। ২৬:১৮২-এর আদেশ পাল্লার কাছেই থাকে, আর চায় সেখানে যেন কিছুই হারিয়ে না যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear of Allah on Both Sides",
+          "bn": "দুই পাশেই আল্লাহর ভয়"
+        },
+        "p": [
+          {
+            "en": "Look at where the scale stands in the speech. Shuʿayb (AS) opens with a question in 26:177, will you not have taqwa? He repeats it as a command in 26:179, so fear Allah and obey me. Only then come the three verses on measure, weight and people's things. Straight after them, 26:184 returns to the same word: and fear Him who created you and the generations before. Ibn Kathir says that here Shuʿayb is warning them of the punishment of Allah, who created them and created their forefathers. Taqwa stands on both sides of the trade.",
+            "bn": "দাওয়াতের ভেতরে দাঁড়িপাল্লার জায়গাটা খেয়াল করুন। ২৬:১৭৭ আয়াতে শু‘আয়ব (আঃ) শুরু করেন এক প্রশ্ন দিয়ে: তোমরা কি তাকওয়া অবলম্বন করবে না? ২৬:১৭৯ আয়াতে সে কথাই আসে আদেশ হয়ে: কাজেই আল্লাহকে ভয় করো আর আমার আনুগত্য করো। এরপরই মাপ, ওজন আর মানুষের জিনিসপত্র নিয়ে তিনটি আয়াত। তার ঠিক পরে ২৬:১৮৪ আবার সেই শব্দে ফেরে: আর ভয় করো তাঁকে, যিনি তোমাদের আর আগের প্রজন্মগুলোকে সৃষ্টি করেছেন। ইবন কাসীর বলেন, এখানে শু‘আয়ব (আঃ) তাদের সেই আল্লাহর শাস্তির ভয় দেখাচ্ছেন, যিনি তাদের আর তাদের পূর্বপুরুষদের সৃষ্টি করেছেন। ব্যবসার আগে-পরে দুই দিকেই দাঁড়িয়ে আছে তাকওয়া।"
+          },
+          {
+            "en": "Another verse sits just before the scale. In 26:180 Shuʿayb (AS) tells them he asks no payment for his message; his reward rests only with the Lord of the worlds. The man who wanted nothing from their market is the man who told them to stop taking from it what was not theirs. That order is part of the lesson. The appeal does not begin with prices. It begins with whom they fear, and with a messenger who has nothing to gain, and only then reaches the hand on the beam. Honest weight, in this speech, grows out of taqwa.",
+            "bn": "দাঁড়িপাল্লার ঠিক আগে আরেকটি আয়াত আছে। ২৬:১৮০ আয়াতে শু‘আয়ব (আঃ) জানান, এ বার্তার জন্য তিনি তাদের কাছে কোনো পারিশ্রমিক চান না। তাঁর প্রতিদান কেবল জগতসমূহের রবের কাছে। তাদের বাজার থেকে যে মানুষটির কিছুই চাওয়ার ছিল না, তিনিই তাদের বললেন, যা তোমাদের নয় তা নেওয়া বন্ধ করো। ক্রমটাও শিক্ষার অংশ। দাওয়াত দামদর দিয়ে শুরু হয়নি। শুরু হয়েছে তারা কাকে ভয় করে সেই প্রশ্ন দিয়ে, আর এমন এক রাসূলকে দিয়ে, যাঁর নিজের কোনো লাভ নেই। তারপরই কথা পৌঁছেছে পাল্লার দণ্ডে রাখা হাত পর্যন্ত। এ দাওয়াতে সৎ ওজনের শিকড় তাকওয়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weigh, Then Tip It Further",
+          "bn": "ওজন করো, একটু বেশিও দাও"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs consulted for this verse attaches a hadith to it. One narration bears on its theme, though it is not tied to the verse. At-Tirmidhi records (1305) from Suwaid bin Qais: \"Makhrafah Al-'Abdi and I brought linens from Hajar. The Prophet ﷺ came to us in bargain with us with some pants. There was someone with me who weighed (the goods) to determine the value. So the Prophet ﷺ said to the one weighing: 'Weigh and add more.'\" The Arabic of the command is two words: zin wa-arjih.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি বর্ণনা এর বিষয়ের সঙ্গে মেলে, যদিও তা এ আয়াতের সঙ্গে বাঁধা নয়। তিরমিযী (১৩০৫) সুওয়াইদ ইবন কাইস থেকে বর্ণনা করেছেন: \"আমি আর মাখরাফা আল-আবদী হাজার থেকে কাপড় নিয়ে এসেছিলাম। নবী ﷺ আমাদের কাছে এসে কয়েকটি পায়জামার দরদাম করলেন। আমার সঙ্গে একজন লোক ছিল, যে দাম ঠিক করার জন্য জিনিস ওজন করত। নবী ﷺ ওজনকারীকে বললেন: 'ওজন করো, আর একটু বেশি দাও।'\" আরবিতে আদেশটি মাত্র দুই শব্দের: যিন ওয়া আরজিহ।"
+          },
+          {
+            "en": "At-Tirmidhi grades the hadith of Suwaid hasan sahih, and adds that the people of knowledge consider it recommended to give more when weighing. Set beside the verse, the narration shows two levels. The Qur'anic command fixes the floor: the beam must hang true, and the person weighed for may not lose a grain. The Prophet's ﷺ word to the weigher shows what lies above that floor, a pan let down a little in favour of whoever is receiving. Straight is the duty that Shuʿayb (AS) laid on his people; a little more is the generosity the hadith commends.",
+            "bn": "তিরমিযী সুওয়াইদের এ হাদীসকে হাসান সহীহ বলেছেন। সঙ্গে জানিয়েছেন, আলেমগণ ওজন করার সময় একটু বেশি দেওয়াকে মুস্তাহাব মনে করেন। আয়াতের পাশে রাখলে হাদীসটি দুটি স্তর দেখায়। কুরআনের আদেশ ঠিক করে দেয় সর্বনিম্ন সীমা: দণ্ড সোজা ঝুলবে, যার জন্য ওজন করা হচ্ছে সে এক দানাও হারাবে না। ওজনকারীকে নবী ﷺ-এর কথা দেখায় সেই সীমার উপরে কী আছে: যে নিচ্ছে, তার দিকে পাল্লা একটু নামিয়ে দেওয়া। সোজা ওজন হলো সেই দায়িত্ব, যা শু‘আয়ব (আঃ) তাঁর জাতির উপর রেখেছিলেন। আর একটু বেশি দেওয়া হলো সেই উদারতা, যার প্রশংসা হাদীসে এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Scale, Other Surahs",
+          "bn": "একই পাল্লা, অন্য সূরায়"
+        },
+        "p": [
+          {
+            "en": "The command is not confined to this surah, and here it is only pointed to elsewhere. Shuʿayb's charge to Madyan about measure and balance also appears in 7:85 and in 11:84 and 11:85. The same two phrases, give full measure and weigh with the straight qistas, return in 17:35 as a command to the believers. In 55:9 the balance itself is to be set up with justice and not made short. And 83:1 to 83:3 pictures the reverse habit, those who take full measure for themselves and give short to others. Each of those verses has its own discussion.",
+            "bn": "আদেশটি শুধু এ সূরায় সীমাবদ্ধ নয়, আর এখানে অন্য জায়গাগুলোর দিকে শুধু ইশারা করা হচ্ছে। মাপ আর দাঁড়িপাল্লা নিয়ে মাদইয়ানবাসীর প্রতি শু‘আয়ব (আঃ)-এর নির্দেশ ৭:৮৫ আয়াতেও আছে, আছে ১১:৮৪ ও ১১:৮৫ আয়াতে। মাপ পুরো করো আর সোজা কিসতাসে ওজন করো, এই দুটি কথাই ১৭:৩৫ আয়াতে ফিরে আসে মুমিনদের প্রতি আদেশ হয়ে। ৫৫:৯ আয়াতে বলা হয়েছে ন্যায়ের সঙ্গে ওজন ঠিক রাখতে আর পাল্লায় কম না দিতে। আর ৮৩:১ থেকে ৮৩:৩ আয়াতে উল্টো অভ্যাসের ছবি: নিজের বেলায় পুরো মেপে নেয়, অন্যের বেলায় কম দেয়। এসব আয়াতের প্রতিটির আলোচনা তার নিজের জায়গায়।"
+          },
+          {
+            "en": "What the repetition shows can be said briefly. A command given to one people at one moment of history is given again, in almost the same words, to the community of the Prophet ﷺ. The qistas is not an object left behind in the ruins of a destroyed town. It moves from Shuʿayb's market into every later market, and from the merchant's counter into every place where one person hands another what is owed. A verse spoken to the people of the thicket is, through 17:35, also spoken to us.",
+            "bn": "এই পুনরাবৃত্তি কী দেখায়, তা অল্প কথায় বলা যায়। ইতিহাসের এক মুহূর্তে এক জাতিকে যে আদেশ দেওয়া হয়েছিল, প্রায় একই শব্দে তা আবার দেওয়া হয়েছে নবী ﷺ-এর উম্মতকে। কিসতাস কোনো ধ্বংস হয়ে যাওয়া জনপদের ধ্বংসাবশেষে পড়ে থাকা জিনিস নয়। শু‘আয়ব (আঃ)-এর বাজার থেকে তা পৌঁছে যায় পরের প্রতিটি বাজারে। ব্যবসায়ীর দোকান থেকে পৌঁছে যায় এমন প্রতিটি জায়গায়, যেখানে একজন আরেকজনের হাতে তার পাওনা তুলে দেয়। আইকাবাসীদের উদ্দেশে বলা আয়াত, ১৭:৩৫-এর মাধ্যমে, আমাদের উদ্দেশেও বলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Charge Against Any Trader",
+          "bn": "কোনো ব্যবসায়ীর বিরুদ্ধে অভিযোগ নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The people Shuʿayb (AS) addressed went on to deny him, and 26:189 records that the punishment of the day of the canopy seized them. The verse describes what the text describes: a command given to that people, and their refusal of it. It licenses nothing against traders as a class, against shopkeepers or market people, or against any living community or nation, and it is no ground for suspecting the people one buys from. What it carries across the centuries is the command itself, addressed first to the one who holds the scale.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। শু‘আয়ব (আঃ) যে জাতিকে ডেকেছিলেন, তারা তাঁকে মিথ্যাবাদী বলেছিল। ২৬:১৮৯ আয়াত জানায়, মেঘাচ্ছন্ন দিনের শাস্তি তাদের পাকড়াও করেছিল। আয়াতটি বর্ণনা করে কেবল ততটুকু, যতটুকু পাঠে আছে: সেই জাতিকে দেওয়া একটি আদেশ, আর তাদের তা প্রত্যাখ্যান। ব্যবসায়ীদের গোটা শ্রেণির বিরুদ্ধে, দোকানদার বা বাজারের মানুষের বিরুদ্ধে, কিংবা আজকের কোনো জীবিত সম্প্রদায় বা জাতির বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। যাদের কাছ থেকে আমরা কিনি, তাদের সন্দেহ করার ভিত্তিও এটা নয়। শতাব্দী পেরিয়ে যা পৌঁছায়, তা আদেশটাই, আর তা প্রথমে তার প্রতি, যার হাতে পাল্লা।"
+          },
+          {
+            "en": "Few readers keep a rigged balance, yet everyone holds a scale of some kind. It is the kitchen scale behind a shop counter, and the hours entered on a timesheet. It is the marks given to a student, the figures in a report, the share split between partners, the wage handed to a worker. In each, the hand that holds the beam knows whether it hangs straight. The verse asks a quiet question of that hand: when the difference would favour you and no one would ever see it, does your scale still hang true?",
+            "bn": "কারচুপির দাঁড়িপাল্লা খুব কম মানুষই রাখেন, অথচ সবার হাতেই কোনো না কোনো পাল্লা আছে। দোকানের কাউন্টারের ওজন-যন্ত্রটা যেমন, তেমনি টাইমশিটে লেখা কাজের ঘণ্টাও। ছাত্রকে দেওয়া নম্বর, রিপোর্টের হিসাব, অংশীদারদের মধ্যে ভাগ, শ্রমিকের হাতে তুলে দেওয়া মজুরি, সবই পাল্লা। প্রতিটিতে যে হাত দণ্ড ধরে আছে, সে জানে পাল্লা সোজা ঝুলছে কি না। আয়াতটি সেই হাতকে চুপচাপ একটা প্রশ্ন করে: তফাতটা যখন আপনার লাভে যাবে আর কেউ কোনোদিন টেরও পাবে না, তখনও কি আপনার পাল্লা সোজা থাকে?"
+          }
+        ]
+      }
+    ]
+  },
   "26:183": {
     "sections": [
       {

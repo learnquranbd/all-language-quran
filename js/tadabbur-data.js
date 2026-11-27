@@ -35517,6 +35517,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The return they beg for in the Fire is the life you are living now. Believe and act today, while the turn is still yours.",
     "lessonBn": "আগুনের ভেতরে তারা যে ফিরে আসার জন্য কাকুতি করে, সেটাই আপনার আজকের এই জীবন। সুযোগ হাতে থাকতেই আজ ঈমান আনুন, আমল করুন।"
+  },
+  "26:182": {
+    "reflectionEn": "The command is three words long: weigh with the straight balance. Shuʿayb gave it to a people who traded every day and had learned to tip the pan a little in their own favour. He had just told them to fill the measure; now he turned to the scale. Nothing in the words is hard to grasp. A balance either hangs true or it does not, and the hand that holds it knows which. What makes the command hard is how easily the small lean is excused: a fraction, a rounding, a moment nobody saw. Each of us holds some kind of scale, in what we sell, report, pay and claim. Does mine hang straight when the difference would favour me?",
+    "reflectionBn": "আদেশটা মাত্র তিন শব্দের: সঠিক দাঁড়িপাল্লায় ওজন করো। শু‘আয়ব (আঃ) এ কথা বলেছিলেন এমন এক জাতিকে, যারা রোজ বেচাকেনা করত আর পাল্লাটা একটু নিজের দিকে হেলিয়ে দিতে শিখে গিয়েছিল। এর ঠিক আগে তিনি বলেছিলেন মাপ পুরো করে দিতে। এবার তাঁর কথা দাঁড়িপাল্লা নিয়ে। কথাগুলোতে বোঝার মতো কঠিন কিছু নেই। পাল্লা হয় সোজা ঝোলে, নয় ঝোলে না। আর যে হাত পাল্লা ধরে আছে, সে ঠিকই জানে কোনটা হচ্ছে। কঠিন হলো ছোট্ট হেলে পড়াটাকে সহজে মাফ করে দেওয়ার অভ্যাস: সামান্য একটু, একটু গোল করে ধরা, এমন এক মুহূর্ত যা কেউ দেখেনি। আমাদের প্রত্যেকের হাতেই কোনো না কোনো পাল্লা আছে। যা বেচি, যা জানাই, যা দিই, যা দাবি করি, সবখানেই। যখন তফাতটা আমার লাভে যায়, তখনও কি আমার পাল্লা সোজা থাকে?",
+    "pointsEn": [
+      "Which scale do I hold every day, in money, time, marks or words, and does it lean when no one is watching?",
+      "When a rounding goes my way, do I notice it as quickly as when it goes against me?",
+      "Do I weigh for others exactly as I would want them to weigh for me?",
+      "Is there a fraction I have learned to excuse because it seems too small to matter to anyone but me?",
+      "When did I last give a little more than was owed, simply because I could?"
+    ],
+    "pointsBn": [
+      "প্রতিদিন কোন পাল্লাটা আমার হাতে থাকে, টাকায়, সময়ে, নম্বরে বা কথায়? কেউ না দেখলে সেটা কি হেলে যায়?",
+      "হিসাব গোল করতে গিয়ে তফাতটা আমার পক্ষে গেলে কি ততটাই তাড়াতাড়ি চোখে পড়ে, যতটা বিপক্ষে গেলে পড়ে?",
+      "অন্যের জন্য আমি কি ঠিক সেভাবেই মাপি, যেভাবে চাই তারা আমার জন্য মাপুক?",
+      "এমন কোনো সামান্য অংশ কি আছে, যাকে আমি মাফ করে দিতে শিখেছি, কারণ মনে হয় আমি ছাড়া আর কারও কাছে তার কোনো দাম নেই?",
+      "শেষ কবে পাওনার চেয়ে একটু বেশি দিয়েছি, শুধু এজন্য যে দিতে পারতাম?"
+    ],
+    "lessonEn": "Keep your scale straight in every dealing, weigh for others as you would want to be weighed for, and do not let a small lean in your favour pass as nothing.",
+    "lessonBn": "প্রতিটি লেনদেনে নিজের পাল্লা সোজা রাখুন, অন্যের জন্য সেভাবেই মাপুন যেভাবে চান আপনার জন্য মাপা হোক, আর নিজের দিকে সামান্য হেলে পড়াকেও তুচ্ছ ভেবে ছেড়ে দেবেন না।"
   }
 };
 
