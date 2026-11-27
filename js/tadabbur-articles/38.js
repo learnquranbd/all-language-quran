@@ -3743,6 +3743,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "38:79": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Plea Under Sentence",
+          "bn": "দণ্ডের মুখে এক আর্জি"
+        },
+        "p": [
+          {
+            "en": "Qala rabbi fa-anzirni ila yawmi yub'athun: he said, my Lord, then grant me respite until the Day they are raised. The verse is six words in Arabic. Before it, in 38:77 and 38:78, Iblis is ordered out and cursed until the Day of Recompense; the articles on those verses cover the expulsion and the curse. After it, in 38:80 and 38:81, comes the reply. This verse is the plea in between.",
+            "bn": "কালা রব্বি ফাআনযিরনী ইলা ইয়াওমি ইউবআসূন: সে বলল, হে আমার রব, তাহলে পুনরুত্থানের দিন পর্যন্ত আমাকে অবকাশ দিন। আরবিতে আয়াতটি ছয়টি শব্দের। ঠিক আগে, ৩৮:৭৭ ও ৩৮:৭৮ আয়াতে, ইবলিসকে বেরিয়ে যেতে বলা হয়েছে আর বিচার দিবস পর্যন্ত তার উপর অভিশাপ ঘোষণা করা হয়েছে। বহিষ্কার আর অভিশাপের আলোচনা ওই দুই আয়াতের প্রবন্ধে আছে। ঠিক পরে, ৩৮:৮০ ও ৩৮:৮১ আয়াতে, আসে উত্তর। মাঝখানের আর্জিটুকুই এ আয়াত।"
+          },
+          {
+            "en": "The same exchange appears briefly in 7:14 and 7:15, and in 15:36 to 15:38 in nearly the same words; those passages are cited here only as parallels. The commentaries fetched for this verse are short. At-Tabari, al-Qurtubi, as-Sa'di and the Muyassar give it a line or two each, and al-Baghawi quotes it without comment. Where a commentator points back to his fuller remarks on a parallel, this article follows him there and says so.",
+            "bn": "একই কথোপকথন সংক্ষেপে আছে ৭:১৪ ও ৭:১৫ আয়াতে, আর প্রায় হুবহু এই শব্দে ১৫:৩৬ থেকে ১৫:৩৮ আয়াতে। সেগুলো এখানে কেবল সমান্তরাল আয়াত হিসেবে উল্লেখ করা হলো। এ আয়াতের জন্য আনা তাফসীরগুলো ছোট। তাবারী, কুরতুবী, সা'দী আর মুয়াসসার এক-দুই লাইনে কথা সেরেছেন, আর বাগাভী ব্যাখ্যা ছাড়াই শুধু আয়াতটি উদ্ধৃত করেছেন। কোনো মুফাসসির সমান্তরাল আয়াতে দেওয়া নিজের বিস্তারিত আলোচনার দিকে ইঙ্গিত করলে এ প্রবন্ধ সেখানে গেছে, আর তা জানিয়েই গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Postpone Me, Do Not Destroy Me",
+          "bn": "পিছিয়ে দিন, ধ্বংস করবেন না"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the fa, then, as tying the request to what had just happened. In his paraphrase Iblis says to his Lord: my Lord, since You have cursed me and driven me out of Your Garden, then grant me respite. On 15:36 his paraphrase has out of the heavens; here, on Sad, it is min jannatika, from Your Garden. Either way the plea rests on the punishment. In the verse itself Iblis neither disputes the sentence nor asks for it to be lifted. He takes it as settled and asks for something else.",
+            "bn": "তাবারী 'ফা', অর্থাৎ 'তাহলে', শব্দটিকে পড়েন এইমাত্র ঘটে যাওয়া ঘটনার সঙ্গে আর্জির যোগসূত্র হিসেবে। তাঁর ভাষ্যে ইবলিস তার রবকে বলছে: হে আমার রব, যেহেতু আপনি আমাকে অভিশাপ দিয়েছেন আর আপনার জান্নাত থেকে বের করে দিয়েছেন, তাহলে আমাকে অবকাশ দিন। ১৫:৩৬ আয়াতে তাঁর ভাষ্যে আছে আসমান থেকে বের করার কথা। এখানে, সূরা সোয়াদে, আছে 'মিন জান্নাতিকা', আপনার জান্নাত থেকে। যেভাবেই বলা হোক, আর্জির ভিত্তি সেই শাস্তি। আয়াতে ইবলিস দণ্ড নিয়ে তর্কও করে না, তা তুলে নিতেও বলে না। দণ্ডকে মেনে নিয়ে সে চায় অন্য কিছু।"
+          },
+          {
+            "en": "Then at-Tabari glosses the verb itself: fa-akhkhirni fi l-ajal wa-la tuhlikni, put back my term and do not destroy me. The Muyassar says nearly the same: delay my appointed end and do not destroy me until the time You raise creation from their graves. Both read the plea as being about the length of a life. In his comment on 7:14, at-Tabari adds that inzar in the speech of the Arabs means ta'khir, deferral, and gives the usage anzartuhu bi-haqqi 'alayh: I gave him time on what he owed me.",
+            "bn": "এরপর তাবারী ক্রিয়াটির অর্থ খুলে বলেন: 'ফাআখখিরনী ফিল আজাল ওয়া লা তুহলিকনী', আমার মেয়াদ পিছিয়ে দিন, আমাকে ধ্বংস করবেন না। মুয়াসসারের কথাও প্রায় এক: আমার নির্ধারিত সময় পিছিয়ে দিন, আর যখন আপনি সৃষ্টিকে কবর থেকে ওঠাবেন, তার আগে আমাকে ধ্বংস করবেন না। দুজনের কাছেই আর্জিটা আয়ুর দৈর্ঘ্য নিয়ে। ৭:১৪ আয়াতের আলোচনায় তাবারী যোগ করেন, আরবদের ভাষায় 'ইনযার' মানে 'তাখীর', অর্থাৎ পিছিয়ে দেওয়া। উদাহরণও দেন: 'আনযারতুহু বিহাক্কী আলাইহি', তার কাছে আমার যে পাওনা, তা আদায়ে আমি তাকে সময় দিলাম।"
+          },
+          {
+            "en": "The example at-Tabari chooses comes from ordinary dealings: a creditor allowing a debtor more time. The word sets back the day a thing falls due; it does not cancel what is due. That is the word Iblis uses of his own life. In so many words he does not ask to be spared an end. He asks for the end to be put back, and the verses that follow show how far.",
+            "bn": "তাবারীর উদাহরণটা দৈনন্দিন লেনদেনের: পাওনাদার দেনাদারকে শোধের সময় বাড়িয়ে দেয়। এই শব্দ পাওনার দিনটা পিছিয়ে দেয়, পাওনা মাফ করে না। নিজের জীবনের বেলায় ইবলিস এই শব্দটাই বেছে নেয়। সরাসরি কথায় সে শেষ থেকে রেহাই চায় না, চায় শেষটা পিছিয়ে যাক। কতদূর পেছাল, সামনের আয়াতগুলো তা দেখায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Day With No Death After",
+          "bn": "যে দিনের পরে মৃত্যু নেই"
+        },
+        "p": [
+          {
+            "en": "Why name that day in particular? Al-Qurtubi answers in a single line on this verse: arada al-mal'unu alla yamuta fa-lam yujab ila dhalik, the accursed wanted not to die, and that was not granted him. On 7:14 he sets out the reasoning. Iblis asked for respite and delay until the Day of Raising and Reckoning; talaba alla yamut, he sought not to die, because after the Day of Raising there is no death. To ask to last until that Day is to ask to step past death altogether.",
+            "bn": "ঠিক ওই দিনটাই কেন? কুরতুবী এ আয়াতে এক লাইনে উত্তর দেন: 'আরাদাল মালঊনু আল্লা ইয়ামূতা ফালাম ইউজাব ইলা যালিক', অভিশপ্তটা চেয়েছিল যেন তার মৃত্যু না হয়, কিন্তু সে আর্জি মঞ্জুর হয়নি। ৭:১৪ আয়াতে তিনি যুক্তিটা খুলে বলেন। ইবলিস পুনরুত্থান ও হিসাবের দিন পর্যন্ত অবকাশ আর বিলম্ব চেয়েছিল। 'তালাবা আল্লা ইয়ামূত', সে চেয়েছিল মৃত্যু যেন না আসে, কারণ পুনরুত্থানের দিনের পরে আর মৃত্যু নেই। ওই দিন পর্যন্ত টিকে থাকতে চাওয়া মানে মৃত্যুকেই পুরোপুরি ডিঙিয়ে যেতে চাওয়া।"
+          },
+          {
+            "en": "At-Tabari, on 7:14, says the same more sharply. He calls the request another of Iblis's foul ignorances: he asked for something he knew no creature of Allah can reach. Had he been given the respite he asked for, he would have been given immortality, since there is no death after the Raising. The answer instead ran to the day Allah had written for him death and perishing, because nothing remains unperishing except our Lord, the Living who does not die.",
+            "bn": "৭:১৪ আয়াতে তাবারী একই কথা বলেন আরও কড়া ভাষায়। তাঁর মতে এই আর্জি ইবলিসের জঘন্য মূর্খতাগুলোর আরেকটি: সে এমন জিনিস চেয়েছিল, যা আল্লাহর কোনো সৃষ্টির নাগালে নেই বলে সে নিজেই জানত। চাওয়া অবকাশ পুরোটা পেলে সে পেয়ে যেত অমরত্ব, কারণ পুনরুত্থানের পরে মৃত্যু নেই। কিন্তু উত্তর গেল সেই দিন পর্যন্ত, যেদিন আল্লাহ তার জন্য মৃত্যু আর বিনাশ লিখে রেখেছেন। কেননা আমাদের রব, চিরঞ্জীব যিনি কখনো মরবেন না, তিনি ছাড়া বিনাশহীন কিছুই নেই।"
+          },
+          {
+            "en": "He then cites kullu nafsin dha'iqatu l-mawt, every soul shall taste death (3:185), and lets that verse close the question. Read with these two commentators, the plea sounds like a request for a little delay, yet the day it names would have carried Iblis beyond death. As al-Qurtubi's comment on this verse records, that part of the plea was refused outright.",
+            "bn": "এরপর তাবারী উদ্ধৃত করেন 'কুল্লু নাফসিন যাইকাতুল মাওত', প্রত্যেক প্রাণকে মৃত্যুর স্বাদ নিতে হবে (৩:১৮৫), আর প্রশ্নের মীমাংসা এই আয়াতের হাতেই ছেড়ে দেন। এই দুই মুফাসসিরের চোখে পড়লে আর্জিটা শুনতে সামান্য বিলম্বের মতো, অথচ যে দিনের নাম সে নিল, সেটা মঞ্জুর হলে ইবলিস মৃত্যুর ওপারে চলে যেত। এ আয়াতে কুরতুবীর মন্তব্য যেমন জানায়, আর্জির এই অংশটা সোজাসুজি নাকচ হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Raising Did He Name?",
+          "bn": "কাদের পুনরুত্থানের দিন?"
+        },
+        "p": [
+          {
+            "en": "The verb yub'athun, they are raised, has a subject the verse never names. Al-Qurtubi notices this in his comment on the parallel at 7:14 and 7:15. No mention has come before, he writes, of those who are to be raised; but the story concerns Adam and his offspring, so the context shows that they are the ones meant. The same holds in Sad. From 38:71 the passage is about a human being made from clay, and the pronoun reaches back to him and to his line.",
+            "bn": "'ইউবআসূন', তাদেরকে ওঠানো হবে। কাদেরকে, আয়াত তা বলে না। সমান্তরাল আয়াত ৭:১৪ ও ৭:১৫-এর আলোচনায় কুরতুবী বিষয়টা লক্ষ করেছেন। তিনি লেখেন, কাদের ওঠানো হবে, তাদের কথা আগে কোথাও আসেনি। তবে কাহিনিটা আদম (আঃ) আর তাঁর সন্তানদের নিয়ে, তাই প্রসঙ্গই বলে দেয় যে তারাই উদ্দেশ্য। সূরা সোয়াদেও একই কথা খাটে। ৩৮:৭১ থেকে পুরো অংশটা মাটি থেকে বানানো এক মানুষকে নিয়ে, আর সর্বনামটা ফিরে যায় তাঁর ও তাঁর বংশধরদের দিকে।"
+          },
+          {
+            "en": "At-Tabari's paraphrase widens the word to all creation: the day You raise Your creation from their graves, and the Muyassar uses the same broad term, al-khalq. The readings do not collide; the day is the same, and the question is only whom the pronoun points to. Still, al-Qurtubi's reading brings something out. Iblis, just expelled because of Adam, marks the end of his request by the rising of Adam's children, as though the clock he wants runs on them.",
+            "bn": "তাবারীর ভাষ্যে শব্দটা গোটা সৃষ্টিকে ধরে: যেদিন আপনি আপনার সৃষ্টিকে কবর থেকে ওঠাবেন। মুয়াসসারও একই ব্যাপক শব্দ নেয়, 'আল-খালক'। এসব পড়ায় কোনো সংঘাত নেই। দিন একই, প্রশ্ন শুধু সর্বনামটা কার দিকে ইশারা করছে। তবু কুরতুবীর পড়া একটা জিনিস সামনে আনে। আদমের কারণেই ইবলিস সবে বিতাড়িত হয়েছে, আর নিজের আর্জির শেষ সীমা সে বাঁধছে আদমের সন্তানদের ওঠার দিন দিয়ে, যেন যে ঘড়িটা সে চায়, তা চলে তাদেরই হিসাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enmity Asking for Room",
+          "bn": "শত্রুতা চায় আরও সময়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di on this verse gives the motive rather than the meaning. Iblis asked, he writes, li-shiddati 'adawatihi li-Adama wa-dhurriyyatih, out of the intensity of his enmity for Adam and his offspring, li-yatamakkana min ighwa'i man qaddara Allahu an yughwiyah: so that he could manage to lead astray those whom Allah had decreed he would lead astray. On this reading the request was not for rest, and not for a chance to put things right. It was for room to work.",
+            "bn": "সা'দী এ আয়াতে অর্থের চেয়ে উদ্দেশ্যের কথা বলেন। তিনি লেখেন, ইবলিস অবকাশ চেয়েছিল 'লিশিদ্দাতি আদাওয়াতিহী লিআদামা ওয়া যুররিয়্যাতিহ', আদম (আঃ) ও তাঁর সন্তানদের প্রতি তীব্র শত্রুতা থেকে। আর চেয়েছিল 'লিইয়াতামাক্কানা মিন ইগওয়াই মান কাদ্দারাল্লাহু আন ইউগউইয়াহ', যাদেরকে সে বিপথে নেবে বলে আল্লাহ তাকদীরে রেখেছেন, তাদের বিপথে নেওয়ার সুযোগ যেন সে পায়। এই পড়ায় আর্জিটা বিশ্রামের জন্য নয়, ভুল শুধরে নেওয়ার সুযোগের জন্যও নয়। সে চেয়েছিল কাজ করার জায়গা।"
+          },
+          {
+            "en": "Two things in as-Sa'di's clause matter. The first is the aim of the enmity: it passes Adam and reaches his descendants, which fits the day Iblis chose to name. The second is the limit built into the same sentence. Iblis does not get to mislead whomever he pleases; he reaches only those Allah has decreed. What he says he will do with the time, in 38:82 and 38:83, is the subject of the article on 38:82 and is not retold here.",
+            "bn": "সা'দীর বাক্যে দুটি জিনিস গুরুত্বপূর্ণ। প্রথমটি শত্রুতার নিশানা। তা আদম (আঃ)-কে পেরিয়ে পৌঁছায় তাঁর বংশধরদের পর্যন্ত, আর ইবলিস যে দিনের নাম নিয়েছে, তার সঙ্গে এটা মেলে। দ্বিতীয়টি একই বাক্যে বসানো সীমা। ইবলিস যাকে খুশি তাকে বিপথে নিতে পারে না। তার নাগাল কেবল তাদের পর্যন্ত, যাদের কথা আল্লাহ তাকদীরে রেখেছেন। সময় পেয়ে সে কী করবে বলে ঘোষণা দিল, তা ৩৮:৮২ ও ৩৮:৮৩ আয়াতের বিষয়। ৩৮:৮২-এর প্রবন্ধে তার আলোচনা আছে, এখানে আর বলা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked One Day, Given Another",
+          "bn": "চাওয়া এক দিন, পাওয়া আরেক দিন"
+        },
+        "p": [
+          {
+            "en": "The answer comes in 38:80 and 38:81: you are among those given respite, until the Day of the known time. Was that the day he asked for? Most of the commentaries fetched say it was not. The Muyassar glosses the known time as the day of the first blast, when the creatures die. Al-Baghawi, on 38:81, says it in three words: wa-huwa n-nafkhatu l-ula, and it is the first blast. Al-Qurtubi, on 38:80 and 38:81, calls it the day on which creation dies.",
+            "bn": "উত্তর আসে ৩৮:৮০ ও ৩৮:৮১ আয়াতে: তুমি অবকাশপ্রাপ্তদের একজন, নির্ধারিত সময়ের দিন পর্যন্ত। সে যে দিন চেয়েছিল, এটা কি সেই দিন? এ আয়াতের জন্য আনা তাফসীরগুলোর বেশির ভাগ বলে, না। মুয়াসসারের ব্যাখ্যায় নির্ধারিত সময় হলো প্রথম ফুঁৎকারের দিন, যখন সব সৃষ্টি মারা যাবে। ৩৮:৮১ আয়াতে বাগাভী তিনটি শব্দে বলেন: 'ওয়া হুয়ান নাফখাতুল ঊলা', আর তা হলো প্রথম ফুঁৎকার। ৩৮:৮০ ও ৩৮:৮১ আয়াতে কুরতুবী একে বলেন সেই দিন, যেদিন সৃষ্টি মারা যাবে।"
+          },
+          {
+            "en": "At-Tabari, on 38:80, calls it the time Allah set as the term of Iblis's destruction, and notes that he has explained it earlier, the people of knowledge differing over it. There, on 7:15, he relays from as-Suddi: He did not reprieve him until the Day of Raising, but until the Day of the known time, when the first blast is blown on the Horn and all in the heavens and the earth swoon and die. At-Tabari's own paraphrase follows the same line.",
+            "bn": "৩৮:৮০ আয়াতে তাবারী একে বলেন সেই সময়, যা আল্লাহ ইবলিসের ধ্বংসের মেয়াদ হিসেবে ঠিক করেছেন। সঙ্গে জানান, বিষয়টা তিনি আগেই ব্যাখ্যা করেছেন, আর এ নিয়ে আলেমদের মতভেদ আছে। সেখানে, ৭:১৫ আয়াতে, তিনি সুদ্দী থেকে বর্ণনা আনেন: আল্লাহ তাকে পুনরুত্থানের দিন পর্যন্ত অবকাশ দেননি, দিয়েছেন নির্ধারিত সময়ের দিন পর্যন্ত। সেদিন শিঙায় প্রথম ফুঁৎকার দেওয়া হবে, আর আসমান ও জমিনে যারা আছে, সবাই বেহুঁশ হয়ে মারা যাবে। তাবারীর নিজের ব্যাখ্যাও একই পথে চলে।"
+          },
+          {
+            "en": "Al-Qurtubi, on 7:15, gives this view from Ibn Abbas (RA), as-Suddi and others, and adds what lay behind it. Iblis had asked for respite until the second blast, when people stand before the Lord of the worlds, and Allah refused him that. On this side, then, there are two blasts and two days. Iblis named the later, the day of rising after which no one dies; he was given the earlier, the day on which everyone dies, himself included.",
+            "bn": "৭:১৫ আয়াতে কুরতুবী এই মত আনেন ইবন আব্বাস (রাঃ), সুদ্দী ও অন্যদের সূত্রে, আর এর পেছনের কথাটাও যোগ করেন। ইবলিস অবকাশ চেয়েছিল দ্বিতীয় ফুঁৎকার পর্যন্ত, যখন মানুষ জগতসমূহের রবের সামনে দাঁড়াবে। আল্লাহ তা দিতে অস্বীকার করলেন। এই পক্ষের হিসাবে তাহলে দুটি ফুঁৎকার, দুটি দিন। ইবলিস নাম নিয়েছিল পরের দিনটির, যেদিন ওঠার পরে আর কেউ মরে না। সে পেল আগের দিনটি, যেদিন সবাই মরে, সে নিজেও।"
+          },
+          {
+            "en": "Ibn Kathir, in his summary on this verse, does not draw that line. He writes that Iblis asked for respite until the Day of Raising and the Forbearing One granted it, and that once Iblis felt safe from destruction until the Day of Resurrection he rebelled. Al-Qurtubi, on 15:38, adds a further view under it is said: the known time is a time Allah has kept to Himself, unknown to Iblis. This article does not choose between these positions.",
+            "bn": "এ আয়াতের সারসংক্ষেপে ইবন কাসীর এই ভাগটা টানেন না। তিনি লেখেন, ইবলিস পুনরুত্থানের দিন পর্যন্ত অবকাশ চেয়েছিল, আর পরম সহনশীল আল্লাহ তাকে অবকাশ দিলেন। তারপর কিয়ামত পর্যন্ত ধ্বংস থেকে নিরাপদ বোধ করে সে বিদ্রোহ করল। ১৫:৩৮ আয়াতে কুরতুবী 'বলা হয়' দিয়ে আরও একটি মত আনেন: নির্ধারিত সময়ের জ্ঞান আল্লাহ নিজের কাছেই রেখেছেন, ইবলিস তা জানে না। এ প্রবন্ধ এসব অবস্থানের কোনোটিকে বেছে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Answered by Wisdom, Not Favour",
+          "bn": "অনুগ্রহে নয়, হিকমতের দাবিতে"
+        },
+        "p": [
+          {
+            "en": "Why answer such a plea at all? As-Sa'di, on 38:80, says Allah spoke mujiban li-da'watihi haythu qtadat hikmatuhu dhalik: answering his plea, since His wisdom required it. On 38:81 he gives that wisdom a shape. The known time, he writes, is when the offspring is complete and the test is finished. On his reading Iblis lasts as long as there are children of Adam to be tested, and no longer. The grant serves the test; it is not a reward for the one who asked.",
+            "bn": "এমন আর্জিতে সাড়াই বা দেওয়া হলো কেন? ৩৮:৮০ আয়াতে সা'দী বলেন, আল্লাহ কথাটা বলেছেন 'মুজীবান লিদা'ওয়াতিহী হাইসুকতাদাত হিকমাতুহূ যালিক', তার আর্জিতে সাড়া দিয়ে, কারণ তাঁর হিকমত তা-ই দাবি করেছিল। ৩৮:৮১ আয়াতে তিনি সেই হিকমতের একটা রূপও দেখান। নির্ধারিত সময়, তাঁর ভাষায়, যখন বংশধারা পূর্ণ হবে আর পরীক্ষা শেষ হবে। এই পড়ায় আদমের সন্তানদের পরীক্ষা যতদিন চলবে, ইবলিস ততদিনই থাকবে, এক দিনও বেশি নয়। দানটা পরীক্ষার কাজে লাগে। যে চেয়েছে, তার পুরস্কার নয়।"
+          },
+          {
+            "en": "Al-Qurtubi, on 38:80, puts the weight elsewhere: he was deferred until the known time, fa-ukhkhira tahawunan bihi, deferred out of disregard for him. On this reading the delay says nothing about Iblis's standing. At-Tabari, on 7:15, takes any sense of distinction out of the phrase among those given respite. It covers, he says, everyone whose soul Allah has not taken before that day, those upon whom the Hour arrives.",
+            "bn": "৩৮:৮০ আয়াতে কুরতুবী জোর দেন অন্য জায়গায়: তাকে নির্ধারিত সময় পর্যন্ত পিছিয়ে দেওয়া হলো, 'ফাউখখিরা তাহাউনান বিহী', তাকে তুচ্ছ গণ্য করে পিছিয়ে দেওয়া হলো। এই পড়ায় বিলম্ব ইবলিসের মর্যাদার কোনো কথা বলে না। ৭:১৫ আয়াতে তাবারী 'অবকাশপ্রাপ্তদের একজন' কথাটা থেকে বিশেষত্বের ভাবটুকুও সরিয়ে দেন। তিনি বলেন, এর ভেতরে পড়ে সবাই, যাদের প্রাণ আল্লাহ ওই দিনের আগে নেননি, যাদের ওপর কিয়ামত এসে পড়বে।"
+          },
+          {
+            "en": "To be among the reprieved, on at-Tabari's reading, is to share a category with others, not to receive a rank. Al-Qurtubi, on 15:38, also records two views on how Allah addressed Iblis at all. One is that He spoke to him through the tongue of a messenger. The other is that He spoke to him to make the threat heavier, not as honour or as drawing him near. Al-Qurtubi gives both without settling between them, and this article leaves them as he does.",
+            "bn": "তাবারীর পড়ায় অবকাশপ্রাপ্তদের দলে থাকা মানে অন্যদের সঙ্গে এক শ্রেণিতে পড়া, আলাদা কোনো পদ পাওয়া নয়। ১৫:৩৮ আয়াতে কুরতুবী আরও একটি বিষয়ে দুটি মত আনেন: আল্লাহ ইবলিসের সঙ্গে কথাই বা বললেন কীভাবে? এক মতে, তিনি কথা বলেছেন কোনো রাসূলের মুখ দিয়ে। আরেক মতে, তিনি কথা বলেছেন হুমকিকে আরও কঠিন করার জন্য, সম্মান বা নৈকট্য দেওয়ার জন্য নয়। কুরতুবী কোনোটির পক্ষে রায় দেন না। এ প্রবন্ধও দুটিকে সেভাবেই রেখে দিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hours Already in Hand",
+          "bn": "যে সময় এখন হাতে"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith of the Prophet ﷺ to it, and none is quoted here. The verse reports what Iblis asked and what he was given. It licenses nothing against any living person or community. No one is to be called his likeness, and no one's long life, long success or long run of wrongdoing is to be read as proof that they have been reprieved as he was. That judgement belongs to Allah alone.",
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীর নবী ﷺ-এর কোনো হাদীস এর সঙ্গে জোড়েনি, তাই এখানেও কোনো হাদীস আনা হলো না। আয়াতটি জানায় ইবলিস কী চেয়েছিল আর কী পেয়েছিল, এর বেশি কিছু নয়। জীবিত কোনো মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কাউকে ইবলিসের মতো বলে দাগানো চলবে না। কারও লম্বা হায়াত, দীর্ঘ সাফল্য, এমনকি দীর্ঘদিন অন্যায় করে পার পেয়ে যাওয়াকেও এই প্রমাণ ধরা চলবে না যে সে-ও ইবলিসের মতো অবকাশ পেয়েছে। সে বিচার কেবল আল্লাহর।"
+          },
+          {
+            "en": "The question the verse leaves turns inward. Asking for time is not itself the fault; the fault lay in what Iblis wanted the time for, and in what he did not ask. He did not ask to be forgiven. He asked to be postponed, and as-Sa'di names the purpose: to mislead. Every reader also lives on deferred time, most of it never requested, and on as-Sa'di's reading each person's share of it is part of the test.",
+            "bn": "আয়াতটি যে প্রশ্ন রেখে যায়, তা ভেতরের দিকে ফেরে। সময় চাওয়াটাই দোষ নয়। দোষ ছিল, ইবলিস সময় দিয়ে কী করতে চেয়েছিল, আর কী সে চায়নি। সে মাফ চায়নি, চেয়েছে শুধু পিছিয়ে দেওয়া, আর সা'দী উদ্দেশ্যটা বলে দেন: বিপথে নেওয়া। প্রত্যেক পাঠকও বেঁচে আছে পিছিয়ে দেওয়া সময়ের উপর, যার বেশির ভাগ সে কখনো চায়ওনি। সা'দীর পড়ায় প্রত্যেকের ভাগে পড়া সময় সেই পরীক্ষারই অংশ।"
+          },
+          {
+            "en": "So the plea can be read as a mirror. Iblis said my Lord and used the word only to ask for delay. A believer can say the same word and ask for what Iblis would not: forgiveness, a return, and time spent well. Every soul shall taste death; the end is fixed, and its day is not known to us. What remains open is how the hours already in hand are spent.",
+            "bn": "তাই আর্জিটা পড়া যায় আয়না হিসেবে। ইবলিস 'আমার রব' বলেছিল, তবু সে ডাক কাজে লাগিয়েছিল কেবল বিলম্ব চাইতে। একজন মুমিন একই শব্দে ডেকে চাইতে পারে সেটাই, যা ইবলিস চায়নি: মাফ, ফিরে আসার সুযোগ, আর এমন সময় যা ভালো কাজে কাটে। প্রত্যেক প্রাণকে মৃত্যুর স্বাদ নিতে হবে। শেষটা ঠিক করা আছে, শুধু দিনটা আমাদের জানা নেই। খোলা আছে কেবল এই প্রশ্ন: যে সময় এখন হাতে, তা কীভাবে খরচ হচ্ছে।"
+          }
+        ]
+      }
+    ]
+  },
   "38:82": {
     "sections": [
       {

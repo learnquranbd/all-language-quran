@@ -37273,6 +37273,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Never treat your faith or standing as a guarantee: fear disobeying your Lord, and let that fear keep your worship sincere for Him alone.",
     "lessonBn": "নিজের ঈমান বা অবস্থানকে কখনো নিশ্চয়তা ধরে নেবেন না। রবের নাফরমানিকে ভয় করুন, আর সেই ভয় দিয়ে আপনার ইবাদতকে কেবল তাঁর জন্য খাঁটি রাখুন।"
+  },
+  "38:79": {
+    "reflectionEn": "A moment after the curse, Iblis does not ask to be forgiven. He asks for time: my Lord, then give me respite until the Day they are raised. He still says my Lord. He still knows who holds the clock. Yet he wants the years for one purpose, to work against the children of Adam. He is given a span that ends on a day Allah has fixed, and the grant is no sign of favour. Every reader of this verse is also living on time that was given, most of it never asked for. The same gift can be spent on turning back to Allah or spent on a grudge. When I wish for more time, what do I want it for?",
+    "reflectionBn": "অভিশাপের ঠিক পরের মুহূর্ত। ইবলিস মাফ চায় না, চায় সময়: হে আমার রব, তাহলে পুনরুত্থানের দিন পর্যন্ত আমাকে অবকাশ দিন। মুখে এখনো সে বলে, আমার রব। সে জানে, সময়ের চাবি কার হাতে। তবু এই বছরগুলো সে চায় একটাই কাজে, আদম সন্তানদের বিরুদ্ধে খাটাতে। তাকে সময় দেওয়া হয়, আল্লাহর ঠিক করে রাখা এক দিন পর্যন্ত। আর এই দানে তার প্রতি কোনো অনুগ্রহের ইঙ্গিত নেই। এ আয়াত যে পড়ছে, সে-ও বেঁচে আছে দেওয়া সময়ের উপর, যার বেশির ভাগ সে কখনো চেয়েও নেয়নি। একই দান খরচ হতে পারে আল্লাহর দিকে ফেরায়, আবার খরচ হতে পারে কোনো আক্রোশ পুষে রাখায়। আমি যখন আরও সময় চাই, কিসের জন্য চাই?",
+    "pointsEn": [
+      "When I ask Allah for a longer life, do I also ask Him to make that life good?",
+      "Is there a grudge against someone that is quietly using up hours Allah gave me?",
+      "Iblis called Allah my Lord and still refused to turn back; where do my words to Allah run ahead of my deeds?",
+      "If the time I have been given ended this week, what would I wish I had done with it?",
+      "Do I read a long delay in consequences as approval, when it may be nothing more than time to turn back?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কাছে লম্বা হায়াত চাওয়ার সময় সেই হায়াত যেন ভালো কাজে কাটে, সে দোয়াও কি আমি করি?",
+      "কারও বিরুদ্ধে এমন কোনো আক্রোশ কি আছে, যা চুপচাপ আল্লাহর দেওয়া আমার সময় খেয়ে ফেলছে?",
+      "ইবলিস আল্লাহকে 'আমার রব' বলে ডেকেও ফিরে আসেনি। আল্লাহর কাছে আমার মুখের কথা কোথায় আমার আমলকে ছাড়িয়ে যায়?",
+      "আমাকে দেওয়া সময় যদি এ সপ্তাহেই শেষ হয়ে যেত, কোন কাজটা করে না যাওয়ার আফসোস সবচেয়ে বেশি হতো?",
+      "শাস্তি দেরিতে আসছে বলে কি আমি ধরে নিই যে সব ঠিক আছে, অথচ তা হয়তো শুধু ফিরে আসার অবকাশ?"
+    ],
+    "lessonEn": "Iblis asked for time in order to do harm, and was given it until a day Allah fixed. Your own time is a loan as well: spend it turning back to Allah.",
+    "lessonBn": "ইবলিস সময় চেয়েছিল ক্ষতি করার জন্য, আর তাকে সময় দেওয়া হয়েছিল আল্লাহর ঠিক করা এক দিন পর্যন্ত। আপনার সময়ও ধার করা: তা খরচ করুন আল্লাহর দিকে ফিরে আসায়।"
   }
 };
 
