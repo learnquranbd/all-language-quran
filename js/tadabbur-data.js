@@ -33503,6 +33503,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When Allah lifts a hardship from you, return the thanks to Him alone, and treat the ease that follows as a trust lent for a while, not a licence to forget.",
     "lessonBn": "আল্লাহ যখন আপনার কষ্ট দূর করেন, কৃতজ্ঞতা কেবল তাঁকেই ফিরিয়ে দিন। এরপরের স্বস্তিকে ভুলে যাওয়ার ছাড়পত্র নয়, কিছুদিনের জন্য দেওয়া আমানত মনে করুন।"
+  },
+  "16:63": {
+    "reflectionEn": "Before me came nations who heard the same call: worship Allah alone. Many turned it away, and the verse names the reason. Their deeds were made to look fair to them, so what they were doing felt like the safe road and the call felt like the danger. Then comes a hard sentence: he is their patron today. The one who dressed up their deeds is the one they leaned on, and he can rescue no one. This is not a verse for naming other people. It turns the question back on me. Which of my habits have I stopped questioning only because they look good to me? And whose help am I trusting that will not be there when I need it most?",
+    "reflectionBn": "আমার আগেও বহু জাতি এসেছে, তারাও একই ডাক শুনেছিল: এক আল্লাহর ইবাদত কর। অনেকেই সে ডাক ফিরিয়ে দিয়েছিল, আর আয়াত তার কারণটাও বলে দেয়। তাদের আমলগুলো তাদের চোখে সুন্দর করে সাজিয়ে দেওয়া হয়েছিল। ফলে নিজেদের পথটাই মনে হতো নিরাপদ, আর রসূলের ডাক মনে হতো বিপদ। তারপর আসে একটা কঠিন বাক্য: আজ সে-ই তাদের অভিভাবক। যে তাদের আমল সাজিয়ে দিয়েছিল, তারা ভরসা করেছিল তারই উপর। অথচ কাউকে উদ্ধার করার সাধ্য তার নেই। অন্যদের দিকে আঙুল তোলার আয়াত এটা নয়। প্রশ্নটা ফিরে আসে আমার কাছেই। আমার কোন অভ্যাসগুলো নিয়ে আমি আর প্রশ্ন তুলি না, শুধু এ কারণে যে ওগুলো আমার চোখে ভালো লাগে? আর যার সাহায্যের উপর আমি ভরসা করে আছি, সবচেয়ে দরকারের দিনে সে কি পাশে থাকবে?",
+    "pointsEn": [
+      "Which of my habits have I stopped examining simply because they have always looked right to me?",
+      "When I hear a call to something better, do I weigh it honestly, or measure it against what I already do and call that the truth?",
+      "Whose approval or help am I relying on that could not save me on the Day that matters?",
+      "When what I try to live by is mocked, do I remember that the messengers were denied before me, and keep going without bitterness?",
+      "Do I test what seems beautiful to me against what Allah revealed, or only against my own taste and my people's custom?"
+    ],
+    "pointsBn": [
+      "আমার কোন অভ্যাসগুলো আমি আর যাচাই করি না, শুধু এ কারণে যে বরাবর ওগুলো ঠিকই মনে হয়ে এসেছে?",
+      "ভালো কিছুর দিকে ডাক শুনলে আমি কি তা খোলা মনে ওজন করি? নাকি নিজে যা করছি তার সঙ্গে মিলিয়ে দেখি, আর সেটাকেই সত্য বলে ধরে নিই?",
+      "কার সমর্থন বা সাহায্যের উপর আমি ভরসা করে আছি, যে আসল দিনে আমাকে বাঁচাতে পারবে না?",
+      "যে পথে চলার চেষ্টা করি তা নিয়ে কেউ ঠাট্টা করলে আমি কি মনে রাখি যে আমার আগে রসূলদেরও অস্বীকার করা হয়েছিল? তিক্ততা ছাড়া কি আমি পথ চলতে থাকি?",
+      "যা আমার চোখে সুন্দর লাগে, তা কি আমি আল্লাহর নাযিল করা বাণী দিয়ে যাচাই করি, নাকি শুধু নিজের রুচি আর সমাজের রেওয়াজ দিয়ে?"
+    ],
+    "lessonEn": "Do not trust a deed just because it looks good to you. Test it against what Allah revealed, and lean on Him, not on the one who makes wrong seem fair.",
+    "lessonBn": "কোনো আমল নিজের চোখে ভালো লাগলেই তার উপর ভরসা করবেন না। আল্লাহর নাযিল করা বাণী দিয়ে তা যাচাই করুন, আর ভরসা রাখুন তাঁর উপর, যে অন্যায়কে সুন্দর করে দেখায় তার উপর নয়।"
   }
 };
 

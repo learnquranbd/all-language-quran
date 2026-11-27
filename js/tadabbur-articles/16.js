@@ -3279,6 +3279,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:63": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Oath Turned to the Prophet",
+          "bn": "নবীর দিকে ফেরানো কসম"
+        },
+        "p": [
+          {
+            "en": "Tallahi, by Allah: the verse opens on an oath. Seven verses earlier, at 16:56, the same oath was spoken to the idolaters who set aside a share of their provision for gods they knew nothing about: by Allah, you will surely be questioned about what you used to invent. Between the two oaths come the daughters they ascribed to Allah while wanting sons for themselves, the darkened face at a girl's birth, and the lie that the best awaits them. The first oath faced them. This one turns to the Prophet ﷺ.",
+            "bn": "তাল্লাহি, আল্লাহর কসম: আয়াত শুরু হয় শপথ দিয়ে। সাতটি আয়াত আগে, ১৬:৫৬-এ, ঠিক এই শপথই উচ্চারিত হয়েছিল মুশরিকদের উদ্দেশে। তারা নিজেদের রিযকের একটা অংশ আলাদা করে রাখত এমন উপাস্যদের জন্য, যাদের সম্পর্কে তারা কিছুই জানত না। সেখানে বলা হয়েছিল: আল্লাহর কসম, তোমরা যা বানিয়ে বলতে, সে বিষয়ে তোমাদের অবশ্যই জিজ্ঞেস করা হবে। দুই শপথের মাঝখানে আছে তাদের কথা, যারা নিজেরা ছেলে চাইত অথচ আল্লাহর জন্য ঠিক করত কন্যা। মেয়ের জন্মের খবরে যাদের মুখ কালো হয়ে যেত, আর যারা মিথ্যা দাবি করত যে সেরাটা তাদের জন্যই অপেক্ষা করছে। প্রথম শপথ ছিল তাদের দিকে। এই শপথ ফেরে নবী ﷺ-এর দিকে।"
+          },
+          {
+            "en": "At-Tabari reads it exactly so. He says Allah is swearing by Himself to His Prophet Muhammad ﷺ, and he renders the opening as: by Allah, O Muhammad, We sent messengers before you. Al-Muyassar also inserts the address, O Messenger. No occasion of revelation is attached to the verse in the tafsir fetched for it, so its placement is what speaks: after a long account of what the Prophet's people said about Allah, the next words are addressed to him, not to them.",
+            "bn": "তাবারী আয়াতটি ঠিক এভাবেই পড়েন। তাঁর ভাষায়, আল্লাহ নিজের সত্তার কসম করে তাঁর নবী মুহাম্মাদ ﷺ-কে বলছেন। শুরুর কথাটা তিনি খুলে বলেন এভাবে: আল্লাহর কসম, হে মুহাম্মাদ, তোমার আগেও আমি রসূল পাঠিয়েছি। মুয়াসসারও মাঝখানে সম্বোধনটা জুড়ে দেয়: হে রসূল। এ আয়াতের জন্য সংগ্রহ করা তাফসীরগুলোতে নাযিলের কোনো উপলক্ষ পাওয়া যায় না। তাই আয়াতের অবস্থানই এখানে কথা বলে। নবী ﷺ-এর কওম আল্লাহ সম্পর্কে কী কী বলত, তার লম্বা বিবরণের পর পরের কথাগুলো বলা হচ্ছে তাঁকে, তাদেরকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Messengers the Verse Leaves Unsaid",
+          "bn": "উহ্য রাখা রসূলগণ"
+        },
+        "p": [
+          {
+            "en": "Arsalna ila umamin min qablik: We sent to nations before you. The verb has no object; the Arabic does not say what was sent. The commentators fill the gap with the obvious word. At-Tabari, as-Sa'di and al-Muyassar all supply rusulan, messengers, and the English translation shown with the verse does the same in brackets. Al-Baghawi adds a comparison instead: just as We sent to this community. Either way, the sentence places the Prophet ﷺ at the end of a long line rather than at its start.",
+            "bn": "আরসালনা ইলা উমামিম মিন কাবলিক: তোমার আগে আমি বহু জাতির কাছে পাঠিয়েছি। ক্রিয়াটির কোনো কর্ম নেই। কী পাঠানো হয়েছিল, আরবি বাক্য তা বলে না। তাফসীরকারেরা ফাঁকটা ভরেন সবচেয়ে স্বাভাবিক শব্দ দিয়ে। তাবারী, সা'দী ও মুয়াসসার তিনজনই যোগ করেন রুসুলান, অর্থাৎ রসূলগণ। আয়াতের সঙ্গে দেওয়া অনুবাদও বন্ধনীতে একই শব্দ বসিয়েছে। বাগাভী বরং একটা তুলনা জুড়ে দেন: যেমন এই উম্মতের কাছে পাঠিয়েছি। যেভাবেই পড়া হোক, বাক্যটি নবী ﷺ-কে দাঁড় করায় এক দীর্ঘ সারির শেষে, শুরুতে নয়।"
+          },
+          {
+            "en": "What did those messengers carry? At-Tabari answers that they were sent with the like of what the Prophet ﷺ was sent with to his own people: the call to the oneness of Allah, sincerity of worship for Him, submission to Him in obedience, and the casting off of rivals and gods. As-Sa'di puts it in one phrase: messengers calling them to tawhid. The same surah has already said it in its own voice at 16:36: We sent into every nation a messenger, saying, worship Allah and avoid taghut. The message behind 16:63 is that message.",
+            "bn": "সেই রসূলেরা কী নিয়ে এসেছিলেন? তাবারীর উত্তর: নবী ﷺ-কে তাঁর উম্মতের কাছে যা দিয়ে পাঠানো হয়েছে, তাঁদেরও পাঠানো হয়েছিল ঠিক তা-ই দিয়ে। আল্লাহর একত্বের দিকে আহ্বান, ইবাদত শুধু তাঁর জন্য খাঁটি করা, আনুগত্যে তাঁর কাছে মাথা নত করা, আর সব শরীক ও উপাস্যকে ছুড়ে ফেলা। সা'দী কথাটা বলেন একটি বাক্যে: রসূলেরা তাদের তাওহীদের দিকে ডাকতেন। এই সূরা নিজেও ১৬:৩৬-এ তা বলে দিয়েছে: প্রত্যেক জাতির কাছে আমি রসূল পাঠিয়েছি এই বার্তা দিয়ে যে, আল্লাহর ইবাদত কর আর তাগুতকে বর্জন কর। ১৬:৬৩-এর পেছনের বার্তা সেটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not the First Messenger Denied",
+          "bn": "অস্বীকৃত প্রথম রসূল নন"
+        },
+        "p": [
+          {
+            "en": "Three commentators name the purpose of the opening outright. As-Sa'di says Allah is making clear to His Messenger ﷺ that he is not the first messenger to be denied. Al-Qurtubi calls the verse a tasliya, a consolation for the Prophet ﷺ, in that the prophets who came before him were also disbelieved by their own people. Ibn Kathir draws the practical conclusion: you have, O Muhammad, an example in your brothers among the messengers, so do not let your people's denial of you trouble you.",
+            "bn": "তিনজন তাফসীরকার শুরুর এই কথার উদ্দেশ্য সরাসরি বলে দেন। সা'দী বলেন, আল্লাহ তাঁর রসূল ﷺ-কে জানিয়ে দিচ্ছেন যে তিনিই প্রথম রসূল নন যাঁকে অস্বীকার করা হলো। কুরতুবী আয়াতটিকে বলেন তাসলিয়া, নবী ﷺ-এর জন্য সান্ত্বনা। কারণ তাঁর আগে যে নবীরা এসেছিলেন, তাঁদের কওমও তাঁদের অবিশ্বাস করেছিল। ইবন কাসীর এ থেকে বাস্তব শিক্ষাটা টানেন: হে মুহাম্মাদ, রসূলদের মধ্যে তোমার ভাইদের জীবনে তোমার জন্য আদর্শ আছে। কাজেই তোমার কওম তোমাকে অস্বীকার করছে বলে তুমি অস্থির হয়ো না।"
+          },
+          {
+            "en": "The consolation works by company, not by argument. Nothing in the verse tells the Prophet ﷺ that his people will soon believe, or that their rejection is mild. It tells him that rejection has a history, that messengers before him met it, and that it never meant the message had failed. Ibn Kathir's word for this is uswa, an example to follow, and in calling the earlier messengers his brothers he turns the line into a family. The one who is denied is not standing alone.",
+            "bn": "এ সান্ত্বনা যুক্তি দিয়ে নয়, সঙ্গ দিয়ে। আয়াত নবী ﷺ-কে বলে না যে তাঁর কওম শিগগিরই ঈমান আনবে, কিংবা তাদের প্রত্যাখ্যান তেমন কিছু নয়। বলে, প্রত্যাখ্যানের একটা ইতিহাস আছে। তাঁর আগের রসূলেরাও তার মুখোমুখি হয়েছেন, আর তার মানে কখনোই এই ছিল না যে বার্তা ব্যর্থ হয়েছে। ইবন কাসীর এর জন্য যে শব্দ বেছে নেন তা হলো উসওয়া, অনুসরণের আদর্শ। আগের রসূলদের তিনি নবী ﷺ-এর ভাই বলেন, ফলে সারিটা হয়ে ওঠে একটা পরিবার। যাঁকে অস্বীকার করা হচ্ছে, তিনি একা দাঁড়িয়ে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Deeds Dressed as Rescue",
+          "bn": "উদ্ধারের সাজে সাজানো আমল"
+        },
+        "p": [
+          {
+            "en": "Fa-zayyana lahumu sh-shaytanu a'malahum: then Satan made their deeds fair-seeming to them. The fa sets the adorning directly after the sending. At-Tabari explains the verb as tahsin, making a thing look good: Satan beautified for them the disbelief in Allah and the worship of idols they persisted in, until they denied their messengers and threw back at them what they had brought from their Lord. Al-Qurtubi and al-Baghawi both gloss the deeds with a single adjective: their foul deeds.",
+            "bn": "ফাযাইয়ানা লাহুমুশ শাইতানু আ'মালাহুম: অতঃপর শয়তান তাদের আমলগুলো তাদের চোখে সুন্দর করে দেখাল। 'ফা' অক্ষরটি সাজিয়ে দেখানোর কাজটিকে বসিয়ে দেয় রসূল পাঠানোর ঠিক পরেই। তাবারী ক্রিয়াটির ব্যাখ্যা দেন তাহসীন দিয়ে, অর্থাৎ কোনো কিছুকে ভালো করে দেখানো। আল্লাহর সঙ্গে কুফরি আর মূর্তিপূজা, যার উপর তারা অটল ছিল, শয়তান তা তাদের চোখে সুন্দর করে তুলল। শেষে তারা নিজেদের রসূলদের মিথ্যাবাদী বলল, আর রবের কাছ থেকে তাঁরা যা এনেছিলেন তা ফিরিয়ে দিল। কুরতুবী ও বাগাভী দুজনেই আমলগুলোর পরিচয় দেন একটি বিশেষণে: তাদের নোংরা আমল।"
+          },
+          {
+            "en": "Al-Muyassar lists what was adorned: disbelief, denial, and the worship of other than Allah. As-Sa'di goes further, into how it looked from the inside. Once their deeds were adorned, he says, they claimed that what they were upon was the truth that rescues from every harm, and that what the messengers called to was the opposite. That is the sharpest part of the picture. The adorned deed is not only enjoyed; it is defended as safety, and the call that could have saved them is cast as the danger.",
+            "bn": "মুয়াসসার গুনে দেয় কোন কোন জিনিস সাজানো হয়েছিল: কুফরি, অস্বীকার, আর আল্লাহ ছাড়া অন্যের ইবাদত। সা'দী আরও ভেতরে যান, ভেতর থেকে ব্যাপারটা কেমন দেখাত তা দেখান। তিনি বলেন, আমল সাজিয়ে দেওয়ার পর তারা দাবি করত, তারা যে পথে আছে সেটাই সত্য, সেটাই সব বিপদ থেকে বাঁচায়। আর রসূলেরা যেদিকে ডাকছেন, তা এর উল্টো। ছবির সবচেয়ে ধারালো অংশ এটাই। সাজানো আমল শুধু ভালো লাগে না, তাকে নিরাপত্তা বলে আঁকড়েও ধরা হয়। আর যে ডাক তাদের বাঁচাতে পারত, তাকেই বানানো হয় বিপদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Clause Heard Elsewhere Too",
+          "bn": "অন্য সূরাতেও একই বাক্য"
+        },
+        "p": [
+          {
+            "en": "The clause Satan made their deeds fair-seeming to them is not unique to this verse. With small variations it recurs at 6:43, of people whose hearts hardened instead of humbling themselves when Our punishment reached them; at 27:24, of a queen and her people bowing to the sun, whom he turned from the way; and at 29:38, of 'Ad and Thamud, who were people of perception. The last of these is pointed. The adorning did not work only on the careless. It worked on people who could see.",
+            "bn": "শয়তান তাদের আমলগুলো তাদের চোখে সুন্দর করে দেখাল, এই বাক্য শুধু এ আয়াতে নেই। সামান্য ভিন্নতাসহ তা আবার আসে ৬:৪৩-এ, তাদের প্রসঙ্গে যাদের উপর আল্লাহর শাস্তি আসার পরও তারা বিনীত হয়নি, উল্টো তাদের অন্তর শক্ত হয়ে গিয়েছিল। আসে ২৭:২৪-এ, এক রানি ও তার কওমের প্রসঙ্গে, যারা সূর্যকে সেজদা করত, আর শয়তান তাদের সৎপথ থেকে ফিরিয়ে রেখেছিল। আসে ২৯:৩৮-এ, আদ ও সামূদের প্রসঙ্গে, যারা ছিল তীক্ষ্ণ দৃষ্টির অধিকারী। শেষেরটা খুব অর্থবহ। এই সাজানোর ফাঁদে শুধু উদাসীনরা পড়েনি, পড়েছিল চোখওয়ালা মানুষও।"
+          },
+          {
+            "en": "The occurrence at 8:48 shows the adorning and the patronage together. There Satan made their deeds fair-seeming, then told them that no one among the people could overcome them today and that he was their protector. When the two armies sighted each other, he turned on his heels, saying he was free of them and that he feared Allah. The protector who promised safety withdrew at the first moment he was needed. Read beside that verse, he is their patron today sounds less like a comfort than a sentence passed.",
+            "bn": "৮:৪৮-এ সাজিয়ে দেখানো আর অভিভাবকত্ব, দুটোই একসঙ্গে দেখা যায়। সেখানে শয়তান তাদের আমল সুন্দর করে দেখায়, তারপর বলে: আজ মানুষের মধ্যে কেউ তোমাদের হারাতে পারবে না, আমি তোমাদের পাশেই আছি। কিন্তু দুই দল যখন মুখোমুখি হলো, সে পেছন ফিরে সরে পড়ল আর বলল: তোমাদের সঙ্গে আমার কোনো সম্পর্ক নেই, আমি আল্লাহকে ভয় করি। যে রক্ষাকর্তা নিরাপত্তার কথা দিয়েছিল, প্রথম দরকারের মুহূর্তেই সে সরে গেল। এ আয়াতের পাশে রেখে পড়লে 'আজ সে-ই তাদের অভিভাবক' কথাটা আর সান্ত্বনা মনে হয় না, মনে হয় রায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Day Is Meant by Today?",
+          "bn": "'আজ' বলতে কোন দিন?"
+        },
+        "p": [
+          {
+            "en": "Fa-huwa waliyyuhumu l-yawma: so he is their patron today. Which day? The commentators fetched for this verse divide. At-Tabari says it plainly: Satan is their helper today, in this world, and a wretched helper he is, while the painful punishment comes in the Hereafter, when they arrive before their Lord. Al-Muyassar also places the patronage in this world: he takes charge of leading them astray in the world, and in the Hereafter theirs is a painful punishment. As-Sa'di, too, says Satan became their patron in the world, so they obeyed, followed and befriended him.",
+            "bn": "ফাহুয়া ওয়ালিয়্যুহুমুল ইয়াওম: আজ সে-ই তাদের অভিভাবক। কোন দিনের কথা? এ আয়াতের জন্য সংগ্রহ করা তাফসীরকারেরা এখানে দুই ভাগ। তাবারী সোজাসুজি বলেন: আজ, অর্থাৎ দুনিয়ায়, শয়তানই তাদের সাহায্যকারী, আর কত নিকৃষ্ট সাহায্যকারী! যন্ত্রণাদায়ক শাস্তি আসবে আখিরাতে, যখন তারা রবের সামনে হাজির হবে। মুয়াসসারও অভিভাবকত্বকে রাখে দুনিয়ায়: দুনিয়াতে সে-ই তাদের বিপথে নেওয়ার দায়িত্ব নিয়েছে, আর আখিরাতে তাদের জন্য আছে কষ্টদায়ক শাস্তি। সা'দীও বলেন, দুনিয়ায় শয়তান তাদের অভিভাবক হয়ে বসল, আর তারা তার কথা মানল, তার পেছনে চলল, তাকেই বন্ধু বানাল।"
+          },
+          {
+            "en": "Al-Qurtubi gives the worldly reading first, with a qualification: their helper in this world, according to their claim. Then he reports two others, each introduced with it is said. In one, the patron is their companion in the Fire, and today means the Day of Resurrection, called simply the day because it is so well known. In the other, on the Day of Resurrection it will be said to them, this is your patron, so seek his help to save you from the punishment, said by way of rebuke. He leaves the three side by side.",
+            "bn": "কুরতুবী আগে দুনিয়ার অর্থটাই বলেন, তবে একটা শর্ত জুড়ে: দুনিয়ায় সে তাদের সাহায্যকারী, তাদের নিজেদের ধারণায়। তারপর 'বলা হয়েছে' কথাটি দিয়ে তিনি আরও দুটি মত আনেন। একটিতে এই অভিভাবক জাহান্নামে তাদের সঙ্গী, আর 'আজ' মানে কিয়ামতের দিন। দিনটি এত পরিচিত যে শুধু 'দিন' বললেই চলে। অন্যটিতে কিয়ামতের দিন তাদের বলা হবে: এই তো তোমাদের অভিভাবক, শাস্তি থেকে বাঁচতে তার কাছেই সাহায্য চাও। কথাটা বলা হবে ধমক দিয়ে। তিনি তিনটি মত পাশাপাশি রেখে দেন।"
+          },
+          {
+            "en": "Ibn Kathir reads the phrase as a scene of punishment: they are under penalty and torment, Satan is their patron, he has no power to secure their release, and there is none to answer their cry. His abridged English puts it in the future: they will be suffering punishment. Al-Baghawi glosses the patron as their helper and their companion, without fixing the day. The English translation shown with the verse adds two brackets, the disbelievers and as well, a translator's reading rather than a commentator's. The disagreement is kept here as the sources give it.",
+            "bn": "ইবন কাসীর বাক্যাংশটিকে পড়েন শাস্তির এক দৃশ্য হিসেবে: তারা আযাব আর লাঞ্ছনার মধ্যে আছে, শয়তান তাদের অভিভাবক, অথচ তাদের ছাড়িয়ে আনার কোনো ক্ষমতা তার নেই, আর তাদের ফরিয়াদ শোনারও কেউ নেই। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণ কথাটা রাখে ভবিষ্যৎ কালে: তারা শাস্তি ভোগ করতে থাকবে। বাগাভী অভিভাবকের অর্থ করেন তাদের সাহায্যকারী ও সঙ্গী, তবে দিনটা নির্দিষ্ট করেন না। আয়াতের সঙ্গে দেওয়া ইংরেজি অনুবাদ বন্ধনীতে দুটি কথা যোগ করেছে, 'কাফিররা' আর 'একইভাবে'। এটা অনুবাদকের পাঠ, কোনো তাফসীরকারের নয়। মতভেদটি এখানে রাখা হলো সূত্রগুলো যেভাবে দিয়েছে সেভাবেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Patron Who Cannot Rescue",
+          "bn": "যে অভিভাবক বাঁচাতে পারে না"
+        },
+        "p": [
+          {
+            "en": "Whatever the day, the commentators agree on what this patronage is worth. At-Tabari says it did not benefit them in this world but harmed them there, will not benefit them in the Hereafter, and will harm them more there. As-Sa'di finds the cause of the punishment in a choice: they turned away from the patronage of the Most Merciful and were content with the patronage of Satan, and so earned a humiliating punishment. He cites 18:50: will you take him and his offspring as patrons besides Me, when they are your enemies? Wretched is the exchange for the wrongdoers.",
+            "bn": "দিন যেটাই হোক, এই অভিভাবকত্বের দাম কত, তাতে তাফসীরকারেরা একমত। তাবারী বলেন, দুনিয়াতেও এটা তাদের কোনো উপকারে আসেনি, বরং ক্ষতিই করেছে। আখিরাতেও উপকারে আসবে না, সেখানে ক্ষতি করবে আরও বেশি। সা'দী শাস্তির কারণ খুঁজে পান একটা বাছাইয়ের মধ্যে: তারা রহমানের অভিভাবকত্ব থেকে মুখ ফিরিয়ে নিয়েছিল, আর শয়তানের অভিভাবকত্বে খুশি ছিল। তাই তারা লাঞ্ছনার শাস্তির যোগ্য হলো। তিনি ১৮:৫০ উদ্ধৃত করেন: তোমরা কি আমাকে বাদ দিয়ে তাকে আর তার বংশধরকে অভিভাবক বানাবে, অথচ তারা তোমাদের দুশমন? জালিমদের এই বদল কতই না নিকৃষ্ট!"
+          },
+          {
+            "en": "Al-Baghawi's remark about the name matters too: Satan is called their wali because they obeyed him. The verse does not say he seized them; it says their deeds were made to look fair, and they followed. The Qur'an lets Satan himself say as much at 14:22, once the matter is decided: I had no authority over you except that I called you and you answered me, so do not blame me, blame yourselves; I cannot answer your cry, nor can you answer mine. Ibn Kathir's phrase on 16:63, none to answer their cry, comes from the same root.",
+            "bn": "নাম নিয়ে বাগাভীর মন্তব্যটাও গুরুত্বপূর্ণ: শয়তানকে তাদের ওয়ালী বলা হয়েছে, কারণ তারা তার আনুগত্য করেছিল। আয়াত বলে না যে সে তাদের জোর করে ধরে নিয়েছিল। বলে, তাদের আমল সুন্দর করে দেখানো হয়েছিল, আর তারা সে পথে চলেছিল। ১৪:২২-এ কুরআন শয়তানের নিজের মুখে একই কথা শোনায়, ফায়সালা হয়ে যাওয়ার পর: তোমাদের উপর আমার কোনো ক্ষমতা ছিল না, আমি শুধু ডেকেছিলাম আর তোমরা সাড়া দিয়েছিলে। কাজেই আমাকে দোষ দিয়ো না, নিজেদের দোষ দাও। আমি তোমাদের ফরিয়াদে সাড়া দিতে পারি না, তোমরাও আমার ফরিয়াদে নয়। ১৬:৬৩-এ ইবন কাসীরের কথা, 'তাদের ফরিয়াদ শোনার কেউ নেই', একই ধাতু থেকে এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Book That Comes Next",
+          "bn": "এরপরই কিতাবের কথা"
+        },
+        "p": [
+          {
+            "en": "The very next verse answers the adorning. At 16:64 Allah tells the Prophet ﷺ that He sent down the Book to him only so that he might make clear to them what they differed over, and as guidance and mercy for people who believe. Ibn Kathir, in the abridged English that covers 16:63 to 16:65, calls the Qur'an a decisive arbiter for every issue they argue about, guidance for their hearts and mercy for whoever holds to it. Where deeds were made to look fair, the Book makes the truth plain.",
+            "bn": "ঠিক পরের আয়াতেই এই সাজানোর জবাব। ১৬:৬৪-এ আল্লাহ নবী ﷺ-কে জানান, তাঁর উপর কিতাব নাযিল করা হয়েছে শুধু এজন্য যে, তারা যে বিষয়ে মতভেদ করেছে তা তিনি তাদের কাছে স্পষ্ট করে দেবেন। আর এ কিতাব মুমিনদের জন্য হেদায়েত ও রহমত। ১৬:৬৩ থেকে ১৬:৬৫ পর্যন্ত ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ কুরআনকে বলে চূড়ান্ত মীমাংসাকারী, তারা যে বিষয়েই তর্ক করুক। তাদের অন্তরের জন্য হেদায়েত, আর যে একে আঁকড়ে ধরে তার জন্য রহমত। যেখানে আমলকে সুন্দর করে দেখানো হয়েছিল, সেখানে কিতাব সত্যকে স্পষ্ট করে দেয়।"
+          },
+          {
+            "en": "For a reader now, this is where the verse turns inward without becoming an accusation. The adorning it describes did not announce itself; to those inside it, it looked like the truth that rescues. So the test cannot be whether a habit feels right, because an adorned deed always feels right. The test is the clarifying Book of 16:64. Ibn Kathir's abridgement then likens the Qur'an's reviving of hearts dead in disbelief to the rain that revives the dead earth in 16:65. The remedy offered is a return to what was sent down.",
+            "bn": "আজকের পাঠকের জন্য আয়াতটি এখানে এসে ভেতরের দিকে ফেরে, তবে কারও বিরুদ্ধে অভিযোগ হয়ে নয়। যে সাজানোর কথা এখানে, তা নিজের পরিচয় দিয়ে আসেনি। যারা তার ভেতরে ছিল, তাদের কাছে তা মনে হয়েছিল বাঁচানোর মতো সত্য। তাই কোনো অভ্যাস মনে ঠিক লাগছে কি না, তা দিয়ে যাচাই চলে না। সাজানো আমল তো সবসময়ই ঠিক লাগে। যাচাইয়ের মাপকাঠি ১৬:৬৪-এর সেই স্পষ্টকারী কিতাব। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ এরপর একটা তুলনা টানে। কুফরিতে মরে যাওয়া অন্তরকে কুরআন যেভাবে জীবিত করে, ১৬:৬৫-এর বৃষ্টি সেভাবেই মরা মাটিকে জীবিত করে। প্রতিকার হলো নাযিল হওয়া বাণীর দিকে ফিরে যাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Living Ward Named Here",
+          "bn": "জীবিত কারও নাম এখানে নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes past nations who denied their messengers, and Satan, whose patronage they chose, as the text describes them. It licenses nothing against any living person or community. It does not let a reader call a neighbour, a rival or another group Satan's wards, or treat their disagreement as proof that their deeds have been adorned for them. The verse was spoken to the Prophet ﷺ as consolation, and it names no one in our time. Its proper use is the question it puts to whoever is reading it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত বর্ণনা করে অতীতের সেই জাতিগুলোর কথা, যারা নিজেদের রসূলদের অস্বীকার করেছিল, আর বর্ণনা করে তার কথা, যার অভিভাবকত্ব তারা বেছে নিয়েছিল। যতটুকু আয়াত বলে, ঠিক ততটুকুই। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। প্রতিবেশী, প্রতিপক্ষ বা অন্য কোনো দলকে শয়তানের লোক বলে দাগানোর অধিকার কোনো পাঠককে এ আয়াত দেয় না। তাদের ভিন্নমতকে এর প্রমাণ বানানোরও সুযোগ নেই যে তাদের আমল সাজিয়ে দেওয়া হয়েছে। আয়াতটি নবী ﷺ-কে বলা হয়েছিল সান্ত্বনা হিসেবে, আমাদের সময়ের কারও নাম এতে নেই। এর সঠিক ব্যবহার সেই প্রশ্ন, যা এটি পাঠকের নিজের দিকে ছুড়ে দেয়।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a hadith to it, and none gives an occasion of revelation, so neither is used here. What remains is enough: an oath from Allah to His Messenger ﷺ that he stands in a long line of messengers; a word on why that line was so often refused; a warning about where that refusal leaves the people who chose it; and, in the very next verse, the Book that makes the matter clear. The verse ends on a painful punishment, but the surah does not end its thought there.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের উপলক্ষও কেউ উল্লেখ করেনি। তাই এখানে এর কোনোটিই আনা হয়নি। যা আছে, তা-ই যথেষ্ট। আল্লাহ তাঁর রসূল ﷺ-এর কাছে কসম করে বলছেন যে তিনি রসূলদের এক দীর্ঘ সারিতে দাঁড়িয়ে। কেন সেই সারিকে বারবার ফিরিয়ে দেওয়া হয়েছে, তার একটা ব্যাখ্যা। যারা ফিরিয়ে দিয়েছে, সেই প্রত্যাখ্যান তাদের কোথায় নিয়ে যায়, তার সতর্কবাণী। আর ঠিক পরের আয়াতে সেই কিতাব, যা বিষয়টি স্পষ্ট করে দেয়। আয়াত শেষ হয় যন্ত্রণাদায়ক শাস্তির কথায়, কিন্তু সূরা তার ভাবনা সেখানেই শেষ করে না।"
+          }
+        ]
+      }
+    ]
+  },
   "16:67": {
     "sections": [
       {
