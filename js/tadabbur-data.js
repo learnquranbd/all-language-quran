@@ -37293,6 +37293,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Iblis asked for time in order to do harm, and was given it until a day Allah fixed. Your own time is a loan as well: spend it turning back to Allah.",
     "lessonBn": "ইবলিস সময় চেয়েছিল ক্ষতি করার জন্য, আর তাকে সময় দেওয়া হয়েছিল আল্লাহর ঠিক করা এক দিন পর্যন্ত। আপনার সময়ও ধার করা: তা খরচ করুন আল্লাহর দিকে ফিরে আসায়।"
+  },
+  "38:32": {
+    "reflectionEn": "One verse earlier this king is praised as an excellent servant, always turning back. Now fine horses are paraded before him in the late afternoon, and he speaks about himself: I loved the love of good things over the remembrance of my Lord, until it was hidden behind the veil. The horses are called good, and the Qur'an does not take the word back. What he names is an order of things: a lawful love that had moved ahead of remembrance. He says it plainly, in his own voice, and turns. Most of what pulls me away from Allah is not forbidden either: work, family, a worthy project. Do I notice when good things move to the front, and can I say so as simply as he did?",
+    "reflectionBn": "এর ঠিক আগের আয়াতে এই বাদশাহকে বলা হয়েছে উত্তম বান্দা, বারবার আল্লাহর দিকে ফেরা মানুষ। এখন বিকেলের দিকে তাঁর সামনে উৎকৃষ্ট ঘোড়াগুলো হাজির করা হচ্ছে। তারপর তিনি নিজের সম্পর্কেই কথা বলেন: আমি আমার রবের জিকিরের চেয়ে ভালো জিনিসের ভালোবাসাকে বেশি ভালোবেসেছি, শেষে তা পর্দার আড়ালে চলে গেল। ঘোড়াগুলোকে এখানে ভালো বলা হয়েছে, কুরআন শব্দটা ফিরিয়ে নেয়নি। তিনি যা ধরিয়ে দিচ্ছেন তা হলো ক্রম। একটা হালাল ভালোবাসা জিকিরের আগে চলে এসেছিল। তিনি তা খোলাখুলি নিজের মুখে বলেন, আর ফিরে আসেন। আমাকে আল্লাহ থেকে যা দূরে টানে, তার বেশিরভাগও তো হারাম নয়: কাজ, পরিবার, কোনো ভালো উদ্যোগ। ভালো জিনিসগুলো যখন সামনে চলে আসে, আমি কি টের পাই? আর টের পেলে কি তাঁর মতো সহজ করে স্বীকার করতে পারি?",
+    "pointsEn": [
+      "Which good thing in my life, lawful and even praiseworthy, has lately moved ahead of my prayer or my remembrance of Allah?",
+      "When I realise something crowded out what I owed Allah, do I name it honestly, or do I explain it away?",
+      "Which hour of my day is already claimed by a duty, and what worthy task do I keep letting spill into it?",
+      "When I correct myself, is the correction itself lawful and kind, or do I make something that was never at fault pay for my lapse?",
+      "What would it look like for me to love good things for Allah's sake rather than in place of Him?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন ভালো জিনিসটা, হালাল এমনকি প্রশংসার যোগ্য হয়েও, ইদানীং আমার নামাজ বা আল্লাহর জিকিরের আগে চলে এসেছে?",
+      "কোনো কিছু আল্লাহর হক ঠেলে সরিয়ে দিয়েছে টের পেলে আমি কি সৎভাবে তার নাম নিই, নাকি অজুহাত দিয়ে ব্যাপারটা চাপা দিই?",
+      "আমার দিনের কোন সময়টা আগে থেকেই একটা ফরজ দায়িত্বের জন্য বাঁধা, আর কোন ভালো কাজকে আমি বারবার সেই সময়ে ঢুকে পড়তে দিই?",
+      "নিজেকে শোধরানোর সময় সেই শোধরানোটাও কি হালাল আর দয়ালু হয়? নাকি যার কোনো দোষ ছিল না, আমার ভুলের দাম তাকে দিয়ে শোধ করাই?",
+      "ভালো জিনিসকে আল্লাহর বদলে নয়, আল্লাহর জন্য ভালোবাসা, আমার জীবনে সেটা দেখতে কেমন হবে?"
+    ],
+    "lessonEn": "Good and lawful things can still crowd out the remembrance of Allah; notice when they move ahead of it, say so honestly, and put Him first again.",
+    "lessonBn": "ভালো ও হালাল জিনিসও আল্লাহর জিকিরকে পেছনে ঠেলে দিতে পারে। কখন তা আগে চলে আসে খেয়াল রাখুন, সৎভাবে স্বীকার করুন, আর আবার আল্লাহকে সবার আগে রাখুন।"
   }
 };
 

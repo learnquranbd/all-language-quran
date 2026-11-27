@@ -1515,6 +1515,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "38:32": {
+    "sections": [
+      {
+        "h": {
+          "en": "Eleven Words in His Own Voice",
+          "bn": "নিজের মুখে এগারোটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Fa-qala inni ahbabtu hubba l-khayri an dhikri rabbi hatta tawarat bil-hijab: and he said, I loved the love of good things over the remembrance of my Lord, until it was hidden by the veil. Every word of it is Sulayman (AS) speaking about himself. In 38:30 Allah calls him ni'ma l-abd, an excellent servant, innahu awwab, truly he turns back often. In 38:31 fine horses are shown to him bil-ashiyy, in the later part of the day.",
+            "bn": "ফাকালা ইন্নী আহবাবতু হুব্বাল খাইরি আন যিকরি রাব্বী হাত্তা তাওয়ারাত বিলহিজাব: তিনি বললেন, আমি আমার রবের জিকিরের চেয়ে ভালো জিনিসের ভালোবাসাকে বেশি ভালোবেসেছি, শেষে তা পর্দার আড়ালে চলে গেল। এর প্রতিটি শব্দই নিজের সম্পর্কে সুলাইমান (আঃ)-এর নিজের কথা। ৩৮:৩০ আয়াতে আল্লাহ তাঁকে বলেছেন নি'মাল আবদ, কত উত্তম বান্দা, ইন্নাহু আওওয়াব, তিনি বারবার ফিরে আসেন। ৩৮:৩১ আয়াতে দিনের শেষভাগে, বিলআশিয়্যি, উৎকৃষ্ট ঘোড়াগুলো তাঁর সামনে হাজির করা হয়।"
+          },
+          {
+            "en": "At-Tabari says something is left unsaid here because the plain sense of the passage carries it: he was taken up with the horses and away from the prayer until it had passed, and then he spoke. That is at-Tabari's reading of the gap; others fill it differently, as the sections below show. What the order of the verses does settle is that the praise comes first. Before he says a word about himself, the speaker has been introduced as excellent and as one who keeps returning.",
+            "bn": "তাবারী বলেন, এখানে একটা কথা উহ্য, কারণ আয়াতের বাহ্যিক অর্থই তা বুঝিয়ে দেয়: ঘোড়ায় মগ্ন থেকে তিনি নামাজ থেকে সরে ছিলেন, শেষে নামাজের সময় পেরিয়ে গেল, তারপর তিনি এ কথা বললেন। ফাঁকটা এভাবে পূরণ করা তাবারীর নিজের পাঠ। অন্যরা তা ভিন্নভাবে পূরণ করেছেন, নিচের অংশগুলোতে তা আসবে। তবে আয়াতের ক্রম একটা বিষয় নিশ্চিত করে: প্রশংসা এসেছে আগে। নিজের সম্পর্কে একটি কথা বলার আগেই বক্তার পরিচয় হয়ে গেছে উত্তম বান্দা আর বারবার ফেরা মানুষ হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Preferred, or Sat Back",
+          "bn": "আগে রাখা, নাকি পিছিয়ে বসা"
+        },
+        "p": [
+          {
+            "en": "The first phrase is unusual: ahbabtu hubba, literally I loved the love of. Al-Qurtubi records two ways of parsing it. Al-Farra' makes hubb the object of the verb and gives the sense as athartu hubba l-khayr, I preferred the love of good things. Others take hubb as a verbal noun tied to its object: I loved good things with a love, and it distracted me from the remembrance of my Lord. Al-Baghawi opens with the same gloss as al-Farra', athartu, I preferred.",
+            "bn": "প্রথম বাক্যাংশটা একটু অস্বাভাবিক: আহবাবতু হুব্বা, শব্দে শব্দে, আমি ভালোবাসাকে ভালোবেসেছি। কুরতুবী এর দুই রকম ব্যাকরণগত বিশ্লেষণ উল্লেখ করেন। ফাররার মতে হুব্ব ক্রিয়ার কর্ম, আর অর্থ দাঁড়ায় আছারতু হুব্বাল খাইর, অর্থাৎ ভালো জিনিসের ভালোবাসাকে আমি অগ্রাধিকার দিয়েছি। অন্যরা হুব্বকে ধরেন ক্রিয়াবাচক বিশেষ্য, যা তার কর্মের সঙ্গে যুক্ত। তখন অর্থ: আমি ভালো জিনিসকে খুব ভালোবেসেছি, আর সেই ভালোবাসা আমাকে রবের জিকির থেকে অন্যমনস্ক করেছে। বাগাভীও ফাররার মতো একই ব্যাখ্যা দিয়ে শুরু করেন: আছারতু, আমি অগ্রাধিকার দিয়েছি।"
+          },
+          {
+            "en": "As-Sa'di explains the gloss: ahbabtu has been made to carry the meaning of athartu, so that to love, here, is to put first, and an dhikri rabbi means over the remembrance of my Lord, ahead of it. Al-Qurtubi adds a rarer sense: said of a camel, ahabba means it knelt and stayed behind, and Abu Zayd and Tha'lab use muhibb for a camel too sick or spent to move. Read that way, the sense is qa'adtu, I sat back from the remembrance of my Lord.",
+            "bn": "সা'দী ব্যাখ্যাটা খুলে বলেন: আহবাবতু ক্রিয়ার ভেতরে আছারতু-র অর্থ ঢুকিয়ে দেওয়া হয়েছে। এখানে ভালোবাসা মানে আগে রাখা, আর আন যিকরি রাব্বী মানে রবের জিকিরের উপরে, তার আগে। কুরতুবী আরেকটি কম প্রচলিত অর্থও আনেন। উটের বেলায় আহাব্বা মানে উট বসে পড়ল আর পিছিয়ে রইল। আবূ যায়দ ও সা'লাব মুহিব্ব বলেন সেই উটকে, যে অসুখে বা ক্লান্তিতে আর নড়তে পারে না। এ পাঠে অর্থ দাঁড়ায় কাআদতু, আমি রবের জিকির থেকে পিছিয়ে বসে রইলাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Good That Runs on Hooves",
+          "bn": "খুরে ভর করে ছোটা কল্যাণ"
+        },
+        "p": [
+          {
+            "en": "Al-khayr ordinarily means good, or wealth. Here al-Qurtubi and al-Baghawi both say it means the horses. Al-Qurtubi cites al-Farra': khayr and khayl are one word in the speech of the Arabs, because the language lets r and l stand in for each other, as in khataltu and khatartu, both meaning I deceived him. Al-Baghawi gives the same interchange with the same example. Al-Qurtubi also records that horses may be called khayr simply for the many benefits they bring.",
+            "bn": "আলখাইর সাধারণত মানে কল্যাণ, কিংবা ধনসম্পদ। কুরতুবী ও বাগাভী দুজনই বলেন, এখানে এর অর্থ ঘোড়া। কুরতুবী ফাররার কথা উদ্ধৃত করেন: আরবদের ভাষায় খাইর আর খাইল একই শব্দ। কারণ এ ভাষায় র আর ল একটা আরেকটার জায়গা নিতে পারে, যেমন খাতালতু আর খাতারতু, দুটোরই মানে আমি তাকে ধোঁকা দিয়েছি। বাগাভীও একই উদাহরণ দিয়ে এই বদলের কথা বলেন। কুরতুবী আরও উল্লেখ করেন, ঘোড়ার মধ্যে অনেক উপকার আছে বলেও একে খাইর বলা হয়ে থাকতে পারে।"
+          },
+          {
+            "en": "Both also point to a hadith for the name. Al-Qurtubi relays it through an-Nahhas, and al-Baghawi alludes to it. Al-Bukhari records it from Abdullah ibn Umar (Hadith 2849): Allah's Messenger ﷺ said, \"Good will remain (as a permanent quality) in the foreheads of horses till the Day of Resurrection.\" The narration is not about this verse and was not said to explain it; the commentators use it only to show why horses could be called khayr. Al-Baghawi names the good it means: reward, and the spoils of war.",
+            "bn": "নামের পক্ষে দুজনই একটি হাদীসের দিকে ইঙ্গিত করেন। কুরতুবী তা আনেন নাহহাসের সূত্রে, বাগাভী তার দিকে ইশারা করেন। বুখারী তা আবদুল্লাহ ইবন উমর (রাঃ) থেকে বর্ণনা করেছেন (হাদীস ২৮৪৯): আল্লাহর রাসূল ﷺ বলেছেন, \"ঘোড়ার কপালে কিয়ামত পর্যন্ত কল্যাণ বাঁধা থাকবে।\" এ বর্ণনা এই আয়াত সম্পর্কে নয়, আয়াতের ব্যাখ্যায় বলাও হয়নি। তাফসীরকারেরা এটি আনেন শুধু এটুকু দেখাতে যে ঘোড়াকে কেন খাইর বলা যায়। বাগাভী সেই কল্যাণের নামও বলেন: সওয়াব, আর যুদ্ধলব্ধ সম্পদ।"
+          },
+          {
+            "en": "Others read al-khayr more widely. At-Tabari glosses it as wealth and horses, or the good of wealth, and relays from as-Suddi one report saying horses and one saying wealth. Al-Baghawi cites Muqatil: wealth, meaning the horses that were shown to him. As-Sa'di joins the two: wealth in general, and here the horses. The Muyassar says the love of wealth. On every reading, the word Sulayman (AS) chooses for what he loved is good.",
+            "bn": "কেউ কেউ আলখাইরকে আরও বিস্তৃত অর্থে নেন। তাবারী এর ব্যাখ্যা করেন সম্পদ ও ঘোড়া, অথবা সম্পদের কল্যাণ। সুদ্দী থেকে তিনি দুটি বর্ণনা আনেন, একটিতে ঘোড়া, অন্যটিতে সম্পদ। বাগাভী মুকাতিলের কথা আনেন: সম্পদ, অর্থাৎ তাঁর সামনে হাজির করা ঘোড়াগুলো। সা'দী দুটোকে মিলিয়ে দেন: সাধারণভাবে সম্পদ, আর এখানে উদ্দেশ্য ঘোড়া। মুয়াসসার বলে সম্পদের ভালোবাসা। যে পাঠই নিন, সুলাইমান (আঃ) যা ভালোবেসেছিলেন তার জন্য তাঁর বেছে নেওয়া শব্দটি হলো কল্যাণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Remembrance Named Asr",
+          "bn": "যে জিকিরের নাম আসর"
+        },
+        "p": [
+          {
+            "en": "An dhikri rabbi: away from, or over, the remembrance of my Lord. At-Tabari reads it as: I loved good things until I became forgetful of the remembrance of my Lord and of performing what He made obligatory, and he adds that this is said to have been the Asr prayer. He names Qatada and as-Suddi, each explaining the phrase as the Asr prayer. Al-Baghawi agrees: the prayer, and it was Asr.",
+            "bn": "আন যিকরি রাব্বী: আমার রবের জিকির থেকে সরে, কিংবা জিকিরের উপরে। তাবারী এর অর্থ করেন: আমি ভালো জিনিসকে এতটা ভালোবেসেছি যে রবের জিকির আর তাঁর ফরজ আদায়ের কথা ভুলে গেছি। তিনি যোগ করেন, বলা হয় এটা ছিল আসরের নামাজ। এরপর তিনি কাতাদা ও সুদ্দীর নাম আনেন, দুজনই অংশটার অর্থ করেছেন আসরের নামাজ। বাগাভীও একমত: নামাজ, আর তা ছিল আসর।"
+          },
+          {
+            "en": "At-Tabari also relays, with its chain, a report from Ali ibn Abi Talib: asked about the middle prayer, he said it is Asr, and that it is the prayer by which Sulayman ibn Dawud was tried. This is Ali's own statement, not a saying of the Prophet ﷺ. The phrase the middle prayer comes from 2:238, where the believers are told to guard the prayers and the middle prayer.",
+            "bn": "তাবারী সনদসহ আলী ইবন আবী তালিব (রাঃ)-এর একটি বর্ণনাও আনেন। মধ্যবর্তী নামাজ সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেন, তা আসর, আর এটাই সেই নামাজ যা দিয়ে সুলাইমান ইবন দাঊদকে পরীক্ষা করা হয়েছিল। কথাটা আলী (রাঃ)-এর নিজের, নবী ﷺ-এর বাণী নয়। মধ্যবর্তী নামাজ শব্দবন্ধটি এসেছে ২:২৩৮ আয়াত থেকে, যেখানে মুমিনদের বলা হয়েছে নামাজগুলোর, বিশেষ করে মধ্যবর্তী নামাজের হেফাজত করতে।"
+          },
+          {
+            "en": "Not everyone took an obligatory prayer to be meant. In his commentary on the next verse, al-Qurtubi quotes al-Qushayri, who relays under the words it is said a view that at that time there was neither a Zuhr nor an Asr prayer, and that what he had been kept from was a voluntary prayer. The same view adds that Sulayman (AS) was a man of such awe that no one reminded him of it, and that those around him assumed the delay was permitted.",
+            "bn": "ফরজ নামাজই উদ্দেশ্য, সবাই তা মানেননি। পরের আয়াতের তাফসীরে কুরতুবী কুশাইরীর কথা উদ্ধৃত করেন। কুশাইরী 'বলা হয়' বলে একটি মত আনেন: সে যুগে জোহর বা আসরের নামাজ ছিল না, আর যা থেকে তিনি সরে ছিলেন তা ছিল নফল নামাজ। একই মতে আরও আছে, সুলাইমান (আঃ) এমন গাম্ভীর্যপূর্ণ মানুষ ছিলেন যে কেউ তাঁকে মনে করিয়ে দেয়নি। আশপাশের লোকেরা ধরে নিয়েছিল, দেরি করা জায়েয।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sun or Steeds Behind the Veil",
+          "bn": "পর্দার আড়ালে সূর্য, নাকি ঘোড়া"
+        },
+        "p": [
+          {
+            "en": "Hatta tawarat bil-hijab: until it was hidden by the veil. The verb is feminine and its subject is not named. At-Tabari, al-Baghawi and the Muyassar take it to be the sun: it set. Al-Qurtubi agrees, and explains that Arabic may point with a pronoun to something not yet mentioned. He cites ala zahriha in 35:45, meaning the earth; balaghati l-hulqum in 56:83, meaning the soul; and innaha tarmi bi-shararin in 77:32, though the Fire had not been named.",
+            "bn": "হাত্তা তাওয়ারাত বিলহিজাব: শেষে তা পর্দার আড়ালে লুকিয়ে গেল। ক্রিয়াটি স্ত্রীলিঙ্গ, কর্তার নাম নেই। তাবারী, বাগাভী ও মুয়াসসার কর্তা ধরেন সূর্যকে, অর্থাৎ সূর্য ডুবে গেল। কুরতুবীও তাই বলেন। তাঁর ব্যাখ্যা, আরবি ভাষায় আগে উল্লেখ না করা জিনিসের দিকেও সর্বনাম দিয়ে ইশারা করা যায়। উদাহরণ তিনি কুরআন থেকেই দেন: ৩৫:৪৫ আয়াতে আলা যাহরিহা, অর্থাৎ পৃথিবীর পিঠে। ৫৬:৮৩ আয়াতে বালাগাতিল হুলকূম, অর্থাৎ প্রাণ কণ্ঠনালিতে পৌঁছাল। আর ৭৭:৩২ আয়াতে ইন্নাহা তারমী বিশারারিন, অথচ আগুনের নাম তখনো আসেনি।"
+          },
+          {
+            "en": "Az-Zajjaj, in al-Qurtubi's account, allows such a pronoun only when the thing itself, or a pointer to it, has already come up. Here the pointer is bil-ashiyy in 38:31, which al-Qurtubi defines as the time after the sun passes its height. The veil, he says, is the night, called a veil because it covers what is in it. On this reading the verse closes at sunset, with the day's light gone.",
+            "bn": "কুরতুবীর বর্ণনায় যাজ্জাজ এমন সর্বনাম তখনই মেনে নেন, যখন জিনিসটা নিজে বা তার দিকে কোনো ইঙ্গিত আগে এসে গেছে। এখানে ইঙ্গিতটা ৩৮:৩১ আয়াতের বিলআশিয়্যি। কুরতুবী আশিয়্যির সংজ্ঞা দেন: সূর্য মাথার উপর থেকে হেলে পড়ার পরের সময়। পর্দা, তাঁর কথায়, রাত। রাতকে পর্দা বলা হয় কারণ তার ভেতরে যা থাকে রাত তা ঢেকে রাখে। এ পাঠে আয়াত শেষ হয় সূর্যাস্তে, দিনের আলো ফুরিয়ে যাওয়ার মুহূর্তে।"
+          },
+          {
+            "en": "Al-Qurtubi then gives the other reading, under the words it is said: tawarat refers to the horses. Sulayman (AS) had a circular course for racing them, and they ran until they passed out of his sight; the reason given is that the sun has not been mentioned. Al-Qurtubi also records from an-Nahhas that Sulayman (AS) was at prayer when captured horses were brought to be shown to him; he gestured with his hand, because he was praying, until the stable walls hid them.",
+            "bn": "এরপর কুরতুবী 'বলা হয়' বলে অন্য পাঠটি আনেন: তাওয়ারাত-এর কর্তা ঘোড়াগুলো। সুলাইমান (আঃ)-এর ঘোড়দৌড়ের একটা গোলাকার ময়দান ছিল। ঘোড়াগুলো দৌড়াতে দৌড়াতে তাঁর চোখের আড়ালে চলে যায়। যুক্তি হলো, সূর্যের উল্লেখ তো আগে আসেনি। কুরতুবী নাহহাস থেকে আরেকটি বর্ণনাও আনেন। সুলাইমান (আঃ) তখন নামাজে ছিলেন, এমন সময় যুদ্ধে পাওয়া ঘোড়াগুলো তাঁর সামনে হাজির করার জন্য আনা হলো। নামাজে ছিলেন বলে তিনি হাত দিয়ে ইশারা করলেন, আর শেষে আস্তাবলের দেয়াল ঘোড়াগুলোকে আড়াল করে দিল।"
+          },
+          {
+            "en": "That report goes on at the start of al-Qurtubi's commentary on 38:33: when he finished his prayer, he said, bring them back to me. On this reading no prayer was missed at all. The two readings stand side by side in the sources, and this article does not choose between them. Ma'arif al-Qur'an adds that al-Alusi rejected a story of the sun being returned for him, as not established from the Qur'an or the Hadith.",
+            "bn": "বর্ণনাটি এগিয়েছে ৩৮:৩৩ আয়াতের তাফসীরের শুরুতে, কুরতুবীর কাছেই: নামাজ শেষ করে তিনি বললেন, ওগুলো আমার কাছে ফিরিয়ে আনো। এ পাঠে কোনো নামাজই ছুটে যায়নি। দুটি পাঠ উৎসগুলোতে পাশাপাশি আছে, আর এ লেখা কোনোটিকে বেছে নিচ্ছে না। মাআরিফুল কুরআন আরও জানায়, তাঁর জন্য সূর্য ফিরিয়ে আনার একটি কাহিনি আলূসী নাকচ করেছেন, কারণ তা কুরআন বা হাদীস থেকে প্রমাণিত নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forgetting, Not Turning Away",
+          "bn": "ভুলে যাওয়া, মুখ ফেরানো নয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reports that a number of the early generations and the commentators said Sulayman (AS) was so taken up with the horses being shown to him that the time of Asr passed. He then gives his own firm judgement: it was not left deliberately, but through forgetting. The verse itself gives only the words of Sulayman (AS) about himself, and a reader should not turn them into a charge of wilful neglect, which neither the verse nor these commentators make.",
+            "bn": "ইবন কাসীর জানান, সালাফ ও তাফসীরকারদের একাধিক জন বলেছেন, সুলাইমান (আঃ) সামনে হাজির করা ঘোড়াগুলো দেখায় এতটা মগ্ন ছিলেন যে আসরের সময় পেরিয়ে যায়। এরপর তিনি নিজের দৃঢ় সিদ্ধান্ত জানান: নামাজ ইচ্ছা করে ছাড়া হয়নি, ছুটেছে ভুলে যাওয়ার কারণে। আয়াত নিজে শুধু নিজের সম্পর্কে সুলাইমান (আঃ)-এর কথাগুলো দেয়। সেই কথাকে ইচ্ছাকৃত অবহেলার অভিযোগে পরিণত করা পাঠকের উচিত নয়। এমন অভিযোগ আয়াতও করেনি, এই তাফসীরকারেরাও করেননি।"
+          },
+          {
+            "en": "For a parallel Ibn Kathir turns to the day of al-Khandaq, established, he says, in the two Sahihs through several routes. Al-Bukhari records from Jabir ibn Abdullah (Hadith 596) that Umar came after sunset, cursing the disbelievers of Quraysh, and said he had barely prayed Asr as the sun was about to set. The Prophet ﷺ said, \"By Allah! I, too, have not prayed.\" They went to Buthan and made ablution, and he prayed Asr after the sun had set, then Maghrib.",
+            "bn": "তুলনার জন্য ইবন কাসীর খন্দকের দিনের কথা আনেন, যা তাঁর ভাষায় দুই সহীহ গ্রন্থে একাধিক সূত্রে প্রমাণিত। বুখারী জাবির ইবন আবদুল্লাহ (রাঃ) থেকে বর্ণনা করেছেন (হাদীস ৫৯৬): সূর্য ডোবার পর উমর (রাঃ) কুরাইশ কাফিরদের গালমন্দ করতে করতে এলেন। বললেন, সূর্য প্রায় ডুবে যাচ্ছিল, তখন কোনোমতে আসর পড়েছেন। নবী ﷺ বললেন, \"আল্লাহর কসম! আমিও তো পড়িনি।\" তাঁরা বুতহানের দিকে গেলেন, ওযু করলেন। তিনি সূর্য ডোবার পর আসর পড়লেন, তারপর মাগরিব।"
+          },
+          {
+            "en": "Ibn Kathir raises another possibility: that their law allowed prayer to be delayed for the needs of war, horses being kept for fighting. Some scholars, he says, held that such delay was once legislated and later replaced by the prayer of fear; others, a view he reports from Makhul and al-Awza'i, allowed it in the thick of combat, as at the conquest of Tustar. Of these, Ibn Kathir calls the first closer, giving as his reason what follows in 38:33.",
+            "bn": "ইবন কাসীর আরেকটি সম্ভাবনার কথাও বলেন: হয়তো তাঁদের শরীয়তে যুদ্ধের প্রয়োজনে নামাজ পিছিয়ে দেওয়া জায়েয ছিল, কারণ ঘোড়া রাখা হয় লড়াইয়ের জন্য। তাঁর কথায়, কিছু আলেম বলেছেন এমন বিলম্ব একসময় বিধিসম্মত ছিল, পরে সালাতুল খাওফ তার জায়গা নেয়। আর কেউ কেউ তা জায়েয ধরেছেন তুমুল লড়াইয়ের মুহূর্তে, যেমন তুসতার বিজয়ের সময়। এ মত তিনি মাকহূল ও আওযাঈ থেকে উল্লেখ করেন। এগুলোর মধ্যে ইবন কাসীর প্রথমটিকে বেশি কাছাকাছি বলেন, আর কারণ হিসেবে দেখান ৩৮:৩৩-এর ঘটনা।"
+          },
+          {
+            "en": "As-Sa'di reads the sentence as spoken in regret over what had passed, as drawing near to Allah through the very thing that had occupied him, and as putting the love of Allah ahead of every other love. Ma'arif al-Qur'an likewise says Sulayman (AS) counted the episode a lapse of his own and made amends for it. Both describe how he himself weighed the moment.",
+            "bn": "সা'দীর পাঠে বাক্যটি বলা হয়েছে যা ঘটে গেছে তার জন্য অনুতাপ থেকে। যে জিনিস তাঁকে ব্যস্ত রেখেছিল, সেটা দিয়েই আল্লাহর নৈকট্য খোঁজা, আর অন্য সব ভালোবাসার আগে আল্লাহর ভালোবাসাকে রাখা। মাআরিফুল কুরআনও বলে, সুলাইমান (আঃ) ঘটনাটিকে নিজের একটি বিচ্যুতি গণ্য করে তার প্রতিকার করেছিলেন। দুটি ব্যাখ্যাই দেখায়, তিনি নিজে মুহূর্তটিকে কীভাবে মেপেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Legs and Necks, Read Twice",
+          "bn": "পা আর গলা, দুই পাঠে"
+        },
+        "p": [
+          {
+            "en": "The next verse, 38:33, has him ask for the horses back and set about mas-han bil-suqi wal-a'naq, wiping or striking at their legs and necks. Ibn Kathir reports al-Hasan al-Basri and Qatada saying he had them slaughtered, and as-Suddi saying their necks and hamstrings were struck with swords. Through Ali ibn Abi Talha he reports Ibn Abbas saying that he stroked the horses' manes and legs, and notes that this is the reading at-Tabari chose.",
+            "bn": "পরের আয়াত ৩৮:৩৩ বলে, তিনি ঘোড়াগুলো ফেরত চাইলেন, তারপর মাসহান বিসসূকি ওয়ালআ'নাক শুরু করলেন, অর্থাৎ পা আর গলায় হাত বুলানো, কিংবা আঘাত করা। ইবন কাসীর জানান, হাসান বসরী ও কাতাদা বলেছেন তিনি ঘোড়াগুলো জবাই করার নির্দেশ দেন, আর সুদ্দী বলেছেন তলোয়ার দিয়ে সেগুলোর গলা ও পায়ের রগে আঘাত করা হয়। আলী ইবন আবী তালহার সূত্রে তিনি ইবন আব্বাস (রাঃ)-এর কথাও আনেন: তিনি ঘোড়াগুলোর কেশর আর পায়ে হাত বুলাতে লাগলেন। ইবন কাসীর জানান, তাবারী এই পাঠটিই বেছে নিয়েছেন।"
+          },
+          {
+            "en": "At-Tabari's reason, as Ibn Kathir gives it: Sulayman (AS) would not torment an animal by hamstringing it, or destroy his own property, when the horses had done no wrong. Ibn Kathir answers that their law may have allowed it, done in anger for Allah's sake. The Muyassar calls it an act of nearness to Allah, sacrificing horses being lawful in his law. The disagreement belongs to 38:33 and is left there, with both names and no verdict.",
+            "bn": "ইবন কাসীরের বর্ণনায় তাবারীর যুক্তি: ঘোড়াগুলোর তো কোনো দোষ ছিল না, তাই সুলাইমান (আঃ) পায়ের রগ কেটে কোনো প্রাণীকে কষ্ট দেবেন না, নিজের সম্পদও নষ্ট করবেন না। ইবন কাসীরের জবাব: হয়তো তাঁদের শরীয়তে এমন কাজ জায়েয ছিল, আর তা ছিল আল্লাহর জন্য ক্রোধ থেকে। মুয়াসসার বলে, কাজটা ছিল আল্লাহর নৈকট্যের জন্য, কারণ তাঁর শরীয়তে ঘোড়া কুরবানি করা বৈধ ছিল। মতভেদটা ৩৮:৩৩ আয়াতের বিষয়। দুই নামসহ সেটা সেখানেই রইল, এখানে কোনো রায় নেই।"
+          },
+          {
+            "en": "This needs saying plainly. These verses describe what one prophet did, as the commentators read it, under a law that was his. Nothing in them licenses cruelty to animals, or harming any creature to punish oneself. Ma'arif al-Qur'an itself insists that a penalty one sets on oneself must be lawful in itself and that wasting property without valid reason is not permissible; it reports that discerning Sufis such as ash-Sha'rani disapproved when ash-Shibli burned his clothes in that spirit.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। তাফসীরকারদের পাঠ অনুযায়ী এ আয়াতগুলো একজন নবীর কাজের বর্ণনা, তাঁর নিজের শরীয়তের অধীনে। প্রাণীর প্রতি নিষ্ঠুরতার কোনো অনুমতি এখানে নেই, নিজেকে শাস্তি দিতে কোনো প্রাণীর ক্ষতি করারও না। মাআরিফুল কুরআন নিজেই জোর দিয়ে বলে, নিজের উপর চাপানো শাস্তি নিজে হালাল হতে হবে, আর সঙ্গত কারণ ছাড়া সম্পদ নষ্ট করা জায়েয নয়। সেখানে আরও আছে, শিবলী এ মনোভাব থেকে নিজের কাপড় পুড়িয়ে ফেলেছিলেন, আর শা'রানীর মতো বিচক্ষণ সুফিরা তা সমর্থন করেননি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws one more lesson: inspecting horses kept for jihad was worship in its own right, yet that hour belonged to the prayer, just as after the call to Jumu'ah one should not stay busy with anything but preparing for it, even recitation. A sound narration, not attached to this verse, shows the same care. Al-Bukhari records from Aisha (Hadith 373) that the Prophet ﷺ looked at a garment's markings during prayer, then said, \"Take this Khamisa of mine to Abu Jahm and get me his Inbijaniya (a woolen garment without marks) as it (the Khamisa) has diverted my attention from the prayer.\"",
+            "bn": "মাআরিফুল কুরআন আরেকটি শিক্ষা টানে। জিহাদের জন্য রাখা ঘোড়া পরিদর্শন নিজেই ইবাদত ছিল, কিন্তু সময়টা ছিল নামাজের। তেমনি জুমার আজানের পর জুমার প্রস্তুতি ছাড়া অন্য কিছুতে ব্যস্ত থাকা ঠিক নয়, তা কুরআন তিলাওয়াত হলেও। একটি সহীহ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, একই সতর্কতা দেখায়। বুখারী আয়িশা (রাঃ) থেকে বর্ণনা করেছেন (হাদীস ৩৭৩): নামাজের মধ্যে নবী ﷺ একটি চাদরের নকশার দিকে তাকিয়েছিলেন। পরে তিনি বললেন, \"আমার এই খামীসাটি আবূ জাহমের কাছে নিয়ে যাও, আর আমাকে আবূ জাহমের আম্বিজানিয়্যাটি (নকশাবিহীন পশমি চাদর) এনে দাও, কারণ এটি এইমাত্র আমাকে নামাজ থেকে অন্যমনস্ক করেছে।\""
+          }
+        ]
+      }
+    ]
+  },
   "38:34": {
     "sections": [
       {
