@@ -2751,6 +2751,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:56": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Reply That Answers Nothing",
+          "bn": "যে জবাবে কোনো উত্তর নেই"
+        },
+        "p": [
+          {
+            "en": "Fa-ma kana jawaba qawmihi illa an qalu: and the answer of his people was nothing but that they said. In 27:54 and 27:55 Lut (AS) had put two questions to his people and closed with a judgement of his own, that they were a people behaving ignorantly. This verse is their reply. It opens with fa, then, which ties the reply directly to what he had just said; the near-identical line in 7:82 opens with wa, and.",
+            "bn": "ফামা কানা জাওয়াবা কাওমিহী ইল্লা আন কালূ: তার সম্প্রদায়ের জবাব এ কথা বলা ছাড়া আর কিছুই ছিল না। ২৭:৫৪ ও ২৭:৫৫ আয়াতে লূত (আঃ) তাঁর সম্প্রদায়কে দুটি প্রশ্ন করেছিলেন, আর শেষে নিজের রায় দিয়েছিলেন: তোমরা এমন জাতি যারা মূর্খের আচরণ করছ। এ আয়াত তাদের জবাব। শুরু হয়েছে 'ফা' দিয়ে, যার অর্থ তখন বা অতঃপর। এই অব্যয় জবাবটিকে সরাসরি তাঁর সদ্য বলা কথার সঙ্গে জুড়ে দেয়। ৭:৮২ আয়াতে প্রায় হুবহু একই বাক্য শুরু হয়েছে 'ওয়া' দিয়ে, অর্থাৎ আর।"
+          },
+          {
+            "en": "As-Sa'di begins by listing what the answer was not. It was not acceptance, he writes, nor being held back, nor taking heed and remembering. Their answer was opposition and contradiction, and a threat against their sincere adviser and trustworthy messenger: exile from his homeland, and being driven from his town. Lut had asked whether they did this deed, and they did not deny it, explain it or defend it. The whole of their reply is about him and his household, and none of it is about his question.",
+            "bn": "সা'দী শুরু করেন জবাবটা কী ছিল না, তার তালিকা দিয়ে। তা কবুল করা ছিল না, থেমে যাওয়া ছিল না, উপদেশ নিয়ে সজাগ হওয়াও ছিল না। তাদের জবাব ছিল বিরোধিতা আর পাল্টা কথা। সঙ্গে ছিল তাদের কল্যাণকামী নবী ও বিশ্বস্ত রাসূলের প্রতি হুমকি: তাঁকে দেশছাড়া করা হবে, নিজের জনপদ থেকে তাড়িয়ে দেওয়া হবে। লূত (আঃ) জিজ্ঞেস করেছিলেন, তোমরা কি এ কাজ কর? তারা অস্বীকার করেনি, ব্যাখ্যাও দেয়নি, পক্ষেও কিছু বলেনি। পুরো জবাবটাই তাঁকে আর তাঁর পরিবারকে নিয়ে। তাঁর প্রশ্নের ধারেকাছেও তা যায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Your Town, Their Exile",
+          "bn": "জনপদ তোমাদের, নির্বাসন তাদের"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains that Lut's people had no answer for him, when he forbade them what Allah had commanded him to forbid, except some of them saying to others: expel the family of Lut from your town. The Muyassar reads it the same way, as the saying of some of them to others. He is spoken about, as a matter the town has to settle among itself. Their reply is not an answer given to him at all; it is a decision taken about him.",
+            "bn": "তাবারী ব্যাখ্যা করেন: আল্লাহ লূত (আঃ)-কে যা থেকে নিষেধ করতে বলেছিলেন, তিনি যখন তাদের তা থেকে নিষেধ করলেন, তখন তাঁর জন্য তাদের কোনো জবাব ছিল না। ছিল শুধু একে অপরকে বলা: লূতের পরিবারকে তোমাদের জনপদ থেকে বের করে দাও। মুয়াসসারও একইভাবে পড়ে, এটা তাদের নিজেদের মধ্যে বলাবলি। তাঁকে নিয়ে কথা হচ্ছে, যেন তিনি এমন এক বিষয় যার মীমাংসা জনপদকে নিজেদের মধ্যেই করতে হবে। এটা তাঁকে দেওয়া কোনো জবাবই নয়, তাঁর ব্যাপারে নেওয়া এক সিদ্ধান্ত।"
+          },
+          {
+            "en": "Min qaryatikum, from your town: the speakers hand the town to one another as its owners, and set Lut's household outside it. Ibn Kathir draws out their logic: expel them from among you, for they are not fit to be your neighbours in your land. And the household has a name here. In 7:82 the people say only akhrijuhum, expel them; in this verse they say akhriju al Lut, expel the family of Lut, as one body. 27:57 answers with the same unit: so We saved him and his family, except his wife.",
+            "bn": "মিন কারইয়াতিকুম, তোমাদের জনপদ থেকে। বক্তারা জনপদটাকে একে অপরের হাতে তুলে দিচ্ছে, যেন তারাই এর মালিক। আর লূতের পরিবারকে রাখছে তার বাইরে। ইবন কাসীর তাদের যুক্তিটা খুলে বলেন: ওদেরকে তোমাদের মাঝখান থেকে বের করে দাও, তোমাদের দেশে তোমাদের প্রতিবেশী হওয়ার যোগ্য ওরা নয়। এখানে পরিবারটির নামও আছে। ৭:৮২ আয়াতে লোকেরা শুধু বলে 'আখরিজূহুম', ওদের বের করে দাও। এ আয়াতে বলে 'আখরিজূ আলা লূত', লূতের পরিবারকে বের করে দাও, পুরো ঘরটাকে এক দল ধরে। ২৭:৫৭ আয়াত জবাব দেয় সেই একই দল দিয়ে: অতঃপর আমি তাকে ও তার পরিবারকে রক্ষা করলাম, তার স্ত্রী ছাড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Purity Spoken as a Jeer",
+          "bn": "ঠাট্টার মুখে পবিত্রতা"
+        },
+        "p": [
+          {
+            "en": "Innahum unasun yatatahharun: they are people who keep themselves pure. At-Tabari carries a gloss on it through three chains that run through Mujahid, one of them reaching back to Ibn 'Abbas. Each names what Lut's household kept clear of, and the two that stop at Mujahid add a phrase that sets the tone: istihza'an bihim, in mockery of them. One of them has him say, they say that, mocking them. Al-Qurtubi relays the same from Mujahid in a single line: they said it in mockery. On this reading the word pure is a sneer.",
+            "bn": "ইন্নাহুম উনাসুন ইয়াতাতাহহারূন: এরা এমন লোক যারা পবিত্র থাকতে চায়। তাবারী এর ব্যাখ্যা আনেন মুজাহিদের মধ্য দিয়ে আসা তিনটি সূত্রে, যার একটি পৌঁছেছে ইবন আব্বাস (রাঃ) পর্যন্ত। প্রতিটিতেই বলা আছে লূতের পরিবার কোন জিনিস থেকে দূরে থাকত। আর যে দুটি সূত্র মুজাহিদে গিয়ে থামে, সেগুলোতে এমন একটি কথা যোগ হয়েছে যা পুরো সুরটাই ঠিক করে দেয়: ইসতিহযাআন বিহিম, তাদের নিয়ে ঠাট্টা করে। তার একটিতে কথাটা এরকম: তারা ঠাট্টা করে এ কথা বলত। কুরতুবীও মুজাহিদ থেকে এক লাইনে একই কথা আনেন: তারা কথাটা বলেছিল বিদ্রূপ করে। এই পাঠে 'পবিত্র' শব্দটা আসলে খোঁচা।"
+          },
+          {
+            "en": "The Muyassar keeps the same reading in plain words: they are people who hold themselves above the deed, yatanazzahun, and they said it in mockery of them. At-Tabari, al-Baghawi, as-Sa'di, the Muyassar and the Jalalayn on quranx all name what the household kept clear of as the very deed Lut had named in 27:55, and this article will not describe it beyond the Qur'an's own words. What matters here is the tone. In the town's mouth, purity was something to laugh at, as if to say: these people think they are too clean for us.",
+            "bn": "মুয়াসসার সহজ ভাষায় একই পাঠ রাখে: এরা এমন লোক যারা ওই কাজ থেকে নিজেদের ঊর্ধ্বে রাখে, ইয়াতানাযযাহূন। আর কথাটা তারা বলেছিল ঠাট্টা করে। তাবারী, বাগাভী, সা'দী, মুয়াসসার এবং কুরানএক্স-এ থাকা জালালাইন সবাই বলেন, লূতের পরিবার দূরে থাকত ঠিক সেই কাজ থেকে, যার কথা লূত (আঃ) ২৭:৫৫ আয়াতে বলেছিলেন। কুরআনের নিজের শব্দের বাইরে এ লেখা সে কাজের আর কোনো বিবরণ দেবে না। এখানে আসল বিষয় হলো সুর। জনপদের মুখে পবিত্রতা ছিল হাসির খোরাক, যেন তারা বলছে: এরা নিজেদের আমাদের চেয়ে বেশি পরিষ্কার মনে করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Blamed for Being Blameless",
+          "bn": "নির্দোষ হওয়াই যখন দোষ"
+        },
+        "p": [
+          {
+            "en": "Qatada, in at-Tabari, hears the sentence another way. He recited the phrase and said: 'abuhum bi-ghayri 'ayb, they found fault with them where there was no fault, meaning that they keep themselves pure of evil deeds. Al-Qurtubi relays him with an oath inside the words: they faulted them, by Allah, with no fault. Qatada's remark does not speak of mockery at all. Taken on its own terms, what the speakers said of Lut's household was simply true, and they offered that truth as grounds for exile.",
+            "bn": "তাবারীতে কাতাদা বাক্যটা শোনেন অন্যভাবে। তিনি আয়াতাংশটি পড়ে বলেন: আবূহুম বিগাইরি আইব, দোষ না থাকা সত্ত্বেও তারা তাদের দোষ ধরল। অর্থাৎ এরা মন্দ কাজ থেকে নিজেদের পবিত্র রাখে। কুরতুবী কাতাদার কথাটা আনেন ভেতরে একটা কসমসহ: আল্লাহর কসম, কোনো দোষ ছাড়াই তারা তাদের দোষী বানাল। কাতাদার কথায় ঠাট্টার কোনো উল্লেখই নেই। সে কথা যেমন আছে তেমন নিলে, লূতের পরিবার সম্পর্কে বক্তারা যা বলেছিল তা আসলে সত্য। আর সেই সত্যকেই তারা বানাল নির্বাসনের কারণ।"
+          },
+          {
+            "en": "Ibn Kathir explains the word a third way, without the language of mockery: yataharrajun, they feel too constrained to do what you do. None of the commentators fetched here argues one reading against another. Mujahid hears a sneer; Qatada, a fault made out of a virtue; Ibn Kathir, a plain description of the believers' unease. They differ on what the speakers felt as they spoke. They agree on the substance: the household's only offence was that it would not take part.",
+            "bn": "ইবন কাসীর শব্দটার ব্যাখ্যা দেন তৃতীয়ভাবে, ঠাট্টার কোনো কথা না তুলে: ইয়াতাহাররাজূন, তোমরা যা কর তা করতে তাদের মনে বাধে। এখানে যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই একটির বিপক্ষে আরেকটির পক্ষে যুক্তি দেয় না। মুজাহিদ শোনেন বিদ্রূপ। কাতাদা দেখেন এমন দোষ, যা বানানো হয়েছে একটা গুণ থেকে। ইবন কাসীর দেখেন মুমিনদের অস্বস্তির সাদামাটা বর্ণনা। বলার সময় বক্তাদের মনে কী ছিল, সেখানে তাঁদের পার্থক্য। মূল কথায় তাঁরা একমত: পরিবারটির একমাত্র অপরাধ, তারা ওই কাজে শরিক হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Refusing Even to Approve",
+          "bn": "সায় দিতেও অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's gloss has a second half that is easy to pass over. They hold back from doing what you do, he writes, wa min iqrarikum 'ala sani'ikum, and from approving you in your conduct. Lut's household was not faulted only for abstaining. It would not let the deed stand as acceptable. That, on his paraphrase, is why the town judged them unfit to be its neighbours. Keeping out of a wrong is not the same as declining to bless it when everyone around has blessed it, and it was the second the town could not bear.",
+            "bn": "ইবন কাসীরের ব্যাখ্যার দ্বিতীয় অর্ধেকটা সহজেই চোখ এড়িয়ে যায়। তিনি লেখেন, তোমরা যা কর তা করতে তাদের বাধে, ওয়া মিন ইকরারিকুম আলা সানীইকুম, আর তোমাদের এ আচরণে সায় দিতেও বাধে। লূতের পরিবারকে শুধু দূরে থাকার জন্য দোষী করা হয়নি। তারা কাজটাকে মেনে নেওয়ার মতো বলে চলতে দেয়নি। তাঁর ব্যাখ্যায় এ কারণেই জনপদ তাদের প্রতিবেশী হওয়ার অযোগ্য ঠাওরাল। অন্যায় থেকে সরে থাকা আর চারপাশের সবাই সায় দেওয়ার পরও নিজে সায় না দেওয়া, দুটো এক জিনিস নয়। আর জনপদ সহ্য করতে পারেনি এই দ্বিতীয়টাই।"
+          },
+          {
+            "en": "As-Sa'di supplies the question the verse leaves unspoken. It is as if they were asked: what do you hold against them, and what is their sin that calls for expulsion? And they answered: they are people who keep themselves pure. His verdict follows: they made the best of good deeds stand in the place of the ugliest of evil ones. Nor were they content with disobeying their prophet's warning; they went on until they reached the point of driving him out. Values were turned upside down, and the response grew from refusing the warning to removing the messenger.",
+            "bn": "আয়াত যে প্রশ্নটা মুখে আনেনি, সা'দী তা জুড়ে দেন। যেন তাদের জিজ্ঞেস করা হলো: ওদের বিরুদ্ধে তোমাদের আপত্তিটা কী, ওদের এমন কী গুনাহ যার জন্য বের করে দিতে হবে? তারা জবাব দিল: এরা এমন লোক যারা পবিত্র থাকতে চায়। এরপর তাঁর রায়: সবচেয়ে উত্তম নেক কাজকে তারা বসিয়ে দিল সবচেয়ে কুৎসিত গুনাহর জায়গায়। নবীর উপদেশ অমান্য করেই তারা ক্ষান্ত হয়নি, শেষে তাঁকে বের করে দেওয়া পর্যন্ত পৌঁছে গেল। ভালো-মন্দের পাল্লা উল্টে গিয়েছিল। আর প্রতিক্রিয়াও বেড়েছিল ধাপে ধাপে: আগে সতর্কবাণী প্রত্যাখ্যান, তারপর রাসূলকেই সরিয়ে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sentence Turned Back",
+          "bn": "যে কথা তাদের দিকেই ফিরল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di closes with a saying he quotes without naming its source: al-bala' muwakkal bil-mantiq, trial is entrusted to speech. They said, put them out of your town, they are people who keep themselves pure. The implied sense of those words, he writes, is this: and you are stained with filth and foulness, which calls for punishment to come down on your town, and for the rescue of whoever leaves it. Their own sentence, read to its end, already held the outcome.",
+            "bn": "সা'দী শেষ করেন একটি উক্তি দিয়ে, যার উৎস তিনি উল্লেখ করেন না: আল-বালাউ মুওয়াক্কালুন বিল-মানতিক, বিপদ বাঁধা থাকে মুখের কথার সঙ্গে। তারা বলেছিল, ওদের তোমাদের জনপদ থেকে বের করে দাও, এরা এমন লোক যারা পবিত্র থাকতে চায়। তাঁর মতে এ কথার ভেতরের অর্থ দাঁড়ায়: আর তোমরা নোংরা ও কলুষে মাখামাখি। আর সেই কলুষ ডেকে আনে তোমাদের জনপদে শাস্তি, আর যে সেখান থেকে বেরিয়ে যায় তার মুক্তি। তাদের নিজেদের বাক্যটাই, শেষ পর্যন্ত পড়লে, পরিণতিটা আগেই ধরে রেখেছিল।"
+          },
+          {
+            "en": "The next two verses carry that out. So We saved him and his family, except his wife; We destined her to be among those who remained behind (27:57). And We rained upon them a rain, and evil was the rain of those who had been warned (27:58). The household the town meant to throw out was brought out safe. Ibn Kathir compresses the turn into a line: they resolved on it, and Allah destroyed them, and for the disbelievers there is the like of it, the wording of 47:10.",
+            "bn": "পরের দুটি আয়াত ঠিক সেটাই ঘটায়। অতঃপর আমি তাকে ও তার পরিবারকে রক্ষা করলাম, তার স্ত্রী ছাড়া; তার ব্যাপারে আমি নির্ধারণ করে রেখেছিলাম, সে পেছনে থেকে যাওয়াদের দলে থাকবে (২৭:৫৭)। আর আমি তাদের উপর বর্ষালাম এক বৃষ্টি, যাদের সতর্ক করা হয়েছিল তাদের সে বৃষ্টি কতই না মন্দ (২৭:৫৮)! যে পরিবারকে জনপদ তাড়িয়ে দিতে চেয়েছিল, তাদের নিরাপদে বের করে আনা হলো। ইবন কাসীর মোড়টাকে এক লাইনে বেঁধে দেন: তারা এর সংকল্প করল, আল্লাহ তাদের ধ্বংস করলেন, আর কাফিরদের জন্য আছে অনুরূপ পরিণতি। শেষ কথাটা ৪৭:১০ আয়াতের শব্দ।"
+          },
+          {
+            "en": "The abridged English Ibn Kathir adds two links to our verse. On 27:58 he explains the warned as those against whom the proof was established and whom the warning reached, who opposed the Messenger, denied him, and resolved to drive him out from among them; the plan voiced here is part of what made them the warned. And on 27:57 he says the wife was destroyed with her people because she helped them in what they did and approved of their deeds. She who stayed behind is explained by the very approval her household refused.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ আমাদের আয়াতের সঙ্গে আরও দুটি যোগসূত্র দেখায়। ২৭:৫৮ আয়াতে তিনি 'সতর্ককৃত' বলতে বোঝান তাদের, যাদের বিরুদ্ধে প্রমাণ প্রতিষ্ঠিত হয়েছিল আর যাদের কাছে সতর্কবাণী পৌঁছেছিল, তবু তারা রাসূলের বিরোধিতা করেছিল, তাঁকে মিথ্যা বলেছিল এবং তাঁকে তাদের মাঝখান থেকে বের করে দেওয়ার সংকল্প করেছিল। অর্থাৎ এখানে মুখে আনা পরিকল্পনাটাও তাদের সতর্ককৃতদের দলে ফেলার অংশ। আর ২৭:৫৭ আয়াতে তিনি বলেন, স্ত্রী তার সম্প্রদায়ের সঙ্গে ধ্বংস হয়েছিল, কারণ সে তাদের কাজে সাহায্য করত আর তাদের কুকর্মে সায় দিত। যে পেছনে রয়ে গেল, তার ব্যাখ্যা সেই সায় দেওয়াই, যা তার পরিবার অস্বীকার করেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Frame, Several Replies",
+          "bn": "একই কাঠামো, ভিন্ন ভিন্ন জবাব"
+        },
+        "p": [
+          {
+            "en": "The Qur'an tells this exchange more than once, and the replies it records differ. 7:82 gives the words of our verse, with them in place of the family of Lut. In 26:167 the people threaten Lut (AS) to his face: if you do not stop, O Lut, you will surely be among those expelled. And in 29:29, after he names their deeds, the frame of our verse returns, fa-ma kana jawaba qawmihi illa an qalu, with a different ending: bring us Allah's punishment, if you are of the truthful.",
+            "bn": "কুরআন এই কথোপকথন একাধিকবার বলেছে, আর প্রতিবার যে জবাব উদ্ধৃত হয়েছে তা এক নয়। ৭:৮২ আয়াতে আছে আমাদের আয়াতেরই কথা, শুধু 'লূতের পরিবার'-এর জায়গায় 'ওদের'। ২৬:১৬৭ আয়াতে লোকেরা লূত (আঃ)-কে মুখের উপর হুমকি দেয়: হে লূত, তুমি যদি বিরত না হও, অবশ্যই তুমি বহিষ্কৃতদের দলে পড়বে। আর ২৯:২৯ আয়াতে, তিনি তাদের কাজগুলোর নাম বলার পর, আমাদের আয়াতের কাঠামো ফিরে আসে, ফামা কানা জাওয়াবা কাওমিহী ইল্লা আন কালূ। তবে শেষটা ভিন্ন: তুমি সত্যবাদী হলে আমাদের উপর আল্লাহর আযাব নিয়ে এসো।"
+          },
+          {
+            "en": "The commentaries fetched for this verse do not discuss how these replies fit together, and this article will not invent an account of it. What the frame does show is a pattern. In 29:24 the same words introduce the answer of the people of Ibrahim (AS) to him: kill him or burn him. Each time a messenger has spoken, and the answer is not a counter-argument but a move against his person. No tafsir fetched for this verse attaches a hadith to it, and none reports an occasion of revelation for it.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, সেগুলো এই জবাবগুলো কীভাবে একসঙ্গে মেলে তা আলোচনা করে না। এ লেখাও নিজের থেকে কোনো ব্যাখ্যা বানাবে না। তবে কাঠামোটা একটা ধারা দেখিয়ে দেয়। ২৯:২৪ আয়াতে ঠিক এই শব্দগুলো দিয়েই শুরু হয় ইবরাহীম (আঃ)-এর সম্প্রদায়ের জবাব: তাকে হত্যা কর অথবা আগুনে পুড়িয়ে দাও। প্রতিবারই একজন রাসূল কথা বলেছেন, আর জবাব এসেছে কোনো পাল্টা যুক্তি হিসেবে নয়, তাঁর নিজের বিরুদ্ধে পদক্ষেপ হিসেবে। এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, কোনো শানে নুযূলও উল্লেখ করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing Here to Carry Out",
+          "bn": "এখানে কার্যকর করার কিছু নেই"
+        },
+        "p": [
+          {
+            "en": "This must be said plainly. The verse describes what the text describes: a town's reply to its prophet, and an end that came from Allah alone, as 27:57 and 27:58 report it. It licenses nothing against any living person or community. It gives no one a warrant to threaten, shame, expose, expel or harm anyone, and it hands the reader no slur to use and no caricature to repeat. Whoever reaches for this verse to do any of those things has misread it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: এক জনপদের তার নবীকে দেওয়া জবাব, আর এমন এক পরিণতি যা এসেছিল কেবল আল্লাহর কাছ থেকে, যেমনটা ২৭:৫৭ ও ২৭:৫৮ আয়াত জানায়। আজ বেঁচে থাকা কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কাউকে হুমকি দেওয়া, লজ্জা দেওয়া, কারও গোপন কথা ফাঁস করা, তাড়িয়ে দেওয়া বা ক্ষতি করার কোনো অধিকার এ আয়াত কাউকে দেয় না। পাঠকের হাতে কোনো গালি বা বিদ্রূপের ছবিও তুলে দেয় না। এসব করতে কেউ এ আয়াত টেনে আনলে আয়াতটা সে ভুল পড়েছে।"
+          },
+          {
+            "en": "That misreading carries an irony. The wrong this verse records is a crowd agreeing among itself to drive a household out of its town. To take the verse as licence for driving anyone out would be to repeat, in the verse's own name, the very act it condemns. Lut (AS) himself used only words: questions, a warning, and in 26:168 a plain statement that he detested their deed. The judgement and its carrying out belonged to Allah, and the reader is given no share in either.",
+            "bn": "এই ভুল পড়ার মধ্যে একটা পরিহাস আছে। এ আয়াত যে অন্যায়ের কথা বলে, তা হলো একদল লোক নিজেদের মধ্যে ঠিক করে নিচ্ছে, একটা পরিবারকে জনপদ থেকে তাড়িয়ে দেবে। এ আয়াতকে কাউকে তাড়ানোর অনুমতি ভাবা মানে আয়াতেরই নাম নিয়ে ঠিক সেই কাজটা আবার করা, যার নিন্দা আয়াত নিজে করছে। লূত (আঃ) নিজে শুধু কথা দিয়েই কাজ করেছেন: প্রশ্ন, সতর্কবাণী, আর ২৬:১৬৮ আয়াতে স্পষ্ট ঘোষণা যে তাদের কাজকে তিনি ঘৃণা করেন। রায় আর তার বাস্তবায়ন ছিল আল্লাহর হাতে। পাঠককে এর কোনোটিতেই কোনো ভাগ দেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Clean Hands Offend",
+          "bn": "পরিষ্কার হাত যখন গায়ে লাগে"
+        },
+        "p": [
+          {
+            "en": "The verse has a smaller shape that needs no ancient town. A student will not copy in an exam, and the others call her a show-off. A clerk will not take the small payment everyone takes, and the office decides he thinks himself better than them. A man gets up when the talk at a gathering turns to backbiting, and is not asked back. Nobody answers his reason. The talk turns to his manner, and then to whether he belongs among them at all. That is the town's sentence, scaled down.",
+            "bn": "আয়াতটির একটা ছোট রূপও আছে, যার জন্য কোনো প্রাচীন জনপদ লাগে না। এক ছাত্রী পরীক্ষায় নকল করে না, বাকিরা তাকে বলে লোক দেখানো। এক কেরানি অফিসের সবাই যে ছোটখাটো ঘুষ নেয় তা নেয় না, অফিসের লোকেরা ধরে নেয় সে নিজেকে তাদের চেয়ে ভালো মনে করে। কোনো মজলিসে গিবত শুরু হলে একজন উঠে চলে যায়, পরের বার তাকে আর ডাকা হয় না। তার কারণটার জবাব কেউ দেয় না। কথা ঘুরে যায় তার স্বভাবের দিকে, তারপর এই প্রশ্নে যে সে আদৌ তাদের মধ্যে থাকার যোগ্য কি না। এ হলো সেই জনপদের রায়েরই ছোট সংস্করণ।"
+          },
+          {
+            "en": "I can read the verse from both sides. On the first, I ask whether I have ever called someone self-righteous because their restraint made my own habits look worse, or wanted them out of the room so that I would not have to feel it. On the second, I ask what I do when my restraint costs me a place. Ibn Kathir's gloss raises the bar further: Lut's household would not even approve what was done around them. Do I refuse only to do the wrong, or do I also refuse to smile at it?",
+            "bn": "আয়াতটা আমি দুই দিক থেকে পড়তে পারি। এক দিক থেকে নিজেকে জিজ্ঞেস করি: কারও সংযম আমার নিজের অভ্যাসকে খারাপ দেখাচ্ছিল বলে আমি কি কখনো তাকে 'বড় পরহেজগার' বলেছি? কিংবা চেয়েছি সে ঘর থেকে চলে যাক, যাতে অস্বস্তিটা আমাকে আর টের পেতে না হয়? অন্য দিক থেকে জিজ্ঞেস করি: সংযমের দাম যখন আমার জায়গা, তখন আমি কী করি? ইবন কাসীরের ব্যাখ্যা মানটা আরও উঁচুতে তোলে। লূতের পরিবার চারপাশে যা হচ্ছিল তাতে সায় পর্যন্ত দেয়নি। আমি কি শুধু অন্যায়টা নিজে করি না, নাকি তা দেখে মুচকি হাসতেও অস্বীকার করি?"
+          },
+          {
+            "en": "And the story ends with a reversal worth holding on to. The people told to get out were the ones brought out safe, and the purity mocked as a fault is what the Qur'an elsewhere names as loved: Allah loves those who purify themselves (9:108). Restraint that costs a seat at a table has not been wasted. Qatada's remark still stands over every such scene: they found fault with them where there was no fault.",
+            "bn": "আর কাহিনিটা শেষ হয় এমন এক উল্টো মোড়ে, যা মনে রাখার মতো। যাদের বলা হয়েছিল বেরিয়ে যাও, নিরাপদে বের করে আনা হলো তাদেরকেই। আর যে পবিত্রতাকে দোষ বলে ঠাট্টা করা হয়েছিল, কুরআন অন্য জায়গায় তাকেই প্রিয় বলে ঘোষণা করেছে: আল্লাহ পবিত্রতা অবলম্বনকারীদের ভালোবাসেন (৯:১০৮)। যে সংযমের দাম দিতে গিয়ে আসরে জায়গা হারাতে হয়, তা বৃথা যায়নি। এমন প্রতিটি দৃশ্যের উপর কাতাদার কথাটা আজও খাটে: দোষ না থাকা সত্ত্বেও তারা তাদের দোষ ধরল।"
+          }
+        ]
+      }
+    ]
+  },
   "27:60": {
     "sections": [
       {

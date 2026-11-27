@@ -35873,6 +35873,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Read the Qur'an's stories as true news sent to you by Allah, and listen as a believer who takes their lesson and acts on it.",
     "lessonBn": "কুরআনের কাহিনিগুলোকে আল্লাহর পাঠানো সত্য খবর হিসেবে পড়ুন, আর ঈমানদারের মতো শুনুন: শিক্ষা নিন এবং সে অনুযায়ী আমল করুন।"
+  },
+  "27:56": {
+    "reflectionEn": "Lut asked his people a question, and they did not answer it. They turned to one another and said: put his family out of your town, for they are people who keep themselves pure. No argument, no defence of what they did, only a verdict on the people who would not join them. Purity itself became the charge. The verse holds up a mirror from two sides. Have I ever mocked someone's restraint because it made my own conduct look worse? And when keeping clean costs me a place at the table, do I begin to feel that my restraint is the fault? The very people they wanted thrown out were the ones brought out safe.",
+    "reflectionBn": "লূত (আঃ) তাঁর সম্প্রদায়কে একটি প্রশ্ন করেছিলেন, তারা সে প্রশ্নের জবাব দেয়নি। নিজেরা নিজেদের মধ্যে বলাবলি করল: লূতের পরিবারকে তোমাদের জনপদ থেকে বের করে দাও, এরা এমন লোক যারা পবিত্র থাকতে চায়। কোনো যুক্তি নেই, নিজেদের কাজের পক্ষে একটা কথাও নেই। আছে শুধু তাদের বিরুদ্ধে রায়, যারা তাদের দলে ভিড়তে রাজি হয়নি। পবিত্রতাই হয়ে গেল অভিযোগ। আয়াতটি দুই দিক থেকে আয়না ধরে। কারও সংযম আমার নিজের আচরণকে খারাপ দেখাচ্ছিল বলে আমি কি কখনো তাকে নিয়ে ঠাট্টা করেছি? আর পরিচ্ছন্ন থাকার দাম হিসেবে যখন আসরে জায়গা হারাই, তখন কি নিজের সংযমকেই দোষ বলে মনে হতে থাকে? যাদের তারা তাড়িয়ে দিতে চেয়েছিল, নিরাপদে বের করে আনা হলো তাদেরকেই।",
+    "pointsEn": [
+      "When someone's restraint unsettles me, do I answer what they stand for, or reach for a label that makes them the problem?",
+      "Have I ever laughed along when a person was called self-righteous only because they would not take part?",
+      "Is there a habit around me so ordinary now that the one who avoids it looks strange, even to me?",
+      "If keeping clear of a wrong cost me my place in a group, would I give way, or count the loss as nothing?",
+      "Do I only refuse to do a wrong, or do I also refuse to approve it when others do it in front of me?"
+    ],
+    "pointsBn": [
+      "কারও সংযম যখন আমাকে অস্বস্তিতে ফেলে, আমি কি তার অবস্থানের জবাব দিই, নাকি এমন একটা তকমা খুঁজি যাতে সে-ই সমস্যা হয়ে দাঁড়ায়?",
+      "কেউ শুধু তাদের কাজে শরিক হয়নি বলে যখন তাকে 'বড় পরহেজগার' বলে খোঁটা দেওয়া হয়েছে, আমিও কি সঙ্গে হেসেছি?",
+      "আমার চারপাশে কি এমন কোনো অভ্যাস আছে যা এত স্বাভাবিক হয়ে গেছে যে, যে তা এড়িয়ে চলে তাকেই অদ্ভুত লাগে, এমনকি আমারও?",
+      "কোনো অন্যায় থেকে দূরে থাকার দাম যদি হয় দলের ভেতরে আমার জায়গা, আমি কি মাথা নুইয়ে দেব, নাকি সে ক্ষতিকে কিছুই মনে করব না?",
+      "আমি কি শুধু অন্যায়টা নিজে করি না, নাকি আমার সামনে অন্যরা তা করলে তাতে সায় দিতেও অস্বীকার করি?"
+    ],
+    "lessonEn": "When your restraint is mocked as self-righteousness, do not count it a fault; and never sneer at someone else's clean hands to quiet your own conscience.",
+    "lessonBn": "আপনার সংযমকে যখন 'পবিত্র সাজা' বলে ঠাট্টা করা হয়, তাকে দোষ ভাববেন না; আর নিজের বিবেককে চুপ করাতে কখনো অন্যের পরিচ্ছন্ন হাত নিয়ে বিদ্রূপ করবেন না।"
   }
 };
 
