@@ -4731,6 +4731,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:103": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Held Out First",
+          "bn": "উত্তরের আগে একটি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Qul hal nunabbi'ukum bil-akhsarina a'mala: say, shall We inform you of the greatest losers in their deeds? The verse holds a question and no answer. It comes straight after 18:102, where those who disbelieve are asked whether they think they can take Allah's servants as allies instead of Him, and are told that Hell has been prepared for them as a lodging. Then statement gives way to question. The listener is made to wait, and the answer arrives only in 18:104 and 18:105.",
+            "bn": "কুল হাল নুনাব্বিউকুম বিল-আখসারীনা আ‘মালা: বলো, আমি কি তোমাদের জানাব, আমলের দিক থেকে সবচেয়ে বেশি ক্ষতিতে কারা? আয়াতে প্রশ্ন আছে, উত্তর নেই। এর ঠিক আগে ১৮:১০২ আয়াতে কাফিরদের জিজ্ঞেস করা হয়েছে, তারা কি ভাবে আল্লাহকে বাদ দিয়ে তাঁর বান্দাদের অভিভাবক বানিয়ে নিতে পারবে? সঙ্গে জানিয়ে দেওয়া হয়েছে, তাদের মেহমানদারির জন্য জাহান্নাম তৈরি। এরপর ঘোষণার জায়গায় আসে প্রশ্ন। শ্রোতাকে অপেক্ষায় রাখা হয়। উত্তর আসে কেবল ১৮:১০৪ ও ১৮:১০৫ আয়াতে।"
+          },
+          {
+            "en": "What is the question for? As-Sa'di says the Prophet ﷺ is told to put it to people 'ala wajh at-tahdhir wa-l-indhar, by way of caution and warning, and he glosses the phrase as the greatest losers in deeds 'ala l-itlaq, without any qualification. The Muyassar likewise has it said to people as a warning. Al-Qurtubi hears a sharper note. The verse's meaning, he says, is tawbikh, rebuke: say to these disbelievers who worshipped other than Me that their effort and their hopes will come to nothing tomorrow. The commentators differ on the tone, and both readings stand.",
+            "bn": "প্রশ্নটা কেন? সা'দী বলেন, নবী ﷺ-কে বলা হয়েছে মানুষের সামনে কথাটা রাখতে ‘আলা ওয়াজহিত তাহযীর ওয়াল ইনযার, অর্থাৎ সাবধান করা ও ভয় দেখানোর জন্য। তিনি শব্দগুচ্ছের ব্যাখ্যা দেন: কোনো শর্ত ছাড়াই আমলের দিক থেকে সবচেয়ে ক্ষতিগ্রস্ত মানুষ। মুয়াসসারও বলে, কথাটা মানুষকে সতর্ক করে বলা। কুরতুবীর কানে সুরটা আরও কড়া। তাঁর মতে আয়াতের অর্থ তাওবীখ, অর্থাৎ ভর্ৎসনা: যে কাফিররা আমাকে ছেড়ে অন্যের ইবাদত করেছে, তাদের বলে দাও, আগামীকাল তাদের চেষ্টা আর আশা দুটোই বিফল হবে। সুরটা নিয়ে তাফসীরকারদের মত ভিন্ন, আর দুটো পাঠই এখানে থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Losing on the Bargain",
+          "bn": "সওদায় লোকসান"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads al-akhsarina a'malan through trade. They are, he says, those who wore themselves out in work by which they sought profit and gain, and reaped ruin and destruction from it, never reaching what they sought. They are like a man who buys goods hoping for gain and profit: his hope fails, his sale loses, and he is short-changed in the very thing he hoped would bring him gain. Al-Baghawi gives almost the same picture: they tired themselves hoping for favour and reward, and met destruction instead.",
+            "bn": "আল-আখসারীনা আ‘মালান কথাটা তাবারী বোঝান ব্যবসার ভাষায়। তাঁর ব্যাখ্যায় এরা সেই লোক, যারা লাভ আর মুনাফার আশায় কাজে নিজেদের ক্লান্ত করেছে, অথচ তা থেকে পেয়েছে সর্বনাশ আর ধ্বংস। যা চেয়েছিল, তার নাগাল পায়নি। এরা যেন সেই লোক, যে লাভের আশায় মাল কিনল। আশা ভাঙল, বেচাকেনায় লোকসান হলো, আর যে জিনিসে লাভ হবে ভেবেছিল, ঠকল সেটাতেই। বাগাভীর ছবিও প্রায় একই: তারা অনুগ্রহ আর প্রতিদানের আশায় খেটে মরেছে, কিন্তু পেয়েছে ধ্বংস।"
+          },
+          {
+            "en": "The picture is uncomfortable because the trader worked: he travelled, paid, waited and hoped. The emptiness shows only at the end, when the account is closed. The verse also says where the loss lies. It is not in wealth or in years but in a'mal, deeds. A person can lose money and recover it. A life of effort spent in the wrong direction is the kind of loss that 18:104 describes, effort that went astray in this world while its owner thought he was doing well.",
+            "bn": "ছবিটা অস্বস্তির, কারণ ব্যবসায়ী খেটেছিল। সে পথ চলেছে, দাম দিয়েছে, অপেক্ষা করেছে, আশা করেছে। শূন্যতা ধরা পড়ে কেবল শেষে, যখন হিসাব মেলানো হয়। আয়াতটি ক্ষতির জায়গাও বলে দেয়: সম্পদে নয়, বছরে নয়, আমলে। টাকা গেলে আবার ফিরে পাওয়া যায়। কিন্তু ভুল দিকে খরচ হয়ে যাওয়া একটা গোটা জীবনের চেষ্টা, এ সেই ক্ষতি যার কথা ১৮:১০৪ আয়াতে আছে। দুনিয়াতেই চেষ্টা পথ হারিয়েছে, অথচ মানুষটা ভেবেছে সে ভালো কাজ করছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Word Deeds Stands Alone",
+          "bn": "আ‘মাল শব্দটি আলাদা কেন"
+        },
+        "p": [
+          {
+            "en": "The phrase is bil-akhsarina a'malan, with a'malan in the accusative after a superlative that carries the definite article. At-Tabari reports that the scholars of Arabic differed over why. Some of the grammarians of Basra said that once the alif and lam, and the plural ending, had been put on al-akhsarin, the word could no longer be joined to what follows in a possessive construction. Since the deeds belong to the losers, the word for deeds was set in the accusative instead.",
+            "bn": "শব্দগুচ্ছটি বিল-আখসারীনা আ‘মালান। এখানে আ‘মালান এসেছে নসব অবস্থায়, যবর নিয়ে, আর তার আগের সর্বোচ্চতাবাচক শব্দে আছে আলিফ-লাম। তাবারী জানান, এর কারণ নিয়ে আরবি ভাষার পণ্ডিতদের মতভেদ আছে। বসরার কয়েকজন ব্যাকরণবিদ বলতেন, আল-আখসারীন শব্দে আলিফ-লাম আর বহুবচনের নূন বসে যাওয়ার পর পরের শব্দের সঙ্গে তাকে আর ইযাফত, অর্থাৎ সম্বন্ধপদের বাঁধনে জোড়া যায় না। অথচ আমলগুলো ক্ষতিগ্রস্তদেরই। তাই আমল শব্দটি নসব অবস্থায় বসেছে।"
+          },
+          {
+            "en": "Another grammarian treated it as the pattern of af'al and fu'la, like al-afdal and al-fudla, al-akhsar and al-khusra. He compared the Arab phrase marartu bi-rajulin hasanin wajhan, I passed a man fine of face, where the fineness belongs both to the man and to the face. And he reported hearing the Arabs say al-awwalatu dukhulan wa-l-akhiratu khurujan, the first to enter and the last to leave. On this, he said, the rest is measured.",
+            "bn": "আরেকজন ব্যাকরণবিদ একে দেখেছেন আফ‘আল ও ফু‘লা ছাঁচের শব্দ হিসেবে, যেমন আল-আফদাল ও আল-ফুদলা, আল-আখসার ও আল-খুসরা। তিনি তুলনা টেনেছেন আরবদের একটি বাক্যের সঙ্গে: মারারতু বিরাজুলিন হাসানিন ওয়াজহান, আমি সুন্দর চেহারার এক লোকের পাশ দিয়ে গেলাম। এখানে সৌন্দর্য লোকটিরও, চেহারারও। তিনি আরও জানান, তিনি আরবদের বলতে শুনেছেন: আল-আউয়ালাতু দুখূলান ওয়াল আখিরাতু খুরূজান, অর্থাৎ ঢোকায় প্রথম, বেরোনোয় শেষ। তাঁর কথায়, বাকিগুলো এর উপরেই মেপে নিতে হবে।"
+          },
+          {
+            "en": "Whatever the grammar, the effect in the Arabic is that the loss is specified. These are not losers in general, and not losers in trade or in wealth; they are losers in their deeds. On the second grammarian's account, as with the man fine of face, the description attaches to the people and to their deeds together.",
+            "bn": "ব্যাকরণের ব্যাখ্যা যা-ই হোক, আরবিতে ফল একটাই: ক্ষতিটা নির্দিষ্ট করে দেওয়া হয়েছে। এরা সাধারণভাবে ক্ষতিগ্রস্ত নয়, ব্যবসায় বা সম্পদেও নয়। এদের ক্ষতি আমলে। দ্বিতীয় ব্যাকরণবিদের ব্যাখ্যায়, সুন্দর চেহারার লোকটির মতোই, বিশেষণটা মানুষ আর তাদের আমল দুইয়ের সঙ্গেই লেগে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mus'ab Asks His Father",
+          "bn": "বাবার কাছে মুস‘আবের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Sahih al-Bukhari (4728) records: \"Narrated Mus'ab: I asked my father, 'Was the Verse:-- Say: (O Muhammad) Shall We tell you the greatest losers in respect of their deeds? (18:103) revealed regarding Al-Haruriyya?' He said, 'No, but regarding the Jews and the Christians, for the Jews disbelieved Muhammad and the Christians disbelieved in Paradise and say that there are neither meals nor drinks therein. Al-Hururiyya are those people who break their pledge to Allah after they have confirmed that they will fulfill it,' and Sa'd used to call them Al-Fasiqin (evildoers who forsake Allah's obedience).\"",
+            "bn": "সহীহ বুখারীতে (৪৭২৮) আছে, মুস‘আব বলেন: আমি আমার পিতাকে জিজ্ঞেস করলাম, ‘কুল হাল নুনাব্বিউকুম বিল-আখসারীনা আ‘মালা’ (১৮:১০৩), এরা কি হারূরিয়্যা? তিনি বললেন, না, এরা ইয়াহূদী ও নাসারা। ইয়াহূদীরা মুহাম্মাদ ﷺ-কে মিথ্যা প্রতিপন্ন করেছে। আর নাসারারা জান্নাতকে অস্বীকার করেছে, বলেছে সেখানে খাবারও নেই, পানীয়ও নেই। আর হারূরিয়্যা হলো তারা, যারা আল্লাহর সঙ্গে পাকা অঙ্গীকার করার পর তা ভেঙে ফেলে। সা‘দ (রাঃ) তাদের বলতেন আল-ফাসিকীন, অর্থাৎ আল্লাহর আনুগত্য থেকে বেরিয়ে যাওয়া লোক।"
+          },
+          {
+            "en": "The Arabic is plainer than the English. Mus'ab recites the verse and asks only: are they the Haruriyya? The words \"revealed regarding\" belong to the translation. Al-Bukhari placed the report in his Sahih, and it is Sa'd's own explanation, the view of a Companion, not a saying of the Prophet ﷺ. Ibn Kathir and al-Qurtubi both open their comment on this verse with it. None of the tafsirs consulted here attaches a saying of the Prophet ﷺ to the verse itself.",
+            "bn": "আরবি পাঠ ইংরেজি অনুবাদের চেয়ে সরল। মুস‘আব আয়াতটি পড়ে শুধু জানতে চান: এরা কি হারূরিয়্যা? ইংরেজিতে ‘এ বিষয়ে নাযিল হয়েছিল কি না’ কথাটা অনুবাদকের যোগ করা। বুখারী বর্ণনাটি তাঁর সহীহ গ্রন্থে রেখেছেন। তবে এটি সা‘দ (রাঃ)-এর নিজের ব্যাখ্যা, একজন সাহাবীর মত, নবী ﷺ-এর বাণী নয়। ইবন কাসীর ও কুরতুবী দুজনেই এ আয়াতের আলোচনা এই বর্ণনা দিয়ে শুরু করেন। এখানে যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই খোদ এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো বাণী জুড়ে দেয়নি।"
+          },
+          {
+            "en": "Sa'd's description of the Haruriyya is drawn from 2:27: those who break the covenant of Allah after contracting it. At-Tabari's version of the report carries that verse to its close: and sever what Allah has ordered to be joined, and cause corruption on earth; it is those who are the losers. The name Sa'd gave them, al-fasiqin, is the word on which 2:26 ends, just before 2:27 begins. In his answer they are still losers, but under another verse.",
+            "bn": "হারূরিয়্যার যে বর্ণনা সা‘দ (রাঃ) দিয়েছেন, তা ২:২৭ আয়াতের ভাষা: যারা আল্লাহর সঙ্গে পাকা অঙ্গীকারের পর তা ভঙ্গ করে। তাবারীর বর্ণনায় আয়াতটি শেষ পর্যন্ত পড়া হয়েছে: আর আল্লাহ যা জোড়া রাখতে বলেছেন তা ছিন্ন করে, আর পৃথিবীতে অশান্তি ছড়ায়, এরাই ক্ষতিগ্রস্ত। সা‘দ (রাঃ) তাদের যে নাম দিতেন, আল-ফাসিকীন, সেই শব্দেই ২:২৬ আয়াত শেষ হয়েছে, আর ঠিক তার পরেই ২:২৭ শুরু। অর্থাৎ তাঁর উত্তরে তারা ক্ষতিগ্রস্তই, তবে অন্য এক আয়াতের আওতায়।"
+          },
+          {
+            "en": "At-Tabari has Sa'd answer the same question in other words as well. In reports through Mansur, two of them by way of Hilal ibn Yasaf, Sa'd says they are ashab as-sawami', the people of the hermitages. In one of these he adds: but the Haruriyya are a people who swerved, so Allah made their hearts swerve, words found in 61:5. Al-Baghawi names Ibn 'Abbas alongside Sa'd as saying they are the Jews and the Christians.",
+            "bn": "তাবারী দেখান, একই প্রশ্নের উত্তর সা‘দ (রাঃ) অন্য ভাষাতেও দিয়েছেন। মানসূরের সূত্রে আসা বর্ণনাগুলোতে, যার দুটি হিলাল ইবন ইয়াসাফের মাধ্যমে, সা‘দ (রাঃ) বলেন: এরা আসহাবুস সাওয়ামি‘, অর্থাৎ নির্জন উপাসনাঘরের লোক। এর একটিতে তিনি যোগ করেন: তবে হারূরিয়্যা এমন এক দল, যারা বাঁকা পথ ধরল, ফলে আল্লাহ তাদের অন্তর বাঁকা করে দিলেন। এ কথা ৬১:৫ আয়াতে আছে। বাগাভী জানান, ইবন আব্বাস (রাঃ) ও সা‘দ (রাঃ) দুজনেই বলেছেন, এরা ইয়াহূদী ও নাসারা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hermitages, Scriptures and Harura'",
+          "bn": "উপাসনাঘর, কিতাব আর হারূরা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari says the people of interpretation differed over whom the verse means, and he sorts the reports under three headings. Some said the monks and priests. 'Ali (RA), in a report through Abu Khumaysa 'Abd Allah ibn Qays, said: they are the monks who shut themselves away in hermitages. Ad-Dahhak, asked about the verse, said: the priests and the monks. Others said all the people of the two Books, and here at-Tabari places the Sa'd report through Shu'ba, the chain that al-Bukhari also carries.",
+            "bn": "তাবারী বলেন, আয়াতটি কাদের কথা বলছে, তা নিয়ে তাফসীরবিদদের মতভেদ আছে। বর্ণনাগুলো তিনি সাজান তিনটি শিরোনামে। কেউ বলেছেন: সংসারত্যাগী সন্ন্যাসী আর পাদ্রিরা। আবু খুমাইসা আবদুল্লাহ ইবন কায়সের সূত্রে আলী (রাঃ) বলেন: এরা সেই সন্ন্যাসীরা, যারা নির্জন উপাসনাঘরে নিজেদের আটকে রেখেছে। দাহহাককে আয়াতটি নিয়ে জিজ্ঞেস করা হলে তিনি বলেন: পাদ্রি আর সন্ন্যাসীরা। অন্যরা বলেছেন: দুই কিতাবের সব অনুসারী। এখানেই তাবারী শু‘বার সূত্রে সা‘দ (রাঃ)-এর বর্ণনাটি রাখেন, বুখারীতেও যে সূত্রটি আছে।"
+          },
+          {
+            "en": "'Ali (RA) appears under this second heading too. Through Zadhan, asked about the verse, he said: they are the disbelievers among the People of the Book, whose first generations were on the truth. Then they associated partners with their Lord and innovated in their religion, striving in falsehood while reckoning they were in the right, striving in misguidance while reckoning they were guided. So their effort went astray in this world while they thought they were doing well.",
+            "bn": "দ্বিতীয় শিরোনামেও আলী (রাঃ)-এর কথা আছে। যাযানের সূত্রে বর্ণিত, আয়াতটি নিয়ে জিজ্ঞেস করা হলে তিনি বলেন: এরা আহলে কিতাবের কাফিররা। তাদের পূর্বপুরুষেরা সত্যের উপর ছিল। পরে তারা রবের সঙ্গে শরীক করল, দ্বীনে নতুন নতুন জিনিস ঢোকাল। বাতিলের পেছনে খাটল আর ভাবল তারা হকের উপর আছে। গোমরাহির পেছনে খাটল আর ভাবল তারা হিদায়াতের উপর আছে। ফলে দুনিয়ার জীবনেই তাদের চেষ্টা পথ হারাল, অথচ তারা ভাবছে তারা ভালো কাজই করছে।"
+          },
+          {
+            "en": "A third group said the people of Harura'. When Ibn al-Kawwa' asked 'Ali (RA) about the verse, 'Ali answered in one report: you, people of Harura'; in others: you and your companions; and in one: woe to you, the people of Harura' are among them. At-Tabari gives these with their chains and does not grade them. Ibn Kathir lists ad-Dahhak with 'Ali among those who said the Haruriyya, while at-Tabari's report from ad-Dahhak names the priests and the monks.",
+            "bn": "তৃতীয় একটি দল বলেছেন: হারূরার লোকেরা। ইবনুল কাওয়া আলী (রাঃ)-কে আয়াতটি নিয়ে জিজ্ঞেস করলে, একটি বর্ণনায় তিনি বলেন: তোমরাই, হে হারূরাবাসী। কয়েকটিতে বলেন: তুমি আর তোমার সঙ্গীরা। আর একটিতে: আফসোস তোমার জন্য, হারূরাবাসীরা এদেরই অন্তর্ভুক্ত। তাবারী এগুলো সনদসহ এনেছেন, কোনো মান নির্ধারণ করেননি। ইবন কাসীর দাহহাককে আলী (রাঃ)-এর সঙ্গে সেই দলে রাখেন, যারা বলেছেন হারূরিয়্যা। অথচ তাবারীতে দাহহাকের বর্ণনা পাদ্রি আর সন্ন্যাসীদের কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Worker Sure of His Way",
+          "bn": "নিজের পথে নিশ্চিত প্রত্যেক কর্মী"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then gives his own view. The right thing to say, he writes, is that Allah meant every person who does a deed reckoning himself right in it, obedient to Allah and pleasing to Him by doing it, while by that very deed he angers Allah and turns aside from the path of the people of faith. He gives monks and deacons as examples, with others like them who strive hard in their error, while being, for all that, disbelievers in Allah, of whatever religion they were.",
+            "bn": "এরপর তাবারী নিজের মত দেন। তাঁর ভাষায়, সঠিক কথা হলো: আল্লাহ এখানে বুঝিয়েছেন এমন প্রত্যেক মানুষকে, যে কোনো কাজ করে আর ভাবে সে ঠিক করছে, এ কাজে সে আল্লাহর অনুগত, তাঁকে সন্তুষ্ট করছে। অথচ ঠিক সেই কাজ দিয়েই সে আল্লাহকে অসন্তুষ্ট করছে আর ঈমানদারদের পথ থেকে সরে যাচ্ছে। উদাহরণ হিসেবে তিনি বলেন সন্ন্যাসী আর গির্জার খাদেমদের কথা, আর তাদের মতো অন্যদের, যারা নিজেদের গোমরাহির মধ্যেই প্রাণপণ খাটে। এত কিছুর পরও তারা আল্লাহকে অস্বীকারকারী, যে ধর্মেরই হোক।"
+          },
+          {
+            "en": "Ibn Kathir reaches a wide reading by another road. 'Ali's words, he says, mean that the verse includes the Haruriyya just as it includes the Jews, the Christians and others, not that it came down about any of these in particular. The verse is Makkan, he argues, revealed before the Jews and Christians were addressed and before that group existed at all. So it is general, covering everyone who worships Allah in a way He has not approved, sure that he is right and his deed accepted, while he is wrong and his deed rejected.",
+            "bn": "ইবন কাসীরও ব্যাপক অর্থে পৌঁছান, তবে অন্য পথে। তাঁর মতে আলী (রাঃ)-এর কথার অর্থ: আয়াতটি যেমন ইয়াহূদী, নাসারা ও অন্যদের শামিল করে, তেমনি হারূরিয়্যাকেও শামিল করে। এর মানে এই নয় যে বিশেষ করে এদের কারও ব্যাপারে আয়াতটি নাযিল হয়েছে। তাঁর যুক্তি, আয়াতটি মাক্কী। ইয়াহূদী ও নাসারাদের সম্বোধনের আগে, আর ওই দলটির জন্মেরও বহু আগে এটি নাযিল হয়েছে। তাই এর অর্থ সাধারণ। যে কেউ আল্লাহর ইবাদত করে এমন পথে যা তিনি পছন্দ করেননি, নিশ্চিত থাকে যে সে ঠিক আর তার আমল কবুল, অথচ সে ভুল আর তার আমল প্রত্যাখ্যাত, সে-ই এর আওতায়।"
+          },
+          {
+            "en": "The two do not agree on the setting. At-Tabari opens by saying the Prophet ﷺ is told to say this to those of the people of the two Books who sought to trouble him and argued with him falsely; Ibn Kathir holds that the verse came in Makkah before they were addressed. Ma'arif al-Qur'an adds a further turn: the verses in their general sense take in anyone whose effort Allah ruins, yet 18:105 fixes the meaning on disbelievers who deny His signs and the meeting with Him. It names al-Qurtubi, Abu Hayyan and Mazhari as preferring that, while holding that people whose beliefs were corrupted are not left untouched.",
+            "bn": "প্রেক্ষাপট নিয়ে দুজনের মত মেলে না। তাবারী শুরুতেই বলেন, নবী ﷺ-কে কথাটা বলতে বলা হয়েছে দুই কিতাবের সেই লোকদের, যারা তাঁকে কষ্ট দিতে চাইত আর অন্যায়ভাবে তাঁর সঙ্গে তর্ক করত। ইবন কাসীরের মতে আয়াতটি মাক্কায় নাযিল, তাদের সম্বোধন করার আগেই। মাআরিফুল কুরআন আরেকটি দিক যোগ করে। সাধারণ অর্থে এ আয়াতগুলো এমন যে কাউকে শামিল করে, যার চেষ্টা আল্লাহর কাছে বরবাদ। তবে ১৮:১০৫ আয়াত অর্থটাকে বেঁধে দিয়েছে সেই কাফিরদের উপর, যারা আল্লাহর নিদর্শন আর তাঁর সাক্ষাৎ অস্বীকার করে। কুরতুবী, আবু হাইয়ান ও মাযহারী এ মত পছন্দ করেছেন বলে সে জানায়। আবার এ-ও বলে, যাদের আকীদা বিগড়ে গেছে, তারাও এর বাইরে থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mirage, Dust and Weary Faces",
+          "bn": "মরীচিকা, ধুলো আর ক্লান্ত মুখ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets three verses beside this verse. From 88:2 to 88:4, faces on that Day are humbled, working hard and exhausted, and they burn in an intensely hot Fire. In 25:23, Allah turns to what they did of deeds and makes it dust dispersed. And in 24:39, the deeds of those who disbelieved are like a mirage in a lowland, which a thirsty man thinks is water until he comes to it and finds it is nothing.",
+            "bn": "ইবন কাসীর এ আয়াতের পাশে আরও তিনটি আয়াত রাখেন। ৮৮:২ থেকে ৮৮:৪ আয়াতে আছে সেদিনের কিছু মুখের কথা: অবনত, খেটে খেটে ক্লান্ত, আর তারা জ্বলবে প্রচণ্ড উত্তপ্ত আগুনে। ২৫:২৩ আয়াতে আল্লাহ তাদের করা আমলের দিকে ফিরে সেগুলোকে বানিয়ে দেন ছড়ানো ধূলিকণা। আর ২৪:৩৯ আয়াতে কাফিরদের আমল যেন মরুভূমির মরীচিকা। পিপাসার্ত লোক তাকে পানি ভাবে, কাছে গিয়ে দেখে কিছুই নেই।"
+          },
+          {
+            "en": "The mirage verse uses the same verb as 18:104: yahsabuhu, the thirsty man reckons it water, and yahsabuna, they reckon they are doing well. The thirsty man is not lazy. He walks towards what he thinks is water, and his error lies in what he thinks he sees. Al-Qurtubi names what empties such an effort. What voids it, he says, is either corrupt belief or showing off, al-mura'a, and what is meant in this verse is disbelief.",
+            "bn": "মরীচিকার আয়াতে আর ১৮:১০৪ আয়াতে আরবিতে একই ক্রিয়া এসেছে। সেখানে ইয়াহসাবুহু: পিপাসার্ত লোক তাকে পানি মনে করে। এখানে ইয়াহসাবূনা: তারা মনে করে তারা ভালো কাজ করছে। পিপাসার্ত লোকটি অলস নয়। যাকে পানি ভাবছে, সেদিকেই সে হাঁটছে। তার ভুল তার চোখের দেখায়, পায়ের চলায় নয়। কুরতুবী বলে দেন, কী এমন চেষ্টাকে শূন্য করে দেয়। তাঁর মতে, চেষ্টা বরবাদ হয় হয় আকীদার বিকৃতিতে, নয়তো লোক দেখানোয়, যাকে বলে আল-মুরাআ। আর এ আয়াতে উদ্দেশ্য কুফর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearing It About Myself",
+          "bn": "প্রশ্নটা আমার নিজের জন্য"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: people whose effort went astray while they thought they were doing well, and who, in 18:105, disbelieved in the signs of their Lord and the meeting with Him. It names no living person, community or group, and this article names none. The answers of Sa'd and 'Ali (RA) were Companions' readings, given to questioners in their own day. They give no one licence to brand any Jew, Christian or Muslim today among the greatest losers, to insult them, or to treat them unjustly.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: এমন লোক, যাদের চেষ্টা পথ হারিয়েছে অথচ তারা ভেবেছে ভালো কাজ করছে, আর ১৮:১০৫ আয়াত অনুযায়ী যারা রবের নিদর্শন ও তাঁর সাক্ষাৎ অস্বীকার করেছে। আজকের কোনো জীবিত মানুষ, সম্প্রদায় বা দলের নাম এ আয়াতে নেই, এ লেখাতেও নেই। সা‘দ (রাঃ) ও আলী (রাঃ)-এর উত্তর ছিল সাহাবীদের ব্যাখ্যা, নিজেদের সময়ের প্রশ্নকারীদের দেওয়া। আজকের কোনো ইয়াহূদী, খ্রিস্টান বা মুসলিমকে সবচেয়ে ক্ষতিগ্রস্ত বলে দাগানোর, অপমান করার বা তার উপর অবিচার করার অনুমতি এগুলো কাউকে দেয় না।"
+          },
+          {
+            "en": "Ibn Kathir's reading points the warning where a reader can act on it: at anyone who worships Allah in a way He has not approved, sure that he is right. The question is put to \"you\", and the safest place to hear it is among my own deeds. Is what I do rooted in what Allah and His Messenger ﷺ taught, or in habit and the approval of those around me? The surah closes in 18:110 with the remedy: whoever hopes to meet his Lord, let him do righteous work and associate no one in the worship of his Lord.",
+            "bn": "ইবন কাসীরের ব্যাখ্যা সতর্কবাণীটিকে এমন জায়গায় নিয়ে আসে, যেখানে পাঠক নিজে কিছু করতে পারেন: যে কেউ আল্লাহর ইবাদত করে এমন পথে যা তিনি পছন্দ করেননি, আর নিশ্চিত থাকে সে ঠিক আছে। প্রশ্নটা করা হয়েছে ‘তোমাদের’। তাই একে শোনার সবচেয়ে নিরাপদ জায়গা নিজের আমলের ভেতর। আমি যা করি, তার শিকড় কি আল্লাহ ও তাঁর রাসূল ﷺ-এর শিক্ষায়, নাকি অভ্যাসে আর আশপাশের লোকের বাহবায়? সূরাটি ১৮:১১০ আয়াতে শেষ হয় এর প্রতিকার দিয়ে: যে তার রবের সাক্ষাৎ চায়, সে যেন নেক আমল করে আর রবের ইবাদতে কাউকে শরীক না করে।"
+          }
+        ]
+      }
+    ]
+  },
   "18:106": {
     "sections": [
       {

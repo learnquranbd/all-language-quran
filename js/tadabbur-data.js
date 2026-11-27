@@ -33923,6 +33923,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Say the words of faith while the blessing still stands. Regret that arrives only with the ruin may come too late, so turn to your Lord before a loss has to teach you.",
     "lessonBn": "নিয়ামত হাতে থাকতেই ঈমানের কথাটা বলুন। যে আফসোস শুধু ধ্বংসের সাথে আসে, তা দেরিতে আসতে পারে। তাই ক্ষতি এসে শেখানোর আগেই রবের দিকে ফিরে আসুন।"
+  },
+  "18:103": {
+    "reflectionEn": "The verse does not open with a verdict. It opens with an offer: shall We tell you who loses most in their deeds? Anyone would lean in, expecting to hear about the idle, the cruel or the careless. The answer, in the verse that follows, is harder to hear: those whose effort went astray in this life while they reckoned they were doing well. The loss here is not counted in money or in years but in deeds, and it falls on people who were busy and sure. That turns the question into a mirror rather than a pointer. Before I look round for someone who fits it, I can ask what my own certainty rests on, and whether I have ever let it be checked.",
+    "reflectionBn": "আয়াতটি রায় দিয়ে শুরু হয় না, শুরু হয় একটা প্রস্তাব দিয়ে: আমি কি তোমাদের জানাব, আমলের দিক থেকে সবচেয়ে বেশি ক্ষতিতে কারা? যে কেউ কান খাড়া করবে। মনে হবে, এবার অলস, নিষ্ঠুর বা গাফেল লোকদের কথা আসবে। কিন্তু পরের আয়াতের জবাব শুনতে কঠিন: যাদের সব চেষ্টা দুনিয়ার জীবনেই পথ হারিয়েছে, অথচ তারা ভাবছে, তারা ভালো কাজই করছে। এ ক্ষতির হিসাব টাকায় বা বছরে নয়, আমলে। আর সে ক্ষতি এমন লোকদের, যারা ব্যস্ত ছিল, নিশ্চিতও ছিল। তাই প্রশ্নটা অন্যের দিকে আঙুল তোলার জন্য নয়, এ এক আয়না। কে এর সঙ্গে মেলে, তা খোঁজার আগে নিজেকে জিজ্ঞেস করা যায়: আমার নিশ্চয়তা কিসের উপর দাঁড়িয়ে আছে, আর কখনো কি তা যাচাই করতে দিয়েছি?",
+    "pointsEn": [
+      "When I hear a warning like this one, whose face comes to mind first, and why is it so rarely my own?",
+      "Which of my regular good deeds have I never checked against what the Qur'an and the Sunnah actually teach?",
+      "Is there a practice I keep mainly because the people around me keep it, and could I say where it comes from?",
+      "When someone with knowledge corrects me, do I weigh the correction, or defend the habit?",
+      "In the deeds I am proudest of, whose approval am I really working for?"
+    ],
+    "pointsBn": [
+      "এমন সতর্কবাণী শুনলে প্রথমে কার চেহারা মনে ভাসে? নিজের চেহারা এত কম ভাসে কেন?",
+      "নিয়মিত যে নেক আমলগুলো করি, তার কোনগুলো কুরআন ও সুন্নাহ আসলে কী শেখায় তার সঙ্গে কখনো মিলিয়ে দেখিনি?",
+      "এমন কোনো আমল কি আছে, যা মূলত আশপাশের লোকেরা করে বলেই আমি করি? তার উৎস কোথায়, বলতে পারব কি?",
+      "জ্ঞানী কেউ আমার ভুল ধরিয়ে দিলে আমি কি কথাটা ভেবে দেখি, নাকি পুরনো অভ্যাসের পক্ষে দাঁড়িয়ে যাই?",
+      "যে আমলগুলো নিয়ে আমার সবচেয়ে বেশি গর্ব, সেগুলোতে আসলে কার সন্তুষ্টি চাইছি?"
+    ],
+    "lessonEn": "Being busy and sure is no proof that a deed counts. Test your work against Allah's guidance, and turn this warning on yourself before anyone else.",
+    "lessonBn": "ব্যস্ত থাকা আর নিশ্চিত থাকা প্রমাণ করে না যে আমল কবুল হচ্ছে। নিজের কাজ আল্লাহর হিদায়াতের সঙ্গে মিলিয়ে দেখুন, আর এ সতর্কবাণী অন্যের আগে নিজের দিকে ফেরান।"
   }
 };
 
