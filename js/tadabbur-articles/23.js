@@ -4959,6 +4959,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:97": {
+    "sections": [
+      {
+        "h": {
+          "en": "After Kindness, a Refuge",
+          "bn": "সদাচরণের পরে আশ্রয়"
+        },
+        "p": [
+          {
+            "en": "Wa-qul rabbi a'udhu bika min hamazati sh-shayatin: and say, my Lord, I seek refuge in You from the hamazat of the devils. Seven Arabic words, placed straight after 23:96, which told the Prophet ﷺ to repel evil with what is better. Ibn Kathir's note follows that order. Having shown how to treat people, Allah commanded him to seek refuge from the devils, because no stratagem avails against them and they are not won over by good treatment. The article on 23:96 ends on this turn; here it is the starting point.",
+            "bn": "ওয়া কুল রব্বি আঊযু বিকা মিন হামাযাতিশ শায়াতীন: আর বলো, হে আমার রব, শয়তানদের হামাযাত থেকে আমি তোমার আশ্রয় চাই। আরবিতে মাত্র সাতটি শব্দ, আর তা এসেছে ঠিক ২৩:৯৬-এর পরে, যেখানে নবী ﷺ-কে বলা হয়েছিল মন্দকে উত্তম কিছু দিয়ে প্রতিহত করতে। ইবন কাসীরের ব্যাখ্যাও এই ক্রম ধরে এগোয়। মানুষের সঙ্গে আচরণের পথ শেখানোর পর আল্লাহ তাঁকে শয়তানদের থেকে আশ্রয় চাইতে বললেন। কারণ তাদের বিরুদ্ধে কোনো কৌশল কাজে আসে না, আর ভালো ব্যবহারে তারা বশও হয় না। ২৩:৯৬-এর প্রবন্ধ শেষ হয়েছে এই মোড়ে এসে। এখানে সেখান থেকেই শুরু।"
+          },
+          {
+            "en": "Al-Qurtubi finds a closer link. Allah, he says, commanded His Prophet ﷺ and the believers to seek refuge from Satan in his hamazat, and these are the surges of anger (sawrat al-ghadab) in which a person no longer controls himself. They were, it seems to him, what used to befall the believers in their dealings with the disbelievers, so that open hostility broke out, and for that reason the verse was joined to this one. Repelling evil with good is exactly what such a surge makes impossible.",
+            "bn": "কুরতুবী আরও কাছের একটা যোগসূত্র দেখান। তিনি বলেন, আল্লাহ তাঁর নবী ﷺ ও মুমিনদের আদেশ করেছেন শয়তানের হামাযাত থেকে আশ্রয় চাইতে। আর এগুলো হলো রাগের সেই প্রবল ঝাপটা (সাওরাতুল গাদাব), যার মধ্যে মানুষ নিজের উপর নিয়ন্ত্রণ হারায়। তাঁর মনে হয়, কাফিরদের সঙ্গে লেনদেনে মুমিনদের উপর এগুলোই আসত, তাতে খোলাখুলি শত্রুতা বেধে যেত। এ কারণেই আয়াতটি আগের আয়াতের সঙ্গে জোড়া লেগেছে। মন্দকে ভালো দিয়ে ঠেকানো, রাগের এমন ঝাপটাই তো তা অসম্ভব করে তোলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Jab From Behind",
+          "bn": "পেছন থেকে খোঁচা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari defines the word through a near neighbour: al-hamz is al-ghamz, a pressing or squeezing. From the same sense, he notes, the glottal catch in speech is called a hamza, and hamazat is simply the plural of hamza. The verse therefore speaks of many such presses, not one. Al-Qurtubi gives the root meaning as nakhs and daf', prodding and pushing, and quotes the usage: hamazahu, lamazahu, nakhasahu, all meaning that someone pushed him. Al-Baghawi gives the root of hamz as forceful pushing (shiddat ad-daf').",
+            "bn": "তাবারী শব্দটির অর্থ বোঝান কাছাকাছি আরেকটি শব্দ দিয়ে: হামায মানে গামায, অর্থাৎ চাপ দেওয়া বা চেপে ধরা। তিনি দেখান, এই অর্থ থেকেই কথার ভেতরের হঠাৎ থমকে যাওয়া ধ্বনিটির নাম হামযা, আর হামাযাত হলো হামযার বহুবচন। তাহলে আয়াত একটি চাপের কথা বলছে না, বলছে অনেকগুলোর কথা। কুরতুবী মূল অর্থ বলেন নাখস ও দাফ', অর্থাৎ খোঁচা দেওয়া আর ধাক্কা দেওয়া। সঙ্গে আরবদের প্রয়োগও তুলে দেন: হামাযাহু, লামাযাহু, নাখাসাহু, সবগুলোর অর্থ, সে তাকে ঠেলে দিল। বাগাভীও হামাযের মূল অর্থ বলেন জোরালো ধাক্কা (শিদ্দাতুদ দাফ')।"
+          },
+          {
+            "en": "Al-Qurtubi then cites al-Layth for a distinction between two related words: hamz is speech behind a person's back, lamz is to his face. He pictures the devil whispering, murmuring his suggestions into the breast of the son of Adam, and glosses the verse's word as the devils' promptings (nazaghat) that distract from the remembrance of Allah. The danger he describes is a diversion more than a blow.",
+            "bn": "এরপর কুরতুবী লাইসের বরাতে কাছাকাছি দুটি শব্দের পার্থক্য তুলে ধরেন: হামায হলো কারও আড়ালে, পেছনে বলা কথা, আর লামায হলো মুখের উপর বলা। তারপর তিনি শয়তানের ছবি আঁকেন, যে আদমসন্তানের বুকের ভেতর ফিসফিস করে কুমন্ত্রণা ঢালে। আয়াতের শব্দটির ব্যাখ্যা তিনি দেন শয়তানদের সেই উসকানি (নাযাগাত) দিয়ে, যা আল্লাহর জিকির থেকে মনকে অন্যদিকে ব্যস্ত করে রাখে। তাঁর বর্ণনায় বিপদটা আঘাতের চেয়ে বেশি মনোযোগ সরানোর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Grip, or a Whisper",
+          "bn": "শ্বাসরোধ, নাকি ফিসফিসানি"
+        },
+        "p": [
+          {
+            "en": "The early explanations lean in different directions. At-Tabari relays Ibn Zayd, through Yunus and Ibn Wahb: the hamazat of the devils are their strangling of people, and that is their hamazat. At-Tabari's own paraphrase keeps that sense in front: I seek protection with You from the strangling (khanq) of the devils and their hamazat. For him the word covers something done to the body, a seizing grip.",
+            "bn": "প্রথম যুগের ব্যাখ্যাগুলো ভিন্ন ভিন্ন দিকে ঝোঁকে। তাবারী ইউনুস ও ইবন ওয়াহবের সূত্রে ইবন যায়দের কথা বর্ণনা করেন: শয়তানদের হামাযাত হলো মানুষের শ্বাসরোধ করা, এটাই তাদের হামাযাত। তাবারীর নিজের ব্যাখ্যাতেও এ অর্থটাই সামনে থাকে: আমি তোমার কাছে রক্ষা চাই শয়তানদের শ্বাসরোধ (খান্ক) থেকে আর তাদের হামাযাত থেকে। তাঁর কাছে শব্দটি শরীরের উপর ঘটা কিছুকেও ধরে, যেন চেপে ধরা এক মুঠো।"
+          },
+          {
+            "en": "Al-Baghawi gathers other voices. Al-Hasan: their whisperings (wasawis). Mujahid: their puffing and their spitting (nafkh and nafth). Those he calls the people of meanings: their pushing of people toward sins by leading them astray. The Muyassar folds the inward reading into a single sentence: the seduction of the devils, who lure toward falsehood and corruption and away from the truth, and their whispering. Here the hamza works on the mind, and its aim is a deed.",
+            "bn": "বাগাভী আরও কয়েকজনের কথা জড়ো করেন। হাসান বলেন: তাদের কুমন্ত্রণা (ওয়াসাউইস)। মুজাহিদ বলেন: তাদের ফুঁ আর থুতু (নাফখ ও নাফস)। যাঁদের তিনি অর্থবিদ বলেন, তাঁদের মতে: পথভ্রষ্ট করে মানুষকে গুনাহের দিকে ঠেলে দেওয়া। মুয়াসসার ভেতরের দিকের এ ব্যাখ্যাকে এক বাক্যে গুছিয়ে দেয়: শয়তানদের প্রলোভন, যা বাতিল আর ফাসাদের দিকে টানে, সত্য থেকে ফিরিয়ে রাখে, আর তাদের কুমন্ত্রণা। এখানে ধাক্কাটা কাজ করে মনের উপর, আর তার লক্ষ্য একটা কাজ করিয়ে নেওয়া।"
+          },
+          {
+            "en": "In the texts consulted here, none of these commentators rejects another's gloss. Still, the weight differs. At-Tabari and Ibn Zayd lead with a grip on the body; al-Hasan, the people of meanings and the Muyassar lead with a voice in the mind. It asks for refuge from hamazat in the plural, and so it can be said both by someone afraid of what is happening to him and by someone afraid of what he is about to do.",
+            "bn": "এখানে যেসব তাফসীর দেখা হয়েছে, তাতে কেউ অন্যের ব্যাখ্যা নাকচ করেননি। তবু জোরটা আলাদা জায়গায়। তাবারী আর ইবন যায়দ আগে আনেন শরীরের উপর চেপে বসা মুঠোর কথা। হাসান, অর্থবিদরা আর মুয়াসসার আগে আনেন মনের ভেতরের আওয়াজের কথা। সে আশ্রয় চায় বহুবচনের হামাযাত থেকে। তাই এ দোয়া বলতে পারে সে-ও, যে নিজের উপর কী ঘটছে তা নিয়ে ভীত, আবার সে-ও, যে নিজে কী করে বসবে তা নিয়ে ভীত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Anger Takes the Reins",
+          "bn": "রাগ যখন লাগাম ধরে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi states his conclusion directly: the promptings and the surges of anger that come from the devil are what this verse seeks refuge from. Read this way, the verse speaks to the moment when anger is about to answer in kind, and it places a prayer in that gap, before the reply leaves the mouth. Ma'arif al-Qur'an likewise ties the prayer to sudden bursts of rage that rob people of self-control; its further claim that the Prophet ﷺ urged it for this, given without a source, is not relied on here.",
+            "bn": "কুরতুবী তাঁর সিদ্ধান্ত সরাসরি বলে দেন: শয়তানের দিক থেকে আসা উসকানি আর রাগের ঝাপটা, এগুলো থেকেই এ আয়াতে আশ্রয় চাওয়া হয়েছে। এভাবে পড়লে আয়াতটি সেই মুহূর্তের কথা বলে, যখন রাগ একই রকম জবাব দিতে উদ্যত। আর ঠিক সেই ফাঁকে, জবাবটা মুখ থেকে বেরোনোর আগেই, আয়াত একটি দোয়া বসিয়ে দেয়। মাআরিফুল কুরআনও দোয়াটিকে জুড়ে দেয় রাগের সেই হঠাৎ বিস্ফোরণের সঙ্গে, যা মানুষের আত্মনিয়ন্ত্রণ কেড়ে নেয়। তবে নবী ﷺ এ উদ্দেশ্যে এটি পড়তে উৎসাহ দিয়েছেন বলে সেখানে যে কথা আছে, তার কোনো সূত্র দেওয়া হয়নি, তাই এখানে তার উপর ভর করা হয়নি।"
+          },
+          {
+            "en": "What the verse does not do should be said plainly. It names devils as the source of the push, not the person in front of you. Al-Qurtubi's remark about clashes between believers and disbelievers describes what he thought befell the first community; it licenses nothing against any living person or community, and gives no one leave to call a neighbour, a rival or a whole people devils. The refuge is sought from what moves behind the anger, not from those who happen to provoke it.",
+            "bn": "আয়াতটি কী করে না, সেটা সোজাসুজি বলা দরকার। ধাক্কার উৎস হিসেবে আয়াত নাম নিচ্ছে শয়তানদের, আপনার সামনের মানুষটির নয়। মুমিন আর কাফিরদের সংঘাত নিয়ে কুরতুবীর মন্তব্য প্রথম যুগের মুসলিমদের উপর যা ঘটত বলে তিনি মনে করেছেন, তারই বর্ণনা। এটি জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। প্রতিবেশী, প্রতিদ্বন্দ্বী বা গোটা কোনো জাতিকে শয়তান বলার অধিকারও কাউকে দেয় না। আশ্রয় চাওয়া হয় রাগের পেছনে যে নড়াচড়া করে তার থেকে, যারা রাগিয়ে দেয় তাদের থেকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Puffing, Spitting and a Fit",
+          "bn": "ফুঁ, থুতু আর মূর্ছা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir recalls, from his earlier discussion of seeking refuge, a formula he attributes to the Messenger of Allah ﷺ that names hamz alongside two other things. The version he gives comes from Abu Sa'id al-Khudri, and the collectors themselves question its chain: Abu Dawud reports that it is said to come from al-Hasan with no Companion named, the mistake being a narrator's, and at-Tirmidhi records criticism of its chain and Ahmad's verdict that it is not sound. It is not quoted here.",
+            "bn": "ইবন কাসীর আশ্রয় চাওয়া নিয়ে তাঁর আগের আলোচনা থেকে একটি দোয়ার কথা মনে করিয়ে দেন, যা তিনি আল্লাহর রাসূল ﷺ-এর দিকে সম্পর্কিত করেন এবং যাতে হামাযের সঙ্গে আরও দুটি জিনিসের নাম আছে। তিনি যে বর্ণনাটি দেন, তা আবু সাঈদ খুদরী (রাঃ)-এর সূত্রে, আর এর সনদ নিয়ে সংকলকেরা নিজেরাই প্রশ্ন তুলেছেন। আবু দাউদ জানান, বলা হয় এটি হাসান থেকে এসেছে, মাঝে কোনো সাহাবীর নাম নেই, আর ভুলটা এক বর্ণনাকারীর। তিরমিযী এর সনদের সমালোচনা উল্লেখ করেন, সঙ্গে আহমাদের রায়ও: এটি সহীহ নয়। তাই এখানে তা উদ্ধৃত করা হচ্ছে না।"
+          },
+          {
+            "en": "A different narration carries the same three words with no such remark. Abu Dawud (764) records from Jubayr ibn Mut'im (RA) that he saw the Messenger of Allah ﷺ praying, and he said: 'Allah is the greatest, greatly; praise be to Allah, abundantly; glory be to Allah morning and evening,' each three times, then: 'I seek refuge in Allah from Satan, from his puffing, his spitting and his hamz' (min nafkhihi wa nafthihi wa hamzihi). Abu Dawud gives no grading.",
+            "bn": "আরেকটি বর্ণনায় একই তিনটি শব্দ আছে, তাতে এমন কোনো আপত্তি নেই। আবু দাউদ (৭৬৪) জুবায়র ইবন মুতইম (রাঃ) থেকে বর্ণনা করেন, তিনি আল্লাহর রাসূল ﷺ-কে নামায পড়তে দেখেছেন, আর তিনি বলছিলেন: ‘আল্লাহ সবচেয়ে বড়, অতি বড়; আল্লাহর জন্য প্রশংসা, অঢেল; সকাল-সন্ধ্যা আল্লাহর পবিত্রতা,’ প্রতিটি তিনবার। তারপর: ‘আমি আল্লাহর আশ্রয় চাই শয়তান থেকে, তার ফুঁ, তার থুতু আর তার হামায থেকে’ (মিন নাফখিহী ওয়া নাফসিহী ওয়া হামযিহী)। আবু দাউদ এর কোনো মান উল্লেখ করেননি।"
+          },
+          {
+            "en": "The narrator 'Amr then glosses the three: his spitting is poetry, his puffing is pride, and his hamz is al-muta. Al-Qurtubi quotes this gloss from Abu Dawud's book and adds, from Ibn Majah, that al-muta means madness (junun). Here hamz is no longer a whisper but a seizure that overturns the mind, which sits close to Ibn Zayd's strangling and far from al-Hasan's whisperings. The verse's small word is wide enough to hold both.",
+            "bn": "এরপর বর্ণনাকারী আমর তিনটির ব্যাখ্যা দেন: তার থুতু হলো কবিতা, তার ফুঁ হলো অহংকার, আর তার হামায হলো আল-মূতা। কুরতুবী আবু দাউদের গ্রন্থ থেকে এ ব্যাখ্যা উদ্ধৃত করেন, আর ইবন মাজাহর বরাতে যোগ করেন, আল-মূতা মানে পাগলামি (জুনূন)। এখানে হামায আর কুমন্ত্রণা নয়, এমন এক আক্রমণ যা বুদ্ধি উল্টে দেয়। এটা ইবন যায়দের শ্বাসরোধের ব্যাখ্যার কাছাকাছি, আর হাসানের কুমন্ত্রণার ব্যাখ্যা থেকে দূরে। আয়াতের ছোট্ট এক শব্দ দুটোকেই ধারণ করার মতো প্রশস্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Present at Every Affair",
+          "bn": "প্রতিটি কাজে উপস্থিত"
+        },
+        "p": [
+          {
+            "en": "The sentence runs on into 23:98: and I seek refuge in You, my Lord, lest they be present with me. At-Tabari, again through Ibn Zayd, glosses it as in any matter of mine, and al-Baghawi gives the reason presence is named: when the devil is present with someone, he whispers to him. Al-Qurtubi cites a reading of Ubayy with 'a'idhan bika, taking refuge in You, in both clauses, and explains: if they are present they stand ready to jab, and where there is no presence there is no hamz.",
+            "bn": "বাক্যটি গড়িয়ে যায় ২৩:৯৮-এ: আর হে আমার রব, আমি তোমার আশ্রয় চাই, যেন তারা আমার কাছে উপস্থিত না হয়। তাবারী এখানেও ইবন যায়দের সূত্রে ব্যাখ্যা দেন: আমার যেকোনো বিষয়ে। বাগাভী জানান, উপস্থিতির কথা কেন আলাদা করে বলা হলো: শয়তান কারও কাছে উপস্থিত হলেই তাকে কুমন্ত্রণা দেয়। কুরতুবী উবাইয়ের একটি কিরাআত উল্লেখ করেন, যেখানে দুই অংশেই আছে ‘আইযান বিকা’, তোমার আশ্রয় নিয়ে। তারপর ব্যাখ্যা দেন: তারা উপস্থিত থাকলে খোঁচা দিতে তৈরি থাকে, আর উপস্থিতি না থাকলে খোঁচাও নেই।"
+          },
+          {
+            "en": "Ibn Kathir draws a practice from it: for this reason the remembrance of Allah was commanded at the start of affairs, since it drives the devils away at eating, intercourse, slaughter and the like. Al-Qurtubi brings Jabir's hadith, which Muslim includes in his Sahih (2033d): 'Satan is present with one of you at everything he does, even at his food. So if a morsel falls from one of you, let him remove whatever dirt is on it, then eat it and not leave it for Satan; and when he finishes, let him lick his fingers, for he does not know in which part of his food the blessing lies.'",
+            "bn": "ইবন কাসীর এখান থেকে একটি আমল বের করেন: এ কারণেই প্রতিটি কাজের শুরুতে আল্লাহর জিকিরের আদেশ এসেছে, কারণ খাওয়া, স্ত্রী-মিলন, যবেহ ও এমন আরও কাজে তা শয়তানদের তাড়িয়ে দেয়। কুরতুবী আনেন জাবির (রাঃ)-এর হাদীস, যা মুসলিম তাঁর সহীহ গ্রন্থে রেখেছেন (২০৩৩ঘ): ‘শয়তান তোমাদের প্রত্যেকের প্রতিটি কাজে উপস্থিত থাকে, এমনকি তার খাওয়ার সময়ও। তাই তোমাদের কারও হাত থেকে লোকমা পড়ে গেলে সে যেন তাতে লাগা ময়লা সরিয়ে খেয়ে নেয়, শয়তানের জন্য ফেলে না রাখে। আর খাওয়া শেষ হলে আঙুল চেটে নেয়, কারণ সে জানে না তার খাবারের কোন অংশে বরকত আছে।’"
+          },
+          {
+            "en": "Ibn Kathir carries presence to the last moment of life with a supplication from Abu Dawud. In Abu Dawud's wording (1552), from Abu al-Yasar (RA), the Messenger of Allah ﷺ used to pray: 'O Allah, I seek refuge in You from being crushed by a collapse, I seek refuge in You from falling from a height, I seek refuge in You from drowning, burning and decrepitude, I seek refuge in You lest Satan seize me at death, I seek refuge in You lest I die in Your path turning my back, and I seek refuge in You lest I die of a sting.' Abu Dawud gives no grading.",
+            "bn": "ইবন কাসীর উপস্থিতির প্রসঙ্গটিকে জীবনের শেষ মুহূর্ত পর্যন্ত টেনে নেন আবু দাউদের একটি দোয়া দিয়ে। আবু দাউদের ভাষ্যে (১৫৫২), আবুল ইয়াসার (রাঃ) থেকে, আল্লাহর রাসূল ﷺ এভাবে দোয়া করতেন: ‘হে আল্লাহ, আমি তোমার আশ্রয় চাই কিছু ধসে চাপা পড়া থেকে, তোমার আশ্রয় চাই উঁচু থেকে পড়ে যাওয়া থেকে, তোমার আশ্রয় চাই ডুবে যাওয়া, পুড়ে যাওয়া আর অতি বার্ধক্য থেকে। তোমার আশ্রয় চাই মৃত্যুর সময় শয়তান আমাকে আছড়ে ফেলবে এ থেকে, তোমার আশ্রয় চাই তোমার পথে পিঠ ফিরিয়ে পালাতে গিয়ে মরা থেকে, আর তোমার আশ্রয় চাই বিষাক্ত দংশনে মরা থেকে।’ আবু দাউদ এর কোনো মান উল্লেখ করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Words Taught for Fright",
+          "bn": "ভয়ের সময়ের শেখানো কথা"
+        },
+        "p": [
+          {
+            "en": "The verse's own two phrases survive, word for word, inside a prayer the Prophet ﷺ taught. Abu Dawud (3893) records, through 'Amr ibn Shu'ayb from his father from his grandfather, that the Messenger of Allah ﷺ used to teach them words for times of fright: 'I seek refuge in the perfect words of Allah from His anger and the evil of His servants, and from the hamazat of the devils, and lest they be present' (wa min hamazati sh-shayatini wa an yahdurun). Abu Dawud gives no grading.",
+            "bn": "আয়াতের নিজের দুটি বাক্যাংশ হুবহু টিকে আছে নবী ﷺ-এর শেখানো এক দোয়ার ভেতরে। আবু দাউদ (৩৮৯৩) আমর ইবন শুআইব থেকে, তিনি তাঁর পিতা থেকে, তিনি তাঁর দাদা থেকে বর্ণনা করেন: আল্লাহর রাসূল ﷺ ভয় পাওয়ার সময়ের জন্য তাঁদের কিছু কথা শেখাতেন: ‘আমি আল্লাহর পরিপূর্ণ কালিমাগুলোর আশ্রয় চাই তাঁর ক্রোধ থেকে, তাঁর বান্দাদের অনিষ্ট থেকে, শয়তানদের হামাযাত থেকে, আর তারা যেন উপস্থিত না হয় তা থেকে’ (ওয়া মিন হামাযাতিশ শায়াতীনি ওয়া আন ইয়াহদুরূন)। আবু দাউদ এর কোনো মান উল্লেখ করেননি।"
+          },
+          {
+            "en": "At-Tirmidhi (3528) records the hadith by the same route with a fuller wording set at fright during sleep, and grades it hasan gharib; this article quotes Abu Dawud's wording rather than his. Ibn Kathir relays the hadith from Ahmad as well, names Abu Dawud, at-Tirmidhi and an-Nasa'i among those who record it, and repeats at-Tirmidhi's grading.",
+            "bn": "তিরমিযী (৩৫২৮) একই সূত্রে হাদীসটি আরেকটু বিস্তারিত ভাষ্যে বর্ণনা করেছেন, যেখানে প্রসঙ্গ ঘুমের মধ্যে ভয় পাওয়া, আর তিনি একে হাসান গরীব বলেছেন। এ প্রবন্ধ তাঁর ভাষ্য নয়, আবু দাউদের ভাষ্য উদ্ধৃত করেছে। ইবন কাসীর হাদীসটি আহমাদের সূত্রেও আনেন, আবু দাউদ, তিরমিযী ও নাসাঈকে এর সংকলকদের মধ্যে গণ্য করেন, আর তিরমিযীর দেওয়া মানটিই পুনরায় উল্লেখ করেন।"
+          },
+          {
+            "en": "Al-Qurtubi and Ma'arif al-Qur'an also relay a short account concerning one Khalid and sleeplessness at night. The chain al-Qurtubi gives for it names no Companion, and no grading for it appears on any page fetched for this article, so it is mentioned and not quoted. What can be quoted is Abu Dawud's wording: words lifted from this verse and handed on as a refuge for frightened moments.",
+            "bn": "কুরতুবী ও মাআরিফুল কুরআন খালিদ নামের একজন আর রাতের অনিদ্রা নিয়ে একটি ছোট বর্ণনাও আনে। কুরতুবী এর যে সনদ দিয়েছেন, তাতে কোনো সাহাবীর নাম নেই। এ প্রবন্ধের জন্য যেসব পাতা দেখা হয়েছে, তার কোথাও এর কোনো মানও পাওয়া যায়নি। তাই শুধু উল্লেখ করা হলো, উদ্ধৃত করা হলো না। উদ্ধৃত করা যায় আবু দাউদের ভাষ্য। এ আয়াত থেকে তুলে নেওয়া কথা, ভয়ের মুহূর্তের আশ্রয় হিসেবে যা হাতে হাতে পৌঁছেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Your Strength, Not Mine",
+          "bn": "তোমার শক্তিতে, আমারটায় নয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads a'udhu bika as a confession: I hold fast by Your might and Your power, disowning my own might and power. On the next verse he goes further. Refuge from the harm that strikes through the devils' contact, their hamz and their touch, and from the harm that comes through their presence and whispering, is refuge from the very substance and root of all evil.",
+            "bn": "সা'দী আঊযু বিকা-কে পড়েন এক স্বীকারোক্তি হিসেবে: আমি তোমার শক্তি আর তোমার ক্ষমতাকে আঁকড়ে ধরি, আর নিজের শক্তি ও ক্ষমতার দাবি ছেড়ে দিই। পরের আয়াতে সা'দী আরও এগোন। শয়তানদের সংস্পর্শ, তাদের হামায আর তাদের ছোঁয়ার মাধ্যমে যে অনিষ্ট আসে, আর তাদের উপস্থিতি ও কুমন্ত্রণার কারণে যে অনিষ্ট আসে, তা থেকে আশ্রয় চাওয়া মানে সব অনিষ্টের মূল উপাদান আর উৎস থেকেই আশ্রয় চাওয়া।"
+          },
+          {
+            "en": "Whoever Allah shelters from that, as-Sa'di concludes, and whose prayer He answers, is safe from every evil and is granted success in every good. It is a large promise to hang on twelve words across two verses, but it follows from what the commentators have shown: the devils' work reaches the tongue in anger, the mind in whispers, the body in a grip, and every affair through their presence.",
+            "bn": "সা'দীর উপসংহার: আল্লাহ যাকে এ থেকে আশ্রয় দেন এবং যার দোয়া কবুল করেন, সে সব অনিষ্ট থেকে নিরাপদ থাকে, আর সব কল্যাণের তাওফীক পায়। দুই আয়াতের বারোটি শব্দের উপর এত বড় প্রতিশ্রুতি, তবে তাফসীরকারেরা যা দেখিয়েছেন তা থেকেই এটা আসে। শয়তানের কাজ রাগের পথে জিহ্বায় পৌঁছায়, কুমন্ত্রণার পথে মনে, চেপে ধরার পথে শরীরে, আর উপস্থিতির পথে প্রতিটি কাজে।"
+          },
+          {
+            "en": "Notice also the word rabbi, my Lord, said in each verse, and each time with no calling particle before it. The prayer is short enough to say before a reply leaves the mouth, at the first bite of a meal, or when fear wakes a person at night. Its place is at the moment of the push, before the push becomes a deed, and its strength lies not in the person who says it but in Him to whom it is said.",
+            "bn": "রব্বি শব্দটিও খেয়াল করুন, অর্থ হে আমার রব। প্রতিটি আয়াতেই এসেছে, প্রতিবারই সামনে ডাকার কোনো অব্যয় ছাড়া। দোয়াটি এত ছোট যে জবাব মুখ থেকে বেরোনোর আগেই বলা যায়, খাবারের প্রথম লোকমায় বলা যায়, রাতে ভয়ে ঘুম ভেঙে গেলেও বলা যায়। এর জায়গা ধাক্কা আসার মুহূর্তে, ধাক্কা কাজে পরিণত হওয়ার আগে। আর এর জোর যে বলে তার মধ্যে নয়, যাঁকে বলা হয় তাঁর মধ্যে।"
+          }
+        ]
+      }
+    ]
+  },
   "23:101": {
     "sections": [
       {

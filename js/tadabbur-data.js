@@ -35059,6 +35059,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Obey Allah and His Messenger when it suits you and when it does not, fear Him for what is past and guard against Him in what lies ahead.",
     "lessonBn": "মনের মতো হোক বা না হোক, আল্লাহ ও তাঁর রসূলের আনুগত্য করুন। যা ঘটে গেছে তার জন্য আল্লাহকে ভয় করুন, আর সামনের দিনগুলোতে তাঁর নাফরমানি থেকে সতর্ক থাকুন।"
+  },
+  "23:97": {
+    "reflectionEn": "The verse before this one asks for something hard: answer a wrong with something better. Then the passage turns to an enemy that no kindness will ever win over. Say: my Lord, I seek refuge in You from the hamazat of the devils. The word pictures a push from behind, a jab you never see coming: the flare of anger that takes hold of the tongue, the whisper that pulls you away from remembering Allah. The next verse asks for more still, that they not even come near. So this prayer belongs before the quarrel starts, not only after it is lost. Where in my day does that push come most often? And do I reach for these words then, or only for my own strength?",
+    "reflectionBn": "আগের আয়াত কঠিন একটা কাজ দিয়েছে: অন্যায়ের জবাব দিতে হবে তার চেয়ে উত্তম কিছু দিয়ে। এরপর আলোচনা ঘুরে যায় এমন এক শত্রুর দিকে, যাকে কোনো সদাচরণেই বশ করা যায় না। বলো: হে আমার রব, শয়তানদের হামাযাত থেকে আমি তোমার আশ্রয় চাই। শব্দটায় আছে পেছন থেকে ধাক্কার ছবি, এমন খোঁচা যা আসতে দেখা যায় না। রাগের সেই ঝলক, যা জিহ্বা দখল করে নেয়। সেই কুমন্ত্রণা, যা আল্লাহর জিকির থেকে টেনে সরিয়ে দেয়। পরের আয়াত চায় আরও বেশি: তারা যেন কাছেই না আসে। তাই এ দোয়ার জায়গা ঝগড়া শুরুর আগে, শুধু হেরে যাওয়ার পরে নয়। আমার দিনের কোন জায়গায় এ ধাক্কা সবচেয়ে বেশি আসে? তখন কি আমি এই কথাগুলোর কাছে যাই, নাকি কেবল নিজের জোরের উপর ভর করি?",
+    "pointsEn": [
+      "When anger starts to rise in me, what do I usually do first, and could these words come before it?",
+      "Which moments of my day, a meal, a conversation, a screen late at night, do I step into without first asking Allah to keep the devils away?",
+      "Am I trying to argue with a whisper that I should simply be taking refuge from?",
+      "Do I treat the people who anger me as the enemy, when the verse names the devils behind the push?",
+      "Have I ever taught a child or a friend a prayer of refuge, so that it is ready on their tongue when fear comes?"
+    ],
+    "pointsBn": [
+      "রাগ যখন চড়তে শুরু করে, সাধারণত আমি প্রথমে কী করি? এই কথাগুলো কি তার আগে আসতে পারে?",
+      "দিনের কোন মুহূর্তগুলোতে আমি শয়তানকে দূরে রাখার জন্য আল্লাহর কাছে না চেয়েই ঢুকে পড়ি: খাওয়ার সময়, কথাবার্তায়, গভীর রাতে স্ক্রিনের সামনে?",
+      "যে কুমন্ত্রণা থেকে আমার শুধু আশ্রয় চাওয়ার কথা, আমি কি তার সঙ্গে তর্ক জুড়ে দিই?",
+      "যারা আমাকে রাগিয়ে দেয়, আমি কি তাদেরকেই শত্রু ভাবি, অথচ আয়াত ধাক্কার পেছনের শয়তানদের নাম নিচ্ছে?",
+      "আমি কি কখনো কোনো শিশু বা বন্ধুকে আশ্রয়ের দোয়া শিখিয়েছি, যাতে ভয় এলে তা তার মুখে তৈরি থাকে?"
+    ],
+    "lessonEn": "When the push toward anger or wrong comes, turn to Allah at once and seek refuge in Him from the devils and their nearness, leaning on His strength rather than your own.",
+    "lessonBn": "রাগ বা অন্যায়ের দিকে ধাক্কা এলে সঙ্গে সঙ্গে আল্লাহর দিকে ফিরুন। শয়তানদের থেকে আর তাদের কাছে আসা থেকে তাঁর আশ্রয় চান, নিজের জোরে নয়, তাঁর শক্তির উপর ভর করে।"
   }
 };
 
