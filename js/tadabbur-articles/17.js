@@ -2631,6 +2631,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:68": {
+    "sections": [
+      {
+        "h": {
+          "en": "Safe Ashore, Then Asked",
+          "bn": "তীরে পৌঁছে প্রশ্নের মুখে"
+        },
+        "p": [
+          {
+            "en": "Afa-amintum an yakhsifa bikum janiba al-barri aw yursila 'alaykum hasiban, thumma la tajidu lakum wakila: do you then feel secure that He will not cause a side of the land to swallow you, or send against you a hasib, and that you would then find no one to defend you? The verse is fifteen Arabic words, and it opens with a question rather than a statement. Its opening fa ties it to 17:66 and 17:67, which speak of ships driven through the sea, a danger met at sea and a rescue.",
+            "bn": "আফা-আমিনতুম আন ইয়াখসিফা বিকুম জানিবাল বাররি আও ইউরসিলা আলাইকুম হাসিবান, সুম্মা লা তাজিদূ লাকুম ওয়াকীলা: তোমরা কি তবে নিশ্চিন্ত হয়ে গেছ যে তিনি স্থলভাগের এক পাশসহ তোমাদের ধসিয়ে দেবেন না, কিংবা তোমাদের উপর হাসিব পাঠাবেন না, আর তখন তোমাদের রক্ষা করার কাউকে পাবে না? আয়াতটি আরবিতে পনেরো শব্দের। শুরুটা কোনো ঘোষণা দিয়ে নয়, প্রশ্ন দিয়ে। শুরুর ফা অক্ষরটি একে বেঁধে দেয় ১৭:৬৬ ও ১৭:৬৭ আয়াতের সঙ্গে। সেখানে কথা হচ্ছিল সাগরে চালিয়ে নেওয়া নৌযানের, সাগরের বিপদের আর উদ্ধারের।"
+          },
+          {
+            "en": "In 17:67, when harm touches people at sea, every name they used to call on fades except His; once He brings them safely to land, they turn away, and the verse ends: and man is ever ungrateful. Ibn Kathir reads 17:68 as the reply to that turning: do you suppose that once We bring you out onto land, you are safe from His vengeance and His punishment? At-Tabari names those addressed: people who denied His favour in rescuing them from the terror they faced at sea, and who, once on land, disbelieved and gave Him partners in worship.",
+            "bn": "১৭:৬৭ আয়াতে বলা হয়েছে, সাগরে বিপদ ছুঁয়ে গেলে যাদের তারা ডাকত, তাঁকে ছাড়া সবাই মন থেকে হারিয়ে যায়। তিনি তাদের নিরাপদে ডাঙায় পৌঁছে দিলে তারা মুখ ফিরিয়ে নেয়। আয়াতের শেষ কথা: মানুষ বড়ই অকৃতজ্ঞ। ইবন কাসীর ১৭:৬৮ আয়াতকে পড়েন সেই মুখ ফেরানোর জবাব হিসেবে: তোমরা কি ভাবছ, তোমাদের ডাঙায় তুলে আনলেই তাঁর প্রতিশোধ আর শাস্তি থেকে বেঁচে গেলে? তাবারী জানিয়ে দেন কাদের সম্বোধন করা হচ্ছে। এরা সেই মানুষ, সাগরের ভয়াবহতা থেকে উদ্ধারের নিয়ামত যারা অস্বীকার করেছে। ডাঙায় উঠেই তারা কুফরি করেছে, তাঁর ইবাদতে অন্যকে শরিক করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Ground Gives Way",
+          "bn": "মাটি যখন ধসে পড়ে"
+        },
+        "p": [
+          {
+            "en": "Yakhsifa bikum: cause the ground to sink with you. Al-Qurtubi defines khasf as the earth collapsing with something on it, and gathers the word's uses to show its sense. A well is called khasif when its base caves in; an eye is khasif when its pupil sinks into the head; a spring is khasifa when its water sinks away; and khasafat al-shams is said when the sun disappears from the earth. Each use is a going down and out of sight.",
+            "bn": "ইয়াখসিফা বিকুম: তোমাদের নিয়ে মাটি দেবে যাবে। কুরতুবী খাসফের সংজ্ঞা দেন এভাবে: কোনো কিছুকে নিয়ে মাটি ধসে পড়া। শব্দের অর্থ বোঝাতে তিনি এর নানা ব্যবহার জড়ো করেন। কুয়ার তলা ভেঙে পড়লে তাকে বলে খাসীফ। চোখের মণি মাথার ভেতরে বসে গেলে সে চোখও খাসিফ। ঝরনার পানি মাটির নিচে নেমে গেলে বলে খাসিফা। আর সূর্য পৃথিবী থেকে আড়াল হলে বলা হয় খাসাফাতিশ শামস। প্রতিটি ব্যবহারেই আছে নিচে নেমে চোখের আড়াল হয়ে যাওয়া।"
+          },
+          {
+            "en": "He also records from Abu 'Amr a use that runs the other way: a khasif well is one dug into rock whose water never runs short. The other commentators keep the gloss brief. Al-Baghawi explains yakhsifa bikum as yaghuru bikum, to sink down with you. The Muyassar paraphrases it as the earth caving in beneath them. At-Tabari passes over the verb and explains only its object. In each gloss the people go down with the ground; it is not the land alone that sinks.",
+            "bn": "আবু আমর থেকে তিনি উল্টো দিকের একটি ব্যবহারও উল্লেখ করেন: পাথর খুঁড়ে বানানো যে কুয়ার পানি কখনো কমে না, তাকেও বলে খাসীফ। অন্য তাফসীরকারেরা ব্যাখ্যা ছোট রাখেন। বাগাভী ইয়াখসিফা বিকুমের অর্থ করেন ইয়াগূরু বিকুম, অর্থাৎ তোমাদের নিয়ে নিচে বসে যাবে। মুয়াসসার বলে, তাদের নিয়ে মাটি ভেঙে পড়বে। তাবারী ক্রিয়াটির ব্যাখ্যায় যান না, শুধু এর কর্মপদটা খুলে বলেন। সব ব্যাখ্যাতেই মানুষ মাটির সঙ্গে নিচে নেমে যায়। শুধু ডাঙা দেবে যায়, এমন নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Side of the Land",
+          "bn": "ডাঙার কোন পাশ"
+        },
+        "p": [
+          {
+            "en": "Janiba al-barr, a side of the land. At-Tabari and al-Baghawi both explain it as nahiyat al-barr, a quarter of the land, and al-Baghawi adds: that is, the earth. Al-Qurtubi offers two reasons for the word janib. The ground is called a side because after the collapse it becomes a side. And the sea is one side and the land is the other, so the verse names the side to which the travellers have just been brought, the side they reached in relief.",
+            "bn": "জানিবাল বাররি, অর্থাৎ ডাঙার এক পাশ। তাবারী ও বাগাভী দুজনেই এর অর্থ করেন নাহিয়াতুল বাররি, ডাঙার এক অংশ। বাগাভী যোগ করেন: অর্থাৎ জমিন। জানিব শব্দটি কেন এল, কুরতুবী তার দুটি কারণ দেখান। প্রথমত, ধসে পড়ার পর মাটির ওই অংশ একটা পাশ হয়ে যায়, তাই তাকে পাশ বলা হয়েছে। দ্বিতীয়ত, সাগর এক পাশ আর ডাঙা আরেক পাশ। যাত্রীরা এইমাত্র যে পাশে এসে পৌঁছেছে, স্বস্তি নিয়ে যেখানে পা রেখেছে, আয়াত সেই পাশটির নামই নিচ্ছে।"
+          },
+          {
+            "en": "He records a third view under qila, it is said: that the people were on the seashore, which is the land's edge, and felt safe there from the terrors of the sea. So He warned them about what they felt safe from on land, as He had warned them about what they feared at sea. On that view the verse finds them at the very line between the two, standing on the beach where they believe the danger has ended.",
+            "bn": "'কীলা', অর্থাৎ 'বলা হয়' কথাটি দিয়ে তিনি তৃতীয় একটি মতও আনেন। এ মতে লোকগুলো ছিল সাগরের তীরে, আর তীরই হলো ডাঙার কিনারা। সাগরের ভয়াবহতা থেকে সেখানে তারা নিজেদের নিরাপদ ভাবছিল। তাই সাগরে যা নিয়ে তারা ভয় পেত, তা নিয়ে যেমন সতর্ক করা হয়েছে, ডাঙায় যা নিয়ে তারা নিশ্চিন্ত ছিল, তা নিয়েও তেমনি সতর্ক করা হলো। এ মত অনুযায়ী আয়াতটি তাদের ধরে ঠিক দুইয়ের সীমারেখায়। তারা দাঁড়িয়ে আছে বালুর তীরে, ভাবছে বিপদ শেষ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stones, or a Pelting Wind",
+          "bn": "পাথর, নাকি কাঁকর-ছোড়া বাতাস"
+        },
+        "p": [
+          {
+            "en": "Aw yursila 'alaykum hasiban: or send against you a hasib. Here the commentators part. Ibn Kathir explains it as rain with stones in it, a view he gives from Mujahid and others. At-Tabari glosses it as raining stones on you from the sky that kill you, as was done to the people of Lut (AS), and relays Qatada, stones from the sky, and Ibn Jurayj: the rain of stones, when you come out of the sea. Al-Baghawi and the Muyassar give the same stone-rain reading.",
+            "bn": "আও ইউরসিলা আলাইকুম হাসিবান: অথবা তোমাদের উপর হাসিব পাঠাবেন। এখানে এসে তাফসীরকারদের পথ আলাদা হয়ে যায়। ইবন কাসীর এর অর্থ করেন পাথরভরা বৃষ্টি, আর মতটি দেন মুজাহিদ ও আরও কয়েকজনের নামে। তাবারীর ব্যাখ্যায়, আকাশ থেকে তোমাদের উপর এমন পাথর বর্ষণ করবেন যা তোমাদের মেরে ফেলবে, যেমন করা হয়েছিল লূত (আঃ)-এর কওমের সঙ্গে। তিনি কাতাদার কথাও আনেন: আকাশ থেকে পাথর। আর ইবন জুরাইজের কথা: সাগর থেকে বেরোলে পাথরের বৃষ্টি। বাগাভী ও মুয়াসসারও পাথর-বৃষ্টির অর্থই নেন।"
+          },
+          {
+            "en": "The other reading is a wind. At-Tabari reports that one of the scholars of Arabic took hasib to mean a violent wind that pelts, and that he cited a line of verse about facing the north wind from Syria as it strikes with a hasib like carded cotton; al-Qurtubi quotes the same line and gives it to al-Farazdaq. Al-Baghawi and al-Qurtubi name two scholars for this reading: Abu 'Ubayda and al-Qutaybi, for whom the hasib is the wind that throws hasba', small pebbles. Al-Qurtubi gives this reading first, then Qatada's stones from the sky.",
+            "bn": "অন্য ব্যাখ্যায় হাসিব হলো বাতাস। তাবারী জানান, আরবি ভাষার একজন পণ্ডিত হাসিবের অর্থ নিয়েছেন প্রচণ্ড ঝোড়ো বাতাস, যা কাঁকর ছুড়ে মারে। প্রমাণ হিসেবে তিনি একটি কবিতার চরণ আনেন। তাতে শামের দিক থেকে আসা উত্তুরে হাওয়ার মুখোমুখি হওয়ার কথা, যে হাওয়া ধুনা তুলার মতো হাসিব দিয়ে আঘাত করে। কুরতুবীও চরণটি উদ্ধৃত করেন এবং একে ফারাযদাকের বলে উল্লেখ করেন। বাগাভী ও কুরতুবী এ ব্যাখ্যার জন্য দুজন পণ্ডিতের নাম বলেন: আবু উবাইদা ও কুতাইবী। তাঁদের মতে হাসিব সেই বাতাস, যা হাসবা অর্থাৎ ছোট ছোট কাঁকর ছোড়ে। কুরতুবী এ ব্যাখ্যাটি আগে আনেন, তারপর কাতাদার 'আকাশ থেকে পাথর'।"
+          },
+          {
+            "en": "Both readings meet in the root. At-Tabari explains that the hasib is at origin the wind that pelts with hasba', ground with sand and small stones in it, and that the Arabs say hasaba fulanun fulanan when a man throws pebbles at another; the wind is called hasib because it throws such things at people. Al-Qurtubi adds that a cloud throwing hail is also called a hasib. The difference stands as a difference: a rain of stones from above, or a wind that hurls them.",
+            "bn": "দুই ব্যাখ্যা এসে মেলে শব্দের মূলে। তাবারী বোঝান, হাসিবের আসল অর্থ সেই বাতাস যা হাসবা দিয়ে আঘাত করে। হাসবা হলো বালু আর ছোট নুড়িতে ভরা মাটি। কেউ কাউকে নুড়ি ছুড়ে মারলে আরবিতে বলে, হাসাবা ফুলানুন ফুলানান। মানুষের দিকে এসব ছুড়ে মারে বলেই বাতাসকে হাসিব বলা হয়। কুরতুবী যোগ করেন, শিলা ঝরানো মেঘকেও হাসিব বলা হয়। মতভেদটা মতভেদ হিসেবেই থাকে: উপর থেকে পাথরের বৃষ্টি, নাকি পাথর ছুড়ে মারা বাতাস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Below and From Above",
+          "bn": "নিচ থেকে, উপর থেকে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws the two threats into one picture. He has power over everything; if He wills, He sends punishment from beneath you by the collapse, or from above you by the hasib, and you are left destroyed. Then he names the mistake the verse corrects: do not think that destruction happens only at sea. Al-Qurtubi says the same from the other side: the verse shows that He is able to destroy them on land, even if they came safely through the sea.",
+            "bn": "সা'দী দুই হুমকিকে এক ছবিতে মিলিয়ে দেন। তিনি সব কিছুর উপর ক্ষমতাবান। চাইলে তিনি শাস্তি পাঠাবেন নিচ থেকে, মাটি ধসিয়ে, কিংবা উপর থেকে, হাসিব দিয়ে, আর তোমরা ধ্বংস হয়ে পড়ে থাকবে। তারপর তিনি সেই ভুলটির নাম বলেন, যা আয়াতটি শুধরে দেয়: ভেবো না যে ধ্বংস কেবল সাগরেই আসে। কুরতুবী একই কথা বলেন উল্টো দিক থেকে। আয়াতটি দেখিয়ে দেয়, সাগর থেকে বেঁচে ফিরলেও ডাঙায় তাদের ধ্বংস করতে তিনি পুরোপুরি সক্ষম।"
+          },
+          {
+            "en": "Ibn Kathir sets the verse beside others that use the same words. In 67:16 and 67:17 the same two verbs appear in the same order: do you feel secure from the One above the heaven that He will not cause the earth to swallow you, or that He will not send a hasib against you? In 54:34 a hasib was sent upon the people of Lut (AS), all but his family, who were saved before dawn, and in 11:82 stones of baked clay were rained on their town.",
+            "bn": "ইবন কাসীর আয়াতটিকে রাখেন একই শব্দ ব্যবহার করা অন্য আয়াতগুলোর পাশে। ৬৭:১৬ ও ৬৭:১৭ আয়াতে একই দুটি ক্রিয়া এসেছে একই ক্রমে: আকাশের উপরে যিনি আছেন, তাঁর ব্যাপারে কি তোমরা নিশ্চিন্ত যে তিনি তোমাদের নিয়ে মাটি ধসিয়ে দেবেন না? কিংবা তোমাদের উপর হাসিব পাঠাবেন না? ৫৪:৩৪ আয়াতে লূত (আঃ)-এর কওমের উপর হাসিব পাঠানো হয়েছিল, শুধু তাঁর পরিবার বাদে, যাদের ভোর হওয়ার আগেই বাঁচিয়ে নেওয়া হয়। আর ১১:৮২ আয়াতে তাদের জনপদের উপর বর্ষিত হয়েছিল পোড়া মাটির পাথর।"
+          },
+          {
+            "en": "The verses in Surat al-Qamar and Surat Hud tell what happened to one people. This verse does something else with the same history: it turns it into a question for travellers who have just been spared. The ground and the sky, which seemed the safe part of the journey, are named as being under the same command as the waves. The point is not that the land is dangerous, but that safety anywhere is held on trust, never owned.",
+            "bn": "সূরা কামার ও সূরা হূদের আয়াতগুলো একটি জাতির পরিণতির বিবরণ দেয়। এ আয়াত সেই ইতিহাসকে কাজে লাগায় অন্যভাবে। সদ্য বেঁচে ফেরা যাত্রীদের সামনে সে ইতিহাস হয়ে ওঠে একটা প্রশ্ন। যাত্রার যে অংশটা নিরাপদ মনে হয়েছিল, সেই মাটি আর আকাশও যে ঢেউয়ের মতোই তাঁর হুকুমের অধীন, আয়াত তা মনে করিয়ে দেয়। কথাটা এই নয় যে ডাঙা বিপজ্জনক। কথাটা হলো, নিরাপত্তা কোথাও মানুষের মালিকানায় থাকে না, থাকে আমানত হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Wakil Against Him",
+          "bn": "তাঁর বিরুদ্ধে কোনো ওয়াকীল নেই"
+        },
+        "p": [
+          {
+            "en": "Thumma la tajidu lakum wakila: then you would find for yourselves no wakil. Ibn Kathir explains it as a helper who would turn that away from you and rescue you from it. At-Tabari: nothing that could stand to defend you from His punishment and hold it back from you. Qatada, as at-Tabari relays him, says no protection and no helper, and al-Baghawi gives from him a single word, mani', one who prevents. Al-Qurtubi gathers both: a guardian and helper who would keep the might of Allah from you.",
+            "bn": "সুম্মা লা তাজিদূ লাকুম ওয়াকীলা: তখন তোমরা নিজেদের জন্য কোনো ওয়াকীল পাবে না। ইবন কাসীরের ব্যাখ্যায়, এমন কোনো সাহায্যকারী, যে বিপদটা তোমাদের থেকে ফিরিয়ে দেবে আর তোমাদের উদ্ধার করবে। তাবারীর ব্যাখ্যায়, তাঁর শাস্তি থেকে তোমাদের পক্ষে দাঁড়িয়ে লড়বে আর তা ঠেকিয়ে রাখবে, এমন কিছুই পাবে না। তাবারীর বর্ণনায় কাতাদা বলেন: কোনো রক্ষাব্যূহ নেই, কোনো সাহায্যকারীও নেই। বাগাভী তাঁর থেকে আনেন একটিমাত্র শব্দ, মানি', অর্থাৎ যে বাধা দেয়। কুরতুবী দুটোকে মিলিয়ে বলেন: এমন রক্ষক ও সাহায্যকারী, যে আল্লাহর পাকড়াও থেকে তোমাদের আগলে রাখবে।"
+          },
+          {
+            "en": "The word has already appeared three verses earlier. In 17:65, after Iblis is told he has no authority over Allah's servants, the verse closes: and sufficient is your Lord as Wakil. The word that names the Lord as the Guardian who takes charge of His servants' affairs names here what the ungrateful will not find. There is no second guardian to appeal to against Him. Whoever has Him as wakil needs no other; whoever turns from Him has no one left.",
+            "bn": "শব্দটি তিনটি আয়াত আগেই একবার এসেছে। ১৭:৬৫ আয়াতে ইবলীসকে জানিয়ে দেওয়া হয় যে আল্লাহর বান্দাদের উপর তার কোনো আধিপত্য নেই, আর আয়াত শেষ হয় এ কথায়: কর্মবিধায়ক হিসেবে তোমার রবই যথেষ্ট। যে শব্দে রবকে বলা হয়েছে বান্দাদের সব কাজের দায়িত্ব নেওয়া সত্তা, সেই শব্দেই এখানে বলা হচ্ছে অকৃতজ্ঞরা কী খুঁজে পাবে না। তাঁর বিরুদ্ধে নালিশ জানানোর মতো দ্বিতীয় কোনো অভিভাবক নেই। তিনি যার ওয়াকীল, তার আর কাউকে লাগে না। আর যে তাঁর থেকে মুখ ফেরায়, তার আর কেউ থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Question, Turned Seaward",
+          "bn": "একই প্রশ্ন, এবার সাগরের দিকে"
+        },
+        "p": [
+          {
+            "en": "17:69 is the pair to this verse. It opens am amintum, or do you feel secure, and turns the threat back towards the sea: that He will return you to it another time, send against you a wind that smashes, and drown you for your denial, and then you would find no one to pursue your claim against Us. The two verses together leave no place out of reach: the land beneath, the sky above, and the sea they thought they had left behind.",
+            "bn": "১৭:৬৯ আয়াত এ আয়াতের জোড়া। এর শুরু আম আমিনতুম, অর্থাৎ নাকি তোমরা নিশ্চিন্ত হয়ে গেছ। এবার হুমকিটা ফিরে যায় সাগরের দিকে: তিনি তোমাদের আরেকবার সেখানে ফিরিয়ে নেবেন না, তোমাদের উপর সব ভেঙেচুরে দেওয়া ঝড়ো বাতাস পাঠাবেন না, আর তোমাদের অকৃতজ্ঞতার কারণে ডুবিয়ে দেবেন না? তখন আমার বিরুদ্ধে তোমাদের হয়ে দাবি আদায় করার কাউকে পাবে না। দুটি আয়াত মিলে কোনো জায়গাই তাঁর নাগালের বাইরে রাখে না। নিচে ডাঙা, উপরে আকাশ, আর যে সাগর তারা পেছনে ফেলে এসেছে বলে ভেবেছিল, সেটিও।"
+          },
+          {
+            "en": "None of the tafsir texts fetched for this verse attaches a hadith to it, and none gives an occasion of revelation. The commentators read it from its place in the passage: the sea, the rescue, the turning away, and then this question. That is enough. The verse needs no story behind it to be heard, because its story is told in 17:67, and anyone who has been afraid and then relieved has lived some version of it.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো প্রেক্ষাপটও উল্লেখ করেনি। তাফসীরকারেরা আয়াতটি পড়েন অনুচ্ছেদে এর অবস্থান থেকে: সাগর, উদ্ধার, মুখ ফেরানো, তারপর এই প্রশ্ন। এটুকুই যথেষ্ট। আয়াতটি বুঝতে পেছনের কোনো কাহিনি লাগে না। কাহিনিটা বলা আছে ১৭:৬৭ আয়াতেই। আর যে মানুষ কখনো ভয় পেয়েছে, তারপর স্বস্তি পেয়েছে, সে নিজেই সে কাহিনির কোনো না কোনো রূপ পার করে এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Verdict on Disasters",
+          "bn": "দুর্যোগ নিয়ে কোনো রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse addresses people who were rescued at sea and then turned away from Him who rescued them, and it asks whether they feel secure. It describes what the text describes, and no more. It gives no one licence to read any present-day earthquake, landslide, storm or other disaster as a punishment of the people it strikes, and none to point at any living person or community and call their suffering a verdict. Those who die or lose their homes in such events are not named here.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি তাদের সম্বোধন করছে, যারা সাগরে উদ্ধার পেয়ে উদ্ধারকারীর দিক থেকেই মুখ ফিরিয়ে নিয়েছিল। তাদের কাছে প্রশ্ন, তারা কি নিশ্চিন্ত হয়ে গেছে। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে, এর বেশি কিছু নয়। আজকের কোনো ভূমিকম্প, ভূমিধস, ঝড় বা অন্য কোনো দুর্যোগকে আক্রান্ত মানুষের শাস্তি বলে পড়ার অনুমতি এ আয়াত কাউকে দেয় না। জীবিত কোনো মানুষ বা জনগোষ্ঠীর দিকে আঙুল তুলে তাদের দুর্ভোগকে রায় বলারও অনুমতি দেয় না। এমন দুর্যোগে যারা প্রাণ হারায় বা ঘরবাড়ি হারায়, এ আয়াতে তাদের কথা বলা হয়নি।"
+          },
+          {
+            "en": "Its address runs the other way. The question is put to the person who feels safe, not to the person who has been struck. It asks the reader who stands on firm ground, after a fear has passed, whether that firmness is being thanked for or taken for granted. Read like that, the verse is no lens for judging the misfortunes of others. It is a mirror held up at the moment of relief, which is exactly the moment when, as 17:67 says, people turn away.",
+            "bn": "আয়াতের সম্বোধন বরং উল্টো দিকে। প্রশ্নটা তার কাছে, যে নিজেকে নিরাপদ ভাবছে, তার কাছে নয় যার উপর বিপদ নেমেছে। ভয় কেটে যাওয়ার পর যে পাঠক শক্ত মাটিতে দাঁড়িয়ে আছে, আয়াত তাকে জিজ্ঞেস করে: এই পায়ের নিচের দৃঢ়তার জন্য সে কি শুকরিয়া আদায় করছে, নাকি একে প্রাপ্য বলে ধরে নিয়েছে? এভাবে পড়লে আয়াতটি অন্যের দুর্ভাগ্য বিচারের চশমা নয়। এ এক আয়না, যা তুলে ধরা হয় স্বস্তির মুহূর্তে। আর ১৭:৬৭ আয়াত বলছে, ঠিক সেই মুহূর্তেই মানুষ মুখ ফিরিয়ে নেয়।"
+          },
+          {
+            "en": "So the verse leaves a practical question. When the danger ends, does the remembrance end with it? The rescued travellers called on one name at sea and set it aside on land, as though the shore stood outside His reach. The verse answers that the ground and the sky are His as surely as the waves. Security that rests on the floor beneath us is borrowed; security that rests on Him is the only kind that holds on both sides of the water.",
+            "bn": "তাই আয়াতটি একটা বাস্তব প্রশ্ন রেখে যায়। বিপদ শেষ হলে আল্লাহর জিকিরও কি তার সঙ্গেই শেষ হয়ে যায়? উদ্ধার পাওয়া যাত্রীরা সাগরে একটাই নাম ডেকেছিল, আর ডাঙায় উঠে সেটা সরিয়ে রেখেছিল, যেন তীরটা তাঁর নাগালের বাইরে। আয়াতের জবাব: ঢেউ যেমন তাঁর, মাটি আর আকাশও ঠিক তেমনি তাঁর। পায়ের নিচের মেঝের উপর দাঁড়ানো নিরাপত্তা ধার করা জিনিস। যে নিরাপত্তা তাঁর উপর ভর করে, পানির দুই পারেই কেবল সেটাই টিকে থাকে।"
+          }
+        ]
+      }
+    ]
+  },
   "17:70": {
     "sections": [
       {

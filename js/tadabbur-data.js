@@ -33523,6 +33523,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not trust a deed just because it looks good to you. Test it against what Allah revealed, and lean on Him, not on the one who makes wrong seem fair.",
     "lessonBn": "কোনো আমল নিজের চোখে ভালো লাগলেই তার উপর ভরসা করবেন না। আল্লাহর নাযিল করা বাণী দিয়ে তা যাচাই করুন, আর ভরসা রাখুন তাঁর উপর, যে অন্যায়কে সুন্দর করে দেখায় তার উপর নয়।"
+  },
+  "17:68": {
+    "reflectionEn": "The boat reaches the shore, and the fear stays behind on the water. Out there only one name was called. On dry ground the old supports return, and the One who answered is quietly set aside. The verse stops that relief with a question: do you feel secure? The land is not a harbour beyond His reach. The ground under the feet can give way, the sky can let fall what pelts and destroys, and then there is no one to argue the case. This is not a sentence passed on whoever suffers a disaster. It is a question put to me whenever I feel safe. Is my calm resting on Him, or only on the floor beneath me?",
+    "reflectionBn": "নৌকা তীরে ভেড়ে, আর ভয়টা পানির উপরেই পড়ে থাকে। ওখানে মুখে ছিল একটাই নাম। শুকনো মাটিতে পা রাখতেই পুরোনো ভরসাগুলো ফিরে আসে, আর যিনি ডাকে সাড়া দিয়েছিলেন, তাঁকে চুপচাপ একপাশে সরিয়ে রাখা হয়। আয়াতটি সেই স্বস্তির মাঝখানে একটা প্রশ্ন রাখে: তোমরা কি নিশ্চিন্ত হয়ে গেছ? ডাঙা তাঁর নাগালের বাইরের কোনো আশ্রয় নয়। পায়ের নিচের মাটি ধসে যেতে পারে, আকাশ থেকে নামতে পারে এমন কিছু যা আঘাত করে ধ্বংস করে দেয়। তখন পক্ষ নিয়ে কথা বলার কেউ থাকে না। যে বিপদে পড়েছে, তার উপর এটা কোনো রায় নয়। প্রশ্নটা আমার কাছে, যখনই আমি নিজেকে নিরাপদ ভাবি। আমার এই নিশ্চিন্ত মন কি তাঁর উপর ভর করে আছে, নাকি শুধু পায়ের নিচের মেঝের উপর?",
+    "pointsEn": [
+      "When a fear lifts, how long do I keep remembering the One I called on while it lasted?",
+      "Which places, people or plans do I treat as safe ground that needs no reliance on Allah?",
+      "Is my sense of security trust in Him, or only the habit of nothing having gone wrong yet?",
+      "When I hear of a disaster striking others, do I reach for a verdict on them, or turn the question on myself?",
+      "If what I lean on gave way tomorrow, who do I imagine would stand up for me?"
+    ],
+    "pointsBn": [
+      "ভয় কেটে গেলে, বিপদের সময় যাঁকে ডেকেছিলাম, তাঁকে আমি কতদিন মনে রাখি?",
+      "কোন জায়গা, কোন মানুষ বা কোন পরিকল্পনাকে আমি এমন নিরাপদ মাটি ভাবি, যেখানে আল্লাহর উপর ভরসার দরকার নেই?",
+      "আমার নিরাপত্তার বোধ কি তাঁর উপর তাওয়াক্কুল, নাকি এখনো কিছু খারাপ হয়নি বলে গড়ে ওঠা অভ্যাস মাত্র?",
+      "অন্যদের উপর কোনো দুর্যোগের খবর শুনলে আমি কি তাদের নিয়ে রায় দিতে বসি, নাকি প্রশ্নটা নিজের দিকে ফেরাই?",
+      "যার উপর ভর দিয়ে আছি, কাল যদি তা ধসে পড়ে, আমার পক্ষে কে দাঁড়াবে বলে ভাবি?"
+    ],
+    "lessonEn": "Safety on dry land is as much His gift as rescue at sea; let every relief turn you towards Allah, not away from Him.",
+    "lessonBn": "সমুদ্রে উদ্ধার পাওয়া যেমন তাঁর দান, ডাঙায় নিরাপদ থাকাও তেমনি তাঁর দান। প্রতিটি স্বস্তি যেন আপনাকে আল্লাহর দিকে ফেরায়, তাঁর থেকে দূরে নয়।"
   }
 };
 
