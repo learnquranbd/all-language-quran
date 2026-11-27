@@ -1199,6 +1199,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "33:25": {
+    "sections": [
+      {
+        "h": {
+          "en": "How the Siege Account Closes",
+          "bn": "অবরোধের বিবরণ যেভাবে শেষ হয়"
+        },
+        "p": [
+          {
+            "en": "Wa radda-llahu-lladhina kafaru bi-ghayzihim lam yanalu khayra: and Allah turned back those who disbelieved, in their rage, having gained no good. The verse closes the account of the Trench that opened at 33:9. In between, the surah has drawn the hypocrites who slipped away and the believers who saw the confederate armies and said, this is what Allah and His Messenger promised us. Verse 24 gave the purpose of the trial: that Allah may reward the truthful for their truthfulness. Verse 25 now tells how it ended, in three short clauses and a closing pair of divine names.",
+            "bn": "ওয়া রাদ্দাল্লাহুল্লাযীনা কাফারূ বিগাইযিহিম লাম ইয়ানালূ খাইরা: আর আল্লাহ কাফিরদের তাদের রাগসহই ফিরিয়ে দিলেন, তারা কোনো কল্যাণ পায়নি। পরিখার যুদ্ধের যে বিবরণ ৩৩:৯ আয়াতে শুরু হয়েছিল, এ আয়াতে তা শেষ হলো। মাঝখানে সূরাটি দুই দলের ছবি এঁকেছে। একদিকে মুনাফিকরা, যারা চুপিসারে সরে পড়েছিল। অন্যদিকে মু'মিনরা, যারা সম্মিলিত বাহিনী দেখে বলেছিলেন, এ তো সেই জিনিস, যার ওয়াদা আল্লাহ ও তাঁর রসূল আমাদের দিয়েছিলেন। ২৪ নম্বর আয়াত পরীক্ষার উদ্দেশ্য জানিয়েছে: সত্যবাদীদের আল্লাহ যেন তাদের সত্যের প্রতিদান দেন। এবার ২৫ নম্বর আয়াত জানায় ঘটনার শেষটা। তিনটি ছোট বাক্যাংশ, তারপর আল্লাহর দুটি নাম।"
+          },
+          {
+            "en": "The grammar carries its own lesson. Allah is the subject of both verbs: He turned them back, and He spared the believers the fighting. Nothing in the clause credits the trench, the night watches or the numbers on either side. The siege that 33:10 described through swerving eyes and hearts risen to the throats ends without a single human deed named. The two verses that follow turn to a different party and a different outcome. Their events belong to those verses, and this article leaves them there.",
+            "bn": "বাক্যের গঠনেই এখানে একটা শিক্ষা লুকিয়ে আছে। দুটি ক্রিয়ারই কর্তা আল্লাহ। তিনিই তাদের ফিরিয়ে দিলেন, তিনিই মু'মিনদের যুদ্ধ থেকে রেহাই দিলেন। পরিখা, রাত জেগে পাহারা বা দুই পক্ষের সৈন্যসংখ্যা, কোনোটার কৃতিত্ব এ বাক্যে নেই। ৩৩:১০ আয়াত যে অবরোধের ছবি এঁকেছিল বিস্ফারিত চোখ আর কণ্ঠনালীতে উঠে আসা হৃদয় দিয়ে, তা শেষ হলো কোনো মানুষের কোনো কাজের নাম না নিয়েই। পরের দুই আয়াত অন্য এক দল আর অন্য এক পরিণতির কথা বলে। সেসব ঘটনা ওই আয়াতগুলোরই বিষয়, এ লেখায় সেগুলো তোলা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Carrying Only Their Rage",
+          "bn": "সঙ্গে শুধু নিজেদের ক্রোধ"
+        },
+        "p": [
+          {
+            "en": "Who are those who disbelieved here? At-Tabari answers: those who disbelieved in Allah and His Messenger, of Quraysh and Ghatafan. He cites Yazid ibn Ruman, through Ibn Ishaq, for the same two names, and al-Baghawi gives them too. Mujahid, in at-Tabari's report, says simply: the confederates. Qatadah makes it personal: that was the day of Abu Sufyan and the confederates, and Allah turned back Abu Sufyan and his companions in their rage, having gained no good.",
+            "bn": "এখানে 'যারা কুফরি করেছিল' বলতে কারা? তাবারীর উত্তর: যারা আল্লাহ ও তাঁর রসূলকে অস্বীকার করেছিল, কুরাইশ ও গাতাফান গোত্রের লোকেরা। ইবন ইসহাকের সূত্রে ইয়াযীদ ইবন রূমান থেকেও তিনি এই দুই নাম আনেন, বাগাভীও একই কথা বলেন। তাবারীর বর্ণনায় মুজাহিদ শুধু বলেন: সম্মিলিত বাহিনী। কাতাদা আরও নির্দিষ্ট করে বলেন, সেটা ছিল আবু সুফিয়ান ও তার মিত্রদের দিন। আবু সুফিয়ান ও তার সঙ্গীদের আল্লাহ তাদের রাগসহই ফিরিয়ে দিলেন, তারা কোনো কল্যাণ পায়নি।"
+          },
+          {
+            "en": "Al-Qurtubi relays, from Muhammad ibn 'Amr, who traces it back to 'Aishah, a narrower identification: those who disbelieved here are Abu Sufyan and 'Uyaynah ibn Badr. Abu Sufyan went back to Tihamah, and 'Uyaynah went back to Najd. Al-Qurtubi gives no chain beyond those names. The picture is still telling. An alliance that had arrived as one mass outside Madinah left as two leaders riding off to two separate homelands.",
+            "bn": "কুরতুবী মুহাম্মাদ ইবন আমর থেকে একটি বর্ণনা আনেন, যা তিনি আয়িশা (রাঃ) পর্যন্ত পৌঁছান। সেখানে পরিচয় আরও সংকীর্ণ: এখানে কাফির বলতে আবু সুফিয়ান আর উয়াইনা ইবন বদর। আবু সুফিয়ান ফিরে গেল তিহামায়, উয়াইনা ফিরে গেল নাজদে। এই নামগুলোর বাইরে কুরতুবী কোনো সনদ উল্লেখ করেননি। তবু ছবিটা অর্থবহ। যে জোট মদীনার বাইরে এসেছিল এক বিশাল দল হয়ে, সে ফিরল দুই নেতার দুই আলাদা দেশের পথে।"
+          },
+          {
+            "en": "Then bi-ghayzihim, in their rage. At-Tabari glosses it as their distress and gloom, at missing the victory they had hoped for and being disappointed of the conquest they had coveted. Al-Baghawi puts it as a wound left open: Allah did not heal their breasts by letting them reach what they wanted. In as-Sa'di's telling they had come furious, certain the turn of fortune would be theirs, deceived by their gathered crowds, pleased with their alliance, glad of their numbers and equipment. They went away with their rage, he says, and that too was Allah's help to His believing servants.",
+            "bn": "তারপর বিগাইযিহিম, তাদের ক্রোধসহ। তাবারী এর ব্যাখ্যা দেন তাদের মনঃকষ্ট আর বিষাদ দিয়ে। যে বিজয়ের আশা করেছিল তা হাতছাড়া হলো, যে জয়ের লোভ করেছিল তাতে ব্যর্থ হলো। বাগাভীর কথায় এ যেন না-সারা এক ক্ষত: তারা যা চেয়েছিল তা পাইয়ে দিয়ে আল্লাহ তাদের বুক ঠান্ডা করেননি। সা'দী বর্ণনা দেন, তারা কোন মেজাজে এসেছিল। রাগে ফুঁসছিল, নিশ্চিত ছিল যে পাল্লা তাদের দিকেই ভারী হবে। নিজেদের ভিড় দেখে ধোঁকায় পড়েছিল, জোট বাঁধতে পেরে মুগ্ধ ছিল, লোকবল আর অস্ত্রশস্ত্র দেখে খুশি ছিল। সা'দী বলেন, তারা ফিরে গেল রাগ নিয়েই, আর এটাও মু'মিন বান্দাদের প্রতি আল্লাহর সাহায্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Good in Either World",
+          "bn": "দুই জগতের কোথাও কল্যাণ নেই"
+        },
+        "p": [
+          {
+            "en": "Lam yanalu khayra, they gained no good. The commentators measure that good on different scales. At-Tabari keeps it close to the field: they took from the Muslims neither wealth nor captives. Al-Baghawi gives a single word, zafar, victory. Ibn Kathir and the Muyassar widen it to both worlds: no good in this life and none in the next. In this world they missed the triumph and the spoils they had set their hearts on. In the Hereafter they gained nothing, because of the sins they took on by openly fighting the Messenger ﷺ, resolving to kill him and to wipe out his army.",
+            "bn": "লাম ইয়ানালূ খাইরা, তারা কোনো কল্যাণ পায়নি। এই কল্যাণ তাফসীরকারেরা মাপেন ভিন্ন ভিন্ন মাপকাঠিতে। তাবারী কথাটা রণক্ষেত্রেই রাখেন: মুসলমানদের কাছ থেকে তারা না কোনো সম্পদ পেয়েছে, না কোনো বন্দী। বাগাভী বলেন একটিমাত্র শব্দে, যাফার, অর্থাৎ বিজয়। ইবন কাসীর ও মুয়াসসার একে ছড়িয়ে দেন দুই জগতে: দুনিয়াতেও কোনো কল্যাণ নেই, আখিরাতেও নেই। দুনিয়াতে তারা হারাল সেই জয় আর গনীমত, যার আশায় বুক বেঁধেছিল। আখিরাতেও কিছু পেল না, কারণ রসূল ﷺ-এর বিরুদ্ধে প্রকাশ্য শত্রুতায় নেমে, তাঁকে হত্যা আর তাঁর বাহিনীকে নির্মূল করার সংকল্প করে তারা গুনাহের বোঝা কাঁধে তুলেছিল।"
+          },
+          {
+            "en": "Ibn Kathir then states the principle behind the second half: whoever resolves on a thing and makes his resolve real by acting on it is, in truth, like its doer. The confederates never crossed the trench, yet the march and the siege had already turned intention into deed. The readings differ in reach more than they conflict. At-Tabari counts what the attackers failed to carry away; Ibn Kathir counts what they carried with them. For the reader, the point is sober: an intention pursued to the edge of action is not weightless.",
+            "bn": "দ্বিতীয় অংশের পেছনের নীতিটাও ইবন কাসীর বলে দেন: কেউ কোনো কিছুর সংকল্প করে কাজের মধ্য দিয়ে সেই সংকল্পকে সত্যি করে তুললে, আসলে সে কাজটা যে করেছে তার মতোই। সম্মিলিত বাহিনী পরিখা পার হতে পারেনি। কিন্তু এই অভিযান আর অবরোধেই তাদের নিয়ত কাজে রূপ নিয়ে ফেলেছিল। দুই ব্যাখ্যার তফাতটা পরিধির, বিরোধের নয়। তাবারী হিসাব করেন আক্রমণকারীরা কী নিয়ে যেতে পারেনি। ইবন কাসীর হিসাব করেন তারা কী বয়ে নিয়ে গেল। পাঠকের জন্য কথাটা গুরুগম্ভীর: যে নিয়ত কাজের দোরগোড়া পর্যন্ত টেনে নেওয়া হয়েছে, তা ওজনহীন নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spared the Clash of Arms",
+          "bn": "অস্ত্রের মুখোমুখি হতে হয়নি"
+        },
+        "p": [
+          {
+            "en": "Wa kafa-llahu-l-mu'minina-l-qital: and Allah spared the believers the fighting. At-Tabari says He did it with hosts of angels and the wind He sent against them, and Qatadah, in his report, says the same; al-Baghawi names the angels and the wind. The wind and the unseen armies were already told at 33:9. What this clause adds is the verb kafa, to suffice, to stand in for. Ibn Kathir draws it out: they did not need to meet the enemy in open combat and single duels to drive them from their land. Allah alone sufficed;",
+            "bn": "ওয়া কাফাল্লাহুল মু'মিনীনাল কিতাল: আর মু'মিনদের যুদ্ধের জন্য আল্লাহই যথেষ্ট হলেন। তাবারী বলেন, তিনি তা করেছেন ফেরেশতাদের বাহিনী আর তাদের উপর পাঠানো বাতাস দিয়ে। কাতাদার বর্ণনাতেও একই কথা, বাগাভীও ফেরেশতা আর বাতাসের নাম নেন। বাতাস আর অদৃশ্য বাহিনীর কাহিনি ৩৩:৯ আয়াতে আগেই বলা হয়েছে। এ বাক্যাংশ নতুন যা যোগ করে, তা হলো কাফা ক্রিয়াটি: যথেষ্ট হওয়া, কারও জায়গায় নিজে দাঁড়িয়ে যাওয়া। ইবন কাসীর কথাটা খুলে বলেন। শত্রুকে তাদের দেশ থেকে হটাতে মু'মিনদের সম্মুখ লড়াই বা দ্বন্দ্বযুদ্ধে নামতে হয়নি। আল্লাহ একাই যথেষ্ট হয়েছেন।"
+          },
+          {
+            "en": "As-Sa'di widens the means. Allah sufficed them, he says, by what He arranged for them of means, both the ordinary kind and the kind that comes by His decree alone. The Muyassar is briefer: by the means with which He supported them. That phrasing leaves room for the trench that was dug and the posts that were held, alongside the wind no one could summon. Al-Qurtubi adds one more strand: the wind and the hosts drove the attackers back, Banu Qurayzah returned to their fortresses, and their matter too was settled by terror.",
+            "bn": "সা'দী উপায়ের পরিধিটা বাড়িয়ে দেন। তাঁর ভাষায়, আল্লাহ তাদের জন্য যথেষ্ট হয়েছেন সেসব উপায় দিয়ে, যা তিনি তাদের জন্য সাজিয়ে দিয়েছিলেন। তার কিছু ছিল স্বাভাবিক উপায়, আর কিছু এসেছিল কেবল তাঁর তাকদীর থেকে। মুয়াসসার আরও সংক্ষেপে বলে, যেসব উপায় দিয়ে তিনি তাদের শক্তি জুগিয়েছেন। এ কথায় জায়গা থাকে খুঁড়ে রাখা পরিখার জন্য, আঁকড়ে ধরে রাখা পাহারার জন্যও, পাশাপাশি সেই বাতাসের জন্য, যা ডেকে আনার সাধ্য কারও ছিল না। কুরতুবী আরও একটি দিক যোগ করেন। বাতাস আর বাহিনী আক্রমণকারীদের হটিয়ে দিল, বনু কুরাইযা ফিরে গেল নিজেদের দুর্গে, আর তাদের বিষয়টাও মীমাংসা হলো ভীতি দিয়ে।"
+          },
+          {
+            "en": "Ibn Kathir also finds a fit between the means and the men. They had gathered out of hawa, whim: a mixture of scattered tribes, parties and opinions. So it suited that Allah should send hawa', moving air, to break up what whim had assembled. He adds that had Allah not made His Messenger a mercy to the worlds, that wind would have been harsher on them than the barren wind sent on 'Ad, and the English abridgement of his tafsir cites 8:33 here: Allah would not punish them while you are among them.",
+            "bn": "ইবন কাসীর উপায় আর মানুষগুলোর মধ্যে একটা মিলও দেখান। এখানে আরবি দুটি শব্দের ধ্বনির মিল আছে। তারা জড়ো হয়েছিল হাওয়া, অর্থাৎ প্রবৃত্তির টানে: নানা গোত্র, নানা দল আর নানা মতের এক জগাখিচুড়ি। তাই মানানসই ছিল যে আল্লাহ পাঠাবেন হাওয়া', অর্থাৎ বয়ে চলা বাতাস, যা প্রবৃত্তির জড়ো করা জিনিস ছত্রভঙ্গ করে দেবে। তিনি আরও বলেন, আল্লাহ যদি তাঁর রসূলকে বিশ্বজগতের জন্য রহমত না বানাতেন, তবে আদ জাতির উপর পাঠানো বন্ধ্যা বাতাসের চেয়েও কঠিন হতো এ বাতাস। তাঁর তাফসীরের ইংরেজি সংক্ষেপ এখানে ৮:৩৩ আয়াত উদ্ধৃত করে: তুমি তাদের মাঝে থাকা অবস্থায় আল্লাহ তাদের শাস্তি দেবেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Prayers Made Up in Order",
+          "bn": "ক্রমানুসারে কাযা নামাজ"
+        },
+        "p": [
+          {
+            "en": "An-Nasa'i (661) records from Abu Sa'id al-Khudri: \"On the day of al-Khandaq the idolaters kept us from praying Zuhr until the sun had gone down; that was before the revelation concerning fighting was revealed. Then Allah, the Mighty and Sublime, revealed: Allah sufficed for the believers in the fighting. The Messenger of Allah ﷺ commanded Bilal to say the iqamah for Zuhr, and he offered it just as he used to offer it on time. Then he said the iqamah for 'Asr and he offered it just as he used to offer it on time. Then he called the adhan for Maghrib and offered it on time.\"",
+            "bn": "নাসাঈ তাঁর সুনানে (৬৬১) আবু সাঈদ খুদরী (রাঃ)-এর একটি বর্ণনা এনেছেন, যা এই বাক্যাংশকে এক কঠিন দিনের সঙ্গে বেঁধে দেয়: \"খন্দকের দিন মুশরিকরা আমাদের যোহরের নামাজ থেকে আটকে রেখেছিল, এমনকি সূর্য ডুবে গেল। এটা ছিল যুদ্ধ বিষয়ে যা নাযিল হওয়ার তা নাযিল হওয়ার আগের ঘটনা। তখন মহিমান্বিত আল্লাহ নাযিল করলেন: যুদ্ধে মু'মিনদের জন্য আল্লাহই যথেষ্ট হলেন। রসূলুল্লাহ ﷺ বিলালকে নির্দেশ দিলেন, তিনি যোহরের ইকামত দিলেন। নবী ﷺ তা আদায় করলেন ঠিক যেভাবে সময়মতো আদায় করতেন। তারপর আসরের ইকামত দিয়ে তা আদায় করলেন যেভাবে সময়মতো করতেন। তারপর মাগরিবের আযান দিয়ে তা সময়মতো আদায় করলেন।\""
+          },
+          {
+            "en": "The page we fetched shows no grading from an-Nasa'i. At-Tabari relays the same report from Abu Sa'id through Ibn Abi Dhi'b, with a different count: Zuhr, 'Asr, Maghrib and 'Isha' were all held back until well into the night, when, in his wording, we were sufficed. Each prayer then had its own iqamah, and he notes this was before the prayer of fear was revealed, quoting 2:239. What both show is what relief looked like: the first thing done once the danger lifted was prayer, offered with the same care as in its time.",
+            "bn": "আমরা যে পাতা দেখেছি, তাতে নাসাঈর কোনো মান-নির্ধারণ নেই। তাবারীও ইবন আবী যি'বের সূত্রে আবু সাঈদ (রাঃ) থেকে একই বর্ণনা আনেন, তবে সংখ্যাটা আলাদা। সেখানে যোহর, আসর, মাগরিব ও এশা চার ওয়াক্তই আটকে ছিল, রাত অনেকটা গড়িয়ে যাওয়া পর্যন্ত। তারপর, তাঁর বর্ণনার ভাষায়, আমাদের জন্য যথেষ্ট করা হলো। প্রতিটি নামাজের জন্য আলাদা ইকামত দেওয়া হয়। তাবারী জানান, এটা ছিল ভয়ের সময়ের নামাজের বিধান নাযিল হওয়ার আগে, আর এখানে তিনি ২:২৩৯ আয়াত উদ্ধৃত করেন। তবে দুটোই দেখায় স্বস্তির চেহারাটা কেমন ছিল। বিপদ কাটার পর প্রথম কাজ ছিল নামাজ, সময়মতো যে যত্নে পড়া হতো সেই যত্নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Alone Defeated the Clans",
+          "bn": "দলগুলোকে তিনি একাই হারালেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir links the clause on sufficing to a praise the Prophet ﷺ used to repeat, and says al-Bukhari and Muslim both record it from Abu Hurayrah. Al-Bukhari's wording (4114) is: \"Allah's Messenger ﷺ used to say, None has the right to be worshipped except Allah Alone (Who) honoured His warriors and made His slave victorious, and He (Alone) defeated the clans; so there is nothing after Him.\" We quote al-Bukhari's text, which he includes in his Sahih.",
+            "bn": "ইবন কাসীর যথেষ্ট হওয়ার এই বাক্যাংশের সঙ্গে নবী ﷺ-এর বারবার বলা এক প্রশংসাকে যুক্ত করেন। তিনি জানান, বুখারী ও মুসলিম দুজনেই আবু হুরায়রা (রাঃ) থেকে তা বর্ণনা করেছেন। বুখারীর (৪১১৪) ভাষ্য এরকম: \"রসূলুল্লাহ ﷺ বলতেন, এক আল্লাহ ছাড়া কোনো উপাস্য নেই। তিনি তাঁর বাহিনীকে মর্যাদা দিয়েছেন, তাঁর বান্দাকে বিজয়ী করেছেন, আর দলগুলোকে তিনি একাই পরাস্ত করেছেন। তাঁর পরে আর কিছুই নেই।\" আমরা বুখারীর ভাষ্যই রাখছি, যা তিনি তাঁর সহীহ গ্রন্থে এনেছেন।"
+          },
+          {
+            "en": "Ibn Kathir sets beside it the supplication made before the relief, which he cites from the two Sahihs through 'Abdullah ibn Abi Awfa. Al-Bukhari's wording (4115): \"Allah's Messenger ﷺ invoked evil upon the clans saying, Allah, the Revealer of the Holy Book, the Quick Taker of the accounts! Please defeat the clans. O Allah! Defeat them and shake them.\" Neither narration is a report of the verse's revelation. Read together, though, they frame it: a plea for defeat beforehand, and afterwards a praise that gives the defeat to Allah alone, exactly as the verse's grammar does.",
+            "bn": "এর পাশে ইবন কাসীর রাখেন স্বস্তি আসার আগের দোয়াটি, যা তিনি আবদুল্লাহ ইবন আবী আওফা (রাঃ)-এর সূত্রে দুই সহীহ গ্রন্থ থেকে উদ্ধৃত করেন। বুখারীর (৪১১৫) ভাষ্য: \"রসূলুল্লাহ ﷺ দলগুলোর বিরুদ্ধে বদদোয়া করে বললেন, হে আল্লাহ, কিতাব নাযিলকারী, দ্রুত হিসাব গ্রহণকারী! দলগুলোকে পরাজিত করুন। হে আল্লাহ, তাদের পরাজিত করুন, তাদের প্রকম্পিত করুন।\" দুটি বর্ণনার কোনোটিই এ আয়াত নাযিলের ঘটনা নয়। তবে একসঙ্গে পড়লে আয়াতটি যেন দুই দিক থেকে বাঁধা পড়ে। আগে পরাজয়ের জন্য মিনতি, পরে এমন প্রশংসা, যা পরাজয়ের কৃতিত্ব দেয় কেবল আল্লাহকে। আয়াতের বাক্যগঠনও ঠিক তাই করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Defending to Setting Out",
+          "bn": "আত্মরক্ষা থেকে অভিযানের পথে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir finds a second meaning in the same clause: a sign that the war between the believers and Quraysh had been laid down, and that is what followed. The idolaters did not march on them again; the Muslims went out to them in their own land. Al-Bukhari (4110) records from Sulayman ibn Surad: \"When the clans were driven away, I heard the Prophet ﷺ saying, From now onwards we will go to attack them and they will not come to attack us, but we will go to them.\" Al-Bukhari includes it in his Sahih.",
+            "bn": "একই বাক্যাংশে ইবন কাসীর আরেকটি অর্থ খুঁজে পান। এতে ইঙ্গিত আছে যে মু'মিনদের সঙ্গে কুরাইশের যুদ্ধ এখানেই থামল, আর পরে ঘটেছেও তাই। মুশরিকরা আর তাদের উপর চড়াও হয়নি, বরং মুসলমানরাই তাদের দেশে গিয়ে অভিযান চালিয়েছে। বুখারী (৪১১০) সুলাইমান ইবন সুরাদ (রাঃ) থেকে বর্ণনা করেন: \"দলগুলো যখন হটে গেল, আমি নবী ﷺ-কে বলতে শুনলাম, এখন থেকে আমরাই তাদের উপর অভিযান চালাব, তারা আর আমাদের উপর আসবে না, আমরাই তাদের দিকে যাব।\" বুখারী এটি তাঁর সহীহ গ্রন্থে এনেছেন।"
+          },
+          {
+            "en": "This needs saying plainly. The verse tells how one coalition, which the commentators name as Quraysh and Ghatafan, was turned back from one city in one war, and the verses after it concern a party of the People of the Book in that same war. None of it licenses anything against any living person or community, Jewish or otherwise. It is no charter for any present-day war and no warrant to name an enemy today. The Prophet's words, we will go to them, reported a turn in that conflict; they are not an instruction to the reader.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বলে, এক যুদ্ধে একটি জোটকে কীভাবে একটি শহর থেকে ফিরিয়ে দেওয়া হলো। তাফসীরকারেরা সেই জোটের নাম বলেন কুরাইশ ও গাতাফান। পরের আয়াতগুলো একই যুদ্ধে আহলে কিতাবের একটি দলের কথা বলে। এর কোনো কিছুই আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কোনো অনুমতি দেয় না, ইহুদি হোক বা অন্য কেউ। আজকের কোনো যুদ্ধের সনদও এটা নয়, আজ কাউকে শত্রু ঠিক করে নেওয়ার ছাড়পত্রও নয়। 'আমরাই তাদের দিকে যাব', নবী ﷺ-এর এ কথা ছিল সেই সংঘাতের মোড় ঘোরার খবর। পাঠকের জন্য এটা কোনো নির্দেশ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Strength That Needs No Ally",
+          "bn": "যে শক্তির কোনো সহায় লাগে না"
+        },
+        "p": [
+          {
+            "en": "Wa kana-llahu qawiyyan 'aziza: and Allah is ever Strong, Mighty. At-Tabari explains qawiyy as strong to do whatever He wills with His creation, giving victory to whom He wills over whom He wills to forsake, overcome by no one; and 'aziz as severe in vengeance on those of His enemies He punishes. Al-Baghawi has strong in His dominion, mighty in His retribution. Al-Qurtubi: strong in His command, mighty and never overcome. The Muyassar: strong, never overpowered or subdued, mighty in His dominion and authority.",
+            "bn": "ওয়া কানাল্লাহু কাওয়িয়্যান আযীযা: আর আল্লাহ সর্বশক্তিমান, মহাপরাক্রমশালী। তাবারী কাওয়ী নামের ব্যাখ্যা দেন এভাবে: সৃষ্টির সঙ্গে যা ইচ্ছা তা করার শক্তি তাঁর আছে। যাকে চান, যাকে পরিত্যাগ করতে চান তার উপর তাকে বিজয় দেন, আর কেউ তাঁকে হারাতে পারে না। আযীয মানে, তাঁর শত্রুদের যাদের তিনি শাস্তি দেন, তাদের প্রতি তাঁর প্রতিশোধ কঠোর। বাগাভী বলেন: রাজত্বে শক্তিমান, প্রতিশোধে পরাক্রমশালী। কুরতুবী বলেন: আদেশে শক্তিমান, পরাক্রমশালী, কেউ তাঁকে পরাভূত করতে পারে না। মুয়াসসারের ভাষায়: তাঁকে কেউ হারাতে পারে না, দমাতে পারে না, আর রাজত্ব ও কর্তৃত্বে তিনি পরাক্রমশালী।"
+          },
+          {
+            "en": "As-Sa'di turns the two names toward the reader. No one contends with Him without being overcome, and no one seeks His help without prevailing. Nothing He wills is beyond Him, and the strength and might of the strong avail them nothing unless He aids them with His own strength and might. Ibn Kathir closes on the same note: by His power and might He sent them back disappointed, having gained nothing, honoured Islam and its people, kept His promise and helped His Messenger and servant. The names explain the verse: a coalition that trusted its numbers met One whose strength is not counted.",
+            "bn": "সা'দী এই দুই নামকে পাঠকের দিকে ফিরিয়ে দেন। যে-ই তাঁর সঙ্গে পাল্লা দিতে আসে, সে হেরে যায়। আর যে-ই তাঁর কাছে সাহায্য চায়, সে জয়ী হয়। তিনি যা চান, কোনো কিছুই তাঁর সাধ্যের বাইরে নয়। শক্তিমান আর ক্ষমতাবানদের শক্তি ও ক্ষমতা তাদের কোনো কাজে আসে না, যদি না তিনি নিজের শক্তি ও ক্ষমতা দিয়ে তাদের সাহায্য করেন। ইবন কাসীরও শেষ করেন এই সুরে। নিজের শক্তি ও ক্ষমতায় আল্লাহ তাদের ব্যর্থ করে ফিরিয়ে দিলেন, তারা কিছুই পেল না। তিনি ইসলাম ও তার অনুসারীদের মর্যাদা দিলেন, ওয়াদা পূরণ করলেন, তাঁর রসূল ও বান্দাকে সাহায্য করলেন। নাম দুটিই আয়াতের ব্যাখ্যা। যে জোট নিজের সংখ্যায় ভরসা করেছিল, তার মুখোমুখি হলেন এমন একজন, যাঁর শক্তি গোনা যায় না।"
+          },
+          {
+            "en": "What does the reader carry from this? Not a licence to neglect means; as-Sa'di counts the ordinary ones among what Allah used, and the trench was dug before the wind came. The point is where the final weight rests. When effort is spent and the walls feel close, the verse says Allah is enough for the believers. It also says that rage aimed at His servants buys nothing, in this world or the next. And it shows what relief should look like: prayer made up with care, and a praise that says, He alone.",
+            "bn": "পাঠক এখান থেকে কী নিয়ে যাবেন? উপায়-উপকরণ অবহেলা করার অনুমতি নয়। সা'দী স্বাভাবিক উপায়গুলোকেও আল্লাহর ব্যবহার করা উপায়ের মধ্যে গোনেন, আর বাতাস আসার আগেই পরিখা খোঁড়া হয়েছিল। আসল কথা হলো, শেষ ভরসাটা কোথায় রাখবেন। চেষ্টা ফুরিয়ে এলে, চারপাশের দেয়াল কাছে চেপে এলে আয়াত বলে, মু'মিনদের জন্য আল্লাহই যথেষ্ট। আয়াত এটাও বলে, তাঁর বান্দাদের বিরুদ্ধে তাক করা রাগ কিছুই এনে দেয় না, দুনিয়াতেও না, আখিরাতেও না। আর স্বস্তির চেহারাটা কেমন হওয়া উচিত, তাও দেখায়: যত্ন করে আদায় করা কাযা নামাজ, আর এমন প্রশংসা, যা বলে, তিনি একাই।"
+          }
+        ]
+      }
+    ]
+  },
   "33:28": {
     "sections": [
       {

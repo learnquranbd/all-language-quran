@@ -36393,6 +36393,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Fear may rise to your throat when trouble presses from every side; guard what you think of Allah in that hour, and hold to His promise rather than the worst you imagine.",
     "lessonBn": "চারদিক থেকে বিপদ চেপে ধরলে ভয়ে প্রাণ কণ্ঠাগত হতেই পারে। সেই মুহূর্তে আল্লাহ সম্পর্কে নিজের ধারণা পাহারা দিন, মনের কল্পনার সবচেয়ে খারাপটা নয়, আঁকড়ে ধরুন তাঁর ওয়াদা।"
+  },
+  "33:25": {
+    "reflectionEn": "An army gathered from many tribes came to finish a city, and it went home carrying nothing but its own anger. No pitched battle broke it. The verse is plain about who did the turning: Allah sent them back, and Allah spared the believers the fighting. Yet those believers had dug the trench and held their posts through long nights of fear. The sufficing did not cancel their effort; it met them where their effort ran out. And the rage that drove the attackers bought them nothing at all. When something is beyond my strength, do I still do my part and then trust that it can be settled for me? And when anger drives me against someone, what do I honestly expect it to win?",
+    "reflectionBn": "বহু গোত্র মিলে এক বিশাল বাহিনী এসেছিল একটা শহরকে শেষ করে দিতে। ফিরে গেল শুধু নিজেদের রাগটুকু বুকে নিয়ে। কোনো সম্মুখ যুদ্ধে তারা হারেনি। তাহলে ফেরাল কে? আয়াত সোজাসুজি বলে দেয়: আল্লাহ তাদের ফিরিয়ে দিলেন, আর মু'মিনদের যুদ্ধ করার দায় থেকে আল্লাহই রেহাই দিলেন। অথচ সেই মু'মিনরাই পরিখা খুঁড়েছিলেন, ভয়ের লম্বা রাতগুলোতে নিজের জায়গা ছাড়েননি। আল্লাহর যথেষ্ট হওয়া তাঁদের চেষ্টাকে বাতিল করেনি। চেষ্টা যেখানে শেষ, সাহায্য এসেছে ঠিক সেখানে। আর যে রাগ আক্রমণকারীদের টেনে এনেছিল, তা তাদের কিছুই এনে দেয়নি। যা আমার সাধ্যের বাইরে, সেখানে আমি কি নিজের অংশটুকু করে বাকিটা আল্লাহর হাতে ছাড়তে পারি? আর রাগের বশে যখন কারও দিকে ছুটে যাই, সত্যি করে বলুন তো, তাতে কী পাব বলে আশা করি?",
+    "pointsEn": [
+      "What am I facing right now that I cannot win by my own strength, and have I done my share before handing it to Allah?",
+      "When help came to me from a direction I never planned, did I name Allah as the One who sent it, or credit my own cleverness?",
+      "Which grudge am I still carrying that has never once brought me any real good?",
+      "The attackers trusted their numbers. In what do I quietly place my confidence: money, people, plans, or Allah?",
+      "If Allah is enough for the believers, what fear would I let go of today if I truly believed it?"
+    ],
+    "pointsBn": [
+      "এ মুহূর্তে এমন কী সামনে আছে, যা নিজের শক্তিতে জেতা আমার পক্ষে সম্ভব নয়? আল্লাহর হাতে সঁপে দেওয়ার আগে নিজের ভাগের কাজটুকু কি করেছি?",
+      "যে দিক থেকে কখনো ভাবিনি, সেদিক থেকে সাহায্য এলে আমি কি বলেছি আল্লাহই পাঠিয়েছেন, নাকি নিজের বুদ্ধির প্রশংসা করেছি?",
+      "কোন ক্ষোভটা আমি এখনো বয়ে বেড়াচ্ছি, যা আজ পর্যন্ত একবারও আমার সত্যিকারের কোনো কল্যাণ আনেনি?",
+      "আক্রমণকারীরা ভরসা করেছিল নিজেদের সংখ্যার উপর। আমার মনের গোপন ভরসা কোথায়: টাকায়, মানুষে, পরিকল্পনায়, নাকি আল্লাহর উপর?",
+      "মু'মিনদের জন্য আল্লাহই যথেষ্ট, এ কথায় সত্যি বিশ্বাস করলে আজ কোন ভয়টা আমি ঝেড়ে ফেলতাম?"
+    ],
+    "lessonEn": "Do your part, then trust Allah to settle what is beyond you; He is enough for the believers, and anger aimed at His servants gains nothing.",
+    "lessonBn": "নিজের অংশের কাজটুকু করুন, তারপর যা সাধ্যের বাইরে তা আল্লাহর উপর ছেড়ে দিন। মু'মিনদের জন্য তিনিই যথেষ্ট, আর তাঁর বান্দাদের বিরুদ্ধে রাগ কিছুই অর্জন করে না।"
   }
 };
 
