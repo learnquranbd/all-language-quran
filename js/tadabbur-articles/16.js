@@ -5175,6 +5175,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:100": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Other Side of the Line",
+          "bn": "রেখার ওপাশে যারা"
+        },
+        "p": [
+          {
+            "en": "This verse finishes a sentence that the one before it began. Surah an-Nahl first tells the reciter to seek refuge in Allah from Satan before reading the Qur'an (16:98). It then says that Satan has no authority over those who believe and rely on their Lord (16:99). Here it names the other side: innama sultanuhu 'ala alladhina yatawallawnahu wa-lladhina hum bihi mushrikun, his authority is only over those who take him as an ally, and those who are, bihi, associating partners. Al-Muyassar glosses the two verses together as one statement.",
+            "bn": "আগের আয়াত যে কথা শুরু করেছিল, এ আয়াত তা শেষ করে। সূরা নাহল প্রথমে কুরআন পড়ার আগে শয়তান থেকে আল্লাহর আশ্রয় চাইতে বলে (১৬:৯৮)। তারপর জানায়, যারা ঈমান এনেছে আর নিজের রবের উপর ভরসা করে, তাদের উপর শয়তানের কোনো কর্তৃত্ব নেই (১৬:৯৯)। এখানে আসে অন্য পক্ষের কথা: ইন্নামা সুলতানুহু আলাল্লাযীনা ইয়াতাওয়াল্লাওনাহু ওয়াল্লাযীনা হুম বিহী মুশরিকূন। তার কর্তৃত্ব কেবল তাদের উপর, যারা তাকে বন্ধু ও অভিভাবক বানায়, আর যারা 'বিহী' শরীক করে। মুয়াসসার দুটি আয়াতকে একটিই বক্তব্য ধরে একসঙ্গে ব্যাখ্যা করেছে।"
+          },
+          {
+            "en": "The verse opens with innama, the particle of restriction: only. The restriction matters as much as the claim. Satan is not denied all reach; the verse fences in where his authority runs, and, as the commentators will show, the fence is drawn by people themselves. Two descriptions stand inside it. The first is about a relationship, the taking of him as a wali. The second is about worship, the shirk named at the end. The commentators' discussion turns on how these two phrases are understood, and on one small pronoun.",
+            "bn": "আয়াতের শুরুতে ইন্নামা, সীমা টানার শব্দ, যার মানে কেবল। দাবির মতোই এই সীমাটাও গুরুত্বপূর্ণ। শয়তানের নাগাল একেবারে নেই, এমন কথা বলা হয়নি। আয়াত শুধু ঘিরে দিয়েছে তার কর্তৃত্ব কোথায় চলে। আর তাফসীরকারদের কথায় দেখা যাবে, ঘেরের রেখাটা টানে মানুষ নিজেই। ঘেরের ভেতরে দুটি বর্ণনা। প্রথমটি সম্পর্কের, তাকে ওলি বানিয়ে নেওয়া। দ্বিতীয়টি ইবাদতের, শেষে উল্লেখ করা শিরক। তাফসীরকারদের আলোচনা ঘোরে এই দুটি অংশের অর্থ আর একটি ছোট্ট সর্বনামকে ঘিরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proof, or a Hold Over Them",
+          "bn": "যুক্তির জোর, নাকি দখল"
+        },
+        "p": [
+          {
+            "en": "What is the sultan in question? At-Tabari's first gloss is hujja, an argument or proof: his hujja is only over those who worship him. He supports it from Mujahid, through Ibn Abi Najih, who said of innama sultanuhu simply: his hujja. On the paired verse at-Tabari keeps the same sense, saying Satan has no hujja against those who believe in Allah and His Messenger, act on what Allah commanded and refrain from what He forbade. On this reading the verse is about whom Satan can make a case against.",
+            "bn": "এখানে সুলতান বলতে কী বোঝানো হয়েছে? তাবারীর প্রথম ব্যাখ্যা হুজ্জাত, অর্থাৎ যুক্তি বা প্রমাণ: তার হুজ্জাত কেবল তাদের উপর, যারা তার ইবাদত করে। এর সমর্থনে তিনি আনেন ইবন আবী নাজীহের সূত্রে মুজাহিদের কথা। 'ইন্নামা সুলতানুহু' সম্পর্কে মুজাহিদ শুধু বলেছেন: তার হুজ্জাত। জোড়া আয়াতেও তাবারী একই অর্থ ধরে রাখেন। তাঁর ভাষায়, যারা আল্লাহ ও তাঁর রাসূলের উপর ঈমান এনেছে, আল্লাহর হুকুম মেনে চলে আর তাঁর নিষেধ থেকে বিরত থাকে, তাদের বিরুদ্ধে শয়তানের কোনো হুজ্জাত নেই। এ পাঠে আয়াতের বিষয় হলো, কার বিরুদ্ধে শয়তান মামলা দাঁড় করাতে পারে।"
+          },
+          {
+            "en": "Other commentators give the word a sense of control. Al-Muyassar and as-Sa'di both gloss sultan as tasallut, dominance, a hold over someone: Satan has no hold over the believers, and his hold is only over those who made him their helper. Al-Baghawi, on 16:99, puts both senses into two words, hujja and wilaya, argument and guardianship. Ma'arif al-Qur'an explains what kind of power is denied: Allah has not given Satan a power that would disarm a human being and compel him, helpless, to take to evil.",
+            "bn": "অন্য তাফসীরকারেরা শব্দটিতে নিয়ন্ত্রণের অর্থ দেখেন। মুয়াসসার ও সা'দী দুজনেই সুলতানের ব্যাখ্যা দেন তাসাল্লুত দিয়ে, মানে কারও উপর আধিপত্য বা দখল। মুমিনদের উপর শয়তানের দখল নেই। তার দখল কেবল তাদের উপর, যারা তাকে নিজেদের সহায় বানিয়েছে। বাগাভী ১৬:৯৯ আয়াতে দুটি অর্থকে দুই শব্দে ধরেন: হুজ্জাত ও বিলায়াত, যুক্তি আর অভিভাবকত্ব। কোন ধরনের ক্ষমতা অস্বীকার করা হলো, মাআরিফুল কুরআন তা খুলে বলে। আল্লাহ শয়তানকে এমন শক্তি দেননি, যা মানুষকে নিরস্ত্র করে অসহায় অবস্থায় মন্দের দিকে ঠেলে দিতে বাধ্য করে।"
+          },
+          {
+            "en": "Ma'arif draws the consequence. If a person opts not to use the capacity of choice and control he was given, through sheer carelessness or some selfish motive, the fault is his own. That is the thread that runs through the rest of the verse. Whether sultan means an argument Satan can press or a grip he can tighten, neither is something he takes by force. It is extended to him, and the next phrase names how.",
+            "bn": "এর ফল কী, মাআরিফ তাও টেনে আনে। মানুষকে বেছে নেওয়ার ও নিজেকে সামলানোর যে সামর্থ্য দেওয়া হয়েছে, নিছক গাফিলতি বা স্বার্থের টানে কেউ যদি তা কাজে না লাগায়, দোষটা তার নিজের। আয়াতের বাকি অংশ জুড়ে এই সুতোটাই চলে। সুলতান মানে শয়তানের চাপিয়ে দেওয়া যুক্তি হোক, বা তার শক্ত করে ধরা মুঠো, কোনোটাই সে জোর করে আদায় করে না। তাকে তা দেওয়া হয়। কীভাবে দেওয়া হয়, পরের শব্দটি সে কথাই বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taking Him as Wali",
+          "bn": "তাকে ওলি বানিয়ে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "Yatawallawnahu comes from the same root as wali, a friend, ally or patron. Al-Qurtubi gives the lexical key: tawallaytuhu means I obeyed him, while tawallaytu 'anhu, with the preposition, means I turned away from him. The verb with a direct object, as here, is the verb of following. So al-Qurtubi, al-Baghawi, and Mujahid through Ibn Jurayj in at-Tabari, gloss it alike: those who obey him. Al-Baghawi adds a second clause: they obey him and enter into his wilaya, his guardianship.",
+            "bn": "ইয়াতাওয়াল্লাওনাহু এসেছে ওলি শব্দের ধাতু থেকে, যার মানে বন্ধু, মিত্র বা অভিভাবক। কুরতুবী ভাষার চাবিটা ধরিয়ে দেন। তাওয়াল্লাইতুহু মানে আমি তার আনুগত্য করলাম। কিন্তু মাঝখানে 'আন' অব্যয় বসিয়ে তাওয়াল্লাইতু আনহু বললে মানে দাঁড়ায়, আমি তার থেকে মুখ ফিরিয়ে নিলাম। এখানে ক্রিয়াটি সরাসরি কর্ম নিয়েছে, তাই এটি অনুসরণের ক্রিয়া। ফলে কুরতুবী, বাগাভী, আর তাবারীতে ইবন জুরাইজের সূত্রে মুজাহিদ, সবাই একই অর্থ করেন: যারা তার কথা মানে। বাগাভী আরেকটু যোগ করেন: তারা তার কথা মানে এবং তার অভিভাবকত্বের ছায়ায় ঢুকে পড়ে।"
+          },
+          {
+            "en": "Ibn Kathir sets two glosses side by side. Mujahid said: those who obey him. Others said: those who take him as a wali instead of Allah. Qatada, in at-Tabari, joins the two: those who obey him and worship him. At-Tabari's own opening gloss uses worship outright, those who worship him. Al-Jalalayn, on the quranx page, links them in a single clause: those who choose him as their patron by obeying him. On these readings the alliance is made of obedience; nothing more ceremonial is needed.",
+            "bn": "ইবন কাসীর দুটি ব্যাখ্যা পাশাপাশি রাখেন। মুজাহিদ বলেছেন, যারা তার কথা মানে। অন্যরা বলেছেন, যারা আল্লাহকে বাদ দিয়ে তাকে ওলি বানায়। তাবারীতে কাতাদা দুটোকে এক করেছেন: যারা তার আনুগত্য করে আর তার ইবাদত করে। তাবারী নিজের প্রথম ব্যাখ্যায় সরাসরি ইবাদতের কথাই বলেন: যারা তার ইবাদত করে। কুরআনএক্স পাতায় জালালাইন দুটিকে এক বাক্যে জুড়ে দেয়: যারা তার কথা মেনে তাকে অভিভাবক বেছে নেয়। এসব ব্যাখ্যায় বন্ধুত্বটা গড়ে ওঠে আনুগত্য দিয়েই। আনুষ্ঠানিক আর কিছুর দরকার পড়ে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Authority They Signed Over",
+          "bn": "নিজের হাতে তুলে দেওয়া কর্তৃত্ব"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di explains how such a relationship comes about. They make him a wali by abandoning the wilaya of Allah, entering into Satan's obedience and joining his party. Then he says it plainly: they are the ones who gave him authority over themselves. What follows is the result, in his words: he drove them on to acts of disobedience and led them to the Fire. The order matters. First a door is opened from the inside; only then does whoever was let in begin to push.",
+            "bn": "এমন সম্পর্ক কীভাবে গড়ে ওঠে, সা'দী তা ব্যাখ্যা করেন। আল্লাহর অভিভাবকত্ব ছেড়ে দিয়ে, শয়তানের আনুগত্যে ঢুকে, তার দলে নাম লিখিয়ে তারা তাকে ওলি বানায়। তারপর তিনি সোজা কথায় বলেন: তারাই নিজেদের উপর তাকে কর্তৃত্ব দিয়েছে। এর ফল কী হলো, সেটাও তাঁর ভাষায় আসে। সে তাদের ঠেলে ঠেলে নাফরমানির দিকে নিয়ে গেছে, টেনে নিয়ে গেছে জাহান্নামের পথে। ক্রমটা লক্ষ করার মতো। আগে দরজা খোলা হয় ভেতর থেকে। তারপরই ভেতরে ঢোকা লোকটি ধাক্কা দিতে শুরু করে।"
+          },
+          {
+            "en": "At-Tabari carries a report from Ibn 'Abbas in the same direction: the authority is over whoever took Satan as an ally and acted in disobedience to Allah. Ar-Rabi' ibn Anas, also in at-Tabari, ties the verse to Iblis's own boast that he would lead them all astray, except Your sincere servants among them (15:39 and 15:40). Those are the servants over whom Satan was given no way, he says; his authority is only over a people who took him as an ally and made him a partner in their deeds. Ma'arif points to the same subject in 15:42.",
+            "bn": "তাবারী একই দিকের একটি বর্ণনা আনেন ইবন আব্বাস (রাঃ) থেকে: কর্তৃত্ব তার উপর, যে শয়তানকে বন্ধু বানিয়েছে আর আল্লাহর নাফরমানির কাজ করেছে। তাবারীতেই রবী' ইবন আনাস আয়াতটিকে জুড়ে দেন ইবলীসের নিজের দম্ভোক্তির সঙ্গে। সে বলেছিল, সবাইকে সে পথভ্রষ্ট করবে, তবে তাদের মধ্যে তোমার একনিষ্ঠ বান্দাদের ছাড়া (১৫:৩৯ ও ১৫:৪০)। রবী' বলেন, এরাই সেই বান্দা, যাদের উপর শয়তানকে কোনো পথ দেওয়া হয়নি। তার কর্তৃত্ব কেবল এমন লোকদের উপর, যারা তাকে বন্ধু বানিয়েছে আর নিজেদের কাজে তাকে শরীক করেছে। মাআরিফ একই বিষয়ের জন্য ১৫:৪২ আয়াতের দিকে ইঙ্গিত করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom Bihi Points To",
+          "bn": "বিহী শব্দের সর্বনাম কার দিকে"
+        },
+        "p": [
+          {
+            "en": "The last phrase, wa-lladhina hum bihi mushrikun, holds the verse's real disagreement. Bihi means with him or through him, and the question is who him is. The first reading takes the pronoun back to Allah: those who associate partners with Him. Al-Qurtubi attributes this to Mujahid and ad-Dahhak. At-Tabari gives Mujahid's wording, they set others as equals to the Lord of the worlds, and ad-Dahhak's, they made Iblis equal to their Lord, so they are associating partners with Allah. Al-Baghawi and al-Jalalayn read it the same way.",
+            "bn": "শেষ অংশ, ওয়াল্লাযীনা হুম বিহী মুশরিকূন, আয়াতের আসল মতভেদ এখানেই। বিহী মানে তার সঙ্গে, অথবা তার মাধ্যমে। প্রশ্ন হলো, এই 'তার' কে। এক ব্যাখ্যায় সর্বনামটি ফিরে যায় আল্লাহর দিকে: যারা তাঁর সঙ্গে শরীক করে। কুরতুবী এ মত মুজাহিদ ও দাহহাকের বলে উল্লেখ করেন। তাবারী দুজনেরই ভাষা আনেন। মুজাহিদ বলেছেন, তারা রাব্বুল আলামীনের সমকক্ষ দাঁড় করায়। দাহহাক বলেছেন, তারা ইবলীসকে নিজেদের রবের সমান করেছে, তাই তারা আল্লাহর সঙ্গে শরীককারী। বাগাভী ও জালালাইনও এভাবেই পড়েন।"
+          },
+          {
+            "en": "The other reading takes the pronoun back to Satan. Al-Qurtubi attributes it to ar-Rabi' ibn Anas and to al-Qutabi, and explains the ba as min ajlihi, on his account. Arabic uses the letter this way, he notes: kafartu bi-hadhihi al-kalima, I disbelieved because of this word; sara fulan bika 'aliman, so-and-so became learned because of you. Al-Baghawi gives the same reading under qila, it is said: those who, because of him, associate partners with Allah. Ar-Rabi''s own words in at-Tabari are: they made him a partner in their deeds.",
+            "bn": "অন্য ব্যাখ্যায় সর্বনামটি ফিরে যায় শয়তানের দিকে। কুরতুবী এ মত রবী' ইবন আনাস ও কুতাবীর বলে উল্লেখ করেন, আর 'বা' অক্ষরের অর্থ করেন মিন আজলিহী, অর্থাৎ তার কারণে। আরবিতে অক্ষরটির এমন ব্যবহার আছে, তিনি দেখান। কাফারতু বিহাযিহিল কালিমা মানে, এই কথার কারণে আমি কুফরি করলাম। সারা ফুলানুন বিকা আলিমান মানে, তোমার কারণে অমুক আলিম হয়ে উঠল। বাগাভী 'বলা হয়' কথাটি দিয়ে একই ব্যাখ্যা আনেন: যারা তার কারণে আল্লাহর সঙ্গে শরীক করে। তাবারীতে রবী'র নিজের ভাষা হলো: তারা নিজেদের কাজে তাকে শরীক করেছে।"
+          },
+          {
+            "en": "Ibn Kathir gives the first reading and then names the second as a possibility: the ba may be causal, meaning they became associators with Allah because of their obedience to Satan. Al-Muyassar writes the causal sense straight into its gloss: those who, by reason of obeying him, associate others with Allah. Ibn Kathir also records a third view from others, that the phrase means Satan sharing with them in wealth and children. Translators have to choose as well. The English rendering used here says through him; the Bengali says they make him Allah's partner.",
+            "bn": "ইবন কাসীর প্রথম ব্যাখ্যাটি দেন, তারপর দ্বিতীয়টিকে সম্ভাবনা হিসেবে রাখেন। 'বা' কারণবাচক হতে পারে, তখন অর্থ দাঁড়ায়: শয়তানের আনুগত্যের কারণে তারা আল্লাহর সঙ্গে শরীককারী হয়ে গেছে। মুয়াসসার এই কারণবাচক অর্থটাই সরাসরি নিজের ব্যাখ্যায় বসিয়ে দিয়েছে: যারা তার আনুগত্যের কারণে আল্লাহর সঙ্গে শরীক করে। ইবন কাসীর অন্যদের আরও একটি মত উল্লেখ করেন: এর মানে, সম্পদ ও সন্তানে শয়তান তাদের অংশীদার হয়। অনুবাদকদেরও বেছে নিতে হয়। এখানে ব্যবহৃত ইংরেজি অনুবাদ বলে, তার মাধ্যমে শরীক করে। আর বাংলা অনুবাদ বলে, যারা তাকে আল্লাহর শরীক করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari's Case From Usage",
+          "bn": "কুরআনের রীতি দিয়ে তাবারীর যুক্তি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari sets out ar-Rabi''s reading and answers it from the grammar. Those who take Satan as their ally, he says, make him a partner with Allah in their worship, their sacrifices, their food and their drink; they do not associate partners with Satan. Had ar-Rabi''s meaning been intended, the text would read alladhina hum mushrikuhu, those who make him a partner in their deeds, with no bihi in it at all.",
+            "bn": "তাবারী রবী'র ব্যাখ্যাটি তুলে ধরেন, তারপর ব্যাকরণ দিয়ে তার জবাব দেন। তাঁর কথা হলো, যারা শয়তানকে বন্ধু বানায়, তারা নিজেদের ইবাদতে, কুরবানিতে, খাবারে ও পানীয়তে তাকে আল্লাহর শরীক বানায়। শয়তানের সঙ্গে তারা কাউকে শরীক করে না। রবী'র অর্থ উদ্দেশ্য হলে আয়াতের ভাষা হতো 'আল্লাযীনা হুম মুশরিকূহু', অর্থাৎ যারা নিজেদের কাজে তাকে শরীক করে। সেখানে 'বিহী' শব্দটাই থাকত না।"
+          },
+          {
+            "en": "He then appeals to the Qur'an's own usage. Everywhere else it describes the associators as having associated with Allah that for which He sent down no authority, and its prohibition is always do not associate anything with Allah. Nowhere does it say they associated Allah with something. Reading bihi as through Satan would fit, he argues, only if the people held Satan to be the god and set Allah beside him in worship, and that departs from the rest of Scripture. So for at-Tabari the pronoun returns to rabbihim, their Lord, at the end of 16:99, and Mujahid's reading is the sounder.",
+            "bn": "এরপর তিনি কুরআনের নিজের ভাষারীতির দিকে তাকান। অন্য সব জায়গায় কুরআন মুশরিকদের সম্পর্কে বলে, তারা আল্লাহর সঙ্গে এমন কিছু শরীক করেছে, যার পক্ষে তিনি কোনো দলিল নাযিল করেননি। আর নিষেধ এলে সবসময় বলে, আল্লাহর সঙ্গে কোনো কিছু শরীক কোরো না। কোথাও বলে না, তারা আল্লাহকে কোনো কিছুর সঙ্গে শরীক করেছে। তাবারীর যুক্তি, 'বিহী'কে শয়তানের সঙ্গে মিলিয়ে পড়া তখনই খাটে, যদি ধরা হয় তারা শয়তানকেই ইলাহ মানত আর ইবাদতে আল্লাহকে তার পাশে বসাত। সেটা গোটা কুরআনের বর্ণনা থেকে সরে যায়। তাই তাবারীর মতে সর্বনামটি ফিরে যায় ১৬:৯৯ আয়াতের শেষের 'রাব্বিহিম' শব্দে, আর মুজাহিদের ব্যাখ্যাই বেশি সঠিক।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi still record the other reading, and Ibn Kathir allows it as a possibility, so the question stays open among them, and it is left open here. What every reading given shares is narrower than the dispute. On each of them the second group are associators, and their shirk is named in the same breath as Satan's authority. The disagreement is over what one small word points to, not over whether the two belong together in this verse.",
+            "bn": "তবু কুরতুবী ও বাগাভী অন্য ব্যাখ্যাটিও উল্লেখ করেন, আর ইবন কাসীর সেটিকে সম্ভাবনা হিসেবে রেখে দেন। ফলে প্রশ্নটা তাঁদের মধ্যে খোলাই থাকে, এখানেও খোলা রাখা হলো। তবে সব ব্যাখ্যায় একটা জায়গায় মিল আছে। প্রতিটিতেই দ্বিতীয় দলটি শিরককারী, আর তাদের শিরকের কথা এসেছে শয়তানের কর্তৃত্বের কথার সঙ্গে একই নিঃশ্বাসে। মতভেদ শুধু একটি ছোট্ট শব্দ কার দিকে ইঙ্গিত করে তা নিয়ে। এ আয়াতে দুটি বিষয় যে একসঙ্গে বাঁধা, তা নিয়ে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Is Kept From the Believer",
+          "bn": "মুমিন যেখানে তার নাগালের বাইরে"
+        },
+        "p": [
+          {
+            "en": "The paired verse, 16:99, sharpens this verse by contrast, and the commentators read the two together. What does it mean that Satan has no authority over believers? Ibn Kathir reports ath-Thawri: he has no power to make them fall into a sin they do not repent from. At-Tabari, al-Baghawi and al-Qurtubi relay Sufyan's wording: no power to carry them into a sin that is not forgiven. Others said he has no argument against them, and al-Qurtubi gives this from Mujahid: no argument for the sins he calls them to.",
+            "bn": "জোড়া আয়াত ১৬:৯৯ বৈপরীত্য দিয়ে এ আয়াতকে আরও স্পষ্ট করে, আর তাফসীরকারেরা দুটিকে একসঙ্গেই পড়েন। মুমিনদের উপর শয়তানের কর্তৃত্ব নেই, এর মানে কী? ইবন কাসীর সাওরীর কথা আনেন: তাদের এমন গুনাহে ফেলার ক্ষমতা তার নেই, যা থেকে তারা তওবা করবে না। তাবারী, বাগাভী ও কুরতুবী সুফিয়ানের ভাষা আনেন: তাদের এমন গুনাহে টেনে নেওয়ার ক্ষমতা তার নেই, যা মাফ হয় না। অন্যরা বলেছেন, তাদের বিরুদ্ধে তার কোনো যুক্তি নেই। কুরতুবী এ কথা আনেন মুজাহিদ থেকে: যেসব গুনাহের দিকে সে ডাকে, তার পক্ষে তার কোনো যুক্তি নেই।"
+          },
+          {
+            "en": "A third view, in Ibn Kathir, reads it like the exception in Iblis's own words, except Your sincere servants (15:40). Al-Qurtubi records a version of it under qila: Satan has no authority over them in any way, since Allah turned it away when Iblis made that boast. Al-Qurtubi then adds a caution of his own: the statement is general and admits exceptions, for Satan still unsettles even virtuous people in their hours with doubts. So the verse does not promise believers that they will never be tempted. What it denies him is the final say.",
+            "bn": "তৃতীয় মত, ইবন কাসীরে, একে পড়ে ইবলীসের নিজের কথার ব্যতিক্রমের মতো: তবে তোমার একনিষ্ঠ বান্দারা ছাড়া (১৫:৪০)। কুরতুবী 'বলা হয়' দিয়ে এর একটি রূপ আনেন: তাদের উপর শয়তানের কোনো কর্তৃত্বই নেই, কারণ ইবলীস যখন ওই দম্ভ করেছিল, আল্লাহ তখনই তা ফিরিয়ে দিয়েছেন। এরপর কুরতুবী নিজের দিক থেকে সতর্ক করেন। কথাটা সাধারণ, তবে এর ব্যতিক্রম আছে, কারণ নেককার মানুষদের সময়ও শয়তান সংশয় জাগিয়ে এলোমেলো করে দেয়। অর্থাৎ মুমিন কখনো প্রলোভনে পড়বে না, এমন প্রতিশ্রুতি আয়াতে নেই। আয়াত শয়তানকে যা দেয় না, তা হলো শেষ কথা বলার অধিকার।"
+          },
+          {
+            "en": "At-Tabari prefers a reading that ties the pair to the command just before it. Satan has no authority over those who believed and sought refuge in Allah from him, as Allah urged them to, and who rely on their Lord against the passing thoughts and whisperings he puts to them. His evidence is that the verse follows the order to seek refuge before recitation, and that Allah says elsewhere: if an incitement from Satan stirs you, seek refuge in Allah; He is Hearing, Knowing (7:200). Allah directed His servants to seek refuge, at-Tabari concludes, to shield them from his authority.",
+            "bn": "তাবারী এমন ব্যাখ্যা বেছে নেন, যা জোড়া আয়াতকে ঠিক আগের হুকুমের সঙ্গে বেঁধে দেয়। তাঁর মতে, যারা ঈমান এনেছে আর আল্লাহর নির্দেশমতো শয়তান থেকে তাঁর আশ্রয় চেয়েছে, এবং শয়তান মনে যেসব খেয়াল আর কুমন্ত্রণা জাগায় তার মোকাবিলায় নিজের রবের উপর ভরসা করে, তাদের উপর তার কর্তৃত্ব নেই। প্রমাণ হিসেবে তিনি দেখান, আয়াতটি এসেছে তিলাওয়াতের আগে আশ্রয় চাওয়ার হুকুমের পরপরই। আর আল্লাহ অন্যত্র বলেছেন: শয়তানের কোনো প্ররোচনা যদি তোমাকে উসকে দেয়, তবে আল্লাহর আশ্রয় চাও, তিনি সব শোনেন, সব জানেন (৭:২০০)। তাবারীর সিদ্ধান্ত, শয়তানের কর্তৃত্ব থেকে বাঁচাতেই আল্লাহ বান্দাদের আশ্রয় চাইতে বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Locks and a Key",
+          "bn": "দুটি তালা, একটি চাবি"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it, and none gives an occasion of revelation. What the verse describes is two kinds of people in relation to Satan. It names no one, and it licenses nothing against any living person or community: it is not a tool for calling a neighbour Satan's ally or for passing a verdict of shirk on anyone. Its address is to the reader, about the reader's own allegiances.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি, শানে নুযূলও বলেনি। আয়াত বর্ণনা করে, শয়তানের সঙ্গে সম্পর্কের দিক থেকে দুই ধরনের মানুষের কথা। এখানে কারও নাম নেই। আর এ আয়াত কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না। প্রতিবেশীকে শয়তানের দোসর বলার বা কারও উপর শিরকের রায় দেওয়ার হাতিয়ার এটি নয়। আয়াতের কথা পাঠকের প্রতি, পাঠকের নিজের আনুগত্য নিয়ে।"
+          },
+          {
+            "en": "Read that way, the verse is less a warning about Satan's strength than about where it comes from. As-Sa'di's line carries the weight: they are the ones who gave him authority over themselves. Ma'arif sets the alternative beside it. Those who have faith and, rather than trusting their own will power, place their ultimate trust in Allah, who gives the ability for every good and shields from every evil, are not possessed or dictated to. Refuge sought and reliance kept are the two locks; obedience, given step by step, is the key handed over.",
+            "bn": "এভাবে পড়লে আয়াতটা শয়তানের শক্তি নিয়ে যতটা সতর্ক করে, তার চেয়ে বেশি দেখায় সেই শক্তি আসে কোথা থেকে। সা'দীর কথাটিই এখানে ভার বহন করে: তারাই নিজেদের উপর তাকে কর্তৃত্ব দিয়েছে। মাআরিফ পাশে রাখে উল্টো পথটি। যারা ঈমান রাখে, নিজের ইচ্ছাশক্তির উপর ভরসা না করে চূড়ান্ত ভরসা রাখে আল্লাহর উপর, যিনি সব ভালো কাজের তাওফীক দেন আর সব মন্দ থেকে রক্ষা করেন, শয়তান তাদের দখল নিতে পারে না, তাদের উপর হুকুমও চালাতে পারে না। আশ্রয় চাওয়া আর ভরসা ধরে রাখা হলো দুটি তালা। আর ধাপে ধাপে দেওয়া আনুগত্য হলো সেই চাবি, যা মানুষ নিজেই তার হাতে তুলে দেয়।"
+          }
+        ]
+      }
+    ]
+  },
   "16:102": {
     "sections": [
       {

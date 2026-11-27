@@ -33603,6 +33603,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Never use an oath or a promise as a tool of deceit. Keep your word, because people judge Allah's religion by the way a believer keeps faith.",
     "lessonBn": "কসম বা প্রতিশ্রুতিকে কখনো ধোঁকার হাতিয়ার বানাবেন না। কথা রাখুন, কারণ মু'মিন কীভাবে কথা রাখে তা দেখেই মানুষ আল্লাহর দ্বীনের বিচার করে।"
+  },
+  "16:100": {
+    "reflectionEn": "Satan is real, and his whisper can reach anyone, yet this verse marks where his authority actually runs: only over those who take him as their patron, and those who set up partners in worship. The verse before it shuts him out from those who believe and rely on their Lord. So what divides the two groups is not strength or cleverness. It is allegiance. He does not seize the reins; they are handed to him, one obedience at a time, until the one who listens has made him a master. That turns the question inward. Whose voice do I treat as having a right over me? And when temptation comes, am I relying on my Lord, or quietly deferring to the other?",
+    "reflectionBn": "শয়তান সত্যিই আছে, আর তার কুমন্ত্রণা যে কারও কানে পৌঁছাতে পারে। তবু এ আয়াত দেখিয়ে দেয় তার কর্তৃত্ব আসলে কোথায় চলে: কেবল তাদের উপর, যারা তাকে অভিভাবক বানিয়ে নেয়, আর যারা শিরকে লিপ্ত হয়। ঠিক আগের আয়াত তাকে বাইরে রেখেছে তাদের থেকে, যারা ঈমান এনেছে আর নিজের রবের উপর ভরসা করে। তাহলে দুই দলের ফারাক শক্তিতে নয়, চালাকিতেও নয়। ফারাকটা আনুগত্যে। লাগাম সে কেড়ে নেয় না। মানুষ নিজেই তার হাতে তুলে দেয়, একটা একটা করে হুকুম মেনে, যতক্ষণ না শ্রোতা তাকে মনিব বানিয়ে ফেলে। প্রশ্নটা তাই ফিরে আসে নিজের দিকে। কার কণ্ঠকে আমি নিজের উপর হকদার মনে করি? আর প্রলোভন এলে আমি কি রবের উপর ভরসা করি, নাকি চুপচাপ অন্যজনের কথায় সায় দিই?",
+    "pointsEn": [
+      "When a wrong pull comes, do I turn to Allah for refuge and rely on Him, or do I stand and argue with it on its own terms?",
+      "Which habit of mine has become a small obedience to Satan that I no longer even notice?",
+      "Do I excuse my faults by saying Satan made me do it, when this verse says his authority is only over those who give it to him?",
+      "Is there anything I rely on, or anyone I obey, in a way that belongs to Allah alone?",
+      "In one specific choice this week, what would it mean to take Allah, and not my own wants, as my protector?"
+    ],
+    "pointsBn": [
+      "ভুল দিকের টান এলে আমি কি আল্লাহর কাছে আশ্রয় চেয়ে তাঁর উপর ভরসা করি, নাকি দাঁড়িয়ে তার সঙ্গে তার নিজের শর্তেই তর্ক জুড়ে দিই?",
+      "আমার কোন অভ্যাসটা শয়তানের ছোট্ট এক আনুগত্যে পরিণত হয়েছে, যা আমি এখন আর টেরও পাই না?",
+      "আমি কি 'শয়তান করিয়েছে' বলে নিজের দোষ এড়িয়ে যাই? অথচ এ আয়াত বলছে, তার কর্তৃত্ব কেবল তাদের উপর, যারা নিজেরাই তাকে তা দেয়।",
+      "এমন কিছু কি আছে যার উপর আমি ভরসা করি, বা এমন কেউ যার কথা আমি মানি, এমনভাবে যা কেবল আল্লাহরই প্রাপ্য?",
+      "এ সপ্তাহের একটি নির্দিষ্ট সিদ্ধান্তে নিজের খেয়ালখুশিকে নয়, আল্লাহকে অভিভাবক মানা বলতে আমার জন্য কী বোঝাবে?"
+    ],
+    "lessonEn": "Satan rules only those who hand him the reins by obeying him; rely on your Lord and seek His refuge, and his grip finds nothing in you to hold.",
+    "lessonBn": "শয়তানের হুকুম চলে কেবল তাদের উপর, যারা তার কথা মেনে নিজেরাই লাগাম তার হাতে তুলে দেয়। রবের উপর ভরসা রাখুন, তাঁর আশ্রয় চান, তাহলে আপনার মধ্যে আঁকড়ে ধরার মতো কিছুই সে পাবে না।"
   }
 };
 
