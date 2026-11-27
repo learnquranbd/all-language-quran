@@ -38133,6 +38133,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Open the Qur'an as a Book sent down by the Mighty, the Wise, and give it the honour, attention and obedience owed to the One who sent it.",
     "lessonBn": "কুরআন খুলুন মহাপরাক্রমশালী, প্রজ্ঞাময় আল্লাহর নাযিল করা কিতাব হিসেবে, আর যিনি পাঠিয়েছেন তাঁর প্রাপ্য সম্মান, মনোযোগ ও আনুগত্য একে দিন।"
+  },
+  "45:7": {
+    "reflectionEn": "Four Arabic words, and the warning is complete: woe to every affak athim, every habitual liar weighed down with sin. It comes straight after a run of signs in the heavens and the earth, the rain and the winds, and a question about what people will believe if not these. The next verse then draws the man it means: he hears Allah's verses recited, then carries on, proud, as if he had never heard them. The word every keeps the portrait open. It fits whoever takes on the traits, and it is not mine to hang on anyone else. So I turn it inward. Do my words bend the truth with ease? Have I heard a verse this week and walked on unchanged?",
+    "reflectionBn": "আরবিতে মাত্র চারটি শব্দ, তাতেই সতর্কবাণী সম্পূর্ণ: ধ্বংস প্রত্যেক আফফাক আসীমের জন্য, অর্থাৎ যে মিথ্যা বলতে অভ্যস্ত আর গুনাহের বোঝায় ভারী। আয়াতটি এসেছে আকাশ ও যমীন, বৃষ্টি ও বাতাসের নিদর্শনের একটানা বর্ণনার ঠিক পরে, এই প্রশ্নের পরে যে এগুলো ছাড়া তারা আর কিসে ঈমান আনবে। পরের আয়াত লোকটির ছবি এঁকে দেয়। আল্লাহর আয়াত তার সামনে পড়া হয়, সে শোনে, তারপর অহংকার নিয়ে আগের মতোই চলতে থাকে, যেন কিছুই শোনেনি। 'প্রত্যেক' শব্দটি ছবিটাকে খোলা রাখে। যার মধ্যে এই স্বভাব আসবে, তার উপরই তা খাটবে। অন্য কারও গায়ে এ তকমা লাগানোর দায়িত্ব আমার নয়। তাই প্রশ্নটা নিজের দিকে ফেরাই। আমার কথা কি সহজেই সত্য থেকে সরে যায়? এ সপ্তাহে কোনো আয়াত শুনে কি একটুও না বদলে আগের মতো চলে গেছি?",
+    "pointsEn": [
+      "Where did I shade the truth this week because it was easier, and did I even notice?",
+      "Which verse have I heard many times without letting it change a single thing I do?",
+      "When a reminder reaches me, do I weigh it, or hold my ground because giving way feels like losing?",
+      "Have I ever made light of something sacred to win a laugh from the people around me?",
+      "When I hear this verse, is my first thought about myself, or about someone I would like it to describe?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে কোথায় সহজ হবে ভেবে সত্যকে একটু ঘুরিয়ে বলেছি? টেরও কি পেয়েছি?",
+      "কোন আয়াত আমি বহুবার শুনেছি, অথচ আমার একটা কাজও তাতে বদলায়নি?",
+      "কোনো নসিহত কানে এলে আমি কি তা ভেবে দেখি, নাকি মেনে নেওয়াকে হার মনে করে নিজের জায়গায় অনড় থাকি?",
+      "আশপাশের লোকদের হাসানোর জন্য কখনো কি পবিত্র কোনো বিষয়কে হালকা করে দেখিয়েছি?",
+      "এ আয়াত শুনে প্রথমে কার কথা মনে আসে, নিজের, নাকি এমন কারও, যার উপর আয়াতটা খাটলে আমি খুশি হতাম?"
+    ],
+    "lessonEn": "Guard your tongue against easy lies, and when Allah's verses reach you, let them change something instead of carrying on as if you had not heard.",
+    "lessonBn": "সহজ মিথ্যা থেকে জবানকে বাঁচিয়ে রাখুন। আল্লাহর আয়াত কানে এলে না শোনার ভান করে আগের মতো না চলে, তা দিয়ে নিজের কিছু একটা বদলান।"
   }
 };
 

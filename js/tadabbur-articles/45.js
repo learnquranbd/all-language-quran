@@ -483,6 +483,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "45:7": {
+    "sections": [
+      {
+        "h": {
+          "en": "Signs First, Then a Woe",
+          "bn": "আগে নিদর্শন, তারপর হুঁশিয়ারি"
+        },
+        "p": [
+          {
+            "en": "Surah al-Jathiyah opens with signs. Verse 45:3 points to the heavens and the earth as signs for the believers, 45:4 to our own creation and the creatures spread across the land, 45:5 to night and day, the rain that revives dead ground and the turning of the winds. Verse 45:6 gathers them: these are the verses of Allah, recited to you in truth, so in what statement after Allah and His verses will they believe? Then, in four words after the twenty of 45:5, the passage turns: wayl li-kulli affakin athim.",
+            "bn": "সূরা জাসিয়া শুরু হয় নিদর্শন দিয়ে। ৪৫:৩ আয়াত আকাশ ও যমীনকে মু'মিনদের জন্য নিদর্শন বলে। ৪৫:৪ দেখায় আমাদের নিজেদের সৃষ্টি আর চারদিকে ছড়িয়ে থাকা প্রাণীকুল। ৪৫:৫ দেখায় রাত-দিনের আবর্তন, মরা মাটিকে জীবিত করা বৃষ্টি আর বাতাসের দিক বদল। ৪৫:৬ সব একসঙ্গে বেঁধে দেয়: এগুলো আল্লাহর আয়াত, সত্যসহ তোমাকে পড়ে শোনানো হচ্ছে, তাহলে আল্লাহ ও তাঁর আয়াতের পর তারা আর কোন কথায় ঈমান আনবে? ৪৫:৫ আয়াতের বিশটি শব্দের পর এবার মাত্র চারটি শব্দে আলোচনার মোড় ঘুরে যায়: ওয়াইলুল লিকুল্লি আফফাকিন আসীম।"
+          },
+          {
+            "en": "As-Sa'di reads the turn as a division. Having set out these signs, he says, Allah divides people by whether they benefit from them. The first group draws evidence from them, reflects and is raised, believing fully until it reaches certainty. The other hears Allah's verses with a hearing that establishes the proof against it, then turns away in pride as though it had not heard, because the verses did not purify its heart. When such a man learns something of the verses he takes it in jest, and so, as-Sa'di says, Allah threatened him with wayl.",
+            "bn": "সা'দী এই মোড়কে দেখেন মানুষের দুই ভাগ হিসেবে। তাঁর ভাষায়, নিদর্শনগুলো তুলে ধরার পর আল্লাহ মানুষকে ভাগ করেছেন, কে এগুলো থেকে উপকার নেয় আর কে নেয় না, সেই হিসেবে। এক দল এগুলো থেকে দলিল নেয়, চিন্তা করে, উপরে ওঠে, ঈমান পূর্ণ হতে হতে ইয়াকীনে পৌঁছায়। অন্য দল আল্লাহর আয়াত এমনভাবে শোনে যে তাদের বিরুদ্ধে হুজ্জত কায়েম হয়ে যায়। তবু তারা অহংকারে মুখ ফিরিয়ে নেয়, যেন শোনেইনি, কারণ আয়াত তাদের অন্তর পবিত্র করেনি। এমন লোক আয়াতের কিছু জানলে তা নিয়ে ঠাট্টা করে। সা'দী বলেন, এ কারণেই আল্লাহ তাকে ওয়াইলের হুমকি দিয়েছেন।"
+          },
+          {
+            "en": "Al-Qurtubi puts it in a single line: the verse threatens whoever abandons drawing evidence from His signs. That reading ties the warning to what came before it. The fault named here is not ignorance; the signs have been recited, and 45:6 has already asked its question. The fault is hearing all of it and leaving it unused. The shortest verse in its passage lands like a verdict at the end of a long argument.",
+            "bn": "কুরতুবী কথাটা বলেন এক বাক্যে: যে আল্লাহর নিদর্শন থেকে দলিল নেওয়া ছেড়ে দেয়, আয়াতটি তাকেই হুমকি দিচ্ছে। এ ব্যাখ্যা সতর্কবাণীকে আগের আয়াতগুলোর সঙ্গে জুড়ে দেয়। এখানে যে দোষের কথা, তা না জানার দোষ নয়। নিদর্শন পড়ে শোনানো হয়েছে, ৪৫:৬ তার প্রশ্নও করে ফেলেছে। দোষ হলো সব শুনেও কোনো কাজে না লাগানো। তাই এ অংশের সবচেয়ে ছোট আয়াতটি দীর্ঘ যুক্তির শেষে রায়ের মতো এসে পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Place or an Outcome",
+          "bn": "ওয়াইল: কোনো জায়গা, না পরিণতি"
+        },
+        "p": [
+          {
+            "en": "Wayl opens the verse, and the commentators fetched here explain it in two ways. At-Tabari gives it a place: the valley that flows with the pus of the people of Jahannam. Al-Qurtubi likewise calls it a valley in Jahannam. The Muyassar gives an outcome rather than a location: severe destruction and ruin for every liar of many sins. Both carry the same threat. One names where it ends, the other names what it comes to.",
+            "bn": "আয়াতের প্রথম শব্দ ওয়াইল। এখানে যেসব তাফসীর দেখা হয়েছে, তারা শব্দটির দুই রকম ব্যাখ্যা দেয়। তাবারী একে একটি জায়গা বলেন: সেই উপত্যকা, যেখানে জাহান্নামবাসীর পুঁজ বয়ে চলে। কুরতুবীও বলেন, এটি জাহান্নামের একটি উপত্যকা। মুয়াসসার জায়গার কথা না বলে পরিণতির কথা বলে: অনেক গুনাহে ডুবে থাকা প্রত্যেক মিথ্যুকের জন্য কঠিন ধ্বংস ও বরবাদি। দুই ব্যাখ্যাতেই হুমকি একই। একটি বলে শেষ ঠিকানা কোথায়, অন্যটি বলে শেষটা কী।"
+          },
+          {
+            "en": "The same word opens other warnings: wayl li-kulli humazatin lumazah at 104:1, against the slanderer, and wayl yawma'idhin lil-mukadhdhibin at 77:15 and again at 83:10. In each, the word is followed by a description, not a name, and here the description is two words long. No tafsir fetched for this verse attaches a hadith to the word wayl, so this article leaves its explanation where the commentators leave it.",
+            "bn": "একই শব্দ দিয়ে কুরআনে আরও সতর্কবাণী শুরু হয়েছে। ১০৪:১ আয়াতে আছে ওয়াইলুল লিকুল্লি হুমাযাতিল লুমাযাহ, নিন্দুকের বিরুদ্ধে। ৭৭:১৫ আয়াতে, আবার ৮৩:১০ আয়াতে আছে ওয়াইলুই ইয়াওমাইযিল লিল মুকাযযিবীন। প্রতিটি জায়গায় শব্দটির পরে আসে একটি বিবরণ, কোনো নাম নয়। এখানে সেই বিবরণ মাত্র দুই শব্দের। এ আয়াতের জন্য দেখা কোনো তাফসীর ওয়াইল শব্দের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। তাই এ লেখাও শব্দটির ব্যাখ্যা সেখানেই রাখছে, যেখানে তাফসীরকারেরা রেখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lying Tongue, Sinning Hands",
+          "bn": "মিথ্যুক জবান, গুনাহগার হাত"
+        },
+        "p": [
+          {
+            "en": "Affak comes from ifk, which al-Qurtubi glosses simply: al-affak is the liar, and al-ifk is lying. Athim, he says, is the person who commits sin. The glosses keep the strength of the form. At-Tabari, Ibn Kathir and al-Baghawi all render affak as kadhdhab, a man who lies again and again, not someone who lied once, and the Muyassar speaks of a liar of many sins. The verse is not about a slip of the tongue. It describes a man for whom lying and sin have become a settled way.",
+            "bn": "আফফাক শব্দ এসেছে ইফক থেকে। কুরতুবীর ব্যাখ্যা সরল: আফফাক মানে মিথ্যুক, ইফক মানে মিথ্যা। আর আসীম হলো যে গুনাহ করে। তাফসীরগুলোর ব্যাখ্যায় শব্দরূপের জোরটাও থেকে যায়। তাবারী, ইবন কাসীর ও বাগাভী তিনজনই আফফাকের অর্থ করেন কাযযাব, অর্থাৎ যে বারবার মিথ্যা বলে, একবার বলেছে এমন কেউ নয়। মুয়াসসার বলে, অনেক গুনাহে ডুবে থাকা মিথ্যুক। তাই আয়াতটি মুখ ফসকে বেরিয়ে যাওয়া কোনো কথার ব্যাপারে নয়। এখানে এমন মানুষের ছবি, মিথ্যা আর গুনাহ যার স্থায়ী অভ্যাস হয়ে গেছে।"
+          },
+          {
+            "en": "Ibn Kathir and as-Sa'di divide the two words between speech and action. As-Sa'di: a liar in what he says, sinful in what he does. Ibn Kathir: affak in his speech, a great liar, and athim in his deeds and his words, disbelieving in Allah's verses. Between the two words Ibn Kathir also sets hallaf mahin, one who swears often and is contemptible, which is the Qur'an's own wording at 68:10. In their reading the verse names a whole person, tongue and hands together.",
+            "bn": "ইবন কাসীর ও সা'দী শব্দ দুটিকে কথা আর কাজের মধ্যে ভাগ করে দেন। সা'দীর ভাষায়: কথায় মিথ্যুক, কাজে গুনাহগার। ইবন কাসীর বলেন, কথায় সে আফফাক, অর্থাৎ ঘোর মিথ্যুক, আর কাজে ও কথায় সে আসীম, আল্লাহর আয়াত অস্বীকারকারী। দুই শব্দের মাঝখানে ইবন কাসীর আরও বসান হাল্লাফ মাহীন, যে কথায় কথায় কসম খায় আর হীন। এটি ৬৮:১০ আয়াতে কুরআনেরই ভাষা। তাঁদের পাঠে আয়াতটি একজন পুরো মানুষের পরিচয় দেয়, তার জবান আর হাত দুটোই।"
+          },
+          {
+            "en": "At-Tabari aims the lie higher. His athim is dhu ithm bi-rabbihi, a man whose sin is against his Lord, and his affak is muftarin 'alayhi, someone who fabricates against Him. On this reading the lie in view is a lie about Allah, not lying in general. That is a different emphasis from Ibn Kathir's and as-Sa'di's, and both are kept here. The same pair of words returns at 26:222, where the devils descend upon every affak athim; the pairing is the Qur'an's own.",
+            "bn": "তাবারী মিথ্যাটাকে আরও উঁচুতে নিয়ে যান। তাঁর কাছে আসীম মানে যুল ইসমি বিরাব্বিহী, যে তার রবের বিরুদ্ধে গুনাহ করে। আর আফফাক মানে মুফতারিন আলাইহি, যে আল্লাহর নামে মিথ্যা বানায়। এ পাঠে আয়াতের মিথ্যা সাধারণ মিথ্যা নয়, আল্লাহর ব্যাপারে মিথ্যা। ইবন কাসীর ও সা'দীর ঝোঁক থেকে এটি আলাদা, আর এখানে দুটোই রাখা হলো। এই দুই শব্দের জোড়া আবার এসেছে ২৬:২২২ আয়াতে, যেখানে শয়তানেরা নামে প্রত্যেক আফফাক আসীমের উপর। জোড়াটি কুরআনের নিজেরই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names Beneath the Word Every",
+          "bn": "'প্রত্যেক' শব্দের আড়ালে কয়েকটি নাম"
+        },
+        "p": [
+          {
+            "en": "Who was meant? Al-Qurtubi gives three answers. According to what is narrated, he says, it was an-Nadr ibn al-Harith; from Ibn 'Abbas, that it was al-Harith ibn Kalada; and ath-Tha'labi relates that it was Abu Jahl and his companions. Al-Baghawi names an-Nadr ibn al-Harith alone. These are reports relayed by the commentators, with no chain given in the texts fetched, and they do not agree. This article names them only as the commentators do and builds nothing on any one of them.",
+            "bn": "আয়াতে কার কথা বলা হয়েছে? কুরতুবী তিনটি উত্তর দেন। তিনি বলেন, বর্ণনা অনুযায়ী লোকটি নাদর ইবনুল হারিস। ইবন আব্বাস (রাঃ) থেকে বর্ণিত, সে হারিস ইবন কালাদাহ। আর সা'লাবী বর্ণনা করেন, আবু জাহল ও তার সঙ্গীরা। বাগাভী কেবল নাদর ইবনুল হারিসের নাম নেন। এগুলো তাফসীরকারদের উদ্ধৃত বর্ণনা, যে লেখা দেখা হয়েছে তাতে কোনো সনদ নেই, আর বর্ণনাগুলো একে অন্যের সঙ্গে মেলেও না। এ লেখা নামগুলো শুধু সেভাবেই উল্লেখ করছে, যেভাবে তাফসীরকারেরা করেছেন। কোনো একটির উপর কিছু দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing al-Qurtubi for these views, draws the line that matters: there is no need to tie the verse to a particular person in order to know its meaning. The word kull, every, reaches anyone who carries the traits of the men who may stand behind it. Al-Qurtubi's own gloss already points that way, since he frames the verse as a threat to whoever abandons the signs before he gives a single name.",
+            "bn": "মাআরিফুল কুরআন এই মতগুলোর জন্য কুরতুবীর উদ্ধৃতি দিয়ে আসল কথাটা বলে দেয়: আয়াতের অর্থ বোঝার জন্য তাকে নির্দিষ্ট কোনো ব্যক্তির সঙ্গে বেঁধে ফেলার দরকার নেই। কুল্লু অর্থাৎ 'প্রত্যেক' শব্দটি এমন সবার কাছে পৌঁছে যায়, যার মধ্যে সেই লোকদের স্বভাব আছে, যাদের ঘিরে আয়াতটি নাযিল হয়ে থাকতে পারে। কুরতুবীর নিজের ব্যাখ্যাও সেদিকেই ইঙ্গিত করে। কোনো নাম বলার আগেই তিনি আয়াতটিকে বলেছেন নিদর্শন ছেড়ে দেওয়া যে কারও প্রতি হুমকি।"
+          },
+          {
+            "en": "At-Tabari notices the grammar holding the verse open. Verses 45:8 and 45:9 speak of one man in the singular: he hears, he persists, he takes them in jest. Then 45:9 closes with ula'ika, those, in the plural. At-Tabari explains the shift as the speech returning to the meaning of kull in 45:7. Every sinful liar is many people, so the sentence ends by counting them as many. The portrait is singular; the people it fits are not.",
+            "bn": "তাবারী লক্ষ করেন, ব্যাকরণই আয়াতটিকে খোলা রাখছে। ৪৫:৮ ও ৪৫:৯ আয়াতে কথা হচ্ছে একবচনে, একজন মানুষকে নিয়ে: সে শোনে, সে জিদ ধরে থাকে, সে ঠাট্টা করে। তারপর ৪৫:৯ শেষ হয় বহুবচনের উলাইকা দিয়ে, অর্থাৎ 'ওরা'। তাবারীর ব্যাখ্যায়, কথাটা এখানে ফিরে গেছে ৪৫:৭ আয়াতের কুল্লু শব্দের অর্থে। প্রত্যেক মিথ্যুক পাপী মানে অনেক মানুষ, তাই বাক্যের শেষে তাদের গোনা হয়েছে অনেক হিসেবে। ছবিটা একজনের, কিন্তু যাদের উপর তা খাটে, তারা একজন নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard, Then Shrugged Off",
+          "bn": "শুনেও যেন শোনেনি"
+        },
+        "p": [
+          {
+            "en": "The next verse defines the man by what he does with hearing. Yasma'u ayati-llahi tutla 'alayh: he hears Allah's verses recited to him. Thumma yusirru mustakbiran: then he persists, proud. At-Tabari explains the persisting as staying in his disbelief and sin, not repenting of it and not turning back, and the pride as pride against his Lord, refusing to yield to His command and prohibition. Ibn Kathir has him persist in disbelief and denial out of arrogance and obstinacy.",
+            "bn": "পরের আয়াত লোকটিকে চেনায় শোনার পর সে কী করে, তা দিয়ে। ইয়াসমাউ আয়াতিল্লাহি তুতলা আলাইহি: আল্লাহর আয়াত তার সামনে পড়া হয়, সে শোনে। সুম্মা ইউসিররু মুসতাকবিরা: তারপর অহংকার নিয়ে জিদ ধরে থাকে। তাবারী এই জিদের ব্যাখ্যা দেন এভাবে: কুফর আর গুনাহের উপরই সে টিকে থাকে, তওবা করে না, ফিরেও আসে না। আর অহংকারটা তার রবের বিরুদ্ধে, তাঁর আদেশ-নিষেধের কাছে মাথা নোয়াতে সে রাজি নয়। ইবন কাসীরের ভাষায়, ঔদ্ধত্য আর একগুঁয়েমির কারণে সে কুফর ও অস্বীকারে অটল থাকে।"
+          },
+          {
+            "en": "Al-Qurtubi explains the verb as carrying on in disbelief, too proud in himself to comply, and traces it to sarr as-surrah, tying a purse tight; he notes that Ibn 'Abbas and others gave this meaning. The man closes himself around what he already holds. Then ka-an lam yasma'ha, as if he had not heard them. As-Sa'di says the hearing was enough to establish the proof against him, yet it was as though he never heard, because the verses had not purified his heart.",
+            "bn": "কুরতুবী ক্রিয়াটির অর্থ করেন কুফরে লেগে থাকা, নিজেকে এত বড় মনে করা যে মেনে নিতে মন চায় না। শব্দটির মূল তিনি খুঁজে পান সাররুস সুররাহ কথায়, মানে থলের মুখ শক্ত করে বাঁধা। তিনি জানান, ইবন আব্বাস (রাঃ) ও অন্যরা এই অর্থ বলেছেন। লোকটি যা আগে থেকে ধরে আছে, তার চারপাশে নিজেকে বেঁধে ফেলে। তারপর কাআন লাম ইয়াসমা'হা, যেন সে তা শোনেইনি। সা'দী বলেন, যতটুকু শুনেছে, তাতেই তার বিরুদ্ধে হুজ্জত কায়েম হয়ে গেছে। তবু যেন সে শোনেনি, কারণ আয়াত তার অন্তর পবিত্র করেনি।"
+          },
+          {
+            "en": "Al-Qurtubi sends the reader back to the opening of Surah Luqman for this sentence's meaning. At 31:7 almost the same words appear: when Our verses are recited to him he turns away proud, as if he had not heard them, as if there were deafness in his ears, and the same tidings of a painful punishment follow. That parallel has its own place. Here at-Tabari notes who receives the tidings: give them, O Muhammad, to this affak athim whose description this is.",
+            "bn": "এ বাক্যের অর্থের জন্য কুরতুবী পাঠককে সূরা লুকমানের শুরুতে ফিরে যেতে বলেন। ৩১:৭ আয়াতে প্রায় একই কথা আছে: আমার আয়াত তার সামনে পড়া হলে সে অহংকারে মুখ ফিরিয়ে নেয়, যেন শোনেইনি, যেন তার দুই কানে ভার। সেখানেও একই যন্ত্রণাদায়ক শাস্তির সংবাদ আসে। সেই মিলের আলোচনা তার নিজের জায়গায়। এখানে তাবারী দেখান, সংবাদটা কার জন্য: হে মুহাম্মাদ, এই আফফাক আসীমকে সংবাদ দিন, যার পরিচয় এই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Learning Only to Mock",
+          "bn": "জেনে নিয়ে ঠাট্টা"
+        },
+        "p": [
+          {
+            "en": "Then 45:9: when he learns something of Our verses, he takes them in jest, and for such there is a humiliating punishment. The verb is 'alima, he knew. The mocker is not ignorant of what he ridicules; he learned it first. Ibn Kathir explains: if he learns anything of the Qur'an, he disbelieves in it and makes it the object of jest and ridicule, and the humiliating punishment is the recompense for that. As-Sa'di, as noted above, makes this mockery the reason for the woe itself.",
+            "bn": "তারপর ৪৫:৯: আমার আয়াতের কিছু জানতে পারলে সে তা নিয়ে ঠাট্টা করে, এদের জন্য আছে অপমানজনক শাস্তি। ক্রিয়াটি আলিমা, সে জানল। যে ঠাট্টা করছে, সে বিষয়টা না জেনে করছে না, আগে জেনেছে, তারপর করেছে। ইবন কাসীরের ব্যাখ্যা: কুরআনের কিছু জানলে সে তা অস্বীকার করে আর তাকে হাসি-তামাশার বিষয় বানায়, অপমানজনক শাস্তি তারই প্রতিফল। আগেই বলা হয়েছে, সা'দী এই ঠাট্টাকেই ওয়াইলের হুমকির কারণ বলে ধরেছেন।"
+          },
+          {
+            "en": "At-Tabari and al-Qurtubi both illustrate the mockery from the verses on the tree of zaqqum, which 44:43 and 44:44 call the food of al-athim, the same word as here. At-Tabari ascribes the jibe to Abu Jahl; al-Qurtubi reports it without a name, and adds a boast made about the nineteen keepers of the Fire in 74:30. Neither gives a chain in the text fetched, so the incidents are mentioned here and not retold. The pattern is what matters: a warning learned, then turned into a joke.",
+            "bn": "তাবারী ও কুরতুবী দুজনেই এই ঠাট্টার উদাহরণ দেন যাক্কুম গাছের আয়াত থেকে। ৪৪:৪৩ ও ৪৪:৪৪ আয়াত এই গাছকে বলেছে আসীমের খাদ্য, এখানে যে শব্দ, সেই একই শব্দ। তাবারী বিদ্রূপটি আবু জাহলের বলে উল্লেখ করেন। কুরতুবী কারও নাম না নিয়ে একই কথা আনেন, আর ৭৪:৩০ আয়াতের জাহান্নামের উনিশ প্রহরী নিয়ে করা এক দম্ভোক্তির কথাও যোগ করেন। যে লেখা দেখা হয়েছে, তাতে কেউই সনদ দেননি। তাই ঘটনাগুলোর শুধু উল্লেখ থাকল, বিস্তারিত বলা হলো না। মূল কথা ধরনটা: সতর্কবাণী জানা হলো, তারপর তা হয়ে গেল তামাশা।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a hadith to 45:7 itself. Ibn Kathir, on 45:9, cites one from Sahih Muslim about guarding the Qur'an from being dishonoured. In Muslim's wording: 'Abdullah ibn 'Umar narrated that the Messenger of Allah ﷺ used to forbid that one should travel to the land of the enemy taking the Qur'an with him, lest it should fall into the hands of the enemy (Muslim 1869b). It sits under the ridicule of 45:9 and is not attached to this verse.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীর ৪৫:৭ আয়াতের সঙ্গে সরাসরি কোনো হাদীস জুড়ে দেয়নি। ইবন কাসীর ৪৫:৯ আয়াতের আলোচনায় কুরআনকে অসম্মান থেকে রক্ষার বিষয়ে সহীহ মুসলিম থেকে একটি হাদীস আনেন। মুসলিমের ভাষায়: আবদুল্লাহ ইবন উমার (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ কুরআন সঙ্গে নিয়ে শত্রুর দেশে সফর করতে নিষেধ করতেন, এই আশঙ্কায় যে তা শত্রুর হাতে পড়ে যাবে (মুসলিম ১৮৬৯খ)। হাদীসটি ৪৫:৯ আয়াতের ঠাট্টার প্রসঙ্গে এসেছে, এ আয়াতের সঙ্গে যুক্ত নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Tag to Pin on Others",
+          "bn": "এ বিবরণ কারও নামে সাঁটা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: a man who lies as a habit, sins, hears Allah's verses and carries on in pride, and mocks what he has learned. It licenses nothing against any living person or community. This article calls no one alive a sinful liar, and the verse gives no reader the right to do so. Whatever the reports say about an-Nadr ibn al-Harith, al-Harith ibn Kalada or Abu Jahl reaches no relative, descendant, tribe or people.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: এমন এক মানুষ, যে অভ্যাসবশে মিথ্যা বলে, গুনাহ করে, আল্লাহর আয়াত শুনেও অহংকারে আগের মতো চলে, আর যা শিখেছে তা নিয়ে ঠাট্টা করে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। এ লেখা জীবিত কাউকে মিথ্যুক পাপী বলছে না, আর কোনো পাঠককেও আয়াতটি সে অধিকার দেয় না। নাদর ইবনুল হারিস, হারিস ইবন কালাদাহ বা আবু জাহল সম্পর্কে বর্ণনায় যা-ই থাকুক, তা তাদের কোনো আত্মীয়, বংশধর, গোত্র বা জাতির উপর বর্তায় না।"
+          },
+          {
+            "en": "The word kull works in both directions. It keeps the warning open to anyone who takes on the traits, and that includes the reader. The judgement in 45:8 to 45:10 belongs to Allah, and the tidings were the Messenger's ﷺ to give, as at-Tabari reads the command. A believer who turns the verse into a word to throw in an argument has used a description of pride to feed his own.",
+            "bn": "কুল্লু শব্দটি দুই দিকেই কাজ করে। যার মধ্যে এই স্বভাব আসবে, সতর্কবাণী তার জন্যই খোলা, আর পাঠক নিজেও তার বাইরে নন। ৪৫:৮ থেকে ৪৫:১০ আয়াতের ফয়সালা আল্লাহর। আর তাবারীর পাঠ অনুযায়ী, সংবাদ দেওয়ার দায়িত্ব ছিল রাসূল ﷺ-এর। কোনো মু'মিন যদি তর্কের সময় আয়াতটিকে গালির মতো ছুড়ে মারেন, তবে অহংকারের এক বর্ণনা দিয়ে তিনি নিজের অহংকারকেই খোরাক জোগালেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Checking One's Own Ears",
+          "bn": "নিজের কান আর জবানের হিসাব"
+        },
+        "p": [
+          {
+            "en": "Read as a mirror, the verse names two habits to watch. The first is the tongue. Affak is not one lie but lying made easy, and Ibn Kathir's added hallaf, one who swears often, sits naturally beside it, since a word that is not trusted reaches for an oath. The remedy is plain and unglamorous: say less than you are tempted to, correct yourself when you have shaded the truth, and keep oaths for the rare moments that truly need them.",
+            "bn": "আয়না হিসেবে পড়লে আয়াতটি দুটি অভ্যাসের দিকে নজর রাখতে বলে। প্রথমটি জবান। আফফাক মানে একটা মিথ্যা নয়, মিথ্যা বলা সহজ হয়ে যাওয়া। ইবন কাসীর এর পাশে যে হাল্লাফ শব্দটি যোগ করেছেন, অর্থাৎ কথায় কথায় কসম খাওয়া, তা এর সঙ্গে স্বাভাবিকভাবেই মেলে। যার কথায় ভরসা থাকে না, তাকেই কসমের আশ্রয় নিতে হয়। প্রতিকার সাদামাটা: যতটা বলতে ইচ্ছা করে, তার চেয়ে কম বলুন। সত্যকে একটু ঘুরিয়ে বলে ফেললে নিজেই শুধরে নিন। আর কসম রাখুন সেই বিরল মুহূর্তের জন্য, যখন সত্যিই দরকার।"
+          },
+          {
+            "en": "The second habit is the ear. As-Sa'di's two groups hear the same verses; what divides them is what the hearing does. One reflects and rises towards certainty, the other closes up like the purse al-Qurtubi describes. Most readers are not mockers. But many know a verse well, have heard it recited in prayer more times than they can count, and have not let it change one thing. Choose one such verse this week, and let it move one act.",
+            "bn": "দ্বিতীয়টি কান। সা'দীর বর্ণিত দুই দলই একই আয়াত শোনে। তাদের আলাদা করে দেয় শোনার ফল। এক দল চিন্তা করে আর ইয়াকীনের দিকে উঠে যায়। অন্য দল কুরতুবীর বর্ণিত সেই থলের মতো মুখ বন্ধ করে ফেলে। আমাদের বেশিরভাগই ঠাট্টাকারী নই। কিন্তু অনেকেই কোনো আয়াত ভালো করে জানি, নামাযে অসংখ্যবার শুনেছি, তবু তা দিয়ে একটা কাজও বদলাইনি। এ সপ্তাহে এমন একটি আয়াত বেছে নিন, আর তা দিয়ে অন্তত একটি আমল বদলান।"
+          }
+        ]
+      }
+    ]
+  },
   "45:12": {
     "sections": [
       {
