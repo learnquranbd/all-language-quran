@@ -3955,6 +3955,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:75": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Sentence Built on If",
+          "bn": "শর্তের উপর দাঁড়ানো বাক্য"
+        },
+        "p": [
+          {
+            "en": "Idhan la-adhaqnaka di'fa al-hayati wa di'fa al-mamati thumma la tajidu laka 'alayna nasira: then We would have made you taste double of life and double of death, and you would have found no helper for yourself against Us. Twelve Arabic words, all hanging on the verses before. 17:73 says the idolaters almost tempted the Prophet ﷺ away from what was revealed to him, to invent something else about Allah. 17:74 says that had Allah not made him firm, he would almost have inclined to them a little.",
+            "bn": "ইযান লা-আযাকনাকা দি'ফাল হায়াতি ওয়া দি'ফাল মামাতি সুম্মা লা তাজিদু লাকা 'আলাইনা নাসীরা: তখন আমি তোমাকে জীবনের দ্বিগুণ আর মৃত্যুর দ্বিগুণ স্বাদ নিতে বাধ্য করতাম, আর আমার বিরুদ্ধে তুমি নিজের জন্য কোনো সাহায্যকারী পেতে না। আরবিতে বারোটি শব্দ, আর প্রতিটিই আগের আয়াতগুলোর সঙ্গে বাঁধা। ১৭:৭৩ বলে, মুশরিকরা নবী ﷺ-কে তাঁর প্রতি নাযিল হওয়া ওহী থেকে প্রায় সরিয়ে দিচ্ছিল, যাতে তিনি আল্লাহর নামে অন্য কিছু বানিয়ে বলেন। ১৭:৭৪ বলে, আল্লাহ তাঁকে অবিচল না রাখলে তিনি তাদের দিকে সামান্য প্রায় ঝুঁকে পড়তেন।"
+          },
+          {
+            "en": "The opening word idhan therefore carries a condition, and the commentators write it out. At-Tabari begins: had you inclined to these idolaters a little, Muhammad, in what they asked of you, then We would have made you taste double the punishment of life and double the punishment of death. Al-Muyassar opens with the same supposed condition, as-Sa'di with had you inclined to them in what they desire, and al-Baghawi with had you done that. Ma'arif al-Qur'an calls it supposing the impossible.",
+            "bn": "তাই শুরুর শব্দ ইযান একটা শর্ত বহন করে, আর তাফসীরকারেরা সেই শর্ত খুলে লেখেন। তাবারী শুরু করেন এভাবে: হে মুহাম্মাদ, এই মুশরিকরা তোমার কাছে যা চেয়েছিল, তাতে তুমি যদি তাদের দিকে সামান্য ঝুঁকতে, তবে আমি তোমাকে জীবনের দ্বিগুণ শাস্তি আর মৃত্যুর দ্বিগুণ শাস্তির স্বাদ দিতাম। মুয়াসসারও একই কল্পিত শর্ত দিয়ে শুরু করে। সা'দী লেখেন, তারা যা চায় তাতে যদি তুমি ঝুঁকতে। বাগাভী লেখেন, যদি তুমি তা করতে। মাআরিফুল কুরআন একে বলে অসম্ভবকে ধরে নিয়ে বলা কথা।"
+          },
+          {
+            "en": "The leaning that would have earned this punishment stands behind two barriers in 17:74: kada, almost, and lawla, had it not been. Neither the inclining nor even the near-inclining came to pass. As-Sa'di says so outright at the close of his comment on this verse: Allah protected you from the causes of evil and from people, made you firm and guided you to the straight path, and you did not incline to them in any way at all.",
+            "bn": "যে ঝোঁকের জন্য এই শাস্তি, ১৭:৭৪ আয়াতে তার সামনে দুটি দেয়াল: কাদা, অর্থাৎ প্রায়, আর লাওলা, অর্থাৎ যদি না হতো। ঝুঁকে পড়া তো দূরের কথা, প্রায় ঝুঁকে পড়াও ঘটেনি। সা'দী এ আয়াতের ব্যাখ্যার শেষে কথাটা সরাসরি বলেন: আল্লাহ তোমাকে অনিষ্টের কারণগুলো থেকে আর মানুষের হাত থেকে রক্ষা করেছেন, অবিচল রেখেছেন, সরল পথ দেখিয়েছেন, আর তুমি কোনোভাবেই তাদের দিকে ঝোঁকোনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Reports Say Was Asked",
+          "bn": "বর্ণনায় কী চাওয়ার কথা আছে"
+        },
+        "p": [
+          {
+            "en": "What had the idolaters asked for? The verse does not say, and at-Tabari, commenting on 17:73, opens by noting that the people of interpretation differed. Some connected it with the idols. He relays from Sa'id ibn Jubayr that Quraysh barred the Prophet ﷺ from touching the Black Stone unless he also touched their gods, and from Mujahid that they said: come to our gods and touch them. Al-Qurtubi and al-Baghawi give the Black Stone report too.",
+            "bn": "মুশরিকরা আসলে কী চেয়েছিল? আয়াত তা বলে না। তাবারী ১৭:৭৩ আয়াতের ব্যাখ্যা শুরুই করেন এ কথা বলে যে, তাফসীরবিদদের মধ্যে এ নিয়ে মতভেদ আছে। একদল একে প্রতিমার সঙ্গে যুক্ত করেছেন। সাঈদ ইবন জুবাইর থেকে তিনি বর্ণনা করেন, কুরাইশ নবী ﷺ-কে হাজরে আসওয়াদ স্পর্শ করতে বাধা দিয়েছিল, যতক্ষণ না তিনি তাদের দেবতাদেরও স্পর্শ করেন। মুজাহিদ থেকে বর্ণনা করেন, তারা বলেছিল: আমাদের দেবতাদের কাছে এসো, ওদের ছুঁয়ে দাও। কুরতুবী ও বাগাভীও হাজরে আসওয়াদের বর্ণনাটি এনেছেন।"
+          },
+          {
+            "en": "Qatadah's account, which at-Tabari gives through two chains, is of another kind. The first version opens with dhukira lana, it was mentioned to us: the leaders of Quraysh sat alone with the Prophet ﷺ through a night until morning, praising and honouring him and calling him our master and son of our master. Others, through a report from Ibn Abbas, tied the passage to Thaqif, who asked for a year's respite to collect the offerings brought to their gods, after which they would accept Islam and break the idols.",
+            "bn": "কাতাদার বর্ণনা, যা তাবারী দুটি সনদে এনেছেন, ভিন্ন ধরনের। প্রথম সনদের বর্ণনাটি শুরু হয় যুকিরা লানা দিয়ে, অর্থাৎ আমাদের কাছে বলা হয়েছে। কুরাইশের নেতারা এক রাতে ভোর পর্যন্ত নবী ﷺ-এর সঙ্গে আলাদা বসে ছিল। তারা তাঁর প্রশংসা করছিল, সম্মান দেখাচ্ছিল, তাঁকে ডাকছিল আমাদের নেতা ও আমাদের নেতার পুত্র বলে। আরেক দল ইবন আব্বাস (রাঃ)-এর এক বর্ণনার সূত্রে আয়াতটিকে সাকীফ গোত্রের সঙ্গে যুক্ত করেছেন। তারা এক বছরের অবকাশ চেয়েছিল, যাতে দেবতাদের নামে আসা নজরানা তুলে নিতে পারে। তারপর তারা ইসলাম গ্রহণ করবে আর প্রতিমা ভেঙে ফেলবে।"
+          },
+          {
+            "en": "Al-Qurtubi adds, in Ibn Abbas's report through 'Ata', that Thaqif also asked for their valley to be made a sanctuary as Makkah is, and he reads lit-taftariya 'alayna ghayrahu, to invent something else about Us, as exactly that: a ruling Allah had not given. He records too, under it is said, that the chiefs of Quraysh asked for the poor and the freedmen to be sent away so that they could sit with him. Ma'arif al-Qur'an prefers this last account, relaying it from Ibn Abi Hatim without a grading.",
+            "bn": "কুরতুবী আতার সূত্রে ইবন আব্বাস (রাঃ)-এর বর্ণনায় আরও যোগ করেন, সাকীফ চেয়েছিল তাদের উপত্যকাকেও মক্কার মতো হারাম ঘোষণা করা হোক। লিতাফতারিয়া 'আলাইনা গাইরাহু, অর্থাৎ আমার নামে অন্য কিছু বানিয়ে বলা, কথাটির অর্থ তাঁর কাছে ঠিক এটাই: আল্লাহ যে বিধান দেননি, তা তাঁর নামে চালিয়ে দেওয়া। 'বলা হয়' শব্দে তিনি আরও আনেন, কুরাইশ নেতারা চেয়েছিল গরিব আর মুক্ত দাসদের সরিয়ে দেওয়া হোক, তবেই তারা তাঁর কাছে বসবে। মাআরিফুল কুরআন এই শেষ বর্ণনাটিকেই বেশি মানানসই মনে করে, আর তা আনে ইবন আবী হাতিম থেকে, কোনো মান উল্লেখ না করে।"
+          },
+          {
+            "en": "At-Tabari declines to choose. What Allah tells us, he writes, is that the idolaters almost tempted His Prophet away from what was revealed to him, so that he would act on something else, and that is inventing against Allah. It may have been the touching of their gods, the matter of Thaqif, or something else. Neither the Book nor any report that settles the question says which, so nothing is sounder than believing the verse's outward meaning until a report comes that must be accepted. He grades none of them.",
+            "bn": "তাবারী কোনোটিকে বেছে নেন না। তিনি লেখেন, আল্লাহ আমাদের এটুকুই জানিয়েছেন যে, মুশরিকরা তাঁর নবীকে ওহী থেকে প্রায় সরিয়ে দিচ্ছিল, যাতে তিনি অন্য কিছুর উপর আমল করেন, আর সেটাই আল্লাহর নামে মিথ্যা রচনা। হতে পারে তা ছিল দেবতা স্পর্শ করার ব্যাপার, সাকীফের ব্যাপার, কিংবা অন্য কিছু। কিতাবে বা চূড়ান্ত কোনো বর্ণনায় এর ফয়সালা নেই। তাই মেনে নিতেই হয় এমন কোনো বর্ণনা না আসা পর্যন্ত আয়াতের বাহ্যিক অর্থে ঈমান রাখার চেয়ে সঠিক আর কিছু নেই। কোনো বর্ণনারই তিনি মান উল্লেখ করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Made Firm Against the Pull",
+          "bn": "টানের মুখে অবিচল রাখা"
+        },
+        "p": [
+          {
+            "en": "On 17:74, at-Tabari glosses thabbatnaka as: made you firm through Our protection of you from the trial these idolaters invited you to; and tarkanu as: to lean towards them and settle with them. Al-Qurtubi and al-Muyassar both say: made firm upon the truth and protected from agreeing with them. Al-Baghawi has: upon the truth, by Our protection. In all these glosses the firmness is Allah's act, and the subject of the verb is We.",
+            "bn": "১৭:৭৪ আয়াতে তাবারী সাব্বাতনাকা-র অর্থ করেন: এই মুশরিকরা তোমাকে যে ফিতনার দিকে ডাকছিল, তা থেকে আমার হেফাজত দিয়ে তোমাকে অবিচল রেখেছি। আর তারকানু মানে তাদের দিকে ঝুঁকে পড়া, তাদের সঙ্গে স্থির হয়ে যাওয়া। কুরতুবী ও মুয়াসসার দুজনেই বলেন: সত্যের উপর অবিচল রাখা আর তাদের সঙ্গে একমত হওয়া থেকে রক্ষা করা। বাগাভীর ভাষায়: আমার হেফাজতে, সত্যের উপর। প্রতিটি ব্যাখ্যায় অবিচল রাখার কাজটি আল্লাহর, আর ক্রিয়ার কর্তা ‘আমি’।"
+          },
+          {
+            "en": "Why any pull at all? Neither commentator who answers points to a wish for what was asked. Al-Muyassar names the strength of their deception, the intensity of their scheming, and the Prophet's ﷺ desire for their guidance. As-Sa'di gives the sheer persistence of their pressing and his love for their being guided. Ma'arif al-Qur'an, following Tafsir Mazhari, says the verse shows the moral disposition of the prophets: such a proposal could never have drawn him, and Allah's protection kept him even from the slight approach.",
+            "bn": "টান আসবেই বা কেন? যাঁরা উত্তর দেন, তাঁদের কেউই বলেন না যে চাওয়া জিনিসটার প্রতি তাঁর কোনো আকর্ষণ ছিল। মুয়াসসার কারণ বলে তিনটি: তাদের প্রতারণার জোর, তাদের কৌশলের তীব্রতা, আর তাদের হেদায়াতের জন্য নবী ﷺ-এর আকাঙ্ক্ষা। সা'দী বলেন, তারা বারবার চাপ দিচ্ছিল, আর তাদের হেদায়াত পাওয়া তাঁর খুব প্রিয় ছিল। মাআরিফুল কুরআন তাফসীরে মাযহারী অনুসরণ করে বলে, এ আয়াত নবীদের নৈতিক স্বভাব দেখিয়ে দেয়। এমন প্রস্তাব তাঁকে কখনো টানতে পারত না, আর আল্লাহর হেফাজত তাঁকে সামান্য কাছে যাওয়া থেকেও রক্ষা করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How the Scholars Read Almost",
+          "bn": "‘প্রায়’ শব্দটি কে কীভাবে পড়েন"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi raises the objection directly: if the Prophet ﷺ was protected from error, how could he come near what they asked, when what they asked was disbelief? He gives one answer, that it was a passing thought of the heart and not a resolve, and that Allah has pardoned what the self says to itself. Then he gives what he calls the correct answer: Allah said had We not made you firm, and Allah did make him firm, and he did not incline. He compares 4:83.",
+            "bn": "বাগাভী আপত্তিটা সরাসরি তোলেন: নবী ﷺ যদি ভুল থেকে সুরক্ষিত থাকেন, তবে তারা যা চেয়েছিল তার কাছে তিনি যান কী করে, যেখানে সেই চাওয়াটাই ছিল কুফর? তিনি একটি উত্তর দেন: এটা ছিল মনের এক ক্ষণিক ভাবনা, কোনো সংকল্প নয়, আর মনের ভেতরের কথা আল্লাহ মাফ করে দিয়েছেন। তারপর দেন সেই উত্তর, যাকে তিনি বলেন সঠিক উত্তর: আল্লাহ বলেছেন, আমি যদি তোমাকে অবিচল না রাখতাম। আর আল্লাহ তাঁকে অবিচল রেখেছেন, তিনি ঝোঁকেননি। তিনি ৪:৮৩ আয়াতের সঙ্গে তুলনা করেন।"
+          },
+          {
+            "en": "At-Tabari, on 17:74, takes the almost to refer to something of what they asked that the Prophet ﷺ had considered doing. Al-Qurtubi relays readings that go further the other way. From al-Qushayri: there was no resolve to lean at all; the meaning is that but for Allah's favour there would have been a leaning, but His favour was complete, so you did not. From al-Mahdawi: the address is outwardly to the Prophet ﷺ and inwardly a report about Thaqif, who almost spread it about that he had leaned to them.",
+            "bn": "তাবারী ১৭:৭৪ আয়াতে ‘প্রায়’ শব্দটিকে বোঝেন এভাবে: তারা যা চেয়েছিল, তার কিছু করার কথা নবী ﷺ ভেবেছিলেন। কুরতুবী উল্টো দিকে আরও এগিয়ে যাওয়া মতগুলো আনেন। কুশাইরীর মতে, ঝোঁকার কোনো সংকল্পই ছিল না। অর্থ হলো, আল্লাহর অনুগ্রহ না থাকলে ঝোঁক আসত, কিন্তু তাঁর অনুগ্রহ পূর্ণ ছিল, তাই তুমি তা করোনি। মাহদাবীর মতে, সম্বোধন বাহ্যত নবী ﷺ-কে, কিন্তু ভেতরের অর্থ সাকীফ সম্পর্কে খবর। তারা প্রায় রটিয়েই দিচ্ছিল যে তিনি তাদের কথার দিকে ঝুঁকেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi also relays from Ibn Abbas that the Messenger ﷺ was protected, and that the passage instructs the community, so that none of them leans towards the idolaters in anything of Allah's rulings and laws. These readings differ, and the difference is real: at-Tabari speaks of something considered, al-Baghawi's first answer of a passing thought, al-Qushayri of no resolve at all, and al-Mahdawi moves the leaning into what others would say. None of them says that he inclined. The dispute is only over what the word almost touched.",
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ) থেকে আরও আনেন: রাসূল ﷺ ছিলেন সুরক্ষিত, আর এ আয়াত উম্মতের জন্য শিক্ষা, যাতে আল্লাহর বিধান ও শরীয়তের কোনো বিষয়ে তাদের কেউ মুশরিকদের দিকে না ঝোঁকে। মতগুলো আলাদা, আর পার্থক্যটা আসল। তাবারী বলেন ভেবে দেখার কথা, বাগাভীর প্রথম উত্তর বলে ক্ষণিক ভাবনার কথা, কুশাইরী বলেন সংকল্পই ছিল না, আর মাহদাবী ঝোঁকের কথাটাকে সরিয়ে নেন অন্যদের রটনায়। তাঁদের কেউই বলেন না যে তিনি ঝুঁকেছিলেন। মতভেদ কেবল এ নিয়ে যে, ‘প্রায়’ শব্দটা ঠিক কতদূর ছুঁয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Double of Life, Double of Death",
+          "bn": "জীবনের দ্বিগুণ, মৃত্যুর দ্বিগুণ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains di'f al-hayat and di'f al-mamat as double the punishment of life and double the punishment of death, and says the people of interpretation read it so. He relays it from Ibn Abbas as the punishment of this world and of the Hereafter, from Mujahid through three chains, and in the same sense from Qatadah and ad-Dahhak. Al-Qurtubi gives it from Ibn Abbas, Mujahid and others: twice the punishment of life in this world, twice the punishment of death in the Hereafter.",
+            "bn": "তাবারী দি'ফাল হায়াত আর দি'ফাল মামাত-এর ব্যাখ্যা করেন জীবনের শাস্তির দ্বিগুণ আর মৃত্যুর শাস্তির দ্বিগুণ বলে, আর বলেন তাফসীরবিদেরা এভাবেই পড়েছেন। ইবন আব্বাস (রাঃ) থেকে তিনি আনেন: দুনিয়া ও আখিরাতের শাস্তি। মুজাহিদ থেকে আনেন তিনটি সনদে, আর একই অর্থ কাতাদা ও দাহহাক থেকেও। কুরতুবী ইবন আব্বাস (রাঃ), মুজাহিদ ও অন্যদের সূত্রে বলেন: দুনিয়ার জীবনে শাস্তির দুই গুণ, আর আখিরাতে মৃত্যুর শাস্তির দুই গুণ।"
+          },
+          {
+            "en": "Behind the phrase is an ellipsis. At-Tabari reports a Basran grammarian who reads it as shortened from di'fa 'adhabi al-hayat, double the punishment of life, adding that they are two punishments. Ma'arif al-Qur'an takes death to mean what follows it, in the grave or the Hereafter. Al-Qurtubi defines di'f as a thing's like taken twice, noting it can also mean a share, as in 7:38. Al-Baghawi relays, under it is said, that di'f is a name for the punishment itself, because the pain in it is multiplied.",
+            "bn": "শব্দগুচ্ছের ভেতরে একটা উহ্য অংশ আছে। তাবারী বসরার এক ব্যাকরণবিদের মত আনেন: আসলে কথাটা দি'ফা 'আযাবিল হায়াত, অর্থাৎ জীবনের শাস্তির দ্বিগুণ, সংক্ষেপে বলা হয়েছে। তিনি যোগ করেন, এ দুটি আলাদা শাস্তি। মাআরিফুল কুরআন মৃত্যু বলতে বোঝে তার পরের অবস্থা, কবরে বা আখিরাতে। কুরতুবী দি'ফ-এর সংজ্ঞা দেন: কোনো জিনিসের সমান আরেকটা, মানে দুই গুণ। তিনি এটাও বলেন যে শব্দটির অর্থ অংশও হতে পারে, যেমন ৭:৩৮ আয়াতে। বাগাভী ‘বলা হয়’ বলে আনেন: দি'ফ শাস্তিরই আরেক নাম, কারণ তাতে যন্ত্রণা বহুগুণ হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Height That Raises the Stakes",
+          "bn": "মর্যাদা যত উঁচু, দায় তত ভারী"
+        },
+        "p": [
+          {
+            "en": "Why double? Al-Qurtubi calls this the utmost of threat and states the principle: the higher the rank, the greater the punishment on going against the command. He cites the verse addressed to the Prophet's wives, 33:30, where whoever of them commits a clear indecency is promised a punishment doubled twofold. Ma'arif al-Qur'an makes the same comparison and says that even a slight error by those near to Allah counts as grave. The doubling measures the rank of the one addressed.",
+            "bn": "দ্বিগুণ কেন? কুরতুবী একে বলেন সতর্কবাণীর চূড়ান্ত রূপ, আর মূলনীতিটা বলে দেন: মর্যাদা যত উঁচু, হুকুম অমান্য করলে শাস্তি তত বড়। তিনি নবী ﷺ-এর স্ত্রীদের উদ্দেশে নাযিল হওয়া ৩৩:৩০ আয়াত উদ্ধৃত করেন, যেখানে তাঁদের কেউ স্পষ্ট অশ্লীল কাজ করলে তার শাস্তি দ্বিগুণ করার কথা আছে। মাআরিফুল কুরআনও একই তুলনা টানে, আর বলে, যাঁরা আল্লাহর নিকটবর্তী, তাঁদের সামান্য ত্রুটিও গুরুতর ধরা হয়। দ্বিগুণ শাস্তির মাপকাঠি তাই সম্বোধিত ব্যক্তির মর্যাদা।"
+          },
+          {
+            "en": "Al-Muyassar and as-Sa'di give the reason in almost the same words: because of the completeness of Allah's favour upon you and the perfection of your knowledge of your Lord. The gift and the reckoning rise together. Whoever has seen more of the truth would answer for more if they traded it away, and no one had seen more than the one to whom the revelation came. The verse sets that weight inside a conditional, so the warning is heard in full while the deed it warns against stays unrealised.",
+            "bn": "মুয়াসসার আর সা'দী কারণটা বলেন প্রায় একই ভাষায়: কারণ তোমার উপর আল্লাহর নিয়ামত পূর্ণ, আর তোমার রবকে তুমি পূর্ণভাবে চেনো। দান যত বাড়ে, হিসাবও তত বাড়ে। যে সত্যের যত বেশি দেখেছে, তা বেচে দিলে তাকে তত বেশি জবাব দিতে হতো। আর যাঁর উপর ওহী নাযিল হয়েছে, তাঁর চেয়ে বেশি কেউ দেখেনি। আয়াতটি সেই ভারটা রেখেছে একটি শর্তের ভেতরে। ফলে সতর্কবাণী পুরোটাই শোনা যায়, কিন্তু যে কাজের বিরুদ্ধে সতর্ক করা হচ্ছে, তা কখনো বাস্তবে আসে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Helper Against Us",
+          "bn": "আমার বিরুদ্ধে কেউ নেই"
+        },
+        "p": [
+          {
+            "en": "Thumma la tajidu laka 'alayna nasira. At-Tabari reads it: had We made you taste the punishment of life and of death for leaning towards these idolaters, had you leaned, you would find no helper to aid you against Us, or rescue you from Our punishment. Al-Baghawi has a helper to hold Our punishment back; as-Sa'di, someone to rescue you from it; al-Muyassar, nobody to help you and push it away.",
+            "bn": "সুম্মা লা তাজিদু লাকা 'আলাইনা নাসীরা। তাবারী একে পড়েন এভাবে: যদি তুমি ঝুঁকতে, আর সেই ঝোঁকের জন্য আমি তোমাকে জীবন ও মৃত্যুর শাস্তির স্বাদ দিতাম, তবে আমার বিরুদ্ধে তোমাকে সাহায্য করার, কিংবা আমার শাস্তি থেকে উদ্ধার করার মতো কাউকে পেতে না। বাগাভীর ভাষায়, আমার শাস্তি আটকানোর মতো সাহায্যকারী। সা'দীর ভাষায়, শাস্তি থেকে বাঁচানোর মতো কেউ। মুয়াসসারের ভাষায়, সাহায্য করে শাস্তি সরিয়ে দেওয়ার মতো কেউ নেই।"
+          },
+          {
+            "en": "Ibn Kathir reads the same passage from the other side. Of 17:73 to 17:75 he writes a single paragraph: Allah tells of His support for His Messenger, of making him firm, and of his protection and safety from the evil of the wicked and the plotting of the corrupt. Allah takes charge of his affair and his support and does not entrust him to anyone of His creation. He is his protector, guardian and helper, and makes his religion prevail, east and west.",
+            "bn": "ইবন কাসীর একই অংশ পড়েন অন্য দিক থেকে। ১৭:৭৩ থেকে ১৭:৭৫ নিয়ে তিনি লেখেন মাত্র একটি অনুচ্ছেদ। আল্লাহ জানাচ্ছেন, তিনি তাঁর রাসূলকে সাহায্য করেছেন, অবিচল রেখেছেন, দুষ্টদের অনিষ্ট আর পাপাচারীদের চক্রান্ত থেকে রক্ষা করেছেন। তাঁর সব বিষয় আর তাঁকে সাহায্যের ভার আল্লাহ নিজের হাতে রেখেছেন, সৃষ্টির কারও হাতে ছেড়ে দেননি। তিনিই তাঁর অভিভাবক, রক্ষক ও সাহায্যকারী। পূর্বে-পশ্চিমে তিনি তাঁর দ্বীনকে বিজয়ী করেন।"
+          },
+          {
+            "en": "The two readings meet. The verse says no one could help him against Allah, and Ibn Kathir answers that Allah Himself was his helper. None of the commentaries fetched for this verse attaches a sound hadith to it. At-Tabari, al-Qurtubi and al-Baghawi each relay from Qatadah a short supplication of the Prophet ﷺ, said to have followed 17:74. At-Tabari introduces it with fima dhukira, as is reported; the chain stops at Qatadah and none of the three grades it, so this article builds nothing on it.",
+            "bn": "দুটি পাঠ এখানে মিলে যায়। আয়াত বলে, আল্লাহর বিরুদ্ধে কেউ তাঁকে সাহায্য করতে পারত না। আর ইবন কাসীর উত্তর দেন, আল্লাহ নিজেই ছিলেন তাঁর সাহায্যকারী। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তাবারী, কুরতুবী ও বাগাভী প্রত্যেকে কাতাদা থেকে নবী ﷺ-এর একটি ছোট দোয়ার কথা আনেন, যা ১৭:৭৪ নাযিলের পরে বলা হয়েছিল বলে বর্ণিত। তাবারী একে আনেন ফীমা যুকিরা, অর্থাৎ ‘যেমন বলা হয়’ বলে। সনদ কাতাদায় এসে থেমে গেছে, তিনজনের কেউ এর মান বলেননি। তাই এ লেখা এর উপর কিছুই দাঁড় করায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pressure Dressed as Friendship",
+          "bn": "বন্ধুত্বের পোশাকে চাপ"
+        },
+        "p": [
+          {
+            "en": "The reports describe not swords but flattery through a long night, a request for time, a valley to be honoured, a seat at the table if the poor were sent away. As-Sa'di, on 17:73, says that had he done what they wanted, they would have taken him as a close and dear friend, because of the noble character Allah had given him. Their enmity, he adds, was for the truth he brought and not for his person (6:33).",
+            "bn": "বর্ণনাগুলোতে তলোয়ার নেই। আছে সারা রাতের তোষামোদ, কিছু সময়ের আবদার, একটা উপত্যকার সম্মান, আর গরিবদের সরিয়ে দিলে পাশে বসার প্রস্তাব। সা'দী ১৭:৭৩ আয়াতে বলেন, তারা যা চাইছিল তা করলে তারা তাঁকে অন্তরঙ্গ প্রিয় বন্ধু বানিয়ে নিত, কারণ আল্লাহ তাঁকে মহৎ চরিত্র দিয়েছিলেন। তিনি আরও বলেন, তাদের শত্রুতা ছিল তাঁর আনা সত্যের সঙ্গে, তাঁর ব্যক্তির সঙ্গে নয়। (৬:৩৩)।"
+          },
+          {
+            "en": "This verse describes a threat never carried out, against a choice never made, and the reports name Quraysh and Thaqif only as they stood then; it licenses nothing against any living person or community. Its lesson for the reader is what al-Qurtubi relays from Ibn Abbas: that none of the community should lean towards the idolaters in anything of Allah's rulings. When a bargain with the truth arrives looking like friendship, what you know is the measure of what you owe. 17:76 turns next from offers to the plot to drive him out.",
+            "bn": "এ আয়াত এমন এক শাস্তির কথা বলে, যা কখনো আসেনি, এমন এক সিদ্ধান্তের বিরুদ্ধে, যা কখনো নেওয়া হয়নি। বর্ণনাগুলো কুরাইশ ও সাকীফের নাম নেয় কেবল তখনকার অবস্থান হিসেবে। আজকের কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। পাঠকের জন্য এর শিক্ষা সেটাই, যা কুরতুবী ইবন আব্বাস (রাঃ) থেকে আনেন: আল্লাহর বিধানের কোনো বিষয়ে উম্মতের কেউ যেন মুশরিকদের দিকে না ঝোঁকে। সত্য নিয়ে দরকষাকষি যখন বন্ধুত্বের চেহারায় আসে, তখন আপনি যতটা জানেন, ততটাই আপনার দায়। এরপর ১৭:৭৬ প্রস্তাব থেকে সরে যায় তাঁকে দেশছাড়া করার চক্রান্তে।"
+          }
+        ]
+      }
+    ]
+  },
   "17:78-79": {
     "sections": [
       {

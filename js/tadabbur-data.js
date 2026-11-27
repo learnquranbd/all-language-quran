@@ -33763,6 +33763,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a clear command of Allah reaches you, do not hide a refusal inside a question; judge no one by their origin, and let your prostration answer your pride.",
     "lessonBn": "আল্লাহর স্পষ্ট আদেশ সামনে এলে প্রশ্নের আড়ালে অস্বীকার লুকাবেন না। কাউকে তার জন্ম-উপাদান দিয়ে বিচার করবেন না, আর আপনার সিজদাই হোক অহংকারের জবাব।"
+  },
+  "17:75": {
+    "reflectionEn": "Two verses earlier the Prophet ﷺ is told that his opponents almost turned him from what was revealed to him, and that had Allah not made him firm, he would almost have leaned towards them a little. This verse names the price of a leaning that never came: a double portion in life and a double portion in death, and no helper against Allah. The weight of the warning matches the height of the one addressed. The more a person has been given of knowledge and favour, the heavier any bargain with the truth would weigh. So the verse turns to me. What have I been given, and what am I being asked to trade for it? And who keeps me firm, if not Him?",
+    "reflectionBn": "দুই আয়াত আগে নবী ﷺ-কে বলা হয়েছে, বিরোধীরা তাঁকে ওহী থেকে প্রায় সরিয়েই দিচ্ছিল। আল্লাহ তাঁকে অবিচল না রাখলে তিনি তাদের দিকে সামান্য হলেও প্রায় ঝুঁকে পড়তেন। এ আয়াত সেই ঝোঁকের দাম বলে দেয়, যে ঝোঁক কখনো আসেইনি: জীবনে দ্বিগুণ, মৃত্যুতেও দ্বিগুণ, আর আল্লাহর বিরুদ্ধে কোনো সাহায্যকারী নেই। সতর্কবাণী যতটা ভারী, যাঁকে বলা হচ্ছে তাঁর মর্যাদাও ততটা উঁচু। যাকে যত বেশি জ্ঞান আর নিয়ামত দেওয়া হয়েছে, সত্য নিয়ে যেকোনো দরকষাকষি তার জন্য তত বেশি ভারী। তাই আয়াতটি আমার দিকেও ফেরে। আমাকে কী দেওয়া হয়েছে, আর তার বদলে আমার কাছে কী চাওয়া হচ্ছে? আর তিনি ছাড়া কে আমাকে অবিচল রাখছেন?",
+    "pointsEn": [
+      "Where is someone asking me to soften something I know is true, so that they will think better of me?",
+      "Do I treat what I know of the religion as a reason for more care, or as a licence to take it easy?",
+      "When I have held firm, did I thank Allah for it, or credit it to my own strength?",
+      "Which small concession do I tell myself does not count, because it is only a little?",
+      "If I traded His command for someone's approval, whom do I imagine could shield me from Him?"
+    ],
+    "pointsBn": [
+      "কোথায় কেউ আমাকে বলছে, জানা সত্যটা একটু নরম করে বলি, যাতে সে আমাকে ভালো চোখে দেখে?",
+      "দ্বীনের যতটুকু জানি, তা কি আমাকে আরও সাবধান করে, নাকি ঢিলেমির ছাড়পত্র বানিয়ে নিই?",
+      "যখন অটল থাকতে পেরেছি, তখন কি আল্লাহর শুকরিয়া আদায় করেছি, নাকি নিজের জোরকেই কৃতিত্ব দিয়েছি?",
+      "কোন ছোট ছাড়টাকে আমি মনে মনে হিসাবের বাইরে রাখি, শুধু এ কারণে যে ওটা তো সামান্য?",
+      "কারও খুশির বদলে যদি তাঁর হুকুম ছেড়ে দিই, তবে কে আমাকে তাঁর হাত থেকে বাঁচাবে বলে ভাবি?"
+    ],
+    "lessonEn": "The more truth and favour you have been given, the weightier any compromise with it becomes; ask Allah to keep you firm, for no one can help you against Him.",
+    "lessonBn": "যত বেশি সত্য আর নিয়ামত আপনাকে দেওয়া হয়েছে, তা নিয়ে আপস তত বেশি ভারী। আল্লাহর কাছে অবিচল থাকার তাওফীক চান, কারণ তাঁর বিরুদ্ধে কেউ আপনাকে সাহায্য করতে পারবে না।"
   }
 };
 
