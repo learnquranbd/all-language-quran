@@ -1323,6 +1323,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:33": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Guarded Ceiling",
+          "bn": "সুরক্ষিত ছাদের পরে"
+        },
+        "p": [
+          {
+            "en": "Wa huwa alladhi khalaqa al-layla wa-n-nahara wa-sh-shamsa wa-l-qamar; kullun fi falakin yasbahun: and it is He who created the night and the day, and the sun and the moon; each in an orbit, swimming. The verse follows 21:32, which calls the sky a guarded ceiling and says that people turn away from its signs. Here four of those signs are named in turn, and the sentence opens on the pronoun: it is He who made them.",
+            "bn": "ওয়া হুওয়াল্লাযী খালাকাল লাইলা ওয়ান নাহারা ওয়াশ শামসা ওয়াল কামার, কুল্লুন ফী ফালাকিন ইয়াসবাহূন: আর তিনিই সৃষ্টি করেছেন রাত ও দিন, সূর্য ও চাঁদ। প্রত্যেকেই এক কক্ষপথে সাঁতার কাটছে। আয়াতটি এসেছে ঠিক ২১:৩২-এর পরে। সেখানে আকাশকে বলা হয়েছে সুরক্ষিত ছাদ, আর বলা হয়েছে মানুষ তার নিদর্শন থেকে মুখ ফিরিয়ে রাখে। এখানে সেই নিদর্শনগুলোর চারটির নাম একে একে নেওয়া হলো। বাক্যের শুরুটাই 'তিনি' দিয়ে: এগুলো বানিয়েছেন তিনিই।"
+          },
+          {
+            "en": "Ibn Kathir introduces the verse as Allah drawing attention to some of His signs. At-Tabari reads it as spoken to people at large: Allah created the night and the day for you, O people, as a blessing from Him upon you and as a proof, a sign of His great authority and of the fact that godhood belongs to Him alone, apart from everything besides Him. Night and day alternate over you, he adds, for the good of your livelihoods and of your affairs in this world and the next.",
+            "bn": "ইবন কাসীর আয়াতটির ভূমিকা দেন এভাবে: আল্লাহ এখানে তাঁর কিছু নিদর্শনের দিকে মনোযোগ ফেরাচ্ছেন। তাবারী একে পড়েন সব মানুষের প্রতি সম্বোধন হিসেবে। তাঁর ভাষায়, হে মানুষ, আল্লাহ তোমাদের জন্য রাত ও দিন সৃষ্টি করেছেন। এটা তোমাদের উপর তাঁর নিয়ামত, আবার দলিলও। এ থেকে বোঝা যায় তাঁর ক্ষমতা কত বিশাল, আর ইলাহ হওয়ার হক শুধু তাঁরই, অন্য কারও নয়। তিনি আরও বলেন, রাত আর দিন পালা করে তোমাদের উপর আসে, যাতে তোমাদের জীবিকা আর দুনিয়া ও আখিরাতের কাজকর্ম ঠিকঠাক চলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stillness by Night, Company by Day",
+          "bn": "রাতে প্রশান্তি, দিনে সঙ্গ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir describes the pair in a few words: the one with its darkness and its stillness, the other with its brightness and its uns, the ease of human company. This one grows long at one time and short at another, and the other does the reverse. The Muyassar gives each its purpose: the night, so that people may rest in it, and the day, so that they may seek their living in it. Al-Qurtubi calls the verse a reminder of another blessing, worded in the same way.",
+            "bn": "ইবন কাসীর জোড়াটিকে অল্প কথায় বর্ণনা করেন। একটির আছে অন্ধকার আর প্রশান্তি, অন্যটির আছে আলো আর 'উনস', মানে মানুষের সঙ্গের স্বস্তি। একটা কখনো লম্বা হয়, কখনো ছোট, আর অন্যটা হয় ঠিক উল্টো। মুয়াসসার প্রত্যেকটির উদ্দেশ্য বলে দেয়: রাত, যাতে মানুষ তাতে বিশ্রাম নেয়, আর দিন, যাতে তারা তাতে জীবিকা খোঁজে। কুরতুবী আয়াতটিকে বলেন আরেকটি নিয়ামতের কথা মনে করিয়ে দেওয়া, আর উদ্দেশ্যগুলো বলেন প্রায় একই ভাষায়।"
+          },
+          {
+            "en": "The second pair answers the first. Al-Qurtubi says Allah made the sun the sign of the day and the moon the sign of the night, so that months, years and reckoning may be known, referring back to Surat Subhan, al-Isra'. The Muyassar words it almost identically: He created the sun as a sign for the day and the moon as a sign for the night. Two of the four created things are spans of time; the other two are the markers by which those spans are counted.",
+            "bn": "দ্বিতীয় জোড়াটি প্রথম জোড়ার সঙ্গে মিলে যায়। কুরতুবী বলেন, আল্লাহ সূর্যকে করেছেন দিনের নিদর্শন আর চাঁদকে রাতের নিদর্শন, যাতে মাস, বছর আর হিসাব জানা যায়। এ প্রসঙ্গে তিনি ফিরিয়ে দেন সূরা সুবহান, অর্থাৎ বনী ইসরাঈলের আলোচনার দিকে। মুয়াসসারের কথাও প্রায় হুবহু এক: তিনি সূর্যকে সৃষ্টি করেছেন দিনের নিদর্শন করে, আর চাঁদকে রাতের নিদর্শন করে। চারটি সৃষ্টির দুটি তাই সময়ের পরিসর, আর বাকি দুটি সেই চিহ্ন, যা দিয়ে সেই পরিসর গোনা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Light Apart for Each",
+          "bn": "প্রত্যেকের নিজস্ব আলো"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir dwells on the difference between the sun and the moon. The sun, he says, has a light that belongs to it alone, a falak of its own, a time apart, and a motion and course particular to it. The moon has another light of its own, another falak, another course and another measuring. He then sets beside the verse 6:96: Cleaver of the daybreak, He made the night for rest and the sun and the moon for reckoning; that is the measuring of the Almighty, the All-Knowing.",
+            "bn": "সূর্য আর চাঁদের পার্থক্য নিয়ে ইবন কাসীর একটু থামেন। তিনি বলেন, সূর্যের আছে এমন আলো, যা শুধু তারই। তার আছে নিজের ফালাক, আলাদা সময়, আর নিজস্ব গতি ও চলার পথ। চাঁদেরও আছে নিজস্ব অন্য আলো, অন্য ফালাক, অন্য পথ আর অন্য পরিমাপ। এরপর তিনি আয়াতটির পাশে রাখেন ৬:৯৬: তিনি প্রভাত উন্মোচনকারী। তিনি রাতকে করেছেন বিশ্রামের সময়, আর সূর্য ও চাঁদকে হিসাবের মাধ্যম। এ হলো মহাপরাক্রমশালী, সর্বজ্ঞের নির্ধারণ।"
+          },
+          {
+            "en": "Who is meant by kullun, each? Al-Qurtubi casts the net wide: each of the sun, the moon, the stars, the planets, the night and the day. The Muyassar keeps to the two lights named: each of them has a course in which it runs and swims and from which it does not swerve. The same closing words return at 36:40, as wa-kullun fi falakin yasbahun.",
+            "bn": "'কুল্লুন', অর্থাৎ প্রত্যেকে, বলতে কারা? কুরতুবী জাল ফেলেন অনেক দূর পর্যন্ত: সূর্য, চাঁদ, নক্ষত্র, গ্রহ, রাত আর দিন, এদের প্রত্যেকে। মুয়াসসার থাকে নাম নেওয়া দুই আলোর মধ্যেই: এদের প্রত্যেকের আছে একটা পথ, যাতে সে চলে আর সাঁতার কাটে, আর সেখান থেকে একটুও সরে না। শেষের এই কথাগুলো আবার এসেছে ৩৬:৪০ আয়াতে, 'ওয়া কুল্লুন ফী ফালাকিন ইয়াসবাহূন' রূপে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Anything That Turns",
+          "bn": "যা কিছু ঘোরে"
+        },
+        "p": [
+          {
+            "en": "The word falak comes first. At-Tabari says that in the speech of the Arabs a falak is anything that revolves, and its plural is aflak; he cites a line of rajaz verse that speaks of al-falak ad-dawwar, the turning falak. Al-Baghawi says it is anything round, and that the falka of the spindle takes its name from it: the small round weight that keeps a hand spindle turning. Al-Qurtubi traces the root to turning and names the same spindle-whorl, so called because it is round.",
+            "bn": "প্রথমে 'ফালাক' শব্দটি। তাবারী বলেন, আরবদের ভাষায় ফালাক মানে যা কিছু ঘোরে, আর এর বহুবচন 'আফলাক'। সাক্ষী হিসেবে তিনি রাজায ছন্দের একটি পঙক্তি আনেন, যাতে আছে 'আল-ফালাকুদ দাওয়ার', মানে ঘূর্ণমান ফালাক। বাগাভী বলেন, ফালাক মানে যা কিছু গোল, আর টাকুর 'ফালকা' নামটাও এখান থেকেই এসেছে। ফালকা হলো সেই ছোট গোল চাকতি, যা হাতের টাকুকে ঘুরিয়ে রাখে। কুরতুবী শব্দের মূল খুঁজে পান ঘোরার অর্থে, আর সেই টাকুর চাকতির কথাই বলেন, গোল বলে যার এই নাম।"
+          },
+          {
+            "en": "Al-Qurtubi gives an example of the word in use: a report from Ibn Mas'ud with the words: I left my horse as if it were turning in a falak. He explains that the horse, for its turning, was likened to the falak of the sky on which the stars turn. Ma'arif al-Qur'an says the word is used for a circle or anything round, sometimes for the sky, and that here it means the orbits in which the sun and moon revolve.",
+            "bn": "শব্দটির ব্যবহারের একটি উদাহরণ দেন কুরতুবী। ইবন মাসঊদ (রাঃ) থেকে বর্ণিত এক কথায় আছে: আমি আমার ঘোড়াকে রেখে এলাম এমন অবস্থায়, যেন সেটা কোনো ফালাকে ঘুরছে। কুরতুবী ব্যাখ্যা দেন, ঘুরতে থাকার কারণেই ঘোড়াটিকে আকাশের সেই ফালাকের সঙ্গে তুলনা করা হয়েছে, যার উপর নক্ষত্ররা ঘোরে। মাআরিফুল কুরআন বলে, শব্দটি বৃত্ত বা যেকোনো গোল জিনিসের জন্য ব্যবহৃত হয়, কখনো আকাশের জন্যও। আর এখানে এর অর্থ সূর্য ও চাঁদের সেই কক্ষপথ, যাতে তারা ঘোরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whorl, Wave or Pole",
+          "bn": "চাকতি, ঢেউ, নাকি মেরু"
+        },
+        "p": [
+          {
+            "en": "At-Tabari records that the interpreters differed over what this falak is. Mujahid, and Ibn Jurayj with him, said it is like the iron of a hand-mill; al-Qurtubi relays Mujahid with the addition that this iron is the mill's pole. Ibn Abbas, in a chain through Qabus, said it is the falak of the sky. Ad-Dahhak said the falak is the running and the speed, which al-Qurtubi gives as its course and the speed of its travel. Others said it is a wave held back, in which the sun, the moon and the stars run.",
+            "bn": "তাবারী জানান, এই ফালাক আসলে কী, তা নিয়ে তাফসীরকারদের মধ্যে মতভেদ হয়েছে। মুজাহিদ বলেছেন, আর তাঁর সঙ্গে ইবন জুরাইজও, এটা যাঁতার লোহার মতো। কুরতুবী মুজাহিদের কথাটি আনেন এই সংযোজনসহ যে, এই লোহাই যাঁতার কেন্দ্রদণ্ড। কাবূসের সূত্রে ইবন আব্বাস (রাঃ) বলেছেন, এটা আকাশের ফালাক। দাহহাক বলেছেন, ফালাক মানে চলা আর দ্রুততা। কুরতুবী তাঁর কথাটি দেন এভাবে: এর চলার পথ আর চলার গতি। আরেক দল বলেছেন, এটা আটকে রাখা এক ঢেউ, যার ভেতরে সূর্য, চাঁদ আর নক্ষত্ররা চলে।"
+          },
+          {
+            "en": "Still others, at-Tabari continues, said it is the pole around which the stars turn. Qatada said: in the falak of the sky, and in another report, it runs in the falak of the sky as you have seen. Al-Qurtubi has Qatada say the falak is a circling in the sky that turns with the stars while the sky itself stays fixed. Ibn Zayd placed it between the sky and the earth, as the courses of the stars, the sun and the moon, and recited 25:61 on the buruj set in the sky.",
+            "bn": "তাবারী আরও বলেন, কেউ কেউ বলেছেন এটা সেই মেরু, যাকে ঘিরে নক্ষত্ররা ঘোরে। কাতাদা বলেছেন: আকাশের ফালাকে। আরেক বর্ণনায় তিনি বলেন, এটা আকাশের ফালাকে চলে, যেমনটা তুমি দেখছ। কুরতুবীর বর্ণনায় কাতাদার কথা এমন: ফালাক হলো আকাশের ভেতরে এক ঘূর্ণন, যা নক্ষত্রদের নিয়ে ঘোরে, অথচ আকাশ নিজে স্থির থাকে। ইবন যায়দ একে রেখেছেন আকাশ আর পৃথিবীর মাঝখানে, নক্ষত্র, সূর্য আর চাঁদের চলার পথ হিসেবে। প্রমাণ হিসেবে তিনি তিলাওয়াত করেছেন ২৫:৬১, যেখানে আকাশে স্থাপিত বুরুজের কথা আছে।"
+          },
+          {
+            "en": "Al-Hasan is reported to have said it is a mill shaped like the whorl of a spindle; al-Baghawi explains that he means the path the stars run in is round, as a mill is round. Al-Baghawi adds al-Kalbi, the circling of the sky. Ibn Kathir glosses yasbahun as yadurun, they revolve, and gives Ibn Abbas saying they revolve as the spindle turns in its whorl. Mujahid adds that the spindle turns only with the whorl, and the whorl only with the spindle; so too the stars, the sun and the moon turn only by it, and it turns only by them.",
+            "bn": "হাসান থেকে বর্ণিত আছে, এটা টাকুর চাকতির মতো দেখতে এক যাঁতা। বাগাভী ব্যাখ্যা করেন, তিনি বোঝাতে চেয়েছেন নক্ষত্ররা যে পথে চলে তা গোল, যেমন যাঁতা গোল। বাগাভী কালবীর মতও যোগ করেন: আকাশের ঘূর্ণন। ইবন কাসীর 'ইয়াসবাহূন'-এর অর্থ করেন 'ইয়াদূরূন', মানে তারা ঘোরে। তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন: টাকু যেমন তার চাকতিতে ঘোরে, তারাও তেমনি ঘোরে। মুজাহিদ যোগ করেন, চাকতি ছাড়া টাকু ঘোরে না, আর টাকু ছাড়া চাকতিও না। তেমনি নক্ষত্র, সূর্য আর চাঁদ এর সাহায্যেই ঘোরে, আর এটাও ঘোরে তাদের সাহায্যেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Swimming Without Water",
+          "bn": "পানি ছাড়াই সাঁতার"
+        },
+        "p": [
+          {
+            "en": "Then the verb. At-Tabari says yasbahun means yajrun, they run, and gives it from Mujahid through two chains and from Ibn Zayd. Al-Qurtubi and al-Baghawi both say they run and travel swiftly, like a swimmer in water. Al-Qurtubi cites 79:3, wa-s-sabihati sabha, by those who glide along, and notes that a horse which stretches its forelegs as it runs is called sabih, a swimmer. The Muyassar joins the two verbs: each runs in its course and swims, without swerving.",
+            "bn": "এবার ক্রিয়াপদটি। তাবারী বলেন, 'ইয়াসবাহূন' মানে 'ইয়াজরূন', তারা চলে। মুজাহিদ থেকে দুই সূত্রে আর ইবন যায়দ থেকে তিনি এ অর্থ বর্ণনা করেন। কুরতুবী ও বাগাভী দুজনেই বলেন, তারা চলে আর দ্রুত এগিয়ে যায়, পানিতে সাঁতারুর মতো। কুরতুবী প্রমাণ আনেন ৭৯:৩ থেকে, 'ওয়াস সাবিহাতি সাবহা', শপথ তাদের যারা সাঁতরে চলে। তিনি আরও জানান, যে ঘোড়া দৌড়ানোর সময় সামনের পা টানটান করে বাড়িয়ে দেয়, তাকে বলে 'সাবিহ', সাঁতারু। মুয়াসসার দুটি ক্রিয়াকে একসঙ্গে আনে: প্রত্যেকে নিজের পথে চলে আর সাঁতার কাটে, একটুও না সরে।"
+          },
+          {
+            "en": "The grammar raises a question. Yasbahun ends in the masculine plural used for rational beings, though the sun and the moon are not. The sources explain the form, not the number; none says why a plural stands where two are named. At-Tabari answers that the report about them was cast in the form used for the children of Adam, with waw and nun, rather than yasbahna or tasbahu, just as 12:4 says of the sun and moon, I saw them prostrating to me. Prostration is a human act, he says, and once they were described with human acts, the report about them ran as it runs about humans.",
+            "bn": "ব্যাকরণ এখানে একটা প্রশ্ন তোলে। 'ইয়াসবাহূন' শব্দের শেষে আছে বুদ্ধিমান সত্তার জন্য ব্যবহৃত পুংলিঙ্গ বহুবচনের রূপ, অথচ সূর্য-চাঁদ তো বুদ্ধিমান সত্তা নয়। সূত্রগুলো ব্যাখ্যা দেয় রূপের, সংখ্যার নয়: নাম তো দুটির, তবু বহুবচন কেন, তা কেউ বলেননি। তাবারী জবাব দেন, তাদের সম্পর্কে খবরটি দেওয়া হয়েছে আদম সন্তানদের বেলায় যে রূপ চলে সেই রূপে, ওয়াও আর নূন দিয়ে। 'ইয়াসবাহনা' বা 'তাসবাহু' বলা হয়নি। ঠিক যেমন ১২:৪ আয়াতে সূর্য ও চাঁদ সম্পর্কে বলা হয়েছে, আমি দেখলাম তারা আমাকে সিজদা করছে। তাঁর ব্যাখ্যা, সিজদা মানুষের কাজ। সূর্য-চাঁদকে যখন মানুষের মতো কাজে বর্ণনা করা হলো, তখন তাদের খবরও মানুষের খবরের নিয়মেই এল।"
+          },
+          {
+            "en": "Al-Baghawi gives the same reason: the verse ascribed to them acts of rational beings, running and swimming. Al-Qurtubi relays Sibawayh's view that, having reported of them an act of the rational and placed them in obedience at the rank of the rational, the verse speaks of them as of the rational; al-Farra' said much the same. Al-Kisa'i explained it instead as the verse's end-rhyme, as 54:44 says nahnu jami'un muntasir rather than muntasirun. A further view, also in al-Qurtubi, gives the running to the falak itself and only ascribes it to them.",
+            "bn": "বাগাভীও একই কারণ দেন: আয়াতটি তাদের উপর বুদ্ধিমান সত্তার কাজ আরোপ করেছে, চলা আর সাঁতার কাটা। কুরতুবী সীবাওয়াইহের মত বর্ণনা করেন: আয়াত যখন তাদের সম্পর্কে বুদ্ধিমানের কাজের খবর দিল, আর আনুগত্যে তাদের বসাল বুদ্ধিমানের আসনে, তখন তাদের কথা বলল বুদ্ধিমানের মতো করেই। ফাররাও প্রায় একই কথা বলেছেন। কিসাঈ ব্যাখ্যা দেন অন্যভাবে: এটা আয়াতের শেষের অন্ত্যমিলের জন্য। যেমন ৫৪:৪৪ আয়াতে বলা হয়েছে 'নাহনু জামীউন মুনতাসির', 'মুনতাসিরূন' নয়। কুরতুবীতে আরেকটি মতও আছে: চলাটা আসলে ফালাকের, তাদের দিকে শুধু সম্পর্কিত করা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Saying Only What He Said",
+          "bn": "তিনি যা বলেছেন, শুধু ততটুকু"
+        },
+        "p": [
+          {
+            "en": "At-Tabari closes the list with a ruling on it. The right course, he says, is to say as Allah said. The falak may be like the iron of the mill, as Mujahid said, or the mill-wheel, as is reported from al-Hasan; it may be a wave held back, or the pole of the sky, since in Arabic a falak is anything that turns. There is no evidence in the Book of Allah, nor in a report from the Messenger ﷺ, nor from anyone whose word settles the matter, to show which it is.",
+            "bn": "তালিকা শেষ করে তাবারী এ নিয়ে নিজের সিদ্ধান্ত দেন। তিনি বলেন, সঠিক পথ হলো আল্লাহ যেমন বলেছেন তেমনই বলা। ফালাক হতে পারে যাঁতার লোহার মতো, যেমন মুজাহিদ বলেছেন। হতে পারে যাঁতার চাকা, যেমন হাসান থেকে বর্ণিত। হতে পারে আটকে রাখা ঢেউ, কিংবা আকাশের মেরু। কারণ আরবিতে যা কিছু ঘোরে তাকেই ফালাক বলে। কিন্তু এর কোনটি ঠিক, তা দেখানোর মতো প্রমাণ আল্লাহর কিতাবে নেই, রাসূল ﷺ থেকে কোনো বর্ণনায় নেই, এমন কারও কাছ থেকেও নেই যাঁর কথায় বিষয়টির নিষ্পত্তি হয়ে যায়।"
+          },
+          {
+            "en": "So, at-Tabari concludes, the duty is to say what He said and to keep silent about what we have no knowledge of, and he renders the clause: the sun and the moon, each of them in something that turns, swimming. Al-Qurtubi goes further. What he calls most correct is that the planets run in the falak, in seven spheres beneath the layered heavens: the moon in the lowest, then Mercury, Venus, the sun, Mars, Jupiter and Saturn, with the sphere of the zodiac eighth and the greatest sphere ninth. He ends his list with: and Allah knows best.",
+            "bn": "তাই তাবারীর সিদ্ধান্ত, কর্তব্য হলো তিনি যা বলেছেন তা-ই বলা, আর যে বিষয়ে আমাদের জ্ঞান নেই সে বিষয়ে চুপ থাকা। বাক্যটির অর্থ তিনি করেন এভাবে: সূর্য ও চাঁদ, এদের প্রত্যেকে এমন কিছুতে সাঁতার কাটছে, যা ঘোরে। কুরতুবী আরও এগিয়ে যান। তাঁর মতে সবচেয়ে সঠিক কথা হলো, গ্রহগুলো ফালাকে চলে, আর স্তরে স্তরে সাজানো আসমানের নিচে আছে সাতটি ফালাক। সবচেয়ে নিচেরটিতে চাঁদ, তারপর বুধ, শুক্র, সূর্য, মঙ্গল, বৃহস্পতি ও শনি। অষ্টমটি রাশিচক্রের ফালাক, নবমটি সবচেয়ে বড় ফালাক। তালিকার শেষে তিনি বলেন: আর আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an says the Qur'anic words do not specify where in space the orbits lie, then adds that space research places them far below the sky, and that the verse apparently indicates the sun also moves in an orbit, which it says modern research has come to accept. These are each work's own claims; this article takes no position on astronomy, old or new. What every source fetched here shares is smaller and firmer: the four are created, they move, and their moving is round and ordered.",
+            "bn": "মাআরিফুল কুরআন বলে, কক্ষপথগুলো মহাশূন্যের ঠিক কোথায়, কুরআনের শব্দ তা নির্দিষ্ট করে বলেনি। এরপর যোগ করে, মহাকাশ গবেষণা এগুলোর অবস্থান দেখিয়েছে আকাশের অনেক নিচে। আরও বলে, আয়াতটি বাহ্যত ইঙ্গিত দেয় সূর্যও এক কক্ষপথে চলে, আর আধুনিক গবেষণা নাকি এখন তা মেনে নিয়েছে। এগুলো প্রত্যেক গ্রন্থের নিজস্ব দাবি, তাদের দাবি হিসেবেই এখানে আনা হলো। প্রাচীন বা আধুনিক, কোনো জ্যোতির্বিদ্যা নিয়েই এ লেখা কোনো অবস্থান নেয় না। এখানে আনা সব সূত্র যে কথায় একমত, তা ছোট কিন্তু দৃঢ়: এই চারটি সৃষ্ট, এরা চলে, আর এদের চলা গোলাকার ও সুশৃঙ্খল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Course Set to End",
+          "bn": "যে পথের শেষ আছে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's comment, given on 21:32 and filed with this verse as well, reads the signs of the sky together: its sun and its moon, from which night and day arise, both always swimming in their falak, and the stars likewise. Through these, he says, the servants' benefits come about: heat and cold and the seasons; knowing the reckoning of their worship and their dealings; resting in their nights, and going out in their days to work for their living.",
+            "bn": "সা'দীর আলোচনাটি ২১:৩২ আয়াতের উপর, আর এ আয়াতের সঙ্গেও সেটিই রাখা হয়েছে। তিনি আকাশের নিদর্শনগুলো একসঙ্গে পড়েন: তার সূর্য আর চাঁদ, যাদের থেকে রাত ও দিনের জন্ম, যারা সব সময় নিজেদের ফালাকে সাঁতার কাটছে, আর তেমনি নক্ষত্ররাও। তিনি বলেন, এদের মাধ্যমেই বান্দাদের কল্যাণ সাধিত হয়। গরম আর ঠান্ডা আসে, ঋতু বদলায়। তারা নিজেদের ইবাদত আর লেনদেনের হিসাব জানতে পারে। রাতে তারা বিশ্রাম নেয়, আর দিনে বেরিয়ে পড়ে জীবিকার খোঁজে।"
+          },
+          {
+            "en": "Then he draws the conclusion. Whoever reflects on these and looks closely, he says, will judge without doubt that Allah set them for a known time, to an appointed term; after it they will pass away and fade. He who brought them into being will end them, and He who set them moving will make them still. Those charged with duty will move to another abode and find their deeds repaid in full. This world is a farm for the lasting home, a traveller's halt and not a place to stay.",
+            "bn": "এরপর তিনি সিদ্ধান্তে পৌঁছান। তাঁর কথায়, যে এগুলো নিয়ে চিন্তা করে আর মনোযোগ দিয়ে দেখে, সে নিঃসন্দেহে বুঝবে, আল্লাহ এদের রেখেছেন এক জানা সময়ের জন্য, এক নির্ধারিত মেয়াদ পর্যন্ত। তারপর এরা বিলীন হবে, মিলিয়ে যাবে। যিনি এদের অস্তিত্ব দিয়েছেন, তিনিই এদের শেষ করবেন। যিনি এদের চালু করেছেন, তিনিই এদের থামিয়ে দেবেন। আর যাদের উপর দায়িত্ব আছে, তারা চলে যাবে অন্য এক ঘরে, সেখানে নিজেদের আমলের পূর্ণ প্রতিদান পাবে। এ দুনিয়া স্থায়ী ঘরের জন্য এক খেত, মুসাফিরের এক বিরতিস্থল, থেকে যাওয়ার জায়গা নয়।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a hadith to it. The verse itself asks only for a look: at the dark and the light, at the two lamps and their courses, and at the One who made them all. The verse before named the failure, turning away, and the one after, 21:34, turns to death, since no human before was granted eternity. Between the two, every night that falls and every morning that breaks brings the same sign back to anyone willing to look up.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। আয়াতটি নিজে শুধু একবার তাকাতে বলে: অন্ধকার আর আলোর দিকে, দুই প্রদীপ আর তাদের পথের দিকে, আর যিনি এ সবকিছু বানিয়েছেন তাঁর দিকে। আগের আয়াত ব্যর্থতাটির নাম বলে দিয়েছে: মুখ ফিরিয়ে নেওয়া। পরের আয়াত, ২১:৩৪, মৃত্যুর দিকে ফেরে, কারণ এর আগে কোনো মানুষকে চিরস্থায়ী জীবন দেওয়া হয়নি। এ দুইয়ের মাঝখানে প্রতিটা রাত নামা আর প্রতিটা ভোর হওয়া একই নিদর্শন ফিরিয়ে আনে, যে মাথা তুলে দেখতে চায় তার জন্য।"
+          }
+        ]
+      }
+    ]
+  },
   "21:35": {
     "sections": [
       {

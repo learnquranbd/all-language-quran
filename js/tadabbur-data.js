@@ -34499,6 +34499,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Meet the Qur'an by reading it, not by naming it; a mind that keeps changing its excuse has stopped looking, and the sign it demands is already in its hands.",
     "lessonBn": "কুরআনকে নাম দিয়ে নয়, পড়ে চিনুন। যে মন বারবার অজুহাত বদলায় সে আসলে দেখা বন্ধ করে দিয়েছে, আর যে নিদর্শন সে চায় তা আগেই তার হাতে।"
+  },
+  "21:33": {
+    "reflectionEn": "The verse before says people turn away from the sky's signs. This one names four of them and begins with He: it is He who created the night and the day, the sun and the moon. Night brings darkness and rest; day brings light and the search for a living. One lengthens while the other shortens, and each body keeps its own light and its own course. Each, the verse says, is in a falak, swimming: moving swiftly and smoothly in a circuit that turns, never swerving from it. I live inside this order every day and seldom look up. Do I take the night's rest and the day's work as gifts? And does a world that keeps its course teach me to keep mine?",
+    "reflectionBn": "আগের আয়াত বলেছে, আকাশের নিদর্শন থেকে মানুষ মুখ ফিরিয়ে রাখে। এ আয়াত তার চারটির নাম নেয়, আর শুরু করে 'তিনি' দিয়ে: তিনিই সৃষ্টি করেছেন রাত ও দিন, সূর্য ও চাঁদ। রাত আনে অন্ধকার আর বিশ্রাম, দিন আনে আলো আর রুজির খোঁজ। একটা বড় হয় তো অন্যটা ছোট হয়। আর প্রত্যেকের আছে নিজের আলো, নিজের পথ। আয়াত বলছে, প্রত্যেকেই এক 'ফালাক'-এ সাঁতার কাটছে। অর্থাৎ ঘুরতে থাকা এক কক্ষপথে দ্রুত আর মসৃণভাবে চলছে, সেখান থেকে একটুও সরে যায় না। এই শৃঙ্খলার ভেতরেই আমার প্রতিটা দিন কাটে, অথচ মাথা তুলে দেখি কালেভদ্রে। রাতের বিশ্রাম আর দিনের কাজকে কি আমি দান বলে গ্রহণ করি? আর যে জগৎ নিজের পথ ধরে রাখে, সে কি আমাকে নিজের পথ ধরে রাখতে শেখায়?",
+    "pointsEn": [
+      "When did I last look at a sunrise or the moon and think of the One who made it, rather than only the time it told me?",
+      "Do I use the night for the rest it was given for and the day for honest work, or have I turned the two around without need?",
+      "The sun and the moon keep their courses without swerving; which course of worship or duty have I been drifting from?",
+      "Where the Qur'an leaves a detail unspecified, am I content to say only what it says and leave the rest to Allah?",
+      "If every day and night is counted toward an appointed end, how am I spending the ones still left to me?"
+    ],
+    "pointsBn": [
+      "শেষ কবে সূর্যোদয় বা চাঁদের দিকে তাকিয়ে শুধু সময়টা না দেখে যিনি সেটা বানিয়েছেন তাঁর কথা ভেবেছি?",
+      "রাতকে কি আমি সেই বিশ্রামের কাজে লাগাই, যার জন্য তা দেওয়া হয়েছে? আর দিনকে কি হালাল কাজে? নাকি বিনা প্রয়োজনে দুটোকে উল্টে ফেলেছি?",
+      "সূর্য আর চাঁদ নিজের পথ থেকে সরে না। ইবাদত বা দায়িত্বের কোন পথ থেকে আমি ধীরে ধীরে সরে যাচ্ছি?",
+      "কুরআন যেখানে কোনো খুঁটিনাটি খুলে বলেনি, সেখানে কি আমি শুধু ততটুকুই বলি যতটুকু কুরআন বলেছে, আর বাকিটা আল্লাহর উপর ছেড়ে দিই?",
+      "প্রতিটা দিন আর রাত যদি এক নির্ধারিত শেষের দিকে গোনা হতে থাকে, তবে আমার হাতে যে কটা বাকি, সেগুলো আমি কীভাবে কাটাচ্ছি?"
+    ],
+    "lessonEn": "Let night and day, sun and moon, turn your eyes to the One who set them running, and keep your own course as steadily as they keep theirs.",
+    "lessonBn": "রাত-দিন আর সূর্য-চাঁদ আপনার চোখকে ফিরিয়ে দিক তাঁর দিকে, যিনি এদের চালু রেখেছেন। আর এরা যেমন অবিচলভাবে নিজের পথ ধরে রাখে, আপনিও তেমনি নিজের পথ ধরে রাখুন।"
   }
 };
 
