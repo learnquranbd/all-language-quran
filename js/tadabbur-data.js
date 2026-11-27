@@ -35773,6 +35773,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Pride does not always shout; often it simply refuses to answer. When a clear call to Allah reaches you, do not hold yourself above it, but come to it in surrender.",
     "lessonBn": "অহংকার সব সময় গলা চড়ায় না, অনেক সময় সে শুধু সাড়া দিতে অস্বীকার করে। আল্লাহর দিকে স্পষ্ট ডাক আপনার কাছে পৌঁছালে নিজেকে তার ওপরে রাখবেন না, আত্মসমর্পণ করে এগিয়ে আসুন।"
+  },
+  "26:210": {
+    "reflectionEn": "The charge was simple: someone from the unseen was feeding him his words. Four words answer it: the devils did not bring it down. The surah has already named the one who did, the trustworthy Spirit, and the next verses add that this work does not suit the devils and lies beyond their reach. What stays with me is how the answer argues. A message that calls to what is right and away from what corrupts cannot come from those whose whole trade is corruption. What a message asks of me tells me where it came from. So when a voice claims to guide me, I can ask where it is pulling me. And when I open this Book, I am not reading scraps overheard and passed along.",
+    "reflectionBn": "অভিযোগটা ছিল সোজা: অদৃশ্য জগতের কেউ তাঁকে কথাগুলো জুগিয়ে দেয়। চারটি শব্দে তার জবাব এসেছে: শয়তানরা এটা নিয়ে নামেনি। কে নিয়ে নেমেছেন, সূরাটি আগেই বলে দিয়েছে: বিশ্বস্ত রূহ। পরের আয়াতগুলো জুড়ে দেয়, এ কাজ শয়তানদের মানায় না, তাদের সাধ্যেও নেই। আমাকে ভাবায় জবাবের যুক্তিটা। যে বার্তা ভালোর দিকে ডাকে আর বিপর্যয় থেকে ফেরায়, তা কিছুতেই তাদের কাছ থেকে আসতে পারে না যাদের পুরো কারবারই বিপর্যয় ছড়ানো। বার্তা আমার কাছে কী চায়, তা-ই বলে দেয় সেটা কোথা থেকে এসেছে। তাই কোনো কণ্ঠ যখন পথ দেখানোর দাবি করে, আমি জিজ্ঞেস করতে পারি, সে আমাকে টানছে কোন দিকে? আর এই কিতাব যখন খুলি, তখন আড়ি পেতে শোনা আর হাতে হাতে চালান করা টুকরো কথা পড়ছি না।",
+    "pointsEn": [
+      "When a voice claims to guide me, do I ask where it is pulling me, towards what is right or towards ruin?",
+      "Have I ever waved away a true word because of a label someone pinned on it, without testing it myself?",
+      "Do I open the Qur'an as a message delivered whole and trusted, or as one more voice among many?",
+      "What in my own speech this week drew people towards good, and what drew them towards harm?",
+      "Whose claims to hidden knowledge have I trusted without asking what they actually call me to do?"
+    ],
+    "pointsBn": [
+      "কোনো কণ্ঠ যখন পথ দেখানোর দাবি করে, আমি কি খেয়াল করি সে আমাকে কোন দিকে টানছে, ভালোর দিকে নাকি সর্বনাশের দিকে?",
+      "কেউ একটা তকমা লাগিয়ে দিয়েছে বলে, নিজে যাচাই না করেই, আমি কি কখনো কোনো সত্য কথা উড়িয়ে দিয়েছি?",
+      "কুরআন খুলে আমি কি একে পুরোপুরি ও আমানতের সঙ্গে পৌঁছানো বার্তা হিসেবে পড়ি, নাকি আরও দশটা কণ্ঠের একটা হিসেবে?",
+      "এ সপ্তাহে আমার কোন কথা মানুষকে ভালোর দিকে টেনেছে, আর কোন কথা ক্ষতির দিকে?",
+      "গোপন জ্ঞানের দাবি করে এমন কার কথায় আমি ভরসা করেছি, অথচ একবারও ভাবিনি সে আসলে আমাকে কী করতে ডাকছে?"
+    ],
+    "lessonEn": "What a message calls you to reveals where it came from. The Qur'an calls to right and away from corruption, so it is no devil's work; test every voice by where it leads.",
+    "lessonBn": "বার্তা কিসের দিকে ডাকে, তা-ই বলে দেয় সেটা কোথা থেকে এসেছে। কুরআন ডাকে ন্যায়ের দিকে, ফেরায় বিপর্যয় থেকে, তাই এ কোনো শয়তানের কাজ নয়। প্রতিটি কণ্ঠকে যাচাই করুন, সে কোথায় নিয়ে যায় তা দেখে।"
   }
 };
 

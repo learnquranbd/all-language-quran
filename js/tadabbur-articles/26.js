@@ -10711,6 +10711,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:210": {
+    "sections": [
+      {
+        "h": {
+          "en": "Four Words Against a Rumour",
+          "bn": "এক গুজবের জবাবে চার শব্দ"
+        },
+        "p": [
+          {
+            "en": "Wa-ma tanazzalat bihi ash-shayatin: and the devils have not brought it down. The verse has four Arabic words, and it does not name what 'it' is, because the passage has been speaking of nothing else. From 26:192 the surah turns from the ruined peoples to the Book itself: a sending-down from the Lord of the worlds, carried by the trustworthy Spirit onto the Prophet's heart, in clear Arabic. Qatada, as at-Tabari relays him through Ma'mar and 'Abd ar-Razzaq, glosses the pronoun in two words: this Qur'an.",
+            "bn": "ওয়া মা তানাযযালাত বিহিশ শায়াতীন: শয়তানরা এটা নিয়ে অবতরণ করেনি। আয়াতে আরবি শব্দ মাত্র চারটি। 'এটা' বলতে কী, তা আলাদা করে বলা হয়নি, কারণ গোটা অংশটাই ওই একটি বিষয় নিয়ে। ২৬:১৯২ থেকে সূরাটি ধ্বংস হওয়া জাতিগুলোর কথা ছেড়ে কিতাবের দিকে ফিরেছে। এ কিতাব জগতসমূহের রবের নাজিল করা, বিশ্বস্ত রূহ তা নিয়ে এসেছেন নবী ﷺ-এর হৃদয়ে, স্পষ্ট আরবি ভাষায়। মা'মার ও আবদুর রাযযাকের সূত্রে তাবারী কাতাদার ব্যাখ্যা উদ্ধৃত করেন। সর্বনামটির অর্থ তিনি দেন দুই শব্দে: এই কুরআন।"
+          },
+          {
+            "en": "Why does the verse deny anything at all? Al-Baghawi gives the reason: the idolaters used to say that the devils cast the Qur'an onto the tongue of Muhammad ﷺ, and Allah answered them with this verse. The Muyassar puts the same point in a short aside, as the disbelievers claim. Al-Qurtubi keeps to the barest gloss: it means the Qur'an; rather, the trustworthy Spirit brings it down. At-Tabari sets the two carriers side by side in one sentence: the devils did not descend with this Qur'an upon Muhammad, but the trustworthy Spirit descends with it.",
+            "bn": "আয়াতটি আদৌ কিছু অস্বীকার করছে কেন? কারণটা বাগাভী বলে দেন। মুশরিকরা বলত, শয়তানরাই কুরআনকে মুহাম্মাদ ﷺ-এর জিহ্বায় ঢেলে দেয়। আল্লাহ এ আয়াতে তাদের জবাব দিলেন। মুয়াসসার একই কথা এক ছোট্ট বন্ধনীতে সারে: যেমনটা কাফিররা দাবি করে। কুরতুবী থামেন একেবারে ছোট ব্যাখ্যায়: এখানে উদ্দেশ্য কুরআন, বরং এটা নিয়ে নামেন বিশ্বস্ত রূহ। তাবারী এক বাক্যেই দুই বাহককে পাশাপাশি রাখেন: শয়তানরা এই কুরআন নিয়ে মুহাম্মাদের উপর নামেনি, নামেন বিশ্বস্ত রূহ।"
+          },
+          {
+            "en": "The charge, as al-Baghawi reports it, conceded something without meaning to. It did not call the words ordinary speech. It granted that they came from beyond the man who recited them, and then tried to give them a dark source. The verse does not argue about whether the words came from the unseen. It says which part of the unseen did not bring them, and the surah has already said, seventeen verses before, in 26:193, which part did.",
+            "bn": "বাগাভীর বর্ণনা অনুযায়ী অভিযোগটা না চাইতেই একটা জিনিস মেনে নিয়েছিল। এ কথাগুলোকে তারা সাধারণ মানুষের কথা বলেনি। মেনে নিয়েছিল, যিনি তিলাওয়াত করছেন তাঁর বাইরে থেকে এগুলো আসে। তারপর চেষ্টা করেছিল এর উৎসকে অন্ধকার বলে চালাতে। কথাগুলো অদৃশ্য থেকে এসেছে কি না, আয়াত সে তর্কে যায় না। অদৃশ্য জগতের কারা এগুলো আনেনি, সেটা বলে দেয়। আর কারা এনেছেন, সূরাটি সতেরো আয়াত আগে ২৬:১৯৩-এ তা জানিয়ে রেখেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guarded at Both Ends",
+          "bn": "নাজিলের সময়ে, নাজিলের পরেও"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens his note by describing the Book in the words of 41:42: falsehood cannot approach it from before it or from behind it, a sending-down from the All-Wise, the Praiseworthy. It was brought down, he says, by the trustworthy Spirit, who is supported by Allah, and it was not the devils who brought it. Then he announces that it is barred to them in three ways, which this verse and the two after it set out.",
+            "bn": "ইবন কাসীর ব্যাখ্যা শুরু করেন কিতাবের পরিচয় দিয়ে, ৪১:৪২-এর ভাষায়: সামনে বা পেছন, কোনো দিক থেকেই বাতিল এর কাছে ঘেঁষতে পারে না, এটা প্রজ্ঞাময় ও প্রশংসিত সত্তার নাজিল করা। তিনি বলেন, এটা নিয়ে এসেছেন বিশ্বস্ত রূহ, যাঁকে আল্লাহ শক্তি জুগিয়েছেন। শয়তানরা এটা আনেনি। তারপর তিনি ঘোষণা করেন, তিনটি দিক থেকে এ কাজ তাদের নাগালের বাইরে। এ আয়াত আর পরের দুটি আয়াত সেই দিকগুলো খুলে বলে।"
+          },
+          {
+            "en": "As-Sa'di frames the verse by what comes before it. Having shown the perfection and majesty of the Qur'an, Allah declared it free of every attribute of deficiency, and protected it, at the time of its descent and after its descent, from the devils of the jinn and of mankind. Two things in that sentence are worth holding. The protection covers two times: the moment of revelation and everything since. And the devils it is guarded from are of two kinds.",
+            "bn": "সা'দী আয়াতটিকে দেখেন আগের আয়াতগুলোর আলোয়। কুরআনের পূর্ণতা ও মহিমা দেখিয়ে দেওয়ার পর আল্লাহ একে সব রকম খুঁত থেকে পবিত্র ঘোষণা করলেন। আর একে হেফাজত করলেন জিন ও মানুষ, দুই জাতের শয়তান থেকেই, নাজিলের মুহূর্তে এবং নাজিলের পরেও। এই বাক্যের দুটি কথা মনে রাখার মতো। হেফাজত দুই সময়ের: ওহী আসার মুহূর্ত, আর তারপরের পুরো কাল। আর যাদের থেকে হেফাজত, সেই শয়তানরাও দুই জাতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shayatin or Shayatun?",
+          "bn": "শায়াতীন, নাকি শায়াতূন?"
+        },
+        "p": [
+          {
+            "en": "At-Tabari records that the reciters are agreed on reading tanazzalat with a ta, and ash-shayatinu with the nominative vowel on its final nun, because the nun belongs to the root: the singular is shaytan, just as the singular of basatin, gardens, is bustan. He then mentions, as something reported, that al-Hasan used to read ash-shayatun, with a waw, and calls that a solecism. If it is authentic from him, at-Tabari says, al-Hasan must have imagined the word to be like al-muslimun and al-mu'minun, which is far from the case.",
+            "bn": "তাবারী জানান, কারিরা সবাই একমত: ক্রিয়াটি পড়া হবে তা দিয়ে, তানাযযালাত, আর আশ-শায়াতীনু শব্দের শেষের নূনে থাকবে পেশ। কারণ নূনটা মূল শব্দেরই অংশ। একবচন শায়তান, যেমন বাসাতীন মানে বাগানগুলো, আর তার একবচন বুসতান। তারপর তিনি 'বলা হয়' বলে উল্লেখ করেন, হাসান নাকি পড়তেন আশ-শায়াতূন, ওয়াও দিয়ে। তাবারী একে ভাষার ভুল বলেন। তাঁর মতে কথাটা হাসান থেকে সত্যিই এসে থাকলে তিনি শব্দটিকে আল-মুসলিমূন বা আল-মু'মিনূনের মতো ভেবে বসেছিলেন। অথচ দুটোর মধ্যে মিল অনেক দূরের।"
+          },
+          {
+            "en": "Al-Qurtubi, two verses on, gathers the debate. He names al-Hasan and Muhammad ibn as-Samayfa' as reading it so. Al-Mahdawi called it impermissible in Arabic and contrary to the written text. An-Nahhas called it an error in the view of all the grammarians, and relays from Muhammad ibn Yazid that it came from a confusion: al-Hasan saw ya and nun at the end of a word in the nominative and took it for a sound plural. Ath-Tha'labi reports al-Farra' saying simply that the shaykh erred.",
+            "bn": "দুই আয়াত পরে কুরতুবী পুরো বিতর্কটা এক জায়গায় আনেন। তিনি বলেন, হাসান ও মুহাম্মাদ ইবনুস সামাইফা' এভাবে পড়তেন। মাহদাভীর মতে এটা আরবিতে বৈধ নয়, লিখিত রূপেরও বিরোধী। নাহহাস বলেন, সব নাহবিদের কাছেই এটা ভুল। মুহাম্মাদ ইবন ইয়াযীদ থেকে তিনি কারণটাও উদ্ধৃত করেন: বিভ্রম থেকে ভুলটা হয়েছে। শব্দের শেষে ইয়া আর নূন, অথচ বাক্যে তা কর্তার জায়গায়, তাই হাসান একে সাধারণ বহুবচন ধরে নিয়েছিলেন। সা'লাবী জানান, ফাররা সোজাসুজি বলেছেন: শায়খ ভুল করেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi also gives the other side. Told of al-Farra's verdict, an-Nadr ibn Shumayl answered that if the usage of Ru'ba and al-'Ajjaj may be cited as evidence, so may that of al-Hasan and his companion; the passage goes on that the two would not have read it so unless they had heard something. Al-Mu'arrij said that if shaytan comes from shata, yashitu, their reading has a way. Yunus ibn Habib heard a Bedouin say: we entered basatin behind which were basatun, and remarked how like al-Hasan's reading it was. Al-Qurtubi leaves both sides standing, and so does this page.",
+            "bn": "অন্য পক্ষের কথাও কুরতুবী আনেন। ফাররার রায় শুনে নাদর ইবন শুমাইল বলেছিলেন, রু'বা আর আজ্জাজের ভাষা যদি প্রমাণ হিসেবে চলে, তবে হাসান ও তাঁর সঙ্গীর ভাষাও চলবে। বর্ণনায় এরপর আছে, কিছু একটা না শুনে তাঁরা দুজন এভাবে পড়েননি। মুআররিজের মতে শায়তান শব্দ যদি শাতা-ইয়াশীতু থেকে আসে, তবে তাঁদের পাঠেরও একটা ব্যাখ্যা দাঁড়ায়। ইউনুস ইবন হাবীব এক বেদুইনকে বলতে শুনেছিলেন: আমরা এমন বাসাতীনে ঢুকলাম, যার ওপাশে আরও বাসাতূন। শুনে তিনি মন্তব্য করেন, হাসানের পাঠের সঙ্গে কী মিল! কুরতুবী দুই পক্ষকেই দাঁড় করিয়ে রাখেন, এ লেখাও তা-ই রাখল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Bars, Two Verses Ahead",
+          "bn": "তিন বাধা, পরের দুই আয়াতে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's first reason is given under this verse: it does not befit them. It is not what they seek or want, he says, because their nature is to corrupt and to lead Allah's servants astray, while this Book holds the command to do right and the forbidding of wrong, light, guidance and a mighty proof. Between it and the devils, he concludes, there is a great incompatibility. The word he uses, munafat, means two things that cannot occupy the same place.",
+            "bn": "ইবন কাসীরের প্রথম কারণটি এ আয়াতের অধীনেই: এ কাজ তাদের মানায় না। তিনি বলেন, এটা তাদের চাওয়া বা খোঁজার জিনিস নয়। কারণ বিপর্যয় ঘটানো আর আল্লাহর বান্দাদের পথভ্রষ্ট করাই তাদের স্বভাব। অথচ এই কিতাবে আছে সৎকাজের আদেশ আর অসৎকাজের নিষেধ, আছে আলো, হিদায়াত আর মহা প্রমাণ। তাই তাঁর সিদ্ধান্ত, কিতাব আর শয়তানদের মধ্যে বিরাট মুনাফাত। শব্দটির মানে এমন দুটি জিনিস, যারা এক জায়গায় থাকতে পারে না।"
+          },
+          {
+            "en": "The second and third reasons belong to 26:211 and 26:212, and are only pointed to here: even if they wished it, they could not do it, and they are kept far from hearing it. For the last, Ibn Kathir says the heavens were filled with stern guards and shooting stars while the Qur'an was being sent down, so that no devil got through to hear a single letter of it, lest the matter be confused. That, he adds, is part of Allah's mercy to His servants, His keeping of His law and His support of His Book and His Messenger.",
+            "bn": "দ্বিতীয় ও তৃতীয় কারণ ২৬:২১১ ও ২৬:২১২ আয়াতের বিষয়, এখানে শুধু ইঙ্গিত দেওয়া হলো। চাইলেও তারা এটা পারত না, আর একে শোনা থেকেও তাদের দূরে রাখা হয়েছে। শেষ কারণটির ব্যাখ্যায় ইবন কাসীর বলেন, কুরআন নাজিলের পুরো সময়টায় আকাশ কড়া প্রহরী আর উল্কায় ভরে দেওয়া হয়েছিল। ফলে কোনো শয়তান এর একটি হরফও শুনতে পৌঁছাতে পারেনি, যাতে বিষয়টা গুলিয়ে না যায়। তিনি যোগ করেন, এটা বান্দাদের প্রতি আল্লাহর রহমত, তাঁর শরীয়তের হেফাজত, আর তাঁর কিতাব ও রাসূলের প্রতি তাঁর সমর্থন।"
+          },
+          {
+            "en": "The Muyassar folds all of this into its note on this verse: the devils did not bring the Qur'an down upon Muhammad, as the disbelievers claim; it is not right for them, nor can they do it, because they are screened from hearing the Qur'an from heaven and pelted with shooting stars. At-Tabari, on the next verse, gives the same reason in a line: they cannot descend with it, because they do not reach the place in heaven where it is, to hear it.",
+            "bn": "মুয়াসসার এ আয়াতের ব্যাখ্যাতেই সবটা গুছিয়ে বলে। কাফিররা যেমন দাবি করে, শয়তানরা কুরআন নিয়ে মুহাম্মাদের উপর নামেনি। এ কাজ তাদের জন্য সঠিক নয়, তাদের সাধ্যেও নেই। কারণ আকাশ থেকে কুরআন শোনার পথ তাদের জন্য আড়াল করা, উল্কা দিয়ে তাদের তাড়িয়ে দেওয়া হয়। তাবারী পরের আয়াতে একই কারণ দেন এক বাক্যে: আকাশের যেখানে কুরআন আছে, শোনার জন্য সেখানে তারা পৌঁছাতেই পারে না, তাহলে এটা নিয়ে নামবে কীভাবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Message Shows Its Sender",
+          "bn": "বার্তাই চিনিয়ে দেয় প্রেরককে"
+        },
+        "p": [
+          {
+            "en": "Of the three reasons, the first is what a listener could test without seeing anything hidden. Nobody in Makkah could inspect the sky. Anyone could listen to what the recitation asked of them. The verses that follow it, in 26:213 to 26:215, forbid calling on any god beside Allah, tell the Prophet ﷺ to warn his nearest kin, and tell him to lower his wing to the believers who follow him. A source whose trade is corruption does not dictate that.",
+            "bn": "তিনটি কারণের মধ্যে প্রথমটিই এমন, যা কোনো গোপন জিনিস না দেখেও শ্রোতা যাচাই করতে পারত। মক্কার কেউ আকাশে উঠে দেখে আসতে পারত না। কিন্তু তিলাওয়াত তাদের কাছে কী চায়, তা যে কেউ কান পেতে শুনতে পারত। এ আয়াতের ঠিক পরে ২৬:২১৩ থেকে ২৬:২১৫ পর্যন্ত আয়াতগুলো আল্লাহর সঙ্গে অন্য কোনো ইলাহকে ডাকতে নিষেধ করে। নবী ﷺ-কে বলে নিকটাত্মীয়দের সতর্ক করতে, আর অনুসারী মুমিনদের প্রতি বিনয়ের ডানা নামিয়ে দিতে। যার কারবারই বিপর্যয়, সে এমন কথা শেখায় না।"
+          },
+          {
+            "en": "This is proof by fit rather than by mystery. The accusers asked their hearers to believe something about the unseen that no one could check. The answer points them back to something they could check every day: what the words told them to do. A message that pulls towards worshipping God alone, warning one's nearest kin and gentleness with the believers pulls in the opposite direction from the beings it was blamed on. Ibn Kathir's incompatibility is exactly that: the claimed source and the content cannot stand together.",
+            "bn": "এ প্রমাণ রহস্যের উপর দাঁড়ানো নয়, মিলের উপর। অভিযোগকারীরা শ্রোতাদের এমন এক অদৃশ্য বিষয় মানতে বলছিল, যা কেউ যাচাই করতে পারে না। জবাবটা তাদের ফিরিয়ে আনে এমন জিনিসের দিকে, যা প্রতিদিনই যাচাই করা যায়: কথাগুলো তাদের কী করতে বলে। যে বার্তা একমাত্র আল্লাহর ইবাদত, আপনজনদের সতর্ক করা আর মুমিনদের প্রতি কোমলতার দিকে টানে, তা ঠিক উল্টো দিকে টানে তাদের থেকে, যাদের ঘাড়ে এর দায় চাপানো হয়েছিল। ইবন কাসীরের মুনাফাত এটাই: দাবি করা উৎস আর বার্তার বিষয়বস্তু একসঙ্গে দাঁড়াতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "On the Road to 'Ukaz",
+          "bn": "উকাযের পথে এক ভোর"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. A sound report in al-Bukhari, placed in his commentary on Surat al-Jinn, describes the barrier from the devils' side, and is given here as general background, not as a comment on this verse. Ibn 'Abbas (RA) narrated: \"Allah's Messenger (ﷺ) went out along with a group of his companions towards 'Ukaz Market. At that time something intervened between the devils and the news of the Heaven, and flames were sent down upon them, so the devils returned.\"",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জোড়েনি। বুখারী সূরা জিনের তাফসীর অংশে একটি সহীহ বর্ণনা রেখেছেন, যা বাধাটাকে দেখায় শয়তানদের দিক থেকে। এখানে তা আনা হলো সাধারণ পটভূমি হিসেবে, এ আয়াতের ব্যাখ্যা হিসেবে নয়। ইবন আব্বাস (রাঃ) বলেন: আল্লাহর রাসূল ﷺ একদল সাহাবীকে নিয়ে উকায বাজারের দিকে রওনা হলেন। সে সময় শয়তানদের আর আকাশের খবরের মাঝে কিছু একটা আড়াল হয়ে দাঁড়াল, তাদের উপর ছোড়া হলো উল্কা। শয়তানরা ফিরে গেল।"
+          },
+          {
+            "en": "What follows in the same report (Sahih al-Bukhari 4921) is given here in summary, not in its words. The devils were told that some new event lay behind the barrier, and were sent east and west to find it. Those who went towards Tihama came upon him at Nakhla as he led his companions in the Fajr prayer. They listened to the Qur'an and concluded that this was what had come between them and the news of heaven. The very Book the idolaters credited to devils was what the jinn found had shut them out.",
+            "bn": "একই বর্ণনার (সহীহ বুখারী ৪৯২১) বাকি অংশ এখানে হুবহু নয়, সংক্ষেপে বলা হলো। শয়তানদের বলা হলো, এই বাধার পেছনে নিশ্চয়ই নতুন কোনো ঘটনা আছে, আর তাদের পাঠানো হলো পূর্ব-পশ্চিমে তা খুঁজতে। যারা তিহামার দিকে গিয়েছিল, তারা নাখলায় পৌঁছে দেখল তিনি সাহাবীদের নিয়ে ফজরের নামাজ পড়াচ্ছেন। তারা কুরআন শুনল এবং বুঝে নিল, এটাই তাদের আর আকাশের খবরের মাঝে আড়াল হয়ে দাঁড়িয়েছে। মুশরিকরা যে কিতাবের কৃতিত্ব শয়তানদের দিচ্ছিল, জিনেরা দেখল সেই কিতাবই তাদের পথ বন্ধ করেছে।"
+          },
+          {
+            "en": "Ibn Kathir, on the same group of verses, cites the jinn's own words in 72:8 to 72:10: they touched the sky and found it filled with stern guards and flames, and whoever listens now finds a flame lying in wait for him. The picture of a guarded sky recurs in 37:6 to 37:10, and al-Qurtubi refers his reader back to what he wrote on the shooting stars in Surat al-Hijr. Those passages are cited here only as parallels; each has its own context.",
+            "bn": "একই আয়াতগুচ্ছে ইবন কাসীর জিনদের নিজেদের কথা উদ্ধৃত করেন, ৭২:৮ থেকে ৭২:১০ আয়াতে: তারা আকাশ ছুঁয়ে দেখেছে, তা কড়া প্রহরী আর আগুনের শিখায় ভরা, আর এখন যে আড়ি পাততে যায়, সে দেখে এক শিখা তার জন্য ওত পেতে আছে। পাহারায় ঘেরা আকাশের ছবি ৩৭:৬ থেকে ৩৭:১০ আয়াতেও আছে। কুরতুবী পাঠককে উল্কা নিয়ে সূরা হিজরে লেখা তাঁর আলোচনার দিকে ফিরিয়ে দেন। এ অংশগুলো এখানে শুধু সমান্তরাল হিসেবে আনা হলো, প্রতিটির নিজস্ব প্রসঙ্গ আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Answer, Not an Accusation",
+          "bn": "জবাব, অভিযোগ নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse answers a claim about where the Qur'an came from. It describes what the text describes, the charge some idolaters made and its refutation, and it licenses nothing against any living person or community. As-Sa'di's phrase, devils of mankind, describes those the Book is guarded from; it is not a label for a reader to pin on a neighbour, a critic, or anyone who questions the Qur'an.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি কুরআনের উৎস নিয়ে একটি দাবির জবাব দেয়। কিছু মুশরিক যে অভিযোগ তুলেছিল আর তার যে খণ্ডন, আয়াত শুধু সেটুকুই বর্ণনা করে। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। সা'দীর 'মানুষ শয়তান' কথাটি বলে, কাদের থেকে কিতাবকে হেফাজত করা হয়েছে। প্রতিবেশী, সমালোচক বা কুরআন নিয়ে প্রশ্ন তোলা কারও গায়ে লাগানোর তকমা এটা নয়।"
+          },
+          {
+            "en": "The surah returns to the devils in 26:221 to 26:223, asking on whom they do descend; that answer has its own page at 26:222 and is not repeated here. This verse hands its reader an argument to weigh, not a verdict to pass. Whoever doubts the Qur'an's source is met, in the surah's own manner, with reasons: who carried it, what it calls to, and why the alleged carriers could not have carried it.",
+            "bn": "২৬:২২১ থেকে ২৬:২২৩ আয়াতে সূরাটি আবার শয়তানদের প্রসঙ্গে ফেরে, জিজ্ঞেস করে তারা আসলে কাদের উপর নামে। সে জবাবের আলোচনা ২৬:২২২-এর নিজস্ব লেখায় আছে, এখানে আর টানা হলো না। এ আয়াত পাঠকের হাতে তুলে দেয় ওজন করে দেখার মতো একটা যুক্তি, কারও উপর রায় দেওয়ার হুকুম নয়। কুরআনের উৎস নিয়ে যার সন্দেহ, সূরাটি নিজের ধারায় তাকে কারণ দেখায়: কে এটা এনেছেন, এটা কিসের দিকে ডাকে, আর যাদের নাম জড়ানো হয়েছিল তারা কেন এটা আনতে পারত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Testing Every Voice",
+          "bn": "প্রতিটি কণ্ঠের যাচাই"
+        },
+        "p": [
+          {
+            "en": "Turned towards the reader, the verse first offers a test. Many voices today claim to know what others cannot: about the unseen and about the future. The surah's way of answering one such claim is open to anyone. Ask what the voice calls you to. If it pulls you towards worship of Allah alone, honesty, keeping ties and mercy, it is at least pulling the right way. If it pulls towards fear, division or harm, its claim to come from above has already answered itself.",
+            "bn": "পাঠকের দিকে ফিরলে আয়াতটি প্রথমে একটা পরীক্ষার পথ দেখায়। আজও নানা কণ্ঠ দাবি করে, তারা এমন কিছু জানে যা অন্যরা জানে না: গায়েবের কথা, ভবিষ্যতের কথা। এমন এক দাবির জবাব সূরাটি যেভাবে দিয়েছে, সে পথ সবার জন্য খোলা। দেখুন সে কণ্ঠ আপনাকে কিসের দিকে ডাকে। একমাত্র আল্লাহর ইবাদত, সততা, আত্মীয়তা আর দয়ার দিকে টানলে অন্তত দিকটা ঠিক। ভয়, বিভেদ বা ক্ষতির দিকে টানলে উপর থেকে আসার দাবির জবাব সে নিজেই দিয়ে ফেলেছে।"
+          },
+          {
+            "en": "It also steadies how the Book is held. As-Sa'di's sentence gave the protection two times, at its descent and after it. The words a reader opens were not pieced together from scraps overheard at the edge of the sky, and they were not left unguarded once they reached the earth. That is a reason to read with trust rather than suspicion, and to bring to the page the attention owed to a message delivered whole.",
+            "bn": "কিতাবকে কীভাবে ধরবেন, আয়াতটি সেখানেও মনকে স্থির করে। সা'দীর বাক্যে হেফাজতের সময় দুটি: নাজিলের মুহূর্ত, আর তার পরে। পাঠক যে কথাগুলো খোলেন, সেগুলো আকাশের কিনারায় আড়ি পেতে কুড়ানো টুকরো জোড়া দিয়ে বানানো নয়। আর পৃথিবীতে পৌঁছানোর পর সেগুলোকে অরক্ষিতও ফেলে রাখা হয়নি। তাই সন্দেহ নিয়ে নয়, ভরসা নিয়ে পড়ার কারণ আছে। পুরোপুরি পৌঁছে দেওয়া বার্তার প্রতি যে মনোযোগ প্রাপ্য, পাতা খোলার সময় সেটুকু নিয়ে বসার কারণও আছে।"
+          },
+          {
+            "en": "And it turns back on our own words. If what a message calls to shows where it came from, the same is true of what we say. Speech that spreads corruption and leads people astray has the mark Ibn Kathir gave the devils; speech that commands right, forbids wrong and gives light carries the mark of the Book. The verse asks which kind of carrier our words make us.",
+            "bn": "শেষে আয়াতটি ফিরে আসে আমাদের নিজেদের কথায়। বার্তা কিসের দিকে ডাকে, তা যদি বলে দেয় সেটা কোথা থেকে এল, তবে আমাদের কথার বেলাতেও তা-ই সত্য। যে কথা বিপর্যয় ছড়ায় আর মানুষকে পথ থেকে সরায়, তার গায়ে সেই চিহ্ন, যা ইবন কাসীর শয়তানদের স্বভাব বলে চিনিয়েছেন। যে কথা সৎকাজের আদেশ দেয়, অসৎকাজে বাধা দেয়, আলো ছড়ায়, তার গায়ে কিতাবের চিহ্ন। আয়াত জানতে চায়, আমাদের কথা আমাদের কোন ধরনের বাহক বানায়।"
+          }
+        ]
+      }
+    ]
+  },
   "26:214": {
     "sections": [
       {
