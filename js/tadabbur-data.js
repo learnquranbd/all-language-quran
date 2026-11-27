@@ -36733,6 +36733,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not wait at the edges while the truth is threatened. Go to your people with care, call them your own, and urge them towards those who guide.",
     "lessonBn": "সত্য যখন হুমকির মুখে, তখন দূরে দাঁড়িয়ে থাকবেন না। দরদ নিয়ে নিজের লোকদের কাছে যান, তাদের আপন বলে ডাকুন, আর যারা সঠিক পথ দেখান তাঁদের অনুসরণের দিকে ডাকুন।"
+  },
+  "36:31": {
+    "reflectionEn": "Right after the lament over servants who mocked every messenger, the surah asks a question that carries its own answer: have they not seen how many generations We destroyed before them, and that they do not come back to them? The peoples before were strong, crowded and sure of themselves, and not one of them returned to tell the living what lies beyond. The road out of this world runs one way. That is meant to sober, not to crush, for the very next verse says that all of them will be brought before Him. My own generation is one of those many. I walk where others walked, and I will leave as they left. What am I doing with the one turn I am given?",
+    "reflectionBn": "প্রত্যেক রসূলকে যারা ঠাট্টা করেছে, সেই বান্দাদের জন্য আফসোসের পরপরই সূরা একটি প্রশ্ন তোলে, যার উত্তর প্রশ্নের ভেতরেই আছে: তারা কি দেখে না, তাদের আগে আমি কত প্রজন্মকে ধ্বংস করেছি, আর তারা তাদের কাছে আর ফিরে আসে না? আগের জাতিগুলো শক্তিশালী ছিল, সংখ্যায় ভারী ছিল, নিজেদের নিয়ে নিশ্চিন্ত ছিল। তবু তাদের একজনও ফিরে এসে জীবিতদের বলেনি ওপারে কী আছে। এ দুনিয়া থেকে বেরোনোর রাস্তা একমুখী। কথাটা মানুষকে সজাগ করার জন্য, ভেঙে দেওয়ার জন্য নয়। কারণ ঠিক পরের আয়াতই বলে, তাদের সবাইকে তাঁর সামনে হাজির করা হবে। আমার প্রজন্মও সেই অসংখ্য প্রজন্মের একটি। অন্যরা যেখানে হেঁটে গেছে, আমিও সেখানে হাঁটছি, আর তারা যেভাবে চলে গেছে, আমিও সেভাবে চলে যাব। যে একটিমাত্র সুযোগ আমাকে দেওয়া হয়েছে, তা দিয়ে আমি কী করছি?",
+    "pointsEn": [
+      "Whose grave or empty house have I passed this year without stopping to think that they too once felt permanent?",
+      "If no one goes back to set things right, what should I settle today: a debt, an apology, a prayer I keep putting off?",
+      "Do I read the stories of earlier peoples as history about others, or as a warning about the road I am on?",
+      "When disaster strikes a people, do I rush to call it their punishment, or turn the lesson back on myself?",
+      "Since every one of us will be brought before Him, what do I want to be carrying when my turn comes?"
+    ],
+    "pointsBn": [
+      "এ বছর কার কবর বা কার ফাঁকা বাড়ির পাশ দিয়ে আমি হেঁটে গেছি, অথচ একবারও ভাবিনি যে তারাও একসময় নিজেদের চিরস্থায়ী ভাবত?",
+      "কেউ যদি ফিরে এসে ভুল শুধরে নিতে না পারে, তবে আজই আমার কী মিটিয়ে ফেলা উচিত: কোনো ঋণ, কোনো ক্ষমা চাওয়া, নাকি যে নামাজ বারবার পিছিয়ে দিচ্ছি?",
+      "আগের জাতিগুলোর কাহিনি আমি কি অন্যদের ইতিহাস হিসেবে পড়ি, নাকি আমার নিজের পথের সতর্কবার্তা হিসেবে?",
+      "কোনো জনগোষ্ঠীর উপর বিপর্যয় নেমে এলে আমি কি তাড়াহুড়ো করে সেটাকে তাদের শাস্তি বলে দিই, নাকি শিক্ষাটা নিজের দিকে ফিরিয়ে আনি?",
+      "আমাদের প্রত্যেককেই যেহেতু তাঁর সামনে হাজির করা হবে, আমার পালা এলে আমি সঙ্গে কী নিয়ে যেতে চাই?"
+    ],
+    "lessonEn": "Those who went before you have not come back, and you will not either. Spend your one life well, for every soul will be brought before Allah.",
+    "lessonBn": "আপনার আগে যারা চলে গেছে, তারা আর ফিরে আসেনি, আপনিও ফিরবেন না। তাই একমাত্র জীবনটা ভালো কাজে লাগান, কারণ প্রত্যেককেই আল্লাহর সামনে হাজির করা হবে।"
   }
 };
 

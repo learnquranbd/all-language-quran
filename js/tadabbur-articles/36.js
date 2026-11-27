@@ -1319,6 +1319,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "36:31": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Lament to Question",
+          "bn": "আফসোস থেকে প্রশ্নে"
+        },
+        "p": [
+          {
+            "en": "Ya Sin has just closed the story of the town. One shout silenced the people who killed the man who believed, and 36:30 turned from them to all mankind: alas for the servants, no messenger ever came to them but they mocked him. Then comes a question: a-lam yaraw kam ahlakna qablahum mina al-quruni annahum ilayhim la yarji'un. Have they not seen how many generations We destroyed before them, that they do not return to them? In eleven Arabic words the lament becomes an argument.",
+            "bn": "ইয়াসীন এইমাত্র জনপদের কাহিনি শেষ করেছে। যারা ঈমান আনা মানুষটিকে হত্যা করেছিল, একটিমাত্র বিকট শব্দে তারা নিস্তব্ধ হয়ে গেছে। তারপর ৩৬:৩০ আয়াত তাদের ছেড়ে গোটা মানবজাতির দিকে ফিরেছে: বান্দাদের জন্য আফসোস, তাদের কাছে এমন কোনো রসূল আসেননি যাঁকে তারা ঠাট্টা করেনি। এরপর আসে একটি প্রশ্ন: আলাম ইয়ারাও কাম আহলাকনা কাবলাহুম মিনাল কুরূনি আন্নাহুম ইলাইহিম লা ইয়ারজিঊন। তারা কি দেখে না, তাদের আগে আমি কত প্রজন্মকে ধ্বংস করেছি, আর তারা তাদের কাছে ফিরে আসে না? আরবিতে মাত্র ১১টি শব্দ, আর তাতেই আফসোস রূপ নেয় যুক্তিতে।"
+          },
+          {
+            "en": "Who are they? The commentators fetched for this verse bring it home to the Prophet's ﷺ own audience. At-Tabari reads it as Allah saying: have these who associate partners with Allah from your people, O Muhammad, not seen how many generations We destroyed before them, for denying Our messengers and disbelieving in Our signs? Al-Baghawi names them in two words, the people of Makkah. The Muyassar ties the verse to the preceding verse: have these mockers not seen, and taken a lesson from the generations before them?",
+            "bn": "এই 'তারা' কারা? এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, সেগুলো কথাটিকে নবী ﷺ-এর সমকালীন শ্রোতাদের দিকেই ফেরায়। তাবারীর ব্যাখ্যায় আল্লাহ যেন বলছেন: হে মুহাম্মাদ, তোমার কওমের এই মুশরিকরা কি দেখে না, আমার রসূলদের মিথ্যা বলা আর আমার আয়াত অস্বীকার করার কারণে তাদের আগে আমি কত প্রজন্মকে ধ্বংস করেছি? বাগাভী দুই শব্দে তাদের নাম বলে দেন: মক্কার লোকেরা। মুয়াসসার আয়াতটিকে আগের আয়াতের সঙ্গে জুড়ে দেয়: এই ঠাট্টাকারীরা কি দেখে না, আর আগের প্রজন্মগুলো থেকে শিক্ষা নেয় না?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seeing by Report",
+          "bn": "শুনে জানা, দেখার মতো"
+        },
+        "p": [
+          {
+            "en": "The verb is yaraw, they see, yet none of these listeners had stood among the peoples of old when they fell. Al-Baghawi meets that directly by glossing a-lam yaraw as a-lam yukhbaru: have they not been informed? The seeing here is knowledge that reached them by report, and the verse addresses that knowledge as though it were sight. What everyone has heard about is held up to them as something they have looked at with their own eyes and cannot claim to have missed.",
+            "bn": "ক্রিয়াটি ইয়ারাও, তারা দেখে। অথচ এই শ্রোতাদের কেউই আগের জাতিগুলোর পতনের সময় সেখানে উপস্থিত ছিল না। বাগাভী ঠিক এ জায়গাটাই খুলে দেন। তাঁর ব্যাখ্যায় আলাম ইয়ারাও মানে আলাম ইউখবারূ: তাদের কি জানানো হয়নি? অর্থাৎ এখানে দেখা মানে খবরের মাধ্যমে পাওয়া জ্ঞান, আর আয়াত সেই জ্ঞানকে চোখে দেখার মতো করেই সামনে রাখে। যে কথা সবার কানে পৌঁছেছে, তা তাদের সামনে এমনভাবে তুলে ধরা হয় যেন তারা নিজের চোখে দেখেছে। কাজেই না জানার অজুহাত তাদের নেই।"
+          },
+          {
+            "en": "The other commentators read the seeing as a call to draw a lesson. Ibn Kathir paraphrases it as a-lam yatta'izu: have they not taken admonition from those Allah destroyed before them, among the people who denied the messengers? As-Sa'di and the Muyassar both pair the seeing with i'tibar, taking warning: let them look, and learn from the generations before them. Seeing, then, is not the whole point; what one does with it is. A people can know every story and still let none of them touch their conduct.",
+            "bn": "বাকি তাফসীরকারেরা এই দেখাকে শিক্ষা নেওয়ার ডাক হিসেবে পড়েন। ইবন কাসীর এর অর্থ করেন আলাম ইয়াত্তাইযূ: রসূলদের যারা মিথ্যা বলেছিল, আল্লাহ তাদের মধ্যে যাদের আগে ধ্বংস করেছেন, তাদের থেকে কি এরা উপদেশ নেয় না? সা'দী আর মুয়াসসার দুজনেই দেখার সঙ্গে জুড়ে দেন ই'তিবার, মানে সতর্ক হওয়া। তারা তাকাক, আর আগের প্রজন্মগুলো থেকে শিক্ষা নিক। তাই আসল কথা শুধু দেখা নয়, দেখার পর মানুষ কী করে সেটাই। একটি জাতি সব কাহিনি জানতে পারে, তবু কোনোটিকেই নিজের আচরণে ছুঁতে দিতে না-ও পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Countless Companies of People",
+          "bn": "অগণিত যুগের মানুষ"
+        },
+        "p": [
+          {
+            "en": "Kam, how many, is not asking for a figure. Al-Qurtubi reports Sibawayh's judgement that kam here carries the sense of khabar, a statement, and not of a question. It announces a number too large to be worth counting. The verse asks whether they have not seen; it does not ask them how many. It tells them the number is great, and leaves them to imagine the crowd of the dead standing behind each name they happen to know.",
+            "bn": "কাম মানে কত, কিন্তু এখানে কোনো সংখ্যা জানতে চাওয়া হচ্ছে না। কুরতুবী সিবাওয়াইহের মত উল্লেখ করেন: এ জায়গায় কাম খবর অর্থে, অর্থাৎ বিবরণ দিচ্ছে, প্রশ্ন করছে না। এটি এমন এক সংখ্যার ঘোষণা, যা গুনে শেষ করার মতো নয়। আয়াতের প্রশ্ন হলো, তারা কি দেখে না। কতজন, সে প্রশ্ন আয়াত তাদের করে না। বরং জানিয়ে দেয় সংখ্যাটা বিশাল। আর তাদের হাতে ছেড়ে দেয় কল্পনাটুকু: যে কয়টা নাম তারা জানে, তার প্রতিটির পেছনে মৃতদের কত বড় ভিড় দাঁড়িয়ে আছে।"
+          },
+          {
+            "en": "Then al-quruna, the generations. Al-Baghawi defines a qarn as the people of every age, so called because of their iqtiran, their being joined together in existence. A qarn here is less a span of years than a company of people who lived side by side and passed on together. At-Tabari gives Qatada's reading of the word: 'Ad and Thamud, and many generations between them, words that echo 25:38. Qatada names two peoples and leaves the rest as an unnamed crowd, which is just the force of kam.",
+            "bn": "তারপর আল-কুরূন, প্রজন্মগুলো। বাগাভীর সংজ্ঞায় কারন হলো প্রতিটি যুগের মানুষ। এ নাম দেওয়া হয়েছে তাদের ইকতিরানের কারণে, মানে অস্তিত্বে তারা একসঙ্গে জুড়ে থাকে। তাই এখানে কারন যতটা না বছরের হিসাব, তার চেয়ে বেশি একদল মানুষ, যারা পাশাপাশি বেঁচেছে আর একসঙ্গে বিদায় নিয়েছে। তাবারী শব্দটির ব্যাখ্যায় কাতাদার কথা আনেন: আদ ও সামূদ, আর তাদের মাঝে আরও বহু প্রজন্ম। কথাটি ২৫:৩৮ আয়াতের শব্দের প্রতিধ্বনি। কাতাদা দুটি জাতির নাম বলেন, বাকিদের রেখে দেন নামহীন ভিড় হিসেবে। কাম শব্দের জোর ঠিক এখানেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Grammarians Argue Over Kam",
+          "bn": "কাম নিয়ে ব্যাকরণবিদদের তর্ক"
+        },
+        "p": [
+          {
+            "en": "The grammar of the verse drew a long argument, and al-Qurtubi keeps it. Sibawayh, he reports, made annahum a badal, a substitute, for kam: because kam here is a statement and not a question, something that is not a question may stand in its place. The sense then runs: have they not seen that the generations We destroyed do not return to them? Al-Farra' allowed kam to be in the accusative for one of two reasons, governed either by yaraw or by ahlakna.",
+            "bn": "আয়াতের ব্যাকরণ নিয়ে লম্বা তর্ক হয়েছে, আর কুরতুবী সেটা সংরক্ষণ করেছেন। তাঁর বর্ণনায় সিবাওয়াইহ আন্নাহুম শব্দটিকে কাম-এর বদল, অর্থাৎ স্থলাভিষিক্ত ধরেছেন। কারণ এখানে কাম প্রশ্ন নয়, বিবরণ। তাই যা প্রশ্ন নয়, তা-ও এর জায়গায় বসতে পারে। তখন অর্থ দাঁড়ায়: তারা কি দেখে না যে আমি যে প্রজন্মগুলো ধ্বংস করেছি, তারা তাদের কাছে ফিরে আসে না? ফাররা বলেছেন, কাম যবরযুক্ত হতে পারে দুই কারণের যেকোনো একটিতে। হয় ইয়ারাও ক্রিয়া তার উপর কাজ করছে, নয়তো আহলাকনা।"
+          },
+          {
+            "en": "For the first option al-Farra' cited the recitation of Ibn Mas'ud (RA), a-lam yaraw man ahlakna, have they not seen whom We destroyed, where man is plainly the object of seeing. An-Nahhas, whom al-Qurtubi quotes next, called that first option impossible. Kam cannot be governed by a word placed before it, he argued, since as a question it cannot enter into the statement that precedes it, and the rule is the same when kam is a statement. He adds that Sibawayh had hinted at part of this in making annahum a substitute for kam.",
+            "bn": "প্রথম মতের পক্ষে ফাররা ইবন মাসউদ (রাঃ)-এর কিরাআত পেশ করেছেন: আলাম ইয়ারাও মান আহলাকনা, তারা কি দেখে না আমি কাদের ধ্বংস করেছি? এখানে মান যে দেখার কর্ম, তা স্পষ্ট। কুরতুবী এরপর নাহহাসের কথা আনেন। নাহহাস এই প্রথম মতকে অসম্ভব বলেছেন। তাঁর যুক্তি হলো, কাম-এর আগে বসা কোনো শব্দ তার উপর কাজ করতে পারে না। প্রশ্নবোধক হিসেবে আগের বাক্যের বিবরণের ভেতরে সে ঢুকতে পারে না, আর কাম বিবরণ অর্থে এলেও নিয়ম একই। তিনি এ-ও যোগ করেন যে সিবাওয়াইহ আন্নাহুমকে কাম-এর বদল ধরে এর কিছুটার দিকে ইঙ্গিত দিয়েছিলেন।"
+          },
+          {
+            "en": "Muhammad ibn Yazid, al-Qurtubi goes on, rejected that construction in the strongest terms. For him kam is the object of ahlakna, and annahum stands for bi-annahum, by the fact that they do not return: have they not seen how many generations We destroyed before them, by uprooting them? He too pointed to the recitation of 'Abd Allah, man ahlakna. At-Tabari, more briefly, lets kam depend on either verb, as you wish. The disagreement is kept here as al-Qurtubi keeps it, without a verdict; on every view the generations are many, and they are gone.",
+            "bn": "কুরতুবী আরও জানান, মুহাম্মাদ ইবন ইয়াযীদ ওই গঠন কঠোরভাবে প্রত্যাখ্যান করেছেন। তাঁর মতে কাম হলো আহলাকনা ক্রিয়ার কর্ম, আর আন্নাহুম মানে বি-আন্নাহুম, অর্থাৎ এভাবে যে তারা আর ফেরে না। অর্থ দাঁড়ায়: তারা কি দেখে না, তাদের আগে আমি কত প্রজন্মকে সমূলে উপড়ে ধ্বংস করেছি? তিনিও প্রমাণ হিসেবে আবদুল্লাহর কিরাআত মান আহলাকনা উল্লেখ করেন। তাবারী সংক্ষেপে বলেন, চাইলে কাম-কে যেকোনো ক্রিয়ার সঙ্গে যুক্ত করা যায়। কুরতুবী যেভাবে মতভেদটা রেখেছেন, এখানেও তা সেভাবেই থাকল, কোনো রায় ছাড়া। যে মতই নিন, প্রজন্মগুলো অসংখ্য, আর তারা চলে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fatha or Kasra on Annahum",
+          "bn": "আন্নাহুম না ইন্নাহুম"
+        },
+        "p": [
+          {
+            "en": "A second question concerns the first letter of annahum. At-Tabari explains that its alif is read with fatha, anna, because yaraw acts on it: have they not seen that they do not return. He also records, without naming the reader, that one of them read it with kasra, inna, as a fresh start, leaving yaraw without effect on it. Al-Qurtubi gives the name: al-Hasan recited innahum ilayhim la yarji'un, with kasra on the hamza, as the opening of a new sentence.",
+            "bn": "দ্বিতীয় প্রশ্নটি আন্নাহুম শব্দের প্রথম অক্ষর নিয়ে। তাবারী ব্যাখ্যা করেন, এর আলিফ পড়া হয় যবর দিয়ে, আন্না, কারণ ইয়ারাও ক্রিয়া এর উপর কাজ করছে: তারা কি দেখে না যে তারা ফেরে না। পাঠকের নাম না বলে তিনি এ-ও জানান, একজনের সম্পর্কে বর্ণিত আছে যে তিনি যের দিয়ে ইন্না পড়েছেন, নতুন বাক্যের শুরু হিসেবে, যেখানে ইয়ারাও-এর কোনো প্রভাব নেই। কুরতুবী নামটা বলে দেন: হাসান পড়েছেন ইন্নাহুম ইলাইহিম লা ইয়ারজিঊন, হামযায় যের দিয়ে, নতুন বাক্যের সূচনা হিসেবে।"
+          },
+          {
+            "en": "The two readings shift the stress a little. With anna, the not-returning is part of what the listeners are told to see: the many generations and their absence belong to one view. With inna, the verse first asks its question and then announces, as a separate fact, that they do not come back to them. Either way the clause stands at the end of the verse, where the weight falls, and it is here that several commentators turn from grammar to belief.",
+            "bn": "দুই কিরাআতে জোরের জায়গা খানিকটা সরে যায়। আন্না পড়লে না-ফেরার ব্যাপারটাও সেই দৃশ্যের অংশ, যা শ্রোতাদের দেখতে বলা হচ্ছে। অসংখ্য প্রজন্ম আর তাদের অনুপস্থিতি, দুটো মিলে একটাই ছবি। ইন্না পড়লে আয়াত আগে প্রশ্নটা করে, তারপর আলাদা এক সত্য হিসেবে ঘোষণা দেয়: তারা তাদের কাছে আর ফেরে না। যেভাবেই পড়া হোক, বাক্যাংশটি বসেছে আয়াতের শেষে, যেখানে ভার পড়ে সবচেয়ে বেশি। আর এখানে এসেই কয়েকজন তাফসীরকার ব্যাকরণ ছেড়ে আকীদার আলোচনায় যান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Road Back to This World",
+          "bn": "দুনিয়ায় ফেরার পথ বন্ধ"
+        },
+        "p": [
+          {
+            "en": "Return to whom, and to what? The pronouns sit close together: annahum, that they, are the destroyed; ilayhim, to them, are the living who ought to be watching. The commentators supply where the return would be. The Muyassar: they do not return to this world. Al-Baghawi: they do not go back to the world. Ibn Kathir: there was for them no karra and no raj'a, no second turn and no coming back, to this world. As-Sa'di: all of them perished and were finished, and they did not return to the world and will not.",
+            "bn": "কার কাছে ফেরা, আর কোথায় ফেরা? সর্বনাম দুটি পাশাপাশি বসেছে। আন্নাহুম, অর্থাৎ তারা, হলো ধ্বংস হয়ে যাওয়া লোকেরা। ইলাইহিম, তাদের কাছে, হলো জীবিতরা, যাদের তাকিয়ে দেখার কথা। ফেরাটা কোথায় হতো, তাফসীরকারেরা তা বলে দেন। মুয়াসসার: তারা এই দুনিয়ায় ফেরে না। বাগাভী: তারা দুনিয়ায় ফিরে যায় না। ইবন কাসীর: এই দুনিয়ায় তাদের জন্য কোনো কাররা নেই, কোনো রাজআ নেই, মানে দ্বিতীয় পালাও নেই, ফিরে আসাও নেই। সা'দী: তারা সবাই ধ্বংস হয়ে নিঃশেষ হয়ে গেছে, দুনিয়ায় ফেরেনি, কখনো ফিরবেও না।"
+          },
+          {
+            "en": "Ibn Kathir names the error the verse answers. It was not, he says, as many of their ignorant and wicked ones claimed in the words of 23:37, there is nothing but our worldly life, we die and we live. These were people who held a doctrine of cycles, al-dawr, believing in their ignorance that they would come back to this world as they had been in it. The abridged English Ibn Kathir heads the passage as a refutation of the transmigration of souls. Allah answered their falsehood, Ibn Kathir says, with this very verse.",
+            "bn": "ইবন কাসীর সেই ভুল ধারণার কথা বলেন, যার জবাব এ আয়াত দিচ্ছে। তাঁর ভাষায়, ব্যাপারটা তেমন নয়, যেমন তাদের অনেক মূর্খ ও পাপাচারী লোক ২৩:৩৭ আয়াতের ভাষায় দাবি করত: আমাদের এই দুনিয়ার জীবনই সব, আমরা মরি আর বাঁচি। এরা ছিল আদ-দাওর বা চক্রের মতবাদে বিশ্বাসী। অজ্ঞতাবশত তারা ভাবত, যেমন ছিল তেমন হয়েই তারা আবার এই দুনিয়ায় ফিরে আসবে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ অংশটির শিরোনাম দিয়েছে আত্মার দেহান্তর মতবাদের খণ্ডন। ইবন কাসীর বলেন, তাদের এই বাতিল বিশ্বাসের জবাব আল্লাহ দিয়েছেন ঠিক এই আয়াত দিয়েই।"
+          },
+          {
+            "en": "Al-Qurtubi closes his entry with a different target. The verse, he writes, is a refutation of whoever claims that some of creation come back after death, before the Resurrection. The two are not the same claim. Ibn Kathir has in view people who took this life as all there is and expected to come round to it again; al-Qurtubi has in view a belief in returns to this world short of the Last Day. Both read la yarji'un as closing the road back, and neither reading needs the other to stand.",
+            "bn": "কুরতুবী তাঁর আলোচনা শেষ করেন আরেক লক্ষ্যের দিকে ইঙ্গিত করে। তিনি লেখেন, আয়াতটি তাদের খণ্ডন, যারা দাবি করে যে সৃষ্টির কেউ কেউ মৃত্যুর পর কিয়ামতের আগেই ফিরে আসে। দুটি দাবি এক নয়। ইবন কাসীরের সামনে আছে সেই লোকেরা, যারা এই জীবনকেই সব ভাবত আর আশা করত ঘুরেফিরে আবার এখানেই আসবে। কুরতুবীর সামনে আছে এমন বিশ্বাস, যাতে শেষ দিবসের আগেই এই দুনিয়ায় ফিরে আসার কথা বলা হয়। দুজনেই লা ইয়ারজিঊন থেকে বোঝেন ফেরার পথ বন্ধ। আর কোনো ব্যাখ্যাই টিকে থাকার জন্য অন্যটির উপর নির্ভর করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gone, Yet Still to Gather",
+          "bn": "চলে গেছে, তবু হাজির হবে"
+        },
+        "p": [
+          {
+            "en": "The closed road is not the end of the story, and as-Sa'di says so in the same breath. Having said that the destroyed will never return to the world, he adds that Allah will bring all of them back as a new creation and raise them after their death. The verse denies a return to this life, not a meeting beyond it. Ibn Kathir's opponents read we die and we live as a wheel with no judge; the surah breaks the wheel and keeps the judgement.",
+            "bn": "পথ বন্ধ হওয়াতেই কাহিনি শেষ নয়, সা'দী একই নিঃশ্বাসে সে কথাও বলেন। ধ্বংসপ্রাপ্তরা কখনো দুনিয়ায় ফিরবে না, এ কথা বলার পর তিনি যোগ করেন: আল্লাহ তাদের সবাইকে নতুন সৃষ্টিরূপে ফিরিয়ে আনবেন, মৃত্যুর পর তাদের আবার ওঠাবেন। আয়াত অস্বীকার করছে এই জীবনে ফেরা, ওপারের সাক্ষাৎ নয়। ইবন কাসীর যাদের খণ্ডন করেছেন, তারা 'আমরা মরি আর বাঁচি' কথাটিকে এমন এক চাকা ভাবত, যার কোনো বিচারক নেই। সূরা সেই চাকা ভেঙে দেয়, কিন্তু বিচারের দিনটি রেখে দেয়।"
+          },
+          {
+            "en": "That is exactly where the next verse goes. 36:32: and indeed, all of them will yet be brought present before Us. The abridged English Ibn Kathir explains it as all the past nations and those yet to come, gathered and brought to account before Allah on the Day of Judgement and repaid for their good and evil deeds. He pairs it with 11:111, that your Lord will repay each of them their deeds in full. The generations who never came back are not lost; they are waiting to be brought.",
+            "bn": "পরের আয়াত ঠিক সেদিকেই যায়। ৩৬:৩২: আর নিশ্চয়ই তাদের সবাইকে একত্রে আমার সামনে হাজির করা হবে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এর ব্যাখ্যা দেয় এভাবে: অতীতের সব জাতি আর যারা এখনো আসেনি, সবাইকে বিচারের দিনে আল্লাহর সামনে একত্র করা হবে, হিসাব নেওয়া হবে, আর ভালো-মন্দ আমলের প্রতিদান দেওয়া হবে। এর পাশে তিনি রাখেন ১১:১১১ আয়াত: তোমার রব প্রত্যেককে তার আমলের পুরো প্রতিদান দেবেন। যে প্রজন্মগুলো আর ফেরেনি, তারা হারিয়ে যায়নি। তারা অপেক্ষায় আছে, কখন তাদের হাজির করা হবে।"
+          },
+          {
+            "en": "Two other verses ask nearly the same question with one more detail. 20:128 and 32:26 both ask whether it has not become clear to them how many generations We destroyed before them, as they walk among their dwellings. Ya Sin leaves out the walking and keeps the absence: not where those people lived, but that they do not come back. Read together, the three verses picture listeners moving through houses whose owners will never return to them.",
+            "bn": "আরও দুটি আয়াত প্রায় একই প্রশ্ন করে, সঙ্গে বাড়তি একটি ছবি জুড়ে। ২০:১২৮ ও ৩২:২৬ দুই জায়গাতেই প্রশ্ন: তাদের কাছে কি স্পষ্ট হয়নি, তাদের আগে আমি কত প্রজন্মকে ধ্বংস করেছি, যাদের বাসস্থানের ভেতর দিয়ে তারা চলাফেরা করে? ইয়াসীন হাঁটার ছবিটা বাদ দেয়, রেখে দেয় অনুপস্থিতিটুকু। সেই লোকেরা কোথায় থাকত, তা নয়, বরং তারা যে আর ফেরে না, সেটাই এখানে মূল কথা। তিনটি আয়াত পাশাপাশি পড়লে চোখে ভাসে এমন শ্রোতাদের ছবি, যারা হেঁটে যাচ্ছে এমন সব ঘরের ভেতর দিয়ে, যার মালিকেরা আর কোনোদিন ফিরবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turned Back on the Reader",
+          "bn": "শিক্ষাটা পাঠকের নিজের দিকে"
+        },
+        "p": [
+          {
+            "en": "Say it firmly. The verse describes generations that denied their messengers and were destroyed, as the text describes them; it licenses nothing against any living person or community. It does not let anyone name a people struck by flood, earthquake or war as one of these qurun, nor treat a disaster as a verdict on its victims. The commentators fetched here apply it to those who mocked the messengers in the Prophet's ﷺ time, and to the claim of a return to this world; none of them points it at a nation living today.",
+            "bn": "কথাটা দৃঢ়ভাবে বলা দরকার। আয়াতটি সেই প্রজন্মগুলোর বর্ণনা দেয়, যারা নিজেদের রসূলদের মিথ্যা বলেছিল আর ধ্বংস হয়েছিল, ঠিক যেভাবে কুরআন তাদের বর্ণনা দিয়েছে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছু বলার অনুমতি এ আয়াত দেয় না। বন্যা, ভূমিকম্প বা যুদ্ধে আক্রান্ত কোনো জাতিকে এই কুরূনের একটি বলে চিহ্নিত করার অধিকার কারও নেই। কোনো বিপর্যয়কে তার শিকারদের বিরুদ্ধে রায় ভাবারও সুযোগ নেই। এখানে দেখা তাফসীরগুলো আয়াতটিকে প্রয়োগ করে নবী ﷺ-এর যুগে রসূলদের নিয়ে ঠাট্টাকারীদের উপর, আর দুনিয়ায় ফিরে আসার দাবির উপর। আজকের কোনো জাতির দিকে তাদের কেউ আঙুল তোলেনি।"
+          },
+          {
+            "en": "No commentary fetched for this verse attaches a hadith to it, and none is offered here. Nor do they give it an occasion of revelation; it stands where the surah placed it, between the lament of 36:30 and the gathering of 36:32. Its lesson is turned on the reader. Every generation is a qarn, a company joined together in existence for a while, and the reader's own is one of them, already walking the same one-way road.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানেও কোনো হাদীস আনা হয়নি। নাযিলের কোনো উপলক্ষও তারা উল্লেখ করেনি। সূরা আয়াতটিকে যেখানে রেখেছে, সেখানেই এর জায়গা: ৩৬:৩০ আয়াতের আফসোস আর ৩৬:৩২ আয়াতের সমাবেশের মাঝখানে। এর শিক্ষাটা ফিরে আসে পাঠকের দিকেই। প্রতিটি প্রজন্মই একেকটি কারন, কিছুকালের জন্য অস্তিত্বে একসঙ্গে জুড়ে থাকা একদল মানুষ। পাঠকের নিজের প্রজন্মও তার একটি, যা এরই মধ্যে সেই একমুখী পথে হাঁটছে।"
+          },
+          {
+            "en": "So the question that once met the mockers of Makkah meets every reader too. Have you not seen? The graves are full of people who were once as certain as we are, and not one has come back to put right what he left undone. The only time for repentance, for repaying a wrong, for the prayer long postponed, is the turn now in hand. And the road that does not return leads to 36:32, where everyone is brought.",
+            "bn": "তাই যে প্রশ্ন একদিন মক্কার ঠাট্টাকারীদের সামনে এসেছিল, তা প্রত্যেক পাঠকের সামনেও আসে। আপনি কি দেখেন না? কবরগুলো এমন মানুষে ভরা, যারা একসময় আমাদের মতোই নিশ্চিন্ত ছিল। তাদের একজনও ফিরে এসে নিজের অসমাপ্ত কাজ শুধরে নিতে পারেনি। তওবার সময়, কারও হক ফিরিয়ে দেওয়ার সময়, বহুদিন ধরে পিছিয়ে রাখা নামাজের সময় একটাই: এখন হাতে থাকা এই পালা। আর যে পথ থেকে কেউ ফেরে না, তা গিয়ে থামে ৩৬:৩২ আয়াতে, যেখানে সবাইকে হাজির করা হবে।"
+          }
+        ]
+      }
+    ]
+  },
   "36:34": {
     "sections": [
       {
