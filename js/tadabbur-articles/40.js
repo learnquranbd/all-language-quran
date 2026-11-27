@@ -3155,6 +3155,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "40:62": {
+    "sections": [
+      {
+        "h": {
+          "en": "Night and Day, Then the Name",
+          "bn": "রাত, দিন, তারপর নাম"
+        },
+        "p": [
+          {
+            "en": "This verse completes the verse before it. 40:61 says that it is Allah who made the night for you to rest in and the day for seeing, that He is full of favour to people, and that most people do not give thanks. Ibn Kathir explains the pair: a night in which people rest from their work so that they can return to their livelihood, and a day with its light for travel and trade. The ingratitude, he says, is failing to thank Allah for His favours.",
+            "bn": "এ আয়াত আগের আয়াতের কথাটাই পূর্ণ করে। ৪০:৬১ বলে, আল্লাহই তোমাদের জন্য রাত বানিয়েছেন বিশ্রামের জন্য, আর দিন বানিয়েছেন দেখার জন্য। মানুষের প্রতি তিনি বড় অনুগ্রহশীল, কিন্তু বেশির ভাগ মানুষ শোকর করে না। ইবন কাসীর জোড়াটা খুলে বলেন। রাতে মানুষ কাজকর্ম থেকে বিশ্রাম নেয়, যাতে আবার জীবিকার কাজে ফিরতে পারে। আর দিনের আলোয় চলে সফর আর ব্যবসা। তাঁর ভাষায় অকৃতজ্ঞতা হলো আল্লাহর নিয়ামতের শোকর আদায় না করা।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, which treats 40:61 to 40:63 as a single passage, dwells on the gift of sleep. All human beings, and even animals, are tuned to a set time for it, the night. Had each person kept private sleeping hours, it argues, sleepers would lose the bliss of sleep and the waking would find their work in disorder, because human needs are bound up with one another. Its summary: after a few signs of Allah's blessings and power, an invitation to believe in His Oneness is given. Our verse is that invitation.",
+            "bn": "মাআরিফুল কুরআন ৪০:৬১ থেকে ৪০:৬৩ পর্যন্ত এক সঙ্গে আলোচনা করে, আর ঘুমের নিয়ামতের উপর থামে। সব মানুষ, এমনকি পশুপাখিও, ঘুমের জন্য একটা নির্দিষ্ট সময়ে বাঁধা, আর সেটা রাত। প্রত্যেকে যদি নিজের মতো আলাদা সময়ে ঘুমাত, তবে ঘুমন্তরা ঘুমের শান্তি হারাত, আর জেগে থাকাদের কাজও এলোমেলো হয়ে যেত। কারণ মানুষের প্রয়োজনগুলো একটা আরেকটার সঙ্গে জড়ানো। তার সারকথা: আল্লাহর কিছু নিয়ামত আর কুদরতের নিদর্শন দেখানোর পর তাঁর একত্বে ঈমান আনার দাওয়াত দেওয়া হয়েছে। আমাদের আয়াতটিই সেই দাওয়াত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Pointing Backward",
+          "bn": "পেছনের দিকে ইশারা"
+        },
+        "p": [
+          {
+            "en": "Dhalikumu llahu rabbukum: that is Allah, your Lord. Dhalikum is a word that points, and every commentator here who glosses it reads it as pointing back to the acts named in 40:61; al-Baghawi's entry only repeats the verse. At-Tabari: He who did these things and bestowed these blessings on you, O people. Ibn Kathir: He who did these things is Allah, al-Wahid al-Ahad, the Single, the Unique. As-Sa'di: He who did what He did. The Muyassar: He who bestowed these blessings on you is none other than your Lord.",
+            "bn": "যালিকুমুল্লাহু রব্বুকুম: তিনিই আল্লাহ, তোমাদের রব। যালিকুম শব্দটা কোনো কিছুর দিকে ইশারা করে। এখানে যাঁরা শব্দটির ব্যাখ্যা দিয়েছেন, সবাই বলেন, ইশারাটা ৪০:৬১ আয়াতে বলা কাজগুলোর দিকে। বাগাভী এখানে শুধু আয়াতটি উদ্ধৃত করেছেন। তাবারী বলেন: হে মানুষ, যিনি এসব করেছেন আর তোমাদের এসব নিয়ামত দিয়েছেন। ইবন কাসীর বলেন: যিনি এসব করেছেন, তিনিই আল্লাহ, এক ও অদ্বিতীয়। সা'দী বলেন: যিনি যা করার করেছেন। মুয়াসসার বলে: যিনি তোমাদের এসব নিয়ামত দিয়েছেন, তিনি তোমাদের রব ছাড়া আর কেউ নন।"
+          },
+          {
+            "en": "So the verse does not open with a definition. It opens with the evening and the morning the listener has just lived through, and only then gives the name. Al-Qurtubi says what these opening words achieve: in them Allah made plain the proof of His oneness and His power. The order speaks to the reader as well. A claim about Allah is introduced through something anyone can check against yesterday. Did I sleep? Did the light come back? The answer to both is the first step of the argument.",
+            "bn": "তাই আয়াতটি কোনো সংজ্ঞা দিয়ে শুরু হয় না। শুরু হয় সেই সন্ধ্যা আর সকাল দিয়ে, যা শ্রোতা এইমাত্র পার করে এসেছে। নামটা আসে তার পরে। কুরতুবী বলেন, শুরুর এই কথাগুলোতে আল্লাহ তাঁর একত্ব আর কুদরতের প্রমাণ স্পষ্ট করে দিয়েছেন। এই ক্রমের মধ্যে পাঠকের জন্যও কথা আছে। আল্লাহ সম্পর্কে দাবিটা আসে এমন কিছুর পথ ধরে, যা যে কেউ গতকালের সঙ্গে মিলিয়ে দেখতে পারে। আমি কি ঘুমিয়েছিলাম? আলো কি ফিরে এসেছে? দুটোর উত্তরই যুক্তির প্রথম ধাপ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Owner and Mender of Affairs",
+          "bn": "মালিক, যিনি কাজ গুছিয়ে দেন"
+        },
+        "p": [
+          {
+            "en": "Allahu rabbukum: Allah, your Lord. At-Tabari glosses rabb with two phrases, malikukum, your Owner, and muslihu umurikum, He who sets your affairs right. Then he adds that He is your Creator and the Creator of everything. The gloss keeps the word close to ordinary life. A lord, on this reading, holds you and keeps your affairs in order, which is exactly what the night and the day of the previous verse were doing.",
+            "bn": "আল্লাহু রব্বুকুম: আল্লাহ, তোমাদের রব। তাবারী রব শব্দের ব্যাখ্যা দেন দুটি কথায়: মালিকুকুম, তোমাদের মালিক, আর মুসলিহু উমূরিকুম, যিনি তোমাদের সব কাজ ঠিকঠাক করে দেন। তারপর যোগ করেন, তিনিই তোমাদের স্রষ্টা, আর সব কিছুর স্রষ্টা। এ ব্যাখ্যা শব্দটাকে রোজকার জীবনের কাছাকাছি রাখে। এ পাঠে রব তিনিই, যাঁর হাতে আপনি আছেন আর যিনি আপনার কাজগুলো গুছিয়ে রাখেন। আগের আয়াতের রাত আর দিন ঠিক এ কাজটাই করছিল।"
+          },
+          {
+            "en": "As-Sa'di draws the line that joins the gift to the claim. Allahu rabbukum, he says, means He who is alone in divinity and alone in lordship. Then he gives the reason. That He alone grants these blessings belongs to His lordship, and that they make thanks obligatory belongs to His divinity. Put simply, because He alone gave, He alone is owed. The ingratitude named at the close of 40:61 is therefore more than a lapse in manners. It touches the question of whom a person worships.",
+            "bn": "দান আর দাবিকে যে রেখা জুড়ে দেয়, সা'দী সেটা টেনে দেখান। তাঁর মতে আল্লাহু রব্বুকুম মানে, যিনি উলূহিয়্যাতেও একা, রুবূবিয়্যাতেও একা। কারণটাও তিনি বলেন। এসব নিয়ামত একা তিনিই দেন, এটা তাঁর রুবূবিয়্যাতের অংশ। আর এই নিয়ামত শোকর আদায় করা জরুরি করে দেয়, এটা তাঁর উলূহিয়্যাতের অংশ। সোজা কথায়, যেহেতু দিয়েছেন একা তিনি, তাই পাওনাও একা তাঁরই। ৪০:৬১ আয়াতের শেষে যে অকৃতজ্ঞতার কথা, তা তাই শুধু আদবের ত্রুটি নয়। প্রশ্নটা গিয়ে ঠেকে, মানুষ ইবাদত করে কার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Creator, and the Carved Idols",
+          "bn": "স্রষ্টা, আর খোদাই করা মূর্তি"
+        },
+        "p": [
+          {
+            "en": "Khaliqu kulli shay'in: Creator of every thing. As-Sa'di calls the phrase an affirmation of His lordship. Ibn Kathir paraphrases it as khaliq al-ashya', the Creator of things, and at once sets it against its opposite. Fa-anna tu'fakun, he explains, means: how then do you worship, instead of Him, idols that create nothing, and are themselves created and carved? The argument is a contrast between two kinds of being: the Maker of everything, and objects shaped by a human hand.",
+            "bn": "খালিকু কুল্লি শাইয়িন: সব কিছুর স্রষ্টা। সা'দী বলেন, এ কথা তাঁর রুবূবিয়্যাতের ঘোষণা। ইবন কাসীর একে বলেন খালিকুল আশইয়া, সব জিনিসের স্রষ্টা, আর সঙ্গে সঙ্গে তার উল্টো দিকটা পাশে দাঁড় করান। তাঁর ব্যাখ্যায় ফা আন্না তু'ফাকূন মানে: তাহলে তাঁকে ছেড়ে তোমরা কীভাবে এমন মূর্তির ইবাদত কর, যারা কিছুই সৃষ্টি করে না, বরং নিজেরাই সৃষ্ট, খোদাই করে বানানো? যুক্তিটা দুই রকম অস্তিত্বের তুলনা। একদিকে সব কিছুর স্রষ্টা, অন্যদিকে মানুষের হাতে গড়া জিনিস।"
+          },
+          {
+            "en": "The Muyassar gives the claim its widest reach: your Lord, the Creator of things, all of them. At-Tabari words it first for the listener and then for the world: He is your Creator, and the Creator of everything. None of the commentators fetched for this verse turns the phrase towards any other question. They read it for a single purpose: the Creator of all is alone to be worshipped, and what is created has no claim to worship.",
+            "bn": "মুয়াসসার দাবিটাকে সবচেয়ে বিস্তৃত করে বলে: তোমাদের রব, যিনি সব জিনিসের, সবগুলোরই, স্রষ্টা। তাবারী আগে বলেন শ্রোতার কথা, পরে গোটা জগতের: তিনিই তোমাদের স্রষ্টা, আর সব কিছুর স্রষ্টা। এ আয়াতের জন্য দেখা তাফসীরগুলোর কোনোটাই কথাটাকে অন্য কোনো প্রশ্নের দিকে নিয়ে যায় না। তাঁরা একে পড়েন একটিমাত্র উদ্দেশ্যে: যিনি সব কিছুর স্রষ্টা, ইবাদত একমাত্র তাঁরই, আর যা সৃষ্ট, ইবাদতে তার কোনো দাবি নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Worship Fit for Him Alone",
+          "bn": "ইবাদতের যোগ্য কেবল তিনি"
+        },
+        "p": [
+          {
+            "en": "La ilaha illa huwa: there is no god but He. At-Tabari turns the word ilah into its function: there is no ma'bud, no object of worship, for whom worship is fitting except Him. The Muyassar reads it the same way: no god deserves worship other than Him. As-Sa'di calls the clause an affirmation that He alone deserves worship, with no partner. Ibn Kathir doubles the denial: He besides whom there is no god, and no lord other than Him.",
+            "bn": "লা ইলাহা ইল্লা হুয়া: তিনি ছাড়া কোনো ইলাহ নেই। তাবারী ইলাহ শব্দটাকে তার কাজ দিয়ে ব্যাখ্যা করেন: এমন কোনো মা'বূদ নেই, যার জন্য ইবাদত শোভা পায়, তিনি ছাড়া। মুয়াসসারও একই কথা বলে: তিনি ছাড়া ইবাদত পাওয়ার যোগ্য কোনো ইলাহ নেই। সা'দীর মতে এ বাক্য ঘোষণা করে, ইবাদতের হকদার একা তিনিই, তাঁর কোনো শরিক নেই। ইবন কাসীর অস্বীকারটা দুবার করেন: তিনি ছাড়া কোনো ইলাহ নেই, আর তিনি ছাড়া কোনো রবও নেই।"
+          },
+          {
+            "en": "Set side by side, the verse holds the two claims that as-Sa'di names separately: lordship, in Creator of all things, and divinity, in no god but He. The first is about what Allah does; the second is about what people owe Him. In the Arabic the two stand next to each other with no joining word, as if the second needs no argument once the first is granted. The surah states the consequence as a command three verses later, at 40:65: He is the Ever-Living, there is no god but He, so call on Him, making your religion sincerely His.",
+            "bn": "পাশাপাশি রাখলে আয়াতে দুটি দাবি পাওয়া যায়, যেগুলোকে সা'দী আলাদা নামে ডাকেন। সব কিছুর স্রষ্টা, এ হলো রুবূবিয়্যাত। তিনি ছাড়া কোনো ইলাহ নেই, এ হলো উলূহিয়্যাত। প্রথমটা আল্লাহ কী করেন তা নিয়ে, দ্বিতীয়টা মানুষের কাছে তাঁর পাওনা নিয়ে। আরবিতে দুটো কথা পাশাপাশি দাঁড়িয়ে আছে, মাঝে কোনো সংযোগ শব্দ নেই। যেন প্রথমটা মেনে নিলে দ্বিতীয়টার জন্য আর যুক্তি লাগে না। তিনটি আয়াত পরে, ৪০:৬৫ আয়াতে, সূরাটি এর ফল আদেশ আকারে বলে দেয়: তিনি চিরঞ্জীব, তিনি ছাড়া কোনো ইলাহ নেই, তাই দ্বীনকে তাঁর জন্য খাঁটি করে তাঁকেই ডাক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Way Are You Going?",
+          "bn": "কোন দিকে চলেছ তোমরা?"
+        },
+        "p": [
+          {
+            "en": "Then the question: fa-anna tu'fakun, so how are you turned away? Each commentator gives the verb a slightly different face. At-Tabari makes anna a question of direction: which way are you taking, and where are you going away from Him, so that you worship another? Al-Qurtubi: how do you turn about and turn aside from belief? As-Sa'di keeps the passive voice: how are you turned away from worshipping Him alone? The Muyassar uses a verb of swerving: how do you veer from belief in Him and worship idols besides Him?",
+            "bn": "তারপর প্রশ্ন: ফা আন্না তু'ফাকূন, তবু তোমাদের কোথায় ফিরিয়ে নেওয়া হচ্ছে? প্রত্যেক তাফসীরকার ক্রিয়াটাকে একটু ভিন্ন চেহারা দেন। তাবারী আন্না শব্দকে দিকের প্রশ্ন বানান: তোমরা কোন পথ ধরছ, তাঁকে ছেড়ে কোথায় চলেছ, যে অন্যের ইবাদত কর? কুরতুবী বলেন: ঈমান থেকে তোমরা কীভাবে উল্টে যাও, সরে যাও? সা'দী কর্মবাচ্য ধরে রাখেন: একা তাঁর ইবাদত থেকে তোমাদের কীভাবে ফিরিয়ে নেওয়া হচ্ছে? মুয়াসসার পথ থেকে বেঁকে যাওয়ার ক্রিয়া ব্যবহার করে: তাঁর প্রতি ঈমান থেকে বেঁকে গিয়ে তাঁকে ছেড়ে মূর্তির ইবাদত কর কীভাবে?"
+          },
+          {
+            "en": "Al-Qurtubi and the Muyassar close their glosses with the same phrase: ba'da an tabayyanat lakum dala'iluhu, after His proofs have become clear to you. As-Sa'di says it with two images: after He has made the proof plain to you and lit the path for you. That clause is the hinge of the question. It is put to people who have been shown, not to people who were never told. What the question finds strange is that the turning happens with the evidence in full view.",
+            "bn": "কুরতুবী আর মুয়াসসার দুজনেই ব্যাখ্যা শেষ করেন হুবহু একই কথায়: বা'দা আন তাবাইয়ানাত লাকুম দালাইলুহু, তাঁর প্রমাণগুলো তোমাদের কাছে স্পষ্ট হয়ে যাওয়ার পরও। সা'দী কথাটা বলেন দুটি ছবিতে: তিনি তোমাদের জন্য দলিল খুলে দিয়েছেন, পথ আলোকিত করে দিয়েছেন, তার পরও। প্রশ্নটা ঘোরে এ কথাকে কেন্দ্র করেই। প্রশ্ন করা হচ্ছে তাদের, যাদের দেখানো হয়েছে, তাদের নয় যারা কখনো শোনেইনি। প্রশ্নের অবাক হওয়ার জায়গা এটাই: প্রমাণ চোখের সামনে থাকতেই মুখ ফিরিয়ে নেওয়া।"
+          },
+          {
+            "en": "As-Sa'di also reads the question itself as the command made explicit. Once the two affirmations are made, he writes, Allah declared the command to worship Him, saying: so how are you turned away? A question of this shape does more than ask. It shows the listener where the argument has led and asks why he is not standing there. The verb in the Arabic is passive, tu'fakun, you are being turned; it does not name who turns them. The next verse speaks of the people to whom this happens.",
+            "bn": "সা'দী প্রশ্নটাকেই আদেশের স্পষ্ট রূপ হিসেবে পড়েন। তাঁর ভাষায়, দুটি ঘোষণার পর আল্লাহ তাঁর ইবাদতের আদেশ স্পষ্ট করে দিলেন, বললেন: তবু তোমাদের কোথায় ফিরিয়ে নেওয়া হচ্ছে? এমন প্রশ্ন শুধু জানতে চায় না। যুক্তি শ্রোতাকে কোথায় এনে দাঁড় করিয়েছে, তা দেখিয়ে দেয়, আর জিজ্ঞেস করে, সে সেখানে নেই কেন। আরবিতে তু'ফাকূন ক্রিয়াটি কর্মবাচ্যে, তোমাদের ফিরিয়ে নেওয়া হচ্ছে। কে ফিরিয়ে নিচ্ছে, তা এখানে বলা নেই। পরের আয়াত কথা বলে তাদের নিয়ে, যাদের সঙ্গে এমনটা ঘটে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turned Away Before Quraysh",
+          "bn": "কুরাইশের আগেও যারা ফিরেছে"
+        },
+        "p": [
+          {
+            "en": "40:63 picks up the passive verb: kadhalika yu'faku, thus were turned away those who used to reject the signs of Allah. Ibn Kathir reads the two verses together. Just as these people, Quraysh, were led astray by worshipping gods besides Allah, he writes, so those who came before them disbelieved and worshipped others, with no proof or evidence, on the basis of ignorance and desires, and they denied Allah's signs and proofs. On his reading the turning has a history, and it runs through the rejection of signs.",
+            "bn": "৪০:৬৩ সেই কর্মবাচ্য ক্রিয়াটাই আবার তুলে আনে: কাযালিকা ইউ'ফাকু, এভাবেই ফিরিয়ে নেওয়া হয়েছিল তাদের, যারা আল্লাহর আয়াত অস্বীকার করত। ইবন কাসীর দুই আয়াত এক সঙ্গে পড়েন। তিনি লেখেন, কুরাইশের এই লোকেরা যেমন আল্লাহ ছাড়া অন্য উপাস্যের ইবাদত করে পথ হারিয়েছিল, তেমনি তাদের আগের লোকেরাও কুফরি করেছিল, অন্যের ইবাদত করেছিল। তাদের হাতে কোনো দলিল বা প্রমাণ ছিল না, ছিল কেবল অজ্ঞতা আর প্রবৃত্তি। তারা আল্লাহর নিদর্শন আর প্রমাণ অস্বীকার করেছিল। তাঁর পাঠে মুখ ফিরিয়ে নেওয়ার একটা ইতিহাস আছে, আর সে পথ যায় নিদর্শন অস্বীকারের ভেতর দিয়ে।"
+          },
+          {
+            "en": "In its first setting, then, the verse is addressed to people who worshipped idols, and the commentators report it that way. It describes what the text describes: people turning from clear evidence to things carved by hand. It licenses nothing against any living person or community, and it gives no one a warrant to treat a neighbour of another faith with contempt. The question is asked by Allah, and its form is an argument. It appeals to the night, the day and the work of creation, and leaves the listener to answer.",
+            "bn": "প্রথম প্রেক্ষাপটে তাই আয়াতটির সম্বোধন ছিল মূর্তিপূজারীদের প্রতি, আর তাফসীরকারেরা সেভাবেই তা বর্ণনা করেছেন। আয়াতটি ঠিক ততটুকুই বলে, যতটুকু তার ভাষায় আছে: স্পষ্ট প্রমাণ ছেড়ে হাতে খোদাই করা জিনিসের দিকে মানুষের ফিরে যাওয়া। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। অন্য ধর্মের প্রতিবেশীকে তাচ্ছিল্য করার অধিকারও কাউকে দেয় না। প্রশ্নটা করছেন আল্লাহ, আর তার রূপটা যুক্তির। প্রশ্নটা রাত, দিন আর সৃষ্টির দিকে আঙুল তোলে, তারপর উত্তর দেওয়ার ভার শ্রোতার উপর ছেড়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Words in Al-An'am",
+          "bn": "সূরা আনআমে একই কথা"
+        },
+        "p": [
+          {
+            "en": "The verse's words appear almost whole in another surah. 6:102 reads: dhalikumu llahu rabbukum, la ilaha illa huwa, khaliqu kulli shay'in fa'buduhu, that is Allah your Lord, there is no god but He, Creator of all things, so worship Him, and He is Guardian over all things. The same three statements stand there, with the last two in reverse order and a plain command, so worship Him, where our verse asks its question. 39:62 carries the creative claim alone: Allah is the Creator of all things, and He is Guardian over all things.",
+            "bn": "এ আয়াতের কথাগুলো প্রায় হুবহু আরেক সূরায় আছে। ৬:১০২ আয়াতে: যালিকুমুল্লাহু রব্বুকুম, লা ইলাহা ইল্লা হুয়া, খালিকু কুল্লি শাইয়িন ফা'বুদূহু। তিনিই আল্লাহ তোমাদের রব, তিনি ছাড়া কোনো ইলাহ নেই, তিনি সব কিছুর স্রষ্টা, তাই তাঁর ইবাদত কর, আর তিনি সব কিছুর তত্ত্বাবধায়ক। সেখানে একই তিনটি কথা আছে, শুধু শেষের দুটির ক্রম উল্টো। আর আমাদের আয়াত যেখানে প্রশ্ন করে, সেখানে আছে সোজা আদেশ: তাঁর ইবাদত কর। ৩৯:৬২ আয়াতে আছে কেবল সৃষ্টির দাবিটা: আল্লাহ সব কিছুর স্রষ্টা, আর তিনি সব কিছুর তত্ত্বাবধায়ক।"
+          },
+          {
+            "en": "Reaching 40:64 in the same passage, Ibn Kathir quotes 2:21 and 2:22, which make the same move. They call people to worship the Lord who created them and those before them, who made the earth a bed and the sky a structure and sent down rain for fruit, and they end: so do not set up rivals to Allah while you know. His point is plain: Allah created the dwelling place, those who dwell in it and their provision. Each time, the argument moves from what Allah made to the worship owed to Him.",
+            "bn": "একই আলোচনায় ৪০:৬৪ আয়াতে পৌঁছে ইবন কাসীর ২:২১ ও ২:২২ উদ্ধৃত করেন, কারণ সেখানেও একই যুক্তি। আয়াত দুটি মানুষকে ডাকে সেই রবের ইবাদতের দিকে, যিনি তাদের আর তাদের আগের লোকদের সৃষ্টি করেছেন, যমীনকে বিছানা আর আকাশকে ছাদ বানিয়েছেন, ফলমূলের জন্য বৃষ্টি নামিয়েছেন। শেষ হয় এ কথায়: কাজেই জেনেশুনে আল্লাহর সমকক্ষ দাঁড় করিয়ো না। ইবন কাসীরের কথাটা স্পষ্ট: বাসস্থান, তার বাসিন্দা আর তাদের রিযক, সবই আল্লাহর সৃষ্টি। প্রতিবারই যুক্তি চলে আল্লাহ যা বানিয়েছেন তা থেকে তাঁর প্রাপ্য ইবাদতের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said at Every Prayer's End",
+          "bn": "প্রতি নামাজের শেষে"
+        },
+        "p": [
+          {
+            "en": "None of the commentators fetched for this verse attaches a hadith to it. Ibn Kathir, closing the group of verses that ends at 40:65, cites a narration from Imam Ahmad on the formula la ilaha illa Allah and notes that Muslim recorded it in similar words. It is general, and it is not tied to 40:62. It is given here because it turns the verse's middle clause into words a believer says every day, and so belongs to its reflection, not its explanation.",
+            "bn": "এ আয়াতের জন্য দেখা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। ৪০:৬৫ পর্যন্ত আয়াতগুচ্ছের আলোচনা শেষ করতে গিয়ে ইবন কাসীর লা ইলাহা ইল্লাল্লাহ বাক্য নিয়ে ইমাম আহমাদের একটি বর্ণনা আনেন, আর জানান যে মুসলিমও কাছাকাছি শব্দে তা সংকলন করেছেন। বর্ণনাটি সাধারণ, ৪০:৬২ আয়াতের সঙ্গে বাঁধা নয়। এখানে আনা হলো, কারণ এ আয়াতের মাঝের বাক্যটিকে এটি মুমিনের রোজকার মুখের কথা বানিয়ে দেয়। তাই এর জায়গা আয়াতের ভাবনায়, আয়াতের ব্যাখ্যায় নয়।"
+          },
+          {
+            "en": "Muslim (594) reports that Ibn az-Zubayr (RA) said after the salam of every prayer: \"There is no god but Allah alone, He has no partner; His is the dominion and His is the praise, and He has power over all things. There is no might and no power except through Allah. There is no god but Allah, and we worship none but Him. His is the blessing, His is the bounty, and His is the beautiful praise. There is no god but Allah; we make the religion sincerely His, even though the disbelievers dislike it.\" He said the Messenger of Allah ﷺ used to proclaim these after every prayer.",
+            "bn": "মুসলিম (৫৯৪) বর্ণনা করেন, ইবনুয যুবাইর (রাঃ) প্রতিটি নামাজের সালাম ফিরিয়ে বলতেন: \"একা আল্লাহ ছাড়া কোনো ইলাহ নেই, তাঁর কোনো শরিক নেই। রাজত্ব তাঁরই, প্রশংসাও তাঁরই, আর তিনি সব কিছুর উপর ক্ষমতাবান। আল্লাহ ছাড়া কোনো শক্তি নেই, কোনো সামর্থ্য নেই। আল্লাহ ছাড়া কোনো ইলাহ নেই, আমরা কেবল তাঁরই ইবাদত করি। নিয়ামত তাঁর, অনুগ্রহ তাঁর, সুন্দর প্রশংসাও তাঁরই। আল্লাহ ছাড়া কোনো ইলাহ নেই, আমরা দ্বীনকে তাঁর জন্য খাঁটি করি, যদিও কাফিররা তা অপছন্দ করে।\" তিনি বলেন, আল্লাহর রাসূল ﷺ প্রতিটি নামাজের পর এই কথাগুলো দিয়ে তাহলীল করতেন।"
+          },
+          {
+            "en": "Said after each prayer, those words carry the whole argument of our verse in a believer's own mouth. Sovereignty and power belong to Him, so worship belongs to Him, and the formula repeats there is no god but Allah three times. The verse asks how people are turned away; the dhikr is a way of turning back, at set hours, much as the night and the day of 40:61 return at their set hours. Whoever says it is answering the verse's question before anything else has the chance to answer it for them.",
+            "bn": "প্রতি নামাজের পর বলা এ কথাগুলো আমাদের আয়াতের পুরো যুক্তিটাই মুমিনের নিজের মুখে তুলে দেয়। রাজত্ব আর ক্ষমতা তাঁর, তাই ইবাদতও তাঁর, আর এ জিকিরে লা ইলাহা ইল্লাল্লাহ আসে তিনবার। আয়াত জিজ্ঞেস করে, মানুষকে কোথায় ফিরিয়ে নেওয়া হচ্ছে। জিকির হলো নির্দিষ্ট সময়ে তাঁর দিকে ফিরে আসার পথ, ঠিক যেমন ৪০:৬১ আয়াতের রাত আর দিন নির্দিষ্ট সময়ে ফিরে আসে। যে এ কথা বলে, অন্য কিছু তার হয়ে উত্তর দেওয়ার আগেই সে নিজে আয়াতের প্রশ্নের উত্তর দিয়ে দেয়।"
+          }
+        ]
+      }
+    ]
+  },
   "40:64": {
     "sections": [
       {

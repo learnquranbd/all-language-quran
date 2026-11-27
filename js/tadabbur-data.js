@@ -37613,6 +37613,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Qur'an is guarded from falsehood by the One who sent it down; your part is to read it honestly, without bending its words to fit what you already wanted.",
     "lessonBn": "কুরআনকে মিথ্যা থেকে পাহারা দেন তিনিই, যিনি তা নাযিল করেছেন। আপনার কাজ সততার সঙ্গে তা পড়া, আগে থেকে যা চেয়েছিলেন তার সঙ্গে মেলাতে এর কথাকে না বাঁকানো।"
+  },
+  "40:62": {
+    "reflectionEn": "The verse before this one points to the night that lets me rest and the day that lets me see. Now it names the One behind them: that is Allah, your Lord, Creator of all things; there is no god but He. Then, instead of a command, a question: so how are you turned away? The question assumes the evidence is already in front of me. I lay down last night and woke this morning inside His gift. So what pulls my heart elsewhere: a habit, a fear, a person whose approval I chase? Nothing that cannot create a single thing deserves the place that belongs to the Creator of everything. The verse asks me to trace each gift back to its Giver, and to stay there.",
+    "reflectionBn": "আগের আয়াত দেখিয়েছে রাত, যাতে আমি বিশ্রাম পাই, আর দিন, যাতে আমি দেখতে পাই। এবার এ আয়াত বলে দেয় এর পেছনে কে: তিনিই আল্লাহ, তোমাদের রব, সব কিছুর স্রষ্টা, তিনি ছাড়া কোনো ইলাহ নেই। তারপর কোনো আদেশ নয়, একটা প্রশ্ন: তবু তোমাদের কোথায় ফিরিয়ে নেওয়া হচ্ছে? প্রশ্নটা ধরে নেয়, প্রমাণ আমার চোখের সামনেই আছে। গত রাতে আমি তাঁরই দানের ভেতরে শুয়েছি, আজ সকালে তাঁরই দানের ভেতরে জেগেছি। তাহলে আমার মনকে অন্য দিকে টানে কী? কোনো অভ্যাস, কোনো ভয়, নাকি এমন কেউ যার সন্তুষ্টির পেছনে আমি ছুটি? যে একটা জিনিসও সৃষ্টি করতে পারে না, সব কিছুর স্রষ্টার জায়গা তার প্রাপ্য নয়। আয়াতটি চায়, প্রতিটি দানকে আমি তার দাতা পর্যন্ত অনুসরণ করি, আর সেখানেই থেকে যাই।",
+    "pointsEn": [
+      "Last night's sleep and this morning's light: did either of them lead my thoughts back to the One who gave them?",
+      "What, in practice, pulls my hope and fear away from Allah: money, someone's approval, or a routine I never question?",
+      "Which blessing in my life have I credited only to my own effort or to another person, while forgetting its Creator?",
+      "If I say there is no god but He after my prayers, what in the hour that follows shows that I meant it?",
+      "When I see someone turned away, do I answer with the verse's question and its evidence, or with contempt?"
+    ],
+    "pointsBn": [
+      "গত রাতের ঘুম আর আজ সকালের আলো, এর কোনোটা কি আমার ভাবনাকে সেগুলোর দাতার কাছে ফিরিয়ে নিয়েছে?",
+      "বাস্তবে কোন জিনিস আমার আশা আর ভয়কে আল্লাহ থেকে সরিয়ে নেয়: টাকা, কারও সন্তুষ্টি, নাকি এমন কোনো রুটিন যা নিয়ে আমি কখনো প্রশ্ন তুলি না?",
+      "আমার জীবনের কোন নিয়ামতকে আমি শুধু নিজের চেষ্টার বা অন্য কারও কৃতিত্ব বলে ধরে নিয়েছি, আর তার স্রষ্টাকে ভুলে গেছি?",
+      "নামাজের পরে যদি বলি তিনি ছাড়া কোনো ইলাহ নেই, তার পরের এক ঘণ্টায় কী দেখে বোঝা যায় যে কথাটা আমি মন থেকে বলেছি?",
+      "কাউকে মুখ ফিরিয়ে নিতে দেখলে আমি কি আয়াতের প্রশ্ন আর তার প্রমাণ দিয়ে জবাব দিই, নাকি তাচ্ছিল্য দিয়ে?"
+    ],
+    "lessonEn": "The One who gives you night for rest and day for sight is the Creator of all things; let nothing He created pull your worship away from Him.",
+    "lessonBn": "যিনি আপনাকে বিশ্রামের জন্য রাত আর দেখার জন্য দিন দিয়েছেন, তিনিই সব কিছুর স্রষ্টা। তাঁর সৃষ্টি কোনো কিছুই যেন আপনার ইবাদতকে তাঁর কাছ থেকে সরিয়ে নিতে না পারে।"
   }
 };
 
