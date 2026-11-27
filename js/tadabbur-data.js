@@ -36173,6 +36173,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let what you already confess about Allah, that He sends the rain and revives the earth, decide where you turn in worship and in need.",
     "lessonBn": "আল্লাহ সম্পর্কে যা আপনি আগে থেকেই মানেন, তিনিই বৃষ্টি নামান আর মাটিকে জীবিত করেন, সেটাই ঠিক করে দিক ইবাদতে আর প্রয়োজনে আপনি কার দিকে ফিরবেন।"
+  },
+  "29:56": {
+    "reflectionEn": "The passage has just spoken of punishment closing in from above and from below. Then the voice turns: O My servants who have believed. It is not a rebuke but an address of belonging. My earth is spacious. The line answers a fear the hemmed-in know well, that the place where life has narrowed is the only place there is. Then comes the purpose of the width: so worship Me alone. Width is not the goal; it is room for worship. Before I hear this as a call to move house, I can hear it as a question. Where is my worship hemmed in now, by a habit, a crowd, a timetable or a fear? And what keeps me from stepping into the room Allah has already made?",
+    "reflectionBn": "একটু আগেই আয়াতগুলো বলছিল সেই শাস্তির কথা, যা মাথার উপর থেকে আর পায়ের নিচ থেকে ঘিরে ধরবে। তারপর সুর বদলে যায়: হে আমার বান্দারা, যারা ঈমান এনেছ। এ ধমক নয়, আপন করে ডাকা। আমার যমীন প্রশস্ত। কোণঠাসা মানুষ একটা ভয় খুব ভালো চেনে: যেখানে জীবন সংকীর্ণ হয়ে এসেছে, পৃথিবী বুঝি ওইটুকুই। এ কথা সেই ভয়ের জবাব। তারপর আসে এত প্রশস্ততার উদ্দেশ্য: কাজেই একমাত্র আমারই ইবাদত করো। প্রশস্ততা নিজে লক্ষ্য নয়, ওটা ইবাদতের জায়গা। একে ঘর বদলের ডাক হিসেবে শোনার আগে প্রশ্ন হিসেবেও শোনা যায়। আজ আমার ইবাদত কোথায় আটকে আছে? কোনো অভ্যাসে, কোনো দলে, সময়ের কোনো ছকে, নাকি কোনো ভয়ে? আল্লাহ যে জায়গা আগেই খুলে রেখেছেন, সেখানে পা রাখতে আমাকে কী আটকাচ্ছে?",
+    "pointsEn": [
+      "Where in my week is my worship squeezed, and is that wall truly fixed or only familiar?",
+      "Whose approval do I end up obeying when it pulls against what Allah asks of me?",
+      "When I feel trapped, do I remember that Allah's earth is wider than the spot where I am standing?",
+      "Is there a company, a setting or a habit that keeps making obedience harder, and what would one small step away from it look like?",
+      "If the width is given for worship, what am I doing with the room I already have?"
+    ],
+    "pointsBn": [
+      "সপ্তাহের কোন জায়গায় আমার ইবাদত চাপা পড়ছে? সেই দেয়ালটা কি সত্যিই নড়ানো যায় না, নাকি শুধু চেনা হয়ে গেছে বলে নড়াই না?",
+      "আল্লাহ যা চান তার উল্টো দিকে টানলেও শেষ পর্যন্ত আমি কার খুশি মেনে চলি?",
+      "নিজেকে আটকা পড়া মনে হলে আমার কি মনে পড়ে, আমি যেখানে দাঁড়িয়ে আছি আল্লাহর যমীন তার চেয়ে অনেক প্রশস্ত?",
+      "এমন কোনো সঙ্গ, পরিবেশ বা অভ্যাস কি আছে যা বারবার আনুগত্য কঠিন করে তোলে? তা থেকে ছোট্ট এক পা সরে আসা দেখতে কেমন হবে?",
+      "প্রশস্ততা যদি ইবাদতের জন্যই দেওয়া হয়, যে জায়গাটুকু আমার হাতে আছে তা দিয়ে আমি কী করছি?"
+    ],
+    "lessonEn": "When a place, a crowd or a habit hems in your worship, remember that Allah's earth is wide, and make room to worship Him alone.",
+    "lessonBn": "কোনো জায়গা, কোনো দল বা কোনো অভ্যাস যখন আপনার ইবাদত আটকে ধরে, মনে রাখুন আল্লাহর যমীন প্রশস্ত, আর একমাত্র তাঁরই ইবাদতের জন্য জায়গা করে নিন।"
   }
 };
 

@@ -2795,6 +2795,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "29:56": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Hasteners to the Servants",
+          "bn": "তাড়াহুড়োকারীদের পর বান্দাদের ডাক"
+        },
+        "p": [
+          {
+            "en": "Three verses earlier, the deniers urge the Prophet ﷺ to hasten the punishment, and 29:55 pictures it covering them from above and from beneath their feet. Then the address changes without a pause: ya 'ibadiya alladhina amanu, O My servants who have believed. Ma'arif al-Qur'an reads the turn as the passage's way out. From the start of the surah, it says, the enmity of the deniers towards the Muslims and the obstacles put in the way of truth have been described; here a way out of that entanglement is given, and its common name is hijrah.",
+            "bn": "এর তিনটি আয়াত আগে অস্বীকারকারীরা নবী ﷺ-কে তাড়া দেয় শাস্তি তাড়াতাড়ি নিয়ে আসতে, আর ২৯:৫৫ আয়াত ছবি আঁকে সেই শাস্তির, যা তাদের ঢেকে ফেলবে উপর থেকে আর পায়ের নিচ থেকে। তারপর কোনো বিরতি ছাড়াই সম্বোধন বদলে যায়: ইয়া ইবাদিয়াল্লাযীনা আমানূ, হে আমার বান্দারা, যারা ঈমান এনেছ। মাআরিফুল কুরআন এই মোড়কে দেখে বেরোনোর পথ হিসেবে। সূরার শুরু থেকে এ পর্যন্ত মুসলিমদের প্রতি অস্বীকারকারীদের শত্রুতা আর সত্যের পথে বাধার কথা এসেছে। এখানে সেই জট থেকে বেরোনোর পথ দেখানো হচ্ছে, আর তার পরিচিত নাম হিজরত।"
+          },
+          {
+            "en": "The vocative itself carries weight. At-Tabari glosses it as Allah speaking to the believers among His servants: O My servants who have affirmed My oneness and believed in Me and in My Messenger Muhammad ﷺ. As-Sa'di keeps it shorter: who believed in Me and confirmed My Messenger. Both read 'ibadi, My servants, as a relation already in place before any instruction arrives. The people addressed are not told to become His; they are called His, and only then told what to do with the place they are standing in.",
+            "bn": "সম্বোধনটার নিজেরই ওজন আছে। তাবারী এর ব্যাখ্যা দেন এভাবে: আল্লাহ তাঁর বান্দাদের মধ্যে মুমিনদের বলছেন, হে আমার বান্দারা, যারা আমার একত্ব মেনেছ, আমার উপর আর আমার রাসূল মুহাম্মাদ ﷺ-এর উপর ঈমান এনেছ। সা'দী আরও সংক্ষেপে বলেন: যারা আমার উপর ঈমান এনেছে আর আমার রাসূলকে সত্য বলে মেনেছে। দুজনের পাঠেই ইবাদী, আমার বান্দারা, এমন এক সম্পর্ক যা কোনো নির্দেশ আসার আগেই প্রতিষ্ঠিত। যাদের ডাকা হচ্ছে, তাদের বলা হচ্ছে না তাঁর হয়ে যেতে। আগে তাদের তাঁর বলে ডাকা হয়, তারপর বলা হয় যেখানে দাঁড়িয়ে আছে সেই জায়গা নিয়ে কী করতে হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard First in Makkah",
+          "bn": "প্রথম শুনেছিল মক্কা"
+        },
+        "p": [
+          {
+            "en": "Who first heard the call? Al-Qurtubi reports, as the view of Muqatil and al-Kalbi, that the verse came down urging the believers who were in Makkah to emigrate: Allah told them of the breadth of His earth, and that staying in one spot under the harm of the disbelievers was not right. Al-Baghawi gives the same two names with a sharper picture. It came down about the weak Muslims of Makkah: if you are in straits in Makkah over showing your faith, go out to the land of Madinah, which is wide and safe.",
+            "bn": "ডাকটা প্রথম কারা শুনেছিল? কুরতুবী মুকাতিল ও কালবীর মত হিসেবে জানান, মক্কায় থাকা মুমিনদের হিজরতে উৎসাহ দিতে আয়াতটি নাযিল হয়েছিল। আল্লাহ তাদের জানালেন তাঁর যমীন কত প্রশস্ত, আর কাফিরদের জুলুম সয়ে এক জায়গায় পড়ে থাকা ঠিক নয়। বাগাভী একই দুই নাম আনেন, ছবিটা আরও স্পষ্ট করে। আয়াতটি নাযিল হয়েছিল মক্কার দুর্বল মুসলিমদের নিয়ে: মক্কায় ঈমান প্রকাশ করতে গিয়ে তোমরা যদি সংকটে থাকো, তবে সেখান থেকে বেরিয়ে মদীনার দিকে যাও, সে ভূমি প্রশস্ত, নিরাপদ।"
+          },
+          {
+            "en": "At-Tabari has the same identification from a different direction. Ibn Wahb asked Ibn Zayd whether the verse meant the believers who were in Makkah, and Ibn Zayd said yes. Al-Jalalayn, on the quranx page for this verse, says it was revealed about the oppressed Muslims of Makkah, who were constrained from showing their Islam there. Al-Baghawi adds a second report under it is said, with no name: that it came down about people who held back from emigrating, saying they feared hunger and a narrow living, and that Allah did not excuse them.",
+            "bn": "তাবারীর কাছে একই পরিচয় আসে আরেক দিক থেকে। ইবন ওয়াহব ইবন যায়দকে জিজ্ঞেস করেছিলেন, আয়াতে কি মক্কায় থাকা মুমিনদের বোঝানো হয়েছে? ইবন যায়দ বলেছিলেন, হ্যাঁ। এই আয়াতের জন্য কুরআনএক্সের পাতায় জালালাইন বলেন, আয়াতটি নাযিল হয়েছিল মক্কার নির্যাতিত মুসলিমদের নিয়ে, যারা সেখানে নিজেদের ইসলাম প্রকাশ করতে পারছিল না। বাগাভী 'বলা হয়' দিয়ে, কোনো নাম ছাড়াই, আরেকটি বর্ণনা যোগ করেন। কিছু লোক হিজরত থেকে পিছিয়ে ছিল, বলেছিল তারা ক্ষুধা আর অভাবের ভয় করে। তখন এ আয়াত নাযিল হয়, আর আল্লাহ তাদের ওজর মেনে নেননি।"
+          },
+          {
+            "en": "None of these reaches back to a Companion, and quranx carries no entry from al-Wahidi's book of occasions for this verse. So they stand here as what the commentators report about the setting, not as an established occasion of revelation. Whatever the exact day, the people it first reached were those for whom openly worshipping Allah had become the hardest thing in the town.",
+            "bn": "এর কোনোটিই কোনো সাহাবী পর্যন্ত পৌঁছায় না, আর কুরআনএক্সের পাতায় এ আয়াতের জন্য ওয়াহিদীর শানে নুযূলের গ্রন্থ থেকে কিছু নেই। তাই এগুলো এখানে প্রেক্ষাপট সম্পর্কে তাফসীরকারদের বর্ণনা হিসেবেই থাকছে, প্রতিষ্ঠিত শানে নুযূল হিসেবে নয়। ঠিক কোন দিন, তা না জানলেও এটুকু স্পষ্ট: ডাকটা প্রথমে পৌঁছেছিল তাদের কাছে, যাদের জন্য শহরে প্রকাশ্যে আল্লাহর ইবাদত করাই হয়ে উঠেছিল সবচেয়ে কঠিন কাজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Abyssinia First, Then Yathrib",
+          "bn": "আগে হাবশা, তারপর ইয়াসরিব"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens with the command itself: this is an order from Allah to His believing servants to emigrate from the land where they cannot establish the religion to Allah's wide earth, where it can be established, by affirming His oneness and worshipping Him as He commanded. Then he names what happened. When staying in Makkah grew too narrow for the oppressed, they went out as emigrants to Abyssinia, to be safe in their religion there, and found the best of hosts, Ashama the Negus, king of Abyssinia, who sheltered them and backed them with his support.",
+            "bn": "ইবন কাসীর শুরু করেন নির্দেশটি দিয়ে: এ হলো আল্লাহর পক্ষ থেকে তাঁর মুমিন বান্দাদের প্রতি আদেশ, যে দেশে তারা দ্বীন কায়েম করতে পারে না, সেখান থেকে আল্লাহর প্রশস্ত যমীনের দিকে হিজরত করো, যেখানে দ্বীন কায়েম করা যায়। অর্থাৎ আল্লাহর একত্ব মেনে তাঁর আদেশমতো তাঁর ইবাদত করা যায়। তারপর তিনি জানান কী ঘটেছিল। মক্কায় থাকা যখন দুর্বলদের জন্য অসহনীয় হয়ে উঠল, তারা দ্বীন নিয়ে নিরাপদ থাকতে হিজরত করে হাবশায় গেল। সেখানে পেল সবচেয়ে ভালো আশ্রয়দাতা, হাবশার বাদশাহ আসহামা নাজাশী। তিনি তাদের আশ্রয় দিলেন, সাহায্য করে পাশে দাঁড়ালেন।"
+          },
+          {
+            "en": "After that, Ibn Kathir goes on, the Messenger of Allah ﷺ and the rest of his Companions emigrated to Madinah, Yathrib. Before telling that history, he relays from Imam Ahmad a short narration attributed to the Prophet ﷺ on settling in a land. The chain is given and no grading accompanies it in the fetched text, so it is only mentioned here and nothing is built on it. No commentator fetched for this verse attaches a sound hadith to it.",
+            "bn": "এরপর, ইবন কাসীর লেখেন, আল্লাহর রাসূল ﷺ ও বাকি সাহাবীরা হিজরত করলেন মদীনায়, যার পুরোনো নাম ইয়াসরিব। এই ইতিহাস বলার আগে তিনি ইমাম আহমাদ থেকে নবী ﷺ-এর নামে বর্ণিত একটি ছোট বর্ণনা উল্লেখ করেন, কোনো দেশে বসবাস নিয়ে। সনদ দেওয়া আছে, কিন্তু যে পাঠ আনা হয়েছে তাতে কোনো মান নির্ধারণ নেই। তাই এখানে শুধু তার উল্লেখ থাকল, তার উপর কিছু দাঁড় করানো হলো না। এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spacious in Which Sense",
+          "bn": "কোন অর্থে প্রশস্ত"
+        },
+        "p": [
+          {
+            "en": "Inna ardi wasi'ah: indeed My earth is spacious. At-Tabari records that the people of interpretation differed over what this report of the earth's breadth was meant to convey. Some said it means the earth has not become so narrow for you that you must stay in a place where staying is not lawful for you; rather, when disobedience to Allah is practised somewhere in it and you are unable to change it, flee from there. He gives this from Sa'id ibn Jubayr by more than a single chain: when sins are done in it, leave it.",
+            "bn": "ইন্না আরদী ওয়াসিআহ: নিশ্চয়ই আমার যমীন প্রশস্ত। তাবারী জানান, যমীনের এই প্রশস্ততার খবর দিয়ে কী বোঝানো হয়েছে, তা নিয়ে তাফসীরবিদদের মধ্যে মতভেদ আছে। একদল বলেছেন, অর্থ হলো: যমীন তোমাদের জন্য এত সংকীর্ণ হয়ে যায়নি যে এমন জায়গায় থাকতেই হবে, যেখানে থাকা তোমাদের জন্য বৈধ নয়। বরং যমীনের কোথাও যখন আল্লাহর নাফরমানি চলে আর তোমরা তা বদলাতে পারো না, তখন সেখান থেকে পালাও। তিনি এ কথা সাঈদ ইবন জুবাইর থেকে একাধিক সনদে আনেন: যখন সেখানে গুনাহ করা হয়, সেখান থেকে বেরিয়ে যাও।"
+          },
+          {
+            "en": "'Ata, in at-Tabari's chains, puts it in two forms: when you are commanded to commit sins, flee, for My earth is wide; and, more briefly, keeping away from the people of sin. Mujahid's gloss is shorter still: so emigrate and strive. Others read the breadth as provision. Mutarrif ibn 'Abd Allah ibn ash-Shikhkhir, by two chains: My provision for you is wide. On this reading the clause answers the fear of going hungry in a new land, rather than the fear for faith in the old.",
+            "bn": "আতা তাবারীর সনদে কথাটা বলেন দুটি রূপে। এক রূপে: তোমাদের যখন গুনাহের আদেশ দেওয়া হয়, পালাও, কারণ আমার যমীন প্রশস্ত। আরেক রূপে আরও সংক্ষেপে: গুনাহগারদের থেকে দূরে থাকা। মুজাহিদের ব্যাখ্যা আরও ছোট: তাই হিজরত করো আর সংগ্রাম করো। অন্য একদল প্রশস্ততাকে রিযক অর্থে নিয়েছেন। মুতাররিফ ইবন আবদুল্লাহ ইবনুশ শিখখীর, দুটি সনদে: তোমাদের জন্য আমার রিযক প্রশস্ত। এই পাঠে বাক্যটি জবাব দেয় নতুন দেশে না খেয়ে থাকার ভয়ের, পুরোনো দেশে দ্বীন হারানোর ভয়ের নয়।"
+          },
+          {
+            "en": "At-Tabari then states his preference. The more fitting of the two sayings, he writes, is the reading that says: My earth is wide, so flee from whoever prevents you from acting in obedience to Me. He gives two reasons. The words so worship Me point to it, and it is the more apparent of the two meanings: when the earth is described as wide, the usual sense is that the whole of it does not close in on someone for whom a spot of it has closed in, not that it is being praised for plenty and fertile ground.",
+            "bn": "এরপর তাবারী নিজের পছন্দ জানান। তাঁর মতে দুটি মতের মধ্যে বেশি উপযুক্ত সেটি, যা বলে: আমার যমীন প্রশস্ত, তাই আমার আনুগত্যের কাজে যে তোমাদের বাধা দেয় তার কাছ থেকে পালাও। তিনি দুটি কারণ দেন। 'কাজেই আমারই ইবাদত করো' কথাটি এদিকেই ইঙ্গিত করে। আর দুটি অর্থের মধ্যে এটিই বেশি স্পষ্ট। যমীনকে প্রশস্ত বলা হলে সাধারণত বোঝায়, যার জন্য যমীনের কোনো কোণ সংকীর্ণ হয়ে এসেছে, তার জন্য গোটা যমীন সংকীর্ণ হয়ে যায় না। প্রচুর ফসল আর উর্বর মাটির প্রশংসা এখানে উদ্দেশ্য নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mercy, Bread and a Garden",
+          "bn": "রহমত, রুটি আর জান্নাত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gathers more readings around the same phrase. From Mutarrif he gives a wording beside the provision reading: My mercy is wide. He also gives the provision reading with a practical turn: My provision for you is wide, so seek it in the earth. Then Sufyan ath-Thawri: if you are in a land of high prices, move to another, where you can fill your bag with bread for a dirham. Al-Baghawi has Mutarrif's provision reading as well, and closes it with a command: so go out.",
+            "bn": "কুরতুবী একই বাক্যাংশ ঘিরে আরও কয়েকটি পাঠ জড়ো করেন। মুতাররিফ থেকে রিযকের পাঠের পাশাপাশি আরেকটি ভাষ্য আনেন: আমার রহমত প্রশস্ত। রিযকের পাঠটিও তিনি আনেন কাজের কথায় মুড়ে: তোমাদের জন্য আমার রিযক প্রশস্ত, তাই যমীনে তা খোঁজো। তারপর সুফিয়ান সাওরী: তুমি যদি এমন দেশে থাকো যেখানে জিনিসের দাম চড়া, তবে অন্য দেশে চলে যাও, যেখানে এক দিরহামে থলে ভরে রুটি কিনতে পারবে। বাগাভীও মুতাররিফের রিযকের পাঠ আনেন, আর শেষ করেন এক আদেশে: তাই বেরিয়ে পড়ো।"
+          },
+          {
+            "en": "Last, under it is said, al-Qurtubi records that the earth meant is the land of Paradise, which is wide: so worship Me until I make you inherit it. These readings are set down here as the commentators give them, with no ranking beyond at-Tabari's own. The 39:10 article, on a verse that also calls the earth of Allah spacious, follows the Paradise and provision readings further. And 29:60, four verses on, answers the fear of hunger that the provision reading touches, so that fear is only pointed to here.",
+            "bn": "সবশেষে 'বলা হয়' দিয়ে কুরতুবী আরেকটি মত আনেন: এখানে যমীন মানে জান্নাতের ভূমি, যা প্রশস্ত। অর্থাৎ আমার ইবাদত করো, যতক্ষণ না আমি তোমাদের তার উত্তরাধিকারী করি। পাঠগুলো এখানে রাখা হলো তাফসীরকারেরা যেভাবে দিয়েছেন সেভাবেই। তাবারীর নিজের পছন্দের বাইরে কোনো ক্রম বসানো হয়নি। ৩৯:১০ আয়াতও আল্লাহর যমীনকে প্রশস্ত বলে, আর সেই আয়াতের প্রবন্ধে জান্নাত ও রিযকের পাঠ আরও বিস্তারে এসেছে। আর চারটি আয়াত পরে ২৯:৬০ আয়াত রিযকের পাঠে যে ক্ষুধার ভয় ছুঁয়ে যায় তার জবাব দেয়। তাই সেই ভয়ের কথা এখানে শুধু ইঙ্গিতে থাকল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Beyond Makkah, With Conditions",
+          "bn": "মক্কার বাইরেও, শর্তসহ"
+        },
+        "p": [
+          {
+            "en": "Does the call stop at Makkah? Several of the commentators fetched here say it does not, and each attaches a condition. Al-Qurtubi reports from Ibn Jubayr and 'Ata that the verse applies to any land in which there is oppression and wrongdoing, and that emigrating from it to a land of truth becomes binding; he adds that Malik said the same. Al-Baghawi, after the reports, writes in his own voice that it is likewise obligatory on anyone in a town where sins are committed, who cannot change that, to emigrate to where worship is possible for him.",
+            "bn": "ডাকটা কি মক্কাতেই থেমে যায়? এখানে আনা কয়েকজন তাফসীরকার বলেন, না। তবে প্রত্যেকে একটা শর্ত জুড়ে দেন। কুরতুবী ইবন জুবাইর ও আতা থেকে জানান, যে দেশে জুলুম আর অন্যায় চলে সেখানে এ আয়াত প্রযোজ্য, আর সেখান থেকে সত্যের দেশে হিজরত করা জরুরি হয়ে পড়ে। তিনি যোগ করেন, মালিকও একই কথা বলেছেন। বাগাভী বর্ণনাগুলোর পর নিজের ভাষায় লেখেন: যে শহরে গুনাহ চলে আর কেউ তা বদলাতে পারে না, তার উপরও একইভাবে আবশ্যক, এমন জায়গায় হিজরত করা যেখানে সে ইবাদত করতে পারবে।"
+          },
+          {
+            "en": "As-Sa'di puts it as a principle: if worshipping your Lord becomes impossible for you in a land, move from it to another where worship is for Allah alone. The Muyassar frames the whole verse with a condition: if you are in straits over showing faith and worshipping Allah alone. Ma'arif al-Qur'an speaks of leaving the land where a person is forced into disbelief and sin, so that nobody can plead that the disbelievers held power in his city or country. These are the commentators' positions, given in their names. The article itself issues no ruling; a reader asking about his own circumstances should take that question to qualified scholars.",
+            "bn": "সা'দী কথাটা বলেন নীতি আকারে: কোনো দেশে যদি তোমার রবের ইবাদত করা অসম্ভব হয়ে যায়, সেখান থেকে এমন দেশে চলে যাও যেখানে ইবাদত হয় একমাত্র আল্লাহর জন্য। মুয়াসসার গোটা আয়াতটিকেই একটি শর্তের ভেতর রাখে: ঈমান প্রকাশ করতে আর একমাত্র আল্লাহর ইবাদত করতে গিয়ে তোমরা যদি সংকটে থাকো। মাআরিফুল কুরআন বলে সেই দেশ ছাড়ার কথা, যেখানে মানুষকে কুফর আর গুনাহে জড়াতে বাধ্য করা হয়, যাতে কেউ ওজর দেখাতে না পারে যে তার শহরে বা দেশে কাফিরদের ক্ষমতা ছিল। এগুলো তাফসীরকারদের মত, তাঁদের নামেই দেওয়া হলো। এ প্রবন্ধ নিজে কোনো ফতোয়া দেয় না। নিজের অবস্থা নিয়ে যাঁর প্রশ্ন আছে, তিনি তা যোগ্য আলেমদের কাছে নিয়ে যাবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Me, Worship Me",
+          "bn": "আমারই, আমারই ইবাদত"
+        },
+        "p": [
+          {
+            "en": "Fa-iyyaya fa'budun: so Me, worship Me. Al-Qurtubi explains the grammar. Iyyaya is in the accusative through a verb left unstated, as if it ran: so worship Me, Me worship; the verb that is spoken makes the repeated verb unnecessary. The fa, he says, carries the sense of a condition: if a place becomes narrow for you, then worship Me in another, because My earth is wide. On his reading the breadth serves the worship: it is why another place is always there for it.",
+            "bn": "ফাইয়্যায়া ফা'বুদূন: কাজেই আমাকেই, আমারই ইবাদত করো। কুরতুবী ব্যাকরণটা খুলে বলেন। ইয়্যায়া শব্দটি যবরযুক্ত, একটি উহ্য ক্রিয়ার কারণে। যেন বাক্যটি ছিল: আমার ইবাদত করো, আমারই ইবাদত করো। যে ক্রিয়াটি উচ্চারিত, সেটিই দ্বিতীয়বার বলার প্রয়োজন মিটিয়ে দেয়। তিনি বলেন, এখানে 'ফা' শর্তের অর্থ বহন করে: কোনো জায়গা যদি তোমাদের জন্য সংকীর্ণ হয়ে যায়, তবে অন্য জায়গায় আমার ইবাদত করো, কারণ আমার যমীন প্রশস্ত। তাঁর পাঠে প্রশস্ততা ইবাদতেরই কাজে লাগে: এ কারণেই ইবাদতের জন্য আরেকটা জায়গা সবসময় খোলা থাকে।"
+          },
+          {
+            "en": "At-Tabari draws the meaning out in two clauses: make your worship and your obedience sincere for Me, and obey none of My creation in disobedience to Me. In his wording the danger named is obeying someone else against Allah, more than the place as such. As-Sa'di closes his short comment with a balanced line: the places of worship and its sites are wide, and the One worshipped is One. The Muyassar ends the same way, with sincerity: make worship sincere for Me alone. The width of the earth and the singleness of the Lord are set side by side.",
+            "bn": "তাবারী অর্থটা খুলে দেন দুটি বাক্যে: তোমাদের ইবাদত আর আনুগত্য আমার জন্য খাঁটি করো, আর আমার নাফরমানির কাজে আমার সৃষ্টির কারও আনুগত্য কোরো না। তাঁর ভাষায় যে বিপদের নাম আসে, তা জায়গার চেয়ে বেশি আল্লাহর বিরুদ্ধে অন্য কারও আনুগত্য। সা'দী তাঁর ছোট্ট আলোচনা শেষ করেন সুষম এক বাক্যে: ইবাদতের জায়গা আর স্থান অনেক প্রশস্ত, আর যাঁর ইবাদত করা হয় তিনি একজনই। মুয়াসসারও শেষ করে একইভাবে, ইখলাসের কথায়: একমাত্র আমার জন্যই ইবাদত খাঁটি করো। যমীনের প্রশস্ততা আর রবের একত্ব এখানে পাশাপাশি দাঁড়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Death and Hunger, Answered Next",
+          "bn": "মৃত্যু আর ক্ষুধা, পরের জবাব"
+        },
+        "p": [
+          {
+            "en": "The next verse meets the first fear an emigrant carries. 29:57: every soul will taste death, then to Us you will be returned. Ibn Kathir's abridged English gives its sense: wherever you are, death will reach you, so always obey Allah and be where He commands you to be, for that is better for you. Ma'arif al-Qur'an notes that a person setting out on hijrah usually faces risks that can hold him back, and names the first as a risk to his life, from enemies who might block him or catch him on the way.",
+            "bn": "পরের আয়াতটি মুহাজিরের মনের প্রথম ভয়ের মুখোমুখি হয়। ২৯:৫৭: প্রতিটি প্রাণ মৃত্যুর স্বাদ নেবে, তারপর আমার কাছেই তোমাদের ফিরিয়ে আনা হবে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এর অর্থ দেয় এভাবে: তুমি যেখানেই থাকো, মৃত্যু তোমাকে ধরবেই। তাই সবসময় আল্লাহর আনুগত্য করো, আর তিনি যেখানে থাকতে বলেন সেখানে থাকো, এটাই তোমার জন্য ভালো। মাআরিফুল কুরআন বলে, হিজরতে বের হওয়া মানুষ সাধারণত এমন ঝুঁকির মুখে পড়ে যা তাকে পিছিয়ে দিতে পারে। প্রথম ঝুঁকি তার জীবনের, শত্রুরা পথ আটকাতে পারে বা পথে ধরে ফেলতে পারে।"
+          },
+          {
+            "en": "The other fear, of going without, is answered at 29:60, where creatures that carry no provision of their own are fed; that article covers it. Two other verses use the same words and are only cited here. In 4:97 the angels ask those who stayed on while wronging themselves: was not the earth of Allah spacious for you to emigrate in it? And in 39:10 the earth of Allah is spacious stands beside the promise that the patient will be given their reward without account.",
+            "bn": "অন্য ভয়টি, অভাবের ভয়, তার জবাব আসে ২৯:৬০ আয়াতে, যেখানে নিজের রিযক বয়ে না বেড়ানো প্রাণীরাও খাবার পায়। সে আয়াতের প্রবন্ধে কথাটা এসেছে। আরও দুটি আয়াতে একই শব্দ আছে, সেগুলো এখানে শুধু উল্লেখ করা হলো। ৪:৯৭ আয়াতে ফেরেশতারা তাদের জিজ্ঞেস করে, যারা নিজেদের উপর জুলুম করে থেকে গিয়েছিল: আল্লাহর যমীন কি প্রশস্ত ছিল না যে তোমরা তাতে হিজরত করতে? আর ৩৯:১০ আয়াতে 'আল্লাহর যমীন প্রশস্ত' কথাটি বসেছে এই প্রতিশ্রুতির পাশে যে ধৈর্যশীলদের পুরস্কার দেওয়া হবে হিসাব ছাড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Way Out, Not a Programme",
+          "bn": "বেরোনোর পথ, কোনো কর্মসূচি নয়"
+        },
+        "p": [
+          {
+            "en": "One thing needs saying firmly. The verse addresses believers who were prevented from worshipping Allah in seventh-century Makkah, and describes the way out given to them. It sets out no present-day political programme, passes no verdict on any state, city or community, and licenses no harm to anyone, Muslim or not, in any land. Those who pressed the early Muslims appear in this passage only as the text describes them, and that licenses nothing against any living person or community. Nor does it rule on where any reader should live; that belongs with qualified scholars.",
+            "bn": "একটা কথা দৃঢ়ভাবে বলা দরকার। আয়াতটি সম্বোধন করে সেই মুমিনদের, যাদের সপ্তম শতাব্দীর মক্কায় আল্লাহর ইবাদত করতে বাধা দেওয়া হচ্ছিল, আর বর্ণনা করে তাদের জন্য খুলে দেওয়া বেরোনোর পথ। এ আয়াত আজকের দিনের কোনো রাজনৈতিক কর্মসূচি দেয় না। কোনো রাষ্ট্র, শহর বা জনগোষ্ঠীর বিরুদ্ধে রায় দেয় না। কোনো দেশে কারও, মুসলিম হোক বা না হোক, ক্ষতি করার অনুমতিও দেয় না। প্রথম যুগের মুসলিমদের যারা কোণঠাসা করেছিল, তাদের কথা এখানে আছে ঠিক ততটুকু, যতটুকু পাঠ বলে। তা কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। কোনো পাঠক কোথায় থাকবেন, সে বিষয়েও আয়াতটি রায় দেয় না। সে প্রশ্ন যোগ্য আলেমদের।"
+          }
+        ]
+      }
+    ]
+  },
   "29:60": {
     "sections": [
       {
