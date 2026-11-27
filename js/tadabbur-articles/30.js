@@ -451,6 +451,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "30:12": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words After the Return",
+          "bn": "ফিরে যাওয়ার পরের পাঁচ শব্দ"
+        },
+        "p": [
+          {
+            "en": "Wa yawma taqumu as-sa'atu yublisu al-mujrimun: and on the Day the Hour is established, the criminals will be struck dumb with despair. Five Arabic words, placed straight after 30:11, where Allah begins creation, then repeats it, and then to Him you are returned. Ibn Kathir's abridged commentary reads the two together: as He made creation the first time, He is able to repeat it, and on the Day of Resurrection each person is repaid for his deeds. Then, he says, Allah speaks of this Day.",
+            "bn": "ওয়া ইয়াওমা তাকূমুস সা'আতু ইউবলিসুল মুজরিমূন: আর যেদিন ক্বিয়ামত কায়েম হবে, সেদিন অপরাধীরা হতাশায় বোবা হয়ে যাবে। আরবিতে মাত্র পাঁচটি শব্দ। আয়াতটি বসেছে ঠিক ৩০:১১ আয়াতের পরে, যেখানে বলা হয়েছে, আল্লাহ সৃষ্টির সূচনা করেন, তারপর তা আবার করবেন, তারপর তাঁর কাছেই তোমাদের ফিরিয়ে নেওয়া হবে। ইবন কাসীরের সংক্ষিপ্ত তাফসীর দুটিকে একসঙ্গে পড়ে। প্রথমবার যেমন সৃষ্টি করেছেন, তেমনি আবার করতেও তিনি সক্ষম, আর ক্বিয়ামতের দিন প্রত্যেকে নিজের আমলের প্রতিদান পাবে। এরপর, তিনি বলেন, আল্লাহ এই দিনের কথা বলছেন।"
+          },
+          {
+            "en": "At-Tabari fills in what the Hour brings. It is the Hour in which Allah judges between His creatures, raises the dead from their graves and gathers them to the place where they stand for the reckoning. As-Sa'di puts it from the people's side: they stand for the Lord of the worlds, and they come to the Resurrection seeing it with their own eyes. The verb taqumu means stands or is established. At-Tabari glosses it simply as comes; as-Sa'di carries it over to the people, who are the ones standing.",
+            "bn": "ক্বিয়ামত কী নিয়ে আসে, তাবারী তা খুলে বলেন। এ সেই মুহূর্ত, যখন আল্লাহ তাঁর সৃষ্টির মধ্যে ফয়সালা করবেন, মৃতদের কবর থেকে উঠাবেন, আর হিসাবের জন্য দাঁড়ানোর জায়গায় তাদের একত্র করবেন। সা'দী বলেন মানুষের দিক থেকে। মানুষ দাঁড়াবে জগতসমূহের রবের সামনে, আর ক্বিয়ামতের কাছে পৌঁছাবে নিজের চোখে তা দেখতে দেখতে। তাকূমু ক্রিয়ার অর্থ দাঁড়ানো বা কায়েম হওয়া। তাবারী একে সহজভাবে বলেন আসা। সা'দী ক্রিয়াটিকে নিয়ে যান মানুষের দিকে: দাঁড়াবে তারাই।"
+          },
+          {
+            "en": "The opening phrase wa yawma taqumu as-sa'atu returns twice more in this surah. In 30:14 it introduces the parting of people into two companies, and in 30:55 it introduces the criminals swearing that they stayed no more than an hour. Both of those verses have their own articles. This verse comes first and says the least: before any oath, before any sorting, the first thing told about the criminals is that they fall into despair.",
+            "bn": "শুরুর বাক্যাংশ ওয়া ইয়াওমা তাকূমুস সা'আহ এই সূরায় আরও দুবার ফিরে আসে। ৩০:১৪ আয়াতে তা মানুষের দুই দলে ভাগ হয়ে যাওয়ার সূচনা করে। ৩০:৫৫ আয়াতে তা নিয়ে আসে অপরাধীদের কসম, যে তারা এক মুহূর্তের বেশি থাকেনি। ওই দুই আয়াত নিয়ে আলাদা প্রবন্ধ আছে। এ আয়াত আসে সবার আগে, আর বলে সবচেয়ে কম। কসমের আগে, ভাগাভাগির আগে, অপরাধীদের সম্পর্কে প্রথম খবর হলো: তারা হতাশায় ডুবে যাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Early Readers Heard",
+          "bn": "প্রথম যুগের ব্যাখ্যায় শব্দটি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir collects three early glosses on yublisu in a single line. Ibn 'Abbas (RA) said: the criminals despair. Mujahid said: the criminals are exposed, and in another report from him, the criminals are grief-stricken. Al-Baghawi keeps Mujahid's first word, they are exposed. At-Tabari gives the second with its chains of narrators, through Ibn Abi Najih from Mujahid: yublisu means yakta'ibu, he is overcome with grief.",
+            "bn": "ইউবলিসু শব্দের তিনটি প্রাচীন ব্যাখ্যা ইবন কাসীর এক লাইনে জড়ো করেন। ইবন আব্বাস (রাঃ) বলেছেন: অপরাধীরা নিরাশ হবে। মুজাহিদ বলেছেন: অপরাধীরা লাঞ্ছিত হবে, তাদের মুখোশ খুলে যাবে। তাঁর কাছ থেকে আরেক বর্ণনায় আছে: অপরাধীরা দুঃখে ভেঙে পড়বে। বাগাভী মুজাহিদের প্রথম কথাটিই রাখেন, তারা লাঞ্ছিত হবে। তাবারী দ্বিতীয়টি আনেন বর্ণনাকারীদের সূত্রসহ, ইবন আবী নাজীহের মাধ্যমে মুজাহিদ থেকে: ইউবলিসু মানে ইয়াকতাইবু, দুঃখে কাতর হয়ে পড়া।"
+          },
+          {
+            "en": "Qatada appears twice, with two different emphases. Al-Baghawi reports from Qatada and al-Kalbi that the idolaters despair of every good. At-Tabari's report from Qatada adds only a location to the verse: yublisu al-mujrimun, that is, in the Fire. Ibn Zayd, also in at-Tabari, defines the word through what has happened to the man: al-mublis is the one upon whom evil has descended; when a man ablasa, a calamity has come down on him. Here the despair is not only a feeling but the mark of a blow already landed.",
+            "bn": "কাতাদার নাম আসে দুবার, দুই ভিন্ন জোর দিয়ে। বাগাভী কাতাদা ও কালবী থেকে বর্ণনা করেন: মুশরিকরা সব রকম কল্যাণ থেকে নিরাশ হয়ে যাবে। তাবারীর বর্ণনায় কাতাদা আয়াতের সঙ্গে শুধু একটা জায়গার নাম জুড়ে দেন: ইউবলিসুল মুজরিমূন, অর্থাৎ জাহান্নামে। ইবন যায়দও তাবারীর কাছে আছেন। তিনি শব্দটা বোঝান মানুষটার উপর কী ঘটেছে তা দিয়ে। মুবলিস সেই লোক, যার উপর অমঙ্গল নেমে এসেছে। কেউ যখন আবলাসা হয়, বুঝতে হবে তার উপর বিপদ নেমেছে। এখানে হতাশা কেবল মনের অবস্থা নয়, পড়ে যাওয়া আঘাতের দাগও।"
+          },
+          {
+            "en": "At-Tabari's own paraphrase holds several of these together. Yublisu, he says, means that those who associated partners with Allah, and earned in the world evil deeds of every kind, despair; they are grief-stricken and they regret. He then adds that the people of interpretation said much the same, before listing the reports above. Despair, grief and regret in a single sentence: hope ending, the weight of that ending, and the backward look at what caused it.",
+            "bn": "তাবারীর নিজের ব্যাখ্যায় এগুলোর কয়েকটি একসঙ্গে ধরা আছে। তিনি বলেন, ইউবলিসু মানে যারা আল্লাহর সঙ্গে শরীক করেছে আর দুনিয়ায় সব রকম মন্দ আমল কামিয়েছে, তারা নিরাশ হবে, দুঃখে কাতর হবে, অনুতাপে পুড়বে। তারপর তিনি জানান, তাফসীরবিদরাও প্রায় এ কথাই বলেছেন, আর ওপরের বর্ণনাগুলো একে একে আনেন। এক বাক্যে হতাশা, শোক আর অনুতাপ। আশা ফুরিয়ে যাওয়া, সেই ফুরোনোর ভার, আর যে কারণে ফুরোল তার দিকে পেছন ফিরে তাকানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Silent, With the Case Gone",
+          "bn": "মুখ বন্ধ, যুক্তিও শেষ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi turns to the language. The well-known sense, he writes, is that ablasa ar-rajul is said of a man who falls silent and whose argument is cut off, with no hope left of having any; close to it is to be bewildered. He cites the rajaz couplet of al-'Ajjaj, which at-Tabari also quotes: O my companion, do you recognise a trace worn down? He said: yes, I recognise it, and ablasa. The speaker knows the place, says so, and then the word the commentators are explaining takes over.",
+            "bn": "কুরতুবী যান ভাষার দিকে। তিনি লেখেন, প্রচলিত অর্থে আবলাসার রাজুলু বলা হয় সেই লোককে, যে চুপ হয়ে গেছে, যার যুক্তি কেটে গেছে, আর কোনো যুক্তি খুঁজে পাওয়ার আশাও যার নেই। এর কাছাকাছি অর্থ হতবুদ্ধি হয়ে যাওয়া। তিনি কবি আজ্জাজের রাজায ছন্দের দুই পঙক্তি উদ্ধৃত করেন, যা তাবারীও এনেছেন: হে সাথী, ক্ষয়ে যাওয়া এই চিহ্নটা কি চেনো? সে বলল, হ্যাঁ, চিনি। তারপর সে আবলাসা হলো। বক্তা জায়গাটা চেনে, মুখে স্বীকারও করে, তারপর যে শব্দটির ব্যাখ্যা চলছে সেটিই তার অবস্থা হয়ে দাঁড়ায়।"
+          },
+          {
+            "en": "Two grammarians quoted inside the tafsirs say it more sharply. Az-Zajjaj, in al-Qurtubi: the mublis is the man who is silent, cut off in his argument, despairing of ever finding his way to it. Al-Farra', in al-Baghawi: their speech and their argument are cut off. The Muyassar, in its plain style, joins both sides of the word: on that Day the criminals despair of being saved from the punishment, bewilderment seizes them, and their argument is cut off.",
+            "bn": "তাফসীরের ভেতরে উদ্ধৃত দুই ব্যাকরণবিদ কথাটা আরও ধারালো করে বলেন। কুরতুবীতে যাজ্জাজ বলেন: মুবলিস সেই, যে চুপ, যার যুক্তি কেটে গেছে, আর সে যুক্তির নাগাল কোনোদিন পাওয়ার আশাও যে ছেড়ে দিয়েছে। বাগাভীতে ফাররা বলেন: তাদের কথা আর যুক্তি দুটোই বন্ধ হয়ে যায়। মুয়াসসার তার সহজ ভাষায় শব্দের দুই দিক একসঙ্গে এনেছে: সেদিন অপরাধীরা শাস্তি থেকে রেহাই পাওয়ার আশা হারাবে, দিশেহারা হয়ে পড়বে, আর তাদের যুক্তি কেটে যাবে।"
+          },
+          {
+            "en": "Al-Qurtubi also records a reading by Abu 'Abd ar-Rahman as-Sulami, yublasu, with a fatha on the lam, which reads the verb in the passive form. The plain reading stays yublisu. Either way the word has an inside and an outside: despair within, silence without. Read after 30:10, where those who did evil denied Allah's signs and mocked them, the contrast is plain. Mockery was their reply then; on this Day there is no reply at all.",
+            "bn": "কুরতুবী আবু আব্দির রহমান সুলামীর একটি কিরাআতও উল্লেখ করেন: ইউবলাসু, লাম অক্ষরে যবর দিয়ে, যাতে ক্রিয়াটি কর্মবাচ্যের রূপে পড়া হয়। প্রচলিত পাঠ ইউবলিসুই থাকে। যেভাবেই পড়া হোক, শব্দটির একটা ভেতর আছে, একটা বাইরেও আছে। ভেতরে হতাশা, বাইরে নীরবতা। ৩০:১০ আয়াতের পরে পড়লে তফাতটা চোখে পড়ে। সেখানে যারা মন্দ কাজ করত, তারা আল্লাহর নিদর্শনকে মিথ্যা বলেছিল, সেগুলো নিয়ে ঠাট্টা করেছিল। তখন ঠাট্টাই ছিল তাদের জবাব। এদিন কোনো জবাবই নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Is Iblis Named From This?",
+          "bn": "ইবলীস নামের উৎস কি এটাই?"
+        },
+        "p": [
+          {
+            "en": "The verb yublisu shares its letters, b-l-s, with the name Iblis, and al-Qurtubi records that the link has been drawn. Some grammarians, he writes, claimed that Iblis is derived from this word, and that he ablasa because his argument was cut off. On that view the name would describe him: he who was left without a case before his Lord, and despaired. It is a tempting reading, because it ties a verse about the criminals' silence to the figure the Qur'an shows refusing to prostrate when the angels did, in 2:34.",
+            "bn": "ইউবলিসু ক্রিয়ার অক্ষরগুলো, ব-ল-স, ইবলীস নামেও আছে। কুরতুবী জানান, এ দুটির মধ্যে সম্পর্ক টানা হয়েছে। তিনি লেখেন, কোনো কোনো ব্যাকরণবিদের দাবি, ইবলীস নামটি এই শব্দ থেকেই এসেছে। তার যুক্তি কেটে গিয়েছিল বলেই সে আবলাসা হয়েছিল। এ মত মানলে নামটাই তার পরিচয় বলে দেয়: রবের সামনে যার কোনো যুক্তি অবশিষ্ট ছিল না, আর যে নিরাশ হয়ে গিয়েছিল। ব্যাখ্যাটা টানে, কারণ এতে অপরাধীদের নীরবতা নিয়ে এই আয়াত জুড়ে যায় সেই সত্তার সঙ্গে, যে ২:৩৪ আয়াতে ফেরেশতারা সিজদা করার সময় সিজদা করতে অস্বীকার করেছিল।"
+          },
+          {
+            "en": "Al-Qurtubi then gives an-Nahhas's objection. Had it been as that grammarian said, the name would have had to be declinable, and in the Qur'an it is not declined. A fully declinable noun takes nunation, the -an or -in ending; Iblis never does. In 2:34 it is illa Iblisa, and in 26:95 junudu Iblisa, a genitive that still ends in a single fatha. That is the whole of an-Nahhas's argument: a name derived from the Arabic verb would have been declined, and this one is not.",
+            "bn": "এরপর কুরতুবী আনেন নাহহাসের আপত্তি। ওই ব্যাকরণবিদের কথা ঠিক হলে নামটি পূর্ণ বিভক্তিযুক্ত, অর্থাৎ মুনসারিফ হওয়ার কথা ছিল। অথচ কুরআনে নামটি মুনসারিফ নয়। পূর্ণ বিভক্তির বিশেষ্যে তানবীন আসে, শেষে -আন বা -ইন। ইবলীস নামে তা কখনো আসে না। ২:৩৪ আয়াতে আছে ইল্লা ইবলীসা, আর ২৬:৯৫ আয়াতে জুনূদু ইবলীসা। দ্বিতীয়টি সম্বন্ধপদ, তবু শেষে কেবল একটি যবর। নাহহাসের পুরো যুক্তি এটুকুই: আরবি ক্রিয়া থেকে নাম তৈরি হলে তা মুনসারিফ হতো, অথচ এ নাম মুনসারিফ নয়।"
+          },
+          {
+            "en": "Al-Qurtubi sets the claim and the objection side by side and does not rule between them in this passage, and neither will this article. It is a question about the origin of a name, not about faith, and nothing in the verse depends on it. Whatever the name's history, the meaning of yublisu is settled by the glosses already seen: despair, silence, a case that has run out. If the link holds, the criminals on that Day are shown in his condition; if it does not, the verse loses nothing.",
+            "bn": "কুরতুবী দাবি আর আপত্তি পাশাপাশি রাখেন, এ অংশে কোনোটির পক্ষে রায় দেন না। এ প্রবন্ধও দেবে না। প্রশ্নটা একটা নামের উৎস নিয়ে, ঈমান নিয়ে নয়, আর আয়াতের অর্থ এর উপর নির্ভর করে না। নামের ইতিহাস যা-ই হোক, ইউবলিসুর অর্থ আগের ব্যাখ্যাগুলোতেই স্থির: হতাশা, নীরবতা, ফুরিয়ে যাওয়া যুক্তি। সম্পর্কটা টিকলে সেদিনের অপরাধীদের দেখা যায় তারই অবস্থায়। না টিকলেও আয়াতের কিছুই হারায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom Al-Mujrimun Covers",
+          "bn": "আল-মুজরিমূন কাদের বোঝায়"
+        },
+        "p": [
+          {
+            "en": "The commentators define al-mujrimun from the verses around it. At-Tabari names them as those who associated partners with Allah and earned in the world evil deeds of every kind. Al-Baghawi's report from Qatada and al-Kalbi simply puts al-mushrikun, the idolaters, in the word's place. As-Sa'di explains ijram itself: the sins they sent ahead to that Day, of disbelief, associating partners and disobedience. The very next verse, 30:13, speaks of their partners failing to intercede, which is why shirk stands at the front of every definition.",
+            "bn": "আশপাশের আয়াত দেখেই তাফসীরকারেরা আল-মুজরিমূন শব্দের অর্থ ঠিক করেন। তাবারীর কাছে তারা সেই লোক, যারা আল্লাহর সঙ্গে শরীক করেছে আর দুনিয়ায় সব রকম মন্দ আমল কামিয়েছে। কাতাদা ও কালবী থেকে বাগাভীর বর্ণনায় শব্দটির জায়গায় সরাসরি বসেছে আল-মুশরিকূন, অর্থাৎ মুশরিকরা। সা'দী ইজরাম শব্দটাই ব্যাখ্যা করেন: সেই সব গুনাহ, যা তারা ওই দিনের জন্য আগে পাঠিয়েছিল, কুফর, শিরক আর নাফরমানি। ঠিক পরের আয়াত ৩০:১৩ বলে, তাদের শরীকরা তাদের জন্য সুপারিশ করবে না। এ কারণেই প্রতিটি সংজ্ঞায় শিরক সবার সামনে।"
+          },
+          {
+            "en": "As-Sa'di's list is wider, since it names disobedience alongside disbelief, but his condition narrows it again. They despaired, he says, because they sent forward the causes of punishment and did not mix them with anything from the causes of reward. The person the verse describes is not anyone who has ever sinned. It is the person whose account, when it is opened, holds nothing else. The three commentators differ in how they phrase the group, not in where its centre lies.",
+            "bn": "সা'দীর তালিকা একটু চওড়া, কারণ কুফরের পাশে তিনি নাফরমানির কথাও বলেন। তবে তাঁর শর্ত তালিকাটাকে আবার সরু করে দেয়। তিনি বলেন, তারা নিরাশ হয়েছিল কারণ শাস্তির কারণগুলোই তারা আগে পাঠিয়েছিল, আর তার সঙ্গে সওয়াবের কোনো কারণ একটুও মেশায়নি। আয়াত যার ছবি আঁকে, সে এমন কেউ নয় যে জীবনে কখনো গুনাহ করেছে। সে সেই লোক, যার হিসাবের খাতা খুললে আর কিছুই পাওয়া যায় না। তিনজন তাফসীরকারের তফাত দলটাকে কোন ভাষায় বলছেন তাতে, দলের কেন্দ্র কোথায় তাতে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Despaired, and Bankrupt",
+          "bn": "নিরাশ, আর নিঃস্ব"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di closes his comment with three verbs in a row: ayisu wa ablasu wa aflasu. They despaired, they fell silent in despair, and they went bankrupt. Ablasa and aflasa differ by a single letter, and the pairing makes the point audible: the one who has run out of argument has also run out of credit. A bankrupt man is not short of words because he is shy. He is short of them because there is nothing in his hand to point to.",
+            "bn": "সা'দী তাঁর ব্যাখ্যা শেষ করেন পরপর তিনটি ক্রিয়া দিয়ে: আয়িসূ ওয়া আবলাসূ ওয়া আফলাসূ। তারা নিরাশ হলো, হতাশায় চুপ হয়ে গেল, আর দেউলিয়া হয়ে গেল। আরবিতে আবলাসা আর আফলাসা শব্দে তফাত মাত্র একটি অক্ষরের। দুটিকে পাশাপাশি রাখায় কথাটা কানেও ধরা পড়ে: যুক্তি যার ফুরিয়েছে, তার পুঁজিও ফুরিয়েছে। দেউলিয়া মানুষ লাজুক বলে চুপ থাকে না। চুপ থাকে, কারণ দেখানোর মতো কিছুই তার হাতে নেই।"
+          },
+          {
+            "en": "He adds one more loss: what they used to invent strayed away from them, namely the benefit they expected from their partners and their belief that those partners would intercede for them. That is where 30:13 takes up the thread, and 30:55 later shows the criminals swearing that they stayed no more than an hour. The hope they had placed in something other than Allah has simply gone missing.",
+            "bn": "তিনি আরও একটি হারানোর কথা যোগ করেন: যা তারা মনগড়া বানিয়েছিল, তা তাদের কাছ থেকে হারিয়ে গেল। মানে শরীকদের কাছ থেকে উপকারের যে আশা, আর তারা সুপারিশ করবে বলে যে বিশ্বাস। ঠিক এখান থেকেই ৩০:১৩ আয়াত সুতো ধরে। পরে ৩০:৫৫ আয়াত দেখায়, অপরাধীরা কসম খেয়ে বলছে, তারা এক মুহূর্তের বেশি থাকেনি। আল্লাহ ছাড়া অন্য কিছুর উপর যে আশা তারা রেখেছিল, তা স্রেফ উধাও হয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Word Elsewhere",
+          "bn": "অন্য আয়াতে একই শব্দ"
+        },
+        "p": [
+          {
+            "en": "The participle mublisun, in despair, appears in other verses of punishment. In 6:44 a people forgot what they were reminded of, were given the doors of every good thing, and were seized suddenly while rejoicing, and then they were mublisun. In 23:77 a door of severe punishment is opened on them, and at once they are mublisun within it. 43:75 uses it of those whose punishment is never lightened.",
+            "bn": "মুবলিসূন, অর্থাৎ হতাশ, এই কর্তৃবাচক রূপটি শাস্তির আরও কয়েকটি আয়াতে এসেছে। ৬:৪৪ আয়াতে এক জাতি তাদের দেওয়া উপদেশ ভুলে গেল, তাদের জন্য সব নিয়ামতের দরজা খুলে দেওয়া হলো, আর তারা যখন আনন্দে মেতে উঠল, হঠাৎ তাদের পাকড়াও করা হলো। তখন তারা মুবলিসূন। ২৩:৭৭ আয়াতে তাদের সামনে কঠিন শাস্তির দরজা খোলা হয়, আর সঙ্গে সঙ্গে তারা তাতে মুবলিসূন। ৪৩:৭৫ আয়াতে শব্দটি এসেছে তাদের বেলায়, যাদের শাস্তি কখনো হালকা হয় না।"
+          },
+          {
+            "en": "This surah uses the same word once more, and in a different key. In 30:48 the rain reaches people and they rejoice, though, as 30:49 says, they had been mublisin before it came down. 30:50 then points to the earth revived after its death and says that He who does this will give life to the dead. Worldly despair can end in rain. The despair of 30:12 comes after that promise has been fulfilled, and no rain follows it.",
+            "bn": "এই সূরা শব্দটা আরেকবার ব্যবহার করেছে, ভিন্ন সুরে। ৩০:৪৮ আয়াতে বৃষ্টি মানুষের কাছে পৌঁছায়, আর তারা খুশি হয়ে ওঠে। অথচ ৩০:৪৯ আয়াত বলে, বৃষ্টি নামার আগে তারা ছিল মুবলিসীন। এরপর ৩০:৫০ আয়াত দেখায়, মৃত মাটি আবার জীবিত হচ্ছে, আর বলে, যিনি এ কাজ করেন তিনিই মৃতদের জীবিত করবেন। দুনিয়ার হতাশার শেষে বৃষ্টি আসতে পারে। ৩০:১২ আয়াতের হতাশা আসে সেই প্রতিশ্রুতি পূরণ হওয়ার পরে, আর তার পরে কোনো বৃষ্টি নেই।"
+          },
+          {
+            "en": "None of the commentaries consulted for this verse attaches a hadith to it, and none is brought here. That absence is a finding, not a gap to be filled with a weaker report. What the commentaries offer instead is the chain of early glosses, from Ibn 'Abbas (RA) to Ibn Zayd, and the usage of the Arabs in a line of verse. That is enough to see the shape of the word.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানেও কোনো হাদীস আনা হয়নি। এই না-থাকাটাও একটা তথ্য। দুর্বল কোনো বর্ণনা দিয়ে সেই ফাঁক ভরানোর দরকার নেই। তার বদলে তাফসীরগুলো দেয় ইবন আব্বাস (রাঃ) থেকে ইবন যায়দ পর্যন্ত প্রাচীন ব্যাখ্যার ধারা, আর এক পঙক্তি কবিতায় আরবদের ভাষার ব্যবহার। শব্দটির চেহারা বুঝতে সেটুকুই যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Name on the List",
+          "bn": "তালিকায় কারও নাম নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the state of the criminals when the Hour is established. It names no living person among them, and it licenses nothing against any living person or community. The commentators define the group by what it sent ahead and by its trust in false partners, and only Allah sees an account whole. Whoever uses this verse to call a neighbour, a rival or a people al-mujrimun claims a knowledge the verse keeps for that Day.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে কেবল ততটুকু, যতটুকু তার শব্দে আছে: ক্বিয়ামত কায়েম হওয়ার সময় অপরাধীদের অবস্থা। তাদের মধ্যে কোনো জীবিত মানুষের নাম এতে নেই। কোনো জীবিত ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতিও এ আয়াত দেয় না। তাফসীরকারেরা দলটিকে চিনিয়েছেন তারা কী আগে পাঠিয়েছে আর মিথ্যা শরীকদের উপর কতটা ভরসা করেছে তা দিয়ে। কারও হিসাবের পুরো খাতা দেখেন কেবল আল্লাহ। কেউ যদি এ আয়াত দিয়ে প্রতিবেশী, প্রতিদ্বন্দ্বী বা কোনো জাতিকে আল-মুজরিমূন বলে, তবে সে এমন জ্ঞানের দাবি করল, যা আয়াত রেখে দিয়েছে সেই দিনের জন্য।"
+          },
+          {
+            "en": "Ibn 'Abbas (RA) explained yublisu with ya's, despair, and the Qur'an uses that same word elsewhere as a warning to the living. In 12:87 Ya'qub (AS) tells his sons not to despair of relief from Allah, for none despairs of it except the disbelieving people. In 39:53, with a different verb, those who have wronged themselves are told not to lose hope in Allah's mercy, for Allah forgives all sins. The despair of 30:12 belongs to a Day when accounts are closed. In this life, despair of Allah is itself forbidden.",
+            "bn": "ইবন আব্বাস (রাঃ) ইউবলিসু শব্দটি বুঝিয়েছেন ইয়া'স দিয়ে, যার মানে নিরাশা। কুরআন অন্য জায়গায় সেই শব্দই ব্যবহার করেছে জীবিত মানুষকে সাবধান করতে। ১২:৮৭ আয়াতে ইয়াকূব (আঃ) ছেলেদের বলেন, আল্লাহর রহমত থেকে নিরাশ হয়ো না, কাফির সম্প্রদায় ছাড়া কেউ তা থেকে নিরাশ হয় না। ৩৯:৫৩ আয়াতে ভিন্ন এক ক্রিয়ায় বলা হয়েছে, যারা নিজেদের উপর বাড়াবাড়ি করেছে তারা যেন আল্লাহর রহমত থেকে আশা না হারায়, কারণ আল্লাহ সব গুনাহ মাফ করেন। ৩০:১২ আয়াতের হতাশা সেই দিনের, যেদিন হিসাবের খাতা বন্ধ। এ জীবনে আল্লাহর রহমত থেকে নিরাশ হওয়াই নিষেধ।"
+          },
+          {
+            "en": "So the reader who is frightened by this verse is not yet its subject, as long as turning back is still possible. To borrow as-Sa'di's terms, the people who fall silent are those who mixed no cause of reward into what they sent ahead. The answer is not to argue better on that Day. It is to send something ahead now that can be pointed to: a repentance, a prayer, a wrong put right, so that the account is never only one thing.",
+            "bn": "তাই যে পাঠক এ আয়াত পড়ে ভয় পান, ফেরার সুযোগ যতক্ষণ আছে, ততক্ষণ তিনি এর বিষয় নন। সা'দীর ভাষা ধার করে বলা যায়, যারা চুপ হয়ে যাবে, তারা আগে পাঠানো আমলে সওয়াবের কোনো কারণ মেশায়নি। সমাধান সেদিন ভালো যুক্তি দেওয়া নয়। সমাধান হলো এখনই এমন কিছু আগে পাঠানো, যা দেখানো যায়: একটা তওবা, একটা নামাজ, শুধরে দেওয়া একটা অন্যায়। যাতে হিসাবের খাতায় কেবল একটা জিনিসই না থাকে।"
+          }
+        ]
+      }
+    ]
+  },
   "30:14": {
     "sections": [
       {

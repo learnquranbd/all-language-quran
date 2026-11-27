@@ -36193,6 +36193,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a place, a crowd or a habit hems in your worship, remember that Allah's earth is wide, and make room to worship Him alone.",
     "lessonBn": "কোনো জায়গা, কোনো দল বা কোনো অভ্যাস যখন আপনার ইবাদত আটকে ধরে, মনে রাখুন আল্লাহর যমীন প্রশস্ত, আর একমাত্র তাঁরই ইবাদতের জন্য জায়গা করে নিন।"
+  },
+  "30:12": {
+    "reflectionEn": "Five words, and the scene falls silent. On the Day the Hour is established, the criminals yublisun: they are struck dumb with despair. The word holds several shades: hope cut off, an argument that has run out, grief, exposure. Nobody pleads here, because there is nothing left to plead with. What a person sent ahead is the only case they bring, and a life that sent forward only wrongs arrives with empty hands. The verse names no one among the criminals, so it is no list for others. It is a question for me while I can still answer it. What am I sending ahead? And when a sin tells me there is no way back, do I remember that the door of turning is still open today?",
+    "reflectionBn": "পাঁচটি শব্দ, আর গোটা দৃশ্য নিস্তব্ধ হয়ে যায়। যেদিন ক্বিয়ামত কায়েম হবে, সেদিন অপরাধীরা ইউবলিসূন: হতাশায় তারা বোবা হয়ে যাবে। শব্দটির ভেতরে একসঙ্গে কয়েকটি রং: আশা ফুরিয়ে যাওয়া, যুক্তি শেষ হয়ে যাওয়া, দুঃখ, লজ্জায় মুখ খুলে যাওয়া। সেখানে কেউ অনুনয় করে না, কারণ অনুনয় করার মতো কিছুই হাতে থাকে না। মানুষ যা আগে পাঠিয়েছে, সেটুকুই তার একমাত্র মামলা। যে জীবন শুধু অন্যায়ই আগে পাঠিয়েছে, সে পৌঁছায় খালি হাতে। আয়াতটি অপরাধীদের মধ্যে কারও নাম বলে না। তাই অন্যদের নাম তোলার তালিকা এটা নয়। এ প্রশ্ন আমার নিজের জন্য, যতক্ষণ জবাব দেওয়ার সময় আছে। আমি কী আগে পাঠাচ্ছি? আর কোনো গুনাহ যখন কানে কানে বলে ফেরার পথ নেই, তখন কি মনে রাখি যে তওবার দরজা আজও খোলা?",
+    "pointsEn": [
+      "If I stood before the reckoning today, what would I have to say for myself other than what I actually did?",
+      "What have I sent ahead this week that would speak for me, and what would speak against me?",
+      "Where in my life have wrongs piled up with no good beside them, and what small good can I start next to them today?",
+      "When I read the word 'criminals' in this verse, do I think first of other people, or of myself?",
+      "When a sin makes me feel there is no way back, do I let that despair speak, or do I turn to Allah while turning is still possible?"
+    ],
+    "pointsBn": [
+      "আজই যদি হিসাবের সামনে দাঁড়াতে হতো, আমি আসলে যা করেছি তা ছাড়া নিজের পক্ষে আর কী বলার থাকত?",
+      "এ সপ্তাহে আমি এমন কী আগে পাঠিয়েছি যা আমার পক্ষে কথা বলবে, আর কী আমার বিপক্ষে বলবে?",
+      "আমার জীবনের কোন জায়গায় অন্যায় জমেছে অথচ পাশে কোনো নেকি নেই? সেখানে ছোট কোন ভালো কাজটা আজই শুরু করা যায়?",
+      "এ আয়াতে 'অপরাধী' শব্দটা পড়ে আমার মনে আগে কার মুখ ভাসে, অন্যদের, না নিজের?",
+      "কোনো গুনাহ যখন মনে করিয়ে দেয় ফেরার পথ নেই, আমি কি সেই হতাশার কথা শুনি, নাকি ফেরার সুযোগ থাকতেই আল্লাহর দিকে ফিরি?"
+    ],
+    "lessonEn": "Send good ahead while you can still speak for yourself; on that Day those who brought only wrongs fall silent, with no argument and no hope left.",
+    "lessonBn": "নিজের পক্ষে কথা বলার সময় থাকতেই ভালো কাজ আগে পাঠান। সেদিন যারা শুধু অন্যায় নিয়ে আসবে, তারা চুপ হয়ে যাবে, না থাকবে যুক্তি, না আশা।"
   }
 };
 
