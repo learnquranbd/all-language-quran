@@ -34441,6 +34441,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Count what Allah has rescued you from and given you before you weigh what He asks, so that obedience comes as thanks rather than as a bill.",
     "lessonBn": "আল্লাহ কী চান তা মাপার আগে গুনে দেখুন তিনি কী থেকে বাঁচিয়েছেন আর কী দিয়েছেন, যাতে আনুগত্য আসে শুকরিয়া হয়ে, বোঝা হয়ে নয়।"
+  },
+  "20:121": {
+    "reflectionEn": "Two people eat from the one tree they were told to leave, and at once they see what had been hidden from them. Their first act is not to argue or to run, but to reach for leaves and cover themselves. Then the verse says, in Allah's own words, that Adam disobeyed his Lord and erred, and the very next verse says his Lord chose him, turned to him and guided him. The story is told so that readers look at themselves, not so that they sit in judgement on the father of mankind. When my own fault is laid bare, do I hide it from Allah or bring it to Him? And when I hear of someone's fall, do I remember that the story did not end there?",
+    "reflectionBn": "যে একটি গাছ থেকে দূরে থাকতে বলা হয়েছিল, দুজন মানুষ সেই গাছ থেকেই খেলেন। সঙ্গে সঙ্গে তাঁদের চোখে পড়ল যা এতদিন ঢাকা ছিল। তাঁরা তর্ক করলেন না, পালালেনও না। প্রথমেই পাতা ছিঁড়ে নিজেদের ঢাকতে লাগলেন। তারপর আয়াতটি আল্লাহর নিজের ভাষায় বলে, আদম তাঁর রবের অবাধ্য হলেন এবং পথ হারালেন। আর ঠিক পরের আয়াতই বলে, তাঁর রব তাঁকে বেছে নিলেন, তাঁর তওবা কবুল করলেন, তাঁকে পথ দেখালেন। কাহিনিটা শোনানো হয়েছে যাতে পাঠক নিজের দিকে তাকায়, মানবজাতির পিতার বিচারক হয়ে বসে না যায়। আমার নিজের দোষ যখন খুলে যায়, আমি কি তা আল্লাহর কাছ থেকে লুকাই, নাকি তাঁর কাছেই নিয়ে যাই? আর কারও পতনের কথা শুনলে আমার কি মনে থাকে যে কাহিনিটা সেখানেই শেষ হয়নি?",
+    "pointsEn": [
+      "When something I did wrong last came to light, what was my first move: to cover it, to explain it away, or to turn to Allah with it?",
+      "Do I speak of other people's past failings in words I would not want used of mine, even after they have repented?",
+      "Which one tree in my life have I been plainly told to leave alone, and how close to it am I standing today?",
+      "Have I ever said 'it was written for me' to excuse a fault I have not yet repented of?",
+      "Do I truly believe that a fall can be followed by being chosen again, for myself and for others?"
+    ],
+    "pointsBn": [
+      "শেষবার আমার কোনো ভুল যখন ধরা পড়ল, আমার প্রথম পদক্ষেপ কী ছিল: ঢেকে ফেলা, অজুহাত দিয়ে উড়িয়ে দেওয়া, নাকি সেটা নিয়ে আল্লাহর দিকে ফেরা?",
+      "অন্যের পুরোনো ভুলের কথা কি আমি এমন ভাষায় বলি, যে ভাষা নিজের বেলায় শুনতে চাইতাম না, এমনকি সে তওবা করার পরেও?",
+      "আমার জীবনে কোন গাছটা থেকে আমাকে পরিষ্কার করে দূরে থাকতে বলা হয়েছে? আজ আমি তার কত কাছে দাঁড়িয়ে আছি?",
+      "যে দোষ থেকে এখনো তওবা করিনি, সেটার অজুহাত দিতে কি কখনো বলেছি, 'এটা তো আমার তাকদিরে লেখা ছিল'?",
+      "পতনের পরেও যে আবার বেছে নেওয়া হতে পারে, নিজের বেলায় আর অন্যের বেলায়, এ কথা কি আমি সত্যিই বিশ্বাস করি?"
+    ],
+    "lessonEn": "Speak of Adam (AS) only as Allah spoke of him, and when your own fault is exposed, turn straight back to your Lord, who chooses and forgives after a fall.",
+    "lessonBn": "আদম (আঃ)-এর কথা বলুন কেবল সেভাবে, যেভাবে আল্লাহ বলেছেন। আর নিজের দোষ খুলে গেলে সোজা রবের দিকে ফিরুন, যিনি পতনের পরেও বেছে নেন ও ক্ষমা করেন।"
   }
 };
 

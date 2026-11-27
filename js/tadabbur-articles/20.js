@@ -6347,6 +6347,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:121": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Who Ate, One Named",
+          "bn": "খেলেন দুজন, নাম একজনের"
+        },
+        "p": [
+          {
+            "en": "Fa-akala minha: so the two of them ate from it. The verb is dual, and so is everything in the first half of the verse: their private parts appeared to the two of them, and the two of them began to fasten leaves over themselves. At-Tabari reads it as Adam and Hawwa' eating from the tree they had been forbidden, obeying the bidding of Iblis and going against the command of their Lord. Al-Baghawi and the Muyassar name the same two. In the verse's own grammar, the eating belongs to both of them.",
+            "bn": "ফাআকালা মিনহা: অতঃপর তাঁরা দুজন তা থেকে খেলেন। ক্রিয়াটি দ্বিবচন। আয়াতের প্রথম অর্ধেকের বাকি সবকিছুও দ্বিবচনে: দুজনের সামনেই তাঁদের লজ্জাস্থান খুলে গেল, আর দুজনেই নিজেদের উপর পাতা জুড়তে লাগলেন। তাবারীর ব্যাখ্যায়, যে গাছ থেকে নিষেধ করা হয়েছিল, আদম ও হাওয়া সেই গাছ থেকে খেলেন। তাঁরা ইবলীসের কথা মানলেন, আর রবের আদেশের বিপরীতে গেলেন। বাগাভী ও মুয়াসসারও এই দুজনেরই নাম নেন। আয়াতের নিজের ব্যাকরণেই খাওয়ার কাজটা দুজনের।"
+          },
+          {
+            "en": "Then the verse turns singular: wa-'asa Adamu rabbahu fa-ghawa, and Adam disobeyed his Lord and erred. None of the commentaries fetched for this verse stops to explain the shift, and this article will not invent a reason for it. What the text does settle is that it lays the eating on two people and names neither as the one who led the other. The verse describes what happened to the first two human beings. It licenses nothing against women, whom it does not make the authors of the fall, and nothing against any person living now.",
+            "bn": "এরপর আয়াত একবচনে চলে আসে: ওয়া আসা আদামু রাব্বাহু ফাগাওয়া, আর আদম তাঁর রবের অবাধ্য হলেন এবং পথ হারালেন। এ আয়াতের জন্য যে তাফসীরগুলো সংগ্রহ করা হয়েছে, তার কোনোটিই এই বদলের কারণ ব্যাখ্যা করতে থামেনি। এই লেখাও নিজে থেকে কোনো কারণ বানাবে না। তবে আয়াত একটা বিষয় পরিষ্কার করে দেয়। খাওয়ার কাজটা সে দুজনের উপর রাখে, আর কে কাকে টেনে নিল, এমন কারও নাম নেয় না। প্রথম দুই মানুষের সঙ্গে যা ঘটেছিল, আয়াত শুধু তারই বর্ণনা দেয়। নারীদের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না, তাঁদেরকে পতনের হোতা বানায় না। আজকের কোনো জীবিত মানুষের বিরুদ্ধেও কিছুর অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hidden From Their Own Eyes",
+          "bn": "নিজেদের চোখেও যা ঢাকা ছিল"
+        },
+        "p": [
+          {
+            "en": "Fa-badat lahuma saw'atuhuma: their private parts became apparent to them. At-Tabari explains it as their nakedness being uncovered to them, when before it had been hidden from their own eyes, and the Muyassar uses almost the same words. As-Sa'di draws the scene more fully. When they ate, he says, regret seized them, their clothing fell from them, their disobedience became plain, and each of them saw what had been covered of the other, after both had been screened. Then, he adds, a shame came over them whose depth Allah alone knows.",
+            "bn": "ফাবাদাত লাহুমা সাওআতুহুমা: তাঁদের সামনে তাঁদের লজ্জাস্থান প্রকাশ হয়ে পড়ল। তাবারী বলেন, তাঁদের সতর তাঁদের কাছে খুলে গেল, অথচ আগে তা তাঁদের নিজেদের চোখ থেকেও ঢাকা ছিল। মুয়াসসার প্রায় একই কথা বলে। সা'দী দৃশ্যটা আরও পূর্ণ করে আঁকেন। তাঁর ভাষায়, খাওয়ার পরেই তাঁরা অনুতাপে ভেঙে পড়লেন। তাঁদের পোশাক খসে পড়ল, তাঁদের অবাধ্যতা স্পষ্ট হয়ে গেল। দুজনেই ঢাকা ছিলেন, এখন একে অপরের যা ঢাকা ছিল তা দেখতে পেলেন। তারপর, সা'দী যোগ করেন, তাঁদের উপর এমন লজ্জা নেমে এল যার গভীরতা কেবল আল্লাহই জানেন।"
+          },
+          {
+            "en": "Ibn Kathir relays from Ibn Abi Hatim a narration ascribed to the Prophet ﷺ about the moment Adam's clothing fell from him. Ibn Kathir himself says its chain is broken, since al-Hasan did not hear it from Ubayy ibn Ka'b, and that its ascription to the Prophet is doubtful, so it is only mentioned here. The verse itself keeps the point simple. What the forbidden tree brought first was not the eternity promised in the whisper of 20:120. It was exposure, and with it a shame they had never needed to feel before.",
+            "bn": "ইবন কাসীর ইবন আবী হাতিম থেকে একটি বর্ণনা আনেন, যা নবী ﷺ-এর কথা বলে চালানো হয়েছে, বিষয় আদম (আঃ)-এর পোশাক খসে পড়ার মুহূর্ত। ইবন কাসীর নিজেই বলেন, এর সনদ ভাঙা, কারণ হাসান এটি উবাই ইবন কা'ব (রাঃ) থেকে শোনেননি। নবী ﷺ পর্যন্ত এর সম্পর্ক টানাও সন্দেহজনক। তাই এখানে শুধু এর উল্লেখটুকু থাকল। আয়াত নিজে কথাটা সহজ রাখে। ২০:১২০ আয়াতের কুমন্ত্রণায় যে চিরস্থায়িত্বের লোভ দেখানো হয়েছিল, নিষিদ্ধ গাছ প্রথমে তা আনেনি। এনেছিল উন্মোচন, আর তার সঙ্গে এমন এক লজ্জা, যা এর আগে কখনো তাঁদের অনুভব করতে হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leaves Pressed Into Garments",
+          "bn": "পাতা জুড়ে বানানো আবরণ"
+        },
+        "p": [
+          {
+            "en": "Wa-tafiqa yakhsifani 'alayhima min waraqi al-jannah. Al-Qurtubi reports al-Farra' saying that tafiqa in Arabic means they set about, they turned to a task. At-Tabari glosses yakhsifani as binding upon themselves leaves of the Garden, and carries two early readings with it: from as-Suddi, that they set about covering themselves with fig leaves, and from Qatada, that they were joining leaves together over themselves. The Muyassar describes them pulling leaves from the trees of the Garden and pressing them onto their bodies, to cover what had been laid bare.",
+            "bn": "ওয়া তাফিকা ইয়াখসিফানি আলাইহিমা মিন ওয়ারাকিল জান্নাহ। কুরতুবী ফাররার কথা উদ্ধৃত করেন: আরবিতে তাফিকা মানে তাঁরা লেগে গেলেন, কাজে হাত দিলেন। তাবারীর মতে ইয়াখসিফান মানে জান্নাতের পাতা নিজেদের গায়ে বেঁধে নেওয়া। সঙ্গে তিনি দুটি প্রাচীন ব্যাখ্যা আনেন। সুদ্দী বলেন, তাঁরা ডুমুরের পাতা দিয়ে নিজেদের ঢাকতে লাগলেন। কাতাদা বলেন, তাঁরা পাতার সঙ্গে পাতা জুড়ে নিজেদের উপর রাখছিলেন। মুয়াসসারের ছবিতে তাঁরা জান্নাতের গাছ থেকে পাতা ছিঁড়ে গায়ে লাগাচ্ছেন, যাতে যা খুলে গেছে তা ঢেকে যায়।"
+          },
+          {
+            "en": "Ibn Kathir gives Mujahid's reading, that they patched the leaves on in the shape of a garment, and says Qatada and as-Suddi said the same. Through Ibn Abi Hatim he also relays Ibn 'Abbas saying that they stripped fig leaves and placed them over their nakedness; that is a Companion's explanation, not a saying of the Prophet ﷺ. Across every reading the picture is one: two people, newly exposed, working with their own hands to cover themselves with whatever the Garden held.",
+            "bn": "ইবন কাসীর মুজাহিদের ব্যাখ্যা দেন: তাঁরা কাপড়ের আকারে পাতাগুলো তালি দিয়ে জুড়ছিলেন। তিনি বলেন, কাতাদা ও সুদ্দীও একই কথা বলেছেন। ইবন আবী হাতিমের সূত্রে তিনি ইবন আব্বাস (রাঃ)-এর কথাও আনেন: তাঁরা ডুমুরের পাতা ছিঁড়ে সতরের উপর রাখছিলেন। এটি একজন সাহাবীর ব্যাখ্যা, নবী ﷺ-এর বাণী নয়। সব ব্যাখ্যায় ছবিটা এক। সদ্য উন্মুক্ত দুজন মানুষ, জান্নাতে হাতের কাছে যা পেলেন, নিজের হাতে তা দিয়েই নিজেদের ঢাকছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said by Him, Not by Us",
+          "bn": "তিনি বলেছেন, আমরা নই"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi sets six questions on the clause wa-'asa Adamu rabbahu fa-ghawa, and his second governs the reader's own speech. He quotes Qadi Abu Bakr Ibn al-'Arabi: it is not permitted for any of us today to report this of Adam except when we mention it in the course of Allah's words about him, or His Prophet's. To begin it from oneself, he says, would not be permitted even of our near forefathers who are like us. How then of our first, greatest and noblest father, a prophet whom Allah excused, turned to and forgave?",
+            "bn": "ওয়া আসা আদামু রাব্বাহু ফাগাওয়া, এই অংশের উপর কুরতুবী ছয়টি মাসআলা আলোচনা করেন। দ্বিতীয়টি পাঠকের নিজের মুখের ভাষা ঠিক করে দেয়। তিনি কাযী আবু বকর ইবনুল আরাবীর কথা উদ্ধৃত করেন: আজ আমাদের কারও জন্য আদম (আঃ) সম্পর্কে এ কথা বলা জায়েয নয়, তবে আল্লাহ তাঁর সম্পর্কে যা বলেছেন বা তাঁর নবী যা বলেছেন, তার মাঝে উল্লেখ করলে ভিন্ন কথা। নিজে থেকে এ কথা তোলা আমাদের কাছের পূর্বপুরুষদের বেলাতেও জায়েয হতো না, যারা আমাদেরই মতো মানুষ। তাহলে আমাদের আদি, মহান ও সম্মানিত পিতার বেলায় কী করে হয়? তিনি তো নবী, আল্লাহ যাঁর ওজর কবুল করেছেন, তওবা কবুল করেছেন, ক্ষমা করেছেন।"
+          },
+          {
+            "en": "Two further points stand behind the same caution. Al-Baghawi quotes Ibn Qutayba: one may say Adam disobeyed, but not that Adam is a disobeyer, since that name belongs to one who makes a habit of sin. A man who sews his garment once is said to have sewn it, but he is not called a tailor until he does it again and again. Al-Qurtubi records the same from a group, through al-Qushayri. He also records a view that a master may say of his servant what no one else may say, and he calls that view strained.",
+            "bn": "একই সতর্কতার পেছনে আরও দুটি কথা আছে। বাগাভী ইবন কুতাইবার কথা আনেন: বলা যায় আদম অবাধ্য হলেন, কিন্তু বলা যায় না আদম একজন অবাধ্য। ওই নাম তার জন্য, যে গুনাহকে অভ্যাস বানিয়ে ফেলে। যে লোক একবার নিজের কাপড় সেলাই করে, তার সম্পর্কে বলা হয় সে সেলাই করেছে। কিন্তু বারবার না করা পর্যন্ত তাকে দর্জি বলা হয় না। কুরতুবী কুশাইরীর সূত্রে একদল আলেমের কাছ থেকে একই কথা আনেন। তিনি আরেকটি মতও উল্লেখ করেন: মনিব তাঁর গোলামের বেলায় এমন কথা বলতে পারেন, যা অন্য কেউ পারে না। এ মতকে তিনি কষ্টকল্পিত বলেন।"
+          },
+          {
+            "en": "This article keeps Ibn al-'Arabi's rule. The two verbs of the verse's second half appear in it only inside the verse, the words of the Prophet ﷺ, or a scholar's comment on them. Everywhere else it speaks of the eating from the tree, which is what the first half of the verse itself narrates, and leaves the naming of it to the One who named it. The reader is asked to keep the same rule whenever Adam (AS) and this moment come up.",
+            "bn": "এ লেখা ইবনুল আরাবীর নিয়মটা মেনে চলে। আয়াতের দ্বিতীয় অর্ধেকের ক্রিয়া দুটি এখানে আসে কেবল আয়াতের ভেতরে, নবী ﷺ-এর বাণীর ভেতরে, অথবা সেগুলোর উপর কোনো আলেমের মন্তব্যে। বাকি সব জায়গায় লেখাটি বলে গাছ থেকে খাওয়ার কথা, আয়াতের প্রথম অর্ধেক নিজেই যার বর্ণনা দেয়। কাজটার নাম দেওয়ার ভার থাকে তাঁরই হাতে, যিনি নাম দিয়েছেন। পাঠকের কাছেও একই অনুরোধ। আদম (আঃ) আর এই মুহূর্তের প্রসঙ্গ যখনই ওঠে, এই নিয়মটা মেনে চলুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How the Scholars Weigh It",
+          "bn": "আলেমরা যেভাবে বিচার করেন"
+        },
+        "p": [
+          {
+            "en": "How a prophet comes to be described in these words is where the commentators differ, and the difference is kept here as it stands. Ma'arif al-Qur'an states that the scholars agree the prophets are protected from all sins, minor or major. Under the divine law, it says, Adam's act did not amount to a sin; because he was a prophet in Allah's high favour, a minor lapse on his part was described with the word for disobedience, and he was admonished for it.",
+            "bn": "একজন নবীর বেলায় এমন শব্দ কেন এল, এখানেই তাফসীরকারদের মত ভিন্ন। সেই ভিন্নতা এখানে যেমন আছে তেমনই রাখা হলো। মাআরিফুল কুরআন বলে, আলেমরা একমত যে নবীগণ ছোট-বড় সব গুনাহ থেকে সুরক্ষিত। তার মতে শরীয়তের বিচারে আদম (আঃ)-এর কাজটি গুনাহ ছিল না। তিনি আল্লাহর নবী এবং তাঁর বিশেষ প্রিয়ভাজন ছিলেন বলেই তাঁর ছোট্ট এক বিচ্যুতিকে অবাধ্যতার শব্দে বলা হয়েছে, আর সে জন্য তাঁকে সতর্ক করা হয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi's first question quotes a later scholar he counts among his own, who frames it otherwise, and al-Qurtubi calls the view the truth. In that scholar's words, Allah has reported faults from some of the prophets, ascribed them to them and reproached them, and the prophets confessed them, sought forgiveness and repented. These were rare, the scholar says, and came by mistake, forgetfulness or an interpretation; what would count as good deeds for others counts against them because of their rank. He cites al-Junayd: the good deeds of the righteous are the bad deeds of those brought near.",
+            "bn": "কুরতুবী প্রথম মাসআলায় নিজেদের ঘরানার পরবর্তী যুগের এক আলেমের কথা আনেন, যিনি বিষয়টা অন্যভাবে দেখেন। কুরতুবী এ মতকে হক বলেন। সেই আলেমের ভাষায়, আল্লাহ কোনো কোনো নবীর ত্রুটির খবর দিয়েছেন, তা তাঁদের দিকে সম্পর্কিত করেছেন, সে জন্য তাঁদের মৃদু ভর্ৎসনা করেছেন। নবীরাও তা স্বীকার করেছেন, ইস্তিগফার করেছেন, তওবা করেছেন। এগুলো ছিল কালেভদ্রে, ভুলে, বিস্মৃতিতে বা কোনো ব্যাখ্যার কারণে। অন্যদের বেলায় যা নেকি গণ্য হতো, তাঁদের উঁচু মর্যাদার কারণে তা-ই তাঁদের বিপক্ষে ধরা হয়। তিনি জুনাইদের কথা আনেন: নেককারদের নেকি, নৈকট্যপ্রাপ্তদের কাছে গুনাহ।"
+          },
+          {
+            "en": "His sixth question lists the possibilities in brief: whatever of this kind is ascribed to the prophets is either a minor fault, or the leaving of what was better, or something before prophethood, and al-Qurtubi says that is good. He then gives Abu Bakr ibn Furak's view that this was before Adam's prophethood, taking as proof the next verse, 20:122: then his Lord chose him, turned to him and guided him. Ma'arif and al-Qurtubi's sources part on whether to speak of a sin at all. None of them leaves the reader room to think less of Adam (AS).",
+            "bn": "ষষ্ঠ মাসআলায় তিনি সম্ভাবনাগুলো সংক্ষেপে গোনেন। নবীদের দিকে এ ধরনের যা কিছু সম্পর্কিত হয়, তা হয় ছোট ত্রুটি, নয়তো উত্তম কাজটি ছেড়ে দেওয়া, নয়তো নবুওয়াতের আগের ঘটনা। কুরতুবী বলেন, এ কথা সুন্দর। তারপর তিনি আবু বকর ইবন ফুরাকের মত আনেন: এটি ছিল আদম (আঃ)-এর নবুওয়াতের আগে। প্রমাণ হিসেবে তিনি পরের আয়াত ২০:১২২ ধরেন: তারপর তাঁর রব তাঁকে বেছে নিলেন, তাঁর তওবা কবুল করলেন, তাঁকে পথ দেখালেন। গুনাহ শব্দটা আদৌ বলা যায় কি না, সেখানে মাআরিফ আর কুরতুবীর উদ্ধৃত আলেমদের পথ আলাদা। কিন্তু আদম (আঃ)-কে ছোট করে দেখার সুযোগ তাঁদের কেউই পাঠককে দেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Act, or a Loss",
+          "bn": "কোনো কাজ, নাকি এক হারানো"
+        },
+        "p": [
+          {
+            "en": "The last word, fa-ghawa, gathers the widest range of readings. At-Tabari takes the clause as Adam going against his Lord's command and passing to what he had no right to pass to, the eating from the tree he was forbidden, and the Muyassar ties the word to that same eating. Al-Baghawi first glosses it as doing what he had no right to do. Under 'it is said' he gives another: he missed the way to the Garden and went astray when he sought eternity by eating what was forbidden, so he was disappointed and did not reach his aim.",
+            "bn": "শেষ শব্দ ফাগাওয়া নিয়ে ব্যাখ্যার পরিসর সবচেয়ে বড়। তাবারীর মতে অংশটির মানে, আদম (আঃ) রবের আদেশের বিপরীতে গেলেন, যেখানে যাওয়ার অধিকার তাঁর ছিল না সেখানে চলে গেলেন, অর্থাৎ নিষিদ্ধ গাছ থেকে খেলেন। মুয়াসসারও শব্দটাকে ওই খাওয়ার সঙ্গেই বাঁধে। বাগাভী প্রথমে বলেন, এর মানে এমন কাজ করা যা করার অধিকার তাঁর ছিল না। তারপর 'বলা হয়' দিয়ে আরেকটি ব্যাখ্যা আনেন। নিষিদ্ধ জিনিস খেয়ে চিরস্থায়িত্ব চাইতে গিয়ে তিনি জান্নাতের পথ ভুল করলেন। ফলে তিনি ব্যর্থ হলেন, যা চেয়েছিলেন তা পেলেন না।"
+          },
+          {
+            "en": "Others read a loss rather than an act. Al-Baghawi quotes Ibn al-A'rabi: his life was spoiled, and he passed from honour to lowliness and from rest to toil. Al-Qurtubi gives an-Naqqash's gloss, his life was spoiled, which al-Qushayri chose, and his own teacher Abu Ja'far al-Qurtubi's, that it was spoiled by his descent to the world. Al-Qurtubi calls this better than reading the word as going astray, from the ghayy that is the opposite of right guidance. He also records that it may mean Adam did not know where his right course lay, not knowing this was the forbidden tree.",
+            "bn": "কেউ কেউ এখানে কোনো কাজ নয়, বরং এক হারানো দেখেন। বাগাভী ইবনুল আ'রাবীর কথা আনেন: তাঁর জীবন বিষিয়ে গেল, তিনি সম্মান থেকে লাঞ্ছনায়, আরাম থেকে কষ্টে গিয়ে পড়লেন। কুরতুবী নাক্কাশের ব্যাখ্যা দেন, তাঁর জীবন বিগড়ে গেল, যা কুশাইরী গ্রহণ করেছেন। নিজের উস্তাদ আবু জা'ফর কুরতুবীর কথাও আনেন: দুনিয়ায় নেমে আসায় তাঁর জীবন বিগড়ে গেল। কুরতুবীর মতে এ ব্যাখ্যা, শব্দটাকে সঠিক পথের বিপরীত অর্থে পথভ্রষ্টতা ধরার চেয়ে উত্তম। তিনি আরেকটি ব্যাখ্যাও উল্লেখ করেন: তিনি বুঝতে পারেননি তাঁর কল্যাণ কোথায়, জানতেন না এটিই সেই নিষিদ্ধ গাছ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Found in the Torah Before Him",
+          "bn": "জন্মের আগেই তাওরাতে লেখা"
+        },
+        "p": [
+          {
+            "en": "One sound hadith stands on this very clause. Muslim collected it in his Sahih from Abu Hurayra, through Tawus, and al-Baghawi and al-Qurtubi both bring it here. The Messenger of Allah ﷺ said: \"Adam and Moses argued. Moses said: O Adam, you are our father; you disappointed us and brought us out of the Garden. Adam said to him: You are Moses; Allah chose you for His speech and wrote for you with His hand. Do you blame me for a matter Allah decreed for me forty years before He created me?\" The Prophet ﷺ said: \"So Adam got the better of Moses, so Adam got the better of Moses.\"",
+            "bn": "এই অংশটির উপরেই একটি সহীহ হাদীস আছে। মুসলিম তাঁর সহীহ গ্রন্থে তাউসের সূত্রে আবু হুরাইরা (রাঃ) থেকে এটি সংকলন করেছেন, আর বাগাভী ও কুরতুবী দুজনেই এখানে তা আনেন। আল্লাহর রাসূল ﷺ বলেছেন: \"আদম ও মূসা তর্ক করলেন। মূসা বললেন: হে আদম, আপনি আমাদের পিতা। আপনি আমাদের বঞ্চিত করেছেন, আমাদের জান্নাত থেকে বের করে দিয়েছেন। আদম তাঁকে বললেন: তুমি মূসা, আল্লাহ তোমাকে তাঁর কালামের জন্য বেছে নিয়েছেন, নিজ হাতে তোমার জন্য লিখে দিয়েছেন। তুমি কি আমাকে এমন বিষয়ে দোষ দিচ্ছ, যা আল্লাহ আমাকে সৃষ্টির চল্লিশ বছর আগেই আমার জন্য নির্ধারণ করে রেখেছিলেন?\" নবী ﷺ বললেন: \"এভাবে আদম মূসার উপর জয়ী হলেন, এভাবে আদম মূসার উপর জয়ী হলেন।\""
+          },
+          {
+            "en": "In another chain in the same place, through Yazid ibn Hurmuz and al-A'raj from Abu Hurayra, Muslim gives a longer exchange that turns on this verse by name. Adam asks Moses how long before his creation he found that Allah had written the Torah, and Moses says forty years. Adam asks whether he found in it wa-'asa Adamu rabbahu fa-ghawa, and Moses says yes. Al-Baghawi notes this addition from al-A'raj as well. Al-Qurtubi explains the Prophet's verdict through al-Muhallab: Adam overcame Moses by argument.",
+            "bn": "একই জায়গায় আরেকটি সনদে, ইয়াযীদ ইবন হুরমুয ও আ'রাজের সূত্রে আবু হুরাইরা (রাঃ) থেকে, মুসলিম আরও দীর্ঘ এক কথোপকথন আনেন, যার কেন্দ্রে এই আয়াতটিই, নাম ধরে। আদম মূসাকে জিজ্ঞেস করেন, তাঁর সৃষ্টির কত আগে মূসা দেখেছেন যে আল্লাহ তাওরাত লিখে রেখেছিলেন। মূসা বলেন, চল্লিশ বছর। আদম জিজ্ঞেস করেন, তাতে কি ওয়া আসা আদামু রাব্বাহু ফাগাওয়া পেয়েছেন? মূসা বলেন, হ্যাঁ। বাগাভীও আ'রাজের সূত্রে এই বাড়তি অংশের কথা উল্লেখ করেন। নবী ﷺ-এর রায়ের অর্থ কুরতুবী মুহাল্লাবের মাধ্যমে বোঝান: যুক্তিতে আদম মূসাকে হারিয়ে দিলেন।"
+          },
+          {
+            "en": "Why did the argument hold? Al-Qurtubi gives al-Layth ibn Sa'd's answer: it held because Allah had already forgiven Adam and turned to him, so it was not for Moses to reproach him for a fault Allah had pardoned. Al-Qurtubi then records, under 'it is said', that Adam is a father, and reproaching him would not be dutiful even were the matter one others are reproached for. He points to Ibrahim (AS), who answered his own father's threat with 'peace be upon you' in 19:47, and asks: how then with a father who is a prophet his Lord chose?",
+            "bn": "যুক্তিটা টিকল কেন? কুরতুবী লাইস ইবন সা'দের জবাব আনেন: টিকেছিল কারণ আল্লাহ আগেই আদম (আঃ)-কে ক্ষমা করেছিলেন, তাঁর তওবা কবুল করেছিলেন। আল্লাহ যা মাফ করে দিয়েছেন, তা নিয়ে তাঁকে খোঁটা দেওয়া মূসা (আঃ)-এর কাজ ছিল না। এরপর কুরতুবী 'বলা হয়' দিয়ে আনেন: আদম (আঃ) একজন পিতা। বিষয়টা এমন হলেও যা নিয়ে অন্যদের খোঁটা দেওয়া হয়, পিতাকে খোঁটা দেওয়া সদাচরণ নয়। তিনি ইবরাহীম (আঃ)-এর দৃষ্টান্ত দেন, যিনি ১৯:৪৭ আয়াতে নিজের পিতার হুমকির জবাব দিয়েছিলেন 'আপনার প্রতি সালাম' বলে। তারপর প্রশ্ন রাখেন: তাহলে যে পিতা নবী, যাঁকে তাঁর রব বেছে নিয়েছেন, তাঁর বেলায় কী হবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Shelter for the Unrepentant",
+          "bn": "তওবাহীনের আড়াল নয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's fourth question closes a door the hadith might seem to open. As for someone who committed sins and has not received forgiveness, he says, the scholars agree that he may not argue as Adam argued, saying: do you blame me for killing, or adultery, or theft, when Allah decreed it for me? The community agrees, he adds, that it is right to praise whoever does good for his good, to blame the wrongdoer for his wrong, and to set his sins before him. Adam's argument came after forgiveness, not in place of it.",
+            "bn": "কুরতুবীর চতুর্থ মাসআলা সেই দরজাটা বন্ধ করে দেয়, হাদীসটা যেন যা খুলে দেয় বলে মনে হতে পারে। তিনি বলেন, যে গুনাহ করেছে অথচ তার ক্ষমা আসেনি, আলেমরা একমত যে সে আদম (আঃ)-এর মতো যুক্তি দিতে পারে না। সে বলতে পারে না: আমি খুন করেছি, ব্যভিচার করেছি, চুরি করেছি, আল্লাহ তো তা নির্ধারণ করে রেখেছিলেন, তবু আমাকে দোষ দিচ্ছ? তিনি আরও বলেন, উম্মাহ একমত যে ভালো কাজের জন্য সৎকর্মশীলের প্রশংসা আর মন্দ কাজের জন্য অন্যায়কারীকে তিরস্কার করা বৈধ, তার গুনাহগুলো তার সামনে তুলে ধরাও বৈধ। আদম (আঃ)-এর যুক্তি এসেছিল ক্ষমার পরে, ক্ষমার বদলে নয়।"
+          },
+          {
+            "en": "So the verse is not left standing alone. Five verses earlier, in 20:115, Allah says He had taken a covenant from Adam before, and he forgot, and He did not find in him firm resolve. One verse later, in 20:122, his Lord chose him, turned to him and guided him, and the parallel tellings in 2:35 to 2:37 and 7:19 to 7:23 carry the same story. Read between those two verses, the covering with leaves is followed by being chosen, forgiven and guided. The reader who covers a fault is shown where to take it.",
+            "bn": "তাই আয়াতটি একা দাঁড়িয়ে নেই। পাঁচ আয়াত আগে, ২০:১১৫ আয়াতে, আল্লাহ বলেন তিনি আগেই আদম (আঃ)-এর কাছ থেকে অঙ্গীকার নিয়েছিলেন, তিনি ভুলে গেলেন, আর আল্লাহ তাঁর মধ্যে দৃঢ় সংকল্প পাননি। এক আয়াত পরে, ২০:১২২ আয়াতে, তাঁর রব তাঁকে বেছে নিলেন, তাঁর তওবা কবুল করলেন, তাঁকে পথ দেখালেন। ২:৩৫ থেকে ২:৩৭ আর ৭:১৯ থেকে ৭:২৩ আয়াতের সমান্তরাল বর্ণনাতেও একই কাহিনি। এই দুই আয়াতের মাঝে রেখে পড়লে দেখা যায়, পাতা দিয়ে ঢাকার পরেই আসে বেছে নেওয়া, তওবা কবুল আর পথ দেখানো। যে পাঠক নিজের কোনো দোষ ঢেকে রাখেন, তাঁকে দেখিয়ে দেওয়া হয় সেটা নিয়ে কোথায় যেতে হবে।"
+          }
+        ]
+      }
+    ]
+  },
   "20:124": {
     "sections": [
       {
