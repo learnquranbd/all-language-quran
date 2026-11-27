@@ -1739,6 +1739,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:37": {
+    "sections": [
+      {
+        "h": {
+          "en": "Sent Home With the Gift",
+          "bn": "উপঢৌকনসহ ফেরত যাত্রা"
+        },
+        "p": [
+          {
+            "en": "Irji' ilayhim: go back to them. The verse opens with a single command, and the commentators agree on what travels back with it. Ibn Kathir, al-Qurtubi and al-Baghawi all gloss it the same way, go back to them with their gift, and as-Sa'di has go back with your gift. At-Tabari names the speaker and the hearer: this is the saying of Sulayman (AS) to the woman's messenger. In 27:36 he had turned the present aside with a question, do you supply me with wealth? Now the refusal becomes an instruction.",
+            "bn": "ইরজি' ইলাইহিম: তাদের কাছে ফিরে যাও। আয়াত শুরু হয় একটিমাত্র আদেশে। এ আদেশের সঙ্গে কী ফেরত যাচ্ছে, তা নিয়ে তাফসীরকারেরা একমত। ইবন কাসীর, কুরতুবী ও বাগাভী একই ব্যাখ্যা দেন: তাদের উপঢৌকনসহ তাদের কাছে ফিরে যাও। সা'দী বলেন, তোমার উপঢৌকন নিয়ে ফিরে যাও। কে বলছেন আর কাকে বলছেন, তাবারী তা স্পষ্ট করেন: এ হলো রানির দূতের প্রতি সুলাইমান (আঃ)-এর কথা। ২৭:৩৬ আয়াতে তিনি এক প্রশ্নেই উপহারটা সরিয়ে রেখেছিলেন: তোমরা কি আমাকে ধনসম্পদ দিয়ে সাহায্য করতে চাও? এবার সেই প্রত্যাখ্যান হলো নির্দেশ।"
+          },
+          {
+            "en": "Why turn it away? Ibn Kathir's abridged commentary reads the question in 27:36 as a rebuke: are you trying to flatter me with wealth, so that I will leave you alone with your shirk and your kingdom? What Allah had given him of power, wealth and troops, he says, was better than what they held. At-Tabari relays from Wahb ibn Munabbih, through Ibn Ishaq and an unnamed link, a list of what the gift contained. Al-Baghawi, on this same episode, names Wahb together with others from the people of the earlier scriptures, and this article builds nothing on the list.",
+            "bn": "উপহারটা ফিরিয়ে দিলেন কেন? ইবন কাসীরের সংক্ষিপ্ত তাফসীর ২৭:৩৬-এর প্রশ্নটিকে ধমক হিসেবে পড়ে। অর্থাৎ, তোমরা কি সম্পদ দিয়ে আমাকে খুশি করতে চাও, যাতে আমি তোমাদের শিরক আর রাজত্ব নিয়ে তোমাদের ছেড়ে দিই? তাঁর ব্যাখ্যায়, আল্লাহ তাঁকে যে ক্ষমতা, সম্পদ ও সৈন্য দিয়েছেন, তা তাদের হাতে যা আছে তার চেয়ে উত্তম। উপহারে কী কী ছিল, তার একটা তালিকা তাবারী বর্ণনা করেন ওয়াহব ইবন মুনাব্বিহ থেকে, ইবন ইসহাক ও এক অনামা বর্ণনাকারীর মাধ্যমে। বাগাভী এই একই ঘটনার আলোচনায় ওয়াহবের নাম নেন পূর্ববর্তী কিতাবের জ্ঞানধারী অন্যদের সঙ্গে এক কাতারে। এ লেখা সেই তালিকার উপর কিছুই দাঁড় করায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Envoy, No Letter",
+          "bn": "এক দূত, চিঠি ছাড়াই"
+        },
+        "p": [
+          {
+            "en": "The command is singular, irji', go back, though 27:35 spoke of messengers in the plural, al-mursalun. Two commentators explain the shift by naming one man. Al-Qurtubi says Sulayman (AS) spoke to al-Mundhir ibn 'Amr, the amir of the delegation, and al-Baghawi gives the same name and the same role. Neither gives a chain for the name, so it is best held lightly. The grammar is clear without it: the reply goes to the one who will answer for it on his return.",
+            "bn": "আদেশটি একবচন, ইরজি', ফিরে যাও। অথচ ২৭:৩৫ আয়াতে দূতদের কথা এসেছিল বহুবচনে, আল-মুরসালূন। দুজন তাফসীরকার এর ব্যাখ্যা দেন একজন মানুষের নাম বলে। কুরতুবী বলেন, সুলাইমান (আঃ) কথা বলেছিলেন প্রতিনিধিদলের প্রধান আল-মুনযির ইবন আমরের সঙ্গে। বাগাভীও একই নাম আর একই পদের কথা বলেন। নামটির পক্ষে দুজনের কেউই কোনো সনদ দেননি, তাই একে হালকাভাবেই ধরা ভালো। নাম ছাড়াও ব্যাকরণ পরিষ্কার: জবাব যায় তার কাছে, ফিরে গিয়ে যাকে জবাবদিহি করতে হবে।"
+          },
+          {
+            "en": "As-Sa'di notices something else: Sulayman sent no second letter. He charged the messenger by word of mouth, as-Sa'di says, because he had seen the man's intelligence and knew he would carry the words back exactly as they were spoken. The message that follows is a heavy one, and it was trusted to a single listener. As-Sa'di then closes the circle. The envoy went back and delivered what Sulayman had said, and his people made ready to travel to Sulayman. The words reached Sheba intact, and they did their work.",
+            "bn": "সা'দী আরেকটি জিনিস লক্ষ করেন: সুলাইমান (আঃ) দ্বিতীয় কোনো চিঠি পাঠাননি। সা'দীর ভাষায়, তিনি দূতকে মুখে মুখে বার্তা বুঝিয়ে দিলেন। কারণ লোকটির বুদ্ধি তিনি দেখেছিলেন, আর জানতেন, কথাগুলো যেমন বলা হয়েছে ঠিক তেমনই সে পৌঁছে দেবে। পরের বার্তাটি ভারী, অথচ তা সঁপে দেওয়া হলো একজন শ্রোতার কাছে। সা'দী এরপর ঘটনার বৃত্ত পূর্ণ করেন। দূত ফিরে গিয়ে সুলাইমানের কথা জানিয়ে দিল, আর তার লোকেরা সুলাইমানের কাছে যাওয়ার প্রস্তুতি নিল। কথাগুলো অবিকৃত অবস্থায় সাবায় পৌঁছেছিল, আর নিজের কাজটা করেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Oath Pressed Twice",
+          "bn": "দুবার কসমের জোর"
+        },
+        "p": [
+          {
+            "en": "Fa-la-na'tiyannahum, then we will surely come to them; wa-la-nukhrijannahum, and we will surely drive them out. Both verbs carry the same armour, a lam at the front and a doubled nun at the end. Al-Qurtubi identifies the first as the lam of the oath, and says the nun is bound to it, so the two always arrive together. The Muyassar brings that oath into the open when it paraphrases the verse: go back to them, for by Allah, we will come to them with hosts.",
+            "bn": "ফালানা'তিয়ান্নাহুম: তবে অবশ্যই আমরা তাদের কাছে আসব। ওয়ালানুখরিজান্নাহুম: আর অবশ্যই আমরা তাদের বের করে দেব। দুটি ক্রিয়ার গায়েই একই বর্ম, শুরুতে একটি লাম আর শেষে তাশদীদযুক্ত নূন। কুরতুবী প্রথমটিকে চিহ্নিত করেন কসমের লাম হিসেবে। তিনি বলেন, নূন এর সঙ্গে বাঁধা, তাই দুটি সবসময় একসঙ্গে আসে। মুয়াসসার আয়াতের ব্যাখ্যায় কসমটা খোলাখুলি বলে দেয়: তাদের কাছে ফিরে যাও, আল্লাহর কসম, আমরা অবশ্যই বাহিনী নিয়ে তাদের কাছে আসব।"
+          },
+          {
+            "en": "Al-Qurtubi then records a grammarians' dispute over the label. An-Nahhas reports hearing Abu al-Hasan ibn Kaysan say that it is a lam of emphasis, because in his view there are only three lams at all: of emphasis, of command and of the genitive. Al-Qurtubi calls this the position of the most skilled grammarians, who trace a thing back to its root, and says it is open only to someone trained in Arabic. Whether it is called oath or emphasis, either label marks a statement pressed home, not a remark made in passing.",
+            "bn": "এরপর কুরতুবী নামকরণ নিয়ে ব্যাকরণবিদদের এক মতভেদ উল্লেখ করেন। নাহহাস বলেন, তিনি আবুল হাসান ইবন কায়সানকে বলতে শুনেছেন, এটি তাকীদ বা জোর দেওয়ার লাম। কারণ তাঁর মতে লাম মোটে তিনটি: তাকীদের লাম, আদেশের লাম আর যেরের লাম। কুরতুবী একে দক্ষ ব্যাকরণবিদদের মত বলেন, যাঁরা প্রতিটি জিনিসকে তার মূলে ফিরিয়ে নেন। তিনি আরও বলেন, আরবিতে পোক্ত না হলে এ কথা ধরা যায় না। কসম বলুন বা তাকীদ, দুই নামই বোঝায় যে কথাটা জোর দিয়ে বলা, হালকা মন্তব্য নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hosts Beyond Their Strength",
+          "bn": "সাধ্যের বাইরের বাহিনী"
+        },
+        "p": [
+          {
+            "en": "Bi-junudin la qibala lahum biha: with hosts they have no qibal against. At-Tabari glosses it as no strength against them and no ability to push them back from what they wanted of them, and he cites Abu Salih for the shorter gloss, no strength against them. Ibn Kathir has no strength to fight them, al-Qurtubi no capacity against them. The Muyassar has no strength to resist them or to meet them face to face, and its word for the second, muqabala, keeps the picture of the phrase in view: nothing in Sheba could stand in front of these hosts.",
+            "bn": "বিজুনূদিল লা কিবালা লাহুম বিহা: এমন বাহিনী নিয়ে, যার সামনে তাদের কোনো কিবাল নেই। তাবারী ব্যাখ্যা করেন: তাদের বিরুদ্ধে কোনো শক্তি নেই, আর তারা যা চায় তা থেকে তাদের ঠেকিয়ে রাখার সামর্থ্যও নেই। আরও সংক্ষিপ্ত ব্যাখ্যার জন্য তিনি আবূ সালিহকে উদ্ধৃত করেন: তাদের বিরুদ্ধে কোনো শক্তি নেই। ইবন কাসীর বলেন, তাদের সঙ্গে লড়ার শক্তি নেই। কুরতুবী বলেন, এর মোকাবিলায় তাদের কোনো সামর্থ্য নেই। মুয়াসসার বলে, প্রতিরোধ করার বা মুখোমুখি দাঁড়ানোর শক্তি নেই। দ্বিতীয়টির জন্য সে যে শব্দ নেয়, মুকাবালা, তাতে বাক্যাংশের ছবিটা চোখের সামনে থাকে। সাবার কোনো কিছুই এ বাহিনীর সামনে দাঁড়াতে পারত না।"
+          },
+          {
+            "en": "Whose hosts were these? The surah has already shown them. In 27:17 the hosts of Sulayman (AS) were gathered for him from jinn, men and birds, and kept in ordered ranks. Ibn Kathir, on 27:36, counts troops beside power and wealth among what Allah had given him. So the we of the verse is not the bluster of an ordinary king. Sulayman is naming forces the Qur'an has already described as Allah's gift to him.",
+            "bn": "বাহিনীটা কার? সূরা আগেই তা দেখিয়েছে। ২৭:১৭ আয়াতে জিন, মানুষ ও পাখি থেকে সুলাইমান (আঃ)-এর বাহিনী তাঁর জন্য একত্র করা হয়েছিল, সারিবদ্ধ শৃঙ্খলায়। ইবন কাসীর ২৭:৩৬-এর আলোচনায় আল্লাহর দেওয়া ক্ষমতা ও সম্পদের পাশে সৈন্যকেও গণনা করেন। তাই আয়াতের এই আমরা কোনো সাধারণ রাজার দম্ভ নয়। সুলাইমান এমন বাহিনীর কথা বলছেন, কুরআন যাকে আগেই আল্লাহর দান বলে পরিচয় দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Out of Sheba, Brought Low",
+          "bn": "সাবা থেকে, অপদস্থ হয়ে"
+        },
+        "p": [
+          {
+            "en": "Wa-la-nukhrijannahum minha: and we will drive them out from it. From what? Ibn Kathir says from their country, and al-Baghawi from their land and territory, which is Sheba. Al-Qurtubi first says from their land, then adds a second view introduced with it is said: from the town of Sheba. He ties that view to the word qarya in 27:34, where the queen had warned her council that kings who enter a town ruin it. On this reading the minha of Sulayman (AS) points back to the very place she was afraid for.",
+            "bn": "ওয়ালানুখরিজান্নাহুম মিনহা: আর আমরা অবশ্যই তাদের সেখান থেকে বের করে দেব। কোথা থেকে? ইবন কাসীর বলেন, তাদের দেশ থেকে। বাগাভী বলেন, তাদের ভূমি ও এলাকা থেকে, আর তা হলো সাবা। কুরতুবী প্রথমে বলেন, তাদের ভূমি থেকে। তারপর 'বলা হয়' বলে আরেকটি মত আনেন: সাবা জনপদ থেকে। এ মতটিকে তিনি যুক্ত করেন ২৭:৩৪ আয়াতের কারইয়া শব্দের সঙ্গে। সেখানে রানি তাঁর সভাসদদের সতর্ক করেছিলেন, রাজারা কোনো জনপদে ঢুকলে তা বরবাদ করে দেয়। এ ব্যাখ্যায় সুলাইমান (আঃ)-এর মিনহা ঠিক সেই জায়গাটির দিকেই ইঙ্গিত করে, যার জন্য রানির ভয় ছিল।"
+          },
+          {
+            "en": "Then two words of loss. Adhillatan, humbled: al-Qurtubi explains it as stripped of their kingdom and their honour. Wa-hum saghirun, while they are brought low: he glosses it as despised and abased, from sighar, which he defines as dhull, abasement. Ibn Kathir has despised and driven back. The first word names what would be taken from them, their standing; the second names the state they would be left in. And adhillatan is the very word the queen herself used in 27:34 for what conquering kings make of a town's honoured people.",
+            "bn": "তারপর ক্ষতির দুটি শব্দ। আযিল্লাতান, অপমানিত: কুরতুবীর ব্যাখ্যায়, রাজত্ব আর মর্যাদা দুটোই কেড়ে নেওয়া অবস্থায়। ওয়াহুম সাগিরূন, আর তারা হবে লাঞ্ছিত: তিনি এর অর্থ করেন হেয় ও অপদস্থ। শব্দটি এসেছে সিগার থেকে, আর সিগারের সংজ্ঞা তিনি দেন যুল্ল, অর্থাৎ হীনতা। ইবন কাসীর বলেন, হেয় ও বিতাড়িত। প্রথম শব্দ জানায় তাদের কাছ থেকে কী কেড়ে নেওয়া হবে, অর্থাৎ তাদের মর্যাদা। দ্বিতীয়টি জানায় তারপর তারা কোন অবস্থায় পড়ে থাকবে। আর আযিল্লা ঠিক সেই শব্দ, যা রানি নিজে ২৭:৩৪ আয়াতে বলেছিলেন: বিজয়ী রাজারা জনপদের সম্মানিত লোকদের এ অবস্থাই করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Unless They Come in Submission",
+          "bn": "যদি না অনুগত হয়ে আসে"
+        },
+        "p": [
+          {
+            "en": "The verse states the threat without a condition, yet four of the commentators supply one when they gloss its second half. At-Tabari: we will drive those who sent you out of their land, humbled and brought low, if they do not come to me as Muslims. Al-Baghawi has the same words, if they do not come to me as Muslims, and al-Qurtubi has if they do not submit. The Muyassar spells the condition out most fully: if they do not yield to the religion of Allah alone and leave the worship of anything besides Him.",
+            "bn": "আয়াতে হুমকিটা এসেছে কোনো শর্ত ছাড়াই। অথচ এর দ্বিতীয় অংশের ব্যাখ্যায় চারজন তাফসীরকার একটি শর্ত জুড়ে দিয়েছেন। তাবারী বলেন: যারা তোমাদের পাঠিয়েছে, তাদের আমরা অপমানিত ও লাঞ্ছিত করে তাদের দেশ থেকে বের করে দেব, যদি তারা মুসলিম হয়ে আমার কাছে না আসে। বাগাভীর কথাও হুবহু এক: যদি তারা মুসলিম হয়ে আমার কাছে না আসে। কুরতুবী বলেন, যদি তারা ইসলাম গ্রহণ না করে। মুয়াসসার শর্তটা সবচেয়ে বিস্তারিত বলে: যদি তারা এক আল্লাহর দীনের অনুগত না হয় এবং তিনি ছাড়া অন্যদের ইবাদত ত্যাগ না করে।"
+          },
+          {
+            "en": "The condition is not brought in from outside the story. It is the letter's own demand in 27:31, come to me in submission, and it returns in the very next verse, 27:38, where Sulayman (AS) asks for her throne before they come to me in submission. At-Tabari's report from Wahb, through the same chain as before, gives the alternative in so many words: or she will come to me in submission, she and her people. Read this way, the threat and the invitation are a single message, spoken from two sides.",
+            "bn": "শর্তটি কাহিনির বাইরে থেকে আনা নয়। ২৭:৩১ আয়াতে চিঠির দাবিই ছিল এটি: অনুগত হয়ে আমার কাছে এসো। ঠিক পরের আয়াত ২৭:৩৮-এ তা আবার ফিরে আসে, যেখানে সুলাইমান (আঃ) রানির সিংহাসন চান তারা অনুগত হয়ে আমার কাছে আসার আগেই। আগের সেই সনদেই ওয়াহব থেকে তাবারীর বর্ণনা বিকল্পটা স্পষ্ট ভাষায় বলে দেয়: নতুবা সে অনুগত হয়ে আমার কাছে আসবে, সে আর তার জাতি। এভাবে পড়লে হুমকি আর দাওয়াত আসলে একটিই বার্তা, দুই দিক থেকে বলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The March That Never Came",
+          "bn": "যে অভিযান আর হয়নি"
+        },
+        "p": [
+          {
+            "en": "What did the words do? Ibn Kathir answers at once. When her messengers came back to her with her gift and with what Sulayman (AS) had said, she and her people listened and obeyed. She set out towards him with her troops, submissive and humbled, honouring Sulayman and intending to follow him in Islam. When Sulayman was sure they were coming, he was glad. As-Sa'di agrees in brief: they made ready to travel to Sulayman, and he knew that they were certain to come.",
+            "bn": "কথাগুলোর ফল কী হলো? ইবন কাসীর সঙ্গে সঙ্গে জবাব দেন। দূতেরা যখন উপঢৌকন আর সুলাইমান (আঃ)-এর কথা নিয়ে রানির কাছে ফিরল, তিনি ও তাঁর জাতি শুনলেন এবং মেনে নিলেন। নিজের সৈন্যদল নিয়ে তিনি সুলাইমানের দিকে রওনা হলেন, বিনীত ও নত হয়ে, সুলাইমানকে সম্মান জানিয়ে, ইসলামে তাঁকে অনুসরণ করার নিয়ত নিয়ে। সুলাইমান যখন নিশ্চিত হলেন যে তারা আসছে, তিনি খুশি হলেন। সা'দীও সংক্ষেপে একই কথা বলেন: তারা সুলাইমানের কাছে যাওয়ার প্রস্তুতি নিল, আর তিনি জানতেন, তারা আসবেই।"
+          },
+          {
+            "en": "Al-Baghawi relays from Wahb and others from the people of the earlier scriptures that the queen, hearing the reply, said that by Allah she now knew he was no king. He and al-Qurtubi add how she locked her throne away and how many chiefs rode with her; those details are set aside here. The Qur'an itself records no battle at all. Its next scene, in 27:38, is a throne fetched before the travellers arrive, and the story closes in 27:44 with her own words: I submit with Sulayman to Allah, Lord of the worlds. The hosts were named, and never needed.",
+            "bn": "বাগাভী ওয়াহব ও পূর্ববর্তী কিতাবের জ্ঞানধারী আরও কয়েকজন থেকে বর্ণনা করেন যে জবাব শুনে রানি বললেন, আল্লাহর কসম, তিনি এখন বুঝেছেন, ইনি রাজা নন। রানি কীভাবে সিংহাসন তালাবদ্ধ করে রাখলেন আর কতজন সর্দার তাঁর সঙ্গে চলল, সে বিবরণও তিনি ও কুরতুবী যোগ করেন। এখানে সেগুলো বাদ রাখা হলো। কুরআন নিজে কোনো যুদ্ধের কথাই বলে না। ২৭:৩৮ আয়াতে এর পরের দৃশ্য হলো মুসাফিরেরা পৌঁছানোর আগেই সিংহাসন আনিয়ে নেওয়া। আর ২৭:৪৪ আয়াতে কাহিনি শেষ হয় রানির নিজের কথায়: আমি সুলাইমানের সঙ্গে জগতসমূহের রব আল্লাহর কাছে আত্মসমর্পণ করলাম। বাহিনীর নাম নেওয়া হয়েছিল, কাজে লাগানোর দরকার পড়েনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When a Gift Is a Price",
+          "bn": "উপহার যখন দাম"
+        },
+        "p": [
+          {
+            "en": "The returned gift raises a question Ma'arif al-Qur'an takes up: may a Muslim accept presents from those who do not believe? It notes that the refusal of Sulayman (AS) might suggest such gifts are not allowed, or not preferable, and then gives what it calls the correct position, citing Ruh al-Ma'ani. If accepting would weaken one's own standing or that of the Muslims, or run against their interest, it is prudent to decline. If the interest lies in accepting, for instance where it may lead the giver to accept Islam or ward off a danger to Islam, it is permitted.",
+            "bn": "ফেরত পাঠানো উপহার একটা প্রশ্ন তোলে, মাআরিফুল কুরআন যার আলোচনা করে: যারা ঈমান আনেনি, তাদের উপহার কি একজন মুসলিম নিতে পারে? মাআরিফ বলে, সুলাইমান (আঃ)-এর প্রত্যাখ্যান থেকে মনে হতে পারে এমন উপহার নেওয়া জায়েয নয়, বা অন্তত পছন্দনীয় নয়। তারপর রূহুল মাআনীর বরাতে যে মতকে সে সঠিক বলে, তা জানায়। উপহার নিলে যদি নিজের বা মুসলিমদের অবস্থান দুর্বল হয়, কিংবা তাদের স্বার্থের বিরুদ্ধে যায়, তবে না নেওয়াই বিচক্ষণতা। আর স্বার্থ যদি নেওয়ার পক্ষে থাকে, যেমন এতে দাতা ইসলাম গ্রহণের দিকে আসতে পারে বা ইসলামের উপর আসন্ন কোনো বিপদ টলে যেতে পারে, তবে নেওয়া জায়েয।"
+          },
+          {
+            "en": "Among the reports Ma'arif cites is one at-Tirmidhi records, no. 1577, from 'Iyad ibn Himar: that he gave the Prophet ﷺ a gift or a camel, so the Prophet ﷺ said: have you accepted Islam? He said: no. He said: then I have been prohibited from the zabd of the idolaters. At-Tirmidhi grades it hasan sahih and explains zabd as their gifts. He adds that the Prophet ﷺ is also reported to have accepted such gifts, and that this prohibition may have come later. The narration is general and is not attached to this verse.",
+            "bn": "মাআরিফ যেসব বর্ণনা উল্লেখ করে, তার একটি তিরমিযী লিপিবদ্ধ করেছেন, নং ১৫৭৭, ইয়াদ ইবন হিমার (রাঃ) থেকে। তিনি নবী ﷺ-কে একটি উপহার অথবা একটি উটনী দিয়েছিলেন। তখন নবী ﷺ বললেন: তুমি কি ইসলাম গ্রহণ করেছ? তিনি বললেন: না। নবী ﷺ বললেন: তাহলে মুশরিকদের যাবদ থেকে আমাকে নিষেধ করা হয়েছে। তিরমিযী একে হাসান সহীহ বলেছেন এবং যাবদের অর্থ করেছেন তাদের উপহার। তিনি আরও বলেন, নবী ﷺ মুশরিকদের উপহার গ্রহণ করতেন বলেও বর্ণিত আছে, আর এ নিষেধ হয়তো তার পরে এসেছিল। বর্ণনাটি সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়।"
+          },
+          {
+            "en": "Ma'arif relays further reports in both directions from 'Umdat al-Qari, which this article does not quote. Its last word on the episode matters more. Bilqis, it says, took the rejection of her presents as a sign of his prophethood, and not because gifts from unbelievers are forbidden. She had sent them on purpose as a bribe, to save herself from his attack. That is why the gift had to go back. It was never a courtesy between neighbours. It was a price offered for leaving the call unanswered, and a prophet's call was not for sale.",
+            "bn": "মাআরিফ উমদাতুল কারী থেকে দুই দিকেরই আরও কিছু বর্ণনা আনে, এ লেখায় সেগুলো উদ্ধৃত করা হয়নি। ঘটনাটি নিয়ে তার শেষ কথাটাই বেশি গুরুত্বপূর্ণ। মাআরিফ বলে, বিলকীস উপহার ফেরত আসাকে নবুওয়াতের নিদর্শন হিসেবে নিয়েছিলেন। কারণ এটা নয় যে কাফিরদের উপহার নেওয়া হারাম। বরং তিনি জেনেবুঝে ঘুষ হিসেবেই উপহার পাঠিয়েছিলেন, যাতে সুলাইমানের আক্রমণ থেকে বাঁচা যায়। এ কারণেই উপহারটা ফেরত যাওয়া জরুরি ছিল। এটা প্রতিবেশীর সৌজন্য ছিল না, ছিল দাওয়াতের জবাব না দেওয়ার বিনিময়ে দেওয়া দাম। আর নবীর দাওয়াত বিক্রির জিনিস নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Charter for Conquest",
+          "bn": "দখলদারির কোনো সনদ নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying firmly. The verse reports the words of one prophet, Sulayman (AS), to one queen's envoy, in one episode the Qur'an tells and closes. It describes what it describes and licenses nothing today: no war, no invasion, no conquest, and no driving of any people from their land or into humiliation. The people of Sheba in this story stand for no living nation, faith or community. No ruler, movement or person inherits the station of a prophet, and whoever cites this verse to justify expelling or degrading anyone has used a story that ended without a battle to start one.",
+            "bn": "কথাটা দৃঢ়ভাবে বলা দরকার। আয়াতটি একজন নবী সুলাইমান (আঃ)-এর কথা জানায়, এক রানির দূতের উদ্দেশে, এমন এক ঘটনায় যা কুরআন বলেছে এবং শেষ করেছে। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজকের দিনে কোনো কিছুর অনুমতি দেয় না। যুদ্ধ, আক্রমণ, দখল, কিংবা কোনো জাতিকে তার দেশ থেকে তাড়ানো বা অপমানিত করা, কোনোটারই নয়। এ কাহিনির সাবাবাসী আজকের কোনো জাতি, ধর্ম বা সম্প্রদায়ের প্রতিনিধি নয়। কোনো শাসক, আন্দোলন বা ব্যক্তি নবীর মর্যাদার উত্তরাধিকারী নয়। কেউ যদি কাউকে উচ্ছেদ বা হেয় করার পক্ষে এ আয়াত টেনে আনে, তবে যে কাহিনি যুদ্ধ ছাড়াই শেষ হয়েছিল, তা দিয়ে সে নিজেই এক যুদ্ধ শুরু করল।"
+          },
+          {
+            "en": "What the verse does hand the reader is quieter. A truth can be offered a price, and the price usually arrives looking like a gift. Sulayman's answer shows the response: send it back without bargaining, and keep the original call standing. It shows a firm word paired with an open door, since four commentators heard an unless inside the threat. And it shows a messenger trusted to carry words exactly as spoken. Each of these is a test that ordinary days set, with no army anywhere in sight.",
+            "bn": "পাঠকের হাতে আয়াতটি যা তুলে দেয়, তা অনেক শান্ত জিনিস। সত্যের সামনেও দাম হাজির হতে পারে, আর সে দাম সাধারণত আসে উপহারের চেহারায়। সুলাইমান (আঃ)-এর জবাব দেখায়, এর উত্তর হলো দরকষাকষি ছাড়া উপহারটা ফিরিয়ে দেওয়া, আর আসল দাওয়াতকে যেমন ছিল তেমনই রাখা। আয়াতটি দেখায় দৃঢ় কথার সঙ্গে খোলা দরজা, কেননা চারজন তাফসীরকার হুমকির ভেতরে একটি 'যদি না' শুনেছেন। আর দেখায় এমন এক দূত, যার উপর ভরসা ছিল যে সে কথাগুলো হুবহু পৌঁছে দেবে। এর প্রতিটিই এমন পরীক্ষা, যা সাধারণ দিনগুলোতেই আসে, কোথাও কোনো বাহিনী ছাড়াই।"
+          }
+        ]
+      }
+    ]
+  },
   "27:40": {
     "sections": [
       {

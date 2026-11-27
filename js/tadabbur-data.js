@@ -35793,6 +35793,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "What a message calls you to reveals where it came from. The Qur'an calls to right and away from corruption, so it is no devil's work; test every voice by where it leads.",
     "lessonBn": "বার্তা কিসের দিকে ডাকে, তা-ই বলে দেয় সেটা কোথা থেকে এসেছে। কুরআন ডাকে ন্যায়ের দিকে, ফেরায় বিপর্যয় থেকে, তাই এ কোনো শয়তানের কাজ নয়। প্রতিটি কণ্ঠকে যাচাই করুন, সে কোথায় নিয়ে যায় তা দেখে।"
+  },
+  "27:37": {
+    "reflectionEn": "The queen's envoys arrive with a rich gift, and Sulayman (AS) sends it straight back. Go back to them, he tells the envoy: we will come to them with hosts they have no power to face, and we will drive them out from there humbled and brought low. The words sound harsh until you see what they answer. His letter had asked one thing, that they come to him in submission, and the gift offered wealth in place of that answer. A prophet's call was not for sale. In the story no army marches; the queen sets out to meet him. This is one episode, not a licence for anyone's war. Its mirror is simpler: what price would make me drop what is right?",
+    "reflectionBn": "রানির দূতেরা দামি উপঢৌকন নিয়ে হাজির, আর সুলাইমান (আঃ) তা সোজা ফেরত পাঠালেন। দূতকে বললেন, তাদের কাছে ফিরে যাও। আমরা এমন বাহিনী নিয়ে তাদের কাছে আসব, যার মোকাবিলা করার শক্তি তাদের নেই। আর তাদের সেখান থেকে বের করে দেব অপমানিত ও লাঞ্ছিত অবস্থায়। কথাগুলো কঠিন শোনায়, যতক্ষণ না দেখি এগুলো কিসের জবাব। তাঁর চিঠিতে একটাই দাবি ছিল: অনুগত হয়ে আমার কাছে এসো। উপঢৌকন এসেছিল সেই জবাবের বদলে ধনসম্পদ নিয়ে। নবীর দাওয়াত বিক্রির জিনিস নয়। কাহিনিতে কোনো বাহিনী রওনা হয় না, রানি নিজেই তাঁর সঙ্গে দেখা করতে বের হন। এ এক নির্দিষ্ট ঘটনা, কারও যুদ্ধের সনদ নয়। এর আয়না আরও সহজ: কত দাম পেলে আমি ন্যায়ের কথা ছেড়ে দেব?",
+    "pointsEn": [
+      "Is there something true that I have softened or kept quiet about because someone made it worth my while?",
+      "When a gift arrives with an expectation tied to it, do I see the expectation as clearly as I see the gift?",
+      "When I have to speak firmly, do I leave a plain way back, or do I leave the other person no door at all?",
+      "When I pass on someone else's words, do I carry them as they were said, without adding heat or taking it away?",
+      "Have I ever reached for a story about a prophet to dress up my own anger or ambition?"
+    ],
+    "pointsBn": [
+      "এমন কোনো সত্য কি আছে, যা আমি নরম করে বলেছি বা চেপে গেছি, কারণ কেউ তাতে আমার লাভের ব্যবস্থা করে দিয়েছিল?",
+      "কোনো উপহারের সঙ্গে প্রত্যাশা বাঁধা থাকলে, উপহারটা যেমন স্পষ্ট দেখি, প্রত্যাশাটাও কি তেমন স্পষ্ট দেখি?",
+      "কঠিন কথা বলতে হলে আমি কি ফেরার একটা পরিষ্কার পথ খোলা রাখি, নাকি অপর মানুষটির সামনে সব দরজা বন্ধ করে দিই?",
+      "অন্যের কথা পৌঁছে দেওয়ার সময় কি যেভাবে বলা হয়েছে সেভাবেই পৌঁছাই, নিজের থেকে ঝাঁজ না বাড়িয়ে, না কমিয়ে?",
+      "নিজের রাগ বা উচ্চাকাঙ্ক্ষাকে সাজাতে কি কখনো কোনো নবীর কাহিনি টেনে এনেছি?"
+    ],
+    "lessonEn": "Let no gift buy your silence about what is right, and when you must speak firmly, keep the way back open and seek the other's good, not their ruin.",
+    "lessonBn": "কোনো উপহার যেন ন্যায়ের ব্যাপারে আপনার মুখ বন্ধ করতে না পারে। আর কঠিন কথা বলতে হলে ফেরার পথ খোলা রাখুন, অপরের সর্বনাশ নয়, কল্যাণ চান।"
   }
 };
 
