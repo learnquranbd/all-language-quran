@@ -1207,6 +1207,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "34:22": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Stories, Then a Summons",
+          "bn": "দুই কাহিনির পর এক আহ্বান"
+        },
+        "p": [
+          {
+            "en": "Qul id'ū alladhīna za'amtum min dūni'llāh: say, call on those you claim besides Allah. The surah turns here from story to address. It has just told of Dawud and Sulayman (AS), given favours and thankful, and of Saba, given gardens and ungrateful. At-Tabari ties both stories to this command in one sentence. This is what We did with Our friend and whoever obeyed Us, and that is what We did with Saba when they spurned Our favour; so say, O Muhammad, to those of your people who deny Our favours to them.",
+            "bn": "কুলিদ'উল্লাযীনা যা'আমতুম মিন দূনিল্লাহ: বলুন, আল্লাহকে ছেড়ে যাদেরকে তোমরা (ইলাহ) মনে করো, তাদের ডাকো। এখানে এসে সূরা কাহিনি থেকে সরাসরি সম্বোধনে চলে যায়। একটু আগেই এসেছে দাউদ (আঃ) ও সুলাইমান (আঃ)-এর কথা, যাঁরা নিয়ামত পেয়ে শোকর করেছিলেন। এসেছে সাবার কথাও, যারা বাগান পেয়ে নাশোকরি করেছিল। তাবারী দুই কাহিনিকে একটি বাক্যে এই আদেশের সঙ্গে জুড়ে দেন। আমার বন্ধু আর আমার আনুগত্যকারীর সঙ্গে আমি এই করেছি, আর সাবা যখন আমার নিয়ামত নিয়ে অহংকার করল, তাদের সঙ্গে করেছি ওই। তাই হে মুহাম্মাদ, আপনার কওমের যারা তাদের উপর আমার নিয়ামত অস্বীকার করে, তাদের বলুন।"
+          },
+          {
+            "en": "Al-Qurtubi makes the same link and says what the stories were for. What has been told of Dawud and Sulayman and of Saba, he writes, is among the traces of My power; so ask these idolaters whether their partners have power over any of that. Then he names the register of the command: hādhā khiṭābu tawbīkh, this is speech of rebuke. The summons is not an invitation to try again. It sets the claimed gods beside the acts just narrated and lets the distance between them speak.",
+            "bn": "কুরতুবীও একই সংযোগ টানেন, আর বলে দেন কাহিনিগুলো কেন এসেছে। দাউদ, সুলাইমান আর সাবার যে ঘটনা বলা হলো, তাঁর ভাষায় তা আমার কুদরতের নিদর্শন। কাজেই এই মুশরিকদের জিজ্ঞেস করুন, তাদের শরীকদের কি এর কোনো কিছুর উপর ক্ষমতা আছে? তারপর তিনি আদেশটির সুরও চিনিয়ে দেন: হাযা খিতাবু তাওবীখ, এ হলো তিরস্কারের ভাষা। আবার চেষ্টা করে দেখার দাওয়াত এটি নয়। দাবি করা উপাস্যদের আয়াত দাঁড় করিয়ে দেয় সদ্য বর্ণিত কাজগুলোর পাশে। তারপর দুয়ের মাঝের দূরত্বই কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Words Held Back",
+          "bn": "যে কথা উহ্য রাখা হলো"
+        },
+        "p": [
+          {
+            "en": "Call them, but to do what? The verse does not say, and the commentators fill the gap. Al-Qurtubi says fīhi iḍmār, something is held unspoken, and supplies it: call those you claimed were gods besides Allah, to benefit you or to ward off what Allah has decreed against you, for they own none of that. Al-Baghawi also finds a ḥadhf, an omission, and fills it differently: call them to lift the harm that came down on you in the years of hunger.",
+            "bn": "ডাকতে বলা হলো, কিন্তু কিসের জন্য? আয়াত তা বলে না, আর তাফসীরকারেরা সেই ফাঁকটা পূরণ করেন। কুরতুবী বলেন, ফীহি ইদমার, এখানে একটা কথা উহ্য আছে। তিনি তা খুলে বলেন: যাদের তোমরা আল্লাহকে ছেড়ে ইলাহ মনে করো, তাদের ডাকো, যেন তারা তোমাদের উপকার করে, কিংবা আল্লাহ তোমাদের উপর যা ফয়সালা করেছেন তা ঠেকিয়ে দেয়। তারা এর কিছুরই মালিক নয়। বাগাভীও এখানে হাযফ, অর্থাৎ বাদ পড়া কথা দেখেন, তবে পূরণ করেন অন্যভাবে: দুর্ভিক্ষের বছরগুলোতে তোমাদের উপর যে কষ্ট নেমেছিল, তা দূর করতে তাদের ডাকো।"
+          },
+          {
+            "en": "At-Tabari's filling draws on the two stories. Ask them, he says, to do for you some of what We did with those whose affair We described, whether favour given or hope cut off; if they cannot, know that you are in falsehood, because partnership in lordship is neither fitting nor allowed. The Muyassar makes it practical: turn to them in your needs, for they will not answer you. As-Sa'di says the command binds the idolaters to the helplessness of their gods. Each filling names a different object, and each ends in the same silence.",
+            "bn": "তাবারী শূন্যস্থানটা পূরণ করেন আগের দুই কাহিনি থেকে। তাঁর ভাষায়: যাদের কথা আমি বললাম, তাদের সঙ্গে আমি যা করেছি, নিয়ামত দেওয়া হোক বা আশা ছিন্ন করা, তার কিছু তোমাদের জন্য করে দিতে বলো ওদের। না পারলে জেনে রাখো, তোমরা বাতিলের উপর আছ। কারণ রুবূবিয়্যাতে শরীক থাকা শোভনও নয়, বৈধও নয়। মুয়াসসার কথাটাকে দৈনন্দিন জীবনে নামিয়ে আনে: প্রয়োজনে ওদের কাছে যাও, ওরা তোমাদের ডাকে সাড়া দেবে না। সা'দী বলেন, এই আদেশ মুশরিকদের তাদের উপাস্যের অক্ষমতার সামনে বেঁধে দেয়। প্রত্যেকে আলাদা উদ্দেশ্যের কথা বলেন, কিন্তু সবার শেষেই একই নীরবতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lighter Than a Small Ant",
+          "bn": "ছোট্ট পিঁপড়ার চেয়েও হালকা"
+        },
+        "p": [
+          {
+            "en": "Then the first denial: lā yamlikūna mithqāla dharratin fi's-samāwāti wa lā fi'l-arḍ, they do not own an atom's weight in the heavens or on the earth. The Muyassar glosses mithqāl dharra as wazn namla ṣaghīra, the weight of a small ant. The verse takes the smallest weight there is and denies them even that. The same measure is used in 34:3, where not an atom's weight in the heavens or on the earth escapes Allah's knowledge. He misses nothing of the smallest thing; they own nothing of it.",
+            "bn": "তারপর প্রথম অস্বীকার: লা ইয়ামলিকূনা মিসকালা যাররাতিন ফিস সামাওয়াতি ওয়ালা ফিল আরদ, আসমানে বা যমীনে তারা অণু পরিমাণ কিছুরও মালিক নয়। মুয়াসসার মিসকালা যাররার অর্থ করে ওয়াযনু নামলাতিন সাগীরা, একটা ছোট্ট পিঁপড়ার ওজন। যত ছোট ওজন কল্পনা করা যায়, আয়াত সেটাই তুলে ধরে, আর তাদের সেটুকু মালিকানাও অস্বীকার করে। একই মাপ এসেছে ৩৪:৩ আয়াতে। সেখানে বলা হয়েছে, আসমান বা যমীনের অণু পরিমাণ কিছুও আল্লাহর জ্ঞানের বাইরে থাকে না। সবচেয়ে ছোট জিনিসের কিছুই তাঁর অজানা নয়, আর ওরা তার কিছুরই মালিক নয়।"
+          },
+          {
+            "en": "At-Tabari spells out what they fail to own: min khayrin wa lā sharrin wa lā ḍarrin wa lā naf', neither good nor evil, neither harm nor benefit. Al-Baghawi gives the same four words. At-Tabari then asks the question the clause invites: fa-kayfa yakūnu ilāhan man kāna kadhālik, so how can one be a god who is like that? Ibn Kathir sets 35:13 beside it, where those called on besides Him own not even a qiṭmīr. Two verses, two of the smallest measures, and the same verdict.",
+            "bn": "তাবারী খুলে বলেন, কিসের মালিক তারা নয়: মিন খাইরিন ওয়ালা শাররিন ওয়ালা দাররিন ওয়ালা নাফ', ভালো-মন্দ কিছুর নয়, ক্ষতি বা উপকার কোনোটিরই নয়। বাগাভীও এই চারটি শব্দই আনেন। তারপর তাবারী সেই প্রশ্ন তোলেন, যা বাক্যটি নিজেই জাগায়: ফাকাইফা ইয়াকূনু ইলাহান মান কানা কাযালিক, যার অবস্থা এমন, সে ইলাহ হয় কী করে? ইবন কাসীর এর পাশে রাখেন ৩৫:১৩ আয়াত, যেখানে বলা হয়েছে, তাঁকে ছেড়ে যাদের ডাকা হয়, তারা একটা কিতমীরেরও মালিক নয়। দুই আয়াতে দুই সবচেয়ে ছোট মাপ, আর রায় একটাই।"
+          },
+          {
+            "en": "As-Sa'di reads the first clause as already covering two kinds of holding. They own nothing 'alā wajhi'l-istiqlāl, on their own, nor 'alā wajhi'l-ishtirāk, by way of partnership; wa li-hādhā qāla, and that is why He went on to say that they have no share in either. Ibn Kathir places the same pair, on their own and as partners, on that second clause instead. Both kinds of holding are named, so that a claim cannot hide behind the other.",
+            "bn": "সা'দীর মতে প্রথম বাক্যেই দুই ধরনের মালিকানা অস্বীকার করা হয়েছে। তারা 'আলা ওয়াজহিল ইসতিকলাল, এককভাবে কিছুর মালিক নয়, আবার 'আলা ওয়াজহিল ইশতিরাক, অংশীদার হিসেবেও নয়। তিনি বলেন, ওয়া লিহাযা কালা, এ জন্যই আল্লাহ এরপর বলেছেন যে এ দুয়ে তাদের কোনো ভাগ নেই। ইবন কাসীর এই জোড়াটিকে, অর্থাৎ একক ও যৌথ মালিকানাকে, বসান পরের বাক্যের ব্যাখ্যায়। দুই ধরনের মালিকানাই নাম ধরে বলা হলো, যাতে একটার আড়ালে অন্যটার দাবি লুকাতে না পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither Divided Nor Shared",
+          "bn": "ভাগ করাও নয়, যৌথও নয়"
+        },
+        "p": [
+          {
+            "en": "Wa mā lahum fīhimā min shirk: and they have no share in either. Al-Baghawi glosses shirk simply as shirka, partnership. At-Tabari gives the clause its sharpest reasoning. Ownership of owned things, he says, belongs to an owner in only two ways: maqsūman, divided, so that each holds a marked portion, or mushā'an, held in common, so that each holds an undivided share of the whole. These gods own not the weight of an atom either way, lā mushā'an wa lā maqsūman.",
+            "bn": "ওয়ামা লাহুম ফীহিমা মিন শিরক: এ দুয়ে তাদের কোনো ভাগ নেই। বাগাভী শিরকের অর্থ করেন সরাসরি শিরকা, অংশীদারত্ব। তাবারী এ বাক্যের সবচেয়ে ধারালো যুক্তিটা দেন। তাঁর কথায়, মালিকানাধীন জিনিসে মালিকের মালিকানা থাকে মাত্র দুইভাবে। হয় মাকসূম, ভাগ করা, যেখানে প্রত্যেকের অংশ চিহ্নিত। নয়তো মুশা', যৌথ, যেখানে প্রত্যেকের ভাগ গোটা জিনিসে ছড়িয়ে থাকে, আলাদা করা থাকে না। এই উপাস্যরা কোনোভাবেই অণু পরিমাণ কিছুর মালিক নয়, লা মুশা'আন ওয়ালা মাকসূমান, যৌথভাবেও নয়, ভাগ করেও নয়।"
+          },
+          {
+            "en": "His conclusion comes as a question: so how can one who is like this be a partner to the One who owns all of it? The clause closes a line of retreat. Someone pressed on the first clause might say his god owns nothing alone but holds a part jointly with Allah. On at-Tabari's account a joint holding would still be a holding, and there is none. As-Sa'di puts it briefly: lā shirka qalīl wa lā kathīr, no share, small or great. In 35:40 the same denial returns as a question: have they a share in the heavens?",
+            "bn": "তাবারীর উপসংহারও একটা প্রশ্ন: যার অবস্থা এমন, সে কী করে তাঁর শরীক হয়, যিনি এর সব কিছুর মালিক? এ বাক্য পিছু হটার একটা পথ বন্ধ করে দেয়। প্রথম বাক্যে কোণঠাসা হয়ে কেউ বলতে পারত, আমার উপাস্য একা কিছুর মালিক নয় বটে, তবে আল্লাহর সঙ্গে যৌথভাবে একটা অংশ তার আছে। তাবারীর হিসাবে যৌথ মালিকানাও তো মালিকানা, আর সেটাও নেই। সা'দী কথাটা বলেন সংক্ষেপে: লা শিরকা কালীলুন ওয়ালা কাসীর, কম-বেশি কোনো ভাগই নেই। ৩৫:৪০ আয়াতে একই অস্বীকার ফিরে আসে প্রশ্নের রূপে: আসমানে কি তাদের কোনো অংশ আছে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Minister Beside the King",
+          "bn": "বাদশাহর পাশে কোনো উজির নেই"
+        },
+        "p": [
+          {
+            "en": "Wa mā lahu minhum min ẓahīr: and He has no helper from among them. Here the pronoun turns. The first two clauses spoke of what they have; this one speaks of what He has, and denies that He has anything from them. Qatada, in the chain at-Tabari gives, glosses ẓahīr as min 'awnin bi-shay', any help in anything, and Ibn Kathir relays Qatada's gloss in nearly the same words.",
+            "bn": "ওয়ামা লাহু মিনহুম মিন যাহীর: আর তাদের মধ্যে কেউ তাঁর সাহায্যকারী নয়। এখানে সর্বনামের দিক বদলে যায়। প্রথম দুই বাক্য বলেছিল তাদের কী আছে। এ বাক্য বলে তাঁর কী আছে, আর জানিয়ে দেয়, তাদের কাছ থেকে তিনি কিছুই পান না। তাবারী যে সনদে কাতাদার কথা আনেন, তাতে কাতাদা যাহীরের অর্থ করেন মিন 'আওনিন বিশাই', কোনো বিষয়ে কোনো সাহায্য। ইবন কাসীরও কাতাদার এই ব্যাখ্যা প্রায় একই শব্দে উদ্ধৃত করেন।"
+          },
+          {
+            "en": "At-Tabari explains why the clause is needed after the other two. Allah has no helper among them in creating any of it or in preserving it, since they own nothing of it, in common or divided, fa-yuqālu: huwa laka sharīk, so that it might be said: he is a partner to you, because he helped, even if he owns nothing. A helper who owns nothing could still claim a partner's standing by his service. The verse denies the service too. Al-Qurtubi and the Muyassar draw the consequence: Allah alone brings things into being, so He alone is worshipped.",
+            "bn": "অন্য দুই বাক্যের পর এ বাক্যের দরকার কেন, তাবারী তা ব্যাখ্যা করেন। এর কিছু সৃষ্টি করায় বা রক্ষা করায় তাদের কেউ আল্লাহর সাহায্যকারী নয়, কারণ যৌথভাবে বা ভাগ করে, কোনোভাবেই তারা এর কিছুর মালিক নয়। নইলে বলা যেত, ফায়ুকালু: হুয়া লাকা শারীক, সে তোমার শরীক, কারণ সে সাহায্য করেছে, মালিক না হলেও। যে কিছুর মালিক নয়, সেও সেবার জোরে শরীকের মর্যাদা দাবি করতে পারত। আয়াত সেই সেবাটাও অস্বীকার করে। কুরতুবী আর মুয়াসসার এর ফল টেনে বলেন: অস্তিত্ব দান করেন একমাত্র আল্লাহ, তাই ইবাদতও একমাত্র তাঁরই।"
+          },
+          {
+            "en": "As-Sa'di frames the clause as the answer to an objection he voices himself. It remains for someone to say: even so, they may be a'wān, aides, to the Owner, and wuzarā', His ministers, so calling on them is useful; because the king needs them, they settle the needs of whoever attaches himself to them. Allah denied this rank as well, he says: He has among them no mu'āwin wa wazīr, no assistant or minister to help Him in the kingdom and its ordering. Ibn Kathir turns it around: all creation is fuqarā' ilayh, in need of Him, and 'abīd ladayh, slaves before Him.",
+            "bn": "সা'দী এ বাক্যকে দেখেন একটা আপত্তির জবাব হিসেবে, যে আপত্তি তিনি নিজেই তুলে ধরেন। কেউ বলতে পারে, তবু তো তারা মালিকের আ'ওয়ান, সহকারী, আর উযারা, তাঁর উজির হতে পারে। তাহলে তাদের ডাকা কাজে আসবে, কারণ বাদশাহর তাদের দরকার, আর সেই সুবাদে তারা তাদের সঙ্গে যারা লেগে থাকে, তাদের প্রয়োজন মিটিয়ে দেয়। সা'দী বলেন, আল্লাহ এই স্তরটাও অস্বীকার করেছেন: রাজত্ব ও পরিচালনায় সাহায্য করার মতো কোনো মু'আউয়িন বা উজির তাদের মধ্যে তাঁর নেই। ইবন কাসীর কথাটা উল্টো দিক থেকে বলেন: সমগ্র সৃষ্টি ফুকারা ইলাইহি, তাঁর মুখাপেক্ষী, আর 'আবীদুন লাদাইহি, তাঁর সামনে বান্দা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only Intercession Was Left",
+          "bn": "বাকি ছিল শুধু সুপারিশ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di does not stop at this verse. His comment on 34:23 opens: fa-lam yabqa illa'sh-shafā'a, so nothing was left but intercession, and He denied that with the words, intercession avails nothing with Him except for whomever He permits. Then he names the whole sequence. These are the kinds of ta'alluqāt, attachments, by which idolaters cling to their rivals and idols, whether humans, trees or other things. Allah cut them all and showed them void, in a way that severs the stuff of shirk and cuts its roots.",
+            "bn": "সা'দী এ আয়াতে থেমে যান না। ৩৪:২৩ আয়াতের ব্যাখ্যা তিনি শুরু করেন এভাবে: ফালাম ইয়াবকা ইল্লাশ শাফা'আ, বাকি রইল শুধু সুপারিশ। আল্লাহ সেটাও নাকচ করে দিলেন এই কথায়: তিনি যাকে অনুমতি দেন, সে ছাড়া তাঁর কাছে কারও সুপারিশ কাজে আসে না। তারপর তিনি পুরো ধারাটির নাম দেন। এগুলো হলো সেই তা'আল্লুকাত, আঁকড়ে ধরার নানা অবলম্বন, যা দিয়ে মুশরিকরা তাদের মানুষ, গাছ বা অন্য কোনো উপাস্য আর মূর্তির সঙ্গে লেগে থাকে। আল্লাহ সবগুলো কেটে দিয়েছেন, এগুলোর অসারতা এমনভাবে দেখিয়েছেন যে শিরকের রসদ ফুরিয়ে যায়, শিকড় কাটা পড়ে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, commenting on 34:22 and 34:23 together, reads the same denials as answers to three different groups. The first, which it calls the most absurd, held the stone idols to be partners of Allah in all His powers, and the opening of 34:22 refutes them. The second held the idols to be His helpers in managing the universe, and the last clause of the verse answers them. The third claimed neither, only that the idols were so close to Allah that their intercession was always approved, and 34:23 refutes that.",
+            "bn": "মাআরিফুল কুরআন ৩৪:২২ ও ৩৪:২৩ আয়াত একসঙ্গে আলোচনা করে, আর একই অস্বীকারগুলোকে দেখে তিনটি দলের তিনটি জবাব হিসেবে। প্রথম দল, যাদের ধারণাকে সে সবচেয়ে অযৌক্তিক বলে, পাথরের মূর্তিকে আল্লাহর সব ক্ষমতায় তাঁর শরীক মনে করত। ৩৪:২২ আয়াতের শুরুর অংশ তাদের খণ্ডন করে। দ্বিতীয় দল মূর্তিগুলোকে বিশ্বজগৎ পরিচালনায় আল্লাহর সাহায্যকারী মনে করত। আয়াতের শেষ বাক্য তাদের জবাব। তৃতীয় দল এর কোনোটাই দাবি করত না। তারা শুধু বলত, মূর্তিগুলো আল্লাহর এত কাছের যে তাদের সুপারিশ সব সময় কবুল হয়। ৩৪:২৩ আয়াত সেই ধারণা খণ্ডন করে।"
+          },
+          {
+            "en": "The two framings differ in shape. As-Sa'di reads one ladder of retreats in the reasoning of a worshipper; Ma'arif reads three separate creeds, each with its own reply. Both end at the next verse, and intercession by His leave belongs to it, together with the report from al-Bukhari that Ibn Kathir brings there on the angels who hear His word. No commentary fetched for 34:22 attaches a hadith to this verse itself.",
+            "bn": "দুই ব্যাখ্যার কাঠামো আলাদা। সা'দী দেখেন একজন উপাসকের মনের ভেতর পিছু হটার একটা সিঁড়ি। মাআরিফ দেখে তিনটি আলাদা বিশ্বাস, প্রত্যেকটির আলাদা জবাব। দুটোই গিয়ে থামে পরের আয়াতে। আল্লাহর অনুমতিসাপেক্ষ সুপারিশের আলোচনা সেই আয়াতেরই। ইবন কাসীর বুখারী থেকে ফেরেশতাদের তাঁর বাণী শোনার যে বর্ণনা আনেন, সেটাও ওই আয়াতের ব্যাখ্যায়। ৩৪:২২ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hope Beneath the Calling",
+          "bn": "ডাকের পেছনের আশা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di then names what the denials are aimed at. The idolater calls on and worships other than Allah only li-mā yarjū minhu mina'n-naf', for the benefit he hopes from it, and that hope is what brought him to shirk. So if whatever he calls on owns no benefit or harm, is no partner of the Owner, no aide or helper to the Owner, and cannot intercede without the Owner's leave, then such calling and such worship is error in reason and void in the law.",
+            "bn": "সা'দী এরপর বলে দেন, এই অস্বীকারগুলোর লক্ষ্য কী। মুশরিক আল্লাহ ছাড়া অন্যকে ডাকে আর তার ইবাদত করে লিমা ইয়ারজূ মিনহু মিনান নাফ', তার কাছ থেকে যে উপকারের আশা করে, সেই জন্য। এই আশাই তাকে শিরকে টেনে আনে। কাজেই যাকে সে ডাকে, সে যদি উপকার-ক্ষতির মালিক না হয়, মালিকের শরীক না হয়, মালিকের সহকারী বা সাহায্যকারী না হয়, আর মালিকের অনুমতি ছাড়া সুপারিশও করতে না পারে, তাহলে এমন ডাক আর এমন ইবাদত বুদ্ধির বিচারে গোমরাহি, শরীয়তের বিচারে বাতিল।"
+          },
+          {
+            "en": "This moves the verse from idols to the heart. On as-Sa'di's reading no one turns to a stone for its own sake; he turns to what he hopes it will bring. So the verse argues with the hope, and it does so by inventory: ownership, share, help, and in the next verse intercession, every place a hope might rest. As-Sa'di adds that the seeker's aim turns back on him. He wanted benefit from them, and what Allah shows him is its falseness and its absence, and in other verses its harm.",
+            "bn": "এ ব্যাখ্যা আয়াতটিকে মূর্তি থেকে সরিয়ে আনে মনের ভেতরে। সা'দীর পাঠে কেউ পাথরের দিকে পাথরের জন্য ফেরে না। ফেরে এই আশায় যে সে কিছু এনে দেবে। তাই আয়াত তর্ক করে সেই আশার সঙ্গে, আর করে একটা একটা করে হিসাব মিলিয়ে: মালিকানা, অংশীদারত্ব, সাহায্য, আর পরের আয়াতে সুপারিশ। আশা যেখানে যেখানে ভর দিতে পারে, সব জায়গা। সা'দী যোগ করেন, খোঁজকারীর উদ্দেশ্য উল্টে তার উপরই ফিরে আসে। সে চেয়েছিল উপকার, আর আল্লাহ তাকে দেখিয়ে দেন সেই উপকার মিথ্যা, আসলে তার অস্তিত্বই নেই। অন্য আয়াতে দেখান, তা বরং ক্ষতি।"
+          },
+          {
+            "en": "A believer can run the same inventory on himself. The hopes that compete with Allah are rarely carved images. They are an employer whose goodwill seems to decide one's living, a doctor treated as if the cure were his, a balance in the bank that feels like safety. Using such means is not what the verse condemns. Its question is whether I have quietly given one of them ownership, a share, or the post of a helper Allah needs. If I have, the verse takes that back.",
+            "bn": "একজন মুমিন নিজের উপরও এই হিসাব চালাতে পারেন। আল্লাহর সঙ্গে পাল্লা দেয় এমন আশাগুলো সাধারণত খোদাই করা মূর্তি নয়। হতে পারে এমন কোনো মালিক, যার সন্তুষ্টিই যেন রুটি-রুজির ফয়সালা করে। হতে পারে এমন ডাক্তার, যাকে দেখা হয় যেন আরোগ্য তাঁরই হাতে। কিংবা ব্যাংকের এমন অঙ্ক, যাকেই নিরাপত্তা মনে হয়। এসব মাধ্যম কাজে লাগানোকে আয়াত দোষ দেয় না। আয়াতের প্রশ্ন হলো, আমি কি চুপিসারে এদের কাউকে মালিকানা দিয়ে ফেলেছি, ভাগ দিয়ে ফেলেছি, কিংবা এমন সহকারীর পদ দিয়েছি, যেন আল্লাহর তাকে দরকার? দিয়ে থাকলে আয়াত তা ফিরিয়ে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Challenge, Not a Licence",
+          "bn": "চ্যালেঞ্জ, অনুমতিপত্র নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse addresses the idolaters of the Prophet's ﷺ own time, whom al-Baghawi names as the disbelievers of Makkah, and it describes what the text describes: the helplessness of the gods they called on. It licenses nothing against any living person or community. It gives no one a warrant to mock what others revere or to harm those who revere it. The Prophet ﷺ is told to say, and the argument does the rest.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতের সম্বোধন নবী ﷺ-এর সমকালের মুশরিকদের প্রতি, বাগাভী যাদের বলেন মক্কার কাফির। আয়াত যা বর্ণনা করে, তা-ই বর্ণনা করে: তারা যাদের ডাকত, সেই উপাস্যদের অক্ষমতা। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। অন্যরা যাকে সম্মান করে, তাকে উপহাস করার বা সেই মানুষদের ক্ষতি করার কোনো ছাড়পত্র এখানে নেই। নবী ﷺ-কে বলা হয়েছে কথাটা বলতে, বাকিটা যুক্তিই করে।"
+          },
+          {
+            "en": "Notice also whom the Muyassar lists among those called on: al-aṣnām wa'l-malā'ika wa'l-bashar, idols, angels and human beings. The verse denies them all ownership, share and the place of a helper. It does not thereby lower the angels or the righteous; it takes from them only what was never theirs. Ibn Kathir opens with the verse's purpose: Allah makes clear that He is the one God with no peer and no partner, al-mustaqill bi'l-amri waḥdah, alone in command, with none to share, contest or oppose. Whoever else is called on, the heavens and the earth answer to One.",
+            "bn": "আরও খেয়াল করুন, মুয়াসসার কাদের নাম নেয়, যাদের ডাকা হয়: আল-আসনাম ওয়াল মালাইকা ওয়াল বাশার, মূর্তি, ফেরেশতা আর মানুষ। আয়াত এদের সবার মালিকানা, অংশীদারত্ব আর সাহায্যকারীর আসন অস্বীকার করে। এতে ফেরেশতা বা নেককার মানুষের মর্যাদা কমে না। যা কখনো তাদের ছিল না, আয়াত শুধু সেটুকুই তাদের থেকে সরিয়ে নেয়। ইবন কাসীর ব্যাখ্যা শুরু করেন আয়াতের উদ্দেশ্য দিয়ে: আল্লাহ স্পষ্ট করে দেন যে তিনিই একমাত্র ইলাহ, যাঁর কোনো সমকক্ষ নেই, শরীক নেই। আল-মুসতাকিল্লু বিল আমরি ওয়াহদাহ, সব বিষয়ে তিনি একাই ফয়সালাকারী, তাঁর সঙ্গে ভাগ বসানোর, বিবাদ করার বা বিরোধিতা করার কেউ নেই। আর যাকেই ডাকা হোক, আসমান আর যমীন জবাবদিহি করে শুধু একজনের কাছে।"
+          }
+        ]
+      }
+    ]
+  },
   "34:27": {
     "sections": [
       {

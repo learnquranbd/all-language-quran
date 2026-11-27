@@ -36533,6 +36533,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let Allah's commands clean you rather than confine you: carry dignity at home and in public, hold to prayer and giving, and honour the whole of the Prophet's ﷺ household.",
     "lessonBn": "আল্লাহর আদেশ যেন আপনাকে আটকে না রেখে পবিত্র করে। ঘরে ও বাইরে মর্যাদা বজায় রাখুন, নামায ও দানকে আঁকড়ে ধরুন, আর নবী ﷺ-এর গোটা পরিবারকে সম্মান করুন।"
+  },
+  "34:22": {
+    "reflectionEn": "Say: call on them. The command is short, and it is a dare. Whatever you have been turning to besides Allah, try it now. Then the verse answers before anyone can: they own not an atom's weight in the heavens or on the earth, they hold no share in either, and none of them stands at His side as a helper. Each line closes a door the heart might slip through: perhaps it owns a little, perhaps it shares, perhaps it assists. Nothing is left to them. What remains is an honest question about my own hope. When I am anxious, whose name comes to mind first, and can it give me anything at all?",
+    "reflectionBn": "বলুন: ডাকো তাদের। আদেশটা ছোট, কিন্তু এর ভেতরে আছে চ্যালেঞ্জ। আল্লাহকে ছেড়ে যাদের দিকে ফিরে থাকো, এখনই তাদের ডেকে দেখো। তারপর কেউ মুখ খোলার আগেই আয়াত নিজে জবাব দেয়: আসমানে বা যমীনে তারা অণু পরিমাণ জিনিসেরও মালিক নয়, এ দুয়ের কোনোটিতে তাদের ভাগ নেই, আর তাদের কেউ তাঁর পাশে সাহায্যকারী হয়েও দাঁড়ায় না। প্রতিটি বাক্য মনের একেকটা ফাঁক বন্ধ করে দেয়। হয়তো সে সামান্য কিছুর মালিক, হয়তো অংশীদার, হয়তো সহকারী, কোনোটাই টেকে না। তাদের হাতে কিছুই থাকে না। বাকি থাকে নিজের আশা নিয়ে একটা সৎ প্রশ্ন। দুশ্চিন্তায় পড়লে কার নাম আগে মনে আসে, আর সে কি আমাকে আদৌ কিছু দিতে পারে?",
+    "pointsEn": [
+      "When something frightens me, what do I reach for first, and does it own anything that could help me?",
+      "Is there a person, a position or a sum of money that I treat as if it shared in Allah's power over my life?",
+      "Do I ever picture someone standing beside Allah as a helper He needs, whose favour I must win before His?",
+      "How would my du'a change if I truly believed that nothing besides Him owns even the smallest speck?",
+      "Where have I placed a hope that this verse would tell me to take back?"
+    ],
+    "pointsBn": [
+      "ভয় পেলে আমি প্রথমে কিসের দিকে হাত বাড়াই? আমাকে সাহায্য করার মতো কিছু কি আসলে তার মালিকানায় আছে?",
+      "এমন কোনো মানুষ, পদ বা টাকার অঙ্ক কি আছে, যাকে আমি এমনভাবে দেখি যেন আমার জীবনের উপর আল্লাহর ক্ষমতায় তারও ভাগ আছে?",
+      "আমি কি কখনো ভাবি, আল্লাহর পাশে কেউ সহকারী হয়ে দাঁড়িয়ে আছে, যাকে তাঁর দরকার, আর তাঁর আগে যার মন জয় করতে হবে?",
+      "আল্লাহ ছাড়া আর কেউ সামান্য একটা কণারও মালিক নয়, এ কথা সত্যিই বিশ্বাস করলে আমার দোয়া কীভাবে বদলে যেত?",
+      "কোথায় আমি এমন আশা রেখেছি, যা এ আয়াত আমাকে ফিরিয়ে নিতে বলবে?"
+    ],
+    "lessonEn": "Nothing besides Allah owns an atom's weight, shares His dominion or helps Him rule; so turn your calling, your hope and your need to Him alone.",
+    "lessonBn": "আল্লাহ ছাড়া কেউ অণু পরিমাণ কিছুর মালিক নয়, তাঁর রাজত্বে কারও ভাগ নেই, তাঁকে কেউ সাহায্যও করে না। তাই আপনার ডাক, আশা আর প্রয়োজন শুধু তাঁর কাছেই রাখুন।"
   }
 };
 
