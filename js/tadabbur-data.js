@@ -37653,6 +37653,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Denial will find no room when your own hearing, eyes and skin speak; admit your faults to Allah now, while admitting still helps, and give your limbs good to report.",
     "lessonBn": "যেদিন আপনার নিজের কান, চোখ আর চামড়া কথা বলবে, সেদিন অস্বীকারের কোনো জায়গা থাকবে না। তাই এখনই, যখন স্বীকারোক্তি কাজে আসে, আল্লাহর কাছে নিজের ভুল স্বীকার করুন, আর অঙ্গগুলোকে বলার মতো ভালো কাজ দিন।"
+  },
+  "41:50": {
+    "reflectionEn": "A long illness lifts, or a lean year turns, and with the relief comes a sentence: this is mine. Not given, earned. The verse lets that sentence run to its end. If I earned the good, perhaps nothing waits to judge me; and if something does, surely it will treat me as well as this. Each step follows from the last, and each moves further from the One who gave. Then comes the answer: those who deny will be told exactly what they did, and made to taste a harsh punishment. The same verb, taste, carries both the mercy and the punishment. When ease returns to me, whose name do I say first? Do I read my comfort as a trial, or as a receipt?",
+    "reflectionBn": "লম্বা অসুখ সেরে যায়, কিংবা টানাটানির বছরটা ঘুরে দাঁড়ায়। স্বস্তির সঙ্গে মুখে একটা কথা চলে আসে: এটা আমার। কেউ দেয়নি, আমি অর্জন করেছি। আয়াতটি কথাটাকে তার শেষ পর্যন্ত গড়াতে দেয়। ভালোটা যদি আমার প্রাপ্যই হয়, তবে হয়তো বিচারের কিছু নেই। আর যদি থাকেও, সেখানেও নিশ্চয় এমনই আদর পাব। প্রতিটি ধাপ আগের ধাপ থেকে আসে, আর প্রতিটি ধাপ দাতা থেকে আরও দূরে সরায়। তারপর আসে জবাব: যারা অস্বীকার করে, তাদের ঠিক ঠিক জানিয়ে দেওয়া হবে তারা কী করেছিল, আর কঠিন শাস্তির স্বাদ নিতে হবে। আরবিতে রহমতের স্বাদ আর শাস্তির স্বাদ, দুটোই একই ক্রিয়ায় বলা। সুদিন ফিরলে আমার মুখে প্রথম কার নাম আসে? আরামকে আমি পরীক্ষা ভাবি, নাকি পাওনা মিটিয়ে দেওয়ার রসিদ?",
+    "pointsEn": [
+      "When something I had prayed for finally came, did I thank the Giver first, or explain to myself why I had earned it?",
+      "Which blessing in my life do I quietly treat as owed to me, as though Allah were in my debt?",
+      "Have I taken an easy season as proof that Allah is pleased with me, without asking how I have used it?",
+      "Is there a hope I hold about the Hereafter that rests on wishing rather than on what I actually do?",
+      "When a hardship lifts, how long does my turning to Allah last after it?"
+    ],
+    "pointsBn": [
+      "যা চেয়ে এত দিন দু'আ করেছি, তা যখন অবশেষে এল, আমি কি আগে দাতার শুকরিয়া করেছি, নাকি মনে মনে বুঝিয়েছি কেন আমি এর যোগ্য ছিলাম?",
+      "জীবনের কোন নি'মাতকে আমি চুপচাপ নিজের পাওনা ধরে নিই, যেন আল্লাহ আমার কাছে ঋণী?",
+      "সুদিন এসেছে বলেই কি ধরে নিয়েছি আল্লাহ আমার উপর খুশি, অথচ সেই সুদিন কীভাবে কাটালাম তা একবারও ভাবিনি?",
+      "আখিরাত নিয়ে আমার এমন কোনো আশা কি আছে, যার ভিত্তি আমার আমল নয়, শুধু মনের ইচ্ছা?",
+      "বিপদ কেটে গেলে আল্লাহর দিকে আমার ফিরে আসাটা আর কত দিন টেকে?"
+    ],
+    "lessonEn": "When relief follows hardship, credit it to Allah and not to your own merit, and never let present comfort persuade you that the Hour is far or His reward owed.",
+    "lessonBn": "কষ্টের পর স্বস্তি এলে তার কৃতিত্ব আল্লাহকে দিন, নিজের যোগ্যতাকে নয়। আজকের আরাম যেন আপনাকে এ কথা না বোঝায় যে কিয়ামত দূরে, কিংবা তাঁর প্রতিদান আপনার পাওনা।"
   }
 };
 

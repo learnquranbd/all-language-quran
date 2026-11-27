@@ -2651,6 +2651,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "41:50": {
+    "sections": [
+      {
+        "h": {
+          "en": "Between Despair and Turning Away",
+          "bn": "হতাশা আর মুখ ফেরানোর মাঝখানে"
+        },
+        "p": [
+          {
+            "en": "This verse stands between two portraits of the same person. In 41:49, man never tires of asking for good, yet when evil touches him he is hopeless and despairing. In 41:51, when favour is given he turns away and keeps his distance, and when evil touches him he is full of long supplication. Between them, 41:50 gives the words he speaks once relief arrives. As-Sa'di makes the link explicit: the one made to taste mercy here is the insan of the previous verse, who never tires of praying for good and despairs when harm reaches him.",
+            "bn": "আয়াতটি দাঁড়িয়ে আছে একই মানুষের দুটি ছবির মাঝখানে। ৪১:৪৯-এ মানুষ কল্যাণ চাইতে চাইতে ক্লান্ত হয় না, অথচ মন্দ ছুঁয়ে গেলেই সে হতাশ, নিরাশ। ৪১:৫১-এ নি'মাত পেলে সে মুখ ফিরিয়ে দূরে সরে যায়, আর মন্দ ছুঁলে লম্বা-চওড়া দু'আয় মেতে ওঠে। এ দুইয়ের মাঝে ৪১:৫০ শোনায়, স্বস্তি ফিরে এলে সে মুখে কী বলে। সা'দী যোগসূত্রটা খুলে বলেন: এখানে যাকে রহমতের স্বাদ দেওয়া হলো, সে আগের আয়াতের সেই মানুষ, কল্যাণের দু'আয় যার ক্লান্তি নেই, আর বিপদ এলে যে ভেঙে পড়ে।"
+          },
+          {
+            "en": "Ibn Kathir, in the abridged English, takes 41:49 to 41:51 as one passage under a single heading: man is fickle when ease comes after difficulty. Read together, the three verses trace a circle. There is despair while the hardship lasts, self-congratulation when it lifts, turning away in plenty, and loud prayer again when the hardship returns. 41:50 is where, in that circle, the person speaks. His words fall into three claims, which the commentators take one at a time, and then Allah answers him with a sworn reply.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৪১:৪৯ থেকে ৪১:৫১ পর্যন্ত একটি শিরোনামে একসঙ্গে পড়ে: কষ্টের পর স্বস্তি এলে মানুষ চঞ্চল হয়ে যায়। তিন আয়াত পাশাপাশি রাখলে একটা চক্র দেখা যায়। কষ্ট যতক্ষণ, ততক্ষণ হতাশা। কষ্ট কাটলে নিজের তারিফ। প্রাচুর্যে মুখ ফেরানো। আবার কষ্ট এলে উঁচু গলায় দু'আ। সেই চক্রে ৪১:৫০ হলো সেই জায়গা, যেখানে মানুষটি মুখ খোলে। তার কথা তিনটি দাবিতে ভাগ হয়, তাফসীরকারেরা একটা একটা করে সেগুলো খোলেন। তারপর আল্লাহ কসম করে তার জবাব দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Health After Sickness, Plenty After Want",
+          "bn": "রোগের পর সুস্থতা, অভাবের পর সচ্ছলতা"
+        },
+        "p": [
+          {
+            "en": "Wa-la'in adhaqnahu rahmatan minna min ba'di darra'a massat-hu: and if We let him taste mercy from Us after harm has touched him. At-Tabari makes both halves of the clause concrete. Allah removes from this disbeliever the sickness in his body and the hardship and strain in his living, grants him wellbeing after the illness, and gives him wealth, widening his means after the struggle. Al-Qurtubi glosses the mercy as wellbeing, ease and wealth, and the harm as injury, sickness, hardship and poverty. As-Sa'di keeps to plain cases: Allah heals him of his illness, or enriches him after his poverty.",
+            "bn": "ওয়া লা-ইন আযাকনাহু রাহমাতাম মিন্না মিম বা'দি দাররাআ মাসসাতহু: কষ্ট তাকে ছুঁয়ে যাওয়ার পর আমি যদি তাকে আমার পক্ষ থেকে রহমতের স্বাদ দিই। তাবারী বাক্যের উভয় অংশই চোখে দেখার মতো করে বলেন। আল্লাহ এই কাফিরের শরীর থেকে রোগ সরিয়ে দেন, জীবিকার টানাটানি আর কষ্ট দূর করেন। অসুখের পর তাকে সুস্থতা দেন, আর কষ্টের পর সম্পদ দিয়ে তার জীবিকা প্রশস্ত করেন। কুরতুবীর ব্যাখ্যায় রহমত মানে সুস্থতা, সচ্ছলতা আর সম্পদ। আর কষ্ট মানে ক্ষতি, অসুখ, দুরবস্থা আর দারিদ্র্য। সা'দী সোজা উদাহরণে থাকেন: আল্লাহ তার অসুখ সারিয়ে দেন, কিংবা দারিদ্র্যের পর তাকে সচ্ছল করেন।"
+          },
+          {
+            "en": "Al-Baghawi has good things, wellbeing and wealth, after a hardship and trial that struck him. Al-Muyassar and as-Sa'di both say what the man then fails to do: he does not thank Allah, but transgresses. Notice the verb itself. The verse does not say We gave him mercy but We let him taste it, adhaqnahu, and the same root returns at the end of the verse: la-nudhiqannahum, We will make them taste. The commentaries read here do not dwell on the pairing, but it stands in the wording: what began as a taste of mercy closes on a taste of punishment.",
+            "bn": "বাগাভী বলেন, কল্যাণ, সুস্থতা আর সম্পদ, তাকে আঘাত করা কষ্ট ও পরীক্ষার পর। মানুষটি তারপর কী করে না, মুয়াসসার আর সা'দী দুজনেই তা বলে দেন: সে আল্লাহর শুকরিয়া আদায় করে না, উল্টো সীমা ছাড়ায়। এবার ক্রিয়াটার দিকে তাকান। আয়াত বলে না যে আমি তাকে রহমত দিলাম। বলে, স্বাদ দিলাম: আযাকনাহু। আর একই ধাতু আয়াতের শেষে আবার ফিরে আসে: লানুযীকান্নাহুম, আমি অবশ্যই তাদের স্বাদ নেওয়াব। যে তাফসীরগুলো পড়া হয়েছে, সেগুলো এ জোড়া নিয়ে আলাদা করে কিছু বলে না। কিন্তু শব্দেই তা আছে: যার শুরু রহমতের স্বাদে, তার শেষ শাস্তির স্বাদে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mine, and Deserved",
+          "bn": "আমার, আর আমারই প্রাপ্য"
+        },
+        "p": [
+          {
+            "en": "The first claim is two words: hadha li, this is mine. Mujahid, in at-Tabari's chain, explains: by my deeds, and I am entitled to this. Al-Baghawi gives the same gloss without naming him. At-Tabari's own wording takes it one step further: this is mine with Allah, because Allah is pleased with me, pleased with my deeds and with the way I persist in. Ibn Kathir has the man say that he deserved it from his Lord. Al-Muyassar and as-Sa'di put it simply: it came to me because I am worthy of it and have earned it.",
+            "bn": "প্রথম দাবি মাত্র দুই শব্দের: হাযা লী, এটা আমার। তাবারীর সনদে মুজাহিদ ব্যাখ্যা করেন: আমার আমলের জোরে, আর আমি এর হকদার। বাগাভীও একই ব্যাখ্যা দেন, তবে মুজাহিদের নাম নেন না। তাবারী নিজের ভাষায় আরেক ধাপ এগোন: এটা আল্লাহর কাছে আমার প্রাপ্য, কারণ আল্লাহ আমার উপর সন্তুষ্ট। আমার আমল আর যে পথে আমি অটল আছি, তাতে তিনি খুশি। ইবন কাসীরের বর্ণনায় লোকটি বলে, আমার রবের কাছে আমি এটা পাওয়ার যোগ্যই ছিলাম। মুয়াসসার আর সা'দী সোজা কথায় বলেন: আমি এর উপযুক্ত, আমি এটা পাওয়ার হকদার, তাই এটা আমার কাছে এসেছে।"
+          },
+          {
+            "en": "Al-Qurtubi presses the claim further. The man means: this is something I am owed by Allah, because He is pleased with my deeds. He therefore sees the favour as a binding obligation upon Allah. He did not know, al-Qurtubi adds, that Allah was testing him with both the favour and the hardship, to make plain his gratitude and his patience. Al-Qurtubi also records from Ibn 'Abbas a shorter gloss: hadha li, this is from me, min 'indi. On that wording the claim is not that Allah owes him, but that the good is his own doing.",
+            "bn": "কুরতুবী দাবিটাকে আরও গভীরে টেনে নেন। লোকটির মনের কথা: আল্লাহর কাছে এটা আমার পাওনা, কারণ তিনি আমার আমলে সন্তুষ্ট। ফলে নি'মাতটাকে সে আল্লাহর উপর এক অবশ্যপালনীয় দায় মনে করে। কুরতুবী যোগ করেন, সে জানত না যে আল্লাহ তাকে নি'মাত দিয়েও পরীক্ষা করছিলেন, কষ্ট দিয়েও, যাতে তার শুকরিয়া আর সবর দুটোই প্রকাশ পায়। কুরতুবী ইবন আব্বাস (রাঃ) থেকে আরও ছোট একটা ব্যাখ্যাও আনেন: হাযা লী মানে, এটা আমার নিজের কাছ থেকে, মিন ইনদী। এ পাঠে দাবিটা এই নয় যে আল্লাহ তার কাছে ঋণী। দাবিটা হলো, ভালোটা তার নিজেরই কীর্তি।"
+          },
+          {
+            "en": "The Qur'an supplies its own parallels, and they can simply be pointed to. In 28:78 Qarun says of his treasure: I was only given it because of knowledge I have. In 39:49 the person relieved from adversity says the same: I have only been given it because of knowledge. That verse answers at once: rather, it is a trial, but most of them do not know. The answer in 39:49 is, in substance, the one al-Qurtubi gives here in his own words. The favour was a test, and the man read it as a receipt.",
+            "bn": "কুরআন নিজেই এর সমান্তরাল দেখিয়ে দেয়, শুধু আঙুল তুলে দেখালেই চলে। ২৮:৭৮-এ কারূন তার ধনভাণ্ডার নিয়ে বলে: আমার কাছে যে জ্ঞান আছে, তার জোরেই এটা আমাকে দেওয়া হয়েছে। ৩৯:৪৯-এ বিপদ থেকে রেহাই পাওয়া মানুষও একই কথা বলে: জ্ঞানের জোরেই এটা আমি পেয়েছি। সে আয়াত সঙ্গে সঙ্গে জবাব দেয়: না, এটা এক পরীক্ষা, কিন্তু তাদের বেশির ভাগ তা জানে না। ৩৯:৪৯-এর এই জবাবই সারকথায় কুরতুবী এখানে নিজের ভাষায় দিয়েছেন। নি'মাত ছিল পরীক্ষা, আর লোকটি সেটাকে পড়ল পাওনা মিটিয়ে দেওয়ার রসিদ হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denial, or Simply No Certainty",
+          "bn": "অস্বীকার, নাকি নিছক অনিশ্চয়তা"
+        },
+        "p": [
+          {
+            "en": "The second claim: wa ma azunnu al-sa'ata qa'imatan, and I do not think the Hour will be established. At-Tabari paraphrases it as: I do not reckon that the Resurrection will rise on the day it rises. Al-Muyassar and as-Sa'di both call it his denial of the Resurrection, and as-Sa'di adds that it is at the same time ingratitude for the favour and mercy Allah let him taste. Ibn Kathir says he disbelieves in the Hour's coming. On these readings the clause is a flat refusal of the return, spoken by a man still enjoying his relief.",
+            "bn": "দ্বিতীয় দাবি: ওয়া মা আযুন্নুস সাআতা কাইমাহ, আমি মনে করি না কিয়ামত কায়েম হবে। তাবারী কথাটা নিজের ভাষায় বলেন এভাবে: যেদিন কিয়ামত হওয়ার কথা, সেদিন তা হবে বলে আমি হিসাব করি না। মুয়াসসার আর সা'দী দুজনেই একে বলেন পুনরুত্থানের অস্বীকার। সা'দী যোগ করেন, একই সঙ্গে এটা সেই নি'মাত আর রহমতের নাশুকরি, যার স্বাদ আল্লাহ তাকে দিয়েছিলেন। ইবন কাসীর বলেন, সে কিয়ামত কায়েম হওয়াকে অস্বীকার করে। এ পাঠে বাক্যটা ফিরে যাওয়ার সোজা অস্বীকার। আর তা বলছে এমন মানুষ, যে তখনো স্বস্তির স্বাদ নিচ্ছে।"
+          },
+          {
+            "en": "Al-Baghawi words it more softly, in the man's own voice: I am not certain of the Resurrection. Ibn Kathir, on the clause that follows, names the same lack, 'adam al-yaqin, absence of certainty, alongside the man's bad deeds. So the verb azunnu is heard as outright denial by some and as unsettled doubt by others, and both end in the same carelessness. Ibn Kathir ties it to the blessing itself: because he has been granted a favour he boasts, exults and disbelieves. He cites 96:6 and 96:7: no, man transgresses, because he sees himself self-sufficient.",
+            "bn": "বাগাভী কথাটা বলেন একটু নরম করে, লোকটির নিজের মুখে: পুনরুত্থানের ব্যাপারে আমি নিশ্চিত নই। ইবন কাসীরও পরের বাক্যের আলোচনায় এই ঘাটতির নাম নেন: আদামুল ইয়াকীন, নিশ্চিত বিশ্বাসের অভাব, তার মন্দ আমলের পাশাপাশি। তাই আযুন্নু ক্রিয়াটাকে কেউ শোনেন সরাসরি অস্বীকার হিসেবে, কেউ দোদুল্যমান সন্দেহ হিসেবে। দুটোরই শেষ একই বেপরোয়া ভাবে। ইবন কাসীর একে নি'মাতের সঙ্গেই জুড়ে দেন: নি'মাত পেয়েছে বলেই সে বড়াই করে, অহংকারে ফুলে ওঠে, আর অস্বীকার করে। তিনি উদ্ধৃত করেন ৯৬:৬ ও ৯৬:৭: কখনো না, মানুষ সীমা ছাড়ায়, কারণ সে নিজেকে অভাবমুক্ত মনে করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Paradise, or More Riches",
+          "bn": "জান্নাত, নাকি আরও ধনসম্পদ"
+        },
+        "p": [
+          {
+            "en": "The third claim: wa la'in ruji'tu ila rabbi inna li 'indahu la-l-husna, and if I am returned to my Lord, I will surely have the best with Him. At-Tabari spells out the condition: even if the Resurrection does come, and I am brought back to Allah alive after my death. What is al-husna? Al-Qurtubi, al-Baghawi and al-Muyassar say Paradise. At-Tabari says riches and wealth, ghina wa mal, and cites as-Suddi: al-husna means riches. The two readings are kept as two. The man imagines either Paradise itself, or the same abundance he enjoys now, carried over.",
+            "bn": "তৃতীয় দাবি: ওয়া লা-ইর রুজি'তু ইলা রব্বী ইন্না লী ইনদাহু লালহুসনা, আর যদি আমাকে আমার রবের কাছে ফিরিয়ে নেওয়াও হয়, তাঁর কাছে আমার জন্য নিশ্চয়ই সেরাটাই আছে। তাবারী শর্তটা খুলে বলেন: কিয়ামত যদি হয়েও যায়, আর মৃত্যুর পর আমাকে জীবিত করে আল্লাহর কাছে ফিরিয়ে নেওয়া হয়। আল-হুসনা মানে কী? কুরতুবী, বাগাভী আর মুয়াসসার বলেন, জান্নাত। তাবারী বলেন, প্রাচুর্য আর সম্পদ, গিনা ওয়া মাল। এ কথার পক্ষে তিনি সুদ্দীকে উদ্ধৃত করেন: আল-হুসনা মানে প্রাচুর্য। দুই ব্যাখ্যা দুই রকমই থাকুক। লোকটি কল্পনা করে হয় খোদ জান্নাত, নয়তো আজ যে প্রাচুর্য ভোগ করছে, ওপারেও তারই ধারাবাহিকতা।"
+          },
+          {
+            "en": "Three of the commentators draw out the same logic. Ibn Kathir: if there is a return after all, my Lord will surely be good to me, as He was good to me in this world. He describes the man as placing his wishes upon Allah, despite the man's bad deeds and lack of certainty. Al-Baghawi: as He gave me in this world, He will give me in the next. As-Sa'di: just as the favour reached me here, it will reach me there. Al-Qurtubi notes that the lam in la-l-husna is for emphasis, and says the man indulges in wishes without deeds.",
+            "bn": "দাবির পেছনের যুক্তিটা তিনজন তাফসীরকার একইভাবে খুলে দেখান। ইবন কাসীর: যদি ফিরে যাওয়া থাকেই, তবে আমার রব নিশ্চয়ই আমার সঙ্গে ভালো ব্যবহার করবেন, যেমন এ দুনিয়ায় করেছেন। তাঁর ভাষায় লোকটি আল্লাহর উপর নিজের আকাঙ্ক্ষা চাপিয়ে দেয়, অথচ লোকটির আমল মন্দ আর বিশ্বাসে নিশ্চয়তা নেই। বাগাভী: দুনিয়ায় যেমন দিয়েছেন, আখিরাতেও তেমন দেবেন। সা'দী: নি'মাত যেমন এখানে পেয়েছি, ওখানেও পাব। কুরতুবী জানান, লালহুসনা শব্দের লাম জোর দেওয়ার জন্য। আর বলেন, লোকটি আমল ছাড়াই আশার পর আশা করে চলে।"
+          },
+          {
+            "en": "As-Sa'di's verdict on this clause is the sharpest. It is, he says, among the greatest audacity, and speaking about Allah without knowledge, and that is why Allah threatens him in the words that follow. At-Tabari, explaining the threat, gives the same people a name of his own: those who wish falsehoods upon Allah. The fault is not that he hopes in his Lord. It is that he has written the terms himself, and written himself in.",
+            "bn": "এ বাক্য নিয়ে সবচেয়ে কড়া রায় সা'দীর। তিনি বলেন, এটা সবচেয়ে বড় দুঃসাহসের একটি, আর আল্লাহর ব্যাপারে না জেনে কথা বলা। সে কারণেই পরের কথাগুলোতে আল্লাহ তাকে হুঁশিয়ার করেছেন। তাবারী সতর্কবাণীর ব্যাখ্যায় এদের নিজের দেওয়া একটা নাম দেন: আল্লাহর উপর মিথ্যা আশা চাপিয়ে দেওয়া লোক। দোষটা এ নয় যে সে রবের কাছে আশা রাখে। দোষ হলো, শর্তগুলো সে নিজেই লিখেছে, আর নিজের নামটাও তাতে বসিয়ে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Wishes of the Denier",
+          "bn": "অস্বীকারকারীর দুই আকাঙ্ক্ষা"
+        },
+        "p": [
+          {
+            "en": "The three claims are not unique to this verse. In 18:35 and 18:36, the owner of the two gardens speaks almost the same sentence: he does not think his garden will ever perish, he does not think the Hour will come, and if he is brought back to his Lord he expects to find something better. The confidence in what he holds, the doubt about the Hour, and the assumed better treatment all recur. The pattern of 41:50 is one the Qur'an returns to.",
+            "bn": "তিনটি দাবি কেবল এ আয়াতেই নেই। ১৮:৩৫ ও ১৮:৩৬-এ দুই বাগানের মালিক প্রায় একই কথা বলে। সে মনে করে না তার বাগান কোনোদিন ধ্বংস হবে, মনে করে না কিয়ামত আসবে, আর রবের কাছে ফিরিয়ে নেওয়া হলেও সে এর চেয়ে ভালো কিছু পাওয়ার আশা রাখে। হাতে যা আছে তার উপর ভরসা, কিয়ামত নিয়ে সন্দেহ, আর ওপারে আরও ভালো আদরের ধারণা, তিনটিই সেখানে ফিরে আসে। ৪১:৫০-এর ছাঁচটা কুরআন বারবার সামনে আনে।"
+          },
+          {
+            "en": "Al-Qurtubi records a saying of al-Hasan ibn Muhammad ibn 'Ali ibn Abi Talib that sets this clause beside its opposite. The disbeliever, he said, has two wishes. In this world he says: if I am returned to my Lord, I will have the best with Him. In the next world he says: would that we could be sent back, and not deny the signs of our Lord, and be among the believers (6:27); and: would that I were dust (78:40). The first wish asks for more of the same. The second asks only to undo, or not to be at all.",
+            "bn": "কুরতুবী হাসান ইবন মুহাম্মাদ ইবন আলী ইবন আবী তালিবের একটি উক্তি আনেন, যা এ বাক্যকে তার উল্টো ছবির পাশে দাঁড় করায়। তিনি বলেছেন, কাফিরের দুটি আকাঙ্ক্ষা। দুনিয়ায় সে বলে: আমাকে আমার রবের কাছে ফিরিয়ে নেওয়া হলে তাঁর কাছে আমার জন্য সেরাটাই আছে। আর আখিরাতে সে বলে: হায়, আমাদের যদি ফেরত পাঠানো হতো, আমরা রবের আয়াতগুলোকে মিথ্যা বলতাম না, মুমিনদের দলে থাকতাম (৬:২৭)। আরও বলে: হায়, আমি যদি মাটি হয়ে যেতাম (৭৮:৪০)। প্রথম আকাঙ্ক্ষা চায় আরও বেশি একই জিনিস। দ্বিতীয়টা চায় শুধু সব উল্টে দিতে, কিংবা একেবারে না থাকতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told His Deeds, Not Good News",
+          "bn": "সুসংবাদ নয়, শোনানো হবে আমলনামা"
+        },
+        "p": [
+          {
+            "en": "Then Allah answers: fa-la-nunabbi'anna alladhina kafaru bima 'amilu, We will surely inform those who disbelieved of what they did. Al-Qurtubi notes that this is an oath Allah swears. The commentators gloss the verb differently. At-Tabari: We will tell these disbelievers, who wish falsehoods upon Allah, on the day they return to Him, of the sins they committed in the world and the evil deeds they earned, and then requite them all. Al-Qurtubi takes it straight to its result: We will requite them. Ibn 'Abbas, in al-Baghawi, gives another picture: We will make them stand over the evils of their deeds.",
+            "bn": "তারপর আল্লাহর জবাব: ফালানুনাব্বিআন্নাল্লাযীনা কাফারূ বিমা আমিলূ, যারা কুফরি করেছে, তারা কী করেছিল তা আমি অবশ্যই তাদের জানিয়ে দেব। কুরতুবী জানান, এখানে আল্লাহ কসম করে কথাটা বলছেন। ক্রিয়াটার ব্যাখ্যা এসেছে নানাভাবে। তাবারী: আল্লাহর উপর মিথ্যা আশা চাপানো এই কাফিরেরা যেদিন তাঁর কাছে ফিরবে, সেদিন দুনিয়ায় করা গুনাহ আর কামানো মন্দ কাজের খবর তাদের দেব, তারপর সবাইকে তার প্রতিফল দেব। কুরতুবী সোজা ফলাফলে চলে যান: আমি তাদের প্রতিফল দেব। আর বাগাভীর বর্ণনায় ইবন আব্বাস (রাঃ) আরেকটা ছবি আঁকেন: আমি তাদের নিজেদের মন্দ আমলের সামনে দাঁড় করাব।"
+          },
+          {
+            "en": "Wa la-nudhiqannahum min 'adhabin ghaliz: and We will surely make them taste a heavy punishment. Al-Qurtubi glosses ghaliz as severe, and as-Sa'di as severe in the extreme. At-Tabari names what it is: that thick punishment is their being kept forever in the fire of Jahannam, where they neither die nor live. Ibn Kathir reads the whole close as a threat, of punishment and exemplary penalty, against whoever holds this belief and does these deeds. The man said he would find the best waiting; he is told his deeds instead.",
+            "bn": "ওয়া লানুযীকান্নাহুম মিন আযাবিন গালীয: আর অবশ্যই আমি তাদের কঠিন শাস্তির স্বাদ নেওয়াব। কুরতুবী গালীয অর্থ করেন কঠোর, আর সা'দী বলেন, অত্যন্ত কঠোর। তাবারী শাস্তিটার নাম বলে দেন: সেই কঠিন শাস্তি হলো জাহান্নামের আগুনে তাদের চিরকাল রাখা, যেখানে তারা মরবেও না, বাঁচবেও না। ইবন কাসীর আয়াতের পুরো শেষ অংশটাকে পড়েন হুঁশিয়ারি হিসেবে। যার বিশ্বাস আর আমল এমন, তার জন্য শাস্তি আর দৃষ্টান্তমূলক সাজার সতর্কবাণী। লোকটি ভেবেছিল ওপারে সেরাটা অপেক্ষা করছে। তার বদলে তাকে শোনানো হবে তার আমল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Mirror, Never a Label",
+          "bn": "আয়না, কারও গায়ের তকমা নয়"
+        },
+        "p": [
+          {
+            "en": "Who is this man? At-Tabari and al-Baghawi both call him this disbeliever. Al-Muyassar and as-Sa'di keep the verse's own word, al-insan, man, carried over from 41:49. Ibn Kathir's threat falls on whoever's deed and belief are like this, and the verse's last sentence names those who disbelieved. None of the commentaries read for this verse attaches a hadith to it or reports an occasion of its revelation, so it is read here through its words and its neighbours.",
+            "bn": "লোকটা কে? তাবারী আর বাগাভী দুজনেই বলেন, এই কাফির। মুয়াসসার আর সা'দী আয়াতের নিজের শব্দটাই রাখেন: আল-ইনসান, মানুষ, যা ৪১:৪৯ থেকে চলে এসেছে। ইবন কাসীরের সতর্কবাণী তার উপর, যার আমল আর বিশ্বাস এমন। আর আয়াতের শেষ বাক্য নাম ধরে বলে, যারা কুফরি করেছে। এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো হাদীস জোড়ে না, নাযিলের কোনো উপলক্ষও জানায় না। তাই আয়াতটি এখানে পড়া হয়েছে তার নিজের শব্দ আর পাশের আয়াতগুলো দিয়ে।"
+          },
+          {
+            "en": "That needs saying plainly. The verse describes what it describes: a way of speaking about blessing, the Hour and the return, and what awaits those who disbelieve. It licenses nothing against any living person or community. No one may point to a wealthy neighbour, a patient who has recovered, or a prosperous people and say: there is the man of 41:50. Prosperity is not a verdict, and relief is not a sign of denial. Hearts are not ours to read, and the verse hands its judgement to Allah alone, on the day they are told what they did.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: নি'মাত, কিয়ামত আর ফিরে যাওয়া নিয়ে কথা বলার এক ধরন, আর যারা কুফরি করে তাদের জন্য যা অপেক্ষা করছে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। ধনী প্রতিবেশী, সেরে ওঠা রোগী, কিংবা সচ্ছল কোনো জাতির দিকে আঙুল তুলে কেউ বলতে পারে না: এই তো ৪১:৫০-এর লোক। সচ্ছলতা কোনো রায় নয়, স্বস্তি কোনো অস্বীকারের আলামত নয়। মানুষের মন পড়া আমাদের কাজ নয়। আয়াত বিচারের ভার রেখেছে কেবল আল্লাহর হাতে, সেই দিনের জন্য, যেদিন তাদের জানানো হবে তারা কী করেছিল।"
+          },
+          {
+            "en": "The one person a reader may examine by this verse is himself. The first claim can grow quietly in anyone: a recovery credited to a good doctor and a strong constitution, a raise credited to hard work, a sense that comfort is proof of Allah's pleasure. Al-Qurtubi's correction is the useful one here. Favour and hardship alike are a test, so that gratitude and patience become visible. When relief comes, the verse leaves a simple question: is the first word mine, or His?",
+            "bn": "এ আয়াত দিয়ে পাঠক যাকে যাচাই করতে পারেন, সে কেবল নিজে। প্রথম দাবিটা যে কারও মনে চুপিচুপি বেড়ে উঠতে পারে। অসুখ সারার কৃতিত্ব যায় ভালো ডাক্তার আর মজবুত শরীরের ঘরে। বেতন বাড়ার কৃতিত্ব যায় খাটুনির ঘরে। আর মনে হয়, আরামে আছি মানে আল্লাহ খুশি। এখানে কাজের কথা কুরতুবীর সংশোধনটাই। নি'মাত আর কষ্ট দুটোই পরীক্ষা, যাতে শুকরিয়া আর সবর চোখে পড়ে। স্বস্তি এলে আয়াত একটা সহজ প্রশ্ন রেখে যায়: প্রথম কথাটা কি আমার নামে, নাকি তাঁর নামে?"
+          }
+        ]
+      }
+    ]
+  },
   "41:53": {
     "sections": [
       {
