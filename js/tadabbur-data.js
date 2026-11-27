@@ -37853,6 +37853,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Recite what you cannot explain with care, leave its meaning to Allah where knowledge stops, and give your effort to the Book He made clear.",
     "lessonBn": "যার ব্যাখ্যা জানা নেই তা-ও যত্ন নিয়ে তিলাওয়াত করুন, জ্ঞান যেখানে থামে সেখানে অর্থ আল্লাহর উপর ছেড়ে দিন, আর পরিশ্রম ঢালুন সেই কিতাবে যাকে তিনি স্পষ্ট করেছেন।"
+  },
+  "43:55": {
+    "reflectionEn": "Signs came, each greater than the one before. Hardship came, and was lifted when they promised to change. The promise was broken, a ruler boasted, and his people followed him because it was easier. Only then does the verse say: when they angered Us, We took retribution from them and drowned them all. The seizure did not come at the first refusal. It came at the end of a long road of respite, and that respite was a door held open, not a sign of approval. The verse describes Pharaoh and his host and licenses no verdict on anyone alive. For me the question is quieter. What door is being held open for me now, and am I walking through it, or reading the patience as permission?",
+    "reflectionBn": "নিদর্শন এসেছিল একের পর এক, প্রতিটি আগেরটির চেয়ে বড়। বিপদ এসেছিল, আর বদলে যাওয়ার কথা দিতেই তা সরে গিয়েছিল। তারপর কথা ভাঙা হলো, এক শাসক বড়াই করল, আর তার লোকেরা সহজ পথ ধরে তারই পেছনে চলল। এত কিছুর পরেই আয়াতটি বলে: যখন তারা আমাকে রাগান্বিত করল, আমি তাদের থেকে প্রতিশোধ নিলাম এবং সবাইকে ডুবিয়ে দিলাম। প্রথম অস্বীকারেই পাকড়াও আসেনি। এসেছে দীর্ঘ অবকাশের শেষে। সেই অবকাশ ছিল খোলা রাখা দরজা, সম্মতির চিহ্ন নয়। আয়াতটি ফেরাউন ও তার দলবলের কথা বলে, আজকের কোনো মানুষের ব্যাপারে রায় দেওয়ার অনুমতি দেয় না। আমার জন্য প্রশ্নটা বরং নিঃশব্দ। আমার সামনে এখন কোন দরজা খোলা রাখা হয়েছে? আমি কি তা দিয়ে ফিরছি, নাকি আল্লাহর ধৈর্যকে নিজের জন্য ছাড়পত্র ভেবে বসে আছি?",
+    "pointsEn": [
+      "What has been eased for me lately that I promised, while it was hard, to answer with change?",
+      "Is there a habit I keep up only because nothing has happened to me yet, and have I mistaken that quiet for approval?",
+      "Whose voice do I follow because following is easier than weighing what is true?",
+      "If my life ended suddenly today, would it find me heedless, or turned toward my Lord?",
+      "When I hear of a disaster that struck others, do I hurry to call it a punishment, or turn the warning on myself?"
+    ],
+    "pointsBn": [
+      "কঠিন সময়ে কথা দিয়েছিলাম বদলে যাব, এমন কোন বিপদ সম্প্রতি আমার উপর থেকে সহজ হয়ে গেছে?",
+      "এমন কোনো অভ্যাস কি আছে, যা শুধু এ কারণে চালিয়ে যাচ্ছি যে এখনো কিছু হয়নি? সেই নীরবতাকে কি আমি সম্মতি ভেবে নিয়েছি?",
+      "সত্য যাচাই করার চেয়ে মেনে নেওয়া সহজ বলে আমি কার কথা মেনে চলি?",
+      "আজই যদি হঠাৎ জীবন শেষ হয়, আমাকে কি গাফেল অবস্থায় পাবে, নাকি রবের দিকে ফেরানো অবস্থায়?",
+      "অন্যদের উপর কোনো বিপর্যয়ের খবর শুনলে আমি কি তাড়াহুড়ো করে সেটাকে শাস্তি বলে দিই, নাকি সতর্কবাণীটা নিজের দিকে ফেরাই?"
+    ],
+    "lessonEn": "Allah's long respite is a door held open for return, not a sign of approval; turn back while it is open, and never read His patience as permission.",
+    "lessonBn": "আল্লাহর দীর্ঘ অবকাশ ফিরে আসার জন্য খোলা রাখা দরজা, সম্মতির চিহ্ন নয়। দরজা খোলা থাকতেই ফিরে আসুন, আর তাঁর ধৈর্যকে কখনো ছাড়পত্র ভাববেন না।"
   }
 };
 

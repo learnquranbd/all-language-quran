@@ -2931,6 +2931,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:55": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Third Falamma",
+          "bn": "তৃতীয় ফালাম্মা"
+        },
+        "p": [
+          {
+            "en": "Fa-lamma asafuna intaqamna minhum fa-aghraqnahum ajma'in: so when they angered Us, We took retribution from them and drowned them all. Six Arabic words close the account of Musa (AS) and Pharaoh that opens at 43:46. The passage turns three times on the same word, fa-lamma, so when. In 43:47, when Musa (AS) brought Our signs, they laughed at them. In 43:50, when We removed the affliction, they broke their word. In the first two, the clause after when tells what the people did. In the third, here, it tells what Allah did.",
+            "bn": "ফালাম্মা আসাফূনান তাকামনা মিনহুম ফাআগরাকনাহুম আজমাঈন: অতঃপর যখন তারা আমাকে রাগান্বিত করল, আমি তাদের থেকে প্রতিশোধ নিলাম এবং সবাইকে ডুবিয়ে দিলাম। আরবিতে মাত্র ছয়টি শব্দ, আর এতেই শেষ হয় মূসা (আঃ) ও ফেরাউনের সেই বিবরণ, যা শুরু হয়েছিল ৪৩:৪৬ আয়াতে। পুরো অংশটি তিনবার একই শব্দে মোড় নেয়: ফালাম্মা, অর্থাৎ অতঃপর যখন। ৪৩:৪৭ আয়াতে মূসা (আঃ) যখন নিদর্শন নিয়ে এলেন, তারা হাসতে লাগল। ৪৩:৫০ আয়াতে আল্লাহ যখন শাস্তি সরিয়ে নিলেন, তারা কথা ভাঙল। প্রথম দুই বারে 'যখন'-এর পরের অংশ জানায় মানুষ কী করল। তৃতীয়বার, এখানে এসে, তা জানায় আল্লাহ কী করলেন।"
+          },
+          {
+            "en": "Between the first falamma and the third lie the steps this verse takes for granted. Verse 43:48 says that every sign shown to them was greater than its sister, and that they were seized with affliction so that they might return. They asked Musa (AS) to pray for them, promised to be guided, and broke the promise. Pharaoh then boasted of the kingdom of Egypt and its rivers, and 43:54 says he made his people light-minded and they obeyed him, for they were a defiantly disobedient people. The verse does not open the story. It ends a long road already walked.",
+            "bn": "প্রথম আর তৃতীয় ফালাম্মার মাঝখানে আছে সেই ধাপগুলো, যা এ আয়াত ধরে নিয়েই কথা বলে। ৪৩:৪৮ আয়াত জানায়, তাদের যে নিদর্শনই দেখানো হতো, তা হতো আগেরটির চেয়ে বড়। শাস্তি দিয়ে তাদের পাকড়াও করা হয়েছিল, যাতে তারা ফিরে আসে। তারা মূসা (আঃ)-কে দোয়া করতে বলেছিল, সৎপথে চলার কথা দিয়েছিল, তারপর সেই কথা ভেঙেছিল। এরপর ফেরাউন মিসরের রাজত্ব আর তার নদীগুলো নিয়ে বড়াই করল। ৪৩:৫৪ বলে, সে তার জাতিকে বোকা বানাল আর তারা তাকে মেনে নিল, কারণ তারা ছিল পাপাচারী সম্প্রদায়। আয়াতটি কাহিনি শুরু করে না। অনেক দূরের এক পথ পেরোনোর পর তা পথের শেষটা জানায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Angered, in Every Chain",
+          "bn": "প্রতিটি সনদে একই অর্থ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives the meaning in one word: asafuna, aghdabuna, they angered Us, and says the people of interpretation held the same. He then lists them. From Ibn Abbas (RA) he brings two chains, one giving askhatuna, they provoked Our displeasure, the other lamma aghdabuna, when they angered Us. Mujahid says aghdabuna. Qatada, in one chain, says aghdabu rabbahum, they angered their Lord, and in another gives the single word. Ibn Zayd says the same. Al-Baghawi writes nothing on the word except aghdabuna, angered Us, and moves on to the rest of the verse.",
+            "bn": "তাবারী অর্থটা দেন এক শব্দে: আসাফূনা মানে আগদাবূনা, তারা আমাকে রাগান্বিত করল। তিনি বলেন, তাফসীরের আলেমরাও এ কথাই বলেছেন। তারপর তিনি তাঁদের নাম গুনে দেন। ইবন আব্বাস (রাঃ) থেকে তিনি দুটি সনদ আনেন। একটিতে আছে আসখাতূনা, তারা আমার অসন্তোষ ডেকে আনল। অন্যটিতে লাম্মা আগদাবূনা, যখন তারা আমাকে রাগান্বিত করল। মুজাহিদ বলেন আগদাবূনা। কাতাদা এক সনদে বলেন, আগদাবূ রাব্বাহুম, তারা তাদের রবকে রাগান্বিত করল, আরেক সনদে শুধু ওই এক শব্দ। ইবন যায়দও তা-ই বলেন। বাগাভী শব্দটির ব্যাখ্যায় আগদাবূনা ছাড়া আর কিছু লেখেন না, সরাসরি আয়াতের বাকি অংশে চলে যান।"
+          },
+          {
+            "en": "Ibn Kathir, in the Arabic, has the same two reports from Ibn Abbas (RA): askhatuna through 'Ali ibn Abi Talha, and aghdabuna through ad-Dahhak. He then lists others who said the same: Ibn Abbas again, Mujahid, 'Ikrima, Sa'id ibn Jubayr, Muhammad ibn Ka'b al-Qurazi, Qatada, as-Suddi and other commentators. As-Sa'di adds two words that matter, bi-af'alihim: they angered Us by their deeds. The Muyassar names those deeds: by disobeying Us, and by belying Musa (AS) and the signs he brought. The anger, in every one of these glosses, answers something done.",
+            "bn": "ইবন কাসীর আরবি তাফসীরে ইবন আব্বাস (রাঃ) থেকে সেই দুটি বর্ণনাই আনেন: আলী ইবন আবী তালহার সূত্রে আসখাতূনা, আর দাহহাকের সূত্রে আগদাবূনা। এরপর যাঁরা একই কথা বলেছেন তাঁদের তালিকা দেন: আবারও ইবন আব্বাস, মুজাহিদ, ইকরিমা, সাঈদ ইবন জুবায়র, মুহাম্মাদ ইবন কা'ব আল-কুরাযী, কাতাদা, সুদ্দী এবং আরও অনেক মুফাসসির। সা'দী দুটি শব্দ যোগ করেন, যার ওজন আছে: বিআফআলিহিম, অর্থাৎ নিজেদের কাজকর্ম দিয়ে তারা রাগান্বিত করল। মুয়াসসার সেই কাজগুলোর নাম বলে দেয়: আমার নাফরমানি করে, আর মূসা (আঃ) ও তাঁর আনা নিদর্শনগুলোকে মিথ্যা বলে। এসব ব্যাখ্যার প্রতিটিতে ক্রোধ আসে কোনো কৃতকর্মের জবাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Displeasure and Anger Told Apart",
+          "bn": "অসন্তোষ আর ক্রোধের ফারাক"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi keeps the two reports from Ibn Abbas (RA) apart. Through ad-Dahhak: ghazuna wa aghdabuna, they enraged Us and angered Us. Through 'Ali ibn Abi Talha: askhatuna. Then he quotes al-Mawardi, who says the two meanings differ. Sakhat, displeasure, is the showing of dislike. Ghadab, anger, is the will to exact retribution. On that account the two glosses are not loose synonyms. Read beside the verse, al-Mawardi's definition of anger fits its order closely, since the very next word is intaqamna, We took retribution.",
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ)-এর দুটি বর্ণনা আলাদা করে রাখেন। দাহহাকের সূত্রে: গাযূনা ওয়া আগদাবূনা, তারা আমাকে ক্ষুব্ধ করল, রাগান্বিত করল। আলী ইবন আবী তালহার সূত্রে: আসখাতূনা। তারপর তিনি মাওয়ারদীর কথা আনেন। মাওয়ারদী বলেন, দুটির অর্থ আলাদা। সাখাত বা অসন্তোষ হলো অপছন্দ প্রকাশ করা। গাদাব বা ক্রোধ হলো প্রতিশোধ নেওয়ার ইচ্ছা। এ হিসাবে দুটি ব্যাখ্যা একে অপরের ঢিলেঢালা প্রতিশব্দ নয়। আয়াতের পাশে রেখে পড়লে মাওয়ারদীর দেওয়া ক্রোধের সংজ্ঞা তার ক্রমের সঙ্গে বেশ মিলে যায়, কারণ ঠিক পরের শব্দটিই ইনতাকামনা, আমি প্রতিশোধ নিলাম।"
+          },
+          {
+            "en": "As-Suddi, in at-Tabari, says aghdabuna and then reaches for the same root elsewhere in the Qur'an: the words of Ya'qub (AS), ya asafa 'ala Yusuf, which he explains as ya huzni 'ala Yusuf, O my grief for Yusuf (12:84). The root a-s-f thus carries grief on a father's lips in one surah and anger in this verse. That double sense is part of why the commentators stop over asafuna at all, and it leads straight to the question of how such a word is said of Allah.",
+            "bn": "তাবারীর তাফসীরে সুদ্দী আগদাবূনা বলার পর কুরআনের আরেক জায়গায় একই ধাতু দেখিয়ে দেন। ইয়াকূব (আঃ) বলেছিলেন, ইয়া আসাফা আলা ইউসুফ। সুদ্দী এর ব্যাখ্যা দেন, ইয়া হুযনী আলা ইউসুফ: হায়, ইউসুফের জন্য আমার দুঃখ (১২:৮৪)। তাহলে আলিফ-সীন-ফা ধাতুটি এক সূরায় এক বাবার মুখে শোক, আর এ আয়াতে ক্রোধ। এই দ্বৈত অর্থের কারণেই মুফাসসিররা আসাফূনা শব্দে এসে থামেন। আর সেখান থেকেই সরাসরি প্রশ্ন ওঠে: এমন শব্দ আল্লাহর ক্ষেত্রে বলা হলে তার মানে কী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Anger Said of Allah",
+          "bn": "আল্লাহর ক্ষেত্রে ক্রোধ শব্দটি"
+        },
+        "p": [
+          {
+            "en": "Here the commentators part ways. At-Tabari, Ibn Kathir, al-Baghawi, as-Sa'di and the Muyassar gloss asafuna as angered Us and leave the anger ascribed to Allah as the verse ascribes it, with no further account of what it is. Al-Qurtubi records al-Qushayri, who says asaf here means anger, and that anger from Allah is either the will to punish, and so an attribute of the Essence, or the punishment itself, and so an attribute of action. Al-Qurtubi adds that this is the meaning of al-Mawardi's words.",
+            "bn": "এখানে এসে মুফাসসিরদের পথ আলাদা হয়ে যায়। তাবারী, ইবন কাসীর, বাগাভী, সা'দী ও মুয়াসসার আসাফূনার অর্থ করেন 'আমাকে রাগান্বিত করল', এবং আয়াত যেভাবে ক্রোধকে আল্লাহর সঙ্গে যুক্ত করেছে, সেভাবেই রেখে দেন। এর স্বরূপ নিয়ে আর কিছু বলেন না। কুরতুবী কুশায়রীর মত উল্লেখ করেন। কুশায়রী বলেন, এখানে আসাফ মানে ক্রোধ। আর আল্লাহর ক্রোধ হয় শাস্তি দেওয়ার ইচ্ছা, তখন তা সত্তাগত গুণ। নয়তো তা খোদ শাস্তি, তখন তা কর্মগত গুণ। কুরতুবী যোগ করেন, মাওয়ারদীর কথার মর্মও এটাই।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing Ruh al-Ma'ani, goes further: since Allah is pure of the states of anger and sorrow, the meaning is that their behaviour caused Us to decide that they should be punished. These are two ways of handling the word, one that repeats it as the verse gives it and one that explains it, and this article leaves them side by side without choosing. Both agree on what the hearer must take from the verse: the retribution answered their deeds, and it came from Allah.",
+            "bn": "মাআরিফুল কুরআন রূহুল মাআনীর বরাতে আরও এক ধাপ এগোয়। তার কথা, আল্লাহ ক্রোধ ও দুঃখের অবস্থা থেকে পবিত্র। তাই অর্থ হলো, তাদের আচরণের কারণে আমি স্থির করলাম যে তাদের শাস্তি দেওয়া হবে। শব্দটিকে সামলানোর এ দুটি ধরন। একটি আয়াত যেমন বলেছে তেমনই রেখে দেয়, অন্যটি তার ব্যাখ্যা করে। এ লেখা দুটিকে পাশাপাশি রাখে, কোনোটিকে বেছে নেয় না। তবে শ্রোতার যা বোঝার, তাতে দুই পক্ষই একমত: শাস্তি এসেছিল তাদের কৃতকর্মের জবাবে, আর তা এসেছিল আল্লাহর কাছ থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Angering Those Who Stood With Him",
+          "bn": "তাঁর পক্ষের মানুষদের রাগানো"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records one more reading, introduced only with qila, it was said. Asafuna may mean they angered Our messengers and Our friends among the believers, such as the sorcerers and the Children of Israel. He compares it with two other verses in which an act against Allah means an act against those who are His: those who yu'dhuna Allah, who harm Allah (33:57), and those who yuharibuna Allah, who wage war against Allah (5:33), meaning, he says, His friends and His messengers.",
+            "bn": "কুরতুবী আরও একটি ব্যাখ্যা আনেন, শুধু 'কীলা', বলা হয়েছে, এ কথা দিয়ে শুরু করে। আসাফূনা মানে হতে পারে, তারা আমার রসূলদের আর মুমিনদের মধ্যে আমার বন্ধুদের রাগান্বিত করল, যেমন জাদুকররা ও বনী ইসরাঈল। তিনি এটিকে আরও দুটি আয়াতের সঙ্গে মেলান, যেখানে আল্লাহর বিরুদ্ধে কাজ মানে তাঁর আপন লোকদের বিরুদ্ধে কাজ। যারা ইউযূনাল্লাহ, আল্লাহকে কষ্ট দেয় (৩৩:৫৭), আর যারা ইউহারিবূনাল্লাহ, আল্লাহর বিরুদ্ধে যুদ্ধ করে (৫:৩৩)। তিনি বলেন, অর্থাৎ তাঁর বন্ধুদের ও তাঁর রসূলদের বিরুদ্ধে।"
+          },
+          {
+            "en": "The reading keeps the human side of the story in view. The sorcerers and the Children of Israel are not named in this verse, but al-Qurtubi's unnamed source sees them inside its first word. He reports the reading without adopting it, and it stands beside the main gloss rather than replacing it. Even so, it leaves a plain thought for the reader: what is done to believers who are weak and have no one to defend them is not lost, and it is reckoned with Allah.",
+            "bn": "এ ব্যাখ্যা কাহিনির মানুষগুলোকে চোখের সামনে রাখে। জাদুকরদের বা বনী ইসরাঈলের নাম এ আয়াতে নেই, তবু কুরতুবীর অনামা সূত্রটি আয়াতের প্রথম শব্দেই তাদের দেখতে পায়। কুরতুবী মতটি উল্লেখ করেন, নিজের বলে গ্রহণ করেন না। তাই এটি মূল ব্যাখ্যার পাশে থাকে, তার জায়গা নেয় না। তবু পাঠকের জন্য একটা সোজা কথা রেখে যায়: দুর্বল, অসহায় মুমিনদের সঙ্গে যা করা হয়, তা হারিয়ে যায় না। আল্লাহর কাছে তার হিসাব আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hastened, and Leaving No One",
+          "bn": "দুনিয়াতেই, আর কাউকে বাদ না রেখে"
+        },
+        "p": [
+          {
+            "en": "Intaqamna minhum: We took retribution from them. Ibn Zayd, in at-Tabari, explains it as retribution with the hastened punishment that We hastened for them, and goes on: so We drowned them all in the sea. The Muyassar repeats that wording almost exactly. In both, the drowning is how the retribution is named; the verse does not describe some further penalty before it. And ajma'in, all of them, which at-Tabari's report renders jami'an, leaves no one of that host outside it.",
+            "bn": "ইনতাকামনা মিনহুম: আমি তাদের থেকে প্রতিশোধ নিলাম। তাবারীর তাফসীরে ইবন যায়দ এর ব্যাখ্যা দেন: তাদের জন্য যে শাস্তি আমি দুনিয়াতেই ত্বরান্বিত করলাম, সেই শাস্তি দিয়ে প্রতিশোধ নিলাম। তারপর বলেন: এভাবে তাদের সবাইকে সাগরে ডুবিয়ে দিলাম। মুয়াসসার প্রায় হুবহু একই কথা বলে। দুই জায়গাতেই প্রতিশোধটার নাম ডুবিয়ে দেওয়া। আয়াত তার আগে আলাদা কোনো শাস্তির বিবরণ দেয় না। আর আজমাঈন, অর্থাৎ সবাই, যা তাবারীর বর্ণনায় জামীআন, সেই দলের কাউকেই এর বাইরে রাখে না।"
+          },
+          {
+            "en": "Hastened is the commentators' word, and it is worth noticing because of how much waiting came first. 'Ajil sets the punishment in this world, as against what is kept for later. It does not mean early. The passage has already shown signs growing greater, affliction sent so that they might return, and affliction lifted when they asked. The verse places the drowning at the end of everything 43:46 to 43:54 describes, after every opening had been met with laughter, a broken pledge or obedience to a boast.",
+            "bn": "'ত্বরান্বিত' শব্দটি মুফাসসিরদের, আর এর আগে কত দীর্ঘ অপেক্ষা ছিল, সে কারণেই শব্দটি খেয়াল করার মতো। আজিল মানে শাস্তি এসেছে এই দুনিয়াতেই, পরের জন্য রেখে দেওয়া হয়নি। এর মানে আগেভাগে নয়। অংশটি এর আগেই দেখিয়েছে: নিদর্শন ক্রমে বড় হয়েছে, ফিরে আসার জন্য বিপদ পাঠানো হয়েছে, আর তারা চাইতেই বিপদ সরিয়ে নেওয়া হয়েছে। ৪৩:৪৬ থেকে ৪৩:৫৪ পর্যন্ত যা কিছু বলা হয়েছে, তার একেবারে শেষে আয়াতটি ডুবিয়ে দেওয়ার কথা রাখে। ততক্ষণে প্রতিটি সুযোগের জবাব এসেছে হাসি, ভাঙা অঙ্গীকার কিংবা এক বড়াইকারীর আনুগত্য দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Respite Before the Seizing",
+          "bn": "পাকড়াওয়ের আগের অবকাশ"
+        },
+        "p": [
+          {
+            "en": "No tafsir consulted here attaches a sound hadith directly to this verse. Ibn Kathir relays, through Ibn Abi Hatim, a narration from 'Uqbah ibn 'Amir raised to the Prophet ﷺ on worldly gifts and persistence in sin, followed by a recitation of this verse. He gives it no grading in the text fetched here, so it is only mentioned and nothing is built on it. A general narration in Sahih al-Bukhari, not attached to this verse, speaks to the pattern of delay and then seizure.",
+            "bn": "এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে সরাসরি কোনো সহীহ হাদীস যুক্ত করেনি। ইবন কাসীর ইবন আবী হাতিমের সূত্রে উকবা ইবন আমির (রাঃ) থেকে নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা আনেন। বিষয় দুনিয়ার নিয়ামত আর গুনাহে লেগে থাকা, আর শেষে এ আয়াত তিলাওয়াতের কথা আছে। এখানে পাওয়া পাঠে তিনি এর কোনো মান উল্লেখ করেননি। তাই এর শুধু উল্লেখ থাকল, এর উপর কিছু দাঁড় করানো হলো না। সহীহ বুখারীতে একটি সাধারণ বর্ণনা আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়, তবে অবকাশ আর তারপর পাকড়াওয়ের ধারাটি তুলে ধরে।"
+          },
+          {
+            "en": "Abu Musa (RA) narrates that Allah's Messenger ﷺ said: \"Allah gives respite to the oppressor, but when He takes him over, He never releases him.\" Then he recited: \"Such is the seizure of your Lord when He seizes (population of) towns in the midst of their wrong: Painful indeed, and severe is His seizure\" (11:102). It is Sahih al-Bukhari 4686, and the verse the Prophet ﷺ recited with it is from Surat Hud, not this verse. Read beside 43:55, it names the pattern that the story of Pharaoh shows.",
+            "bn": "আবূ মূসা (রাঃ) বর্ণনা করেন, আল্লাহর রসূল ﷺ বলেছেন: \"আল্লাহ জালিমকে অবকাশ দেন, কিন্তু যখন তাকে ধরেন, আর ছাড়েন না।\" তারপর তিনি তিলাওয়াত করলেন: \"আর এমনই তোমার রবের পাকড়াও, যখন তিনি জনপদগুলোকে পাকড়াও করেন এমন অবস্থায় যে তারা জুলুমে লিপ্ত। নিশ্চয় তাঁর পাকড়াও যন্ত্রণাদায়ক, কঠোর\" (১১:১০২)। হাদীসটি সহীহ বুখারী ৪৬৮৬। নবী ﷺ এর সঙ্গে যে আয়াত তিলাওয়াত করেছিলেন, তা সূরা হূদের, এ আয়াত নয়। তবে ৪৩:৫৫-এর পাশে রেখে পড়লে, ফেরাউনের কাহিনি যে ধারা দেখায়, হাদীসটি তার নাম বলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heedlessness and the Sudden End",
+          "bn": "গাফলত আর আকস্মিক পরিণতি"
+        },
+        "p": [
+          {
+            "en": "Early voices read the verse as a warning to the living. Al-Qurtubi quotes 'Umar ibn Dharr: O you who disobey Allah, do not be deceived by the length of Allah's forbearance with you, and beware His asaf, for He said: so when they angered Us, We took retribution from them. Ibn Kathir records 'Umar ibn 'Abd al-'Aziz: I found retribution together with heedlessness, meaning this verse. The two sayings meet: forbearance is long, and heedlessness is where retribution is found.",
+            "bn": "পূর্বসূরিদের কেউ কেউ আয়াতটিকে জীবিতদের জন্য সতর্কবাণী হিসেবে পড়েছেন। কুরতুবী উমর ইবন যারের কথা আনেন: হে আল্লাহর নাফরমানির লোকেরা, তোমাদের প্রতি আল্লাহর দীর্ঘ সহনশীলতা দেখে ধোঁকা খেয়ো না। তাঁর আসাফ থেকে সাবধান হও, কারণ তিনি বলেছেন: যখন তারা আমাকে রাগান্বিত করল, আমি তাদের থেকে প্রতিশোধ নিলাম। ইবন কাসীর উমর ইবন আবদুল আযীযের কথা লেখেন: আমি দেখেছি, শাস্তি থাকে গাফলতের সঙ্গে। তাঁর ইঙ্গিত এ আয়াতের দিকেই। দুটি কথা এক জায়গায় মেলে: সহনশীলতা দীর্ঘ, আর শাস্তি মেলে গাফলতের মধ্যে।"
+          },
+          {
+            "en": "Ibn Kathir also relays, through Ibn Abi Hatim, from Tariq ibn Shihab: he was with 'Abdullah when sudden death was mentioned, and 'Abdullah said that it is a relief for the believer and a source of regret for the disbeliever. Then he recited this verse. These are 'Abdullah's own words, not words raised to the Prophet ﷺ, and Ibn Kathir gives no grading for the chain. Recited after talk of sudden death, the verse is heard as an end that left no time to turn.",
+            "bn": "ইবন কাসীর ইবন আবী হাতিমের সূত্রে তারিক ইবন শিহাব থেকে আরেকটি বর্ণনা আনেন। তিনি আবদুল্লাহর কাছে ছিলেন, তখন আকস্মিক মৃত্যুর কথা উঠল। আবদুল্লাহ বললেন, তা মুমিনের জন্য হালকা হওয়া, আর কাফিরের জন্য আফসোস। তারপর তিনি এ আয়াত তিলাওয়াত করলেন। কথাগুলো আবদুল্লাহর নিজের, নবী ﷺ পর্যন্ত পৌঁছানো নয়, আর ইবন কাসীর এর সনদের কোনো মান উল্লেখ করেননি। আকস্মিক মৃত্যুর আলোচনার পর তিলাওয়াত করায় আয়াতটি শোনায় এমন এক পরিণতির মতো, যা ফিরে আসার সময় দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Precedent, Not a Verdict",
+          "bn": "দৃষ্টান্ত, রায় নয়"
+        },
+        "p": [
+          {
+            "en": "The next verse completes the thought: fa-ja'alnahum salafan wa mathalan lil-akhirin, and We made them a precedent and an example for the later peoples (43:56). The Muyassar explains salaf as a precedent for whoever comes after them and does as they did, in deserving punishment, and mathal as a lesson and admonition. As-Sa'di: so that those who take lessons may take them from these people. In Ibn Kathir's English abridgement, Abu Mijlaz says a precedent for others who do the same, and he and Mujahid say an example, a lesson to those who come after.",
+            "bn": "পরের আয়াত কথাটি পূর্ণ করে: ফাজাআলনাহুম সালাফাঁও ওয়া মাসালাল লিল-আখিরীন, আর আমি তাদের করলাম অতীতের নজির এবং পরবর্তীদের জন্য দৃষ্টান্ত (৪৩:৫৬)। মুয়াসসার বলে, সালাফ মানে তাদের পরে যারা একই কাজ করে শাস্তির যোগ্য হবে, তাদের জন্য নজির। আর মাসাল মানে শিক্ষা ও উপদেশ। সা'দী বলেন, যাতে শিক্ষা নিতে চাওয়া মানুষ এদের থেকে শিক্ষা নেয়। ইবন কাসীরের ইংরেজি সংক্ষেপে আবূ মিজলায বলেন, যারা একই কাজ করে তাদের জন্য নজির। তিনি ও মুজাহিদ বলেন, দৃষ্টান্ত মানে পরবর্তীদের জন্য শিক্ষা।"
+          },
+          {
+            "en": "That is where the verse stops, and it should be said plainly. It describes Pharaoh and his host, who were drowned, and it licenses nothing against any living Egyptian or any other people today. It gives no warrant to call a present-day flood, storm or disaster the anger of this verse, or to point at those who suffer it. The example is offered to later hearers to examine themselves by, not to pass sentence on others. The commentators who explain it here all read it as a lesson for whoever takes heed.",
+            "bn": "আয়াত ঠিক এখানেই থামে, আর কথাটা সোজাসুজি বলা দরকার। আয়াতটি ফেরাউন ও তার দলবলের কথা বলে, যাদের ডুবিয়ে দেওয়া হয়েছিল। আজকের কোনো মিসরীয় বা অন্য কোনো জাতির বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো বন্যা, ঝড় বা বিপর্যয়কে এ আয়াতের ক্রোধ বলে দেওয়ার, কিংবা দুর্গতদের দিকে আঙুল তোলার কোনো অধিকারও এটি দেয় না। দৃষ্টান্তটি পরের শ্রোতাদের দেওয়া হয়েছে নিজেদের যাচাই করার জন্য, অন্যের উপর রায় দেওয়ার জন্য নয়। এখানে যাঁরা এর ব্যাখ্যা দিয়েছেন, তাঁরা সবাই একে পড়েছেন শিক্ষা নিতে চাওয়া মানুষের জন্য শিক্ষা হিসেবে।"
+          },
+          {
+            "en": "Read that way, the verse asks something of its reader that is hard to postpone. Signs that grow plainer, hardships lifted after a promise, a promise forgotten once the hardship is gone: these patterns are not only Pharaoh's. The verse does not say that every delay ends in drowning. It says that delay is not approval, that deeds are seen, and that respite has an end. The fitting answer is to turn back now, while the door is still open, and to keep the warning pointed at oneself.",
+            "bn": "এভাবে পড়লে আয়াতটি পাঠকের কাছে এমন কিছু চায়, যা ফেলে রাখা কঠিন। নিদর্শন ক্রমে স্পষ্ট হয়, কথা দেওয়ার পর বিপদ কেটে যায়, আর বিপদ গেলেই কথা ভুলে যাওয়া হয়। এ ধারা শুধু ফেরাউনের নয়। আয়াতটি বলে না যে প্রতিটি অবকাশ ডুবে মরায় শেষ হবে। বলে, অবকাশ সম্মতি নয়, আমল দেখা হচ্ছে, আর অবকাশেরও শেষ আছে। তাই যথার্থ জবাব হলো এখনই ফিরে আসা, দরজা খোলা থাকতে থাকতেই, আর সতর্কবাণীটা নিজের দিকেই তাক করে রাখা।"
+          }
+        ]
+      }
+    ]
+  },
   "43:59": {
     "sections": [
       {
