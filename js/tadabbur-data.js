@@ -34619,6 +34619,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The confession that helps is the one made before the blow: name your wrong to Allah now, while saying it can still be met with mercy.",
     "lessonBn": "কাজে আসে সেই স্বীকারোক্তি, যা আঘাত আসার আগে করা হয়। এখনই আল্লাহর কাছে নিজের অন্যায়ের নাম নিন, যখনো সেই কথার জবাবে রহমত আসতে পারে।"
+  },
+  "21:100": {
+    "reflectionEn": "Seven Arabic words, and two of them say therein. For them therein is zafir, breath forced out in anguish, and therein they will not hear. The verse closes a scene in which the gods people served beside Allah go into the Fire with those who served them, and their going in is the proof that they were never gods. What it lets us hear is a groan, and after it, silence: no voice of comfort, no word from a friend. Hearing is one of the quiet mercies we barely notice until it is gone. The verse is not a picture to stare at. It is a warning given while the ear still works. What am I hearing now, and what am I refusing to hear?",
+    "reflectionBn": "আরবিতে সাতটি শব্দ, তার দুটিই বলছে 'সেখানে'। সেখানে তাদের জন্য যাফীর, যন্ত্রণায় বুক ঠেলে বেরিয়ে আসা নিঃশ্বাস। আর সেখানে তারা কিছুই শুনবে না। আল্লাহকে ছেড়ে মানুষ যাদের পূজা করত, তারাও পূজারিদের সঙ্গে আগুনে ঢুকছে, এই দৃশ্যের শেষে আয়াতটি আসে। আগুনে ঢোকাটাই প্রমাণ যে তারা কখনো ইলাহ ছিল না। আয়াত আমাদের শোনায় একটা গোঙানি, তারপর নীরবতা। সান্ত্বনার কোনো কণ্ঠ নেই, বন্ধুর একটা কথাও নেই। শুনতে পাওয়া আল্লাহর এমন এক নিঃশব্দ নিয়ামত, যা হারানোর আগে আমরা টেরই পাই না। আয়াতটি তাকিয়ে দেখার মতো কোনো ছবি নয়। কান যতক্ষণ কাজ করছে, ততক্ষণের জন্য দেওয়া এক সতর্কবাণী। আমি এখন কী শুনছি? আর কোন কথা শুনতে আমি রাজি হচ্ছি না?",
+    "pointsEn": [
+      "Which voices of comfort in my life do I take for granted: a friend's word, the call to prayer, the Qur'an recited aloud?",
+      "What reminder have I heard many times and still chosen not to listen to?",
+      "What do I lean on besides Allah that could not save itself, let alone me?",
+      "When I read a verse about the Fire, do I aim it at other people, or let it warn me first?",
+      "If hearing is a mercy, what have I given my hearing to today?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন সান্ত্বনার কণ্ঠগুলোকে আমি এমনিই পাওয়া ধরে নিয়েছি? বন্ধুর একটা কথা, আজানের ডাক, জোরে পড়া কুরআন?",
+      "কোন উপদেশ আমি বহুবার শুনেছি, তবু কানে তুলিনি?",
+      "আল্লাহকে বাদ দিয়ে আমি কিসের উপর ভর দিই, যে নিজেকেই বাঁচাতে পারে না, আমাকে তো দূরের কথা?",
+      "জাহান্নামের কোনো আয়াত পড়লে আমি কি তা অন্যের দিকে তাক করি, নাকি আগে নিজেকে সতর্ক হতে দিই?",
+      "শুনতে পাওয়া যদি নিয়ামত হয়, আজ আমার কান আমি কিসের পেছনে খরচ করেছি?"
+    ],
+    "lessonEn": "Hearing is a mercy that can be taken away. Listen to the warning now, while it can still change you, and lean on nothing that could not save itself.",
+    "lessonBn": "শুনতে পাওয়া এমন এক নিয়ামত, যা কেড়ে নেওয়া যায়। সতর্কবাণী এখনই শুনুন, যখন তা আপনাকে বদলাতে পারে, আর এমন কিছুর উপর ভর দেবেন না যে নিজেকেই বাঁচাতে পারে না।"
   }
 };
 

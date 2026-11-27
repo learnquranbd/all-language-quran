@@ -4687,6 +4687,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:100": {
+    "sections": [
+      {
+        "h": {
+          "en": "Seven Words, Twice Therein",
+          "bn": "সাত শব্দ, দুবার 'সেখানে'"
+        },
+        "p": [
+          {
+            "en": "Lahum fiha zafirun wa-hum fiha la yasma'un: for them therein is zafir, and they, therein, will not hear. The verse is seven Arabic words in two clauses, three words and then four, and the word fiha, therein, stands in both. The first clause gives the sound the people of the Fire make. The second takes away every sound that might reach them. Nothing else is said: no flame is described, no drink, no garment. The verse is a thing heard and then a thing not heard, and it leaves the listener with both.",
+            "bn": "লাহুম ফীহা যাফীরুন ওয়া হুম ফীহা লা ইয়াসমাঊন: সেখানে তাদের জন্য আছে যাফীর, আর সেখানে তারা কিছুই শুনবে না। আরবিতে মোট সাতটি শব্দ, দুই অংশে ভাগ করা। প্রথমে তিনটি শব্দ, তারপর চারটি। দুই অংশেই আছে ফীহা, মানে সেখানে। প্রথম অংশ জানায় আগুনের বাসিন্দারা কোন শব্দ করবে। দ্বিতীয় অংশ কেড়ে নেয় তাদের কানে পৌঁছাতে পারত এমন সব শব্দ। এর বাইরে আর কিছু বলা নেই। আগুনের শিখা, পানীয় বা পোশাকের কোনো বর্ণনা নেই। আয়াতটি প্রথমে একটা শব্দ শোনায়, তারপর শোনায় নীরবতা, আর শ্রোতার হাতে দুটোই রেখে যায়।"
+          },
+          {
+            "en": "The verse closes a run that opens at 21:98, where the idolaters of Makkah are told that they and what they worship besides Allah are the fuel of Hell, and continues in 21:99: had these been gods they would not have entered it, and all of them abide in it. Ibn Kathir's abridged English reads the three verses as one address to the people of Makkah and the idols they served. Al-Baghawi ends his note on this verse with the words then He made an exception, and that exception, 21:101, belongs to its own article.",
+            "bn": "আয়াতটি একটি ধারাবাহিক বক্তব্যের শেষ কথা। শুরু ২১:৯৮ আয়াতে। সেখানে মক্কার মুশরিকদের বলা হয়েছে, তোমরা আর আল্লাহকে বাদ দিয়ে তোমরা যাদের ইবাদত কর, সবাই জাহান্নামের জ্বালানি। ২১:৯৯ আয়াত তার পরের কথা বলে: এরা সত্যিই ইলাহ হলে সেখানে ঢুকত না, আর সবাই সেখানে চিরকাল থাকবে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ তিনটি আয়াতকে একসঙ্গে পড়ে, মক্কাবাসী আর তাদের মূর্তিগুলোর প্রতি একটিই সম্বোধন হিসেবে। বাগাভী এ আয়াতের আলোচনা শেষ করেন এই কথায়: তারপর তিনি ব্যতিক্রম জুড়ে দিলেন। সেই ব্যতিক্রম ২১:১০১ আয়াত, যার আলোচনা আলাদা প্রবন্ধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Groaning Together, or Not",
+          "bn": "'তাদের' বলতে কারা"
+        },
+        "p": [
+          {
+            "en": "Who are they in for them? At-Tabari answers from the grammar. The pronoun in lahum, he says, refers back to kull, all, in the closing words of 21:99, and all there means the idolaters and their gods together. So he paraphrases the clause as for all of them in Hell is zafir. On his reading the groan is shared: those who worshipped and what they worshipped make the same sound in the same place, and nothing that was once called on is spared the very thing its worshippers suffer.",
+            "bn": "'তাদের জন্য' বলতে কাদের কথা? তাবারী উত্তর দেন ব্যাকরণ থেকে। তাঁর মতে লাহুম-এর সর্বনাম ফিরে যায় ২১:৯৯ আয়াতের শেষ অংশের কুল্লুন শব্দে, যার অর্থ সবাই। আর সেখানে সবাই মানে মুশরিকরা ও তাদের উপাস্যরা একসঙ্গে। তাই তিনি অংশটির ব্যাখ্যা করেন এভাবে: জাহান্নামে তাদের সবার জন্য আছে যাফীর। তাঁর পাঠে গোঙানিটা সবার। যারা পূজা করত আর যাদের পূজা করা হতো, একই জায়গায় তারা একই শব্দ করবে। যাকে একদিন ডাকা হতো, পূজারিদের কষ্ট থেকে সে-ও রেহাই পায় না।"
+          },
+          {
+            "en": "Al-Qurtubi draws the circle more narrowly. For them, he writes, means those who came to the Fire from among the disbelievers and the devils. As for the idols, he records a disagreement with two views: whether Allah will give them life and punish them so that they too have zafir, or not. As-Sa'di, discussing the same verses, limits the gods of the idolaters who enter the Fire to the idols themselves, or to one who was worshipped and was pleased with being worshipped. The commentators part here, and the article leaves them parted.",
+            "bn": "কুরতুবী বৃত্তটা ছোট করে আঁকেন। তাঁর মতে 'তাদের জন্য' মানে কাফির ও শয়তানদের মধ্যে যারা আগুনে পৌঁছেছে। মূর্তিগুলোর ব্যাপারে তিনি দুটি মতের একটি মতভেদ উল্লেখ করেন। একটি মত, আল্লাহ সেগুলোকে জীবন দিয়ে শাস্তি দেবেন, ফলে তাদেরও যাফীর হবে। অন্য মত, তা হবে না। সা'দী একই আয়াতগুলোর আলোচনায় বলেন, মুশরিকদের যে উপাস্যরা আগুনে ঢুকবে, তারা হলো কেবল মূর্তি, অথবা এমন কেউ যার পূজা করা হতো আর সে তাতে খুশি ছিল। তাফসীরকারেরা এখানে ভিন্ন পথে গেছেন, আর এ প্রবন্ধ তাঁদের মতভেদ সেভাবেই রেখে দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Breath Forced From the Chest",
+          "bn": "বুক ঠেলে বেরোনো নিঃশ্বাস"
+        },
+        "p": [
+          {
+            "en": "What is zafir? Ibn Kathir explains it through 11:106, where the people of the Fire are given zafir and shahiq, and he splits the pair: zafir is the going out of their breaths, shahiq the coming in. Al-Qurtubi gives the sound rather than the motion: zafir is the noise of the breath of a person weighed down by grief, coming out from the heart, and he refers the reader back to his note on Hud. The Muyassar joins the two. It speaks of pains that their zafir makes known, a breath driven out of their chests with force.",
+            "bn": "যাফীর কী? ইবন কাসীর তা বোঝান ১১:১০৬ আয়াত দিয়ে, যেখানে আগুনের বাসিন্দাদের জন্য যাফীর ও শাহীক দুটোর কথাই আছে। তিনি জোড়াটা ভাগ করে দেন: যাফীর হলো তাদের নিঃশ্বাস বেরিয়ে যাওয়া, শাহীক হলো ভেতরে ঢোকা। কুরতুবী নড়াচড়ার বদলে শব্দটার কথা বলেন। তাঁর ভাষায় যাফীর হলো দুঃখে ভারাক্রান্ত মানুষের নিঃশ্বাসের আওয়াজ, যা হৃদয় থেকে বেরিয়ে আসে। পাঠককে তিনি সূরা হুদের আলোচনায় ফিরে যেতে বলেন। মুয়াসসার দুটি ব্যাখ্যা মিলিয়ে দেয়। সেখানে আছে এমন যন্ত্রণার কথা, যা তাদের যাফীর জানিয়ে দেয়, যে নিঃশ্বাসে বুক থেকে বাতাস সজোরে বেরিয়ে আসে।"
+          },
+          {
+            "en": "As-Sa'di gives the cause in three words: from the severity of the punishment. Put together, the commentators describe something that is not speech. Three verses earlier, in 21:97, those who disbelieved still had words, a cry of woe and a confession. Here there is only breath. A groan of this kind is not chosen. It is what the body does when there is nothing left to say, and the verse records it as the first thing heard from them. Whatever they once said for their gods, what reaches the listener now is an exhaled sound.",
+            "bn": "সা'দী কারণটা বলেন তিনটি শব্দে: শাস্তির তীব্রতা থেকে। সব মিলিয়ে তাফসীরকারেরা এমন কিছুর বর্ণনা দেন, যা কথা নয়। তিনটি আয়াত আগে, ২১:৯৭ আয়াতে, কাফিরদের মুখে তখনো কথা ছিল। ছিল হায় আফসোস, ছিল স্বীকারোক্তি। এখানে আছে শুধু নিঃশ্বাস। এ রকম গোঙানি কেউ বেছে নেয় না। বলার মতো আর কিছু না থাকলে শরীর নিজেই এমনটা করে। আয়াত তাদের কাছ থেকে প্রথম যে শব্দ শোনায়, তা এটাই। উপাস্যদের পক্ষে একসময় তারা যত কথাই বলে থাকুক, শ্রোতার কানে এখন পৌঁছায় কেবল বেরিয়ে যাওয়া নিঃশ্বাসের আওয়াজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Goes Unheard",
+          "bn": "যা কানে পৌঁছায় না"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses the second clause in its plain sense, they in the Fire do not hear, and moves on. Al-Qurtubi asks what it is they do not hear, and sets out three answers. The first takes the sentence as elliptical, with an object left unstated: they hear nothing at all, because they are gathered deaf, as Allah says in 17:97 that He will gather them on the Day of Resurrection on their faces, blind, dumb and deaf. On this reading the silence is total, and it begins on the Day itself.",
+            "bn": "তাবারী দ্বিতীয় অংশের সাদা অর্থটুকু বলেন, আগুনে তারা শুনবে না, তারপর এগিয়ে যান। কুরতুবী জানতে চান, কী তারা শুনবে না। তিনি তিনটি উত্তর সাজান। প্রথম উত্তরে বাক্যটির কর্ম উহ্য: তারা কিছুই শুনবে না। কারণ তাদের বধির অবস্থায় হাশরে আনা হবে, যেমন আল্লাহ ১৭:৯৭ আয়াতে বলেছেন, কিয়ামতের দিন তিনি তাদের মুখের উপর ভর দিয়ে চালিয়ে আনবেন অন্ধ, বোবা ও বধির করে। এই পাঠে নীরবতা পুরোপুরি, আর তার শুরু সেই দিনেই।"
+          },
+          {
+            "en": "The second answer narrows the loss: they do not hear what would please them, though they do hear the voice of the guardians of the Fire who carry out their punishment. The third ties the deafness to a moment. When they are told, in 23:108, remain despised in it and do not speak to Me, they then become deaf and dumb. Al-Qurtubi supports this third view with the report from Ibn Mas'ud that the next section takes up. Each answer keeps the words of the verse and reads a different silence into them.",
+            "bn": "দ্বিতীয় উত্তর ক্ষতিটাকে সীমিত করে। যা শুনলে তারা খুশি হতো, তা তারা শুনবে না। তবে যে প্রহরীরা তাদের শাস্তি দেয়, তাদের আওয়াজ তারা শুনবে। তৃতীয় উত্তর বধিরতাকে একটি নির্দিষ্ট মুহূর্তের সঙ্গে জুড়ে দেয়। ২৩:১০৮ আয়াতে যখন তাদের বলা হবে, এর মধ্যেই লাঞ্ছিত হয়ে পড়ে থাকো আর আমার সঙ্গে কথা বোলো না, তখন থেকে তারা বধির ও বোবা হয়ে যাবে। এই তৃতীয় মতের পক্ষে কুরতুবী ইবন মাসউদ (রাঃ)-এর একটি বর্ণনা আনেন, যার কথা পরের অংশে। প্রতিটি উত্তর আয়াতের শব্দ অক্ষুণ্ণ রাখে, কিন্তু তার ভেতরে পড়ে ভিন্ন ধরনের নীরবতা।"
+          },
+          {
+            "en": "As-Sa'di offers two readings of his own. Either they are deaf, dumb and blind, or they hear no sound except the sound of the Fire itself, because of the intensity of its boiling and the force of its zafir and its fury. In that second reading the word zafir returns, now as the roar of the Fire rather than the groan of those in it, and it drowns everything else. The Muyassar gives a different cause again: they do not hear because of the horror of their punishment. The fetched commentators agree on the silence and differ on its shape.",
+            "bn": "সা'দী নিজে দুটি পাঠ দেন। হয় তারা বধির, বোবা ও অন্ধ। নয়তো আগুনের নিজের আওয়াজ ছাড়া আর কোনো শব্দ তারা শুনবে না, কারণ আগুন প্রচণ্ড ফুটছে, তার যাফীর ও ক্রোধ ভীষণ। এই দ্বিতীয় পাঠে যাফীর শব্দটা আবার ফিরে আসে, তবে এবার আগুনের বাসিন্দাদের গোঙানি হিসেবে নয়, আগুনের গর্জন হিসেবে। সেই গর্জন বাকি সব শব্দ ঢেকে দেয়। মুয়াসসার আরেকটি কারণ বলে: শাস্তির বিভীষিকার কারণে তারা শুনতে পায় না। যে তাফসীরগুলো দেখা হয়েছে, নীরবতার ব্যাপারে সবাই একমত, তার ধরন নিয়ে মত আলাদা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ibn Mas'ud's Coffins of Fire",
+          "bn": "ইবন মাসউদের আগুনের সিন্দুক"
+        },
+        "p": [
+          {
+            "en": "At-Tabari introduces the report as Ibn Mas'ud's interpretation of the words and they therein will not hear. Through Hajjaj, from al-Mas'udi, from Yunus ibn Khabbab, he relates that Ibn Mas'ud recited the verse and said: when those who will abide forever in the Fire are cast into it, they are put in coffins of fire; then those coffins are put in other coffins; then the coffins are put in other coffins in which are nails of fire; so none of them sees that anyone in the Fire is punished except himself. Then he recited the verse again.",
+            "bn": "তাবারী বর্ণনাটি আনেন 'আর সেখানে তারা শুনবে না' কথাটির ব্যাপারে ইবন মাসউদ (রাঃ)-এর ব্যাখ্যা হিসেবে। হাজ্জাজ থেকে, তিনি মাসঊদী থেকে, তিনি ইউনুস ইবন খাব্বাব থেকে বর্ণনা করেন: ইবন মাসউদ (রাঃ) আয়াতটি পড়লেন, তারপর বললেন, যারা চিরকাল আগুনে থাকবে, তাদের যখন সেখানে ফেলা হবে, তখন তাদের আগুনের সিন্দুকে ভরা হবে। তারপর সেই সিন্দুকগুলো রাখা হবে আরও সিন্দুকের ভেতরে। তারপর সেগুলো রাখা হবে আরও এক প্রস্থ সিন্দুকে, যাতে আছে আগুনের পেরেক। ফলে তাদের কেউ মনে করবে না যে আগুনে সে ছাড়া আর কাউকে শাস্তি দেওয়া হচ্ছে। তারপর তিনি আবার আয়াতটি পড়লেন।"
+          },
+          {
+            "en": "Ibn Kathir gives a shorter wording through Ibn Abi Hatim, by a chain from al-Mas'udi from his father: once only those who will abide forever remain in the Fire, they are placed in coffins of fire with nails of fire, so that none of them thinks anyone in the Fire is punished but himself; then Abdullah recited the verse. Ibn Kathir notes that Ibn Jarir relates it through al-Mas'udi from Yunus ibn Khabbab. Al-Baghawi and al-Qurtubi carry a wording with one clause more: so they hear nothing, and none of them sees that anyone else is punished.",
+            "bn": "ইবন কাসীর ইবন আবী হাতিমের সূত্রে আরও সংক্ষিপ্ত একটি ভাষ্য দেন, মাসঊদী থেকে তাঁর পিতার মাধ্যমে। তাতে আছে: আগুনে যখন কেবল চিরস্থায়ীরাই বাকি থাকবে, তখন তাদের আগুনের পেরেকওয়ালা আগুনের সিন্দুকে রাখা হবে। ফলে তাদের কেউ ভাববে না যে আগুনে সে ছাড়া আর কেউ শাস্তি পাচ্ছে। তারপর আবদুল্লাহ (রাঃ) আয়াতটি পড়লেন। ইবন কাসীর জানান, ইবন জারীর এটি বর্ণনা করেছেন মাসঊদী থেকে ইউনুস ইবন খাব্বাবের সূত্রে। বাগাভী ও কুরতুবীর ভাষ্যে একটি বাক্য বেশি আছে: ফলে তারা কিছুই শুনবে না, আর কেউ দেখবে না যে অন্য কাউকে শাস্তি দেওয়া হচ্ছে।"
+          },
+          {
+            "en": "Two things should be said about its standing. These are the words of a Companion, not words the commentators raise to the Prophet ﷺ, and none of the commentators fetched for this verse grades either chain; it is reported here as they report it, as Ibn Mas'ud's reading. Second, no fetched tafsir attaches a hadith of the Prophet ﷺ to this verse, and none is supplied in its place. What the report adds to the verse is not a new fact about the Fire. It is a reading of the silence as solitude.",
+            "bn": "বর্ণনাটির মান নিয়ে দুটি কথা বলা দরকার। প্রথমত, এগুলো একজন সাহাবীর কথা। তাফসীরকারেরা এগুলোকে নবী ﷺ-এর কথা বলে উল্লেখ করেননি। আর এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই কোনো সনদের মান নির্ণয় করেনি। তাই এখানে বর্ণনাটি তাঁরা যেভাবে এনেছেন সেভাবেই আছে, ইবন মাসউদ (রাঃ)-এর ব্যাখ্যা হিসেবে। দ্বিতীয়ত, দেখা তাফসীরগুলোর কোনোটিই এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি, আর তার জায়গায় অন্য কিছু বসানো হয়নি। বর্ণনাটি আগুন সম্পর্কে নতুন কোনো তথ্য যোগ করে না। এটি নীরবতাকে পড়ে একাকিত্ব হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ease and Company Withheld",
+          "bn": "স্বস্তি ও সঙ্গ কেড়ে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi adds one sentence that changes how the clause is felt. In the hearing of things, he writes, there is ease and companionship, rawh and uns, and Allah has denied the disbelievers that in the Fire. Hearing, on this view, is not only a channel for information. A voice in the dark, a word from someone nearby, even the sound of another person breathing tells a human being that he is not alone. To take hearing away is to take away that assurance, and the verse places this loss beside the groan as part of the punishment itself.",
+            "bn": "কুরতুবী একটি বাক্য যোগ করেন, যা অংশটির অনুভূতিই বদলে দেয়। তিনি লেখেন, কোনো কিছু শুনতে পাওয়ার মধ্যে আছে স্বস্তি আর সঙ্গ, রাওহ ও উনস। আগুনে আল্লাহ কাফিরদের তা থেকে বঞ্চিত করেছেন। এই দৃষ্টিতে শোনা কেবল খবর পাওয়ার পথ নয়। অন্ধকারে একটা কণ্ঠ, পাশের কারও একটা কথা, এমনকি অন্য কারও নিঃশ্বাসের শব্দও মানুষকে জানিয়ে দেয় যে সে একা নয়। শোনার ক্ষমতা কেড়ে নেওয়া মানে সেই ভরসাটুকুও কেড়ে নেওয়া। আয়াত এই বঞ্চনাকে গোঙানির পাশে রাখে, শাস্তিরই অংশ হিসেবে।"
+          },
+          {
+            "en": "Set al-Qurtubi's sentence beside Ibn Mas'ud's report, and the two point the same way, though this joining is ours and not theirs. In the report each one believes he alone is being punished. The people who once gathered around idols together, and were cast in together, end without even the knowledge of one another. The scene of 21:98 and 21:99 is crowded; this verse empties it. Company was what they had chosen over Allah, and it is the first thing the verse lets go.",
+            "bn": "কুরতুবীর বাক্যটি ইবন মাসউদ (রাঃ)-এর বর্ণনার পাশে রাখলে দুটি কথা একই দিকে ইঙ্গিত করে। তবে এই জোড়া লাগানোটা আমাদের, তাঁদের নয়। বর্ণনায় প্রত্যেকে ভাবে, শুধু সে-ই শাস্তি পাচ্ছে। যে মানুষগুলো একসময় দল বেঁধে মূর্তির চারপাশে জড়ো হতো, একসঙ্গেই আগুনে নিক্ষিপ্ত হলো, শেষে তারা একে অন্যের খবরটুকুও পায় না। ২১:৯৮ ও ২১:৯৯ আয়াতের দৃশ্যে অনেক ভিড়। এ আয়াত সেই ভিড় খালি করে দেয়। আল্লাহকে ছেড়ে তারা যে দল বেছে নিয়েছিল, আয়াত সবার আগে সেটাই সরিয়ে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Verb, Two Verses On",
+          "bn": "দুই আয়াত পরে একই ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "The verb returns almost at once. In 21:102 those for whom the best has gone before from Allah la yasma'una hasisaha: they will not hear even its faint sound. The same negated verb describes the opposite people. Here they are inside the Fire and hear nothing else; there they are kept so far from it that not even its sound reaches them. Ibn Kathir's abridged English glosses that later phrase as not feeling its heat in their bodies. That verse has its own article, and is only pointed to here.",
+            "bn": "ক্রিয়াটি প্রায় সঙ্গে সঙ্গেই ফিরে আসে। ২১:১০২ আয়াতে, আল্লাহর পক্ষ থেকে যাদের জন্য কল্যাণ আগেই নির্ধারিত, তাদের সম্পর্কে বলা হয়েছে, লা ইয়াসমাঊনা হাসীসাহা: তারা জাহান্নামের ক্ষীণতম শব্দও শুনবে না। না-বোধক একই ক্রিয়া বলা হলো বিপরীত মানুষদের কথা। এখানে তারা আগুনের ভেতরে, আর কিছুই শোনে না। সেখানে তাদের আগুন থেকে এত দূরে রাখা হয় যে তার শব্দটুকুও পৌঁছায় না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ পরের অংশটির ব্যাখ্যা দেয় এভাবে: নিজেদের শরীরে তারা এর তাপ টের পাবে না। ওই আয়াতের আলোচনা আলাদা প্রবন্ধে, এখানে শুধু ইঙ্গিত।"
+          },
+          {
+            "en": "Between the two stands 21:101, and the commentators tie it to an objection raised against 21:98 about 'Isa (AS), 'Uzayr and the angels, who were also worshipped. Ibn Kathir relays from Ibn Ishaq's Sirah, opened with according to what I have heard and given without a chain, a gathering of Quraysh at which 21:98 was recited as far as this verse; Ma'arif al-Qur'an relays the objection from Ibn Abbas through al-Qurtubi. The objection and its answer belong to 21:101 and are not argued here. This verse ends the passage on the Fire.",
+            "bn": "দুই আয়াতের মাঝে আছে ২১:১০১। তাফসীরকারেরা এটিকে ২১:৯৮ আয়াতের বিরুদ্ধে তোলা একটি আপত্তির সঙ্গে যুক্ত করেন। আপত্তিটা ছিল ঈসা (আঃ), উযায়র আর ফেরেশতাদের নিয়ে, কারণ তাঁদেরও পূজা করা হতো। ইবন কাসীর ইবন ইসহাকের সীরাত থেকে একটি ঘটনা আনেন, যা শুরু হয় 'আমি যতটুকু শুনেছি' কথা দিয়ে, কোনো সনদ ছাড়া। তাতে কুরাইশের এক মজলিসে ২১:৯৮ থেকে এ আয়াত পর্যন্ত পড়ে শোনানোর কথা আছে। মাআরিফুল কুরআন আপত্তিটি আনে কুরতুবীর সূত্রে, ইবন আব্বাস (রাঃ) থেকে। আপত্তি ও তার জবাব ২১:১০১ আয়াতের বিষয়, এখানে সে তর্কে যাওয়া হচ্ছে না। আগুনের বর্ণনা শেষ হয় এ আয়াতেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "While the Ear Still Hears",
+          "bn": "কান যতদিন শুনতে পায়"
+        },
+        "p": [
+          {
+            "en": "This must be said plainly. The verse describes what it describes: those it speaks of, the idolaters addressed in 21:98 and what they served, in the Fire on the Day it is set. It names no living person and no present community. It gives no one licence to say of a neighbour, a rival or any group that they will be the ones groaning there, and no licence to treat anyone alive as already judged. That verdict belongs to Allah alone. A reader who uses this verse to place others in the Fire has heard it wrongly.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। ২১:৯৮ আয়াতে যে মুশরিকদের সম্বোধন করা হয়েছে, তারা আর তাদের উপাস্যরা, নির্ধারিত দিনে আগুনে। আয়াতটি কোনো জীবিত মানুষের নাম নেয় না, বর্তমানের কোনো জনগোষ্ঠীরও না। প্রতিবেশী, প্রতিপক্ষ বা কোনো দল সম্পর্কে 'ওরাই সেখানে গোঙাবে' বলার অনুমতি এ আয়াত কাউকে দেয় না। কোনো জীবিত মানুষকে আগেভাগে বিচার হয়ে যাওয়া লোক ভাবার অনুমতিও দেয় না। সে রায় কেবল আল্লাহর। যে পাঠক এ আয়াত দিয়ে অন্যকে আগুনে পাঠায়, সে আয়াতটি ভুল শুনেছে।"
+          },
+          {
+            "en": "The verse is meant for whoever can still hear it. The passage was addressed, as Ibn Kathir reads it, to the people of Makkah while they were alive and could still answer, and Ibn Mas'ud recited it twice while explaining it. The warning works only on an ear that is open. So the questions it leaves are about now: what voices of truth and comfort I take for granted, what reminder I have heard many times and set aside, and what I lean on besides Allah that will not be able to hear me, or help me, on the Day.",
+            "bn": "আয়াতটি তার জন্য, যে এখনো শুনতে পায়। ইবন কাসীরের পাঠে পুরো বক্তব্যটির সম্বোধন ছিল মক্কাবাসীর প্রতি, যখন তারা জীবিত, চাইলে তখনো সাড়া দিতে পারত। ইবন মাসউদ (রাঃ) ব্যাখ্যার সময় আয়াতটি দুবার পড়েছিলেন। সতর্কবাণী কাজ করে শুধু খোলা কানে। তাই আয়াত যে প্রশ্নগুলো রেখে যায়, সবই এখনকার। সত্য আর সান্ত্বনার কোন কণ্ঠগুলোকে আমি এমনিই পাওয়া ধরে নিই? কোন উপদেশ বহুবার শুনেও সরিয়ে রেখেছি? আল্লাহকে ছেড়ে কিসের উপর ভর দিই, যে সেই দিন আমার ডাক শুনবে না, আমাকে সাহায্যও করতে পারবে না?"
+          }
+        ]
+      }
+    ]
+  },
   "21:104": {
     "sections": [
       {
