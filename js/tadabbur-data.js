@@ -33943,6 +33943,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Being busy and sure is no proof that a deed counts. Test your work against Allah's guidance, and turn this warning on yourself before anyone else.",
     "lessonBn": "ব্যস্ত থাকা আর নিশ্চিত থাকা প্রমাণ করে না যে আমল কবুল হচ্ছে। নিজের কাজ আল্লাহর হিদায়াতের সঙ্গে মিলিয়ে দেখুন, আর এ সতর্কবাণী অন্যের আগে নিজের দিকে ফেরান।"
+  },
+  "18:71": {
+    "reflectionEn": "They had been taken aboard without a fare. Once the ship was out in deep water, al-Khidr rose and pulled a plank from its side. Musa had promised patience only a few lines earlier, and in that moment the promise slipped from him. Have you holed it to drown its people? His fear was for the crew, not for himself, and what he saw before his eyes was plain harm. The verse gives no reason yet. It leaves us on open water with a hole in the hull and a question in the air. How quickly do I pass a verdict on a loss before its reason has had time to arrive? And when I do speak up, whose good am I speaking for?",
+    "reflectionBn": "ভাড়া ছাড়াই তাদের নৌকায় তুলে নেওয়া হয়েছিল। নৌকা গভীর পানিতে পৌঁছাতেই খিযির উঠে দাঁড়ালেন, খুলে ফেললেন খোলের একটা তক্তা। মাত্র কয়েক আয়াত আগে মূসা (আঃ) ধৈর্যের কথা দিয়েছিলেন। সেই মুহূর্তে কথাটা তাঁর মনেই রইল না। আপনি কি এর আরোহীদের ডুবিয়ে দিতে ছিদ্র করলেন? তাঁর ভয় নিজের জন্য নয়, মাঝিমাল্লাদের জন্য। আর চোখের সামনে যা ঘটছিল, তা ছিল সোজাসুজি ক্ষতি। আয়াতটি এখনো কারণ বলে না। খোলে একটা ছিদ্র আর বাতাসে একটা প্রশ্ন রেখে আমাদের মাঝদরিয়ায় ছেড়ে দেয়। কোনো ক্ষতির কারণ জানার আগেই আমি কত তাড়াতাড়ি রায় দিয়ে বসি? আর যখন মুখ খুলি, তখন কার ভালোর জন্য খুলি?",
+    "pointsEn": [
+      "When something I value is damaged, how long do I wait before deciding what it means?",
+      "Is my first protest usually for the people affected, or for my own comfort and safety?",
+      "What promise of patience have I made that slips from my mind the moment a trial begins?",
+      "Where am I judging a whole story from its first scene, before the rest has been told?",
+      "Can I object honestly to what looks wrong and still leave room for a wisdom I cannot yet see?"
+    ],
+    "pointsBn": [
+      "প্রিয় কিছুর ক্ষতি হলে তার মানে কী, সে সিদ্ধান্তে পৌঁছানোর আগে আমি কতক্ষণ অপেক্ষা করি?",
+      "আমার প্রথম আপত্তিটা সাধারণত কার জন্য ওঠে, যাদের ক্ষতি হলো তাদের জন্য, নাকি নিজের আরাম আর নিরাপত্তার জন্য?",
+      "ধৈর্যের কোন অঙ্গীকার আমি করেছি, যা পরীক্ষা শুরু হতেই মন থেকে হারিয়ে যায়?",
+      "পুরো কাহিনি শোনার আগেই প্রথম দৃশ্য দেখে কোথায় আমি রায় দিয়ে ফেলছি?",
+      "যা অন্যায় দেখায় তার বিরুদ্ধে সৎভাবে আপত্তি জানিয়েও কি আমি এমন হিকমতের জন্য জায়গা রাখতে পারি, যা এখনো চোখে পড়ছে না?"
+    ],
+    "lessonEn": "Speak up against what looks like harm, out of care for others, but keep your verdict open: a loss whose reason is still hidden may yet prove to be a protection.",
+    "lessonBn": "যা ক্ষতি বলে দেখায়, অন্যের প্রতি দরদ থেকে তার বিরুদ্ধে মুখ খুলুন, তবে রায়টা খোলা রাখুন: যে ক্ষতির কারণ এখনো গোপন, তা-ই হয়তো শেষে রক্ষাকবচ হয়ে দাঁড়াবে।"
   }
 };
 

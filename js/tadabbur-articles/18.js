@@ -3567,6 +3567,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:71": {
+    "sections": [
+      {
+        "h": {
+          "en": "Out Into Deep Water",
+          "bn": "গভীর পানিতে পৌঁছে"
+        },
+        "p": [
+          {
+            "en": "Fa-ntalaqa hatta idha rakiba fi as-safinati kharaqaha: so the two of them set out until, when they had boarded the ship, he holed it. The verbs are dual until the last, which belongs to al-Khidr alone. At-Tabari fills in the opening: Musa and the learned man went on, looking for a ship to ride, and when they found one they boarded it; once aboard, the learned man holed it. The Muyassar sets the walk on the shore: a ship passed them, and they asked its people to take them on.",
+            "bn": "ফানতালাকা হাত্তা ইযা রাকিবা ফিস সাফীনাতি খারাকাহা: তারপর দুজনে চলল, অবশেষে যখন নৌকায় উঠল, তখন সে তাতে ছিদ্র করে দিল। শেষ ক্রিয়াটি ছাড়া বাকিগুলো দ্বিবচনে, দুজনের। শেষটি একা খিযিরের। তাবারী শুরুটা খুলে বলেন: মূসা আর সেই জ্ঞানী মানুষটি চড়ার মতো একটা নৌকা খুঁজতে খুঁজতে চললেন। পেয়ে গেলে তাতে উঠলেন। ওঠার পর জ্ঞানী মানুষটি নৌকায় ছিদ্র করলেন। মুয়াসসার হাঁটার পথটা দেখায় সাগরের তীর ধরে। একটা নৌকা তাদের পাশ দিয়ে যাচ্ছিল, তারা তার লোকদের কাছে উঠতে দেওয়ার অনুরোধ করলেন।"
+          },
+          {
+            "en": "The verse sets boarding and holing side by side, but the commentators put a stretch of sea between them. At-Tabari has Musa ask it after we had gone out into deep water, and Ibn Kathir says the same: when the ship had carried them off and entered the deep, al-Khidr stood up and holed it, drawing out one of its planks and then patching the place again. As-Sa'di adds that al-Khidr had a purpose in it which he would later make plain.",
+            "bn": "আয়াতে নৌকায় ওঠা আর ছিদ্র করা পাশাপাশি বসানো, মাঝে কোনো বিরতি নেই। তাফসীরকারেরা কিন্তু এর ফাঁকে খানিকটা সাগর রাখেন। তাবারীর বর্ণনায় মূসা প্রশ্নটা করেন গভীর সাগরে ঢোকার পর। ইবন কাসীরও একই কথা বলেন: নৌকা তাদের নিয়ে তীর ছেড়ে গভীরে পৌঁছালে খিযির উঠে দাঁড়ান, একটা তক্তা টেনে বের করেন, তারপর জায়গাটা আবার জোড়া দেন। সা'দী যোগ করেন, এর পেছনে খিযিরের একটা উদ্দেশ্য ছিল, যা তিনি পরে খুলে বলবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taken Aboard for Nothing",
+          "bn": "বিনা ভাড়ায় নৌকায়"
+        },
+        "p": [
+          {
+            "en": "The Prophet's ﷺ own telling shows how they came aboard. In Sahih al-Bukhari (122), from Ubayy ibn Ka'b: \"In the meantime a boat passed by them and they requested the crew of the boat to take them on board. The crew recognized Al-Khadir and took them on board without fare. Then a sparrow came and stood on the edge of the boat and dipped its beak once or twice in the sea. Al-Khadir said: 'O Moses! My knowledge and your knowledge have not decreased Allah's knowledge except as much as this sparrow has decreased the water of the sea with its beak.'\"",
+            "bn": "কীভাবে তারা নৌকায় উঠলেন, আয়াত তা বলে না। বলে দেয় নবী ﷺ-এর নিজের বর্ণনা। সহীহ বুখারীতে (১২২) উবাই ইবন কা'ব (রাঃ) থেকে বর্ণিত সেই হাদীসে নৌকার দৃশ্য শুরু হয় এভাবে: \"এর মধ্যে একটা নৌকা তাদের পাশ দিয়ে যাচ্ছিল। তারা নৌকার লোকদের সঙ্গে কথা বলল, যেন তাদের তুলে নেয়। লোকেরা খিযিরকে চিনে ফেলল এবং বিনা ভাড়ায় তাদের তুলে নিল। তারপর একটা চড়ুই এসে নৌকার কিনারায় বসল এবং সাগরে একবার বা দুবার ঠোঁট ডোবাল। খিযির বললেন: হে মূসা, আল্লাহর জ্ঞান থেকে আমার জ্ঞান আর আপনার জ্ঞান ততটুকুই কমিয়েছে, যতটুকু এই চড়ুই তার ঠোঁটে সাগরের পানি কমিয়েছে।\""
+          },
+          {
+            "en": "In that telling the bird comes before the plank. In the same collection's chapter on this surah (4725), also through Sufyan, the order turns: al-Khidr pulls out a plank with an adze first, Musa protests, and only after the line about forgetting does the sparrow land on the ship's edge. Al-Qurtubi quotes this second order, citing both Sahihs. What stays constant across them is the fare that was waived, the adze, the plank and Musa's protest: these people carried us for nothing, and you have holed their ship.",
+            "bn": "এই বর্ণনায় চড়ুই আসে তক্তা খোলার আগে। একই সংকলনের এই সূরার তাফসীর অধ্যায়ে (৪৭২৫), সেটিও সুফইয়ানের সূত্রে, ক্রম উল্টে যায়। সেখানে খিযির আগে বাটালি দিয়ে তক্তা খোলেন, মূসা আপত্তি করেন, আর ভুলে যাওয়ার কথাটি আসার পরেই চড়ুই নৌকার কিনারায় নামে। কুরতুবী এই দ্বিতীয় ক্রমটিই উদ্ধৃত করেন, দুই সহীহের নাম নিয়ে। সব বর্ণনায় যা বদলায় না তা হলো মাফ করে দেওয়া ভাড়া, বাটালি, তক্তা আর মূসার আপত্তি: এরা বিনা ভাড়ায় আমাদের তুলেছে, আর আপনি তাদের নৌকা ফুটো করে দিলেন।"
+          },
+          {
+            "en": "Al-Qurtubi is careful with the sparrow's words. The comparison is a likeness, he says: what you and I know leaves no mark on what Allah knows, as the sparrow's sip leaves none on the sea. The word decreased is a figure used to make the point understood, since nothing is lessened in Allah's knowledge and what He knows has no end. Al-Baghawi brings the same scene through Ubayy, and before it sets a detail with no chain: the passengers took the two for thieves, until the ship's owner said, I see the faces of prophets.",
+            "bn": "চড়ুইয়ের কথাটা নিয়ে কুরতুবী সাবধানী। তাঁর মতে কথাটা একটা উপমা। আপনার আর আমার জানা আল্লাহর জানার উপর কোনো দাগ ফেলে না, যেমন চড়ুইয়ের এক চুমুক সাগরে কোনো দাগ ফেলে না। কমিয়েছে শব্দটি শুধু বোঝানোর জন্য রূপক হিসেবে এসেছে। আল্লাহর জ্ঞানে কিছুই কমে না, তাঁর জানার কোনো শেষ নেই। বাগাভীও উবাইয়ের সূত্রে একই দৃশ্য আনেন। তার আগে সনদ ছাড়া একটা খুঁটিনাটি জুড়ে দেন: যাত্রীরা দুজনকে চোর ভেবেছিল, শেষে নৌকার মালিক বলল, আমি তো এদের চেহারায় নবীদের চেহারা দেখছি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Became of the Hull",
+          "bn": "নৌকার খোলের কী হলো"
+        },
+        "p": [
+          {
+            "en": "Did the ship take on water? The verse is silent, and the commentators do not all tell it alike. Ibn Kathir has al-Khidr draw out the plank and then patch the place. Al-Baghawi gathers three reports, each opened with it is reported and none given a chain: that when al-Khidr holed the ship no water came into it; that Musa, seeing the hole, took his garment and stuffed it into the breach; and that al-Khidr took a vessel of glass and patched the hole with it.",
+            "bn": "নৌকায় কি পানি ঢুকেছিল? আয়াত চুপ, আর তাফসীরকারেরাও সবাই এক রকম বলেন না। ইবন কাসীরের বর্ণনায় খিযির তক্তা টেনে বের করেন, তারপর জায়গাটা জোড়া দেন। বাগাভী তিনটি বর্ণনা জড়ো করেন। প্রতিটির শুরু 'বর্ণিত আছে' দিয়ে, কোনোটির সনদ নেই। এক, খিযির ছিদ্র করার পরও নৌকায় পানি ঢোকেনি। দুই, ছিদ্র দেখে মূসা নিজের কাপড় নিয়ে ফাঁকটায় গুঁজে দেন। তিন, খিযির কাচের একটা পাত্র নিয়ে তা দিয়ে ছিদ্রটা বন্ধ করেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an weighs these. The Sahihs, it says, show that the plank was knocked out with an axe, so that water could have filled the boat and sunk it, and that is why Musa objected. Historical reports say no water came in, either because al-Khidr repaired it soon afterwards, as in al-Baghawi's report of the glass, or because the water was held back as a miracle. It adds that the Qur'an's own context shows the boat did not sink, and that this supports those reports. What became of the ship afterwards is for 18:79.",
+            "bn": "মাআরিফুল কুরআন এগুলো ওজন করে দেখে। তার কথা হলো, দুই সহীহ থেকে জানা যায় কুড়াল দিয়ে তক্তাটা খুলে ফেলা হয়েছিল। ফলে পানি ঢুকে নৌকা ডুবে যাওয়ার আশঙ্কা ছিল, আর এ কারণেই মূসা আপত্তি করেন। ঐতিহাসিক বর্ণনা বলে পানি ঢোকেনি। হয়তো খিযির অল্প পরেই নিজে মেরামত করেছিলেন, যেমন বাগাভীর কাচের বর্ণনায় আছে, নয়তো মুজিযা হিসেবে পানি আটকে ছিল। মাআরিফুল কুরআন আরও বলে, কুরআনের প্রসঙ্গ থেকেই বোঝা যায় নৌকা ডোবেনি, আর এটা ওই বর্ণনাগুলোকে সমর্থন করে। নৌকার পরের পরিণতি ১৮:৭৯ আয়াতের বিষয়।"
+          },
+          {
+            "en": "Al-Qurtubi adds two pictures of how the deed went unchecked. From Abu al-'Aliya: no one saw al-Khidr hole the ship except Musa, for he was a servant whom only the eye Allah chose to show him could see, and had the crew seen him they would have stopped him. Then, opened with it is said: the people of the ship had gone out onto an island, and al-Khidr stayed behind and holed it. Both are reports about the scene, and the verse needs neither.",
+            "bn": "কাজটা কেন কেউ ঠেকাল না, তার দুটি ছবি কুরতুবী যোগ করেন। আবুল আলিয়া থেকে: নৌকা ফুটো করার সময় মূসা ছাড়া আর কেউ খিযিরকে দেখেনি। তিনি ছিলেন এমন এক বান্দা, আল্লাহ যাকে দেখাতে চান কেবল তার চোখেই তিনি ধরা দেন। লোকেরা দেখলে তাঁকে বাধা দিত। তারপর 'বলা হয়' দিয়ে আরেকটি কথা: নৌকার লোকেরা একটা দ্বীপে নেমে গিয়েছিল, খিযির পেছনে থেকে নৌকা ফুটো করেন। দুটোই দৃশ্য সম্পর্কে বর্ণনা। আয়াতের কোনোটিরই দরকার পড়ে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Its People, Not Himself",
+          "bn": "নিজের নয়, আরোহীদের ভয়"
+        },
+        "p": [
+          {
+            "en": "A-kharaqtaha li-tughriqa ahlaha: have you holed it to drown its people? Musa was on board too, and the water that took the crew would have taken him. Al-Qurtubi notices what the question leaves out. He did not say to drown me, because what had taken hold of him in that moment was an overflowing tenderness for them and regard for their right. With the sea coming through a hole in the hull, Musa (AS) thought first of the people who had carried him.",
+            "bn": "আখারাকতাহা লিতুগরিকা আহলাহা: আপনি কি এর আরোহীদের ডুবিয়ে দিতে এতে ছিদ্র করলেন? মূসাও তো নৌকায় ছিলেন। যে পানি মাঝিমাল্লাদের ডোবাত, তা তাঁকেও ডোবাত। প্রশ্নটা থেকে কী বাদ পড়েছে, কুরতুবী সেদিকে চোখ রাখেন। তিনি বলেননি, আমাকে ডোবাতে। কারণ সেই মুহূর্তে তাঁর মন জুড়ে ছিল ওদের প্রতি উপচে পড়া মমতা আর ওদের হকের খেয়াল। খোলের ছিদ্র দিয়ে সাগর ঢুকে পড়ার মুখে মূসা (আঃ) সবার আগে ভাবলেন সেই লোকদের কথা, যারা তাঁকে তুলে নিয়েছিল।"
+          },
+          {
+            "en": "In the Muyassar's paraphrase his words run: have you holed the ship to drown its people, when they carried us without a fare? Qatadah, in at-Tabari, hears the same urgency from inside the ship: a people who had taken their vessel into deep water, and you holed it, just when we were most in need of it. The complaint is not only that a thing was broken. It is that people who had shown kindness were the ones put in danger, and Musa spoke for them, not for himself.",
+            "bn": "মুয়াসসারের ভাষায় তাঁর কথা দাঁড়ায় এমন: আপনি কি আরোহীদের ডোবাতে নৌকা ফুটো করলেন, অথচ তারা আমাদের বিনা ভাড়ায় তুলেছে? তাবারীতে কাতাদা নৌকার ভেতর থেকেই সেই তাড়না শোনেন: একদল লোক নৌকা নিয়ে গভীর সাগরে পৌঁছেছে, আর আপনি তা ফুটো করে দিলেন, ঠিক যখন আমাদের এর সবচেয়ে বেশি দরকার। আপত্তিটা শুধু একটা জিনিস ভাঙার নয়। যারা দয়া দেখিয়েছিল, বিপদে পড়ল তারাই। মূসা কথা বললেন তাদের হয়ে, নিজের হয়ে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "To Drown, or That They Drown",
+          "bn": "ডোবানো, নাকি ডুবে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "The verb comes in two readings. At-Tabari reports that most readers of Madina and Basra, and some of Kufa, read li-tughriqa ahlaha, for you to drown its people, laying the act on al-Khidr; most readers of Kufa read li-yaghraqa ahluha, so that its people drown. Al-Qurtubi and al-Baghawi name Hamza and al-Kisa'i for the second. At-Tabari's own judgement is that both are well-known readings, current in the cities, alike in meaning though different in wording, so that whoever reads either reads correctly.",
+            "bn": "ক্রিয়াটির দুটি কিরাআত আছে। তাবারী জানান, মদীনা ও বসরার অধিকাংশ কারী এবং কূফার কয়েকজন পড়েন লিতুগরিকা আহলাহা, অর্থাৎ যেন আপনি এর আরোহীদের ডুবিয়ে দেন। এতে কাজটা খিযিরের উপর পড়ে। কূফার অধিকাংশ কারী পড়েন লিয়াগরাকা আহলুহা, অর্থাৎ যেন এর আরোহীরা ডুবে যায়। দ্বিতীয় কিরাআতটি হামযা ও কিসাঈর, কুরতুবী আর বাগাভী তাঁদের নাম নেন। তাবারীর নিজের রায় হলো, দুটোই সুপরিচিত কিরাআত, বিভিন্ন শহরে প্রচলিত। শব্দ আলাদা হলেও অর্থ এক, তাই যে-কোনোটি যে পড়ে, সে ঠিকই পড়ে।"
+          },
+          {
+            "en": "Musa objected, he says, because he held the hole to be a cause of the people drowning, and read either way that meaning stands. Ibn Kathir adds a point of grammar that guards Musa's words from a harsh reading: the li of li-tughriqa is the lam of outcome, not of purpose, as in the poet's line, give birth for death and build for ruin. On this reading Musa was naming where the act would lead, not charging al-Khidr with wanting to kill. Al-Qurtubi agrees for the majority reading, comparing 28:8, and on Hamza's reading calls it the lam of purpose.",
+            "bn": "তাঁর যুক্তি হলো, মূসা আপত্তি করেছিলেন কারণ তাঁর কাছে ছিদ্রটা ছিল আরোহীদের ডুবে যাওয়ার কারণ। যেভাবেই পড়ুন, এই অর্থ বহাল থাকে। ইবন কাসীর ব্যাকরণের একটা কথা যোগ করেন, যা মূসার কথাকে কড়া অর্থ থেকে বাঁচায়। লিতুগরিকা-র 'লি' পরিণতির লাম, উদ্দেশ্যের নয়। যেমন কবি বলেছেন, মৃত্যুর জন্য জন্ম দাও, ধ্বংসের জন্য গড়ো। এভাবে পড়লে মূসা খিযিরের উপর হত্যার ইচ্ছা চাপাচ্ছিলেন না। কাজটা কোথায় গিয়ে ঠেকবে, সেটাই বলছিলেন। কুরতুবী অধিকাংশের কিরাআতে একমত, ২৮:৮ আয়াতের সঙ্গে তুলনা করেন। হামযার কিরাআতে তিনি একে উদ্দেশ্যের লাম বলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Weight of Imr",
+          "bn": "ইমর শব্দের ভার"
+        },
+        "p": [
+          {
+            "en": "La-qad ji'ta shay'an imra: you have done a grave thing. At-Tabari glosses it twice over: you have brought something enormous and done a deed that is munkar, not recognised as right. Mujahid, through several chains in at-Tabari, says munkar. Qatadah is reported both ways, wonder in one chain and nukr, reprehensible, in Ma'mar's. As-Sa'di has enormous and hideous. Al-Qurtubi adds al-Qutabi, who read it as wonder, and the Muyassar settles on a reprehensible matter.",
+            "bn": "লাকাদ জি'তা শাইআন ইমরা: আপনি তো এক গুরুতর কাজ করে বসলেন। তাবারী দুই দিক থেকে ব্যাখ্যা দেন: আপনি বিরাট কিছু ঘটিয়েছেন, এমন কাজ করেছেন যা মুনকার, ভালো বলে স্বীকৃত নয়। তাবারীতে একাধিক সনদে মুজাহিদ বলেন, মুনকার। কাতাদা থেকে দুই রকম এসেছে: একটি সনদে আশ্চর্য, মা'মারের সনদে নুকর, অর্থাৎ ঘৃণ্য। সা'দী বলেন, বিরাট ও জঘন্য। কুরতুবী কুতাবীর মত যোগ করেন, যিনি একে আশ্চর্য অর্থে নেন। মুয়াসসার থামে 'গর্হিত কাজ' কথাটায়।"
+          },
+          {
+            "en": "The language scholars press the word further. At-Tabari says imr in the speech of the Arabs is a calamity, and cites a rajaz line where it stands beside dahiya and idd. Some experts in Arabic, he reports, traced it to whatever is intense and abundant: a people are said to have amiru when they grew many and their affair grew severe. Al-Baghawi repeats that root, and al-Qurtubi gives the same line through Abu 'Ubayda and the verb through al-Akhfash: amira, it grew intense. Whether nukr at the boy weighs more, the commentators debate under 18:74.",
+            "bn": "ভাষাবিদেরা শব্দটার আরও গভীরে যান। তাবারী বলেন, আরবদের কথায় ইমর মানে মহাবিপদ। সঙ্গে রজয ছন্দের একটা পঙক্তি আনেন, যেখানে শব্দটি দাহিয়া আর ইদ্দ-এর পাশে বসেছে। আরবি ভাষার কয়েকজন বিশেষজ্ঞ, তাঁর বর্ণনায়, এর মূল খুঁজেছেন তীব্র ও প্রচুর যা-কিছু তার মধ্যে। কোনো দল সংখ্যায় বেড়ে গেলে আর তাদের অবস্থা কঠিন হয়ে উঠলে বলা হয়, তারা আমিরূ। বাগাভীও এই মূলের কথা বলেন। কুরতুবী একই পঙক্তি আনেন আবু উবাইদার সূত্রে, আর ক্রিয়াটি আখফাশের সূত্রে: আমিরা, অর্থাৎ তীব্র হলো। বালকের বেলায় বলা নুকর এর চেয়ে ভারী কি না, সে বিতর্ক ১৮:৭৪ আয়াতের আলোচনায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why He Could Not Hold Back",
+          "bn": "কেন চুপ থাকতে পারলেন না"
+        },
+        "p": [
+          {
+            "en": "Two verses earlier Musa (AS) had said, you will find me patient, if Allah wills, and I will not disobey you in anything (18:69), and al-Khidr had set the condition: ask me about nothing until I mention it to you (18:70). Ibn Kathir opens this verse by recalling that condition, then says Musa could not hold himself back from objecting. As-Sa'di finds the reason in the deed itself: its outward face was munkar, since it damaged the ship and was a cause of drowning its people. He calls the protest a sign that patience did not hold.",
+            "bn": "দুই আয়াত আগে মূসা (আঃ) বলেছিলেন, আল্লাহ চাইলে আপনি আমাকে ধৈর্যশীল পাবেন, আমি আপনার কোনো নির্দেশ অমান্য করব না (১৮:৬৯)। খিযির শর্ত দিয়েছিলেন: আমি নিজে না বলা পর্যন্ত আমাকে কিছু জিজ্ঞেস করবেন না (১৮:৭০)। ইবন কাসীর এ আয়াতের শুরুতে সেই শর্তের কথা মনে করিয়ে দেন, তারপর বলেন, মূসা আপত্তি না করে নিজেকে সামলাতে পারেননি। সা'দী কারণটা খোঁজেন কাজটার মধ্যেই। বাইরে থেকে তা ছিল মুনকার, কারণ এতে নৌকার ক্ষতি হয় আর আরোহীদের ডুবে যাওয়ার পথ খোলে। তাঁর মতে আপত্তিটা ধৈর্য টিকে না থাকারই চিহ্ন।"
+          },
+          {
+            "en": "The Prophet ﷺ gives the moment another name. In Bukhari's telling, after Musa asks not to be blamed for what he forgot, the narration adds that the first, from Musa, was forgetfulness; Ibn Kathir cites the same line, and 18:73 carries Musa's own plea. The contrast with the second objection belongs to 18:74. The promise of 18:69 did not give way to defiance. A man who judged by what was in front of him saw people about to drown, spoke, and the promise slipped from his mind.",
+            "bn": "নবী ﷺ মুহূর্তটার আরেকটা নাম দেন। বুখারীর বর্ণনায়, যা ভুলে গেছি তার জন্য আমাকে দায়ী করবেন না, মূসার এই অনুরোধের পর আসে: প্রথমবার মূসার কাছ থেকে যা হয়েছিল তা ছিল ভুলে যাওয়া। ইবন কাসীরও এই বাক্য উদ্ধৃত করেন, আর মূসার নিজের অনুরোধটি আছে ১৮:৭৩ আয়াতে। দ্বিতীয় আপত্তির সঙ্গে তুলনা ১৮:৭৪ আয়াতের বিষয়। ১৮:৬৯ আয়াতের অঙ্গীকার অবাধ্যতার কাছে হার মানেনি। যিনি চোখের সামনের ঘটনা দিয়ে বিচার করছিলেন, তিনি মানুষকে ডুবতে বসা দেখলেন, মুখ খুললেন, আর অঙ্গীকারের কথা মন থেকে সরে গেল।"
+          },
+          {
+            "en": "Qatadah, in at-Tabari, holds both men in view at once. Al-Khidr, he says, knew of this what the prophet of Allah Musa did not know, from the knowledge of Allah that had been given to him, and he had already told Musa: if you follow me, ask me about nothing until I mention it to you. Neither man is blamed in that sentence. One acted on a knowledge he had been given; the other objected to what anyone standing on that deck would have seen as harm.",
+            "bn": "তাবারীতে কাতাদা দুজনকে একসঙ্গে দেখেন। তিনি বলেন, খিযির এ বিষয়ে এমন কিছু জানতেন যা আল্লাহর নবী মূসা জানতেন না। আল্লাহ তাঁকে যে জ্ঞান দিয়েছিলেন, তা থেকেই জানতেন। আর তিনি আগেই মূসাকে বলে রেখেছিলেন, আপনি আমার অনুসরণ করলে, আমি নিজে না বলা পর্যন্ত আমাকে কিছু জিজ্ঞেস করবেন না। কাতাদার এই বাক্যে কাউকেই দোষ দেওয়া হয়নি। একজন কাজ করেছেন তাঁকে দেওয়া জ্ঞানের ভিত্তিতে। অন্যজন আপত্তি করেছেন এমন জিনিসে, যা নৌকার পাটাতনে দাঁড়ানো যে-কারও চোখে ক্ষতিই দেখাত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Plank, Not a Precedent",
+          "bn": "এক তক্তা, কোনো নজির নয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws a ruling from the holed ship: a guardian may diminish an orphan's property when he sees it to be for its good, as when he fears a tyrant will seize its yield and so spoils part of it. He adds Abu Yusuf's view that a guardian may buy off the ruler with part of an orphan's wealth to keep the rest. The ruling concerns a guardian's judgement of real benefit for those in his charge, with a small loss accepted to save the whole.",
+            "bn": "নৌকা ফুটো করার ঘটনা থেকে কুরতুবী একটা মাসআলা বের করেন। এতিমের অভিভাবক যদি কল্যাণ দেখেন, তবে এতিমের সম্পদ কিছুটা কমাতে পারেন। যেমন কোনো জালিম তার আয় কেড়ে নেবে এই ভয়ে তিনি সম্পদের একাংশ নষ্ট করে দিলেন। সঙ্গে আবু ইউসুফের মত আনেন: অভিভাবক এতিমের সম্পদের একাংশ দিয়ে শাসককে খুশি রেখে বাকিটা বাঁচাতে পারেন। মাসআলাটা অভিভাবকের দায়িত্বের ভেতরের বিষয়। যারা তাঁর তত্ত্বাবধানে, তাদের সত্যিকারের কল্যাণ বিচার করে পুরোটা বাঁচাতে সামান্য ক্ষতি মেনে নেওয়া।"
+          },
+          {
+            "en": "That is as far as the verse reaches. No one may hole a ship, spoil another's goods or put anyone in danger and then claim a hidden reason like al-Khidr's. Qatadah ties his act to knowledge Allah gave him, and as-Sa'di calls the deed's outward face munkar; by that outward face the rest of us are judged. The verse describes what one servant did by Allah's teaching, and it licenses nothing against any living person's property or safety.",
+            "bn": "আয়াতের নাগাল এটুকুই। কেউ নৌকা ফুটো করে, অন্যের মাল নষ্ট করে বা কাউকে বিপদে ফেলে পরে খিযিরের মতো গোপন কারণের দাবি করতে পারে না। কাতাদা খিযিরের কাজকে বেঁধেছেন আল্লাহর দেওয়া জ্ঞানের সঙ্গে, আর সা'দী কাজটার বাইরের চেহারাকে বলেছেন মুনকার। আমাদের বাকি সবার বিচার হয় ওই বাইরের চেহারা দিয়েই। আয়াতটি বলছে আল্লাহর শেখানো জ্ঞানে একজন বান্দা কী করেছিলেন। কোনো জীবিত মানুষের সম্পদ বা নিরাপত্তার বিরুদ্ধে এটি কোনো অনুমতি দেয় না।"
+          },
+          {
+            "en": "What the verse gives instead is a place to stop. It ends on a hole in a hull, a man's protest and no explanation. Al-Khidr's reply in 18:72 is only a reminder of his warning, and the reason itself waits for 18:79. Until then the reader rides that ship with Musa (AS), learning to object honestly to what looks wrong while the knowledge that would settle it is still out of sight. The sparrow on the ship's edge, in either order of the telling, had already shown how small any one person's share of knowing is.",
+            "bn": "এর বদলে আয়াতটি দেয় থেমে দাঁড়ানোর একটা জায়গা। শেষ হয় খোলের একটা ছিদ্র, একজন মানুষের আপত্তি আর কোনো ব্যাখ্যা ছাড়াই। ১৮:৭২ আয়াতে খিযিরের জবাব শুধু তাঁর আগের সতর্কবাণী মনে করিয়ে দেওয়া। আসল কারণ অপেক্ষা করছে ১৮:৭৯ আয়াতের জন্য। ততক্ষণ পাঠক মূসা (আঃ)-এর সঙ্গে ওই নৌকাতেই চড়ে থাকেন। শেখেন, যা অন্যায় দেখায় তাতে সৎভাবে আপত্তি জানাতে, যখন যে জ্ঞান বিষয়টার মীমাংসা করত তা এখনো চোখের আড়ালে। বর্ণনার ক্রম যেটাই হোক, নৌকার কিনারার সেই চড়ুই আগেই দেখিয়ে দিয়েছে, কারও একার জানার ভাগ কত সামান্য।"
+          }
+        ]
+      }
+    ]
+  },
   "18:74": {
     "sections": [
       {
