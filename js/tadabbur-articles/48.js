@@ -11,6 +11,154 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "48:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words on the Road Home",
+          "bn": "ফেরার পথে পাঁচটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Inna fatahna laka fathan mubina: indeed, We have opened for you a clear opening. Fath is usually rendered conquest or victory; at its root it is an opening. The verb is in the past tense, as of something already done. Ibn Kathir gives the setting. The surah came down when the Messenger of Allah ﷺ was returning from al-Hudaybiyya in Dhu al-Qa'da of the sixth year after the Hijra. The polytheists had barred him from the Sacred Mosque and his 'umrah, then inclined to a truce: he would go back that year and come again the next.",
+            "bn": "ইন্না ফাতাহনা লাকা ফাতহান মুবীনা: নিশ্চয়ই আমি তোমার জন্য খুলে দিয়েছি এক সুস্পষ্ট বিজয়। ফাতহ শব্দের অনুবাদ সাধারণত করা হয় বিজয় বা জয়। মূলে এর অর্থ খুলে দেওয়া। ক্রিয়াটি অতীত কালের, যেন কাজটি হয়েই গেছে। প্রেক্ষাপট জানান ইবন কাসীর। হিজরতের ষষ্ঠ বছরের যিলকদ মাসে রাসূলুল্লাহ ﷺ হুদায়বিয়া থেকে ফিরছিলেন, তখনই সূরাটি নাযিল হয়। মুশরিকরা তাঁকে মসজিদুল হারামে পৌঁছে উমরা করতে দেয়নি। পরে তারা সন্ধির দিকে ঝুঁকল: এ বছর তিনি ফিরে যাবেন, আসবেন আগামী বছর।"
+          },
+          {
+            "en": "He accepted, Ibn Kathir continues, though a group of the Companions disliked it, 'Umar ibn al-Khattab among them. When he had slaughtered his sacrificial animals where he was stopped and turned back, Allah sent down this surah about what had passed between him and them, and made that peace a conquest for the good in it and for what it led to. Al-Qurtubi calls the surah Madinan by consensus, twenty-nine verses, revealed at night between Makkah and Madinah concerning al-Hudaybiyya. Ma'arif al-Qur'an names the halt where it came: Kura' al-Ghamim.",
+            "bn": "ইবন কাসীর আরও বলেন, সাহাবিদের একটি দল এতে নারাজ ছিলেন, তাঁদের মধ্যে উমর ইবনুল খাত্তাব (রাঃ)-ও ছিলেন। তবু তিনি রাজি হলেন। যেখানে বাধা পেয়েছিলেন সেখানেই কুরবানির পশু জবাই করে তিনি ফিরতি পথ ধরলেন। তখন আল্লাহ তাঁদের মধ্যকার ঘটনা নিয়ে এ সূরা নাযিল করলেন। সন্ধির মধ্যে যে কল্যাণ ছিল আর শেষে যা দাঁড়াল, সেই বিবেচনায় আল্লাহ একে বিজয় বললেন। কুরতুবী বলেন, সূরাটি সর্বসম্মতভাবে মাদানী, আয়াত উনত্রিশটি, আর হুদায়বিয়ার ঘটনা নিয়ে রাতে মক্কা ও মদীনার মাঝপথে নাযিল হয়েছে। মাআরিফুল কুরআন জায়গাটির নামও বলে: কুরাউল গামীম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Terms That Stung",
+          "bn": "যে শর্ত বুকে বিঁধেছিল"
+        },
+        "p": [
+          {
+            "en": "The terms are worth setting out, because the verse answers them. As-Sa'di summarises the agreement: war set aside between the two sides for ten years; the 'umrah to be made the following year; any tribe free to enter the pact of Quraysh or the pact of the Messenger ﷺ. Ma'arif al-Qur'an adds the clause that cut deepest: a Makkan who came over to the Prophet's side without his guardian's leave would be sent back, while anyone who went over from his side to Quraysh would not be returned.",
+            "bn": "শর্তগুলো জেনে রাখা দরকার, কারণ আয়াতটি এগুলোরই জবাব। সা'দী চুক্তির সারকথা বলেন। ১০ বছর দুই পক্ষের মধ্যে যুদ্ধ বন্ধ থাকবে। উমরা হবে আগামী বছর। আর যে গোত্র চায় কুরাইশের চুক্তিতে ঢুকবে, যে চায় রাসূল ﷺ-এর চুক্তিতে। মাআরিফুল কুরআন সবচেয়ে কষ্টের ধারাটিও উল্লেখ করে: মক্কার কেউ অভিভাবকের অনুমতি ছাড়া নবী ﷺ-এর পক্ষে চলে এলে তাকে ফেরত পাঠাতে হবে, কিন্তু তাঁর পক্ষ ছেড়ে কেউ কুরাইশের কাছে চলে গেলে তাকে ফেরত দেওয়া হবে না।"
+          },
+          {
+            "en": "The mood of the camp survives in a sound report. Anas ibn Malik, in Sahih Muslim (1786), says the verses came down as the Prophet ﷺ returned from al-Hudaybiyya, while grief and dejection were mingling with them, and he had already sacrificed the offering at al-Hudaybiyya. Ma'arif al-Qur'an describes the Companions as so overcome, when told to sacrifice and shave, that no one moved, until Umm Salama (RA) advised him to do it himself before them; then they followed. Into that silence came a verse calling the moment an opening, and a clear one.",
+            "bn": "শিবিরের মনের অবস্থা একটি সহীহ বর্ণনায় ধরা আছে। সহীহ মুসলিমে (১৭৮৬) আনাস ইবন মালিক (রাঃ) বলেন, নবী ﷺ হুদায়বিয়া থেকে ফিরছিলেন, সাহাবিদের মনে তখন দুঃখ আর বিষাদ মিশে ছিল, আর তিনি হুদায়বিয়াতেই কুরবানির পশু জবাই করে ফেলেছিলেন। সেই সময় আয়াতগুলো নাযিল হয়। মাআরিফুল কুরআন জানায়, পশু জবাই আর মাথা মুণ্ডনের নির্দেশ পেয়েও সাহাবিরা এতটাই ভেঙে পড়েছিলেন যে কেউ জায়গা থেকে নড়লেন না। তখন উম্মে সালামা (রাঃ) পরামর্শ দিলেন, আপনি নিজে সবার সামনে কাজটা করুন। তিনি করলেন, আর সবাই তাঁর পিছু নিলেন। এই নীরবতার মাঝেই এল আয়াত, যা মুহূর্তটিকে বলল বিজয়, আর তাও সুস্পষ্ট বিজয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dearer Than the Sunlit World",
+          "bn": "সূর্যালোকিত দুনিয়ার চেয়েও প্রিয়"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari (4833) records a night on that road. 'Umar, riding beside the Messenger of Allah ﷺ, asked him something three times, unanswered. Then, in 'Umar's words: \"I spurred my camel and went ahead of the people, afraid that Qur'an would be revealed about me. I heard someone calling for me, and I said: I fear Qur'an has come down about me. I came to the Messenger of Allah ﷺ and greeted him, and he said: Tonight a surah has been revealed to me that is dearer to me than all the sun rises upon. Then he recited: Indeed, We have opened for you a clear opening.\"",
+            "bn": "সেই সফরের এক রাতের কথা বুখারী (৪৮৩৩) বর্ণনা করেছেন। উমর (রাঃ) রাসূলুল্লাহ ﷺ-এর পাশাপাশি চলছিলেন। তিনবার তিনি কিছু একটা জিজ্ঞেস করলেন, কোনো জবাব এল না। এরপর উমরের নিজের ভাষায়: \"আমি উট জোরে হাঁকিয়ে লোকদের আগে চলে গেলাম। ভয় হচ্ছিল, আমার ব্যাপারে না জানি কুরআনের আয়াত নাযিল হয়ে যায়। একটু পরেই শুনলাম কেউ আমাকে ডেকে ডেকে খুঁজছে। মনে মনে বললাম, ভয় হচ্ছে আমার ব্যাপারে কুরআন নাযিল হয়েছে। আমি রাসূলুল্লাহ ﷺ-এর কাছে গিয়ে সালাম দিলাম। তিনি বললেন, 'আজ রাতে আমার উপর এমন একটি সূরা নাযিল হয়েছে, যা আমার কাছে সূর্য যার উপর ওঠে তার সবকিছুর চেয়ে প্রিয়।' তারপর তিনি পড়লেন: নিশ্চয়ই আমি তোমার জন্য খুলে দিয়েছি এক সুস্পষ্ট বিজয়।\""
+          },
+          {
+            "en": "Anas's report in Muslim (1786) gives the same joy in other words: \"On me has descended a verse that is dearer to me than the whole world.\" 'Umar's fear is worth noticing too. He had pressed the Prophet ﷺ three times, met silence, and braced himself for a rebuke; the call that came for him carried good news instead. Al-Bukhari's report does not say what 'Umar had asked, and this article does not guess. The silence ended in a surah, not a reprimand, and the surah opened by naming the hard day a victory.",
+            "bn": "মুসলিমে (১৭৮৬) আনাসের বর্ণনায় একই আনন্দ ভিন্ন ভাষায় এসেছে: \"আমার উপর এমন একটি আয়াত নাযিল হয়েছে, যা আমার কাছে গোটা দুনিয়ার চেয়েও প্রিয়।\" উমরের ভয়টাও খেয়াল করার মতো। তিনবার প্রশ্ন করে জবাব না পেয়ে তিনি ধরে নিয়েছিলেন, এবার বুঝি তিরস্কার আসছে। অথচ তাঁকে যে ডাক দেওয়া হলো, তাতে ছিল সুসংবাদ। উমর কী জিজ্ঞেস করেছিলেন, বুখারীর বর্ণনায় তা নেই, আর এ লেখাও তা আন্দাজ করবে না। নীরবতা শেষ হলো ধমকে নয়, একটি সূরায়। আর সেই সূরার শুরুতেই কঠিন দিনটির নাম দেওয়া হলো বিজয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Conquest, Truly?",
+          "bn": "সন্ধিও কি বিজয় হয়?"
+        },
+        "p": [
+          {
+            "en": "Not everyone heard the word easily. Sahl ibn Hunayf, speaking at Siffin years later, recalled al-Hudaybiyya: had they seen a fight, they would have fought. 'Umar went to the Prophet ﷺ and asked why they should accept a humiliation in their religion and return before Allah had judged between them; the Prophet ﷺ answered that he was the Messenger of Allah and Allah would never abandon him. The fuller exchange is told in the article on 48:4.",
+            "bn": "শব্দটি সবাই সহজে মেনে নিতে পারেননি। বহু বছর পর সিফফীনের দিন সাহল ইবন হুনাইফ (রাঃ) হুদায়বিয়ার কথা মনে করিয়ে দেন: লড়াইয়ের সুযোগ দেখলে তাঁরা সেদিন লড়তেন। উমর (রাঃ) নবী ﷺ-এর কাছে গিয়ে জানতে চাইলেন, দ্বীনের ব্যাপারে আমরা কেন এই হীনতা মেনে নেব, আল্লাহ আমাদের আর তাদের মধ্যে ফয়সালা করার আগেই কেন ফিরে যাব? নবী ﷺ জবাব দিলেন, তিনি আল্লাহর রাসূল, আর আল্লাহ কখনো তাঁকে ছেড়ে দেবেন না। পুরো কথোপকথন আছে ৪৮:৪ আয়াতের লেখায়।"
+          },
+          {
+            "en": "Muslim (1785) gives the ending of Sahl's account, rendered here from its Arabic: \"Then the Qur'an came down to the Messenger of Allah ﷺ with the conquest. He sent for 'Umar and recited it to him. 'Umar said: Messenger of Allah, is it a conquest? He said: Yes. So his heart was at ease, and he went back.\"",
+            "bn": "সাহলের বর্ণনার শেষ অংশটি মুসলিম (১৭৮৫) এভাবে দিয়েছেন, আরবি থেকে অনুবাদ: \"তারপর রাসূলুল্লাহ ﷺ-এর উপর বিজয়ের কথা নিয়ে কুরআন নাযিল হলো। তিনি উমরকে ডেকে পাঠালেন এবং তাঁকে তা পড়ে শোনালেন। উমর বললেন: হে আল্লাহর রাসূল, এটা কি বিজয়? তিনি বললেন: হ্যাঁ। এতে তাঁর মন শান্ত হলো, আর তিনি ফিরে গেলেন।\""
+          },
+          {
+            "en": "Two things stand out. The question was real, asked by a man who loved the truth and could not yet see it here. And the answer did not argue the clauses. It pointed to what Allah had said. 'Umar's heart settled because the thing had been named by revelation, not because the terms had changed. The verse does not argue with that feeling; it gives them a name for the day that their own eyes could not yet supply.",
+            "bn": "দুটি বিষয় চোখে পড়ে। প্রশ্নটা ছিল সত্যিকারের প্রশ্ন। যিনি করেছিলেন, তিনি সত্যকে ভালোবাসতেন, কিন্তু এখানে তখনো তা দেখতে পাচ্ছিলেন না। আর জবাবে শর্তগুলো নিয়ে কোনো তর্ক হয়নি। জবাব দেখিয়ে দিল আল্লাহ কী বলেছেন। শর্ত বদলায়নি, তবু উমরের মন স্থির হলো, কারণ ওহি ঘটনাটির নাম দিয়ে দিয়েছে। আয়াত সেই অনুভূতির সঙ্গে তর্কে যায় না। তাঁদের চোখ তখনো যে নাম খুঁজে পায়নি, আয়াত দিনটিকে সেই নামই দিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Opening Is Meant?",
+          "bn": "কোন বিজয়ের কথা বলা হলো?"
+        },
+        "p": [
+          {
+            "en": "The commentators record a real disagreement over which opening is meant. Many say al-Hudaybiyya itself. Al-Bukhari (4834) has Anas on this verse in one word: \"al-Hudaybiyya.\" At-Tabari brings Jabir with his chain: we only counted the conquest as the day of al-Hudaybiyya. Ibn Kathir reports the like from Ibn Mas'ud and others. Al-Bara' ibn 'Azib, in al-Bukhari (4150), names the pledge made there: \"You count the conquest as the conquest of Makkah, and the conquest of Makkah was a conquest; but we count the conquest as the pledge of ar-Ridwan on the day of al-Hudaybiyya.\"",
+            "bn": "কোন বিজয়ের কথা বলা হয়েছে, তা নিয়ে তাফসীরকারেরা সত্যিকারের মতভেদ উল্লেখ করেছেন। অনেকের মতে খোদ হুদায়বিয়া। বুখারীতে (৪৮৩৪) এ আয়াত প্রসঙ্গে আনাসের (রাঃ) কথা একটিমাত্র শব্দ: \"হুদায়বিয়া।\" তাবারী সনদসহ জাবিরের (রাঃ) উক্তি আনেন: আমরা হুদায়বিয়ার দিনটিকেই বিজয় গণ্য করতাম। ইবন কাসীর ইবন মাসঊদ (রাঃ) ও অন্যদের থেকেও এমন কথা উল্লেখ করেন। বুখারীতে (৪১৫০) বারা ইবন আযিব (রাঃ) সেখানে নেওয়া বাইআতের নাম বলেন: \"তোমরা মক্কা বিজয়কেই বিজয় গণ্য করো। মক্কা বিজয় অবশ্যই বিজয় ছিল। কিন্তু আমরা বিজয় গণ্য করি হুদায়বিয়ার দিনের বাইআতুর রিদওয়ানকে।\""
+          },
+          {
+            "en": "Al-Baghawi says most hold this view, and al-Qurtubi that the first view has more behind it. Other readings are recorded too. Al-Baghawi reports, through Abu Ja'far ar-Razi from Qatada from Anas, that it means the conquest of Makkah; he also gives Shu'ba's route from Qatada from Anas, which says al-Hudaybiyya. Mujahid, in al-Baghawi, took it as the conquest of Khaybar; al-Qurtubi gives that from Mujahid and al-'Awfi, then answers that Khaybar was at this point a promise, pointing ahead to 48:15 and 48:20.",
+            "bn": "বাগাভী বলেন, অধিকাংশের মত এটাই। কুরতুবী বলেন, প্রথম মতের পক্ষেই লোক বেশি। তবে অন্য মতও বর্ণিত আছে। বাগাভী আবু জা'ফর রাযীর সূত্রে কাতাদা থেকে, তিনি আনাস থেকে বর্ণনা করেন যে এর অর্থ মক্কা বিজয়। আবার শু'বার সূত্রে কাতাদা থেকে আনাসের যে বর্ণনা তিনি দেন, তাতে আছে হুদায়বিয়া। বাগাভীর বর্ণনায় মুজাহিদ একে খাইবার বিজয় বলেছেন। কুরতুবী এ মত মুজাহিদ ও আওফী থেকে এনে জবাব দেন: খাইবার তখনো ছিল একটি প্রতিশ্রুতি মাত্র। এর প্রমাণ হিসেবে তিনি সামনের ৪৮:১৫ ও ৪৮:২০ আয়াতের দিকে ইঙ্গিত করেন।"
+          },
+          {
+            "en": "At-Tabari and al-Qurtubi also bring a narrower reading from Mujahid: the opening was the Prophet's sacrifice at al-Hudaybiyya and the shaving of his head. At-Tabari himself says the opening, as reported, is the truce made with the polytheists of Quraysh at al-Hudaybiyya. Ma'arif al-Qur'an joins the two great names, calling the treaty the forerunner of the conquest of Makkah, in which the Prophet's dream of entering the House came true. This article takes no side; each view stands here as its commentator gives it.",
+            "bn": "তাবারী ও কুরতুবী মুজাহিদের আরেকটি সংকীর্ণ ব্যাখ্যাও আনেন: হুদায়বিয়ায় নবী ﷺ-এর কুরবানি আর মাথা মুণ্ডনই সেই বিজয়। তাবারী নিজে বলেন, বর্ণনা অনুযায়ী এ বিজয় হলো হুদায়বিয়ায় কুরাইশ মুশরিকদের সঙ্গে হওয়া সন্ধি। মাআরিফুল কুরআন দুই বড় নামকে এক সুতোয় গাঁথে। তার মতে এ সন্ধি ছিল মক্কা বিজয়ের পূর্বসূচনা, আর সেই মক্কা বিজয়েই আল্লাহর ঘরে প্রবেশের ব্যাপারে নবী ﷺ-এর স্বপ্ন সত্য হয়। এ লেখা কোনো পক্ষ নিচ্ছে না। প্রতিটি মত এখানে রাখা হলো তাফসীরকার যেভাবে দিয়েছেন, সেভাবেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Ruling and an Unlocking",
+          "bn": "ফয়সালা, আবার তালা খোলা"
+        },
+        "p": [
+          {
+            "en": "The word itself carries more than one sense. At-Tabari, with his chain to Qatada, glosses fatahna as qadayna: We have decreed for you a clear decree; in a second report from Qatada, al-fath is al-qada', judgement. His own paraphrase follows that line: We have judged in your favour, O Muhammad, a judgement plain to whoever hears of it, against those of your people who opposed you, and decreed for you victory and triumph over them, so that you thank your Lord. Al-Baghawi gives the same gloss, and al-Qurtubi relays it from Muqatil.",
+            "bn": "শব্দটির ভেতরে একাধিক অর্থ আছে। তাবারী সনদসহ কাতাদার ব্যাখ্যা আনেন: ফাতাহনা মানে কাদাইনা, আমি তোমার জন্য এক সুস্পষ্ট ফয়সালা করে দিয়েছি। কাতাদার আরেক বর্ণনায় আছে, আল-ফাতহ মানে আল-কাদা, অর্থাৎ ফয়সালা। তাবারীর নিজের ব্যাখ্যাও এই পথে চলে। হে মুহাম্মাদ, তোমার কওমের যারা তোমার বিরোধিতা করেছে, তাদের বিরুদ্ধে আমি তোমার পক্ষে এমন রায় দিয়েছি যা শুনলেই যে কেউ বুঝতে পারে। তাদের উপর তোমার সাহায্য ও জয় নির্ধারণ করে দিয়েছি, যাতে তুমি তোমার রবের শোকর আদায় করো। বাগাভীও একই অর্থ দেন, আর কুরতুবী তা মুকাতিল থেকে উদ্ধৃত করেন।"
+          },
+          {
+            "en": "Al-Baghawi adds the root sense: fath is opening what was locked, and peace with the polytheists at al-Hudaybiyya had been out of reach until Allah opened it. Ad-Dahhak, in al-Baghawi and al-Qurtubi: a clear opening without fighting, and the peace was part of the conquest. Mubin, clear, Ibn Kathir explains as plain and manifest, and as-Sa'di and al-Muyassar as evident and unmistakable. Al-Qurtubi records, as something said, that fath used alone properly means a place taken by force, and is applied to a peace only by extension; Ma'arif al-Qur'an notes that the jurists differ over how Makkah itself was taken.",
+            "bn": "বাগাভী শব্দের মূল অর্থটিও যোগ করেন: ফাতহ মানে বন্ধ জিনিস খুলে দেওয়া। হুদায়বিয়ায় মুশরিকদের সঙ্গে সন্ধি ছিল নাগালের বাইরে, আল্লাহ তা খুলে দিলেন। বাগাভী ও কুরতুবীতে দাহহাকের কথা: লড়াই ছাড়াই সুস্পষ্ট বিজয়, আর সন্ধিও ছিল বিজয়েরই অংশ। মুবীন, অর্থাৎ সুস্পষ্ট। ইবন কাসীর এর ব্যাখ্যা দেন প্রকাশ্য ও পরিষ্কার, আর সা'দী ও মুয়াসসার বলেন দৃশ্যমান, যাতে কোনো অস্পষ্টতা নেই। কুরতুবী 'বলা হয়' বলে একটি মত আনেন: শুধু ফাতহ বললে আসলে বোঝায় শক্তি দিয়ে দখল করা জায়গা, সন্ধির বেলায় শব্দটি খাটে রূপক অর্থে। মাআরিফুল কুরআন জানায়, মক্কা কীভাবে বিজিত হয়েছিল, তা নিয়ে ফকীহদের মধ্যে মতভেদ আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Doors a Truce Opened",
+          "bn": "সন্ধি যে দরজা খুলে দিল"
+        },
+        "p": [
+          {
+            "en": "Why call a truce a conquest? As-Sa'di answers from its results. Once people were safe from one another, the reach of the call to Allah's religion widened; every believer, wherever he was in those lands, could take part in it, and anyone eager to learn the truth of Islam could reach it. So people entered Allah's religion in crowds during that period. That, he says, is why Allah called it a conquest: the aim in opening the lands of the polytheists is the honour of Allah's religion and the victory of the Muslims, and this opening achieved it.",
+            "bn": "একটি সন্ধিকে বিজয় বলা হলো কেন? সা'দী এর জবাব দেন ফলাফল দেখিয়ে। মানুষ যখন একে অপরের কাছ থেকে নিরাপদ হলো, আল্লাহর দ্বীনের দাওয়াতের পরিধি বেড়ে গেল। সেসব অঞ্চলের যেখানেই কোনো মুমিন থাকুক, তিনি এ কাজে শরিক হতে পারলেন। আর ইসলামের আসল রূপ জানতে আগ্রহী যে কেউ তা জানার সুযোগ পেল। ফলে সেই সময়ে মানুষ দলে দলে আল্লাহর দ্বীনে প্রবেশ করল। সা'দী বলেন, এ কারণেই আল্লাহ একে বিজয় বলেছেন। মুশরিকদের দেশ জয়ের লক্ষ্যই হলো আল্লাহর দ্বীনের মর্যাদা আর মুসলমানদের সাহায্য, আর এই বিজয়ে সেটাই অর্জিত হয়েছে।"
+          },
+          {
+            "en": "Ibn Kathir describes the same good: people were safe and met one another, the believer spoke with the disbeliever, and beneficial knowledge and faith spread. Az-Zuhri, quoted by al-Qurtubi, gives numbers. The Prophet ﷺ came to al-Hudaybiyya with fourteen hundred; once the peace held, people mixed, learned and heard about Allah, and whoever wanted Islam could reach it, so that within those two years the Muslims came to Makkah ten thousand strong. Al-Baghawi has az-Zuhri say there was no conquest greater than that truce.",
+            "bn": "ইবন কাসীরও একই কল্যাণের বর্ণনা দেন: মানুষ নিরাপদ হলো, একে অপরের সঙ্গে মেলামেশা করল, মুমিন কাফিরের সঙ্গে কথা বলল, আর উপকারী জ্ঞান ও ঈমান ছড়িয়ে পড়ল। কুরতুবী যুহরীর যে কথা উদ্ধৃত করেন, তাতে সংখ্যাও আছে। নবী ﷺ হুদায়বিয়ায় এসেছিলেন ১,৪০০ জন নিয়ে। সন্ধি হওয়ার পর মানুষ মিশল, আল্লাহর কথা জানল ও শুনল। যে ইসলাম চাইল, সে তার নাগাল পেল। ফলে ওই দুই বছর না যেতেই মুসলমানরা ১০,০০০ জন নিয়ে মক্কায় এলেন। বাগাভীর বর্ণনায় যুহরী বলেন, এ সন্ধির চেয়ে বড় কোনো বিজয় হয়নি।"
+          },
+          {
+            "en": "Ash-Sha'bi, in at-Tabari, al-Baghawi and al-Qurtubi, lists what came with that expedition: the pledge of ar-Ridwan, the forgiveness promised in 48:2, the palms of Khaybar to eat from, the offering reaching its place, and the Byzantines prevailing over Persia, at which the believers rejoiced. When Makkah was opened later, the surah itself was heard there. 'Abdullah ibn Mughaffal says in al-Bukhari (4281): \"I saw Allah's Messenger ﷺ on the day of the Conquest of Mecca over his she-camel, reciting Surat-al-Fath in a vibrant quivering tone.\"",
+            "bn": "তাবারী, বাগাভী ও কুরতুবীতে শা'বী সেই অভিযানের প্রাপ্তিগুলোর তালিকা দেন: বাইআতুর রিদওয়ান, ৪৮:২ আয়াতে প্রতিশ্রুত ক্ষমা, খাইবারের খেজুর বাগানের ফল, কুরবানির পশুর নির্ধারিত স্থানে পৌঁছানো, আর পারস্যের উপর রোমানদের জয়, যাতে মুমিনরা আনন্দিত হলেন। পরে মক্কা যখন বিজিত হলো, এই সূরাটিই সেখানে ধ্বনিত হলো। বুখারীতে (৪২৮১) আবদুল্লাহ ইবন মুগাফফাল (রাঃ) বলেন: \"মক্কা বিজয়ের দিন আমি রাসূলুল্লাহ ﷺ-কে তাঁর উটনীর পিঠে দেখেছি। তিনি সূরা আল-ফাতহ পড়ছিলেন, কণ্ঠ ওঠানামা করিয়ে।\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gratitude, Not a Battle Cry",
+          "bn": "যুদ্ধের স্লোগান নয়, শোকর"
+        },
+        "p": [
+          {
+            "en": "The sentence does not stop here. It runs on into 48:2 and 48:3: that Allah may forgive you, complete His favour upon you, guide you on a straight path and aid you with a mighty aid. Those verses raise their own questions, not argued here. At-Tabari reads the promised forgiveness as Allah's reward for the Prophet's gratitude for the opening. Al-Mughira, in al-Bukhari (4836), shows that gratitude: \"The Prophet ﷺ stood in prayer until his feet swelled. It was said to him: Allah has forgiven you what came before of your sin and what came after. He said: Should I not be a grateful servant?\"",
+            "bn": "বাক্যটি এখানেই শেষ নয়। তা গড়িয়ে গেছে ৪৮:২ ও ৪৮:৩ আয়াতে: যাতে আল্লাহ তোমাকে ক্ষমা করেন, তোমার উপর তাঁর নিয়ামত পূর্ণ করেন, তোমাকে সরল পথে চালান আর প্রবল সাহায্যে সাহায্য করেন। ওই আয়াতগুলোর নিজস্ব প্রশ্ন আছে, এখানে সে আলোচনা হচ্ছে না। তাবারীর মতে প্রতিশ্রুত এই ক্ষমা হলো বিজয়ের জন্য নবী ﷺ-এর শোকরের প্রতিদান। বুখারীতে (৪৮৩৬) মুগীরা (রাঃ) সেই শোকরের ছবি দেন: \"নবী ﷺ নামাযে দাঁড়িয়ে থাকতেন, এমনকি তাঁর পা ফুলে যেত। তাঁকে বলা হলো: আল্লাহ তো আপনার আগের ও পরের গুনাহ ক্ষমা করে দিয়েছেন। তিনি বললেন: তবে কি আমি একজন কৃতজ্ঞ বান্দা হব না?\""
+          },
+          {
+            "en": "This must be said plainly. The verse speaks of one opening, granted by Allah to one Messenger ﷺ at one moment of his mission, and every commentator read here explains it from that history. It licenses no present-day conquest, war or political project, and no person or movement may borrow the word fath to bless a campaign of its own. What the verse called a clear opening was a written peace, and its fruit, as the commentators describe it, came through people meeting and hearing.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটিমাত্র বিজয়ের কথা বলে, যা আল্লাহ দিয়েছিলেন একজন রাসূল ﷺ-কে, তাঁর মিশনের একটি নির্দিষ্ট সময়ে। এখানে যত তাফসীর পড়া হয়েছে, সবাই একে সেই ইতিহাস দিয়েই ব্যাখ্যা করেছেন। আজকের কোনো দখল, যুদ্ধ বা রাজনৈতিক কর্মসূচির অনুমতি এ আয়াত দেয় না। কোনো ব্যক্তি বা দল নিজের অভিযানকে বৈধতা দিতে ফাতহ শব্দটি ধার নিতে পারে না। আয়াত যাকে সুস্পষ্ট বিজয় বলেছে, তা ছিল লিখিত একটি সন্ধি। তাফসীরকারদের বর্ণনায় তার ফল এসেছিল মানুষের মেলামেশা আর কথা শোনার পথ ধরে।"
+          },
+          {
+            "en": "For the reader, the lesson is in how a day is judged. The Companions weighed the treaty by what they could see that evening: an 'umrah missed, a clause that hurt, animals sacrificed short of the House. Allah named it by what He knew it would open. Our own setbacks will not be named in revelation, but the habit is open to anyone: hold back the verdict on a hard day, keep to what is right under terms you dislike, and leave the naming to Allah.",
+            "bn": "পাঠকের জন্য শিক্ষাটা দিনের বিচার নিয়ে। সাহাবিরা সন্ধিকে মেপেছিলেন সেদিন সন্ধ্যায় চোখের সামনে যা ছিল তা দিয়ে: উমরা হলো না, একটি শর্ত বুকে বিঁধল, কুরবানির পশু জবাই হলো আল্লাহর ঘরে পৌঁছানোর আগেই। আল্লাহ এর নাম দিলেন, কারণ তিনি জানতেন এ সন্ধি কী কী খুলে দেবে। আমাদের জীবনের ধাক্কাগুলোর নাম ওহিতে আসবে না। কিন্তু অভ্যাসটা যে কেউ গড়তে পারেন: কঠিন দিনে রায় দিতে তাড়াহুড়া করবেন না, অপছন্দের শর্তেও ন্যায়ের উপর থাকুন, আর নাম দেওয়ার ভারটা আল্লাহর উপর ছেড়ে দিন।"
+          }
+        ]
+      }
+    ]
+  },
   "48:4": {
     "sections": [
       {

@@ -38371,6 +38371,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Guard the good you have already done: obey Allah and His Messenger, and do not spoil your deeds by showing off, by reminders of favour, or by sin.",
     "lessonBn": "যে নেক আমল করে ফেলেছেন, তা আগলে রাখুন। আল্লাহ ও তাঁর রসূলের আনুগত্য করুন, আর লোক দেখানো, খোঁটা দেওয়া বা গুনাহ দিয়ে নিজের আমল নষ্ট করবেন না।"
+  },
+  "48:1": {
+    "reflectionEn": "They had set out to visit the House and were turned back at its edge. The terms felt like a loss to many of them, and they rode home with their sacrificial animals slaughtered short of their place. On that road home came five words: indeed, We have opened for you a clear opening. Allah named as a victory what the eye read as a setback, and in the years that followed, the doors it opened came into view. I tend to judge a day by what I can see that evening. When a door seems to close on me, do I call it defeat too quickly? And when I must accept terms I dislike for something larger, do I trust that Allah sees further than I do?",
+    "reflectionBn": "তাঁরা বের হয়েছিলেন আল্লাহর ঘর যিয়ারতে, অথচ একেবারে দোরগোড়া থেকে ফিরে আসতে হলো। যে শর্তে রাজি হতে হলো, অনেকের কাছেই তা হারের মতো লাগল। কুরবানির পশু যেখানে পৌঁছানোর কথা, তার আগেই জবাই করে তাঁরা বাড়ির পথ ধরলেন। সেই ফেরার পথেই এল পাঁচটি শব্দ: নিশ্চয়ই আমি তোমার জন্য খুলে দিয়েছি এক সুস্পষ্ট বিজয়। চোখ যাকে পিছু হটা ভেবেছিল, আল্লাহ তার নাম দিলেন বিজয়। পরের বছরগুলোতে সেই বিজয় যে কত দরজা খুলে দিয়েছিল, তা একে একে চোখের সামনে এল। আমি প্রায়ই দিনের বিচার করি সন্ধ্যাবেলা যা দেখি তা দিয়ে। কোনো দরজা বন্ধ হয়ে গেছে মনে হলে আমি কি খুব তাড়াতাড়ি সেটাকে পরাজয় বলে ফেলি? আর বড় কোনো কল্যাণের জন্য অপছন্দের শর্ত মেনে নিতে হলে আমি কি ভরসা রাখি যে আল্লাহ আমার চেয়ে অনেক দূর পর্যন্ত দেখেন?",
+    "pointsEn": [
+      "Which recent setback have I already filed away as a defeat, before its consequences have had time to show?",
+      "When I had to accept terms I disliked, did I keep to what was right, or did I let resentment do the talking?",
+      "Do I measure success by what I win on the day itself, or by the doors that stay open afterwards?",
+      "When a question I carry to Allah seems to go unanswered for a while, do I keep walking as someone who expects the answer to come?",
+      "What peace could I make this week that would feel like giving ground, yet would open a way that a quarrel keeps shut?"
+    ],
+    "pointsBn": [
+      "সাম্প্রতিক কোন ধাক্কাটাকে আমি এর মধ্যেই পরাজয়ের খাতায় তুলে রেখেছি, অথচ তার ফলাফল দেখা দেওয়ার সময়ই এখনো আসেনি?",
+      "অপছন্দের শর্ত যখন মেনে নিতে হয়েছিল, তখন কি আমি ন্যায়ের উপর অটল ছিলাম, নাকি ক্ষোভকেই কথা বলতে দিয়েছিলাম?",
+      "সাফল্য আমি কী দিয়ে মাপি: সেদিন হাতে কী এল তা দিয়ে, নাকি পরে কোন কোন দরজা খোলা রইল তা দিয়ে?",
+      "আল্লাহর কাছে নিয়ে যাওয়া কোনো প্রশ্নের জবাব কিছুদিন না এলে আমি কি এমনভাবে পথ চলতে থাকি, যেন জবাব আসবেই?",
+      "এ সপ্তাহে এমন কোন আপস আমি করতে পারি, যা দেখতে ছাড় দেওয়ার মতো, অথচ ঝগড়া যে পথ বন্ধ করে রাখে তা খুলে দেবে?"
+    ],
+    "lessonEn": "Allah may name as a victory what the eye first reads as a setback; judge by His word and by what follows, not by how the day looked.",
+    "lessonBn": "চোখ প্রথমে যাকে পিছু হটা ভাবে, আল্লাহ তাকেই বিজয় বলতে পারেন। তাই সেদিনটা কেমন দেখাল তা দিয়ে নয়, তাঁর কথা আর পরে যা ঘটে তা দিয়ে বিচার করুন।"
   }
 };
 
