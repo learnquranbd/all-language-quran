@@ -1983,6 +1983,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "39:39": {
+    "sections": [
+      {
+        "h": {
+          "en": "Once the Argument Was Done",
+          "bn": "যুক্তির পালা শেষ হলে"
+        },
+        "p": [
+          {
+            "en": "The verse comes at the end of an exchange. In 39:36 Allah asks whether He is not sufficient for His servant, and adds: they threaten you with those besides Him. Ibn Kathir, in the abridged English, explains that the idolaters tried to frighten the Messenger ﷺ with the idols and gods they called on besides Allah. Then 39:38 has them answer the decisive question: asked who created the heavens and the earth, they say Allah. The Prophet ﷺ is told to ask whether their gods could lift a harm Allah intended, and to say: Allah is enough for me.",
+            "bn": "আয়াতটি আসে একটি কথোপকথনের শেষ মাথায়। ৩৯:৩৬ আয়াতে আল্লাহ প্রশ্ন করেন, তিনি কি তাঁর বান্দার জন্য যথেষ্ট নন? সঙ্গে জানান, ওরা তোমাকে তিনি ছাড়া অন্যদের ভয় দেখায়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, মুশরিকরা আল্লাহকে ছেড়ে যেসব মূর্তি ও দেবতাকে ডাকত, সেগুলোর ভয় দেখিয়ে তারা রাসূল ﷺ-কে দমাতে চেয়েছিল। এরপর ৩৯:৩৮ আয়াতে তাদের নিজের মুখেই জবাব আদায় হয়: আসমান ও জমিন কে সৃষ্টি করেছে? তারা বলে, আল্লাহ। নবী ﷺ-কে বলা হয় জিজ্ঞেস করতে, আল্লাহ কোনো ক্ষতি চাইলে তাদের দেবতারা কি তা সরাতে পারবে? তারপর বলতে: আল্লাহই আমার জন্য যথেষ্ট।"
+          },
+          {
+            "en": "Ibn Kathir's comment there is that they acknowledged Allah as the Creator of all things and still worshipped others who could neither benefit nor harm. After that, nothing is left to prove. Verse 39:39 opens with another qul, say, and it brings no further argument. At-Tabari names who is being addressed: say, O Muhammad, to the idolaters of your people, who took idols and images as gods to worship besides Allah. The verse's last clause, you will come to know, does not finish inside the verse; its object is the whole of 39:40.",
+            "bn": "সেখানে ইবন কাসীর মন্তব্য করেন: তারা আল্লাহকে সবকিছুর স্রষ্টা বলে মানত, তবু এমন সত্তার ইবাদত করত যারা উপকারও করতে পারে না, ক্ষতিও না। এরপর প্রমাণ করার আর কিছু বাকি থাকে না। ৩৯:৩৯ আয়াত শুরু হয় আরেকটি কুল দিয়ে, অর্থাৎ বলুন, কিন্তু নতুন কোনো যুক্তি আনে না। কাদের উদ্দেশে বলা, তাবারী তা স্পষ্ট করেন: হে মুহাম্মাদ, আপনার কওমের মুশরিকদের বলুন, যারা আল্লাহকে বাদ দিয়ে মূর্তি আর প্রতিমাকে উপাস্য বানিয়ে পূজা করত। শেষ অংশ, তোমরা জানতে পারবে, আয়াতের ভেতরে শেষ হয় না। কী জানবে, তা পুরোটাই ৩৯:৪০ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Each Party Stands",
+          "bn": "কে কোথায় দাঁড়িয়ে"
+        },
+        "p": [
+          {
+            "en": "I'malu 'ala makanatikum: work according to your makanah. At-Tabari carries Mujahid's gloss, through Ibn Abi Najih, 'ala nahiyatikum, on your side. His own paraphrase is fuller: work, O people, 'ala tamakkunikum min al-'amal alladhi ta'malun wa manazilikum, according to your capacity for the work you are doing, and according to your stations. Ibn Kathir, in the Arabic, gives a single word, 'ala tariqatikum, on your way. So one reading looks at where a person stands, another at what he is able to do from there, and a third at the path he has taken.",
+            "bn": "ই'মালু আলা মাকানাতিকুম: তোমাদের মাকানাহ অনুযায়ী কাজ করো। তাবারী ইবন আবী নাজীহের সূত্রে মুজাহিদের ব্যাখ্যা আনেন: আলা নাহিয়াতিকুম, তোমাদের দিক থেকে। তাঁর নিজের ব্যাখ্যা আরেকটু বিস্তৃত। হে লোকসকল, তোমরা যে কাজ করছ সে কাজে তোমাদের যতটুকু সামর্থ্য আছে, আর তোমরা যে অবস্থানে আছ, সে অনুযায়ী কাজ করো। ইবন কাসীর আরবিতে একটি শব্দেই সারেন: আলা তারীকাতিকুম, তোমাদের পথে। তাহলে এক ব্যাখ্যার চোখ মানুষটি কোথায় দাঁড়িয়ে সেদিকে। আরেকটির চোখ সেখান থেকে সে কী করতে পারে সেদিকে। তৃতীয়টির চোখ সে কোন পথ ধরেছে সেদিকে।"
+          },
+          {
+            "en": "As-Sa'di and the Muyassar read the word as a condition chosen: 'ala halatikum allati raditumuha li-anfusikum, on the state you have accepted for yourselves. As-Sa'di names that state, the worship of a being that deserves no worship at all and has no say in the matter, which echoes the helpless gods of 39:38. Al-Qurtubi comments on the Prophet's side: inni 'amil means on my makanah, that is, 'ala jihati allati tamakkanat 'indi, on my direction that has become firm with me. The glosses differ in emphasis, not in substance.",
+            "bn": "সা'দী আর মুয়াসসার শব্দটিকে পড়েন বেছে নেওয়া অবস্থা হিসেবে: আলা হালাতিকুমুল্লাতী রাদীতুমূহা লি-আনফুসিকুম, যে অবস্থা তোমরা নিজেদের জন্য পছন্দ করে নিয়েছ। সা'দী সেই অবস্থার নামও বলেন: এমন সত্তার ইবাদত, যে ইবাদতের কণামাত্র হকদার নয়, আর কোনো বিষয়ে যার কোনো এখতিয়ার নেই। ৩৯:৩৮ আয়াতের অসহায় দেবতাদের কথাই এতে ফিরে আসে। কুরতুবী মন্তব্য করেন নবী ﷺ-এর দিকটি নিয়ে। ইন্নী আমিল মানে আমার মাকানাহর উপর, অর্থাৎ আমার সেই দিক, যা আমার কাছে দৃঢ় হয়ে বসে গেছে। ব্যাখ্যাগুলোর ঝোঁক আলাদা, মূল কথা আলাদা নয়।"
+          },
+          {
+            "en": "There is also a difference of reading. Al-Qurtubi reports that Abu Bakr read the word in the plural, makanat rather than makanah, and says the point has already been discussed under al-An'am, where the same command stands at 6:135. Neither he nor any other commentary read for this verse builds a separate meaning on the plural, and the glosses above serve both readings. Singular or plural, the address does not change: each of you, carry on from the place you have chosen, with whatever power you have there.",
+            "bn": "পাঠেও একটা ভিন্নতা আছে। কুরতুবী জানান, আবু বকর শব্দটি বহুবচনে পড়েছেন, মাকানাহর বদলে মাকানাত। তিনি বলেন, বিষয়টি সূরা আন'আমে আগেই আলোচিত হয়েছে, যেখানে ৬:১৩৫ আয়াতে একই আদেশ আছে। বহুবচন পাঠের উপর তিনি বা এ আয়াতের জন্য পড়া অন্য কোনো তাফসীর আলাদা কোনো অর্থ দাঁড় করাননি। উপরের ব্যাখ্যাগুলো দুই পাঠেই খাটে। একবচন হোক বা বহুবচন, সম্বোধন একই থাকে: তোমরা প্রত্যেকে যে জায়গা বেছে নিয়েছ, সেখান থেকে, যতটুকু শক্তি আছে তা নিয়ে, চালিয়ে যাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Permission in Form Only",
+          "bn": "শুধু চেহারায় অনুমতি"
+        },
+        "p": [
+          {
+            "en": "On its surface the verse is an imperative addressed to people who worship idols: work, carry on. Ibn Kathir closes that door at once: wa hadha tahdidun wa wa'id, and this is a threat and a warning. Al-Qurtubi, who sends the reader back from here to al-An'am, raises the objection there in so many words: how could disbelievers be commanded to stay firm on what they are on? His answer is that it is a threat, like Allah's words in 9:82, let them laugh a little and weep much, and that what follows shows it: you will come to know.",
+            "bn": "বাইরে থেকে আয়াতটি মূর্তিপূজকদের প্রতি একটি আদেশ: কাজ করো, চালিয়ে যাও। ইবন কাসীর সঙ্গে সঙ্গে সে ভুল বোঝার দরজা বন্ধ করেন: ওয়া হাযা তাহদীদুন ওয়া ওয়া'ঈদ, এটা হুমকি আর সতর্কবাণী। কুরতুবী এখান থেকে পাঠককে সূরা আন'আমে ফেরত পাঠান। সেখানে তিনি আপত্তিটা সরাসরি তোলেন: কাফিরদের কীভাবে আদেশ দেওয়া যায় যে তারা যেমন আছে তেমনই অটল থাকুক? তাঁর জবাব, এটা হুমকি। যেমন ৯:৮২ আয়াতে আল্লাহ বলেছেন, তারা অল্প হাসুক, আর বেশি কাঁদুক। আর পরের কথাটিই তা প্রমাণ করে: তোমরা জানতে পারবে।"
+          },
+          {
+            "en": "Surah az-Zumar has used this form before. In 39:15 the Prophet ﷺ is told to say fa'budu ma shi'tum min dunih, worship what you will besides Him, and the same verse goes straight on: the losers are those who lose themselves and their families on the Day of Resurrection. There, as here, the permission-shaped words are followed at once by what they lead to. At-Tabari's paraphrase of our verse keeps the same order, since the knowing he describes comes idha ja'akum ba'su llah, when Allah's punishing might reaches you.",
+            "bn": "সূরা যুমার এই ভঙ্গি আগেও ব্যবহার করেছে। ৩৯:১৫ আয়াতে নবী ﷺ-কে বলতে বলা হয়: ফা'বুদূ মা শি'তুম মিন দূনিহ, তাঁকে ছাড়া যার ইচ্ছা তার ইবাদত করো। সেই আয়াতেই ঠিক পরে আসে: আসল ক্ষতিগ্রস্ত তারা, যারা কিয়ামতের দিন নিজেদের আর নিজেদের পরিবারকে হারিয়েছে। সেখানেও, এখানেও, অনুমতির মতো শোনানো কথার ঠিক পিছনেই আসে তার পরিণাম। আমাদের আয়াতের ব্যাখ্যায় তাবারীও এই ক্রম ধরে রাখেন। তিনি যে জানার কথা বলেন, তা আসবে ইযা জাআকুম বা'সুল্লাহ, যখন আল্লাহর শাস্তির পাকড়াও তোমাদের উপর এসে পড়বে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Working Without Haste",
+          "bn": "তাড়াহুড়োহীন কাজ"
+        },
+        "p": [
+          {
+            "en": "The Prophet's half of the sentence is two words: inni 'amil, I am working. In at-Tabari's commentary, after Mujahid's gloss, it is filled out like this: I too am working, 'ala tu'adah, with deliberateness, 'ala 'amali man salafa min anbiya'i llahi qabli, on the work of those of Allah's prophets who went before me. Tu'adah is calm and unhurried steadiness, the opposite of acting in a rush. Ibn Kathir supplies 'ala tariqati wa manhaji, on my way and my method, matching the way he gave the other side.",
+            "bn": "বাক্যের যে অংশ নবী ﷺ-এর, তা মাত্র দুই শব্দ: ইন্নী আমিল, আমি কাজ করছি। তাবারীর তাফসীরে মুজাহিদের ব্যাখ্যার পরে কথাটা এভাবে খোলা হয়েছে: আমিও কাজ করছি, আলা তুআদাহ, ধীরস্থিরভাবে, আমার আগে আল্লাহর যে নবীরা গত হয়েছেন তাঁদের কাজের ধারায়। তুআদাহ মানে শান্ত, তাড়াহুড়োহীন অবিচলতা। হুড়মুড় করে কিছু করার ঠিক উল্টো। ইবন কাসীর যোগ করেন আলা তারীকাতী ওয়া মানহাজী, আমার পথে আর আমার পদ্ধতিতে। অন্য পক্ষের জন্য তিনি যে পথ শব্দটি দিয়েছিলেন, তার সঙ্গে মিলিয়েই।"
+          },
+          {
+            "en": "As-Sa'di names the content of that work: 'ala ma da'awtukum ilayhi min ikhlasi d-dini lillahi ta'ala wahdah, on what I have called you to, devoting the religion sincerely to Allah alone. The Muyassar says: on what I was commanded, turning to Allah alone in my words and my deeds. This is the surah's own thread. Verse 39:2 commands worship of Allah mukhlisan lahu d-din, making the religion His alone; 39:11 has the Prophet ﷺ say he was commanded exactly that; and 39:14 has him say: Allah alone I worship, making my religion sincerely His.",
+            "bn": "সেই কাজটা কী, সা'দী তা বলে দেন: আমি তোমাদের যেদিকে ডেকেছি, অর্থাৎ দ্বীনকে একমাত্র আল্লাহর জন্য খাঁটি করা, তার উপর। মুয়াসসার বলে: আমাকে যা আদেশ করা হয়েছে, কথায় ও কাজে একমাত্র আল্লাহর দিকে মুখ ফেরানো, তার উপর। এটাই সূরাটির নিজস্ব সুতো। ৩৯:২ আয়াতে আদেশ আসে আল্লাহর ইবাদত করার, মুখলিসান লাহুদ দ্বীন, দ্বীনকে কেবল তাঁর জন্য খাঁটি করে। ৩৯:১১ আয়াতে নবী ﷺ বলেন, ঠিক এই আদেশই তাঁকে দেওয়া হয়েছে। আর ৩৯:১৪ আয়াতে তিনি বলেন: আমি শুধু আল্লাহরই ইবাদত করি, আমার দ্বীনকে তাঁর জন্য খাঁটি করে।"
+          },
+          {
+            "en": "Read with those verses, the two halves of 39:39 are not symmetrical. The listeners' footing, in as-Sa'di's words, is a state they accepted for themselves. The Prophet's footing, in as-Sa'di and the Muyassar, is what he called to and what he was commanded, and at-Tabari ties it to the prophets before him. The listeners keep to what they chose; he keeps to what he was given. The surah has already stated his position three times, so two words are enough here.",
+            "bn": "ওই আয়াতগুলোর পাশে রেখে পড়লে ৩৯:৩৯ আয়াতের দুই অংশ সমান মাপের থাকে না। সা'দীর ভাষায় শ্রোতাদের অবস্থান এমন এক অবস্থা, যা তারা নিজেরাই নিজেদের জন্য পছন্দ করে নিয়েছে। আর সা'দী ও মুয়াসসারের কাছে নবী ﷺ-এর অবস্থান হলো তিনি যেদিকে ডেকেছেন আর তাঁকে যা আদেশ করা হয়েছে। তাবারী সেটাকে জুড়ে দেন তাঁর আগের নবীদের সঙ্গে। শ্রোতারা আঁকড়ে আছে নিজেদের বেছে নেওয়া জিনিস, আর তিনি আঁকড়ে আছেন যা তাঁকে দেওয়া হয়েছে। তাঁর অবস্থান সূরাটি এর আগেই তিনবার জানিয়ে দিয়েছে, তাই এখানে দুই শব্দই যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sentence Prophets Shared",
+          "bn": "নবীদের মুখে একই বাক্য"
+        },
+        "p": [
+          {
+            "en": "The wording is not new to the Qur'an. The command to say i'malu 'ala makanatikum, inni 'amil also stands at 6:135, with a different ending, and at 11:121 without the clause about the speaker. At 11:93 Shu'ayb (AS) says it to his own people, and goes on: you will come to know who receives a disgracing punishment, and who is a liar. And the words of 39:40, fa-sawfa ta'lamuna man ya'tihi 'adhabun yukhzihi wa yahillu 'alayhi 'adhabun muqim, appear word for word at 11:39, spoken by Nuh (AS) to the chiefs of his people who mocked him as he built the ship.",
+            "bn": "কুরআনে এ ভাষা নতুন নয়। ই'মালু আলা মাকানাতিকুম, ইন্নী আমিল বলার আদেশ ৬:১৩৫ আয়াতেও আছে, শেষটা ভিন্ন। ১১:১২১ আয়াতেও আছে, তবে বক্তার নিজের কথাটুকু ছাড়া। ১১:৯৩ আয়াতে শুআইব (আঃ) নিজের কওমকে এ কথা বলেন, তারপর যোগ করেন: শিগগিরই জানতে পারবে, কার উপর আসে লাঞ্ছনাকর শাস্তি, আর কে মিথ্যাবাদী। আর ৩৯:৪০ আয়াতের শব্দগুলো, ফা-সাওফা তা'লামূনা মাই ইয়া'তীহি আযাবুই ইউখযীহি ওয়া ইয়াহিল্লু আলাইহি আযাবুম মুকীম, হুবহু আছে ১১:৩৯ আয়াতে। সেখানে কথাগুলো বলেন নূহ (আঃ), যখন তিনি নৌকা বানাচ্ছিলেন আর তাঁর কওমের নেতারা পাশ দিয়ে যেতে যেতে ঠাট্টা করছিল।"
+          },
+          {
+            "en": "At-Tabari's gloss sets the Prophet's work on the line of the prophets who came before him, and the Qur'an's own wording shows that same inheritance: Shu'ayb (AS) had said its opening before him, and Nuh (AS) its close. At 6:135, at 11:93 and here, the address begins ya qawmi, O my people. The address is a warning, and still it claims the listeners as kin. He speaks as one of them, telling them where the road they chose leads, and then turning back to his own work.",
+            "bn": "তাবারীর ব্যাখ্যা নবী ﷺ-এর কাজকে তাঁর আগের নবীদের ধারায় বসিয়ে দেয়। কুরআনের নিজের শব্দচয়নেও সেই উত্তরাধিকার চোখে পড়ে। তাঁকে যে কথা বলতে বলা হয়েছে, তার শুরুটা তাঁর আগে বলেছিলেন শুআইব (আঃ), আর শেষটা নূহ (আঃ)। ৬:১৩৫, ১১:৯৩ আর এই আয়াতে সম্বোধন শুরু হয় ইয়া কাওমি দিয়ে, হে আমার কওম। কথাটা সতর্কবাণী, তবু তাতে শ্রোতাদের আপনজন বলে দাবি করা হয়েছে। তিনি কথা বলছেন তাদেরই একজন হয়ে। তাদের বেছে নেওয়া পথ কোথায় গিয়ে থামে তা জানিয়ে দিয়ে তিনি ফিরে যান নিজের কাজে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Disgrace Now, Then a Lasting One",
+          "bn": "আগে লাঞ্ছনা, পরে স্থায়ী আযাব"
+        },
+        "p": [
+          {
+            "en": "Fa-sawfa ta'lamun: you will come to know. At-Tabari says what: when Allah's might comes down on you, you will know which of us is in the right and which in falsehood, who is rightly guided and who has gone astray. As-Sa'di puts it as li-mani l-'aqibah, whose the outcome is. Ibn Kathir's Arabic reads: you will come to know ghibba dhalika wa wabalah, what follows from it and its evil end. Verse 39:40 then names the outcome in two parts: 'adhabun yukhzih, a punishment that disgraces him, and 'adhabun muqim, a punishment that stays.",
+            "bn": "ফা-সাওফা তা'লামূন: শিগগিরই জানতে পারবে। কী জানবে, তাবারী বলে দেন: আল্লাহর পাকড়াও যখন তোমাদের উপর নেমে আসবে, তখন জানবে আমাদের মধ্যে কে হকের উপর আর কে বাতিলের উপর, কে সঠিক পথে আর কে পথভ্রষ্ট। সা'দী বলেন লিমানিল আকিবাহ, শেষ পরিণাম কার। ইবন কাসীরের আরবি পাঠে আছে: তোমরা জানবে এর পরে কী আসে আর এর মন্দ পরিণতি কী। তারপর ৩৯:৪০ আয়াত পরিণামটির দুটি ভাগের নাম বলে দেয়। আযাবুই ইউখযীহ, এমন শাস্তি যা লাঞ্ছিত করে। আর আযাবুম মুকীম, এমন শাস্তি যা থেকে যায়।"
+          },
+          {
+            "en": "Here the commentators place the two differently. Ibn Kathir, in the abridged English, takes the disgracing punishment as one in this world, and the lasting one as ongoing and eternal, with no escape, coming on the Day of Resurrection. The Muyassar divides it the same way: a punishment that humiliates in the life of this world, and in the Hereafter a lasting one that neither shifts nor ends. At-Tabari, on 39:39, ties the knowing to the coming of Allah's might without dividing it between the two worlds.",
+            "bn": "এখানে দুই শাস্তির জায়গা তাফসীরকারেরা ভিন্নভাবে ঠিক করেন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ লাঞ্ছনাকর শাস্তিকে ধরে দুনিয়ার শাস্তি হিসেবে। আর স্থায়ী শাস্তি তার মতে চলমান ও চিরস্থায়ী, যা থেকে পালানোর পথ নেই, আর তা আসবে কিয়ামতের দিন। মুয়াসসারও একইভাবে ভাগ করে: দুনিয়ার জীবনে অপমানকর শাস্তি, আর আখিরাতে স্থায়ী শাস্তি, যা সরেও না, শেষও হয় না। তাবারী ৩৯:৩৯ আয়াতের ব্যাখ্যায় জানার মুহূর্তটিকে বাঁধেন আল্লাহর পাকড়াও আসার সঙ্গে, দুই জগতের মধ্যে ভাগ করেন না।"
+          },
+          {
+            "en": "Al-Qurtubi, in the passage at 6:135 that he points back to, notes a grammatical choice in the man, who, that follows you will come to know there; the same construction opens 39:40. It can be read as a relative pronoun, the object of the knowing: you will know the one to whom the punishment comes. Or it can be a question that the verb of knowing does not govern: you will know which of us it comes to. He gives the first and allows the second. Either way the verse never names anyone.",
+            "bn": "কুরতুবী ৬:১৩৫ আয়াতের যে আলোচনায় পাঠককে ফেরত পাঠান, সেখানে তোমরা জানবে কথাটির পরের মান, অর্থাৎ কে, শব্দটির ব্যাকরণ নিয়ে দুটি সম্ভাবনার কথা বলেন। ৩৯:৪০ আয়াতও শুরু হয় ঠিক একই গঠনে। শব্দটিকে সম্বন্ধবাচক সর্বনাম ধরা যায়, যা জানার কর্ম: তোমরা জানবে সেই ব্যক্তিকে, যার উপর শাস্তি আসে। আবার প্রশ্নবোধকও ধরা যায়, যার উপর জানার ক্রিয়া কাজ করে না: তোমরা জানবে আমাদের মধ্যে কার উপর আসে। প্রথমটি তিনি সরাসরি বলেন, দ্বিতীয়টিকেও বৈধ বলেন। যেভাবেই পড়া হোক, আয়াত কারও নাম বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither Licence Nor Indifference",
+          "bn": "ছাড়পত্রও নয়, উদাসীনতাও নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse records what the Prophet ﷺ was told to say to the idolaters of his own people, who had tried to frighten him with their idols. It licenses nothing against any living person or community, and it gives no one the right to decide who among the people around them will receive the disgrace and the lasting punishment of 39:40. The verse itself leaves that unnamed, and 39:41 tells the Prophet ﷺ in the next breath: you are not a guardian over them. Whoever is guided is guided for his own soul.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জানায় নবী ﷺ-কে তাঁর নিজের কওমের সেই মুশরিকদের কী বলতে বলা হয়েছিল, যারা তাদের মূর্তির ভয় দেখিয়ে তাঁকে দমাতে চেয়েছিল। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। আশপাশের কে ৩৯:৪০ আয়াতের লাঞ্ছনা আর স্থায়ী শাস্তি পাবে, তা ঠিক করার অধিকারও কাউকে দেয় না। আয়াত নিজেই সে নাম অনুচ্চারিত রেখেছে। আর পরের আয়াত, ৩৯:৪১, সঙ্গে সঙ্গে নবী ﷺ-কে বলে: আপনি তাদের জিম্মাদার নন। যে হিদায়াত পায়, সে নিজের জন্যই পায়।"
+          },
+          {
+            "en": "Nor can the verse be stretched the other way, into a shrug that every path is as good as another. Ibn Kathir calls it a threat and a warning, and as-Sa'di describes the listeners' state as the worship of what deserves none. The sentence keeps both truths at once: the Prophet ﷺ does not force, and he does not pretend the two ways end in the same place. No commentary read for this verse attaches a hadith or an occasion of revelation to it, and none speaks of it being abrogated.",
+            "bn": "উল্টো দিকেও আয়াতটিকে টেনে নেওয়া যায় না, যেন সব পথই সমান, কাঁধ ঝাঁকিয়ে মেনে নিলেই হলো। ইবন কাসীর একে হুমকি আর সতর্কবাণী বলেন। আর সা'দী শ্রোতাদের অবস্থাকে বর্ণনা করেন এমন সত্তার ইবাদত হিসেবে, যে ইবাদতের হকদার নয়। বাক্যটি দুটি সত্য একসঙ্গে ধরে রাখে। নবী ﷺ জোর খাটান না, আবার দুই পথ একই জায়গায় গিয়ে শেষ হয় এমন ভানও করেন না। এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো হাদীস বা শানে নুযূল জোড়েনি, আর কেউ একে মানসূখ বলেও আলোচনা করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Am I Working At",
+          "bn": "আমি কোন কাজে আছি"
+        },
+        "p": [
+          {
+            "en": "The verse speaks first to a moment many people know: the case has been made clearly, and it has been refused. The pull then is to keep arguing, louder each time. The Prophet ﷺ is given something else, one sentence and a return to work. In at-Tabari's gloss that work goes on with tu'adah, unhurried, in the line of the prophets before him. Steadiness of that kind does not depend on the other side's reaction. It is measured by the command, so it can continue while the outcome is out of sight.",
+            "bn": "আয়াতটি প্রথমে এমন এক মুহূর্তের কথা বলে, যা অনেকেরই চেনা। কথাটা স্পষ্ট করে বলা হয়েছে, আর তা প্রত্যাখ্যাত হয়েছে। তখন মন চায় তর্ক চালিয়ে যেতে, প্রতিবার আরও জোরে। নবী ﷺ-কে দেওয়া হয় অন্য কিছু: একটি বাক্য, তারপর কাজে ফিরে যাওয়া। তাবারীর ব্যাখ্যায় সেই কাজ চলে তুআদাহর সঙ্গে, তাড়াহুড়ো ছাড়া, আগের নবীদের ধারায়। এমন অবিচলতা অন্য পক্ষের প্রতিক্রিয়ার উপর নির্ভর করে না। তার মাপকাঠি আল্লাহর আদেশ। তাই পরিণাম চোখের আড়ালে থাকলেও তা চলতে পারে।"
+          },
+          {
+            "en": "And the verse turns on the reader as well. Makanah, in the glosses, is a person's side, his capacity and the state he has accepted for himself. I have one too: the footing I actually stand on in my prayer, my dealings and my speech. The verse says that everyone works from such a place and that everyone will come to know where it led. So before I think about anyone else's makanah, the safer question is my own. What am I working on, and would I be content to have it known?",
+            "bn": "আর আয়াতটি পাঠকের দিকেও ফেরে। তাফসীরের ব্যাখ্যায় মাকানাহ মানে মানুষের দিক, তার সামর্থ্য, আর যে অবস্থা সে নিজের জন্য মেনে নিয়েছে। আমারও এমন একটা জায়গা আছে। নামাজে, লেনদেনে আর কথাবার্তায় আমি আসলে যেখানে দাঁড়িয়ে আছি, সেটাই। আয়াত বলে, প্রত্যেকেই এমন এক জায়গা থেকে কাজ করে, আর প্রত্যেকেই একদিন জানবে তা কোথায় নিয়ে গেল। তাই অন্য কারও মাকানাহ নিয়ে ভাবার আগে নিজেরটা নিয়ে প্রশ্ন করাই নিরাপদ। আমি কোন কাজে লেগে আছি? সেটা প্রকাশ পেলে আমি কি খুশি থাকব?"
+          }
+        ]
+      }
+    ]
+  },
   "39:42": {
     "sections": [
       {

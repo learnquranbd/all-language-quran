@@ -37313,6 +37313,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Good and lawful things can still crowd out the remembrance of Allah; notice when they move ahead of it, say so honestly, and put Him first again.",
     "lessonBn": "ভালো ও হালাল জিনিসও আল্লাহর জিকিরকে পেছনে ঠেলে দিতে পারে। কখন তা আগে চলে আসে খেয়াল রাখুন, সৎভাবে স্বীকার করুন, আর আবার আল্লাহকে সবার আগে রাখুন।"
+  },
+  "39:39": {
+    "reflectionEn": "They had threatened him with their idols. He answered that Allah was enough for him. Now he is told to say one more sentence and then stop arguing: O my people, carry on from where you stand; I am carrying on too; you will come to know. It sounds like leave to go on, but it is a warning, and the next verse names what they will come to know. Two things in it turn towards me. He calls them my people even while he warns them. And his side of the sentence is simply work, kept up steadily. When I am sure I am right, do I keep working, or do I keep arguing? And what exactly am I working on?",
+    "reflectionBn": "তারা তাঁকে নিজেদের মূর্তির ভয় দেখিয়েছিল। তিনি জবাব দিয়েছিলেন, আল্লাহই আমার জন্য যথেষ্ট। এবার তাঁকে বলতে বলা হচ্ছে আর একটি কথা, তারপর তর্ক থামানোর পালা: হে আমার কওম, তোমরা যেখানে আছ সেখান থেকেই কাজ করে যাও, আমিও কাজ করে যাচ্ছি, শিগগিরই জানতে পারবে। শুনতে মনে হয় চালিয়ে যাওয়ার অনুমতি। আসলে এটা সতর্কবাণী, আর কী জানতে পারবে তা পরের আয়াতেই বলা আছে। এর দুটি জিনিস আমার দিকে ফেরে। সতর্ক করার মুহূর্তেও তিনি তাদের ডাকছেন আমার কওম বলে। আর তাঁর নিজের ভাগে আছে শুধু কাজ, ধীরস্থিরভাবে চালিয়ে যাওয়া কাজ। নিজেকে সঠিক জানলে আমি কি কাজ চালিয়ে যাই, নাকি তর্ক চালিয়ে যাই? আর আমি আসলে কোন কাজটা করছি?",
+    "pointsEn": [
+      "Where is my own makanah, the footing I actually stand on in my worship and my dealings, and would I be content to be judged on it?",
+      "When someone refuses what I have explained clearly, do I keep pressing the argument, or do I say my piece once and return to my work?",
+      "Can I warn someone and still speak to them as one of my own, the way this verse says my people?",
+      "Is the work I am doing steady and unhurried, or does it rise and fall with how others react to me?",
+      "Am I treating the delay of consequences as if it meant there were none?"
+    ],
+    "pointsBn": [
+      "ইবাদত আর লেনদেনে আমি আসলে কোন জায়গায় দাঁড়িয়ে আছি? সেখান থেকেই যদি আমার বিচার হয়, তাতে কি আমি রাজি?",
+      "স্পষ্ট করে বোঝানোর পরও কেউ না মানলে আমি কি তর্ক চালিয়ে যাই, নাকি একবার কথাটা বলে নিজের কাজে ফিরে যাই?",
+      "কাউকে সতর্ক করার সময়ও কি আমি তাকে নিজের লোক ভেবে কথা বলতে পারি, যেমন এ আয়াত বলে আমার কওম?",
+      "আমার কাজ কি ধীরস্থির আর নিয়মিত, নাকি লোকে কী বলল তার সঙ্গে সঙ্গে ওঠানামা করে?",
+      "পরিণাম দেরিতে আসছে বলে কি আমি ধরে নিচ্ছি যে পরিণাম বলে কিছু নেই?"
+    ],
+    "lessonEn": "When the truth has been made clear and is still refused, say it plainly once, keep doing what Allah asked of you, and leave the outcome to Him.",
+    "lessonBn": "সত্য স্পষ্ট করে বলার পরও কেউ না মানলে কথাটা একবার সোজাসুজি বলুন, আল্লাহ যা করতে বলেছেন তা করে যান, আর পরিণাম তাঁর হাতে ছেড়ে দিন।"
   }
 };
 
