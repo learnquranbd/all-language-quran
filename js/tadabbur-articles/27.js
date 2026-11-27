@@ -151,6 +151,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Two Companies",
+          "bn": "দুই দলের কথার পরে"
+        },
+        "p": [
+          {
+            "en": "Surah an-Naml opens with the letters Ta Sin and a claim about itself: these are the verses of the Qur'an and of a clear Book, guidance and good tidings for the believers. Verse 27:3 describes those believers, who establish the prayer, give zakah and are certain of the Hereafter. Verses 27:4 and 27:5 then describe the opposite company, those who do not believe in the Hereafter. Verse 27:6 closes this opening passage, and it does so by turning away from both groups to speak to one person.",
+            "bn": "সূরা নামল শুরু হয় তা-সীন বর্ণ দিয়ে, আর নিজের সম্পর্কে একটি দাবি দিয়ে: এগুলো কুরআনের আয়াত, এক সুস্পষ্ট কিতাবের আয়াত, মুমিনদের জন্য হিদায়াত ও সুসংবাদ। ২৭:৩ আয়াত সেই মুমিনদের পরিচয় দেয়। তারা নামায কায়েম করে, যাকাত দেয়, আর আখিরাতের ব্যাপারে নিশ্চিত থাকে। ২৭:৪ ও ২৭:৫ আয়াত বলে উল্টো দলের কথা, যারা আখিরাতে ঈমান আনে না। সূচনার এ অংশ শেষ হয় ২৭:৬ আয়াতে এসে। আর শেষটা হয় দুই দলের কোনোটির দিকে নয়, একজন মানুষের দিকে মুখ ফিরিয়ে।"
+          },
+          {
+            "en": "Wa-innaka la-tulaqqa al-Qur'ana min ladun hakimin 'alim: and indeed you are given the Qur'an from the presence of Him who is Wise and Knowing. The verse is seven Arabic words long. Ibn Kathir and at-Tabari name the addressee with the words O Muhammad, and al-Muyassar with the words O Messenger. The sentence is built for emphasis, with inna at its head and the lam of emphasis on the verb, so that it reaches the Prophet ﷺ as a settled assurance rather than as a piece of news.",
+            "bn": "ওয়া ইন্নাকা লাতুলাক্কাল কুরআনা মিল লাদুন হাকীমিন আলীম: আর নিশ্চয় তোমাকে কুরআন দেওয়া হচ্ছে এক প্রজ্ঞাময়, সর্বজ্ঞের কাছ থেকে। আরবিতে আয়াতটি মাত্র সাতটি শব্দের। কাকে বলা হচ্ছে, ইবন কাসীর ও তাবারী তা বলে দেন 'হে মুহাম্মাদ' লিখে, আর মুয়াসসার লেখে 'হে রাসূল'। বাক্যের গাঁথুনিটাই জোর দেওয়ার। শুরুতে ইন্না, আর ক্রিয়ার গায়ে জোরের লাম। ফলে কথাটা নবী ﷺ-এর কাছে পৌঁছায় নিছক খবর হয়ে নয়, পাকা আশ্বাস হয়ে।"
+          },
+          {
+            "en": "Placed here, the verse gives the surah's opening claim its source. The first verse said what the Book is; this verse says where it comes from and how it reaches the Messenger. Between those two statements stand the believers who accept the Book and the deniers who wander from it. Read in that order, the passage moves from the Book, to its two audiences, to the Messenger who carries it, and then to the Giver behind him. The stories begin straight after.",
+            "bn": "এখানে বসে আয়াতটি সূরার প্রথম দাবির উৎস জানিয়ে দেয়। প্রথম আয়াত বলেছিল কিতাবটি কী। এ আয়াত বলে, তা আসছে কোথা থেকে, আর রাসূলের কাছে পৌঁছাচ্ছে কীভাবে। এ দুই কথার মাঝখানে দাঁড়িয়ে আছে দুই দল: যে মুমিনরা কিতাব গ্রহণ করে, আর যে অস্বীকারকারীরা তা থেকে সরে গিয়ে দিশাহারা ঘোরে। এ ক্রমে পড়লে অংশটি এগোয় কিতাব থেকে তার দুই শ্রোতার দিকে, তারপর বাহকের দিকে, আর শেষে বাহকের পেছনে যিনি দাতা, তাঁর দিকে। ঠিক এর পরেই কাহিনিগুলোর শুরু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Was Made to Look Fair",
+          "bn": "যা চোখে সুন্দর করে দেখানো হলো"
+        },
+        "p": [
+          {
+            "en": "The abridged English Ibn Kathir, which treats 27:1 to 27:6 together, explains those who do not believe in the Hereafter as people who deny it and think it will never happen. On We have made their deeds fair-seeming to them, he writes that what they do is made to seem good to them and they are left to continue in their misguidance, lost and confused. He calls this the recompense for their disbelief, and cites 6:110 on hearts and eyes turned away because they refused to believe the first time.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ২৭:১ থেকে ২৭:৬ পর্যন্ত এক অংশ ধরে আলোচনা করে। সেখানে যারা আখিরাতে ঈমান আনে না, তাদের পরিচয়: তারা আখিরাত অস্বীকার করে, ভাবে তা কখনো ঘটবে না। 'তাদের আমল তাদের চোখে সুন্দর করে দিয়েছি' অংশের ব্যাখ্যায় তিনি বলেন, তারা যা করে তা তাদের কাছে ভালো মনে হয়, আর তাদের ছেড়ে দেওয়া হয় নিজেদের গোমরাহিতে, ফলে তারা দিশাহারা ঘোরে। তাঁর মতে এটা আখিরাত অস্বীকারের প্রতিফল। প্রমাণে তিনি আনেন ৬:১১০ আয়াত: প্রথমবার ঈমান আনতে অস্বীকার করায় তাদের অন্তর ও দৃষ্টি ঘুরিয়ে দেওয়া হয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, which takes 27:4 to 27:6 together, records two readings of the same clause. On the first, their bad deeds are made to look adorned, so they feel pleased with them and stay sunk in wrong. Some commentators, it reports, took their deeds to mean good deeds: Allah set good deeds before them with all their attraction, and they paid no attention. Ma'arif prefers the first, because the Qur'an mostly uses adornment for bad actions, as in 3:14 and 2:212, and rarely for good, as in 49:7.",
+            "bn": "মাআরিফুল কুরআন ২৭:৪ থেকে ২৭:৬ একসঙ্গে আলোচনা করে, আর একই বাক্যের দুটি ব্যাখ্যা উল্লেখ করে। প্রথম ব্যাখ্যায় তাদের মন্দ আমলকেই তাদের চোখে সুশোভিত করা হয়েছে, তাই তারা তাতে খুশি থাকে আর অন্যায়ে ডুবে থাকে। কিছু মুফাসসির, মাআরিফ জানায়, 'তাদের আমল' বলতে বুঝেছেন নেক আমল। আল্লাহ নেক আমল তার সব আকর্ষণসহ তাদের সামনে রেখেছিলেন, কিন্তু তারা ফিরেও তাকায়নি। মাআরিফ প্রথম ব্যাখ্যাকে বেশি সংগত মনে করে। কারণ কুরআন সৌন্দর্যায়নের কথা বেশির ভাগ বলে মন্দ কাজের বেলায়, যেমন ৩:১৪ ও ২:২১২ আয়াতে। ভালো কাজের বেলায় বলে কদাচিৎ, যেমন ৪৯:৭ আয়াতে।"
+          },
+          {
+            "en": "Set beside 27:6, the passage shows two ways of standing before the same Book: wandering inside one's own adorned deeds, or receiving guidance from Him who knows. These verses describe what the text describes, a people who deny the Hereafter. They license nothing against any living person or community, and they give no reader the right to declare whose deeds have been made fair-seeming to him. The fitting use of 27:4 is as a question each reader puts to himself first.",
+            "bn": "২৭:৬ আয়াতের পাশে রাখলে অংশটি একই কিতাবের সামনে দাঁড়ানোর দুটি রূপ দেখায়। একটি হলো নিজের সাজানো আমলের ভেতরে দিশাহারা ঘোরা, অন্যটি সর্বজ্ঞের কাছ থেকে হিদায়াত গ্রহণ করা। আয়াতগুলো কেবল সেটুকুই বর্ণনা করে, যা পাঠ বলে: আখিরাত অস্বীকারকারী এক দলের কথা। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এগুলো কোনো অনুমতি দেয় না। কার আমল তার চোখে সুন্দর করে দেওয়া হয়েছে, সে রায় দেওয়ার অধিকারও কোনো পাঠককে দেয় না। ২৭:৪ আয়াতের সঠিক ব্যবহার হলো, প্রত্যেক পাঠক আগে নিজেকে প্রশ্নটা করবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tulaqqa, Given and Taken",
+          "bn": "তুলাক্কা: দেওয়া আর নেওয়া"
+        },
+        "p": [
+          {
+            "en": "The key word is tulaqqa, a passive verb: you are made to receive. The verb does not name the Giver; He appears only at the end of the verse, as Wise and Knowing. Al-Baghawi glosses it with two passives of his own, tu'ta al-Qur'ana wa tulaqqan: you are given the Qur'an and you are taught it. Al-Muyassar turns it active, la-tatalaqqa al-Qur'ana min 'indillah: you receive the Qur'an from Allah. Each wording keeps the Prophet ﷺ on the receiving side of the exchange.",
+            "bn": "মূল শব্দ তুলাক্কা, কর্মবাচ্য ক্রিয়া: তোমাকে গ্রহণ করানো হচ্ছে। দাতার নাম ক্রিয়ার ভেতরে নেই। তিনি আসেন আয়াতের একেবারে শেষে, প্রজ্ঞাময় ও সর্বজ্ঞ পরিচয়ে। বাগাভী এর ব্যাখ্যা দেন নিজের দুটি কর্মবাচ্য ক্রিয়া দিয়ে, তু'তাল কুরআনা ওয়া তুলাক্কান: তোমাকে কুরআন দেওয়া হচ্ছে, আর তোমাকে তা শেখানো হচ্ছে। মুয়াসসার একে কর্তৃবাচ্যে আনে, লাতাতালাক্কাল কুরআনা মিন ইন্দিল্লাহ: তুমি আল্লাহর কাছ থেকে কুরআন গ্রহণ করছ। যে শব্দেই বলা হোক, নবী ﷺ থাকেন গ্রহণকারীর জায়গায়।"
+          },
+          {
+            "en": "Ibn Kathir brings a gloss from Qatadah: la-tulaqqa means la-ta'khudh, you take. The abridged English renders Qatadah's word as are receiving. At-Tabari reads the verb as an act of keeping: you memorise the Qur'an and learn it, la-tahfazu al-Qur'ana wa ta'lamuh. Taking points to the moment the revelation arrives. Memorising and learning point to what the Prophet ﷺ does with it afterwards, holding it in his memory and knowing its meaning. The two glosses do not compete, but they put the weight in different places.",
+            "bn": "ইবন কাসীর কাতাদা থেকে একটি ব্যাখ্যা আনেন: লাতুলাক্কা মানে লাতা'খুয, তুমি নিচ্ছ। সংক্ষিপ্ত ইংরেজি সংস্করণ কাতাদার শব্দটির অনুবাদ করেছে 'গ্রহণ করছ'। তাবারী ক্রিয়াটিকে পড়েন ধরে রাখার কাজ হিসেবে: তুমি কুরআন মুখস্থ করছ আর শিখছ, লাতাহফাযুল কুরআনা ওয়া তা'লামুহ। নেওয়ার কথা ইঙ্গিত করে ওহি আসার মুহূর্তের দিকে। মুখস্থ করা আর শেখা ইঙ্গিত করে তার পরের কাজের দিকে, নবী ﷺ যখন তা স্মৃতিতে ধরে রাখেন আর এর অর্থ জানেন। দুই ব্যাখ্যায় বিরোধ নেই, তবে জোর পড়েছে দুই জায়গায়।"
+          },
+          {
+            "en": "As-Sa'di uses a pair of verbs close in sound, tatalaqqafuhu wa tatalaqqanuhu: you take it up and you are taught it. He makes the Qur'an the subject of his sentence: this Qur'an that is sent down upon you, which you take up and are taught, comes down from Him who is Wise and Knowing. Gathered together, the commentators' glosses describe the whole of receiving: being given, taking hold, being taught, and keeping by memory. None of them makes the Prophet ﷺ the source of what he carries.",
+            "bn": "সা'দী কাছাকাছি উচ্চারণের দুটি ক্রিয়া পাশাপাশি রাখেন, তাতালাক্কাফুহু ওয়া তাতালাক্কানুহু: তুমি তা তুলে নিচ্ছ, আর তোমাকে তা শেখানো হচ্ছে। তাঁর বাক্যে কর্তা কুরআন নিজেই। তোমার ওপর যে কুরআন নাযিল হচ্ছে, যা তুমি তুলে নিচ্ছ আর শিখছ, তা নামছে প্রজ্ঞাময়, সর্বজ্ঞের কাছ থেকে। মুফাসসিরদের ব্যাখ্যাগুলো একসঙ্গে রাখলে গ্রহণের পুরো ছবিটা পাওয়া যায়: দেওয়া হওয়া, হাতে নেওয়া, শেখানো হওয়া, আর স্মৃতিতে ধরে রাখা। তাঁদের কেউই নবী ﷺ-কে তাঁর বহন করা বাণীর উৎস বানান না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cast Down, Then Caught",
+          "bn": "নামিয়ে দেওয়া, তারপর ধরে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the most complete picture of the exchange in one line: yulqa 'alayka fa-talaqqahu wa ta'allamuhu wa ta'khudhuh. It is cast upon you, and you receive it, learn it and take it. His gloss has two movements. Something is cast onto the Messenger, and then the Messenger receives it, as a hand meets what is thrown to it. The verb tulaqqa holds both at once: the act of the One who sends, and the readiness of the one who is sent the word.",
+            "bn": "কুরতুবী এক লাইনেই এ আদান-প্রদানের সবচেয়ে পূর্ণ ছবি দেন: ইউলকা আলাইকা ফাতালাক্কাহু ওয়া তাআল্লামুহু ওয়া তা'খুযুহ। তা তোমার ওপর অর্পণ করা হয়, আর তুমি তা গ্রহণ করো, শেখো, ধরে নাও। তাঁর ব্যাখ্যায় দুটি ধাপ। কিছু একটা রাসূলের ওপর অর্পণ করা হয়। তারপর রাসূল তা গ্রহণ করেন, যেমন ছুড়ে দেওয়া জিনিস হাত বাড়িয়ে ধরা হয়। তুলাক্কা ক্রিয়াটি দুটোকেই একসঙ্গে ধারণ করে: যিনি পাঠান তাঁর কাজ, আর যাঁর কাছে বাণী পাঠানো হয় তাঁর প্রস্তুতি।"
+          },
+          {
+            "en": "The same verb of receiving meets the reader early in the Qur'an. In 2:37, fa-talaqqa Adamu min rabbihi kalimatin: then Adam received from his Lord some words, and He accepted his repentance. There, too, words pass from the Lord to a servant who takes them. The parallel is noted only for the shared verb. In 27:6 what is received is the whole Qur'an, and the one receiving it is the Messenger who will carry it to the two companies the surah has just described.",
+            "bn": "গ্রহণের এই একই ক্রিয়ার সঙ্গে পাঠকের দেখা হয় কুরআনের শুরুর দিকেই। ২:৩৭ আয়াতে আছে ফাতালাক্কা আদামু মির রাব্বিহী কালিমাত: তারপর আদম (আঃ) তাঁর রবের কাছ থেকে কিছু বাণী পেলেন, আর আল্লাহ তাঁর তওবা কবুল করলেন। সেখানেও বাণী যায় রবের কাছ থেকে এক বান্দার কাছে, যিনি তা গ্রহণ করেন। মিলটা এখানে উল্লেখ করা হলো শুধু ক্রিয়ার মিলের জন্য। ২৭:৬ আয়াতে যা গ্রহণ করা হচ্ছে তা পুরো কুরআন। আর গ্রহণ করছেন সেই রাসূল, যিনি তা পৌঁছে দেবেন সূরার এইমাত্র বর্ণিত দুই দলের কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Grasped Like a Bell Ringing",
+          "bn": "ঘণ্টাধ্বনির মতো, তবু আত্মস্থ"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it. A general narration in Sahih al-Bukhari (hadith 2), not tied to 27:6, shows what receiving was like. 'Aisha reports that al-Harith ibn Hisham asked the Messenger of Allah ﷺ how the revelation came to him, and he replied: \"Sometimes it is (revealed) like the ringing of a bell, this form of Inspiration is the hardest of all and then this state passes off after I have grasped what is inspired. Sometimes the Angel comes in the form of a man and talks to me and I grasp whatever he says.\"",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি। সহীহ বুখারীর একটি সাধারণ বর্ণনা (হাদীস ২), যা ২৭:৬ আয়াতের সঙ্গে যুক্ত নয়, দেখায় ওহি গ্রহণের অভিজ্ঞতা কেমন ছিল। আয়েশা (রাঃ) বর্ণনা করেন, হারিস ইবন হিশাম (রাঃ) রাসূলুল্লাহ ﷺ-কে জিজ্ঞেস করলেন, আপনার কাছে ওহি কীভাবে আসে? তিনি বললেন: \"কখনো তা আমার কাছে আসে ঘণ্টার ঝনঝন শব্দের মতো, আর এটাই আমার জন্য সবচেয়ে কঠিন। তারপর তা আমার কাছ থেকে সরে যায়, আর তিনি যা বলেছেন তা আমি আত্মস্থ করে ফেলেছি। আবার কখনো ফেরেশতা মানুষের রূপে আমার সামনে আসেন, আমার সঙ্গে কথা বলেন, আর তিনি যা বলেন আমি তা আত্মস্থ করি।\""
+          },
+          {
+            "en": "'Aisha adds in the same report that she saw the revelation come down on him on a bitterly cold day, and when it left him his forehead was running with sweat. The verb in his reply, wa'aytu, I have taken it in, sits well beside the commentators' glosses on tulaqqa. Receiving cost him effort: he calls one form of it the hardest on him, and each ends with the words held in full. The narration describes revelation in general, and no commentator fetched here connects it to 27:6.",
+            "bn": "একই বর্ণনায় আয়েশা (রাঃ) যোগ করেন, তিনি দেখেছেন প্রচণ্ড শীতের দিনে তাঁর ওপর ওহি নাযিল হচ্ছে, আর ওহি শেষ হলে তাঁর কপাল বেয়ে ঘাম ঝরছে। তাঁর উত্তরে যে ক্রিয়া আছে, ওয়াআইতু, আমি আত্মস্থ করেছি, তা তুলাক্কা শব্দের ব্যাখ্যায় মুফাসসিরদের কথার সঙ্গে ভালোভাবে মেলে। গ্রহণ করতে তাঁকে কষ্ট সইতে হতো। এক রূপকে তিনি নিজেই বলেছেন সবচেয়ে কঠিন, আর প্রতিটি রূপ শেষ হতো বাণী পুরোপুরি ধরে রাখার মধ্য দিয়ে। বর্ণনাটি ওহির সাধারণ বিবরণ। এখানে আনা কোনো মুফাসসির একে ২৭:৬ আয়াতের সঙ্গে যুক্ত করেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Min Ladun, From His Presence",
+          "bn": "মিল লাদুন: তাঁর কাছ থেকে"
+        },
+        "p": [
+          {
+            "en": "The Qur'an is received min ladun, from the presence of the Giver. Al-Qurtubi gives the word's grammar: ladun has the meaning of 'inda, with, except that it is indeclinable and does not take case endings, because it is not a fully flexible noun. He adds that it has several dialect forms, which he says he set out under surah al-Kahf. Those forms are not in the text fetched for this verse, so they are not repeated here. What matters for 27:6 is the plain sense he gives first: from with Him.",
+            "bn": "কুরআন গ্রহণ করা হচ্ছে মিল লাদুন, দাতার একান্ত কাছ থেকে। কুরতুবী শব্দটির ব্যাকরণ জানান। লাদুন অর্থে ইন্দা, অর্থাৎ কাছে। পার্থক্য এটুকু যে, শব্দটি অপরিবর্তনীয়, বিভক্তির চিহ্ন নেয় না, কারণ এটি পুরোপুরি নমনীয় বিশেষ্য নয়। তিনি আরও বলেন, এর কয়েকটি আঞ্চলিক রূপ আছে, যা তিনি সূরা কাহফের আলোচনায় উল্লেখ করেছেন। সে রূপগুলো এ আয়াতের জন্য আনা পাঠে নেই, তাই এখানে সেগুলো আনা হলো না। ২৭:৬ আয়াতের জন্য জরুরি হলো তাঁর দেওয়া প্রথম সরল অর্থটি: তাঁর কাছ থেকে।"
+          },
+          {
+            "en": "The other commentators agree on that sense. Ibn Kathir and at-Tabari both gloss it as min 'indi, from with, before naming the attributes. Al-Muyassar supplies the name the verse leaves out: from Allah, the Wise in His creation and His management. Al-Baghawi adds one word that names the channel: wahyan min 'indillah, as revelation from Allah, the Wise, the Knowing. The verse itself names no one. It identifies the Giver only by what He is, wise and knowing, and lets the reader draw the conclusion.",
+            "bn": "বাকি মুফাসসিররাও এ অর্থে একমত। ইবন কাসীর ও তাবারী দুজনেই গুণ দুটি বলার আগে এর ব্যাখ্যা দেন মিন ইন্দি, কাছ থেকে। আয়াত যে নাম উহ্য রেখেছে, মুয়াসসার তা বলে দেয়: আল্লাহর কাছ থেকে, যিনি তাঁর সৃষ্টি ও পরিচালনায় প্রজ্ঞাময়। বাগাভী একটি শব্দ যোগ করেন, যা পথটির নাম জানায়: ওয়াহইয়ান মিন ইন্দিল্লাহ, আল্লাহর পক্ষ থেকে ওহি হিসেবে, যিনি প্রজ্ঞাময়, সর্বজ্ঞ। আয়াত নিজে কারও নাম নেয় না। দাতাকে চেনায় কেবল তাঁর গুণ দিয়ে, প্রজ্ঞাময় ও সর্বজ্ঞ, আর সিদ্ধান্তটা পাঠকের হাতে ছেড়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wise in Command, Knowing in Full",
+          "bn": "হুকুমে প্রজ্ঞা, জ্ঞানে পূর্ণতা"
+        },
+        "p": [
+          {
+            "en": "The two names that close the verse each carry readings that differ. For hakim, Ibn Kathir looks to the law: wise in His commands and prohibitions. At-Tabari looks to creation: wise in the managing of His creation, bi-tadbiri khalqihi, and al-Muyassar likewise writes wise in His creation and His management. As-Sa'di defines the wisdom itself: He puts things in their places and sets them in their proper stations. The readings differ in scope, the revealed command or the ordering of the world, and each stands in its author's own text.",
+            "bn": "আয়াতের শেষের দুটি নামের প্রতিটিরই একাধিক ব্যাখ্যা আছে। হাকীম শব্দে ইবন কাসীর তাকান শরীয়তের দিকে: তিনি তাঁর আদেশ ও নিষেধে প্রজ্ঞাময়। তাবারী তাকান সৃষ্টির দিকে: সৃষ্টির পরিচালনায় প্রজ্ঞাময়, বিতাদবীরি খালকিহী। মুয়াসসারও লেখে, তিনি তাঁর সৃষ্টি ও পরিচালনায় প্রজ্ঞাময়। সা'দী প্রজ্ঞারই সংজ্ঞা দেন: তিনি প্রতিটি জিনিস তার জায়গায় রাখেন, প্রতিটিকে তার যথাযোগ্য স্থানে বসান। ব্যাখ্যাগুলোর পরিধি আলাদা। কারও নজর নাযিল করা হুকুমে, কারও জগতের বিন্যাসে। প্রতিটিই আছে তার লেখকের নিজের পাঠে।"
+          },
+          {
+            "en": "For 'alim, Ibn Kathir writes knowing all matters, the great of them and the slight. At-Tabari spells out what the knowledge covers: the news of His creation and what is good for them, what presently exists in their affairs, what has passed of their history, and what is newly happening. As-Sa'di stresses depth: knowing the secrets of matters and their inner sides just as He knows their outward sides. Al-Muyassar puts it in the Qur'an's own phrasing: He who has encompassed everything in knowledge.",
+            "bn": "আলীম শব্দে ইবন কাসীর লেখেন, তিনি সব বিষয় জানেন, বড়টাও, তুচ্ছটাও। তাবারী খুলে বলেন জ্ঞানটা কী কী জুড়ে আছে: তাঁর সৃষ্টির খবর আর তাদের কল্যাণ, তাদের বিষয়ে এখন যা আছে, তাদের অতীতের যা ঘটে গেছে, আর নতুন করে যা ঘটছে। সা'দী জোর দেন গভীরতায়: বিষয়ের প্রকাশ্য দিক যেমন জানেন, তেমনি জানেন তার রহস্য আর ভেতরের দিক। মুয়াসসার কথাটা বলে কুরআনেরই ভাষায়: তিনি সেই সত্তা, যিনি জ্ঞানে সবকিছু পরিবেষ্টন করে আছেন।"
+          },
+          {
+            "en": "Two commentators draw a conclusion from the pair. Ibn Kathir reasons that His report is therefore pure truth and His ruling complete justice, and cites 6:115: the word of your Lord has been fulfilled in truth and in justice. As-Sa'di reasons that if the Qur'an comes from Him who is Wise and Knowing, it is known to be wholly wisdom and benefit for His servants, and he asks who could know better what serves them. Ibn Kathir's inference rests on truth and justice; as-Sa'di's rests on benefit.",
+            "bn": "দুজন মুফাসসির এ জোড়া নাম থেকে সিদ্ধান্ত টানেন। ইবন কাসীরের যুক্তি: তাই তাঁর দেওয়া খবর খাঁটি সত্য, আর তাঁর হুকুম পূর্ণ ইনসাফ। প্রমাণে তিনি আনেন ৬:১১৫ আয়াত: সত্য ও ইনসাফে তোমার রবের বাণী পূর্ণ হয়েছে। সা'দীর যুক্তি: কুরআন যদি প্রজ্ঞাময়, সর্বজ্ঞের কাছ থেকে আসে, তবে জানা কথা যে এর পুরোটাই প্রজ্ঞা আর বান্দাদের কল্যাণ। তারপর তিনি প্রশ্ন রাখেন, তাদের জন্য কী ভালো, তা এর চেয়ে ভালো কে জানতে পারে? ইবন কাসীরের সিদ্ধান্ত দাঁড়িয়ে আছে সত্য ও ইনসাফের ওপর, সা'দীর সিদ্ধান্ত কল্যাণের ওপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ground Laid for the Stories",
+          "bn": "কাহিনির জন্য জমি প্রস্তুত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi names the verse's work in the surah: hadhihi al-ayatu bisatun wa tamhid. This verse is a ground spread out and a preparation for the stories He means to relate, and for what they hold of the subtleties of His wisdom and the fine points of His knowledge. The next verse opens the first of them, with Musa (AS) and the fire. The surah then turns to Dawud and Sulayman (AS) from 27:15, to Salih (AS) and Thamud from 27:45, and to Lut (AS) from 27:54.",
+            "bn": "সূরায় আয়াতটির কাজ কী, কুরতুবী তা বলে দেন: হাযিহিল আয়াতু বিসাতুন ওয়া তামহীদ। এ আয়াত বিছিয়ে দেওয়া জমিন, প্রস্তুতি সেই কাহিনিগুলোর জন্য, যা তিনি এরপর শোনাতে চান। আর সেগুলোর ভেতরে তাঁর প্রজ্ঞার যে সূক্ষ্মতা আর তাঁর জ্ঞানের যে গভীর দিক আছে, তার জন্যও। পরের আয়াতেই প্রথম কাহিনির শুরু, মূসা (আঃ) আর আগুনের ঘটনা। এরপর সূরা ২৭:১৫ আয়াত থেকে দাউদ ও সুলাইমান (আঃ)-এর কথা বলে, ২৭:৪৫ আয়াত থেকে সালিহ (আঃ) ও সামূদের কথা, আর ২৭:৫৪ আয়াত থেকে লূত (আঃ)-এর কথা।"
+          },
+          {
+            "en": "Al-Qurtubi's line ties the two names to what follows: the stories carry His wisdom and His knowledge, so the reader meets them already told whose they are. They are not a pastime set beside the guidance but part of it. The reader also stands where the verse places the Prophet ﷺ, though at a remove, receiving the Qur'an through him. What the commentators describe him doing is open to every reader in their own measure: to take it, to learn it, to keep it, and to trust its Giver.",
+            "bn": "কুরতুবীর কথাটি গুণ দুটিকে পরের অংশের সঙ্গে জুড়ে দেয়। কাহিনিগুলো বহন করে তাঁর প্রজ্ঞা ও জ্ঞান। তাই পাঠক সেগুলোর কাছে পৌঁছান আগে থেকেই জেনে যে, এ কাহিনি কার। এগুলো হিদায়াতের পাশে রাখা সময় কাটানোর গল্প নয়, হিদায়াতেরই অংশ। পাঠকও দাঁড়িয়ে আছেন সেখানে, যেখানে আয়াতটি নবী ﷺ-কে দাঁড় করিয়েছে, তবে এক ধাপ দূরে। তিনি কুরআন পান নবী ﷺ-এর মাধ্যমে। মুফাসসিররা নবী ﷺ-কে যা করতে দেখান, তা প্রত্যেক পাঠকের জন্য নিজের সাধ্যমতো খোলা: নেওয়া, শেখা, ধরে রাখা, আর দাতার ওপর ভরসা করা।"
+          }
+        ]
+      }
+    ]
+  },
   "27:7": {
     "sections": [
       {

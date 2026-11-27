@@ -35695,6 +35695,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "What is coming will not knock first. Do not wait for a sign before you repent; live awake now, so that whatever arrives finds you ready.",
     "lessonBn": "যা আসছে, তা দরজায় কড়া নেড়ে আসবে না। তওবার জন্য কোনো সংকেতের অপেক্ষা করবেন না। এখনই সজাগ হয়ে বাঁচুন, যাতে যা-ই আসুক, আপনাকে প্রস্তুত পায়।"
+  },
+  "27:6": {
+    "reflectionEn": "Five verses have just set two kinds of people side by side: those who believe and are certain of the Hereafter, and those who deny it and wander, their own deeds made to look fair to them. Then the surah turns to the Messenger himself: and you are being given the Qur'an from the presence of One Wise, Knowing. He did not compose it; he received it. The One who sent it knows what is hidden as well as what is seen, and sets every command where it belongs. Before the stories begin, the listener is told whose words these are. If I truly believed that every instruction in it came from such a Giver, which of them would I still be arguing with?",
+    "reflectionBn": "আগের পাঁচ আয়াত দুই দল মানুষকে পাশাপাশি দাঁড় করিয়েছে। একদল ঈমান আনে আর আখিরাতের ব্যাপারে নিশ্চিত বিশ্বাস রাখে। আরেক দল আখিরাত অস্বীকার করে, নিজেদের আমলই তাদের চোখে সুন্দর হয়ে ওঠে, আর তারা দিশাহারা হয়ে ঘোরে। এরপর সূরাটি সরাসরি রাসূল ﷺ-এর দিকে ফেরে: আর নিশ্চয় তোমাকে কুরআন দেওয়া হচ্ছে এক প্রজ্ঞাময়, সর্বজ্ঞের কাছ থেকে। তিনি এ কুরআন রচনা করেননি, গ্রহণ করেছেন। আর যিনি পাঠিয়েছেন, তিনি গোপন-প্রকাশ্য সবই জানেন, প্রতিটি হুকুম রাখেন তার যথাস্থানে। কাহিনিগুলো শুরু হওয়ার আগেই শ্রোতাকে জানিয়ে দেওয়া হলো, এ কথা কার। সত্যিই যদি বিশ্বাস করতাম যে এর প্রতিটি নির্দেশ এমন দাতার কাছ থেকে এসেছে, তাহলে কোন নির্দেশগুলো নিয়ে আমি এখনো তর্ক করতাম?",
+    "pointsEn": [
+      "When a command in the Qur'an feels hard, do I treat it as the word of One who knows my good better than I do?",
+      "What is the last thing I took from the Qur'an and actually kept, by memorising it, learning it or living by it?",
+      "Which of my habits have come to look fair to me only because I stopped asking whether they were right?",
+      "Do I read the Qur'an's stories to pass the time, or as lessons chosen by One who is Wise and Knowing?",
+      "How would my reading change if I kept in mind that the Prophet ﷺ himself received this Book rather than wrote it?"
+    ],
+    "pointsBn": [
+      "কুরআনের কোনো হুকুম যখন কঠিন লাগে, তখন কি আমি মনে রাখি যে এটা এমন একজনের কথা, যিনি আমার ভালো আমার চেয়ে বেশি জানেন?",
+      "কুরআন থেকে শেষ কোন জিনিসটা আমি নিয়েছি এবং সত্যিই ধরে রেখেছি, মুখস্থ করে, শিখে বা আমলে এনে?",
+      "আমার কোন অভ্যাসগুলো আমার চোখে সুন্দর হয়ে উঠেছে শুধু এ কারণে যে, সেগুলো ঠিক কি না, সে প্রশ্ন করা আমি ছেড়ে দিয়েছি?",
+      "কুরআনের কাহিনিগুলো কি আমি সময় কাটানোর জন্য পড়ি, নাকি প্রজ্ঞাময় সর্বজ্ঞের বেছে দেওয়া শিক্ষা হিসেবে পড়ি?",
+      "নবী ﷺ নিজেও এ কিতাব লেখেননি, গ্রহণ করেছেন, এ কথা মনে রাখলে আমার পড়া কীভাবে বদলে যেত?"
+    ],
+    "lessonEn": "The Qur'an comes from One who is Wise and Knowing, so receive it as the Prophet did: take it, learn it, keep it, and trust its commands over your own preferences.",
+    "lessonBn": "কুরআন এসেছে প্রজ্ঞাময়, সর্বজ্ঞের কাছ থেকে। তাই নবী ﷺ যেভাবে গ্রহণ করেছিলেন, আপনিও সেভাবে গ্রহণ করুন: নিন, শিখুন, ধরে রাখুন, আর নিজের পছন্দের চেয়ে এর হুকুমের ওপর বেশি ভরসা রাখুন।"
   }
 };
 
