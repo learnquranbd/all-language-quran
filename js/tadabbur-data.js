@@ -34481,6 +34481,24 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Wait as someone already walking the straight path: act on the guidance you have, leave the verdict to Allah, and never let your waiting turn into hope for another's ruin.",
     "lessonBn": "সরল পথে চলতে চলতেই অপেক্ষা করুন: যে হেদায়াত পেয়েছেন তার উপর আমল করুন, ফয়সালা আল্লাহর হাতে ছেড়ে দিন, আর আপনার অপেক্ষা যেন কখনো অন্যের সর্বনাশের আশায় পরিণত না হয়।"
+  },
+  "21:5": {
+    "reflectionEn": "The recitation reached them and would not go away, so they gave it a name. A jumble of dreams. No, he made it up. No, he is a poet. Each label cancels the one before it: nobody chooses a dream, an invention is planned, and a poem takes craft. Then, having named it three ways, they asked for some other sign, as if the words already in front of them were not one. The verse does not argue with each label in turn. It sets them side by side and lets the contradiction speak. A mind that has decided not to listen never runs out of names. When a truth I do not want comes to me, which label do I reach for first?",
+    "reflectionBn": "তিলাওয়াত তাদের কানে পৌঁছেছিল, আর কিছুতেই সরে যাচ্ছিল না। তাই তারা একটা নাম দিয়ে দিল। এলোমেলো স্বপ্ন। না, সে বানিয়ে বলছে। না, সে তো কবি। প্রতিটি নাম আগেরটাকে বাতিল করে দেয়। স্বপ্ন কেউ বেছে নিয়ে দেখে না, বানানো কথা ভেবেচিন্তে বানাতে হয়, আর কবিতা গড়তে লাগে হাতের কারিগরি। তিনভাবে নাম দেওয়ার পর তারা আবার অন্য এক নিদর্শন চাইল, যেন চোখের সামনের এই বাণী নিজে কোনো নিদর্শন নয়। আয়াতটি একেকটা নাম ধরে আলাদা তর্কে যায় না। নামগুলো পাশাপাশি দাঁড় করিয়ে দেয়, আর স্ববিরোধটা নিজেই কথা বলে। যে মন না শোনার সিদ্ধান্ত নিয়ে ফেলেছে, তার নামের অভাব হয় না। অপছন্দের কোনো সত্য যখন আমার সামনে আসে, আমি সবার আগে কোন নামটার দিকে হাত বাড়াই?",
+    "pointsEn": [
+      "When a reminder lands on something I would rather not change, do I weigh what it says, or file it under a label and move on?",
+      "Have I ever given three excuses for one refusal without noticing that they could not all be true at once?",
+      "What sign am I still waiting for before I act on what I already know?",
+      "Is my opinion of the Qur'an built on reading it for myself, or on what I have heard other people call it?"
+    ],
+    "pointsBn": [
+      "যে জিনিস বদলাতে আমার মন চায় না, সেখানে কোনো উপদেশ এসে লাগলে আমি কি কথাটা ওজন করে দেখি, নাকি একটা নাম লাগিয়ে পাশ কাটিয়ে যাই?",
+      "একটা অস্বীকারের পেছনে আমি কি কখনো তিনটা অজুহাত দাঁড় করিয়েছি, অথচ খেয়ালই করিনি যে তিনটা একসঙ্গে সত্য হতে পারে না?",
+      "যা আমি আগে থেকেই জানি, সে অনুযায়ী আমল করার আগে আর কোন নিদর্শনের অপেক্ষায় বসে আছি?",
+      "কুরআন সম্পর্কে আমার ধারণা কি নিজে পড়ে গড়ে উঠেছে, নাকি অন্যরা একে কী নামে ডাকে তা শুনে?"
+    ],
+    "lessonEn": "Meet the Qur'an by reading it, not by naming it; a mind that keeps changing its excuse has stopped looking, and the sign it demands is already in its hands.",
+    "lessonBn": "কুরআনকে নাম দিয়ে নয়, পড়ে চিনুন। যে মন বারবার অজুহাত বদলায় সে আসলে দেখা বন্ধ করে দিয়েছে, আর যে নিদর্শন সে চায় তা আগেই তার হাতে।"
   }
 };
 

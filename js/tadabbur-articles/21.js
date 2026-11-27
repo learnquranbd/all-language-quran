@@ -159,6 +159,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "Nay, They Said",
+          "bn": "না, বরং তারা বলল"
+        },
+        "p": [
+          {
+            "en": "Surah al-Anbiya opens on a reckoning drawn near and a people turned away, hearing each fresh reminder from their Lord while at play (21:1 and 21:2). The third verse reports what the wrongdoers whispered among themselves, and the fourth gives the reply: my Lord knows what is said in the heaven and the earth. Our verse picks up straight after that reply with bal qalu, nay, they said. That whisper has its own article; here the talk turns into a run of verdicts on what he recited.",
+            "bn": "সূরা আল-আম্বিয়া শুরু হয় ঘনিয়ে আসা হিসাবের কথা দিয়ে, আর এমন এক জাতির কথা দিয়ে যারা মুখ ফিরিয়ে আছে। রবের কাছ থেকে নতুন যে উপদেশই আসে, তারা তা শোনে খেলাচ্ছলে (২১:১ ও ২১:২)। তৃতীয় আয়াতে আছে যালিমরা নিজেদের মধ্যে কী কানাকানি করেছিল, আর চতুর্থ আয়াতে তার জবাব: আসমান ও যমীনে যা বলা হয়, আমার রব সব জানেন। সেই জবাবের ঠিক পরেই আমাদের আয়াত শুরু হয় বাল কালূ দিয়ে: না, বরং তারা বলল। সেই কানাকানি নিয়ে আলাদা প্রবন্ধ আছে। এখানে কথাটা গড়িয়ে যায় তিনি যা তিলাওয়াত করতেন, তার উপর একের পর এক রায়ে।"
+          },
+          {
+            "en": "At-Tabari pauses on that opening word. He notes that no denial appears openly in the words before it for bal to answer, and explains why none is needed: the report is about people of denial and rejection, so the listeners' own knowledge of what bal points to was allowed to stand in for spelling it out. He then supplies the unspoken step himself. They did not believe in the wisdom of this Qur'an, nor that it came from Allah, nor that it was revelation sent to Muhammad ﷺ. Rather, some of them said this, and others that.",
+            "bn": "প্রথম শব্দটার কাছে তাবারী একটু থামেন। তিনি লক্ষ করেন, এর আগের কথায় এমন কোনো অস্বীকার খোলাখুলি নেই, যার জবাবে বাল আসতে পারে। কেন দরকার নেই, তাও তিনি বলেন। খবরটা অস্বীকারকারী আর মিথ্যা প্রতিপন্নকারী লোকদের নিয়ে, তাই বাল কোন দিকে ইঙ্গিত করছে তা শ্রোতারা নিজেরাই বোঝে, আলাদা করে বলার প্রয়োজন পড়ে না। তারপর না-বলা ধাপটা তিনি নিজেই জুড়ে দেন। তারা এই কুরআনের হিকমাতে বিশ্বাস করেনি, এটা যে আল্লাহর কাছ থেকে এসেছে তাও মানেনি, মুহাম্মাদ ﷺ-এর কাছে পাঠানো ওয়াহী বলেও স্বীকার করেনি। বরং তাদের কেউ বলল এটা, কেউ বলল ওটা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dreams Without a Shape",
+          "bn": "আকারহীন স্বপ্নের জট"
+        },
+        "p": [
+          {
+            "en": "The first verdict is adghathu ahlamin, a jumble of dreams. At-Tabari paraphrases it as the frightful phantoms of a vision he saw in his sleep, and gathers three early glosses with their chains. Qatada: the doing of a dreamer, merely a vision he saw. Ibn Abbas, through Ali ibn Abi Talha: mushtabiha, confused, one thing blurring into the next. Mujahid: ahawiluha, the dream's terrors and phantoms. Al-Baghawi folds these together: the dreams' falsehoods, their sayings and their phantoms, seen in sleep.",
+            "bn": "প্রথম রায় আদগাসু আহলাম, স্বপ্নের জট। তাবারী এর অর্থ করেন ঘুমের মধ্যে দেখা কোনো স্বপ্নের ভয়ংকর ছায়ামূর্তি। সঙ্গে সনদসহ তিনটি পুরোনো ব্যাখ্যা আনেন। কাতাদা বলেন, স্বপ্নদ্রষ্টার কাণ্ড, শুধু একটা স্বপ্ন যা সে দেখেছে। আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেন, মুশতাবিহা, অর্থাৎ গোলমেলে, একটার সঙ্গে আরেকটা মিশে ঝাপসা। মুজাহিদ বলেন, আহাউইলুহা, স্বপ্নের বিভীষিকা আর ছায়ামূর্তি। বাগাভী তিনটিকে এক জায়গায় মেলান: স্বপ্নের অসার কথা, নানা বুলি আর ছায়ামূর্তি, যা ঘুমের মধ্যে দেখা হয়।"
+          },
+          {
+            "en": "Al-Qurtubi sets out the word's range. Az-Zajjaj supplies the missing subject: what he brings is a jumble of dreams. Others say mixtures like mingled dreams, phantoms seen in sleep, which he attributes in meaning to Mujahid and Qatada, and he quotes a line of verse about a dream whose dreamer is fooled by it. Al-Qutabi says it is the lying dream; al-Yazidi, that adghath are dreams with no interpretation. Al-Qurtubi adds that the phrase was treated in Surah Yusuf, where the king's counsellors use it (12:44).",
+            "bn": "শব্দটার অর্থের পরিসর কুরতুবী সাজিয়ে দেখান। যাজ্জাজ বাদ পড়া কর্তাটা জুড়ে দেন: তিনি যা নিয়ে আসেন, তা স্বপ্নের জট। অন্যরা বলেন, মিশে যাওয়া স্বপ্নের মতো খিচুড়ি, ঘুমে দেখা ছায়ামূর্তি। কুরতুবীর মতে অর্থের দিক থেকে এটাই মুজাহিদ ও কাতাদার কথা। এখানে তিনি এক কবির পঙক্তিও উদ্ধৃত করেন, যেখানে স্বপ্ন তার দ্রষ্টাকেই ধোঁকা দেয়। কুতাবী বলেন, এ হলো মিথ্যা স্বপ্ন। ইয়াযীদী বলেন, আদগাস সেই স্বপ্ন যার কোনো তাবীর নেই। কুরতুবী আরও জানান, শব্দবন্ধটির আলোচনা সূরা ইউসুফে হয়ে গেছে, যেখানে রাজার সভাসদরা এটি ব্যবহার করে (১২:৪৪)।"
+          },
+          {
+            "en": "As-Sa'di gives the charge its sharpest edge: the speech of a raving sleeper who has no sense of what he is saying. Ma'arif al-Qur'an explains the term as dreams mixed with a person's own thoughts and those of Shaytan, which is why it renders it hotch-potch dreams. The Muyassar keeps it plain: mixtures of dreams with no reality to them. Notice what this first label does. It does not yet call him a liar. It makes him a man talking in his sleep, saying words he neither chose nor understood.",
+            "bn": "সা'দীর হাতে অভিযোগটা সবচেয়ে তীক্ষ্ণ হয়: ঘুমের ঘোরে প্রলাপ বকা লোকের কথা, যে কী বলছে টেরই পায় না। মাআরিফুল কুরআন ব্যাখ্যা করে, যে স্বপ্নে মানুষের নিজের চিন্তা আর শয়তানের কুমন্ত্রণা মিশে যায়, তাকেই এ নামে ডাকা হয়। সেজন্যই সে এর তরজমা করে এলোমেলো স্বপ্ন। মুয়াসসার সাদামাটা কথায় বলে: স্বপ্নের এমন মিশ্রণ, যার কোনো বাস্তবতা নেই। লক্ষ করুন, প্রথম নামটা কী করে। এখনো তাঁকে মিথ্যাবাদী বলা হচ্ছে না। বলা হচ্ছে, তিনি ঘুমের মধ্যে কথা বলা এক মানুষ, যে কথা তিনি নিজে বেছে নেননি, বোঝেনও না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Sleep to Craft",
+          "bn": "ঘুমের ঘোর থেকে কারিগরিতে"
+        },
+        "p": [
+          {
+            "en": "Then comes bal iftarahu, nay, he invented it. At-Tabari explains it as a fabrication and a forgery that he made up and contrived of himself. Al-Baghawi gives one word, ikhtalaqahu, he concocted it; as-Sa'di, that he made it up and put it into words from his own self. The Muyassar says invention and lies, and not revelation. Ma'arif al-Qur'an names what the charge really is: a forgery against Allah, made by calling it His word. Then the third: bal huwa sha'irun, nay, he is a poet.",
+            "bn": "তারপর আসে বালিফতারাহু: না, বরং সে এটা বানিয়েছে। তাবারী ব্যাখ্যা করেন, এ এক মনগড়া রচনা আর জালিয়াতি, যা তিনি নিজের পক্ষ থেকে বানিয়ে নিয়েছেন। বাগাভী এক শব্দে বলেন, ইখতালাকাহু, অর্থাৎ বানিয়ে এনেছে। সা'দী বলেন, নিজের মন থেকে বানিয়ে নিজেই ভাষা দিয়েছে। মুয়াসসার বলে, এ বানানো কথা আর মিথ্যা, ওয়াহী নয়। অভিযোগটা আসলে কী, মাআরিফুল কুরআন সেটা স্পষ্ট করে: আল্লাহর নামে জালিয়াতি, কারণ একে তাঁর বাণী বলা হচ্ছে। তারপর তৃতীয় রায়: বাল হুয়া শাইর, না, বরং সে একজন কবি।"
+          },
+          {
+            "en": "At-Tabari, al-Baghawi, as-Sa'di and the Muyassar all give the poet charge the same two halves: Muhammad is a poet, and what he has brought you is poetry. Set the three labels in a row and they pull against each other. Nobody chooses a dream; it happens to the sleeper. A fabrication is chosen and planned. A poem is a made thing, a craft practised in full waking. The same recitation cannot be all three. The Qur'an meets the poet charge directly elsewhere, in 52:29 and 52:30 and in 69:41 and 69:42.",
+            "bn": "কবি-অভিযোগের দুটি অংশ তাবারী, বাগাভী, সা'দী আর মুয়াসসার একইভাবে বলেন: মুহাম্মাদ একজন কবি, আর তিনি তোমাদের কাছে যা এনেছেন তা কবিতা। তিনটি নাম পাশাপাশি রাখলে একটা আরেকটার উল্টো দিকে টানে। স্বপ্ন কেউ বেছে নেয় না, ঘুমন্ত মানুষের উপর তা আপনিই ঘটে যায়। জালিয়াতি ভেবেচিন্তে, পরিকল্পনা করে করতে হয়। আর কবিতা জেগে থেকে হাতে গড়া জিনিস, এক ধরনের শিল্প। একই তিলাওয়াত তিনটাই হতে পারে না। কবি-অভিযোগের সরাসরি জবাব কুরআন অন্য জায়গায় দিয়েছে, ৫২:২৯ ও ৫২:৩০ আয়াতে এবং ৬৯:৪১ ও ৬৯:৪২ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Crowd or Many?",
+          "bn": "এক দল, নাকি অনেক দল?"
+        },
+        "p": [
+          {
+            "en": "How do the three nays relate to one another? The commentators read them two ways. Al-Qurtubi's first reading is a retreat in stages: when they saw that the matter was not as they had said, they moved off it and said he invented it, then moved off that and said he is a poet. They are bewildered, he says, settling on nothing: once magic, once dreams, once invention, once a poet. Ma'arif al-Qur'an lays out the same sequence: first magic, the charge the third verse has already voiced, then dreams, then forgery, and finally the poet.",
+            "bn": "তিনটি বাল একটা আরেকটার সঙ্গে কীভাবে যুক্ত? মুফাসসিররা দুইভাবে পড়েন। কুরতুবীর প্রথম পাঠে এ ধাপে ধাপে পিছু হটা। তারা যখন দেখল ব্যাপারটা তাদের কথামতো নয়, তখন সেখান থেকে সরে বলল, সে বানিয়েছে। তারপর সেটা থেকেও সরে বলল, সে কবি। তাঁর ভাষায়, তারা দিশেহারা, কোনো কিছুতেই স্থির থাকতে পারে না: একবার জাদু, একবার স্বপ্ন, একবার বানানো কথা, একবার কবি। মাআরিফুল কুরআনও একই ক্রম সাজায়: প্রথমে জাদু, যে অভিযোগ তৃতীয় আয়াতেই উঠেছে, তারপর স্বপ্ন, তারপর জালিয়াতি, আর সবশেষে কবি।"
+          },
+          {
+            "en": "The second reading divides the labels among different people. At-Tabari writes it that way from the start: some of them said a vision, some said a forgery, some said a poet. Al-Baghawi says the idolaters shared the talk out among themselves, and the Muyassar likewise gives each claim its own speaker. Al-Qurtubi records this too, under the words it is said: a party said a sorcerer, another dreams, another an invention, another a poet. Ibn Kathir and as-Sa'di write sometimes they said this, sometimes that, without settling which.",
+            "bn": "দ্বিতীয় পাঠে নামগুলো ভাগ হয়ে যায় ভিন্ন ভিন্ন লোকের মধ্যে। তাবারী শুরু থেকেই এভাবে লেখেন: তাদের কেউ বলল স্বপ্ন, কেউ বলল জালিয়াতি, কেউ বলল কবি। বাগাভী বলেন, মুশরিকরা কথাটা নিজেদের মধ্যে ভাগাভাগি করে নিয়েছিল। মুয়াসসারেও প্রত্যেক দাবির জন্য আলাদা বক্তা। কুরতুবীও 'বলা হয়' কথাটি দিয়ে এ পাঠ উল্লেখ করেন: এক দল বলল জাদুকর, এক দল স্বপ্ন, এক দল বানানো কথা, এক দল কবি। ইবন কাসীর আর সা'দী লেখেন, কখনো তারা এটা বলত, কখনো ওটা। কোন পাঠ ঠিক, তাঁরা তা নির্ধারণ করেন না।"
+          },
+          {
+            "en": "The two readings stay side by side here, as they do in the sources. Qatada's line, which at-Tabari preserves, fits either: all of this came from them. Ibn Kathir names what the verse exposes: their obstinacy and deviation, their disagreement over what to call the Qur'an, their bewilderment about it and their straying from it. He joins it to 17:48 and 25:9, see how they strike comparisons for you, so they have strayed and cannot find a way. One crowd shifting or many voices clashing, the verdict refuses to hold still.",
+            "bn": "দুটি পাঠই এখানে পাশাপাশি থাকছে, উৎসগুলোতেও যেমন আছে। তাবারী কাতাদার যে কথাটি সংরক্ষণ করেছেন, তা দুই পাঠেই খাটে: এর সবই তাদের কাছ থেকে এসেছে। আয়াতটি কী ফাঁস করে দেয়, ইবন কাসীর তার নাম দেন। তাদের একগুঁয়েমি আর বক্রতা, কুরআনকে কী নামে ডাকবে তা নিয়ে নিজেদের মতভেদ, এ নিয়ে তাদের দিশেহারা অবস্থা আর এ থেকে পথ হারানো। তিনি এর সঙ্গে জুড়ে দেন ১৭:৪৮ ও ২৫:৯ আয়াত: দেখুন, তারা আপনার জন্য কেমন সব উপমা দেয়, ফলে পথ হারিয়েছে, আর কোনো পথ খুঁজে পায় না। একই দল বারবার মত বদলাক বা অনেক কণ্ঠ পরস্পরের সঙ্গে ঠোকাঠুকি করুক, রায়টা কোথাও স্থির থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sign Like the First",
+          "bn": "আগের রাসূলদের মতো নিদর্শন"
+        },
+        "p": [
+          {
+            "en": "The verse ends on a demand: fal-ya'tina bi-ayatin kama ursila al-awwalun, so let him bring us a sign, as the first ones were sent. At-Tabari spells out its conditions. Let Muhammad bring it if he is truthful in saying that Allah sent him to us and that what he recites is revelation: an argument and a proof of what he claims, of the kind the earlier messengers brought, raising the dead, healing the blind and the leper, the she-camel of Salih (AS), wonders that only Allah can do and only prophets bring.",
+            "bn": "আয়াতটি শেষ হয় এক দাবি দিয়ে: ফালইয়া'তিনা বিআয়াতিন কামা উরসিলাল আওয়ালূন, তাহলে সে আমাদের কাছে একটা নিদর্শন আনুক, যেমন আগের রাসূলদের পাঠানো হয়েছিল। দাবির শর্তগুলো তাবারী খুলে বলেন। মুহাম্মাদ যদি এ কথায় সত্যবাদী হয় যে আল্লাহ তাকে আমাদের কাছে রাসূল করে পাঠিয়েছেন আর সে যা পড়ে শোনায় তা ওয়াহী, তবে সে প্রমাণ নিয়ে আসুক। এমন প্রমাণ, যা আগের রাসূলরা এনেছিলেন: মৃতকে জীবিত করা, জন্মান্ধ আর কুষ্ঠরোগীকে সুস্থ করা, সালিহ (আঃ)-এর উটনী। এমন অলৌকিক কাজ, যা আল্লাহ ছাড়া কেউ পারে না, আর নবী-রাসূল ছাড়া কেউ আনে না।"
+          },
+          {
+            "en": "Which earlier signs they had in mind, the commentators name in slightly different lists. Qatada, in at-Tabari: as Isa (AS) came with clear proofs, and Musa (AS), and the messengers. Ibn Kathir: the she-camel of Salih and the signs of Musa and Isa. Al-Qurtubi: Musa sent with the staff and other signs, and the like of the she-camel. As-Sa'di: the she-camel and the staff. The Muyassar adds the telling word, a miracle mahsusa, one that can be perceived by the senses. They wanted something to see and touch, not words to hear.",
+            "bn": "আগের কোন নিদর্শনগুলোর কথা তারা ভাবছিল, মুফাসসিররা তার তালিকা দেন একটু ভিন্ন ভিন্নভাবে। তাবারীর বর্ণনায় কাতাদা বলেন: যেমন ঈসা (আঃ) স্পষ্ট প্রমাণ নিয়ে এসেছিলেন, মূসা (আঃ)-ও, আর অন্য রাসূলরাও। ইবন কাসীর বলেন: সালিহ (আঃ)-এর উটনী, আর মূসা ও ঈসার নিদর্শন। কুরতুবী বলেন: মূসাকে যেমন লাঠি আর অন্যান্য নিদর্শন দিয়ে পাঠানো হয়েছিল, আর উটনীর মতো কিছু। সা'দী বলেন: উটনী আর লাঠি। মুয়াসসার জুড়ে দেয় অর্থবহ একটি শব্দ, মু'জিযা মাহসূসা, এমন অলৌকিক নিদর্শন যা ইন্দ্রিয় দিয়ে অনুভব করা যায়। তারা চাইছিল চোখে দেখার আর হাতে ছোঁয়ার মতো কিছু, কানে শোনার বাণী নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Demand Built to Fail",
+          "bn": "যে দাবি ব্যর্থ হওয়ার জন্যই"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi does not take the demand at face value. They knew, he says, that the Qur'an was neither magic nor a dream; what they wanted was a sign of their own proposing, and they had no claim to propose one after seeing a sign already. And if they would not believe a sign of the very kind they knew better than anyone, with no room for doubt in it, how would they believe another? Had he healed the blind and the leper, they would have said: that is medicine, not our craft.",
+            "bn": "কুরতুবী দাবিটাকে বাইরের চেহারায় নেন না। তাঁর কথা, তারা জানত কুরআন জাদুও নয়, স্বপ্নও নয়। তারা চাইছিল নিজেদের পছন্দমতো এক নিদর্শন। অথচ একটা নিদর্শন দেখার পর নতুন করে ফরমায়েশ দেওয়ার কোনো অধিকার তাদের ছিল না। যে ধরনের জিনিস তারা সবার চেয়ে ভালো বোঝে, সন্দেহের কোনো সুযোগ যাতে নেই, সেই নিদর্শনেই যদি ঈমান না আনে, তবে অন্য নিদর্শনে আনবে কীভাবে? তিনি যদি জন্মান্ধ আর কুষ্ঠরোগীকে সুস্থও করতেন, তারা বলত: এ তো চিকিৎসার ব্যাপার, আমাদের পেশা নয়।"
+          },
+          {
+            "en": "So their asking, al-Qurtubi concludes, was ta'annut, a demand made to obstruct, since Allah had already given them signs enough; had they been people who would believe, He would have given what they asked, as 8:23 says. As-Sa'di frames it as a dilemma. If their aim was to know the truth, its proof was already plain without the signs they named. If their aim was to defeat him and excuse themselves, they would not believe even if every sign came to them, until they saw the painful punishment.",
+            "bn": "কুরতুবীর উপসংহার, তাদের চাওয়াটা ছিল তা'আন্নুত, বাধা দেওয়ার জন্য জেদ। কারণ যথেষ্ট নিদর্শন আল্লাহ তাদের আগেই দিয়েছিলেন। তারা ঈমান আনার লোক হলে আল্লাহ তাদের চাওয়া পূরণ করতেন, ৮:২৩ আয়াত যেমন বলে। সা'দী বিষয়টাকে দুই দিক থেকে আটকে দেন। তাদের উদ্দেশ্য যদি হয় সত্য জানা, তবে তার প্রমাণ এসব নিদর্শন ছাড়াই স্পষ্ট হয়ে গেছে। আর উদ্দেশ্য যদি হয় তাঁকে অক্ষম প্রমাণ করা আর নিজেদের জন্য অজুহাত দাঁড় করানো, তবে সব নিদর্শন এলেও তারা ঈমান আনবে না, যতক্ষণ না যন্ত্রণাদায়ক শাস্তি নিজের চোখে দেখে।"
+          },
+          {
+            "en": "Why was the named sign withheld? Ibn Kathir answers with 17:59: nothing kept Us from sending the signs except that the earlier peoples denied them, and Thamud were given the she-camel and wronged her. Ma'arif al-Qur'an explains the mercy in it: peoples of old were shown the miracles they chose, did not submit, and were destroyed, and Allah, out of mercy and the Prophet's honour, spared this ummah that end. Al-Baghawi notes that Allah answers them in the very next verse, 21:6, which carries that argument further.",
+            "bn": "তাদের ফরমায়েশি নিদর্শন কেন দেওয়া হলো না? ইবন কাসীর জবাব দেন ১৭:৫৯ আয়াত দিয়ে: নিদর্শন পাঠাতে আমাকে কিছুই বাধা দেয়নি, শুধু এটুকু ছাড়া যে আগের লোকেরা সেগুলো প্রত্যাখ্যান করেছিল। সামূদকে উটনী দেওয়া হয়েছিল, আর তারা তার উপর যুলম করেছিল। মাআরিফুল কুরআন এর ভেতরের রহমতটা ব্যাখ্যা করে। আগের জাতিগুলো তাদের পছন্দের মু'জিযা দেখেছিল, তবু মাথা নত করেনি, ফলে ধ্বংস হয়েছে। আল্লাহ রহমত করে এবং নবী ﷺ-এর মর্যাদার খাতিরে এই উম্মতকে সেই পরিণতি থেকে রক্ষা করেছেন। বাগাভী জানান, ঠিক পরের আয়াত ২১:৬-এ আল্লাহ তাদের জবাব দিয়েছেন, যা যুক্তিটাকে আরও এগিয়ে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Sign Already Recited",
+          "bn": "যে নিদর্শন তিলাওয়াত হচ্ছিল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di turns from the labels to the thing labelled. Anyone with the least knowledge of the Messenger's life who looked at what he brought, he says, would be certain beyond doubt that it is the most sublime of speech, that it is from Allah, and that no human being could produce the like of even part of it. Allah challenged His enemies to do so; they had every motive, and could not. What else kept them up at night and tangled their tongues, he asks, but a truth nothing can stand against?",
+            "bn": "সা'দী নামগুলো ছেড়ে নজর দেন যাকে নাম দেওয়া হচ্ছে তার দিকে। তিনি বলেন, রাসূলের জীবন সম্পর্কে সামান্য জানাশোনাও যার আছে, সে যদি তাঁর আনা বাণীর দিকে তাকায়, তবে নিঃসন্দেহে বুঝবে, এ সবচেয়ে মহান কথা, এ আল্লাহর কাছ থেকে এসেছে, আর কোনো মানুষ এর একটা অংশের মতোও কিছু বানাতে পারে না। আল্লাহ তাঁর শত্রুদের সে চ্যালেঞ্জ দিয়েছিলেন। মোকাবেলা করার সব তাগিদ তাদের ছিল, তবু তারা পারেনি। তিনি প্রশ্ন করেন, যে সত্যের সামনে কিছুই টেকে না, সেটা ছাড়া আর কী তাদের রাতের ঘুম কেড়ে নিয়েছিল, জিভ জড়িয়ে দিয়েছিল?"
+          },
+          {
+            "en": "The labels, as-Sa'di says, were spoken to put off those who did not yet know the Qur'an. For it is the greatest of the lasting signs, proof of the Messenger's truthfulness, sufficient and healing; whoever seeks some other proof, or proposes some sign besides it, is ignorant and a wrongdoer, like these obstinate deniers. Ibn Kathir closes his passage the same way: the signs they witnessed at the Prophet's hands were clearer and more overwhelming than any shown with another prophet. None of the eight tafsirs fetched attaches a sound hadith to this verse.",
+            "bn": "সা'দী বলেন, এসব নাম দেওয়া হয়েছিল যারা কুরআনকে তখনো চেনেনি, তাদের দূরে সরিয়ে রাখতে। অথচ কুরআনই সবচেয়ে বড় চিরস্থায়ী নিদর্শন, রাসূলের সত্যবাদিতার প্রমাণ, যথেষ্ট এবং শিফা। এর বাইরে যে অন্য প্রমাণ খোঁজে বা অন্য কোনো নিদর্শনের ফরমায়েশ দেয়, সে অজ্ঞ ও যালিম, এই জেদি অস্বীকারকারীদেরই মতো। ইবন কাসীরও তাঁর আলোচনা এভাবেই শেষ করেন: নবী ﷺ-এর হাতে তারা যেসব নিদর্শন দেখেছিল, তা অন্য যেকোনো নবীর নিদর্শনের চেয়ে স্পষ্ট ও প্রবল। যে আটটি তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "This needs saying plainly. The speakers here are the deniers of Quraysh in Makkah at that hour, and the verse records what they said about the Qur'an and its Messenger. It licenses nothing against any living person or community, neither a neighbour who doubts nor any people as a whole. The fourth verse has already placed the verdict where it belongs: my Lord knows what is said in the heaven and the earth. What the verse hands the reader is not a target but a mirror.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এখানে যারা কথা বলছে, তারা সে সময়ের মক্কায় কুরাইশের অস্বীকারকারীরা। কুরআন আর তার রাসূল সম্পর্কে তারা যা বলেছিল, আয়াতটি তা-ই লিপিবদ্ধ করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। সন্দেহে ভোগা কোনো প্রতিবেশীর বিরুদ্ধে নয়, কোনো জাতির বিরুদ্ধেও নয়। রায়টা কোথায় থাকবে, চতুর্থ আয়াত আগেই তা বলে দিয়েছে: আসমান ও যমীনে যা বলা হয়, আমার রব সব জানেন। আয়াতটি পাঠকের হাতে কোনো নিশানা তুলে দেয় না, তুলে দেয় একটা আয়না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names That Spare Listening",
+          "bn": "না শোনার সহজ নাম"
+        },
+        "p": [
+          {
+            "en": "Turn it inward. What the verse lays bare is a habit any of us can fall into: meeting words we cannot answer by giving them a name that frees us from answering. Only a dream. Only made up. Only poetry. The names need not agree with each other, because their work is not to describe but to excuse. When one fails, the next arrives. And at the end of the list comes the demand for some other proof, as though the proof already being recited could wait.",
+            "bn": "এবার দৃষ্টিটা নিজের দিকে ফেরান। আয়াতটি যে অভ্যাস খুলে দেখায়, তাতে আমাদের যে কেউ পড়ে যেতে পারি। যে কথার জবাব দিতে পারি না, তাকে এমন একটা নাম দিয়ে দিই, যাতে আর জবাব দিতে না হয়। ওটা তো স্বপ্ন। ওটা তো বানানো। ওটা তো কবিতা মাত্র। নামগুলোর মধ্যে মিল থাকার দরকার পড়ে না, কারণ তাদের কাজ বর্ণনা করা নয়, অজুহাত জোগানো। একটা খাটে না, পরেরটা হাজির হয়। আর তালিকার শেষে আসে অন্য কোনো প্রমাণের দাবি, যেন যে প্রমাণ সামনে তিলাওয়াত হচ্ছে, সেটা অপেক্ষা করতে পারে।"
+          },
+          {
+            "en": "So the verse asks something of the one reading it. When a passage of the Qur'an presses on a part of my life I would rather leave alone, do I sit with it, or do I file it away: not for me, not for now, not meant literally? If my reasons keep changing while my refusal stays the same, the reasons were never the point. The way out is the one as-Sa'di's reasoning points to: look at what was brought, read it, and let the words themselves be the sign they already are.",
+            "bn": "তাই আয়াতটি পাঠকের কাছে কিছু চায়। কুরআনের কোনো অংশ যখন আমার জীবনের এমন জায়গায় চাপ দেয়, যেখানে হাত দিতে মন চায় না, তখন আমি কি তার সঙ্গে একটু বসি, নাকি তাকের উপর তুলে রাখি: এটা আমার জন্য নয়, এখন নয়, এর আক্ষরিক অর্থ নেওয়া যাবে না? আমার কারণগুলো যদি বারবার বদলায় অথচ অস্বীকারটা একই থাকে, তবে বুঝতে হবে কারণগুলো কখনোই আসল ব্যাপার ছিল না। বেরোনোর পথ সেটাই, যেদিকে সা'দীর যুক্তি ইশারা করে: যা আনা হয়েছে তার দিকে তাকান, পড়ুন, আর বাণীকে নিজেই সেই নিদর্শন হতে দিন, যা সে আগে থেকেই।"
+          }
+        ]
+      }
+    ]
+  },
   "21:7": {
     "sections": [
       {
