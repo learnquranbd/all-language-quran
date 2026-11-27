@@ -37573,6 +37573,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not settle the verdict before you look. A search that already knows its answer is only a show, and every scheme against the truth ends in loss.",
     "lessonBn": "দেখার আগেই রায় ঠিক করে ফেলবেন না। যে খোঁজ আগেই উত্তর জানে, তা কেবল প্রদর্শনী। আর সত্যের বিরুদ্ধে প্রতিটি চক্রান্তের শেষ ক্ষতিতে।"
+  },
+  "41:15": {
+    "reflectionEn": "'Ad looked at their own frames and asked a question they thought no one could answer: who is stronger than us? The verse answers with a question of its own. Did they not see that Allah, who created them, is stronger than them in strength? The answer was inside the asking. Every bit of the strength they boasted of had been given to them, and the Giver is not outmatched by His gift. Their arrogance, the verse says, was without right, and alongside it ran a steady rejection of His signs. Few of us say their sentence aloud. Yet it can sit quietly under a plan, a bank balance, a good season of health. What am I leaning on that I did not make?",
+    "reflectionBn": "'আদ জাতি নিজেদের বিশাল দেহের দিকে তাকিয়ে এমন এক প্রশ্ন ছুড়েছিল, যার জবাব কারও কাছে নেই বলেই তারা ভাবত: আমাদের চেয়ে শক্তিশালী আর কে আছে? আয়াত জবাব দেয় পাল্টা প্রশ্নে। তারা কি দেখেনি, যে আল্লাহ তাদের সৃষ্টি করেছেন, শক্তিতে তিনি তাদের চেয়ে প্রবল? জবাবটা প্রশ্নের ভেতরেই ছিল। যে শক্তি নিয়ে এত বড়াই, তার প্রতিটি কণা তাদের দান করা হয়েছিল। আর দাতা কখনো নিজের দানের কাছে হার মানেন না। আয়াত বলছে, তাদের অহংকার ছিল না-হক, আর তার পাশাপাশি চলছিল আল্লাহর নিদর্শন একটানা অস্বীকার। কথাটা আমরা খুব কম লোকই মুখে বলি। তবু তা চুপচাপ লুকিয়ে থাকতে পারে কোনো পরিকল্পনার নিচে, ব্যাংকের হিসাবের নিচে, সুস্থ শরীরের কোনো ভালো মৌসুমের নিচে। যা আমি নিজে বানাইনি, এমন কিসের ওপর আমি ভর দিয়ে আছি?",
+    "pointsEn": [
+      "Which strength of mine, in body, money, position or skill, have I begun to treat as protection rather than as something lent to me?",
+      "When someone warns me, do I weigh the warning, or answer it with my own sense of how secure I am?",
+      "Where have I used my strength over the people around me without any right to do so?",
+      "When did I last look at my hands, my health or my mind and remember the One who made them?",
+      "Which reminder do I keep setting aside, not because it is unclear, but because accepting it would humble me?"
+    ],
+    "pointsBn": [
+      "শরীর, টাকা, পদ বা দক্ষতা, আমার কোন শক্তিকে আমি ধার পাওয়া জিনিস না ভেবে নিজের রক্ষাকবচ ভাবতে শুরু করেছি?",
+      "কেউ আমাকে সতর্ক করলে আমি কি সতর্কবাণীটা ওজন করে দেখি, নাকি নিজের নিরাপদ থাকার ধারণা দিয়েই তার জবাব দিয়ে দিই?",
+      "আশপাশের মানুষের ওপর কোথায় আমি কোনো হক ছাড়াই নিজের জোর খাটিয়েছি?",
+      "শেষ কবে নিজের হাত, নিজের সুস্থতা বা নিজের বুদ্ধির দিকে তাকিয়ে মনে করেছি, এগুলো কে বানিয়েছেন?",
+      "কোন উপদেশটা আমি বারবার পাশে সরিয়ে রাখি, অস্পষ্ট বলে নয়, বরং মেনে নিলে আমার মাথা নিচু হয়ে যাবে বলে?"
+    ],
+    "lessonEn": "Whatever strength you have was given by the One who created you; never treat it as a shield against Him or as a licence over others.",
+    "lessonBn": "আপনার যত শক্তি, সবই দিয়েছেন আপনার স্রষ্টা। সেই শক্তিকে কখনো তাঁর বিরুদ্ধে ঢাল বা অন্যের ওপর জোর খাটানোর ছাড়পত্র বানাবেন না।"
   }
 };
 

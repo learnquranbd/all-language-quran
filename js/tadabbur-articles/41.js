@@ -747,6 +747,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "41:15": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Warning, the Detail",
+          "bn": "সতর্কবাণীর পরে বিস্তারিত"
+        },
+        "p": [
+          {
+            "en": "Verse 41:13 told the Prophet ﷺ to say to those who turn away: I have warned you of a sa'iqa like the sa'iqa of 'Ad and Thamud. Verse 41:14 recalled the messengers who came to those peoples, and the answer they gave: had our Lord willed, He would have sent down angels. Verse 41:15 now opens the account itself with fa-amma 'Adun, as for 'Ad. As-Sa'di calls it the detailing of the story of these two nations, 'Ad and Thamud, and the second half of the pair arrives in 41:17 with wa-amma Thamudu, and as for Thamud.",
+            "bn": "৪১:১৩ আয়াতে নবী ﷺ-কে বলা হয়েছিল, যারা মুখ ফিরিয়ে নেয় তাদের জানিয়ে দিন: 'আদ ও সামূদের ওপর যে সা'ইকা নেমেছিল, তেমন এক সা'ইকার ভয় আমি তোমাদের দেখাচ্ছি। ৪১:১৪ আয়াত মনে করিয়ে দেয় সেই রসূলদের কথা, যাঁরা ওই জাতিগুলোর কাছে এসেছিলেন, আর তাদের জবাবটাও: আমাদের রব চাইলে তো ফেরেশতা পাঠাতেন। এবার ৪১:১৫ আয়াত মূল বিবরণ শুরু করে ফা-আম্মা 'আদুন দিয়ে, অর্থাৎ 'আদের কথা যদি বলি। সা'দী একে বলেন এই দুই জাতি, 'আদ ও সামূদের কাহিনির বিস্তারিত বিবরণ। জোড়ার দ্বিতীয় অংশ আসে ৪১:১৭ আয়াতে, ওয়া-আম্মা সামূদু, আর সামূদের কথা।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, commenting on 41:13 to 41:15 together, gives the purpose of the passage: to warn the people of Makkah that if, after seeing the clear proofs of Allah's Oneness, they do not accept the call of the Prophet ﷺ, they may face a punishment like that which 'Ad and Thamud faced. At-Tabari names the people at once: 'Ad, the people of Hud (AS). The verse then gives three things about them in order: their arrogance in the land, their question about strength, and their rejection of the signs, with Allah's reply set between the second and the third.",
+            "bn": "মাআরিফুল কুরআন ৪১:১৩ থেকে ৪১:১৫ পর্যন্ত আয়াতগুলো একসঙ্গে আলোচনা করে অংশটির উদ্দেশ্য বলে দেয়। মক্কার লোকদের সতর্ক করা হচ্ছে: আল্লাহর একত্বের স্পষ্ট প্রমাণ দেখার পরও যদি তারা নবী ﷺ-এর দাওয়াত না মানে, তবে 'আদ ও সামূদের মতো শাস্তি তাদের ওপরও আসতে পারে। তাবারী শুরুতেই জাতিটির পরিচয় দেন: 'আদ, হূদ (আঃ)-এর কওম। এরপর আয়াত তাদের তিনটি কথা পরপর বলে। দুনিয়াতে তাদের অহংকার, শক্তি নিয়ে তাদের প্রশ্ন, আর নিদর্শন অস্বীকার। দ্বিতীয় আর তৃতীয়টির মাঝখানে বসানো আছে আল্লাহর জবাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Arrogant Toward Whom?",
+          "bn": "অহংকার কার সামনে?"
+        },
+        "p": [
+          {
+            "en": "Fa-stakbaru fi l-ard: they were arrogant in the land. The commentators agree on the fault but point it in different directions. At-Tabari turns it upward: they were arrogant against their Lord and acted as tyrants, tajabbaru, in the land, out of pride and insolence. Ibn Kathir glosses it with three verbs, baghaw, 'ataw, 'asaw: they transgressed, they were insolent, they disobeyed. His words name the conduct without saying who suffered it, while at-Tabari's opening clause names Him against whom they set themselves.",
+            "bn": "ফাসতাকবারূ ফিল আরদ: দুনিয়াতে তারা অহংকার করেছিল। দোষটা কী, তা নিয়ে তাফসীরকারেরা একমত, তবে তার দিক দেখান ভিন্ন ভিন্ন। তাবারী দিকটা ঘোরান ওপরের দিকে: তারা অহংকার করেছিল তাদের রবের বিরুদ্ধে, আর দুনিয়াতে দম্ভ ও ঔদ্ধত্য নিয়ে জোর খাটিয়েছিল, তাজাব্বারূ। ইবন কাসীর ব্যাখ্যা দেন তিনটি ক্রিয়া দিয়ে: বাগাও, 'আতাও, 'আসাও, অর্থাৎ তারা সীমা ছাড়িয়েছে, উদ্ধত হয়েছে, নাফরমানি করেছে। তাঁর কথায় আচরণটা ধরা পড়ে, কিন্তু কার ওপর দিয়ে গেল তা বলা নেই। তাবারীর প্রথম বাক্যাংশ বরং নাম ধরে দেখিয়ে দেয়, কার বিরুদ্ধে তারা দাঁড়িয়েছিল।"
+          },
+          {
+            "en": "Others turn it outward, toward people. Al-Muyassar says 'Ad raised themselves in the land over the servants of Allah, without right. Al-Qurtubi names those servants: they were arrogant toward Hud (AS) and those who believed with him. As-Sa'di widens the circle. Besides their disbelief in Allah, their denial of His signs and their disbelief in His messengers, he says, they were overbearing in the land, subduing those around them among the servants and wronging them. None of these commentators argues against another here; the readings sit side by side, and the verse's phrase holds both.",
+            "bn": "অন্যরা দিকটা ঘোরান বাইরের দিকে, মানুষের দিকে। মুয়াসসার বলে, 'আদ জাতি দুনিয়াতে না-হক আল্লাহর বান্দাদের ওপর নিজেদের উঁচু করে তুলেছিল। কুরতুবী সেই বান্দাদের নাম বলেন: হূদ (আঃ) আর তাঁর সঙ্গে যারা ঈমান এনেছিল, তাদের সামনেই ছিল ওদের অহংকার। সা'দী বৃত্তটা আরও বড় করেন। তাঁর ভাষায়, আল্লাহর সঙ্গে কুফরি, তাঁর নিদর্শন অস্বীকার আর তাঁর রসূলদের অমান্য করার পাশাপাশি তারা দুনিয়াতে দাপট দেখাত। আশপাশের বান্দাদের দমিয়ে রাখত, তাদের ওপর জুলুম করত। এখানে কোনো তাফসীরকার অন্যজনের মত খণ্ডন করেননি। ব্যাখ্যাগুলো পাশাপাশি থাকে, আর আয়াতের শব্দ দুটোকেই ধারণ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Outside What Was Permitted",
+          "bn": "অনুমতির সীমার বাইরে"
+        },
+        "p": [
+          {
+            "en": "Bi-ghayri l-haqq: without right. At-Tabari unpacks the phrase as without anything Allah had permitted them, bi-ghayri ma adhina llahu lahum bihi. The qualifier matters for what it leaves open. The verse does not fault 'Ad for being strong, tall or many. At-Tabari himself, a few words later, counts their great build and their fierce grip among the things Allah had given them. What the verse faults is a rising-up that had no warrant: a claim to stand over others, and over their Creator, that no one had granted them.",
+            "bn": "বিগাইরিল হাক্ক: না-হক, কোনো অধিকার ছাড়া। তাবারী বাক্যাংশটা খুলে বলেন: আল্লাহ তাদের যে অনুমতি দেননি, সেই পথে, বিগাইরি মা আযিনাল্লাহু লাহুম বিহি। শর্তটার গুরুত্ব বোঝা যায় এটা কী খোলা রাখে তা থেকে। 'আদ শক্তিশালী, লম্বা বা সংখ্যায় বেশি ছিল, এ জন্য আয়াত তাদের দোষ দেয় না। তাবারী নিজেই কয়েক শব্দ পরে তাদের বিশাল দেহ আর কঠিন পাকড়াওয়ের ক্ষমতাকে আল্লাহর দেওয়া জিনিসের মধ্যে গোনেন। আয়াতের আপত্তি সেই মাথা তোলায়, যার পেছনে কোনো সনদ ছিল না। অন্যদের ওপর, এমনকি নিজেদের স্রষ্টার ওপর দাঁড়ানোর দাবি, যা কেউ তাদের দেয়নি।"
+          },
+          {
+            "en": "Al-Muyassar keeps the phrase where al-Qurtubi and as-Sa'di placed the arrogance, among people: they rose over the servants without right. Read that way, the qualifier names a wrong done to others, the wrong as-Sa'di describes as subduing and oppressing. Read with at-Tabari, it names a wrong against the One who alone grants permission. Both readings fit the same short phrase. The commentators consulted do not argue the point, and a reader can hold both together: one wrong is against the Creator, the other against those He created, and 'Ad, by these accounts, committed both.",
+            "bn": "মুয়াসসার বাক্যাংশটা রাখে সেখানেই, যেখানে কুরতুবী আর সা'দী অহংকারকে বসিয়েছেন, মানুষের মাঝে: তারা না-হক বান্দাদের ওপর মাথা তুলেছিল। এভাবে পড়লে শর্তটা অন্যের ওপর করা অন্যায়ের নাম, সা'দী যাকে বলেন দমিয়ে রাখা আর জুলুম করা। তাবারীর সঙ্গে পড়লে এটা সেই সত্তার বিরুদ্ধে অন্যায়, অনুমতি দেওয়ার মালিক একমাত্র যিনি। একই ছোট্ট বাক্যাংশে দুটো ব্যাখ্যাই খাপ খায়। যেসব তাফসীর দেখা হয়েছে, সেগুলো এ নিয়ে তর্ক করে না। পাঠক দুটোই একসঙ্গে মনে রাখতে পারেন। একটা অন্যায় স্রষ্টার বিরুদ্ধে, অন্যটা তাঁর সৃষ্টির বিরুদ্ধে। আর এসব বর্ণনা অনুযায়ী 'আদ দুটোই করেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Boast Made to a Prophet",
+          "bn": "নবীর সামনে বড়াই"
+        },
+        "p": [
+          {
+            "en": "Wa-qalu man ashaddu minna quwwatan: and they said, who is stronger than us in strength? Al-Baghawi gives the setting. Hud (AS) had warned them of the punishment, and they answered with this question, adding: we are able to push the punishment away from ourselves by the excess of our strength. Al-Qurtubi gives the same setting in nearly the same words. They were deceived by their bodies, ightarru bi-ajsamihim, when he threatened them with the punishment, and they said that their superior strength would keep it off.",
+            "bn": "ওয়া কালূ মান আশাদ্দু মিন্না কুওয়াতান: আর তারা বলল, শক্তিতে আমাদের চেয়ে প্রবল কে? প্রেক্ষাপট দেন বাগাভী। হূদ (আঃ) তাদের শাস্তির ভয় দেখিয়েছিলেন। জবাবে তারা এই প্রশ্ন করে, সঙ্গে যোগ করে: নিজেদের বাড়তি শক্তির জোরে আমরা শাস্তি ঠেকিয়ে দিতে পারি। কুরতুবীও প্রায় একই ভাষায় একই প্রেক্ষাপট বলেন। হূদ (আঃ) যখন শাস্তির হুমকি দিলেন, তারা নিজেদের দেহ দেখে ধোঁকায় পড়ল, ইগতাররূ বি-আজসামিহিম। তারা বলল, আমাদের বেশি শক্তিই শাস্তিকে দূরে রাখবে।"
+          },
+          {
+            "en": "Ibn Kathir reads the question as a boast and a belief. They prided themselves on the firmness of their build and their powers, he writes, and believed that by it they could hold themselves safe from Allah's might, ba's Allah. Al-Muyassar says they spoke in ghurur, self-delusion. As-Sa'di puts it in one phrase: their strength had impressed them, a'jabathum quwwatuhum. So the question was never a request for an answer. It was a claim, dressed as a question, that no answer existed.",
+            "bn": "ইবন কাসীরের চোখে প্রশ্নটা একই সঙ্গে বড়াই আর বিশ্বাস। তিনি লেখেন, নিজেদের মজবুত গড়ন আর শক্তি নিয়ে তারা গর্ব করত, আর বিশ্বাস করত এর জোরেই আল্লাহর পাকড়াও, বা'সুল্লাহ, থেকে নিজেদের বাঁচিয়ে রাখতে পারবে। মুয়াসসার বলে, কথাটা তারা বলেছিল গুরূর, আত্মপ্রবঞ্চনার ঘোরে। সা'দী এক বাক্যাংশে সারেন: নিজেদের শক্তি তাদের মুগ্ধ করে রেখেছিল, আ'জাবাতহুম কুওয়াতুহুম। কাজেই প্রশ্নটা আসলে জবাব চাওয়ার জন্য ছিল না। ছিল প্রশ্নের পোশাকে এক দাবি: এর কোনো জবাব নেই।"
+          },
+          {
+            "en": "Why were they so sure? Al-Baghawi and al-Qurtubi both say they had tall bodies, and al-Qurtubi adds that they were of great build. He also refers back to his commentary on al-A'raf, where he relays a report from Ibn 'Abbas giving figures for their height. He gives it no grading here, and its figures are left out of this article. The Qur'an's own fuller account of 'Ad, their messenger and his warning is in 7:65 to 7:72, and 89:6 to 89:8 names Iram of the lofty pillars, the like of whom had never been created in the land.",
+            "bn": "তারা এত নিশ্চিত ছিল কেন? বাগাভী আর কুরতুবী দুজনেই বলেন, তাদের দেহ ছিল দীর্ঘ। কুরতুবী আরও বলেন, তাদের গড়ন ছিল বিশাল। তিনি সূরা আ'রাফের আলোচনার দিকেও ইঙ্গিত করেন, যেখানে ইবন আব্বাস (রাঃ)-এর সূত্রে তাদের উচ্চতার কিছু সংখ্যা উল্লেখ করেছেন। এখানে তিনি বর্ণনাটির কোনো মান উল্লেখ করেননি, তাই সংখ্যাগুলো এ লেখায় নেওয়া হয়নি। 'আদ, তাদের রসূল আর তাঁর সতর্কবাণীর বিস্তারিত বিবরণ কুরআনেই আছে ৭:৬৫ থেকে ৭:৭২ আয়াতে। আর ৮৯:৬ থেকে ৮৯:৮ আয়াতে আছে উঁচু স্তম্ভের ইরামের কথা, যাদের মতো কাউকে দেশে সৃষ্টি করা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Own Words Returned",
+          "bn": "তাদের কথাই তাদের দিকে ফেরত"
+        },
+        "p": [
+          {
+            "en": "Awalam yaraw anna llaha lladhi khalaqahum huwa ashaddu minhum quwwatan: did they not see that Allah, who created them, is stronger than them in strength? The reply takes their own words and hands them back. They asked man ashaddu minna quwwatan, who is stronger than us in strength; the verse answers huwa ashaddu minhum quwwatan, He is stronger than them in strength. Only the pronouns change. And Allah is named in the reply with a description, alladhi khalaqahum, the One who created them, which is the point on which the commentators build.",
+            "bn": "আওয়ালাম ইয়ারাও আন্নাল্লাহাল্লাযী খালাকাহুম হুয়া আশাদ্দু মিনহুম কুওয়াতান: তারা কি দেখেনি, যে আল্লাহ তাদের সৃষ্টি করেছেন, শক্তিতে তিনি তাদের চেয়ে প্রবল? জবাবটা তাদের নিজেদের কথাই তুলে নিয়ে তাদের হাতে ফিরিয়ে দেয়। তারা জিজ্ঞেস করেছিল মান আশাদ্দু মিন্না কুওয়াতান, শক্তিতে আমাদের চেয়ে প্রবল কে। আয়াত উত্তর দেয় হুয়া আশাদ্দু মিনহুম কুওয়াতান, শক্তিতে তিনি তাদের চেয়ে প্রবল। বদলায় শুধু সর্বনাম। আর জবাবে আল্লাহর পরিচয় দেওয়া হয়েছে একটি গুণ দিয়ে, আল্লাযী খালাকাহুম, যিনি তাদের সৃষ্টি করেছেন। তাফসীরকারেরা তাঁদের ব্যাখ্যা দাঁড় করান এই কথার ওপরেই।"
+          },
+          {
+            "en": "As-Sa'di says Allah answered them with what everyone knows. Had He not created them, they would not exist at all; had they looked at their own state with a sound look, they would not have been deceived by their strength. Al-Qurtubi sets the reasoning out as a short proof: the servant is able only through Allah's making him able, iqdar, so Allah is the more able. At-Tabari folds the gift into the verse. He who created them and gave them what He gave of great build and fierce grip is stronger, so they should have feared His punishment and His assault.",
+            "bn": "সা'দী বলেন, আল্লাহ তাদের জবাব দিয়েছেন এমন কথায়, যা সবাই জানে। তিনি সৃষ্টি না করলে তাদের অস্তিত্বই থাকত না। নিজেদের অবস্থার দিকে ঠিকভাবে তাকালে তারা নিজেদের শক্তি দেখে ধোঁকা খেত না। কুরতুবী যুক্তিটা সাজান ছোট এক প্রমাণের মতো: বান্দা কিছু করতে পারে কেবল আল্লাহ তাকে সক্ষম করেন বলে, ইকদার। কাজেই আল্লাহই বেশি সক্ষম। তাবারী দানের কথাটা আয়াতের ভেতরে জুড়ে দেন। যিনি তাদের সৃষ্টি করেছেন, আর বিশাল দেহ ও কঠিন পাকড়াওয়ের শক্তি দিয়েছেন, তিনিই বেশি শক্তিশালী। তাই তাঁর শাস্তি আর তাঁর আঘাতকে তাদের ভয় করা উচিত ছিল।"
+          },
+          {
+            "en": "Ibn Kathir turns the question back on those who asked it. Do they not reflect, he says, on whom they are facing in open enmity? He is the Magnificent, al-'Azim, who created things and set in them the powers that carry them, and His seizing is severe. He then cites 51:47: and the heaven We constructed with strength, and indeed, We are its expander. The proof he reaches for is the building of the sky. As-Sa'di adds a line that leads into the next verse: Allah punished them with a punishment suited to the strength by which they had been deceived. The wind itself belongs to 41:16.",
+            "bn": "ইবন কাসীর প্রশ্নটা ঘুরিয়ে দেন প্রশ্নকারীদের দিকেই। তিনি বলেন, তারা কি ভেবে দেখে না, প্রকাশ্য শত্রুতা নিয়ে কার মুখোমুখি দাঁড়িয়েছে? তিনি মহান, যিনি সব কিছু সৃষ্টি করেছেন আর প্রতিটির ভেতরে বহন করার শক্তি দিয়েছেন। তাঁর পাকড়াও বড় কঠিন। এরপর তিনি ৫১:৪৭ আয়াত আনেন: আর আকাশ আমি নির্মাণ করেছি শক্তি দিয়ে, আর আমিই তার প্রসারণকারী। প্রমাণ হিসেবে তিনি বেছে নেন আকাশের নির্মাণ। সা'দী একটি বাক্য যোগ করেন, যা পরের আয়াতের দিকে নিয়ে যায়: যে শক্তি দেখে তারা ধোঁকা খেয়েছিল, আল্লাহ তাদের শাস্তি দিলেন সেই শক্তির উপযোগী করে। ঝড়ের বিবরণ অবশ্য ৪১:১৬ আয়াতের বিষয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proofs, Arguments or Miracles",
+          "bn": "দলিল, যুক্তি না মুজিযা"
+        },
+        "p": [
+          {
+            "en": "Wa-kanu bi-ayatina yajhadun: and they kept rejecting Our signs. Until now the verse has spoken of Allah by name, in the third person; here it speaks in the first person plural, ayatina, Our signs. The form kanu yajhadun, a past 'were' with a present-tense verb, describes something they went on doing, not a single refusal. At-Tabari and al-Muyassar gloss the signs in the same words, Our proofs and Our arguments, adillatuna wa-hujajuna. At-Tabari adds 'against them': these were proofs that stood against 'Ad.",
+            "bn": "ওয়া কানূ বি-আয়াতিনা ইয়াজহাদূন: আর তারা আমার নিদর্শনগুলো অস্বীকার করেই চলছিল। এ পর্যন্ত আয়াত আল্লাহর কথা বলেছে নাম ধরে, যেন তাঁর সম্পর্কে অন্য কেউ বলছে। এখানে কথা বলছেন আল্লাহ নিজেই, বহুবচনের সর্বনামে: আয়াতিনা, আমার নিদর্শন। কানূ ইয়াজহাদূন গঠনে অতীতের 'কানূ'-র সঙ্গে বর্তমান কালের ক্রিয়া বসেছে। এতে বোঝায় একবারের অস্বীকার নয়, এটা ছিল তাদের চলমান অভ্যাস। তাবারী আর মুয়াসসার নিদর্শনের ব্যাখ্যা দেন একই শব্দে: আমার দলিল ও আমার যুক্তি, আদিল্লাতুনা ওয়া হুজাজুনা। তাবারী যোগ করেন 'তাদের বিরুদ্ধে', অর্থাৎ এসব দলিল দাঁড়িয়ে ছিল 'আদের বিপক্ষে।"
+          },
+          {
+            "en": "Al-Qurtubi gives the word a narrower sense: bi-mu'jizatina yakfurun, they disbelieved in Our miracles. The difference is real, though small. In at-Tabari's reading the signs are every proof set before them; in al-Qurtubi's, the miracles that came with their messenger. As-Sa'di puts the rejection before the arrogance, opening his comment on 'Ad with their disbelief in Allah, their denial of His signs and their disbelief in His messengers, and only then describing their oppression. At-Tabari likewise ties the fear they should have felt to their disbelief in Him and their denial of His messengers.",
+            "bn": "কুরতুবী শব্দটার অর্থ একটু সরু করে আনেন: বি-মু'জিযাতিনা ইয়াকফুরূন, তারা আমার মুজিযাগুলো অবিশ্বাস করত। পার্থক্যটা ছোট, কিন্তু সত্যিকারের। তাবারীর ব্যাখ্যায় নিদর্শন মানে তাদের সামনে রাখা সব প্রমাণ। কুরতুবীর ব্যাখ্যায় তাদের রসূলের সঙ্গে আসা মুজিযা। সা'দী অস্বীকারের কথা আনেন অহংকারের আগেই। 'আদের আলোচনা তিনি শুরু করেন আল্লাহর সঙ্গে তাদের কুফরি, তাঁর নিদর্শন অস্বীকার আর তাঁর রসূলদের অমান্য করার কথা দিয়ে, তারপর বলেন তাদের জুলুমের কথা। তাবারীও তাদের যে ভয় পাওয়া উচিত ছিল, তাকে জুড়ে দেন আল্লাহর সঙ্গে কুফরি আর তাঁর রসূলদের মিথ্যা বলার সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Disdaining Truth, Belittling People",
+          "bn": "সত্যকে অবজ্ঞা, মানুষকে তুচ্ছ"
+        },
+        "p": [
+          {
+            "en": "No commentary consulted here attaches a hadith or an occasion of revelation to this verse. A sound narration on pride in general, not tied to 41:15, is in Muslim's Sahih, number 91, from 'Abdullah ibn Mas'ud: the Messenger of Allah ﷺ said: \"He who has in his heart the weight of a mustard seed of pride shall not enter Paradise. A person (amongst his hearers) said: Verily a person loves that his dress should be fine, and his shoes should be fine. He (the Holy Prophet) remarked: Verily, Allah is Graceful and He loves Grace. Pride is disdaining the truth (out of self-conceit) and contempt for the people.\"",
+            "bn": "এ আয়াতের জন্য দেখা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, শানে নুযূলও বলেনি। তবে অহংকার নিয়ে সাধারণভাবে একটি সহীহ বর্ণনা আছে, যদিও এসব সূত্র তাকে ৪১:১৫ আয়াতের সঙ্গে জোড়েনি। ইমাম মুসলিম তাঁর সহীহ গ্রন্থে, ৯১ নম্বরে, আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"যার অন্তরে সরিষার দানা পরিমাণ অহংকার আছে, সে জান্নাতে প্রবেশ করবে না। (শ্রোতাদের মধ্যে) একজন বলল: মানুষ তো চায় তার পোশাক সুন্দর হোক, তার জুতা সুন্দর হোক। তিনি বললেন: নিশ্চয়ই আল্লাহ সুন্দর, তিনি সৌন্দর্য ভালোবাসেন। অহংকার হল (আত্মম্ভরিতায়) সত্যকে অবজ্ঞা করা আর মানুষকে তুচ্ছ জ্ঞান করা।\""
+          },
+          {
+            "en": "The Arabic of this report has mithqal dharra, the weight of a speck, which the translation quoted renders as a mustard seed; Muslim adds no grading of his own beyond placing it in his Sahih. Its definition has two parts, batar al-haqq and ghamt an-nas: disdaining the truth and looking down on people. Set beside the verse, the two parts match what the commentators found in 'Ad, the signs they kept rejecting and the servants they rose over without right. The match is drawn here, not by the commentators, and the narration stands on its own.",
+            "bn": "এ বর্ণনার আরবীতে আছে মিসকালু যাররা, অর্থাৎ এক কণার ওজন। উদ্ধৃত অনুবাদ একে বলেছে সরিষার দানা। সহীহ গ্রন্থে রাখার বাইরে ইমাম মুসলিম নিজে আলাদা কোনো মান উল্লেখ করেননি। সংজ্ঞাটির দুটি অংশ: বাতারুল হাক্ক আর গামতুন নাস, সত্যকে অবজ্ঞা করা আর মানুষকে তুচ্ছ ভাবা। আয়াতের পাশে রাখলে দুটি অংশ মিলে যায় তাফসীরকারেরা 'আদের মধ্যে যা দেখেছেন তার সঙ্গে। যে নিদর্শন তারা অস্বীকার করেই চলছিল, আর যে বান্দাদের ওপর তারা না-হক মাথা তুলেছিল। মিলটা অবশ্য এ লেখার, তাফসীরকারদের নয়। বর্ণনাটি নিজের জায়গায় স্বতন্ত্র।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Present-Day People in View",
+          "bn": "আজকের কোনো জাতি এর লক্ষ্য নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes one people, 'Ad, the people of Hud (AS), and what they said and did: arrogance in the land without right, a boast about strength, and a steady rejection of Allah's signs. It licenses nothing against any living person or community. It gives no one standing to call a present-day nation a new 'Ad, to read a storm, earthquake or other disaster that strikes people today as their punishment, or to treat strength, height or prosperity as a mark against anyone. The judgment it reports is Allah's, about a people of the past.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একটি জাতির কথা বলে, হূদ (আঃ)-এর কওম 'আদ, আর তারা যা বলেছে ও করেছে তার কথা: দুনিয়াতে না-হক অহংকার, শক্তি নিয়ে বড়াই, আর আল্লাহর নিদর্শন একটানা অস্বীকার। আজ বেঁচে থাকা কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো জাতিকে নতুন 'আদ বলার অধিকার এটা কাউকে দেয় না। মানুষের ওপর আজ যে ঝড়, ভূমিকম্প বা অন্য দুর্যোগ আসে, তাকে তাদের শাস্তি বলে রায় দেওয়ারও না। শক্তি, উচ্চতা বা সচ্ছলতাকে কারও বিরুদ্ধে দোষের চিহ্ন ভাবারও না। আয়াত যে ফয়সালার কথা বলে, তা আল্লাহর, অতীতের এক জাতির ব্যাপারে।"
+          },
+          {
+            "en": "What the verse leaves the reader is a question to ask inwardly. 'Ad's sentence, who is stronger than us, is seldom said aloud, but it can live in how a person meets a warning, treats a weaker colleague, or sets aside a reminder that would cost some pride. The reply in the verse works on any strength: health, wealth, office, numbers or skill were all given by the One who created their holder, and the Giver is stronger than the gift. Ibn Kathir's word for 'Ad's stance was open enmity. The opposite stance is to know where one's strength came from, and to use it only as He permits.",
+            "bn": "পাঠকের জন্য আয়াতটি রেখে যায় নিজের ভেতরে করার মতো একটি প্রশ্ন। 'আদের কথাটা, আমাদের চেয়ে শক্তিশালী কে, খুব কমই কেউ মুখে বলে। কিন্তু তা বেঁচে থাকতে পারে মানুষ কীভাবে সতর্কবাণী নেয়, দুর্বল সহকর্মীর সঙ্গে কেমন আচরণ করে, কিংবা যে উপদেশ মানলে একটু অহং ছাড়তে হয় তা কীভাবে সরিয়ে রাখে, তার ভেতরে। আয়াতের জবাব যেকোনো শক্তির বেলায় খাটে। সুস্থতা, সম্পদ, পদ, লোকবল বা দক্ষতা, সবই দিয়েছেন সেই সত্তা, যিনি এসবের মালিককে সৃষ্টি করেছেন। আর দাতা দানের চেয়ে বড়। ইবন কাসীর 'আদের অবস্থানকে বলেছেন প্রকাশ্য শত্রুতা। এর উল্টো অবস্থান হল, শক্তি কোথা থেকে এসেছে তা জানা, আর তাঁর অনুমতির ভেতরেই তা ব্যবহার করা।"
+          }
+        ]
+      }
+    ]
+  },
   "41:16": {
     "sections": [
       {
