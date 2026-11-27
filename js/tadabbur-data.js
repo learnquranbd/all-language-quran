@@ -34919,6 +34919,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Pride is built long before the truth arrives, in how we rise over others; stay humble with people, and you will not find yourself too high to accept the truth.",
     "lessonBn": "সত্য আসার অনেক আগেই অহংকার গড়ে ওঠে, অন্যের উপর নিজেকে উঁচু করার ভেতর দিয়ে। মানুষের সঙ্গে বিনয়ী থাকুন, তাহলে সত্য মেনে নেওয়ার বেলায় নিজেকে এত উঁচুতে পাবেন না যে নামতে পারবেন না।"
+  },
+  "23:53": {
+    "reflectionEn": "One verse earlier, every messenger is told the same thing: this community of yours is one community, and I am your Lord, so fear Me. Then comes the word but. The followers took the one religion and cut it into pieces, each group carrying off its own piece, or its own book, and each delighted with what it held. The fault is not only the cutting. It is the comfort afterwards, the pleasure of being sure that the truth sits with me and my side and nowhere else. The verse is not a list of other people's names. It is a question about my own joy. Am I glad because I follow the way of the messengers, or only because the way is mine?",
+    "reflectionBn": "ঠিক আগের আয়াতে সব রসূলকে একই কথা বলা হয়েছে: তোমাদের এই উম্মত একই উম্মত, আর আমিই তোমাদের রব, কাজেই আমাকে ভয় করো। তারপরই আসে একটা ‘কিন্তু’। অনুসারীরা এক দীনকে টুকরো টুকরো করে ফেলল। প্রত্যেক দল নিজের ভাগের টুকরো, কিংবা নিজের আলাদা কিতাব নিয়ে চলে গেল, আর যার হাতে যা আছে তা নিয়েই সে খুশি। দোষ শুধু ভাগ করায় নয়। দোষ তার পরের আরামেও: এই নিশ্চিন্ত তৃপ্তি যে সত্য আছে কেবল আমার আর আমার দলের কাছে, আর কোথাও নেই। আয়াতটি অন্যদের নামের তালিকা নয়। এ প্রশ্ন আমার নিজের আনন্দ নিয়ে। আমি কি খুশি এ কারণে যে রসূলদের পথে আছি, নাকি শুধু এ কারণে যে পথটা আমার?",
+    "pointsEn": [
+      "When I feel certain that my group is right, is that certainty built on what the messengers taught, or on the comfort of belonging?",
+      "Which parts of the revelation do I hold close, and which do I quietly leave to others because they do not suit me?",
+      "Do I treat a difference of opinion in a small matter as if it were a split in the religion itself?",
+      "When I hear this verse, do I first think of other people, or do I look at what I myself am rejoicing in?",
+      "What would it take for me to sit with someone who disagrees with me and still feel we serve one Lord?"
+    ],
+    "pointsBn": [
+      "আমার দলই ঠিক, এই নিশ্চয়তা যখন অনুভব করি, তার ভিত কি রসূলদের শিক্ষা, নাকি কোনো দলের অংশ হওয়ার আরাম?",
+      "ওহির কোন অংশ আমি আঁকড়ে ধরি, আর কোন অংশ মনমতো না হওয়ায় চুপচাপ অন্যদের জন্য রেখে দিই?",
+      "ছোটখাটো কোনো মাসআলায় মতভেদকে কি আমি দীনের ভেতরেই ভাঙন বলে ধরে নিই?",
+      "এ আয়াত শুনে প্রথমেই কি অন্যদের কথা মনে পড়ে, নাকি নিজে কী নিয়ে খুশি আছি সেদিকে তাকাই?",
+      "আমার সঙ্গে যে একমত নয়, তার পাশে বসেও যেন মনে হয় আমরা একই রবের বান্দা, সেজন্য আমার ভেতরে কী বদলানো দরকার?"
+    ],
+    "lessonEn": "The religion of every messenger is one; do not cut it into pieces, and do not let pleasure in your own side stand in for following the way the messengers taught.",
+    "lessonBn": "সব রসূলের দীন একটাই। একে টুকরো টুকরো করবেন না, আর নিজের দল নিয়ে তৃপ্তিকে রসূলদের দেখানো পথে চলার বদলি বানাবেন না।"
   }
 };
 

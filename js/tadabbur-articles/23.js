@@ -2503,6 +2503,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:53": {
+    "sections": [
+      {
+        "h": {
+          "en": "After One Community Was Declared",
+          "bn": "এক উম্মতের ঘোষণার পর"
+        },
+        "p": [
+          {
+            "en": "The verse opens with fa, and what it joins is the sentence before it. In 23:51 the messengers are addressed together: eat of the good things and do righteous work. In 23:52 they are told that this community of theirs is one community, and I am your Lord, so fear Me. Ibn Kathir explains it: your religion, O Prophets, is one religion and one group, the call to worship Allah alone with no partner. Then 23:53: fa-taqatta'u amrahum baynahum zuburan, kullu hizbin bima ladayhim farihun, but they cut their affair among themselves into pieces, every faction rejoicing in what it has.",
+            "bn": "আয়াতটি শুরু হয়েছে ‘ফা’ দিয়ে, আর তা জুড়ে আছে ঠিক আগের বাক্যের সঙ্গে। ২৩:৫১ আয়াতে রসূলদের একসঙ্গে সম্বোধন করা হয়েছে: পবিত্র জিনিস খাও আর সৎকাজ করো। ২৩:৫২ আয়াতে তাঁদের বলা হয়েছে, তোমাদের এই উম্মত একই উম্মত, আর আমিই তোমাদের রব, কাজেই আমাকে ভয় করো। ইবন কাসীর এর ব্যাখ্যা দেন এভাবে: হে নবীগণ, তোমাদের দীন একই দীন, একই দল। সে দীন হলো শরীকহীন এক আল্লাহর ইবাদতের দাওয়াত। তারপর ২৩:৫৩: ফাতাকাত্তাউ আমরাহুম বাইনাহুম যুবুরান, কুল্লু হিযবিম বিমা লাদাইহিম ফারিহূন। কিন্তু তারা নিজেদের মধ্যে নিজেদের ব্যাপারটিকে টুকরো টুকরো করে ফেলল, প্রত্যেক দল নিজের কাছে যা আছে তা নিয়েই খুশি।"
+          },
+          {
+            "en": "The commentators read the two verses as a command and what became of it. Al-Qurtubi says they made their religion into many religions after they had been commanded to come together. The Muyassar uses almost the same words of the followers: they split in the religion into parties and factions, making their one religion many, after they had been ordered to unite. The order of the verses carries the point. The oneness is stated first, as a fact about what Allah sent; the division is told afterwards, as something people did with it.",
+            "bn": "তাফসীরকারেরা এই দুই আয়াতকে পড়েন একটি আদেশ আর সেই আদেশের পরিণতি হিসেবে। কুরতুবী বলেন, একত্র থাকার আদেশ পাওয়ার পরও তারা নিজেদের দীনকে বহু দীনে পরিণত করল। মুয়াসসার অনুসারীদের সম্পর্কে প্রায় একই কথা বলে: ঐক্যবদ্ধ থাকার নির্দেশ পাওয়ার পর তারা দীনের ব্যাপারে নানা দল ও উপদলে ভাগ হয়ে গেল, এক দীনকে বানিয়ে ফেলল অনেক দীন। আয়াতগুলোর ক্রমেই কথাটা ধরা আছে। একত্বের কথা আগে এসেছে, আল্লাহ যা পাঠিয়েছেন তার বাস্তবতা হিসেবে। ভাঙনের কথা এসেছে পরে, মানুষ সেটা নিয়ে কী করেছে তার বিবরণ হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Who Did the Cutting",
+          "bn": "টুকরো করল যারা"
+        },
+        "p": [
+          {
+            "en": "Who are they? Not the messengers just addressed, but those who came after them. Ibn Kathir says they are the nations to whom the prophets were sent, and al-Qurtubi likewise says the nations. As-Sa'di narrows it to those who claimed to follow the prophets, al-muntasibun ila ittiba' al-anbiya', and the Muyassar calls them the followers. The cutting is done by people who still carry a prophet's name. That is what makes the next clause sharp: each party is glad because it believes it is the party that kept faith.",
+            "bn": "এরা কারা? সদ্য সম্বোধিত রসূলগণ নন, তাঁদের পরে যারা এসেছে তারা। ইবন কাসীর বলেন, এরা সেই জাতিগুলো যাদের কাছে নবীদের পাঠানো হয়েছিল। কুরতুবীও বলেন, জাতিগুলো। সা'দী পরিসরটা আরও সরু করেন: যারা নবীদের অনুসারী বলে নিজেদের পরিচয় দিত, আল-মুনতাসিবূনা ইলা ইত্তিবাইল আম্বিয়া। মুয়াসসার তাদের বলে অনুসারী। অর্থাৎ ভাগাভাগিটা করেছে এমন লোকেরা, যারা তখনো কোনো নবীর নাম বহন করছিল। এ কারণেই পরের অংশটা এত তীক্ষ্ণ। প্রত্যেক দল খুশি, কারণ তার বিশ্বাস, বিশ্বস্ত থেকেছে সে নিজেই।"
+          },
+          {
+            "en": "At-Tabari makes it concrete. He describes them as the people whom Allah, from the community of the messenger 'Isa (AS), commanded to hold together on one religion and one creed, and he gives two examples: the Jews, who claimed to follow the rule of the Torah and denied the rule of the Injil and the Qur'an, and the Christians, who followed the Injil, as they claimed, and denied the rule of the Furqan. Al-Baghawi lists those who became factions as Jews, Christians and Magians. Mujahid, in at-Tabari, says of every faction: these are the People of the Book.",
+            "bn": "তাবারী বিষয়টা স্পষ্ট করে দেন। তাঁর বর্ণনায় এরা সেই লোক, রসূল ঈসা (আঃ)-এর উম্মতের মধ্য থেকে যাদের আল্লাহ একই দীন ও একই মিল্লাতের উপর একত্র থাকার আদেশ দিয়েছিলেন। তিনি দুটি দৃষ্টান্ত দেন। ইহুদিরা দাবি করত তারা তাওরাতের বিধান মানে, অথচ ইনজীল ও কুরআনের বিধান অস্বীকার করত। খ্রিস্টানরা নিজেদের দাবিমতো ইনজীল মানত, অথচ ফুরকানের বিধান অস্বীকার করত। বাগাভী যারা দলে দলে ভাগ হয়েছে তাদের তালিকা দেন: ইহুদি, খ্রিস্টান ও মাজূস। তাবারীর সূত্রে মুজাহিদ ‘প্রত্যেক দল’ সম্পর্কে বলেন: এরা আহলে কিতাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Affair Is Their Religion",
+          "bn": "তাদের ব্যাপার মানে তাদের দীন"
+        },
+        "p": [
+          {
+            "en": "The word cut apart is amrahum, their affair. The commentators do not leave it vague. As-Sa'di glosses it as their religion, dinahum, and al-Baghawi does the same. At-Tabari spells it out further: their religion, which Allah had commanded them to keep to. So the thing broken is not a worldly business or a shared estate. It is the din itself, the one call of 23:52. The verb taqatta'u is glossed by al-Qurtubi as iftaraqu, they separated, and at-Tabari explains it with tafarraqa, the same sense.",
+            "bn": "যে জিনিসটা টুকরো হলো, আয়াত তাকে বলছে আমরাহুম, তাদের ব্যাপার। তাফসীরকারেরা শব্দটাকে অস্পষ্ট রাখেননি। সা'দী এর অর্থ করেন তাদের দীন, দীনাহুম। বাগাভীও একই অর্থ করেন। তাবারী আরও খুলে বলেন: তাদের সেই দীন, যা আঁকড়ে থাকতে আল্লাহ তাদের আদেশ দিয়েছিলেন। কাজেই যা ভেঙেছে তা কোনো দুনিয়াবি কারবার বা যৌথ সম্পত্তি নয়। ভেঙেছে খোদ দীন, ২৩:৫২ আয়াতের সেই এক দাওয়াত। তাকাত্তাউ ক্রিয়ার অর্থ কুরতুবী করেন ইফতারাকূ, তারা আলাদা হয়ে গেল। তাবারী একে ব্যাখ্যা করেন তাফাররাকা দিয়ে, অর্থ একই।"
+          },
+          {
+            "en": "The verse also says where the cutting happened: baynahum, among themselves. No outsider is blamed. As-Sa'di glosses zuburan simply as qita'an, pieces, and the picture is of one whole divided so that each group walks away holding a part of it. As-Sa'di introduces the verse by saying that the wrongdoers who split apart refused all but disobedience. That places the fault on the people who did it, and on their refusal of what the messengers had been told to bring.",
+            "bn": "কাটাকাটিটা কোথায় হয়েছে, আয়াত সেটাও বলে দেয়: বাইনাহুম, নিজেদের মধ্যে। কোনো বাইরের লোককে দোষ দেওয়া হয়নি। সা'দী যুবুরান-এর অর্থ করেন সোজা কথায় কিতাআন, টুকরো। ছবিটা এমন: একটা গোটা জিনিস ভাগ হয়ে গেছে, আর প্রত্যেক দল তার একটা অংশ হাতে নিয়ে চলে গেছে। আয়াতের আগে সা'দী ভূমিকা টানেন এই বলে যে, বিচ্ছিন্ন হয়ে যাওয়া জালিমরা নাফরমানি ছাড়া আর কিছুই মানতে রাজি হলো না। দোষটা তাই যারা কাজটা করেছে তাদের উপর, রসূলদের যা আনতে বলা হয়েছিল তা মানতে তাদের অস্বীকৃতির উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Read as Books, Read as Slabs",
+          "bn": "কিতাব না লোহার খণ্ড"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports that the readers differed over zuburan. Most readers of Madina and Iraq read zubur, with u on the b, the plural of zabur, a book; on this reading they split their religion into books, each party holding to a book other than the other's. Al-Qurtubi names Nafi' for this reading. The readers of Sham, at-Tabari reports, read zubar, with a on the b, meaning pieces like the zubar al-hadid, the blocks of iron, of 18:96. Al-Baghawi says some of the people of Sham read it so, and al-Qurtubi names al-A'mash, and Abu 'Amr with a variant reported from him.",
+            "bn": "তাবারী জানান, যুবুরান শব্দের পাঠে কারীগণ ভিন্নমত পোষণ করেছেন। মদীনা ও ইরাকের অধিকাংশ কারী পড়েছেন যুবুর, ‘বা’ অক্ষরে পেশ দিয়ে। এটি যাবূর শব্দের বহুবচন, যার অর্থ কিতাব। এই পাঠে অর্থ দাঁড়ায়: তারা নিজেদের দীনকে নানা কিতাবে ভাগ করে ফেলল, প্রত্যেক দল অন্য দলের কিতাব বাদ দিয়ে নিজের কিতাব আঁকড়ে ধরল। কুরতুবী এই পাঠের জন্য নাফির নাম উল্লেখ করেন। তাবারী আরও জানান, শামের কারীগণ পড়েছেন যুবার, ‘বা’ অক্ষরে যবর দিয়ে। এর অর্থ টুকরো, যেমন ১৮:৯৬ আয়াতের যুবারাল হাদীদ, লোহার খণ্ড। বাগাভী বলেন, শামের কিছু লোক এভাবে পড়েছেন। কুরতুবী নাম দেন আ'মাশের, আর আবূ আমরের, যাঁর কাছ থেকে এ বিষয়ে ভিন্ন বর্ণনাও আছে।"
+          },
+          {
+            "en": "The two readings give two pictures. Books suggests a community that ends up with rival scriptures; blocks of iron suggests one mass hammered into separate lumps. Al-Baghawi draws the senses close together: he explains zuburan as factions and differing pieces, gives the singular as zabur, meaning a faction or band, and adds that they became factions like the blocks of iron. At-Tabari chooses zubur, books, and states his reason: the people of interpretation agree that books are meant, and zubur are books, from zabartu al-kitab, I wrote the book.",
+            "bn": "দুই পাঠ দুই রকম ছবি আঁকে। কিতাব শব্দে চোখে ভাসে এমন এক সম্প্রদায়, যারা শেষে পরস্পরবিরোধী কিতাব নিয়ে দাঁড়িয়ে আছে। লোহার খণ্ড শব্দে ভাসে একটা গোটা পিণ্ড, যাকে পিটিয়ে আলাদা আলাদা দলায় ভেঙে ফেলা হয়েছে। বাগাভী দুই অর্থকে কাছাকাছি নিয়ে আসেন। তিনি যুবুরান-এর অর্থ করেন নানা দল আর ভিন্ন ভিন্ন টুকরো, এর একবচন বলেন যাবূর, যার অর্থ দল বা গোষ্ঠী, আর যোগ করেন যে তারা লোহার খণ্ডের মতো দলে দলে ভাগ হয়ে গেল। তাবারী বেছে নেন যুবুর, অর্থাৎ কিতাব, আর কারণও বলেন: তাফসীরকারেরা একমত যে এখানে কিতাবই উদ্দেশ্য। যুবুর মানে কিতাব, যেমন বলা হয় যাবারতুল কিতাব, আমি কিতাবটি লিখলাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Scriptures Divided Among Parties",
+          "bn": "দলে দলে ভাগ হওয়া কিতাব"
+        },
+        "p": [
+          {
+            "en": "Under the reading of books, at-Tabari gathers the early explanations. Qatada says zuburan means books. Mujahid says: the books of Allah, they split them into pieces. Others of the same reading, at-Tabari adds, understood it as books they had produced themselves, in which they argued for their own position, and he cites Ibn Zayd: this is what they differed over of religions and books. Al-Qurtubi gives Ibn Zayd's sense in a sharper phrase: books they wrote and errors they put together.",
+            "bn": "কিতাব অর্থের পাঠ ধরে তাবারী প্রথম যুগের ব্যাখ্যাগুলো একত্র করেন। কাতাদা বলেন, যুবুরান মানে কিতাবসমূহ। মুজাহিদ বলেন, আল্লাহর কিতাবগুলো, তারা সেগুলোকে টুকরো টুকরো করে ভাগ করে নিল। তাবারী যোগ করেন, এই পাঠের অনুসারী আরেক দল একে বুঝেছেন নিজেদের তৈরি কিতাব হিসেবে, যাতে তারা নিজেদের মতের পক্ষে যুক্তি দাঁড় করাত। এ মতের পক্ষে তিনি ইবন যায়দকে উদ্ধৃত করেন: এ হলো সেই সব দীন আর কিতাব, যা নিয়ে তারা মতভেদ করেছে। কুরতুবী ইবন যায়দের কথাটা আরও তীক্ষ্ণ করে বলেন: তাদের লেখা কিতাব আর তাদের গড়া গোমরাহি।"
+          },
+          {
+            "en": "Al-Qurtubi also relays a fuller picture from Qatada: they divided the scriptures, so that one faction followed the Suhuf, one the Torah, one the Zabur and one the Injil, and then the whole was altered and distorted. He adds a third view, introduced with it is said: each party took one book, believed in it and disbelieved in what lay beyond it. Al-Baghawi has a view close to these, also under it is said: they made their books into differing pieces, believing in some, disbelieving in some and distorting some.",
+            "bn": "কুরতুবী কাতাদা থেকে আরও পূর্ণ একটা ছবি তুলে ধরেন। তারা কিতাবগুলো ভাগ করে নিল: এক দল মানল সহীফা, এক দল তাওরাত, এক দল যাবূর, আরেক দল ইনজীল। তারপর সবকিছুতেই বিকৃতি আর রদবদল ঘটল। ‘বলা হয়’ কথাটি দিয়ে তিনি তৃতীয় একটি মতও আনেন: প্রত্যেক দল একটা কিতাব বেছে নিয়ে তাতে ঈমান আনল, আর বাকিগুলো অস্বীকার করল। বাগাভীও ‘বলা হয়’ দিয়ে কাছাকাছি একটি মত আনেন: তারা নিজেদের কিতাবগুলোকে নানা টুকরোয় ভাগ করল। কিছু অংশে ঈমান আনল, কিছু অংশ অস্বীকার করল, আর কিছু অংশ বিকৃত করল।"
+          },
+          {
+            "en": "Here the commentators genuinely part ways. Ma'arif al-Qur'an sets out the books sense first: zubur as the plural of zabur, each sect adopting a different book in which its beliefs were recorded. Then it notes that the word can be the plural of zubrah, a fragment or group, and says this meaning is more appropriate here: the people divided into sects even in the fundamental beliefs of their religion. At-Tabari prefers books, resting on the agreement of the interpreters; Ma'arif prefers fragments. Both senses stand, and the verse carries the reproach either way.",
+            "bn": "এখানে তাফসীরকারদের পথ সত্যিই আলাদা হয়ে যায়। মাআরিফুল কুরআন প্রথমে কিতাব অর্থটা দেয়: যুবুর যাবূরের বহুবচন, প্রত্যেক ফেরকা আলাদা আলাদা কিতাব গ্রহণ করল, যাতে তাদের আকীদা লেখা ছিল। তারপর জানায়, শব্দটি যুবরাহ-এর বহুবচনও হতে পারে, যার অর্থ টুকরো বা দল। আর বলে, এখানে এই অর্থই বেশি মানানসই: মানুষ তাদের দীনের মৌলিক আকীদার ব্যাপারেও ফেরকায় ফেরকায় ভাগ হয়ে গেল। তাবারী কিতাব অর্থ পছন্দ করেন, তাফসীরকারদের ঐকমত্যের ভিত্তিতে। মাআরিফ পছন্দ করে টুকরো অর্থ। দুটো মতই টিকে থাকে, আর যেভাবেই পড়া হোক, আয়াতের তিরস্কার একই থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Each Faction Pleased With Itself",
+          "bn": "প্রত্যেক দল নিজেকে নিয়ে মুগ্ধ"
+        },
+        "p": [
+          {
+            "en": "Then the closing clause: kullu hizbin bima ladayhim farihun. Al-Qurtubi glosses farihun as mu'jabun bihi, admiring it, and al-Baghawi as mu'jabun wa masrurun, admiring and delighted. As-Sa'di reads bima ladayhim as what they have of knowledge and religion. At-Tabari puts the whole clause together: every faction of those nations is rejoicing in what it chose for itself of religion and books, admiring it, and does not see that the truth lies anywhere else. The joy is not gratitude for a gift; it is satisfaction with a choice.",
+            "bn": "তারপর শেষ অংশ: কুল্লু হিযবিম বিমা লাদাইহিম ফারিহূন। কুরতুবী ফারিহূন-এর অর্থ করেন মু'জাবূনা বিহি, তা নিয়ে মুগ্ধ। বাগাভী অর্থ করেন মু'জাবূনা ওয়া মাসরূরূন, মুগ্ধ ও আনন্দিত। সা'দী বিমা লাদাইহিম বুঝেছেন: তাদের কাছে যে জ্ঞান আর দীন আছে। তাবারী পুরো অংশটা একসঙ্গে বলেন: সেই জাতিগুলোর প্রত্যেক দল নিজের জন্য যে দীন আর কিতাব বেছে নিয়েছে তা নিয়ে খুশি, তাতে মুগ্ধ, আর মনে করে না যে সত্য অন্য কোথাও থাকতে পারে। এ আনন্দ কোনো নেয়ামতের শুকরিয়া নয়। এ হলো নিজের বেছে নেওয়া জিনিস নিয়ে আত্মতৃপ্তি।"
+          },
+          {
+            "en": "Ibn Kathir names what lies under the pleasure: they rejoice in the misguidance they are in, because they reckon that they are rightly guided. The Muyassar says each faction admires its own opinion, claiming that it is on the truth and the others on falsehood. Ibn Zayd, in at-Tabari, widens the observation: there are no people of desire who are not pleased with their own opinion, their own desire, and the companion who devised it for them. Al-Qurtubi calls this admiration of each for its own opinion and its error the utmost of misguidance.",
+            "bn": "এই আনন্দের নিচে কী আছে, ইবন কাসীর তা বলে দেন: তারা যে গোমরাহিতে আছে তা নিয়েই খুশি, কারণ তারা ভাবে তারা হেদায়েতের উপর আছে। মুয়াসসার বলে, প্রত্যেক দল নিজের মত নিয়ে মুগ্ধ, দাবি করে সে নিজে সত্যের উপর আর অন্যরা বাতিলের উপর। তাবারীর সূত্রে ইবন যায়দ কথাটা আরও বিস্তৃত করেন: প্রবৃত্তির অনুসারী এমন কোনো দল নেই, যারা নিজেদের মত, নিজেদের খেয়াল আর যে সঙ্গী তাদের জন্য ওটা বানিয়ে দিয়েছে তাকে নিয়ে মুগ্ধ নয়। কুরতুবী বলেন, নিজের মত আর নিজের ভ্রান্তি নিয়ে প্রত্যেকের এই মুগ্ধতাই গোমরাহির চূড়ান্ত সীমা।"
+          },
+          {
+            "en": "As-Sa'di supplies the measure. Each party claims to be in the right and the others not, he says, yet the party in the right is whoever is on the path of the messengers, eating the good things and doing righteous work, and whoever is otherwise is in the wrong. The measure comes straight from 23:51. The question the passage puts is not which party a person belongs to. It is whether that person does what the messengers were told to do.",
+            "bn": "মাপকাঠিটা দেন সা'দী। তিনি বলেন, প্রত্যেক দল দাবি করে সে-ই হকের উপর, অন্যরা নয়। অথচ তাদের মধ্যে হকপন্থী সে-ই, যে রসূলদের পথে আছে: পবিত্র জিনিস খায় আর সৎকাজ করে। এর বাইরে যারা, তারা বাতিলের উপর। মাপকাঠিটা সরাসরি এসেছে ২৩:৫১ আয়াত থেকে। এই অংশ যে প্রশ্ন তোলে তা এই নয় যে কে কোন দলের লোক। প্রশ্ন হলো, রসূলদের যা করতে বলা হয়েছিল, মানুষটি তা করছে কি না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Foundations, Not Finer Points",
+          "bn": "মূল ভিত, শাখা-প্রশাখা নয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi says this verse looks toward a saying of the Prophet ﷺ, and he cites Abu Dawud and at-Tirmidhi for it. Abu Dawud records it (4597) from Mu'awiya ibn Abi Sufyan (RA). Its topic is the splitting into sects of the People of the Book before this community, and of this community after them. Abu Dawud gives no grading. It is mentioned here and not quoted, and nothing in this article is built on its wording.",
+            "bn": "কুরতুবী বলেন, এ আয়াত নবী ﷺ-এর একটি বাণীর দিকে ইঙ্গিত করে, আর এর জন্য তিনি আবূ দাউদ ও তিরমিযীর উল্লেখ করেন। আবূ দাউদ বর্ণনাটি এনেছেন (৪৫৯৭) মুআবিয়া ইবন আবী সুফইয়ান (রাঃ) থেকে। এর বিষয় হলো, এই উম্মতের আগের আহলে কিতাবের নানা ফেরকায় ভাগ হয়ে যাওয়া, আর তাদের পরে এই উম্মতেরও ভাগ হওয়া। আবূ দাউদ এর কোনো মান উল্লেখ করেননি। এখানে শুধু এর উল্লেখটুকু থাকল, শব্দ উদ্ধৃত করা হলো না, আর এ লেখার কোনো কথা এর শব্দের উপর দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "At-Tirmidhi records a version from 'Abdullah ibn 'Amr (RA), which al-Qurtubi also cites, in which the Companions ask a further question; at-Tirmidhi himself grades that report hasan gharib, so it is only mentioned here. Neither collector places the narration under this verse. The link is al-Qurtubi's, and none of the tafsirs read for 23:53 attaches a sound hadith to the verse itself. What matters here is what al-Qurtubi draws from the link.",
+            "bn": "তিরমিযী আবদুল্লাহ ইবন আমর (রাঃ) থেকে একটি বর্ণনা এনেছেন, কুরতুবীও যা উল্লেখ করেন। তাতে সাহাবিরা আরও একটি প্রশ্ন করেন। তিরমিযী নিজেই সেই বর্ণনাকে হাসান গরীব বলেছেন, তাই এখানে শুধু এর উল্লেখটুকু থাকল। দুই সংকলকের কেউই বর্ণনাটিকে এ আয়াতের অধীনে রাখেননি। সংযোগটা কুরতুবীর করা। ২৩:৫৩ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই খোদ এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। এখানে আসল কথা হলো, এই সংযোগ থেকে কুরতুবী কী সিদ্ধান্ত টানেন।"
+          },
+          {
+            "en": "This shows, he says, that the division warned against in the verse and the hadith concerns the foundations of the religion and its principles, given how the narration describes those groups. Such a thing, he says, is not said of the branches, which do not multiply religions or bring the punishment of the Fire, and he cites 5:48: for each of you We have made a law and a way. Ma'arif al-Qur'an agrees: differences among qualified scholars in minor issues are not the division condemned here, and giving them a sectarian colour is the height of ignorance.",
+            "bn": "তিনি বলেন, এ থেকে বোঝা যায় যে আয়াত ও হাদীসে যে বিভক্তির ব্যাপারে সতর্ক করা হয়েছে, তা দীনের মূলনীতি ও ভিত্তি নিয়ে। বর্ণনাটি ওই দলগুলোকে যেভাবে চিত্রিত করেছে, তা থেকেই এটা বোঝা যায়। তাঁর মতে, শাখাগত মাসআলার ব্যাপারে এমন কথা বলা যায় না। তাতে দীনের সংখ্যা বাড়ে না, জাহান্নামের শাস্তিও অবধারিত হয় না। এর পক্ষে তিনি ৫:৪৮ আয়াত আনেন: তোমাদের প্রত্যেকের জন্য আমি এক শরীআত ও এক পথ নির্ধারণ করেছি। মাআরিফুল কুরআনও একমত: ছোটখাটো মাসআলায় মুজতাহিদ আলেমদের মতভেদ এ আয়াতের নিন্দিত বিভক্তির মধ্যে পড়ে না। এসব মতভেদকে ফেরকাবাজির রং দেওয়া চরম অজ্ঞতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Left in Their Depths Awhile",
+          "bn": "কিছুকাল নিজেদের ঘোরে"
+        },
+        "p": [
+          {
+            "en": "The next verse, 23:54, answers the rejoicing: fa-dharhum fi ghamratihim hatta hin, so leave them in their confusion for a time. Ibn Kathir reads it as threat and warning. Their ghamra is their misguidance, and for a time means until the appointed time of their destruction comes, and he sets beside it 86:17 and 15:3. The gladness of 23:53 is not where the account ends. The same warning against splitting the religion returns in 30:32 and 6:159.",
+            "bn": "পরের আয়াত ২৩:৫৪ এই আনন্দের জবাব দেয়: ফাযারহুম ফী গামরাতিহিম হাত্তা হীন, কাজেই তাদের কিছুকাল তাদের বিভ্রান্তিতে থাকতে দাও। ইবন কাসীর একে হুমকি ও সতর্কবাণী হিসেবে পড়েন। তাদের গামরা মানে তাদের গোমরাহি। আর ‘কিছুকাল’ মানে, যতক্ষণ না তাদের ধ্বংসের নির্ধারিত সময় এসে পড়ে। এর পাশে তিনি ৮৬:১৭ ও ১৫:৩ আয়াত রাখেন। অর্থাৎ ২৩:৫৩ আয়াতের খুশিতেই হিসাব শেষ হয়ে যায় না। দীনকে টুকরো করার বিরুদ্ধে একই সতর্কবাণী আবার আসে ৩০:৩২ ও ৬:১৫৯ আয়াতে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the commentators say it describes: communities who were given a messenger and a scripture and split over them. It names no present-day Muslim group and no other living community, and it licenses nothing against any person or community alive today. Al-Qurtubi's own conclusion shuts out its use against those who differ on the branches. No reader is handed a roster of the condemned here, and whoever reads the verse as a list of other people's errors has turned it the wrong way round.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। তাফসীরকারেরা যা বলেন, আয়াত তা-ই বর্ণনা করে: এমন সম্প্রদায়, যাদের কাছে রসূল ও কিতাব এসেছিল আর যারা সেগুলো নিয়েই ভাগ হয়ে গিয়েছিল। আজকের কোনো মুসলিম দলের নাম এখানে নেই, অন্য কোনো জীবিত সম্প্রদায়েরও নেই। আজ বেঁচে থাকা কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। শাখাগত মাসআলায় যারা ভিন্নমত রাখেন, তাদের বিরুদ্ধে একে ব্যবহারের পথ কুরতুবীর নিজের সিদ্ধান্তই বন্ধ করে দেয়। এখানে কোনো পাঠকের হাতে দোষীদের তালিকা তুলে দেওয়া হয়নি। কেউ যদি আয়াতটিকে অন্যদের ভুলের তালিকা বানিয়ে পড়ে, তবে সে একে উল্টো করে ধরেছে।"
+          },
+          {
+            "en": "What the verse holds up is the pleasure itself. Each party was sure, and each was glad. As-Sa'di's measure sends the reader back to 23:51: the good things eaten, the righteous work done, the path the messengers walked. The verse asks whoever reads it to test his own gladness against that measure, and to fear the one Lord of 23:52, who is Lord over all of them.",
+            "bn": "আয়াতটি সামনে তুলে ধরে খোদ সেই আনন্দকেই। প্রত্যেক দল নিশ্চিত ছিল, প্রত্যেকেই খুশি ছিল। সা'দীর মাপকাঠি পাঠককে ফিরিয়ে নেয় ২৩:৫১ আয়াতে: পবিত্র রিজিক খাওয়া, সৎকাজ করা, রসূলদের চলা পথ। যিনি আয়াতটি পড়ছেন, আয়াত তাঁকে বলে নিজের আনন্দকে এই মাপকাঠিতে যাচাই করতে। আর ভয় করতে ২৩:৫২ আয়াতের সেই একই রবকে, যিনি তাদের সবারই রব।"
+          }
+        ]
+      }
+    ]
+  },
   "23:55": {
     "sections": [
       {
