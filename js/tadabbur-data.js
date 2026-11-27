@@ -35457,6 +35457,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Ask now of everything you lean on besides Allah whether it could help you, or even help itself, while your answer can still change your course.",
     "lessonBn": "আল্লাহ ছাড়া যার উপরই ভর দেন, এখনই তাকে প্রশ্ন করুন: সে কি আপনাকে বাঁচাতে পারবে, নাকি অন্তত নিজেকে? উত্তর বদলানোর সময় এখনো আছে।"
+  },
+  "26:111": {
+    "reflectionEn": "Nuh has called his people to fear God, told them he wants no wage, and asked only to be obeyed. Their answer is a question that is really a refusal: shall we believe you, when the lowest are the ones following you? They do not weigh what he says. They look at who is standing beside him and decide that a gathering with such people in it cannot be for them. To believe would mean standing level with those they had always looked down on. The question has outlived them. Have I ever judged a truth by the people who carry it? Do I stay away from good when the room is full of people I think beneath me?",
+    "reflectionBn": "নূহ (আঃ) তাঁর কওমকে আল্লাহকে ভয় করতে ডেকেছেন, বলেছেন কোনো পারিশ্রমিক তিনি চান না, শুধু চেয়েছেন তারা তাঁর কথা মানুক। জবাবে তারা একটা প্রশ্ন করে, যা আসলে প্রত্যাখ্যান: যখন একেবারে নিচু লোকেরা তোমার পেছনে চলছে, তখনো কি আমরা তোমার কথা মেনে নেব? তিনি কী বলছেন, তা তারা ওজন করে দেখে না। তারা দেখে তাঁর পাশে কারা দাঁড়িয়ে, আর ঠিক করে ফেলে, ওই লোকদের ভিড়ে তাদের জায়গা হতে পারে না। ঈমান আনা মানে যাদের তারা চিরকাল তুচ্ছ ভেবেছে, তাদের সমান কাতারে দাঁড়ানো। সেই প্রশ্ন তাদের পরেও বেঁচে আছে। সত্যকে কি আমি কখনো তার বাহকদের দেখে বিচার করেছি? যে মজলিসে নিজের চেয়ে ছোট মনে হয় এমন লোক বেশি, সেখান থেকে কি আমি ভালো কাজেও দূরে থাকি?",
+    "pointsEn": [
+      "When I hear a call to good, do I first weigh what is said, or who else has already answered it?",
+      "Is there a gathering of good I have avoided because the people in it seemed beneath my standing?",
+      "Which people do I privately rank as lower, and on what: their trade, their purse, their family?",
+      "If standing in the same row as the poor would cost me something in other people's eyes, would I still stand there?",
+      "Do I treat someone's early faith or quiet goodness as an honour, or do I still see only their work and their clothes?"
+    ],
+    "pointsBn": [
+      "ভালো কাজের ডাক শুনলে আমি আগে কী ওজন করি: কথাটা কী, নাকি আর কারা ইতিমধ্যে সাড়া দিয়েছে?",
+      "এমন কোনো নেক মজলিস কি আছে, যেখানে লোকগুলোকে নিজের মর্যাদার চেয়ে নিচু মনে হয়েছিল বলে আমি যাইনি?",
+      "মনে মনে কাদের আমি নিচু শ্রেণির ধরে রাখি, আর কিসের ভিত্তিতে: পেশা, টাকা, নাকি বংশ?",
+      "গরিবদের সঙ্গে এক কাতারে দাঁড়ালে লোকের চোখে যদি আমার একটু মান কমে, তবু কি আমি সেখানে দাঁড়াব?",
+      "কারও আগে ঈমান আনা বা নীরব নেকিকে আমি কি সম্মানের চোখে দেখি, নাকি এখনো শুধু তার পেশা আর পোশাকই চোখে পড়ে?"
+    ],
+    "lessonEn": "Weigh a call by its truth, not by who has answered it; no trade or class makes a believer lesser before Allah.",
+    "lessonBn": "ডাকটা সত্য কি না সেটা দেখুন, কারা সাড়া দিয়েছে তা দিয়ে বিচার করবেন না। কোনো পেশা বা শ্রেণি একজন মু'মিনকে আল্লাহর কাছে ছোট করে না।"
   }
 };
 

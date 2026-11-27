@@ -5335,6 +5335,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:111": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Reply That Weighs Nothing",
+          "bn": "যে জবাবে কোনো ওজন নেই"
+        },
+        "p": [
+          {
+            "en": "Qalu a-nu'minu laka wa-ttaba'aka al-ardhalun: they said, shall we believe you, when the lowest are the ones following you? Five Arabic words, spoken straight after Nuh's whole appeal. In 26:106 to 26:110 he asked his people to fear Allah, told them he was a trustworthy messenger, said twice that they should fear Allah and obey him, and promised that he asked no wage, since his wage was with the Lord of the worlds.",
+            "bn": "কালু আ-নু'মিনু লাকা ওয়াত্তাবাআকাল আরযালুন: তারা বলল, একেবারে নিচু লোকেরাই যখন তোমার অনুসারী, তখনো কি আমরা তোমার কথা মেনে নেব? আরবিতে মাত্র পাঁচটি শব্দ। এর ঠিক আগে নূহ (আঃ) তাঁর পুরো দাওয়াত পেশ করেছেন। ২৬:১০৬ থেকে ২৬:১১০ আয়াতে তিনি কওমকে আল্লাহকে ভয় করতে বলেছেন, জানিয়েছেন তিনি বিশ্বস্ত রাসুল। দুবার বলেছেন, আল্লাহকে ভয় করো আর আমার কথা মানো। আরও বলেছেন, এর জন্য তিনি কোনো পারিশ্রমিক চান না, তাঁর পারিশ্রমিক বিশ্বজগতের রবের কাছে।"
+          },
+          {
+            "en": "Notice what the reply leaves out. It says nothing about God, nothing about the warning, nothing about whether Nuh (AS) is truthful. As-Sa'di names the move exactly: they said it to reject his call, opposing him with something that is not fit to be an objection at all (bima laysa yaslahu lil-mu'arada). The question is aimed at the crowd around the messenger, not at the message. Everything he said could be true, and the question would still stand.",
+            "bn": "জবাবে কী নেই, সেটা খেয়াল করুন। আল্লাহর কথা নেই, সতর্কবার্তার কথা নেই, নূহ (আঃ) সত্য বলছেন কি না সে প্রশ্নও নেই। সা'দী ব্যাপারটার ঠিক নাম দেন। তারা কথাটা বলেছিল তাঁর দাওয়াত ফিরিয়ে দিতে, আর তাঁর বিরোধিতা করেছিল এমন কিছু দিয়ে, যা আপত্তি হওয়ারই যোগ্য নয় (বিমা লাইসা ইয়াসলুহু লিল-মুআরাদা)। প্রশ্নটার নিশানা রাসুলের চারপাশের মানুষ, তাঁর বাণী নয়। তিনি যা বলেছেন তার সবই সত্য হলেও প্রশ্নটা একই রকম টিকে থাকত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Built Into the Grammar",
+          "bn": "ব্যাকরণের ভেতরেই অবজ্ঞা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi takes the words one by one. A-nu'minu laka means: shall we accept what you say as true. The wa before ittaba'aka is the wa of circumstance, with qad understood, so the sense is \"when the lowest have already followed you.\" The objection is not a guess about the future. It points at the people already standing with Nuh (AS) and makes their presence the reason to stay away.",
+            "bn": "কুরতুবী শব্দগুলো একটা একটা করে খোলেন। আ-নু'মিনু লাকা মানে, আমরা কি তোমার কথাকে সত্য বলে মেনে নেব? ইত্তাবাআকা-র আগের ওয়া হলো অবস্থাবাচক ওয়া, আর তার সঙ্গে কাদ শব্দটি উহ্য। তাই অর্থ দাঁড়ায়: অথচ নিচু লোকেরা তো ইতিমধ্যেই তোমার পেছনে চলে এসেছে। আপত্তিটা ভবিষ্যৎ নিয়ে কোনো অনুমান নয়। যারা আগে থেকেই নূহ (আঃ)-এর সঙ্গে দাঁড়িয়ে আছে, তাদের দিকে আঙুল তুলে তাদের উপস্থিতিকেই দূরে থাকার কারণ বানানো হচ্ছে।"
+          },
+          {
+            "en": "Al-ardhalun, al-Qurtubi explains, is the plural of al-ardhal, a superlative, and its broken plural is al-aradhil. The form is a superlative: the lowest of all, not merely the poor. Al-Qurtubi also notes that he has treated al-aradhil at length under Surat Hud, where the same chiefs spoke the same word. In 11:27 they say they see none following Nuh but \"those who are the lowest of us,\" and add badiya al-ra'y, at first suggestion.",
+            "bn": "কুরতুবী বলেন, আল-আরযালুন হলো আল-আরযাল শব্দের বহুবচন। আল-আরযাল একটা সর্বোচ্চ মাত্রার বিশেষণ, আর এর ভগ্ন বহুবচন আল-আরাযিল। শব্দটার অর্থ শুধু গরিব নয়, সবার চেয়ে নিচু। কুরতুবী এটাও জানান যে আরাযিল নিয়ে বিস্তারিত আলোচনা তিনি সূরা হূদে করে এসেছেন, যেখানে একই নেতারা একই শব্দ বলেছিল। ১১:২৭ আয়াতে তারা বলে, তোমার অনুসারী হিসেবে আমরা শুধু তাদেরই দেখি যারা আমাদের মধ্যে সবচেয়ে নিচু, সঙ্গে জুড়ে দেয় বাদিয়াল রা'য়ি, অর্থাৎ আপাতদৃষ্টিতে।"
+          },
+          {
+            "en": "There is a second reading. Al-Qurtubi records that Ibn Mas'ud, ad-Dahhak, Ya'qub al-Hadrami and others read wa-atba'uka al-ardhalun, \"and your followers are the lowest,\" and al-Baghawi also records Ya'qub's reading. The grammarian an-Nahhas called it a good reading. Al-Qurtubi then gives two ways to parse it: either a plain statement, \"shall we believe you, when your followers are only the lowest,\" or a joined subject, \"shall we believe you, we together with your lowly followers, and be counted among them?\" On either reading the fear is the same company.",
+            "bn": "এর আরেকটা কিরাআতও আছে। কুরতুবী লিখেছেন, ইবন মাসউদ, দাহহাক, ইয়াকুব আল-হাদরামী ও অন্যরা পড়েছেন ওয়া আতবাউকাল আরযালুন, মানে তোমার অনুসারীরা সবচেয়ে নিচু লোক। বাগাভীও ইয়াকুবের এই কিরাআত উল্লেখ করেছেন। ব্যাকরণবিদ নাহহাস একে ভালো কিরাআত বলেছেন। এরপর কুরতুবী এর দুটো ব্যাকরণগত বিশ্লেষণ দেন। একটা সোজা বিবৃতি: আমরা কি তোমার কথা মানব, অথচ তোমার অনুসারীরা কেবল নিচু লোক? অন্যটায় দুই কর্তা একসঙ্গে: আমরা কি তোমার অনুসারী ওই নিচু লোকদের সঙ্গে মিলে ঈমান আনব আর তাদেরই একজন বলে গণ্য হব? যেভাবেই পড়ুন, ভয়টা একই সঙ্গীদের নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Fear of Standing Level",
+          "bn": "সমান কাতারে দাঁড়ানোর ভয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir puts the chiefs' thought in plain words. They are saying: shall we believe you and follow you, and be made equal in that (natasawa) with these lowly ones who have followed you and believed you, when they are the lowest among us? The word that carries the weight is natasawa, to be levelled. Faith would put the elite in the same row as the people they had always looked down on, and that was what they could not swallow.",
+            "bn": "নেতাদের মনের কথাটা ইবন কাসীর সোজা ভাষায় বলেন। তারা বলছে: আমরা কি তোমার উপর ঈমান এনে তোমার অনুসরণ করব, আর তাতে করে ওই নিচু লোকদের সমান হয়ে যাব (নাতাসাওয়া), যারা তোমার পেছনে চলেছে আর তোমাকে সত্য বলে মেনেছে, অথচ তারাই আমাদের মধ্যে সবচেয়ে নিচু? ভারী শব্দটা হলো নাতাসাওয়া, সমান হয়ে যাওয়া। ঈমান আনলে অভিজাতদের দাঁড়াতে হতো সেই মানুষদের কাতারে, যাদের তারা চিরকাল তুচ্ছ ভেবেছে। এটাই ছিল তাদের কাছে অসহ্য।"
+          },
+          {
+            "en": "At-Tabari frames the verse as their answer to Nuh's claim, \"I am to you a trustworthy messenger, so fear Allah and obey me.\" They said: shall we believe you, Nuh, and affirm that you speak the truth in what you call us to, when the only ones of us who have followed you are the lowest, and not the people of rank and the great houses (dhawi al-sharaf wa ahl al-buyutat)? Their measure of a person was lineage and household. A call that drew its followers from outside the great families was, to them, already judged.",
+            "bn": "তাবারী আয়াতটিকে নূহ (আঃ)-এর এই দাবির জবাব হিসেবে দেখেন: আমি তোমাদের জন্য বিশ্বস্ত রাসুল, তাই আল্লাহকে ভয় করো আর আমার কথা মানো। তারা বলল, হে নূহ, আমরা কি তোমার উপর ঈমান আনব, তুমি যে দিকে ডাকছ তাতে তোমাকে সত্যবাদী বলে স্বীকার করব, অথচ আমাদের মধ্যে কেবল নিচু লোকেরাই তোমার অনুসরণ করেছে, মর্যাদাবান আর বড় বড় খানদানের লোকেরা নয় (যাওয়িশ শারাফ ওয়া আহলুল বুয়ুতাত)? মানুষ মাপার তাদের মানদণ্ড ছিল বংশ আর ঘর। যে দাওয়াতের অনুসারীরা বড় পরিবারগুলোর বাইরের লোক, তাদের চোখে সেই দাওয়াতের রায় আগেই হয়ে গেছে।"
+          },
+          {
+            "en": "Al-Muyassar keeps to the plain sense: his people said to him, how can we believe you and follow you, when those who have followed you are the lowest and basest of people (aradhil al-nas wa asafiluhum)? Read together, the three commentaries show one objection from three sides: Ibn Kathir the dread of being levelled, at-Tabari the pride of house and rank, al-Muyassar the bare contempt. Each reports the chiefs' label as the deniers' words, not as a fact about the believers.",
+            "bn": "মুয়াসসার সরল অর্থেই থাকে: তাঁর কওম তাঁকে বলল, আমরা কীভাবে তোমাকে সত্য বলে মানি আর তোমার অনুসরণ করি, যখন তোমার অনুসারীরা মানুষের মধ্যে সবচেয়ে নিচু আর হীন (আরাযিলুন নাস ওয়া আসাফিলুহুম)? তিনটি তাফসীর পাশাপাশি রাখলে একই আপত্তি তিন দিক থেকে দেখা যায়। ইবন কাসীরে সমান হয়ে যাওয়ার ভয়, তাবারীতে বংশ আর পদের অহংকার, মুয়াসসারে খোলাখুলি অবজ্ঞা। নেতাদের দেওয়া তকমাকে প্রত্যেকেই অস্বীকারকারীদের কথা হিসেবে উল্লেখ করেছেন, মু'মিনদের সম্পর্কে সত্য হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom They Were Mocking",
+          "bn": "কাদের নিয়ে এই উপহাস"
+        },
+        "p": [
+          {
+            "en": "Who were these followers? Al-Qurtubi gives one report, introduced with \"it was said\": those who believed in Nuh (AS) were his sons, his wives, his sons' wives and his grandsons. Then he records a disagreement he leaves open, whether anyone besides them was with them or not. He does not settle it. What he does settle is the verdict on them: whichever way it was, all of them were righteous. The people the chiefs called the lowest were, on this report, in large part the household of a prophet.",
+            "bn": "এই অনুসারীরা কারা ছিলেন? কুরতুবী 'বলা হয়েছে' বলে একটা বর্ণনা আনেন: যারা নূহ (আঃ)-এর উপর ঈমান এনেছিলেন, তাঁরা ছিলেন তাঁর ছেলেরা, তাঁর স্ত্রীরা, ছেলেদের স্ত্রীরা আর নাতিরা। তারপর তিনি একটা মতভেদ উল্লেখ করেন, যার মীমাংসা করেন না: তাঁদের সঙ্গে আর কেউ ছিল কি না। তবে একটা বিষয়ে তিনি নিশ্চিত রায় দেন। যেভাবেই হোক, তাঁরা সবাই ছিলেন নেককার। এই বর্ণনা অনুযায়ী নেতারা যাদের সবচেয়ে নিচু বলেছিল, তাঁদের বড় অংশই ছিলেন একজন নবীর পরিবারের লোক।"
+          },
+          {
+            "en": "Al-Qurtubi then reads the verse against the end of the story. Nuh (AS) prays in 26:118, \"save me and those with me of the believers,\" and those with him, he says, are exactly the ones who followed him. No disgrace or blame from the disbelievers' words attaches to them. Rather, al-Qurtubi concludes, the ardhalun are the deniers themselves. In 26:119 and 26:120 the ones the chiefs despised are carried in the laden ship, and the rest are drowned. The label did not survive the flood.",
+            "bn": "এরপর কুরতুবী কাহিনির শেষের সঙ্গে মিলিয়ে আয়াতটা পড়েন। ২৬:১১৮ আয়াতে নূহ (আঃ) দোয়া করেন: আমাকে আর আমার সঙ্গী মু'মিনদের রক্ষা করুন। কুরতুবী বলেন, তাঁর সঙ্গী তো তাঁরাই, যারা তাঁর অনুসরণ করেছিলেন। কাফেরদের কথা থেকে তাঁদের গায়ে কোনো কলঙ্ক বা নিন্দা লাগে না। বরং কুরতুবীর সিদ্ধান্ত, আরযালুন হলো অস্বীকারকারীরা নিজেরাই। ২৬:১১৯ ও ২৬:১২০ আয়াতে যাদের নেতারা তুচ্ছ ভেবেছিল, তাঁরা বোঝাই নৌকায় রক্ষা পান, আর বাকিরা ডুবে যায়। প্লাবনের পর সেই তকমার আর কিছু বাকি থাকেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Goldsmiths, Weavers and Cobblers",
+          "bn": "স্বর্ণকার, তাঁতি আর মুচি"
+        },
+        "p": [
+          {
+            "en": "Some early authorities tried to say what the chiefs meant by the lowest. Al-Baghawi glosses al-ardhalun as al-safala, the low, and then records two reports: from Ibn 'Abbas (RA), that they were the goldsmiths, and from 'Ikrima, that they were the weavers and the cobblers. They name the believers by the work of their hands, the kind of work a proud society reckons small. Al-Baghawi passes both reports on without comment and draws no ruling about any trade from either.",
+            "bn": "নেতারা 'সবচেয়ে নিচু' বলতে কাদের বোঝাত, প্রথম যুগের কেউ কেউ তা বলার চেষ্টা করেছেন। বাগাভী আল-আরযালুনের অর্থ করেন আস-সাফালা, মানে নিচু শ্রেণি। তারপর দুটি বর্ণনা আনেন। ইবন আব্বাস (রাঃ) থেকে: তারা ছিল স্বর্ণকার। ইকরিমা থেকে: তারা ছিল তাঁতি আর মুচি। দুটি বর্ণনাই মু'মিনদের চেনায় তাঁদের হাতের কাজ দিয়ে, এমন কাজ যাকে অহংকারী সমাজ ছোট মনে করে। বাগাভী কোনো মন্তব্য ছাড়াই দুটি বর্ণনা পৌঁছে দেন। আর কোনোটা থেকেই কোনো পেশা সম্পর্কে বিধান বের করেন না।"
+          },
+          {
+            "en": "Al-Qurtubi brings a sharp warning about where such reports can lead. He quotes as-Suhayli: many of the common people have fastened on a saying narrated in the tafsir of this verse, that the followers were the weavers and the cuppers. Had they been weavers, as-Suhayli answers, their faith in Allah's prophet and their following him would have ennobled them, just as Bilal (RA) and Salman (RA) were ennobled by being early to Islam, so that they are among the foremost and greatest of the Prophet's ﷺ Companions.",
+            "bn": "এ ধরনের বর্ণনা কোথায় গিয়ে ঠেকতে পারে, সে বিষয়ে কুরতুবী একটা কড়া সতর্কবাণী আনেন। তিনি সুহাইলীর কথা উদ্ধৃত করেন: এ আয়াতের তাফসীরে বর্ণিত একটা কথা অনেক সাধারণ মানুষ আঁকড়ে ধরেছে, কথাটা হলো, অনুসারীরা ছিল তাঁতি আর শিঙা লাগানো লোক। সুহাইলীর জবাব: তাঁরা যদি তাঁতিও হতেন, তবু আল্লাহর নবীর উপর তাঁদের ঈমান আর তাঁর অনুসরণই তাঁদের সম্মানিত করত। যেমন বিলাল (রাঃ) আর সালমান (রাঃ) আগেভাগে ইসলাম গ্রহণ করে সম্মানিত হয়েছেন, ফলে তাঁরা নবী ﷺ-এর সাহাবিদের মধ্যে অগ্রগণ্য ও শ্রেষ্ঠদের অন্যতম।"
+          },
+          {
+            "en": "As-Suhayli goes further. Nuh's own descendants were neither weavers nor cuppers, he says, and even if the believers had been, the disbelievers calling them ardhalun brings no blame or lessening on the weavers of our own day. That is a report of what disbelievers said, unless the disbelievers are made a proof and their words a principle, which would be great ignorance. The passage closes: Allah has made it known that crafts do no harm in religion. So the two sources differ in emphasis, al-Baghawi relaying the trades and as-Suhayli, through al-Qurtubi, refusing any contempt built on them.",
+            "bn": "সুহাইলী আরও এগিয়ে যান। তিনি বলেন, নূহ (আঃ)-এর বংশধরেরা তাঁতিও ছিলেন না, শিঙা লাগানোর লোকও ছিলেন না। আর তাঁরা তা হলেও, কাফেররা তাঁদের আরযালুন বলেছিল বলে আমাদের কালের তাঁতিদের গায়ে কোনো দোষ বা হীনতা লাগে না। কারণ এটা কাফেরদের কথার বর্ণনা মাত্র। কাফেরদের প্রমাণ আর তাদের কথাকে মূলনীতি বানালে তবেই অন্য কথা, আর সেটা হবে চরম অজ্ঞতা। অংশটা শেষ হয় এই কথায়: আল্লাহ জানিয়ে দিয়েছেন যে পেশা দ্বীনের কোনো ক্ষতি করে না। তাই দুই সূত্রের জোর দুই জায়গায়। বাগাভী পেশাগুলোর বর্ণনা পৌঁছে দেন, আর কুরতুবীর উদ্ধৃতিতে সুহাইলী সেগুলোর উপর দাঁড় করানো যেকোনো অবজ্ঞা নাকচ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who the Lowest Really Are",
+          "bn": "আসলে নিচু কারা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di first asks what an honest doubter would have said. Their reply, he writes, shows their arrogance toward the truth and their ignorance of how things really are. Had the truth been their aim, and had they some difficulty or doubt about his call, they would have said: make clear to us that what you bring is sound, by the ways that lead to knowing it. A seeker asks for proof. These men asked who else had come, and treated the answer as if it settled everything.",
+            "bn": "সা'দী প্রথমে দেখান, সৎভাবে সন্দেহ করা একজন মানুষ কী বলত। তিনি লেখেন, তাদের জবাব থেকেই সত্যের প্রতি তাদের অহংকার আর বাস্তবতা সম্পর্কে তাদের অজ্ঞতা বোঝা যায়। সত্যই যদি তাদের লক্ষ্য হতো, আর তাঁর দাওয়াত নিয়ে তাদের মনে কোনো জটিলতা বা সন্দেহ থাকত, তবে তারা বলত: তুমি যা এনেছ তা যে সঠিক, সেটা আমাদের কাছে স্পষ্ট করো, যে পথে তা জানা যায় সে পথে। যে সত্য খোঁজে, সে প্রমাণ চায়। এরা জানতে চাইল আর কারা এসেছে, আর সেই উত্তরকেই চূড়ান্ত ফয়সালা ধরে নিল।"
+          },
+          {
+            "en": "Then as-Sa'di turns the word around. Had they reflected as reflection deserves, they would have known that his followers are the highest (al-a'lawn), the best of creation, people of steady minds and virtuous character. The ardhal, the truly lowest, is the man stripped of what makes his mind a mind, who finds it good to worship stones, is content to bow to them and call on them, and refuses to yield to the call of the perfect messengers. On his reading, the chiefs had described themselves.",
+            "bn": "এরপর সা'দী শব্দটাকে উল্টে দেন। যেভাবে ভাবা উচিত সেভাবে ভাবলে তারা বুঝত, তাঁর অনুসারীরাই সবচেয়ে উঁচু (আল-আ'লাওন), সৃষ্টির সেরা মানুষ, স্থির বুদ্ধি আর উত্তম চরিত্রের অধিকারী। আসল আরযাল হলো সেই লোক, যার বুদ্ধির বিশেষ গুণটাই কেড়ে নেওয়া হয়েছে। সে পাথরের ইবাদতকে ভালো মনে করে, তার সামনে সিজদা করে আর তাকে ডাকে, তাতেই সে খুশি। অথচ পরিপূর্ণ রাসুলদের দাওয়াতের সামনে মাথা নত করতে সে রাজি নয়। সা'দীর পাঠে নেতারা আসলে নিজেদের বর্ণনাই দিয়েছিল।"
+          },
+          {
+            "en": "He closes with a principle about argument itself. As soon as one of two disputants speaks a false word, the corruption of what he holds becomes known, quite apart from whether his opponent's claim is right. So when we hear that Nuh's people answered him with this question, and built their rejection on a premise anyone can see is unsound, we know they were astray and in error, as-Sa'di says, even had we never witnessed the signs of Nuh (AS) and the greatness of his call that give certainty of his truth.",
+            "bn": "শেষে তিনি তর্কের নিজস্ব একটা নীতি তুলে ধরেন। দুই পক্ষের একজন বাতিল কথা বলামাত্র তার অবস্থানের গলদ ধরা পড়ে যায়, প্রতিপক্ষের দাবি ঠিক কি না সে প্রশ্ন আলাদা রেখেও। সা'দী বলেন, তাই যখন আমরা শুনি নূহ (আঃ)-এর কওম এই প্রশ্ন দিয়ে তাঁর দাওয়াত ফিরিয়ে দিয়েছিল, আর এমন এক ভিত্তির উপর প্রত্যাখ্যান দাঁড় করিয়েছিল যার গলদ সবাই বোঝে, তখনই আমরা জানি তারা পথভ্রষ্ট আর ভুলের মধ্যে ছিল। নূহ (আঃ)-এর নিদর্শন আর তাঁর মহান দাওয়াত, যা তাঁর সত্যতায় নিশ্চিত বিশ্বাস জন্মায়, সেগুলো না দেখলেও এটুকু জানা যেত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Men Walk Past",
+          "bn": "পাশ দিয়ে হেঁটে যাওয়া দুজন"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. The report below is general and not tied to this verse, but it holds up the same scale. Al-Bukhari records in his Sahih (6447) from Sahl bin Sa`d As-Sa`idi: A man passed by Allah's Messenger (ﷺ) and the Prophet (ﷺ) asked a man sitting beside him, \"What is your opinion about this (passer-by)?\" He replied, \"This (passer-by) is from the noble class of people. By Allah, if he should ask for a lady's hand in marriage, he ought to be given her in marriage, and if he intercedes for somebody, his intercession will be accepted.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদিস যুক্ত করেনি। নিচের বর্ণনাটি সাধারণ, এ আয়াতের সঙ্গে এর সরাসরি সম্পর্ক নেই, তবে একই দাঁড়িপাল্লা এটি তুলে ধরে। বুখারী তাঁর সহীহ গ্রন্থে (৬৪৪৭) সাহল ইবন সা'দ আস-সাইদী (রাঃ) থেকে বর্ণনা করেছেন: আল্লাহর রাসুল ﷺ-এর পাশ দিয়ে এক লোক হেঁটে গেল। নবী ﷺ তাঁর পাশে বসা এক ব্যক্তিকে জিজ্ঞেস করলেন, 'এই (পথচারী) লোকটা সম্পর্কে তোমার কী মত?' সে বলল, 'ইনি অভিজাত শ্রেণির মানুষ। আল্লাহর কসম, ইনি কোথাও বিয়ের প্রস্তাব দিলে তাঁর সঙ্গে বিয়ে দেওয়াই উচিত, আর কারও জন্য সুপারিশ করলে তাঁর সুপারিশ কবুল হবে।'"
+          },
+          {
+            "en": "Allah's Messenger (ﷺ) kept quiet, and then another man passed by and Allah's Messenger (ﷺ) asked the same man (his companion) again, \"What is your opinion about this (second) one?\" He said, \"O Allah's Messenger (ﷺ)! This person is one of the poor Muslims. If he should ask a lady's hand in marriage, no-one will accept him, and if he intercedes for somebody, no one will accept his intercession, and if he talks, no-one will listen to his talk.\" Then Allah's Messenger (ﷺ) said, \"This (poor man) is better than such a large number of the first type (i.e. rich men) as to fill the earth.\"",
+            "bn": "আল্লাহর রাসুল ﷺ চুপ রইলেন। তারপর আরেকজন পাশ দিয়ে গেল, আর আল্লাহর রাসুল ﷺ সেই একই লোককে আবার জিজ্ঞেস করলেন, 'এই (দ্বিতীয়) লোকটা সম্পর্কে তোমার কী মত?' সে বলল, 'হে আল্লাহর রাসুল! এ তো গরিব মুসলমানদের একজন। এ বিয়ের প্রস্তাব দিলে কেউ রাজি হবে না, কারও জন্য সুপারিশ করলে কেউ তা গ্রহণ করবে না, আর কথা বললে কেউ কান দেবে না।' তখন আল্লাহর রাসুল ﷺ বললেন, 'প্রথম ধরনের (অর্থাৎ ধনী) লোকে পৃথিবী ভরে গেলেও এই (গরিব) লোকটি তাদের চেয়ে উত্তম।'"
+          },
+          {
+            "en": "Al-Bukhari placed the narration in his Sahih and gives it no separate grading. The companion's measure was the measure the chiefs of Nuh's people used: whose proposal is accepted, whose word is heard, whose house carries weight. The Prophet ﷺ let the description be spoken in full, then set beside it a scale on which the man the room ignored outweighs an earthful of the man it honoured.",
+            "bn": "বুখারী বর্ণনাটি তাঁর সহীহ গ্রন্থে এনেছেন, আলাদা কোনো মান উল্লেখ করেননি। সাহাবির মাপকাঠি ছিল সেই মাপকাঠিই, যা দিয়ে নূহ (আঃ)-এর কওমের নেতারা মানুষ মাপত: কার বিয়ের প্রস্তাব মানা হয়, কার কথা শোনা হয়, কার ঘরের ওজন আছে। নবী ﷺ পুরো বর্ণনাটা বলতে দিয়েছেন, তারপর তার পাশে রেখেছেন আরেক দাঁড়িপাল্লা। সেখানে যাকে মজলিস পাত্তা দেয়নি, তার ওজন যাকে সম্মান করেছে তেমন লোকে পৃথিবী ভরা থাকলেও তাদের চেয়ে বেশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Trade Lesser Before Allah",
+          "bn": "আল্লাহর কাছে কোনো পেশা ছোট নয়"
+        },
+        "p": [
+          {
+            "en": "This must be said plainly. The verse reports what the deniers among Nuh's people said, and the Qur'an records their end. It describes what it describes and licenses nothing against any living person or community: not contempt for the poor, not for any trade or craft, and not for the wealthy as a class either. No class or trade of people is lesser before Allah. Whoever uses the chiefs' word for the believers has borrowed it from them.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নূহ (আঃ)-এর কওমের অস্বীকারকারীদের কথা জানায়, আর তাদের পরিণতিও কুরআনে লেখা আছে। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না। গরিবদের অবজ্ঞা করার অনুমতি দেয় না, কোনো পেশা বা কারিগরিকে ছোট করার অনুমতি দেয় না, আবার ধনীদের গোটা শ্রেণিকে তুচ্ছ করারও না। আল্লাহর কাছে কোনো শ্রেণি বা পেশার মানুষ ছোট নয়। মু'মিনদের জন্য নেতাদের ব্যবহার করা শব্দ যে মুখে তোলে, সে শব্দটা তাদের কাছ থেকেই ধার করেছে।"
+          },
+          {
+            "en": "The question itself has not died with them. It returns whenever a gathering of good is judged by who sits in it, whenever a call is weighed by the address and the trade of those who answered first. As-Sa'di asked what an honest doubter would say: show me that it is true. That is the question worth bringing. To ask instead who else has come, and to stay away because of the answer, is to repeat the chiefs' reply and hope it sounds different.",
+            "bn": "প্রশ্নটা তাদের সঙ্গে মরে যায়নি। যখনই কোনো নেক মজলিসকে বিচার করা হয় কারা সেখানে বসে আছে তা দিয়ে, যখনই কোনো দাওয়াত মাপা হয় প্রথম সাড়াদানকারীদের ঠিকানা আর পেশা দিয়ে, প্রশ্নটা ফিরে আসে। সা'দী দেখিয়েছিলেন সৎ সন্দেহকারী কী বলত: আমাকে দেখাও এটা সত্য। আনার মতো প্রশ্ন সেটাই। তার বদলে আর কারা এসেছে জিজ্ঞেস করা, আর উত্তর শুনে দূরে থাকা মানে নেতাদের জবাবটাই আবার দেওয়া, শুধু আশা করা যে এবার শুনতে অন্য রকম লাগবে।"
+          }
+        ]
+      }
+    ]
+  },
   "26:115": {
     "sections": [
       {
