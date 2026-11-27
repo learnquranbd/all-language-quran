@@ -2939,6 +2939,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "36:67": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Eyes to the Legs",
+          "bn": "চোখ থেকে পায়ের দিকে"
+        },
+        "p": [
+          {
+            "en": "Wa law nasha'u la-masakhnahum 'ala makanatihim fa-ma-stata'u mudiyyan wa la yarji'un: and if We willed, We would have transformed them in their places, so that they could neither go on nor come back. The verse is the second of a pair. The one before it, 36:66, opens with the same three words and threatens the eyes: if We willed, We would have wiped them out, and they would race for the path, and how would they see? Here the threat moves from the eyes to the whole body, and from seeing to moving.",
+            "bn": "ওয়া লাও নাশাউ লামাসাখনাহুম আলা মাকানাতিহিম ফামাসতাতাউ মুদিয়্যান ওয়ালা ইয়ারজিঊন: আমি চাইলে তাদের নিজ নিজ জায়গাতেই তাদের রূপ বদলে দিতাম, তখন তারা না সামনে এগোতে পারত, না পেছনে ফিরতে পারত। আয়াতটি জোড়ার দ্বিতীয়টি। ঠিক আগের আয়াত ৩৬:৬৬ একই তিনটি শব্দে শুরু হয়, আর সেখানে হুমকি চোখের উপর: আমি চাইলে তাদের চোখ মুছে দিতাম, তখন তারা পথের দিকে ছুটত, কিন্তু দেখত কীভাবে? এখানে এসে হুমকি চোখ ছেড়ে গোটা শরীরে পৌঁছায়। দেখার প্রশ্ন সরে গিয়ে আসে চলার প্রশ্ন।"
+          },
+          {
+            "en": "Both verses come straight after a scene of judgement. In 36:63 and 36:64 the Fire is shown to those who were promised it, and in 36:65 their mouths are sealed while their hands speak and their feet bear witness. Then the surah turns to two conditionals, each opening with law, the 'if' Arabic uses for what did not come to pass. As-Sa'di draws the contrast between them: in the first, Allah would blot out their eyes and leave them their movement; in the second, He would take the movement itself away.",
+            "bn": "দুটো আয়াতই আসে বিচারের এক দৃশ্যের ঠিক পরে। ৩৬:৬৩ ও ৩৬:৬৪ আয়াতে যাদের জাহান্নামের ভয় দেখানো হয়েছিল, তাদের সামনে সেই আগুন হাজির। ৩৬:৬৫ আয়াতে তাদের মুখে মোহর পড়ে, হাত কথা বলে, পা সাক্ষ্য দেয়। এরপর সূরা দুটি শর্তবাক্যের দিকে মোড় নেয়। দুটোরই শুরু লাও দিয়ে, আরবিতে যে 'যদি' বলা হয় এমন কিছুর বেলায় যা ঘটেনি। সা'দী দুটোর পার্থক্য দেখান এভাবে: প্রথমটিতে আল্লাহ তাদের চোখ মুছে দিতেন কিন্তু চলাফেরা রেখে দিতেন। দ্বিতীয়টিতে তিনি চলার শক্তিটাই কেড়ে নিতেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stone, Statue or Beast",
+          "bn": "পাথর, জড় বস্তু, নাকি পশু"
+        },
+        "p": [
+          {
+            "en": "The key word is the verb masakha. Al-Qurtubi defines al-maskh as the changing of a created form, turning it into stone, or into some lifeless thing, or into a beast. The Muyassar folds two ideas into one plain line: had We willed, We would have changed their form and made them sit fast in their places, so that they could not go on ahead of them nor go back behind them. One reading speaks of a body remade, the other of a body held still, and the Muyassar keeps both together.",
+            "bn": "মূল শব্দ হলো মাসাখা ক্রিয়াটি। কুরতুবী আল-মাসখের সংজ্ঞা দেন এভাবে: সৃষ্টির আকৃতি বদলে দেওয়া, তাকে পাথর বানিয়ে দেওয়া, কিংবা কোনো প্রাণহীন বস্তু, কিংবা পশু বানিয়ে দেওয়া। মুয়াসসার সহজ এক বাক্যে দুটি ভাবনাকে একসঙ্গে বেঁধে দেয়: আমি চাইলে তাদের আকৃতি বদলে দিতাম, আর তাদের জায়গাতেই বসিয়ে রাখতাম। তখন তারা না সামনে এগোতে পারত, না পেছনে ফিরতে পারত। একটি ব্যাখ্যায় শরীরটা নতুন করে গড়া, অন্যটিতে শরীরটা জায়গায় আটকে রাখা। মুয়াসসার দুটোকেই পাশাপাশি রাখে।"
+          },
+          {
+            "en": "Al-Qurtubi then shows how each form explains the second half of the verse. A lifeless thing, he says, neither advances nor falls back; it stays where it was set. And if the maskh were the changing of a human form into a beast, that beast would not grasp any place it might make for, and so it would be bewildered, neither coming forward nor turning away. In every version the result is the same: a creature that once chose its road is left with no road to choose.",
+            "bn": "এরপর কুরতুবী দেখান, প্রতিটি রূপ কীভাবে আয়াতের দ্বিতীয় অংশের অর্থ খুলে দেয়। তিনি বলেন, প্রাণহীন বস্তু সামনেও যায় না, পেছনেও সরে না, যেখানে রাখা হয় সেখানেই পড়ে থাকে। আর মাসখ যদি হয় মানুষের আকৃতিকে পশুতে বদলে দেওয়া, তবে সেই পশু বুঝতেই পারবে না কোন দিকে যাওয়া উচিত। ফলে সে দিশেহারা হয়ে থাকবে, না সামনে আসবে, না মুখ ফিরিয়ে চলে যাবে। যে রূপই ধরা হোক, পরিণাম একই। যে সৃষ্টি একদিন নিজের পথ নিজে বেছে নিত, তার বেছে নেওয়ার মতো কোনো পথই আর থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Glosses From the Early Scholars",
+          "bn": "পূর্বসূরিদের চার ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir lays out what the early scholars said about la-masakhnahum, one gloss after another, without ranking them. Al-'Awfi reports from Ibn Abbas: We would have destroyed them. As-Suddi says: We would have changed their creation. Abu Salih says: We would have made them stones. Al-Hasan al-Basri and Qatada say: He would have made them sit fast upon their legs. Four answers, then, to one verb: death, a changed shape, stone, and a body that can no longer walk.",
+            "bn": "লামাসাখনাহুম নিয়ে পূর্বসূরিরা কী বলেছেন, ইবন কাসীর তা একটার পর একটা সাজিয়ে দেন, কোনোটাকে আগে-পিছে না করে। আওফী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: আমি তাদের ধ্বংস করে দিতাম। সুদ্দী বলেন: আমি তাদের সৃষ্টি বদলে দিতাম। আবু সালিহ বলেন: আমি তাদের পাথর বানিয়ে দিতাম। হাসান বসরী ও কাতাদা বলেন: তিনি তাদের পায়ের উপর বসিয়ে আটকে দিতেন। একটি ক্রিয়ার তাহলে চারটি উত্তর: মৃত্যু, বদলে যাওয়া আকৃতি, পাথর, আর এমন শরীর যা আর হাঁটতে পারে না।"
+          },
+          {
+            "en": "Having given the last of these, Ibn Kathir goes on: and for this reason the Exalted said, so they could not go on, meaning forward, nor come back, meaning backward. Rather, he says, they would keep to a single state, neither advancing nor falling back. The note is short, but it shows how he reads the verse as one picture. Whatever the change in the first half, the second half describes its outcome: a person fixed in one place, for whom every direction has closed.",
+            "bn": "শেষ ব্যাখ্যাটি উল্লেখ করার পর ইবন কাসীর বলেন: এ কারণেই মহান আল্লাহ বলেছেন, তখন তারা এগোতে পারত না, অর্থাৎ সামনের দিকে, আর ফিরতেও পারত না, অর্থাৎ পেছনের দিকে। বরং তারা একই অবস্থায় আটকে থাকত, না এগোত, না পিছিয়ে যেত। কথাটা ছোট, তবু এতে বোঝা যায় তিনি আয়াতটিকে একটি পূর্ণ ছবি হিসেবে পড়েন। প্রথম অংশে যে পরিবর্তনের কথাই থাকুক, দ্বিতীয় অংশ তার পরিণাম দেখায়। মানুষটি এক জায়গায় স্থির, তার জন্য সব দিক বন্ধ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seated Fast in Their Homes",
+          "bn": "নিজের ঘরেই বসে থাকা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari states his own reading first: had We willed, We would have made these idolaters sit fast upon their legs in their homes, so that they could not go on in front of them nor go back behind them. He then notes that the people of interpretation differed. With his chains he cites al-Hasan, who said, if We willed We would have made them sit, and Qatada, who said, We would have made them sit fast upon their legs, so they could neither advance nor fall back. As-Sa'di's gloss is close: We would have taken their movement away.",
+            "bn": "তাবারী শুরুতেই নিজের ব্যাখ্যা দেন: আমি চাইলে এই মুশরিকদের তাদের ঘরেই পায়ের উপর বসিয়ে আটকে দিতাম, তখন তারা না সামনে এগোতে পারত, না পেছনে ফিরতে পারত। তারপর তিনি জানান, ব্যাখ্যাকারদের মধ্যে মতভেদ আছে। নিজের সনদে তিনি আনেন হাসানের কথা: আমি চাইলে তাদের বসিয়ে দিতাম। আনেন কাতাদার কথাও: আমি তাদের পায়ের উপর বসিয়ে আটকে দিতাম, ফলে তারা না এগোতে পারত, না পিছিয়ে যেতে পারত। সা'দীর ব্যাখ্যাও কাছাকাছি: আমি তাদের চলার শক্তি কেড়ে নিতাম।"
+          },
+          {
+            "en": "Others, at-Tabari reports, took the verse to mean: had We willed, We would have destroyed them in their dwellings, and he gives this from Ibn Abbas. He adds that makana and makan carry one meaning, a place, and al-Baghawi glosses the word the same way. Al-Baghawi then gives two further pictures: had We willed, We would have made them apes and swine in their homes; and, it is said, We would have made them stones, sitting in their homes with no souls in them.",
+            "bn": "তাবারী জানান, অন্যরা আয়াতের অর্থ নিয়েছেন এভাবে: আমি চাইলে তাদের বাসস্থানেই তাদের ধ্বংস করে দিতাম। এ কথা তিনি আনেন ইবন আব্বাস (রাঃ) থেকে। তিনি যোগ করেন, মাকানা আর মাকান একই অর্থ বহন করে, অর্থাৎ জায়গা। বাগাভীও শব্দটির একই অর্থ করেন। এরপর বাগাভী আরও দুটি ছবি দেন। এক, আমি চাইলে তাদের ঘরের ভেতরেই তাদের বানর ও শূকর বানিয়ে দিতাম। দুই, বলা হয়, আমি তাদের পাথর বানিয়ে দিতাম, ঘরে বসে থাকা অবস্থায়, যাদের ভেতরে কোনো প্রাণ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Threat That Names No One",
+          "bn": "হুমকিতে কারও নাম নেই"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: a power Allah holds, set in a sentence that begins with an 'if' of what did not happen. It names no people as transformed, and it licenses nothing against any living person or community. No one may point at any group, of any faith or nation, and call its members the apes, swine or stones of this verse. Al-Baghawi's words are a gloss on what Allah could have done, not a report about anyone alive.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি ঠিক ততটুকুই বলে, যতটুকু তার শব্দে আছে: আল্লাহর হাতে থাকা এক ক্ষমতার কথা, এমন এক বাক্যে যার শুরু না-ঘটা বিষয়ের 'যদি' দিয়ে। কোনো জাতিকে রূপ বদলে যাওয়া বলে এ আয়াত চিহ্নিত করে না। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতিও দেয় না। কোনো ধর্মের বা দেশের কোনো দলকে দেখিয়ে কেউ বলতে পারে না যে এরাই এ আয়াতের বানর, শূকর বা পাথর। বাগাভীর কথা আল্লাহ কী করতে পারতেন তার ব্যাখ্যা, জীবিত কারও সম্পর্কে খবর নয়।"
+          },
+          {
+            "en": "The same care applies to the reading of al-Hasan, Qatada and at-Tabari. A person whose legs do not carry them is not a sign of this verse, and nothing here makes disability a mark of punishment; the verse speaks of what Allah could do to people standing in defiance, not of anyone born or left unable to walk. None of the commentaries fetched for this verse attaches a hadith to it, so the explanation rests on the words themselves and on what the early scholars said of them.",
+            "bn": "হাসান, কাতাদা ও তাবারীর ব্যাখ্যার বেলাতেও একই সতর্কতা লাগবে। যার পা তাকে বইতে পারে না, সে এ আয়াতের নিদর্শন নয়। প্রতিবন্ধিতাকে শাস্তির চিহ্ন বানানোর কিছুই এখানে নেই। আয়াত বলছে অবাধ্যতায় অটল মানুষদের সঙ্গে আল্লাহ কী করতে পারতেন, জন্ম থেকে বা পরে যে হাঁটতে পারে না তার কথা নয়। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তাই ব্যাখ্যা দাঁড়িয়ে আছে আয়াতের শব্দ আর পূর্বসূরিদের বক্তব্যের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Houses, or the Bridge",
+          "bn": "নিজের ঘরে, নাকি পুলসিরাতে"
+        },
+        "p": [
+          {
+            "en": "When does the verse picture this happening? At-Tabari's gloss sets the scene in the idolaters' homes, in this world, and the report from Ibn Abbas speaks of destruction in their dwellings. Al-Qurtubi records another view under the words 'it is said': had We willed, We would have transformed them in the very place where they dared to disobey. On these readings the threat hangs over people who are still alive, in their houses and their haunts, as a power that could reach them at any hour.",
+            "bn": "আয়াতটি এ ঘটনাকে কোন সময়ে কল্পনা করছে? তাবারীর ব্যাখ্যায় দৃশ্যটা মুশরিকদের ঘরে, এই দুনিয়াতে। ইবন আব্বাস (রাঃ)-এর বর্ণনাও তাদের বাসস্থানে ধ্বংসের কথা বলে। কুরতুবী 'বলা হয়' কথাটি দিয়ে আরেকটি মত উল্লেখ করেন: আমি চাইলে তাদের রূপ বদলে দিতাম ঠিক সেই জায়গাতেই, যেখানে তারা নাফরমানির দুঃসাহস দেখিয়েছিল। এসব ব্যাখ্যায় হুমকিটা ঝুলে আছে জীবিত মানুষদের মাথার উপর, তাদের ঘরে আর আড্ডার জায়গায়। এ এমন এক ক্ষমতা, যা যেকোনো মুহূর্তে তাদের ধরতে পারে।"
+          },
+          {
+            "en": "Al-Qurtubi also cites Ibn Sallam, who held that all of this belongs to the Day of Resurrection: Allah will blot out their eyes upon the Sirat, the bridge over the Fire. As-Sa'di reads the pair of verses the same way and fills in the scene. In that place, he says, there is nothing but the Fire, which has been brought out into view, and no one is saved except by crossing upon the Sirat. None can do that except the people of faith, who walk in their own light.",
+            "bn": "কুরতুবী ইবন সাল্লামের মতও আনেন। তাঁর মতে এর সবকিছুই কিয়ামতের দিনের: আল্লাহ পুলসিরাতের উপর তাদের চোখ মুছে দেবেন। পুলসিরাত হলো জাহান্নামের উপর দিয়ে যাওয়া সেতু। সা'দীও এ আয়াত দুটিকে এভাবেই পড়েন, আর দৃশ্যটা আরও খুলে বলেন। তিনি বলেন, সেখানে আগুন ছাড়া আর কিছু নেই, আগুনকে সামনে এনে হাজির করা হয়েছে। পুলসিরাত পার হওয়া ছাড়া কারও বাঁচার পথ নেই। আর তা পারবে কেবল ঈমানদারেরা, যারা নিজেদের নূরে পথ চলবে।"
+          },
+          {
+            "en": "These people, as-Sa'di goes on, have no covenant from Allah for rescue from the Fire. If He wills, He blots out their eyes and leaves them their movement, and they do not find the Sirat even if they race toward it; if He wills, He takes their movement away, and they can neither advance nor retreat. The point, he says, is that they do not cross, and so they are not saved. Al-Qurtubi records both settings, this world and the Day, without choosing between them, and this article leaves them side by side as well.",
+            "bn": "সা'দী আরও বলেন, এদের জন্য আল্লাহর কাছে জাহান্নাম থেকে মুক্তির কোনো অঙ্গীকার নেই। তিনি চাইলে তাদের চোখ মুছে দেন আর চলাফেরা রেখে দেন, তখন দৌড়ে গেলেও তারা পুলসিরাতের দেখা পায় না। আবার চাইলে চলার শক্তিটাই কেড়ে নেন, তখন তারা এগোতেও পারে না, পিছাতেও পারে না। তাঁর কথার সারকথা: তারা সেতু পার হতে পারে না, তাই মুক্তিও পায় না। কুরতুবী দুটি প্রেক্ষাপটই উল্লেখ করেন, এই দুনিয়া আর কিয়ামতের দিন, কোনোটিকে বেছে না নিয়ে। এ লেখাও দুটোকে পাশাপাশি রেখে দিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Going On and Turning Back",
+          "bn": "এগিয়ে যাওয়া, ফিরে আসা"
+        },
+        "p": [
+          {
+            "en": "The last words are fa-ma-stata'u mudiyyan wa la yarji'un. Al-Qurtubi explains mudiyy, read with a damma on the mim, as the verbal noun of mada, yamdi, said of someone who goes on his way. He records that Abu Haywa read it madiyyan, with a fatha. He also reports a reading of the earlier word: al-Hasan, as-Sulami, Zirr ibn Hubaysh, and Asim in the transmission of Abu Bakr read it as the plural makanat, places, where the rest read the singular makana.",
+            "bn": "আয়াতের শেষ শব্দগুলো: ফামাসতাতাউ মুদিয়্যান ওয়ালা ইয়ারজিঊন। কুরতুবী বলেন, মীমে পেশ দিয়ে পড়া মুদিয়্য শব্দটি মাদা, ইয়ামদী ক্রিয়ার মাসদার। কেউ নিজের পথে চলে গেলে আরবিতে এ ক্রিয়া বলা হয়। তিনি জানান, আবু হাইওয়া শব্দটি পড়েছেন যবর দিয়ে, মাদিয়্যান। আগের একটি শব্দের কিরাআতও তিনি উল্লেখ করেন। হাসান, সুলামী, যির ইবন হুবাইশ এবং আবূ বকরের বর্ণনায় আসিম শব্দটিকে বহুবচনে পড়েছেন, মাকানাত, অর্থাৎ জায়গাগুলো। বাকিরা পড়েছেন একবচনে, মাকানা।"
+          },
+          {
+            "en": "On wa la yarji'un al-Baghawi gives two senses. In the first, they could not return to what they had been before, so that the change, once made, would never be undone. The second, given with 'it is said', is simply that they would be able neither to go nor to come back. As-Sa'di, reading the verse at the Sirat, gives the turning back a purpose: they could not retreat so as to get away from the Fire. For him the scene is a narrow place, with the Fire in view and no way out.",
+            "bn": "ওয়ালা ইয়ারজিঊন অংশের দুটি অর্থ দেন বাগাভী। প্রথম অর্থে, তারা আগে যেমন ছিল সেই অবস্থায় আর ফিরতে পারত না। অর্থাৎ একবার বদলে গেলে সেই পরিবর্তন আর কখনো উল্টানো যেত না। দ্বিতীয় অর্থটি তিনি আনেন 'বলা হয়' দিয়ে: তারা না যেতে পারত, না ফিরে আসতে পারত। সা'দী আয়াতটিকে পুলসিরাতের দৃশ্যে পড়েন বলে পেছনে ফেরার একটা উদ্দেশ্যও দেখান: আগুন থেকে দূরে সরে যাওয়ার জন্য তারা পিছিয়েও যেতে পারত না। তাঁর চোখে দৃশ্যটা এক সংকীর্ণ জায়গা, সামনে আগুন, বেরোনোর পথ নেই।"
+          },
+          {
+            "en": "There is also a turn in the verbs, open to anyone who reads the Arabic: fa-ma-stata'u is in the past tense, as if the stillness had already set in, while la yarji'un is in the present. None of the commentaries fetched for this verse remarks on it, so it is better simply to notice it than to build anything on it. What they do share is the shape of the loss. Forward and back, the only two ways a person can move along a road, are closed at once.",
+            "bn": "আরবি যে পড়ে, সে ক্রিয়াগুলোর একটা পালাবদলও লক্ষ করবে। ফামাসতাতাউ অতীত কালে, যেন অচলতা এরই মধ্যে নেমে এসেছে। আর লা ইয়ারজিঊন বর্তমান কালে। এ আয়াতের জন্য দেখা তাফসীরগুলোর কোনোটি এ নিয়ে কিছু বলেনি। তাই শুধু লক্ষ করাই ভালো, এর উপর কিছু দাঁড় করানো ঠিক হবে না। তবে ক্ষতির চেহারাটা নিয়ে সবাই একমত। পথে চলার উপায় দুটি, সামনে যাওয়া আর পেছনে ফেরা, আর দুটোই একসঙ্গে বন্ধ হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "While the Legs Still Carry",
+          "bn": "পা যতক্ষণ বয়ে নেয়"
+        },
+        "p": [
+          {
+            "en": "The verse after this one, 36:68, turns from what Allah could do to what He does: whoever We grant long life, We reverse in creation, so will they not understand? The surah sets a threat that was held back beside a reversal that does happen, to those granted long years. The first is a sudden loss of movement that did not come; the second is one that comes to many, slowly. Both say the same thing about the strength in a person's legs: it was given, and it can be taken back.",
+            "bn": "এর পরের আয়াত ৩৬:৬৮ আল্লাহ কী করতে পারতেন সেখান থেকে সরে আসে তিনি কী করেন সেই কথায়: আমি যাকে দীর্ঘ জীবন দিই, সৃষ্টিতে তাকে উল্টে দিই, তবুও কি তারা বোঝে না? সূরা এখানে থামিয়ে রাখা এক হুমকির পাশে রাখে এমন এক উল্টে যাওয়া, যা সত্যিই ঘটে দীর্ঘায়ু মানুষের জীবনে। প্রথমটি চলার শক্তির হঠাৎ হারিয়ে যাওয়া, যা আসেনি। দ্বিতীয়টি আসে অনেকের জীবনে, ধীরে ধীরে। দুটো একই কথা বলে মানুষের পায়ের শক্তি সম্পর্কে: এটা দেওয়া হয়েছে, আর ফিরিয়েও নেওয়া যায়।"
+          },
+          {
+            "en": "Read this way, the verse tells its listeners about something that was not done to them. Those who first heard it were still walking to their markets and their gatherings, and law nasha'u told them that their feet moved by leave. The time between the warning and the Day is the time in which a step can still be taken toward Allah. The verse asks whoever hears it to take that step now, while going forward and turning back are both still open.",
+            "bn": "এভাবে পড়লে আয়াতটি শ্রোতাকে জানায় এমন কিছুর কথা, যা তার সঙ্গে করা হয়নি। যারা প্রথম এ আয়াত শুনেছিল, তারা তখনো হেঁটে বাজারে যাচ্ছিল, মজলিসে বসছিল। লাও নাশাউ তাদের জানিয়ে দিল, তাদের পা চলছে অনুমতি পেয়ে। সতর্কবাণী আর কিয়ামতের দিনের মাঝখানের সময়টুকুতেই আল্লাহর দিকে কদম ফেলা যায়। আয়াত যে-ই শুনুক, তাকে বলছে সেই কদমটা এখনই ফেলতে, যতক্ষণ সামনে যাওয়া আর পেছনে ফেরা দুটো পথই খোলা।"
+          },
+          {
+            "en": "What might that step be? The verse gives no list, but the surah has already named its road in 36:61: worship Me, this is a straight path. A prayer kept waiting, a wrong not yet put right, a debt of kindness owed to a parent: each is a place where a person stands still by choice. The verse invites its reader to leave such a place while moving is still a matter of choice, before it becomes a matter of leave withdrawn.",
+            "bn": "সেই কদমটা কী হতে পারে? আয়াত নিজে কোনো তালিকা দেয় না, তবে সূরা আগেই ৩৬:৬১ আয়াতে পথের নাম বলে দিয়েছে: আমারই ইবাদত করো, এটাই সরল পথ। ফেলে রাখা নামাজ, এখনো শোধরানো হয়নি এমন কোনো অন্যায়, বাবা-মায়ের প্রতি বাকি থাকা কোনো সদাচরণ। এর প্রতিটিই এমন জায়গা, যেখানে মানুষ নিজের ইচ্ছায় থেমে আছে। আয়াত পাঠককে ডাকে এমন জায়গা ছেড়ে বেরিয়ে আসতে, চলাটা যতক্ষণ নিজের বেছে নেওয়ার বিষয়। অনুমতি তুলে নেওয়ার পর আর সে সুযোগ থাকবে না।"
+          }
+        ]
+      }
+    ]
+  },
   "36:69": {
     "sections": [
       {

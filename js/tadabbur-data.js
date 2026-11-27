@@ -36773,6 +36773,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Hour will come suddenly, while people are still busy with their quarrels and their trade. Live as one who could be found by it at any moment.",
     "lessonBn": "কিয়ামত আসবে হঠাৎ, মানুষ যখন ঝগড়া আর কেনাবেচায় ব্যস্ত। এমনভাবে বাঁচুন, যেন যেকোনো মুহূর্তে তা আপনাকে এসে ধরতে পারে।"
+  },
+  "36:67": {
+    "reflectionEn": "Two verses in a row open with the same words: if We willed. The first speaks of eyes that could have been wiped out; this one speaks of bodies that could have been changed where they stood, so that they could go neither forward nor back. The verse does not say it happened. It shows a power held back, addressed to people who were still walking about and still free to choose a road. Every step I take today is a step I was allowed to take. So the question is not whether I can move, but where I am going. If my legs still carry me, what am I carrying them toward? And what have I kept putting off, as if the power to move were mine to keep?",
+    "reflectionBn": "পরপর দুটি আয়াত একই কথায় শুরু: আমি চাইলে। আগেরটিতে চোখের কথা, যা মুছে দেওয়া যেত। এটিতে শরীরের কথা, যা দাঁড়ানো জায়গাতেই বদলে দেওয়া যেত, তখন সামনে এগোনো বা পেছনে ফেরা কোনোটাই আর হতো না। আয়াত বলছে না যে তা ঘটেছে। এখানে এক থামিয়ে রাখা ক্ষমতার ছবি, আর কথাটা বলা হচ্ছে এমন মানুষদের, যারা তখনো হেঁটে বেড়াচ্ছে, তখনো নিজের পথ বেছে নিতে পারছে। আজ আমি যত কদম ফেলি, প্রতিটাই আমাকে ফেলতে দেওয়া হয়েছে। তাই প্রশ্ন এটা নয় যে আমি চলতে পারি কি না। প্রশ্ন হলো, চলতে চলতে আমি যাচ্ছি কোথায়। পা দুটো যদি এখনো আমাকে বয়ে নিয়ে যায়, আমি তাদের নিয়ে যাচ্ছি কোন দিকে? আর কোন কাজটা আমি বারবার পিছিয়ে রাখছি, যেন চলার শক্তিটা চিরকাল আমার কাছেই থাকবে?",
+    "pointsEn": [
+      "If the power to move forward were taken from me tomorrow, which step would I most regret not having taken today?",
+      "Where am I already stuck, neither going forward nor turning back, only because I keep hesitating?",
+      "Do I read Allah's holding back as permission to carry on, or as time given to me so that I turn?",
+      "When I see someone whose body cannot walk, do I remember that this verse names no one, and that my own strength is a loan?",
+      "Which road do my feet take most often, and would I be glad to hear them speak about it?"
+    ],
+    "pointsBn": [
+      "কাল যদি সামনে এগোনোর শক্তি কেড়ে নেওয়া হয়, আজকের কোন কদমটা না ফেলার জন্য সবচেয়ে বেশি আফসোস হবে?",
+      "কোথায় আমি এরই মধ্যে আটকে আছি, না সামনে যাচ্ছি না পেছনে ফিরছি, শুধু দ্বিধার কারণে?",
+      "আল্লাহ যে শাস্তি থামিয়ে রেখেছেন, সেটাকে কি আমি যেমন চলছি তেমন চলার অনুমতি ভাবি, নাকি ফিরে আসার জন্য দেওয়া সময়?",
+      "যার শরীর হাঁটতে পারে না, তাকে দেখলে কি মনে রাখি যে এ আয়াত কারও নাম নেয়নি, আর আমার নিজের শক্তিটাও ধার করা?",
+      "আমার পা সবচেয়ে বেশি কোন পথে যায়? সে পথের কথা তারা মুখ খুলে বললে কি আমি খুশি হব?"
+    ],
+    "lessonEn": "Allah could fix any of us where we stand. Use the steps you still have to walk toward Him while you can still move.",
+    "lessonBn": "আল্লাহ চাইলে আমাদের যে কাউকে দাঁড়ানো জায়গাতেই আটকে দিতে পারেন। চলার শক্তি থাকতে থাকতেই হাতে থাকা কদমগুলো তাঁর দিকে ফেলুন।"
   }
 };
 
