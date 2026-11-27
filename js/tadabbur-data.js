@@ -35675,6 +35675,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When those you care for persist in wrong, say clearly that you are not with what they do, keep your gentleness, and leave the outcome to the Mighty, the Merciful.",
     "lessonBn": "আপনার প্রিয়জন অন্যায়ে অটল থাকলে স্পষ্ট বলুন, তাদের কাজের সঙ্গে আপনি নেই। কোমলতা ধরে রাখুন, আর ফলাফল ছেড়ে দিন মহাপরাক্রমশালী, পরম দয়ালুর হাতে।"
+  },
+  "26:202": {
+    "reflectionEn": "The people in view had heard the warning and dared it to come. The verse answers that it will, and adds two things about how: suddenly, and while they do not perceive. Suddenly means no notice from outside. Not perceiving goes deeper: no sense of it inside either, not a flicker that anything was near. That inner sleep is the condition the verse describes, and it is not a sickness of deniers alone. A heart can settle so comfortably into its routines that it stops feeling the ground it stands on. None of us is told when our own end will come. The only question left in my hands is whether, when it comes, it will find me awake.",
+    "reflectionBn": "এখানে যাদের কথা, তারা সতর্কবাণী শুনেছিল, আর উল্টো চ্যালেঞ্জ দিয়েছিল: আসুক তো দেখি। আয়াত জবাব দেয়, আসবেই। সঙ্গে জানিয়ে দেয় কীভাবে আসবে: হঠাৎ, আর তারা টেরও পাবে না। হঠাৎ মানে বাইরে থেকে কোনো আগাম খবর নেই। টের না পাওয়া আরও গভীরের কথা। ভেতরেও কোনো সাড়া নেই, কিছু যে কাছে এসে গেছে, তার সামান্য আভাসও নেই। ভেতরের এই ঘুমকেই আয়াত তুলে ধরে, আর এ রোগ কেবল অস্বীকারকারীদের নয়। রোজকার অভ্যাসে মন এমন আরামে বসে যেতে পারে যে, পায়ের নিচের মাটিটাও আর টের পায় না। নিজের শেষ সময় কবে আসবে, আমাদের কাউকে তা জানানো হয়নি। আমার হাতে প্রশ্ন একটাই: যখন আসবে, তখন কি আমাকে জেগে থাকতে দেখবে?",
+    "pointsEn": [
+      "If my life ended today without any warning, what would I most wish I had already set right?",
+      "Which reminder have I heard so many times that I no longer feel it at all?",
+      "Do I treat the years I have been given as proof that nothing is coming, or as room to prepare for it?",
+      "What small daily habit keeps me awake to Allah instead of lulled by routine, and have I let it slip?",
+      "Is there a repentance I know I need now that I keep promising myself for later?"
+    ],
+    "pointsBn": [
+      "আজই যদি কোনো আগাম সংকেত ছাড়া আমার জীবন শেষ হয়ে যায়, কোন জিনিসটা ঠিক করে ফেলতে না পারার আফসোস সবচেয়ে বেশি থাকবে?",
+      "কোন নসিহত আমি এত বার শুনেছি যে, এখন আর তা মনে কোনো দাগই কাটে না?",
+      "যে বছরগুলো আমাকে দেওয়া হয়েছে, সেগুলোকে কি আমি প্রমাণ ধরে নিচ্ছি যে কিছুই আসছে না? নাকি প্রস্তুতির সুযোগ হিসেবে দেখছি?",
+      "রোজকার কোন ছোট্ট আমল আমাকে অভ্যাসের ঘোরে ডুবে না গিয়ে আল্লাহর ব্যাপারে সজাগ রাখে? সেটা কি ঢিলে হয়ে গেছে?",
+      "এমন কোনো তওবা কি আছে, যা এখনই দরকার জেনেও নিজেকে বারবার 'পরে করব' বলে ভোলাচ্ছি?"
+    ],
+    "lessonEn": "What is coming will not knock first. Do not wait for a sign before you repent; live awake now, so that whatever arrives finds you ready.",
+    "lessonBn": "যা আসছে, তা দরজায় কড়া নেড়ে আসবে না। তওবার জন্য কোনো সংকেতের অপেক্ষা করবেন না। এখনই সজাগ হয়ে বাঁচুন, যাতে যা-ই আসুক, আপনাকে প্রস্তুত পায়।"
   }
 };
 

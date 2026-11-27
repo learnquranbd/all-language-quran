@@ -10099,6 +10099,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:202": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words in Mid-Sentence",
+          "bn": "বাক্যের মাঝখানে পাঁচ শব্দ"
+        },
+        "p": [
+          {
+            "en": "Fa-ya'tiyahum baghtatan wa-hum la yash'urun: and it will come to them suddenly while they do not perceive. In Arabic the verse is five words, and it stands in the middle of a sentence. Before it, the deniers will not believe in the Qur'an until they see the painful punishment (26:201); after it, they speak their first words once it has arrived (26:203). This verse says only how the arrival comes: with no notice from outside, and no sense of it within.",
+            "bn": "ফাইয়া'তিয়াহুম বাগতাতান ওয়া হুম লা ইয়াশ'উরূন: আর তা তাদের কাছে হঠাৎ এসে পড়বে, তারা টেরও পাবে না। আরবিতে আয়াতটি মাত্র পাঁচ শব্দের, আর তা বসে আছে একটি বাক্যের মাঝখানে। আগের আয়াত বলেছে, যন্ত্রণাদায়ক শাস্তি না দেখা পর্যন্ত অস্বীকারকারীরা কুরআনে ঈমান আনবে না (২৬:২০১)। পরের আয়াতে আছে, শাস্তি এসে পড়ার পর তাদের মুখের প্রথম কথা (২৬:২০৩)। মাঝের এই আয়াত শুধু জানায়, আগমনটা ঘটবে কেমন করে: বাইরে থেকে কোনো আগাম খবর ছাড়া, আর ভেতরেও কোনো আভাস ছাড়া।"
+          },
+          {
+            "en": "At-Tabari reads it as one continuous statement about those who deny this Qur'an. The painful punishment, he says, comes to them baghtatan, that is, fuj'atan, all at once; and wa-hum la yash'urun means they do not know beforehand that it is coming, until it takes them by surprise. Ibn Kathir's Arabic note is shorter still: that is, the punishment of Allah, suddenly. On the plain sense of the words the commentaries fetched for this verse agree. Where they part is over which arrival is meant.",
+            "bn": "তাবারী পুরো কথাটাকে পড়েন এই কুরআন অস্বীকারকারীদের নিয়ে একটানা এক বক্তব্য হিসেবে। তাঁর ব্যাখ্যায়, যন্ত্রণাদায়ক শাস্তি তাদের কাছে আসবে বাগতাতান, অর্থাৎ ফুজআতান, একেবারে আচমকা। আর ওয়া হুম লা ইয়াশ'উরূন মানে, শাস্তি যে আসছে, আগে থেকে তারা তা জানবে না, যতক্ষণ না তা তাদের চমকে দিয়ে এসে পড়ে। ইবন কাসীরের আরবি টীকা আরও ছোট: অর্থাৎ আল্লাহর শাস্তি, হঠাৎ। শব্দগুলোর সরল অর্থে এ আয়াতের জন্য সংগ্রহ করা তাফসীরগুলো একমত। মতভেদ শুধু এ নিয়ে যে, কোন আগমনের কথা বলা হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Unwarned, and Unaware",
+          "bn": "খবর নেই, টেরও নেই"
+        },
+        "p": [
+          {
+            "en": "The two halves of the verse do not say the same thing twice. Baghtatan concerns the arrival: al-Qurtubi and the Muyassar gloss it with the word at-Tabari uses, fuj'atan, a coming with nothing to announce it. The second half concerns the people it reaches. The Muyassar says what at-Tabari says: they do not know, before it, that it is coming. A storm can break without warning on someone who was watching the sky. This verse describes people who were not watching at all.",
+            "bn": "আয়াতের দুই অংশ একই কথা দুবার বলছে না। বাগতাতান আগমনের কথা। কুরতুবী আর মুয়াসসার শব্দটির অর্থ দেন সেই শব্দেই, যা তাবারী ব্যবহার করেছেন: ফুজআতান, এমন আগমন, যার আগে কোনো ঘোষণা নেই। দ্বিতীয় অংশ যাদের কাছে তা আসে, তাদের কথা। মুয়াসসারও তাবারীর মতো বলে: আসার আগে তারা জানতেই পারে না যে তা আসছে। আকাশের দিকে চোখ রাখা মানুষের মাথার ওপরও ঝড় হঠাৎ ভেঙে পড়তে পারে। কিন্তু এ আয়াত যাদের কথা বলছে, তারা আকাশের দিকে তাকিয়েই ছিল না।"
+          },
+          {
+            "en": "As-Sa'di draws out that second half. It comes upon them, he writes, 'ala hini ghafla, at a moment of heedlessness, with no sensing on their part, wa-la istish'ar bi-nuzulihi, and no awareness of its descent. His last noun, istish'ar, comes from the same root as the verse's yash'urun, and he uses it to say that nothing in them registered what was approaching. In the setting of these verses that heedlessness is not ignorance of a date. These were people who had heard the warning and stopped feeling it.",
+            "bn": "দ্বিতীয় অংশটা সা'দী খুলে বলেন। তাঁর ভাষায়, তা তাদের ওপর আসে আলা হীনি গাফলা, গাফিলতির এক মুহূর্তে। তাদের দিক থেকে কোনো অনুভব থাকে না, ওয়া লা ইসতিশ'আর বিনুযূলিহ, তা নেমে আসার কোনো আঁচও থাকে না। তাঁর শেষ শব্দ ইসতিশ'আর এসেছে আয়াতের ইয়াশ'উরূন শব্দের একই ধাতু থেকে। এ শব্দ দিয়ে তিনি বোঝান, যা এগিয়ে আসছিল, তাদের ভেতরের কিছুই তা ধরতে পারেনি। এই আয়াতগুলোর প্রেক্ষাপটে এ গাফিলতি কোনো তারিখ না জানার ব্যাপার নয়। এরা সতর্কবাণী শুনেছিল, তারপর তা অনুভব করা ছেড়ে দিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "This World, or the Hour?",
+          "bn": "দুনিয়ার শাস্তি, নাকি কিয়ামত?"
+        },
+        "p": [
+          {
+            "en": "What arrives suddenly? Most of the commentaries fetched here say: the punishment. At-Tabari and al-Baghawi place it in this world. At-Tabari, on the verse before, whose sentence this verse completes, says the deniers will not believe until they see the painful punishment fi 'ajil ad-dunya, in the immediate life of this world, as the nations whose stories Allah told in this surah saw it. Al-Baghawi says they do not perceive it fi d-dunya, in this world, and on 26:201 he says they see it 'inda l-mawt, at death.",
+            "bn": "হঠাৎ আসবে কী? এখানে সংগ্রহ করা বেশির ভাগ তাফসীর বলে: শাস্তি। তাবারী আর বাগাভী তা রাখেন এই দুনিয়াতেই। আগের আয়াত, যার বাক্য এ আয়াতে এসে পূর্ণ হয়েছে, তার ব্যাখ্যায় তাবারী বলেন, যন্ত্রণাদায়ক শাস্তি না দেখা পর্যন্ত অস্বীকারকারীরা ঈমান আনবে না, ফী 'আজিলিদ দুনইয়া, দুনিয়ার এই নগদ জীবনেই। ঠিক যেমন দেখেছিল সেসব জাতি, যাদের কাহিনি আল্লাহ এই সূরাতেই শুনিয়েছেন। বাগাভী বলেন, তারা তা টের পায় না ফিদ দুনইয়া, এই দুনিয়াতে। আর ২৬:২০১ আয়াতে তিনি বলেন, তারা তা দেখবে 'ইনদাল মাওত, মৃত্যুর সময়।"
+          },
+          {
+            "en": "Al-Qurtubi also gives the punishment, al-'adhab, as the subject. Then he records a different reading. Al-Hasan recited fa-ta'tiyahum, with the feminine prefix ta', where the mushaf reads fa-ya'tiyahum with ya'. On that reading, al-Qurtubi explains, the meaning is: so the Hour will come to them suddenly. The Hour is not named in the verse. It was left unstated, he says, because the punishment that falls within it points to it, and because the Qur'an mentions it so often.",
+            "bn": "কুরতুবীও কর্তা হিসেবে প্রথমে শাস্তির কথাই বলেন, আল-'আযাব। তারপর তিনি ভিন্ন এক কিরাআত উল্লেখ করেন। হাসান পড়তেন ফাতা'তিয়াহুম, স্ত্রীলিঙ্গের তা দিয়ে, যেখানে মুসহাফে আছে ফাইয়া'তিয়াহুম, ইয়া দিয়ে। কুরতুবী বুঝিয়ে দেন, এ কিরাআতে অর্থ দাঁড়ায়: তখন কিয়ামত তাদের কাছে হঠাৎ এসে পড়বে। আয়াতে কিয়ামতের নাম নেই। তাঁর মতে নামটা উহ্য রাখা হয়েছে দুই কারণে। কিয়ামতে যে শাস্তি ঘটবে, সেটাই তার দিকে ইঙ্গিত করে। আর কুরআনে কিয়ামতের উল্লেখ এত বেশি যে, নাম না বললেও বোঝা যায়।"
+          },
+          {
+            "en": "Al-Qurtubi also preserves how firmly al-Hasan held this. A man, hearing him recite fa-ta'tiyahum, objected: Abu Sa'id, it is the punishment that comes to them suddenly. Al-Hasan rebuked him and said: it is only the Hour that comes to them suddenly, and they do not perceive its coming. So two readings stand in the sources: a punishment in this world, or at death, in at-Tabari and al-Baghawi, and the Hour in al-Hasan. Al-Qurtubi sets al-Hasan's view beside the plain gloss, and neither is set aside here.",
+            "bn": "হাসান এ মতটা কতটা দৃঢ়ভাবে ধরে রেখেছিলেন, কুরতুবী তা-ও সংরক্ষণ করেছেন। তাঁকে ফাতা'তিয়াহুম পড়তে শুনে এক লোক আপত্তি তোলে: হে আবু সাঈদ, হঠাৎ তো আসবে শাস্তি। হাসান তাকে ধমক দিয়ে বললেন: হঠাৎ আসবে কেবল কিয়ামত, আর তার আগমন তারা টেরও পাবে না। সূত্রগুলোতে তাই দুটি মত পাশাপাশি দাঁড়িয়ে আছে। তাবারী ও বাগাভীর কাছে তা দুনিয়ার শাস্তি, কিংবা মৃত্যুর মুহূর্ত। হাসানের কাছে তা কিয়ামত। কুরতুবী সরল ব্যাখ্যার পাশেই হাসানের মত রেখে দিয়েছেন, আর এখানেও কোনোটিকে বাদ দেওয়া হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Phrase, Two Arrivals",
+          "bn": "একই কথা, দুই আগমন"
+        },
+        "p": [
+          {
+            "en": "The Qur'an itself uses the same closing words for both. On 26:204 Ibn Kathir cites 29:53, where the deniers urge the Prophet ﷺ to hasten the punishment, and that verse ends: and it will surely come to them suddenly while they perceive not, wa-la-ya'tiyannahum baghtatan wa-hum la yash'urun. There the subject is al-'adhab, the punishment. In 43:66 the same words close a question about the Hour: are they waiting for anything but the Hour, that it come upon them suddenly while they perceive not?",
+            "bn": "কুরআন নিজেই দুটোর বেলায় একই সমাপ্তিবাক্য ব্যবহার করেছে। ২৬:২০৪ আয়াতের আলোচনায় ইবন কাসীর ২৯:৫৩ আয়াত উদ্ধৃত করেন। সেখানে অস্বীকারকারীরা নবী ﷺ-কে তাড়া দেয়, শাস্তি দ্রুত নিয়ে এসো। আর আয়াতটি শেষ হয় এভাবে: তা অবশ্যই তাদের ওপর আসবে হঠাৎ, তারা টেরও পাবে না, ওয়ালা ইয়া'তিয়ান্নাহুম বাগতাতান ওয়া হুম লা ইয়াশ'উরূন। সেখানে কর্তা আল-'আযাব, শাস্তি। আবার ৪৩:৬৬ আয়াতে এই কথাগুলো দিয়েই শেষ হয় কিয়ামত নিয়ে এক প্রশ্ন: তারা কি কেবল কিয়ামতেরই অপেক্ষা করছে, যা তাদের ওপর হঠাৎ এসে পড়বে, আর তারা টেরও পাবে না?"
+          },
+          {
+            "en": "And 12:107 puts the two side by side in one question: do they feel secure that an overwhelming part of the punishment of Allah will not come to them, or that the Hour will not come upon them suddenly while they do not perceive? 22:55 does the same: the deniers stay in doubt until the Hour comes upon them suddenly, or the punishment of a barren day reaches them. The phrase fits either arrival. That is why both readings above can stand on it, and why these parallels do not settle the question between them.",
+            "bn": "আর ১২:১০৭ আয়াত দুটোকে একই প্রশ্নে পাশাপাশি রেখেছে: তারা কি নিশ্চিন্ত যে, আল্লাহর সর্বগ্রাসী শাস্তির কোনো অংশ তাদের ওপর আসবে না, কিংবা কিয়ামত তাদের ওপর হঠাৎ এসে পড়বে না, আর তারা টেরও পাবে না? ২২:৫৫ আয়াতও তাই করে। সেখানে অস্বীকারকারীরা সন্দেহে পড়ে থাকে, যতক্ষণ না কিয়ামত হঠাৎ এসে পড়ে, অথবা এক বন্ধ্যা দিনের শাস্তি তাদের কাছে পৌঁছে যায়। কথাটা দুই আগমনেই খাপ খায়। এ কারণেই ওপরের দুই মতই এর ওপর দাঁড়াতে পারে, আর এই মিলগুলো দুই মতের মীমাংসাও করে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why It Comes Unannounced",
+          "bn": "কেন আসে না জানিয়ে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di gives a reason for the surprise. It comes this way, he writes, li-yakuna ablagha fi 'uqubatihim wa-n-nakali bihim, so that it strikes harder in their punishment and in the example made of them. A blow that is seen coming can at least be braced for. One that lands on a person absorbed in his own affairs falls with its whole weight. As-Sa'di does not treat the suddenness as an accident of timing. In his reading it is part of what the punishment is.",
+            "bn": "চমকে দিয়ে আসার একটা কারণ সা'দী বলে দেন। তাঁর ভাষায়, তা এভাবে আসে লিয়াকূনা আবলাগা ফী 'উকূবাতিহিম ওয়ান নাকালি বিহিম, যাতে তাদের শাস্তি আরও কঠিন হয় এবং তাদের দৃষ্টান্তমূলক পরিণতি আরও তীব্র হয়। যে আঘাত আসতে দেখা যায়, তার জন্য অন্তত শক্ত হয়ে দাঁড়ানো যায়। কিন্তু যে মানুষ নিজের কাজে ডুবে আছে, তার ওপর আঘাত পড়ে পুরো ভার নিয়ে। সা'দী এই আকস্মিকতাকে সময়ের কোনো কাকতালীয় ব্যাপার মনে করেন না। তাঁর ব্যাখ্যায় এটা শাস্তিরই অংশ।"
+          },
+          {
+            "en": "Al-Qurtubi, in his note on the next verse, relays a point of grammar from al-Qushayri. Fa-ya'tiyahum, he says, is not joined to hatta yaraw, until they see, as a further item in that clause. It is the answer, jawab, to la yu'minun, they will not believe, and because it answers a negation the verb takes the subjunctive; the same holds for fa-yaqulu, so they will say, in 26:203. On that parsing the sudden arrival answers the refusal itself.",
+            "bn": "পরের আয়াতের টীকায় কুরতুবী কুশাইরীর কাছ থেকে ব্যাকরণের একটি কথা উদ্ধৃত করেন। তাঁর মতে ফাইয়া'তিয়াহুম শব্দটি হাত্তা ইয়ারাও, অর্থাৎ যতক্ষণ না তারা দেখে, সেই অংশের সঙ্গে আরেকটি অনুষঙ্গ হিসেবে যুক্ত নয়। বরং তা লা ইউ'মিনূন, অর্থাৎ তারা ঈমান আনবে না, এ কথার জবাব। না-বাচক কথার জবাব বলেই ক্রিয়াটি নসবের রূপ নিয়েছে। ২৬:২০৩ আয়াতের ফাইয়াকূলূ, তখন তারা বলবে, সেটাও একই রকম। এভাবে পড়লে হঠাৎ এই আগমন সরাসরি তাদের অস্বীকারেরই জবাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Respite Asked Too Late",
+          "bn": "সময় চলে গেলে অবকাশ চাওয়া"
+        },
+        "p": [
+          {
+            "en": "The next verse gives the first thing they say: may we be reprieved? (26:203). At-Tabari spells it out: when it comes on them suddenly, they ask whether the punishment will be held back and their terms extended, so that they may turn to Allah from their idolatry and return to faith. The Muyassar names the feeling behind the words: they say it in regret, tahassuran, for the faith they let slip. Ibn Kathir says every wrongdoer, sinner and disbeliever, on seeing his punishment, regrets intensely.",
+            "bn": "পরের আয়াতে আছে তাদের প্রথম কথা: আমাদের কি অবকাশ দেওয়া হবে? (২৬:২০৩)। তাবারী খুলে বলেন, হঠাৎ শাস্তি এসে পড়লে তারা জানতে চায়, শাস্তি কি পিছিয়ে দেওয়া হবে, তাদের আয়ু কি বাড়ানো হবে, যাতে শিরক ছেড়ে আল্লাহর দিকে ফিরে আবার ঈমানে আসতে পারে? কথাগুলোর পেছনের অনুভূতিটা মুয়াসসার চিহ্নিত করে: তারা এ কথা বলে আফসোস নিয়ে, তাহাসসুরান, হাতছাড়া হয়ে যাওয়া ঈমানের জন্য। ইবন কাসীর বলেন, প্রত্যেক জালিম, পাপাচারী আর কাফির নিজের শাস্তি দেখে তীব্র অনুতাপে পোড়ে।"
+          },
+          {
+            "en": "The answer the commentators give is short. As-Sa'di says they ask for a respite when the time has already gone, and the punishment has fallen that will not be lifted from them or eased for a single hour. Al-Qurtubi says they seek a return there and are not granted it. The surprise of this verse is what makes the plea too late. A warning they had heard for years arrived with no space left in front of it, and the space they now beg for is the very space they had been living in.",
+            "bn": "তাফসীরকারদের দেওয়া জবাব ছোট। সা'দী বলেন, তারা অবকাশ চায় এমন সময়ে, যখন সময় পেরিয়ে গেছে, আর এমন শাস্তি নেমে এসেছে, যা তাদের ওপর থেকে তোলা হবে না, এক মুহূর্তের জন্যও হালকা হবে না। কুরতুবী বলেন, তারা সেখানে ফিরে যাওয়ার সুযোগ চায়, কিন্তু তা মেলে না। এ আয়াতের আকস্মিকতাই আবেদনটাকে দেরির আবেদন বানিয়ে দেয়। যে সতর্কবাণী তারা বছরের পর বছর শুনেছিল, তা এল এমনভাবে যে, সামনে আর কোনো সময় বাকি রইল না। আর এখন যে সময় তারা ভিক্ষা চায়, এতদিন তারা সেই সময়ের ভেতরেই বাস করছিল।"
+          },
+          {
+            "en": "Then the passage turns on them: so for Our punishment are they impatient? (26:204). Ibn Kathir calls it a denunciation and a threat, because they used to tell the Messenger ﷺ, denying that it could ever happen, bring us the punishment of Allah. He quotes the wording of 29:29, spoken there by the people of Lut (AS). Set after this verse, the question shows the gap. They were daring something they would not even sense approaching. As-Sa'di asks what deluded them: had they strength to bear it, or power to repel it once it fell?",
+            "bn": "এরপর বক্তব্য তাদের দিকে ঘুরে যায়: তারা কি তবে আমার শাস্তির জন্য তাড়াহুড়া করছে? (২৬:২০৪)। ইবন কাসীর একে বলেন ভর্ৎসনা ও হুমকি। কারণ, শাস্তি কখনো আসতেই পারে না ভেবে তারা রাসূল ﷺ-কে বলত: আমাদের ওপর আল্লাহর শাস্তি নিয়ে এসো। এ কথার ভাষা তিনি নেন ২৯:২৯ আয়াত থেকে, যেখানে লূত (আঃ)-এর কওম ঠিক এ কথা বলেছিল। এ আয়াতের পরে প্রশ্নটা বসায় ফাঁকটা স্পষ্ট হয়ে যায়। যা এগিয়ে আসছে, তা টের পাওয়ারও ক্ষমতা তাদের ছিল না, অথচ তারা সেটাকেই চ্যালেঞ্জ করছিল। সা'দী প্রশ্ন তোলেন, কিসে তারা ধোঁকায় পড়ল? তা সইবার শক্তি কি তাদের ছিল, নাকি নেমে এলে তা ঠেকানোর ক্ষমতা?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Cloth Left Unfolded",
+          "bn": "ভাঁজ না হওয়া কাপড়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. A sound narration they do not tie to the verse shows what a sudden Hour looks like, the arrival al-Hasan saw here. Al-Bukhari records in his Sahih (6506) from Abu Huraira that the Messenger of Allah ﷺ said: \"The Hour will not be established till the sun rises from the west, and when it rises (from the west) and the people see it, then all of them will believe (in Allah). But that will be the time when 'No good it will do to a soul to believe then, if it believed not before' (6:158).\"",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। একটি সহীহ বর্ণনা আছে, যা তাফসীরগুলো এ আয়াতের সঙ্গে জোড়েনি, তবে তা দেখায় হঠাৎ কিয়ামত দেখতে কেমন, যে আগমন হাসান এখানে দেখেছিলেন। বুখারী তাঁর সহীহ গ্রন্থে (৬৫০৬) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: \"কিয়ামত কায়েম হবে না, যতক্ষণ না সূর্য পশ্চিম দিক থেকে উদিত হয়। যখন তা উদিত হবে আর মানুষ তা দেখবে, তখন সবাই ঈমান আনবে। কিন্তু সেটা হবে এমন সময়, যখন 'যে আগে ঈমান আনেনি, তখন ঈমান আনা তার কোনো কাজে আসবে না' (৬:১৫৮)।\""
+          },
+          {
+            "en": "He went on: \"The Hour will be established (so suddenly) that two persons spreading a garment between them will not be able to finish their bargain, nor will they be able to fold it up. The Hour will be established while a man is carrying the milk of his she-camel, but cannot drink it; and the Hour will be established when someone is not able to prepare the tank to water his livestock from it; and the Hour will be established when some of you has raised his food to his mouth but cannot eat it.\" Every scene is someone in the middle of an ordinary task.",
+            "bn": "তিনি আরও বলেন: \"কিয়ামত এমন আচমকা কায়েম হবে যে, দুজন লোক নিজেদের মাঝে কাপড় মেলে ধরেছে, কিন্তু কেনাবেচা শেষ করতে পারবে না, কাপড়টা ভাঁজও করতে পারবে না। কিয়ামত কায়েম হবে এমন অবস্থায় যে, এক লোক তার উটনীর দুধ নিয়ে ফিরছে, কিন্তু তা পান করতে পারবে না। কিয়ামত কায়েম হবে এমন অবস্থায় যে, কেউ পশুকে পানি খাওয়ানোর জন্য হাউজ লেপে ঠিক করছে, কিন্তু তাতে পানি খাওয়াতে পারবে না। আর কিয়ামত কায়েম হবে এমন অবস্থায় যে, তোমাদের কেউ খাবারের লোকমা মুখের কাছে তুলেছে, কিন্তু তা খেতে পারবে না।\" প্রতিটি দৃশ্যেই একজন মানুষ, রোজকার কোনো কাজের মাঝপথে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Verdict on Anyone's Disaster",
+          "bn": "কারও বিপদে রায় দেওয়া নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying firmly. The verse describes what the text describes: the deniers who heard this Qur'an and refused it, who dared the Messenger ﷺ to bring the punishment, and what the verse says would come on them unawares. It licenses nothing against any living person or community. It gives no one the right to name another people as those it means, to call a flood, an earthquake or an epidemic a punishment falling on them, or to read someone's misfortune as Allah's verdict on their faith.",
+            "bn": "কথাটা দৃঢ়ভাবে বলা দরকার। আয়াতটি কেবল তা-ই বর্ণনা করে, যা এর ভাষ্যে আছে: যে অস্বীকারকারীরা এই কুরআন শুনে প্রত্যাখ্যান করেছিল, রাসূল ﷺ-কে শাস্তি নিয়ে আসার চ্যালেঞ্জ দিয়েছিল, আর আয়াত যা বলছে তাদের ওপর অজান্তে এসে পড়বে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। অন্য কোনো জাতিকে দেখিয়ে 'এ আয়াত এদের কথাই বলছে' বলার অধিকার কারও নেই। বন্যা, ভূমিকম্প বা মহামারিকে কারও ওপর নেমে আসা শাস্তি বলার অধিকারও নেই। কারও বিপদকে তার ঈমান নিয়ে আল্লাহর রায় বলে পড়ারও অধিকার নেই।"
+          },
+          {
+            "en": "Nor does it mark anyone who dies suddenly. The verse speaks of people who had already refused the warning and of what came upon them. It says nothing about the manner of any individual's death, and no reader may turn it into a judgement on a neighbour, a relative or a stranger who was taken without notice. The only person a reader may hold this verse against is himself, asking whether the heedlessness it names has crept into his own days.",
+            "bn": "হঠাৎ যে মারা যায়, তার গায়েও এ আয়াত কোনো দাগ লাগায় না। আয়াত বলছে এমন লোকদের কথা, যারা আগেই সতর্কবাণী প্রত্যাখ্যান করেছিল, আর তাদের ওপর যা এসেছিল সে কথা। কারও মৃত্যু কীভাবে হলো, সে বিষয়ে আয়াত কিছুই বলে না। প্রতিবেশী, আত্মীয় বা অচেনা কেউ আচমকা চলে গেলে তার বিরুদ্ধে এ আয়াতকে রায় বানানোর অধিকার কোনো পাঠকের নেই। পাঠক এ আয়াত দাঁড় করাতে পারেন কেবল নিজের সামনে। নিজেকে জিজ্ঞেস করতে পারেন, আয়াত যে গাফিলতির কথা বলছে, তা কি চুপিসারে আমার দিনগুলোতে ঢুকে পড়েছে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Awake Before It Arrives",
+          "bn": "আসার আগেই জেগে ওঠা"
+        },
+        "p": [
+          {
+            "en": "The Qur'an turns these same words toward those it invites. In 39:55 it says: follow the best of what has been sent down to you from your Lord, before the punishment comes upon you suddenly while you do not perceive. The phrase of this verse returns there, now addressed to the listener, with an instruction set in front of it. The surprise itself cannot be prevented; no one is told its hour. What can change is the not perceiving, the heedlessness as-Sa'di names.",
+            "bn": "কুরআন এই একই কথাগুলো ঘুরিয়ে দেয় তাদের দিকে, যাদের সে ডাকছে। ৩৯:৫৫ আয়াতে বলা হয়েছে: তোমাদের রবের পক্ষ থেকে তোমাদের প্রতি যা নাযিল হয়েছে, তার উত্তমটির অনুসরণ করো, তোমাদের ওপর হঠাৎ শাস্তি এসে পড়ার আগেই, যখন তোমরা টেরও পাবে না। এ আয়াতের কথাটাই সেখানে ফিরে এসেছে, এবার শ্রোতাকে সরাসরি সম্বোধন করে, আর তার আগে বসানো হয়েছে একটা নির্দেশ। আকস্মিকতা নিজে ঠেকানো যায় না, তার সময় কাউকে জানানো হয়নি। যা বদলানো যায়, তা হলো টের না পাওয়ার অবস্থা, সেই গাফিলতি, যার কথা সা'দী বলেছেন।"
+          },
+          {
+            "en": "So the verse leaves a practical test. Can I sense my own drift: the prayer rushed, the Qur'an unopened for days, the repentance put off to a quieter season? Those are the small signs that perceiving is fading, and each is best answered while it is small. Pray the next prayer as though you might be found in it. Set right a wrong you have been postponing. And hear these five words as a mercy: a warning given before the arrival, so that it need not find you asleep.",
+            "bn": "আয়াতটি তাই একটা বাস্তব পরীক্ষা রেখে যায়। নিজের ঢিলে হয়ে পড়াটা কি আমি টের পাই? নামাজ তাড়াহুড়ায় সেরে ফেলা, দিনের পর দিন কুরআন না খোলা, তওবাকে কোনো নিরিবিলি সময়ের জন্য তুলে রাখা। এগুলোই ছোট ছোট আলামত যে, টের পাওয়ার শক্তি কমে আসছে। ছোট থাকতেই এগুলোর জবাব দিন। পরের নামাজটা এমনভাবে পড়ুন, যেন সেই অবস্থাতেই আপনাকে পাওয়া যেতে পারে। যে অন্যায় শুধরে নেওয়া পিছিয়ে যাচ্ছে, সেটা ঠিক করে নিন। আর এই পাঁচটি শব্দকে রহমত হিসেবে শুনুন: আগমনের আগেই দেওয়া এক সতর্কবাণী, যাতে তা এসে আপনাকে ঘুমন্ত না পায়।"
+          }
+        ]
+      }
+    ]
+  },
   "26:205": {
     "sections": [
       {
