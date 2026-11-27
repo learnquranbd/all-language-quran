@@ -37713,6 +37713,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Call to the truth and stand firm on it without bending to anyone's wishes, stay just even towards those who reject you, and leave the final verdict to Allah.",
     "lessonBn": "সত্যের দিকে ডাকুন, কারও খেয়াল-খুশির কাছে নত না হয়ে তার উপর অটল থাকুন, যারা আপনাকে প্রত্যাখ্যান করে তাদের প্রতিও ইনসাফ করুন, আর চূড়ান্ত ফয়সালা আল্লাহর হাতে ছেড়ে দিন।"
+  },
+  "42:1": {
+    "reflectionEn": "The whole verse is two letters, Ḥā and Mīm, said by their names. This surah is the third of seven in a row that open with these same two sounds, and only here does a second verse of letters follow before the first sentence comes. Some early scholars proposed meanings for them. Others held that the safest course is silence where no sound proof speaks, while being certain the letters were not sent in vain. Both met them with care, not with guesses passed off as knowledge. So the verse asks something of me before it explains anything. Will I listen to what I do not yet understand? Or do I give the Qur'an my full attention only when it tells me something I can use?",
+    "reflectionBn": "পুরো আয়াতটি মাত্র দুটি হরফ, হা আর মীম, পড়া হয় নাম ধরে। পরপর যে সাতটি সূরা এই একই দুই ধ্বনি দিয়ে শুরু হয়েছে, এটি তাদের তৃতীয়। আর শুধু এখানেই প্রথম বাক্য আসার আগে হরফের আরও একটি আয়াত আসে। আগের যুগের কিছু আলেম এগুলোর অর্থ বলার চেষ্টা করেছেন। অন্যরা বলেছেন, মজবুত দলিল যেখানে কিছু বলে না, সেখানে চুপ থাকাই সবচেয়ে নিরাপদ। তবে মনে পাকা বিশ্বাস রাখতে হবে, এগুলো অনর্থক নাযিল হয়নি। দুই দলই হরফগুলোর সামনে সাবধানে দাঁড়িয়েছেন, আন্দাজকে জ্ঞান বলে চালিয়ে দেননি। তাই কিছু বোঝানোর আগেই আয়াতটি আমার কাছে কিছু চায়। যা এখনো বুঝি না, তা কি মন দিয়ে শুনব? নাকি কুরআন যখন কাজে লাগার মতো কিছু বলে, কেবল তখনই পুরো মনোযোগ দিই?",
+    "pointsEn": [
+      "When I reach a verse I cannot explain, do I hurry past it, or give it the same stillness I give the verses I understand?",
+      "Can I say 'Allah knows best' without embarrassment when I do not know, or do I feel I must always produce an answer?",
+      "Have I passed on a striking explanation of a verse without asking where it came from, or how sound it was?",
+      "Seven surahs open the same way. Which patterns in the Qur'an have I never stopped to notice?",
+      "When I recite the opening letters of a surah, do I say them as words sent by Allah, or as a sound to get through before the real reading starts?"
+    ],
+    "pointsBn": [
+      "যে আয়াতের ব্যাখ্যা আমি জানি না, সেখানে এসে কি তাড়াহুড়া করে পার হয়ে যাই? নাকি যে আয়াত বুঝি, তার মতোই থেমে মন দিই?",
+      "না জানলে কি সংকোচ ছাড়াই বলতে পারি, আল্লাহই ভালো জানেন? নাকি মনে হয়, সব প্রশ্নের একটা উত্তর আমাকে দিতেই হবে?",
+      "কোনো আয়াতের চমকপ্রদ ব্যাখ্যা কি কখনো অন্যকে শুনিয়েছি, অথচ জিজ্ঞেস করিনি কথাটা কোথা থেকে এল, কতটা নির্ভরযোগ্য?",
+      "সাতটি সূরা শুরু হয় একইভাবে। কুরআনের কোন কোন মিল আমি কখনো থেমে খেয়াল করিনি?",
+      "সূরার শুরুর হরফগুলো তিলাওয়াতের সময় কি সেগুলোকে আল্লাহর নাযিল করা কালাম হিসেবে পড়ি? নাকি আসল পড়া শুরুর আগে কোনোমতে পার করার একটা আওয়াজ ভাবি?"
+    ],
+    "lessonEn": "Meet what you cannot yet explain in the Qur'an with attention and humility, say Allah knows best where no sound proof speaks, and keep listening.",
+    "lessonBn": "কুরআনের যে অংশ এখনো ব্যাখ্যা করতে পারেন না, তার সামনে মনোযোগ আর বিনয় নিয়ে দাঁড়ান। মজবুত দলিল যেখানে কিছু বলে না, সেখানে বলুন আল্লাহই ভালো জানেন, আর শুনতে থাকুন।"
   }
 };
 

@@ -11,6 +11,158 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "42:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Letters Make a Verse",
+          "bn": "দুই হরফেই পূর্ণ আয়াত"
+        },
+        "p": [
+          {
+            "en": "Ha-Mim: two letters, ha and mim, recited by their names rather than as a word. That is the whole of 42:1, a verse of a single written word. It opens Surat ash-Shura, and before anything is said about the letters, the commentators consulted here say what kind of surah this is. Al-Baghawi heads it with one word: Makki. The abridged Ibn Kathir says it was revealed in Makka. Al-Qurtubi gives the fuller picture, with names attached to each view.",
+            "bn": "হা-মীম। দুটি হরফ, হা আর মীম, পড়া হয় হরফের নাম ধরে, শব্দ হিসেবে নয়। ৪২:১ আয়াত এটুকুই, লিখিত রূপে মাত্র একটি শব্দ। এ দিয়েই সূরা আশ-শূরার শুরু। হরফ নিয়ে কিছু বলার আগে এখানে দেখা তাফসীরকারেরা জানিয়ে দেন, সূরাটি কোন ধরনের। বাগাভী শিরোনামে একটি শব্দই লেখেন: মাক্কী। ইবন কাসীরের সংক্ষিপ্ত তাফসীর বলে, সূরাটি মক্কায় নাযিল হয়েছে। কুরতুবী ছবিটা আরও পূর্ণ করে দেন, প্রতিটি মতের সঙ্গে নাম জুড়ে দিয়ে।"
+          },
+          {
+            "en": "He reports that it is Makki in the view of al-Hasan, 'Ikrima, 'Ata' and Jabir. Ibn 'Abbas and Qatada, he adds, made an exception of four verses revealed in Madina, beginning at qul la as'alukum 'alayhi ajran illa al-mawaddata fi al-qurba in 42:23. He counts the surah at fifty-three verses. So the opening verse heads a surah whose bulk, on every view he gives, came down in Makka. Ha-Mim is the first thing anyone reciting it says.",
+            "bn": "তিনি জানান, হাসান, ইকরিমা, আতা ও জাবিরের মতে সূরাটি মাক্কী। ইবন আব্বাস (রাঃ) ও কাতাদা অবশ্য চারটি আয়াতকে আলাদা করেছেন। সেগুলো মদীনায় নাযিল হয়েছে, শুরু ৪২:২৩ আয়াতের কুল লা আসআলুকুম ‘আলাইহি আজরান ইল্লাল মাওয়াদ্দাতা ফিল কুরবা থেকে। কুরতুবীর গণনায় সূরার আয়াত তিপ্পান্নটি। অর্থাৎ তিনি যত মত এনেছেন, সবগুলোতেই সূরার বেশির ভাগ মক্কায় নাযিল। যে-ই সূরাটি তিলাওয়াত করুক, তার মুখে প্রথম আসে এই হা-মীম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Third in a Run of Seven",
+          "bn": "সাত সূরার সারিতে তৃতীয়"
+        },
+        "p": [
+          {
+            "en": "The surah does not stand alone. Seven surahs in a row in the mushaf open with the same two letters: Ghafir at 40:1, Fussilat at 41:1, then ash-Shura, az-Zukhruf, ad-Dukhan, al-Jathiya and al-Ahqaf. Ash-Shura is the third. In each of the other six, Ha-Mim is followed at once by a sentence about the revelation: its sending down from Allah, or an oath by the clear Book. Here alone a second verse of letters, 'Ayn-Sin-Qaf, comes first.",
+            "bn": "সূরাটি একা নয়। মুসহাফে পরপর সাতটি সূরা এই একই দুই হরফে শুরু: ৪০:১ আয়াতে গাফির, ৪১:১ আয়াতে ফুসসিলাত, তারপর আশ-শূরা, যুখরুফ, দুখান, জাসিয়া ও আহকাফ। আশ-শূরা এদের তৃতীয়। বাকি ছয়টিতে হা-মীমের ঠিক পরেই আসে ওয়াহী নিয়ে একটি বাক্য। কোথাও বলা হয় আল্লাহর পক্ষ থেকে নাযিল হওয়ার কথা, কোথাও শপথ করা হয় সুস্পষ্ট কিতাবের। শুধু এখানেই তার আগে আসে হরফের আরেকটি আয়াত, ‘আইন-সীন-ক্বাফ।"
+          },
+          {
+            "en": "That setting matters for what follows. Al-Qurtubi's account of why the opening is counted as two verses rests on it: the surah sits among surahs whose first verse is Ha-Mim, and it follows the pattern of those before and after it. The parallels at 40:1 and 41:1 are only pointed to here; each has its own place. What this verse shares with them is its sound. What sets it apart is the partner that comes after it, at 42:2.",
+            "bn": "এই অবস্থানটা পরের আলোচনার জন্য জরুরি। শুরুটা কেন দুই আয়াত গোনা হয়, কুরতুবীর বর্ণনায় তার ভিত্তি এখানেই। সূরাটি এমন সব সূরার মাঝে, যাদের প্রথম আয়াত হা-মীম, আর আগে-পরের সেই সূরাগুলোর ধারাই সে মেনে চলেছে। ৪০:১ ও ৪১:১ আয়াতের দিকে এখানে শুধু ইঙ্গিত করা হলো, প্রতিটির আলোচনা তার নিজের জায়গায়। ওদের সঙ্গে এ আয়াতের মিল তার উচ্চারণে। আর তাকে আলাদা করেছে পরের সঙ্গীটি, ৪২:২ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cut Where Its Sisters Run On",
+          "bn": "বোনেরা জোড়া, এখানে ছেদ"
+        },
+        "p": [
+          {
+            "en": "Why is Ha-Mim a verse of its own, with 'Ayn-Sin-Qaf a second verse, when other openings of four or five letters are not split? Al-Qurtubi records the question as 'Abd al-Mu'min put it to al-Husayn ibn al-Fadl: why was Ha-Mim cut off from 'Ayn-Sin-Qaf, when Kaf-Ha-Ya-'Ayn-Sad and Alif-Lam-Mim-Sad, among others, were not? The comparison can be seen in the mushaf itself: 19:1 and 7:1 are each a single verse made only of letters.",
+            "bn": "হা-মীম কেন আলাদা এক আয়াত, আর ‘আইন-সীন-ক্বাফ কেন দ্বিতীয় আয়াত? চারটি বা পাঁচটি হরফের অন্য শুরুগুলো তো এভাবে ভাগ হয়নি। কুরতুবী প্রশ্নটি তুলে ধরেন সেভাবেই, যেভাবে আবদুল মু'মিন তা হুসাইন ইবনুল ফাদলকে করেছিলেন: কাফ-হা-ইয়া-‘আইন-সাদ, আলিফ-লাম-মীম-সাদ ও আরও কিছু শুরু জোড়া রইল, তাহলে হা-মীমকে ‘আইন-সীন-ক্বাফ থেকে কেটে আলাদা করা হলো কেন? তুলনাটা মুসহাফেই চোখে পড়ে। ১৯:১ ও ৭:১ দুটিই কেবল হরফ দিয়ে গড়া একক আয়াত।"
+          },
+          {
+            "en": "His answer has two parts. First, this surah lies among surahs that open with Ha-Mim, so it ran the course of its peers before and after it, as though Ha-Mim were a subject and 'Ayn-Sin-Qaf its predicate. Second, the letters here were counted as two verses, while their sisters, written as one block, were each counted as a single verse. The article on 42:3 gives his answer in brief. Here the second part needs its full form, because it is a different kind of reason.",
+            "bn": "তাঁর জবাবের দুটি অংশ। এক, সূরাটি হা-মীম দিয়ে শুরু হওয়া সূরাগুলোর মাঝখানে, তাই আগে-পরের সঙ্গীদের পথেই সে চলেছে। হা-মীম যেন উদ্দেশ্য, আর ‘আইন-সীন-ক্বাফ তার বিধেয়। দুই, এখানকার হরফগুলো গোনা হয়েছে দুই আয়াত হিসেবে, আর তাদের যে বোনেরা একসঙ্গে লেখা, সেগুলোর প্রতিটি গোনা হয়েছে একটি আয়াত হিসেবে। ৪২:৩ আয়াতের প্রবন্ধে তাঁর জবাব সংক্ষেপে এসেছে। এখানে দ্বিতীয় অংশটা পুরো রূপে দরকার, কারণ এ কারণ অন্য জাতের।"
+          },
+          {
+            "en": "The first reason reads the split from meaning and setting; the second simply reports how the verses were counted and lets the count itself be the reason. Al-Qurtubi then sets beside both a broader remark, which he credits to al-Jurjani: the letters of the alphabet all share one meaning, in that they are the foundation of clear speech and the base on which language rests. On that view the split does not change what the letters are. It changes how the opening is counted.",
+            "bn": "প্রথম কারণটি ভাগের ব্যাখ্যা খোঁজে অর্থ ও অবস্থানে। দ্বিতীয়টি শুধু জানায়, আয়াত কীভাবে গোনা হয়েছে, আর গণনাটাকেই কারণ হিসেবে দাঁড় করায়। এরপর কুরতুবী দুটির পাশে আরও বড় পরিসরের একটি কথা রাখেন, যা তিনি জুরজানীর নামে আনেন। বর্ণমালার সব হরফের অর্থ আসলে এক জায়গায় মেলে: এরাই স্পষ্ট কথার ভিত, ভাষার বুনিয়াদ। সে হিসেবে এই ভাগ হরফগুলোর স্বরূপ বদলায় না। বদলায় কেবল শুরুর আয়াত গোনার হিসাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Written Apart, Written Joined",
+          "bn": "আলাদা লেখা, জোড়া লেখা"
+        },
+        "p": [
+          {
+            "en": "A related question is how the letters are written. In the mushaf, Ha-Mim and 'Ayn-Sin-Qaf stand apart, while Kaf-Ha-Ya-'Ayn-Sad at the head of Maryam is written as one joined group. Al-Qurtubi relays, from al-Qushayri, an explanation that rests on something said about Ha-Mim: that it means humma, decreed is what will be. On that reading the scribes separated a group in which a verb is understood from a group in which none is.",
+            "bn": "এর সঙ্গে জড়িত আরেকটি প্রশ্ন: হরফগুলো লেখা হয় কীভাবে। মুসহাফে হা-মীম আর ‘আইন-সীন-ক্বাফ আলাদা দাঁড়িয়ে, অথচ সূরা মারইয়ামের শুরুতে কাফ-হা-ইয়া-‘আইন-সাদ লেখা একসঙ্গে জুড়ে। কুরতুবী কুশাইরী থেকে একটি ব্যাখ্যা আনেন। তার ভিত্তি হা-মীম সম্পর্কে বলা একটি কথা: এর মানে হুম্মা, অর্থাৎ যা ঘটার তা নির্ধারিত হয়ে গেছে। এই পাঠ ধরলে লেখকেরা দুই রকম গুচ্ছকে আলাদা রেখেছেন। একটিতে ভেতরে একটি ক্রিয়া ধরে নেওয়া যায়, অন্যটিতে যায় না।"
+          },
+          {
+            "en": "Al-Qushayri does not leave that as the only possibility. In the words al-Qurtubi gives, had the one been separated and the other joined, that too would have been allowed. The remark is modest: it offers a reason for a scribal habit and then grants that the habit could have gone the other way. It does not settle what Ha-Mim means, and al-Qurtubi introduces the gloss humma with it was said, not as his own reading.",
+            "bn": "কুশাইরী অবশ্য একে একমাত্র সম্ভাবনা বলে ছেড়ে দেননি। কুরতুবীর উদ্ধৃত ভাষায়, একটিকে আলাদা আর অন্যটিকে জুড়ে লেখা হলেও তা জায়েয হতো। কথাটা বিনয়ী। লেখার একটি রীতির পেছনে একটা কারণ দেখায়, তারপর মেনে নেয় যে রীতিটা উল্টোও হতে পারত। হা-মীমের অর্থ এতে চূড়ান্ত হয় না। হুম্মা ব্যাখ্যাটিও কুরতুবী এনেছেন ‘বলা হয়েছে’ বলে, নিজের পাঠ হিসেবে নয়।"
+          },
+          {
+            "en": "Al-Qurtubi also notes, crediting at-Tabari, a different wording of the second verse attributed to Ibn Mas'ud and Ibn 'Abbas and said to stand in Ibn Mas'ud's copy. It is not the wording recited in the mushaf, and no fetched commentary grades the reports behind it, so this article records only that al-Qurtubi mentions it, and builds nothing on it. The first verse, Ha-Mim, is the same in every account given here.",
+            "bn": "কুরতুবী তাবারীর বরাতে আরও জানান, দ্বিতীয় আয়াতের একটি ভিন্ন পাঠ ইবন মাসঊদ ও ইবন আব্বাসের (রাঃ) নামে বর্ণিত, আর বলা হয় তা ইবন মাসঊদের মুসহাফে ছিল। মুসহাফে যে পাঠ তিলাওয়াত হয়, এটি তা নয়। এর পেছনের বর্ণনাগুলোর মানও এখানে দেখা কোনো তাফসীরে বলা হয়নি। তাই এ প্রবন্ধ শুধু এটুকু জানাচ্ছে যে কুরতুবী তার উল্লেখ করেছেন, এর উপর কিছু দাঁড় করাচ্ছে না। প্রথম আয়াত হা-মীম অবশ্য এখানকার সব বর্ণনায় একই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Most Commentators Hold Back",
+          "bn": "বেশির ভাগ তাফসীরকারের সংযম"
+        },
+        "p": [
+          {
+            "en": "On what Ha-Mim means, most of the eight commentary texts fetched for this verse say little, and say it on purpose. At-Tabari writes that he has already set out how the interpreters differed over the letters that open certain surahs, and shown which view he holds correct, with its evidence; since these letters are of a kind with the earlier ones, he will not repeat it. Ibn Kathir, in his Arabic text and in its abridgement alike, says only that the letters were discussed before.",
+            "bn": "হা-মীমের অর্থ কী, এ নিয়ে এই আয়াতের জন্য দেখা আটটি তাফসীর-পাঠের বেশির ভাগই কম কথা বলে, আর তা জেনেবুঝেই। তাবারী লেখেন, কিছু সূরার শুরুর হরফগুলো নিয়ে মুফাসসিরদের মতভেদ তিনি আগেই তুলে ধরেছেন, আর দলিলসহ দেখিয়েছেন কোন মত তাঁর কাছে সঠিক। এ হরফগুলো আগেরগুলোর মতোই, তাই তিনি সে আলোচনা আর ফিরিয়ে আনবেন না। ইবন কাসীর তাঁর আরবি তাফসীরে ও তার সংক্ষেপে, দুই জায়গাতেই শুধু বলেন, হরফগুলো নিয়ে আগে কথা হয়ে গেছে।"
+          },
+          {
+            "en": "The Muyassar sends the reader back to the opening of al-Baqara. Al-Baghawi writes nothing on the letters here beyond the letters themselves. As-Sa'di gives the course he judges safest: to keep from assigning them a meaning without a basis in the Shari'a, while holding firmly that Allah did not send them down in vain but for a wisdom we do not know. Ma'arif al-Qur'an is shorter still: only Allah knows the meaning of these letters.",
+            "bn": "মুয়াসসার পাঠককে ফেরত পাঠায় সূরা বাকারার শুরুতে। বাগাভী এখানে হরফগুলো লিখে দেওয়া ছাড়া আর কিছু বলেন না। সা'দী জানান, তাঁর মতে সবচেয়ে নিরাপদ পথ কোনটি। শরীয়তের ভিত্তি ছাড়া এদের কোনো অর্থ জুড়ে না দেওয়া। সঙ্গে দৃঢ় বিশ্বাস রাখা যে আল্লাহ এগুলো অনর্থক নাযিল করেননি, করেছেন এমন এক হিকমতে যা আমরা জানি না। মাআরিফুল কুরআন আরও সংক্ষেপে বলে, এই হরফগুলোর অর্থ কেবল আল্লাহই জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Meanings Others Put Forward",
+          "bn": "অন্যরা যে অর্থ দেখিয়েছেন"
+        },
+        "p": [
+          {
+            "en": "Others did propose meanings, and al-Qurtubi gathers several without choosing among them. Mujahid said only that they are fawatih as-suwar, the openers of surahs. Ja'far ibn Muhammad and Sa'id ibn Jubayr took each letter from one of the divine names: ha from ar-Rahman, mim from al-Majid, and the letters of the next verse from al-'Alim, al-Quddus and al-Qahir. Muhammad ibn Ka'b read the five letters as an oath Allah swears by His forbearance, glory, exaltedness, radiance and power.",
+            "bn": "অন্যরা অবশ্য অর্থ দেখিয়েছেন, আর কুরতুবী কোনোটিকে বেছে না নিয়ে কয়েকটি মত এক জায়গায় এনেছেন। মুজাহিদ শুধু বলেছেন, এগুলো ফাওয়াতিহুস সুওয়ার, সূরার সূচনা। জা'ফর ইবন মুহাম্মাদ ও সাঈদ ইবন জুবাইর প্রতিটি হরফ নিয়েছেন আল্লাহর নামগুলোর একটি থেকে। হা আর-রাহমান থেকে, মীম আল-মাজীদ থেকে, আর পরের আয়াতের হরফগুলো আল-‘আলীম, আল-কুদ্দূস ও আল-কাহির থেকে। মুহাম্মাদ ইবন কা'ব পাঁচটি হরফকে পড়েছেন শপথ হিসেবে: আল্লাহ শপথ করছেন তাঁর সহনশীলতা, মহিমা, উচ্চতা, দীপ্তি ও কুদরতের।"
+          },
+          {
+            "en": "A similar reading by initials is relayed through Nafi' from Ibn 'Abbas; al-Qurtubi gives no chain or grading for it, so it is noted here and not built on. He also records, under it was said, a reading that turns the letters towards the Prophet ﷺ, taking each as the first sound of an honour given to him, beginning with his Pool. These views come in the text fetched without chains. They are the opinions of named people, or of unnamed ones, about letters the verse itself leaves unexplained.",
+            "bn": "প্রায় একই ধরনের, আদ্যক্ষর ধরে পড়া একটি ব্যাখ্যা নাফি'র সূত্রে ইবন আব্বাস (রাঃ) থেকে বর্ণিত। কুরতুবী এর কোনো সনদ বা মান দেননি, তাই এখানে শুধু উল্লেখ রইল, এর উপর কিছু দাঁড় করানো হলো না। ‘বলা হয়েছে’ বলে তিনি আরেকটি পাঠও আনেন, যা হরফগুলোকে নবী ﷺ-এর দিকে ফেরায়। তাতে প্রতিটি হরফ তাঁকে দেওয়া একেকটি মর্যাদার প্রথম ধ্বনি, শুরু তাঁর হাউয দিয়ে। এখানে দেখা পাঠে এসব মত এসেছে সনদ ছাড়া। এগুলো কিছু চেনা নামের, কিছু অচেনা মানুষের অভিমত, এমন হরফ নিয়ে যার ব্যাখ্যা আয়াত নিজে দেয়নি।"
+          },
+          {
+            "en": "So there is a real difference here, and it should be left standing. As-Sa'di and Ma'arif al-Qur'an hold back from assigning any meaning; Mujahid, Ja'far ibn Muhammad, Sa'id ibn Jubayr and Muhammad ibn Ka'b, as al-Qurtubi relays them, each proposed one. This article takes no side. Neither side treats the letters as filler: one assigns them a meaning, while the other affirms a wisdom in them that it does not claim to know.",
+            "bn": "এখানে তাই সত্যিকারের একটি মতভেদ আছে, আর তা যেমন আছে তেমনই থাকা উচিত। সা'দী ও মাআরিফুল কুরআন কোনো অর্থ জুড়ে দেওয়া থেকে বিরত থাকেন। অন্যদিকে কুরতুবীর বর্ণনামতে মুজাহিদ, জা'ফর ইবন মুহাম্মাদ, সাঈদ ইবন জুবাইর ও মুহাম্মাদ ইবন কা'ব প্রত্যেকে একটি করে অর্থ দেখিয়েছেন। এ প্রবন্ধ কোনো পক্ষ নিচ্ছে না। তবে কোনো পক্ষই হরফগুলোকে ফাঁকা জায়গা পূরণের জিনিস মনে করেননি। এক পক্ষ তাদের অর্থ দেখিয়েছেন, অন্য পক্ষ তাদের মধ্যে এমন হিকমত মেনেছেন যা জানার দাবি তাঁরা করেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forecasts Without Firm Footing",
+          "bn": "নড়বড়ে ভিতের ভবিষ্যদ্বাণী"
+        },
+        "p": [
+          {
+            "en": "Some reports go further and read the letters of this opening as forecasts. The article on 42:3 sets out the two that Ibn Kathir names; here their labels are enough. The first, through Artat ibn al-Mundhir and involving Hudhayfa ibn al-Yaman, Ibn Kathir calls strange, astonishing and munkar, that is, rejected. The second, from Abu Ya'la's Musnad through Abu Dharr, he calls stranger still, with a chain very weak and broken. Neither is retold here, and nothing is built on either.",
+            "bn": "কিছু বর্ণনা আরও এগিয়ে এই শুরুর হরফগুলোকে ভবিষ্যদ্বাণী হিসেবে পড়ে। ইবন কাসীর যে দুটি বর্ণনার নাম নিয়েছেন, ৪২:৩ আয়াতের প্রবন্ধে সেগুলোর বিবরণ আছে। এখানে তাদের মান জানানোই যথেষ্ট। প্রথমটি আরতাত ইবনুল মুনযিরের সূত্রে, তাতে হুযাইফা ইবনুল ইয়ামান (রাঃ)-এর কথা আছে। ইবন কাসীর একে বলেছেন অদ্ভুত, বিস্ময়কর ও মুনকার, অর্থাৎ প্রত্যাখ্যাত। দ্বিতীয়টি আবূ ইয়া'লার মুসনাদ থেকে, আবূ যার (রাঃ)-এর সূত্রে। ইবন কাসীরের ভাষায় এটি আরও অদ্ভুত, এর সনদ খুবই দুর্বল ও বিচ্ছিন্ন। কোনোটিই এখানে আবার বলা হচ্ছে না, কোনোটির উপর কিছু দাঁড় করানোও হচ্ছে না।"
+          },
+          {
+            "en": "Al-Qurtubi relays three more with no chain and no grading. Through Ibn 'Abbas he mentions a report connecting 'Ali (RA) with these letters and with trials. From al-Qushayri, in ath-Tha'labi's wording, he mentions a report about how the Prophet ﷺ received the verse. And he cites a report through Jarir ibn 'Abdullah al-Bajali, raised to the Prophet ﷺ, about a city. None of the three is confirmed in a graded source fetched for this verse, so they are named and left there.",
+            "bn": "কুরতুবী আরও তিনটি বর্ণনা আনেন, সনদ ছাড়া, মানও না জানিয়ে। ইবন আব্বাস (রাঃ)-এর সূত্রে তিনি একটি বর্ণনার উল্লেখ করেন, যা এই হরফ ও ফিতনার সঙ্গে আলী (রাঃ)-এর নাম জোড়ে। কুশাইরী থেকে, সা'লাবীর ভাষায়, আরেকটির উল্লেখ করেন, নবী ﷺ আয়াতটি কীভাবে গ্রহণ করেছিলেন সে বিষয়ে। আর জারীর ইবন আবদুল্লাহ বাজালী (রাঃ)-এর সূত্রে নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা আনেন, এক শহর নিয়ে। এই আয়াতের জন্য দেখা কোনো মানসম্পন্ন সূত্রে তিনটির একটিও সমর্থিত নয়। তাই এগুলোর শুধু নাম নেওয়া হলো, এখানেই থামা হলো।"
+          },
+          {
+            "en": "Two plain statements follow. No commentary fetched for this verse attaches a sound hadith to it. And whatever those reports foretell belongs to the reports alone: the verse names no city and no people, and it licenses nothing against any living person, city or community. Nor does any source fetched read the letters as a numerical code, and none is offered here. What the verse gives is its two letters, and the commentators' care with them.",
+            "bn": "এরপর দুটি সোজা কথা। এই আয়াতের জন্য দেখা কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। আর ওই বর্ণনাগুলো যে ভবিষ্যদ্বাণীই করুক, তা কেবল বর্ণনাগুলোরই কথা। আয়াত কোনো শহরের নাম নেয় না, কোনো জাতির নামও না। আজকের কোনো মানুষ, শহর বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। দেখা কোনো সূত্র হরফগুলোকে সংখ্যার সংকেত হিসেবেও পড়েনি, এখানেও তেমন কিছু বলা হচ্ছে না। আয়াত যা দেয় তা তার দুটি হরফ, আর সেগুলো নিয়ে তাফসীরকারদের সাবধানতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard Before It Is Explained",
+          "bn": "ব্যাখ্যার আগে শোনা"
+        },
+        "p": [
+          {
+            "en": "What can a reader take from a verse whose meaning the commentators either withhold or dispute? First, the order of the opening. Ha-Mim is heard before anything is said; 42:2 adds three more letters; only at 42:3 does a sentence arrive, about revelation coming to the Prophet ﷺ and to those before him. The listener has attended twice before being told anything. A surah that later praises those whose affair is shura, consultation among themselves (42:38), opens by asking for attention before it asks for anything else.",
+            "bn": "যে আয়াতের অর্থ নিয়ে তাফসীরকারেরা হয় চুপ থাকেন, নয়তো ভিন্নমত করেন, পাঠক তা থেকে কী নেবেন? প্রথমত, শুরুর ধারাবাহিকতা। কিছু বলার আগেই কানে আসে হা-মীম। ৪২:২ আয়াতে আসে আরও তিনটি হরফ। কেবল ৪২:৩ আয়াতে এসে একটি বাক্য পাওয়া যায়, নবী ﷺ ও তাঁর আগের নবীদের কাছে ওয়াহী আসার কথা। কিছু জানানোর আগেই শ্রোতাকে দুবার মন দিতে হয়। যে সূরা পরে তাদের প্রশংসা করবে, যাদের কাজ চলে নিজেদের মধ্যে শূরা বা পরামর্শে (৪২:৩৮), সেই সূরা অন্য কিছু চাওয়ার আগে মনোযোগ চেয়ে শুরু হয়।"
+          },
+          {
+            "en": "Second, a habit that reaches well beyond this verse. As-Sa'di's rule, no meaning without a basis, fits every striking explanation a reader may hear, of these letters or of anything else in the Book. Ibn Kathir shows the same care in practice: a report can be quoted and still be called rejected. A reader who learns at Ha-Mim to ask where a claim comes from, and how sound it is, carries that question through the whole surah, and says the two letters as words sent down.",
+            "bn": "দ্বিতীয়ত, এমন এক অভ্যাস, যার পরিধি এ আয়াত ছাড়িয়ে অনেক দূর। ভিত্তি ছাড়া কোনো অর্থ নয়, সা'দীর এই নীতি খাটে যেকোনো চমকপ্রদ ব্যাখ্যার বেলায়, এই হরফ নিয়ে হোক বা কিতাবের অন্য কিছু নিয়ে। ইবন কাসীর কাজেই সেই সাবধানতা দেখান। একটি বর্ণনা উদ্ধৃত করেও তিনি তাকে প্রত্যাখ্যাত বলতে পারেন। হা-মীমে এসে যে পাঠক শেখেন, কোনো দাবি কোথা থেকে এল আর কতটা মজবুত, সে প্রশ্ন তিনি গোটা সূরা জুড়ে সঙ্গে রাখেন। আর হরফ দুটি পড়েন আল্লাহর নাযিল করা কালাম হিসেবে।"
+          },
+          {
+            "en": "Third, the simple act of reciting. Ha-Mim opens seven surahs in a row, and someone reading them in order says it seven times within a few dozen pages. At ash-Shura it comes for the third time and, for the only time, is followed by more letters. Saying it with attention, as part of what was sent down and not as a sound to hurry past on the way to the first sentence, is open to every reader, whatever view of its meaning they hold.",
+            "bn": "তৃতীয়ত, তিলাওয়াতের সাধারণ কাজটুকু। হা-মীম দিয়ে পরপর সাতটি সূরা শুরু। ক্রমানুসারে পড়লে কয়েক ডজন পৃষ্ঠার মধ্যে একজন পাঠক সাতবার তা উচ্চারণ করেন। আশ-শূরায় তা আসে তৃতীয়বার, আর শুধু এখানেই তার পরে আসে আরও হরফ। প্রথম বাক্যে পৌঁছানোর তাড়ায় পার করে দেওয়ার আওয়াজ হিসেবে নয়, নাযিল হওয়া কালামের অংশ হিসেবে মন দিয়ে এটি পড়া, যেকোনো পাঠকের সাধ্যের মধ্যে। এর অর্থ নিয়ে তাঁর মত যা-ই হোক।"
+          }
+        ]
+      }
+    ]
+  },
   "42:3": {
     "sections": [
       {
