@@ -36893,6 +36893,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Stand before Allah the way those He swore by stand: in order, close together and ready, so that your prayer and your day both witness that your God is One.",
     "lessonBn": "আল্লাহ যাদের শপথ করেছেন, তাদের মতো করেই তাঁর সামনে দাঁড়ান: শৃঙ্খলায়, কাছাকাছি, প্রস্তুত হয়ে, যাতে আপনার নামাজ আর আপনার সারাটা দিন সাক্ষ্য দেয় যে আপনার ইলাহ একজন।"
+  },
+  "37:22": {
+    "reflectionEn": "The cry has gone up and the Day has been named. Now an order goes out, and it is not spoken to the crowd but to those who will move it: gather them. Gather those who did wrong, and with them their azwaj, a word for pairs, for whatever matches. Gather too what they used to worship. Nobody walks this road alone, and nobody chooses his company on it. Each is set beside whoever resembles him, and the things he leaned on instead of Allah are brought along, only to stand there helpless. I am choosing that company now, in what I do and whom I follow. Whose deeds match mine? And what would be gathered with me?",
+    "reflectionBn": "চিৎকার উঠে গেছে, দিনটির নামও বলা হয়ে গেছে। এবার একটা হুকুম আসে। হুকুমটা ভিড়ের প্রতি নয়, যারা ভিড়টাকে নিয়ে যাবে তাদের প্রতি: ওদের একত্র করো। একত্র করো যারা যুলুম করেছে তাদের, আর তাদের সঙ্গে তাদের আযওয়াজকে। শব্দটা জোড়ার জন্য, যে যার সঙ্গে মেলে তার জন্য। আর একত্র করো তারা যাদের ইবাদত করত তাদেরও। এ পথে কেউ একা হাঁটে না, আর সঙ্গী বেছে নেওয়ার সুযোগও কারও থাকে না। যার সঙ্গে যার মিল, প্রত্যেককে দাঁড় করানো হয় তারই পাশে। আল্লাহকে বাদ দিয়ে যার উপর সে ভরসা করত, তাকেও সঙ্গে আনা হয়, শুধু অসহায় হয়ে দাঁড়িয়ে থাকার জন্য। সেই সঙ্গ আমি এখনই বেছে নিচ্ছি, আমার আমলে আর আমি যার পেছনে চলি তাতে। কার আমল আমার আমলের সঙ্গে মেলে? আর আমার সঙ্গে কী একত্র করা হবে?",
+    "pointsEn": [
+      "If I were gathered with the people whose deeds most resemble mine, who would be standing beside me?",
+      "What do I lean on in place of Allah that I would not want brought along beside me on that Day?",
+      "Which habit do I share with my friends that I would not want to share with them then?",
+      "When I choose whom to follow, do I ask where they are walking, or only how strong they look?",
+      "Have I quietly counted someone among the wrongdoers of this verse, when that judgement belongs to Allah alone?"
+    ],
+    "pointsBn": [
+      "যাদের আমল আমার আমলের সবচেয়ে কাছাকাছি, তাদের সঙ্গে যদি আমাকে একত্র করা হয়, আমার পাশে কারা দাঁড়াবে?",
+      "আল্লাহর জায়গায় আমি কীসের উপর ভরসা করি, যা সেদিন আমার পাশে এনে দাঁড় করানো হোক তা আমি চাই না?",
+      "বন্ধুদের সঙ্গে আমার কোন অভ্যাসটা মেলে, যেটা সেদিন তাদের সঙ্গে ভাগ করে নিতে চাই না?",
+      "কার পেছনে চলব তা ঠিক করার সময় আমি কি দেখি সে কোন দিকে যাচ্ছে, নাকি শুধু দেখি সে কতটা শক্তিশালী?",
+      "মনে মনে কাউকে কি এ আয়াতের যালিমদের দলে ফেলে দিয়েছি, অথচ সে বিচার একমাত্র আল্লাহর?"
+    ],
+    "lessonEn": "On that Day each person is gathered with those whose deeds match his own, so choose your deeds and your company now as you would want them counted then.",
+    "lessonBn": "সেদিন প্রত্যেককে একত্র করা হবে তাদের সঙ্গে, যাদের আমল তার আমলের মতো। তাই আমল আর সঙ্গী আজই এমনভাবে বেছে নিন, যেভাবে সেদিন তা গোনা হোক বলে আপনি চাইবেন।"
   }
 };
 

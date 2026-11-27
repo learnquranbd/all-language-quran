@@ -1351,6 +1351,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:22": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Order After the Naming",
+          "bn": "দিনের নাম ঘোষণার পর হুকুম"
+        },
+        "p": [
+          {
+            "en": "The verse opens in the middle of a scene. In 37:20 the deniers, raised by a single cry, call out that this is the Day of Recompense, and in 37:21 they are told that it is the Day of Judgement they used to deny. Then comes an imperative in the plural: uhshuru, gather. The seven Arabic words of the verse name three groups to be gathered: alladhina zalamu, those who did wrong; azwajahum, their kinds; and ma kanu ya'budun, what they used to worship.",
+            "bn": "আয়াতটি শুরু হয় একটা দৃশ্যের মাঝখান থেকে। ৩৭:২০ আয়াতে একটিমাত্র ধমকে উঠে দাঁড়ানো অস্বীকারকারীরা চেঁচিয়ে বলে, এই তো প্রতিদানের দিন। ৩৭:২১ আয়াতে তাদের শুনিয়ে দেওয়া হয়, এটাই সেই ফয়সালার দিন, যাকে তোমরা মিথ্যা বলতে। এরপর আসে বহুবচনের এক আদেশ: উহশুরূ, একত্র করো। আয়াতের সাতটি আরবি শব্দে তিনটি দলের নাম আছে, যাদের একত্র করতে হবে। আল্লাযীনা যালামূ, যারা যুলুম করেছে। আযওয়াজাহুম, তাদের জোড়া বা সমগোত্রীয়রা। আর মা কানূ ইয়া'বুদূন, তারা যার ইবাদত করত।"
+          },
+          {
+            "en": "To whom is the order spoken? Al-Qurtubi says plainly that it is Allah's word to the angels, and the Muyassar frames its gloss the same way: it will be said to the angels, gather those who disbelieved in Allah. Ibn Kathir's abridged commentary describes the command as Allah telling the angels to separate the disbelievers from the believers in the place where they are standing. The verse itself does not name its hearers. The bracket in many translations, the angels will be ordered, comes from this reading.",
+            "bn": "হুকুমটা কাকে দেওয়া হচ্ছে? কুরতুবী সোজাসুজি বলেন, এ ফেরেশতাদের প্রতি আল্লাহর বাণী। মুয়াসসারও ব্যাখ্যা শুরু করে একই কাঠামোয়: ফেরেশতাদের বলা হবে, যারা আল্লাহকে অস্বীকার করেছে তাদের একত্র করো। ইবন কাসীরের সংক্ষিপ্ত তাফসীর হুকুমটির বর্ণনা দেয় এভাবে: আল্লাহ ফেরেশতাদের আদেশ দেবেন, যেখানে সবাই দাঁড়িয়ে আছে সেখানেই কাফিরদের মুমিনদের থেকে আলাদা করে ফেলতে। আয়াত নিজে শ্রোতাদের নাম বলে না। অনেক অনুবাদে বন্ধনীর ভেতরে যে কথাটা থাকে, ফেরেশতাদের হুকুম দেওয়া হবে, তা এই ব্যাখ্যা থেকেই এসেছে।"
+          },
+          {
+            "en": "The verb hashr means gathering people together in a body. Al-Baghawi glosses the command as gather them to the standing place, for the reckoning and the recompense, and the Muyassar uses the plain verb ijma'u, gather. The gathering is not yet the punishment. It is the sorting that comes before it: people drawn out of a vast crowd and set together. The next two verses carry the order on, to lead them to the path of the Fire and then to halt them, for they are to be questioned.",
+            "bn": "হাশর মানে মানুষকে একসঙ্গে জড়ো করা। বাগাভী হুকুমটির ব্যাখ্যা দেন এভাবে: হিসাব আর প্রতিদানের জন্য তাদের দাঁড়ানোর জায়গায় জমা করো। মুয়াসসার ব্যবহার করে সাদামাটা ক্রিয়া ইজমাঊ, একত্র করো। এই জড়ো করা এখনো শাস্তি নয়। এটা শাস্তির আগের বাছাই। বিশাল ভিড়ের ভেতর থেকে মানুষকে টেনে বের করে এক জায়গায় রাখা হচ্ছে। পরের দুই আয়াত হুকুমটাকে আরও এগিয়ে নেয়: তাদের জাহান্নামের পথ দেখাও, তারপর থামাও, কারণ তাদের প্রশ্ন করা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Wrong That Begins With Shirk",
+          "bn": "শিরক থেকে যে যুলুমের শুরু"
+        },
+        "p": [
+          {
+            "en": "Who are those who did wrong? Several commentators read the phrase narrowly. Al-Qurtubi replaces it with al-mushrikin, those who associated partners with Allah, and gives his reason: shirk is zulm, as Allah says, inna ash-shirka la-zulmun 'azim, association is a great wrong, the words of Luqman to his son in 31:13. Al-Baghawi glosses zalamu with a single verb, ashraku, they associated partners. The Muyassar writes those who disbelieved in Allah. On this reading the verse is sorting the people of shirk and disbelief.",
+            "bn": "যারা যুলুম করেছে, তারা কারা? কয়েকজন তাফসীরকার শব্দটাকে সংকীর্ণ অর্থে নেন। কুরতুবী এর জায়গায় বসান আল-মুশরিকীন, যারা আল্লাহর সঙ্গে শরিক করেছে। কারণও তিনি বলে দেন: শিরকই যুলুম, যেমন আল্লাহ বলেছেন, ইন্নাশ শিরকা লাযুলমুন আযীম, নিশ্চয়ই শিরক মহা যুলুম। ৩১:১৩ আয়াতে এ কথা লুকমান বলেছিলেন তাঁর ছেলেকে। বাগাভী যালামূ-র অর্থ দেন একটিমাত্র ক্রিয়ায়: আশরাকূ, তারা শিরক করেছে। মুয়াসসার লেখে, যারা আল্লাহকে অস্বীকার করেছে। এ ব্যাখ্যায় আয়াতটি আলাদা করছে শিরক আর কুফরের লোকদের।"
+          },
+          {
+            "en": "Others leave the word wider. As-Sa'di explains it as those who wronged themselves by disbelief, by shirk and by acts of disobedience. Maududi's Tafhim al-Qur'an, in the English rendering carried on quranx, says that the unjust here are not only those who committed injustices in the world: as a Qur'anic term, zalim covers everyone who adopted the way of rebellion and disobedience against Allah. The two readings meet more than they clash. Shirk is the gravest wrong, and the passage concerns deniers of the Day, yet the word itself is broad.",
+            "bn": "অন্যরা শব্দটাকে আরও প্রশস্ত রাখেন। সা'দী ব্যাখ্যা দেন, যারা কুফর, শিরক আর নাফরমানি দিয়ে নিজেদের উপর যুলুম করেছে। মওদূদীর তাফহীমুল কুরআন, কুরানএক্স-এ রাখা ইংরেজি অনুবাদে, বলে: এখানে যালিম মানে শুধু দুনিয়ায় যারা অন্যের উপর অন্যায় করেছে তারা নয়। কুরআনের পরিভাষায় যালিম সেই প্রত্যেক মানুষ, যে আল্লাহর বিরুদ্ধে বিদ্রোহ আর নাফরমানির পথ ধরেছে। দুই ব্যাখ্যার মধ্যে বিরোধের চেয়ে মিলই বেশি। শিরক সবচেয়ে বড় যুলুম, আর এ অংশের কথা কিয়ামত অস্বীকারকারীদের নিয়ে। তবু শব্দটা নিজে প্রশস্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Built for Pairs",
+          "bn": "জোড়ার জন্য গড়া শব্দ"
+        },
+        "p": [
+          {
+            "en": "The second group carries the verse's most discussed word. Azwaj is the plural of zawj, which, as Ma'arif al-Qur'an notes, literally means a pair, and is very commonly used for a spouse. Ma'arif itself renders it here as cohorts, fellow travellers, people of the same persuasion. The Qur'an also uses this plural for kinds of people: in 56:7, wa-kuntum azwajan thalathah, and you will be three kinds, it describes how people are divided when the Event comes. A zawj is whatever matches another.",
+            "bn": "দ্বিতীয় দলের সঙ্গে জুড়ে আছে আয়াতের সবচেয়ে আলোচিত শব্দটি। আযওয়াজ হলো যাওজ-এর বহুবচন। মাআরিফুল কুরআন মনে করিয়ে দেয়, শব্দটির আক্ষরিক অর্থ জোড়া, আর খুব বেশি ব্যবহার হয় স্বামী বা স্ত্রী অর্থে। মাআরিফ নিজে এখানে এর অর্থ করে সহযোগী, পথের সাথি, একই মতের লোক। কুরআন এ বহুবচন মানুষের শ্রেণি বোঝাতেও ব্যবহার করেছে। ৫৬:৭ আয়াতে আছে, ওয়া কুনতুম আযওয়াজান সালাসাহ, আর তোমরা ভাগ হয়ে যাবে তিনটি শ্রেণিতে। সেখানে বলা হচ্ছে, কিয়ামত এলে মানুষ কীভাবে ভাগ হয়ে যাবে। যাওজ মানে যা অন্যটির সঙ্গে মেলে।"
+          },
+          {
+            "en": "That range is why translations differ. Some render the word as their wives, some as their companions, and some as their kinds. The choice is not a matter of style. Each rendering carries a reading that early authorities held, and the commentaries consulted for this verse record three: those who resemble the wrongdoers in their deeds, the wives who shared their disbelief, and the devils who kept them company. The sections that follow take each in turn.",
+            "bn": "অর্থের এই বিস্তারের কারণেই অনুবাদে অনুবাদে তফাত। কেউ অনুবাদ করেন তাদের স্ত্রীরা, কেউ তাদের সঙ্গীরা, কেউ আবার তাদের সমগোত্রীয়রা। এ বাছাই শুধু ভাষার রুচির ব্যাপার নয়। প্রতিটি অনুবাদের পেছনে আছে এমন এক ব্যাখ্যা, যা পূর্বসূরিদের কেউ না কেউ ধরেছিলেন। এ আয়াতের জন্য দেখা তাফসীরগুলোতে এমন তিনটি ব্যাখ্যা পাওয়া যায়। এক, আমলে যারা যালিমদের মতো। দুই, যে স্ত্রীরা তাদের কুফরে শরিক ছিল। তিন, যে শয়তানরা তাদের সঙ্গী ছিল। পরের অংশগুলো একে একে তিনটিই দেখবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Usurer Beside Usurer",
+          "bn": "সুদখোরের পাশে সুদখোর"
+        },
+        "p": [
+          {
+            "en": "The reading most widely reported takes azwaj as likeness. Ibn Kathir opens with the Companion an-Nu'man ibn Bashir: by their azwaj is meant their ashbah and amthal, those who resemble them and those like them. He adds that Ibn 'Abbas, Sa'id ibn Jubayr, 'Ikrima, Mujahid, as-Suddi, Abu Salih, Abu al-'Aliya and Zayd ibn Aslam said the same. Al-Baghawi's own gloss gathers several words into one line: their likenesses, their followers and those like them.",
+            "bn": "সবচেয়ে বেশি বর্ণিত ব্যাখ্যায় আযওয়াজ মানে সাদৃশ্য। ইবন কাসীর শুরু করেন সাহাবি নুমান ইবন বাশীর (রাঃ)-এর কথা দিয়ে: তাদের আযওয়াজ মানে তাদের আশবাহ ও আমসাল, যারা তাদের সদৃশ আর যারা তাদের মতো। তিনি যোগ করেন, ইবন আব্বাস (রাঃ), সাঈদ ইবন জুবাইর, ইকরিমা, মুজাহিদ, সুদ্দী, আবু সালিহ, আবুল আলিয়া আর যায়দ ইবন আসলামও একই কথা বলেছেন। বাগাভী নিজের ব্যাখ্যায় কয়েকটি শব্দ এক লাইনে জড়ো করেন: তাদের সদৃশরা, তাদের অনুসারীরা আর তাদের মতো লোকেরা।"
+          },
+          {
+            "en": "Ibn Kathir traces the reading to 'Umar ibn al-Khattab through two chains. By Sufyan ath-Thawri, from Simak, from an-Nu'man, 'Umar said: their brothers. By Sharik, from Simak, an-Nu'man said he heard 'Umar say: those who resemble them; the man of usury will come with the people of usury, the man of fornication with the people of fornication, the man of wine with the people of wine. Al-Qurtubi gives 'Umar's saying with a different third pair: the fornicator with the fornicator, the wine-drinker with the wine-drinker, the thief with the thief.",
+            "bn": "ইবন কাসীর এ ব্যাখ্যাকে দুটি সনদে উমর ইবনুল খাত্তাব (রাঃ) পর্যন্ত পৌঁছে দেন। সুফিয়ান সাওরী, সিমাক থেকে, তিনি নুমান থেকে বর্ণনা করেন, উমর (রাঃ) বলেছেন: তাদের ভাইয়েরা। শারীক বর্ণনা করেন সিমাক থেকে, সেখানে নুমান বলেন, আমি উমর (রাঃ)-কে বলতে শুনেছি: যারা তাদের সদৃশ। সুদের কারবারি আসবে সুদের কারবারিদের সঙ্গে, ব্যভিচারী আসবে ব্যভিচারীদের সঙ্গে, মদখোর আসবে মদখোরদের সঙ্গে। কুরতুবী উমর (রাঃ)-এর কথাটি আনেন তৃতীয় জোড়াটা বদলে: ব্যভিচারীর সঙ্গে ব্যভিচারী, মদখোরের সঙ্গে মদখোর, আর চোরের সঙ্গে চোর।"
+          },
+          {
+            "en": "Al-Qurtubi also reports from Qatada and Abu al-'Aliya the plainest form of the reading: the disbeliever is gathered with the disbeliever. Al-Baghawi has Qatada and al-Kalbi say that each comes with those whose deeds were like his own, the people of wine with the people of wine. As-Sa'di states it as a rule of the gathering: every person is joined to whoever is of his own kind in deed. Ma'arif al-Qur'an calls this the view of most commentators and says that the saying of 'Umar supports it.",
+            "bn": "কুরতুবী কাতাদা আর আবুল আলিয়া থেকে এ ব্যাখ্যার সবচেয়ে সরল রূপটাও আনেন: কাফিরকে জড়ো করা হবে কাফিরের সঙ্গে। বাগাভীর বর্ণনায় কাতাদা আর কালবী বলেন, প্রত্যেকে আসবে তাদের সঙ্গে, যাদের আমল তার আমলের মতো। মদের লোক মদের লোকের সঙ্গে। সা'দী কথাটা বলেন হাশরের এক নিয়ম হিসেবে: প্রত্যেককে জুড়ে দেওয়া হবে তার সঙ্গে, আমলে যে তার সমগোত্রীয়। মাআরিফুল কুরআন বলে, অধিকাংশ তাফসীরকারের মত এটাই, আর উমর (রাঃ)-এর কথা একে সমর্থন করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wives Who Shared the Denial",
+          "bn": "অস্বীকারে শরিক স্ত্রীরা"
+        },
+        "p": [
+          {
+            "en": "A second reading takes the word in its commonest sense. Al-Qurtubi records it with wa-qila, it has been said: azwajuhum means their women who agreed with them in disbelief. He names Mujahid and al-Hasan for it, and adds that an-Nu'man ibn Bashir narrated it from 'Umar. Al-Baghawi reports al-Hasan briefly: their azwaj are the mushrikat, the women who associated partners with Allah. Ma'arif al-Qur'an mentions the same view, saying that some commentators took it to mean the wives of the idolaters who were themselves idolaters.",
+            "bn": "দ্বিতীয় ব্যাখ্যা শব্দটাকে নেয় তার সবচেয়ে প্রচলিত অর্থে। কুরতুবী এটি আনেন ওয়া কীলা দিয়ে, অর্থাৎ বলা হয়েছে: আযওয়াজুহুম মানে তাদের সেই স্ত্রীরা, যারা কুফরে তাদের সঙ্গে একমত ছিল। এর জন্য তিনি মুজাহিদ ও হাসানের নাম নেন। সঙ্গে যোগ করেন, নুমান ইবন বাশীর (রাঃ) এটি উমর (রাঃ) থেকে বর্ণনা করেছেন। বাগাভী হাসানের মতটা আনেন অল্প কথায়: তাদের আযওয়াজ হলো মুশরিকাত, যে নারীরা আল্লাহর সঙ্গে শরিক করত। মাআরিফুল কুরআনও এ মতের উল্লেখ করে। কিছু তাফসীরকার, মাআরিফ বলে, এর অর্থ নিয়েছেন মুশরিকদের সেই স্ত্রীরা, যারা নিজেরাও মুশরিক ছিল।"
+          },
+          {
+            "en": "The commentators do not agree on who held which view. Al-Qurtubi lists Mujahid among those who read wives, while Ibn Kathir counts Mujahid among those who read likeness. Al-Qurtubi traces the wives reading to 'Umar through an-Nu'man, while Ibn Kathir's two chains through an-Nu'man give 'Umar's words as their brothers and those who resemble them. Ibn Kathir also reports, through Khusayf from Miqsam, that Ibn 'Abbas said their women. He calls that report gharib, unusual, and says the known report from Ibn 'Abbas is the first, carried by Mujahid and Sa'id ibn Jubayr: their companions.",
+            "bn": "কোন মত কার, এ নিয়ে তাফসীরকারেরা একমত নন। কুরতুবী মুজাহিদকে রাখেন স্ত্রী অর্থের পক্ষে, আর ইবন কাসীর মুজাহিদকে গোনেন সাদৃশ্য অর্থের পক্ষে। কুরতুবী স্ত্রী অর্থটিকে নুমানের মাধ্যমে উমর (রাঃ) পর্যন্ত নিয়ে যান। অথচ ইবন কাসীরের দুটি সনদ, যা নুমান হয়েই এসেছে, উমর (রাঃ)-এর কথা দেয় এভাবে: তাদের ভাইয়েরা, আর যারা তাদের সদৃশ। ইবন কাসীর খুসাইফ থেকে, তিনি মিকসাম থেকে, এই বর্ণনাও আনেন যে ইবন আব্বাস (রাঃ) বলেছেন: তাদের স্ত্রীরা। তিনি একে বলেন গরীব, অপরিচিত। ইবন আব্বাস (রাঃ) থেকে পরিচিত বর্ণনা প্রথমটিই, যা মুজাহিদ ও সাঈদ ইবন জুবাইর এনেছেন: তাদের সঙ্গীরা।"
+          },
+          {
+            "en": "This page keeps that difference and takes no side. What the readings share deserves notice, though. Even the wives reading never gathers a woman for her husband's wrong. Al-Qurtubi's wording is wives who agreed with them in disbelief, al-Baghawi's is women who associated partners, and Ma'arif's is wives who were idolaters themselves. Maududi joins the two: the word might imply wives who were their associates in the rebellion, and also all who were rebellious like them. In every version, what places a person in the group is what that person did.",
+            "bn": "এ পাতা মতভেদটাকে যেমন আছে তেমনই রাখছে, কোনো পক্ষ নিচ্ছে না। তবে ব্যাখ্যাগুলোর মধ্যে যে মিল আছে, সেটা খেয়াল করার মতো। স্ত্রী অর্থের ব্যাখ্যাতেও কোনো নারীকে স্বামীর যুলুমের জন্য জড়ো করা হয় না। কুরতুবীর ভাষায় তারা কুফরে একমত স্ত্রীরা, বাগাভীর ভাষায় শিরককারী নারীরা, আর মাআরিফের ভাষায় নিজেরাও মুশরিক স্ত্রীরা। মওদূদী দুই অর্থকে মিলিয়ে দেন: শব্দটি বোঝাতে পারে সেই স্ত্রীদের, যারা এই বিদ্রোহে তাদের সহযোগী ছিল, আবার তাদের মতো বিদ্রোহী সবাইকেও। প্রতিটি ব্যাখ্যায় একজন মানুষকে দলে ফেলে তার নিজের আমল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Chain, Two Prisoners",
+          "bn": "এক শেকলে দুই বন্দি"
+        },
+        "p": [
+          {
+            "en": "A third reading turns to an unseen companion. Al-Qurtubi reports from ad-Dahhak that azwajuhum means their qurana' from among the devils, the companions who never left their side, and says this is also the view of Muqatil: every disbeliever is gathered with his devil in one chain. Al-Baghawi gives the same two names and nearly the same words. Al-Jalalayn, in the English rendering on quranx, glosses their mates as their associates from among the devils.",
+            "bn": "তৃতীয় ব্যাখ্যা নজর দেয় এক অদৃশ্য সঙ্গীর দিকে। কুরতুবী দাহহাক থেকে বর্ণনা করেন, আযওয়াজুহুম মানে শয়তানদের মধ্য থেকে তাদের কুরানা, অর্থাৎ সেই সঙ্গীরা যারা কখনো পাশ ছাড়েনি। তিনি বলেন, মুকাতিলেরও এই মত: প্রত্যেক কাফিরকে তার শয়তানের সঙ্গে একই শেকলে বেঁধে জড়ো করা হবে। বাগাভীও এ দুজনের নাম নেন, প্রায় একই ভাষায়। জালালাইন, কুরানএক্স-এ রাখা ইংরেজি অনুবাদে, তাদের জোড়ার অর্থ করে শয়তানদের মধ্য থেকে তাদের সহযোগীরা।"
+          },
+          {
+            "en": "The Qur'an speaks elsewhere of such a pairing. In 43:36, whoever turns away blind from the remembrance of the Most Merciful is assigned a devil who becomes his qarin, his companion, and 43:38 gives the man's own words when he comes to Allah: he wishes there were the distance of east and west between them. Those verses are set beside this verse as a parallel only; the commentaries consulted do not report ad-Dahhak or Muqatil citing them. Who came at the followers from the right, devils or chiefs, is the question of 37:28, which has its own page.",
+            "bn": "কুরআনের অন্য জায়গায়ও এমন জোড়ার কথা আছে। ৪৩:৩৬ আয়াতে বলা হয়েছে, দয়াময়ের জিকির থেকে যে অন্ধের মতো মুখ ফিরিয়ে নেয়, তার জন্য এক শয়তান নির্ধারিত হয়, সে হয় তার কারীন, সার্বক্ষণিক সঙ্গী। ৪৩:৩৮ আয়াত শোনায় আল্লাহর কাছে পৌঁছে সেই মানুষটির নিজের কথা: হায়, তোমার আর আমার মাঝে যদি পূর্ব আর পশ্চিমের দূরত্ব থাকত! এ আয়াতগুলো এখানে কেবল সমান্তরাল হিসেবে পাশে রাখা হলো। দাহহাক বা মুকাতিল এগুলো উদ্ধৃত করেছেন, এমন কথা দেখা তাফসীরগুলোতে নেই। অনুসারীদের কাছে ডান দিক থেকে কারা আসত, শয়তানরা না নেতারা, সে প্রশ্ন ৩৭:২৮ আয়াতের। তার আলাদা পাতা আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Idols Brought to the Gathering",
+          "bn": "হাশরে হাজির করা মূর্তি"
+        },
+        "p": [
+          {
+            "en": "The third group is ma kanu ya'budun, what they used to worship, completed at the start of 37:23 by min duni-llah, besides Allah. Ibn Kathir explains it there as the idols and the andad, the rivals set up beside Allah, gathered with them in their places. Al-Qurtubi names idols, devils and Iblis. The Muyassar says their gods which they worshipped besides Allah. Ma'arif al-Qur'an gives a purpose: the idols and devils they took as Allah's partners are mustered with them so that their helplessness can be shown in public.",
+            "bn": "তৃতীয় দল মা কানূ ইয়া'বুদূন, তারা যার ইবাদত করত। ৩৭:২৩ আয়াতের শুরুর মিন দূনিল্লাহ, আল্লাহকে বাদ দিয়ে, কথাটা একে পূর্ণ করে। ইবন কাসীর সেখানে এর ব্যাখ্যা দেন মূর্তি আর আনদাদ দিয়ে, অর্থাৎ আল্লাহর পাশে দাঁড় করানো প্রতিদ্বন্দ্বীরা, যাদের তাদের সঙ্গে তাদের জায়গায় জড়ো করা হবে। কুরতুবী নাম নেন মূর্তি, শয়তান আর ইবলিসের। মুয়াসসার বলে, তাদের সেই উপাস্যরা, আল্লাহকে বাদ দিয়ে যাদের তারা ইবাদত করত। মাআরিফুল কুরআন একটা উদ্দেশ্যও দেখায়: যে মূর্তি আর শয়তানদের তারা আল্লাহর শরিক বানিয়েছিল, তাদের সঙ্গেই জড়ো করা হবে, যাতে সবার সামনে তাদের অসহায়ত্ব প্রকাশ পায়।"
+          },
+          {
+            "en": "Yet people have also worshipped angels, prophets and righteous servants who never asked for it. Maududi, in the English rendering on quranx, sorts the gods into three kinds: men and devils who wanted to be worshipped, who will be among the culprits themselves; idols, trees and stones, thrown into Hell with their worshippers; and a third kind, worshipped without their consent and knowledge, who forbade it, such as angels, prophets and saints. These, he says, will plainly not be among the gods driven to Hell with their worshippers.",
+            "bn": "অথচ মানুষ ফেরেশতা, নবী আর নেক বান্দাদেরও ইবাদত করেছে, যাঁরা কখনো তা চাননি। মওদূদী, কুরানএক্স-এ রাখা ইংরেজি অনুবাদে, উপাস্যদের তিনটি ভাগে ভাগ করেন। এক, যে মানুষ আর শয়তানরা চাইত লোকে তাদের ইবাদত করুক। তারা নিজেরাই অপরাধীদের দলে থাকবে। দুই, মূর্তি, গাছ, পাথর, যাদের পূজারিদের সঙ্গে জাহান্নামে ফেলা হবে। তিন, যাদের ইবাদত হয়েছে তাদের সম্মতি আর জ্ঞানের বাইরে, অথচ তারা এ থেকে নিষেধই করতেন, যেমন ফেরেশতা, নবী আর আল্লাহর ওলিরা। তিনি বলেন, স্পষ্টতই এরা সেই উপাস্যদের দলে থাকবেন না, যাদের পূজারিদের সঙ্গে জাহান্নামে হাঁকিয়ে নেওয়া হবে।"
+          },
+          {
+            "en": "The Qur'an draws the same line in another place. In 21:98 it says: you and what you worship besides Allah are the firewood of Hell. In 21:101 it adds: those for whom the best has gone forth from Us, they will be kept far from it. That pair of verses is set beside this verse here; none of the commentaries fetched for 37:22 cites it. What this verse shows of the false gods is their presence. They are brought along, and they can do nothing, a helplessness that 37:25 turns into a question on its own page.",
+            "bn": "কুরআন অন্য জায়গায় নিজেই এই সীমারেখা টেনেছে। ২১:৯৮ আয়াতে বলা হয়েছে: তোমরা আর আল্লাহকে বাদ দিয়ে তোমরা যাদের ইবাদত করো, সবাই জাহান্নামের ইন্ধন। ২১:১০১ আয়াতে এর সঙ্গে যোগ হয়েছে: যাদের জন্য আমার পক্ষ থেকে কল্যাণ আগেই নির্ধারিত হয়ে আছে, তাদের সেখান থেকে দূরে রাখা হবে। আয়াত দুটি এখানে এ আয়াতের পাশে রাখা হলো। ৩৭:২২ আয়াতের জন্য দেখা কোনো তাফসীর এগুলো উদ্ধৃত করেনি। এ আয়াত মিথ্যা উপাস্যদের দেখায় উপস্থিত অবস্থায়। তাদের সঙ্গে আনা হয়, অথচ তারা কিছুই করতে পারে না। এই অসহায়ত্বকে ৩৭:২৫ আয়াত প্রশ্নে রূপ দেয়, সে আলোচনা তার নিজের পাতায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sorted by Deeds, Not Names",
+          "bn": "নামে নয়, আমলে বাছাই"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted for this verse attaches a hadith of the Prophet ﷺ to it, and none is attached here. One sound narration, general and not tied to this verse, points the same way. Al-Bukhari reports in his Sahih (6169) from 'Abdullah ibn Mas'ud: A man came to Allah's Messenger ﷺ and said, O Allah's Messenger! What do you say about a man who loves some people but cannot catch up with their good deeds? Allah's Messenger ﷺ said, Everyone will be with those whom he loves.",
+            "bn": "এ আয়াতের জন্য দেখা তাফসীরগুলোর কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো হাদীস জুড়ে দেয়নি, এখানেও জোড়া হচ্ছে না। তবে একটি সহীহ বর্ণনা, যা সাধারণ এবং এ আয়াতের সঙ্গে যুক্ত নয়, একই দিকে ইঙ্গিত করে। বুখারী তাঁর সহীহ গ্রন্থে (৬১৬৯) আব্দুল্লাহ ইবন মাসঊদ (রাঃ) থেকে বর্ণনা করেন: এক ব্যক্তি আল্লাহর রাসূল ﷺ-এর কাছে এসে বলল, হে আল্লাহর রাসূল! এমন মানুষ সম্পর্কে আপনি কী বলেন, যে কিছু লোককে ভালোবাসে অথচ তাদের নেক আমলের নাগাল পায় না? আল্লাহর রাসূল ﷺ বললেন: মানুষ তার সঙ্গেই থাকবে, যাকে সে ভালোবাসে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: an order, given on the Day of Judgement by Allah's command, to gather those who did wrong, their kinds and their false gods. It names no living person and licenses nothing against any living person or community. No one may use it to place a neighbour, a relative, a spouse, a rival group or a people among the wrongdoers or their azwaj, or to call anyone bound for the Fire. The sorting is Allah's alone. What the verse leaves the reader is a question about his own deeds, and the company he keeps now.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: কিয়ামতের দিন আল্লাহর আদেশে দেওয়া এক হুকুম, যালিমদের, তাদের সমগোত্রীয়দের আর তাদের মিথ্যা উপাস্যদের একত্র করার। আয়াতটি জীবিত কোনো মানুষের নাম নেয় না। জীবিত কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিবেশী, আত্মীয়, স্বামী বা স্ত্রী, প্রতিপক্ষ কোনো দল বা কোনো জাতিকে যালিমদের বা তাদের আযওয়াজের দলে ফেলার অধিকার এ আয়াত কাউকে দেয় না। কাউকে জাহান্নামি বলে দেওয়ার অধিকারও দেয় না। এ বাছাই একমাত্র আল্লাহর। পাঠকের জন্য আয়াতটি রেখে যায় নিজের সম্পর্কে এক প্রশ্ন: আমার আমল কেমন, আর এখন আমি কাদের সঙ্গে চলি?"
+          }
+        ]
+      }
+    ]
+  },
   "37:25": {
     "sections": [
       {
