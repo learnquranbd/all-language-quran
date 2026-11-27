@@ -1483,6 +1483,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:30": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Second Half of a Reply",
+          "bn": "অসমাপ্ত জবাবের শেষটুকু"
+        },
+        "p": [
+          {
+            "en": "The quarrel that opens in 37:27 has already had its first exchange. The followers made their accusation in 37:28, and the accused began their answer in 37:29: rather, you were not believers. This verse completes that answer in ten Arabic words. Wa ma kana lana 'alaykum min sultan: and we had no authority over you. Bal kuntum qawman taghin: rather, you were a transgressing people. The first clause denies that the speakers held any power; the second, opened by a second bal, says where the fault really lay.",
+            "bn": "৩৭:২৭ আয়াতে যে বাদানুবাদ শুরু হয়েছিল, তার প্রথম পালা পেরিয়ে গেছে। ৩৭:২৮ আয়াতে অনুসারীরা অভিযোগ তুলেছে, আর ৩৭:২৯ আয়াতে অভিযুক্তরা জবাব শুরু করেছে: বরং তোমরাই ঈমানদার ছিলে না। এ আয়াত আরবি দশটি শব্দে সেই জবাব শেষ করে। ওয়ামা কানা লানা আলাইকুম মিন সুলতান: তোমাদের উপর আমাদের কোনো কর্তৃত্ব ছিল না। বাল কুনতুম কাওমান তাগীন: বরং তোমরা ছিলে সীমালঙ্ঘনকারী এক সম্প্রদায়। প্রথম বাক্যাংশে বক্তারা নিজেদের ক্ষমতার কথা অস্বীকার করে। দ্বিতীয়টি শুরু হয় আরেকটি 'বাল' দিয়ে, আর সেখানে তারা দেখিয়ে দেয় দোষটা আসলে কোথায়।"
+          },
+          {
+            "en": "Who is speaking depends on how the quarrel is read, and the article on 37:28 has set out that disagreement. Here two notes are enough. Qatada, in the report at-Tabari carries on this verse, says it was the jinn who said this to them, from you were not believers through to a transgressing people. Ibn Kathir's abridged English has the leaders of the jinn and of mankind answering their followers. At-Tabari and the Muyassar both address the followers inside their glosses as O idolaters, al-mushrikun.",
+            "bn": "কে কথা বলছে, তা নির্ভর করে বাদানুবাদটা কীভাবে পড়া হয় তার উপর। ৩৭:২৮ আয়াতের প্রবন্ধে সেই মতভেদ বিস্তারিত আছে। এখানে দুটো কথা বললেই চলে। এ আয়াতের আলোচনায় তাবারী কাতাদার যে বর্ণনা এনেছেন, তাতে আছে, 'তোমরা ঈমানদার ছিলে না' থেকে 'সীমালঙ্ঘনকারী সম্প্রদায়' পর্যন্ত কথাগুলো জিনেরা তাদের বলেছিল। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে জবাব দিচ্ছে জিন ও মানুষের নেতারা, নিজেদের অনুসারীদের। তাবারী আর মুয়াসসার দুজনেই নিজেদের ব্যাখ্যার ভেতরে অনুসারীদের সম্বোধন করেছেন 'হে মুশরিকরা' বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Authority Read as Argument",
+          "bn": "সুলতান মানে দলিল"
+        },
+        "p": [
+          {
+            "en": "Most of the commentators fetched for this verse read sultan as hujja, a proof or argument. Ibn Kathir's Arabic glosses it as a proof for the soundness of what we called you to. On this reading the leaders concede that their message never had an argument behind it. Nothing they offered could have shown it to be true. Ibn Kathir's abridged English says the same: we had no proof of the truth of that to which we called you. The call was empty from the start, and they now say so.",
+            "bn": "এ আয়াতের যেসব তাফসীর সামনে আছে, তার বেশিরভাগ সুলতান শব্দের অর্থ করেছে হুজ্জাহ, অর্থাৎ দলিল বা প্রমাণ। ইবন কাসীরের আরবি তাফসীরে এর ব্যাখ্যা: আমরা তোমাদের যেদিকে ডেকেছিলাম, তা সঠিক হওয়ার কোনো দলিল। এ পাঠে নেতারা মেনে নিচ্ছে, তাদের বার্তার পেছনে কোনো যুক্তি কখনো ছিল না। তারা যা কিছু হাজির করেছিল, তার কোনোটাই সেটাকে সত্য প্রমাণ করতে পারত না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণও একই কথা বলে: যে দিকে ডেকেছিলাম, তার সত্যতার কোনো প্রমাণ আমাদের কাছে ছিল না। ডাকটা শুরু থেকেই ফাঁপা ছিল, আর এখন তারা নিজেরাই তা স্বীকার করছে।"
+          },
+          {
+            "en": "At-Tabari turns the same word a little differently. Sultan for him is a proof by which we could have barred you from faith, and come between you and following the truth because of it. The weight moves from the leaders' own message to its effect on the hearer: there was no argument strong enough to stand between you and the truth. He then says that the people of interpretation said something similar, and gives as-Suddi's gloss on sultan in a single word: al-hujja, the proof.",
+            "bn": "তাবারী একই শব্দকে একটু অন্যভাবে ঘুরিয়ে দেখেন। তাঁর কাছে সুলতান এমন দলিল, যা দিয়ে আমরা তোমাদের ঈমান থেকে ফিরিয়ে রাখতে পারতাম, আর তার জোরে তোমাদের ও সত্যের অনুসরণের মাঝে আড়াল হয়ে দাঁড়াতে পারতাম। এখানে ভার সরে যায় নেতাদের বার্তা থেকে শ্রোতার উপর তার প্রভাবের দিকে। তোমাদের আর সত্যের মাঝে দাঁড়ানোর মতো জোরালো কোনো যুক্তি ছিল না। এরপর তাবারী জানান, তাফসীরবিদরাও প্রায় এ কথাই বলেছেন। সুদ্দীর ব্যাখ্যাও তিনি আনেন, একটিমাত্র শব্দে: সুলতান মানে আল-হুজ্জাহ, দলিল।"
+          },
+          {
+            "en": "Al-Qurtubi gives a third angle in a short phrase: a proof for abandoning the truth. Taken together, the three glosses cover the ground. There was no proof that the call was right, no proof strong enough to bar anyone from faith, and no proof that leaving the truth was justified. However the word is turned, it says that what led these followers away had nothing to support it. They were not argued out of the truth. They left it with no argument in hand at all.",
+            "bn": "কুরতুবী ছোট্ট এক বাক্যাংশে তৃতীয় একটা দিক দেখান: সত্য ছেড়ে দেওয়ার পক্ষে কোনো দলিল। তিনটি ব্যাখ্যা একসঙ্গে রাখলে পুরো জায়গাটা ঢেকে যায়। ডাকটা যে ঠিক, তার কোনো প্রমাণ ছিল না। কাউকে ঈমান থেকে আটকে রাখার মতো জোরালো প্রমাণও ছিল না। আর সত্য ছেড়ে যাওয়া যে ন্যায্য, তারও কোনো প্রমাণ ছিল না। শব্দটা যেভাবেই ঘোরানো হোক, কথা একটাই: এই অনুসারীদের যা টেনে নিয়ে গেছে, তার পেছনে কোনো ভিত ছিল না। যুক্তির কাছে হেরে তারা সত্য ছাড়েনি। হাতে কোনো যুক্তি ছাড়াই ছেড়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Authority Read as Coercion",
+          "bn": "সুলতান মানে জবরদস্তি"
+        },
+        "p": [
+          {
+            "en": "Two commentators read the word as power rather than proof. Al-Baghawi glosses it as strength and ability, so that we might overpower you into following us. The leaders, on his reading, deny having had the means to force anyone. As-Sa'di puts it more pointedly: qahr, coercion over you to choose disbelief. His phrase holds two ideas against each other. Disbelief here is something chosen, ikhtiyar, and the leaders insist they had no compulsion that could have made that choice for anyone else.",
+            "bn": "দুজন তাফসীরকার শব্দটাকে প্রমাণ নয়, ক্ষমতা অর্থে পড়েছেন। বাগাভীর ব্যাখ্যা: শক্তি ও সামর্থ্য, যা দিয়ে আমরা তোমাদের দমিয়ে আমাদের অনুসরণে বাধ্য করতাম। তাঁর পাঠে নেতারা অস্বীকার করছে যে কাউকে জোর করার উপায় তাদের হাতে ছিল। সা'দী কথাটা আরও ধারালোভাবে বলেন: কাহর, অর্থাৎ কুফর বেছে নিতে তোমাদের উপর জবরদস্তি। তাঁর বাক্যাংশে দুটো ধারণা মুখোমুখি দাঁড়িয়ে আছে। কুফর এখানে বেছে নেওয়ার জিনিস, ইখতিয়ার। আর নেতারা জোর দিয়ে বলছে, অন্যের হয়ে সেই বাছাই করে দেওয়ার মতো কোনো জবরদস্তি তাদের ছিল না।"
+          },
+          {
+            "en": "As-Sa'di also reads the opening waw as circumstantial: and the case is that we had no power over you. The clause then describes how things stood while the followers were making their choice. They were free at the time. Nobody stood over them. That is where the complaint of 37:28 falls short, whatever the right side meant there. Whatever came from the leaders, none of it reached the point of taking the decision out of the followers' own hands.",
+            "bn": "সা'দী শুরুর 'ওয়া' অব্যয়টিকে অবস্থাবাচক হিসেবে পড়েন: অবস্থা তো এই ছিল যে তোমাদের উপর আমাদের কোনো ক্ষমতা ছিল না। তাহলে বাক্যাংশটা বলে দেয়, অনুসারীরা যখন সিদ্ধান্ত নিচ্ছিল, তখন পরিস্থিতি কেমন ছিল। তারা তখন স্বাধীন ছিল। কেউ তাদের মাথার উপর দাঁড়িয়ে ছিল না। ৩৭:২৮ আয়াতের অভিযোগ এখানেই খাটো পড়ে যায়, সেখানে 'ডান দিক' কথাটার অর্থ যা-ই হোক। নেতাদের দিক থেকে যা-ই আসুক, তার কিছুই এত দূর যায়নি যে সিদ্ধান্তটা অনুসারীদের নিজেদের হাত থেকে কেড়ে নেবে।"
+          },
+          {
+            "en": "The Muyassar holds both senses side by side. It renders the clause: we had over you no proof or power, hujja aw quwwa, by which we could turn you away from faith. That gloss is the plainest bridge between the two groups. Neither argument nor force was in the leaders' hands. The two readings do not really compete; each closes a different door of excuse. A follower might claim he was persuaded, or claim he was compelled. Read through these commentators, the verse answers both claims together.",
+            "bn": "মুয়াসসার দুটো অর্থই পাশাপাশি রাখে। তার অনুবাদে বাক্যাংশটা এমন: তোমাদের উপর আমাদের এমন কোনো দলিল বা শক্তি, হুজ্জাহ আও কুওয়াহ, ছিল না, যা দিয়ে তোমাদের ঈমান থেকে ফিরিয়ে রাখতে পারতাম। দুই দলের মাঝে এটাই সবচেয়ে সহজ সেতু। যুক্তিও নেতাদের হাতে ছিল না, জোরও না। দুই পাঠ আসলে পরস্পরের প্রতিদ্বন্দ্বী নয়। প্রত্যেকটা অজুহাতের আলাদা একেকটা দরজা বন্ধ করে। একজন অনুসারী বলতে পারে, আমাকে বুঝিয়ে রাজি করানো হয়েছিল। কিংবা বলতে পারে, আমাকে বাধ্য করা হয়েছিল। এই তাফসীরগুলোর আলোয় পড়লে আয়াতটা দুই দাবিরই জবাব দেয় একসঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taghin, Past the Limit",
+          "bn": "তাগীন: সীমা পেরোনো দল"
+        },
+        "p": [
+          {
+            "en": "The second clause turns the accusation round. Bal kuntum qawman taghin: rather, you were a transgressing people. The commentators fill in taghin from the sense of going beyond bounds. Ibn Kathir's Arabic says there was in you tughyan and a passing beyond the truth. The Muyassar renders taghin as people overstepping the truth. As-Sa'di and al-Qurtubi both use the phrase mutajawizin al-hadd, those who go past the limit, and al-Qurtubi adds that they were astray, dallin, as well.",
+            "bn": "দ্বিতীয় বাক্যাংশ অভিযোগটাকে উল্টো দিকে ঘুরিয়ে দেয়। বাল কুনতুম কাওমান তাগীন: বরং তোমরা ছিলে সীমালঙ্ঘনকারী এক সম্প্রদায়। তাফসীরকারেরা তাগীন শব্দের ব্যাখ্যা করেন সীমা ছাড়িয়ে যাওয়ার অর্থ থেকে। ইবন কাসীরের আরবি তাফসীর বলে, তোমাদের ভেতরে ছিল তুগইয়ান, সত্যকে ছাড়িয়ে যাওয়ার স্বভাব। মুয়াসসার তাগীনের অর্থ করে: যারা সত্যের সীমা পেরিয়ে যায়। সা'দী ও কুরতুবী দুজনেই বলেন মুতাজাউইযীনাল হাদ্দ, অর্থাৎ যারা সীমা অতিক্রম করে। কুরতুবী সঙ্গে আরও যোগ করেন, তারা ছিল পথভ্রষ্ট, দাল্লীন।"
+          },
+          {
+            "en": "At-Tabari names the limit that was crossed. They were transgressors against Allah, he says, reaching for what they had no right to reach: disobeying Allah and going against His command. The transgression is not first against the leaders, or against other people. It is against the One whose command was set aside. As-Suddi, in at-Tabari's report, puts it in two words: misguided disbelievers, kuffar dullal. Al-Baghawi's gloss is a single word, dallin, astray. The short glosses and the long one point at the same condition.",
+            "bn": "কোন সীমা পেরোনো হয়েছিল, তাবারী তা নাম ধরে বলেন। তাঁর ভাষায় তারা আল্লাহর বিরুদ্ধে সীমালঙ্ঘন করেছিল। যেখানে হাত বাড়ানোর অধিকার তাদের ছিল না, সেখানেই হাত বাড়িয়েছিল: আল্লাহর নাফরমানি আর তাঁর হুকুমের বিরোধিতায়। তাহলে সীমালঙ্ঘনটা প্রথমত নেতাদের বা অন্য মানুষের বিরুদ্ধে নয়। তা সেই সত্তার বিরুদ্ধে, যাঁর হুকুম তারা পাশে সরিয়ে রেখেছিল। তাবারীর আনা বর্ণনায় সুদ্দী বলেন দুই শব্দে: কুফফার দুল্লাল, পথভ্রষ্ট কাফির। বাগাভীর ব্যাখ্যা একটিমাত্র শব্দ: দাল্লীন, পথহারা। ছোট ব্যাখ্যা আর বড় ব্যাখ্যা একই অবস্থার দিকে আঙুল তোলে।"
+          },
+          {
+            "en": "Ibn Kathir draws out the cause and its effect. Because that transgression was in you, he has the leaders say, you answered us and left the truth that the Prophets brought you, though they had set up proofs for its soundness, and you opposed them. The contrast is sharp. The leaders had no proof; the Prophets had proofs. The followers turned from the side that had evidence to the side that had none. That is why the leaders can say, in effect, that the reason lay in them.",
+            "bn": "ইবন কাসীর কারণ আর তার ফল খুলে দেখান। তাঁর বর্ণনায় নেতারা বলছে: তোমাদের ভেতরে এই সীমালঙ্ঘন ছিল বলেই তোমরা আমাদের ডাকে সাড়া দিয়েছ। নবীরা যে সত্য নিয়ে এসেছিলেন, তা ছেড়ে দিয়েছ, অথচ তাঁরা তার সত্যতার পক্ষে দলিল দাঁড় করিয়েছিলেন। আর তোমরা তাঁদের বিরোধিতা করেছ। বৈপরীত্যটা তীক্ষ্ণ। নেতাদের কোনো দলিল ছিল না, নবীদের ছিল দলিলের পর দলিল। অনুসারীরা প্রমাণওয়ালা দিক ছেড়ে চলে গেছে প্রমাণহীন দিকে। তাই নেতারা কার্যত বলতে পারে, কারণটা তোমাদের নিজেদের ভেতরেই ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Calling Is Not Compelling",
+          "bn": "ডাকা আর বাধ্য করা আলাদা"
+        },
+        "p": [
+          {
+            "en": "The disclaimer is not the leaders' last word. In 37:31 and 37:32 they go on: the word of our Lord has come true against us, and we led you astray, for we were astray ourselves. That admission might seem to undo the denial. Ibn Kathir's abridged English reconciles the two. We led you astray means we called you to misguidance, and we called you to follow the path we were on, and you responded. To invite is one thing and to compel is another. The leaders admit the first and deny the second.",
+            "bn": "দায় অস্বীকারই নেতাদের শেষ কথা নয়। ৩৭:৩১ ও ৩৭:৩২ আয়াতে তারা আরও বলে: আমাদের রবের কথা আমাদের বিরুদ্ধে সত্য হয়েছে, আর আমরাই তোমাদের পথভ্রষ্ট করেছিলাম, কারণ আমরা নিজেরাও পথভ্রষ্ট ছিলাম। মনে হতে পারে, এই স্বীকারোক্তি আগের অস্বীকারটাকে বাতিল করে দেয়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ দুটি কথাকে মিলিয়ে দেয়। 'পথভ্রষ্ট করেছিলাম' মানে আমরা তোমাদের গোমরাহির দিকে ডেকেছিলাম, যে পথে আমরা ছিলাম সে পথে চলতে ডেকেছিলাম, আর তোমরা সাড়া দিয়েছিলে। দাওয়াত দেওয়া একটা জিনিস, বাধ্য করা আরেকটা। নেতারা প্রথমটা মানে, দ্বিতীয়টা অস্বীকার করে।"
+          },
+          {
+            "en": "The Qur'an draws the same line elsewhere, and two places need only a pointer here. At 14:22 Satan disowns his followers in a sentence built on the same word, sultan. At 34:31 to 34:33, which Ibn Kathir quotes beside this passage, the arrogant answer the weak with a question: did we keep you back from guidance after it had come to you? In each place the ones who led throw the choice back on the ones who followed, and the choice is left standing as theirs.",
+            "bn": "কুরআন অন্য জায়গাতেও এই একই রেখা টানে। এখানে দুটো জায়গার দিকে শুধু ইঙ্গিত করাই যথেষ্ট। ১৪:২২ আয়াতে শয়তান নিজের অনুসারীদের দায় অস্বীকার করে এমন এক বাক্যে, যার ভিত এই একই শব্দ, সুলতান। আর ৩৪:৩১ থেকে ৩৪:৩৩ আয়াতে, যা ইবন কাসীর এই অংশের পাশে উদ্ধৃত করেছেন, অহংকারীরা দুর্বলদের জবাব দেয় প্রশ্ন দিয়ে: হিদায়াত তোমাদের কাছে আসার পর আমরা কি তোমাদের তা থেকে আটকে রেখেছিলাম? দুই জায়গাতেই যারা নেতৃত্ব দিয়েছিল, তারা বাছাইয়ের দায় ফিরিয়ে দেয় অনুসারীদের কাঁধে। আর বাছাইটা অনুসারীদেরই থেকে যায়।"
+          },
+          {
+            "en": "None of this acquits the leaders, and the verse never says it does. Calling people to misguidance is not innocent, and the leaders confess it in 37:32. What the verse removes is one particular excuse, the one the followers raised: that they had no choice. Read with what follows, the scene lets both excuses fail. The followers cannot say they were forced, and the leaders cannot say they merely spoke. Each side is held to what it actually did.",
+            "bn": "এর কোনোটাই নেতাদের নির্দোষ প্রমাণ করে না, আর আয়াতও তেমন কিছু বলে না। মানুষকে গোমরাহির দিকে ডাকা নির্দোষ কাজ নয়, আর ৩৭:৩২ আয়াতে নেতারা নিজেরাই তা স্বীকার করে। আয়াতটা সরিয়ে দেয় একটা নির্দিষ্ট অজুহাত, যা অনুসারীরা তুলেছিল: আমাদের সামনে আর কোনো পথ ছিল না। পরের আয়াতগুলোর সঙ্গে মিলিয়ে পড়লে দেখা যায়, দুই পক্ষের অজুহাতই টেকে না। অনুসারীরা বলতে পারে না যে তাদের বাধ্য করা হয়েছিল। নেতারাও বলতে পারে না যে তারা শুধু কথাই বলেছিল। যে যা করেছে, তাকে তার জন্যই ধরা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Fire, Separate Measures",
+          "bn": "আগুন এক, মাপ আলাদা"
+        },
+        "p": [
+          {
+            "en": "The passage closes in 37:33: that Day they will all share in the punishment. Ibn Kathir's abridged English adds a qualification that matters: all of them will be in Hell, each according to what he deserves. Sharing the place is not sharing the measure. The one who called and the one who answered are judged in the same scene, yet not as one undivided mass. Each carries what he did, and the quarrel of 37:27 to 37:32 cannot shift any of that weight from one side to the other.",
+            "bn": "৩৭:৩৩ আয়াতে অংশটা শেষ হয়: সেদিন তারা সবাই শাস্তিতে শরিক হবে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এখানে একটা জরুরি শর্ত জুড়ে দেয়: তারা সবাই জাহান্নামে থাকবে, প্রত্যেকে নিজ নিজ প্রাপ্য অনুযায়ী। জায়গা এক হলেই মাপ এক হয় না। যে ডেকেছিল আর যে সাড়া দিয়েছিল, দুজনের বিচার একই দৃশ্যে হয়। তবু তাদের সবাইকে এক দলা করে মাপা হয় না। প্রত্যেকে বহন করে নিজের কৃতকর্ম। ৩৭:২৭ থেকে ৩৭:৩২ আয়াতের বাদানুবাদ সেই বোঝার এক কণাও এক পক্ষ থেকে অন্য পক্ষে সরাতে পারে না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, commenting on 37:28 with the four verses after it, frames the scene this way: the leading elders who misled their common followers appear before them on the plains of the Resurrection and, rather than help one another, fall to arguing among themselves. The question of 37:25, why do you not help one another, receives its answer here. Ibn Kathir sets beside the scene the dispute in the Fire at 40:47 and 40:48, where the arrogant answer the weak that they are all in it together.",
+            "bn": "মাআরিফুল কুরআন ৩৭:২৮ ও তার পরের চারটি আয়াত একসঙ্গে আলোচনা করতে গিয়ে দৃশ্যটা এভাবে আঁকে: যে প্রধান মুরুব্বিরা সাধারণ অনুসারীদের পথ ভুলিয়েছিল, কিয়ামতের ময়দানে তারা অনুসারীদের সামনে হাজির হবে। কিন্তু একজন আরেকজনকে সাহায্য করার বদলে তারা নিজেদের মধ্যে তর্কে জড়িয়ে পড়বে। ৩৭:২৫ আয়াতের প্রশ্ন, তোমরা পরস্পরকে সাহায্য করছ না কেন, এখানে এসে তার জবাব পায়। ইবন কাসীর এই দৃশ্যের পাশে রাখেন ৪০:৪৭ ও ৪০:৪৮ আয়াতে জাহান্নামের ভেতরের বিবাদ, যেখানে অহংকারীরা দুর্বলদের বলে, আমরা সবাই তো এর ভেতরেই আছি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Name From This World",
+          "bn": "দুনিয়ার কারও নাম নেই"
+        },
+        "p": [
+          {
+            "en": "A plain word is needed about the reach of this verse. It describes what it describes: a scene on the Day of Judgement, in which those who led others away from Allah and those who followed them turn on each other. It names no one in this world. It licenses nothing against any living person or community. Nobody may take the leaders or the followers here and fit them onto a present-day party, scholar, ruler or group. The verse warns whoever reads it, and is not a weapon for use against others.",
+            "bn": "এ আয়াতের পরিধি নিয়ে সোজাসুজি একটা কথা বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: বিচার দিবসের একটি দৃশ্য, যেখানে যারা মানুষকে আল্লাহর পথ থেকে সরিয়েছিল আর যারা তাদের অনুসরণ করেছিল, তারা একে অন্যের বিরুদ্ধে দাঁড়ায়। দুনিয়ার কারও নাম এতে নেই। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। এখানকার নেতা বা অনুসারীদের তুলে নিয়ে আজকের কোনো দল, আলেম, শাসক বা গোষ্ঠীর গায়ে বসিয়ে দেওয়ার অধিকার কারও নেই। আয়াতটি পাঠককে সতর্ক করে। অন্যের বিরুদ্ধে ব্যবহারের অস্ত্র এটি নয়।"
+          },
+          {
+            "en": "None of the tafsir texts fetched for this verse attaches a hadith to it, so none is cited here, and none of them gives an occasion of revelation. The commentators' work on 37:30 is lexical and brief: what sultan means, what taghin means, and who is answering whom. That brevity has its own lesson. The verse needs little explaining, because its claim is simple. No one held an authority over these followers that could have overruled their own choice, and on that Day they will hear it said.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তাই এখানে কোনো হাদীস উদ্ধৃত করা হয়নি। কোনো শানে নুযূলও তারা উল্লেখ করেনি। ৩৭:৩০ নিয়ে তাফসীরকারদের কাজ শব্দকেন্দ্রিক আর সংক্ষিপ্ত: সুলতান মানে কী, তাগীন মানে কী, আর কে কাকে জবাব দিচ্ছে। এই সংক্ষেপেরও নিজস্ব শিক্ষা আছে। আয়াতটির বেশি ব্যাখ্যা লাগে না, কারণ এর দাবি সরল। এই অনুসারীদের নিজেদের সিদ্ধান্ত উল্টে দিতে পারে, এমন কর্তৃত্ব কারও হাতে ছিল না। আর সেদিন এ কথা তাদের শুনতেই হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Call I Answer",
+          "bn": "আমি কার ডাকে সাড়া দিই"
+        },
+        "p": [
+          {
+            "en": "Read inwardly, the verse removes a comfort that many people carry. It is easy to say that my surroundings, my elders or my leaders made me what I am. Their influence is real, and the leaders in this passage confess to having called. But the verse insists that the call had no proof behind it and no force strong enough to decide for anyone. The step away from the truth was taken by whoever took it, and on that Day, as 37:24 says, they are to be questioned.",
+            "bn": "নিজের দিকে তাকিয়ে পড়লে আয়াতটা এমন এক সান্ত্বনা কেড়ে নেয়, যা অনেকেই বুকে নিয়ে চলে। বলা সহজ যে আমার পরিবেশ, আমার মুরুব্বিরা বা আমার নেতারাই আমাকে এমন বানিয়েছে। তাদের প্রভাব সত্যিই আছে, আর এই অংশের নেতারা ডাকার কথা স্বীকারও করে। কিন্তু আয়াতটা জোর দিয়ে বলে, সেই ডাকের পেছনে কোনো দলিল ছিল না। কারও হয়ে সিদ্ধান্ত নিয়ে ফেলার মতো জোরও ছিল না। সত্য থেকে সরে যাওয়ার পা-টা ফেলেছে সে নিজেই। আর ৩৭:২৪ আয়াত যেমন বলে, সেদিন তাদের প্রশ্ন করা হবে।"
+          },
+          {
+            "en": "That leaves questions to put to myself while they can still change something. What proof does the voice I follow actually give me? Where have I called pressure compulsion, when the choice was still in my hands? Which limit have I crossed so often that I no longer see it? And whom do I call, at home or at work, who might later say that I led them? On that Day the leaders' disclaimer does not save them, and the followers' complaint does not save them either.",
+            "bn": "তাই নিজেকে কিছু প্রশ্ন করার সময় এখনই, যখন উত্তর বদলালে কিছু বদলানো যায়। যার কথায় চলি, সে আসলে আমাকে কী দলিল দেয়? কোথায় আমি চাপকে জবরদস্তি বলে চালিয়েছি, অথচ সিদ্ধান্ত তখনো আমার হাতেই ছিল? কোন সীমা এত বেশিবার পেরিয়েছি যে এখন আর চোখেই পড়ে না? আর ঘরে বা কাজের জায়গায় আমি কাদের ডাকি, যারা একদিন বলতে পারে, আমিই তাদের পথ দেখিয়েছিলাম? সেদিন নেতাদের দায় অস্বীকার তাদের বাঁচায় না। অনুসারীদের অভিযোগও তাদের বাঁচায় না।"
+          }
+        ]
+      }
+    ]
+  },
   "37:35": {
     "sections": [
       {

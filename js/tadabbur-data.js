@@ -36833,6 +36833,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every vessel and mount that carries you, whether built or born, is Allah's provision; ride as one who is carried, and thank Him for each safe arrival.",
     "lessonBn": "যে নৌযান বা বাহন আপনাকে বয়ে নেয়, মানুষের বানানো হোক বা জন্ম নেওয়া পশু, সবই আল্লাহর দেওয়া রিযক। বয়ে-নেওয়া মানুষের মতো চড়ুন, আর প্রতিটি নিরাপদ পৌঁছানোর জন্য তাঁর শোকর করুন।"
+  },
+  "37:30": {
+    "reflectionEn": "On that Day the ones who led others astray answer the ones who followed them, and their answer is a refusal. We had no authority over you, they say; you were a people who went past the limits yourselves. The commentators hear two denials in that word authority: no proof that could have made the false look true, and no force that could have dragged anyone into it. Neither side comes out clean, because both share the punishment. Yet the verse leaves a hard truth with me. No one who pulled me off the right road had the power to move my feet for me. They called, and I answered. Whose voice am I answering now, and why?",
+    "reflectionBn": "সেদিন যারা অন্যদের পথ ভুলিয়েছিল, তারা অনুসারীদের অভিযোগের জবাব দেবে। আর সে জবাব হলো দায় ঝেড়ে ফেলা। তারা বলবে, তোমাদের উপর আমাদের কোনো কর্তৃত্ব ছিল না, তোমরা নিজেরাই সীমা ছাড়িয়ে গিয়েছিলে। 'কর্তৃত্ব' শব্দটার ভেতরে তাফসীরকারেরা দুটো অস্বীকার শোনেন। মিথ্যাকে সত্য বলে দেখানোর মতো কোনো প্রমাণ তাদের হাতে ছিল না, আবার কাউকে জোর করে টেনে নেওয়ার মতো শক্তিও ছিল না। তবু কেউ পার পায় না, শাস্তিতে দুপক্ষই শরিক। আয়াতটা আমার সামনে একটা কঠিন সত্য রেখে যায়। যে আমাকে সঠিক পথ থেকে সরিয়েছে, আমার পা দুটো আমার হয়ে চালানোর ক্ষমতা তার ছিল না। সে ডেকেছে, আর সাড়া দিয়েছি আমি। আজ আমি কার ডাকে সাড়া দিচ্ছি, আর কেন?",
+    "pointsEn": [
+      "Which wrong that I keep doing do I quietly blame on someone else's influence?",
+      "If the people I follow were asked for their proof, what would they produce, and have I ever asked them for it?",
+      "Where have I called it being forced when I was only being pressed, and the choice was still in my hands?",
+      "What limit have I stepped past so often that I no longer notice it is there?",
+      "Who follows my lead at home or at work, and would I want my words to them weighed on that Day?"
+    ],
+    "pointsBn": [
+      "বারবার করে যাওয়া কোন অন্যায়ের দায় আমি চুপচাপ অন্য কারও প্রভাবের ঘাড়ে চাপাই?",
+      "যাদের আমি মেনে চলি, তাদের কাছে প্রমাণ চাইলে তারা কী দেখাবে? আর আমি কি কখনো সেটা চেয়েছি?",
+      "কোথায় আমি শুধু চাপের মুখে ছিলাম, অথচ বলেছি বাধ্য হয়েছি, যখন সিদ্ধান্তটা তখনো আমার হাতেই ছিল?",
+      "কোন সীমা আমি এত বেশিবার পেরিয়েছি যে এখন আর টেরই পাই না সেখানে একটা সীমা আছে?",
+      "ঘরে বা কাজের জায়গায় কারা আমার দেখানো পথে চলে? সেদিন তাদের প্রতি আমার কথাগুলো ওজন করা হলে আমি কি খুশি হব?"
+    ],
+    "lessonEn": "No one can force you into disbelief or sin. Weigh every call by its proof, because on that Day blaming the ones who called you will not lift your own share.",
+    "lessonBn": "কুফর বা গুনাহের পথে কেউ আপনাকে জোর করে নিতে পারে না। প্রতিটি ডাক তার প্রমাণ দিয়ে যাচাই করুন, কারণ সেদিন ডাকদাতাদের দোষ দিলেও আপনার নিজের ভাগ কমবে না।"
   }
 };
 
