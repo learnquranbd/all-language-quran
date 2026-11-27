@@ -3395,6 +3395,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "28:75": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Question Asked Twice",
+          "bn": "একই প্রশ্ন দ্বিতীয়বার"
+        },
+        "p": [
+          {
+            "en": "The preceding verse repeats, word for word, a question first heard in 28:62: where are My partners, whom you used to claim? Ibn Kathir, in the abridged English, calls it another call by way of rebuke for those who worshipped others besides Allah, made before all the witnesses. Between the two askings the sūrah has shown the misleaders disowning those they led in 28:63, the partners failing to answer in 28:64, and a second question in 28:65: what did you answer the messengers?",
+            "bn": "এর আগের আয়াতটি হুবহু সেই প্রশ্নই আবার তোলে, যা প্রথম শোনা গেছে ২৮:৬২ আয়াতে: তোমরা যাদের আমার শরীক বলে দাবি করতে, তারা কোথায়? সংক্ষিপ্ত ইংরেজি ইবন কাসীরে একে বলা হয়েছে আরেকটি ডাক, যারা আল্লাহকে ছেড়ে অন্যদের ইবাদত করত তাদের ভর্ৎসনা করে, সব সাক্ষীর সামনে। দুই ডাকের মাঝখানে সূরাটি আরও কিছু দৃশ্য দেখিয়ে দিয়েছে। ২৮:৬৩ আয়াতে পথভ্রষ্টকারীরা নিজেদের অনুসারীদের দায় অস্বীকার করে। ২৮:৬৪ আয়াতে শরীকদের ডাকা হয়, তারা সাড়া দেয় না। আর ২৮:৬৫ আয়াতে আসে দ্বিতীয় প্রশ্ন: রাসূলদের তোমরা কী জবাব দিয়েছিলে?"
+          },
+          {
+            "en": "Ma'arif al-Qur'an ties our verse to that second question. An earlier verse, it says, mentioned the question the disbelievers will be asked about how they replied to the prophets' call to the truth; now this verse states that the prophets will testify about the reply that was given. So the scene moves from what the accused are asked to what is said about them by others. Right after it, in 28:76, a new passage opens with Qārūn, and the courtroom closes here, on this verse.",
+            "bn": "মাআরিফুল কুরআন আমাদের আয়াতটিকে ওই দ্বিতীয় প্রশ্নের সঙ্গে জুড়ে দেয়। তার ভাষায়, আগের এক আয়াতে বলা হয়েছিল, নবীরা সত্যের দিকে ডাকলে কাফিররা কী জবাব দিয়েছিল, কিয়ামতের দিন সে প্রশ্ন তাদের করা হবে। এ আয়াত জানায়, সেই জবাবের ব্যাপারে নবীরা নিজেরাই সাক্ষ্য দেবেন। দৃশ্যটা তাই সরে আসে অভিযুক্তদের কী জিজ্ঞেস করা হলো, সেখান থেকে তাদের সম্পর্কে অন্যরা কী বলছে, সেখানে। এর ঠিক পরে, ২৮:৭৬ আয়াতে, কারূনকে নিয়ে নতুন অংশ শুরু হয়। আদালতের দৃশ্য শেষ হয় এখানেই, এই আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Drawn Out and Set Forth",
+          "bn": "টেনে এনে সামনে দাঁড় করানো"
+        },
+        "p": [
+          {
+            "en": "Wa-naza'na min kulli ummatin shahidan. The verb naza'a is to pull a thing out from where it sits. Al-Baghawi glosses it simply as akhrajna, We brought out. At-Tabari gives ahdarna, We made present: from every community We brought its witness. He then records a second sense, introduced with it was said: naza'a fulan bi-hujjatin, so-and-so drew out such an argument, meaning he produced it and brought it forth. On that sense the witness is produced the way an argument is produced.",
+            "bn": "ওয়া নাযা'না মিন কুল্লি উম্মাতিন শাহীদা। নাযা'আ মানে কোনো জিনিসকে তার জায়গা থেকে টেনে বের করা। বাগাভী সোজা অর্থ দেন আখরাজনা, আমি বের করে আনলাম। তাবারী বলেন আহদারনা, আমি হাজির করলাম: প্রত্যেক দল থেকে তার সাক্ষীকে আমি উপস্থিত করলাম। তারপর 'বলা হয়' কথাটি দিয়ে তিনি আরেকটি অর্থ আনেন। আরবরা বলে, নাযা'আ ফুলানুন বিহুজ্জাতিন, অমুক এমন এক যুক্তি টেনে আনল, মানে যুক্তিটা হাজির করল, সামনে রাখল। এ অর্থে সাক্ষীকে সামনে আনা হয় ঠিক যেভাবে কোনো দলিল পেশ করা হয়।"
+          },
+          {
+            "en": "Al-Qurtubi comes at the same picture through the noun. Shahid, he says, means the one who is present, al-hadir; so the verse means We made present their messenger who had been sent to them. Notice too the tense. The Arabic verbs naza'na and qulna are in the past form, although the event lies ahead, which is why the translation renders them as we will extract and say. The scene reaches the listener as something already settled, told from its far side.",
+            "bn": "কুরতুবী একই ছবিতে পৌঁছান বিশেষ্যটি ধরে। তিনি বলেন, শাহীদ মানে যে হাজির থাকে, আল-হাদির। তাই আয়াতের অর্থ, তাদের কাছে পাঠানো রাসূলকে আমি হাজির করলাম। ক্রিয়ার কালটাও লক্ষ করার মতো। ঘটনাটা সামনে আসছে, অথচ আরবি নাযা'না আর কুলনা দুটোই অতীতকালের রূপে। অনুবাদে তাই লেখা হয়, বের করে আনব, বলব। শ্রোতার কাছে দৃশ্যটা পৌঁছায় এমনভাবে, যেন সব আগেই চূড়ান্ত হয়ে গেছে, আর বর্ণনা আসছে তার ওপার থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Its Prophet, Its Witness",
+          "bn": "নবীই তার সাক্ষী"
+        },
+        "p": [
+          {
+            "en": "Who is this witness? Mujahid answers in one word: a messenger. At-Tabari carries his report through two chains, from Ibn Abi Najih and from Ibn Jurayj, and Ibn Kathir and al-Qurtubi both cite it. Qatada, also in at-Tabari, says the same at greater length: its witness is its prophet, who testifies against it that he conveyed the message of his Lord. Al-Baghawi says it is their messenger who was sent to them, and the Muyassar names the prophet of each nation that denied.",
+            "bn": "এই সাক্ষী কে? মুজাহিদ এক শব্দে জবাব দেন: একজন রাসূল। তাবারী তাঁর এ কথা দুটি সূত্রে বর্ণনা করেন, একটি ইবন আবী নাজীহ থেকে, অন্যটি ইবন জুরাইজ থেকে। ইবন কাসীর আর কুরতুবীও কথাটা উদ্ধৃত করেন। তাবারীতেই কাতাদা একই কথা একটু বিস্তারে বলেন: প্রত্যেক উম্মতের সাক্ষী তার নবী, তিনি তার বিরুদ্ধে সাক্ষ্য দেবেন যে রবের বার্তা তিনি পৌঁছে দিয়েছিলেন। বাগাভীর মতে, সাক্ষী হলেন তাদের কাছে পাঠানো রাসূল। আর মুয়াসসার বলে, যে জাতিগুলো অস্বীকার করেছিল, প্রত্যেকের সাক্ষী তাদের নবী।"
+          },
+          {
+            "en": "What exactly does the prophet testify to? Here the wording shifts in emphasis. At-Tabari has him testify to how his nation answered what he brought them from Allah. Qatada, as at-Tabari relays him, has him testify that he delivered the message. The Muyassar has him testify to what took place in the world, their shirk and their denial of their messengers. Read together, these cover both sides of one account: the message was given, and this is what was done with it.",
+            "bn": "নবী ঠিক কোন বিষয়ে সাক্ষ্য দেবেন? এখানে বর্ণনাগুলোর জোর একটু ভিন্ন জায়গায়। তাবারীর মতে, আল্লাহর কাছ থেকে তিনি যা এনেছিলেন, তাঁর উম্মত তার কী জবাব দিয়েছিল, সে বিষয়ে। তাবারীর বর্ণনায় কাতাদা বলেন, তিনি সাক্ষ্য দেবেন যে বার্তা পৌঁছে দিয়েছিলেন। মুয়াসসার বলে, দুনিয়ায় যা ঘটেছিল তার সাক্ষ্য: তাদের শিরক, আর রাসূলদের প্রতি তাদের অস্বীকার। একসঙ্গে পড়লে একই হিসাবের দুই দিক ধরা পড়ে। বার্তা দেওয়া হয়েছিল, আর তার সঙ্গে এই আচরণ করা হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Further Readings",
+          "bn": "আরও দুটি ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Not every reading stops there. Al-Qurtubi records, under the words it was said, that the witnesses are the upright ones of the Hereafter, who testify against people about what they did in the world. He then weighs the two views and calls the first, that the witness is a prophet, the more evident, because of 4:41: how will it be when We bring from every nation a witness, and bring you as a witness against these? The witness of each nation, he concludes, is its messenger who testifies against it.",
+            "bn": "সব ব্যাখ্যা এখানেই থামে না। কুরতুবী 'বলা হয়' শব্দে আরেকটি মত উল্লেখ করেন: এই সাক্ষীরা আখিরাতের ন্যায়নিষ্ঠ লোক, যারা দুনিয়ায় মানুষের আমলের ব্যাপারে তাদের বিরুদ্ধে সাক্ষ্য দেবে। তারপর তিনি দুটি মত মেপে দেখেন। প্রথমটি, অর্থাৎ সাক্ষী নবী, তাঁর মতে বেশি স্পষ্ট। কারণ ৪:৪১ আয়াত: তখন কী অবস্থা হবে, যখন আমি প্রত্যেক উম্মত থেকে একজন সাক্ষী আনব, আর তোমাকে আনব এদের বিরুদ্ধে সাক্ষী করে? তাঁর সিদ্ধান্ত, প্রত্যেক উম্মতের সাক্ষী তার রাসূল, যিনি তার বিরুদ্ধে সাক্ষ্য দেবেন।"
+          },
+          {
+            "en": "As-Sa'di reads the scene differently again. For him a witness is drawn from each denying nation to testify to what happened in the world, their shirk and their beliefs, and he likens these witnesses to delegates chosen for a case. We selected, he explains, from the leaders of the deniers the one who would take up the dispute on their behalf and argue for his brothers, someone walking the same road as they were. Then, once they came out for judgement, the demand for proof was made.",
+            "bn": "সা'দী দৃশ্যটা আবার অন্যভাবে পড়েন। তাঁর মতে প্রত্যেক অস্বীকারকারী জাতি থেকে একজনকে বের করে আনা হবে, দুনিয়ায় যা ঘটেছিল, তাদের শিরক আর আকিদা, তার সাক্ষ্য দিতে। এদের তিনি তুলনা করেন মামলার জন্য বাছাই করা প্রতিনিধির সঙ্গে। তাঁর ব্যাখ্যা: অস্বীকারকারীদের নেতাদের মধ্য থেকে আমি এমন লোক বেছে নিলাম, যে তাদের হয়ে বিবাদে দাঁড়াবে, নিজের ভাইদের পক্ষে তর্ক করবে, আর যে তাদেরই পথের পথিক। বিচারের জন্য তারা সামনে এলে তখনই প্রমাণের দাবি তোলা হলো।"
+          },
+          {
+            "en": "So the sources fetched for this verse hold two pictures. In one, the reading of Mujahid and Qatada, also held by at-Tabari, Ibn Kathir, al-Baghawi, al-Qurtubi and the Muyassar, the prophet stands as witness against his people. In the other, as-Sa'di's, the deniers' own chosen spokesmen are brought out to plead their case. Both end in the same place, a case with no proof to offer, and this article leaves the difference standing rather than choosing between them.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তাতে তাই দুটি ছবি পাওয়া যায়। একটি মুজাহিদ আর কাতাদার ব্যাখ্যা, যা তাবারী, ইবন কাসীর, বাগাভী, কুরতুবী আর মুয়াসসারও গ্রহণ করেছেন। সেখানে নবী দাঁড়ান নিজের জাতির বিরুদ্ধে সাক্ষী হয়ে। অন্যটি সা'দীর। সেখানে অস্বীকারকারীদের নিজেদের বাছাই করা মুখপাত্রদের সামনে আনা হয় তাদের পক্ষে মামলা লড়তে। দুটোই শেষ হয় একই জায়গায়: এমন এক মামলা, যার পক্ষে দেওয়ার মতো কোনো প্রমাণ নেই। এ লেখা দুটোর একটিকে বেছে নেয় না, মতভেদটা যেমন আছে তেমনই রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked for a Proof",
+          "bn": "প্রমাণের দাবি"
+        },
+        "p": [
+          {
+            "en": "Fa-qulna hatu burhanakum: and We said, bring your proof. Qatada, in at-Tabari, glosses burhan as bayyina, your evidence. Mujahid, through both chains, says: your argument for what you used to worship and to say. At-Tabari places the demand precisely. It is addressed to the nation of each prophet that rejected his counsel, once its prophet has testified that he delivered Allah's message: bring your argument for associating partners with Allah, after Allah had left you no excuse by sending messengers and had set His proofs before you.",
+            "bn": "ফাকুলনা হাতূ বুরহানাকুম: আর আমি বললাম, তোমাদের প্রমাণ আনো। তাবারীতে কাতাদা বুরহানের অর্থ করেন বাইয়্যিনা, তোমাদের সুস্পষ্ট দলিল। মুজাহিদ দুই সূত্রেই বলেন: তোমরা যার ইবাদত করতে আর যা বলতে, তার পক্ষে তোমাদের যুক্তি। তাবারী দাবিটার জায়গা ঠিক করে দেন। এ কথা বলা হচ্ছে প্রত্যেক নবীর সেই উম্মতকে, যারা তাঁর নসিহত ফিরিয়ে দিয়েছিল, আর তখন, যখন নবী সাক্ষ্য দিয়েছেন যে আল্লাহর বার্তা তিনি পৌঁছে দিয়েছিলেন। আল্লাহ রাসূল পাঠিয়ে তোমাদের সব ওজর শেষ করে দিয়েছিলেন, তোমাদের সামনে দলিল দাঁড় করিয়েছিলেন। এরপরও আল্লাহর সঙ্গে শরীক করার পক্ষে তোমাদের যুক্তি আনো।"
+          },
+          {
+            "en": "Ibn Kathir names the claim that needs proving: the soundness of your claim that Allah has partners. Al-Baghawi puts it in the first person of the divine speech: your proof that I have a partner. As-Sa'di unfolds the demand into a string of questions. Did We command you to do this? Did My messengers command you? Did you find it anywhere in My books? Is there any among them who deserves any share of divinity? Do they benefit you, or ward off Allah's punishment from you?",
+            "bn": "কোন দাবির প্রমাণ চাওয়া হচ্ছে, ইবন কাসীর তার নাম বলে দেন: আল্লাহর শরীক আছে, তোমাদের এই দাবি যে সঠিক, তার প্রমাণ। বাগাভী কথাটা রাখেন আল্লাহর নিজের মুখের ভাষায়: আমার শরীক আছে, তার প্রমাণ। সা'দী দাবিটাকে খুলে দেন একের পর এক প্রশ্নে। আমি কি তোমাদের এর আদেশ দিয়েছিলাম? আমার রাসূলরা কি দিয়েছিলেন? আমার কোনো কিতাবে কি এর কিছু পেয়েছিলে? ওদের মধ্যে কেউ কি ইলাহ হওয়ার সামান্য অংশেরও হকদার? ওরা কি তোমাদের কোনো উপকার করতে পারে, কিংবা আল্লাহর শাস্তি ঠেকাতে পারে?"
+          },
+          {
+            "en": "He closes the string with a challenge: let them do it, if they have any standing, and let them show you, if they have any power. The same words, hatu burhanakum, are put to the idolaters in this world, in 21:24 and 27:64, when the Prophet ﷺ is told to ask them for proof of gods beside Allah. In 21:24 the verse adds that most of them do not know the truth, so they turn away. Here the question is asked a final time, before witnesses, where there is no room left to turn away from it.",
+            "bn": "প্রশ্নের সারি তিনি শেষ করেন এক চ্যালেঞ্জ দিয়ে: ওদের যোগ্যতা থাকলে করে দেখাক, ক্ষমতা থাকলে তোমাদের দেখিয়ে দিক। হাতূ বুরহানাকুম, এই একই কথা মুশরিকদের এই দুনিয়াতেও বলা হয়েছিল, ২১:২৪ ও ২৭:৬৪ আয়াতে। সেখানে নবী ﷺ-কে বলা হয়, আল্লাহর পাশাপাশি অন্য ইলাহের পক্ষে তাদের কাছে প্রমাণ চাইতে। ২১:২৪ আয়াত সঙ্গে এটাও জানায় যে তাদের বেশির ভাগ সত্য জানে না, তাই মুখ ফিরিয়ে নেয়। এখানে প্রশ্নটা করা হচ্ছে শেষবারের মতো, সাক্ষীদের সামনে, যেখানে মুখ ফিরিয়ে নেওয়ার আর কোনো সুযোগ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowledge That Came Late",
+          "bn": "যে জানা এল দেরিতে"
+        },
+        "p": [
+          {
+            "en": "Fa-'alimu anna al-haqqa lillah: then they knew that the truth is Allah's. Ibn Kathir explains it as there is no god besides Him, and adds that they did not speak and could find no answer to give. Al-Baghawi glosses al-haqq as at-tawhid, the oneness of Allah. Al-Qurtubi says they came to know the truthfulness of what the prophets had brought. At-Tabari gathers several things into the knowing: the conclusive argument belonged to Allah against them, the truth was His, His report was true, and they became certain of lasting punishment.",
+            "bn": "ফা'আলিমূ আন্নাল হাক্কা লিল্লাহ: তখন তারা জানল, সত্য আল্লাহরই। ইবন কাসীর এর ব্যাখ্যা দেন, তিনি ছাড়া কোনো ইলাহ নেই। সঙ্গে যোগ করেন, তারা মুখ খুলল না, দেওয়ার মতো কোনো জবাবও খুঁজে পেল না। বাগাভী আল-হাক্কের অর্থ করেন তাওহীদ, আল্লাহর একত্ব। কুরতুবী বলেন, নবীরা যা এনেছিলেন তা যে সত্য, এটা তারা জানতে পারল। তাবারী এই জানার মধ্যে কয়েকটি কথা একসঙ্গে রাখেন। চূড়ান্ত দলিল তাদের বিরুদ্ধে আল্লাহরই হাতে, সত্য তাঁরই, তাঁর দেওয়া খবর সত্য। আর তারা নিশ্চিত হয়ে গেল, আল্লাহর স্থায়ী শাস্তি তাদের জন্য অপেক্ষা করছে।"
+          },
+          {
+            "en": "As-Sa'di describes the same moment in the language of a court. They knew then that their claim was false and corrupt, and that the truth is Allah's. The case had turned against them, their argument was cut off, and Allah's argument had prevailed. What stays with the reader is the timing of the knowledge. They now know exactly what they had been told, but they know it at the moment when, as at-Tabari and the Muyassar say, nothing they held can help them.",
+            "bn": "সা'দী একই মুহূর্তটা বর্ণনা করেন আদালতের ভাষায়। তখন তারা জানল, তাদের কথা ছিল বাতিল ও ভ্রান্ত, আর সত্য আল্লাহরই। মামলা ঘুরে গেছে তাদেরই বিরুদ্ধে, তাদের যুক্তি ফুরিয়ে গেছে, আর আল্লাহর দলিল জয়ী হয়েছে। পাঠকের মনে যা আটকে থাকে, তা এই জানার সময়টা। যা তাদের বলা হয়েছিল, এখন তারা ঠিক তা-ই জানে। কিন্তু জানছে এমন মুহূর্তে, যখন তাবারী ও মুয়াসসারের ভাষায়, যা কিছু তারা আঁকড়ে ধরেছিল তার কিছুই তাদের কাজে আসবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gone When Called Upon",
+          "bn": "ডাকার দিনে উধাও"
+        },
+        "p": [
+          {
+            "en": "Wa-dalla 'anhum ma kanu yaftarun: and what they used to invent was lost from them. At-Tabari explains dalla as faded away and departed: the things they used to associate with Allah in the world, their guesses, and the lies they told against Him by means of them. Those things did not help them there; rather they harmed them and brought them into the fire of Hell. The Muyassar says the same in brief: it went from them and did not benefit them, but harmed them.",
+            "bn": "ওয়া দাল্লা আনহুম মা কানূ ইয়াফতারূন: আর তারা যা রচনা করত, তা তাদের কাছ থেকে হারিয়ে গেল। তাবারী দাল্লার অর্থ করেন, মিলিয়ে গেল, চলে গেল। দুনিয়ায় তারা আল্লাহর সঙ্গে যাদের শরীক করত, যত অনুমান করত, আর তাদের নিয়ে আল্লাহর নামে যত মিথ্যা বলত, সবই। সেখানে এগুলো তাদের কোনো কাজে আসেনি। উল্টো ক্ষতি করেছে, তাদের নিয়ে গেছে জাহান্নামের আগুনে। মুয়াসসারও সংক্ষেপে একই কথা বলে: সেগুলো তাদের ছেড়ে চলে গেল, কোনো উপকার করল না, বরং ক্ষতি করল।"
+          },
+          {
+            "en": "Al-Qurtubi says dalla here means went away and became void, and defines what they invented as the lie they fabricated against Allah, that there are gods with Him to be worshipped. Ibn Kathir says simply that they went and were of no benefit to them. As-Sa'di piles up the verbs: it dissolved, vanished and ceased to be. He then adds a last clause: they knew that Allah had been just with them, since He placed punishment only on those who had earned it and deserved it.",
+            "bn": "কুরতুবীর মতে এখানে দাল্লা মানে চলে গেল, বাতিল হয়ে গেল। আর তারা যা রচনা করত, তা হলো আল্লাহর নামে বানানো সেই মিথ্যা যে তাঁর সঙ্গে আরও ইলাহ আছে, যাদের ইবাদত করা যায়। ইবন কাসীর সোজা বলেন, ওরা চলে গেল, তাদের কোনো উপকারে এল না। সা'দী একের পর এক ক্রিয়া জুড়ে দেন: গলে গেল, মিলিয়ে গেল, নেই হয়ে গেল। শেষে একটা কথা যোগ করেন। তারা জানল, আল্লাহ তাদের প্রতি ন্যায়ই করেছেন। শাস্তি তিনি দিয়েছেন কেবল তাকেই, যে তা অর্জন করেছে আর যার তা প্রাপ্য।"
+          },
+          {
+            "en": "The verse closes a thread opened in 28:64, where the people are told to call on their partners, they call, and no one responds. There the partners were silent. Here they are not even present. The word dalla belongs to the root of straying and being lost, and the turn is hard to miss: what they followed in the world, and strayed by following, is now itself lost to them.",
+            "bn": "২৮:৬৪ আয়াতে যে সুতো শুরু হয়েছিল, এ আয়াত তা শেষ করে। সেখানে বলা হয়েছিল, তোমাদের শরীকদের ডাকো। তারা ডাকল, কেউ সাড়া দিল না। সেখানে শরীকরা চুপ ছিল। এখানে তারা হাজিরই নেই। দাল্লা শব্দটি সেই মূল থেকে, যার অর্থ পথ হারানো, হারিয়ে যাওয়া। মোড়টা চোখ এড়ায় না। দুনিয়ায় যার পেছনে চলে তারা পথ হারিয়েছিল, আজ সে নিজেই তাদের কাছ থেকে হারিয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When He Said, Stop",
+          "bn": "যখন তিনি বললেন, থামো"
+        },
+        "p": [
+          {
+            "en": "In Sahih al-Bukhari (4582), 'Abdullah ibn Mas'ud reports: \"Allah's Messenger (ﷺ) said to me, 'Recite (of the Qur'an) for me.' I said, 'Shall I recite it to you although it had been revealed to you?' He said, 'I like to hear (the Qur'an) from others.' So I recited Surat an-Nisa' till I reached: 'How (will it be) then when We bring from each nation a witness, and We bring you (O Muhammad) as a witness against these people?' (4:41) Then he said, 'Stop!' And behold, his eyes were overflowing with tears.\"",
+            "bn": "সহীহ বুখারীতে (৪৫৮২) আবদুল্লাহ ইবন মাসউদ (রাঃ) বর্ণনা করেন, নবী ﷺ আমাকে বললেন, 'আমাকে পড়ে শোনাও।' আমি বললাম, 'আপনাকে পড়ে শোনাব, অথচ আপনার উপরই তো নাযিল হয়েছে?' তিনি বললেন, 'অন্যের মুখে শুনতে আমার ভালো লাগে।' তখন আমি তাঁকে সূরা নিসা পড়ে শোনালাম। যখন এই আয়াতে পৌঁছলাম, 'তখন কী অবস্থা হবে, যখন আমি প্রত্যেক উম্মত থেকে একজন সাক্ষী আনব, আর তোমাকে আনব এদের বিরুদ্ধে সাক্ষী করে?' (৪:৪১), তিনি বললেন, 'থামো।' তাকিয়ে দেখি, তাঁর দুই চোখ দিয়ে অশ্রু ঝরছে।"
+          },
+          {
+            "en": "That narration is about 4:41, a parallel verse, not about 28:75, and it stands here only as a general report on the scene of the witnesses. None of the tafsir fetched for this verse attaches a hadith to it. The same scene returns in 16:84 and 16:89, where the witness is raised from among each people itself. What the narration shows is how the Prophet ﷺ received the thought of that Day: not as a point to note and pass, but with tears.",
+            "bn": "এই বর্ণনা ৪:৪১ আয়াত নিয়ে, যা আমাদের আয়াতের সমান্তরাল। ২৮:৭৫ নিয়ে নয়। এখানে তা আনা হয়েছে শুধু সাক্ষীদের দৃশ্য সম্পর্কে একটি সাধারণ বর্ণনা হিসেবে। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটি এর সঙ্গে কোনো হাদীস যুক্ত করেনি। একই দৃশ্য আবার আসে ১৬:৮৪ ও ১৬:৮৯ আয়াতে, যেখানে সাক্ষী ওঠানো হবে প্রত্যেক জাতির নিজেদের মধ্য থেকে। বর্ণনাটি দেখায়, সেই দিনের কথা নবী ﷺ কীভাবে গ্রহণ করতেন। একটা তথ্য হিসেবে টুকে রেখে এগিয়ে যাননি, গ্রহণ করেছেন চোখের পানিতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "His Court, Not Ours",
+          "bn": "আদালত তাঁর, আমাদের নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: nations that denied their messengers and set up partners with Allah, standing before Him on the Day of Judgement. The court is His, the witnesses are brought out by Him, and the verdict is His alone. It licenses nothing against any living person or community. It names no one today as one of those nations, and it hands no reader the role of witness or judge over anyone else.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা পাঠ নিজে বর্ণনা করে: যে জাতিগুলো তাদের রাসূলদের অস্বীকার করেছিল আর আল্লাহর সঙ্গে শরীক দাঁড় করিয়েছিল, তারা কিয়ামতের দিন তাঁর সামনে দাঁড়িয়ে। আদালত তাঁর, সাক্ষীদের তিনিই সামনে আনেন, রায়ও কেবল তাঁরই। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। আজকের কাউকে এটি সেই জাতিগুলোর একজন বলে চিহ্নিত করে না। কোনো পাঠককে অন্য কারও উপর সাক্ষী বা বিচারকের আসনেও বসায় না।"
+          },
+          {
+            "en": "Turned inward, the demand for proof is one a believer can put to himself now, while an answer still changes something. Whatever I lean on in place of Allah, a person, a fortune or a fear, can be asked the same question: where is my proof for it? The verse says every such invention will leave its owner stranded. And as-Sa'di's closing clause carries comfort beside the warning: Allah places punishment only on those who have earned it.",
+            "bn": "নিজের দিকে ফেরালে প্রমাণের এই দাবি একজন মুমিন আজই নিজেকে করতে পারেন, যখন জবাবে এখনো কিছু বদলায়। আল্লাহর জায়গায় আমি যার উপর ভর দিই, কোনো মানুষ, কোনো সম্পদ বা কোনো ভয়, তাকে একই প্রশ্ন করা যায়: এর পক্ষে আমার প্রমাণ কোথায়? আয়াত বলছে, এমন প্রতিটি মনগড়া ভরসা তার মালিককে একা ফেলে চলে যাবে। আর সা'দীর শেষ কথায় সতর্কবার্তার পাশে সান্ত্বনাও আছে: আল্লাহ শাস্তি দেন কেবল তাকেই, যে তা অর্জন করেছে।"
+          }
+        ]
+      }
+    ]
+  },
   "28:76": {
     "sections": [
       {

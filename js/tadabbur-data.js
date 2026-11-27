@@ -36033,6 +36033,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Call on Allah alone now, while guidance can still be taken, because on that Day every other refuge will be called and none will answer.",
     "lessonBn": "এখনই, যখন হেদায়াত গ্রহণের সময় আছে, শুধু আল্লাহকেই ডাকুন। কারণ সেদিন অন্য সব আশ্রয়কে ডাকা হবে, কেউ সাড়া দেবে না।"
+  },
+  "28:75": {
+    "reflectionEn": "The court is full. From every nation one figure is brought forward: the messenger who was sent to them, standing as witness that the message reached them. Then a single demand is made of those who set up partners beside Allah: bring your proof. There is none. The partners they called on give no answer, and everything they invented falls away, leaving only the truth that was Allah's all along. The verse does not describe an argument narrowly lost. It describes an argument that never existed. And it leaves me with a question about my own life. What have I set beside Allah, in my trust, my fear or my hopes, and what proof could I give for it on that Day?",
+    "reflectionBn": "আদালত ভরে গেছে। প্রত্যেক জাতির ভেতর থেকে একজনকে সামনে আনা হয়। তিনি সেই রাসূল, যাঁকে তাদের কাছে পাঠানো হয়েছিল। তিনি সাক্ষী, বার্তা তাদের কাছে পৌঁছেছিল। তারপর যারা আল্লাহর সঙ্গে শরীক দাঁড় করিয়েছিল, তাদের কাছে একটাই দাবি: তোমাদের প্রমাণ আনো। প্রমাণ নেই। যাদের তারা ডাকত, তারা সাড়া দেয় না। মনগড়া সবকিছু হারিয়ে যায়, থেকে যায় শুধু সেই সত্য, যা শুরু থেকেই আল্লাহর। আয়াতটি অল্পের জন্য হেরে যাওয়া কোনো তর্কের ছবি আঁকে না। এ এমন এক তর্ক, যার কোনো ভিত্তিই কখনো ছিল না। আর আমার সামনে রেখে যায় একটা প্রশ্ন। ভরসায়, ভয়ে বা আশায় আল্লাহর পাশে আমি কী বসিয়ে রেখেছি? সেদিন তার পক্ষে কোন প্রমাণ আমি দেখাতে পারব?",
+    "pointsEn": [
+      "If I were asked today for my proof for the thing I rely on most, what would I actually say?",
+      "The message reached me, and its messenger will testify that it was delivered. What have I done with what reached me?",
+      "Which of my hopes or fears rests on something that will not answer when I call on it?",
+      "Do I hold what I believe because of evidence I have looked at, or only because the people around me hold it?",
+      "When I see the truth clearly now, do I act on it, or wait for a day when knowing it will no longer help?"
+    ],
+    "pointsBn": [
+      "যে জিনিসের উপর আমি সবচেয়ে বেশি ভরসা করি, আজ যদি তার পক্ষে প্রমাণ চাওয়া হয়, আমি আসলে কী বলব?",
+      "বার্তা আমার কাছে পৌঁছেছে, আর তার রাসূল সাক্ষ্য দেবেন যে তিনি পৌঁছে দিয়েছেন। যা পৌঁছেছে, তা নিয়ে আমি কী করেছি?",
+      "আমার কোন আশা বা ভয় এমন কিছুর উপর দাঁড়িয়ে আছে, যাকে ডাকলে সে সাড়া দেবে না?",
+      "আমি যা বিশ্বাস করি, তা কি নিজে যাচাই করা দলিলের কারণে, নাকি শুধু আশপাশের মানুষ তা মানে বলে?",
+      "সত্য আজ যখন স্পষ্ট দেখছি, তখনই কি সে অনুযায়ী চলি, নাকি অপেক্ষা করি সেই দিনের, যেদিন জেনে আর কোনো লাভ হবে না?"
+    ],
+    "lessonEn": "The message has reached you and its witness stands ready. Hold nothing beside Allah that you could not defend with proof on the Day every invention falls away.",
+    "lessonBn": "বার্তা আপনার কাছে পৌঁছে গেছে, তার সাক্ষীও প্রস্তুত। যেদিন সব মনগড়া জিনিস হারিয়ে যাবে, সেদিন যার পক্ষে প্রমাণ দেখাতে পারবেন না, এমন কিছুই আল্লাহর পাশে রাখবেন না।"
   }
 };
 
