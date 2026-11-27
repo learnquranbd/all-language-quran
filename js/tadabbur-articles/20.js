@@ -5019,6 +5019,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:105": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Inside the Scene",
+          "bn": "দৃশ্যের ভেতরে এক প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Surah Ta-Ha has just finished the long account of Musa (AS) and turned back to the people who hear it. Whoever turns away from the Reminder will carry a burden on the Day of Resurrection (20:100). The Horn is blown and the criminals are gathered (20:102), murmuring to each other about how briefly they stayed (20:103 and 20:104). Then, in the middle of that scene, the verse reports a question: and they ask you about the mountains. The reply opens here and runs on through the two verses after it.",
+            "bn": "মূসা (আঃ)-এর দীর্ঘ কাহিনি শেষ করে সূরা ত্বাহা আবার ফিরে আসে তার শ্রোতাদের দিকে। যে উপদেশ থেকে মুখ ফিরিয়ে নেয়, কিয়ামাতের দিন সে বোঝা বইবে (২০:১০০)। শিঙায় ফুঁ দেওয়া হবে, অপরাধীদের জড়ো করা হবে (২০:১০২)। দুনিয়ায় তারা কত অল্প সময় ছিল, তা নিয়ে নিজেদের মধ্যে তারা ফিসফিস করবে (২০:১০৩ ও ২০:১০৪)। দৃশ্যের ঠিক মাঝখানে আয়াতটি একটা প্রশ্নের কথা জানায়: তারা তোমাকে পাহাড় সম্পর্কে জিজ্ঞেস করে। উত্তর শুরু হয় এখানেই, আর চলতে থাকে পরের দুটি আয়াত জুড়ে।"
+          },
+          {
+            "en": "Maududi, in Tafhim al-Qur'an, calls the verse a parenthesis placed there to answer an objection from some hearer. He offers a guess at its background, introduced with the words it appears: when the surah was recited, someone may have asked, as ridicule, where these high mountains would go if all people were to be running about on a level plain. He adds that Makkah, where the surah was first recited, is surrounded on all sides by high mountains. This is his surmise about the setting, and he presents it as a surmise, not as a report.",
+            "bn": "মওদূদী তাফহীমুল কুরআনে আয়াতটিকে বলেন মাঝখানে বসানো এক বন্ধনী-বাক্য, কোনো শ্রোতার আপত্তির জবাব দিতে যা আনা হয়েছে। এর পটভূমি নিয়ে তিনি একটা অনুমানও দেন, আর শুরুতেই বলে নেন যে এমনটা মনে হয়। সূরাটি তিলাওয়াতের সময় হয়তো কেউ বিদ্রূপ করে জিজ্ঞেস করেছিল: সব মানুষ যদি সমতল ময়দানে ছোটাছুটি করে, তাহলে এই উঁচু পাহাড়গুলো যাবে কোথায়? তিনি মনে করিয়ে দেন, যে মক্কায় সূরাটি প্রথম পড়া হয়েছিল, তার চারদিক উঁচু পাহাড়ে ঘেরা। এটা পটভূমি নিয়ে তাঁর অনুমান, আর তিনি একে অনুমান হিসেবেই পেশ করেন, কোনো বর্ণনা হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Remain, or Pass Away?",
+          "bn": "থেকে যাবে, নাকি মিলিয়ে যাবে?"
+        },
+        "p": [
+          {
+            "en": "The verse names only the subject of the question, so the commentators spell out what was being asked, each in his own words. Ibn Kathir: will they remain on the Day of Resurrection, or cease to exist? As-Sa'di: what will be done with them on that Day, and will they stay as they are or not? Al-Qurtubi: about the state of the mountains on the Day of Resurrection. Al-Muyassar: about the fate of the mountains on that Day. Al-Jalalayn: how will they be on the Day of Resurrection?",
+            "bn": "আয়াতে শুধু প্রশ্নের বিষয়টা বলা আছে, তাই প্রশ্নটা আসলে কী ছিল, তাফসীরকারেরা তা নিজের নিজের ভাষায় খুলে বলেন। ইবন কাসীরের ভাষায়: কিয়ামাতের দিন পাহাড়গুলো কি থেকে যাবে, নাকি বিলীন হয়ে যাবে? সা'দী বলেন: সেদিন এগুলোর কী করা হবে, এগুলো কি যেমন আছে তেমনই থাকবে, নাকি থাকবে না? কুরতুবী বলেন: প্রশ্নটা কিয়ামাতের দিন পাহাড়ের অবস্থা নিয়ে। মুয়াসসার বলে: সেদিন পাহাড়ের পরিণতি নিয়ে। আর জালালাইনের ভাষায়: কিয়ামাতের দিন সেগুলো কেমন হবে?"
+          },
+          {
+            "en": "The wordings differ, but they agree on the frame. None of them takes the question to be about mountains in this world, how they stand or what they are made of. All of them place it on the Day of Resurrection, which is where the surrounding verses already stand. Read that way the question is a natural question to ask. The listeners have just heard of the Horn and the gathering; the mountains are the largest thing in their landscape, and they want to know whether these too will be there on that Day.",
+            "bn": "ভাষা আলাদা, কিন্তু কাঠামো সবার এক। তাঁদের কেউই প্রশ্নটাকে দুনিয়ার পাহাড় নিয়ে ধরেননি, সেগুলো কীভাবে দাঁড়িয়ে আছে বা কী দিয়ে গড়া, সে প্রশ্ন এখানে নেই। সবাই প্রশ্নটাকে রেখেছেন কিয়ামাতের দিনে, আশপাশের আয়াতগুলোও যেখানে দাঁড়িয়ে আছে। এভাবে পড়লে প্রশ্নটা খুব স্বাভাবিক। শ্রোতারা এইমাত্র শিঙা আর হাশরের কথা শুনেছে। তাদের চারপাশে সবচেয়ে বড় জিনিস পাহাড়। তাই তারা জানতে চায়, সেদিন এগুলোও কি দাঁড়িয়ে থাকবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Man of Thaqif?",
+          "bn": "সাকীফের কোনো এক লোক?"
+        },
+        "p": [
+          {
+            "en": "Who asked? Al-Baghawi relays from Ibn Abbas that a man of Thaqif put this question to the Messenger of Allah ﷺ, asking how the mountains would be on the Day of Resurrection, and that Allah then revealed this verse. He gives the report without a chain of narrators and without any grading. Tanwir al-Miqbas, the commentary that circulates under Ibn Abbas's name, says only that it was the Banu Thaqif who asked. Neither text says anything more about the questioner or the occasion.",
+            "bn": "প্রশ্নটা কে করেছিল? বাগাভী ইবন আব্বাস (রাঃ)-এর সূত্রে উল্লেখ করেন, সাকীফ গোত্রের এক লোক আল্লাহর রাসূল ﷺ-কে জিজ্ঞেস করেছিল, কিয়ামাতের দিন পাহাড়গুলো কেমন হবে, আর তখন আল্লাহ এ আয়াত নাযিল করেন। বর্ণনাটি তিনি দেন কোনো সনদ ছাড়া, কোনো মান নির্ণয়ও করেন না। ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাস শুধু এটুকু বলে যে প্রশ্নকারী ছিল বনু সাকীফ। প্রশ্নকারী বা প্রেক্ষাপট নিয়ে এর বেশি কিছু দুটি লেখার কোনোটিতেই নেই।"
+          },
+          {
+            "en": "Other commentators name no one. At-Tabari reads the verse as your people ask you, O Muhammad, about the mountains, and al-Muyassar likewise says your people ask you, O Messenger. Maududi, as seen above, speaks only of some hearer. So the identity of the questioner rests on a report given without a chain, and this article does not treat it as an established occasion of revelation or build anything on it. What the text itself fixes is the placement: a question set inside a description of the Day, and answered by completing that description.",
+            "bn": "অন্য তাফসীরকারেরা কারও নাম নেন না। তাবারী আয়াতটির অর্থ করেন এভাবে: হে মুহাম্মাদ, তোমার কওম তোমাকে পাহাড় সম্পর্কে জিজ্ঞেস করে। মুয়াসসারও বলে: হে রাসূল, আপনার কওম আপনাকে জিজ্ঞেস করে। মওদূদী, আগেই দেখা গেছে, শুধু কোনো এক শ্রোতার কথা বলেন। ফলে প্রশ্নকারী কে, সে কথা দাঁড়িয়ে আছে সনদহীন একটি বর্ণনার উপর। এই লেখা তাই একে প্রতিষ্ঠিত শানে নুযূল বলে ধরে না, এর উপর কিছু দাঁড় করায়ও না। আয়াত নিজে যা নিশ্চিত করে তা হলো এর অবস্থান। প্রশ্নটা বসানো আছে কিয়ামাতের দিনের বর্ণনার ভেতরে, আর তার উত্তরও আসে সেই বর্ণনাকে পূর্ণ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Letter Before Say",
+          "bn": "'বলো'-র আগের হরফটি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi stops at a single letter. Elsewhere, when the Qur'an reports a question put to the Prophet ﷺ, the reply opens with qul, say, and nothing before it: they ask you about the new moons, say (2:189); they ask you about wine and gambling, say (2:219); they ask you about the spirit, say (17:85); they ask you about Dhul-Qarnayn, say (18:83). Here the verse has fa-qul, so say. Al-Qurtubi states the rule outright: every question in the Qur'an is answered with qul without the fa', except this one.",
+            "bn": "কুরতুবী থামেন একটিমাত্র হরফে। কুরআনে অন্য জায়গায় নবী ﷺ-কে করা কোনো প্রশ্নের কথা এলে জবাব শুরু হয় কুল দিয়ে, মানে বলো, তার আগে আর কিছু থাকে না। তারা তোমাকে নতুন চাঁদ সম্পর্কে জিজ্ঞেস করে, বলো (২:১৮৯)। মদ ও জুয়া সম্পর্কে জিজ্ঞেস করে, বলো (২:২১৯)। রূহ সম্পর্কে জিজ্ঞেস করে, বলো (১৭:৮৫)। যুলকারনাইন সম্পর্কে জিজ্ঞেস করে, বলো (১৮:৮৩)। এখানে কিন্তু আছে ফাকুল, অর্থাৎ তাহলে বলো। কুরতুবী নিয়মটা সরাসরি বলে দেন: কুরআনে প্রতিটি প্রশ্নের জবাবে কুল এসেছে ফা ছাড়া, একমাত্র এই জায়গাটি ছাড়া।"
+          },
+          {
+            "en": "He gives the reason. The fa' lends the sentence the sense of a condition: if they ask you about the mountains, then say. Allah knew that they would ask about them, and so answered them before the question was put. The other questions, he explains, had already been asked of the Prophet ﷺ, so the answer followed straight after them and came without the fa'; this question they had not yet asked. He closes with a short word to his reader: so understand it.",
+            "bn": "কারণটাও তিনি বলেন। ফা হরফটি বাক্যে শর্তের অর্থ এনে দেয়: যদি তারা তোমাকে পাহাড় সম্পর্কে জিজ্ঞেস করে, তাহলে বলো। আল্লাহ জানতেন তারা এ নিয়ে প্রশ্ন করবে, তাই প্রশ্ন ওঠার আগেই জবাব দিয়ে রেখেছেন। কুরতুবীর ব্যাখ্যায়, অন্য প্রশ্নগুলো নবী ﷺ-কে আগেই করা হয়ে গিয়েছিল, তাই জবাব এসেছে প্রশ্নের ঠিক পরে, ফা ছাড়া। আর এই প্রশ্নটা তারা তখনো করেনি। শেষে পাঠকের উদ্দেশে তিনি ছোট্ট করে বলেন: কথাটা বুঝে নাও।"
+          },
+          {
+            "en": "This sits uneasily beside the report in al-Baghawi, where a man of Thaqif asks first and the verse comes down in reply. On al-Qurtubi's reading the answer came before the question; on the report al-Baghawi relays, the question came before the answer. The two are left here side by side, with neither preferred. On either account the Prophet ﷺ is told what to say. The reply he gives is not his own estimate of what will happen to the mountains; it is given to him to pass on.",
+            "bn": "বাগাভীর বর্ণনার পাশে এ ব্যাখ্যা ঠিক মেলে না। সেখানে সাকীফের এক লোক আগে প্রশ্ন করে, তার জবাবে আয়াত নাযিল হয়। কুরতুবীর পাঠে জবাব এসেছে প্রশ্নের আগে। বাগাভী যে বর্ণনা উল্লেখ করেন, তাতে প্রশ্ন এসেছে জবাবের আগে। এখানে দুটি মতই পাশাপাশি রাখা হলো, কোনোটিকে প্রাধান্য না দিয়ে। যেভাবেই ধরা হোক, নবী ﷺ-কে বলে দেওয়া হচ্ছে কী বলতে হবে। পাহাড়ের কী হবে, সে বিষয়ে তাঁর জবাব তাঁর নিজের আন্দাজ নয়। জবাবটা তাঁকে দেওয়া হয়েছে পৌঁছে দেওয়ার জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Uprooted and Made to Fly",
+          "bn": "উপড়ে তুলে উড়িয়ে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Then the answer itself: yansifuha rabbi nasfan, my Lord will blast them away. The verb is followed by its own verbal noun, nasfan, so the action is stated and then pressed home. Al-Baghawi gives the root sense plainly: nasf is qal', uprooting. He will tear them out from their base, he says, and make them scattered dust. Al-Qurtubi glosses yansifuha with a different picture, yutayyiruha, He makes them fly. Between them the two glosses hold both halves of the word: the mountain pulled up, and the mountain sent into the air.",
+            "bn": "এবার জবাবটা নিজে: ইয়ানসিফুহা রাব্বী নাসফা, আমার রব সেগুলোকে উড়িয়ে দেবেন। ক্রিয়ার পরেই এসেছে একই ধাতুর শব্দ নাসফা, ফলে কাজটা একবার বলে আবার জোর দিয়ে বলা হয়েছে। বাগাভী শব্দের মূল অর্থটা সোজা করে বলেন: নাসফ মানে কাল', উপড়ে ফেলা। তাঁর কথায়, তিনি সেগুলোকে গোড়াসুদ্ধ উপড়ে বিক্ষিপ্ত ধুলোয় পরিণত করবেন। কুরতুবী ইয়ানসিফুহার অর্থ করেন আরেক ছবিতে: ইউতাইয়িরুহা, তিনি সেগুলোকে উড়িয়ে দেবেন। দুজনের দুটি ব্যাখ্যা মিলে শব্দটার দুই দিকই ধরা পড়ে। পাহাড় উপড়ে তোলা হয়, তারপর ছুড়ে দেওয়া হয় বাতাসে।"
+          },
+          {
+            "en": "At-Tabari gathers more into his paraphrase. Say to them, he writes, my Lord will scatter them to the wind, and make them fly by tearing them out and uprooting them from their roots, pounding some of them against others, and turning them into haba' munbath, dust scattered abroad. Ibn Kathir's Arabic is shorter and has three verbs: He takes them away from their places, effaces them, and sets them moving. Al-Muyassar keeps to the outcome: He removes them from their places and makes them scattered dust. Al-Jalalayn speaks of pulverising them into moving sand and dispersing them with the wind.",
+            "bn": "তাবারী তাঁর ব্যাখ্যায় আরও বেশি কিছু জড়ো করেন। তিনি লেখেন, তাদের বলো: আমার রব সেগুলোকে বাতাসে ছড়িয়ে দেবেন। গোড়া থেকে উপড়ে, শিকড়সুদ্ধ তুলে, একটার উপর আরেকটা আছড়ে চূর্ণ করে উড়িয়ে দেবেন, আর বানিয়ে দেবেন হাবা মুনবাস, চারদিকে ছড়ানো ধুলো। ইবন কাসীরের আরবি কথা ছোট, তাতে তিনটি ক্রিয়া: তিনি সেগুলোকে জায়গা থেকে সরিয়ে নেবেন, মুছে দেবেন, আর চলমান করে দেবেন। মুয়াসসার শুধু পরিণতিটা বলে: তিনি সেগুলোকে জায়গা থেকে সরিয়ে বিক্ষিপ্ত ধুলো বানিয়ে দেবেন। জালালাইন বলে, পিষে চলমান বালুতে পরিণত করে বাতাসে ছড়িয়ে দেবেন।"
+          },
+          {
+            "en": "The glosses lean in different directions. Al-Baghawi stresses the uprooting, al-Qurtubi the flight, Ibn Kathir the removal and the motion, and at-Tabari puts uprooting, crushing and scattering into a single sentence. These are differences of emphasis rather than a disagreement, and none of them excludes the others. What they share is the point the questioners needed answered: on that Day the mountains will neither stay where they stand nor stay whole.",
+            "bn": "ব্যাখ্যাগুলোর ঝোঁক আলাদা আলাদা দিকে। বাগাভী জোর দেন উপড়ে ফেলার উপর, কুরতুবী উড়ে যাওয়ার উপর, ইবন কাসীর সরিয়ে নেওয়া আর চলমান হওয়ার উপর। আর তাবারী উপড়ানো, চূর্ণ করা ও ছড়িয়ে দেওয়া, সবই রাখেন একটি বাক্যে। এগুলো মতভেদ নয়, গুরুত্বের পার্থক্য। কোনোটিই অন্যটিকে বাদ দেয় না। সবার মধ্যে যা মিল, প্রশ্নকারীদের জানার দরকার ছিল ঠিক সেটুকুই: সেদিন পাহাড় যেখানে আছে সেখানে থাকবে না, আস্তও থাকবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sand, Wool, Then Dust",
+          "bn": "বালু, পশম, তারপর ধুলো"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi also sets out the undoing in stages, quoting Ibn al-A'rabi and others. He will tear the mountains out from their roots, then turn them into sand that flows, then make them like carded wool that the winds blow this way and that, and then like scattered dust, haba' manthur. The quotation adds a note on 'ihn, the word for wool in the image of 101:5: it is properly only wool that has been dyed. As-Sa'di gives a similar order of stages, which is taken up with 20:106.",
+            "bn": "কুরতুবী ইবনুল আরাবী ও অন্যদের উদ্ধৃত করে এই ভেঙে পড়াকে ধাপে ধাপে সাজান। তিনি পাহাড়গুলোকে গোড়া থেকে উপড়ে ফেলবেন, তারপর বানাবেন গড়িয়ে চলা বালু, তারপর ধুনা পশমের মতো, যাকে বাতাস এদিক-ওদিক উড়িয়ে নেয়, আর শেষে ছড়ানো ধুলো, হাবা মানসূর। উদ্ধৃতিতে ইহন শব্দটি নিয়েও একটি মন্তব্য আছে, ১০১:৫ আয়াতের উপমায় পশম বোঝাতে যে শব্দ এসেছে: ইহন আসলে কেবল রং করা পশমকেই বলে। সা'দীও প্রায় একই ক্রমে ধাপগুলো সাজান, সে আলোচনা আছে ২০:১০৬ আয়াতে।"
+          },
+          {
+            "en": "These stages are the commentators' joining of images the Qur'an gives in other places. The mountains will be like carded wool (101:5); they will be crumbled and become scattered dust (56:5 and 56:6); they will be set in motion and become a mirage (78:20); and, with the same verb as this verse, when the mountains are blown away (77:10). They are cited here as parallels only. Each belongs to its own surah and setting. Most of them tell what will happen to the mountains without saying who does it; this verse names the doer: my Lord.",
+            "bn": "ধাপগুলো আসলে তাফসীরকারদের হাতে জোড়া লাগানো কয়েকটি ছবি, যা কুরআন দিয়েছে অন্য অন্য জায়গায়। পাহাড় হবে ধুনা পশমের মতো (১০১:৫)। চূর্ণবিচূর্ণ হয়ে পরিণত হবে বিক্ষিপ্ত ধুলো (৫৬:৫ ও ৫৬:৬)। চলমান করে দেওয়া হবে, ফলে হয়ে যাবে মরীচিকা (৭৮:২০)। আর এই আয়াতের একই ক্রিয়ায়: যখন পাহাড়গুলোকে উড়িয়ে দেওয়া হবে (৭৭:১০)। এখানে এগুলোর উল্লেখ কেবল সমান্তরাল আয়াত হিসেবে। প্রতিটির নিজস্ব সূরা ও প্রেক্ষাপট আছে। সেগুলোর বেশিরভাগে বলা হয়েছে পাহাড়ের কী হবে, কে করবেন তা বলা হয়নি। আর এই আয়াত যিনি করবেন তাঁর কথাই বলে দেয়: আমার রব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Reports Run Out",
+          "bn": "বর্ণনা যেখানে ফুরিয়ে যায়"
+        },
+        "p": [
+          {
+            "en": "It should be said plainly how far the evidence goes. The tafsirs consulted for this verse attach no sound hadith of the Prophet ﷺ to it. The only report about its occasion is the unchained one al-Baghawi relays, discussed above, and it is not graded. What the commentators carry instead is explanation of the words and the sequence of images drawn from other verses. At-Tabari, under the next verse, records this verse being quoted against a claim about the Rock in Jerusalem; that scene belongs to the discussion of 20:106.",
+            "bn": "প্রমাণ কতদূর যায়, সে কথা পরিষ্কার করে বলা দরকার। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো সহীহ হাদীস যুক্ত করে না। আয়াতটির প্রেক্ষাপট নিয়ে একমাত্র বর্ণনা হলো বাগাভীর উল্লেখ করা সেই সনদহীন বর্ণনা, যার কথা আগে এসেছে, আর তার কোনো মান নির্ণয় করা হয়নি। তাফসীরকারেরা এর বদলে দেন শব্দের ব্যাখ্যা, আর অন্য আয়াত থেকে নেওয়া ছবির ধারা। তাবারী পরের আয়াতের আলোচনায় উল্লেখ করেন, বাইতুল মাকদিসের পাথর নিয়ে এক দাবির জবাবে এই আয়াত পড়ে শোনানো হয়েছিল। সে ঘটনার আলোচনা ২০:১০৬ আয়াতে।"
+          },
+          {
+            "en": "The verse speaks about the Day of Resurrection, and every commentator read here keeps it there. It is not a statement about how mountains rise or wear down in this world, and this article draws no claim about the earth's physical history from it. What it gives is a promise about that Day, in words the Prophet ﷺ was told to say. Its weight does not come from any picture of the process. It comes from Him who is named as doing it: my Lord.",
+            "bn": "আয়াতটি কিয়ামাতের দিনের কথা বলে, আর এখানে যাঁদের তাফসীর পড়া হয়েছে, তাঁরা সবাই একে সেখানেই রেখেছেন। দুনিয়ায় পাহাড় কীভাবে গড়ে ওঠে বা ক্ষয়ে যায়, এ আয়াত সে বিষয়ে কোনো বক্তব্য নয়। পৃথিবীর গঠন নিয়ে কোনো দাবিও এই লেখা এখান থেকে টানে না। আয়াত যা দেয় তা সেদিনের এক প্রতিশ্রুতি, এমন ভাষায় যা নবী ﷺ-কে বলতে বলা হয়েছিল। এর ভার কোনো প্রক্রিয়ার ছবি থেকে আসে না। ভার আসে তাঁর কাছ থেকে, কাজটি যিনি করবেন বলে আয়াত জানায়: আমার রব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Asker Left Standing",
+          "bn": "প্রশ্নকারী দাঁড়িয়ে থাকে খোলা মাঠে"
+        },
+        "p": [
+          {
+            "en": "Notice where the answer leads. It does not stop at the scattered mountains. In 20:106 and 20:107 the ground is left level, with no dip and no rise, and in 20:108 people follow the caller with their voices hushed before the Most Merciful. As-Sa'di draws the line between them: the earth stands out bare and is stretched wide enough for all creatures, so that they are in a single standing place, where the caller can make them all hear and the eye can take them all in. The question about mountains ends with the askers in the open.",
+            "bn": "খেয়াল করুন, উত্তরটা কোথায় নিয়ে যায়। চূর্ণ পাহাড়ে এসে তা থামে না। ২০:১০৬ ও ২০:১০৭ আয়াতে মাটি হয়ে যায় সমান, কোথাও নিচু নেই, উঁচুও নেই। আর ২০:১০৮ আয়াতে মানুষ আহ্বানকারীর পেছনে চলে, দয়াময়ের সামনে তাদের কণ্ঠ নিচু। সা'দী দুটোর মধ্যে যোগসূত্র টানেন। পৃথিবী খোলা হয়ে বেরিয়ে আসে, আর এত বিস্তৃত হয় যে সব সৃষ্টির জায়গা হয়ে যায়। সবাই থাকে একই দাঁড়ানোর জায়গায়, যেখানে আহ্বানকারী সবাইকে শোনাতে পারেন, আর দৃষ্টি সবাইকে দেখে নিতে পারে। পাহাড় নিয়ে প্রশ্নটা শেষ হয় প্রশ্নকারীদের খোলা মাঠে দাঁড় করিয়ে।"
+          },
+          {
+            "en": "The commentary Kashf al-Asrar reads the same passage inwardly. Outwardly, it says, Allah shows His awe and force to His creatures; inwardly He honours His servants. Its image is of the earth as a carpet spread for a friend, and of the heavens, the sun, the moon, the firm mountains and the oceans as go-betweens along the friend's road, each holding up a torch. When the friend has gone, the carpet is taken up. That is the commentator's own image, offered as a reflection, and it is read here as such.",
+            "bn": "কাশফুল আসরার নামের তাফসীর এই অংশটিকে পড়ে ভেতরের দিক থেকে। তাতে বলা হয়, বাইরের দিকে আল্লাহ সৃষ্টিকে দেখান তাঁর প্রতাপ আর শক্তি, আর ভেতরের দিকে তিনি সম্মানিত করেন তাঁর বান্দাদের। সেখানে পৃথিবীর ছবি প্রিয় বন্ধুর জন্য বিছানো গালিচার মতো। আসমান, সূর্য, চাঁদ, অটল পাহাড় আর উত্তাল সাগর যেন সেই বন্ধুর পথের মধ্যস্থ, প্রত্যেকের হাতে একটি করে মশাল। বন্ধু চলে গেলে গালিচা গুটিয়ে নেওয়া হয়। ছবিটি ওই তাফসীরকারের নিজের, চিন্তার খোরাক হিসেবে দেওয়া, আর এখানে সেভাবেই পড়া হলো।"
+          },
+          {
+            "en": "For the reader, the verse turns a question around. It is easy to be curious about the end of the world as a spectacle and to forget your own place in it. The answer here satisfies the question and then carries the asker on to the plain, where nothing stands between a person and the call. There are mountains in every life, things assumed to be permanent. The reply begins with my Lord, and that is the model for meeting such questions: start from what He has said, not from guesses.",
+            "bn": "পাঠকের জন্য আয়াতটি প্রশ্নটাকে ঘুরিয়ে দেয়। দুনিয়ার শেষ নিয়ে দৃশ্য হিসেবে কৌতূহলী হওয়া সহজ, আর সেই দৃশ্যে নিজের জায়গাটা ভুলে যাওয়াও সহজ। এখানে উত্তর প্রশ্নের জবাব দেয়, তারপর প্রশ্নকারীকে নিয়ে যায় সেই ময়দানে, যেখানে মানুষ আর ডাকের মাঝখানে কোনো আড়াল নেই। প্রত্যেক জীবনেই কিছু পাহাড় আছে, যেগুলোকে চিরস্থায়ী ধরে নেওয়া হয়। জবাব শুরু হয় আমার রব দিয়ে। এমন প্রশ্নের মুখে সেটাই আদর্শ: শুরু করুন তিনি যা বলেছেন তা থেকে, অনুমান থেকে নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "20:106": {
     "sections": [
       {

@@ -34363,6 +34363,24 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Recompense answers conduct: guard against overstepping Allah's bounds and forgetting His signs, for the Hereafter's punishment is harsher than anything here, and it never ends.",
     "lessonBn": "প্রতিফল আসে আচরণের জবাবে। আল্লাহর সীমা ছাড়িয়ে যাওয়া আর তাঁর নিদর্শন ভুলে থাকা থেকে বাঁচুন, কারণ আখিরাতের আযাব এখানকার যেকোনো কষ্টের চেয়ে কঠিন, আর তা কখনো শেষ হয় না।"
+  },
+  "20:105": {
+    "reflectionEn": "In the middle of a scene of the Last Day, a question breaks in: what about the mountains? To those who first heard it, nothing on earth looked more fixed. The reply does not argue or explain how. It says: say, my Lord will scatter them to dust. Then the verses carry the asker past the mountains to open, level ground where everyone stands, voices hushed, following a single call. A question about the landscape becomes a question about the person asking. When I wonder about the end of things, am I curious about the spectacle, or getting ready for my own standing? And what in my life do I lean on as though it were a mountain?",
+    "reflectionBn": "শেষ দিনের এক দৃশ্যের ঠিক মাঝখানে হঠাৎ একটা প্রশ্ন আসে: আর পাহাড়গুলোর কী হবে? যারা প্রথম শুনেছিল, তাদের চোখে দুনিয়ায় পাহাড়ের চেয়ে অটল আর কিছু ছিল না। উত্তরে কোনো তর্ক নেই, কীভাবে ঘটবে তার ব্যাখ্যাও নেই। শুধু বলা হয়: বলো, আমার রব সেগুলোকে চূর্ণ করে উড়িয়ে দেবেন। তারপর আয়াতগুলো প্রশ্নকারীকে পাহাড় পেরিয়ে নিয়ে যায় খোলা, সমান এক ময়দানে। সেখানে সবাই দাঁড়িয়ে, কণ্ঠ নিচু, একটিমাত্র ডাকের পেছনে চলছে। প্রকৃতি নিয়ে প্রশ্নটা তখন হয়ে যায় প্রশ্নকারীর নিজেকে নিয়ে প্রশ্ন। দুনিয়ার শেষ নিয়ে যখন ভাবি, আমি কি শুধু দৃশ্যটা নিয়ে কৌতূহলী, নাকি নিজের দাঁড়ানোর প্রস্তুতি নিচ্ছি? আর জীবনে কোন জিনিসের উপর আমি এমনভাবে ভর দিই, যেন সেটা পাহাড়?",
+    "pointsEn": [
+      "What in my life do I treat as a mountain, something I simply assume will always be there?",
+      "When I ask or read about the Last Day, is it to prepare for it, or only to satisfy curiosity?",
+      "The answer here begins with \"my Lord\". When I meet a question I cannot answer, do I start from what He has said, or from my own guesses?",
+      "If the ground were levelled today and I stood in the open with nothing to hide behind, what would I wish I had done this week?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন জিনিসকে আমি পাহাড় মনে করি, ধরেই নিই যে সেটা চিরকাল থাকবে?",
+      "শেষ দিন নিয়ে যখন প্রশ্ন করি বা পড়ি, সেটা কি প্রস্তুতির জন্য, নাকি শুধু কৌতূহল মেটাতে?",
+      "এখানে উত্তর শুরু হয় \"আমার রব\" দিয়ে। যে প্রশ্নের জবাব আমার জানা নেই, সেখানে আমি কি তাঁর বলা কথা থেকে শুরু করি, নাকি নিজের অনুমান থেকে?",
+      "আজই যদি মাটি সমান হয়ে যেত আর আমি খোলা জায়গায় দাঁড়াতাম, আড়াল নেওয়ার কিছুই না থাকত, এ সপ্তাহে কী করে রাখলে ভালো হতো বলে মনে হতো?"
+    ],
+    "lessonEn": "Ask about the Last Day in order to prepare for it: your Lord will scatter the mountains, and what remains is your own standing before Him.",
+    "lessonBn": "শেষ দিন নিয়ে প্রশ্ন করুন তার প্রস্তুতি নেওয়ার জন্য: আপনার রব পাহাড়গুলোকে উড়িয়ে দেবেন, আর বাকি থাকবে তাঁর সামনে আপনার নিজের দাঁড়ানো।"
   }
 };
 
