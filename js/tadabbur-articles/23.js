@@ -291,6 +291,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "Midway Down the Heirs' List",
+          "bn": "উত্তরাধিকারীদের তালিকার মাঝপথে"
+        },
+        "p": [
+          {
+            "en": "Wa-lladhina hum li-amanatihim wa 'ahdihim ra'un: and those who are attentive to their trusts and their covenant. The surah opens with a verdict, that the believers have succeeded, and then describes them. They are humble in prayer, they turn from idle talk, they act on zakah, they guard their chastity within the bounds set in 23:6 and 23:7. This verse comes next, and after it 23:9 returns to prayer before 23:10 and 23:11 name them the heirs of Firdaus.",
+            "bn": "ওয়াল্লাযীনা হুম লি-আমানাতিহিম ওয়া আহদিহিম রাউন: আর যারা নিজেদের আমানত ও অঙ্গীকারের খেয়াল রাখে। সূরাটি শুরু হয় এক রায় দিয়ে: মুমিনরা সফল হয়ে গেছে। তারপর আসে তাদের পরিচয়। তারা নামাজে বিনয়ী, অসার কথা থেকে মুখ ফিরিয়ে রাখে, যাকাতের কাজে সক্রিয়, আর ২৩:৬ ও ২৩:৭ আয়াতের বেঁধে দেওয়া সীমার ভেতরে নিজেদের লজ্জাস্থান হেফাজত করে। এরপরই এই আয়াত। এর পরে ২৩:৯ আয়াত আবার নামাজে ফিরে যায়, আর ২৩:১০ ও ২৩:১১ আয়াত তাদের ফিরদাউসের উত্তরাধিকারী ঘোষণা করে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an numbers the qualities as it goes, and here it counts two: the fifth attribute, discharging one's trust truly and faithfully, and the sixth, fulfilling one's covenant. Al-Qurtubi quotes this verse together with 23:9 at the head of a single note. The same five Arabic words stand again at 70:32, in a parallel list in Surat al-Ma'arij, and 70:32 has its own article. Here the focus stays on what the commentators say under 23:8 itself.",
+            "bn": "মাআরিফুল কুরআন গুণগুলো গুনে গুনে এগোয়, আর এখানে এসে দুটি গোনে। পঞ্চম গুণ হলো আমানত সততা ও বিশ্বস্ততার সঙ্গে আদায় করা, ষষ্ঠ গুণ অঙ্গীকার পূরণ করা। কুরতুবী তাঁর একটি টীকার শুরুতে এই আয়াত আর ২৩:৯ আয়াত একসঙ্গে উদ্ধৃত করেন। হুবহু এই পাঁচটি আরবি শব্দ আবার আছে ৭০:৩২ আয়াতে। সূরা মাআরিজের সেই তালিকাও এর মতোই। ৭০:৩২ আয়াতের আলাদা প্রবন্ধ আছে। এখানে আলোচনা থাকবে ২৩:৮ আয়াতের নিচে তাফসীরকারেরা যা বলেছেন, তাতেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Reader Heard a Singular",
+          "bn": "এক কারীর একবচন পাঠ"
+        },
+        "p": [
+          {
+            "en": "Three of the commentators stop on a difference of recitation. At-Tabari reports that the readers of the great cities generally recite li-amanatihim, their trusts, in the plural, with one exception: Ibn Kathir read the word in the singular, amanah, so that it means their trust. Al-Qurtubi gives it in a line: the majority read the plural, and Ibn Kathir the singular. This Ibn Kathir is the Qur'an reader, one of the authorities of recitation, not the later commentator Ibn Kathir whose tafsir is quoted elsewhere in this article.",
+            "bn": "তিনজন তাফসীরকার এখানে তিলাওয়াতের একটি পার্থক্যে থামেন। তাবারী জানান, বড় বড় শহরের কারীরা সাধারণভাবে পড়েন লি-আমানাতিহিম, অর্থাৎ বহুবচনে: তাদের আমানতসমূহ। ব্যতিক্রম একজন। ইবন কাসীর শব্দটি পড়েছেন একবচনে, আমানাহ, যার অর্থ দাঁড়ায় তাদের আমানত। কুরতুবী কথাটি এক লাইনে বলেন: অধিকাংশ পড়েন বহুবচনে, ইবন কাসীর একবচনে। মনে রাখা দরকার, এই ইবন কাসীর কুরআনের কারী, কিরাআতের এক ইমাম। এই প্রবন্ধে যাঁর তাফসীর অন্যত্র উদ্ধৃত হয়েছে, পরবর্তী যুগের সেই মুফাসসির ইবন কাসীর তিনি নন।"
+          },
+          {
+            "en": "Al-Baghawi adds a reason for each side. Ibn Kathir read the singular both here and in Surat al-Ma'arij, he says, because of the word that follows, wa 'ahdihim, and their covenant, which is itself singular. The others read the plural, in keeping with 4:58: indeed, Allah commands you to render trusts to whom they are due. Al-Baghawi cites that verse as an-Nisa' 57, a difference in verse numbering; in the count used here it is 4:58. Each reading, on his account, follows a word beside it.",
+            "bn": "বাগাভী দুই পক্ষেরই একটা কারণ দেখান। তাঁর কথায়, ইবন কাসীর এখানে আর সূরা মাআরিজে দুই জায়গাতেই একবচন পড়েছেন পরের শব্দটির কারণে। ওয়া আহদিহিম, আর তাদের অঙ্গীকার, শব্দটি নিজেই একবচন। অন্যরা পড়েছেন বহুবচনে, ৪:৫৮ আয়াতের সঙ্গে মিল রেখে: নিশ্চয়ই আল্লাহ তোমাদের নির্দেশ দিচ্ছেন আমানতসমূহ তাদের হকদারের কাছে পৌঁছে দিতে। বাগাভী আয়াতটিকে উল্লেখ করেন নিসা ৫৭ হিসেবে। এটা আয়াত গণনার পার্থক্য, এখানে ব্যবহৃত গণনায় আয়াতটি ৪:৫৮। তাঁর বিবরণে দুটি পাঠের প্রত্যেকটি পাশের কোনো শব্দের অনুসরণ করে।"
+          },
+          {
+            "en": "At-Tabari states a preference. The correct reading in his view is the plural, because the authoritative body of readers, al-hujjah min al-qurra', agree upon it. Al-Qurtubi and al-Baghawi report the two readings and do not weigh them. Ma'arif al-Qur'an, working from the plural, draws a point from it: trusts are of many kinds, so the word is plural in order to include every sort, whether it concerns the rights of Allah or the rights of human beings. The sections that follow take those two kinds in turn.",
+            "bn": "তাবারী এখানে নিজের পছন্দ জানান। তাঁর মতে সঠিক পাঠ বহুবচন, কারণ কারীদের মধ্যে যাঁদের কথা প্রমাণ হিসেবে গণ্য, আল-হুজ্জাহ মিনাল কুররা, তাঁরা সবাই এ পাঠে একমত। কুরতুবী আর বাগাভী দুটি পাঠ উল্লেখ করেন, কোনোটিকে প্রাধান্য দেন না। মাআরিফুল কুরআন বহুবচন ধরে এগোয় এবং তা থেকে একটা কথা বের করে। আমানত নানা রকমের, তাই শব্দটি বহুবচনে এসেছে, যাতে সব ধরনের আমানত এর ভেতরে পড়ে, তা আল্লাহর হকের সঙ্গে জড়িত হোক বা মানুষের হকের সঙ্গে। পরের অংশগুলো এই দুই ধরন একে একে দেখবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Lord Places With Us",
+          "bn": "রব যা আমাদের হাতে রাখেন"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di says the verse is general, covering every trust that is a right of Allah and every trust that is a right of His servants. For the first kind he goes to 33:72: We offered the trust to the heavens, the earth and the mountains, and they declined to bear it and were afraid of it, but man bore it. From that verse he draws a rule. Everything Allah has made obligatory upon His servant is a trust, and the servant must keep it by carrying it out completely.",
+            "bn": "সা'দী বলেন, আয়াতটি ব্যাপক। আল্লাহর হক যে আমানত, আর তাঁর বান্দাদের হক যে আমানত, সবই এর ভেতরে পড়ে। প্রথম ধরনের জন্য তিনি ৩৩:৭২ আয়াতে যান: আমি আমানত পেশ করেছিলাম আসমান, জমিন ও পাহাড়ের সামনে, তারা তা বহন করতে অস্বীকার করল এবং ভয় পেল, আর মানুষ তা বহন করল। এই আয়াত থেকে তিনি একটি নিয়ম টানেন। আল্লাহ বান্দার উপর যা কিছু ফরজ করেছেন, সবই আমানত। পুরোপুরি পালন করেই বান্দাকে সেটা হেফাজত করতে হয়।"
+          },
+          {
+            "en": "Al-Baghawi says the trusts differ. Some lie between Allah and the servant, such as prayer, fasting and the acts of worship He made obligatory upon him. Ma'arif al-Qur'an widens the same category further. Looking after the trust that relates to the rights of Allah, it says, means performing scrupulously every injunction and duty the law makes obligatory, and also abstaining from what has been forbidden or declared undesirable. On this account a trust is kept not only by what a person does, but by what he leaves alone.",
+            "bn": "বাগাভী বলেন, আমানত এক রকম নয়। কিছু আমানত আল্লাহ আর বান্দার মাঝখানে, যেমন নামাজ, রোজা আর সেসব ইবাদত, যা তিনি বান্দার উপর ফরজ করেছেন। মাআরিফুল কুরআন এই ধরনটিকে আরেক দিকে বাড়িয়ে দেয়। তার মতে আল্লাহর হকের আমানত রক্ষা মানে শরীয়তের সব ফরজ হুকুম ও দায়িত্ব যত্নের সঙ্গে পালন করা। সেই সঙ্গে যা নিষিদ্ধ বা অপছন্দনীয় ঘোষিত, তা থেকে দূরে থাকাও এর অংশ। এ হিসাবে আমানত রক্ষা হয় শুধু কাজ করে নয়, কিছু কাজ ছেড়ে দিয়েও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Deposits, Secrets and Agreed Hours",
+          "bn": "গচ্ছিত মাল, গোপন কথা, চুক্তির সময়"
+        },
+        "p": [
+          {
+            "en": "The second kind runs between people. Ibn Kathir explains it through conduct: when they are entrusted with something they do not betray it, but render it to those it belongs to. At-Tabari speaks of the trusts with which they were entrusted, and the Muyassar of everything they were entrusted with. In none of these glosses is the trust theirs by ownership. It is called their trust because it was placed in their hands, and it is kept by being returned whole to its owner.",
+            "bn": "দ্বিতীয় ধরনের আমানত মানুষে মানুষে। ইবন কাসীর এটা বোঝান আচরণ দিয়ে: তাদের কাছে কিছু আমানত রাখা হলে তারা খেয়ানত করে না, বরং যার জিনিস তার কাছে পৌঁছে দেয়। তাবারী বলেন সেই আমানতের কথা, যা তাদের কাছে রাখা হয়েছে। মুয়াসসার বলে, তাদের কাছে যা কিছু আমানত রাখা হয়েছে, তার সবকিছুর কথা। কোনো ব্যাখ্যাতেই আমানতটা তাদের মালিকানার জিনিস নয়। তাদের আমানত বলা হচ্ছে, কারণ সেটা তাদের হাতে রাখা হয়েছে। আর তা রক্ষা হয় মালিকের কাছে অক্ষত ফিরিয়ে দিয়ে।"
+          },
+          {
+            "en": "As-Sa'di names examples: trusts of wealth and of secrets, and the like. The servant, he says, must attend to both matters and render both trusts, the one owed to Allah and the one owed to people, and he cites 4:58 on rendering trusts to whom they are due. Al-Baghawi's examples between servants are deposits, al-wada'i', and a second word, al-sana'i', which he gives without explaining. He ends with a single obligation: the servant must fulfil every one of them.",
+            "bn": "সা'দী উদাহরণ দেন: সম্পদের আমানত, গোপন কথার আমানত, আর এ ধরনের আরও কিছু। তাঁর কথায়, বান্দাকে দুই দিকেরই খেয়াল রাখতে হবে এবং দুই আমানতই আদায় করতে হবে, আল্লাহর প্রাপ্য আমানত আর মানুষের প্রাপ্য আমানত। এখানে তিনি ৪:৫৮ আয়াত উদ্ধৃত করেন, যেখানে আমানত হকদারের কাছে পৌঁছে দেওয়ার হুকুম। বাগাভীর উদাহরণ গচ্ছিত মাল, আল-ওয়াদাই, আর আরেকটি শব্দ, আস-সানাই, যার ব্যাখ্যা তিনি দেন না। শেষে তিনি একটি দায়ই বলেন: এর প্রতিটি পূরণ করা বান্দার কর্তব্য।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an says the human trusts take numerous forms, and gives three. The best known is goods held in custody, which must be returned promptly to the owner when he asks for them. Information received in confidence is also a trust, and revealing it to anyone without the permission of the person who gave it is a breach. Third, the terms agreed between employer and employee, the work, the time it takes and the wage, bind both parties, and a violation by either side is a breach of trust.",
+            "bn": "মাআরিফুল কুরআন বলে, মানুষের হকের আমানত অনেক রূপে আসে, আর সে তিনটি উদাহরণ দেয়। সবচেয়ে পরিচিত হলো কারও হেফাজতে রাখা মাল। মালিক চাইলেই তা দেরি না করে ফেরত দিতে হবে। বিশ্বাস করে বলা কথাও আমানত। যিনি বলেছেন, তাঁর অনুমতি ছাড়া কাউকে তা জানিয়ে দেওয়া খেয়ানত। তৃতীয়টি মালিক আর কর্মচারীর মাঝে ঠিক হওয়া শর্ত: কী কাজ, কতটা সময়, কত মজুরি। এই শর্ত দুই পক্ষকেই বাঁধে, আর যে পক্ষই তা ভাঙুক, সেটা আমানতের খেয়ানত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Covenant Is a Trust",
+          "bn": "প্রতিটি অঙ্গীকারই আমানত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi takes the two nouns together. Trust and covenant, he says, gather everything a person carries of the affairs of his religion and his world, in word and in deed. That takes in how one lives among people, the appointments one makes, al-mawa'id, and more besides, and the aim in all of it is to keep it and carry it out. A meeting time agreed with a friend falls under the verse as surely as a sum of money held for him.",
+            "bn": "কুরতুবী দুটি শব্দ একসঙ্গে ধরেন। তাঁর কথায়, আমানত আর অঙ্গীকার মিলে মানুষ তার দ্বীন ও দুনিয়ার যত বিষয় বহন করে, কথায় ও কাজে, তার সবকিছুকে জড়ো করে। মানুষের সঙ্গে চলাফেরা, সময় দিয়ে করা কথা, আল-মাওয়াঈদ, আর আরও অনেক কিছু এর ভেতরে পড়ে। সবখানে লক্ষ্য একটাই: হেফাজত করা এবং পালন করা। বন্ধুর সঙ্গে ঠিক করা দেখা করার সময় তাই এই আয়াতের ভেতরে পড়ে, ঠিক যেমন তার হয়ে রাখা টাকাও পড়ে।"
+          },
+          {
+            "en": "Then he ranks the two. Trust is the more general word, and every covenant is a trust in whatever has gone before it of word, deed or belief. In his ordering the covenant sits inside the trust. A pledge given is one kind of thing placed in a person's keeping, to be guarded like the rest. At-Tabari's gloss on 'ahd here is narrower in scope: their covenant is the contracts they made with people. He does not, under this verse, extend it to a covenant with Allah.",
+            "bn": "তারপর তিনি দুটির মধ্যে স্তর ঠিক করেন। আমানত বেশি ব্যাপক শব্দ। যেখানে আগে থেকে কোনো কথা, কাজ বা বিশ্বাস জড়িয়ে আছে, সেখানে প্রতিটি অঙ্গীকারই আমানত। তাঁর বিন্যাসে অঙ্গীকার আমানতের ভেতরের একটি অংশ। দেওয়া কথাও মানুষের কাছে রাখা এক রকম জিনিস, বাকি সবকিছুর মতো যার হেফাজত করতে হয়। এই আয়াতে তাবারীর ব্যাখ্যা তুলনায় সংকীর্ণ। তাঁর মতে তাদের অঙ্গীকার মানে মানুষের সঙ্গে তারা যেসব চুক্তি করেছে। এই আয়াতের আলোচনায় তিনি এটাকে আল্লাহর সঙ্গে অঙ্গীকার পর্যন্ত টানেন না।"
+          },
+          {
+            "en": "As-Sa'di does. The covenant, he says, includes the covenant between them and their Lord and that between them and His servants. He defines it as the commitments and contracts a servant takes upon himself, and draws two consequences: he must observe them and fulfil them, and it is forbidden to him to fall short in them or neglect them. So the glosses differ in reach. At-Tabari keeps the covenant of this verse among people, while as-Sa'di and al-Qurtubi read it across the whole of a person's obligations.",
+            "bn": "সা'দী তা টানেন। তাঁর কথায়, অঙ্গীকারের ভেতরে পড়ে বান্দা ও তার রবের মাঝখানের অঙ্গীকার, আবার বান্দা ও আল্লাহর অন্য বান্দাদের মাঝখানের অঙ্গীকারও। তিনি এর সংজ্ঞা দেন এভাবে: বান্দা নিজের উপর যেসব দায় ও চুক্তি চাপিয়ে নেয়। তা থেকে দুটি ফল টানেন। বান্দাকে সেগুলো খেয়াল রেখে পূরণ করতে হবে, আর সেগুলোতে ত্রুটি করা বা অবহেলা করা তার জন্য হারাম। তাই এখানে ব্যাখ্যাগুলোর পরিধি এক নয়। তাবারী এই আয়াতের অঙ্গীকারকে মানুষের মধ্যেই রাখেন। সা'দী ও কুরতুবী একে মানুষের সব দায়ের উপর ছড়িয়ে পড়েন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Contract, Then a Promise",
+          "bn": "চুক্তি, তারপর ওয়াদা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir uses two verbs for the covenant: when they pledge, 'ahadu, or contract, 'aqadu, they fulfil it. Ma'arif al-Qur'an separates the same ground into two connotations. The first is a covenant between two parties that specifies the duties and obligations of each and binds them both. A breach of it by either party, it says, is fraud and deceit, and is therefore forbidden. Here the word covers the agreements a person makes in trade, work and every exchange with another.",
+            "bn": "অঙ্গীকার বোঝাতে ইবন কাসীর দুটি ক্রিয়া ব্যবহার করেন: যখন তারা অঙ্গীকার করে, আহাদূ, কিংবা চুক্তি করে, আকাদূ, তখন তা পূরণ করে। মাআরিফুল কুরআন একই বিষয়কে দুটি অর্থে ভাগ করে। প্রথমটি দুই পক্ষের মধ্যে অঙ্গীকার, যাতে প্রত্যেকের দায়িত্ব ও কর্তব্য ঠিক করা থাকে এবং যা দুজনকেই বাঁধে। মাআরিফুলের কথায়, যে পক্ষই তা ভাঙুক, সেটা প্রতারণা ও ধোঁকা, তাই হারাম। এ অর্থে শব্দটির ভেতরে পড়ে ব্যবসা, কাজ আর অন্যের সঙ্গে প্রতিটি লেনদেনে করা সব চুক্তি।"
+          },
+          {
+            "en": "The second is one-sided: a person voluntarily promises to give something to someone, or undertakes to do some job. This is a promise, wa'dah, and Ma'arif says its fulfilment too is obligatory under the Shari'ah. It cites a brief narration on promises, without naming a source or a grading, so it is not quoted here. Its ruling stands on its own: the one who promised is morally bound to keep it, and failing to do so is a sin unless he has a religious ground for being unable to.",
+            "bn": "দ্বিতীয়টি একতরফা। কেউ নিজে থেকে কাউকে কিছু দেওয়ার ওয়াদা করে, কিংবা কোনো কাজ করে দেওয়ার দায়িত্ব নেয়। একে বলে ওয়াদা। মাআরিফুল বলে, শরীয়তের দৃষ্টিতে এটা পূরণ করাও ওয়াজিব। এখানে সে ওয়াদা বিষয়ে একটি সংক্ষিপ্ত বর্ণনা আনে, কিন্তু সূত্র বা মান উল্লেখ করে না, তাই সেটা এখানে উদ্ধৃত হলো না। তার বিধানটি নিজেই দাঁড়িয়ে আছে: যে ওয়াদা করেছে, নৈতিকভাবে তা রক্ষা করতে সে বাধ্য। শরীয়তসম্মত কোনো কারণে অক্ষম না হলে ওয়াদা ভাঙা গুনাহ।"
+          },
+          {
+            "en": "The distinction shows how far the verse reaches. A contract has two parties bound; a promise may be a sentence spoken in passing. Ma'arif places both under 'ahd, and al-Qurtubi's word al-mawa'id, appointments and promised times, points the same way. On these readings the believer of 23:8 keeps not only the agreements others could hold him to, but also the words nobody could ever enforce, the ones only he and his Lord remember he gave.",
+            "bn": "এই পার্থক্য দেখায়, আয়াতটি কতদূর পৌঁছায়। চুক্তিতে দুই পক্ষই বাঁধা থাকে। আর ওয়াদা হয়তো চলতে চলতে বলা একটা বাক্যমাত্র। মাআরিফুল দুটিকেই আহদের ভেতরে রাখে। কুরতুবীর শব্দ আল-মাওয়াঈদ, অর্থাৎ ঠিক করা সময় ও দেওয়া কথা, একই দিকে ইঙ্গিত করে। এভাবে পড়লে ২৩:৮ আয়াতের মুমিন শুধু সেসব চুক্তিই রক্ষা করে না, যা নিয়ে অন্যরা তাকে ধরতে পারে। সেসব কথাও রক্ষা করে, যা কেউ কখনো আদায় করে নিতে পারবে না, যে কথা দেওয়ার খবর শুধু সে আর তার রব জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Attentive, Not Only Honest",
+          "bn": "শুধু সৎ নয়, সজাগও"
+        },
+        "p": [
+          {
+            "en": "The verse ends on ra'un, and the commentators unpack it with words of guarding. At-Tabari says it means hafizun, guardians, who do not let things go to waste but fulfil all of it. Al-Baghawi also gives hafizun: they guard what they were entrusted with and the contracts they made with people, and they see the fulfilment through. The Muyassar splits the gloss across the two nouns. They are guardians, hafizun, of all they were entrusted with, and fulfillers, mufun, of all their covenants.",
+            "bn": "আয়াত শেষ হয় রাউন শব্দে, আর তাফসীরকারেরা একে খোলেন হেফাজতের শব্দ দিয়ে। তাবারী বলেন, এর অর্থ হাফিযূন, রক্ষাকারী। তারা কিছু নষ্ট হতে দেয় না, বরং সবটাই পূরণ করে। বাগাভীও বলেন হাফিযূন: তাদের কাছে যা আমানত রাখা হয়েছে আর মানুষের সঙ্গে যেসব চুক্তি তারা করেছে, তা তারা রক্ষা করে এবং শেষ পর্যন্ত পূরণ করে। মুয়াসসার ব্যাখ্যাটি দুই শব্দে ভাগ করে দেয়। আমানতের বেলায় তারা হাফিযূন, যা কিছু তাদের কাছে রাখা হয়েছে তার রক্ষক। অঙ্গীকারের বেলায় তারা মূফূন, সব অঙ্গীকারের পূর্ণকারী।"
+          },
+          {
+            "en": "As-Sa'di uses four words in a row: mura'un, attending to them; dabitun, keeping a firm and exact hold on them; hafizun, guarding them; and harisun, eager to carry them out and put them into effect. Ma'arif al-Qur'an renders the phrase as those who honestly look after their trusts and covenant. Ibn Kathir, by contrast, defines the keeping through what it refuses: they do not betray. Together the glosses describe steady care, not a single honest moment. A fuller unpacking of the same word, from at-Tabari on 70:32, is in that verse's article.",
+            "bn": "সা'দী পরপর চারটি শব্দ ব্যবহার করেন: মুরাউন, সেগুলোর খেয়াল রাখে; দাবিতূন, শক্ত ও নিখুঁতভাবে আঁকড়ে রাখে; হাফিযূন, হেফাজত করে; আর হারীসূন, সেগুলো পালন ও বাস্তবায়নে আগ্রহী। মাআরিফুল কুরআন বাক্যটির অর্থ করে: যারা সততার সঙ্গে নিজেদের আমানত ও অঙ্গীকারের দেখাশোনা করে। ইবন কাসীর এর বিপরীতে রক্ষা করাকে বোঝান যা থেকে তারা বিরত থাকে তা দিয়ে: তারা খেয়ানত করে না। সব ব্যাখ্যা মিলে যে ছবি দাঁড়ায়, তা একবারের সততা নয়, টানা যত্ন। একই শব্দের আরও বিস্তারিত ব্যাখ্যা, ৭০:৩২ আয়াতে তাবারীর কাছ থেকে, সে আয়াতের প্রবন্ধে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hypocrite's Signs Turned Round",
+          "bn": "মুনাফিকের আলামত, উল্টো দিক থেকে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir closes with a contrast. The people of this verse, he says, are not like the hypocrites, about whom the Messenger of Allah ﷺ spoke. The wording he gives is in Sahih al-Bukhari (33), from Abu Hurayrah: The Prophet ﷺ said, \"The signs of a hypocrite are three: 1. Whenever he speaks, he tells a lie. 2. Whenever he promises, he always breaks it (his promise). 3. If you trust him, he proves to be dishonest. (If you keep something as a trust with him, he will not return it.)\"",
+            "bn": "ইবন কাসীর শেষ করেন একটি তুলনা দিয়ে। তিনি বলেন, এই আয়াতের মানুষেরা মুনাফিকদের মতো নয়, যাদের সম্পর্কে আল্লাহর রাসূল ﷺ কথা বলেছেন। তিনি যে শব্দে হাদিসটি আনেন, তা সহীহ বুখারীতে আছে (৩৩), আবু হুরায়রা (রাঃ) থেকে। নবী ﷺ বলেছেন: \"মুনাফিকের আলামত তিনটি। ১. যখন কথা বলে, মিথ্যা বলে। ২. যখন ওয়াদা করে, তা ভঙ্গ করে। ৩. তাকে বিশ্বাস করলে সে খেয়ানত করে। (তার কাছে কিছু আমানত রাখলে সে তা ফেরত দেয় না।)\""
+          },
+          {
+            "en": "This is a general narration, brought as a contrast, and not attached to the verse as the occasion of its revelation; none of the commentaries fetched for 23:8 gives an occasion. Two of its three signs are the two nouns of this verse in the negative: the promise broken and the trust betrayed. A fuller form, al-Bukhari's four-trait narration from 'Abdullah ibn 'Amr, is quoted in the articles on 16:94 and 70:32 and is not repeated here. Ibn Kathir brings no other hadith on this verse.",
+            "bn": "এটি একটি সাধারণ বর্ণনা, তুলনা হিসেবে আনা। আয়াত নাজিলের উপলক্ষ হিসেবে এটি এই আয়াতের সঙ্গে যুক্ত নয়। ২৩:৮ আয়াতের যত তাফসীর দেখা হয়েছে, তার কোনোটিই নাজিলের কোনো উপলক্ষ উল্লেখ করে না। হাদিসের তিনটি আলামতের দুটি এই আয়াতের দুই শব্দেরই উল্টো রূপ: ভাঙা ওয়াদা আর খেয়ানত করা আমানত। আবদুল্লাহ ইবন আমর (রাঃ) থেকে বুখারীর চার স্বভাবের যে পূর্ণাঙ্গ বর্ণনা, তা ১৬:৯৪ ও ৭০:৩২ আয়াতের প্রবন্ধে উদ্ধৃত আছে, এখানে আর আনা হলো না। এই আয়াতে ইবন কাসীর আর কোনো হাদিস আনেন না।"
+          },
+          {
+            "en": "The contrast should be read in the right direction. The verse describes what the text describes: a quality of the believers who succeed, with its opposite named so that it can be recognised and avoided. It licenses nothing against any living person or community. It gives no one the right to call another person a hypocrite over a late payment or a forgotten appointment. The signs are a mirror. Each reader holds them up to his own promises and his own trusts, and to no one else's.",
+            "bn": "তুলনাটা পড়তে হবে ঠিক দিক থেকে। আয়াতটি যা বর্ণনা করে, তা-ই বর্ণনা করে: সফল মুমিনদের একটি গুণ, আর তার উল্টোটার নাম, যাতে তা চেনা যায় এবং তা থেকে বাঁচা যায়। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। দেরিতে পাওনা শোধ বা ভুলে যাওয়া সাক্ষাতের জন্য অন্য কাউকে মুনাফিক বলার অধিকার এটি কাউকে দেয় না। আলামতগুলো আয়না। প্রত্যেক পাঠক তা ধরবেন নিজের ওয়াদা আর নিজের আমানতের সামনে, অন্য কারও নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "23:11": {
     "sections": [
       {

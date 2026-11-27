@@ -34779,6 +34779,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Meat and blood stay on the earth; only the taqwa behind the act reaches Allah. Give for His sake alone, and magnify Him for the guidance that brought you to give.",
     "lessonBn": "গোশত আর রক্ত দুনিয়াতেই থেকে যায়, আল্লাহর কাছে পৌঁছায় কেবল আমলের পেছনের তাকওয়া। দিন কেবল তাঁরই জন্য, আর যে হেদায়েত আপনাকে দিতে শিখিয়েছে, তার জন্য তাঁর বড়ত্ব ঘোষণা করুন।"
+  },
+  "23:8": {
+    "reflectionEn": "The list of those who succeed moves from prayer to speech, to giving, to chastity, and then to this: they are attentive to their trusts and their promises. Not merely honest when tested, but watchful, the way a shepherd watches a flock that is not his own. A trust is anything placed in my hands: the prayer Allah made my duty, a friend's secret, a borrowed book, the hours my employer pays for. A promise is any word I gave, to Him or to a person, including the small ones I made without thinking. Nothing I hold is mine to neglect. What have I been handed that I have stopped looking after? And which promise of mine is still waiting to be kept?",
+    "reflectionBn": "সফল মানুষদের তালিকা নামাজ থেকে কথাবার্তায় যায়, তারপর দানে, তারপর চারিত্রিক পবিত্রতায়। এরপর আসে এই গুণ: তারা নিজেদের আমানত আর ওয়াদার খেয়াল রাখে। শুধু পরীক্ষার মুহূর্তে সৎ থাকা নয়, বরং সারাক্ষণ নজর রাখা, যেমন রাখাল নজর রাখে এমন পালের উপর, যা তার নিজের নয়। আমার হাতে যা কিছু রাখা হয়েছে, সবই আমানত। আল্লাহ যে নামাজ ফরজ করেছেন, বন্ধুর বলা গোপন কথা, ধার করে আনা বই, মালিক যে সময়ের জন্য বেতন দেন। আর ওয়াদা হলো আমার দেওয়া যেকোনো কথা, আল্লাহকে হোক বা মানুষকে। না ভেবে দেওয়া ছোট কথাগুলোও এর বাইরে নয়। আমার কাছে যা আছে, তার কোনোটাই অবহেলা করার মতো আমার নিজের জিনিস নয়। আমার হাতে দেওয়া কোন জিনিসের খেয়াল রাখা আমি ছেড়ে দিয়েছি? আর আমার কোন ওয়াদা এখনো পূরণের অপেক্ষায় পড়ে আছে?",
+    "pointsEn": [
+      "Which duty to Allah have I been treating as a habit to get through rather than a trust to hand back in good order?",
+      "What has someone told me in confidence that I have since repeated, even as a harmless story?",
+      "At work, do I give the time and effort I agreed to, or only what I think will be noticed?",
+      "Which promise have I quietly let lapse because the other person seems to have forgotten it?",
+      "When I say \"I will\", do I mean it as a word I am bound by, or as a polite way to end the conversation?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কোন দায়িত্বটা আমি অভ্যাসের মতো কোনোরকমে সেরে ফেলছি, অথচ সেটা ছিল ঠিকঠাক অবস্থায় ফিরিয়ে দেওয়ার মতো আমানত?",
+      "কেউ বিশ্বাস করে আমাকে কী বলেছিল, যা পরে আমি অন্যকে বলে ফেলেছি, নিছক গল্পের ছলে হলেও?",
+      "কাজের জায়গায় আমি কি কথামতো পুরো সময় আর শ্রম দিই, নাকি ততটুকুই দিই, যতটুকু চোখে পড়বে বলে মনে হয়?",
+      "কোন ওয়াদাটা আমি চুপচাপ ফেলে রেখেছি, শুধু এই ভেবে যে অন্যজন হয়তো ভুলে গেছে?",
+      "আমি যখন বলি \"করব\", তখন কি সেটাকে নিজের উপর বাধ্যতামূলক কথা ভাবি, নাকি আলাপ শেষ করার ভদ্র উপায়?"
+    ],
+    "lessonEn": "Treat everything placed in your hands, from your prayer to a friend's secret, as a trust you will return, and keep every promise you give, large or small.",
+    "lessonBn": "নামাজ থেকে বন্ধুর গোপন কথা পর্যন্ত হাতে যা আসে, সবই ফিরিয়ে দেওয়ার মতো আমানত ভাবুন, আর ছোট-বড় প্রতিটি ওয়াদা পূরণ করুন।"
   }
 };
 
