@@ -37633,6 +37633,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The One who gives you night for rest and day for sight is the Creator of all things; let nothing He created pull your worship away from Him.",
     "lessonBn": "যিনি আপনাকে বিশ্রামের জন্য রাত আর দেখার জন্য দিন দিয়েছেন, তিনিই সব কিছুর স্রষ্টা। তাঁর সৃষ্টি কোনো কিছুই যেন আপনার ইবাদতকে তাঁর কাছ থেকে সরিয়ে নিতে না পারে।"
+  },
+  "41:20": {
+    "reflectionEn": "The long march ends at the edge of the Fire, and there the witnesses speak. Not a stranger this time, not a rival, not a crowd: their own hearing, their own eyes, their own skin. The ears report what they listened to, the eyes what they looked at, the skin what the whole body did. A person can question an accuser, doubt a record, shout down a crowd. How do you argue with your own body? The verse speaks of those it names the enemies of Allah, and it licenses no verdict on anyone alive. For me it is a mirror held up early. The same ears, eyes and skin are with me today, and they are still taking it all in.",
+    "reflectionBn": "দীর্ঘ যাত্রা শেষ হয় আগুনের কিনারায়, আর সেখানেই সাক্ষীরা মুখ খোলে। এবার কোনো অচেনা লোক নয়, কোনো প্রতিপক্ষ নয়, কোনো জনতাও নয়। সাক্ষী তাদের নিজেদের কান, নিজেদের চোখ, নিজেদের চামড়া। কান বলে দেয় সে কী শুনেছিল, চোখ বলে সে কী দেখেছিল, আর চামড়া বলে গোটা শরীর কী করেছিল। অভিযোগকারীকে প্রশ্ন করা যায়, নথিতে সন্দেহ তোলা যায়, জনতার আওয়াজ চাপা দেওয়া যায়। কিন্তু নিজের শরীরের সঙ্গে তর্ক চলে কীভাবে? আয়াতটি তাদের কথা বলে, যাদের সে আল্লাহর দুশমন বলে চিহ্নিত করেছে। জীবিত কারও ব্যাপারে রায় দেওয়ার কোনো অনুমতি এতে নেই। আমার জন্য এ যেন আগেভাগে তুলে ধরা এক আয়না। সেই কান, সেই চোখ, সেই চামড়া আজও আমার সঙ্গে আছে, আর সবকিছু এখনো টুকে রাখছে।",
+    "pointsEn": [
+      "If my ears were asked tonight what they listened to today, what would they mention first?",
+      "Is there something I look at in private that I would not want my own eyes to describe?",
+      "When I am caught in a fault, is my first move to deny it, or to admit it while admitting still helps me?",
+      "Which of my habits depends on no one seeing it, and have I forgotten that I see it myself?",
+      "What good could I give my hearing, sight and skin to report, starting this week?"
+    ],
+    "pointsBn": [
+      "আজ রাতে যদি আমার কানকে জিজ্ঞেস করা হয়, সারাদিন সে কী শুনেছে, প্রথমেই কোন কথাটা বলবে?",
+      "একান্তে এমন কিছু কি দেখি, যার বিবরণ আমার নিজের চোখ দিক, তা আমি চাই না?",
+      "কোনো ভুলে ধরা পড়লে আমার প্রথম চেষ্টা কি অস্বীকার করা, নাকি এমন সময়ে স্বীকার করা যখন স্বীকারোক্তি এখনো কাজে আসে?",
+      "আমার কোন অভ্যাস টিকে আছে শুধু এ ভরসায় যে কেউ দেখছে না? আমি নিজেই যে দেখছি, সে কথা কি ভুলে গেছি?",
+      "এ সপ্তাহ থেকেই আমার কান, চোখ আর চামড়াকে বলার মতো কোন ভালো কাজ দিতে পারি?"
+    ],
+    "lessonEn": "Denial will find no room when your own hearing, eyes and skin speak; admit your faults to Allah now, while admitting still helps, and give your limbs good to report.",
+    "lessonBn": "যেদিন আপনার নিজের কান, চোখ আর চামড়া কথা বলবে, সেদিন অস্বীকারের কোনো জায়গা থাকবে না। তাই এখনই, যখন স্বীকারোক্তি কাজে আসে, আল্লাহর কাছে নিজের ভুল স্বীকার করুন, আর অঙ্গগুলোকে বলার মতো ভালো কাজ দিন।"
   }
 };
 

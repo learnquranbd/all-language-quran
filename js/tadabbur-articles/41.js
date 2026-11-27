@@ -1035,6 +1035,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "41:20": {
+    "sections": [
+      {
+        "h": {
+          "en": "Driven to the Edge",
+          "bn": "কিনারা পর্যন্ত তাড়িয়ে আনা"
+        },
+        "p": [
+          {
+            "en": "Hatta idha ma ja'uha shahida 'alayhim sam'uhum wa absaruhum wa juluduhum bima kanu ya'malun: until, when they come to it, their hearing, their eyes and their skins testify against them about what they used to do. The verse is twelve Arabic words long, and it completes a sentence begun in 41:19, where the enemies of Allah are gathered to the Fire, fahum yuza'un. The opening word hatta, until, ties the two verses together: the testimony comes at the end of a march.",
+            "bn": "হাত্তা ইযা মা জাউহা শাহিদা আলাইহিম সাম'উহুম ওয়া আবসারুহুম ওয়া জুলূদুহুম বিমা কানূ ইয়া'মালূন: শেষে যখন তারা সেখানে পৌঁছবে, তাদের কান, তাদের চোখ আর তাদের চামড়া তাদের কৃতকর্মের ব্যাপারে তাদের বিরুদ্ধে সাক্ষ্য দেবে। আরবিতে আয়াতটি বারোটি শব্দের। এর বাক্য শুরু হয়েছে আগের আয়াতে, ৪১:১৯-এ, যেখানে আল্লাহর দুশমনদের আগুনের দিকে জড়ো করা হয়, ফাহুম ইউযা'ঊন। প্রথম শব্দ হাত্তা, মানে শেষ পর্যন্ত, দুই আয়াতকে এক সুতোয় বাঁধে। সাক্ষ্যের পালা আসে এক দীর্ঘ যাত্রার শেষে।"
+          },
+          {
+            "en": "The commentators read yuza'un in two ways. Ma'arif al-Qur'an says most exegetes take it from waz', to stop or hold back: the front of the vast crowd is halted for a while so that those at the rear can catch up, to keep the march in order. It adds, citing al-Qurtubi, that some render it as pushed, driven along by force. Ibn Kathir says the keepers of Hell gather the first of them with the last, and sets beside it 19:86, where the criminals are driven to Jahannam. The Muyassar says much the same.",
+            "bn": "ইউযা'ঊন শব্দটি তাফসীরকারেরা দুইভাবে পড়েন। মাআরিফুল কুরআন বলে, অধিকাংশ মুফাসসির একে ওয়া'য থেকে নিয়েছেন, যার মানে থামানো বা আটকে রাখা। বিশাল সেই দলের সামনের অংশকে কিছুক্ষণ থামিয়ে রাখা হবে, যাতে পেছনের লোকেরা এসে মিলতে পারে, আর যাত্রায় বিশৃঙ্খলা না হয়। কুরতুবীর বরাতে সে আরও জানায়, কেউ কেউ এর অর্থ করেছেন ধাক্কা দিয়ে হাঁকিয়ে নেওয়া। ইবন কাসীর বলেন, জাহান্নামের রক্ষীরা তাদের প্রথমজনকে শেষজনের সঙ্গে জড়ো করবে। পাশে তিনি রাখেন ১৯:৮৬ আয়াত, যেখানে অপরাধীদের জাহান্নামের দিকে হাঁকিয়ে নেওয়ার কথা আছে। মুয়াসসারও প্রায় একই কথা বলে।"
+          },
+          {
+            "en": "Who are they? The verse takes its subject from 41:19, a'da' Allah, the enemies of Allah, and describes a scene on the Day of Judgement among people the Qur'an itself names that way. It describes what it describes and licenses nothing against any living person or community. No reader may lift that name from 41:19 and fasten it on a neighbour, a rival or a group. What the verse hands the living is a question about their own ears, eyes and skin, and that is where the commentators below keep it.",
+            "bn": "এরা কারা? আয়াতটি তার কর্তা নিয়েছে ৪১:১৯ থেকে: আ'দাউল্লাহ, আল্লাহর দুশমন। কিয়ামতের দিনের একটি দৃশ্য এখানে, সেই লোকদের মধ্যে, যাদের কুরআন নিজেই এ নামে ডেকেছে। আয়াত যা বর্ণনা করে, শুধু সেটুকুই বর্ণনা করে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি এতে নেই। ৪১:১৯-এর ওই নাম তুলে নিয়ে প্রতিবেশী, প্রতিপক্ষ বা কোনো দলের গায়ে সেঁটে দেওয়ার অধিকার কোনো পাঠকের নেই। জীবিতদের হাতে আয়াতটি তুলে দেয় একটি প্রশ্ন, তাদের নিজেদের কান, চোখ আর চামড়া নিয়ে। নিচের তাফসীরকারেরাও আলোচনাকে সেখানেই রাখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Arriving, Then Denying",
+          "bn": "পৌঁছেই অস্বীকার"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi notes that ma in hatta idha ma ja'uha is za'ida, an added particle, so the clause reads simply: until, when they come to it. At-Tabari names what they come to: until, when they came to the Fire. Ibn Kathir fixes the moment more closely with waqafu 'alayha, they stood at it, which the English abridgement renders as standing at its edge. On these glosses the testimony is given on arrival, at the Fire itself, and the verse says nothing yet of anything beyond that point.",
+            "bn": "কুরতুবী জানান, হাত্তা ইযা মা জাউহা বাক্যে মা শব্দটি যায়িদা, অর্থাৎ বাড়তি অব্যয়। তাই বাক্যের সোজা অর্থ: শেষে যখন তারা সেখানে পৌঁছবে। তারা কোথায় পৌঁছবে, তাবারী তা বলে দেন: যখন তারা আগুনের কাছে এল। ইবন কাসীর মুহূর্তটা আরও নির্দিষ্ট করেন: ওয়াকাফূ আলাইহা, তারা এর সামনে দাঁড়াল। ইংরেজি সংক্ষিপ্ত সংস্করণে এর অনুবাদ, তারা এর কিনারায় দাঁড়াবে। এসব ব্যাখ্যা অনুযায়ী সাক্ষ্য হয় পৌঁছানো মাত্র, আগুনের সামনেই। এর পরে কী ঘটবে, আয়াতটি তখনো কিছু বলে না।"
+          },
+          {
+            "en": "Why would witnesses be needed at that point? Two commentators supply the missing step. The Muyassar says that when they came to the Fire and denied their crimes, their hearing, sight and skins testified against them. As-Sa'di gives it as a choice: when they arrived at the Fire and wanted to deny, or did deny, the sins they had committed. Either way, on their reading, the limbs speak in answer to a denial. Al-Baghawi records from Muqatil that their limbs utter what their tongues had concealed of their deeds.",
+            "bn": "সেই মুহূর্তে সাক্ষীর দরকার পড়বে কেন? মাঝের ধাপটা দুজন তাফসীরকার পূরণ করে দেন। মুয়াসসার বলে, আগুনের কাছে এসে তারা যখন নিজেদের অপরাধ অস্বীকার করল, তখন তাদের কান, চোখ আর চামড়া তাদের বিরুদ্ধে সাক্ষ্য দিল। সা'দী দুটো সম্ভাবনা রাখেন: আগুনের কাছে পৌঁছে তারা নিজেদের গুনাহ অস্বীকার করতে চাইল, অথবা সত্যিই অস্বীকার করল। যেভাবেই হোক, তাঁদের পাঠে অঙ্গগুলো মুখ খোলে অস্বীকারের জবাবে। বাগাভী মুকাতিলের কথা উদ্ধৃত করেন: জিহ্বা তাদের যে আমল গোপন করেছিল, অঙ্গপ্রত্যঙ্গ তা বলে দেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Ears Leaned Toward",
+          "bn": "কান যেদিকে ঝুঁকেছিল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari pairs each witness with its own record. Their hearing testifies to what they used to listen to in the world, what they bent their ears towards and heard; their eyes testify to what they used to look at in the world. The verbs he chooses are verbs of attention, yusghun and yanzurun, leaning the ear and turning the gaze. On his gloss the testimony concerns what each organ was turned towards. The verse then closes the list with the skins and with bima kanu ya'malun, what they used to do, a habitual past.",
+            "bn": "তাবারী প্রত্যেক সাক্ষীর সঙ্গে তার নিজের খাতা জুড়ে দেন। কান সাক্ষ্য দেবে দুনিয়ায় তারা কী শুনত, কোন কথার দিকে কান পেতে দিত। চোখ সাক্ষ্য দেবে দুনিয়ায় তারা কীসের দিকে তাকাত। তিনি যে ক্রিয়াগুলো বেছে নেন, ইউসগূন আর ইয়ানযুরূন, দুটোই মনোযোগের ক্রিয়া: কান ঝুঁকিয়ে দেওয়া আর দৃষ্টি ফেরানো। তাঁর ব্যাখ্যায় সাক্ষ্যের বিষয় হলো, কোন অঙ্গ কোন দিকে ফিরেছিল। তারপর আয়াতটি তালিকা শেষ করে চামড়া দিয়ে, আর বিমা কানূ ইয়া'মালূন দিয়ে, অর্থাৎ যা তারা করে আসছিল, দিনের পর দিনের অভ্যাস।"
+          },
+          {
+            "en": "As-Sa'di reads the list as moving from the particular to the general, 'umum ba'da khusus. In the end, he says, every limb of theirs testifies against them, and each one says: I did such and such, on such and such a day. Why then are these three named? Because, he answers, most sins happen through them, or because of them. On his reading the verse names three of the busiest doors of wrongdoing, and the rest of the body is understood to stand behind them in the same testimony.",
+            "bn": "সা'দী তালিকাটিকে দেখেন নির্দিষ্ট থেকে সাধারণের দিকে যাত্রা হিসেবে: উমূম বা'দা খুসূস। শেষ পর্যন্ত, তিনি বলেন, তাদের প্রতিটি অঙ্গই তাদের বিরুদ্ধে সাক্ষ্য দেবে। প্রত্যেকে বলবে: অমুক দিনে আমি অমুক কাজ করেছি। তাহলে বিশেষ করে এ তিনটির নাম কেন? তাঁর উত্তর: বেশির ভাগ গুনাহ এগুলোর মাধ্যমেই ঘটে, নয়তো এগুলোর কারণে ঘটে। তাঁর পাঠে আয়াতটি গুনাহের সবচেয়ে ব্যস্ত তিনটি দরজার নাম নেয়। বাকি শরীরও একই সাক্ষ্যে তাদের পেছনে দাঁড়িয়ে আছে বলে ধরে নিতে হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Skins, or What They Cover",
+          "bn": "চামড়া, নাকি যা ঢাকা থাকে"
+        },
+        "p": [
+          {
+            "en": "On juluduhum, their skins, the commentators record a difference. Al-Qurtubi says that in the view of most commentators the word means the skins themselves. Al-Baghawi glosses it as basharatuhum, the outer surface of their bodies. Against this, al-Qurtubi names as-Suddi, Ubaydullah ibn Abi Ja'far and al-Farra' as holding that the skins here mean the private parts, and al-Baghawi gives the same view from as-Suddi and a group with him. At-Tabari reports it from Ubaydullah ibn Abi Ja'far in two words: their skins, the private parts.",
+            "bn": "জুলূদুহুম, তাদের চামড়া, এ শব্দ নিয়ে তাফসীরকারেরা একটি মতভেদ লিখে রেখেছেন। কুরতুবী বলেন, অধিকাংশ মুফাসসিরের মতে এখানে চামড়া মানে চামড়াই। বাগাভী এর অর্থ করেন বাশারাতুহুম, অর্থাৎ শরীরের বাইরের আবরণ। অন্যদিকে কুরতুবী জানান, সুদ্দী, উবাইদুল্লাহ ইবন আবী জা'ফর আর ফাররার মতে এখানে চামড়া বলতে লজ্জাস্থান বোঝানো হয়েছে। বাগাভীও একই মত আনেন সুদ্দী ও তাঁর সঙ্গে আরও একদল আলিমের নামে। তাবারী উবাইদুল্লাহ ইবন আবী জা'ফর থেকে মতটি উদ্ধৃত করেন মাত্র দুই শব্দে: তাদের চামড়া মানে তাদের লজ্জাস্থান।"
+          },
+          {
+            "en": "Al-Qurtubi supports the second view from usage. He quotes a line of poetry he attributes to Amir ibn Juwayya and says that in it a man's skin is a kinaya, a courteous allusion, for his private part. On this view the verse names the covering and means what it covers. At-Tabari also relays a report on the same point through a chain whose narrator, a man of the family of Abu Aqil, raised it. It is not confirmed on any collection page fetched for this verse and carries no grading here, so nothing is built on it.",
+            "bn": "দ্বিতীয় মতের পক্ষে কুরতুবী ভাষার ব্যবহার থেকে প্রমাণ আনেন। তিনি আমির ইবন জুওয়াইয়ার নামে একটি কবিতার পঙ্‌ক্তি উদ্ধৃত করেন এবং বলেন, সেখানে মানুষের চামড়া শব্দটি কিনায়া, অর্থাৎ শালীন ইঙ্গিত, তার লজ্জাস্থানের জন্য। এ মত অনুযায়ী আয়াতটি আবরণের নাম বলে বোঝাচ্ছে তার নিচে যা ঢাকা আছে। তাবারী এ বিষয়ে আরেকটি বর্ণনাও আনেন, যার বর্ণনাকারী আবূ আকীল পরিবারের এক ব্যক্তি সেটিকে মারফূ' হিসেবে পেশ করেছেন। এ আয়াতের জন্য খোঁজা কোনো হাদীস সংকলনের পাতায় তা নিশ্চিত হয়নি, কোনো মানও এখানে জানা নেই। তাই এর উপর কিছুই দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Keeps Its Known Sense",
+          "bn": "শব্দের চেনা অর্থই আগে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari does not leave the two readings side by side; he weighs them. The private-parts reading, he says, is a meaning the interpretation can bear, but it is neither the predominant nor the best-known meaning of juloud. And it is not permissible, he continues, to carry a word's well-known meaning over to something nearer to another sense, except on a proof that must be accepted. He brings no such proof for the second reading, and keeps the skins as skins, on the side that al-Qurtubi counts as the view of most commentators.",
+            "bn": "তাবারী দুই পাঠকে শুধু পাশাপাশি রেখে দেন না, তিনি এগুলো ওজন করেন। লজ্জাস্থানের ব্যাখ্যা, তিনি বলেন, তাফসীরে সম্ভব বটে, তবে জুলূদ শব্দের প্রধান অর্থও এটি নয়, সবচেয়ে প্রসিদ্ধ অর্থও নয়। তারপর তিনি একটি নিয়ম বলেন: কোনো শব্দের চেনা অর্থ সরিয়ে তাকে অন্য অর্থের কাছাকাছি কিছুতে নিয়ে যাওয়া বৈধ নয়, যদি না এমন প্রমাণ থাকে যা মেনে নিতেই হয়। দ্বিতীয় পাঠের পক্ষে তিনি এমন কোনো প্রমাণ আনেন না। তাই তিনি চামড়াকে চামড়া হিসেবেই রাখেন, সেই দিকে, যাকে কুরতুবী অধিকাংশ মুফাসসিরের মত বলে গোনেন।"
+          },
+          {
+            "en": "That is at-Tabari's judgement, with his reason stated. As-Suddi, Ubaydullah ibn Abi Ja'far and al-Farra' remain on record for the other view, carried by al-Qurtubi and al-Baghawi without rebuttal, and this page keeps both. In practice the two readings do not pull far apart. On the first, the whole surface of the body is a witness, and nothing it touched lies outside the testimony. On the second, the verse names with modesty the most private part of a person. Either way, what a person most guards from other eyes is made to speak.",
+            "bn": "এটা তাবারীর নিজের সিদ্ধান্ত, কারণসহ বলা। অন্য মতের পক্ষে সুদ্দী, উবাইদুল্লাহ ইবন আবী জা'ফর আর ফাররার নাম লিপিবদ্ধ আছে। কুরতুবী ও বাগাভী মতটি এনেছেন, খণ্ডন করেননি। এ লেখাও দুই মতই রেখে দিচ্ছে। বাস্তবে দুই পাঠের দূরত্ব খুব বেশি নয়। প্রথম পাঠে শরীরের গোটা আবরণই সাক্ষী, সে যা কিছু ছুঁয়েছে, কিছুই সাক্ষ্যের বাইরে থাকে না। দ্বিতীয় পাঠে আয়াতটি শালীনতার সঙ্গে মানুষের সবচেয়ে গোপন অঙ্গের কথা বলে। যেভাবেই পড়ুন, মানুষ অন্যের চোখ থেকে যা সবচেয়ে বেশি আড়াল করে রাখে, সেটাকেই কথা বলানো হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Letter Kept Back",
+          "bn": "একটি হরফও লুকানো যাবে না"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains bima kanu ya'malun as their deeds, what they sent ahead and what they held back, and adds: la yuktamu minhu harf, not a single letter of it is concealed. The English abridgement puts it as all their deeds, earlier and later. The Muyassar names the content: the sins and wrongs they used to commit in the world. Both readings make the testimony complete. It is not a sample of a life chosen by its owner, but an account given by the very parts that did the living.",
+            "bn": "বিমা কানূ ইয়া'মালূন, ইবন কাসীর এর ব্যাখ্যা করেন: তাদের আমল, যা তারা আগে পাঠিয়েছে আর যা পেছনে রেখে গেছে। তারপর যোগ করেন: লা ইউকতামু মিনহু হারফ, এর একটি হরফও গোপন থাকবে না। ইংরেজি সংক্ষিপ্ত সংস্করণে কথাটা এসেছে এভাবে: আগের ও পরের সব আমল। মুয়াসসার বিষয়বস্তুর নাম বলে দেয়: দুনিয়ায় তারা যেসব গুনাহ আর অন্যায় করত। দুই ব্যাখ্যাতেই সাক্ষ্য পূর্ণাঙ্গ। জীবনের কোনো বাছাই করা নমুনা মালিক নিজে বেছে দেয় না। হিসাব দেয় সেই অঙ্গগুলোই, যাদের দিয়ে জীবনটা যাপন করা হয়েছিল।"
+          },
+          {
+            "en": "This is what makes the witnesses impossible to answer. An accused person can question a witness's motive, his memory or his distance from the event. None of that works against his own ears and eyes, which were present at every act. Muqatil's line in al-Baghawi says it briefly: what the tongue hid, the limbs tell. The next verse records the protest that follows, wa qalu li-juludihim lima shahidtum 'alayna, and they say to their skins, why did you testify against us? (41:21). Its answer, and 41:22 after it, are read on their own pages.",
+            "bn": "এ কারণেই এই সাক্ষীদের কোনো জবাব চলে না। অভিযুক্ত মানুষ সাক্ষীর উদ্দেশ্য নিয়ে প্রশ্ন তুলতে পারে, তার স্মৃতি নিয়ে, ঘটনা থেকে তার দূরত্ব নিয়ে। নিজের কান আর চোখের বিরুদ্ধে এর কোনোটাই খাটে না, কারণ প্রতিটি কাজের সময় তারা সেখানে হাজির ছিল। বাগাভীতে মুকাতিলের কথা অল্পে এ কথাই বলে: জিহ্বা যা লুকিয়েছিল, অঙ্গপ্রত্যঙ্গ তা বলে দেয়। পরের আয়াতে আসে তাদের আপত্তি, ওয়া কালূ লিজুলূদিহিম লিমা শাহিদতুম আলাইনা: তারা নিজেদের চামড়াকে বলবে, আমাদের বিরুদ্ধে কেন সাক্ষ্য দিলে? (৪১:২১)। এর জবাব আর তার পরের ৪১:২২ আয়াত নিজ নিজ পাতায় আলোচিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Witness He Demanded",
+          "bn": "যে সাক্ষী সে নিজেই চেয়েছিল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir brings one narration from Anas ibn Malik (RA) into his comment on this passage. His lead text comes through al-Bazzar and Ibn Abi Hatim, and he adds that Muslim and an-Nasa'i also recorded it. The narration does not name this verse; Ibn Kathir places it here. It is given below in one collection's wording only, Sahih Muslim (2969), whole, as the English rendering on quranx.com has it. It begins: \"Anas b. Malik reported: We were in the company of Allah's Messenger (ﷺ) when he smiled, and said: Do you know why I laughed?",
+            "bn": "এ অংশের আলোচনায় ইবন কাসীর আনাস ইবন মালিক (রাঃ)-এর একটি বর্ণনা আনেন। তাঁর মূল পাঠটি এসেছে বাযযার ও ইবন আবী হাতিমের সূত্রে, আর তিনি জানান যে মুসলিম ও নাসাঈও এটি বর্ণনা করেছেন। বর্ণনাটিতে এ আয়াতের নাম নেই, ইবন কাসীর নিজে একে এখানে স্থান দিয়েছেন। নিচে এটি দেওয়া হলো শুধু একটি সংকলনের ভাষায়, পূর্ণাঙ্গ, সহীহ মুসলিম (২৯৬৯) থেকে। আনাস (রাঃ) বলেন: আমরা রসূলুল্লাহ ﷺ-এর কাছে ছিলাম। তিনি হাসলেন, তারপর বললেন: \"তোমরা কি জানো, আমি কেন হাসছি?\""
+          },
+          {
+            "en": "We said: Allah and His Messenger, know best. Thereupon he said: It was because (there came to my mind the) talk which the servant would have with his Lord (on the Day of judgment). He would say: My Lord, have you not guaranteed me protection against injustice? He would say: Yes. Then the servant would say: I do not deem valid any witness against me but my own self, and He would say: Well, enough would be the witness of your self against you and that of the two angels who had been appointed to record your deeds.",
+            "bn": "আমরা বললাম: আল্লাহ ও তাঁর রসূলই ভালো জানেন। তিনি বললেন: \"বান্দা তার রবের সঙ্গে যে কথা বলবে, তা থেকে। সে বলবে: হে আমার রব, আপনি কি আমাকে জুলুম থেকে আশ্রয় দেননি? তিনি বলবেন: হ্যাঁ। সে বলবে: তাহলে আমার বিরুদ্ধে আমি আমার নিজের ভেতর থেকে আসা সাক্ষী ছাড়া আর কোনো সাক্ষী মানব না। তিনি বলবেন: আজ তোমার বিরুদ্ধে সাক্ষী হিসেবে তুমি নিজেই যথেষ্ট, আর সাক্ষী হিসেবে যথেষ্ট সম্মানিত লেখক ফেরেশতারা (quranx-এর ইংরেজি অনুবাদে: আমল লেখার দায়িত্বপ্রাপ্ত দুই ফেরেশতা)।"
+          },
+          {
+            "en": "Then the seal would be set upon his mouth and it would be said to his hands and feet to speak and they would speak of his deeds. Then the mouth would be made free to talk, he would say (to the hands and feet): Be away, let there be curse of Allah upon you. It was for your safety that I contended.\" That is the whole narration. Muslim placed it in his Sahih, which is his own judgement of it, and nothing more is claimed for it here.",
+            "bn": "তারপর তার মুখে মোহর মেরে দেওয়া হবে, আর তার অঙ্গপ্রত্যঙ্গকে বলা হবে: কথা বলো। তখন সেগুলো তার আমলের কথা বলে দেবে। এরপর তাকে আবার কথা বলার সুযোগ দেওয়া হবে। তখন সে বলবে: দূর হও তোমরা, ধ্বংস হও! তোমাদের জন্যই তো আমি লড়ছিলাম।\" এই হলো পুরো বর্ণনা। মুসলিম এটি তাঁর সহীহ গ্রন্থে রেখেছেন, সেটাই এ বর্ণনা সম্পর্কে তাঁর নিজের রায়। এর বেশি কোনো দাবি এখানে করা হচ্ছে না।"
+          },
+          {
+            "en": "Two notes on wording. Where the English has hands and feet, Muslim's Arabic has arkanihi, the members of his body; where it has the two angels appointed to record his deeds, the Arabic has al-kiram al-katibin, the noble scribes. And the servant's demand is the hinge of the story. He will accept no witness against himself except one from himself, sure that none could be found, and his own body is what answers him. In this verse the same kind of witnesses come forward without being asked for, at the moment of denial.",
+            "bn": "ভাষা নিয়ে দুটি কথা। ইংরেজিতে যেখানে হাত ও পা, মুসলিমের আরবিতে সেখানে আছে আরকানিহী, তার শরীরের অঙ্গগুলো। আর ইংরেজিতে যেখানে আমল লেখার দায়িত্বপ্রাপ্ত দুই ফেরেশতা, আরবিতে সেখানে আল-কিরামুল কাতিবীন, সম্মানিত লেখকগণ। গল্পের মোড় অবশ্য ঘোরে বান্দার দাবিতেই। নিজের ভেতর থেকে আসা সাক্ষী ছাড়া সে আর কোনো সাক্ষী মানবে না, কারণ সে নিশ্চিত, এমন সাক্ষী পাওয়াই যাবে না। অথচ জবাব আসে তার নিজের শরীর থেকেই। এ আয়াতে একই ধরনের সাক্ষীরা কেউ না চাইতেই এগিয়ে আসে, ঠিক অস্বীকারের মুহূর্তে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Witnesses Kept Daily",
+          "bn": "প্রতিদিনের তিন সাক্ষী"
+        },
+        "p": [
+          {
+            "en": "The Qur'an returns to this scene in other places, and each names different witnesses. In 24:24 their tongues, hands and feet testify against them; in 36:65 the mouths are sealed while hands speak and feet testify; here it is hearing, eyes and skins. Those verses are read on their own pages. Placed side by side, the three lists between them cover most of a person: the organs that take in the world, the limbs that reach and walk, and the tongue that had spoken for them all.",
+            "bn": "কুরআন আরও কয়েক জায়গায় এ দৃশ্যে ফিরে আসে, আর প্রতিবার সাক্ষীদের নাম আলাদা। ২৪:২৪ আয়াতে তাদের বিরুদ্ধে সাক্ষ্য দেয় তাদের জিহ্বা, হাত আর পা। ৩৬:৬৫ আয়াতে মুখে মোহর মারা হয়, হাত কথা বলে, পা সাক্ষ্য দেয়। এখানে সাক্ষী কান, চোখ আর চামড়া। ওই আয়াতগুলো নিজ নিজ পাতায় আলোচিত। তিনটি তালিকা পাশাপাশি রাখলে মানুষের প্রায় সবটাই এসে যায়: যে অঙ্গ দিয়ে সে দুনিয়াকে গ্রহণ করে, যে অঙ্গ দিয়ে সে হাত বাড়ায় আর হাঁটে, আর সেই জিহ্বা, যে এতদিন সবার হয়ে কথা বলেছে।"
+          },
+          {
+            "en": "What does a reader take from it? As-Sa'di's reason for the three names works as a map: most wrongs pass through the ear, the eye or the skin. At-Tabari's gloss turns the map into daily questions: what am I listening to, and what am I looking at? And the trigger the commentators name, a denial on arrival, is a warning about the reflex to deny. The servant in Anas's narration argued until his own limbs answered him. Admitting a fault to Allah now, while the tongue is free, is the opposite of that argument.",
+            "bn": "পাঠক এখান থেকে কী নেবেন? তিনটি নাম কেন, সা'দীর দেওয়া সেই কারণটি একটি মানচিত্রের মতো কাজ করে: বেশির ভাগ অন্যায় যায় কান, চোখ বা চামড়ার পথ ধরে। তাবারীর ব্যাখ্যা সেই মানচিত্রকে প্রতিদিনের প্রশ্নে বদলে দেয়: আমি কী শুনছি, আমি কীসের দিকে তাকাচ্ছি? আর তাফসীরকারেরা সাক্ষ্যের যে কারণ বলেন, পৌঁছেই অস্বীকার, তা অস্বীকারের অভ্যাস সম্পর্কে এক সতর্কবাণী। আনাস (রাঃ)-এর বর্ণনার বান্দা তর্ক চালিয়ে গেছে, যতক্ষণ না তার নিজের অঙ্গই তাকে জবাব দিয়েছে। জিহ্বা যখন মুক্ত, তখনই আল্লাহর কাছে ভুল স্বীকার করা সেই তর্কের ঠিক উল্টো পথ।"
+          }
+        ]
+      }
+    ]
+  },
   "41:22": {
     "sections": [
       {
