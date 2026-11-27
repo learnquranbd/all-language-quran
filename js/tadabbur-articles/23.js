@@ -4391,6 +4391,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:86": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Earth to the Heavens",
+          "bn": "মাটি ছেড়ে আসমানের দিকে"
+        },
+        "p": [
+          {
+            "en": "The deniers of 23:82 and 23:83 asked whether dust and bones could really be raised, and called the promise legends of the ancients. The reply comes as three questions, each put into the Prophet's ﷺ mouth with qul, say. The first, in 23:84, asked about the earth and whoever is in it, and it has its own reflection in this collection, as does the third, in 23:88. This verse is the second, and it lifts the eyes: qul man rabbu as-samawati as-sab'i wa-rabbu al-'arshi al-'azim. Say: who is Lord of the seven heavens, and Lord of the mighty Throne?",
+            "bn": "২৩:৮২ ও ২৩:৮৩ আয়াতে অস্বীকারকারীরা প্রশ্ন তুলেছিল, মাটি আর হাড় হয়ে যাওয়ার পর সত্যিই কি আবার ওঠানো হবে? প্রতিশ্রুতিটাকে তারা বলেছিল আগের কালের কিসসা। জবাব আসে তিনটি প্রশ্নের আকারে, আর প্রতিটির শুরুতে নবী ﷺ-কে বলা হয়: কুল, বলুন। প্রথম প্রশ্ন ২৩:৮৪ আয়াতে, পৃথিবী আর তার অধিবাসীদের নিয়ে। তৃতীয়টি ২৩:৮৮ আয়াতে। দুটির আলোচনাই এ সংকলনে আলাদাভাবে আছে। এ আয়াত দ্বিতীয় প্রশ্ন, আর এটি চোখ তুলে দেয় উপরের দিকে: কুল মান রাব্বুস সামাওয়াতিস সাব'ই ওয়া রাব্বুল আরশিল আযীম। বলুন, সাতটি আসমানের রব কে, আর মহান আরশের রব কে?"
+          },
+          {
+            "en": "The wording shifts as it climbs. The first question asked li-man, to whom does the earth belong, a question of ownership. This verse asks man rabb, who is Lord, and it says rabb twice, once for the heavens and again for the Throne, as if each needed its own claim. At-Tabari keeps the frame of the whole exchange: God tells His Prophet, say to them, O Muhammad, who is Lord of the seven heavens, and Lord of the Throne that encompasses all of that? The answer they give, and the two ways it is read, belong to 23:87.",
+            "bn": "প্রশ্ন যত উপরে ওঠে, শব্দও তত বদলায়। প্রথম প্রশ্ন ছিল লিমান, পৃথিবী কার? সেটা মালিকানার প্রশ্ন। এখানে প্রশ্ন মান রাব্ব, রব কে? আর রব শব্দটা আসে দুবার, একবার আসমানের জন্য, আরেকবার আরশের জন্য। যেন দুটোর প্রত্যেকটির উপর আলাদা করে তাঁর দাবি জানানো দরকার। তাবারী গোটা কথোপকথনের কাঠামোটা ধরে রাখেন। আল্লাহ তাঁর নবীকে বলছেন: হে মুহাম্মাদ, তাদের বলুন, সাতটি আসমানের রব কে, আর সেই আরশের রব কে, যা এ সবকিছুকে ঘিরে আছে? তারা কী উত্তর দেবে, আর সেই উত্তর দুইভাবে পড়ার কথা, সেটা ২৩:৮৭ আয়াতের আলোচনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lights That Travel and Stand",
+          "bn": "চলমান আর স্থির আলো"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di fills the heavens before he moves on. Lord of the seven heavens, he writes, and of what is in them: the luminaries, the planets that travel, and the stars that stay fixed. Then the Throne, which he calls the highest of created things, the widest and the greatest. And he turns the verse into the question the deniers could not escape: who created all of that, who manages it, and who turns it about with every kind of governing? Ibn Kathir notes that the deniers admitted their objects of worship could create nothing and control nothing.",
+            "bn": "সা'দী আসমানগুলোকে খালি রেখে এগোন না। সাতটি আসমানের রব, তিনি লেখেন, আর তাদের ভেতরে যা কিছু আছে তারও: আলো ছড়ানো জ্যোতিষ্ক, ঘুরে চলা গ্রহ, আর জায়গায় স্থির তারা। তারপর আরশ, যাকে তিনি বলেন সব সৃষ্টির মধ্যে সবচেয়ে উঁচু, সবচেয়ে প্রশস্ত, সবচেয়ে বড়। এরপর আয়াতটাকে তিনি এমন প্রশ্নে পরিণত করেন, যা এড়ানোর পথ অস্বীকারকারীদের ছিল না: এ সব কে সৃষ্টি করেছেন, কে পরিচালনা করেন, আর নানা রকম ব্যবস্থাপনায় কে এগুলো ঘুরিয়ে চালান? ইবন কাসীর জানান, যাদের তারা পূজা করত, তারা কিছু সৃষ্টি করতে পারে না, কোনো কিছুর উপর তাদের নিয়ন্ত্রণ নেই, এ কথা তারা নিজেরাই মানত।"
+          },
+          {
+            "en": "Ibn Kathir reads the same heavens as the upper world. Who is the Creator of al-'alam al-'ulwi, he asks, with the shining stars in it and the angels who submit to Him in all its regions and directions? His heavens are not only lit but peopled, and peopled by worshippers. The detail matters for what follows. Al-Qurtubi, in the text filed under this verse, explains the rebuke of 23:87 by recalling what the deniers claimed: that the angels were Allah's daughters, while they disliked daughters for themselves.",
+            "bn": "ইবন কাসীর একই আসমানকে দেখেন উর্ধ্বজগৎ হিসেবে। আল-আলামুল উলভীর স্রষ্টা কে, তিনি প্রশ্ন করেন, যেখানে আছে ঝলমলে তারা, আর আছে ফেরেশতারা, যারা তার সব প্রান্তে, সব দিকে তাঁর সামনে বিনীত? তাঁর বর্ণনায় আসমান শুধু আলোয় ভরা নয়, সেখানে বাসিন্দাও আছে, আর তারা সবাই ইবাদতকারী। পরের কথাটার জন্য এ খুঁটিনাটি জরুরি। কুরতুবী এ আয়াতের ঘরে রাখা লেখায় ২৩:৮৭ আয়াতের ধমকটা ব্যাখ্যা করেন অস্বীকারকারীদের এক দাবি মনে করিয়ে দিয়ে। তারা বলত, ফেরেশতারা আল্লাহর কন্যা, অথচ নিজেদের জন্য কন্যাসন্তান তারা অপছন্দ করত।"
+          },
+          {
+            "en": "Set side by side, the two notes sharpen each other, though neither mufassir joins them himself. The angels the deniers made into His daughters are, in Ibn Kathir's picture, the very creatures bowed in submission across the heavens of which He is Lord. To ask who is Lord of the seven heavens is already to ask who is Lord of the angels in them. That link is the reader's inference and is offered only as such; the full rebuke, afala tattaqun, will you not then fear Him, has its own verse.",
+            "bn": "দুটো কথা পাশাপাশি রাখলে একটা আরেকটাকে ধারালো করে, যদিও দুই মুফাসসিরের কেউই নিজে এ দুটো জোড়া দেননি। অস্বীকারকারীরা যে ফেরেশতাদের আল্লাহর কন্যা বানিয়েছিল, ইবন কাসীরের ছবিতে তারাই সেই সৃষ্টি, যারা আসমানের সব দিকে তাঁর সামনে মাথা নত করে আছে। আর সেই আসমানের রব তিনিই। তাই সাতটি আসমানের রব কে, এ প্রশ্নের ভেতরেই আছে আরেক প্রশ্ন: সেখানকার ফেরেশতাদের রব কে? এ সংযোগটা পাঠকের নিজের অনুমান, শুধু সেভাবেই রাখা হলো। পুরো ধমকটা, আফালা তাত্তাকূন, তবুও কি তোমরা তাঁকে ভয় করবে না, তার নিজের আয়াতেই আলোচিত হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Roof Over Created Things",
+          "bn": "সৃষ্টিজগতের মাথার উপরের ছাদ"
+        },
+        "p": [
+          {
+            "en": "Then the Throne. Ibn Kathir calls it saqf al-makhluqat, the roof of created things. Al-Muyassar gives a one-line gloss: the Throne, which is the greatest of created things and the highest. As-Sa'di, as above, adds that it is the widest. At-Tabari's word is al-muhit, the encompassing: the Throne that surrounds all of that, meaning the seven heavens just named. Four commentators, then, agree on the outline: the Throne stands above the heavens and around them. Al-Muyassar and as-Sa'di add that it is the greatest of all that has been made.",
+            "bn": "এরপর আরশ। ইবন কাসীর একে বলেন সাকফুল মাখলূকাত, সৃষ্টিজগতের ছাদ। মুয়াসসার এক লাইনে ব্যাখ্যা দেয়: সেই আরশ, যা সৃষ্টির মধ্যে সবচেয়ে বড় আর সবচেয়ে উঁচু। সা'দী, আগেই যেমন দেখা গেল, যোগ করেন যে এটি সবচেয়ে প্রশস্তও। তাবারীর শব্দ আল-মুহীত, অর্থাৎ যা ঘিরে রাখে। আরশ এ সবকিছুকে বেষ্টন করে আছে, মানে এইমাত্র যে সাতটি আসমানের নাম এল সেগুলোকে। তাহলে চারজন তাফসীরকার মূল রেখায় একমত: আরশ আসমানের উপরে, আসমানকে ঘিরে। মুয়াসসার আর সা'দী আরও বলেন, যা কিছু বানানো হয়েছে তার মধ্যে এটিই সবচেয়ে বড়।"
+          },
+          {
+            "en": "Each of those glosses keeps a line the verse itself draws. The Throne is called the greatest of the makhluqat, the created things: it is immense, but it is made. The verse does not offer the Throne for worship; it calls Allah its Lord, rabb al-'arsh. Whatever is highest and widest in all existence is still something He owns and sustains. The deniers could look up and be awed by the sky, but the question asks them to look past the sky and past its roof, to the Lord of both.",
+            "bn": "এ ব্যাখ্যাগুলোর প্রতিটি সেই সীমারেখা মেনে চলে, যা আয়াত নিজেই টেনে দিয়েছে। আরশকে বলা হয়েছে মাখলূকাতের মধ্যে সবচেয়ে বড়, অর্থাৎ সৃষ্টির মধ্যে। বিশাল, কিন্তু বানানো। আয়াত আরশকে ইবাদতের জন্য সামনে আনে না। আল্লাহকে বলে তার রব, রাব্বুল আরশ। গোটা অস্তিত্বে যা সবচেয়ে উঁচু, সবচেয়ে প্রশস্ত, সেটাও তাঁরই মালিকানায়, তাঁরই ধরে রাখা। অস্বীকারকারীরা উপরে তাকিয়ে আকাশ দেখে বিস্মিত হতে পারত। কিন্তু প্রশ্নটা তাদের বলে আকাশ ছাড়িয়ে, তার ছাদ ছাড়িয়ে আরও দূরে তাকাতে, সেই সত্তার দিকে যিনি দুটোরই রব।"
+          },
+          {
+            "en": "Ibn Kathir illustrates the roof with a narration that Abu Dawud records, in which a Bedouin asks the Prophet ﷺ to pray for rain. Abu Dawud's own remark after it concerns which of its chains carries the correct wording, and he gives it no other grading; this article quotes nothing from it and builds nothing on it. No tafsir fetched for this verse attaches a sound hadith to it. A general narration that uses the verse's own phrase appears further below, marked as such.",
+            "bn": "ছাদের ছবিটা বোঝাতে ইবন কাসীর আবু দাউদের সংকলিত একটি বর্ণনা আনেন। তাতে এক বেদুইন নবী ﷺ-এর কাছে বৃষ্টির জন্য দোয়া চায়। বর্ণনার পর আবু দাউদ নিজে যে মন্তব্য করেন, তা শুধু এটুকু নিয়ে যে কোন সনদে শব্দগুলো ঠিকভাবে এসেছে। এর বাইরে তিনি কোনো মান নির্ধারণ করেননি। এ লেখা ওই বর্ণনা থেকে কিছু উদ্ধৃত করে না, তার উপর কিছু দাঁড় করায়ও না। এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। আয়াতের নিজের শব্দবন্ধটা যে সাধারণ একটি বর্ণনায় আছে, তা সামনে আসছে, সাধারণ বর্ণনা বলেই চিহ্নিত করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Measure Beyond Any Creature",
+          "bn": "কোনো সৃষ্টি যে মাপ জানে না"
+        },
+        "p": [
+          {
+            "en": "Why the word 'arsh? Ibn Kathir relays from ad-Dahhak, from Ibn 'Abbas, that it was named 'arsh for its height, irtifa'. He then gives, with a chain through Ibn Abi Hatim to Sa'id ibn Jubayr, a second saying of Ibn 'Abbas: al-'arsh la yaqdiru ahadun qadrahu, no one can measure the Throne's extent; in another version, no one except Allah, Mighty and Majestic. That second line may be the most useful sentence in the whole passage. It describes the Throne's size only by saying that no creature's measure reaches it.",
+            "bn": "আরশ নামটা কেন? ইবন কাসীর দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে আনেন, উচ্চতার কারণে এর নাম আরশ, ইরতিফা'। তারপর ইবন আবী হাতিমের সনদে, সাঈদ ইবন জুবাইর হয়ে, ইবন আব্বাসের (রাঃ) আরেকটি কথা আনেন: আল-আরশু লা ইয়াকদিরু আহাদুন কাদরাহু, আরশের পরিমাপ কেউ করতে পারে না। আরেক বর্ণনায় আছে, মহান ও মহিমান্বিত আল্লাহ ছাড়া কেউ নয়। গোটা আলোচনায় এই দ্বিতীয় কথাটাই হয়তো সবচেয়ে কাজের। আরশ কত বড়, তা এটি বলে শুধু এভাবে: কোনো সৃষ্টির মাপ সেখানে পৌঁছায় না।"
+          },
+          {
+            "en": "Others reached for images. Ibn Kathir relays from Mujahid that the heavens and the earth, set within the Throne, are only like a ring lying in open desert, and from Ka'b al-Ahbar that they are in the Throne like a lamp hung between sky and earth. He also cites, without naming who recorded it, a narration comparing the heavens with the Kursi and the Kursi with the Throne; since no source is given for it there, this article does not quote it. The images all press one point: what looks vast to us is small beside what lies above it.",
+            "bn": "অন্যরা উপমার আশ্রয় নিয়েছেন। ইবন কাসীর মুজাহিদ থেকে আনেন, আরশের ভেতরে আসমান আর জমিন যেন খোলা মরুভূমিতে পড়ে থাকা একটা আংটি। কা'ব আল-আহবার থেকে আনেন, আরশের ভেতরে এগুলো যেন আকাশ আর মাটির মাঝে ঝুলে থাকা একটা প্রদীপ। কে সংকলন করেছেন তা না বলেই তিনি আরেকটি বর্ণনা উল্লেখ করেন, যাতে আসমানকে কুরসির সঙ্গে আর কুরসিকে আরশের সঙ্গে তুলনা করা হয়েছে। সেখানে কোনো সূত্র দেওয়া নেই বলে এ লেখা সেটি উদ্ধৃত করে না। সব উপমার কথা একটাই: আমাদের চোখে যা বিশাল, তার উপরে যা আছে তার পাশে তা নিতান্ত ছোট।"
+          },
+          {
+            "en": "Ibn Kathir also passes on, from unnamed members of the early generations, a figure of fifty thousand years' journey across the Throne, and a report that it is made of red ruby. He names no one for either, and nothing here is built on them. The firmer ground is the line he gives from Ibn 'Abbas. The verse itself offers no measurement at all. It gives one adjective, al-'azim, and leaves the reader with a size the mind is not asked to complete, only to bow before.",
+            "bn": "পূর্বসূরিদের মধ্যে নাম না বলা কারও কারও কথা হিসেবে ইবন কাসীর আরও দুটো জিনিস আনেন। একটি হলো আরশের এক প্রান্ত থেকে অন্য প্রান্ত পঞ্চাশ হাজার বছরের পথ। অন্যটি হলো, আরশ লাল ইয়াকুত পাথরের তৈরি। কোনোটির জন্যই তিনি কারও নাম বলেননি, আর এ লেখা এগুলোর উপর কিছু দাঁড় করায় না। ভরসার জায়গা হলো ইবন আব্বাস (রাঃ) থেকে আনা সেই কথাটি। আয়াত নিজে কোনো মাপই দেয় না। দেয় একটি বিশেষণ, আল-আযীম। তারপর পাঠককে রেখে যায় এমন এক বিশালতার সামনে, যার হিসাব মেলানো মনের কাজ নয়। মনের কাজ সেখানে মাথা নত করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mighty Here, Noble at the Close",
+          "bn": "এখানে মহান, শেষে সম্মানিত"
+        },
+        "p": [
+          {
+            "en": "That adjective has a partner. Ibn Kathir notes that here the Throne is al-'azim, which he glosses as al-kabir, the great, while at the close of the surah, in 23:116, it is al-karim, which he explains as al-hasan al-bahi, beautiful and radiant. The Throne, he concludes, gathers greatness in breadth and in height together with a dazzling beauty. One surah gives two descriptions. In the middle of an argument with deniers, the word chosen is size; in the closing praise, the word chosen is beauty.",
+            "bn": "ওই বিশেষণের একটা জোড়া আছে। ইবন কাসীর দেখান, এখানে আরশ আল-আযীম, যার ব্যাখ্যা তিনি দেন আল-কাবীর, বড়। আর সূরার শেষে, ২৩:১১৬ আয়াতে, আরশ আল-কারীম, যার অর্থ তিনি বলেন আল-হাসানুল বাহী, সুন্দর ও উজ্জ্বল। তাঁর সিদ্ধান্ত: আরশের মধ্যে একসঙ্গে আছে বিস্তার ও উচ্চতার বিশালতা, আর চোখ ধাঁধানো সৌন্দর্য। একই সূরায় দুই বর্ণনা। অস্বীকারকারীদের সঙ্গে যুক্তির মাঝখানে বেছে নেওয়া হয়েছে আকারের শব্দ। আর শেষের প্রশংসায় বেছে নেওয়া হয়েছে সৌন্দর্যের শব্দ।"
+          },
+          {
+            "en": "To this Ibn Kathir adds a saying of Ibn Mas'ud (RA), given there without a chain: with your Lord there is neither night nor day, and the light of the Throne is from the light of His Face. Only six verses earlier, 23:80 reminded the deniers that the alternation of night and day is His. Here the One who turns night into day is not Himself measured by it. The second question of the passage, then, does not only point upward. It points to a Lord who is not counted out in the hours that count out His creatures.",
+            "bn": "এর সঙ্গে ইবন কাসীর ইবন মাসউদের (রাঃ) একটি কথা যোগ করেন, সেখানে কোনো সনদ ছাড়াই: তোমাদের রবের কাছে রাত নেই, দিনও নেই, আর আরশের আলো তাঁর চেহারার নূর থেকে। মাত্র ছয়টি আয়াত আগে ২৩:৮০ অস্বীকারকারীদের মনে করিয়ে দিয়েছিল, রাত আর দিনের পালাবদল তাঁরই হাতে। এখানে দেখা যায়, যিনি রাতকে দিনে বদলান, সেই পালাবদল দিয়ে তাঁকে মাপা যায় না। তাই এ অংশের দ্বিতীয় প্রশ্ন শুধু উপরের দিকে ইশারা করে না। ইশারা করে এমন এক রবের দিকে, সৃষ্টির ঘণ্টা-মিনিট যাঁর উপর খাটে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Distress Closes In",
+          "bn": "বিপদের মুহূর্তের কথা"
+        },
+        "p": [
+          {
+            "en": "As noted, no tafsir fetched for this verse attaches a sound hadith to it. A general narration, not tied to this verse, carries its very phrase. Sahih al-Bukhari (no. 6346) records from Ibn 'Abbas (RA) that the Messenger of Allah ﷺ used to say at a time of distress: \"There is no god but Allah, the Mighty, the Forbearing. There is no god but Allah, Lord of the mighty Throne. There is no god but Allah, Lord of the heavens and Lord of the earth, and Lord of the noble Throne.\"",
+            "bn": "আগেই বলা হয়েছে, এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে সহীহ হাদীস জুড়ে দেয়নি। তবে এ আয়াতের সঙ্গে যুক্ত নয় এমন একটি সাধারণ বর্ণনায় আয়াতের হুবহু শব্দবন্ধটা আছে। সহীহ বুখারী (নং ৬৩৪৬) ইবন আব্বাস (রাঃ) থেকে বর্ণনা করে, আল্লাহর রাসূল ﷺ বিপদের সময় বলতেন: \"আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি মহান, সহনশীল। আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি মহান আরশের রব। আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি আসমানের রব, জমিনের রব, আর সম্মানিত আরশের রব।\""
+          },
+          {
+            "en": "The two adjectives Ibn Kathir set side by side, al-'azim and al-karim, both sit in that one supplication. And it does what the deniers would not do: every line that names Allah as Lord also says there is no god but Him. The verse draws the admission of Lordship out of the deniers. The Prophet ﷺ, at the time of distress, spoke that same Lordship joined to the worship it requires, and he reached for the greatness of the Throne at the very moment when a person's troubles crowd closest.",
+            "bn": "ইবন কাসীর যে দুটি বিশেষণ পাশাপাশি রেখেছিলেন, আল-আযীম আর আল-কারীম, দুটোই আছে এই একটিমাত্র দোয়ায়। আর দোয়াটি সেই কাজ করে, যা অস্বীকারকারীরা করতে রাজি ছিল না। যে লাইনে আল্লাহকে রব বলা হয়েছে, সেই লাইনেই বলা হয়েছে, তিনি ছাড়া কোনো ইলাহ নেই। আয়াত অস্বীকারকারীদের মুখ থেকে রুবুবিয়্যাতের স্বীকৃতি বের করে আনে। নবী ﷺ বিপদের সময় সেই রুবুবিয়্যাতকেই উচ্চারণ করেছেন, তার দাবি অনুযায়ী ইবাদতের সঙ্গে মিলিয়ে। আর আরশের বিশালতার কথা তিনি তুলেছেন ঠিক তখনই, যখন মানুষের দুশ্চিন্তা সবচেয়ে কাছে এসে ভিড় করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lordship Granted, Worship Withheld",
+          "bn": "রুবুবিয়্যাত মানা, ইবাদত না দেওয়া"
+        },
+        "p": [
+          {
+            "en": "How Ibn Kathir reads the whole group 23:84 to 23:90, with the oneness of Lordship the deniers granted obliging the oneness of worship they withheld, is set out in the reflection on 23:84 and is not repeated here. What this verse adds to that argument is height. Those who would grant that the earth is His are now asked to grant the same of the seven heavens and of the Throne above them, the greatest of created things as the commentators above describe them. The question is asked of people who will give the right answer.",
+            "bn": "২৩:৮৪ থেকে ২৩:৯০ পর্যন্ত গোটা অংশটা ইবন কাসীর কীভাবে পড়েন, তা ২৩:৮৪ আয়াতের আলোচনায় আছে। অস্বীকারকারীরা রুবুবিয়্যাতের তাওহীদ মানত, আর সেই স্বীকৃতিই তাদের উপর চাপায় ইবাদতের তাওহীদের দায়, যা তারা মানেনি। সে কথা এখানে আর বিস্তারিত বলা হলো না। এ আয়াত ওই যুক্তিতে যা যোগ করে, তা হলো উচ্চতা। পৃথিবী আল্লাহর, এ কথা যারা মানতে রাজি, প্রশ্নটা এবার তাদের কাছে একই স্বীকৃতি চায় সাতটি আসমান আর তার উপরের আরশ নিয়ে। আর উপরের তাফসীরকারদের বর্ণনায় আরশই সৃষ্টির মধ্যে সবচেয়ে বড়। এ প্রশ্ন তাই এমন লোকদের করা হচ্ছে, যারা ঠিক উত্তরটাই দেবে।"
+          },
+          {
+            "en": "At-Tabari's paraphrase of what they will say is plain: all of that belongs to Allah, and He is its Lord. Then he states the rebuke that follows: will you not fear His punishment for disbelieving in Him and denying His word and the word of His Messenger? Al-Qurtubi, as seen, ties the same fear to the claim about the angels. That rebuke belongs to 23:87. For this verse it is enough to see that the question was never meant to inform them. It was meant to make them say aloud what they already knew.",
+            "bn": "তারা কী বলবে, তাবারী তা সোজা ভাষায় বলেন: এ সবই আল্লাহর, আর তিনিই এর রব। তারপর তিনি পরের ধমকটা বলেন: তাঁর প্রতি কুফরি করে, তাঁর বাণী আর তাঁর রাসূলের বাণী মিথ্যা বলে, তোমরা কি তাঁর শাস্তিকে ভয় করবে না? আগেই দেখা গেছে, কুরতুবী একই ভয়কে জুড়েছেন ফেরেশতাদের নিয়ে তাদের দাবির সঙ্গে। সেই ধমকের আলোচনা ২৩:৮৭ আয়াতে। এ আয়াতের বেলায় এটুকু বোঝাই যথেষ্ট: প্রশ্নটা তাদের নতুন কিছু জানানোর জন্য ছিল না। ছিল এজন্য, যাতে যা তারা আগে থেকেই জানত, তা নিজের মুখে উচ্চারণ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Looking Up to Look Within",
+          "bn": "উপরে তাকিয়ে নিজের ভেতরে দেখা"
+        },
+        "p": [
+          {
+            "en": "A reader today is not a Makkan of that time, but the gap the verse exposes is not confined to Makkah. A person can agree that Allah is Lord of the seven heavens and the mighty Throne and still treat an employer, a bank balance or a diagnosis as if it sat higher. As-Sa'di's three verbs, created, managed, directed, make a fair test. Whatever I fear or hope from, does it create, manage or direct anything apart from Him? If not, I have given it a height that belongs to no creature, not even the Throne.",
+            "bn": "আজকের পাঠক সে যুগের মক্কাবাসী নন, কিন্তু আয়াত যে ফাঁকটা ধরিয়ে দেয়, তা মক্কায় আটকে নেই। মানুষ মেনে নিতে পারে যে আল্লাহই সাতটি আসমান আর মহান আরশের রব। তারপরও মালিক, ব্যাংকের হিসাব বা ডাক্তারের দেওয়া রোগের খবরকে এমনভাবে দেখতে পারে, যেন সেগুলোর আসন আরও উঁচুতে। সা'দীর তিনটি ক্রিয়া, সৃষ্টি করা, পরিচালনা করা, ঘুরিয়ে চালানো, এখানে ভালো একটা মাপকাঠি। যার কাছে আমি ভয় পাই বা আশা রাখি, সে কি তাঁকে ছাড়া কিছু সৃষ্টি করে, পরিচালনা করে বা চালায়? যদি না করে, তবে তাকে আমি এমন উচ্চতা দিয়েছি, যা কোনো সৃষ্টির নয়, আরশেরও নয়।"
+          },
+          {
+            "en": "One thing needs saying plainly. The verse describes what its text describes: people in the Prophet's ﷺ time who named Allah as Lord of the heavens and still worshipped others and denied the raising. It licenses nothing against any living person or community, and its question is put to the reader to answer, not to throw at someone else. Look up at night, then ask yourself the second of the three questions, and let the answer, Allah, decide where your hope goes and what you fear.",
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। আয়াত ঠিক ততটুকুই বর্ণনা করে, যতটুকু তার শব্দে আছে: নবী ﷺ-এর যুগের কিছু মানুষ, যারা আল্লাহকে আসমানের রব বলে মানত, তবু অন্যদের পূজা করত আর পুনরুত্থান অস্বীকার করত। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। এর প্রশ্নটা পাঠকের নিজের জবাব দেওয়ার জন্য, অন্যের দিকে ছুড়ে মারার জন্য নয়। রাতে উপরে তাকান, তারপর নিজেকে তিনটি প্রশ্নের দ্বিতীয়টি করুন। আর উত্তরটা, আল্লাহ, ঠিক করে দিক আপনার আশা কোথায় যাবে, ভয় কাকে নিয়ে।"
+          }
+        ]
+      }
+    ]
+  },
   "23:88": {
     "sections": [
       {

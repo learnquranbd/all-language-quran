@@ -34979,6 +34979,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Believe in God's signs by letting His recited verses change what you do and by reading His creation as a message, not by agreeing and staying the same.",
     "lessonBn": "তিলাওয়াতের আয়াতকে নিজের কাজ বদলাতে দিয়ে আর সৃষ্টিকে বার্তা হিসেবে পড়ে আল্লাহর নিদর্শনে ঈমান আনুন। শুধু মেনে নিয়ে আগের মতোই থেকে যাওয়া যথেষ্ট নয়।"
+  },
+  "23:86": {
+    "reflectionEn": "The first question was about the ground under their feet. The second lifts their eyes. Who is Lord of the seven heavens, with every light that travels or stands still in them, and Lord of the mighty Throne, the highest and widest of all created things? The deniers knew the answer and would give it: Allah. Then came the sting: will you not fear Him? A person can name the Lord of the sky in one breath and, in the next, look for rescue to things that sit far beneath it. When I look up at night, does the sky only impress me, or does it humble me? And does the One I call its Lord actually govern my fears?",
+    "reflectionBn": "প্রথম প্রশ্ন ছিল পায়ের নিচের মাটি নিয়ে। দ্বিতীয় প্রশ্ন চোখ তুলে দেয় উপরের দিকে। সাত আসমানের রব কে, যার ভেতরে কিছু আলো ঘুরে বেড়ায় আর কিছু আলো স্থির দাঁড়িয়ে থাকে? আর মহান আরশের রব কে, যা সব সৃষ্টির মধ্যে সবচেয়ে উঁচু, সবচেয়ে প্রশস্ত? অস্বীকারকারীরা উত্তরটা জানত, মুখেও বলত: আল্লাহ। তারপরই খোঁচাটা আসে: তবুও কি তোমরা তাঁকে ভয় করবে না? মানুষ এক নিঃশ্বাসে আকাশের রবের নাম নিতে পারে, আর পরের নিঃশ্বাসেই উদ্ধার খুঁজতে পারে এমন জিনিসের কাছে, যা সেই আকাশের অনেক নিচে পড়ে আছে। রাতে যখন উপরে তাকাই, আকাশ কি আমাকে শুধু মুগ্ধ করে, নাকি বিনয়ীও করে? আর যাঁকে আমি এর রব বলি, আমার ভয়গুলোর উপর কি সত্যিই তাঁর হুকুম চলে?",
+    "pointsEn": [
+      "When did I last look at the night sky long enough for it to change how I felt about my own worries?",
+      "Which fear in my life have I been treating as bigger than the Lord of the mighty Throne?",
+      "Do I call Allah Lord of everything and still seek from people or things what only He can give?",
+      "In my hardest hours, do I turn first to remembering His greatness, or only to rehearsing the problem?",
+      "What would change this week if the answer 'Allah' governed my choices and not only my words?"
+    ],
+    "pointsBn": [
+      "শেষ কবে রাতের আকাশের দিকে এতক্ষণ তাকিয়ে ছিলাম যে নিজের দুশ্চিন্তাগুলো ছোট মনে হয়েছিল?",
+      "জীবনের কোন ভয়টাকে আমি মহান আরশের রবের চেয়েও বড় করে দেখছি?",
+      "আল্লাহকে সবকিছুর রব বলেও কি আমি মানুষ বা জিনিসের কাছে তা চাই, যা কেবল তিনিই দিতে পারেন?",
+      "সবচেয়ে কঠিন সময়ে আমি কি আগে তাঁর বড়ত্বের কথা মনে করি, নাকি শুধু সমস্যাটাই মনে মনে আওড়াতে থাকি?",
+      "'আল্লাহ' উত্তরটা যদি শুধু মুখে না থেকে আমার সিদ্ধান্তগুলোও চালাত, এ সপ্তাহে কী কী বদলে যেত?"
+    ],
+    "lessonEn": "The Lord of the seven heavens and the mighty Throne is the One you already name; let His greatness shrink your other fears and leave Him alone to be feared.",
+    "lessonBn": "সাত আসমান আর মহান আরশের রব তিনিই, যাঁর নাম আপনি আগে থেকেই নেন। তাঁর বড়ত্ব আপনার অন্য সব ভয় ছোট করে দিক, ভয় থাকুক শুধু তাঁরই।"
   }
 };
 
