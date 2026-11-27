@@ -2551,6 +2551,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "40:53": {
+    "sections": [
+      {
+        "h": {
+          "en": "Musa, Right After the Promise",
+          "bn": "ওয়াদার পরপরই মূসার কথা"
+        },
+        "p": [
+          {
+            "en": "Wa-laqad atayna Musa al-huda wa-awrathna bani Isra'ila al-kitab: and We certainly gave Musa the guidance, and We made the Children of Israel heirs to the Book. The verse is eight Arabic words long, and it arrives at a turn in the passage. The verses before it move through the quarrels of the people of the Fire, the promise in 40:51 that Allah helps His messengers and the believers, and the Day in 40:52 when the excuses of wrongdoers are of no use. Then the speech goes back to Musa (AS).",
+            "bn": "ওয়া লাকাদ আতাইনা মূসাল হুদা ওয়া আওরাসনা বানী ইসরাঈলাল কিতাব: আর আমি মূসাকে অবশ্যই হিদায়াত দিয়েছিলাম, আর বানী ইসরাঈলকে করেছিলাম কিতাবের উত্তরাধিকারী। আরবিতে আয়াতটি মাত্র আটটি শব্দের, আর এটি আসে আলোচনার এক মোড়ে। এর আগের আয়াতগুলোতে আছে জাহান্নামবাসীদের ঝগড়া, ৪০:৫১ আয়াতে রসূল ও মু'মিনদের সাহায্য করার ওয়াদা, আর ৪০:৫২ আয়াতে সেই দিনের কথা, যেদিন যালিমদের ওজর কোনো কাজে আসবে না। তারপর কথা আবার ফিরে যায় মূসা (আঃ)-এর দিকে।"
+          },
+          {
+            "en": "As-Sa'di explains the order. Allah had related what passed between Musa and Fir'awn and what became of Fir'awn and his troops; then He gave the general ruling that covers Fir'awn and the people of the Fire together; and after that He mentioned that He gave Musa the guidance. Al-Qurtubi places the verse inside the promise itself: this, he says, falls within the help given to the messengers in this world and the next. On his reading the verse opens no new topic. It shows the promise of 40:51 at work in one messenger's life.",
+            "bn": "এই ক্রম কেন, সা'দী তা বুঝিয়ে দেন। আল্লাহ আগে মূসা ও ফিরআউনের মধ্যে যা ঘটেছিল তা বলেছেন, ফিরআউন ও তার বাহিনীর পরিণতি কী হয়েছিল তা-ও বলেছেন। তারপর এমন এক সাধারণ বিধান দিয়েছেন, যার আওতায় ফিরআউন আর জাহান্নামবাসী সবাই পড়ে। এরপরই তিনি জানালেন, মূসাকে তিনি হিদায়াত দিয়েছিলেন। কুরতুবী আয়াতটিকে ওয়াদারই ভেতরে বসান। তাঁর কথায়, এটি দুনিয়া ও আখিরাতে রসূলদের সাহায্যের অন্তর্ভুক্ত। এ পাঠে আয়াতটি নতুন কোনো প্রসঙ্গ খোলে না। ৪০:৫১ আয়াতের ওয়াদা একজন রসূলের জীবনে কীভাবে পূর্ণ হয়েছে, এ আয়াত তা-ই দেখায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Guidance Musa Received",
+          "bn": "মূসা কোন হিদায়াত পেলেন"
+        },
+        "p": [
+          {
+            "en": "What was al-huda? The commentators fetched for this verse give answers that overlap without being identical. At-Tabari makes it al-bayan, the clear exposition of the truth with which Allah sent Musa, and adds at once: just as We gave that to Muhammad. Al-Qurtubi says it means the Torah and prophethood together. The Torah, he explains, was named guidance because of the guidance and light within it, and he cites 5:44: indeed, We sent down the Torah, in which was guidance and light.",
+            "bn": "আল হুদা বলতে কী বোঝানো হয়েছে? এ আয়াতের যেসব তাফসীর দেখা হয়েছে, সেগুলোর উত্তর কাছাকাছি, তবে হুবহু এক নয়। তাবারী একে বলেন আল বায়ান, অর্থাৎ যে সত্য দিয়ে আল্লাহ মূসাকে পাঠিয়েছিলেন তার সুস্পষ্ট বর্ণনা। সঙ্গে সঙ্গে যোগ করেন: যেমন আমি তা মুহাম্মাদকেও দিয়েছি। কুরতুবীর মতে এর অর্থ তাওরাত আর নবুওয়াত দুটোই। তাওরাতকে হিদায়াত বলা হয়েছে, কারণ তাতে হিদায়াত ও আলো আছে। প্রমাণ হিসেবে তিনি আনেন ৫:৪৪ আয়াত: আমি তাওরাত নাযিল করেছিলাম, তাতে ছিল হিদায়াত ও আলো।"
+          },
+          {
+            "en": "Al-Baghawi relays a short line from Muqatil: guidance out of misguidance, meaning the Torah. Ibn Kathir keeps the word wide, as the guidance and light with which Allah sent him. As-Sa'di reads it as the signs, and the knowledge by which those who are guided find their way. Al-Muyassar joins two kinds of gift: what guides to the truth, from the Torah and from the miracles. Al-Jalalayn, read on quranx, names the same pair in a few words, the Torah and the miracles.",
+            "bn": "বাগাভী মুকাতিলের একটি ছোট কথা উদ্ধৃত করেন: গোমরাহি থেকে বের করে আনা হিদায়াত, অর্থাৎ তাওরাত। ইবন কাসীর শব্দটিকে প্রশস্ত রাখেন: সেই হিদায়াত ও আলো, যা দিয়ে আল্লাহ তাঁকে পাঠিয়েছিলেন। সা'দীর পাঠে এর মানে নিদর্শনসমূহ, আর সেই জ্ঞান যা দিয়ে হিদায়াতপ্রাপ্তরা পথ খুঁজে পায়। মুয়াসসার দুই রকম দানকে একসঙ্গে আনে: যা সত্যের দিকে পথ দেখায়, তাওরাত থেকে এবং মু'জিযা থেকে। জালালাইনও, যা কুরআনএক্স সাইটে পড়া হয়েছে, অল্প কথায় সেই জোড়াই বলে: তাওরাত ও মু'জিযা।"
+          },
+          {
+            "en": "So some tie al-huda closely to the Book, while others widen it to the signs and miracles given to Musa (AS), or to prophethood itself. None of these texts argues against the others; they lean in different directions. What they share is that the guidance here is given, atayna, a gift from Allah before it is anything its receiver does. A messenger does not invent the light he carries. He is handed it, and the verse says so in its very first verb.",
+            "bn": "তাহলে একদল আল হুদাকে কিতাবের সঙ্গে ঘনিষ্ঠভাবে জুড়ে দেন, আরেকদল একে বিস্তৃত করেন মূসা (আঃ)-কে দেওয়া নিদর্শন ও মু'জিযা পর্যন্ত, কিংবা খোদ নবুওয়াত পর্যন্ত। এসব লেখার কোনোটিই অন্যটির বিরুদ্ধে যুক্তি দেয় না। ঝোঁকটা শুধু ভিন্ন দিকে। সবার মধ্যে মিলটা হলো, এ হিদায়াত দেওয়া জিনিস। আতাইনা, আমি দিয়েছি। গ্রহণকারী কিছু করার আগেই তা আল্লাহর দান। রসূল নিজের বহন করা আলো নিজে তৈরি করেন না, তাঁর হাতে তা তুলে দেওয়া হয়। আয়াতের প্রথম ক্রিয়াটিই সে কথা বলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Book Handed Down",
+          "bn": "হাতে হাতে চলে আসা কিতাব"
+        },
+        "p": [
+          {
+            "en": "Wa-awrathna: and We made them inherit. Most of the commentators fetched here say plainly that al-kitab in this verse is the Torah; at-Tabari, al-Qurtubi, as-Sa'di, al-Baghawi and al-Muyassar all name it. Where they vary is in what the inheriting looked like. As-Sa'di: We made it something inherited among them, from one generation to the next. Al-Muyassar says the same in its own words: the Children of Israel inherited the Torah, the later from the earlier. Al-Jalalayn adds a marker of time: heirs to it after Musa.",
+            "bn": "ওয়া আওরাসনা: আর আমি তাদের উত্তরাধিকারী করেছি। এখানে দেখা বেশির ভাগ তাফসীর পরিষ্কার বলে, এ আয়াতে আল কিতাব মানে তাওরাত। তাবারী, কুরতুবী, সা'দী, বাগাভী আর মুয়াসসার সবাই নাম ধরে তা বলেছেন। পার্থক্য দেখা যায় উত্তরাধিকারের ধরন নিয়ে। সা'দী বলেন, আমি একে তাদের মধ্যে এক যুগ থেকে আরেক যুগে বয়ে চলা মীরাস বানিয়েছি। মুয়াসসার নিজের ভাষায় একই কথা বলে: বানী ইসরাঈল তাওরাতের উত্তরাধিকারী হয়েছে, পরের প্রজন্ম আগের প্রজন্মের কাছ থেকে। জালালাইন সময়টাও জুড়ে দেয়: মূসার পরে তারা এর উত্তরাধিকারী হয়।"
+          },
+          {
+            "en": "At-Tabari puts the weight on teaching. We made the Children of Israel inherit the Torah, he paraphrases, and taught it to them. Al-Qurtubi stays closest to the word: We made it an inheritance for them. In ordinary speech an inheritance is what passes to the living once its holder has gone, and these glosses fit that picture well. Musa (AS) received the Book from his Lord, and each generation after him received it from the generation before, with learning as part of what was passed on.",
+            "bn": "তাবারী জোর দেন শেখানোর উপর। তাঁর ভাষ্যে: আমি বানী ইসরাঈলকে তাওরাতের উত্তরাধিকারী করেছি, আর তা তাদের শিখিয়েছি। কুরতুবী শব্দের সবচেয়ে কাছাকাছি থাকেন: আমি একে তাদের জন্য মীরাস বানিয়েছি। সাধারণ কথায় মীরাস হলো সেই জিনিস, যা মালিক চলে যাওয়ার পর জীবিতদের হাতে আসে। এসব ব্যাখ্যা সেই ছবির সঙ্গে ভালোভাবেই মেলে। মূসা (আঃ) কিতাব পেয়েছিলেন তাঁর রবের কাছ থেকে। তাঁর পরের প্রতিটি প্রজন্ম তা পেয়েছে আগের প্রজন্মের কাছ থেকে, আর এই হস্তান্তরের ভেতরে শেখাও ছিল।"
+          },
+          {
+            "en": "Tanwir al-Miqbas, the commentary ascribed to Ibn Abbas, reads the verse another way. It glosses the guidance as the Torah, then widens the scene: Allah also gave Dawud (AS) the Psalms and 'Isa son of Maryam (AS) the Gospel, and the Scripture the Children of Israel inherited is what He sent down to them afterwards, the Scripture of Dawud and of 'Isa. On this reading al-kitab is more than one book. The other commentators fetched here do not take that line; for them it is the Torah.",
+            "bn": "ইবন আব্বাসের নামে প্রচলিত তাফসীর তানবীরুল মিকবাস আয়াতটি ভিন্নভাবে পড়ে। সেখানে হিদায়াত মানে তাওরাত। তারপর ছবিটা আরও বড় হয়: আল্লাহ দাউদ (আঃ)-কে যাবূর আর মারইয়ামের পুত্র ঈসা (আঃ)-কে ইনজীলও দিয়েছিলেন। বানী ইসরাঈল যে কিতাবের উত্তরাধিকারী হলো, তা পরে তাদের কাছে নাযিল হওয়া দাউদ ও ঈসার কিতাব। এ পাঠে আল কিতাব একটিমাত্র গ্রন্থ নয়। এখানে দেখা বাকি তাফসীরগুলো এ পথে যায় না। তাদের কাছে এটি তাওরাত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Land, Wealth, Then the Book",
+          "bn": "ভূমি, সম্পদ, তারপর কিতাব"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the verb more widely still. Before he reaches the Book, he glosses wa-awrathna as: We gave them the final outcome, and made them inherit Fir'awn's lands, his wealth, his stores and his territory, because they were patient in obeying Allah and in following His messenger Musa (AS). Only then does he speak of the Book they inherited, the Torah, in which there was guidance and a reminder for people of understanding. The abridged English edition keeps the same two steps, the outcome first and the Book after it.",
+            "bn": "ইবন কাসীর ক্রিয়াটিকে আরও বড় পরিসরে পড়েন। কিতাবের কথায় আসার আগে তিনি ওয়া আওরাসনার ব্যাখ্যা দেন এভাবে: আমি শেষ পরিণতি তাদের পক্ষে দিয়েছি, আর তাদের উত্তরাধিকারী করেছি ফিরআউনের দেশ, ধনসম্পদ, ভাণ্ডার আর ভূমির। কারণ তারা আল্লাহর আনুগত্যে আর তাঁর রসূল মূসা (আঃ)-এর অনুসরণে সবর করেছিল। এরপরই তিনি বলেন সেই কিতাবের কথা, যার উত্তরাধিকারী তারা হয়েছিল। সেটি তাওরাত, যাতে বোধসম্পন্ন মানুষের জন্য ছিল হিদায়াত ও উপদেশ। ইংরেজি সংক্ষিপ্ত সংস্করণেও এই দুই ধাপ রয়েছে: আগে পরিণতি, পরে কিতাব।"
+          },
+          {
+            "en": "The Qur'an uses the same verb for that same turn of events. In 26:57 to 26:59 it says that Fir'awn's people were taken out of their gardens, springs, treasures and honourable station, and then: thus, and We made the Children of Israel inherit them. In 7:137 it says that the people who had been held weak were made heirs to the land Allah had blessed, and that the good word of your Lord was fulfilled for the Children of Israel bima sabaru, because they were patient. The reason Ibn Kathir gives is the reason 7:137 itself states.",
+            "bn": "ঠিক এই ঘটনার বেলায় কুরআন নিজেও একই ক্রিয়া ব্যবহার করেছে। ২৬:৫৭ থেকে ২৬:৫৯ আয়াতে বলা হয়েছে, ফিরআউনের লোকদের বের করে আনা হলো তাদের বাগান, ঝরনা, ধনভাণ্ডার আর সম্মানের আসন থেকে। তারপর: এমনই হয়েছিল, আর আমি বানী ইসরাঈলকে সেগুলোর উত্তরাধিকারী করলাম। ৭:১৩৭ আয়াতে আছে, যাদের দুর্বল করে রাখা হয়েছিল, তাদের আল্লাহ বরকতময় ভূমির উত্তরাধিকারী করলেন। আর বানী ইসরাঈলের ব্যাপারে আপনার রবের কল্যাণময় বাণী পূর্ণ হলো বিমা সাবারূ, তারা সবর করেছিল বলে। ইবন কাসীর যে কারণ দেখান, ৭:১৩৭ আয়াত নিজেই সেই কারণ বলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guidance That Needs Understanding",
+          "bn": "বোঝার মন চায় যে হিদায়াত"
+        },
+        "p": [
+          {
+            "en": "The sentence does not end with 40:53. The next verse, 40:54, describes the inherited Book in four words: huda wa-dhikra li-uli al-albab, guidance and a reminder for people of understanding. Al-Qurtubi reads huda there as standing in place of al-kitab, or as meaning it is guidance; either way, it describes the Book of the verse before. Al-Muyassar treats the two verses together: the Torah, inherited generation after generation, guiding to the path of right conduct and admonishing people of sound minds.",
+            "bn": "বাক্যটি ৪০:৫৩ আয়াতে শেষ হয় না। পরের আয়াত, ৪০:৫৪, উত্তরাধিকার পাওয়া কিতাবটির পরিচয় দেয় চারটি শব্দে: হুদান ওয়া যিকরা লি উলিল আলবাব, বোধসম্পন্ন মানুষের জন্য হিদায়াত ও উপদেশ। কুরতুবী সেখানে হুদা শব্দটিকে পড়েন আল কিতাবের স্থলাভিষিক্ত হিসেবে, অথবা 'তা হিদায়াত' অর্থে। যেভাবেই পড়া হোক, শব্দটি আগের আয়াতের কিতাবেরই বর্ণনা। মুয়াসসার দুই আয়াতকে একসঙ্গে ব্যাখ্যা করে: প্রজন্মের পর প্রজন্ম ধরে পাওয়া তাওরাত, যা সঠিক পথের দিকে নিয়ে যায় আর সুস্থ বুদ্ধির মানুষদের উপদেশ দেয়।"
+          },
+          {
+            "en": "At-Tabari, on 40:54, defines the guidance as a clear account of the affairs of their religion and the duties Allah laid on them, and the reminder as one meant for the people of intellect among them. As-Sa'di adds a limit. The Book holds knowledge of the rulings and a reminder that draws towards good and warns away from evil, yet that is not for everyone; it is only for people of understanding. Ibn Kathir defines al-albab as sound, healthy minds. An inheritance reaches its full use only in an attentive heir.",
+            "bn": "৪০:৫৪ আয়াতের ব্যাখ্যায় তাবারী বলেন, হিদায়াত মানে তাদের দ্বীনের বিষয়াদি আর আল্লাহ তাদের উপর যেসব ফরজ চাপিয়েছেন, তার স্পষ্ট বিবরণ। আর উপদেশ তাদের মধ্যকার বুদ্ধিমানদের জন্য। সা'দী একটা সীমা টেনে দেন। কিতাবে আছে বিধিবিধানের জ্ঞান, আছে এমন উপদেশ যা ভালোর দিকে টানে আর মন্দ থেকে সাবধান করে। কিন্তু তা সবার জন্য নয়, কেবল বোধসম্পন্নদের জন্য। ইবন কাসীর আল আলবাবের অর্থ করেন সুস্থ, সঠিক বুদ্ধি। মীরাসের পুরো ফায়দা তাই কেবল মনোযোগী উত্তরাধিকারীই পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told to a Prophet in Makkah",
+          "bn": "মক্কার নবীকে শোনানো ইতিহাস"
+        },
+        "p": [
+          {
+            "en": "Why tell this to the Prophet ﷺ at this point? At-Tabari answers inside his gloss. Allah gave Musa the clear exposition of the truth, as He gave it to Muhammad ﷺ; Fir'awn and his people denied it, as Quraysh denied Muhammad ﷺ. The parallel runs on both sides: the gift is the same kind of gift, and the rejection is the same kind of rejection. A believer in Makkah who knew how Musa's story ended could read his own hard days in it and see where they were heading.",
+            "bn": "এ কথা এই জায়গায় নবী ﷺ-কে শোনানো হলো কেন? তাবারী তাঁর ব্যাখ্যার ভেতরেই উত্তর দেন। আল্লাহ মূসাকে সত্যের সুস্পষ্ট বর্ণনা দিয়েছিলেন, যেমন দিয়েছেন মুহাম্মাদ ﷺ-কে। ফিরআউন ও তার লোকেরা তা অস্বীকার করেছিল, যেমন কুরাইশ অস্বীকার করেছে মুহাম্মাদ ﷺ-কে। মিলটা দুই দিকেই: দানও একই রকম, প্রত্যাখ্যানও একই রকম। মক্কার যে মু'মিন জানতেন মূসার কাহিনি কোথায় গিয়ে শেষ হয়েছে, তিনি নিজের কঠিন দিনগুলোকে সেখানে দেখতে পেতেন, আর বুঝতেন এ দিনগুলো কোন দিকে যাচ্ছে।"
+          },
+          {
+            "en": "The abridged English Ibn Kathir heads this passage with a line that states the point outright: an indication that the Messenger and the believers will prevail, just as Musa and the Children of Israel prevailed. Maududi, on the quranx page for these verses, calls it a subtle allusion. Allah did not leave Musa alone when He sent him against Fir'awn, he writes, but gave him guidance at every step until success; in the same way the Prophet ﷺ had not been left alone among the Quraysh, and Allah was guiding him at every step.",
+            "bn": "ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ এ অংশের শিরোনামেই মূল কথাটা বলে দেয়: রসূল ও মু'মিনরা বিজয়ী হবেন, যেমন বিজয়ী হয়েছিলেন মূসা ও বানী ইসরাঈল। কুরআনএক্স সাইটে এ আয়াতগুলোর ব্যাখ্যায় মওদূদী একে বলেন সূক্ষ্ম ইঙ্গিত। তাঁর কথায়, আল্লাহ মূসাকে ফিরআউনের বিরুদ্ধে পাঠিয়ে একা ছেড়ে দেননি। সফলতা পর্যন্ত প্রতিটি পদক্ষেপে তাঁকে পথ দেখিয়েছেন। একইভাবে কুরাইশের মাঝে নবী ﷺ-কেও একা ছেড়ে দেওয়া হয়নি, আল্লাহ প্রতিটি পদে তাঁকে পথ দেখাচ্ছিলেন।"
+          },
+          {
+            "en": "Maududi draws a second parallel from the inheritance. Those who denied Musa were deprived of the blessing, and the Israelites who believed were made heirs to the Book; so too, he says, those who deny the Prophet ﷺ will be deprived, and those who believe in him will inherit the Qur'an and rise as bearers of guidance. The passage then turns the example into an instruction. In 40:55, a verse with its own article, comes the command: so be patient; the promise of Allah is true.",
+            "bn": "উত্তরাধিকারের প্রসঙ্গ থেকে মওদূদী আরেকটি মিল টানেন। যারা মূসাকে অস্বীকার করেছিল, তারা এ নিয়ামত থেকে বঞ্চিত হয়েছিল। আর যে ইসরাঈলীরা ঈমান এনেছিল, তাদের করা হয়েছিল কিতাবের উত্তরাধিকারী। তাঁর মতে, এভাবেই যারা নবী ﷺ-কে অস্বীকার করে তারা বঞ্চিত হবে। আর যারা তাঁর উপর ঈমান আনে, তারা কুরআনের উত্তরাধিকারী হবে এবং হিদায়াতের পতাকাবাহী হয়ে উঠবে। এরপর আলোচনা দৃষ্টান্ত থেকে নির্দেশে যায়। ৪০:৫৫ আয়াতে, যার আলাদা প্রবন্ধ আছে, আসে আদেশ: অতএব সবর করুন, আল্লাহর ওয়াদা সত্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Limits Worth Stating Plainly",
+          "bn": "সীমারেখাটা পরিষ্কার থাকুক"
+        },
+        "p": [
+          {
+            "en": "Two limits need saying plainly. First, the verse speaks of a gift Allah gave Musa (AS) and the Children of Israel in their own time, and Ibn Kathir's gloss of lands and wealth concerns what followed Fir'awn's fall in that history. The verse describes what the text describes. It licenses nothing against any living Jewish person or community, and it settles no present-day claim to any land, for anyone or against anyone. Fir'awn's people, too, appear here as part of a story the Qur'an tells, not as a label for anyone alive.",
+            "bn": "দুটি সীমা পরিষ্কার করে বলা দরকার। প্রথমত, আয়াতটি আল্লাহর এক দানের কথা বলে, যা তিনি মূসা (আঃ) ও বানী ইসরাঈলকে তাদের নিজেদের সময়ে দিয়েছিলেন। ইবন কাসীর ভূমি ও সম্পদের যে ব্যাখ্যা দেন, তা সেই ইতিহাসে ফিরআউনের পতনের পরের ঘটনা। আয়াত কেবল ততটুকুই বলে, যতটুকু তার ভাষা বলে। কোনো জীবিত ইহুদি ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের দিনে কোনো ভূমির উপর কারও দাবির পক্ষে বা বিপক্ষেও এ আয়াত কোনো রায় দেয় না। ফিরআউনের লোকেরাও এখানে কুরআনের বলা এক কাহিনির অংশ, আজকের কোনো মানুষের গায়ে লাগানোর নাম নয়।"
+          },
+          {
+            "en": "Second, the sources. None of the commentaries fetched for this verse attaches a hadith to it, and none reports an occasion of revelation for it, so this article cites neither. Ma'arif al-Qur'an, whose commentary takes 40:51 to 40:55 together, spends its words on the promise of help in 40:51 and says nothing particular about this verse. What the article relays comes from the tafsir texts named in each section, and where those texts lean different ways, they are left as their authors gave them.",
+            "bn": "দ্বিতীয়ত, সূত্রের কথা। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। কোনোটিই এর শানে নুযূলও বর্ণনা করেনি। তাই এ প্রবন্ধে দুটোর কোনোটিই আনা হয়নি। মাআরিফুল কুরআন ৪০:৫১ থেকে ৪০:৫৫ পর্যন্ত আয়াত একসঙ্গে আলোচনা করে। সেখানে কথা খরচ হয়েছে ৪০:৫১ আয়াতের সাহায্যের ওয়াদা নিয়ে, এ আয়াত নিয়ে আলাদা কিছু বলা হয়নি। প্রবন্ধে যা এসেছে, তা প্রতিটি অংশে নাম উল্লেখ করা তাফসীরগুলো থেকে। যেখানে তাদের ঝোঁক ভিন্ন, সেখানে লেখকেরা যেভাবে বলেছেন সেভাবেই রাখা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heirs of a Later Book",
+          "bn": "পরের কিতাবের ওয়ারিস"
+        },
+        "p": [
+          {
+            "en": "The same verb returns in 35:32, this time for the Qur'an: thumma awrathna al-kitab alladhina stafayna min 'ibadina, then We made heirs to the Book those We chose from among Our servants. The verse goes straight on to divide those heirs. Among them is one who wrongs himself, one who keeps a middle course, and one who is foremost in good deeds by Allah's permission. The Qur'an itself, in other words, does not treat receiving a Book as the same thing as living by it.",
+            "bn": "একই ক্রিয়া আবার আসে ৩৫:৩২ আয়াতে, এবার কুরআনের বেলায়: সুম্মা আওরাসনাল কিতাবাল্লাযীনাসতাফাইনা মিন ইবাদিনা, তারপর আমি আমার বান্দাদের মধ্যে যাদের বেছে নিয়েছি, তাদের কিতাবের উত্তরাধিকারী করেছি। আয়াতটি সঙ্গে সঙ্গে এই উত্তরাধিকারীদের ভাগ করে দেখায়। তাদের কেউ নিজের উপর যুলুম করে, কেউ মাঝামাঝি পথে চলে, আর কেউ আল্লাহর অনুমতিতে নেক কাজে এগিয়ে থাকে। অর্থাৎ কুরআন নিজেই কিতাব হাতে পাওয়া আর সে অনুযায়ী জীবন চালানোকে এক জিনিস মনে করে না।"
+          },
+          {
+            "en": "This is where 40:53 stops being only about others. Most Muslims received the Qur'an the way an heir receives property: through parents, teachers and a community, long before they chose anything. Nothing in that is earned. The point as-Sa'di makes on 40:54, that the reminder is for people of understanding and not for everyone, is a fair question to put to oneself. A copy of the Book can sit in every home on a street and still go unread in most of them.",
+            "bn": "এখানে এসে ৪০:৫৩ আয়াত আর কেবল অন্যদের কথা থাকে না। বেশির ভাগ মুসলমান কুরআন পেয়েছেন ঠিক যেভাবে ওয়ারিস সম্পত্তি পায়: বাবা-মা, শিক্ষক আর সমাজের হাত দিয়ে, নিজে কিছু বেছে নেওয়ার অনেক আগেই। এর কিছুই কামাই করা নয়। ৪০:৫৪ আয়াতে সা'দী যে কথা বলেন, উপদেশ সবার জন্য নয়, বোধসম্পন্নদের জন্য, তা নিজেকে জিজ্ঞেস করার মতো প্রশ্ন। এক মহল্লার প্রতিটি ঘরে কুরআন থাকতে পারে, অথচ বেশির ভাগ ঘরে তা না-পড়াই থেকে যেতে পারে।"
+          },
+          {
+            "en": "So the verse leaves its reader three plain tasks. The first is to recognise that guidance came as a gift, atayna, before any effort of ours. The second is to learn the inheritance well enough to live by it, as at-Tabari's words, and taught it to them, suggest. The third is to hand it on, so that the next generation inherits a Book that was actually used. Musa (AS) was given the guidance and his people inherited the Book; 35:32 asks every later heir which kind of heir to be.",
+            "bn": "তাই আয়াতটি পাঠকের সামনে তিনটি সহজ কাজ রেখে যায়। প্রথমটি হলো মেনে নেওয়া যে হিদায়াত এসেছে দান হিসেবে, আতাইনা, আমাদের কোনো চেষ্টার আগেই। দ্বিতীয়টি হলো মীরাসটা এতটা ভালো করে শেখা, যাতে সে অনুযায়ী জীবন চালানো যায়। তাবারীর কথা, আর তা তাদের শিখিয়েছি, এদিকেই ইঙ্গিত করে। তৃতীয়টি হলো তা সামনে পৌঁছে দেওয়া, যাতে পরের প্রজন্ম এমন কিতাবের উত্তরাধিকারী হয়, যা সত্যিই ব্যবহার হয়েছে। মূসা (আঃ) পেয়েছিলেন হিদায়াত, তাঁর কওম পেয়েছিল কিতাব। ৩৫:৩২ আয়াত পরের প্রতিটি ওয়ারিসকে জিজ্ঞেস করে, সে কোন ধরনের ওয়ারিস হবে।"
+          }
+        ]
+      }
+    ]
+  },
   "40:55": {
     "sections": [
       {

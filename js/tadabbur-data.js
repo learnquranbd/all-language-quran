@@ -37513,6 +37513,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Warn others out of care for them, not for yourself, and do not give up after one refusal: remind them, gently and again, of what came to those who opposed the truth.",
     "lessonBn": "অন্যকে সতর্ক করুন তাদের প্রতি দরদ থেকে, নিজের স্বার্থে নয়। একবার ফিরিয়ে দিলেই হাল ছাড়বেন না। যারা সত্যের বিরুদ্ধে দাঁড়িয়েছিল তাদের কী পরিণতি হয়েছিল, নরম সুরে বারবার তা মনে করিয়ে দিন।"
+  },
+  "40:53": {
+    "reflectionEn": "Straight after the promise that Allah helps His messengers, the passage gives an example. Musa was given the guidance, and the Children of Israel were made heirs to the Book. A gift to one man became something handed down, generation after generation. An inheritance is received, not earned, and an heir can treasure it, use it, or leave it untouched. The next verse calls that Book guidance and a reminder for people of understanding, so it reached its full use only in those who brought their minds to it. I too was handed a Book I did not earn, through parents and teachers. Am I reading it, living by it and passing it on, or only keeping it?",
+    "reflectionBn": "রসূলদের সাহায্য করার ওয়াদার ঠিক পরেই আয়াতগুলো একটা দৃষ্টান্ত সামনে আনে। মূসা (আঃ)-কে দেওয়া হয়েছিল হিদায়াত, আর বানী ইসরাঈলকে করা হয়েছিল কিতাবের উত্তরাধিকারী। একজন মানুষকে দেওয়া দান হয়ে উঠল প্রজন্মের পর প্রজন্মের মীরাস। মীরাস কেউ কামাই করে না, হাতে পায়। উত্তরাধিকারী চাইলে তা আগলে রাখে, কাজে লাগায়, আবার ফেলেও রাখতে পারে। পরের আয়াত বলছে, সে কিতাব ছিল বোধসম্পন্ন মানুষের জন্য হিদায়াত ও উপদেশ। অর্থাৎ পুরো ফায়দা পেয়েছে তারাই, যারা মন লাগিয়ে তা গ্রহণ করেছে। আমার হাতেও এসেছে এমন এক কিতাব, যা আমি নিজে অর্জন করিনি, এসেছে বাবা-মা আর শিক্ষকদের হাত ঘুরে। আমি কি তা পড়ছি, মেনে চলছি, পরের জনের হাতে তুলে দিচ্ছি? নাকি শুধু যত্ন করে রেখে দিয়েছি?",
+    "pointsEn": [
+      "What of the Qur'an did I receive from those before me, and what am I doing to hand it on to those after me?",
+      "Is the copy of the Book in my home something I consult, or something I own and leave on the shelf?",
+      "When it seems that the truth is losing, do I remember how Musa's story ended?",
+      "Do I bring to the Qur'an the attentive mind that the reminder is said to be for?",
+      "Have I treated being born into the faith as a merit of my own, rather than a trust I must carry?"
+    ],
+    "pointsBn": [
+      "আগের মানুষদের কাছ থেকে কুরআনের কতটুকু আমি পেয়েছি? আর পরের মানুষদের হাতে তা পৌঁছে দিতে আমি কী করছি?",
+      "আমার ঘরের কুরআনটা কি আমি খুলে দেখি, নাকি শুধু মালিক হয়ে তাকে তুলে রেখেছি?",
+      "যখন মনে হয় সত্য হেরে যাচ্ছে, তখন কি মূসা (আঃ)-এর কাহিনির শেষটা আমার মনে পড়ে?",
+      "কুরআনের কাছে কি আমি সেই মনোযোগী মন নিয়ে যাই, উপদেশ যাদের জন্য বলে কুরআন জানিয়েছে?",
+      "মুসলিম ঘরে জন্ম নেওয়াকে কি আমি নিজের কৃতিত্ব ভেবেছি, নাকি কাঁধে নেওয়া এক আমানত হিসেবে দেখেছি?"
+    ],
+    "lessonEn": "Allah's guidance reached you as an inheritance you did not earn. Hold the Qur'an as a trust: learn it, live by it, and pass it on.",
+    "lessonBn": "আল্লাহর হিদায়াত আপনার কাছে এসেছে এমন এক মীরাস হয়ে, যা আপনি অর্জন করেননি। কুরআনকে আমানত হিসেবে ধরে রাখুন: শিখুন, মেনে চলুন, আর পরের প্রজন্মের হাতে তুলে দিন।"
   }
 };
 
