@@ -2259,6 +2259,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "22:51": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Warning That Divides",
+          "bn": "সতর্কবাণী যেখানে ভাগ করে"
+        },
+        "p": [
+          {
+            "en": "The verse is the last of three. In 22:49 the Prophet ﷺ is told to say: O people, I am only a clear warner to you. Ibn Kathir, in the abridged English, places this at the moment the disbelievers asked him to hasten their punishment, and has him say that their reckoning is not his business but Allah's. As-Sa'di, on 22:49, explains mubin, clear: the warning is plain because it frightens while also telling what is to be feared, and because he set up shining proofs for it.",
+            "bn": "আয়াতটি তিনটি আয়াতের শেষটি। ২২:৪৯ আয়াতে নবী ﷺ-কে বলতে বলা হয়েছে: হে মানুষ, আমি তো তোমাদের জন্য কেবল এক সুস্পষ্ট সতর্ককারী। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এ কথাকে বসায় সেই মুহূর্তে, যখন কাফিররা তাঁকে শাস্তি তাড়াতাড়ি এনে দিতে বলছিল। সেখানে তিনি বলছেন, তাদের হিসাব নেওয়া তাঁর কাজ নয়, সেটা আল্লাহর হাতে। সা'দী ২২:৪৯ আয়াতে মুবীন বা সুস্পষ্ট শব্দের ব্যাখ্যা দেন। সতর্কবাণীটা স্পষ্ট, কারণ তা ভয় দেখায় আর কিসের ভয় তা-ও জানিয়ে দেয়। তা ছাড়া তিনি এর পক্ষে উজ্জ্বল প্রমাণও দাঁড় করিয়েছেন।"
+          },
+          {
+            "en": "Then, says as-Sa'di on 22:50, the warning and the good news are laid out in detail. Those who believed with their hearts and did righteous deeds with their limbs have forgiveness and noble provision. Ibn Kathir reports Muhammad ibn Ka'b al-Qurazi saying that rizq karim means Paradise, and the Muyassar calls it a good provision that never ends. Verse 51 gives the other side. Notice how each group is named: the first by what it believed and did, the second only by what it did against the verses.",
+            "bn": "সা'দী ২২:৫০ আয়াতে বলেন, এরপর সতর্কবাণী আর সুসংবাদ বিস্তারিত করা হলো। যারা অন্তর দিয়ে ঈমান এনেছে আর অঙ্গপ্রত্যঙ্গ দিয়ে নেক আমল করেছে, তাদের জন্য মাগফিরাত আর সম্মানজনক রিজিক। ইবন কাসীর মুহাম্মাদ ইবন কা‘ব আল-কুরাযীর কথা আনেন: রিযকুন কারীম মানে জান্নাত। মুয়াসসার একে বলে এমন উত্তম রিজিক যা কখনো ফুরায় না। ৫১ আয়াত দেখায় অন্য দিকটা। খেয়াল করুন দুই দলের পরিচয় কীভাবে দেওয়া হলো। প্রথম দলকে চেনানো হলো তাদের ঈমান ও আমল দিয়ে। দ্বিতীয় দলকে চেনানো হলো শুধু আয়াতের বিরুদ্ধে তাদের কাজ দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Effort Aimed at Cancelling",
+          "bn": "বাতিল করার পেছনে খাটুনি"
+        },
+        "p": [
+          {
+            "en": "Wa-lladhina sa'aw fi ayatina: and those who strove in Our signs. At-Tabari glosses the verb as 'amilu, they worked, and the signs as Allah's proofs: they worked against Our proofs and turned away from following Our messenger and from accepting the Book We sent down. He also comments on the small preposition fi, in. It is used, he says, the way Arabs say sa'a fulan fi amri fulan, so-and-so busied himself in another's affair. The effort is aimed at the signs themselves.",
+            "bn": "ওয়াল্লাযীনা সা‘আও ফী আয়াতিনা: আর যারা আমার আয়াতে চেষ্টা চালাল। তাবারী ক্রিয়াটির অর্থ করেন ‘আমিলূ, অর্থাৎ তারা কাজ করল। আর আয়াত বলতে বোঝেন আল্লাহর প্রমাণসমূহ। তাঁর ভাষায়, তারা আমার প্রমাণের বিরুদ্ধে কাজ করল, আমার রাসূলের অনুসরণ থেকে সরে গেল, আর আমার নাযিল করা কিতাব মেনে নেওয়া থেকেও। ছোট্ট অব্যয় ফী, অর্থাৎ ‘মধ্যে’, তা নিয়েও তিনি কথা বলেন। আরবরা যেমন বলে সা‘আ ফুলানুন ফী আমরি ফুলান, অমুক অমুকের ব্যাপারে খাটাখাটনি করল, এখানেও ফী সেভাবেই এসেছে। খাটুনিটা তাক করা আয়াতগুলোর দিকেই।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi both supply the word the phrase leaves unsaid: they strove fi ibtali ayatina, in nullifying Our signs. The Muyassar puts it most fully: they exerted themselves in scheming to nullify the verses of the Qur'an by calling them lies, contending and trying to overpower. So the striving is real effort, not idle disbelief, and its goal is cancellation. Almost the same opening, those who strive in Our signs mu'ajizin, returns at 34:5 and 34:38, each time with its own ending.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই সেই শব্দটা জুড়ে দেন যা বাক্যে উহ্য আছে: তারা চেষ্টা চালাল ফী ইবতালি আয়াতিনা, আমার আয়াত বাতিল করার কাজে। মুয়াসসার কথাটা সবচেয়ে পূর্ণ করে বলে: তারা কুরআনের আয়াত মিথ্যা বলে উড়িয়ে দিয়ে সেগুলো বাতিল করার চক্রান্তে উঠেপড়ে লেগেছিল, বিরোধিতা করছিল, জোর খাটিয়ে হারাতে চাইছিল। অর্থাৎ এ শুধু অলস অবিশ্বাস নয়, রীতিমতো খাটুনি, আর তার লক্ষ্য আয়াতকে নাকচ করা। প্রায় একই সূচনা, যারা আমার আয়াতে মু‘আজিযীন হয়ে চেষ্টা চালায়, আবার এসেছে ৩৪:৫ ও ৩৪:৩৮ আয়াতে, প্রতিবার আলাদা সমাপ্তি নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Word Read Two Ways",
+          "bn": "এক শব্দের দুই কিরাআত"
+        },
+        "p": [
+          {
+            "en": "The key word has two readings, and at-Tabari reports where each was read. Mu'ajizin, with a long a after the mim, is the reading of most reciters of Madinah and Kufah. Some reciters of Makkah and Basrah read mu'ajjizin, with a doubled jim and no long a. Al-Baghawi and al-Qurtubi name those two as Ibn Kathir and Abu 'Amr, and al-Baghawi adds that they read it this way here and in Surah Saba' too. This Ibn Kathir is a Qur'an reader in a list of readers, not the commentator quoted elsewhere here.",
+            "bn": "মূল শব্দটির দুটি কিরাআত আছে, আর কোনটি কোথায় পড়া হতো তাবারী তা জানান। মু‘আজিযীন, মীমের পরে দীর্ঘ আ সহ, মদীনা ও কূফার অধিকাংশ কারীর কিরাআত। মক্কা ও বসরার কিছু কারী পড়েছেন মু‘আজ্জিযীন, জীমে তাশদীদ দিয়ে, দীর্ঘ আ ছাড়া। বাগাভী ও কুরতুবী এই দুজনের নাম বলেন: ইবন কাসীর ও আবূ ‘আমর। বাগাভী আরও জানান, তাঁরা এখানে যেমন পড়েছেন, সূরা সাবাতেও তেমনই পড়েছেন। এখানে ইবন কাসীর কারীদের তালিকার এক কারীর নাম। এ লেখার অন্যত্র যে মুফাসসিরের কথা আসছে, তিনি নন।"
+          },
+          {
+            "en": "At-Tabari records that Ibn 'Abbas read the word with the long a throughout the Qur'an and explained it as mushaqqin, those who set themselves in hostile opposition. He then spells out the grammar of each form. Mu'ajazah is the mufa'alah pattern from 'ajz, incapacity: a contest between two parties in which each tries to make the other fail, so that one overpowers and subdues the other. Ta'jiz is the taf'il pattern from the same root and means weakening. One reading pictures a contest; the other pictures disabling somebody.",
+            "bn": "তাবারী জানান, ইবন আব্বাস (রাঃ) গোটা কুরআনেই শব্দটি দীর্ঘ আ দিয়ে পড়তেন, আর এর অর্থ বলতেন মুশাক্কীন, অর্থাৎ যারা শত্রুতা নিয়ে বিরোধিতায় নামে। এরপর তাবারী দুই রূপের ব্যাকরণ খুলে বলেন। মু‘আজাযা হলো ‘আজয, মানে অক্ষমতা, ধাতুর মুফা‘আলা ছাঁচ। এর মানে দুই পক্ষের পাল্লা, যেখানে প্রত্যেকে অন্যকে অক্ষম করে দিতে চায়, যাতে একজন অন্যজনকে হারিয়ে কাবু করতে পারে। একই ধাতুর তাফ‘ঈল ছাঁচ তা‘জীয, যার অর্থ দুর্বল করে দেওয়া। এক কিরাআতে তাই প্রতিযোগিতার ছবি, আরেকটিতে কাউকে অচল করে দেওয়ার ছবি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Thinking They Could Get Away",
+          "bn": "ফসকে যাওয়ার ভুল ধারণা"
+        },
+        "p": [
+          {
+            "en": "On the reading with the long a, at-Tabari gives two views among the commentators. The first is Ibn 'Abbas's mushaqqin, hostile opponents. The second comes from Qatada, through two chains from Ma'mar: they denied Allah's signs and thought they could escape Allah's power, and they never will. Al-Qurtubi gives the same sense from az-Zajjaj and notes that Qatada said it: they supposed they would slip from Our hold, because they thought there would be no resurrection and that Allah had no power over them.",
+            "bn": "দীর্ঘ আ সহ কিরাআতের অর্থ নিয়ে তাবারী মুফাসসিরদের দুটি মত আনেন। প্রথমটি ইবন আব্বাস (রাঃ)-এর মুশাক্কীন, শত্রুতা নিয়ে বিরোধিতাকারী। দ্বিতীয়টি কাতাদার, মা‘মারের সূত্রে দুটি সনদে: তারা আল্লাহর আয়াতকে মিথ্যা বলল আর ভাবল আল্লাহর ক্ষমতার নাগাল এড়িয়ে যেতে পারবে, অথচ কখনোই পারবে না। কুরতুবী একই অর্থ আনেন যাজ্জাজ থেকে, আর জানান কাতাদাও এ কথা বলেছেন। তাদের ধারণা ছিল তারা আমার হাত ফসকে যাবে। কারণ তারা ভেবেছিল পুনরুত্থান বলে কিছু নেই, আর আল্লাহ তাদের উপর ক্ষমতা রাখেন না।"
+          },
+          {
+            "en": "Al-Baghawi words Qatada's view most sharply. They supposed and reckoned that they would escape Us, by claiming there is no resurrection, no raising up, no Paradise and no Fire. To escape Us, he explains, means to get past Us so that We cannot reach them. He sets this beside 29:4: or do those who do evil deeds think they can outrun Us? Evil is what they judge. On this sense the word describes a false belief about Allah before it describes anything they did.",
+            "bn": "কাতাদার মতটা সবচেয়ে ধারালো ভাষায় বলেন বাগাভী। তারা ধরে নিয়েছিল, হিসাব কষে রেখেছিল যে আমাকে এড়িয়ে যাবে। তাদের দাবি ছিল, পুনরুত্থান নেই, কবর থেকে ওঠানো নেই, জান্নাত নেই, জাহান্নামও নেই। আমাকে এড়িয়ে যাওয়ার মানে তিনি বুঝিয়ে দেন: আমাকে পেরিয়ে চলে যাওয়া, যাতে আমি আর তাদের ধরতে না পারি। এর পাশে তিনি রাখেন ২৯:৪ আয়াত: যারা মন্দ কাজ করে তারা কি ভেবেছে আমাকে ছাড়িয়ে যাবে? কত মন্দ তাদের বিচার! এ অর্থে শব্দটি তাদের কোনো কাজের আগে আল্লাহ সম্পর্কে তাদের এক ভ্রান্ত বিশ্বাসের কথা বলে।"
+          },
+          {
+            "en": "Other glosses on the same reading keep the idea of a contest. Al-Qurtubi gives Ibn 'Abbas as mughalibin mushaqqin, trying to overpower and opposing. Ibn Kathir's wording from Ibn 'Abbas is different, muraghimin, defiant in resistance, which the abridged English renders as resisting the believers stubbornly. Al-Qurtubi also reports al-Farra' with mu'anidin, obstinate, and al-Akhfash with mu'anidin musabiqin, obstinate and racing ahead. Al-Baghawi closes with an unnamed view, mughalibin: each side wants to expose the other's incapacity.",
+            "bn": "একই কিরাআতের অন্য ব্যাখ্যাগুলোতেও পাল্লার ভাবটা থেকে যায়। কুরতুবী ইবন আব্বাস (রাঃ) থেকে আনেন মুগালিবীন মুশাক্কীন, অর্থাৎ হারানোর চেষ্টায় লিপ্ত বিরোধী। ইবন কাসীর ইবন আব্বাস (রাঃ) থেকে আনেন ভিন্ন শব্দ, মুরাগিমীন, জেদ ধরে প্রতিরোধকারী। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণ একে বলে ঈমানদারদের একগুঁয়ে প্রতিরোধ। কুরতুবী আরও জানান, ফাররা বলেছেন মু‘আনিদীন, হঠকারী, আর আখফাশ বলেছেন মু‘আনিদীন মুসাবিকীন, হঠকারী আর আগে বেরিয়ে যেতে চাওয়া। বাগাভী শেষ করেন নামহীন এক মত দিয়ে, মুগালিবীন: প্রতিটি পক্ষ চায় অন্য পক্ষের অক্ষমতা ফাঁস করে দিতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Holding Others Back",
+          "bn": "অন্যকে পিছু টেনে রাখা"
+        },
+        "p": [
+          {
+            "en": "The doubled reading turns the word outward, towards people. At-Tabari explains mu'ajjizin as those who made people incapable and held them back from following the Messenger ﷺ and from believing in the Qur'an. He gives Mujahid, through Ibn Abi Najih and again through Ibn Jurayj: mubatti'in, slowing people down from following the Prophet ﷺ. Ibn Kathir quotes Mujahid in near words, they discourage people from following the Prophet ﷺ, and adds 'Abdullah ibn az-Zubayr with muthabbitin, discouragers. Al-Qurtubi has Ibn az-Zubayr say discouragers from Islam.",
+            "bn": "তাশদীদওয়ালা কিরাআত শব্দটির মুখ ঘুরিয়ে দেয় মানুষের দিকে। তাবারী মু‘আজ্জিযীনের ব্যাখ্যা দেন এভাবে: যারা মানুষকে অক্ষম করে দিত, রাসূল ﷺ-এর অনুসরণ আর কুরআনে ঈমান আনা থেকে আটকে রাখত। তিনি মুজাহিদের কথা আনেন ইবন আবী নাজীহের সূত্রে, আবার ইবন জুরাইজের সূত্রেও: মুবাত্তিঈন, যারা মানুষকে নবী ﷺ-এর অনুসরণে ধীর করে দিত। ইবন কাসীর মুজাহিদের কথা আনেন কাছাকাছি শব্দে: তারা মানুষকে নবী ﷺ-এর অনুসরণে নিরুৎসাহিত করে। সঙ্গে আনেন আবদুল্লাহ ইবন যুবাইর (রাঃ)-এর মুসাব্বিতীন, অর্থাৎ নিরুৎসাহকারী। কুরতুবীর বর্ণনায় ইবন যুবাইর (রাঃ) বলেছেন: ইসলাম থেকে নিরুৎসাহকারী।"
+          },
+          {
+            "en": "Al-Qurtubi adds two more senses. As-Suddi said they make the believers fail in their faith in the Prophet ﷺ and in the signs. And a view al-Qurtubi gives without a name says they ascribed incapacity to those who followed Muhammad ﷺ, calling them weak, the way Arabic says jahhaltuhu, I called him ignorant, or fassaqtuhu, I called him corrupt. So the same verb can mean blocking a person's way to faith, or mocking the ones already on it as feeble. Both are effort spent on other people's belief.",
+            "bn": "কুরতুবী আরও দুটি অর্থ যোগ করেন। সুদ্দী বলেছেন, তারা মুমিনদের নবী ﷺ ও আয়াতের প্রতি ঈমানে ব্যর্থ করে দিতে চায়। আর নাম ছাড়া এক মত কুরতুবী আনেন: যারা মুহাম্মাদ ﷺ-কে অনুসরণ করেছে, তারা তাদের অক্ষমতার অপবাদ দিত, দুর্বল বলত। আরবিতে যেমন জাহহালতুহু মানে আমি তাকে মূর্খ বললাম, ফাসসাকতুহু মানে আমি তাকে পাপী বললাম, এ রূপটাও তেমন। অর্থাৎ একই ক্রিয়া বোঝাতে পারে কারও ঈমানের পথ আটকে দেওয়া, আবার যারা সে পথে উঠে এসেছে তাদের দুর্বল বলে বিদ্রূপ করা। দুটোই অন্যের ঈমানের পেছনে খরচ করা খাটুনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Both Readings Stand",
+          "bn": "দুই কিরাআতই সঠিক"
+        },
+        "p": [
+          {
+            "en": "The commentators do not line up neatly by reading. Al-Baghawi pairs them cleanly: the doubled form means discouraging people from faith, the long form means obstinate opposition. Al-Qurtubi instead says the doubled reading of Ibn Kathir and Abu 'Amr carries Qatada's sense too, of thinking they could escape, and only then allows as-Suddi's meaning as a possibility. At-Tabari goes further. Both, he says, are well-known readings, each read by learned reciters, and close in meaning, so whichever a reader follows, he is correct.",
+            "bn": "কোন কিরাআতে কোন অর্থ, এ নিয়ে মুফাসসিররা এক ছকে দাঁড়ান না। বাগাভী দুটিকে পরিষ্কার ভাগ করেন: তাশদীদওয়ালা রূপের মানে মানুষকে ঈমান থেকে নিরুৎসাহিত করা, দীর্ঘ আ-ওয়ালা রূপের মানে হঠকারী বিরোধিতা। কুরতুবী আবার বলেন, ইবন কাসীর ও আবূ ‘আমরের তাশদীদওয়ালা কিরাআতেও কাতাদার অর্থটা আছে, অর্থাৎ ফসকে যাওয়ার ধারণা। এরপরই তিনি সুদ্দীর অর্থকে সম্ভাব্য বলে মেনে নেন। তাবারী আরও এক ধাপ এগোন। তাঁর মতে দুটিই প্রসিদ্ধ কিরাআত, প্রতিটি পড়েছেন বিজ্ঞ কারীরা, আর অর্থেও দুটি কাছাকাছি। তাই পাঠক যেটিই পড়ুন, তিনি সঠিক।"
+          },
+          {
+            "en": "His reason ties the two together. Whoever disables people from Allah's signs has contended with Allah, and contending with Allah includes disabling people from His signs, acting in disobedience to Him and opposing His command. He then describes the people these verses were revealed about: they slowed others from faith in Allah and from following His Messenger, and they strove against the Messenger ﷺ, reckoning they would outmatch and overpower him, though Allah had guaranteed him victory over them. That, he says, was their contending with Allah.",
+            "bn": "দুটিকে তিনি এক সুতোয় গাঁথেন এই যুক্তিতে: যে মানুষকে আল্লাহর আয়াত থেকে অচল করে রাখে, সে আসলে আল্লাহর সঙ্গেই পাল্লা দেয়। আর আল্লাহর সঙ্গে পাল্লার মধ্যেই পড়ে তাঁর আয়াত থেকে মানুষকে আটকানো, তাঁর নাফরমানি করা, তাঁর হুকুমের বিরোধিতা করা। এরপর তিনি সেই লোকদের বর্ণনা দেন, যাদের ব্যাপারে এ আয়াতগুলো নাযিল হয়েছিল। তারা মানুষকে আল্লাহর প্রতি ঈমান আর তাঁর রাসূলের অনুসরণে ধীর করে দিত, রাসূল ﷺ-এর সঙ্গে টক্কর দিত, ভাবত তাঁকে হারিয়ে কাবু করে ফেলবে। অথচ আল্লাহ তাঁর বিজয়ের জিম্মা নিয়েছিলেন। তাবারী বলেন, এটাই ছিল আল্লাহর সঙ্গে তাদের পাল্লা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Companions Who Stay Put",
+          "bn": "যে সঙ্গ কখনো ছাড়ে না"
+        },
+        "p": [
+          {
+            "en": "Ula'ika ashabu l-jahim: those are the companions of the Blaze. At-Tabari reads it plainly: the people so described are the dwellers of Jahannam on the Day of Resurrection, its people who belong to it. Ibn Kathir describes al-jahim as the hot, painful fire, severe in its punishment and its chastisement, and adds a prayer that Allah protect us from it. He then quotes 16:88: those who disbelieved and barred others from Allah's way, We will add punishment upon punishment for the corruption they used to cause.",
+            "bn": "উলাইকা আসহাবুল জাহীম: তারাই জাহীম বা জ্বলন্ত আগুনের বাসিন্দা। তাবারী কথাটা সোজাভাবে পড়েন: যাদের এই বর্ণনা, তারাই কিয়ামতের দিন জাহান্নামের অধিবাসী, তারাই তার আপন লোক। ইবন কাসীর জাহীমের বর্ণনা দেন এমন আগুন হিসেবে, যা উত্তপ্ত, যন্ত্রণাদায়ক, শাস্তি আর দৃষ্টান্তমূলক সাজায় ভীষণ কঠিন। সঙ্গে দোয়া করেন, আল্লাহ যেন আমাদের তা থেকে রক্ষা করেন। এরপর তিনি উদ্ধৃত করেন ১৬:৮৮ আয়াত: যারা কুফরি করেছে আর অন্যদের আল্লাহর পথ থেকে ফিরিয়ে রেখেছে, তাদের ফাসাদের কারণে আমি শাস্তির উপর শাস্তি বাড়িয়ে দেব।"
+          },
+          {
+            "en": "The verse Ibn Kathir chose speaks of barring others from Allah's way, which sits close to the glosses of Mujahid and Ibn az-Zubayr he had just quoted. As-Sa'di, in the entry filed under this verse, dwells on the word ashab, companions: they are the ones who cling to the Fire and keep it company at every moment, so that its punishment is not lightened for them and does not ease for an instant. The Muyassar says the same in a line: they enter the kindled Fire and remain in it forever.",
+            "bn": "ইবন কাসীর যে আয়াতটি বেছে নিলেন, তা অন্যদের আল্লাহর পথ থেকে ফিরিয়ে রাখার কথা বলে। এটি তাঁর একটু আগে আনা মুজাহিদ ও ইবন যুবাইর (রাঃ)-এর ব্যাখ্যার খুব কাছাকাছি। এ আয়াতের নিচে রাখা ভুক্তিতে সা'দী থামেন আসহাব, অর্থাৎ সঙ্গী শব্দে। তারা আগুনকে আঁকড়ে থাকে, প্রতিটি মুহূর্তে তার সঙ্গে থাকে। তাই তাদের শাস্তি হালকা করা হয় না, এক পলকের জন্যও তা থামে না। মুয়াসসার এক বাক্যে একই কথা বলে: তারা জ্বালানো আগুনে ঢুকবে আর সেখানে চিরকাল থাকবে।"
+          },
+          {
+            "en": "Set the two endings of 22:50 and 22:51 side by side. Those who believed and did good are promised forgiveness and a noble provision; those who strove against the signs are given a companionship. On as-Sa'di's gloss the word means a company kept close, not a place passed through, and the commentators stress that this company does not leave them. The effort spent trying to escape Allah ends in a place from which there is no escaping.",
+            "bn": "২২:৫০ ও ২২:৫১, এই দুই আয়াতের সমাপ্তি পাশাপাশি রাখুন। যারা ঈমান এনে নেক আমল করেছে, তাদের প্রতিশ্রুতি দেওয়া হলো মাগফিরাত আর সম্মানজনক রিজিকের। আর যারা আয়াতের বিরুদ্ধে খেটেছে, তাদের দেওয়া হলো এক সঙ্গ। সা'দীর ব্যাখ্যায় শব্দটা বোঝায় সারাক্ষণের সঙ্গ, পথে পড়া কোনো জায়গা নয়। মুফাসসিররা জোর দিয়ে বলেন, এ সঙ্গ তাদের ছাড়ে না। আল্লাহকে এড়িয়ে যাওয়ার চেষ্টায় যে খাটুনি, তার শেষ এমন এক জায়গায়, যেখান থেকে আর এড়ানোর পথ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Our Own Effort Points",
+          "bn": "আমাদের খাটুনির মুখ কোন দিকে"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read for this verse attaches a hadith to it. The one narration in this stretch of Ma'arif al-Qur'an concerns the thousand years of 22:47, not this verse, and no report of an occasion of revelation is given for it. At-Tabari's description of the people the passage was revealed about is as close as the sources come. The next verse, 22:52, on the messengers and prophets sent before and what Satan casts in, opens a new subject and needs its own discussion; it is not taken up here.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি। মাআরিফুল কুরআনের এ অংশে যে একটি বর্ণনা আছে, তা ২২:৪৭ আয়াতের হাজার বছর নিয়ে, এ আয়াত নিয়ে নয়। এ আয়াত নাযিলের কোনো উপলক্ষের বর্ণনাও আনা হয়নি। যাদের ব্যাপারে আয়াতগুলো নাযিল হয়েছিল, তাদের নিয়ে তাবারীর বর্ণনাই এ পর্যন্ত সবচেয়ে কাছের কথা। পরের আয়াত ২২:৫২, আগের রাসূল ও নবীদের কথা আর শয়তান যা ছুড়ে দেয় তার কথা নিয়ে, এক নতুন প্রসঙ্গ খোলে। তার আলোচনা আলাদা জায়গার দাবি রাখে, এখানে তা তোলা হলো না।"
+          },
+          {
+            "en": "The verse describes, as the commentators describe, those who worked against Allah's signs and His Messenger ﷺ in their own time and the end they were warned of. It licenses nothing against any living person or community. It gives no one the right to name a neighbour, a rival or a group as the companions of the Fire. The Messenger ﷺ himself was told in 22:49 to say he is only a warner, and Ibn Kathir's gloss leaves the reckoning with Allah. No reader of the verse holds a larger role than his.",
+            "bn": "আয়াতটি বর্ণনা করে, মুফাসসিররা যেমন বলেছেন, সেই লোকদের কথা যারা নিজেদের সময়ে আল্লাহর আয়াত আর তাঁর রাসূল ﷺ-এর বিরুদ্ধে খেটেছিল, আর যে পরিণামের ব্যাপারে তাদের সতর্ক করা হয়েছিল। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। প্রতিবেশী, প্রতিদ্বন্দ্বী বা কোনো দলকে জাহান্নামের বাসিন্দা বলে দাগিয়ে দেওয়ার অধিকারও কাউকে দেয় না। স্বয়ং রাসূল ﷺ-কে ২২:৪৯ আয়াতে বলতে বলা হয়েছে, তিনি কেবল সতর্ককারী। ইবন কাসীরের ব্যাখ্যাও হিসাবটা আল্লাহর হাতেই রাখে। পাঠকের ভূমিকা তার চেয়ে বড় হতে পারে না।"
+          },
+          {
+            "en": "What the verse leaves for the reader is a question about direction. Its two readings name two ways effort goes wrong: imagining that Allah can be outrun because the consequence has not yet arrived, and standing in the road so that others are slowed on their way to faith. Neither needs open unbelief to begin; a sneer at the weak believer or a habit of explaining a verse away will do. The verse before it shows the other road, belief and good deeds, and asks each reader which of the two their own effort is serving.",
+            "bn": "আয়াতটি পাঠকের জন্য রেখে যায় দিকের প্রশ্ন। এর দুই কিরাআত খাটুনি ভুল পথে যাওয়ার দুটি ধরন দেখায়। এক, পরিণাম এখনো আসেনি বলে ভাবা যে আল্লাহকে ছাড়িয়ে যাওয়া যাবে। দুই, পথের মাঝে দাঁড়িয়ে থাকা, যাতে অন্যরা ঈমানের দিকে যেতে পিছিয়ে পড়ে। কোনোটার শুরুতেই খোলাখুলি কুফরি লাগে না। দুর্বল মুমিনকে নিয়ে একটু তাচ্ছিল্য, কিংবা আয়াতকে ব্যাখ্যা করে উড়িয়ে দেওয়ার অভ্যাসই যথেষ্ট। ঠিক আগের আয়াত দেখায় অন্য পথটা, ঈমান আর নেক আমল। এখন প্রত্যেক পাঠকের প্রশ্ন, তার খাটুনি কোন পথের সেবা করছে।"
+          }
+        ]
+      }
+    ]
+  },
   "22:53": {
     "sections": [
       {

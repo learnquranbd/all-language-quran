@@ -34699,6 +34699,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Worship Allah with your whole weight, grateful in ease and patient in hardship, and never let your faith rise and fall with how the world treats you.",
     "lessonBn": "পুরো ভার আল্লাহর উপর রেখে তাঁর ইবাদত করুন, সুখে শোকর আর কষ্টে সবর নিয়ে। দুনিয়া আপনার সঙ্গে কেমন আচরণ করছে, তার সঙ্গে ঈমানকে কখনো ওঠানামা করতে দেবেন না।"
+  },
+  "22:51": {
+    "reflectionEn": "The Messenger is told to say he is only a clear warner, and then the warning divides people into two. One group believed and did good, and for them is forgiveness and noble provision. The other is named by what it did: they strove in Our verses, running hard against them, as if they could make them fail or outpace the One who sent them. Some read the word as holding others back from faith. The race is already lost, for no one outruns Allah, and they are called the companions of the Fire. So I ask myself: when the truth is put in front of me, am I working with it or against it? And has anyone been slowed down on the way to it because of me?",
+    "reflectionBn": "রাসূলকে বলতে বলা হলো, তিনি কেবল এক সুস্পষ্ট সতর্ককারী। এরপর সেই সতর্কবাণী মানুষকে দুই ভাগে ভাগ করে দেয়। এক দল ঈমান এনেছে আর নেক আমল করেছে, তাদের জন্য মাগফিরাত আর সম্মানজনক রিজিক। আরেক দলের পরিচয় তাদের কাজ দিয়েই: তারা আমার আয়াতের বিরুদ্ধে দৌড়ঝাঁপ করেছে, যেন আয়াতগুলোকে ব্যর্থ করে দিতে পারবে, যেন যিনি পাঠিয়েছেন তাঁকে এড়িয়ে যেতে পারবে। কেউ কেউ শব্দটি পড়েছেন অন্যদের ঈমান থেকে আটকে রাখা অর্থে। এ দৌড়ে তাদের হার আগেই লেখা, কারণ আল্লাহকে কেউ ফাঁকি দিতে পারে না। তাদের নাম তাই জাহান্নামের বাসিন্দা। তাই নিজেকে জিজ্ঞেস করি: সত্য যখন আমার সামনে আসে, আমি কি তার সঙ্গে চলি, নাকি তার বিরুদ্ধে খাটি? আর আমার কারণে কেউ কি সত্যের পথে পিছিয়ে পড়েছে?",
+    "pointsEn": [
+      "When a verse I do not like is recited to me, do I look for its meaning, or for a way around it?",
+      "Is there anyone I have discouraged, by a joke, a sneer or my own example, from coming closer to faith?",
+      "Where am I spending real effort, and is any of that effort working against what Allah has made clear?",
+      "Do I ever act as though a delay in consequences means I have got away with something?",
+      "What would it look like this week to put my striving behind the verses instead of against them?"
+    ],
+    "pointsBn": [
+      "অপছন্দের কোনো আয়াত যখন আমাকে শোনানো হয়, আমি কি তার অর্থ খুঁজি, নাকি তাকে পাশ কাটানোর রাস্তা খুঁজি?",
+      "ঠাট্টা করে, তাচ্ছিল্য দেখিয়ে বা নিজের দৃষ্টান্ত দিয়ে আমি কি কাউকে ঈমানের কাছে আসা থেকে নিরুৎসাহিত করেছি?",
+      "আমার আসল খাটুনিটা কোথায় যাচ্ছে? তার কোনো অংশ কি আল্লাহ যা স্পষ্ট করেছেন তার বিরুদ্ধে যাচ্ছে?",
+      "পরিণাম দেরিতে আসছে বলে আমি কি কখনো এমন ভাব করি, যেন পার পেয়ে গেছি?",
+      "এ সপ্তাহে আমার চেষ্টাকে আয়াতের বিরুদ্ধে না লাগিয়ে আয়াতের পক্ষে লাগানো দেখতে কেমন হবে?"
+    ],
+    "lessonEn": "Effort spent against Allah's verses is a race no one wins. Put your striving behind the truth, and never be the reason someone else is held back from it.",
+    "lessonBn": "আল্লাহর আয়াতের বিরুদ্ধে খাটুনি এমন এক দৌড়, যাতে কেউ জেতে না। আপনার চেষ্টা সত্যের পক্ষে লাগান, আর কখনো এমন হবেন না যার কারণে অন্য কেউ সত্য থেকে পিছিয়ে পড়ে।"
   }
 };
 
