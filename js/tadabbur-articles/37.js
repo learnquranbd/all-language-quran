@@ -4971,6 +4971,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:94": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words, One Crowd",
+          "bn": "তিন শব্দে এক জনতা"
+        },
+        "p": [
+          {
+            "en": "Fa-aqbalu ilayhi yaziffun: then they came towards him, hastening. The verse is three Arabic words, and its opening fa ties it to what came just before. Ibrahim (AS) had stayed behind when his people went out to their festival, turned to their gods, and struck them with his right hand (37:88 to 37:93); those verses have their own pages. Now the people are back. The Qur'an does not name the subject of the verb, and al-Baghawi supplies whom they came towards: to Ibrahim.",
+            "bn": "ফাআকবালূ ইলাইহি ইয়াযিফফূন: তখন তারা দ্রুত তাঁর দিকে এগিয়ে এল। আয়াতটি আরবিতে তিনটি শব্দ। শুরুর 'ফা' একে বেঁধে দেয় ঠিক আগের ঘটনার সঙ্গে। জাতির লোকেরা উৎসবে বেরিয়ে গেলে ইবরাহীম (আঃ) পেছনে থেকে গিয়েছিলেন। তারপর তিনি তাদের উপাস্যদের দিকে গেলেন আর ডান হাতে আঘাত করলেন (৩৭:৮৮ থেকে ৩৭:৯৩)। সে আয়াতগুলোর আলোচনা তাদের নিজের জায়গায়। এখন লোকেরা ফিরে এসেছে। ক্রিয়ার কর্তা কুরআন নাম ধরে বলেনি। কার দিকে তারা এল, বাগাভী তা খুলে বলেন: ইবরাহীমের দিকে।"
+          },
+          {
+            "en": "Ibn Kathir observes that the story is told in brief here and in more detail in Surat al-Anbiya'. When they returned, he says, they did not know at first who had done this, until they investigated and found out that it was Ibrahim. Surah 21 shows that search (21:59 to 21:61), and its pages tell it. Here the Qur'an moves from the blow straight to the crowd's arrival. This article stays with that arrival: the verb, the ways it was read, and what set them moving.",
+            "bn": "ইবন কাসীর লক্ষ করেন, এখানে কাহিনিটা সংক্ষেপে বলা হয়েছে, সূরা আল-আম্বিয়ায় বলা হয়েছে বিস্তারিত। তাঁর কথায়, ফিরে এসে প্রথমে তারা জানত না কাজটা কে করেছে। খোঁজখবর নেওয়ার পর জানতে পারল, তিনি ইবরাহীম। সেই খোঁজের ছবি আছে সূরা ২১-এ (২১:৫৯ থেকে ২১:৬১), আর তার বিবরণ সেসব আয়াতের পাতায়। এখানে কুরআন আঘাতের দৃশ্য থেকে সোজা চলে আসে জনতার আগমনে। এ লেখা থাকবে সেই আগমনটুকু নিয়ে: ক্রিয়াটি, তা পড়ার নানা ধরন, আর কিসে তাদের ছুটিয়ে আনল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Ostrich's First Stride",
+          "bn": "উটপাখির প্রথম ছুট"
+        },
+        "p": [
+          {
+            "en": "At-Tabari roots the common reading in a phrase of the Arabs: zaffati n-na'ama, the ostrich went at a zaff. That, he says, is the first of its running and the last of its walking. He supports it with a line of al-Farazdaq, in which the stallion of a herd of she-camels comes on ahead of their young, yaziff, and the camels come behind him, zuffaf, moving the same way. On this account the word names a gait at a border: no longer a walk, not yet a full run.",
+            "bn": "প্রচলিত কিরাআতের মূল তাবারী খোঁজেন আরবদের একটি কথায়: যাফফাতিন নাআমা, উটপাখিটি 'যাফফ' চালে চলল। তাঁর ব্যাখ্যায় এ হলো উটপাখির দৌড়ের শুরু আর হাঁটার শেষ। কথাটার সমর্থনে তিনি ফারাযদাকের একটি পঙক্তি আনেন। সেখানে উটনীর পালের মদ্দা উটটি বাচ্চাদের আগে আগে আসে 'ইয়াযিফফু' চালে, আর পেছনে উটনীরাও আসে একই চালে, 'যুফফাফ' হয়ে। এ ব্যাখ্যায় শব্দটি এমন এক চালের নাম, যা দুই অবস্থার সীমানায়। হাঁটা আর নেই, আবার পুরো দৌড়ও শুরু হয়নি।"
+          },
+          {
+            "en": "Al-Qurtubi gathers the lexicographers. Muhammad ibn Yazid says az-zafif is speed; Abu Ishaq says it is the first running of the ostrich. One view al-Qurtubi relays has them slipping along between walking and running, which he links to zafif an-na'ama. He also ties the root to the procession of a bride, zifaf al-'arus, taken to her husband, and relays through an-Nahhas from al-Khalil that the litter carrying her is called al-mizaffa. The same letters cover a bird's quickening stride and a bride's escort.",
+            "bn": "কুরতুবী অভিধানবিদদের কথা এক জায়গায় আনেন। মুহাম্মাদ ইবন ইয়াযীদ বলেন, যাফীফ মানে দ্রুততা। আবূ ইসহাক বলেন, উটপাখির দৌড়ের প্রথম ধাপ। কুরতুবীর উদ্ধৃত একটি মতে তারা এসেছিল হাঁটা আর দৌড়ের মাঝামাঝি চালে, চুপিসারে এগিয়ে। এর সঙ্গে তিনি যাফীফুন নাআমার সম্পর্ক টানেন। একই ধাতু থেকে এসেছে যিফাফুল আরূস, কনেকে বরের কাছে নিয়ে যাওয়ার শোভাযাত্রা। নাহহাসের মাধ্যমে খলীল থেকে তিনি আনেন, যে পালকিতে কনেকে বয়ে নেওয়া হয় তার নাম আল-মিযাফফা। পাখির ক্রমে বাড়তে থাকা চাল আর কনের শোভাযাত্রা, দুটোই ধরে রেখেছে একই অক্ষরগুলো।"
+          },
+          {
+            "en": "The choice of word does work that a plain 'they came quickly' would not. It draws the moment from life the listeners knew: a large creature breaking into speed, a herd following its leader in one line. Nothing in the verse counts the people or says who led them. The gait says enough. They did not stroll back to ask what had happened. They were already moving faster than walking, and they were moving towards one man.",
+            "bn": "শুধু 'তারা দ্রুত এল' বললে যা হতো না, শব্দটির বাছাই সেই কাজ করে। শ্রোতাদের চেনা জীবন থেকে সে মুহূর্তের ছবি আনে: বিশাল এক প্রাণী গতি নিচ্ছে, একটা পাল এক সারিতে নেতার পিছু নিচ্ছে। আয়াত লোকেদের সংখ্যা গোনে না, কে তাদের আগে ছিল তাও বলে না। চালটাই যথেষ্ট বলে দেয়। কী হয়েছে জানতে তারা ধীরে হেঁটে ফেরেনি। হাঁটার চেয়ে জোরে তারা আগে থেকেই চলছিল, আর চলছিল একজন মানুষের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Running, Walking or Strutting",
+          "bn": "দৌড়, হাঁটা, না দম্ভের চাল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari says plainly that the interpreters differed over the meaning, and he gives each view with its chain. Ibn Abbas, by a chain through Mu'awiya and Ali: they came to him running, yajrun. As-Suddi: they came walking, yamshun. Ibn Zayd, from his father: they hurried, yasta'jilun, and he adds that yaziff means to be in a hurry. Three early glosses, then, and they do not say the same thing. One has the people running, one has them walking, one has them pressing to arrive.",
+            "bn": "তাবারী সোজাসুজি বলেন, অর্থ নিয়ে ব্যাখ্যাকারদের মধ্যে মতভেদ আছে। প্রতিটি মত তিনি সনদসহ আনেন। মুআবিয়া ও আলীর সূত্রে ইবন আব্বাস বলেন, তারা দৌড়ে তাঁর দিকে এল, ইয়াজরূন। সুদ্দী বলেন, তারা হেঁটে এল, ইয়ামশূন। ইবন যায়দ তাঁর পিতা থেকে বলেন, তারা তাড়াহুড়া করছিল, ইয়াসতা'জিলূন। তিনি আরও বলেন, ইয়াযিফফু মানে তাড়াহুড়া করা। তাহলে প্রথম যুগের তিনটি ব্যাখ্যা, আর তিনটির কথা এক নয়। একটিতে লোকেরা দৌড়াচ্ছে, একটিতে হাঁটছে, আরেকটিতে পৌঁছানোর তাড়ায় ছুটছে।"
+          },
+          {
+            "en": "Al-Qurtubi widens the list. Ibn Zayd: they hastened. Qatada and as-Suddi: they walked. Ad-Dahhak: yas'awn, they moved briskly. Yahya ibn Sallam relays: they trembled with anger. Mujahid: they strutted, the walk of pride, and it is from this sense, al-Qurtubi says, that the bride's procession takes its name. A further view, given only as 'it was said', runs the other way: they walked as a body, at an easy pace, secure that no one would touch their gods with harm. He lists them without choosing.",
+            "bn": "কুরতুবী তালিকাটা আরও বড় করেন। ইবন যায়দ: তারা দ্রুত এল। কাতাদা ও সুদ্দী: তারা হেঁটে এল। দাহহাক: ইয়াস'আওন, তারা জোর কদমে এল। ইয়াহইয়া ইবন সাল্লাম বর্ণনা করেন: রাগে তারা থরথর করে কাঁপছিল। মুজাহিদ বলেন: তারা দম্ভভরে চলছিল, অহংকারীর চালে। কুরতুবী বলেন, কনের শোভাযাত্রার নাম এই অর্থ থেকেই। আরেকটি মত তিনি আনেন শুধু 'বলা হয়' বলে, আর সেটি উল্টো দিকে যায়। তারা দল বেঁধে ধীরেসুস্থে হাঁটছিল, নিশ্চিন্ত মনে যে কেউ তাদের দেবতাদের গায়ে হাত দেবে না। কুরতুবী মতগুলো সাজিয়ে রাখেন, কোনোটি বেছে নেন না।"
+          },
+          {
+            "en": "The later summaries lean firmly towards speed. Ibn Kathir: Mujahid and several others said, they hastened. As-Sa'di: they hasten and rush, yusri'un wa yuhra'un. Al-Baghawi: they hasten. The Muyassar packs three words into its gloss: running, hastening, angry. So the weight of these commentaries falls on haste, while al-Qurtubi keeps the slower and the prouder pictures on record. The verse carries the haste in its verb; the other pictures stay as what the early reports say.",
+            "bn": "পরের যুগের সংক্ষিপ্ত তাফসীরগুলো স্পষ্টভাবে দ্রুততার দিকে ঝোঁকে। ইবন কাসীর: মুজাহিদসহ একাধিকজন বলেছেন, তারা দ্রুত এল। সা'দী: তারা দ্রুত ছুটে আসছিল, ইউসরিঊনা ওয়া ইউহরাঊন। বাগাভী: তারা দ্রুত এল। মুয়াসসার তার ব্যাখ্যায় তিনটি শব্দ একসঙ্গে রাখে: দৌড়ে, দ্রুত, রাগান্বিত হয়ে। এসব তাফসীরের ভার তাই তাড়াহুড়ার দিকেই। তবে ধীর চাল আর দম্ভের চালের ছবিও কুরতুবী নথিতে রেখে দেন। তাড়াহুড়াটা আয়াতের ক্রিয়ার মধ্যেই আছে। বাকি ছবিগুলো থাকে প্রথম যুগের বর্ণনা হিসেবে, যেমন তারা বলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mujahid, Reported Three Ways",
+          "bn": "মুজাহিদের নামে তিন ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "One name turns up in three of the sources, and each gives him a different gloss. In Ibn Kathir, Mujahid and others say yaziffun means they hastened. In at-Tabari, by a full chain through Ibn Abi Najih, Mujahid says al-wazif is an-naslan, a quick trot; at-Tabari sets this beside the rarer reading yazifun with a single fa. In al-Qurtubi, Mujahid says they strutted, the walk of pride. Hastening, trotting and strutting are close kin, but they are not the same gait.",
+            "bn": "একটি নাম তিনটি তাফসীরে আছে, আর তিনটিতেই তাঁর ব্যাখ্যা ভিন্ন। ইবন কাসীরে মুজাহিদ ও অন্যরা বলেন, ইয়াযিফফূন মানে তারা দ্রুত এল। তাবারীতে ইবন আবী নাজীহের সূত্রে পূর্ণ সনদে মুজাহিদ বলেন, আল-ওয়াযীফ মানে আন-নাসালান, দ্রুত কদমে চলা। তাবারী এটি রাখেন এক 'ফা'-ওয়ালা বিরল কিরাআত ইয়াযিফূন-এর পাশে। কুরতুবীতে মুজাহিদ বলেন, তারা দম্ভভরে চলছিল, অহংকারীর চালে। দ্রুত আসা, দ্রুত কদমে চলা আর দম্ভের চাল কাছাকাছি, তবু তিনটি এক চাল নয়।"
+          },
+          {
+            "en": "None of the three sources explains why its report of Mujahid differs from the others, and this article does not try to settle it. Each gloss is attached to his name in a text fetched for this verse, and each is given here as that text gives it. What can be said is narrower. All three describe the manner in which the people came, not whether they came. None of them has the crowd hanging back, and two of the three have it moving fast.",
+            "bn": "মুজাহিদের বর্ণনা কেন অন্যগুলো থেকে আলাদা, তিন তাফসীরের কোনোটিই তা ব্যাখ্যা করে না। এ লেখাও সে বিষয়ের মীমাংসা করতে যাবে না। প্রতিটি ব্যাখ্যা এ আয়াতের জন্য সংগ্রহ করা কোনো না কোনো পাঠে তাঁর নামের সঙ্গে যুক্ত, আর এখানে তা রাখা হলো সেই পাঠ যেভাবে দেয় সেভাবেই। এর বেশি যা বলা যায় তা সামান্য। তিনটিই বলে লোকেরা কোন চালে এসেছিল, তারা এসেছিল কি না তা নয়। কোনোটিতেই জনতা পিছিয়ে থাকে না। আর তিনটির মধ্যে দুটিতে তারা আসছে দ্রুত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Vowel That Moves Others",
+          "bn": "এক হরকতে ভিন্ন ছবি"
+        },
+        "p": [
+          {
+            "en": "The reciters differed here, at-Tabari reports. Most reciters of Medina and Basra, and some of Kufa, read yaziffun, with a fatha on the ya and the fa doubled. A group of Kufans read yuziffun, with a damma on the ya, from azaffa. Al-Baghawi names al-A'mash and Hamza for the damma, says the others read the fatha, and calls the two forms two dialects. Al-Qurtubi names Hamza alone for the damma and the rest of the reciters for the fatha.",
+            "bn": "তাবারী জানান, এখানে কারীদের মধ্যে মতভেদ আছে। মদীনা ও বসরার অধিকাংশ কারী এবং কুফার কয়েকজন পড়েছেন ইয়াযিফফূন, 'ইয়া'-তে যবর আর 'ফা' তাশদীদসহ। কুফার একদল পড়েছেন ইউযিফফূন, 'ইয়া'-তে পেশ দিয়ে, আযাফফা থেকে। বাগাভী পেশের কিরাআতে আ'মাশ ও হামযার নাম নেন। তিনি বলেন, বাকিরা যবর দিয়ে পড়েছেন, আর দুটি রূপকে বলেন দুই আঞ্চলিক ভাষারীতি। কুরতুবী পেশের কিরাআতে শুধু হামযার নাম নেন, আর যবরের কিরাআত দেন বাকি কারীদের নামে।"
+          },
+          {
+            "en": "What does the damma add? At-Tabari reports that al-Farra had heard only zafaftu, and suggested that yuziffun works like atradtu r-rajul, I made the man an outcast: they came in that state, like a bride being led in procession. Al-Qurtubi gives a second account. The verb takes an object that is left unsaid: they made others go at a zaff, as al-Asma'i explains azfaftu l-ibil, I drove the camels into that gait. Al-Baghawi records a related view, introduced with 'it was said': they pressed their mounts to haste.",
+            "bn": "পেশ দিলে অর্থে কী যোগ হয়? তাবারী জানান, ফাররা শুধু 'যাফাফতু' রূপটিই শুনেছিলেন। তাঁর ধারণা, ইউযিফফূন চলে 'আতরাদতুর রাজুল'-এর মতো, যার মানে আমি লোকটিকে বিতাড়িত বানালাম। তাহলে অর্থ হয়: তারা এল সেই অবস্থায়, শোভাযাত্রায় নিয়ে যাওয়া কনের মতো। কুরতুবী আরেকটি ব্যাখ্যা দেন। ক্রিয়াটির একটি কর্ম আছে, যা উহ্য রাখা হয়েছে: তারা অন্যদের 'যাফফ' চালে চালাল। আসমাঈ 'আযফাফতুল ইবিল'-এর ব্যাখ্যা দেন এভাবে: আমি উটগুলোকে সেই চালে হাঁকালাম। বাগাভী 'বলা হয়' বলে কাছাকাছি একটি মত আনেন: তারা নিজেদের বাহনগুলোকে জোরে হাঁকিয়ে আনল।"
+          },
+          {
+            "en": "Here the commentators part ways on more than meaning. Abu Hatim, al-Qurtubi reports, said he did not know this form; the reply in al-Qurtubi's text is that a group of scholars did know it, al-Farra among them. At-Tabari makes a choice of his own: the right reading, in his view, is the fatha with the doubled fa, because that is the sound and familiar speech of the Arabs and the reading of the most eloquent reciters. Al-Baghawi and al-Qurtubi also record the view that both are dialects. Both positions stand here, without a ruling.",
+            "bn": "এখানে তাফসীরকারদের পথ আলাদা হয় শুধু অর্থে নয়। কুরতুবী জানান, আবূ হাতিম বলেছেন তিনি এ রূপ চেনেন না। কুরতুবীর পাঠে এর জবাবও আছে: একদল আলিম তা চিনতেন, ফাররাও তাঁদের একজন। তাবারী নিজে একটি পক্ষ নেন। তাঁর মতে সঠিক কিরাআত যবর আর তাশদীদওয়ালা 'ফা'। কারণ আরবদের ভাষায় সেটিই শুদ্ধ ও পরিচিত, আর সবচেয়ে বিশুদ্ধভাষী কারীরা সেভাবেই পড়েছেন। অন্যদিকে বাগাভী ও কুরতুবী এই মতও রাখেন যে দুটিই আরবদের দুই ভাষারীতি। দুই অবস্থানই এখানে যেমন আছে তেমন রাখা হলো, কোনো রায় ছাড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Readings Few Had Heard",
+          "bn": "বিরল কিরাআতের হিসাব"
+        },
+        "p": [
+          {
+            "en": "A third form, yazifun with the fa single, from wazafa, is weighed more doubtfully. At-Tabari says some read it, that al-Kisa'i is reported not to have known it, and that al-Farra said he did not know it either, unless it was a dialect he had not heard. Al-Qurtubi tells the dispute in more detail. Abu Hatim claimed al-Kisa'i reported such a reading; an-Nahhas answers that Abu Hatim heard nothing from al-Kisa'i, and that al-Farra, al-Kisa'i's own companion, reported that al-Kisa'i did not know it.",
+            "bn": "তৃতীয় একটি রূপ আছে, এক 'ফা'-ওয়ালা ইয়াযিফূন, ওয়াযাফা থেকে। এর ব্যাপারে সংশয় বেশি। তাবারী বলেন, কেউ কেউ এভাবে পড়েছেন। কিসাঈ সম্পর্কে বর্ণিত আছে যে তিনি এ রূপ চিনতেন না। ফাররাও বলেছেন, তিনি চেনেন না, যদি না এটি এমন কোনো ভাষারীতি হয় যা তাঁর কানে পৌঁছায়নি। কুরতুবী বিতর্কটা আরও খুলে বলেন। আবূ হাতিমের দাবি, কিসাঈ এমন এক কিরাআতের কথা বলেছেন। নাহহাসের জবাব, আবূ হাতিম কিসাঈ থেকে কিছুই শোনেননি। আর কিসাঈর নিজের শিষ্য ফাররা জানিয়েছেন, কিসাঈ এ রূপ চিনতেন না।"
+          },
+          {
+            "en": "The dispute does not end there. Abu Ishaq, in al-Qurtubi, says others knew wazafa yazifu in the sense of hastening. An-Nahhas says he knows of nobody who read it, and al-Qurtubi adds that it is the reading of Abdullah ibn Yazid, as al-Mahdawi mentions. Al-Qurtubi then lists further forms. Az-Zamakhshari gives a passive form, and another from zafahu, he drove him on, as though they drove each other on in their rush. Ath-Tha'labi reports from al-Hasan, Mujahid and Ibn as-Samayfa' yariffun, with ra, from the ostrich's rafif, a run between walking and flight.",
+            "bn": "বিতর্ক এখানেই শেষ নয়। কুরতুবীতে আবূ ইসহাক বলেন, অন্যরা 'ওয়াযাফা ইয়াযিফু' চিনতেন, দ্রুত চলার অর্থে। নাহহাস বলেন, এভাবে কেউ পড়েছেন বলে তাঁর জানা নেই। কুরতুবী যোগ করেন, মাহদাবীর উল্লেখ অনুযায়ী এটি আবদুল্লাহ ইবন ইয়াযীদের কিরাআত। এরপর কুরতুবী আরও কয়েকটি রূপ আনেন। যামাখশারী দেন একটি কর্মবাচ্য রূপ, আর যাফাহু থেকে আরেকটি রূপ, যার মানে তাকে তাড়িয়ে নিল। যেন ছুটে আসার তাড়ায় তারা একে অপরকে ঠেলে নিচ্ছিল। সা'লাবী হাসান, মুজাহিদ ও ইবনুস সামাইফা' থেকে আনেন ইয়ারিফফূন, 'রা' দিয়ে। এটি এসেছে উটপাখির 'রাফীফ' থেকে, হাঁটা আর ওড়ার মাঝামাঝি এক দৌড়।"
+          },
+          {
+            "en": "These forms are recorded, debated and in part doubted; at-Tabari's choice stays with the reading he calls the known speech of the Arabs. Yet the scholars who argued over them were arguing about a picture they all saw. Whether the people hastened, drove each other on, or moved like an ostrich half running and half taking off, every form of the word keeps them in motion, together, towards Ibrahim (AS). No reading has them stop on the way to ask what their broken gods might say.",
+            "bn": "এ রূপগুলো নথিভুক্ত, তা নিয়ে বিতর্ক হয়েছে, কিছু নিয়ে সংশয়ও আছে। তাবারীর পছন্দ থেকে যায় সেই কিরাআতেই, যাকে তিনি আরবদের পরিচিত ভাষা বলেন। তবু যে আলিমরা এসব নিয়ে তর্ক করেছেন, তাঁরা তর্ক করছিলেন এমন এক ছবি নিয়ে, যা সবাই দেখছিলেন। লোকেরা দ্রুত এসেছে, একে অপরকে ঠেলে এনেছে, নাকি উটপাখির মতো আধা দৌড়ে আধা উড়ে, শব্দটির প্রতিটি রূপেই তারা চলমান, দলবদ্ধ, ইবরাহীম (আঃ)-এর দিকে। কোনো কিরাআতেই তারা পথে থেমে জিজ্ঞেস করে না, তাদের ভাঙা দেবতারা কী বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Sent Them Hurrying",
+          "bn": "কিসে তাদের ছুটিয়ে আনল"
+        },
+        "p": [
+          {
+            "en": "The verse gives the motion; the commentators give the motive. Al-Baghawi says they had been told what Ibrahim had done to their gods, so they hurried to him in order to seize him. As-Sa'di says they wanted to fall upon him, and places their haste after the search reported in surah 21: they asked who had done this, heard of a young man who spoke of the idols, and then rebuked and blamed him. The Muyassar adds the feeling in a single word: angry.",
+            "bn": "আয়াত দেয় চলার ছবি, তাফসীরকারেরা দেন তার কারণ। বাগাভী বলেন, ইবরাহীম তাদের দেবতাদের সঙ্গে যা করেছেন, সে খবর তাদের কাছে পৌঁছেছিল। তাই তাঁকে ধরার জন্য তারা দ্রুত তাঁর দিকে এল। সা'দী বলেন, তারা তাঁর উপর চড়াও হতে চাইছিল। তাদের এই তাড়াহুড়া তিনি রাখেন সূরা ২১-এ বর্ণিত খোঁজের পরে। তারা জিজ্ঞেস করল, এ কাজ কে করেছে। শুনল এক যুবকের কথা, যে মূর্তিগুলোর কথা বলত। তারপর তারা তাঁকে ভর্ৎসনা আর দোষারোপ করল। মুয়াসসার এক শব্দে মনের অবস্থাটা জুড়ে দেয়: রাগান্বিত।"
+          },
+          {
+            "en": "Yahya ibn Sallam, as al-Qurtubi relays him, goes further: they trembled with rage. Against these stands the unnamed view in al-Qurtubi of a crowd walking at ease, sure that no harm could reach their gods. It sits uneasily beside the angry readings, and al-Qurtubi lists it without weighing it. If such ease fits anywhere, it fits before the people knew, a stage Ibn Kathir does name: at first they did not know who had done it. After they knew, every commentator who names a feeling names anger, and those who name an aim name harm.",
+            "bn": "কুরতুবীর বর্ণনায় ইয়াহইয়া ইবন সাল্লাম আরও এগিয়ে যান: রাগে তারা কাঁপছিল। এর বিপরীতে আছে কুরতুবীর আনা সেই নামহীন মত, যেখানে জনতা নিশ্চিন্তে হাঁটছে, ভাবছে দেবতাদের কোনো ক্ষতি হতে পারে না। রাগের ব্যাখ্যাগুলোর পাশে এ মত বেমানান। কুরতুবীও এটি ওজন না করেই তালিকায় রাখেন। এমন নিশ্চিন্ত ভাবের জায়গা যদি কোথাও থাকে, তা লোকেরা জানার আগে। ইবন কাসীর সেই পর্বের কথা বলেন: প্রথমে তারা জানত না কাজটা কে করেছে। জানার পরে যে তাফসীরকারই মনের অবস্থার নাম নেন, তিনি বলেন রাগ। আর যিনিই উদ্দেশ্যের নাম নেন, তিনি বলেন ক্ষতি করা।"
+          },
+          {
+            "en": "There is something telling in the haste itself. Gods that had to be avenged by a running crowd had already answered the question put to them in 37:92. They had not spoken, and they had not defended themselves; now their worshippers ran to do it for them. The people did not go to the broken figures to ask who struck them. They went to the man. Without a word of comment, the verse lets the listener see that, by their own conduct, the worshippers treated the man, not the idols, as the one who could act.",
+            "bn": "তাড়াহুড়াটার মধ্যেই একটা কথা লুকিয়ে আছে। যে দেবতাদের প্রতিশোধ নিতে একদল লোককে দৌড়াতে হয়, ৩৭:৯২ আয়াতে তাদের যে প্রশ্ন করা হয়েছিল, তার জবাব তারা আগেই দিয়ে ফেলেছে। তারা কথা বলেনি, নিজেদের রক্ষাও করেনি। এখন পূজারিরা দৌড়াচ্ছে সে কাজ তাদের হয়ে করে দিতে। কে আঘাত করল, তা জানতে লোকেরা ভাঙা মূর্তিগুলোর কাছে যায়নি। গেছে মানুষটির কাছে। কোনো মন্তব্য ছাড়াই আয়াত শ্রোতাকে দেখিয়ে দেয়, পূজারিরা নিজেদের আচরণেই মূর্তিকে নয়, মানুষটিকেই ধরে নিয়েছিল কিছু করতে পারার কর্তা হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Met With a Question",
+          "bn": "জনতার সামনে একটি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The next verse is his reply: do you worship what you yourselves carve? (37:95), followed by: while Allah created you and what you make (37:96). Ibn Kathir says that when they came to rebuke him, he began rebuking them. What wa ma ta'malun means, and the long discussion it carries, belongs to 37:96. None of the tafsirs consulted here attaches a hadith to this verse or reports an occasion of revelation; it is one step in a narrative.",
+            "bn": "পরের আয়াতেই তাঁর জবাব: তোমরা নিজেরা যা খোদাই কর, তারই ইবাদত কর? (৩৭:৯৫)। তারপর: অথচ আল্লাহই তোমাদের সৃষ্টি করেছেন, আর তোমরা যা বানাও তাও (৩৭:৯৬)। ইবন কাসীর বলেন, তারা যখন তাঁকে ভর্ৎসনা করতে এল, তিনি উল্টো তাদেরই ভর্ৎসনা শুরু করলেন। 'ওয়া মা তা'মালূন'-এর অর্থ আর তা নিয়ে দীর্ঘ আলোচনা ৩৭:৯৬ আয়াতের জায়গা। এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করে না, নাযিলের কোনো প্রেক্ষাপটও বলে না। আয়াতটি একটি কাহিনির একটি ধাপ।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes one ancient people rushing in anger at their prophet. It licenses nothing against any living person or community, and it gives no crowd a warrant to rush at anyone, in any cause. What it asks of the listener is smaller and harder: to notice that speed and numbers settle nothing. A town arrived at a run; one man answered with a question. The argument, not the rush, is what the Qur'an keeps.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে প্রাচীন এক জাতির কথা, যারা রাগে নিজেদের নবীর দিকে তেড়ে এসেছিল। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। কোনো জনতাকে, কোনো উদ্দেশ্যেই, কারও দিকে তেড়ে যাওয়ার ছাড়পত্রও দেয় না। শ্রোতার কাছে এর দাবি ছোট, কিন্তু কঠিন: খেয়াল করা যে গতি আর সংখ্যা কিছুই মীমাংসা করে না। গোটা জনপদ এসেছিল দৌড়ে। একজন মানুষ জবাব দিয়েছিলেন একটি প্রশ্নে। কুরআন ধরে রেখেছে সেই যুক্তি, দৌড়টা নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "37:97": {
     "sections": [
       {

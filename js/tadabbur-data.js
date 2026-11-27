@@ -37013,6 +37013,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Being in the majority proves nothing. Weigh what you inherited against what the warners said, and be ready to stand with the few who listened.",
     "lessonBn": "দলে ভারী হওয়া কোনো প্রমাণ নয়। উত্তরাধিকারে যা পেয়েছেন, তা সতর্ককারীদের কথার সঙ্গে মিলিয়ে দেখুন, আর যে অল্প কজন কথা শুনেছিল, তাদের পাশে দাঁড়াতে প্রস্তুত থাকুন।"
+  },
+  "37:94": {
+    "reflectionEn": "The people come home from their festival to find their gods broken, and the whole town comes toward one man, fast. The Qur'an gives the moment three words. The verb it chooses is the one the Arabs used for an ostrich breaking from a walk into its first run. Whatever drove them, anger, alarm or the wish to seize him, they moved quickly, together, in one direction. In the next verse he meets the crowd with a question, not with speed of his own. A crowd rarely stops to ask whether its anger points at the right thing. When others rush at someone, do I join the rush before I have asked why? And when they rush at me, can I answer with a calm question instead of a shout?",
+    "reflectionBn": "উৎসব থেকে ফিরে লোকেরা দেখে, তাদের দেবতারা ভাঙা পড়ে আছে। তখন গোটা জনপদ ছুটে আসে একজন মানুষের দিকে। কুরআন মুহূর্তটা বলে মাত্র তিন শব্দে। যে ক্রিয়াটি বেছে নেওয়া হয়েছে, আরবরা তা বলত উটপাখির বেলায়, যখন সে হাঁটা ছেড়ে প্রথম দৌড় দেয়। রাগ, আতঙ্ক, নাকি তাঁকে ধরে ফেলার ইচ্ছা, যা-ই তাদের তাড়া দিক, তারা এসেছিল দ্রুত, দল বেঁধে, একই দিকে। পরের আয়াতে তিনি এই জনতার সামনে দাঁড়ান একটি প্রশ্ন নিয়ে, পাল্টা কোনো তাড়াহুড়া নিয়ে নয়। জনতা সাধারণত থেমে ভাবে না, তার রাগ ঠিক জায়গায় পড়ছে কি না। অন্যরা যখন কারও দিকে তেড়ে যায়, আমি কি কারণ না জেনেই সেই দৌড়ে শামিল হই? আর কেউ যখন আমার দিকে তেড়ে আসে, আমি কি চিৎকারের বদলে শান্ত একটা প্রশ্ন দিয়ে জবাব দিতে পারি?",
+    "pointsEn": [
+      "When a group I belong to turns angry at someone, how long do I wait before I join in?",
+      "What did I last defend with more heat than evidence, and did it deserve that heat?",
+      "Is there anything I guard so fiercely that I have never asked whether it can guard me?",
+      "When people come at me in anger, do I answer with a question that makes them think, or with anger of my own?",
+      "Whose side have I taken only because the crowd was already moving that way?"
+    ],
+    "pointsBn": [
+      "আমি যে দলের মানুষ, তারা কারও উপর রেগে উঠলে আমি নিজে কতক্ষণ অপেক্ষা করি, তারপর যোগ দিই?",
+      "শেষবার কোন জিনিসের পক্ষে আমি প্রমাণের চেয়ে বেশি উত্তাপ নিয়ে লড়েছি? সেটা কি ততটা উত্তাপের যোগ্য ছিল?",
+      "এমন কিছু কি আছে, যাকে আমি প্রাণপণে আগলে রাখি, অথচ কখনো ভাবিনি সে আমাকে আগলাতে পারে কি না?",
+      "কেউ রেগে আমার দিকে এলে আমি কি এমন প্রশ্ন করি যাতে সে একটু ভাবে, নাকি নিজের রাগ দিয়েই জবাব দিই?",
+      "শুধু জনতা আগে থেকেই সেদিকে ছুটছিল বলে আমি কার পক্ষ নিয়েছি?"
+    ],
+    "lessonEn": "Speed and numbers prove nothing. Before you join a crowd rushing at someone, ask what the anger is for; and when a crowd rushes at you, answer with a calm question.",
+    "lessonBn": "গতি আর সংখ্যা কিছুই প্রমাণ করে না। কারও দিকে ছুটে চলা জনতায় ভেড়ার আগে জিজ্ঞেস করুন, রাগটা কিসের জন্য। আর জনতা যখন আপনার দিকে ছুটে আসে, শান্ত একটা প্রশ্ন দিয়ে জবাব দিন।"
   }
 };
 
