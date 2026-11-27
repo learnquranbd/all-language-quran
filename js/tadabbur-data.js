@@ -35417,6 +35417,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Before you call on anything, ask whether it can hear you, and turn your calling to the One who hears every call.",
     "lessonBn": "কোনো কিছুকে ডাকার আগে জিজ্ঞেস করুন, সে আপনার ডাক শোনে কি না। আর আপনার ডাক ফিরিয়ে দিন তাঁর দিকে, যিনি প্রতিটি ডাক শোনেন।"
+  },
+  "26:48": {
+    "reflectionEn": "Pharaoh had asked the question himself: and what is the Lord of the worlds? Now his own magicians, the men he had gathered to beat Moses, give the answer in his hall, in front of everyone. We believe in the Lord of the worlds, they say, and then they add three words so that no one can mistake whom they mean: the Lord of Moses and Aaron. The man on the throne had called himself lord. The names leave him no room. They do not say they believe in a man, or in a staff; they name the Lord who sent the two brothers. When I speak of my faith, is it plain whom I mean? Or do I keep it vague enough to trouble no power I fear?",
+    "reflectionBn": "প্রশ্নটা ফেরাউন নিজেই করেছিল: রাব্বুল আলামীন আবার কে? এখন তার নিজের যাদুকরেরা, যাদের সে জড়ো করেছিল মূসাকে হারানোর জন্য, তারই দরবারে সবার সামনে সেই প্রশ্নের জবাব দিচ্ছে। তারা বলছে, আমরা রাব্বুল আলামীনের উপর ঈমান আনলাম। তারপর তিনটি শব্দ জুড়ে দিচ্ছে, যাতে কেউ ভুল বুঝতে না পারে কার কথা হচ্ছে: যিনি মূসা ও হারূনের রব। সিংহাসনে বসা লোকটি নিজেকে রব বলে দাবি করত। নাম দুটো তার জন্য কোনো ফাঁক রাখে না। তারা কোনো মানুষের উপর ঈমান আনার কথা বলেনি, কোনো লাঠির উপরও নয়। তারা নাম নিয়েছে সেই রবের, যিনি দুই ভাইকে পাঠিয়েছেন। আমি যখন নিজের ঈমানের কথা বলি, পরিষ্কার বোঝা যায় কি আমি কাকে বোঝাচ্ছি? নাকি কথাটা এমন ঝাপসা রাখি, যাতে যে ক্ষমতাকে ভয় পাই তার গায়ে আঁচ না লাগে?",
+    "pointsEn": [
+      "When I say I believe in Allah, do my choices this week make it plain that I mean Him, and not my comfort, my standing or the people who pay me?",
+      "Is there anyone around me whose approval I treat as though it decided what is true?",
+      "The magicians knew their craft well enough to see where it ended. Where does my own skill tell me that something has gone beyond it?",
+      "Do I ever keep my faith general on purpose, so that no one in the room feels questioned by it?",
+      "When the truth wins through another person, do I give the credit to the One who sent it, or only to the one who carried it?"
+    ],
+    "pointsBn": [
+      "আমি যখন বলি আল্লাহর উপর ঈমান রাখি, এ সপ্তাহের সিদ্ধান্তগুলো থেকে কি বোঝা যায় যে আমি তাঁকেই বোঝাই? নাকি আসলে আমার আরাম, আমার মর্যাদা বা যারা আমাকে বেতন দেয় তারাই আমার সিদ্ধান্ত ঠিক করে?",
+      "আমার আশপাশে কি এমন কেউ আছে, যার সন্তুষ্টিকে আমি এমনভাবে দেখি যেন সত্য-মিথ্যা সে-ই ঠিক করে দেয়?",
+      "যাদুকরেরা নিজেদের বিদ্যা এত ভালো জানত যে তার সীমা কোথায়, তা দেখতে পেয়েছিল। আমার নিজের দক্ষতা কোথায় আমাকে জানিয়ে দেয় যে ব্যাপারটা তার নাগালের বাইরে?",
+      "আমি কি কখনো জেনেশুনে নিজের ঈমানকে এমন সাধারণ কথায় আটকে রাখি, যাতে মজলিসের কেউ নিজেকে প্রশ্নের মুখে না দেখে?",
+      "সত্য যখন অন্য কারও হাত দিয়ে জয়ী হয়, কৃতিত্বটা কি আমি তাঁকে দিই যিনি সত্য পাঠিয়েছেন, নাকি শুধু তাকে যে সেটা বয়ে এনেছে?"
+    ],
+    "lessonEn": "Name plainly the Lord you believe in, so that no power around you can claim your words for itself; faith is owed to the One who sends, not to any man.",
+    "lessonBn": "যে রবের উপর ঈমান রাখেন, তাঁর নাম স্পষ্ট করে নিন, যাতে আশপাশের কোনো ক্ষমতা আপনার কথাকে নিজের বলে দাবি করতে না পারে। ঈমান পাওনা তাঁর, যিনি পাঠান, কোনো মানুষের নয়।"
   }
 };
 

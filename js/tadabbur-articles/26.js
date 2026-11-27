@@ -2311,6 +2311,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:48": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Sentence They Finished",
+          "bn": "যে বাক্য তারা শেষ করল"
+        },
+        "p": [
+          {
+            "en": "Rabbi Musa wa Harun: the Lord of Musa and Harun. The verse is three Arabic words, and it is not a sentence on its own. It completes the sentence begun in 26:47, qalu amanna bi-rabbi l-'alamin, they said: we believe in the Lord of the worlds. The magicians had thrown their ropes and staffs by the might of Pharaoh (26:44), the staff of Musa (AS) had swallowed what they faked (26:45), and they had been thrown down in prostration (26:46). That prostration has its own article; the focus here is on the words they spoke.",
+            "bn": "রাব্বি মূসা ওয়া হারূন: যিনি মূসা ও হারূনের রব। আয়াতটি আরবিতে মাত্র তিনটি শব্দ, আর একা দাঁড়িয়ে এটি পূর্ণ বাক্য নয়। বাক্যটা শুরু হয়েছিল ২৬:৪৭ আয়াতে: কালূ আমান্না বিরাব্বিল আলামীন, তারা বলল, আমরা রাব্বুল আলামীনের উপর ঈমান আনলাম। এ আয়াত সেটাকেই শেষ করে। এর আগে যাদুকরেরা ফেরাউনের ইযযতের দোহাই দিয়ে রশি আর লাঠি ছুড়েছিল (২৬:৪৪)। মূসা (আঃ)-এর লাঠি তাদের সাজানো ভেলকি গিলে ফেলেছিল (২৬:৪৫)। তারপর তারা সিজদায় লুটিয়ে পড়েছিল (২৬:৪৬)। সেই সিজদা নিয়ে আলাদা প্রবন্ধ আছে। এখানে আমরা থাকব তাদের মুখের কথাগুলো নিয়ে।"
+          },
+          {
+            "en": "The commentators read the two verses as one statement. The Muyassar, which treats 26:46 to 26:48 together, gives the order of events: when they saw it, and knew that it was not the trickery of magicians, they believed in Allah, prostrated to Him and said, we believe in the Lord of the worlds, the Lord of Musa and Harun. As-Sa'di quotes both verses as a pair and then describes the hall: falsehood was crushed in that gathering, its leaders admitted that it was false, and the truth became so clear that the onlookers saw it with their own eyes.",
+            "bn": "তাফসীরকারেরা দুই আয়াতকে একটিই ঘোষণা হিসেবে পড়েন। মুয়াসসার ২৬:৪৬ থেকে ২৬:৪৮ একসঙ্গে ব্যাখ্যা করে ঘটনার ধারাটা দেখান। তারা যখন দৃশ্যটা দেখল এবং বুঝল যে এটা যাদুকরদের ভেলকি নয়, তখন আল্লাহর উপর ঈমান আনল, তাঁকে সিজদা করল আর বলল: আমরা রাব্বুল আলামীনের উপর ঈমান আনলাম, যিনি মূসা ও হারূনের রব। সা'দী দুই আয়াত পাশাপাশি উদ্ধৃত করে দরবারের ছবি আঁকেন। সেই সমাবেশে বাতিল মাথা নোয়াল, তার নেতারাই স্বীকার করল যে এটা বাতিল। আর হক এমন স্পষ্ট হয়ে উঠল যে উপস্থিত লোকেরা নিজের চোখে তা দেখল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Raised at 26:23",
+          "bn": "২৬:২৩ আয়াতের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The words are not new in this surah. When Allah sent the two brothers, the instruction was: go to Pharaoh, both of you, and say, we are the messenger of the Lord of the worlds (26:16). Pharaoh's first reply to the message was a question, wa ma rabbu l-'alamin, and what is the Lord of the worlds? (26:23). Musa (AS) answered it more than once, in 26:24, 26:26 and 26:28, and Pharaoh closed that exchange with a threat: if you take a god other than me, I will surely put you among the imprisoned (26:29).",
+            "bn": "এই সূরায় কথাগুলো নতুন নয়। আল্লাহ যখন দুই ভাইকে পাঠালেন, নির্দেশ ছিল: তোমরা দুজন ফেরাউনের কাছে যাও আর বলো, আমরা রাব্বুল আলামীনের রাসূল (২৬:১৬)। বার্তা শুনে ফেরাউনের প্রথম জবাব ছিল একটি প্রশ্ন: ওয়া মা রাব্বুল আলামীন, রাব্বুল আলামীন আবার কী? (২৬:২৩)। মূসা (আঃ) একাধিকবার এর উত্তর দিয়েছিলেন, ২৬:২৪, ২৬:২৬ ও ২৬:২৮ আয়াতে। শেষে ফেরাউন আলাপ থামিয়েছিল হুমকি দিয়ে: আমাকে ছাড়া অন্য কাউকে ইলাহ বানালে তোমাকে অবশ্যই কয়েদিদের দলে ভরব (২৬:২৯)।"
+          },
+          {
+            "en": "Now the question is answered again, in the same court, by the very men Pharaoh had brought in to settle it his way. At-Tabari, on 26:47, explains the Lord of the worlds in their mouths as the One whom Musa called us to worship, rather than Pharaoh and his chiefs. The confession takes up Musa's own call. Ibn Kathir, on this verse, says what made it so weighty: the men through whom Pharaoh had sought victory, and from whom he had asked a win, were themselves beaten, and they submitted and believed in Musa (AS) in that very hour.",
+            "bn": "এবার সেই একই দরবারে প্রশ্নটার জবাব আসছে আবার, আর দিচ্ছে ঠিক সেই লোকেরা, যাদের ফেরাউন ডেকে এনেছিল নিজের পক্ষে ফয়সালা করাতে। ২৬:৪৭ আয়াতে তাবারী তাদের মুখের 'রাব্বুল আলামীন' কথাটির ব্যাখ্যা দেন এভাবে: সেই রব, মূসা যাঁর ইবাদতের দিকে আমাদের ডেকেছেন, ফেরাউন ও তার সভাসদেরা নয়। অর্থাৎ ঘোষণাটা মূসার নিজের দাওয়াতেরই প্রতিধ্বনি। এ আয়াতে ইবন কাসীর বলেন, ব্যাপারটা এত ভারী কেন। ফেরাউন যাদের দিয়ে জিততে চেয়েছিল, যাদের কাছে জয় দাবি করেছিল, তারাই হেরে গেল। তারা নত হলো এবং সেই মুহূর্তেই মূসা (আঃ)-এর উপর ঈমান আনল।"
+          },
+          {
+            "en": "The phrase does not stop with them. It runs on through the surah's later stories. Ibrahim (AS) calls everything his people worship an enemy to him, except the Lord of the worlds (26:77). The misled admit in Hell that they had made their idols equal to the Lord of the worlds (26:98). Five messengers in turn say their reward rests only with the Lord of the worlds (26:109, 26:127, 26:145, 26:164 and 26:180), and the surah ends by calling the Qur'an a revelation from Him (26:192). The magicians stand near the middle of that line.",
+            "bn": "কথাটা তাদের কাছে এসে থেমে যায়নি। সূরার পরের কাহিনিগুলোতেও তা বারবার ফিরে আসে। ইবরাহীম (আঃ) বলেন, তাঁর কওম যাদের পূজা করে তারা সবাই তাঁর শত্রু, শুধু রাব্বুল আলামীন ছাড়া (২৬:৭৭)। পথভ্রষ্টেরা জাহান্নামে দাঁড়িয়ে স্বীকার করে, তারা নিজেদের মূর্তিগুলোকে রাব্বুল আলামীনের সমান বানিয়েছিল (২৬:৯৮)। পাঁচজন রাসূল একে একে বলেন, তাঁদের প্রতিদান কেবল রাব্বুল আলামীনের কাছে (২৬:১০৯, ২৬:১২৭, ২৬:১৪৫, ২৬:১৬৪ ও ২৬:১৮০)। আর সূরা শেষ হয় কুরআনকে তাঁরই নাযিল করা বাণী বলে (২৬:১৯২)। যাদুকরদের ঘোষণা দাঁড়িয়ে আছে এই সারির মাঝামাঝি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not the Man on the Throne",
+          "bn": "সিংহাসনের মানুষটি নয়"
+        },
+        "p": [
+          {
+            "en": "Why add the names when they had already said the Lord of the worlds? The article on 7:122 and 7:123, where the same words close the same scene, sets out the answer, so a summary is enough here. At-Tabari, on 7:122, places two words after the verse: la Fir'awn, not Pharaoh. Ma'arif al-Qur'an, on the same passage, says they added the names to make it clear that the Lord whom Musa and Harun (AS) worship is in fact the Lord of the universe, and not Pharaoh, as he pretended to be.",
+            "bn": "রাব্বুল আলামীন তো তারা বলেই ফেলেছিল, তবু নাম দুটো জুড়ল কেন? ৭:১২২ ও ৭:১২৩ আয়াতে একই কথায় একই দৃশ্য শেষ হয়, আর সেখানকার প্রবন্ধে এর উত্তর বিস্তারিত আছে। তাই এখানে সংক্ষেপে বলাই যথেষ্ট। ৭:১২২ আয়াতের পরেই তাবারী দুটি শব্দ বসিয়ে দেন: লা ফিরআউন, ফেরাউন নয়। একই অংশে মাআরিফুল কুরআন কারণটা খুলে বলে। নাম দুটো তারা জুড়েছিল এটা পরিষ্কার করতে যে মূসা ও হারূন (আঃ) যে রবের ইবাদত করেন, আসলে তিনিই বিশ্বজগতের রব। ফেরাউন নিজেকে যা বলে দাবি করত, সে তা নয়।"
+          },
+          {
+            "en": "The Qur'an records the pretence in Pharaoh's own words: if you take a god other than me (26:29), I know of no god for you other than me (28:38), and I am your lord, the most high (79:24). Al-Baghawi, on 7:121, adds a short exchange without a chain: when they said the Lord of the worlds, Pharaoh asked, is it me you mean? Then they said: the Lord of Musa and Harun. Whether or not those words were spoken, the names do that work. A title can be claimed by a king; a Lord known by the two men He sent cannot be.",
+            "bn": "ফেরাউনের সেই দাবি কুরআন তার নিজের মুখের কথায় তুলে রেখেছে: আমাকে ছাড়া অন্য কাউকে ইলাহ বানালে (২৬:২৯), আমি ছাড়া তোমাদের আর কোনো ইলাহ আছে বলে আমি জানি না (২৮:৩৮), আর, আমিই তোমাদের সবচেয়ে বড় রব (৭৯:২৪)। ৭:১২১ আয়াতে বাগাভী কোনো সনদ ছাড়াই ছোট্ট একটি কথোপকথন যোগ করেন। যাদুকরেরা যখন রাব্বুল আলামীন বলল, ফেরাউন জিজ্ঞেস করল: তোমরা কি আমাকে বোঝাচ্ছ? তখন তারা বলল: যিনি মূসা ও হারূনের রব। কথাগুলো সত্যিই বলা হয়েছিল কি না, তা জানা না গেলেও নাম দুটোর কাজ এটাই। কোনো রাজা একটা উপাধি নিজের বলে দাবি করতে পারে। কিন্তু যে রবকে চেনানো হয় তাঁর পাঠানো দুজন মানুষ দিয়ে, তাঁকে দখল করা যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Lord Who Sent Both",
+          "bn": "দুজনকে যিনি পাঠালেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir describes the object of their faith in a phrase of his own. They prostrated, he says, to Allah, the Lord of the worlds, alladhi arsala Musa wa Harun bi-l-haqq wa bi-l-mu'jizati l-bahira: who sent Musa and Harun with the truth and with the dazzling miracle. On his wording the names do more than shut Pharaoh out. They identify the Lord by His sending. The magicians had not seen Him. They had seen His two messengers standing before the throne, and they had seen what was done at their hands.",
+            "bn": "তাদের ঈমান কার প্রতি, ইবন কাসীর তা নিজের ভাষায় বলেন। তাঁর কথায়, তারা সিজদা করল রাব্বুল আলামীন আল্লাহকে, আল্লাযী আরসালা মূসা ওয়া হারূনা বিল হাক্কি ওয়া বিল মু'জিযাতিল বাহিরা: যিনি মূসা ও হারূনকে পাঠিয়েছেন হক দিয়ে আর চোখ ধাঁধানো মু'জিযা দিয়ে। তাঁর এ বর্ণনায় নাম দুটো শুধু ফেরাউনকে বাইরে রাখে না। রবকে চেনায় তাঁর পাঠানোর মধ্য দিয়ে। যাদুকরেরা আল্লাহকে দেখেনি। দেখেছিল তাঁর দুই রাসূলকে, যাঁরা সিংহাসনের সামনে দাঁড়িয়ে ছিলেন, আর দেখেছিল তাঁদের হাতে কী ঘটল।"
+          },
+          {
+            "en": "Harun (AS) is named too, though only Musa (AS) threw the staff, and the surah has already shown why the two belong together. Musa asked: my chest tightens and my tongue does not flow, so send for Harun (26:13). Allah answered: go, both of you, with Our signs; We are with you, listening (26:15), and say, we are the messenger of the Lord of the worlds (26:16). The pair whom the commission named are the pair whom the confession names. The magicians declared faith in the Lord who sent both, not in the brother who held the staff.",
+            "bn": "লাঠি ছুড়েছিলেন শুধু মূসা (আঃ), তবু নাম এসেছে হারূন (আঃ)-এরও। দুজন কেন একসঙ্গে, সূরা আগেই তা দেখিয়ে দিয়েছে। মূসা বলেছিলেন: আমার বুক সংকুচিত হয়ে আসে, জিহ্বা সাবলীল চলে না, তাই হারূনের কাছে বার্তা পাঠান (২৬:১৩)। আল্লাহ বললেন: তোমরা দুজনেই আমার নিদর্শন নিয়ে যাও, আমি তোমাদের সঙ্গে আছি, সব শুনছি (২৬:১৫)। আর বলো, আমরা রাব্বুল আলামীনের রাসূল (২৬:১৬)। দায়িত্ব দেওয়ার সময় যে দুজনের নাম এসেছিল, ঈমানের ঘোষণাতেও নাম এল সেই দুজনেরই। যাদুকরেরা ঈমান আনল তাঁর উপর, যিনি দুজনকেই পাঠিয়েছেন। লাঠি যাঁর হাতে ছিল, শুধু সেই ভাইয়ের উপর নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Harun First in Ta-Ha",
+          "bn": "ত্বাহায় হারূনের নাম আগে"
+        },
+        "p": [
+          {
+            "en": "In 7:122 and here the order is Musa, then Harun. In Ta-Ha the same confession runs the other way: amanna bi-rabbi Haruna wa Musa, we believe in the Lord of Harun and Musa (20:70). A careful reader will ask why. None of the commentaries read for these verses answers. At-Tabari and al-Baghawi on 20:70 only repeat the words; al-Qurtubi there comments on the verb, not on the order; Ibn Kathir and as-Sa'di on 26:48 and 7:122, and the Muyassar on 26:48, do not raise it. This article offers no reason of its own, and the question stays open here.",
+            "bn": "৭:১২২ আয়াতে এবং এখানে ক্রমটা হলো আগে মূসা, পরে হারূন। সূরা ত্বাহায় একই ঘোষণা এসেছে উল্টো ক্রমে: আমান্না বিরাব্বি হারূনা ওয়া মূসা, আমরা ঈমান আনলাম হারূন ও মূসার রবের উপর (২০:৭০)। মনোযোগী পাঠক জানতে চাইবেন, কেন এমন। এ আয়াতগুলোর যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই এর উত্তর দেয় না। ২০:৭০ আয়াতে তাবারী ও বাগাভী শুধু শব্দগুলো আবার উদ্ধৃত করেন। কুরতুবী সেখানে আলোচনা করেন ক্রিয়াপদ নিয়ে, ক্রম নিয়ে নয়। ২৬:৪৮ ও ৭:১২২ আয়াতে ইবন কাসীর ও সা'দী, আর ২৬:৪৮ আয়াতে মুয়াসসার প্রশ্নটা তোলেনই না। তাই এ প্রবন্ধ নিজের পক্ষ থেকে কোনো কারণ দাঁড় করায় না। প্রশ্নটা এখানে খোলাই থাকল।"
+          },
+          {
+            "en": "What the tellings share is plain enough. In each, the magicians name the same two men; in each, the names serve to identify a Lord; and in each, the confession is finished before Pharaoh speaks. His reply here begins amantum lahu, you believed him (26:49), and so turns their faith in the Lord of the two brothers into loyalty to one of them, his supposed master in magic. That reply belongs to its own verse. Whichever name comes first, the two names describe the Lord the magicians believed in; neither is set beside Him as a second object of faith.",
+            "bn": "তিন বর্ণনায় যা এক, তা অবশ্য স্পষ্ট। প্রতিটিতে যাদুকরেরা একই দুজন মানুষের নাম নেয়। প্রতিটিতে নামগুলো আসে একজন রবকে চেনাতে। আর প্রতিটিতে ফেরাউন মুখ খোলার আগেই ঘোষণাটা শেষ হয়ে যায়। এখানে তার জবাব শুরু হয় আমানতুম লাহূ দিয়ে, তোমরা তার কথা মেনে নিলে (২৬:৪৯)। এভাবে দুই ভাইয়ের রবের প্রতি তাদের ঈমানকে সে বানিয়ে দেয় দুজনের একজনের প্রতি আনুগত্য, যাকে সে তাদের যাদুর ওস্তাদ বলে চালাতে চায়। সেই জবাব নিয়ে কথা হবে তার নিজের আয়াতে। নাম যার আগেই আসুক, দুটো নামই সেই রবের পরিচয়, যাঁর উপর যাদুকরেরা ঈমান এনেছিল। কোনো নামকেই তাঁর পাশে দ্বিতীয় কোনো ঈমানের বস্তু হিসেবে দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Matter From Heaven",
+          "bn": "আসমান থেকে আসা ব্যাপার"
+        },
+        "p": [
+          {
+            "en": "What made masters of the craft say it so quickly? At-Tabari, on 7:122, relays with his chain through Ikrima from Ibn Abbas (RA): when the magicians saw what they saw, they knew that it was a matter from heaven and not sorcery, so they fell prostrate and said, we believe in the Lord of the worlds, the Lord of Musa and Harun. Ibn Kathir carries the same words from Ibn Abbas on that verse. It is a Companion's report, not a word of the Prophet ﷺ, and at-Tabari gives it no grading.",
+            "bn": "বিদ্যায় পাকা লোকেরা এত তাড়াতাড়ি এ কথা বলল কীভাবে? ৭:১২২ আয়াতে তাবারী নিজের সনদে ইকরিমার মাধ্যমে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: যাদুকরেরা যা দেখার তা দেখে বুঝে গেল, এটা আসমানের ব্যাপার, যাদু নয়। তাই তারা সিজদায় পড়ে গেল আর বলল, আমরা রাব্বুল আলামীনের উপর ঈমান আনলাম, যিনি মূসা ও হারূনের রব। ইবন কাসীরও ওই আয়াতে ইবন আব্বাস থেকে একই কথা এনেছেন। এটা একজন সাহাবীর বক্তব্য, নবী ﷺ-এর বাণী নয়। তাবারী এর কোনো মান নির্ধারণ করেননি।"
+          },
+          {
+            "en": "Maududi, in Tafhim al-Qur'an on this passage, draws out what the words announced. Their submission to the Lord of the worlds was not an admission that Musa (AS) was a greater magician; it was an open declaration, before thousands of Egyptians, that what he brought was no magic at all but a manifestation of the power of Allah. On Ta-Ha he adds that everyone present knew what the contest was for: to decide whether Musa's claim to be a messenger of Allah was true. The magicians' three words gave the verdict on exactly that question.",
+            "bn": "তাফহীমুল কুরআনে এই অংশের ব্যাখ্যায় মওদূদী দেখান, কথাগুলো আসলে কী ঘোষণা করছিল। রাব্বুল আলামীনের সামনে তাদের নতি স্বীকার মানে এই নয় যে তারা মেনে নিল, মূসা (আঃ) তাদের চেয়ে বড় যাদুকর। বরং হাজার হাজার মিসরীয়ের সামনে এ ছিল খোলাখুলি ঘোষণা: মূসা যা এনেছেন তা মোটেই যাদু নয়, তা আল্লাহর কুদরতের প্রকাশ। সূরা ত্বাহার ব্যাখ্যায় তিনি আরও বলেন, প্রতিযোগিতাটা কিসের জন্য, উপস্থিত সবাই তা জানত। ফয়সালা হওয়ার কথা ছিল, মূসার আল্লাহর রাসূল হওয়ার দাবি সত্য কি না। যাদুকরদের তিনটি শব্দ ঠিক সেই প্রশ্নেরই রায় দিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Say It, Then Stand Firm",
+          "bn": "বলুন, তারপর অটল থাকুন"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read for this verse attaches a hadith of the Prophet ﷺ to it. A general narration, which is not about this scene, gives the shape of what the magicians did. Sahih Muslim 38 records that Sufyan ibn Abdullah ath-Thaqafi (RA) said: Messenger of Allah, tell me a word about Islam that I will not need to ask anyone about after you. He said: qul amantu billahi fa-staqim, say, I believe in Allah, then be upright. Muslim places it in his Sahih, and it is quoted here as he records it.",
+            "bn": "এ আয়াতের যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো হাদীস জুড়ে দেয়নি। তবে একটি সাধারণ বর্ণনা আছে, যা এই দৃশ্য নিয়ে নয়, কিন্তু যাদুকরেরা যা করেছিল তার ছাঁচটা তাতে ধরা পড়ে। সহীহ মুসলিম ৩৮-এ আছে, সুফিয়ান ইবন আবদুল্লাহ সাকাফী (রাঃ) বলেন: হে আল্লাহর রাসূল, ইসলাম সম্পর্কে আমাকে এমন একটি কথা বলে দিন, যা নিয়ে আপনার পরে আর কাউকে জিজ্ঞেস করতে হবে না। তিনি বললেন: কুল আমানতু বিল্লাহি ফাসতাকিম, বলো, আমি আল্লাহর উপর ঈমান আনলাম, তারপর অবিচল থাকো। ইমাম মুসলিম এটি তাঁর সহীহ গ্রন্থে এনেছেন, আর এখানে তাঁর বর্ণনার ভাষাই তুলে দেওয়া হলো।"
+          },
+          {
+            "en": "The magicians spoke the first half in 26:47 and 26:48, and they named the Lord they meant. The second half was tested at once. Ibn Kathir says that Pharaoh, beaten in a way the world had never seen, turned to stubbornness, defiance and false claims, and began to threaten them. The threat itself is 26:49, and their answer comes in 26:50 and 26:51, the second of which has its own article. The narration is not attached to this verse, but it shows why the naming matters: being upright needs to know what it stands upon.",
+            "bn": "প্রথম অর্ধেকটা যাদুকরেরা বলে দিয়েছিল ২৬:৪৭ ও ২৬:৪৮ আয়াতে, আর কার উপর ঈমান আনছে তাঁর নামও নিয়েছিল। দ্বিতীয় অর্ধেকের পরীক্ষা এল সঙ্গে সঙ্গে। ইবন কাসীর বলেন, ফেরাউন এমনভাবে হারল যা দুনিয়া আগে কখনো দেখেনি। তারপর সে জেদ, হঠকারিতা আর মিথ্যা দাবির আশ্রয় নিল এবং তাদের হুমকি দিতে শুরু করল। হুমকিটা আছে ২৬:৪৯ আয়াতে। তাদের জবাব ২৬:৫০ ও ২৬:৫১ আয়াতে, যার দ্বিতীয়টির আলাদা প্রবন্ধ আছে। হাদীসটি এ আয়াতের সঙ্গে যুক্ত নয়। তবু তা বুঝিয়ে দেয় নাম নেওয়াটা কেন জরুরি: অবিচল থাকতে হলে জানতে হয়, কিসের উপর দাঁড়িয়ে আছি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Credit to the Sender",
+          "bn": "কৃতিত্ব যিনি পাঠান তাঁর"
+        },
+        "p": [
+          {
+            "en": "One limit needs stating in plain words. The verse describes what it describes: one king, his court and his magicians, on one day, in a story the Qur'an tells. It licenses nothing against any living person or community. It is no template for calling a present-day ruler Pharaoh, and none for treating anyone's faith, or anyone's refusal of it, as proof of disloyalty to a state. The condemnation in the text falls on that man and on what the text reports him doing, and the reader's task is to learn from it, not to hand it out.",
+            "bn": "একটা সীমা পরিষ্কার ভাষায় বলে রাখা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: একজন রাজা, তার দরবার আর তার যাদুকরেরা, একটি দিনে, কুরআনের বলা এক কাহিনিতে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো শাসককে ফেরাউন বলে দাগিয়ে দেওয়ার ছাঁচও এটা নয়। কারও ঈমান আনা বা না আনাকে রাষ্ট্রের প্রতি বিশ্বাসঘাতকতার প্রমাণ ধরার ছাঁচও নয়। কুরআনের নিন্দা পড়ে সেই মানুষটির উপর, আর কুরআন তার যে কাজের কথা বলে তার উপর। পাঠকের কাজ এ থেকে শেখা, অন্যের গায়ে তা ছুড়ে দেওয়া নয়।"
+          },
+          {
+            "en": "For the reader the verse first asks where credit goes. The magicians watched one man win in front of a nation, and they did not praise the man. They named the Lord who had sent him and his brother. When truth reaches us through a teacher, a parent or a stranger, the pull is to attach ourselves to the one who carried it. The confession points past every carrier to the One who sends, and it keeps Musa and Harun (AS) exactly where the surah keeps them: honoured, named, and messengers.",
+            "bn": "পাঠকের কাছে আয়াতটির প্রথম প্রশ্ন: কৃতিত্ব যায় কার ঘরে? যাদুকরেরা গোটা জাতির সামনে একজন মানুষকে জিততে দেখল, কিন্তু সেই মানুষটির গুণগান গাইল না। তারা নাম নিল সেই রবের, যিনি তাঁকে আর তাঁর ভাইকে পাঠিয়েছেন। শিক্ষক, মা-বাবা বা একেবারে অচেনা কারও হাত দিয়ে সত্য যখন আমাদের কাছে পৌঁছায়, মন চায় বাহকের সঙ্গেই নিজেকে বেঁধে ফেলতে। এই ঘোষণা প্রত্যেক বাহককে পার হয়ে ইশারা করে তাঁর দিকে, যিনি পাঠান। আর মূসা ও হারূন (আঃ)-কে রাখে ঠিক সেখানে, যেখানে সূরা তাঁদের রেখেছে: সম্মানিত, নাম ধরে উল্লেখিত, আর রাসূল।"
+          },
+          {
+            "en": "It also shows what honest expertise can do. These were the men Pharaoh trusted to know the line between craft and what lies beyond it, and when the line was crossed in front of them they said so, in his hall, knowing what it might cost. The questions it leaves are near ones. When my own knowledge shows me that something is from Allah, will I say so in the room where it is not welcome? And when I say that I believe, is it clear, to me first of all, which Lord I mean?",
+            "bn": "আয়াতটি আরও দেখায়, সৎ দক্ষতা কী করতে পারে। ফেরাউন এদেরই ভরসা করেছিল, কারণ ভেলকি কোথায় শেষ আর তার ওপারে কী, সেই সীমা এরাই চিনত। চোখের সামনে সেই সীমা পেরিয়ে যেতে দেখে তারা তার দরবারেই সে কথা বলে দিল, যদিও জানত এর দাম কী হতে পারে। যে প্রশ্নগুলো রেখে যায়, সেগুলো খুব কাছের। আমার নিজের জ্ঞান যখন দেখিয়ে দেয় যে কিছু একটা আল্লাহর পক্ষ থেকে, যে মজলিসে কথাটা অপ্রিয়, সেখানে কি আমি তা বলব? আর যখন বলি আমি ঈমান রাখি, তখন কোন রবকে বোঝাই, তা কি সবার আগে আমার নিজের কাছে পরিষ্কার?"
+          }
+        ]
+      }
+    ]
+  },
   "26:51": {
     "sections": [
       {
