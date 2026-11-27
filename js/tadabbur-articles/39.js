@@ -2275,6 +2275,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "39:44": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Answer Opened With Say",
+          "bn": "‘বলো’ দিয়ে শুরু জবাব"
+        },
+        "p": [
+          {
+            "en": "Verse 39:42 ended on signs for people who give thought: souls taken at death and in sleep, some held back and some sent home. Verse 39:43 then asks a pointed question: or have they taken intercessors besides Allah, even though those intercessors own nothing and do not reason? Verse 39:44 is the reply, placed in the Prophet's mouth with the command qul, say. Eleven Arabic words carry three statements: all intercession is Allah's, His is the dominion of the heavens and the earth, and to Him you will be returned.",
+            "bn": "৩৯:৪২ আয়াত শেষ হয়েছিল চিন্তাশীলদের জন্য নিদর্শনের কথায়। মৃত্যু আর ঘুমে প্রাণ নিয়ে নেওয়া হয়, কিছু আটকে রাখা হয়, কিছু ফেরত পাঠানো হয়। এরপর ৩৯:৪৩ আয়াত সোজা একটা প্রশ্ন তোলে: তারা কি আল্লাহ ছাড়া অন্যদের সুপারিশকারী বানিয়ে নিয়েছে, অথচ ওরা কোনো কিছুর মালিক নয়, কিছু বোঝেও না? ৩৯:৪৪ আয়াত তারই জবাব, আর জবাবটা নবী ﷺ-এর মুখে তুলে দেওয়া হয়েছে কুল, ‘বলো’ আদেশ দিয়ে। আরবিতে মাত্র ১১টি শব্দ, তাতে তিনটি ঘোষণা। সব শাফাআত আল্লাহর। আকাশ ও পৃথিবীর রাজত্ব তাঁর। আর তাঁর কাছেই তোমাদের ফিরিয়ে নেওয়া হবে।"
+          },
+          {
+            "en": "Al-Qurtubi reads the am that opens 39:43 as bal, rather, and hears an unspoken why inside it: in the taking of souls there are signs for people who reflect, yet these people did not reflect, and took their gods as intercessors instead. The question that follows, he says, is a question of denial, not a request for information. Ibn Kathir describes the intercessors meant as idols and rivals that people took up on their own initiative, with no evidence or proof, things with no mind to reason, no hearing and no sight.",
+            "bn": "৩৯:৪৩ আয়াতের শুরুর ‘আম’ শব্দটিকে কুরতুবী পড়েন ‘বাল’ অর্থে, মানে ‘বরং’। তাঁর মতে এর ভেতরে না-বলা একটা ‘কেন’ লুকিয়ে আছে। প্রাণ নিয়ে নেওয়ার মধ্যে চিন্তাশীলদের জন্য নিদর্শন ছিল, অথচ এরা চিন্তা করেনি, উল্টো নিজেদের দেবতাদের সুপারিশকারী বানিয়ে নিয়েছে। পরের প্রশ্নটি, তিনি বলেন, অস্বীকারের প্রশ্ন, কিছু জানতে চাওয়া নয়। আর ইবন কাসীর জানান, এখানে সুপারিশকারী বলতে সেই মূর্তি আর শরিকদের বোঝানো হয়েছে, যাদের মানুষ কোনো দলিল-প্রমাণ ছাড়াই নিজেদের খেয়ালে ধরে নিয়েছিল। ওদের না আছে বোঝার মতো বুদ্ধি, না শোনার কান, না দেখার চোখ।"
+          },
+          {
+            "en": "At-Tabari shows how the reply grows out of the question. In his reading, the idolaters took the gods they worshipped as intercessors who would plead for them before Allah in their needs. The Prophet ﷺ is told to answer: if that is why you worship them, then make your worship sincerely Allah's and single Him out as God, for intercession belongs wholly to Him, and no one intercedes with Him except one He permits and whose word He accepts. The verse does not mock the wish for help. It redirects it.",
+            "bn": "প্রশ্ন থেকে জবাব কীভাবে বেরিয়ে আসে, তাবারী তা দেখিয়ে দেন। তাঁর ব্যাখ্যায় মুশরিকরা যাদের পূজা করত, তাদের ধরে নিয়েছিল এমন সুপারিশকারী হিসেবে, যারা নিজেদের প্রয়োজনের সময় আল্লাহর কাছে তাদের হয়ে সুপারিশ করবে। নবী ﷺ-কে জবাব দিতে বলা হলো: এই জন্যই যদি তোমরা ওদের ইবাদত করো, তবে ইবাদত খাঁটিভাবে আল্লাহর জন্য করো, তাঁকেই একমাত্র ইলাহ মানো। কারণ শাফাআত পুরোটাই তাঁর। তিনি যাকে অনুমতি দেন আর যার কথায় সন্তুষ্ট হন, সে ছাড়া কেউ তাঁর কাছে সুপারিশ করতে পারে না। আয়াতটি সাহায্য চাওয়ার ইচ্ছাকে ঠাট্টা করে না। ইচ্ছাটার মুখ ঘুরিয়ে দেয় সঠিক দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "They Own None of It",
+          "bn": "এর কিছুই ওদের হাতে নেই"
+        },
+        "p": [
+          {
+            "en": "The phrase that 39:44 answers is la yamlikuna shay'an, they own nothing. At-Tabari cites Qatada on what that nothing is: the intercession. The gods they had set up owned none of the very thing they were being worshipped for. Al-Qurtubi gives the same reading in his own words: they own nothing of intercession and they do not reason, because they are lifeless objects. So the question in 39:43 was already a question about ownership, and the reply in 39:44 names the owner.",
+            "bn": "৩৯:৪৪ যে কথার জবাব দিচ্ছে, তা হলো ‘লা ইয়ামলিকূনা শাইআন’, তারা কোনো কিছুর মালিক নয়। এই ‘কোনো কিছু’ বলতে কী বোঝানো হয়েছে, তাবারী সে ব্যাপারে কাতাদার কথা আনেন: শাফাআত। যে জিনিসের আশায় ওদের পূজা করা হতো, ঠিক সেটারই কোনো অংশ ওদের হাতে ছিল না। কুরতুবীও নিজের ভাষায় একই কথা বলেন: শাফাআতের কিছুই ওদের মালিকানায় নেই, আর ওরা কিছু বোঝেও না, কারণ ওরা নিষ্প্রাণ জড়বস্তু। ফলে ৩৯:৪৩ আয়াতের প্রশ্নটাই আসলে মালিকানা নিয়ে প্রশ্ন, আর ৩৯:৪৪ আয়াত মালিকের নাম জানিয়ে দেয়।"
+          },
+          {
+            "en": "As-Sa'di widens that nothing. Those taken as intercessors, he writes, do not own an atom's weight in the heavens or the earth, nor anything smaller or larger, and they have no reason for which they might be praised. He speaks of them in general terms: whatever is taken as an intercessor besides Allah, clung to, asked and worshipped. He then turns the question back on the worshipper: can the one who took such things as intercessors be said to have reason, or is he among the most astray of people? Ibn Kathir puts it as bluntly: such idols are far worse off than animals.",
+            "bn": "সা'দী এই ‘কিছুই না’-কে আরও বিস্তৃত করেন। তিনি লেখেন, যাদের সুপারিশকারী বানানো হয়েছে, আকাশে বা পৃথিবীতে তারা এক অণু পরিমাণেরও মালিক নয়, তার চেয়ে ছোট বা বড় কিছুরও নয়। প্রশংসা পাওয়ার মতো বুদ্ধিও তাদের নেই। তিনি কথাটা বলেন সাধারণভাবে: আল্লাহ ছাড়া যাকেই সুপারিশকারী বানিয়ে আঁকড়ে ধরা হয়, যার কাছে চাওয়া হয়, যার ইবাদত করা হয়। তারপর তিনি প্রশ্নটা উপাসকের দিকেই ফিরিয়ে দেন: যে এমন জিনিসকে সুপারিশকারী বানায়, তার কি বুদ্ধি আছে বলা যায়? নাকি সে মানুষের মধ্যে সবচেয়ে বিভ্রান্তদের একজন? ইবন কাসীরও একই রকম স্পষ্ট: এমন মূর্তির দশা পশুর চেয়েও অনেক খারাপ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Jami'an, the Whole of It",
+          "bn": "জামীআন: পুরোটাই তাঁর"
+        },
+        "p": [
+          {
+            "en": "Qul lillahi ash-shafa'atu jami'an: say, to Allah belongs intercession, all of it. Al-Qurtubi calls the clause a nass, an explicit text, establishing that intercession is Allah's alone. Al-Muyassar gives the reason in a short line: the whole matter belongs to Allah alone. As-Sa'di opens with the same reason, because the whole affair is Allah's, and then builds on it. Read together, the three leave nothing of intercession over for any other owner, and so no other door to it that bypasses Him.",
+            "bn": "কুল লিল্লাহিশ শাফাআতু জামীআ: বলো, শাফাআত আল্লাহরই, পুরোটাই। কুরতুবী এই বাক্যকে বলেন ‘নাস’, অর্থাৎ সুস্পষ্ট দলিল যে শাফাআত কেবল আল্লাহর। মুয়াসসার কারণটা দেয় ছোট এক বাক্যে: সব বিষয় একমাত্র আল্লাহর। সা'দীও শুরু করেন একই কারণ দিয়ে, কারণ গোটা ব্যাপারটাই আল্লাহর, তারপর এর উপর আরও কথা তোলেন। তিনটি ব্যাখ্যা পাশাপাশি রাখলে শাফাআতের এমন কোনো অংশ বাকি থাকে না, যার অন্য কোনো মালিক থাকতে পারে। তাই তাঁকে পাশ কাটিয়ে শাফাআতের কাছে পৌঁছানোর অন্য কোনো দরজাও নেই।"
+          },
+          {
+            "en": "Al-Qurtubi also stops on the word jami'an itself. Grammatically, he says, it is in the accusative as a hal, a word describing the state of what it refers to. He then raises an objection a careful reader might make: jami'an, all together, is said of two things or more, yet intercession is a single thing. His answer is that shafa'a is a masdar, a verbal noun, and a verbal noun can stand for two or for many. The one word in the verse can therefore take in every intercession there is.",
+            "bn": "কুরতুবী ‘জামীআন’ শব্দটিতেও থামেন। ব্যাকরণে, তিনি বলেন, শব্দটি ‘হাল’ হিসেবে যবরযুক্ত, অর্থাৎ যার কথা বলা হচ্ছে তার অবস্থা বোঝায়। তারপর তিনি এমন এক আপত্তি তোলেন, যা মনোযোগী পাঠকের মনে আসতে পারে। ‘জামীআন’ মানে সবাই মিলে, শব্দটা খাটে দুই বা তার বেশির বেলায়, অথচ শাফাআত তো একটা জিনিস। তাঁর জবাব: ‘শাফাআত’ মাসদার, ক্রিয়াবাচক বিশেষ্য। আর মাসদার দুইয়ের অর্থও বহন করে, বহুরও। ফলে আয়াতের এই এক শব্দের ভেতরে জগতের সব শাফাআত ধরা পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only Whom He Permits",
+          "bn": "যাকে তিনি অনুমতি দেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports a gloss from Mujahid through Ibn Abi Najih, and al-Baghawi repeats it. On qul lillahi ash-shafa'atu jami'an he said: no one intercedes with Him except by His permission. The verse does not deny that intercession happens; it denies that it happens apart from Him. Ibn Kathir and al-Qurtubi both reach for the Throne Verse to show it, 2:255: who is it that can intercede with Him except by His permission? The Qur'an ties intercession to His leave in 20:109 and 34:23 as well.",
+            "bn": "তাবারী ইবন আবী নাজীহের সূত্রে মুজাহিদের একটি ব্যাখ্যা এনেছেন, বাগাভীও তা উদ্ধৃত করেছেন। ‘কুল লিল্লাহিশ শাফাআতু জামীআ’ প্রসঙ্গে মুজাহিদ বলেন: তাঁর অনুমতি ছাড়া কেউ তাঁর কাছে সুপারিশ করে না। আয়াতটি শাফাআতকে অস্বীকার করছে না। অস্বীকার করছে তাঁকে বাদ দিয়ে শাফাআত হওয়াকে। ইবন কাসীর আর কুরতুবী দুজনেই এ কথা বোঝাতে আয়াতুল কুরসী টেনে আনেন, ২:২৫৫: কে আছে যে তাঁর অনুমতি ছাড়া তাঁর কাছে সুপারিশ করবে? শাফাআতকে তাঁর অনুমতির সঙ্গে কুরআন ২০:১০৯ আর ৩৪:২৩ আয়াতেও বেঁধে দিয়েছে।"
+          },
+          {
+            "en": "Ibn Kathir frames the reply as a message to people who claimed their chosen intercessors would speak for them before Allah: tell them that intercession is of no benefit with Allah except for one He is pleased with and has given leave, so that all of it returns to Him. At-Tabari uses a similar pair, permission and acceptance: no one intercedes with Him except one He has permitted and whose word He is pleased with. Al-Qurtubi adds 21:28, where the Qur'an says they do not intercede except for one He approves.",
+            "bn": "ইবন কাসীর জবাবটাকে সাজান এমন লোকদের প্রতি বার্তা হিসেবে, যারা দাবি করত তাদের বেছে নেওয়া সুপারিশকারীরা আল্লাহর কাছে তাদের হয়ে কথা বলবে। তাদের জানিয়ে দাও: আল্লাহর কাছে শাফাআত কোনো কাজে আসে না, কেবল তার বেলায় ছাড়া, যার উপর তিনি সন্তুষ্ট আর যাকে তিনি অনুমতি দিয়েছেন। তাই এর সবটা তাঁর কাছেই ফিরে যায়। তাবারীও প্রায় একই জোড়া কথা বলেন, অনুমতি আর সন্তুষ্টি: তিনি যাকে অনুমতি দিয়েছেন আর যার কথায় তিনি সন্তুষ্ট, সে ছাড়া কেউ তাঁর কাছে সুপারিশ করে না। কুরতুবী এর সঙ্গে যোগ করেন ২১:২৮ আয়াত, যেখানে কুরআন বলছে: যার প্রতি তিনি সন্তুষ্ট, তার ছাড়া আর কারও জন্য তারা সুপারিশ করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Mercy Shown to Both",
+          "bn": "দুই পক্ষের প্রতিই রহমত"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di adds a sentence that changes the picture of who stands in awe of whom. Every intercessor, he writes, fears Allah, and no one is able to intercede with Him except by His leave. When He wills mercy for a servant, He gives leave to an intercessor who is honoured in His sight to intercede, as a mercy to both of them. In this account intercession is not pressure brought to bear on Allah from outside. It is a mercy He settles on first and then lets an honoured servant carry.",
+            "bn": "সা'দী এমন এক বাক্য যোগ করেন, যাতে কে কাকে ভয় করে সেই ছবিটাই বদলে যায়। তিনি লেখেন, প্রত্যেক সুপারিশকারী আল্লাহকে ভয় করে, আর তাঁর অনুমতি ছাড়া কেউ তাঁর কাছে সুপারিশ করতে পারে না। তিনি যখন কোনো বান্দার উপর রহমত করতে চান, তখন তাঁর কাছে সম্মানিত কোনো সুপারিশকারীকে সুপারিশের অনুমতি দেন। এতে রহমত হয় দুজনের প্রতিই। এই ব্যাখ্যায় শাফাআত বাইরে থেকে আল্লাহর উপর চাপ সৃষ্টি করা নয়। রহমতের ফয়সালা তিনি আগেই করেন, তারপর সেটা বয়ে নেওয়ার সম্মান দেন তাঁর এক প্রিয় বান্দাকে।"
+          },
+          {
+            "en": "Set that beside the hope at-Tabari describes in the idolaters: gods who would plead for them before Allah in their needs, as though a favourite at court could tilt a ruling for a client. As-Sa'di's account turns this around. The intercessor is not a broker with influence of his own. He is a servant who fears, who speaks only once given leave, and whose speaking is itself a gift to him. The person interceded for owes the outcome to Allah's mercy, not to the intercessor's standing.",
+            "bn": "এবার এর পাশে রাখুন সেই আশা, যা তাবারী মুশরিকদের মধ্যে দেখান। তারা ভাবত, তাদের দেবতারা প্রয়োজনের সময় আল্লাহর কাছে তাদের হয়ে সুপারিশ করবে, যেন দরবারের কোনো প্রিয়পাত্র মক্কেলের পক্ষে রায় ঘুরিয়ে দিতে পারে। সা'দীর ব্যাখ্যা এই ছবিটা উল্টে দেয়। সুপারিশকারী নিজস্ব প্রভাব খাটানো কোনো দালাল নন। তিনি এমন এক বান্দা, যিনি ভয় করেন, অনুমতি পেলে তবেই মুখ খোলেন, আর তাঁর এই কথা বলতে পারাটাই তাঁর প্রতি এক দান। যার জন্য সুপারিশ করা হয়, সে ফল পায় আল্লাহর রহমতে, সুপারিশকারীর মর্যাদার জোরে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Leave Asked, Then Given",
+          "bn": "আগে অনুমতি, তারপর সুপারিশ"
+        },
+        "p": [
+          {
+            "en": "None of the fetched commentaries attaches a hadith to this verse. A narration in al-Bukhari's Sahih (7510), which is not tied to 39:44, shows the same order from the side of the greatest intercession. Anas ibn Malik (RA) reports that the Prophet ﷺ described people on the Day of Resurrection surging against one another and going to Adam, then to Ibrahim, Musa and 'Isa (AS), asking each to intercede for them with their Lord. Each declines and sends them on, until the last of them sends them to Muhammad ﷺ.",
+            "bn": "সংগৃহীত কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। তবে বুখারীর সহীহ গ্রন্থে (৭৫১০) একটি বর্ণনা আছে, যা ৩৯:৪৪ আয়াতের সঙ্গে সরাসরি যুক্ত নয়। তবু সবচেয়ে বড় শাফাআতের দিক থেকে সেটি একই ক্রম দেখায়। আনাস ইবন মালিক (রাঃ) বর্ণনা করেন, নবী ﷺ জানিয়েছেন, কিয়ামতের দিন মানুষ ঢেউয়ের মতো একে অপরের উপর আছড়ে পড়বে। তারা যাবে আদম (আঃ)-এর কাছে, তারপর ইবরাহীম, মূসা ও ঈসা (আঃ)-এর কাছে। প্রত্যেককে অনুরোধ করবে রবের কাছে তাদের জন্য সুপারিশ করতে। প্রত্যেকেই অপারগতা জানিয়ে অন্যজনের কাছে পাঠাবেন, শেষে ঈসা (আঃ) তাদের পাঠাবেন মুহাম্মাদ ﷺ-এর কাছে।"
+          },
+          {
+            "en": "In al-Bukhari's wording, in the English of the Darussalam edition, he continues: \"They would come to me and I would say, 'I am for that.' Then I will ask for my Lord's permission, and it will be given, and then He will inspire me to praise Him with such praises as I do not know now. So I will praise Him with those praises and will fall down, prostrate before Him. Then it will be said, 'O Muhammad, raise your head and speak, for you will be listened to; and ask, for [you] will be granted (your request); and intercede, for your intercession will be accepted.'\"",
+            "bn": "বুখারীর শব্দে তিনি বলেন: “তারা আমার কাছে আসবে, আমি বলব, ‘এ কাজ আমারই।’ তারপর আমি আমার রবের কাছে অনুমতি চাইব, আমাকে অনুমতি দেওয়া হবে। তিনি আমার মনে এমন সব প্রশংসাবাক্য ঢেলে দেবেন, যা এখন আমার মনে আসছে না। আমি সেসব দিয়ে তাঁর প্রশংসা করব, তারপর তাঁর সামনে সিজদায় লুটিয়ে পড়ব। তখন বলা হবে: হে মুহাম্মাদ, মাথা তোলো। বলো, তোমার কথা শোনা হবে। চাও, তোমাকে দেওয়া হবে। সুপারিশ করো, তোমার সুপারিশ কবুল করা হবে।”"
+          },
+          {
+            "en": "Even here, at a station the others have declined, the intercession begins with asking leave, and it is spoken only after he is told to intercede. Later in the same narration the Prophet ﷺ asks, \"O Lord, allow me to intercede for whoever said, 'None has the right to be worshiped except Allah,'\" and Allah answers, swearing by His might and majesty, that He will take out of the Fire whoever said it. The narration is not an explanation of the verse. It shows, in the case of the Prophet ﷺ himself, intercession that belongs to Allah from its first word to its last.",
+            "bn": "অন্যরা যে মর্যাদা নিতে অপারগতা জানিয়েছেন, সেখানেও শাফাআত শুরু হয় অনুমতি চেয়ে, আর মুখে আসে কেবল ‘সুপারিশ করো’ বলার পরেই। একই বর্ণনার শেষ দিকে নবী ﷺ বলেন: “হে রব, যে ‘লা ইলাহা ইল্লাল্লাহ’ বলেছে, তার ব্যাপারে আমাকে অনুমতি দিন।” জবাবে আল্লাহ নিজের ইজ্জত ও প্রতাপের কসম করে জানান, যে এ কথা বলেছে, তাকে তিনি জাহান্নাম থেকে বের করে আনবেন। এই বর্ণনা আয়াতের ব্যাখ্যা নয়। এটি দেখায়, স্বয়ং নবী ﷺ-এর বেলাতেও শাফাআত প্রথম কথা থেকে শেষ কথা পর্যন্ত আল্লাহরই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Worship the Owner, Not the Owned",
+          "bn": "মালিক যিনি, ইবাদত তাঁরই"
+        },
+        "p": [
+          {
+            "en": "The second clause, lahu mulku as-samawati wa-l-ard, His is the dominion of the heavens and the earth, gives the ground for the first. As-Sa'di says so directly: Allah confirmed that intercession is wholly His by saying His is the dominion of the heavens and the earth, meaning all that is in them, beings, acts and attributes. Ibn Kathir explains the clause as He is the One who has free disposal over all of it. Al-Muyassar likewise says He owns the heavens and the earth and governs them.",
+            "bn": "দ্বিতীয় বাক্য ‘লাহূ মুলকুস সামাওয়াতি ওয়াল আরদ’, আকাশ ও পৃথিবীর রাজত্ব তাঁরই, প্রথম বাক্যের ভিত্তি। সা'দী এ কথা সোজাসুজিই বলেন: আকাশ ও পৃথিবীর রাজত্ব তাঁর, এ কথা বলে আল্লাহ পাকা করে দিলেন যে শাফাআত পুরোটাই তাঁর। আর রাজত্ব মানে এ দুইয়ের মধ্যে যা আছে সবই: সত্তা, কাজ আর গুণ। ইবন কাসীরের ব্যাখ্যায় বাক্যটির অর্থ, এ সবকিছুর উপর কর্তৃত্ব চালান একমাত্র তিনিই। মুয়াসসারও বলে, আকাশ ও পৃথিবীর মালিক তিনি, আর দুটোকে পরিচালনাও করেন তিনিই।"
+          },
+          {
+            "en": "At-Tabari draws the sharpest conclusion. His, he says, are the authority and dominion of the heavens and the earth, and the very things the idolaters worship besides Him belong to Him too: so worship the Owner, not the owned that owns nothing. He sums up the verse as: worship the One who owns the heavens and the earth, who is able to benefit you and to harm you, both in this world and when you return to Him after death. Al-Muyassar and as-Sa'di reach the same duty: seek intercession from the One who owns it, and make worship His alone.",
+            "bn": "সবচেয়ে ধারালো সিদ্ধান্তটা টানেন তাবারী। তিনি বলেন, আকাশ ও পৃথিবীর ক্ষমতা ও রাজত্ব তাঁর। আর মুশরিকরা তাঁকে ছেড়ে যাদের পূজা করে, তারাও তাঁরই মালিকানায়। কাজেই মালিকের ইবাদত করো, সেই মালিকানাধীনের নয় যে নিজে কিছুরই মালিক নয়। পুরো আয়াতের সারকথা তিনি এভাবে বলেন: ইবাদত করো তাঁর, যিনি আকাশ ও পৃথিবীর মালিক, যিনি তোমাদের উপকারও করতে পারেন, ক্ষতিও করতে পারেন, দুনিয়াতেও, আর মৃত্যুর পর তাঁর কাছে ফিরে যাওয়ার সময়েও। মুয়াসসার আর সা'দী একই কর্তব্যে পৌঁছান: শাফাআত চাইতে হবে তাঁর কাছে, যিনি এর মালিক, আর ইবাদত হবে একমাত্র তাঁর।"
+          },
+          {
+            "en": "Thumma ilayhi turja'un: then to Him you will be returned. Ibn Kathir places the return on the Day of Resurrection, when He will judge between people with His justice and repay each according to his deeds. Al-Muyassar speaks of a return after death for reckoning and recompense. At-Tabari gives it a warning edge: to Allah is your destination, and He will punish you for associating partners with Him if you die upon it. As-Sa'di holds both outcomes together: whoever is sincere to Him is repaid with an abundant reward, and whoever associates others with Him with a grievous punishment.",
+            "bn": "সুম্মা ইলাইহি তুরজাঊন: তারপর তাঁর কাছেই তোমাদের ফিরিয়ে নেওয়া হবে। ইবন কাসীর এই ফেরাকে রাখেন কিয়ামতের দিনে, যখন তিনি ন্যায়বিচারে মানুষের মাঝে ফয়সালা করবেন আর প্রত্যেককে তার আমল অনুযায়ী প্রতিদান দেবেন। মুয়াসসার বলে মৃত্যুর পর হিসাব ও প্রতিদানের জন্য ফিরে যাওয়ার কথা। তাবারীর কথায় আছে সতর্কবার্তার সুর: তোমাদের শেষ ঠিকানা আল্লাহর কাছে, আর শিরক নিয়ে মারা গেলে তিনি তোমাদের সেই শিরকের শাস্তি দেবেন। সা'দী দুই পরিণামই একসঙ্গে রাখেন। যে তাঁর জন্য ইবাদত খাঁটি করেছে, সে পাবে বিপুল প্রতিদান। আর যে তাঁর সঙ্গে শরিক করেছে, তার জন্য কঠিন শাস্তি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taking the Plea to Him",
+          "bn": "আরজি নিয়ে তাঁরই কাছে"
+        },
+        "p": [
+          {
+            "en": "The commentators read the verse as said first to the idolaters of the Prophet's time, about the idols they had taken as intercessors. It describes what it describes. It licenses nothing against any living person or community, and it hands no reader a verdict to pass on someone else's faith. The next verse, 39:45, moves from argument to the heart: when Allah alone is mentioned, the hearts of those who do not believe in the Hereafter shrink with aversion, and when others are mentioned, they rejoice. The test it sets is inward.",
+            "bn": "তাফসীরকারেরা আয়াতটি পড়েন নবী ﷺ-এর সময়ের মুশরিকদের উদ্দেশে বলা কথা হিসেবে, যারা মূর্তিকে সুপারিশকারী বানিয়ে নিয়েছিল। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এতে নেই। অন্যের ঈমান নিয়ে রায় দেওয়ার অধিকারও এটি কোনো পাঠকের হাতে তুলে দেয় না। পরের আয়াত, ৩৯:৪৫, তর্ক থেকে সরে অন্তরের দিকে যায়। এক আল্লাহর কথা বলা হলে আখিরাতে অবিশ্বাসীদের অন্তর বিতৃষ্ণায় সংকুচিত হয়ে যায়, আর অন্যদের কথা বলা হলে তারা খুশি হয়ে ওঠে। পরীক্ষাটা তাই ভেতরের।"
+          },
+          {
+            "en": "For a reader today the verse becomes a question about where hope goes. At-Tabari's paraphrase carries a promise as well as a warning: when you make your worship His alone and call on Him, He grants your plea. Nothing in the verse tells a believer to stop asking. It tells him whom to ask. The patron we flatter, the connection we count on, the office we wait outside: each of them belongs to the One whose dominion is the heavens and the earth. The plea that matters is the one taken to Him.",
+            "bn": "আজকের পাঠকের কাছে আয়াতটি একটা প্রশ্ন হয়ে দাঁড়ায়: আমার আশা কোন দিকে যায়? তাবারীর ব্যাখ্যায় সতর্কবার্তার পাশাপাশি একটা প্রতিশ্রুতিও আছে। তোমরা যখন ইবাদত খাঁটিভাবে তাঁর জন্য করবে আর তাঁকে ডাকবে, তিনি তোমাদের আরজি কবুল করবেন। আয়াতটি মুমিনকে চাওয়া বন্ধ করতে বলে না। বলে দেয়, কার কাছে চাইতে হবে। যে প্রভাবশালীর মন জুগিয়ে চলি, যে যোগাযোগের উপর ভরসা করি, যে অফিসের বাইরে অপেক্ষায় বসে থাকি, সবই তাঁর মালিকানায়, আকাশ ও পৃথিবীর রাজত্ব যাঁর। যে আরজি আসলে কাজে আসে, তা তাঁর কাছে নেওয়া আরজি।"
+          }
+        ]
+      }
+    ]
+  },
   "39:46-47": {
     "sections": [
       {

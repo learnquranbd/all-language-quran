@@ -37393,6 +37393,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Guard the foundation of every deed: worship Allah alone, for the message given to every messenger is that associating partners with Him leaves all deeds worthless.",
     "lessonBn": "প্রতিটি আমলের ভিত আগলে রাখুন: কেবল আল্লাহর ইবাদত করুন। কারণ প্রত্যেক রসূলকে জানানো হয়েছে, তাঁর সঙ্গে শরীক করলে সব আমল নিষ্ফল হয়ে যায়।"
+  },
+  "39:44": {
+    "reflectionEn": "The verse before this one asks whether people have taken intercessors besides Allah. This verse answers in a single sweep: intercession belongs to Allah, all of it. No one speaks for anyone before Him unless He allows it, because He owns the heavens and the earth and all that is in them. Then it closes with the return: every one of us will be brought back to Him. The answer is not to stop hoping for help. It is to ask the One who owns all help. So the verse turns on me. Whose favour am I chasing as though it could open what He has closed? And when a need presses on me, do I take it to Him first, or last?",
+    "reflectionBn": "আগের আয়াত প্রশ্ন তুলেছিল: মানুষ কি আল্লাহকে বাদ দিয়ে সুপারিশকারী ধরে নিয়েছে? এ আয়াত এক কথায় তার জবাব দেয়। শাফাআত আল্লাহর, পুরোটাই তাঁর। তাঁর অনুমতি ছাড়া তাঁর সামনে কেউ কারও হয়ে মুখ খুলতে পারে না, কারণ আকাশ, পৃথিবী আর এ দুইয়ের সবকিছুর মালিক তিনিই। শেষে আসে ফিরে যাওয়ার কথা: আমাদের প্রত্যেককে তাঁর কাছেই ফিরিয়ে নেওয়া হবে। জবাবটা সাহায্যের আশা ছেড়ে দেওয়া নয়। জবাব হলো, সব সাহায্যের মালিক যিনি, তাঁর কাছেই চাওয়া। তাই আয়াতটি আমার দিকে ঘুরে দাঁড়ায়। কার মন জুগিয়ে চলছি আমি, যেন সে খুলে দিতে পারে যা আল্লাহ বন্ধ রেখেছেন? আর কোনো প্রয়োজন চেপে বসলে আমি কি আগে তাঁর কাছে যাই, নাকি সবার শেষে?",
+    "pointsEn": [
+      "When I need something badly, whose approval do I go after first, and do I ever act as if someone's word could overrule what Allah has decided?",
+      "Do I ask Allah directly, in my own words, or have I come to feel I am too far from Him to be heard?",
+      "If no one intercedes before Him except by His leave, what am I doing now to be among those He is pleased with?",
+      "Which person, position or connection do I lean on as though it owned the outcome?",
+      "If I am to be brought back to Him, which of my hopes would still stand on the day I arrive?"
+    ],
+    "pointsBn": [
+      "খুব দরকারি কিছু চাইলে আমি আগে কার সম্মতি খুঁজি? কখনো কি এমন আচরণ করি, যেন কারও কথা আল্লাহর ফয়সালাকে উল্টে দিতে পারে?",
+      "আমি কি নিজের ভাষায় সরাসরি আল্লাহর কাছে চাই, নাকি মনে হতে শুরু করেছে যে আমি তাঁর থেকে এত দূরে যে তিনি আমার কথা শুনবেন না?",
+      "তাঁর অনুমতি ছাড়া যদি কেউ তাঁর কাছে সুপারিশ করতে না পারে, তবে যাদের উপর তিনি সন্তুষ্ট, তাদের দলে থাকার জন্য আমি এখন কী করছি?",
+      "কোন মানুষ, কোন পদ বা কোন যোগাযোগের উপর আমি এমনভাবে ভর দিই, যেন ফলাফল তারই হাতে?",
+      "যদি তাঁর কাছেই আমাকে ফিরিয়ে নেওয়া হয়, তবে সেদিন পৌঁছে আমার কোন আশাগুলো টিকে থাকবে?"
+    ],
+    "lessonEn": "Take every need to Allah directly: all intercession belongs to Him, no one speaks before Him without His leave, and you will be brought back to Him.",
+    "lessonBn": "প্রতিটি প্রয়োজন সরাসরি আল্লাহর কাছে নিয়ে যান: সব শাফাআত তাঁরই, তাঁর অনুমতি ছাড়া তাঁর সামনে কেউ মুখ খোলে না, আর তাঁর কাছেই আপনাকে ফিরিয়ে নেওয়া হবে।"
   }
 };
 
