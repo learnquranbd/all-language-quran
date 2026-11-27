@@ -3955,6 +3955,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:78": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Questions for One Boast",
+          "bn": "এক দম্ভের জবাবে দুই প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "A-ttala'a al-ghayba ami-ttakhadha 'inda ar-Rahmani 'ahda: has he looked into the unseen, or has he taken a covenant with the Most Merciful? Seven Arabic words, and not one statement among them. The verse answers the man of 19:77, who disbelieved in Allah's signs and declared that he would surely be given wealth and children, and it answers him with nothing but questions. As-Sa'di names their tone: Allah says this as a rebuke to him and a giving of the lie. Al-Qurtubi calls the meaning tawbikh, reproach, carried by the form of a question.",
+            "bn": "আত্তালাআল গাইবা আমিত্তাখাযা ইনদার রাহমানি আহদা: সে কি অদৃশ্যে উঁকি দিয়েছে, নাকি দয়াময়ের কাছ থেকে কোনো অঙ্গীকার নিয়েছে? আরবিতে মাত্র সাতটি শব্দ, অথচ এর একটিও কোনো বিবৃতি নয়। ১৯:৭৭ আয়াতে যে লোকটির কথা এসেছে, আল্লাহর নিদর্শন অস্বীকার করেও যে বলেছিল তাকে অবশ্যই ধন-সম্পদ আর সন্তান দেওয়া হবে, এ আয়াত তারই জবাব। আর জবাবটা আসে শুধু প্রশ্নের আকারে। সুরটা কেমন, সা'দী তা বলে দেন: আল্লাহ এ কথা বলছেন তাকে ভর্ৎসনা করে আর তার দাবিকে মিথ্যা সাব্যস্ত করে। কুরতুবী এর অর্থকে বলেন তাওবীখ, অর্থাৎ তিরস্কার, যা প্রশ্নের রূপ ধরে এসেছে।"
+          },
+          {
+            "en": "Ibn Kathir reads the first question as a denial aimed at the man who made the claim, and he fixes when the man expected to collect: on the Day of Resurrection. His paraphrase brings out the oath inside la-utayanna: does he know what he will have in the Hereafter, so that he swore to it and bound himself by an oath? The Muyassar keeps to the plain line: did he look into the unseen and see that he will have wealth and children, or does he hold a covenant from Allah for it? The next verse opens with the answer to both: kalla, no.",
+            "bn": "ইবন কাসীর প্রথম প্রশ্নটিকে পড়েন দাবিদারের বিরুদ্ধে এক প্রত্যাখ্যান হিসেবে। লোকটি কবে এসব পাওয়ার আশা করছিল, তাও তিনি নির্দিষ্ট করে দেন: কিয়ামতের দিন। লা-উতাইয়ান্না শব্দে যে শপথের জোর আছে, তাঁর ব্যাখ্যায় সেটা স্পষ্ট হয়ে ওঠে। আখিরাতে তার জন্য কী আছে, সে কি তা জেনে ফেলেছে, যে কারণে কসম খেয়ে নিজেকে এ কথায় বেঁধে ফেলল? মুয়াসসার সাদামাটা অর্থেই থামে: সে কি অদৃশ্যে উঁকি দিয়ে দেখে এসেছে যে তার ধন-সম্পদ আর সন্তান থাকবে, নাকি এ ব্যাপারে আল্লাহর কাছে তার কোনো অঙ্গীকার আছে? দুই প্রশ্নেরই উত্তর দিয়ে পরের আয়াত শুরু হয়: কাল্লা, কখনো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sword Made, Never Paid",
+          "bn": "তলোয়ার বানানো হলো, দাম মিলল না"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari's Sahih, narration 4733, from Khabbab (RA): \"I was a blacksmith in Mecca. Once I made a sword for Al-'Asi bin Wail As-Sahmi. When I went to demand its price, he said, 'I will not give it to you till you disbelieve in Muhammad.' I said, 'I shall not disbelieve in Muhammad till Allah make you die and then bring you to life again.' He said, 'If Allah should make me die and then resurrect me and I would have wealth and children.'\"",
+            "bn": "সহীহ বুখারী, বর্ণনা নং ৪৭৩৩, খাব্বাব (রাঃ) বলেন: \"আমি মক্কায় কামারের কাজ করতাম। একবার আস ইবন ওয়াইল সাহমীর জন্য একটা তলোয়ার বানালাম। দাম চাইতে গেলে সে বলল, 'যতক্ষণ না তুমি মুহাম্মাদকে অস্বীকার করছ, আমি তোমাকে এটা দেব না।' আমি বললাম, 'আল্লাহ তোমাকে মৃত্যু দিয়ে আবার জীবিত না করা পর্যন্ত আমি মুহাম্মাদকে ﷺ অস্বীকার করব না।' সে বলল, 'আল্লাহ যখন আমাকে মৃত্যু দেবেন, তারপর আবার ওঠাবেন, তখন তো আমার ধন-সম্পদ আর সন্তান থাকবে।'\""
+          },
+          {
+            "en": "The narration continues: \"So Allah revealed: 'Have you seen him who disbelieved in Our Signs, and (yet) says I shall certainly be given wealth and children? Has he known the unseen or has he taken a covenant from (Allah) the Beneficent?'\" In the Arabic the narrator then adds a single word, mawthiqan, a firm pledge, as the meaning of 'ahd, and Ibn Kathir recalls that in al-Bukhari the covenant means a binding pledge. Al-Bukhari then notes that al-Ashja'i, reporting from Sufyan, mentioned neither the sword nor that gloss. The gloss rests on a single line of transmission, and al-Bukhari says so himself.",
+            "bn": "বর্ণনাটি এগিয়ে চলে: \"তখন আল্লাহ নাযিল করলেন: 'তুমি কি তাকে দেখেছ, যে আমার নিদর্শনসমূহ অস্বীকার করেছে আর বলে, আমাকে অবশ্যই ধন-সম্পদ ও সন্তান দেওয়া হবে? সে কি অদৃশ্য জেনে ফেলেছে, নাকি দয়াময়ের কাছ থেকে কোনো অঙ্গীকার নিয়েছে?'\" আরবি পাঠে এরপর বর্ণনাকারী একটি মাত্র শব্দ যোগ করেন: মাওসিকান, অর্থাৎ পাকা প্রতিশ্রুতি। এটাই আহদ শব্দের অর্থ। ইবন কাসীরও স্মরণ করিয়ে দেন, বুখারীতে অঙ্গীকার মানে দৃঢ় প্রতিশ্রুতি। এরপর বুখারী জানিয়ে দেন, সুফইয়ান থেকে আশজাঈ যে বর্ণনা করেছেন, তাতে তলোয়ারের কথাও নেই, এই ব্যাখ্যাও নেই। অর্থাৎ ব্যাখ্যাটি একটিমাত্র সূত্রের ওপর দাঁড়িয়ে, আর বুখারী নিজেই তা বলে দিয়েছেন।"
+          },
+          {
+            "en": "The story itself is not in doubt: al-Bukhari gives it in three more wordings, and Muslim carries it too. They differ in small ways. In one, Khabbab was a smith in the days before Islam; in another, al-'As asks, will I be raised after death? In Muslim's wording, through Waki' from al-A'mash, what came down runs from 19:77 to he will come to Us alone (19:80), as in one of al-Bukhari's. At-Tabari relays the report through Masruq too. So this verse is no isolated retort but the second step of a four-verse answer to one man's mockery.",
+            "bn": "মূল ঘটনা নিয়ে অবশ্য কোনো সংশয় নেই। বুখারী আরও তিনটি ভাষ্যে এটি এনেছেন, মুসলিমেও ঘটনাটি আছে। ভাষ্যগুলোর মধ্যে ছোটখাটো পার্থক্য আছে। একটিতে খাব্বাব বলেন, তিনি জাহিলী যুগে কামার ছিলেন। আরেকটিতে আস জিজ্ঞেস করে, মৃত্যুর পর আমাকে আবার ওঠানো হবে? আ'মাশ থেকে ওয়াকী'র সূত্রে মুসলিমের ভাষ্যে নাযিল হওয়া অংশ ১৯:৭৭ থেকে 'সে আমার কাছে আসবে একা' (১৯:৮০) পর্যন্ত, বুখারীর একটি ভাষ্যেও তাই। তাবারীও মাসরূকের সূত্রে ঘটনাটি এনেছেন। তাই এ আয়াত বিচ্ছিন্ন কোনো পাল্টা কথা নয়। একজন মানুষের ঠাট্টার জবাবে আসা চার আয়াতের উত্তরের এটি দ্বিতীয় ধাপ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Looking Behind the Veil",
+          "bn": "পর্দার ওপারে উঁকি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari paraphrases the first question this way: did the man who said this know the knowledge of the unseen, and so know that he will have wealth and children in the Hereafter, by looking into what is hidden from him? Al-Baghawi relays two sharper readings. Ibn Abbas: did he look into al-Lawh al-Mahfuz, the Preserved Tablet? Mujahid: did he know the unseen, so that he knows whether he is in Paradise or not? The first places the hidden thing in the written decree; the second places it in the man's own end, the very thing he spoke about so confidently.",
+            "bn": "প্রথম প্রশ্নটিকে তাবারী এভাবে খুলে বলেন: যে এ কথা বলেছে, সে কি অদৃশ্যের জ্ঞান জেনে ফেলেছে? তার কাছে যা গোপন, তাতে উঁকি দিয়ে কি সে জেনে নিয়েছে যে আখিরাতে তার ধন-সম্পদ আর সন্তান থাকবে? বাগাভী আরও তীক্ষ্ণ দুটি ব্যাখ্যা আনেন। ইবন আব্বাস বলেন: সে কি লাওহে মাহফুযে উঁকি দিয়েছে? মুজাহিদ বলেন: সে কি অদৃশ্যের জ্ঞান পেয়ে গেছে, যাতে জানতে পারে সে জান্নাতে যাবে কি না? প্রথম ব্যাখ্যায় গোপন বিষয়টি লেখা তাকদীরে। দ্বিতীয়টিতে তা লোকটির নিজের পরিণতি, ঠিক যে বিষয়ে সে এত জোর দিয়ে কথা বলছিল।"
+          },
+          {
+            "en": "As-Sa'di draws the boundary that makes the first question unanswerable. Has his knowledge encompassed the unseen, he asks, so that he knows what will be, and that among what will be is his being given wealth and children on the Day of Resurrection? Then he states the rule beneath it: knowledge of the hidden things of the future belongs to Allah alone, and no one knows any of it except a messenger to whom Allah discloses it. The man in this verse claimed no such message. He had just demanded that another man renounce the Messenger, so the first door was shut before he reached it.",
+            "bn": "সা'দী সেই সীমারেখা টেনে দেন, যার কারণে প্রথম প্রশ্নের কোনো উত্তর হয় না। তিনি জিজ্ঞেস করেন, তার জ্ঞান কি অদৃশ্যকে ঘিরে ফেলেছে, যাতে সে জানে ভবিষ্যতে কী ঘটবে, আর সেসবের মধ্যে এটাও যে কিয়ামতের দিন তাকে ধন-সম্পদ ও সন্তান দেওয়া হবে? এরপর তিনি মূল নিয়মটি বলেন: ভবিষ্যতের গোপন বিষয়ের জ্ঞান একমাত্র আল্লাহর। তিনি যে রাসূলকে জানান, তিনি ছাড়া কেউ এর কিছুই জানে না। এ আয়াতের লোকটি এমন কোনো বার্তা পাওয়ার দাবি করেনি। উল্টো সে কিছুক্ষণ আগে আরেকজনকে রাসূলকে অস্বীকার করতে বলেছিল। তাই প্রথম দরজাটা তার কাছে পৌঁছানোর আগেই বন্ধ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hamza That Asks",
+          "bn": "প্রশ্নবোধক হামযা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi stops on the first letter. The alif of a-ttala'a is the alif of a question, he says, because am, or, comes after it, and its meaning is reproach. Its root form was a-ittala'a, and the second alif dropped because it was only a connecting alif. Why, then, no lengthened vowel, as in a-Allahu khayrun or a-l-dhakarayni? There, he explains, the madda was needed to keep a question from being read as a statement. Here it is not: the question alif takes a fatha, while the plain verb would open with a kasra, so the vowel alone tells them apart.",
+            "bn": "কুরতুবী থামেন প্রথম অক্ষরটিতে। তিনি বলেন, আত্তালাআ শব্দের আলিফটি প্রশ্নের আলিফ, কারণ এর পরে আম, অর্থাৎ 'নাকি', এসেছে। আর এর অর্থ তিরস্কার। মূলে শব্দটি ছিল আ-ইত্তালাআ। দ্বিতীয় আলিফটি শুধু সংযোগের আলিফ ছিল বলে বাদ পড়ে গেছে। তাহলে আ-আল্লাহু খাইরুন বা আ-য্যাকারাইনি শব্দে যেমন লম্বা টান আছে, এখানে তেমন নেই কেন? তাঁর ব্যাখ্যা: ওসব জায়গায় প্রশ্নকে বিবৃতি থেকে আলাদা রাখতে মাদ্দ দরকার ছিল। এখানে দরকার নেই। প্রশ্নের আলিফে যবর, আর সাধারণ ক্রিয়াটি শুরু হতো যের দিয়ে। শুধু এই স্বরচিহ্নই দুটিকে আলাদা করে দেয়।"
+          },
+          {
+            "en": "The detail matters for the reader as much as for the grammarian. Opened with a kasra, ittala'a al-ghayb would be a report: he looked into the unseen. Opened with the fatha it carries, it becomes a challenge that already expects its answer, and as-Sa'di spells that answer out: nothing of the sort happened, so it is known that he is a fabricator, saying what he has no knowledge of. One short vowel separates a claim the verse would be making on the man's behalf from the question it actually puts to him.",
+            "bn": "খুঁটিনাটিটা ব্যাকরণবিদের মতো সাধারণ পাঠকের জন্যও গুরুত্বপূর্ণ। যের দিয়ে শুরু হলে ইত্তালাআল গাইব হতো একটি সংবাদ: সে অদৃশ্যে উঁকি দিয়েছে। অথচ যবর দিয়ে শুরু হওয়ায় এটি এমন এক চ্যালেঞ্জ, যার উত্তর আগেই ঠিক হয়ে আছে। সা'দী সেই উত্তর খুলে বলেন: এর কিছুই ঘটেনি। তাতেই জানা গেল, সে বানিয়ে কথা বলছে, এমন কথা বলছে যার কোনো জ্ঞান তার নেই। একটি ছোট্ট স্বরচিহ্নের তফাত। একদিকে লোকটির পক্ষে আয়াতের নিজের মুখে দাবি, অন্যদিকে তার সামনে রাখা প্রশ্ন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Would Count as a Pledge",
+          "bn": "অঙ্গীকার বলে গণ্য হতো কী"
+        },
+        "p": [
+          {
+            "en": "The second question searches deeper, because it names something that really exists. At-Tabari reads it: or did he believe in Allah, act on what He commanded and refrain from what He forbade, so that he would have by that a covenant with Allah to give him the wealth and children he speaks of? He supports it with Qatada: by a righteous deed he sent ahead. Al-Baghawi relays Qatada in the same words. On this reading the covenant is not a document produced on demand but a life lived: faith and obedience, which Allah has undertaken to reward.",
+            "bn": "দ্বিতীয় প্রশ্নটি আরও গভীরে যায়, কারণ এতে এমন জিনিসের নাম আছে যা সত্যিই আছে। তাবারী এর ব্যাখ্যা দেন এভাবে: নাকি সে আল্লাহর ওপর ঈমান এনেছে, তাঁর আদেশ পালন করেছে আর তাঁর নিষেধ থেকে বিরত থেকেছে, যার ফলে আল্লাহর কাছে তার এমন অঙ্গীকার জমা আছে যে তিনি তাকে তার বলা সম্পদ আর সন্তান দেবেন? এর সমর্থনে তিনি কাতাদার কথা আনেন: আগে পাঠানো কোনো নেক আমলের মাধ্যমে। বাগাভীও কাতাদার একই কথা উদ্ধৃত করেন। এ ব্যাখ্যায় অঙ্গীকার চাইলেই বের করে দেখানোর মতো কোনো দলিল নয়, বরং যাপিত জীবন: ঈমান আর আনুগত্য, যার প্রতিদান দেওয়ার দায়িত্ব আল্লাহ নিজে নিয়েছেন।"
+          },
+          {
+            "en": "Ibn Kathir gathers the readings that put the covenant into a sentence. Through ad-Dahhak, Ibn Abbas: la ilaha illa Allah, by which one then hopes. Muhammad ibn Ka'b al-Qurazi: the testimony that there is no god but Allah, after which he recited the verse. Al-Baghawi likewise glosses it as having said la ilaha illa Allah. Al-Kalbi, in al-Baghawi, reads it as a promise made to him that he would enter Paradise. Ma'arif al-Qur'an keeps to the man's own terms: has he obtained a promise from Allah for his wealth and children? And al-Bukhari's narration, as seen, glosses it as a firm pledge.",
+            "bn": "অঙ্গীকারকে যে ব্যাখ্যাগুলো একটি বাক্যে বেঁধে দেয়, ইবন কাসীর সেগুলো একত্র করেন। দাহহাকের সূত্রে ইবন আব্বাস বলেন: লা ইলাহা ইল্লাল্লাহ, যার ভরসায় মানুষ আশা রাখে। মুহাম্মাদ ইবন কা'ব কুরাযী বলেন: এ সাক্ষ্য যে আল্লাহ ছাড়া কোনো ইলাহ নেই। এরপর তিনি আয়াতটি তিলাওয়াত করেন। বাগাভীও এর ব্যাখ্যা দেন লা ইলাহা ইল্লাল্লাহ বলা দিয়ে। বাগাভীতেই কালবী একে পড়েন এমন এক প্রতিশ্রুতি হিসেবে যে তাকে জান্নাতে প্রবেশ করানো হবে। মাআরিফুল কুরআন লোকটির নিজের দাবির ভাষাতেই থাকে: সে কি তার সম্পদ আর সন্তানের জন্য আল্লাহর কাছ থেকে কোনো প্রতিশ্রুতি আদায় করেছে? আর আগেই দেখা গেছে, বুখারীর বর্ণনায় এর অর্থ পাকা প্রতিশ্রুতি।"
+          },
+          {
+            "en": "These readings differ in emphasis rather than collide. Some name the word spoken, some the deed sent ahead, at-Tabari both together, others the promise received. The same word returns nine verses on, where intercession is owned only by whoever has taken a covenant with the Most Merciful (19:87), and the article there treats the covenant at length. Here its role is narrower: it is the only lawful ground on which anyone could say with confidence what he will be given hereafter. The man had denied the signs and demanded that another renounce the testimony. He had neither door open to him.",
+            "bn": "এই ব্যাখ্যাগুলো পরস্পরবিরোধী নয়, শুধু জোর পড়েছে ভিন্ন জায়গায়। কেউ বলেন মুখে উচ্চারিত কালিমার কথা, কেউ আগে পাঠানো আমলের কথা। তাবারী দুটোকে একসঙ্গে ধরেন, অন্যরা বলেন পাওয়া প্রতিশ্রুতির কথা। নয়টি আয়াত পরে শব্দটি আবার আসে। সেখানে বলা হয়েছে, দয়াময়ের কাছ থেকে যে অঙ্গীকার নিয়েছে সে ছাড়া কারও সুপারিশের ক্ষমতা থাকবে না (১৯:৮৭), আর সে আয়াতের প্রবন্ধে অঙ্গীকার নিয়ে বিস্তারিত আলোচনা আছে। এখানে এর ভূমিকা সীমিত। আখিরাতে কী পাবে, তা জোর দিয়ে বলার একমাত্র বৈধ ভিত্তি এটাই। লোকটি নিদর্শন অস্বীকার করেছিল, অন্যকেও সাক্ষ্য ছাড়তে চাপ দিয়েছিল। তার সামনে কোনো দরজাই খোলা ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Left With No Third Ground",
+          "bn": "তৃতীয় কোনো ভিত নেই"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di sees in the verse's either-or a complete argument. This division and alternation, he says, is the utmost there can be in binding an opponent and establishing the proof. Whoever claims that some good awaits him with Allah in the Hereafter cannot escape two possibilities. Either his word comes from knowledge of the future unseen, and that belongs to Allah alone. Or he has taken a covenant with Allah by faith in Him and by following His messengers, whose followers Allah has pledged are the people of the Hereafter, the saved and the successful.",
+            "bn": "আয়াতের এই 'হয় এটা, নয় ওটা' রূপের মধ্যে সা'দী একটি পূর্ণাঙ্গ যুক্তি দেখতে পান। তিনি বলেন, প্রতিপক্ষকে আটকে ফেলা আর প্রমাণ প্রতিষ্ঠা করার ক্ষেত্রে এই ভাগ করে দুই বিকল্প সামনে রাখার চেয়ে জোরালো আর কিছু হয় না। আখিরাতে আল্লাহর কাছে তার জন্য কল্যাণ আছে, যে এমন দাবি করে, তার সামনে দুটি পথ ছাড়া তৃতীয় কিছু নেই। হয় তার কথা এসেছে ভবিষ্যতের অদৃশ্য জ্ঞান থেকে, আর সে জ্ঞান একমাত্র আল্লাহর। নয়তো সে আল্লাহর ওপর ঈমান এনে আর তাঁর রাসূলদের অনুসরণ করে আল্লাহর কাছে অঙ্গীকার নিয়েছে। সেই অনুসারীদের ব্যাপারেই আল্লাহ কথা দিয়েছেন যে তারাই আখিরাতের অধিকারী, তারাই মুক্তিপ্রাপ্ত ও সফল।"
+          },
+          {
+            "en": "When both are absent, as-Sa'di concludes, the falseness of the claim is known by that alone. Notice what the argument does not need. It does not stop to prove that the resurrection is real, though the man had scoffed at it and the verses that follow do warn him of it. It asks only for the claimant's grounds. Two questions, and the boast is left standing on nothing. The same test reaches any confident word about the next life, whoever speaks it.",
+            "bn": "সা'দীর উপসংহার: এ দুটির কোনোটি না থাকলে শুধু এ থেকেই দাবিটির অসারতা প্রমাণ হয়ে যায়। লক্ষ করুন, যুক্তিটির কী প্রয়োজন পড়েনি। পুনরুত্থান যে সত্য, তা প্রমাণ করতে এটি থামেনি, যদিও লোকটি একে নিয়ে ঠাট্টা করেছিল আর পরের আয়াতগুলো তাকে সে বিষয়ে সতর্কও করে। যুক্তিটি শুধু দাবিদারের ভিত্তি জানতে চায়। দুটি প্রশ্নেই দম্ভটা শূন্যের ওপর দাঁড়িয়ে থাকে। পরকাল নিয়ে যে-ই জোর দিয়ে কিছু বলুক, এই পরীক্ষা তার কথাতেও খাটে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Asked for More",
+          "bn": "সে চেয়েছিল আরও বেশি"
+        },
+        "p": [
+          {
+            "en": "The questions are followed at once by kalla, which Ibn Kathir calls a particle that opposes what came before it and lends weight to what follows. We will record what he says and extend for him the punishment (19:79); We will inherit from him what he speaks of, and he will come to Us alone (19:80). Ibn Kathir reads the inheritance as the wealth and children: Allah takes them from him, against his claim that he would be given more in the Hereafter than he had in this life. The man asked for more and arrives with nothing.",
+            "bn": "প্রশ্ন দুটির পরপরই আসে কাল্লা। ইবন কাসীরের ভাষায়, এই অব্যয়টি আগের কথাকে নাকচ করে আর পরের কথাকে জোরালো করে। আমি লিখে রাখব সে যা বলে, আর তার জন্য শাস্তি বাড়িয়েই চলব (১৯:৭৯)। সে যা নিয়ে কথা বলে, তার উত্তরাধিকারী হব আমি, আর সে আমার কাছে আসবে একা (১৯:৮০)। ইবন কাসীর এই উত্তরাধিকারকে পড়েন ধন-সম্পদ আর সন্তান হিসেবে। আল্লাহ এগুলো তার কাছ থেকে নিয়ে নেবেন। অথচ তার দাবি ছিল, দুনিয়ায় যা ছিল আখিরাতে তার চেয়েও বেশি পাবে। আরও বেশি চেয়েছিল যে, সে পৌঁছায় একেবারে খালি হাতে।"
+          },
+          {
+            "en": "This needs stating plainly. The verse answers one man's claim, made in Makkah to a companion whose earned price he withheld, and it describes what the text describes: his boast, its emptiness and the answer that came down to it. It licenses nothing against any living person, any community or any descendant of his, and it gives no one the right to declare of another that he is bound for loss. The verdict in these verses is Allah's, spoken about one claim. Our share in them is to test our own claims against the same two questions.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একজন মানুষের দাবির জবাব। মক্কায় সে এক সাহাবির ন্যায্য পাওনা আটকে রেখে এ দাবি করেছিল। আয়াত ঠিক ততটুকুই বর্ণনা করে, যতটুকু এর পাঠে আছে: তার দম্ভ, সে দম্ভের অন্তঃসারশূন্যতা, আর তার জবাবে নাযিল হওয়া উত্তর। জীবিত কোনো মানুষ, কোনো সম্প্রদায় বা তার কোনো বংশধরের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। অন্য কাউকে ধ্বংসের পথের যাত্রী বলে ঘোষণা দেওয়ার অধিকারও কাউকে দেয় না। এই আয়াতগুলোর রায় আল্লাহর, একটি নির্দিষ্ট দাবির ব্যাপারে। আমাদের ভাগে আছে নিজেদের দাবিগুলোকে এই একই দুই প্রশ্নে যাচাই করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weighing My Own Assurances",
+          "bn": "নিজের আশ্বাস মেপে দেখা"
+        },
+        "p": [
+          {
+            "en": "The man's mistake has a familiar shape. He assumed that the abundance he had here would follow him there, as if the next life merely continued this. Four verses earlier, 19:75 had warned against reading respite as approval; this verse adds the question that exposes the assumption: how do you know? I rarely say anything as crude as he did. But I may carry an unexamined certainty that my standing with Allah is secure, resting on my family, my comforts, my habits, or simply on the fact that nothing has gone wrong yet.",
+            "bn": "লোকটির ভুলের চেহারা আমাদের চেনা। সে ধরে নিয়েছিল, এখানে যে প্রাচুর্য আছে, তা ওখানেও তার সঙ্গে যাবে, যেন পরকাল এই জীবনেরই আরেক অধ্যায়। চারটি আয়াত আগে ১৯:৭৫ সতর্ক করেছিল, ঢিল দেওয়াকে সন্তুষ্টি ভেবে বসা যাবে না। এ আয়াত যোগ করে সেই প্রশ্ন, যা ধারণাটির মুখোশ খুলে দেয়: তুমি জানলে কীভাবে? তার মতো এত স্থূল কথা আমি কমই বলি। তবু মনের ভেতরে হয়তো যাচাই না করা এক নিশ্চয়তা বয়ে বেড়াই যে আল্লাহর কাছে আমার অবস্থান নিরাপদ। সে নিশ্চয়তার ভর আমার পরিবার, আমার আরাম, আমার অভ্যাস, কিংবা শুধু এই যে এখনো খারাপ কিছু ঘটেনি।"
+          },
+          {
+            "en": "The verse does not leave the believer without ground to stand on. It names the one ground there is: a covenant with the Most Merciful, which the readings gathered here spell out as the testimony of His oneness, faith joined to obedience, and righteous deeds sent ahead. Khabbab (RA) would not trade that testimony even to recover what he was owed. My hope is only as firm as the covenant I am keeping today, in what I say and in what I do, and the question of this verse is one I can put to myself before it is put to me.",
+            "bn": "মু'মিনকে আয়াতটি ভিত্তিহীন অবস্থায় ফেলে রাখে না। যে একটিমাত্র ভিত্তি আছে, তার নাম বলে দেয়: দয়াময়ের সঙ্গে অঙ্গীকার। এখানে জড়ো করা ব্যাখ্যাগুলো একে খুলে বলে তাঁর একত্বের সাক্ষ্য হিসেবে, আনুগত্যের সঙ্গে যুক্ত ঈমান হিসেবে, আর আগে পাঠানো নেক আমল হিসেবে। খাব্বাব (রাঃ) নিজের পাওনা আদায়ের জন্যও সেই সাক্ষ্য ছাড়তে রাজি হননি। আজ আমি যে অঙ্গীকার রক্ষা করে চলছি, কথায় আর কাজে, আমার আশা ঠিক ততটুকুই মজবুত। এ আয়াতের প্রশ্নটা আমাকে করা হওয়ার আগে আমি নিজেই নিজেকে করতে পারি।"
+          }
+        ]
+      }
+    ]
+  },
   "19:82": {
     "sections": [
       {

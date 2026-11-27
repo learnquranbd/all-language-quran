@@ -34143,6 +34143,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When Allah has spoken about a matter, let His word settle it for you: do not reopen it by guesswork, and do not raise anyone above the rank He gave them.",
     "lessonBn": "আল্লাহ কোনো বিষয়ে কথা বলে দিলে সেটাকেই চূড়ান্ত মানুন। আন্দাজ দিয়ে তা আবার খুলবেন না, আর কাউকে তাঁর দেওয়া মর্যাদার উপরে তুলবেন না।"
+  },
+  "19:78": {
+    "reflectionEn": "A man has made a promise to himself about the next life: if there is a resurrection, he will be given wealth and children there too. The verse does not argue with him at length. It asks two questions. Has he looked into the unseen and seen it written? Or has he taken a pledge from the Most Merciful that it will be so? Without one of the two, a confident claim about what waits after death is only talk. I make quieter claims of my own: it will be all right, my Lord will overlook this, someone like me will be fine. On what do they rest: on knowledge I cannot have, or on a covenant I am actually keeping?",
+    "reflectionBn": "একজন মানুষ পরকাল নিয়ে নিজেকে নিজেই কথা দিয়ে রেখেছে: পুনরুত্থান যদি হয়ই, সেখানেও সে ধন-সম্পদ আর সন্তান পাবে। আয়াতটি তার সঙ্গে লম্বা তর্কে যায় না। শুধু দুটি প্রশ্ন করে। সে কি অদৃশ্যে উঁকি দিয়ে দেখে এসেছে যে এমনটাই লেখা আছে? নাকি দয়াময়ের কাছ থেকে এর পাকা কথা নিয়ে এসেছে? এ দুটোর কোনোটি না থাকলে মৃত্যুর পরে কী অপেক্ষা করছে, তা নিয়ে জোর গলায় দাবি নিছক মুখের কথা। আমিও নিজের মনে চুপচাপ এমন দাবি করি: সব ঠিক হয়ে যাবে, আমার রব এটা মাফ করে দেবেন, আমার মতো মানুষের কিছু হবে না। এই দাবিগুলোর ভিত কী? এমন জ্ঞান, যা আমার থাকার কথাই নয়? নাকি এমন অঙ্গীকার, যা আমি সত্যিই রক্ষা করে চলছি?",
+    "pointsEn": [
+      "What do I assume about my own end that I have never actually examined?",
+      "When I picture the Hereafter going well for me, is the picture built on what I do now, or on what I have now?",
+      "Which of my comfortable hopes would fall apart if someone asked me, as this verse asks, how I know?",
+      "Am I keeping the covenant that the testimony of His oneness makes, in my prayer, in my dealings and in what I leave alone?",
+      "Do I ever read worldly ease, mine or someone else's, as proof of a good standing with Allah?"
+    ],
+    "pointsBn": [
+      "নিজের পরিণতি নিয়ে এমন কী ধরে নিয়ে বসে আছি, যা কখনো যাচাই করে দেখিনি?",
+      "আখিরাতে আমার ভালো কিছু হবে বলে যে ছবি মনে আঁকি, তার ভিত কি আজকের আমল, নাকি আজকের সম্পদ?",
+      "এ আয়াতের মতো কেউ যদি জিজ্ঞেস করে, 'কীভাবে জানলে?', তাহলে আমার কোন আরামদায়ক আশাগুলো ভেঙে পড়বে?",
+      "তাঁর একত্বের সাক্ষ্য যে অঙ্গীকার বয়ে আনে, তা কি আমি রক্ষা করছি, নামাজে, লেনদেনে আর যা ছেড়ে থাকার কথা তা ছেড়ে থাকায়?",
+      "দুনিয়ার স্বচ্ছলতাকে, নিজের হোক বা অন্যের, আমি কি কখনো আল্লাহর কাছে ভালো অবস্থানের প্রমাণ ভেবে বসি?"
+    ],
+    "lessonEn": "Do not promise yourself a good end you have no grounds for; the only real claim on the Hereafter is a covenant with the Most Merciful, kept in faith and deeds.",
+    "lessonBn": "যে ভালো পরিণতির কোনো ভিত্তি নেই, তার আশ্বাস নিজেকে দেবেন না। আখিরাতে একমাত্র সত্যিকারের দাবি দয়াময়ের সঙ্গে অঙ্গীকার, যা রক্ষা হয় ঈমান আর আমলে।"
   }
 };
 
