@@ -1947,6 +1947,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "24:52": {
+    "sections": [
+      {
+        "h": {
+          "en": "Beyond the Single Dispute",
+          "bn": "এক বিবাদের গণ্ডি ছাড়িয়ে"
+        },
+        "p": [
+          {
+            "en": "Surah an-Nur sets two answers side by side. In 24:47 to 24:50 a party says it believes and obeys, then turns aside when called to Allah and His Messenger for judgement, and comes willingly only when the right is on its side. In 24:51 the believers answer the same call with we hear and we obey. Our verse follows at once: wa-man yuti'i Allaha wa-rasulahu wa-yakhsha Allaha wa-yattaqhi fa-ula'ika humu al-fa'izun, and whoever obeys Allah and His Messenger, fears Allah and keeps wary of Him, it is they who are the winners.",
+            "bn": "সূরা আন-নূর দুটি জবাব পাশাপাশি রাখে। ২৪:৪৭ থেকে ২৪:৫০ আয়াতে একদল লোক মুখে বলে, আমরা ঈমান এনেছি, মেনে নিয়েছি। অথচ ফয়সালার জন্য আল্লাহ ও তাঁর রসূলের দিকে ডাকা হলে তারা মুখ ফিরিয়ে নেয়। হক নিজেদের পক্ষে থাকলে তবেই তারা বিনয়ের সঙ্গে ছুটে আসে। ২৪:৫১ আয়াতে মু'মিনরা একই ডাকে সাড়া দেয়: আমরা শুনলাম ও মেনে নিলাম। এর পরপরই আমাদের আয়াত: ওয়া মাঁই ইউতি'ইল্লাহা ওয়া রসূলাহু ওয়া ইয়াখশাল্লাহা ওয়া ইয়াত্তাকহি ফা-উলা'ইকা হুমুল ফা'ইযূন। যে আল্লাহ ও তাঁর রসূলের আনুগত্য করে, আল্লাহকে ভয় করে এবং তাঁর ব্যাপারে সতর্ক থাকে, তারাই সফলকাম।"
+          },
+          {
+            "en": "As-Sa'di names the move the verse makes. Having mentioned the merit of obedience in a ruling specifically, he says, it now mentions its merit in general, in every state. The dispute of the previous verses is one occasion for obedience; this verse takes in all the others. Ibn Kathir, in the abridged English, reads the passage as a contrast between hypocrites whose deeds contradict their words and believers who seek no way apart from the Book of Allah and the Sunnah of His Messenger.",
+            "bn": "আয়াতটি কোন দিকে মোড় নেয়, সা'দী তা স্পষ্ট করে বলেন। আগে বিশেষ করে ফয়সালার ক্ষেত্রে আনুগত্যের মর্যাদা এসেছে। এবার সাধারণভাবে, সব অবস্থায় আনুগত্যের মর্যাদা আসছে। আগের আয়াতগুলোর বিবাদ আনুগত্যের একটা উপলক্ষ মাত্র, আর এ আয়াত বাকি সব উপলক্ষকে ধারণ করে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ পুরো অংশটাকে পড়ে দুই দলের তুলনা হিসেবে। একদিকে মুনাফিক, যাদের কাজ তাদের কথার উল্টো। অন্যদিকে মু'মিন, যারা আল্লাহর কিতাব ও তাঁর রসূলের সুন্নাহ ছাড়া অন্য কোনো পথ খোঁজে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whether It Pleases or Pains",
+          "bn": "ভালো লাগুক বা না লাগুক"
+        },
+        "p": [
+          {
+            "en": "On the core of the first clause the commentators agree: obedience is doing what is commanded and leaving what is forbidden. Ibn Kathir: in what the two of them commanded him, and leaving what they forbade him. The Muyassar: in the command and the prohibition. Al-Qurtubi: in what He commanded and ruled. As-Sa'di adds belief to action. To obey Allah and His Messenger, he says, is to affirm what they report as true and to carry out what they command. Obedience on this account has a side in the heart as well as a side in the limbs.",
+            "bn": "প্রথম অংশের মূল কথায় তাফসীরকারেরা একমত: আদেশ পালন করা আর নিষেধ থেকে বিরত থাকা, এটাই আনুগত্য। ইবন কাসীর বলেন, দুজনে তাকে যা আদেশ করেছেন তাতে, আর যা নিষেধ করেছেন তা ছেড়ে দেওয়ায়। মুয়াসসার বলে, আদেশে ও নিষেধে। কুরতুবী বলেন, তিনি যা আদেশ করেছেন ও যে ফয়সালা দিয়েছেন তাতে। সা'দী আমলের সঙ্গে বিশ্বাসকেও যোগ করেন। তাঁর ভাষায়, আল্লাহ ও তাঁর রসূলের আনুগত্য মানে তাঁদের দেওয়া খবরকে সত্য বলে মেনে নেওয়া আর তাঁদের আদেশ পালন করা। তাহলে এ আনুগত্যের একটা দিক অন্তরে, আরেকটা দিক অঙ্গপ্রত্যঙ্গে।"
+          },
+          {
+            "en": "At-Tabari adds a clause aimed squarely at the scene before it. The one who obeys, he says, obeys in what He commanded and forbade, and submits to their ruling both for him and against him: yusallimu li-hukmihima lahu wa-'alayhi. That is the exact reverse of the party in 24:49, who come in prompt obedience only when the right is theirs. Al-Baghawi records from Ibn 'Abbas (RA) a gloss in the same spirit: whoever obeys Allah and His Messenger in what displeased him and in what pleased him, fima sa'ahu wa-sarrahu.",
+            "bn": "তাবারী এমন একটি কথা যোগ করেন, যা সরাসরি আগের দৃশ্যের দিকে তাক করা। তাঁর মতে, অনুগত ব্যক্তি আল্লাহর আদেশ ও নিষেধ মেনে চলে, আর তাঁদের দুজনের ফয়সালা তার পক্ষে যাক বা বিপক্ষে, সে তা মাথা পেতে নেয়: ইউসাল্লিমু লি-হুকমিহিমা লাহু ওয়া আলাইহি। ২৪:৪৯ আয়াতের সেই দল ঠিক এর উল্টো। হক তাদের দিকে থাকলে তবেই তারা অনুগত হয়ে ছুটে আসে। বাগাভী ইবন আব্বাস (রাঃ) থেকে একই সুরের একটি ব্যাখ্যা আনেন: যে আল্লাহ ও তাঁর রসূলের আনুগত্য করে, তা তার খারাপ লাগুক কিংবা ভালো লাগুক, ফীমা সা'আহু ওয়া সাররাহু।"
+          },
+          {
+            "en": "So the real test of the first clause is the verdict that goes against me. Anyone accepts a ruling that hands him what he wanted. At-Tabari's for him and against him, and Ibn 'Abbas's displeased and pleased, both locate obedience at the point where it begins to cost. The passage presses the same command a moment later: 24:54 says obey Allah and obey the Messenger, and adds that if you obey him you will be guided.",
+            "bn": "তাহলে প্রথম অংশের আসল পরীক্ষা সেই রায়, যা আমার বিপক্ষে যায়। যে ফয়সালা আমার চাওয়া জিনিসটাই হাতে তুলে দেয়, তা মেনে নিতে কারও কষ্ট হয় না। তাবারীর 'পক্ষে বা বিপক্ষে' আর ইবন আব্বাস (রাঃ)-এর 'খারাপ লাগুক বা ভালো লাগুক', দুটো কথাই আনুগত্যকে দাঁড় করায় ঠিক সেই জায়গায়, যেখান থেকে তার দাম দিতে হয়। একটু পরেই ২৪:৫৪ আয়াত একই আদেশ আবার জোর দিয়ে বলে: আল্লাহর আনুগত্য কর, রসূলের আনুগত্য কর। সঙ্গে যোগ করে, তোমরা তাঁর আনুগত্য করলে সঠিক পথ পাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rights Shared and Rights Apart",
+          "bn": "যে হক দুজনের, যে হক একজনের"
+        },
+        "p": [
+          {
+            "en": "Look at the verbs and what each is joined to. Obedience is joined to Allah and His Messenger together. Fear and wariness are joined to Allah alone: wa-yakhsha Allaha wa-yattaqhi, and the him of yattaqhi is Allah, as at-Tabari's gloss makes plain when he speaks of guarding against the punishment of Allah. As-Sa'di builds a point on this arrangement. The verse, he says, contains the right shared between Allah and His Messenger, which is obedience, an obedience that entails faith, and the right that belongs to Allah alone, which is fear and taqwa.",
+            "bn": "ক্রিয়াগুলো কার সঙ্গে জুড়েছে, খেয়াল করুন। আনুগত্য জুড়েছে আল্লাহ ও তাঁর রসূল, দুজনের সঙ্গেই। কিন্তু ভয় আর সতর্কতা জুড়েছে কেবল আল্লাহর সঙ্গে: ওয়া ইয়াখশাল্লাহা ওয়া ইয়াত্তাকহি। ইয়াত্তাকহির 'তাঁকে' বলতে আল্লাহকেই বোঝায়। তাবারী যখন আল্লাহর আযাব থেকে বাঁচার কথা বলেন, তখন সেটা পরিষ্কার হয়ে যায়। এই বিন্যাসের উপর সা'দী একটি কথা দাঁড় করান। তাঁর মতে আয়াতে আছে আল্লাহ ও রসূলের যৌথ হক, অর্থাৎ আনুগত্য, যে আনুগত্য ঈমানকে অপরিহার্য করে। আর আছে কেবল আল্লাহর হক, অর্থাৎ খাশইয়া ও তাকওয়া।"
+          },
+          {
+            "en": "A third right is not named here, he observes: the one that belongs to the Messenger alone, ta'zir and tawqir, supporting and honouring him. He points to Surat al-Fath, where all three are gathered in one verse: li-tu'minu billahi wa-rasulihi wa-tu'azziruhu wa-tuwaqqiruhu wa-tusabbihuhu bukratan wa-asila, that you may believe in Allah and His Messenger, support him, honour him, and glorify Him morning and evening (48:9). Read side by side, the two verses keep the lines clear: obedience is owed to both, fear and taqwa to Allah alone, and support and honour to His Messenger ﷺ.",
+            "bn": "তিনি লক্ষ করেন, এখানে তৃতীয় একটি হকের উল্লেখ নেই। সেটা কেবল রসূলের হক: তা'যীর ও তাওকীর, অর্থাৎ তাঁকে সাহায্য করা ও সম্মান করা। এর জন্য তিনি সূরা আল-ফাতহের দিকে ইঙ্গিত করেন, যেখানে এক আয়াতেই তিনটি হক একসঙ্গে এসেছে: লিতু'মিনূ বিল্লাহি ওয়া রসূলিহী ওয়া তু'আযযিরূহু ওয়া তুওয়াক্কিরূহু ওয়া তুসাব্বিহূহু বুকরাতাঁও ওয়া আসীলা। যাতে তোমরা আল্লাহ ও তাঁর রসূলের প্রতি ঈমান আন, তাঁকে সাহায্য কর, সম্মান কর, আর সকাল-সন্ধ্যা আল্লাহর পবিত্রতা ঘোষণা কর (৪৮:৯)। দুটি আয়াত পাশাপাশি পড়লে সীমারেখা পরিষ্কার থাকে। আনুগত্য দুজনেরই প্রাপ্য। খাশইয়া ও তাকওয়া কেবল আল্লাহর। আর সাহায্য ও সম্মান তাঁর রসূল ﷺ-এর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear That Knows Its Object",
+          "bn": "যে ভয় জানে কাকে ভয়"
+        },
+        "p": [
+          {
+            "en": "The third word is yakhsha, from khashya. As-Sa'di defines it with care: a fear joined with knowledge, khawfan maqrunan bi-ma'rifa. Its fruit, he says, is that whoever fears leaves what Allah forbade and holds his self back from what it craves. On this account khashya is not a vague dread. It knows whom it fears, and it shows in what a person stops doing.",
+            "bn": "তৃতীয় শব্দ ইয়াখশা, এসেছে খাশইয়া থেকে। সা'দী এর সংজ্ঞা দেন যত্ন নিয়ে: এমন ভয়, যার সঙ্গে জ্ঞান জড়িয়ে আছে, খাওফান মাকরূনান বি-মা'রিফা। তাঁর মতে এর ফল হলো, ভয়কারী আল্লাহর নিষিদ্ধ জিনিস ছেড়ে দেয় আর নাফসকে তার কামনার জিনিস থেকে টেনে রাখে। এ ব্যাখ্যায় খাশইয়া কোনো অস্পষ্ট আতঙ্ক নয়। সে জানে কাকে ভয় করছে, আর মানুষ কী কী থেকে বিরত থাকে, তাতেই সে ধরা পড়ে।"
+          },
+          {
+            "en": "At-Tabari gives the fear a target: he fears the consequence of disobeying Allah and is wary of it. The Muyassar says much the same, that he fears the consequences of disobedience. Ibn Kathir and al-Baghawi instead give the fear a direction in time. Ibn Kathir glosses wa-yakhsha Allaha as fearing Him for what has passed of his sins; al-Baghawi has him fear Allah over the sins he has already committed. Here khashya looks backward, at a record that cannot be unwritten, and the next word looks the other way.",
+            "bn": "তাবারী এ ভয়ের একটা লক্ষ্য ঠিক করে দেন: সে আল্লাহর নাফরমানির পরিণামকে ভয় করে এবং তা থেকে সাবধান থাকে। মুয়াসসারও প্রায় একই কথা বলে: সে নাফরমানির পরিণামকে ভয় করে। ইবন কাসীর ও বাগাভী অবশ্য ভয়টাকে সময়ের একটা দিকে মুখ করিয়ে দেন। ইবন কাসীর ওয়া ইয়াখশাল্লাহার ব্যাখ্যা করেন এভাবে: অতীতে যেসব গুনাহ হয়ে গেছে, সেগুলোর জন্য আল্লাহকে ভয় করা। বাগাভীর কথায়, যে গুনাহ সে করে ফেলেছে, তার জন্য সে আল্লাহকে ভয় করে। এখানে খাশইয়া তাকায় পেছনে, এমন এক আমলনামার দিকে, যা আর মুছে লেখা যায় না। আর পরের শব্দটা তাকায় উল্টো দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Lies Behind, What Ahead",
+          "bn": "পেছনে যা, সামনে যা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir completes the pair: wa-yattaqhi, and he keeps wary of Him in what is to come, fima yustaqbal. Al-Baghawi says the same in two words, fima ba'dahu, in what comes after. On this reading the two verbs divide one life in two. Khashya faces what is already done, and taqwa faces what has not happened yet. A believer carries both at once: the weight of yesterday, which he cannot change, and the watchfulness over tomorrow, which is still in his hands.",
+            "bn": "ইবন কাসীর জোড়াটা পূর্ণ করেন: ওয়া ইয়াত্তাকহি, আর ভবিষ্যতে যা আসবে, তাতে সে তাঁর ব্যাপারে সতর্ক থাকে, ফীমা ইউসতাকবাল। বাগাভী একই কথা বলেন দুই শব্দে, ফীমা বা'দাহু, তার পরে যা আসে তাতে। এ ব্যাখ্যায় দুটি ক্রিয়া একটি জীবনকে দুই ভাগে ভাগ করে দেয়। খাশইয়ার মুখ যা ঘটে গেছে তার দিকে, আর তাকওয়ার মুখ যা এখনো ঘটেনি তার দিকে। মু'মিন দুটোই একসঙ্গে বহন করে। গতকালের বোঝা, যা সে আর বদলাতে পারে না। আর আগামীকালের পাহারা, যা এখনো তার হাতে।"
+          },
+          {
+            "en": "As-Sa'di draws the line by kind rather than by time. Taqwa used on its own, he says, takes in both doing what is commanded and leaving what is forbidden. But when it is paired with birr or with ta'a, obedience, as it is in this verse, it is explained as guarding against Allah's punishment by leaving His acts of disobedience. Since obedience has already been named, taqwa here takes the leaving. At-Tabari puts it differently: he guards against Allah's punishment through his obedience to Him in His command and His prohibition.",
+            "bn": "সা'দী রেখাটা টানেন সময় দিয়ে নয়, কাজের ধরন দিয়ে। তাঁর মতে তাকওয়া শব্দটি একা এলে আদেশ পালন ও নিষেধ বর্জন দুটোই এর ভেতরে পড়ে। কিন্তু বির্র বা তা'আত, অর্থাৎ আনুগত্যের সঙ্গে জোড়া বাঁধলে, যেমন এ আয়াতে, তখন এর ব্যাখ্যা হয় আল্লাহর নাফরমানি ছেড়ে দিয়ে তাঁর আযাব থেকে নিজেকে বাঁচানো। আনুগত্যের কথা যেহেতু আগেই এসে গেছে, এখানে তাকওয়ার ভাগে পড়ে বর্জনের দিকটা। তাবারী বলেন একটু অন্যভাবে: আল্লাহর আদেশ ও নিষেধে তাঁর আনুগত্য করে সে তাঁর আযাব থেকে নিজেকে বাঁচায়।"
+          },
+          {
+            "en": "So the four words are divided differently: by time in Ibn Kathir and al-Baghawi, by kind in as-Sa'di, and in at-Tabari around the punishment that obedience wards off. Al-Qurtubi, followed by Ma'arif al-Qur'an, also relays a report about a Roman nobleman who accepted Islam because of this verse, introduced only with Aslam mentioned, with no chain and no grading. It is noted here as a report and nothing in this article rests on it; the reading by past and future stands on Ibn Kathir's and al-Baghawi's own words.",
+            "bn": "তাহলে চারটি শব্দের ভাগ একেকজনের কাছে একেক রকম। ইবন কাসীর ও বাগাভীর কাছে সময় দিয়ে, সা'দীর কাছে কাজের ধরন দিয়ে, আর তাবারীর কাছে সেই আযাবকে ঘিরে, যা আনুগত্য ঠেকিয়ে রাখে। কুরতুবী, আর তাঁর সূত্রে মাআরিফুল কুরআন, এ আয়াতের কারণে এক রোমান অভিজাত ব্যক্তির ইসলাম গ্রহণের একটি বিবরণও আনেন। কুরতুবী শুধু 'আসলাম উল্লেখ করেছেন' বলে তা শুরু করেন, কোনো সনদ নেই, কোনো মানের উল্লেখও নেই। এখানে কেবল একটি বর্ণনা হিসেবে তার কথা বলা হলো, এ লেখার কোনো কথা এর উপর দাঁড়িয়ে নেই। অতীত ও ভবিষ্যতের ভাগটা দাঁড়িয়ে আছে ইবন কাসীর ও বাগাভীর নিজেদের কথার উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Verb, Several Sounds",
+          "bn": "এক ক্রিয়া, একাধিক উচ্চারণ"
+        },
+        "p": [
+          {
+            "en": "The last verb of the condition is recited in several ways, and al-Qurtubi and al-Baghawi both set the readings out. The verb is yattaqi, he guards, with its final ya dropped for the jussive, followed by the pronoun hi, him. Hafs reads wa-yattaqhi, with the qaf silent. Al-Qurtubi explains this as silencing the qaf with the jussive in mind, and cites a poet's line: wa-man yattaq fa-inna Allaha ma'ahu, and whoever is wary, Allah is with him. The other readers give the qaf a kasra, he says, because the jussive is already marked by dropping the final letter.",
+            "bn": "শর্তের শেষ ক্রিয়াটি একাধিকভাবে পড়া হয়, আর কুরতুবী ও বাগাভী দুজনেই কিরাআতগুলো সাজিয়ে দেন। মূল ক্রিয়া ইয়াত্তাকী, সে সতর্ক থাকে। জাযমের কারণে এর শেষের ইয়া পড়ে গেছে, তারপর যুক্ত হয়েছে সর্বনাম হি, তাঁকে। হাফস পড়েন ওয়া ইয়াত্তাকহি, কাফে সাকিন দিয়ে। কুরতুবী এর ব্যাখ্যায় বলেন, জাযমের নিয়তে কাফকে সাকিন করা হয়েছে। প্রমাণ হিসেবে তিনি এক কবির পঙ্‌ক্তি আনেন: ওয়া মাঁই ইয়াত্তাক ফা-ইন্নাল্লাহা মা'আহু, যে সতর্ক থাকে, আল্লাহ তার সঙ্গে আছেন। বাকি কারীরা কাফে যের দেন। কুরতুবী বলেন, কারণ শেষ অক্ষরটি ফেলে দিয়েই জাযম হয়ে গেছে।"
+          },
+          {
+            "en": "The ha of the pronoun then takes three shapes. Abu 'Amr and Abu Bakr read it silent: wa-yattaqih. A second group reads its kasra snatched, short and light: al-Qurtubi names Ya'qub, Qalun from Nafi', al-Busti from Abu 'Amr, and Hafs, while al-Baghawi names Abu Ja'far, Ya'qub and Qalun, and says Hafs reads the qaf silent with the ha snatched. The remaining readers give the kasra its full length: wa-yattaqihi. The two lists differ a little in their names, and both are reported here as each gives them.",
+            "bn": "এরপর সর্বনামের হা তিনটি রূপ নেয়। আবু আমর ও আবু বকর একে সাকিন পড়েন: ওয়া ইয়াত্তাকিহ। দ্বিতীয় একটি দল এর যেরকে ছোট ও হালকা করে পড়েন, যাকে ইখতিলাস বলে। কুরতুবী এ দলে নাম দেন ইয়াকুব, নাফি' থেকে কালূন, আবু আমর থেকে বুস্তী, আর হাফসের। বাগাভী নাম দেন আবু জা'ফর, ইয়াকুব ও কালূনের, আর বলেন হাফস কাফ সাকিন রেখে হা-কে ইখতিলাস করে পড়েন। বাকি কারীরা যেরকে পুরো টেনে পড়েন: ওয়া ইয়াত্তাকিহী। দুই তালিকার নামে সামান্য ফারাক আছে, তাই প্রত্যেকে যেভাবে দিয়েছেন, এখানে সেভাবেই রাখা হলো।"
+          },
+          {
+            "en": "Al-Baghawi explains Hafs's reading as a usage of the Arabs: when the ya falls away for the jussive, some of them silence the letter before it as well, saying lam ashtar ta'aman, I did not buy food, with the ra silent. Neither commentator attaches a different meaning to any of these readings; what they record is a difference of sound within one word. The text printed above follows Hafs: wa-yattaqhi",
+            "bn": "হাফসের কিরাআতকে বাগাভী আরবদের একটি ভাষারীতি দিয়ে ব্যাখ্যা করেন। জাযমের কারণে ইয়া পড়ে গেলে তাদের কেউ কেউ এর আগের অক্ষরটিকেও সাকিন করে দেয়। যেমন তারা বলে লাম আশতার তা'আমান, আমি খাবার কিনিনি, রা-কে সাকিন রেখে। কোনো তাফসীরকারই এসব কিরাআতের সঙ্গে আলাদা কোনো অর্থ জুড়ে দেননি। তাঁরা যা লিপিবদ্ধ করেছেন, তা একটি শব্দের ভেতরে উচ্চারণের পার্থক্য। উপরে ছাপা আয়াতের পাঠ হাফসের, ওয়া ইয়াত্তাকহি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Winning Kept for Them",
+          "bn": "সাফল্য যাদের জন্য নির্দিষ্ট"
+        },
+        "p": [
+          {
+            "en": "Then the promise: fa-ula'ika humu al-fa'izun. As-Sa'di reads it as restriction: winning is confined to them. They are saved from the punishment because they left its causes, and they reach the reward because they did its causes. He then adds a measured qualification. Whoever does not carry their description misses winning in proportion to what he fell short of among these praised qualities. The door is not slammed on the one who falls short; what he loses is measured against what he left undone.",
+            "bn": "তারপর প্রতিশ্রুতি: ফা-উলা'ইকা হুমুল ফা'ইযূন। সা'দী এখানে সীমাবদ্ধতা পড়েন: সাফল্য কেবল তাদের জন্যই নির্দিষ্ট। আযাবের কারণগুলো তারা ছেড়ে দিয়েছে বলে আযাব থেকে বেঁচে যায়। আর প্রতিদানের কারণগুলো তারা করেছে বলে প্রতিদানে পৌঁছে যায়। এরপর তিনি একটি মাপা শর্ত জুড়ে দেন। যার মধ্যে তাদের এই গুণ নেই, প্রশংসিত গুণগুলোর মধ্যে সে যতটা পিছিয়ে, ঠিক ততটা সাফল্য তার হাতছাড়া হয়। তাহলে যে পিছিয়ে পড়ে, তার মুখের উপর দরজা বন্ধ হয়ে যায় না। সে কতটা হারাবে, তা মাপা হয় সে কতটা বাকি রেখেছে তা দিয়ে।"
+          },
+          {
+            "en": "What is won? The commentators draw it on different scales. Ibn Kathir: those who won every good and were kept safe from every evil, in this world and the Hereafter. At-Tabari places it on the Day of Resurrection: they win Allah's pleasure with them and safety from His punishment. The Muyassar: winners of the bliss of Paradise. Al-Baghawi says it in a single word, an-najun, the saved. Ma'arif al-Qur'an speaks of success in this world and the Hereafter. On the verse before, Ibn Kathir defines success as reaching what a person hopes for and being saved from what he fears.",
+            "bn": "কী অর্জিত হয়? তাফসীরকারেরা একে আঁকেন ভিন্ন ভিন্ন পরিসরে। ইবন কাসীর বলেন, তারা সব কল্যাণ লাভ করেছে আর সব অকল্যাণ থেকে নিরাপদ থেকেছে, দুনিয়াতে ও আখিরাতে। তাবারী একে রাখেন কিয়ামতের দিনে: তারা লাভ করে নিজেদের প্রতি আল্লাহর সন্তুষ্টি আর তাঁর আযাব থেকে নিরাপত্তা। মুয়াসসার বলে, জান্নাতের নিয়ামত লাভকারী। বাগাভী বলেন এক শব্দে, আন-নাজূন, যারা মুক্তি পেয়েছে। মাআরিফুল কুরআন বলে দুনিয়া ও আখিরাতের সাফল্যের কথা। আগের আয়াতের আলোচনায় ইবন কাসীর সাফল্যের সংজ্ঞা দেন এভাবে: যা আশা করা হয় তা পাওয়া, আর যার ভয় করা হয় তা থেকে বেঁচে যাওয়া।"
+          },
+          {
+            "en": "None of the commentaries fetched attaches a hadith to this verse. A general narration, not said about this verse, carries the same promise. Al-Bukhari (7280) records from Abu Hurayra (RA) that Allah's Messenger ﷺ said, \"All my followers will enter Paradise except those who refuse.\" They said, \"O Allah's Messenger! Who will refuse?\" He said, \"Whoever obeys me will enter Paradise, and whoever disobeys me is the one who refuses (to enter it).\" Obedience, in his words, is the open way, and disobedience is a refusal.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা, যা এ আয়াত প্রসঙ্গে বলা হয়নি, একই প্রতিশ্রুতি বহন করে। বুখারী (৭২৮০) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রসূল ﷺ বলেছেন: \"আমার সব উম্মত জান্নাতে প্রবেশ করবে, তবে যে অস্বীকার করে সে নয়।\" তাঁরা বললেন, \"হে আল্লাহর রসূল! কে অস্বীকার করবে?\" তিনি বললেন, \"যে আমার আনুগত্য করে সে জান্নাতে প্রবেশ করবে, আর যে আমার অবাধ্য হয় সে-ই অস্বীকার করল।\" তাঁর কথায় আনুগত্য খোলা পথ, আর অবাধ্যতা মানে প্রত্যাখ্যান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ten Words to Live By",
+          "bn": "দশ শব্দে এক জীবন"
+        },
+        "p": [
+          {
+            "en": "In the Arabic the verse runs to ten words, and Ma'arif al-Qur'an heads it four conditions for success. Read slowly, it gives a reader four places to look. Is my obedience still there when the verdict goes against me? Does my fear look back honestly at what I have done? Is my wariness awake to what lies ahead? And have I let any of the four stand in for the others? As-Sa'di's measured qualification keeps the questions from turning into despair: what falls short loses in proportion, and what is mended is gained.",
+            "bn": "আরবিতে আয়াতটি দশটি শব্দের, আর মাআরিফুল কুরআন এর শিরোনাম দেয় সাফল্যের চারটি শর্ত। ধীরে পড়লে পাঠকের সামনে তাকানোর চারটি জায়গা খুলে যায়। রায় আমার বিপক্ষে গেলেও কি আমার আনুগত্য টিকে থাকে? আমার ভয় কি সততার সঙ্গে পেছনে ফিরে দেখে, আমি কী করেছি? সামনে যা আসছে, তার ব্যাপারে আমার সতর্কতা কি জেগে আছে? আর চারটির কোনো একটিকে কি অন্যগুলোর বদলি বানিয়ে রেখেছি? সা'দীর সেই মাপা শর্ত প্রশ্নগুলোকে হতাশায় গড়াতে দেয় না। যতটা ঘাটতি, ততটাই ক্ষতি, আর যতটা শুধরে নেওয়া যায়, ততটাই লাভ।"
+          },
+          {
+            "en": "Something else needs saying plainly. The verses just before it describe a party that turned away from the Messenger's judgement. They describe what they describe, and they license nothing against any living person or community; they give no one a label to pin on a neighbour. This verse turns the eye inward instead. It names no group at all, only a man, wa-man, whoever, and asks each reader whether the four are in him. The answer to that question is no one's business but his own and his Lord's.",
+            "bn": "আরেকটি কথা সোজাসুজি বলা দরকার। এর আগের আয়াতগুলো এমন এক দলের বর্ণনা দেয়, যারা রসূলের ফয়সালা থেকে মুখ ফিরিয়ে নিয়েছিল। আয়াতগুলো যা বর্ণনা করে, কেবল সেটুকুই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এগুলো কোনো অনুমতি দেয় না, প্রতিবেশীর গায়ে সাঁটার মতো কোনো তকমাও কারও হাতে তুলে দেয় না। এ আয়াত বরং চোখ ফেরায় ভেতরের দিকে। এখানে কোনো দলের নাম নেই, আছে শুধু ওয়া মান, যে কেউ। প্রত্যেক পাঠককে সে জিজ্ঞেস করে, চারটি গুণ কি তার মধ্যে আছে? এ প্রশ্নের উত্তর কেবল তার আর তার রবের ব্যাপার।"
+          }
+        ]
+      }
+    ]
+  },
   "24:55": {
     "sections": [
       {

@@ -35039,6 +35039,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Your stay on earth is shorter than it feels; count your years by what you place in them for the life that lasts, while the count is still running.",
     "lessonBn": "পৃথিবীতে আপনার থাকা যতটা মনে হয় তার চেয়ে অনেক ছোট। গোনা এখনো চলছে, তাই বছরগুলোর হিসাব করুন সেগুলোতে স্থায়ী জীবনের জন্য কী রাখছেন তা দিয়ে।"
+  },
+  "24:52": {
+    "reflectionEn": "Just before this verse, the believers give their answer when they are called to a ruling: we hear and we obey. Now the circle widens beyond the dispute to the whole of a life. Four things are named: obeying Allah, obeying His Messenger, fearing Allah, and keeping guard against Him. Then a short promise follows: those are the ones who win. The obedience described here is not the kind that holds only while the ruling suits me; it stays when it costs. Fear looks back at what I have already done, and wariness looks ahead at what I might still do. Among these four, where am I weakest, and which one have I quietly let go?",
+    "reflectionBn": "ঠিক আগের আয়াতে মু'মিনদের জবাব শোনা গেছে। ফয়সালার জন্য ডাকা হলে তারা বলে, আমরা শুনলাম ও মেনে নিলাম। এবার পরিধিটা বিবাদের গণ্ডি ছাড়িয়ে গোটা জীবনে ছড়িয়ে পড়ে। চারটি জিনিসের নাম আসে: আল্লাহর আনুগত্য, তাঁর রসূলের আনুগত্য, আল্লাহকে ভয় করা, আর তাঁর ব্যাপারে সতর্ক থাকা। তারপর ছোট্ট একটি প্রতিশ্রুতি: তারাই সফলকাম। এখানে যে আনুগত্যের কথা, তা কেবল রায় মনের মতো হলে টিকে থাকে না। দাম দিতে হলেও তা টিকে থাকে। ভয় তাকায় পেছনে, যা আমি করে ফেলেছি তার দিকে। আর সতর্কতা তাকায় সামনে, যা এখনো করে ফেলতে পারি তার দিকে। এই চারটির মধ্যে আমার দুর্বলতা কোথায়? কোনটাকে আমি চুপচাপ হাতছাড়া করেছি?",
+    "pointsEn": [
+      "When a ruling of Allah or His Messenger ﷺ goes against what I want, do I still accept it, or do I start looking for another door?",
+      "Which sins already behind me still deserve a fear that brings me back to Him in tawbah?",
+      "What wrong am I likely to meet this week, and how will I guard against it before it arrives?",
+      "Do I measure winning by what I gain here, or by being saved from the Fire and reaching Allah's pleasure?",
+      "Of the four things this verse names, which one have I been treating as enough on its own?"
+    ],
+    "pointsBn": [
+      "আল্লাহ বা তাঁর রসূল ﷺ-এর কোনো ফয়সালা যখন আমার ইচ্ছার বিপক্ষে যায়, তখনো কি আমি তা মেনে নিই, নাকি অন্য কোনো দরজা খুঁজতে শুরু করি?",
+      "পেছনে ফেলে আসা কোন গুনাহগুলো এখনো এমন ভয়ের দাবি রাখে, যা আমাকে তওবা করে তাঁর দিকে ফিরিয়ে আনবে?",
+      "এ সপ্তাহে কোন অন্যায়ের মুখোমুখি হওয়ার আশঙ্কা আছে? সেটা সামনে আসার আগেই আমি নিজেকে কীভাবে বাঁচাব?",
+      "সফলতা আমি কী দিয়ে মাপি: দুনিয়ায় কী পেলাম তা দিয়ে, নাকি জাহান্নাম থেকে বেঁচে আল্লাহর সন্তুষ্টি পাওয়া দিয়ে?",
+      "আয়াতের চারটি জিনিসের মধ্যে কোনটাকে আমি একাই যথেষ্ট ভেবে বসে আছি?"
+    ],
+    "lessonEn": "Obey Allah and His Messenger when it suits you and when it does not, fear Him for what is past and guard against Him in what lies ahead.",
+    "lessonBn": "মনের মতো হোক বা না হোক, আল্লাহ ও তাঁর রসূলের আনুগত্য করুন। যা ঘটে গেছে তার জন্য আল্লাহকে ভয় করুন, আর সামনের দিনগুলোতে তাঁর নাফরমানি থেকে সতর্ক থাকুন।"
   }
 };
 
