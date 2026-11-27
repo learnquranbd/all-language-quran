@@ -34123,6 +34123,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Leave the knowledge of who most deserves the Fire with Allah, who knows every deed and its share, and spend your concern on what your own deeds would earn.",
     "lessonBn": "জাহান্নামের সবচেয়ে উপযুক্ত কারা, সে জ্ঞান আল্লাহর কাছেই থাকুক, যিনি প্রতিটি আমল আর তার প্রাপ্য জানেন। আপনার চিন্তা থাকুক নিজের আমল কী কামাবে, তা নিয়ে।"
+  },
+  "19:34": {
+    "reflectionEn": "The child has finished speaking from the cradle: a servant of Allah, given the Book, made a prophet, bound to prayer and charity, kind to his mother, with peace on him at birth, at death and at his raising. Then the voice changes, and Allah Himself closes the account: that is 'Isa son of Maryam, the word of truth about which they dispute. After all the whispering around his birth, the matter is not left to rumour. Allah has said who he is, and nothing said against it outranks it. Yet people kept arguing, some lifting him too high, some pushing him too low. So where do I stand when Allah has already spoken? Do I take His word as settled, or keep it open as one opinion among many?",
+    "reflectionBn": "দোলনা থেকে শিশুর কথা শেষ হলো। তিনি আল্লাহর বান্দা, তাঁকে কিতাব দেওয়া হয়েছে, নবী বানানো হয়েছে। নামায আর যাকাতের হুকুম পেয়েছেন, মায়ের প্রতি সদয় হয়েছেন। জন্মের দিন, মৃত্যুর দিন আর আবার জীবিত হয়ে ওঠার দিন, তিন দিনেই তাঁর উপর শান্তি। এরপর কথার সুর বদলে যায়। আল্লাহ নিজেই হিসাবটা মিটিয়ে দেন: ইনিই মারইয়ামের পুত্র ঈসা, সেই সত্য কথা, যা নিয়ে লোকেরা বিতর্ক করে। তাঁর জন্ম ঘিরে এত কানাকানির পরও ব্যাপারটা গুজবের হাতে ছেড়ে দেওয়া হয়নি। তিনি কে, আল্লাহ তা বলে দিয়েছেন, আর এর উল্টো কোনো কথা এর উপরে উঠতে পারে না। তবু মানুষ তর্ক থামায়নি। কেউ তাঁকে তুলেছে অনেক উঁচুতে, কেউ নামিয়েছে অনেক নিচে। তাহলে আল্লাহ যেখানে কথা বলে দিয়েছেন, সেখানে আমি কোথায় দাঁড়াই? তাঁর কথাকে কি চূড়ান্ত মানি, নাকি আরও দশটা মতের পাশে আরেকটা মত বানিয়ে খোলা রেখে দিই?",
+    "pointsEn": [
+      "When Allah has already settled a matter, do I still treat it as an open question to argue over for the sake of arguing?",
+      "Do I honour the people I love at the rank Allah gave them, or do I quietly lift them above it?",
+      "Have I let a rumour about someone stay in my mind longer than what I plainly knew of them?",
+      "When I am unsure, do I go looking for knowledge, or do I argue from guesswork as if it were knowledge?",
+      "When the voices around me disagree, whose word do I actually trust the most?"
+    ],
+    "pointsBn": [
+      "আল্লাহ যে বিষয়ের মীমাংসা করে দিয়েছেন, তা নিয়ে কি আমি এখনো শুধু তর্কের খাতিরে তর্ক করি, যেন প্রশ্নটা খোলাই রয়ে গেছে?",
+      "যাদের ভালোবাসি, তাদের কি আল্লাহর দেওয়া মর্যাদাতেই সম্মান করি, নাকি চুপিচুপি তার উপরে তুলে ফেলি?",
+      "কারও সম্পর্কে যা স্পষ্ট জানতাম, তার চেয়ে কোনো গুজবকে কি মনে বেশিদিন জায়গা দিয়েছি?",
+      "নিশ্চিত না হলে আমি কি জ্ঞান খুঁজতে যাই, নাকি আন্দাজকে জ্ঞান ভেবে তা নিয়েই তর্ক জুড়ে দিই?",
+      "চারপাশের কণ্ঠগুলো যখন একে অন্যের সঙ্গে মেলে না, তখন আসলে কার কথায় আমি সবচেয়ে বেশি ভরসা রাখি?"
+    ],
+    "lessonEn": "When Allah has spoken about a matter, let His word settle it for you: do not reopen it by guesswork, and do not raise anyone above the rank He gave them.",
+    "lessonBn": "আল্লাহ কোনো বিষয়ে কথা বলে দিলে সেটাকেই চূড়ান্ত মানুন। আন্দাজ দিয়ে তা আবার খুলবেন না, আর কাউকে তাঁর দেওয়া মর্যাদার উপরে তুলবেন না।"
   }
 };
 

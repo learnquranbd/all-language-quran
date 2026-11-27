@@ -1807,6 +1807,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:34": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Child Is Named",
+          "bn": "শিশুটির নাম ঘোষণা"
+        },
+        "p": [
+          {
+            "en": "Dhalika 'Isa ibnu Maryam: that is 'Isa, son of Maryam. The cradle has just fallen silent. Through 19:30 to 19:33 the infant has spoken for himself, and now another voice takes over. Ibn Kathir reads the verse as Allah addressing His Messenger ﷺ: that is what We have narrated to you of the report of 'Isa. Al-Muyassar says it in plain words: he whose description and story We told you, O Messenger, is 'Isa son of Maryam, without doubt or uncertainty.",
+            "bn": "যালিকা ঈসাবনু মারইয়াম: ইনিই মারইয়ামের পুত্র ঈসা। দোলনা সবে চুপ হয়েছে। ১৯:৩০ থেকে ১৯:৩৩ পর্যন্ত শিশুটি নিজের কথা নিজে বলেছে। এবার অন্য এক কণ্ঠ কথা ধরে। ইবন কাসীর আয়াতটিকে পড়েন রাসূল ﷺ-এর প্রতি আল্লাহর সম্বোধন হিসেবে: ঈসার যে খবর আমি তোমাকে শোনালাম, এই সেই। মুয়াসসার কথাটা বলে সাদামাটা ভাষায়। হে রাসূল, যাঁর গুণ আর কাহিনি আমি তোমাকে বললাম, তিনিই মারইয়ামের পুত্র ঈসা, এতে কোনো সন্দেহ বা দ্বিধা নেই।"
+          },
+          {
+            "en": "At-Tabari lingers on the pointing word. This, he paraphrases, whose description I have made clear and whose report I have given you, the boy whom Maryam carried, is 'Isa son of Maryam; this description is his and this report is his. Al-Baghawi carries a gloss from az-Zajjaj that points back to one sentence: the one who said, I am the servant of Allah, is 'Isa son of Maryam. The name is fastened to the child's first words about himself, servant before anything else, which is how 19:30 opened.",
+            "bn": "ইশারার শব্দটিতে তাবারী একটু থামেন। তাঁর ভাষায় কথাটা দাঁড়ায় এমন: যাঁর গুণ আমি খুলে বললাম, যাঁর খবর তোমাদের দিলাম, মারইয়াম যে শিশুকে গর্ভে ধারণ করেছিলেন, তিনিই মারইয়ামের পুত্র ঈসা। এ গুণ তাঁরই, এ খবরও তাঁরই। বাগাভী যাজ্জাজের একটি ব্যাখ্যা আনেন, যা ইশারা করে একটিমাত্র বাক্যের দিকে। যিনি বলেছিলেন, আমি আল্লাহর বান্দা, তিনিই মারইয়ামের পুত্র ঈসা। নামটা তাই জুড়ে আছে নিজের সম্পর্কে শিশুর প্রথম কথার সঙ্গে: সবার আগে তিনি বান্দা। ১৯:৩০ আয়াত শুরুই হয়েছিল এ কথা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named Through His Mother",
+          "bn": "মায়ের নামে পরিচয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi reads the identification as a creed handed to the listener: that is the one We mentioned, so hold him to be exactly that. He names what it answers on each side. Not as the Jews said, that he was born outside lawful wedlock and was the son of Yusuf the carpenter; and not as the Christians said, that he is God or the son of God. At-Tabari sets out the same two rejected claims in Allah's voice: say this about 'Isa, O people, and not what either party said.",
+            "bn": "কুরতুবী এই পরিচয়কে পড়েন শ্রোতার হাতে তুলে দেওয়া এক আকীদা হিসেবে। যাঁর কথা আমি বললাম, তিনিই মারইয়ামের পুত্র ঈসা, কাজেই তাঁকে ঠিক এভাবেই বিশ্বাস করো। এরপর তিনি দেখান, কথাটা দুই দিকের দুটি দাবির জবাব দেয়। ইহুদিরা বলেছিল, তাঁর জন্ম বৈধ বিয়ের বাইরে, আর তিনি কাঠমিস্ত্রি ইউসুফের ছেলে। আয়াতের কথা তেমন নয়। খ্রিস্টানরা বলেছিল, তিনিই ইলাহ, অথবা ইলাহের পুত্র। আয়াতের কথা তেমনও নয়। তাবারী একই দুটি দাবি বাতিল করেন আল্লাহর জবানিতে: হে মানুষ, ঈসা সম্পর্কে এ কথাই বলো, দুই দলের কারও কথা নয়।"
+          },
+          {
+            "en": "At-Tabari adds that the first party called him a sorcerer and a liar, and he closes the second claim with the answer 19:35 will give: Allah has not taken a son, and it does not befit Him. Ma'arif al-Qur'an calls the two positions opposite extremes, some raising him so high that they called him the son of Allah, others denigrating him. The phrase son of Maryam stands between the two. Since 19:16 the surah has told his story through his mother; this is its first verse to say his name, and it gives hers with it.",
+            "bn": "প্রথম দাবির বর্ণনায় তাবারী যোগ করেন, তারা তাঁকে জাদুকর ও মিথ্যাবাদীও বলেছিল। দ্বিতীয় দাবির বর্ণনা তিনি শেষ করেন সেই জবাব দিয়ে, যা ১৯:৩৫ আয়াতে আসবে: আল্লাহ কোনো সন্তান গ্রহণ করেননি, আর তা তাঁর শানের উপযুক্তও নয়। মাআরিফুল কুরআন দুটি অবস্থানকে বলে দুই বিপরীত প্রান্ত। এক দল তাঁকে এত উঁচুতে তুলল যে আল্লাহর পুত্র বলে বসল, অন্য দল তাঁকে হেয় করল। মারইয়ামের পুত্র কথাটি দাঁড়িয়ে আছে এ দুইয়ের মাঝখানে। ১৯:১৬ থেকে সূরাটি তাঁর কাহিনি বলে এসেছে মায়ের দিক থেকে। সূরা মারইয়ামে তাঁর নাম এই প্রথম এল, আর এল মায়ের নামের সঙ্গে জুড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qawlu Or Qawla",
+          "bn": "কাওলু, না কাওলা"
+        },
+        "p": [
+          {
+            "en": "Then come two words: qawl al-haqq, the word of truth. The readers divided over one vowel on the first of them. At-Tabari reports that the general body of readers of the Hijaz and Iraq read qawlu, in the nominative, and Ibn Kathir calls it the reading of the majority. 'Asim and 'Abdullah ibn 'Amir read qawla, in the accusative, as at-Tabari, al-Qurtubi and Ibn Kathir all record; al-Baghawi adds Ya'qub to them. The Arabic printed with this verse carries the accusative, and Ma'arif al-Qur'an calls it the normal reading.",
+            "bn": "এরপর দুটি শব্দ: কাওলুল হাক্ক, সত্য কথা। প্রথম শব্দের একটি হরকত নিয়ে কারীদের পাঠ ভাগ হয়ে গেছে। তাবারী জানান, হিজায ও ইরাকের অধিকাংশ কারী পড়েছেন কাওলু, পেশ দিয়ে। ইবন কাসীর একে বলেন বেশির ভাগ কারীর পাঠ। আসিম ও আবদুল্লাহ ইবন আমির পড়েছেন কাওলা, যবর দিয়ে। তাবারী, কুরতুবী ও ইবন কাসীর তিনজনই এ কথা লিখেছেন, আর বাগাভী তাঁদের সঙ্গে ইয়াকূবের নামও যোগ করেন। এ আয়াতের সঙ্গে যে আরবি পাঠ ছাপা আছে, তাতে যবর। মাআরিফুল কুরআনও যবরকেই বলে প্রচলিত পাঠ।"
+          },
+          {
+            "en": "Two rarer readings are recorded beside these. At-Tabari, al-Qurtubi and Ibn Kathir report that Ibn Mas'ud (RA) read qalu l-haqq. At-Tabari explains that qal here is simply another form of the noun qawl, as two spellings of one word for a fault exist side by side in Arabic. Al-Qurtubi adds that al-Hasan read qulu l-haqq, with a damma on the qaf, and says that qawl, qal and qul all carry a single meaning. None of these changes who 'Isa is; they change what the phrase is fastened to.",
+            "bn": "এ দুটির পাশে আরও দুটি বিরল পাঠ লেখা আছে। তাবারী, কুরতুবী ও ইবন কাসীর জানান, ইবন মাসঊদ (রাঃ) পড়েছেন কালুল হাক্ক। তাবারীর ব্যাখ্যা, এখানে কাল শব্দটি কাওল বিশেষ্যেরই আরেক রূপ। আরবিতে দোষ বোঝাতেও এমন একই শব্দের দুই রূপ পাশাপাশি চলে। কুরতুবী আরও জানান, হাসান পড়েছেন কুলুল হাক্ক, কাফে পেশ দিয়ে। তাঁর মতে কাওল, কাল আর কুল, তিনটির অর্থ একই। এসব পাঠে ঈসা কে, সে কথা বদলায় না। বদলায় শুধু, শব্দদুটি কিসের সঙ্গে জুড়ে আছে।"
+          },
+          {
+            "en": "At-Tabari states his own preference: the nominative is the correct reading in his view, because the authoritative body of readers agrees on it. Ibn Kathir says the nominative is the clearer of the two in its grammar, and he finds a witness for it in Al 'Imran 3:60, where the same story about 'Isa ends: the truth is from your Lord, so do not be among those who doubt. Behind both preferences sits a single question: what exactly is called the word of truth?",
+            "bn": "তাবারী নিজের পছন্দ জানিয়ে দেন: তাঁর মতে পেশের পাঠই সঠিক, কারণ নির্ভরযোগ্য কারীদের জামাআত এতে একমত। ইবন কাসীর বলেন, ব্যাকরণের দিক থেকে পেশের পাঠ বেশি স্পষ্ট। এর পক্ষে তিনি সাক্ষী আনেন আলে ইমরানের ৩:৬০ আয়াত, যেখানে ঈসার একই কাহিনি শেষ হয় এ কথায়: সত্য তোমার রবের পক্ষ থেকে, কাজেই সন্দেহকারীদের দলে থেকো না। দুজনের পছন্দের পেছনে আসলে একটিই প্রশ্ন: ঠিক কোন জিনিসটিকে সত্য কথা বলা হচ্ছে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Parsing Each Vowel",
+          "bn": "দুই হরকতের দুই ব্যাকরণ"
+        },
+        "p": [
+          {
+            "en": "Those who read qawla parse it in more than one way, and al-Qurtubi lists them. As a circumstantial accusative, I say a true saying, governed by the sense of pointing in dhalika. As a verbal noun, which is az-Zajjaj's view: I say the word of truth, since what comes before implies the verb. Al-Baghawi takes that line, he said the word of truth, and Ma'arif al-Qur'an fills in the same missing verb. Al-Qurtubi also records readings of it as praise, and as urging.",
+            "bn": "যাঁরা কাওলা পড়েন, তাঁরা একে একাধিকভাবে ব্যাখ্যা করেন। কুরতুবী সেগুলো একে একে গুনিয়ে দেন। এক, হাল হিসেবে: আমি সত্য কথা বলছি, আর যালিকা শব্দের ইশারার অর্থটাই এখানে ক্রিয়ার কাজ করছে। দুই, মাসদার হিসেবে, এটা যাজ্জাজের মত: আমি সত্য কথা বলছি, কারণ আগের কথাতেই ক্রিয়াটা বোঝা যায়। বাগাভীও এ পথে যান, অর্থাৎ তিনি সত্য কথা বললেন। মাআরিফুল কুরআনও একই উহ্য ক্রিয়া বসিয়ে অর্থ করে। কুরতুবী আরও দুটি মত লেখেন: প্রশংসা, অথবা উৎসাহ দেওয়া।"
+          },
+          {
+            "en": "For the nominative, at-Tabari turns down a common parsing that makes qawlu a description of 'Isa. He accepts it only if qawl is taken to mean word, kalima, in which case it can describe 'Isa. Otherwise, he says, it is the predicate of an unstated subject: this is the word of truth. In his reading the story ends at that is 'Isa son of Maryam, and a fresh statement begins. The truth in what the nations dispute about 'Isa is this account, which Allah gave His servants, and no other.",
+            "bn": "পেশের পাঠে তাবারী একটি প্রচলিত ব্যাখ্যা মানেন না। কেউ কেউ কাওলুকে ঈসার গুণবাচক বিশেষণ ধরেছিলেন। তাবারী বলেন, এটা চলে কেবল তখনই, যদি কাওল মানে কালিমা, অর্থাৎ বাণী ধরা হয়। তখন শব্দটি ঈসার বিশেষণ হতে পারে। নইলে তাঁর মতে এটি একটি উহ্য উদ্দেশ্যের বিধেয়: এ হলো সত্য কথা। তাঁর পাঠে ঈসা ও তাঁর মায়ের কাহিনি শেষ হয়েছে যালিকা ঈসাবনু মারইয়াম পর্যন্ত এসে। এরপর নতুন কথা শুরু। ঈসাকে নিয়ে জাতিগুলো যে বিষয়ে বিতর্ক করে, তাতে সত্য হলো এই বিবরণ, যা আল্লাহ তাঁর বান্দাদের জানিয়েছেন। অন্য কোনো বিবরণ নয়।"
+          },
+          {
+            "en": "Al-Qurtubi records the same parsing from Abu Hatim, it is the word of truth, and another that supplies this speech is the word of truth. Al-Baghawi gives the nominative that sense too, this speech is the word of truth, and explains the construction: word is joined to truth the way truth is joined to certainty in haqq al-yaqin, and promise to truthfulness in wa'd as-sidq, so that the true word is meant. At-Tabari cites both phrases, al-Qurtubi the second. Here truth is a quality of the speech itself.",
+            "bn": "কুরতুবী আবূ হাতিম থেকে একই ব্যাখ্যা আনেন: তা হলো সত্য কথা। আরেকটি মতে উহ্য শব্দটি হলো, এই কথা সত্য কথা। বাগাভীও পেশের পাঠের অর্থ করেন এভাবে: এই বক্তব্যই সত্য কথা। গঠনটাও তিনি বুঝিয়ে দেন। হাক্কুল ইয়াকীন কথায় যেমন হাক্ককে জোড়া হয়েছে ইয়াকীনের সঙ্গে, ওয়া'দাস সিদক কথায় যেমন ওয়াদাকে সত্যের সঙ্গে, এখানেও কথাকে তেমনি জুড়ে দেওয়া হয়েছে হাক্কের সঙ্গে। অর্থ দাঁড়ায়: সত্য কথা। তাবারী এ পাঠ বোঝাতে এই দুটি উদাহরণই আনেন, কুরতুবী আনেন দ্বিতীয়টি। এ ব্যাখ্যায় সত্য হলো বক্তব্যেরই গুণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Is He The Word Itself",
+          "bn": "তিনিই কি সেই বাণী"
+        },
+        "p": [
+          {
+            "en": "Here lies the real difference, and the commentators keep it open. A first view takes the word of truth to be 'Isa himself. Al-Qurtubi gives it from al-Kisa'i: qawl al-haqq describes 'Isa, so that the verse means that is 'Isa son of Maryam, the word of truth. He is called the word of the Truth just as he is called the word of Allah, and al-Haqq here is Allah. Al-Baghawi records the same view, introduced with it is said, and glosses it: that is 'Isa son of Maryam, the word of Allah.",
+            "bn": "আসল মতভেদটা এখানেই, আর তাফসীরকারেরা তা খোলাই রাখেন। এক মত অনুযায়ী সত্য কথা হলেন ঈসা নিজেই। কুরতুবী এ মত আনেন কিসাঈ থেকে। তাঁর মতে কাওলুল হাক্ক ঈসার বিশেষণ, অর্থাৎ ইনিই মারইয়ামের পুত্র ঈসা, সত্য বাণী। তাঁকে যেমন আল্লাহর কালিমা বলা হয়, তেমনি বলা হয়েছে আল-হাক্কের বাণী। আর এখানে আল-হাক্ক মানে আল্লাহ। বাগাভীও এ মত লেখেন, 'বলা হয়' কথাটি দিয়ে শুরু করে। তাঁর ব্যাখ্যা: ইনিই মারইয়ামের পুত্র ঈসা, আল্লাহর কালিমা।"
+          },
+          {
+            "en": "At-Tabari relays that Ibrahim took qawl in this verse to mean the word of Allah, and from Mujahid he relays a two-word gloss on the phrase: al-Haqq is Allah. Ma'arif al-Qur'an, citing al-Qurtubi, ties this sense to the nominative reading and explains it. 'Isa is titled the word of Allah because he came into being directly by Allah's word, with no ordinary worldly cause behind his birth. On this reading the verse names him first by his mother and then by the way he came to be.",
+            "bn": "তাবারী জানান, ইবরাহীম এ আয়াতে কাওল শব্দের অর্থ নিয়েছেন আল্লাহর কালিমা। আর মুজাহিদ থেকে তিনি আনেন শব্দদুটির ছোট্ট এক ব্যাখ্যা: আল-হাক্ক হলেন আল্লাহ। মাআরিফুল কুরআন কুরতুবীর বরাত দিয়ে এ অর্থকে পেশের পাঠের সঙ্গে যুক্ত করে, আর কারণটাও বুঝিয়ে দেয়। ঈসাকে আল্লাহর কালিমা বলা হয়, কারণ তিনি সরাসরি আল্লাহর হুকুমে অস্তিত্বে এসেছেন। তাঁর জন্মের পেছনে দুনিয়ার কোনো স্বাভাবিক কারণ ছিল না। এ পাঠে আয়াতটি তাঁকে চেনায় প্রথমে মায়ের নামে, তারপর তাঁর সৃষ্টির ধরন দিয়ে।"
+          },
+          {
+            "en": "Others read the word of truth as the account itself. At-Tabari holds this: the report I have told you is the word of truth, Allah's speech and His report, not another's report in which error and doubt, adding and dropping can enter. Al-Qurtubi relays from Ibn 'Abbas (RA) a third angle: this is the speech of 'Isa, a word of truth and not falsehood, which points to what the child said in the cradle. At-Tabari leans to the account; al-Qurtubi sets the views side by side without settling it, and so does this article.",
+            "bn": "অন্যরা সত্য কথা বলতে বোঝেন বিবরণটিকেই। তাবারীর মত এটাই। যে খবর আমি তোমাদের শোনালাম, তা-ই সত্য কথা। এ আল্লাহর বাণী, তাঁরই দেওয়া খবর। অন্য কারও খবর নয়, যাতে ভুল আর সন্দেহ ঢুকতে পারে, কিছু বাড়তে বা কমতে পারে। কুরতুবী ইবন আব্বাস (রাঃ) থেকে তৃতীয় আরেকটি দিক আনেন: এ হলো ঈসার কথা, সত্য কথা, বাতিল নয়। অর্থাৎ দোলনায় শিশুটি যা বলেছিল, সেদিকেই ইশারা। তাবারী ঝোঁকেন বিবরণের দিকে। কুরতুবী মতগুলো পাশাপাশি রেখে দেন, কোনোটির পক্ষে রায় দেন না। এ লেখাও তা-ই করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Doubt Turns To Quarrel",
+          "bn": "সন্দেহ যখন ঝগড়ায় গড়ায়"
+        },
+        "p": [
+          {
+            "en": "The verse closes on alladhi fihi yamtarun, about which they dispute. At-Tabari takes yamtarun as they contend and differ, from the Arab saying maraytu fulanan, I disputed with him and argued against him. Al-Qurtubi gives two glosses, they doubt, or they differ, and al-Baghawi joins both: they doubt, they differ, and they say what is not the truth. Al-Qurtubi also records that Abu 'Abd ar-Rahman as-Sulami and others read tamtarun, you dispute, which turns the last words into direct address.",
+            "bn": "আয়াত শেষ হয় আল্লাযী ফীহি ইয়ামতারূন কথায়: যা নিয়ে তারা বিতর্ক করে। তাবারী ইয়ামতারূনের অর্থ করেন, তারা ঝগড়া করে ও মতভেদ করে। আরবরা বলে মারাইতু ফুলানান, অর্থাৎ অমুকের সঙ্গে তর্ক করলাম, তার বিরুদ্ধে বিবাদে নামলাম। শব্দটি এসেছে সেখান থেকেই। কুরতুবী দুটি অর্থ দেন: তারা সন্দেহ করে, অথবা মতভেদ করে। বাগাভী দুটিকে এক করে বলেন: তারা সন্দেহ করে, মতভেদ করে, আর সত্য নয় এমন কথা বলে। কুরতুবী আরও জানান, আবূ আবদুর রহমান সুলামী ও অন্যরা পড়েছেন তামতারূন, অর্থাৎ তোমরা বিতর্ক করো। এতে শেষ কথাটি হয়ে যায় সরাসরি সম্বোধন।"
+          },
+          {
+            "en": "As-Sa'di shows how the two senses meet. They doubt, he says, and then they quarrel with their doubt and argue from guesswork. Doubt is where the dispute starts, and argument is what it becomes once it is spoken aloud. Ibn Kathir's witness from 3:60 uses the same root, warning against being among the mumtarin, those who doubt and dispute. The verse names the quarrel without lending it any weight. It has already said where the truth lies, and the arguing comes after it, not before.",
+            "bn": "দুটি অর্থ কোথায় এসে মেলে, সা'দী তা দেখিয়ে দেন। তাঁর ভাষায়, তারা সন্দেহ করে, তারপর সেই সন্দেহ নিয়েই তর্কে নামে, আন্দাজের উপর ভর করে বিবাদ করে। বিবাদের শুরু সন্দেহে। মুখে আনলেই সেটা হয়ে যায় তর্ক। ইবন কাসীর ৩:৬০ আয়াতকে সাক্ষী হিসেবে আনেন, সেখানেও একই ধাতু। সেখানে সতর্ক করা হয়েছে মুমতারীনের দলে না পড়তে, অর্থাৎ যারা সন্দেহ ও বিতর্ক করে। আয়াতটি বিবাদের কথা বলে, কিন্তু তাকে কোনো ওজন দেয় না। সত্য কোথায়, তা আগেই বলা হয়ে গেছে। তর্ক এসেছে তার পরে, আগে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Who Quarrelled Over Him",
+          "bn": "যারা তাঁকে নিয়ে বিবাদ করল"
+        },
+        "p": [
+          {
+            "en": "Al-Muyassar names the two parties plainly: the Jews and the Christians doubted it. At-Tabari carries the same pair from Qatada, with the Jews calling him a sorcerer and a liar and the Christians calling him the son of Allah, the third of three and a god. Qatada rejects them all: he is the servant of Allah and His messenger, His word and His spirit. Al-Baghawi lists the claims without naming parties: some said he is the son of Allah, some said he is Allah, some said a lying sorcerer.",
+            "bn": "মুয়াসসার দুই দলের নাম সোজাসুজি বলে দেয়: ইহুদি ও খ্রিস্টানরা এ নিয়ে সন্দেহ করেছিল। তাবারী কাতাদা থেকে একই দুই দলের কথা আনেন। ইহুদিরা তাঁকে বলেছিল জাদুকর ও মিথ্যাবাদী। খ্রিস্টানরা বলেছিল আল্লাহর পুত্র, তিনজনের একজন, আর ইলাহ। কাতাদা সবগুলো দাবিই নাকচ করেন। তাঁর কথায়, ঈসা আল্লাহর বান্দা ও রাসূল, তাঁর কালিমা ও তাঁর রূহ। বাগাভী দলের নাম না নিয়ে শুধু দাবিগুলো গুনিয়ে দেন। কেউ বলেছে তিনি আল্লাহর পুত্র, কেউ বলেছে তিনিই আল্লাহ, কেউ বলেছে মিথ্যাবাদী জাদুকর।"
+          },
+          {
+            "en": "Ibn Kathir frames the dispute more widely, between the people of falsehood and the people of truth, among those who believed in him and those who rejected him. The longer account of how the parties split after he was raised, which at-Tabari and al-Qurtubi carry from Qatada and Ibn Jurayj, stops at those two men, not at the Prophet ﷺ, and is treated with 19:37. No commentator attaches a hadith to this verse itself. Sahih al-Bukhari 3435, a sound narration naming 'Isa His word, is treated there too.",
+            "bn": "ইবন কাসীর বিবাদটিকে দেখেন আরও বড় পরিসরে। এ বিবাদ বাতিলপন্থী আর হকপন্থীদের মধ্যে, যারা তাঁর উপর ঈমান এনেছে আর যারা তাঁকে অস্বীকার করেছে তাদের মধ্যে। তাঁকে তুলে নেওয়ার পর দলগুলো কীভাবে ভাগ হলো, তার দীর্ঘ বিবরণ তাবারী ও কুরতুবী আনেন কাতাদা ও ইবন জুরাইজ থেকে। বর্ণনাটি ওই দুজনেই থেমে যায়, নবী ﷺ-এর বাণী নয়। এর জায়গা ১৯:৩৭ আয়াতে, সেখানেই তা আলোচিত হয়েছে। এ আয়াতের সঙ্গে কোনো তাফসীরকার কোনো হাদীস যুক্ত করেননি। সহীহ বুখারীর ৩৪৩৫ নম্বর সহীহ বর্ণনা, যেখানে ঈসাকে আল্লাহর কালিমা বলা হয়েছে, তার আলোচনাও সেখানে।"
+          },
+          {
+            "en": "This must be said firmly. The verse reports an ancient dispute about 'Isa (AS) and states where the truth lies, and the commentators name the parties to that dispute as they knew them. It licenses nothing against any living person or community. No Jew or Christian today may be insulted, mocked or wronged on its basis, and no one may use it to justify harm of any kind. What the Qur'an gives here is a statement of who 'Isa is, not a sentence passed on a people.",
+            "bn": "কথাটা দৃঢ়ভাবে বলা দরকার। আয়াতটি ঈসা (আঃ)-কে নিয়ে প্রাচীন এক বিবাদের খবর দেয়, আর সত্য কোথায় তা জানিয়ে দেয়। তাফসীরকারেরা সেই বিবাদের পক্ষগুলোর নাম বলেছেন, যেভাবে তাঁরা তাদের চিনতেন। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো ইহুদি বা খ্রিস্টানকে এর ভিত্তিতে অপমান করা, উপহাস করা বা তার উপর অন্যায় করা চলে না। কোনো রকম ক্ষতির পক্ষে কেউ এ আয়াতকে দলিল বানাতে পারে না। কুরআন এখানে বলছে ঈসা কে। কোনো জাতির উপর রায় ঘোষণা করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Holding To The Settled Word",
+          "bn": "মীমাংসিত কথায় অটল থাকা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari draws the practical instruction straight from the verse: say about 'Isa what Allah has told you of him. The contrast he draws is between two kinds of report. Allah's report carries no error and no doubt, while any other report can carry error and doubt, additions and omissions. As-Sa'di puts it as a matter of rank. This is the word of Allah, than whom no one is truer in speech and no one better in what he tells, and so what it says about 'Isa (AS) is certain.",
+            "bn": "তাবারী আয়াত থেকে সরাসরি একটি করণীয় বের করে আনেন: ঈসা সম্পর্কে আল্লাহ যা জানিয়েছেন, সেটাই বলো। তিনি দুই রকম খবরের তফাত দেখান। আল্লাহর খবরে কোনো ভুল নেই, কোনো সন্দেহ নেই। অন্য যেকোনো খবরে ভুল আর সন্দেহ ঢুকতে পারে, কিছু যোগ হতে পারে, কিছু বাদ পড়তে পারে। সা'দী কথাটা বলেন মর্যাদার দিক থেকে। এ হলো আল্লাহর বাণী। কথায় তাঁর চেয়ে সত্যবাদী কেউ নেই, বর্ণনায় তাঁর চেয়ে সুন্দর কেউ নেই। তাই ঈসা (আঃ) সম্পর্কে এ বাণী যা বলে, তা নিশ্চিত।"
+          },
+          {
+            "en": "The lesson reaches past the old dispute. A believer can hold the right creed and still treat it as one opinion among several, open to whatever is said most loudly. The verse closes that door. It also guards against the opposite failing. The honour Allah gave 'Isa is the honour he claimed for himself from the cradle, servant and prophet, and love for him stays true by keeping him there. What this verse says is settled; the reader's part is to hold it, and to speak from it rather than from guesswork.",
+            "bn": "শিক্ষাটা পুরোনো ওই বিবাদের সীমা ছাড়িয়ে যায়। একজন মুমিন সঠিক আকীদা ধরে রেখেও তাকে অনেক মতের একটি বানিয়ে ফেলতে পারেন, যেখানে যার গলা সবচেয়ে চড়া, তার কথাই ঢুকে পড়ে। আয়াতটি সে দরজা বন্ধ করে দেয়। উল্টো দিকের ভুল থেকেও আয়াতটি সাবধান করে। আল্লাহ ঈসাকে যে মর্যাদা দিয়েছেন, দোলনা থেকে তিনি নিজের জন্য সেটাই দাবি করেছিলেন: বান্দা ও নবী। তাঁকে সেখানে রাখলেই তাঁর প্রতি ভালোবাসা খাঁটি থাকে। এ আয়াত যা বলেছে, তার মীমাংসা হয়ে গেছে। পাঠকের কাজ তা আঁকড়ে ধরা, আর আন্দাজ নয়, এ কথা থেকেই কথা বলা।"
+          }
+        ]
+      }
+    ]
+  },
   "19:37": {
     "sections": [
       {
