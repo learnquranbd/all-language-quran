@@ -37453,6 +37453,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Meet a truth with honest questions, never with arguments built to topple it; and when rejection comes, remember the messengers faced worse and the outcome belongs to Allah.",
     "lessonBn": "সত্যের সামনে সৎ প্রশ্ন নিয়ে দাঁড়ান, তাকে ধসিয়ে দেওয়ার যুক্তি নিয়ে নয়। আর প্রত্যাখ্যানের মুখে মনে রাখুন, রসূলগণ এর চেয়েও কঠিন কিছু সয়েছেন, আর শেষ ফয়সালা আল্লাহর হাতে।"
+  },
+  "40:21": {
+    "reflectionEn": "The verses before this one stood at the Day of Meeting, where the wrongdoer finds no friend and no intercessor. Now the gaze returns to this world: have they not travelled the land and looked at how it ended for those before them? Those peoples were stronger, and they left deeper marks on the earth, works the listeners could not match. Yet Allah seized them for their sins, and nothing shielded them from Him. Their strength did not save them, and neither did what they built. The verse does not ask me to pass judgement on any ruin I visit or any people I hear about. It asks what I am leaning on. When I look at what I have built, do I see a shelter, or a trace?",
+    "reflectionBn": "আগের আয়াতগুলো দাঁড়িয়ে ছিল সাক্ষাতের দিনে, যেদিন যালিমের কোনো অন্তরঙ্গ বন্ধু থাকবে না, সুপারিশকারীও না। এবার দৃষ্টি ফিরে আসে এই দুনিয়ায়। তারা কি পৃথিবীতে ঘুরে দেখেনি, তাদের আগের লোকদের শেষটা কেমন হয়েছিল? ওরা ছিল এদের চেয়ে শক্তিশালী। জমিনে ওরা এমন চিহ্ন রেখে গেছে, যার নাগাল শ্রোতারা পায়নি। তবু তাদের গুনাহের কারণে আল্লাহ তাদের পাকড়াও করলেন, আর তাঁর হাত থেকে কেউ তাদের বাঁচাতে পারল না। শক্তি তাদের রক্ষা করেনি, গড়ে তোলা দালানকোঠাও না। কোনো ধ্বংসাবশেষ দেখে বা কোনো জাতির কথা শুনে রায় দেওয়ার অনুমতি এ আয়াত আমাকে দেয় না। আয়াতটি বরং জানতে চায়, আমি কিসের উপর ভর দিয়ে আছি। নিজের গড়া জিনিসগুলোর দিকে তাকালে আমি কী দেখি: আশ্রয়, নাকি ভবিষ্যতের এক চিহ্ন?",
+    "pointsEn": [
+      "What strength of mine, in health, money, skill or people, do I quietly count on to protect me from what Allah has warned against?",
+      "When I visit old ruins or read about a vanished people, do I come away with a lesson for myself or only a story about them?",
+      "If what I have built this year were all that remained of me, what would it say about what I was living for?",
+      "Which sin have I kept up because nothing has happened to me yet, as if delay were the same as safety?",
+      "Who or what have I been treating as a shield between me and my Lord?"
+    ],
+    "pointsBn": [
+      "স্বাস্থ্য, টাকা, দক্ষতা বা লোকজন, আমার কোন শক্তির উপর আমি মনে মনে ভরসা রাখি যে আল্লাহর সতর্ক করা বিষয় থেকে সেটাই আমাকে বাঁচাবে?",
+      "পুরোনো ধ্বংসাবশেষ দেখতে গেলে বা হারিয়ে যাওয়া কোনো জাতির কথা পড়লে, আমি কি নিজের জন্য কোনো শিক্ষা নিয়ে ফিরি, নাকি শুধু তাদের নিয়ে একটা গল্প?",
+      "এ বছর যা গড়েছি, আমার বলতে যদি শুধু সেটুকুই টিকে থাকে, তবে তা থেকে কী বোঝা যাবে, আমি কিসের জন্য বেঁচে ছিলাম?",
+      "কোন গুনাহ আমি চালিয়ে যাচ্ছি শুধু এ কারণে যে এখনো কিছু হয়নি, যেন দেরি হওয়া মানেই নিরাপদ থাকা?",
+      "আমার আর আমার রবের মাঝখানে কাকে বা কোন জিনিসকে আমি ঢাল বানিয়ে রেখেছি?"
+    ],
+    "lessonEn": "Strength and great works shield no one from Allah. Read the ruins of earlier peoples as a warning to yourself, never as a verdict on anyone else.",
+    "lessonBn": "শক্তি আর বিশাল কীর্তি কাউকে আল্লাহর হাত থেকে বাঁচাতে পারে না। আগের জাতিগুলোর ধ্বংসাবশেষ পড়ুন নিজের জন্য সতর্কবার্তা হিসেবে, অন্য কারও উপর রায় হিসেবে কখনো নয়।"
   }
 };
 

@@ -903,6 +903,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "40:21": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Last Day to Ruins",
+          "bn": "শেষ দিবস থেকে ধ্বংসাবশেষে"
+        },
+        "p": [
+          {
+            "en": "The passage before this verse stands at the Day of Meeting. In 40:16 everyone comes forth with nothing hidden from Allah; in 40:18 the wrongdoers find no close friend and no intercessor who is obeyed; in 40:20 Allah judges with truth while the gods people call on judge nothing. Then 40:21 brings the gaze back to this world, to the road and to what lies along it: have they not travelled in the land and looked at how it ended for those who were before them?",
+            "bn": "এ আয়াতের আগের অংশটি দাঁড়িয়ে আছে সাক্ষাতের দিনে। ৪০:১৬ আয়াতে সবাই বেরিয়ে আসে, আল্লাহর কাছে কিছুই গোপন থাকে না। ৪০:১৮ আয়াতে যালিমদের জন্য কোনো অন্তরঙ্গ বন্ধু নেই, এমন সুপারিশকারীও নেই যার কথা মানা হবে। ৪০:২০ আয়াতে আল্লাহ হক বিচার করেন, আর মানুষ যাদের ডাকে তারা কোনো বিচারই করতে পারে না। এরপর ৪০:২১ দৃষ্টিকে ফিরিয়ে আনে এই দুনিয়ায়, পথে আর পথের ধারে যা পড়ে আছে তার দিকে। তারা কি পৃথিবীতে ভ্রমণ করেনি, তাহলে দেখত তাদের আগে যারা ছিল তাদের পরিণাম কী হয়েছিল?"
+          },
+          {
+            "en": "The verse moves in four steps: a question about travelling and looking, a comparison in which the earlier peoples come out stronger, the seizing of them for their sins, and the closing line that they had no protector from Allah. The next verse, 40:22, gives the reason in its own words, and from 40:23 the surah turns to Musa (AS), sent to Pharaoh, Haman and Qarun. This verse stays with the general pattern, and so will this article.",
+            "bn": "আয়াতটি এগোয় চারটি ধাপে। প্রথমে ভ্রমণ আর দেখার প্রশ্ন। তারপর তুলনা, যেখানে আগের জাতিগুলো শক্তিতে এগিয়ে। এরপর তাদের গুনাহের কারণে তাদের পাকড়াও করা। শেষে এই কথা যে আল্লাহর হাত থেকে তাদের রক্ষা করার কেউ ছিল না। পরের আয়াত ৪০:২২ কারণটা নিজের ভাষায় জানিয়ে দেয়। আর ৪০:২৩ থেকে সূরাটি চলে যায় মূসা (আঃ)-এর কাহিনিতে, যাঁকে পাঠানো হয়েছিল ফিরআউন, হামান ও কারূনের কাছে। এ আয়াত থাকে সাধারণ নিয়মটির সঙ্গে, এই লেখাও তাই থাকবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Journey Taken With the Heart",
+          "bn": "যে সফর হয় অন্তর দিয়ে"
+        },
+        "p": [
+          {
+            "en": "Awa-lam yasiru: have they not travelled? The question is about people who already do travel. At-Tabari names them as those who persist in associating partners with Allah and deny His Messenger, from Quraysh, and he glosses the land as al-bilad, the lands they cross. Ibn Kathir has Allah addressing the Prophet ﷺ about those who deny his message, and the Muyassar puts it to him in the same way. Earlier in the surah, 40:4 told him not to be deceived by these same people moving freely through the lands.",
+            "bn": "আওয়া লাম ইয়াসীরূ: তারা কি ভ্রমণ করেনি? প্রশ্নটা এমন লোকদের নিয়ে, যারা আসলে ভ্রমণ করেই থাকে। তাবারী তাদের চিনিয়ে দেন: কুরাইশের সেই লোকেরা, যারা আল্লাহর সঙ্গে শরিক করায় অটল আর তাঁর রসূলকে অস্বীকার করে। তিনি আয়াতের আরদ শব্দের ব্যাখ্যা দেন আল-বিলাদ দিয়ে, অর্থাৎ যেসব দেশ তারা পাড়ি দেয়। ইবন কাসীরের ব্যাখ্যায় আল্লাহ নবী ﷺ-কে সম্বোধন করে বলছেন তাঁর বার্তা অস্বীকারকারীদের কথা, আর মুয়াসসারও কথাটা তাঁকেই উদ্দেশ করে বলে। সূরার আগের দিকে ৪০:৪ তাঁকে বলেছিল, দেশে দেশে এদের অবাধ চলাফেরা যেন তাঁকে ধোঁকায় না ফেলে।"
+          },
+          {
+            "en": "So the rebuke is not that they never left home. It is that they passed the remains and did not look. As-Sa'di describes the travel the verse wants: with their hearts and their bodies, a journey of looking, of taking heed and of thinking about the traces left behind. Whoever travels that way, he says, will find the end of those deniers to be the worst of ends: destruction and ruin, disgrace and exposure. At-Tabari's word for the end is khatima, the closing, of nations who had walked the same path of disbelief and denial.",
+            "bn": "তাই ভর্ৎসনাটা এ জন্য নয় যে তারা কখনো ঘর ছেড়ে বের হয়নি। ভর্ৎসনা এ জন্য যে তারা ধ্বংসাবশেষের পাশ দিয়ে গেছে, অথচ তাকিয়ে দেখেনি। আয়াত কেমন সফর চায়, সা'দী তা বলে দেন: অন্তর আর দেহ দুটো দিয়েই সফর, যে সফরে চোখ খোলা থাকে, শিক্ষা নেওয়া হয়, রেখে যাওয়া চিহ্নগুলো নিয়ে ভাবা হয়। তিনি বলেন, এভাবে যে সফর করবে, সে দেখবে ওই অস্বীকারকারীদের পরিণাম সবচেয়ে মন্দ পরিণাম: ধ্বংস ও বিনাশ, লাঞ্ছনা ও কেলেঙ্কারি। পরিণামের জন্য তাবারী ব্যবহার করেন খাতিমা শব্দটি, মানে শেষ অধ্যায়। সেসব জাতির শেষ অধ্যায়, যারা কুফর আর অস্বীকারের একই পথে হেঁটেছিল।"
+          },
+          {
+            "en": "Al-Qurtubi's note is about the grammar of fa-yanzuru, and then they would look. It can be jussive, joined to yasiru, so that looking is a second thing the question asks whether they failed to do. Or it can be subjunctive, the answer to the question, so that looking is what travelling would have produced. He adds that in the dual and the plural the two moods share one form, so the wording itself does not decide. Either way, travelling and looking stand together in the verse.",
+            "bn": "কুরতুবীর মন্তব্য ফাইয়ানযুরূ শব্দের ব্যাকরণ নিয়ে, যার অর্থ: তাহলে তারা দেখত। এটি জাযম অবস্থায় থাকতে পারে, ইয়াসীরূর সঙ্গে যুক্ত হয়ে। তখন দেখা হলো দ্বিতীয় কাজ, যা তারা করেনি কি না, প্রশ্নটা সেটাও জিজ্ঞেস করছে। আবার নসব অবস্থায় প্রশ্নের জবাব হিসেবেও থাকতে পারে। তখন দেখাটা হলো সফরের ফল, সফর করলে যা আপনা থেকে ঘটত। তিনি যোগ করেন, দ্বিবচন ও বহুবচনে এ দুই রূপ দেখতে একই, তাই শব্দ নিজে কোনোটাকে বেছে দেয় না। যেভাবেই পড়া হোক, আয়াতে সফর আর দেখা পাশাপাশি দাঁড়িয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stronger Than Them, or You",
+          "bn": "এদের চেয়ে, নাকি তোমাদের চেয়ে"
+        },
+        "p": [
+          {
+            "en": "Kanu hum ashadda minhum quwwatan: they were stronger than them in might. Al-Baghawi records a second reading of one word here. Ibn Amir read minkum, than you, with the letter kaf, and al-Baghawi adds that this is how it stands in their copies of the mushaf. On the common reading the verse speaks about the listeners in the third person; on Ibn Amir's, the comparison turns and faces them directly: those peoples were stronger than you. Both readings carry the same warning, spoken from a different distance.",
+            "bn": "কানূ হুম আশাদ্দা মিনহুম কুওয়াতান: তারা শক্তিতে এদের চেয়ে প্রবল ছিল। এখানে একটি শব্দের দ্বিতীয় এক কিরাআতের কথা বাগাভী উল্লেখ করেন। ইবন আমির পড়েছেন মিনকুম, অর্থাৎ তোমাদের চেয়ে, কাফ হরফ দিয়ে। বাগাভী যোগ করেন, তাঁদের মুসহাফের কপিতেও শব্দটি এভাবেই লেখা। প্রচলিত কিরাআতে আয়াতটি শ্রোতাদের কথা বলে তারা অনুপস্থিত এমনভাবে, দূর থেকে। ইবন আমিরের কিরাআতে তুলনাটা ঘুরে সরাসরি তাদের মুখোমুখি দাঁড়ায়: ওরা তোমাদের চেয়ে বেশি শক্তিশালী ছিল। দুই কিরাআতেই সতর্কবার্তা একই, শুধু বলার দূরত্বটা আলাদা।"
+          },
+          {
+            "en": "This is not the only place the question is asked. The same opening, have they not travelled in the land and looked at how it ended for those before them, comes in 30:9 and 35:44, and it returns near the close of this surah at 40:82, where the pair strength and traces in the land appears again beside a greater number. Each of those verses takes the question somewhere of its own. Here it leads straight to the seizing and to the absence of any protector.",
+            "bn": "প্রশ্নটা কুরআনে শুধু এখানেই আসেনি। তারা কি পৃথিবীতে ভ্রমণ করেনি, তাহলে দেখত আগের লোকদের পরিণাম কী হয়েছিল, এই একই সূচনা আছে ৩০:৯ ও ৩৫:৪৪ আয়াতে। এ সূরার শেষ দিকে ৪০:৮২ আয়াতে প্রশ্নটা আবার ফিরে আসে। সেখানে শক্তি আর জমিনে রেখে যাওয়া চিহ্ন, এই জোড়াটি আবার দেখা দেয়, সঙ্গে যোগ হয় সংখ্যায় বেশি হওয়ার কথা। ওই আয়াতগুলোর প্রতিটি প্রশ্নটাকে নিজের দিকে নিয়ে যায়। এখানে প্রশ্নটা সোজা গিয়ে পৌঁছায় পাকড়াও আর রক্ষাকারীর অভাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Might, Numbers and Great Frames",
+          "bn": "দাপট, জনবল আর বিশাল দেহ"
+        },
+        "p": [
+          {
+            "en": "What did their strength consist of? At-Tabari glosses quwwa with batsh, the force to strike hard, and he pairs it with their bodies: the severity of their power and the size of their frames did not help them when the command of Allah came to them. The Muyassar keeps his wording almost word for word, more forceful in might, and says the same two things failed them. In both, the strength is plainly physical: force in the arm and size in the body.",
+            "bn": "তাদের শক্তিটা আসলে কী ছিল? তাবারী কুওয়াতের ব্যাখ্যা দেন বাতশ দিয়ে, অর্থাৎ কঠিন আঘাত হানার ক্ষমতা। সঙ্গে জুড়ে দেন তাদের দেহের কথা। আল্লাহর আদেশ যখন এল, তখন তাদের প্রবল দাপট বা বিশাল দেহ কোনোটাই কাজে আসেনি। মুয়াসসার প্রায় হুবহু তাঁর ভাষাই রাখে, দাপটে তারা ছিল বেশি প্রবল, আর বলে যে এই দুটো জিনিসই তাদের বাঁচাতে ব্যর্থ হয়েছিল। দুজনের ব্যাখ্যাতেই শক্তিটা সোজাসুজি শারীরিক: বাহুর জোর আর দেহের আকার।"
+          },
+          {
+            "en": "As-Sa'di widens the picture. They were stronger than these, he says, in numbers, in equipment and in size of body: al-'adad wa-l-'udad, two words that differ only in a vowel and between them cover people and gear. Ibn Kathir sums it up as great strength and severe might, ba's shadid. So the commentators read one word, quwwa, as a whole inventory of the things a people relies on to feel safe: bodies, numbers, weapons and the force to strike hard.",
+            "bn": "সা'দী ছবিটা আরও বড় করেন। তিনি বলেন, এদের চেয়ে তারা ছিল সংখ্যায়, সাজসরঞ্জামে আর দেহের আকারে বেশি শক্তিশালী। আরবিতে আল-আদাদ ওয়াল-উদাদ, দুটি শব্দ, তফাত শুধু একটি স্বরে, আর দুটো মিলে মানুষ ও অস্ত্রশস্ত্র দুই-ই ধরে ফেলে। ইবন কাসীর পুরো কথাটা গুটিয়ে আনেন মহাশক্তি আর প্রচণ্ড দাপট বলে, বা'স শাদীদ। এভাবে তাফসীরকারেরা কুওয়াত এই একটি শব্দকে পড়েছেন নিরাপদ বোধ করার জন্য একটি জাতি যা যা আঁকড়ে ধরে তার পুরো তালিকা হিসেবে: দেহ, জনবল, অস্ত্র আর কঠিন আঘাত হানার ক্ষমতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Builders Left Standing",
+          "bn": "নির্মাতারা যা দাঁড় করিয়ে গেল"
+        },
+        "p": [
+          {
+            "en": "Wa-atharan fi al-ard: and in traces in the land. Ibn Kathir explains that they left their mark on the earth in buildings, landmarks and dwellings, al-binayat wa-l-ma'alim wa-d-diyarat, of a kind these deniers could not manage. He supports it with two verses: 46:26, where Allah says He had established them in ways He had not established the listeners, and 30:9, where they turned up the earth and built on it more than these have built. At-Tabari's phrase is simply that they left more lasting traces in the land.",
+            "bn": "ওয়া আসারান ফিল আরদ: আর জমিনে রেখে যাওয়া চিহ্নে। ইবন কাসীর ব্যাখ্যা করেন, তারা পৃথিবীর বুকে ছাপ রেখে গেছে দালান, স্থাপনা আর বসতবাড়িতে, আল-বিনায়াত ওয়াল-মাআলিম ওয়াদ-দিয়ারাত, যা গড়ার সামর্থ্য এই অস্বীকারকারীদের নেই। কথাটার সমর্থনে তিনি দুটি আয়াত আনেন। ৪৬:২৬ আয়াতে আল্লাহ বলেন, তাদের তিনি এমনভাবে প্রতিষ্ঠিত করেছিলেন, যেভাবে শ্রোতাদের করেননি। আর ৩০:৯ আয়াতে আছে, তারা জমিন চষেছিল আর এদের চেয়ে বেশি আবাদ করেছিল। তাবারীর ভাষা আরও সরল: জমিনে তারা রেখে গেছে বেশি টেকসই চিহ্ন।"
+          },
+          {
+            "en": "As-Sa'di reads athar as building and planting, al-bina' wa-l-ghars, so the traces include fields and orchards as well as walls. Then he adds a sentence that changes how the ruins look: the strength of the traces points to the strength of the one who made them, and to his making himself secure by them. The great wall a traveller admires was a defence once. Its builder put his trust in it, and it is still standing while he is gone.",
+            "bn": "সা'দী আসারের অর্থ করেন দালান গড়া আর গাছ লাগানো, আল-বিনা ওয়াল-গারস। তাহলে চিহ্নের মধ্যে শুধু দেয়াল নয়, খেত আর বাগানও পড়ে। এরপর তিনি একটি বাক্য যোগ করেন, যা ধ্বংসাবশেষের চেহারাটাই বদলে দেয়। চিহ্নের মজবুতি বোঝায় যে তা গড়েছে তার শক্তি কত ছিল, আর সে এসব দিয়ে নিজেকে কতটা সুরক্ষিত রাখতে চেয়েছিল। মুসাফির যে বিশাল প্রাচীর দেখে মুগ্ধ হয়, একদিন সেটা ছিল আত্মরক্ষার দেয়াল। নির্মাতা তার উপর ভরসা রেখেছিল। দেয়াল আজও দাঁড়িয়ে, অথচ সে নেই।"
+          },
+          {
+            "en": "Read that way, the remains carry a double message. The very things meant to keep them safe are what remain to be looked at, and they stand as evidence that safety was never in them. The verse sets the walls right beside the seizing, with nothing between. The listeners were invited to measure themselves against peoples who had more of everything they themselves were proud of, and to notice that it had not been enough.",
+            "bn": "এভাবে পড়লে ধ্বংসাবশেষের বার্তা দুই দিকের। যে জিনিসগুলো তাদের নিরাপদ রাখার জন্য গড়া হয়েছিল, দেখার মতো পড়ে আছে সেগুলোই। আর সেগুলোই সাক্ষী যে নিরাপত্তা কখনো সেগুলোর ভেতরে ছিল না। আয়াতটি দেয়ালের ঠিক পাশেই রাখে পাকড়াও, মাঝখানে আর কিছু নেই। শ্রোতাদের ডাকা হয়েছিল এমন জাতিগুলোর সঙ্গে নিজেদের মাপতে, যাদের কাছে তাদের গর্বের সব জিনিসই ছিল আরও বেশি। আর খেয়াল করতে যে তবু তা যথেষ্ট হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taken Hold of for Their Sins",
+          "bn": "নিজেদের গুনাহের দায়ে পাকড়াও"
+        },
+        "p": [
+          {
+            "en": "Fa-akhadhahumu Allahu bi-dhunubihim: yet Allah seized them for their sins. The commentators name the sins at different widths. Ibn Kathir narrows them to one: their sins, he says, were their disbelief in their messengers. At-Tabari keeps them plural and broad, the crimes of disobedience they committed and the wrongs they earned. The Muyassar holds both together: because of their disbelief and their earning of sins. As-Sa'di adds a note on timing. The seizing came, he says, when they persisted in their sins and kept on in them.",
+            "bn": "ফাআখাযাহুমুল্লাহু বিযুনূবিহিম: তবু তাদের গুনাহের কারণে আল্লাহ তাদের পাকড়াও করলেন। গুনাহগুলোর পরিসর তাফসীরকারেরা আঁকেন ভিন্ন মাপে। ইবন কাসীর সেগুলোকে একটিতে নামিয়ে আনেন। তাঁর মতে তাদের গুনাহ হলো রসূলদের প্রতি তাদের কুফর। তাবারী রাখেন বহুবচনে, বিস্তৃত অর্থে: নাফরমানির যেসব অপরাধ তারা করেছিল আর যেসব গুনাহ কামিয়েছিল। মুয়াসসার দুটোকে একসঙ্গে ধরে: তাদের কুফর আর গুনাহ অর্জনের কারণে। সা'দী সময়ের দিকে ইঙ্গিত করেন। তিনি বলেন, পাকড়াও এসেছিল তখন, যখন তারা গুনাহে অটল থেকেছে আর তা চালিয়েই গেছে।"
+          },
+          {
+            "en": "The next verse says it in its own voice. 40:22 gives the cause: their messengers kept coming to them with clear proofs, and they disbelieved, so Allah seized them. Ibn Kathir reads the two verses together, the second naming the reason and the sins. The same verb is heard at the surah's opening, in 40:5, where every nation set out to seize its messenger and Allah says, so I seized them. Those who reached to take the messengers were themselves taken.",
+            "bn": "পরের আয়াত কথাটা নিজের ভাষায় বলে দেয়। ৪০:২২ কারণ জানায়: তাদের রসূলগণ বারবার স্পষ্ট প্রমাণ নিয়ে তাদের কাছে আসছিলেন, আর তারা কুফর করল, তাই আল্লাহ তাদের পাকড়াও করলেন। ইবন কাসীর দুই আয়াতকে এক সঙ্গে পড়েন, দ্বিতীয়টি কারণ আর গুনাহগুলোর নাম জানিয়ে দেয়। পাকড়াওয়ের ক্রিয়াটি সূরার শুরুতেও শোনা গেছে। ৪০:৫ আয়াতে প্রত্যেক জাতি নিজেদের রসূলকে পাকড়াও করতে চেয়েছিল, আর আল্লাহ বলেন, তাই আমি তাদের পাকড়াও করলাম। যারা রসূলদের ধরতে হাত বাড়িয়েছিল, ধরা পড়ল তারাই।"
+          },
+          {
+            "en": "At-Tabari describes what the seizing looked like from outside. He destroyed their whole company, and their dwellings became empty of them because of the wrong they had done. That is the scene the traveller is asked to look at: houses with no one in them. The verse attaches the emptiness to sins, and the Muyassar spells out the bi- of bi-dhunubihim as bi-sabab, because of. Nothing in it presents the end of those peoples as chance or as the ordinary turning of history.",
+            "bn": "পাকড়াওটা বাইরে থেকে দেখতে কেমন ছিল, তাবারী তা বর্ণনা করেন। আল্লাহ তাদের গোটা দলকে নিশ্চিহ্ন করে দিলেন, আর তাদের যুলমের কারণে তাদের ঘরবাড়ি তাদের থেকে খালি পড়ে রইল। মুসাফিরকে ঠিক এই দৃশ্যটাই দেখতে বলা হচ্ছে: মানুষহীন বাড়িঘর। আয়াতটি এই শূন্যতাকে জুড়ে দেয় গুনাহের সঙ্গে। মুয়াসসার বিযুনূবিহিম শব্দের বি অংশটি খুলে বলে বিসাবাব, অর্থাৎ কারণে। সেসব জাতির পরিণতিকে আয়াত কোথাও দুর্ঘটনা বা ইতিহাসের স্বাভাবিক ওঠানামা হিসেবে দেখায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Shield Between Them and Allah",
+          "bn": "আল্লাহর সামনে কোনো ঢাল নেই"
+        },
+        "p": [
+          {
+            "en": "Wa-ma kana lahum mina Allahi min waq: and they had no protector from Allah. A waq is one who shields. At-Tabari explains that when the punishment of Allah came to them they had no one to shield them and push it away, and he relays from Qatada, through his chain, the short gloss: none to shield them, and nothing to benefit them. Ibn Kathir lays it out in three clauses: no one drove the punishment of Allah away from them, no one turned it back, and no one shielded them.",
+            "bn": "ওয়ামা কানা লাহুম মিনাল্লাহি মিন ওয়াক: আল্লাহর হাত থেকে তাদের রক্ষা করার কেউ ছিল না। ওয়াক মানে যে ঢাল হয়ে দাঁড়ায়। তাবারী ব্যাখ্যা করেন, আল্লাহর আযাব যখন তাদের কাছে এল, তখন এমন কেউ ছিল না যে তাদের আড়াল করবে আর আযাব ঠেকিয়ে দেবে। নিজের সনদে তিনি কাতাদা থেকে ছোট একটি ব্যাখ্যাও আনেন: কেউ তাদের রক্ষা করেনি, কিছুই তাদের উপকারে আসেনি। ইবন কাসীর কথাটা সাজান তিনটি বাক্যাংশে। কেউ আল্লাহর আযাব তাদের থেকে সরাতে পারেনি, কেউ তা ফিরিয়ে দিতে পারেনি, কেউ তাদের আড়ালও করতে পারেনি।"
+          },
+          {
+            "en": "Al-Baghawi's gloss is the plainest: no one to repel the punishment from them. Al-Qurtubi adds a grammatical point on the word itself. The final ya of waq has dropped and the kasra remains to stand for it, so the word may be read as genitive after min or as nominative by its place in the sentence, and the written form is the same either way. Set beside 40:18, the line completes a pair: no friend or intercessor on that Day, and no protector here either.",
+            "bn": "বাগাভীর ব্যাখ্যা সবচেয়ে সরল: আযাব তাদের থেকে ঠেকানোর কেউ ছিল না। কুরতুবী শব্দটি নিয়ে একটি ব্যাকরণগত কথা যোগ করেন। ওয়াক শব্দের শেষের ইয়া বাদ পড়েছে, তার জায়গায় রয়ে গেছে কাসরা। তাই মিন-এর পরে শব্দটিকে জার অবস্থায় পড়া যায়, আবার বাক্যে তার অবস্থান ধরে রফা অবস্থায়ও পড়া যায়, আর দুইভাবেই লেখার রূপ একই থাকে। ৪০:১৮ আয়াতের পাশে রাখলে একটি জোড়া পূর্ণ হয়। সেদিন কোনো বন্ধু বা সুপারিশকারী নেই, আর এখানে দুনিয়াতেও কোনো রক্ষাকারী নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Ruin Is Not a Verdict",
+          "bn": "ধ্বংসাবশেষ কোনো রায় নয়"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read for this verse attaches a hadith to it or reports an occasion of its revelation, so the verse is read here on its own words. Those words describe particular nations who rejected the clear proofs their messengers brought, as 40:22 says, and what came to them. They license nothing against any living person or community. Revelation named who was seized and why; no one has that knowledge about the people of a ruined town today.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর পড়া হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি, শানে নুযূলও বলেনি। তাই এখানে আয়াতটি পড়া হয়েছে তার নিজের শব্দ ধরে। সেই শব্দগুলো নির্দিষ্ট কিছু জাতির কথা বলে, যারা রসূলদের আনা স্পষ্ট প্রমাণ প্রত্যাখ্যান করেছিল, যেমন ৪০:২২ বলে, আর তাদের উপর যা নেমে এসেছিল তার কথা। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। কাকে পাকড়াও করা হয়েছিল আর কেন, তা জানিয়েছে ওহী। আজকের কোনো বিধ্বস্ত শহরের মানুষ সম্পর্কে সে জ্ঞান কারও কাছে নেই।"
+          },
+          {
+            "en": "So the verse gives no one the right to stand in a flattened city, a flooded valley or a town broken by war and call what happened there a punishment on its people. Ancient walls and empty houses do not carry labels, and the sufferers of any disaster today are owed help and mercy, not a sentence. What the verse does allow is narrower and harder: to ask the question of oneself, as it was first asked of its listeners.",
+            "bn": "তাই ভূমিকম্পে মাটিতে মিশে যাওয়া শহর, বন্যায় ডুবে যাওয়া উপত্যকা বা যুদ্ধে ভেঙে পড়া জনপদে দাঁড়িয়ে সেখানকার ঘটনাকে ওই মানুষগুলোর শাস্তি বলার কোনো অধিকার এ আয়াত কাউকে দেয় না। পুরোনো দেয়াল আর খালি ঘরের গায়ে কোনো লেবেল লাগানো থাকে না। আজকের যেকোনো বিপর্যয়ে যারা কষ্ট পাচ্ছে, তাদের পাওনা সাহায্য আর দয়া, কোনো রায় নয়। আয়াত যা করতে দেয় তা আরও সরু আর আরও কঠিন: প্রশ্নটা নিজেকে করা, যেভাবে প্রথমে তা করা হয়েছিল এর শ্রোতাদের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Travelling Through One's Own Strengths",
+          "bn": "নিজের শক্তিগুলোর ভেতর দিয়ে সফর"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's travel of the heart can be taken without leaving home. Each of us has a small inventory like the one the commentators found in quwwa: health, earnings, family, skill, a reputation, the buildings of a working life. The verse does not call any of these evil. It asks whether we have started to treat them as a waq, a shield between ourselves and Allah, when the peoples who had far more of all of it found that nothing stood between them and Him.",
+            "bn": "সা'দীর অন্তরের সফর ঘর থেকে বের না হয়েও করা যায়। তাফসীরকারেরা কুওয়াত শব্দে যে তালিকা খুঁজে পেয়েছেন, আমাদের প্রত্যেকেরও তেমন ছোট একটি তালিকা আছে: স্বাস্থ্য, রোজগার, পরিবার, দক্ষতা, সুনাম, সারা জীবনের কাজে গড়ে তোলা নানা কিছু। আয়াত এগুলোর কোনোটিকেই মন্দ বলে না। সে জানতে চায়, আমরা কি এগুলোকে ওয়াক বানিয়ে ফেলেছি, আমাদের আর আল্লাহর মাঝখানে একটা ঢাল? অথচ যাদের কাছে এসব ছিল আমাদের চেয়ে অনেক বেশি, তারা দেখেছে তাঁর আর তাদের মাঝে কিছুই দাঁড়ায়নি।"
+          },
+          {
+            "en": "As-Sa'di's remark on timing also speaks to the reader. The seizing, he says, came when they persisted in their sins and kept on in them, which means there was a stretch of time before it in which messengers came with clear proofs, and turning back was possible. The traveller who looks at the empty houses is still standing in that stretch. The reason to look, and to look honestly at oneself, is that the looking can still change something.",
+            "bn": "সময় নিয়ে সা'দীর মন্তব্যও পাঠকের সঙ্গে কথা বলে। তিনি বলেন, পাকড়াও এসেছিল তখন, যখন তারা গুনাহে অটল থেকেছে আর তা চালিয়েই গেছে। তার মানে এর আগে একটা সময় ছিল, যখন রসূলগণ স্পষ্ট প্রমাণ নিয়ে এসেছিলেন আর ফিরে আসার পথ খোলা ছিল। খালি ঘরবাড়ির দিকে যে মুসাফির তাকিয়ে আছে, সে এখনো সেই সময়ের ভেতরেই দাঁড়িয়ে। তাকানোর কারণ, আর নিজের দিকে সৎভাবে তাকানোর কারণ এটাই: এই দেখা এখনো কিছু বদলে দিতে পারে।"
+          }
+        ]
+      }
+    ]
+  },
   "40:24": {
     "sections": [
       {
