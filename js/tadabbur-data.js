@@ -33823,6 +33823,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah created the heavens, the earth and you without any helper or witness. Do not hand your obedience to whatever misleads you, as though it had a share in His work.",
     "lessonBn": "আল্লাহ আসমান, যমীন আর আপনাকে সৃষ্টি করেছেন কোনো সাহায্যকারী বা সাক্ষী ছাড়াই। যা আপনাকে পথভ্রষ্ট করে, তার হাতে নিজের আনুগত্য তুলে দেবেন না, যেন তাঁর কাজে তারও কোনো ভাগ আছে।"
+  },
+  "18:13": {
+    "reflectionEn": "The story of the cave begins its detail with three facts: they were young, they believed in their Lord, and He increased them in guidance. Their step came first, and it was not a small one, because it set them against their own people. What came back was more than they brought: clearer sight and a firmer heart, enough to leave an easy life for a cave in a mountain. Guidance here is not a gift handed over once and finished. It grows when it is lived, and it can thin when it is neglected. Youth in the verse is a season of openness, not a guarantee. What I do with what I already know decides whether more is given.",
+    "reflectionBn": "গুহাবাসীদের কাহিনির বিস্তারিত বর্ণনা শুরু হয় তিনটি কথা দিয়ে: তারা ছিল যুবক, তারা নিজেদের রবের উপর ঈমান এনেছিল, আর আল্লাহ তাদের হিদায়াত বাড়িয়ে দিয়েছিলেন। প্রথম পা-টা ফেলেছিল তারা নিজেরাই। সেটা ছোট কিছু ছিল না, কারণ তাতে নিজের জাতির বিরুদ্ধে দাঁড়াতে হয়েছিল। বিনিময়ে যা ফিরে এল, তা তাদের নিয়ে আসা পুঁজির চেয়ে বেশি: আরও পরিষ্কার দৃষ্টি আর আরও মজবুত মন। এতটাই যে আরামের জীবন ছেড়ে তারা পাহাড়ের একটা গুহা বেছে নিতে পারল। এখানে হিদায়াত একবার হাতে তুলে দিয়ে শেষ করা কোনো উপহার নয়। আমলে আনলে তা বাড়ে, অবহেলা করলে ফিকে হয়ে আসে। আয়াতে যৌবন হলো মন খোলা থাকার মৌসুম, কোনো নিশ্চয়তা নয়। যা আমি আগে থেকেই জানি তা নিয়ে কী করি, সেটাই ঠিক করে দেয় আমাকে আরও দেওয়া হবে কি না।",
+    "pointsEn": [
+      "What do I already know to be true that I have not yet acted on, and could that be why I feel I am not growing?",
+      "Is my faith today more or less than it was a year ago, and what would I point to as the reason?",
+      "Which of my habits has hardened so long that I now defend it instead of examining it?",
+      "Who are the young people around me, and do I make it easier or harder for them to hold to what is right?",
+      "When I ask Allah for guidance, do I also take the step that would make room for more of it?"
+    ],
+    "pointsBn": [
+      "কোন কথাটা আমি সত্য বলে জানি অথচ এখনো আমলে আনিনি? নিজেকে যে বাড়তে দেখি না, তার কারণ কি এটাই?",
+      "এক বছর আগের তুলনায় আমার ঈমান আজ বেশি না কম? কারণ হিসেবে আমি কোন জিনিসটা দেখাব?",
+      "আমার কোন অভ্যাসটা এত দিনে এমন শক্ত হয়ে গেছে যে এখন সেটাকে যাচাই না করে তার পক্ষে সাফাই গাই?",
+      "আমার আশপাশের তরুণরা কারা? সঠিক পথে টিকে থাকা আমি কি তাদের জন্য সহজ করে দিই, নাকি কঠিন?",
+      "আল্লাহর কাছে হিদায়াত চাওয়ার সময় আমি কি সেই পদক্ষেপটাও নিই, যা আরও হিদায়াতের জায়গা তৈরি করে?"
+    ],
+    "lessonEn": "Live by the faith you already have, and Allah adds guidance to it. Let no habit grow so hard that the truth can no longer reach you.",
+    "lessonBn": "যে ঈমান আপনার আছে, সে অনুযায়ী চলুন, আল্লাহ তাতে হিদায়াত বাড়িয়ে দেবেন। কোনো অভ্যাসকে এত শক্ত হতে দেবেন না যে সত্য আর আপনার কাছে পৌঁছাতে না পারে।"
   }
 };
 

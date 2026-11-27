@@ -435,6 +435,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:13": {
+    "sections": [
+      {
+        "h": {
+          "en": "Told to You With the Truth",
+          "bn": "সত্যসহ আপনাকে শোনানো কাহিনি"
+        },
+        "p": [
+          {
+            "en": "Nahnu naqussu 'alayka naba'ahum bil-haqq: It is We who relate to you their story in truth. Ibn Kathir and as-Sa'di both mark this verse as the point where the account turns to detail; Ibn Kathir's words are that from here Allah began to unfold the story and explain it. At-Tabari paraphrases it as Allah addressing His Prophet ﷺ: We relate to you, Muhammad, the report of these youths who took shelter in the cave, bil-haqq, which he glosses as with truthfulness and a certainty in which there is no doubt.",
+            "bn": "নাহনু নাকুসসু আলাইকা নাবাআহুম বিলহাক্ক: আমিই আপনার কাছে তাদের বৃত্তান্ত সত্যসহ বর্ণনা করছি। ইবন কাসীর ও সা'দী দুজনেই বলেন, এই আয়াত থেকে কাহিনি বিস্তারিত বর্ণনার দিকে মোড় নেয়। ইবন কাসীরের ভাষায়, এখান থেকে আল্লাহ কাহিনিটি খুলে বলতে ও ব্যাখ্যা করতে শুরু করলেন। তাবারী আয়াতটিকে নবী ﷺ-এর প্রতি আল্লাহর সম্বোধন হিসেবে ব্যাখ্যা করেন: হে মুহাম্মাদ, গুহায় আশ্রয় নেওয়া এই যুবকদের খবর আমি আপনাকে শোনাচ্ছি বিলহাক্ক। এর অর্থ তিনি করেন সত্যতা আর এমন নিশ্চিত জ্ঞানের সঙ্গে, যাতে কোনো সন্দেহ নেই।"
+          },
+          {
+            "en": "Al-Baghawi glosses naqussu as we recite to you, naba'ahum as the report of the Companions of the Cave, and bil-haqq as with truthfulness; as-Sa'di adds that there is no doubt or ambiguity in it from any angle. Al-Qurtubi explains why the assurance comes here. The previous verse, 18:12, spoke of which of the two parties best reckoned how long they stayed, which implied that people had differed over the youths' span of time. So Allah follows it, he says, with the statement that He knows the truth of what actually happened to them.",
+            "bn": "বাগাভী নাকুসসু-র অর্থ করেন আমি আপনাকে পড়ে শোনাই, নাবাআহুম মানে গুহাবাসীদের খবর, আর বিলহাক্ক মানে সত্যতার সঙ্গে। সা'দী যোগ করেন, এতে কোনো দিক থেকেই সন্দেহ বা অস্পষ্টতা নেই। এই নিশ্চয়তা ঠিক এখানে কেন এল, কুরতুবী তা বুঝিয়ে দেন। আগের আয়াত ১৮:১২ বলেছিল, দুই দলের মধ্যে কারা তাদের অবস্থানকাল ঠিকঠাক হিসাব করতে পেরেছিল। এতে বোঝা যায়, যুবকদের কত সময় কেটেছে তা নিয়ে মানুষের মধ্যে মতভেদ হয়েছিল। তাই তাঁর মতে আল্লাহ এর পরেই জানিয়ে দিলেন, তাদের ব্যাপারে আসলে কী ঘটেছিল, তার সত্য তিনিই জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fityah, a Small Band",
+          "bn": "ফিতইয়াহ, ছোট্ট একটি দল"
+        },
+        "p": [
+          {
+            "en": "Innahum fityatun amanu bi-rabbihim: they were youths who believed in their Lord. Al-Baghawi and the Muyassar both render fityah as shubban, young men, and al-Qurtubi as young men and youths. Ma'arif al-Qur'an explains it as the plural of fata, someone young. At-Tabari keeps the Qur'an's word and identifies whom it means: the youths who took shelter in the cave, the ones about whom the leading men among the Prophet's own polytheist people had asked him. The verse, then, answers a question that had been put in Makkah.",
+            "bn": "ইন্নাহুম ফিতইয়াতুন আমানূ বিরাব্বিহিম: তারা ছিল কয়েকজন যুবক, যারা নিজেদের রবের উপর ঈমান এনেছিল। বাগাভী ও মুয়াসসার দুজনেই ফিতইয়াহ শব্দের অর্থ করেন শুব্বান, অর্থাৎ তরুণ। কুরতুবী বলেন তরুণ ও কমবয়সী। মাআরিফুল কুরআন জানায়, শব্দটি ফাতা-র বহুবচন, যার মানে অল্পবয়সী কেউ। তাবারী কুরআনের শব্দটাই রেখে দেন, তবে কাদের কথা বলা হচ্ছে তা চিনিয়ে দেন: গুহায় আশ্রয় নেওয়া সেই যুবকেরা, যাদের ব্যাপারে নবী ﷺ-এর নিজের মুশরিক জাতির নেতারা তাঁকে প্রশ্ন করেছিল। অর্থাৎ আয়াতটি মক্কায় করা এক প্রশ্নের জবাব।"
+          },
+          {
+            "en": "As-Sa'di draws a point from the form of the word. Fityah, he notes, is one of the plurals of paucity, and that indicates they were fewer than ten. The verse itself gives no number, and 18:22 sets out the guesses people would make and then says that their Lord knows their number best and only a few know them. His remark sets only an upper limit from grammar; the count itself the Qur'an leaves with Allah.",
+            "bn": "সা'দী শব্দের গঠন থেকে একটা কথা বের করেন। তিনি বলেন, ফিতইয়াহ হলো স্বল্পসংখ্যা বোঝানো বহুবচনগুলোর একটি, আর এতে বোঝা যায় তারা দশজনের কম ছিল। আয়াত নিজে কোনো সংখ্যা বলে না। ১৮:২২ আয়াত মানুষের অনুমানগুলো তুলে ধরে, তারপর জানায় যে তাদের সংখ্যা তাদের রবই সবচেয়ে ভালো জানেন, আর অল্প কয়েকজন ছাড়া কেউ তাদের জানে না। সা'দীর কথাটা ব্যাকরণ থেকে শুধু একটা ঊর্ধ্বসীমা টানে। আসল সংখ্যাটা কুরআন আল্লাহর জ্ঞানের উপরই ছেড়ে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Young Answered First",
+          "bn": "তরুণরাই কেন আগে সাড়া দিল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads a pattern into the word. Youths, he says, are more ready to accept the truth and better guided to the path than the elders, who have grown obstinate and hardened in a false religion. That, he continues, is why most of those who answered Allah and His Messenger ﷺ were young, while the elders of Quraysh for the most part stayed on their religion and only a few of them became Muslims. In the same way, he concludes, Allah tells us that the Companions of the Cave were young men.",
+            "bn": "ইবন কাসীর শব্দটির মধ্যে একটা ধারা দেখতে পান। তিনি বলেন, যুবকেরা সত্য গ্রহণে বেশি প্রস্তুত, পথের দিশাও তারা বেশি পায়। বয়স্কদের অবস্থা আলাদা, বাতিল দ্বীনের উপর থেকে থেকে তারা একগুঁয়ে আর কঠিন হয়ে গেছে। তাঁর মতে এ কারণেই আল্লাহ ও তাঁর রাসূল ﷺ-এর ডাকে যারা সাড়া দিয়েছিল তাদের বেশির ভাগ ছিল তরুণ। কুরাইশের বয়স্করা অধিকাংশই নিজেদের ধর্মে থেকে গিয়েছিল, তাদের অল্প কয়েকজনই ইসলাম গ্রহণ করেছিল। তিনি উপসংহার টানেন, ঠিক তেমনি আল্লাহ জানাচ্ছেন যে গুহাবাসীরা ছিল তরুণ।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing Ibn Kathir and Abu Hayyan, turns the observation into counsel. The time ripe for correcting deeds and character, and for taking in guidance and righteousness, it says, is when a person is young. In old age, deeds and habits acquired earlier are so deeply rooted that, however plain the truth against them becomes, breaking loose from their shackles is very hard. It repeats Ibn Kathir's evidence: those Companions who answered the Prophet's call were, after all, mostly young people.",
+            "bn": "মাআরিফুল কুরআন ইবন কাসীর ও আবু হাইয়ানের বরাতে এই পর্যবেক্ষণকে উপদেশে পরিণত করে। তার বক্তব্য, আমল আর চরিত্র শুধরে নেওয়ার, হিদায়াত ও নেক পথ আঁকড়ে ধরার আসল সময় যৌবন। বুড়ো বয়সে আগের অর্জিত আমল আর অভ্যাস এত গভীরে শিকড় গেড়ে বসে যে তার বিরুদ্ধে সত্য যত স্পষ্টই হোক, সেই শিকল ভেঙে বের হওয়া খুব কঠিন হয়ে পড়ে। প্রমাণ হিসেবে সে ইবন কাসীরের কথাটাই আবার আনে: নবী ﷺ-এর ডাকে যে সাহাবিরা সাড়া দিয়েছিলেন, তাঁদের বেশির ভাগই ছিলেন তরুণ।"
+          },
+          {
+            "en": "Read closely, neither commentator faults age as such. Ibn Kathir's contrast is with elders who had hardened in falsehood, and his own words, only a few of them, mean that some did turn. What he describes is a tendency of the heart, not a closed door. Nor does the remark license contempt for the old, or flattery of the young; the verse praises these youths for what they believed, not for their years, and 18:14 shows the steadiness that faith still needed from Allah.",
+            "bn": "খেয়াল করে পড়লে দেখা যায়, দুজনের কেউই শুধু বয়সকে দোষ দেন না। ইবন কাসীরের তুলনা সেই বয়স্কদের সঙ্গে, যারা বাতিলের উপর শক্ত হয়ে গিয়েছিল। তাঁর নিজের কথা, তাদের অল্প কয়েকজন, মানেই কেউ কেউ ফিরে এসেছিল। তিনি মনের একটা প্রবণতার কথা বলছেন, বন্ধ দরজার কথা নয়। এ কথা বয়স্কদের তুচ্ছ করারও অনুমতি দেয় না, তরুণদের তোষামোদেরও না। আয়াত এই যুবকদের প্রশংসা করছে তাদের ঈমানের জন্য, বয়সের জন্য নয়। আর ১৮:১৪ দেখায়, সেই ঈমানেরও আল্লাহর দেওয়া দৃঢ়তা দরকার ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Futuwwa Begins",
+          "bn": "ফুতুওয়ার শুরু যেখানে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi hears more than age in the word. The verse, he says, judged them to have futuwwa, the quality of the true fata, when they believed without any intermediary. On that basis, he reports, the people of the language said: the head of futuwwa is faith. The noun that would normally describe youth here names a virtue, and the verse fixes where that virtue starts: not in courage or generosity first, but in belief in their Lord that no one handed them.",
+            "bn": "কুরতুবী শব্দটিতে বয়সের চেয়ে বেশি কিছু শোনেন। তিনি বলেন, তারা যখন কোনো মাধ্যম ছাড়াই ঈমান আনল, তখন আয়াত তাদের ফুতুওয়ার রায় দিল। ফুতুওয়া হলো খাঁটি ফাতা-র গুণ। এই ভিত্তিতেই, তিনি জানান, ভাষাবিদেরা বলেছেন: ফুতুওয়ার মাথা হলো ঈমান। যে শব্দ সাধারণত যৌবন বোঝায়, এখানে তা একটি গুণের নাম হয়ে দাঁড়ায়। আর আয়াত ঠিক করে দেয় সেই গুণ কোথা থেকে শুরু: আগে সাহস বা দানশীলতা থেকে নয়, বরং রবের উপর এমন ঈমান থেকে, যা কেউ তাদের হাতে তুলে দেয়নি।"
+          },
+          {
+            "en": "He then gathers definitions. Al-Junayd said futuwwa is giving freely, holding back harm and leaving off complaint. Others said it is avoiding what is forbidden and hastening to noble deeds, and still other things were said. He closes the list with a judgement: this saying is very good, because in meaning it takes in everything that has been said about futuwwa. His text does not make plain which definition he means, so the article leaves the judgement where he placed it, after the final definition.",
+            "bn": "এরপর তিনি কয়েকটি সংজ্ঞা একত্র করেন। জুনায়দ বলেছেন, ফুতুওয়া হলো উদার হাতে দান করা, কষ্ট দেওয়া থেকে বিরত থাকা আর অভিযোগ ছেড়ে দেওয়া। অন্যরা বলেছেন, হারাম থেকে দূরে থাকা আর মহৎ কাজের দিকে দ্রুত এগিয়ে যাওয়া। আরও নানা কথাও বলা হয়েছে। তালিকা শেষ করে তিনি রায় দেন: এই কথাটি খুবই সুন্দর, কারণ ফুতুওয়া নিয়ে যা কিছু বলা হয়েছে, অর্থের দিক থেকে এটি সবকিছুকে ধারণ করে। কোন সংজ্ঞাটির কথা তিনি বলছেন, তাঁর লেখায় তা স্পষ্ট নয়। তাই এই লেখা রায়টিকে সেখানেই রাখছে, যেখানে তিনি রেখেছেন: সর্বশেষ উদ্ধৃত সংজ্ঞার পরে।"
+          },
+          {
+            "en": "Ibn Kathir relays a small detail that shows where they started. Mujahid said, in a report he introduces with it has reached me, that some of them wore earrings in their ears, and that Allah then inspired them with their right guidance and gave them their piety. Mujahid names no source, so nothing is built on it beyond its plain hint: faith reached them as young men of their people's world, ornaments and all.",
+            "bn": "ইবন কাসীর একটা ছোট খুঁটিনাটি আনেন, যা দেখায় তারা কোথা থেকে শুরু করেছিল। মুজাহিদ বলেছেন, আর কথাটা তিনি শুরু করেছেন 'আমার কাছে পৌঁছেছে' বলে, যে তাদের কারও কারও কানে দুল ছিল, তারপর আল্লাহ তাদের অন্তরে সঠিক পথের বোধ জাগিয়ে দিলেন আর তাদের তাকওয়া দান করলেন। মুজাহিদ কোনো উৎস বলেননি, তাই এর সোজা ইঙ্গিতটুকু ছাড়া এর উপর কিছু দাঁড় করানো হচ্ছে না: ঈমান যখন তাদের কাছে পৌঁছাল, তারা ছিল নিজের জাতির জগতেরই তরুণ, সাজসজ্জাসহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Faith Their People Lacked",
+          "bn": "জাতির কাছে যে ঈমান ছিল না"
+        },
+        "p": [
+          {
+            "en": "Amanu bi-rabbihim: they believed in their Lord. Ibn Kathir explains the belief as acknowledging His oneness and bearing witness that there is no god but He. As-Sa'di specifies it as belief in Allah alone, with no partner, apart from their people; their faith was not inherited from the community around them but held against it. The Muyassar pairs two verbs: they affirmed the truth of their Lord and carried out His command. Belief, on that reading, already includes obedience before the verse speaks of any increase.",
+            "bn": "আমানূ বিরাব্বিহিম: তারা নিজেদের রবের উপর ঈমান এনেছিল। ইবন কাসীর এই ঈমানের ব্যাখ্যা দেন এভাবে: তারা তাঁর একত্ব স্বীকার করেছিল আর সাক্ষ্য দিয়েছিল যে তিনি ছাড়া কোনো ইলাহ নেই। সা'দী আরও নির্দিষ্ট করে বলেন, তারা ঈমান এনেছিল এক আল্লাহর উপর, যাঁর কোনো শরিক নেই, আর তা নিজেদের জাতিকে বাদ দিয়ে। অর্থাৎ এ ঈমান চারপাশের সমাজ থেকে উত্তরাধিকারসূত্রে পাওয়া নয়, বরং সেই সমাজের বিপরীতে দাঁড়িয়ে ধরে রাখা। মুয়াসসার দুটি ক্রিয়া পাশাপাশি রাখে: তারা রবকে সত্য বলে মেনেছিল আর তাঁর আদেশ পালন করেছিল। এ পাঠে বৃদ্ধির কথা আসার আগেই ঈমানের ভেতরে আনুগত্য ঢুকে আছে।"
+          },
+          {
+            "en": "The next verse, 18:14, adds a further act of Allah and then lets the youths speak: wa-rabatna 'ala qulubihim, and We bound their hearts, when they stood and said that their Lord is the Lord of the heavens and the earth. Ibn Kathir, on that verse, says Allah gave them the patience to oppose their people and their city and to leave behind the comfortable life they had known. Where and before whom they stood is discussed in the article on 18:15 and is not repeated here.",
+            "bn": "পরের আয়াত ১৮:১৪ আল্লাহর আরেকটি কাজের কথা জুড়ে দেয়, তারপর যুবকদের মুখে কথা তুলে দেয়: ওয়া রাবাতনা আলা কুলূবিহিম, আর আমি তাদের অন্তর বেঁধে দিলাম, যখন তারা দাঁড়িয়ে বলল যে তাদের রব আসমান ও যমীনের রব। ইবন কাসীর সেই আয়াতের আলোচনায় বলেন, আল্লাহ তাদের ধৈর্য দিয়েছিলেন, যাতে তারা নিজেদের জাতি আর শহরের বিরুদ্ধে দাঁড়াতে পারে এবং অভ্যস্ত আরামের জীবন পেছনে ফেলে আসতে পারে। তারা কোথায় আর কার সামনে দাঁড়িয়েছিল, তা ১৮:১৫ আয়াতের লেখায় আলোচিত হয়েছে, এখানে আর বলা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Increase Brought",
+          "bn": "বাড়তি হিদায়াত যা এনে দিল"
+        },
+        "p": [
+          {
+            "en": "Wa-zidnahum huda: and We increased them in guidance. At-Tabari reads it as faith added to their faith in their Lord, and insight into their religion, and he names what that increase made possible. It carried them, he says, until they could bear to abandon their people's homes, to flee from among them with their religion to Allah, and to part with the ease and softness of the life they had for the roughness of staying in a mountain cave. For him the added guidance is measured by what it let them give up.",
+            "bn": "ওয়া যিদনাহুম হুদা: আর আমি তাদের হিদায়াত বাড়িয়ে দিলাম। তাবারী এর অর্থ করেন, রবের প্রতি তাদের ঈমানের সঙ্গে আরও ঈমান যোগ হলো, আর দ্বীনের ব্যাপারে এল গভীর অন্তর্দৃষ্টি। এই বৃদ্ধি কী সম্ভব করেছিল, তাও তিনি বলে দেন। এর জোরেই তারা জাতির ঘরবাড়ি ছেড়ে যাওয়ার কষ্ট সইতে পেরেছিল, দ্বীন নিয়ে তাদের মাঝখান থেকে আল্লাহর দিকে পালাতে পেরেছিল। আরামের নরম জীবন ছেড়ে পাহাড়ের গুহায় থাকার কঠোরতা মেনে নিতে পেরেছিল। তাবারীর কাছে বাড়তি হিদায়াতের মাপ হলো, তা তাদের কতটা ছেড়ে দিতে সক্ষম করেছিল।"
+          },
+          {
+            "en": "Al-Qurtubi locates the increase in action. Allah, he says, made righteous deeds easy for them: devoting themselves wholly to Allah, keeping their distance from people, and doing without the world; and this, he adds, is an increase beyond faith. As-Sa'di explains the causal link. Allah appreciated their faith, he writes, and because of their first being guided to faith He increased them in guidance, which he defines as beneficial knowledge and righteous action. He supports it with 19:76: and Allah increases in guidance those who are guided.",
+            "bn": "কুরতুবী বৃদ্ধিটা খুঁজে পান আমলের মধ্যে। তিনি বলেন, আল্লাহ তাদের জন্য নেক আমল সহজ করে দিয়েছিলেন: পুরোপুরি আল্লাহর দিকে মনোনিবেশ, মানুষ থেকে দূরে থাকা আর দুনিয়ার প্রতি অনাসক্তি। তিনি যোগ করেন, এটা ঈমানের উপর বাড়তি কিছু। সা'দী কার্যকারণের সম্পর্কটা খুলে বলেন। তাঁর ভাষায়, আল্লাহ তাদের ঈমানের কদর করলেন। প্রথমে তারা ঈমানের পথ পেয়েছিল, আর সেই কারণেই আল্লাহ তাদের হিদায়াত বাড়িয়ে দিলেন। সেই হিদায়াতের সংজ্ঞা তিনি দেন উপকারী জ্ঞান আর নেক আমল। প্রমাণ হিসেবে আনেন ১৯:৭৬: যারা সৎপথে চলে, আল্লাহ তাদের হিদায়াত বাড়িয়ে দেন।"
+          },
+          {
+            "en": "The shorter commentaries agree in substance. Al-Baghawi glosses the guidance as faith and insight; the Muyassar as guidance and steadfastness upon the truth. So the commentators lean in different directions, towards insight, deeds, knowledge or firmness, without contradicting each other. Al-Qurtubi also relays from as-Suddi a story about a shepherd's dog through which, as-Suddi says, their guidance was increased. He gives it no chain, the dog belongs to 18:18, and the article does not build on it.",
+            "bn": "ছোট তাফসীরগুলোও মূল কথায় একমত। বাগাভী হিদায়াতের অর্থ করেন ঈমান ও অন্তর্দৃষ্টি, আর মুয়াসসার করে হিদায়াত এবং সত্যের উপর অবিচল থাকা। অর্থাৎ কেউ ঝোঁকেন অন্তর্দৃষ্টির দিকে, কেউ আমলের দিকে, কেউ জ্ঞানের দিকে, কেউ দৃঢ়তার দিকে, কিন্তু কেউ কারও বিরোধিতা করেন না। কুরতুবী সুদ্দীর বরাতে এক রাখালের কুকুরের একটি গল্পও আনেন, যার মাধ্যমে সুদ্দীর মতে তাদের হিদায়াত বেড়েছিল। তিনি এর কোনো সনদ দেননি, কুকুরের প্রসঙ্গ ১৮:১৮ আয়াতের, আর এই লেখা এর উপর কিছু দাঁড় করায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faith Has Degrees",
+          "bn": "ঈমানেরও স্তর আছে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir draws a doctrinal point from the phrase. More than one of the imams, he says, among them al-Bukhari, took this verse and others like it as evidence that faith increases, that people differ in their degrees of it, and that it grows and diminishes. He sets beside it 47:17, and those who are guided, He increases them in guidance and gives them their piety; 9:124, as for those who believe, it increased them in faith; and 48:4, that they might grow in faith along with their faith.",
+            "bn": "ইবন কাসীর বাক্যটি থেকে আকীদার একটি কথা বের করেন। তিনি বলেন, একাধিক ইমাম, যাঁদের মধ্যে বুখারীও আছেন, এই আয়াত আর এর মতো অন্য আয়াতগুলোকে প্রমাণ হিসেবে নিয়েছেন যে ঈমান বাড়ে, ঈমানের স্তরে মানুষে মানুষে পার্থক্য হয়, আর ঈমান বাড়ে ও কমে। এর পাশে তিনি রাখেন ৪৭:১৭: যারা হিদায়াতের পথে চলে, তিনি তাদের হিদায়াত বাড়িয়ে দেন আর তাদের তাকওয়া দান করেন। রাখেন ৯:১২৪: যারা ঈমান এনেছে, এটি তাদের ঈমান বাড়িয়ে দিয়েছে। আর ৪৮:৪: যাতে তাদের ঈমানের সঙ্গে আরও ঈমান যুক্ত হয়।"
+          },
+          {
+            "en": "The point is not abstract for the reader. If guidance can be added to, it can also be thinned. None of the commentaries fetched for this verse attaches a hadith to its words. The narrations Ibn Kathir brings in the same passage belong to the verses after it, about the youths meeting, fleeing and taking shelter; the one on fleeing with one's religion is quoted in the article on 18:15.",
+            "bn": "পাঠকের জন্য কথাটা নিছক তত্ত্ব নয়। হিদায়াত যদি বাড়তে পারে, তবে ফিকেও হতে পারে। এই আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর শব্দের সঙ্গে কোনো হাদীস যুক্ত করেনি। একই আলোচনায় ইবন কাসীর যেসব বর্ণনা আনেন, সেগুলো পরের আয়াতগুলোর, যেখানে যুবকদের একত্র হওয়া, পালানো আর আশ্রয় নেওয়ার কথা। দ্বীন নিয়ে পালানোর হাদীসটি ১৮:১৫ আয়াতের লেখায় উদ্ধৃত হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before 'Isa (AS), or After",
+          "bn": "ঈসা (আঃ)-এর আগে, নাকি পরে"
+        },
+        "p": [
+          {
+            "en": "When the youths lived is not settled. Ibn Kathir records that it has been mentioned they followed the religion of 'Isa ibn Maryam (AS), and adds, Allah knows best. His own view is that they apparently lived before Christianity altogether. Had they been Christians, he reasons, the Jewish rabbis would not have cared to preserve their story, given the divergence between the two. He links this to a report from Ibn 'Abbas he gave earlier in his commentary, which the article does not rest on, that the rabbis suggested the youths as one of the questions for the Prophet ﷺ.",
+            "bn": "যুবকেরা কোন যুগের মানুষ, তা মীমাংসিত নয়। ইবন কাসীর উল্লেখ করেন, বলা হয়ে থাকে তারা ঈসা ইবন মারইয়াম (আঃ)-এর দ্বীনের অনুসারী ছিল, আর সঙ্গে যোগ করেন, আল্লাহই ভালো জানেন। তাঁর নিজের মত হলো, বাহ্যত তারা খ্রিস্টধর্মের সম্পূর্ণ আগের মানুষ। তাঁর যুক্তি, তারা খ্রিস্টান হলে দুই ধর্মের মধ্যে যে ব্যবধান, তার কারণে ইহুদি পণ্ডিতেরা তাদের কাহিনি সংরক্ষণে মাথা ঘামাত না। তিনি এর সঙ্গে তাফসীরের আগের অংশে আনা ইবন আব্বাসের একটি বর্ণনা জুড়ে দেন, যাতে আছে ইহুদি পণ্ডিতেরা নবী ﷺ-কে করার মতো প্রশ্নের মধ্যে এই যুবকদের কথাও বলেছিল। এই লেখা সেই বর্ণনার উপর ভর করে না।"
+          },
+          {
+            "en": "Both positions are left standing; Ibn Kathir himself closes with Allah knows best, and the questions put to the Prophet ﷺ are taken up on 18:23 and 18:24. The names, the king and the city that the reports supply are set out, with their weaknesses, in the article on 18:10. Whatever era they belonged to, the verse describes these youths and the people they left, and licenses nothing against any living person or community, Jews and Christians included, and nothing against the old.",
+            "bn": "দুটি মতই যেমন আছে তেমন রাখা হলো। ইবন কাসীর নিজেও শেষ করেন 'আল্লাহই ভালো জানেন' বলে। নবী ﷺ-কে করা প্রশ্নগুলোর আলোচনা আছে ১৮:২৩ ও ১৮:২৪ আয়াতে। বর্ণনাগুলো যেসব নাম, রাজা আর শহরের কথা জোগায়, সেগুলো তাদের দুর্বলতাসহ ১৮:১০ আয়াতের লেখায় তুলে ধরা হয়েছে। তারা যে যুগেরই হোক, আয়াত এই যুবকদের আর তাদের ছেড়ে আসা জাতির কথা বলছে। ইহুদি ও খ্রিস্টানসহ কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না, বয়স্কদের বিরুদ্ধেও না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Step Met With More",
+          "bn": "এক পা এগোলে আরও পাওয়া"
+        },
+        "p": [
+          {
+            "en": "The verse is short, and its order carries its lesson. Belief is ascribed to the youths: amanu, they believed. The increase is ascribed to Allah: zidnahum, We increased them. As-Sa'di makes the link explicit, that the increase came because of their first guidance, and at-Tabari shows what it was worth: enough to trade a soft life for a cave. 18:14 then adds the binding of their hearts before they spoke. At each stage what they did was met with more than they had brought.",
+            "bn": "আয়াতটি ছোট, আর এর ক্রমের মধ্যেই শিক্ষা। ঈমান আনার কাজটা যুবকদের: আমানূ, তারা ঈমান আনল। বাড়িয়ে দেওয়ার কাজটা আল্লাহর: যিদনাহুম, আমি তাদের বাড়িয়ে দিলাম। সা'দী সম্পর্কটা স্পষ্ট করে দেন, বৃদ্ধি এসেছিল তাদের প্রথম হিদায়াতের কারণে। আর তাবারী দেখান তার মূল্য কত ছিল: নরম জীবনের বদলে একটা গুহা বেছে নেওয়ার মতো যথেষ্ট। এরপর ১৮:১৪ আয়াত জানায়, কথা বলার আগে তাদের অন্তর বেঁধে দেওয়া হয়েছিল। প্রতিটি ধাপে তারা যা করেছিল, তার জবাবে তারা পেয়েছিল নিজেদের আনা পুঁজির চেয়ে বেশি।"
+          },
+          {
+            "en": "That makes the verse a question to the reader rather than only a report about the past. What it describes is how guidance grows in anyone: through acting on what one already believes. The young reader is met by youths who did not wait to be older. The older reader is met by the elders of Quraysh who, in Ibn Kathir's words, were few but did become Muslims. The door the verse describes is the same for both.",
+            "bn": "তাই আয়াতটি শুধু অতীতের খবর নয়, পাঠকের সামনে একটা প্রশ্নও। এতে যা বর্ণিত, তা যে কারও মধ্যে হিদায়াত বাড়ার পথ: যা বিশ্বাস করি, সে অনুযায়ী আমল করা। তরুণ পাঠক এখানে দেখা পান এমন যুবকদের, যারা বয়স বাড়ার অপেক্ষায় বসে থাকেনি। বয়স্ক পাঠক দেখা পান কুরাইশের সেই বয়স্কদের, ইবন কাসীরের ভাষায় যারা সংখ্যায় অল্প, তবু ইসলাম গ্রহণ করেছিলেন। আয়াত যে দরজার কথা বলে, তা দুজনের জন্যই একই।"
+          }
+        ]
+      }
+    ]
+  },
   "18:15": {
     "sections": [
       {
