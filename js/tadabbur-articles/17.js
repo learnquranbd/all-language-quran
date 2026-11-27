@@ -2619,6 +2619,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:55": {
+    "sections": [
+      {
+        "h": {
+          "en": "Knowledge Stated Before Rank",
+          "bn": "মর্যাদার আগে জ্ঞানের ঘোষণা"
+        },
+        "p": [
+          {
+            "en": "Wa-rabbuka a'lamu bi-man fi as-samawati wa-l-ard: and your Lord knows best whoever is in the heavens and the earth. One verse earlier the address was plural, rabbukum a'lamu bikum, your Lord knows you best (17:54). Now the pronoun narrows to one listener. At-Tabari reads it as spoken to the Prophet ﷺ, your Lord, O Muhammad, and al-Muyassar glosses it the same way, O Messenger. In fifteen Arabic words the verse takes three steps: a statement of knowledge, a statement of rank, and one named gift.",
+            "bn": "ওয়া রাব্বুকা আ'লামু বিমান ফিস সামাওয়াতি ওয়াল আরদ: আসমান ও যমীনে যে-ই আছে, আপনার রব তাকে সবচেয়ে ভালো জানেন। এক আয়াত আগে সম্বোধন ছিল বহুবচনে, রাব্বুকুম আ'লামু বিকুম, তোমাদের রব তোমাদের সবচেয়ে ভালো জানেন (১৭:৫৪)। এখানে সম্বোধন এসে ঠেকেছে একজনে। তাবারী একে নবী ﷺ-এর প্রতি সম্বোধন হিসেবে পড়েন: হে মুহাম্মাদ, আপনার রব। মুয়াসসারও একই ব্যাখ্যা দেয়: হে রাসূল। আরবিতে পনেরোটি শব্দ, আর তাতে তিনটি ধাপ। প্রথমে জ্ঞানের কথা, তারপর মর্যাদার কথা, শেষে নাম ধরে একটি দানের উল্লেখ।"
+          },
+          {
+            "en": "Al-Qurtubi asks why the knowledge is stated again so soon after 17:54. The repetition, he says, shows that He is their Creator and that He made them differ in their characters, their forms and their conditions, and he quotes the question, does He not know, He who created? (67:14). Then he joins the verse's two halves: the prophets too were preferred, some over others, from His knowledge of their state. The rank in the second sentence rests on the knowledge in the first.",
+            "bn": "১৭:৫৪-এর এত কাছেই জ্ঞানের কথাটা আবার কেন এল, কুরতুবী সে প্রশ্ন তোলেন। তাঁর জবাব: এই পুনরাবৃত্তি দেখায় যে তিনিই তাদের স্রষ্টা, আর তিনিই তাদের স্বভাব, আকৃতি ও অবস্থায় ভিন্ন ভিন্ন করে গড়েছেন। এর পক্ষে তিনি উদ্ধৃত করেন সেই প্রশ্ন: যিনি সৃষ্টি করেছেন, তিনি কি জানবেন না? (৬৭:১৪)। তারপর আয়াতের দুই অংশকে তিনি জুড়ে দেন। নবীদেরও একজনকে অন্যজনের উপর মর্যাদা দেওয়া হয়েছে তাঁদের অবস্থা সম্পর্কে তাঁর জ্ঞান থেকেই। দ্বিতীয় বাক্যের মর্যাদা তাই দাঁড়িয়ে আছে প্রথম বাক্যের জ্ঞানের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No One Outside His Knowing",
+          "bn": "কেউই তাঁর জ্ঞানের বাইরে নয়"
+        },
+        "p": [
+          {
+            "en": "What exactly does He know of them? Ibn Kathir answers in a phrase: their ranks in obedience and in disobedience. At-Tabari gives a longer answer. Your Lord knows those in the heavens and the earth and what sets them right, because He created them, provides for them and directs their affairs. He knows best who is fit for repentance and mercy, and who is fit for punishment. On both readings He knows people as they are, not as they present themselves.",
+            "bn": "তাদের সম্পর্কে তিনি ঠিক কী জানেন? ইবন কাসীর এক কথায় উত্তর দেন: আনুগত্য ও নাফরমানিতে তাদের কার কোন স্তর। তাবারীর উত্তর আরেকটু দীর্ঘ। আসমান ও যমীনে যারা আছে, আপনার রব তাদের জানেন, আর জানেন কিসে তাদের কল্যাণ। কারণ তিনিই তাদের স্রষ্টা, তিনিই রিযিকদাতা, তিনিই তাদের সব কাজের পরিচালক। কে তওবা ও রহমতের যোগ্য আর কে শাস্তির যোগ্য, তা তিনিই সবচেয়ে ভালো জানেন। দুই ব্যাখ্যাতেই এ জ্ঞান মানুষের আসল অবস্থার জ্ঞান। মানুষ নিজেকে যেভাবে দেখায়, তার জ্ঞান নয়।"
+          },
+          {
+            "en": "At-Tabari then lets the divine voice continue. I guide to the truth the one for whom mercy and felicity have gone before from Me, and I leave astray the one for whom wretchedness and abandonment have gone before. So let that not weigh heavily on you. That is My doing with them, he adds, just as I preferred some prophets over others. On his reading the verse is a consolation to the Prophet ﷺ over those who refuse him, and the sentence about the prophets belongs to the same argument.",
+            "bn": "এরপর তাবারী আল্লাহর জবানিতেই কথাটা এগিয়ে নেন। যার জন্য আমার পক্ষ থেকে রহমত ও সৌভাগ্য আগেই নির্ধারিত হয়ে আছে, তাকে আমি সত্যের পথ দেখাই। আর যার জন্য দুর্ভাগ্য আর সাহায্য থেকে বঞ্চনা আগেই নির্ধারিত, তাকে পথহারা রাখি। কাজেই এ বিষয় যেন আপনার কাছে ভারী না ঠেকে। তিনি যোগ করেন, এ আমারই কাজ তাদের নিয়ে, যেমন আমি কতক নবীকে কতকের উপর মর্যাদা দিয়েছি। তাঁর পাঠে আয়াতটি নবী ﷺ-এর জন্য সান্ত্বনা, যারা তাঁকে প্রত্যাখ্যান করে তাদের ব্যাপারে। নবীদের নিয়ে বাক্যটিও সেই একই যুক্তির অংশ।"
+          },
+          {
+            "en": "Al-Baghawi and as-Sa'di widen the frame. Al-Baghawi says He made them differ in their forms, characters, conditions and religions, and relays, under the words it is said, that He made the dwellers of the heavens and the earth different just as He preferred some prophets over others. As-Sa'di takes in every kind of creature. He gives each what it deserves, as His wisdom requires, and prefers some over others in every quality, outward and inward. The preference of prophets is then one case of a wider law.",
+            "bn": "বাগাভী ও সা'দী পরিধিটা আরও বড় করেন। বাগাভী বলেন, তিনি তাদের আকৃতি, স্বভাব, অবস্থা ও ধর্মে ভিন্ন ভিন্ন করেছেন। 'বলা হয়' বলে তিনি আরেকটি মতও আনেন: যেমন কতক নবীকে কতকের উপর মর্যাদা দিয়েছেন, তেমনি আসমান ও যমীনের বাসিন্দাদেরও আলাদা আলাদা করে গড়েছেন। সা'দী সৃষ্টির সব শ্রেণিকেই এর আওতায় আনেন। প্রত্যেককে তিনি দেন যা তার প্রাপ্য, যেমন তাঁর হিকমত চায়। বাহ্যিক ও আত্মিক সব গুণে তিনি কাউকে কারও উপর শ্রেষ্ঠত্ব দেন। নবীদের মর্যাদার তারতম্য তখন এক বড় নিয়মেরই একটি উদাহরণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Preferred, but in What?",
+          "bn": "শ্রেষ্ঠত্ব, তবে কোন দিক থেকে?"
+        },
+        "p": [
+          {
+            "en": "Wa-la-qad faddalna ba'da an-nabiyyina 'ala ba'd: and We have preferred some of the prophets over others. The commentators name the grounds. At-Tabari: by sending some to a part of creation and others to all of it, and by raising some above others in degrees. Ibn Jurayj, in at-Tabari's chain, gives two examples: Allah spoke to Musa (AS), and He sent Muhammad ﷺ to all people. Al-Muyassar lists virtues, the number of followers, and the sending down of books.",
+            "bn": "ওয়া লাকাদ ফাদ্দালনা বা'দান নাবিয়্যীনা 'আলা বা'দ: আমি নবীদের কতককে কতকের উপর মর্যাদা দিয়েছি। মর্যাদার ভিত্তি কী, তাফসীরকারেরা তা খুলে বলেন। তাবারীর মতে, কাউকে পাঠানো হয়েছে সৃষ্টির এক অংশের কাছে, কাউকে সবার কাছে, আর কাউকে কারও উপর বহু স্তর উঁচু করা হয়েছে। তাবারীর সনদে ইবন জুরাইজ দুটি উদাহরণ দেন। আল্লাহ মূসা (আঃ)-এর সঙ্গে কথা বলেছেন, আর মুহাম্মাদ ﷺ-কে পাঠিয়েছেন সব মানুষের কাছে। মুয়াসসার গুনে দেয় তিনটি জিনিস: গুণাবলি, অনুসারীর সংখ্যা আর কিতাব নাযিল।"
+          },
+          {
+            "en": "As-Sa'di spells the list out further. The preference lies in merits and particular distinctions, all of them favours Allah granted: praised qualities, pleasing character, righteous deeds, many followers, and books sent down to some of them containing the laws of the Shari'a and sound beliefs. Ibn Kathir sets the parallel of 2:253 beside the verse: those messengers, We preferred some of them over others; among them were those to whom Allah spoke, and He raised some of them in degrees. That parallel is only cited here.",
+            "bn": "সা'দী তালিকাটা আরও বিস্তারিত করেন। এ মর্যাদা নানা গুণ ও বিশেষ বৈশিষ্ট্যে, আর এর সবই আল্লাহর দেওয়া অনুগ্রহ। প্রশংসনীয় গুণ, পছন্দনীয় চরিত্র, নেক আমল, অনুসারীর আধিক্য, আর কারও কারও উপর এমন কিতাব নাযিল, যাতে আছে শরীয়তের বিধান ও সঠিক আকীদা। ইবন কাসীর এর পাশে রাখেন ২:২৫৩: ওই রাসূলগণ, তাঁদের কতককে আমি কতকের উপর মর্যাদা দিয়েছি; তাঁদের কারও সঙ্গে আল্লাহ কথা বলেছেন, আর কাউকে বহু স্তর উঁচু করেছেন। সমান্তরাল আয়াতটির কথা এখানে শুধু উল্লেখ করে রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qatada's Catalogue of Gifts",
+          "bn": "কাতাদার গণনায় নবীদের দান"
+        },
+        "p": [
+          {
+            "en": "Qatada, in at-Tabari and in al-Baghawi, explains the verse with a list. Allah took Ibrahim (AS) as an intimate friend, and spoke to Musa (AS) directly. He made 'Isa (AS) like Adam, created from dust and then told, Be, and he was; at-Tabari's version adds that he is the servant of Allah and His messenger, from His word and His spirit. He gave Sulayman (AS) a kingdom that befits no one after him, and gave Dawud (AS) the Zabur. At-Tabari's version ends: and He forgave Muhammad ﷺ his sins, past and to come.",
+            "bn": "তাবারী ও বাগাভী দুজনেই কাতাদার একটি তালিকা উদ্ধৃত করেন। আল্লাহ ইবরাহীম (আঃ)-কে খলীল, অর্থাৎ অন্তরঙ্গ বন্ধু হিসেবে গ্রহণ করেছেন। মূসা (আঃ)-এর সঙ্গে সরাসরি কথা বলেছেন। ঈসা (আঃ)-কে করেছেন আদমের মতো, মাটি থেকে সৃষ্টি, তারপর বলেছেন 'হও', আর তিনি হয়ে গেছেন। তাবারীর বর্ণনায় আরও আছে, তিনি আল্লাহর বান্দা ও রাসূল, তাঁর কালিমা ও রূহ থেকে। সুলায়মান (আঃ)-কে দিয়েছেন এমন রাজত্ব যা তাঁর পরে আর কারও জন্য শোভা পায় না। দাঊদ (আঃ)-কে দিয়েছেন যাবূর। তাবারীর বর্ণনা শেষ হয় এভাবে: আর মুহাম্মাদ ﷺ-এর আগের ও পরের গুনাহ তিনি মাফ করে দিয়েছেন।"
+          },
+          {
+            "en": "The list is not a ladder with one prophet on each rung. Each name is paired with a gift of a different kind: friendship, direct speech, creation by a word, a kingdom, a book, forgiveness. Read this way, preference looks like a variety of honour as much as an order of rank. And the verse itself does the same thing in its last clause, setting aside every other name to mention one prophet and one gift.",
+            "bn": "তালিকার গড়নটা খেয়াল করুন। এটা কোনো সিঁড়ি নয় যার প্রতিটি ধাপে একজন করে নবী দাঁড়িয়ে আছেন। প্রত্যেক নামের সঙ্গে জোড়া লেগেছে ভিন্ন ধরনের একটি দান: বন্ধুত্ব, সরাসরি কথা, 'হও' শব্দে সৃষ্টি, রাজত্ব, কিতাব, ক্ষমা। এভাবে পড়লে মর্যাদার তারতম্য যতটা ক্রম, ততটাই সম্মানের বৈচিত্র্য। আয়াতটিও তার শেষ অংশে ঠিক এ কাজটাই করে। আর সব নাম বাদ রেখে উল্লেখ করে একজন নবী আর একটি দানের কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Slap Over Two Prophets",
+          "bn": "দুই নবীকে নিয়ে এক থাপ্পড়"
+        },
+        "p": [
+          {
+            "en": "Set beside this verse a report in Sahih al-Bukhari (3414), from Abu Hurayra (RA). A Jew offering his goods was given a price he disliked and swore, no, by Him who chose Musa over mankind. A man of the Ansar heard him, rose and struck his face: you say that while the Prophet ﷺ is among us? The Jew went to the Prophet ﷺ and said, Abu al-Qasim, I have a covenant of protection; why did so-and-so strike my face? The man told what had happened, and the Prophet ﷺ grew angry until it showed in his face.",
+            "bn": "এ আয়াতের পাশে রাখা যায় সহীহ বুখারীর একটি বর্ণনা (৩৪১৪), আবু হুরায়রা (রাঃ) থেকে। এক ইহুদি তার পণ্য বিক্রি করছিল। তাকে এমন দাম বলা হলো যা তার পছন্দ হয়নি। সে কসম খেয়ে বলল, না, সেই সত্তার কসম যিনি মূসাকে সব মানুষের উপর বেছে নিয়েছেন। এক আনসারী তা শুনে উঠে গিয়ে তার মুখে চড় মারলেন: নবী ﷺ আমাদের মাঝে থাকতেই তুমি এ কথা বলছ? ইহুদি লোকটি নবী ﷺ-এর কাছে গিয়ে বলল, হে আবুল কাসিম, আমার নিরাপত্তার অঙ্গীকার আছে, তাহলে অমুক কেন আমার মুখে চড় মারল? লোকটি পুরো ঘটনা জানালেন। নবী ﷺ এত রেগে গেলেন যে তা তাঁর চেহারায় ফুটে উঠল।"
+          },
+          {
+            "en": "Then he said: \"Do not prefer between the prophets of Allah. For the Trumpet will be blown, and whoever is in the heavens and whoever is on the earth will swoon, except whom Allah wills. Then it will be blown again, and I will be the first to be raised, and there will be Musa, holding the Throne. I do not know whether he was credited with his swoon on the Day of at-Tur, or was raised before me. And I do not say that anyone is better than Yunus ibn Matta.\"",
+            "bn": "তারপর তিনি বললেন: \"আল্লাহর নবীদের মধ্যে একজনকে আরেকজনের উপর শ্রেষ্ঠ বানিয়ো না। কেননা শিঙায় ফুঁ দেওয়া হবে, তখন আসমানে যারা আছে আর যমীনে যারা আছে সবাই বেহুঁশ হয়ে পড়বে, আল্লাহ যাদের চান তারা ছাড়া। তারপর আবার ফুঁ দেওয়া হবে, আর আমিই সবার আগে উঠব। তখন দেখব মূসা আরশ ধরে আছেন। আমি জানি না, তূরের দিনের বেহুঁশ হওয়াটা তাঁর হিসাবে ধরা হয়েছে, নাকি তিনি আমার আগেই উঠে গেছেন। আর আমি বলি না যে কেউ ইউনুস ইবন মাত্তার চেয়ে উত্তম।\""
+          },
+          {
+            "en": "A second report in al-Bukhari (2411), also from Abu Hurayra (RA), tells of a quarrel in which a Muslim swore by Him who chose Muhammad over the worlds and a Jew swore by Him who chose Musa, and the Muslim struck the Jew. There the Prophet ﷺ said not to prefer him over Musa, and described the same scene at the Throne. Neither report is tied to this verse as its occasion of revelation; Ibn Kathir brings the prohibition in as a general ruling.",
+            "bn": "বুখারীতে আবু হুরায়রা (রাঃ) থেকে আরেকটি বর্ণনা আছে (২৪১১)। এক ঝগড়ায় একজন মুসলিম কসম খেলেন সেই সত্তার, যিনি মুহাম্মাদকে জগৎবাসীর উপর বেছে নিয়েছেন। এক ইহুদি কসম খেল সেই সত্তার, যিনি মূসাকে বেছে নিয়েছেন। মুসলিম লোকটি ইহুদির মুখে চড় মারলেন। সেখানে নবী ﷺ বললেন, তাঁকে যেন মূসার উপর শ্রেষ্ঠ বলা না হয়, আর আরশের কাছের সেই একই দৃশ্যের কথা বললেন। কোনো বর্ণনাই এ আয়াতের নাযিলের উপলক্ষ হিসেবে যুক্ত নয়। ইবন কাসীর নিষেধটি আনেন একটি সাধারণ বিধান হিসেবে, এখানেও সেভাবেই আনা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Evidence, Not Partisan Zeal",
+          "bn": "দলীল চাই, দলাদলি নয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir faces the tension directly. This verse, he says, does not contradict what is established in the two Sahihs, that the Messenger ﷺ said, do not prefer between the prophets. What the prohibition targets is preference out of mere liking and partisan zeal, at-tashahhi wa-l-'asabiyya, not preference that evidence requires. When evidence points to something, it must be followed. On his reading, the verse affirms a ranking that Allah Himself made; the hadith forbids a ranking that people make from their own attachments.",
+            "bn": "ইবন কাসীর টানাপোড়েনটার মুখোমুখি হন সরাসরি। তিনি বলেন, এ আয়াত দুই সহীহ গ্রন্থে প্রমাণিত সেই হাদীসের বিরোধী নয়, যেখানে রাসূল ﷺ বলেছেন, নবীদের মধ্যে একজনকে আরেকজনের উপর শ্রেষ্ঠ বানিয়ো না। নিষেধটা হলো শুধু মনের খেয়াল আর দলীয় গোঁড়ামি থেকে শ্রেষ্ঠত্ব দেওয়া, আরবিতে আত-তাশাহ্হী ওয়াল 'আসাবিয়্যা। দলীল যেখানে শ্রেষ্ঠত্ব দেখায়, সেটা নিষেধের আওতায় নয়। দলীল কোনো দিকে ইঙ্গিত করলে তা মানতেই হবে। তাঁর ব্যাখ্যায়, আয়াত যে তারতম্যের কথা বলে তা আল্লাহর নিজের করা। হাদীস যে তারতম্য নিষেধ করে, তা মানুষ বানায় নিজের টান থেকে।"
+          },
+          {
+            "en": "He then gives the ranks that he says the evidence sets. There is no disagreement, he writes, that the messengers are above the other prophets, and that the Ulu al-'Azm, the messengers of firm resolve, are the best of them: the five named together in two verses, 33:7 and 42:13. And there is no disagreement that Muhammad ﷺ is the best of them, then Ibrahim (AS), then Musa (AS) on the best-known view. He adds that he has set out the proofs for this elsewhere.",
+            "bn": "এরপর তিনি দলীলের ভিত্তিতে স্তরগুলো জানান। তিনি লেখেন, এতে কোনো মতভেদ নেই যে রাসূলগণ অন্য নবীদের চেয়ে শ্রেষ্ঠ। আর রাসূলদের মধ্যে শ্রেষ্ঠ হলেন উলুল আযম, অর্থাৎ দৃঢ় সংকল্পের রাসূলগণ। তাঁরা সেই পাঁচজন, দুটি আয়াতে যাঁদের নাম একসঙ্গে এসেছে: ৩৩:৭ ও ৪২:১৩। এতেও মতভেদ নেই যে তাঁদের মধ্যে সবার শ্রেষ্ঠ মুহাম্মাদ ﷺ। প্রসিদ্ধ মত অনুযায়ী তারপর ইবরাহীম (আঃ), তারপর মূসা (আঃ)। তিনি জানান, এর দলীলগুলো তিনি অন্য জায়গায় বিস্তারিত বলেছেন।"
+          },
+          {
+            "en": "Of the commentaries fetched for this verse, only Ibn Kathir takes up the hadith. Al-Qurtubi notes that the question was discussed under al-Baqara and does not repeat it here. The reports show something more. Both were spoken over a quarrel in which one man struck another for the sake of a prophet, and in the first the man struck was under a covenant of protection. He brought his complaint to the Prophet ﷺ, and he was heard.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার মধ্যে কেবল ইবন কাসীরই হাদীসটি নিয়ে আলোচনা করেছেন। কুরতুবী শুধু জানান, বিষয়টি সূরা বাকারায় আলোচিত হয়েছে, এখানে তিনি তা আর দোহরান না। বর্ণনাগুলো নিজেরাই একটা জিনিস দেখায়, যা খেয়াল করার মতো। দুটি কথাই বলা হয়েছিল এমন ঝগড়ার প্রেক্ষিতে, যেখানে একজন নবীর মর্যাদার নামে একজন আরেকজনকে মেরেছে। প্রথম বর্ণনায় যাকে মারা হয়েছিল, সে ছিল নিরাপত্তার অঙ্গীকারভুক্ত। সে তার অভিযোগ নিয়ে নবী ﷺ-এর কাছে এসেছিল, আর তার কথা শোনা হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Dawud and His Book",
+          "bn": "কেন দাঊদ (আঃ) ও তাঁর কিতাব"
+        },
+        "p": [
+          {
+            "en": "Wa-atayna Dawuda zabura: and to Dawud We gave the Zabur. Ibn Kathir calls the clause a pointer to his virtue and honour, and cites al-Bukhari. In Sahih al-Bukhari (4713), from Abu Hurayra (RA), the Prophet ﷺ said: \"The recitation was made light for Dawud. He would order his mount to be saddled, and he would recite before the saddling was done.\" A narrator adds, meaning the Qur'an, which the English abridgement of Ibn Kathir reads as Dawud's scripture, the Zabur.",
+            "bn": "ওয়া আতাইনা দাঊদা যাবূরা: আর দাঊদকে আমি দিয়েছি যাবূর। ইবন কাসীর বলেন, এ বাক্য তাঁর ফযীলত ও মর্যাদার দিকে ইঙ্গিত। এর পক্ষে তিনি বুখারী উদ্ধৃত করেন। সহীহ বুখারীতে (৪৭১৩) আবু হুরায়রা (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: \"দাঊদের জন্য তিলাওয়াত সহজ করে দেওয়া হয়েছিল। তিনি তাঁর বাহনে জিন কষার আদেশ দিতেন, আর জিন কষা শেষ হওয়ার আগেই তিনি তিলাওয়াত করে ফেলতেন।\" এক বর্ণনাকারী যোগ করেছেন, অর্থাৎ কুরআন। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ একে দাঊদ (আঃ)-এর নিজের কিতাব, যাবূর, অর্থে ধরেছে।"
+          },
+          {
+            "en": "Three commentators hear an argument in the clause. Al-Qurtubi: as We gave Dawud the Zabur, do not deny that Muhammad ﷺ is given the Qur'an; this, he says, was part of the debate with the Jews. Al-Baghawi: you did not deny that prophets are preferred, so how do you deny the merit of the Prophet ﷺ and his receiving the Qur'an? He says it addresses those of the People of the Book and others who accept that preference. As-Sa'di turns it on all who denied Muhammad ﷺ and what was sent down to him.",
+            "bn": "তিনজন তাফসীরকার এ বাক্যে একটি যুক্তি শোনেন। কুরতুবী বলেন, আমি যেমন দাঊদকে যাবূর দিয়েছি, তেমনি মুহাম্মাদ ﷺ-কে কুরআন দেওয়া হয়েছে, এটা অস্বীকার কোরো না। তাঁর মতে কথাটা ইহুদিদের সঙ্গে বিতর্কের অংশ। বাগাভী বলেন, নবীদের মধ্যে মর্যাদার তারতম্য তোমরা অস্বীকার করোনি, তাহলে নবী ﷺ-এর মর্যাদা আর তাঁকে কুরআন দেওয়াকে কীভাবে অস্বীকার করো? তাঁর মতে আহলে কিতাব ও অন্যদের মধ্যে যারা এ তারতম্য মানে, কথাটা তাদের উদ্দেশে। সা'দী একে প্রয়োগ করেন তাদের সবার উপর, যারা মুহাম্মাদ ﷺ-কে আর তাঁর উপর যা নাযিল হয়েছে তা অস্বীকার করেছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an offers another reason, with a perhaps: the Zabur reports that the Prophet ﷺ would be a ruler as well as a messenger, and it cites 21:105, We have written in the Zabur that the land is inherited by My righteous servants. As for the book itself, Qatada in at-Tabari says, we used to be told: a prayer taught to Dawud, praise and glorification, with nothing of lawful or unlawful, obligations or limits. Al-Qurtubi gives the same description without naming anyone, and al-Baghawi adds that it has a hundred and fifty surahs.",
+            "bn": "মাআরিফুল কুরআন 'সম্ভবত' বলে আরেকটি কারণ দেখায়। যাবূরে খবর আছে যে নবী ﷺ রাসূল হওয়ার পাশাপাশি শাসকও হবেন। এর পক্ষে সে আনে ২১:১০৫: আমি যাবূরে লিখে দিয়েছি যে যমীনের উত্তরাধিকারী হবে আমার নেক বান্দারা। আর কিতাবটি নিজে কেমন? তাবারীতে কাতাদা বলেন, আমাদের বলা হতো, এটা দাঊদকে শেখানো এক দোয়া, আল্লাহর হামদ আর মহিমার বর্ণনা। এতে হালাল-হারাম নেই, ফরয বা হুদূদ নেই। কুরতুবী কারও নাম না নিয়ে একই বর্ণনা দেন। বাগাভী যোগ করেন, এতে একশো পঞ্চাশটি সূরা আছে।"
+          },
+          {
+            "en": "The argument these commentators hear was addressed to people who disputed the Prophet's ﷺ book in his own time. It describes that dispute and licenses nothing against any living person or community. The report above already showed as much: the man who was struck had a covenant of protection, and the Prophet ﷺ heard his complaint. Rank among the prophets was never given as a reason to wrong anyone.",
+            "bn": "তাফসীরকারেরা যে যুক্তির কথা বলেন, তা ছিল নবী ﷺ-এর যুগে তাঁর কিতাব নিয়ে যারা বিতর্ক করত তাদের উদ্দেশে। আয়াতটি সেই বিতর্কের বর্ণনা দেয়, আজকের কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। উপরের বর্ণনাতেও তা-ই দেখা গেছে: যাকে মারা হয়েছিল তার নিরাপত্তার অঙ্গীকার ছিল, আর নবী ﷺ তার অভিযোগ শুনেছিলেন। নবীদের মর্যাদার তারতম্য কখনো কারও উপর অন্যায়ের কারণ হিসেবে দেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honour Without a Contest",
+          "bn": "পাল্লাপাল্লি ছাড়া সম্মান"
+        },
+        "p": [
+          {
+            "en": "The verse stands inside a longer passage. Just before it, 17:54 tells the Prophet ﷺ that he was not sent as a guardian over them, and just after it, 17:56 and 17:57 turn to those invoked besides Allah, who themselves seek a means to their Lord, each hoping to be nearest. The thread is plain: who is near, who is preferred and who is guided are all matters of His knowledge.",
+            "bn": "আয়াতটি একটি দীর্ঘ আলোচনার ভেতরে বসানো। ঠিক আগে ১৭:৫৪ নবী ﷺ-কে জানায়, তাঁকে তাদের উপর দায়িত্বশীল করে পাঠানো হয়নি। ঠিক পরে ১৭:৫৬ ও ১৭:৫৭ ফিরে তাকায় আল্লাহ ছাড়া যাদের ডাকা হয় তাদের দিকে। তারা নিজেরাই রবের কাছে পৌঁছার উপায় খোঁজে, কে কত কাছে যেতে পারে। সে আয়াতগুলো আলাদা পাঠের দাবি রাখে। এখানে শুধু সুতোটা ধরা যথেষ্ট: কে কাছে, কে মর্যাদায় এগিয়ে, কে হেদায়েত পায়, সবই তাঁর জ্ঞানের বিষয়।"
+          },
+          {
+            "en": "For a reader the verse sets a double task. Believe what it says, that the prophets differ in honour and that Allah made them differ. And refuse what the hadith refuses, a comparison carried on for the sake of a side. Love of the Prophet ﷺ is not shown by belittling Musa (AS) or Yunus (AS); it is shown by following him. And the only prophet named here was given a book of praise: a quiet hint of where knowing His ranking should lead.",
+            "bn": "পাঠকের সামনে আয়াতটি দুটি কাজ রাখে। প্রথমত, আয়াত যা বলে তা বিশ্বাস করা: নবীরা মর্যাদায় ভিন্ন, আর এ ভিন্নতা আল্লাহরই সৃষ্টি। দ্বিতীয়ত, হাদীস যা নিষেধ করে তা থেকে দূরে থাকা: কোনো পক্ষ নিয়ে লড়ার জন্য তুলনা। মূসা (আঃ) বা ইউনুস (আঃ)-কে ছোট করে নবী ﷺ-এর প্রতি ভালোবাসা দেখানো যায় না। সে ভালোবাসা দেখা যায় তাঁর অনুসরণে। আর এখানে নাম ধরে যে নবীর কথা এসেছে, তাঁকে দেওয়া হয়েছিল প্রশংসার কিতাব। তাঁর করা মর্যাদার জ্ঞান শেষে কোথায় নিয়ে যাওয়ার কথা, এ যেন তারই নীরব ইঙ্গিত।"
+          }
+        ]
+      }
+    ]
+  },
   "17:59": {
     "sections": [
       {

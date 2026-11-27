@@ -33723,6 +33723,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Give full measure and weigh with a true balance in every dealing, even when no one is checking; honest measure is better now and finer in where it leads.",
     "lessonBn": "প্রতিটি লেনদেনে পুরো মাপ দিন, সঠিক পাল্লায় ওজন করুন, কেউ যাচাই না করলেও। সৎ মাপ আজও উত্তম, পরিণামেও সুন্দর।"
+  },
+  "17:55": {
+    "reflectionEn": "People argue about who is greater: whose teacher, whose imam, even whose prophet. This verse begins somewhere else. Your Lord knows best everyone in the heavens and the earth. He gave the prophets different gifts and raised some above others, and to Dawud He gave the Zabur. The ranking is real, but it is His, made from a knowledge we do not have. Our part is to honour every one of them and to follow the one sent to us. Once a comparison turns into a contest, it is no longer about the prophets; it is about us. Do I praise the people I love by pulling others down? And do I ask what a gift asks of me, or only how it ranks?",
+    "reflectionBn": "কে বড়, এ নিয়ে মানুষের তর্ক থামে না। কার উস্তাদ বড়, কার ইমাম বড়, এমনকি কার নবী বড়। আয়াতটি শুরু করে অন্য জায়গা থেকে: আসমান ও যমীনে যারা আছে, আপনার রব তাদের সবচেয়ে ভালো জানেন। তিনিই নবীদের ভিন্ন ভিন্ন দান দিয়েছেন, কাউকে কারও উপর মর্যাদা দিয়েছেন, আর দাঊদ (আঃ)-কে দিয়েছেন যাবূর। মর্যাদার এই তারতম্য সত্য, তবে তা তাঁরই করা, এমন জ্ঞান থেকে যা আমাদের নেই। আমাদের কাজ হলো প্রত্যেক নবীকে সম্মান করা, আর যাঁকে আমাদের কাছে পাঠানো হয়েছে তাঁর অনুসরণ করা। তুলনা যখন পাল্লাপাল্লিতে গড়ায়, তখন আলোচনাটা আর নবীদের নিয়ে থাকে না, হয়ে যায় আমাদের নিজেদের নিয়ে। যাদের ভালোবাসি, তাদের প্রশংসা করতে গিয়ে আমি কি অন্যদের ছোট করি? কোনো দান দেখে আমি কি ভাবি সে আমার কাছে কী চায়, নাকি শুধু খুঁজি কার স্থান কত উঁচু?",
+    "pointsEn": [
+      "When I speak of the scholars, teachers or groups I love, do I raise them by pushing someone else down?",
+      "Have I ever turned a question of virtue into a quarrel in which winning mattered more than the truth?",
+      "Which gift has Allah given me that is unlike another person's, and am I using it, or only envying theirs?",
+      "Dawud was given a book of praise and prayer; how much of my own speech this week was praise of my Lord?",
+      "Before I rank anyone, do I remember that Allah knows every person in the heavens and the earth better than I do?"
+    ],
+    "pointsBn": [
+      "যে আলেম, উস্তাদ বা দলকে আমি ভালোবাসি, তাদের কথা বলতে গিয়ে আমি কি অন্য কাউকে নামিয়ে তাদের উপরে তুলি?",
+      "মর্যাদার কোনো প্রশ্নকে আমি কি কখনো এমন ঝগড়ায় পরিণত করেছি, যেখানে সত্যের চেয়ে জেতাটাই বড় হয়ে উঠেছিল?",
+      "আল্লাহ আমাকে এমন কোন দান দিয়েছেন যা অন্যের চেয়ে আলাদা? আমি কি সেটা কাজে লাগাচ্ছি, নাকি শুধু অন্যের দানের দিকে তাকিয়ে হিংসা করছি?",
+      "দাঊদ (আঃ)-কে দেওয়া হয়েছিল প্রশংসা আর দোয়ার কিতাব। এ সপ্তাহে আমার মুখের কথার কতটুকু ছিল আমার রবের প্রশংসা?",
+      "কাউকে উঁচু-নিচু করার আগে আমার কি মনে থাকে যে আসমান ও যমীনের প্রতিটি মানুষকে আল্লাহ আমার চেয়ে অনেক ভালো জানেন?"
+    ],
+    "lessonEn": "Honour every prophet and leave the ranking of His servants to Allah, who knows them best; never let talk of virtue turn into rivalry or contempt.",
+    "lessonBn": "প্রত্যেক নবীকে সম্মান করুন, আর বান্দাদের মর্যাদা নির্ধারণের ভার ছেড়ে দিন আল্লাহর উপর, যিনি তাদের সবচেয়ে ভালো জানেন। মর্যাদার আলোচনাকে কখনো রেষারেষি বা অবজ্ঞায় গড়াতে দেবেন না।"
   }
 };
 
