@@ -36053,6 +36053,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The message has reached you and its witness stands ready. Hold nothing beside Allah that you could not defend with proof on the Day every invention falls away.",
     "lessonBn": "বার্তা আপনার কাছে পৌঁছে গেছে, তার সাক্ষীও প্রস্তুত। যেদিন সব মনগড়া জিনিস হারিয়ে যাবে, সেদিন যার পক্ষে প্রমাণ দেখাতে পারবেন না, এমন কিছুই আল্লাহর পাশে রাখবেন না।"
+  },
+  "28:29": {
+    "reflectionEn": "The term is over. The agreement made in Madyan has been kept, and the man who arrived alone and in need now leaves with a household of his own. On the road the night turns cold and the way is lost, and then a fire shows on the side of the Mount. He does not lead everyone toward it. He tells them to wait and goes himself, and he speaks in perhaps: perhaps news of the road, perhaps a burning brand to warm them. He promises nothing he cannot be sure of. He does not yet know that at this fire his Lord will call him. Do I keep my agreements to the very end? And when those in my care are cold and lost, do I go myself?",
+    "reflectionBn": "মেয়াদ শেষ। মাদইয়ানে যে চুক্তি হয়েছিল, তা পুরোপুরি রক্ষা হয়েছে। যে মানুষটি একা, নিঃস্ব অবস্থায় এসেছিলেন, তিনি এখন নিজের পরিবার নিয়ে ফিরছেন। পথে রাত ঠান্ডা হয়ে আসে, রাস্তাও হারিয়ে যায়। তখনই তূর পাহাড়ের এক পাশে আগুন চোখে পড়ে। সবাইকে নিয়ে তিনি সেদিকে রওনা হন না। পরিবারকে অপেক্ষা করতে বলে নিজেই এগিয়ে যান। মুখে বলেন হয়তো: হয়তো পথের খবর আনব, হয়তো আগুন পোহানোর জন্য একখণ্ড জ্বলন্ত কাঠ। যা নিশ্চিত নয়, তার কথা তিনি দেন না। তিনি তখনো জানেন না, এই আগুনের কাছেই তাঁর রব তাঁকে ডাকবেন। আমি কি নিজের চুক্তি একেবারে শেষ পর্যন্ত রক্ষা করি? আর আমার দায়িত্বে থাকা মানুষেরা যখন শীতে কাঁপে, পথ হারায়, তখন কি নিজে উঠে যাই?",
+    "pointsEn": [
+      "Which promise am I keeping only to its minimum, when I could still complete it the fuller way?",
+      "When the people in my care are cold, tired or lost, do I send someone else, or do I go myself?",
+      "Do I say perhaps when I am unsure, or do I promise people more than I can bring back?",
+      "Has an ordinary errand for my family ever led me somewhere far greater than I set out for?",
+      "Where am I walking right now in the dark, and do I trust Allah with what waits at the end of it?"
+    ],
+    "pointsBn": [
+      "কোন প্রতিশ্রুতি আমি শুধু ন্যূনতমটুকু রক্ষা করছি, অথচ চাইলে এখনো পুরোটা পূর্ণ করতে পারি?",
+      "আমার দায়িত্বে থাকা মানুষেরা যখন শীতে, ক্লান্তিতে বা পথ হারিয়ে কষ্ট পায়, তখন কি অন্য কাউকে পাঠাই, নাকি নিজেই যাই?",
+      "নিশ্চিত না হলে কি আমি হয়তো বলি, নাকি যা এনে দিতে পারব না তারও কথা দিয়ে ফেলি?",
+      "পরিবারের জন্য কোনো সাধারণ কাজে বেরিয়ে কি কখনো এমন কিছুর দেখা পেয়েছি, যা আমার ভাবনার চেয়ে অনেক বড়?",
+      "অন্ধকারে আমি এখন কোন পথে হাঁটছি? তার শেষে যা অপেক্ষা করছে, সে ব্যাপারে কি আল্লাহর উপর ভরসা রাখি?"
+    ],
+    "lessonEn": "Keep your agreements to their fullest, go yourself to meet the needs of those in your care, and promise only what you can truly bring.",
+    "lessonBn": "চুক্তি পুরোপুরি রক্ষা করুন, দায়িত্বে থাকা মানুষের প্রয়োজন মেটাতে নিজে এগিয়ে যান, আর যা সত্যিই এনে দিতে পারবেন শুধু তারই কথা দিন।"
   }
 };
 

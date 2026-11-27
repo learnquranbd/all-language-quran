@@ -1327,6 +1327,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "28:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "When the Term Was Done",
+          "bn": "মেয়াদ যখন ফুরোল"
+        },
+        "p": [
+          {
+            "en": "Fa-lamma qada Musa al-ajal: and when Musa (AS) had completed the term. The verse picks up the agreement struck in 28:27 and 28:28, where the old man of Madyan offered one of his daughters in marriage in return for eight years of service, with ten left to Musa's own generosity. Al-Baghawi glosses qada as having fulfilled the term and finished with it. At-Tabari states the sense in full: Musa paid his companion the term they had settled on when the old man married his daughter to him.",
+            "bn": "ফালাম্মা কাদা মূসাল আজাল: অতঃপর মূসা (আঃ) যখন মেয়াদ পূর্ণ করলেন। ২৮:২৭ ও ২৮:২৮ আয়াতে যে চুক্তি হয়েছিল, আয়াতটি সেখান থেকেই কথা তোলে। মাদইয়ানের বৃদ্ধ মানুষটি ৮ বছর কাজের বিনিময়ে নিজের দুই মেয়ের একজনকে বিয়ে দেওয়ার প্রস্তাব দিয়েছিলেন, আর ১০ বছর পূর্ণ করার ব্যাপারটা ছেড়ে দিয়েছিলেন মূসার নিজের উদারতার উপর। বাগাভী কাদা শব্দের ব্যাখ্যায় বলেন: মেয়াদ পূর্ণ করলেন, তার কাজ শেষ করলেন। তাবারী পুরো অর্থটা খুলে বলেন। মেয়ের সঙ্গে বিয়ে দেওয়ার সময় সঙ্গীর সঙ্গে যে মেয়াদ ঠিক হয়েছিল, মূসা তা পুরোপুরি আদায় করে দিলেন।"
+          },
+          {
+            "en": "Between the agreement and this verse the Qur'an says nothing about the years themselves. Eight or ten years of work fold into a single clause, and the story moves at once to a road, a household and a night. It records only that Musa (AS) finished what he had undertaken, then turns to what followed the kept promise: a journey, and a fire seen at a distance.",
+            "bn": "চুক্তি আর এই আয়াতের মাঝখানের বছরগুলো নিয়ে কুরআন কিছুই বলে না। ৮ বা ১০ বছরের খাটুনি গুটিয়ে আছে একটিমাত্র বাক্যাংশে। তারপরই কাহিনি সোজা চলে যায় পথে, পরিবারে, এক রাতে। আয়াত শুধু জানায়, মূসা (আঃ) যে দায়িত্ব নিয়েছিলেন তা শেষ করলেন। এরপর নজর ফেরায় কথা রাখার পরের ঘটনায়: এক যাত্রা, আর দূরে দেখা এক আগুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking the Scholar of the Arabs",
+          "bn": "আরবের সেরা আলেমের কাছে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Which of the two terms? The verse does not say, and the question was asked early. Sahih al-Bukhari, number 2684, records it in this English rendering: \"Narrated Sa`id bin Jubair: A Jew from Hira asked me which one of the two periods Musa (i.e. Prophet Moses) completed. I said, 'I don't know, (but wait) till I see the most learned 'Arab and inquire him about it.' So, I went to Ibn `Abbas and asked him. He replied, 'Moses completed the longer and better period.' Ibn `Abbas added, 'No doubt, an apostle of Allah always does what he says.'\"",
+            "bn": "দুই মেয়াদের কোনটি? আয়াত তা বলে না, আর প্রশ্নটা উঠেছিল অনেক আগেই। সহীহ বুখারীর ২৬৮৪ নম্বরে তা এসেছে। ইংরেজি পাঠের অনুবাদ: \"সাঈদ ইবন জুবাইর বলেন, হীরার এক ইহুদি আমাকে জিজ্ঞেস করল, মূসা (অর্থাৎ নবী মূসা) দুই মেয়াদের কোন একটি পূর্ণ করেছিলেন। আমি বললাম, 'জানি না, (তবে অপেক্ষা করো) আরবের সবচেয়ে জ্ঞানী মানুষটির সঙ্গে দেখা করে তাঁকে জিজ্ঞেস করি।' তাই আমি ইবন আব্বাসের কাছে গিয়ে জিজ্ঞেস করলাম। তিনি বললেন, 'মূসা দীর্ঘতর ও উত্তম মেয়াদটি পূর্ণ করেছিলেন।' ইবন আব্বাস আরও বললেন, 'নিঃসন্দেহে আল্লাহর রাসূল যা বলেন, সবসময় তা করেন।'\""
+          },
+          {
+            "en": "This is Ibn 'Abbas's own answer, not a saying of the Prophet ﷺ, and al-Bukhari placed it in his Sahih. It is also quoted at 28:27, where the two terms are offered; it belongs here too, since this is the verse that says the term was completed. Ibn 'Abbas gives a reason, not a bare figure: a messenger of Allah does what he says. Ma'arif al-Qur'an adds that prophets fulfil their commitments and do more than they agreed to.",
+            "bn": "এটি ইবন আব্বাস (রাঃ)-এর নিজের জবাব, নবী ﷺ-এর বাণী নয়। বুখারী একে তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন। দুই মেয়াদের প্রস্তাব যেখানে আসে, সেই ২৮:২৭ আয়াতের আলোচনাতেও বর্ণনাটি উদ্ধৃত হয়েছে। তবে এখানেও এর জায়গা আছে, কারণ মেয়াদ পূর্ণ হওয়ার কথা বলছে এই আয়াতই। ইবন আব্বাস শুধু সংখ্যা বলে থামেননি, কারণও দেখিয়েছেন: আল্লাহর রাসূল যা বলেন, তা করেন। মাআরিফুল কুরআন যোগ করে, নবীরা অঙ্গীকার পূরণ করেন, বরং যতটুকু কথা দেন তার চেয়ে বেশিই করেন।"
+          },
+          {
+            "en": "At-Tabari gathers the same answer through several routes from Sa'id ibn Jubayr, its wording shifting a little each time: the better and more faithful of them; the more complete and the better; the later of the two. In one route the questioner is a Jew at Kufa, and Ibn 'Abbas adds that a prophet who promises does not break his word. In another a Christian asks, and Ibn 'Abbas reasons it out: the eight were binding and Musa (AS) would not cut them short, and Allah would see his promise fulfilled, so he completed ten.",
+            "bn": "সাঈদ ইবন জুবাইর থেকে একই জবাব তাবারী কয়েকটি সূত্রে একত্র করেছেন, আর প্রতিবার শব্দ খানিকটা বদলায়। কোথাও দুটির মধ্যে উত্তম ও বেশি পূর্ণাঙ্গটি, কোথাও বেশি সম্পূর্ণ ও উত্তমটি, কোথাও দুটির শেষেরটি। এক সূত্রে প্রশ্নকারী কুফার এক ইহুদি, আর ইবন আব্বাস সেখানে যোগ করেন, নবী কথা দিলে তা ভাঙেন না। আরেক সূত্রে প্রশ্ন করেন এক খ্রিষ্টান, আর ইবন আব্বাস যুক্তি দিয়ে বোঝান। ৮ বছর তো মূসা (আঃ)-এর উপর বাধ্যতামূলক ছিল, তা থেকে তিনি কিছুই কমাতেন না। আর আল্লাহ তাঁর দেওয়া কথা পূরণ করিয়ে দেবেন। তাই তিনি ১০ বছরই পূর্ণ করেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ten More in One Report",
+          "bn": "এক বর্ণনায় আরও দশ বছর"
+        },
+        "p": [
+          {
+            "en": "A second view runs longer. At-Tabari records from Mujahid, through two routes, that Musa (AS) completed ten years and then stayed another ten. Al-Baghawi gives it in fuller form: he remained with his father-in-law twenty years in all, then asked leave to return to Egypt. At-Tabari lists the view without adopting it. His own summary is that Musa fulfilled the more complete of the two terms, the ten years, though some of the learned are reported to have added ten more.",
+            "bn": "দ্বিতীয় একটি মত আরও লম্বা সময়ের কথা বলে। তাবারী দুটি সূত্রে মুজাহিদ থেকে বর্ণনা করেন: মূসা (আঃ) ১০ বছর পূর্ণ করেন, তারপর আরও ১০ বছর থেকে যান। বাগাভী কথাটা আরও বিস্তারে আনেন: শ্বশুরের কাছে তিনি সব মিলিয়ে ২০ বছর থাকেন, তারপর মিসরে ফেরার অনুমতি চান। তাবারী মতটি উল্লেখ করেন, তবে গ্রহণ করেন না। তাঁর নিজের সারকথা হলো, মূসা দুই মেয়াদের মধ্যে বেশি সম্পূর্ণটিই আদায় করেছিলেন, অর্থাৎ ১০ বছর। অবশ্য কোনো কোনো আলেম থেকে আরও ১০ বছর যোগ করার কথাও বর্ণিত আছে।"
+          },
+          {
+            "en": "Others weigh it more sharply. Ibn Kathir writes that he has not seen this view from anyone but Mujahid, though Ibn Jarir and Ibn Abi Hatim relate it from him. In al-Qurtubi's passage the twenty-year report is followed directly by Ibn 'Atiyya's remark: this is weak. Al-Muyassar states the main view plainly: ten years, the more complete of the two periods. As-Sa'di keeps the matter open with the word yahtamil, it is possible: Musa may have completed the required term or the extra years, the extra being what is to be expected of his faithfulness.",
+            "bn": "অন্যরা মতটিকে আরও কড়া চোখে দেখেন। ইবন কাসীর লেখেন, মুজাহিদ ছাড়া আর কারও কাছ থেকে এ মত তিনি পাননি, যদিও ইবন জারীর ও ইবন আবী হাতিম তাঁর থেকে এটি বর্ণনা করেছেন। কুরতুবীর আলোচনায় বিশ বছরের বর্ণনার ঠিক পরেই ইবন আতিয়্যার মন্তব্য আসে: এটি দুর্বল। মুয়াসসার মূল মতটি সোজা ভাষায় বলে: ১০ বছর, দুই মেয়াদের মধ্যে বেশি সম্পূর্ণটি। সা'দী ইয়াহতামিল, অর্থাৎ সম্ভাবনা আছে, শব্দটি দিয়ে প্রশ্নটা খোলা রাখেন। মূসা বাধ্যতামূলক মেয়াদটিও পূর্ণ করে থাকতে পারেন, অতিরিক্তটিও। তবে মূসা আর তাঁর অঙ্গীকার রক্ষার স্বভাব থেকে অতিরিক্তটিই আশা করা যায়।"
+          },
+          {
+            "en": "At-Tabari also lists three reports that carry the question past Ibn 'Abbas to the Prophet ﷺ: from Muhammad ibn Ka'b al-Qurazi, through 'Ikrima from Ibn 'Abbas, and from Mujahid. Al-Qurtubi relays one of them. Neither grades them, and none is confirmed here on a collection's own page, so this article only notes them and builds nothing on them. Firm ground is Ibn 'Abbas's answer in al-Bukhari, and the view most of these commentators take, that the fuller term was the one completed.",
+            "bn": "তাবারী আরও তিনটি বর্ণনা উল্লেখ করেন, যেগুলো প্রশ্নটিকে ইবন আব্বাস ছাড়িয়ে নবী ﷺ পর্যন্ত নিয়ে যায়: মুহাম্মাদ ইবন কা'ব আল-কুরাযী থেকে, ইকরিমার সূত্রে ইবন আব্বাস থেকে, আর মুজাহিদ থেকে। কুরতুবীও এর একটি উল্লেখ করেন। দুজনের কেউই এগুলোর মান নির্ধারণ করেননি, আর কোনো হাদীসগ্রন্থের নিজস্ব পাতায় এখানে এগুলো যাচাই করা যায়নি। তাই এ লেখা শুধু এগুলোর কথা জানিয়ে রাখে, এগুলোর উপর কিছুই দাঁড় করায় না। মজবুত ভিত্তি আছে বুখারীতে ইবন আব্বাসের জবাবের, আর এখানকার অধিকাংশ তাফসীরকারের এই মতের যে পূর্ণতর মেয়াদটিই পূর্ণ হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Setting Out for Egypt",
+          "bn": "মিসরের পথে রওনা"
+        },
+        "p": [
+          {
+            "en": "Wa-sara bi-ahlihi: and he set out with his family. Where to? At-Tabari says he was heading with them for his home in Egypt, and al-Muyassar and as-Sa'di also name Egypt as the destination. As-Sa'di gives a reason in a sentence: Musa (AS) longed to reach his people, his mother, his kin and his homeland, and he knew that after so long a time what had happened through him, the death in 28:15, would have faded from memory. At least ten years had passed since he fled.",
+            "bn": "ওয়া সারা বিআহলিহী: আর তিনি পরিবার নিয়ে যাত্রা করলেন। কোথায়? তাবারী বলেন, তিনি পরিবারকে নিয়ে মিসরে নিজের বাড়ির দিকে যাচ্ছিলেন। মুয়াসসার আর সা'দীও গন্তব্য হিসেবে মিসরের নাম নেন। কারণটা সা'দী এক বাক্যে বলে দেন। মূসা (আঃ)-এর মন টানছিল আপনজনের দিকে: মা, আত্মীয়স্বজন, জন্মভূমি। তিনি এটাও বুঝেছিলেন, এত দীর্ঘ সময় পেরিয়ে যাওয়ায় তাঁর হাতে যা ঘটেছিল, ২৮:১৫ আয়াতের সেই মৃত্যু, তা মানুষের মন থেকে মুছে গেছে। পালিয়ে আসার পর অন্তত দশটি বছর কেটে গিয়েছিল।"
+          },
+          {
+            "en": "Ibn Kathir introduces his own account with qalu, they said, and in it adds details about why Musa (AS) travelled, what he took with him, the weather of that night and his attempts to strike a light. At-Tabari relays from Anas a story about the flock Musa received at the end of the term, and al-Baghawi adds a detail about his wife's condition on the journey. None of them is graded in the text fetched here. They are named as reports the commentators carry, and nothing in this article rests on them.",
+            "bn": "ইবন কাসীর নিজের বর্ণনা শুরু করেন কালূ, অর্থাৎ 'তারা বলেছেন', কথাটি দিয়ে। সেখানে তিনি মূসা (আঃ)-এর যাত্রার কারণ, সঙ্গে কী নিয়েছিলেন, সে রাতের আবহাওয়া আর আগুন জ্বালানোর চেষ্টা নিয়ে কিছু খুঁটিনাটি যোগ করেন। তাবারী আনাস থেকে একটি গল্প আনেন, মেয়াদ শেষে মূসা যে পশুপাল পেয়েছিলেন তা নিয়ে। বাগাভী যাত্রাপথে তাঁর স্ত্রীর অবস্থা নিয়ে একটি খুঁটিনাটি যোগ করেন। এখানে যে লেখাগুলো পড়া হয়েছে, তার কোথাও এগুলোর মান নির্ধারণ করা হয়নি। এগুলোকে শুধু তাফসীরকারদের বয়ে আনা বর্ণনা বলে উল্লেখ করা হলো। এ লেখার কোনো কথা এগুলোর উপর দাঁড়িয়ে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where a Husband May Travel",
+          "bn": "স্বামী কোথায় নিয়ে যেতে পারেন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws a ruling from the same two words, and he introduces it with qila, it has been said. On that view the phrase shows that a man may take his wife with him where he wishes, because of the charge of qiwama he carries and the degree he holds, unless he has bound himself to some condition in her favour. In that case, al-Qurtubi says, the believers are held to their conditions, and he closes with a sentence that al-Bukhari records from the Prophet ﷺ.",
+            "bn": "একই দুটি শব্দ থেকে কুরতুবী একটি বিধান বের করেন, আর শুরু করেন কীলা, অর্থাৎ 'বলা হয়েছে', কথাটি দিয়ে। এ মত অনুযায়ী বাক্যাংশটি দেখায়, পুরুষ নিজের স্ত্রীকে যেখানে চান সঙ্গে নিয়ে যেতে পারেন। কারণ কাওয়ামার দায়িত্ব তাঁর কাঁধে, আর তাঁর একটি মর্যাদাগত স্তর আছে। তবে স্ত্রীর পক্ষে কোনো শর্ত মেনে নিয়ে থাকলে ভিন্ন কথা। কুরতুবী বলেন, তখন মুমিনরা নিজেদের শর্তে বাঁধা। আর তিনি শেষ করেন এমন একটি বাক্য দিয়ে, যা বুখারী নবী ﷺ থেকে বর্ণনা করেছেন।"
+          },
+          {
+            "en": "Sahih al-Bukhari, number 2721, gives it in this English rendering: \"Narrated `Uqba bin Amir: Allah's Messenger (ﷺ) said, 'From among all the conditions which you have to fulfill, the conditions which make it legal for you to have sexual relations (i.e. the marriage contract) have the greatest right to be fulfilled.'\" It is a general saying about the terms of marriage, not attached to this verse. Al-Qurtubi brings it in to limit the husband's say, not to widen it.",
+            "bn": "সহীহ বুখারীর ২৭২১ নম্বরে তা এসেছে। ইংরেজি পাঠের অনুবাদ: \"উকবা ইবন আমির বলেন, আল্লাহর রাসূল ﷺ বলেছেন, 'যত শর্ত তোমাদের পূরণ করতে হয়, তার মধ্যে যে শর্তের মাধ্যমে তোমাদের জন্য দাম্পত্য সম্পর্ক বৈধ হয়েছে (অর্থাৎ বিয়ের চুক্তি), সেটিই পূরণ করার সবচেয়ে বেশি হকদার।'\" এটি বিয়ের শর্ত নিয়ে একটি সাধারণ হাদীস, এই আয়াতের সঙ্গে যুক্ত নয়। কুরতুবী এটি এনেছেন স্বামীর এখতিয়ারকে সীমিত করতে, বাড়াতে নয়।"
+          },
+          {
+            "en": "The verse itself narrates one household's journey and states no rule; the ruling is al-Qurtubi's inference, given as one view. It licenses no one to uproot a wife against the terms agreed with her, or to use qiwama as cover for harm. Al-Qurtubi's own statement carries its exception within it, and the hadith he ends with puts the terms of a marriage at the head of every promise that must be kept.",
+            "bn": "আয়াতটি শুধু একটি পরিবারের যাত্রার বর্ণনা দেয়, কোনো বিধান ঘোষণা করে না। বিধানটি কুরতুবীর টানা একটি সিদ্ধান্ত, তাও একটি মত হিসেবে। স্ত্রীর সঙ্গে ঠিক করা শর্তের বিরুদ্ধে তাঁকে ভিটেছাড়া করার, কিংবা কাওয়ামাকে ক্ষতি করার আড়াল বানানোর কোনো অনুমতি এ আয়াত কাউকে দেয় না। কুরতুবীর নিজের কথার ভেতরেই ব্যতিক্রমটা বাঁধা আছে। আর যে হাদীস দিয়ে তিনি শেষ করেন, তা রক্ষা করার মতো সব অঙ্গীকারের শীর্ষে রাখে বিয়ের শর্তকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Fire Glimpsed by the Mount",
+          "bn": "তূরের পাশে আগুনের দেখা"
+        },
+        "p": [
+          {
+            "en": "Anasa min janibi at-turi naran: he perceived a fire from the side of the Mount. At-Tabari explains anasa as he saw and he sensed, and supports it with a line of the poet al-'Ajjaj; Qatada, in his report, glosses Musa's words as I have sensed a fire. Al-Muyassar and as-Sa'di give it simply as he saw. The verb comes twice, once in the narration and once in Musa's own mouth: inni anastu naran, I have perceived a fire.",
+            "bn": "আনাসা মিন জানিবিত তূরি নারা: তিনি তূর পাহাড়ের দিক থেকে একটি আগুন দেখতে পেলেন। তাবারী আনাসার অর্থ করেন দেখলেন ও অনুভব করলেন, আর কবি আজ্জাজের একটি পঙক্তি দিয়ে তা প্রমাণ করেন। কাতাদার বর্ণনায় মূসার কথার ব্যাখ্যা: আমি একটি আগুন টের পেয়েছি। মুয়াসসার ও সা'দী সোজাসুজি বলেন, দেখলেন। ক্রিয়াটি আয়াতে দুবার আসে। একবার বর্ণনায়, আরেকবার মূসার নিজের মুখে: ইন্নী আনাসতু নারা, আমি একটি আগুন দেখেছি।"
+          },
+          {
+            "en": "Why go toward it at all? The commentators read the need from the verse's own last words. At-Tabari says it was winter, and that tastalun means warming yourselves against the cold. Al-Baghawi describes open country on a dark night of severe cold. As-Sa'di says the cold had struck them and they had lost their way. Ibn Kathir and al-Baghawi tie the khabar, the news, to that same problem: he hoped for word of the road, al-Baghawi says, because he had strayed from it.",
+            "bn": "আগুনের দিকে যাওয়ার দরকারটা কী ছিল? তাফসীরকারেরা তা পড়েন আয়াতের শেষ শব্দগুলো থেকেই। তাবারী বলেন, তখন শীতকাল, আর তাসতালূন মানে ঠান্ডা থেকে বাঁচতে গা গরম করা। বাগাভী ছবি আঁকেন খোলা প্রান্তরের, ঘন অন্ধকার আর প্রচণ্ড শীতের এক রাতের। সা'দী বলেন, শীত তাঁদের কাবু করে ফেলেছিল, আর তাঁরা পথ হারিয়েছিলেন। ইবন কাসীর ও বাগাভী খবর শব্দটিকে এই সমস্যার সঙ্গেই জোড়েন। বাগাভীর ভাষায়, তিনি পথের খবর পাওয়ার আশা করছিলেন, কারণ পথ ভুল করে ফেলেছিলেন।"
+          },
+          {
+            "en": "Imkuthu: stay here. At-Tabari glosses it as be patient and wait, and Ibn Kathir as wait until I go to it. Musa (AS) does not lead his family toward an unknown fire; he leaves them where they are and goes alone. His words to them are hedged twice, la'alli, perhaps I will bring you, and la'allakum, so that perhaps you may warm yourselves. The same scene is told at 20:10 and at 27:7, each time in its own wording; here he promises only what he hopes to find.",
+            "bn": "ইমকুসূ: তোমরা এখানে থাকো। তাবারীর ব্যাখ্যা: একটু সবুর করো, অপেক্ষা করো। ইবন কাসীরের ব্যাখ্যা: আমি সেখানে যাওয়া পর্যন্ত অপেক্ষা করো। অচেনা আগুনের দিকে মূসা (আঃ) পরিবারকে টেনে নিয়ে যান না। তাঁদের যেখানে আছেন সেখানে রেখে একাই এগিয়ে যান। পরিবারকে বলা তাঁর কথায় দুবার সাবধানী 'হয়তো' আছে: লা'আল্লী, হয়তো আমি এনে দেব, আর লা'আল্লাকুম, যাতে হয়তো তোমরা আগুন পোহাতে পারো। একই দৃশ্য ২০:১০ ও ২৭:৭ আয়াতেও এসেছে, প্রতিবার নিজস্ব শব্দে। এখানে তিনি কথা দেন শুধু ততটুকুরই, যা পাওয়ার আশা রাখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Vowels for a Firebrand",
+          "bn": "এক জ্বলন্ত কাঠের তিন উচ্চারণ"
+        },
+        "p": [
+          {
+            "en": "Aw jadhwatin mina an-nar: or a jadhwa from the fire. The word is read with three vowels. Al-Qurtubi gives jidhwa, with kasra, as the reading of the generality of reciters, judhwa, with damma, as that of Hamza and Yahya, and jadhwa, with fatha, as that of 'Asim, as-Sulami and Zirr ibn Hubaysh. Al-Baghawi assigns the same three to 'Asim, Hamza and the rest. At-Tabari calls all three well known in Arabic and prefers jidhwa, the most common, though he does not reject the others.",
+            "bn": "আও জাযওয়াতিম মিনান নার: অথবা আগুনের একটি জাযওয়া। শব্দটি তিন রকম স্বরে পড়া হয়। কুরতুবী জানান, যের দিয়ে জিযওয়া সাধারণ কারীদের কিরাআত। পেশ দিয়ে জুযওয়া হামযা ও ইয়াহইয়ার, আর যবর দিয়ে জাযওয়া আসিম, সুলামী ও যির ইবন হুবাইশের। বাগাভীও একই তিনটি উচ্চারণ আসিম, হামযা ও বাকিদের নামে উল্লেখ করেন। তাবারী বলেন, তিনটিই আরবি ভাষায় সুপরিচিত। তিনি সবচেয়ে প্রচলিত জিযওয়াকে পছন্দ করেন, তবে বাকি দুটিকে প্রত্যাখ্যান করেন না।"
+          },
+          {
+            "en": "What a jadhwa is, the authorities describe differently. In at-Tabari, Ibn 'Abbas calls it a shihab, a flame. Mujahid calls it the root of a tree; Qatada, a tree's root with fire at its end, or a palm frond alight, or a shu'la, a flame; Ibn Zayd, a stick of firewood with fire in it. Al-Qurtubi quotes al-Jawhari: a blazing ember. He also quotes Abu 'Ubayda, for whom it is a thick piece of wood like a stump, whether or not there was fire at its end.",
+            "bn": "জাযওয়া আসলে কী, আলেমরা তা ভিন্ন ভিন্নভাবে বলেন। তাবারীর বর্ণনায় ইবন আব্বাস বলেন শিহাব, অর্থাৎ অগ্নিশিখা। মুজাহিদের মতে গাছের গোড়া। কাতাদার মতে এমন গাছের গোড়া যার মাথায় আগুন, কিংবা জ্বলন্ত খেজুরপাতা, কিংবা শু'লা, অর্থাৎ আগুনের শিখা। ইবন যায়দের মতে লাকড়ির এমন টুকরো, যাতে আগুন ধরে আছে। কুরতুবী জাওহারী থেকে উদ্ধৃত করেন: দাউদাউ জ্বলা অঙ্গার। আবূ উবাইদার কথাও তিনি আনেন। তাঁর মতে জাযওয়া হলো গুঁড়ির মতো মোটা কাঠের টুকরো, তার মাথায় আগুন থাকুক বা না থাকুক।"
+          },
+          {
+            "en": "Al-Baghawi, through Qatada and Muqatil, calls it a stick of which part has burned, and Ibn Kathir simply a piece of the fire. The difference is real but small: whether the word names the flame itself or the wood that carries it, and whether a jadhwa must be alight. On its purpose there is no difference. Tastalun, at-Tabari says, is to warm yourselves from the cold, and al-Muyassar and al-Baghawi say the same. A family on a winter night needed heat, and Musa (AS) went to bring back whatever he could carry.",
+            "bn": "বাগাভী কাতাদা ও মুকাতিলের সূত্রে বলেন, এমন কাঠ যার একাংশ পুড়ে গেছে। ইবন কাসীর সংক্ষেপে বলেন, আগুনের একটি টুকরো। মতভেদটা সত্যিকারের, তবে ছোট। শব্দটি কি শিখাকেই বোঝায়, নাকি শিখা বহন করা কাঠকে? আর জাযওয়া হতে হলে কি তাতে আগুন থাকতেই হবে? উদ্দেশ্য নিয়ে অবশ্য কোনো মতভেদ নেই। তাবারী বলেন, তাসতালূন মানে ঠান্ডা থেকে গা গরম করা। মুয়াসসার ও বাগাভীও একই কথা বলেন। শীতের রাতে একটি পরিবারের উষ্ণতা দরকার ছিল, আর মূসা (আঃ) গেলেন যা বয়ে আনা যায় তা আনতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Waited at the Fire",
+          "bn": "আগুনের কাছে যা অপেক্ষা করছিল"
+        },
+        "p": [
+          {
+            "en": "He went for news and a brand. In the next verse, 28:30, when he reached the fire he was called from the side of the valley, in the blessed spot, from the tree: O Musa, I am Allah, Lord of the worlds. The abridged English of Ibn Kathir reads 28:29 to 28:32 together under one heading, Musa's return to Egypt and how he was honoured with the mission and the miracles on the way. A man walking toward a fire for his family was walking toward his prophethood.",
+            "bn": "তিনি গিয়েছিলেন খবর আর একখণ্ড জ্বলন্ত কাঠ আনতে। পরের আয়াত ২৮:৩০-এ দেখা যায়, আগুনের কাছে পৌঁছতেই উপত্যকার এক পাশ থেকে, বরকতময় স্থানে, গাছের দিক থেকে তাঁকে ডাকা হলো: হে মূসা, আমিই আল্লাহ, জগতসমূহের রব। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ২৮:২৯ থেকে ২৮:৩২ পর্যন্ত আয়াতগুলো একসঙ্গে পড়ে, একটি শিরোনামে: মূসার মিসরে ফেরা, আর পথেই রিসালাত ও মুজিযা দিয়ে তাঁকে সম্মানিত করা। পরিবারের জন্য আগুনের দিকে হাঁটা মানুষটি আসলে হাঁটছিলেন নবুওয়াতের দিকে।"
+          },
+          {
+            "en": "Read whole, the verse moves from a kept promise to a road home. Musa (AS) finished the term in full; he went out himself for those in his care; he promised them only what he could say with a perhaps. Ma'arif al-Qur'an draws a lesson for dealings: the Prophet ﷺ, it says, used to give more than was due, and urged generosity in employment, wages and trade. Pharaoh belongs to this story; the verse describes what it describes and licenses nothing against any living person or community.",
+            "bn": "পুরো আয়াতটা পড়লে দেখা যায়, তা এগোয় রক্ষা করা অঙ্গীকার থেকে ঘরে ফেরার পথে। মূসা (আঃ) মেয়াদ পুরোপুরি পূর্ণ করলেন। দায়িত্বে থাকা মানুষদের জন্য নিজেই বেরিয়ে গেলেন। আর তাঁদের শুধু ততটুকু কথাই দিলেন, যা 'হয়তো' দিয়ে বলা যায়। মাআরিফুল কুরআন লেনদেনের জন্য শিক্ষাটা টানে। সেখানে বলা হয়েছে, নবী ﷺ প্রাপ্যের চেয়ে বেশি দিতেন, আর চাকরি, মজুরি ও ব্যবসায় উদার হতে বলেছেন। ফেরাউন এই কাহিনিরই অংশ। আয়াতটি যা বর্ণনা করে শুধু তা-ই বর্ণনা করে, কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না।"
+          }
+        ]
+      }
+    ]
+  },
   "28:32": {
     "sections": [
       {
