@@ -3815,6 +3815,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:71-72": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Scene Changes",
+          "bn": "যেখানে দৃশ্য বদলে যায়"
+        },
+        "p": [
+          {
+            "en": "Wa-laqad dalla qablahum aktharu al-awwalin; wa-laqad arsalna fihim mundhirin: and there had already strayed before them most of the former peoples, and We had already sent among them warners. Nine Arabic words, five and four, carry the whole hinge. Until now the surah has been in the Hereafter: the tree of zaqqum, the scalding drink, the return to the Jahim in 37:68. Here it steps back into the history of nations, and three verses later it opens the first of its prophets' stories, Nuh (AS) calling on his Lord in 37:75.",
+            "bn": "ওয়া লাকাদ দাল্লা কাবলাহুম আকসারুল আওয়ালীন; ওয়া লাকাদ আরসালনা ফীহিম মুনযিরীন: এদের আগেও পূর্ববর্তীদের বেশির ভাগ পথভ্রষ্ট হয়েছিল, আর আমি তাদের মাঝে সতর্ককারী পাঠিয়েছিলাম। আরবিতে মোট নয়টি শব্দ, প্রথম আয়াতে পাঁচটি, দ্বিতীয়টিতে চারটি। গোটা মোড়টা দাঁড়িয়ে আছে এই নয় শব্দের ওপর। এতক্ষণ সূরাটি ছিল আখিরাতের দৃশ্যে: যাক্কুম গাছ, ফুটন্ত পানীয়, আর ৩৭:৬৮ আয়াতে জাহীমের দিকে ফিরে যাওয়া। এখানে এসে সূরা ফিরে তাকায় জাতিগুলোর ইতিহাসে। তিনটি আয়াত পরে, ৩৭:৭৫ আয়াতে, শুরু হয় নবীদের কাহিনির প্রথমটি: নূহ (আঃ) তাঁর রবকে ডাকছেন।"
+          },
+          {
+            "en": "The link backwards is close. Just before, 37:69 and 37:70 say of the people in that Fire that they found their fathers astray and hurried along in their footsteps. As-Sa'di frames 37:69 as the answer to an unspoken question: what brought them to this abode? These two verses widen that answer from one line of fathers to most of the earlier peoples. The link forwards is just as close. 37:73 tells the listener to look at the end of those who were warned, and 37:74 sets apart the sincere servants of Allah.",
+            "bn": "পেছনের আয়াতগুলোর সঙ্গে যোগটা খুব কাছের। ঠিক আগে ৩৭:৬৯ ও ৩৭:৭০ আয়াত সেই আগুনের লোকদের সম্পর্কে বলে, তারা বাপ-দাদাকে পথভ্রষ্ট পেয়েছিল, আর তাদেরই পায়ের ছাপ ধরে ছুটে চলেছিল। সা'দী ৩৭:৬৯-কে দেখেন না-বলা এক প্রশ্নের জবাব হিসেবে: কিসে তাদের এই ঠিকানায় এনে ফেলল? আমাদের দুই আয়াত সেই জবাবকে একটি বংশের বাপ-দাদা থেকে ছড়িয়ে দেয় আগের বেশির ভাগ জাতি পর্যন্ত। সামনের আয়াতগুলোর সঙ্গে যোগও তেমনি ঘনিষ্ঠ। ৩৭:৭৩ আয়াত শ্রোতাকে বলে, দেখো, যাদের সতর্ক করা হয়েছিল তাদের পরিণাম কী হলো। আর ৩৭:৭৪ আয়াত আল্লাহর একনিষ্ঠ বান্দাদের আলাদা করে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before Whom, and Who",
+          "bn": "কাদের আগে, আর কারা"
+        },
+        "p": [
+          {
+            "en": "Qablahum, before them: the commentators who explain the pronoun read it as pointing to the people the Prophet ﷺ was addressing. At-Tabari makes it explicit and turns to him directly: there strayed, O Muhammad, before the idolaters of your people from Quraysh, most of the nations that had passed before them. Al-Muyassar says before your people, O Messenger, and as-Sa'di says before these who are being addressed. Tanwir al-Miqbas reads it the same way: before your folk, O Muhammad.",
+            "bn": "কাবলাহুম, তাদের আগে। যে তাফসীরকারেরা সর্বনামটি ব্যাখ্যা করেছেন, তাঁরা একে ধরেছেন সেই লোকদের দিকে ইঙ্গিত হিসেবে, যাদের নবী ﷺ সম্বোধন করছিলেন। তাবারী কথাটা খোলাখুলি বলেন, আর সরাসরি নবীকেই সম্বোধন করেন: হে মুহাম্মাদ, তোমার কওমের কুরাইশ মুশরিকদের আগে, তাদের পূর্বে গত হয়ে যাওয়া জাতিগুলোর বেশির ভাগ পথভ্রষ্ট হয়েছিল। মুয়াসসার বলে, হে রাসূল, তোমার কওমের আগে। সা'দী বলেন, এখন যাদের সম্বোধন করা হচ্ছে, তাদের আগে। তানবীরুল মিকবাসও একইভাবে পড়ে: হে মুহাম্মাদ, তোমার লোকদের আগে।"
+          },
+          {
+            "en": "Al-awwalin, the former ones, is glossed just as plainly. Al-Qurtubi says of the past nations, al-Baghawi of the nations gone by, and at-Tabari of the nations that had passed before them. The word has a history in this surah. In 37:17 the deniers scoff at being raised: and our forefathers too, al-awwalun? Ilyas (AS) later calls his people to Allah, the Lord of their first forefathers, in 37:126. And near the end the deniers protest that if only they had a reminder from the former peoples, in 37:168.",
+            "bn": "আল-আওয়ালীন, অর্থাৎ পূর্ববর্তীরা, শব্দটির ব্যাখ্যাও একই রকম সরল। কুরতুবী বলেন, অতীতের জাতিগুলো। বাগাভী বলেন, গত হয়ে যাওয়া জাতিগুলো। তাবারী বলেন, তাদের আগে যেসব জাতি চলে গেছে। এ সূরায় শব্দটির নিজস্ব একটা ইতিহাস আছে। ৩৭:১৭ আয়াতে অস্বীকারকারীরা পুনরুত্থানের কথা শুনে ঠাট্টা করে: আমাদের আগের বাপ-দাদারাও, আল-আওয়ালূন? পরে ৩৭:১২৬ আয়াতে ইলিয়াস (আঃ) তাঁর কওমকে ডাকেন আল্লাহর দিকে, যিনি তাদের আদি পিতৃপুরুষদেরও রব। আর সূরার শেষ দিকে ৩৭:১৬৮ আয়াতে অস্বীকারকারীরা আপত্তি তোলে: পূর্ববর্তীদের কাছ থেকে যদি আমাদের কাছে কোনো উপদেশ থাকত!"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Straying From the Plain Road",
+          "bn": "সোজা রাস্তা ছেড়ে সরে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "What did their straying consist of? At-Tabari defines dalla as straying from the aim of the path and the plain road of truth, 'an qasd as-sabil wa-mahajjat al-haqq. He uses nearly the same words on 37:69 for the fathers: they were astray from the aim of the path, not walking the plain road of truth. So the verb in 37:71 and the word for the fathers in 37:69 share one root, d-l-l, and at-Tabari explains both with one phrase. The sons went the fathers' way, and the fathers had gone the way of most before them.",
+            "bn": "তাদের পথভ্রষ্টতা আসলে কী ছিল? তাবারী দাল্লা-র অর্থ করেন: পথের লক্ষ্য আর সত্যের সোজা রাস্তা থেকে সরে যাওয়া, আন কাসদিস সাবীলি ওয়া মাহাজ্জাতিল হাক্ক। ৩৭:৬৯ আয়াতে বাপ-দাদাদের সম্পর্কেও তিনি প্রায় একই কথা বলেন: তারা পথের লক্ষ্য থেকে বিচ্যুত ছিল, সত্যের সোজা রাস্তায় চলছিল না। ৩৭:৭১-এর ক্রিয়া আর ৩৭:৬৯-এ বাপ-দাদাদের বিশেষণ, দুটোই এসেছে দ-ল-ল ধাতু থেকে। তাবারী দুটোরই ব্যাখ্যা দেন একই কথায়। ছেলেরা হেঁটেছে বাপদের পথে, আর বাপেরা হেঁটেছিল তাদের আগের বেশির ভাগ মানুষের পথে।"
+          },
+          {
+            "en": "Ibn Kathir names the content of the error directly. Allah tells of the past nations, he writes, that most of them were astray, setting up other gods alongside Allah. Al-Muyassar keeps to the bare sense: they strayed from the truth. The three glosses do not compete. At-Tabari describes the straying as a road left, al-Muyassar as truth missed, and Ibn Kathir names what filled the gap: other gods placed beside the One. Ma'arif al-Qur'an, which treats 37:65 to 37:74 together, remarks only that the sense of the rest of these verses is clear from their translation.",
+            "bn": "ভুলটা ঠিক কী ছিল, ইবন কাসীর তা সরাসরি নাম ধরে বলেন। তাঁর কথায়, আল্লাহ অতীত জাতিগুলোর খবর দিচ্ছেন যে তাদের বেশির ভাগ ছিল পথভ্রষ্ট, তারা আল্লাহর সঙ্গে অন্য উপাস্য দাঁড় করাত। মুয়াসসার মূল অর্থেই থেমে যায়: তারা সত্য থেকে সরে গিয়েছিল। এই তিনটি ব্যাখ্যায় কোনো ঠোকাঠুকি নেই। তাবারী পথভ্রষ্টতাকে দেখেন ছেড়ে আসা রাস্তা হিসেবে, মুয়াসসার হাতছাড়া সত্য হিসেবে। আর ইবন কাসীর বলে দেন ফাঁকটা কী দিয়ে ভরা হয়েছিল: একমাত্র আল্লাহর পাশে বসানো অন্য উপাস্য দিয়ে। মাআরিফুল কুরআন ৩৭:৬৫ থেকে ৩৭:৭৪ পর্যন্ত একসঙ্গে আলোচনা করে, আর এটুকুই বলে যে বাকি আয়াতগুলোর অর্থ অনুবাদ থেকেই পরিষ্কার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Most, and Never All",
+          "bn": "বেশির ভাগ, কখনো সবাই নয়"
+        },
+        "p": [
+          {
+            "en": "Aktharu, most. As-Sa'di adds the clause the word implies: and a few of them believed and were guided. The verse does not say that all the former peoples strayed, and the commentator does not let the reader hear it that way. The few were real, and 37:74 names them: the sincere servants of Allah. The phrase 'ibad Allah al-mukhlasin recurs in this surah at 37:40, 37:74, 37:128 and 37:160, and at 37:169 the deniers claim they would have been such servants, had they only been given a reminder.",
+            "bn": "আকসারু, বেশির ভাগ। শব্দটির ভেতরে যে কথা লুকিয়ে আছে, সা'দী তা জুড়ে দেন: আর তাদের অল্প কিছু লোক ঈমান এনেছিল, হিদায়াত পেয়েছিল। আয়াত বলছে না যে পূর্ববর্তীরা সবাই পথ হারিয়েছিল, আর সা'দীও পাঠককে সেভাবে বুঝতে দেন না। সেই অল্প কজন সত্যিই ছিল, আর ৩৭:৭৪ আয়াত তাদের পরিচয় দেয়: আল্লাহর একনিষ্ঠ বান্দারা। ইবাদাল্লাহিল মুখলাসীন কথাটি এ সূরায় বারবার এসেছে, ৩৭:৪০, ৩৭:৭৪, ৩৭:১২৮ ও ৩৭:১৬০ আয়াতে। আর ৩৭:১৬৯ আয়াতে অস্বীকারকারীরা দাবি করে, একটা উপদেশ পেলেই তারাও এমন বান্দা হয়ে যেত।"
+          },
+          {
+            "en": "The point cuts against an old reflex. When most of a community walks one way, the direction feels settled. Elsewhere the Qur'an says that most of the people are not believers, however much the Prophet ﷺ strives for it, in 12:103, and that obeying most of those on earth would lead astray from the way of Allah, in 6:116. Here the same arithmetic is told as history: the majority of the earlier peoples were the ones who strayed. A count of heads settles nothing about the road.",
+            "bn": "কথাটা মানুষের এক পুরোনো অভ্যাসের উল্টো দিকে যায়। কোনো সমাজের বেশির ভাগ মানুষ এক দিকে হাঁটলে মনে হয়, দিকটা তো ঠিক হয়েই আছে। কুরআন অন্যত্র বলে, নবী ﷺ যত আগ্রহই রাখুন, বেশির ভাগ মানুষ ঈমানদার নয় (১২:১০৩)। আরও বলে, পৃথিবীর বেশির ভাগ মানুষের কথা মানলে তারা আল্লাহর পথ থেকে সরিয়ে দেবে (৬:১১৬)। এখানে সেই একই হিসাব এসেছে ইতিহাসের ভাষায়: আগের জাতিগুলোর সংখ্যাগরিষ্ঠরাই পথ হারিয়েছিল। মাথা গুনে রাস্তার ঠিক-বেঠিক মীমাংসা হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Exception, Two Anchors",
+          "bn": "এক ব্যতিক্রম, দুই নোঙর"
+        },
+        "p": [
+          {
+            "en": "The exception in 37:74 raises a question that reaches back into these verses. Al-Qurtubi records two views and does not choose between them. It is said, qila, that it is an exception from al-mundharin, those who were warned, in 37:73. And it is said that it belongs to Allah's words, and there had already strayed before them most of the former peoples, in 37:71. On the second reading, the sincere servants are set apart from the majority who strayed; on the first, from the warned whose end the listener is told to look at.",
+            "bn": "৩৭:৭৪ আয়াতের ব্যতিক্রমটি এমন এক প্রশ্ন তোলে, যা ফিরে আসে আমাদের এই আয়াতগুলোতেই। কুরতুবী দুটি মত উল্লেখ করেন, কোনোটিকে বেছে নেন না। বলা হয়েছে, এটি আল-মুনযারীন থেকে ব্যতিক্রম, অর্থাৎ ৩৭:৭৩ আয়াতে যাদের সতর্ক করা হয়েছিল তাদের থেকে। আবার বলা হয়েছে, এটি যুক্ত আল্লাহর এই বাণীর সঙ্গে: এদের আগেও পূর্ববর্তীদের বেশির ভাগ পথভ্রষ্ট হয়েছিল, ৩৭:৭১ আয়াতে। দ্বিতীয় পাঠে একনিষ্ঠ বান্দারা আলাদা হন পথহারা সংখ্যাগরিষ্ঠ থেকে। প্রথম পাঠে আলাদা হন সেই সতর্ককৃতদের থেকে, যাদের পরিণাম দেখতে শ্রোতাকে বলা হয়েছে।"
+          },
+          {
+            "en": "At-Tabari takes the first view and gives his reason. The sense of the passage, he says, is: look how We destroyed those who were warned, except the believing servants of Allah, and that is why excepting them from the warned reads well. As-Sa'di frames 37:74 along the same lines: since the warned were not all astray, and some of them believed and devoted their religion sincerely to Allah, He excepted them from the destruction. The second view, which al-Qurtubi also records, stands beside these. The difference is over which word the exception hangs on, and it is kept here as a difference.",
+            "bn": "তাবারী প্রথম মতটি গ্রহণ করেন, কারণও বলেন। তাঁর মতে কথাটির অর্থ দাঁড়ায়: দেখো, সতর্ককৃতদের আমি কীভাবে ধ্বংস করেছি, আল্লাহর মুমিন বান্দাদের ছাড়া। এ কারণেই সতর্ককৃতদের মধ্য থেকে তাঁদের বাদ রাখাটা ঠিকঠাক বসে যায়। সা'দীও ৩৭:৭৪-কে একই ধারায় দেখেন: সতর্ককৃতরা সবাই পথভ্রষ্ট ছিল না, তাদের কেউ কেউ ঈমান এনেছিল আর দ্বীনকে আল্লাহর জন্য খাঁটি করেছিল, তাই আল্লাহ তাদের ধ্বংস থেকে বাদ রাখলেন। কুরতুবী যে দ্বিতীয় মতটিও উল্লেখ করেছেন, সেটিও এদের পাশেই থেকে যায়। মতভেদটা হলো ব্যতিক্রমটি কোন শব্দের সঙ্গে বাঁধা, আর এখানে তা মতভেদ হিসেবেই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Warners Sent Into Their Midst",
+          "bn": "তাদের মাঝেই পাঠানো সতর্ককারী"
+        },
+        "p": [
+          {
+            "en": "Wa-laqad arsalna fihim mundhirin. A mundhir is one who warns, and the commentators agree on who these warners were. Al-Qurtubi says messengers who warned them of the punishment, and they disbelieved; al-Muyassar says envoys who warned them of the punishment, and they disbelieved. Al-Jalalayn also glosses the warners as messengers, sent to threaten them. The preposition is fihim, among them: the warning was given in their midst. A parallel stands in 35:24: there was no nation but that a warner had passed within it.",
+            "bn": "ওয়া লাকাদ আরসালনা ফীহিম মুনযিরীন। মুনযির মানে এমন একজন, যিনি সতর্ক করেন, আর এই সতর্ককারীরা কারা, তা নিয়ে তাফসীরকারেরা একমত। কুরতুবী বলেন, রাসূলগণ, যাঁরা তাদের আযাবের ভয় দেখিয়েছিলেন, কিন্তু তারা কুফরি করল। মুয়াসসারও বলে, প্রেরিত দূতেরা তাদের আযাব সম্পর্কে সতর্ক করেছিলেন, আর তারা কুফরি করল। জালালাইনও সতর্ককারীদের ব্যাখ্যা করে রাসূল হিসেবে, যাঁদের পাঠানো হয়েছিল তাদের ভয় দেখাতে। শব্দটি ফীহিম, তাদের মাঝে: সতর্কবাণী এসেছিল তাদের মধ্যেই। এর সমান্তরাল কথা আছে ৩৫:২৪ আয়াতে: এমন কোনো জাতি নেই, যার মাঝে কোনো সতর্ককারী আসেননি।"
+          },
+          {
+            "en": "What exactly did they warn of? Here the glosses differ in emphasis. At-Tabari says the warners warned them of Our might, ba'sana, for their disbelief in Us. Ibn Kathir widens it: they warned of the might of Allah, His assault and His vengeance, on whoever disbelieved in Him and worshipped another. Al-Qurtubi and al-Muyassar both say al-'adhab, the punishment. As-Sa'di points the warning in another direction: they warned them away from their own error and straying, 'an ghayyihim wa-dalalihim. Most of the glosses name the consequence; as-Sa'di names the road that led there.",
+            "bn": "তাঁরা ঠিক কী নিয়ে সতর্ক করেছিলেন? এখানে ব্যাখ্যাগুলোর জোর পড়েছে ভিন্ন ভিন্ন জায়গায়। তাবারী বলেন, সতর্ককারীরা তাদের সাবধান করেছিলেন আমার পাকড়াও সম্পর্কে, বা'সানা, আমার প্রতি তাদের কুফরির কারণে। ইবন কাসীর পরিধিটা বাড়িয়ে দেন: তাঁরা সতর্ক করেছিলেন আল্লাহর পাকড়াও, তাঁর আঘাত আর তাঁর প্রতিশোধ সম্পর্কে, যা নেমে আসে তাঁকে অস্বীকারকারী ও অন্যের ইবাদতকারীর ওপর। কুরতুবী ও মুয়াসসার দুজনেই বলেন আযাব। সা'দী সতর্কবাণীর মুখ ঘুরিয়ে দেন অন্য দিকে: সতর্ককারীরা তাদের সাবধান করেছিলেন তাদের নিজেদের গোমরাহি আর পথভ্রষ্টতা থেকে, আন গাইয়িহিম ওয়া দালালিহিম। বেশির ভাগ ব্যাখ্যা পরিণামের নাম বলে, আর সা'দী নাম বলেন সেই রাস্তার, যা সেখানে নিয়ে যায়।"
+          },
+          {
+            "en": "Taken together, the two verses make one argument. The straying of 37:71 did not happen in silence; a warner had spoken in their midst before any end came. At-Tabari's gloss on 37:72 runs the whole sequence in one breath: We sent among the nations before your people warners to warn them of Our might, and they denied them and did not accept their sincere counsel, so We brought Our might and Our punishment down upon them. What came was the answer to a warning already given.",
+            "bn": "দুই আয়াত মিলে একটাই যুক্তি দাঁড় করায়। ৩৭:৭১-এর পথভ্রষ্টতা নীরবে ঘটেনি। কোনো পরিণাম আসার আগেই তাদের মাঝে একজন সতর্ককারী কথা বলে গেছেন। ৩৭:৭২ আয়াতে তাবারীর ব্যাখ্যা পুরো ধারাটা এক নিঃশ্বাসে বলে দেয়: তোমার কওমের আগের জাতিগুলোর মাঝে আমি সতর্ককারী পাঠিয়েছিলাম, যাতে তাঁরা আমার পাকড়াও সম্পর্কে তাদের সাবধান করেন। তারা তাঁদের মিথ্যাবাদী বলল, তাঁদের আন্তরিক উপদেশ গ্রহণ করল না। তাই আমি তাদের ওপর নামিয়ে দিলাম আমার পাকড়াও আর শাস্তি। যা এসেছিল, তা আগেই দেওয়া এক সতর্কবাণীর জবাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Warners and the Warned",
+          "bn": "সতর্ককারী আর সতর্ককৃত"
+        },
+        "p": [
+          {
+            "en": "Two words, one vowel apart, frame the scene. In mundhirin, in 37:72, the letter dhal carries a kasra: those who warn. In al-mundharin, in 37:73, it carries a fatha: those who were warned. One root names both sides of the encounter, and the verses that follow tell what became of the second. Ibn Kathir, whose comment runs on from 37:72 through 37:74, says the warned persisted in opposing their messengers and calling them liars, so Allah destroyed the deniers and ruined them, and saved the believers, helped them and gave them victory.",
+            "bn": "দুটি শব্দ, মাঝে মাত্র একটি হরকতের তফাত, আর এই দুই শব্দেই দৃশ্যটা বাঁধা। ৩৭:৭২ আয়াতের মুনযিরীন শব্দে যাল অক্ষরে যের: যাঁরা সতর্ক করেন। ৩৭:৭৩ আয়াতের আল-মুনযারীন শব্দে একই অক্ষরে যবর: যাদের সতর্ক করা হয়েছিল। একই ধাতু দুই পক্ষেরই নাম দেয়, আর পরের আয়াতগুলো জানায় দ্বিতীয় পক্ষের কী হলো। ইবন কাসীরের আলোচনা ৩৭:৭২ থেকে ৩৭:৭৪ পর্যন্ত টানা চলে। তিনি বলেন, সতর্ককৃতরা রাসূলদের বিরোধিতা আর তাঁদের মিথ্যাবাদী বলায় অটল রইল। তাই আল্লাহ মিথ্যাবাদীদের ধ্বংস করে নিশ্চিহ্ন করলেন, আর মুমিনদের বাঁচালেন, সাহায্য করলেন, বিজয় দিলেন।"
+          },
+          {
+            "en": "At-Tabari, on 37:73, turns the outcome into instruction: reflect, and see clearly what came after those whom Our prophets warned, where their affair ended, and what their disbelief in Allah brought them; did We not destroy them, and make them a lesson for the servants and an admonition for those after them? As-Sa'di on the same verse speaks to the present listeners: let these beware of persisting in their straying, lest what struck those strike them too. The identical sentence, look how was the end of those who were warned, closes the short account of Nuh (AS) in 10:73.",
+            "bn": "৩৭:৭৩ আয়াতে তাবারী পরিণামটাকে শিক্ষায় রূপ দেন: ভেবে দেখো, পরিষ্কার করে বোঝো, আমার নবীরা যাদের সতর্ক করেছিলেন তাদের ব্যাপারটা শেষে কোথায় গিয়ে দাঁড়াল, আল্লাহকে অস্বীকার তাদের কী এনে দিল। আমি কি তাদের ধ্বংস করে বান্দাদের জন্য শিক্ষা আর পরবর্তীদের জন্য উপদেশ বানিয়ে দিইনি? সা'দী একই আয়াতে কথা বলেন উপস্থিত শ্রোতাদের সঙ্গে: এরা যেন সাবধান হয়, নিজেদের পথভ্রষ্টতায় অটল না থাকে, নইলে ওদের যা ঘটেছিল এদেরও তা-ই ঘটবে। দেখো, সতর্ককৃতদের পরিণাম কেমন হয়েছিল, হুবহু এই বাক্যটিই ১০:৭৩ আয়াতে নূহ (আঃ)-এর সংক্ষিপ্ত কাহিনির শেষে এসেছে।"
+          },
+          {
+            "en": "This is how the surah moves from these verses into its stories. As-Sa'di closes his comment on 37:74 with a single line: then He mentioned a sample of the outcomes of the nations that denied. Nuh (AS) comes first, at 37:75, and after him the surah tells of Ibrahim, Musa and Harun, Ilyas, Lut and Yunus (AS). Each account can be set beside the general statement made here, of warners sent and a response that followed. Two short verses stand as the heading under which the stories after them are told.",
+            "bn": "এভাবেই সূরা এই আয়াতগুলো থেকে কাহিনিগুলোর দিকে এগিয়ে যায়। সা'দী ৩৭:৭৪ আয়াতের আলোচনা শেষ করেন এক বাক্যে: তারপর তিনি মিথ্যা প্রতিপন্নকারী জাতিগুলোর পরিণামের একটা নমুনা তুলে ধরলেন। প্রথমে আসেন নূহ (আঃ), ৩৭:৭৫ আয়াতে। তাঁর পরে সূরা বলে ইবরাহীম, মূসা ও হারূন, ইলিয়াস, লূত ও ইউনুস (আঃ)-এর কথা। প্রতিটি কাহিনিকে মিলিয়ে দেখা যায় এখানকার সাধারণ বক্তব্যের সঙ্গে: সতর্ককারী পাঠানো হলো, তারপর এল মানুষের সাড়া। এই দুটি ছোট আয়াত যেন সেই শিরোনাম, যার নিচে পরের কাহিনিগুলো বলা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Inheritance Without Proof",
+          "bn": "প্রমাণ ছাড়া উত্তরাধিকার"
+        },
+        "p": [
+          {
+            "en": "The thread back to 37:69 matters for a reader now. Ibn Kathir explains that verse: they found their fathers in error and followed them in it for that reason alone, without evidence or proof, min ghayr dalil wa-la burhan. Maududi says they never used their own sense to see whether the way of their forefathers was right or wrong. These two verses add the scale: not one family's habit but the pattern of most earlier peoples. What is inherited is to be weighed, however many have carried it.",
+            "bn": "৩৭:৬৯ আয়াতের সঙ্গে এই যোগসূত্র আজকের পাঠকের জন্যও জরুরি। ইবন কাসীর সে আয়াতের ব্যাখ্যায় বলেন, তারা বাপ-দাদাকে পথভ্রষ্টতায় পেয়েছিল, আর শুধু এ কারণেই তাদের অনুসরণ করেছিল, কোনো দলিল-প্রমাণ ছাড়া, মিন গাইরি দালীলিন ওয়া লা বুরহান। মওদূদী বলেন, বাপ-দাদার পথ ঠিক না ভুল, তা যাচাই করতে তারা কখনো নিজেদের বিবেক-বুদ্ধি কাজে লাগায়নি। আমাদের দুই আয়াত এর সঙ্গে মাত্রাটা যোগ করে: এ শুধু একটি পরিবারের অভ্যাস নয়, আগের বেশির ভাগ জাতির ধারা। উত্তরাধিকারে যা আসে, তা ওজন করে দেখতে হয়, যত মানুষই তা বয়ে এনে থাকুক।"
+          },
+          {
+            "en": "No hadith is attached to these two verses in any of the tafsir fetched for them, and none is offered here. Nor do the sources report an occasion of revelation for either verse. The commentators read them in their place in the surah, as the joint between the scenes of the Fire before them and the stories of the prophets after them, and they explain them briefly, with glosses rather than narrations. The verses state a fact of history and leave the stories that follow to carry its detail.",
+            "bn": "এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এই দুই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানেও কোনো হাদীস আনা হলো না। কোনো সূত্র এ দুটি আয়াতের শানে নুযূলও বর্ণনা করে না। তাফসীরকারেরা আয়াত দুটি পড়েন সূরার ভেতরে তাদের নিজের জায়গায়: আগের আগুনের দৃশ্য আর পরের নবীদের কাহিনির মাঝখানের জোড় হিসেবে। তাঁরা ব্যাখ্যা দেন সংক্ষেপে, বর্ণনা টেনে নয়, শব্দের অর্থ বুঝিয়ে। আয়াত দুটি ইতিহাসের একটা সত্য জানিয়ে দেয়, আর তার খুঁটিনাটি ছেড়ে দেয় পরের কাহিনিগুলোর হাতে।"
+          },
+          {
+            "en": "One thing must be said firmly. These verses describe what they describe: earlier peoples who strayed, warners sent among them, and an end that came to those who refused. They name no living person or community, and they license nothing against anyone today. The word most is a statement of history made by Allah, not a ruling any reader may pass on a neighbour, a nation or a crowd. What the verses ask of the reader is to examine the road under their own feet, not to sentence those walking another.",
+            "bn": "একটা কথা দৃঢ়ভাবে বলা দরকার। এই আয়াতগুলো যা বর্ণনা করে, শুধু সেটুকুই বর্ণনা করে: আগের যেসব জাতি পথ হারিয়েছিল, তাদের মাঝে পাঠানো সতর্ককারী, আর যারা মানেনি তাদের ওপর নেমে আসা পরিণাম। আয়াতগুলো কোনো জীবিত মানুষ বা জনগোষ্ঠীর নাম নেয় না, আর আজ কারও বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। বেশির ভাগ কথাটি আল্লাহর জানানো ইতিহাসের খবর। কোনো পাঠক তা দিয়ে প্রতিবেশী, কোনো জাতি বা কোনো ভিড়ের ওপর রায় দিতে পারে না। আয়াত দুটি পাঠকের কাছে চায় নিজের পায়ের নিচের রাস্তাটা যাচাই করতে, অন্য পথের পথিকদের বিচার করতে নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "37:75": {
     "sections": [
       {

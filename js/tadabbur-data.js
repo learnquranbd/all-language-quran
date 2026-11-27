@@ -36993,6 +36993,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Measure success by what outlasts death: rescue from Allah's punishment and arrival at His pleasure. Speak of every good you are given as His favour, and work now for the like of it.",
     "lessonBn": "সাফল্য মাপুন তা দিয়ে, যা মৃত্যুর পরেও টিকে থাকে: আল্লাহর শাস্তি থেকে মুক্তি আর তাঁর সন্তুষ্টি লাভ। যে কল্যাণই পান, তাকে তাঁর অনুগ্রহ বলে জানুন, আর এখনই এরই মতো কিছুর জন্য আমল করুন।"
+  },
+  "37:71-72": {
+    "reflectionEn": "Two short verses turn the page. A moment ago the surah was describing the food and drink of the Fire, and the people who hurried after their fathers into it. Now it steps back into history: most of the earlier peoples went astray before them, and warners had been sent among them. So the straying was never for lack of a voice. Every people had someone standing in its midst, saying plainly where the road led. And it was most, not all. A few listened, and the next verses set them apart. The question is not which way the crowd is walking, but whether anyone has checked the road. When I do what everyone around me does, have I ever asked who warned them, and what was said?",
+    "reflectionBn": "দুটি ছোট আয়াতে পাতা উল্টে যায়। একটু আগেও সূরাটি বলছিল জাহান্নামের খাবার আর পানীয়ের কথা, আর সেই লোকদের কথা, যারা বাপ-দাদার পেছনে ছুটতে ছুটতে সেখানে গিয়ে পড়েছে। এবার সূরা ফিরে তাকায় ইতিহাসের দিকে: এদের আগেও পূর্ববর্তীদের বেশির ভাগ পথ হারিয়েছিল, আর তাদের মাঝে সতর্ককারী পাঠানো হয়েছিল। তাহলে পথ হারানোর কারণ ডাক না পাওয়া নয়। প্রত্যেক জাতির মাঝেই কেউ না কেউ দাঁড়িয়ে সাফ বলে গেছেন, এ রাস্তা কোথায় গিয়ে থামে। আর হারিয়েছিল বেশির ভাগ, সবাই নয়। অল্প কিছু মানুষ কথা শুনেছিল, পরের আয়াতগুলো তাদের আলাদা করে দেখায়। আসল প্রশ্ন তাই ভিড় কোন দিকে হাঁটছে তা নয়, কেউ রাস্তাটা যাচাই করেছে কি না। চারপাশের সবাই যা করে আমিও যখন তা-ই করি, কখনো কি জানতে চেয়েছি, তাদের কে সতর্ক করেছিল, আর কী বলা হয়েছিল?",
+    "pointsEn": [
+      "Which of my habits did I take from the people before me without ever asking whether it was right?",
+      "Who has warned me plainly about something, and did I weigh the warning or only resent the one who gave it?",
+      "When I see that most people do a thing, do I treat that as proof, or as a question still to be answered?",
+      "If I were one of the few in my circle to choose differently, what would it cost me, and would I pay it?",
+      "What footsteps am I leaving for the people who will come after me?"
+    ],
+    "pointsBn": [
+      "আমার কোন অভ্যাসগুলো আগের লোকদের কাছ থেকে নিয়েছি, অথচ কখনো ভেবে দেখিনি সেগুলো ঠিক কি না?",
+      "কে আমাকে কোনো বিষয়ে সাফ সতর্ক করেছেন? আমি কি সতর্কবাণীটা ওজন করে দেখেছি, নাকি শুধু যিনি বলেছেন তাঁর ওপর বিরক্ত হয়েছি?",
+      "বেশির ভাগ মানুষ কোনো কাজ করছে দেখলে আমি কি সেটাকেই প্রমাণ ধরে নিই, নাকি এমন প্রশ্ন ভাবি যার উত্তর এখনো খোঁজা বাকি?",
+      "আমার চেনা মহলে যারা ভিন্ন পথ বেছে নেয়, সেই অল্প কজনের একজন যদি আমি হই, তার দাম কী হবে, আর আমি কি তা দিতে রাজি?",
+      "আমার পরে যারা আসবে, তাদের অনুসরণের জন্য আমি কেমন পায়ের ছাপ রেখে যাচ্ছি?"
+    ],
+    "lessonEn": "Being in the majority proves nothing. Weigh what you inherited against what the warners said, and be ready to stand with the few who listened.",
+    "lessonBn": "দলে ভারী হওয়া কোনো প্রমাণ নয়। উত্তরাধিকারে যা পেয়েছেন, তা সতর্ককারীদের কথার সঙ্গে মিলিয়ে দেখুন, আর যে অল্প কজন কথা শুনেছিল, তাদের পাশে দাঁড়াতে প্রস্তুত থাকুন।"
   }
 };
 
