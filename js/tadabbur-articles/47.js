@@ -1059,6 +1059,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "47:22": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Look of Fainting",
+          "bn": "বেহুঁশ চাহনির পরে"
+        },
+        "p": [
+          {
+            "en": "Fa-hal 'asaytum in tawallaytum an tufsidu fi al-ardi wa tuqatti'u arhamakum: so would you perhaps, if you turned away, spread corruption in the land and sever your ties of kinship? The verse does not open a new subject. In 47:20, when a surah is sent down in which fighting is mentioned, those with a disease in their hearts look at the Prophet ﷺ like someone fainting at death, and 47:21 tells them that obedience and a fitting word would have been better. At-Tabari says Allah is addressing exactly these people here.",
+            "bn": "ফাহাল আসাইতুম ইন তাওয়াল্লাইতুম আন তুফসিদু ফিল আরদি ওয়া তুকাত্তিউ আরহামাকুম: মুখ ফিরিয়ে নিলে তোমরা কি তবে দেশে বিপর্যয় ছড়াবে আর আত্মীয়তার বন্ধন ছিন্ন করবে? আয়াতটি নতুন কোনো প্রসঙ্গ শুরু করছে না। ৪৭:২০ আয়াতে যুদ্ধের উল্লেখসহ সূরা নাজিল হলে যাদের অন্তরে রোগ, তারা নবী ﷺ-এর দিকে তাকায় মৃত্যুর ভয়ে বেহুঁশ মানুষের মতো। ৪৭:২১ আয়াত তাদের বলে, আনুগত্য আর ভালো কথাই তাদের জন্য উত্তম ছিল। তাবারী বলেন, আল্লাহ এখানে ঠিক এই লোকদেরই সম্বোধন করছেন।"
+          },
+          {
+            "en": "The verb 'asa expresses expectation, and the commentators gloss it alike. At-Tabari, al-Baghawi and the Muyassar all render fa-hal 'asaytum as fa-la'allakum, then perhaps you. Al-Qurtubi relays from Qatadah and others a second gloss beside it: or, it is feared for you. The form is a question, but it does not ask for information. It holds a likely outcome up before the listener at the point where he can still choose otherwise, and it leaves the answer for him to give.",
+            "bn": "আসা ক্রিয়াটি প্রত্যাশা বোঝায়, আর তাফসীরকারেরা এর ব্যাখ্যাও দেন একইভাবে। তাবারী, বাগাভী আর মুয়াসসার তিনজনই ফাহাল আসাইতুম-এর অর্থ করেন ফালাআল্লাকুম, অর্থাৎ তবে হয়তো তোমরা। কুরতুবী কাতাদা ও অন্যদের সূত্রে পাশে আরেকটি ব্যাখ্যা আনেন: অথবা, তোমাদের ব্যাপারে আশঙ্কা হয়। বাক্যটা প্রশ্নের আকারে, কিন্তু কোনো তথ্য জানতে চাওয়া হচ্ছে না। শ্রোতা যখনো অন্য পথ বেছে নিতে পারে, ঠিক তখনই একটা সম্ভাব্য পরিণতি তার চোখের সামনে তুলে ধরা হয়। উত্তরটা দেওয়ার ভার থাকে তারই হাতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turning Back From What?",
+          "bn": "কিসের থেকে মুখ ফেরানো"
+        },
+        "p": [
+          {
+            "en": "Most of the fetched commentators read tawallaytum as turning away, and they differ on what is turned from. Ibn Kathir keeps to the passage: from jihad, and you held back from it, his word being nakaltum. At-Tabari widens it: if you turned from what Allah sent down, parted from the rulings of His Book, and turned your backs on Muhammad ﷺ and what he brought you. Al-Baghawi says from the Qur'an and its rulings, and the Muyassar from the Book of Allah and the Sunnah of His Prophet ﷺ.",
+            "bn": "যেসব তাফসীর আনা হয়েছে, তার বেশির ভাগই তাওয়াল্লাইতুম-কে মুখ ফিরিয়ে নেওয়া অর্থে পড়ে। মতভেদ শুধু এ নিয়ে যে, মুখ ফেরানো কিসের থেকে। ইবন কাসীর প্রসঙ্গের ভেতরেই থাকেন: জিহাদ থেকে, আর তোমরা তা থেকে পিছিয়ে গেলে। তাঁর শব্দ নাকালতুম। তাবারী পরিধি বাড়ান: আল্লাহ যা নাজিল করেছেন তা থেকে সরে গেলে, তাঁর কিতাবের বিধান ছেড়ে দিলে, আর মুহাম্মাদ ﷺ ও তাঁর আনা দ্বীনের দিকে পিঠ ফেরালে। বাগাভী বলেন কুরআন ও তার বিধান থেকে, আর মুয়াসসার বলে আল্লাহর কিতাব ও তাঁর নবী ﷺ-এর সুন্নাহ থেকে।"
+          },
+          {
+            "en": "As-Sa'di frames it as a fork with only two branches. Whoever turns from obedience to his Lord, he says, does not turn towards good but towards evil. There are two matters: either holding to obedience to Allah and carrying out His commands, and there lie good, right guidance and success; or turning away from that, and then there is nothing there but corruption in the land through acts of disobedience, and the cutting of ties. Al-Qurtubi records the same direction from Ibn Jurayj: if you turned away from obedience.",
+            "bn": "সা'দী বিষয়টাকে দেখান এমন এক মোড় হিসেবে, যার রাস্তা মাত্র দুটি। তিনি বলেন, যে নিজের রবের আনুগত্য থেকে মুখ ফেরায়, সে কল্যাণের দিকে ফেরে না, ফেরে অকল্যাণের দিকে। ব্যাপার দুটিই। হয় আল্লাহর আনুগত্য আঁকড়ে থাকা আর তাঁর হুকুম পালন করা। সেখানেই কল্যাণ, সঠিক পথ আর সফলতা। নয়তো সেখান থেকে মুখ ফিরিয়ে নেওয়া। তখন আর কিছুই থাকে না, থাকে শুধু নাফরমানির মাধ্যমে দেশে বিপর্যয় আর আত্মীয়তার বন্ধন ছিন্ন করা। কুরতুবী ইবন জুরাইজের সূত্রে একই দিকের ব্যাখ্যা আনেন: যদি তোমরা আনুগত্য থেকে মুখ ফিরিয়ে নাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If the Reins Were Handed Over",
+          "bn": "যদি হাতে ক্ষমতা আসত"
+        },
+        "p": [
+          {
+            "en": "The verb can also come from wilayah, being placed in charge, and here the commentators genuinely divide. Ma'arif al-Qur'an sets out both senses: tawalla can mean i'rad, turning away, or being put in authority over people. Some commentators take the first, it says, and others the second. On the second reading the verse runs: if affairs were entrusted to you while you are morally unwell, you would spread corruption and cut your ties. At-Tabari mentions this reading as the interpretation of some, but his own paraphrase follows turning away.",
+            "bn": "ক্রিয়াটি বিলায়াহ থেকেও আসতে পারে, অর্থাৎ কর্তৃত্বে বসানো। এখানে তাফসীরকারদের মধ্যে সত্যিকারের মতভেদ আছে। মাআরিফুল কুরআন দুটি অর্থই তুলে ধরে: তাওয়াল্লা মানে হতে পারে ই'রাদ, মানে মুখ ফিরিয়ে নেওয়া, আবার হতে পারে মানুষের উপর কর্তৃত্ব পাওয়া। কিছু তাফসীরকার প্রথমটি নেন, কেউ কেউ দ্বিতীয়টি। দ্বিতীয় পাঠে আয়াতের অর্থ দাঁড়ায়: নৈতিকভাবে অসুস্থ অবস্থায় তোমাদের হাতে কাজকর্মের ভার এলে তোমরা বিপর্যয় ছড়াবে আর আত্মীয়তার বন্ধন কাটবে। তাবারী এই ব্যাখ্যাকে কিছু লোকের মত হিসেবে উল্লেখ করেন, তবে তাঁর নিজের ব্যাখ্যা মুখ ফেরানোর অর্থকেই অনুসরণ করে।"
+          },
+          {
+            "en": "Al-Qurtubi opens by saying that the meaning of in tawallaytum was disputed, and gives the authority side in three voices. Abu al-'Aliyah: if you were made judges, you would spread corruption by taking bribes. Al-Kalbi: if you took charge of the community's affairs, by injustice. Ka'b: if you held command, some of you would kill others. Then, under the turning-away side, he gives Qatadah and others.",
+            "bn": "কুরতুবী শুরুতেই বলেন, ইন তাওয়াল্লাইতুম-এর অর্থ নিয়ে মতভেদ হয়েছে। কর্তৃত্বের পক্ষে তিনি তিনজনের কথা আনেন। আবুল আলিয়া বলেন: তোমাদের বিচারক বানানো হলে তোমরা ঘুষ নিয়ে দেশে বিপর্যয় ছড়াবে। কালবী বলেন: উম্মাহর কাজের দায়িত্ব পেলে জুলুম করে। কা'ব বলেন: ক্ষমতা হাতে এলে তোমরা একে অপরকে হত্যা করবে। এরপর মুখ ফেরানোর পক্ষে তিনি আনেন কাতাদা ও অন্যদের কথা।"
+          },
+          {
+            "en": "A third angle comes from a variant reading. Al-Qurtubi and al-Baghawi both report that 'Ali ibn Abi Talib (RA) read the verb in the passive, tuwullitum, if you were placed under rule. Al-Qurtubi adds that this was also the reading of Ibn Abi Ishaq, transmitted by Ruways from Ya'qub. Its sense, as both give it: if tyrannical rulers were set over you, you went out with them into the strife. On this reading the warning falls also on those who follow corruption from below, not only on those who command it from above.",
+            "bn": "তৃতীয় একটি দিক আসে ভিন্ন এক কিরাআত থেকে। কুরতুবী ও বাগাভী দুজনেই জানান, আলী ইবন আবি তালিব (রাঃ) ক্রিয়াটি কর্মবাচ্যে পড়তেন: তুউল্লিতুম, মানে যদি তোমাদের উপর শাসক বসানো হয়। কুরতুবী যোগ করেন, ইবন আবি ইসহাকেরও এই কিরাআত ছিল, আর রুওয়াইস তা ইয়াকুব থেকে বর্ণনা করেছেন। দুজনের দেওয়া অর্থ: জালিম শাসক তোমাদের উপর চাপানো হলে তোমরা তাদের সঙ্গে ফিতনায় বেরিয়ে পড়লে। এই পাঠে সতর্কবাণী শুধু উপর থেকে যারা হুকুম চালায় তাদের উপর নয়, নিচ থেকে যারা বিপর্যয়ের পেছনে চলে তাদের উপরও পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Back to the Days Before",
+          "bn": "আগের দিনগুলোতে ফিরে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "What does the corruption consist of? The commentators answer with a memory. Ibn Kathir: you would go back to what you were in before, the jahiliyyah of utter ignorance, shedding blood and cutting ties. Al-Baghawi: you would return to what you were upon in the jahiliyyah, spreading corruption by disobedience, transgression and bloodshed, and go back to division after Allah had gathered you by Islam. At-Tabari draws the same contrast: back to the scattering and splitting of your jahiliyyah, after Allah had gathered you by Islam and joined your hearts by it.",
+            "bn": "বিপর্যয়টা আসলে কী? তাফসীরকারেরা উত্তর দেন একটা স্মৃতি দিয়ে। ইবন কাসীর বলেন: তোমরা আবার ফিরে যাবে সেই ঘোর জাহিলিয়্যাতে, যেখানে আগে ছিলে, রক্ত ঝরাবে আর আত্মীয়তার বন্ধন কাটবে। বাগাভী বলেন: জাহিলিয়্যাতে যে অবস্থায় ছিলে সেখানে ফিরে গিয়ে নাফরমানি, সীমালঙ্ঘন আর রক্তপাতে দেশে বিপর্যয় ছড়াবে। ইসলাম দিয়ে আল্লাহ তোমাদের এক করার পরও আবার ভাগ হয়ে যাবে। তাবারীও একই তুলনা টানেন। আল্লাহ ইসলাম দিয়ে তোমাদের জড়ো করেছেন, এর মাধ্যমে তোমাদের অন্তর জুড়ে দিয়েছেন। তারপরও তোমরা ফিরে যাবে জাহিলিয়্যাতের সেই ছড়িয়ে-ছিটিয়ে থাকা, টুকরো টুকরো অবস্থায়।"
+          },
+          {
+            "en": "At-Tabari also defines the corruption itself: that you disobey Allah in the land, disbelieve in Him and shed blood in it. Ma'arif al-Qur'an fills in the old order: injustice, tribe raiding tribe, killing, and people burying their own daughters alive with their own hands. Qatadah, in at-Tabari's report, asks his listeners: how did you see the people when they turned away from the Book of Allah? Did they not shed forbidden blood, cut ties and disobey the Most Merciful? In a second chain his whole comment is: fa'alu, they did.",
+            "bn": "তাবারী বিপর্যয়েরও সংজ্ঞা দেন: দেশে আল্লাহর নাফরমানি করা, তাঁকে অস্বীকার করা আর সেখানে রক্ত ঝরানো। মাআরিফুল কুরআন সেই পুরোনো ব্যবস্থার ছবি আঁকে: জুলুম, এক গোত্রের উপর আরেক গোত্রের হামলা, খুনোখুনি, আর নিজের হাতে নিজের মেয়েকে জীবন্ত কবর দেওয়া। তাবারীর বর্ণনায় কাতাদা শ্রোতাদের জিজ্ঞেস করেন: যে লোকেরা আল্লাহর কিতাব থেকে মুখ ফিরিয়েছিল, তাদের কেমন দেখলে? তারা কি হারাম রক্ত ঝরায়নি, আত্মীয়তার বন্ধন কাটেনি, রহমানের নাফরমানি করেনি? আরেক সনদে তাঁর পুরো মন্তব্য কেবল একটি শব্দ: ফাআলু, তারা তা-ই করেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the Question Faces",
+          "bn": "প্রশ্নটা কার মুখোমুখি"
+        },
+        "p": [
+          {
+            "en": "Who is being asked? At-Tabari ties the verse to the people of 47:20, and Ma'arif's bracketed translation addresses it to the hypocrites. Al-Qurtubi holds two statements side by side. On the addressees he says the more apparent view is that the hypocrites are meant; later, after the hadith, he says the outward sense of the verse is an address to all the disbelievers. He also records attempts to attach the verse to particular clans or to a later faction, and calls one of them far-fetched.",
+            "bn": "প্রশ্নটা কাকে করা হচ্ছে? তাবারী আয়াতটিকে ৪৭:২০ আয়াতের সেই লোকদের সঙ্গে যুক্ত করেন, আর মাআরিফের অনুবাদে বন্ধনীর ভেতরে সম্বোধন করা হয়েছে মুনাফিকদের। কুরতুবী দুটি কথা পাশাপাশি রাখেন। সম্বোধিত কারা, সে প্রসঙ্গে তিনি বলেন, বেশি স্পষ্ট মত হলো এখানে মুনাফিকরাই উদ্দেশ্য। পরে হাদীসের আলোচনার পর বলেন, আয়াতের বাহ্যিক অর্থে সম্বোধন সব কাফিরের প্রতি। আয়াতটিকে নির্দিষ্ট কিছু গোত্র বা পরবর্তী কালের একটি দলের সঙ্গে জুড়ে দেওয়ার চেষ্টাও তিনি উল্লেখ করেন, আর তার একটিকে দূরবর্তী ব্যাখ্যা বলেন।"
+          },
+          {
+            "en": "The next verse makes the stakes plain: those are the ones whom Allah has cursed, so He made them deaf and blinded their sight. Because the passage moves from corruption to a curse, this must be said firmly: 47:22 and 47:23 describe what they describe, people of that hour who turned away, and they license nothing against any living person or community, nor against any ruler, family or party in later history. The question was put to its listeners so that they would not become what it describes. Aimed at a neighbour or a relative, it loses its point.",
+            "bn": "পরের আয়াত বিষয়টার গুরুত্ব স্পষ্ট করে দেয়: এরাই তারা, যাদের আল্লাহ লানত করেছেন, ফলে তাদের বধির করেছেন আর তাদের দৃষ্টি অন্ধ করে দিয়েছেন। আলোচনা যেহেতু বিপর্যয় থেকে লানতের দিকে যায়, তাই কথাটা দৃঢ়ভাবে বলা দরকার। ৪৭:২২ আর ৪৭:২৩ আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: সেই সময়ের কিছু লোক, যারা মুখ ফিরিয়ে নিয়েছিল। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। পরবর্তী ইতিহাসের কোনো শাসক, পরিবার বা দলের বিরুদ্ধেও নয়। প্রশ্নটা শ্রোতাদের করা হয়েছিল, যাতে তারা নিজেরাই বর্ণনার মানুষগুলো হয়ে না যায়। প্রতিবেশী বা আত্মীয়ের দিকে তাক করলে প্রশ্নটার আসল উদ্দেশ্যই হারিয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Womb Seeks Refuge",
+          "bn": "রেহেমের আশ্রয় চাওয়া"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari records, as hadith 4830, from Abu Hurayrah (RA) that the Prophet ﷺ said: Allah created the creation, and when He had finished it, the womb stood and took hold of the haqw of the Most Merciful. He said to it: Stop. It said: This is the stand of whoever seeks refuge with You from being cut. He said: Will you not be content that I join whoever joins you and cut whoever cuts you? It said: Indeed, my Lord. He said: Then that is yours. Abu Hurayrah said: Recite if you wish, and recited this verse.",
+            "bn": "বুখারী ৪৮৩০ নম্বর হাদীসে আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: আল্লাহ সৃষ্টিজগৎ সৃষ্টি করলেন। সৃষ্টি শেষ হলে রেহেম (আত্মীয়তার বন্ধন) উঠে দাঁড়াল আর রহমানের হাকও ধরে ফেলল। তিনি তাকে বললেন: থামো। সে বলল: এ হলো ছিন্ন হওয়া থেকে আপনার কাছে আশ্রয়প্রার্থীর অবস্থান। তিনি বললেন: তুমি কি এতে সন্তুষ্ট নও যে, যে তোমাকে জুড়বে আমি তাকে জুড়ব, আর যে তোমাকে ছিন্ন করবে আমি তাকে ছিন্ন করব? সে বলল: অবশ্যই, হে আমার রব। তিনি বললেন: তবে তা তোমারই। আবু হুরায়রা বললেন: চাইলে পড়ে দেখো, আর এই আয়াতটি তিলাওয়াত করলেন।"
+          },
+          {
+            "en": "At-Tabari carries the same hadith with his own chain to Abu Hurayrah, and Ibn Kathir cites it from al-Bukhari under this passage. In the very next entry, hadith 4831, al-Bukhari gives a second chain in which it is the Messenger of Allah ﷺ himself who says: recite if you wish, fa-hal 'asaytum. Al-Qurtubi cites the hadith from Sahih Muslim as well.",
+            "bn": "তাবারী নিজের সনদে আবু হুরায়রা পর্যন্ত একই হাদীস বর্ণনা করেন, আর ইবন কাসীর এ আলোচনায় হাদীসটি বুখারী থেকে উদ্ধৃত করেন। ঠিক পরের হাদীসে, ৪৮৩১ নম্বরে, বুখারী আরেকটি সনদ আনেন। সেখানে চাইলে পড়ে দেখো, ফাহাল আসাইতুম, কথাটা বলছেন রাসূলুল্লাহ ﷺ নিজে। কুরতুবী হাদীসটি সহীহ মুসলিম থেকেও উদ্ধৃত করেন।"
+          },
+          {
+            "en": "Al-Qurtubi pauses on the womb standing and speaking, and gives two ways to take it. Either Allah appointed one of the angels to speak for it, charged with defending it and recording the reward of whoever joins it and the burden of whoever cuts it. Or it is a likeness: had the womb been able to reason and speak, this is what it would have said, as in 59:21, had We sent this Qur'an down on a mountain. Either way, he says, the point is how firmly kinship is to be kept.",
+            "bn": "রেহেমের দাঁড়ানো আর কথা বলার জায়গায় কুরতুবী থামেন, আর এর দুটি ব্যাখ্যা দেন। হয়তো আল্লাহ ফেরেশতাদের একজনকে রেহেমের পক্ষে কথা বলার দায়িত্ব দিয়েছেন। তিনি তার পক্ষে লড়েন, যে জোড়ে তার নেকি আর যে কাটে তার গুনাহ লিখে রাখেন। নয়তো এটা একটা দৃষ্টান্ত: রেহেম যদি বুঝতে আর বলতে পারত, তবে এ কথাই বলত। যেমন ৫৯:২১ আয়াতে আছে, এই কুরআন যদি আমি পাহাড়ের উপর নাজিল করতাম। কুরতুবী বলেন, যেভাবেই ধরা হোক, মূল কথা হলো আত্মীয়তার বন্ধন রক্ষা করা কতটা জরুরি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Kinds of Tie",
+          "bn": "দুই রকমের বন্ধন"
+        },
+        "p": [
+          {
+            "en": "Which ties does the verse mean? Ma'arif al-Qur'an explains arham as the plural of rahim, the womb; since it is the source of every relationship, the word came to mean kinship itself. Al-Qurtubi notes that on Qatadah's reading the tie is wider: the bond of the religion of Islam and of faith, which Allah named brotherhood in 49:10, the believers are but brothers. He then divides rahim into two: a general tie, that of religion, and a particular one, kinship through a man's father and mother.",
+            "bn": "আয়াতে কোন বন্ধনের কথা বলা হচ্ছে? মাআরিফুল কুরআন বলে, আরহাম হলো রাহিম-এর বহুবচন, মানে মাতৃগর্ভ। সব সম্পর্কের উৎস সেখানেই, তাই শব্দটা আত্মীয়তার অর্থেই চালু হয়ে গেছে। কুরতুবী জানান, কাতাদার ব্যাখ্যা ধরলে বন্ধনটা আরও বড়: ইসলাম ও ঈমানের বন্ধন, যাকে আল্লাহ ৪৯:১০ আয়াতে ভ্রাতৃত্ব বলেছেন, মুমিনরা তো পরস্পর ভাই। এরপর তিনি রেহেমকে দুই ভাগে ভাগ করেন। একটি সাধারণ বন্ধন, দ্বীনের বন্ধন। অন্যটি বিশেষ বন্ধন, বাবা ও মা দুই দিক থেকে আসা রক্তের আত্মীয়তা।"
+          },
+          {
+            "en": "The general tie, he says, is kept by holding to faith and loving its people, helping them, giving them sincere counsel, not harming them, being just among them and fair in dealing with them, nursing their sick, and washing, praying over and burying their dead. The particular tie carries all of this and more: spending on relatives, looking into their situation, and not ignoring them in their times of need. When the claims compete, the nearest comes first, then the next nearest. On which relatives must be joined, he records two narrower views.",
+            "bn": "তিনি বলেন, সাধারণ বন্ধন রক্ষা হয় ঈমান আঁকড়ে থেকে, ঈমানদারদের ভালোবেসে, তাদের সাহায্য করে, আন্তরিক নসিহত করে, তাদের ক্ষতি না করে, তাদের মধ্যে ইনসাফ করে আর লেনদেনে ন্যায্য থেকে। তাদের অসুস্থদের সেবা করা, মৃতদের গোসল দেওয়া, জানাজা পড়া আর দাফন করাও এর অংশ। বিশেষ বন্ধনে এসবের সঙ্গে আরও কিছু যোগ হয়: আত্মীয়দের জন্য খরচ করা, তাদের খোঁজখবর রাখা, আর বিপদের সময় তাদের কথা ভুলে না থাকা। হকগুলো একসঙ্গে ভিড় করলে আগে নিকটতম জন, তারপর তার পরের জন। কোন আত্মীয়দের সঙ্গে সম্পর্ক রাখা আবশ্যক, এ নিয়ে তিনি দুটি সংকীর্ণ মত উল্লেখ করেন।"
+          },
+          {
+            "en": "One view limited the duty to relatives within the forbidden degrees of marriage, which would leave out cousins; another tied it to those who inherit as kin, which would leave out the mother's relatives who do not. Al-Qurtubi answers that this is not correct: whatever the word rahim covers must be joined in every case. Ibn Kathir, under this passage, gives the verse its shape: a general prohibition of spreading corruption in the land and a particular prohibition of cutting ties, with a command to join them by kind speech, action and spending.",
+            "bn": "একটি মত দায়িত্বটাকে সীমিত করেছে কেবল সেই আত্মীয়দের মধ্যে, যাদের সঙ্গে বিয়ে হারাম। তাতে চাচাতো, মামাতো ভাইবোনেরা বাদ পড়ে যায়। আরেকটি মত একে বেঁধেছে উত্তরাধিকারী আত্মীয়দের সঙ্গে, তাতে মায়ের দিকের যেসব আত্মীয় উত্তরাধিকার পান না, তাঁরা বাদ পড়েন। কুরতুবী জবাব দেন, এটা সঠিক নয়। রেহেম শব্দটা যাদের যাদের ঘিরে রাখে, সবার সঙ্গেই সম্পর্ক রাখা সব অবস্থায় জরুরি। ইবন কাসীর এ আলোচনায় আয়াতের কাঠামো দেখান: দেশে বিপর্যয় ছড়ানোর বিরুদ্ধে একটি সাধারণ নিষেধ, আর আত্মীয়তার বন্ধন কাটার বিরুদ্ধে একটি বিশেষ নিষেধ। সঙ্গে আছে ভালো কথা, ভালো কাজ আর খরচের মাধ্যমে সেই বন্ধন জুড়ে রাখার আদেশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Joining Those Who Cut You",
+          "bn": "যে কাটে, তাকেও জোড়া"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari records, as hadith 5991, from 'Abdullah ibn 'Amr that the Prophet ﷺ said: The joiner of ties is not he who repays in kind; the joiner is he who, when his kin cut him off, joins them. Al-Bukhari's chain itself notes that al-A'mash did not raise it to the Prophet ﷺ, while al-Hasan ibn 'Amr and Fitr did. Ma'arif al-Qur'an cites it from al-Bukhari under this verse, and it answers what the verse leaves open: keeping ties is measured by the relative who has stopped answering.",
+            "bn": "বুখারী ৫৯৯১ নম্বর হাদীসে আবদুল্লাহ ইবন আমর থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: যে বদলা হিসেবে সম্পর্ক রাখে, সে আসল সম্পর্ক রক্ষাকারী নয়। আসল সম্পর্ক রক্ষাকারী সে, যার সঙ্গে আত্মীয়রা সম্পর্ক ছিন্ন করলেও সে তা জুড়ে রাখে। বুখারীর সনদেই উল্লেখ আছে, আ'মাশ হাদীসটি নবী ﷺ পর্যন্ত পৌঁছাননি, তবে হাসান ইবন আমর ও ফিতর পৌঁছিয়েছেন। মাআরিফুল কুরআন এ আয়াতের আলোচনায় হাদীসটি বুখারী থেকে উদ্ধৃত করে। আয়াত যে কথাটা খোলা রেখে দেয়, হাদীসটি তার জবাব দেয়: সম্পর্ক রাখার আসল মাপ সেই আত্মীয়, যে আর সাড়া দেয় না।"
+          },
+          {
+            "en": "Al-Bukhari also records, as hadith 5984, from Jubayr ibn Mut'im that he heard the Prophet ﷺ say: The cutter will not enter Paradise. Al-Qurtubi cites it under this verse. At-Tirmidhi records, as hadith 2511, from Abu Bakrah that the Messenger of Allah ﷺ said: There is no sin more fitting for Allah to hasten its punishment upon its doer in this world, along with what He stores up for him in the Hereafter, than oppression and cutting the ties of kinship. At-Tirmidhi grades it hasan sahih. It is a general narration, not attached to this verse, though Ibn Kathir cites it in this passage.",
+            "bn": "বুখারী ৫৯৮৪ নম্বর হাদীসে জুবাইর ইবন মুতইম থেকে বর্ণনা করেন, তিনি নবী ﷺ-কে বলতে শুনেছেন: সম্পর্ক ছিন্নকারী জান্নাতে প্রবেশ করবে না। কুরতুবী এ আয়াতের আলোচনায় হাদীসটি আনেন। তিরমিযী ২৫১১ নম্বর হাদীসে আবু বাকরা থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: জুলুম আর আত্মীয়তার বন্ধন ছিন্ন করার চেয়ে বেশি উপযুক্ত কোনো গুনাহ নেই, যার শাস্তি আল্লাহ দুনিয়াতেই দ্রুত দিয়ে দেন, আখিরাতে তার জন্য যা জমা রাখেন তার পাশাপাশি। তিরমিযী একে হাসান সহীহ বলেছেন। এটি একটি সাধারণ বর্ণনা, এ আয়াতের সঙ্গে সরাসরি যুক্ত নয়, যদিও ইবন কাসীর এ আলোচনায় তা উল্লেখ করেন।"
+          },
+          {
+            "en": "What the commentators hand the reader is a check rather than a verdict. As-Sa'di's two roads ask where my obedience has thinned. Abu al-'Aliyah's bribes and al-Kalbi's injustice ask what I do with the small authority I already hold, over a household, a team or an inheritance. Al-Qurtubi's two ties ask whom I have quietly stopped visiting. And the hadith of 'Abdullah ibn 'Amr asks the hardest thing of all: whether I will keep calling the relative who never calls me.",
+            "bn": "তাফসীরকারেরা পাঠকের হাতে যা তুলে দেন, তা কারও বিরুদ্ধে রায় নয়, নিজেকে যাচাইয়ের উপায়। সা'দীর দুই রাস্তা জিজ্ঞেস করে, আমার আনুগত্য কোথায় পাতলা হয়ে এসেছে। আবুল আলিয়ার ঘুষ আর কালবীর জুলুমের কথা জিজ্ঞেস করে, সংসার, কাজের দল বা উত্তরাধিকারের উপর যে সামান্য কর্তৃত্ব আমার হাতে আছে, তা দিয়ে আমি কী করছি। কুরতুবীর দুই বন্ধন জিজ্ঞেস করে, কার কাছে আমি চুপচাপ যাওয়া বন্ধ করে দিয়েছি। আর আবদুল্লাহ ইবন আমরের হাদীস সবচেয়ে কঠিন প্রশ্নটা করে: যে আত্মীয় কখনো আমাকে ফোন করে না, তাকে কি আমি ফোন করে যাব?"
+          }
+        ]
+      }
+    ]
+  },
   "47:24": {
     "sections": [
       {

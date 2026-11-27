@@ -38311,6 +38311,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah needs no help; helping His religion is for your own good. Give it in word and deed, for His sake, and ask Him for the firm footing He promises in return.",
     "lessonBn": "আল্লাহর কারও সাহায্যের দরকার নেই, তাঁর দ্বীনকে সাহায্য করা আপনার নিজেরই কল্যাণ। কথায় ও কাজে, তাঁরই সন্তুষ্টির জন্য সে সাহায্য দিন, আর বিনিময়ে তাঁর প্রতিশ্রুত দৃঢ় পা চেয়ে নিন।"
+  },
+  "47:22": {
+    "reflectionEn": "The question comes straight after a picture of people who, when fighting was named, stared like someone fainting at death. Then: so would you perhaps, if you turned away, spread corruption in the land and cut your ties of kinship? The Qur'an joins two things I rarely think of together: walking away from what Allah asked, and breaking with my own relatives. Leave the command behind, the verse warns, and the old habits come back: blood, feuds, family against family. It is asked as a question, before the deed and not after. So I put it to myself. What have I been turning away from, and has my family already begun to pay for it? Whom have I stopped calling?",
+    "reflectionBn": "আয়াতটি আসে একটা ছবির ঠিক পরেই। যুদ্ধের কথা নাজিল হতেই কিছু লোক তাকিয়ে থাকে মৃত্যুর ভয়ে বেহুঁশ মানুষের মতো। তারপর প্রশ্ন আসে: মুখ ফিরিয়ে নিলে তোমরা কি তবে দেশে বিপর্যয় ছড়াবে আর আত্মীয়তার বন্ধন ছিঁড়ে ফেলবে? যে দুটো জিনিসকে আমি সাধারণত পাশাপাশি ভাবি না, কুরআন সে দুটোকে এক সুতোয় গাঁথে। আল্লাহর হুকুম থেকে সরে যাওয়া, আর নিজের আপনজনের সঙ্গে সম্পর্ক ভেঙে ফেলা। হুকুম পেছনে ফেলে দিলে পুরোনো অভ্যাস ফিরে আসে: রক্তপাত, শত্রুতা, এক পরিবার আরেক পরিবারের বিরুদ্ধে। প্রশ্নটা করা হয়েছে কাজটা ঘটার আগে, পরে নয়। তাই প্রশ্নটা আমি নিজেকেই করি। কোন জিনিস থেকে আমি মুখ ফিরিয়ে আছি? তার দাম কি আমার পরিবার এর মধ্যেই দিতে শুরু করেছে? কাকে আমি আর ফোন করি না?",
+    "pointsEn": [
+      "Which command of Allah have I been quietly turning away from, and what has moved in to fill the space it left?",
+      "Is there a relative I have not spoken to in months, and what would a single call this week really cost me?",
+      "Where I have been given charge of something, at home, at work or in the family, do I use it to mend ties or to settle scores?",
+      "Do I keep ties only with the relatives who keep them with me, or also with the one who cut me off?",
+      "When I read whom the Qur'an condemns, do I look for myself in the description, or for someone else to blame?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কোন হুকুম থেকে আমি চুপচাপ মুখ ফিরিয়ে আছি? আর সেটা যে জায়গা খালি রেখে গেছে, সেখানে কী এসে বসেছে?",
+      "এমন কোনো আত্মীয় কি আছেন, যাঁর সঙ্গে মাসের পর মাস কথা হয়নি? এ সপ্তাহে একটা ফোন করতে আসলে আমার কী খরচ হবে?",
+      "ঘরে, কাজে বা পরিবারে যেখানে আমার হাতে কিছুটা দায়িত্ব এসেছে, সেটা দিয়ে কি আমি সম্পর্ক জোড়া লাগাই, নাকি পুরোনো হিসাব মেটাই?",
+      "আমি কি শুধু সেই আত্মীয়দের সঙ্গেই সম্পর্ক রাখি, যারা আমার সঙ্গে রাখে? নাকি যে আমাকে ছেড়ে দিয়েছে, তার সঙ্গেও?",
+      "কুরআন যাদের নিন্দা করে তাদের কথা পড়ার সময় আমি কি সেই বর্ণনায় নিজেকে খুঁজি, নাকি দোষ চাপানোর জন্য অন্য কাউকে খুঁজি?"
+    ],
+    "lessonEn": "Hold to what Allah commands, for turning from it opens the way to corruption; and keep your ties of kinship, even with the relative who has cut you off.",
+    "lessonBn": "আল্লাহর হুকুম আঁকড়ে ধরুন, কারণ তা থেকে মুখ ফেরালেই বিপর্যয়ের পথ খুলে যায়। আর আত্মীয়তার বন্ধন বজায় রাখুন, এমনকি যে আত্মীয় আপনার সঙ্গে সম্পর্ক ছিন্ন করেছে, তার সঙ্গেও।"
   }
 };
 
