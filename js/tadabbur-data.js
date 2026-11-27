@@ -36093,6 +36093,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Seek your provision from Allah alone, worship Him and thank Him for what comes; nothing else you lean on owns a single morsel of it.",
     "lessonBn": "রিযক চান শুধু আল্লাহর কাছে, তাঁর ইবাদত করুন আর যা আসে তার জন্য তাঁর শোকর করুন। আর যার উপরই ভরসা করুন, রিযকের এক লোকমারও মালিক সে নয়।"
+  },
+  "29:6": {
+    "reflectionEn": "Effort can start to feel like a gift we hand to God: the prayer kept when sleep was sweeter, the temper held, the old habit finally broken. This verse turns that feeling around. Whoever strives, strives only for himself, and Allah is free of need of the worlds. Nothing we do adds to Him, and nothing we hold back takes anything from Him. Every hour spent struggling with a lazy self, a whispering doubt or a stubborn weakness comes back to the one who spent it. That ends two quiet habits at once: counting our efforts as favours to be repaid, and giving up because no one seems to notice. The striving was never for an audience. From the start, it was for our own souls.",
+    "reflectionBn": "পরিশ্রম করতে করতে একসময় মনে হতে পারে, আমরা যেন আল্লাহকে কিছু উপহার দিচ্ছি। ঘুম মিষ্টি লাগছিল, তবু নামাজে দাঁড়িয়েছি। রাগ উঠেছিল, তবু সামলেছি। পুরোনো বদভ্যাসটা অবশেষে ছেড়েছি। এ আয়াত সেই অনুভূতিটা উল্টে দেয়। যে চেষ্টা করে, সে নিজের জন্যই করে, আর আল্লাহ সৃষ্টিজগতের কারও মুখাপেক্ষী নন। আমাদের আমলে তাঁর কিছু বাড়ে না, আমরা হাত গুটিয়ে নিলেও তাঁর কিছু কমে না। অলস মন, কুমন্ত্রণার ফিসফিসানি বা জেদি দুর্বলতার সঙ্গে লড়াইয়ে যে সময়টুকু যায়, তার সবটা ফিরে আসে যে লড়েছে তার কাছেই। এতে দুটো চুপচাপ অভ্যাস একসঙ্গে ভাঙে। আমলকে দয়া ভেবে তার বদলা গোনা, আর কেউ খেয়াল করছে না বলে হাল ছেড়ে দেওয়া। এ লড়াই কোনো দর্শকের জন্য ছিল না। শুরু থেকেই ছিল নিজের প্রাণের জন্য।",
+    "pointsEn": [
+      "Which of my efforts have I been treating as a favour to Allah, as if something were owed to me in return?",
+      "Where is my own self most reluctant to do good right now, and what one small step would push against it this week?",
+      "Do I slacken in a good habit when nobody sees it, and what does that tell me about whom I was really doing it for?",
+      "If the benefit of every effort returns to me, which good thing am I still postponing at my own expense?",
+      "Allah needs none of my worship, yet He commands it; how should knowing why change the way I pray tomorrow?"
+    ],
+    "pointsBn": [
+      "আমার কোন কোন আমলকে আমি আল্লাহর প্রতি দয়া বলে ধরে নিয়েছি, যেন বদলে আমার কিছু পাওনা আছে?",
+      "এই মুহূর্তে আমার মন কোন ভালো কাজে সবচেয়ে বেশি গড়িমসি করে? এ সপ্তাহে কোন ছোট্ট পদক্ষেপ সেই টানের বিরুদ্ধে দাঁড়াতে পারে?",
+      "কেউ দেখছে না বলে কি আমি কোনো ভালো অভ্যাসে ঢিলে দিই? তাহলে কাজটা আসলে কার জন্য করছিলাম?",
+      "প্রতিটি চেষ্টার লাভ যদি আমার কাছেই ফেরে, তবে কোন ভালো কাজটা আমি এখনো নিজেরই ক্ষতি করে পিছিয়ে রাখছি?",
+      "আমার ইবাদতের কোনো প্রয়োজন আল্লাহর নেই, তবু তিনি তা আদেশ করেছেন। কেন করেছেন, সেটা বুঝলে কাল থেকে আমার নামাজ কীভাবে বদলানো উচিত?"
+    ],
+    "lessonEn": "Every effort you make in obedience benefits you, not Allah, who needs nothing; so strive without counting it a favour and without waiting to be noticed.",
+    "lessonBn": "আনুগত্যের পথে আপনার প্রতিটি চেষ্টার লাভ আপনারই, আল্লাহর নয়, তিনি কিছুরই মুখাপেক্ষী নন। তাই চেষ্টা করুন, একে দয়া ভেবে হিসাব না কষে আর কারও নজরে পড়ার অপেক্ষা না করে।"
   }
 };
 

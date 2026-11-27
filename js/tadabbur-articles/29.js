@@ -163,6 +163,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "29:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "Effort That Comes Back Home",
+          "bn": "যে চেষ্টা ঘরে ফেরে"
+        },
+        "p": [
+          {
+            "en": "Wa-man jahada fa-innama yujahidu li-nafsihi: and whoever strives, strives only for himself. The verb comes from the root j-h-d, the root of jihad, and the sentence folds it back on itself: the particle innama narrows the claim, and li-nafsihi turns the whole effort towards the one who made it. Then comes the reason: inna Allaha la-ghaniyyun 'an al-'alamin, indeed Allah is free of need of the worlds. Ten Arabic words in two clauses, and the second explains the first.",
+            "bn": "ওয়া মান জাহাদা ফাইন্নামা ইউজাহিদু লিনাফসিহি: আর যে চেষ্টা করে, সে নিজের জন্যই চেষ্টা করে। ক্রিয়াটি এসেছে জ-হ-দ ধাতু থেকে, জিহাদ শব্দটিও এই ধাতুরই। বাক্যটি ক্রিয়াটিকে ঘুরিয়ে তার কর্তার দিকেই ফিরিয়ে দেয়। ইন্নামা শব্দটি দাবিটাকে একটি জায়গায় বেঁধে দেয়, আর লিনাফসিহি গোটা চেষ্টাকে যে করেছে তার দিকেই ফেরায়। এরপর আসে কারণ: ইন্নাল্লাহা লাগানিয়্যুন আনিল আলামীন, নিশ্চয় আল্লাহ সৃষ্টিজগতের মুখাপেক্ষী নন। আরবিতে দশটি শব্দ, দুটি অংশ। দ্বিতীয় অংশটি প্রথমটির ব্যাখ্যা।"
+          },
+          {
+            "en": "The verse sits inside a short run about trial. 29:2 asks whether people thought they would be left alone after saying 'we believe', 29:3 recalls that those before them were tried, and 29:5 speaks to whoever hopes to meet Allah: His appointed term is surely coming. This verse follows with the effort that such hope demands, and 29:7 then promises those who believe and do good that their misdeeds will be removed. The same verb returns in 29:8, this time for parents who strive to make a child associate partners with Allah.",
+            "bn": "আয়াতটি পরীক্ষা নিয়ে কয়েকটি আয়াতের ছোট্ট এক ধারার মাঝখানে। ২৯:২ প্রশ্ন তোলে, মানুষ কি ভেবেছে ‘আমরা ঈমান এনেছি’ বললেই তাদের ছেড়ে দেওয়া হবে? ২৯:৩ মনে করিয়ে দেয়, তাদের আগের লোকদেরও পরীক্ষা করা হয়েছিল। ২৯:৫ কথা বলে তার সঙ্গে, যে আল্লাহর সাক্ষাৎ পাওয়ার আশা রাখে: আল্লাহর নির্ধারিত সময় আসবেই। সেই আশা যে পরিশ্রম দাবি করে, এ আয়াত তার কথা বলে। এরপর ২৯:৭ ঈমানদার ও সৎকর্মশীলদের প্রতিশ্রুতি দেয় যে তাদের মন্দ কাজগুলো মুছে দেওয়া হবে। একই ক্রিয়া আবার ফিরে আসে ২৯:৮ আয়াতে। সেখানে চেষ্টা করছে বাবা-মা, সন্তানকে দিয়ে আল্লাহর সঙ্গে শরীক করানোর জন্য।"
+          },
+          {
+            "en": "Ibn Kathir reads the verse beside another: whoever does a righteous deed, it is for himself (41:46). He explains it briefly. Whoever does a righteous deed, the benefit of that deed returns to his own self, because Allah is free of need of the actions of His servants. Read this way, the verse is less about the size of an effort than about its address. Whatever is done in striving is sent, in the end, to the person who did it.",
+            "bn": "ইবন কাসীর আয়াতটি পড়েন আরেকটি আয়াতের পাশে রেখে: যে সৎকাজ করে, সে নিজের জন্যই করে (৪১:৪৬)। ব্যাখ্যাটা তিনি সংক্ষেপে দেন। যে সৎকাজ করে, সেই কাজের লাভ ফিরে আসে তার নিজের কাছেই, কারণ বান্দাদের আমলের কোনো প্রয়োজন আল্লাহর নেই। এভাবে পড়লে আয়াতটির মূল কথা চেষ্টার পরিমাণ নয়, চেষ্টার ঠিকানা। চেষ্টায় যা কিছু করা হয়, শেষমেশ তা পৌঁছায় যে করেছে তার কাছেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patience Against Hardship",
+          "bn": "কষ্টের মুখে অটল থাকা"
+        },
+        "p": [
+          {
+            "en": "What does jahada cover here? Al-Baghawi gives a definition before anything else: al-jihad is patience under hardship. It may happen in war, he says, and it may lie in going against the self (mukhalafat al-nafs). He then adds what the striver gains: lahu thawabuhu, its reward is his. On this account the word measures endurance more than it names one arena, and the arena may be a battlefield or the inside of a single person.",
+            "bn": "এখানে জাহাদা শব্দটি কী কী বোঝায়? বাগাভী সবার আগে একটি সংজ্ঞা দেন: জিহাদ হলো কষ্টের মুখে সবর। তিনি বলেন, তা যুদ্ধে হতে পারে, আবার নিজের নফসের বিরুদ্ধে যাওয়াতেও হতে পারে (মুখালাফাতুন নাফস)। এরপর জানান চেষ্টাকারী কী পায়: লাহু সাওয়াবুহু, তার সওয়াব তারই। এই ব্যাখ্যায় শব্দটি কোনো একটি ময়দানের নাম নয়, বরং টিকে থাকার মাপ। সেই ময়দান যুদ্ধক্ষেত্র হতে পারে, আবার একজন মানুষের ভেতরটাও হতে পারে।"
+          },
+          {
+            "en": "As-Sa'di names three opponents in a single breath: whoever strives against his self, his devil and his disbelieving enemy. Al-Muyassar names two fields. One is striving to raise high the word of Allah; the other is striving against one's own self by carrying it to obedience (bi-hamliha 'ala al-ta'a). For li-nafsihi, as-Sa'di gives the plainest reason: its benefit returns to him and its fruit comes back to him. Al-Muyassar says the striver acts seeking the reward for his striving, so the gain is his and not Allah's.",
+            "bn": "সা'দী এক নিঃশ্বাসে তিনটি প্রতিপক্ষের নাম নেন: যে চেষ্টা করে তার নিজের নফস, তার শয়তান আর তার কাফির শত্রুর বিরুদ্ধে। মুয়াসসার বলে দুটি ক্ষেত্রের কথা। একটি আল্লাহর বাণীকে উঁচু করার চেষ্টা। অন্যটি নিজের নফসকে টেনে আনুগত্যে লাগানোর চেষ্টা (বিহামলিহা আলাত তাআহ)। লিনাফসিহির সবচেয়ে সরল কারণটা দেন সা'দী: এর লাভ তার কাছেই ফেরে, এর ফল তার ঘরেই ওঠে। মুয়াসসার বলে, চেষ্টাকারী কাজটি করে চেষ্টার সওয়াবের আশায়, তাই লাভটা তার, আল্লাহর নয়।"
+          },
+          {
+            "en": "Ibn Kathir places a short saying of al-Hasan al-Basri right after the verse: a man may strive (la-yujahidu), and yet he has never struck a blow with a sword on any day of his life. Ibn Kathir does not comment on it. The verb in this verse is wide enough to hold a person who has never seen a battle and who still strives every day.",
+            "bn": "আয়াতের ঠিক পরেই ইবন কাসীর হাসান বসরীর একটি ছোট্ট কথা রাখেন: একজন মানুষ জিহাদ করে (লাইউজাহিদু), অথচ জীবনের কোনো দিন সে তলোয়ার দিয়ে একটি আঘাতও করেনি। ইবন কাসীর এর ওপর কোনো মন্তব্য করেন না। এ আয়াতের ক্রিয়াটি এত প্রশস্ত যে তাতে এমন মানুষও জায়গা পায়, যে কখনো যুদ্ধ দেখেনি, অথচ প্রতিদিন চেষ্টা করে চলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "For Himself, Read Two Ways",
+          "bn": "নিজের জন্য: দুই রকম পাঠ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the striver as a man who strives against his enemy among the idolaters (al-mushrikin). He strives for himself, at-Tabari says, because he does it seeking reward from Allah for his striving and fleeing from punishment, and Allah has no need of that act. Al-Qurtubi gathers more into the word: whoever strives in the religion and is patient in fighting the disbelievers and in deeds of obedience. The reward of all of it is his, he says, and no benefit from it returns to Allah.",
+            "bn": "তাবারীর পাঠে চেষ্টাকারী সেই ব্যক্তি, যে মুশরিকদের মধ্য থেকে তার শত্রুর বিরুদ্ধে লড়ে। তাবারী বলেন, সে নিজের জন্যই লড়ে, কারণ সে আল্লাহর কাছে তার জিহাদের সওয়াব চায় আর শাস্তি থেকে পালাতে চায়। তার এই কাজের কোনো প্রয়োজন আল্লাহর নেই। কুরতুবী শব্দটির মধ্যে আরও বেশি কিছু জড়ো করেন: যে দ্বীনের পথে চেষ্টা করে, কাফিরদের সঙ্গে লড়াইয়ে আর আনুগত্যের আমলে সবর করে। তিনি বলেন, এর সবটার সওয়াব তার, এর কোনো লাভ আল্লাহর কাছে পৌঁছায় না।"
+          },
+          {
+            "en": "Al-Qurtubi then records a second view, introduced with 'it is said' (qila). On this view the verse means one who strives against his enemy for himself, not seeking the face of Allah, and Allah has no need of his striving. Here li-nafsihi stops being a promise and becomes a warning. The first reading says the benefit is his; the second says the motive was his alone, and that effort made for oneself in that sense is effort Allah does not need. Al-Qurtubi leads with the first and sets the second beside it.",
+            "bn": "এরপর কুরতুবী ‘বলা হয়’ (কীলা) বলে দ্বিতীয় একটি মত উল্লেখ করেন। এই মতে আয়াতের অর্থ: যে আল্লাহর সন্তুষ্টি না চেয়ে নিজের স্বার্থে শত্রুর বিরুদ্ধে লড়ে, তার জিহাদের কোনো প্রয়োজন আল্লাহর নেই। এখানে লিনাফসিহি আর প্রতিশ্রুতি থাকে না, হয়ে যায় সতর্কবাণী। প্রথম পাঠ বলে, লাভটা তার। দ্বিতীয় পাঠ বলে, উদ্দেশ্যটাই ছিল শুধু তার নিজের। আর এই অর্থে নিজের জন্য করা চেষ্টার কোনো দরকার আল্লাহর নেই। কুরতুবী প্রথম মতটি আগে আনেন, আর দ্বিতীয়টি রাখেন তার পাশে।"
+          },
+          {
+            "en": "Where at-Tabari and al-Qurtubi speak of fighting, they are explaining what the word covered for them. The verse itself gives no ruling on when anyone may fight or against whom, and this article draws none from it. What both readings share is the second clause. Whether the gain comes back to the striver or the hollow motive is left with him, Allah stands outside the account, needing none of it.",
+            "bn": "তাবারী ও কুরতুবী যেখানে লড়াইয়ের কথা বলেন, সেখানে তাঁরা ব্যাখ্যা করছেন শব্দটি তাঁদের কাছে কী কী বোঝাত। কখন কে কার বিরুদ্ধে লড়তে পারে, সে বিষয়ে আয়াত নিজে কোনো বিধান দেয় না, আর এই লেখাও এ থেকে কোনো বিধান টানে না। দুই পাঠের মিল আয়াতের দ্বিতীয় অংশে। লাভটা চেষ্টাকারীর কাছে ফিরুক, কিংবা ফাঁপা উদ্দেশ্যটা তার কাঁধেই থাকুক, আল্লাহ এই হিসাবের বাইরে। এর কোনো কিছুরই তাঁর দরকার নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Self Holds Back",
+          "bn": "নফস কেন পিছিয়ে থাকে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di explains why striving is needed at all. Commands and prohibitions, he says, demand a jihad from whoever is charged with them, for three reasons. His self, by its nature, grows heavy and slow towards good (tatathaqalu bi-tab'iha 'an al-khayr). His devil forbids him from it. And his disbelieving enemy keeps him from establishing his religion as he should. All of these, as-Sa'di concludes, are resistances that call for strivings and hard effort.",
+            "bn": "চেষ্টার দরকারই বা কেন, সা'দী তা খুলে বলেন। তাঁর মতে, যার ওপর আদেশ-নিষেধের দায়িত্ব, আদেশ মানা আর নিষেধ এড়ানো তার কাছে এক জিহাদ দাবি করে। এর কারণ তিনটি। তার নফস স্বভাবগতভাবেই ভালো কাজে ভারী আর ঢিলে হয়ে পড়ে (তাতাসাকালু বিতাবইহা আনিল খাইর)। তার শয়তান তাকে সে কাজ থেকে বারণ করে। আর তার কাফির শত্রু তাকে ঠিকমতো দ্বীন পালনে বাধা দেয়। সা'দীর উপসংহার: এগুলো সবই এমন বাধা, যা পেরোতে লাগে লাগাতার চেষ্টা আর কঠোর পরিশ্রম।"
+          },
+          {
+            "en": "His first reason is familiar to every reader. The self does not refuse good outright; it grows heavy. The alarm is heard and the body stays put, the kind word is ready and the tongue does not move. As-Sa'di places the heaviness in the self's nature (bi-tab'iha). Read that way, it is to be expected rather than taken as proof that faith is broken, and pushing against it is the very thing he calls jihad.",
+            "bn": "তাঁর প্রথম কারণটা প্রত্যেক পাঠকেরই চেনা। নফস ভালো কাজকে সরাসরি না বলে না, সে ভারী হয়ে যায়। অ্যালার্ম কানে আসে, শরীর নড়ে না। ভালো কথাটা মনে তৈরি, জিভ খোলে না। সা'দী এই ভারকে রাখেন নফসের স্বভাবের ঘরে (বিতাবইহা)। সে হিসেবে এটা প্রত্যাশিত, ঈমান ভেঙে পড়ার প্রমাণ নয়। আর এই ভারের বিরুদ্ধে ঠেলা দেওয়াটাকেই তিনি বলেন জিহাদ।"
+          },
+          {
+            "en": "A saying of the Prophet ﷺ makes the same turn inward, though none of the tafsirs consulted here attaches it to this verse. At-Tirmidhi records from Fadalah ibn 'Ubayd (RA), after another saying about the one who dies guarding the frontier, that he heard the Messenger of Allah ﷺ say: 'The Mujahid is one who strives against his own soul.' At-Tirmidhi grades the hadith of Fadalah hasan sahih (Jami' at-Tirmidhi 1621).",
+            "bn": "নবী ﷺ-এর একটি বাণী একইভাবে দৃষ্টি ভেতরের দিকে ফেরায়, যদিও এখানে দেখা কোনো তাফসীর সেটিকে এ আয়াতের সঙ্গে যুক্ত করেনি। তিরমিযী ফাদালা ইবন উবাইদ (রাঃ) থেকে বর্ণনা করেন, সীমান্ত পাহারায় মারা যাওয়া ব্যক্তি সম্পর্কে আরেকটি বাণীর পরে তিনি বলেন, তিনি আল্লাহর রাসূল ﷺ-কে বলতে শুনেছেন: ‘মুজাহিদ সে, যে নিজের নফসের বিরুদ্ধে জিহাদ করে।’ তিরমিযী ফাদালার এই হাদীসকে হাসান সহীহ বলেছেন (জামি তিরমিযী ১৬২১)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Needing Nothing From Anyone",
+          "bn": "কারও কাছে তাঁর কোনো প্রয়োজন নেই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains the second clause briefly: Allah is free of need of all His creation, and to Him belong the dominion, the creation and the command (lahu al-mulk wa al-khalq wa al-amr). Al-Muyassar repeats those three words after saying that Allah is free of need of the deeds of all His creation. Al-Qurtubi and al-Baghawi also turn the worlds into what the worlds do: free of need of their deeds, al-Qurtubi says, and al-Baghawi adds their acts of worship.",
+            "bn": "তাবারী দ্বিতীয় অংশের ব্যাখ্যা দেন সংক্ষেপে: আল্লাহ তাঁর সব সৃষ্টির মুখাপেক্ষী নন, রাজত্ব, সৃষ্টি আর আদেশ সবই তাঁর (লাহুল মুলকু ওয়াল খালকু ওয়াল আমর)। মুয়াসসার প্রথমে বলে, আল্লাহ তাঁর সব সৃষ্টির আমলের মুখাপেক্ষী নন, তারপর হুবহু এই তিনটি শব্দই আনে। কুরতুবী ও বাগাভীও আলামীন বলতে বোঝান জগৎবাসী যা করে তা। কুরতুবীর ভাষায়, তাদের আমলের কোনো প্রয়োজন আল্লাহর নেই। বাগাভী এর সঙ্গে যোগ করেন তাদের ইবাদতের কথা।"
+          },
+          {
+            "en": "The obvious question follows: if He needs nothing, why command anything at all? As-Sa'di answers it inside his comment on this clause. Allah did not command them what He commanded in order to benefit from it, and He did not forbid them what He forbade out of stinginess towards them (bukhlan 'alayhim). On this account the commands are not a tax collected for Him, and the prohibitions are not a gift held back. Both are for the servant's own sake.",
+            "bn": "স্বাভাবিকভাবেই প্রশ্ন ওঠে: তাঁর যদি কিছুরই প্রয়োজন না থাকে, তবে আদেশ দেন কেন? সা'দী এ অংশের ব্যাখ্যাতেই এর উত্তর দেন। আল্লাহ তাদের যা আদেশ করেছেন, নিজে লাভবান হওয়ার জন্য করেননি। আর যা নিষেধ করেছেন, তাদের প্রতি কার্পণ্য করে করেননি (বুখলান আলাইহিম)। এই ব্যাখ্যায় আদেশগুলো তাঁর জন্য আদায় করা কোনো কর নয়, নিষেধগুলোও আটকে রাখা কোনো দান নয়। দুটোই বান্দার নিজের কল্যাণে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Most Pious Heart",
+          "bn": "সবচেয়ে মুত্তাকী হৃদয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir adds a sentence of his own to the verse: even if all of them were upon the most pious heart of a single man among them, that would add nothing to His dominion (ma zada dhalika fi mulkihi shay'an). The phrase is the wording of a hadith qudsi that Muslim records from Abu Dharr (RA). Ibn Kathir does not name the hadith at this point, and none of the tafsirs consulted here attaches it to this verse, so it stands as a general narration.",
+            "bn": "ইবন কাসীর আয়াতের সঙ্গে নিজের একটি বাক্য জুড়ে দেন: তারা সবাই যদি তাদের মধ্যকার একজন মানুষের সবচেয়ে মুত্তাকী হৃদয়ের মতো হয়ে যেত, তাতেও তাঁর রাজত্বে কিছুই বাড়ত না (মা যাদা যালিকা ফী মুলকিহি শাইআন)। এ ভাষা এক হাদীসে কুদসীর, যা মুসলিম আবু যার (রাঃ) থেকে বর্ণনা করেছেন। ইবন কাসীর এখানে হাদীসটির নাম নেননি। এখানে দেখা কোনো তাফসীরও এটিকে এ আয়াতের সঙ্গে যুক্ত করেনি। তাই এটি একটি সাধারণ বর্ণনা।"
+          },
+          {
+            "en": "In Sahih Muslim (2577), within a longer narration that the Prophet ﷺ relates from his Lord, Allah says: 'O My servants, you will not attain harming Me so as to harm Me, and will not attain benefitting Me so as to benefit Me. O My servants, were the first of you and the last of you, the human of you and the jinn of you to be as pious as the most pious heart of any one man of you, that would not increase My dominion in anything.'",
+            "bn": "সহীহ মুসলিমে (২৫৭৭) এক দীর্ঘ বর্ণনার ভেতরে, যা নবী ﷺ তাঁর রবের পক্ষ থেকে বর্ণনা করেছেন, আল্লাহ বলেন: ‘হে আমার বান্দারা, তোমরা আমার ক্ষতি করার পর্যায়ে কখনো পৌঁছাতে পারবে না যে আমার ক্ষতি করবে। আমার উপকার করার পর্যায়েও কখনো পৌঁছাতে পারবে না যে আমার উপকার করবে। হে আমার বান্দারা, তোমাদের প্রথম ও শেষ, তোমাদের মানুষ ও জিন সবাই যদি তোমাদের মধ্যকার একজন মানুষের সবচেয়ে মুত্তাকী হৃদয়ের মতো হয়ে যায়, তাতে আমার রাজত্বে কিছুই বাড়বে না।’"
+          },
+          {
+            "en": "The same narration closes with words that sit close to li-nafsihi: 'O My servants, it is but your deeds that I record for you and then recompense you for. So let him who finds good, praise Allah, and let him who finds other than that blame no one but himself.' The verse says the effort returns to the striver; the narration says the deeds are counted for the servant and paid back to him. Neither leaves room for the idea that Allah gains from them.",
+            "bn": "একই বর্ণনা শেষ হয় এমন কথায়, যা লিনাফসিহির খুব কাছের: ‘হে আমার বান্দারা, এগুলো তোমাদেরই আমল, যা আমি তোমাদের জন্য গুনে রাখি, তারপর তোমাদের পুরোপুরি প্রতিদান দিই। কাজেই যে কল্যাণ পায়, সে যেন আল্লাহর প্রশংসা করে। আর যে অন্য কিছু পায়, সে যেন নিজেকে ছাড়া আর কাউকে দোষ না দেয়।’ আয়াত বলে, চেষ্টা ফিরে আসে চেষ্টাকারীর কাছে। বর্ণনাটি বলে, আমল গোনা হয় বান্দার জন্য আর প্রতিদান যায় তার কাছেই। আল্লাহ এ থেকে কিছু পান, এমন ধারণার জায়গা কোনোটিতেই নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Generous Though Never in Need",
+          "bn": "অমুখাপেক্ষী, তবু দানশীল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, in the English abridgement, explains how the next verse follows. Even though Allah has no need of His creatures, He is kind and generous to them. To those who believe and do righteous deeds He gives the best of rewards: He removes their bad deeds and rewards them by the best of what they did (29:7). Ibn Kathir adds that He accepts the fewest good deeds, gives for a good deed anything from 10 to 700, and for an evil deed only its like, or overlooks it and forgives. He cites 4:40.",
+            "bn": "ইবন কাসীর, তাঁর তাফসীরের ইংরেজি সংক্ষিপ্ত রূপে, দেখান পরের আয়াতটি কীভাবে আসে। সৃষ্টির কোনো প্রয়োজন আল্লাহর না থাকলেও তিনি তাদের প্রতি দয়ালু ও দানশীল। যারা ঈমান আনে ও সৎকাজ করে, তাদের তিনি দেন সেরা প্রতিদান: তাদের মন্দ কাজগুলো মুছে দেন, আর তাদের সেরা আমল অনুযায়ী প্রতিদান দেন (২৯:৭)। ইবন কাসীর যোগ করেন, তিনি সামান্যতম নেক আমলও কবুল করেন, একটি নেকির বদলে দেন ১০ থেকে ৭০০ পর্যন্ত, আর একটি গুনাহর বদলে কেবল তার সমান, কিংবা তা উপেক্ষা করে মাফ করে দেন। তিনি উদ্ধৃত করেন ৪:৪০।"
+          },
+          {
+            "en": "So the clause about need does not make Allah distant. The One who needs nothing still records, repays and multiplies. The surah's opening verses warned that faith would be tried (29:2, 29:3); this verse and the next say that every effort made under that trial is kept. The surah also ends on the same root, with those who strive in Us and are guided to His ways (29:69).",
+            "bn": "তাই প্রয়োজনহীনতার কথাটি আল্লাহকে দূরের কেউ বানায় না। যাঁর কিছুরই দরকার নেই, তিনিই গুনে রাখেন, প্রতিদান দেন, বহুগুণ বাড়িয়ে দেন। সূরার শুরুর আয়াতগুলো সতর্ক করেছে যে ঈমানের পরীক্ষা হবেই (২৯:২ ও ২৯:৩)। এ আয়াত আর পরেরটি বলে, সেই পরীক্ষার ভেতরে করা প্রতিটি চেষ্টা জমা থাকে। সূরাটি শেষও হয় এই একই ধাতুতে, যারা আল্লাহর পথে চেষ্টা করে আর পথের দিশা পায়, তাদের কথায় (২৯:৬৯)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Striving With No Audience",
+          "bn": "দর্শকহীন লড়াই"
+        },
+        "p": [
+          {
+            "en": "This must be said plainly. The verse says where the benefit of striving goes. It commands no fighting, gives no ruling on war, and licenses nothing against any living person or community. Where at-Tabari or al-Qurtubi mention fighting the idolaters, they are explaining the word as they read it. Nothing in this verse or in those comments may be carried into the present as warrant for violence or harm against anyone, and this article applies none of it to any group today.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি কেবল জানায়, চেষ্টার লাভ কোথায় যায়। এটি লড়াইয়ের আদেশ দেয় না, যুদ্ধের কোনো বিধানও দেয় না। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কোনো কিছুর অনুমতিও দেয় না। তাবারী বা কুরতুবী যেখানে মুশরিকদের সঙ্গে লড়াইয়ের কথা বলেন, সেখানে তাঁরা শব্দটি নিজেদের পাঠ অনুযায়ী ব্যাখ্যা করছেন। এ আয়াত বা সেসব ব্যাখ্যার কোনো কিছুকেই কারও বিরুদ্ধে সহিংসতা বা ক্ষতির দলিল বানিয়ে বর্তমানে টেনে আনা যায় না। এই লেখাও আজকের কোনো গোষ্ঠীর ওপর এর কিছুই প্রয়োগ করে না।"
+          },
+          {
+            "en": "What remains is a daily jihad in as-Sa'di's three directions. Against the self that grows heavy: the dawn prayer kept on a cold morning, the hour of Qur'an guarded from the phone. Against the devil's forbidding: the charity given before the second thought arrives. Against whatever keeps a person from practising the religion as it should be practised: the patience to keep going quietly. Each, the verse says, is for whoever does it.",
+            "bn": "যা থাকে, তা সা'দীর বলা তিনটি দিকে প্রতিদিনের জিহাদ। ভারী হয়ে আসা নফসের বিরুদ্ধে: শীতের ভোরে ফজরের নামাজ, ফোনের হাত থেকে বাঁচিয়ে রাখা কুরআনের এক ঘণ্টা। শয়তানের বারণের বিরুদ্ধে: দ্বিতীয়বার ভাবার আগেই দান করে ফেলা। আর যা কিছু মানুষকে ঠিকমতো দ্বীন পালনে বাধা দেয়, তার বিরুদ্ধে: চুপচাপ লেগে থাকার সবর। আয়াত বলছে, এর প্রতিটি যে করে, তার নিজের জন্যই।"
+          },
+          {
+            "en": "Two mistakes end here together. The first is to bargain with Allah, as though effort were a loan He must repay on our timetable; He needs none of it. The second is to give up because the effort goes unseen; it was never made for an audience. Between them stands the plain sentence of the verse. Whoever strives, strives for himself, and He who asks for the striving is free of need of the worlds.",
+            "bn": "এখানে দুটি ভুল একসঙ্গে শেষ হয়। প্রথম ভুল আল্লাহর সঙ্গে দর-কষাকষি, যেন চেষ্টা এক ধার, যা আমাদের সময়মতো তাঁকে শোধ করতেই হবে। অথচ এর কিছুই তাঁর দরকার নেই। দ্বিতীয় ভুল হাল ছেড়ে দেওয়া, কারণ কেউ চেষ্টাটা দেখছে না। অথচ তা কখনো দর্শকের জন্য ছিলই না। দুইয়ের মাঝখানে দাঁড়িয়ে আছে আয়াতের সরল বাক্যটি। যে চেষ্টা করে, নিজের জন্যই করে। আর যিনি এ চেষ্টা চান, তিনি সৃষ্টিজগতের মুখাপেক্ষী নন।"
+          }
+        ]
+      }
+    ]
+  },
   "29:8": {
     "sections": [
       {
