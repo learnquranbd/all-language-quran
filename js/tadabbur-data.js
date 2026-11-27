@@ -38033,6 +38033,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Fill the places where you live with prayer and good deeds while there is time, and leave the judging of anyone's end to Allah alone.",
     "lessonBn": "সময় থাকতেই যেখানে থাকেন সেখানটা নামায আর নেক আমলে ভরে তুলুন, আর কারও শেষ পরিণতির বিচার শুধু আল্লাহর হাতে ছেড়ে দিন।"
+  },
+  "44:10": {
+    "reflectionEn": "The verse before this one ends with people in doubt, playing. This verse does not argue with them. It tells the Prophet ﷺ to watch for a Day when the sky brings a smoke that no one can miss. Readers have long differed over whether that smoke has already passed over Makkah or is still to come, but the instruction is the same either way: wait, and hold firm while you wait. Waiting here is not idleness, and it is not guessing at dates. It is living as someone who believes a warning will be kept. Doubt treats the warning as a game; watching treats it as a promise. Which of the two describes how I hold the warnings I already know?",
+    "reflectionBn": "আগের আয়াতটি শেষ হয়েছে এমন লোকদের কথায়, যারা সন্দেহে পড়ে খেলায় মেতে আছে। এ আয়াত তাদের সঙ্গে তর্কে যায় না। নবী ﷺ-কে বলে, অপেক্ষা করুন সেদিনের, যেদিন আকাশ এমন ধোঁয়া নিয়ে আসবে যা কারও চোখ এড়াবে না। সে ধোঁয়া মক্কার উপর দিয়ে বয়ে গেছে, নাকি এখনো আসেনি, এ নিয়ে আলেমদের মতভেদ বহু পুরোনো। তবে নির্দেশটা দুই মতেই এক: অপেক্ষা করুন, আর অপেক্ষার মধ্যে অটল থাকুন। এ অপেক্ষা অলস বসে থাকা নয়, দিন-তারিখের অনুমানও নয়। এ হলো এমন মানুষের মতো বাঁচা, যে বিশ্বাস করে সতর্কবাণী সত্য হবেই। সন্দেহ সতর্কবাণীকে খেলা বানায়, অপেক্ষা তাকে ওয়াদা হিসেবে নেয়। যে সতর্কবাণীগুলো আমি আগে থেকেই জানি, সেগুলো আমি কোনভাবে ধরে রেখেছি?",
+    "pointsEn": [
+      "Which warning in the Qur'an do I read as a story about other people rather than something to watch for in my own life?",
+      "When I wait for what Allah has promised, does my waiting look like patience and work, or like idleness?",
+      "Have I ever repeated a confident claim about the end of time that I did not actually know to be true?",
+      "When I see haze, hunger or disaster in the news, do I rush to call it a sign or a punishment, or do I hold my tongue and pray for the people suffering?",
+      "What would change in my week if I lived as someone who expects every warning of Allah to be kept?"
+    ],
+    "pointsBn": [
+      "কুরআনের কোন সতর্কবাণীটা আমি অন্যদের গল্প হিসেবে পড়ি, নিজের জীবনে যার অপেক্ষা করা উচিত বলে ভাবি না?",
+      "আল্লাহর ওয়াদার অপেক্ষায় থাকার সময় আমার অপেক্ষা কি সবর আর আমলে ভরা, নাকি নিছক বসে থাকা?",
+      "শেষ জমানা নিয়ে এমন কোনো জোরালো দাবি কি আমি কখনো অন্যকে শুনিয়েছি, যা আসলে সত্য কি না আমি জানতাম না?",
+      "খবরে ধোঁয়াশা, ক্ষুধা বা দুর্যোগ দেখলে আমি কি তাড়াতাড়ি সেটাকে নিদর্শন বা শাস্তি বলে দিই, নাকি মুখ সামলে কষ্টে থাকা মানুষগুলোর জন্য দুআ করি?",
+      "যদি এমন মানুষের মতো বাঁচতাম, যে জানে আল্লাহর প্রতিটি সতর্কবাণী সত্য হবেই, তাহলে আমার এ সপ্তাহটা কীভাবে বদলে যেত?"
+    ],
+    "lessonEn": "Hold Allah's warnings as promises that will be kept, wait for them with patience rather than play, and where you do not know their details, say that Allah knows best.",
+    "lessonBn": "আল্লাহর সতর্কবাণীকে এমন ওয়াদা হিসেবে নিন যা পূর্ণ হবেই। খেলাচ্ছলে নয়, সবরের সঙ্গে তার অপেক্ষা করুন, আর যার খুঁটিনাটি জানা নেই, সেখানে বলুন: আল্লাহই ভালো জানেন।"
   }
 };
 

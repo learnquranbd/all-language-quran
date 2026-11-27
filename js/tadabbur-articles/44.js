@@ -603,6 +603,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "44:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "Watching After the Playing",
+          "bn": "খেলার জবাবে অপেক্ষার আদেশ"
+        },
+        "p": [
+          {
+            "en": "Fa-rtaqib yawma ta'ti as-sama'u bi-dukhanin mubin: then watch for the Day when the sky brings a visible smoke. The verse is six Arabic words, and its first word answers the verse before it. The surah has just named the Lord of the heavens and the earth, who gives life and causes death (44:7 and 44:8), and the people addressed answered with a game: they are in doubt, playing (44:9). The Prophet ﷺ is not told to argue with them further. He is told to watch.",
+            "bn": "ফারতাকিব ইয়াওমা তা'তিস সামাউ বিদুখানিম মুবীন: অতএব অপেক্ষা করুন সেদিনের, যেদিন আকাশ নিয়ে আসবে স্পষ্ট ধোঁয়া। আয়াতটি আরবিতে ছয়টি শব্দের, আর এর প্রথম শব্দটিই আগের আয়াতের জবাব। সূরাটি সবেমাত্র আসমান-জমিনের রবের পরিচয় দিয়েছে, যিনি জীবন দেন ও মৃত্যু ঘটান (৪৪:৭ ও ৪৪:৮)। যাদের উদ্দেশে কথা, তারা এর জবাব দিয়েছে খেলা দিয়ে: তারা সন্দেহে পড়ে খেলায় মত্ত (৪৪:৯)। নবী ﷺ-কে আর তর্ক করতে বলা হয়নি। বলা হয়েছে অপেক্ষা করতে।"
+          },
+          {
+            "en": "At-Tabari explains the verb: irtaqib is the ifta'ala form of raqabtuhu, said when you wait for someone and keep guard over him. He glosses it, with Qatadah, as wait, O Muhammad, with these polytheists of your people. As-Sa'di: wait for the punishment in their case, for it has drawn near. Al-Qurtubi adds a second gloss under 'it has been said': keep their words in memory, to bear witness against them on that Day; hence a keeper is called raqib.",
+            "bn": "তাবারী ক্রিয়াটির গঠন বুঝিয়ে দেন। ইরতাকিব এসেছে রাকাবতুহু থেকে, ইফতাআলা রূপে। কারও অপেক্ষায় থেকে তাকে চোখে চোখে রাখলে আরবরা এ কথা বলে। কাতাদার সঙ্গে মিলিয়ে তিনি অর্থ করেন: হে মুহাম্মাদ, আপনার কওমের এই মুশরিকদের ব্যাপারে অপেক্ষা করুন। সা'দী বলেন, তাদের উপর আযাবের অপেক্ষা করুন, কারণ তা কাছে এসে গেছে। কুরতুবী 'বলা হয়েছে' কথাটি জুড়ে দ্বিতীয় অর্থ আনেন: তাদের এ কথাগুলো মনে রাখুন, যাতে সেদিন তাদের বিরুদ্ধে সাক্ষ্য দিতে পারেন। এ কারণেই রক্ষককে রাকীব বলা হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Threat Carried by Patience",
+          "bn": "সবরের আদেশে লুকানো হুঁশিয়ারি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir introduces the verse as spoken in threat and warning to them. At-Tabari, after weighing the readings, says what the command does: it is an order to the Prophet ﷺ to be patient until Allah's might reaches them, and a threat to the polytheists. So one word carries two messages at once. To the Messenger it says: hold on, this is not yours to hurry. To those playing with their doubt it says: what you treat as a game has a Day set for it.",
+            "bn": "ইবন কাসীর আয়াতটির সূচনা করেন এই বলে যে, এখানে তাদের হুমকি ও হুঁশিয়ারি দেওয়া হচ্ছে। তাবারী বিভিন্ন ব্যাখ্যা যাচাই করার পর বলেন, আদেশটা আসলে কী কাজ করে। এ একদিকে নবী ﷺ-এর প্রতি নির্দেশ, আল্লাহর পাকড়াও তাদের কাছে না পৌঁছানো পর্যন্ত সবর করুন। অন্যদিকে মুশরিকদের প্রতি হুমকি। এক শব্দে তাই দুই বার্তা। রসূলকে বলা হচ্ছে, ধরে থাকুন, তাড়াহুড়া করার ভার আপনার নয়। আর যারা সন্দেহ নিয়ে খেলছে, তাদের বলা হচ্ছে, যাকে তোমরা খেলা ভাবছ, তার জন্য একটা দিন ঠিক করা আছে।"
+          },
+          {
+            "en": "The Muyassar reads the passage as one sequence: wait, O Messenger, with these polytheists for the Day the sky brings a plain smoke that spreads over the people; they are told this is a painful torment, and they plead, our Lord, remove it, and we will believe in You. It closes with one short sentence: that came to pass, and they did not believe as they had promised. The Muyassar, then, reads the smoke as already fulfilled.",
+            "bn": "মুয়াসসার পুরো অংশটাকে একটানা ঘটনা হিসেবে পড়ে। হে রসূল, এই মুশরিকদের নিয়ে অপেক্ষা করুন সেদিনের, যেদিন আকাশ এমন স্পষ্ট ধোঁয়া আনবে যা সব মানুষকে ছেয়ে ফেলবে। তাদের বলা হবে, এ যন্ত্রণাদায়ক আযাব। তারা মিনতি করবে: হে আমাদের রব, এটা সরিয়ে নিন, আমরা আপনার উপর ঈমান আনব। মুয়াসসার শেষ করে ছোট্ট এক বাক্যে: তা ঘটেছিল, কিন্তু ওয়াদা মতো তারা ঈমান আনেনি। অর্থাৎ মুয়াসসারের পাঠে ধোঁয়ার ঘটনা ঘটে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Call It Smoke",
+          "bn": "ধোঁয়া নামের পেছনে"
+        },
+        "p": [
+          {
+            "en": "The adjective mubin means the smoke cannot be missed. Ibn Kathir glosses it as plain and clear, something everyone sees. At-Tabari's closing paraphrase, on the reading he prefers, keeps the image without making it literal: watch for your people's polytheists on the Day the sky brings them, out of the affliction that falls on them for their disbelief, something like a plain smoke, so that whoever looks at it takes it for smoke. On that reading the word names what the affliction looked like to those inside it.",
+            "bn": "মুবীন বিশেষণটি বলে, এ ধোঁয়া চোখ এড়ানোর মতো নয়। ইবন কাসীর এর অর্থ করেন স্পষ্ট ও পরিষ্কার, যা সবাই দেখতে পায়। তাবারী নিজের পছন্দের ব্যাখ্যা অনুযায়ী শেষে যে সারকথা দেন, তাতে ছবিটা থাকে, তবে আক্ষরিক অর্থে নয়। আপনার কওমের মুশরিকদের জন্য অপেক্ষা করুন সেদিনের, যেদিন কুফরের কারণে তাদের উপর নেমে আসা বিপদ থেকে আকাশ তাদের সামনে আনবে স্পষ্ট ধোঁয়ার মতো কিছু। যে তাকাবে, সে-ই ধোঁয়া ভাববে। এ পাঠে শব্দটা বলছে, বিপদের ভেতরে থাকা মানুষগুলোর চোখে বিপদটা দেখতে কেমন ছিল।"
+          },
+          {
+            "en": "Others name the cause. Mujahid, in at-Tabari, says it was drought and rain held back from the disbelievers of Quraysh. Al-Qurtubi, in the part of his commentary filed under 44:11 in the source, cites Abu 'Ubaydah: the dukhan is drought; and al-Qutabi: it was called smoke for the dryness of the earth, rising from it like smoke. At-Tabari speaks of a darkness like smoke over their eyes from hunger. A parched land and a starving eye give the same picture.",
+            "bn": "কেউ কেউ কারণটার নাম বলেন। তাবারীর বর্ণনায় মুজাহিদ বলেন, এ ছিল খরা, কুরাইশের কাফিরদের থেকে বৃষ্টি আটকে রাখা। কুরতুবীর তাফসীরের যে অংশটি উৎসে ৪৪:১১-এর ঘরে রাখা, সেখানে তিনি আবু উবাইদার কথা আনেন: দুখান মানে খরা। আর কুতাবীর কথা: মাটি শুকিয়ে তা থেকে ধোঁয়ার মতো কিছু ওঠে, তাই এর নাম ধোঁয়া। তাবারী বলেন, ক্ষুধার চোটে তাদের চোখের সামনে ধোঁয়ার মতো অন্ধকার নেমে আসত। শুকনো জমি আর ক্ষুধার্ত চোখ, দুটো মিলে একই ছবি আঁকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Preacher by Kindah's Gates",
+          "bn": "কিন্দা দরজার পাশের বক্তা"
+        },
+        "p": [
+          {
+            "en": "The best-known report on this verse begins with a scene. Masruq says, in Ibn Kathir and at-Tabari, that by the gates of Kindah in the Kufa mosque a man was telling his companions the smoke would come on the Day of Resurrection. They told Ibn Mas'ud, who sat up with a start: whoever knows, let him say what he knows, and whoever does not, let him say Allah knows best. He recited 38:86, and said that part of knowledge is to say of what you do not know: Allah knows best.",
+            "bn": "এ আয়াত নিয়ে সবচেয়ে পরিচিত বর্ণনাটি শুরু হয় একটি দৃশ্য দিয়ে। ইবন কাসীর ও তাবারী মাসরূকের বিবরণ আনেন। কুফার মসজিদে কিন্দা গোত্রের দরজার কাছে এক লোক তার সঙ্গীদের শোনাচ্ছিল, ধোঁয়া আসবে কিয়ামতের দিন। তাঁরা ইবন মাসউদ (রাঃ)-কে খবরটা দিলেন। তিনি চমকে উঠে বসলেন আর বললেন: যে জানে, সে যা জানে তা-ই বলুক। আর যে জানে না, সে বলুক: আল্লাহই ভালো জানেন। তারপর ৩৮:৮৬ পড়লেন, আর বললেন, যা জানা নেই সে সম্পর্কে 'আল্লাহই ভালো জানেন' বলাও ইলমের অংশ।"
+          },
+          {
+            "en": "Sahih al-Bukhari (4693) gives what he knew, through Masruq from 'Abdullah ibn Mas'ud, in these words: When Quraysh were slow to come to Islam with the Prophet ﷺ, he said: O Allah, suffice me against them with seven like the seven of Yusuf. Then a year struck them that stripped away everything, until they ate bones, until a man would look at the sky and see between himself and it something like smoke.",
+            "bn": "তিনি কী জানতেন, সহীহ বুখারী (৪৬৯৩) মাসরূকের সূত্রে আবদুল্লাহ ইবন মাসউদ (রাঃ) থেকে তা এনেছে এই ভাষায়: কুরাইশ যখন নবী ﷺ-এর ডাকে ইসলামে আসতে দেরি করছিল, তিনি বললেন: হে আল্লাহ, ইউসুফ (আঃ)-এর সাত বছরের মতো সাতটি বছর দিয়ে তাদের মোকাবিলায় আমার জন্য যথেষ্ট হয়ে যান। তারপর তাদের উপর এমন এক বছর নেমে এল যা সবকিছু নিঃশেষ করে দিল। শেষে তারা হাড় পর্যন্ত খেল। এমনকি কেউ আকাশের দিকে তাকালে নিজের আর আকাশের মাঝে ধোঁয়ার মতো কিছু দেখত।"
+          },
+          {
+            "en": "Allah said: Then watch for the Day when the sky brings a visible smoke. Allah said: We will remove the torment a little; you will return. Will the torment be removed from them on the Day of Resurrection? The smoke has passed, and the batshah has passed. That is the whole report. The study of 16:112 quotes its opening, up to the smoke, for the famine; the study of 44:13 quotes al-Bukhari's longer version (4821), which adds the plea for rain for Mudar.",
+            "bn": "আল্লাহ বললেন: অতএব অপেক্ষা করুন সেদিনের, যেদিন আকাশ নিয়ে আসবে স্পষ্ট ধোঁয়া। আল্লাহ বললেন: আমি কিছু সময়ের জন্য আযাব সরিয়ে নেব, তোমরা আবার ফিরে যাবে। কিয়ামতের দিন কি তাদের থেকে আযাব সরানো হবে? ধোঁয়া পার হয়ে গেছে, বাতশাও পার হয়ে গেছে। এই হলো পুরো বর্ণনা। ১৬:১১২-এর আলোচনায় দুর্ভিক্ষের প্রসঙ্গে এর শুরুর অংশ, ধোঁয়া পর্যন্ত, উদ্ধৃত হয়েছে। ৪৪:১৩-এর আলোচনায় আছে বুখারীর দীর্ঘতর বর্ণনা (৪৮২১), যাতে মুদার গোত্রের জন্য বৃষ্টির আবেদনও যুক্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Five Things Already Past",
+          "bn": "যে পাঁচটি ঘটে গেছে"
+        },
+        "p": [
+          {
+            "en": "Ibn Mas'ud's argument sits inside his question. The torment of 44:15 is lifted, and no torment is lifted from them on the Day of Resurrection, so the smoke belongs to this world. Al-Qurtubi states it in his name: Allah lifted it from them, and had it been the Day of Resurrection He would not have. At-Tabari records him counting five things already past: the smoke, al-lizam, the batshah, which he takes as Badr, the moon and ar-Rum.",
+            "bn": "ইবন মাসউদ (রাঃ)-এর যুক্তি তাঁর প্রশ্নের ভেতরেই। ৪৪:১৫ আয়াতে আযাব সরিয়ে নেওয়ার কথা আছে, অথচ কিয়ামতের দিন তাদের থেকে কোনো আযাব সরানো হবে না। তাই ধোঁয়া এই দুনিয়ারই ঘটনা। কুরতুবী তাঁর নামে কথাটা সরাসরি বলেন: আল্লাহ তা তাদের থেকে সরিয়ে নিয়েছিলেন, কিয়ামতের দিনের ব্যাপার হলে সরাতেন না। তাবারী জানান, তিনি পাঁচটি জিনিস গুনতেন যা ঘটে গেছে: ধোঁয়া, লিযাম, বাতশা, চাঁদ আর রোম। বাতশা বলতে তিনি বোঝেন বদরের দিন।"
+          },
+          {
+            "en": "Ibn Kathir names Mujahid, Abu al-'Aliyah, Ibrahim an-Nakha'i, ad-Dahhak and 'Atiyyah al-'Awfi as agreeing that the smoke has passed, and says it is at-Tabari's choice. At-Tabari gives his reason from the context. The threat comes inside a passage that addresses the polytheists of Quraysh and rebukes them for their shirk in 44:8 and 44:9. A threat aimed at them, he argues, is more likely to have been carried out on them than put off for other people.",
+            "bn": "ইবন কাসীর জানান, মুজাহিদ, আবুল আলিয়া, ইবরাহীম নাখঈ, দাহহাক ও আতিয়্যা আল-আওফী এ ব্যাপারে ইবন মাসউদ (রাঃ)-এর সঙ্গে একমত যে ধোঁয়ার ঘটনা ঘটে গেছে। তিনি বলেন, তাবারীও এ মতই গ্রহণ করেছেন। তাবারী তাঁর কারণ দেখান আয়াতের প্রসঙ্গ থেকে। হুমকিটা এসেছে এমন এক অংশে, যেখানে কুরাইশের মুশরিকদের সম্বোধন করা হচ্ছে, আর ৪৪:৮ ও ৪৪:৯ আয়াতে তাদের শিরকের জন্য তিরস্কার করা হচ্ছে। তাঁর যুক্তি, যাদের উদ্দেশে হুমকি, তাদের উপরই তা কার্যকর হওয়াটা বেশি মানানসই, অন্যদের জন্য পিছিয়ে রাখার চেয়ে।"
+          },
+          {
+            "en": "Yet at-Tabari hedges twice. His preference holds, he says, only if a report he relays from Hudhayfah ibn al-Yaman, attributed to the Prophet ﷺ, about the smoke is not sound; if it were, the Prophet ﷺ knows best. He declines to vouch for it, since its transmitter Rawwad admitted he never heard it from Sufyan, and Ibn Kathir calls it fabricated with that chain. At-Tabari also allows that Allah may send another smoke on others later, so both reports can be true.",
+            "bn": "তবু তাবারী দুই জায়গায় সাবধানতা রাখেন। তিনি বলেন, তাঁর পছন্দ টিকবে কেবল তখনই, যদি হুযাইফা ইবনুল ইয়ামান (রাঃ)-এর সূত্রে নবী ﷺ-এর নামে ধোঁয়া বিষয়ে তাঁর আনা একটি বর্ণনা সহীহ না হয়। সহীহ হলে নবী ﷺ-ই ভালো জানেন। কিন্তু তিনি এর সত্যতার সাক্ষ্য দেন না, কারণ এর বর্ণনাকারী রাওয়াদ স্বীকার করেছিলেন যে তিনি এটা সুফিয়ানের কাছ থেকে শোনেননি। ইবন কাসীর বলেন, এ সনদে বর্ণনাটি বানোয়াট। আর তাবারী মেনে নেন, পরে অন্যদের উপর আল্লাহ আরেকটি ধোঁয়া পাঠাতে পারেন। তাই দুই বর্ণনাই সত্য হতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Among the Ten Signs",
+          "bn": "দশ নিদর্শনের একটি"
+        },
+        "p": [
+          {
+            "en": "The other reading holds that the smoke has not yet come. At-Tabari states it: the smoke is one of Allah's signs, sent on His servants before the Hour, entering the hearing of the disbelievers and touching the believers like a cold; it has not come, and it is coming. Al-Qurtubi lists this view first and names among its holders 'Ali, Ibn 'Abbas, Abu Hurairah, al-Hasan and Ibn Abi Mulaikah. Ibn Kathir brings 'Ali's words through Ibn Abi Hatim: the sign of the smoke has not yet passed.",
+            "bn": "অন্য ব্যাখ্যা বলে, ধোঁয়া এখনো আসেনি। তাবারী মতটি এভাবে তুলে ধরেন: ধোঁয়া আল্লাহর নিদর্শনগুলোর একটি, কিয়ামতের আগে তিনি তা তাঁর বান্দাদের উপর পাঠাবেন। তা কাফিরদের কানে ঢুকে যাবে, আর মুমিনদের ধরবে সর্দির মতো। তা এখনো আসেনি, তবে আসবে। কুরতুবী এ মতকে প্রথমে রাখেন, আর এর ধারকদের মধ্যে নাম নেন আলী, ইবন আব্বাস, আবু হুরায়রা (রাঃ), হাসান ও ইবন আবী মুলাইকার। ইবন কাসীর ইবন আবী হাতিমের সূত্রে আলী (রাঃ)-এর কথা আনেন: ধোঁয়ার নিদর্শন এখনো পার হয়নি।"
+          },
+          {
+            "en": "At-Tabari keeps a scene for Ibn 'Abbas too, through Ibn Abi Mulaikah. One morning he went to Ibn 'Abbas, who said: I did not sleep last night until dawn. Why? They said the tailed star had risen, and I feared the smoke had come upon us in the night, so I did not sleep until morning. Ibn Kathir calls the chain to Ibn 'Abbas sound. At-Tabari also brings Ibn 'Umar describing the smoke as still to come, and al-Hasan saying it remains among the signs.",
+            "bn": "তাবারী ইবন আবী মুলাইকার সূত্রে ইবন আব্বাস (রাঃ)-এর একটি দৃশ্যও রেখেছেন। এক সকালে তিনি ইবন আব্বাসের কাছে গেলেন। ইবন আব্বাস বললেন, কাল রাতে ভোর পর্যন্ত আমি ঘুমাইনি। কেন? লোকেরা বলল, লেজওয়ালা তারা উঠেছে। আমার ভয় হলো, রাতের মধ্যে ধোঁয়া এসে পড়েছে কি না। তাই সকাল পর্যন্ত ঘুমাইনি। ইবন কাসীর বলেন, ইবন আব্বাস পর্যন্ত এর সনদ সহীহ। তাবারী ইবন উমার (রাঃ)-এর কথাও আনেন, যিনি ধোঁয়াকে ভবিষ্যতের ঘটনা হিসেবে বর্ণনা করেন। আর হাসানের কথা, ধোঁয়া এখনো বাকি থাকা নিদর্শনগুলোর একটি।"
+          },
+          {
+            "en": "Sahih Muslim (2901) carries the report of Hudhayfah ibn Asid al-Ghifari: The Prophet ﷺ looked in on us while we were talking together, and said: What are you discussing? They said: We are speaking of the Hour. He said: It will not come until you see ten signs before it. And he mentioned the smoke, the Dajjal, the beast, the sun rising from its west, the descent of 'Isa son of Maryam (AS), Gog and Magog, and three landslides, in the east, in the west and in the Arabian Peninsula, and last of all a fire from Yemen that drives people to their gathering place.",
+            "bn": "সহীহ মুসলিম (২৯০১) হুযাইফা ইবন আসীদ আল-গিফারী (রাঃ)-এর বর্ণনা এনেছে: আমরা পরস্পর আলোচনা করছিলাম, এমন সময় নবী ﷺ আমাদের দিকে তাকিয়ে বললেন, তোমরা কী নিয়ে আলোচনা করছ? তাঁরা বললেন, আমরা কিয়ামতের কথা বলছি। তিনি বললেন, তার আগে দশটি নিদর্শন না দেখা পর্যন্ত কিয়ামত হবে না। তারপর তিনি উল্লেখ করলেন ধোঁয়া, দাজ্জাল, দাব্বা, পশ্চিম দিক থেকে সূর্যোদয়, ঈসা ইবন মারইয়াম (আঃ)-এর অবতরণ, ইয়াজুজ-মাজুজ আর তিনটি ভূমিধস: পূর্বে, পশ্চিমে ও আরব উপদ্বীপে। আর সবশেষে ইয়েমেন থেকে বের হওয়া এক আগুন, যা মানুষকে তাড়িয়ে নেবে তাদের সমবেত হওয়ার জায়গায়।"
+          },
+          {
+            "en": "Ibn Kathir leans this way: reports from the Prophet ﷺ and from Companions point to the smoke as an awaited sign, and this is the Qur'an's apparent sense. He adds Ibn Sayyad. At-Tirmidhi (2249) narrates from Ibn 'Umar that the Prophet ﷺ hid something from Ibn Sayyad to test him, and had hidden this verse; Ibn Sayyad could only say: it is ad-dukh. At-Tirmidhi grades it hasan sahih. Ibn Kathir reads the choice of verse as a hint that the smoke is still awaited.",
+            "bn": "ইবন কাসীরের ঝোঁক এ মতের দিকে। তাঁর মতে নবী ﷺ ও সাহাবিদের থেকে আসা বর্ণনাগুলো ধোঁয়াকে অপেক্ষমাণ নিদর্শন হিসেবে দেখায়, আর কুরআনের বাহ্যিক অর্থও তাই। সঙ্গে তিনি ইবন সাইয়াদের ঘটনা আনেন। তিরমিযী (২২৪৯) ইবন উমার (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ ইবন সাইয়াদকে পরীক্ষা করতে মনে একটা জিনিস গোপন রেখেছিলেন, আর সেটা ছিল এই আয়াত। ইবন সাইয়াদ শুধু বলতে পারল: তা হলো 'দুখ'। তিরমিযী একে হাসান সহীহ বলেছেন। ইবন কাসীরের মতে, এই আয়াত বেছে নেওয়াটাই ইঙ্গিত দেয় যে ধোঁয়া এখনো আসার অপেক্ষায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Both Readings Left Standing",
+          "bn": "দুই ব্যাখ্যাই রইল দাঁড়িয়ে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi shows what turns on the choice. Covering the people (44:11): if the smoke has passed, as Ibn Mas'ud said, it was particular to the polytheists of Makkah; if it is a sign of the Hour, it is general. He also records a third view, from 'Abd ar-Rahman al-A'raj: the day Makkah was conquered, when dust veiled the sky. Ibn Kathir calls that view very strange, indeed rejected.",
+            "bn": "কোন মত নেওয়া হচ্ছে, তার উপর কী নির্ভর করে, কুরতুবী তা দেখান। মানুষকে ঢেকে ফেলবে (৪৪:১১): ইবন মাসউদ (রাঃ)-এর কথামতো ধোঁয়া পার হয়ে গিয়ে থাকলে তা ছিল কেবল মক্কার মুশরিকদের জন্য। কিয়ামতের নিদর্শন হলে তা সবার জন্য। তিনি তৃতীয় একটি মতও রাখেন, আবদুর রহমান আল-আরাজের: মক্কা বিজয়ের দিন, যখন ধুলায় আকাশ ঢাকা পড়েছিল। ইবন কাসীর এ মতকে খুবই অদ্ভুত, বরং প্রত্যাখ্যাত বলেন।"
+          },
+          {
+            "en": "This article does not settle the question. Al-Baghawi opens with the plain fact: they differed over this smoke. Both readings go back to Companions. Ibn Mas'ud's, in al-Bukhari, names this verse; Muslim's report counts the smoke among the ten signs without quoting it, and at-Tirmidhi's ties the verse to the test of Ibn Sayyad. At-Tabari, who prefers the first reading, still allows both reports to be true. The reader can hold the difference as the Companions held it.",
+            "bn": "এ লেখা প্রশ্নটির মীমাংসা করছে না। বাগাভী শুরুই করেন সোজা কথাটা দিয়ে: এ ধোঁয়া নিয়ে তাঁরা মতভেদ করেছেন। দুই মতই সাহাবিদের পর্যন্ত পৌঁছায়। বুখারীতে ইবন মাসউদ (রাঃ)-এর বর্ণনা নাম ধরে এই আয়াতের কথাই বলে। মুসলিমের বর্ণনা ধোঁয়াকে দশটি নিদর্শনের মধ্যে গোনে, তবে আয়াতটি উদ্ধৃত করে না। তিরমিযীর বর্ণনা আয়াতটিকে যুক্ত করে ইবন সাইয়াদের পরীক্ষার সঙ্গে। তাবারী প্রথম মত পছন্দ করেও মেনে নেন যে দুই বর্ণনাই সত্য হতে পারে। সাহাবিরা যেভাবে মতভেদটা ধারণ করেছিলেন, পাঠকও সেভাবে তা ধরে রাখতে পারেন।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: a smoke over the people it addresses, whether the famine haze over Quraysh in the Prophet's ﷺ lifetime or a sign before the Hour. It licenses nothing against any living person or community. No smog over a city today, no wildfire haze, no volcanic ash and no famine anywhere may be announced as this sign, or as a punishment on the people under it. Ibn Mas'ud's anger in the Kufa mosque was at a man speaking with confidence about this very smoke.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা এর ভাষায় আছে: যাদের উদ্দেশে কথা, তাদের উপর এক ধোঁয়া। তা নবী ﷺ-এর জীবদ্দশায় কুরাইশের উপর নেমে আসা দুর্ভিক্ষের ধোঁয়াশা হোক, কিংবা কিয়ামতের আগের নিদর্শন। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজ কোনো শহরের ধোঁয়াশা, দাবানলের ধোঁয়া, আগ্নেয়গিরির ছাই বা কোথাও কোনো দুর্ভিক্ষকে এই নিদর্শন বলে ঘোষণা করা যাবে না। সেখানকার মানুষের উপর শাস্তি বলেও নয়। কুফার মসজিদে ইবন মাসউদ (রাঃ) রেগে গিয়েছিলেন এক লোকের উপর, যে এই ধোঁয়া নিয়েই নিশ্চিত সুরে কথা বলছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Watching Without Announcing",
+          "bn": "ঘোষণা নয়, প্রতীক্ষা"
+        },
+        "p": [
+          {
+            "en": "Whatever the smoke is, the verse gives one instruction: watch. At-Tabari heard patience in it, and as-Sa'di heard nearness: the time has drawn close. That is the opposite of the playing in 44:9. Those in doubt treat the warning as something to toy with; the one told to watch treats it as certain, and leaves its timing to Allah. For a reader today the instruction still fits. A warning in the Qur'an is meant to be lived with, not dismissed and not turned into a puzzle about dates.",
+            "bn": "ধোঁয়া যা-ই হোক, আয়াতের নির্দেশ একটাই: অপেক্ষা করুন। তাবারী এতে শুনেছেন সবরের আদেশ, আর সা'দী শুনেছেন নৈকট্যের কথা, সময় কাছে এসে গেছে। এ ৪৪:৯-এর খেলার ঠিক উল্টো। সন্দেহে পড়া লোকেরা সতর্কবাণী নিয়ে খেলে। আর যাঁকে অপেক্ষা করতে বলা হয়েছে, তিনি তাকে নিশ্চিত ধরে নেন, আর সময়টা ছেড়ে দেন আল্লাহর হাতে। আজকের পাঠকের জন্যও নির্দেশটা খাটে। কুরআনের সতর্কবাণী নিয়ে বাঁচতে হয়। তাকে উড়িয়ে দেওয়া যায় না, আবার দিন-তারিখের ধাঁধাও বানানো যায় না।"
+          },
+          {
+            "en": "Two Companions in these reports read the verse differently, and stand side by side in what they did. Ibn Mas'ud would not let a man speak beyond his knowledge, and began his own answer by teaching the words Allah knows best. Ibn 'Abbas, holding the other reading, lost a night's sleep in fear when the tailed star rose, and set no date. Neither played with the warning. To watch, in the way this verse asks, is to take the promise seriously, refuse to guess, and say Allah knows best where knowledge ends.",
+            "bn": "এই বর্ণনাগুলোতে দুজন সাহাবি আয়াতটিকে দুইভাবে বুঝেছেন, কিন্তু আচরণে তাঁরা পাশাপাশি দাঁড়িয়ে। ইবন মাসউদ (রাঃ) কাউকে জ্ঞানের সীমা ছাড়িয়ে কথা বলতে দেননি। নিজের জবাব শুরু করেছেন 'আল্লাহই ভালো জানেন' কথাটি শিখিয়ে। ইবন আব্বাস (রাঃ) অন্য মতের লোক, অথচ লেজওয়ালা তারা ওঠার খবরে ভয়ে সারা রাত জেগে কাটিয়েছেন, কোনো তারিখ ঘোষণা করেননি। কেউই সতর্কবাণী নিয়ে খেলেননি। এ আয়াত যে অপেক্ষা চায়, তা হলো ওয়াদাকে গুরুত্ব দেওয়া, অনুমান থেকে বিরত থাকা, আর জ্ঞান যেখানে শেষ, সেখানে বলা: আল্লাহই ভালো জানেন।"
+          }
+        ]
+      }
+    ]
+  },
   "44:13": {
     "sections": [
       {
