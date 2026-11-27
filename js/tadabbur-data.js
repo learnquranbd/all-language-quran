@@ -35853,6 +35853,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not read delay as denial. The promise has its appointed time, known to Allah alone; spend the time you are given preparing for it, not asking when.",
     "lessonBn": "দেরিকে অস্বীকার ভাববেন না। ওয়াদার নির্ধারিত সময় আছে, যা কেবল আল্লাহই জানেন। আপনাকে যে সময় দেওয়া হয়েছে, তা ‘কবে’ জিজ্ঞেস করে নয়, প্রস্তুতি নিয়ে কাটান।"
+  },
+  "28:3": {
+    "reflectionEn": "Before the story starts, Allah says how it will be told. We recite to you: the teller is God Himself. From the news: only part of it, chosen with care. In truth: no legend, no embroidery, told as it happened. For a people who believe: the story has an audience, and the audience is defined by how it listens. The same account of a tyrant and a prophet can sit on a page as old history, or it can reach a heart that needs to know that arrogance does not last and that the weak are not forgotten. The verse asks me which kind of listener I am before it tells me a single thing.",
+    "reflectionBn": "গল্প শুরুর আগেই আল্লাহ জানিয়ে দেন, গল্পটা কেমনভাবে বলা হবে। আমি তোমাকে পড়ে শোনাচ্ছি: বর্ণনাকারী স্বয়ং আল্লাহ। খবরের কিছু অংশ: পুরোটা নয়, বেছে নেওয়া অংশ। সত্য সহকারে: কিংবদন্তি নয়, রং চড়ানো নয়, যেমন ঘটেছিল তেমন। ঈমানদার সম্প্রদায়ের জন্য: এ গল্পের শ্রোতা আছে, আর শ্রোতার পরিচয় তার শোনার ধরনে। এক জালিম আর এক নবীর একই কাহিনি পাতায় পড়ে থাকতে পারে পুরোনো ইতিহাস হয়ে। আবার তা পৌঁছাতে পারে এমন হৃদয়ে, যার জানা দরকার যে অহংকার টেকে না আর দুর্বলদের আল্লাহ ভোলেন না। একটি কথাও বলার আগে আয়াতটি আমাকে জিজ্ঞেস করে, আমি কোন ধরনের শ্রোতা।",
+    "pointsEn": [
+      "When I read the Qur'an's stories, do I read them as history about other people, or as news addressed to me?",
+      "The verse says only part of the news is told. Do I trust that what was left out was left out for a reason, or do I hunt for details the Qur'an chose not to give?",
+      "What would change in my reading if I remembered, each time, who is reciting?",
+      "Where in my life do I need the reassurance that arrogance does not last and that the weak are not forgotten?",
+      "What does it look like for me this week to listen as one of the people who believe, and act on what I hear?"
+    ],
+    "pointsBn": [
+      "কুরআনের কাহিনিগুলো পড়ার সময় আমি কি সেগুলো অন্য লোকদের ইতিহাস হিসেবে পড়ি, নাকি আমার কাছে পাঠানো খবর হিসেবে?",
+      "আয়াত বলছে, খবরের কিছু অংশই শোনানো হচ্ছে। যা বাদ রাখা হয়েছে তা কারণেই বাদ রাখা হয়েছে, এ ভরসা কি আমার আছে? নাকি কুরআন যে খুঁটিনাটি দেয়নি, আমি সেগুলোর পেছনে ছুটি?",
+      "প্রতিবার যদি মনে রাখতাম কে পড়ে শোনাচ্ছেন, তাহলে আমার পড়ায় কী বদলাত?",
+      "জীবনের কোন জায়গায় আমার এই ভরসা দরকার যে অহংকার টেকে না আর দুর্বলদের আল্লাহ ভোলেন না?",
+      "এ সপ্তাহে ঈমানদারদের একজন হয়ে শোনা আর শোনা কথার উপর আমল করা আমার জন্য কেমন দেখাবে?"
+    ],
+    "lessonEn": "Read the Qur'an's stories as true news sent to you by Allah, and listen as a believer who takes their lesson and acts on it.",
+    "lessonBn": "কুরআনের কাহিনিগুলোকে আল্লাহর পাঠানো সত্য খবর হিসেবে পড়ুন, আর ঈমানদারের মতো শুনুন: শিক্ষা নিন এবং সে অনুযায়ী আমল করুন।"
   }
 };
 

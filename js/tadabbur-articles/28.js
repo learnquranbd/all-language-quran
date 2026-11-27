@@ -11,6 +11,154 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "28:3": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Clear Book Turns to Story",
+          "bn": "সুস্পষ্ট কিতাব গল্পে ফেরে"
+        },
+        "p": [
+          {
+            "en": "Surat al-Qasas opens with three letters, then a sentence about the Book itself: these are verses of the clear Book (28:2). The abridged Ibn Kathir explains that clear Book as one that makes plain the true reality of things and tells of what happened and what will happen. The very next sentence shows the claim at work. Natlu 'alayka min naba'i Musa wa-Fir'awna bil-haqqi li-qawmin yu'minun: We recite to you some of the news of Musa (AS) and Pharaoh, in truth, for a people who believe.",
+            "bn": "সূরা কাসাস শুরু হয় তিনটি হরফ দিয়ে, তারপর আসে কিতাব নিয়ে একটি বাক্য: এগুলো সুস্পষ্ট কিতাবের আয়াত (২৮:২)। সংক্ষিপ্ত ইবন কাসীর এই সুস্পষ্ট কিতাবের ব্যাখ্যা দেন এভাবে: যে কিতাব জিনিসের আসল রূপ খুলে দেখায়, যা ঘটে গেছে আর যা ঘটবে তার খবর দেয়। ঠিক পরের বাক্যেই দাবিটা কাজে নামে। নাতলূ আলাইকা মিন নাবাই মূসা ওয়া ফিরআউনা বিলহাক্কি লিকাওমিন ইউমিনূন: আমি তোমাকে মূসা (আঃ) ও ফেরাউনের খবরের কিছু অংশ সত্য সহকারে পড়ে শোনাচ্ছি, ঈমানদার সম্প্রদায়ের জন্য।"
+          },
+          {
+            "en": "As-Sa'di links the two verses directly. Among the things the clear Book makes plain, he says, is the story of Musa and Pharaoh, which Allah showed and then repeated in several places and set out at length here. So the verse is a hinge. It closes the short preface and opens that fuller telling, and in nine Arabic words it names the teller, the material, the standard of truth and the audience, all before the first event is narrated.",
+            "bn": "সাদী দুই আয়াতকে সরাসরি জুড়ে দেন। তিনি বলেন, সুস্পষ্ট কিতাব যা কিছু খুলে বলেছে, তার একটি হলো মূসা ও ফেরাউনের কাহিনি। আল্লাহ তা দেখিয়েছেন, তারপর একাধিক জায়গায় ফিরিয়ে এনেছেন, আর এখানে বিস্তারিত মেলে ধরেছেন। তাই আয়াতটি যেন দরজার কব্জা। ছোট্ট ভূমিকাটা এখানে শেষ, আর এখান থেকেই সেই বিস্তারিত বর্ণনার শুরু। মাত্র নয়টি আরবি শব্দে আয়াতটি বলে দেয় কে শোনাচ্ছেন, কী শোনাচ্ছেন, কোন সত্যের মাপে শোনাচ্ছেন আর কাদের শোনাচ্ছেন। প্রথম ঘটনাটি আসার আগেই এই সব কথা শেষ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Recited by Our Command",
+          "bn": "আমার আদেশে পাঠ"
+        },
+        "p": [
+          {
+            "en": "Natlu is from tilawa, reciting. At-Tabari glosses it with two verbs: We read to you, and We relate in this Qur'an, from the report of Musa and Pharaoh. He then brings Qatada's short comment on the same words: in this Qur'an is their news. Both readings place the story inside the Book. The teller is named in the first-person verb, We recite, and the place where the account is kept is the Qur'an, read aloud to the Prophet ﷺ and then by him to others.",
+            "bn": "নাতলূ এসেছে তিলাওয়াত থেকে, যার অর্থ পাঠ করা। তাবারী শব্দটির অর্থ দেন দুটি ক্রিয়া দিয়ে: আমি তোমাকে পড়ে শোনাই, আর এই কুরআনে মূসা ও ফেরাউনের খবর থেকে বর্ণনা করি। তারপর একই শব্দের উপর কাতাদার ছোট্ট মন্তব্য আনেন: এই কুরআনেই তাদের খবর। দুজনের ব্যাখ্যাই কাহিনিটিকে রাখে কিতাবের ভেতরে। বর্ণনাকারী কে, তা বলে দেয় 'আমি পড়ে শোনাই' ক্রিয়াটিই। আর বর্ণনাটি রাখা আছে কুরআনে, যা নবী ﷺ-কে পড়ে শোনানো হয়েছে, তারপর তিনি শুনিয়েছেন অন্যদের।"
+          },
+          {
+            "en": "Al-Qurtubi adds how the reciting reached him: Jibril recites to you by Our command. The speaker of the verse is Allah, and the angel voices it to the Prophet ﷺ. The pronoun in 'alayka, to you, is singular, and the hearer first addressed is the Prophet himself. Every later reader comes to the story by listening in on that address, which is a reason to read it slowly and with some awe, as words that were first spoken to someone else.",
+            "bn": "পাঠটা তাঁর কাছে কীভাবে পৌঁছাল, কুরতুবী তা যোগ করেন: আমার আদেশে জিবরীল তোমাকে পড়ে শোনান। আয়াতের বক্তা আল্লাহ, আর ফেরেশতা নবী ﷺ-কে তা উচ্চারণ করে শোনান। আলাইকা, তোমাকে: সর্বনামটি একবচন। প্রথম শ্রোতা নবী ﷺ নিজে। পরের প্রত্যেক পাঠক কাহিনিটির কাছে আসেন সেই সম্বোধন কান পেতে শুনে। কাজেই এ কাহিনি পড়া উচিত ধীরে, কিছুটা ভয়মিশ্রিত সম্মান নিয়ে। কারণ কথাগুলো প্রথমে বলা হয়েছিল আরেকজনকে, আর আমরা সেখানে পরে এসে বসেছি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only Part of the News",
+          "bn": "খবরের একটি অংশমাত্র"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi stops on the small word min. He reads it as partitive, min lil-tab'id, so the phrase min naba'i Musa wa-Fir'awn is itself the thing recited: We recite to you some of their report. For the construction he points to a parallel in 23:20. He glosses naba' simply as khabar, report or news, so that the verse promises a portion of the account of the two men, not the whole of it. What follows in the surah is chosen, and the choice is part of the message.",
+            "bn": "কুরতুবী থামেন ছোট্ট শব্দ 'মিন'-এর উপর। তাঁর মতে এটি অংশবোধক, যাকে বলা হয় মিন লিততাবঈদ। ফলে 'মিন নাবাই মূসা ওয়া ফিরআউন' কথাটিই পাঠের বিষয়: আমি তোমাকে তাদের খবরের কিছু অংশ শোনাচ্ছি। এই গঠনের জন্য তিনি ২৩:২০ আয়াতের একটি দৃষ্টান্ত দেখান। নাবা শব্দের অর্থ তিনি দেন সোজা খবর। অর্থাৎ আয়াতটি দুজনের পুরো বৃত্তান্ত নয়, তার একটি অংশ শোনানোর কথা দিচ্ছে। সূরায় এরপর যা আসছে, তা বাছাই করা। আর বাছাইটাও বার্তারই অংশ।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an shows how the parts are spread across the Book. The story of Musa (AS) is told at length in the Qur'an, it says, sometimes briefly and sometimes in detail. Surat al-Kahf carries the part in which he met al-Khidr, Surat Ta-Ha relates other parts in some detail, more details come in Surat an-Naml, and here in al-Qasas they are told again. Within this surah, it adds, the first half holds his dealings with Pharaoh and the closing part his episode with Qarun.",
+            "bn": "অংশগুলো গোটা কিতাবে কীভাবে ছড়িয়ে আছে, মাআরিফুল কুরআন তা দেখায়। তার ভাষ্যে, মূসা (আঃ)-এর কাহিনি কুরআনে বহু জায়গায় এসেছে, কোথাও সংক্ষেপে, কোথাও বিস্তারিত। সূরা কাহফে আছে খিজিরের সঙ্গে তাঁর সাক্ষাতের অংশ। সূরা তাহায় আরও কিছু অংশ বেশ বিস্তারিত, সূরা নামলে আরও কিছু খুঁটিনাটি, আর এখানে সূরা কাসাসে সেগুলো আবার বলা হচ্ছে। মাআরিফুল কুরআন আরও জানায়, এই সূরার প্রথম অর্ধেকে আছে ফেরাউনের সঙ্গে তাঁর ঘটনাবলি, আর শেষ দিকে কারূনের সঙ্গে তাঁর ঘটনা।"
+          },
+          {
+            "en": "Set beside as-Sa'di's remark that the story is repeated and spread out at length here, that list explains the word some. Repetition in the Qur'an is not a loss of material. Each telling picks a different slice and sets it in a different frame, so the reader meets the same prophet from a new side. Here the slice begins before his birth, with the tyrant's decree and a mother's fear, and the verse prepares the ear for it by saying that what comes is a portion, and a deliberate one.",
+            "bn": "সাদী বলেছিলেন, কাহিনিটি বারবার এসেছে আর এখানে বিস্তারিত মেলে ধরা হয়েছে। তাঁর সেই কথার পাশে রাখলে এই তালিকাই 'কিছু অংশ' কথাটির মানে খুলে দেয়। কুরআনে একই কাহিনি বারবার আসা মানে কথার অভাব নয়। প্রতিবার বেছে নেওয়া হয় আলাদা একটি টুকরো, বসানো হয় আলাদা প্রেক্ষাপটে। ফলে পাঠক একই নবীকে দেখেন নতুন দিক থেকে। এখানে টুকরোটা শুরু হয় তাঁর জন্মেরও আগে, জালিমের ফরমান আর এক মায়ের ভয় দিয়ে। আয়াতটি কানকে আগেই তৈরি করে রাখে: যা আসছে তা একটি অংশ, আর ভেবেচিন্তেই বেছে নেওয়া অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "As Though You Were Present",
+          "bn": "যেন আপনি সেখানে হাজির"
+        },
+        "p": [
+          {
+            "en": "Bil-haqq, in truth, is glossed the same way by three of the commentators. Al-Baghawi writes one word, bil-sidq, with truthfulness. Al-Muyassar renders the verse as We relate to you of the report of Musa and Pharaoh with truthfulness. Al-Qurtubi fills the word out: with the truthfulness in which there is no doubt and no lie. The phrase does not describe the moral of the story alone. It vouches for the events themselves: what follows happened, and happened as it will be told.",
+            "bn": "বিলহাক্ক, সত্য সহকারে: তিনজন তাফসীরকার শব্দটির একই অর্থ করেন। বাগাভী লেখেন একটি শব্দ, বিসসিদক, সত্যতার সঙ্গে। মুয়াসসার আয়াতটির অর্থ করে এভাবে: আমি তোমাকে মূসা ও ফেরাউনের খবর থেকে সত্যতার সঙ্গে বর্ণনা করছি। কুরতুবী শব্দটিকে আরও ভরাট করেন: এমন সত্যতা, যাতে কোনো সন্দেহ নেই, কোনো মিথ্যাও নেই। কথাটা শুধু কাহিনির শিক্ষার সত্যতা বোঝায় না। ঘটনাগুলোর জামিনও দেয়: সামনে যা আসছে তা সত্যিই ঘটেছিল, আর যেভাবে বলা হবে ঠিক সেভাবেই ঘটেছিল।"
+          },
+          {
+            "en": "Ibn Kathir sets the verse beside 12:3, We relate to you the best of stories, and glosses the words with one image: We mention the matter to you as it actually was, as though you were watching it and as though you were present. The abridged edition carries the same line in English: as if you are there and are seeing them yourself. A report told by an eyewitness carries a weight no rumour can, and here the teller is not a witness but the One who brought the events about.",
+            "bn": "ইবন কাসীর আয়াতটিকে রাখেন ১২:৩ আয়াতের পাশে, যেখানে আল্লাহ বলেন, আমি তোমাকে সবচেয়ে সুন্দর কাহিনি শোনাচ্ছি। ব্যাখ্যাটা তিনি দেন একটি ছবিতে: ঘটনা যেমন ছিল ঠিক তেমনভাবে আমি তোমাকে বলছি, যেন তুমি তা দেখছ, যেন তুমি সেখানে হাজির। সংক্ষিপ্ত ইবন কাসীরেও একই কথা: যেন তুমি সেখানেই আছ আর নিজের চোখে দেখছ। চাক্ষুষ সাক্ষীর বিবরণের যে ওজন, গুজবের তা থাকে না। আর এখানে বর্ণনাকারী কোনো সাক্ষী নন। তিনি সেই সত্তা, যিনি নিজেই ঘটনাগুলো ঘটিয়েছেন।"
+          },
+          {
+            "en": "As-Sa'di adds why such truth is worth the telling: their report is gharib, strange, and their news 'ajib, astonishing. A boy is cast into a river by his own mother's hand and raised in the house of the man who wanted him dead. Stories like that are usually told as fables. The verse heads off that reading in advance. The more astonishing the events, the more the listener needs to hear, before they start, that none of it is invented.",
+            "bn": "এমন সত্য কেন শোনানোর মতো, সাদী তা যোগ করেন: তাদের খবর গারীব, অদ্ভুত, আর তাদের বৃত্তান্ত আজীব, বিস্ময়কর। নিজের মায়ের হাতে এক শিশু নদীতে ভাসানো হয়, তারপর সে বড় হয় সেই লোকের ঘরেই, যে তার মৃত্যু চেয়েছিল। এমন কাহিনি সাধারণত রূপকথা হিসেবে বলা হয়। আয়াতটি আগেভাগেই সেই পড়ার পথ বন্ধ করে দেয়। ঘটনা যত বিস্ময়কর, শুরুর আগেই শ্রোতার তত বেশি জানা দরকার যে এর কিছুই বানানো নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told to Those Who Believe",
+          "bn": "শোনানো হয় ঈমানদারদের"
+        },
+        "p": [
+          {
+            "en": "Li-qawmin yu'minun, for a people who believe. At-Tabari reads it as a people who affirm this Book; al-Baghawi as those who affirm the Qur'an. Al-Qurtubi joins the two halves of belief: they affirm the Qur'an and know that it is from Allah. Then he states the converse plainly: whoever does not believe does not hold it to be true. The same words reach both groups, but only one of them receives the story as truth, and so only one can take anything from it.",
+            "bn": "লিকাওমিন ইউমিনূন, ঈমানদার সম্প্রদায়ের জন্য। তাবারীর ব্যাখ্যায়, এমন সম্প্রদায় যারা এই কিতাবকে সত্য বলে মানে। বাগাভীর ব্যাখ্যায়, যারা কুরআনকে সত্য বলে মানে। কুরতুবী ঈমানের দুটি দিক এক করেন: তারা কুরআনকে সত্য মানে, আর জানে যে তা আল্লাহর কাছ থেকে এসেছে। তারপর উল্টো দিকটাও সোজাসুজি বলেন: যে ঈমান আনে না, সে একে সত্য বলে বিশ্বাস করে না। একই কথা দুই দলের কাছেই পৌঁছায়। কিন্তু কাহিনিটিকে সত্য হিসেবে গ্রহণ করে একটি দলই, আর তাই তা থেকে কিছু পায়ও সেই দলই।"
+          },
+          {
+            "en": "Al-Muyassar widens the description by one clause. The people meant are those who believe in this Qur'an, affirm that it is from Allah, and act by its guidance. Belief here is not only assent to a fact about the Book. It includes a way of living that follows from it. On this reading the story is addressed to people who will do something with it, and a reader who only collects its details has not yet become the listener the verse describes.",
+            "bn": "মুয়াসসার বর্ণনাটিকে আরও একটি অংশ দিয়ে বাড়ায়। এখানে যাদের কথা বলা হচ্ছে, তারা এই কুরআনে ঈমান আনে, মানে যে তা আল্লাহর কাছ থেকে এসেছে, আর তার হেদায়াত অনুযায়ী আমল করে। তাহলে ঈমান মানে কেবল কিতাব সম্পর্কে একটি তথ্য মেনে নেওয়া নয়। তার সঙ্গে আসে সেই মতো জীবনযাপনও। এই ব্যাখ্যায় কাহিনিটির শ্রোতা তারা, যারা শুনে কিছু করবে। যে পাঠক শুধু খুঁটিনাটি জমায়, আয়াত যে শ্রোতার কথা বলছে, তিনি এখনো সে শ্রোতা হয়ে ওঠেননি।"
+          },
+          {
+            "en": "As-Sa'di explains why the address goes to them. Their faith lets them turn to the story to ponder it, receive it with acceptance, and be guided at the places where its lessons lie, and through it they grow in faith, certainty and good. Those besides them, he says, gain from it nothing but the establishment of proof against them; Allah guarded it from them and set a veil between them and understanding it. The same story is light for one listener and evidence against another.",
+            "bn": "কেন সম্বোধনটা তাদের দিকেই, সাদী তা ব্যাখ্যা করেন। তাদের ঈমান আছে বলেই তারা কাহিনিটির দিকে মন দিয়ে চিন্তা করতে পারে, কবুলের মন নিয়ে তা গ্রহণ করতে পারে, আর যেখানে যেখানে শিক্ষা আছে সেখান থেকে পথ পায়। এর মধ্য দিয়ে তাদের ঈমান, ইয়াকীন আর কল্যাণ বাড়তে থাকে। অন্যদের সম্পর্কে তিনি বলেন, তাদের বিরুদ্ধে প্রমাণ দাঁড় করানো ছাড়া এ থেকে তারা আর কিছুই পায় না। আল্লাহ কাহিনিটিকে তাদের থেকে আগলে রেখেছেন, আর তাদের ও তা বোঝার মাঝে পর্দা টেনে দিয়েছেন। একই কাহিনি এক শ্রোতার জন্য আলো, আরেকজনের বিরুদ্ধে দলিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Comfort Inside the Story",
+          "bn": "কাহিনির ভেতরেই সান্ত্বনা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives the purpose of the telling in one long sentence. It is so that the believers know that what We recite to you of the news of Musa and Pharaoh holds their own news, and so that their souls are at rest. Allah's way with the idolaters who opposed the Prophet ﷺ and showed him enmity is His way with those who opposed Musa: He destroys them as He destroyed Pharaoh and his people, and rescues the believers as He rescued those of the Children of Israel who believed in Musa.",
+            "bn": "কাহিনিটি শোনানোর উদ্দেশ্য তাবারী বলেন একটি দীর্ঘ বাক্যে। উদ্দেশ্য, ঈমানদাররা যেন জানে, মূসা ও ফেরাউনের যে খবর আমি তোমাকে শোনাচ্ছি তার মধ্যেই আছে তাদের নিজেদের খবর। আর যেন তাদের মন শান্ত হয়। যে মুশরিকরা নবী ﷺ-এর বিরোধিতা করেছে আর শত্রুতা দেখিয়েছে, তাদের বেলায় আল্লাহর নিয়ম সেটাই, যা ছিল মূসার বিরোধীদের বেলায়। ফেরাউন ও তার লোকদের যেমন তিনি ধ্বংস করেছিলেন, এদেরও তেমনি ধ্বংস করবেন। আর বনী ইসরাঈলের যারা মূসার উপর ঈমান এনেছিল, তাদের যেমন বাঁচিয়েছিলেন, ঈমানদারদেরও তেমনি বাঁচাবেন।"
+          },
+          {
+            "en": "Al-Qurtubi reads the surah as an argument aimed at the idolaters of Quraysh. The surah tells of Musa, Pharaoh and Qarun, he says, and shows that Qarun's kinship with Musa did not benefit him while he disbelieved, just as Quraysh's kinship with Muhammad ﷺ would not benefit them. It shows that Pharaoh exalted himself in the land and played the tyrant, and that this was part of his disbelief. So one should avoid exalting oneself in the land, and also taking pride in great wealth: both, he says, belong to the conduct of Pharaoh and Qarun.",
+            "bn": "কুরতুবী সূরাটিকে দেখেন কুরাইশের মুশরিকদের বিরুদ্ধে একটি যুক্তি হিসেবে। তিনি বলেন, সূরাটি মূসা, ফেরাউন ও কারূনের কাহিনি শোনায়। দেখায় যে কুফরির সঙ্গে মূসার আত্মীয়তা কারূনের কোনো কাজে আসেনি। মুহাম্মদ ﷺ-এর সঙ্গে আত্মীয়তাও তেমনি কুরাইশের কাজে আসবে না। সূরাটি আরও দেখায়, ফেরাউন দেশে উদ্ধত হয়েছিল আর জুলুমবাজ হয়ে উঠেছিল, আর এটা ছিল তার কুফরিরই অংশ। তাই দেশে নিজেকে বড় করে তোলা থেকে দূরে থাকা চাই, ধনসম্পদের প্রাচুর্য নিয়ে গর্ব করা থেকেও। কুরতুবীর ভাষায়, দুটোই ফেরাউন আর কারূনের স্বভাব।"
+          },
+          {
+            "en": "Neither commentator retells the story here; both name what it is for. The promise that follows in 28:5 and 28:6, that Allah willed to favour those held weak in the land, is the comfort at-Tabari describes, set inside the story itself. The surah's later verses return to the warning al-Qurtubi draws out, and in 28:83 the home of the Hereafter is given to those who seek no exaltation in the land and no corruption. Hud makes a similar point about why the stories of the messengers are told, in 11:120.",
+            "bn": "দুজনের কেউই এখানে কাহিনিটি নতুন করে বলেন না। দুজনেই বলেন কাহিনিটি কেন বলা হচ্ছে। এরপর ২৮:৫ ও ২৮:৬ আয়াতে প্রতিশ্রুতি আসে যে দেশে যাদের দুর্বল করে রাখা হয়েছিল, আল্লাহ তাদের প্রতি অনুগ্রহ করতে চাইলেন। তাবারী যে সান্ত্বনার কথা বলেন, তা এভাবে কাহিনির ভেতরেই বসানো। কুরতুবী যে সতর্কবার্তা বের করে আনেন, সূরার পরের আয়াতগুলোও সেদিকে ফেরে। ২৮:৮৩ আয়াতে আখিরাতের আবাস দেওয়া হয় তাদের, যারা দেশে বড়ত্ব আর ফাসাদ চায় না। নবীদের কাহিনি কেন শোনানো হয়, সে প্রসঙ্গে সূরা হুদেও কাছাকাছি কথা আছে, ১১:১২০ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Setting Without a Chain",
+          "bn": "সনদহীন এক প্রেক্ষাপট"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an calls al-Qasas the very last of the Makkan surahs and places its revelation on the road of the migration, between Makkah and al-Juhfa. It relays, from narrations it does not name, an account of an exchange there between Jibril and the Prophet ﷺ, and links it to the promise of 28:85: He who ordained the Qur'an for you will bring you back to a place of return. Ma'arif gives no chain or grading for that account, so its wording is not repeated here and nothing below rests on it.",
+            "bn": "মাআরিফুল কুরআনের মতে সূরা কাসাস মক্কী সূরাগুলোর একেবারে শেষটি। এর অবতরণের জায়গা হিসেবে সে উল্লেখ করে হিজরতের পথ, মক্কা আর জুহফার মাঝামাঝি। সেখানে জিবরীল ও নবী ﷺ-এর মধ্যে একটি কথোপকথনের বিবরণও সে আনে, এমন বর্ণনা থেকে যার নাম বলে না। বিবরণটিকে সে জুড়ে দেয় ২৮:৮৫ আয়াতের প্রতিশ্রুতির সঙ্গে: যিনি তোমার উপর কুরআন ফরজ করেছেন, তিনি তোমাকে অবশ্যই ফিরিয়ে আনবেন ফেরার জায়গায়। ওই বিবরণের কোনো সনদ বা মান মাআরিফুল কুরআন দেয় না। তাই তার ভাষ্য এখানে আনা হলো না, আর নিচের কোনো কথাই তার উপর দাঁড়িয়ে নেই।"
+          },
+          {
+            "en": "The abridged Ibn Kathir opens the surah with a report that Imam Ahmad recorded about learning the recitation of Ta Sin Mim from Khabbab ibn al-Aratt (RA); it gives no grading, and the report concerns the surah's recitation, not this verse. None of the commentaries consulted for 28:3 attaches a sound hadith to it, and none reports an occasion of revelation for the verse itself. Its meaning is carried by its place: a statement of method set at the door of the story.",
+            "bn": "সংক্ষিপ্ত ইবন কাসীর সূরাটি শুরু করে ইমাম আহমাদের সংকলিত একটি বর্ণনা দিয়ে। তার বিষয়, খাব্বাব ইবনুল আরাত (রাঃ)-এর কাছ থেকে তা-সীন-মীমের তিলাওয়াত শেখা। বর্ণনাটির কোনো মান সেখানে দেওয়া নেই, আর সেটি সূরার তিলাওয়াত নিয়ে, এই আয়াত নিয়ে নয়। ২৮:৩ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয় না। আয়াতটির নিজস্ব কোনো শানে নুযূলও কেউ উল্লেখ করেন না। আয়াতটির অর্থ বহন করে তার অবস্থান: কাহিনির দরজায় বসানো, কীভাবে শুনতে হবে তার ঘোষণা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Egypt Then, Not Egypt Now",
+          "bn": "সেকালের মিসর, একালের নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse introduces the account of a ruler of Egypt, his court and his soldiers, and of the Children of Israel whom he oppressed in that age. It describes what the text describes and licenses nothing against any living person or community: not against Egyptians today, not against Jewish people today, and not against any present-day ruler, none of whom the Qur'an names here. Its warning is addressed to the reader's own heart, which can learn Pharaoh's pride in a small house as easily as in a palace.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি ভূমিকা টানে মিসরের এক শাসক, তার দরবার ও সৈন্যদের কাহিনির, আর সেই যুগে তার হাতে নিপীড়িত বনী ইসরাঈলের কাহিনির। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। আজকের মিসরীয়দের বিরুদ্ধে নয়, আজকের ইহুদিদের বিরুদ্ধে নয়, বর্তমান কোনো শাসকের বিরুদ্ধেও নয়। এদের কারও নাম কুরআন এখানে নেয়নি। এর সতর্কবার্তা পাঠকের নিজের হৃদয়ের প্রতি। ফেরাউনের অহংকার প্রাসাদে যেমন শেখা যায়, ছোট্ট ঘরেও তেমনি।"
+          },
+          {
+            "en": "So the verse leaves a question for the one who reads it. The story is true, it is chosen, it comes from Allah, and it is told for a people who believe. As-Sa'di's line marks the stakes: the same account adds faith and certainty to one listener and stands only as proof against another. Before turning to 28:4 and the tyrant's crimes, it is worth asking which of the two one means to be, and then reading on as someone who intends to act.",
+            "bn": "তাই আয়াতটি পাঠকের সামনে একটি প্রশ্ন রেখে যায়। কাহিনিটি সত্য, বাছাই করা, আল্লাহর কাছ থেকে আসা, আর শোনানো হচ্ছে ঈমানদার সম্প্রদায়ের জন্য। কী নিয়ে লড়াই, সাদীর কথাতেই তা স্পষ্ট: একই বিবরণ এক শ্রোতার ঈমান আর ইয়াকীন বাড়ায়, আরেকজনের বিরুদ্ধে শুধু প্রমাণ হয়ে দাঁড়ায়। ২৮:৪ আয়াতে জালিমের অপরাধের তালিকায় যাওয়ার আগে নিজেকে জিজ্ঞেস করা ভালো, আমি এই দুইয়ের কোনটি হতে চাই। তারপর পড়া চালিয়ে যাওয়া যায় এমন একজন হয়ে, যে শুনে আমল করার নিয়ত রাখে।"
+          }
+        ]
+      }
+    ]
+  },
   "28:4": {
     "sections": [
       {
