@@ -1474,5 +1474,141 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "32:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Date Asked in Scorn",
+          "bn": "বিদ্রূপের সুরে তারিখ চাওয়া"
+        },
+        "p": [
+          {
+            "en": "This verse is an answer, and its question stands one verse earlier. In 32:28 the deniers say: when is this opening, if you are truthful? At-Tabari and al-Baghawi both carry Qatada's account of what provoked it. The Companions of the Prophet ﷺ had told the idolaters that a day was coming for them in which they would find rest and ease. Al-Baghawi's wording adds that on that day judgement would be given between the two sides, and that the idolaters asked their question in mockery.",
+            "bn": "এই আয়াত একটি জবাব, আর প্রশ্নটা রয়েছে ঠিক আগের আয়াতে। ৩২:২৮ আয়াতে অস্বীকারকারীরা বলে: তোমরা সত্যবাদী হলে বলো, এই ফয়সালা কবে? প্রশ্নটা কেন উঠেছিল, তাবারী ও বাগাভী দুজনেই কাতাদার বর্ণনায় তা জানান। নবী ﷺ-এর সাহাবিরা মুশরিকদের বলেছিলেন, তাঁদের জন্য এমন একটা দিন আসছে, যেদিন তাঁরা স্বস্তি পাবেন, আরাম পাবেন। বাগাভীর ভাষ্যে আরও আছে: সেদিন দুই পক্ষের মধ্যে ফয়সালা হবে। আর মুশরিকরা প্রশ্নটা করেছিল ঠাট্টা করে।"
+          },
+          {
+            "en": "Ibn Kathir hears in the question an attempt to hurry Allah's punishment, born of disbelief, stubbornness and the conviction that it would never come. He gives the taunt its full voice: when will you prevail over us, Muhammad, as you claim you will, and be avenged on us? All we see of you and your companions is hiding, fear and humiliation. As-Sa'di and al-Muyassar read it the same way: they were hurrying on the punishment promised them, the opening that would decide between the two sides by punishing the deniers, as the believers claimed it would.",
+            "bn": "ইবন কাসীর এ প্রশ্নের ভেতরে শোনেন আল্লাহর আযাবকে তাড়াতাড়ি ডেকে আনার চেষ্টা। এর পেছনে ছিল কুফর, জেদ, আর এই বিশ্বাস যে আযাব কখনো আসবেই না। তিনি খোঁটাটা পুরো গলায় তুলে ধরেন: হে মুহাম্মাদ, তুমি তো দাবি করো একদিন আমাদের উপর জয়ী হবে আর তোমার হয়ে আমাদের থেকে প্রতিশোধ নেওয়া হবে, সেটা কবে? আমরা তো তোমাকে আর তোমার সঙ্গীদের দেখি শুধু লুকিয়ে থাকতে, ভয়ে আর অপমানে। সা'দী ও মুয়াসসারও একই কথা বলেন। প্রতিশ্রুত আযাবকে তারা তাড়াতাড়ি চাইছিল। তারা চাইছিল সেই ফয়সালা, যা মুমিনদের দাবি অনুযায়ী অস্বীকারকারীদের শাস্তি দিয়ে দুই পক্ষকে আলাদা করে দেবে।"
+          },
+          {
+            "en": "Then comes the reply, and its grammar is part of its point. At-Tabari explains that yawm, day, stands in the accusative as an answer to when, since when itself occupies the place of an accusative: they asked at what time this opening would be, and were told, on such a day. That, he notes, is how the readers recited it. Al-Qurtubi likewise takes the word as an adverb of time, and records that al-Farra allowed the nominative. The deniers asked for a date. They were given a day named by what happens on it.",
+            "bn": "এরপর আসে জবাব, আর তার ব্যাকরণও বক্তব্যের অংশ। তাবারী ব্যাখ্যা করেন, ইয়াওম অর্থাৎ দিন শব্দটি যবরযুক্ত হয়েছে 'কবে' প্রশ্নের জবাব হিসেবে, কারণ 'কবে' শব্দটি নিজেই যবরের স্থানে বসে আছে। তারা জানতে চেয়েছিল, এই ফয়সালার সময় কখন? উত্তর এল: অমুক দিনে। তাবারী জানান, কারীরা এভাবেই পড়েছেন। কুরতুবীও শব্দটিকে সময়বাচক ক্রিয়াবিশেষণ ধরেন। আর তিনি উল্লেখ করেন, ফাররা পেশ দিয়ে পড়াও জায়েজ মনে করতেন। অস্বীকারকারীরা তারিখ চেয়েছিল। তাদের দেওয়া হলো একটা দিন, যার পরিচয় সেদিন যা ঘটবে তা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Opening That Means Deciding",
+          "bn": "খুলে দেওয়া মানে মীমাংসা"
+        },
+        "p": [
+          {
+            "en": "Al-fath is usually rendered conquest or victory, but the commentators hear an older sense in it. Ibn Kathir states that the opening meant here is the one that is judgement and separation, and he lines up the Qur'an's own uses: Nuh (AS) asking, so open between me and them an opening (26:118); our Lord will gather us and then open between us with the truth (34:26); and they sought an opening, and every obstinate tyrant failed (14:15). He adds 2:89 and 8:19, where seeking the fath means asking Allah to rule between two parties.",
+            "bn": "আল-ফাতহ শব্দের সাধারণ অনুবাদ বিজয়, কিন্তু তাফসীরকারেরা এর ভেতরে আরও পুরোনো একটা অর্থ শোনেন। ইবন কাসীর বলেন, এখানে সেই ফাতহ উদ্দেশ্য, যার অর্থ ফয়সালা ও দুই পক্ষকে আলাদা করে দেওয়া। তারপর তিনি কুরআনেরই কয়েকটি ব্যবহার সাজিয়ে দেন। নূহ (আঃ) দোয়া করেন, আমার ও তাদের মাঝে তুমি স্পষ্ট ফয়সালা করে দাও (২৬:১১৮)। আমাদের রব আমাদের একত্র করবেন, তারপর সত্যের সঙ্গে আমাদের মাঝে ফয়সালা করবেন (৩৪:২৬)। তারা ফয়সালা চাইল, আর প্রত্যেক উদ্ধত জালিম ব্যর্থ হলো (১৪:১৫)। তিনি ২:৮৯ ও ৮:১৯ আয়াতও যোগ করেন, যেখানে ফাতহ চাওয়া মানে দুই পক্ষের মাঝে আল্লাহর রায় চাওয়া।"
+          },
+          {
+            "en": "Al-Qurtubi gives the same sense. Qatada, he reports, said: the fath is the judgement. A judge, al-Qurtubi explains, is called fatih and fattah because matters open out at his hands and are set apart, and he points to the prayer, our Lord, open between us and our people with the truth (7:89). Ma'arif al-Qur'an renders the word decision and remarks that this translation leaves room for both readings, a day in this world or the Day of Resurrection. A deciding is an opening: what was shut between two parties is laid open.",
+            "bn": "কুরতুবীও একই অর্থ আনেন। তিনি জানান, কাতাদা বলেছেন: ফাতহ মানে ফয়সালা। কুরতুবী ব্যাখ্যা করেন, বিচারককে ফাতিহ ও ফাত্তাহ বলা হয়, কারণ তাঁর হাতে বিষয়গুলো খুলে যায়, একটা থেকে আরেকটা আলাদা হয়ে যায়। তিনি দেখান সেই দোয়া: হে আমাদের রব, আমাদের ও আমাদের কওমের মাঝে সত্যের সঙ্গে ফয়সালা করে দিন (৭:৮৯)। মাআরিফুল কুরআন শব্দটির অনুবাদ করে 'মীমাংসা', আর বলে, এ অনুবাদে দুটো পাঠই জায়গা পায়: দুনিয়ার কোনো দিন, অথবা কিয়ামতের দিন। মীমাংসা আসলে এক রকম খুলে দেওয়া: দুই পক্ষের মাঝে যা বন্ধ ছিল, তা খুলে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Resurrection, Badr or Makkah",
+          "bn": "কিয়ামত, বদর না মক্কা"
+        },
+        "p": [
+          {
+            "en": "Which day, then, is the Day of the Opening? At-Tabari reports from Mujahid, through Ibn Abi Najih, that it is the Day of Resurrection, and from Ibn Zayd that it is the day when the punishment comes. His own conclusion on 32:28 is that the deniers were asking when the judgement between the two sides would arrive, meaning the punishment. Al-Baghawi glosses the phrase in 32:29 directly as the Day of Resurrection, and al-Qurtubi, after setting out the alternatives, calls Mujahid's reading more fitting than the reading of the conquest.",
+            "bn": "তাহলে ফয়সালার দিন কোনটি? তাবারী ইবন আবী নাজীহের সূত্রে মুজাহিদ থেকে বর্ণনা করেন, এটি কিয়ামতের দিন। আর ইবন যায়দ থেকে বর্ণনা করেন, এটি সেই দিন, যেদিন আযাব আসবে। ৩২:২৮ আয়াতে তাবারীর নিজের সিদ্ধান্ত হলো, অস্বীকারকারীরা জানতে চাইছিল দুই পক্ষের মাঝে ফয়সালা কবে আসবে, আর তা দিয়ে তারা আযাবকেই বোঝাচ্ছিল। বাগাভী ৩২:২৯ আয়াতে শব্দবন্ধটির সরাসরি ব্যাখ্যা দেন কিয়ামতের দিন বলে। আর কুরতুবী বিভিন্ন মত সাজানোর পর বলেন, মক্কা বিজয়ের মতের চেয়ে মুজাহিদের মতটিই বেশি যুক্তিযুক্ত।"
+          },
+          {
+            "en": "Two worldly days were also proposed. At-Tabari records that others said the conquest of Makkah was meant, without naming them; al-Qurtubi names al-Farra and al-Qutabi for this view, and al-Baghawi names al-Kalbi. Al-Baghawi then reports from as-Suddi that it was the day of Badr, and gives the reason: the Companions used to tell the idolaters that Allah would help them and make them prevail, and the idolaters answered, when is this opening? On this reading the taunt was about victory in battle, and the answer pointed to the field where it came.",
+            "bn": "দুনিয়ার দুটি দিনের কথাও বলা হয়েছে। তাবারী জানান, অন্য কেউ কেউ বলেছেন এখানে মক্কা বিজয় উদ্দেশ্য, তবে তিনি তাঁদের নাম বলেননি। কুরতুবী এ মতের জন্য ফাররা ও কুতাবীর নাম নেন, আর বাগাভী নাম নেন কালবীর। এরপর বাগাভী সুদ্দী থেকে বর্ণনা করেন, এটি বদরের দিন। কারণটাও তিনি জানান। সাহাবিরা মুশরিকদের বলতেন, আল্লাহ আমাদের সাহায্য করবেন আর তোমাদের উপর আমাদের জয়ী করবেন। জবাবে মুশরিকরা বলত, এই ফয়সালা কবে? এ পাঠ অনুযায়ী খোঁটাটা ছিল যুদ্ধে জয় নিয়ে, আর জবাব ইঙ্গিত করছিল সেই ময়দানের দিকে, যেখানে জয় এসেছিল।"
+          },
+          {
+            "en": "Some commentators refuse to choose between this world and the next. Ibn Kathir explains the day as the time when Allah's wrath and punishment befall the deniers, in this world and in the Hereafter. Ma'arif al-Qur'an, following him, says the punishment may come right here in this world, as it did at Badr, or in the Hereafter, and notes that others took the day as the Day of Resurrection. Al-Muyassar describes it as the day of decision on which their punishment falls and they see death with their own eyes.",
+            "bn": "কোনো কোনো তাফসীরকার দুনিয়া আর আখিরাতের মধ্যে একটাকে বেছে নেননি। ইবন কাসীর দিনটির ব্যাখ্যা দেন এভাবে: যখন অস্বীকারকারীদের উপর আল্লাহর ক্রোধ ও আযাব নেমে আসবে, দুনিয়াতে এবং আখিরাতে। মাআরিফুল কুরআন তাঁকে অনুসরণ করে বলে, আযাব এই দুনিয়াতেই আসতে পারে, যেমন বদরে এসেছিল, অথবা আখিরাতে। সঙ্গে জানায়, অন্যরা দিনটিকে কিয়ামতের দিন ধরেছেন। মুয়াসসার একে বলে সেই মীমাংসার দিন, যেদিন তাদের উপর শাস্তি নেমে আসবে, আর তারা নিজের চোখে মৃত্যু দেখবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Conquest Reading Strains",
+          "bn": "বিজয়ের পাঠে যেখানে টান পড়ে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari argues against the conquest reading from this very verse. The verse says that on the Day of the Opening the disbelievers' faith will not benefit them. Yet Allah had given the disbelievers repentance both before the conquest of Makkah and after it. Were the conquest meant, he reasons, there would have been no repentance for any idolater who accepted Islam after it, and there is no doubt that Allah turned in forgiveness to a great many of them after the conquest and let their faith benefit them. That, he concludes, proves his reading and the weakness of its rival.",
+            "bn": "তাবারী মক্কা বিজয়ের পাঠের বিরুদ্ধে যুক্তি দেন এই আয়াত থেকেই। আয়াত বলছে, ফয়সালার দিনে কাফিরদের ঈমান তাদের কোনো উপকারে আসবে না। অথচ আল্লাহ কাফিরদের জন্য তওবার দরজা খোলা রেখেছিলেন মক্কা বিজয়ের আগেও, পরেও। তাঁর যুক্তি: যদি এখানে মক্কা বিজয় বোঝানো হতো, তাহলে বিজয়ের পর যে মুশরিকই ইসলাম গ্রহণ করত, তার তওবা কবুল হতো না। অথচ নিঃসন্দেহে বিজয়ের পর বহু মুশরিকের তওবা আল্লাহ কবুল করেছেন, আর তাদের ঈমান তাদের কাজে এসেছে। তাবারী বলেন, এ থেকেই তাঁর ব্যাখ্যার সঠিকতা আর বিপরীত মতের দুর্বলতা স্পষ্ট।"
+          },
+          {
+            "en": "Ibn Kathir is sharper. Whoever claims this opening is the conquest of Makkah, he writes, has wandered far and erred badly. On the day of the conquest the Messenger of Allah ﷺ accepted the Islam of the tulaqa, the Makkans who were set free that day, and they numbered close to two thousand. Had the conquest been meant, he would not have accepted their Islam, because the verse says that on that day the disbelievers' faith will not benefit them. The opening, Ibn Kathir concludes, is judgement and decision, as in the verses he cites.",
+            "bn": "ইবন কাসীর আরও কড়া। তিনি লেখেন, যে দাবি করে এই ফাতহ মক্কা বিজয়, সে অনেক দূরে সরে গেছে আর মারাত্মক ভুল করেছে। বিজয়ের দিন রাসূলুল্লাহ ﷺ তুলাকাদের ইসলাম কবুল করেছিলেন। তুলাকা মানে মক্কার সেই লোকেরা, যাদের সেদিন মুক্ত করে দেওয়া হয়েছিল। তাদের সংখ্যা ছিল প্রায় দুই হাজার। যদি মক্কা বিজয়ই উদ্দেশ্য হতো, তাহলে তিনি তাদের ইসলাম কবুল করতেন না, কারণ আয়াত বলছে, সেদিন কাফিরদের ঈমান তাদের কাজে আসবে না। ইবন কাসীরের সিদ্ধান্ত: ফাতহ মানে ফয়সালা ও মীমাংসা, তাঁর উদ্ধৃত আয়াতগুলোর মতোই।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi still show how the worldly readings work, so the disagreement stays open. Al-Baghawi says those who took the opening as the conquest or the killing at Badr understood the verse to mean that their faith would not help them once the punishment had reached them and they were killed. Al-Qurtubi applies the denial of respite the same way: at Badr they were killed, and on the day of the conquest they fled, and Khalid ibn al-Walid overtook and killed them. On these readings the verse speaks of those struck before they believed.",
+            "bn": "তবু কুরতুবী ও বাগাভী দেখান, দুনিয়ার দিন ধরে পড়লে ব্যাখ্যাটা কীভাবে খাটে। তাই মতভেদটা খোলাই থাকে। বাগাভী বলেন, যাঁরা ফাতহকে মক্কা বিজয় বা বদরের দিনের হত্যা ধরেছেন, তাঁদের মতে আয়াতের অর্থ: আযাব যখন তাদের কাছে পৌঁছে যাবে আর তারা নিহত হবে, তখন তাদের ঈমান কাজে আসবে না। কুরতুবী অবকাশ না পাওয়ার কথাটিও একইভাবে খাটান। বদরে তারা নিহত হয়েছিল, আর বিজয়ের দিন তারা পালিয়েছিল, আর খালিদ ইবনুল ওয়ালীদ তাদের ধরে ফেলে হত্যা করেছিলেন। এ পাঠে আয়াতটি তাদের কথা বলে, ঈমান আনার আগেই যারা আঘাতে পড়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Belief That Comes Compelled",
+          "bn": "বাধ্য হয়ে আনা ঈমান"
+        },
+        "p": [
+          {
+            "en": "Why would faith not help on that day? As-Sa'di gives the reason in a few lines. Had the arrival of the opening brought a respite, so that the deniers could make up what they had missed now that the matter was certain to them, that would have had some sense. But when the Day of the Opening comes, the matter is finished and no room is left for the trial. Their faith does not benefit them, he says, because it has become a faith of compulsion, the belief of someone who no longer has a choice.",
+            "bn": "সেদিন ঈমান কেন কাজে আসবে না? সা'দী কয়েক লাইনে কারণটা বলে দেন। ফয়সালা আসার সঙ্গে যদি অবকাশও আসত, যাতে ব্যাপারটা নিশ্চিত হয়ে যাওয়ার পর অস্বীকারকারীরা হারানো সময় পুষিয়ে নিতে পারে, তাহলে কথাটার একটা মানে থাকত। কিন্তু ফয়সালার দিন এলে বিষয়টা শেষ হয়ে যায়, পরীক্ষার আর কোনো জায়গা থাকে না। তিনি বলেন, তাদের ঈমান কাজে আসে না, কারণ তা হয়ে গেছে বাধ্য হয়ে আনা ঈমান। সেটা এমন মানুষের বিশ্বাস, যার হাতে আর বেছে নেওয়ার কিছু নেই।"
+          },
+          {
+            "en": "Ibn Kathir binds the verse to 40:83 to 40:85. Messengers came with clear proofs and their people rejoiced in the knowledge they already had, until what they mocked closed in on them. When they saw Our might, they said: we believe in Allah alone and reject what we used to join with Him. But their faith did not benefit them once they had seen Our might, the way of Allah that has passed among His servants. At-Tabari puts it briefly: what will not benefit them is the faith they bring into being at that moment.",
+            "bn": "ইবন কাসীর আয়াতটিকে ৪০:৮৩ থেকে ৪০:৮৫ আয়াতের সঙ্গে জুড়ে দেন। রাসূলগণ স্পষ্ট প্রমাণ নিয়ে এসেছিলেন, আর তাঁদের কওম নিজেদের কাছে থাকা জ্ঞান নিয়েই খুশি ছিল, যতক্ষণ না যা নিয়ে তারা ঠাট্টা করত, তা-ই তাদের ঘিরে ফেলল। আমার শাস্তি দেখে তারা বলল: আমরা এক আল্লাহর উপর ঈমান আনলাম, আর যাদের তাঁর শরিক করতাম, তাদের অস্বীকার করলাম। কিন্তু আমার শাস্তি দেখে ফেলার পর তাদের ঈমান কোনো কাজে আসেনি। এটাই আল্লাহর নিয়ম, যা তাঁর বান্দাদের মধ্যে চলে আসছে। তাবারী সংক্ষেপে বলেন: যে ঈমান তাদের কাজে আসবে না, তা হলো সেই মুহূর্তে তারা নতুন করে যে ঈমান আনবে।"
+          },
+          {
+            "en": "The verse closes with a second denial: wa la hum yunzarun, nor will they be given respite. The commentators gloss it almost in one voice. At-Tabari and al-Muyassar say they will not be deferred for repentance and for coming back. Al-Qurtubi says they will not be delayed or granted time to repent. Al-Baghawi says they will not be given respite to repent and to offer excuses. As-Sa'di says the punishment will not be held back from them so that they might put their affairs right. Every gloss names the same lost thing: time to turn around.",
+            "bn": "আয়াত শেষ হয় দ্বিতীয় একটি নাকচ দিয়ে: ওয়া লা হুম য়ুনযারূন, আর তাদের অবকাশও দেওয়া হবে না। তাফসীরকারেরা প্রায় একই সুরে এর ব্যাখ্যা দেন। তাবারী ও মুয়াসসার বলেন, তওবা করার আর ফিরে আসার জন্য তাদের সময় পিছিয়ে দেওয়া হবে না। কুরতুবী বলেন, তওবার জন্য তাদের দেরি করতে দেওয়া হবে না, সময়ও দেওয়া হবে না। বাগাভী বলেন, তওবা করার আর ওজর পেশ করার অবকাশ তাদের দেওয়া হবে না। সা'দী বলেন, তাদের উপর থেকে আযাব সরিয়ে রাখা হবে না, যাতে তারা নিজেদের অবস্থা শুধরে নিতে পারে। প্রতিটি ব্যাখ্যায় হারানো জিনিস একটাই: ফিরে দাঁড়ানোর সময়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Both Sides Are Waiting",
+          "bn": "অপেক্ষায় আছে দুই পক্ষই"
+        },
+        "p": [
+          {
+            "en": "The surah's last verse, 32:30, follows: so turn away from them and wait; they too are waiting. Ibn Kathir reads it as: turn away from these idolaters and convey what your Lord has sent down to you, as in 6:106, and wait, for Allah will fulfil His promise and help you against those who oppose you. They meanwhile wait for misfortune to strike you, as in 52:30. At-Tabari: wait for what Allah will do with them, while they wait for the promised punishment and the Hour; Qatada, he reports, said the Day of Resurrection.",
+            "bn": "সূরার শেষ আয়াত ৩২:৩০ এর পরেই আসে: কাজেই তাদের থেকে মুখ ফিরিয়ে নাও আর অপেক্ষা করো, তারাও অপেক্ষা করছে। ইবন কাসীরের ব্যাখ্যা: এই মুশরিকদের থেকে মুখ ফিরিয়ে নাও, আর তোমার রবের কাছ থেকে যা নাযিল হয়েছে তা পৌঁছে দাও, যেমন ৬:১০৬ আয়াতে আছে। অপেক্ষা করো, আল্লাহ তোমাকে দেওয়া ওয়াদা পূরণ করবেন আর বিরোধীদের বিরুদ্ধে তোমাকে সাহায্য করবেন। ওদিকে তারা অপেক্ষা করছে তোমার উপর বিপদ নেমে আসার, যেমন ৫২:৩০ আয়াতে আছে। তাবারীর ব্যাখ্যায়: আল্লাহ তাদের সঙ্গে কী করেন, তার অপেক্ষা করো, আর তারা অপেক্ষা করছে প্রতিশ্রুত আযাব আর কিয়ামতের। তিনি জানান, কাতাদা বলেছেন: কিয়ামতের দিন।"
+          },
+          {
+            "en": "Whether the command to turn away still stands is disputed. Al-Baghawi and al-Qurtubi both relay from Ibn Abbas that it was abrogated by the verse of the sword in Bara'a, which al-Qurtubi quotes as kill the idolaters wherever you find them (9:5). Al-Qurtubi then records the opposite view, that the verse is not abrogated, since turning away can go together with the command to fight, as in a truce and similar cases. As-Sa'di reads the turning away as a response to talk that had sunk into ignorance and demands for punishment.",
+            "bn": "মুখ ফিরিয়ে নেওয়ার নির্দেশটি এখনো বহাল আছে কি না, তা নিয়ে মতভেদ আছে। বাগাভী ও কুরতুবী দুজনেই ইবন আব্বাস থেকে বর্ণনা করেন, সূরা বারাআর তরবারির আয়াত দিয়ে এটি মানসুখ হয়ে গেছে। কুরতুবী সেই আয়াত উদ্ধৃত করেন: মুশরিকদের যেখানে পাও হত্যা করো (৯:৫)। এরপর কুরতুবী বিপরীত মতটিও উল্লেখ করেন। সে মতে আয়াতটি মানসুখ নয়, কারণ যুদ্ধের নির্দেশের সঙ্গেও মুখ ফিরিয়ে নেওয়া চলতে পারে, যেমন সন্ধি ও এ ধরনের অবস্থায়। সা'দী মুখ ফিরিয়ে নেওয়াকে দেখেন তাদের সেই কথাবার্তার জবাব হিসেবে, যা মূর্খতা আর আযাব তাড়াতাড়ি চাওয়ায় গিয়ে ঠেকেছিল।"
+          },
+          {
+            "en": "This must be said plainly. The verse describes what it describes: Makkan idolaters who mocked the promise of judgement and demanded the punishment, and what Allah told His Prophet ﷺ about them. It licenses nothing against any living person or community. It gives no one the right to declare that another person's faith has come too late, or to treat anyone alive as already past the door. At-Tabari's own argument rests on the door having stayed open after the conquest. The Day of the Opening belongs to Allah, and so do its hour and its verdict.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, তা-ই বর্ণনা করে: মক্কার সেই মুশরিকরা, যারা হিসাবের প্রতিশ্রুতি নিয়ে ঠাট্টা করত আর আযাব দাবি করত, আর তাদের ব্যাপারে আল্লাহ তাঁর নবী ﷺ-কে যা বলেছেন। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। অন্যের ঈমান দেরিতে এসেছে, এমন ঘোষণা দেওয়ার অধিকার এ আয়াত কাউকে দেয় না। কোনো জীবিত মানুষকে দরজার ওপারে চলে যাওয়া লোক ভাবারও অধিকার দেয় না। তাবারীর নিজের যুক্তিই দাঁড়িয়ে আছে এই কথার উপর যে বিজয়ের পরও দরজা খোলা ছিল। ফয়সালার দিন আল্লাহর, তার সময় আর তার রায়ও তাঁরই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard at Friday's Dawn",
+          "bn": "জুমার ফজরে শোনা সূরা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it. A narration about the whole surah, not this verse, does stand at the end of al-Baghawi's commentary, through al-Bukhari's chain. Al-Bukhari records it in his Sahih (891) from Abu Hurayra (RA): \"The Prophet ﷺ used to recite on Friday, in the Fajr prayer, Alif Lam Mim Tanzil, as-Sajda, and Hal ata 'ala al-insan.\" So the surah that closes on this question and its answer was one the Prophet ﷺ used to recite at the start of the week's gathering day.",
+            "bn": "এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তবে পুরো সূরা নিয়ে একটি বর্ণনা আছে, এই আয়াত নিয়ে নয়। বাগাভী সূরার তাফসীরের শেষে বুখারীর সনদে সেটি এনেছেন। বুখারী তাঁর সহীহ গ্রন্থে (৮৯১) আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করেন: \"নবী ﷺ জুমার দিন ফজরের নামাজে পড়তেন আলিফ লাম মীম তানযীল, আস-সাজদা, আর হাল আতা আলাল ইনসান।\" অর্থাৎ যে সূরা এই প্রশ্ন আর তার জবাব দিয়ে শেষ হয়, নবী ﷺ সপ্তাহের সমাবেশের দিনের শুরুতে তা পড়তেন।"
+          },
+          {
+            "en": "Read that way, the verse is less a threat than a correction of the question. The deniers asked when. The answer told them what the day would be worth to anyone who waited for it to arrive before believing: nothing, and no more time. The useful question was never the date. It was what a person does with the days before it, while belief is still a choice and turning back is still accepted. The surah ends by sending the Prophet ﷺ back to his work and his patience, and leaves the hour with Allah.",
+            "bn": "এভাবে পড়লে আয়াতটি যতটা হুমকি, তার চেয়ে বেশি প্রশ্নটাকে শুধরে দেওয়া। অস্বীকারকারীরা জিজ্ঞেস করেছিল, কবে? জবাব তাদের জানাল, ঈমান আনার আগে যে লোক দিনটা আসার অপেক্ষায় বসে থাকে, তার কাছে সেদিনের মূল্য কী: কিছুই না, আর বাড়তি সময়ও না। কাজের প্রশ্নটা কখনোই তারিখ ছিল না। প্রশ্ন ছিল, তার আগের দিনগুলো দিয়ে মানুষ কী করে, যখন ঈমান তখনো বেছে নেওয়ার বিষয় আর তওবা তখনো কবুল হয়। সূরাটি শেষ হয় নবী ﷺ-কে তাঁর কাজ আর ধৈর্যের দিকে ফিরিয়ে দিয়ে, আর সময়টা রেখে দেয় আল্লাহর হাতে।"
+          }
+        ]
+      }
+    ]
   }
 });

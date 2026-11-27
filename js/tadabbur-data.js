@@ -36273,6 +36273,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Deafness to the Qur'an is usually chosen, not suffered: when its verses are recited, turn towards them, and do not let pride or a favourite noise close your ears.",
     "lessonBn": "কুরআনের প্রতি বধিরতা সাধারণত কানের রোগ নয়, নিজের বাছাই। আয়াত পড়া হলে সেদিকে ফিরুন, অহংকার বা পছন্দের আওয়াজকে কান বন্ধ করতে দেবেন না।"
+  },
+  "32:29": {
+    "reflectionEn": "They asked for a date: when is this opening, if you are telling the truth? The answer gives them no calendar, only a description. On that day the faith of those who refused will not help them, and no one will be given more time. Belief is accepted while it is still a choice, while the unseen is unseen and the door stands open. Once the decision has come and everything is plain, believing is no longer trust; it is only seeing. The verse turns the mockers' question back on me. I too may be waiting for some sign, some certainty, some better season before I change. What if the only time that counts is the time I am already in?",
+    "reflectionBn": "তারা তারিখ জানতে চেয়েছিল: তোমরা সত্যবাদী হলে বলো, এই ফয়সালা কবে? জবাবে কোনো দিনক্ষণ আসেনি, এসেছে সেই দিনের চেহারা। সেদিন যারা অস্বীকার করেছিল, তাদের ঈমান কোনো কাজে আসবে না, আর কাউকে আর সময়ও দেওয়া হবে না। ঈমান কবুল হয় যতক্ষণ তা বেছে নেওয়ার বিষয়, যতক্ষণ গায়েব গায়েবই থাকে আর দরজা খোলা থাকে। ফয়সালা এসে গেলে, সব চোখের সামনে খুলে গেলে, বিশ্বাস আর ভরসা থাকে না, থাকে শুধু দেখা। আয়াতটি বিদ্রূপকারীদের প্রশ্নটা আমার দিকেই ঘুরিয়ে দেয়। আমিও হয়তো বদলানোর আগে কোনো নিদর্শন, কোনো নিশ্চয়তা, কোনো ভালো সময়ের অপেক্ষায় বসে আছি। যদি এমন হয় যে, যে সময়টা গোনা হবে তা এই সময়ই, যার ভেতরে আমি এখন আছি?",
+    "pointsEn": [
+      "What change am I putting off until I feel more certain, and what would it cost me if that certainty arrived too late?",
+      "Do I ever treat Allah's warnings as a topic for argument, asking when instead of asking what I should do now?",
+      "If the respite I have today were my last, what would I settle first: a missed prayer, a debt, an apology?",
+      "When I hear people mock the promise of judgement, does it unsettle me, or does it remind me to wait patiently as the Prophet ﷺ was told to wait?",
+      "Which part of my faith rests on trusting what I have not seen, and how am I honouring it while it still counts?"
+    ],
+    "pointsBn": [
+      "আরও নিশ্চিত হওয়ার অপেক্ষায় কোন পরিবর্তনটা আমি পিছিয়ে রাখছি? সেই নিশ্চয়তা যদি দেরিতে আসে, তার দাম কত পড়বে?",
+      "আল্লাহর সতর্কবাণীকে কি আমি কখনো তর্কের বিষয় বানাই, 'কবে' জিজ্ঞেস করি, অথচ 'এখন আমার কী করা উচিত' তা জিজ্ঞেস করি না?",
+      "আজ যে অবকাশ পেয়েছি, তা-ই যদি শেষ অবকাশ হয়, সবার আগে কী মিটিয়ে নেব: কাজা নামাজ, কোনো দেনা, নাকি কারও কাছে মাফ চাওয়া?",
+      "কেউ যখন হিসাবের দিনের প্রতিশ্রুতি নিয়ে ঠাট্টা করে, তা কি আমাকে নাড়িয়ে দেয়? নাকি মনে করিয়ে দেয়, নবী ﷺ-কে যেমন ধৈর্য ধরে অপেক্ষা করতে বলা হয়েছিল, আমাকেও তেমনি অপেক্ষা করতে হবে?",
+      "আমার ঈমানের কোন অংশ না দেখে বিশ্বাস করার উপর দাঁড়িয়ে আছে? সেটার গুরুত্ব যতক্ষণ আছে, ততক্ষণ আমি তার হক কীভাবে আদায় করছি?"
+    ],
+    "lessonEn": "Believe and turn back to Allah while the choice is still yours; faith that waits until everything is seen comes too late to help.",
+    "lessonBn": "বেছে নেওয়ার সুযোগ যতক্ষণ আপনার হাতে, ততক্ষণেই ঈমান আনুন আর আল্লাহর দিকে ফিরে আসুন। সব চোখে দেখার পর যে ঈমান আসে, তা আর কোনো কাজে আসে না।"
   }
 };
 
