@@ -33563,6 +33563,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Want the Hereafter, work for it in the way it asks, and keep faith beneath the work; effort like that is never lost with Allah.",
     "lessonBn": "আখিরাত চান, আখিরাত যেভাবে চায় সেভাবে তার জন্য আমল করুন, আর সেই আমলের নিচে ঈমান ধরে রাখুন। এমন চেষ্টা আল্লাহর কাছে কখনো হারায় না।"
+  },
+  "16:69": {
+    "reflectionEn": "A creature small enough to rest on a fingertip is told where to build, then told to eat and to take the roads its Lord has made easy. It flies far over hills and fields, and finds its way home. What comes out of it is a drink of many colours, white, yellow and red, each shade taken from blossoms it visited, and in it is healing for people. The verse does not stop at the honey. It ends on thought: in this is a sign for people who reflect. The sweetness on my table passed through a bee and a valley of flowers before it reached me. Do I taste it and move on, or let it lead me back to the One who taught the bee its road?",
+    "reflectionBn": "এত ছোট এক প্রাণী, আঙুলের ডগায় বসিয়ে রাখা যায়। তাকে বলা হলো কোথায় ঘর বাঁধবে। তারপর বলা হলো, খাও, আর তোমার রবের সহজ করে দেওয়া পথ ধরে চলো। পাহাড় আর মাঠ পেরিয়ে সে বহু দূর উড়ে যায়, আবার ঠিক নিজের ঘরে ফিরে আসে। তার ভেতর থেকে বের হয় নানা রঙের পানীয়। সাদা, হলুদ, লাল, প্রতিটি রং সে নিয়ে আসে যে ফুলে বসেছিল সেখান থেকে। আর তাতে আছে মানুষের জন্য আরোগ্য। আয়াতটি কিন্তু মধুতে গিয়ে থামে না। থামে চিন্তায়: যারা ভাবে, তাদের জন্য এতে নিদর্শন আছে। আমার খাবারের টেবিলে যে মিষ্টি, তা আমার কাছে পৌঁছার আগে এক মৌমাছির শরীর আর এক উপত্যকা ভরা ফুল পার হয়ে এসেছে। আমি কি শুধু স্বাদ নিয়ে চলে যাই? নাকি সেই স্বাদ আমাকে ফিরিয়ে নিয়ে যায় তাঁর কাছে, যিনি মৌমাছিকে তার পথ চিনিয়েছেন?",
+    "pointsEn": [
+      "The last time I ate honey, did I give a single thought to the journey behind it, or to the One who guided that journey?",
+      "The bee follows the roads made easy for it. Which path that Allah has made easy for me am I making hard for myself?",
+      "Honey takes its colour from where the bee has grazed. Where are my words and habits taking their colour from?",
+      "When a remedy or a sincere effort seems to make things worse at first, do I give up at once, or keep going with trust and good sense?",
+      "Do I look for healing both in what Allah placed in His creation and in the guidance He sent down, or has one crowded out the other in my life?"
+    ],
+    "pointsBn": [
+      "শেষবার মধু খাওয়ার সময় কি একবারও ভেবেছি, এর পেছনে কত লম্বা যাত্রা? আর সেই যাত্রায় যিনি পথ দেখিয়েছেন, তাঁর কথা কি মনে পড়েছে?",
+      "মৌমাছি তার জন্য সহজ করে দেওয়া পথেই চলে। আল্লাহ আমার জন্য যে পথ সহজ করে দিয়েছেন, তার কোনটাকে আমি নিজেই কঠিন বানিয়ে ফেলছি?",
+      "মৌমাছি যেখানে চরে, মধু সেখান থেকেই রং পায়। আমার কথা আর অভ্যাস রং নিচ্ছে কোথা থেকে?",
+      "কোনো চিকিৎসা বা আন্তরিক চেষ্টা শুরুতে যদি অবস্থা আরও খারাপ করে দেয় বলে মনে হয়, আমি কি সঙ্গে সঙ্গে হাল ছেড়ে দিই? নাকি ভরসা আর বিবেচনা নিয়ে লেগে থাকি?",
+      "আল্লাহ তাঁর সৃষ্টিতে যে আরোগ্য রেখেছেন আর যে হেদায়েত নাযিল করেছেন, দুটোর কাছেই কি আমি শিফা খুঁজি? নাকি আমার জীবনে একটা অন্যটাকে সরিয়ে দিয়েছে?"
+    ],
+    "lessonEn": "A tiny bee, guided along easy roads, brings out a healing drink. Let ordinary blessings turn your thought to their Maker, and seek remedies while trusting Him.",
+    "lessonBn": "সহজ পথে চালিত ছোট্ট এক মৌমাছি বের করে আনে আরোগ্যের পানীয়। প্রতিদিনের নিয়ামত যেন আপনার চিন্তাকে তার স্রষ্টার দিকে ফেরায়। চিকিৎসা নিন, আর ভরসা রাখুন তাঁর উপর।"
   }
 };
 

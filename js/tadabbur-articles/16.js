@@ -3579,6 +3579,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:69": {
+    "sections": [
+      {
+        "h": {
+          "en": "Leave to Feed on Blossoms",
+          "bn": "ফুলে ফুলে চরার অনুমতি"
+        },
+        "p": [
+          {
+            "en": "Thumma kuli min kulli al-thamarat: then eat from all the fruits. The verse carries on the command that 16:68 began, where your Lord inspired the bee to take homes in the mountains, in the trees and in what people build. Told first where to live, she is now told how to feed. Ibn Kathir reads it as a leave granted by decree, a leave that subjects her to His design: permission to eat of every fruit and to take the roads Allah made easy for her, wherever she wishes, through the open air, the wide wilds, the valleys and the high mountains.",
+            "bn": "সুম্মা কুলী মিন কুল্লিস সামারাত: তারপর সব রকম ফল থেকে খাও। ১৬:৬৮ আয়াতে যে আদেশ শুরু হয়েছিল, এ আয়াত তারই ধারাবাহিকতা। সেখানে আপনার রব মৌমাছিকে ইলহাম করেছিলেন পাহাড়ে, গাছে আর মানুষের বানানো মাচায় ঘর বানাতে। কোথায় থাকবে, আগে তা বলা হলো। এবার বলা হচ্ছে, কীভাবে খাবে। ইবন কাসীরের ভাষায় এ অনুমতি আল্লাহর নির্ধারণ থেকে আসা, যা মৌমাছিকে তাঁর ব্যবস্থার অধীন করে দেয়। সব ফল থেকে খাওয়ার আর আল্লাহর সহজ করে দেওয়া পথে চলার অনুমতি। সে যেখানে চায় যাবে: বিশাল আকাশে, বিস্তীর্ণ প্রান্তরে, উপত্যকায় আর উঁচু পাহাড়ে।"
+          },
+          {
+            "en": "All the fruits does not mean every fruit that exists. Al-Baghawi says plainly that kull here is not universal, and compares the queen of Saba' in 27:23, who was given of all things. Ma'arif al-Qur'an makes the same comparison: all means what lies within reach and serves the purpose. Al-Qurtubi narrows it further, saying the bee eats only the blossoms of trees, an-nawwar. The Muyassar paraphrases it as every fruit you desire. The command is provision measured to the small creature it addresses.",
+            "bn": "সব ফল মানে দুনিয়ার প্রতিটি ফল নয়। বাগাভী সোজাসুজি বলেন, এখানে কুল্ল শব্দটি সর্বব্যাপী অর্থে নয়। তিনি তুলনা টানেন ২৭:২৩ আয়াতের সাবার রানির সঙ্গে, যাকে সব কিছু থেকে দেওয়া হয়েছিল। মাআরিফুল কুরআনও একই তুলনা দেয়: সব মানে যা হাতের নাগালে আছে আর যা দিয়ে কাজ চলে। কুরতুবী আরও সংকীর্ণ করে বলেন, মৌমাছি খায় কেবল গাছের ফুল, যাকে বলে নাওয়ার। মুয়াসসার অর্থ করে: যে ফল তোমার মন চায়। আদেশটা আসলে ছোট্ট এই প্রাণীর মাপে মাপা রিযক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Roads Brought Low for Her",
+          "bn": "তার জন্য বশ মানা পথ"
+        },
+        "p": [
+          {
+            "en": "Fa-sluki subula rabbiki dhululan: and follow the ways of your Lord, made easy. Dhulul is the plural of dhalul, something tame and easy to handle. The question is what the word describes. Mujahid, in two of at-Tabari's chains from him, says: no place she travels is rough for her. On that reading dhulul describes the roads. Al-Qurtubi adds that the ways are called your Lord's because He created them, and that she enters them to seek her provision in the mountains and among the trees.",
+            "bn": "ফাসলুকী সুবুলা রাব্বিকি যুলুলান: আর তোমার রবের সহজ করে দেওয়া পথে চলো। যুলুল শব্দটি যালূলের বহুবচন। যালূল মানে যা বশ মেনেছে, যাকে সহজে চালানো যায়। প্রশ্ন হলো, শব্দটি কার গুণ বলছে। তাবারী মুজাহিদ থেকে দুটি সনদে আনেন: সে যে জায়গা দিয়েই যায়, কোনোটাই তার জন্য দুর্গম হয় না। এ পাঠে যুলুল হলো পথের গুণ। কুরতুবী যোগ করেন, পথগুলোকে রবের পথ বলা হয়েছে কারণ তিনিই সেগুলো সৃষ্টি করেছেন। পাহাড়ে আর গাছের ফাঁকে রিযক খুঁজতে মৌমাছি সেই পথে ঢোকে।"
+          },
+          {
+            "en": "Qatada read it differently: obedient. Ibn Zayd explained the dhalul as the one that is led and taken wherever its owner wishes, and said that people would set out with their bees to new pastures and the bees would follow them. He recited 36:72, on the cattle Allah made tame for people. On this reading dhulul describes the bees themselves. Al-Baghawi adds, under the words it is said, that keepers move their hives from place to place, and that the bees have a leader, the ya'sub: when it stops they stop, and when it moves they move.",
+            "bn": "কাতাদা অর্থ করেছেন অন্যভাবে: অনুগত। ইবন যায়দের ব্যাখ্যায় যালূল সেই প্রাণী, যাকে মালিক যেখানে চায় সেখানে টেনে নিয়ে যায়। তিনি বলেন, লোকেরা মৌমাছি নিয়ে নতুন চারণভূমির খোঁজে বের হতো, আর মৌমাছিরা তাদের পিছু পিছু যেত। এ প্রসঙ্গে তিনি ৩৬:৭২ আয়াত তিলাওয়াত করেন, যেখানে আল্লাহ গবাদি পশুকে মানুষের বশ করে দেওয়ার কথা বলেছেন। এ পাঠে যুলুল মৌমাছিরই গুণ। বাগাভী 'বলা হয়' কথাটি দিয়ে যোগ করেন, মালিকেরা মৌচাক এক জায়গা থেকে আরেক জায়গায় সরিয়ে নেয়। মৌমাছিদের একজন নেতা আছে, নাম ইয়াসূব। সে থামলে সবাই থামে, সে চললে সবাই চলে।"
+          },
+          {
+            "en": "At-Tabari judges both readings sound, then chooses the roads, because the word stands nearer to them in the sentence. Ibn Kathir calls the first reading the more apparent and names Mujahid for it. He then shows what the easy roads make possible: each bee returns to her own place and home, swerving neither right nor left, back to her young and her honey, and goes out again in the morning to her pastures. The Muyassar says she never loses her way back, however far she goes.",
+            "bn": "তাবারী দুটি পাঠকেই সঠিক বলে মানেন। তারপর বেছে নেন পথের অর্থ, কারণ বাক্যে শব্দটি পথেরই বেশি কাছে বসেছে। ইবন কাসীর প্রথম পাঠকে বেশি স্পষ্ট বলেন, আর এর পক্ষে মুজাহিদের নাম নেন। তারপর তিনি দেখান, সহজ পথ কী সম্ভব করে তোলে। প্রতিটি মৌমাছি নিজের জায়গায়, নিজের ঘরে ফিরে আসে। ডানে-বাঁয়ে একটুও সরে না, সোজা ফেরে তার বাচ্চা আর মধুর কাছে। সকাল হলে আবার বেরিয়ে পড়ে চারণভূমির দিকে। মুয়াসসার সংক্ষেপে একই কথা বলে: যত দূরেই যাক, ফেরার পথ সে হারায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Drink From Within Her",
+          "bn": "তার ভেতর থেকে পানীয়"
+        },
+        "p": [
+          {
+            "en": "Yakhruju min butuniha sharabun: from their bellies comes a drink. At-Tabari, al-Baghawi and the Muyassar all name it honey, and Ma'arif al-Qur'an explains why it is called a drink: honey comes as a liquid. Al-Qurtubi notices that the address turns here. Until now the bee was spoken to, eat and follow; now the verse speaks about her, counting a blessing and pointing to a lesson for the people meant to learn from her.",
+            "bn": "ইয়াখরুজু মিন বুতূনিহা শারাবুন: তাদের পেট থেকে বের হয় এক পানীয়। তাবারী, বাগাভী আর মুয়াসসার তিনজনই বলেন, এ পানীয় হলো মধু। মাআরিফুল কুরআন কারণ দেখায়, মধুকে পানীয় বলা হয়েছে কারণ তা তরল। কুরতুবী লক্ষ করেন, এখানে কথার মুখ ঘুরে গেছে। এতক্ষণ মৌমাছিকে সরাসরি বলা হচ্ছিল, খাও, চলো। এবার আয়াত তার সম্পর্কে খবর দিচ্ছে, একটার পর একটা নিয়ামত গুনে দিচ্ছে আর শিক্ষার দিকে ইশারা করছে। কথা এবার মৌমাছি থেকে সরে আসে সেই মানুষদের দিকে, যাদের তার কাছ থেকে শেখার কথা।"
+          },
+          {
+            "en": "How the honey leaves the bee was discussed. Al-Qurtubi reports that most people held it comes from her mouth, while a saying of Ali ibn Abi Talib (RA), belittling this world, calls the finest drink of the son of Adam the excrement of a bee, which on its face points elsewhere. Al-Qurtubi's own summary is restraint: it comes out, and it is not known whether from her mouth or from below. He explains from their bellies by saying that food is transformed only in the belly. Ibn Kathir, for his part, says she brings the honey up from her mouth.",
+            "bn": "মধু ঠিক কোন পথে মৌমাছির শরীর থেকে বের হয়, তা নিয়ে আলোচনা হয়েছে। কুরতুবী জানান, বেশির ভাগ মানুষের মত ছিল, মধু আসে তার মুখ থেকে। অথচ দুনিয়াকে তুচ্ছ দেখাতে গিয়ে আলী ইবন আবী তালিব (রাঃ) বলেছিলেন, আদম সন্তানের সবচেয়ে দামি পানীয় হলো মৌমাছির বর্জ্য। কথাটার বাহ্যিক অর্থ অন্য দিকে ইঙ্গিত করে। কুরতুবী নিজে সংযত থেকে সারকথা বলেন: মধু বের হয়, তবে মুখ দিয়ে না নিচ দিয়ে, তা জানা নেই। তাদের পেট থেকে, এ কথার ব্যাখ্যায় তিনি বলেন, খাবারের রূপান্তর পেটেই ঘটে। ইবন কাসীর অবশ্য বলেন, মৌমাছি মুখ দিয়েই মধু উগরে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Mother, Many Shades",
+          "bn": "এক মা, নানা রং"
+        },
+        "p": [
+          {
+            "en": "Mukhtalifun alwanuhu: varying in its colours. At-Tabari lists white, red and ashar, which he explains as white tinged with red. Al-Baghawi and Ibn Kathir give white, yellow and red, and Ibn Kathir adds other fine colours besides. Al-Qurtubi widens the variety beyond colour, to honey that sets and honey that runs. Then he draws the inference: the mother is one and the offspring differ, a sign that divine power varied the honey according to the variety of what was eaten, just as its taste differs with the pasture.",
+            "bn": "মুখতালিফুন আলওয়ানুহু: যার রং নানা রকম। তাবারী গুনে দেন সাদা, লাল আর আসহার। আসহারের ব্যাখ্যা তিনি দেন লালচে আভার সাদা। বাগাভী আর ইবন কাসীর বলেন সাদা, হলুদ আর লাল। ইবন কাসীর এর সঙ্গে আরও নানা সুন্দর রঙের কথা যোগ করেন। কুরতুবী বৈচিত্র্যকে রঙের বাইরেও নিয়ে যান: জমাট মধু আর তরল মধু। তারপর সিদ্ধান্ত টানেন: মা একজন, অথচ সন্তানেরা ভিন্ন ভিন্ন। এ প্রমাণ করে, খাবারের ভিন্নতা অনুযায়ী আল্লাহর কুদরত মধুকে নানা রূপ দিয়েছে। চারণভূমি বদলালে যেমন তার স্বাদও বদলে যায়।"
+          },
+          {
+            "en": "Several sources name the cause. Ibn Kathir ties the colours to the bees' differing pastures and food, and as-Sa'di to their differing land and grazing. Ma'arif al-Qur'an sets this beside the milk of 16:66: milk from cattle does not turn red or yellow with climate and fodder, while honey does take on different colours. Two drinks are named in the same passage, one from between waste and blood, one from a small winged creature, and each shows the same Giver at work in a different way.",
+            "bn": "কারণটা কয়েকটি উৎসেই আছে। ইবন কাসীর রঙের ভিন্নতাকে জুড়ে দেন মৌমাছির চারণভূমি আর খাবারের ভিন্নতার সঙ্গে। সা'দী জুড়ে দেন তাদের মাটি আর চরার জায়গার ভিন্নতার সঙ্গে। মাআরিফুল কুরআন এর পাশে রাখে ১৬:৬৬ আয়াতের দুধকে। আবহাওয়া আর খাবার বদলালেও গবাদি পশুর দুধ লাল বা হলুদ হয় না, অথচ মধু ঠিকই নানা রং ধরে। একই আলোচনায় দুই পানীয়ের কথা এসেছে। একটি গোবর আর রক্তের মাঝখান থেকে, অন্যটি ছোট্ট এক ডানাওয়ালা প্রাণী থেকে। দুটোতেই একই দাতার কাজ, ভিন্ন ভিন্ন ধারায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "In It: Honey or Qur'an?",
+          "bn": "ফীহি: মধু, না কুরআন?"
+        },
+        "p": [
+          {
+            "en": "Fihi shifa'un li-n-nas: in it is healing for people. In what? At-Tabari reports that the people of interpretation differed over what the pronoun refers to. Mujahid, in a chain through Layth, said: in the Qur'an is healing. Qatada said the honey, and at-Tabari relays the same from Ibn Abbas (RA) by another chain. At-Tabari then takes Qatada's view as the more fitting, because fihi stands inside a report about honey, and a pronoun is best returned to what the sentence is talking about.",
+            "bn": "ফীহি শিফাউন লিন্নাস: তাতে মানুষের জন্য আরোগ্য আছে। কিসে? তাবারী জানান, তাফসীরকারেরা এই সর্বনাম কার দিকে ফিরেছে তা নিয়ে মতভেদ করেছেন। লাইসের সূত্রে মুজাহিদ বলেছেন: কুরআনে আরোগ্য আছে। কাতাদা বলেছেন মধুর কথা। ভিন্ন এক সনদে তাবারী ইবন আব্বাস (রাঃ) থেকেও একই কথা আনেন: মধু। তারপর তাবারী কাতাদার মতকে বেশি উপযুক্ত বলে গ্রহণ করেন। কারণ ফীহি শব্দটি বসেছে মধুর আলোচনার ভেতরে। বাক্য যার কথা বলছে, সর্বনামকে তার দিকে ফেরানোই উত্তম।"
+          },
+          {
+            "en": "The other commentators divide the same way, with differences in who is named. Al-Qurtubi says the majority refer it to honey, then reports the Qur'an reading from Ibn Abbas, al-Hasan, Mujahid, ad-Dahhak, al-Farra' and Ibn Kaysan. So in the texts fetched for this verse, Ibn Abbas is cited on both sides. An-Nahhas, quoted by al-Qurtubi, calls the Qur'an reading good, or takes it to mean the signs and proofs just told. Qadi Abu Bakr ibn al-'Arabi calls it far-fetched, doubts it is sound from those named, and says the whole passage is about honey.",
+            "bn": "অন্য তাফসীরকারেরাও এভাবেই দুই ভাগ, শুধু নামের তালিকায় তফাত। কুরতুবী বলেন, অধিকাংশের মতে সর্বনাম মধুর দিকে। তারপর তিনি কুরআনের মতটি বর্ণনা করেন ইবন আব্বাস, হাসান, মুজাহিদ, যাহহাক, ফাররা আর ইবন কাইসান থেকে। ফলে এ আয়াতের জন্য সংগৃহীত লেখাগুলোতে ইবন আব্বাস (রাঃ)-এর নাম দুই দিকেই পাওয়া যায়। কুরতুবীর উদ্ধৃতিতে নাহহাস কুরআনের মতকে ভালো বলেন, অথবা অর্থ করেন সদ্য বর্ণিত নিদর্শন আর প্রমাণগুলো। কাযী আবু বকর ইবনুল আরাবী একে দূরবর্তী বলেন। যাঁদের নামে বলা হয়, তাঁদের থেকে এটা সঠিকভাবে এসেছে কি না, তাতে তাঁর সন্দেহ। তাঁর মতে পুরো আলোচনাই মধু নিয়ে।"
+          },
+          {
+            "en": "Ibn Kathir takes a middle line on Mujahid: the statement is sound in itself, but it is not the plain sense here, since the verse mentions only honey, and Mujahid was not followed in it. The Qur'an calls itself healing elsewhere, he notes, in 17:82 and 10:57. Abdullah ibn Mas'ud (RA), in at-Tabari and al-Baghawi, holds the two together: two cures, honey a cure for every illness and the Qur'an a cure for what is in the breasts. Ibn Kathir notes that Ibn Majah carries a version raised to the Prophet ﷺ, and himself judges the saying more likely to be Ibn Mas'ud's own.",
+            "bn": "মুজাহিদের মত নিয়ে ইবন কাসীর মাঝামাঝি পথে চলেন। কথাটা নিজে সঠিক, কিন্তু এখানে আয়াতের বাহ্যিক অর্থ তা নয়। আয়াতে শুধু মধুর কথাই আছে, আর এ ব্যাপারে কেউ মুজাহিদকে অনুসরণ করেননি। কুরআন নিজেকে আরোগ্য বলেছে অন্য জায়গায়, তিনি দেখান ১৭:৮২ আর ১০:৫৭ আয়াত। তাবারী আর বাগাভী আবদুল্লাহ ইবন মাসউদ (রাঃ)-এর কথা আনেন, যেখানে দুটোই একসঙ্গে আছে: আরোগ্য দুটি। মধু সব রোগের আরোগ্য, আর কুরআন অন্তরের ব্যাধির আরোগ্য। ইবন কাসীর জানান, ইবন মাজাহ এর একটি রূপ নবী ﷺ-এর বাণী হিসেবে এনেছেন। তবে তাঁর নিজের বিচারে কথাটি ইবন মাসউদ (রাঃ)-এর নিজের হওয়ার সম্ভাবনাই বেশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Healing, Not Every Healing",
+          "bn": "আরোগ্য, তবে সব রোগের নয়"
+        },
+        "p": [
+          {
+            "en": "Does the verse promise healing from every illness? Al-Qurtubi records that the scholars differed. Some took it as general, in every case and for every person. It is reported that Ibn Umar (RA) put honey on any sore or complaint he had, even a boil. Al-Qurtubi calls such people folk of sincerity and resolve, who were healed through the blessing of the Qur'an and true conviction. Others read it as particular: honey heals as other remedies heal, in some cases and conditions, and the verse tells that much healing has come through it.",
+            "bn": "আয়াত কি সব রোগ থেকে আরোগ্যের ওয়াদা দিচ্ছে? কুরতুবী জানান, আলেমরা এতে মতভেদ করেছেন। একদল একে সর্বব্যাপী ধরেছেন, প্রতিটি অবস্থায়, প্রতিটি মানুষের জন্য। বর্ণিত আছে, ইবন উমর (রাঃ)-এর কোনো ঘা বা কষ্ট হলেই তিনি তাতে মধু লাগাতেন, এমনকি ফোঁড়া উঠলেও। কুরতুবী এঁদের বলেন সত্যনিষ্ঠ আর দৃঢ় সংকল্পের মানুষ। কুরআনের বরকত আর খাঁটি বিশ্বাসের জোরে তাঁরা আরোগ্য পেতেন। আরেক দল একে নির্দিষ্ট অর্থে পড়েছেন। অন্য ওষুধ যেভাবে সারায়, মধুও সেভাবে সারায়, কোনো কোনো ক্ষেত্রে, কোনো কোনো অবস্থায়। আয়াত জানাচ্ছে, এর মাধ্যমে বহু আরোগ্য এসেছে।"
+          },
+          {
+            "en": "Al-Qurtubi's evidence for the second view is in the grammar: shifa' is indefinite in an affirming sentence, and such a word carries no generality, by agreement of the masters of the language. Ma'arif al-Qur'an adds that its tanwin conveys greatness, a healing of a great and distinct kind. To the objection that honey helps some and harms others, al-Qurtubi gives az-Zajjaj's answer: water is the life of everything, yet it kills a person who takes it against an illness it opposes. This article makes no medical claim of its own; the commentators explain the healing in the terms of their age.",
+            "bn": "দ্বিতীয় মতের পক্ষে কুরতুবীর দলিল ব্যাকরণে। ইতিবাচক বাক্যে শিফা শব্দটি অনির্দিষ্ট রূপে এসেছে, আর ভাষাবিদদের সর্বসম্মত মতে এমন শব্দে সর্বব্যাপী অর্থ থাকে না। মাআরিফুল কুরআন যোগ করে, শব্দের তানবীন মহত্ত্ব বোঝায়, অর্থাৎ এ আরোগ্য বড় মাপের, বিশেষ ধরনের। কেউ আপত্তি তোলে, মধুতে কারও উপকার হয়, কারও ক্ষতি। কুরতুবী এর জবাবে আনেন যাজ্জাজের কথা: পানি সব কিছুর জীবন, তবু যে রোগের সঙ্গে পানি খাপ খায় না, সে রোগে পানি খেয়ে মানুষ মারা যায়। এ লেখা নিজের পক্ষ থেকে কোনো চিকিৎসা-দাবি করছে না। তাফসীরকারেরা আরোগ্যের ব্যাখ্যা দিয়েছেন তাঁদের যুগের ভাষায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Stomach That Lied",
+          "bn": "পেটটাই মিথ্যা বলেছিল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir names a hadith as the proof that the honey is meant. Al-Bukhari (5684) narrates from Abu Sa'id al-Khudri (RA) that a man came to the Prophet ﷺ and said: My brother has a complaint in his stomach. He said: Give him honey to drink. Then he came a second time, and he said: Give him honey to drink. Then he came to him and said: I have done so. He said: Allah has spoken the truth, and your brother's stomach has lied. Give him honey to drink. So he gave it to him, and he recovered.",
+            "bn": "মধুই যে উদ্দেশ্য, তার প্রমাণ হিসেবে ইবন কাসীর একটি হাদীস আনেন। বুখারী (৫৬৮৪) আবু সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন: এক লোক নবী ﷺ-এর কাছে এসে বলল, আমার ভাইয়ের পেটে অসুখ। তিনি বললেন, তাকে মধু পান করাও। লোকটি দ্বিতীয়বার এল। তিনি বললেন, তাকে মধু পান করাও। তারপর সে আবার এসে বলল, আমি তা-ই করেছি। তিনি বললেন, আল্লাহ সত্য বলেছেন, আর তোমার ভাইয়ের পেট মিথ্যা বলেছে। তাকে মধু পান করাও। সে তাকে পান করাল, আর সে সেরে উঠল।"
+          },
+          {
+            "en": "Other routes add detail: al-Bukhari's report at 5716 names the complaint as loose bowels and has the man say the honey only made them worse. Muslim (2217), whose chain al-Baghawi quotes in full under this verse, has him return a fourth time. At-Tabari has it from Qatada, without the Companion. Al-Qurtubi says that with this command the Prophet ﷺ settled the difficulty and removed any doubt. The words Allah has spoken the truth set the promise of fihi shifa'un li-n-nas against a body that seemed, for a while, to deny it.",
+            "bn": "অন্য সূত্রগুলোতে আরও খুঁটিনাটি আছে। বুখারীর ৫৭১৬ নম্বর বর্ণনায় অসুখটা পেট ছেড়ে দেওয়া বলে উল্লেখ আছে, আর লোকটি বলে, মধুতে তা আরও বেড়েছে। মুসলিমের (২২১৭) বর্ণনায় সে চতুর্থবার ফিরে আসে। বাগাভী এ আয়াতের নিচে মুসলিমের পুরো সনদ উদ্ধৃত করেছেন। তাবারী ঘটনাটি আনেন কাতাদা থেকে, সাহাবির নাম ছাড়া। কুরতুবী বলেন, এ আদেশ দিয়ে নবী ﷺ সমস্যার মীমাংসা করে দিয়েছেন, সংশয়ের পথ বন্ধ করেছেন। আল্লাহ সত্য বলেছেন, এ কথা ফীহি শিফাউন লিন্নাস-এর ওয়াদাকে দাঁড় করায় এমন এক শরীরের সামনে, যা কিছু সময় ধরে সেই ওয়াদা মানতে চাইছিল না।"
+          },
+          {
+            "en": "Why did the honey seem to fail at first? Ibn Kathir relays from some scholars of medicine that the man carried harmful residues; honey loosened them so they left faster, his brother took this for harm when it was help, and once they were cleared his stomach held. Al-Qurtubi gives al-Maziri's like account, that diarrhoea from surfeit is to be helped out, not held in. Ma'arif al-Qur'an says the remedy was sound and the patient's state delayed its effect. These are their explanations, in the medicine of their time; the lasting point is trust held through a slow road.",
+            "bn": "শুরুতে মধু কেন কাজ করছে না বলে মনে হলো? ইবন কাসীর কয়েকজন চিকিৎসাবিদ আলেমের ব্যাখ্যা আনেন। লোকটির পেটে ক্ষতিকর বর্জ্য জমে ছিল। মধু তা আলগা করে দ্রুত বের করে দিচ্ছিল। ভাই ভেবেছিল এতে ক্ষতি হচ্ছে, অথচ তা ছিল উপকার। বর্জ্য বেরিয়ে যেতেই পেট শান্ত হলো। কুরতুবী মাযিরীর প্রায় একই ব্যাখ্যা আনেন: অতিভোজন থেকে যে পেট খারাপ, তা বের হতে সাহায্য করতে হয়, আটকাতে নেই। মাআরিফুল কুরআন বলে, ওষুধে কোনো দোষ ছিল না, রোগীর অবস্থার কারণে ফল আসতে দেরি হয়েছে। এসব তাঁদের যুগের চিকিৎসার ব্যাখ্যা। স্থায়ী শিক্ষা হলো, ধীর পথেও ভরসা ধরে রাখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "After Hearing and Reason, Thought",
+          "bn": "শোনা ও বোঝার পর চিন্তা"
+        },
+        "p": [
+          {
+            "en": "Inna fi dhalika la-ayatan li-qawmin yatafakkarun: in that is a sign for people who give thought. The words complete a run. The rain of 16:65 is a sign for people who listen, the fruit of 16:67 a sign for people who reason, and the bee here a sign for people who reflect. At-Tabari states where the thought should arrive: the varied drink is clear proof of the One who subjected the bee and guided her to food and homes, that He is One, like whom there is nothing, with no partner, and that divinity belongs to Him alone.",
+            "bn": "ইন্না ফী যালিকা লাআয়াতাল লিকাওমিই ইয়াতাফাক্কারূন: যারা চিন্তা করে, তাদের জন্য এতে নিদর্শন আছে। এ শব্দগুলো একটা ধারা পূর্ণ করে। ১৬:৬৫ আয়াতের বৃষ্টি নিদর্শন তাদের জন্য, যারা শোনে। ১৬:৬৭ আয়াতের ফল নিদর্শন তাদের জন্য, যারা বোঝে। আর এখানে মৌমাছি নিদর্শন তাদের জন্য, যারা ভাবে। চিন্তা কোথায় গিয়ে পৌঁছাবে, তাবারী তা বলে দেন। নানা রঙের এই পানীয় স্পষ্ট প্রমাণ সেই সত্তার, যিনি মৌমাছিকে বশ করেছেন, তাকে খাবার আর ঘরের পথ দেখিয়েছেন। প্রমাণ যে তিনি এক, তাঁর মতো কিছুই নেই, তাঁর কোনো শরিক নেই, আর ইলাহ হওয়া কেবল তাঁরই সাজে।"
+          },
+          {
+            "en": "Ibn Kathir dwells on the weakness of the creature, inspired to cross the wastes and gather from every fruit; as-Sa'di sees in her the fullness of Allah's care, and concludes that none besides Him should be loved and called upon. The reflection the verse asks for can begin at the table. A jar of honey holds roads made easy, blossoms visited, a small body that turned what it gathered into a drink of many colours. To taste it and think of nothing misses the sign. To taste it and thank Allah, who gave both honey and Qur'an, is to answer the verse's last word.",
+            "bn": "ইবন কাসীর থামেন প্রাণীটির দুর্বলতায়। এত দুর্বল প্রাণী, অথচ তাকে ইলহাম করা হয়েছে মরুপ্রান্তর পেরোতে আর সব ফল থেকে সংগ্রহ করতে। সা'দী এতে দেখেন বান্দার প্রতি আল্লাহর পূর্ণ যত্ন। তাঁর সিদ্ধান্ত: তিনি ছাড়া আর কাউকে ভালোবাসা আর ডাকা উচিত নয়। আয়াত যে চিন্তা চায়, তা খাবারের টেবিল থেকেই শুরু হতে পারে। এক বয়াম মধুর ভেতরে আছে সহজ করে দেওয়া পথ, কত ফুলে বসা, আর এক ছোট্ট শরীর, যা সংগ্রহ করা জিনিসকে বানিয়েছে নানা রঙের পানীয়। স্বাদ নিয়ে কিছু না ভাবলে নিদর্শনটা হাতছাড়া হয়। স্বাদ নিয়ে মধু আর কুরআন দুটোই যিনি দিয়েছেন তাঁর শুকরিয়া আদায় করলে আয়াতের শেষ কথার জবাব দেওয়া হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "16:72": {
     "sections": [
       {
