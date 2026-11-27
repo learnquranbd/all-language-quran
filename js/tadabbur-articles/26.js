@@ -2883,6 +2883,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:60": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Chase Told in Two Words",
+          "bn": "দুই শব্দে এক ধাওয়া"
+        },
+        "p": [
+          {
+            "en": "Fa-atba'uhum mushriqin: so they pursued them at sunrise. In Arabic it is two words, a verb that carries its subject and its object inside it, and a single word of time or of direction. The commentators name the two sides at once. At-Tabari writes that Pharaoh and his companions followed the Children of Israel; al-Qurtubi has Pharaoh and his people following them; as-Sa'di puts it as Pharaoh's people going after the people of Musa (AS). The opening fa, so, picks the story straight back up.",
+            "bn": "ফাআতবাঊহুম মুশরিকীন: তারা সূর্যোদয়ের সময় তাদের পিছু নিল। আরবিতে মাত্র দুটি শব্দ। প্রথমটি একটি ক্রিয়া, যার ভেতরেই কর্তা আর কর্ম দুটোই বসানো। দ্বিতীয়টি একটিমাত্র শব্দ, যা সময়ও বোঝাতে পারে, দিকও। তাফসীরকারেরা শুরুতেই দুই পক্ষের নাম বলে দেন। তাবারী লেখেন, ফেরাউন ও তার সঙ্গীরা বনী ইসরাঈলের পিছু নিল। কুরতুবীর ভাষায়, ফেরাউন আর তার কওম তাদের অনুসরণ করল। সা'দী বলেন, ফেরাউনের লোকেরা মূসা (আঃ)-এর লোকদের পেছনে ছুটল। শুরুর ফা অক্ষরটি কাহিনিকে ঠিক যেখানে থেমেছিল, সেখান থেকে আবার তুলে আনে।"
+          },
+          {
+            "en": "Where the verse stands is worth a pause. The verse before it, 26:59, has already said that Allah made the Children of Israel inherit those gardens and treasures. Al-Qurtubi spells out the sense of the sequence: We decreed that the Children of Israel would inherit it, so Pharaoh's people followed them and perished, and the Children of Israel inherited their land. On his reading the inheritance is announced as a decree before the chase is even told, so the reader watches the army ride out already knowing where it will end.",
+            "bn": "আয়াতটি কোথায় বসেছে, সেটা একটু থেমে দেখার মতো। ঠিক আগের আয়াত, ২৬:৫৯, আগেই জানিয়ে দিয়েছে যে আল্লাহ বনী ইসরাঈলকে ওই বাগান আর ধনভান্ডারের উত্তরাধিকারী করেছেন। কুরতুবী এই ক্রমের অর্থ খুলে বলেন: আমি নির্ধারণ করে রেখেছিলাম যে বনী ইসরাঈল এর উত্তরাধিকারী হবে, তাই ফেরাউনের লোকেরা তাদের পিছু নিল, ধ্বংস হলো, আর বনী ইসরাঈল তাদের দেশের উত্তরাধিকারী হলো। তাঁর এই পাঠে ধাওয়ার কথা বলার আগেই উত্তরাধিকার ঘোষিত হয়েছে আল্লাহর ফয়সালা হিসেবে। তাই বাহিনী যখন রওনা দেয়, পাঠক আগেই জানেন এ যাত্রা কোথায় গিয়ে থামবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Following, or Catching Up",
+          "bn": "পিছু নেওয়া, নাকি ধরে ফেলা"
+        },
+        "p": [
+          {
+            "en": "The verb atba'a is glossed in two slightly different ways, and the difference changes the picture. At-Tabari explains it as following: Pharaoh and his companions followed the Children of Israel, at the time the sun rose. Al-Qurtubi uses the same plain verb of following. As-Sa'di keeps the sense of pursuit and adds its motion: they followed the people of Musa (AS) at the time of sunrise and drove on behind them in haste. On these glosses, sunrise is when the march behind them was under way.",
+            "bn": "আতবাআ ক্রিয়াটির ব্যাখ্যা এসেছে দুই রকমভাবে, আর তাতে দৃশ্যটাই বদলে যায়। তাবারী একে বুঝেছেন পিছু নেওয়া অর্থে: সূর্য ওঠার সময় ফেরাউন ও তার সঙ্গীরা বনী ইসরাঈলের পিছু নিল। কুরতুবীও অনুসরণের সাধারণ ক্রিয়াটিই ব্যবহার করেছেন। সা'দী ধাওয়ার অর্থটা রেখে তার গতিও যোগ করেন: সূর্যোদয়ের সময় তারা মূসা (আঃ)-এর লোকদের পিছু নিল, আর তাড়াহুড়ো করে তাদের পেছনে ছুটে চলল। এই ব্যাখ্যাগুলো অনুযায়ী সূর্যোদয় হলো সেই সময়, যখন পেছন থেকে ধাওয়া চলছিল।"
+          },
+          {
+            "en": "Three others gloss the same word with verbs of arrival. Ibn Kathir writes that they reached them, wasalu ilayhim, at the shuruq of the sun. Al-Baghawi says they caught up with them, lahiquhum, at the time the sun was shining, and repeats it with a stronger verb: Pharaoh's people overtook Musa (AS) and his companions at sunrise. Al-Muyassar says the same in one line: Pharaoh and his soldiers caught up with Musa and those with him at sunrise. On these glosses, sunrise is when the gap closed.",
+            "bn": "আরও তিনজন একই শব্দের ব্যাখ্যা করেছেন পৌঁছে যাওয়ার ক্রিয়া দিয়ে। ইবন কাসীর লেখেন, সূর্য ওঠার সময় তারা তাদের কাছে পৌঁছে গেল। বাগাভী বলেন, সূর্য যখন আলো ছড়াচ্ছিল, তখন তারা তাদের নাগাল পেল। তারপর আরও জোরালো ক্রিয়ায় কথাটা আবার বলেন: সূর্যোদয়ের সময় ফেরাউনের লোকেরা মূসা (আঃ) ও তাঁর সঙ্গীদের ধরে ফেলল। মুয়াসসার এক বাক্যেই একই কথা বলে: সূর্য ওঠার সময় ফেরাউন ও তার সৈন্যরা মূসা ও তাঁর সঙ্গীদের নাগাল পেয়ে গেল। এই ব্যাখ্যাগুলো অনুযায়ী সূর্যোদয় হলো সেই মুহূর্ত, যখন দুই দলের মাঝের দূরত্ব ফুরিয়ে গেল।"
+          },
+          {
+            "en": "The two readings are not set against each other in the texts, and they are held side by side here. One lets the verse open on a march; the other lets it close on a meeting. The next verse, 26:61, has the two hosts see each other, and the English abridgement of Ibn Kathir runs the two together: they caught up with the Children of Israel at sunrise, and then each group saw the other. Whichever gloss one follows, the verse ends at the moment the pursuers are gaining.",
+            "bn": "তাফসীরগুলোতে এই দুই পাঠকে পরস্পরের বিরুদ্ধে দাঁড় করানো হয়নি, এখানেও দুটোকে পাশাপাশি রাখা হলো। একটি পাঠে আয়াত শুরু হয় যাত্রা দিয়ে, অন্যটিতে শেষ হয় মুখোমুখি হওয়ায়। পরের আয়াত, ২৬:৬১, বলে দুই দল একে অপরকে দেখতে পেল। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ দুটি আয়াতকে এক সূত্রে গেঁথেছে: সূর্যোদয়ের সময় তারা বনী ইসরাঈলের নাগাল পেল, আর তখন প্রত্যেক দল অন্য দলকে দেখল। যে ব্যাখ্যাই ধরা হোক, আয়াতটি থামে ঠিক সেই মুহূর্তে, যখন ধাওয়াকারীরা কাছে এগিয়ে আসছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rays, or a Lit Earth",
+          "bn": "সূর্যের রশ্মি, নাকি আলোকিত মাটি"
+        },
+        "p": [
+          {
+            "en": "Most of the commentators read for this verse take mushriqin as a word of time, from the same root as shuruq, sunrise. At-Tabari: when the sun had risen. Ibn Kathir: at the shuruq of the sun, which he defines as its tulu', its coming up. Al-Muyassar and as-Sa'di: at the time of sunrise. At-Tabari also records, under the words it was said, a looser sense: when they had come into the morning. The army, on each of these, was on the road by the first full light.",
+            "bn": "এই আয়াতের জন্য পড়া তাফসীরকারদের বেশিরভাগ মুশরিকীন শব্দকে সময়ের অর্থে নিয়েছেন। শব্দটি এসেছে শুরূক, মানে সূর্যোদয়, যে ধাতু থেকে, সেখান থেকেই। তাবারী বলেন, যখন সূর্য উঠে গিয়েছিল। ইবন কাসীর বলেন, সূর্যের শুরূকের সময়, আর শুরূকের সংজ্ঞা দেন তুলূ, অর্থাৎ সূর্যের উদিত হওয়া। মুয়াসসার আর সা'দীর ভাষায়, সূর্যোদয়ের সময়। তাবারী 'বলা হয়েছে' কথাটি জুড়ে আরেকটু ঢিলেঢালা অর্থও উল্লেখ করেন: যখন তারা সকালে পৌঁছাল। এর যেকোনো ব্যাখ্যায় দিনের প্রথম পূর্ণ আলোয় বাহিনী পথে নেমে পড়েছিল।"
+          },
+          {
+            "en": "Al-Qurtubi gives two of the Successors, each with a slightly different picture. As-Suddi: when the sun rose with its rays. Qatada: when the earth shone with light. One looks up at the sun as it comes over the horizon; the other looks down at the ground it has lit. Both describe the same hour from two sides, and both make the point the verse rests on: the cover of night that had hidden the departure was gone, and nothing on that road could now be hidden from the other side.",
+            "bn": "কুরতুবী দুজন তাবিঈর কথা আনেন, দুজনের ছবি সামান্য আলাদা। সুদ্দী বলেন, যখন সূর্য তার রশ্মি নিয়ে উঠল। কাতাদা বলেন, যখন মাটি আলোয় উদ্ভাসিত হলো। একজন তাকান উপরে, দিগন্তে ওঠা সূর্যের দিকে। অন্যজন তাকান নিচে, সূর্যের আলোয় জ্বলে ওঠা মাটির দিকে। দুজনেই একই সময়কে দুই দিক থেকে দেখছেন। আর দুজনের কথাতেই সেই বিষয়টা ধরা পড়ে, যার উপর আয়াতটি দাঁড়িয়ে আছে: যে রাতের অন্ধকার বেরিয়ে পড়াটাকে আড়াল করেছিল, তা এখন নেই। ওই পথে এখন কোনো কিছুই আর অপর পক্ষের চোখ এড়াবে না।"
+          },
+          {
+            "en": "Al-Qurtubi also brings in the grammarian az-Zajjaj, who separates two verbs: sharaqat ash-shams is said when the sun rises, and ashraqat when it gives light. Al-Baghawi's gloss sits close to this, for he defines the ishraq of the sun as its shining. Ibn Kathir, as seen above, defines the shuruq as its rising. The gap between them may be a matter of minutes, but it shows how closely the word was weighed, and each of these still places the pursuit in the early morning.",
+            "bn": "কুরতুবী ব্যাকরণবিদ যাজ্জাজের কথাও আনেন, যিনি দুটি ক্রিয়াকে আলাদা করেছেন। সূর্য যখন ওঠে, তখন বলা হয় শারাকাত। আর যখন আলো ছড়ায়, তখন বলা হয় আশরাকাত। বাগাভীর ব্যাখ্যা এর কাছাকাছি, কারণ তিনি সূর্যের ইশরাককে বলেছেন তার আলো ছড়ানো। অন্যদিকে ইবন কাসীর, আগেই যেমন দেখা গেল, শুরূককে বলেছেন সূর্যের উদিত হওয়া। দুইয়ের তফাত হয়তো কয়েক মিনিটের। তবু এতে বোঝা যায় শব্দটিকে কত যত্ন নিয়ে ওজন করা হয়েছে। আর সবাই ধাওয়াটিকে রেখেছেন ভোরবেলাতেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Or a Bearing Towards the East",
+          "bn": "নাকি পূর্বমুখী যাত্রা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi then records a different meaning altogether. Abu 'Ubayda took fa-atba'uhum mushriqin to mean towards the east, in the direction of the sunrise. Al-Qurtubi adds a variant reading: al-Hasan and 'Amr ibn Maymun read it fattaba'uhum, with the doubled consonant and the connecting alif, and on that reading too the sense is towards the east. He traces it to the Arabic idiom sharraqa wa gharraba, said of someone who travels towards the east or towards the west. Here mushriqin is a compass bearing, not a clock time.",
+            "bn": "এরপর কুরতুবী একেবারে ভিন্ন একটি অর্থ উল্লেখ করেন। আবু উবায়দা ফাআতবাঊহুম মুশরিকীন-এর অর্থ নিয়েছেন পূর্বদিকে, যেদিক থেকে সূর্য ওঠে সেদিকে। কুরতুবী একটি ভিন্ন কিরাআতও জানান। হাসান আর আমর ইবন মাইমূন পড়েছেন ফাত্তাবাঊহুম, তাশদীদ আর হামযাতুল ওয়াসলসহ। সেই কিরাআতেও অর্থ দাঁড়ায় পূর্বমুখে। তিনি এর মূল খুঁজে পান আরবদের একটি কথায়: শাররাকা ওয়া গাররাবা। কেউ পূর্ব বা পশ্চিমের দিকে সফর করলে এ কথা বলা হয়। এই অর্থে মুশরিকীন ঘড়ির সময় নয়, কম্পাসের দিক।"
+          },
+          {
+            "en": "So two pictures are held inside the one word, and al-Qurtubi gives both without choosing between them. On the first, the army rides out as the sun comes up; on the second, it rides out towards where the sun comes up. The other commentators fetched for this verse take the sense of time only. The disagreement is kept here as it stands, with both sides named. None of the texts read for the verse names a route, a road or a landing place, and none is supplied here.",
+            "bn": "অর্থাৎ একটি শব্দের ভেতরে দুটি ছবি, আর কুরতুবী দুটোই উল্লেখ করেছেন, কোনোটিকে বেছে নেননি। প্রথম ছবিতে সূর্য ওঠার সময় বাহিনী বেরিয়ে পড়ে। দ্বিতীয়টিতে বাহিনী বেরোয় সূর্য যেদিকে ওঠে সেদিকে। এই আয়াতের জন্য সংগ্রহ করা বাকি তাফসীরকারেরা শুধু সময়ের অর্থটাই নিয়েছেন। মতভেদটি এখানে যেমন আছে তেমনই রাখা হলো, দুই পক্ষের নামসহ। এ আয়াতের জন্য পড়া কোনো তাফসীরেই কোনো পথ, রাস্তা বা পৌঁছানোর জায়গার নাম নেই, তাই এখানেও তা জুড়ে দেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Army Came Late",
+          "bn": "বাহিনীর দেরির কারণ"
+        },
+        "p": [
+          {
+            "en": "If Musa (AS) left by night and the army set out only at sunrise, something kept it back. Al-Qurtubi reports a disagreement about the delay, on two views, without naming who held them. One: Pharaoh's people were busy that night burying their firstborn, because the plague had fallen on them in that same night. On this view, he notes, mushriqin describes Pharaoh's people at the time they set out. The other: a cloud and a darkness covered them, they said it was still night, and it did not lift until morning.",
+            "bn": "মূসা (আঃ) যদি রাতে বেরিয়ে থাকেন আর বাহিনী রওনা দেয় সূর্য ওঠার পর, তবে মাঝখানে কিছু একটা তাদের আটকে রেখেছিল। কুরতুবী এই দেরি নিয়ে দুটি মতের কথা বলেন, তবে কার মত তা বলেননি। প্রথম মত: সেই রাতে ফেরাউনের লোকেরা তাদের প্রথম সন্তানদের দাফন করতে ব্যস্ত ছিল, কারণ ঠিক ওই রাতেই তাদের উপর মহামারি নেমেছিল। তিনি বলেন, এই মতে মুশরিকীন শব্দটি রওনা দেওয়ার সময়ে ফেরাউনের লোকদের অবস্থা বোঝায়। দ্বিতীয় মত: এক মেঘ আর অন্ধকার তাদের ঢেকে ফেলেছিল। তারা ভেবেছিল এখনো রাত, আর সকাল না হওয়া পর্যন্ত সেই অন্ধকার কাটেনি।"
+          },
+          {
+            "en": "At-Tabari relays from Mujahid, through two chains, a report of that night. Musa (AS) went out by night, the moon was eclipsed and the earth grew dark, and Pharaoh's horses, in their eyes, were running at full rein and yet did not leave their place: they were held back from Musa and his companions until these had passed out of sight. The same report carries the search for the grave of Yusuf (AS), which the article on 26:52 has already set out, and it is not retold here.",
+            "bn": "তাবারী দুটি সনদে মুজাহিদ থেকে সেই রাতের একটি বর্ণনা আনেন। মূসা (আঃ) রাতে বেরোলেন, চাঁদে গ্রহণ লাগল, পৃথিবী অন্ধকার হয়ে গেল। আর ফেরাউনের ঘোড়াগুলো তাদের চোখে লাগাম ছেড়ে পূর্ণবেগে ছুটছিল, অথচ নিজের জায়গা থেকে নড়ছিল না। মূসা ও তাঁর সঙ্গীরা চোখের আড়াল না হওয়া পর্যন্ত ঘোড়াগুলোকে তাঁদের কাছ থেকে আটকে রাখা হয়েছিল। একই বর্ণনায় ইউসুফ (আঃ)-এর কবর খোঁজার কথাও আছে। ২৬:৫২ আয়াতের প্রবন্ধে তা আগেই বলা হয়েছে, তাই এখানে আর বলা হলো না।"
+          },
+          {
+            "en": "These are anonymous views and a Successor's report, none of them raised to the Prophet ﷺ, and the verse is silent on every detail in them. They are recorded here as reports, neither affirmed nor denied. What the verse itself gives is the hour, or the bearing, and the bare fact of the chase. None of the commentaries read for this verse attaches a sound hadith to it, and none of them gives a cause of revelation for it.",
+            "bn": "এগুলো নামহীন কিছু মত আর একজন তাবিঈর বর্ণনা। এর কোনোটিই নবী ﷺ পর্যন্ত পৌঁছায় না, আর এসব খুঁটিনাটির কোনোটির কথাই আয়াতে নেই। তাই এগুলো এখানে কেবল বর্ণনা হিসেবে রাখা হলো, সত্য বলে মেনেও নেওয়া হয়নি, অস্বীকারও করা হয়নি। আয়াত নিজে যা দেয়, তা হলো সময়টা, অথবা দিকটা, আর ধাওয়ার নিছক ঘটনাটুকু। এ আয়াতের জন্য পড়া কোনো তাফসীরই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি, কোনো শানে নুযূলও উল্লেখ করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Whole State Rides Out",
+          "bn": "পুরো রাষ্ট্রই নামল পথে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, citing a number of the commentators, describes who rode. Pharaoh went out in a vast army and a great gathering, which amounted to the whole kingdom of Egypt in his day: those who loosed and bound, and the governments, the princes, ministers, nobles, chiefs and soldiers. This was not a patrol sent after runaways. The state itself took to the road. Its whole weight went after a people it had held in bondage, and the verse marks the hour it went.",
+            "bn": "কারা ঘোড়ায় চড়েছিল, ইবন কাসীর একাধিক তাফসীরকারের সূত্রে তা জানান। ফেরাউন বেরিয়েছিল বিশাল এক বাহিনী আর বড় এক জমায়েত নিয়ে। সেটা ছিল কার্যত তার যুগের গোটা মিসর রাজ্য: যাদের হাতে ছিল সিদ্ধান্তের ক্ষমতা, ছিল প্রশাসন, আমির, উজির, অভিজাত, নেতা আর সৈন্যরা। পালিয়ে যাওয়া কিছু লোককে ধরতে পাঠানো ছোট টহলদল এটা ছিল না। রাষ্ট্র নিজেই পথে নেমেছিল। যে জাতিকে সে দাস করে রেখেছিল, পুরো শক্তি নিয়ে সে তার পেছনে ছুটল, আর আয়াতটি সেই যাত্রার সময়টুকু চিহ্নিত করে দেয়।"
+          },
+          {
+            "en": "Then he turns to the numbers. Several isra'iliyyat give very large figures for Pharaoh's horsemen, one of them from Ka'b al-Ahbar, and Ibn Kathir's verdict follows at once: there is doubt in this, and it appears to be among the exaggerations of the Children of Israel, and Allah knows best. The figures are not repeated here. His principle is the useful part: what Allah has told is what benefits, and He did not specify their count, since there is no benefit beneath it, beyond the fact that they all went out.",
+            "bn": "এরপর তিনি সংখ্যার প্রসঙ্গে আসেন। কিছু ইসরাঈলী বর্ণনায় ফেরাউনের অশ্বারোহীদের বিরাট বিরাট সংখ্যা দেওয়া আছে, তার একটি কা'ব আল-আহবার থেকে। ইবন কাসীর সঙ্গে সঙ্গে রায় দেন: এতে সন্দেহ আছে। বাহ্যত এটা বনী ইসরাঈলের অতিরঞ্জনগুলোর একটি, আর আল্লাহই ভালো জানেন। সংখ্যাগুলো এখানে আর উল্লেখ করা হলো না। কাজের কথা হলো তাঁর মূলনীতিটা: আল্লাহ যা জানিয়েছেন, উপকার তাতেই। তিনি তাদের সংখ্যা নির্দিষ্ট করেননি, কারণ তাতে কোনো উপকার নেই। জানার বিষয় শুধু এটুকু যে তারা সবাই বেরিয়ে পড়েছিল।"
+          },
+          {
+            "en": "As-Sa'di adds the temper of the march: they drove on behind them in rage and fury, sure that they had the power to do it. Just before this, 26:54 to 26:56 give the words sent out through the cities on Pharaoh's side, about a small band who were enraging them; the article on 26:54 deals with that boast. Here the boast is on horseback. A whole kingdom against a people only just freed: by any count a watcher could have made at sunrise, the outcome looked settled.",
+            "bn": "সা'দী যোগ করেন এই যাত্রার মেজাজটা: প্রচণ্ড রাগ আর আক্রোশ নিয়ে তারা তাদের পেছনে ছুটল, নিশ্চিত ছিল যে কাজটা করার শক্তি তাদের আছে। এর ঠিক আগে ২৬:৫৪ থেকে ২৬:৫৬ আয়াতে আছে সেই কথা, যা ফেরাউনের পক্ষ থেকে শহরে শহরে ছড়ানো হয়েছিল: এরা এক ছোট্ট দল, আর এরা আমাদের ক্রুদ্ধ করেছে। সেই দম্ভ নিয়ে আলোচনা আছে ২৬:৫৪ আয়াতের প্রবন্ধে। এখানে সেই দম্ভ ঘোড়ার পিঠে সওয়ার। একদিকে গোটা এক রাজ্য, অন্যদিকে সদ্য মুক্ত হওয়া একদল মানুষ। সূর্যোদয়ের সময় যে-ই হিসাব কষত, তার চোখে ফলাফল ছিল নিশ্চিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Licence for Any Pursuer",
+          "bn": "কোনো ধাওয়াকারীর পক্ষে সনদ নয়"
+        },
+        "p": [
+          {
+            "en": "This needs stating plainly. The verse describes one ruler and the army he led after one people, at one dawn, in a story the Qur'an tells through to its end. It licenses nothing against any living person, people or nation: not against Egypt or anyone in it today, and not against the descendants of those who were chased or of those who chased. Pharaoh's host is judged in the Qur'an by what it did, and that judgement belongs to Allah, who tells the story, not to any reader who retells it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে একজন শাসক আর তার বাহিনীর কথা, যারা এক ভোরে একটি জাতির পিছু নিয়েছিল, এমন এক কাহিনিতে যা কুরআন শেষ পর্যন্ত বলে গেছে। কোনো জীবিত মানুষ, গোষ্ঠী বা জাতির বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের মিসর বা সেখানকার কারও বিরুদ্ধে নয়, যাদের তাড়া করা হয়েছিল বা যারা তাড়া করেছিল, তাদের বংশধরদের বিরুদ্ধেও নয়। ফেরাউনের বাহিনীর বিচার কুরআন করেছে তাদের কাজ দিয়ে। সে বিচার আল্লাহর, যিনি কাহিনিটি বলছেন। যে পাঠক কাহিনিটি আবার বলে, বিচারের ভার তার নয়।"
+          },
+          {
+            "en": "The commentators' own restraint points the same way. Ibn Kathir refuses the inflated numbers because nothing is gained from them; the reports of that night are passed on with their sources and no more. What the verse asks of a reader is turned inward. It asks whether I have ever ridden out at sunrise after someone else's freedom: in a workplace, a family, or a quarrel I would not let go, sure of my strength and angry that they slipped away.",
+            "bn": "তাফসীরকারদের নিজেদের সংযমও একই দিকে ইঙ্গিত করে। ইবন কাসীর ফোলানো সংখ্যাগুলো নাকচ করেন, কারণ তাতে কোনো লাভ নেই। সেই রাতের বর্ণনাগুলো আসে কেবল তাদের সূত্রসহ, এর বেশি কিছু নয়। আয়াতটি পাঠকের কাছে যা চায়, তা নিজের দিকে ফেরানো প্রশ্ন। আমি কি কখনো কারও স্বাধীনতার পেছনে এভাবে ভোরবেলা ছুটে বেরিয়েছি? হতে পারে কর্মস্থলে, পরিবারে, কিংবা এমন কোনো ঝগড়ায়, যা আমি কিছুতেই ছাড়তে চাইনি। নিজের শক্তিতে নিশ্চিত ছিলাম, আর সে হাত ফসকে বেরিয়ে গেছে বলে রাগে জ্বলছিলাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Daylight Shows the Danger",
+          "bn": "দিনের আলোয় স্পষ্ট বিপদ"
+        },
+        "p": [
+          {
+            "en": "Read slowly, the verse sits in a strange place. The night had been the cover, and the light is what exposes them. Sunrise, which ought to bring relief, brings the army into view. The next verse names the fear outright, we are surely overtaken, and the answer of Musa (AS) in 26:62 and the parted sea in 26:63 come only after it. This verse ends before any of that, at the moment the pursuers are closing in, with nothing yet in sight but the water and the dust behind.",
+            "bn": "ধীরে পড়লে বোঝা যায়, আয়াতটি বসে আছে এক অদ্ভুত জায়গায়। রাত ছিল আড়াল, আর আলোই এখন তাদের প্রকাশ করে দিচ্ছে। যে সূর্যোদয় স্বস্তি আনার কথা, সেটাই বাহিনীকে চোখের সামনে এনে দেয়। পরের আয়াতে ভয়টা সরাসরি মুখে আসে: আমরা তো ধরা পড়েই গেলাম। মূসা (আঃ)-এর জবাব আসে ২৬:৬২ আয়াতে, আর সাগর দুই ভাগ হয় ২৬:৬৩ আয়াতে, দুটোই এর পরে। এই আয়াত থেমে যায় তার আগেই, যখন ধাওয়াকারীরা ঘনিয়ে আসছে। চোখের সামনে তখন শুধু পানি, আর পেছনে ধুলো।"
+          },
+          {
+            "en": "And yet the reader already holds the end. The inheritance was told in 26:59, before the chase began; on al-Qurtubi's reading, it was decreed. A believer caught in a sunrise of his own, with something real gaining on him, is asked to read it the way the surah arranges this one: the danger in full view, its strength not denied, and the whole of it set inside what Allah has already said will happen. The pursuer's speed is real. It is not the last word.",
+            "bn": "তবু পাঠকের হাতে শেষটা আগেই আছে। ধাওয়া শুরুর আগেই ২৬:৫৯ আয়াতে উত্তরাধিকারের কথা বলা হয়ে গেছে, আর কুরতুবীর পাঠে সেটা আল্লাহর ফয়সালা। একজন মুমিন যখন নিজের জীবনের এমন কোনো ভোরে আটকা পড়েন, যখন সত্যিকারের কোনো বিপদ তাঁকে ধরে ফেলতে আসছে, তখন তাঁকে বলা হচ্ছে বিষয়টা সেভাবে পড়তে, যেভাবে সূরাটি এই ঘটনাকে সাজিয়েছে। বিপদ পুরোপুরি চোখের সামনে, তার শক্তিকেও অস্বীকার করা হচ্ছে না। কিন্তু সবটাই রাখা আছে আল্লাহর আগেই বলে দেওয়া কথার ভেতরে। ধাওয়াকারীর গতি সত্য, তবে শেষ কথা সেটা নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "26:63": {
     "sections": [
       {

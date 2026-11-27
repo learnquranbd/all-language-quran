@@ -35377,6 +35377,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Contempt that shrinks people into scraps often hides fear of them; never measure the worth of a person or a cause by how small its enemies say it is.",
     "lessonBn": "মানুষকে টুকরো বানিয়ে তুচ্ছ করার আড়ালে প্রায়ই তাদের ভয় লুকিয়ে থাকে। শত্রুরা কাউকে কত ছোট বলে, তা দিয়ে কোনো মানুষ বা কোনো আদর্শের মূল্য মাপবেন না।"
+  },
+  "26:60": {
+    "reflectionEn": "Two words carry the whole chase: so they pursued them at sunrise. The night had covered the escape, and now the light comes up on an army behind them on the road. A people only just freed, the water somewhere ahead, a kingdom on horseback closing in. Yet the reader already knows how it ends, because the verse before has said that the gardens would pass to the very people being hunted. The chase is told after its outcome has been announced. Some mornings bring trouble into full view, and its strength is real. The question is not how fast it moves. It is whether I read what is gaining on me in the light of what God has already said.",
+    "reflectionBn": "পুরো ধাওয়ার কাহিনিটা দুটো শব্দে: তারা সূর্যোদয়ের সময় তাদের পিছু নিল। রাতের অন্ধকার পালিয়ে যাওয়াটা ঢেকে রেখেছিল। এখন ভোরের আলো ফুটতেই দেখা যায়, পেছনের পথে এক বাহিনী। সদ্য মুক্ত হওয়া একদল মানুষ, সামনে কোথাও পানি, আর পেছনে ঘোড়ায় চড়া গোটা এক রাজ্য এগিয়ে আসছে। তবু পাঠক শেষটা আগেই জানেন। আগের আয়াতই বলে দিয়েছে, ওই বাগান আর ঝরনার মালিক হবে সেই লোকেরাই, যাদের এখন তাড়া করা হচ্ছে। ফলাফল ঘোষণার পরেই ধাওয়ার কথা আসে। কোনো কোনো সকাল বিপদকে পুরোপুরি চোখের সামনে এনে দাঁড় করায়, আর তার শক্তিও মিথ্যা নয়। প্রশ্ন হলো না সে কত দ্রুত আসছে। প্রশ্ন হলো, যা আমাকে ধরে ফেলতে আসছে, তাকে কি আমি আল্লাহর আগেই বলে রাখা কথার আলোয় দেখি?",
+    "pointsEn": [
+      "What is pursuing me right now that looks stronger in daylight than it did in the dark?",
+      "When trouble gains ground on me, do I measure it by its speed or by what God has promised?",
+      "Have I ever chased something with all my strength, only to find I was running towards my own undoing?",
+      "Which details do I add to a story that God left out, and what do they actually give me?",
+      "Is there anyone I keep hunting down, in word or in thought, simply because their freedom angers me?"
+    ],
+    "pointsBn": [
+      "এ মুহূর্তে কোন জিনিস আমার পিছু নিয়েছে, যা অন্ধকারের চেয়ে দিনের আলোয় বেশি শক্তিশালী দেখায়?",
+      "বিপদ যখন আমাকে ধরে ফেলার কাছাকাছি আসে, তখন আমি তাকে মাপি তার গতি দিয়ে, নাকি আল্লাহর ওয়াদা দিয়ে?",
+      "কখনো কি সর্বশক্তি দিয়ে কিছুর পেছনে ছুটেছি, আর পরে দেখেছি আসলে নিজের সর্বনাশের দিকেই দৌড়াচ্ছিলাম?",
+      "আল্লাহ যে খুঁটিনাটি বলেননি, কোনো কাহিনিতে তেমন কী কী আমি নিজে জুড়ে দিই? তাতে আসলে আমার কী লাভ হয়?",
+      "এমন কেউ কি আছে, যার স্বাধীনতা আমাকে রাগিয়ে দেয় বলেই কথায় বা মনে মনে আমি তার পেছনে লেগে থাকি?"
+    ],
+    "lessonEn": "The morning that shows the pursuer gaining is not the end of the story; read every closing danger in the light of what God has already promised.",
+    "lessonBn": "যে সকাল দেখায় ধাওয়াকারী কাছে চলে আসছে, সেটাই কাহিনির শেষ নয়। ঘনিয়ে আসা প্রতিটি বিপদকে আল্লাহর আগেই দেওয়া ওয়াদার আলোয় দেখুন।"
   }
 };
 
