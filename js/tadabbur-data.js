@@ -35337,6 +35337,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Answer threats against the truth with plain evidence, not force; and when the truth is plain before you, do not wait for one more sign before you accept it.",
     "lessonBn": "সত্যের বিরুদ্ধে হুমকির জবাব দিন স্পষ্ট প্রমাণ দিয়ে, শক্তি দিয়ে নয়; আর সত্য যখন আপনার সামনে স্পষ্ট, তা মেনে নিতে আরেকটি নিদর্শনের অপেক্ষায় থাকবেন না।"
+  },
+  "26:46": {
+    "reflectionEn": "A moment ago they swore by Pharaoh's might that they would win. Now the staff has swallowed every rope, and the three words of this verse put them on the ground: the magicians were thrown down, prostrating. The verb is passive, as if something outside them laid them there. Nobody in that square knew the tricks of illusion better than they did, and so nobody saw sooner that this was no trick. The skill they had brought to defend a throne became the witness against it. Before they said a word, their foreheads had already said it. When the field I know best shows me I was wrong, do I bow to it, or reach for an explanation?",
+    "reflectionBn": "একটু আগেই তারা ফেরাউনের ইজ্জতের কসম খেয়ে বলেছিল, জয় তাদেরই। এখন লাঠিটা তাদের সব দড়ি গিলে ফেলেছে, আর এ আয়াতের তিনটি শব্দ তাদের মাটিতে নামিয়ে আনে: যাদুকরদের সিজদায় ফেলে দেওয়া হলো। কথাটা এমনভাবে বলা, যেন বাইরের কোনো শক্তি তাদের শুইয়ে দিয়েছে। চোখ ধাঁধানোর কৌশল ওই ময়দানে তাদের চেয়ে ভালো কেউ জানত না। তাই তাদের আগে কেউ ধরতেও পারেনি যে এটা কোনো কৌশল নয়। যে বিদ্যা নিয়ে তারা এক সিংহাসন বাঁচাতে এসেছিল, সেই বিদ্যাই তার বিরুদ্ধে সাক্ষী হয়ে দাঁড়াল। মুখে একটা কথা বলার আগেই তাদের কপাল কথাটা বলে দিয়েছে। আমি যা সবচেয়ে ভালো বুঝি, সেখানেই যখন আমার ভুল ধরা পড়ে, আমি কি মাথা নত করি, নাকি কোনো ব্যাখ্যা খুঁজতে বসি?",
+    "pointsEn": [
+      "In which field do I know enough that I would see the truth there before others do, and have I let it lead me when I saw it?",
+      "The last time the evidence went against what I had come to defend, did I give way to it, or look for a way to explain it off?",
+      "What reward or closeness to someone powerful has made me want a result before I knew whether it was true?",
+      "When I prostrate in prayer, does my whole self go down with my forehead, or only my body?",
+      "Whose approval would I lose if I admitted openly what I now know to be right, and is that approval worth the silence?"
+    ],
+    "pointsBn": [
+      "কোন বিষয়ে আমার জানাশোনা এতটা যে সত্যটা সেখানে আমি অন্যদের আগেই দেখতে পাব? দেখার পর কি সেটাকে আমাকে পথ দেখাতে দিয়েছি?",
+      "শেষবার প্রমাণ যখন আমার পক্ষের কথার বিরুদ্ধে গেল, আমি কি মেনে নিয়েছি, নাকি পাশ কাটানোর মতো কোনো ব্যাখ্যা খুঁজেছি?",
+      "কোন পুরস্কার বা কোনো ক্ষমতাবানের কাছাকাছি থাকার লোভ আমাকে সত্য জানার আগেই একটা নির্দিষ্ট ফল চাইতে শিখিয়েছে?",
+      "নামাজে যখন সিজদায় যাই, কপালের সঙ্গে কি আমার পুরো মনটাও নত হয়, নাকি শুধু শরীরটা?",
+      "যা এখন সঠিক বলে জানি, তা খোলাখুলি স্বীকার করলে কার সন্তুষ্টি হারাব? সেই সন্তুষ্টি কি চুপ থাকার দাম হতে পারে?"
+    ],
+    "lessonEn": "When the truth becomes plain in the very field you know best, let your knowledge humble you, and yield to it at once, before pride finds an explanation.",
+    "lessonBn": "যে বিষয় আপনি সবচেয়ে ভালো জানেন, সেখানেই যখন সত্য স্পষ্ট হয়ে যায়, নিজের জ্ঞানকে আপনাকে বিনয়ী করতে দিন। অহংকার কোনো ব্যাখ্যা খুঁজে পাওয়ার আগেই সত্যকে মেনে নিন।"
   }
 };
 

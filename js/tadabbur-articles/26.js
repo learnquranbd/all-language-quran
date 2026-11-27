@@ -2167,6 +2167,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:46": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words, Face Down",
+          "bn": "তিন শব্দে মাটিতে কপাল"
+        },
+        "p": [
+          {
+            "en": "The contest in this surah runs on one verb. Musa (AS) tells the magicians, alqu ma antum mulqun, throw whatever you will throw (26:43). Fa-alqaw: so they threw their ropes and their staffs, swearing by Pharaoh's might that they were the winners (26:44). Fa-alqa Musa: then Musa threw his staff, and at once it was devouring what they had faked (26:45). Every throw so far has a named thrower. Then comes 26:46, three Arabic words: fa-ulqiya as-saharatu sajidin, and the magicians were thrown down, prostrating.",
+            "bn": "এ সূরায় প্রতিযোগিতার পুরো দৃশ্যটা চলে একটি ক্রিয়ার উপর ভর করে। মূসা (আঃ) যাদুকরদের বলেন, আলকূ মা আনতুম মুলকূন: তোমরা যা ছোড়ার ছোড়ো (২৬:৪৩)। ফা-আলকাও: তারা তাদের দড়ি আর লাঠিগুলো ছুড়ল, আর ফেরাউনের ইজ্জতের কসম খেয়ে বলল, জয় তাদেরই (২৬:৪৪)। ফা-আলকা মূসা: এরপর মূসা তাঁর লাঠি ছুড়লেন, আর সঙ্গে সঙ্গে সেটা তাদের সাজানো জিনিসগুলো গিলতে লাগল (২৬:৪৫)। এ পর্যন্ত প্রতিটি ছোড়ার পেছনে কে ছুড়ছে, তার নাম আছে। তারপর আসে ২৬:৪৬, আরবিতে মাত্র তিনটি শব্দ: ফা-উলকিয়াস সাহারাতু সাজিদীন, যাদুকরদের সিজদায় ফেলে দেওয়া হলো।"
+          },
+          {
+            "en": "The verb of the contest has turned on the contestants. The men who had been throwing are now the ones thrown, and the verb no longer says who threw them. The fa at its head joins the falling to the swallowing with no pause between them. Sajidin gives the state in which they landed: they did not fall and then decide to prostrate, they reached the ground already prostrating. As-Sa'di's entire comment on the verse is to repeat it and add one word, li-rabbihim: to their Lord.",
+            "bn": "যে ক্রিয়া দিয়ে প্রতিযোগিতা চলছিল, সেটাই এবার প্রতিযোগীদের উপর ঘুরে এসেছে। যারা এতক্ষণ ছুড়ছিল, এখন তাদেরই ছুড়ে ফেলা হয়েছে, আর কে ফেলল, সে কথা ক্রিয়াটি আর বলে না। শুরুর ফা অক্ষরটি লাঠির গিলে ফেলা আর তাদের লুটিয়ে পড়াকে মাঝখানে কোনো বিরতি ছাড়াই জুড়ে দেয়। সাজিদীন শব্দটি জানায়, তারা কোন অবস্থায় মাটিতে পৌঁছাল। তারা পড়ে গিয়ে তারপর সিজদা করার কথা ভাবেনি। মাটি ছোঁয়ার সময়েই তারা সিজদায়। সা'দী এ আয়াতের ব্যাখ্যায় আয়াতটি পড়ে শুধু একটি শব্দ যোগ করেন: লি-রাব্বিহিম, তাদের রবের উদ্দেশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verb Without a Thrower",
+          "bn": "যে ক্রিয়ায় ফেলনেওয়ালা নেই"
+        },
+        "p": [
+          {
+            "en": "None of the commentators read on this verse stops on the passive. The same words, however, open 7:120, wa-ulqiya as-saharatu sajidin, and al-Baghawi explains them there with three readings. Muqatil says that Allah threw them down. Others, whom he leaves unnamed, say that Allah inspired them to prostrate, and so they prostrated. Al-Akhfash takes it from the speed of the act: they went down so fast that it was as though they had been thrown. Al-Baghawi does not choose between them, and neither does this article.",
+            "bn": "এ আয়াতের যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই ক্রিয়াটির এই গড়ন নিয়ে থামেনি। তবে হুবহু একই শব্দে শুরু হয় ৭:১২০, ওয়া উলকিয়াস সাহারাতু সাজিদীন, আর বাগাভী সেখানে এর তিনটি ব্যাখ্যা দেন। মুকাতিল বলেন, আল্লাহই তাদের মাটিতে ফেলে দিয়েছেন। আরেক দল, যাদের নাম তিনি বলেননি, বলেন: আল্লাহ তাদের অন্তরে সিজদার প্রেরণা দিলেন, আর তারা সিজদা করল। আখফাশ কারণ খোঁজেন কাজটার দ্রুততায়। তারা এত তাড়াতাড়ি সিজদায় গেল যে মনে হলো কেউ তাদের ছুড়ে ফেলেছে। বাগাভী তিনটির কোনোটিকে বেছে নেননি, এই লেখাও নেবে না।"
+          },
+          {
+            "en": "Al-Qurtubi, on the same clause in 20:70, ties the falling to what they had just watched. They were thrown down, he says, because of what they saw of the immensity of the matter and the breaking of the ordinary course in the staff. It swallowed everything they had contrived with their ropes and staffs and then returned to being a staff, and no one but Allah knows where the ropes and staffs went. On his reading the force that put them on the ground arrived through their eyes.",
+            "bn": "কুরতুবী ২০:৭০ আয়াতে একই বাক্যের ব্যাখ্যায় তাদের লুটিয়ে পড়াকে জুড়ে দেন তারা এইমাত্র যা দেখেছে তার সঙ্গে। তাঁর ভাষায়, তাদের সিজদায় ফেলে দেওয়া হলো, কারণ লাঠির মধ্যে তারা দেখল বিশাল এক ব্যাপার, প্রকৃতির চেনা নিয়মের বাইরের এক ঘটনা। দড়ি আর লাঠি দিয়ে তারা যত কৌশল সাজিয়েছিল, লাঠিটা সব গিলে ফেলে আবার লাঠি হয়ে গেল। সেই দড়ি আর লাঠিগুলো কোথায় গেল, আল্লাহ ছাড়া কেউ জানে না। কুরতুবীর পাঠে তাদের মাটিতে নামিয়ে আনা শক্তিটা ঢুকেছিল তাদের চোখ দিয়ে।"
+          },
+          {
+            "en": "The commentators on 26:46 itself tell the moment in active verbs. At-Tabari writes kharru li-wujuhihim sujjadan, they fell on their faces prostrating. Ibn Kathir writes that they were overcome, khada'u, submitted, and sajadu, prostrated. The Muyassar says they believed in Allah and prostrated to Him. Set beside the Qur'an's passive, these verbs hold the moment from two sides: something came over the magicians that they did not stage, and what they did with it was still their own act.",
+            "bn": "২৬:৪৬ আয়াতের তাফসীরকারেরা নিজেরা মুহূর্তটা বলেন কর্তার ক্রিয়া দিয়ে। তাবারী লেখেন, খাররূ লি-উজূহিহিম সুজ্জাদা: তারা মুখ থুবড়ে সিজদায় পড়ল। ইবন কাসীর লেখেন, তারা পরাজিত হলো, খাদাঊ, নত হলো, আর সাজাদূ, সিজদা করল। মুয়াসসার বলে, তারা আল্লাহর প্রতি ঈমান আনল আর তাঁকে সিজদা করল। কুরআনের ক্রিয়ার পাশে এগুলো রাখলে মুহূর্তটাকে দুই দিক থেকে দেখা যায়। যাদুকরদের উপর এমন কিছু নেমে এসেছিল যা তারা নিজেরা সাজায়নি। আর তা নিয়ে তারা যা করল, সেটা তবুও তাদের নিজেদেরই কাজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Only Allah Can Do",
+          "bn": "যা আল্লাহ ছাড়া কেউ পারে না"
+        },
+        "p": [
+          {
+            "en": "At-Tabari puts the knowing before the falling. When the magicians saw clearly, he says, that what Musa had brought them was truth and not sorcery, and that it was among the things no one has power over except Allah, who brought the heavens and the earth into being from no prior origin, they fell on their faces prostrating to Him. Two things had become plain at once: what the staff was not, which they could judge as no one else could, and whose doing it therefore had to be.",
+            "bn": "তাবারীর ব্যাখ্যায় আগে আসে বোঝা, তারপর লুটিয়ে পড়া। তিনি বলেন, যাদুকরদের কাছে যখন পরিষ্কার হয়ে গেল যে মূসা যা এনেছেন তা সত্য, যাদু নয়, আর এ এমন কাজ যা আল্লাহ ছাড়া কারও সাধ্যে নেই, যিনি কোনো পূর্ব নমুনা ছাড়াই আসমান ও জমিন সৃষ্টি করেছেন, তখন তারা মুখ থুবড়ে তাঁকে সিজদা করল। একসঙ্গে দুটি জিনিস তাদের কাছে স্পষ্ট হলো। প্রথমত, লাঠিটা কী নয়, আর এ বিচার তারা যেভাবে করতে পারত, আর কেউ পারত না। দ্বিতীয়ত, তাহলে এ কাজ কার হতেই হবে।"
+          },
+          {
+            "en": "The Muyassar uses a word from inside their own trade. When they witnessed it, and knew it was not the tamwih of magicians, the dressing up of something false to pass for true, they believed in Allah and prostrated to Him. Tamwih was their living. Men who spend their lives making the false look real know the look of their own work, and so they know at once when it is missing. Ibn Kathir's English abridgement says the magicians of Egypt were the most skilled in the art of illusion.",
+            "bn": "মুয়াসসার এমন একটা শব্দ ব্যবহার করে, যা তাদের পেশার ভেতরের শব্দ। তারা যখন ঘটনাটা দেখল, আর বুঝল এটা যাদুকরদের তামউইহ নয়, মানে মিথ্যাকে সাজিয়ে সত্যের মতো দেখানো নয়, তখন তারা আল্লাহর প্রতি ঈমান আনল আর তাঁকে সিজদা করল। তামউইহই ছিল তাদের রুটিরুজি। মিথ্যাকে আসল বানিয়ে দেখানোয় যারা জীবন কাটায়, নিজেদের কাজের চেহারা তারা চেনে। তাই সেই চেহারা যখন নেই, সেটাও তারা সঙ্গে সঙ্গে টের পায়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ বলে, মিশরের যাদুকরেরা ছিল চোখ ধাঁধানোর বিদ্যায় সবচেয়ে দক্ষ।"
+          },
+          {
+            "en": "The early reports Ibn Kathir relays at 7:120 reason the same way. Ibn Abbas (RA) says the staff passed nothing of their ropes and wood without swallowing it, and the magicians knew this was a matter from heaven and not sorcery, so they fell prostrate. In Ibn Ishaq's report they give the reason in one sentence: had this been a magician, he would not have beaten us. These are reports from the early generations, not sayings of the Prophet ﷺ. Still, that sentence could only come from masters of the craft.",
+            "bn": "ইবন কাসীর ৭:১২০ আয়াতে যে প্রাচীন বর্ণনাগুলো আনেন, সেগুলোও একই পথে যুক্তি দেয়। ইবন আব্বাস (রাঃ) বলেন, লাঠিটা তাদের দড়ি আর কাঠের যেটার পাশ দিয়েই গেছে, গিলে ফেলেছে। যাদুকরেরা বুঝল, এ আসমানের ব্যাপার, যাদু নয়, তাই তারা সিজদায় লুটিয়ে পড়ল। ইবন ইসহাকের বর্ণনায় তারা কারণটা বলে এক বাক্যে: এ যদি যাদুকর হতো, আমাদের হারাতে পারত না। এগুলো প্রথম যুগের মানুষদের বর্ণনা, নবী ﷺ-এর বাণী নয়। তবু বাক্যটা এমন, যা কেবল ওই বিদ্যার ওস্তাদদের মুখেই আসতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Helpers He Summoned",
+          "bn": "যাদের ডেকে আনা হয়েছিল সাহায্যে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, on this verse, first sets beside it the parallel account of 7:118 to 7:122 and then weighs the moment. It was a very great matter, he says, a proof that cut off every excuse and an argument that crushed. The men whose help Pharaoh had sought, istansara bihim, and from whom he had demanded victory, were themselves overcome. They submitted, believed in Musa in that very hour, and prostrated to Allah, Lord of the worlds, who had sent Musa and Harun with the truth and a dazzling miracle.",
+            "bn": "ইবন কাসীর এ আয়াতের পাশে প্রথমে রাখেন ৭:১১৮ থেকে ৭:১২২ পর্যন্ত একই ঘটনার বর্ণনা, তারপর মুহূর্তটার ওজন মাপেন। তিনি বলেন, এ ছিল অনেক বড় এক ব্যাপার। এমন প্রমাণ, যা সব অজুহাতের পথ বন্ধ করে দেয়, এমন যুক্তি, যা মিথ্যাকে চূর্ণ করে। ফেরাউন যাদের কাছে সাহায্য চেয়েছিল, ইসতানসারা বিহিম, যাদের কাছে বিজয় দাবি করেছিল, তারাই হেরে গেল। তারা নত হলো, সেই মুহূর্তেই মূসার উপর ঈমান আনল, আর সিজদা করল বিশ্বজগতের রব আল্লাহকে, যিনি মূসা ও হারুনকে সত্য আর চোখ ঝলসানো মুজিযা দিয়ে পাঠিয়েছেন।"
+          },
+          {
+            "en": "The surah has already set up the reversal. At 26:41 the magicians arrived asking whether there would be a reward if they won, and at 26:42 Pharaoh promised more: you will then be among al-muqarrabin, those brought near. Ibn Kathir's abridgement glosses it as close to me, among those who sit with me. Four verses later the seat has stopped mattering. Pharaoh, Ibn Kathir goes on, was beaten as the world had never seen, and rather than yield he turned to arrogance, stubbornness and threats, which 26:49 records.",
+            "bn": "উল্টে যাওয়ার এই ছবি সূরাটি আগেই তৈরি করে রেখেছে। ২৬:৪১ আয়াতে যাদুকরেরা এসে জানতে চেয়েছিল, জিতলে পুরস্কার মিলবে তো? ২৬:৪২ আয়াতে ফেরাউন তার চেয়েও বেশি কথা দিল: তখন তোমরা হবে আল-মুকাররাবীন, আমার কাছের লোকদের দলে। ইবন কাসীরের সংক্ষিপ্ত সংস্করণ এর অর্থ করে: আমার ঘনিষ্ঠ, যারা আমার পাশে বসে। চারটি আয়াত পরে সেই আসনের আর কোনো দাম থাকল না। ইবন কাসীর আরও বলেন, ফেরাউন এমনভাবে হারল যা দুনিয়া আগে দেখেনি। তবু সে মেনে না নিয়ে বেছে নিল অহংকার, জেদ আর হুমকি, যার কথা আছে ২৬:৪৯ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Forehead Said First",
+          "bn": "কপাল যা আগে বলে দিল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari does not leave the prostration as a bare movement. He describes what it carried. They went down mudh'inina lahu bi-t-ta'a, yielding to Allah in obedience; muqirrina li-Musa, affirming to Musa that what he had brought them from Allah was the truth; and conceding that the sorcery they used to practise was falsehood. One act holds three statements: a surrender, a testimony and a renunciation. On his reading, all three were made before the magicians had spoken a single word.",
+            "bn": "তাবারী সিজদাটিকে শুধু শরীরের একটা নড়াচড়া হিসেবে রেখে দেন না। এর ভেতরে কী ছিল, তা তিনি খুলে বলেন। তারা নত হলো মুযইনীনা লাহু বিত-তাআ, আনুগত্যে আল্লাহর কাছে নিজেদের সঁপে দিয়ে। মুকিররীনা লি-মূসা, মূসার কাছে স্বীকার করে যে তিনি আল্লাহর কাছ থেকে যা এনেছেন তা-ই সত্য। আর মেনে নিয়ে যে এতদিন তারা যে যাদু করত, তা বাতিল। একটি কাজের ভেতরে তিনটি ঘোষণা: আত্মসমর্পণ, সাক্ষ্য আর পুরনো পথ ত্যাগ। তাবারীর পাঠে যাদুকরেরা মুখে একটা শব্দ উচ্চারণের আগেই তিনটি কথা বলা হয়ে গেছে।"
+          },
+          {
+            "en": "Their words come in the next two verses: we believe in the Lord of the worlds, the Lord of Musa and Harun (26:47 and 26:48). Why they named the two brothers belongs to those verses and is not taken up here. What 26:46 records is that the body spoke first. The Muyassar, which explains 26:46 to 26:48 as a single passage, keeps the same order: they believed in Allah, prostrated to Him, and then said it. The prostration was not a reflex that words later explained; it was the confession in its first form.",
+            "bn": "তাদের মুখের কথা আসে পরের দুই আয়াতে: আমরা ঈমান আনলাম বিশ্বজগতের রবের প্রতি, যিনি মূসা ও হারুনের রব (২৬:৪৭ ও ২৬:৪৮)। দুই ভাইয়ের নাম তারা কেন নিল, সে আলোচনা ওই আয়াতগুলোর, এখানে তা তোলা হচ্ছে না। ২৬:৪৬ যা লিখে রাখে তা হলো, আগে কথা বলেছে শরীর। মুয়াসসার ২৬:৪৬ থেকে ২৬:৪৮ একসঙ্গে ব্যাখ্যা করে, আর সেখানেও এই ক্রম: তারা আল্লাহর প্রতি ঈমান আনল, তাঁকে সিজদা করল, তারপর মুখে বলল। সিজদাটা এমন কোনো ঝোঁক ছিল না যার ব্যাখ্যা পরে কথা দিয়ে দেওয়া হয়েছে। স্বীকারোক্তির প্রথম রূপই ছিল সেই সিজদা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Truth Flung at Falsehood",
+          "bn": "বাতিলের উপর ছুড়ে মারা সত্য"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's English abridgement opens the passage by placing the scene inside a larger rule. The Egyptians wanted to put out the light of Allah with their words, and Allah insisted that His light prevail. This, it says, is the matter of disbelief and faith: they never meet without faith prevailing. It cites 21:18, nay, We fling the truth against falsehood and it smashes it, and at once it vanishes, and 17:81, truth has come and falsehood has vanished. The prostration of 26:46 is that rule carried out on a public stage.",
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এ অংশের শুরুতেই দৃশ্যটাকে একটা বড় নিয়মের ভেতরে বসিয়ে দেয়। মিশরীয়রা মুখের কথায় আল্লাহর নূর নিভিয়ে দিতে চেয়েছিল, আর আল্লাহ চাইলেন তাঁর নূরই জয়ী হবে। সেখানে বলা হয়, কুফর আর ঈমানের ব্যাপারটাই এমন: দুটো যখনই মুখোমুখি হয়, জেতে ঈমান। প্রমাণ হিসেবে আনা হয় ২১:১৮: বরং আমি সত্যকে বাতিলের উপর ছুড়ে মারি, সত্য তাকে চূর্ণ করে, আর সঙ্গে সঙ্গে বাতিল মিলিয়ে যায়। আর ১৭:৮১: সত্য এসেছে, বাতিল বিলুপ্ত হয়েছে। ২৬:৪৬ আয়াতের সিজদা হলো সেই নিয়মেরই প্রকাশ্য মঞ্চে ঘটে যাওয়া।"
+          },
+          {
+            "en": "Yet the same proof met two different hearts. At-Tabari closes his comment with the magicians' own verdict on their past: what they had been doing was batil, falsehood. Ibn Kathir closes his with Pharaoh, who turned from the evidence to mukabara, haughty denial, and to stubbornness and false claims. The men who knew falsehood best let it go at once, and the man with most to lose by the truth refused it. The surah follows the magicians to 26:51, where they hope their sins will be forgiven.",
+            "bn": "তবু একই প্রমাণ গিয়ে পড়ল দুই রকম অন্তরে। তাবারী তাঁর ব্যাখ্যা শেষ করেন যাদুকরদের নিজেদের অতীত নিয়ে তাদেরই রায় দিয়ে: এতদিন তারা যা করছিল, তা বাতিল। ইবন কাসীর শেষ করেন ফেরাউনকে দিয়ে, যে প্রমাণ থেকে মুখ ফিরিয়ে নিল মুকাবারায়, মানে দম্ভভরে অস্বীকারে, সঙ্গে জেদ আর মিথ্যা দাবিতে। মিথ্যাকে যারা সবচেয়ে ভালো চিনত, তারা সঙ্গে সঙ্গে তা ছেড়ে দিল। আর সত্য মেনে নিলে যার হারানোর ছিল সবচেয়ে বেশি, সে তা প্রত্যাখ্যান করল। সূরাটি যাদুকরদের পিছু পিছু যায় ২৬:৫১ পর্যন্ত, যেখানে তারা আশা করে তাদের গুনাহ মাফ হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nearer Than Any Throne",
+          "bn": "যেকোনো সিংহাসনের চেয়ে কাছে"
+        },
+        "p": [
+          {
+            "en": "No tafsir read for this verse attaches a hadith of the Prophet ﷺ to it, and none gives an occasion of revelation; it is narrative within a Makkan surah. Ibn Kathir, at 20:70 and 7:120, relays from Sa'id ibn Jubayr, Ikrimah and al-Qasim ibn Abi Bazza that the magicians were shown something of the Hereafter while they were still prostrating. These are reports from early authorities, not sayings of the Prophet ﷺ, and nothing in this article is built on them.",
+            "bn": "এ আয়াতের যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো হাদীস জুড়ে দেয়নি, আর কোনোটিই এর নাযিলের কোনো উপলক্ষ বলেনি। এটি মক্কী সূরার ভেতরের একটি কাহিনি-বর্ণনা। ইবন কাসীর ২০:৭০ ও ৭:১২০ আয়াতে সাঈদ ইবন জুবায়র, ইকরিমা আর কাসিম ইবন আবী বাযযা থেকে বর্ণনা আনেন যে সিজদারত অবস্থাতেই যাদুকরদের আখিরাতের কিছু দেখানো হয়েছিল। এগুলো সাহাবিদের পরের প্রজন্মের বর্ণনা, নবী ﷺ-এর বাণী নয়। এই লেখার কোনো কথা এগুলোর উপর দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "What the Sunnah does give, as a general teaching and not a comment on this verse, concerns prostration itself. Sahih Muslim 482 records from Abu Hurayrah (RA) that the Messenger of Allah ﷺ said: the nearest a servant comes to his Lord is when he is prostrating himself, so make supplication in this state. Read beside the scene, the contrast is hard to miss. Pharaoh had offered the magicians a place among those near to him, and they went instead to the place this hadith calls nearest.",
+            "bn": "সুন্নাহ যা দেয়, তা এ আয়াতের ব্যাখ্যা নয়, একটি সাধারণ শিক্ষা, আর তা সিজদা নিয়েই। সহীহ মুসলিম ৪৮২ নম্বরে আবু হুরায়রা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ বলেছেন: বান্দা তার রবের সবচেয়ে কাছে থাকে যখন সে সিজদায় থাকে, তাই এ অবস্থায় দোয়া করো। দৃশ্যটার পাশে রেখে পড়লে বৈপরীত্যটা চোখ এড়ায় না। ফেরাউন যাদুকরদের কথা দিয়েছিল নিজের কাছের লোকদের মধ্যে জায়গা দেবে। আর তারা চলে গেল সেই জায়গায়, যাকে এই হাদীস বলে সবচেয়ে কাছের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Expert Bows",
+          "bn": "ওস্তাদ যখন মাথা নোয়ায়"
+        },
+        "p": [
+          {
+            "en": "First, a limit. The verse describes what the magicians and Pharaoh's court did on one day, as the text describes it, and it licenses nothing against any living person or community. It does not turn any trade or profession today into sorcery, it gives no one a warrant to cast an opponent as Pharaoh or his helpers, and it does not teach that people should be pressed into belief by spectacle. The commentators read the scene as a lesson in recognising the truth, and that is how it is read here.",
+            "bn": "প্রথমে একটা সীমারেখা। আয়াতটি বর্ণনা করে, এক দিনে যাদুকরেরা আর ফেরাউনের দরবার কী করেছিল, ঠিক যেভাবে কুরআন তা বলেছে। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো পেশা বা কারিগরিকে এ আয়াত যাদু বানিয়ে দেয় না। প্রতিপক্ষকে ফেরাউন বা তার সাহায্যকারী বলে দাগিয়ে দেওয়ার অধিকারও কাউকে দেয় না। চমক দেখিয়ে মানুষকে ঈমানের দিকে ঠেলে দেওয়ার শিক্ষাও এতে নেই। তাফসীরকারেরা দৃশ্যটাকে পড়েছেন সত্য চিনে নেওয়ার শিক্ষা হিসেবে, এখানেও সেভাবেই পড়া হলো।"
+          },
+          {
+            "en": "Within that limit, the scene turns a common assumption upside down. It is easy to think that the more someone knows, the harder he is to move. Here the experts moved first, and they moved because of what they knew; at-Tabari and the Muyassar both make their knowledge the hinge. Expertise can act as a witness: it can tell you exactly when something lies beyond the tricks of your own field. What it cannot do is make you yield. That part was the magicians' own, and it was immediate.",
+            "bn": "এই সীমার ভেতরে থেকে দেখলে দৃশ্যটা একটা চেনা ধারণাকে উল্টে দেয়। সহজেই মনে হয়, যে যত বেশি জানে, তাকে নড়ানো তত কঠিন। এখানে কিন্তু ওস্তাদেরাই নড়ল সবার আগে, আর নড়ল তাদের জানার কারণেই। তাবারী আর মুয়াসসার দুজনেই তাদের জ্ঞানকে পুরো ঘটনার কেন্দ্রে রাখেন। দক্ষতা সাক্ষী হতে পারে। কোনো কিছু যে আপনার বিদ্যার কৌশলের নাগালের বাইরে, সেটা সে ঠিকঠাক ধরিয়ে দিতে পারে। কিন্তু মাথা নোয়াতে সে আপনাকে বাধ্য করতে পারে না। সেই কাজটা ছিল যাদুকরদের নিজেদের, আর তা তারা করেছিল তখনই।"
+          },
+          {
+            "en": "The test sits close to home. A doctor reads a scan that overturns her diagnosis; a student of knowledge finds a sound narration against a view he has taught for years; a craftsman sees that a rival's work is honest and his own is not. Each knows, before anyone else in the room, that the truth has arrived. Then ask yourself: when my own knowledge last showed me I was wrong, did I go down, or did I explain? And what promised seat near someone powerful is keeping me standing?",
+            "bn": "পরীক্ষাটা খুব কাছেই। একজন ডাক্তার এমন একটা রিপোর্ট দেখেন, যা তাঁর রোগ নির্ধারণ উল্টে দেয়। একজন তালিবুল ইলম এমন এক সহীহ বর্ণনা পান, যা তাঁর বহু বছর ধরে শেখানো মতের বিপক্ষে যায়। একজন কারিগর বোঝেন, প্রতিদ্বন্দ্বীর কাজটা সৎ, আর নিজেরটা নয়। ঘরের অন্য সবার আগে প্রত্যেকেই টের পান, সত্য এসে গেছে। তাহলে নিজেকে জিজ্ঞেস করুন: শেষবার যখন আমার নিজের জ্ঞানই দেখাল আমি ভুল, আমি কি মাথা নুইয়েছি, নাকি ব্যাখ্যা দিয়েছি? আর কোনো ক্ষমতাবানের পাশে প্রতিশ্রুত কোন আসন আমাকে এখনো দাঁড় করিয়ে রেখেছে?"
+          }
+        ]
+      }
+    ]
+  },
   "26:51": {
     "sections": [
       {
