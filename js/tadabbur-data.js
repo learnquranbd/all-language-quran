@@ -36793,6 +36793,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah could fix any of us where we stand. Use the steps you still have to walk toward Him while you can still move.",
     "lessonBn": "আল্লাহ চাইলে আমাদের যে কাউকে দাঁড়ানো জায়গাতেই আটকে দিতে পারেন। চলার শক্তি থাকতে থাকতেই হাতে থাকা কদমগুলো তাঁর দিকে ফেলুন।"
+  },
+  "37:8": {
+    "reflectionEn": "Above the nearest sky, the angels speak of what Allah has decreed. Below, rebellious devils climb towards that talk, hoping to steal a word. The verse says they cannot listen to the exalted assembly, and that they are pelted from every side. The sky that looks open to us is guarded. What Allah keeps hidden is not lying about for anyone clever enough to pick it up. That changes how I treat everyone who claims to know the unseen: the fortune-teller, the horoscope, the confident voice that already knows what tomorrow brings. It humbles me too, because some things are simply not mine to know. Do I seek what I need from what Allah has sent down, or from whispers that were never allowed near the source?",
+    "reflectionBn": "নিকটতম আসমানের ওপরে ফেরেশতারা আল্লাহর ফয়সালা নিয়ে কথা বলেন। নিচ থেকে বিদ্রোহী শয়তানরা সেদিকে উঠতে থাকে, যদি একটা কথা চুরি করে আনা যায়। আয়াত বলছে, তারা উচ্চতর সভার কথা শুনতে পারে না, আর চারদিক থেকে তাদের দিকে ছুড়ে মারা হয়। যে আকাশকে আমরা খোলা দেখি, তা আসলে পাহারায় ঘেরা। আল্লাহ যা গোপন রেখেছেন, তা পথে পড়ে নেই যে চালাক কেউ কুড়িয়ে নেবে। তাহলে গায়েব জানার দাবি যারা করে, তাদের আমি কীভাবে দেখব? গণক, রাশিফল, কিংবা যে গলা আগেভাগেই জানে কাল কী ঘটবে। আয়াতটি আমাকে বিনয়ীও করে, কারণ কিছু বিষয় জানা আমার কাজই নয়। যা দরকার, তা কি আমি খুঁজি আল্লাহর নাজিল করা কথায়, নাকি এমন ফিসফিসানিতে, যাকে কখনো উৎসের কাছেও ঘেঁষতে দেওয়া হয়নি?",
+    "pointsEn": [
+      "When I want to know what is coming, where do I turn first: to prayer and the Book, or to predictions and people who claim to know?",
+      "Is there something of the unseen I keep trying to force open, when Allah has kept it closed?",
+      "When someone mixes one true remark with many claims I cannot check, do I let the true one carry all the rest?",
+      "When I look at the night sky, do I see only its beauty, or also an order that is guarded and answers to its Lord?",
+      "What rumour have I passed on this week without asking where it first came from?"
+    ],
+    "pointsBn": [
+      "সামনে কী আসছে জানতে চাইলে আমি প্রথমে কোথায় যাই: নামায আর কুরআনের কাছে, নাকি ভবিষ্যদ্বাণী আর জানার দাবিদার মানুষের কাছে?",
+      "গায়েবের এমন কিছু কি আছে, যার দরজা আল্লাহ বন্ধ রেখেছেন, অথচ আমি বারবার তা ঠেলে খোলার চেষ্টা করি?",
+      "কেউ একটা সত্য কথার সঙ্গে যাচাই করা যায় না এমন অনেক দাবি মিশিয়ে দিলে, আমি কি ওই এক সত্যের জোরে বাকি সবকিছু মেনে নিই?",
+      "রাতের আকাশের দিকে তাকালে আমি কি শুধু তার সৌন্দর্য দেখি, নাকি এমন এক শৃঙ্খলাও দেখি, যা পাহারায় ঘেরা আর তার রবের হুকুম মানে?",
+      "এ সপ্তাহে কোন গুজব আমি ছড়িয়েছি, অথচ একবারও জিজ্ঞেস করিনি কথাটা প্রথমে কোথা থেকে এল?"
+    ],
+    "lessonEn": "What Allah keeps hidden is guarded, not left for thieves to overhear. Seek what you need to know from His revelation, not from those who claim to read the unseen.",
+    "lessonBn": "আল্লাহ যা গোপন রেখেছেন, তা পাহারায় ঘেরা, চোরের কানে পৌঁছানোর জন্য খোলা পড়ে নেই। যা জানা দরকার, তা খুঁজুন তাঁর ওহীতে, গায়েব পড়ার দাবিদারদের কাছে নয়।"
   }
 };
 

@@ -323,6 +323,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "What the Guard Holds Back",
+          "bn": "পাহারা কাকে ঠেকায়"
+        },
+        "p": [
+          {
+            "en": "La yassamma'una ila al-mala'i al-a'la wa-yuqdhafuna min kulli janib: they cannot listen to the exalted assembly, and they are pelted from every side. Nine Arabic words, and they explain the two verses before them. In 37:6 Allah says He adorned the nearest heaven with the stars, and in 37:7 that He made this a protection against every rebellious devil. This verse says what the protection is against: the devils' attempt to hear. Verses 37:9 and 37:10 finish the picture, and are only pointed to here.",
+            "bn": "লা ইয়াসসাম্মাঊনা ইলাল মালাইল আ'লা ওয়া ইউকযাফূনা মিন কুল্লি জানিব: তারা উচ্চতর সভার কথা শুনতে পারে না, আর চারদিক থেকে তাদের দিকে ছুড়ে মারা হয়। আরবিতে মাত্র নয়টি শব্দ, অথচ আগের দুই আয়াতের অর্থ এখানেই খোলে। ৩৭:৬ আয়াতে আল্লাহ বলেছেন, তিনি নিকটতম আসমানকে তারকা দিয়ে সাজিয়েছেন। ৩৭:৭ আয়াতে বলেছেন, এটা প্রত্যেক বিদ্রোহী শয়তান থেকে সুরক্ষা। কীসের বিরুদ্ধে সুরক্ষা, তা জানায় এ আয়াত: শয়তানদের কান পেতে শোনার চেষ্টা। ছবিটা পূর্ণ হয় ৩৭:৯ ও ৩৭:১০ আয়াতে, এখানে শুধু সেদিকে ইঙ্গিত করা হলো।"
+          },
+          {
+            "en": "As-Sa'di reads 37:6 to 37:8 as one sentence and draws from it two great benefits of the stars. The first is adornment: without them the sky would be a dark mass with no light, and through them its regions shine, its form is made beautiful, and people are guided in the darkness of land and sea. The second is guarding the sky from every rebellious devil who, through his rebellion, reaches out to listen to the exalted assembly. Ma'arif al-Qur'an makes the same pairing: the stars have another benefit besides decoration.",
+            "bn": "সা'দী ৩৭:৬ থেকে ৩৭:৮ পর্যন্ত এক বাক্য ধরে পড়েন, আর সেখান থেকে তারকার দুটি বড় উপকার বের করেন। প্রথমটি সৌন্দর্য। তারকা না থাকলে আকাশ হতো আলোহীন এক অন্ধকার পিণ্ড। তারকার কারণেই তার চারপাশ আলোকিত হয়, তার চেহারা সুন্দর হয়, আর জল ও স্থলের অন্ধকারে মানুষ পথ খুঁজে পায়। দ্বিতীয়টি পাহারা। যে বিদ্রোহী শয়তান নিজের নাফরমানির জোরে উচ্চতর সভার কথা শুনতে এগিয়ে যায়, তার হাত থেকে আকাশকে রক্ষা করা। মাআরিফুল কুরআনও একই জোড় বাঁধে: সাজসজ্জার বাইরেও তারকার আরেকটি উপকার আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Small Word Left Unsaid",
+          "bn": "উহ্য রাখা ছোট্ট শব্দ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's note on how this verse joins the one before it is filed under the slot for 37:7 in the copy fetched here, and it is a point of grammar. He reads the two verses as one: and as a protection against every rebellious devil, so that it may not listen to the exalted assembly. The small word an, so that, has been dropped, he says, because the run of the sentence shows it without being said. Al-Qurtubi gives the same analysis from Abu Hatim: the meaning is li-alla yasma'u, lest they hear, and once an was dropped the verb stood in the indicative.",
+            "bn": "এ আয়াত আগের আয়াতের সঙ্গে কীভাবে জুড়েছে, সে বিষয়ে তাবারীর মন্তব্যটি এখানে সংগৃহীত কপিতে রাখা আছে ৩৭:৭ আয়াতের ঘরে। কথাটা ব্যাকরণের। তিনি দুই আয়াতকে এক করে পড়েন: আর প্রত্যেক বিদ্রোহী শয়তান থেকে সুরক্ষা হিসেবে, যাতে সে উচ্চতর সভার কথা শুনতে না পারে। তাঁর মতে 'আন' শব্দটি, যার অর্থ 'যাতে', বাদ পড়েছে, কারণ বাক্যের গতিই তা বুঝিয়ে দেয়। কুরতুবী আবু হাতিম থেকে একই বিশ্লেষণ আনেন: অর্থ হলো লিআল্লা ইয়াসমাঊ, যাতে তারা শুনতে না পায়। 'আন' বাদ পড়ার পর ক্রিয়াটি পেশযুক্ত রূপে রয়ে গেছে।"
+          },
+          {
+            "en": "At-Tabari backs the dropped an with three other places in the Qur'an. In 26:200 and 26:201: thus have We threaded it into the hearts of the criminals; they will not believe in it, meaning so that they do not believe. In 4:176: Allah makes things clear to you lest you go astray. In 16:15: He cast firm mountains into the earth lest it sway with you. He adds that the Arabs sometimes put the verb after la into the jussive in such a sentence, and quotes the saying rabattu al-farasa la yanfalit: I tied the horse so it would not break loose.",
+            "bn": "উহ্য 'আন'-এর পক্ষে তাবারী কুরআনের আরও তিনটি জায়গা দেখান। ২৬:২০০ ও ২৬:২০১ আয়াতে আছে: এভাবে আমি অপরাধীদের অন্তরে তা ঢুকিয়ে দিয়েছি, তারা তাতে ঈমান আনবে না। অর্থাৎ যাতে তারা ঈমান না আনে। ৪:১৭৬ আয়াতে: আল্লাহ তোমাদের কাছে স্পষ্ট করে দেন, যাতে তোমরা পথ না হারাও। ১৬:১৫ আয়াতে: তিনি জমিনে অটল পাহাড় গেড়ে দিয়েছেন, যাতে তা তোমাদের নিয়ে দুলে না ওঠে। তিনি আরও বলেন, এমন বাক্যে আরবরা কখনো 'লা'-এর পরের ক্রিয়াকে জযম দিয়েও বলে। যেমন তাদের কথা: রাবাত্তুল ফারাসা লা ইয়ানফালিত, ঘোড়াটা বেঁধে রাখলাম, যাতে ছুটে না যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearing, or Straining to Hear",
+          "bn": "শোনা, নাকি কান পাতা"
+        },
+        "p": [
+          {
+            "en": "The verb itself is read in two ways, and both readings appear in the commentaries fetched for this verse. Al-Qurtubi says most readers read la yasma'una, with a quiet sin and a light mim: they do not hear. Hamza, and 'Asim in the transmission of Hafs, read la yassamma'una, with both letters doubled. Al-Baghawi names Hamza, al-Kisa'i and Hafs for the doubled reading and says the rest read it light. Both explain the doubled form as yatasamma'una, to strain to listen, with the ta merged into the sin. The Arabic text in this app follows Hafs.",
+            "bn": "ক্রিয়াটি দুইভাবে পড়া হয়, আর এ আয়াতের জন্য সংগৃহীত তাফসীরে দুটো পাঠই আছে। কুরতুবী বলেন, অধিকাংশ কারি পড়েন লা ইয়াসমাঊনা, সীন সাকিন আর মীম হালকা: তারা শোনে না। হামযা, আর হাফসের বর্ণনায় আসিম, পড়েন লা ইয়াসসাম্মাঊনা, দুই অক্ষরেই তাশদীদ দিয়ে। বাগাভী তাশদীদের পাঠে হামযা, কিসাঈ ও হাফসের নাম নেন, আর বলেন বাকিরা হালকা পড়েন। দুজনেই তাশদীদের রূপটি ব্যাখ্যা করেন ইয়াতাসাম্মাঊনা দিয়ে, যার অর্থ কান পেতে শোনার চেষ্টা করা। তা অক্ষরটি সীনের ভেতরে মিশে গেছে। এই অ্যাপের আরবি পাঠ হাফসের বর্ণনা অনুসারে।"
+          },
+          {
+            "en": "The two readings deny different things. On the light reading, al-Qurtubi says, what is denied is their hearing, even though they may try to listen, and he calls this the correct meaning, supported by 26:212: they are barred from hearing. On the doubled reading, both the attempt to listen and the hearing are denied. He then gives the two early views. Mujahid said: they used to strain to listen, but they did not hear. From Ibn 'Abbas (RA) the report runs the other way: they neither hear nor strain to listen.",
+            "bn": "দুই পাঠ দুটি আলাদা জিনিস নাকচ করে। কুরতুবী বলেন, হালকা পাঠে নাকচ হয় তাদের শুনতে পাওয়া, যদিও তারা কান পাতার চেষ্টা করতে পারে। তাঁর মতে এটাই সঠিক অর্থ, আর ২৬:২১২ আয়াত একে সমর্থন করে: তাদের তো শোনা থেকে সরিয়ে রাখা হয়েছে। তাশদীদের পাঠে নাকচ হয় দুটোই, কান পাতার চেষ্টাও, শুনতে পাওয়াও। এরপর তিনি পূর্বসূরিদের দুটি মত আনেন। মুজাহিদ বলেছেন, তারা কান পাতত ঠিকই, কিন্তু শুনতে পেত না। ইবন আব্বাস (রাঃ) থেকে বর্ণনাটা উল্টো দিকে যায়: তারা শোনেও না, কান পাতেও না।"
+          },
+          {
+            "en": "Al-Qurtubi then records that Abu 'Ubayd chose the doubled reading, on a point of usage: the Arabs hardly say sami'tu ilayhi, I heard towards him, but they do say tasamma'tu ilayhi, I strained my ears towards him, and the verse has ila. So the meaning al-Qurtubi calls correct rests on one reading, while Abu 'Ubayd's choice rests on the other. Both readings are established, and the two explanations stand side by side here. This article does not choose between them, and neither weakens the verse's plain point that the devils come away with nothing.",
+            "bn": "কুরতুবী এরপর জানান, আবু উবাইদ তাশদীদের পাঠটি বেছে নিয়েছেন ভাষার ব্যবহারের যুক্তিতে। আরবরা প্রায় কখনোই বলে না সামি'তু ইলাইহি, অর্থাৎ তার দিকে শুনলাম। বরং বলে তাসাম্মা'তু ইলাইহি, তার দিকে কান পাতলাম। আর আয়াতে আছে 'ইলা'। ফলে কুরতুবী যে অর্থকে সঠিক বলেন, তা দাঁড়িয়ে আছে একটি পাঠের ওপর। আর আবু উবাইদের পছন্দ দাঁড়িয়ে আছে অন্য পাঠের ওপর। দুটো পাঠই প্রতিষ্ঠিত, তাই দুই ব্যাখ্যাই এখানে পাশাপাশি থাকল। এ লেখা কোনোটিকে বেছে নেয় না। কোনোটিই আয়াতের মূল কথাটিকে দুর্বল করে না: শয়তানরা খালি হাতেই ফেরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Sits in the Upper Company",
+          "bn": "উচ্চ সভায় কারা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari takes al-mala' as a company, and glosses the phrase as the company of angels who are higher than those beneath them. Al-Qurtubi widens it: the people of the nearest heaven and all that lies above it, every one of them called higher in contrast with the company of the earth. Al-Baghawi first names the scribes among the angels, then says the exalted assembly are the angels because they are in the heaven, and that the meaning is that the devils are unable to listen to them. As-Sa'di says simply: they are the angels.",
+            "bn": "তাবারী মালা' শব্দের অর্থ নেন একটি দল, আর বাক্যাংশটির ব্যাখ্যা দেন এভাবে: ফেরেশতাদের সেই দল, যারা তাদের নিচের সবার চেয়ে উঁচুতে। কুরতুবী পরিধিটা বাড়ান। তাঁর মতে নিকটতম আসমান ও তার ওপরের সব বাসিন্দাই এতে পড়েন। জমিনের মানুষের দলের তুলনায় তাঁদের সবাইকে উচ্চতর বলা হয়েছে। বাগাভী প্রথমে নাম নেন ফেরেশতাদের মধ্যে যাঁরা লেখক, তাঁদের। তারপর বলেন, উচ্চতর সভা মানে ফেরেশতারা, কারণ তাঁরা আসমানে থাকেন। আর অর্থ হলো, শয়তানরা তাঁদের কথা শোনার সাধ্য রাখে না। সা'দী সংক্ষেপে বলেন: তাঁরা ফেরেশতা।"
+          },
+          {
+            "en": "Ibn Kathir and al-Muyassar give the same gloss in nearly the same words: the heavens and the angels in them, when they speak of what Allah reveals of His shar' and His qadar, His law and His decree. That detail matters. What the devils want is not the angels' company but their talk about what has been decreed. Qatada, in at-Tabari's chain, sums up the first clause in a single word: muni'uha, they were barred from it. All of them place the assembly among the angels above; only al-Baghawi first narrows it to the angels who write.",
+            "bn": "ইবন কাসীর আর মুয়াসসার প্রায় একই ভাষায় একই ব্যাখ্যা দেন: আসমানসমূহ আর সেখানকার ফেরেশতারা, যখন তাঁরা আল্লাহর ওহী করা শরীয়ত ও তাকদীর নিয়ে কথা বলেন। খুঁটিনাটিটা গুরুত্বপূর্ণ। শয়তানরা ফেরেশতাদের সঙ্গ চায় না, চায় ফয়সালা হয়ে যাওয়া বিষয় নিয়ে তাঁদের কথাবার্তা। তাবারীর সনদে কাতাদা প্রথম অংশটা এক শব্দে সারেন: মুনিঊহা, তাদের তা থেকে আটকে দেওয়া হয়েছে। সবাই সভাটিকে রাখেন ওপরের ফেরেশতাদের মধ্যে। শুধু বাগাভী প্রথমে একে লেখক ফেরেশতাদের মধ্যে সীমিত করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pelted From Every Quarter",
+          "bn": "চারদিক থেকে ছোড়া"
+        },
+        "p": [
+          {
+            "en": "Wa-yuqdhafuna min kulli janib: and they are pelted from every side. The verb is passive, and the thrower is not named. At-Tabari glosses it as they are thrown at from every side of the sides of the sky, and Qatada, in his chain, says with what: a pelting with flames, the shuhub. Mujahid, reached by two chains, explains from every side as from every place. Al-Qurtubi and al-Baghawi both add the flames to their gloss, and al-Baghawi places the sides at the horizons of the sky.",
+            "bn": "ওয়া ইউকযাফূনা মিন কুল্লি জানিব: আর চারদিক থেকে তাদের দিকে ছুড়ে মারা হয়। ক্রিয়াটি কর্মবাচ্যে, কে ছুড়ছে তার নাম নেই। তাবারী এর ব্যাখ্যা দেন: আকাশের সব দিকের প্রতিটি দিক থেকে তাদের দিকে ছোড়া হয়। কাতাদা তাঁর সনদে জানান, কী দিয়ে ছোড়া হয়: শিখা দিয়ে, যাকে বলে শুহুব। দুটি সনদে মুজাহিদ থেকে আসে, 'প্রতিটি দিক থেকে' মানে প্রতিটি জায়গা থেকে। কুরতুবী আর বাগাভী দুজনেই ব্যাখ্যায় শিখার কথা জুড়ে দেন। বাগাভী দিকগুলোকে রাখেন আকাশের দিগন্তে।"
+          },
+          {
+            "en": "Ibn Kathir reads every side from the devils' own angle: from every direction from which they aim for the sky. Wherever they set out from, that side is closed. Al-Muyassar adds the purpose, and so leans on the next word: they are stoned with flames from every direction to drive them away from listening, and in the next world theirs is a lasting, painful punishment. That purpose is duhuran, the first word of 37:9, which at-Tabari defines as pushing away and driving far off. It belongs to the next verse and is only pointed to here.",
+            "bn": "ইবন কাসীর 'প্রতিটি দিক' পড়েন শয়তানদের দিক থেকে: যেদিক দিয়েই তারা আকাশে পৌঁছাতে চায়, সেদিক থেকেই। তারা যেখান থেকেই রওনা দিক, সে পথ বন্ধ। মুয়াসসার উদ্দেশ্যটাও জুড়ে দেয়, আর এভাবে পরের শব্দের দিকে ঝোঁকে। চারদিক থেকে তাদের শিখা দিয়ে মারা হয়, যাতে শোনা থেকে তাদের তাড়ানো যায়। আর আখিরাতে তাদের জন্য আছে স্থায়ী, যন্ত্রণাদায়ক শাস্তি। এই উদ্দেশ্যই দুহূরান, ৩৭:৯ আয়াতের প্রথম শব্দ। তাবারী এর সংজ্ঞা দেন ঠেলে সরানো আর দূরে তাড়ানো। শব্দটা পরের আয়াতের, এখানে শুধু ইঙ্গিত করা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wings, Chains and Smooth Rock",
+          "bn": "ডানা, শিকল আর মসৃণ পাথর"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir quotes no hadith at this verse. He says the exalted assembly's speech was already explained in the hadiths he gave at 34:23, when fear is lifted from their hearts. At 34:23 he opens with al-Bukhari's own commentary on that verse, Sahih al-Bukhari 4800, narrated by Abu Hurayra (RA). So the report reaches this verse by Ibn Kathir's pointer, though al-Bukhari placed it under 34:23. Its opening, in the Dar-us-Salam English: \"When Allah decrees some order in the heaven, the angels flutter their wings indicating complete surrender to His saying which sounds like chains being dragged on rock.\"",
+            "bn": "ইবন কাসীর এ আয়াতে কোনো হাদীস উদ্ধৃত করেননি। তিনি বলেন, উচ্চতর সভার কথাবার্তার বিষয়টি আগেই ব্যাখ্যা হয়েছে সেসব হাদীসে, যা তিনি ৩৪:২৩ আয়াতে এনেছেন, যেখানে ফেরেশতাদের অন্তর থেকে ভয় সরে যাওয়ার কথা আছে। ৩৪:২৩ আয়াতে তিনি শুরু করেন সেই আয়াতের ওপর বুখারীর নিজের তাফসীর থেকে: সহীহ বুখারী ৪৮০০, আবু হুরাইরা (রাঃ)-এর বর্ণনা। ফলে বর্ণনাটি এ আয়াতে আসে ইবন কাসীরের ইঙ্গিত ধরে, যদিও বুখারী একে রেখেছেন ৩৪:২৩ আয়াতের অধীনে। তার শুরুটা এমন: আল্লাহ যখন আসমানে কোনো বিষয়ের ফয়সালা করেন, ফেরেশতারা তাঁর বাণীর সামনে পূর্ণ আনুগত্যে ডানা ঝাপটান। সেই বাণীর আওয়াজ যেন মসৃণ পাথরের ওপর দিয়ে টেনে নেওয়া শিকল।"
+          },
+          {
+            "en": "The rest of the report is given here in summary, not in its words. When the fear leaves the angels, they ask one another what their Lord has said, and answer: the truth. The stealthy listeners, stacked one above another, catch a word and pass it down until it reaches a sorcerer or a soothsayer. Sometimes a flame overtakes the listener before he can pass it on, and sometimes he passes it on first. The soothsayer then mixes a hundred lies with it, and people believe him because of the one word that was heard from heaven.",
+            "bn": "বর্ণনার বাকি অংশ এখানে হুবহু নয়, সংক্ষেপে বলা হলো। ফেরেশতাদের ভয় কেটে গেলে তাঁরা একে অপরকে জিজ্ঞেস করেন, তোমাদের রব কী বললেন। জবাব আসে: সত্য। চুরি করে শোনার দল একজনের ওপর আরেকজন সারি বেঁধে থাকে। তারা একটা কথা ধরে ফেলে আর নিচের দিকে চালান করতে থাকে, শেষে তা পৌঁছায় কোনো জাদুকর বা গণকের কাছে। কখনো কথাটা চালান করার আগেই শিখা তাকে ধরে ফেলে, কখনো সে আগেই চালান করে দেয়। গণক তার সঙ্গে একশো মিথ্যা মেশায়। আর আসমান থেকে শোনা ওই একটি কথার জোরে মানুষ তাকে সত্যবাদী মনে করে।"
+          },
+          {
+            "en": "Ibn Kathir also relays, from Ibn Jarir, a report from Ibn 'Abbas (RA) about the seats the devils once held in the sky and what changed when the Prophet ﷺ was sent. It is a Companion's report, not words of the Prophet ﷺ, and Ibn Kathir gives no grading for it here, so it is only mentioned. The sound account of the barrier at the start of the mission, Sahih al-Bukhari 4921, is given in this module's article on 26:210 and is not repeated here. The jinn's own telling of it is in 72:8 and 72:9.",
+            "bn": "ইবন কাসীর ইবন জারীর থেকে ইবন আব্বাস (রাঃ)-এর একটি বর্ণনাও আনেন। এতে আছে, আকাশে শয়তানদের একসময় বসার জায়গা ছিল, আর নবী ﷺ প্রেরিত হওয়ার পর কী বদলে গেল। এটা সাহাবীর বর্ণনা, নবী ﷺ-এর কথা নয়। ইবন কাসীর এখানে এর কোনো মান উল্লেখ করেননি, তাই শুধু উল্লেখটুকুই করা হলো। নবুওয়াতের শুরুতে যে বাধা পড়েছিল, তার সহীহ বিবরণ সহীহ বুখারী ৪৯২১। এই মডিউলে ২৬:২১০ আয়াতের লেখায় তা আছে, এখানে আবার আনা হলো না। জিনদের নিজেদের মুখে সেই ঘটনা আছে ৭২:৮ ও ৭২:৯ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not the Speech of Soothsayers",
+          "bn": "গণকের কথা নয়"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an sees two aims in naming the skies, the stars and the flames here. The first is Allah's Oneness: He alone made and runs so vast an order, so He alone deserves to be worshipped. The second answers those who took devils as objects of worship, by telling them that devils are the most accursed of creatures and have nothing to do with godhead. The same passage, it says, also answers those who belittled the revelation given to the Prophet ﷺ as no more than the predictions of soothsayers.",
+            "bn": "মাআরিফুল কুরআন এখানে আকাশ, তারকা আর শিখার উল্লেখে দুটি উদ্দেশ্য দেখে। প্রথমটি আল্লাহর একত্ব। এত বিশাল এক ব্যবস্থা তিনি একাই বানিয়েছেন, একাই চালান, তাই ইবাদতের হকদারও তিনি একা। দ্বিতীয়টি তাদের জবাব, যারা শয়তানকে উপাস্য বানিয়েছিল। তাদের জানিয়ে দেওয়া হলো, শয়তানরা সৃষ্টির মধ্যে সবচেয়ে অভিশপ্ত, ইলাহ হওয়ার মর্যাদার সঙ্গে তাদের কোনো সম্পর্ক নেই। মাআরিফ বলে, একই অংশে তাদেরও জবাব আছে, যারা নবী ﷺ-এর ওপর নাজিল হওয়া ওহীকে গণকের ভবিষ্যদ্বাণী বলে খাটো করত।"
+          },
+          {
+            "en": "Its argument runs like this. Soothsayers get all they have from devils, and the Qur'an says the devils have no access to the higher realm and cannot bring back the truth of the unseen. A book that says this about soothsaying cannot itself be soothsaying. So the verse points to Allah's Oneness and to the truth of the Prophet's ﷺ mission together. Ma'arif then turns to how Greek and later astronomers explained meteors. That discussion belongs to its own pages; this article draws no claim about science from the verse.",
+            "bn": "তার যুক্তিটা এমন। গণক যা কিছু পায়, সবই পায় শয়তানের কাছ থেকে। অথচ কুরআন বলছে, ওপরের জগতে শয়তানদের প্রবেশ নেই, গায়েবের সত্য খবর তারা নিয়ে আসতে পারে না। গণকদের সম্পর্কে যে কিতাব এ কথা বলে, সে কিতাব নিজে গণকের কথা হতে পারে না। এভাবে আয়াতটি একসঙ্গে আল্লাহর একত্ব আর নবী ﷺ-এর রিসালাতের সত্যতার দিকে ইঙ্গিত করে। এরপর মাআরিফ গ্রিক ও পরবর্তী জ্যোতির্বিদেরা উল্কাকে কীভাবে ব্যাখ্যা করেছেন, সে আলোচনায় যায়। সে আলোচনা তার নিজের পাতার বিষয়। এ লেখা আয়াত থেকে বিজ্ঞান নিয়ে কোনো দাবি দাঁড় করায় না।"
+          },
+          {
+            "en": "One plain note belongs here. The verse describes devils, a hidden creation, shut out from the heavens. It describes no human being and licenses nothing against any living person or community: not calling anyone a devil, and not accusing anyone of sorcery on suspicion. What it does give a reader is a reason not to trust what fortune-tellers claim. By the report above, even the one true word they pass on was stolen, and it reaches them wrapped in a hundred lies.",
+            "bn": "একটা কথা এখানে সোজাসুজি বলা দরকার। আয়াতটি শয়তানদের কথা বলছে, যারা চোখের আড়ালের এক সৃষ্টি, আসমান থেকে যাদের ঠেকিয়ে রাখা হয়েছে। কোনো মানুষের বর্ণনা এখানে নেই। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে আয়াতটি কোনো অনুমতি দেয় না। কাউকে শয়তান ডাকার অনুমতি নেই, সন্দেহের বশে কাউকে জাদুকর বলে অভিযোগ করারও নয়। পাঠককে আয়াতটি যা দেয়, তা হলো গণকের দাবিতে আস্থা না রাখার কারণ। ওপরের বর্ণনা অনুযায়ী, তারা যে একটি সত্য কথা চালান করে, সেটাও চুরি করা। আর তা তাদের কাছে পৌঁছায় একশো মিথ্যায় মোড়া হয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ears Kept Like the Sky",
+          "bn": "আকাশের মতো কানেও পাহারা"
+        },
+        "p": [
+          {
+            "en": "For a reader, the verse draws a boundary around knowledge. What Allah decrees is spoken of above, and no creature climbs to it by cleverness or rebellion. Whatever reaches us of the unseen reaches us through revelation, carried down by the trustworthy Spirit, as 26:193 puts it. That frees a believer from chasing omens, horoscopes and palm-readers, and from the fear that someone else knows his future better than his Lord does. It also asks for humility: some things are simply not ours to know.",
+            "bn": "পাঠকের জন্য আয়াতটি জ্ঞানের চারপাশে একটা সীমারেখা টেনে দেয়। আল্লাহ যা ফয়সালা করেন, তার আলোচনা হয় ওপরে। চালাকি বা নাফরমানি করে কোনো সৃষ্টি সেখানে উঠতে পারে না। গায়েবের যা কিছু আমাদের কাছে পৌঁছায়, পৌঁছায় ওহীর মাধ্যমে, বিশ্বস্ত রূহ তা নিয়ে নামেন, যেমন ২৬:১৯৩ আয়াত বলে। এতে মুমিন মুক্তি পান কুলক্ষণ, রাশিফল আর হাত দেখার পেছনে ছোটা থেকে। মুক্তি পান এই ভয় থেকেও যে তাঁর ভবিষ্যৎ তাঁর রবের চেয়ে অন্য কেউ ভালো জানে। আয়াতটি বিনয়ও চায়: কিছু বিষয় জানা আমাদের কাজই নয়।"
+          },
+          {
+            "en": "It also sets a test for what we hear. The report under 34:23 shows a pattern: one true word made to carry a hundred false ones, and believed because of that one. Rumours, prophecies and confident predictions still travel that way. Before passing on a claim about what is hidden, ask where it came from, and whether anything but revelation could have carried it so far. A sky guarded on every side is a reason to keep a guard on one's own ears, and on one's tongue as well.",
+            "bn": "আয়াতটি আমাদের শোনা কথার জন্য একটা পরীক্ষাও ঠিক করে দেয়। ৩৪:২৩ আয়াতের অধীনের বর্ণনাটি একটা ধরন দেখায়। একটা সত্য কথার ঘাড়ে চাপানো হয় একশো মিথ্যা, আর ওই একটার জোরেই সব বিশ্বাস করা হয়। গুজব, ভবিষ্যদ্বাণী আর জোর গলার অনুমান আজও এভাবেই ছড়ায়। গোপন কোনো বিষয়ে কোনো দাবি অন্যকে বলার আগে জিজ্ঞেস করুন, কথাটা এল কোথা থেকে। ওহী ছাড়া আর কিছু কি তা এত দূর বয়ে আনতে পারে? যে আকাশ চারদিক থেকে পাহারায় ঘেরা, তা আমাদের মনে করিয়ে দেয় নিজের কানেও পাহারা বসাতে, জিহ্বাতেও।"
+          }
+        ]
+      }
+    ]
+  },
   "37:11": {
     "sections": [
       {
