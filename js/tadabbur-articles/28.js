@@ -2967,6 +2967,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "28:64": {
+    "sections": [
+      {
+        "h": {
+          "en": "Left Alone With the Partners",
+          "bn": "শরীকদের সঙ্গে একা"
+        },
+        "p": [
+          {
+            "en": "Surah al-Qasas has carried its listener to the Day of Resurrection. In 28:62 Allah calls the idolaters and asks: where are My partners whom you used to claim? Ibn Kathir's abridged English calls the question a rebuke and a warning: where are the idols and rivals you worshipped, and can they help you or save you? In 28:63 those upon whom the word has come true speak first, and Ibn Kathir identifies them as the devils, the evil jinn and those who used to call people to disbelief.",
+            "bn": "সূরা কাসাস শ্রোতাকে নিয়ে গেছে কিয়ামতের দিনে। ২৮:৬২ আয়াতে আল্লাহ মুশরিকদের ডেকে জিজ্ঞেস করেন: তোমরা যাদের আমার শরীক বলে দাবি করতে, তারা কোথায়? ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর এই প্রশ্নকে বলে ধমক আর সতর্কবাণী। অর্থাৎ দুনিয়ায় যেসব মূর্তি আর প্রতিদ্বন্দ্বীর ইবাদত করতে, তারা কোথায়? তারা কি তোমাদের সাহায্য করতে পারে, বাঁচাতে পারে? ২৮:৬৩ আয়াতে প্রথমে মুখ খোলে তারা, যাদের উপর আল্লাহর কথা সত্য হয়ে গেছে। ইবন কাসীর তাদের চিহ্নিত করেন শয়তান, দুষ্ট জিন আর কুফরের দিকে আহ্বানকারীদের দল হিসেবে।"
+          },
+          {
+            "en": "Their answer is a disowning. We led these astray as we ourselves went astray, they say; we declare ourselves clear of them before You; it was not us they worshipped. Ma'arif al-Qur'an, reading the passage as a whole, draws the conclusion: whoever follows those who would put him on the wrong path, by his own choice, while clear arguments stand before him, has no excuse to offer. Verse 28:64 opens at exactly this point. The leaders have walked away, and the followers are left with the partners alone.",
+            "bn": "তাদের জবাব আসলে দায় ঝেড়ে ফেলা। তারা বলে: এদের আমরা পথভ্রষ্ট করেছি, যেমন আমরা নিজেরাও পথভ্রষ্ট হয়েছিলাম। তোমার সামনে আমরা এদের থেকে সম্পর্কহীন ঘোষণা করছি। এরা তো আমাদের ইবাদত করত না। মাআরিফুল কুরআন গোটা অংশটি একসঙ্গে পড়ে সিদ্ধান্ত টানে: সামনে স্পষ্ট দলিল থাকা সত্ত্বেও কেউ যদি নিজের ইচ্ছায় ভুল পথে নিতে চাওয়া লোকদের অনুসরণ করে, তার পেশ করার মতো কোনো ওজর থাকে না। ২৮:৬৪ আয়াত শুরু হয় ঠিক এখান থেকে। নেতারা সরে পড়েছে। অনুসারীদের হাতে রইল শুধু সেই শরীকরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Call Them to Save You",
+          "bn": "বাঁচাতে ডাকো ওদের"
+        },
+        "p": [
+          {
+            "en": "Wa-qila ud'u shuraka'akum: and it will be said, call your partners. The verb is passive, and none of the fetched commentators names who says it. At-Tabari simply addresses it to those who took gods and rivals besides Allah in the world: call your partners, those you used to call on besides Allah. Notice the possessive. In 28:62 they were My partners, carrying the qualifier whom you used to claim, which Ibn Kathir's English renders My (so-called) partners. Here they are named simply as theirs.",
+            "bn": "ওয়া কীলাদ'ঊ শুরাকা-আকুম: আর বলা হবে, তোমাদের শরীকদের ডাকো। ক্রিয়াটি কর্মবাচ্যে, কে বলবে তা আমাদের পড়া কোনো তাফসীরেই নেই। তাবারী শুধু জানান, কথাটি তাদের উদ্দেশে, যারা দুনিয়ায় আল্লাহর পাশাপাশি নানা উপাস্য ও প্রতিদ্বন্দ্বী দাঁড় করিয়েছিল: আল্লাহকে ছেড়ে যাদের তোমরা ডাকতে, সেই শরীকদের ডাকো। সম্বন্ধপদটা লক্ষ করুন। ২৮:৬২ আয়াতে তারা ছিল 'আমার শরীক', সঙ্গে জোড়া কথাটুকু: যাদের তোমরা দাবি করতে। ইবন কাসীরের ইংরেজি এর অনুবাদ করে 'আমার তথাকথিত শরীক'। এখানে তাদের নাম সোজাসুজি: তোমাদের শরীক।"
+          },
+          {
+            "en": "Why call them? Ibn Kathir answers: so that they may rescue you from what you are in, as you used to hope from them in the worldly abode. Al-Baghawi names them as the idols and gives the same purpose: to rescue you from the punishment. Al-Qurtubi glosses the verb itself. Ud'u here means istaghithu: cry out for help to the gods you worshipped in the world, so that they come to your aid and defend you. On all three readings the call is a cry for rescue, the same rescue the worshippers once expected.",
+            "bn": "ডাকতে বলা হচ্ছে কেন? ইবন কাসীর বলেন: যে অবস্থায় তোমরা আছ, তা থেকে যেন তারা তোমাদের উদ্ধার করে, যেমনটা দুনিয়ায় তোমরা তাদের কাছে আশা করতে। বাগাভী তাদের পরিচয় দেন মূর্তি হিসেবে, উদ্দেশ্যও বলেন একই: শাস্তি থেকে তোমাদের মুক্ত করুক। কুরতুবী ব্যাখ্যা করেন ক্রিয়াটিকেই। এখানে উদ'ঊ মানে ইসতাগীসূ, অর্থাৎ দুনিয়ায় যে উপাস্যদের ইবাদত করেছ, সাহায্যের জন্য তাদের কাছে আর্তনাদ করো, যেন তারা তোমাদের পক্ষ নেয় আর রক্ষা করে। তিনটি ব্যাখ্যাতেই ডাকটা উদ্ধারের আকুতি। ঠিক সেই উদ্ধার, যা উপাসকেরা একদিন তাদের কাছে আশা করত।"
+          },
+          {
+            "en": "As-Sa'di adds the hour in which it happens. They are told to call on them, he writes, in keeping with the benefit they had hoped for from them, and they are commanded to do so in that hard moment, al-waqt al-harij, when a worshipper is forced to turn to the very thing he worshipped. They call on them, he continues, so that the partners might benefit them or ward off from them some part of Allah's punishment. On his reading, the hope of a lifetime is put to the test at the very moment it was meant for.",
+            "bn": "সা'দী যোগ করেন ঘটনাটার সময়। তিনি লেখেন, তাদের কাছে যে উপকার আশা করত, সেই আশা অনুযায়ীই তাদের ডাকতে বলা হয়। আদেশটা আসে সেই কঠিন মুহূর্তে, আল-ওয়াকতুল হারিজ, যখন উপাসক বাধ্য হয়ে ফিরে যায় তার উপাস্যের কাছে। তিনি আরও বলেন, তারা ডাকে যাতে শরীকরা তাদের কোনো উপকার করে, কিংবা আল্লাহর শাস্তির কিছুটা হলেও তাদের থেকে সরিয়ে দেয়। তাঁর ব্যাখ্যায় সারাজীবনের আশাটা পরীক্ষায় পড়ে ঠিক সেই মুহূর্তে, যে মুহূর্তের জন্যই সেই আশা পুষে রাখা হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Voice Comes Back",
+          "bn": "ওপাশ থেকে কোনো সাড়া নেই"
+        },
+        "p": [
+          {
+            "en": "Fa-da'awhum fa-lam yastajibu lahum: so they call them, and they do not respond to them. At-Tabari's gloss is brief: they did not answer them. Al-Qurtubi gives the verb two layers: they did not answer them, and the callers drew no benefit from them. Since he has already read the calling as istighatha, a cry for help, his picture is of people crying out and hearing nothing. The verse gives the partners no words of refusal at all. It records only that no reply came.",
+            "bn": "ফাদা'আওহুম ফালাম ইয়াসতাজীবূ লাহুম: তারা তাদের ডাকবে, কিন্তু ওরা তাদের ডাকে সাড়া দেবে না। তাবারীর ব্যাখ্যা ছোট্ট: ওরা তাদের জবাব দেয়নি। কুরতুবী ক্রিয়াটির দুটি স্তর দেখান। ওরা জবাব দেয়নি, আর যারা ডেকেছিল তারাও ওদের থেকে কোনো উপকার পায়নি। ডাকটাকে তিনি আগেই ইসতিগাসা, মানে সাহায্যের আর্তনাদ বলে ব্যাখ্যা করেছেন। তাই তাঁর ছবিতে মানুষ চিৎকার করে ডাকছে, অথচ কিছুই শুনছে না। আয়াত শরীকদের মুখে প্রত্যাখ্যানের কোনো কথাও দেয়নি। শুধু জানিয়েছে, কোনো জবাব আসেনি।"
+          },
+          {
+            "en": "As-Sa'di reads what the silence teaches the callers. When no answer came, he says, those who disbelieved knew that they had been liars, deserving of the punishment. Ibn Kathir, explaining 28:63 in the grouped English on 28:62 to 28:67, sets the passage beside 46:5 and 46:6: who is more astray than anyone who calls, besides Allah, on those who will not answer him until the Day of Resurrection and are unaware of his calling; and when people are gathered, those called on become their enemies and deny their worship.",
+            "bn": "নীরবতা ডাকনেওয়ালাদের কী শেখায়, সা'দী তা পড়েন। তিনি বলেন, কোনো জবাব না আসায় কাফিররা বুঝে গেল, তারা মিথ্যাবাদী ছিল এবং শাস্তিরই যোগ্য। ২৮:৬২ থেকে ২৮:৬৭ পর্যন্ত একসঙ্গে আলোচনা করা ইংরেজি তাফসীরে ২৮:৬৩ ব্যাখ্যা করতে গিয়ে ইবন কাসীর এ অংশকে রাখেন ৪৬:৫ ও ৪৬:৬ আয়াতের পাশে। সেখানে বলা হয়েছে, তার চেয়ে বেশি পথভ্রষ্ট কে, যে আল্লাহকে ছেড়ে এমন কাউকে ডাকে, যারা কিয়ামত পর্যন্ত তার ডাকে সাড়া দেবে না, তার ডাকের খবরও রাখে না? আর মানুষকে যখন একত্র করা হবে, তখন সেই উপাস্যরাই হবে তাদের শত্রু, অস্বীকার করবে তাদের ইবাদত।"
+          },
+          {
+            "en": "No fetched commentary attaches a hadith to this verse. A narration on the same theme, not attached to 28:64, is in Sahih al-Bukhari (4497). 'Abdullah narrates: \"The Prophet ﷺ said one statement and I said another. The Prophet ﷺ said: Whoever dies while still invoking anything other than Allah as a rival to Allah will enter the Fire. And I said: Whoever dies without invoking anything as a rival to Allah will enter Paradise.\" Its verb for invoking, yad'u, is the verb of the command in this verse, ud'u, call.",
+            "bn": "আমাদের পড়া কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। একই বিষয়ের একটি বর্ণনা সহীহ বুখারীতে আছে (৪৪৯৭), যা ২৮:৬৪ আয়াতের সঙ্গে যুক্ত নয়। আবদুল্লাহ বর্ণনা করেন: \"নবী ﷺ একটি কথা বললেন, আর আমি বললাম আরেকটি। নবী ﷺ বললেন: যে ব্যক্তি আল্লাহ ছাড়া অন্য কিছুকে আল্লাহর প্রতিদ্বন্দ্বী হিসেবে ডাকতে ডাকতে মারা যায়, সে জাহান্নামে প্রবেশ করবে। আর আমি বললাম: যে ব্যক্তি আল্লাহর কোনো প্রতিদ্বন্দ্বীকে না ডেকে মারা যায়, সে জান্নাতে প্রবেশ করবে।\" হাদীসে ডাকার ক্রিয়াটি ইয়াদ'ঊ। এ আয়াতের আদেশ উদ'ঊ, ডাকো, সেই একই ক্রিয়া থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Denied Once, Now Beheld",
+          "bn": "একদিন অস্বীকার, আজ চোখের সামনে"
+        },
+        "p": [
+          {
+            "en": "Wa-ra'awu al-'adhab: and they see the punishment. At-Tabari glosses the seeing with a stronger verb, 'ayanu al-'adhab: they beheld the punishment face to face. The Muyassar uses the same word. Ibn Kathir reads the seeing as knowledge rather than sight alone: they became certain that they are going to the Fire, la mahala, with no way around it. His English abridgement keeps the same sense: they will realise for sure that they are inevitably destined for the Fire. Each of these readings puts the punishment in front of them, past any doubt.",
+            "bn": "ওয়া রা-আউল আযাব: আর তারা শাস্তি দেখবে। তাবারী দেখাটা ব্যাখ্যা করেন আরও জোরালো ক্রিয়া দিয়ে, আ-য়ানুল আযাব: তারা শাস্তিকে সামনাসামনি প্রত্যক্ষ করল। মুয়াসসারও একই শব্দ ব্যবহার করে। ইবন কাসীর দেখাকে শুধু চোখের দেখা নয়, জানার অর্থে পড়েন: তারা নিশ্চিত হয়ে গেল যে তারা জাহান্নামের দিকেই যাচ্ছে, লা মাহালা, এর কোনো বিকল্প নেই। তাঁর সংক্ষিপ্ত ইংরেজি তাফসীরও একই কথা বলে: তারা নিশ্চিত বুঝবে, আগুনই তাদের অনিবার্য ঠিকানা। প্রতিটি ব্যাখ্যায় শাস্তি এসে দাঁড়ায় তাদের সামনে, সব সন্দেহের ওপারে।"
+          },
+          {
+            "en": "As-Sa'di draws out the reversal. They see the punishment that is about to come down on them, 'iyanan, with their own eyes, he writes, after they had denied it and rejected it. What was once dismissed as a report now stands as sight. Ibn Kathir pairs the scene with a verse from al-Kahf, which he quotes in full in his Arabic: and the criminals see the Fire and realise that they are about to fall into it, and they find no way to turn from it (18:53). Both scenes rest on the same certainty.",
+            "bn": "উল্টে যাওয়াটা সা'দী স্পষ্ট করে দেন। তিনি লেখেন, যে শাস্তি তাদের উপর নেমে আসছে, তা তারা দেখে ইয়ানান, নিজেদের চোখে। অথচ আগে তারা একে মিথ্যা বলেছিল, অস্বীকার করেছিল। একদিন যা খবর বলে উড়িয়ে দেওয়া হয়েছিল, আজ তা চোখের সামনে। ইবন কাসীর এ দৃশ্যের পাশে রাখেন সূরা কাহফের একটি আয়াত, তাঁর আরবি তাফসীরে পুরোটাই উদ্ধৃত: অপরাধীরা আগুন দেখবে, বুঝবে যে তাতে পড়তেই হবে, আর তা থেকে ফেরার কোনো পথ পাবে না (১৮:৫৩)। দুই দৃশ্যের ভিতেই একই নিশ্চয়তা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Condition Without Its Answer",
+          "bn": "জবাবহীন এক শর্ত"
+        },
+        "p": [
+          {
+            "en": "Then the verse closes: law annahum kanu yahtadun, if only they had been guided. A conditional law normally carries a second clause, then this would have happened, and here none is spoken. Al-Qurtubi reports az-Zajjaj on the point: the answer of law is omitted, jawab law mahdhuf. Al-Baghawi says the same in nearly the same words. The commentators then supply the missing half themselves, and they do not all supply the same one. Three of them agree; a further reading, reported without a name, goes another way.",
+            "bn": "তারপর আয়াতের শেষ: লাও আন্নাহুম কানূ ইয়াহতাদূন, যদি তারা হেদায়াত পেত! 'লাও' দিয়ে শুরু শর্তবাক্যে সাধারণত দ্বিতীয় একটা অংশ থাকে: তাহলে এমনটা হতো। এখানে সেই অংশটা বলা হয়নি। কুরতুবী এ বিষয়ে যাজ্জাজের কথা উদ্ধৃত করেন: 'লাও'-এর জবাব উহ্য, জাওয়াবু লাও মাহযূফ। বাগাভীও প্রায় একই ভাষায় একই কথা বলেন। এরপর তাফসীরকারেরা হারানো অংশটা নিজেরাই পূরণ করেন, তবে সবাই একইভাবে নয়। তিনজন একমত। আরেকটি ব্যাখ্যা, যার বক্তার নাম দেওয়া হয়নি, যায় ভিন্ন দিকে।"
+          },
+          {
+            "en": "Az-Zajjaj's completion, as al-Qurtubi gives it: if they had been guided, the guidance would have saved them, and they would not have ended up at the punishment. Al-Baghawi's: if they had been guided in the world, they would not have seen the punishment. The Muyassar folds the answer into its paraphrase: had they been guided to the truth in the world, they would not have been punished. The three agree in substance. The unspoken half of the sentence is a punishment that would never have come.",
+            "bn": "কুরতুবীর বর্ণনায় যাজ্জাজের পূরণ এমন: তারা হেদায়াত পেলে সেই হেদায়াতই তাদের বাঁচিয়ে দিত, শাস্তি পর্যন্ত তাদের পৌঁছাতে হতো না। বাগাভীর পূরণ: দুনিয়ায় তারা হেদায়াত পেলে শাস্তি দেখত না। মুয়াসসার জবাবটা ব্যাখ্যার ভেতরেই গুঁজে দেয়: দুনিয়ায় সত্যের হেদায়াত পেলে তাদের শাস্তি হতো না। সারকথায় তিনজন একই কথা বলছেন। বাক্যের না-বলা অংশটা হলো এমন এক শাস্তি, যা কখনো আসতই না।"
+          },
+          {
+            "en": "Al-Qurtubi records a second completion, introduced only with qila, it has been said: if they had been guided, they would not have called on them, the partners. On this reading the unspoken half points back to the calling itself. Guided people would never have stood in that place, crying out to idols for rescue. Al-Qurtubi names no one for it and does not choose between it and az-Zajjaj's reading. Both are kept here as he leaves them, side by side.",
+            "bn": "কুরতুবী আরেকটি পূরণ উল্লেখ করেন, শুধু 'কীলা', অর্থাৎ 'বলা হয়েছে' দিয়ে শুরু করে: তারা হেদায়াত পেলে ওদের ডাকত না, মানে শরীকদের। এ ব্যাখ্যায় না-বলা অংশটা ফিরে যায় ডাকার কাজটার দিকেই। হেদায়াতপ্রাপ্ত মানুষ কখনো সেখানে দাঁড়িয়ে উদ্ধারের জন্য মূর্তির কাছে আর্তনাদ করত না। কুরতুবী এর কোনো বক্তার নাম দেন না, যাজ্জাজের ব্যাখ্যা আর এটির মধ্যে কোনোটিকে বেছেও নেন না। এখানেও দুটিকে রাখা হলো যেভাবে তিনি রেখেছেন, পাশাপাশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Or a Wish That Came Late",
+          "bn": "নাকি দেরিতে জাগা আকাঙ্ক্ষা"
+        },
+        "p": [
+          {
+            "en": "Another way of reading law treats it not as a condition with a hidden answer but as a wish. At-Tabari takes this route: fa-waddu, they wished, when they saw the punishment, that they had been guided to the truth in the world. Ibn Kathir says the same in almost the same words: they wished, when they beheld the punishment, that they had been among the guided in the worldly abode. Al-Qurtubi gives this as a third reading, again under qila: they wish, when they see the punishment on the Day of Resurrection, that they had been guided in the world.",
+            "bn": "'লাও'-কে পড়ার আরেকটি ধরন আছে: উহ্য জবাবওয়ালা শর্ত হিসেবে নয়, আকাঙ্ক্ষা হিসেবে। তাবারী এ পথ ধরেন: ফাওয়াদ্দূ, শাস্তি দেখে তারা কামনা করল, হায়, দুনিয়ায় যদি সত্যের হেদায়াত পেতাম! ইবন কাসীরও প্রায় একই শব্দে একই কথা বলেন: শাস্তি প্রত্যক্ষ করে তারা কামনা করল, দুনিয়ার জীবনে যদি হেদায়াতপ্রাপ্তদের দলে থাকত! কুরতুবী এটিকে তৃতীয় ব্যাখ্যা হিসেবে আনেন, এবারও 'কীলা' দিয়ে: কিয়ামতের দিন শাস্তি দেখে তারা কামনা করবে, দুনিয়ায় যদি হেদায়াত পেত।"
+          },
+          {
+            "en": "So the commentators divide over the grammar. Az-Zajjaj and al-Baghawi supply a hidden answer; at-Tabari and Ibn Kathir read a wish; al-Qurtubi lays out both, with the further completion between them, and ranks none. The difference is kept here as a difference. Yet the readings share one thing: wherever they name a time for the guidance, they place it fi ad-dunya, in this world. At-Tabari, Ibn Kathir, al-Baghawi, the Muyassar, as-Sa'di and al-Qurtubi's wish reading all say so. The wish is made on the Day, but the guidance it longs for belonged to the life before.",
+            "bn": "অর্থাৎ ব্যাকরণের প্রশ্নে তাফসীরকারেরা ভাগ হয়ে যান। যাজ্জাজ ও বাগাভী উহ্য জবাব পূরণ করেন, তাবারী ও ইবন কাসীর পড়েন আকাঙ্ক্ষা হিসেবে। কুরতুবী দুটিই তুলে ধরেন, মাঝে আরেকটি পূরণসহ, কোনোটিকে প্রাধান্য দেন না। মতভেদটা এখানে মতভেদ হিসেবেই রইল। তবু সব ব্যাখ্যার মধ্যে একটা মিল আছে। হেদায়াতের সময় যেখানেই উল্লেখ হয়েছে, তা রাখা হয়েছে ফিদ দুনিয়া, এই দুনিয়ায়। তাবারী, ইবন কাসীর, বাগাভী, মুয়াসসার, সা'দী আর কুরতুবীর আকাঙ্ক্ষাভিত্তিক ব্যাখ্যা, সবাই তা-ই বলে। আকাঙ্ক্ষাটা জাগে কিয়ামতের দিন, অথচ যে হেদায়াতের জন্য আফসোস, তার সময় ছিল আগের জীবনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guided There If Guided Here",
+          "bn": "এখানে পথ পেলে, ওখানেও পথ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di completes law in his own way, and his completion has two halves. Had they been guided, what befell them would not have befallen them; and they would have been guided to the path of Paradise, just as they would have been guided in the world. Then he ends with a line whose repetition carries the point: wa-lakin lam yahtadu, fa-lam yahtadu, but they were not guided, so they were not guided. On his reading, guidance on the Day continues the guidance taken before it.",
+            "bn": "সা'দী 'লাও'-এর জবাব পূরণ করেন নিজের মতো করে, আর তাঁর পূরণের দুটি অংশ। তারা হেদায়াত পেলে তাদের উপর যা এসে পড়েছে তা আসত না। আর দুনিয়ায় যেমন সঠিক পথ পেত, তেমনি জান্নাতের পথও পেয়ে যেত। তারপর এমন এক বাক্যে তিনি শেষ করেন, যার পুনরাবৃত্তিতেই কথাটা ধরা: ওয়ালাকিন লাম ইয়াহতাদূ, ফালাম ইয়াহতাদূ। কিন্তু তারা পথ পায়নি, তাই পথ পেল না। তাঁর ব্যাখ্যায় সেদিনের পথ পাওয়া আসলে আগের জীবনে পাওয়া পথেরই ধারাবাহিকতা।"
+          },
+          {
+            "en": "The surah does not end the scene on that silence. In 28:65 the question turns to what answer they gave the messengers, and 28:67 turns to whoever repented, believed and did good. Ma'arif al-Qur'an, whose commentary takes 28:61 to 28:67 together, has the misleaders plead that the prophets and their deputies had guided people to the right path with sound arguments, making the truth crystal clear, and that the followers rejected it of their own free will. Ma'arif accepts the plea's point. The guidance named in the last clause of 28:64, on that account, had already been delivered.",
+            "bn": "সূরাটি দৃশ্যটাকে এই নীরবতায় শেষ করে না। ২৮:৬৫ আয়াতে প্রশ্ন ঘুরে যায়: রাসূলদের তোমরা কী জবাব দিয়েছিলে? আর ২৮:৬৭ আয়াত ফেরে তার দিকে, যে তওবা করেছে, ঈমান এনেছে, নেক আমল করেছে। মাআরিফুল কুরআন ২৮:৬১ থেকে ২৮:৬৭ পর্যন্ত একসঙ্গে আলোচনা করে। সেখানে পথভ্রষ্টকারীরা আত্মপক্ষে বলে: নবীরা ও তাঁদের প্রতিনিধিরা মজবুত দলিল দিয়ে মানুষকে সঠিক পথ দেখিয়েছিলেন, সত্যকে একেবারে পরিষ্কার করে দিয়েছিলেন। অনুসারীরাই নিজেদের স্বাধীন ইচ্ছায় তা প্রত্যাখ্যান করেছে। মাআরিফ এই যুক্তির সারকথা মেনে নেয়। সে হিসাবে ২৮:৬৪ আয়াতের শেষ অংশে যে হেদায়াতের কথা, তা আগেই পৌঁছে দেওয়া হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Scene, Told Twice",
+          "bn": "এক দৃশ্য, দুবার বলা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, in both his Arabic and the English abridgement, points to al-Kahf. There Allah says on that Day: call My partners whom you claimed; and they call them, and they do not respond to them, and a place of ruin, a mawbiq, is set between them (18:52). The middle of that verse, fa-da'awhum fa-lam yastajibu lahum, is word for word the middle of this one. In ash-Shu'ara' the same scene opens with the same passive, wa-qila: where is what you used to worship besides Allah (26:92).",
+            "bn": "ইবন কাসীর তাঁর আরবি তাফসীরে আর সংক্ষিপ্ত ইংরেজিতে, দুই জায়গাতেই সূরা কাহফের দিকে ইঙ্গিত করেন। সেখানে আল্লাহ সেদিন বলবেন: যাদের তোমরা আমার শরীক মনে করতে, তাদের ডাকো। তারা ডাকবে, কিন্তু ওরা সাড়া দেবে না, আর তাদের মাঝে রেখে দেওয়া হবে এক ধ্বংস-গহ্বর, মাওবিক (১৮:৫২)। ওই আয়াতের মাঝের অংশ, ফাদা'আওহুম ফালাম ইয়াসতাজীবূ লাহুম, হুবহু এ আয়াতেরও মাঝের অংশ। সূরা শু'আরায় একই দৃশ্য শুরু হয় একই কর্মবাচ্য দিয়ে, ওয়া কীলা: আল্লাহকে ছেড়ে যাদের ইবাদত করতে, তারা কোথায় (২৬:৯২)?"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what it describes: people on the Day of Resurrection who had called on partners besides Allah, and the silence that met them. It names no living person and no community today, and it licenses nothing against anyone, whether a verdict on a neighbour, a label for another people, or harm of any kind. Its last clause is a sigh over guidance missed in this world. Read now, while this world still lasts, it asks the reader one thing: whom do I call when I am pressed?",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: কিয়ামতের দিন সেই মানুষেরা, যারা আল্লাহকে ছেড়ে শরীকদের ডাকত, আর যে নীরবতা তাদের ফিরিয়ে দিল। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের নাম এতে নেই। কারও বিরুদ্ধে কোনো কিছুর অনুমতিও এ আয়াত দেয় না: প্রতিবেশীর ব্যাপারে রায় দেওয়া নয়, অন্য কোনো জাতির গায়ে তকমা লাগানো নয়, কোনো রকম ক্ষতি করা নয়। এর শেষ অংশটা দুনিয়ায় হারানো হেদায়াতের জন্য এক দীর্ঘশ্বাস। দুনিয়া যতদিন আছে, ততদিন আয়াতটি পাঠককে একটাই প্রশ্ন করে: বিপদে পড়লে আমি কাকে ডাকি?"
+          }
+        ]
+      }
+    ]
+  },
   "28:67": {
     "sections": [
       {

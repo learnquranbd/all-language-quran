@@ -36013,6 +36013,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold firmly to the truth you have and accept more of it when it comes. Answer harm with good, and spend from what Allah has given you.",
     "lessonBn": "যে সত্য আপনার কাছে আছে তা শক্ত করে ধরে রাখুন, আরও সত্য এলে মেনে নিন। মন্দের জবাব দিন ভালো দিয়ে, আর আল্লাহর দেওয়া রিযিক থেকে খরচ করুন।"
+  },
+  "28:64": {
+    "reflectionEn": "The Day has already asked where the partners are, and the ones who misled have disowned those who followed them. Now comes a plain instruction: call them. It is the hour when a worshipper is driven back to whatever he worshipped, and the call goes out to everything once trusted to rescue. No answer comes. In place of help, the punishment comes into view, seen with open eyes. Then the verse ends on a sentence left unfinished: if only they had been guided. The guidance it means was offered in this life, where it could still be taken. So the verse reaches me before that Day: whom do I call when I am pressed, and would it answer?",
+    "reflectionBn": "সেদিন প্রশ্ন আগেই উঠে গেছে, শরীকরা কোথায়? যারা পথভ্রষ্ট করেছিল, তারা অনুসারীদের দায় ঝেড়ে ফেলেছে। এবার আসে সোজা এক আদেশ: ওদের ডাকো। এমন সময়, যখন উপাসক বাধ্য হয়ে ফিরে যায় তার উপাস্যের কাছেই। যাদের উপর একদিন বাঁচানোর ভরসা ছিল, সবাইকে ডাকা হয়। কোনো সাড়া আসে না। সাহায্যের বদলে চোখের সামনে ভেসে ওঠে শাস্তি, খোলা চোখে দেখা। তারপর আয়াত থেমে যায় এক অসমাপ্ত বাক্যে: হায়, তারা যদি হেদায়াত পেত! যে হেদায়াতের কথা, তা দেওয়া হয়েছিল এই জীবনেই, যখন তা নেওয়া যেত। তাই সেদিনের আগেই আয়াতটি আমার কাছে পৌঁছায়: বিপদে পড়লে আমি কাকে ডাকি? আর সে কি সাড়া দেবে?",
+    "pointsEn": [
+      "When I am pressed hard, what is the first thing I turn to, and has it ever truly answered me?",
+      "What do I lean on today, money, people or position, as if it could rescue me, and what would it do for me on that Day?",
+      "Which guidance have I already been shown and left for later, as though the time to take it will always be there?",
+      "If my life closed on an unfinished sentence, what would my own 'if only' be?",
+      "Do I read this verse as a story about others, or as a warning sent to me while I can still act on it?"
+    ],
+    "pointsBn": [
+      "কঠিন চাপে পড়লে আমি প্রথমে কার দিকে ফিরি? সে কি কখনো সত্যিই আমার ডাকে সাড়া দিয়েছে?",
+      "টাকা, মানুষ, পদ, আজ কিসের উপর আমি এমনভাবে ভর দিই যেন সেটাই আমাকে বাঁচাবে? সেদিন সে আমার কী কাজে আসবে?",
+      "কোন হেদায়াত আমাকে আগেই দেখানো হয়েছে, অথচ পরে ধরব বলে ফেলে রেখেছি, যেন সময় সবসময় হাতে থাকবে?",
+      "আমার জীবন যদি এক অসমাপ্ত বাক্যে শেষ হয়, আমার নিজের 'হায়, যদি' কথাটা কী হবে?",
+      "আয়াতটিকে কি আমি অন্যদের গল্প হিসেবে পড়ি, নাকি আমার কাছে পাঠানো সতর্কবাণী হিসেবে, যখন এখনো আমল করার সময় আছে?"
+    ],
+    "lessonEn": "Call on Allah alone now, while guidance can still be taken, because on that Day every other refuge will be called and none will answer.",
+    "lessonBn": "এখনই, যখন হেদায়াত গ্রহণের সময় আছে, শুধু আল্লাহকেই ডাকুন। কারণ সেদিন অন্য সব আশ্রয়কে ডাকা হবে, কেউ সাড়া দেবে না।"
   }
 };
 
