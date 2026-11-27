@@ -3515,6 +3515,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:69": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Order After Reassurance",
+          "bn": "অভয়ের পরেই হুকুম"
+        },
+        "p": [
+          {
+            "en": "The magicians had thrown first at Musa's (AS) own word, and their ropes and staffs were made to seem to him to be moving (20:66). He sensed a fear within himself (20:67), and Allah said: do not fear, it is you who are uppermost (20:68). This verse completes that speech; its opening wa joins a command to the reassurance. Ibn Kathir, in the abridged English, explains the fear: Musa (AS) feared for the people, that they would be tested and deceived by the magic before he had a chance to throw what was in his right hand.",
+            "bn": "মূসা (আঃ)-এর কথাতেই যাদুকরেরা আগে নিক্ষেপ করেছিল। তাদের দড়ি আর লাঠিগুলো তাঁর চোখে এমনভাবে দেখানো হলো, যেন ছুটে বেড়াচ্ছে (২০:৬৬)। তিনি মনের ভেতরে একটা ভয় টের পেলেন (২০:৬৭), আর আল্লাহ বললেন: ভয় কোরো না, তুমিই উপরে থাকবে (২০:৬৮)। এ আয়াত সেই কথারই শেষ অংশ। শুরুর ‘ওয়া’ অভয়ের সঙ্গে একটা হুকুম জুড়ে দেয়। ভয়টা কিসের, ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ তা ব্যাখ্যা করে। মূসা (আঃ)-এর ভয় ছিল মানুষদের নিয়ে: ডান হাতে যা আছে তা ফেলার সুযোগ পাওয়ার আগেই তারা যেন যাদুর পরীক্ষায় পড়ে ধোঁকা না খায়।"
+          },
+          {
+            "en": "At-Tabari, commenting on 20:68, says what uppermost meant there: above these magicians, above Pharaoh and his troops, and the one who subdues them. Ma'arif al-Qur'an adds that the command came to Musa (AS) by revelation. Notice the shape that follows. Reassurance comes first, then an act, then an explanation of what the other side has made. He is not told to argue or to wait. He is told to throw. What the throw led to belongs to 20:70 and is not retold here.",
+            "bn": "২০:৬৮ আয়াতের ব্যাখ্যায় তাবারী বলেন, ‘উপরে থাকা’ মানে এই যাদুকরদের উপরে, ফিরআউন ও তার বাহিনীর উপরে, তাদের দমন করে রাখা। মাআরিফুল কুরআন যোগ করে, হুকুমটা মূসা (আঃ)-এর কাছে এসেছিল ওহীর মাধ্যমে। এরপর কথার গড়নটা খেয়াল করুন। প্রথমে অভয়, তারপর একটা কাজ, তারপর অন্য পক্ষ যা বানিয়েছে তার ব্যাখ্যা। তাঁকে তর্ক করতে বলা হয়নি, অপেক্ষা করতেও বলা হয়নি। বলা হয়েছে: ফেলো। সেই নিক্ষেপের পরিণাম ২০:৭০ আয়াতের বিষয়, এখানে তা আবার বলা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pointed To, Not Named",
+          "bn": "নাম নয়, শুধু ইশারা"
+        },
+        "p": [
+          {
+            "en": "Wa-alqi ma fi yaminika: and throw what is in your right hand. Elsewhere the same moment names the object outright. In 7:117 the command is alqi 'asaka, throw your staff, and in 26:45 Musa (AS) throws his staff. Here it is left unnamed. The Muyassar, as-Sa'di, al-Baghawi and Ibn Kathir all gloss the phrase simply as the staff. Al-Qurtubi stops at the wording itself. The verse said this, he notes, and did not say wa-alqi 'asaka, and he offers two possible reasons, introducing each with the words it may be.",
+            "bn": "ওয়া আলকি মা ফী ইয়ামীনিকা: আর তোমার ডান হাতে যা আছে, তা ফেলে দাও। অন্য সূরায় একই মুহূর্তের বর্ণনায় জিনিসটির নাম সরাসরি এসেছে। ৭:১১৭ আয়াতে হুকুম হলো আলকি আসাকা, তোমার লাঠি ফেলো, আর ২৬:৪৫ আয়াতে মূসা (আঃ) তাঁর লাঠি ফেলেন। এখানে নামটা রাখা হয়নি। মুয়াসসার, সা'দী, বাগাভী ও ইবন কাসীর সবাই সোজাসুজি বলেন, এর মানে লাঠি। কুরতুবী কিন্তু শব্দচয়নের কাছেই থামেন। তিনি খেয়াল করান, আয়াত এ কথা বলেছে, ‘ওয়া আলকি আসাকা’ বলেনি। এর দুটি সম্ভাব্য কারণ তিনি দেখান, আর দুটির আগেই বলেন: হতে পারে।"
+          },
+          {
+            "en": "The first is belittlement. Pay no mind to how many ropes and staffs they have, and throw the single small stick in your right hand, for by Allah's power it will swallow them, one against many, small against great. The second is magnification. Take no notice of these many large bodies, for in your right hand is something greater than all of them, and beside it they are the least and slightest of things; throw it, and by Allah's leave it will swallow them and wipe them out. Al-Qurtubi leaves both open.",
+            "bn": "প্রথম কারণ ছোট করে দেখানো। ওদের দড়ি আর লাঠি কত বেশি, সেদিকে মন দিয়ো না। ডান হাতের ওই একটিমাত্র ছোট্ট লাঠিটা ফেলে দাও। আল্লাহর কুদরতে সে একাই ওই সবগুলো গিলে নেবে, তা যত বেশি আর যত বড়ই হোক। দ্বিতীয় কারণ বড় করে দেখানো। এই এত এত বড় বড় জিনিসের পরোয়া কোরো না, কারণ তোমার ডান হাতে যা আছে তা এগুলোর সবকিছুর চেয়ে বড়। তার পাশে এগুলো যত বেশিই হোক, অতি তুচ্ছ, অতি সামান্য। ফেলে দাও, আল্লাহর অনুমতিতে সে এগুলো গিলে নিশ্চিহ্ন করে দেবে। কুরতুবী দুটি কারণই খোলা রাখেন, কোনোটিকে বেছে নেন না।"
+          },
+          {
+            "en": "The surah's own wording adds a thread; this rests on the verses, not the commentators. The phrase reaches back to 20:17, wa ma tilka bi-yaminika ya Musa, what is that in your right hand, O Musa, the question asked when he was first called. In 20:20 he threw it and it was a snake, tas'a, moving. Now 20:66 uses the same word of the magicians' ropes, but only as what was made to seem to him. One word carries both: the movement that was real and the movement that was only imagined.",
+            "bn": "সূরার নিজের শব্দেও একটা সুতো আছে, যা দাঁড়িয়ে আয়াতের উপর, তাফসীরকারদের কথার উপর নয়। কথাটা ফিরে যায় ২০:১৭ আয়াতে: ওয়া মা তিলকা বিয়ামীনিকা ইয়া মূসা, হে মূসা, তোমার ডান হাতে ওটা কী? প্রথম ডাকের দিন এই প্রশ্নই তাঁকে করা হয়েছিল। ২০:২০ আয়াতে তিনি সেটা ফেলেছিলেন, আর তা হয়ে গিয়েছিল সাপ, তাস'আ, ছুটে চলা। এবার ২০:৬৬ আয়াত যাদুকরদের দড়ির বেলায় একই শব্দ আনে, তবে কেবল তাঁর চোখে যা দেখানো হয়েছিল সেই অর্থে। একই শব্দে তাই দুটোই ধরা আছে: যে চলা সত্যি ছিল, আর যে চলা ছিল কেবল কল্পনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verb of Swift Seizing",
+          "bn": "ঝট করে গিলে নেওয়ার ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "Talqaf ma sana'u: it will swallow what they have crafted. Al-Qurtubi defines al-laqf as taking something quickly, and gives the usage laqiftu ash-shay', I took the thing swiftly. He cites Ya'qub for the phrase rajulun laqfun thaqfun, a man nimble and deft, and lists talaqqafa with talaqqama and talahhama as words of one meaning. Al-Baghawi glosses it in two verbs, taltaqimu wa tabtali'u: it gulps and swallows. The picture is not a slow consuming but a snatch, the way a hand catches something in the air.",
+            "bn": "তালকাফ মা সানাঊ: তারা যা বানিয়েছে, সে তা গিলে নেবে। কুরতুবী আল-লাকফের সংজ্ঞা দেন: কোনো কিছু দ্রুত ধরে নেওয়া। উদাহরণ দেন, লাকিফতুশ শাই, মানে জিনিসটা আমি ঝট করে তুলে নিলাম। ইয়াকূবের সূত্রে তিনি আনেন ‘রাজুলুন লাকফুন সাকফুন’, অর্থাৎ চটপটে, দক্ষ লোক। তালাক্কাফা, তালাক্কামা আর তালাহহামা, এই তিনটিকে তিনি একই অর্থের শব্দ বলে গণ্য করেন। বাগাভী দুটি ক্রিয়ায় অর্থ খোলেন: তালতাকিমু ওয়া তাবতালিউ, গপ করে মুখে পুরে গিলে ফেলে। ছবিটা ধীরে ধীরে খেয়ে শেষ করার নয়। শূন্যে কিছু ছুড়লে হাত যেমন খপ করে ধরে ফেলে, তেমন।"
+          },
+          {
+            "en": "The grammar ties the swallowing to the throw. Al-Qurtubi and al-Baghawi both read talqaf as jussive, the answer to the command, as though it said: if you throw it, it will swallow. Al-Qurtubi records that as-Sulami and Hafs read talqaf with a quiescent lam, from laqifa, while Ibn Dhakwan and others read talaqqafu, in the indicative, meaning for it swallows; al-Baghawi names Ibn Amir for the indicative. Al-Qurtubi also notes that the address is to Musa (AS), and that it has been said it is to the staff.",
+            "bn": "ব্যাকরণ গিলে নেওয়াটাকে ফেলার সঙ্গে বেঁধে দেয়। কুরতুবী ও বাগাভী দুজনেই তালকাফকে জযমযুক্ত পড়েন, হুকুমের জবাব হিসেবে। যেন বলা হচ্ছে: তুমি ফেললেই সে গিলে নেবে। কুরতুবী জানান, সুলামী ও হাফস লাম সাকিন রেখে তালকাফ পড়েছেন, লাকিফা থেকে। আর ইবন যাকওয়ানসহ কয়েকজন পড়েছেন তালাক্কাফু, রফা দিয়ে, যার অর্থ: কারণ সে গিলে নেয়। বাগাভী রফার কিরাআত ইবন আমিরের নামে উল্লেখ করেন। কুরতুবী আরও বলেন, সম্বোধনটা মূসা (আঃ)-এর প্রতি, আবার কেউ কেউ বলেছেন লাঠির প্রতি।"
+          },
+          {
+            "en": "Then ma sana'u, what they crafted. The Muyassar names it: their ropes and their staffs. At-Tabari adds the qualifier that matters: the ropes and staffs they had bewitched, until it was made to seem to you that they were moving. The verb sana'a means to make or to manufacture. Whatever filled the field that morning, the verse files it as a product of human hands, shaped to be seen in a certain way.",
+            "bn": "তারপর মা সানাঊ, তারা যা বানিয়েছে। মুয়াসসার জিনিসগুলোর নাম বলে দেয়: তাদের দড়ি আর লাঠি। তাবারী যোগ করেন আসল শর্তটা: সেই দড়ি আর লাঠি, যেগুলোর উপর তারা যাদু করেছিল, যাতে তোমার মনে হয় সেগুলো ছুটে চলছে। সানাআ ক্রিয়ার অর্থ বানানো, তৈরি করা। সেদিন সকালে ময়দান যা দিয়েই ভরে থাকুক, আয়াত সেটাকে গণ্য করে মানুষের হাতে গড়া জিনিস হিসেবে, যা একটা বিশেষ চেহারায় দেখানোর জন্যই বানানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sahir or Sihr, Both Sound",
+          "bn": "সাহির না সিহর, দুটোই প্রতিষ্ঠিত"
+        },
+        "p": [
+          {
+            "en": "Innama sana'u kaydu sahirin. Al-Baghawi and al-Qurtubi both unpack the opening as inna alladhi sana'u: what they made is. The ma is a relative pronoun, so the sentence does not say they only made something; it says the thing they made is a magician's plot. At-Tabari then sets out the readings. The general readers of Medina and Basra, with some of Kufa, read kaydu sahirin, with the long alif: the plot of a magician. The general readers of Kufa read kaydu sihrin: the plot of magic.",
+            "bn": "ইন্নামা সানাঊ কায়দু সাহির। বাগাভী ও কুরতুবী দুজনেই শুরুটা খুলে বলেন এভাবে: ইন্নাল্লাযী সানাঊ, অর্থাৎ তারা যা বানিয়েছে তা। এখানে ‘মা’ সম্বন্ধবাচক সর্বনাম। তাই বাক্যটা বলছে না যে তারা কেবল কিছু একটা বানিয়েছে। বলছে, তারা যা বানিয়েছে তা এক যাদুকরের চক্রান্ত। এরপর তাবারী কিরাআতগুলো সাজিয়ে দেন। মদীনা ও বসরার সাধারণ কারীরা, সঙ্গে কূফার কয়েকজন, পড়েছেন কায়দু সাহির, আলিফসহ: এক যাদুকরের চক্রান্ত। কূফার সাধারণ কারীরা পড়েছেন কায়দু সিহর: যাদুর চক্রান্ত।"
+          },
+          {
+            "en": "Al-Baghawi names Hamza and al-Kisa'i for sihr, and al-Qurtubi gives it as the Kufan reading except Asim's. Al-Baghawi offers a reason for sahir: attaching the plot to the one who does it is more fitting than attaching it to the deed, though Arabic does not forbid the second. At-Tabari will not choose. Both, he says, are well-known readings close in meaning, because a plot is cunning and deception: the magician plots by means of magic, and magic plots by means of illusion, so whichever you attach the plot to, you are right.",
+            "bn": "বাগাভী সিহরের কিরাআত হামযা ও কিসাঈর নামে উল্লেখ করেন, আর কুরতুবী বলেন, আসিম ছাড়া কূফার কারীদের এটাই কিরাআত। সাহিরের পক্ষে বাগাভী একটা যুক্তিও দেন: চক্রান্তকে কাজের সঙ্গে না জুড়ে যে কাজটা করে তার সঙ্গে জোড়াই বেশি মানানসই, যদিও আরবি ভাষা দ্বিতীয়টা নিষেধ করে না। তাবারী কোনোটাকে বেছে নেন না। তাঁর মতে দুটোই সুপরিচিত কিরাআত, অর্থও কাছাকাছি। কারণ চক্রান্ত মানে ফন্দি আর ধোঁকা। যাদুকর চক্রান্ত করে যাদু দিয়ে, আর যাদু চক্রান্ত করে বিভ্রম দিয়ে। চক্রান্তকে যার সঙ্গেই জুড়ুন, ঠিকই হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A False Gloss on Things",
+          "bn": "জিনিসের উপর মিথ্যা প্রলেপ"
+        },
+        "p": [
+          {
+            "en": "What, then, is the kayd? As-Sa'di answers: their plot and their cunning, he says, bear no fruit for them and do not succeed, because it is the plot of sorcerers who put a false gloss on things for people, dress falsehood up, and make it seem that they are on the truth. The Muyassar puts it briefly: what they did in front of you is nothing but a sorcerer's cunning and the illusion of magic. At-Tabari, as above, calls it making the bewitched imagine a thing contrary to what it really is.",
+            "bn": "তাহলে কায়দ জিনিসটা কী? সা'দীর উত্তর: তাদের চক্রান্ত আর ফন্দি তাদের কোনো ফল দেয় না, সফলও হয় না। কারণ এ হলো এমন যাদুকরদের চক্রান্ত, যারা মানুষের সামনে জিনিসের উপর মিথ্যা প্রলেপ দেয়, বাতিলকে সাজিয়ে-গুছিয়ে হাজির করে, আর দেখায় যেন তারাই হকের উপর আছে। মুয়াসসার কথাটা বলে সংক্ষেপে: তোমার সামনে তারা যা করেছে তা যাদুকরের ফন্দি আর যাদুর বিভ্রম ছাড়া কিছু নয়। আর তাবারী, আগেই যেমন বলা হলো, একে বলেন যাদুগ্রস্তের মনে কোনো জিনিসকে তার আসল রূপের উল্টো করে দেখানো।"
+          },
+          {
+            "en": "The glosses agree on where the trick lives in this scene. By the verse's own wording it is not in the ropes but in the eye that watches them, exactly as 20:66 put it: it was made to seem to him. Ibn Kathir describes the scale. They were a large company, each threw a stick and a rope, and the valley filled with snakes piled one upon another. A kayd can be enormous. What the verse takes from it is not its size or its hold on the crowd but its outcome: it does not succeed.",
+            "bn": "এই দৃশ্যে ধোঁকাটা কোথায়, এ নিয়ে সব ব্যাখ্যা একমত। আয়াতের নিজের শব্দ অনুযায়ী তা দড়িতে নয়, যে চোখ দড়ির দিকে তাকিয়ে আছে সেই চোখে। ২০:৬৬ আয়াত ঠিক এভাবেই বলেছিল: তাঁর চোখে এমন দেখানো হলো। ইবন কাসীর এর বিশালতার ছবি দেন। তারা ছিল বিরাট এক দল। প্রত্যেকে একটা করে লাঠি আর দড়ি ফেলল, আর গোটা উপত্যকা ভরে গেল একটার উপর আরেকটা জমে থাকা সাপে। কায়দ বিশাল হতে পারে। আয়াত তার আকার বা ভিড়ের উপর তার দখল অস্বীকার করে না। কেড়ে নেয় তার পরিণাম: সে সফল হয় না।"
+          },
+          {
+            "en": "Ibn Kathir also reads the sentence against what happened next. The miracle was performed in broad daylight, he says, the proof was clear, the truth prevailed and the magic was shown to be falsehood, and this is why Allah said: what they made is only a magician's plot. In the verse itself the order runs the other way. The command comes first, the promise of swallowing second, and the verdict on the magic third, all spoken before a single rope has gone. The label arrives ahead of the proof.",
+            "bn": "ইবন কাসীর বাক্যটা পড়েন পরে যা ঘটেছিল তার আলোয়। তিনি বলেন, দিনের আলোয় মুজিযা ঘটল, প্রমাণ স্পষ্ট হলো, হক জয়ী হলো, যাদু মিথ্যা প্রমাণিত হলো। আর এ কারণেই আল্লাহ বললেন: তারা যা বানিয়েছে তা কেবল এক যাদুকরের চক্রান্ত। আয়াতের ভেতরে অবশ্য ক্রম উল্টো। আগে হুকুম, তারপর গিলে নেওয়ার প্রতিশ্রুতি, তারপর যাদু নিয়ে রায়। আর সবটাই বলা হয়েছে একটা দড়িও অদৃশ্য হওয়ার আগে। প্রমাণের আগেই নামটা ঠিক হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wherever the Sorcerer Goes",
+          "bn": "যাদুকর যেখানেই যাক"
+        },
+        "p": [
+          {
+            "en": "Wa la yuflihu as-sahiru haythu ata: and the sorcerer does not succeed wherever he comes. At-Tabari reads it as: he does not attain by his magic what he sought, wherever he is. Al-Baghawi gives Ibn Abbas: he does not prosper wherever he is. Al-Qurtubi has: he does not win and is not saved, wherever on earth he comes. The Muyassar keeps to the same line, that the sorcerer does not prevail by his magic wherever he may be. On this the commentators speak with one voice: failure follows the craft to every place.",
+            "bn": "ওয়া লা ইউফলিহুস সাহিরু হাইসু আতা: আর যাদুকর যেখানেই আসুক, সফল হয় না। তাবারীর ব্যাখ্যা: যাদুকর যেখানেই থাকুক, যাদু দিয়ে যা চেয়েছিল তা পায় না। বাগাভী আনেন ইবন আব্বাস (রাঃ)-এর কথা: সে যেখানেই থাকুক, সৌভাগ্য পায় না। কুরতুবীর ভাষায়: পৃথিবীর যেখান থেকেই আসুক, সে জেতে না, রেহাইও পায় না। মুয়াসসারও একই পথে: যাদুকর যেখানেই থাকুক, যাদু দিয়ে জয়ী হয় না। এ জায়গায় তাফসীরকারদের কথা একসুরে বাঁধা। ব্যর্থতা এই বিদ্যার পিছু নেয় সব জায়গায়।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi each add a second sense, under the words it has been said: haythu ata means wherever he contrives, haythu ihtala. On that reading the verse speaks less of places than of methods; whatever device the sorcerer tries, it does not bring success. At-Tabari adds a note on the wording. A Basran grammarian mentioned that Ibn Mas'ud's reading had ayna ata, and held that Arabs use haythu and ayna alike in such phrases; another grammarian analysed the phrase differently, as a conditional.",
+            "bn": "কুরতুবী ও বাগাভী দুজনেই ‘বলা হয়’ বলে একটা দ্বিতীয় অর্থ যোগ করেন: হাইসু আতা মানে যেভাবেই সে কৌশল খাটাক, হাইসু ইহতালা। এ অর্থে আয়াতের কথা জায়গা নিয়ে যতটা, তার চেয়ে বেশি পদ্ধতি নিয়ে। যাদুকর যে ফন্দিই আঁটুক, তা সফলতা আনে না। শব্দ নিয়ে তাবারী একটা টীকাও দেন। বসরার এক ব্যাকরণবিদ উল্লেখ করেছেন, ইবন মাসউদ (রাঃ)-এর কিরাআতে ছিল ‘আইনা আতা’। তাঁর মত ছিল, এমন বাক্যে আরবরা হাইসু আর আইনা একইভাবে ব্যবহার করে। আরেক ব্যাকরণবিদ বাক্যটার বিশ্লেষণ করেছেন অন্যভাবে, শর্তবাচক বাক্য হিসেবে।"
+          },
+          {
+            "en": "Ibn Kathir relays through Ibn Abi Hatim a report from Jundub ibn Abdullah al-Bajali, raised to the Prophet ﷺ, on the penalty for a sorcerer, with this verse recited, and notes that at-Tirmidhi has its basis too. At-Tirmidhi's entry (Jami' 1460) carries a raised form without the verse, and he says himself that its narrator Isma'il ibn Muslim al-Makki is weakened and that the sound form stops at Jundub.",
+            "bn": "ইবন কাসীর ইবন আবী হাতিমের সূত্রে জুনদুব ইবন আবদুল্লাহ বাজালী (রাঃ) থেকে একটি বর্ণনা আনেন, যা নবী ﷺ পর্যন্ত পৌঁছানো। বিষয় যাদুকরের শাস্তি, আর তাতে এ আয়াত তিলাওয়াতের কথা আছে। তিনি জানান, তিরমিযীতেও এর মূল আছে। তিরমিযীর জামি গ্রন্থের ১৪৬০ নম্বর বর্ণনায় নবী ﷺ পর্যন্ত পৌঁছানো একটি রূপ আছে, আয়াতের উল্লেখ ছাড়া। তিরমিযী নিজেই বলেন, এর বর্ণনাকারী ইসমাঈল ইবন মুসলিম মাক্কীকে দুর্বল বলা হয়, আর সহীহ রূপটি জুনদুব পর্যন্ত গিয়ে থামে।"
+          },
+          {
+            "en": "So this article neither quotes that report nor builds on it, and no tafsir consulted here attaches a sound hadith to the verse. The legal ruling on sorcery is a question al-Qurtubi himself sends to his commentary on al-Baqara, and the article leaves it there and states none. What the verse says in its own words is a verdict on the craft: it does not succeed.",
+            "bn": "তাই এ লেখা ওই বর্ণনাটি উদ্ধৃত করে না, তার উপর কিছু দাঁড় করায়ও না। এখানে দেখা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। যাদুর শরঈ বিধানের প্রশ্নটা কুরতুবী নিজেই পাঠিয়ে দেন সূরা বাকারার তাফসীরে। এ লেখাও প্রশ্নটা সেখানেই রেখে দেয়, কোনো বিধান বলে না। আয়াত নিজের শব্দে যা বলে তা এই বিদ্যা নিয়ে একটা রায়: এটা সফল হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Small in the Hand, Enough",
+          "bn": "হাতে ছোট, তবু যথেষ্ট"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's two readings can be held together as a way of seeing. What Allah puts in a person's hand may look small beside what is massed against it, and by His power it is enough. Or it may be the greater thing, and the mass beside it slight. Either way the measure is not the count. The verse also answers the boast of 20:64, whoever overcomes today has succeeded, with the same verb negated; that link is traced in the article on 20:64 and not repeated here.",
+            "bn": "কুরতুবীর দুটি ব্যাখ্যা একসঙ্গে ধরলে দেখার একটা ধরন পাওয়া যায়। আল্লাহ কারও হাতে যা দেন, বিপক্ষে জড়ো হওয়া জিনিসের পাশে তা ছোট দেখাতে পারে, আর তাঁর কুদরতে সেটুকুই যথেষ্ট। আবার হতে পারে সেটাই বড় জিনিস, আর পাশের স্তূপটাই তুচ্ছ। যেভাবেই দেখুন, মাপকাঠি সংখ্যা নয়। ২০:৬৪ আয়াতে যাদুকরেরা দম্ভ করে বলেছিল, আজ যে উপরে উঠবে সে-ই সফল। এ আয়াত একই ক্রিয়া না-বোধক করে সেই কথার জবাব দেয়। সেই যোগসূত্র ২০:৬৪ আয়াতের প্রবন্ধে দেখানো হয়েছে, এখানে আর বলা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Your Right Hand Holds",
+          "bn": "আপনার ডান হাতে যা আছে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes sorcerers in a contest that Pharaoh staged against a messenger of Allah, and it says what the text says about their craft. It licenses nothing against any living person or community. It gives no warrant to brand a rival a sorcerer or his work a trick, and the very next verse shows these same men turning to faith, which should give anyone pause before using the word as a verdict on a person.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে এমন যাদুকরদের, যারা ফিরআউনের সাজানো প্রতিযোগিতায় আল্লাহর এক রাসূলের বিরুদ্ধে নেমেছিল, আর তাদের বিদ্যা নিয়ে আয়াত যা বলে তা-ই বলে। আজকের কোনো মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিপক্ষকে যাদুকর বা তার কাজকে ভেলকি বলে দাগিয়ে দেওয়ার কোনো ছাড়পত্রও দেয় না। ঠিক পরের আয়াতেই এই মানুষগুলোই ঈমানের দিকে ফেরে। কাউকে যাদুকর বলে রায় দেওয়ার আগে এটুকুই থমকে দাঁড়ানোর জন্য যথেষ্ট।"
+          },
+          {
+            "en": "The lesson turns inward. Musa (AS) was told to throw before he saw anything swallowed, and what he held was the plain thing he had carried all along. Most days set some show against us, a crowd's opinion, a clever case, a display of numbers. The verse asks two things. Will I act on what Allah has told me without waiting for the show to end? And when I am tempted to win by an impression rather than the truth, will I remember that a crafted thing, however large, does not succeed wherever it goes?",
+            "bn": "শিক্ষাটা এবার নিজের দিকে ফেরে। কিছু গিলে নিতে দেখার আগেই মূসা (আঃ)-কে ফেলতে বলা হয়েছিল, আর তাঁর হাতে ছিল সেই সাদামাটা জিনিস, যা তিনি সারাক্ষণ বয়ে বেড়াতেন। আমাদের প্রায় প্রতিটি দিনেই সামনে কোনো না কোনো প্রদর্শনী দাঁড় করানো থাকে: লোকের মত, চতুর যুক্তি, সংখ্যার দাপট। আয়াত দুটি প্রশ্ন রাখে। প্রদর্শনী শেষ হওয়ার অপেক্ষা না করে আল্লাহ যা বলেছেন তা কি আমি করব? আর সত্য দিয়ে নয়, কেবল ছাপ ফেলে জিততে যখন মন চায়, তখন কি মনে রাখব, বানানো জিনিস যত বড়ই হোক, যেখানেই যাক, সফল হয় না?"
+          }
+        ]
+      }
+    ]
+  },
   "20:70-71": {
     "sections": [
       {

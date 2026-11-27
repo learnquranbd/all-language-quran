@@ -34401,6 +34401,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every face will bow before the Ever-Living. Set down the wrongs you carry, against Allah and against people, while they can still be returned.",
     "lessonBn": "চিরঞ্জীবের সামনে প্রতিটি মুখ নত হবে। আল্লাহর হক আর মানুষের হক, যে যুলমই বয়ে বেড়াচ্ছেন, ফেরত দেওয়ার সময় থাকতেই তা নামিয়ে রাখুন।"
+  },
+  "20:69": {
+    "reflectionEn": "A whole field of ropes and staffs, each one seeming to crawl, and a crowd watching. Against all of it one man is told: throw what is in your right hand. The verse does not even name the staff. It points to what he is already holding, the plain stick he leaned on and used for his flock. Then it names what the other side brought: kayd, a crafted trick, something made to look like what it is not. However much of it there is, and wherever it turns up, it does not reach success. So the question is not whether I hold as much as they do. It is whether what I hold is from Allah, and whether I will let it go when He says throw.",
+    "reflectionBn": "গোটা ময়দান ভরা দড়ি আর লাঠি, প্রতিটিকে মনে হচ্ছে যেন হামাগুড়ি দিয়ে চলছে, আর চারপাশে লোকের ভিড়। এত কিছুর সামনে একজন মানুষকে বলা হলো: তোমার ডান হাতে যা আছে, ফেলে দাও। আয়াতটি লাঠির নামটুকুও নেয় না। ইশারা করে সেই জিনিসের দিকে, যা তিনি আগে থেকেই হাতে ধরে আছেন, যে সাদামাটা লাঠিতে ভর দিতেন, যা দিয়ে নিজের পালের জন্য গাছের পাতা পাড়তেন। তারপর অন্য পক্ষ যা এনেছে, আয়াত তার নাম দেয়: কায়দ, বানানো ছল, যা আসলে যা নয় তা-ই দেখানোর জন্য গড়া। সেটা যত বেশিই হোক, যেখানেই দেখা দিক, সফলতা পর্যন্ত পৌঁছায় না। কাজেই প্রশ্নটা এ নয় যে ওদের যত আছে আমারও তত আছে কি না। প্রশ্ন হলো, আমার হাতে যা আছে তা আল্লাহর দেওয়া কি না, আর তিনি ফেলতে বললে আমি তা ছেড়ে দিতে রাজি কি না।",
+    "pointsEn": [
+      "Where am I measuring my case by the size of what is set against it, rather than by who gave me what I hold?",
+      "What has Allah already put in my right hand, a skill, a duty, a true word, that I keep waiting to trade for something bigger?",
+      "When something dazzles me, do I stop to ask whether it is real or only made to look real?",
+      "Have I ever tried to get ahead by an impression I knew was not true?",
+      "Once I have been told not to fear, how long do I wait before doing what I was told?"
+    ],
+    "pointsBn": [
+      "কোথায় আমি নিজের অবস্থান মাপছি আমার বিরুদ্ধে জড়ো হওয়া জিনিসের আকার দিয়ে, অথচ মাপা উচিত ছিল আমার হাতে যা আছে তা কে দিয়েছেন সেটা দিয়ে?",
+      "আল্লাহ আমার ডান হাতে আগেই কী দিয়ে রেখেছেন, কোনো দক্ষতা, কোনো দায়িত্ব, কোনো সত্য কথা, যা বদলে আরও বড় কিছু পাওয়ার অপেক্ষায় আমি বসে আছি?",
+      "কোনো কিছু যখন চোখ ধাঁধিয়ে দেয়, আমি কি একটু থেমে ভাবি, এটা সত্যিই আছে, নাকি কেবল আছে বলে দেখানো হচ্ছে?",
+      "যে ছাপ সত্য নয় বলে আমি জানতাম, তা দিয়ে কি কখনো এগিয়ে যেতে চেয়েছি?",
+      "‘ভয় কোরো না’, এ কথা শোনার পর যা করতে বলা হয়েছে তা করতে আমি কতক্ষণ দেরি করি?"
+    ],
+    "lessonEn": "Do not weigh your case by the size of the show against you; hold to what Allah has given you, act on His word, and remember that crafted illusions do not succeed.",
+    "lessonBn": "আপনার বিরুদ্ধে সাজানো প্রদর্শনী কত বড়, তা দিয়ে নিজের অবস্থান মাপবেন না। আল্লাহ যা দিয়েছেন তা আঁকড়ে ধরুন, তাঁর কথামতো কাজ করুন, আর মনে রাখুন, বানানো ভেলকি কখনো সফল হয় না।"
   }
 };
 
