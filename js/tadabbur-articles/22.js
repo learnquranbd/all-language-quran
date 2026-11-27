@@ -1063,6 +1063,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "22:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Parties, a Plural Verb",
+          "bn": "দুই পক্ষ, বহুবচনের ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "Hadhani khasmani ikhtasamu fi rabbihim: these are two adversaries who disputed about their Lord. The pointer and the noun are dual, yet the verb is plural. Al-Baghawi explains that khasm is a noun that behaves like a verbal noun, so it can stand for a group, and he compares 38:21, where the khasm who climbed into David's (AS) prayer chamber take a plural verb. Al-Qurtubi relays al-Farra' saying the same in other words: each adversary is a party, so the plural fits, and a dual verb would also have been correct.",
+            "bn": "হাযানি খাসমানিখ তাসামূ ফী রব্বিহিম: এরা দুই প্রতিপক্ষ, যারা তাদের রবকে নিয়ে বিবাদ করেছে। ইঙ্গিতবাচক শব্দ আর বিশেষ্য দুটোই দ্বিবচন, অথচ ক্রিয়াটি বহুবচন। বাগাভী ব্যাখ্যা দেন, খাসম শব্দটি ক্রিয়াবাচক বিশেষ্যের মতো আচরণ করে, তাই একটা পুরো দলকে বোঝাতে পারে। তিনি তুলনা টানেন ৩৮:২১ আয়াতের সঙ্গে। সেখানে যে বিবাদকারীরা দাউদ (আঃ)-এর ইবাদতখানায় দেয়াল টপকে ঢুকেছিল, তাদের বেলাতেও ক্রিয়া বহুবচন। কুরতুবী ফাররার কথা উদ্ধৃত করেন, যা অন্য ভাষায় একই কথা: প্রত্যেক প্রতিপক্ষ আসলে একটা দল, তাই বহুবচন মানানসই। দ্বিবচন ক্রিয়া হলেও ভুল হতো না।"
+          },
+          {
+            "en": "The verse also answers what came just before it. In 22:17 Allah names six groups, the believers, the Jews, the Sabians, the Christians, the Magians and the idolaters, and promises to judge between them on the Day of Resurrection. As-Sa'di reads 22:19 as that judgment being set out in detail: each side claims to be in the right, and those who disbelieved, he says, takes in every disbeliever among the Jews, Christians, Magians, Sabians and idolaters.",
+            "bn": "আয়াতটি ঠিক আগের কথারও জবাব। ২২:১৭ আয়াতে আল্লাহ ছয়টি দলের নাম নিয়েছেন: মুমিন, ইয়াহুদি, সাবিয়ী, খ্রিস্টান, অগ্নিপূজক আর মুশরিক। আর প্রতিশ্রুতি দিয়েছেন, কিয়ামতের দিন তিনি এদের মধ্যে ফয়সালা করবেন। সা'দী ২২:১৯ আয়াতকে পড়েন সেই ফয়সালারই বিস্তারিত বিবরণ হিসেবে। প্রত্যেক পক্ষ দাবি করে, হক তার দিকে। তাঁর মতে 'যারা কুফরি করেছে' কথাটির মধ্যে ইয়াহুদি, খ্রিস্টান, অগ্নিপূজক, সাবিয়ী ও মুশরিকদের সব কাফির এসে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Abu Dharr Swears an Oath",
+          "bn": "আবু যার (রাঃ)-এর কসম"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari records the report most of the commentators begin with (3969). Qays ibn 'Ubad said: I heard Abu Dharr swear an oath that this verse, These are two adversaries who disputed about their Lord, came down about those who came out to duel on the day of Badr: Hamza, 'Ali and 'Ubayda ibn al-Harith, and 'Utba and Shayba, the two sons of Rabi'a, and al-Walid ibn 'Utba. Muslim records it too (3033), and al-Qurtubi notes that Muslim closes his whole book with this hadith.",
+            "bn": "অধিকাংশ তাফসীরকার যে বর্ণনা দিয়ে শুরু করেন, বুখারী তা সংকলন করেছেন (৩৯৬৯)। কায়স ইবন উবাদ বলেন: আমি আবু যার (রাঃ)-কে কসম খেয়ে বলতে শুনেছি যে এই আয়াত, 'এরা দুই প্রতিপক্ষ, যারা তাদের রবকে নিয়ে বিবাদ করেছে', নাযিল হয়েছে বদরের দিন যারা দ্বন্দ্বযুদ্ধে বেরিয়ে এসেছিল তাদের ব্যাপারে: হামযা, আলী ও উবায়দা ইবনুল হারিস, আর রাবীআর দুই ছেলে উতবা ও শায়বা এবং ওয়ালীদ ইবন উতবা। মুসলিমও হাদীসটি এনেছেন (৩০৩৩)। কুরতুবী জানান, মুসলিম তাঁর গোটা গ্রন্থটি এই হাদীস দিয়েই শেষ করেছেন।"
+          },
+          {
+            "en": "The oath matters. Abu Dharr was not offering one opinion among several; he swore to it. In another of al-Bukhari's chains (3968) he swears that these verses, in the plural, came down about those same men. At-Tabari relays from 'Ata' ibn Yasar that the passage runs on to and they were guided to the path of the Praiseworthy, which is 22:24, and al-Qurtubi relays from 'Ali that it runs to the punishment of burning, 22:22. So the occasion covers a block of verses, the Fire's side and the Garden's side together.",
+            "bn": "কসমটার গুরুত্ব আছে। আবু যার (রাঃ) কয়েকটা মতের মধ্যে একটা মত দিচ্ছিলেন না, তিনি এর উপর কসম খেয়েছিলেন। বুখারীর আরেক সনদে (৩৯৬৮) তিনি কসম খেয়ে বলেন, এই আয়াতগুলো, বহুবচনে, ওই মানুষগুলোর ব্যাপারেই নাযিল হয়েছে। তাবারী আতা ইবন ইয়াসার থেকে আনেন যে অংশটি চলে 'আর তাদের পথ দেখানো হয়েছিল প্রশংসিতের পথে' পর্যন্ত, অর্থাৎ ২২:২৪ আয়াত পর্যন্ত। কুরতুবী আলী (রাঃ) থেকে আনেন যে তা চলে 'দহনের শাস্তি' পর্যন্ত, অর্থাৎ ২২:২২ পর্যন্ত। তাই এই প্রেক্ষাপট কয়েকটি আয়াতের একটা পুরো অংশ জুড়ে, যেখানে আগুনের পক্ষ আর জান্নাতের পক্ষ দুটোই আছে।"
+          },
+          {
+            "en": "'Ali himself is on record. Al-Bukhari (4744) has him say: I will be the first to kneel before the Most Merciful for the dispute on the Day of Resurrection. Qays added: about them it came down, These are two adversaries who disputed about their Lord. He said: they are the ones who dueled on the day of Badr, 'Ali, Hamza and 'Ubayda, and Shayba ibn Rabi'a, 'Utba ibn Rabi'a and al-Walid ibn 'Utba. Al-Qurtubi explains 'Ali's words: he meant his own story, his duel and that of his two companions.",
+            "bn": "আলী (রাঃ)-এর নিজের কথাও সংরক্ষিত আছে। বুখারী (৪৭৪৪) বর্ণনা করেন, তিনি বলেছেন: কিয়ামতের দিন বিবাদের ফয়সালার জন্য পরম দয়াময়ের সামনে সবার আগে হাঁটু গেড়ে বসব আমি। কায়স যোগ করেন: তাঁদের ব্যাপারেই নাযিল হয়েছে, 'এরা দুই প্রতিপক্ষ, যারা তাদের রবকে নিয়ে বিবাদ করেছে'। তিনি বলেন: এঁরা তারাই, যারা বদরের দিন দ্বন্দ্বযুদ্ধ করেছিল। আলী, হামযা ও উবায়দা, আর শায়বা ইবন রাবীআ, উতবা ইবন রাবীআ ও ওয়ালীদ ইবন উতবা। কুরতুবী আলী (রাঃ)-এর কথার ব্যাখ্যা দেন: তিনি বোঝাতে চেয়েছেন নিজের ঘটনা, তাঁর আর তাঁর দুই সঙ্গীর দ্বন্দ্বযুদ্ধ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kinsmen Facing Kinsmen at Badr",
+          "bn": "বদরে মুখোমুখি একই গোত্রের লোক"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi fills in the scene from Muhammad ibn Ishaq, without a chain back to the event. 'Utba ibn Rabi'a stepped out between his brother Shayba and his son al-Walid and called for single combat. Three young men of the Ansar answered: two brothers, sons of al-Harith and of 'Afra', and 'Abdullah ibn Rawaha. The Qurayshis called them noble equals, but their herald demanded opponents from their own people. Then 'Ubayda ibn al-Harith, Hamza ibn 'Abd al-Muttalib and 'Ali ibn Abi Talib went out instead.",
+            "bn": "বাগাভী দৃশ্যটির বিবরণ দেন মুহাম্মাদ ইবন ইসহাক থেকে, ঘটনা পর্যন্ত কোনো সনদ ছাড়াই। উতবা ইবন রাবীআ তার ভাই শায়বা আর ছেলে ওয়ালীদের মাঝখান থেকে বেরিয়ে এসে দ্বন্দ্বযুদ্ধের আহ্বান জানাল। আনসারের তিন যুবক সাড়া দিলেন: হারিস ও আফরার দুই ছেলে, আর আবদুল্লাহ ইবন রাওয়াহা। কুরাইশের ওই তিনজন বলল, এঁরা সম্মানিত সমকক্ষ। কিন্তু তাদের ঘোষক দাবি করল, প্রতিপক্ষ হতে হবে তাদের নিজেদের গোত্র থেকে। তখন তাঁদের বদলে বেরিয়ে এলেন উবায়দা ইবনুল হারিস, হামযা ইবন আবদিল মুত্তালিব আর আলী ইবন আবী তালিব।"
+          },
+          {
+            "en": "In Ibn Ishaq's account, 'Ubayda, the eldest, faced 'Utba, Hamza faced Shayba and 'Ali faced al-Walid. Hamza and 'Ali killed their men quickly. 'Ubayda and 'Utba traded two blows and each wounded the other, until Hamza and 'Ali turned on 'Utba and finished him, then carried 'Ubayda back to his companions with his leg cut through. This is why al-Bukhari's chains call them men of Quraysh: three on each side, all of one tribe, divided on that field by what each held about his Lord.",
+            "bn": "ইবন ইসহাকের বর্ণনায় সবচেয়ে বয়স্ক উবায়দা লড়লেন উতবার সঙ্গে, হামযা শায়বার সঙ্গে আর আলী ওয়ালীদের সঙ্গে। হামযা ও আলী দ্রুতই নিজ নিজ প্রতিপক্ষকে হত্যা করলেন। উবায়দা আর উতবা পরস্পরকে দুটি আঘাত করল, দুজনেই আহত হলো। তখন হামযা ও আলী উতবার দিকে ফিরে তাকে শেষ করলেন, আর উবায়দাকে বয়ে নিয়ে গেলেন সঙ্গীদের কাছে, তাঁর পা তখন কাটা। এ কারণেই বুখারীর বর্ণনায় তাঁদের বলা হয়েছে কুরাইশের লোক। দুই দিকে তিনজন করে, সবাই একই গোত্রের মানুষ। সেই ময়দানে তাদের ভাগ করে দিয়েছিল একটা জিনিস: নিজের রব সম্পর্কে কে কী বিশ্বাস রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Stands on the Other Side",
+          "bn": "অপর পক্ষে কারা দাঁড়িয়ে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens by noting that the commentators differed over the two adversaries. One reading pits the believers against the People of the Book. At-Tabari gives it from Ibn 'Abbas, and al-Baghawi from Ibn 'Abbas and Qatada: the People of the Book said, we are nearer to Allah, our book is older and our prophet came before yours. The believers answered that they had believed in Muhammad ﷺ, in their own prophet and in every book Allah sent down, while the others knew the truth and rejected it out of envy.",
+            "bn": "তাবারী শুরুতেই জানান, দুই প্রতিপক্ষ কারা, তা নিয়ে তাফসীরবিদদের মতভেদ আছে। একটি ব্যাখ্যায় মুমিনদের বিপরীতে আহলে কিতাব। তাবারী এটি আনেন ইবন আব্বাস (রাঃ) থেকে, বাগাভী আনেন ইবন আব্বাস ও কাতাদা থেকে। আহলে কিতাব বলেছিল: আল্লাহর কাছে আমরাই বেশি আপন, আমাদের কিতাব পুরোনো, আমাদের নবী তোমাদের নবীর আগে এসেছেন। মুমিনরা জবাব দিয়েছিলেন: আমরা মুহাম্মাদ ﷺ-এর উপর ঈমান এনেছি, তোমাদের নবীর উপরও, আর আল্লাহ যত কিতাব নাযিল করেছেন সবগুলোর উপর। তোমরা সত্য জানতে, তবু হিংসার বশে তা প্রত্যাখ্যান করেছ।"
+          },
+          {
+            "en": "A wider reading makes the two sides every believer and every disbeliever, of whatever religion. Al-Qurtubi names Mujahid, al-Hasan, 'Ata' ibn Abi Rabah, 'Asim and al-Kalbi for it. Ibn Jurayj, in at-Tabari, calls it the worldly quarrel of every religion, each sure of its greater claim to Allah. Mujahid in another report narrows it to the believer and the disbeliever arguing over the resurrection. Al-Baghawi adds that some counted six religions, as in the list of 22:17, and gave five to the Fire and one to the Garden.",
+            "bn": "আরও বিস্তৃত এক ব্যাখ্যায় দুই পক্ষ হলো সব মুমিন আর সব কাফির, তারা যে ধর্মেরই হোক। কুরতুবী এ মতের পক্ষে মুজাহিদ, হাসান, আতা ইবন আবী রাবাহ, আসিম ও কালবীর নাম নেন। তাবারীর বর্ণনায় ইবন জুরাইজ এই বিবাদকে বলেন দুনিয়ায় সব ধর্মের লোকের ঝগড়া, যেখানে প্রত্যেকে ভাবে আল্লাহর উপর তার দাবিই বেশি। আরেক বর্ণনায় মুজাহিদ এটাকে সীমিত করেন মুমিন আর কাফিরের মধ্যে পুনরুত্থান নিয়ে তর্কে। বাগাভী জানান, কেউ কেউ ২২:১৭ আয়াতের তালিকার মতো ছয়টি ধর্ম গুনেছেন। তার পাঁচটিকে দিয়েছেন জাহান্নামে, একটিকে জান্নাতে।"
+          },
+          {
+            "en": "'Ikrima took the two adversaries to be the Garden and the Fire themselves: the Fire said Allah created it for His punishment, and the Garden said He created it for His mercy. Al-Qurtubi sets beside this a sound hadith in al-Bukhari (4850) from Abu Hurayra in which the Garden and the Fire argue, though that hadith does not mention this verse. He also relays al-Farra', who made the second party the Jews and Christians, and an-Nahhas's sharp reply that this is the reading of someone unacquainted with hadith, since the report about this verse is well known.",
+            "bn": "ইকরিমার মতে দুই প্রতিপক্ষ হলো স্বয়ং জান্নাত আর জাহান্নাম। জাহান্নাম বলেছিল, আল্লাহ আমাকে বানিয়েছেন তাঁর শাস্তির জন্য। আর জান্নাত বলেছিল, তিনি আমাকে বানিয়েছেন তাঁর রহমতের জন্য। কুরতুবী এর পাশে রাখেন বুখারীর (৪৮৫০) একটি সহীহ হাদীস, আবু হুরায়রা (রাঃ) থেকে, যেখানে জান্নাত ও জাহান্নাম পরস্পর তর্ক করে। তবে সেই হাদীসে এই আয়াতের কোনো উল্লেখ নেই। তিনি ফাররার মতও আনেন, যিনি অপর পক্ষ বানিয়েছিলেন ইয়াহুদি ও খ্রিস্টানদের। সঙ্গে আনেন নাহহাসের কড়া জবাব: এ ব্যাখ্যা এমন লোকের, যার হাদীসের খবর নেই, কারণ এই আয়াত নিয়ে বর্ণনাটি সুপরিচিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Occasion, and a Rule Wider",
+          "bn": "এক উপলক্ষ, তার চেয়ে বড় বিধান"
+        },
+        "p": [
+          {
+            "en": "At-Tabari weighs the readings and chooses the widest: the two adversaries are all the disbelievers, of every kind of disbelief, and all the believers. His reason is the passage itself. In 22:18 Allah has just named two kinds of His creatures, those who prostrate to Him and the many on whom the punishment is justified. Then He describes what He will do with each: those who disbelieved have garments of fire cut for them, and in 22:23 the believers enter gardens beneath which rivers flow. What lies between, he concludes, must be news about those same two.",
+            "bn": "তাবারী সব ব্যাখ্যা ওজন করে সবচেয়ে বিস্তৃতটি বেছে নেন। দুই প্রতিপক্ষ হলো সব কাফির, কুফরির যে রূপেই হোক, আর সব মুমিন। তাঁর যুক্তি আসে আয়াতের প্রসঙ্গ থেকেই। ২২:১৮ আয়াতে আল্লাহ মাত্রই তাঁর সৃষ্টির দুই শ্রেণির কথা বলেছেন: যারা তাঁকে সিজদা করে, আর সেই অনেকে যাদের উপর শাস্তি অবধারিত। এরপর তিনি বলেন, প্রত্যেকের সঙ্গে কী করবেন। কাফিরদের জন্য কাটা হয়েছে আগুনের পোশাক, আর ২২:২৩ আয়াতে মুমিনরা প্রবেশ করে এমন জান্নাতে যার নিচ দিয়ে নহর বয়ে যায়। তাবারীর সিদ্ধান্ত: মাঝখানে যা আছে, তা ওই দুই দলেরই খবর।"
+          },
+          {
+            "en": "What, then, of Abu Dharr's report about Badr? It stands as narrated, he says, but a verse may come down for a particular cause and then be general for everything like that cause. The duellists were disbelief facing faith, so every disbeliever falls under the first party and every believer under the second. Ibn Kathir calls this choice good, since it gathers all the views, Badr among them. Al-Qurtubi ranks the report of Badr above the People of the Book reading, and says the general reading gathers those the verse came down about and others besides.",
+            "bn": "তারপর তিনি স্বাভাবিক আপত্তিটার জবাব দেন: তাহলে বদরের দ্বন্দ্বযোদ্ধাদের ব্যাপারে আবু যার (রাঃ)-এর বর্ণনার কী হবে? তিনি বলেন, বর্ণনাটি যেমন এসেছে তেমনই থাকবে। কিন্তু কোনো আয়াত বিশেষ এক কারণে নাযিল হয়ে সেই কারণের মতো সব কিছুর ক্ষেত্রে সাধারণ হতে পারে। দ্বন্দ্বযোদ্ধাদের একটি দল ছিল কুফরের, অন্যটি ঈমানের। তাই প্রত্যেক কাফির প্রথম দলের হুকুমে, প্রত্যেক মুমিন দ্বিতীয় দলের। ইবন কাসীর এই পছন্দকে ভালো বলেন, কারণ তাঁর মতে এতে সব মত এসে যায়, বদরও। অন্যদিকে কুরতুবী আহলে কিতাবের ব্যাখ্যার তুলনায় বদরের বর্ণনাকে বেশি সঠিক বলেন। আর সাধারণ ব্যাখ্যা সম্পর্কে বলেন, এতে যাদের ব্যাপারে আয়াত নাযিল হয়েছে তারাও আসে, অন্যরাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Garments Cut From Fire",
+          "bn": "আগুন কেটে বানানো পোশাক"
+        },
+        "p": [
+          {
+            "en": "Fa-lladhina kafaru qutti'at lahum thiyabun min nar: as for those who disbelieved, garments of fire have been cut out for them. Ibn Kathir glosses it as pieces of fire tailored for them. Al-Qurtubi says the garments are sewn and shaped, and that the fire is called clothing because it is worn like clothing. Why the past tense? He gives two answers: what the Hereafter promises is as certain as what has already happened, as in 5:116, where Allah's question to 'Isa (AS) is told in the past; or the garments are already prepared now.",
+            "bn": "ফাল্লাযীনা কাফারূ কুত্তিআত লাহুম সিয়াবুম মিন নার: যারা কুফরি করেছে, তাদের জন্য আগুনের পোশাক কেটে রাখা হয়েছে। ইবন কাসীর এর অর্থ করেন: তাদের মাপে কেটে বানানো আগুনের টুকরো। কুরতুবী বলেন, পোশাকগুলো সেলাই করা, গড়ে তোলা। আর আগুনকে পোশাক বলা হয়েছে, কারণ তা পোশাকের মতোই গায়ে জড়ানো থাকবে। ক্রিয়াটি কেন অতীতকালে, সে প্রশ্নও তিনি তোলেন। দুটি উত্তর দেন। আখিরাতের প্রতিশ্রুতি এতটাই নিশ্চিত যে তা ঘটে যাওয়া ঘটনার মতো, যেমন ৫:১১৬ আয়াতে ঈসা (আঃ)-কে আল্লাহর প্রশ্ন অতীতকালে বলা হয়েছে। অথবা পোশাকগুলো এখনই তৈরি হয়ে আছে।"
+          },
+          {
+            "en": "What are they made of? Sa'id ibn Jubayr, reported in at-Tabari, Ibn Kathir, al-Qurtubi and al-Baghawi, says copper, molten copper in al-Baghawi's wording, because nothing grows hotter once it is heated. Al-Qurtubi links these to the garments of pitch, sarabiluhum min qatiran, of 14:50. As-Sa'di describes garments of pitch set alight so that the punishment reaches them from every side. The image is not of a flame that touches and passes. It is of something fitted to the body and worn, with no gap left for relief.",
+            "bn": "এগুলো কী দিয়ে তৈরি? তাবারী, ইবন কাসীর, কুরতুবী ও বাগাভী সবাই সাঈদ ইবন জুবাইরের কথা আনেন: তামা দিয়ে। বাগাভীর ভাষায় গলানো তামা, কারণ গরম করলে এর চেয়ে বেশি উত্তপ্ত আর কিছু হয় না। কুরতুবী এর সঙ্গে মিলিয়ে দেন ১৪:৫০ আয়াতের আলকাতরার জামা, সারাবীলুহুম মিন কাতিরান। সা'দী বর্ণনা দেন আলকাতরার পোশাকের, যাতে আগুন ধরিয়ে দেওয়া হয়, যেন শাস্তি চারদিক থেকে তাদের ঘিরে ধরে। ছবিটা এমন আগুনের নয়, যা ছুঁয়ে সরে যায়। এ যেন শরীরের মাপে বানানো, গায়ে পরা কিছু, যেখানে স্বস্তির কোনো ফাঁক নেই।"
+          },
+          {
+            "en": "A further reading, in al-Qurtubi, takes the garments as a figure: the fire encloses them the way cut garments enclose whoever wears them, just as the Qur'an calls the night a garment in 78:10. The Muyassar holds the two together, saying the punishment surrounds them in the form of garments made of fire, which they wear. Mujahid, in at-Tabari, sets the two outcomes side by side: the disbeliever has garments of fire cut for him, and the believer Allah admits to gardens beneath which rivers flow.",
+            "bn": "কুরতুবীতে আরেকটি ব্যাখ্যা আছে, যা পোশাককে উপমা হিসেবে নেয়। কাটা পোশাক যেমন পরিধানকারীকে ঘিরে রাখে, আগুনও তেমনি তাদের ঘিরে রাখবে। যেমন কুরআন ৭৮:১০ আয়াতে রাতকে পোশাক বলেছে। মুয়াসসার দুটোকে একসঙ্গে ধরে: শাস্তি তাদের ঘিরে ফেলবে আগুনের তৈরি পোশাকের আকারে, যা তারা পরবে। তাবারীর বর্ণনায় মুজাহিদ দুই পরিণতি পাশাপাশি রাখেন: কাফিরের জন্য কাটা হয়েছে আগুনের পোশাক, আর মুমিনকে আল্লাহ প্রবেশ করাবেন এমন জান্নাতে যার নিচ দিয়ে নহর বয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Poured Over Their Heads",
+          "bn": "মাথার উপর ঢালা পানি"
+        },
+        "p": [
+          {
+            "en": "Yusabbu min fawqi ru'usihimu l-hamim: scalding water is poured from above their heads. At-Tabari glosses al-hamim as boiled water, al-Baghawi as water whose heat has reached its limit, and al-Qurtubi as hot water brought to the boil by the fire of Hell. As-Sa'di carries the sentence straight into the next verse: the water is so hot that it melts the flesh, fat and entrails in their bellies. The garment encloses from outside and the water enters from above, so the punishment leaves no side of them untouched.",
+            "bn": "ইউসাব্বু মিন ফাওকি রুঊসিহিমুল হামীম: তাদের মাথার উপর থেকে ঢালা হবে ফুটন্ত পানি। তাবারী আল-হামীমের অর্থ করেন টগবগে ফোটানো পানি, বাগাভী বলেন এমন পানি যার উত্তাপ শেষ সীমায় পৌঁছেছে, আর কুরতুবী বলেন জাহান্নামের আগুনে ফোটানো গরম পানি। সা'দী বাক্যটিকে সোজা পরের আয়াতের সঙ্গে জুড়ে দেন: পানি এতটাই গরম যে পেটের ভেতরের মাংস, চর্বি আর নাড়িভুঁড়ি গলিয়ে দেয়। পোশাক বাইরে থেকে ঘিরে ধরে, আর পানি ঢোকে উপর থেকে। ফলে শাস্তি তাদের কোনো দিকই বাকি রাখে না।"
+          },
+          {
+            "en": "At-Tirmidhi records a report from Abu Hurayra, raised to the Prophet ﷺ, about what the scalding water does once it is poured, and at-Tabari relays it as well. At-Tirmidhi grades it hasan sahih gharib, so it is only mentioned here and nothing is built on it. The next verses carry it on: 22:20 names what the water melts, 22:21 the iron maces, and 22:22 the return of everyone who tries to escape. After them, 22:23 answers with the believers' side.",
+            "bn": "তিরমিযী আবু হুরায়রা (রাঃ) থেকে নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা এনেছেন, ঢেলে দেওয়ার পর ফুটন্ত পানি কী করে সে বিষয়ে। তাবারীও বর্ণনাটি এনেছেন। তিরমিযী একে হাসান সহীহ গরীব বলেছেন। তাই এখানে কেবল এর উল্লেখ থাকল, এর উপর কিছু দাঁড় করানো হলো না। পরের আয়াতগুলো দৃশ্যটি এগিয়ে নেয়। ২২:২০ আয়াত বলে পানি কী গলায়, ২২:২১ আয়াত লোহার মুগুরের কথা বলে, আর ২২:২২ আয়াত বলে পালাতে চাওয়া প্রত্যেককে ফিরিয়ে দেওয়ার কথা। আর এর পরের ২২:২৩ আয়াত জবাব দেয় মুমিনদের দিক থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Quarrel Decided Elsewhere",
+          "bn": "বিবাদের রায় অন্য জায়গায়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The men of Badr belong to history: a morning, a field, and a verse that names none of them. It gives no licence for hostility, contempt or harm toward any descendant of those men, any tribe, or any living person or community, the People of the Book of the second reading included. The verse describes a judgment that 22:17 places with Allah on the Day of Resurrection, and what He does there. It hands that judgment to no one on earth, and it makes no believer the one who cuts the garments.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। বদরের সেই মানুষেরা ইতিহাসের অংশ: একটা সকাল, একটা ময়দান, আর এমন আয়াত যা তাঁদের কারও নাম নেয় না। ওই মানুষগুলোর কোনো বংশধরের প্রতি, কোনো গোত্রের প্রতি, কিংবা জীবিত কোনো ব্যক্তি বা সম্প্রদায়ের প্রতি শত্রুতা, অবজ্ঞা বা ক্ষতি করার কোনো অনুমতি এ আয়াত দেয় না। দ্বিতীয় ব্যাখ্যায় যে আহলে কিতাবের কথা এসেছে, তারাও এর বাইরে নয়। আয়াতটি এমন এক ফয়সালার বর্ণনা দেয়, যা ২২:১৭ আয়াত অনুযায়ী কিয়ামতের দিন আল্লাহর হাতে। দুনিয়ার কারও হাতে সেই ফয়সালা তুলে দেয় না, কোনো মুমিনকে পোশাক কাটার দায়িত্বও দেয় না।"
+          },
+          {
+            "en": "What the verse does hand the reader is a question. Ibn Jurayj saw in the dispute every religion's certainty that it has more claim to Allah than the rest. The verse settles nothing by who argued best. It moves straight from the quarrel to what each side receives. Al-Qurtubi says 'Ali, speaking of kneeling first for the dispute, meant his duel that day: what he expected to bring before the Most Merciful was something he had done.",
+            "bn": "আয়াতটি পাঠকের হাতে যা তুলে দেয়, তা একটা প্রশ্ন। ইবন জুরাইজ এই বিবাদে দেখেছিলেন প্রত্যেক ধর্মের নিশ্চয়তা যে আল্লাহর উপর তার দাবিই বাকিদের চেয়ে বেশি। কিন্তু কে ভালো তর্ক করল, তা দিয়ে আয়াত কিছুই মীমাংসা করে না। বিবাদের কথা বলেই সোজা চলে যায় কে কী পাবে সেই কথায়। কুরতুবী বলেন, বিবাদের জন্য সবার আগে হাঁটু গেড়ে বসার কথা বলে আলী (রাঃ) বুঝিয়েছিলেন সেদিনের দ্বন্দ্বযুদ্ধ। অর্থাৎ পরম দয়াময়ের সামনে তিনি যা নিয়ে যাওয়ার আশা করেছিলেন, তা ছিল তাঁর করা একটি কাজ।"
+          },
+          {
+            "en": "That is the turn the verse asks of us. It is easy to argue about one's Lord, and easy to assume one already stands on the right side of the line. The verse puts the weight elsewhere: on faith that is lived and on the deeds that 22:23 names alongside it. Before I take my place in any argument about the truth, the better question is what I would bring to that judgment if it began today, and whether it would be a claim or a deed.",
+            "bn": "আয়াত আমাদের কাছে এই বাঁকটাই চায়। নিজের রবকে নিয়ে তর্ক করা সহজ। এটা ধরে নেওয়াও সহজ যে আমি আগে থেকেই সঠিক পক্ষে দাঁড়িয়ে আছি। আয়াত ভারটা রাখে অন্য জায়গায়: এমন ঈমানে, যা জীবনে দেখা যায়, আর সেই আমলে, যার কথা ২২:২৩ আয়াত ঈমানের পাশাপাশি বলেছে। সত্য নিয়ে কোনো তর্কে নিজের জায়গা নেওয়ার আগে ভালো প্রশ্নটা হলো: সেই ফয়সালা যদি আজই শুরু হয়, আমি কী নিয়ে যাব? তা কি একটা দাবি, নাকি একটা আমল?"
+          }
+        ]
+      }
+    ]
+  },
   "22:23": {
     "sections": [
       {

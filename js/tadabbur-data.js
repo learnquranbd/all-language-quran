@@ -34719,6 +34719,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Effort spent against Allah's verses is a race no one wins. Put your striving behind the truth, and never be the reason someone else is held back from it.",
     "lessonBn": "আল্লাহর আয়াতের বিরুদ্ধে খাটুনি এমন এক দৌড়, যাতে কেউ জেতে না। আপনার চেষ্টা সত্যের পক্ষে লাগান, আর কখনো এমন হবেন না যার কারণে অন্য কেউ সত্য থেকে পিছিয়ে পড়ে।"
+  },
+  "22:19": {
+    "reflectionEn": "The verse opens on a quarrel: two sides, each sure it stands nearer to its Lord. Two verses earlier Allah promised to judge between the religions on the Day of Resurrection, and here the judgment arrives without a single argument being weighed. One side is clothed in garments cut from fire, with scalding water poured over their heads; the other, a few verses on, is dressed in silk. Nobody wins this dispute by speaking well. I argue about faith more easily than I live it, and I am quick to place myself on the right side. The verse asks something quieter: if my side were judged today by what I do rather than by what I claim, which garment would be cut for me?",
+    "reflectionBn": "আয়াতটি শুরু হয় এক বিবাদ দিয়ে। দুই পক্ষ, আর প্রত্যেকেই নিশ্চিত যে রবের সবচেয়ে কাছে সে-ই। দুই আয়াত আগে আল্লাহ বলেছেন, কিয়ামতের দিন তিনি ধর্মগুলোর মধ্যে ফয়সালা করবেন। এখানে সেই ফয়সালা এসে যায়, অথচ কারও একটা যুক্তিও ওজন করা হয় না। এক পক্ষকে পরানো হয় আগুন কেটে বানানো পোশাক, মাথায় ঢালা হয় ফুটন্ত পানি। অন্য পক্ষ কয়েক আয়াত পরে রেশমের পোশাকে। এ বিবাদে সুন্দর কথা বলে কেউ জেতে না। ঈমান নিয়ে তর্ক করা আমার কাছে যতটা সহজ, ঈমান অনুযায়ী চলা ততটা নয়। আর নিজেকে সঠিক পক্ষে বসিয়ে দিতে আমি খুব তাড়াতাড়ি করি। আয়াতের প্রশ্নটা নিঃশব্দ: আজ যদি আমার দাবি নয়, আমার আমল দিয়ে আমার পক্ষ বিচার করা হয়, তাহলে আমার জন্য কোন পোশাক কাটা হবে?",
+    "pointsEn": [
+      "When I argue about religion, am I trying to reach the truth, or only to win?",
+      "Where do I spend more effort: proving that I belong to the right side, or living like someone who does?",
+      "The verse describes the Fire in plain, physical terms. Do I let that weight reach me, or hurry past it?",
+      "Is there someone I have quietly written off as belonging to the other side, when that judgment was never mine to give?",
+      "What one act this week would show my faith more clearly than any argument I could make?"
+    ],
+    "pointsBn": [
+      "ধর্ম নিয়ে তর্ক করার সময় আমি কি সত্যের কাছে পৌঁছাতে চাই, নাকি শুধু জিততে চাই?",
+      "আমার চেষ্টা বেশি কোথায় যায়: সঠিক পক্ষের লোক বলে নিজেকে প্রমাণ করায়, নাকি সত্যিই সেই লোকের মতো চলায়?",
+      "আয়াতটি জাহান্নামের বর্ণনা দেয় একেবারে চোখে দেখার মতো করে। সেই ভার কি আমি মনে পৌঁছাতে দিই, নাকি তাড়াতাড়ি পার হয়ে যাই?",
+      "এমন কেউ কি আছে, যাকে আমি মনে মনে অন্য পক্ষের লোক বলে বাতিল করে দিয়েছি, অথচ সেই রায় দেওয়ার অধিকার কখনো আমার ছিল না?",
+      "এ সপ্তাহে কোন একটি কাজ আমার ঈমানকে যেকোনো যুক্তির চেয়ে স্পষ্ট করে দেখাবে?"
+    ],
+    "lessonEn": "Which side of the dispute about your Lord you stand on is settled by faith and deeds, not by winning arguments, so live the claim you make.",
+    "lessonBn": "রবকে নিয়ে বিবাদে আপনি কোন পক্ষে, তা ঠিক হয় ঈমান আর আমল দিয়ে, তর্কে জেতা দিয়ে নয়। তাই যে দাবি করেন, সেই অনুযায়ী জীবন যাপন করুন।"
   }
 };
 
