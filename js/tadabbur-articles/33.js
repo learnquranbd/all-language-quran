@@ -2231,6 +2231,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "33:47": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Title Turned Into a Command",
+          "bn": "উপাধি থেকে আদেশ"
+        },
+        "p": [
+          {
+            "en": "Two verses earlier Allah addressed the Prophet ﷺ by his offices: a witness, a bringer of good tidings, a warner, a caller to Allah by His leave, and a lamp that gives light (33:45 and 33:46). Then the passage turns from naming to ordering. Wa-bashshiri al-mu'minina bi-anna lahum mina Allahi fadlan kabiran: and give glad tidings to the believers that they will have from Allah a great bounty. The noun mubashshir, the bringer of good news, becomes the verb bashshir, bring it. What he was called, he is now told to do.",
+            "bn": "দুই আয়াত আগে আল্লাহ নবী ﷺ-কে ডেকেছেন তাঁর দায়িত্বগুলোর নামে: সাক্ষী, সুসংবাদদাতা, সতর্ককারী, আল্লাহর অনুমতিক্রমে তাঁর দিকে আহ্বানকারী, আর আলো ছড়ানো প্রদীপ (৩৩:৪৫ ও ৩৩:৪৬)। এবার কথা নাম থেকে সরে আসে আদেশে। ওয়া বাশশিরিল মুমিনীনা বিআন্না লাহুম মিনাল্লাহি ফাদলান কাবীরা: আর মুমিনদের সুসংবাদ দাও যে, তাদের জন্য আল্লাহর কাছ থেকে আছে বিরাট অনুগ্রহ। মুবাশশির মানে যিনি সুসংবাদ আনেন। সেই শব্দই এখানে হয়ে গেছে বাশশির, অর্থাৎ সুসংবাদ দাও। যে নামে তাঁকে ডাকা হয়েছিল, সেই কাজটাই এখন তাঁকে করতে বলা হচ্ছে।"
+          },
+          {
+            "en": "Al-Qurtubi marks the joint in the grammar. The and that opens the verse, he says, joins sentence to sentence, and the meaning is cut off from what precedes it: Allah commands His Prophet to give the believers glad tidings of the great bounty. So this is not a sixth title but a fresh instruction, landing in a stretch already full of good news. The believers have just been told to remember Allah much; He and His angels send blessings on them; their greeting on the Day they meet Him is peace; and He has prepared for them a noble reward (33:41 to 33:44).",
+            "bn": "ব্যাকরণের জোড়াটা কুরতুবী দেখিয়ে দেন। তাঁর মতে আয়াতের শুরুর 'ওয়া' একটি বাক্যকে আরেকটি বাক্যের সঙ্গে জোড়ে, আর অর্থের দিক থেকে আগের কথা থেকে এটি আলাদা। আল্লাহ তাঁর নবীকে আদেশ দিচ্ছেন, মুমিনদের বিরাট অনুগ্রহের সুসংবাদ দাও। তাই এটি ষষ্ঠ উপাধি নয়, নতুন এক নির্দেশ। আর নির্দেশটা এসেছে এমন কয়েকটি আয়াতের পরে, যেগুলো আগে থেকেই সুসংবাদে ভরা। মুমিনদের একটু আগেই বলা হয়েছে আল্লাহকে বেশি বেশি স্মরণ করতে। তিনি ও তাঁর ফেরেশতারা তাদের উপর রহমত পাঠান। যেদিন তারা তাঁর সঙ্গে সাক্ষাৎ করবে, সেদিন তাদের অভিবাদন হবে সালাম। আর তিনি তাদের জন্য প্রস্তুত রেখেছেন সম্মানজনক প্রতিদান (৩৩:৪১ থেকে ৩৩:৪৪)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named by Their Faith",
+          "bn": "ঈমানই তাদের পরিচয়"
+        },
+        "p": [
+          {
+            "en": "The tidings have a named audience, al-mu'minin, the believers, and the verse sets no other condition: no tribe, no rank, no lineage. As-Sa'di draws a rule from that single word. When faith is mentioned on its own, he says, righteous deeds enter into it. The verse has no need to add 'and those who do good', because the faith it speaks of already carries the deeds inside it. The good news is not for a label worn on the tongue but for a faith that shows in what a person does.",
+            "bn": "সুসংবাদের শ্রোতা কারা, আয়াত নাম ধরে বলে দিয়েছে: আল-মুমিনীন, মুমিনরা। আর কোনো শর্ত নেই। গোত্র নয়, পদমর্যাদা নয়, বংশ নয়। এই একটি শব্দ থেকে সা'দী একটি নিয়ম বের করেন। তিনি বলেন, ঈমানের কথা যখন একা আসে, তখন নেক আমলও তার ভেতরে ঢুকে পড়ে। তাই আয়াতকে আলাদা করে বলতে হয়নি, 'আর যারা নেক আমল করে'। যে ঈমানের কথা এখানে, তা আমলকে নিজের ভেতরেই বহন করে। মুখে লাগানো নামের জন্য এই সুসংবাদ নয়। এ সুসংবাদ সেই ঈমানের জন্য, যা মানুষের কাজে ধরা পড়ে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the verse as the passage moving from description to duty. After attributing these qualities to the Prophet ﷺ, it says, the Qur'an asks him to carry on his functions: to give the faithful the good news that they are going to receive great bounties and mercy from Allah, and not to obey the desires of the disbelievers and the hypocrites. On that reading 33:47 and 33:48 are two halves of one charge, a message to deliver and a pressure to resist.",
+            "bn": "মাআরিফুল কুরআন আয়াতটিকে দেখে গুণের বর্ণনা থেকে দায়িত্বের দিকে যাওয়া হিসেবে। তাদের ভাষ্য, নবী ﷺ-এর এই গুণগুলো বলার পর কুরআন তাঁকে নিজের কাজ চালিয়ে যেতে বলছে। মুমিনদের খবর দিতে হবে যে, আল্লাহর কাছ থেকে তারা পাবে বিরাট অনুগ্রহ ও রহমত। আর কাফির ও মুনাফিকদের মনের ইচ্ছা মানা যাবে না। এভাবে পড়লে ৩৩:৪৭ ও ৩৩:৪৮ একই দায়িত্বের দুই অংশ। একদিকে পৌঁছে দেওয়ার বার্তা, অন্যদিকে প্রতিরোধ করার চাপ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Bounty Beyond the Wage",
+          "bn": "পারিশ্রমিকের চেয়ে বেশি"
+        },
+        "p": [
+          {
+            "en": "Look closely at what the news says. Lahum: it is theirs, stated as a settled fact. Mina Allahi: it comes from Allah, not from anyone's estimate of what they are worth. And it is called fadl, bounty, with the adjective kabir, great. Just before, the same believers were promised ajran kariman, a noble reward (33:44), and in 33:35 forgiveness and ajran 'aziman, a great reward. Here the passage uses a different word, and at-Tabari's explanation of it shows what the change adds.",
+            "bn": "খবরটার শব্দগুলো খেয়াল করুন। লাহুম: এটা তাদের, পাকা কথা হিসেবে বলা। মিনাল্লাহ: এটা আসে আল্লাহর কাছ থেকে, কারও মূল্যায়নে তারা কত দামি, সেই হিসাব থেকে নয়। আর এর নাম ফাদল, অনুগ্রহ, সঙ্গে বিশেষণ কাবীর, বিরাট। একটু আগেই এই মুমিনদের প্রতিশ্রুতি দেওয়া হয়েছিল আজরান কারীমা, সম্মানজনক প্রতিদান (৩৩:৪৪)। আর ৩৩:৩৫ আয়াতে মাগফিরাত ও আজরান আযীমা, মহাপ্রতিদান। এখানে শব্দটা বদলে গেছে। এই বদলে নতুন কী যোগ হলো, তাবারীর ব্যাখ্যা তা দেখিয়ে দেয়।"
+          },
+          {
+            "en": "At-Tabari explains: give the people of faith in Allah the good news, O Muhammad, that they will have from Allah's reward for their obedience to Him a great multiplying, and that is the great bounty from Allah to them. For him the bounty is not a second gift standing beside the reward. It is the reward itself, multiplied far beyond the obedience that earned it. The deed is real and it counts. But the size of what comes back is set by the Giver, not by the size of the deed.",
+            "bn": "তাবারী বলেন, হে মুহাম্মাদ, আল্লাহর প্রতি ঈমান আনা লোকদের সুসংবাদ দাও যে, আল্লাহর আনুগত্যের বিনিময়ে তাঁর দেওয়া প্রতিদান থেকে তারা পাবে বহু গুণ বৃদ্ধি। এটাই তাদের প্রতি আল্লাহর বিরাট অনুগ্রহ। তাঁর মতে অনুগ্রহ প্রতিদানের পাশে দাঁড়ানো আলাদা কোনো উপহার নয়। প্রতিদানটাই অনুগ্রহ, যা আনুগত্যের তুলনায় বহু গুণ বাড়িয়ে দেওয়া হয়েছে। আমল সত্যি, তার হিসাবও আছে। কিন্তু বিনিময়ে কত আসবে, তা ঠিক করেন দাতা। আমলের মাপে তা ঠিক হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Verse That Opens It",
+          "bn": "যে আয়াত খুলে বলে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relays a remark from Ibn 'Atiyya, who said: my father said to us, this is among the most hopeful verses in the Book of Allah to me. His reason: Allah commanded His Prophet to give the believers the news that they have with Him a great bounty, and Allah has made clear elsewhere what that great bounty is, in 42:22: and those who believed and did righteous deeds are in the lush meadows of the gardens; they will have whatever they wish with their Lord; that is the great bounty.",
+            "bn": "কুরতুবী ইবন আতিয়্যার একটি কথা উদ্ধৃত করেন। ইবন আতিয়্যা বলেন, আমার বাবা আমাদের বলেছিলেন, আমার কাছে আল্লাহর কিতাবে এটি সবচেয়ে আশা জাগানো আয়াতগুলোর একটি। কারণ হিসেবে তিনি বলেন, আল্লাহ তাঁর নবীকে আদেশ দিয়েছেন মুমিনদের খবর দিতে যে, তাঁর কাছে তাদের জন্য আছে বিরাট অনুগ্রহ। আর সেই বিরাট অনুগ্রহ কী, তা আল্লাহ অন্য জায়গায় স্পষ্ট করে দিয়েছেন, ৪২:২২ আয়াতে: যারা ঈমান এনেছে ও নেক আমল করেছে, তারা থাকবে জান্নাতের বাগিচায়। তারা যা চাইবে, তাদের রবের কাছে তা-ই পাবে। এটাই বিরাট অনুগ্রহ।"
+          },
+          {
+            "en": "The phrase that closes 42:22 is the very phrase of this verse, al-fadl al-kabir, now with the definite article. So, the father concluded, the verse in this surah is a report, and the verse in Ha Mim 'Ain Sin Qaf, Surah 42, is its explanation. The first verse announces the gift and the second opens it. There is a second echo too. Verse 42:22 names its people as those who believed and did righteous deeds, the very pairing as-Sa'di said the single word believers already holds.",
+            "bn": "৪২:২২ আয়াত যে কথায় শেষ হয়েছে, সেটাই এই আয়াতের কথা: আল-ফাদলুল কাবীর, এবার নির্দিষ্টবাচক 'আল' যুক্ত হয়ে। তাই ইবন আতিয়্যার বাবার সিদ্ধান্ত, এই সূরার আয়াতটি সংবাদ, আর হা-মীম আইন-সীন-কাফ, অর্থাৎ ৪২ নম্বর সূরার আয়াতটি তার ব্যাখ্যা। প্রথম আয়াত উপহারের ঘোষণা দেয়, দ্বিতীয়টি মোড়ক খোলে। আরেকটি মিলও আছে। ৪২:২২ আয়াত তার মানুষদের পরিচয় দেয় ঈমান ও নেক আমল একসঙ্গে জুড়ে। সা'দী বলেছিলেন, শুধু 'মুমিন' শব্দটির ভেতরেই এই জোড়া রয়ে গেছে।"
+          },
+          {
+            "en": "Al-Muyassar, without naming the other verse, reaches for its words. It glosses the great bounty as a great reward from Allah, and then says what that reward is: rawdat al-jannat, the meadows of the gardens, the same phrase 42:22 uses. Two readings, then, send the reader of 33:47 to the same place. The great bounty is not left vague. It has a name and a setting, and the believer who hears this verse is meant to picture it.",
+            "bn": "মুয়াসসার অন্য আয়াতটির নাম নেয় না, তবে তার শব্দই ব্যবহার করে। সে বিরাট অনুগ্রহের ব্যাখ্যা দেয় আল্লাহর কাছ থেকে বিরাট প্রতিদান বলে। তারপর বলে দেয় সেই প্রতিদান কী: রাওদাতুল জান্নাত, জান্নাতের বাগিচা। ৪২:২২ আয়াতে ঠিক এই শব্দই আছে। তাহলে দুটি ব্যাখ্যা ৩৩:৪৭-এর পাঠককে একই জায়গায় নিয়ে যায়। বিরাট অনুগ্রহকে অস্পষ্ট রেখে দেওয়া হয়নি। তার নাম আছে, ঠিকানা আছে। যে মুমিন এই আয়াত শোনে, তাকে সেই ছবি মনে আঁকতে ডাকা হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Drawn in a Wider Circle",
+          "bn": "আরও বড় বৃত্তে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws the circle wider. The great bounty, he says, is immense and majestic, beyond any estimate of its measure, and he lists what it holds: help in this world, the guidance of hearts, the forgiveness of sins, the lifting of distress, abundant and flowing provision, blessings that gladden, the winning of their Lord's pleasure and His reward, and rescue from His anger and His punishment. Some of that list belongs to the life after death. Much of it belongs to this life.",
+            "bn": "সা'দী বৃত্তটা আরও বড় করে আঁকেন। তাঁর ভাষায়, এই বিরাট অনুগ্রহ এত মহান ও মহিমাময় যে তার পরিমাণ আন্দাজ করা যায় না। এর ভেতরে কী কী আছে, তিনি তার তালিকা দেন: দুনিয়াতে সাহায্য ও বিজয়, অন্তরের হিদায়াত, গুনাহের মাগফিরাত, বিপদ দূর হওয়া, অবিরাম প্রচুর রিজিক, মন খুশি করা নিয়ামত, রবের সন্তুষ্টি ও তাঁর প্রতিদান লাভ, আর তাঁর ক্রোধ ও শাস্তি থেকে মুক্তি। এই তালিকার কিছু অংশ মৃত্যুর পরের জীবনের। তবে অনেকটাই এই জীবনের।"
+          },
+          {
+            "en": "Here the commentators differ in scope. At-Tabari places the bounty in the multiplied reward for obedience; al-Muyassar and Ibn 'Atiyya's father point to the gardens of 42:22. As-Sa'di includes the reward and Allah's pleasure, but also the help, the guidance, the relief and the provision that reach a believer before death. The verse itself names neither a time nor a place, only that the bounty is great and that it is from Allah. Each reading stands as its author gave it.",
+            "bn": "এখানে তাফসীরকারদের মধ্যে পরিসরের পার্থক্য আছে। তাবারী অনুগ্রহকে দেখেন আনুগত্যের বহু গুণ বাড়ানো প্রতিদানে। মুয়াসসার আর ইবন আতিয়্যার বাবা দেখান ৪২:২২-এর জান্নাতের দিকে। সা'দী প্রতিদান ও আল্লাহর সন্তুষ্টি তো রাখেনই, সঙ্গে রাখেন সেই সাহায্য, হিদায়াত, স্বস্তি আর রিজিক, যা মুমিন মৃত্যুর আগেই পায়। আয়াত নিজে সময় বা স্থানের কথা বলেনি। বলেছে শুধু এটুকু, অনুগ্রহটা বিরাট আর তা আল্লাহর কাছ থেকে। প্রতিটি ব্যাখ্যা তার বক্তা যেভাবে দিয়েছেন, সেভাবেই থাকুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Promise Is Spoken",
+          "bn": "সুসংবাদ কেন শোনানো হয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di also asks why the news is told at all. To mention to those who work the reward Allah gives for their deeds, he says, gives them energy, and helps them keep to the straight path. That is part of the wisdom of the Law, he adds, just as it is part of its wisdom to mention, where warning is meant, the punishments that follow on what is warned against, so that they help a person hold back from what Allah has forbidden. Good news is not decoration. It is a means.",
+            "bn": "সা'দী আরেকটি প্রশ্নও তোলেন: সুসংবাদটা শোনানো হয় কেন? তাঁর উত্তর, যারা আমল করে, তাদের আমলের বিনিময়ে আল্লাহর প্রতিদানের কথা শোনালে তারা উদ্যম পায়। সিরাতুল মুস্তাকীমে টিকে থাকতে সেটা তাদের সাহায্য করে। তিনি যোগ করেন, এটা শরীয়তের হিকমতের অংশ। ঠিক যেমন ভয় দেখানোর জায়গায় নিষিদ্ধ কাজের শাস্তির কথা বলাও তার হিকমত, যাতে আল্লাহ যা হারাম করেছেন, তা থেকে মানুষ বিরত থাকতে পারে। সুসংবাদ তাই সাজসজ্জা নয়। এটা পথ চলার সহায়।"
+          },
+          {
+            "en": "Notice what this stretch does with the warning. In 33:45 the Prophet ﷺ was named both mubashshir and nadhir, bringer of good tidings and warner. Of the two, only the good tidings come back here as a command addressed to him. The next verse does speak of the disbelievers and the hypocrites, but it carries no threat against them. It tells the Prophet ﷺ not to obey them and to leave their harm. In these verses, the word handed to the believers is hope.",
+            "bn": "লক্ষ করুন, এই অংশে সতর্কবাণীর কী হলো। ৩৩:৪৫ আয়াতে নবী ﷺ-কে বলা হয়েছিল মুবাশশির ও নাযীর, সুসংবাদদাতা ও সতর্ককারী। দুটির মধ্যে শুধু সুসংবাদই এখানে তাঁর প্রতি আদেশ হয়ে ফিরে এসেছে। পরের আয়াতে কাফির ও মুনাফিকদের কথা আছে ঠিকই, তবে তাদের বিরুদ্ধে কোনো হুমকি নেই। নবী ﷺ-কে শুধু বলা হয়েছে তাদের কথা না মানতে আর তাদের দেওয়া কষ্ট উপেক্ষা করতে। এই আয়াতগুলোতে মুমিনদের হাতে যে কথা তুলে দেওয়া হলো, তা আশা।"
+          },
+          {
+            "en": "None of the tafsir texts fetched for this verse attaches a hadith to it. A general narration, not tied to this verse, shows how the Prophet ﷺ wanted good news to be carried. Al-Bukhari records in his Sahih from Anas ibn Malik (RA) that the Prophet ﷺ said: \"Facilitate things to people (concerning religious matters), and do not make it hard for them and give them good tidings and do not make them run away (from Islam).\" Giving glad tidings stands beside making things easy, and against driving people off.",
+            "bn": "এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস জোড়েনি। তবে একটি সাধারণ বর্ণনা আছে, যা এই আয়াতের সঙ্গে যুক্ত নয়। নবী ﷺ সুসংবাদ কীভাবে পৌঁছাতে চাইতেন, তা এতে দেখা যায়। বুখারী তাঁর সহীহ গ্রন্থে আনাস ইবন মালিক (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: \"তোমরা সহজ করো, কঠিন করো না। সুসংবাদ দাও, বিমুখ করো না।\" সুসংবাদ দেওয়ার পাশে দাঁড়িয়ে আছে সহজ করা, আর তার উল্টো দিকে মানুষকে দূরে তাড়িয়ে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Then, Leave Their Harm",
+          "bn": "তাদের কষ্ট উপেক্ষা করা"
+        },
+        "p": [
+          {
+            "en": "The next verse completes the charge: wa-la tuti'i al-kafirina wa-al-munafiqina wa-da' adhahum wa-tawakkal 'ala Allah, do not obey the disbelievers and the hypocrites, leave their harm, and rely on Allah (33:48). At-Tabari explains the obedience that is forbidden: do not listen to a disbeliever or a hypocrite who calls you to fall short in delivering Allah's messages. Leave their harm, he says, means turn away from the harm they do you and bear it patiently, and do not let it keep you from Allah's command.",
+            "bn": "পরের আয়াত দায়িত্বটা পূর্ণ করে: ওয়া লা তুতিইল কাফিরীনা ওয়াল মুনাফিকীনা ওয়া দা' আযাহুম ওয়া তাওয়াক্কাল আলাল্লাহ, কাফির ও মুনাফিকদের কথা মেনো না, তাদের দেওয়া কষ্ট উপেক্ষা করো, আর আল্লাহর উপর ভরসা রাখো (৩৩:৪৮)। কোন আনুগত্য নিষেধ, তাবারী তা খুলে বলেন। কোনো কাফির বা মুনাফিক যদি আল্লাহর বার্তা পৌঁছাতে ঢিলেমির দিকে ডাকে, তার কথা শুনো না। আর কষ্ট উপেক্ষা করার মানে, তারা যে কষ্ট দেয় তা থেকে মুখ ফিরিয়ে নাও, সবর করো, আর সেই কষ্ট যেন আল্লাহর আদেশ পালনে বাধা না হয়।"
+          },
+          {
+            "en": "On wa-da' adhahum the grammar can run two ways, and al-Qurtubi sets out both. In one, the harm is the Prophet's ﷺ to give: leave off harming them in return for their harming you, an order to forgo punishing them and to pardon their slips. Al-Baghawi gives a similar line from az-Zajjaj: do not repay them for it. In the other, the harm is theirs: turn away from what they say and the hurt they cause you, and do not be taken up with it. Al-Qurtubi names this second reading as Mujahid's.",
+            "bn": "ওয়া দা' আযাহুম কথাটার ব্যাকরণ দুই দিকে যেতে পারে, আর কুরতুবী দুটোই তুলে ধরেন। এক অর্থে কষ্ট দেওয়ার কাজটা নবী ﷺ-এর দিক থেকে: তারা তোমাকে কষ্ট দিয়েছে বলে বদলা হিসেবে তুমি তাদের কষ্ট দিয়ো না। অর্থাৎ শাস্তি দেওয়া ছেড়ে দাও, তাদের ভুলত্রুটি মাফ করো। বাগাভীও যাজ্জাজের কাছাকাছি একটি কথা আনেন: এর জন্য তাদের প্রতিফল দিয়ো না। অন্য অর্থে কষ্টটা তাদের দেওয়া: তাদের কথাবার্তা আর তারা যে কষ্ট দেয় তা থেকে মুখ ফিরিয়ে নাও, তা নিয়ে ব্যস্ত হয়ো না। কুরতুবী এই দ্বিতীয় অর্থকে মুজাহিদের ব্যাখ্যা বলে উল্লেখ করেন।"
+          },
+          {
+            "en": "As-Sa'di joins the two commands. Not obeying them, he says, does not call for harming them: do not obey them, and leave their harm, for that draws them in, invites them to accept Islam, and holds back much of their harm from him and from his people. Ibn Kathir reads it the same way: pardon and overlook them, and leave their matter to Allah, for He is enough to deal with them. Ma'arif al-Qur'an adds that if harm does come to him in the course of preaching, it is in reality a gain.",
+            "bn": "সা'দী দুই আদেশকে একসঙ্গে মেলান। তাঁর কথা, তাদের না মানার মানে এই নয় যে তাদের কষ্ট দিতে হবে। তাদের কথা মেনো না, আর তাদের দেওয়া কষ্ট উপেক্ষা করো। কারণ এটাই তাদের কাছে টানে, ইসলাম কবুলের দিকে ডাকে, আর নবী ও তাঁর লোকদের উপর তাদের অনেক কষ্ট দেওয়া থামিয়ে দেয়। ইবন কাসীরও একই রকম পড়েন: তাদের মাফ করো, এড়িয়ে যাও, আর তাদের ব্যাপারটা আল্লাহর হাতে ছেড়ে দাও। তাদের সামলাতে তিনিই যথেষ্ট। মাআরিফুল কুরআন যোগ করে, দাওয়াতের পথে যদি কোনো কষ্ট আসেও, আসলে তা লাভ।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: the Prophet's ﷺ stance toward those who opposed him in his own time. It licenses nothing against any living person or community. Its own instruction runs the other way: refuse whatever pulls you away from the message, and leave the harm; as-Sa'di adds that refusing to obey them does not call for harming them. Whoever reaches for this verse to justify hostility has kept the words do not obey and dropped the words leave their harm.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত সেটুকুই বর্ণনা করে, যা তার ভাষায় আছে: নবী ﷺ-এর নিজের যুগে যারা তাঁর বিরোধিতা করেছিল, তাদের প্রতি তাঁর অবস্থান। আজকের কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। আয়াতের নিজের নির্দেশ বরং উল্টো দিকে যায়। বার্তা থেকে যা সরিয়ে নেয় তা প্রত্যাখ্যান করো, আর কষ্ট উপেক্ষা করো। সা'দী যোগ করেন, তাদের কথা না মানার মানে তাদের কষ্ট দেওয়া নয়। কেউ যদি শত্রুতার পক্ষে এই আয়াত টেনে আনে, তবে সে 'মেনো না' কথাটা রেখেছে, আর 'কষ্ট উপেক্ষা করো' কথাটা ফেলে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Allah Suffices as Guardian",
+          "bn": "আল্লাহই যথেষ্ট অভিভাবক"
+        },
+        "p": [
+          {
+            "en": "The passage closes: wa-kafa billahi wakila, and Allah is sufficient as a guardian of affairs. At-Tabari explains: hand your affairs over to Allah and trust Him, for He will suffice you against everyone besides Him until His command and decree arrive; Allah is enough as the manager of your affairs, your guard and your keeper. Al-Qurtubi hears in the force of the words a promise of help. So the good news of 33:47 and the trust of 33:48 lean on each other. The bounty is from Allah, and so is the protection.",
+            "bn": "অংশটি শেষ হয়: ওয়া কাফা বিল্লাহি ওয়াকীলা, কার্যনির্বাহী হিসেবে আল্লাহই যথেষ্ট। তাবারী বলেন, তোমার সব কাজ আল্লাহর হাতে সঁপে দাও, তাঁর উপর আস্থা রাখো। তাঁর আদেশ ও ফয়সালা আসা পর্যন্ত তিনি তোমাকে তাঁকে ছাড়া আর সবার থেকে রক্ষা করবেন। তোমার কাজের তত্ত্বাবধায়ক, রক্ষক ও পাহারাদার হিসেবে আল্লাহই যথেষ্ট। কুরতুবী কথাটার জোরের ভেতরে সাহায্যের প্রতিশ্রুতি শুনতে পান। এভাবে ৩৩:৪৭-এর সুসংবাদ আর ৩৩:৪৮-এর তাওয়াক্কুল একে অন্যের উপর ভর দিয়ে দাঁড়ায়। অনুগ্রহ আসে আল্লাহর কাছ থেকে, সুরক্ষাও আসে তাঁরই কাছ থেকে।"
+          },
+          {
+            "en": "For the believer reading now, the verse is first a word to receive. Whatever one's deeds, the news is that what comes from Allah will be great: the reward multiplied beyond the deed in at-Tabari's reading, the meadows of 42:22 in the words of Ibn 'Atiyya's father, help and guidance in this life as well in the reading of as-Sa'di. It is also a manner to learn. Whoever speaks about the faith can lead with hope as this verse does, make things easy and not hard, and keep going when others mock, leaving them to Allah.",
+            "bn": "আজকের পাঠক মুমিনের কাছে আয়াতটি প্রথমত গ্রহণ করার মতো একটি কথা। আমল যেমনই হোক, খবরটা হলো, আল্লাহর কাছ থেকে যা আসবে তা বিরাট। তাবারীর ব্যাখ্যায় তা আমলের চেয়ে বহু গুণ বাড়ানো প্রতিদান। ইবন আতিয়্যার বাবার কথায় ৪২:২২-এর জান্নাতের বাগিচা। আর সা'দীর ব্যাখ্যায় এই জীবনেও সাহায্য ও হিদায়াত। আয়াতটি একটি আদবও শেখায়। দ্বীনের কথা যে বলে, সে এই আয়াতের মতো আশা দিয়ে শুরু করতে পারে, কঠিন না করে সহজ করতে পারে। আর অন্যরা বিদ্রূপ করলে তাদের আল্লাহর হাতে ছেড়ে দিয়ে নিজের কাজ চালিয়ে যেতে পারে।"
+          }
+        ]
+      }
+    ]
+  },
   "33:50": {
     "sections": [
       {

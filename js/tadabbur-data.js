@@ -36413,6 +36413,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do your part, then trust Allah to settle what is beyond you; He is enough for the believers, and anger aimed at His servants gains nothing.",
     "lessonBn": "নিজের অংশের কাজটুকু করুন, তারপর যা সাধ্যের বাইরে তা আল্লাহর উপর ছেড়ে দিন। মু'মিনদের জন্য তিনিই যথেষ্ট, আর তাঁর বান্দাদের বিরুদ্ধে রাগ কিছুই অর্জন করে না।"
+  },
+  "33:47": {
+    "reflectionEn": "Moments after the Prophet ﷺ is named a bringer of good tidings, he is told to deliver them. The news is short: the believers will have from Allah a great bounty. Not a wage counted out to the last coin, but bounty, larger than the deed could ever claim, and it comes from Allah Himself. The very next verse turns to those who opposed him: do not obey them, leave their harm aside, and rely on Allah. Good news and pressure arrive together, and the news is not withdrawn because the pressure is real. Do I hold this promise as a gift, or as a payment I think I am owed? And when I speak of faith to others, is hope the first thing they hear?",
+    "reflectionBn": "নবী ﷺ-কে সুসংবাদদাতা বলে পরিচয় করিয়ে দেওয়ার পরপরই তাঁকে বলা হলো, সুসংবাদটা পৌঁছে দাও। খবরটা ছোট: মুমিনদের জন্য আল্লাহর কাছ থেকে আছে বিরাট অনুগ্রহ। গুনে গুনে মেপে দেওয়া পারিশ্রমিক নয়, অনুগ্রহ। আমল যতটুকু দাবি করতে পারে, তার চেয়ে অনেক বড়, আর তা আসে স্বয়ং আল্লাহর কাছ থেকে। ঠিক পরের আয়াতেই কথা ঘোরে বিরোধীদের দিকে: তাদের কথা মেনো না, তাদের দেওয়া কষ্ট উপেক্ষা করো, আল্লাহর উপর ভরসা রাখো। সুসংবাদ আর চাপ একসঙ্গে আসে। চাপ সত্যি বলে সুসংবাদ ফিরিয়ে নেওয়া হয় না। এই প্রতিশ্রুতিকে আমি কি দান হিসেবে ধরে রাখি, নাকি পাওনা মজুরি ভাবি? আর অন্যের কাছে ঈমানের কথা বললে তারা কি প্রথমে আশার কথাটাই শোনে?",
+    "pointsEn": [
+      "When I picture what awaits the believers, do I see a wage I have earned or a bounty I could never have earned?",
+      "When I talk about the faith, do my words draw people closer or push them away?",
+      "Which promise of Allah have other people's taunts crowded out of my mind this week?",
+      "What good work have I let go because I forgot how much its reward is multiplied?",
+      "Whose mockery is still deciding what I do, when I could leave it with Allah and carry on?"
+    ],
+    "pointsBn": [
+      "মুমিনদের জন্য যা অপেক্ষা করছে, তা ভাবলে আমার চোখে কী ভাসে: নিজের কামাই করা মজুরি, নাকি এমন অনুগ্রহ যা কামাই করে পাওয়া যায় না?",
+      "দ্বীনের কথা বলতে গেলে আমার কথা কি মানুষকে কাছে টানে, নাকি দূরে ঠেলে দেয়?",
+      "এ সপ্তাহে মানুষের খোঁচা আল্লাহর কোন প্রতিশ্রুতিকে আমার মন থেকে সরিয়ে দিয়েছে?",
+      "কোন নেক আমল আমি ছেড়ে দিয়েছি, কারণ ভুলে গিয়েছিলাম তার প্রতিদান কত গুণ বাড়িয়ে দেওয়া হয়?",
+      "কার বিদ্রূপ এখনো আমার কাজ ঠিক করে দিচ্ছে, অথচ তা আল্লাহর হাতে ছেড়ে দিয়ে আমি নিজের পথে চলতে পারতাম?"
+    ],
+    "lessonEn": "Hold on to Allah's promise of a great bounty, far larger than your deeds, and let that promise, not people's pressure, set your course.",
+    "lessonBn": "আল্লাহ যে বিরাট অনুগ্রহের প্রতিশ্রুতি দিয়েছেন, যা আপনার আমলের চেয়ে অনেক বড়, তা আঁকড়ে ধরুন। মানুষের চাপ নয়, সেই প্রতিশ্রুতিই আপনার পথ ঠিক করুক।"
   }
 };
 
