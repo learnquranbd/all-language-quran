@@ -37773,6 +37773,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Count real loss as losing yourself and your family on the Day of Resurrection, and spend this life guarding both while you still can.",
     "lessonBn": "কিয়ামতের দিনে নিজেকে আর নিজের পরিবারকে হারানোকেই আসল ক্ষতি বলে জানুন, আর সময় থাকতেই এ জীবনটা দুটোকেই রক্ষা করায় ব্যয় করুন।"
+  },
+  "43:29": {
+    "reflectionEn": "Ibrahim (AS) left one sentence among his children, hoping they would return to it. Generations later his descendants had drifted from it, and still the verse does not say they were struck down at once. It says: I gave them enjoyment, them and their fathers, until the truth came, and a messenger who made it plain. Long lives, comfort, the ordinary run of days, all of it went on while they stayed where they were. That time was not approval. It was a wait, and it ended in an arrival. Comfort can feel like proof that all is well with me. The verse reads it as room given before the question is put. What am I doing with the room I have been given?",
+    "reflectionBn": "ইবরাহীম (আঃ) সন্তানদের মধ্যে একটি কথা রেখে গিয়েছিলেন, এই আশায় যে তারা বারবার সেদিকে ফিরবে। বহু প্রজন্ম পরে তাঁর বংশধরেরা সে কথা থেকে সরে গেল। তবু আয়াত বলে না যে সঙ্গে সঙ্গে তাদের ধরা হয়েছিল। আল্লাহ বলছেন: আমি ভোগের সামগ্রী দিয়েছি, তাদেরও, তাদের বাপ-দাদাদেরও, যতদিন না সত্য এল, আর এলেন এমন রসূল যিনি সব স্পষ্ট করে দেন। লম্বা জীবন, আরাম, দিনের পর দিনের স্বাভাবিক চলা, সবই চলছিল, আর তারা যেখানে ছিল সেখানেই রয়ে গেল। এ সময় সন্তুষ্টির সনদ ছিল না। ছিল অপেক্ষা, আর সে অপেক্ষা শেষ হলো একজনের আগমনে। আরাম পেলে মনে হয়, আমার সব ঠিক আছে। আয়াত আরামকে পড়ে অন্যভাবে: প্রশ্নটা সামনে আসার আগে দেওয়া অবকাশ। যে অবকাশ আমাকে দেওয়া হয়েছে, তা দিয়ে আমি কী করছি?",
+    "pointsEn": [
+      "What comfort in my life have I been reading as a sign that Allah is pleased with me, without checking it against what He asked of me?",
+      "If the years I have been given are a wait rather than a reward, what would I want to have done with them by the time the wait ends?",
+      "When the truth is made plain to me, do I weigh it, or do I reach for what my family has always done?",
+      "Which of my desires has lived in me so long that it now feels like a conviction?",
+      "What word of faith am I leaving among those who come after me, and how often do they hear me say it?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন আরামটাকে আমি আল্লাহর সন্তুষ্টির আলামত ধরে নিয়েছি, অথচ তিনি আমার কাছে যা চেয়েছেন তার সঙ্গে মিলিয়ে দেখিনি?",
+      "যে বছরগুলো আমাকে দেওয়া হয়েছে, সেগুলো যদি পুরস্কার না হয়ে অপেক্ষার সময় হয়, তবে অপেক্ষা ফুরোনোর আগে আমি কী করে রাখতে চাই?",
+      "সত্য যখন আমার সামনে স্পষ্ট হয়ে আসে, আমি কি তা মেপে দেখি, নাকি পরিবারে বরাবর যা চলে আসছে তা-ই আঁকড়ে ধরি?",
+      "আমার কোন চাওয়াটা এত দিন ধরে মনে বাসা বেঁধে আছে যে এখন সেটাকেই বিশ্বাস বলে মনে হয়?",
+      "আমার পরে যারা আসবে, তাদের মধ্যে ঈমানের কোন কথাটা রেখে যাচ্ছি? আর কত বার তারা আমার মুখে সে কথা শোনে?"
+    ],
+    "lessonEn": "Ease and long years are a respite, not a sign of approval; when the truth is made clear, answer it instead of resting on comfort or on what your fathers did.",
+    "lessonBn": "আরাম আর দীর্ঘ জীবন অবকাশ মাত্র, সন্তুষ্টির সনদ নয়। সত্য যখন স্পষ্ট হয়ে আসে, তখন আরাম বা বাপ-দাদার রীতির উপর ভর না দিয়ে সে সত্যে সাড়া দিন।"
   }
 };
 

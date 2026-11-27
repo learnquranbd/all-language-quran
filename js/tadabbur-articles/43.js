@@ -1331,6 +1331,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Word Left Behind",
+          "bn": "রেখে যাওয়া কথার পরে"
+        },
+        "p": [
+          {
+            "en": "Bal matta'tu ha'ula'i wa aba'ahum hatta ja'ahumu al-haqqu wa rasulun mubin: rather, I gave enjoyment to these and their fathers, until the truth came to them and a clear messenger. The verse comes straight after Ibrahim (AS) declares himself free of what his people worship (43:26 and 43:27), and after the note that he made it a word remaining among his descendants, that they might return (43:28). That declaration and its survival are treated in the article on 43:26. Here the passage moves on to what the descendants did with the word.",
+            "bn": "বাল মাত্তা'তু হা-উলা-ই ওয়া আবা-আহুম হাত্তা জা-আহুমুল হাক্কু ওয়া রাসূলুম মুবীন: বরং আমি এদের আর এদের বাপ-দাদাদের ভোগের সামগ্রী দিয়েছি, যতদিন না তাদের কাছে সত্য এল আর এলেন স্পষ্ট রসূল। ঠিক আগের আয়াতে ইবরাহীম (আঃ) ঘোষণা দিয়েছেন, তাঁর কওম যাদের ইবাদত করে তাদের সঙ্গে তাঁর কোনো সম্পর্ক নেই (৪৩:২৬ ও ৪৩:২৭)। এরপর আয়াত জানায়, এ কথাকে তিনি বংশধরদের মধ্যে স্থায়ী করে রেখে গেলেন, যাতে তারা ফিরে আসে (৪৩:২৮)। সে ঘোষণা আর তার টিকে থাকার আলোচনা আছে ৪৩:২৬-এর প্রবন্ধে। এখানে প্রসঙ্গ এগোয় পরের প্রশ্নে: বংশধরেরা সে কথা নিয়ে কী করল।"
+          },
+          {
+            "en": "As-Sa'di draws the link between the two verses in so many words. The word, he says, never ceased to exist among Ibrahim's offspring until luxury and transgression, at-taraf wa at-tughyan, entered them, and then Allah said: rather, I gave enjoyment to these and their fathers. Read with him, the opening bal marks a turn. The hope of 43:28 was that they would come back to the word. What followed, across generations, was enjoyment in place of return. The verse tells it without anger, as a span of time that was given and that had an end.",
+            "bn": "দুই আয়াতের যোগসূত্র সা'দী সরাসরি বলে দেন। তাঁর ভাষায়, ইবরাহীম (আঃ)-এর বংশে কথাটি টিকে ছিল, যতদিন না তাদের মধ্যে ভোগবিলাস আর সীমালঙ্ঘন (তারাফ ও তুগইয়ান) ঢুকে পড়ল। তখনই আল্লাহ বললেন: বরং আমি এদের আর এদের বাপ-দাদাদের ভোগের সামগ্রী দিয়েছি। তাঁর পাঠ ধরলে শুরুর 'বাল' শব্দটি একটা মোড় ঘোরায়। ৪৩:২৮-এর আশা ছিল, তারা কথাটির দিকে ফিরবে। কিন্তু প্রজন্মের পর প্রজন্ম এল ভোগ, ফেরা এল না। আয়াত এ কথা রাগের সুরে বলে না। বলে এমন এক সময়ের কথা, যা দেওয়া হয়েছিল, আর যার একটা শেষও ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "These, and the Fathers Before",
+          "bn": "এরা, আর এদের বাপ-দাদা"
+        },
+        "p": [
+          {
+            "en": "Who are these? At-Tabari reads the verse as addressed to the Prophet ﷺ: I gave enjoyment, O Muhammad, to these idolaters of your people, and to their fathers before them. The Muyassar keeps the same address, O Messenger, and the same people. Ibn Kathir says simply the idolaters, al-Baghawi the idolaters in this world, and al-Jalalayn these idolaters. Tanwir al-Miqbas, attributed to Ibn Abbas, names them the people of Mecca. The pointing word ha'ula'i, in all these readings, reaches the Prophet's own city and his own people.",
+            "bn": "এরা কারা? তাবারী আয়াতটিকে পড়েন নবী ﷺ-কে সম্বোধন হিসেবে: হে মুহাম্মাদ, তোমার কওমের এই মুশরিকদের আর তাদের আগের বাপ-দাদাদের আমি ভোগের সামগ্রী দিয়েছি। মুয়াসসারেও একই সম্বোধন, হে রসূল, আর একই লোকেরা। ইবন কাসীর শুধু বলেন মুশরিকরা। বাগাভী বলেন দুনিয়ার মুশরিকরা, আর জালালাইন বলে এই মুশরিকরা। ইবন আব্বাস (রাঃ)-এর নামে প্রচলিত তানবীরুল মিকবাস তাদের নাম দেয় মক্কাবাসী। সব পাঠেই ইঙ্গিতবাচক শব্দ 'হা-উলা-ই' গিয়ে পৌঁছায় নবী ﷺ-এর নিজের শহরে, তাঁর নিজের লোকদের কাছে।"
+          },
+          {
+            "en": "Ibn Kathir's English abridgement, opening this passage, calls Ibrahim (AS) the forefather from whom Quraysh were descended and from whom they claimed to have taken their religion. Maududi, on the group of verses 43:26 to 43:30, adds that Quraysh's leadership in Arabia rested on their descent from Ibrahim and Isma'il (AS) and on their being attendants of the Ka'ba they had built. So these are no strangers to the lasting word. They are its heirs by lineage, and the verse speaks of what became of it among those heirs.",
+            "bn": "ইবন কাসীরের ইংরেজি সংক্ষেপ এ অংশের শুরুতে ইবরাহীম (আঃ)-কে বলেছে সেই পূর্বপুরুষ, যাঁর বংশে কুরাইশের জন্ম এবং যাঁর কাছ থেকে তারা নিজেদের ধর্ম নেওয়ার দাবি করত। মওদূদী ৪৩:২৬ থেকে ৪৩:৩০ আয়াতগুচ্ছের আলোচনায় যোগ করেন, আরবে কুরাইশের নেতৃত্বের ভিত্তিই ছিল ইবরাহীম ও ইসমাঈল (আঃ)-এর বংশধর হওয়া, আর তাঁদের বানানো কাবার খাদেম হওয়া। অর্থাৎ এরা ওই স্থায়ী কথার অচেনা কেউ নয়। বংশের সূত্রে এরাই তার উত্তরাধিকারী। আয়াত বলছে, সেই উত্তরাধিকারীদের হাতে কথাটির কী দশা হলো।"
+          },
+          {
+            "en": "The second object, wa aba'ahum, and their fathers, carries weight in this surah. A few verses earlier the Makkans' whole defence was that they had found their fathers upon a way and were following in their footsteps (43:22), and every earlier warner had heard the same answer (43:23). Now the fathers appear again, inside a sentence spoken by Allah, as people who were themselves given enjoyment and left without haste. The forefathers held up as the proof are placed in the same respite as their sons.",
+            "bn": "দ্বিতীয় কর্ম 'ওয়া আবা-আহুম', আর তাদের বাপ-দাদারা, এ সূরায় আলাদা ওজন বহন করে। কয়েক আয়াত আগে মক্কাবাসীর গোটা যুক্তি ছিল এই: আমরা বাপ-দাদাদের একটা পথের উপর পেয়েছি, আমরা তাদের পদচিহ্ন ধরেই চলছি (৪৩:২২)। আগের প্রত্যেক সতর্ককারীও একই জবাব শুনেছেন (৪৩:২৩)। এবার সেই বাপ-দাদারা আবার আসে, তবে আল্লাহর নিজের কথার ভেতরে। তারাও ভোগের সামগ্রী পেয়েছিল, তাদেরও তাড়াহুড়া করে ধরা হয়নি। যে পূর্বপুরুষদের দলিল বানানো হচ্ছিল, তারাও সন্তানদের সঙ্গে একই অবকাশে দাঁড়িয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enjoyment as Time Allowed",
+          "bn": "ভোগ মানে সময়ের ছাড়"
+        },
+        "p": [
+          {
+            "en": "What is the enjoyment? The commentators read the verb matta'a first as time. At-Tabari says: I gave them enjoyment of life, and did not hasten them with punishment for their disbelief. The Muyassar repeats this almost word for word, and al-Jalalayn gives the same sense. Al-Baghawi places it in this world and says He did not hasten their punishment for disbelief. Al-Qurtubi puts it in two words: in this world, by respite, bi-l-imhal.",
+            "bn": "ভোগের সামগ্রী বলতে কী? তাফসীরকারেরা 'মাত্তা'আ' ক্রিয়াটিকে প্রথমত সময় হিসেবেই পড়েন। তাবারী বলেন: আমি তাদের জীবন ভোগ করতে দিয়েছি, কুফরির শাস্তি দিতে তাড়াহুড়া করিনি। মুয়াসসার প্রায় হুবহু একই কথা বলে, জালালাইনের অর্থও তা-ই। বাগাভী বলেন, এ ভোগ দুনিয়ায়, আর কুফরির জন্য তিনি তাদের শাস্তি ত্বরান্বিত করেননি। কুরতুবী দুই শব্দে সারেন: দুনিয়ায়, অবকাশ দিয়ে (বিল-ইমহাল)।"
+          },
+          {
+            "en": "Ibn Kathir describes the same gift from the side of those who received it: life grew long for them in their misguidance, fa-tatawala 'alayhim al-'umr fi dalalihim. The two descriptions meet. From one side the years are judgement held back; from the other they are years spent where the people already stood. Nothing in these commentaries calls that length a reward. In at-Tabari's wording its point is that punishment was not hurried, and that is a different thing from approval.",
+            "bn": "ইবন কাসীর একই দানকে দেখেন যারা পেয়েছে তাদের দিক থেকে: গোমরাহির মধ্যেই তাদের আয়ু লম্বা হয়েছিল (ফাতাতাওয়ালা আলাইহিমুল উমরু ফী দালালিহিম)। দুই বর্ণনা এক জায়গায় মেলে। এক দিক থেকে এ বছরগুলো আটকে রাখা বিচার। অন্য দিক থেকে এগুলো সেখানেই কাটানো বছর, যেখানে তারা আগে থেকে দাঁড়িয়ে ছিল। এসব তাফসীরের কোথাও এ দীর্ঘ সময়কে পুরস্কার বলা হয়নি। তাবারীর ভাষায় আসল কথা হলো, শাস্তি তাড়াতাড়ি আসেনি। আর সেটা সন্তুষ্টির সমান নয়।"
+          },
+          {
+            "en": "Al-Qurtubi also records a reading, bal matta'na, rather We gave enjoyment, in the plural, where the received text has the singular matta'tu, I gave. He notes the reading without comment, and none of the other commentaries fetched for this verse remarks on the singular. It is enough to observe that in the reading recited the respite is spoken of in the first person singular, as Allah's own act and His own decision.",
+            "bn": "কুরতুবী একটি কিরাআতও উল্লেখ করেন: 'বাল মাত্তা'না', বরং আমরা ভোগ দিয়েছি, বহুবচনে। প্রচলিত পাঠে আছে একবচন 'মাত্তা'তু', আমি দিয়েছি। তিনি কিরাআতটি শুধু উল্লেখ করেন, কোনো মন্তব্য করেন না। এ আয়াতের জন্য সংগ্রহ করা অন্য তাফসীরগুলোও একবচন নিয়ে কিছু বলে না। এটুকু খেয়াল করাই যথেষ্ট যে প্রচলিত পাঠে আল্লাহ নিজে 'আমি' বলে এ অবকাশের কথা বলছেন, নিজের কাজ আর নিজের সিদ্ধান্ত হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Desires That Hardened Into Creed",
+          "bn": "চাওয়া যখন আকীদা হয়ে বসে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the enjoyment differently, and more darkly. I gave them enjoyment, he says, with kinds of desires, bi-anwa' ash-shahawat, until those desires became their goal and the furthest point of what they aimed at. Love of them kept growing in their hearts until it turned into firmly rooted traits and deeply set beliefs, sifat rasikha wa 'aqa'id muta'assila. In his reading the enjoyment is more than years left unpunished. It is the furnishing of a life that slowly reshaped the people living it.",
+            "bn": "সা'দী ভোগকে পড়েন ভিন্নভাবে, আরও গভীর আশঙ্কা নিয়ে। তাঁর মতে আল্লাহ তাদের ভোগ দিয়েছিলেন নানা রকম কামনার সামগ্রী দিয়ে (বি-আনওয়াইশ শাহাওয়াত)। একসময় সেই কামনাই হয়ে উঠল তাদের লক্ষ্য, তাদের চাওয়ার শেষ সীমা। মনের ভেতর সেগুলোর প্রতি ভালোবাসা বাড়তেই থাকল। শেষে তা জমে হলো পাকা স্বভাব আর শিকড় গাড়া আকীদা (সিফাত রাসিখা ওয়া আকাইদ মুতাআসসিলা)। তাঁর পাঠে ভোগ মানে শুধু শাস্তিহীন কিছু বছর নয়। এ এমন এক জীবনের আসবাব, যা ধীরে ধীরে তার বাসিন্দাদেরই বদলে দিয়েছে।"
+          },
+          {
+            "en": "No commentator here sets the two readings against each other. At-Tabari, the Muyassar, al-Baghawi, al-Jalalayn and al-Qurtubi speak of what Allah withheld, which was haste in punishment. As-Sa'di speaks of what the people did with what they were given. And because he himself opens his note from 43:28, his account shows what stood between the descendants and the return hoped for there: appetite that had grown into a creed, sitting where the word should have been.",
+            "bn": "এখানকার কোনো তাফসীরকার দুই পাঠকে পরস্পরের বিরুদ্ধে দাঁড় করান না। তাবারী, মুয়াসসার, বাগাভী, জালালাইন ও কুরতুবী বলেন আল্লাহ কী আটকে রেখেছিলেন: শাস্তির তাড়া। সা'দী বলেন, মানুষ যা পেয়েছিল তা দিয়ে কী করেছিল। তিনি নিজেই নিজের আলোচনা শুরু করেন ৪৩:২৮ থেকে। তাই তাঁর বর্ণনা দেখিয়ে দেয়, বংশধরদের আর সেখানে আশা করা ফেরার মাঝখানে কী দাঁড়িয়ে ছিল। দাঁড়িয়ে ছিল এমন লালসা, যা আকীদা হয়ে গিয়েছিল আর বসে ছিল সেই কথার জায়গায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Until the Truth Arrived",
+          "bn": "যতদিন না সত্য এসে পৌঁছাল"
+        },
+        "p": [
+          {
+            "en": "The particle hatta, until, gives the respite its limit. At-Tabari spells it out: I did not destroy them with punishment until I had sent down the Book to them and sent among them a clear messenger. The years of enjoyment ran up to a point, and in his wording that point was not a punishment but an arrival, a scripture and a person. Whatever was to come after would come once the truth had been put before them, not before.",
+            "bn": "'হাত্তা', অর্থাৎ যতদিন না, শব্দটি অবকাশের সীমা টেনে দেয়। তাবারী তা খুলে বলেন: আমি তাদের শাস্তি দিয়ে ধ্বংস করিনি, যতক্ষণ না তাদের উপর কিতাব নাযিল করেছি আর তাদের মধ্যে একজন স্পষ্ট রসূল পাঠিয়েছি। ভোগের বছরগুলো একটা জায়গা পর্যন্ত গড়িয়েছে। তাঁর কথায় সে জায়গাটা কোনো শাস্তি নয়, একটা আগমন: একটি কিতাব আর একজন মানুষ। এরপর যা কিছু আসার ছিল, তা আসবে সত্য তাদের সামনে রাখার পরে, আগে নয়।"
+          },
+          {
+            "en": "What is the truth? At-Tabari, the Muyassar, al-Baghawi and al-Jalalayn say it is the Qur'an, and Tanwir al-Miqbas says the Scripture. Al-Baghawi then relays a second view from ad-Dahhak: al-haqq here is Islam. As-Sa'di describes it rather than naming it: the truth in which there is no doubt, no uncertainty and no confusion. The answers sit close, since the Qur'an is the book of Islam, but their wording differs and is kept as given.",
+            "bn": "সত্য বলতে কী? তাবারী, মুয়াসসার, বাগাভী ও জালালাইন বলেন, কুরআন। তানবীরুল মিকবাস বলে, কিতাব। এরপর বাগাভী দাহহাকের আরেকটি মত আনেন: এখানে 'আল-হাক্ক' মানে ইসলাম। সা'দী নাম না দিয়ে বর্ণনা দেন: সেই সত্য, যাতে কোনো সন্দেহ নেই, কোনো দ্বিধা নেই, কোনো অস্পষ্টতা নেই। কুরআন তো ইসলামেরই কিতাব, তাই উত্তরগুলো কাছাকাছি। তবু ভাষা আলাদা, আর তা যেমন এসেছে তেমনই রাখা হলো।"
+          },
+          {
+            "en": "Al-Qurtubi gives the most connected answer. The truth, he says, is Muhammad ﷺ with tawhid and Islam, which is the root of the religion of Ibrahim (AS), and it is the word that Allah made remain among his offspring. In his reading the verse closes a circle opened a verse earlier. The word left among the descendants, so that they might return to it, is the very truth that now came to them, brought by a messenger sent among them.",
+            "bn": "সবচেয়ে জোড়া লাগানো উত্তর দেন কুরতুবী। তাঁর মতে সত্য হলো মুহাম্মাদ ﷺ, তাওহীদ আর ইসলাম নিয়ে, যা ইবরাহীম (আঃ)-এর দীনের মূল। আর এটাই সেই কথা, যা আল্লাহ তাঁর বংশে স্থায়ী করে রেখেছিলেন। তাঁর পাঠে আয়াতটি এক আয়াত আগে শুরু হওয়া একটা বৃত্ত পূর্ণ করে। বংশধরদের মধ্যে যে কথা রাখা হয়েছিল তারা সেদিকে ফিরবে বলে, সেই কথাই এবার সত্য হয়ে তাদের কাছে এল, তাদের মধ্যে পাঠানো এক রসূলের হাত ধরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Plain, and Making Plain",
+          "bn": "নিজে স্পষ্ট, অন্যকেও স্পষ্ট করেন"
+        },
+        "p": [
+          {
+            "en": "The messenger is described with one word, mubin, and the commentators read it in two directions. Most take it as making things clear to others. At-Tabari: he makes clear to them, by the proofs he argues with, that he is truly Allah's messenger in what he says. The Muyassar: he makes clear what they need in matters of their religion; al-Qurtubi: what they stand in need of. Al-Baghawi: he makes the rulings clear. Al-Jalalayn: he manifests to them the stipulations of the Law. Tanwir al-Miqbas: he explains the truth in a language they understand.",
+            "bn": "রসূলের পরিচয় এসেছে একটি শব্দে, 'মুবীন', আর তাফসীরকারেরা শব্দটিকে দুই দিকে পড়েন। বেশির ভাগের মতে এর অর্থ যিনি অন্যের কাছে বিষয় স্পষ্ট করেন। তাবারী বলেন, তিনি যেসব দলিল দিয়ে যুক্তি দেন, সেগুলো দিয়ে স্পষ্ট করে দেন যে নিজের কথায় তিনি সত্যিই আল্লাহর রসূল। মুয়াসসার বলে, দীনের যা কিছু তাদের দরকার, তিনি তা স্পষ্ট করেন। কুরতুবী বলেন, তাদের যা প্রয়োজন, তা। বাগাভীর মতে তিনি বিধানগুলো স্পষ্ট করেন। জালালাইন বলে, শরীআতের শর্তগুলো তিনি তাদের সামনে খুলে ধরেন। তানবীরুল মিকবাস বলে, তাদের বোঝার ভাষায় তিনি সত্য ব্যাখ্যা করেন।"
+          },
+          {
+            "en": "Others take mubin as clear in himself. Ibn Kathir says bayyin ar-risala wa an-nidhara: clear in his message and in his warning. As-Sa'di also says clear in his messengership, and lists what made it so. The proofs of his mission stood out brilliantly, he says, through his character, his miracles, what he brought, his confirming of the earlier messengers, and his call itself. Maududi gives this as another meaning: a messenger whose being a messenger was obvious, whose life before and after prophethood clearly testified to it.",
+            "bn": "অন্যরা 'মুবীন'-কে পড়েন নিজেই স্পষ্ট অর্থে। ইবন কাসীর বলেন 'বায়্যিনুর রিসালাতি ওয়ান নিযারা': তাঁর বার্তাও স্পষ্ট, সতর্কবাণীও স্পষ্ট। সা'দীও বলেন রিসালাতে স্পষ্ট, আর কী কারণে স্পষ্ট তার তালিকাও দেন। তাঁর ভাষায়, রিসালাতের দলিলগুলো ঝলমল করে দাঁড়িয়ে ছিল: তাঁর চরিত্রে, তাঁর মুজিযায়, তিনি যা এনেছেন তাতে, আগের রসূলদের সত্যায়নে, আর তাঁর দাওয়াতের মধ্যেই। মওদূদী এটিকে আরেকটি অর্থ হিসেবে দেন: এমন রসূল, যাঁর রসূল হওয়া ছিল সুস্পষ্ট। নবুওয়াতের আগের ও পরের জীবনই তার পরিষ্কার সাক্ষী।"
+          },
+          {
+            "en": "The two senses meet in the same person. A messenger who explains is heard only if he is himself plainly trustworthy, and a messenger plainly trustworthy has come in order to explain. None of the commentators here calls the other reading wrong. For the hearers in Makkah the result was the same either way: after this arrival, nobody could say that the matter had been left unclear.",
+            "bn": "দুই অর্থ একই মানুষের মধ্যে এসে মেলে। যিনি ব্যাখ্যা করেন, মানুষ তাঁর কথা শোনে তখনই, যখন তিনি নিজে স্পষ্টতই বিশ্বস্ত। আর যিনি স্পষ্টতই বিশ্বস্ত, তিনি এসেছেনই ব্যাখ্যা করতে। এখানকার কোনো তাফসীরকার অন্য পাঠকে ভুল বলেন না। মক্কার শ্রোতাদের জন্য ফল দুই দিকেই এক: এ আগমনের পর কেউ আর বলতে পারত না যে বিষয়টা অস্পষ্ট রয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Favour Asked For",
+          "bn": "নিয়ামতের পাওনা"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi closes his note with a line of judgement: the right of this favour was that they should obey him, but they did not, and they disobeyed. He calls the respite and the coming of the messenger in'am, a favour, and a favour carries a claim. The verses that follow show the claim refused. When the truth came they said: this is magic, and we disbelieve in it (43:30). Ibn Kathir describes that answer as arrogance and stubbornness, pushing him away out of disbelief, envy and transgression.",
+            "bn": "বাগাভী তাঁর আলোচনা শেষ করেন একটি রায় দিয়ে: এই নিয়ামতের হক ছিল, তারা রসূলের আনুগত্য করবে। কিন্তু তারা তা করেনি, বরং নাফরমানি করেছে। অবকাশ আর রসূলের আগমন, দুটোকেই তিনি বলেন ইনআম, অর্থাৎ নিয়ামত। আর নিয়ামতের একটা পাওনা থাকে। পরের আয়াতগুলো দেখায়, সে পাওনা অস্বীকার করা হয়েছিল। সত্য যখন এল, তারা বলল: এ তো যাদু, আমরা একে মানি না (৪৩:৩০)। ইবন কাসীর এ জবাবকে বলেন অহংকার আর জেদ। কুফরি, হিংসা আর সীমালঙ্ঘন থেকে তারা রসূলকে ঠেলে সরিয়ে দিয়েছিল।"
+          },
+          {
+            "en": "Then came the objection that the Qur'an should have been sent down upon a great man of the two towns (43:31), which 43:32 answers and which is treated in the article on that verse. None of the commentaries fetched for 43:29 attaches a hadith to it, and the narrations Ibn Kathir gathers in this passage belong to 43:33 to 43:35, not here. No occasion of revelation is given for the verse either. Its setting is simply its place, between Ibrahim's word and the Makkans' answer.",
+            "bn": "এরপর এল আপত্তি: এ কুরআন দুই জনপদের কোনো বড় মানুষের উপর কেন নাযিল হলো না (৪৩:৩১)। তার জবাব ৪৩:৩২ আয়াতে, আর সে আলোচনা আছে ওই আয়াতের প্রবন্ধে। ৪৩:২৯ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস জুড়ে দেয় না। এ অংশে ইবন কাসীর যেসব বর্ণনা আনেন, সেগুলো ৪৩:৩৩ থেকে ৪৩:৩৫ আয়াতের, এখানকার নয়। আয়াতটির কোনো শানে নুযূলও উল্লেখ নেই। এর প্রেক্ষাপট এর অবস্থানই: ইবরাহীম (আঃ)-এর কথা আর মক্কাবাসীর জবাবের মাঝখানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading One's Own Ease",
+          "bn": "নিজের আরামকে পড়া"
+        },
+        "p": [
+          {
+            "en": "This needs saying firmly. The verse describes the idolaters of Makkah in the Prophet's time and their fathers, as the commentators identify them, and it says of them only what its words say. It licenses nothing against the descendants of Quraysh, against any tribe or family, or against any people living now. Ma'arif al-Qur'an, on 43:28, notes that even up to the Prophet's coming there were many in and around Makkah who had stayed firm on the original religion of Ibrahim (AS). The word these was never a blanket over every person.",
+            "bn": "কথাটা জোর দিয়েই বলা দরকার। তাফসীরকারদের চিহ্নিত করা অনুযায়ী আয়াতটি নবী ﷺ-এর যুগের মক্কার মুশরিক আর তাদের বাপ-দাদাদের কথা বলে, এবং তাদের সম্পর্কে ঠিক ততটুকুই বলে, যতটুকু এর শব্দে আছে। কুরাইশের বংশধর, কোনো গোত্র বা পরিবার, কিংবা আজকের কোনো জাতির বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। মাআরিফুল কুরআন ৪৩:২৮ আয়াতের আলোচনায় জানায়, নবী ﷺ-এর আগমন পর্যন্তও মক্কা ও আশপাশে বহু মানুষ ইবরাহীম (আঃ)-এর আসল দীনের উপর অটল ছিলেন। তাই 'এরা' শব্দটি কখনোই সবাইকে ঢেকে দেয়নি।"
+          },
+          {
+            "en": "What the verse offers a reader today is a way of reading their own ease. Long life, provision and quiet years mean, in at-Tabari's wording, that punishment was not hastened, and as-Sa'di shows what can grow inside such years when desire is left unchecked. Neither treats comfort as a sign of approval. The question the verse leaves is not whether others have been given too much. It is whether the time given to me is carrying me further from the word or back towards it.",
+            "bn": "আজকের পাঠকের জন্য আয়াতটি নিজের আরামকে পড়ার একটা উপায় দেয়। দীর্ঘ জীবন, রিযিক আর নিরুপদ্রব বছর, তাবারীর ভাষায় এসবের মানে হলো শাস্তি তাড়াতাড়ি আনা হয়নি। আর সা'দী দেখান, লাগামহীন চাওয়া থাকলে এমন বছরের ভেতরে কী বেড়ে ওঠে। কেউই আরামকে সন্তুষ্টির আলামত বলেন না। আয়াত যে প্রশ্ন রেখে যায়, তা এই নয় যে অন্যরা বেশি পেয়ে গেছে কি না। প্রশ্ন হলো, আমাকে দেওয়া সময় আমাকে সেই কথা থেকে আরও দূরে নিচ্ছে, নাকি তার দিকে ফিরিয়ে আনছে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws one more lesson from the verse before, and it belongs here too. Ibrahim (AS) did not keep tawhid to himself but urged it on his offspring, and Ma'arif counts it an obligatory duty to try to set one's children on the right religion, adding from ash-Sha'rani that the most effective means is parents' regular du'a for them. The verse shows a line of fathers who were given enjoyment and long years. The word Ibrahim (AS) left was the inheritance meant to outlast all of it.",
+            "bn": "মাআরিফুল কুরআন আগের আয়াত থেকে আরও একটি শিক্ষা টানে, যা এখানেও খাটে। ইবরাহীম (আঃ) তাওহীদকে নিজের মধ্যে আটকে রাখেননি, সন্তানদেরও তার উপর অটল থাকতে তাগিদ দিয়েছেন। মাআরিফের মতে সন্তানদের সঠিক দীনের পথে রাখার চেষ্টা করা অবশ্যকর্তব্য। সঙ্গে শা'রানীর বরাতে বলে, এর সবচেয়ে কার্যকর উপায় হলো সন্তানদের জন্য বাবা-মায়ের নিয়মিত দুআ। আয়াতে দেখা যায় বাপ-দাদার এক ধারা, যারা ভোগ আর দীর্ঘ আয়ু পেয়েছিল। আর ইবরাহীম (আঃ) যে কথা রেখে গিয়েছিলেন, সেটাই ছিল সেই উত্তরাধিকার, যা এসব কিছুর চেয়ে বেশি দিন টেকার কথা।"
+          }
+        ]
+      }
+    ]
+  },
   "43:32": {
     "sections": [
       {
