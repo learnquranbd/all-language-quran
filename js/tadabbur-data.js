@@ -34461,6 +34461,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Speak of Adam (AS) only as Allah spoke of him, and when your own fault is exposed, turn straight back to your Lord, who chooses and forgives after a fall.",
     "lessonBn": "আদম (আঃ)-এর কথা বলুন কেবল সেভাবে, যেভাবে আল্লাহ বলেছেন। আর নিজের দোষ খুলে গেলে সোজা রবের দিকে ফিরুন, যিনি পতনের পরেও বেছে নেন ও ক্ষমা করেন।"
+  },
+  "20:135": {
+    "reflectionEn": "Ta-Ha ends with one sentence given to people who kept asking for one more sign: everyone is waiting, so wait. The deniers waited for time to take the Prophet ﷺ away; he waited for what his Lord had promised. The verse does not close the argument with a fresh proof. It names a day when the answer will be known, and leaves both sides standing in the open until then. That unsettles me, because I am waiting too. I wait for plans to work out, for people to change, for events to prove me right. The verse asks a harder question: am I waiting on a road that is level and guided, or only waiting to be shown to be right?",
+    "reflectionBn": "সূরা ত্বা-হা শেষ হয় একটি বাক্যে। যারা বারবার আরেকটা নিদর্শন চাইছিল, তাদের বলতে বলা হলো: সবাই অপেক্ষায় আছে, তোমরাও অপেক্ষা কর। অস্বীকারকারীরা অপেক্ষা করছিল, কবে সময় নবী ﷺ-কে সরিয়ে নেবে। আর তিনি অপেক্ষা করছিলেন রবের দেওয়া প্রতিশ্রুতির। আয়াতটি নতুন কোনো প্রমাণ দিয়ে তর্ক থামায় না। একটা দিনের কথা বলে, যেদিন উত্তর সবার জানা হয়ে যাবে। ততদিন দুই পক্ষই খোলা মাঠে দাঁড়িয়ে। কথাটা আমাকে অস্বস্তিতে ফেলে, কারণ আমিও অপেক্ষা করি। পরিকল্পনা সফল হওয়ার অপেক্ষা, মানুষ বদলানোর অপেক্ষা, ঘটনা আমার পক্ষে যাওয়ার অপেক্ষা। আয়াতের প্রশ্নটা আরও কঠিন: আমি কি সোজা ও হেদায়াতের পথে দাঁড়িয়ে অপেক্ষা করছি, নাকি শুধু নিজেকে সঠিক প্রমাণের অপেক্ষায় আছি?",
+    "pointsEn": [
+      "What am I waiting for right now, and would I be glad to be found on my present road when it arrives?",
+      "Do I keep asking for one more sign before acting on what I already know to be true?",
+      "When I disagree with someone, can I leave the final verdict to the day it will be known, or must I win today?",
+      "Is my confidence that I am on the right road built on walking it, or only on claiming it?",
+      "Whose misfortune have I quietly waited for, and what does that waiting say about my own heart?"
+    ],
+    "pointsBn": [
+      "এই মুহূর্তে আমি কীসের অপেক্ষায় আছি? সেটা যখন আসবে, আমাকে আজকের পথে পাওয়া গেলে আমি কি খুশি হব?",
+      "যা সত্য বলে আমি জানি, তার উপর আমল করার আগে আমি কি বারবার আরেকটা নিদর্শন চেয়ে বসে থাকি?",
+      "কারও সঙ্গে মতভেদ হলে চূড়ান্ত ফয়সালা কি সেই দিনের হাতে ছেড়ে দিতে পারি, যেদিন সবই জানা যাবে? নাকি আজই আমাকে জিততে হবে?",
+      "আমি যে সঠিক পথে আছি, এই ভরসা কি সে পথে চলার উপর দাঁড়িয়ে, নাকি শুধু দাবির উপর?",
+      "কার বিপদের জন্য আমি মনে মনে অপেক্ষা করেছি? সেই অপেক্ষা আমার নিজের অন্তরের কোন ছবি দেখায়?"
+    ],
+    "lessonEn": "Wait as someone already walking the straight path: act on the guidance you have, leave the verdict to Allah, and never let your waiting turn into hope for another's ruin.",
+    "lessonBn": "সরল পথে চলতে চলতেই অপেক্ষা করুন: যে হেদায়াত পেয়েছেন তার উপর আমল করুন, ফয়সালা আল্লাহর হাতে ছেড়ে দিন, আর আপনার অপেক্ষা যেন কখনো অন্যের সর্বনাশের আশায় পরিণত না হয়।"
   }
 };
 

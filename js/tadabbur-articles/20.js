@@ -7122,5 +7122,165 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "20:135": {
+    "sections": [
+      {
+        "h": {
+          "en": "Eleven Words to Close Ta-Ha",
+          "bn": "এগারো শব্দে ত্বা-হার সমাপ্তি"
+        },
+        "p": [
+          {
+            "en": "Ta-Ha ends on eleven Arabic words. Qul kullun mutarabbisun fa-tarabbasu, fa-sa-ta'lamuna man ashabu s-sirati s-sawiyyi wa-mani htada: say, each is waiting, so wait; you will come to know who are the people of the level path and who is guided. Ibn Kathir names those addressed: say it, O Muhammad, to whoever denied you, opposed you and kept to his disbelief and obstinacy. A few lines later he writes that his commentary on Surah Ta-Ha is complete, and gives praise to Allah.",
+            "bn": "সূরা ত্বা-হা শেষ হয় আরবি ১১টি শব্দে। কুল কুল্লুম মুতারাব্বিসুন ফাতারাব্বাসূ, ফাসাতা'লামূনা মান আসহাবুস সিরাতিস সাওয়িয়্যি ওয়া মানিহতাদা: বল, প্রত্যেকেই অপেক্ষা করছে, অতএব তোমরাও অপেক্ষা কর। শিগগিরই জানবে, সোজা পথের লোক কারা আর হেদায়াত পেয়েছে কে। কাদের বলা হচ্ছে, ইবন কাসীর তা জানিয়ে দেন। হে মুহাম্মাদ, যে আপনাকে অস্বীকার করেছে, আপনার বিরোধিতা করেছে, আর কুফর ও জেদ আঁকড়ে আছে, তাকে কথাটা বলে দিন। এর কয়েক লাইন পরেই তিনি লেখেন, সূরা ত্বা-হার তাফসীর এখানে শেষ। তারপর আল্লাহর প্রশংসা করেন।"
+          },
+          {
+            "en": "The two verses before it set the scene. In 20:133 the deniers ask why he brings them no sign from his Lord, and are told that the clear proof of what is in the former scriptures has already reached them; Ibn Kathir takes that proof to be the Qur'an, revealed to an unlettered man who had not studied with the People of the Book. In 20:134, had they been destroyed before the Messenger came, they would have pleaded for a messenger to follow. Both excuses are closed; what remains is waiting.",
+            "bn": "আগের দুটি আয়াত পটভূমি তৈরি করে। ২০:১৩৩ আয়াতে অস্বীকারকারীরা প্রশ্ন তোলে, তিনি রবের কাছ থেকে কোনো নিদর্শন আনেন না কেন? জবাব আসে: আগের কিতাবগুলোতে যা আছে, তার স্পষ্ট প্রমাণ কি তাদের কাছে পৌঁছায়নি? ইবন কাসীরের মতে সেই প্রমাণ কুরআন নিজেই। তা নাযিল হয়েছে এমন এক উম্মী মানুষের উপর, যিনি আহলে কিতাবের কাছে কখনো পড়াশোনা করেননি। ২০:১৩৪ আয়াতে আল্লাহ বলেন, রসূল আসার আগেই তাদের ধ্বংস করে দিলে তারা আপত্তি তুলত, আমাদের কাছে একজন রসূল পাঠালে না কেন, আমরা তো তাঁর অনুসরণ করতাম। দুই দিকের অজুহাতই বন্ধ। বাকি রইল কেবল অপেক্ষা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Each One on Watch",
+          "bn": "সবাই তাকিয়ে আছে"
+        },
+        "p": [
+          {
+            "en": "Mutarabbis is one who waits and watches for something to happen. At-Tabari glosses it as muntazir, one who waits: waiting to see to whom success will belong, holding still over where my affair and yours will end, watching for the turns of time. He glosses fa-tarabbasu as keep watch and wait. Ibn Kathir's Arabic gives the one word fa-ntaziru, so wait. The Muyassar and al-Qurtubi use the same phrase as at-Tabari, dawa'ir az-zaman, the turns of time, the reversals that may bring one side down.",
+            "bn": "মুতারাব্বিস মানে যে কিছু একটা ঘটার জন্য তাকিয়ে অপেক্ষা করে। তাবারী শব্দটির অর্থ দেন মুনতাযির, অপেক্ষমাণ। কে সফল হবে, তা দেখার অপেক্ষা। আমার আর তোমাদের ব্যাপার শেষে কোথায় গিয়ে দাঁড়ায়, তা দেখতে থেমে থাকা। সময়ের পালাবদলের দিকে চোখ রাখা। ফাতারাব্বাসূ-র অর্থ তিনি করেন, তোমরা নজর রাখ ও অপেক্ষা কর। ইবন কাসীরের আরবি তাফসীরে একটিই শব্দ: ফানতাযিরূ, অতএব অপেক্ষা কর। মুয়াসসার আর কুরতুবী তাবারীর মতোই বলেন দাওয়াইরুয যামান, সময়ের পালাবদল। অর্থাৎ এমন উলটপালট, যা কোনো এক পক্ষকে ধসিয়ে দিতে পারে।"
+          },
+          {
+            "en": "On the word kull, each, the commentators part ways. At-Tabari's paraphrase makes it the deniers alone: say, O Muhammad, all of you, you who associate partners with Allah, are waiting. Ibn Kathir reads it as both camps, of us and of you. The Muyassar says the same: each of us and of you awaits the turns of time and to whom victory and success will go. Al-Qurtubi is the most explicit: each of the believers and the disbelievers is waiting to see to whom victory belongs.",
+            "bn": "কুল্লুন, প্রত্যেকে, এই শব্দে এসে তাফসীরকারদের পথ আলাদা হয়ে যায়। তাবারীর ব্যাখ্যায় শব্দটি শুধু অস্বীকারকারীদের কথা বলে: হে মুহাম্মাদ, বলে দিন, হে আল্লাহর সঙ্গে শরিককারীরা, তোমরা সবাই অপেক্ষা করছ। ইবন কাসীর এতে দুই পক্ষকেই ধরেন: আমাদের মধ্য থেকে এবং তোমাদের মধ্য থেকে। মুয়াসসারও তাই বলে: আমাদের ও তোমাদের প্রত্যেকেই সময়ের পালাবদলের অপেক্ষায়, দেখার অপেক্ষায় যে বিজয় ও সাফল্য কার ভাগে যায়। কুরতুবী সবচেয়ে স্পষ্ট: মুমিন আর কাফির, প্রত্যেকেই অপেক্ষা করছে বিজয় কার হয় তা দেখতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Death Awaited, Victory Awaited",
+          "bn": "কেউ চায় মৃত্যু, কেউ চায় বিজয়"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi says what the deniers were watching for. The polytheists said: we are waiting for the mishaps of time to befall Muhammad, and when he dies we will be rid of him. So Allah said: then wait. He gives this as the background without naming who reported it, and al-Baghawi alone of the commentaries read here states it. It fits what Ibn Kathir says of the verse before: these deniers were stubborn and obstinate, and would not believe whatever sign came.",
+            "bn": "অস্বীকারকারীরা কীসের দিকে তাকিয়ে ছিল, বাগাভী তা বলেন। মুশরিকরা বলত, আমরা অপেক্ষা করছি কবে মুহাম্মাদের উপর সময়ের কোনো বিপদ নেমে আসে। তিনি মারা গেলেই আমরা ঝামেলা থেকে মুক্ত। তখন আল্লাহ বললেন: তবে অপেক্ষা কর। বাগাভী কথাটা পটভূমি হিসেবে আনেন, কিন্তু কে বর্ণনা করেছেন তা বলেন না। এখানে পড়া তাফসীরগুলোর মধ্যে কেবল তিনিই এটি উল্লেখ করেছেন। আগের আয়াত সম্পর্কে ইবন কাসীর যা বলেন, তার সঙ্গে কথাটা মিলে যায়। এরা ছিল একগুঁয়ে ও জেদি, যে নিদর্শনই আসুক, ঈমান আনত না।"
+          },
+          {
+            "en": "As-Sa'di draws the same picture from another surah. The verse is said to those who say of the Prophet ﷺ, tarabbasu bihi rayba l-manun, let us wait for the accident of death to take him, the words reported in 52:30. Its sense, he writes, is: you wait for my death, and I wait for punishment to reach you. The reply in 52:31 turns on the same verb, so the two passages answer one another.",
+            "bn": "সা'দী একই ছবি আঁকেন অন্য সূরা থেকে। এ কথা বলা হচ্ছে তাদের, যারা নবী ﷺ সম্পর্কে বলত: তারাব্বাসূ বিহী রাইবাল মানূন, তার মৃত্যুর দুর্ঘটনার অপেক্ষায় থাকো। তাদের এ উক্তি এসেছে ৫২:৩০ আয়াতে। সা'দীর ভাষায় অর্থ দাঁড়ায়: তোমরা আমার মৃত্যুর অপেক্ষা কর, আর আমি অপেক্ষা করি কবে শাস্তি তোমাদের ধরে। ৫২:৩১ আয়াতের জবাবও একই ক্রিয়ার উপর দাঁড়িয়ে। তাই দুই জায়গার কথা একে অপরের উত্তর হয়ে আসে।"
+          },
+          {
+            "en": "Then as-Sa'di quotes 9:52: say, do you wait for anything for us except one of the two best things, while we wait for you that Allah strike you with a punishment from Himself or at our hands? He names the two best things as victory or martyrdom. Set beside this verse, it shows that the two waitings are not equal. One side waits for a single loss. The other side, on as-Sa'di's reading, waits with either outcome counted as good.",
+            "bn": "এরপর সা'দী ৯:৫২ আয়াত উদ্ধৃত করেন: বল, তোমরা আমাদের জন্য দুটি কল্যাণের একটি ছাড়া আর কীসের অপেক্ষা কর? আর আমরা তোমাদের জন্য অপেক্ষা করি, কবে আল্লাহ নিজের পক্ষ থেকে কিংবা আমাদের হাতে তোমাদের শাস্তি দেন। দুটি কল্যাণ বলতে তিনি বোঝান বিজয় অথবা শাহাদাত। এ আয়াতের পাশে রাখলে দেখা যায়, দুই অপেক্ষা সমান নয়। এক পক্ষ অপেক্ষা করে একটিমাত্র ক্ষতির জন্য। সা'দীর পাঠে অন্য পক্ষের অপেক্ষায় দুই পরিণতিই কল্যাণ বলে গণ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Command Carrying a Warning",
+          "bn": "আদেশের ভেতরে সতর্কবাণী"
+        },
+        "p": [
+          {
+            "en": "Fa-tarabbasu is an imperative, but nobody reads it as permission. Al-Qurtubi says plainly that in this there is a kind of promised punishment, of alarm and of threat, and that with it the surah was sealed. The abridged English Ibn Kathir calls it a command to await. The sense is what a speaker intends when he tells an opponent who refuses every argument: very well, wait and see. The words are calm; what they promise is not.",
+            "bn": "ফাতারাব্বাসূ আদেশসূচক ক্রিয়া, কিন্তু কেউ একে অনুমতি হিসেবে পড়েন না। কুরতুবী সোজাসুজি বলেন, এতে এক ধরনের শাস্তির ওয়াদা, ভয় দেখানো আর হুমকি আছে, আর এ দিয়েই সূরাটির সমাপ্তি টানা হয়েছে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ একে বলে অপেক্ষা করার আদেশ। যে প্রতিপক্ষ সব যুক্তি ফিরিয়ে দেয়, তাকে কেউ যখন বলে, ঠিক আছে, অপেক্ষা কর, দেখবে, এখানেও অর্থ সেটাই। শব্দগুলো শান্ত, কিন্তু যে পরিণতির কথা বলছে তা শান্ত নয়।"
+          },
+          {
+            "en": "Ibn Kathir sets two verses beside it, both built on the same promise of knowing: 25:42, where the deniers will know, when they see the punishment, who is further astray from the path; and 54:26, tomorrow they will know who is the insolent liar. In each the dispute is handed to a coming day that settles it. Was this warning later lifted by the command to fight? None of the seven commentaries read here calls it abrogated or raises the question; they read it as a warning that stands, and so does this article.",
+            "bn": "ইবন কাসীর এর পাশে আরও দুটি আয়াত রাখেন, দুটিই জানতে পারার একই প্রতিশ্রুতির উপর দাঁড়িয়ে। ২৫:৪২ আয়াতে, শাস্তি যখন দেখবে, তখন অস্বীকারকারীরা জানবে পথ থেকে কে বেশি বিচ্যুত। ৫৪:২৬ আয়াতে, কাল তারা জানবে কে মিথ্যাবাদী, কে দাম্ভিক। দুই জায়গাতেই বিরোধের মীমাংসার ভার আসন্ন এক দিনের হাতে। এই সতর্কবাণী কি পরে জিহাদের আদেশে রহিত হয়ে গেছে? এ আয়াতের জন্য পড়া সাতটি তাফসীরের কোনোটিই একে মানসূখ বলেনি, প্রশ্নটাও তোলেনি। তাঁরা একে স্থায়ী সতর্কবাণী হিসেবেই পড়েন, এ লেখাও তাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Answer Is Known",
+          "bn": "উত্তর যেদিন জানা যাবে"
+        },
+        "p": [
+          {
+            "en": "Fa-sa-ta'lamuna, you will come to know. When? At-Tabari answers: when the command of Allah comes and the Resurrection is established, you will know who are the people of the straight, even road, we or you, and who is guided. Al-Baghawi uses nearly the same words, when the command of Allah comes and the Resurrection is established. Both join the two in one phrase and leave them side by side.",
+            "bn": "ফাসাতা'লামূন, শিগগিরই জানবে। কখন? তাবারীর জবাব: আল্লাহর আদেশ যখন আসবে আর কিয়ামত কায়েম হবে, তখন জানবে সোজা ও সমান পথের লোক কারা, আমরা না তোমরা, আর হেদায়াতপ্রাপ্ত কে। বাগাভীর ভাষাও প্রায় এক: আল্লাহর আদেশ যখন আসবে আর কিয়ামত কায়েম হবে। দুজনেই দুটি ঘটনাকে একই বাক্যে পাশাপাশি রাখেন, আলাদা করেন না।"
+          },
+          {
+            "en": "Al-Qurtubi separates the two. First: you will know through victory who was guided to the true religion. Then, introduced with it is said: you will know on the Day of Resurrection who was guided to the road to Paradise. Ma'arif al-Qur'an takes the second line. Anyone may claim merit for his own ways, it says, but such claims have no value; the right way is only what finds favour with Allah, and on that Day everyone will be made aware who followed error and who took the road to salvation.",
+            "bn": "কুরতুবী দুটিকে আলাদা করেন। তাঁর প্রথম ব্যাখ্যা: বিজয়ের মাধ্যমে জানবে, সত্য দীনের পথ কে পেয়েছিল। তারপর 'বলা হয়' বলে দ্বিতীয়টি আনেন: কিয়ামতের দিন জানবে, জান্নাতের পথ কে পেয়েছিল। মাআরিফুল কুরআন দ্বিতীয় ধারাটি নেয়। তার কথা, প্রত্যেকে নিজের পথ আর নিজের আমলকে শ্রেষ্ঠ দাবি করতে পারে, কিন্তু সে দাবির কোনো মূল্য নেই। সঠিক পথ কেবল সেটাই, যা আল্লাহর কাছে পছন্দনীয়। কিয়ামতের দিন সবাই জেনে যাবে, কে ভ্রান্ত পথে চলেছিল আর কে নাজাতের পথ ধরেছিল।"
+          },
+          {
+            "en": "As-Sa'di adds a note that changes the tone. Whoever walks the straight path, he writes, is the winner, rightly guided, saved and successful; whoever swerves from it loses, fails and is punished. And it is already known that the Messenger is the one in this state and that his enemies are the opposite. On his reading the verse does not leave the truth in suspense. The answer is clear now; what waits is the day it can no longer be denied.",
+            "bn": "সা'দী এমন একটি কথা যোগ করেন, যাতে সুরটাই বদলে যায়। তিনি লেখেন, যে সোজা পথে চলে, সে-ই সফল, সঠিক পথপ্রাপ্ত, মুক্তিপ্রাপ্ত ও কামিয়াব। যে তা থেকে সরে যায়, সে ক্ষতিগ্রস্ত, ব্যর্থ ও শাস্তিপ্রাপ্ত। আর এ কথা জানা হয়ে গেছে যে রসূল ﷺ-ই এই অবস্থায় আছেন, আর তাঁর শত্রুরা উল্টো অবস্থায়। তাঁর পাঠে আয়াতটি সত্যকে ঝুলিয়ে রাখে না। উত্তর এখনই স্পষ্ট। অপেক্ষা শুধু সেই দিনের, যেদিন তা আর অস্বীকার করা যাবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Road Without a Bend",
+          "bn": "যে পথে কোনো বাঁক নেই"
+        },
+        "p": [
+          {
+            "en": "As-sirat as-sawi is the level road. At-Tabari describes it as the straight, even road in which there is no crookedness. Ibn Kathir and as-Sa'di both gloss it as al-mustaqim, straight. Al-Qurtubi says it means the straight religion and guidance. At-Tabari's word mu'tadil holds two ideas at once: straight, and evenly balanced, a road with no tilt to either side. At-Tabari's word for the guided man fits it: he keeps to the course of the direct road and does not veer from its aim.",
+            "bn": "আস-সিরাতুস সাওয়ি মানে সমান, সোজা পথ। তাবারী একে বলেন সরল ও ভারসাম্যপূর্ণ পথ, যাতে কোনো বক্রতা নেই। ইবন কাসীর ও সা'দী দুজনেই এর অর্থ করেন আল-মুসতাকীম, সোজা পথ। কুরতুবীর মতে এর অর্থ সঠিক দীন আর হেদায়াত। তাবারীর শব্দ মু'তাদিলে দুটি ধারণা একসঙ্গে আছে: সোজা, আর সমান ভারসাম্যের। এমন পথ, যা কোনো দিকে হেলে নেই। হেদায়াতপ্রাপ্ত মানুষকে তাবারী যেভাবে বর্ণনা করেন, তা এর সঙ্গে মেলে: সে সোজা রাস্তার ধারা ধরে চলে, লক্ষ্য থেকে সরে যায় না।"
+          },
+          {
+            "en": "Al-Qurtubi also records readings outside the recited text. Yahya ibn Ya'mar and 'Asim al-Jahdari read as-suwwa, a feminine form without hamza; he calls a feminine sirat rare and irregular, since in 1:6 the word is masculine, and notes that Abu Hatim rejected the reading while an-Nahhas defended it. Az-Zamakhshari, he adds, reports as-sawa', the middle and just, or the level. He also gives fa-sawfa ta'lamuna for the verb, with a report from Abu Rafi' about it, cited from az-Zamakhshari with no chain and no grading.",
+            "bn": "কুরতুবী প্রচলিত তিলাওয়াতের বাইরের কিছু কিরাআতও উল্লেখ করেন। ইয়াহইয়া ইবন ইয়া'মার ও আসিম আল-জাহদারী পড়েছেন আস-সুওয়া, হামযা ছাড়া স্ত্রীলিঙ্গ রূপে। কুরতুবী বলেন, সিরাতকে স্ত্রীলিঙ্গ ধরা বিরল ও অনিয়মিত, কারণ ১:৬ আয়াতে শব্দটি পুংলিঙ্গ। তিনি জানান, আবু হাতিম এ কিরাআত প্রত্যাখ্যান করেছেন, আর নাহহাস এর পক্ষে যুক্তি দিয়েছেন। তিনি আরও বলেন, যামাখশারী আস-সাওয়া কিরাআতের কথা বলেন, যার অর্থ মধ্যপন্থী ও ন্যায়সংগত, অথবা সমান। ক্রিয়াটির জন্য তিনি ফাসাওফা তা'লামূন পাঠও উল্লেখ করেন, সঙ্গে ওই কিরাআত নিয়ে আবু রাফির একটি বর্ণনা, যা তিনি যামাখশারী থেকে আনেন, কোনো সনদ বা মান উল্লেখ ছাড়াই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked Twice: Who?",
+          "bn": "দুবার প্রশ্ন: কে?"
+        },
+        "p": [
+          {
+            "en": "The word man, who, appears twice, and the grammarians weigh how it sits. At-Tabari allows two ways. It may be nominative, with the verb you will know not acting on it, as in 18:12, that We might know which of the two parties best reckoned. Or it may be accusative, the object of the verb, as in 2:220, Allah knows the corrupter from the reformer. Al-Qurtubi reports the same split: az-Zajjaj reads it as nominative, and al-Farra' allows the accusative, citing 2:220.",
+            "bn": "মান, অর্থাৎ কে, শব্দটি দুবার এসেছে, আর এর অবস্থান নিয়ে ব্যাকরণবিদেরা ভেবেছেন। তাবারী দুটি পথ খোলা রাখেন। শব্দটি রফা অবস্থায় হতে পারে, তখন 'জানবে' ক্রিয়াটি এর উপর কাজ করে না, যেমন ১৮:১২ আয়াতে: যাতে আমি জানি দুই দলের কোনটি হিসাব ঠিক রেখেছিল। আবার নসব অবস্থায় ক্রিয়ার কর্ম হিসেবেও হতে পারে, যেমন ২:২২০ আয়াতে: আল্লাহ জানেন কে অনিষ্টকারী আর কে সংশোধনকারী। কুরতুবীও একই বিভাজনের কথা বলেন। যাজ্জাজ একে রফা পড়েন, আর ফাররা ২:২২০ আয়াতের দৃষ্টান্ত দিয়ে নসব বৈধ বলেন।"
+          },
+          {
+            "en": "Then a scholar al-Qurtubi names as Abu Ishaq rejects al-Farra's option outright: this is an error, he says, because a question is not governed by what comes before it. Here man is a question standing as a subject, and the meaning is: you will know the people of the level path, is it we or you? At-Tabari lets both stand; Abu Ishaq allows one. Either way the meaning holds, and the form of a question keeps the verdict unspoken inside the sentence itself, waiting for its day.",
+            "bn": "এরপর কুরতুবী যাঁকে আবু ইসহাক বলে উল্লেখ করেন, তিনি ফাররার মত সরাসরি নাকচ করেন। তাঁর কথা, এটা ভুল, কারণ প্রশ্নবোধক শব্দের উপর তার আগের শব্দ কাজ করে না। এখানে মান প্রশ্নবোধক, বাক্যের উদ্দেশ্য হিসেবে বসেছে। অর্থ দাঁড়ায়: তোমরা জানবে সোজা পথের লোক কারা, আমরা না তোমরা? তাবারী দুটিই মেনে নেন, আবু ইসহাক মানেন একটি। যেভাবেই পড়া হোক, অর্থ টিকে থাকে। প্রশ্নের রূপটাই রায়কে বাক্যের ভেতরে অনুচ্চারিত রেখে দেয়, তার দিনের অপেক্ষায়।"
+          },
+          {
+            "en": "Why two clauses, the people of the level path and who is guided? An-Nahhas, as al-Qurtubi reports, says al-Farra' took the first to mean those who never went astray and the second those who strayed and were then guided. Al-Baghawi's gloss leans the same way: who was guided out of misguidance. As-Sa'di reads the second as guidance gained by walking that path. On al-Farra's reading the closing words of the surah leave room for whoever comes back.",
+            "bn": "দুটি অংশ কেন, সোজা পথের লোক আর হেদায়াতপ্রাপ্ত? কুরতুবীর বর্ণনায় নাহহাস জানান, ফাররা প্রথমটির অর্থ ধরেছেন যে কখনো পথভ্রষ্ট হয়নি, আর দ্বিতীয়টির অর্থ যে পথভ্রষ্ট হয়ে পরে হেদায়াত পেয়েছে। বাগাভীর ব্যাখ্যাও সেদিকে ঝোঁকে: যে গোমরাহি থেকে হেদায়াতের দিকে এসেছে। সা'দী দ্বিতীয়টি পড়েন এভাবে: যে ওই পথে চলার মাধ্যমে হেদায়াত পেয়েছে। ফাররার ব্যাখ্যায় সূরার শেষ কথাগুলো ফিরে আসা মানুষের জন্যও জায়গা রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Night Prayer for the Disputed",
+          "bn": "মতভেদের রাতে হেদায়াতের দোয়া"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries read for this verse attaches a hadith to it or gives an occasion of revelation. A sound narration on the same theme does exist, though it is not tied to this verse. Muslim records in his Sahih (770) that 'A'isha (RA) was asked how the Prophet ﷺ opened his prayer when he rose at night, and she said he opened it with these words. Ma'arif al-Qur'an ends its commentary on the surah with an Arabic prayer in similar words.",
+            "bn": "এ আয়াতের জন্য পড়া তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, শানে নুযূলও দেয়নি। তবে একই বিষয়ে একটি সহীহ বর্ণনা আছে, যদিও তা এ আয়াতের সঙ্গে সম্পৃক্ত নয়। মুসলিম তাঁর সহীহ গ্রন্থে (৭৭০) বর্ণনা করেছেন, আয়েশা (রাঃ)-কে জিজ্ঞেস করা হয়েছিল, রাতে উঠে নবী ﷺ কোন কথা দিয়ে নামায শুরু করতেন। তিনি বললেন, এই কথাগুলো দিয়ে। মাআরিফুল কুরআনও এ সূরার তাফসীর শেষ করে কাছাকাছি শব্দের একটি আরবি দোয়া দিয়ে।"
+          },
+          {
+            "en": "\"O Allah, Lord of Jibril, Mika'il and Israfil, Originator of the heavens and the earth, Knower of the unseen and the seen, You judge between Your servants in that over which they used to differ. Guide me, by Your leave, to the truth in what has been differed over; indeed You guide whom You will to a straight path.\" The prayer asks for what the verse promises will in time be shown: which road is straight, decided by Him who judges every dispute.",
+            "bn": "\"হে আল্লাহ, জিবরীল, মীকাঈল ও ইসরাফীলের রব, আসমান ও যমীনের স্রষ্টা, অদৃশ্য ও দৃশ্যের জ্ঞাতা, আপনার বান্দারা যে বিষয়ে মতভেদ করত, আপনিই তার ফয়সালা করেন। যে সত্য নিয়ে মতভেদ হয়েছে, আপনার অনুমতিতে আমাকে সেদিকে হেদায়াত দিন। নিশ্চয়ই আপনি যাকে চান সরল পথে পরিচালিত করেন।\" আয়াতটি যা একদিন প্রকাশ করে দেওয়ার কথা বলে, এ দোয়া সেটাই চায়: কোন পথ সোজা, তার ফয়সালা আসে তাঁর কাছ থেকে, যিনি প্রতিটি বিরোধের বিচারক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Waiting Without Gloating",
+          "bn": "অন্যের পতনের আশা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse answers the deniers of Makkah who opposed the Prophet ﷺ and, by al-Baghawi's and as-Sa'di's account, waited for his death. It describes what it describes: their stance and the warning given to them. It licenses nothing against any living person or community. It does not let a reader decide who among the people around him is lost, and it gives no permission to wish harm on anyone, or to turn a disagreement into waiting for another person's downfall.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি মক্কার সেই অস্বীকারকারীদের জবাব, যারা নবী ﷺ-এর বিরোধিতা করত, আর বাগাভী ও সা'দীর বর্ণনামতে তাঁর মৃত্যুর অপেক্ষায় ছিল। আয়াত যা বর্ণনা করে, তা-ই বর্ণনা করে: তাদের অবস্থান আর তাদের দেওয়া সতর্কবাণী। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আশপাশের কে পথহারা, সে রায় দেওয়ার অধিকার এটা পাঠককে দেয় না। কারও অমঙ্গল কামনা করা, কিংবা মতভেদকে অন্যের পতনের অপেক্ষায় পরিণত করার অনুমতিও দেয় না।"
+          },
+          {
+            "en": "What the verse leaves the reader is a question to put to himself. Everyone waits for something. The verse does not ask whether I am waiting, but where I stand while I wait, and whether I am walking the level road or only claiming it. Its last word is ihtada, was guided, and on al-Farra's reading that word holds a place for the one who strayed and returned. The verdict belongs to Allah; the walking belongs to me, and it begins today.",
+            "bn": "আয়াতটি পাঠকের হাতে রেখে যায় নিজেকে করার মতো একটি প্রশ্ন। সবাই কোনো না কোনো কিছুর অপেক্ষায় থাকে। আয়াত জানতে চায় না আমি অপেক্ষা করছি কি না। জানতে চায়, অপেক্ষার সময় আমি কোথায় দাঁড়িয়ে আছি, সোজা পথে হাঁটছি নাকি শুধু দাবি করছি। এর শেষ শব্দ ইহতাদা, হেদায়াত পেয়েছে। ফাররার ব্যাখ্যায় এই শব্দে জায়গা আছে তার জন্যও, যে পথ হারিয়ে আবার ফিরে এসেছে। ফয়সালা আল্লাহর হাতে। পথ চলার দায় আমার, আর তা শুরু হয় আজই।"
+          }
+        ]
+      }
+    ]
   }
 });
