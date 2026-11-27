@@ -34899,6 +34899,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The One who first made your bones and clothed them in flesh can raise them again. Live as though His promise of the raising is near, not far.",
     "lessonBn": "যিনি প্রথমবার আপনার হাড় বানিয়ে তাতে গোশত পরিয়েছেন, তিনি আবার তা উঠাতে পারেন। এমনভাবে বাঁচুন যেন পুনরুত্থানের ওয়াদা দূরে নয়, কাছেই।"
+  },
+  "23:46": {
+    "reflectionEn": "Two brothers stand before a king and his court with signs that no one there can answer. The Qur'an gives the court's reply in a single word: they were arrogant. Then it adds what lay underneath: they were already a people who stood high over others. The refusal was not a fresh decision made that morning. It grew out of a height they had lived on for years, over the weak of their own land. That is the unsettling part. Pride rarely shows itself first at the moment the truth arrives. It is built earlier, in how we treat the people beneath us, so that when a true word comes from someone we count as small, the answer is ready before we have listened.",
+    "reflectionBn": "দুই ভাই দাঁড়িয়ে আছেন এক রাজা আর তার দরবারের সামনে। হাতে এমন নিদর্শন, যার জবাব সেখানে কারও কাছে নেই। কুরআন দরবারের জবাবটা দেয় এক কথায়: তারা অহংকার করল। তারপর জানিয়ে দেয় ভেতরের কারণ: তারা আগে থেকেই ছিল অন্যদের মাথার উপর চড়ে বসা এক জাতি। সেদিন সকালে হঠাৎ তারা প্রত্যাখ্যানের সিদ্ধান্ত নেয়নি। বছরের পর বছর নিজের দেশের দুর্বল মানুষদের উপর যে উঁচু আসনে তারা বসে ছিল, প্রত্যাখ্যান জন্মেছে সেখান থেকেই। ভাবনার কথা এটাই। সত্য আসার মুহূর্তে অহংকার সাধারণত প্রথম মাথা তোলে না। তা গড়ে ওঠে আগেই, নিচের মানুষদের সঙ্গে আমাদের আচরণে। তাই যাকে আমরা ছোট মনে করি, তার মুখ থেকে সত্য কথা এলে শোনার আগেই জবাব তৈরি হয়ে থাকে।",
+    "pointsEn": [
+      "Whose advice do I find hardest to accept, and is that because of what they say or because of who they are?",
+      "Where do I hold some small height over others, at work, at home or among friends, and how am I using it?",
+      "The last time I was shown clearly that I was wrong, did I accept it, or look for a reason to dismiss the person who showed me?",
+      "Do I go along with the pride of the people around me, the way a court follows its king, because standing apart would cost me something?",
+      "What would it take for me to receive a truth from someone I quietly consider beneath me?"
+    ],
+    "pointsBn": [
+      "কার উপদেশ মেনে নেওয়া আমার কাছে সবচেয়ে কঠিন লাগে? তার কথার কারণে, নাকি মানুষটা কে, সেই কারণে?",
+      "কর্মস্থলে, ঘরে বা বন্ধুদের মাঝে কোথায় আমি অন্যদের চেয়ে একটু উঁচু জায়গায় আছি? সেই জায়গাটা আমি কীভাবে কাজে লাগাচ্ছি?",
+      "শেষবার যখন কেউ পরিষ্কার দেখিয়ে দিল যে আমি ভুল, আমি কি মেনে নিয়েছিলাম, নাকি যে দেখাল তাকেই উড়িয়ে দেওয়ার অজুহাত খুঁজেছিলাম?",
+      "দরবার যেমন রাজার পেছনে চলে, তেমনি আমিও কি আশপাশের মানুষের অহংকারে সায় দিয়ে যাই, কারণ আলাদা দাঁড়ালে কিছু হারাতে হবে?",
+      "মনে মনে যাকে আমি নিজের চেয়ে নিচু ভাবি, তার কাছ থেকে সত্য গ্রহণ করতে আমার কী লাগবে?"
+    ],
+    "lessonEn": "Pride is built long before the truth arrives, in how we rise over others; stay humble with people, and you will not find yourself too high to accept the truth.",
+    "lessonBn": "সত্য আসার অনেক আগেই অহংকার গড়ে ওঠে, অন্যের উপর নিজেকে উঁচু করার ভেতর দিয়ে। মানুষের সঙ্গে বিনয়ী থাকুন, তাহলে সত্য মেনে নেওয়ার বেলায় নিজেকে এত উঁচুতে পাবেন না যে নামতে পারবেন না।"
   }
 };
 

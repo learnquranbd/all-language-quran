@@ -2215,6 +2215,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:46": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Court the Sending Reached",
+          "bn": "যে দরবারে বার্তা পৌঁছাল"
+        },
+        "p": [
+          {
+            "en": "Ila Fir'awna wa mala'ihi: to Pharaoh and his chiefs. The verse does not begin a new sentence. It finishes what 23:45 began, where Allah sent Musa and his brother Harun (AS) with His signs and a clear authority; that sending has its own page here and is not retold. What this verse adds is the address and the reply. Of its seven Arabic words, three name who received the message and four report how they received it. Before the reader hears anything more about the proofs, he hears what the proud did with them.",
+            "bn": "ইলা ফিরআওনা ওয়া মালাইহি: ফেরাউন ও তার প্রধানদের কাছে। আয়াতটি নতুন কোনো বাক্য শুরু করে না। ২৩:৪৫ আয়াতে যে বাক্য শুরু হয়েছিল, এখানে তা শেষ হয়। সেখানে আল্লাহ মূসা ও তাঁর ভাই হারূন (আঃ)-কে নিদর্শন আর সুস্পষ্ট প্রমাণসহ পাঠিয়েছেন। সেই প্রেরণের আলোচনা আলাদা পাতায় আছে, এখানে আর বলা হবে না। এ আয়াত যোগ করে দুটি জিনিস: বার্তা কার কাছে গেল, আর তারা কী জবাব দিল। আরবিতে মোট সাতটি শব্দ। তিনটি জানায় বার্তা কে পেল, বাকি চারটি জানায় কীভাবে তারা তা গ্রহণ করল। প্রমাণ নিয়ে আর কিছু শোনার আগেই পাঠক শোনে, অহংকারীরা সেই প্রমাণ নিয়ে কী করল।"
+          },
+          {
+            "en": "The commentators name the address plainly. At-Tabari, on the sentence's first half in 23:45, has the two brothers sent to Pharaoh and to the nobles of his people from the Copts. Al-Muyassar, commenting on the two verses together, calls him Pharaoh, the ruler of Egypt, and his chiefs the nobles of his people. As-Sa'di, also reading the pair as one, gives a single name for the chiefs: such as Haman, and others among their leaders. The verse itself names no one beside Pharaoh. It says only that the message went to the man at the top and to the circle around him.",
+            "bn": "কার কাছে বার্তা গেল, তাফসীরকারেরা তা সোজাসুজি বলে দেন। বাক্যের প্রথম অর্ধেক, অর্থাৎ ২৩:৪৫ আয়াতের আলোচনায় তাবারী বলেন, দুই ভাইকে পাঠানো হয়েছিল ফেরাউন আর তার কওমের কিবতী অভিজাতদের কাছে। মুয়াসসার দুটি আয়াত একসঙ্গে ব্যাখ্যা করে। তার ভাষায় ফেরাউন মিসরের শাসক, আর প্রধানরা তার কওমের সম্ভ্রান্ত লোকজন। সা'দীও দুই আয়াত একসঙ্গে পড়েন, এবং প্রধানদের মধ্যে একটি নাম উল্লেখ করেন: যেমন হামান, আর তাদের অন্যান্য নেতা। আয়াত নিজে ফেরাউন ছাড়া আর কারও নাম নেয় না। শুধু জানায়, বার্তা গিয়েছিল শীর্ষে বসা মানুষটির কাছে, আর তাকে ঘিরে থাকা লোকদের কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Who Stood Beside Him",
+          "bn": "যারা তার পাশে দাঁড়িয়ে ছিল"
+        },
+        "p": [
+          {
+            "en": "Mala' is rendered here as chiefs or establishment, and at-Tabari and al-Muyassar both gloss it as ashraf, the nobles. The Qur'an names this same circle elsewhere. In 28:38 Pharaoh turns to it, O eminent ones, ya ayyuha l-mala', and tells them he knows of no god for them other than himself. In 10:75, from the Yunus passage as-Sa'di cites in his comment here, Musa and Harun are again sent to Pharaoh and his mala'. The verse could have named the king alone. It names his court with him, because the message was addressed to both.",
+            "bn": "মালা শব্দের অনুবাদ এখানে প্রধানগণ বা পারিষদবর্গ। তাবারী ও মুয়াসসার দুজনেই এর ব্যাখ্যা দেন আশরাফ দিয়ে, অর্থাৎ সম্ভ্রান্ত লোকজন। কুরআন অন্য জায়গাতেও এই একই মহলের কথা বলে। ২৮:৩৮ আয়াতে ফেরাউন তাদের দিকে ফিরে বলে: হে পারিষদবর্গ, ইয়া আইয়ুহাল মালা। তারপর জানায়, সে নিজে ছাড়া তাদের আর কোনো ইলাহ আছে বলে সে জানে না। সা'দী এখানে সূরা ইউনুসের যে অংশ উদ্ধৃত করেন, তার ১০:৭৫ আয়াতেও মূসা ও হারূন (আঃ)-কে পাঠানো হয় ফেরাউন ও তার মালার কাছে। আয়াত চাইলে শুধু রাজার নাম নিতে পারত। কিন্তু সে রাজার সঙ্গে তার দরবারকেও উল্লেখ করে, কারণ বার্তা দুই পক্ষকেই লক্ষ্য করে এসেছিল।"
+          },
+          {
+            "en": "So the verbs that follow are plural: fa-stakbaru, they were arrogant, and kanu, they were. Ibn Kathir, in his Arabic comment on this verse, puts it in his own words: Pharaoh and his people were too proud to follow the two brothers and to submit to their command. The refusal was not one man's whim carried out by frightened servants. It was shared. A tyrant's pride needs a court to agree with it, repeat it and carry it out, and the verse holds that court to account in the same breath as the man it served.",
+            "bn": "তাই পরের ক্রিয়াগুলো বহুবচন: ফাসতাকবারূ, তারা অহংকার করল, আর কানূ, তারা ছিল। ইবন কাসীর এ আয়াতের আরবি তাফসীরে কথাটা নিজের ভাষায় বলেন: ফেরাউন আর তার কওম দুই ভাইকে মানতে এবং তাঁদের নির্দেশের সামনে মাথা নোয়াতে অহংকার করেছিল। প্রত্যাখ্যানটা কোনো একজনের খেয়াল ছিল না, যা ভীত চাকরেরা শুধু পালন করে গেছে। এর ভাগীদার ছিল সবাই। জালিমের অহংকার টিকে থাকে দরবারের জোরে। কেউ তাতে সায় দেয়, কেউ তা মুখে মুখে ছড়ায়, কেউ তা কার্যকর করে। আয়াত তাই যার সেবা তারা করত, তার সঙ্গে একই নিঃশ্বাসে সেই দরবারকেও দায়ী করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Too Great to Follow",
+          "bn": "মানতে গিয়ে নিজেকে বড় ভাবা"
+        },
+        "p": [
+          {
+            "en": "Fa-stakbaru: and they were arrogant. The fa joins the reply to the sending with no pause, as if nothing stood between proof offered and proof refused. The commentators supply what the court held itself too great for. At-Tabari: too proud to follow the two, and to believe in what they had brought from Allah. Ibn Kathir: too proud to follow them and to submit to their command. Al-Muyassar: too proud to believe in Musa and his brother. Al-Baghawi compresses it into one verb, ta'azzamu 'ani l-iman: they made themselves too great for faith.",
+            "bn": "ফাসতাকবারূ: আর তারা অহংকার করল। ফা অব্যয়টি প্রেরণের সঙ্গে জবাবকে জুড়ে দেয় কোনো বিরতি ছাড়া। যেন প্রমাণ পেশ করা আর প্রমাণ ফিরিয়ে দেওয়ার মাঝে কিছুই ছিল না। দরবার কোন জিনিসের চেয়ে নিজেকে বড় ভেবেছিল, তাফসীরকারেরা তা খুলে বলেন। তাবারীর মতে, দুই ভাইকে মানা আর আল্লাহর কাছ থেকে তাঁরা যা এনেছিলেন তাতে ঈমান আনা। ইবন কাসীরের মতে, তাঁদের অনুসরণ করা আর তাঁদের নির্দেশ মেনে চলা। মুয়াসসারের মতে, মূসা ও তাঁর ভাইয়ের উপর ঈমান আনা। বাগাভী সবটা একটি ক্রিয়ায় গুটিয়ে আনেন, তাআজ্জামূ আনিল ঈমান: ঈমানের চেয়ে তারা নিজেদের বড় ভেবেছিল।"
+          },
+          {
+            "en": "As-Sa'di splits the arrogance in two. They were too proud, he says, to believe in Allah, and they were arrogant against His prophets. The distinction matters. Pride can look like a quarrel with people only, a refusal to be outranked by two men who had come from among those the court ruled. As-Sa'di's reading shows the quarrel with the messengers was, underneath, a quarrel with Him who sent them. To look down on the bearer of the message was already to turn away from its Sender, whatever the court told itself about the two men in front of it.",
+            "bn": "সা'দী এই অহংকারকে দুই ভাগে ভাগ করেন। তাঁর ভাষায়, তারা আল্লাহর উপর ঈমান আনতে অহংকার করেছিল, আর তাঁর নবীদের উপর নিজেদের বড় দেখিয়েছিল। এই পার্থক্যটা গুরুত্বপূর্ণ। অহংকারকে মনে হতে পারে শুধু মানুষের সঙ্গে ঝগড়া। দরবার যাদের শাসন করত, তাদেরই ভেতর থেকে আসা দুজন মানুষ তাদের উপরে উঠে যাবে, এটা তারা মানবে না। সা'দীর পাঠ দেখিয়ে দেয়, রসূলদের সঙ্গে এই ঝগড়ার তলায় ছিল তাঁদের প্রেরকের সঙ্গে ঝগড়া। সামনে দাঁড়ানো দুই মানুষ সম্পর্কে দরবার নিজেকে যা-ই বোঝাক, বার্তাবাহককে তুচ্ছ করা মানেই ছিল বার্তার মালিক থেকে মুখ ফিরিয়ে নেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "High Before Musa Came",
+          "bn": "মূসা আসার আগেই উঁচু আসনে"
+        },
+        "p": [
+          {
+            "en": "Then the second clause: wa kanu qawman 'alin, and they were a haughty people. As-Sa'di reads it as the cause of the first. 'Alin, he says, means their description was 'uluw, qahr and fasad in the land: loftiness, domination and corruption. For that reason the arrogance came out of them, and from such people it is no surprise. On his reading the court did not become proud on the day Musa arrived. It met him with a pride it already had, the settled habit of people used to standing over others, so the refusal was only that habit showing itself.",
+            "bn": "তারপর দ্বিতীয় অংশ: ওয়া কানূ কওমান আলীন, আর তারা ছিল এক উদ্ধত জাতি। সা'দী একে প্রথম অংশের কারণ হিসেবে পড়েন। তাঁর ব্যাখ্যায় আলীন মানে, তাদের পরিচয়ই ছিল দেশে উলুউ, কাহর আর ফাসাদ: নিজেকে উঁচুতে তোলা, অন্যকে দমিয়ে রাখা আর বিপর্যয় ছড়ানো। এ কারণেই তাদের কাছ থেকে অহংকার প্রকাশ পেয়েছে, আর এমন লোকের কাছে এটা অবাক হওয়ার মতো কিছু নয়। তাঁর পাঠ অনুযায়ী মূসা (আঃ) যেদিন এলেন, সেদিন দরবার নতুন করে অহংকারী হয়নি। অন্যের মাথার উপর দাঁড়িয়ে থাকতে অভ্যস্ত মানুষের পুরোনো স্বভাব নিয়েই তারা তাঁর মুখোমুখি হয়েছিল। প্রত্যাখ্যান ছিল সেই স্বভাবেরই বহিঃপ্রকাশ।"
+          },
+          {
+            "en": "The Qur'an sets the same two words side by side in one other place, in the question put to Iblis when he refused to bow: Were you arrogant, or were you among the haughty? (38:75). Istakbara and 'alin stand together there as they do here. None of the commentaries fetched for this verse draws that link, and nothing here is built on it. But the echo is in the text itself, and it gives a reader something to weigh: arrogance can be the choice of a single moment, or it can be the ground a person was already standing on when the moment came.",
+            "bn": "কুরআনে আরেক জায়গায় এই দুটি শব্দ পাশাপাশি এসেছে। সিজদা করতে অস্বীকার করার পর ইবলীসকে প্রশ্ন করা হয়েছিল: তুমি কি অহংকার করলে, নাকি তুমি উদ্ধতদের একজন? (৩৮:৭৫)। সেখানে ইস্তাকবারা আর আলীন একসঙ্গে, যেমন এখানে। এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এই সংযোগ টানে না, আর এখানকার কোনো কথা এর উপর দাঁড়িয়ে নেই। তবে প্রতিধ্বনিটা কুরআনের শব্দেই আছে, আর পাঠককে তা ভাবার মতো একটা জিনিস দেয়। অহংকার কখনো এক মুহূর্তের সিদ্ধান্ত। আবার কখনো তা সেই জমিন, যার উপর মানুষটা মুহূর্তটা আসার আগে থেকেই দাঁড়িয়ে ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Raised Above Whom?",
+          "bn": "কার মাথার উপরে?"
+        },
+        "p": [
+          {
+            "en": "Over whom were they high? The commentators give two answers. At-Tabari's own gloss looks down the ladder: they were 'alin over the people of their region and those in their land, the Children of Israel and others, through injustice, subduing them. Al-Qurtubi and al-Baghawi say much the same in fewer words, proud and subduing others through injustice, and al-Muyassar has them overbearing towards people. Al-Qurtubi adds the verse behind it: Indeed, Pharaoh exalted himself in the land (28:4), which goes on to describe him splitting its people into factions and oppressing one of them.",
+            "bn": "তারা উঁচু ছিল কার উপরে? এখানে তাফসীরকারেরা দুই রকম জবাব দেন। তাবারীর নিজের ব্যাখ্যা নিচের দিকে তাকায়। তাঁর ভাষায়, তারা নিজেদের এলাকার মানুষ আর দেশের বাসিন্দাদের উপর, বনী ইসরাঈল ও অন্যদের উপর, জুলুমের মাধ্যমে উঁচু হয়ে ছিল, তাদের দমিয়ে রেখেছিল। কুরতুবী আর বাগাভী অল্প কথায় প্রায় একই কথা বলেন: অহংকারী, জুলুম করে অন্যদের দমিয়ে রাখত। মুয়াসসার বলে, তারা মানুষের উপর চড়াও হয়ে থাকত। কুরতুবী এর পেছনের আয়াতটিও যোগ করেন: নিশ্চয়ই ফেরাউন দেশে উদ্ধত হয়ে উঠেছিল (২৮:৪)। সেই আয়াত আরও বলে, সে দেশের মানুষকে নানা দলে ভাগ করে তাদের একটি দলকে দুর্বল করে রেখেছিল।"
+          },
+          {
+            "en": "Then at-Tabari relays a second reading from Ibn Zayd, through Yunus and Ibn Wahb. Ibn Zayd looks up instead of down: they rose above their messengers and disobeyed their Lord, and that, he says, was their 'uluw. On this reading the height in question is the one they claimed over the men Allah had sent to them. At-Tabari sets the two readings one after the other and does not argue between them, and this reading leaves them there. Both describe the same people; one measures their pride by those they crushed, the other by those they would not hear.",
+            "bn": "এরপর তাবারী ইবন যায়দের আরেকটি পাঠ বর্ণনা করেন, ইউনুস ও ইবন ওয়াহবের সূত্রে। ইবন যায়দ নিচে নয়, তাকান উপরের দিকে। তাঁর ভাষায়, তারা নিজেদের রসূলদের উপর উঁচু হয়েছিল আর তাদের রবের নাফরমানি করেছিল, এটাই ছিল তাদের উলুউ। এই পাঠে প্রশ্নটা সেই উচ্চতার, যা তারা আল্লাহর পাঠানো মানুষদের উপর দাবি করেছিল। তাবারী দুটি পাঠ পরপর রাখেন, কোনোটির পক্ষে বা বিপক্ষে যুক্তি দেন না। এখানেও দুটি সেভাবেই থাকল। দুটিই একই মানুষদের বর্ণনা। একটি তাদের অহংকার মাপে যাদের তারা পিষে রেখেছিল তাদের দিয়ে, অন্যটি মাপে যাদের কথা তারা শুনতে চায়নি তাদের দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Word Chosen Here",
+          "bn": "এখানে বাছাই করা একটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Twice elsewhere the Qur'an gives the court's response in nearly the same words and ends on a different one. Of the plagues sent on Pharaoh's people it says: but they were arrogant and were a criminal people (7:133). In the Yunus passage as-Sa'di cites, Musa and Harun are sent to Pharaoh and his chiefs, but they behaved arrogantly and were a criminal people (10:75). Both close on mujrimin. Only here does the sentence close on 'alin. The word criminal names what the court did; the word haughty names the height from which it was done.",
+            "bn": "কুরআনে আরও দুই জায়গায় দরবারের এই জবাবের বর্ণনা প্রায় একই শব্দে এসেছে, শুধু শেষ শব্দটা আলাদা। ফেরাউনের কওমের উপর পাঠানো বিপদগুলোর কথা বলে কুরআন বলে: কিন্তু তারা অহংকার করল, তারা ছিল এক অপরাধী জাতি (৭:১৩৩)। সা'দী সূরা ইউনুসের যে অংশ উদ্ধৃত করেন, সেখানে মূসা ও হারূন (আঃ)-কে ফেরাউন ও তার প্রধানদের কাছে পাঠানো হয়, কিন্তু তারা অহংকার করে, তারা ছিল এক অপরাধী সম্প্রদায় (১০:৭৫)। দুই জায়গাতেই শেষ শব্দ মুজরিমীন। শুধু এখানে বাক্যটা শেষ হয় আলীন দিয়ে। অপরাধী শব্দটি বলে দরবার কী করেছিল। উদ্ধত শব্দটি বলে, কোন উচ্চতা থেকে তারা তা করেছিল।"
+          },
+          {
+            "en": "Ibn Zayd, as at-Tabari relays him, did not leave the word inside Pharaoh's palace. Having explained it, he recited: That home of the Hereafter We assign to those who do not desire exaltedness upon the earth or corruption (28:83). The word there is 'uluw, the very quality this verse names, and as-Sa'di's gloss here puts loftiness and corruption in the land in one list. The recitation turns a description of a long-gone court into a condition for every reader. The home of the Hereafter is promised to those who do not want what that court wanted.",
+            "bn": "তাবারীর বর্ণনায় ইবন যায়দ শব্দটাকে ফেরাউনের প্রাসাদের ভেতরে আটকে রাখেননি। ব্যাখ্যা দেওয়ার পর তিনি তিলাওয়াত করেন: সেই আখিরাতের ঘর আমি তাদের জন্য রেখেছি, যারা পৃথিবীতে ঔদ্ধত্য আর বিপর্যয় চায় না (২৮:৮৩)। সেখানে শব্দটি উলুউ, ঠিক যে গুণের কথা এ আয়াত বলছে। সা'দীর ব্যাখ্যাতেও এখানে একই তালিকায় আসে দেশে নিজেকে উঁচু করা আর বিপর্যয় ছড়ানো। এই তিলাওয়াত বহু আগে বিলীন এক দরবারের বর্ণনাকে প্রত্যেক পাঠকের জন্য একটা শর্তে পরিণত করে। আখিরাতের ঘরের প্রতিশ্রুতি তাদের জন্য, যারা সেই দরবারের চাওয়াটা চায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard in Their Own Reply",
+          "bn": "তাদের নিজেদের জবাবেই শোনা যায়"
+        },
+        "p": [
+          {
+            "en": "The next verse lets the court speak, and its words show what 'alin sounded like from inside: Should we believe two men like ourselves while their people are for us in servitude? (23:47). That verse will have its own page; here it is enough to point at it. Ibn Kathir, in the abridged English commentary on this passage, joins the two verses: Pharaoh and his people were too arrogant to follow the brothers because they were human beings, just as earlier nations had denied human messengers. They were, he says, of a similar mentality.",
+            "bn": "পরের আয়াতে দরবার নিজেই কথা বলে, আর সেই কথা থেকে বোঝা যায় ভেতর থেকে আলীন শব্দটা কেমন শোনাত: আমরা কি আমাদেরই মতো দুজন মানুষের উপর ঈমান আনব, অথচ তাদের কওম আমাদের দাসত্ব করে? (২৩:৪৭)। সেই আয়াতের আলাদা পাতা থাকবে, এখানে শুধু তার দিকে ইঙ্গিত করাই যথেষ্ট। ইবন কাসীর সংক্ষিপ্ত ইংরেজি তাফসীরে এ অংশের আলোচনায় দুই আয়াতকে জুড়ে দেন। তাঁর কথায়, ফেরাউন আর তার কওম দুই ভাইকে মানতে অহংকার করেছিল, কারণ তাঁরা ছিলেন মানুষ। আগের জাতিগুলোও ঠিক এভাবে মানুষ রসূলদের অস্বীকার করেছিল। তাঁর ভাষায়, তাদের মানসিকতা ছিল একই রকম।"
+          },
+          {
+            "en": "At-Tabari, on 23:47, relays Ibn Zayd once more, putting the court's reasoning into plain words: shall we go and raise them above us and be beneath them, when today we are above them and they are beneath us? Ibn Zayd then recites the court's charge from another surah, that the brothers wanted grandeur in the land for themselves (10:78), and glosses that grandeur as al-'uluw fi l-ard. The court accused the two messengers of wanting exactly what it already held. In 23:48 the account closes in four words: they denied them, and were among the destroyed.",
+            "bn": "২৩:৪৭ আয়াতের আলোচনায় তাবারী আবার ইবন যায়দের কথা আনেন, যেখানে দরবারের যুক্তিটা খোলাখুলি বলা হয়েছে: আমরা কি গিয়ে তাদের আমাদের মাথার উপর তুলব আর নিজেরা তাদের নিচে থাকব, অথচ আজ আমরা তাদের উপরে আর তারা আমাদের নিচে? তারপর ইবন যায়দ আরেক সূরা থেকে দরবারের অভিযোগটা তিলাওয়াত করেন: দুই ভাই চায় দেশে তাদের নিজেদের প্রাধান্য (১০:৭৮)। সেই প্রাধান্যের ব্যাখ্যা তিনি দেন আল-উলুউ ফিল আরদ দিয়ে, অর্থাৎ দেশে নিজেকে উঁচু করা। যা দরবারের হাতে আগে থেকেই ছিল, ঠিক সেটা চাওয়ার অভিযোগ তারা তুলল দুই রসূলের বিরুদ্ধে। ২৩:৪৮ আয়াতে মাত্র চারটি শব্দে হিসাব শেষ হয়: তারা দুজনকে মিথ্যাবাদী বলল, আর ধ্বংসপ্রাপ্তদের দলে মিশে গেল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pride Defined in Two Clauses",
+          "bn": "দুই কথায় অহংকারের সংজ্ঞা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. A sound narration on pride in general, not tied to this verse, names both readings met above. Muslim records it in his Sahih (no. 91) from 'Abdullah ibn Mas'ud: the Prophet ﷺ said, No one will enter Paradise who has in his heart the weight of a speck of pride. A man said, A man likes his garment to be fine and his sandals fine. He said, Allah is beautiful and loves beauty. Pride is disdaining the truth and looking down on people.",
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করে না। তবে অহংকার নিয়ে সাধারণভাবে একটি সহীহ বর্ণনা আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়, অথচ উপরের দুটি পাঠই তাতে ধরা পড়ে। মুসলিম তাঁর সহীহ গ্রন্থে (নং ৯১) আবদুল্লাহ ইবন মাসউদ (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: যার অন্তরে অণু পরিমাণ অহংকার আছে, সে জান্নাতে প্রবেশ করবে না। একজন বলল, মানুষ তো চায় তার পোশাক সুন্দর হোক, জুতা সুন্দর হোক। তিনি বললেন: আল্লাহ সুন্দর, তিনি সৌন্দর্য ভালোবাসেন। অহংকার হলো সত্যকে অগ্রাহ্য করা আর মানুষকে তুচ্ছ জ্ঞান করা।"
+          },
+          {
+            "en": "The two halves of that definition fit the two readings of 'alin closely. To disdain the truth is the court's answer to the signs, the height Ibn Zayd measured against the messengers. To look down on people is the height at-Tabari and al-Muyassar describe, over the Children of Israel and the weak of the land. The narration is not commentary on this verse, and no reading of the verse rests on it. But it shows that the vice of Pharaoh's court is not a vice of kings alone. Its smallest weight, carried by anyone, is enough to keep a heart outside Paradise.",
+            "bn": "সংজ্ঞার দুটি অংশ আলীন শব্দের দুটি পাঠের সঙ্গে বেশ মিলে যায়। সত্যকে অগ্রাহ্য করা হলো নিদর্শনের জবাবে দরবারের আচরণ, ইবন যায়দ যে উচ্চতা মেপেছিলেন রসূলদের সামনে। মানুষকে তুচ্ছ করা হলো সেই উচ্চতা, যার কথা তাবারী আর মুয়াসসার বলেন, বনী ইসরাঈল আর দেশের দুর্বল মানুষদের উপর। বর্ণনাটি এ আয়াতের তাফসীর নয়, আয়াতের কোনো পাঠও এর উপর দাঁড়িয়ে নেই। তবু এটা দেখিয়ে দেয়, ফেরাউনের দরবারের রোগ শুধু রাজাদের রোগ নয়। যে কারও অন্তরে এর সামান্যতম ওজনও জান্নাতের বাইরে রেখে দেওয়ার জন্য যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Label for Anyone Living",
+          "bn": "জীবিত কারও গায়ের তকমা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying firmly. The verse describes what it describes: one ruler and one court, long gone, who were brought clear proofs, refused them, and were judged by Allah. It licenses nothing against any living ruler, government, people or community. 'Alin is Allah's verdict on a case He has closed, and the knowledge of hearts it rests on is His alone. To call a present-day opponent Pharaoh, or his supporters Pharaoh's court, borrows the Qur'an's verdict for a quarrel it never judged, and makes the speaker one who sets himself above others, the very thing the verse condemns.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: বহু আগে বিলীন একজন শাসক আর একটি দরবার, যাদের সামনে সুস্পষ্ট প্রমাণ এসেছিল, তারা তা ফিরিয়ে দিয়েছিল, আর আল্লাহ তাদের বিচার করেছেন। কোনো জীবিত শাসক, সরকার, জাতি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আলীন হলো এমন এক মামলায় আল্লাহর রায়, যা তিনি নিজেই নিষ্পত্তি করেছেন। যে অন্তরের জ্ঞানের উপর এ রায় দাঁড়িয়ে, তা কেবল তাঁরই। আজকের কোনো প্রতিপক্ষকে ফেরাউন আর তার সমর্থকদের ফেরাউনের দরবার বলা মানে, কুরআন যে বিবাদের বিচারই করেনি, তাতে কুরআনের রায় ধার করা। তাতে বক্তা নিজেই হয়ে যায় অন্যের উপর নিজেকে উঁচু করা মানুষ, ঠিক যাকে আয়াত নিন্দা করে।"
+          },
+          {
+            "en": "The verse's proper use is the inward one. The court's refusal took a moment, but the height it came from took years, built in daily dealings with people it counted as beneath it. So the question it leaves is small and personal. Over whom do I stand a little high: a junior colleague, a younger sibling, someone who works in my home, someone with less learning than mine? And if the truth reached me tomorrow through one of them, would I hear it, or would my answer already be waiting, as the court's answer was waiting for Musa?",
+            "bn": "আয়াতের আসল ব্যবহার নিজের ভেতরের দিকে। দরবারের প্রত্যাখ্যানে লেগেছিল এক মুহূর্ত। কিন্তু যে উচ্চতা থেকে তা এসেছিল, তা গড়ে উঠেছিল বছরের পর বছর, যাদের তারা নিচু ভাবত তাদের সঙ্গে প্রতিদিনের আচরণে। তাই আয়াত যে প্রশ্নটা রেখে যায়, তা ছোট আর একান্ত নিজের। আমি কার উপর একটু উঁচু হয়ে দাঁড়িয়ে আছি? অফিসের কোনো কনিষ্ঠ সহকর্মী, ছোট ভাই বা বোন, ঘরে কাজ করা কোনো মানুষ, কিংবা আমার চেয়ে কম জানা কেউ? কাল যদি তাদের কোনো একজনের মুখ দিয়ে সত্য আমার কাছে আসে, আমি কি তা শুনব? নাকি মূসা (আঃ)-এর জন্য দরবারের জবাব যেমন তৈরি ছিল, আমার জবাবও তেমনি আগে থেকেই তৈরি থাকবে?"
+          }
+        ]
+      }
+    ]
+  },
   "23:50": {
     "sections": [
       {
