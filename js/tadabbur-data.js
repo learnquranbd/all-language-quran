@@ -38053,6 +38053,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold Allah's warnings as promises that will be kept, wait for them with patience rather than play, and where you do not know their details, say that Allah knows best.",
     "lessonBn": "আল্লাহর সতর্কবাণীকে এমন ওয়াদা হিসেবে নিন যা পূর্ণ হবেই। খেলাচ্ছলে নয়, সবরের সঙ্গে তার অপেক্ষা করুন, আর যার খুঁটিনাটি জানা নেই, সেখানে বলুন: আল্লাহই ভালো জানেন।"
+  },
+  "44:39": {
+    "reflectionEn": "These words answer people who had demanded their dead forefathers be brought back as proof. One verse earlier, the Qur'an denies that the heavens and the earth were made in play. Here it goes further: they were made with nothing but the truth. All that lies overhead and underfoot was made for something, and that something includes a day when every deed is weighed. Then comes a quiet line: most of them do not know. They saw the same sky we see, all their lives, and still did not know. Seeing is not knowing. If the whole of creation stands on truth, the question turns to me: does the small part I am building stand on it too, or do I live as if nothing will be asked?",
+    "reflectionBn": "যারা প্রমাণ হিসেবে তাদের মৃত বাপদাদাদের ফিরিয়ে আনার দাবি তুলেছিল, এ কথাগুলো তাদেরই জবাব। আগের আয়াতে কুরআন বলেছে, আকাশ আর যমীন খেলার ছলে বানানো হয়নি। এখানে কথা আরও এক ধাপ এগোয়: এগুলো বানানো হয়েছে শুধু হক দিয়ে, আর কিছু দিয়ে নয়। মাথার উপরে আর পায়ের নিচে যা কিছু আছে, সবই কোনো উদ্দেশ্যে তৈরি। সেই উদ্দেশ্যের ভেতরে আছে এমন এক দিন, যেদিন প্রতিটি আমল ওজন করা হবে। তারপর শান্ত একটি বাক্য: কিন্তু তাদের অধিকাংশই জানে না। আমরা যে আকাশ দেখি, তারাও জীবনভর রোজ সেই আকাশই দেখেছে। তবু জানেনি। দেখা আর জানা এক জিনিস নয়। গোটা সৃষ্টিই যদি হকের উপর দাঁড়িয়ে থাকে, তাহলে প্রশ্নটা এবার আমার দিকে ফেরে: আমি নিজের যে ছোট্ট অংশটুকু গড়ছি, সেটাও কি হকের উপর দাঁড়িয়ে আছে? নাকি আমি এমনভাবে চলছি, যেন কোনো কিছুর হিসাবই চাওয়া হবে না?",
+    "pointsEn": [
+      "The last time I looked up at the sky, did it remind me of anything beyond the weather?",
+      "Which part of my ordinary day would I be uneasy to see weighed, if I truly lived as though it was made for a purpose?",
+      "Is my belief in a day of reckoning knowledge that shapes what I do, or only information I could repeat when asked?",
+      "When I read that most people do not know, do I quietly assume I am among the few, without checking how I actually live?",
+      "How would I treat the people around me today if I remembered that each of them was also created for a purpose?"
+    ],
+    "pointsBn": [
+      "শেষবার আকাশের দিকে তাকিয়ে আমার কি আবহাওয়া ছাড়া আর কিছু মনে পড়েছিল?",
+      "সত্যিই যদি মেনে চলতাম যে আমার দিনটাও উদ্দেশ্য নিয়ে বানানো, তাহলে সাধারণ দিনের কোন অংশটা ওজন হতে দেখলে আমি অস্বস্তিতে পড়তাম?",
+      "হিসাবের দিনের উপর আমার বিশ্বাস কি এমন জানা, যা আমার কাজকে বদলে দেয়? নাকি শুধু এমন এক তথ্য, যা কেউ জিজ্ঞেস করলে মুখস্থ বলে দিতে পারি?",
+      "অধিকাংশ মানুষ জানে না, এ কথা পড়ে আমি কি মনে মনে ধরে নিই যে আমি সেই অল্প কয়েকজনের একজন? নিজের আসল চলাফেরাটা কি একবার মিলিয়ে দেখি?",
+      "আশপাশের প্রত্যেক মানুষকেও যে উদ্দেশ্য নিয়ে সৃষ্টি করা হয়েছে, এ কথা মনে থাকলে আজ তাদের সঙ্গে আমার আচরণ কেমন হতো?"
+    ],
+    "lessonEn": "Nothing in the heavens and the earth was made without purpose, and neither were you; let knowing that your deeds will be weighed shape how you live, not only what you believe.",
+    "lessonBn": "আকাশ আর যমীনের কিছুই উদ্দেশ্য ছাড়া বানানো হয়নি, আপনিও নন। আপনার আমল ওজন করা হবে, এই জানা যেন শুধু বিশ্বাসে আটকে না থাকে, আপনার চলাফেরাকেও গড়ে দেয়।"
   }
 };
 

@@ -2207,6 +2207,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "44:39": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Sentence Turns",
+          "bn": "যেখানে বাক্যটি মোড় নেয়"
+        },
+        "p": [
+          {
+            "en": "Ma khalaqnahuma illa bil-haqq, wa lakinna aktharahum la ya'lamun: We did not create the two except with the truth, but most of them do not know. Eight words in Arabic, and they finish a thought begun one verse earlier. 44:38 denied that the heavens, the earth and what lies between them were made in play; that denial has its own article and is not retold here. This verse turns the same sentence from what creation is not to what it is, and then from creation to the people looking at it.",
+            "bn": "মা খালাকনাহুমা ইল্লা বিল হাক্ক, ওয়া লাকিন্না আকসারাহুম লা ইয়া'লামূন: এ দুটিকে আমি হক ছাড়া সৃষ্টি করিনি, কিন্তু তাদের অধিকাংশই জানে না। আরবিতে আটটি শব্দ। আগের আয়াতে যে কথা শুরু হয়েছিল, এখানে তা পূর্ণ হয়। ৪৪:৩৮ আয়াত নাকচ করেছে যে আকাশ, যমীন আর এ দুয়ের মাঝের সবকিছু খেলার ছলে বানানো। সে কথার আলাদা প্রবন্ধ আছে, এখানে তা আর বলা হবে না। এই আয়াত একই বাক্যকে ঘুরিয়ে দেয়। সৃষ্টি কী নয়, সেখান থেকে আসে সৃষ্টি কী, সেই কথায়। তারপর সৃষ্টি থেকে চোখ ফেরায় সেই মানুষদের দিকে, যারা এর দিকে তাকিয়ে আছে।"
+          },
+          {
+            "en": "Both verses answer a challenge quoted in 44:34 to 44:36: there is nothing but our first death, we will not be raised, so bring back our forefathers if you are truthful. At-Tabari, on this verse, names what the reply is for: al-tanbih 'ala sihhat al-ba'th wal-mujazah, an alert to the soundness of the resurrection and the requital. The deniers asked for a sight. The verse answers with a principle, and the sight they asked for is promised in the very next verse, on a day already fixed.",
+            "bn": "দুটি আয়াতই একটি চ্যালেঞ্জের জবাব, যা উদ্ধৃত হয়েছে ৪৪:৩৪ থেকে ৪৪:৩৬ আয়াতে। তারা বলেছিল, প্রথম মৃত্যুর পর আর কিছু নেই, আমাদের আর ওঠানো হবে না। সত্যবাদী হলে আমাদের বাপদাদাদের ফিরিয়ে আনো। এই আয়াতের ব্যাখ্যায় তাবারী জানিয়ে দেন জবাবের উদ্দেশ্য: আত-তানবীহ আলা সিহহাতিল বা'সি ওয়াল মুজাযাহ, অর্থাৎ পুনরুত্থান আর প্রতিফল যে সত্য, সে দিকে সতর্ক করা। অস্বীকারকারীরা চেয়েছিল চোখে দেখার মতো কিছু। আয়াত জবাব দেয় একটি মূলনীতি দিয়ে। আর তারা যা দেখতে চেয়েছিল, তার প্রতিশ্রুতি আসে ঠিক পরের আয়াতে, এমন এক দিনে যা আগে থেকেই ঠিক করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Pair and an Exception",
+          "bn": "দুটি জিনিস, একটি ব্যতিক্রম"
+        },
+        "p": [
+          {
+            "en": "Start with the pronoun. 44:38 named three things, the heavens, the earth and what lies between them; this verse gathers them with -huma, a dual: the two. At-Tabari's paraphrase restores the nouns: We did not create the heavens and the earth except with the truth. The pronoun points back to the pair named first, and whatever lies between them sits inside that frame rather than falling out of it. Nothing in the space overhead escapes the statement.",
+            "bn": "শুরু করা যাক সর্বনাম দিয়ে। ৪৪:৩৮ আয়াত তিনটি জিনিসের নাম নিয়েছিল: আকাশমণ্ডলী, যমীন আর এ দুয়ের মাঝের সবকিছু। এই আয়াত সেগুলোকে ধরে নেয় -হুমা দিয়ে, যা দ্বিবচন, মানে 'এ দুটি'। তাবারীর ব্যাখ্যায় নামগুলো আবার ফিরে আসে: আকাশমণ্ডলী ও যমীনকে আমি হক ছাড়া সৃষ্টি করিনি। সর্বনামটি ইশারা করে আগে বলা জোড়াটির দিকে। আর এ দুয়ের মাঝে যা আছে, তা সেই কাঠামোর ভেতরেই থাকে, বাইরে পড়ে যায় না। মাথার উপরের বিশাল জায়গার কিছুই এ কথার আওতার বাইরে নয়।"
+          },
+          {
+            "en": "Then there is the shape of the sentence. 21:16 denies making the heaven and the earth in play, with no exception clause; 15:85 and 46:3 use the exception form, ma khalaqna ... illa bil-haqq, with no verse about play beside them. Here in ad-Dukhan the two forms stand back to back. Play is ruled out first. Then every remaining possibility is ruled out except one, so that a single door is left open and the verse names it.",
+            "bn": "এরপর বাক্যের গড়ন। ২১:১৬ আয়াত শুধু বলে, আকাশ আর যমীন খেলার ছলে বানানো হয়নি, সেখানে 'ছাড়া' দিয়ে কোনো ব্যতিক্রম নেই। ১৫:৮৫ আর ৪৬:৩ আয়াতে আছে ব্যতিক্রমের গড়ন, মা খালাকনা ... ইল্লা বিল হাক্ক, কিন্তু পাশে খেলা নিয়ে আলাদা কোনো আয়াত নেই। সূরা আদ-দুখানে দুটি গড়ন পাশাপাশি দাঁড়িয়ে। আগে খেলার সম্ভাবনা বাদ যায়। তারপর একটি ছাড়া বাকি সব সম্ভাবনাই বাদ পড়ে। খোলা থাকে শুধু একটি দরজা, আর আয়াত নিজেই সেটির নাম বলে দেয়।"
+          },
+          {
+            "en": "Ibn Kathir's comment on this verse names what the exception shuts out. He reads it as Allah telling of His justice and declaring Himself above la'ib, play, 'abath, futility, and batil, falsehood, and he sets 38:27 beside it, where batil takes the place of our la'ibin. Read through his three words, the truth of this verse stands against all of them at once: against the idle, the pointless and the false.",
+            "bn": "ব্যতিক্রমটি কী কী বাইরে রাখে, এই আয়াতের ব্যাখ্যায় ইবন কাসীর তার নাম বলেন। তাঁর পাঠে আল্লাহ এখানে নিজের ন্যায়বিচারের খবর দিচ্ছেন। সেই সঙ্গে নিজেকে পবিত্র ঘোষণা করছেন লা'ইব বা খেলা, আবাস বা অনর্থকতা আর বাতিল বা অসত্য থেকে। পাশে তিনি রাখেন ৩৮:২৭ আয়াত, যেখানে আমাদের লা'ইবীনের জায়গায় এসেছে বাতিল। তাঁর এই তিন শব্দের আলোয় পড়লে এ আয়াতের হক একসঙ্গে তিনটিরই বিপরীতে দাঁড়ায়: অলস খেলা, অর্থহীনতা আর মিথ্যা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Little Ba Carries",
+          "bn": "ছোট্ট একটি অব্যয়ের ভার"
+        },
+        "p": [
+          {
+            "en": "Everything turns on bil-haqq, and the commentators read its small preposition in several ways. Al-Qurtubi lists three views. Muqatil reads it as bil-amr al-haqq, by the true command, which keeps bi as the means: the heavens came about through a command that is itself true. Al-Kalbi and al-Hasan read it as lil-haqq, for the truth, which turns bi into a statement of purpose. A third view, left unnamed, reads it as li-iqamat al-haqq li-izharihi: to establish the truth, to make it plain, the oneness of Allah and holding fast to obeying Him.",
+            "bn": "পুরো কথা ঘুরছে বিল হাক্ককে ঘিরে। এর ছোট্ট অব্যয়টিকে তাফসীরকারেরা একাধিকভাবে পড়েন। কুরতুবী তিনটি মত উল্লেখ করেন। মুকাতিলের মতে এর মানে বিল আমরিল হাক্ক, হক আদেশের মাধ্যমে। এ পাঠে 'বি' থাকে মাধ্যম হিসেবে: আকাশমণ্ডলী অস্তিত্বে এসেছে এমন এক আদেশে, যা নিজেই হক। কালবী ও হাসানের মতে এর মানে লিল হাক্ক, হকের জন্য। এ পাঠে 'বি' হয়ে যায় উদ্দেশ্যের সূচক। তৃতীয় এক মত, যার বক্তার নাম নেই, একে পড়ে লি-ইকামাতিল হাক্কি লি-ইযহারিহি হিসেবে: হককে প্রতিষ্ঠা করার জন্য, তা প্রকাশ করার জন্য। আর সেই হক হলো আল্লাহর তাওহীদ এবং তাঁর আনুগত্য আঁকড়ে থাকা।"
+          },
+          {
+            "en": "Al-Baghawi gives only the purpose reading, introduced with qila, it is said, and fills it with content: the truth is the reward for obedience and the punishment for disobedience. Set side by side, the readings face different ways. Muqatil's looks back to the moment of making. Al-Kalbi's and al-Hasan's, with al-Baghawi's, look ahead to what the making serves. The third looks at what the making shows. Al-Qurtubi records all three without choosing.",
+            "bn": "বাগাভী শুধু উদ্দেশ্যের পাঠটি আনেন, শুরুতে 'কীলা', অর্থাৎ 'বলা হয়' কথাটি জুড়ে। সঙ্গে তার ভেতরের কথাও বলে দেন: এখানে হক মানে আনুগত্যের পুরস্কার আর নাফরমানির শাস্তি। পাশাপাশি রাখলে দেখা যায়, পাঠগুলো ভিন্ন ভিন্ন দিকে তাকিয়ে। মুকাতিলের পাঠ পেছনে তাকায়, সৃষ্টির মুহূর্তের দিকে। কালবী, হাসান আর বাগাভীর পাঠ সামনে তাকায়, সৃষ্টি কোন কাজে লাগবে সেই দিকে। তৃতীয় মত তাকায় সৃষ্টি কী প্রকাশ করে তার দিকে। কুরতুবী তিনটিই লিখে রাখেন, কোনোটিকে বেছে নেন না।"
+          },
+          {
+            "en": "As-Sa'di avoids the choice by holding two senses together. Nafs khalqihima bil-haqq, he writes, their very creation is with the truth, wa khalquhuma mushtamil 'ala al-haqq, and their creation contains the truth. The first sense is about the act: nothing false went into the making. The second is about the thing made: something true is lodged inside it. If the second sense holds, then looking up at the sky is closer to reading than to gazing.",
+            "bn": "সা'দী বেছে নেওয়ার ঝামেলায় যান না। তিনি দুটি অর্থ একসঙ্গে ধরে রাখেন। তিনি লেখেন, নাফসু খালকিহিমা বিল হাক্ক, এ দুটির সৃষ্টিই হকের সঙ্গে। ওয়া খালকুহুমা মুশতামিলুন আলাল হাক্ক, আর এ দুটির সৃষ্টির ভেতরে হক রয়েছে। প্রথম অর্থ কাজটি নিয়ে: বানানোর মধ্যে মিথ্যা কিছু ঢোকেনি। দ্বিতীয় অর্থ বানানো জিনিসটি নিয়ে: তার ভেতরে সত্য কিছু রাখা আছে। দ্বিতীয় অর্থ ঠিক হলে আকাশের দিকে তাকানো শুধু চেয়ে থাকা নয়, অনেকটা পড়ার মতো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Order Things Run By",
+          "bn": "যে নিয়মে সবকিছু চলে"
+        },
+        "p": [
+          {
+            "en": "Two of the commentators define the truth through one shared word, tadbir, the governing and arranging of affairs. At-Tabari calls it the truth alladhi la yaslahu al-tadbir illa bihi, without which the governing of things would not be sound. Al-Muyassar calls it the truth that is sunnat Allah fi khalqihi wa tadbirihi, Allah's way in His creation and His governing of it. On these readings the truth is not only a goal waiting at the end. It is an order in force now, the reason the world holds together rather than drifting apart.",
+            "bn": "দুজন তাফসীরকার হকের সংজ্ঞা দেন একই একটি শব্দ দিয়ে: তাদবীর, অর্থাৎ বিষয়গুলোর পরিচালনা ও বিন্যাস। তাবারী বলেন, এ সেই হক, আল্লাযী লা ইয়াসলুহুত তাদবীরু ইল্লা বিহি, যা ছাড়া জগতের পরিচালনা ঠিক থাকে না। মুয়াসসার বলেন, এ সেই হক, যা সুন্নাতুল্লাহি ফী খালকিহি ওয়া তাদবীরিহি, নিজের সৃষ্টি ও তার পরিচালনায় আল্লাহর নিয়ম। এই পাঠে হক শুধু শেষ প্রান্তে অপেক্ষমাণ কোনো লক্ষ্য নয়। এ এখনই চালু থাকা এক বিধান। এর কারণেই জগৎ ভেঙে ছড়িয়ে পড়ে না, একসঙ্গে টিকে থাকে।"
+          },
+          {
+            "en": "This sits close to ordinary experience. The sun keeps to its hours, the seasons come back, a seed sown in good ground comes up after its kind. A reader of at-Tabari's phrase can see in that dependability a sign of something larger: a world run on a sound order is a world in which acts lead somewhere. At-Tabari draws the line himself in his next sentence, where a creation brought into being and then ended, with no test and no requital, is exactly what he calls 'abath, in vain.",
+            "bn": "এ কথা আমাদের রোজকার অভিজ্ঞতার খুব কাছের। সূর্য নিজের সময় মেনে চলে, ঋতু ফিরে ফিরে আসে, ভালো মাটিতে বোনা বীজ থেকে তার নিজের জাতের গাছই গজায়। তাবারীর কথাটি যিনি পড়েন, তিনি এই নির্ভরযোগ্যতার মধ্যে আরও বড় কিছুর আলামত দেখতে পান। যে জগৎ সঠিক নিয়মে চলে, সেখানে কাজের একটা পরিণতি থাকে। তাবারী নিজেই পরের বাক্যে এই সূত্রটা টেনে দেন। যে সৃষ্টিকে অস্তিত্বে এনে তারপর শেষ করে দেওয়া হয়, মাঝে কোনো পরীক্ষা নেই, কোনো প্রতিফলও নেই, তাকেই তিনি বলেন আবাস, অনর্থক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Truth Is Also His Name",
+          "bn": "হক তাঁরও নাম"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's second witness carries a detail worth noticing. He quotes 23:115 and 23:116: did you think that We created you in vain, and that to Us you would not be returned? Fa-ta'ala Allahu al-maliku al-haqq, so exalted is Allah, the King, the Truth. The word that describes the making in our verse is, in the passage he quotes, a name of the Maker. Ibn Kathir does not draw this out; it is a reader's observation from the verses he chose.",
+            "bn": "ইবন কাসীরের দ্বিতীয় সাক্ষীর ভেতরে খেয়াল করার মতো একটি জিনিস আছে। তিনি উদ্ধৃত করেন ২৩:১১৫ ও ২৩:১১৬: তোমরা কি ভেবেছিলে, আমি তোমাদের অনর্থক সৃষ্টি করেছি, আর আমার কাছে তোমাদের ফিরিয়ে আনা হবে না? ফাতাআলাল্লাহুল মালিকুল হাক্ক, মহিমান্বিত আল্লাহ, যিনি বাদশাহ, যিনি হক। আমাদের আয়াতে যে শব্দ সৃষ্টির ধরন বোঝায়, তাঁর উদ্ধৃত আয়াতে সেই শব্দই স্রষ্টার নাম। ইবন কাসীর নিজে এ কথা খুলে বলেননি। তাঁর বেছে নেওয়া আয়াত থেকে এটা পাঠকের নিজের পর্যবেক্ষণ।"
+          },
+          {
+            "en": "As-Sa'di says outright what the truth is for: Allah brought the two into being so that people would worship Him alone, with no partner, and so that He would command His servants and forbid them, reward them and punish them. The third view in al-Qurtubi points the same way, to the oneness of Allah and obedience to Him. On these readings the sky is not a backdrop to the question of worship. It belongs to the argument for it, and the deniers of 44:34 were standing under that argument while they spoke.",
+            "bn": "হক কিসের জন্য, সা'দী তা সরাসরি বলেন। আল্লাহ এ দুটিকে অস্তিত্বে এনেছেন, যাতে মানুষ শরিকহীনভাবে শুধু তাঁরই ইবাদত করে। আর যাতে তিনি বান্দাদের আদেশ দেন, নিষেধ করেন, পুরস্কার দেন, শাস্তিও দেন। কুরতুবীর উল্লেখ করা তৃতীয় মতও একই দিকে ইশারা করে: আল্লাহর তাওহীদ আর তাঁর আনুগত্য। এই পাঠে আকাশ ইবাদতের প্রশ্নের পেছনের কোনো সাজানো পর্দা নয়। আকাশ নিজেই সেই প্রশ্নের পক্ষে যুক্তির অংশ। ৪৪:৩৪ আয়াতের অস্বীকারকারীরা যখন কথা বলছিল, তখনো তারা দাঁড়িয়ে ছিল সেই যুক্তিরই নিচে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Most of Whom?",
+          "bn": "কাদের অধিকাংশ?"
+        },
+        "p": [
+          {
+            "en": "Then the sentence turns to people: wa lakinna aktharahum la ya'lamun. The commentators differ on who they are. At-Tabari reads them as most of these who associate partners with Allah, the deniers just quoted, and al-Muyassar likewise says most of these mushrikin. Al-Qurtubi reads the pronoun more widely: it means, he says, most people, akthar al-nas. One reading keeps the verse inside its scene; the other lets it describe humankind at large. Both are recorded here, and neither is pressed.",
+            "bn": "এরপর বাক্যটি ফেরে মানুষের দিকে: ওয়া লাকিন্না আকসারাহুম লা ইয়া'লামূন। এরা কারা, তা নিয়ে তাফসীরকারদের মধ্যে ভিন্নতা আছে। তাবারীর মতে এরা আল্লাহর সঙ্গে শরিককারী এই লোকদের অধিকাংশ, মানে যাদের কথা একটু আগেই উদ্ধৃত হয়েছে। মুয়াসসারও বলেন, এই মুশরিকদের অধিকাংশ। কুরতুবী সর্বনামটিকে আরও বড় পরিসরে পড়েন। তাঁর মতে এর মানে আকসারুন নাস, মানুষের অধিকাংশ। একটি পাঠ আয়াতকে তার নিজের দৃশ্যের ভেতরে রাখে। অন্যটি একে গোটা মানবজাতির বর্ণনা হতে দেয়। দুটিই এখানে উল্লেখ থাকল, কোনোটির উপর জোর দেওয়া হলো না।"
+          },
+          {
+            "en": "Either way the word is akthar, most, not all. The verse leaves room for some who do know, and a reader can hear their voice in 3:191: those who remember Allah standing, sitting and on their sides, and reflect on the creation of the heavens and the earth, saying: Our Lord, You did not create this batil, aimlessly; exalted are You, so protect us from the punishment of the Fire. What the deniers did not know, these people say aloud, and they say it as a prayer.",
+            "bn": "যেভাবেই পড়া হোক, শব্দটি আকসার, অধিকাংশ, সবাই নয়। ফলে আয়াত এমন কিছু মানুষের জন্য জায়গা রেখে দেয়, যারা জানে। তাদের কণ্ঠ পাঠক শুনতে পান ৩:১৯১ আয়াতে। তারা দাঁড়িয়ে, বসে আর শুয়ে আল্লাহকে স্মরণ করে, আকাশমণ্ডলী ও যমীনের সৃষ্টি নিয়ে চিন্তা করে আর বলে: হে আমাদের রব, তুমি এসব বাতিল, অর্থাৎ অনর্থক সৃষ্টি করোনি। তুমি পবিত্র, অতএব আমাদের আগুনের শাস্তি থেকে বাঁচাও। অস্বীকারকারীরা যা জানত না, এরা তা মুখে উচ্চারণ করে। আর উচ্চারণ করে দোয়া হিসেবে।"
+          },
+          {
+            "en": "None of the commentaries fetched attaches a hadith to this verse. A general narration, not tied to 44:39, shows such looking in practice. Al-Bukhari records (4569) that Ibn 'Abbas (RA) said: I spent the night at the house of my aunt Maymuna. The Messenger of Allah ﷺ talked with his wife for a while, then slept. In the last third of the night he sat up, looked towards the sky and recited 3:190. Then he rose, made wudu, used the siwak and prayed eleven rak'as; Bilal called the adhan, he prayed two rak'as, went out and prayed Fajr.",
+            "bn": "এখানে আনা কোনো তাফসীর এই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা, যা ৪৪:৩৯ আয়াতের সঙ্গে যুক্ত নয়, এমন তাকানোর বাস্তব ছবি দেখায়। বুখারী লিপিবদ্ধ করেছেন (৪৫৬৯), ইবন আব্বাস (রাঃ) বলেন: আমি আমার খালা মাইমুনার ঘরে রাত কাটালাম। আল্লাহর রাসূল ﷺ কিছুক্ষণ তাঁর স্ত্রীর সঙ্গে কথা বললেন, তারপর ঘুমিয়ে পড়লেন। রাতের শেষ তৃতীয়াংশে তিনি উঠে বসলেন, আকাশের দিকে তাকালেন আর ৩:১৯০ আয়াত তিলাওয়াত করলেন। তারপর উঠে অজু করলেন, মিসওয়াক করলেন, ১১ রাকআত নামাজ পড়লেন। বিলাল আযান দিলেন, তিনি দুই রাকআত পড়লেন, তারপর বেরিয়ে গিয়ে ফজরের নামাজ পড়লেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Chains From Not Knowing",
+          "bn": "না-জানা থেকে দুই দিকের শিকল"
+        },
+        "p": [
+          {
+            "en": "What does their not knowing lead to? At-Tabari says they do not know that Allah created this for them, and so they fear no punishment from His anger for what they commit, and hope for no reward for good they might do, because they deny the Return. Al-Muyassar runs the chain the other way: they do not know, and so they did not reflect on the heavens and the earth, because they hope for no reward and fear no punishment. As-Sa'di keeps only the middle link: for that reason they did not reflect.",
+            "bn": "তাদের এই না-জানা কোথায় গিয়ে দাঁড়ায়? তাবারী বলেন, তারা জানে না যে আল্লাহ এসব তাদের জন্যই সৃষ্টি করেছেন। তাই নিজেদের কাজের জন্য আল্লাহর ক্রোধের শাস্তিকে তারা ভয় পায় না। ভালো কিছু করলেও তার পুরস্কারের আশা রাখে না, কারণ আখিরাতে ফেরাকেই তারা অস্বীকার করে। মুয়াসসার শিকলটা টানেন উল্টো দিক থেকে। তারা জানে না, তাই আকাশ আর যমীন নিয়ে চিন্তা করেনি। আর চিন্তা করেনি, কারণ পুরস্কারের আশা বা শাস্তির ভয় কোনোটাই তাদের নেই। সা'দী রাখেন শুধু মাঝের কড়াটি: এ কারণেই তারা চিন্তা করেনি।"
+          },
+          {
+            "en": "In at-Tabari, not knowing comes first and the loss of fear and hope follows. In al-Muyassar, the absence of hope and fear is why the reflecting never began. Neither says the two make a circle, but set together they describe one: a person who expects nothing does not look, and a person who does not look goes on expecting nothing. Their not knowing was never a lack of access, since the sky was over them every day. What was missing was the kind of looking that changes what a person fears and hopes for.",
+            "bn": "তাবারীর পাঠে আগে আসে না-জানা, তারপর ভয় আর আশা হারিয়ে যায়। মুয়াসসারের পাঠে আশা আর ভয় না থাকাটাই কারণ, যে জন্য চিন্তা কখনো শুরুই হয়নি। দুজনের কেউই বলেননি যে এ দুটি মিলে একটি চক্র তৈরি করে। তবু পাশাপাশি রাখলে একটা চক্রই চোখে পড়ে। যে কিছুই আশা করে না, সে তাকায় না। আর যে তাকায় না, সে কিছুই আশা না করে চলতেই থাকে। তাদের না-জানার কারণ এই নয় যে জানার পথ বন্ধ ছিল। আকাশ তো রোজই তাদের মাথার উপর ছিল। অভাব ছিল এমন দেখার, যা মানুষের ভয় আর আশাকে বদলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Date for the Dare",
+          "bn": "চ্যালেঞ্জের জবাবে একটি দিন"
+        },
+        "p": [
+          {
+            "en": "The next verse answers the deniers on its own terms: inna yawm al-fasl miqatuhum ajma'in, the Day of Decision is the appointed time for them all. Ibn Kathir explains it as the Day of Resurrection, when Allah will judge between all creatures, and says that He will gather all of them, the first and the last. The forefathers they demanded will be brought forward after all, at a time already set, and they will not be the only ones there.",
+            "bn": "পরের আয়াত অস্বীকারকারীদের জবাব দেয় নিজের শর্তে: ইন্না ইয়াওমাল ফাসলি মীকাতুহুম আজমাঈন, ফয়সালার দিনই তাদের সবার নির্ধারিত সময়। ইবন কাসীর বলেন, এ হলো কিয়ামতের দিন, যেদিন আল্লাহ সব সৃষ্টির মধ্যে ফয়সালা করবেন। তিনি আরও বলেন, সেদিন আল্লাহ আগের ও পরের সবাইকে একত্র করবেন। যে বাপদাদাদের তারা হাজির করতে বলেছিল, তাদের শেষ পর্যন্ত হাজির করা হবেই, আগে থেকে ঠিক করা সময়ে। আর সেদিন শুধু তারাই থাকবে না, থাকবে সবাই।"
+          },
+          {
+            "en": "These verses describe a particular group whom the Qur'an condemns: people who denied any life after the first death and dared their hearers to raise their fathers. The verse describes what the text describes. It licenses nothing against any living person or community, and gives no warrant for pointing at a neighbour and calling him one of the most who do not know. Al-Qurtubi's wider reading, if anything, turns the line towards every reader, the one holding this page included.",
+            "bn": "এই আয়াতগুলো এমন একটি নির্দিষ্ট দলের কথা বলে, যাদের কুরআন নিন্দা করেছে। তারা প্রথম মৃত্যুর পর আর কোনো জীবন মানত না, আর শ্রোতাদের চ্যালেঞ্জ দিয়েছিল তাদের বাপদাদাদের জীবিত করে দেখাতে। আয়াত শুধু সেটুকুই বর্ণনা করে, যা পাঠে আছে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। কোনো প্রতিবেশীর দিকে আঙুল তুলে 'এই তো সেই না-জানা অধিকাংশের একজন' বলারও কোনো ভিত্তি এখানে নেই। বরং কুরতুবীর বড় পরিসরের পাঠ কথাটিকে ঘুরিয়ে দেয় প্রত্যেক পাঠকের দিকে, এই লেখা যিনি পড়ছেন তাঁর দিকেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living Inside a True Making",
+          "bn": "হকের উপর গড়া জগতে বসবাস"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an opens its comment on this verse with a plain demand: every wise and thinking person should realise that there is a purpose and objective behind the creation of this universe. Yet at-Tabari's account of not knowing raises the bar on what noticing means. Knowledge that leaves fear and hope untouched is, in his terms, not yet the knowing the verse has in mind.",
+            "bn": "মাআরিফুল কুরআন এই আয়াতের আলোচনা শুরু করে সোজা একটি দাবি দিয়ে: প্রত্যেক বুদ্ধিমান ও চিন্তাশীল মানুষের বোঝা উচিত, এই মহাবিশ্ব সৃষ্টির পেছনে একটা উদ্দেশ্য ও লক্ষ্য আছে। কিন্তু না-জানার যে বর্ণনা তাবারী দেন, তাতে খেয়াল করার মানেটা অনেক উঁচুতে উঠে যায়। যে জানা ভয় আর আশাকে একটুও নাড়া দেয় না, তাঁর কথার আলোয় তা এখনো আয়াতের বোঝানো জানা হয়ে ওঠেনি।"
+          },
+          {
+            "en": "So the verse can be carried into an ordinary day as a question rather than a slogan. If everything above and below was made with the truth, what in my own small share of the world is being made with something less? An hour spent without aim, a promise kept loosely, a kindness put off until it no longer mattered. The sky does not ask to be admired. It asks to be understood, and understanding it means living as one who will be asked.",
+            "bn": "তাই আয়াতটিকে স্লোগান হিসেবে নয়, প্রশ্ন হিসেবে সাধারণ একটি দিনের ভেতরে নিয়ে যাওয়া যায়। উপরে-নিচে সবকিছুই যদি হক দিয়ে বানানো হয়, তাহলে দুনিয়ার যে ছোট্ট অংশটুকু আমার হাতে, তার কোন জিনিস আমি হকের চেয়ে কম কিছু দিয়ে গড়ছি? লক্ষ্যহীন কাটানো একটি ঘণ্টা, ঢিলেঢালাভাবে রাখা একটি কথা, এত দেরিতে করা একটি সদয় কাজ যে তখন আর তার দরকার ছিল না। আকাশ প্রশংসা কুড়াতে চায় না। চায়, মানুষ তাকে বুঝুক। আর তাকে বোঝা মানে এমনভাবে বাঁচা, যেন একদিন হিসাব চাওয়া হবে।"
+          }
+        ]
+      }
+    ]
+  },
   "44:43": {
     "sections": [
       {
