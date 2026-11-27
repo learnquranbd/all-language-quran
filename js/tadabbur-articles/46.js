@@ -1359,6 +1359,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "46:32": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Warning That Closed Their Speech",
+          "bn": "যে সতর্কবাণীতে কথার ইতি"
+        },
+        "p": [
+          {
+            "en": "Wa man la yujib da'iya Allahi falaysa bi-mu'jizin fi al-ard: and whoever does not answer the caller of Allah cannot escape in the earth. This is the last sentence of the speech that the band of jinn carried home in 46:29 to 46:32. At-Tabari reads it as Allah reporting what those listeners said to their people, and Ibn Kathir introduces it the same way, as words He relates from them. The quotation that opened with 'O our people' in 46:30 closes here, on 'those are in manifest error.'",
+            "bn": "ওয়া মান লা ইউজিব দাঈয়াল্লাহি ফালাইসা বিমু'জিযিন ফিল আরদ: আর যে আল্লাহর দিকে আহ্বানকারীর ডাকে সাড়া দেয় না, সে পৃথিবীতে পালিয়ে বাঁচতে পারবে না। ৪৬:২৯ থেকে ৪৬:৩২ পর্যন্ত জ্বিনদের যে দলটি কথাগুলো ঘরে বয়ে নিয়ে গিয়েছিল, এটি তাদের বক্তব্যের শেষ বাক্য। তাবারী একে পড়েন এভাবে: সেই শ্রোতারা নিজের সম্প্রদায়কে যা বলেছিল, আল্লাহ তা-ই জানাচ্ছেন। ইবন কাসীরও আয়াতটি শুরু করেন একই কথায়, আল্লাহ তাদের মুখের কথা জানাচ্ছেন। ৪৬:৩০-এ 'হে আমাদের সম্প্রদায়' দিয়ে যে উদ্ধৃতি শুরু, তা এখানে শেষ হয় 'তারা সুস্পষ্ট গোমরাহিতে আছে' কথাটিতে।"
+          },
+          {
+            "en": "The two verses before it prepare what this one completes, and their details belong to their own pages. 46:30 describes the Book the jinn heard, sent down after Musa (AS) and confirming what came before it. 46:31 tells their people to answer the caller of Allah and believe in him, and promises forgiveness and protection from a painful punishment in return. 46:32 takes the same phrase, da'iya Allah, and turns it round. The command ajibu, answer, becomes la yujib, does not answer, and the promise becomes its absence.",
+            "bn": "আগের দুটি আয়াত এ আয়াতের পটভূমি তৈরি করে, তবে সেগুলোর খুঁটিনাটি তাদের নিজ নিজ পাতার বিষয়। ৪৬:৩০ বলে জ্বিনেরা কোন কিতাব শুনেছিল: যা মূসা (আঃ)-এর পরে নাজিল হয়েছে, আর আগের কিতাবগুলোর সত্যতা স্বীকার করে। ৪৬:৩১-এ তারা সম্প্রদায়কে বলে, আল্লাহর দিকে আহ্বানকারীর ডাকে সাড়া দাও, তাঁর উপর ঈমান আনো। বিনিময়ে ক্ষমা আর যন্ত্রণাদায়ক শাস্তি থেকে রক্ষার প্রতিশ্রুতি। ৪৬:৩২ একই শব্দবন্ধ, দাঈয়াল্লাহ, তুলে নিয়ে কথাটা উল্টো দিক থেকে বলে। 'আজীবূ', সাড়া দাও, এখানে হয়ে যায় 'লা ইউজিব', সাড়া দেয় না। আর প্রতিশ্রুতির জায়গায় আসে তার অনুপস্থিতি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Caller and His Call",
+          "bn": "আহ্বানকারী ও তাঁর আহ্বান"
+        },
+        "p": [
+          {
+            "en": "Who is the caller? At-Tabari names him outright. In his paraphrase the jinn say: whoever does not answer, O people, the Messenger of Allah, Muhammad ﷺ, the one who calls to what Allah sent him to call to, namely His oneness and acting in obedience to Him. The Muyassar gives the same identification in fewer words: whoever does not answer the Messenger of Allah in what he called to. On this reading the call has a content as well as a caller, and turning from one is turning from the other.",
+            "bn": "আহ্বানকারী কে? তাবারী সরাসরি নাম বলেন। তাঁর ব্যাখ্যায় জ্বিনেরা বলছে: হে সম্প্রদায়, যে আল্লাহর রাসূল মুহাম্মাদ ﷺ-এর ডাকে সাড়া দেয় না। তিনি সেই আহ্বানকারী, যাঁকে আল্লাহ পাঠিয়েছেন তাঁর একত্বের দিকে আর তাঁর আনুগত্যে আমল করার দিকে ডাকতে। মুয়াসসার কম কথায় একই পরিচয় দেয়: যে আল্লাহর রাসূলের ডাকে সাড়া দেয় না, তিনি যেদিকে ডেকেছেন সেদিকে। এ পাঠে ডাকের একজন আহ্বানকারী আছেন, আবার ডাকের একটা বিষয়ও আছে। একটা থেকে মুখ ফেরানো মানে অন্যটা থেকেও মুখ ফেরানো।"
+          },
+          {
+            "en": "Ibn Kathir draws a further point from the command in the verse before: the jinn's being told to answer this caller is proof, he says, that Muhammad ﷺ was sent to the jinn as well as to human beings. That inference rests on 46:31 and is only noted here. What 46:32 adds is the other face of the same mission. If the caller was sent to both, then refusing him is a choice open to both, and the warning these jinn gave their own people reads just as plainly to ours.",
+            "bn": "আগের আয়াতের নির্দেশ থেকে ইবন কাসীর আরও একটি কথা বের করেন। জ্বিনদের যে এই আহ্বানকারীর ডাকে সাড়া দিতে বলা হলো, তাঁর মতে এটাই প্রমাণ যে মুহাম্মাদ ﷺ মানুষের মতো জ্বিনদের কাছেও প্রেরিত। সেই সিদ্ধান্ত ৪৬:৩১-এর উপর দাঁড়িয়ে, তাই এখানে শুধু উল্লেখ করে রাখা হলো। ৪৬:৩২ যোগ করে একই দায়িত্বের অন্য পিঠ। আহ্বানকারী যদি দুই জাতির কাছেই প্রেরিত হন, তবে তাঁকে ফিরিয়ে দেওয়ার পথও দুই জাতির সামনেই খোলা। জ্বিনেরা নিজেদের সম্প্রদায়কে যে সতর্ক করেছিল, আমাদের কানেও তা ঠিক ততটাই স্পষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Running Beyond His Reach",
+          "bn": "তাঁর নাগাল ছাড়িয়ে পালানো নেই"
+        },
+        "p": [
+          {
+            "en": "Falaysa bi-mu'jizin fi al-ard. Mu'jiz comes from the root '-j-z, the root of inability: to make someone unable to catch you is to get away from him. Al-Qurtubi glosses it as he does not slip past Allah nor get ahead of Him, and al-Baghawi in almost the same words: he does not leave Allah unable, so as to escape Him. The phrase fi al-ard, in the earth, names the widest field a creature can run across, and the verse says that even the whole of it is not enough.",
+            "bn": "ফালাইসা বিমু'জিযিন ফিল আরদ। মু'জিয শব্দের ধাতু আইন-জীম-যা, যার মূল অর্থ অক্ষমতা। কাউকে ধরতে অক্ষম করে দেওয়া মানে তার হাত ফসকে বেরিয়ে যাওয়া। কুরতুবীর ব্যাখ্যা: সে আল্লাহর নাগাল এড়িয়ে যেতে পারে না, তাঁকে পেছনে ফেলে এগিয়েও যেতে পারে না। বাগাভী প্রায় একই কথা বলেন: সে আল্লাহকে অক্ষম করে পালিয়ে যেতে পারে না। ফিল আরদ, পৃথিবীতে। কোনো সৃষ্টি দৌড়ে বেড়াতে পারে এমন সবচেয়ে বড় ময়দান এটাই। আয়াত বলছে, পুরো পৃথিবীও তার জন্য যথেষ্ট নয়।"
+          },
+          {
+            "en": "At-Tabari spells out the scene behind the words. Such a person cannot escape his Lord by flight when Allah wills to punish him for denying His caller and refusing to believe him, even if he goes off through the earth as a runaway, because wherever he is, he is within Allah's authority and His grasp. The Muyassar ties it the same way to the moment Allah wills punishment. Ibn Kathir states it as a standing truth: Allah's power takes him in and surrounds him. As-Sa'di grounds it in Allah's power over all things: no fugitive gets away from Him, and no contender overpowers Him.",
+            "bn": "শব্দগুলোর পেছনের দৃশ্যটা তাবারী খুলে দেখান। আল্লাহ যখন তাঁর আহ্বানকারীকে মিথ্যা বলা আর তাঁকে বিশ্বাস না করার শাস্তি দিতে চাইবেন, তখন এমন মানুষ পালিয়ে তার রবকে এড়াতে পারবে না। পলাতক হয়ে পৃথিবীর যেখানেই যাক, সে যেখানেই থাকুক, আল্লাহর কর্তৃত্ব আর মুঠোর ভেতরেই আছে। মুয়াসসারও কথাটা একইভাবে বাঁধে আল্লাহর শাস্তি দিতে চাওয়ার মুহূর্তের সঙ্গে। ইবন কাসীর বলেন চিরন্তন সত্য হিসেবে: আল্লাহর কুদরত তাকে ঘিরে রেখেছে, চারদিক থেকে বেষ্টন করে আছে। সা'দী এর ভিত্তি রাখেন সবকিছুর উপর আল্লাহর ক্ষমতায়। কোনো পলাতক তাঁর হাত ফসকায় না, কোনো প্রতিদ্বন্দ্বী তাঁকে হারাতে পারে না।"
+          },
+          {
+            "en": "The jinn of Surat al-Jinn say something very close about themselves. In 72:12 they confess that they knew they could never make Allah unable in the earth, nor escape Him by flight, with the same verb from the same root and the same fi al-ard. That passage, 72:1 to 72:15, is a parallel account of jinn hearing the Qur'an, and it is cited here only for this echo. In both places the speakers are jinn, and in both they arrive at one conclusion: there is nowhere to go.",
+            "bn": "সূরা জ্বিনে জ্বিনেরা নিজেদের সম্পর্কে প্রায় একই কথা বলে। ৭২:১২-এ তারা স্বীকার করে, তারা বুঝে গিয়েছিল পৃথিবীতে আল্লাহকে অক্ষম করা তাদের পক্ষে কখনো সম্ভব নয়, পালিয়েও তাঁকে এড়ানো যাবে না। সেখানেও একই ধাতুর একই ক্রিয়া, একই 'ফিল আরদ'। ৭২:১ থেকে ৭২:১৫ অংশটি জ্বিনদের কুরআন শোনার আরেকটি সমান্তরাল বিবরণ। এখানে শুধু এই প্রতিধ্বনিটুকুর জন্য তার উল্লেখ। দুই জায়গাতেই বক্তা জ্বিন, আর দুই জায়গাতেই তারা পৌঁছায় একই সিদ্ধান্তে: যাওয়ার মতো কোনো জায়গা নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Shelter but His",
+          "bn": "তাঁর আশ্রয় ছাড়া আশ্রয় নেই"
+        },
+        "p": [
+          {
+            "en": "Wa laysa lahu min dunihi awliya': and he has no protectors besides Him. At-Tabari reads awliya' as helpers who would come to his aid against Allah when his Lord punishes him for his disbelief and his denial of the caller. Al-Qurtubi, al-Baghawi and the Muyassar all gloss the word as helpers who would hold Allah's punishment back from him. Ibn Kathir reaches for a different verb: no one will grant them protection from Him, la yujiruhum minhu ahad.",
+            "bn": "ওয়া লাইসা লাহু মিন দূনিহী আওলিয়া: আর তিনি ছাড়া তার কোনো রক্ষক নেই। তাবারী আওলিয়া পড়েন এমন সাহায্যকারী হিসেবে, যারা তার পক্ষে আল্লাহর বিরুদ্ধে দাঁড়াত, যখন তার রব তাকে কুফর আর আহ্বানকারীকে মিথ্যা বলার শাস্তি দেন। কুরতুবী, বাগাভী আর মুয়াসসার, তিনজনই শব্দটির অর্থ করেন এমন সাহায্যকারী, যারা আল্লাহর শাস্তি তার কাছ থেকে ঠেকিয়ে রাখত। ইবন কাসীর বেছে নেন ভিন্ন একটি ক্রিয়া: লা ইউজীরুহুম মিনহু আহাদ, তাঁর হাত থেকে কেউ তাদের আশ্রয় দেবে না।"
+          },
+          {
+            "en": "That verb is worth noticing. In 46:31 the jinn promised their people that if they answered, Allah would yujirkum, protect you, from a painful punishment. Ibn Kathir's gloss on 46:32 uses the same verb, so the two verses read as a pair. The protection was offered by the One who alone can give it. For whoever turns the offer down there is no second protector to run to, because the only one who could have granted it is the One being refused.",
+            "bn": "ক্রিয়াটি খেয়াল করার মতো। ৪৬:৩১-এ জ্বিনেরা সম্প্রদায়কে কথা দিয়েছিল, সাড়া দিলে আল্লাহ 'ইউজিরকুম', তোমাদের রক্ষা করবেন যন্ত্রণাদায়ক শাস্তি থেকে। ৪৬:৩২-এর ব্যাখ্যায় ইবন কাসীর ঠিক সেই ক্রিয়াই ব্যবহার করেন। ফলে দুটি আয়াত পড়া যায় জোড়া হিসেবে। আশ্রয়ের প্রস্তাব দিয়েছিলেন তিনিই, যিনি একমাত্র আশ্রয় দিতে পারেন। যে সেই প্রস্তাব ফিরিয়ে দেয়, তার ছুটে যাওয়ার মতো দ্বিতীয় কোনো রক্ষক নেই। কারণ যিনি আশ্রয় দিতে পারতেন, তাঁকেই তো সে ফিরিয়ে দিচ্ছে।"
+          },
+          {
+            "en": "Earlier in the same passage, 46:28 asked why the gods that people had taken besides Allah, min duni Allah, did not help them when destruction came; instead they had vanished from them. The verb there is nasarahum, helped them, and at-Tabari's gloss on awliya' here uses the same root: nusara' yansurunahu, helpers to help him. A reader moving through the surah meets the lesson twice within a few lines. Nothing taken besides Allah, whether an idol, a patron or a people, can stand between a person and Him.",
+            "bn": "এর আগে একই অংশে ৪৬:২৮ প্রশ্ন তুলেছিল: আল্লাহকে বাদ দিয়ে, মিন দূনিল্লাহ, যাদের তারা ইলাহ বানিয়েছিল, ধ্বংস নেমে আসার সময় তারা সাহায্য করল না কেন? বরং তারা উধাও হয়ে গেল। সেখানে ক্রিয়াটি 'নাসারাহুম', তাদের সাহায্য করল। এখানে আওলিয়া শব্দের ব্যাখ্যায় তাবারী ব্যবহার করেন একই ধাতু: নুসারা ইয়ানসুরূনাহু, এমন সাহায্যকারী যারা তাকে সাহায্য করত। সূরা পড়তে পড়তে পাঠক কয়েক লাইনের মধ্যেই শিক্ষাটা দুবার পান। আল্লাহকে বাদ দিয়ে যা-ই ধরা হোক, মূর্তি হোক, পৃষ্ঠপোষক হোক বা দলবল, কেউ মানুষ আর তাঁর মাঝখানে দাঁড়াতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Swerving From the Road",
+          "bn": "সোজা পথ ছেড়ে বাঁকে"
+        },
+        "p": [
+          {
+            "en": "Ula'ika fi dalalin mubin: those are in manifest error. At-Tabari describes the error as a swerving from the straight course of the road, a taking of a path without uprightness, and he explains mubin as plain to anyone who reflects on it that it is error. The Muyassar renders the phrase as a clear going-away from the truth. Neither speaks of the error as hidden or subtle. On at-Tabari's reading, mubin does not describe how the person feels; it says that anyone who thinks it over can see the turning.",
+            "bn": "উলাইকা ফী দালালিম মুবীন: তারা সুস্পষ্ট গোমরাহিতে আছে। তাবারীর বর্ণনায় এই গোমরাহি হলো পথের সোজা লক্ষ্য থেকে বেঁকে যাওয়া, এমন রাস্তা ধরা যাতে কোনো সরলতা নেই। আর মুবীনের ব্যাখ্যায় তিনি বলেন: যে একটু ভেবে দেখবে, তার কাছেই এটা যে গোমরাহি তা স্পষ্ট। মুয়াসসার কথাটির অর্থ করে সত্য থেকে স্পষ্টভাবে সরে যাওয়া। কেউই এই ভুলকে গোপন বা সূক্ষ্ম বলেননি। তাবারীর পাঠে মুবীন শব্দ বলে না মানুষটি নিজে কী অনুভব করে। বলে, যে-ই ভেবে দেখে, সে বাঁকটা দেখতে পায়।"
+          },
+          {
+            "en": "As-Sa'di asks a question instead of giving a gloss: what error could reach further than that of one whom the messengers called, to whom the warnings came with clear signs and proofs following one after another, and who turned away and grew proud? On his reading the error is measured by what was offered. Missing a call that never arrived would be one thing. Turning from one that came with clear signs, again and again, is what makes this error manifest.",
+            "bn": "সা'দী ব্যাখ্যা না দিয়ে একটা প্রশ্ন রাখেন: এর চেয়ে গভীর গোমরাহি আর কী হতে পারে, যাকে রাসূলগণ ডেকেছেন, স্পষ্ট নিদর্শন আর একের পর এক প্রমাণ নিয়ে যার কাছে সতর্কবাণী পৌঁছেছে, তারপরও সে মুখ ফিরিয়ে নিয়েছে আর অহংকার করেছে? তাঁর পাঠে গোমরাহির মাপ ঠিক হয় কী দেওয়া হয়েছিল তা দিয়ে। যে ডাক কখনো পৌঁছায়নি, তা না শোনা এক কথা। স্পষ্ট নিদর্শনসহ বারবার আসা ডাক থেকে মুখ ফেরানো আরেক কথা। এটাই এই গোমরাহিকে সুস্পষ্ট করে তোলে।"
+          },
+          {
+            "en": "One feature of the wording passes without comment in the commentaries fetched for this verse. The sentence begins in the singular, man la yujib, whoever does not answer, and lahu, he has no protectors, then closes in the plural, ula'ika, those. At-Tabari's paraphrase follows the text into the plural, ha'ula'i alladhina lam yujibu, these who did not answer, and so does Ibn Kathir's la yujiruhum. No reason is given in these texts and none is supplied here; the reader simply sees each separate refusal gathered at the end under a single word.",
+            "bn": "শব্দবিন্যাসের একটি দিক নিয়ে এ আয়াতের জন্য সংগৃহীত তাফসীরগুলো কিছু বলে না। বাক্য শুরু হয় একবচনে: মান লা ইউজিব, যে সাড়া দেয় না, আর লাহু, তার কোনো রক্ষক নেই। শেষ হয় বহুবচনে: উলাইকা, তারা। তাবারীর ব্যাখ্যাও মূল পাঠের সঙ্গে বহুবচনে চলে যায়, হাউলাইল্লাযীনা লাম ইউজীবূ, যারা সাড়া দেয়নি। ইবন কাসীরের 'লা ইউজীরুহুম'-ও তাই। এর কারণ এই লেখাগুলোতে নেই, এখানেও কোনো কারণ বানানো হচ্ছে না। পাঠক শুধু দেখেন, আলাদা আলাদা প্রত্যাখ্যান শেষে এসে এক শব্দের নিচে জড়ো হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hope First, Then Warning",
+          "bn": "প্রথমে আশা, শেষে সাবধানবাণী"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir names the register of this verse: it is a station of threat and warning, maqam tahdid wa tarhib. He then looks back over the whole speech. The jinn called their people with both targhib and tarhib, encouragement and warning; forgiveness and protection came first in 46:31, and the outcome of refusal came last. Because of this, he says, the call took effect in many of them, and they came to the Messenger of Allah ﷺ in delegation after delegation, as he had described earlier.",
+            "bn": "ইবন কাসীর এ আয়াতের সুরটা চিনিয়ে দেন: এটি হুমকি আর ভয় দেখানোর জায়গা, মাকামু তাহদীদিন ওয়া তারহীব। তারপর তিনি পুরো বক্তব্যের দিকে ফিরে তাকান। জ্বিনেরা সম্প্রদায়কে ডেকেছিল তারগীব আর তারহীব দুটো দিয়েই, উৎসাহ আর সতর্কতা। ৪৬:৩১-এ আগে এসেছে ক্ষমা আর রক্ষার কথা, প্রত্যাখ্যানের পরিণতি এসেছে শেষে। তিনি বলেন, এ কারণেই তাদের অনেকের মধ্যে ডাকটা কাজ করেছিল। তারা দলে দলে আল্লাহর রাসূল ﷺ-এর কাছে এসেছিল, যেমনটা তিনি আগে বর্ণনা করেছেন।"
+          },
+          {
+            "en": "The order matters for anyone who carries a message home. The jinn did not open with the threat. They first described what they had heard, then named the reward of answering, and only then said what refusal leaves a person with. The questions that belong to 46:31, such as what the min before 'your sins' means, which Ma'arif al-Qur'an and Ibn Kathir both discuss, and whether believing jinn are rewarded with Paradise, are taken up with that verse. None of the commentaries fetched for this verse attaches a hadith to it.",
+            "bn": "যে-ই কোনো বার্তা নিয়ে ঘরে ফেরে, তার জন্য এই ক্রমটা গুরুত্বপূর্ণ। জ্বিনেরা হুমকি দিয়ে কথা শুরু করেনি। আগে বলেছে কী শুনেছে, তারপর সাড়া দেওয়ার প্রতিদান, আর সবশেষে প্রত্যাখ্যান করলে মানুষের হাতে কী থাকে। ৪৬:৩১-এর নিজস্ব প্রশ্নগুলো সে আয়াতের আলোচনাতেই আসবে। যেমন 'তোমাদের গুনাহ'-র আগের 'মিন' শব্দের অর্থ কী, যা নিয়ে মাআরিফুল কুরআন আর ইবন কাসীর দুজনেই কথা বলেছেন। আর ঈমানদার জ্বিনেরা জান্নাতের প্রতিদান পাবে কি না, সে প্রশ্নও। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning, Never a Sentence",
+          "bn": "সতর্কবাণী, কারও উপর রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This verse describes what it describes: words of warning that a band of jinn spoke to their own people about refusing the caller of Allah, with the judgement and the punishment left wholly in Allah's hands. It licenses nothing against any living person or community. It gives no one the right to label a neighbour, a family or a nation as 'in manifest error' and then treat them as beyond protection, and no warrant for harm, contempt or the denial of any right. 'No protectors besides Him' speaks of Allah's reach, not of ours.",
+            "bn": "এ আয়াত শুধু তা-ই বর্ণনা করে যা এতে আছে: আল্লাহর আহ্বানকারীকে ফিরিয়ে দেওয়া নিয়ে জ্বিনদের একটি দল নিজের সম্প্রদায়কে যে সতর্কবাণী দিয়েছিল। বিচার আর শাস্তির ভার পুরোটাই আল্লাহর হাতে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। প্রতিবেশী, কোনো পরিবার বা কোনো জাতিকে 'সুস্পষ্ট গোমরাহিতে' বলে দেগে দিয়ে তাদের আশ্রয়ের বাইরে গণ্য করার অধিকার কাউকে দেয় না। ক্ষতি করা, তুচ্ছ করা বা কারও কোনো হক কেড়ে নেওয়ারও কোনো ভিত্তি এতে নেই। 'তিনি ছাড়া কোনো রক্ষক নেই' কথাটি আল্লাহর নাগালের কথা, আমাদের নাগালের নয়।"
+          },
+          {
+            "en": "Notice also who speaks and to whom. The jinn addressed their own people, ya qawmana, O our people, as warners who had themselves only just listened. The warning came from inside the household, with the offer of forgiveness spoken first. A reader who takes the verse as a description of others has read it from the wrong side. Its first hearer is whoever it reaches, and its first question is whether that hearer has answered.",
+            "bn": "কে কাকে বলছে, সেটাও খেয়াল করুন। জ্বিনেরা কথা বলেছিল নিজের সম্প্রদায়কে, ইয়া কাওমানা, হে আমাদের সম্প্রদায়। তারা নিজেরাও তখন সবে শুনে এসেছে, আর ফিরেছে সতর্ককারী হয়ে। সতর্কবাণী এসেছিল ঘরের ভেতর থেকে, আর ক্ষমার প্রস্তাব বলা হয়েছিল আগে। যে পাঠক আয়াতটিকে অন্যদের বিবরণ বলে ধরে নেন, তিনি একে উল্টো দিক থেকে পড়েছেন। আয়াতের প্রথম শ্রোতা সে-ই, যার কাছে এটি পৌঁছায়। আর এর প্রথম প্রশ্ন: সেই শ্রোতা নিজে সাড়া দিয়েছেন কি না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Call Reaches Us",
+          "bn": "ডাক যখন আমাদের দরজায়"
+        },
+        "p": [
+          {
+            "en": "The call of da'iya Allah did not end with those first listeners. At-Tabari describes it as a call to Allah's oneness and to acting in obedience to Him, and that call is still recited, so the verse's question is still open. Answering it is less a single moment of agreement than a direction for a life: belief first, then the prayer, the honesty and the restraint that belief asks for. Each postponement carries a small share of the runaway's hope that some place or some hour lies outside Allah's grasp.",
+            "bn": "দাঈয়াল্লাহর ডাক সেই প্রথম শ্রোতাদের সঙ্গেই থেমে যায়নি। তাবারীর ভাষায় এটি আল্লাহর একত্ব আর তাঁর আনুগত্যে আমলের দিকে ডাক। সেই ডাক আজও তিলাওয়াত হয়, তাই আয়াতের প্রশ্নও আজও খোলা। এতে সাড়া দেওয়া এক মুহূর্তের সম্মতির চেয়ে বেশি, গোটা জীবনের একটা দিক ঠিক করে নেওয়া। আগে ঈমান, তারপর নামায, সততা আর সংযম, যা ঈমান দাবি করে। প্রতিটি 'পরে করব'-র ভেতরে লুকিয়ে থাকে সেই পলাতকের আশার একটুখানি, যেন কোনো জায়গা বা কোনো সময় আল্লাহর মুঠোর বাইরে।"
+          },
+          {
+            "en": "The same verse also steadies the one who has answered. If no place on earth lies outside Allah's power, then neither does any place where a believer is wronged, forgotten or alone. If no one protects besides Him, then the protection promised in 46:31 to whoever answers needs no other ally to make it good. The truth that closes every road of escape leaves one road open: back toward the caller, while the call is still being made.",
+            "bn": "যে সাড়া দিয়েছে, একই আয়াত তাকে ভরসাও দেয়। পৃথিবীর কোনো জায়গা যদি আল্লাহর কুদরতের বাইরে না থাকে, তবে যেখানে কোনো মুমিন জুলুমের শিকার, বিস্মৃত বা একা, সে জায়গাও তাঁর বাইরে নয়। তিনি ছাড়া যদি কোনো রক্ষক না থাকে, তবে ৪৬:৩১-এ সাড়াদানকারীকে যে রক্ষার প্রতিশ্রুতি দেওয়া হয়েছে, তা পূরণ করতে আর কোনো মিত্রের দরকার নেই। যে সত্য পালানোর সব পথ বন্ধ করে দেয়, সেটাই একটা পথ খোলা রাখে: আহ্বানকারীর দিকে ফিরে আসার পথ, ডাক যতক্ষণ চলছে ততক্ষণ।"
+          }
+        ]
+      }
+    ]
+  },
   "46:35": {
     "sections": [
       {

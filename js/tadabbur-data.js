@@ -38191,6 +38191,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Answer false charges calmly, never speak about Allah to win anyone's approval, leave the verdict to Him as Witness, and keep the way of repentance open even to opponents.",
     "lessonBn": "মিথ্যা অভিযোগের জবাব দিন শান্তভাবে। কারও খুশির জন্য আল্লাহর নামে কিছু বলবেন না, রায় সাক্ষী হিসেবে তাঁর হাতেই ছেড়ে দিন, আর বিরোধীর জন্যও তওবার পথ খোলা রাখুন।"
+  },
+  "46:32": {
+    "reflectionEn": "A small band heard the Qur'an once and went home with it. Their last words to their people are not a promise but a warning: whoever does not answer the one who calls to Allah cannot slip out of His reach anywhere on earth, and has no protector apart from Him. The words just before had offered forgiveness and shelter; these name what is left when the offer is refused. No one outruns the One who holds every place, and no ally stands between a person and Him. The call is still being made. So the verse is less about those first listeners than about me: when the call reaches me, do I answer it, or go looking for somewhere to hide?",
+    "reflectionBn": "ছোট একটি দল একবার কুরআন শুনেছিল, তারপর তা বুকে নিয়ে ঘরে ফিরেছিল। নিজের সম্প্রদায়কে বলা তাদের শেষ কথাটা কোনো প্রতিশ্রুতি নয়, সতর্কবাণী। যে আল্লাহর দিকে আহ্বানকারীর ডাকে সাড়া দেয় না, পৃথিবীর কোথাও গিয়ে সে তাঁর নাগাল এড়াতে পারে না। আর তিনি ছাড়া তার কোনো রক্ষকও নেই। ঠিক আগের কথায় ছিল ক্ষমা আর আশ্রয়ের প্রস্তাব। এ কথায় বলা হলো, প্রস্তাব ফিরিয়ে দিলে হাতে কী থাকে। যিনি প্রতিটি জায়গার মালিক, তাঁকে পেছনে ফেলে কেউ পালাতে পারে না। মানুষ আর তাঁর মাঝখানে দাঁড়াবার মতো কোনো মিত্রও নেই। ডাকটা আজও চলছে। তাই আয়াতটি সেই প্রথম শ্রোতাদের চেয়ে বেশি আমাকে নিয়ে। ডাক যখন আমার কাছে পৌঁছায়, আমি কি সাড়া দিই, নাকি লুকোবার জায়গা খুঁজতে থাকি?",
+    "pointsEn": [
+      "Where in my life am I treating a call from Allah as something to answer later, as if some time or place were mine to hide in?",
+      "Whom or what do I count on to shield me, and would any of it stand between me and Allah?",
+      "When I warn someone I love, do I first show them the open door and the good news, or lead only with the threat?",
+      "Which clear sign have I already heard more than once and still not acted on?",
+      "Do I hear this verse as a verdict on other people, or as a warning addressed first to me?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন জায়গায় আমি আল্লাহর ডাককে পরে সাড়া দেওয়ার জিনিস বানিয়ে রেখেছি, যেন কোনো সময় বা কোনো জায়গা আমার লুকোবার জন্য বরাদ্দ?",
+      "আমাকে আগলে রাখবে ভেবে আমি কার বা কিসের উপর ভরসা করি? আল্লাহ আর আমার মাঝখানে তার কোনোটা কি সত্যিই দাঁড়াতে পারবে?",
+      "প্রিয় কাউকে সতর্ক করার সময় আমি কি আগে খোলা দরজা আর সুসংবাদটা দেখাই, নাকি শুরুতেই শুধু ভয় দেখাই?",
+      "কোন স্পষ্ট নিদর্শনের কথা আমি একাধিকবার শুনেছি, অথচ এখনো সে অনুযায়ী আমল করিনি?",
+      "এ আয়াত কি আমি অন্যদের উপর রায় হিসেবে শুনি, নাকি সবার আগে আমাকেই করা সতর্কবাণী হিসেবে?"
+    ],
+    "lessonEn": "Answer Allah's call while it is still being made, for no place on earth puts anyone beyond His reach, and no one protects besides Him.",
+    "lessonBn": "আল্লাহর ডাক যতক্ষণ চলছে, ততক্ষণেই সাড়া দিন। পৃথিবীর কোনো জায়গা কাউকে তাঁর নাগালের বাইরে নেয় না, আর তিনি ছাড়া কোনো রক্ষকও নেই।"
   }
 };
 
