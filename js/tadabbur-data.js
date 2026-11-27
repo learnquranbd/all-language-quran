@@ -35019,6 +35019,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Admit your faults and your straying to Allah now, while admitting them can still change something, not on the Day when confession comes too late.",
     "lessonBn": "নিজের দোষ আর পথ হারানোর কথা আল্লাহর কাছে এখনই স্বীকার করুন, যখন তাতে এখনো কিছু বদলায়। সেই দিনের জন্য রাখবেন না, যেদিন স্বীকারোক্তি আসে বড় দেরিতে।"
+  },
+  "23:112": {
+    "reflectionEn": "After the verdict on those who mocked, a single question is put to the people of the Fire: how many years did you stay on the earth? It is not asked for information; the One who asks already knows the count. It is asked so that they hear their own answer. Decades of building, arguing, chasing and laughing come out of their mouths as a day, or part of a day, and even that they cannot measure. The verse names no one alive and hands no one a list of the doomed. It is a question I will be asked too. How many years have I been given so far, and if they were weighed today against what lasts, what would they be worth?",
+    "reflectionBn": "যারা ঠাট্টা করত, তাদের রায় ঘোষণার পর জাহান্নামবাসীদের সামনে একটাই প্রশ্ন রাখা হয়: পৃথিবীতে তোমরা কত বছর ছিলে? প্রশ্নটা জানার জন্য নয়। যিনি জিজ্ঞেস করছেন, হিসাব তাঁর আগেই জানা। জিজ্ঞেস করা হচ্ছে, যাতে তারা নিজেদের উত্তর নিজের কানে শোনে। কত যুগের গড়া, তর্ক, ছোটাছুটি আর হাসি-তামাশা তাদের মুখে এসে দাঁড়ায় একটা দিনে, কিংবা দিনের কিছু অংশে। সেটুকুও তারা মেপে বলতে পারে না। আয়াতটি জীবিত কারও নাম নেয় না, কারও হাতে ধ্বংসপ্রাপ্তদের তালিকাও তুলে দেয় না। প্রশ্নটা একদিন আমাকেও করা হবে। এ পর্যন্ত আমাকে কত বছর দেওয়া হলো? আর যা চিরকাল থাকবে, তার পাশে আজ সেগুলো ওজন করলে দাম কত দাঁড়াবে?",
+    "pointsEn": [
+      "If I were asked tonight how long I have lived, what could I show for the years, rather than only count them?",
+      "Which worry fills my day as if it were endless, though beside what comes after it would shrink to almost nothing?",
+      "What good am I putting off because I assume I still have plenty of years left?",
+      "Where am I spending effort that this short stay will not let me carry with me?",
+      "Which act of patient obedience can I begin today, while my own count of years is still running?"
+    ],
+    "pointsBn": [
+      "আজ রাতেই যদি আমাকে জিজ্ঞেস করা হয় কত দিন বেঁচেছি, শুধু বছর গোনা ছাড়া সেই বছরগুলোর বিনিময়ে আমি কী দেখাতে পারব?",
+      "কোন দুশ্চিন্তা আমার দিন এমনভাবে ভরে রাখে যেন তার শেষ নেই, অথচ পরের জীবনের পাশে তা প্রায় কিছুই নয়?",
+      "হাতে এখনো অনেক বছর আছে ধরে নিয়ে কোন ভালো কাজটা আমি পিছিয়ে রাখছি?",
+      "কোথায় আমি এমন কিছুর পেছনে খাটছি, যা এই অল্প সময়ের থাকা শেষে সঙ্গে নিয়ে যাওয়া যাবে না?",
+      "আমার বছরের গোনা এখনো চলছে। ধৈর্য ধরে আল্লাহর আনুগত্যের কোন কাজটা আমি আজই শুরু করতে পারি?"
+    ],
+    "lessonEn": "Your stay on earth is shorter than it feels; count your years by what you place in them for the life that lasts, while the count is still running.",
+    "lessonBn": "পৃথিবীতে আপনার থাকা যতটা মনে হয় তার চেয়ে অনেক ছোট। গোনা এখনো চলছে, তাই বছরগুলোর হিসাব করুন সেগুলোতে স্থায়ী জীবনের জন্য কী রাখছেন তা দিয়ে।"
   }
 };
 

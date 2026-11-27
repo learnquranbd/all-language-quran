@@ -5695,6 +5695,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:112": {
+    "sections": [
+      {
+        "h": {
+          "en": "Seven Words to the Silenced",
+          "bn": "চুপ করানো মানুষের প্রতি সাত শব্দ"
+        },
+        "p": [
+          {
+            "en": "Surah al-Mu'minun has just closed the case of the mockers. In 23:108 the people of the Fire are told to remain there despised and not to speak. In 23:109 to 23:111 they hear about the believers they used to laugh at, now rewarded for their patience and named the winners. Then comes a question of seven Arabic words: qala kam labithtum fi al-ardi 'adada sinin, He will say: how long did you remain on the earth, in number of years?",
+            "bn": "সূরা আল-মুমিনূন এইমাত্র ঠাট্টাকারীদের মামলার নিষ্পত্তি করেছে। ২৩:১০৮ আয়াতে জাহান্নামবাসীদের বলা হয়েছে, লাঞ্ছিত হয়ে সেখানেই পড়ে থাকো, কোনো কথা বোলো না। ২৩:১০৯ থেকে ২৩:১১১ আয়াতে তারা শোনে সেই মুমিনদের কথা, যাদের নিয়ে তারা হাসত। ধৈর্যের প্রতিদান তাঁরা পেয়ে গেছেন, সফলকাম বলে ঘোষিতও হয়েছেন। এরপর আসে সাতটি শব্দের এক প্রশ্ন: কালা কাম লাবিসতুম ফিল আরদি আদাদা সিনীন। তিনি বলবেন, পৃথিবীতে তোমরা কত বছর ছিলে?"
+          },
+          {
+            "en": "Kam asks for a quantity, and 'adada sinin, as a count of years, names the unit in which the answer is expected. The commentators gloss the verb with plainer words for staying: iqamah, residence, in Ibn Kathir's Arabic, which restates the question as how long was your residence in this world; makth, a stay, in at-Tabari; and baqitum, you remained, in the Muyassar. The Muyassar then adds a second question that the first carries inside it: and how much obedience to Allah did you waste there?",
+            "bn": "কাম শব্দটি পরিমাণ জানতে চায়। আর আদাদা সিনীন, মানে বছরের গোনায়, বলে দেয় উত্তরটা কোন এককে আশা করা হচ্ছে। ক্রিয়াটির ব্যাখ্যায় তাফসীরকারেরা থাকার আরও সহজ শব্দ ব্যবহার করেন। ইবন কাসীরের আরবি তাফসীরে শব্দটি ইকামাহ, অর্থাৎ বসবাস। তিনি প্রশ্নটাকে নতুন করে বলেন: দুনিয়ায় তোমাদের বসবাস কতদিনের ছিল? তাবারীর ভাষায় শব্দটি মাকস, অর্থাৎ অবস্থান। মুয়াসসারে বাকীতুম, তোমরা রয়ে গিয়েছিলে। মুয়াসসার এরপর আরেকটি প্রশ্ন জুড়ে দেয়, যা প্রথম প্রশ্নের ভেতরেই লুকিয়ে ছিল: সেখানে আল্লাহর আনুগত্যের কতটুকু তোমরা নষ্ট করেছিলে?"
+          },
+          {
+            "en": "Al-Qurtubi adds a note on the last word. Sinin, years, is read with its final nun carrying a fatha, as a regular masculine plural, though some Arabs, he says, give the nun a kasra and a tanwin. The grammar is small, and the point it serves is not. The question asks for its answer in years, the unit by which people measure a life, and the reply in the next verse will not manage even one of them. Seven words are enough to make a lifetime answer for itself.",
+            "bn": "শেষ শব্দটি নিয়ে কুরতুবী একটি টীকা যোগ করেন। সিনীন, মানে বছরগুলো, পড়া হয় শেষের নূনে যবর দিয়ে, নিয়মিত পুংলিঙ্গ বহুবচন হিসেবে। তবে তিনি বলেন, কিছু আরব নূনে যের আর তানউইন দিয়েও পড়ে। ব্যাকরণের কথাটা ছোট, কিন্তু যে কথার সেবা করে তা ছোট নয়। প্রশ্নটা উত্তর চায় বছরে, যে এককে মানুষ তার জীবন মাপে। অথচ পরের আয়াতের উত্তরে একটা বছরও উঠে আসবে না। একটা গোটা জীবনকে জবাবদিহির সামনে দাঁড় করাতে সাতটি শব্দই যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qala, or Qul",
+          "bn": "কালা, নাকি কুল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens with a difference among the readers, here and in the reply of 23:114. The general readers of Medina and Basra, with some of Kufa, read qala, he said, as a report: Allah said to these wretched people of the Fire, while they are in the Fire, how long did you remain? The general readers of Kufa read qul, say, as a command, as if He told them: say, how long did you remain? Those who chose it did so, he explains, because their copies wrote qul without an alif.",
+            "bn": "তাবারী শুরু করেন কারীদের মতভেদ দিয়ে, এ আয়াতে এবং ২৩:১১৪ আয়াতের জবাবেও। মদীনা ও বসরার সাধারণ কারীরা, আর কুফার কেউ কেউ পড়েছেন কালা, মানে তিনি বললেন, সংবাদ হিসেবে। অর্থাৎ আল্লাহ জাহান্নামের এই হতভাগাদের বললেন, তারা যখন জাহান্নামেই আছে: তোমরা কত দিন ছিলে? কুফার সাধারণ কারীরা পড়েছেন কুল, মানে বলো, আদেশ হিসেবে। যেন তিনি তাদের বলছেন, বলো তো, তোমরা কত দিন ছিলে? তাবারী জানান, যাঁরা এ পাঠ বেছে নিয়েছেন তাঁদের কারণ ছিল এই যে, তাঁদের মুসহাফে কুল লেখা আলিফ ছাড়া।"
+          },
+          {
+            "en": "Al-Baghawi names the readers. Hamza and al-Kisa'i read qul, as a command, meaning: say, O you disbelievers, with the singular form used for a group because the sense is clear, or else addressed to each one of them. The Qur'an reader Ibn Kathir read qul in this verse and qala in 23:114, because the second is an answer. The rest read qala in both. Al-Qurtubi, under 23:113, names the same three readers for qul.",
+            "bn": "বাগাভী কারীদের নাম বলেন। হামযা ও কিসাঈ পড়েছেন কুল, আদেশ হিসেবে। অর্থ: হে কাফিররা, বলো। দলকে বোঝাতে একবচনের রূপ এসেছে, কারণ অর্থটা স্পষ্ট। আবার এমনও হতে পারে যে, তাদের প্রত্যেককে আলাদা করে বলা হচ্ছে। কুরআনের কারী ইবন কাসীর এ আয়াতে পড়েছেন কুল, আর ২৩:১১৪ আয়াতে কালা, কারণ দ্বিতীয়টি একটি জবাব। বাকিরা দুই জায়গাতেই পড়েছেন কালা। কুরতুবীও ২৩:১১৩ আয়াতের আলোচনায় কুল পাঠের জন্য এই তিনজন কারীর নাম নেন।"
+          },
+          {
+            "en": "Al-Qurtubi finds three possible senses in qul: say, with the plural meant; a command to the angel to ask them, on the Day of Resurrection, how long they had stayed in the world; or say, O disbeliever. At-Tabari prefers qala. Had it been a command, he argues, qulu in the plural would fit better, since the address before and after runs to the people of the Fire as a group, though he allows the singular; and every reader reads it singular. So he reads: Allah said, how many years did you remain in the world?",
+            "bn": "কুল পাঠে কুরতুবী তিনটি সম্ভাব্য অর্থ দেখেন। এক, তোমরা বলো, একবচনে বহুবচন বোঝানো। দুই, ফেরেশতাকে আদেশ, যেন পুনরুত্থানের দিন তিনি তাদের জিজ্ঞেস করেন দুনিয়ায় তারা কত দিন ছিল। তিন, হে কাফির, বলো। তাবারী কালা পাঠটিকেই অগ্রাধিকার দেন। তাঁর যুক্তি, আদেশ হলে বহুবচনের কূলূ বেশি মানাত। কারণ আগে ও পরে সম্বোধন চলছে জাহান্নামবাসীদের গোটা দলের প্রতি। একবচনও অবশ্য তিনি অচল বলেন না। অথচ সব কারীই একবচনে পড়েছেন। তাই তাঁর পাঠে অর্থ দাঁড়ায়: আল্লাহ বললেন, দুনিয়ায় তোমরা কত বছর ছিলে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked Where, and by Whom",
+          "bn": "প্রশ্ন কোথায়, কার মুখে"
+        },
+        "p": [
+          {
+            "en": "The commentators place the question in different settings. At-Tabari, as quoted, has Allah put it to the wretched people of the Fire while they are already in the Fire. Al-Qurtubi gives two settings without choosing between them: the question is put to the idolaters either on the open plains of the Resurrection or in the Fire itself. Al-Baghawi sets it on the Day of Raising: Allah said to the disbelievers, on the day they are raised, how long did you remain?",
+            "bn": "প্রশ্নটা কোথায় করা হচ্ছে, তাফসীরকারেরা তা ভিন্ন ভিন্ন জায়গায় দেখেন। আগেই দেখা গেছে, তাবারীর মতে আল্লাহ এ প্রশ্ন করছেন জাহান্নামের হতভাগাদের, যখন তারা জাহান্নামের ভেতরেই। কুরতুবী দুটি জায়গার কথা বলেন, কোনোটিকে বেছে নেন না। প্রশ্নটা মুশরিকদের করা হবে হয় কিয়ামতের খোলা ময়দানে, নয়তো জাহান্নামের ভেতরে। বাগাভী একে রাখেন পুনরুত্থানের দিনে: যেদিন তাদের ওঠানো হবে, সেদিন আল্লাহ কাফিরদের বললেন, তোমরা কত দিন ছিলে?"
+          },
+          {
+            "en": "Who voices the words is also read two ways. On the reading qala, al-Qurtubi allows that Allah said it to them, or that the angels said it. Under the command reading, as seen, one of his three senses makes it an order to the angel to ask. None of these differences changes what is asked. Whatever the place and whoever speaks, the question reaches people whose time for deeds is over, and it asks them to account for that time in years.",
+            "bn": "কথাগুলো কার মুখে, সেটাও দুইভাবে বোঝা হয়েছে। কালা পাঠ ধরলে কুরতুবী দুটোই সম্ভব বলেন: আল্লাহ নিজে তাদের বললেন, কিংবা ফেরেশতারা বললেন। আর আদেশের পাঠে, আগেই দেখা গেছে, তাঁর তিনটি অর্থের একটি হলো ফেরেশতাকে জিজ্ঞেস করার নির্দেশ। এসব মতভেদে প্রশ্নের বিষয় বদলায় না। জায়গা যেটাই হোক, বক্তা যিনিই হোন, প্রশ্নটা পৌঁছায় এমন মানুষের কাছে, যাদের আমলের সময় ফুরিয়ে গেছে। আর প্রশ্নটা সেই সময়ের হিসাব চায় বছরে গুনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "In the World, or the Grave",
+          "bn": "দুনিয়ায়, নাকি কবরে"
+        },
+        "p": [
+          {
+            "en": "The phrase that carries the weight is fi al-ard, on the earth, and here the commentators divide. Al-Qurtubi records two views, each introduced with it is said: one, that it means in the graves; the other, that the question is about the length of their life in this world. Ibn Kathir, at-Tabari and the Muyassar all gloss the earth as al-dunya, this world, and ask only about the life lived there. Al-Baghawi joins the two: on the earth means in the world and in the graves.",
+            "bn": "আয়াতের ভার বহন করছে ফিল আরদ, মানে পৃথিবীতে, শব্দ দুটি। এখানেই তাফসীরকারেরা দুই ভাগ হন। কুরতুবী দুটি মত উল্লেখ করেন, দুটোই 'বলা হয়' দিয়ে। একটি মত হলো, এর অর্থ কবরে। অন্যটি হলো, প্রশ্নটা দুনিয়ায় তাদের জীবনের দৈর্ঘ্য নিয়ে। ইবন কাসীর, তাবারী ও মুয়াসসার তিনজনই পৃথিবী বলতে বোঝেন আদ-দুনিয়া, এই জগৎ। তাঁদের প্রশ্ন শুধু সেখানে কাটানো জীবন নিয়ে। বাগাভী দুটোকে এক করেন: পৃথিবীতে মানে দুনিয়ায় এবং কবরে।"
+          },
+          {
+            "en": "The same split runs into the reply that follows in 23:114, you stayed only a little. Al-Qurtubi gives two reasons for little: the stay in the graves, however long, had an end; or it is little beside their stay in the Fire, which has none. Al-Baghawi says a person's stay in the world, however long, is little beside what he will stay in the Hereafter, because the stay in the world and in the grave both come to an end. On either reading the measure is the same: a span with an end, set against one without.",
+            "bn": "এই একই বিভাজন গড়িয়ে যায় ২৩:১১৪ আয়াতের পরের জবাবে: তোমরা তো অল্প সময়ই ছিলে। অল্প কেন, কুরতুবী তার দুটি কারণ দেন। কবরের অবস্থান যত দীর্ঘই হোক, তার শেষ ছিল। অথবা জাহান্নামে তাদের থাকার পাশে তা অল্প, কারণ সেখানে থাকার কোনো শেষ নেই। বাগাভী বলেন, দুনিয়ায় মানুষ যত দিনই থাকুক, আখিরাতে তার থাকার পাশে তা সামান্য। কারণ দুনিয়া ও কবর দুই জায়গার থাকাই একদিন ফুরায়। যে অর্থই ধরা হোক, মাপকাঠি একই: যে সময়ের শেষ আছে, তাকে রাখা হচ্ছে শেষহীন সময়ের পাশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question That Reproaches",
+          "bn": "জানতে নয়, তিরস্কার করতে"
+        },
+        "p": [
+          {
+            "en": "Allah, who asks, already knows the answer, so the commentators ask why the question is put at all. As-Sa'di answers in his first words: He says it to them by way of blame, and to show that they were foolish of mind. In this brief span, he says, they earned every evil that brought them to His anger and His punishment, and they did not earn the good the believers earned, which brought those believers to lasting happiness and the pleasure of their Lord.",
+            "bn": "যিনি জিজ্ঞেস করছেন, উত্তর তাঁর জানা। তাহলে প্রশ্নটা কেন? তাফসীরকারেরা এ প্রশ্নও তোলেন। সা'দী শুরুতেই জবাব দেন: আল্লাহ তাদের এ কথা বলছেন তিরস্কার করে, আর এটা দেখাতে যে তারা ছিল নির্বোধ। তাঁর ব্যাখ্যা, এই অল্প সময়ের মধ্যে তারা এমন সব মন্দ কামিয়েছে, যা তাদের আল্লাহর ক্রোধ আর শাস্তি পর্যন্ত পৌঁছে দিয়েছে। আর মুমিনেরা যে কল্যাণ কামিয়েছিলেন, তার কিছুই তারা কামায়নি। সেই কল্যাণই মুমিনদের পৌঁছে দিয়েছে চিরস্থায়ী সৌভাগ্য আর রবের সন্তুষ্টিতে।"
+          },
+          {
+            "en": "Ibn Kathir's Arabic names a purpose that sits beside the blame. Allah says it, he writes, to alert them to what they wasted in their short life in the world: obedience to Him and the worship of Him alone. Had they been patient through the short span of the world, he adds, they would have won as His friends, the God-fearing, won. His abridged English carries the same lines, and the Muyassar, as seen, folds the waste into the question itself.",
+            "bn": "ইবন কাসীরের আরবি তাফসীর তিরস্কারের পাশে আরেকটি উদ্দেশ্যের কথা বলে। তিনি লেখেন, আল্লাহ এ কথা বলছেন তাদের সজাগ করতে, দুনিয়ার ছোট্ট জীবনে তারা কী হারিয়েছে: তাঁর আনুগত্য আর একমাত্র তাঁরই ইবাদত। তিনি যোগ করেন, দুনিয়ার এই অল্প সময়ে তারা যদি ধৈর্য ধরত, তবে সফল হতো, যেমন সফল হয়েছেন আল্লাহর মুত্তাকী বন্ধুরা। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণেও একই কথা আছে। আর মুয়াসসার, আগেই দেখা গেছে, এই হারানোর কথাটা প্রশ্নের ভেতরেই ঢুকিয়ে দিয়েছে।"
+          },
+          {
+            "en": "Ibn Kathir's wording points back one verse. In 23:111 the mocked believers are rewarded bima sabaru, for their patience, and named al-fa'izun, the winners. His Arabic gloss uses the same two roots, patience and winning, for what the questioned could have had. So the question of 23:112 is the other face of the verdict before it. The short years that were enough for one group to be patient and win were the same short years in which the other group laughed.",
+            "bn": "ইবন কাসীরের শব্দচয়ন এক আয়াত পেছনে ইঙ্গিত করে। ২৩:১১১ আয়াতে ঠাট্টার শিকার মুমিনদের পুরস্কৃত করা হয়েছে বিমা সাবারূ, অর্থাৎ তাঁদের ধৈর্যের কারণে। আর তাঁদের বলা হয়েছে আল-ফাইযূন, সফলকাম। প্রশ্নের মুখে থাকা লোকেরা কী পেতে পারত, তা বোঝাতে ইবন কাসীরের আরবি ব্যাখ্যা ঠিক এই দুটি মূল ধাতুই ব্যবহার করে: ধৈর্য আর সাফল্য। তাই ২৩:১১২ আয়াতের প্রশ্নটা আগের আয়াতের রায়েরই অন্য পিঠ। যে অল্প কয়েকটা বছর এক দলের জন্য ধৈর্য ধরে সফল হতে যথেষ্ট ছিল, অন্য দল সেই একই বছরগুলো কাটিয়েছে হাসি-ঠাট্টায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Lifetime Folded Into a Day",
+          "bn": "এক দিনে গুটিয়ে আসা জীবন"
+        },
+        "p": [
+          {
+            "en": "The reply in 23:113 is a day or part of a day, and at-Tabari explains it in the same passage as the question. The wretched forgot, because of the vastness of the affliction and punishment they were in, how long they had stayed in the world. Their stay shrank in their reckoning under the vengeance that had come upon them, until they thought they had stayed only a day or part of one. And perhaps, he adds, some of them had stayed there a long time, many years.",
+            "bn": "২৩:১১৩ আয়াতে উত্তর আসে: একদিন, কিংবা দিনের কিছু অংশ। প্রশ্নের আলোচনাতেই তাবারী এ উত্তরের ব্যাখ্যা দেন। যে বিপদ আর শাস্তির মধ্যে হতভাগারা পড়েছিল, তার ভয়াবহতায় তারা ভুলে গিয়েছিল দুনিয়ায় কত দিন ছিল। তাদের ওপর নেমে আসা আল্লাহর শাস্তির চাপে সেই অবস্থান তাদের হিসাবে ছোট হয়ে এল। শেষে তারা ভাবল, একটা দিন বা তার কিছু অংশই বুঝি ছিল। তাবারী যোগ করেন, অথচ তাদের কেউ কেউ হয়তো সেখানে দীর্ঘ সময়, বহু বছর কাটিয়েছিল।"
+          },
+          {
+            "en": "Al-Qurtubi, under 23:113, gives more than one account of the forgetting. The severity of the punishment made them forget how long they had stayed in the graves. Or, it is said, the punishment was lifted from them between the two blasts of the Horn, and they forgot what they had suffered in their graves; he relays from Ibn Abbas an explanation tied to the same interval. Or they judged their stay in the world and the grave short beside what now faced them. As-Sa'di hears in the reply a sense of shortness but no figure, from people consumed by a stupefying punishment.",
+            "bn": "ভুলে যাওয়ার ব্যাখ্যায় কুরতুবী ২৩:১১৩ আয়াতে একাধিক কথা বলেন। শাস্তির কঠোরতা তাদের ভুলিয়ে দিয়েছিল কবরে তারা কত দিন ছিল। অথবা, বলা হয়, শিঙ্গার দুই ফুঁকের মাঝে তাদের শাস্তি তুলে নেওয়া হয়েছিল, ফলে কবরে যা ভোগ করেছিল তা তারা ভুলে গেছে। দুই ফুঁকের মাঝের এই সময়টা নিয়ে ইবন আব্বাস (রাঃ)-এর একটি ব্যাখ্যাও তিনি আনেন। অথবা, সামনে যা অপেক্ষা করছে তার তুলনায় দুনিয়া ও কবরের অবস্থানকে তারা ছোট মনে করেছে। সা'দী এ উত্তরে স্বল্পতার অনুভূতি শোনেন, কিন্তু কোনো সংখ্যা নয়। কারণ যারা বলছে, তারা দিশেহারা করা শাস্তিতে ডুবে আছে।"
+          },
+          {
+            "en": "That is why they add: ask those who count. Mujahid, in at-Tabari's reports, said the counters are the angels; Qatada said they are the reckoners, those who keep accounts. At-Tabari keeps the word as wide as the verse: those who count months and years, who may be angels or may be people, since no proof settles which. The Qur'an returns to this shrinking of a lifetime in other passages, among them 20:103 and 20:104, 30:55 and 79:46.",
+            "bn": "তাই তারা যোগ করে: যারা গোনে, তাদের জিজ্ঞেস করুন। তাবারীর বর্ণনায় মুজাহিদ বলেছেন, এই গণনাকারীরা ফেরেশতা। কাতাদা বলেছেন, তারা হিসাবরক্ষক, যারা হিসাব রাখে। তাবারী শব্দটিকে আয়াতের মতোই খোলা রাখেন: যারা মাস আর বছর গোনে। তারা ফেরেশতাও হতে পারে, মানুষও হতে পারে, কারণ কোনটা ঠিক, তা মীমাংসা করার মতো কোনো প্রমাণ নেই। গোটা জীবনের এভাবে ছোট হয়ে আসার কথা কুরআন অন্য জায়গাতেও বলেছে। তার মধ্যে আছে ২০:১০৩ ও ২০:১০৪, ৩০:৫৫ এবং ৭৯:৪৬।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Report Fixed to the Verse",
+          "bn": "আয়াতের সঙ্গে বাঁধা কোনো বর্ণনা নেই"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a sound hadith to it. Ibn Kathir, on 23:114, relays through Ibn Abi Hatim a sermon report raised to the Prophet ﷺ about this exchange of question and answer. No grading for it appears in the text fetched, so it is mentioned here only, and nothing in this article is built on it. Al-Qurtubi's report from Ibn Abbas, noted above, is the Companion's own explanation and is not raised to the Prophet ﷺ.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না। ইবন কাসীর ২৩:১১৪ আয়াতের আলোচনায় ইবন আবী হাতিমের সূত্রে একটি খুতবার বর্ণনা আনেন, যা নবী ﷺ পর্যন্ত পৌঁছানো এবং এই প্রশ্নোত্তর নিয়ে। আনা লেখায় এর কোনো মান নির্ধারণ নেই। তাই এখানে শুধু এর উল্লেখটুকু থাকল, এ প্রবন্ধের কোনো কথা এর ওপর দাঁড়িয়ে নেই। ওপরে কুরতুবীর যে ইবন আব্বাস (রাঃ)-এর বর্ণনার কথা এসেছে, সেটি সাহাবীর নিজের ব্যাখ্যা, নবী ﷺ পর্যন্ত পৌঁছানো নয়।"
+          },
+          {
+            "en": "The verse describes what the text describes: people of the Fire questioned about their stay after judgement has fallen. It licenses nothing against any living person or community. No reader knows who among the living will stand inside that answer, and the Qur'an gives no one the right to place others there. The scene is told while its listeners are still alive and still counting, and that is where its address falls: on whoever hears it now, not on a neighbour he dislikes.",
+            "bn": "আয়াতটি ঠিক ততটুকুই বলে, যতটুকু তার ভাষায় আছে: রায় হয়ে যাওয়ার পর জাহান্নামবাসীদের প্রশ্ন করা হচ্ছে, তারা কত দিন ছিল। কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এটি দেয় না। জীবিতদের মধ্যে কে সেই উত্তরের ভেতরে দাঁড়াবে, কোনো পাঠক তা জানে না। অন্যকে সেখানে বসিয়ে দেওয়ার অধিকারও কুরআন কাউকে দেয়নি। দৃশ্যটা শোনানো হচ্ছে এমন সময়ে, যখন শ্রোতারা বেঁচে আছে, তাদের বছর এখনো গোনা হচ্ছে। তাই এর সম্বোধন যে এখন শুনছে তার প্রতি, অপছন্দের কোনো প্রতিবেশীর প্রতি নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counting While the Count Runs",
+          "bn": "গোনা চলতে চলতেই হিসাব"
+        },
+        "p": [
+          {
+            "en": "People count their years all the time: in birthdays, in years of service, in the age of a child. The verse asks for that same count, in years, and lets the reader hear how it will sound when nothing more can be done with it. Ibn Kathir calls their life short, and his complaint is not that it was short but that it was wasted. The span that was enough for the believers of 23:111 to be patient and win is the span every reader is living through now.",
+            "bn": "মানুষ সারাক্ষণই বছর গোনে: জন্মদিনে, চাকরির মেয়াদে, সন্তানের বয়সে। আয়াতটিও সেই একই হিসাব চায়, বছরে গুনে। আর পাঠককে শুনিয়ে দেয়, যখন এ হিসাব নিয়ে আর কিছু করার থাকবে না, তখন তা কেমন শোনাবে। ইবন কাসীর তাদের জীবনকে বলেন ছোট। কিন্তু তাঁর আক্ষেপ জীবন ছোট হওয়া নিয়ে নয়, নষ্ট হওয়া নিয়ে। ২৩:১১১ আয়াতের মুমিনদের ধৈর্য ধরে সফল হওয়ার জন্য যে সময়টুকু যথেষ্ট হয়েছিল, প্রত্যেক পাঠক এখন ঠিক সেই সময়ের ভেতর দিয়েই যাচ্ছেন।"
+          },
+          {
+            "en": "The practical reading is plain. A single day, which is how these people will describe their whole lives, holds a dawn prayer, a kept promise, a word of mockery held back, a debt repaid. As-Sa'di's contrast is between what two groups earned in the same brief span, not between long lives and short ones. The question of 23:112 will be asked once, at the end. Its answer is being written now, in the years still being counted, one day at a time.",
+            "bn": "বাস্তব শিক্ষাটা সোজা। এরা নিজেদের গোটা জীবনকে বলবে একটা দিন। অথচ একটা দিনেই ধরে ফজরের নামাজ, রাখা একটা কথা, মুখে আসা একটা ঠাট্টা চেপে যাওয়া, শোধ করা একটা ঋণ। সা'দীর তুলনা দীর্ঘ আর ছোট জীবনের মধ্যে নয়। তুলনা হলো একই অল্প সময়ে দুই দল কী কামিয়েছে, তার মধ্যে। ২৩:১১২ আয়াতের প্রশ্ন করা হবে একবারই, একেবারে শেষে। কিন্তু তার উত্তর লেখা হচ্ছে এখনই, যে বছরগুলো এখনো গোনা চলছে তার ভেতরে, দিনে দিনে।"
+          }
+        ]
+      }
+    ]
+  },
   "23:115-116": {
     "sections": [
       {
