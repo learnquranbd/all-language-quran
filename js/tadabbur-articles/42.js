@@ -1199,6 +1199,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "42:28": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Same Verb, Turned Over",
+          "bn": "একই ক্রিয়া, অন্য দিক থেকে"
+        },
+        "p": [
+          {
+            "en": "Wa-huwa alladhi yunazzilu al-ghaytha min ba'di ma qanatu wa-yanshuru rahmatahu, wa-huwa al-waliyyu al-hamid: and it is He who sends down the rain after they had despaired, and spreads His mercy; and He is the Protector, the Praiseworthy. The verse is thirteen Arabic words long. It follows directly on 42:27, which says that if Allah extended provision for His servants they would transgress on the earth, but He sends down in measure what He wills. Both verses use the same verb, yunazzilu, He sends down.",
+            "bn": "ওয়া হুয়াল্লাযী ইউনাযযিলুল গাইসা মিম বা'দি মা কানাতূ ওয়া ইয়ানশুরু রাহমাতাহূ, ওয়া হুয়াল ওয়ালিইয়ুল হামীদ: তিনিই সেই সত্তা, যিনি মানুষ নিরাশ হয়ে পড়ার পর বৃষ্টি নামান আর নিজের রহমত ছড়িয়ে দেন; তিনিই অভিভাবক, প্রশংসিত। আরবিতে আয়াতটি মাত্র তেরো শব্দের। ঠিক আগের আয়াত ৪২:২৭ বলেছে, আল্লাহ যদি বান্দাদের রিযক অঢেল করে দিতেন, তারা যমীনে সীমালঙ্ঘন করত; তাই তিনি যতটুকু চান, মেপে নামান। দুই আয়াতেই ক্রিয়া একটাই: ইউনাযযিলু, তিনি নামান।"
+          },
+          {
+            "en": "Read together, the two verses look at the same giving from two sides. Ibn Kathir explains the measure of 42:27 as provision given according to what is in people's best interests, with Allah knowing best what that is. Verse 42:28 then shows a moment when what comes down is held back until people give up, and then sent. The surrounding passage keeps the frame: 42:25 and 42:26 speak of repentance accepted and prayer answered, and 42:29 turns to the creation of the heavens and the earth as His signs.",
+            "bn": "পাশাপাশি পড়লে দুই আয়াত একই দানকে দুই দিক থেকে দেখায়। ৪২:২৭-এর মাপ সম্পর্কে ইবন কাসীর বলেন, মানুষের জন্য যা কল্যাণকর সেই অনুযায়ী রিযক দেওয়া হয়, আর সেটা কী, আল্লাহই ভালো জানেন। এরপর ৪২:২৮ এমন এক সময়ের কথা বলে, যখন নেমে আসার জিনিসটা আটকে থাকে, মানুষ হাল ছেড়ে দেয়, আর তারপর তা আসে। আশপাশের আয়াতগুলোও একই সুরে বাঁধা। ৪২:২৫ ও ৪২:২৬ বলে তওবা কবুল আর দোয়া মঞ্জুরের কথা। ৪২:২৯ চলে যায় আসমান ও যমীনের সৃষ্টির দিকে, তাঁর নিদর্শন হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ghayth, the Rain That Rescues",
+          "bn": "গাইস: যে বৃষ্টি উদ্ধার করে"
+        },
+        "p": [
+          {
+            "en": "Al-ghayth is rain, al-Qurtubi says, and it is called ghayth because it yughithu al-khalq, it rescues creation. He lists the verb's uses: ghatha al-ghaythu al-arda, the rain reached the land, and ghatha Allahu al-bilad, Allah watered the lands. At-Tabari folds the same root into his paraphrase: Allah sends down rain from the sky, fa-yughithukum bihi, and rescues you with it, O people. The Muyassar does likewise, and as-Sa'di glosses al-ghayth as abundant rain by which He rescues the lands and the servants.",
+            "bn": "কুরতুবী বলেন, গাইস মানে বৃষ্টি। একে গাইস বলা হয়, কারণ তা ইউগীসুল খালক, সৃষ্টিকে বিপদ থেকে উদ্ধার করে। শব্দটি কীভাবে ব্যবহৃত হয়, তার নমুনাও তিনি দেন: গাসাল গাইসুল আরদ, বৃষ্টি জমিতে পৌঁছাল; গাসাল্লাহুল বিলাদ, আল্লাহ জনপদগুলোকে বৃষ্টি দিলেন। তাবারী নিজের ব্যাখ্যায় একই ধাতু বুনে দেন: আল্লাহ আকাশ থেকে বৃষ্টি নামান, ফা-ইউগীসুকুম বিহী, হে মানুষ, তা দিয়ে তোমাদের উদ্ধার করেন। মুয়াসসারও একই পথে চলে। আর সা'দীর ব্যাখ্যায় গাইস হল এমন প্রচুর বৃষ্টি, যা দিয়ে তিনি জনপদ আর বান্দাদের উদ্ধার করেন।"
+          },
+          {
+            "en": "Al-Qurtubi keeps a small scene to show the word alive in speech. Al-Asma'i said he passed a tribe of Arabs after they had been rained on and asked an old woman whether the rain had reached them; she answered, ghithna ma shi'na ghaythan, we were rained on as much as we wished. Al-Qurtubi gives a similar exchange from Dhu ar-Rumma, who marvelled at the eloquence of the woman who answered him, and names ath-Tha'labi and al-Jawhari as his sources for the two stories.",
+            "bn": "শব্দটা মানুষের মুখে কেমন জীবন্ত ছিল, তা দেখাতে কুরতুবী একটা ছোট দৃশ্য তুলে রাখেন। আসমাঈ বলেন, বৃষ্টি হয়ে যাওয়ার পর তিনি আরবের এক গোত্রের পাশ দিয়ে যাচ্ছিলেন। এক বৃদ্ধাকে জিজ্ঞেস করলেন, তোমাদের এখানে বৃষ্টি এসেছে? সে বলল, গিসনা মা শি'না গাইসান, যত চেয়েছি তত বৃষ্টি পেয়েছি। যুর রুম্মার কাছ থেকেও কুরতুবী এমনই এক কথোপকথন আনেন। সেখানেও উত্তর দিয়েছিল এক নারী, আর তার বাকপটুতায় যুর রুম্মা মুগ্ধ হয়েছিলেন। কাহিনি দুটির উৎস হিসেবে তিনি সা'লাবী ও জাওহারীর নাম উল্লেখ করেন।"
+          },
+          {
+            "en": "Then comes a distinction al-Qurtubi takes from al-Mawardi: al-ghayth is rain that is beneficial in its time, while al-matar may be beneficial or harmful, in its time or out of it. He adds that clouds and plants are sometimes called ghayth as well. On that usage the word chosen here already leans toward the mercy the verse goes on to name. This is a point about how the Arabic word was used, not a claim about weather; the verse's own concern is who sends the rain.",
+            "bn": "এরপর কুরতুবী মাওয়ার্দী থেকে একটা পার্থক্য তুলে ধরেন। গাইস সেই বৃষ্টি, যা সময়মতো এসে উপকার করে। আর মাতার উপকারীও হতে পারে, ক্ষতিকরও, সময়ে কিংবা অসময়ে। তিনি আরও জানান, কখনো কখনো মেঘ আর উদ্ভিদকেও গাইস বলা হয়। এই ব্যবহার মাথায় রাখলে দেখা যায়, এখানে বেছে নেওয়া শব্দটাই আয়াতের পরের অংশের রহমতের দিকে ঝুঁকে আছে। কথাটা আরবি শব্দের ব্যবহার নিয়ে, আবহাওয়ার কোনো দাবি নয়। আয়াতের আসল প্রশ্ন হল, বৃষ্টি কে পাঠান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "After Hope Had Gone",
+          "bn": "আশা ফুরোনোর পরে"
+        },
+        "p": [
+          {
+            "en": "Min ba'di ma qanatu: after they had despaired. Mujahid, in a chain at-Tabari gives, glosses qanatu with a single word, ya'isu, they gave up hope. At-Tabari's own paraphrase is: after its coming down and its arrival had been despaired of, and he says the people of interpretation held the same. Al-Qurtubi records qunut as iyas, despair, from Qatadah and others. He also notes the readings: Abu 'Amr, Ya'qub, al-Kisa'i and others read yunzilu, the rest yunazzilu, and Ibn Waththab and al-A'mash read qanitu.",
+            "bn": "মিম বা'দি মা কানাতূ: তারা নিরাশ হয়ে পড়ার পর। তাবারীর উদ্ধৃত এক সনদে মুজাহিদ কানাতূর অর্থ বলেন এক শব্দে: ইয়াইসূ, তারা আশা ছেড়ে দিয়েছিল। তাবারী নিজে ব্যাখ্যা করেন এভাবে: বৃষ্টি নামবে, আসবে, এই আশা যখন আর কারও ছিল না, তার পরে। তিনি এও বলেন, তাফসীরকারেরা এমনটাই বলেছেন। কুরতুবী কাতাদা ও অন্যদের সূত্রে জানান, কুনূত মানে ইয়াস, নিরাশা। কিরাআতের ভিন্নতাও তিনি উল্লেখ করেন। আবু আমর, ইয়াকূব, কিসাঈ প্রমুখ পড়েছেন ইউনযিলু, বাকিরা ইউনাযযিলু। আর ইবন ওয়াসসাব ও আ'মাশ পড়েছেন কানিতূ।"
+          },
+          {
+            "en": "Ibn Kathir explains the phrase as after people have lost hope of rain falling: He sends it down upon them at the time of their need and want for it. He sets beside it 30:49, where people were in despair just before the rain came down upon them; that verse belongs to a passage from 30:48 to 30:50 on winds, clouds and the earth brought back to life. As-Sa'di draws the scene in steps: the rain was cut off for a stretch, they thought it would not come, they lost hope and made arrangements for the drought, and then Allah sends down the rain.",
+            "bn": "ইবন কাসীর বলেন, বৃষ্টি নামার আশা যখন মানুষ ছেড়ে দিয়েছে, তখন তিনি তা নামান, ঠিক তাদের প্রয়োজন আর অভাবের সময়ে। পাশে তিনি রাখেন ৩০:৪৯, যেখানে বলা হয়েছে, বৃষ্টি নামার ঠিক আগ পর্যন্ত তারা ছিল হতাশ। সে আয়াত ৩০:৪৮ থেকে ৩০:৫০ পর্যন্ত বিস্তৃত এক অংশের ভেতরে, যেখানে বাতাস, মেঘ আর মৃত জমিনের জীবন ফিরে পাওয়ার কথা। সা'দী দৃশ্যটা আঁকেন ধাপে ধাপে। কিছুকাল বৃষ্টি বন্ধ ছিল। তারা ভাবল, আর আসবে না। আশা ছেড়ে দিল, খরার জন্য নানা প্রস্তুতিও নিল। তারপর আল্লাহ বৃষ্টি নামালেন।"
+          },
+          {
+            "en": "Al-Baghawi says why the timing matters: rain that comes after despair is more apt to move people to gratitude, ad'a lahum ila ash-shukr. As-Sa'di describes the same moment from the receiving end: the rain lands on them with great weight, and they take it as good news and rejoice. Both tie the force of the gift to the waiting that came before it. Neither says how long such waiting lasts, and the verse itself sets no clock on it.",
+            "bn": "সময়টা কেন গুরুত্বপূর্ণ, বাগাভী তা বলেন: নিরাশার পরে আসা বৃষ্টি মানুষকে শুকরিয়ার দিকে বেশি টেনে নেয়, আদআ লাহুম ইলাশ শুকর। সা'দী একই মুহূর্ত দেখেন যারা বৃষ্টি পেল তাদের দিক থেকে। বৃষ্টি তাদের কাছে বিরাট হয়ে ধরা দেয়, তারা একে সুসংবাদ মনে করে আনন্দিত হয়। দুজনেই দানের জোরটাকে তার আগের অপেক্ষার সঙ্গে বেঁধে দেখেন। এমন অপেক্ষা কতদিন চলবে, তা কেউ বলেন না। আয়াতও এর কোনো সময় বেঁধে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Despairing of Means, Not of Him",
+          "bn": "উপায়ে নিরাশ, আল্লাহতে নয়"
+        },
+        "p": [
+          {
+            "en": "The verse says plainly that they despaired, and Ma'arif al-Qur'an stops on that. It says Allah's usual way is to send rain whenever the earth is in severe need of water, and the words after they had lost hope point to times when, departing from that norm, He delays it until people begin to lose hope. Then it says what the despair is: losing hope in their own contrivances, because losing hope in Allah's kindness would be kufr. The verse describes the end of human arrangements, not a permitted despair of Allah.",
+            "bn": "আয়াত সোজাসুজি বলছে, তারা নিরাশ হয়েছিল। মাআরিফুল কুরআন এখানে একটু থামে। তার বক্তব্য, জমিনের যখন পানির তীব্র প্রয়োজন হয়, তখন বৃষ্টি পাঠানোই আল্লাহর সাধারণ নিয়ম। কিন্তু নিরাশ হওয়ার পর কথাটা ইঙ্গিত দেয়, কখনো কখনো সেই নিয়মের বাইরে গিয়ে তিনি এত দেরি করেন যে মানুষ আশা হারাতে শুরু করে। এরপর মাআরিফুল কুরআন ব্যাখ্যা করে, এ নিরাশা নিজেদের কৌশল আর ব্যবস্থার ব্যাপারে। কারণ আল্লাহর অনুগ্রহ থেকে নিরাশ হওয়া কুফর। আয়াতের নিরাশা তাই মানুষের ব্যবস্থার শেষ, আল্লাহ থেকে নিরাশ হওয়ার অনুমতি নয়।"
+          },
+          {
+            "en": "Ma'arif gives reasons for such a delay. It is a trial, and it is a reminder that rain and famine are in Allah's power: had rain followed a strict timetable without deviation, people would take it as purely subject to apparent causes and grow heedless of His power. It also says that He sometimes stops rain because of people's misdeeds, so that they turn toward His kindness in humility and need. That is Ma'arif's general statement; the verse itself names no sin, no people and no cause for the dry season.",
+            "bn": "এমন দেরির কারণও মাআরিফুল কুরআন জানায়। এটা পরীক্ষা, আবার সতর্কবার্তাও যে বৃষ্টি আর দুর্ভিক্ষ আল্লাহরই হাতে। বৃষ্টি যদি কোনো ব্যতিক্রম ছাড়া বাঁধা সময়সূচি মেনে চলত, মানুষ একে শুধু বাহ্যিক কারণের ফল ভাবত, আল্লাহর কুদরতের কথা ভুলে যেত। মাআরিফুল কুরআন এও বলে যে মানুষের গুনাহের কারণে তিনি কখনো বৃষ্টি থামিয়ে দেন, যাতে তারা বিনয় আর মুখাপেক্ষিতা নিয়ে তাঁর অনুগ্রহের দিকে ফেরে। এটা মাআরিফুল কুরআনের সাধারণ মন্তব্য। আয়াত নিজে কোনো গুনাহ, কোনো জাতি বা খরার কোনো কারণের নাম নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "'Umar Hears a Complaint",
+          "bn": "উমর (রাঃ)-এর কাছে এক অভিযোগ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, Ibn Kathir and al-Qurtubi all carry a report from Qatadah. In at-Tabari's wording through Bishr, Qatadah said: we were told that a man came to 'Umar ibn al-Khattab and said, Commander of the Believers, the rain has been held back and the people have despaired. He said: mutirtum, you have been rained on, followed by the verse. Ibn Kathir has the same exchange, with 'Umar answering and then reciting the verse. Al-Qurtubi's version adds in sha' Allah to the answer, and adds to the complaint: and the rain has become scarce.",
+            "bn": "তাবারী, ইবন কাসীর ও কুরতুবী তিনজনই কাতাদার একটি বর্ণনা এনেছেন। তাবারীর বিশর সূত্রের ভাষ্যে কাতাদা বলেন: আমাদের কাছে বলা হয়েছে, এক ব্যক্তি উমর ইবনুল খাত্তাব (রাঃ)-এর কাছে এসে বলল, হে আমীরুল মুমিনীন, বৃষ্টি বন্ধ হয়ে গেছে, মানুষ নিরাশ হয়ে পড়েছে। তিনি বললেন: মুতিরতুম, তোমাদের উপর বৃষ্টি হয়েছে। এরপর আসে আয়াতটি। ইবন কাসীরেও একই কথোপকথন, উত্তর দিয়ে উমর (রাঃ) আয়াতটি তিলাওয়াত করেন। কুরতুবীর ভাষ্যে উত্তরে যোগ হয়েছে ইনশাআল্লাহ, আর অভিযোগে আরেকটি কথা: বৃষ্টি কমে গেছে।"
+          },
+          {
+            "en": "Two cautions belong with this report. Qatadah opens it with dhukira lana, we were told, naming no one between himself and 'Umar, and at-Tabari's other chain, through Ma'mar, has only it was said to 'Umar: the land has become barren and the people have despaired; he said, mutiru idhan, then they have been rained on. And it is a saying of 'Umar, not of the Prophet ﷺ. What these commentators keep it for is a reading of the verse: 'Umar took the people's despair as the very condition the verse names just before the rain.",
+            "bn": "এ বর্ণনার সঙ্গে দুটি সতর্কতা মনে রাখা দরকার। প্রথমত, কাতাদা শুরু করেন যুকিরা লানা দিয়ে, আমাদের কাছে বলা হয়েছে। নিজের আর উমর (রাঃ)-এর মাঝে তিনি কারও নাম নেন না। মা'মারের মাধ্যমে তাবারীর অন্য সনদেও শুধু আছে, উমরকে বলা হল: জমিন শুকিয়ে গেছে, মানুষ নিরাশ। তিনি বললেন, মুতিরূ ইযান, তাহলে তো তাদের উপর বৃষ্টি হয়েই গেছে। দ্বিতীয়ত, কথাটা উমর (রাঃ)-এর, নবী ﷺ-এর নয়। তাফসীরকারেরা একে রেখেছেন আয়াত বোঝার একটি দৃষ্টান্ত হিসেবে। মানুষের নিরাশাকে উমর (রাঃ) দেখেছিলেন ঠিক সেই অবস্থা হিসেবে, যার পরেই আয়াত বৃষ্টির কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mercy Spread Across a Region",
+          "bn": "গোটা অঞ্চলজুড়ে রহমত"
+        },
+        "p": [
+          {
+            "en": "Wa-yanshuru rahmatahu: and spreads His mercy. Al-Qurtubi records two views of what the mercy is. As-Suddi said it is the rain itself; al-Mahdawi mentions that it is the sun appearing after the rain. Al-Baghawi takes it as His spreading out His rain, and cites a verse of al-A'raf, it is He who sends the winds as good tidings before His mercy, 7:57, where the mercy is again the rainfall. The Muyassar says He spreads His mercy among His creation and covers them all with the rain.",
+            "bn": "ওয়া ইয়ানশুরু রাহমাতাহূ: আর তিনি তাঁর রহমত ছড়িয়ে দেন। রহমত বলতে কী বোঝানো হয়েছে, এ নিয়ে কুরতুবী দুটি মত উল্লেখ করেন। সুদ্দী বলেছেন, এটা বৃষ্টিই। মাহদাবীর উল্লেখ করা মতে, এটা বৃষ্টির পরে সূর্যের দেখা দেওয়া। বাগাভীর ব্যাখ্যায় এর অর্থ, তিনি তাঁর বৃষ্টি বিছিয়ে দেন। প্রমাণ হিসেবে তিনি সূরা আ'রাফের ৭:৫৭ আয়াত আনেন: তিনিই নিজ রহমতের আগে সুসংবাদবাহী বাতাস পাঠান। সেখানেও রহমত মানে বৃষ্টি। মুয়াসসার বলে, তিনি তাঁর সৃষ্টির মাঝে রহমত ছড়িয়ে দেন, বৃষ্টি দিয়ে সবাইকে ঢেকে দেন।"
+          },
+          {
+            "en": "Ibn Kathir stresses the reach: He makes it cover everything there among the people of that land and that region. As-Sa'di names what the mercy carries: food brought forth for human beings and for their livestock. The verb nashara, to spread out, fits both: water reaching across a dry country, and what grows from it for people and animals alike. On Ibn Kathir's reading the giving covers the whole region, not only those who asked for it, and as-Sa'di's mention of livestock takes it beyond people altogether.",
+            "bn": "ইবন কাসীর জোর দেন এর বিস্তারের উপর: সেই এলাকা আর সেই অঞ্চলের মানুষের মাঝে যা কিছু আছে, সবকিছুকে তিনি এর আওতায় নিয়ে আসেন। সা'দী বলেন, এ রহমত কী বয়ে আনে: মানুষ আর তাদের গবাদিপশুর জন্য খাদ্য উৎপন্ন হওয়া। নাশারা ক্রিয়ার অর্থ বিছিয়ে দেওয়া, আর দুটো ছবিতেই তা খাটে। শুকনো দেশজুড়ে পানি পৌঁছানো, আবার সেই পানি থেকে মানুষ ও পশুর জন্য ফসল গজানো। ইবন কাসীরের ব্যাখ্যায় দান পুরো অঞ্চলকে ছুঁয়ে যায়, শুধু যারা চেয়েছিল তাদের নয়। আর সা'দী পশুর কথা তুলে একে মানুষেরও বাইরে নিয়ে যান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guardian and Praised After Rain",
+          "bn": "বৃষ্টির পরে অভিভাবক ও প্রশংসিত"
+        },
+        "p": [
+          {
+            "en": "The verse closes, wa-huwa al-waliyyu al-hamid. At-Tabari explains al-wali as He who takes charge of you with His beneficence and favour, and al-hamid as praised for His favours toward you and His blessings upon you in His creation. The Muyassar is close to him: al-wali takes charge of His servants with beneficence and favour, al-hamid is praised in His guardianship and His management. As-Sa'di widens the first name: al-wali manages His servants with every kind of care and undertakes the interests of their religion and their worldly life.",
+            "bn": "আয়াত শেষ হয় ওয়া হুয়াল ওয়ালিইয়ুল হামীদ দিয়ে। তাবারীর ব্যাখ্যায় ওয়ালী তিনি, যিনি নিজের ইহসান আর অনুগ্রহ দিয়ে তোমাদের দেখাশোনা করেন। হামীদ তিনি, তোমাদের প্রতি তাঁর দান আর সৃষ্টির মাঝে তোমাদের উপর তাঁর নিয়ামতের জন্য যিনি প্রশংসিত। মুয়াসসারের কথাও কাছাকাছি: ওয়ালী ইহসান ও অনুগ্রহ দিয়ে বান্দাদের দায়িত্ব নেন, আর হামীদ তাঁর অভিভাবকত্ব ও ব্যবস্থাপনায় প্রশংসিত। সা'দী প্রথম নামটির পরিধি বাড়ান। তাঁর মতে ওয়ালী নানাভাবে বান্দাদের সব বিষয় সামলান, তাদের দ্বীন ও দুনিয়া দুটোর কল্যাণেরই দায়িত্ব নেন।"
+          },
+          {
+            "en": "Ibn Kathir reads al-wali as He who directs the affairs of His creation with what benefits them in this world and the next, and al-hamid as praised for the outcome of all He decrees and does. Al-Baghawi and al-Qurtubi narrow the first name: al-wali to the people of His obedience, says al-Baghawi; He who aids His allies, says al-Qurtubi. Al-Baghawi has al-hamid as praised by His creation, al-Qurtubi as praised by every tongue. Placed straight after the rain, the two names tell the reader whose care the dry months and the relief were under.",
+            "bn": "ইবন কাসীর ওয়ালীর অর্থ করেন, যিনি দুনিয়া ও আখিরাতে উপকারী পথে সৃষ্টির সব বিষয় পরিচালনা করেন। আর হামীদ তিনি, যাঁর প্রতিটি ফয়সালা ও কাজের পরিণতি প্রশংসার যোগ্য। বাগাভী ও কুরতুবী প্রথম নামটিকে আরেকটু নির্দিষ্ট করেন। বাগাভী বলেন, ওয়ালী তাঁর আনুগত্যকারীদের জন্য। কুরতুবী বলেন, যিনি তাঁর বন্ধুদের সাহায্য করেন। হামীদ বাগাভীর কাছে সৃষ্টির কাছে প্রশংসিত, কুরতুবীর কাছে প্রতিটি জিহ্বায় প্রশংসিত। বৃষ্টির কথার ঠিক পরে বসে দুটি নাম পাঠককে জানিয়ে দেয়, খরার মাস আর স্বস্তি দুটোই কার তত্ত্বাবধানে ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Occasions, a Prayer, a Limit",
+          "bn": "প্রেক্ষাপট, একটি দোয়া, একটি সীমা"
+        },
+        "p": [
+          {
+            "en": "Two occasions of revelation are relayed, and neither is established in the sources fetched. Muqatil, quoted by al-Baghawi and al-Qurtubi, says Allah held back rain from the people of Makkah for seven years until they despaired, then sent it down; al-Baghawi adds that Allah thereby reminded them of His favour. Al-Qurtubi also gives, under it was said, that the verse came down about the Bedouin who asked the Prophet ﷺ about rain on a Friday, which al-Qushayri mentions, and he closes with and Allah knows best. Neither report comes with a chain here, so nothing is built on them.",
+            "bn": "আয়াত নাযিলের দুটি প্রেক্ষাপট বর্ণিত আছে, তবে যেসব সূত্র দেখা হয়েছে, তার কোনোটিতেই তা প্রতিষ্ঠিত নয়। বাগাভী ও কুরতুবী মুকাতিলের কথা উদ্ধৃত করেন: আল্লাহ মক্কাবাসীর উপর টানা সাতটি বছর বৃষ্টি বন্ধ রেখেছিলেন, শেষে তারা নিরাশ হয়ে পড়ে, তারপর তিনি বৃষ্টি নামান। বাগাভী যোগ করেন, এভাবে আল্লাহ তাদের নিজের অনুগ্রহের কথা মনে করিয়ে দেন। কুরতুবী 'বলা হয়' কথাটি দিয়ে আরেকটি মত আনেন, যা কুশাইরী উল্লেখ করেছেন: আয়াতটি সেই বেদুইনকে ঘিরে নাযিল, যে জুমার দিন নবী ﷺ-কে বৃষ্টির কথা জিজ্ঞেস করেছিল। শেষে তিনি লেখেন, আল্লাহই ভালো জানেন। এখানে কোনো বর্ণনার সঙ্গেই সনদ নেই, তাই এর উপর কিছু দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "No commentary fetched attaches a sound hadith to this verse. A general narration, not attached to it, shows the same turn from need to relief. In al-Bukhari's Sahih, 1014, Anas ibn Malik says a man entered the mosque on a Friday while the Prophet ﷺ was giving the sermon and said that livestock were dying and the roads were cut off. The Prophet ﷺ raised both his hands and said: O Allah! Bless us with rain. O Allah! Bless us with rain. O Allah! Bless us with rain! Anas says a cloud like a shield rose, spread across the sky, and rained.",
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। তবে একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, প্রয়োজন থেকে স্বস্তিতে পৌঁছানোর একই ছবি দেখায়। সহীহ বুখারীর ১০১৪ নম্বর হাদীসে আনাস ইবন মালিক (রাঃ) বলেন, এক জুমার দিন নবী ﷺ খুতবা দিচ্ছিলেন, তখন এক ব্যক্তি মসজিদে ঢুকে বলল, পশু মারা যাচ্ছে, পথঘাট বন্ধ। নবী ﷺ দুই হাত তুলে বললেন: হে আল্লাহ! আমাদের বৃষ্টি দিন। হে আল্লাহ! আমাদের বৃষ্টি দিন। হে আল্লাহ! আমাদের বৃষ্টি দিন! আনাস (রাঃ) বলেন, ঢালের মতো একখণ্ড মেঘ উঠল, আকাশজুড়ে ছড়িয়ে পড়ল, তারপর বৃষ্টি নামল।"
+          },
+          {
+            "en": "A limit has to be stated firmly. The verse describes rain sent after despair; it does not say why any drought happened, and it gives no licence to read a dry season, a famine or a failed harvest anywhere today as a punishment on the people who suffer it. Ma'arif's general remark about misdeeds asks readers to turn to Allah in humility; it names no community and is no verdict on anyone. Verse 42:30, on what strikes people because of what their hands have earned, has its own article. Faced with another's drought, the verse asks for help and prayer, not blame.",
+            "bn": "একটি সীমা দৃঢ়ভাবে বলে রাখা দরকার। আয়াত বলে, নিরাশার পরে বৃষ্টি আসে। কোনো খরা কেন হয়েছিল, তা আয়াত বলে না। আজ কোথাও শুকনো মৌসুম, দুর্ভিক্ষ বা ফসলহানি দেখে তাকে ভুক্তভোগী মানুষদের শাস্তি বলে পড়ার কোনো অনুমতি এ আয়াত দেয় না। গুনাহ নিয়ে মাআরিফুল কুরআনের সাধারণ মন্তব্য পাঠককে বিনয়ের সঙ্গে আল্লাহর দিকে ফিরতে বলে। তা কোনো জনগোষ্ঠীর নাম নেয় না, কারও বিরুদ্ধে রায়ও নয়। মানুষের নিজের হাতের কামাইয়ের কারণে যে বিপদ আসে, সে প্রসঙ্গ ৪২:৩০ আয়াতের আলাদা প্রবন্ধে আছে। অন্যের খরা দেখে এ আয়াত চায় সাহায্য আর দোয়া, দোষারোপ নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "42:30": {
     "sections": [
       {

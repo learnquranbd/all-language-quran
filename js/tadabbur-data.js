@@ -37673,6 +37673,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When relief follows hardship, credit it to Allah and not to your own merit, and never let present comfort persuade you that the Hour is far or His reward owed.",
     "lessonBn": "কষ্টের পর স্বস্তি এলে তার কৃতিত্ব আল্লাহকে দিন, নিজের যোগ্যতাকে নয়। আজকের আরাম যেন আপনাকে এ কথা না বোঝায় যে কিয়ামত দূরে, কিংবা তাঁর প্রতিদান আপনার পাওনা।"
+  },
+  "42:28": {
+    "reflectionEn": "The ground has cracked, the wells are low, and people have stopped looking at the sky. Then the verse names the moment the rain comes: after they had despaired. It does not say the rain came because they had earned it, or that the dry months were a sentence on anyone. It says only that He sends it down, spreads His mercy, and is the Protector, the Praiseworthy. The despair in the verse is the end of what people could arrange, not the end of what He can give. So I can ask where my own hope has quietly run dry, and whether I have mistaken the end of my plans for the end of His care.",
+    "reflectionBn": "মাটি ফেটে চৌচির, কুয়ার পানি তলায় নেমে গেছে, মানুষ আকাশের দিকে তাকানোই ছেড়ে দিয়েছে। ঠিক তখনকার কথাই আয়াতটি বলে: তারা নিরাশ হয়ে যাওয়ার পর বৃষ্টি আসে। আয়াত বলে না যে তারা বৃষ্টি পাওয়ার যোগ্য হয়েছিল বলে বৃষ্টি এল। এটাও বলে না যে খরার মাসগুলো কারও উপর রায় ছিল। শুধু বলে, তিনিই বৃষ্টি নামান, তাঁর রহমত ছড়িয়ে দেন, আর তিনিই অভিভাবক, প্রশংসিত। আয়াতের নিরাশা মানে মানুষের নিজের ব্যবস্থার শেষ, তাঁর দানের শেষ নয়। তাই নিজেকে জিজ্ঞেস করা যায়, আমার আশা কোথায় চুপচাপ শুকিয়ে গেছে? নিজের পরিকল্পনা ফুরিয়ে যাওয়াকে কি আমি তাঁর যত্ন ফুরিয়ে যাওয়া ভেবে বসেছি?",
+    "pointsEn": [
+      "Where in my life have I stopped looking up, simply because my own plans for it have run out?",
+      "When relief finally comes, do I thank the One who sent it, or only the timing and the circumstances?",
+      "When I see others in hardship, do I help them, or do I quietly decide what they must have done to deserve it?",
+      "How would I wait differently if I trusted that His help can come after I have given up on every other door?",
+      "Which mercy has spread over my life so quietly that I have stopped noticing it?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন জায়গায় শুধু নিজের পরিকল্পনা ফুরিয়ে গেছে বলে আমি উপরের দিকে তাকানো ছেড়ে দিয়েছি?",
+      "স্বস্তি যখন শেষমেশ আসে, আমি কি যিনি পাঠালেন তাঁর শুকরিয়া আদায় করি, নাকি শুধু সময় আর পরিস্থিতির গুণ গাই?",
+      "অন্যকে কষ্টে দেখলে আমি কি তার পাশে দাঁড়াই, নাকি মনে মনে ঠিক করে ফেলি সে কী করেছিল যে এটা তার প্রাপ্য?",
+      "যদি ভরসা রাখতাম যে অন্য সব দরজা থেকে হাল ছেড়ে দেওয়ার পরও তাঁর সাহায্য আসতে পারে, তাহলে আমার অপেক্ষা কেমন হত?",
+      "কোন রহমত আমার জীবনে এত নিঃশব্দে ছড়িয়ে আছে যে আমি তা আর খেয়ালই করি না?"
+    ],
+    "lessonEn": "When your own means run dry, do not despair of Allah; He sends the rain after hope is gone, and He alone is the Protector worthy of praise.",
+    "lessonBn": "নিজের সব উপায় ফুরিয়ে গেলেও আল্লাহর রহমত থেকে নিরাশ হবেন না। আশা ফুরিয়ে যাওয়ার পরও তিনি বৃষ্টি নামান, আর তিনিই একমাত্র প্রশংসিত অভিভাবক।"
   }
 };
 
