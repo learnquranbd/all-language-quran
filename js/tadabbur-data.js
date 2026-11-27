@@ -33783,6 +33783,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The more truth and favour you have been given, the weightier any compromise with it becomes; ask Allah to keep you firm, for no one can help you against Him.",
     "lessonBn": "যত বেশি সত্য আর নিয়ামত আপনাকে দেওয়া হয়েছে, তা নিয়ে আপস তত বেশি ভারী। আল্লাহর কাছে অবিচল থাকার তাওফীক চান, কারণ তাঁর বিরুদ্ধে কেউ আপনাকে সাহায্য করতে পারবে না।"
+  },
+  "17:91": {
+    "reflectionEn": "The first demand was a spring for us. The second is a garden for you: palms, vines, and rivers bursting through it. The idea behind it is easy to miss because it is so ordinary. If you were really sent by God, you would be rich. You would not walk the markets earning your bread like the rest of us. Wealth is taken as the proof of truth. Elsewhere the Qur'an names such gardens as gifts that ask for thanks, and tells of one that was ruined while its owner was sure it would last. So the verse turns the question on me. Do I judge a message by what it says, or by how comfortable the one who carries it looks?",
+    "reflectionBn": "প্রথম দাবি ছিল আমাদের জন্য একটা ঝর্ণা। দ্বিতীয় দাবি তোমার নিজের জন্য একটা বাগান: খেজুর গাছ, আঙুরলতা, আর তার ভেতর দিয়ে উপচে পড়া নদী। দাবির পেছনের ধারণাটা এত সাধারণ যে সহজে চোখে পড়ে না। আল্লাহ সত্যিই পাঠিয়ে থাকলে তুমি ধনী হতে। আমাদের মতো বাজারে ঘুরে রুটিরুজির খোঁজ করতে হতো না। এখানে সম্পদকেই সত্যের প্রমাণ ধরা হয়েছে। কুরআন অন্য জায়গায় এমন বাগানকে বলে দান, যার বদলে শোকর চাই। এমন এক বাগানের কথাও বলে, মালিক যাকে চিরস্থায়ী ভেবেছিল, অথচ তা ধ্বংস হয়ে গেল। তাই আয়াতটি প্রশ্নটা আমার দিকেই ফিরিয়ে দেয়। কোনো বার্তা আমি কী দিয়ে মাপি? তার কথা দিয়ে, নাকি বাহক কতটা আরামে আছেন তা দেখে?",
+    "pointsEn": [
+      "Whose word have I trusted more than it deserved simply because the speaker was wealthy or well placed?",
+      "Whose advice have I waved away because the person giving it was poor, plainly dressed or busy earning a living?",
+      "What condition have I quietly set for my own obedience, as if Allah must first prove Himself to me in my circumstances?",
+      "Which garden in my life, a home, an income, a family, do I treat as proof that I am right rather than as a gift that asks for thanks?",
+      "If my comfort were ruined like the garden in Surah al-Kahf, what in my faith would still be standing?"
+    ],
+    "pointsBn": [
+      "শুধু ধনী বা প্রভাবশালী বলে কার কথাকে আমি তার প্রাপ্যের চেয়ে বেশি ভরসা করেছি?",
+      "যিনি পরামর্শ দিয়েছিলেন তিনি গরিব, সাদাসিধে পোশাকের, কিংবা রুজির খোঁজে ব্যস্ত ছিলেন বলে কার কথা আমি উড়িয়ে দিয়েছি?",
+      "নিজের আনুগত্যের জন্য মনে মনে কোন শর্ত জুড়ে দিয়েছি, যেন আল্লাহকে আগে আমার অবস্থার ভেতরে নিজেকে প্রমাণ করতে হবে?",
+      "আমার জীবনের কোন বাগানটিকে, ঘর, আয় বা পরিবার, আমি নিজের সঠিক হওয়ার প্রমাণ ভাবি, অথচ তা এক দান, যার বদলে শোকর চাই?",
+      "সূরা কাহফের বাগানের মতো আমার আরাম যদি ধ্বংস হয়ে যায়, তবে আমার ঈমানের কতটুকু দাঁড়িয়ে থাকবে?"
+    ],
+    "lessonEn": "Judge a message by its truth, not by its bearer's wealth, and treat every garden you are given as a gift that asks for thanks.",
+    "lessonBn": "বার্তাকে মাপুন তার সত্য দিয়ে, বাহকের ধনসম্পদ দিয়ে নয়। আর যে বাগানই আপনাকে দেওয়া হোক, তাকে দান মনে করুন, যার বদলে শোকর চাই।"
   }
 };
 

@@ -4839,6 +4839,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:91": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Garden in Their Own Valley",
+          "bn": "নিজেদের উপত্যকাতেই বাগান"
+        },
+        "p": [
+          {
+            "en": "Aw takuna laka jannatun min nakhilin wa 'inabin fa-tufajjira al-anhara khilalaha tafjira: or you have a garden of palms and grapes, and make rivers burst out through it in a great bursting. It is the second of the conditions Quraysh's leaders laid down in 17:90 to 17:93. The article on 17:90 sets out the whole list and the gathering behind it. This one stays with a single item: 11 Arabic words about a garden and its water.",
+            "bn": "আও তাকূনা লাকা জান্নাতুম মিন নাখীলিও ওয়া ইনাবিন ফাতুফাজ্জিরাল আনহারা খিলালাহা তাফজীরা: কিংবা তোমার থাকবে খেজুর আর আঙুরের এক বাগান, আর তার ফাঁকে ফাঁকে তুমি প্রবল ধারায় নদী বইয়ে দেবে। কুরাইশ নেতারা ১৭:৯০ থেকে ১৭:৯৩ আয়াতে যে শর্তগুলো জুড়ে দিয়েছিল, এটি তার দ্বিতীয়টি। পুরো তালিকা আর তার পেছনের বৈঠকের কথা আছে ১৭:৯০ আয়াতের প্রবন্ধে। এখানে আলোচনা শুধু একটি দাবি নিয়ে: ১১টি আরবি শব্দ, একটি বাগান আর তার পানি।"
+          },
+          {
+            "en": "At-Tabari opens by restating the speech. The idolaters among your people said to you, Muhammad: we will not believe you until you draw out a spring for us from our ground, or until you have a bustan, which is what jannah means, of palms and grapes, with rivers bursting through it in this land of ours where we live. The garden is wanted here, in the valley the speakers already inhabit. Ibn Kathir likewise places the spring of 17:90 in the Hijaz, here and there.",
+            "bn": "তাবারী শুরুতেই কথাটা নিজের ভাষায় আবার বলেন। হে মুহাম্মাদ, তোমার কওমের মুশরিকরা তোমাকে বলল: আমাদের মাটি থেকে একটা ঝর্ণা বের না করা পর্যন্ত আমরা তোমাকে বিশ্বাস করব না। কিংবা যতক্ষণ না তোমার খেজুর আর আঙুরের একটা বুস্তান হয়, আর জান্নাত শব্দের অর্থ এটাই। তার ভেতর দিয়ে নদী বয়ে যাবে, আর তা হবে আমাদের এই দেশে, যেখানে আমরা থাকি। অর্থাৎ বাগান চাওয়া হচ্ছে এখানেই, যে উপত্যকায় তারা নিজেরাই বাস করে। ইবন কাসীরও ১৭:৯০ আয়াতের ঝর্ণাকে হিজাযের মাটিতেই রাখেন, এখানে ওখানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Water at the Roots",
+          "bn": "শিকড়ের কাছে পানি"
+        },
+        "p": [
+          {
+            "en": "The Muyassar describes the thing asked for as a hadiqah, an enclosed orchard, holding kinds of palms and grapes, with rivers made to run through its middle in abundance. Al-Baghawi glosses jannah with the same word at-Tabari uses, bustan, a cultivated garden. Two plants are named and no others: the date palm and the vine. It is a pair the Qur'an names again when it describes gardens elsewhere, and the later sections return to it.",
+            "bn": "মুয়াসসার দাবিকৃত জিনিসটিকে বলে হাদীকা, অর্থাৎ ঘেরা বাগান। তাতে নানা জাতের খেজুর আর আঙুর, আর মাঝখান দিয়ে প্রচুর ধারায় নদী বইছে। বাগাভীও জান্নাতের অর্থ করেন বুস্তান, তাবারীর মতোই, মানে চাষ করা বাগান। গাছ মাত্র দুটির নাম এসেছে, আর কিছুর নয়: খেজুর আর আঙুর। কুরআন অন্য জায়গায় বাগানের বর্ণনা দিতে গিয়েও এই জোড়াটির নাম নেয়, পরের অংশগুলোতে সে কথা আবার আসবে।"
+          },
+          {
+            "en": "Then khilalaha, through it. At-Tabari says the word means between the palms and the vines, and adds that the water runs between them at their roots. Al-Qurtubi's entire comment on this verse is a single gloss: khilalaha, that is, its middle. Tanwir al-Miqbas, attributed to Ibn 'Abbas, says the same, in their middle, and al-Jalalayn has streams gushing in the midst of these, abundantly. So the picture is not a garden with a river beside it. The water is threaded through the trees.",
+            "bn": "তারপর খিলালাহা, তার ফাঁকে ফাঁকে। তাবারী বলেন, এর অর্থ খেজুর গাছ আর আঙুরলতার মাঝখানে। সঙ্গে যোগ করেন, পানি বইবে তাদের মাঝে, গোড়ায় গোড়ায়। এ আয়াতে কুরতুবীর পুরো মন্তব্য একটিমাত্র ব্যাখ্যা: খিলালাহা মানে তার মাঝখান। ইবন আব্বাস (রাঃ)-এর নামে প্রচলিত তানবীরুল মিকবাসও একই কথা বলে, তাদের মাঝখানে। জালালাইনে আছে, এগুলোর মাঝ দিয়ে প্রচুর ধারায় স্রোত বইবে। তাই ছবিটা এমন নয় যে বাগানের পাশ দিয়ে একটা নদী গেছে। পানি গাছের ভেতর দিয়ে বোনা হয়ে চলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bursting, Time After Time",
+          "bn": "বারবার ফেটে পড়া পানি"
+        },
+        "p": [
+          {
+            "en": "The verb is tufajjira, from the root f-j-r, in its doubled form, and the verse follows it with its own verbal noun, tafjira, so the bursting is said twice, once as action and once as a noun. Al-Baghawi glosses tafjir as tashqiq, a splitting open. The Muyassar renders the force as ghazarah, abundance, and al-Jalalayn likewise says abundantly. Every gloss points the same way: this is no trickle, but water that breaks out hard and keeps coming.",
+            "bn": "ক্রিয়াটি তুফাজ্জিরা, ফ-জ-র ধাতু থেকে, দ্বিগুণ রূপে। তারপর আয়াত সেই ক্রিয়ারই মূল বিশেষ্য তাফজীরা জুড়ে দেয়। ফলে ফেটে পড়ার কথা আসে দুবার, একবার কাজ হিসেবে, একবার নাম হিসেবে। বাগাভী তাফজীরের অর্থ করেন তাশকীক, চিরে ফেলা। মুয়াসসার এই জোরকে বলে গাযারা, প্রাচুর্য। জালালাইনও বলে, প্রচুর ধারায়। সব ব্যাখ্যা একই দিকে যায়: এ চুইয়ে পড়া পানি নয়। এ পানি সজোরে বেরোয় আর থামে না।"
+          },
+          {
+            "en": "At-Tabari, in his entry on 17:90, records that Ibrahim an-Nakha'i and the readers of Kufa read the spring's verb in the light form and this verse's verb doubled. The light form, he explains, means water broken out once, the doubled form means bursting in many places, one time after another, because these are rivers and not one river. He prefers that split for its difference of meaning, without rejecting the other reading. Al-Qurtubi adds that the readers did not differ on the doubling here, and relays Abu Hatim's reason: rivers are plural, and doubling signals abundance.",
+            "bn": "তাবারী ১৭:৯০ আয়াতের আলোচনায় উল্লেখ করেন, ইবরাহীম নাখঈ আর কূফার কারীরা ঝর্ণার ক্রিয়াটি পড়তেন হালকা রূপে, আর এ আয়াতের ক্রিয়াটি দ্বিগুণ রূপে। তাঁর ব্যাখ্যায়, হালকা রূপের অর্থ একবার পানি বের করা। দ্বিগুণ রূপের অর্থ নানা জায়গায়, একবারের পর আরেকবার ফেটে বেরোনো, কারণ এখানে নদী অনেক, একটি নয়। অর্থের এই ফারাকের কারণে তিনি এই ভাগটাই বেশি পছন্দ করেন, তবে অন্য কিরাআতকেও বাতিল করেন না। কুরতুবী যোগ করেন, এখানে দ্বিগুণ রূপ নিয়ে কারীদের মধ্যে কোনো মতভেদ ছিল না। সঙ্গে আবূ হাতিমের যুক্তিও আনেন: নদী বহুবচন, আর দ্বিগুণ রূপ আধিক্য বোঝায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Lana to Laka",
+          "bn": "লানা থেকে লাকা"
+        },
+        "p": [
+          {
+            "en": "One small word turns the demand. In 17:90 the spring was to gush lana, for us. Here the garden is to be laka, yours. The first condition asked for water the town could share; the second asks for the Prophet's own estate. As-Sa'di says what it would mean: a garden by which you would no longer need to walk in the markets, coming and going. The question is now how a messenger ought to look if he is truly sent.",
+            "bn": "ছোট্ট একটি শব্দে দাবির মোড় ঘুরে যায়। ১৭:৯০ আয়াতে ঝর্ণা চাওয়া হয়েছিল লানা, আমাদের জন্য। এখানে বাগান হবে লাকা, তোমার। প্রথম শর্তে চাওয়া হয়েছিল এমন পানি, যা গোটা জনপদ ভাগ করে নিতে পারে। দ্বিতীয় শর্তে চাওয়া হচ্ছে নবী ﷺ-এর নিজের সম্পত্তি। এমন বাগানের মানে কী দাঁড়াত, সা'দী তা বলে দেন: এমন বাগান, যার কারণে তোমাকে আর বাজারে হাঁটতে হতো না, আসা-যাওয়া করতে হতো না। প্রশ্ন এখন এই, সত্যিকারের প্রেরিত রাসূলকে দেখতে কেমন হওয়া উচিত।"
+          },
+          {
+            "en": "The long report relayed for this passage makes the same turn. Ibn Kathir carries it from Ibn Ishaq, through 'Ikrimah, from Ibn 'Abbas, and al-Qurtubi gives it in Ibn Ishaq's own wording. Having asked first for their own valley, the chiefs say: if you will not do this for us, then take for yourself. Ask your Lord for gardens, treasures, and palaces of gold and silver, to make you independent of what we see you seeking, for you stand in the markets looking for a living as we do. Then we will know your rank with your Lord.",
+            "bn": "এই অংশের সঙ্গে যে দীর্ঘ বর্ণনা আসে, তাতেও একই মোড়। ইবন কাসীর তা আনেন ইবন ইসহাক থেকে, ইকরিমা হয়ে, ইবন আব্বাস (রাঃ) থেকে। কুরতুবী আনেন ইবন ইসহাকের নিজের ভাষায়। প্রথমে নিজেদের উপত্যকার জন্য দাবি তোলার পর নেতারা বলে: আমাদের জন্য যদি এটা না করো, তবে নিজের জন্য নাও। তোমার রবের কাছে চাও বাগান, ধনভাণ্ডার, সোনা-রুপার প্রাসাদ। তাহলে আমরা তোমাকে যা খুঁজে বেড়াতে দেখি, তার আর দরকার হবে না। তুমি তো আমাদের মতোই বাজারে দাঁড়িয়ে রুজি খোঁজো। তখন আমরা জানব, তোমার রবের কাছে তোমার মর্যাদা কতখানি।"
+          },
+          {
+            "en": "On the chain: in the line Ibn Kathir quotes from at-Tabari, Ibn Ishaq heard it from a shaykh of the people of Egypt who is never named. Ibn Kathir adds a second line, through al-Bakka'i, in which Ibn Ishaq says only that some people of knowledge told him, from Sa'id ibn Jubayr and 'Ikrimah. Both lines leave a narrator unnamed, and Ibn Kathir gives no grading. The report also gives the Prophet's ﷺ replies; with the chain unestablished, they are not quoted here, and the report serves as background, not proof.",
+            "bn": "সনদের কথা। তাবারী থেকে ইবন কাসীর যে সূত্রটি উদ্ধৃত করেন, তাতে ইবন ইসহাক বর্ণনাটি শুনেছেন মিসরের এক শায়খের কাছ থেকে, যাঁর নাম কোথাও আসেনি। ইবন কাসীর বাক্কাঈর মাধ্যমে আরেকটি সূত্র যোগ করেন। সেখানে ইবন ইসহাক শুধু বলেন, কয়েকজন জ্ঞানী লোক তাঁকে সাঈদ ইবন জুবাইর আর ইকরিমা থেকে জানিয়েছেন। দুই সূত্রেই একজন বর্ণনাকারী অজ্ঞাত, আর ইবন কাসীর কোনো মান নির্ধারণ করেননি। প্রতিটি দাবির জবাবে নবী ﷺ কী বলেছিলেন, তাও বর্ণনায় আছে। কিন্তু সনদ প্রতিষ্ঠিত নয় বলে এখানে তা উদ্ধৃত করা হলো না। বর্ণনাটিকে পটভূমি হিসেবেই পড়া হচ্ছে, প্রমাণ হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Less Water, or Less Wealth",
+          "bn": "কম পানি, না কম সম্পদ"
+        },
+        "p": [
+          {
+            "en": "Why water and a garden at all? The same report gives the chiefs' complaint, worded slightly differently in the two copies. In Ibn Kathir's, they say no people has a narrower land, less wealth or a harder life than theirs, and they ask for rivers like those of Syria and Iraq. In al-Qurtubi's, the middle word is less water, and the rivers are like those of Syria. Either way, the request presses on exactly what their valley lacked: room, water and an easy living.",
+            "bn": "পানি আর বাগানই বা কেন? একই বর্ণনায় নেতাদের অভিযোগও আছে, তবে দুই কপিতে শব্দ সামান্য আলাদা। ইবন কাসীরের কপিতে তারা বলে, আমাদের চেয়ে সংকীর্ণ দেশ, কম সম্পদ আর কঠিন জীবন আর কোনো জাতির নেই। তারা চায় শাম আর ইরাকের মতো নদী। কুরতুবীর কপিতে মাঝের শব্দটি কম পানি, আর নদী চাওয়া হয় শামের মতো। যেটাই হোক, দাবিটা চাপ দেয় ঠিক সেই জায়গায়, যা তাদের উপত্যকায় ছিল না: খোলা জায়গা, পানি আর সহজ জীবন।"
+          },
+          {
+            "en": "Maududi, in his Tafhim on 17:89 to 17:93, pictures the demand as a garden in full bloom with canals flowing in it, brought into being in the twinkling of an eye. The speakers did not ask how land like theirs might be watered or worked. They asked for the finished orchard at once, delivered as a receipt for a claim. A garden that grows slowly would have proved nothing to them; only one that appeared on command would count.",
+            "bn": "মওদূদী তাঁর তাফহীমে ১৭:৮৯ থেকে ১৭:৯৩ আয়াতের আলোচনায় দাবিটার ছবি আঁকেন এভাবে: চোখের পলকে ফুলে-ফলে ভরা এক বাগান, যার ভেতর দিয়ে নালা বইছে। বক্তারা জানতে চায়নি তাদের মতো জমিতে কীভাবে পানি আনা যায়, কীভাবে চাষ করা যায়। তারা চেয়েছিল তৈরি বাগান, এখনই, একটা দাবির রসিদ হিসেবে। ধীরে ধীরে বেড়ে ওঠা বাগান তাদের কাছে কিছুই প্রমাণ করত না। গণ্য হতো শুধু হুকুমে হাজির হওয়া বাগান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eating Food, Walking the Markets",
+          "bn": "খাবার খান, বাজারে হাঁটেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets 25:7 to 25:11 beside this passage, where the thought behind the garden is spoken aloud. What kind of messenger is this, who eats food and walks in the markets? Why has no angel been sent down to warn alongside him, or a treasure been thrown down to him, or why has he no garden to eat from? The garden of 17:91 appears again, now joined openly to the complaint about markets, and the wrongdoers then say: you follow only a man bewitched.",
+            "bn": "ইবন কাসীর এই অংশের পাশে ২৫:৭ থেকে ২৫:১১ আয়াত রাখেন। সেখানে বাগানের পেছনের ভাবনাটা মুখ ফুটে বলা হয়েছে। এ কেমন রাসূল, যে খাবার খায় আর হাটে-বাজারে চলাফেরা করে? তার সঙ্গে সতর্ককারী হয়ে কোনো ফেরেশতা কেন নামে না? কেন তাকে ধনভাণ্ডার দেওয়া হয় না, কিংবা কেন তার একটা বাগান নেই, যা থেকে সে খাবে? ১৭:৯১ আয়াতের বাগান সেখানে আবার আসে, এবার বাজারের অভিযোগের সঙ্গে খোলাখুলি জোড়া লেগে। তারপর যালিমরা বলে: তোমরা তো এক যাদুগ্রস্ত লোকেরই অনুসরণ করছ।"
+          },
+          {
+            "en": "The Qur'an answers the market complaint itself, at 25:20. We sent no messengers before you but that they ate food and walked in the markets, and We have made some of you a trial for others: will you be patient? Eating, buying and earning are not marks against a messenger; they are what every messenger did. The trial it names falls on the hearers: whether they can bear to receive guidance from someone who shares their ordinary life.",
+            "bn": "বাজারের অভিযোগের জবাব কুরআন নিজেই দেয়, ২৫:২০ আয়াতে। তোমার আগে যত রাসূল পাঠিয়েছি, সবাই খাবার খেতেন আর বাজারে চলাফেরা করতেন। আর আমি তোমাদের একজনকে আরেকজনের জন্য পরীক্ষা বানিয়েছি, তোমরা কি সবর করবে? খাওয়া, কেনাবেচা আর রুজি কামানো তাই রাসূলের বিরুদ্ধে কোনো দাগ নয়। প্রত্যেক রাসূলই এসব করেছেন। আয়াত যে পরীক্ষার কথা বলে, তা শ্রোতাদের: যিনি তাদেরই মতো সাধারণ জীবন কাটান, তাঁর কাছ থেকে হিদায়াত নেওয়া কি তারা মেনে নিতে পারবে?"
+          },
+          {
+            "en": "No fetched commentary attaches a hadith to 17:91. A general narration, not tied to this verse, answers the same contempt for earning. Al-Bukhari records in his Sahih (2072), from al-Miqdam, that the Messenger of Allah ﷺ said: no one has ever eaten food better than eating from the work of his own hand, and the Prophet of Allah Dawud (AS) used to eat from the work of his own hand. The very thing the chiefs held against him, earning one's bread, is what the Prophet ﷺ praised.",
+            "bn": "সংগৃহীত কোনো তাফসীর ১৭:৯১ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ হাদীস আছে, যা এ আয়াতের সঙ্গে সম্পর্কিত নয়, অথচ রুজি কামানোকে তুচ্ছ ভাবার একই মনোভাবের জবাব দেয়। বুখারী তাঁর সহীহ গ্রন্থে (২০৭২) মিকদাম (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: নিজের হাতের কাজ থেকে খাওয়ার চেয়ে উত্তম খাবার কেউ কখনো খায়নি। আর আল্লাহর নবী দাউদ (আঃ) নিজের হাতের কাজ থেকেই খেতেন। নেতারা যে রুজি কামানোকে তাঁর বিরুদ্ধে দাঁড় করিয়েছিল, নবী ﷺ ঠিক সেটারই প্রশংসা করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Better Than That, Had He Willed",
+          "bn": "তিনি চাইলে এর চেয়েও উত্তম"
+        },
+        "p": [
+          {
+            "en": "The Furqan passage does not stop at the taunt. At 25:10 it answers: blessed is He who, if He willed, would make for you better than that, gardens beneath which rivers flow, and would make for you palaces. The garden they demanded is not beyond Allah; it is less than what He could give. Ibn Kathir makes the same point at the close of this passage: had He willed, He could have given them what they asked, or held it back.",
+            "bn": "ফুরকানের অংশটি তাচ্ছিল্যে গিয়ে থেমে যায়নি। ২৫:১০ আয়াতে জবাব আসে: মহা কল্যাণময় তিনি, যিনি চাইলে তোমাকে এর চেয়েও উত্তম জিনিস দিতে পারেন, এমন বাগান যার নিচ দিয়ে নদী বয়ে যায়, আর দিতে পারেন প্রাসাদ। যে বাগান তারা দাবি করেছিল, তা আল্লাহর সাধ্যের বাইরে নয়। বরং তিনি যা দিতে পারেন, তার চেয়ে তা কম। এই অংশের শেষে ইবন কাসীরও একই কথা বলেন: তিনি চাইলে তাদের চাওয়া দিতে পারতেন, চাইলে না-ও দিতে পারতেন।"
+          },
+          {
+            "en": "When the Qur'an itself describes gardens of palms and grapes, it uses this verse's own words. At 36:34 it names, among the signs already given on the earth, gardens of palms and grapevines with springs burst forth in them, wa fajjarna fiha mina al-'uyun. Then 36:35 gives the purpose: that they may eat of its fruit, which their hands did not make. Will they not then be grateful? What the chiefs demanded as proof of a messenger, the Qur'an lists as a gift already spread before them, owed thanks.",
+            "bn": "কুরআন নিজে যখন খেজুর আর আঙুরের বাগানের বর্ণনা দেয়, তখন এ আয়াতের শব্দগুলোই ব্যবহার করে। ৩৬:৩৪ আয়াতে পৃথিবীতে আগেই দেওয়া নিদর্শনগুলোর মধ্যে আছে খেজুর ও আঙুরের বাগান, যার ভেতরে ঝর্ণা ফাটিয়ে বের করা হয়েছে: ওয়া ফাজ্জারনা ফীহা মিনাল উয়ূন। তারপর ৩৬:৩৫ আয়াত উদ্দেশ্যটাও বলে দেয়: যেন তারা তার ফল খায়, যা তাদের হাত বানায়নি। তবু কি তারা শোকর করবে না? নেতারা যাকে রাসূলের প্রমাণ হিসেবে দাবি করেছিল, কুরআন তাকে গণ্য করে এমন দান হিসেবে, যা আগেই তাদের সামনে বিছানো, আর যার বদলে শোকর চাই।"
+          },
+          {
+            "en": "Surah al-Kahf tells of a man given two gardens of grapes bordered with palms, and 18:33 says wa fajjarna khilalahuma naharan, We made a river burst through them, almost this verse's phrase. He entered it wronging himself, sure it would never perish (18:35), and was left wringing his hands as it lay fallen on its trellises (18:42). At 2:266 such a garden, rivers beneath it, is burned by a fiery whirlwind. In the Qur'an such a garden is a trust and a test, never a credential.",
+            "bn": "সূরা কাহফে এক লোকের কথা আছে, যাকে খেজুর গাছে ঘেরা আঙুরের দুটি বাগান দেওয়া হয়েছিল। ১৮:৩৩ আয়াত বলে: ওয়া ফাজ্জারনা খিলালাহুমা নাহারা, আর আমি দুই বাগানের মাঝ দিয়ে একটি নদী বইয়ে দিয়েছিলাম। কথাটা প্রায় এ আয়াতেরই ভাষা। নিজের উপর যুলম করে সে বাগানে ঢুকল, ভাবল এ কোনোদিন ধ্বংস হবে না (১৮:৩৫)। শেষে মাচাসহ ভেঙে পড়া বাগানের দিকে তাকিয়ে সে হাত কচলাতে লাগল (১৮:৪২)। ২:২৬৬ আয়াতে এমনই এক বাগান, যার নিচ দিয়ে নদী বয়, আগুনের ঘূর্ণিঝড়ে পুড়ে যায়। কুরআনে এমন বাগান আমানত আর পরীক্ষা, কোনো সনদ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Demand, Not a Lineage",
+          "bn": "দাবির নিন্দা, বংশের নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse reports what a group of Makkan leaders demanded at one moment of the call, and the Qur'an condemns the demand and the stance behind it. It licenses nothing against any living person or community, whether the people of Makkah, the descendants of Quraysh, or anyone a reader opposes. Ibn Kathir notes that some of the very men named in the report later became sincere Muslims, among them 'Abdullah ibn Abi Umayyah, who turned to Allah in repentance.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। দাওয়াতের এক বিশেষ মুহূর্তে মক্কার একদল নেতা কী দাবি করেছিল, আয়াতটি তা জানায়। কুরআন নিন্দা করে সেই দাবির আর তার পেছনের মনোভাবের। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। মক্কার মানুষের বিরুদ্ধে নয়, কুরাইশের বংশধরদের বিরুদ্ধে নয়, পাঠক যাদের বিরোধিতা করেন তাদের বিরুদ্ধেও নয়। ইবন কাসীর জানান, বর্ণনায় যাদের নাম এসেছে তাদের কয়েকজন পরে খাঁটি মুসলিম হয়েছিলেন। তাঁদের একজন আবদুল্লাহ ইবন আবী উমাইয়া (রাঃ), যিনি তওবা করে আল্লাহর দিকে ফিরে আসেন।"
+          },
+          {
+            "en": "The answer to the whole list comes at 17:93: glory to my Lord, am I anything but a human messenger? Ma'arif al-Qur'an reads it as correcting the hidden assumption that a messenger must hold divine powers; his duty is to convey, and any miracle comes by Allah's power alone. Maududi expands it in the same direction: judge my claim by my message, and by my conduct and morals as a human being. A garden would have tested none of that, and the message and the man were already before them.",
+            "bn": "পুরো তালিকার জবাব আসে ১৭:৯৩ আয়াতে: আমার রব পবিত্র, আমি কি একজন মানুষ রাসূল ছাড়া আর কিছু? মাআরিফুল কুরআনের মতে এ জবাব একটি গোপন ধারণাকে শুধরে দেয়, যেন রাসূলের হাতে ঐশী ক্ষমতা থাকতেই হবে। তাঁর দায়িত্ব বার্তা পৌঁছানো। কোনো মুজিযা এলে আসে কেবল আল্লাহর কুদরতে। মওদূদীও একই দিকে ব্যাখ্যা বাড়ান: আমার দাবি যাচাই করো আমার বার্তা দিয়ে, আর একজন মানুষ হিসেবে আমার আচরণ ও চরিত্র দিয়ে। বাগান দিয়ে এর কোনোটাই যাচাই হতো না। বার্তা আর মানুষটি, দুটোই তো আগে থেকে তাদের চোখের সামনে ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Gardens We Still Demand",
+          "bn": "যে বাগান আজও চাই"
+        },
+        "p": [
+          {
+            "en": "The reasoning behind this verse did not end in Makkah. People still read prosperity as proof: the wealthy speaker must be right, the poor teacher mistaken. This measure treats a garden as a credential, when the Qur'an, in the same words, calls gardens gifts and trials. A message is weighed by what it says and by the life of the one who brings it, not by the size of his orchard.",
+            "bn": "এ আয়াতের পেছনের যুক্তি মক্কাতেই শেষ হয়ে যায়নি। মানুষ আজও সচ্ছলতাকে প্রমাণ মনে করে। ধনী বক্তা নিশ্চয়ই ঠিক বলছেন, গরিব শিক্ষক নিশ্চয়ই ভুল। এ মাপকাঠি বাগানকে সনদ বানায়, অথচ কুরআন একই শব্দে বাগানকে বলে দান আর পরীক্ষা। বার্তার ওজন হয় তার কথায় আর বাহকের জীবনে, তাঁর বাগানের আয়তনে নয়।"
+          },
+          {
+            "en": "There is a private version too. I may never ask a prophet for an orchard, yet I can set my own conditions: I will pray properly once my work is settled, and give once my income is secure. Each is a small lana or laka, a garden demanded before obedience. Surah Ya-Sin points to the palms and vines already given and the springs already opened, and asks: will they not then be grateful? The honest answer is to act now on what I already know.",
+            "bn": "এর একটা ব্যক্তিগত রূপও আছে। হয়তো কোনো নবীর কাছে কখনো বাগান চাইব না, তবু নিজের জন্য শর্ত ঠিক করে রাখতে পারি। কাজ গুছিয়ে নিলে ঠিকমতো নামায পড়ব, আয় নিশ্চিত হলে দান করব। এর প্রতিটিই ছোট্ট একটা লানা কিংবা লাকা, আনুগত্যের আগে দাবি করা এক বাগান। সূরা ইয়াসীন আঙুল তুলে দেখায় আগেই দেওয়া খেজুর আর আঙুরের দিকে, আগেই খুলে দেওয়া ঝর্ণার দিকে। তারপর প্রশ্ন করে: তবু কি তারা শোকর করবে না? সৎ জবাব একটাই: যা আগেই জানি, তার উপর এখনই আমল শুরু করা।"
+          }
+        ]
+      }
+    ]
+  },
   "17:95": {
     "sections": [
       {
