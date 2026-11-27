@@ -883,6 +883,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "35:20": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Verse Without Its Own Verb",
+          "bn": "যে আয়াতের নিজের ক্রিয়া নেই"
+        },
+        "p": [
+          {
+            "en": "Wa-la az-zulumatu wa-la an-nur: nor the darknesses, nor the light. Four Arabic words, and none of them a verb. The verse borrows its predicate from the one before it, where wa-ma yastawi, and not equal are, governs the blind and the seeing (35:19). The same unspoken verb then runs on through the shade and the heat (35:21) until it is said aloud again over the living and the dead (35:22). One judgement, not equal, is laid across four pairs, and this verse is the second of them.",
+            "bn": "ওয়ালায যুলুমাতু ওয়ালান নূর: আর অন্ধকাররাশিও নয়, আলোও নয়। আরবিতে চারটি শব্দ, তার একটিও ক্রিয়া নয়। ক্রিয়াটা আয়াতটি ধার নিয়েছে আগের আয়াত থেকে। সেখানে ওয়া মা ইয়াসতাউয়ী, অর্থাৎ সমান নয়, বসেছে অন্ধ আর চক্ষুষ্মানের উপর (৩৫:১৯)। না-বলা সেই ক্রিয়াই এরপর ছায়া আর রোদের উপর দিয়ে চলে যায় (৩৫:২১), আর জীবিত ও মৃতের বেলায় এসে আবার উচ্চারিত হয় (৩৫:২২)। একটিই রায়, সমান নয়, চারটি জোড়ার উপর বিছানো। এ আয়াত তার দ্বিতীয় জোড়া।"
+          },
+          {
+            "en": "The placement explains why the pairs come here. Just before them the surah has said that the Prophet ﷺ can warn only those who fear their Lord unseen and keep the prayer, and that whoever purifies himself does so for his own soul (35:18). Just after them it says that he is only a warner (35:23), sent with the truth, and that no nation was ever left without a warner (35:24). Between the claim that the warning reaches some and not others and the reminder that the warner's task is only to warn, the four pairs show what the difference between the two groups is like.",
+            "bn": "জোড়াগুলো ঠিক এখানে কেন, তা বোঝা যায় আয়াতের অবস্থান থেকে। ঠিক আগে সূরাটি বলেছে, নবী ﷺ কেবল তাদেরকেই সতর্ক করতে পারেন যারা না দেখে রবকে ভয় করে আর নামায কায়েম রাখে, আর যে নিজেকে পরিশুদ্ধ করে সে করে নিজেরই জন্য (৩৫:১৮)। ঠিক পরে বলছে, তিনি কেবল একজন সতর্ককারী (৩৫:২৩)। তাঁকে পাঠানো হয়েছে সত্যসহ, আর এমন কোনো জাতি নেই যার কাছে সতর্ককারী আসেনি (৩৫:২৪)। সতর্কবাণী কারও কাছে পৌঁছায়, কারও কাছে পৌঁছায় না, আবার সতর্ককারীর কাজ শুধু সতর্ক করা। এ দুই কথার মাঝখানে চারটি জোড়া দেখিয়ে দেয় দুই দলের পার্থক্যটা আসলে কেমন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Disbelief's Darkness, Faith's Light",
+          "bn": "কুফরের অন্ধকার, ঈমানের আলো"
+        },
+        "p": [
+          {
+            "en": "The commentators read the pair the same way. At-Tabari gives the verse a single line: and not equal are the darknesses of disbelief and the light of faith, zulumat al-kufr wa-nur al-iman. Al-Muyassar uses the same words almost to the letter, and al-Baghawi is shorter still: it means disbelief and faith. Jalalayn, on the quranx page for this verse, glosses the darkness as disbelief and the light as faith. On this verse, none of the commentaries fetched offers a second reading of the pair.",
+            "bn": "এ জোড়ার অর্থ নিয়ে তাফসীরকারেরা একই কথা বলেন। তাবারী আয়াতটির ব্যাখ্যা দেন এক লাইনে: কুফরের অন্ধকাররাশি আর ঈমানের আলো সমান নয়, যুলুমাতুল কুফর ওয়া নূরুল ঈমান। মুয়াসসার প্রায় হুবহু একই শব্দ ব্যবহার করে। বাগাভী আরও সংক্ষেপে বলেন, এর মানে কুফর ও ঈমান। কুরানএক্স সাইটে এ আয়াতের পাতায় জালালাইনও অন্ধকারকে কুফর আর আলোকে ঈমান বলে ব্যাখ্যা করে। এ আয়াতের বেলায় যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ জোড়ার দ্বিতীয় কোনো অর্থ দেয় না।"
+          },
+          {
+            "en": "Ibn Kathir reads the four pairs together as one parable, a mathal that Allah strikes for the believers, who are the living, and the disbelievers, who are the dead. He sets it beside two other verses. One asks whether a man who was dead, then given life and a light to walk by among people, is like one whose likeness is in darknesses he never leaves (6:122). The other likens the two parties to the blind and deaf set against the seeing and hearing, and asks whether they are equal (11:24).",
+            "bn": "ইবন কাসীর চারটি জোড়াকে একসঙ্গে একটি দৃষ্টান্ত হিসেবে পড়েন। এ মাসাল আল্লাহ দিয়েছেন মুমিনদের জন্য, যারা জীবিত, আর কাফিরদের জন্য, যারা মৃত। তিনি এর পাশে রাখেন আরও দুটি আয়াত। একটিতে প্রশ্ন: যে মৃত ছিল, তারপর তাকে জীবন দেওয়া হলো, আর দেওয়া হলো এমন আলো যা নিয়ে সে মানুষের মাঝে চলে, সে কি তার মতো যার অবস্থা এমন অন্ধকারে যেখান থেকে সে কখনো বের হয় না (৬:১২২)? অন্যটিতে দুই দলকে তুলনা করা হয়েছে অন্ধ ও বধিরের সঙ্গে, আর চক্ষুষ্মান ও শ্রবণশক্তিসম্পন্নের সঙ্গে, তারপর প্রশ্ন: তারা কি সমান (১১:২৪)?"
+          },
+          {
+            "en": "From those two verses Ibn Kathir draws his picture of the believer: he hears and sees, and walks in light upon a straight path in this world and the next. The disbeliever, in the same sentence, is blind and deaf and walks in darknesses with no way out of them, lost in his error in both worlds. The darkness of this verse is therefore not a mood or a passing hardship. In each commentary that glosses it, the darkness is disbelief and the light is faith itself.",
+            "bn": "এ দুই আয়াত থেকে ইবন কাসীর মুমিনের ছবি আঁকেন। সে শোনে, দেখে, আর দুনিয়া ও আখিরাতে আলোর মধ্যে সরল পথে হাঁটে। একই বাক্যে কাফির অন্ধ ও বধির। সে হাঁটে এমন অন্ধকারে যা থেকে বেরোনোর পথ নেই, দুই জগতেই নিজের গোমরাহিতে দিশাহারা। তাই এ আয়াতের অন্ধকার কোনো মনখারাপ বা সাময়িক কষ্টের নাম নয়। যে তাফসীরগুলো এর ব্যাখ্যা দিয়েছে, সবগুলোতেই অন্ধকার মানে কুফর, আর আলো মানে ঈমান নিজেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Columns of Likenesses",
+          "bn": "উপমার দুই সারি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari relays from Ibn Abbas (RA), on the whole passage, that it is a parable Allah struck for the people of obedience and the people of disobedience. He then sorts the eight terms into two columns. The blind, the darknesses, the heat and the dead are the likeness of the people of disobedience; the seeing, the light, the shade and the living are the likeness of the people of obedience. Read this way, darkness stands in one row with blindness, scorching heat and death, and light stands with sight, shade and life.",
+            "bn": "তাবারী গোটা অংশটি সম্পর্কে ইবন আব্বাস (রাঃ)-এর কথা বর্ণনা করেন: এ এক দৃষ্টান্ত, যা আল্লাহ দিয়েছেন আনুগত্যকারী আর অবাধ্য লোকদের জন্য। তারপর তিনি আটটি শব্দকে দুই সারিতে ভাগ করেন। অন্ধ, অন্ধকাররাশি, উত্তাপ আর মৃত হলো নাফরমানদের উপমা। চক্ষুষ্মান, আলো, ছায়া আর জীবিত হলো আনুগত্যকারীদের উপমা। এভাবে পড়লে অন্ধকার দাঁড়ায় অন্ধত্ব, ঝলসানো তাপ আর মৃত্যুর সঙ্গে একই সারিতে। আর আলো দাঁড়ায় দৃষ্টি, ছায়া আর জীবনের পাশে।"
+          },
+          {
+            "en": "At-Tabari also brings Qatada, who calls it a creation in which some are favoured over others. The believer is a servant alive in his trace, alive in his sight, alive in his intention, alive in his deeds; the disbeliever is a dead servant, dead in sight, dead in heart, dead in deed. Ibn Zayd, in the same place, calls the passage a parable and recites 6:122, explaining its light as the guidance by which Allah guided the believer. Al-Qurtubi relays Qatada's summary: these are all parables.",
+            "bn": "তাবারী কাতাদার কথাও আনেন। তাঁর ভাষায়, এ এমন সৃষ্টি যার কতককে কতকের উপর মর্যাদা দেওয়া হয়েছে। মুমিন এমন বান্দা, যার চিহ্ন জীবিত, দৃষ্টি জীবিত, নিয়ত জীবিত, আমল জীবিত। আর কাফির এক মৃত বান্দা: দৃষ্টি মৃত, অন্তর মৃত, আমল মৃত। একই জায়গায় ইবন যায়দ অংশটিকে দৃষ্টান্ত বলেন এবং ৬:১২২ তিলাওয়াত করেন। সেখানকার আলোর ব্যাখ্যা তিনি দেন সেই হিদায়াত দিয়ে, যা দিয়ে আল্লাহ মুমিনকে পথ দেখিয়েছেন। কুরতুবী কাতাদার সারকথাটি বর্ণনা করেন: এগুলো সবই দৃষ্টান্ত।"
+          },
+          {
+            "en": "On the neighbouring pairs the readings divide. For the blind and the seeing (35:19), al-Baghawi first gives the ignorant and the knower, then, as a second view, the believer and the idolater; al-Qurtubi names both. For the living and the dead (35:22), al-Baghawi gives believers and disbelievers, then scholars and the ignorant, and al-Qurtubi cites Ibn Qutayba for the thinking and the ignorant. For shade and heat, at-Tabari and al-Qurtubi report, as one view, Paradise and the Fire, and al-Baghawi states it outright. For darkness and light, every gloss fetched is disbelief and faith.",
+            "bn": "পাশের জোড়াগুলোর বেলায় ব্যাখ্যা ভাগ হয়ে যায়। অন্ধ ও চক্ষুষ্মানের ক্ষেত্রে (৩৫:১৯) বাগাভী প্রথমে বলেন অজ্ঞ ও জ্ঞানী, তারপর দ্বিতীয় মত হিসেবে মুমিন ও মুশরিক। কুরতুবী দুটোই উল্লেখ করেন। জীবিত ও মৃতের ক্ষেত্রে (৩৫:২২) বাগাভী বলেন মুমিন ও কাফির, তারপর আলিম ও অজ্ঞ। কুরতুবী সেখানে ইবন কুতাইবার উদ্ধৃতি দেন: বুদ্ধিমান ও অজ্ঞ। ছায়া ও উত্তাপের ক্ষেত্রে তাবারী ও কুরতুবী একটি মত হিসেবে জান্নাত ও জাহান্নামের কথা বলেন, আর বাগাভী সরাসরি সেটাই বলেন। কিন্তু অন্ধকার ও আলোর বেলায় যত ব্যাখ্যা পাওয়া গেছে, সবই কুফর ও ঈমান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Many Darknesses, a Single Light",
+          "bn": "অন্ধকার অনেক, আলো একটি"
+        },
+        "p": [
+          {
+            "en": "One detail in the four words draws the eye. Az-zulumat is plural, darknesses, while an-nur is singular, light. The Qur'an pairs them this way elsewhere too: He made the darknesses and the light (6:1), He brings people out of the darknesses into the light (2:257), and are the darknesses and the light equal (13:16). None of the commentaries fetched on 35:20 itself remarks on the number. Ibn Kathir and al-Qurtubi do, at two of those other verses, and what follows is reported as their comment there.",
+            "bn": "চারটি শব্দের মধ্যে একটি জিনিস চোখে পড়ে। আয-যুলুমাত বহুবচন, অন্ধকাররাশি। আন-নূর একবচন, আলো। কুরআনের অন্য জায়গাতেও জোড়াটি এভাবেই এসেছে: তিনি সৃষ্টি করেছেন অন্ধকাররাশি ও আলো (৬:১), তিনি মানুষকে অন্ধকাররাশি থেকে আলোর দিকে বের করে আনেন (২:২৫৭), আর অন্ধকাররাশি ও আলো কি সমান (১৩:১৬)? ৩৫:২০ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ বচনের ব্যাপারে কিছু বলে না। ইবন কাসীর ও কুরতুবী বলেছেন ওই আয়াতগুলোর দুটিতে। নিচের কথাগুলো সেখানকার আলোচনা হিসেবেই উল্লেখ করা হলো।"
+          },
+          {
+            "en": "Commenting on 2:257, Ibn Kathir says that Allah made the word light singular and darknesses plural because the truth is one, while disbelief comes in many kinds, all of them false. He cites 6:153 for it: this is My path, straight, so follow it, and do not follow the other ways, lest they scatter you from His way. Commenting on 6:1 he gives a second reason: light is singled out because it is the nobler, as the right side stands singular beside the plural left sides in 16:48.",
+            "bn": "২:২৫৭ আয়াতের আলোচনায় ইবন কাসীর বলেন, আল্লাহ আলো শব্দটিকে একবচনে আর অন্ধকারকে বহুবচনে এনেছেন, কারণ সত্য একটিই, আর কুফরের প্রকার অনেক, যার সবই বাতিল। এর পক্ষে তিনি ৬:১৫৩ উদ্ধৃত করেন: এটাই আমার সরল পথ, তোমরা এরই অনুসরণ করো, অন্য পথগুলোর পেছনে যেয়ো না, নইলে সেগুলো তোমাদেরকে তাঁর পথ থেকে বিচ্ছিন্ন করে দেবে। ৬:১ আয়াতের আলোচনায় তিনি আরেকটি কারণ দেন: আলোকে আলাদা করে একবচনে আনা হয়েছে, কারণ তা অধিক মর্যাদাপূর্ণ। যেমন ১৬:৪৮ আয়াতে ডান দিক এসেছে একবচনে, আর তার পাশে বাম দিক এসেছে বহুবচনে।"
+          },
+          {
+            "en": "Al-Qurtubi, on 6:1, gives two other explanations side by side. One is grammatical: light, like earth in the same verse, is a name for a whole kind, so its singular form already carries the sense of many. The other he records with the words it is said: the darknesses are plural and the light singular because darkness does not pass beyond itself, while light does. Ibn Kathir does not carry his reason over to this verse. If a reader does, the verse sets one light against many ways of being lost.",
+            "bn": "৬:১ আয়াতের আলোচনায় কুরতুবী পাশাপাশি আরও দুটি ব্যাখ্যা দেন। একটি ব্যাকরণগত: একই আয়াতের পৃথিবী শব্দের মতো আলোও একটি গোটা জাতের নাম, তাই এর একবচনের ভেতরেই বহুর অর্থ আছে। অন্যটি তিনি আনেন 'বলা হয়' কথাটি দিয়ে: অন্ধকার বহুবচন আর আলো একবচন, কারণ অন্ধকার নিজের সীমা ছাড়িয়ে যায় না, আলো ছাড়িয়ে যায়। ইবন কাসীর নিজের ব্যাখ্যাটি এ আয়াতে টেনে আনেননি। কোনো পাঠক যদি আনেন, তবে আয়াতটি দাঁড়ায় এমন: একটি আলোর বিপরীতে পথ হারানোর অনেক রাস্তা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the La Comes Twice",
+          "bn": "লা কেন দুবার"
+        },
+        "p": [
+          {
+            "en": "The verse also carries a small question of grammar. It says wa-la az-zulumatu wa-la an-nur, repeating la, not, before each noun, although not equal already governs the pair. Al-Qurtubi relays al-Akhfash Sa'id, who calls the la extra, za'ida, so that the sense is simply nor the darknesses and the light. At-Tabari reports that the scholars of Arabic differed over it. One of the Basra grammarians took the la as extra, since in a sentence like Amr and Zayd are not equal it could be nothing else.",
+            "bn": "আয়াতে ব্যাকরণের একটি ছোট প্রশ্নও আছে। বলা হয়েছে ওয়ালায যুলুমাতু ওয়ালান নূর, প্রতিটি শব্দের আগে আবার লা, অর্থাৎ না, যদিও সমান নয় কথাটা আগে থেকেই জোড়াটির উপর বসে আছে। কুরতুবী আখফাশ সাঈদের মত বর্ণনা করেন: এ লা অতিরিক্ত, যায়িদা। তাহলে অর্থ দাঁড়ায় শুধু এটুকু: অন্ধকাররাশি ও আলোও নয়। তাবারী জানান, আরবি ভাষাবিদেরা এ নিয়ে একমত হননি। বসরার এক ব্যাকরণবিদ লা-কে অতিরিক্ত ধরেছেন। কারণ আমর আর যায়দ সমান নয়, এমন বাক্যে লা অতিরিক্ত ছাড়া আর কিছু হতে পারে না।"
+          },
+          {
+            "en": "Another, at-Tabari continues, held that when the la is not repeated with the and, it is dropped because the first one suffices; when it is repeated, the point is that each of the two fails to equal its fellow. The blind does not equal the seeing, and the seeing does not equal the blind. On the first view the second la adds nothing to the sense; on the second it turns the denial in both directions. At-Tabari sets the two side by side, and the passage fetched does not choose between them.",
+            "bn": "তাবারী আরও বলেন, অন্য একজনের মত ছিল ভিন্ন। ওয়া-এর সঙ্গে লা না এলে বুঝতে হবে প্রথম লা-ই যথেষ্ট বলে তা বাদ পড়েছে। আর লা আবার এলে উদ্দেশ্য হলো, দুটির প্রত্যেকটিই অপরটির সমান নয়। অন্ধ চক্ষুষ্মানের সমান নয়, আবার চক্ষুষ্মানও অন্ধের সমান নয়। প্রথম মতে দ্বিতীয় লা অর্থে কিছু যোগ করে না। দ্বিতীয় মতে এটি অস্বীকৃতিকে দুই দিকেই ঘুরিয়ে দেয়। তাবারী দুটি মত পাশাপাশি রাখেন, আর যে অংশটি দেখা হয়েছে সেখানে তিনি কোনোটিকে বেছে নেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From the Eye to the Heart",
+          "bn": "চোখ থেকে অন্তরে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di opens the passage by saying that Allah declares opposites unequal, both in His wisdom and in what He placed in the natures of His servants. Then he draws the argument out. It is settled among you, beyond any doubt, that these things named are not equal; so know that the inequality of opposites in meaning is all the more certain, awla wa-awla. The believer and the disbeliever are not equal, he says, nor the guided and the astray, the knower and the ignorant, the people of Paradise and the people of the Fire.",
+            "bn": "সা'দী অংশটি শুরু করেন এ কথা দিয়ে যে, আল্লাহ জানিয়ে দিচ্ছেন বিপরীত জিনিস সমান নয়, তাঁর হিকমতেও নয়, আর বান্দাদের স্বভাবে তিনি যা রেখে দিয়েছেন তাতেও নয়। তারপর তিনি যুক্তিটা খুলে বলেন। তোমাদের কাছে এ তো নিঃসন্দেহে প্রতিষ্ঠিত যে এখানে যা যা বলা হলো, সেগুলো সমান নয়। তাহলে জেনে রাখো, অর্থের জগতের বিপরীতগুলো সমান না হওয়া আরও বেশি নিশ্চিত, আওলা ওয়া আওলা। তাঁর ভাষায়, মুমিন ও কাফির সমান নয়, হিদায়াতপ্রাপ্ত ও পথভ্রষ্ট সমান নয়, আলিম ও অজ্ঞ সমান নয়, জান্নাতবাসী ও জাহান্নামবাসীও সমান নয়।"
+          },
+          {
+            "en": "Between these, as-Sa'di adds, lies a gap whose size only Allah knows. Once the ranks are known and things told apart, and it is plain which of two opposites deserves to be striven for, let the resolute choose for himself what is worthier of him. Maududi, on the quranx page for this group of verses, reads the pairs as setting the present and the future of the two side by side: one person wanders in the darknesses of guesswork and will not use the candle the Prophet ﷺ has lit, while the other sees by it at once.",
+            "bn": "সা'দী যোগ করেন, এদের মাঝে যে ব্যবধান, তার পরিমাণ কেবল আল্লাহই জানেন। স্তরগুলো জানা হয়ে গেলে, জিনিসগুলো আলাদা করে চেনা গেলে, আর কোন বিপরীতটি পাওয়ার জন্য প্রতিযোগিতা করা উচিত তা স্পষ্ট হয়ে গেলে, বিচক্ষণ মানুষ যেন নিজের জন্য সেটাই বেছে নেয় যা তার পক্ষে বেশি যোগ্য। কুরানএক্স সাইটে এ আয়াতগুচ্ছের পাতায় মওদূদী জোড়াগুলোকে পড়েন দুজনের বর্তমান ও ভবিষ্যতের তুলনা হিসেবে। একজন অনুমান আর ধারণার অন্ধকারে ঘুরে বেড়ায়, নবী ﷺ যে বাতি জ্বেলেছেন তা কাজে লাগাতে চায় না। অন্যজন সে আলো দেখামাত্র পথ চিনে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Each Road Comes Out",
+          "bn": "কোন পথ কোথায় গিয়ে থামে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir follows both walkers to the end of their roads. The believer, walking in light, goes on until he comes to rest in Gardens with shade and springs. The disbeliever, walking in darknesses, wanders in his error until it brings him to scorching heat, searing wind and boiling water, and to a shade of black smoke, neither cool nor kind (56:43 and 56:44). His telling thus carries the light and the darkness of this verse on into the shade and the heat of the next.",
+            "bn": "ইবন কাসীর দুই পথিককেই তাদের পথের শেষ পর্যন্ত অনুসরণ করেন। মুমিন আলোয় হাঁটতে হাঁটতে শেষে স্থির হয় ছায়া ও ঝরনাধারার বাগানে। কাফির অন্ধকারে হাঁটে, নিজের গোমরাহিতে ঘুরতে থাকে, শেষে তা তাকে পৌঁছে দেয় তীব্র উত্তাপ, ঝলসানো বাতাস আর ফুটন্ত পানির কাছে, এমন কালো ধোঁয়ার ছায়ায় যা শীতলও নয়, আরামদায়কও নয় (৫৬:৪৩ ও ৫৬:৪৪)। এভাবে তাঁর বর্ণনায় এ আয়াতের আলো আর অন্ধকার গিয়ে মেশে পরের আয়াতের ছায়া আর উত্তাপে।"
+          },
+          {
+            "en": "The passage then closes on who gives the light. Allah makes hear whom He wills (35:22): Ibn Kathir explains it as guiding them to hear the proof, accept it and yield to it, and as-Sa'di as a hearing of understanding and acceptance, because it is He who guides. Ma'arif al-Qur'an adds that the hearing denied to those in the graves is the hearing that benefits, and that the verse has nothing to do with the separate question of whether the dead hear. The Prophet's task, as-Sa'di says, is to warn and convey, whether or not it is accepted.",
+            "bn": "অংশটি শেষ হয় আলো কে দেন, সে কথায়। আল্লাহ যাকে ইচ্ছা শোনান (৩৫:২২)। ইবন কাসীরের ব্যাখ্যায় এর মানে, তিনি তাদেরকে প্রমাণ শোনার, তা মেনে নেওয়ার আর তার কাছে মাথা নত করার পথ দেখান। সা'দী বলেন, এ হলো বোঝা ও গ্রহণ করার শোনা, কারণ হিদায়াত দেন তিনিই। মাআরিফুল কুরআন যোগ করে, কবরবাসীদের যে শোনানো যায় না বলা হয়েছে, তা উপকারী শোনা। মৃতরা শোনে কি না, সেটা আলাদা প্রশ্ন, এ আয়াতের সঙ্গে তার কোনো সম্পর্ক নেই। সা'দীর ভাষায়, নবী ﷺ-এর কাজ সতর্ক করা আর পৌঁছে দেওয়া, কেউ গ্রহণ করুক বা না করুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Word for Others",
+          "bn": "অন্যকে বলার শব্দ নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes two states, and the commentators read it as a parable of disbelief and faith. It names no one and licenses nothing against any living person or community. It gives no reader the right to call a neighbour, a relative or another people blind, dead or sunk in darkness. Ibn Kathir speaks of those the Prophet cannot guide as people on whom wretchedness has been written, and that is knowledge Allah keeps; no passage fetched puts a living name to it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি দুটি অবস্থার বর্ণনা দেয়, আর তাফসীরকারেরা একে কুফর ও ঈমানের দৃষ্টান্ত হিসেবে পড়েন। এতে কারও নাম নেই, আর কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতিও এ আয়াত দেয় না। প্রতিবেশী, আত্মীয় বা অন্য কোনো জাতিকে অন্ধ, মৃত বা অন্ধকারে ডুবে থাকা বলার অধিকার এ আয়াত কোনো পাঠককে দেয় না। ইবন কাসীর যাদের কথা বলেন, যাদের নবী ﷺ হিদায়াত দিতে পারেন না, তারা এমন লোক যাদের জন্য দুর্ভাগ্য লেখা হয়ে গেছে। সে জ্ঞান আল্লাহর কাছেই থাকে। যে অংশগুলো দেখা হয়েছে, তার কোথাও কোনো জীবিত মানুষের নাম তাতে বসানো হয়নি।"
+          },
+          {
+            "en": "None of the commentaries fetched attaches a hadith to this verse; the narration al-Qurtubi brings nearby concerns the heat of 35:21 and is not used here. What the verse leaves the reader is a question about himself. The light it names is one, and on Ibn Kathir's reading of 2:257 it is the truth, while the darknesses are many. Allah is the ally of those who believe and brings them out of the darknesses into the light (2:257). The sensible response is to ask Him for that light, and to walk by it.",
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করে না। কাছাকাছি জায়গায় কুরতুবী যে বর্ণনাটি আনেন, তা ৩৫:২১ আয়াতের উত্তাপ নিয়ে, তাই এখানে তা নেওয়া হয়নি। আয়াতটি পাঠকের হাতে রেখে যায় নিজেকে নিয়েই একটি প্রশ্ন। এখানে যে আলোর কথা, তা একটিই। ২:২৫৭ আয়াতের আলোচনায় ইবন কাসীরের ব্যাখ্যা অনুযায়ী সে আলো হলো সত্য, আর অন্ধকার অনেক। আল্লাহ মুমিনদের অভিভাবক, তিনি তাদেরকে অন্ধকাররাশি থেকে আলোর দিকে বের করে আনেন (২:২৫৭)। তাই বুদ্ধিমানের কাজ হলো তাঁর কাছে সেই আলো চাওয়া, আর সে আলোয় পথ চলা।"
+          }
+        ]
+      }
+    ]
+  },
   "35:24": {
     "sections": [
       {

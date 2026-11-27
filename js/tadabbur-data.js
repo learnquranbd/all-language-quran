@@ -36633,6 +36633,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Let every rain that revives dry ground remind you that Allah will raise the dead just as surely, and live today ready for that rising.",
     "lessonBn": "শুকনো মাটিকে বাঁচিয়ে তোলা প্রতিটি বৃষ্টি আপনাকে মনে করিয়ে দিক, আল্লাহ ঠিক তেমনি নিশ্চিতভাবে মৃতদের ওঠাবেন। আর সেই ওঠার জন্য আজ থেকেই প্রস্তুত হয়ে বাঁচুন।"
+  },
+  "35:20": {
+    "reflectionEn": "Four words, and not even a verb of their own: nor the darknesses, nor the light. The verse leans on the one before it, which has just said that the blind and the seeing are not equal, and adds a pair no one would ever argue over. Nobody mistakes midnight for noon. The point is that if your eyes refuse to call these two the same, your heart should refuse even more firmly to treat faith and its absence as a matter of taste. Notice, too, that the darknesses come many and the light comes alone. There are countless ways to be lost and one way to be found. Which of the many am I walking in today?",
+    "reflectionBn": "মাত্র চারটি শব্দ, নিজের কোনো ক্রিয়াও নেই: আর অন্ধকাররাশিও নয়, আলোও নয়। আয়াতটি ভর দিয়েছে আগের আয়াতের উপর, যেখানে বলা হয়েছে অন্ধ আর চক্ষুষ্মান সমান নয়। এখানে যোগ হলো এমন এক জোড়া, যা নিয়ে কেউ কখনো তর্ক করে না। মাঝরাতকে কেউ দুপুর ভাবে না। কথাটা হলো, আপনার চোখ যদি এ দুটিকে এক বলতে রাজি না হয়, তবে ঈমান আর ঈমানহীনতাকে রুচির ব্যাপার ভাবতে আপনার মনের আরও জোরে আপত্তি করা উচিত। আরেকটা জিনিস খেয়াল করুন। অন্ধকার এসেছে বহুবচনে, আলো এসেছে একা। পথ হারানোর উপায় অগণিত, পথ পাওয়ার উপায় একটাই। আজ আমি সেই অনেকগুলোর কোনটিতে হাঁটছি?",
+    "pointsEn": [
+      "Where in my life do I treat guidance and its absence as if the difference were only a matter of preference?",
+      "Which of the many darknesses, a habit, a grudge, a crowd I follow, keeps me from the one light I already know about?",
+      "I see the difference between right and wrong clearly in small things; why do I let it blur in the things that matter most?",
+      "Do I hold the light I have been given so that others can see by it, or only so that I can look down on them?",
+      "If light is something Allah gives, how often do I actually ask Him for it rather than assume it is already mine?"
+    ],
+    "pointsBn": [
+      "জীবনের কোন জায়গায় আমি হিদায়াত থাকা আর না থাকার পার্থক্যকে নিছক পছন্দ-অপছন্দের ব্যাপার বানিয়ে ফেলি?",
+      "অনেক অন্ধকারের কোনটা আমাকে আটকে রেখেছে? কোনো অভ্যাস, কোনো বিদ্বেষ, নাকি যে দলের পেছনে চলি সেই দল? যে আলোর কথা আমি আগে থেকেই জানি, তার কাছে পৌঁছাতে দিচ্ছে না কোনটা?",
+      "ছোট ব্যাপারে ঠিক-বেঠিকের পার্থক্য আমি পরিষ্কার দেখি। তাহলে সবচেয়ে বড় ব্যাপারগুলোতে সেটাকে ঝাপসা হতে দিই কেন?",
+      "যে আলো আমাকে দেওয়া হয়েছে, তা কি এমনভাবে ধরে রাখি যাতে অন্যরাও তাতে পথ দেখে? নাকি শুধু অন্যদের ছোট করে দেখার জন্য?",
+      "আলো যদি আল্লাহর দান হয়, তবে কত বার আমি সত্যিই তাঁর কাছে তা চাই, আর কত বার ধরে নিই যে তা আমার কাছে আছেই?"
+    ],
+    "lessonEn": "Faith and disbelief are as unlike as darkness and light; the ways to be lost are many and the way to be found is one, so ask Allah for His light.",
+    "lessonBn": "ঈমান আর কুফর অন্ধকার ও আলোর মতোই আলাদা। পথ হারানোর উপায় অনেক, পথ পাওয়ার উপায় একটাই, তাই আল্লাহর কাছে তাঁর আলো চান।"
   }
 };
 
