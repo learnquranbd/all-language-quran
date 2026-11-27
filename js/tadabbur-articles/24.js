@@ -1807,6 +1807,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "24:48": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Profession to Summons",
+          "bn": "দাবি থেকে ডাক পর্যন্ত"
+        },
+        "p": [
+          {
+            "en": "The passage turns on two acts of turning. In 24:47 a group say, \"We have believed in Allah and in the Messenger, and we obey,\" then a party of them turns away after that, and the verse closes: those are not believers. Verse 24:48 names the moment where the turning shows itself. When they are called to Allah and His Messenger to judge between them, at once a party of them turns aside. A claim of obedience, made in general, meets its first particular case, and the case is a quarrel that needs a verdict.",
+            "bn": "এই অংশটা দাঁড়িয়ে আছে দুটি মুখ ফেরানোর উপর। ২৪:৪৭ আয়াতে একদল বলে, আমরা আল্লাহ ও রাসূলের প্রতি ইমান এনেছি এবং আমরা মেনে চলি। এরপরই তাদের একদল মুখ ফিরিয়ে নেয়, আর আয়াতটি শেষ হয় এই কথায়: তারা মু'মিন নয়। ২৪:৪৮ আয়াত দেখিয়ে দেয়, মুখ ফেরানোটা ঠিক কোন মুহূর্তে ধরা পড়ে। তাদের মাঝে ফয়সালার জন্য যখন আল্লাহ ও তাঁর রাসূলের দিকে ডাকা হয়, তখনই তাদের একদল সরে দাঁড়ায়। আনুগত্যের দাবি এতক্ষণ ছিল সাধারণ কথা। এবার তার সামনে এল প্রথম বাস্তব ঘটনা, আর ঘটনাটা হলো একটা বিবাদ, যার রায় দরকার।"
+          },
+          {
+            "en": "Just before, 24:46 spoke of distinct verses sent down, and of Allah guiding whom He wills to a straight path. So the passage moves from signs made plain, to a profession of faith, to a summons in which the plain signs are applied to one dispute. What 24:48 records is not ignorance. The ruling is available and the judge is present among them. A party of them simply will not come. The next verse, 24:49, shows what the refusal is really about, and 24:50 asks its reason aloud.",
+            "bn": "তার একটু আগে ২৪:৪৬ আয়াতে এসেছে সুস্পষ্ট আয়াত নাজিলের কথা, আর এই কথা যে আল্লাহ যাকে চান সরল পথে চালান। তাহলে ধারাটা এমন: প্রথমে স্পষ্ট নিদর্শন, তারপর ইমানের দাবি, তারপর এমন এক ডাক, যেখানে সেই স্পষ্ট নিদর্শন একটা নির্দিষ্ট বিবাদে খাটানো হবে। ২৪:৪৮ আয়াত যা তুলে ধরে, তা অজ্ঞতা নয়। বিধান হাতের কাছেই আছে, বিচারকও তাদের মাঝেই আছেন। তবু তাদের একদল আসবে না, ব্যস। আসল ব্যাপারটা কী, তা খুলে দেয় পরের আয়াত ২৪:৪৯। আর ২৪:৫০ আয়াত কারণটা নিয়ে সরাসরি প্রশ্ন তোলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Called to the Book",
+          "bn": "কিতাবের দিকে আহ্বান"
+        },
+        "p": [
+          {
+            "en": "What does it mean to be called to Allah? At-Tabari answers directly: when these hypocrites are called to the Book of Allah and to His Messenger, so that he may judge between them, by the ruling of Allah, in what they had quarrelled over. Al-Muyassar puts the setting in one word, their disputes: they are called, in their quarrels, to what is in the Book of Allah and to His Messenger. Both read the summons as concrete. Two parties are at odds, and the call is to settle it by revelation through the Prophet ﷺ.",
+            "bn": "আল্লাহর দিকে ডাকা মানে কী? তাবারী সরাসরি উত্তর দেন। এই মুনাফিকদের যখন আল্লাহর কিতাব ও তাঁর রাসূলের দিকে ডাকা হয়, যাতে তিনি তাদের ঝগড়ার বিষয়ে আল্লাহর বিধান অনুযায়ী তাদের মাঝে ফয়সালা করেন। মুয়াসসার পুরো প্রেক্ষাপটটা ধরে দেয় একটি শব্দে: তাদের বিবাদ। নিজেদের ঝগড়ায় তাদের ডাকা হয় আল্লাহর কিতাবে যা আছে তার দিকে, আর তাঁর রাসূলের দিকে। দুজনের কাছেই ডাকটা বাস্তব একটা ব্যাপার। দুই পক্ষের মধ্যে বিরোধ বেধেছে, আর ডাকা হচ্ছে নবী ﷺ-এর মাধ্যমে ওহির আলোকে তা মিটিয়ে নিতে।"
+          },
+          {
+            "en": "Ibn Kathir widens the frame. For him the call is that they are asked to follow the guidance in what Allah sent down to His Messenger; the dispute is one place where that guidance meets them. As-Sa'di keeps the courtroom in view: when a case arises between them and anyone else, and they are called to the ruling of Allah and His Messenger. Across these readings the call is the same call. It invites a person to let what was revealed decide a matter in which he has something to lose.",
+            "bn": "ইবন কাসীর ছবিটা আরও বড় করে দেখেন। তাঁর মতে ডাকটা হলো, আল্লাহ তাঁর রাসূলের উপর যা নাজিল করেছেন, তার হিদায়াত মেনে চলার আহ্বান। বিবাদ সেই হিদায়াতের মুখোমুখি হওয়ার একটা জায়গামাত্র। সা'দী বিচারের দৃশ্যটাই সামনে রাখেন: যখন তাদের আর অন্য কারও মাঝে কোনো মামলা দাঁড়ায়, আর তাদের ডাকা হয় আল্লাহ ও তাঁর রাসূলের ফয়সালার দিকে। ব্যাখ্যাগুলো আলাদা, কিন্তু ডাক একটাই। মানুষকে বলা হচ্ছে, যে ব্যাপারে তার কিছু হারানোর ভয় আছে, সেখানে নাজিল হওয়া বিধানকেই রায় দিতে দিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verb Kept Singular",
+          "bn": "একবচনে রাখা ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "The wording holds a small grammatical point. Two are named, Allah and His Messenger, yet the verb is liyaḥkuma, that he may judge, not the dual liyaḥkumā. Al-Qurtubi explains it: the one meant as judge is the Messenger ﷺ, and Allah is mentioned first to magnify Him and to open the speech. Al-Baghawi glosses the verb the same way in fewer words: that the Messenger may judge between them by the ruling of Allah. The same pairing returns in 24:50, where they fear that Allah and His Messenger will wrong them.",
+            "bn": "শব্দচয়নে ব্যাকরণের একটা ছোট কথা আছে। নাম এসেছে দুটি, আল্লাহ ও তাঁর রাসূল। অথচ ক্রিয়াটি লিয়াহকুমা, অর্থাৎ যাতে তিনি ফয়সালা করেন। দ্বিবচনের লিয়াহকুমা নয়। কুরতুবী এর ব্যাখ্যা দেন: বিচারক হিসেবে এখানে উদ্দেশ্য রাসূল ﷺ। আল্লাহর নাম আগে এসেছে তাঁর মর্যাদা বোঝাতে আর কথার সূচনা হিসেবে। বাগাভী আরও কম কথায় একই অর্থ করেন: যাতে রাসূল আল্লাহর বিধান অনুযায়ী তাদের মাঝে ফয়সালা করেন। একই জোড়া আবার এসেছে ২৪:৫০ আয়াতে, যেখানে তারা ভয় পায় যে আল্লাহ ও তাঁর রাসূল তাদের উপর অন্যায় করবেন।"
+          },
+          {
+            "en": "The point is more than grammar. Al-Baghawi's gloss joins the two names into one act: the judge is the Messenger, and the ruling he gives is Allah's. There are not two courts here, one divine and one human, from which a man might choose the softer. To turn aside from the Prophet's ﷺ verdict in this setting is to turn aside from the ruling of Allah that he delivers. That is why the verse can say, without any change of subject, that they were called to Allah and His Messenger.",
+            "bn": "কথাটা শুধু ব্যাকরণের নয়। বাগাভীর ব্যাখ্যায় দুটি নাম মিলে যায় একটি কাজে। বিচারক রাসূল, আর তিনি যে রায় দেন, তা আল্লাহর বিধান। এখানে দুটো আলাদা আদালত নেই, একটা আল্লাহর আর একটা মানুষের, যেখান থেকে কেউ নরমটা বেছে নিতে পারে। এই প্রেক্ষাপটে নবী ﷺ-এর রায় থেকে মুখ ফেরানো মানে তাঁর মুখে আসা আল্লাহর বিধান থেকেই মুখ ফেরানো। এ কারণেই আয়াতটি বিষয় না বদলেই বলতে পারে, তাদের ডাকা হয়েছিল আল্লাহ ও তাঁর রাসূলের দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At Once, a Party Turns",
+          "bn": "ডাক শুনেই একদল সরে যায়"
+        },
+        "p": [
+          {
+            "en": "The verse turns on one small word, used twice. Wa-idhā du'ū: and when they are called. Then, idhā farīqun minhum mu'riḍūn, which the translation used here renders as \"at once a party of them turns aside.\" The second idhā carries the turning straight after the call, with no interval between them. Nothing is said of deliberation, of hearing the case out, of weighing the evidence. The summons is heard, and the turning is simply there. The verse describes a reflex, the kind that shows what a person has decided long before the moment comes.",
+            "bn": "আয়াতটি ঘুরে আছে একটি ছোট শব্দের উপর, যা এসেছে দুবার। ওয়া ইযা দুঊ: আর যখন তাদের ডাকা হয়। তারপর ইযা ফারীকুম মিনহুম মু'রিদূন। এখানে ব্যবহৃত অনুবাদ এর অর্থ করেছে: সঙ্গে সঙ্গে তাদের একদল মুখ ফিরিয়ে নেয়। দ্বিতীয় ইযা ডাকের ঠিক পরেই মুখ ফেরানোকে হাজির করে, মাঝে কোনো বিরতি রাখে না। ভেবে দেখা, পুরো মামলা শোনা, প্রমাণ যাচাই করা, এসবের কোনো উল্লেখ নেই। ডাক কানে এসেছে, আর মুখ ফেরানো তৈরি। আয়াতটি এক অভ্যাসের ছবি আঁকে। মুহূর্তটা আসার অনেক আগেই মানুষ কী ঠিক করে রেখেছে, এমন অভ্যাসই তা দেখিয়ে দেয়।"
+          },
+          {
+            "en": "Two further words deserve attention. Farīqun minhum is a party of them, not all of them; the same words stood in 24:47. The verse does not sweep every professed believer into the charge. And where 24:47 used a verb, yatawallā, turns away, this verse ends on mu'riḍūn, a participle: they are ones who turn aside. The first reports something they did. The second reads like a description of where they stand. Al-Muyassar keeps the same shape in prose: a party of them is turning aside, not accepting the ruling of Allah and of His Messenger.",
+            "bn": "আরও দুটি শব্দ খেয়াল করার মতো। ফারীকুম মিনহুম মানে তাদের একদল, সবাই নয়। ২৪:৪৭ আয়াতেও এই একই শব্দ ছিল। দাবি যারা করেছে, তাদের সবাইকে আয়াতটি এই অভিযোগে টেনে আনে না। আবার ২৪:৪৭ আয়াতে এসেছিল একটি ক্রিয়া, ইয়াতাওয়াল্লা, অর্থাৎ মুখ ফিরিয়ে নেয়। এ আয়াত শেষ হয়েছে মু'রিদূন দিয়ে, যা কোনো একবারের কাজ নয়, পরিচয় বোঝায়: তারা মুখ ফিরিয়ে থাকা লোক। প্রথমটি জানায় তারা কী করেছে। দ্বিতীয়টি যেন বলে তারা কোথায় দাঁড়িয়ে আছে। মুয়াসসারও গদ্যে এই ধরন রাখে: তাদের একদল মুখ ফিরিয়ে আছে, আল্লাহ ও তাঁর রাসূলের ফয়সালা কবুল করে না।"
+          },
+          {
+            "en": "From what, exactly, do they turn? Al-Baghawi records two answers. They turn from the ruling itself, he says first; and it has been said, from answering the call at all. The first group would come and then reject the verdict; the second would not even present themselves. At-Tabari names what is refused in one phrase: they turn from accepting the truth and from being content with the ruling of the Messenger ﷺ. Al-Muyassar adds the sharpest clause of all. What they refuse, it says, is the truth in which there is no doubt.",
+            "bn": "ঠিক কী থেকে তারা মুখ ফেরায়? বাগাভী দুটি উত্তর উল্লেখ করেন। প্রথমে বলেন, ফয়সালা থেকেই। তারপর বলেন, কারও মতে ডাকে সাড়া দেওয়া থেকেই। প্রথম অর্থে তারা আসে, তারপর রায় প্রত্যাখ্যান করে। দ্বিতীয় অর্থে তারা হাজিরই হয় না। কী প্রত্যাখ্যাত হয়, তাবারী তা একটি বাক্যে বলে দেন: তারা মুখ ফেরায় হক কবুল করা থেকে এবং রাসূলুল্লাহ ﷺ-এর ফয়সালায় সন্তুষ্ট থাকা থেকে। মুয়াসসার যোগ করে সবচেয়ে ধারালো কথাটি। তারা যা প্রত্যাখ্যান করে, তা এমন হক, যাতে কোনো সন্দেহ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing the Verdict Already",
+          "bn": "রায় আগেই জানা ছিল"
+        },
+        "p": [
+          {
+            "en": "Why would anyone flee a just judge? As-Sa'di gives the reason in a clause that reverses what one might expect. They turn aside, he says, because they know that the right is against them, and that the Shari'a rules only by what corresponds to the facts. The refusal is not a doubt about the judge's fairness. It is certainty about it. A man who expects to be wronged at least has a grievance; a man who expects to be judged correctly, and runs, has only his own claim to protect.",
+            "bn": "ন্যায়পরায়ণ বিচারকের কাছ থেকে কেউ পালাবে কেন? সা'দী কারণটা এমন এক বাক্যে বলেন, যা আমাদের প্রত্যাশা উল্টে দেয়। তারা মুখ ফেরায়, কারণ তারা জানে হক তাদের বিপক্ষে, আর শরীয়ত কেবল বাস্তবে যা ঘটেছে, তার সঙ্গে মিলিয়েই ফয়সালা করে। কাজেই এই অস্বীকার বিচারকের ন্যায্যতা নিয়ে সন্দেহ থেকে আসেনি। এসেছে সেই ন্যায্যতা সম্পর্কে নিশ্চিত জ্ঞান থেকে। যে ভাবে তার উপর অন্যায় হবে, তার অন্তত একটা নালিশ থাকে। কিন্তু যে জানে তার বিচার ঠিকঠাকই হবে, তবু পালায়, তার রক্ষা করার মতো আছে শুধু নিজের দাবিটুকু।"
+          },
+          {
+            "en": "As-Sa'di also says what such people wanted instead. They want the rulings of the Jahiliyya, he writes, and prefer rules not drawn from the Shari'a to its rulings. Ibn Kathir names a second motive beside knowledge. When they are asked to follow the guidance, he says, they turn from it and hold themselves too proud to follow it. Knowledge of one's guilt and pride in one's own judgement are not rival explanations here. Each commentator names a different root of the same refusal, one in the mind and one in the self.",
+            "bn": "এমন লোকেরা এর বদলে কী চায়, সা'দী তাও বলেন। তারা চায় জাহিলিয়াতের বিধান, আর শরীয়তের বিধানের চেয়ে শরীয়তের বাইরের নিয়মকে বেশি পছন্দ করে। ইবন কাসীর জ্ঞানের পাশাপাশি দ্বিতীয় আরেকটি কারণ বলেন। হিদায়াত মানতে বলা হলে তারা তা থেকে মুখ ফেরায়, আর মনে মনে নিজেদের এত বড় ভাবে যে তা মেনে চলতে রাজি হয় না। নিজের দোষ জানা আর নিজের বিচারবুদ্ধি নিয়ে অহংকার, এখানে এ দুটো পরস্পরবিরোধী ব্যাখ্যা নয়। একই অস্বীকারের দুটি আলাদা শিকড় দুজন তাফসীরকার দেখান, একটা বুদ্ধিতে, অন্যটা নফসে।"
+          },
+          {
+            "en": "The following verse bears this out from the other side. \"But if the right is theirs, they come to him in prompt obedience\" (24:49). Ibn Kathir's abridged commentary on the passage draws the conclusion: such a man's acceptance at the beginning was never because he believed the ruling to be true, but because it happened to agree with his desire. So the same person who flees in 24:48 can be seen hurrying forward in 24:49. What decides his direction is not the judge but the expected outcome.",
+            "bn": "পরের আয়াত উল্টো দিক থেকে কথাটা প্রমাণ করে: কিন্তু হক যদি তাদের পক্ষে থাকে, তারা বিনীত হয়ে তাঁর কাছে ছুটে আসে (২৪:৪৯)। এই অংশের উপর ইবন কাসীরের সংক্ষিপ্ত তাফসীর সিদ্ধান্ত টানে এভাবে: শুরুতে এমন লোকের মেনে নেওয়াটা কখনোই এ জন্য ছিল না যে সে ফয়সালাকে সত্য বলে বিশ্বাস করত। ছিল এ জন্য যে তা ঘটনাক্রমে তার মনের চাওয়ার সঙ্গে মিলে গিয়েছিল। তাই যে লোক ২৪:৪৮ আয়াতে পালায়, তাকেই ২৪:৪৯ আয়াতে ছুটে আসতে দেখা যায়। তার পথ ঠিক করে দেয় বিচারক নয়, বরং রায় কোন দিকে যাবে, সেই অনুমান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Pattern in an-Nisa'",
+          "bn": "সূরা নিসায় একই ছাঁচ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets this verse beside two others. This is like His saying, he writes, and quotes 4:60 and 4:61. The first describes those who claim to have believed in what was revealed to the Prophet ﷺ and what was revealed before him: \"They wish to refer legislation to ṭāghūt, while they were commanded to reject it.\" The second gives the scene of the summons: \"And when it is said to them, 'Come to what Allah has revealed and to the Messenger,' you see the hypocrites turning away from you in aversion.\"",
+            "bn": "ইবন কাসীর এ আয়াতের পাশে আরও দুটি আয়াত রাখেন। তিনি লেখেন, এটা আল্লাহর ঐ বাণীর মতো, তারপর উদ্ধৃত করেন ৪:৬০ ও ৪:৬১। প্রথম আয়াতে আছে তাদের কথা, যারা দাবি করে, নবী ﷺ-এর উপর যা নাজিল হয়েছে আর তাঁর আগে যা নাজিল হয়েছে, তার উপর তারা ইমান এনেছে। অথচ তারা বিচার নিয়ে যেতে চায় তাগূতের কাছে, যদিও তাকে অস্বীকার করার হুকুম তাদের দেওয়া হয়েছিল। দ্বিতীয় আয়াত ডাকের দৃশ্যটা দেখায়: যখন তাদেরকে বলা হয়- তোমরা আল্লাহর অবতীর্ণ কিতাবের এবং রসূলের দিকে এসো, তখন তুমি ঐ মুনাফিকদেরকে দেখবে, তারা তোমা হতে ঘৃণা ভরে মুখ ফিরিয়ে নিচ্ছে।"
+          },
+          {
+            "en": "Set side by side, the two passages share their parts. Each begins with a claim of faith: yaz'umūna annahum āmanū in an-Nisa', āmannā in an-Nur. Each has a summons, to what Allah revealed and to the Messenger. Each ends in a turning, yaṣuddūna there and mu'riḍūn here. The comparison is Ibn Kathir's, and it shows that 24:48 is not an isolated remark. The Qur'an draws this figure in more than one surah: a profession of faith that holds until a verdict comes into view.",
+            "bn": "দুটি অংশ পাশাপাশি রাখলে দেখা যায়, গঠন একই। দুটোরই শুরু ইমানের দাবি দিয়ে: সূরা নিসায় ইয়াযউমূনা আন্নাহুম আমানূ, অর্থাৎ তারা দাবি করে যে ইমান এনেছে, আর সূরা নূরে আমান্না, আমরা ইমান এনেছি। দুটোতেই আছে আল্লাহর নাজিল করা বিধান ও রাসূলের দিকে ডাক। দুটোরই শেষ মুখ ফেরানোয়, সেখানে ইয়াসুদ্দূনা, এখানে মু'রিদূন। তুলনাটা ইবন কাসীরের। এ থেকে বোঝা যায়, ২৪:৪৮ আয়াত কোনো বিচ্ছিন্ন মন্তব্য নয়। কুরআন একাধিক সূরায় এই ছবি আঁকে: এমন ইমানের দাবি, যা টিকে থাকে ঠিক ততক্ষণ, যতক্ষণ রায়ের প্রশ্ন সামনে আসে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports Without a Chain",
+          "bn": "সনদহীন বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relays an occasion for the verse, introducing it with the words \"at-Tabari and others said\". In it the verse is tied to a hypocrite named Bishr and a dispute over land with a Jewish man, who wished to take the case to the Prophet ﷺ. Al-Qurtubi gives no chain of narrators for this report and no grading of it. It is mentioned here so that the reader knows it exists, not as a fact about the verse on which anything can be built.",
+            "bn": "কুরতুবী এ আয়াতের একটি শানে নুযূল উল্লেখ করেন, শুরুতে বলেন: তাবারী ও অন্যরা বলেছেন। সেই বর্ণনায় আয়াতটিকে জুড়ে দেওয়া হয়েছে বিশর নামের এক মুনাফিকের সঙ্গে, এক ইহুদি লোকের সঙ্গে জমি নিয়ে যার বিরোধ ছিল। ইহুদি লোকটি মামলাটা নবী ﷺ-এর কাছে নিতে চেয়েছিল। কুরতুবী এ বর্ণনার কোনো সনদ দেন না, কোনো মানও বলেন না। পাঠক যেন জানেন এমন একটা বর্ণনা আছে, শুধু সেজন্যই এখানে এর উল্লেখ। আয়াত সম্পর্কে এমন কোনো তথ্য হিসেবে নয়, যার উপর কিছু দাঁড় করানো যায়।"
+          },
+          {
+            "en": "He then adds a second report, introduced with \"it has been said\" and credited to al-Mawardi, which names a different man and a dispute over water and land with 'Ali ibn Abi Talib (RA). This one too comes with no chain and no grading. The two reports disagree about whom the verse concerns, and neither can be checked from what was read for this verse. So nothing in this article rests on either. The verse itself names no one. It describes a kind of conduct, and leaves the names unspoken.",
+            "bn": "এরপর তিনি দ্বিতীয় একটি বর্ণনা যোগ করেন, শুরু করেন 'বলা হয়েছে' কথাটি দিয়ে, আর উৎস হিসেবে মাওয়ার্দীর নাম বলেন। সেখানে নাম এসেছে অন্য এক লোকের, আর বিরোধ ছিল আলী ইবন আবী তালিব (রাঃ)-এর সঙ্গে পানি ও জমি নিয়ে। এরও কোনো সনদ নেই, কোনো মানও বলা হয়নি। আয়াতটি কাকে নিয়ে, এ প্রশ্নে দুই বর্ণনা একমত নয়। আর এ আয়াতের জন্য যা পড়া হয়েছে, তা দিয়ে কোনোটাই যাচাই করা যায় না। তাই এ আলোচনার কিছুই এ দুটির উপর দাঁড়িয়ে নেই। আয়াত নিজে কারও নাম নেয় না। এক ধরনের আচরণের বর্ণনা দেয়, নামগুলো অনুচ্চারিত রাখে।"
+          },
+          {
+            "en": "Ibn Kathir, in his Arabic commentary, also relays from at-Tabarani a narration through al-Hasan from Samura, raised to the Prophet ﷺ, on the subject of a person summoned to an authority who does not answer. He gives it no grading there, and it was not confirmed on a collection page for this verse, so its wording is not quoted here. None of the commentaries read for this verse attaches a sound, graded hadith to it. A related report from al-Hasan is taken up in the article on 24:50.",
+            "bn": "ইবন কাসীর তাঁর আরবি তাফসীরে তাবারানী থেকে আরেকটি বর্ণনাও আনেন, হাসানের সূত্রে সামুরা থেকে, যা নবী ﷺ পর্যন্ত পৌঁছানো হয়েছে। বিষয়টা এমন লোক, যাকে কর্তৃপক্ষের কাছে ডাকা হয়, অথচ সে সাড়া দেয় না। ইবন কাসীর সেখানে এর কোনো মান বলেন না। আর এ আয়াতের জন্য কোনো হাদীস সংকলনের পাতায় এটি যাচাই করা যায়নি। তাই এর শব্দ এখানে উদ্ধৃত করা হলো না। এ আয়াতের জন্য পড়া তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো সহীহ, মান-নির্ধারিত হাদীস জুড়ে দেয়নি। হাসানের কাছ থেকে আসা কাছাকাছি একটি বর্ণনার আলোচনা আছে ২৪:৫০ আয়াতের প্রবন্ধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Test Turned Inward",
+          "bn": "নিজের দিকে ফেরানো পরীক্ষা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes a party among the hypocrites of the Prophet's ﷺ own time, who professed faith and then would not come to his judgment. It licenses nothing against any living person or community, and it names no group of today. It gives no one the right to call a neighbour a hypocrite, or to read a heart from a single dispute. As-Sa'di's words about preferring other rules describe those men as he understood them. They are not a verdict to pass on anyone now.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে নবী ﷺ-এর নিজের যুগের মুনাফিকদের একটি দলকে, যারা মুখে ইমানের দাবি করেছিল, অথচ তাঁর ফয়সালার কাছে আসতে রাজি হয়নি। বর্তমানের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না, আজকের কোনো দলের নামও নেয় না। প্রতিবেশীকে মুনাফিক বলার অধিকার এটা কাউকে দেয় না। একটি বিবাদ দেখে কারও অন্তরের বিচার করার অধিকারও দেয় না। শরীয়তের বাইরের নিয়ম পছন্দ করার যে কথা সা'দী বলেছেন, তা ঐ লোকদের বর্ণনা, যেমনটা তিনি বুঝেছেন। আজ কারও উপর রায় দেওয়ার জন্য সে কথা নয়।"
+          },
+          {
+            "en": "What the verse does leave for every reader is a question. Most people meet Allah's ruling, in the end, through ordinary disputes: a share of an inheritance, a debt, a boundary, a promise made in trade. It is easy to honour the ruling in general and to look for another door when it reaches one's own purse. The verse asks where a professed obedience stops, and it points to the place to look: the moment a just verdict might cost something.",
+            "bn": "তবে প্রত্যেক পাঠকের জন্য আয়াতটি একটা প্রশ্ন রেখে যায়। বেশির ভাগ মানুষ আল্লাহর বিধানের মুখোমুখি হয় খুব সাধারণ বিবাদে। মিরাসের ভাগ, কোনো দেনা, জমির সীমানা, ব্যবসায় দেওয়া কোনো কথা। সাধারণভাবে বিধানের সম্মান করা সহজ। কিন্তু যখন তা নিজের পকেটে হাত দেয়, তখন অন্য দরজা খোঁজাও সহজ। আয়াতটি জিজ্ঞেস করে, মুখে বলা আনুগত্য কোথায় গিয়ে থেমে যায়। আর কোথায় খুঁজতে হবে, তাও দেখিয়ে দেয়: সেই মুহূর্তে, যখন ন্যায্য রায়ের জন্য কিছু ছাড়তে হতে পারে।"
+          },
+          {
+            "en": "The answer to 24:48 comes three verses later. Verse 24:51 repeats its wording almost exactly, when they are called to Allah and His Messenger to judge between them, and gives the other response: \"We hear and we obey. And those are the successful.\" The summons is the same in both verses, and so is the judge. What differs is only what the heart does when it hears the call. That is the whole distance between turning aside and success.",
+            "bn": "২৪:৪৮ আয়াতের জবাব আসে তিনটি আয়াত পরে। ২৪:৫১ আয়াত প্রায় হুবহু একই কথা ফিরিয়ে আনে: যখন তাদের মাঝে ফয়সালার জন্য আল্লাহ ও তাঁর রাসূলের দিকে ডাকা হয়। তারপর দেয় অন্য উত্তরটি: আমরা শুনলাম ও মেনে নিলাম, আর তারাই সফলকাম। দুই আয়াতে ডাক একই, বিচারকও একই। তফাত শুধু এক জায়গায়, ডাক শুনে অন্তর কী করে। মুখ ফিরিয়ে নেওয়া আর সফলতার মাঝে পুরো দূরত্বটা এটুকুই।"
+          }
+        ]
+      }
+    ]
+  },
   "24:50": {
     "sections": [
       {

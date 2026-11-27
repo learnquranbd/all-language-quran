@@ -35079,6 +35079,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When the push toward anger or wrong comes, turn to Allah at once and seek refuge in Him from the devils and their nearness, leaning on His strength rather than your own.",
     "lessonBn": "রাগ বা অন্যায়ের দিকে ধাক্কা এলে সঙ্গে সঙ্গে আল্লাহর দিকে ফিরুন। শয়তানদের থেকে আর তাদের কাছে আসা থেকে তাঁর আশ্রয় চান, নিজের জোরে নয়, তাঁর শক্তির উপর ভর করে।"
+  },
+  "24:48": {
+    "reflectionEn": "A dispute needs settling, and someone says: let us take it to Allah and His Messenger. For people who have just said, we believe and we obey, that should be the easiest yes there is. Yet the verse catches a party of them turning aside at that very moment. Nothing was asked of them except to stand before a just ruling. The turning shows what their words had covered: their faith went as far as their interest and stopped there. The verse does not hand me a list of other people's names. It asks me something. When the truth is ready to judge between me and the person I quarrel with, do I step forward, or do I start looking for another door?",
+    "reflectionBn": "একটা বিবাদের মীমাংসা দরকার। কেউ একজন বলল, চলো, আল্লাহ ও তাঁর রাসূলের কাছে যাই। যারা এইমাত্র বলেছে, আমরা ইমান এনেছি, মেনে নিয়েছি, তাদের কাছে এর চেয়ে সহজ হ্যাঁ আর কী হতে পারে? অথচ আয়াতটি ঠিক সেই মুহূর্তে তাদের একদলকে মুখ ফিরিয়ে নিতে দেখায়। ন্যায্য একটা ফয়সালার সামনে দাঁড়ানো ছাড়া তাদের কাছে আর কিছুই চাওয়া হয়নি। মুখ ফেরানোটাই ফাঁস করে দিল, মুখের কথা কী ঢেকে রেখেছিল। তাদের ইমান ততদূর পর্যন্তই গেছে, যতদূর তাদের স্বার্থ গেছে। এ আয়াত আমার হাতে অন্যদের নামের তালিকা ধরিয়ে দেয় না। আমাকেই একটা প্রশ্ন করে। যার সঙ্গে আমার ঝগড়া, তার আর আমার মাঝে সত্য যখন ফয়সালা করতে প্রস্তুত, আমি কি এগিয়ে যাই, নাকি অন্য কোনো দরজা খুঁজতে শুরু করি?",
+    "pointsEn": [
+      "In my last real dispute with someone, did I want the fair answer, or only the answer that suited me?",
+      "Which of Allah's rulings do I praise in general and then avoid the moment it touches my own money, family or pride?",
+      "Have I ever gone looking for a second opinion, not because I doubted the first, but because I disliked it?",
+      "If my words \"we hear and we obey\" were put to the test today, which part of my life would turn aside first?",
+      "Do I read this verse as a description of other people, or as a test I need to run on myself?"
+    ],
+    "pointsBn": [
+      "কারও সঙ্গে আমার শেষ সত্যিকারের বিবাদে আমি কি ন্যায্য উত্তরটা চেয়েছিলাম, নাকি শুধু সেই উত্তর, যা আমার পক্ষে যায়?",
+      "আল্লাহর কোন বিধানের প্রশংসা আমি সাধারণভাবে করি, অথচ আমার টাকা, পরিবার বা অহংকারে হাত পড়লেই সেটা এড়িয়ে চলি?",
+      "আমি কি কখনো অন্য কারও মত খুঁজতে গেছি, প্রথম মতে সন্দেহ ছিল বলে নয়, বরং সেটা পছন্দ হয়নি বলে?",
+      "আমরা শুনলাম ও মেনে নিলাম, আমার এই কথা আজ পরীক্ষায় পড়লে আমার জীবনের কোন অংশ সবার আগে মুখ ফিরিয়ে নেবে?",
+      "এ আয়াত কি আমি অন্যদের বর্ণনা হিসেবে পড়ি, নাকি এমন এক পরীক্ষা হিসেবে, যা নিজের উপর চালানো দরকার?"
+    ],
+    "lessonEn": "Faith is tested when Allah's ruling is called in to settle your own dispute; come to it willingly, even when you fear it may go against you.",
+    "lessonBn": "নিজের বিবাদের মীমাংসায় যখন আল্লাহর ফয়সালা ডাকা হয়, তখনই ইমানের পরীক্ষা হয়। রায় আপনার বিপক্ষে যেতে পারে, এই ভয় থাকলেও স্বেচ্ছায় তার দিকে এগিয়ে যান।"
   }
 };
 
