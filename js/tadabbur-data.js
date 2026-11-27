@@ -34859,6 +34859,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "On that Day every authority but Allah's falls away and His verdict follows at once, so bring Him a faith your deeds have confirmed.",
     "lessonBn": "সেদিন আল্লাহ ছাড়া সব কর্তৃত্ব খসে পড়বে, আর তাঁর রায় আসবে সঙ্গে সঙ্গে। তাই তাঁর কাছে এমন ঈমান নিয়ে যান, যার সত্যতা আপনার আমল প্রমাণ করেছে।"
+  },
+  "23:23": {
+    "reflectionEn": "The list of gifts ends on a ship: on cattle and on ships you are carried. The next verse opens on a man sent to his people, and he says his one sentence at once: my people, worship Allah, you have no god but Him; will you not then fear Him? He does not begin with the flood, the ark or the mockery to come. He begins with the thing everything else hangs on. His people had turned remembered good men into statues, and the statues into gods. The slide was slow, and it started with respect. What in my life began as respect and has quietly become something I cannot question? And when the plain truth reaches me, do I hear only a man like me, or a call?",
+    "reflectionBn": "নিয়ামতের তালিকা শেষ হয় এক নৌযানে: পশুর পিঠে আর নৌযানে তোমাদের বহন করা হয়। পরের আয়াতেই এক মানুষ, যাঁকে তাঁর জাতির কাছে পাঠানো হলো। তিনি দেরি না করে নিজের একটিমাত্র কথা বলেন: হে আমার জাতি, আল্লাহর ইবাদত করো, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই, তবু কি তোমরা ভয় করবে না? প্লাবন, নৌকা কিংবা সামনে অপেক্ষমাণ ঠাট্টা দিয়ে তিনি শুরু করেননি। শুরু করেছেন সেই কথা দিয়ে, যার উপর বাকি সব কিছু দাঁড়িয়ে। তাঁর জাতি স্মরণীয় নেককার মানুষদের মূর্তি বানিয়েছিল, পরে সেই মূর্তিকেই বানিয়েছিল উপাস্য। এই পতন ছিল ধীরে ধীরে, আর এর শুরু শ্রদ্ধা থেকে। আমার জীবনে কোন জিনিস শ্রদ্ধা দিয়ে শুরু হয়ে চুপিচুপি এমন জায়গায় পৌঁছেছে যে তা নিয়ে প্রশ্ন তোলাই যায় না? আর সোজা সত্য কথা যখন আমার কাছে পৌঁছায়, আমি কি শুধু আমার মতো একজন মানুষকে শুনি, নাকি একটি ডাক শুনি?",
+    "pointsEn": [
+      "Which good thing in my life, a person, a place or a habit, has slowly taken a place that belongs to Allah alone?",
+      "If I could give the people I love only one sentence, would it be the one Nuh gave his?",
+      "When I am reminded of something I already know, do I hear it as a call or wave it away as old news?",
+      "What would fearing Allah look like this week in the one thing I keep setting beside Him?",
+      "Do I honour the righteous by following their example, or only by keeping their names and their pictures?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন ভালো জিনিস, হোক সে কোনো মানুষ, কোনো জায়গা বা কোনো অভ্যাস, ধীরে ধীরে এমন জায়গা দখল করেছে যা শুধু আল্লাহর?",
+      "প্রিয় মানুষদের যদি মাত্র একটি বাক্য দিতে পারতাম, তা কি হতো সেই বাক্য, যা নূহ (আঃ) তাঁর জাতিকে দিয়েছিলেন?",
+      "যা আমি আগে থেকেই জানি, তা যখন কেউ মনে করিয়ে দেয়, আমি কি সেটাকে ডাক হিসেবে শুনি, নাকি পুরোনো কথা বলে উড়িয়ে দিই?",
+      "যে জিনিসটা আমি বারবার আল্লাহর পাশে বসাই, এ সপ্তাহে সেখানে আল্লাহকে ভয় করা দেখতে কেমন হবে?",
+      "নেককারদের আমি কীভাবে সম্মান করি: তাঁদের পথে চলে, নাকি শুধু তাঁদের নাম আর ছবি আগলে রেখে?"
+    ],
+    "lessonEn": "Begin where the first messenger began: worship Allah alone, and watch what you honour, so that love for good people never slides into worship.",
+    "lessonBn": "প্রথম রাসূল যেখান থেকে শুরু করেছিলেন, সেখান থেকেই শুরু করুন: শুধু আল্লাহর ইবাদত করুন, আর যাকে সম্মান করেন তার দিকে খেয়াল রাখুন, যাতে নেককারদের প্রতি ভালোবাসা কখনো ইবাদতে গড়িয়ে না যায়।"
   }
 };
 

@@ -1051,6 +1051,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "23:23": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Ships, a Messenger",
+          "bn": "নৌযানের পরে এক রাসূল"
+        },
+        "p": [
+          {
+            "en": "The verses before this list gifts: the human being formed stage by stage, seven paths above, rain sent down in measure, palms, vines and the olive of Sinai, cattle whose milk we drink. The list closes on travel: and upon them and on ships you are carried (23:22). Then the surah turns from what God made to whom He sent: wa-laqad arsalna Nuhan ila qawmihi, and We certainly sent Nuh to his people. The list ended on ships; the stories open with the man whose ship 23:27 describes.",
+            "bn": "এর আগের আয়াতগুলো নিয়ামতের এক তালিকা: ধাপে ধাপে গড়া মানুষ, মাথার উপরে সাতটি পথ, পরিমাণমতো নামানো বৃষ্টি, খেজুর আর আঙুরের বাগান, সিনাই পাহাড়ের জয়তুন, আর সেই পশু যার দুধ আমরা পান করি। তালিকা শেষ হয় সফরের কথায়: পশুর পিঠে আর নৌযানে তোমাদের বহন করা হয় (২৩:২২)। ঠিক পরের আয়াতে প্রসঙ্গ ঘুরে যায় আল্লাহ কী বানিয়েছেন থেকে কাকে পাঠিয়েছেন তার দিকে: ওয়া লাকাদ আরসালনা নূহান ইলা কাওমিহি, আমি অবশ্যই নূহকে তাঁর জাতির কাছে পাঠিয়েছিলাম। তালিকার শেষ শব্দ ছিল নৌযান। আর কাহিনিগুলোর প্রথম নামটি সেই মানুষের, যাঁর নৌকার কথা আসবে ২৩:২৭ আয়াতে।"
+          },
+          {
+            "en": "Al-Qurtubi, on this verse, refers the reader to his discussion in surah al-A'raf, where the same sentence opens Nuh's story (7:59). There he explains the order: having shown that God is the Creator, able to bring all things to completion, the surah turns to the stories of nations and the warnings they hold for deniers. The lam in laqad, he adds, is for emphasis and signals an oath. Al-Mu'minun has the same shape: signs first, then a sworn account of people who saw signs and refused.",
+            "bn": "কুরতুবী এই আয়াতে পাঠককে ফেরত পাঠান সূরা আ'রাফে তাঁর আলোচনার দিকে, যেখানে এই একই বাক্য দিয়ে নূহ (আঃ)-এর কাহিনি শুরু হয় (৭:৫৯)। সেখানে তিনি ক্রমটা বুঝিয়ে বলেন। আল্লাহই স্রষ্টা, সব কিছু পূর্ণতায় পৌঁছাতে সক্ষম, এ কথা স্পষ্ট করার পর সূরাটি জাতিদের কাহিনিতে যায়, যেগুলোতে অস্বীকারকারীদের জন্য সতর্কবাণী আছে। বাক্যের শুরুর ছোট অব্যয়টিও তিনি লক্ষ করেন। লাকাদ শব্দের লাম জোর দেওয়ার জন্য, আর তা শপথের দিকে ইঙ্গিত করে। সূরা মু'মিনূনও একই নকশায় চলে। আগে নিদর্শন, তারপর শপথ করে বলা সেই মানুষদের বৃত্তান্ত, যারা নিদর্শন দেখেও মুখ ফিরিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "First Sent to the Earth",
+          "bn": "পৃথিবীবাসীর প্রথম রাসূল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di introduces the passage by naming Nuh's rank: the first messenger God sent to the people of the earth. Al-Qurtubi, in the al-A'raf discussion, says the same: Nuh was the first of the messengers to the earth after Adam (AS). That is why the sequence in al-Mu'minun, which runs on to Musa and 'Isa (AS), begins here. Every call that follows in the surah repeats a call he was the first to make.",
+            "bn": "সা'দী আলোচনাটি শুরু করেন নূহ (আঃ)-এর মর্যাদার কথা বলে। তাঁর মতে নূহ (আঃ) পৃথিবীবাসীর কাছে আল্লাহর পাঠানো প্রথম রাসূল। কুরতুবী আ'রাফের আলোচনায় একই কথা বলেন: আদম (আঃ)-এর পরে পৃথিবীতে প্রথম রাসূল নূহ। এ কারণেই সূরা মু'মিনূনের নবীদের ধারাবাহিকতা, যা গিয়ে পৌঁছায় মূসা ও ঈসা (আঃ) পর্যন্ত, শুরু হয় এখান থেকে। সূরায় এরপর যত ডাক আসে, সবই সেই ডাকের পুনরাবৃত্তি, যা প্রথম তিনিই দিয়েছিলেন।"
+          },
+          {
+            "en": "The title has a sound basis outside the tafsirs. In a long narration in Sahih al-Bukhari (3340), Abu Hurayrah (RA) reports the Prophet ﷺ describing the Day of Resurrection, when people go from prophet to prophet seeking an intercessor. Reaching Nuh, they say: 'O Noah! You are the first amongst the messengers of Allah to the people of the earth, and Allah named you a thankful slave.' No commentary consulted ties it to 23:23 or attaches any hadith to the verse; it is cited only for the title.",
+            "bn": "এই উপাধির ভিত্তি তাফসীরের বাইরেও মজবুতভাবে আছে। সহীহ বুখারীর (৩৩৪০) এক দীর্ঘ বর্ণনায় আবু হুরায়রা (রাঃ) জানান, নবী ﷺ কিয়ামতের দিনের কথা বলেছেন। সেদিন মানুষ সুপারিশকারীর খোঁজে এক নবী থেকে আরেক নবীর কাছে যাবে। নূহ (আঃ)-এর কাছে পৌঁছে তারা বলবে: হে নূহ! আপনি পৃথিবীবাসীর কাছে প্রথম রাসূল, আর আল্লাহ আপনাকে কৃতজ্ঞ বান্দা নামে ডেকেছেন। এখানে দেখা কোনো তাফসীর এই বর্ণনাকে ২৩:২৩ আয়াতের সঙ্গে যুক্ত করেনি, আর এ আয়াতের সঙ্গে কেউ কোনো হাদিসই জোড়েনি। বর্ণনাটি এখানে আনা হলো শুধু উপাধিটির জন্য।"
+          },
+          {
+            "en": "Al-Qurtubi records that scholars asked how this title fits with Adam and Idris (AS), and sets out several answers. Al-Qadi 'Iyad suggests that Nuh's mission was singled out as sent to all the people of the earth, while Idris was sent to his own people, as other messengers were. Ibn 'Atiyyah suggests Nuh was the first sent with a particular character: a well-known mission to set people right and bring them to faith through punishment and destruction. Al-Qurtubi ends: and God knows best. The question stays open.",
+            "bn": "কুরতুবী উল্লেখ করেন, আদম ও ইদরীস (আঃ)-এর সঙ্গে এই উপাধি কীভাবে মেলে, আলেমরা সে প্রশ্ন তুলেছেন। তিনি কয়েকটি জবাব পাশাপাশি রাখেন। কাজী ইয়াদের মতে নূহ (আঃ)-এর রিসালাতের বিশেষত্ব হলো, তিনি পৃথিবীর সব মানুষের কাছে প্রেরিত। আর ইদরীস (আঃ) প্রেরিত ছিলেন নিজের জাতির কাছে, যেমন ছিলেন অন্য অনেক রাসূল। ইবন আতিয়্যার মতে নূহ (আঃ) প্রথম সেই ধরনের রাসূল, যাঁর রিসালাত ছিল সুপরিচিত, মানুষকে সংশোধন করার জন্য, আর আযাব ও ধ্বংসের মধ্য দিয়ে তাদের ঈমানের দিকে আনার জন্য। কুরতুবী শেষ করেন এই কথায়: আল্লাহই ভালো জানেন। প্রশ্নটি খোলাই থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sent, Then Speaking at Once",
+          "bn": "প্রেরণ, তারপরই মুখে ডাক"
+        },
+        "p": [
+          {
+            "en": "Fa-qala, then he said. Al-Qurtubi notes in the al-A'raf discussion that the fa shows the second event following the first: he was sent, and he spoke. At-Tabari frames the mission in a phrase: sent to call them to obedience to Us and to Our oneness, and to disown every object of worship besides Us. Ibn Kathir adds its edge: Nuh was sent to warn of God's punishment and severe might, and of His retribution on those who associate others with Him, defy His command and deny His messengers.",
+            "bn": "ফাকালা, তারপর তিনি বললেন। কুরতুবী আ'রাফের আলোচনায় লক্ষ করেন, ফা অব্যয়টি বোঝায় দ্বিতীয় ঘটনা প্রথমটির পরে এসেছে। তাঁকে পাঠানো হলো, আর তিনি বললেন। তাবারী পুরো দায়িত্বটা সংক্ষেপে বলেন: তাঁকে পাঠানো হয়েছিল তাদের ডাকতে আমার আনুগত্যের দিকে, আমার তাওহীদের দিকে, আর আমি ছাড়া সব উপাস্যের সঙ্গে সম্পর্ক ছিন্ন করার দিকে। ইবন কাসীর এর সতর্কতার দিকটা যোগ করেন। নূহ (আঃ)-কে পাঠানো হয়েছিল জাতিকে আল্লাহর আযাব ও কঠোর পাকড়াও সম্পর্কে সাবধান করতে। আর যারা তাঁর সঙ্গে শিরক করে, তাঁর হুকুম অমান্য করে এবং তাঁর রাসূলদের মিথ্যা বলে, তাদের উপর তাঁর প্রতিশোধ সম্পর্কেও।"
+          },
+          {
+            "en": "Then ya qawmi, O my people. Al-Qurtubi classes it as a vocative joined to a possessive, my, and notes that the base form, with the possessive ending written out in full, is also allowed. The grammar holds a small mercy. Nuh does not open with you idolaters or you who deny. He calls them his own. The chiefs will answer that he is only a man like them who wants to rise above them (23:24), but his first word has already placed him among them, not over them.",
+            "bn": "তারপর ইয়া কাওমি, হে আমার জাতি। কুরতুবী একে 'আমার' শব্দে যুক্ত সম্বোধন বলে চিহ্নিত করেন, আর জানান যে মূল রূপে, শেষের সম্বন্ধসূচক অংশটি পুরো লিখে বলাও বৈধ। এই ব্যাকরণের ভেতরে লুকিয়ে আছে ছোট্ট এক মমতা। নূহ (আঃ) শুরু করেননি হে মূর্তিপূজকেরা বা হে অস্বীকারকারীরা বলে। তিনি তাদের ডাকেন নিজের লোক বলে। সর্দারেরা জবাব দেবে, এ তো তোমাদের মতোই এক মানুষ, যে তোমাদের উপর বড় হতে চায় (২৩:২৪)। কিন্তু তাঁর প্রথম শব্দই তাঁকে বসিয়ে দিয়েছে তাদের মাঝখানে, তাদের মাথার উপরে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lowered Before Him Alone",
+          "bn": "একমাত্র তাঁর সামনে মাথা নত"
+        },
+        "p": [
+          {
+            "en": "U'budu Allah, worship Allah. At-Tabari glosses the command with two words that carry a whole definition: dhillu li-llahi bi-t-ta'ah, humble yourselves before God in obedience. Worship in his reading is first a posture: the self lowered before its Lord and acting on what He commands. Al-Baghawi glosses it with a single verb, wahhiduhu, declare Him one. Al-Muyassar joins the two: worship God alone, and make your worship sincerely His. One commentator looks at the bowed self, another at the One it bows to; the command holds both.",
+            "bn": "উ'বুদুল্লাহ, আল্লাহর ইবাদত করো। তাবারী এই আদেশের ব্যাখ্যা দেন দুটি শব্দে, যার ভেতরে পুরো একটি সংজ্ঞা আছে: যিল্লু লিল্লাহি বিত-তা'আহ, আনুগত্য দিয়ে আল্লাহর সামনে নিজেদের নত করো। তাঁর ব্যাখ্যায় ইবাদত আগে একটা অবস্থান। নিজেকে রবের সামনে নামিয়ে আনা আর তিনি যা বলেন তা পালন করা। বাগাভী এর ব্যাখ্যা দেন এক ক্রিয়ায়: ওয়াহহিদূহু, তাঁকে এক বলে মানো। মুয়াসসার দুটোকে মিলিয়ে দেয়: শুধু আল্লাহর ইবাদত করো, আর ইবাদতকে খাঁটিভাবে তাঁর জন্য রাখো। একজনের দৃষ্টি নত মানুষটির দিকে, আরেকজনের দৃষ্টি যাঁর সামনে সে নত হয় তাঁর দিকে। আদেশটির ভেতরে দুটোই আছে।"
+          },
+          {
+            "en": "As-Sa'di explains why sincerity is built into the command itself. Worship Allah, he says, means make your worship purely His, because worship is not valid unless it is sincere. On his account Nuh's people worshipped idols, and they worshipped them ma'a Allah, alongside God. So the call was not to begin worshipping. It was to stop dividing worship. A person who prays and also bows inwardly before something else, a patron, a crowd's approval, a fear of loss, has not yet done what this verse asks of him.",
+            "bn": "আদেশটির ভেতরেই কেন ইখলাস গাঁথা আছে, সা'দী তা বুঝিয়ে বলেন। আল্লাহর ইবাদত করো মানে ইবাদতকে খাঁটিভাবে তাঁর জন্য করো, কারণ ইখলাস ছাড়া ইবাদত শুদ্ধ হয় না। তাঁর বর্ণনায় নূহ (আঃ)-এর জাতি মূর্তিপূজা করত, আর তা করত আল্লাহর সঙ্গে মিলিয়ে। কাজেই ডাকটা ইবাদত শুরু করার জন্য ছিল না। ডাকটা ছিল ইবাদতকে ভাগ করা বন্ধ করার জন্য। যে মানুষ নামাজ পড়ে, আবার মনের ভেতরে অন্য কিছুর সামনেও মাথা নোয়ায়, হোক তা কোনো পৃষ্ঠপোষক, মানুষের বাহবা বা হারানোর ভয়, এ আয়াত তার কাছে যা চায় তা সে এখনো পূরণ করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ghayruhu, Read With Either Vowel",
+          "bn": "গাইরুহু, দুই হরকতে পড়া"
+        },
+        "p": [
+          {
+            "en": "Ma lakum min ilahin ghayruhu: you have no god other than Him. Al-Qurtubi's whole note on this verse concerns a vowel. Ghayruhu, he says, has been read with a final i, following the wording, and with a final u, following the sense. Ilahin is governed by the particle min, so the word describing it may take the same ending, ghayrihi. In sense, though, ilah is the subject, with min only strengthening the denial, so the describer may take the subject's ending, ghayruhu.",
+            "bn": "মা লাকুম মিন ইলাহিন গাইরুহু: তিনি ছাড়া তোমাদের কোনো ইলাহ নেই। এ আয়াতে কুরতুবীর পুরো টীকাটাই একটি হরকত নিয়ে। তিনি বলেন, গাইর শব্দটি শেষে যের দিয়েও পড়া হয়েছে, পেশ দিয়েও। যের পড়া হয় শব্দের বাহ্যিক গঠন ধরে, পেশ পড়া হয় অর্থ ধরে। ইলাহিন শব্দটি মিন অব্যয়ের অধীনে, তাই তার বিশেষণও একই হরকত নিতে পারে: গাইরিহি। কিন্তু অর্থের দিক থেকে ইলাহ এ বাক্যের উদ্দেশ্য, আর মিন শুধু অস্বীকৃতিকে জোরালো করে। তাই বিশেষণটি উদ্দেশ্যের হরকতও নিতে পারে: গাইরুহু।"
+          },
+          {
+            "en": "In the al-A'raf discussion he names the readers. Ghayruhu, with the u, is the reading of Nafi', Abu 'Amr, 'Asim and Hamzah; al-Kisa'i reads ghayrihi. The text printed above follows the first. He adds a second explanation: ghayr may carry the sense of illa, except, so that the clause means you have no god except Allah. On either vowel the meaning is the same, and it is the meaning of la ilaha illa Allah, spoken at the start of the first mission the surah records.",
+            "bn": "আ'রাফের আলোচনায় তিনি কারীদের নামও বলেন। পেশসহ গাইরুহু নাফি', আবু আমর, আসিম ও হামযার কিরাআত। কিসাঈ পড়েন গাইরিহি। উপরে ছাপা আয়াতটি প্রথম কিরাআত অনুযায়ী। তিনি আরেকটি ব্যাখ্যাও দেন। গাইর শব্দটি ইল্লা, অর্থাৎ ছাড়া, অর্থেও আসতে পারে। তখন বাক্যের মানে দাঁড়ায়: আল্লাহ ছাড়া তোমাদের কোনো ইলাহ নেই। যে হরকতেই পড়া হোক, অর্থ একই। আর সেই অর্থ লা ইলাহা ইল্লাল্লাহর অর্থ, যা উচ্চারিত হয়েছিল এ সূরায় বর্ণিত প্রথম রিসালাতের একেবারে শুরুতে।"
+          },
+          {
+            "en": "As-Sa'di draws out what the clause does. It cancels the divinity of everything other than God and establishes it for God alone, because He is the Creator and the Provider, to whom all perfection belongs, and everything else is the opposite. That reason ties the clause back to the list before it. The One who formed the drop, sent the rain and grew the olive alone deserves worship. The argument of verses 12 to 22 lands here.",
+            "bn": "বাক্যাংশটি কী কাজ করে, সা'দী তা খুলে বলেন। এটি আল্লাহ ছাড়া সব কিছুর উলূহিয়্যাত বাতিল করে, আর উলূহিয়্যাত সাব্যস্ত করে শুধু আল্লাহর জন্য। কারণ তিনিই স্রষ্টা, তিনিই রিযিকদাতা, সব পূর্ণতা তাঁরই। আর অন্য সব কিছু এর উল্টো। তাঁর দেওয়া কারণটি বাক্যাংশটিকে জুড়ে দেয় ঠিক আগের তালিকার সঙ্গে। যিনি শুক্রবিন্দুকে রূপ দিয়েছেন, বৃষ্টি নামিয়েছেন, জয়তুন গজিয়েছেন, ইবাদতের যোগ্য একমাত্র তিনিই। ১২ থেকে ২২ নম্বর আয়াতের পুরো যুক্তি এসে থামে এখানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Statues of Good Men",
+          "bn": "নেককার মানুষের মূর্তি"
+        },
+        "p": [
+          {
+            "en": "Who were the gods Nuh was calling his people away from? As-Sa'di answers briefly: idols and statues fashioned in the shapes of righteous people, which they worshipped alongside God. The detail matters. This people did not begin with a demon or a monster but with likenesses of people they respected. Worship of something other than God did not arrive among them as a rejection of goodness. It came dressed as a tribute to good men, which is why it was so hard to see.",
+            "bn": "নূহ (আঃ) তাঁর জাতিকে কোন উপাস্যদের কাছ থেকে ফিরিয়ে আনতে চাইছিলেন? সা'দী সংক্ষেপে জবাব দেন: সেগুলো ছিল নেককার মানুষদের আকৃতিতে গড়া প্রতিমা ও মূর্তি, যাদের তারা আল্লাহর সঙ্গে পূজা করত। এই খুঁটিনাটি গুরুত্বপূর্ণ। এ জাতি কোনো দানব বা ভয়ংকর কিছু দিয়ে শুরু করেনি। তারা শুরু করেছিল এমন মানুষদের আদলে গড়া মূর্তি দিয়ে, যাঁদের তারা শ্রদ্ধা করত। আল্লাহ ছাড়া অন্যের পূজা তাদের মধ্যে ভালোকে অস্বীকার করে আসেনি। এসেছিল নেককারদের প্রতি সম্মানের পোশাক পরে। এ কারণেই তা চোখে পড়া এত কঠিন ছিল।"
+          },
+          {
+            "en": "A report in Sahih al-Bukhari (4920) gives more, as the words of Ibn 'Abbas (RA) himself, placed by al-Bukhari in his commentary on surah Nuh, not on this verse. Ibn 'Abbas names the idols of Nuh's people that later passed to Arab tribes, then says: 'The names (of the idols) formerly belonged to some pious men of the people of Noah.' When they died, Satan prompted their people to set up figures where they used to sit and name them after them. The figures were not yet worshipped.",
+            "bn": "সহীহ বুখারীর একটি বর্ণনা (৪৯২০) কাহিনির আরও খানিকটা জানায়। কথাগুলো ইবন আব্বাস (রাঃ)-এর নিজের, আর বুখারী এটি রেখেছেন সূরা নূহের তাফসীর অধ্যায়ে, এই আয়াতের অধীনে নয়। ইবন আব্বাস (রাঃ) নূহ (আঃ)-এর জাতির সেই মূর্তিগুলোর নাম বলেন, যেগুলো পরে আরবের বিভিন্ন গোত্রের হাতে যায়। তারপর বলেন: এই নামগুলো ছিল নূহের জাতির কয়েকজন নেককার মানুষের। তিনি জানান, তাঁরা মারা গেলে শয়তান তাঁদের লোকদের মনে কুমন্ত্রণা দিল, তাঁরা যেখানে বসতেন সেখানে মূর্তি খাড়া করো আর সেগুলোকে তাঁদের নামে ডাকো। লোকেরা তা-ই করল, তবে তখনো সেগুলোর পূজা হয়নি।"
+          },
+          {
+            "en": "Then comes the turn, in his words: 'the idols were not worshiped till those people (who initiated them) had died and the origin of the idols had become obscure, whereupon people began worshiping them.' The first generation set up the figures and did not worship them; later forgetting did the rest. Respect for a person, a place or a custom can harden over generations into something never questioned, until it stands where only God should stand.",
+            "bn": "তারপর আসে মোড়টা, তাঁর ভাষায়: যারা মূর্তিগুলো বানিয়েছিল তারা মারা গেল, মূর্তিগুলোর উৎসের জ্ঞান মুছে গেল, আর তখনই সেগুলোর পূজা শুরু হলো। প্রথম প্রজন্ম মূর্তি বসিয়েছিল, কিন্তু পূজা করেনি। বাকিটা করেছে পরের প্রজন্মগুলোর ভুলে যাওয়া। কোনো মানুষ, জায়গা বা প্রথার প্রতি শ্রদ্ধা প্রজন্মের পর প্রজন্ম ধরে শক্ত হতে হতে এমন কিছুতে পরিণত হতে পারে, যা নিয়ে প্রশ্ন তোলা চলে না। একসময় তা গিয়ে দাঁড়ায় সেই জায়গায়, যেখানে শুধু আল্লাহরই থাকার কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear Supplied Three Ways",
+          "bn": "ভয়ের তিন লক্ষ্য"
+        },
+        "p": [
+          {
+            "en": "The verse closes on a question: afala tattaqun, will you not then fear? The verb has no object in the Arabic, and the commentators supply it differently. Ibn Kathir supplies God Himself: do you not fear God in your associating others with Him? At-Tabari supplies His punishment: do you not dread that, for worshipping another, His punishment will descend on you? Al-Baghawi reads it the same way, will you not fear His punishment if you worship another, and al-Muyassar asks: will you not dread His punishment?",
+            "bn": "আয়াতটি শেষ হয় একটি প্রশ্নে: আফালা তাত্তাকূন, তবু কি তোমরা ভয় করবে না? আরবিতে ক্রিয়াটির কোনো কর্ম উল্লেখ নেই। তাফসীরকারেরা তা পূরণ করেন ভিন্ন ভিন্নভাবে। ইবন কাসীর কর্ম ধরেন স্বয়ং আল্লাহকে: তাঁর সঙ্গে শরিক করায় তোমরা কি আল্লাহকে ভয় করো না? তাবারী কর্ম ধরেন তাঁর আযাবকে: অন্যের ইবাদত করার কারণে তাঁর আযাব তোমাদের উপর নেমে আসবে, এ ভয় কি তোমাদের নেই? বাগাভীও একইভাবে পড়েন: অন্যের ইবাদত করলে তাঁর শাস্তিকে কি ভয় করবে না? আর মুয়াসসার প্রশ্ন করে: তোমরা কি তাঁর আযাবকে ভয় করবে না?"
+          },
+          {
+            "en": "As-Sa'di supplies something else. For him the question means: will you not guard against what you are upon, the worship of idols and statues? The thing to beware of, on his reading, is the practice itself, the deed that leads to the consequence. The readings do not cancel one another. One looks to God, one to what He will do, one to what the people are doing now. Taken together they describe a single awareness that keeps all three in view: the Lord, the reckoning, and the deed that leads there.",
+            "bn": "সা'দী কর্ম ধরেন আরেকটি জিনিসকে। তাঁর মতে প্রশ্নটির মানে: তোমরা যার উপর আছ, অর্থাৎ প্রতিমা ও মূর্তির পূজা, তা থেকে কি বাঁচবে না? তাঁর পাঠে সাবধান হওয়ার জিনিস স্বয়ং সেই কাজটি, যে কাজ পরিণতির দিকে নিয়ে যায়। এই পাঠগুলো একটি আরেকটিকে বাতিল করে না। একটির দৃষ্টি আল্লাহর দিকে, একটির দৃষ্টি তিনি কী করবেন তার দিকে, আরেকটির দৃষ্টি মানুষ এখন কী করছে তার দিকে। একসঙ্গে মিলিয়ে দেখলে এগুলো একই সচেতনতার ছবি, যা তিনটিকেই চোখে রাখে: রব, হিসাব, আর সেই কাজ যা হিসাবের দিকে টেনে নেয়।"
+          },
+          {
+            "en": "The question form is also an opening. Nuh pronounces no verdict here; he asks his people something they can still answer. The verdict came later, after a long refusal, and 23:27 records it. At the start, the door stands open, and the first messenger to the earth leaves his people with a question put to their own judgement, rather than a sentence of doom.",
+            "bn": "প্রশ্নের রূপটি একটি খোলা দরজাও। এ আয়াতে নূহ (আঃ) তাঁর জাতির উপর কোনো রায় ঘোষণা করেন না। তিনি তাদের এমন কিছু জিজ্ঞেস করেন, যার জবাব তারা তখনো দিতে পারে। রায় এসেছিল পরে, দীর্ঘ প্রত্যাখ্যানের পর, আর ২৩:২৭ আয়াতে তার বিবরণ আছে। এখানে, একেবারে শুরুতে, দরজা খোলা। পৃথিবীর প্রথম রাসূল তাঁর জাতিকে ধ্বংসের ঘোষণা শোনান না। তিনি তাদের হাতে তুলে দেন একটি প্রশ্ন, যা তাদের নিজেদের বিবেকের কাছে রাখা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nine Centuries of One Sentence",
+          "bn": "এক বাক্যের সাড়ে নয়শো বছর"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di ends by describing what followed. Nuh kept to this call, inviting them in secret and in the open, by night and by day, for a thousand years less fifty, and they grew only in insolence and aversion. The number is the Qur'an's own (29:14), and the calling by night and day, in public and private, is Nuh's own account (71:5 to 71:9). The sentence of 23:23 was not said once and abandoned. It was said again and again, for centuries.",
+            "bn": "সা'দী তাঁর টীকা শেষ করেন এর পরে কী ঘটেছিল তা বলে। নূহ (আঃ) এই ডাকে অটল রইলেন। তিনি তাদের ডাকলেন গোপনে ও প্রকাশ্যে, রাতে ও দিনে, পঞ্চাশ কম এক হাজার বছর ধরে। আর তাদের অবাধ্যতা ও বিমুখতা কেবল বাড়তেই থাকল। সংখ্যাটি কুরআনেরই দেওয়া (২৯:১৪)। আর রাতদিন, প্রকাশ্যে ও গোপনে ডাকার কথা নূহ (আঃ) নিজেই বলেছেন ৭১:৫ থেকে ৭১:৯ আয়াতে। ২৩:২৩ আয়াতের এই একটি বাক্য একবার বলে ছেড়ে দেওয়া হয়নি। তা বলা হয়েছে, বারবার বলা হয়েছে, সাড়ে নয়শো বছর জুড়ে।"
+          },
+          {
+            "en": "The answer comes in the next two verses (23:24 and 23:25). The chiefs who disbelieved said he was only a man like them who wanted to rise above them, that God would have sent down angels had He wished, and that he was a man possessed. Ibn Kathir explains their closing advice, wait for him a while, as: wait until he dies, and bear with him until you are rid of him. The same opening call stands in 7:59, in 11:25 and 11:26, and in 71:1 to 71:3.",
+            "bn": "জবাব আসে পরের দুটি আয়াতে (২৩:২৪ ও ২৩:২৫)। কাফির সর্দারেরা বলল, এ তো তোমাদের মতোই এক মানুষ, তোমাদের উপর বড় হতে চায়। আল্লাহ চাইলে তো ফেরেশতা নামাতেন। আর এ এমন লোক, যাকে পাগলামিতে পেয়েছে। তাদের শেষ পরামর্শ ছিল, কিছুকাল তার ব্যাপারে অপেক্ষা করো। ইবন কাসীর এর ব্যাখ্যা দেন এভাবে: তার মৃত্যু পর্যন্ত অপেক্ষা করো, তার হাত থেকে রেহাই না পাওয়া পর্যন্ত সয়ে যাও। একই প্রথম ডাক আছে ৭:৫৯ আয়াতে, ১১:২৫ ও ১১:২৬ আয়াতে, আর ৭১:১ থেকে ৭১:৩ আয়াতে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse and those after it describe a past people who were called and refused, and what the Qur'an says then befell them. It licenses nothing against any living person or community, and gives no one standing to name a present people as the people of Nuh. What it hands the reader is the sentence itself, and the question at its end, will you not then fear Him, still waiting for an answer.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এই আয়াত আর এর পরের আয়াতগুলো অতীতের একটি জাতির বর্ণনা দেয়, যাদের ডাকা হয়েছিল আর যারা প্রত্যাখ্যান করেছিল, আর কুরআন বলে এরপর তাদের কী হয়েছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো জাতিকে নূহের জাতি বলে চিহ্নিত করার অধিকারও কাউকে দেয় না। এ আয়াত পাঠকের হাতে তুলে দেয় শুধু বাক্যটি। আর তার শেষের প্রশ্নটি, তবু কি তোমরা তাঁকে ভয় করবে না, এখনো জবাবের অপেক্ষায়।"
+          }
+        ]
+      }
+    ]
+  },
   "23:27": {
     "sections": [
       {
