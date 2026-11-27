@@ -1615,6 +1615,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:35": {
+    "sections": [
+      {
+        "h": {
+          "en": "One Link in a Long Chain",
+          "bn": "লম্বা শিকলের একটি কড়া"
+        },
+        "p": [
+          {
+            "en": "Wa-awfu al-kayla idha kiltum wa-zinu bil-qistasi al-mustaqim; dhalika khayrun wa-ahsanu ta'wila: and give full measure when you measure, and weigh with the straight balance; that is better and finer in outcome. The verse is one link in the chain of commands that runs from 17:22 to 17:39, a chain that opens and closes with the warning against setting up another god beside Allah. At-Tabari reads each link back to the verb of 17:23, your Lord has decreed. In his paraphrase this verse begins: and He decreed that you give full measure.",
+            "bn": "ওয়া আওফুল কাইলা ইযা কিলতুম ওয়া যিনূ বিল কিসতাসিল মুসতাকীম, যালিকা খাইরুঁও ওয়া আহসানু তা'ওয়ীলা: মেপে দেওয়ার সময় পুরো মাপ দাও, আর সোজা দাঁড়িপাল্লায় ওজন করো; এটাই উত্তম, পরিণামেও সুন্দর। ১৭:২২ থেকে ১৭:৩৯ পর্যন্ত যে আদেশের শিকল চলেছে, এ আয়াত তার একটি কড়া। শিকলটা শুরু হয়েছে আল্লাহর সঙ্গে অন্য ইলাহ না বানানোর সতর্কবাণী দিয়ে, শেষও হয়েছে সেই কথায়। তাবারী প্রতিটি আদেশকে ফিরিয়ে নেন ১৭:২৩ আয়াতের ক্রিয়ার কাছে: তোমার রব ফয়সালা করে দিয়েছেন। তাই তাঁর ব্যাখ্যায় এ আয়াতের শুরুটা দাঁড়ায় এমন: আর তিনি ফয়সালা করেছেন যে, তোমরা পুরো মাপ দেবে।"
+          },
+          {
+            "en": "The nearest neighbours make a pattern worth seeing. Verse 17:34 forbids going near an orphan's wealth except in the best way and commands keeping covenants, for the covenant will be asked about. Verse 17:36 forbids following what one has no knowledge of, since hearing, sight and heart will all be asked about. Weights and measures sit between two things that are questioned. The abridged English Ibn Kathir takes 17:34 and 17:35 under one heading, the orphan's wealth and honesty in weights and measures, and 6:152 sets the same two commands side by side in the same order.",
+            "bn": "কাছের দুই প্রতিবেশী আয়াতে একটা নকশা চোখে পড়ে। ১৭:৩৪ আয়াত ইয়াতীমের সম্পদের কাছে যেতে নিষেধ করে, উত্তম পন্থা ছাড়া, আর ওয়াদা পূরণের আদেশ দেয়, কারণ ওয়াদা সম্পর্কে জিজ্ঞাসা করা হবে। ১৭:৩৬ আয়াত নিষেধ করে যে বিষয়ে জ্ঞান নেই তার পেছনে চলতে, কারণ কান, চোখ আর অন্তর, সবকিছু সম্পর্কেই জিজ্ঞাসা করা হবে। মাপ আর ওজনের আদেশটা তাই বসে আছে জিজ্ঞাসার দুই বিষয়ের মাঝখানে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ১৭:৩৪ ও ১৭:৩৫ একই শিরোনামে আলোচনা করে: ইয়াতীমের সম্পদ আর মাপে-ওজনে সততা। ৬:১৫২ আয়াতেও এ দুই আদেশ পাশাপাশি এসেছে, একই ক্রমে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Measuring Is Yours",
+          "bn": "মাপার দায় যখন আপনার"
+        },
+        "p": [
+          {
+            "en": "The condition idha kiltum, when you measure, fixes the moment the command speaks to: the hand that pours out to someone else. At-Tabari spells it out as giving people full measure when you measure out to them the rights they hold against you, and not shortchanging them. The Muyassar puts it plainly: complete the measure, and do not reduce it when you measure for others. Ibn Kathir glosses it as measuring without tatfif, short-weighting, and adds wa-la tabkhasu an-nasa ashya'ahum, do not diminish people's goods, the words Shu'ayb (AS) speaks at 11:85.",
+            "bn": "ইযা কিলতুম, যখন তোমরা মেপে দাও। এ শর্তটুকু ঠিক করে দেয় আদেশটা কোন মুহূর্তের জন্য: যে হাত অন্যের পাত্রে ঢেলে দিচ্ছে, সেই হাতের জন্য। তাবারী খুলে বলেন, তোমাদের কাছে মানুষের যে হক পাওনা আছে, তা মেপে দেওয়ার সময় পুরো মাপ দাও, তাদের ঠকিয়ো না। মুয়াসসার সাদামাটা ভাষায় বলে: অন্যকে মেপে দেওয়ার সময় মাপ পুরো করো, কম করো না। ইবন কাসীর এর ব্যাখ্যা দেন তাতফীফ ছাড়া মাপা, অর্থাৎ ওজনে না ঠকানো। সঙ্গে জুড়ে দেন ওয়া লা তাবখাসুন নাসা আশইয়াআহুম: মানুষের জিনিস কম দিয়ো না। ১১:৮৫ আয়াতে শুআইব (আঃ)-এর মুখে এই কথাগুলোই আছে।"
+          },
+          {
+            "en": "Al-Qurtubi widens the frame. For him the command means balance in taking and in giving, at the time of buying and selling. The contrast appears in 83:1 to 83:3, which pictures the opposite habit: those who take full measure when they receive from people, and give short when they measure or weigh for them. The verse here names only the side on which a person is tempted. It leaves the reader to notice that the cheat of 83:3 is exacting enough when the measure runs his way, and that the failure lies in how he measures for someone else.",
+            "bn": "কুরতুবী পরিসরটা বড় করেন। তাঁর মতে আদেশটা হলো কেনাবেচার সময় নেওয়া আর দেওয়া, দুই দিকেই ভারসাম্য রাখা। উল্টো অভ্যাসের ছবি আছে ৮৩:১ থেকে ৮৩:৩ আয়াতে: মানুষের কাছ থেকে মেপে নেওয়ার সময় তারা পুরো নেয়, আর মেপে বা ওজন করে দেওয়ার সময় কম দেয়। এখানকার আয়াত শুধু সেই দিকটার নাম নেয়, যেখানে মানুষ প্রলোভনে পড়ে। পাঠক নিজেই খেয়াল করেন, ৮৩:৩-এর ঠকবাজ নিজের পাওনার বেলায় দিব্যি হিসাবি। তার গলদ ধরা পড়ে অন্যকে মেপে দেওয়ার বেলায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Seller's Hand on the Scale",
+          "bn": "পাল্লা থাকে বিক্রেতার হাতে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws one legal point from the wording: the verse requires that the measuring is the seller's duty. He does not argue it again here, saying the matter was already treated in Surah Yusuf and there is no point repeating it. Ma'arif al-Qur'an reaches the same place through Abu Hayyan's al-Bahr al-Muhit, which it reports as saying that the responsibility for full weight and measure in this verse has been placed on the seller, who is the one responsible for weighing, measuring and seeing that it is full as due.",
+            "bn": "শব্দগুলো থেকে কুরতুবী একটি ফিকহি কথা বের করেন: আয়াতের দাবি হলো, মাপার দায়িত্ব বিক্রেতার। তিনি এখানে আর যুক্তি দেখান না। বলেন, সূরা ইউসুফে বিষয়টার আলোচনা হয়ে গেছে, আবার বলার দরকার নেই। মাআরিফুল কুরআন একই সিদ্ধান্তে পৌঁছায় আবু হাইয়ানের আল-বাহরুল মুহীত-এর সূত্রে। সেখানে আছে, এ আয়াতে পুরো ওজন ও পুরো মাপের দায় চাপানো হয়েছে বিক্রেতার উপর। ওজন করা, মাপা, আর প্রাপ্য অনুযায়ী পুরো হলো কিনা দেখা, এসবের দায় তারই।"
+          },
+          {
+            "en": "The point follows from who holds the scale. The buyer can watch, but it is the seller's hand that fills the vessel and settles the pan, so the command goes to the person with the power to give short. The same logic reaches past a market stall. Whoever stands where a shortfall can be hidden, in a delivery, a wage or a service, is the person the verse is speaking to, and the care it asks of him cannot wait until the other party thinks to check.",
+            "bn": "কথাটা আসে পাল্লা কার হাতে, সেখান থেকে। ক্রেতা চেয়ে চেয়ে দেখতে পারেন, কিন্তু পাত্র ভরে বিক্রেতার হাত, পাল্লাও স্থির হয় তারই হাতে। তাই আদেশটা যায় তার কাছে, কম দেওয়ার ক্ষমতা যার আছে। এই যুক্তি বাজারের দোকান ছাড়িয়ে আরও দূরে যায়। মাল পৌঁছে দেওয়া, মজুরি দেওয়া বা কোনো সেবা দেওয়া, যেখানেই কেউ এমন জায়গায় দাঁড়িয়ে, যেখান থেকে ঘাটতি লুকানো যায়, আয়াত তার সঙ্গেই কথা বলছে। আর অপর পক্ষ কবে যাচাই করার কথা ভাববে, সে অপেক্ষায় এ সতর্কতা বসে থাকতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Steelyard, Justice or Any Balance",
+          "bn": "কাব্বান, ইনসাফ, না যেকোনো পাল্লা"
+        },
+        "p": [
+          {
+            "en": "Then the second command: wa-zinu bil-qistas, and weigh with the qistas. At-Tabari says plainly that the commentators differed over what the word means, and gives three positions with their sources. Al-Hasan, through a chain at-Tabari cites, said it is al-qabban, the steelyard. Mujahid, through Ibn Jurayj, said it is al-'adl, justice, in the Roman tongue. A third group said it is the balance, whether small or large. Al-Baghawi repeats al-Hasan's steelyard, and al-Qurtubi gives the third view in the name of az-Zajjaj: the qistas is the balance, small or large.",
+            "bn": "এরপর দ্বিতীয় আদেশ: ওয়া যিনূ বিল কিসতাস, কিসতাস দিয়ে ওজন করো। তাবারী সোজাসুজি বলেন, শব্দটার অর্থ নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে। তিনি সূত্রসহ তিনটি মত আনেন। তাঁর উল্লেখ করা সনদে হাসান বলেছেন, এটা কাব্বান, অর্থাৎ দণ্ডপাল্লা। ইবন জুরাইজের সূত্রে মুজাহিদ বলেছেন, রোমান ভাষায় এর অর্থ আদল, মানে ইনসাফ। তৃতীয় দলের মতে, এটা দাঁড়িপাল্লা, ছোট হোক বা বড়। বাগাভীও হাসানের কাব্বানের কথা আনেন। আর তৃতীয় মতটা কুরতুবী আনেন যাজ্জাজের নামে: কিসতাস মানে দাঁড়িপাল্লা, ছোট বা বড় যা-ই হোক।"
+          },
+          {
+            "en": "Al-Qurtubi adds two more voices. Ibn 'Aziz said the qistas is the balance in the language of the Romans. And al-Qurtubi reports Mujahid as saying the qistas is justice, noting that Mujahid used to call it a Roman word, and then draws out what that reading does to the command: it is as though people had been told, weigh with fairness in your weighing. On Mujahid's reading the verse names justice itself as the thing a person weighs with. The instrument matters, but what it must carry is fairness.",
+            "bn": "কুরতুবী আরও দুটি মত যোগ করেন। ইবন আযীয বলেছেন, কিসতাস হলো রোমানদের ভাষায় দাঁড়িপাল্লা। আর মুজাহিদের কথা কুরতুবী এভাবে আনেন: কিসতাস মানে ইনসাফ, আর মুজাহিদ একে রোমান শব্দ বলতেন। তারপর কুরতুবী দেখান, এ অর্থ ধরলে আদেশটা কেমন দাঁড়ায়। যেন মানুষকে বলা হয়েছে: ওজন করার সময় ইনসাফের সঙ্গে ওজন করো। মুজাহিদের ব্যাখ্যায় তাই যা দিয়ে ওজন করার কথা, তা খোদ ইনসাফ। যন্ত্রটা জরুরি ঠিকই, কিন্তু তাকে বহন করতে হবে ন্যায্যতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Borrowed Word or Arabic Root",
+          "bn": "ধার করা শব্দ, না আরবি মূল"
+        },
+        "p": [
+          {
+            "en": "Where the word comes from is a second disagreement. Al-Baghawi sets it out in a line: Mujahid said it is Roman; another said it is Arabic, taken from al-qist, which is justice. Al-Baghawi does not name the second speaker and does not choose between the two. Ibn Kathir, in his Arabic tafsir, glosses the qistas as the balance and adds only Mujahid's report that it means justice in the Roman tongue. The texts fetched for this verse say nothing more about the word's history, so this article says nothing more either.",
+            "bn": "শব্দটা কোথা থেকে এসেছে, তা নিয়ে দ্বিতীয় মতভেদ। বাগাভী এক লাইনে দুটি মত রাখেন: মুজাহিদ বলেছেন, এটা রোমান শব্দ। আরেকজন বলেছেন, এটা আরবি, এসেছে কিসত থেকে, যার অর্থ ইনসাফ। দ্বিতীয় বক্তার নাম বাগাভী বলেন না, কোন মতটা ঠিক, সে রায়ও দেন না। ইবন কাসীর তাঁর আরবি তাফসীরে কিসতাসের অর্থ বলেন দাঁড়িপাল্লা, আর সঙ্গে শুধু মুজাহিদের বর্ণনাটা আনেন, রোমান ভাষায় এর অর্থ ইনসাফ। এ আয়াতের জন্য যে তাফসীরগুলো সংগ্রহ করা হয়েছে, শব্দের ইতিহাস নিয়ে সেগুলো এর বেশি কিছু বলে না। তাই এ লেখাও এর বেশি বলবে না।"
+          },
+          {
+            "en": "The word is also read in two ways. At-Tabari says it has two forms, qistas with kasra and qustas with damma, like qirtas and qurtas. Most readers of Kufa read the kasra; most of Medina and Basra read the damma, with some Kufans too. Whichever form a reader uses is right, he says, since both are well known and both are widely read in the cities. Al-Baghawi and al-Qurtubi name Hamza, al-Kisa'i and Hafs from 'Asim for the kasra, and the Arabic text given with this verse carries the kasra: bil-qistas.",
+            "bn": "শব্দটা পড়াও হয় দুইভাবে। তাবারী বলেন, এর দুটি রূপ আছে: কাফে যের দিয়ে কিসতাস, আর পেশ দিয়ে কুসতাস, ঠিক যেমন কিরতাস ও কুরতাস। কুফার অধিকাংশ কারী যের দিয়ে পড়েন। মদীনা ও বসরার অধিকাংশ পড়েন পেশ দিয়ে, কুফার কেউ কেউও তা-ই পড়েন। তাবারীর মতে যেভাবেই পড়া হোক, পাঠ সঠিক, কারণ দুটো রূপই সুপরিচিত, আর দুটোই নানা শহরের কারীদের মধ্যে ব্যাপকভাবে প্রচলিত। বাগাভী ও কুরতুবী যেরের কিরাআতে হামযা, কিসাঈ এবং আসিম থেকে হাফসের নাম করেন। এ আয়াতের সঙ্গে দেওয়া আরবি পাঠেও যের আছে: বিল কিসতাস।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing Crooked in the Beam",
+          "bn": "পাল্লার দণ্ডে কোনো বাঁক নেই"
+        },
+        "p": [
+          {
+            "en": "Al-mustaqim, straight, describes the balance. Ibn Kathir explains it as a balance in which there is no crookedness, no deviation and no wobble. At-Tabari folds the moral into the instrument: the straight balance is justice in which there is no crookedness, no dagal, hidden corruption, and no khadi'a, deceit. A scale can be bent where anyone can see it, or it can look level while it cheats. At-Tabari's three words shut all three ways at once: the visible bend, the concealed flaw, and the trick played with an honest-looking pan.",
+            "bn": "আল-মুসতাকীম, সোজা, দাঁড়িপাল্লার বিশেষণ। ইবন কাসীর এর ব্যাখ্যা দেন: যার মধ্যে কোনো বাঁক নেই, কোনো হেলে পড়া নেই, কোনো দোলাচল নেই। তাবারী যন্ত্রটার ভেতরেই নৈতিকতা ঢুকিয়ে দেন। তাঁর ভাষায় সোজা পাল্লা মানে এমন ইনসাফ, যাতে বাঁক নেই, দাগাল বা গোপন গলদ নেই, খাদীআ বা প্রতারণাও নেই। পাল্লা এমনভাবে বাঁকানো যায় যে সবাই দেখতে পায়। আবার সমান দেখিয়েও তা ঠকাতে পারে। তাবারীর তিনটি শব্দ তিনটি পথই একসঙ্গে বন্ধ করে দেয়: চোখে পড়া বাঁক, লুকানো ত্রুটি, আর সৎ চেহারার পাল্লা দিয়ে খেলা চালাকি।"
+          },
+          {
+            "en": "As-Sa'di carries the command past the scale. He calls the verse a command to justice and to full measures and weights, without diminishing or shortfall. Then he says its general sense yields a prohibition of every kind of cheating, in the price, in the goods sold, or in anything contracted for, together with a command to sincerity and truthfulness in dealing. On his reading the verse covers the whole transaction. The same words, wa-zinu bil-qistasi al-mustaqim, return at 26:182 in the preaching of Shu'ayb (AS), and 11:84 and 11:85 carry his call against short measure.",
+            "bn": "সা'দী আদেশটাকে দাঁড়িপাল্লার বাইরেও নিয়ে যান। তাঁর কথায় আয়াতটি ইনসাফের আদেশ, মাপ ও ওজন পুরো করার আদেশ, কোনো কমতি বা ঘাটতি ছাড়া। তারপর বলেন, এর অর্থের ব্যাপকতা থেকে নিষেধ বেরিয়ে আসে সব রকম প্রতারণার: দামে, বিক্রির জিনিসে, কিংবা যে কোনো চুক্তির বিষয়ে। সঙ্গে আসে লেনদেনে আন্তরিকতা আর সত্যবাদিতার আদেশ। তাঁর ব্যাখ্যায় তাই আয়াতের আওতায় পড়ে পুরো লেনদেনটাই। ওয়া যিনূ বিল কিসতাসিল মুসতাকীম, এই শব্দগুলোই ২৬:১৮২ আয়াতে আবার এসেছে শুআইব (আঃ)-এর দাওয়াতে। আর ১১:৮৪ ও ১১:৮৫ আয়াতে আছে মাপে কম দেওয়ার বিরুদ্ধে তাঁর আহ্বান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Better Now, Finer at the End",
+          "bn": "আজও উত্তম, শেষেও সুন্দর"
+        },
+        "p": [
+          {
+            "en": "The verse closes with a reason: dhalika khayrun wa-ahsanu ta'wila. Every commentator fetched here takes ta'wil in this verse as outcome, where a thing ends up, but they place the two words differently. Ibn Kathir says khayr means better for you in your livelihood and in your return, while ahsanu ta'wila means finer in result and in where you end up, in your hereafter. The Muyassar divides it another way: justice in measure and weight is better for you in this world, and finer in outcome with Allah in the hereafter. Al-Baghawi and al-Qurtubi gloss ta'wil simply as 'aqiba, outcome.",
+            "bn": "আয়াত শেষ হয় একটি কারণ দেখিয়ে: যালিকা খাইরুঁও ওয়া আহসানু তা'ওয়ীলা। এখানে যত তাফসীর সংগ্রহ করা হয়েছে, সবগুলোই এ আয়াতে তা'ওয়ীল মানে নিয়েছে পরিণাম, কোনো কিছু শেষে যেখানে গিয়ে দাঁড়ায়। তবে দুই শব্দের জায়গা তাঁরা ভিন্নভাবে ঠিক করেন। ইবন কাসীরের মতে খাইর মানে তোমাদের জীবিকায় আর প্রত্যাবর্তনে, দুই জায়গাতেই উত্তম। আর আহসানু তা'ওয়ীলা মানে আখিরাতে তোমাদের শেষ ঠিকানা ও পরিণতির দিক থেকে সুন্দর। মুয়াসসার ভাগ করে অন্যভাবে: মাপে ও ওজনে ইনসাফ দুনিয়াতে তোমাদের জন্য উত্তম, আর আখিরাতে আল্লাহর কাছে পরিণামে সুন্দর। বাগাভী ও কুরতুবী তা'ওয়ীলের অর্থ বলেন শুধু আকিবা, অর্থাৎ পরিণাম।"
+          },
+          {
+            "en": "At-Tabari ties both words to the other person. Your giving full measure, he says, is better for you than shortchanging and wronging them, and finer in what comes back to you from it, because Allah is pleased with that from you and rewards you well for it. Qatada, in both at-Tabari and Ibn Kathir, says better in reward and in final result. Al-Qurtubi has better with your Lord and more blessed. As-Sa'di names two fruits: by it the servant is kept safe from the claims that follow a wrong, and by it blessing comes down.",
+            "bn": "তাবারী দুটো শব্দকেই বেঁধে দেন অপর মানুষটির সঙ্গে। তাঁর কথায়, মানুষকে ঠকানো আর তাদের উপর জুলুম করার চেয়ে পুরো মাপ দেওয়া তোমাদের জন্য উত্তম। আর এর বিনিময়ে যা তোমাদের দিকে ফিরে আসে, সে হিসেবেও সুন্দর, কারণ আল্লাহ তোমাদের এ কাজে সন্তুষ্ট হন, আর এর জন্য উত্তম প্রতিদান দেন। তাবারী ও ইবন কাসীর দুজনের কাছেই কাতাদার কথা আছে: সওয়াবে উত্তম, পরিণামেও উত্তম। কুরতুবী বলেন, তোমার রবের কাছে উত্তম, বরকতেও বেশি। সা'দী দুটি ফলের কথা বলেন: এর মাধ্যমে বান্দা অন্যায়ের পেছনে আসা দাবি-দাওয়া থেকে বেঁচে যায়, আর এর মাধ্যমেই বরকত নামে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads the pair as two separate claims. Khayr says the rule is good in itself: no normal and decent person regards short weighing as something nice, whether religiously, rationally or naturally. Ahsanu ta'wila says it is better in the end, which takes in the reward of the hereafter and also a happy outcome in this life, since, it says, no business can prosper until its goodwill stands recognised in the market. The same three words, dhalika khayrun wa-ahsanu ta'wila, also close 4:59, after the command to refer disputes back to Allah and the Messenger.",
+            "bn": "মাআরিফুল কুরআন জোড়াটাকে পড়ে দুটি আলাদা দাবি হিসেবে। খাইর বলছে, নিয়মটা নিজেই ভালো। স্বাভাবিক ও ভদ্র কোনো মানুষ ওজনে কম দেওয়াকে ভালো কাজ মনে করে না, ধর্মের দিক থেকেও না, বুদ্ধির দিক থেকেও না, স্বভাবের দিক থেকেও না। আহসানু তা'ওয়ীলা বলছে, শেষ ফলেও এটা উত্তম। এর মধ্যে আখিরাতের প্রতিদান যেমন আছে, তেমনি দুনিয়ার জীবনের সুখকর পরিণতিও আছে। কারণ, মাআরিফুল কুরআন বলে, বাজারে সুনাম প্রতিষ্ঠিত না হলে কোনো ব্যবসাই উন্নতি করতে পারে না। যালিকা খাইরুঁও ওয়া আহসানু তা'ওয়ীলা, ঠিক এই তিনটি শব্দ দিয়েই শেষ হয়েছে ৪:৫৯ আয়াত, বিরোধের বিষয় আল্লাহ ও রাসূলের দিকে ফিরিয়ে দেওয়ার আদেশের পর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Trusts That Ruined Peoples",
+          "bn": "দুই দায়িত্ব, যাতে জাতি ধ্বংস হয়েছে"
+        },
+        "p": [
+          {
+            "en": "Qatada, in the report at-Tabari carries, says that Ibn 'Abbas (RA) used to say: O company of mawali, you have been put in charge of two things by which people before you were destroyed: this measure and this balance. Ibn Kathir carries the same words, and his abridged English renders the address as O people. Ibn 'Abbas names no nation. A reader of the Qur'an may recall Madyan, to whom Shu'ayb (AS) said at 11:84, do not decrease the measure and the scale, but the words of Ibn 'Abbas as relayed here do not say whom he meant.",
+            "bn": "তাবারীর আনা বর্ণনায় কাতাদা জানান, ইবন আব্বাস (রাঃ) বলতেন: হে মাওয়ালিরা, তোমাদের হাতে এমন দুটি জিনিসের দায়িত্ব এসেছে, যার কারণে তোমাদের আগের মানুষেরা ধ্বংস হয়েছে: এই মাপের পাত্র আর এই দাঁড়িপাল্লা। ইবন কাসীরও একই কথা আনেন, তবে তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণে সম্বোধনটা হয়েছে, হে লোকসকল। ইবন আব্বাস (রাঃ) কোনো জাতির নাম বলেননি। কুরআনের পাঠকের হয়তো মাদইয়ানের কথা মনে পড়বে, যাদের ১১:৮৪ আয়াতে শুআইব (আঃ) বলেছিলেন, মাপে ও ওজনে কম দিয়ো না। কিন্তু এখানে বর্ণিত কথায় ইবন আব্বাস (রাঃ) কাদের বুঝিয়েছেন, তা বলা নেই।"
+          },
+          {
+            "en": "This needs saying plainly. The warning of Ibn 'Abbas and the Qur'an's accounts of Shu'ayb's people describe what those texts describe, and no more. They license nothing against any living person or community, and nothing against traders, shopkeepers or any trade as a class. The verse speaks to the one reading it, about his own scale. Nor does any tafsir fetched here attach a sound hadith to this verse. Qatada, whom al-Qurtubi names as al-Hasan, relays as something mentioned to them a saying attributed to the Prophet ﷺ on leaving the unlawful; it has no chain and no grading, and nothing here rests on it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। ইবন আব্বাস (রাঃ)-এর সতর্কবাণী আর শুআইব (আঃ)-এর জাতি নিয়ে কুরআনের বর্ণনা, এ পাঠগুলো যা বলে শুধু তা-ই বলে, তার বেশি নয়। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এগুলো কোনো অনুমতি দেয় না। ব্যবসায়ী, দোকানদার বা কোনো পেশার মানুষকে গোটা দল হিসেবে সন্দেহ করারও অনুমতি দেয় না। আয়াত কথা বলছে পাঠকের সঙ্গে, তার নিজের পাল্লা নিয়ে। আর এখানে সংগ্রহ করা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। কাতাদা, কুরতুবী যাঁর জায়গায় হাসানের নাম বলেন, নবী ﷺ-এর নামে হারাম ছেড়ে দেওয়া বিষয়ে একটি কথা আনেন 'আমাদের কাছে উল্লেখ করা হয়েছে' বলে। এর কোনো সনদ নেই, কোনো মানও নির্ধারিত নেই, তাই এখানে কোনো কিছুই এর উপর দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "What stays is the shape of the command. It does not ask for honesty in general terms. It names the moment the hand pours and the moment the pan settles, and it gives a reason that looks past the till. A few grams kept back are a gain only if the account closes today, and the verse says the account does not close today. Each of us holds a measure somewhere: at a counter, on a timesheet, in a report or in a promise, and the command is spoken to the hand that holds it.",
+            "bn": "শেষে যা থেকে যায়, তা আদেশটার গড়ন। আয়াত সাধারণভাবে সৎ হতে বলে থেমে যায়নি। সে নাম ধরে বলেছে সেই মুহূর্তের কথা, যখন হাত পাত্রে ঢালে, যখন পাল্লা স্থির হয়। আর এমন এক কারণ দেখিয়েছে, যা ক্যাশবাক্স ছাড়িয়ে আরও দূরে তাকায়। কয়েক গ্রাম কম দেওয়া লাভ হতো, যদি হিসাব আজই বন্ধ হয়ে যেত। আয়াত জানিয়ে দেয়, হিসাব আজ বন্ধ হয় না। আমাদের প্রত্যেকের হাতেই কোথাও না কোথাও একটা মাপ আছে: দোকানের কাউন্টারে, কাজের হাজিরা খাতায়, কোনো রিপোর্টে, কিংবা দেওয়া কথায়। আদেশটা সেই হাতকেই উদ্দেশ করে।"
+          }
+        ]
+      }
+    ]
+  },
   "17:37": {
     "sections": [
       {

@@ -33703,6 +33703,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hear the warning with the good news: belief in the return to your Lord is meant to hold your hand back from sin, not to sit idle in the mind.",
     "lessonBn": "সুসংবাদের সঙ্গে সতর্কবাণীটাও শুনুন। রবের কাছে ফিরে যাওয়ার বিশ্বাস মাথায় অলস পড়ে থাকার জন্য নয়, গুনাহ থেকে হাত থামানোর জন্য।"
+  },
+  "17:35": {
+    "reflectionEn": "A kilo of rice, a litre of oil, a metre of cloth: somewhere a scale or measure stands between two people, and only one of them is holding it. The verse speaks to that one. Give full measure when you measure, and weigh with a balance that is straight. It does not wait for the buyer to complain or an inspector to arrive; it addresses the hand at the moment it pours. Then it gives a reason that is easy to forget at the till: this is better, and finer in where it ends. A few grams kept back look like gain today. Where do they lead? And the scale is not only in shops. Every hour paid for, every report and every promise has its own measure.",
+    "reflectionBn": "এক কেজি চাল, এক লিটার তেল, এক গজ কাপড়। দুজন মানুষের মাঝখানে কোথাও একটা দাঁড়িপাল্লা বা মাপের পাত্র থাকে, আর সেটা থাকে একজনেরই হাতে। আয়াতটি কথা বলে সেই মানুষটির সঙ্গে। মেপে দেওয়ার সময় পুরো মেপে দিন, ওজন করুন সোজা দাঁড়িপাল্লায়। ক্রেতা কবে অভিযোগ করবে বা পরিদর্শক কবে আসবে, আয়াত সে অপেক্ষায় থাকে না। ঢালার মুহূর্তেই সে হাতটাকে ধরে। তারপর এমন এক কারণ দেখায়, যা ক্যাশবাক্সের সামনে দাঁড়িয়ে সহজেই ভুলে যাওয়া যায়: এটাই উত্তম, আর শেষ পরিণামেও সুন্দর। আজ কয়েক গ্রাম কম দিলে মনে হয় লাভ হলো। কিন্তু সে লাভ গিয়ে থামে কোথায়? পাল্লা আবার শুধু দোকানেই থাকে না। যে ঘণ্টার বেতন নিই, যে রিপোর্ট জমা দিই, যে কথা দিই, প্রত্যেকটার নিজস্ব একটা মাপ আছে।",
+    "pointsEn": [
+      "Where in my week am I the one holding the scale, and does the other person ever see how I measure?",
+      "Have I ever given a little less because I was sure no one would notice?",
+      "Am I as careful when I measure out to others as I am when they measure out to me?",
+      "Which of my everyday dealings, in work, in trade or in a promise, has a hidden measure that I tend to shave?",
+      "When a small dishonest gain looks good today, do I ever picture where it ends?"
+    ],
+    "pointsBn": [
+      "আমার সপ্তাহের কোন কোন জায়গায় পাল্লাটা আমার হাতে থাকে? অপর পক্ষ কি কখনো দেখতে পায়, আমি কীভাবে মাপি?",
+      "কেউ টের পাবে না, এ ভরসায় কি কখনো একটু কম দিয়েছি?",
+      "অন্যকে মেপে দেওয়ার সময় আমি কি ততটাই সতর্ক থাকি, যতটা থাকি অন্যরা আমাকে মেপে দেওয়ার সময়?",
+      "কাজে, ব্যবসায় বা দেওয়া কথায়, আমার রোজকার লেনদেনের কোনটার ভেতরে এমন গোপন মাপ আছে, যেখান থেকে আমি একটু করে কেটে রাখি?",
+      "ছোট্ট একটা অসৎ লাভ আজ যখন লোভনীয় মনে হয়, তখন কি ভেবে দেখি সেটা শেষে কোথায় নিয়ে যাবে?"
+    ],
+    "lessonEn": "Give full measure and weigh with a true balance in every dealing, even when no one is checking; honest measure is better now and finer in where it leads.",
+    "lessonBn": "প্রতিটি লেনদেনে পুরো মাপ দিন, সঠিক পাল্লায় ওজন করুন, কেউ যাচাই না করলেও। সৎ মাপ আজও উত্তম, পরিণামেও সুন্দর।"
   }
 };
 
