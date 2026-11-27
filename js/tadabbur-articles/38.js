@@ -1807,6 +1807,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "38:41": {
+    "sections": [
+      {
+        "h": {
+          "en": "From a Kingdom to a Sickbed",
+          "bn": "রাজত্ব থেকে রোগশয্যায়"
+        },
+        "p": [
+          {
+            "en": "Wa-dhkur 'abdana Ayyub: and remember Our servant Ayyub. The verses before it close the account of Sulayman (AS), given the wind, the builders and a gift without account, and promised nearness and a good return in 38:40. Then, with no bridge, comes a servant who has lost his health. At-Tabari reads the command as spoken to the Prophet Muhammad ﷺ: remember also, O Muhammad, Our servant Ayyub. The call fills this verse, and 38:42 to 38:44 carry the answer.",
+            "bn": "ওয়াযকুর আবদানা আইয়ুব: আর স্মরণ করো আমার বান্দা আইয়ুবকে। আগের আয়াতগুলোয় শেষ হয়েছে সুলাইমান (আঃ)-এর কথা। বাতাস, নির্মাতা জিন আর এমন দান তিনি পেয়েছিলেন, যা ইচ্ছেমতো দেওয়া বা রেখে দেওয়ার কোনো হিসাব নেই। ৩৮:৪০ আয়াতে তাঁকে নৈকট্য আর উত্তম ঠিকানার কথা দেওয়া হয়েছে। তারপর কোনো ভূমিকা ছাড়াই আসেন এমন এক বান্দা, যাঁর স্বাস্থ্য চলে গেছে। তাবারীর মতে আদেশটি নবী মুহাম্মাদ ﷺ-কে করা: হে মুহাম্মাদ, আমার বান্দা আইয়ুবকেও স্মরণ করো। ডাকটা এই আয়াতে, আর তার জবাব ৩৮:৪২ থেকে ৩৮:৪৪ আয়াতে।"
+          },
+          {
+            "en": "Why place him here? Al-Qurtubi calls the command an instruction to the Prophet ﷺ to follow these men in patience over what is hard to bear. Ma'arif al-Qur'an says the event is brought in to comfort the Prophet ﷺ and move him to patience. As-Sa'di reads wa-dhkur as: mention him in this Book of remembrance with the finest mention, and praise him with the finest praise. So the verse begins with honour: he is 'abdana, Our servant, before a word is said about his pain.",
+            "bn": "তাঁকে এখানে আনা হলো কেন? কুরতুবী বলেন, আদেশটি নবী ﷺ-এর প্রতি নির্দেশ, যেন কষ্টের মুখে ধৈর্যে তিনি এঁদের পথ ধরেন। মাআরিফুল কুরআন বলে, ঘটনাটি আনা হয়েছে নবী ﷺ-কে সান্ত্বনা দিতে আর ধৈর্যে উৎসাহ দিতে। সা'দী ওয়াযকুরের অর্থ করেন এভাবে: উপদেশে ভরা এই কিতাবে তাঁর কথা বলো সবচেয়ে সুন্দরভাবে, তাঁর প্রশংসা করো সবচেয়ে সুন্দর প্রশংসায়। তাই আয়াতের শুরুটাই এক সম্মান। কষ্টের কথা ওঠার আগেই তাঁকে ডাকা হয়েছে আবদানা নামে, আমার বান্দা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Call for Rescue",
+          "bn": "উদ্ধারের জন্য ডাক"
+        },
+        "p": [
+          {
+            "en": "Idh nada rabbahu: when he called to his Lord. At-Tabari explains the verb with one added word, mustaghithan: calling on Him for rescue from the trial that had come down on him. As-Sa'di approaches it from the other side. Harm struck Ayyub (AS) and he bore it patiently, taking refuge with no one but Him. He called on Him in supplication, and to Him, not to anyone else, he made his complaint.",
+            "bn": "ইয নাদা রব্বাহু: যখন সে তার রবকে ডাকল। তাবারী ক্রিয়াটির ব্যাখ্যায় একটি শব্দ জুড়ে দেন, মুস্তাগীসান: যে বিপদ তাঁর উপর নেমেছিল, তা থেকে উদ্ধার চেয়ে ডাকা। সা'দী একই কথায় পৌঁছান অন্য দিক থেকে। কষ্ট এসেছিল, আর আইয়ুব (আঃ) সবর করেছিলেন। রব ছাড়া আর কারও আশ্রয় তিনি নেননি। দোয়া করে তিনি তাঁকেই ডেকেছেন, আর নালিশ যা ছিল, তা জানিয়েছেন তাঁকেই, অন্য কাউকে নয়।"
+          },
+          {
+            "en": "Al-Qurtubi records a reading of 'Isa ibn 'Umar, inni with a kasra, which turns the words into direct speech: he said, I have been touched. The common reading, anni, reports what the call contained. The same call appears in other words in Surah al-Anbiya': anni massaniya ad-durru wa-anta arhamu ar-rahimin, harm has touched me, and You are the most merciful of those who show mercy (21:83). Ibn Kathir quotes both. That call and its answer are treated under 21:84.",
+            "bn": "কুরতুবী ঈসা ইবন উমারের একটি কিরাআত উল্লেখ করেন: ইন্নী, হামযায় যের দিয়ে। এতে কথাটা হয়ে যায় সরাসরি উক্তি: তিনি বললেন, আমাকে ছুঁয়েছে। প্রচলিত কিরাআত আন্নী, যাতে ডাকের ভেতরে কী ছিল, তার খবর দেওয়া হয়। সূরা আম্বিয়াতে একই ডাক এসেছে অন্য শব্দে: আন্নী মাসসানিয়াদ দুররু ওয়া আনতা আরহামুর রাহিমীন, কষ্ট আমাকে ছুঁয়েছে, আর তুমি দয়ালুদের মধ্যে সবচেয়ে বড় দয়ালু (২১:৮৩)। ইবন কাসীর দুটি আয়াতই উদ্ধৃত করেন। সেই ডাক আর তার জবাবের আলোচনা আছে ২১:৮৪ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nusb, Nusub or Nasab",
+          "bn": "নুসব, নুসুব না নাসাব"
+        },
+        "p": [
+          {
+            "en": "Bi-nusbin wa-'adhab: with hardship and torment. At-Tabari records that the readers of the great cities read nusb, the second letter unvoweled, except Abu Ja'far, who read nusub, and from whom nasab is also reported. Al-Baghawi gives nusub to Abu Ja'far and nasab to Ya'qub, and says the meaning of them all is one. Al-Qurtubi, through an-Nahhas, corrects al-Farra' on who read what, and assigns nasab to 'Asim al-Jahdari and Ya'qub al-Hadrami. For most grammarians, he adds, the forms share one meaning.",
+            "bn": "বিনুসবিউ ওয়া আযাব: কষ্ট আর যন্ত্রণা দিয়ে। তাবারী জানান, বড় বড় শহরের কারীরা পড়েছেন নুসব, দ্বিতীয় হরফে সাকিন দিয়ে। ব্যতিক্রম শুধু আবু জা'ফার। তিনি পড়েছেন নুসুব, আর তাঁর থেকে নাসাবও বর্ণিত আছে। বাগাভী নুসুবকে আবু জা'ফারের আর নাসাবকে ইয়াকুবের কিরাআত বলেন, আর জানান, সবগুলোর অর্থ এক। কে কী পড়েছেন, তা নিয়ে কুরতুবী নাহহাসের সূত্রে ফাররার ভুল শুধরে দেন। কুরতুবীর হিসাবে নাসাব হলো আসিম আল-জাহদারী আর ইয়াকুব আল-হাদরামীর কিরাআত। তিনি যোগ করেন, বেশির ভাগ ব্যাকরণবিদের মতে রূপগুলোর অর্থ একই।"
+          },
+          {
+            "en": "What does the word mean? Al-Qurtubi relays Abu 'Ubayda and others: one form means evil and affliction, the other fatigue and exhaustion. At-Tabari cites a Basran scholar of Arabic for whom the word belongs to torment, since the Arabs say ansabani, he tormented me and wore me down. An-Nabigha's line is a witness: leave me, Umayma, to a wearying care, and to a night I endure whose stars are slow. So the word joins weariness to pain, and the verse pairs it with 'adhab, torment.",
+            "bn": "শব্দটির মানে কী? কুরতুবী আবু উবাইদা ও অন্যদের কথা আনেন: একটি রূপের মানে অনিষ্ট ও বিপদ, অন্য রূপের মানে ক্লান্তি ও অবসাদ। তাবারী বসরার এক আরবি ভাষাবিদের মত উদ্ধৃত করেন। তাঁর মতে শব্দটি যন্ত্রণারই শব্দ, কারণ আরবরা বলে আনসাবানী, অর্থাৎ সে আমাকে যন্ত্রণা দিয়েছে, কষ্টে জর্জরিত করেছে। সাক্ষী হিসেবে আসে নাবিগার পঙক্তি: উমাইমা, আমাকে ছেড়ে দাও ক্লান্তিকর দুশ্চিন্তার হাতে, আর এমন রাতের হাতে, যার তারাগুলো নড়তেই চায় না। শব্দটিতে তাই অবসাদ আর ব্যথা একসঙ্গে মেশানো। আয়াত তার পাশে বসিয়েছে আযাব, যন্ত্রণা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Body, Wealth, or Both",
+          "bn": "দেহ, সম্পদ, না দুটোই"
+        },
+        "p": [
+          {
+            "en": "Does each noun name a different loss? Al-Baghawi reports from Qatadah and Muqatil that the nusb was in the body and the 'adhab in wealth. Ibn Kathir gives a similar split under the words it was said: hardship in my body, and torment in my wealth and children. Al-Qurtubi reports the reading too, that the nusb is what struck his body and the 'adhab what struck his wealth, and then judges it: wa-fihi bu'd, there is remoteness in it. He does not say why.",
+            "bn": "দুটি শব্দ কি দুটি আলাদা ক্ষতির নাম? বাগাভী কাতাদা ও মুকাতিল থেকে বর্ণনা করেন: নুসব ছিল দেহে, আর আযাব সম্পদে। ইবন কাসীর 'বলা হয়' কথাটি দিয়ে প্রায় একই ভাগ আনেন: কষ্ট আমার দেহে, আর যন্ত্রণা আমার সম্পদ ও সন্তানে। কুরতুবীও মতটি উল্লেখ করেন, নুসব হলো দেহের বিপদ আর আযাব সম্পদের, তারপর রায় দেন: ওয়া ফীহি বু'দ, এতে দূরত্ব আছে। কেন দূর, তা তিনি বলেননি।"
+          },
+          {
+            "en": "Al-Muyassar keeps the words together: Shaytan brought on me fatigue and hardship, and pain in my body, my wealth and my family. As-Sa'di likewise reads the pair as one description, a matter hard, wearying and tormenting, in body, family and wealth. So the commentators agree on how far the trial reached, and differ only on whether the two nouns divide it between them.",
+            "bn": "মুয়াসসার শব্দ দুটিকে আলাদা করে না: শয়তান আমার উপর এনেছে ক্লান্তি আর কষ্ট, আর আমার দেহে, সম্পদে ও পরিবারে ব্যথা। সা'দীও জোড়াটিকে একটাই বর্ণনা হিসেবে পড়েন: এমন এক অবস্থা, যা কঠিন, ক্লান্তিকর আর যন্ত্রণাদায়ক। তারপর তিনি দেহের কথাও বলেন, পরিবার আর সম্পদ হারানোর কথাও। তাই পরীক্ষা কতদূর ছড়িয়েছিল, তাতে তাফসীরকারেরা একমত। মতভেদ শুধু এ নিয়ে যে শব্দ দুটি সেটাকে নিজেদের মধ্যে ভাগ করে নিয়েছে কি না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Harm Not Named to Him",
+          "bn": "মন্দ তাঁর নামে নয়"
+        },
+        "p": [
+          {
+            "en": "Why does Ayyub (AS) name Shaytan and not his Lord? Al-Qurtubi gives the answer through Ibn al-'Arabi. Every act, good and evil, has one Creator, Allah, with no partner in creating it. Yet evil is not ascribed to Him in speech, even though it exists by His creating. That, Ibn al-'Arabi writes, is a courtesy in which we have been schooled, and a way of praising Him that we have been taught.",
+            "bn": "আইয়ুব (আঃ) রবের নাম না নিয়ে শয়তানের নাম নিলেন কেন? কুরতুবী উত্তর দেন ইবনুল আরাবীর কথায়। ভালো-মন্দ সব কাজের স্রষ্টা একজনই, আল্লাহ। সৃষ্টিতে তাঁর কোনো শরিক নেই। তবু মুখে মন্দকে তাঁর দিকে জোড়া হয় না, যদিও তা অস্তিত্বে আসে তাঁরই সৃষ্টিতে। ইবনুল আরাবীর ভাষায়, এ এক আদব, যা আমাদের শেখানো হয়েছে, আর তাঁর প্রশংসার এক ধরন, যা আমাদের জানানো হয়েছে।"
+          },
+          {
+            "en": "Ibn al-'Arabi gathers three witnesses. Ibrahim (AS): wa-idha maridtu fa-huwa yashfin, and when I fall ill, it is He who heals me (26:80); the illness is spoken of as his own, the healing as his Lord's. The young man with Musa (AS): none made me forget it but Shaytan (18:63). And words the Prophet ﷺ used in remembering his Lord: wa-sh-sharru laysa ilayk, and evil is not to You. Each time, the speaker knows that Allah decrees everything, and still chooses where to place the harm in his sentence.",
+            "bn": "ইবনুল আরাবী তিনটি সাক্ষী আনেন। ইবরাহীম (আঃ): ওয়া ইযা মারিদতু ফাহুয়া ইয়াশফীন, আর আমি যখন অসুস্থ হই, তিনিই আমাকে আরোগ্য দেন (২৬:৮০)। অসুখটাকে তিনি বলেছেন নিজের, আরোগ্যকে রবের। মূসা (আঃ)-এর সঙ্গী যুবক: শয়তানই আমাকে তা ভুলিয়ে দিয়েছে (১৮:৬৩)। আর রবের জিকিরে নবী ﷺ-এর মুখের কথা: ওয়াশ শাররু লাইসা ইলাইক, মন্দ তোমার দিকে নয়। প্রতিবারই বক্তা জানেন, সবকিছু আল্লাহর ফয়সালায় ঘটে। তবু বাক্যের ভেতরে কষ্টটা কোথায় বসাবেন, তা তিনি ভেবে ঠিক করেন।"
+          },
+          {
+            "en": "That last line can be checked. Muslim records it in his Sahih, no. 771, from 'Ali ibn Abi Talib (RA), as one line of a longer supplication the Prophet ﷺ said when he stood for prayer: labbayka wa-sa'dayka, wal-khayru kulluhu fi yadayka, wa-sh-sharru laysa ilayk, here I am at Your service, and all good is in Your hands, and evil is not to You. Beside this verse, the rule is whole: good is named as His, and harm is not hung on Him.",
+            "bn": "শেষ কথাটি যাচাই করা যায়। মুসলিম তাঁর সহীহে, ৭৭১ নম্বরে, আলী ইবন আবী তালিব (রাঃ) থেকে এটি বর্ণনা করেছেন। নামাযে দাঁড়িয়ে নবী ﷺ যে দীর্ঘ দোয়া পড়তেন, এটি তার একটি অংশ: লাব্বাইকা ওয়া সা'দাইকা, ওয়াল খাইরু কুল্লুহু ফী ইয়াদাইকা, ওয়াশ শাররু লাইসা ইলাইক। অর্থাৎ, আমি হাজির, তোমার সেবায় প্রস্তুত, সব কল্যাণ তোমার হাতে, আর মন্দ তোমার দিকে নয়। এ আয়াতের পাশে রাখলে নিয়মটা পুরো হয়: ভালোকে বলা হয় তাঁর, আর মন্দকে তাঁর দিকে জোড়া হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Far Shaytan Reached",
+          "bn": "শয়তানের হাত কতদূর"
+        },
+        "p": [
+          {
+            "en": "On what Shaytan actually did, the commentators differ. As-Sa'di takes the words at their surface: Shaytan was given power over his body and blew into it until it broke out in sores, the matter grew hard on him, and his family and wealth perished too. Al-Qurtubi records a narrower reading, which he cites from an-Nahhas: massaniya ash-shaytan means only what reached him of Shaytan's whispering, nothing more, and Allah knows best. One reading gives Shaytan a hand in the illness; the other confines him to the heart's unrest.",
+            "bn": "শয়তান আসলে কী করেছিল, তা নিয়ে তাফসীরকারদের মত আলাদা। সা'দী শব্দগুলো বাহ্যিক অর্থে নেন: শয়তানকে তাঁর দেহের উপর ক্ষমতা দেওয়া হয়েছিল। সে তাতে ফুঁ দেয়, দেহে ঘা দেখা দেয়, অবস্থা কঠিন হয়ে ওঠে, আর তাঁর পরিবার ও সম্পদও ধ্বংস হয়। কুরতুবী নাহহাসের সূত্রে এর চেয়ে সংকীর্ণ একটি মত আনেন: মাসসানিয়াশ শাইতান মানে শয়তানের ওয়াসওয়াসা থেকে তাঁর যা পৌঁছেছিল, কেবল সেটুকুই, আর আল্লাহই ভালো জানেন। এক মতে অসুখে শয়তানের হাত আছে। অন্য মতে তার নাগাল শুধু মনের অস্থিরতা পর্যন্ত।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sets out the same dispute. Some early commentators said Shaytan, envying him, was given power over his body, wealth and children, and caused the disease. Discerning commentators, it reports, rejected this: by the plain statement of the Qur'an Shaytan has no power over the prophets, so he could not have caused the disease. Others said Shaytan planted doubts and scruples in his heart during the illness, which pained him all the more.",
+            "bn": "মাআরিফুল কুরআনও একই মতভেদ তুলে ধরে। পূর্বসূরি কিছু তাফসীরকার বলেছেন, শয়তানের প্রভাবেই রোগটা এসেছিল। শয়তান তাঁকে হিংসা করেছিল, আর তাকে তাঁর দেহ, সম্পদ ও সন্তানের উপর ক্ষমতা দেওয়া হয়েছিল। মাআরিফ জানায়, সূক্ষ্মদর্শী তাফসীরকারেরা এ কথা মানেননি। কুরআনের স্পষ্ট ঘোষণা অনুযায়ী নবীদের উপর শয়তানের কোনো ক্ষমতা নেই, কাজেই এ রোগ সে ঘটাতে পারে না। আরেক দলের মতে, অসুখের দিনগুলোয় শয়তান তাঁর মনে নানা সন্দেহ আর দুশ্চিন্তা ঢেলে দিত, তাতে কষ্ট আরও বাড়ত।"
+          },
+          {
+            "en": "Ibn al-'Arabi, in al-Qurtubi, calls the story of the blowing more remote still. Allah, he says, is able to create all of it without Shaytan having any share in it, so that the accursed never gains the comfort of power over the prophets in their wealth, families and persons. Ma'arif al-Qur'an prefers another explanation, tied to the oath of 38:44 and treated there. The disagreement stands; the verse settles only that Ayyub (AS) told his Lord of Shaytan's touch.",
+            "bn": "কুরতুবীর উদ্ধৃতিতে ইবনুল আরাবী ফুঁ দেওয়ার কাহিনিকে আরও দূরের বলেন। তাঁর কথা, শয়তানের কোনো ভূমিকা ছাড়াই আল্লাহ এর সবকিছু সৃষ্টি করতে সক্ষম, যাতে নবীদের সম্পদ, পরিবার আর প্রাণের উপর ক্ষমতা পেয়ে অভিশপ্তের চোখ জুড়াতে না পারে। মাআরিফুল কুরআন আরেকটি ব্যাখ্যাকে প্রাধান্য দেয়, যা ৩৮:৪৪ আয়াতের শপথের সঙ্গে জড়িত, আর তার আলোচনা সেখানেই আছে। মতভেদটা থেকেই যায়। আয়াত শুধু এটুকু নিশ্চিত করে যে আইয়ুব (আঃ) শয়তানের ছোঁয়ার কথা তাঁর রবকেই জানিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Stories the Verse Leaves Out",
+          "bn": "যে কাহিনি আয়াতে নেই"
+        },
+        "p": [
+          {
+            "en": "Around these few words the commentaries carry long tales. Al-Qurtubi relays, as what the commentators said, an account of Iblis standing in the seventh heaven, asking leave to test Ayyub (AS), and ruining his wealth, his household and his body in turn. He adds reports that trace the trial to some failing of his. Ibn Kathir gives his own long account of the losses, and of a wife who stayed by him out of her faith.",
+            "bn": "এই অল্প কটি শব্দ ঘিরে তাফসীরের বইয়ে দীর্ঘ কাহিনি জমেছে। কুরতুবী 'তাফসীরকারেরা বলেছেন' বলে একটি বিবরণ আনেন। তাতে ইবলীস সপ্তম আসমানে দাঁড়িয়ে আইয়ুব (আঃ)-কে পরীক্ষা করার অনুমতি চায়, তারপর একে একে তাঁর সম্পদ, পরিবার আর দেহ বরবাদ করে। কুরতুবী এমন বর্ণনাও আনেন, যা পরীক্ষার কারণ খোঁজে তাঁর কোনো ত্রুটিতে। ইবন কাসীর নিজেও সব হারানোর লম্বা বিবরণ দেন, আর বলেন এক স্ত্রীর কথা, যিনি ঈমানের টানে তাঁর পাশে থেকে গেছেন।"
+          },
+          {
+            "en": "Ibn al-'Arabi, quoted by al-Qurtubi, rejects the heavenly scene outright: Iblis was sent down under a curse, and Allah, he argues, would not converse with him as the story claims. He answers each alleged failing in turn and holds the prophet clear of them. His verdict: nothing is sound about Ayyub (AS) except what Allah tells in two verses, 21:83 and this one, and nothing sound from the Prophet ﷺ except one narration, of golden locusts falling on him as he bathed, which al-Bukhari records and which this collection treats under 21:84.",
+            "bn": "কুরতুবীর উদ্ধৃতিতে ইবনুল আরাবী আসমানের দৃশ্যটা পুরোপুরি নাকচ করেন। ইবলীসকে অভিশাপ দিয়ে নামিয়ে দেওয়া হয়েছে, আর কাহিনিতে যেভাবে বলা হয়েছে, আল্লাহ তার সঙ্গে সেভাবে কথা বলেন না। যে ত্রুটিগুলোর কথা বলা হয়, তিনি একটি একটি করে তার জবাব দেন এবং নবীকে সেসব থেকে মুক্ত রাখেন। তাঁর সিদ্ধান্ত: আইয়ুব (আঃ) সম্পর্কে সহীহ কিছু নেই, আল্লাহ দুটি আয়াতে যা জানিয়েছেন তা ছাড়া, ২১:৮৩ আর এই আয়াত। আর নবী ﷺ থেকে সহীহ আছে কেবল একটি বর্ণনা: গোসলের সময় তাঁর উপর সোনার পঙ্গপাল ঝরে পড়ার কথা। বুখারী তা বর্ণনা করেছেন, আর এই সংকলনে তার আলোচনা আছে ২১:৮৪ আয়াতে।"
+          },
+          {
+            "en": "The Isra'iliyyat, Ibn al-'Arabi goes on, are rejected by the scholars entirely; turn your eyes away from their lines. Al-Qurtubi then brings Ibn 'Abbas (RA), whose words al-Bukhari records (no. 7363): he rebuked those who asked the People of the Book about anything while their own Book, the latest from Allah, was read pure and unmixed. Ma'arif al-Qur'an adds that neither the Qur'an nor any hadith describes the nature of the illness, and that discerning commentators do not accept the reports that claim to describe it.",
+            "bn": "ইবনুল আরাবী আরও বলেন, আলেমদের কাছে ইসরাঈলী বর্ণনা একেবারেই বর্জিত, তাই সেসব লেখা থেকে চোখ ফিরিয়ে নাও। এরপর কুরতুবী আনেন ইবন আব্বাস (রাঃ)-এর কথা, যা বুখারী বর্ণনা করেছেন (৭৩৬৩)। যারা আহলে কিতাবের কাছে কিছু জানতে যেত, তিনি তাদের তিরস্কার করেছিলেন, কারণ তাদের নিজেদের কিতাবই আল্লাহর কাছ থেকে আসা সবচেয়ে নতুন, আর তা তারা পড়ে খাঁটি, কোনো মিশেল ছাড়া। মাআরিফুল কুরআন যোগ করে, রোগটা কী ছিল, কুরআনও তা বলেনি, কোনো হাদীসও নয়। আর যে বর্ণনাগুলো তার বিবরণ দিতে চায়, সূক্ষ্মদর্শী তাফসীরকারেরা সেগুলো গ্রহণ করেননি।"
+          },
+          {
+            "en": "Ibn Kathir also relays, through Ibn Jarir and Ibn Abi Hatim, a report from Anas (RA) raised to the Prophet ﷺ about the length of the trial and how it ended. No source consulted here grades it, and the article builds nothing on it. None of the commentaries read for this verse attaches a sound hadith to it or gives it an occasion of revelation.",
+            "bn": "ইবন কাসীর ইবন জারীর ও ইবন আবী হাতিমের সূত্রে আনাস (রাঃ)-এর একটি বর্ণনাও আনেন, যা নবী ﷺ-এর দিকে সম্পৃক্ত। বিষয় পরীক্ষার মেয়াদ আর তার সমাপ্তি। এখানে দেখা কোনো সূত্রে তার মান যাচাইয়ের উল্লেখ নেই, তাই এ লেখা তার উপর কিছুই দাঁড় করায় না। যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদীস জোড়েনি, শানে নুযূলও দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Telling the Pain to Allah",
+          "bn": "কষ্টের কথা আল্লাহকে বলা"
+        },
+        "p": [
+          {
+            "en": "What does the verse ask of its listener? First, a direction for complaint. Ayyub (AS) names his pain plainly; he does not pretend it away. But he names it to his Lord. As-Sa'di's phrase is exact: to Him, not to anyone else, he complained. Telling Allah of a hardship is not a failure of patience. The next verse answers the call, and 38:44 closes with inna wajadnahu sabiran, We found him patient. The patience Allah praised had this call inside it.",
+            "bn": "আয়াতটি শ্রোতার কাছে কী চায়? প্রথমত, নালিশের ঠিকানা। আইয়ুব (আঃ) কষ্টের কথা সোজাসুজি বলেন, না-থাকার ভান করেন না। কিন্তু বলেন রবকে। সা'দীর কথাটা মাপা: তাঁকেই, অন্য কাউকে নয়, তিনি নালিশ জানিয়েছেন। আল্লাহকে বিপদের কথা বলা সবরের ঘাটতি নয়। পরের আয়াতেই ডাকের জবাব আসে, আর ৩৮:৪৪ আয়াত শেষ হয় ইন্না ওয়াজাদনাহু সাবিরা দিয়ে, আমি তাকে পেয়েছি ধৈর্যশীল। আল্লাহ যে সবরের প্রশংসা করেছেন, এই ডাক তারই ভেতরের অংশ।"
+          },
+          {
+            "en": "Second, the courtesy of the tongue. In pain, people say things about Allah they would not say in health. The verse shows a prophet at the end of his strength still choosing his words: the harm named, Shaytan named, and nothing said that hangs the harm on his Lord. Third, restraint about what is not told. The Qur'an gives the call, the cause he named and the relief; the verse loses nothing when the long tales are set aside.",
+            "bn": "দ্বিতীয়ত, জিহ্বার আদব। কষ্টে পড়ে মানুষ আল্লাহ সম্পর্কে এমন কথা বলে ফেলে, যা সুস্থ অবস্থায় বলত না। আয়াতে দেখা যায়, শক্তির শেষ সীমায় দাঁড়িয়েও একজন নবী শব্দ বেছে নিচ্ছেন। কষ্টের নাম আছে, শয়তানের নাম আছে, কিন্তু কষ্টকে রবের দিকে জোড়ার মতো একটি কথাও নেই। তৃতীয়ত, যা বলা হয়নি, তা নিয়ে সংযম। কুরআন দিয়েছে ডাকটা, তিনি যে কারণের নাম নিয়েছেন সেটা, আর পরের মুক্তি। লম্বা কাহিনিগুলো সরিয়ে রাখলেও আয়াতের কিছুই হারায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not a Verdict on the Sick",
+          "bn": "অসুস্থের উপর রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse tells what one prophet said of his own trial, to his own Lord. It licenses nothing against any living person. It gives no one warrant to tell a sick or bereaved person that Shaytan has seized them, or that their illness punishes a hidden sin, and none to accuse a neighbour of bringing harm on another through the unseen. Ayyub (AS) spoke about himself, and he spoke to Allah; he passed no judgement on anyone else.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একজন নবীর কথা জানায়, যা তিনি নিজের পরীক্ষা নিয়ে নিজের রবকে বলেছিলেন। কোনো জীবিত মানুষের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। অসুস্থ বা স্বজনহারা কাউকে এ কথা বলার অধিকার এটি কাউকে দেয় না যে তাকে শয়তানে ধরেছে, কিংবা তার অসুখ কোনো গোপন গুনাহর সাজা। কোনো প্রতিবেশীর ঘাড়ে এই অভিযোগ চাপানোরও অনুমতি দেয় না যে সে অদৃশ্যের পথে কারও ক্ষতি করেছে। আইয়ুব (আঃ) বলেছিলেন নিজের কথা, আর বলেছিলেন আল্লাহকে। অন্য কারও উপর তিনি কোনো রায় দেননি।"
+          },
+          {
+            "en": "Nor does a long illness mark anyone as far from Allah. The man this verse describes is called 'abdana, Our servant, in its opening words, and three verses later he is found patient and named an excellent servant. Whoever is ill or grieving today can take the shape of his call: tell Allah the truth of the pain, keep the tongue courteous toward Him, and leave the reasons for the trial with Him, since He alone knows them.",
+            "bn": "দীর্ঘ অসুখও কাউকে আল্লাহ থেকে দূরের মানুষ বানায় না। এ আয়াত যাঁর কথা বলে, প্রথম শব্দেই তাঁকে ডাকা হয়েছে আবদানা, আমার বান্দা। তিনটি আয়াত পরে তাঁকে পাওয়া গেছে ধৈর্যশীল, নাম দেওয়া হয়েছে উত্তম বান্দা। আজ যিনি অসুস্থ বা শোকে আছেন, তিনি এই ডাকের ধরনটা নিতে পারেন। কষ্টের সত্যিটা আল্লাহকে বলুন, তাঁর ব্যাপারে মুখের আদব রাখুন, আর পরীক্ষার কারণ তাঁর হাতেই ছেড়ে দিন, কারণ তা কেবল তিনিই জানেন।"
+          }
+        ]
+      }
+    ]
+  },
   "38:44": {
     "sections": [
       {

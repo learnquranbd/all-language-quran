@@ -37213,6 +37213,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Qur'an is honoured and it reminds. Read it to be reminded, set your deeds beside it, and do not let pride turn you from what it tells you.",
     "lessonBn": "কুরআন মর্যাদাপূর্ণ, আর কুরআন উপদেশ দেয়। উপদেশ নেওয়ার জন্য পড়ুন, নিজের আমল এর পাশে রেখে মিলিয়ে দেখুন, আর অহংকারকে এর কথা থেকে আপনাকে ফিরিয়ে নিতে দেবেন না।"
+  },
+  "38:41": {
+    "reflectionEn": "The surah has just finished with a king given more than anyone after him. Now it turns to a servant who has lost nearly everything. Ayyub calls to his Lord, and his words are few: Shaytan has touched me with hardship and torment. He does not ask why. He does not accuse. He names the harm, and he lays it at Shaytan's door, not at his Lord's, though nothing happens except by Allah's decree. The commentators hear in this a courtesy of speech: good is spoken of as His, and harm is not hung on His name. And he tells it to Him alone. When pain comes to me, whom do I tell first, and how do I speak of my Lord while it lasts?",
+    "reflectionBn": "সূরাটি এইমাত্র এমন এক বাদশাহর কথা শেষ করেছে, যাঁকে এত দেওয়া হয়েছিল যে তাঁর পরে আর কাউকে দেওয়া হবে না। এবার কথা ঘুরে যায় এমন এক বান্দার দিকে, যিনি প্রায় সবই হারিয়েছেন। আইয়ুব তাঁর রবকে ডাকেন, আর কথা বলেন অল্প: শয়তান আমাকে কষ্ট আর যন্ত্রণায় ছুঁয়েছে। তিনি জানতে চান না, কেন। কাউকে দোষও দেন না। কষ্টের নাম নেন, আর তা জোড়েন শয়তানের সঙ্গে, রবের সঙ্গে নয়, যদিও আল্লাহর ফয়সালা ছাড়া কিছুই ঘটে না। তাফসীরকারেরা এখানে কথার এক আদব খুঁজে পান: ভালোকে বলা হয় তাঁর দান, আর মন্দকে তাঁর নামে ঝোলানো হয় না। আর এ কথা তিনি বলেন কেবল তাঁকেই। কষ্ট এলে আমি প্রথমে কাকে বলি? আর কষ্ট যতদিন থাকে, রবের কথা আমি কোন ভাষায় বলি?",
+    "pointsEn": [
+      "When something hurts, who hears about it from me first: the people around me, or my Lord?",
+      "In the words I use about my own trials, have I ever spoken of Allah as if He were the one who wronged me?",
+      "Can I name a hardship honestly before Allah, without hiding it and without turning it into a grievance against Him?",
+      "When I see someone ill or bereaved, do I tell myself a story about why it happened to them that I have no way of knowing?",
+      "If a season of plenty in my life gave way to a season of loss, would my prayer still sound the same?"
+    ],
+    "pointsBn": [
+      "কোনো কষ্ট পেলে প্রথমে কে শোনে, আশপাশের মানুষ নাকি আমার রব?",
+      "নিজের বিপদ নিয়ে যে কথা বলি, তাতে কি কখনো আল্লাহর কথা এমনভাবে বলেছি, যেন তিনিই আমার উপর অন্যায় করেছেন?",
+      "কষ্টটা কি আমি আল্লাহর সামনে সোজাসুজি বলতে পারি, লুকিয়েও না রেখে, আবার তাঁর বিরুদ্ধে নালিশ না বানিয়ে?",
+      "কাউকে অসুস্থ বা স্বজনহারা দেখলে আমি কি মনে মনে কারণ বানিয়ে নিই, যা জানার কোনো উপায় আমার নেই?",
+      "জীবনের সচ্ছল দিনগুলো যদি হারানোর দিনে বদলে যায়, আমার দোয়ার ভাষা কি তখনো একই থাকবে?"
+    ],
+    "lessonEn": "When hardship touches you, take it to Allah in plain words, and keep your tongue courteous toward Him: name the harm without laying it at His door.",
+    "lessonBn": "কষ্ট এলে সোজা কথায় তা আল্লাহকে জানান, আর তাঁর ব্যাপারে মুখের আদব বজায় রাখুন: কষ্টের নাম নিন, কিন্তু তা তাঁর দিকে জুড়ে দেবেন না।"
   }
 };
 
