@@ -36153,6 +36153,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Carry the Qur'an inside you, not only on your shelf: memorise what you can, keep it alive by recitation, and never turn from a truth you have recognised.",
     "lessonBn": "কুরআনকে শুধু তাকে নয়, নিজের ভেতরে বহন করুন: যতটা পারেন মুখস্থ করুন, তিলাওয়াতে তাকে জীবন্ত রাখুন, আর যে সত্য চিনেছেন তা থেকে কখনো মুখ ফেরাবেন না।"
+  },
+  "29:63": {
+    "reflectionEn": "Ask them who sends rain from the sky and brings dead ground back to life, and they answer at once: Allah. No argument is needed; they say it themselves. Then the Prophet ﷺ is told to say: praise be to Allah. The answer was right, and still most of them did not reason from it. What they confessed about the sky never reached what they did in worship or in need. The verse describes them, not me, yet it holds up a mirror. I also know who sends the rain. When my provision tightens, whom do I fear, whom do I flatter, and where do my hands go first? A true answer on the tongue is only a beginning. It asks to be followed all the way down.",
+    "reflectionBn": "তাদের জিজ্ঞেস করুন, আকাশ থেকে কে বৃষ্টি নামান আর মরা মাটিকে আবার জীবিত করেন। তারা সঙ্গে সঙ্গে জবাব দেবে: আল্লাহ। এ নিয়ে তর্কের দরকার পড়ে না, কথাটা তারা নিজেরাই বলে। তারপর নবী ﷺ-কে বলতে বলা হয়: আলহামদু লিল্লাহ। জবাবটা ঠিক ছিল, তবু তাদের বেশিরভাগ সেখান থেকে আর এক পা এগিয়ে ভাবেনি। আকাশ নিয়ে যা তারা মুখে মানত, তা কখনো পৌঁছায়নি তাদের ইবাদত পর্যন্ত, বিপদের দিনে কার কাছে ছুটবে সে পর্যন্তও না। আয়াত তাদের কথা বলছে, আমার নয়। তবু সামনে একটা আয়না ধরে। বৃষ্টি কে দেন, আমিও তো জানি। রিযক যখন টান পড়ে, আমি তখন কাকে ভয় পাই, কার মন জোগাই, প্রথমে কার দিকে হাত বাড়াই? মুখের সত্য জবাব কেবল শুরু। সে চায় তাকে অন্তরের গভীর পর্যন্ত নিয়ে যাওয়া হোক।",
+    "pointsEn": [
+      "The last time I worried about my income, did my first thought go to Allah or to the people and means I count on?",
+      "Which truth about Allah do I say easily but rarely let change a decision?",
+      "When someone finally admits a truth I have argued for, do I praise Allah, or do I enjoy having won?",
+      "What dry stretch of my life am I treating as finished, though the One who revives dead earth is still able to revive it?",
+      "Do I thank Allah for the rain itself, or notice it only when it fails?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন আয়-রোজগার নিয়ে দুশ্চিন্তা করেছি, আমার প্রথম ভাবনা কি আল্লাহর দিকে গিয়েছিল, নাকি যেসব মানুষ আর উপায়ের উপর ভরসা করি সেদিকে?",
+      "আল্লাহ সম্পর্কে কোন সত্যটা আমি সহজেই মুখে বলি, অথচ কোনো সিদ্ধান্ত নেওয়ার সময় তাকে প্রায় কাজে লাগাই না?",
+      "যে সত্যের পক্ষে আমি তর্ক করেছি, কেউ শেষে তা মেনে নিলে আমি কি আল্লাহর প্রশংসা করি, নাকি জিতে যাওয়ার আনন্দে ডুবে থাকি?",
+      "জীবনের কোন শুকনো সময়টাকে আমি শেষ বলে ধরে নিয়েছি, অথচ যিনি মরা মাটিকে জীবিত করেন তিনি এখনো তাকে জীবিত করতে পারেন?",
+      "আমি কি বৃষ্টির জন্যই আল্লাহর শুকরিয়া আদায় করি, নাকি বৃষ্টি না হলে তবেই তার কথা মনে পড়ে?"
+    ],
+    "lessonEn": "Let what you already confess about Allah, that He sends the rain and revives the earth, decide where you turn in worship and in need.",
+    "lessonBn": "আল্লাহ সম্পর্কে যা আপনি আগে থেকেই মানেন, তিনিই বৃষ্টি নামান আর মাটিকে জীবিত করেন, সেটাই ঠিক করে দিক ইবাদতে আর প্রয়োজনে আপনি কার দিকে ফিরবেন।"
   }
 };
 

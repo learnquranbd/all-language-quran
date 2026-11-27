@@ -2947,6 +2947,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "29:63": {
+    "sections": [
+      {
+        "h": {
+          "en": "Asked a Second Time",
+          "bn": "দ্বিতীয়বার একই প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Wa-la'in sa'altahum: and if you asked them. The same words opened 29:61, where the question was who created the heavens and the earth and subjected the sun and the moon. The answer there was Allah, followed by: how, then, are they turned away? Between the two questions, 29:62 says that Allah extends provision to whom He wills of His servants and restricts it. Now 29:63 asks a second question in the same form, about water from the sky and earth brought back to life, and again the answer is Allah.",
+            "bn": "ওয়া লাইন সাআলতাহুম: আর যদি আপনি তাদের জিজ্ঞেস করেন। ঠিক এই কথাগুলো দিয়েই শুরু হয়েছিল ২৯:৬১। সেখানে প্রশ্ন ছিল, আসমান ও যমীন কে সৃষ্টি করেছেন, সূর্য ও চাঁদকে কে কাজে লাগিয়ে রেখেছেন। জবাব ছিল আল্লাহ, তারপর প্রশ্ন: তাহলে তারা কোথায় ঘুরে যাচ্ছে? দুই প্রশ্নের মাঝখানে ২৯:৬২ জানায়, আল্লাহ তাঁর বান্দাদের যার জন্য ইচ্ছা রিযক প্রশস্ত করেন, যার জন্য ইচ্ছা সীমিত করেন। এবার ২৯:৬৩ একই ছাঁচে দ্বিতীয় প্রশ্ন তোলে: আকাশের পানি আর মরা মাটির নতুন জীবন নিয়ে। জবাব এবারও আল্লাহ।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads 29:61 to 29:63 together and gives them a setting. The surah has just urged the believers towards hijrah: 29:56 says My earth is spacious, so worship only Me, and 29:60 that Allah provides for every creature and for you. Ma'arif names worry over provision as the second obstacle in the way of hijrah, and reads these verses as its answer. Provision, it says, is not in the hands of its means but is a direct gift of Allah; He who provided in the first place will provide in the second.",
+            "bn": "মাআরিফুল কুরআন ২৯:৬১ থেকে ২৯:৬৩ একসঙ্গে পড়ে এবং এগুলোর একটা প্রেক্ষাপট দেখায়। সূরাটি সবে মুমিনদের হিজরতের দিকে ডেকেছে। ২৯:৫৬ বলে, আমার যমীন প্রশস্ত, কাজেই একমাত্র আমারই ইবাদত কর। ২৯:৬০ বলে, আল্লাহ প্রতিটি প্রাণীকে রিযক দেন, তোমাদেরও। মাআরিফের মতে হিজরতের পথে দ্বিতীয় বাধা ছিল রিযকের দুশ্চিন্তা, আর এ আয়াতগুলো তারই জবাব। রিযক উপায়-উপকরণের হাতে নেই, তা সরাসরি আল্লাহর দান। প্রথম জায়গায় যিনি খাইয়েছেন, দ্বিতীয় জায়গায়ও তিনিই খাওয়াবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rain From the Cloud",
+          "bn": "মেঘ ভেঙে নামা বৃষ্টি"
+        },
+        "p": [
+          {
+            "en": "Man nazzala min as-sama'i ma'an: who sends down water from the sky? At-Tabari answers in a phrase: it is the rain that Allah sends down from the clouds. Al-Qurtubi gives the same gloss, rain from the clouds, and the Muyassar also has the water come down from the clouds. None of the three pauses over the word sky; each goes straight to the cloud and the rain it carries. Fa-ahya bihi al-arda: and by it He gives life to the earth. At-Tabari explains that giving of life as His making plants grow in it.",
+            "bn": "মান নাযযালা মিনাস সামায়ি মাআন: আকাশ থেকে কে পানি নামান? তাবারী এক কথায় জবাব দেন: এ সেই বৃষ্টি, যা আল্লাহ মেঘ থেকে নামান। কুরতুবীর ব্যাখ্যাও একই, মেঘ থেকে বৃষ্টি। মুয়াসসারও বলে, পানি নামে মেঘ থেকে। আকাশ শব্দটা নিয়ে তিনজনের কেউ থামেন না, সবাই সোজা চলে যান মেঘে আর তার বয়ে আনা বৃষ্টিতে। ফাআহইয়া বিহিল আরদা: আর তা দিয়ে তিনি যমীনকে জীবন দেন। তাবারী বলেন, যমীনকে জীবন দেওয়া মানে তাতে গাছপালা আর ফসল গজিয়ে তোলা।"
+          },
+          {
+            "en": "Min ba'di mawtiha: after its death. At-Tabari glosses the death of the earth as its jadb and quhut, its barrenness and drought. Al-Qurtubi has barrenness and the famine of its people, so that the dead ground is also a hungry household. The Muyassar says simply, after its dryness. Death here is ground that yields nothing, and life is what grows when the rain reaches it. The picture needs no learning to understand; anyone who has watched a dry field turn green after heavy rain has already seen it.",
+            "bn": "মিন বাদি মাওতিহা: তার মৃত্যুর পর। তাবারী যমীনের মৃত্যুর অর্থ করেন জাদব আর কুহূত, অর্থাৎ অনুর্বরতা আর খরা। কুরতুবী বলেন অনুর্বরতা আর সেখানকার মানুষের দুর্ভিক্ষ। তাঁর কথায় মরা মাটি মানে ক্ষুধার্ত এক সংসারও। মুয়াসসার সংক্ষেপে বলে, শুকিয়ে যাওয়ার পর। এখানে মৃত্যু মানে এমন মাটি যাতে কিছুই জন্মায় না, আর জীবন মানে বৃষ্টি পৌঁছালে যা গজিয়ে ওঠে। এ ছবি বুঝতে বিদ্যার দরকার নেই। প্রবল বর্ষণের পর শুকনো মাঠকে সবুজ হতে যিনি দেখেছেন, তিনি এটা আগেই দেখে ফেলেছেন।"
+          },
+          {
+            "en": "The verse has twenty-two Arabic words and moves in three steps, marked off by pauses: the question with the answer they would give, the command to say praise be to Allah, and the closing judgement that most of them do not reason. The question alone takes eleven words, half the verse, and holds a whole chain: water sent down, the earth given life by it, and the death it is raised from. The answer they would give takes two words: la-yaqulunna Allah.",
+            "bn": "আয়াতে আরবি শব্দ বাইশটি, আর তা এগোয় তিনটি ধাপে, মাঝে মাঝে বিরতির চিহ্ন দিয়ে আলাদা করা। প্রথমে প্রশ্ন আর তাদের সম্ভাব্য জবাব। তারপর আলহামদু লিল্লাহ বলার নির্দেশ। শেষে রায়: তাদের অধিকাংশই বোঝে না। শুধু প্রশ্নটাই নিয়েছে ১১টি শব্দ, পুরো আয়াতের অর্ধেক। তার ভেতরে আছে পুরো একটা ধারা: পানি নামানো, সেই পানি দিয়ে যমীনকে জীবন দেওয়া, আর যে মৃত্যু থেকে তাকে তোলা হলো। অথচ তাদের জবাব মাত্র দুই শব্দের: লাইয়াকূলুন্নাল্লাহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Allah, They Would Surely Say",
+          "bn": "তারা বলবেই: আল্লাহ"
+        },
+        "p": [
+          {
+            "en": "La-yaqulunna Allah: they would surely say, Allah. The Muyassar spells out the manner of it: they would say it to you confessing, that Allah alone is the one who sent it down. At-Tabari fills out their short answer as: the one who did that is Allah. Then he adds a clause of his own to the name, the one to whom belongs the worship of everything. The answer they give is a single word, and the commentator sets beside it the conclusion they would not draw from it.",
+            "bn": "লাইয়াকূলুন্নাল্লাহ: তারা অবশ্যই বলবে, আল্লাহ। কীভাবে বলবে, মুয়াসসার তা খুলে বলে: তারা স্বীকার করে আপনাকে বলবে, একমাত্র আল্লাহই তা নামিয়েছেন। তাবারী তাদের ছোট্ট জবাবটা পূর্ণ করেন এভাবে: যিনি এ কাজ করেছেন তিনি আল্লাহ। তারপর নামের সঙ্গে নিজের পক্ষ থেকে একটা কথা জুড়ে দেন: তিনিই সেই সত্তা, সবকিছুর ইবাদত যাঁর প্রাপ্য। তাদের জবাব একটিমাত্র শব্দ। আর তাফসীরকার তার পাশে বসিয়ে দেন সেই সিদ্ধান্ত, যা তারা নিজেরা ওই জবাব থেকে টানবে না।"
+          },
+          {
+            "en": "As-Sa'di widens the question. Ask them who created the heavens and the earth, who sent down water and revived the earth after its death, and in whose hand lies the management of all things, and they will say Allah alone. They would also admit, he adds, that the idols and whatever they worshipped beside Allah can do none of it. Then he turns to wonder: marvel at their turning aside, he says, and at their going over to what they themselves admit is powerless and deserves to manage nothing.",
+            "bn": "সা'দী প্রশ্নটাকে আরও বড় করে তোলেন। তাদের জিজ্ঞেস করুন, আসমান ও যমীন কে সৃষ্টি করেছেন, কে আকাশ থেকে পানি নামিয়ে মরা যমীনকে জীবিত করেছেন, সবকিছুর পরিচালনা কার হাতে। তারা বলবে, একমাত্র আল্লাহ। তিনি যোগ করেন, তারা এটাও মেনে নেবে যে মূর্তিগুলো আর আল্লাহর সঙ্গে যাদের তারা পূজা করে, তাদের কেউ এর কিছুই পারে না। তারপর তিনি বিস্ময় প্রকাশ করেন: তাদের এই উল্টো পথে চলা দেখে অবাক হন। যাকে তারা নিজেরাই অক্ষম বলে মানে, যে কোনো কিছু পরিচালনার যোগ্যই নয়, তারা তারই দিকে ছুটে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One in Dominion, One in Worship",
+          "bn": "রাজত্বে এক, ইবাদতেও এক"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, writing on 29:61 to 29:63 together, says Allah is establishing that there is no god but He, because the mushrikun who worshipped others beside Him admitted that He alone created the heavens, the earth, the sun and the moon, that He creates and provides for His servants, and that He decrees their terms. If that is so, he asks, why worship another? Why rely on another? Then comes his sentence: just as He is One in His dominion, let Him be One in His worship.",
+            "bn": "ইবন কাসীর ২৯:৬১ থেকে ২৯:৬৩ একসঙ্গে আলোচনা করেন। তাঁর মতে আল্লাহ এখানে প্রতিষ্ঠা করছেন যে তিনি ছাড়া কোনো ইলাহ নেই। কারণ যে মুশরিকরা তাঁর সঙ্গে অন্যদের ইবাদত করত, তারাও মানত যে আসমান, যমীন, সূর্য আর চাঁদ তিনি একাই সৃষ্টি করেছেন। তারা মানত, তিনিই বান্দাদের সৃষ্টি করেন, রিযক দেন, তাদের আয়ু নির্ধারণ করেন। ব্যাপার যদি এই হয়, তিনি প্রশ্ন করেন, তবে অন্যের ইবাদত কেন? অন্যের উপর ভরসা কেন? তারপর তাঁর সেই বাক্য: রাজত্বে তিনি যেমন একমাত্র অধিপতি, ইবাদতেও তেমনি একমাত্র উপাস্য থাকুন।"
+          },
+          {
+            "en": "Both Ibn Kathir and as-Sa'di frame the verse in the terms of tawhid. Ibn Kathir says Allah often establishes the station of divinity, ilahiyya, through their admission of tawhid ar-rububiyya, His oneness as Lord. As-Sa'di opens his comment by calling the verse an argument against the mushrikun who denied tawhid al-ilahiyya wal-'ibada, the oneness of the One who is worshipped, and a binding of them to the tawhid ar-rububiyya they themselves affirmed. The argument needs nothing from outside. It starts from what the listener already says.",
+            "bn": "ইবন কাসীর আর সা'দী দুজনেই আয়াতটিকে তাওহীদের পরিভাষায় ব্যাখ্যা করেন। ইবন কাসীর বলেন, আল্লাহ প্রায়ই তাওহীদুর রুবূবিয়্যা, অর্থাৎ রব হিসেবে তাঁর একত্ব, তাদের এই স্বীকৃতিকে দিয়েই উলূহিয়্যার মর্যাদা প্রতিষ্ঠা করেন। সা'দী তাঁর আলোচনা শুরু করেন এ কথা বলে: আয়াতটি সেই মুশরিকদের বিরুদ্ধে দলিল, যারা তাওহীদুল ইলাহিয়্যা ওয়াল ইবাদা, অর্থাৎ ইবাদতের একমাত্র হকদার হিসেবে তাঁর একত্ব অস্বীকার করত। নিজেরাই যে তাওহীদুর রুবূবিয়্যা মানত, আয়াত তা দিয়েই তাদের বেঁধে ফেলে। এ যুক্তির জন্য বাইরে থেকে কিছু আনতে হয় না। শ্রোতা নিজে যা বলে, সেখান থেকেই শুরু।"
+          },
+          {
+            "en": "As evidence that they admitted it, Ibn Kathir quotes their talbiya, the pilgrims' call, without naming a source. Sahih Muslim 1185 records it from Ibn 'Abbas, with no added grading: the mushrikun used to say, here I am, You have no partner; and the Messenger of Allah ﷺ would say, woe to you, enough, enough; and they would say, except a partner who is Yours, You own him and what he owns. They said this while circling the House. The report is general and not narrated about this verse.",
+            "bn": "তারা যে এটা মানত, তার প্রমাণ হিসেবে ইবন কাসীর তাদের তালবিয়া, অর্থাৎ হাজীদের ডাক উদ্ধৃত করেন, কোনো সূত্রের নাম না নিয়ে। সহীহ মুসলিমের ১১৮৫ নম্বর হাদীসে ইবন আব্বাস (রাঃ) থেকে তা বর্ণিত, ইমাম মুসলিম আলাদা কোনো মান উল্লেখ করেননি। মুশরিকরা বলত: লাব্বাইকা, তোমার কোনো শরীক নেই। তখন আল্লাহর রাসূল ﷺ বলতেন: তোমাদের ধ্বংস হোক, থামো, থামো! তারা তবু বলত: তবে এমন এক শরীক ছাড়া যে তোমারই, তুমি তার মালিক এবং সে যা কিছুর মালিক তারও। বাইতুল্লাহ তাওয়াফ করতে করতে তারা এ কথা বলত। বর্ণনাটি সাধারণ, এ আয়াত প্রসঙ্গে বর্ণিত নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Praise, but Praise for What",
+          "bn": "প্রশংসা, কিন্তু কীসের"
+        },
+        "p": [
+          {
+            "en": "Qul al-hamdu lillah: say, praise be to Allah. At-Tabari reads the command as a reply timed to their answer: when they say that, then say, praise be to Allah. He gives no reason for it. Others do, and not the same one. Al-Qurtubi gives three. First, unmarked, praise for the proofs and evidences Allah has made plain of His power. Then, introduced with qila, it is said: praise for their admission of it. And with a second qila: praise for His sending down the water and reviving the earth.",
+            "bn": "কুলিল হামদু লিল্লাহ: বলুন, সমস্ত প্রশংসা আল্লাহর। তাবারী নির্দেশটাকে পড়েন তাদের জবাবের ঠিক পরের প্রত্যুত্তর হিসেবে: তারা যখন এ কথা বলবে, তখন আপনি বলুন, আলহামদু লিল্লাহ। এর কারণ তিনি বলেন না। অন্যরা বলেন, তবে সবাই একই কারণ নয়। কুরতুবী দেন তিনটি। প্রথমটি কোনো চিহ্ন ছাড়া: আল্লাহ তাঁর কুদরতের যে দলিল-প্রমাণ স্পষ্ট করেছেন, তার জন্য প্রশংসা। তারপর 'কীলা', অর্থাৎ বলা হয়েছে: তাদের এই স্বীকৃতির জন্য প্রশংসা। আরেকটি 'কীলা' দিয়ে: পানি নামানো আর যমীনকে জীবিত করার জন্য প্রশংসা।"
+          },
+          {
+            "en": "Al-Baghawi has two of these. His main reading is praise for the fact that Allah is the doer of these things; then, with qila, praise for their admission, which makes the proof binding on them. The Muyassar names the Prophet's ﷺ side of it: praise be to Allah who made your proof manifest against them. As-Sa'di gives the command twice. First: say, praise be to Allah who made guidance distinct from misguidance and laid bare the falsehood of the mushrikun's way, so that those granted success would beware of it.",
+            "bn": "বাগাভী এর মধ্যে দুটি আনেন। তাঁর মূল ব্যাখ্যা: এসব কাজ যিনি করেন তিনি আল্লাহ, সেজন্য প্রশংসা। তারপর 'কীলা' দিয়ে: তাদের স্বীকৃতির জন্য প্রশংসা, যা দিয়ে তাদের বিরুদ্ধে দলিল চূড়ান্ত হয়ে যায়। মুয়াসসার নবী ﷺ-এর দিক থেকে কথাটা বলে: প্রশংসা সেই আল্লাহর, যিনি তাদের বিরুদ্ধে আপনার দলিল প্রকাশ করে দিয়েছেন। সা'দী নির্দেশটা দুবার দেন। প্রথমবার: বলুন, প্রশংসা আল্লাহর, যিনি হিদায়াতকে গোমরাহি থেকে আলাদা করে দেখিয়েছেন আর মুশরিকদের পথের অসারতা খুলে দিয়েছেন, যাতে তাওফীকপ্রাপ্তরা তা থেকে সাবধান থাকে।"
+          },
+          {
+            "en": "Then: say, praise be to Allah who created the upper and the lower world, keeps them under His management and provides for them, widening provision for whom He wills and narrowing it for whom He wills, out of His wisdom and His knowledge of what is right for His servants. So the praise can face three ways: towards the rain itself, towards the proof now standing, or towards the truth spoken by the other side's own mouth. Al-Qurtubi and al-Baghawi each give one reading plainly and mark the rest with qila.",
+            "bn": "দ্বিতীয়বার: বলুন, প্রশংসা আল্লাহর, যিনি ঊর্ধ্বজগৎ আর নিম্নজগৎ সৃষ্টি করেছেন, সেগুলো পরিচালনা করছেন আর রিযক দিচ্ছেন। যার জন্য ইচ্ছা রিযক প্রশস্ত করেন, যার জন্য ইচ্ছা সংকুচিত করেন। এ সবই তাঁর হিকমত থেকে, আর বান্দাদের জন্য কী ভালো সে বিষয়ে তাঁর জ্ঞান থেকে। তাহলে প্রশংসার মুখ তিনটি দিকে ঘুরতে পারে: বৃষ্টির দিকে, এখন দাঁড়িয়ে যাওয়া দলিলের দিকে, অথবা প্রতিপক্ষের নিজের মুখে উচ্চারিত সত্যের দিকে। কুরতুবী আর বাগাভী দুজনেই একটি ব্যাখ্যা সরাসরি দেন, বাকিগুলোর আগে বসান 'কীলা'।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Most of Them, Not All",
+          "bn": "অধিকাংশ, সবাই নয়"
+        },
+        "p": [
+          {
+            "en": "Bal aktharuhum la ya'qilun: rather, most of them do not reason. At-Tabari says what they fail to grasp: what benefits them in the matter of their religion and what harms them. In their ignorance, he says, they reckon that by worshipping gods other than Allah they win nearness to Him, zulfa and qurba, and do not know that by this they are perishing. The Muyassar puts it as a condition: had they reasoned, they would not have set anyone beside Allah. Al-Baghawi says they deny tawhid while admitting He created these things.",
+            "bn": "বাল আকসারুহুম লা ইয়া'কিলূন: বরং তাদের অধিকাংশই বোঝে না। কী তারা বোঝে না, তাবারী তা বলেন: দীনের ব্যাপারে কিসে তাদের লাভ আর কিসে ক্ষতি। তাঁর কথায়, অজ্ঞতার কারণে তারা মনে করে আল্লাহকে ছেড়ে অন্য উপাস্যদের ইবাদত করে তারা আল্লাহর কাছে নৈকট্য পাবে, যাকে তিনি বলেন যুলফা আর কুরবা। তারা জানে না যে এ পথেই তারা ধ্বংস হচ্ছে। মুয়াসসার শর্তের ভাষায় বলে: তারা বুঝলে আল্লাহর সঙ্গে কাউকে শরীক করত না। বাগাভী বলেন, এসবের স্রষ্টা আল্লাহ বলে মেনেও তারা তাওহীদ অস্বীকার করে।"
+          },
+          {
+            "en": "As-Sa'di is sharpest: record against them, he says, their want of reason. Who is weaker in mind or poorer in sight than one who turns to whatever is called on besides Allah, knowing it neither benefits nor harms, neither creates nor provides, and then gives it pure devotion and sets it beside the Lord? In the wording itself, the verdict falls on most of them, aktharuhum, not all. And 31:25, a near twin, has the same admission and the same command to praise, but ends: most of them do not know.",
+            "bn": "সা'দী সবচেয়ে কঠোর। তিনি বলেন, তাদের বিরুদ্ধে বুদ্ধিহীনতার রায় লিখে রাখুন। আল্লাহকে ছেড়ে যাকেই ডাকা হোক, যে জানে সে কোনো উপকার বা ক্ষতি করতে পারে না, সৃষ্টি করতে বা রিযক দিতে পারে না, তবু তার কাছেই গিয়ে খাঁটি ইখলাস আর নির্ভেজাল দাসত্ব তাকে দেয় এবং তাকে রবের শরীক বানায়, তার চেয়ে দুর্বল বুদ্ধি আর কম দৃষ্টি কার? আয়াতের শব্দেও একটা কথা আছে। রায় পড়েছে আকসারুহুম, অধিকাংশের উপর, সবার উপর নয়। আর এর প্রায় যমজ আয়াত ৩১:২৫-এ একই স্বীকৃতি, একই প্রশংসার নির্দেশ, তবে শেষ হয়েছে এভাবে: তাদের অধিকাংশই জানে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rain, Provision and the Return",
+          "bn": "বৃষ্টি, রিযক আর পুনরুত্থান"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi turns their answer into a charge: if you admit this, why do you associate partners with Him, and why do you deny the restoration, al-i'ada? The admission cuts two ways in his reading, against the partners and against the denial of a return. The Qur'an draws that second line itself in 35:9, where the winds drive the clouds to a dead land, the earth is given life after its death, and the verse ends: thus is the resurrection. The ground that greens after rain is a small rehearsal of the raising of the dead.",
+            "bn": "কুরতুবী তাদের জবাবকেই অভিযোগে পরিণত করেন: তোমরা যদি এটা মেনে নাও, তবে তাঁর সঙ্গে শরীক কর কেন, আর আল-ইআদা, অর্থাৎ পুনরায় জীবিত করাকে অস্বীকার কর কেন? তাঁর ব্যাখ্যায় এই স্বীকৃতি দুই দিকে আঘাত করে: শরীকদের বিরুদ্ধে, আর আখিরাতে ফিরে যাওয়ার অস্বীকারের বিরুদ্ধে। দ্বিতীয় যোগসূত্রটা কুরআন নিজেই টেনেছে ৩৫:৯ আয়াতে। সেখানে বাতাস মেঘকে মরা ভূমির দিকে নিয়ে যায়, যমীন মৃত্যুর পর জীবন পায়, আর আয়াত শেষ হয়: এভাবেই পুনরুত্থান। বৃষ্টির পর সবুজ হয়ে ওঠা মাটি যেন মৃতদের জীবিত হওয়ার ছোট্ট এক মহড়া।"
+          },
+          {
+            "en": "Al-Qurtubi adds a further line: since He has power over this, He has power to make the believers free of need, and so it was repeated, he says, for emphasis. The note sits beside 29:60 and 29:62, both about provision, and beside Ma'arif's reading of the passage as an answer to the emigrant's fear for his livelihood. Rain comes from no market and no patron, and no one claims to send it. Ibn Kathir's second question belongs here as much as his first: why rely on another?",
+            "bn": "কুরতুবী আরেকটা কথা যোগ করেন: যিনি এ কাজে সক্ষম, তিনি মুমিনদের অভাবমুক্ত করতেও সক্ষম। তাঁর মতে এজন্যই কথাটা জোর দেওয়ার উদ্দেশ্যে আবার বলা হয়েছে। তাঁর এই মন্তব্যের পাশেই আছে ২৯:৬০ আর ২৯:৬২, দুটোই রিযক নিয়ে। পাশে আছে মাআরিফের পাঠও, যেখানে এ অংশ হিজরতকারীর জীবিকার ভয়ের জবাব। বৃষ্টি কোনো বাজার থেকে আসে না, কোনো পৃষ্ঠপোষকের হাত থেকেও না। কেউ দাবিও করে না যে সে বৃষ্টি পাঠায়। তাই ইবন কাসীরের দ্বিতীয় প্রশ্নটা এখানে প্রথমটার মতোই খাটে: অন্যের উপর ভরসা কেন?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Answer, Our Mirror",
+          "bn": "তাদের জবাব, আমাদের আয়না"
+        },
+        "p": [
+          {
+            "en": "The verse describes the mushrikun of the Prophet's ﷺ own people, whom at-Tabari names as the ones being asked, and what it says of them it says of them. It licenses nothing against any living person or community. It gives no one a warrant to call a neighbour unreasoning or to treat anyone with contempt. Its own posture is a question and a word of praise. The parallels share that shape: 39:38 follows the same question with have you considered what you invoke besides Allah, and 43:87 with so how are they turned away?",
+            "bn": "আয়াতটি নবী ﷺ-এর নিজের কওমের মুশরিকদের বর্ণনা দেয়। তাবারী তাদেরকেই প্রশ্নের লক্ষ্য বলে উল্লেখ করেন। আয়াত তাদের সম্পর্কে যা বলে, তাদের সম্পর্কেই বলে। জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। প্রতিবেশীকে নির্বোধ বলার কিংবা কাউকে তুচ্ছ করার অধিকার এ আয়াত কাউকে দেয় না। আয়াতের নিজের ভঙ্গি একটা প্রশ্ন আর একটা প্রশংসা। একই ধরনের আয়াতগুলোরও এই রূপ। ৩৯:৩৮ একই প্রশ্নের পর জিজ্ঞেস করে, আল্লাহকে ছেড়ে তোমরা যাদের ডাক তাদের কথা কি ভেবে দেখেছ? আর ৪৩:৮৭ জিজ্ঞেস করে, তাহলে তারা কোথায় ঘুরে যাচ্ছে?"
+          },
+          {
+            "en": "For the reader the verse works as a mirror. Almost no believer would answer the question wrongly; the test lies in the second half of Ibn Kathir's pair. When provision tightens, as 29:62 says it may, the answer about the rain comes easily, and so does the fear about a job, a patron or a market. The verse asks that the true answer travel the whole way: from the tongue to praise, and from praise to where a person turns in need. Patience and reliance on their Lord, named in 29:59, are what that looks like.",
+            "bn": "পাঠকের জন্য আয়াতটি এক আয়না। প্রশ্নটার ভুল জবাব প্রায় কোনো মুমিনই দেবে না। পরীক্ষা আসলে ইবন কাসীরের জোড়া প্রশ্নের দ্বিতীয়টিতে। ২৯:৬২ যেমন বলে, রিযক যখন সংকুচিত হয়, তখন বৃষ্টি নিয়ে জবাবটা সহজেই মুখে আসে। কিন্তু চাকরি, পৃষ্ঠপোষক বা বাজার নিয়ে ভয়টাও আসে ততটাই সহজে। আয়াত চায় সত্য জবাবটা পুরো পথ পাড়ি দিক: জিহ্বা থেকে প্রশংসায়, আর প্রশংসা থেকে প্রয়োজনের মুহূর্তে কার দিকে ফিরি সেখানে। ২৯:৫৯ আয়াতে যে সবর আর রবের উপর তাওয়াক্কুলের কথা আছে, এটাই তার বাস্তব চেহারা।"
+          }
+        ]
+      }
+    ]
+  },
   "29:64": {
     "sections": [
       {
