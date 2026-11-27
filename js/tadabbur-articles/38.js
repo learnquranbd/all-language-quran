@@ -751,6 +751,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "38:20": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Favours in Six Words",
+          "bn": "ছয় শব্দে দুই অনুগ্রহ"
+        },
+        "p": [
+          {
+            "en": "Wa-shadadna mulkahu wa-ataynahu al-hikmata wa-fasla al-khitab: and We made his kingdom firm, and gave him wisdom and decisive speech. Six Arabic words close the list of what Allah gave Dawud (AS) in this passage. In 38:17 the Prophet ﷺ was told to be patient over what the deniers said and to remember Dawud, a servant of strength who kept turning back to his Lord; 38:18 and 38:19 set the mountains and the birds glorifying with him. This verse turns from that worship to his rule.",
+            "bn": "ওয়া শাদাদনা মুলকাহু ওয়া আতাইনাহুল হিকমাতা ওয়া ফাসলাল খিতাব: আমি তাঁর রাজত্ব মজবুত করেছিলাম, আর তাঁকে দিয়েছিলাম হিকমাত ও ফয়সালাকারী কথা। এই অংশে দাঊদ (আঃ)-কে আল্লাহ যা যা দিয়েছেন, তার তালিকা শেষ হয় এই ছয়টি আরবি শব্দে। ৩৮:১৭ আয়াতে নবী ﷺ-কে বলা হয়েছিল, অস্বীকারকারীদের কথায় সবর করুন আর দাঊদকে স্মরণ করুন। তিনি ছিলেন শক্তিমান বান্দা, বারবার রবের দিকে ফিরে আসতেন। ৩৮:১৮ ও ৩৮:১৯ আয়াতে পাহাড় আর পাখিরা তাঁর সঙ্গে তাসবীহ পড়ে। এবার আয়াতটি ইবাদত থেকে চোখ ফেরায় তাঁর শাসনের দিকে।"
+          },
+          {
+            "en": "As-Sa'di reads the verse as two favours. First Allah mentions His favour on Dawud through a great kingdom, then His favour through knowledge. The two verbs carry the division: shadadna, We made firm, for the kingdom; ataynahu, We gave him, for wisdom and fasl al-khitab. The gift of judging is not left in the abstract. The very next verses, 38:21 to 38:24, bring two litigants over the wall of his prayer chamber asking for a ruling. That scene has its own article and is only pointed to here.",
+            "bn": "সা'দী আয়াতটিকে দুই অনুগ্রহ হিসেবে পড়েন। আগে আল্লাহ উল্লেখ করেন বিশাল রাজত্ব দিয়ে দাঊদের প্রতি অনুগ্রহের কথা, তারপর ইলম দিয়ে অনুগ্রহের কথা। দুটি ক্রিয়াপদেই ভাগটা ধরা আছে। শাদাদনা, মজবুত করেছিলাম: রাজত্বের জন্য। আতাইনাহু, দিয়েছিলাম: হিকমাত আর ফাসলুল খিতাবের জন্য। বিচারের এই যোগ্যতা শুধু তত্ত্বে থেকে যায়নি। ঠিক পরের আয়াতগুলোতে, ৩৮:২১ থেকে ৩৮:২৪ পর্যন্ত, দুই বিবদমান পক্ষ ইবাদতখানার দেয়াল টপকে এসে রায় চায়। সে দৃশ্য নিয়ে আলাদা প্রবন্ধ আছে, এখানে শুধু তার দিকে ইশারা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Held His Rule Firm",
+          "bn": "রাজত্ব মজবুত হলো কীসে"
+        },
+        "p": [
+          {
+            "en": "Shadda means to bind tight or to make strong. Al-Qurtubi glosses the verb as We strengthened it until it stood firm, then lists three readings, each under 'it was said': by awe, with fear of him cast into hearts; by a large army; and by divine support and victory. He records that the last is the choice of Ibn al-'Arabi, and gives the reason in a line: a great army gathered round someone who is not granted victory and help is of no use.",
+            "bn": "শাদ্দা মানে শক্ত করে বাঁধা, মজবুত করা। কুরতুবী ক্রিয়াটির অর্থ করেন: আমি তা শক্তিশালী করলাম, যতক্ষণ না তা স্থির হয়ে দাঁড়াল। তারপর 'বলা হয়েছে' বলে তিনটি মত আনেন। এক, প্রভাব আর ভীতি দিয়ে, মানুষের অন্তরে তাঁর ভয় ঢেলে দিয়ে। দুই, বিপুল সৈন্যবাহিনী দিয়ে। তিন, আল্লাহর সাহায্য আর বিজয় দিয়ে। কুরতুবী জানান, শেষ মতটি ইবনুল আরাবীর পছন্দ। কারণটাও তিনি এক লাইনে দেন: যাকে বিজয় ও সাহায্য দেওয়া হয়নি, তার চারপাশে বিরাট বাহিনী জমা হলেও কোনো কাজে আসে না।"
+          },
+          {
+            "en": "The others place the strength in different things. Al-Baghawi says: We strengthened it with guards and soldiers. As-Sa'di says Allah strengthened it by the means He gave him, and by many men and much equipment. The Muyassar names awe, strength and victory together. Ibn Kathir reads it as a complete kingdom with all that kings need, and relays from Mujahid, through Ibn Abi Najih, that Dawud was the most powerful in authority of all the people of this world.",
+            "bn": "অন্যরা এই শক্তির উৎস খোঁজেন ভিন্ন ভিন্ন জায়গায়। বাগাভী বলেন: প্রহরী আর সৈন্য দিয়ে আমি তা মজবুত করেছিলাম। সা'দীর মতে আল্লাহ তা মজবুত করেছেন তাঁকে দেওয়া নানা উপায়-উপকরণ দিয়ে, আর বিপুল লোকবল ও সাজসরঞ্জাম দিয়ে। মুয়াসসার একসঙ্গে তিনটির নাম করে: প্রভাব, শক্তি আর বিজয়। ইবন কাসীর একে পড়েন পূর্ণাঙ্গ রাজত্ব হিসেবে, রাজাদের যা কিছু দরকার তার সবসহ। ইবন আবী নাজীহের সূত্রে তিনি মুজাহিদের কথা আনেন: দুনিয়ার সব মানুষের মধ্যে দাঊদ ক্ষমতায় ছিলেন সবচেয়ে প্রবল।"
+          },
+          {
+            "en": "Several commentators also relay reports of how many guards watched over him: 4,000 each day and night in as-Suddi's report, and thirty-three, thirty-six or forty thousand a night from others. The figures do not agree, none is traced to the Prophet ﷺ, and the verse names no number. They belong with the reports about earlier peoples, and nothing here is built on them. What the verse states is enough: the firmness of his rule was Allah's doing, not his own.",
+            "bn": "কয়েকজন তাফসীরকার কতজন প্রহরী তাঁকে পাহারা দিত, সে বিষয়েও বর্ণনা আনেন। সুদ্দীর বর্ণনায় প্রতিদিন-রাতে ৪,০০০। অন্যদের বর্ণনায় প্রতি রাতে তেত্রিশ, ছত্রিশ বা চল্লিশ হাজার। সংখ্যাগুলো মেলে না, কোনোটিই নবী ﷺ পর্যন্ত পৌঁছায় না, আর আয়াতে কোনো সংখ্যার উল্লেখ নেই। এগুলো আগের জাতিগুলো সম্পর্কে প্রচলিত বর্ণনার দলে পড়ে, এখানে এর উপর কিছুই দাঁড় করানো হয়নি। আয়াত যা বলে তা-ই যথেষ্ট: তাঁর শাসনের দৃঢ়তা আল্লাহরই কাজ, তাঁর নিজের নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari Will Not Narrow It",
+          "bn": "তাবারী অর্থ সংকুচিত করেন না"
+        },
+        "p": [
+          {
+            "en": "At-Tabari sets out the disagreement as a disagreement. Some said the kingdom was strengthened with troops and men, and he cites as-Suddi's report of the guards. Others said it was strengthened by the awe people came to feel for Dawud (AS) because of a judgement he gave. For the second view he relays a long narration through 'Ikrimah from Ibn 'Abbas about a dispute among the Israelites over cattle, in which the claimant had no proof. Ibn Kathir and al-Baghawi carry it too. None of the three grades it, and it is not retold here.",
+            "bn": "তাবারী মতভেদটাকে মতভেদ হিসেবেই সাজান। কেউ বলেছেন, রাজত্ব মজবুত হয়েছিল সৈন্য আর লোকজন দিয়ে। এর পক্ষে তিনি সুদ্দীর প্রহরী-সংক্রান্ত বর্ণনা আনেন। অন্যরা বলেছেন, মজবুত হয়েছিল দাঊদ (আঃ)-এর প্রতি মানুষের মনে জন্মানো সমীহ দিয়ে, যার উৎস ছিল তাঁর দেওয়া একটি রায়। দ্বিতীয় মতের পক্ষে তিনি ইকরিমার সূত্রে ইবন আব্বাস থেকে লম্বা একটি বর্ণনা আনেন: বনী ইসরাঈলের মধ্যে গরু নিয়ে এক বিবাদ, যেখানে দাবিদারের হাতে কোনো প্রমাণ ছিল না। ইবন কাসীর ও বাগাভীও এটি এনেছেন। তিনজনের কেউই এর মান উল্লেখ করেননি, আর এখানে কাহিনিটি বলা হলো না।"
+          },
+          {
+            "en": "Then at-Tabari gives his own judgement. Allah has told us that He made the kingdom firm, and has not limited that to men and soldiers without awe, or to awe without soldiers. It may have been some of these or all of them, and no report that must be accepted restricts the word. So he will not prefer any account over the word of Allah itself. It is a model of restraint: where the text is wide and no sound report narrows it, the commentator leaves it wide.",
+            "bn": "তারপর তাবারী নিজের রায় দেন। আল্লাহ জানিয়েছেন যে তিনি রাজত্ব মজবুত করেছেন। সমীহ বাদ দিয়ে শুধু সৈন্য, কিংবা সৈন্য বাদ দিয়ে শুধু সমীহ, এভাবে তিনি তা সীমিত করেননি। এর কয়েকটি দিয়ে হতে পারে, সবগুলো দিয়েও হতে পারে। মেনে নিতেই হবে এমন কোনো বর্ণনা শব্দটিকে এক অর্থে বেঁধে দেয়নি। তাই আল্লাহর নিজের কথার উপরে তিনি কোনো ভাষ্যকে স্থান দেন না। সংযমের এ এক নমুনা। আয়াত যেখানে প্রশস্ত আর সহীহ বর্ণনা তাকে সংকুচিত করেনি, তাফসীরকার সেখানে তাকে প্রশস্তই রাখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wisdom: Prophethood or Insight",
+          "bn": "হিকমাত: নবুওয়াত, নাকি অন্তর্দৃষ্টি"
+        },
+        "p": [
+          {
+            "en": "Wa-ataynahu al-hikmah: and We gave him wisdom. At-Tabari records two views here and settles neither, saying he has explained the word elsewhere. As-Suddi said it means prophethood; Qatadah said the sunnah, the right way of practice. Ibn Kathir relays Qatadah differently, as the Book of Allah and following what is in it. Al-Qurtubi adds Abu al-'Aliyah, for whom it is knowledge of the Book of Allah, and Shurayh, for whom it is knowledge and understanding of the law.",
+            "bn": "ওয়া আতাইনাহুল হিকমাহ: আর আমি তাঁকে হিকমাত দিয়েছিলাম। তাবারী এখানে দুটি মত আনেন, কোনোটিকে বেছে নেন না। বলেন, শব্দটির অর্থ তিনি অন্য জায়গায় বুঝিয়ে দিয়েছেন। সুদ্দী বলেছেন, এর অর্থ নবুওয়াত। কাতাদা বলেছেন সুন্নাহ, মানে আমলের সঠিক পথ। ইবন কাসীর কাতাদার কথাটা আনেন অন্যভাবে: আল্লাহর কিতাব আর তাতে যা আছে তার অনুসরণ। কুরতুবী আরও দুটি মত যোগ করেন। আবুল আলিয়ার মতে এটি আল্লাহর কিতাবের ইলম, আর শুরাইহের মতে ইলম ও ফিকহ।"
+          },
+          {
+            "en": "Mujahid is reported with several glosses. In Ibn Kathir he says understanding, reason and sharpness of mind; on other occasions, wisdom with justice, and being right. Al-Qurtubi gives his gloss as justice. Al-Baghawi joins two meanings, prophethood and hitting the mark in affairs, and as-Sa'di likewise says prophethood and great knowledge. The Muyassar says prophethood. Ma'arif al-Qur'an takes the plain sense first, reason, insight and vision, and notes that some elders said prophethood. One word, filled from two sides: the office given, and the understanding that serves it.",
+            "bn": "মুজাহিদ থেকে একাধিক ব্যাখ্যা এসেছে। ইবন কাসীরের বর্ণনায় তিনি বলেন: বুঝ, বিবেক আর তীক্ষ্ণ বুদ্ধি। অন্য সময় বলেছেন হিকমাত ও ন্যায়, আবার বলেছেন সঠিকতা। কুরতুবী তাঁর ব্যাখ্যা দেন ন্যায় হিসেবে। বাগাভী দুটি অর্থ জোড়া দেন: নবুওয়াত, আর কাজকর্মে ঠিক জায়গায় পৌঁছানো। সা'দীও তেমনই বলেন: নবুওয়াত আর বিশাল ইলম। মুয়াসসার বলে নবুওয়াত। মাআরিফুল কুরআন প্রথমে সহজ অর্থটা নেয়, বুদ্ধি, অন্তর্দৃষ্টি আর দূরদৃষ্টি। তারপর জানায়, কোনো কোনো পূর্বসূরি একে নবুওয়াত বলেছেন। শব্দ একটিই, ভরাট হয় দুই দিক থেকে: দেওয়া দায়িত্ব, আর সে দায়িত্ব পালনের বুঝ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Speech That Cuts a Quarrel",
+          "bn": "যে কথায় বিবাদ কাটে"
+        },
+        "p": [
+          {
+            "en": "Fasl al-khitab is the phrase the commentators linger over. At-Tabari takes it apart: fasl is cutting, and khitab is address, one person speaking to another. Every reading that follows is a way of bringing talk to its end. The first group takes it as knowledge of judging. At-Tabari relays from Ibn 'Abbas that Dawud (AS) was given understanding; from Mujahid, hitting the right judgement and understanding it; from as-Suddi, knowledge of judging; and from Abu 'Abd ar-Rahman, simply judging.",
+            "bn": "ফাসলুল খিতাব, এই শব্দবন্ধেই তাফসীরকারেরা সবচেয়ে বেশি থামেন। তাবারী একে ভেঙে দেখান। ফাসল মানে কেটে দেওয়া, আর খিতাব মানে সম্বোধন, একজনের সঙ্গে আরেকজনের কথা বলা। পরের সব ব্যাখ্যাই আসলে কথাকে তার শেষ মাথায় পৌঁছে দেওয়ার কোনো না কোনো উপায়। প্রথম দলটি একে বিচারের ইলম ধরে। তাবারী ইবন আব্বাস থেকে আনেন: তাঁকে বুঝ দেওয়া হয়েছিল। মুজাহিদ থেকে: সঠিক রায়ে পৌঁছানো আর তা বোঝা। সুদ্দী থেকে: বিচারের ইলম। আর আবু আব্দুর রহমান থেকে, এক শব্দে: বিচার।"
+          },
+          {
+            "en": "Ibn Zayd, in at-Tabari, spells out the scene: the disputes people brought to him, settled with understanding of speech, correct judgement and proofs. Al-Baghawi and al-Qurtubi add Ibn Mas'ud, al-Hasan, al-Kalbi and Muqatil to this group. A second line, from Ibn 'Abbas in al-Baghawi and al-Qurtubi, reads it as clarity of speech. Al-Qurtubi records two more under 'it was said': the statement that divides truth from falsehood, and concision, putting much meaning into few words.",
+            "bn": "তাবারীর বর্ণনায় ইবন যাইদ দৃশ্যটা খুলে বলেন। মানুষ যেসব বিবাদ নিয়ে তাঁর কাছে আসত, সেগুলো তিনি মিটিয়ে দিতেন কথার বুঝ, সঠিক রায় আর প্রমাণ দিয়ে। বাগাভী ও কুরতুবী এই দলে যোগ করেন ইবন মাসঊদ, হাসান, কালবী ও মুকাতিলকে। দ্বিতীয় ধারাটি এসেছে ইবন আব্বাস থেকে, বাগাভী ও কুরতুবীর বর্ণনায়: কথার স্পষ্টতা। কুরতুবী 'বলা হয়েছে' বলে আরও দুটি মত আনেন। এক, এমন বক্তব্য যা হক আর বাতিলকে আলাদা করে দেয়। দুই, সংক্ষেপ, অর্থাৎ অল্প শব্দে অনেক অর্থ ধরে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proof From the One Who Claims",
+          "bn": "প্রমাণ আনবে দাবিদার"
+        },
+        "p": [
+          {
+            "en": "The most specific reading ties the phrase to a rule of procedure. Al-Baghawi and al-Qurtubi relay from 'Ali ibn Abi Talib (RA): it is that proof is on the claimant and the oath on the one who denies. Al-Baghawi gives the reason in the same line: by it the litigants' talk is cut off and settled. At-Tabari relays the same from Shurayh through several chains, as two witnesses or an oath, and from ash-Sha'bi and Qatadah. Al-Baghawi adds Ubayy ibn Ka'b, Mujahid and 'Ata'.",
+            "bn": "সবচেয়ে নির্দিষ্ট ব্যাখ্যাটি শব্দবন্ধকে বিচারের একটি নিয়মের সঙ্গে বেঁধে দেয়। বাগাভী ও কুরতুবী আলী ইবন আবী তালিব (রাঃ) থেকে আনেন: প্রমাণ দাবিদারের উপর, আর কসম অস্বীকারকারীর উপর। বাগাভী একই লাইনে কারণটাও বলেন: এ নিয়মেই বিবদমান দুই পক্ষের কথা কাটা পড়ে, মীমাংসা হয়ে যায়। তাবারী একই কথা শুরাইহ থেকে কয়েকটি সূত্রে আনেন, দুজন সাক্ষী অথবা কসম। শা'বী আর কাতাদা থেকেও আনেন। বাগাভী এর সঙ্গে উবাই ইবন কা'ব, মুজাহিদ ও আতার নাম যোগ করেন।"
+          },
+          {
+            "en": "Ibn Kathir relays Qatadah's fuller statement: two witnesses required of the claimant, or the oath of the person claimed against, is the fasl al-khitab by which the prophets and messengers judged, and it is the judging of this ummah until the Day of Resurrection. Al-Qurtubi finds the readings close in meaning, and says that 'Ali's statement gathers them, since judging turns on it. The reading he leaves outside is Abu Musa's, which comes below.",
+            "bn": "ইবন কাসীর কাতাদার পূর্ণ বক্তব্যটি আনেন। দাবিদারকে দুজন সাক্ষী হাজির করতে হবে, নইলে যার বিরুদ্ধে দাবি সে কসম করবে: এটাই সেই ফাসলুল খিতাব, যা দিয়ে নবী-রাসূলেরা বিচার করেছেন। আর কিয়ামত পর্যন্ত এটাই এই উম্মতের বিচারের ধারা। কুরতুবীর মতে এসব ব্যাখ্যার অর্থ কাছাকাছি, আর আলী (রাঃ)-এর কথাটি সবগুলোকে এক জায়গায় ধরে রাখে, কারণ বিচারের পুরো কাজ এর উপরই ঘোরে। বাইরে থাকে শুধু আবু মূসার মত, যার কথা সামনে আসছে।"
+          },
+          {
+            "en": "A general narration, which none of the commentators fetched here attaches to this verse, states the second half of the rule. In Sahih Muslim 1711, Ibn 'Abbas reported the Messenger of Allah ﷺ as saying: \"If the people were given according to their claims, they would claim the lives of persons and their properties, but the oath must be taken by the defendant.\" Set beside 'Ali's statement, the rule is complete. A bare claim moves nothing: the one who claims brings proof, and the one who denies answers on oath.",
+            "bn": "একটি সাধারণ হাদীস নিয়মটির দ্বিতীয় অংশ মুখে বলে দেয়, যদিও এখানে পড়া কোনো তাফসীরকার একে এ আয়াতের সঙ্গে জোড়েননি। সহীহ মুসলিম ১৭১১-তে ইবন আব্বাস (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: \"মানুষকে যদি শুধু তাদের দাবির ভিত্তিতে দিয়ে দেওয়া হতো, তবে লোকেরা অন্যদের জান ও মাল দাবি করে বসত। কিন্তু কসম তার উপর, যার বিরুদ্ধে দাবি করা হয়েছে।\" আলী (রাঃ)-এর কথার পাশে রাখলে নিয়মটা পূর্ণ হয়। শুধু দাবিতে কিছুই নড়ে না। দাবিদার প্রমাণ আনবে, আর অস্বীকারকারী জবাব দেবে কসম করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Amma Ba'd Began",
+          "bn": "আম্মা বা'দ-এর সূচনা"
+        },
+        "p": [
+          {
+            "en": "A different reading takes khitab as a speech or sermon. At-Tabari relays from ash-Sha'bi that fasl al-khitab is a man's saying amma ba'd, 'as for what follows'. Ibn Kathir relays, through Ibn Abi Hatim with its chain, a statement of Abu Musa al-Ash'ari (RA): the first to say amma ba'd was Dawud (AS), and that is fasl al-khitab. Al-Baghawi, reporting ash-Sha'bi, describes the usage: it is what a person says after praising Allah, when he wants to move on to other speech.",
+            "bn": "আরেকটি ব্যাখ্যা খিতাবকে ধরে ভাষণ বা খুতবা হিসেবে। তাবারী শা'বী থেকে আনেন: ফাসলুল খিতাব হলো মানুষের আম্মা বা'দ বলা, যার মানে 'অতঃপর'। ইবন কাসীর ইবন আবী হাতিমের সূত্রে, সনদসহ, আবু মূসা আশআরী (রাঃ)-এর একটি উক্তি আনেন: সর্বপ্রথম আম্মা বা'দ বলেছিলেন দাঊদ (আঃ), আর সেটাই ফাসলুল খিতাব। বাগাভী শা'বীর বর্ণনায় ব্যবহারটা বুঝিয়ে দেন। আল্লাহর হামদ ও প্রশংসার পর কেউ যখন অন্য কথায় যেতে চায়, তখন সে এটা বলে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reports the same: Dawud (AS) was a great orator and the first to say amma ba'd after praise and salah in his sermons. Al-Qurtubi adds a careful caveat. Even if it is sound that Dawud said it, he did not say it in Arabic in this arrangement, but in his own language. The phrase marks a seam in a speech: the opening praise is finished, and the matter itself begins. A speaker who knows where that seam lies does not wander.",
+            "bn": "মাআরিফুল কুরআনও একই কথা জানায়। দাঊদ (আঃ) ছিলেন বড় বক্তা, আর ধর্মীয় ভাষণে হামদ ও সালাতের পর তিনিই প্রথম আম্মা বা'দ বলতে শুরু করেন। কুরতুবী এখানে সাবধানী একটি কথা যোগ করেন। দাঊদ কথাটা বলেছিলেন, এটা সহীহ হলেও তিনি তা এই আরবি গঠনে বলেননি, বলেছিলেন নিজের ভাষায়। শব্দটা ভাষণের একটা জোড় চিনিয়ে দেয়। শুরুর প্রশংসা শেষ, এবার আসল কথা। জোড়টা কোথায়, যে বক্তা তা জানেন, তিনি এদিক-ওদিক ঘুরে বেড়ান না।"
+          },
+          {
+            "en": "Ibn al-'Arabi, in al-Qurtubi, is cool towards the reading that takes the phrase as concision. That gift, he says, belongs to the Arabs rather than to others, and to Muhammad ﷺ above the Arabs, as the Prophet ﷺ made clear in speaking of jawami' al-kalim. Sahih Muslim 523 records it as the first of six things in which he was given superiority over the other prophets: words that are concise yet comprehensive in meaning.",
+            "bn": "যাঁরা শব্দবন্ধকে সংক্ষেপ অর্থে নিয়েছেন, কুরতুবীর বর্ণনায় ইবনুল আরাবী তাঁদের মতে খুব একটা সায় দেন না। তাঁর কথায়, এ গুণ অন্যদের চেয়ে আরবদের, আর আরবদের চেয়েও বেশি মুহাম্মাদ ﷺ-এর। জাওয়ামিউল কালিমের কথা বলে নবী ﷺ নিজেই তা স্পষ্ট করেছেন। সহীহ মুসলিম ৫২৩ একে সেই ছয়টি বিষয়ের প্রথমটি হিসেবে রেখেছে, যেগুলোতে তাঁকে অন্য নবীদের উপর শ্রেষ্ঠত্ব দেওয়া হয়েছে: এমন কথা, যা শব্দে সংক্ষিপ্ত অথচ অর্থে ব্যাপক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Phrase Kept as Wide",
+          "bn": "শব্দবন্ধটা প্রশস্তই থাক"
+        },
+        "p": [
+          {
+            "en": "At-Tabari closes with his own weighing. Fasl is cutting and khitab is address. A judge cuts the address between two parties with a correct ruling; he cuts it too by requiring proof of the claimant and an oath of the one who denies; and a speaker cuts his own address with amma ba'd between one matter and the next. All of this fits the outward words. Nothing in the verse points to one of them, and no confirmed report from the Prophet ﷺ settles it.",
+            "bn": "শেষে তাবারী নিজের বিচার দেন। ফাসল মানে কাটা, খিতাব মানে সম্বোধন। বিচারক সঠিক রায় দিয়ে দুই পক্ষের কথা কেটে দেন। দাবিদারের কাছে প্রমাণ আর অস্বীকারকারীর কাছে কসম চেয়েও তিনি কথা কাটেন। আর বক্তা এক প্রসঙ্গ শেষ করে আরেক প্রসঙ্গে যাওয়ার সময় আম্মা বা'দ বলে নিজের ভাষণ কাটেন। আয়াতের বাহ্যিক শব্দে এর সবই খাটে। আয়াতে কোনো একটির দিকে ইঙ্গিত নেই, আর নবী ﷺ থেকে প্রমাণিত কোনো বর্ণনাও বিষয়টি নির্দিষ্ট করে দেয়নি।"
+          },
+          {
+            "en": "So, at-Tabari says, the statement should be kept general, as Allah kept it: Dawud (AS) was given fasl al-khitab in judging, in conversation and in sermons. Ibn Kathir arrives at the same place through Mujahid's wording, decisiveness in speech and in judgement, which he says covers all of it, is what is meant, and is what Ibn Jarir chose. The Muyassar's single line agrees. Ma'arif al-Qur'an says the words leave ample room for both meanings, oratory and judging, and that both are meant.",
+            "bn": "তাই তাবারী বলেন, আল্লাহ কথাটা যেমন ব্যাপক রেখেছেন, তেমনই ব্যাপক রাখা উচিত। দাঊদ (আঃ)-কে ফাসলুল খিতাব দেওয়া হয়েছিল বিচারে, কথোপকথনে আর ভাষণে। ইবন কাসীরও একই জায়গায় পৌঁছান মুজাহিদের কথা ধরে: কথায় আর বিচারে মীমাংসার যোগ্যতা। তিনি বলেন, এতে সব মতই ঢুকে যায়, এটাই উদ্দেশ্য, আর ইবন জারীর এটাই বেছে নিয়েছেন। মুয়াসসারের এক লাইনও এর সঙ্গে মেলে। মাআরিফুল কুরআন বলে, কুরআনের শব্দে বাগ্মিতা আর বিচার, দুই অর্থেরই যথেষ্ট জায়গা আছে, আর দুটোই উদ্দেশ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Judging, a Knowledge of Its Own",
+          "bn": "বিচার, আলাদা এক ইলম"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi relays a point from Ibn al-'Arabi that sharpens the gift. Knowledge of judging, he says, is a kind of knowledge on its own, distinct from knowing the rulings and the lawful and unlawful. A man may see clearly the rulings on acts and know what is halal and haram, and still be unable to settle a case. He illustrates it with a report of 'Ali (RA) deciding a tangled case in Yemen, and a story of Abu Hanifah finding six faults in one verdict. Both come as 'it is narrated', without grading, and are not retold here.",
+            "bn": "কুরতুবী ইবনুল আরাবীর একটি কথা আনেন, যাতে এই দানটা আরও স্পষ্ট হয়। তাঁর মতে বিচারের ইলম নিজেই এক স্বতন্ত্র বিদ্যা। বিধান জানা আর হালাল-হারাম চেনা থেকে এটা আলাদা। কেউ কাজকর্মের বিধান ভালো বোঝে, হালাল-হারাম জানে, তবু একটা মামলার নিষ্পত্তি করতে পারে না, এমন হয়। উদাহরণ হিসেবে তিনি আনেন ইয়েমেনে আলী (রাঃ)-এর একটি জটিল মামলা মীমাংসার বর্ণনা, আর আবু হানীফা এক রায়ে ছয়টি ভুল ধরেছিলেন, এমন একটি কাহিনি। দুটোই এসেছে 'বর্ণিত আছে' বলে, মানের উল্লেখ ছাড়া। এখানে সেগুলো বলা হলো না।"
+          },
+          {
+            "en": "The verse hands the reader an order to keep. Strength came first, then the understanding to use it, and the scene in 38:21 to 38:24 tests that understanding at once; 38:26 later puts the duty into words, judge between people with truth. Few readers will rule a kingdom, but many settle quarrels between children, colleagues or neighbours. The rule the commentators drew from this verse travels to that small seat: ask the one who claims for proof, let the one who denies answer, and speak so that the matter ends.",
+            "bn": "আয়াতটি পাঠকের হাতে একটা ক্রম তুলে দেয়। আগে শক্তি, তারপর সে শক্তি ব্যবহারের বুঝ। আর ৩৮:২১ থেকে ৩৮:২৪ আয়াতের দৃশ্যে সেই বুঝের পরীক্ষা হয় সঙ্গে সঙ্গেই। পরে ৩৮:২৬ আয়াত দায়িত্বটা স্পষ্ট ভাষায় বলে দেয়: মানুষের মধ্যে হক দিয়ে বিচার করুন। খুব কম পাঠকই রাজ্য চালাবেন, কিন্তু অনেকেই সন্তান, সহকর্মী বা প্রতিবেশীদের ঝগড়া মেটান। তাফসীরকারেরা এ আয়াত থেকে যে নিয়ম টেনেছেন, তা সেই ছোট আসনেও খাটে। দাবিদারের কাছে প্রমাণ চান, অস্বীকারকারীকে জবাব দিতে দিন, আর এমনভাবে কথা বলুন যাতে বিষয়টা মিটে যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "38:24": {
     "sections": [
       {

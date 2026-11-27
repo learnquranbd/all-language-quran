@@ -37153,6 +37153,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Carry peace even to those who resist the truth, and mean it when you send peace on the prophets. Name the helper beside you; Allah greeted both brothers together.",
     "lessonBn": "যারা সত্যকে মানতে চায় না, তাদের কাছেও শান্তির কথা বয়ে নিন, আর নবীদের প্রতি সালাম পাঠানোর সময় মন থেকে পাঠান। পাশে থাকা সাহায্যকারীর নামও বলুন; আল্লাহ দুই ভাইকে একসঙ্গে সালাম জানিয়েছেন।"
+  },
+  "38:20": {
+    "reflectionEn": "Strength and wisdom arrive in one breath. Allah made the kingdom of Dawud (AS) firm, then gave him wisdom and the gift of settling a matter with words that end the quarrel. The order is worth noticing: power without understanding only makes its mistakes louder. Nor was the gift left on a shelf. In the very next verses two litigants climb into his chamber and ask him for a ruling. Most of us hold some small authority, over a household, a team or a classroom. When people bring their quarrels to me, do I ask for proof before I decide? And when I speak, do I speak so that the matter ends, or so that it grows?",
+    "reflectionBn": "শক্তি আর প্রজ্ঞা এসেছে একসঙ্গে, এক নিঃশ্বাসে। আল্লাহ দাঊদ (আঃ)-এর রাজত্ব মজবুত করলেন, তারপর তাঁকে দিলেন হিকমাত, আর এমন কথার যোগ্যতা যা বিবাদের ইতি টানে। ক্রমটা খেয়াল করার মতো। বুঝ ছাড়া ক্ষমতা কেবল ভুলগুলোকে আরও জোরালো করে। এই দানও তাকে তুলে রাখা হয়নি। ঠিক পরের আয়াতেই দুই পক্ষ দেয়াল টপকে তাঁর ইবাদতখানায় ঢোকে আর রায় চায়। আমাদের প্রায় সবার হাতেই ছোটখাটো কিছু কর্তৃত্ব আছে: সংসারে, দলে, শ্রেণিকক্ষে। মানুষ যখন তাদের ঝগড়া আমার কাছে আনে, সিদ্ধান্তের আগে আমি কি প্রমাণ চাই? আর আমি যখন কথা বলি, তাতে কি বিষয়টা মিটে যায়, নাকি আরও বাড়ে?",
+    "pointsEn": [
+      "Where do I hold some authority today, and has my understanding kept pace with it?",
+      "When two people bring me a quarrel, do I ask the one making the claim for proof before I believe him?",
+      "Do my words settle matters, or do they leave an argument longer than I found it?",
+      "Which strength in my life have I counted as my own work, when it was in fact given to me?",
+      "Before I speak at length, do I know what I mean to say and where it should end?"
+    ],
+    "pointsBn": [
+      "আজ কোথায় কোথায় আমার হাতে কিছু কর্তৃত্ব আছে? আমার বুঝ কি সেই কর্তৃত্বের সঙ্গে তাল মিলিয়ে বেড়েছে?",
+      "দুজন মানুষ যখন বিবাদ নিয়ে আমার কাছে আসে, যে দাবি করছে তাকে বিশ্বাস করার আগে আমি কি তার কাছে প্রমাণ চাই?",
+      "আমার কথায় কি বিষয় মিটে যায়, নাকি তর্ক যেমন পেয়েছিলাম তার চেয়ে লম্বা হয়ে যায়?",
+      "জীবনের কোন শক্তিকে আমি নিজের কামাই বলে ধরে নিয়েছি, অথচ সেটা আসলে আমাকে দেওয়া হয়েছিল?",
+      "লম্বা কথা শুরু করার আগে আমি কি জানি, ঠিক কী বলতে চাই আর কোথায় থামা উচিত?"
+    ],
+    "lessonEn": "Every strength you are given needs understanding beside it; when you judge between people, ask for proof and speak so that the matter is settled.",
+    "lessonBn": "আপনাকে দেওয়া প্রতিটি শক্তির পাশে বুঝ থাকা চাই; মানুষের মধ্যে ফয়সালা করতে গেলে প্রমাণ চান, আর এমনভাবে কথা বলুন যাতে বিষয়টা মিটে যায়।"
   }
 };
 
