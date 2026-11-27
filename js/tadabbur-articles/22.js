@@ -2399,6 +2399,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "22:45": {
+    "sections": [
+      {
+        "h": {
+          "en": "Counting Left Open",
+          "bn": "খোলা রাখা গণনা"
+        },
+        "p": [
+          {
+            "en": "Fa-ka-ayyin min qaryatin ahlaknaha wa-hiya zalimah: and how many a town We destroyed while it was doing wrong. Ibn Kathir, as-Sa'di and al-Baghawi all gloss ka-ayyin with kam, how many, and al-Qurtubi refers the reader back to his discussion of the word in Al Imran. The verses just before it ended a list of names: the people of Nuh (AS), Ad, Thamud, the people of Ibrahim (AS) and of Lut (AS), the dwellers of Madyan, and the denial of Musa (AS). Here the names stop and the count opens. The verse gives no number and names no town.",
+            "bn": "ফাকাআইয়িন মিন কারইয়াতিন আহলাকনাহা ওয়া হিয়া যালিমাহ: আর কত জনপদ আমি ধ্বংস করেছি, যখন তা জুলুমে লিপ্ত ছিল। ইবন কাসীর, সা'দী আর বাগাভী তিনজনই কাআইয়িন শব্দের অর্থ দেন কাম, অর্থাৎ কত। কুরতুবী পাঠককে ফেরত পাঠান সূরা আলে ইমরানে, যেখানে শব্দটি নিয়ে তিনি আগেই আলোচনা করেছেন। ঠিক আগের আয়াতগুলো শেষ হয়েছে নামের এক তালিকায়: নূহ (আঃ)-এর সম্প্রদায়, আদ, সামূদ, ইবরাহীম (আঃ) ও লূত (আঃ)-এর সম্প্রদায়, মাদইয়ানবাসী, আর মূসা (আঃ)-কেও অস্বীকার করা হয়েছিল। এখানে এসে নাম থেমে যায়, গণনা খুলে যায়। আয়াত কোনো সংখ্যা দেয় না, কোনো জনপদের নামও বলে না।"
+          },
+          {
+            "en": "At-Tabari hears the verse addressed to the Prophet ﷺ: and how many, O Muhammad, a town whose people I destroyed while they were doing wrong. He and al-Qurtubi both read the town as its people; al-Qurtubi glosses We destroyed it as We destroyed its people. As-Sa'di says what the destruction was: severe punishment and disgrace in this world.",
+            "bn": "তাবারী আয়াতটিকে শোনেন নবী ﷺ-এর প্রতি সম্বোধন হিসেবে: হে মুহাম্মাদ, কত জনপদের অধিবাসীদের আমি ধ্বংস করেছি, যখন তারা জুলুম করছিল। তিনি ও কুরতুবী দুজনেই জনপদ বলতে বোঝেন তার মানুষদের। কুরতুবীর ব্যাখ্যায় আমি তাকে ধ্বংস করেছি মানে আমি তার অধিবাসীদের ধ্বংস করেছি। ধ্বংসটা কেমন ছিল, সা'দী তা বলে দেন: কঠিন আযাব আর দুনিয়ার লাঞ্ছনা।"
+          },
+          {
+            "en": "The clause wa-hiya zalimah, while it was doing wrong, comes before any ruin is described, and each commentator names the wrong. Ibn Kathir: denying its messenger. At-Tabari: worshipping someone other than Him who alone should be worshipped, and disobeying Him whom they should not disobey. Al-Qurtubi: through disbelief. As-Sa'di: through its disbelief in Allah and its denial of His messengers, and he adds that Our punishment of it was no wrong on Our part. The Muyassar speaks of towns doing wrong through their disbelief.",
+            "bn": "ওয়া হিয়া যালিমাহ, অর্থাৎ যখন তা জুলুম করছিল। ধ্বংসের কোনো বর্ণনা আসার আগেই এ অংশটি আসে, আর প্রত্যেক তাফসীরকার জুলুমটার নাম বলে দেন। ইবন কাসীরের মতে, নিজের রাসূলকে মিথ্যা বলা। তাবারীর মতে, যাঁর ইবাদত করা উচিত তাঁকে ছেড়ে অন্যের ইবাদত করা, আর যাঁর নাফরমানি করা উচিত নয় তাঁর নাফরমানি করা। কুরতুবীর মতে, কুফর। সা'দীর মতে, আল্লাহর সঙ্গে কুফর আর তাঁর রাসূলদের অস্বীকার। তিনি আরও বলেন, তাদের আমি যে শাস্তি দিয়েছি তা আমার দিক থেকে কোনো জুলুম ছিল না। মুয়াসসার বলে, জনপদগুলো জুলুম করেছিল কুফরের মাধ্যমে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fallen on Its Own Roofs",
+          "bn": "নিজের ছাদের উপর ধসে পড়া"
+        },
+        "p": [
+          {
+            "en": "Fa-hiya khawiyatun 'ala 'urushiha: so it lies fallen on its roofs. At-Tabari unfolds the phrase as a sequence. Its people perished; it emptied and stood vacant of its dwellers; it fell to ruin, gave way, and collapsed onto its 'urush, which he explains as its buildings and its roofs. He supports this with two early glosses. Ad-Dahhak: its khawa' is its ruin, and its 'urush are its roofs. Qatada: khawiyah means in ruins, with no one in it. Al-Baghawi keeps it to two words: fallen, onto its roofs.",
+            "bn": "ফাহিয়া খাবিয়াতুন আলা উরূশিহা: ফলে তা নিজের ছাদের উপর ধসে পড়ে আছে। তাবারী কথাটিকে খুলে বলেন ধাপে ধাপে। আগে এর মানুষেরা শেষ হয়ে গেল। তারপর জনপদ খালি হল, বাসিন্দাশূন্য হয়ে পড়ে রইল। তারপর বিরান হল, ভেঙে পড়তে লাগল, আর ধসে পড়ল উরূশের উপর। উরূশ মানে, তাঁর ব্যাখ্যায়, এর দালানকোঠা আর ছাদ। এর সমর্থনে তিনি আনেন প্রথম যুগের দুটি ব্যাখ্যা। দাহহাক বলেন, খাওয়া মানে বিরান হওয়া, আর উরূশ মানে ছাদ। কাতাদা বলেন, খাবিয়াহ মানে এমন বিরান জায়গা যেখানে কেউ নেই। বাগাভী থামেন দুই কথায়: ধসে পড়া, ছাদের উপর।"
+          },
+          {
+            "en": "As-Sa'di turns the phrase into a before and after. Their homes lie demolished, palaces and walls alike, their roofs fallen in; the place became a ruin after it had been lived in, and desolate after it had been full of its people and at ease with them. Ibn Kathir, citing ad-Dahhak for roofs, adds that its dwellings were ruined and its settled quarters fell idle.",
+            "bn": "সা'দী কথাটিকে সাজান আগে আর পরে মিলিয়ে। তাদের ঘরবাড়ি ভেঙে পড়ে আছে, প্রাসাদ আর দেয়াল সবই। ছাদগুলো ধসে গেছে। যে জায়গা একসময় আবাদ ছিল, তা হয়ে গেল ধ্বংসস্তূপ। যেখানে মানুষে ভরা ছিল, মানুষের সঙ্গে জমজমাট ছিল, সেখানে এখন খাঁ খাঁ নির্জনতা। ইবন কাসীর ছাদের অর্থের জন্য দাহহাকের কথা উল্লেখ করেন, তারপর যোগ করেন: এর ঘরবাড়ি বিরান হয়ে গেছে, এর বসতিগুলো অচল হয়ে পড়েছে।"
+          },
+          {
+            "en": "The phrase is not new to the Qur'an's reader. Al-Qurtubi notes that he explained it earlier, in al-Kahf, where 18:42 uses the same words of a garden destroyed while its owner turned his hands over what he had spent on it. And 2:259 uses them of a town that a man passed while it lay fallen on its roofs, which made him ask how Allah would bring it to life after its death. In all three places the same words describe what was once full and now stands empty.",
+            "bn": "কুরআনের পাঠকের কাছে কথাটি নতুন নয়। কুরতুবী জানান, সূরা কাহফে তিনি এর ব্যাখ্যা আগেই দিয়েছেন। সেখানে ১৮:৪২ আয়াতে ঠিক এই শব্দগুলো এসেছে এক বিধ্বস্ত বাগানের বেলায়, যার মালিক বাগানে যা খরচ করেছিল তার জন্য হাত কচলাচ্ছিল। আবার ২:২৫৯ আয়াতে একই শব্দ এসেছে এমন এক জনপদের বেলায়, যার পাশ দিয়ে এক ব্যক্তি যাচ্ছিলেন, আর জনপদটি ছাদের উপর ধসে পড়ে ছিল। তা দেখে তিনি প্রশ্ন করেছিলেন, মৃত্যুর পর আল্লাহ একে কীভাবে জীবিত করবেন। তিনটি জায়গাতেই একই শব্দ বর্ণনা করে এমন কিছু, যা একসময় পূর্ণ ছিল আর এখন শূন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Well No One Visits",
+          "bn": "যে কূপে কেউ আর যায় না"
+        },
+        "p": [
+          {
+            "en": "Wa-bi'rin mu'attalah: and a well left idle. At-Tabari reads the idleness as the result of its people's end: wells We made idle by annihilating their owners and destroying those who came to draw from them, so that they filled in and fell out of use, with none coming to water and none drinking. He records Ibn Abbas, through Ata al-Khurasani: the well that has been abandoned; someone else said: it has no people. Qatada: its people idled it and left it. Ad-Dahhak: it has no people.",
+            "bn": "ওয়া বি'রিন মুআত্তালাহ: আর অচল পড়ে থাকা কূপ। তাবারী অচল হওয়াটাকে দেখেন মানুষগুলোর পরিণতির ফল হিসেবে। আমি কূপগুলো অচল করে দিয়েছি তাদের মালিকদের নিশ্চিহ্ন করে, আর যারা পানি নিতে আসত তাদের ধ্বংস করে। ফলে কূপগুলো মাটিতে ভরে গেল, কাজে লাগার মতো রইল না। পানি নিতে কেউ আসে না, পান করার কেউ নেই। আতা আল-খুরাসানীর সূত্রে তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন: যে কূপ পরিত্যক্ত। অন্য একজন বলেছেন: যার কোনো মালিক নেই। কাতাদা বলেন, এর মালিকেরা একে অচল করে রেখে চলে গেছে। দাহহাক বলেন, এর কোনো মানুষ নেই।"
+          },
+          {
+            "en": "Al-Qurtubi lists four meanings and calls them close in meaning: left abandoned, which he gives from ad-Dahhak; empty of its people because they perished; its water sunk away; and idle of its buckets and ropes. Ibn Kathir and as-Sa'di dwell on the crowd that is gone. Ibn Kathir: no water is drawn from it and no one comes to it, after many had come and pressed around it. As-Sa'di: a well where people once crowded for their own drinking and their livestock's, which then lost its people, so that no one came to it and no one left it.",
+            "bn": "কুরতুবী চারটি অর্থ উল্লেখ করেন এবং বলেন, অর্থগুলো কাছাকাছি। প্রথমটি দাহহাকের: পরিত্যক্ত। দ্বিতীয়টি: মানুষগুলো ধ্বংস হয়ে যাওয়ায় খালি। তৃতীয়টি: পানি নিচে নেমে গেছে। চতুর্থটি: বালতি আর দড়ি ছাড়া অকেজো পড়ে আছে। ইবন কাসীর আর সা'দী জোর দেন সেই ভিড়ের উপর, যা আর নেই। ইবন কাসীর বলেন, এ থেকে কেউ পানি তোলে না, কেউ এর কাছে আসে না, অথচ একসময় বহু মানুষ আসত, ভিড় করত। সা'দীর ছবিটা এমন: মানুষ নিজেরা পান করতে আর পশুদের পান করাতে এই কূপে ভিড় জমাত। তারপর কূপ তার মানুষ হারাল। এখন কেউ পানি নিতে আসেও না, নিয়ে ফিরেও যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Plaster or Height",
+          "bn": "চুনকাম, নাকি উচ্চতা"
+        },
+        "p": [
+          {
+            "en": "Wa-qasrin mashid: and a palace mashid. Here the early authorities divide, and at-Tabari says so in as many words: the people of interpretation differed. Some took mashid as plastered, finished with gypsum. He gives it from Ikrimah through several chains, from Mujahid, who said with qassah, meaning plaster, from Ata, and from Sa'id ibn Jubayr. Ikrimah added that in Madina plaster is called shid. Ja'far ibn Burqan recalled walking with Ikrimah, who saw a plastered wall of baked brick, laid his hand on it and said: this is the mashid Allah spoke of.",
+            "bn": "ওয়া কাসরিন মাশীদ: আর মাশীদ প্রাসাদ। এখানে এসে প্রথম যুগের আলিমরা দুই ভাগ হয়ে যান, আর তাবারী তা স্পষ্ট করেই বলেন: তাফসীরের লোকেরা এতে মতভেদ করেছেন। কারও কারও মতে মাশীদ মানে চুনকাম করা, জিপসামের প্রলেপ দেওয়া। তাবারী এ মত আনেন কয়েকটি সূত্রে ইকরিমা থেকে, মুজাহিদ থেকে, যিনি বলেছেন কাসসাহ দিয়ে, অর্থাৎ চুন দিয়ে, আর আতা ও সাঈদ ইবন জুবাইর থেকে। ইকরিমা আরও বলেছেন, মদীনায় চুনকে বলা হয় শীদ। জাফর ইবন বুরকান স্মরণ করেন, তিনি ইকরিমার সঙ্গে হাঁটছিলেন। ইকরিমা পোড়া ইটের এক চুনকাম করা দেয়াল দেখে তাতে হাত রাখলেন আর বললেন: এটাই সেই মাশীদ, যার কথা আল্লাহ বলেছেন।"
+          },
+          {
+            "en": "Others took it as high and tall. Qatada: its people built it high and fortified it, then perished and left it. Al-Baghawi sets the two sides out by name: Qatada, ad-Dahhak and Muqatil for raised and tall, from shada bina'ahu, he raised his building; Sa'id ibn Jubayr, Mujahid and Ata for plastered, from shid, plaster. Al-Qurtubi gives the same two lists and adds a third gloss from Ibn Abbas: fortified. Ibn Kathir, by contrast, counts ad-Dahhak among those who said plastered, so his name appears on both sides across the sources.",
+            "bn": "অন্যদের মতে এর অর্থ উঁচু, দীর্ঘ। কাতাদা বলেন, এর মালিকেরা একে উঁচু করে গেঁথেছিল, সুরক্ষিত করেছিল, তারপর নিজেরা ধ্বংস হয়ে একে ফেলে গেছে। বাগাভী দুই পক্ষকে নাম ধরে আলাদা করেন। কাতাদা, দাহহাক আর মুকাতিল বলেন উঁচু ও দীর্ঘ, শাদা বিনাআহু থেকে, অর্থাৎ সে তার দালান উঁচু করল। সাঈদ ইবন জুবাইর, মুজাহিদ আর আতা বলেন চুনকাম করা, শীদ থেকে, যার অর্থ চুন। কুরতুবী একই দুই তালিকা দেন, সঙ্গে ইবন আব্বাস (রাঃ) থেকে তৃতীয় এক ব্যাখ্যা যোগ করেন: সুরক্ষিত। অন্যদিকে ইবন কাসীর দাহহাককে গোনেন চুনকামের পক্ষে। ফলে বিভিন্ন সূত্রে দাহহাকের নাম দুই পক্ষেই পাওয়া যায়।"
+          },
+          {
+            "en": "At-Tabari then decides. The sounder of the two views, he says, is plastered, because shid in the speech of the Arabs is plaster itself, and mashid is the passive form made from it. He cites a line of Imru' al-Qays about Tayma', where nothing was left standing but what was mashid with stone, and explains it as built with shid and stone. Yet he allows a bridge: mashid may mean a building raised up by means of plaster, which may be what those who said tall were reaching for.",
+            "bn": "এরপর তাবারী রায় দেন। তাঁর মতে দুই মতের মধ্যে অধিক সঠিক হল চুনকাম করা। কারণ আরবদের ভাষায় শীদ মানেই চুন, আর মাশীদ সেই শীদ থেকেই তৈরি কর্মবাচ্য রূপ। প্রমাণ হিসেবে তিনি ইমরুল কায়সের একটি পঙক্তি আনেন তাইমা নিয়ে, যেখানে পাথর দিয়ে মাশীদ করা দালান ছাড়া আর কিছুই টিকে থাকেনি। তাবারী এর ব্যাখ্যা দেন: চুন আর পাথর দিয়ে গাঁথা। তবে তিনি দুই মতের মাঝে একটা সেতুও রাখেন। মাশীদ বলতে এমন দালানও বোঝাতে পারে, যা চুন দিয়ে উঁচু করে গাঁথা। যাঁরা দীর্ঘ বলেছেন, তাঁরা হয়তো এ অর্থের দিকেই ইঙ্গিত করছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Well Belongs",
+          "bn": "কূপ জুড়েছে কার সঙ্গে"
+        },
+        "p": [
+          {
+            "en": "A grammatical question sits inside the verse: what are the well and the palace attached to? At-Tabari's answer is the town. Both nouns take the genitive by conjunction with qaryah: how many a town We destroyed, and how many a well We left idle, and how many a palace. He reports that a Kufan grammarian joined them instead to 'urush, in case only. That attachment, at-Tabari notes, does not suit the meaning, since roofs are the tops of houses while a well lies in the ground, and the town did not fall onto the palace.",
+            "bn": "আয়াতের ভেতরে একটি ব্যাকরণের প্রশ্ন আছে: কূপ আর প্রাসাদ শব্দ দুটি কার সঙ্গে যুক্ত? তাবারীর উত্তর, জনপদের সঙ্গে। দুটি শব্দই কারইয়াহ-র সঙ্গে সংযোগের কারণে যের পেয়েছে। অর্থাৎ কত জনপদ আমি ধ্বংস করেছি, কত কূপ অচল করেছি, কত প্রাসাদ খালি করেছি। তিনি জানান, কুফার এক ব্যাকরণবিদ শব্দ দুটিকে জুড়েছিলেন উরূশের সঙ্গে, শুধু বিভক্তির দিক থেকে। তাবারী বলেন, অর্থের দিক থেকে এ সংযোগ খাপ খায় না। কারণ উরূশ হল ঘরের উপরের অংশ, আর কূপ থাকে মাটির ভেতরে। জনপদ তো প্রাসাদের উপর ধসে পড়েনি।"
+          },
+          {
+            "en": "On that grammarian's account, at-Tabari explains, the sense would be: and it has an idle well and a lofty palace; since nothing in the sentence governed the well, it simply followed 'urush in its ending. Al-Qurtubi names al-Farra' for the attachment to 'urush, and gives az-Zajjaj's reading instead: the well is joined to min qaryah, so that the sense is how many people of a town, and people of a well. On every reading, well and palace share the town's emptiness.",
+            "bn": "তাবারী ব্যাখ্যা করেন, ওই ব্যাকরণবিদের হিসাবে অর্থ দাঁড়ায়: আর তার আছে অচল এক কূপ ও সুউচ্চ এক প্রাসাদ। বাক্যে কূপকে নিয়ন্ত্রণ করার মতো কোনো শব্দ না থাকায় সেটি শুধু শব্দশেষের দিক থেকে উরূশের অনুসরণ করেছে। কুরতুবী উরূশের সঙ্গে সংযোগের মতটি ফাররার নামে উল্লেখ করেন। তার বদলে তিনি দেন যাজ্জাজের ব্যাখ্যা: কূপ জুড়েছে মিন কারইয়াহ-র সঙ্গে। তখন অর্থ হয়, কত জনপদের মানুষ, আর কত কূপের মানুষ। যেভাবেই পড়া হোক, কূপ আর প্রাসাদ জনপদের মতোই শূন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Walls Could Not Do",
+          "bn": "দেয়াল যা ঠেকাতে পারেনি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir calls all the readings of mashid close, with no conflict among them, and his reason is the verse's own point. Whether the palace was plastered, high or fortified, he writes, neither the strength of its building, nor its height, nor its solidity, nor its defences protected its people when Allah's might came down on them. He sets beside it 4:78: wherever you are, death will overtake you, even if you are in buruj mushayyadah, lofty towers, a word from the same root. Al-Qurtubi relays al-Kisa'i on the pair: mashid for the single palace here, mushayyad for the plural towers there.",
+            "bn": "ইবন কাসীর বলেন, মাশীদের সব ব্যাখ্যাই কাছাকাছি, এদের মধ্যে কোনো বিরোধ নেই। কারণটা আয়াতের মূল বক্তব্যেই। প্রাসাদটি চুনকাম করা হোক, উঁচু হোক বা সুরক্ষিত, তাঁর কথায়, আল্লাহর আযাব যখন নেমে এল, তখন দালানের মজবুতি, উচ্চতা, নিখুঁত গাঁথুনি বা প্রতিরক্ষা কোনোটাই এর বাসিন্দাদের রক্ষা করতে পারেনি। এর পাশে তিনি রাখেন ৪:৭৮ আয়াত: তোমরা যেখানেই থাকো, মৃত্যু তোমাদের নাগাল পাবেই, যদিও তোমরা থাকো বুরূজ মুশাইয়াদায়, সুউচ্চ দুর্গে। শব্দটি একই ধাতু থেকে। কুরতুবী এই জোড়া নিয়ে কিসাঈর কথা আনেন: এখানে একটি প্রাসাদের বেলায় মাশীদ, আর সেখানে বহু দুর্গের বেলায় মুশাইয়াদ।"
+          },
+          {
+            "en": "As-Sa'di gives the palace a history. Its people laboured over it, built it up, raised it, fortified it and adorned it; when Allah's command came, it availed them nothing, and it stood empty of them. The Muyassar: their high, ornamented palaces did not ward off the evil punishment from their owners. At-Tabari: a palace raised with rock and plaster, now empty of its dwellers because of the punishment Allah made its people taste for their evil deeds; they perished, and their palaces remained, empty of them.",
+            "bn": "সা'দী প্রাসাদটির একটা ইতিহাস বলেন। এর মালিকেরা এর পেছনে খেটেছিল। গেঁথে তুলেছিল, উঁচু করেছিল, সুরক্ষিত করেছিল, সাজিয়েছিল। কিন্তু আল্লাহর হুকুম যখন এল, প্রাসাদ তাদের কোনো কাজে আসেনি। এখন তা পড়ে আছে তাদের ছাড়াই। মুয়াসসার বলে, তাদের সুউচ্চ, কারুকাজ করা প্রাসাদগুলো মালিকদের উপর থেকে নিকৃষ্ট আযাব সরাতে পারেনি। তাবারী বলেন, পাথর আর চুন দিয়ে উঁচু করা প্রাসাদ, যা এখন বাসিন্দাশূন্য। কারণ এর মালিকদের মন্দ কাজের জন্য আল্লাহ তাদের আযাবের স্বাদ দিয়েছেন। তারা শেষ হয়ে গেছে, আর তাদের প্রাসাদগুলো রয়ে গেছে তাদের ছাড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lore Hung on the Ruins",
+          "bn": "ধ্বংসাবশেষ ঘিরে লোককথা"
+        },
+        "p": [
+          {
+            "en": "Some commentators relay attempts to put the well and the palace on a map. Al-Baghawi gives, under it is said, a location in Yemen, and then, through Abu Rawq from ad-Dahhak, a story that sets the well in Hadramawt and ties it to survivors of the people of Salih (AS) and to a prophet later sent to their descendants. Al-Qurtubi relays a longer version of the same story through al-Tha'labi and others and an identification of the palace's builder from as-Suhayli.",
+            "bn": "কয়েকজন তাফসীরকার কূপ আর প্রাসাদকে মানচিত্রে বসানোর কিছু চেষ্টার কথা উল্লেখ করেন। বাগাভী 'বলা হয়' কথাটি দিয়ে ইয়ামানের একটি জায়গার কথা আনেন। তারপর আবু রাওকের সূত্রে দাহহাক থেকে তিনি একটি কাহিনি আনেন। তাতে কূপটি হাদরামাওতে, আর কাহিনিটি জড়ানো সালিহ (আঃ)-এর সম্প্রদায়ের বেঁচে যাওয়া লোকদের সঙ্গে, এবং পরে তাদের বংশধরদের কাছে পাঠানো এক নবীর সঙ্গে। কুরতুবী সা'লাবী ও অন্যদের সূত্রে একই কাহিনির দীর্ঘতর রূপ আনেন। সঙ্গে আনেন প্রাসাদটি কে বানিয়েছিল সে বিষয়ে সুহাইলীর একটি শনাক্তকরণ।"
+          },
+          {
+            "en": "The palace report, as al-Qurtubi relays it, carries its own hedge, as they mentioned and claimed, and none of these reports comes with a chain that the commentators grade or rest anything on. At-Tabari, Ibn Kathir, as-Sa'di and the Muyassar name no place at all. The verse itself leaves its town, its well and its palace without names, each in the indefinite, as members of a count it leaves open. This article therefore retells none of the lore and builds nothing on it. The verse asks what such ruins mean, not where they lie.",
+            "bn": "কুরতুবী প্রাসাদের যে বর্ণনা আনেন, তার ভেতরেই একটা সতর্কতা আছে: যেমনটা তারা উল্লেখ করেছে ও দাবি করেছে। এসব বর্ণনার কোনোটির সঙ্গেই এমন সনদ নেই, যার মান তাফসীরকারেরা যাচাই করেছেন বা যার উপর কিছু দাঁড় করিয়েছেন। তাবারী, ইবন কাসীর, সা'দী আর মুয়াসসার কোনো জায়গার নামই বলেন না। আয়াত নিজেও তার জনপদ, কূপ আর প্রাসাদকে নামহীন রাখে। তিনটিই অনির্দিষ্ট রূপে এসেছে, এমন এক গণনার অংশ হিসেবে যা খোলা রাখা হয়েছে। তাই এই প্রবন্ধ সেসব লোককথার কিছুই পুনরায় বলে না, সেগুলোর উপর কিছু দাঁড়ও করায় না। আয়াত জানতে চায় এমন ধ্বংসাবশেষের অর্থ কী, সেগুলো কোথায় তা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ruins That Accuse No One",
+          "bn": "যে ধ্বংসাবশেষ কাউকে দোষী করে না"
+        },
+        "p": [
+          {
+            "en": "No fetched commentary attaches a hadith of the Prophet ﷺ to this verse; the narration on respite that Ibn Kathir cites in his grouped comment belongs to 22:44 and is not attached here. What the commentators do attach is a purpose. As-Sa'di closes his comment by saying that the destroyed peoples became a lesson for whoever takes lesson, and an example for whoever reflects and looks. The ruins, on his reading, exist to be thought about, and the thinking they ask for is the reader's own.",
+            "bn": "যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করে না। ইবন কাসীর তাঁর সম্মিলিত আলোচনায় অবকাশ নিয়ে যে বর্ণনাটি আনেন, তা ২২:৪৪ আয়াতের, এ আয়াতের সঙ্গে যুক্ত নয়। তাফসীরকারেরা এ আয়াতের সঙ্গে যা যুক্ত করেন, তা একটি উদ্দেশ্য। সা'দী তাঁর আলোচনা শেষ করেন এ কথায়: ধ্বংস হওয়া এ লোকেরা হয়ে গেছে শিক্ষা, যে শিক্ষা নিতে চায় তার জন্য, আর দৃষ্টান্ত, যে চিন্তা করে ও তাকিয়ে দেখে তার জন্য। তাঁর পাঠে ধ্বংসাবশেষ আছে ভাবনার জন্য, আর সে ভাবনা পাঠকের নিজের।"
+          },
+          {
+            "en": "That lesson has a firm edge, and it needs saying plainly. The verse describes what the text describes: towns that denied their messengers and did wrong, and their end. It licenses nothing against any living person or community, including anyone who lives today among ancient ruins or in lands once theirs. No present-day ruin, abandoned town, earthquake, flood or war may be read through this verse as a punishment of this kind, and no one struck by such things may be counted among these wrongdoers. The verse names no town, and no reader may name one for it.",
+            "bn": "এ শিক্ষার একটি দৃঢ় সীমা আছে, আর তা সোজাসুজি বলা দরকার। আয়াত বর্ণনা করে কেবল তা-ই, যা আয়াতে আছে: এমন সব জনপদ, যারা নিজেদের রাসূলদের অস্বীকার করেছিল ও জুলুম করেছিল, আর তাদের পরিণতি। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। যারা আজ প্রাচীন ধ্বংসাবশেষের মাঝে বা একসময় ওদের ছিল এমন ভূখণ্ডে বাস করে, তাদের বিরুদ্ধেও না। আজকের কোনো ধ্বংসাবশেষ, পরিত্যক্ত শহর, ভূমিকম্প, বন্যা বা যুদ্ধকে এ আয়াত দিয়ে এ ধরনের শাস্তি বলে পড়া যাবে না। এসবে যারা আক্রান্ত হয়েছে, তাদের এই জালিমদের দলে গোনা যাবে না। আয়াত কোনো জনপদের নাম বলেনি, কোনো পাঠকও তার হয়ে নাম বসাতে পারে না।"
+          },
+          {
+            "en": "Its charge points the other way, toward the reader's own building. The next verse, 22:46, takes up what travellers do with such sights; that belongs to it. Here the verse sets down the evidence: a house fallen on its roofs, a well no one visits, a palace finished with care and left empty, and before all three, the wrong that brought them there. It leaves the question of what I am building, and which wrong of mine I trust the walls to outlast.",
+            "bn": "আয়াতের আঙুল বরং উল্টো দিকে, পাঠকের নিজের গড়ার দিকে। এমন দৃশ্য দেখে পথিক কী করবে, সে প্রসঙ্গ পরের আয়াতের, ২২:৪৬। এখানে আয়াত শুধু সাক্ষ্যগুলো সামনে রাখে: ছাদের উপর ধসে পড়া ঘর, যে কূপে কেউ যায় না, যত্নে সাজানো অথচ খালি পড়ে থাকা প্রাসাদ। আর তিনটির আগেই সেই জুলুম, যা তাদের এ দশায় এনেছে। আয়াত প্রশ্নটা রেখে যায় আমার কাছে: আমি কী গড়ছি, আর আমার কোন অন্যায় দেয়ালের আড়ালে টিকে যাবে বলে ভরসা করছি?"
+          }
+        ]
+      }
+    ]
+  },
   "22:46": {
     "sections": [
       {

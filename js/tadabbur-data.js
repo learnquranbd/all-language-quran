@@ -34799,6 +34799,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Treat everything placed in your hands, from your prayer to a friend's secret, as a trust you will return, and keep every promise you give, large or small.",
     "lessonBn": "নামাজ থেকে বন্ধুর গোপন কথা পর্যন্ত হাতে যা আসে, সবই ফিরিয়ে দেওয়ার মতো আমানত ভাবুন, আর ছোট-বড় প্রতিটি ওয়াদা পূরণ করুন।"
+  },
+  "22:45": {
+    "reflectionEn": "The verse gives no number. It says how many, and leaves the count open. Then it shows three things that outlasted their people: houses fallen in on their own roofs, a well that once drew crowds and now draws no one, and a palace raised high and finished with plaster, standing empty. The town was destroyed while it was doing wrong, and its walls, its height and its strength held nothing back when Allah's command came. The verse names no town, and it gives no licence to read any ruin or disaster today as a punishment. It turns the question toward me. What am I building with such care, and what am I trusting it to keep away?",
+    "reflectionBn": "আয়াতটি কোনো সংখ্যা বলে না। শুধু বলে, কত জনপদ! গোনাটা খোলা রেখে দেয়। তারপর সামনে আনে তিনটি জিনিস, যেগুলো তাদের মানুষদের চেয়ে বেশি দিন টিকে আছে। নিজের ছাদের উপর ধসে পড়া ঘরবাড়ি। এক কূপ, যেখানে একসময় ভিড় লেগে থাকত, এখন কেউ যায় না। আর চুনকাম করা সুউচ্চ প্রাসাদ, যা খালি পড়ে আছে। জনপদটি ধ্বংস হয়েছিল জুলুমে ডুবে থাকা অবস্থায়। আল্লাহর হুকুম যখন এল, তার দেয়াল, উচ্চতা আর মজবুতি কিছুই ঠেকাতে পারেনি। আয়াত কোনো জনপদের নাম বলে না। আজকের কোনো ধ্বংসাবশেষ বা দুর্যোগকে শাস্তি বলে ধরে নেওয়ার অনুমতিও দেয় না। প্রশ্নটা বরং ফিরে আসে আমার দিকে। এত যত্ন করে আমি কী গড়ছি, আর তার উপর ভরসা রাখছি কোন বিপদ দূরে রাখার?",
+    "pointsEn": [
+      "What am I building most carefully right now, and what do I quietly expect it to protect me from?",
+      "The verse names the town's wrong before it describes the ruin. Which wrong of mine have I not yet named, even to myself?",
+      "Do I treat the strength of my walls, my savings, my health or my connections, as proof that nothing can reach me?",
+      "When I pass old ruins or read of a ruined city, do I look for a lesson for myself, or for someone to blame?",
+      "The well and the palace outlasted their owners. What of mine will outlast me, and will it speak for me or against me?"
+    ],
+    "pointsBn": [
+      "এই মুহূর্তে সবচেয়ে যত্ন নিয়ে আমি কী গড়ছি? মনে মনে আশা করছি সেটা আমাকে কোন জিনিস থেকে বাঁচাবে?",
+      "ধ্বংসের ছবি দেখানোর আগেই আয়াত জনপদের অন্যায়ের নাম বলে দেয়। আমার কোন অন্যায়ের নাম আমি এখনো বলিনি, নিজের কাছেও না?",
+      "আমার দেয়ালের মজবুতি, মানে সঞ্চয়, স্বাস্থ্য বা চেনাজানা লোক, এসবকে কি আমি প্রমাণ ধরে নিই যে কিছুই আমাকে ছুঁতে পারবে না?",
+      "পুরনো ধ্বংসাবশেষের পাশ দিয়ে গেলে বা কোনো বিধ্বস্ত শহরের খবর পড়লে আমি কি নিজের জন্য শিক্ষা খুঁজি, নাকি দোষ চাপানোর মতো কাউকে খুঁজি?",
+      "কূপ আর প্রাসাদ তাদের মালিকদের চেয়ে বেশি দিন টিকে ছিল। আমার কোন জিনিস আমার পরেও থেকে যাবে, আর তা আমার পক্ষে কথা বলবে, নাকি বিপক্ষে?"
+    ],
+    "lessonEn": "Height, strength and plaster protected no one from Allah's command. Do not lean on what you build; mend the wrong while you can, and read every ruin as a lesson for yourself.",
+    "lessonBn": "উচ্চতা, মজবুতি আর চুনকাম কাউকে আল্লাহর হুকুম থেকে বাঁচাতে পারেনি। নিজের গড়া জিনিসের উপর ভরসা করবেন না। সময় থাকতে অন্যায় শুধরে নিন, আর প্রতিটি ধ্বংসাবশেষ থেকে নিজের জন্য শিক্ষা নিন।"
   }
 };
 
