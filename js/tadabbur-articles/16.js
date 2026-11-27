@@ -6211,6 +6211,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "16:119": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Food Passage Ends",
+          "bn": "খাবারের আলোচনার শেষ মাথায়"
+        },
+        "p": [
+          {
+            "en": "The verses just before it are about food. 16:114 tells the believers to eat what Allah has provided, lawful and good, and 16:115 names the few things He has forbidden, with an allowance for whoever is forced by necessity. 16:116 forbids saying 'this is lawful and this is forbidden' on human authority, and 16:118 recalls what was forbidden to the Jews. Ibn Kathir reads the order as a contrast: the ease given to this community in its law of food, then the restrictions placed on those before it, which they had deserved.",
+            "bn": "এ আয়াতের আগের আয়াতগুলোর বিষয় খাবার। ১৬:১১৪ মুমিনদের বলে, আল্লাহ যে হালাল ও পবিত্র রিযক দিয়েছেন তা থেকে খাও। ১৬:১১৫ গুনে গুনে অল্প কয়েকটি হারাম জিনিসের নাম বলে, আর নিরুপায় মানুষের জন্য ছাড় রাখে। ১৬:১১৬ নিষেধ করে নিজের মুখে 'এটা হালাল, ওটা হারাম' বলে দিতে। আর ১৬:১১৮ মনে করিয়ে দেয় ইয়াহুদিদের উপর কী হারাম করা হয়েছিল। ইবন কাসীর এই ক্রমকে দেখেন তুলনা হিসেবে। খাবারের বিধানে এ উম্মতকে দেওয়া হয়েছে সহজতা, আর আগের লোকদের উপর এসেছিল কড়াকড়ি, যা তাদের প্রাপ্যই ছিল।"
+          },
+          {
+            "en": "Then the verse opens with thumma, 'then', and turns. Ibn Kathir's Arabic says that Allah next informs, out of generosity and favour, concerning the believers who disobey, that whoever of them repents to Him, He turns to him. The same frame has already appeared once in this surah. 16:110 also begins thumma inna rabbaka, 'then indeed your Lord', and also closes inna rabbaka min ba'diha la-ghafurun rahim. That verse concerns people who were tried and pressed; this one concerns anyone who has done evil, and what was said there is not repeated here.",
+            "bn": "তারপর আয়াত শুরু হয় 'সুম্মা' দিয়ে, অর্থাৎ 'তারপর', আর কথার মোড় ঘুরে যায়। ইবন কাসীরের আরবি ভাষ্যে আছে, আল্লাহ এরপর অনুগ্রহ ও দয়া করে নাফরমান মুমিনদের সম্পর্কে জানাচ্ছেন: তাদের মধ্যে যে তাঁর কাছে তওবা করে, তিনি তার তওবা কবুল করেন। এই সূরায় একই কাঠামো আগেও একবার এসেছে। ১৬:১১০ আয়াতও শুরু হয় 'সুম্মা ইন্না রাব্বাকা' দিয়ে, শেষও হয় 'ইন্না রাব্বাকা মিন বা'দিহা লাগাফূরুর রাহীম' দিয়ে। সেখানে কথা পরীক্ষায় পড়া ও চাপে পিষ্ট মানুষদের নিয়ে। এখানে কথা যে-কোনো মন্দকারীকে নিয়ে। সেখানকার আলোচনা এখানে আর ফিরিয়ে আনা হলো না।"
+          },
+          {
+            "en": "One word on 16:118 before going on. It describes a ruling given to one people in their own time, and that verse itself says Allah did not wrong them. It licenses nothing against any Jewish person or community living today. And the verse that follows it, this one, is not addressed to a single group: it speaks to every reader who has fallen into wrong, and its promise is open to each of them on the same terms.",
+            "bn": "সামনে যাওয়ার আগে ১৬:১১৮ নিয়ে একটা কথা। আয়াতটি নির্দিষ্ট এক জাতিকে তাদের নিজেদের কালে দেওয়া একটি বিধানের বিবরণ দেয়, আর সেই আয়াতই বলে যে আল্লাহ তাদের উপর যুলম করেননি। আজকের কোনো ইয়াহুদি মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। আর তার পরের এই আয়াত কোনো একটি দলকে উদ্দেশ করে নয়। যে পাঠকই অন্যায়ে জড়িয়েছে, আয়াত তার সঙ্গে কথা বলছে, আর এর প্রতিশ্রুতি একই শর্তে সবার জন্য খোলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Su': Sin or Shirk",
+          "bn": "আস-সূ: গুনাহ, নাকি শিরক"
+        },
+        "p": [
+          {
+            "en": "Lilladhina 'amilu al-su'a: for those who did evil. Who are they? For Ibn Kathir they are the believers who sin; the abridged English renders the line as Allah honouring and reminding believers who have sinned of His blessings. At-Tabari says those who disobeyed Allah. Al-Muyassar puts it as those who committed acts of disobedience. On each of these readings the verse speaks to a Muslim who has fallen, and what it offers him is a door of repentance that has not been shut.",
+            "bn": "লিল্লাযীনা 'আমিলুস সূআ: যারা মন্দ কাজ করেছে তাদের জন্য। এরা কারা? ইবন কাসীরের মতে এরা গুনাহগার মুমিন। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণে কথাটা এসেছে এভাবে: যে মুমিনরা গুনাহ করেছে, আল্লাহ তাদের সম্মান দিচ্ছেন আর নিজের নিয়ামতের কথা মনে করিয়ে দিচ্ছেন। তাবারী বলেন, যারা আল্লাহর নাফরমানি করেছে। মুয়াসসারের ভাষায়, যারা গুনাহের কাজ করেছে। এর প্রতিটি পাঠে আয়াতের শ্রোতা পা পিছলে পড়া একজন মুসলিম। আর আয়াত তাকে দেখাচ্ছে তওবার এমন এক দরজা, যা এখনো বন্ধ হয়নি।"
+          },
+          {
+            "en": "Al-Qurtubi gives a different gloss in a single line. Al-su' here means shirk, associating partners with Allah, and he reports this from Ibn 'Abbas. He then says the matter has already been treated in Surat an-Nisa', and stops. If that gloss is followed, the verse's promise reaches even the gravest wrong there is, once it is followed by repentance and putting right. Both readings stand in the texts fetched for this verse, and this article does not choose between them.",
+            "bn": "কুরতুবী এক লাইনে ভিন্ন ব্যাখ্যা দেন। এখানে 'আস-সূ' মানে শিরক, অর্থাৎ আল্লাহর সঙ্গে শরিক করা। কথাটা তিনি ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন। এরপর বলেন, বিষয়টি সূরা আন-নিসায় আগেই আলোচিত হয়েছে, আর সেখানেই থামেন। এ ব্যাখ্যা ধরলে আয়াতের প্রতিশ্রুতি সবচেয়ে বড় অন্যায় পর্যন্তও পৌঁছে যায়, যদি তার পরে তওবা ও সংশোধন আসে। এ আয়াতের জন্য সংগ্রহ করা লেখায় দুটি ব্যাখ্যাই আছে। এ প্রবন্ধ তাদের মধ্যে কোনোটিকে বেছে নিচ্ছে না।"
+          },
+          {
+            "en": "His discussion in an-Nisa' is at 4:17, and it was fetched for this article because he sends the reader there. It joins the two. Al-su' in that verse, he writes, and in the verse of al-An'am he quotes beside it, 6:54, takes in both disbelief and acts of disobedience. 6:54 carries the very phrase: whoever of you does evil in ignorance, then repents after it and puts right.",
+            "bn": "আন-নিসায় তাঁর সেই আলোচনা ৪:১৭ আয়াতে। তিনি নিজেই পাঠককে সেখানে পাঠান বলে এ প্রবন্ধের জন্য সেটিও সংগ্রহ করা হয়েছে। সেখানে দুটি ব্যাখ্যা এক জায়গায় মিলে যায়। তিনি লেখেন, ওই আয়াতে এবং পাশে উদ্ধৃত সূরা আল-আন'আমের ৬:৫৪ আয়াতে 'আস-সূ' কুফর ও গুনাহ দুটোকেই শামিল করে। ৬:৫৪ আয়াতে হুবহু এই কথাই আছে: তোমাদের মধ্যে যে অজ্ঞতাবশত মন্দ কাজ করে, তারপর তওবা করে ও শুধরে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ignorance That Knows the Rule",
+          "bn": "বিধান জেনেও অজ্ঞ"
+        },
+        "p": [
+          {
+            "en": "Bi-jahalatin, in ignorance, is the phrase this verse turns on. At-Tabari does not gloss it as not knowing the ruling. He paraphrases: those who disobeyed Allah and so became ignorant by committing the disobedience they committed, and acted foolishly in it. For him the ignorance lies in the act itself. The sinner may know quite well what the act is; in doing it, he has behaved as a fool behaves, and that is what the word names.",
+            "bn": "বিজাহালাতিন, অজ্ঞতাবশত: পুরো আয়াত এই শব্দের উপর দাঁড়িয়ে। তাবারী এর ব্যাখ্যায় বিধান না জানার কথা বলেন না। তাঁর ভাষ্য হলো: যারা আল্লাহর নাফরমানি করেছে, আর সেই নাফরমানিতে লিপ্ত হয়েই অজ্ঞ হয়ে গেছে, নির্বোধের মতো কাজ করেছে। তাঁর কাছে অজ্ঞতাটা কাজের ভেতরেই। গুনাহগার হয়তো ভালোই জানে কাজটা কী। কিন্তু কাজটা করতে গিয়ে সে নির্বোধের আচরণ করেছে, আর শব্দটা সেটাকেই বোঝায়।"
+          },
+          {
+            "en": "Ibn Kathir reports from some of the early Muslims: everyone who disobeys Allah is ignorant. Al-Muyassar spells out what kind of ignorance that is. They committed the sins while ignorant of where they lead and of their bringing on Allah's displeasure; so every sinner against Allah, by mistake or on purpose, is ignorant in this respect, even if he knows the act is forbidden. The knowledge of the rule can be fully present. The knowledge of its cost is what has gone.",
+            "bn": "ইবন কাসীর সালাফের কারও কারও কথা বর্ণনা করেন: যে-ই আল্লাহর নাফরমানি করে, সে অজ্ঞ। মুয়াসসার খুলে বলে এ অজ্ঞতা কোন ধরনের। তারা গুনাহ করেছে এর পরিণাম কোথায় গিয়ে দাঁড়ায় আর তা যে আল্লাহর অসন্তুষ্টি ডেকে আনে, সে সম্পর্কে অজ্ঞ থেকে। তাই আল্লাহর প্রত্যেক নাফরমান, ভুল করে হোক বা জেনেশুনে, এ অর্থে অজ্ঞ, যদিও সে জানে কাজটা হারাম। বিধানের জ্ঞান পুরোপুরি থাকতে পারে। হারিয়ে যায় তার দামের জ্ঞান।"
+          },
+          {
+            "en": "As-Sa'di reaches the same place from the heart. Whoever does evil in ignorance of what it will bring on him, even if he sinned deliberately, must have some of the knowledge in his heart diminished at the moment he commits it. Ma'arif al-Qur'an points to the word itself. The verse says jahalah, not jahl. Jahl, it explains, is the opposite of 'ilm, knowledge, a plain lack of understanding; jahalah is acting ignorantly, even when done knowingly. So forgiveness through repentance is not limited to sins done without understanding or intent.",
+            "bn": "সা'দী একই জায়গায় পৌঁছান অন্তরের দিক থেকে। যে মানুষ মন্দ কাজ করে এর পরিণাম তার উপর কী এনে দেবে সে সম্পর্কে অজ্ঞ থেকে, গুনাহটা ইচ্ছাকৃত হলেও, গুনাহ করার মুহূর্তে তার অন্তরের জ্ঞান কিছুটা কমে যাবেই। মাআরিফুল কুরআন নজর দেয় শব্দটার দিকে। আয়াতে আছে 'জাহালাহ', 'জাহল' নয়। জাহল হলো 'ইলম' বা জ্ঞানের বিপরীত, সোজা কথায় বুঝ না থাকা। আর জাহালাহ মানে অজ্ঞের মতো কাজ করা, জেনেশুনে করলেও। তাই তওবার মাধ্যমে মাগফিরাত শুধু না বুঝে বা অনিচ্ছায় করা গুনাহের জন্য সীমাবদ্ধ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Qatadah Said of the Companions",
+          "bn": "সাহাবিদের ব্যাপারে কাতাদার খবর"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi at 4:17, under the same phrase, gives the fullest set of readings. Everyone who disobeys his Lord, he writes, is ignorant until he pulls away from his disobedience. Then he relays from Qatadah that the Companions of the Prophet ﷺ were agreed that every sin is done in jahalah, deliberate or not, and adds that Ibn 'Abbas, Qatadah, ad-Dahhak, Mujahid and as-Suddi said the same. From ad-Dahhak and Mujahid he also reports a sharper form: jahalah here is deliberateness itself.",
+            "bn": "কুরতুবী ৪:১৭ আয়াতে একই শব্দের নিচে সবচেয়ে বেশি ব্যাখ্যা একসঙ্গে এনেছেন। তিনি লেখেন, যে তার রবের নাফরমানি করে, সে অজ্ঞ, যতক্ষণ না নাফরমানি থেকে সরে আসে। তারপর কাতাদা থেকে বর্ণনা করেন: নবী ﷺ-এর সাহাবিরা একমত ছিলেন যে প্রতিটি গুনাহই জাহালাহর মধ্যে ঘটে, ইচ্ছায় হোক বা অজান্তে। তিনি যোগ করেন, ইবন আব্বাস (রাঃ), কাতাদা, দাহহাক, মুজাহিদ ও সুদ্দীও একই কথা বলেছেন। দাহহাক ও মুজাহিদ থেকে তিনি আরও কড়া একটি রূপ আনেন: এখানে জাহালাহ মানে ইচ্ছাকৃত করাই।"
+          },
+          {
+            "en": "Three more lines follow in his text. 'Ikrimah said that all the affairs of this world are jahalah, by which al-Qurtubi understands those of them that fall outside obedience to Allah. Az-Zajjaj said the ignorance is their choosing the pleasure that passes over the pleasure that lasts. A third view, which Ibn Furak mentions, is that they do not know the true measure of the punishment; al-Qurtubi adds that Ibn 'Atiyyah judged this view weak and answered it.",
+            "bn": "তাঁর লেখায় এরপর আরও তিনটি কথা আছে। ইকরিমা বলেছেন, দুনিয়ার সব কাজকারবারই জাহালাহ। কুরতুবীর ব্যাখ্যায় এর মানে দুনিয়ার সেই কাজগুলো, যা আল্লাহর আনুগত্যের বাইরে পড়ে। যাজ্জাজ বলেছেন, অজ্ঞতা হলো টিকে থাকা স্বাদের বদলে ফুরিয়ে যাওয়া স্বাদকে বেছে নেওয়া। তৃতীয় মতটি উল্লেখ করেছেন ইবন ফূরাক: তারা শাস্তির আসল মাত্রা জানে না। কুরতুবী সঙ্গে বলেন, ইবন আতিয়্যা এ মতকে দুর্বল বলেছেন এবং খণ্ডন করেছেন।"
+          },
+          {
+            "en": "Al-Qurtubi also opens his comment on 4:17 by noting that the verse was read two ways. Some said it is general, covering everyone who commits a sin. Others said it is only for whoever acted in ignorance, and that repentance for every sinner is established in another place. He lists both under 'it was said'. Neither narrows repentance itself; they differ only on what this phrase names.",
+            "bn": "৪:১৭ আয়াতের আলোচনার শুরুতেই কুরতুবী জানান, আয়াতটি দুইভাবে পড়া হয়েছে। কেউ বলেছেন, এটি সাধারণ, যে-কেউ গুনাহ করে সবাইকে শামিল করে। আবার কেউ বলেছেন, এটি শুধু তার জন্য যে অজ্ঞতাবশত করেছে, আর প্রত্যেক গুনাহগারের তওবার কথা এসেছে অন্য জায়গায়। দুটি মতই তিনি আনেন 'বলা হয়েছে' দিয়ে। কোনোটিই তওবার পথ সরু করে না। মতভেদ শুধু এই শব্দটা কাকে বোঝায় তা নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Verbs After the Fall",
+          "bn": "পদস্খলনের পর দুটি ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "Thumma tabu min ba'di dhalika wa aslahu: then they repented after that and put right. Ibn Kathir explains the pair as giving up the acts of disobedience they had been in and turning to the doing of acts of obedience. At-Tabari's paraphrase is fuller. They came back to obeying Allah, to remorse over the disobedience, and to seeking forgiveness and repenting of it, after what had passed from them; and they put right, working at what Allah loves and is pleased with.",
+            "bn": "সুম্মা তাবূ মিন বা'দি যালিকা ওয়া আসলাহূ: তারপর তারা তওবা করেছে এবং শুধরে নিয়েছে। ইবন কাসীর জোড়াটির ব্যাখ্যা দেন এভাবে: যে নাফরমানিতে তারা ছিল তা ছেড়ে দেওয়া, আর আনুগত্যের কাজে মন দেওয়া। তাবারীর ভাষ্য আরও বিস্তারিত। যা ঘটে গেছে তার পর তারা ফিরে এসেছে আল্লাহর আনুগত্যে, সেই নাফরমানির জন্য অনুশোচনায়, ইস্তিগফার আর তওবায়। আর তারা শুধরে নিয়েছে, অর্থাৎ এমন আমল করেছে যা আল্লাহ ভালোবাসেন, যাতে তিনি রাজি হন।"
+          },
+          {
+            "en": "Al-Baghawi gives aslahu one sharp gloss: the meaning of putting right is steadfastness upon the repentance. Repentance, on that reading, is a road kept to, not a moment. Al-Muyassar has them return to Allah from the sins they were in and put right both their selves and their deeds. As-Sa'di has the penitent leave the sin, regret it and put right his deeds. Each commentator here gives the second verb its own work.",
+            "bn": "বাগাভী 'আসলাহূ'র একটিই ধারালো ব্যাখ্যা দেন: শুধরে নেওয়ার মানে তওবার উপর অটল থাকা। এ পাঠে তওবা শুধু একটা মুহূর্ত নয়, এমন এক পথ যার উপর টিকে থাকতে হয়। মুয়াসসারের ভাষ্যে তারা যে গুনাহে ছিল তা থেকে আল্লাহর দিকে ফিরে এসেছে, আর নিজেদের মন ও আমল দুটোই শুধরে নিয়েছে। সা'দীর ভাষ্যে তওবাকারী গুনাহ ছেড়ে দেয়, তার জন্য অনুতপ্ত হয়, আর নিজের আমল ঠিক করে নেয়। এখানে প্রত্যেক তাফসীরকারই দ্বিতীয় ক্রিয়াটিকে আলাদা কাজ দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Four Conditions Al-Qurtubi Names",
+          "bn": "কুরতুবীর বলা চার শর্ত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi, still at 4:17, names the conditions that make repentance sound. There are four: remorse in the heart; leaving the sin at once; resolving not to return to anything like it; and that all of this be out of shame before Allah, not before anyone else. If any one of them is missing, he says, the repentance is not sound. He adds that some have also counted among its conditions admitting the sin and asking forgiveness often.",
+            "bn": "কুরতুবী ৪:১৭ আয়াতেই বলে দেন কোন কোন শর্তে তওবা সহীহ হয়। শর্ত চারটি। অন্তরে অনুশোচনা। তখনই গুনাহ ছেড়ে দেওয়া। এমন কাজে আর না ফেরার দৃঢ় সংকল্প। আর এ সবকিছু হতে হবে আল্লাহর প্রতি লজ্জা থেকে, অন্য কারও কারণে নয়। তিনি বলেন, এর কোনো একটি শর্ত না থাকলে তওবা সহীহ হয় না। সঙ্গে জানান, কেউ কেউ গুনাহ স্বীকার করা আর বেশি বেশি ইস্তিগফার করাকেও এর শর্তের মধ্যে গুনেছেন।"
+          },
+          {
+            "en": "He also states that the community is agreed that repentance is obligatory on the believers, citing 24:31: turn to Allah all together, O believers. And he holds that repentance from one sin is valid even while a person remains in another sin of a different kind, against some theologians who said that whoever persists in any sin is no penitent at all. No act of disobedience differs from another in this, he says. A person need not be free of every fault before he may turn from one.",
+            "bn": "তিনি আরও বলেন, মুমিনদের উপর তওবা ফরজ, এ ব্যাপারে উম্মত একমত। দলিল হিসেবে আনেন ২৪:৩১: হে মুমিনগণ, তোমরা সবাই আল্লাহর কাছে তওবা করো। তাঁর মতে, ভিন্ন ধরনের আরেকটি গুনাহে লিপ্ত থেকেও একটি গুনাহ থেকে তওবা সহীহ। কিছু কালামশাস্ত্রবিদ বলেছিলেন, কোনো গুনাহে যে অটল থাকে সে তওবাকারীই নয়। কুরতুবী তাদের বিপরীতে এ মত রাখেন, আর বলেন, এ ব্যাপারে এক গুনাহ আর আরেক গুনাহের মধ্যে কোনো পার্থক্য নেই। একটা ভুল থেকে ফিরতে হলে আগে সব দোষ থেকে মুক্ত হতে হবে, এমন নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forgiving After the Slip",
+          "bn": "পদস্খলনের পরেও ক্ষমাশীল"
+        },
+        "p": [
+          {
+            "en": "Inna rabbaka min ba'diha la-ghafurun rahim: indeed your Lord, after it, is Forgiving, Merciful. The commentators fill that 'it' differently. For Ibn Kathir it is that deed and that slip. For al-Baghawi it is the jahalah. At-Tabari reads it as after their repentance, and addresses the Prophet in the paraphrase: your Lord, O Muhammad. Al-Muyassar says after their repentance and their putting right. The first two look back at the wrong; the last two look at the return.",
+            "bn": "ইন্না রাব্বাকা মিন বা'দিহা লাগাফূরুর রাহীম: নিশ্চয় আপনার রব এর পরে ক্ষমাশীল, দয়ালু। এই 'এর' কী, তাফসীরকারেরা তা ভিন্নভাবে পূরণ করেন। ইবন কাসীরের কাছে তা সেই কাজ আর সেই পদস্খলন। বাগাভীর কাছে সেই জাহালাহ। তাবারী পড়েন তাদের তওবার পরে, আর ব্যাখ্যায় নবীকে সম্বোধন করে বলেন: হে মুহাম্মদ, আপনার রব। মুয়াসসার বলে, তাদের তওবা ও সংশোধনের পরে। প্রথম দুজনের দৃষ্টি পেছনের অন্যায়ের দিকে, শেষ দুজনের দৃষ্টি ফিরে আসার দিকে।"
+          },
+          {
+            "en": "As-Sa'di describes what the forgiveness does. Allah forgives him, has mercy on him, accepts his repentance and returns him to his former state, or higher than it. On his reading the penitent is not let off with a lower rank for the rest of his life. He may be restored to where he stood before the sin, or lifted above it. As-Sa'di also calls the verse an urging of His servants to repentance and an invitation to turn back.",
+            "bn": "মাগফিরাত কী করে, সা'দী তা বলেন। আল্লাহ তাকে ক্ষমা করেন, তার উপর রহমত করেন, তার তওবা কবুল করেন, আর তাকে ফিরিয়ে দেন আগের অবস্থায়, কিংবা তার চেয়েও উঁচুতে। তাঁর ব্যাখ্যায় তওবাকারীকে সারা জীবন নিচু মর্যাদা নিয়ে ছেড়ে দেওয়া হয় না। গুনাহের আগে সে যেখানে ছিল, সেখানে তাকে ফিরিয়ে আনা হতে পারে, কিংবা তার উপরে তুলে দেওয়া হতে পারে। সা'দী আয়াতটিকে বলেন বান্দাদের তওবার প্রতি উৎসাহ, আর আল্লাহর দিকে ফেরার দাওয়াত।"
+          },
+          {
+            "en": "Is the acceptance certain? Al-Qurtubi at 4:17 says nothing is binding on Allah by reason; acceptance rests on His own true promise, as in 42:25, He it is who accepts repentance from His servants. He then records a difference. Abu al-Ma'ali and others held that, for a repentance meeting every condition, acceptance is strongly probable rather than certain. Others held it is certain, as Allah has told of Himself; Ibn 'Atiyyah says his father inclined to this view and that he holds it too.",
+            "bn": "কবুল হওয়া কি নিশ্চিত? কুরতুবী ৪:১৭ আয়াতে বলেন, যুক্তির দিক থেকে আল্লাহর উপর কিছুই বাধ্যতামূলক নয়। কবুল নির্ভর করে তাঁর নিজের সত্য ওয়াদার উপর, যেমন ৪২:২৫ আয়াতে আছে: তিনিই তাঁর বান্দাদের তওবা কবুল করেন। এরপর তিনি একটি মতভেদ তুলে ধরেন। আবুল মাআলী ও অন্যরা বলেছেন, সব শর্ত পূরণ করা তওবা কবুল হওয়ার প্রবল ধারণা করা যায়, তবে তা নিশ্চিত নয়। অন্যরা বলেছেন, তা নিশ্চিত, কারণ আল্লাহ নিজেই এ খবর দিয়েছেন। ইবন আতিয়্যা বলেন, তাঁর বাবা এ মতের দিকে ঝুঁকতেন, আর তিনি নিজেও এ মতই রাখেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports Around the Promise",
+          "bn": "প্রতিশ্রুতির চারপাশের বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it. At 4:17 al-Qurtubi relays from at-Tirmidhi a report about how long repentance stays open, which at-Tirmidhi himself grades hasan gharib; it is only mentioned here. As a general narration, not attached to this verse, al-Bukhari (6309) records from Anas ibn Malik that Allah's Messenger ﷺ said: 'Allah is more pleased with the repentance of His slave than anyone of you is pleased with finding his camel which he had lost in the desert.'",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। ৪:১৭ আয়াতে কুরতুবী তিরমিযী থেকে তওবার দরজা কতক্ষণ খোলা থাকে সে বিষয়ে একটি বর্ণনা আনেন। তিরমিযী নিজেই একে 'হাসান গারীব' বলেছেন, তাই এখানে শুধু উল্লেখ করা হলো, উদ্ধৃত করা হলো না। এ আয়াতের সঙ্গে যুক্ত নয়, এমন একটি সাধারণ বর্ণনা আছে বুখারীতে (৬৩০৯)। আনাস ইবন মালিক (রাঃ) বলেন, আল্লাহর রাসূল ﷺ বলেছেন: 'তোমাদের কেউ মরুভূমিতে হারিয়ে যাওয়া উট ফিরে পেলে যতটা খুশি হয়, আল্লাহ তাঁর বান্দার তওবায় তার চেয়েও বেশি খুশি হন।'"
+          },
+          {
+            "en": "Al-Qurtubi also relays there, through Salih al-Murri, a saying of al-Hasan: whoever reproaches his brother for a sin he has repented of to Allah, Allah tries him with it. It is al-Hasan's own word, not raised to the Prophet ﷺ, and it turns the verse outward. If your Lord, after the repentance, is Forgiving and Merciful, then whoever keeps another person's old sin alive on his tongue has taken up a judgement the verse does not leave to him.",
+            "bn": "কুরতুবী সেখানে সালিহ আল-মুররীর সূত্রে হাসানের একটি কথাও আনেন: যে তার ভাইকে এমন গুনাহের জন্য খোঁটা দেয়, যা থেকে সে আল্লাহর কাছে তওবা করেছে, আল্লাহ তাকে সেই গুনাহ দিয়েই পরীক্ষায় ফেলেন। কথাটা হাসানের নিজের, নবী ﷺ পর্যন্ত পৌঁছানো নয়। তবু এটি আয়াতের দৃষ্টি বাইরের দিকে ঘুরিয়ে দেয়। তওবার পর আপনার রব যদি ক্ষমাশীল ও দয়ালু হন, তাহলে যে অন্যের পুরোনো গুনাহ মুখে মুখে জিইয়ে রাখে, সে এমন বিচারের ভার হাতে তুলে নিয়েছে যা আয়াত তাকে দেয়নি।"
+          },
+          {
+            "en": "The verse sits between a passage on food and the praise of Ibrahim (AS) that begins at 16:120. Between them it lays out one plain way back for whoever has gone wrong, a believer who slipped or, on Ibn 'Abbas's gloss as al-Qurtubi relays it, even one who associated partners with Allah. Turn, put right, and find your Lord, after it, Forgiving and Merciful. The verse does not ask how great the evil was. It asks what came after it.",
+            "bn": "আয়াতটির অবস্থান খাবারের আলোচনা আর ১৬:১২০ থেকে শুরু হওয়া ইবরাহীম (আঃ)-এর প্রশংসার মাঝখানে। এ দুইয়ের মাঝে আয়াত অন্যায়ে জড়ানো যে-কারও জন্য ফেরার একটি সোজা পথ দেখায়। সে হতে পারে পা পিছলে পড়া কোনো মুমিন, কিংবা কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা অনুযায়ী এমনকি আল্লাহর সঙ্গে শরিককারীও। ফিরে আসুন, শুধরে নিন, আর দেখবেন এরপর আপনার রব ক্ষমাশীল, দয়ালু। আয়াত জানতে চায় না অন্যায়টা কত বড় ছিল। জানতে চায়, তার পরে কী এসেছে।"
+          }
+        ]
+      }
+    ]
+  },
   "16:120": {
     "sections": [
       {

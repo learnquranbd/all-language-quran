@@ -33643,6 +33643,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Answer the safety and provision you have with thanks to Allah, for the same favours, met with denial, can be turned into their opposites.",
     "lessonBn": "যে নিরাপত্তা আর রিযক আপনার আছে, তার জবাব দিন আল্লাহর শুকরিয়া দিয়ে। অস্বীকারের জবাব পেলে এই নিয়ামতই উল্টে গিয়ে বিপরীত রূপ নিতে পারে।"
+  },
+  "16:119": {
+    "reflectionEn": "The passage before this verse is about food: what Allah made lawful, what people declared forbidden on their own tongues, what was barred to an earlier people for their wrong. Then comes thumma, and the verse turns to anyone who has done evil. It calls the evil jahalah, ignorance, yet the word is wider than not knowing a rule. A person can know an act is forbidden and still choose it, and in that moment he has lost sight of what it costs him and Whom it displeases. The way back has two steps: turn, then put right. After that, the verse says, your Lord is Forgiving and Merciful. Which of my wrongs have I excused as ignorance, and which have I never truly turned from?",
+    "reflectionBn": "এ আয়াতের আগের অংশটা খাবার নিয়ে। আল্লাহ কী হালাল করেছেন, মানুষ নিজের মুখে কী হারাম বানিয়েছে, আর আগের এক জাতির উপর তাদের যুলমের কারণে কী নিষিদ্ধ হয়েছিল। তারপর আসে 'সুম্মা', আর কথা ঘুরে যায় সেই মানুষের দিকে যে মন্দ কাজ করে ফেলেছে। আয়াত এ কাজকে বলছে 'জাহালাহ', অজ্ঞতা। কিন্তু শব্দটা কেবল বিধান না জানার চেয়ে অনেক চওড়া। মানুষ জানে কাজটা হারাম, তবু বেছে নেয়। সেই মুহূর্তে তার চোখ থেকে সরে যায় এর দাম কত, আর কাকে সে নারাজ করছে। ফেরার পথ দুই ধাপের: ফিরে আসা, তারপর শুধরে নেওয়া। এরপর, আয়াত বলছে, আপনার রব ক্ষমাশীল, দয়ালু। আমার কোন ভুলকে আমি অজ্ঞতার দোহাই দিয়ে পার করে দিয়েছি? আর কোনটা থেকে সত্যিই কখনো ফিরে আসিনি?",
+    "pointsEn": [
+      "Which wrong am I still doing while telling myself I will repent from it later?",
+      "The last time I did something I knew was forbidden, what had I stopped thinking about in that moment?",
+      "After my last repentance, what did I actually put right: a habit, a debt, a broken tie?",
+      "Do I keep holding against someone a sin they have already turned from?",
+      "What would putting right look like, this week, for the fault that weighs on me most?"
+    ],
+    "pointsBn": [
+      "কোন ভুলটা আমি এখনো করে যাচ্ছি আর নিজেকে বোঝাচ্ছি যে পরে তওবা করে নেব?",
+      "শেষবার জেনেশুনে হারাম কিছু করার সময় কোন কথাটা আমার মাথা থেকে সরে গিয়েছিল?",
+      "শেষ তওবার পর আমি আসলে কী শুধরেছি: কোনো অভ্যাস, কোনো দেনা, নাকি ভেঙে যাওয়া কোনো সম্পর্ক?",
+      "কেউ যে গুনাহ থেকে ফিরে এসেছে, সেটা কি আমি এখনো তার বিরুদ্ধে মনে পুষে রাখি?",
+      "যে দোষটা আমাকে সবচেয়ে বেশি পীড়া দেয়, এ সপ্তাহে সেটা শুধরে নেওয়ার চেহারা কেমন হবে?"
+    ],
+    "lessonEn": "Every sin is a lapse in sight, even when you knew the rule: turn back from it, put right what it damaged, and trust your Lord to forgive after it.",
+    "lessonBn": "নিয়ম জেনেও করা প্রতিটি গুনাহ আসলে দৃষ্টির ভুল। তা থেকে ফিরে আসুন, যা নষ্ট হয়েছে তা শুধরে নিন, আর ভরসা রাখুন যে এরপর আপনার রব ক্ষমা করবেন।"
   }
 };
 
