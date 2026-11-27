@@ -37873,6 +37873,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah's long respite is a door held open for return, not a sign of approval; turn back while it is open, and never read His patience as permission.",
     "lessonBn": "আল্লাহর দীর্ঘ অবকাশ ফিরে আসার জন্য খোলা রাখা দরজা, সম্মতির চিহ্ন নয়। দরজা খোলা থাকতেই ফিরে আসুন, আর তাঁর ধৈর্যকে কখনো ছাড়পত্র ভাববেন না।"
+  },
+  "43:87": {
+    "reflectionEn": "Ask them who made them, and they will not hesitate: Allah. This time the question is not about the sky or the earth. It is about the very people answering it. Their answer is right, and the verse is sure of it before anyone asks. Then comes the question their answer cannot settle: so how are they turned away? They knew who had brought them into being, yet their worship went to others who had made nothing and could speak for no one. What they lacked was not the fact. It was the turn that should have followed it. I give the same answer every day. When I need something, where does my hope go first, and where does my fear go?",
+    "reflectionBn": "তাদের জিজ্ঞেস করুন, কে তাদের সৃষ্টি করেছে। এক মুহূর্তও না ভেবে তারা বলবে, আল্লাহ। এবারের প্রশ্ন আকাশ বা পৃথিবী নিয়ে নয়, যারা উত্তর দিচ্ছে তাদের নিজেদের নিয়ে। উত্তরটা ঠিক, আর আয়াত প্রশ্ন করার আগেই সে উত্তরের ব্যাপারে নিশ্চিত। তারপর আসে এমন এক প্রশ্ন, যার মীমাংসা ওই উত্তর দিয়ে হয় না: তবে কোথায় তাদের ফিরিয়ে নেওয়া হচ্ছে? কে তাদের অস্তিত্বে এনেছেন, তা তারা জানত। তবু তাদের ইবাদত গেল এমন সব সত্তার কাছে, যারা কিছুই সৃষ্টি করেনি, কারও জন্য সুপারিশও করতে পারে না। তাদের ঘাটতি তথ্যে ছিল না। ঘাটতি ছিল সেই ফেরায়, যা তথ্যটার পরেই আসার কথা। এই একই উত্তর আমিও রোজ দিই। কিছু দরকার পড়লে আমার আশা সবার আগে কার দিকে ছোটে, আর আমার ভয় কার দিকে?",
+    "pointsEn": [
+      "If someone asked me today who created me, I would answer at once; what in my week would show that I believe my own answer?",
+      "When I am in need, whose name or whose help comes to mind before His?",
+      "What am I quietly hoping will speak for me or rescue me, though it has no power of its own?",
+      "Which truth about Allah do I affirm in words but leave out of my decisions?",
+      "When I notice someone's words and worship pulling apart, do I rush to judge them, or first check the same gap in myself?"
+    ],
+    "pointsBn": [
+      "আজ কেউ যদি জিজ্ঞেস করে কে আমাকে সৃষ্টি করেছেন, আমি সঙ্গে সঙ্গে উত্তর দেব। কিন্তু আমার এ সপ্তাহের কোন কাজ দেখে বোঝা যাবে যে নিজের উত্তরে আমি বিশ্বাস রাখি?",
+      "বিপদে পড়লে কার নাম বা কার সাহায্যের কথা আমার মনে তাঁর আগে আসে?",
+      "চুপিচুপি আমি কিসের উপর ভরসা করে আছি যে সে আমার হয়ে কথা বলবে বা আমাকে বাঁচাবে, অথচ তার নিজেরই কোনো ক্ষমতা নেই?",
+      "আল্লাহ সম্পর্কে কোন সত্যটা আমি মুখে স্বীকার করি, অথচ সিদ্ধান্ত নেওয়ার সময় বাদ দিয়ে যাই?",
+      "কারও কথা আর ইবাদতের মধ্যে ফারাক চোখে পড়লে আমি কি তাড়াহুড়ো করে তার বিচারে বসি, নাকি আগে নিজের ভেতরে একই ফারাক খুঁজে দেখি?"
+    ],
+    "lessonEn": "You already know who created you; let that knowledge decide where your worship, hope and reliance go, and let nothing turn you away from Him.",
+    "lessonBn": "কে আপনাকে সৃষ্টি করেছেন, তা আপনি জানেন। সেই জানাই ঠিক করে দিক আপনার ইবাদত, আশা আর ভরসা কোথায় যাবে, আর কোনো কিছুই যেন আপনাকে তাঁর থেকে ফিরিয়ে নিতে না পারে।"
   }
 };
 

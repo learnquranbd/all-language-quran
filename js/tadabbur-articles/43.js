@@ -4250,5 +4250,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "43:87": {
+    "sections": [
+      {
+        "h": {
+          "en": "From the Invoked to the Invokers",
+          "bn": "যাদের ডাকা হয়, থেকে যারা ডাকে"
+        },
+        "p": [
+          {
+            "en": "The verse before this one closes a door. Those whom the associators call on besides Allah, says 43:86, own no power of intercession, except whoever bears witness to the truth knowingly. Then this verse turns from the ones invoked to the ones invoking them, and puts a question to them: wa-la-in sa'altahum man khalaqahum, and if you asked them who created them. Their answer is given before they speak it, la-yaqulunna Allah, they will surely say Allah. And the verse ends on a question of its own: fa-anna yu'fakun, so how are they turned away?",
+            "bn": "আগের আয়াতটি একটা দরজা বন্ধ করে দেয়। ৪৩:৮৬ বলছে, আল্লাহকে বাদ দিয়ে মুশরিকরা যাদের ডাকে, সুপারিশের কোনো ক্ষমতা তাদের নেই। ব্যতিক্রম কেবল সে, যে জেনে-বুঝে সত্যের সাক্ষ্য দেয়। এরপর এ আয়াত নজর ফেরায় যাদের ডাকা হয় তাদের থেকে যারা ডাকে তাদের দিকে, আর তাদের সামনে একটা প্রশ্ন রাখে: ওয়া লাইন সাআলতাহুম মান খালাকাহুম, তুমি যদি তাদের জিজ্ঞেস কর কে তাদের সৃষ্টি করেছে। তারা মুখ খোলার আগেই উত্তরটা বলে দেওয়া হয়েছে: লা ইয়াকূলুন্নাল্লাহ, তারা অবশ্যই বলবে, আল্লাহ। আর আয়াত শেষ হয় নিজস্ব এক প্রশ্নে: ফাআন্না ইউ'ফাকূন, তবে কোথায় তাদের ফিরিয়ে নেওয়া হচ্ছে?"
+          },
+          {
+            "en": "Al-Qurtubi ties the two verses together in his gloss. How, he asks, do they turn from His worship and turn aside, until they have associated others with Him, hoping for their intercession? The word he uses, shafa'a, is the word of 43:86. Read this way, the sequence is tight. The verse before says that the ones invoked own no intercession, and this verse shows that the people invoking them had already named their Creator. The hope was placed in the wrong hands by people whose own answer already pointed to Him.",
+            "bn": "কুরতুবী তাঁর ব্যাখ্যায় দুটি আয়াতকে এক সুতোয় গেঁথে দেন। তাঁর প্রশ্ন: তারা কীভাবে তাঁর ইবাদত থেকে উল্টে যায়, মুখ ফিরিয়ে নেয়, শেষে অন্যদের তাঁর শরিক বানায় এই আশায় যে ওরা তাদের জন্য সুপারিশ করবে? তিনি যে শব্দটা ব্যবহার করেন, শাফাআত, সেটা ৪৩:৮৬-এরই শব্দ। এভাবে পড়লে আয়াত দুটির যোগসূত্র খুব ঘন। আগের আয়াত বলছে, যাদের ডাকা হয় তাদের হাতে সুপারিশ নেই। আর এ আয়াত দেখায়, যারা ডাকছে তারা নিজেরাই স্রষ্টার নাম আগে বলে রেখেছে। আশা গিয়ে পড়েছিল ভুল হাতে, অথচ তাদের নিজেদের উত্তরই দেখিয়ে দিচ্ছিল সঠিক জনকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked About Their Own Making",
+          "bn": "নিজেদের সৃষ্টি নিয়েই প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The same opening appears earlier in this surah. In 43:9 the question is who created the heavens and the earth, and the reply is given in full: the Mighty, the Knowing created them. In 29:61 the question again concerns the heavens and the earth, with the sun and moon made subject, and in 31:25 the heavens and the earth alone. Here the object has changed. The question is man khalaqahum, who created them, and the thing being asked about is the person answering. The reply also shrinks to a single name.",
+            "bn": "এই সূরায় একই রকম শুরু আগেও এসেছে। ৪৩:৯ আয়াতে প্রশ্ন ছিল, আকাশমণ্ডলী ও পৃথিবী কে সৃষ্টি করেছেন, আর উত্তর এসেছিল পুরো বাক্যে: এগুলো সৃষ্টি করেছেন মহাপরাক্রমশালী, সর্বজ্ঞ। ২৯:৬১ আয়াতেও প্রশ্ন আকাশ আর পৃথিবী নিয়ে, সঙ্গে সূর্য ও চাঁদকে নিয়ন্ত্রণে রাখার কথা। ৩১:২৫ আয়াতে শুধু আকাশ আর পৃথিবী। এখানে প্রশ্নের বিষয় বদলে গেছে। প্রশ্নটা মান খালাকাহুম, কে তাদের সৃষ্টি করেছে। অর্থাৎ যাকে নিয়ে প্রশ্ন, সে নিজেই উত্তরদাতা। উত্তরও ছোট হয়ে এসেছে একটিমাত্র নামে।"
+          },
+          {
+            "en": "The commentators fill out that name in the first person. At-Tabari has them say, Allah created us, and the Muyassar gives the same words. Al-Qurtubi adds what the admission contains: they would acknowledge that Allah created them after they had been nothing at all. Ibn Kathir widens it: they confess that He is the Creator of all things, alone, with no partner in that. On every one of these readings the answer costs the speaker nothing to give. It is simply what they already hold to be true about their own beginning.",
+            "bn": "তাফসীরকারেরা ওই একটি নামকে খুলে বলেন উত্তরদাতার নিজের জবানিতে। তাবারীর ভাষায় তারা বলবে, আল্লাহ আমাদের সৃষ্টি করেছেন। মুয়াসসারেও হুবহু একই কথা। কুরতুবী জানান, এই স্বীকারোক্তির ভেতরে কী আছে: তারা মেনে নেবে যে তারা কিছুই ছিল না, তারপর আল্লাহ তাদের সৃষ্টি করেছেন। ইবন কাসীর পরিসরটা বাড়িয়ে দেন: তারা স্বীকার করে যে তিনিই সবকিছুর একক স্রষ্টা, এতে তাঁর কোনো শরিক নেই। এর কোনো ব্যাখ্যাতেই উত্তরটা দিতে তাদের কষ্ট হয় না। নিজেদের শুরু নিয়ে যা তারা আগে থেকেই সত্য বলে মানে, এ শুধু সেটুকুই।"
+          },
+          {
+            "en": "The parallels do not all close the same way. 29:61 ends with the same two words as this verse, fa-anna yu'fakun. 29:63 and 31:25 instead tell the Prophet ﷺ to say, praise belongs to Allah, and then note what most of them fail to grasp. The articles on those two verses follow the argument from that admission at length, and it is not retold here. What this verse adds is narrower and closer to home: instead of the sky, the question is about the one who answers.",
+            "bn": "এই সমান্তরাল আয়াতগুলোর সমাপ্তি সব এক রকম নয়। ২৯:৬১ শেষ হয়েছে এ আয়াতের মতো একই দুটি শব্দে, ফাআন্না ইউ'ফাকূন। আর ২৯:৬৩ ও ৩১:২৫ আয়াতে নবী ﷺ-কে বলতে বলা হয়েছে, সব প্রশংসা আল্লাহর। তারপর জানানো হয়েছে, তাদের বেশির ভাগ কী বুঝতে পারে না। ওই স্বীকারোক্তি থেকে যে যুক্তি দাঁড়ায়, সে দুটি আয়াতের প্রবন্ধে তা বিস্তারিত এসেছে, তাই এখানে আর দোহরানো হলো না। এ আয়াত যা যোগ করে তা আরও সরু, আরও কাছের: প্রশ্নটা আকাশ নিয়ে নয়, যে উত্তর দিচ্ছে তাকে নিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is Being Asked",
+          "bn": "প্রশ্নটা কাকে করা হচ্ছে"
+        },
+        "p": [
+          {
+            "en": "Most of the commentaries fetched for this verse read them as the associators. At-Tabari makes the address explicit: and if you asked, O Muhammad, these associators from your people. The Muyassar has the same, addressed to the Messenger. Ibn Kathir describes them as those who associate partners with Allah and worship others alongside Him, and as-Sa'di calls them simply the associators. Al-Qurtubi opens with this reading too. On it, the question goes to the worshippers, and their own reply is turned into the case against their worship.",
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা তাফসীরগুলোর বেশির ভাগ 'তাদের' বলতে বোঝে মুশরিকদের। তাবারী সম্বোধনটা স্পষ্ট করে দেন: হে মুহাম্মাদ, তোমার কওমের এই মুশরিকদের যদি তুমি জিজ্ঞেস কর। মুয়াসসারেও একই কথা, রাসূলকে সম্বোধন করে। ইবন কাসীরের বর্ণনায় তারা সেই লোক, যারা আল্লাহর সঙ্গে শরিক করে আর তাঁর পাশাপাশি অন্যদের ইবাদত করে। সা'দী তাদের সোজাসুজি মুশরিক বলেন। কুরতুবীও শুরু করেন এই ব্যাখ্যা দিয়ে। এ পাঠে প্রশ্ন যায় উপাসকদের কাছে, আর তাদের নিজেদের উত্তরই হয়ে দাঁড়ায় তাদের ইবাদতের বিরুদ্ধে প্রমাণ।"
+          },
+          {
+            "en": "Then al-Qurtubi records a second reading under the words wa-qila, it has been said. On this reading the question is put to the angels and to 'Isa (AS): if you asked them who created them, they would say Allah. And fa-anna yu'fakun then means, how are these people turned away, in claiming them as gods? The ones worshipped would themselves name their Creator, so those who worship them are left with no ground. Al-Qurtubi names no one for this view and does not weigh it against the first.",
+            "bn": "এরপর কুরতুবী 'ওয়া কীলা', অর্থাৎ 'বলা হয়েছে' কথাটি দিয়ে দ্বিতীয় এক ব্যাখ্যা উল্লেখ করেন। এ ব্যাখ্যায় প্রশ্নটা করা হচ্ছে ফেরেশতাদের আর ঈসা (আঃ)-কে: তুমি যদি তাদের জিজ্ঞেস কর কে তাদের সৃষ্টি করেছে, তারা বলবে, আল্লাহ। তখন ফাআন্না ইউ'ফাকূন-এর অর্থ দাঁড়ায়: এরা তাদের ইলাহ দাবি করে কোথায় ফিরে যাচ্ছে? যাদের ইবাদত করা হয়, তারা নিজেরাই নিজেদের স্রষ্টার নাম বলবে। তাহলে যারা তাদের ইবাদত করে, তাদের পায়ের নিচে আর কোনো মাটি থাকে না। এই মত কার, কুরতুবী তা বলেননি, আর প্রথম মতের সঙ্গে এর তুলনাও করেননি।"
+          },
+          {
+            "en": "The surah gives the second reading something to stand on, though al-Qurtubi does not draw the link himself. In 43:19 the angels are called servants of the Most Merciful, and in 43:59 the son of Maryam is called nothing but a servant on whom Allah bestowed favour. Both readings are reported here as he gives them, side by side. Either way, the verse rests on an answer about who creates, and that answer ought to settle the question of who is worshipped.",
+            "bn": "দ্বিতীয় ব্যাখ্যাটির পক্ষে সূরার ভেতরেই কিছু ভিত্তি আছে, যদিও কুরতুবী নিজে এই যোগসূত্র টানেননি। ৪৩:১৯ আয়াতে ফেরেশতাদের বলা হয়েছে দয়াময়ের বান্দা। আর ৪৩:৫৯ আয়াতে মারইয়ামের পুত্র সম্পর্কে বলা হয়েছে, তিনি একজন বান্দা ছাড়া আর কিছু নন, যাঁর উপর আল্লাহ অনুগ্রহ করেছেন। দুটি ব্যাখ্যাই এখানে তিনি যেভাবে দিয়েছেন সেভাবে পাশাপাশি রাখা হলো। যেভাবেই পড়া হোক, আয়াতের ভিত্তি একটাই উত্তর: সৃষ্টি কে করেন। আর সেই উত্তরেই মীমাংসা হয়ে যাওয়ার কথা, ইবাদত পাবেন কে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Verb of Overturning",
+          "bn": "উল্টে দেওয়ার ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "Yu'fakun comes from the root a-f-k. Al-Qurtubi gives its sense in one line: afakahu ya'fikuhu afkan means he overturned him and turned him away from a thing. As a witness he cites 46:22, where a people answer the prophet who warned them: have you come li-ta'fikana 'an alihatina, to turn us away from our gods? The same verb sits in both verses, but the direction is reversed. There they feared being turned from their gods. Here they have been turned from the worship of the One they name as their Creator.",
+            "bn": "ইউ'ফাকূন এসেছে আ-ফ-ক ধাতু থেকে। কুরতুবী এক লাইনে এর অর্থ বলে দেন: আফাকাহূ ইয়া'ফিকুহূ আফকান মানে তাকে উল্টে দিল, কোনো কিছু থেকে ঘুরিয়ে দিল। প্রমাণ হিসেবে তিনি আনেন ৪৬:২২ আয়াত। সেখানে এক জাতি তাদের সতর্ককারী নবীকে জবাব দিচ্ছে: তুমি কি এসেছ লিতা'ফিকানা আন আলিহাতিনা, আমাদের উপাস্যদের থেকে আমাদের ফিরিয়ে নিতে? দুই আয়াতে একই ক্রিয়া, কিন্তু দিক উল্টো। সেখানে তাদের ভয় ছিল উপাস্যদের থেকে ফিরে যাওয়ার। আর এখানে তারা ফিরে গেছে তাঁরই ইবাদত থেকে, যাঁকে তারা নিজেদের স্রষ্টা বলে মানে।"
+          },
+          {
+            "en": "The commentators read the little word anna in two shades. At-Tabari renders it fa-ayy wajh, by which way, or in which direction: by which way are they turned from the worship of Him who created them? And he adds a second clause: and they are deprived of reaching the truth in His worship. Al-Qurtubi and the Muyassar read anna as kayfa, how: how do they turn about and turn away from His worship, and associate others with Him? Al-Baghawi says only this: they are turned away from His worship.",
+            "bn": "ছোট্ট শব্দ আন্না-কে তাফসীরকারেরা পড়েন দুই রঙে। তাবারী এর অর্থ করেন ফাআইয়্যি ওয়াজহ, অর্থাৎ কোন পথে, কোন দিকে: যিনি তাদের সৃষ্টি করেছেন, তাঁর ইবাদত থেকে কোন পথে তাদের ঘুরিয়ে নেওয়া হচ্ছে? সঙ্গে তিনি আরেকটি কথা জুড়ে দেন: তাঁর ইবাদতে সত্যে পৌঁছানো থেকে তারা বঞ্চিত হচ্ছে। কুরতুবী আর মুয়াসসার আন্না-কে পড়েন কাইফা অর্থে, মানে কীভাবে: কীভাবে তারা উল্টে যায়, তাঁর ইবাদত থেকে মুখ ফেরায়, আর অন্যকে তাঁর শরিক বানায়? বাগাভী শুধু এটুকু বলেন: তাদের তাঁর ইবাদত থেকে ফিরিয়ে নেওয়া হয়।"
+          },
+          {
+            "en": "The verb is passive, and the verse does not name who turns them. None of the commentaries fetched here names one either; they speak only of what the people are turned from, and those that gloss it agree: the worship of Allah. As-Sa'di adds sincerity to Him alone. The same two words, anna yu'fakun, also close 5:75, after the son of Maryam and his mother are described as eating food. In both places the question is the same: the evidence is plain, and still they turn.",
+            "bn": "ক্রিয়াটি কর্মবাচ্যে, আর কে তাদের ফিরিয়ে নিচ্ছে, আয়াত তা বলে না। এখানে সংগ্রহ করা কোনো তাফসীরও তা বলে না। তারা শুধু বলে, কিসের থেকে মানুষগুলো ফিরে যাচ্ছে। আর যাঁরা এর ব্যাখ্যা দিয়েছেন, সবার উত্তর এক: আল্লাহর ইবাদত। সা'দী এর সঙ্গে যোগ করেন একমাত্র তাঁর জন্য ইখলাস। একই দুটি শব্দ, আন্না ইউ'ফাকূন, ৫:৭৫ আয়াতের শেষেও এসেছে। সেখানে মারইয়ামের পুত্র আর তাঁর মায়ের কথা বলা হয়েছে, যাঁরা খাবার খেতেন। দুই জায়গাতেই প্রশ্নের সুর এক: প্রমাণ স্পষ্ট, তবু তারা ফিরে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Owning Nothing, Able for Nothing",
+          "bn": "যার মালিকানা নেই, সামর্থ্যও নেই"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets the two halves of their position next to each other. They acknowledge that He is the Creator of all things, alone, with no partner in that. And with this, he says, they worship alongside Him others who own nothing and are able to do nothing. His phrase for the false gods, man la yamliku shay'an, those who own nothing, uses the same root as the verse before, wa-la yamliku, they do not own intercession. The two verses describe the same emptiness from either side.",
+            "bn": "ইবন কাসীর তাদের অবস্থানের দুই অংশ পাশাপাশি রেখে দেখান। তারা মানে যে তিনিই সবকিছুর স্রষ্টা, একা, এতে তাঁর কোনো শরিক নেই। আবার এর পরও, তিনি বলেন, তাঁর পাশাপাশি তারা এমন সব সত্তার ইবাদত করে, যারা কোনো কিছুর মালিক নয়, কোনো কিছুর সামর্থ্যও রাখে না। মিথ্যা উপাস্যদের সম্পর্কে তাঁর বাক্যাংশ, মান লা ইয়ামলিকু শাইআন, যারা কিছুরই মালিক নয়। এর ধাতু আর আগের আয়াতের ওয়া লা ইয়ামলিকু, সুপারিশের মালিক নয়, একই। দুই আয়াত একই শূন্যতাকে দেখায় দুই দিক থেকে।"
+          },
+          {
+            "en": "Then he gives his verdict without softening it. In this, he writes, they are at the very limit of ignorance, of folly and of feebleness of mind, and for that reason Allah said, fa-anna yu'fakun. For Ibn Kathir the closing question is the verse's own judgement on the gap between their answer and their worship. He needs nothing outside the verse to reach it. The people's reply and their practice, set next to each other, are enough.",
+            "bn": "এরপর তিনি কোনো রাখঢাক ছাড়াই রায় দেন। এ ব্যাপারে, তিনি লেখেন, তারা অজ্ঞতা, নির্বুদ্ধিতা আর বুদ্ধির দুর্বলতার একেবারে শেষ সীমায়। আর এ কারণেই আল্লাহ বলেছেন, ফাআন্না ইউ'ফাকূন। ইবন কাসীরের কাছে শেষের প্রশ্নটাই আয়াতের নিজস্ব রায়, তাদের উত্তর আর তাদের ইবাদতের মধ্যকার ফারাকের উপর। সে রায়ে পৌঁছাতে আয়াতের বাইরের কিছু তাঁর লাগে না। মানুষগুলোর উত্তর আর তাদের আমল পাশাপাশি রাখলেই যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Admission That Binds",
+          "bn": "যে স্বীকারোক্তি দায় চাপায়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di names the subject of the question precisely. If you asked the associators about tawhid ar-rububiyya, the oneness of Allah as Lord, and about who the Creator is, they would affirm that it is Allah alone, with no partner. Then he turns the verse's question into an exclamation: so how are they turned away from the worship of Allah and from sincerity to Him alone! The first half of the verse concerns who creates. The second half, on his reading, concerns who is worshipped.",
+            "bn": "প্রশ্নের বিষয়টা সা'দী নির্দিষ্ট করে বলেন। মুশরিকদের যদি তাওহীদুর রুবূবিয়্যাহ, অর্থাৎ রব হিসেবে আল্লাহর একত্ব সম্পর্কে জিজ্ঞেস করা হয়, স্রষ্টা কে তা জানতে চাওয়া হয়, তারা স্বীকার করবে যে তিনি আল্লাহ, একা, তাঁর কোনো শরিক নেই। তারপর তিনি আয়াতের প্রশ্নটাকে বিস্ময়ে রূপ দেন: তবে আল্লাহর ইবাদত আর একমাত্র তাঁর প্রতি ইখলাস থেকে কীভাবে তাদের ফিরিয়ে নেওয়া হয়! তাঁর পাঠে আয়াতের প্রথম অর্ধেক সৃষ্টি নিয়ে, কে সৃষ্টি করেন। আর দ্বিতীয় অর্ধেক ইবাদত নিয়ে, ইবাদত পাবেন কে।"
+          },
+          {
+            "en": "His closing sentence makes the link a binding one. Their affirmation of tawhid ar-rububiyya, he writes, obliges them to affirm tawhid al-uluhiyya, His oneness as the One worshipped, and this is among the greatest proofs that shirk is false. The proof asks the listener to accept no premise he does not already hold. It takes his own answer and asks him to follow it one step. The articles on 29:63 and 31:25 trace this argument further, with the commentators' wording for each verse.",
+            "bn": "তাঁর শেষ বাক্যটি যোগসূত্রটাকে বাধ্যতামূলক করে দেয়। তাঁর ভাষায়, তাওহীদুর রুবূবিয়্যাহর স্বীকৃতি তাদের উপর তাওহীদুল উলূহিয়্যাহর স্বীকৃতিও অনিবার্য করে, অর্থাৎ ইবাদত পাওয়ার ক্ষেত্রেও তিনি এক। আর এটি শিরক বাতিল হওয়ার সবচেয়ে বড় প্রমাণগুলোর একটি। এ প্রমাণ শ্রোতার উপর নতুন কোনো কথা চাপায় না, যা সে আগে থেকে মানে না। তার নিজের উত্তরটাই হাতে নিয়ে শুধু এক ধাপ এগোতে বলে। ২৯:৬৩ ও ৩১:২৫ আয়াতের প্রবন্ধে এ যুক্তি আরও বিস্তারে এসেছে, প্রতিটি আয়াতের জন্য তাফসীরকারদের নিজস্ব ভাষায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Complaint Comes Next",
+          "bn": "এরপর আসে এক অভিযোগ"
+        },
+        "p": [
+          {
+            "en": "The next verse changes voice. Wa-qilihi ya rabbi: and his saying, O my Lord, these are a people who do not believe. Ibn Kathir, in the abridged English rendering of his work, takes the speaker to be Muhammad ﷺ complaining to his Lord about his people, and gives this as the view of Ibn Mas'ud, Mujahid and Qatadah. That verse has its own place in this collection. Here it is enough to see the order: the people are asked, they answer correctly, they turn away anyway, and then the Messenger ﷺ brings it to his Lord.",
+            "bn": "এর পরের আয়াতে কণ্ঠ বদলে যায়। ওয়া কীলিহী ইয়া রাব্বি: আর তাঁর কথা, হে আমার রব, এরা এমন এক জাতি যারা ঈমান আনে না। ইবন কাসীরের তাফসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে বলা হয়েছে, এ কথা মুহাম্মাদ ﷺ-এর, তিনি তাঁর কওমের ব্যাপারে রবের কাছে অভিযোগ করছেন। এ মত ইবন মাসঊদ (রাঃ), মুজাহিদ ও কাতাদার বলে সেখানে উল্লেখ আছে। সে আয়াতের আলোচনা তার নিজের জায়গায় হবে। এখানে শুধু ক্রমটা খেয়াল করার মতো: মানুষগুলোকে প্রশ্ন করা হয়, তারা ঠিক উত্তর দেয়, তবু মুখ ফিরিয়ে নেয়, আর তারপর রাসূল ﷺ বিষয়টি নিয়ে যান তাঁর রবের কাছে।"
+          },
+          {
+            "en": "It is worth saying what the sources here do not add. None of the commentaries fetched for this verse attaches a hadith to it or reports an occasion of its revelation, so no narration is quoted in this article. Ma'arif al-Qur'an treats this passage together, but its comment discusses only 43:81 and says nothing about this verse. What the verse offers is its own wording and the commentators' readings of it, and that is what the article has kept to.",
+            "bn": "এখানকার উৎসগুলো কী যোগ করে না, সেটাও বলা দরকার। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস জুড়ে দেয়নি, নাযিলের কোনো প্রেক্ষাপটও বর্ণনা করেনি। তাই এ প্রবন্ধে কোনো বর্ণনা উদ্ধৃত হয়নি। মাআরিফুল কুরআন এই অংশটিকে একসঙ্গে আলোচনা করেছে, কিন্তু তার মন্তব্য কেবল ৪৩:৮১ আয়াত নিয়ে, এ আয়াত সম্পর্কে কিছু বলে না। আয়াত নিজে যা দেয় তা হলো তার শব্দ আর সেগুলোর উপর তাফসীরকারদের ব্যাখ্যা। প্রবন্ধটি সেটুকুর মধ্যেই থেকেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Answer on My Tongue",
+          "bn": "একই উত্তর আমার মুখেও"
+        },
+        "p": [
+          {
+            "en": "A plain word first. The verse describes what it describes: associators among the Prophet's people, in his time, who named Allah as their Creator and worshipped others beside Him. It licenses nothing against any living person or community. It gives no one the right to point at a neighbour and call him one of them, and it is not a tool for sorting the people around us. The judgement in fa-anna yu'fakun is Allah's question about the people the verse describes, and the judgement stays His.",
+            "bn": "আগে একটা সোজা কথা। আয়াতটি যা বর্ণনা করে, শুধু সেটাই বর্ণনা করে: নবী ﷺ-এর সময়ে তাঁর কওমের সেই মুশরিকরা, যারা আল্লাহকে নিজেদের স্রষ্টা বলে মানত, অথচ তাঁর পাশাপাশি অন্যদের ইবাদত করত। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। প্রতিবেশীর দিকে আঙুল তুলে তাকে 'ওদেরই একজন' বলার অধিকার এটি কাউকে দেয় না। আশপাশের মানুষকে ভাগ করার হাতিয়ারও এটি নয়। ফাআন্না ইউ'ফাকূন-এর রায় আল্লাহর প্রশ্ন, আয়াতে বর্ণিত মানুষগুলো সম্পর্কে, আর সে রায় তাঁরই থাকে।"
+          },
+          {
+            "en": "What the verse does hand the reader is a mirror. I give the same answer they gave, and I give it sincerely: Allah created me, after I was nothing. The commentators locate their failure not in that answer but in where their worship, and their hope of someone to speak for them, went afterwards. So the question worth carrying out of this verse is not whether I know who made me. It is where my hope runs first when I need something, and whom I fear when I am afraid.",
+            "bn": "আয়াতটি পাঠকের হাতে যা তুলে দেয় তা এক আয়না। তারা যে উত্তর দিয়েছিল, আমিও সেই উত্তর দিই, আর মন থেকেই দিই: আমি কিছুই ছিলাম না, আল্লাহ আমাকে সৃষ্টি করেছেন। তাফসীরকারেরা তাদের ব্যর্থতা খুঁজে পান ওই উত্তরে নয়, বরং তার পরে তাদের ইবাদত কোথায় গেল, কে তাদের হয়ে কথা বলবে সেই আশা কার কাছে গেল, সেখানে। তাই এ আয়াত থেকে যে প্রশ্নটা সঙ্গে নিয়ে যাওয়ার মতো, তা এই নয় যে আমাকে কে বানিয়েছেন তা আমি জানি কি না। প্রশ্ন হলো, কিছু দরকার হলে আমার আশা সবার আগে কার দিকে ছোটে, আর ভয় পেলে আমি কাকে ভয় করি।"
+          },
+          {
+            "en": "At-Tabari's second clause gives the cost in a phrase: they are deprived of reaching the truth in His worship. Knowing the Creator did not, by itself, carry them to the truth in worship; it had to be followed. That is the work this verse leaves for each day. When the need comes, the answer already given at the start, Allah, is what to act on: turn to Him, ask Him, and let nothing turn the heart away from Him whom it already names.",
+            "bn": "তাবারীর দ্বিতীয় কথাটি এক বাক্যে ক্ষতির হিসাবটা দিয়ে দেয়: তাঁর ইবাদতে সত্যে পৌঁছানো থেকে তারা বঞ্চিত হয়। স্রষ্টাকে চেনা নিজে নিজে তাদের ইবাদতের সত্যে পৌঁছে দেয়নি। চেনার পর সে পথে চলতে হতো। প্রতিদিনের জন্য এ আয়াত সেই কাজটাই রেখে যায়। দরকার যখন আসে, তখন শুরুতেই যে উত্তর দেওয়া হয়ে গেছে, আল্লাহ, সেটার উপরই আমল করতে হবে: তাঁর দিকে ফিরুন, তাঁর কাছেই চান। আর যাঁর নাম অন্তর আগে থেকেই নেয়, তাঁর থেকে কোনো কিছু যেন সেই অন্তরকে ফিরিয়ে নিতে না পারে।"
+          }
+        ]
+      }
+    ]
   }
 });
