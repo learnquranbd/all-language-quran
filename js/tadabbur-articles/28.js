@@ -2355,6 +2355,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "28:54": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Pointer That Reaches Back",
+          "bn": "পেছনে ফেরানো এক ইশারা"
+        },
+        "p": [
+          {
+            "en": "Ula'ika yu'tawna ajrahum marratayn: those will be given their reward twice. The verse opens with a pointer, and the pointer reaches back. Just before it, 28:52 speaks of those to whom We gave the Scripture before it, who believe in it, and 28:53 gives their words when it is recited to them: we believe in it, it is the truth from our Lord, we were Muslims before it. At-Tabari begins his comment on this verse with the same link: these, whose description has been given.",
+            "bn": "উলাইকা ইউ'তাওনা আজরাহুম মাররাতাইন: তাদেরকে তাদের প্রতিদান দেওয়া হবে দুবার। আয়াতের শুরুতেই একটা ইশারা, আর ইশারাটা পেছনের দিকে। ঠিক আগে ২৮:৫২ আয়াত বলছে তাদের কথা, যাদেরকে এর আগে কিতাব দেওয়া হয়েছিল এবং যারা এতে ঈমান আনে। ২৮:৫৩ আয়াত তুলে ধরে তাদের মুখের কথা, যখন তাদের সামনে কুরআন পড়া হয়: আমরা এতে ঈমান এনেছি, এ আমাদের রবের পক্ষ থেকে সত্য, এর আগেও আমরা মুসলিম ছিলাম। তাবারী এ আয়াতের ব্যাখ্যা শুরুই করেন এই যোগসূত্র ধরে: এরা তারাই, যাদের গুণের বর্ণনা আগে দেওয়া হয়েছে।"
+          },
+          {
+            "en": "The surrounding passage explains why these people are set in view. From 28:48 the Makkans dismiss what has come to them as two works of magic backing each other, and 28:51 says the word has been sent to them in succession so that they might take heed. On 28:52 at-Tabari says the verse means a group of the People of the Book who believed in His Messenger and confirmed him, affirming that the Qur'an is truth from Allah, and he sets them against the ignorant among the unlettered, to whom no scripture had come.",
+            "bn": "আশপাশের আয়াতগুলো দেখলেই বোঝা যায়, এদের কথা কেন এখানে সামনে আনা হলো। ২৮:৪৮ আয়াত থেকে দেখা যায়, মক্কার লোকেরা তাদের কাছে আসা বাণীকে উড়িয়ে দিচ্ছে, বলছে এ দুটি যাদু, একটা আরেকটার সহায়ক। ২৮:৫১ আয়াত বলছে, তাদের কাছে বাণী পরপর পৌঁছানো হয়েছে, যাতে তারা উপদেশ নেয়। ২৮:৫২ আয়াতের ব্যাখ্যায় তাবারী বলেন, এখানে উদ্দেশ্য আহলে কিতাবের একদল মানুষ, যারা তাঁর রাসূলের উপর ঈমান এনেছে, তাঁকে সত্য বলে মেনেছে, আর স্বীকার করেছে যে কুরআন আল্লাহর পক্ষ থেকে সত্য। তিনি তাদেরকে দাঁড় করান উম্মী লোকদের মধ্যকার অজ্ঞদের বিপরীতে, যাদের কাছে কোনো কিতাব আসেনি।"
+          },
+          {
+            "en": "On 28:53 at-Tabari explains how they could say they were Muslims before the Qur'an. They believed in the books the earlier prophets brought, and those books carried the description of Muhammad ﷺ, so they already affirmed him, his sending and his book before it came down. Ibn Kathir, on the same passage, gathers verses with the same picture: 2:121, on those who recite the Book as it should be recited, and 3:199, on those among the People of the Scripture who believe in what was sent to both, humbling themselves before Allah.",
+            "bn": "কুরআন আসার আগেই তারা মুসলিম ছিল, এ কথা তারা কীভাবে বলতে পারল? ২৮:৫৩ আয়াতের ব্যাখ্যায় তাবারী তা খুলে বলেন। আগের নবীরা যে কিতাব এনেছিলেন, তারা তাতে ঈমান রাখত। সেই কিতাবেই মুহাম্মাদ ﷺ-এর পরিচয় ও গুণের বর্ণনা ছিল। তাই কুরআন নাযিলের আগেই তারা তাঁকে, তাঁর আগমনকে আর তাঁর কিতাবকে সত্য বলে মেনে নিয়েছিল। ইবন কাসীর এই অংশের আলোচনায় একই ছবির আরও আয়াত জড়ো করেন। যেমন ২:১২১, যারা কিতাবকে যথাযথভাবে তিলাওয়াত করে। আর ৩:১৯৯, আহলে কিতাবের সেই মানুষেরা, যারা দুই দিকে নাযিল হওয়া বাণীতেই ঈমান রাখে এবং আল্লাহর সামনে বিনীত থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names the Early Reports Give",
+          "bn": "প্রাথমিক বর্ণনায় আসা নাম"
+        },
+        "p": [
+          {
+            "en": "Who were they? The reports at-Tabari gathers on 28:52 give more than one answer, and none of them is a saying of the Prophet ﷺ. Mujahid, by two chains, says the passage concerns those of the People of the Book who became Muslim. Qatada says they used to be told it came down about people of the Book who held to a law of truth until Allah sent Muhammad ﷺ, then believed in him, and he names Salman and Abd Allah ibn Salam among them.",
+            "bn": "এরা কারা? ২৮:৫২ আয়াতে তাবারী যেসব বর্ণনা জড়ো করেছেন, তাতে উত্তর একটা নয়। আর এর কোনোটিই নবী ﷺ-এর বাণী নয়। মুজাহিদ দুটি সনদে বলেন, এ অংশ আহলে কিতাবের মধ্যে যারা মুসলিম হয়েছে তাদের নিয়ে। কাতাদা বলেন, তাঁদের কাছে বলা হতো যে আয়াতগুলো নাযিল হয়েছে আহলে কিতাবের এমন কিছু মানুষের ব্যাপারে, যারা সত্যের এক শরীয়ত আঁকড়ে ছিল। তারপর আল্লাহ মুহাম্মাদ ﷺ-কে পাঠালে তারা তাঁর উপর ঈমান আনে। তাদের মধ্যে তিনি সালমান ও আবদুল্লাহ ইবন সালাম (রাঃ)-এর নাম উল্লেখ করেন।"
+          },
+          {
+            "en": "In another of at-Tabari's chains, Ali ibn Rifa'a says ten men of the People of the Book, his father Abu Rifa'a among them, came to the Prophet ﷺ, believed, and were harmed for it, and the passage came down. Ibn Kathir carries a different report from Sa'id ibn Jubayr: seventy priests sent by the Negus, to whom the Prophet ﷺ recited Ya Sin; they wept and accepted Islam. The verse itself names no one. These reports are best held as what they are, attributed accounts that do not settle a single occasion.",
+            "bn": "তাবারীর আরেক সনদে আলী ইবন রিফাআ বলেন, আহলে কিতাবের দশজন লোক নবী ﷺ-এর কাছে এসেছিল, তাদের মধ্যে ছিলেন তাঁর বাবা আবু রিফাআ। তারা ঈমান আনে, আর এ জন্য তাদের উপর নির্যাতন নেমে আসে। তখন এ অংশ নাযিল হয়। ইবন কাসীর আনেন সাঈদ ইবন জুবাইরের ভিন্ন এক বর্ণনা। নাজাশী সত্তরজন পাদ্রী পাঠিয়েছিলেন, নবী ﷺ তাদের সামনে সূরা ইয়াসীন তিলাওয়াত করেন, তারা কেঁদে ফেলে এবং ইসলাম গ্রহণ করে। আয়াত নিজে কারও নাম বলেনি। তাই এই বর্ণনাগুলোকে বর্ণনা হিসেবেই রাখা ভালো। এগুলো নির্দিষ্ট লোকের নামে বলা কথা, নাযিলের একটিমাত্র উপলক্ষ এগুলো দিয়ে স্থির হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Belief Counted a Second Time",
+          "bn": "ঈমানের দ্বিতীয় হিসাব"
+        },
+        "p": [
+          {
+            "en": "What earns the second reward? The commentators agree on its outline. Al-Muyassar: they are given the reward of their deeds twice, for faith in their own book and for faith in the Qur'an. Al-Baghawi: for their faith in the first Book and in the later Book. As-Sa'di: a reward for the first faith and a reward for the second. Ibn Kathir frames it by messengers: they believed in the first messenger and then in the second, and so are given their reward twice.",
+            "bn": "দ্বিতীয় প্রতিদান আসে কীসের বিনিময়ে? মূল কথায় তাফসীরকারেরা একমত। মুয়াসসার বলে, তাদের আমলের প্রতিদান দেওয়া হবে দুবার: নিজেদের কিতাবে ঈমানের জন্য একবার, কুরআনে ঈমানের জন্য আরেকবার। বাগাভীর কথায়, প্রথম কিতাব ও পরের কিতাব, দুটোতেই ঈমান আনার কারণে। সা'দী বলেন, এক প্রতিদান প্রথম ঈমানের, আরেক প্রতিদান দ্বিতীয় ঈমানের। ইবন কাসীর বিষয়টা দেখান রাসূলদের দিক থেকে। তারা প্রথম রাসূলের উপর ঈমান এনেছে, তারপর দ্বিতীয় রাসূলের উপর, তাই তাদের প্রতিদান দুবার।"
+          },
+          {
+            "en": "Bima sabaru, for what they patiently endured, gives the ground. Ibn Kathir reads it as patience in following the truth, and gives the reason in a clause: taking on such a thing weighs heavily on souls. As-Sa'di widens it. They were patient upon faith and stayed firm in deeds; no doubt shook them from it, and neither standing nor desire turned them back. Read together, the two tie the double reward to endurance, and not to belief alone.",
+            "bn": "বিমা সাবারূ, অর্থাৎ তারা যে ধৈর্য ধরেছে তার কারণে। এই অংশেই কারণটা বলা হয়েছে। ইবন কাসীরের মতে, এ হলো সত্যের অনুসরণে ধৈর্য। কারণও তিনি এক কথায় বলে দেন: এমন বোঝা কাঁধে নেওয়া মানুষের মনের পক্ষে খুব ভারী। সা'দী কথাটা আরও বিস্তৃত করেন। তারা ঈমানের উপর ধৈর্য ধরেছে, আমলে অটল থেকেছে। কোনো সংশয় তাদের টলাতে পারেনি, পদমর্যাদা বা প্রবৃত্তির টানও তাদের ঈমান থেকে ফেরাতে পারেনি। দুটি ব্যাখ্যা পাশাপাশি রাখলে দেখা যায়, দ্বিগুণ প্রতিদানের সঙ্গে শুধু ঈমান নয়, সহ্য করার ব্যাপারটাও জড়িয়ে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Endurance Is Meant",
+          "bn": "কোন সবরের কথা বলা হচ্ছে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari states plainly that the people of interpretation differed over which patience the promise rests on. Some said it was their patience upon the first Book, their following Muhammad ﷺ, and their patience in that; this is Qatada's view. Ibn Zayd agreed with him: they had been upon the religion of Isa (AS), then accepted Islam when the Prophet ﷺ came, and so had their reward twice, for their first patience and for entering Islam with him.",
+            "bn": "তাবারী পরিষ্কার বলে দেন, প্রতিশ্রুতিটা কোন ধৈর্যের উপর দাঁড়িয়ে, তা নিয়ে তাফসীরবিদদের মধ্যে মতভেদ আছে। একদলের মতে, এ হলো প্রথম কিতাবের উপর তাদের ধৈর্য, মুহাম্মাদ ﷺ-এর অনুসরণ, আর সেই পথে অবিচল থাকা। এটি কাতাদার মত। ইবন যায়দও তাঁর সঙ্গে একমত। তাঁর কথায়, তারা ছিল ঈসা (আঃ)-এর দ্বীনের উপর। নবী ﷺ এলে তারা ইসলাম গ্রহণ করে। তাই প্রথমবারের ধৈর্যের জন্য একবার, আর নবী ﷺ-এর সঙ্গে ইসলামে প্রবেশের জন্য আরেকবার, এভাবে তারা দুবার প্রতিদান পায়।"
+          },
+          {
+            "en": "Others, ad-Dahhak among them, said it was their belief in Muhammad ﷺ before he was sent and their following him once he was. A further line comes from Mujahid: a people accepted Islam, their own people harmed them, and the verse came down. In at-Tabari's chain Mujahid calls them former idolaters; al-Baghawi relays him as saying they were of the People of the Book. Al-Qurtubi declines to narrow it at all: bima sabaru is general, covering their patience upon their old religion, then upon this religion, and upon the harm the disbelievers did them.",
+            "bn": "আরেকদলের মতে, যাদের মধ্যে আছেন দাহহাক, ধৈর্য মানে নবী ﷺ প্রেরিত হওয়ার আগেই তাঁর উপর ঈমান রাখা, আর প্রেরিত হলে তাঁর অনুসরণ করা। মুজাহিদ থেকে আসে আরেকটি ধারা। একদল মানুষ ইসলাম গ্রহণ করলে তাদের নিজেদের লোকেরাই তাদের কষ্ট দিত, তখন আয়াতটি নাযিল হয়। তাবারীর সনদে মুজাহিদ তাদের বলেছেন আগের মুশরিক। কিন্তু বাগাভীর বর্ণনায় মুজাহিদ বলছেন, তারা ছিল আহলে কিতাব। কুরতুবী কোনোটাতেই সীমা টানেন না। তাঁর মতে বিমা সাবারূ কথাটা ব্যাপক। এর মধ্যে আছে নিজেদের আগের দ্বীনের উপর ধৈর্য, তারপর এই দ্বীনের উপর ধৈর্য, আর কাফিরদের দেওয়া কষ্টে ধৈর্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Who Hold Two Rewards",
+          "bn": "দুই প্রতিদানের তিন মানুষ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir says the hadith is in both Sahihs, through Amir ash-Sha'bi from Abu Burda from Abu Musa al-Ash'ari; al-Qurtubi cites it from Muslim and adds that al-Bukhari recorded it too. Al-Bukhari's wording (Sahih al-Bukhari 97): Three have two rewards: a man of the People of the Book who believed in his prophet and believed in Muhammad ﷺ; the owned slave when he fulfils the right of Allah and the right of his masters; and a man who had a slave woman, who trained her and trained her well, taught her and taught her well, then freed her and married her: he has two rewards.",
+            "bn": "ইবন কাসীর বলেন, হাদীসটি দুই সহীহ গ্রন্থেই আছে, আমির আশ-শা'বী থেকে, তিনি আবু বুরদা থেকে, তিনি আবু মূসা আশআরী (রাঃ) থেকে। কুরতুবী এটি মুসলিম থেকে উদ্ধৃত করেন এবং জানান, বুখারীও এটি বর্ণনা করেছেন। বুখারীর ভাষ্য (সহীহ বুখারী ৯৭): তিনজনের জন্য দুটি প্রতিদান। আহলে কিতাবের সেই লোক, যে নিজের নবীর উপর ঈমান এনেছে এবং মুহাম্মাদ ﷺ-এর উপরও ঈমান এনেছে। মালিকানাধীন দাস, যখন সে আল্লাহর হক আদায় করে এবং তার মনিবদের হকও আদায় করে। আর সেই লোক, যার কাছে এক দাসী ছিল। সে তাকে আদব শিখিয়েছে এবং উত্তমভাবে শিখিয়েছে, তাকে জ্ঞান দিয়েছে এবং উত্তমভাবে দিয়েছে, তারপর তাকে মুক্ত করে বিয়ে করেছে। তার জন্য দুটি প্রতিদান।"
+          },
+          {
+            "en": "The narration ends with ash-Sha'bi telling his listener: we have given it to you for nothing, and people used to ride to Madinah for less than this. Al-Qurtubi relays the same remark. The hadith itself does not mention this verse; the commentators set it beside the verse because its first person is the one 28:52 to 28:54 describe. Note also its wording: two rewards, ajran, where the verse says their reward twice. Ibn Kathir further relays from Ahmad a report of Abu Umamah, from the day of the Conquest, on the same subject; he gives it no grading, and it is not used here.",
+            "bn": "বর্ণনার শেষে শা'বী শ্রোতাকে বলেন, এটা তোমাকে বিনা পরিশ্রমে দিয়ে দিলাম, অথচ এর চেয়ে ছোট কিছুর জন্যও মানুষ মদীনা পর্যন্ত সফর করত। কুরতুবীও এই মন্তব্যটি উল্লেখ করেন। হাদীসে এ আয়াতের কথা নেই। তাফসীরকারেরা হাদীসটি আয়াতের পাশে রাখেন, কারণ এর প্রথম ব্যক্তিটিই সেই মানুষ, যার বর্ণনা ২৮:৫২ থেকে ২৮:৫৪ আয়াতে এসেছে। শব্দেও একটা পার্থক্য খেয়াল করার মতো। হাদীসে আছে দুটি প্রতিদান, আজরান। আয়াতে আছে তাদের প্রতিদান দুবার। ইবন কাসীর আহমাদ থেকে মক্কা বিজয়ের দিনের একটি বর্ণনাও আনেন, আবু উমামা (রাঃ) থেকে, একই বিষয়ে। তিনি এর কোনো মান উল্লেখ করেননি, তাই এখানে তা ব্যবহার করা হয়নি।"
+          },
+          {
+            "en": "Al-Qurtubi then relays an explanation from those he calls our scholars of why each of the three earns two. Each was addressed with two commands from two directions. The man of the Book was addressed through his own prophet, then through ours, and he answered and followed, so he has the reward of both religions. The slave is under command from Allah and from his master. Al-Qurtubi adds that each of the two rewards is itself multiplied, since a good deed is worth ten like it, so the rewards compound.",
+            "bn": "এরপর কুরতুবী 'আমাদের আলেমরা' বলে একটি ব্যাখ্যা আনেন: তিনজনের প্রত্যেকে কেন দুটি করে প্রতিদান পায়। প্রত্যেককে দুই দিক থেকে দুটি আদেশ দেওয়া হয়েছিল। আহলে কিতাবের লোকটিকে প্রথমে ডাকা হয়েছে তার নিজের নবীর মাধ্যমে, পরে আমাদের নবী ﷺ-এর মাধ্যমে। সে ডাকে সাড়া দিয়েছে, অনুসরণ করেছে, তাই সে দুই দ্বীনেরই প্রতিদান পায়। দাসের উপর আদেশ আছে আল্লাহর পক্ষ থেকে, মনিবের পক্ষ থেকেও। কুরতুবী আরও বলেন, দুটি প্রতিদানের প্রত্যেকটিও আবার বহুগুণ হয়, কারণ একটি নেকি দশটি নেকির সমান। ফলে প্রতিদান বাড়তেই থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Each Deed Written Twice",
+          "bn": "প্রতিটি আমল দুবার লেখা"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an asks why these people in particular are paid double, and sets the verse beside 33:31, where the Prophet's wives who obey Allah and His Messenger and do good are promised their reward twice. One answer is that each has done two good deeds. Ma'arif objects: two rewards for two deeds is owed to everyone, as 3:195 says that Allah does not let the work of any worker be lost, so it would mark no distinction.",
+            "bn": "মাআরিফুল কুরআন প্রশ্ন তোলে, বিশেষ করে এদেরকেই কেন দ্বিগুণ দেওয়া হবে? সঙ্গে আয়াতটিকে রাখে ৩৩:৩১-এর পাশে। সেখানে নবী ﷺ-এর স্ত্রীদের মধ্যে যারা আল্লাহ ও তাঁর রাসূলের আনুগত্য করে এবং নেক আমল করে, তাদেরকেও প্রতিদান দুবার দেওয়ার ওয়াদা আছে। একটা উত্তর হতে পারে, তারা দুটি নেক কাজ করেছে। মাআরিফ এতে আপত্তি তোলে। দুই কাজের দুই প্রতিদান তো সবার প্রাপ্য। ৩:১৯৫ আয়াতেই আছে, আল্লাহ কোনো আমলকারীর আমল নষ্ট করেন না। তাহলে এতে আলাদা কোনো মর্যাদা থাকে না।"
+          },
+          {
+            "en": "Its own answer is that every single deed of theirs is written twice: two rewards for one prayer, two for one act of charity. It draws this from the wording. The fitting phrase for two rewards would have been ajrayn; the verse says ajrahum marratayn, their reward twice. As for why, Ma'arif calls it Allah's prerogative to raise one deed over another, notes that some scholars point to the hardship involved, which bima sabaru supports, and closes: Allah knows best.",
+            "bn": "মাআরিফের নিজের উত্তর হলো, তাদের প্রতিটি আমলই দুবার লেখা হবে। একটি নামাযে দুটি প্রতিদান, একটি সাদাকায় দুটি প্রতিদান। এ কথা সে নেয় আয়াতের শব্দ থেকে। দুটি প্রতিদান বোঝাতে মানানসই শব্দ ছিল আজরাইন। কিন্তু আয়াত বলছে আজরাহুম মাররাতাইন, তাদের প্রতিদান দুবার। আর কেন এদের জন্য এমন, সে প্রশ্নে মাআরিফ বলে, কোন আমলকে কোন আমলের উপরে মর্যাদা দেবেন, তা আল্লাহরই এখতিয়ার। কিছু আলেম কারণ হিসেবে কষ্ট ও কঠিনতার কথা বলেন, আর বিমা সাবারূ কথাটি সে মতের পক্ষে যায়। শেষে মাআরিফ বলে, আল্লাহই ভালো জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Harm Turned Aside With Good",
+          "bn": "ভালো দিয়ে মন্দ সরানো"
+        },
+        "p": [
+          {
+            "en": "Wa-yadra'una bil-hasanati as-sayyi'ah: and they push away the bad with the good. Al-Qurtubi gives the root, dar' meaning pushing away, and two readings. They push away harm with forbearance and good words, or they push away sins with repentance and asking forgiveness. Ibn Kathir and Muqatil, relayed by al-Baghawi, take the first: they pardon and overlook rather than answer bad with its like. At-Tabari takes the second: they push away their own bad deeds with good ones. Al-Baghawi also relays Ibn Abbas: they push away shirk with the testimony that there is no god but Allah.",
+            "bn": "ওয়া ইয়াদরাউনা বিল হাসানাতিস সাইয়্যিআহ: আর তারা ভালো দিয়ে মন্দকে ঠেলে সরায়। কুরতুবী শব্দের মূল জানান, দার মানে ধাক্কা দিয়ে সরানো। তারপর দুটি ব্যাখ্যা দেন। হয় তারা সহনশীলতা ও সুন্দর কথা দিয়ে কষ্টকে সরায়, নয়তো তওবা ও ইস্তিগফার দিয়ে গুনাহ সরায়। ইবন কাসীর, আর বাগাভীর বর্ণনায় মুকাতিল, প্রথম ব্যাখ্যা নেন: মন্দের জবাব মন্দ দিয়ে নয়, তারা মাফ করে, এড়িয়ে যায়। তাবারী নেন দ্বিতীয়টি: নিজেদের ভালো কাজ দিয়ে তারা নিজেদের মন্দ কাজ মুছে দেয়। বাগাভী ইবন আব্বাস (রাঃ)-এর কথাও আনেন: লা ইলাহা ইল্লাল্লাহর সাক্ষ্য দিয়ে তারা শিরককে সরিয়ে দেয়।"
+          },
+          {
+            "en": "As-Sa'di makes the first reading their settled way: doing good to everyone, even to those who wrong them in word and deed. Ma'arif al-Qur'an sees no contradiction and draws two counsels: a sin is best followed by a good deed, and a person who is wronged may retaliate within limits but does far better to answer with kindness, as 41:34 urges. At-Tirmidhi (1987) records from Abu Dharr: Have taqwa of Allah wherever you are, follow a bad deed with a good deed and it will wipe it out, and treat people with good character. He grades it hasan sahih.",
+            "bn": "সা'দী প্রথম ব্যাখ্যাকে তাদের স্থায়ী স্বভাব বলে দেখান। সবার প্রতি ভালো ব্যবহার করা, এমনকি যে কথায় ও কাজে তাদের সঙ্গে মন্দ করে, তার প্রতিও। মাআরিফুল কুরআন দুই ব্যাখ্যায় কোনো বিরোধ দেখে না, বরং দুটি উপদেশ বের করে। গুনাহ হয়ে গেলে তার পেছনে নেক আমল করা সবচেয়ে ভালো প্রতিকার। আর যার উপর অন্যায় হয়েছে, সে সীমা না ছাড়িয়ে প্রতিশোধ নিতে পারে, তবে দয়া দিয়ে জবাব দেওয়া অনেক উত্তম, যেমন ৪১:৩৪ আয়াত শেখায়। তিরমিযী (১৯৮৭) আবু যর (রাঃ) থেকে বর্ণনা করেন: যেখানেই থাকো আল্লাহকে ভয় করো, মন্দ কাজের পর ভালো কাজ করো, তা মন্দকে মুছে দেবে, আর মানুষের সঙ্গে সুন্দর আচরণ করো। তিনি একে হাসান সহীহ বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Open Hands, Turned Faces",
+          "bn": "খোলা হাত, ফেরানো মুখ"
+        },
+        "p": [
+          {
+            "en": "Wa-mimma razaqnahum yunfiqun: and from what We have provided them, they spend. Ibn Kathir specifies lawful provision, spent on the obligatory support of family and relatives, the obligatory zakat, and voluntary charity. At-Tabari names wealth spent in obedience to Allah: striving in His path, charity to someone in need, or keeping ties of kinship. Al-Muyassar says, in the ways of good and righteousness. Al-Qurtubi sees an encouragement to charity, and adds that spending can also come from the body, through fasting and prayer.",
+            "bn": "ওয়া মিম্মা রাযাকনাহুম ইউনফিকূন: আর আমি তাদের যে রিযিক দিয়েছি, তা থেকে তারা খরচ করে। ইবন কাসীর বলেন, এ হালাল রিযিক থেকে খরচ: পরিবার ও আত্মীয়দের জন্য ফরয ভরণপোষণ, ফরয যাকাত, আর নফল সাদাকা। তাবারী বলেন, সম্পদ খরচ হয় আল্লাহর আনুগত্যে। হতে পারে তাঁর পথে জিহাদে, অভাবী মানুষকে সাদাকা দিয়ে, কিংবা আত্মীয়তার বন্ধন রক্ষায়। মুয়াসসারের ভাষায়, কল্যাণ ও নেকির পথে। কুরতুবী এখানে সাদাকার প্রতি উৎসাহ দেখেন। সঙ্গে বলেন, খরচ শরীর দিয়েও হতে পারে, রোযা ও নামাযের মাধ্যমে।"
+          },
+          {
+            "en": "At-Tabari closes his comment with Qatada's remark that Allah praised them beautifully, as you hear. The praise runs on into 28:55: when they hear idle talk they turn away from it and say, for us our deeds and for you yours, peace be upon you, we do not seek the ignorant. Ibn Kathir, on that verse, says they do not answer a foolish person in kind and say nothing but good. Endurance, a good answer to harm and open-handedness are drawn as one character.",
+            "bn": "তাবারী তাঁর আলোচনা শেষ করেন কাতাদার একটি কথা দিয়ে: তোমরা তো শুনছই, আল্লাহ তাদের কী সুন্দর প্রশংসা করেছেন। প্রশংসা গড়িয়ে যায় ২৮:৫৫ আয়াতে। তারা অনর্থক কথা শুনলে মুখ ফিরিয়ে নেয় আর বলে, আমাদের আমল আমাদের, তোমাদের আমল তোমাদের, তোমাদের প্রতি সালাম, আমরা অজ্ঞদের সঙ্গ চাই না। সে আয়াতের ব্যাখ্যায় ইবন কাসীর বলেন, কোনো নির্বোধ মানুষ মন্দ কথা বললে তারা একই ভাষায় জবাব দেয় না, ভালো কথা ছাড়া কিছু বলে না। ধৈর্য, মন্দের জবাবে ভালো আর খোলা হাত, তিনটি মিলে একটাই চরিত্রের ছবি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Praise That Condemns No One",
+          "bn": "যে প্রশংসা কাউকে দোষী করে না"
+        },
+        "p": [
+          {
+            "en": "This must be said firmly. The verse praises particular people who believed, as the text describes them, and promises them a reward. It licenses nothing against any living Jewish or Christian person or community, no contempt for anyone who has not believed, and no verdict by us on anyone's heart. Two verses later, 28:56 tells the Prophet ﷺ that he does not guide whom he loves; Allah guides whom He wills. And the verse's own content, answering harm with good, forbids any harsher use of it.",
+            "bn": "কথাটা দৃঢ়ভাবে বলা দরকার। আয়াতটি নির্দিষ্ট কিছু মানুষের প্রশংসা করে, যারা ঈমান এনেছিল, ঠিক যেভাবে কুরআন তাদের বর্ণনা দিয়েছে, আর তাদের প্রতিদানের ওয়াদা দেয়। জীবিত কোনো ইহুদি বা খ্রিস্টান ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। যে ঈমান আনেনি তাকে তুচ্ছ করার অনুমতিও দেয় না, কারও অন্তর নিয়ে রায় দেওয়ার অধিকারও আমাদের দেয় না। দুই আয়াত পরেই ২৮:৫৬ নবী ﷺ-কে বলছে, আপনি যাকে ভালোবাসেন তাকে হিদায়াত দিতে পারেন না, আল্লাহ যাকে চান হিদায়াত দেন। আর আয়াতের নিজের শিক্ষাই তো মন্দের জবাব ভালো দিয়ে দেওয়া। এর কঠোর কোনো ব্যবহার সেই শিক্ষারই বিরোধী।"
+          },
+          {
+            "en": "Turned inward, the verse asks three things of a reader who never held an earlier scripture. Is there a truth I have been shown that I keep at a distance because accepting it would cost me standing? When I am wronged, is my first move to repay, or to push the harm away with something better? And does what I have been given ever leave my hands? Ma'arif calls returning cruelty with kindness a high degree of nobility. The verse names it among the marks of people paid twice.",
+            "bn": "নিজের দিকে ফেরালে আয়াতটি এমন পাঠকের কাছেও তিনটি প্রশ্ন রাখে, যার হাতে কখনো আগের কোনো কিতাব ছিল না। আমাকে দেখানো এমন কোনো সত্য কি আছে, যা মেনে নিলে আমার মর্যাদায় টান পড়বে বলে দূরে সরিয়ে রেখেছি? কেউ আমার উপর অন্যায় করলে আমার প্রথম চিন্তা কি শোধ নেওয়া, নাকি আরও ভালো কিছু দিয়ে কষ্টটা সরিয়ে দেওয়া? আর আমাকে যা দেওয়া হয়েছে, তা কি কখনো আমার হাত থেকে অন্যের কাছে যায়? মাআরিফ বলে, জুলুমের জবাবে দয়া দেখানো উঁচু স্তরের মহত্ত্ব। আয়াত একে গুনেছে দুবার প্রতিদান পাওয়া মানুষের চিহ্নের মধ্যে।"
+          }
+        ]
+      }
+    ]
+  },
   "28:56": {
     "sections": [
       {

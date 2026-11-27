@@ -35993,6 +35993,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Notice what your wishes are measured against: what dazzles in this world is a real share, but a small one beside the reward of Allah.",
     "lessonBn": "খেয়াল করুন, আপনার ইচ্ছাগুলো কোন মাপকাঠিতে মাপা হচ্ছে। দুনিয়ার চোখধাঁধানো জিনিসও সত্যিকারের অংশ, তবে আল্লাহর প্রতিদানের পাশে তা খুবই ছোট।"
+  },
+  "28:54": {
+    "reflectionEn": "Some people had already been given a scripture, and they kept it. When the Qur'an was recited to them, they did not guard their old standing; they said it is the truth from our Lord, and we were submitting to Him before it came. Allah says they will be given their reward twice for their patience. Holding on is hard, and so is moving forward when the truth asks it. Then two more marks follow: they push back harm with good, and they spend from what they were given. These are not slogans. They are the daily shape of a faith that has been tested. Am I patient enough to keep what is true, and humble enough to accept more of it?",
+    "reflectionBn": "কিছু মানুষকে আগেই একটি কিতাব দেওয়া হয়েছিল, আর তারা তা আঁকড়ে ধরে রেখেছিল। তাদের সামনে কুরআন পড়া হলে তারা নিজেদের পুরোনো মর্যাদা বাঁচাতে বসেনি। বলেছে, এ আমাদের রবের পক্ষ থেকে সত্য, এর আগেও আমরা তাঁর কাছেই আত্মসমর্পিত ছিলাম। আল্লাহ বলছেন, ধৈর্যের কারণে তাদের প্রতিদান দেওয়া হবে দুবার। সত্যকে ধরে রাখা কঠিন। সত্য যখন সামনে এগোতে বলে, তখন এগোনোও কঠিন। এরপর আরও দুটি চিহ্ন: তারা মন্দকে ঠেকায় ভালো দিয়ে, আর যা পেয়েছে তা থেকে খরচ করে। এগুলো স্লোগান নয়, পরীক্ষায় টিকে যাওয়া ঈমানের রোজকার চেহারা। যা সত্য তা ধরে রাখার মতো ধৈর্য কি আমার আছে? আর সত্যের আরও কিছু এলে তা মেনে নেওয়ার মতো বিনয়?",
+    "pointsEn": [
+      "When a truth reaches me that asks me to move beyond what I am used to, do I weigh it honestly or defend my old position?",
+      "What has my faith cost me, and did I bear that cost with patience or with complaint?",
+      "The last time someone spoke badly to me, did I answer in kind, or did I push it back with something good?",
+      "When I do wrong, do I follow it with a good deed, or leave it standing?",
+      "From what Allah has given me this month, who has actually received a share?"
+    ],
+    "pointsBn": [
+      "অভ্যস্ত জায়গা ছেড়ে সামনে এগোতে বলে এমন কোনো সত্য আমার কাছে এলে, আমি কি তা সৎভাবে যাচাই করি, নাকি নিজের পুরোনো অবস্থান রক্ষায় নেমে পড়ি?",
+      "ঈমানের জন্য আমাকে কী দাম দিতে হয়েছে? সে দাম কি আমি ধৈর্যের সঙ্গে দিয়েছি, নাকি অভিযোগ করতে করতে?",
+      "শেষবার কেউ আমাকে মন্দ কথা বললে আমি কি একই সুরে জবাব দিয়েছি, নাকি ভালো কিছু দিয়ে তা ফিরিয়ে দিয়েছি?",
+      "কোনো ভুল করে ফেললে আমি কি এর পেছনে একটা নেক আমল জুড়ে দিই, নাকি ভুলটা যেমন ছিল তেমনই পড়ে থাকে?",
+      "এ মাসে আল্লাহ আমাকে যা দিয়েছেন, তা থেকে আসলে কে কে ভাগ পেয়েছে?"
+    ],
+    "lessonEn": "Hold firmly to the truth you have and accept more of it when it comes. Answer harm with good, and spend from what Allah has given you.",
+    "lessonBn": "যে সত্য আপনার কাছে আছে তা শক্ত করে ধরে রাখুন, আরও সত্য এলে মেনে নিন। মন্দের জবাব দিন ভালো দিয়ে, আর আল্লাহর দেওয়া রিযিক থেকে খরচ করুন।"
   }
 };
 
