@@ -34343,6 +34343,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Before you judge someone you trusted, ask them first and hear their answer through; a sharp question still leaves open a door that a verdict would shut.",
     "lessonBn": "যাকে ভরসা করেছিলেন, তার বিচার করার আগে তাকে জিজ্ঞেস করুন আর পুরো জবাবটা শুনুন। কড়া প্রশ্নও এমন একটা দরজা খোলা রাখে, রায় যেটা বন্ধ করে দিত।"
+  },
+  "20:127": {
+    "reflectionEn": "The exchange has just closed. A man raised blind asks why, and is told that the signs came to him and he let them slip, so today he is the one let slip. Then the voice widens from one man to a rule: thus do We recompense whoever goes beyond the bounds and does not believe in his Lord's signs. Nothing in it is arbitrary; the recompense answers the conduct that earned it. And it adds a measure that settles every comparison: whatever is suffered before it, the punishment of the Hereafter is harder, and it does not end. The verse names a pattern, not a person. It asks me where my own excesses lie, and whether I treat the signs as something I can afford to forget.",
+    "reflectionBn": "কথোপকথনটা এইমাত্র শেষ হলো। অন্ধ অবস্থায় উঠানো এক লোক জানতে চায়, কেন? জবাব আসে: নিদর্শনগুলো তোমার কাছে এসেছিল, তুমি সেগুলো ভুলে বসেছিলে, তাই আজ তোমাকেও ভুলে থাকা হবে। এরপর কথাটা একজন মানুষ ছাড়িয়ে নিয়মে পরিণত হয়: যে সীমা ছাড়িয়ে যায় আর রবের নিদর্শনে ঈমান আনে না, তাকে আমি এভাবেই প্রতিফল দিই। এতে খেয়ালখুশির কিছু নেই। প্রতিফল আসে ঠিক সেই আচরণের জবাবে, যা তাকে ডেকে এনেছে। সঙ্গে আসে এমন এক মাপকাঠি, যার পরে আর তুলনা চলে না: আগে যত কষ্টই আসুক, আখিরাতের আযাব তার চেয়ে কঠিন, আর তা কখনো ফুরায় না। আয়াতটি একটা ধারা চিনিয়ে দেয়, কোনো নির্দিষ্ট মানুষকে নয়। প্রশ্নটা তাই আমার দিকেই ফেরে: আমার নিজের সীমালঙ্ঘন কোথায়, আর নিদর্শনগুলোকে কি আমি এমন কিছু ভাবি যা ভুলে গেলেও চলে?",
+    "pointsEn": [
+      "Where have I quietly stepped past a limit I know Allah set, and then called it a small thing?",
+      "Which of His signs, a verse, a warning, a mercy shown to me, have I let slip from my mind this month?",
+      "Do I treat the troubles of this world as the heaviest thing that could ever happen to me?",
+      "If the recompense answers the conduct, what is my conduct today preparing for me?",
+      "When I read a verse like this one, do I apply it to other people first, or to myself?"
+    ],
+    "pointsBn": [
+      "আল্লাহর বেঁধে দেওয়া কোন সীমা আমি চুপচাপ পেরিয়ে গেছি, আর পরে সেটাকে ছোট ব্যাপার বলে উড়িয়ে দিয়েছি?",
+      "তাঁর কোন নিদর্শন, কোনো আয়াত, কোনো সতর্কবাণী বা আমার উপর দেখানো কোনো রহমত, এ মাসে আমার মন থেকে সরে গেছে?",
+      "দুনিয়ার বিপদকে কি আমি এমনভাবে দেখি, যেন এর চেয়ে ভারী আর কিছু আমার উপর আসতে পারে না?",
+      "প্রতিফল যদি আচরণেরই জবাব হয়, তবে আজকের আমল আমার জন্য কী তৈরি করছে?",
+      "এমন আয়াত পড়ে আমি কি আগে অন্যের উপর তা খাটাই, নাকি নিজের উপর?"
+    ],
+    "lessonEn": "Recompense answers conduct: guard against overstepping Allah's bounds and forgetting His signs, for the Hereafter's punishment is harsher than anything here, and it never ends.",
+    "lessonBn": "প্রতিফল আসে আচরণের জবাবে। আল্লাহর সীমা ছাড়িয়ে যাওয়া আর তাঁর নিদর্শন ভুলে থাকা থেকে বাঁচুন, কারণ আখিরাতের আযাব এখানকার যেকোনো কষ্টের চেয়ে কঠিন, আর তা কখনো শেষ হয় না।"
   }
 };
 

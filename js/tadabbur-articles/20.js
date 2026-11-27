@@ -5907,6 +5907,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:127": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Third Thus",
+          "bn": "তৃতীয়বার 'এভাবেই'"
+        },
+        "p": [
+          {
+            "en": "Wa-kadhalika najzi man asrafa wa lam yu'min bi-ayati rabbihi: and thus do We recompense whoever transgresses and does not believe in the signs of his Lord. The verse closes the exchange that began in 20:124, where turning away from Allah's reminder brings a narrow life and a blind raising. In 20:125 the man asks why he was raised blind when he once could see, and 20:126 gives the answer. That answer already uses kadhalika twice: thus did Our signs come to you and you forgot them, and thus today you are forgotten. This verse adds a third.",
+            "bn": "ওয়া কাযালিকা নাজযী মান আসরাফা ওয়া লাম ইউ'মিন বিআয়াতি রাব্বিহী: যে সীমা ছাড়িয়ে যায় আর তার রবের নিদর্শনে ঈমান আনে না, তাকে আমি এভাবেই প্রতিফল দিই। ২০:১২৪ আয়াতে যে কথোপকথন শুরু হয়েছিল, এ আয়াত সেটার ইতি টানে। সেখানে বলা হয়েছে, আল্লাহর স্মরণ থেকে যে মুখ ফেরায়, তার জীবন হয় সংকীর্ণ, আর তাকে ওঠানো হয় অন্ধ করে। ২০:১২৫ আয়াতে লোকটি জানতে চায়, আমি তো দেখতে পেতাম, তবে অন্ধ করে ওঠালেন কেন? ২০:১২৬ আয়াতে আসে জবাব। সেই জবাবে কাযালিকা শব্দটি আছে দুবার: এভাবেই আমার নিদর্শন তোমার কাছে এসেছিল আর তুমি তা ভুলে গিয়েছিলে, আর এভাবেই আজ তোমাকে ভুলে থাকা হবে। এ আয়াতে আসে তৃতীয়বার।"
+          },
+          {
+            "en": "The two in 20:126 are spoken to one man on the Day itself. The third steps back from the scene and speaks of anyone at all, man, whoever. Al-Qurtubi and al-Baghawi read the comparison it draws in the same way: as We recompensed the one who turned away from the Qur'an, so do We recompense the one who transgresses. As-Sa'di takes kadhalika as pointing to the recompense just described: this recompense is what We give him. Ibn Kathir widens the frame: thus do We recompense those who transgress and deny Allah's signs, in this world and in the Hereafter.",
+            "bn": "২০:১২৬ আয়াতের দুটি কাযালিকা বলা হয়েছে সেই দিনে, একজন নির্দিষ্ট মানুষকে। তৃতীয়টি দৃশ্য থেকে এক পা পিছিয়ে এসে কথা বলে যে কারও সম্পর্কে। মান শব্দটির অর্থই তো যে-ই হোক। এখানে কোন তুলনা টানা হচ্ছে, তা কুরতুবী ও বাগাভী একইভাবে বোঝেন: কুরআন থেকে যে মুখ ফিরিয়েছিল তাকে যেমন প্রতিফল দিয়েছি, সীমালঙ্ঘনকারীকেও তেমনই দিই। সা'দীর মতে কাযালিকা ইঙ্গিত করে এইমাত্র বর্ণিত প্রতিফলের দিকে: এই প্রতিফলই আমি তাকে দিই। ইবন কাসীর পরিসরটা বাড়িয়ে দেন: যারা সীমা ছাড়ায় আর আল্লাহর নিদর্শনকে মিথ্যা বলে, তাদের আমি এভাবেই প্রতিফল দিই, দুনিয়াতেও, আখিরাতেও।"
+          },
+          {
+            "en": "The narrow life of 20:124, and where it falls, in this world, the grave or the Fire, belong to that verse and are not retold here. What matters here is that one conversation becomes a standing rule. The verb najzi is in the present tense and the person named by man is left open, so the sentence describes how Allah deals with a kind of conduct, not a single man.",
+            "bn": "২০:১২৪ আয়াতের সংকীর্ণ জীবন, আর তা কোথায় ঘটে, দুনিয়ায়, কবরে নাকি জাহান্নামে, এ আলোচনা সেই আয়াতেরই। এখানে তার পুনরাবৃত্তি নেই। এখানে আসল কথা হলো, একটি কথোপকথন এসে স্থায়ী নিয়মে রূপ নেয়। নাজযী ক্রিয়াটি বর্তমান কালের, আর মান শব্দটি কাউকে নির্দিষ্ট করে না। তাই বাক্যটি কোনো একজন মানুষের খবর হয়ে থাকে না। বরং বলে দেয়, এক বিশেষ ধরনের আচরণের বেলায় আল্লাহর রীতি কী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asrafa, Read Two Ways",
+          "bn": "আসরাফা শব্দের দুই পাঠ"
+        },
+        "p": [
+          {
+            "en": "Man asrafa: whoever transgressed. Al-Baghawi glosses it with a single word, ashraka, he associated partners with Allah. On that reading the verse speaks of shirk, and the clause that follows, he did not believe in his Lord's signs, describes the same person from a second side. The excess is the gravest one there is, setting up others beside Allah, and the unbelief is its companion.",
+            "bn": "মান আসরাফা: যে সীমা ছাড়িয়ে গেছে। বাগাভী এর ব্যাখ্যা দেন একটি শব্দে: আশরাকা, সে আল্লাহর সঙ্গে শরিক করেছে। এ পাঠে আয়াতটি শিরকের কথা বলছে। পরের অংশ, সে রবের নিদর্শনে ঈমান আনেনি, তখন একই মানুষের আরেক দিকের বর্ণনা। সীমালঙ্ঘনটা তখন সবচেয়ে বড়টি, আল্লাহর পাশে অন্যকে দাঁড় করানো, আর কুফর তার সঙ্গী।"
+          },
+          {
+            "en": "The other commentators read it as excess in disobedience. At-Tabari has whoever transgressed and so disobeyed his Lord. The Muyassar has whoever transgressed against himself and so disobeyed his Lord. Al-Qurtubi says he went beyond the limit in disobedience. As-Sa'di is the fullest: he overstepped the bounds, committed what is forbidden, and passed beyond what he had been permitted. On these readings asrafa names the deeds, and the denial of the signs is left to the second clause.",
+            "bn": "অন্য তাফসীরকারেরা শব্দটিকে নাফরমানিতে বাড়াবাড়ি অর্থে নেন। তাবারীর ভাষায়: যে সীমা ছাড়িয়ে রবের নাফরমানি করেছে। মুয়াসসারের ভাষায়: যে নিজের উপর বাড়াবাড়ি করে রবের অবাধ্য হয়েছে। কুরতুবী বলেন, সে গুনাহে সীমা পেরিয়ে গেছে। সবচেয়ে বিস্তারিত সা'দী: সে সীমারেখা ডিঙিয়েছে, হারাম কাজে লিপ্ত হয়েছে, আর তাকে যতটুকুর অনুমতি দেওয়া হয়েছিল তা ছাড়িয়ে গেছে। এসব পাঠে আসরাফা বোঝায় কাজগুলোকে, আর নিদর্শন অস্বীকারের কথা থাকে দ্বিতীয় অংশের জন্য।"
+          },
+          {
+            "en": "The two readings overlap in what they condemn, but they are not the same. Al-Baghawi names the gravest form of overstepping; the others name the overstepping itself, in any form, and let the next clause carry the unbelief. This article takes neither side. On either reading the verse joins two things, an act of excess and a refusal to believe, and the recompense it speaks of is for the person in whom both are found.",
+            "bn": "দুই পাঠ যা নিন্দা করে তাতে অনেকটা মিল আছে, তবু দুটো এক নয়। বাগাভী বলেন সীমালঙ্ঘনের সবচেয়ে গুরুতর রূপের কথা। অন্যরা বলেন সীমালঙ্ঘনের কথাই, যে রূপেই হোক, আর কুফরের ভার দেন পরের অংশকে। এ প্রবন্ধ কোনো পক্ষ নেয় না। যে পাঠই ধরা হোক, আয়াতটি দুটি জিনিস একসঙ্গে জুড়ে দেয়: বাড়াবাড়ির কাজ আর ঈমান আনতে অস্বীকার। আয়াতে যে প্রতিফলের কথা, তা সেই মানুষের জন্য, যার মধ্যে দুটোই পাওয়া যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Signs Left Unbelieved",
+          "bn": "যে নিদর্শনে ঈমান আসেনি"
+        },
+        "p": [
+          {
+            "en": "Wa lam yu'min bi-ayati rabbihi: and did not believe in the signs of his Lord. At-Tabari explains the signs here as Allah's messengers and scriptures: he did not believe in His messengers and His books. Al-Qurtubi gives the plain sense, he did not affirm them as true. Ibn Kathir folds the two clauses into a single description, the transgressors who deny Allah's signs, so that in his wording the excess and the denial are one portrait.",
+            "bn": "ওয়া লাম ইউ'মিন বিআয়াতি রাব্বিহী: আর সে তার রবের নিদর্শনে ঈমান আনেনি। তাবারী এখানে নিদর্শন বলতে বোঝেন আল্লাহর রসূল ও কিতাবকে: সে তাঁর রসূলদের ও তাঁর কিতাবগুলোর উপর ঈমান আনেনি। কুরতুবী দেন সোজা অর্থ: সে সেগুলোকে সত্য বলে মানেনি। ইবন কাসীর দুই অংশকে মিলিয়ে একটি বর্ণনা বানান: সীমালঙ্ঘনকারী, যারা আল্লাহর নিদর্শনকে মিথ্যা বলে। তাঁর ভাষায় বাড়াবাড়ি আর অস্বীকার তাই একই ছবির দুই রেখা।"
+          },
+          {
+            "en": "As-Sa'di describes the signs themselves. They point, he says, to everything that faith requires, and they point clearly and explicitly. The remark prepares his next sentence, taken up below. If the signs were that plain, the refusal to believe cannot be put down to a lack of evidence; its cause lies in the person who refused.",
+            "bn": "সা'দী বলেন নিদর্শনগুলোর নিজেদের কথা। তাঁর ভাষায়, ঈমানের যত দাবি আছে, সবকিছুর দিকেই এগুলো ইঙ্গিত করে, আর সে ইঙ্গিত স্পষ্ট ও খোলাখুলি। এ মন্তব্য তাঁর পরের বাক্যের ভূমিকা, যার আলোচনা সামনে আসছে। নিদর্শন যদি এত পরিষ্কার হয়, তবে ঈমান না আনার দায় প্রমাণের অভাবের উপর চাপানো যায় না। কারণটা থাকে অস্বীকারকারীর নিজের ভেতরেই।"
+          },
+          {
+            "en": "Al-Qurtubi widens what was turned away from. In his gloss on kadhalika, the person recompensed turned away from the Qur'an, and from looking at the things Allah has made and reflecting on them. His gloss thus places the neglect of both, the verses recited and the signs in creation, behind the recompense. The verse's own wording also reaches back: the same word ayat comes in 20:126, Our signs came to you and you forgot them.",
+            "bn": "কুরতুবী মুখ ফেরানোর পরিধিটা বড় করে দেখান। কাযালিকার ব্যাখ্যায় তিনি বলেন, যাকে প্রতিফল দেওয়া হচ্ছে সে মুখ ফিরিয়েছিল কুরআন থেকে, আর আল্লাহর সৃষ্টির দিকে তাকানো ও তা নিয়ে ভাবা থেকেও। তাঁর ব্যাখ্যায় তাই প্রতিফলের পেছনে আছে দুটোরই অবহেলা: তিলাওয়াত করা আয়াত, আর সৃষ্টিতে ছড়ানো নিদর্শন। আয়াতের নিজের শব্দও পেছনে ফিরে যায়। আয়াত শব্দটি ২০:১২৬ আয়াতেও এসেছে: আমার নিদর্শন তোমার কাছে এসেছিল, আর তুমি তা ভুলে গিয়েছিলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Wrong in the Repayment",
+          "bn": "প্রতিফলে কোনো জুলুম নেই"
+        },
+        "p": [
+          {
+            "en": "Najzi: We recompense. At-Tabari glosses it with nuthibu, We repay: We repay whoever transgressed and disobeyed his Lord, and did not believe in His messengers and His books, and We make for him a narrow living in the barzakh, as we have already explained. With that last phrase he ties this verse back to his own reading of 20:124, and the recompense he means here begins in the grave.",
+            "bn": "নাজযী: আমি প্রতিফল দিই। তাবারী এর ব্যাখ্যা দেন নুসীবু শব্দে, অর্থাৎ আমি বদলা দিই। তাঁর ভাষায়: যে সীমা ছাড়িয়ে রবের নাফরমানি করেছে, তাঁর রসূল ও কিতাবে ঈমান আনেনি, তাকে আমি বদলা দিই। বারযাখে তার জন্য সংকীর্ণ জীবন করে দিই, যেমনটা আগেই ব্যাখ্যা করেছি। শেষ কথাটুকু দিয়ে তিনি এ আয়াতকে জুড়ে দেন ২০:১২৪ আয়াতে তাঁর নিজের ব্যাখ্যার সঙ্গে। এখানে তিনি যে প্রতিফলের কথা বলছেন, তা শুরু হয় কবর থেকে।"
+          },
+          {
+            "en": "As-Sa'di draws the moral consequence of the clear signs. Allah did not wrong him, he says, and did not place the punishment anywhere but where it belongs; the cause is only his own transgression and his lack of faith. The recompense is not a blow that falls from outside a person's life. It is the outcome of two things he himself did.",
+            "bn": "স্পষ্ট নিদর্শনের কথা থেকে সা'দী এর নৈতিক ফল টেনে আনেন। তিনি বলেন, আল্লাহ তার উপর জুলুম করেননি, শাস্তিকে তার জায়গা ছাড়া অন্য কোথাও রাখেননি। কারণ কেবল তার নিজের সীমালঙ্ঘন আর ঈমান না আনা। প্রতিফল মানুষের জীবনের বাইরে থেকে এসে পড়া কোনো আঘাত নয়। তা তার নিজের করা দুটি কাজেরই পরিণাম।"
+          },
+          {
+            "en": "The same shape is visible in 20:126. There the forgetting of the signs is answered by being forgotten; here the excess and the unbelief are answered by recompense. In both the conduct comes first and the outcome second, and kadhalika, thus, holds them together. Ibn Kathir, by adding in this world and in the Hereafter, starts that recompense before the Day.",
+            "bn": "একই গড়ন দেখা যায় ২০:১২৬ আয়াতে। সেখানে নিদর্শন ভুলে যাওয়ার জবাব নিজে ভুলে থাকা হওয়া। এখানে বাড়াবাড়ি আর কুফরের জবাব প্রতিফল। দুই জায়গাতেই আগে আচরণ, পরে পরিণাম, আর কাযালিকা, এভাবেই, শব্দটি দুটোকে বেঁধে রাখে। ইবন কাসীর দুনিয়াতেও, আখিরাতেও কথাটি যোগ করে সেই প্রতিফলের শুরু কিয়ামতের আগেই ধরেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Harder Than What Came Before",
+          "bn": "আগের সব কষ্টের চেয়ে কঠিন"
+        },
+        "p": [
+          {
+            "en": "Wa la-'adhabu al-akhirati ashaddu: and the punishment of the Hereafter is more severe. A comparative needs something on its other side, and the commentators name that other side differently. Ibn Kathir and as-Sa'di set it against the punishment of this world. Ibn Kathir has more severe in pain than the punishment of this world. As-Sa'di has more severe than the punishment of this world, many times over.",
+            "bn": "ওয়া লা'আযাবুল আখিরাতি আশাদ্দু: আর আখিরাতের আযাব অবশ্যই বেশি কঠিন। তুলনা করতে হলে অপর পাশে কিছু একটা থাকা চাই, আর সেই অপর পাশে কী, তা তাফসীরকারেরা ভিন্ন ভিন্নভাবে বলেন। ইবন কাসীর ও সা'দী তুলনা করেন দুনিয়ার আযাবের সঙ্গে। ইবন কাসীরের ভাষায়: দুনিয়ার আযাবের চেয়ে যন্ত্রণায় বেশি কঠিন। সা'দীর ভাষায়: দুনিয়ার আযাবের চেয়ে কঠিন, বহু বহু গুণ।"
+          },
+          {
+            "en": "At-Tabari sets it against the grave: more severe for them than the narrow living I promised them in the grave. Al-Qurtubi names two things: more dreadful than the narrow living and than the punishment of the grave. Al-Baghawi also names two, but a different pair: more severe than what He punishes them with in this world and in the grave. The Muyassar reads the recompense of the verse's first half as punishments in this world, and sets the Hereafter's, prepared for them, above it in pain.",
+            "bn": "তাবারী তুলনা করেন কবরের সঙ্গে: কবরে তাদের যে সংকীর্ণ জীবনের প্রতিশ্রুতি দিয়েছি, তার চেয়েও কঠিন। কুরতুবী দুটি জিনিসের নাম নেন: সংকীর্ণ জীবনের চেয়ে এবং কবরের আযাবের চেয়েও ভয়াবহ। বাগাভীও দুটির নাম নেন, তবে জোড়াটা আলাদা: দুনিয়ায় আর কবরে তিনি তাদের যে শাস্তি দেন, তার চেয়ে কঠিন। মুয়াসসার আয়াতের প্রথম অংশের প্রতিফলকে বোঝে দুনিয়ার শাস্তি হিসেবে। আর তাদের জন্য প্রস্তুত আখিরাতের আযাবকে রাখে তার উপরে, যন্ত্রণায় আরও বেশি।"
+          },
+          {
+            "en": "These differences follow from how each reads the narrow life of 20:124, and that verse's article sets them out. Here it is enough to see that whatever stands on the other side of the comparison, the Hereafter's punishment outweighs it. Ibn Kathir supports his reading with 13:34: for them is punishment in the life of this world, and the punishment of the Hereafter is harder, and they have no protector from Allah. There the word is ashaqq, harder to bear.",
+            "bn": "এ পার্থক্যগুলো এসেছে ২০:১২৪ আয়াতের সংকীর্ণ জীবনকে কে কীভাবে বোঝেন তা থেকে, আর সে আলোচনা আছে ওই আয়াতের প্রবন্ধে। এখানে এটুকু দেখাই যথেষ্ট: তুলনার অপর পাশে যা-ই থাকুক, আখিরাতের আযাব তাকে ছাড়িয়ে যায়। ইবন কাসীর নিজের পাঠের পক্ষে আনেন ১৩:৩৪ আয়াত: তাদের জন্য দুনিয়ার জীবনে আযাব আছে, আর আখিরাতের আযাব আরও কষ্টকর, আর আল্লাহর হাত থেকে তাদের রক্ষা করার কেউ নেই। সেখানে শব্দটি আশাক্ক, অর্থাৎ সহ্য করা আরও কঠিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Abqa, With No End",
+          "bn": "আবকা: যার শেষ নেই"
+        },
+        "p": [
+          {
+            "en": "Wa abqa: and more lasting. At-Tabari says more lasting than the narrow living, because it runs to no term and no end. Al-Qurtubi and the Muyassar use the same pair of words, more lasting and more fixed, and give the same reason: it is not cut off and it does not run out. Al-Baghawi gives only more lasting. Ibn Kathir draws out what this means for those in it: it is more lasting upon them, for they abide in it forever.",
+            "bn": "ওয়া আবকা: আর বেশি স্থায়ী। তাবারী বলেন, সংকীর্ণ জীবনের চেয়ে বেশি স্থায়ী, কারণ এর কোনো মেয়াদ নেই, কোনো শেষও নেই। কুরতুবী ও মুয়াসসার একই দুটি শব্দ ব্যবহার করেন, বেশি স্থায়ী ও বেশি অটল, আর কারণও দেন একই: তা কখনো কাটে না, কখনো ফুরায় না। বাগাভী শুধু বলেন, বেশি স্থায়ী। ইবন কাসীর দেখান, যারা এতে থাকবে তাদের জন্য এর অর্থ কী: তাদের উপর তা বেশি স্থায়ী, কারণ তারা সেখানে চিরকাল থাকবে।"
+          },
+          {
+            "en": "As-Sa'di frames the contrast in one line: the Hereafter's punishment does not stop, unlike the punishment of this world, which does. Every worldly pain, however hard, carries its own end within it. The verse joins both comparisons, harder and longer, so that neither can be set against the other, and from this as-Sa'di draws the conclusion the closing section returns to.",
+            "bn": "সা'দী পার্থক্যটা এক বাক্যে ধরেন: আখিরাতের আযাব থামে না, দুনিয়ার আযাবের মতো নয়, যা একসময় থেমে যায়। দুনিয়ার প্রতিটি কষ্ট, যত কঠিনই হোক, নিজের ভেতরে নিজের শেষটা বয়ে আনে। আয়াতটি দুটি তুলনাই একসঙ্গে রাখে, বেশি কঠিন আর বেশি দীর্ঘ, যাতে একটা দিয়ে অন্যটাকে হালকা করা না যায়। এখান থেকে সা'দী যে সিদ্ধান্তে পৌঁছান, শেষ অংশে তা আবার আসবে।"
+          },
+          {
+            "en": "The pair ashaddu and abqa has been heard before in this surah. In 20:71 Pharaoh threatens the sorcerers who have believed: you will surely know which of us is more severe in punishment and more lasting. Here the same two words return and are given to the punishment of the Hereafter. The surah also uses abqa of what is good: of Allah in 20:73, and of His provision in 20:131, better and more lasting.",
+            "bn": "আশাদ্দু আর আবকা, এই জোড়া এ সূরায় আগেও শোনা গেছে। ২০:৭১ আয়াতে ফেরাউন ঈমান আনা জাদুকরদের হুমকি দেয়: তোমরা অবশ্যই জানবে, আমাদের মধ্যে কার শাস্তি বেশি কঠিন আর বেশি স্থায়ী। এখানে সেই দুটি শব্দই ফিরে আসে, আর তা দেওয়া হয় আখিরাতের আযাবকে। আবকা শব্দটি এ সূরা ভালো জিনিসের বেলাতেও ব্যবহার করে: ২০:৭৩ আয়াতে আল্লাহ সম্পর্কে, আর ২০:১৩১ আয়াতে তাঁর রিযক সম্পর্কে, উত্তম ও বেশি স্থায়ী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken Before the Oaths",
+          "bn": "শপথের আগে বলা কথা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir closes his comment with a narration. The Messenger of Allah ﷺ, he says, told the two spouses who took the oaths of li'an that the punishment of this world is lighter than the punishment of the Hereafter. Li'an is the exchange of sworn testimonies in Surat an-Nur, between a husband who accuses his wife and a wife who denies it, and the narration itself shows how it was done.",
+            "bn": "ইবন কাসীর তাঁর ব্যাখ্যা শেষ করেন একটি বর্ণনা দিয়ে। তিনি বলেন, লিআনের শপথ করতে যাওয়া স্বামী-স্ত্রীকে আল্লাহর রসূল ﷺ বলেছিলেন, দুনিয়ার আযাব আখিরাতের আযাবের চেয়ে হালকা। লিআন হলো সূরা নূরে বর্ণিত পারস্পরিক শপথের বিধান। স্বামী স্ত্রীর বিরুদ্ধে অভিযোগ আনে, স্ত্রী তা অস্বীকার করে, আর দুজনেই শপথ করে সাক্ষ্য দেয়। কাজটা কীভাবে হয়েছিল, বর্ণনাটিই তা দেখিয়ে দেয়।"
+          },
+          {
+            "en": "Muslim records it (1493) from Sa'id ibn Jubayr, from Ibn 'Umar (RA). A man asked the Prophet ﷺ what one should do on finding his wife in indecency, then came back later to say that what he had asked about had befallen him, and the verses of Surat an-Nur were revealed. In Muslim's wording the Prophet ﷺ recited them to him, \"and admonished him, and exhorted him and informed him that the torment of the world is less painful than the torment of the Hereafter.\" He then did the same with the wife.",
+            "bn": "মুসলিম এটি বর্ণনা করেছেন (১৪৯৩) সাঈদ ইবন জুবাইর থেকে, তিনি ইবন উমার (রাঃ) থেকে। এক ব্যক্তি নবী ﷺ-কে জিজ্ঞেস করেছিল, কেউ যদি নিজের স্ত্রীকে অশ্লীল কাজে দেখে, সে কী করবে। পরে সে এসে জানায়, যে বিষয়ে সে জিজ্ঞেস করেছিল তা তার নিজের জীবনেই ঘটেছে। তখন সূরা নূরের আয়াতগুলো নাযিল হয়। মুসলিমের পাঠে নবী ﷺ আয়াতগুলো তাকে তিলাওয়াত করে শোনালেন, \"তাকে উপদেশ দিলেন, স্মরণ করিয়ে দিলেন, আর জানালেন যে দুনিয়ার আযাব আখিরাতের আযাবের চেয়ে হালকা।\" এরপর স্ত্রীর সঙ্গেও তিনি একই কাজ করলেন।"
+          },
+          {
+            "en": "The narration is in Muslim's Sahih. It was not said about this verse: it was said at the li'an, and Ibn Kathir brings it here because it states the same comparison. The words came to both spouses before either swore, and in Muslim's account each then went ahead with the oaths, after which the Prophet ﷺ separated them. None of the tafsirs fetched for this verse attaches a sound hadith to the verse itself.",
+            "bn": "বর্ণনাটি মুসলিমের সহীহ গ্রন্থে আছে। তবে কথাটি এ আয়াত সম্পর্কে বলা হয়নি, বলা হয়েছিল লিআনের সময়। ইবন কাসীর এখানে এনেছেন, কারণ এতেও একই তুলনা আছে। শপথের আগেই কথাটি দুজনকে শোনানো হয়েছিল। মুসলিমের বর্ণনায় এরপর দুজনেই শপথ করে, আর তারপর নবী ﷺ তাদের আলাদা করে দেন। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে সরাসরি যুক্ত কোনো সহীহ হাদীস আনে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear Kept for Oneself",
+          "bn": "ভয়টা রাখুন নিজের জন্য"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di ends with what the verse requires: what is obligatory is fear of the punishment of the Hereafter, and caution against it. It does not invite him to estimate who else has transgressed or whose unbelief has earned what. It invites him to measure his own conduct against a punishment that is harder than anything he knows, and that does not end.",
+            "bn": "সা'দী শেষ করেন আয়াতের দাবি দিয়ে: ওয়াজিব হলো আখিরাতের আযাবকে ভয় করা, আর তা থেকে সাবধান থাকা। অন্য কে সীমা ছাড়িয়েছে, কার কুফর কী ডেকে এনেছে, তার হিসাব কষতে আয়াত ডাকে না। ডাকে নিজের আমলকে এমন এক আযাবের সামনে মেপে দেখতে, যা তার জানা যেকোনো কষ্টের চেয়ে কঠিন, আর যা কখনো শেষ হয় না।"
+          },
+          {
+            "en": "This also needs saying plainly. The verse describes, in general terms, a person who transgresses and does not believe, and what awaits that conduct. It names no living person or community, and it licenses nothing against anyone: not contempt, not harm, and not a verdict on another person's end. The judgment it speaks of belongs to Allah alone.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি সাধারণভাবে বর্ণনা করে এমন মানুষের কথা, যে সীমা ছাড়ায় আর ঈমান আনে না, আর সেই আচরণের জন্য কী অপেক্ষা করছে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের নাম এতে নেই। কারও বিরুদ্ধে কোনো কিছুর অনুমতিও এ আয়াত দেয় না: না অবজ্ঞার, না ক্ষতি করার, না অন্যের পরিণাম নিয়ে রায় দেওয়ার। যে বিচারের কথা এখানে, তা একমাত্র আল্লাহর।"
+          },
+          {
+            "en": "The next verse, 20:128, turns to the generations destroyed before, whose dwellings the listeners walk among, and calls them signs for people of understanding. Read side by side, the two verses set the ruins of this world next to the lasting punishment of the Hereafter. The reader is meant to look at both, and to change course while the signs can still be believed rather than forgotten.",
+            "bn": "পরের আয়াত, ২০:১২৮, ফিরে তাকায় আগে ধ্বংস হয়ে যাওয়া প্রজন্মগুলোর দিকে, যাদের বসতির ভেতর দিয়ে শ্রোতারা চলাফেরা করে। আয়াতটি সেগুলোকে বলে বুদ্ধিমানদের জন্য নিদর্শন। দুটি আয়াত পাশাপাশি পড়লে দেখা যায়, দুনিয়ার ধ্বংসাবশেষ আর আখিরাতের স্থায়ী আযাব রাখা হয়েছে একটার পাশে আরেকটা। পাঠকের কাজ দুটোর দিকেই তাকানো, আর নিদর্শন ভুলে যাওয়ার আগেই, যখন তাতে ঈমান আনার সুযোগ আছে, পথ বদলে ফেলা।"
+          }
+        ]
+      }
+    ]
+  },
   "20:130": {
     "sections": [
       {
