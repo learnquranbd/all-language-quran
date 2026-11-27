@@ -33743,6 +33743,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Honour every prophet and leave the ranking of His servants to Allah, who knows them best; never let talk of virtue turn into rivalry or contempt.",
     "lessonBn": "প্রত্যেক নবীকে সম্মান করুন, আর বান্দাদের মর্যাদা নির্ধারণের ভার ছেড়ে দিন আল্লাহর উপর, যিনি তাদের সবচেয়ে ভালো জানেন। মর্যাদার আলোচনাকে কখনো রেষারেষি বা অবজ্ঞায় গড়াতে দেবেন না।"
+  },
+  "17:61": {
+    "reflectionEn": "The angels were given one command, and every one of them obeyed except one. He did not simply refuse. He asked a question: shall I bow down to one You made from clay? It sounds like reasoning. It names a material, draws a comparison and seems to wait for an answer. Yet beneath the question sat a verdict already passed, that he was better and the other was less. A question can be an honest search, or it can be a refusal dressed up as one. The verse asks me to notice which kind I ask. When a clear command reaches me, do I question it in order to understand and obey, or so that I never have to?",
+    "reflectionBn": "ফেরেশতাদের একটিই আদেশ দেওয়া হয়েছিল, আর একজন ছাড়া সবাই তা মেনে নিল। সে কেবল অস্বীকার করেনি, প্রশ্নও তুলেছিল: যাকে আপনি মাটি দিয়ে বানিয়েছেন, তাকে আমি সিজদা করব? শুনতে যুক্তির মতো লাগে। একটা উপাদানের নাম আছে, একটা তুলনা আছে, যেন জবাবের অপেক্ষাও আছে। কিন্তু প্রশ্নের নিচে আগেই একটা রায় দেওয়া হয়ে গিয়েছিল: আমি বড়, ও ছোট। প্রশ্ন সত্যিকারের খোঁজ হতে পারে। আবার খোঁজের পোশাক পরা অস্বীকারও হতে পারে। আয়াতটি আমাকে দেখতে বলে, আমার প্রশ্ন কোন জাতের। স্পষ্ট কোনো আদেশ সামনে এলে আমি কি বুঝে নিয়ে মানার জন্য প্রশ্ন করি, নাকি যাতে কখনো মানতে না হয় সেজন্য?",
+    "pointsEn": [
+      "When I question something I have plainly been told to do, am I looking for understanding, or for a way out?",
+      "Whose origin, family or appearance have I quietly weighed against my own before deciding how to treat them?",
+      "What gift given to someone else have I resented, as though it had been taken from me?",
+      "Is there a command I already know that I keep postponing until its wisdom is explained to my satisfaction?",
+      "The next time I go down in prostration, can I make it my answer to the question pride keeps asking?"
+    ],
+    "pointsBn": [
+      "যে কাজের আদেশ আমাকে পরিষ্কার করে দেওয়া হয়েছে, তা নিয়ে প্রশ্ন তোলার সময় আমি কী খুঁজি: বোঝার পথ, নাকি পালানোর পথ?",
+      "কারও বংশ, পরিবার বা চেহারা নিজের সঙ্গে মনে মনে মেপে নিয়ে তারপর তার সঙ্গে আচরণ ঠিক করেছি, এমন মানুষটি কে?",
+      "অন্য কাউকে দেওয়া কোন নিয়ামত দেখে আমার মনে জ্বালা ধরেছে, যেন ওটা আমার কাছ থেকেই কেড়ে নেওয়া হয়েছে?",
+      "এমন কোনো আদেশ কি আছে, যা আমি জানি, তবু ফেলে রাখছি এই অপেক্ষায় যে কেউ আমার মনমতো করে তার হিকমত বুঝিয়ে দেবে?",
+      "পরের বার যখন সিজদায় যাব, অহংকার বারবার যে প্রশ্ন তোলে, সিজদাটাকে কি তার জবাব বানাতে পারব?"
+    ],
+    "lessonEn": "When a clear command of Allah reaches you, do not hide a refusal inside a question; judge no one by their origin, and let your prostration answer your pride.",
+    "lessonBn": "আল্লাহর স্পষ্ট আদেশ সামনে এলে প্রশ্নের আড়ালে অস্বীকার লুকাবেন না। কাউকে তার জন্ম-উপাদান দিয়ে বিচার করবেন না, আর আপনার সিজদাই হোক অহংকারের জবাব।"
   }
 };
 

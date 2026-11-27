@@ -3063,6 +3063,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:61": {
+    "sections": [
+      {
+        "h": {
+          "en": "After a Warning Went Unheeded",
+          "bn": "সতর্কবাণী উপেক্ষার পরে"
+        },
+        "p": [
+          {
+            "en": "Wa-idh qulna lil-mala'ikati sjudu li-Adam: and when We said to the angels, prostrate to Adam. The verse follows straight on from 17:60, which ends with a warning that only increases the deniers in great transgression. At-Tabari reads the link from there. Allah tells His Prophet ﷺ: remember, Muhammad, how far these polytheists have gone in their error, growing more defiant towards their Lord the more He warns them, and so making good the claim of their enemy, who is also their father's enemy.",
+            "bn": "ওয়া ইয কুলনা লিল-মালাইকাতিসজুদূ লি-আদাম: আর যখন আমি ফেরেশতাদের বললাম, আদমকে সিজদা করো। আয়াতটি এসেছে ঠিক ১৭:৬০-এর পরে, যার শেষ কথা হলো, সতর্কবাণী অস্বীকারকারীদের চরম অবাধ্যতাই কেবল বাড়ায়। তাবারী সংযোগটা সেখান থেকেই পড়েন। আল্লাহ তাঁর নবী ﷺ-কে বলছেন: হে মুহাম্মাদ, স্মরণ করো, এই মুশরিকরা নিজেদের গোমরাহিতে কতদূর এগিয়েছে। তিনি যত সতর্ক করেন, রবের প্রতি তাদের ঔদ্ধত্য তত বাড়ে। এভাবে তারা সত্য করে দেখায় তাদের শত্রুর দাবি, যে তাদের পিতারও শত্রু।"
+          },
+          {
+            "en": "That claim, at-Tabari says, is the one Iblis made when his Lord commanded him to prostrate and he disobeyed, out of envy and arrogance: if You delay me to the Day of Resurrection, I will master his offspring, all but a few (17:62). The polytheists, he adds, confirmed Iblis's opinion of them, opposed their Lord's command and followed their enemy's. Al-Qurtubi gives the same sense, and a second link: Satan had already been named as man's enemy, most plainly at 17:53, so the talk was drawn on to Adam (AS).",
+            "bn": "তাবারী বলেন, দাবিটা ইবলীসের। রব তাকে সিজদার আদেশ দিলে হিংসা আর অহংকারে সে নাফরমানি করেছিল এবং বলেছিল: আপনি যদি আমাকে কিয়ামত পর্যন্ত অবকাশ দেন, তবে অল্প কয়েকজন ছাড়া তার বংশধরদের আমি কবজা করে ফেলব (১৭:৬২)। তাবারী যোগ করেন, মুশরিকরা তাদের সম্পর্কে ইবলীসের ধারণাকেই সত্য প্রমাণ করেছে। রবের আদেশ অমান্য করে তারা শত্রুর আদেশ মেনেছে। কুরতুবীও একই অর্থ দেন, সঙ্গে আরেকটি সংযোগ। শয়তানকে আগেই মানুষের শত্রু বলা হয়েছে, সবচেয়ে স্পষ্টভাবে ১৭:৫৩ আয়াতে। তাই কথা গড়িয়ে আদম (আঃ)-এর প্রসঙ্গে এসেছে।"
+          },
+          {
+            "en": "As-Sa'di puts the purpose from the reader's side: Allah alerts His servants to how fierce Satan's enmity is and how eager he is to lead them astray. Ibn Kathir calls it an ancient enmity, dating from the creation of Adam. The scene is told in several surahs, and shipped articles on 7:12, 15:33, 18:50 and 38:76 already treat much of it, so this article stays with what al-Isra adds. The verse describes Iblis and, in at-Tabari's reading, the deniers of Makkah; it licenses nothing against any living person or community.",
+            "bn": "সা'দী উদ্দেশ্যটা বলেন পাঠকের দিক থেকে। আল্লাহ তাঁর বান্দাদের সতর্ক করছেন, শয়তানের শত্রুতা কত তীব্র আর তাদের পথভ্রষ্ট করতে সে কতটা মরিয়া। ইবন কাসীর একে বলেন পুরনো শত্রুতা, যার শুরু আদমের সৃষ্টির সময় থেকে। দৃশ্যটি কয়েকটি সূরায় এসেছে। ৭:১২, ১৫:৩৩, ১৮:৫০ আর ৩৮:৭৬ আয়াতের প্রকাশিত প্রবন্ধে এর অনেকটাই আলোচিত। তাই এখানে কেবল সেটুকু, যা সূরা ইসরা নতুন যোগ করে। আয়াতটি ইবলীসের কথা বলে, আর তাবারীর পাঠে মক্কার অস্বীকারকারীদের কথা। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো অনুমতি দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eight Shared Words, a New Close",
+          "bn": "আট শব্দ এক, শেষটা নতুন"
+        },
+        "p": [
+          {
+            "en": "The first eight Arabic words of this verse, from wa-idh to illa Iblis, stand word for word at the opening of 2:34, 18:50 and 20:116. Each surah then closes the sentence differently. In 2:34 he refused, was arrogant and was of the disbelievers. In 20:116, simply, he refused. In 18:50 he was of the jinn and departed from his Lord's command. Only here does the line end with Iblis speaking: qala a-asjudu li-man khalaqta tinan, he said, shall I prostrate to one You created of clay? Five words, and all of them his.",
+            "bn": "এ আয়াতের প্রথম আটটি আরবি শব্দ, ওয়া ইয থেকে ইল্লা ইবলীস পর্যন্ত, হুবহু একই রূপে আছে ২:৩৪, ১৮:৫০ আর ২০:১১৬ আয়াতের শুরুতে। তারপর প্রতিটি সূরা বাক্যটা শেষ করে আলাদাভাবে। ২:৩৪-এ সে অস্বীকার করল, অহংকার করল এবং কাফিরদের অন্তর্ভুক্ত হলো। ২০:১১৬-এ শুধু এটুকু: সে অস্বীকার করল। ১৮:৫০-এ সে ছিল জিনদের একজন, আর রবের আদেশ থেকে বেরিয়ে গেল। কেবল এখানেই বাক্যের শেষে ইবলীস নিজে কথা বলে: কালা আ-আসজুদু লিমান খালাকতা তীনা, সে বলল, যাকে আপনি মাটি থেকে বানিয়েছেন, তাকে আমি সিজদা করব? পাঁচটি শব্দ, সবগুলোই তার নিজের।"
+          },
+          {
+            "en": "Elsewhere the same stance is a statement. In 7:12 and 38:76 he says, I am better than him, You created me from fire and created him from clay. In 15:33 it is a flat refusal: never would I prostrate to a human You created from ringing clay of altered black mud. Here it is folded into a question, and only the clay is named. The fire and the word better are left unsaid. The commentators supply them: Ibn Kathir sets 7:12 beside the verse, and as-Sa'di adds that he claimed to be better because he was made of fire.",
+            "bn": "অন্য জায়গায় একই মনোভাব এসেছে সোজা ঘোষণায়। ৭:১২ ও ৩৮:৭৬ আয়াতে সে বলে, আমি তার চেয়ে উত্তম, আমাকে আপনি আগুন থেকে আর তাকে মাটি থেকে সৃষ্টি করেছেন। ১৫:৩৩ আয়াতে সরাসরি প্রত্যাখ্যান: পচা কালো কাদার শুকনো ঠনঠনে মাটি থেকে যে মানুষকে আপনি বানিয়েছেন, তাকে আমি কখনো সিজদা করার নই। এখানে কথাটা ভাঁজ করে রাখা হয়েছে প্রশ্নের ভেতরে, আর নাম এসেছে শুধু মাটির। আগুনের কথা নেই, উত্তম শব্দটাও নেই। তাফসীরকারেরা সেটুকু পূরণ করে দেন। ইবন কাসীর আয়াতটির পাশে ৭:১২ রাখেন। সা'দী যোগ করেন, আগুনের তৈরি বলে সে নিজেকে উত্তম দাবি করত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked, but Not to Learn",
+          "bn": "প্রশ্ন, তবে জানার জন্য নয়"
+        },
+        "p": [
+          {
+            "en": "What kind of question is it? Al-Qurtubi names it in three words: wa-hadha istifham inkar, and this is a question of denial. It does not seek information. It rejects the thing it asks about. The Muyassar agrees and adds the tone: he refused to prostrate, saying it by way of denial and arrogance, shall I prostrate to this weakling, created from clay? The word weak is the Muyassar's gloss, not the verse's, but it catches what the hamza of a-asjudu carries here: not puzzlement, but scorn.",
+            "bn": "প্রশ্নটা কোন ধরনের? কুরতুবী তিনটি শব্দে নাম দেন: ওয়া হাযা ইসতিফহামু ইনকার, এটি অস্বীকারের প্রশ্ন। এতে কিছু জানতে চাওয়া হয় না। যা নিয়ে প্রশ্ন, সেটাকেই নাকচ করা হয়। মুয়াসসার একমত, আর সুরটাও ধরিয়ে দেয়। সে সিজদা করতে অস্বীকার করল এবং অস্বীকার ও অহংকারের ভঙ্গিতে বলল: মাটির তৈরি এই দুর্বলটাকে আমি সিজদা করব? দুর্বল শব্দটা মুয়াসসারের ব্যাখ্যা, আয়াতের নয়। তবে আ-আসজুদু শব্দের প্রশ্নবোধক হামযা এখানে যা বহন করে, শব্দটা তা ঠিকই ধরে। এতে বিস্ময় নেই, আছে তাচ্ছিল্য।"
+          },
+          {
+            "en": "Ibn Kathir names the same two feelings from the other side. Iblis was arrogant and refused to prostrate to him, iftikharan 'alayhi wa-htiqaran lahu: boasting over him and holding him in contempt. At-Tabari, explaining the clause, calls him al-jahil, the ignorant one, who boasts over Adam that he himself was created from fire and Adam from clay. So the commentators agree on what the question was for. It was a verdict in the grammar of a question, one that already knew its own answer.",
+            "bn": "একই দুটি অনুভূতি ইবন কাসীর ধরেন অন্য দিক থেকে। ইবলীস অহংকার করল আর তাঁকে সিজদা করতে অস্বীকার করল, ইফতিখারান আলাইহি ওয়াহতিকারান লাহু: তাঁর উপর বড়াই করে আর তাঁকে তুচ্ছ জ্ঞান করে। বাক্যাংশটি ব্যাখ্যা করতে গিয়ে তাবারী তাকে বলেন আল-জাহিল, সেই মূর্খ, যে আদমের উপর বড়াই করে যে সে নিজে আগুনের তৈরি আর আদম মাটির। প্রশ্নটা কিসের জন্য ছিল, সে ব্যাপারে তাফসীরকারেরা তাই একমত। এটা ছিল প্রশ্নের ব্যাকরণে বাঁধা এক রায়। উত্তর তার আগে থেকেই জানা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tinan, With Its Preposition Gone",
+          "bn": "তীনা: অব্যয়টি যেখানে ঝরে গেছে"
+        },
+        "p": [
+          {
+            "en": "The last word is tinan, clay, and at-Tabari pauses on its grammar. The sense, he says, is li-man khalaqtahu min tin, one whom You created from clay. When the preposition min was dropped, the verb khalaqta took hold of the noun directly, and so it stands in the accusative. Al-Qurtubi, as-Sa'di and al-Baghawi gloss the word the same way, ay min tin, that is, from clay. None of the commentators fetched for this verse offers another parsing, so the meaning is settled: Adam is described by the stuff he was made from.",
+            "bn": "শেষ শব্দটি তীনা, মাটি। তাবারী এর ব্যাকরণে একটু থামেন। তাঁর মতে অর্থ হলো লিমান খালাকতাহু মিন তীন, যাকে আপনি মাটি থেকে সৃষ্টি করেছেন। মিন অব্যয়টি বাদ পড়ায় খালাকতা ক্রিয়া সরাসরি বিশেষ্যটিকে আঁকড়ে ধরেছে, তাই শব্দটি যবরযুক্ত। কুরতুবী, সা'দী আর বাগাভী শব্দটির একই ব্যাখ্যা দেন: আই মিন তীন, অর্থাৎ মাটি থেকে। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর ভিন্ন কোনো বিশ্লেষণ দেয় না। অর্থ তাই স্থির। আদমকে এখানে চেনানো হচ্ছে তাঁর গড়ার উপাদান দিয়ে।"
+          },
+          {
+            "en": "That is the whole of Iblis's description of him. The command, as 15:29 and 38:72 report it, was tied to more than clay: when I have proportioned him and breathed into him of My spirit, fall down to him in prostration. The angels bowed to what Allah had made of the clay; Iblis looked only at the clay. And 17:70, a few verses on, says what the children of Adam were given: We have certainly honoured the children of Adam. The single word tinan leaves all of that out.",
+            "bn": "আদম সম্পর্কে ইবলীসের বর্ণনা এটুকুই। অথচ ১৫:২৯ ও ৩৮:৭২ আয়াতে আদেশটা কেবল মাটির সঙ্গে বাঁধা ছিল না: যখন আমি তাকে সুঠাম করব আর তার মধ্যে আমার রূহ ফুঁকে দেব, তখন তোমরা তার সামনে সিজদায় লুটিয়ে পড়বে। মাটি দিয়ে আল্লাহ যা গড়েছেন, ফেরেশতারা সিজদা করেছিল সেটাকে। ইবলীস দেখেছিল শুধু মাটি। কয়েক আয়াত পরে ১৭:৭০ জানায় আদমসন্তানকে কী দেওয়া হয়েছে: আমি অবশ্যই আদমসন্তানকে সম্মানিত করেছি। তীনা শব্দটি এর সবকিছুই বাদ দিয়ে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Clay Iblis Carried",
+          "bn": "ইবলীসের হাতে আনা মাটি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari adds a report that reads the clause another way. Through his chain, from Ibn Humayd through Ya'qub and Ja'far to Sa'id ibn Jubayr, he relays from Ibn Abbas (RA): the Lord of Might sent Iblis, who took from adim al-ard, the surface of the earth, from its sweet soil and its salt, and from it Allah created Adam. Whatever was created from the sweet, the report goes on, is bound for felicity even if born of two disbelievers, and whatever from the salt is bound for wretchedness even if born of two prophets.",
+            "bn": "তাবারী একটি বর্ণনা যোগ করেন, যা বাক্যাংশটি অন্যভাবে পড়ে। ইবন হুমাইদ থেকে ইয়াকূব ও জা'ফর হয়ে সাঈদ ইবন জুবাইর পর্যন্ত নিজের সনদে তিনি ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: মহাপরাক্রমশালী রব ইবলীসকে পাঠালেন। সে আদীমুল আরদ, অর্থাৎ পৃথিবীর উপরিভাগ থেকে মাটি নিল, তার মিষ্টি অংশ থেকেও, লোনা অংশ থেকেও। সেই মাটি থেকে আল্লাহ আদমকে সৃষ্টি করলেন। বর্ণনায় আরও আছে, মিষ্টি মাটি থেকে যা সৃষ্টি, তা সৌভাগ্যের দিকে চলে, যদিও সে দুই কাফিরের সন্তান হয়। আর লোনা মাটি থেকে যা সৃষ্টি, তা দুর্ভাগ্যের দিকে চলে, যদিও সে দুই নবীর সন্তান হয়।"
+          },
+          {
+            "en": "Then comes the link to this verse. That, says the report, is why Iblis said, shall I prostrate to one You created of clay: meaning, this clay, I am the one who brought it. And that, at-Tabari's version adds, is why Adam was so named, because he was created from adim al-ard. Al-Baghawi relays the same from Sa'id ibn Jubayr from Ibn Abbas, with Iblis taking a handful of the earth's dust, and glosses the clause in the same words: You created him from clay that I brought.",
+            "bn": "এরপর আসে এ আয়াতের সঙ্গে সংযোগ। বর্ণনা বলে, এজন্যই ইবলীস বলেছিল, যাকে আপনি মাটি থেকে বানিয়েছেন, তাকে আমি সিজদা করব? অর্থাৎ এই মাটি তো আমিই এনেছি। তাবারীর বর্ণনায় আরও আছে, এ কারণেই আদমের নাম আদম, কারণ তাঁকে সৃষ্টি করা হয়েছে আদীমুল আরদ থেকে। বাগাভীও সাঈদ ইবন জুবাইরের মাধ্যমে ইবন আব্বাস (রাঃ) থেকে একই কথা আনেন। তাঁর বর্ণনায় ইবলীস নেয় পৃথিবীর এক মুঠো ধুলো। বাক্যাংশটির ব্যাখ্যাও তিনি দেন একই ভাষায়: যে মাটি আমি এনেছি, তা থেকেই আপনি তাকে বানিয়েছেন।"
+          },
+          {
+            "en": "This is a saying of Ibn Abbas, not words raised to the Prophet ﷺ, and neither at-Tabari nor al-Baghawi grades it. It gives Iblis's scorn a personal edge: he looked down on the clay he had carried himself. That is an early reading worth knowing, and no more; the verse makes its point without it. Neither commentator draws anything from its line about felicity, and it tells no one how any particular person will end. The handful taken from the whole earth is treated in the shipped article on 15:28.",
+            "bn": "এটি ইবন আব্বাস (রাঃ)-এর বক্তব্য, নবী ﷺ পর্যন্ত পৌঁছানো কথা নয়। তাবারী বা বাগাভী কেউই এর মান নির্ণয় করেননি। বর্ণনাটি ইবলীসের তাচ্ছিল্যে একটা ব্যক্তিগত ধার যোগ করে: যে মাটি সে নিজে বয়ে এনেছিল, সেটাকেই সে হেয় করল। এটি জানার মতো একটি প্রাচীন পাঠ, এর বেশি কিছু নয়। আয়াত এর উপর ভর না দিয়েই নিজের কথা বলে। সৌভাগ্য ও দুর্ভাগ্যের অংশ থেকে দুই তাফসীরকারের কেউ কিছু বের করেননি, আর কোনো নির্দিষ্ট মানুষের শেষ পরিণতি এ থেকে জানা যায় না। পুরো পৃথিবী থেকে নেওয়া এক মুঠো মাটির কথা ১৫:২৮ আয়াতের প্রকাশিত প্রবন্ধে আলোচিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Envy Beneath the Scorn",
+          "bn": "তাচ্ছিল্যের নিচে হিংসা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari names the motive in two words: hasadan wa-stikbaran, out of envy and arrogance. The arrogance is on the surface of the question. The envy shows in the very next verse, where Iblis says what the clay talk was covering: do You see this one whom You have honoured above me? (17:62). So the objection was never really about the material. It was about the honour given to another. The talk of clay let him object to a gift without having to say that he begrudged it.",
+            "bn": "তাবারী মূল কারণটা বলেন দুই শব্দে: হাসাদান ওয়াসতিকবারান, হিংসা আর অহংকারে। অহংকার প্রশ্নের গায়েই লেগে আছে। হিংসা ধরা পড়ে ঠিক পরের আয়াতে, যেখানে মাটির কথার আড়ালে যা ছিল, ইবলীস তা মুখে আনে: আপনি কি দেখছেন, একে আপনি আমার উপর সম্মান দিয়েছেন? (১৭:৬২)। আপত্তিটা তাই আসলে উপাদান নিয়ে ছিল না, ছিল অন্যকে দেওয়া সম্মান নিয়ে। মাটির কথা তুলে সে একটা দানের বিরুদ্ধে আপত্তি জানাতে পারল, অথচ মুখে বলতে হলো না যে দানটা তার সহ্য হচ্ছে না।"
+          },
+          {
+            "en": "Ibn Kathir, reaching that next verse, notes how Iblis speaks: to his Lord, with audacity and disbelief, jur'atan wa-kufran. And he sets beside it a short clause about Allah: wa-r-Rabbu yahlumu wa-yunzir, and the Lord is forbearing and grants respite. The insolence is answered at first by patience, not by an instant end. What Iblis then threatens, and how Allah replies to him in 17:63 to 17:65, belongs to those verses; the shipped article on 17:64 treats the voice, the riders and the share in wealth and children.",
+            "bn": "পরের আয়াতে পৌঁছে ইবন কাসীর লক্ষ করেন ইবলীস কীভাবে কথা বলছে: নিজের রবের সঙ্গে, ধৃষ্টতা আর কুফরি নিয়ে, জুরআতান ওয়া কুফরান। তার পাশেই তিনি আল্লাহ সম্পর্কে ছোট একটি বাক্যাংশ রাখেন: ওয়ার-রাব্বু ইয়াহলুমু ওয়া ইউনযির, আর রব সহনশীল, তিনি অবকাশ দেন। ঔদ্ধত্যের প্রথম জবাব তাই ধৈর্য, তাৎক্ষণিক শেষ নয়। এরপর ইবলীস যে হুমকি দেয় আর ১৭:৬৩ থেকে ১৭:৬৫ আয়াতে আল্লাহ তাকে যে জবাব দেন, তা ওই আয়াতগুলোর বিষয়। কণ্ঠস্বর, অশ্বারোহী বাহিনী আর সম্পদ ও সন্তানে ভাগ বসানোর কথা আছে ১৭:৬৪ আয়াতের প্রকাশিত প্রবন্ধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Question Left Unanswered",
+          "bn": "জবাবহীন রেখে দেওয়া প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an, in its comment filed with 17:62, says Iblis said two things in refusing. The first is the claim in this verse: Adam was made of mud and he of fire, so why should mud be preferred? It calls the question an effort to find out the wisdom of the order before complying, something a person under command has no right to ask. A master, it observes, does not let a servant refuse a task until its purpose is explained. So the question was treated as unworthy of a reply, and none was given.",
+            "bn": "মাআরিফুল কুরআন ১৭:৬২ আয়াতের সঙ্গে রাখা আলোচনায় বলে, অস্বীকারের সময় ইবলীস দুটি কথা বলেছিল। প্রথমটি এটাই: আদম কাদার তৈরি আর সে আগুনের, তাহলে কাদাকে কেন অগ্রাধিকার দেওয়া হবে? মাআরিফের মতে প্রশ্নটা ছিল আদেশ মানার আগে তার হিকমত জেনে নেওয়ার চেষ্টা, আর আদিষ্ট ব্যক্তির এমন দাবি করার অধিকার নেই। মনিব তার চাকরকে এ সুযোগ দেয় না যে কাজের উদ্দেশ্য বুঝিয়ে না দিলে সে কাজটা করবে না। তাই প্রশ্নটাকে জবাবের যোগ্য ধরা হয়নি, কোনো জবাবও দেওয়া হয়নি।"
+          },
+          {
+            "en": "Besides, Ma'arif adds, the answer is plain already: to rank one thing above another is the right of the One who created and nurtured all of them, and whatever He declares superior becomes so. Iblis's second claim, that he would lead Adam's offspring astray, is the one Allah does answer, in the verses that follow. As-Sa'di, for his part, does not argue the analogy again here. He says only that the corruption of this false analogy has been shown before from several angles; the shipped article on 38:76 sets out his answer.",
+            "bn": "তা ছাড়া, মাআরিফ যোগ করে, জবাব তো এমনিতেই স্পষ্ট। একটিকে আরেকটির উপর মর্যাদা দেওয়ার অধিকার তাঁরই, যিনি সবাইকে সৃষ্টি করেছেন ও লালন করেছেন। তিনি যাকে উত্তম ঘোষণা করেন, সেটাই উত্তম হয়ে যায়। ইবলীসের দ্বিতীয় দাবি ছিল, সে আদমের বংশধরদের পথভ্রষ্ট করবে। সেটির জবাব আল্লাহ দিয়েছেন পরের আয়াতগুলোতে। সা'দী এখানে উপমার যুক্তি নিয়ে আর তর্কে যান না। তিনি শুধু বলেন, এই বাতিল কিয়াসের ভ্রান্তি আগেই নানা দিক থেকে দেখানো হয়েছে। তাঁর সেই জবাব ৩৮:৭৬ আয়াতের প্রকাশিত প্রবন্ধে আছে।"
+          },
+          {
+            "en": "The point is narrow, and worth keeping narrow. Nothing in the commentaries faults asking as such, and this very surah records a question put to the Prophet ﷺ, about the ruh, and an answer to it (17:85). What Ma'arif singles out is a question made the price of obedience, the wisdom demanded first and the command obeyed only if the answer satisfies. Iblis's five words are that kind of question. They do not ask Allah to teach him. They ask Him to justify Himself, and they were left, rightly, without a reply.",
+            "bn": "কথাটা সূক্ষ্ম, আর সূক্ষ্ম রাখাই ভালো। তাফসীরগুলোর কোথাও প্রশ্ন করাকে দোষ দেওয়া হয়নি। এই সূরাতেই নবী ﷺ-এর কাছে রূহ সম্পর্কে একটি প্রশ্ন এসেছে, আর তার জবাবও এসেছে (১৭:৮৫)। মাআরিফ আলাদা করে দেখান সেই প্রশ্ন, যাকে আনুগত্যের শর্ত বানানো হয়েছে: আগে হিকমত চাই, জবাব মনঃপূত হলে তবেই আদেশ মানব। ইবলীসের পাঁচ শব্দ ঠিক এমন প্রশ্ন। এগুলো আল্লাহর কাছে শিখতে চায় না। এগুলো চায় আল্লাহ নিজের পক্ষে কৈফিয়ত দিন। তাই সে প্রশ্ন যথার্থভাবেই জবাবহীন রয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Bow That Answers Him",
+          "bn": "যে সিজদা তার জবাব"
+        },
+        "p": [
+          {
+            "en": "Two questions often raised here are left aside by the commentators fetched for this verse. Whether Iblis was an angel or of the jinn is stated at 18:50, and the shipped article there gives the positions. On the prostration itself, the Muyassar glosses the command as tahiyyatan wa-takriman, a greeting and an honour, and none of these texts calls it worship. Al-Qurtubi refers the reader back to his fuller treatment of Adam's creation under al-Baqara and al-An'am, which was not fetched here. None attaches a hadith to the verse.",
+            "bn": "এখানে প্রায়ই যে দুটি প্রশ্ন ওঠে, এ আয়াতের জন্য সংগৃহীত তাফসীরগুলো সেগুলো তোলে না। ইবলীস ফেরেশতা ছিল নাকি জিন, তা ১৮:৫০ আয়াতে বলা আছে, আর সেখানকার প্রকাশিত প্রবন্ধে বিভিন্ন মত দেওয়া আছে। সিজদা প্রসঙ্গে মুয়াসসার আদেশটির ব্যাখ্যা দেয় তাহিয়্যাতান ওয়া তাকরীমান, অভিবাদন ও সম্মান হিসেবে। এসব তাফসীরের কোনোটি একে ইবাদত বলে না। কুরতুবী আদমের সৃষ্টি প্রসঙ্গে পাঠককে সূরা বাকারা ও সূরা আনআমে তাঁর বিস্তারিত আলোচনার দিকে ফিরিয়ে দেন, যা এখানে সংগ্রহ করা হয়নি। কোনো তাফসীরই আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "A general narration, not attached to this verse by any of them, sets the refusal beside every believer's sajdah. Muslim records in his Sahih (81) from Abu Hurayrah (RA) that the Messenger of Allah ﷺ said: when the son of Adam recites the verse of prostration and prostrates, Satan withdraws weeping and says, woe to him, the son of Adam was commanded to prostrate and he prostrated, so Paradise is his, and I was commanded to prostrate and I refused, so the Fire is mine.",
+            "bn": "একটি সাধারণ বর্ণনা আছে, যা তাঁদের কেউ এ আয়াতের সঙ্গে যুক্ত করেননি, তবে এতে ইবলীসের অস্বীকারকে প্রত্যেক মুমিনের সিজদার পাশে রাখা হয়েছে। মুসলিম তাঁর সহীহ গ্রন্থে (৮১) আবূ হুরাইরা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রাসূল ﷺ বলেছেন: আদমসন্তান যখন সিজদার আয়াত তিলাওয়াত করে সিজদা করে, তখন শয়তান কাঁদতে কাঁদতে সরে যায় আর বলে, হায় তার দুর্ভাগ্য! আদমসন্তানকে সিজদার আদেশ দেওয়া হলো, সে সিজদা করল, তাই তার জন্য জান্নাত। আর আমাকে সিজদার আদেশ দেওয়া হয়েছিল, আমি অস্বীকার করলাম, তাই আমার জন্য জাহান্নাম।"
+          },
+          {
+            "en": "Read beside 17:61, the narration turns the verse into a choice that each reader makes again. Iblis was given a clear command and met it with a question that measured, compared and refused. The believer, given the same kind of command, goes down without first asking what the ground is made of. Each time the forehead touches the earth, the clay Iblis scorned bows of its own will, and the question that was left without a reply is answered by the clay itself.",
+            "bn": "১৭:৬১ আয়াতের পাশে রেখে পড়লে বর্ণনাটি আয়াতকে এমন এক বাছাইয়ে পরিণত করে, যা প্রত্যেক পাঠক নতুন করে করে। ইবলীস স্পষ্ট আদেশ পেয়েছিল, আর তার জবাব দিয়েছিল এমন এক প্রশ্নে, যা মেপেছে, তুলনা করেছে, তারপর অস্বীকার করেছে। মুমিন একই রকম আদেশ পেয়ে মাটি কিসের তৈরি তা আগে জিজ্ঞেস না করেই সিজদায় নেমে যায়। যতবার কপাল মাটি ছোঁয়, ইবলীস যে মাটিকে তুচ্ছ করেছিল, সেই মাটিই স্বেচ্ছায় নত হয়। যে প্রশ্নের কোনো জবাব দেওয়া হয়নি, তার জবাব দেয় মাটি নিজেই।"
+          }
+        ]
+      }
+    ]
+  },
   "17:64": {
     "sections": [
       {
