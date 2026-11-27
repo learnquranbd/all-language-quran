@@ -37053,6 +37053,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When obeying Allah touches what you love most, face it openly with those it affects, and promise patience only with 'if Allah wills', never as a boast of your own strength.",
     "lessonBn": "আল্লাহর আদেশ যখন আপনার সবচেয়ে প্রিয় জিনিসে হাত দেয়, যাদের উপর এর প্রভাব পড়বে তাদের নিয়ে খোলাখুলি মুখোমুখি হোন। আর ধৈর্যের কথা দিন শুধু 'ইনশাআল্লাহ' বলে, নিজের শক্তির বড়াই করে নয়।"
+  },
+  "37:140": {
+    "reflectionEn": "Five words, and the first verb is a hard one: abaqa, the word Arabic uses for a servant who slips away from his master. The Qur'an uses it of a man it has just named one of its messengers. It does not dwell on the reason. It shows him making for a ship already loaded to the brim, as if the way out had been waiting for him. Yet a runaway servant still belongs to his master, and the verses that follow bring him back. What stays with me is how easy the leaving looked, and how ready the ship was. When a duty grows heavy, how quickly do I find a door, and do I wait to be given leave before I walk through it?",
+    "reflectionBn": "মাত্র পাঁচটি শব্দ, আর প্রথম ক্রিয়াটাই ভারী: আবাকা। মনিবের ঘর থেকে চুপিসারে সরে পড়া গোলামের বেলায় আরবরা এই শব্দ বলে। ঠিক আগের আয়াতেই কুরআন তাঁকে রাসূলদের একজন বলে ঘোষণা করেছে, তারপর তাঁর চলে যাওয়ার বেলায় বেছে নিয়েছে এই শব্দ। কারণ নিয়ে সে কথা বাড়ায় না। শুধু দেখায়, তিনি চলেছেন কানায় কানায় বোঝাই এক জাহাজের দিকে, যেন বেরোনোর পথ আগে থেকেই তৈরি ছিল। তবু পালানো গোলাম মনিবেরই থাকে, আর পরের আয়াতগুলো তাঁকে ফিরিয়ে আনে। আমাকে ভাবায় এটুকু: চলে যাওয়াটা কত সহজ দেখাচ্ছিল, জাহাজটাও কত তৈরি ছিল। দায়িত্ব ভারী হয়ে উঠলে আমি কত তাড়াতাড়ি একটা দরজা খুঁজে পাই? আর সে দরজা দিয়ে বেরোনোর আগে কি অনুমতির অপেক্ষা করি?",
+    "pointsEn": [
+      "When a responsibility becomes heavy, what is the first ship I look for, and have I ever asked whether it is the right one?",
+      "Have I left a task, a place or a person before I was given leave to go?",
+      "When the way out looks ready and easy, do I take its readiness as permission?",
+      "Do I remember that walking away from a duty does not carry me beyond Allah's reach, or beyond His care?",
+      "Do I measure people by their single hardest moment, or by the whole of what I know of them?"
+    ],
+    "pointsBn": [
+      "দায়িত্ব ভারী হয়ে উঠলে প্রথমে আমি কোন জাহাজ খুঁজি? সেটা ঠিক জাহাজ কি না, কখনো কি জিজ্ঞেস করেছি?",
+      "অনুমতি পাওয়ার আগেই কি আমি কোনো কাজ, কোনো জায়গা বা কোনো মানুষকে ছেড়ে চলে এসেছি?",
+      "বেরোনোর পথ তৈরি আর সহজ দেখালে আমি কি সেটাকেই অনুমতি ধরে নিই?",
+      "আমার কি মনে থাকে যে দায়িত্ব ছেড়ে সরে গেলেও আমি আল্লাহর নাগালের বাইরে যাই না, তাঁর যত্নের বাইরেও না?",
+      "মানুষকে আমি কি তার জীবনের সবচেয়ে কঠিন এক মুহূর্ত দিয়ে মাপি, নাকি তার সম্পর্কে যা জানি তার পুরোটা দিয়ে?"
+    ],
+    "lessonEn": "When a duty grows heavy, do not slip away before you are given leave. No ship carries you beyond Allah's reach, and He brings His servants back.",
+    "lessonBn": "দায়িত্ব ভারী হলে অনুমতি পাওয়ার আগে সরে পড়বেন না। কোনো জাহাজ আপনাকে আল্লাহর নাগালের বাইরে নিতে পারে না, আর তিনি তাঁর বান্দাদের ফিরিয়ে আনেন।"
   }
 };
 

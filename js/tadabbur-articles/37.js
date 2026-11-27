@@ -7047,6 +7047,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:140": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Flight After the Roll-Call",
+          "bn": "রাসূলদের তালিকার পর এক পলায়ন"
+        },
+        "p": [
+          {
+            "en": "Idh abaqa ila al-fulki al-mashhun: when he fled to the laden ship. The verse is five Arabic words, and it hangs on the one before it. In 37:139 the Qur'an states that Yunus (AS) was among the messengers, in the same formula it used for Ilyas (AS) in 37:123 and for Lut (AS) in 37:133. Each time a verse opening with idh, when, follows at once. For Ilyas it is his call to his people; for Lut it is his rescue. For Yunus it is a flight.",
+            "bn": "ইয আবাকা ইলাল ফুলকিল মাশহূন: যখন তিনি পালিয়ে বোঝাই জাহাজের দিকে গেলেন। আয়াতটি আরবিতে পাঁচ শব্দের, আর এর ভর আগের আয়াতের উপর। ৩৭:১৩৯ আয়াতে কুরআন জানিয়েছে, ইউনুস (আঃ) রাসূলদের একজন। ঠিক এই ছাঁচেই সে বলেছিল ইলিয়াস (আঃ)-এর কথা ৩৭:১২৩ আয়াতে, লূত (আঃ)-এর কথা ৩৭:১৩৩ আয়াতে। প্রতিবারই তার পরপর আসে 'ইয', অর্থাৎ 'যখন' দিয়ে শুরু হওয়া একটি আয়াত। ইলিয়াসের বেলায় সেখানে তাঁর কওমকে ডাক। লূতের বেলায় তাঁর উদ্ধার। আর ইউনুসের বেলায় এক পলায়ন।"
+          },
+          {
+            "en": "That placement does real work. Al-Muyassar reads 37:139 and 37:140 as one sentence: Allah chose His servant Yunus and made him one of the messengers, when he fled his town angry with his people and boarded a ship full of passengers and goods. The honour is stated first, and the departure is told inside it. Nothing in the verse withdraws the title it has just given. The account that runs on to 37:148 is the account of a messenger, not of a man who had stopped being one.",
+            "bn": "এই বিন্যাসের একটা কাজ আছে। মুয়াসসার ৩৭:১৩৯ ও ৩৭:১৪০ আয়াতকে একটানা এক বাক্য হিসেবে পড়ে। আল্লাহ তাঁর বান্দা ইউনুসকে বেছে নিয়েছিলেন, রাসূলদের একজন বানিয়েছিলেন। তারপর তিনি নিজের কওমের উপর রাগ করে শহর ছেড়ে পালালেন, উঠলেন যাত্রী আর মালপত্রে ভরা এক জাহাজে। মর্যাদার কথা আগে, চলে যাওয়ার কথা তার ভেতরে। যে উপাধি এইমাত্র দেওয়া হলো, আয়াতের কোথাও তা ফিরিয়ে নেওয়া হয়নি। ৩৭:১৪৮ পর্যন্ত যে বৃত্তান্ত চলে, তা একজন রাসূলেরই বৃত্তান্ত, রাসূল থাকা বন্ধ হয়ে যাওয়া কোনো মানুষের নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word From a Servant's Escape",
+          "bn": "গোলামের পালানোর শব্দ"
+        },
+        "p": [
+          {
+            "en": "The verb is abaqa, and it is not the ordinary word for leaving. Al-Qurtubi reports from the grammarian al-Mubarrad that the root sense of abaqa is to move far off, and that the same root gives ghulam abiq, a runaway slave. Ma'arif al-Qur'an says the same from the other end: the word is derived from ibaq, the escape of a slave from his master. The Qur'an could have said that he went, or that he set out. It used the word for a servant who slips his master's house.",
+            "bn": "ক্রিয়াটি আবাকা, আর চলে যাওয়ার সাধারণ শব্দ এটা নয়। কুরতুবী ব্যাকরণবিদ মুবাররাদের কথা আনেন: আবাকার মূল অর্থ দূরে সরে যাওয়া, আর এই ধাতু থেকেই 'গুলাম আবিক', মানে পালানো গোলাম। মাআরিফুল কুরআন একই কথা বলে উল্টো দিক থেকে। শব্দটি এসেছে 'ইবাক' থেকে, যার মানে মনিবের কাছ থেকে গোলামের পালিয়ে যাওয়া। কুরআন চাইলে বলতে পারত, তিনি গেলেন, কিংবা রওনা দিলেন। সে বেছে নিল সেই শব্দ, যা বলা হয় মনিবের ঘর ছেড়ে চুপিসারে সরে পড়া বান্দার বেলায়।"
+          },
+          {
+            "en": "At-Tabari glosses it with one plainer verb, farra, he fled: when he fled to the ship. Al-Baghawi does the same with haraba, he ran away. Neither softens the word and neither adds to it. Its weight sits in what it assumes. A runaway is defined by the one he runs from, and the tie does not break because he has left. The servant who flees is still that master's servant, and the same passage goes on, within a few verses, to bring him back.",
+            "bn": "তাবারী এর ব্যাখ্যা দেন আরও সহজ একটি ক্রিয়া দিয়ে, 'ফাররা', তিনি পালালেন: যখন তিনি জাহাজের দিকে পালালেন। বাগাভীও তাই করেন 'হারাবা' দিয়ে, মানে তিনি পালিয়ে গেলেন। কেউই শব্দটাকে নরম করেননি, কেউ কিছু জোড়েনওনি। এর ভার লুকিয়ে আছে এর ভেতরের ধারণায়। পলাতককে চেনা যায় যার কাছ থেকে সে পালায় তাকে দিয়ে। চলে গেলেই সেই বাঁধন ছিঁড়ে যায় না। যে বান্দা পালায়, সে তখনো সেই মনিবেরই বান্দা। আর এই অংশই কয়েক আয়াতের মধ্যে তাঁকে ফিরিয়ে আনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Say It of a Messenger?",
+          "bn": "রাসূলের বেলায় কেন এই শব্দ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives the reason another scholar offered, without naming him: Yunus (AS) was called abiq because he went out without a command from Allah, keeping himself out of people's sight. Ma'arif al-Qur'an says much the same: he set off without waiting for revelation from his Lord. Ma'arif then explains the force of the word through rank rather than through the deed. The noble prophets, it says, are the close ones among Allah's servants, and the slightest slip from them draws the swiftest grip.",
+            "bn": "কুরতুবী আরেকজনের দেওয়া কারণ উল্লেখ করেন, তাঁর নাম না নিয়ে। ইউনুস (আঃ)-কে আবিক বলা হয়েছে, কারণ তিনি আল্লাহর আদেশ ছাড়াই বেরিয়ে গিয়েছিলেন, মানুষের চোখের আড়ালে। মাআরিফুল কুরআনের কথাও প্রায় এক: রবের কাছ থেকে ওহীর অপেক্ষা না করেই তিনি রওনা দিয়েছিলেন। এরপর মাআরিফ শব্দটার কড়া ভাব বোঝায় কাজ দিয়ে নয়, মর্যাদা দিয়ে। তার ভাষায়, সম্মানিত নবীরা আল্লাহর বান্দাদের মধ্যে সবচেয়ে কাছের। তাই তাঁদের সামান্য পদস্খলনেও পাকড়াও আসে সবচেয়ে দ্রুত।"
+          },
+          {
+            "en": "Al-Qurtubi also quotes al-Hakim at-Tirmidhi, who reads the word inwardly. Yunus was named abiq, he says, as one who ran from servitude, since servitude means leaving one's own inclination and giving oneself up when Allah's commands press hard. He ties this to a report about a king's charge which al-Qurtubi relates under Surah al-Anbiya, and which this article does not retell. His conclusion is worded with care: Yunus sought the right course and did not reach what was right in Allah's sight.",
+            "bn": "কুরতুবী আরও উদ্ধৃত করেন হাকীম তিরমিযীকে, যিনি শব্দটা পড়েন ভেতরের দিক থেকে। তাঁর মতে ইউনুসকে আবিক বলা হয়েছে বন্দেগি থেকে সরে যাওয়ার অর্থে। কারণ বন্দেগি মানে নিজের খেয়ালখুশি ছেড়ে দেওয়া, আর আল্লাহর আদেশ কঠিন হয়ে চাপলে নিজেকে সঁপে দেওয়া। কথাটা তিনি জুড়ে দেন এক বাদশাহর নির্দেশ সংক্রান্ত একটি বর্ণনার সঙ্গে, যা কুরতুবী সূরা আম্বিয়ায় এনেছেন। এ প্রবন্ধ সেই বর্ণনা আর বলবে না। তাঁর উপসংহার খুব মেপে বলা: ইউনুস সঠিক পথ খুঁজেছিলেন, কিন্তু আল্লাহর কাছে যা সঠিক, তাতে পৌঁছাতে পারেননি।"
+          },
+          {
+            "en": "That last phrase matters. In al-Hakim's account the word abiq names a search for the right course that fell short, and the same reasoning, he says, is why the Qur'an also calls Yunus muleem in 37:142. These are readings, each held by the one who gave it, and they press the word to different depths. Al-Mubarrad stays with the language; Ma'arif reads it through nearness; al-Hakim reads it as a lesson in servitude. The verse itself names the flight and leaves its cause unstated.",
+            "bn": "শেষ কথাটার গুরুত্ব আছে। হাকীমের ব্যাখ্যায় আবিক শব্দটা বোঝায় সঠিক পথের এমন এক খোঁজ, যা লক্ষ্যে পৌঁছায়নি। তাঁর মতে একই কারণে কুরআন ৩৭:১৪২ আয়াতে ইউনুসকে 'মুলীম'ও বলেছে। এগুলো ব্যাখ্যা, যিনি দিয়েছেন তাঁরই। শব্দটাকে তাঁরা টেনেছেন ভিন্ন ভিন্ন গভীরতায়। মুবাররাদ ভাষার ভেতরেই থাকেন। মাআরিফ পড়ে নৈকট্যের আলোয়। হাকীম পড়েন বন্দেগির শিক্ষা হিসেবে। আয়াত নিজে শুধু পলায়নের কথা বলে, তার কারণ খুলে বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Angry, but Toward Whom?",
+          "bn": "রাগ, কিন্তু কার প্রতি"
+        },
+        "p": [
+          {
+            "en": "On what lay behind the flight, two commentators fetched here frame it differently. Al-Muyassar says he fled his town angry with his people, ghadiban ala qawmihi. As-Sa'di, on the same verse, says he went off in anger, supposing that He would not constrain him and confine him in the belly of the fish. His wording echoes the Qur'an's own in 21:87, where the man of the fish went off mughadiban and thought that We would not press hard upon him.",
+            "bn": "পলায়নের পেছনে কী ছিল, সে প্রশ্নে এখানে পড়া দুই তাফসীর দুই রকম বলে। মুয়াসসারের ভাষায়, তিনি নিজের কওমের উপর রাগ করে শহর ছেড়ে পালিয়েছিলেন। সা'দীর ভাষায়, তিনি রাগ করে চলে গিয়েছিলেন। ভেবেছিলেন, আল্লাহ তাঁকে আটকাবেন না, মাছের পেটে বন্দিও করবেন না। সা'দীর এই শব্দচয়নে ২১:৮৭ আয়াতের প্রতিধ্বনি আছে। সেখানে কুরআন বলে, মাছওয়ালা রাগ করে চলে গেলেন আর ভাবলেন, আমি তাঁকে পাকড়াও করব না।"
+          },
+          {
+            "en": "The two do not cancel each other, but they frame the anger differently: al-Muyassar names the people who had not answered him, while as-Sa'di frames it in the Qur'an's own word from 21:87. This article keeps both and chooses neither. Al-Baghawi adds a third angle through a report from Ibn Abbas and Wahb: Yunus had warned his people of a punishment, and when it was held back from them he left. That report belongs with the stories taken up below, and the verse itself names no cause.",
+            "bn": "দুটি মত একে অন্যকে বাতিল করে না, তবে রাগের কথা দুজন বলেন দুইভাবে। মুয়াসসার নাম নেন সেই কওমের, যারা তাঁর ডাকে সাড়া দেয়নি। সা'দী কথাটা বলেন ২১:৮৭ আয়াতে কুরআনের নিজের শব্দেই। এ প্রবন্ধ দুটিই রাখছে, কোনোটিকে বেছে নিচ্ছে না। বাগাভী ইবন আব্বাস (রাঃ) ও ওয়াহবের সূত্রে তৃতীয় এক দিক যোগ করেন। ইউনুস তাঁর কওমকে আযাবের সতর্কবাণী দিয়েছিলেন, আর আযাব যখন পিছিয়ে গেল, তিনি চলে গেলেন। এই বর্ণনার জায়গা নিচের কাহিনিগুলোর সঙ্গে। আয়াত নিজে কোনো কারণের নাম নেয় না।"
+          },
+          {
+            "en": "As-Sa'di adds a remark on the Qur'an's silence. Allah did not mention, he says, what Yunus was angry about, nor the fault he had committed, because knowing it would not benefit us. What benefits us is what we are told: that Allah penalised him though he was one of the noble messengers, then saved him, lifted the blame from him and arranged for him what would set him right. That is as-Sa'di's reading, in his own terms, and its weight comes down on the rescue.",
+            "bn": "কুরআনের এই নীরবতা নিয়ে সা'দী একটা কথা যোগ করেন। তাঁর মতে ইউনুস কী নিয়ে রাগ করেছিলেন, কোন ত্রুটি তিনি করেছিলেন, আল্লাহ তা জানাননি। কারণ সেটা জেনে আমাদের কোনো লাভ নেই। লাভ আছে যা জানানো হয়েছে তাতে। সম্মানিত রাসূলদের একজন হয়েও আল্লাহ তাঁকে শাস্তি দিয়েছিলেন। তারপর তাঁকে উদ্ধার করলেন, তাঁর উপর থেকে দোষ তুলে নিলেন, আর তাঁর সংশোধনের উপায় করে দিলেন। এ সা'দীর ব্যাখ্যা, তাঁর নিজের ভাষায়। আর এর ভার গিয়ে পড়ে উদ্ধারের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Ship Already Full",
+          "bn": "আগে থেকেই ভরা জাহাজ"
+        },
+        "p": [
+          {
+            "en": "Al-mashhun is the ship's one description, and the glosses agree on its sense. Ibn Kathir reports Ibn Abbas: al-muwqar, the vessel weighed down, filled with goods. At-Tabari explains it as full of cargo and heavily loaded, and brings the same word, al-muwqar, from Qatada, who says we used to be told it was the laden one, and from as-Suddi. Al-Muyassar and as-Sa'di widen the load to people as well as goods: a ship full of passengers and goods.",
+            "bn": "আল-মাশহূন, জাহাজের একমাত্র বিশেষণ, আর এর অর্থে ব্যাখ্যাকারেরা একমত। ইবন কাসীর ইবন আব্বাস (রাঃ)-এর কথা আনেন: আল-মূকার, মানে ভারে নুয়ে পড়া, মালপত্রে ঠাসা জাহাজ। তাবারী বলেন, বোঝাই করা মালে ভরা, ভারী জাহাজ। তিনি একই শব্দ 'আল-মূকার' আনেন কাতাদা থেকে, যিনি বলেন, আমাদের শোনানো হতো এটা বোঝাই জাহাজ। আর আনেন সুদ্দী থেকেও। মুয়াসসার ও সা'দী বোঝাটাকে আরও বড় করে দেখান। শুধু মাল নয়, মানুষও: যাত্রী আর মালপত্রে ভরা এক জাহাজ।"
+          },
+          {
+            "en": "Al-Qurtubi adds a point of grammar on al-fulk: the word may be treated as masculine or feminine, and it serves for one ship or for many. At-Tabari takes it here as as-safina, the ship. As-Sa'di then reads the load as the hinge of what follows. The ship was already full, and once Yunus (AS) boarded it along with the rest, it grew too heavy, so that those aboard needed to put someone over the side.",
+            "bn": "কুরতুবী 'আল-ফুলক' শব্দ নিয়ে ব্যাকরণের একটা কথা যোগ করেন। শব্দটা পুংলিঙ্গেও চলে, স্ত্রীলিঙ্গেও। একটা জাহাজ বোঝাতেও চলে, অনেক জাহাজ বোঝাতেও। তাবারী এখানে একে নেন 'আস-সাফীনা' অর্থে, মানে একটি জাহাজ। এরপর সা'দী এই বোঝাকেই পরের ঘটনার কবজা হিসেবে পড়েন। জাহাজ আগেই ভরা ছিল। অন্যদের সঙ্গে ইউনুস (আঃ) উঠতেই তা বেশি ভারী হয়ে গেল। ফলে জাহাজের লোকদের কাউকে না কাউকে সাগরে ফেলার দরকার পড়ল।"
+          },
+          {
+            "en": "Since they could find no reason to prefer one person over another, as-Sa'di says, they drew lots, and whoever lost would be cast into the sea on the others' behalf. He closes with a line about causes: when Allah wills a matter, He readies its means. The full ship is not scenery. In this reading it is the first link in a chain that runs to 37:141, where he joins the drawing of lots and is among the losers, and then to the fish in 37:142.",
+            "bn": "সা'দী বলেন, একজনকে আরেকজনের উপর প্রাধান্য দেওয়ার কোনো কারণ তারা খুঁজে পায়নি। তাই লটারি করল, যে হারবে তাকে বাকিদের বদলে সাগরে ফেলা হবে। কার্যকারণ নিয়ে এক বাক্যে তিনি শেষ করেন: আল্লাহ কোনো কিছু চাইলে তার উপকরণও প্রস্তুত করে দেন। ভরা জাহাজ তাই নিছক দৃশ্যের সাজ নয়। এই ব্যাখ্যায় এটা এক শিকলের প্রথম কড়া। শিকলটা গিয়ে পৌঁছায় ৩৭:১৪১ আয়াতে, যেখানে তিনি লটারিতে অংশ নিয়ে হেরে যান। তারপর ৩৭:১৪২ আয়াতের মাছ পর্যন্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tales the Verse Leaves Untold",
+          "bn": "আয়াত যে কাহিনি বলে না"
+        },
+        "p": [
+          {
+            "en": "Around this verse the commentaries carry stories the Qur'an does not tell. Al-Baghawi relays, from Ibn Abbas and Wahb, an account of why Yunus left and of what passed aboard when the ship stalled, with talk among the sailors and lots drawn more than once. He adds, under the words it is related, a longer tale about his family at the shore. Ibn Kathir has his own account of the storm, the lots and the moment Yunus went into the sea.",
+            "bn": "এ আয়াতের চারপাশে তাফসীরগুলোয় এমন সব কাহিনি আছে, যা কুরআন বলে না। বাগাভী ইবন আব্বাস (রাঃ) ও ওয়াহবের সূত্রে আনেন ইউনুসের চলে যাওয়ার কারণ আর জাহাজ থেমে গেলে ভেতরে কী ঘটেছিল তার এক বিবরণ। তাতে আছে মাঝিমাল্লাদের কথাবার্তা, আর একাধিকবার লটারির কথা। 'বর্ণিত আছে' বলে তিনি তীরে তাঁর পরিবার নিয়ে আরও লম্বা এক কাহিনিও জোড়েন। ইবন কাসীরের কাছেও আছে ঝড়, লটারি আর ইউনুসের সাগরে নামার মুহূর্ত নিয়ে নিজস্ব এক বিবরণ।"
+          },
+          {
+            "en": "None of this is in the verse, and none of it reaches the Prophet ﷺ through a sound chain in the sources fetched for this article. Reports of this kind may be mentioned, but nothing can be built on them, so this article names them and leaves them there. What the Qur'an gives is enough to reflect on: a messenger, a flight, a ship already full, and then, in 37:141, a casting of lots and a loss.",
+            "bn": "এর কোনোটিই আয়াতে নেই। এ প্রবন্ধের জন্য পড়া উৎসগুলোয় এর কোনোটিই বিশুদ্ধ সনদে নবী ﷺ পর্যন্ত পৌঁছায় না। এমন বর্ণনার উল্লেখ চলে, কিন্তু তার উপর কিছু দাঁড় করানো চলে না। তাই এ প্রবন্ধ শুধু এগুলোর নাম নিয়ে থেমে যাচ্ছে। ভাবার জন্য কুরআন যা দিয়েছে, তা-ই যথেষ্ট: একজন রাসূল, এক পলায়ন, আগে থেকেই ভরা এক জাহাজ। তারপর ৩৭:১৪১ আয়াতে লটারি আর হার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "None Better Than Yunus bin Matta",
+          "bn": "ইউনুস ইবন মাত্তার চেয়ে উত্তম নয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens his account of Yunus (AS) at this passage with a hadith from the Two Sahihs. Al-Bukhari records it in his Sahih from Abu Huraira, who reports that the Prophet ﷺ said: It is not fitting for a servant to say, I am better than Yunus bin Matta. The narration speaks about Yunus himself, not about the word abaqa, and it is not attached to this verse as its explanation. No tafsir fetched here attaches a sound hadith to the verse itself.",
+            "bn": "এই অংশে ইউনুস (আঃ)-এর বৃত্তান্ত ইবন কাসীর শুরু করেন দুই সহীহ গ্রন্থ, বুখারী ও মুসলিমের এক হাদীস দিয়ে। বুখারী তাঁর সহীহ গ্রন্থে আবু হুরায়রা (রাঃ) থেকে এটি এনেছেন। নবী ﷺ বলেছেন: কোনো বান্দার জন্য এ কথা বলা সমীচীন নয় যে, আমি ইউনুস ইবন মাত্তার চেয়ে উত্তম। হাদীসটি ইউনুসকে নিয়েই, আবাকা শব্দ নিয়ে নয়। এ আয়াতের ব্যাখ্যা হিসেবেও তা আসেনি। এখানে পড়া কোনো তাফসীর আয়াতটির সঙ্গে কোনো সহীহ হাদীস জোড়েনি।"
+          },
+          {
+            "en": "Read beside this verse, the hadith still does guarding work. The Qur'an has just used of Yunus (AS) a word drawn from a servant's escape, and the Prophet ﷺ, in al-Bukhari's wording, uses the word servant, abd, when he forbids anyone to rank himself above him. Whatever the verse records, it gives no one a footing to look down on this prophet. Al-Bukhari records the same prohibition from Ibn Abbas too, in a wording of its own.",
+            "bn": "এ আয়াতের পাশে রেখে পড়লে হাদীসটি তবু পাহারাদারের কাজ করে। কুরআন এইমাত্র ইউনুস (আঃ)-এর বেলায় গোলামের পালানোর শব্দ ব্যবহার করেছে। আর নবী ﷺ, বুখারীর ভাষ্যে, কাউকে তাঁর চেয়ে নিজেকে বড় ভাবতে নিষেধ করার সময় বলছেন 'আবদ', মানে বান্দা। আয়াত যা-ই বর্ণনা করুক, এই নবীকে ছোট চোখে দেখার কোনো ভিত্তি তা কাউকে দেয় না। একই নিষেধ বুখারী ইবন আব্বাস (রাঃ) থেকেও এনেছেন, ভিন্ন শব্দে।"
+          },
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: one messenger's departure, in one account, which the Qur'an itself carries on to his rescue and to the faith of his people in 37:147 and 37:148. It licenses no belittling of Yunus (AS), no doubt about his prophethood, and nothing against any living person or community. The ship's company are people in a story, and the verse passes no judgement on them or on anyone today.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত ঠিক ততটুকুই বলে, যতটুকু তাতে আছে: একটি বৃত্তান্তে একজন রাসূলের চলে যাওয়া। কুরআন নিজেই সে বৃত্তান্তকে টেনে নিয়ে যায় তাঁর উদ্ধার পর্যন্ত, আর ৩৭:১৪৭ ও ৩৭:১৪৮ আয়াতে তাঁর কওমের ঈমান আনা পর্যন্ত। ইউনুস (আঃ)-কে ছোট করার, তাঁর নবুওয়াতে সন্দেহ করার কোনো অনুমতি এ আয়াত দেয় না। আজকের কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধেও কিছুর অনুমতি দেয় না। জাহাজের লোকেরা এক কাহিনির মানুষ। তাদের বা আজকের কারও উপর আয়াত কোনো রায় দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Runaway Is Headed",
+          "bn": "পলাতকের পথ কোথায় গিয়ে মেলে"
+        },
+        "p": [
+          {
+            "en": "Set the pieces together and the verse reads as the first step of a return. A messenger leaves; the word chosen for it is the word for a servant who slips away; and the way out stands ready, a ship already full. The Qur'an does not linger on the reason, and as-Sa'di gives his account of why that silence serves us. What it keeps in view is that this servant still has a Master, whose care reaches him in the sea, in the dark and on the shore.",
+            "bn": "টুকরোগুলো পাশাপাশি রাখলে আয়াতটাকে মনে হয় ফেরার প্রথম ধাপ। একজন রাসূল চলে যাচ্ছেন। তার জন্য বেছে নেওয়া শব্দটা চুপিসারে সরে পড়া বান্দার শব্দ। আর বেরোনোর পথ তৈরি হয়ে আছে, আগে থেকেই ভরা এক জাহাজ। কারণ নিয়ে কুরআন থামে না, আর সেই নীরবতা কেন আমাদের কাজে লাগে, সা'দী তার ব্যাখ্যা দিয়েছেন। কুরআন চোখের সামনে রাখে এটুকু: এই বান্দার এখনো একজন মনিব আছেন। তাঁর যত্ন তাঁকে খুঁজে পায় সাগরে, অন্ধকারে, তীরে।"
+          },
+          {
+            "en": "So the verse leaves a question for the reader rather than a verdict on a prophet. When a duty grows heavy, the nearest ship is often loaded and waiting. Do I stop to ask whether I have been given leave to board it? And if I have already gone, do I remember that leaving the work does not take me out of Allah's reach? For Yunus (AS) the road out became, within a few verses, the road back, and the one who called on Him in the dark was answered, as 21:88 says.",
+            "bn": "তাই আয়াতটি পাঠকের হাতে একটা প্রশ্ন রেখে যায়, একজন নবীর উপর রায় নয়। দায়িত্ব যখন ভারী হয়, হাতের কাছের জাহাজটা প্রায়ই বোঝাই হয়ে অপেক্ষা করে। তাতে ওঠার আগে আমি কি থেমে জিজ্ঞেস করি, অনুমতি পেয়েছি কি না? আর যদি চলেই গিয়ে থাকি, আমার কি মনে থাকে যে কাজ ছেড়ে এলেও আল্লাহর নাগাল ছেড়ে আসা যায় না? ইউনুস (আঃ)-এর বেলায় বেরোনোর পথটাই কয়েক আয়াতের মধ্যে হয়ে গেল ফেরার পথ। অন্ধকার থেকে তিনি তাঁর রবকে ডেকেছিলেন, আর সে ডাকে সাড়া এসেছিল, যেমন ২১:৮৮ আয়াত বলে।"
+          }
+        ]
+      }
+    ]
+  },
   "37:142": {
     "sections": [
       {
