@@ -36713,6 +36713,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Prophet ﷺ stood on a straight path with no bend in it, leading to Allah. Walk that path in deed and in character, rather than only claiming it or admiring it.",
     "lessonBn": "নবী ﷺ দাঁড়িয়ে ছিলেন এমন সরল পথে, যাতে কোনো বাঁক নেই, যা পৌঁছায় আল্লাহর কাছে। শুধু দাবি করে বা তারিফ করে থেমে না থেকে আমলে আর চরিত্রে সেই পথে হাঁটুন।"
+  },
+  "36:20": {
+    "reflectionEn": "The town has just threatened to stone the messengers. Then, from the far end of the city, a man comes running. He is not one of the messengers, he holds no office, and the Qur'an never gives his name. He runs towards the crowd, not away from it, and his first words are no rebuke. He calls them my people, and tells them to follow the very men they mean to harm. He knows the danger. What moves him is care, for the messengers and for the people threatening them. Do I speak up only where it is safe, or do I go where the truth is needed? And when I urge people to change, do I still call them my own?",
+    "reflectionBn": "জনপদের লোকেরা রসূলদের পাথর মেরে হত্যার হুমকি দিয়ে ফেলেছে। ঠিক তখন শহরের দূর প্রান্ত থেকে এক লোক ছুটে আসে। সে রসূলদের কেউ নয়, কোনো পদও তার নেই, আর কুরআন কোথাও তার নাম বলেনি। ভিড় থেকে সে পালায়নি, ছুটে এসেছে ভিড়ের দিকেই। তার মুখের প্রথম কথাও ধমক নয়। সে তাদের ডাকে হে আমার কওম বলে, আর বলে, যাদের তোমরা আঘাত করতে চাইছ, তাঁদেরই অনুসরণ করো। বিপদ কতটা, সে জানত। তবু তাকে টেনে এনেছে দরদ, রসূলদের জন্যও, আর যারা হুমকি দিচ্ছে তাদের জন্যও। আমি কি কেবল নিরাপদ জায়গায় মুখ খুলি, নাকি যেখানে সত্যের দরকার সেখানে যাই? আর মানুষকে বদলাতে বলার সময় কি তাদের তখনো নিজের লোক বলে ডাকি?",
+    "pointsEn": [
+      "When did I last stay at the edge of something wrong because coming closer would cost me?",
+      "Is there a group I belong to that I have written off, when this man would still have called them my people?",
+      "When I urge others towards the good, is it care for them that moves me, or the wish to be proved right?",
+      "Am I waiting for a title, a platform or someone's permission before I speak for what is true?",
+      "If people I love were walking towards a harm they could not see, how quickly would I move?"
+    ],
+    "pointsBn": [
+      "শেষ কবে কোনো অন্যায়ের কাছে না গিয়ে দূরে দাঁড়িয়ে ছিলাম, শুধু কাছে গেলে নিজের ক্ষতি হবে বলে?",
+      "আমার নিজের কোন দলকে আমি বাতিলের খাতায় তুলে দিয়েছি, যাদের এই লোকটি তখনো আমার কওম বলেই ডাকত?",
+      "অন্যকে ভালোর দিকে ডাকার সময় কি তাদের প্রতি দরদই আমাকে চালায়, নাকি নিজেকে সঠিক প্রমাণের ইচ্ছা?",
+      "সত্যের পক্ষে কথা বলার আগে আমি কি কোনো পদ, মঞ্চ বা কারও অনুমতির অপেক্ষায় বসে আছি?",
+      "আমার প্রিয় মানুষেরা যদি এমন ক্ষতির দিকে হাঁটত যা তারা দেখতে পাচ্ছে না, আমি কত তাড়াতাড়ি ছুটে যেতাম?"
+    ],
+    "lessonEn": "Do not wait at the edges while the truth is threatened. Go to your people with care, call them your own, and urge them towards those who guide.",
+    "lessonBn": "সত্য যখন হুমকির মুখে, তখন দূরে দাঁড়িয়ে থাকবেন না। দরদ নিয়ে নিজের লোকদের কাছে যান, তাদের আপন বলে ডাকুন, আর যারা সঠিক পথ দেখান তাঁদের অনুসরণের দিকে ডাকুন।"
   }
 };
 

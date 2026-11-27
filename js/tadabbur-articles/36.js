@@ -739,6 +739,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "36:20": {
+    "sections": [
+      {
+        "h": {
+          "en": "Into the Threat, Not Away",
+          "bn": "হুমকির দিকেই ছুটে আসা"
+        },
+        "p": [
+          {
+            "en": "Wa-ja'a min aqsa al-madinati rajulun yas'a: and there came from the farthest end of the city a man, hurrying. The scene before it is a standoff. The town has called the three messengers a bad omen and sworn, in 36:18, to stone them if they do not stop. The messengers have answered that the omen lies with the town itself, in 36:19. Then the Qur'an turns away from the quarrel to the edge of the city, where someone is already on the move.",
+            "bn": "ওয়া জাআ মিন আকসাল মাদীনাতি রাজুলুন ইয়াসআ: আর শহরের দূরতম প্রান্ত থেকে এক লোক ছুটে এল। এর আগের দৃশ্যটা মুখোমুখি টানাপোড়েনের। জনপদের লোকেরা তিনজন রসূলকে অমঙ্গলের কারণ বলেছে, আর ৩৬:১৮-এ কসম করে বলেছে, না থামলে তাঁদের পাথর মেরে শেষ করবে। রসূলগণ ৩৬:১৯-এ জবাব দিয়েছেন, অমঙ্গল তোমাদের নিজেদের সঙ্গেই। ঠিক এখানে কুরআন ঝগড়ার জায়গা ছেড়ে চোখ ফেরায় শহরের কিনারায়। সেখানে একজন আগেই রওনা হয়ে গেছে।"
+          },
+          {
+            "en": "At-Tabari supplies what the verse leaves unsaid. The people of this city, he says, had resolved and agreed on killing the three messengers, as it is reported; word of it reached this man, whose home was at the far end of the city, and he was a believer. So he came hurrying to them. In the report at-Tabari gives from Ibn Ishaq, the man was at the city's farthest gate when the news reached him, and he came to remind them of Allah and to call them to follow the messengers.",
+            "bn": "আয়াত যা খুলে বলেনি, তাবারী তা পূরণ করেন। তাঁর ভাষায়, বর্ণনামতে এই শহরের লোকেরা তিনজন রসূলকে হত্যার সিদ্ধান্ত নিয়ে ফেলেছিল, সবাই এক মত হয়েছিল। খবরটা পৌঁছাল এই লোকের কাছে। তার বাড়ি ছিল শহরের শেষ প্রান্তে, আর সে ছিল মুমিন। তাই সে তাড়াহুড়া করে তাদের কাছে এল। ইবন ইসহাক থেকে তাবারী যে বর্ণনা আনেন, তাতে খবর পাওয়ার সময় লোকটি ছিল শহরের সবচেয়ে দূরের ফটকে। সে এসেছিল লোকদের আল্লাহর কথা মনে করিয়ে দিতে আর রসূলদের অনুসরণের দিকে ডাকতে।"
+          },
+          {
+            "en": "The Muyassar puts the timing in a single aside: this was when he learned that the people of the town had set out to kill the messengers or to torture them. The verse itself does not say how far the threat had gone, only that a man came. That is enough for its purpose. He arrived while the danger stood at its height, and he did not arrive by chance. He came because of it.",
+            "bn": "মুয়াসসার সময়টা ধরিয়ে দেয় একটি বন্ধনীর ভেতরে: জনপদের লোকেরা রসূলদের হত্যা করার বা শাস্তি দেওয়ার মতলব করেছে, এ কথা জানার পরই সে এসেছিল। হুমকি কতদূর গড়িয়েছিল, আয়াত নিজে তা বলে না। বলে শুধু, একজন এল। আয়াতের উদ্দেশ্যের জন্য এটুকুই যথেষ্ট। বিপদ যখন চূড়ায়, তখনই সে পৌঁছেছে। আর সে হঠাৎ এসে পড়েনি, এসেছে ওই বিপদের কারণেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Distance Named First",
+          "bn": "দূরত্বের কথা আগে"
+        },
+        "p": [
+          {
+            "en": "Set this verse beside 28:20 and one difference stands out. There the Qur'an says wa-ja'a rajulun min aqsa al-madinati yas'a: and there came a man from the farthest end of the city. Here the order is turned, and from the farthest end of the city comes first, a man only after it. None of the commentators fetched for this verse remarks on the order, so this is a reader's observation and no ruling: the first thing we learn about him is the distance he covered.",
+            "bn": "আয়াতটি ২৮:২০-এর পাশে রাখলে একটা পার্থক্য চোখে পড়ে। সেখানে কুরআন বলে, ওয়া জাআ রাজুলুন মিন আকসাল মাদীনাতি ইয়াসআ: আর শহরের দূরতম প্রান্ত থেকে এক লোক এল। এখানে ক্রম উল্টো। আরবীতে আগে আসে শহরের দূরতম প্রান্ত থেকে, তারপর এক লোক। এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, তার কোনোটি এই ক্রম নিয়ে কিছু বলেনি। তাই এটি পাঠকের একটি লক্ষ্য করা মাত্র, কোনো সিদ্ধান্ত নয়: লোকটি সম্পর্কে প্রথম যা জানি, তা হলো সে কতটা পথ পেরিয়ে এসেছে।"
+          },
+          {
+            "en": "What lay at that far end? Ma'arif al-Qur'an reads aqsa al-madina as the outskirts of the city. At-Tabari puts the man's home there, and Ibn Ishaq's report places it beside one of the city's gates. Qatadah, in at-Tabari, gives another picture: it was mentioned to us that he was in a cave worshipping his Lord, and he came when he heard of the messengers. The verse decides neither. Both pictures agree that he was far from the quarrel and could have stayed there. The farthest end of the city is where doing nothing would have been easiest.",
+            "bn": "ওই দূর প্রান্তে কী ছিল? মাআরিফুল কুরআন আকসাল মাদীনা বলতে বোঝে শহরের উপকণ্ঠ। তাবারী বলেন, লোকটির বাড়ি ছিল সেখানে, আর ইবন ইসহাকের বর্ণনায় বাড়িটা শহরের একটি ফটকের ধারে। তাবারীতে কাতাদা দেন অন্য ছবি: আমাদের কাছে বলা হয়েছে, সে এক গুহায় তার রবের ইবাদাত করত, রসূলদের খবর শুনে তাঁদের কাছে এসেছিল। আয়াত এ দুইয়ের কোনোটিকেই বেছে নেয় না। তবে দুই ছবিতেই সে ঝগড়ার জায়গা থেকে অনেক দূরে, চাইলে সেখানেই থেকে যেতে পারত। শহরের শেষ প্রান্তই সেই জায়গা, যেখানে চুপ করে বসে থাকা সবচেয়ে সহজ ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Haste That Has a Purpose",
+          "bn": "উদ্দেশ্য নিয়ে তাড়া"
+        },
+        "p": [
+          {
+            "en": "Yas'a, he hurries, is the verb used of the man in 28:20 too, and the question of how fast that man went belongs to that verse. Here Ma'arif al-Qur'an sets out the two senses the word can carry. From sa'a, yas'a, it means to move at a running gait, so the phrase can say that a man came running. But it is also used for going with concern and a sense of purpose, which need not include running, as in 62:9, fa-s'aw ila dhikri llah, hasten to the remembrance of Allah.",
+            "bn": "ইয়াসআ, সে ছুটে আসে। ২৮:২০-এর লোকটির বেলাতেও এই ক্রিয়াই এসেছে, আর সে কত জোরে গিয়েছিল সে প্রশ্ন ওই আয়াতের। এখানে মাআরিফুল কুরআন শব্দটির দুটি অর্থ তুলে ধরে। সাআ, ইয়াসআ থেকে এর মানে দৌড়ের ভঙ্গিতে চলা। সে হিসেবে বাক্যটির অর্থ, এক লোক দৌড়ে এল। আবার শব্দটি ব্যবহার হয় গুরুত্ব আর উদ্দেশ্য নিয়ে চলার অর্থেও, যেখানে দৌড় থাকা জরুরি নয়। যেমন ৬২:৯-এ: ফাসআও ইলা যিকরিল্লাহ, আল্লাহর যিকিরের দিকে তাড়াতাড়ি চলো।"
+          },
+          {
+            "en": "The Muyassar's paraphrase uses musri', a man hastening. As-Sa'di does not weigh the pace at all; he names what drove it. The man came yas'a, he says, hirsan 'ala nushi qawmih, out of eagerness to give his people sincere counsel, once he had heard what the messengers called to, believed in it, and learned how his people had answered them. That moves the question from how fast to why. A man may run from fear, or to watch, or to join a mob. This haste is worth recording because care drove it.",
+            "bn": "মুয়াসসার এর ব্যাখ্যায় বলে মুসরি', অর্থাৎ তাড়াহুড়া করে আসা লোক। সা'দী গতির মাপজোখে যান না। তিনি বলেন, কী তাকে ছুটিয়েছিল। তাঁর ভাষায়, লোকটি এসেছিল হিরসান আলা নুসহি কওমিহি: নিজের কওমকে আন্তরিক নসীহত করার আগ্রহে। রসূলগণ কিসের দিকে ডাকছেন তা সে শুনেছিল, তাতে ঈমান এনেছিল, আর জেনেছিল তার কওম তাঁদের কী জবাব দিয়েছে। এতে প্রশ্নটাই বদলে যায়, কত জোরে থেকে কেন-তে। মানুষ ভয়ে দৌড়ায়, তামাশা দেখতে দৌড়ায়, দাঙ্গায় যোগ দিতেও দৌড়ায়। এই তাড়াটা মনে রাখার মতো, কারণ এর পেছনে ছিল দরদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shielding Them, Counselling Them",
+          "bn": "রসূলদের রক্ষা, কওমকে নসীহত"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens with Ibn Ishaq's account, from what reached him from Ibn Abbas, Ka'b al-Ahbar and Wahb ibn Munabbih: the people of the town were bent on killing their messengers, so a man came hurrying from the farthest end of the city, that is, li-yansurahum min qawmih, to support them against his own people. On this reading the run was a rescue. He came to stand beside three threatened men when no one else in the town would.",
+            "bn": "ইবন কাসীর শুরু করেন ইবন ইসহাকের বর্ণনা দিয়ে, যা ইবন আব্বাস, কা'ব আল-আহবার ও ওয়াহব ইবন মুনাব্বিহ থেকে তাঁর কাছে পৌঁছেছিল: জনপদের লোকেরা তাদের রসূলদের হত্যা করতে উদ্যত হয়েছিল, তখন শহরের দূরতম প্রান্ত থেকে এক লোক ছুটে এল। ইবন কাসীর এর অর্থ করেন, লি-ইয়ানসুরাহুম মিন কওমিহি: নিজের কওমের বিরুদ্ধে তাঁদের পাশে দাঁড়াতে। এই ব্যাখ্যায় তার ছুটে আসাটা ছিল উদ্ধারের চেষ্টা। গোটা জনপদে আর কেউ যখন দাঁড়ায়নি, সে এসে দাঁড়িয়েছিল বিপন্ন তিনজনের পাশে।"
+          },
+          {
+            "en": "As-Sa'di's gloss, quoted above, names a different object: the people themselves, whom he wanted to counsel. Ma'arif al-Qur'an holds the two together. He came, it says, prompted by the mixed objectives of his concern for their good as well as the safety of the messengers. The two need not compete. The surest protection for the messengers was to persuade the crowd, and the truest kindness to the crowd was to stop them before they did what they intended. Whatever the weighting, the words he then speaks are addressed to the crowd.",
+            "bn": "সা'দীর যে কথা আগে এসেছে, তাতে লক্ষ্য অন্য: খোদ কওমের লোকেরা, যাদের সে নসীহত করতে চেয়েছিল। মাআরিফুল কুরআন দুটোকে একসঙ্গে ধরে। তার ভাষায়, লোকটি এসেছিল দুই তাগিদে, কওমের কল্যাণের চিন্তায় আর রসূলদের নিরাপত্তার চিন্তায়। এ দুইয়ে বিরোধ নেই। রসূলদের বাঁচানোর সবচেয়ে নিশ্চিত পথ ছিল ভিড়কে বোঝানো। আর ভিড়ের প্রতি সবচেয়ে বড় দয়া ছিল, যা তারা করতে যাচ্ছে তা করার আগেই তাদের থামানো। কোনটার ভার বেশি, সে যা-ই হোক, এরপর সে যে কথা বলে তা ভিড়কে লক্ষ্য করেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Reports Say of Him",
+          "bn": "বর্ণনায় তার পরিচয়"
+        },
+        "p": [
+          {
+            "en": "The Qur'an gives him no name, and Ma'arif notes that it leaves him unidentified, saying neither who he was nor what he did. The tafsirs carry names from reports, and they are given here only as reports. Most call him Habib. At-Tabari gives Habib ibn Murri from Abu Mijlaz; Ibn Kathir gives Habib an-Najjar through Ikrimah from Ibn Abbas; al-Qurtubi relays Habib ibn Isra'il an-Najjar from Ibn Abbas, Mujahid and Muqatil. Ibn Ishaq's report in at-Tabari makes him a man of Antioch. That identification is disputed, and the dispute is set out under 36:16.",
+            "bn": "কুরআন তার নাম বলেনি। মাআরিফ লক্ষ করে, কুরআন তাকে অস্পষ্টই রেখেছে, সে কে ছিল বা কী করত কিছুই বলেনি। তাফসীরগুলোতে নাম আসে বর্ণনা থেকে, আর এখানে সেগুলো শুধু বর্ণনা হিসেবেই রাখা হলো। বেশিরভাগ তাকে হাবীব বলে। তাবারী আবু মিজলায থেকে আনেন হাবীব ইবন মুররী। ইবন কাসীর ইকরিমার সূত্রে ইবন আব্বাস থেকে আনেন হাবীব আন-নাজ্জার। কুরতুবী ইবন আব্বাস, মুজাহিদ ও মুকাতিল থেকে আনেন হাবীব ইবন ইসরাঈল আন-নাজ্জার। তাবারীতে ইবন ইসহাকের বর্ণনা তাকে আন্তাকিয়ার লোক বলে। এই শনাক্তকরণ নিয়ে মতভেদ আছে, তার বিবরণ ৩৬:১৬-এ।"
+          },
+          {
+            "en": "His trade varies even more. Ibn Ishaq's report has him working jarir, which Ibn Kathir glosses as ropes; in al-Baghawi's text as fetched, Wahb's word reads harir, silk, one dot away. Al-Qurtubi calls him a carpenter, as-Suddi a fuller, Umar ibn al-Hakam a cobbler. Ibn Ishaq's report adds that he was a sick man in whom leprosy had spread, who split each evening's earnings in two, half to feed his family and half in charity. None of this is in the verse, and nothing here is built on it.",
+            "bn": "পেশা নিয়ে মতের ফারাক আরও বেশি। ইবন ইসহাকের বর্ণনায় সে জারীর বানাত, ইবন কাসীর যার অর্থ করেন দড়ি। বাগাভীর যে পাঠ আনা হয়েছে, তাতে ওয়াহবের শব্দটি পড়া যায় হারীর, অর্থাৎ রেশম। দুই শব্দে তফাত মাত্র একটি নুকতার। কুরতুবী তাকে বলেন কাঠমিস্ত্রি, সুদ্দী বলেন ধোপা, উমর ইবনুল হাকাম বলেন মুচি। ইবন ইসহাকের বর্ণনা আরও জানায়, সে ছিল রোগা মানুষ, কুষ্ঠ তার শরীরে দ্রুত ছড়িয়ে পড়েছিল। প্রতি সন্ধ্যায় দিনের রোজগার দুই ভাগ করত, অর্ধেক পরিবারের খাবারে, অর্ধেক সদকায়। এর কিছুই আয়াতে নেই, আর এখানে এর উপর কিছু দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "The reports also disagree on how he came to faith. At-Tabari's report calls him a believer already, and Qatadah has him worshipping his Lord in a cave. Wahb's account in al-Qurtubi has him spend seventy years calling on idols to lift his illness, then believe, and be cured when the messengers prayed for him. Abu al-Aliyah, also in al-Qurtubi, says he believed in them once they told him they asked no wage. These accounts cannot all be right, the verse settles none of them, and they stand here side by side.",
+            "bn": "ঈমান আনার ঘটনা নিয়েও বর্ণনাগুলো এক নয়। তাবারীর বর্ণনায় সে আগে থেকেই মুমিন, আর কাতাদার বর্ণনায় সে গুহায় রবের ইবাদাত করত। কুরতুবীতে ওয়াহবের বর্ণনা বলে, সত্তর বছর সে মূর্তির কাছে রোগমুক্তি চেয়েছিল, তারপর ঈমান আনে, আর রসূলগণ দোয়া করলে সেরে ওঠে। কুরতুবীতেই আবুল আলিয়া বলেন, রসূলগণ যখন জানালেন তাঁরা কোনো পারিশ্রমিক চান না, তখন সে তাঁদের উপর ঈমান আনে। এই সব বর্ণনা একসঙ্গে সত্য হতে পারে না। আয়াতও এর কোনোটির মীমাংসা করে না। তাই এখানে সেগুলো পাশাপাশিই রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Calling Them His Own",
+          "bn": "শত্রুদেরও আপন বলে ডাকা"
+        },
+        "p": [
+          {
+            "en": "Qala ya qawmi: he said, O my people. The phrase is short, and it carries a claim. The people he addresses are the ones who have just threatened to stone the messengers, yet he does not call them you who deny, or you wrongdoers. He calls them qawmi, my own people, the people I belong to. Ibn Kathir's word for what follows is yahuddu: he urges his people on, pressing them to follow the messengers who had come to them.",
+            "bn": "কালা ইয়া কওমি: সে বলল, হে আমার কওম। ছোট্ট কথা, অথচ এর ভেতরে একটা দাবি আছে। যাদের সে সম্বোধন করছে, তারাই এইমাত্র রসূলদের পাথর মারার হুমকি দিয়েছে। তবু সে তাদের বলে না, হে অস্বীকারকারীরা, বা হে জালিমরা। সে বলে কওমি, আমার নিজের লোক, যাদের মধ্যে আমি নিজেও পড়ি। এরপর যা আসে, ইবন কাসীর তার জন্য শব্দ বেছে নেন ইয়াহুদ্দু: সে নিজের কওমকে তাড়া দেয়, জোর দিয়ে বলে, তোমাদের কাছে যে রসূলগণ এসেছেন তাঁদের অনুসরণ করো।"
+          },
+          {
+            "en": "The contrast with 28:20 helps here as well. There the man from the far end speaks to the man in danger, ya Musa, and tells him to leave. Here the man from the far end speaks to the danger itself, the crowd, and tells them to change. The first is a warning to the threatened, the second is counsel to those doing the threatening. Both are sincere. The second is the harder, because its listeners are the very people from whom the harm is expected.",
+            "bn": "২৮:২০-এর সঙ্গে তুলনাটা এখানেও কাজে আসে। সেখানে দূর প্রান্তের লোকটি কথা বলে বিপন্ন মানুষটির সঙ্গে, ইয়া মূসা বলে, আর তাঁকে চলে যেতে বলে। এখানে দূর প্রান্তের লোকটি কথা বলে খোদ বিপদের সঙ্গে, অর্থাৎ ভিড়ের সঙ্গে, আর তাদের বদলাতে বলে। প্রথমটি যে হুমকির মুখে তার জন্য সতর্কবার্তা। দ্বিতীয়টি যারা হুমকি দিচ্ছে তাদের জন্য নসীহত। দুটোই আন্তরিক। তবে দ্বিতীয়টা বেশি কঠিন, কারণ এর শ্রোতারাই সেই লোক, যাদের হাত থেকে ক্ষতির আশঙ্কা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Follow, and Accept Their Message",
+          "bn": "অনুসরণ করো, বাণী গ্রহণ করো"
+        },
+        "p": [
+          {
+            "en": "Ittabi'u al-mursalin: follow the messengers. At-Tabari paraphrases: follow the messengers whom Allah has sent to you, and accept from them what they have brought you. The Muyassar likewise reads al-mursalin as those sent to you from Allah. The verb is ittiba', following, not merely sparing or respecting them. He does not ask the town only to stop the stoning. He asks them to take up the message the stoning was meant to silence.",
+            "bn": "ইত্তাবিউল মুরসালীন: রসূলদের অনুসরণ করো। তাবারী এর অর্থ করেন: আল্লাহ তোমাদের কাছে যে রসূলদের পাঠিয়েছেন তাঁদের অনুসরণ করো, আর তাঁরা যা নিয়ে এসেছেন তা তাঁদের কাছ থেকে গ্রহণ করো। মুয়াসসারও আল-মুরসালীন বলতে বোঝে আল্লাহর পক্ষ থেকে তোমাদের কাছে প্রেরিতদের। ক্রিয়াটি ইত্তিবা, অনুসরণ। শুধু তাঁদের রেহাই দেওয়া বা সম্মান করা নয়। সে জনপদকে কেবল পাথর মারা থেকে থামতে বলছে না। বলছে, যে বাণী চাপা দিতে পাথর তোলা হয়েছিল, সেই বাণীই তুলে নাও।"
+          },
+          {
+            "en": "As-Sa'di reads three things in the short command: he ordered them to follow the messengers, he counselled them sincerely in it, and he bore witness that they were sent, wa-shahida lahum bi-r-risala. A man from the city's edge testifying for three strangers before a hostile crowd is no small thing. At-Tabari also relays from Qatadah that on reaching the messengers he first asked whether they wanted a wage for this, and they said no. That exchange belongs to 36:21, where the point is made in so many words.",
+            "bn": "ছোট্ট এই আদেশে সা'দী তিনটি জিনিস দেখেন: সে তাদের রসূলদের অনুসরণের হুকুম দিল, এ ব্যাপারে আন্তরিক নসীহত করল, আর তাঁদের রিসালাতের পক্ষে সাক্ষ্য দিল: ওয়া শাহিদা লাহুম বির-রিসালাহ। বৈরী ভিড়ের সামনে শহরের কিনারার এক লোক তিনজন অচেনা মানুষের পক্ষে সাক্ষ্য দিচ্ছে, এ সামান্য ব্যাপার নয়। তাবারী কাতাদা থেকে আরও আনেন, রসূলদের কাছে পৌঁছে সে প্রথমে জিজ্ঞেস করেছিল, এর বিনিময়ে তাঁরা কোনো পারিশ্রমিক চান কি না। তাঁরা বললেন, না। সে প্রসঙ্গ ৩৬:২১-এর, সেখানে কথাটা সরাসরিই এসেছে।"
+          },
+          {
+            "en": "The Muyassar closes its comment with the lesson it draws: in this is a statement of the merit of whoever strives to enjoin what is right and forbid what is wrong. It uses sa'a, the very verb of the verse, for that striving, so the man's hurrying becomes the shape of every effort to call people to good. No commentator fetched for this verse attaches a hadith to it, and none is given here.",
+            "bn": "মুয়াসসার তার ব্যাখ্যা শেষ করে এখান থেকে নেওয়া শিক্ষা দিয়ে: এতে আছে তার মর্যাদার বর্ণনা, যে সৎকাজের আদেশ ও অসৎকাজে নিষেধের জন্য ছুটে যায়। এই ছুটে যাওয়ার জন্য সে ব্যবহার করে সাআ, আয়াতেরই ক্রিয়া। ফলে লোকটির তাড়াহুড়া হয়ে ওঠে মানুষকে ভালোর দিকে ডাকার প্রতিটি চেষ্টার ছবি। এ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস দেওয়া হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From the Edge of a Town",
+          "bn": "জনপদের কিনারা থেকে"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The passage describes one town, in a history the Qur'an tells as a parable, threatening the messengers sent to it, and the surah goes on to its end. It licenses nothing against any living person or community. Whatever the town was, its people are not the people of Antioch today or of any present-day city, and no reader may cast a neighbour, a rival or a nation as the crowd in this story. Its sharpest claim is on the one reading it.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। এই অংশ বর্ণনা করে একটি জনপদের কথা, যার ইতিহাস কুরআন উপমা হিসেবে শোনায়। তারা তাদের কাছে পাঠানো রসূলদের হুমকি দিয়েছিল, আর সূরা পরে তাদের পরিণতির কথা বলে। এ আয়াত কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না। জনপদটি যেটাই হোক, তার বাসিন্দারা আজকের আন্তাকিয়ার মানুষ নয়, বর্তমানের কোনো শহরের মানুষও নয়। কোনো পাঠক নিজের প্রতিবেশী, প্রতিদ্বন্দ্বী বা কোনো জাতিকে এই কাহিনির ভিড় বানাতে পারেন না। এর সবচেয়ে ধারালো দাবি যিনি পড়ছেন তাঁরই উপর।"
+          },
+          {
+            "en": "That claim is simple. Most of us live, one way or another, at the far end of things: not the leader, not the scholar, not the voice the crowd is waiting to hear. The man in this verse held no office either. He had news of a wrong about to be done, and a choice whether to stay where he was. The Qur'an remembers him for the choice, and not for his name, his trade or his standing, all of which it leaves out.",
+            "bn": "দাবিটা সহজ। আমাদের বেশিরভাগই কোনো না কোনোভাবে থাকি কিনারায়। আমরা নেতা নই, আলেম নই, ভিড় যার কথা শোনার অপেক্ষায় থাকে তেমন কেউও নই। এই আয়াতের লোকটিরও কোনো পদ ছিল না। তার কাছে ছিল শুধু একটা খবর, যে একটা অন্যায় ঘটতে যাচ্ছে। আর ছিল একটা সিদ্ধান্ত, যেখানে আছে সেখানেই থেকে যাবে কি না। কুরআন তাকে মনে রেখেছে ওই সিদ্ধান্তের জন্য। তার নাম, পেশা বা মর্যাদা কুরআন বাদ দিয়েছে।"
+          },
+          {
+            "en": "When a wrong is gathering among your own people, the verse sketches what to do. Move, and move with purpose. Go to the people themselves, not only to those they threaten. Call them yours before you correct them, and point them not to yourself but to those who carry the truth. Hurry if the moment needs it. But let the haste be what as-Sa'di saw in this man, an eager care for their good, and not the wish to win.",
+            "bn": "নিজের লোকদের মধ্যে যখন কোনো অন্যায় দানা বাঁধছে, আয়াতটি তখন করণীয়ের একটা ছবি এঁকে দেয়। নড়ে উঠুন, উদ্দেশ্য নিয়ে নড়ে উঠুন। যাদের হুমকি দেওয়া হচ্ছে শুধু তাদের কাছে নয়, খোদ ওই লোকদের কাছে যান। শুধরে দেওয়ার আগে তাদের আপন বলে ডাকুন। আর তাদের নিজের দিকে নয়, যাঁরা সত্য বহন করেন তাঁদের দিকে দেখিয়ে দিন। মুহূর্তটা তাড়া চাইলে তাড়াতাড়ি করুন। তবে সে তাড়ার পেছনে থাকুক সেই জিনিস, যা সা'দী এই লোকটির মধ্যে দেখেছিলেন: তাদের কল্যাণের জন্য আন্তরিক আগ্রহ, জিতে যাওয়ার ইচ্ছা নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "36:23": {
     "sections": [
       {
