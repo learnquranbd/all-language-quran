@@ -1787,6 +1787,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "47:33": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Address Turns to Believers",
+          "bn": "এবার মুমিনদের দিকে মুখ"
+        },
+        "p": [
+          {
+            "en": "Ya ayyuha lladhina amanu, ati'u Allaha wa ati'u r-rasula wa la tubtilu a'malakum: O you who believe, obey Allah and obey the Messenger, and do not void your deeds. The verse before it ends on a sentence about others. Those who disbelieved, turned people from Allah's path and opposed the Messenger will not harm Allah at all, and He will void their deeds. Al-Qurtubi names the turn: having made plain the state of the disbelievers, Allah commands the believers to hold fast to obedience.",
+            "bn": "ইয়া আইয়্যুহাল্লাযীনা আমানূ, আতীউল্লাহা ওয়া আতীউর রাসূলা ওয়া লা তুবতিলূ আ'মালাকুম: হে ঈমানদারগণ, আল্লাহর আনুগত্য কর, রসূলের আনুগত্য কর, আর নিজেদের আমল নষ্ট করো না। এর আগের আয়াত শেষ হয়েছে অন্যদের কথায়। যারা কুফরী করেছে, মানুষকে আল্লাহর পথ থেকে ফিরিয়েছে, আর রসূলের বিরোধিতা করেছে, তারা আল্লাহর কোনো ক্ষতিই করতে পারবে না, আর তিনি তাদের আমল নষ্ট করে দেবেন। তারপরই মোড় ঘোরে। কুরতুবী তা ধরিয়ে দেন: কাফিরদের অবস্থা স্পষ্ট করার পর আল্লাহ মুমিনদের হুকুম দিলেন আনুগত্যে অটল থাকতে।"
+          },
+          {
+            "en": "The word a'mal, deeds, threads through this stretch of the surah. In 47:28 Allah voided the deeds of those who followed what angered Him. 47:32 says He will void the deeds of those who opposed the Messenger. Then this verse hands the believers the same word inside a command: do not void your own. Two verses later, 47:35 promises that Allah will never deprive them of their deeds, which Ibn Kathir explains as never invalidating or nullifying them, but giving their rewards in full.",
+            "bn": "আ'মাল, অর্থাৎ আমল, শব্দটি সূরার এই অংশে সুতোর মতো গাঁথা। ৪৭:২৮ আয়াতে আল্লাহ তাদের আমল নষ্ট করেছেন, যারা তাঁর অসন্তুষ্টির পথ ধরেছিল। ৪৭:৩২ আয়াত বলে, রসূলের বিরোধীদের আমল তিনি নষ্ট করে দেবেন। এরপর এ আয়াত একই শব্দ মুমিনদের হাতে তুলে দেয় হুকুমের আকারে: নিজেদের আমল তোমরা নষ্ট করো না। দুই আয়াত পরে ৪৭:৩৫ প্রতিশ্রুতি দেয়, আল্লাহ তাদের আমল থেকে কখনো বঞ্চিত করবেন না। ইবন কাসীর এর ব্যাখ্যায় বলেন, তিনি তা বাতিল বা নিষ্ফল করবেন না, বরং পুরো প্রতিদান দেবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Obeying in Roots and Branches",
+          "bn": "দীনের মূলে ও শাখায় আনুগত্য"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses the call plainly: you who believe in Allah and His Messenger, obey Allah and obey the Messenger in what the two of them command and forbid. The Muyassar uses the same phrase, and describes those addressed as people who affirmed Allah and His Messenger and acted on His law. Al-Qurtubi divides the two obediences by their objects: obedience to Allah in His commands, and to the Messenger in his sunan, his practice.",
+            "bn": "তাবারীর ব্যাখ্যা সোজাসাপ্টা: হে আল্লাহ ও তাঁর রসূলের প্রতি ঈমান আনা লোকেরা, আল্লাহ ও রসূল যা আদেশ করেন আর যা নিষেধ করেন, তাতে তাঁদের আনুগত্য কর। মুয়াসসারও একই কথা বলে। আর সম্বোধিত লোকদের পরিচয় দেয় এভাবে: যারা আল্লাহ ও তাঁর রসূলকে সত্য বলে মেনেছে আর তাঁর শরীয়ত অনুযায়ী আমল করেছে। কুরতুবী দুই আনুগত্যকে ভাগ করেন বিষয় ধরে। আল্লাহর আনুগত্য তাঁর আদেশে, রসূলের আনুগত্য তাঁর সুন্নাহয়।"
+          },
+          {
+            "en": "As-Sa'di widens the frame. Allah, he writes, commands the believers with a thing by which their affairs are made complete and their happiness in religion and in the world is gained: obedience to Him and to His Messenger, in the roots of the religion and in its branches. He then defines obedience itself: carrying out the command and keeping away from the prohibition, in the manner commanded, with sincerity and complete following.",
+            "bn": "সা'দী পরিসরটা আরও বড় করেন। তাঁর ভাষায়, আল্লাহ মুমিনদের এমন এক জিনিসের হুকুম দিচ্ছেন যাতে তাদের সব কাজ পূর্ণতা পায়, আর দীন ও দুনিয়া দুই জায়গাতেই সৌভাগ্য আসে। সেটা হলো আল্লাহ ও তাঁর রসূলের আনুগত্য, দীনের মূল বিষয়ে এবং শাখা-প্রশাখায়ও। এরপর তিনি আনুগত্যের সংজ্ঞা দেন: হুকুম পালন করা আর নিষেধ থেকে দূরে থাকা, ঠিক যেভাবে বলা হয়েছে সেভাবে, ইখলাস আর পরিপূর্ণ অনুসরণের সঙ্গে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Wider Word Than Habt",
+          "bn": "হাবতের চেয়ে প্রশস্ত শব্দ"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an notices the verb change between the two verses. Of the disbelievers, 47:32 says wa sa-yuhbitu, He will render their deeds void, from habt. To the believers this verse says la tubtilu, from ibtal. Ma'arif holds that ibtal was chosen here because its scope is much wider than habt, and that a deed can be voided in two ways. The first is disbelief, the case 47:32 described. If someone accepted Islam and later left it, his good works from those days are voided by that apostasy.",
+            "bn": "মাআরিফুল কুরআন খেয়াল করে, দুই আয়াতে ক্রিয়া বদলে গেছে। কাফিরদের বেলায় ৪৭:৩২ বলে ওয়া সায়ুহবিতু, তিনি তাদের আমল নিষ্ফল করবেন। শব্দটি হাবত থেকে। আর মুমিনদের এ আয়াত বলে লা তুবতিলূ, যা ইবতাল থেকে। মাআরিফের মতে এখানে ইবতাল বেছে নেওয়ার কারণ, এর পরিসর হাবতের চেয়ে অনেক বড়। আমল নষ্ট হওয়ার পথ দুটি। প্রথমটি কুফর, যার কথা ৪৭:৩২ আয়াতে এসেছে। কেউ ইসলাম গ্রহণ করে পরে তা ছেড়ে দিলে, ইসলামে থাকার দিনগুলোর নেক আমলও পরবর্তী মুরতাদ হওয়ার কারণে নষ্ট হয়ে যায়।"
+          },
+          {
+            "en": "The second way is subtler. The acceptance of some righteous deeds, Ma'arif explains, depends on conditions, and when a condition is missing the deed bears no fruit. Its chief example is sincerity: every righteous act must be done for Allah alone, not as a display for people. It cites 98:5, that they were commanded only to worship Allah, making the religion sincerely His, and 39:3. Its third witness is 2:264, where believers are told not to void their charity by reminders of favour and by hurt.",
+            "bn": "দ্বিতীয় পথটি আরও সূক্ষ্ম। মাআরিফ বুঝিয়ে বলে, কিছু নেক আমল কবুল হওয়া কিছু শর্তের উপর নির্ভর করে। শর্ত না থাকলে আমল ফল দেয় না। এর প্রধান উদাহরণ ইখলাস। প্রতিটি নেক কাজ করতে হবে শুধু আল্লাহর জন্য, মানুষকে দেখানোর জন্য নয়। এর পক্ষে মাআরিফ আনে ৯৮:৫, যেখানে বলা হয়েছে তাদের শুধু এই হুকুমই দেওয়া হয়েছিল যে তারা দীনকে আল্লাহর জন্য খাঁটি করে তাঁর ইবাদত করবে। আনে ৩৯:৩ আয়াতও। তৃতীয় সাক্ষী ২:২৬৪, যেখানে মুমিনদের বলা হয়েছে খোঁটা দিয়ে আর কষ্ট দিয়ে নিজেদের দান নষ্ট করো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Voids a Deed",
+          "bn": "কিসে আমল বরবাদ হয়"
+        },
+        "p": [
+          {
+            "en": "What, then, voids a deed? Al-Qurtubi gathers the early answers. Al-Hasan said: by sins. Az-Zuhri said: by major sins. Ibn Jurayj said: by showing off and seeking a name, riya' and sum'a. Muqatil and ath-Thumali said: by mann, reminding of a favour; on this reading, al-Qurtubi adds, the verse addresses people who presented their Islam to the Prophet ﷺ as a favour done to him. Al-Baghawi adds two more. 'Ata said: by doubt and hypocrisy. Al-Kalbi, like Ibn Jurayj, said: by showing off and seeking a name.",
+            "bn": "তাহলে আমল নষ্ট হয় কিসে? কুরতুবী আগের যুগের উত্তরগুলো এক জায়গায় জড়ো করেন। হাসান বলেছেন: গুনাহ দিয়ে। যুহরী বলেছেন: কবীরা গুনাহ দিয়ে। ইবন জুরাইজ বলেছেন: লোক দেখানো আর নাম কামানোর চেষ্টা দিয়ে, অর্থাৎ রিয়া ও সুম'আ। মুকাতিল ও সুমালী বলেছেন: মান্ন দিয়ে, মানে অনুগ্রহের খোঁটা দিয়ে। কুরতুবী যোগ করেন, এ মত অনুযায়ী আয়াতটি সেই লোকদের উদ্দেশে, যারা নিজেদের ইসলাম গ্রহণকে নবী ﷺ-এর প্রতি অনুগ্রহ বলে জাহির করত। বাগাভী আরও দুটি মত যোগ করেন। আতা বলেছেন: সন্দেহ আর নিফাক দিয়ে। কালবী, ইবন জুরাইজের মতোই, বলেছেন: লোক দেখানো আর নাম কামানো দিয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi does not choose among them. All of it is close together, he says, and al-Hasan's saying gathers it all. At-Tabari answers: do not void the reward of your deeds by disobeying Allah and His Messenger and by disbelieving in your Lord, for disbelief in Allah voids the righteous deeds that went before. The Muyassar is shorter still: do not void the reward of your deeds by disbelief and sins. Both name the reward, thawab, as the thing that is lost.",
+            "bn": "কুরতুবী এগুলোর মধ্যে কোনো একটিকে বেছে নেন না। তিনি বলেন, সবগুলো কাছাকাছি, আর হাসানের কথা সবকে ধারণ করে। তাবারীর উত্তর: আল্লাহ ও রসূলের নাফরমানি করে আর রবের সঙ্গে কুফরী করে নিজেদের আমলের সওয়াব নষ্ট করো না। কারণ আল্লাহর সঙ্গে কুফরী আগের সব নেক আমল মুছে দেয়। মুয়াসসার আরও সংক্ষেপে বলে: কুফর আর গুনাহ দিয়ে নিজেদের আমলের সওয়াব নষ্ট করো না। দুজনের কাছেই যা হারায়, তা আমলের সওয়াব।"
+          },
+          {
+            "en": "Ibn Kathir reads the verse more narrowly. Do not void your deeds, he writes, means by apostasy, and that is why the next verse, 47:34, speaks of those who disbelieved, turned others from Allah's path and then died as disbelievers, whom Allah will never forgive. On Muqatil's reading, al-Baghawi says it came down about Banu Asad and defers the story to Surah al-Hujurat, the surah in which 49:17 rebukes those who counted their Islam a favour. That link rests on Muqatil's word and is not treated here as an established occasion.",
+            "bn": "ইবন কাসীর আয়াতটিকে আরও সংকীর্ণ অর্থে পড়েন। তাঁর মতে আমল নষ্ট করো না মানে মুরতাদ হয়ে নষ্ট করো না। এ কারণেই পরের আয়াত ৪৭:৩৪ তাদের কথা বলে, যারা কুফরী করেছে, অন্যদের আল্লাহর পথ থেকে ফিরিয়েছে, তারপর কাফির অবস্থায় মারা গেছে। আল্লাহ তাদের কখনো ক্ষমা করবেন না। মুকাতিলের মত উল্লেখ করে বাগাভী বলেন, আয়াতটি বনু আসাদের ব্যাপারে নাযিল হয়েছে, আর ঘটনাটি তুলে রাখেন সূরা হুজুরাতের জন্য। সেই সূরারই ৪৯:১৭ আয়াত তাদের তিরস্কার করে, যারা নিজেদের ইসলামকে অনুগ্রহ বলে গণ্য করত। এই যোগসূত্রের ভিত্তি মুকাতিলের কথা। তাই এখানে একে নাযিলের প্রতিষ্ঠিত প্রেক্ষাপট হিসেবে ধরা হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Confidence Turned to Fear",
+          "bn": "নিশ্চিন্ত মনে নেমে এল ভয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens his comment with a report he cites from Muhammad ibn Nasr al-Marwazi's Kitab as-Salah, from Abu l-'Aliya. The Companions of the Messenger of Allah ﷺ, Abu l-'Aliya said, used to think that no sin harms alongside la ilaha illa Allah, just as no deed benefits alongside shirk. Then this verse came down, and they feared that sin might void deeds. Al-Baghawi carries the same report with sincerity, ikhlas, in place of the testimony, and al-Qurtubi with Islam; both end it with a fear of the major sins.",
+            "bn": "ইবন কাসীর তাঁর আলোচনা শুরু করেন একটি বর্ণনা দিয়ে। তিনি তা নিয়েছেন মুহাম্মদ ইবন নাসর আল-মারওয়াযীর কিতাবুস সালাত থেকে, আবুল আলিয়ার বর্ণনা। আবুল আলিয়া বলেন, রসূলুল্লাহ ﷺ-এর সাহাবীরা মনে করতেন, লা ইলাহা ইল্লাল্লাহর সঙ্গে কোনো গুনাহ ক্ষতি করে না, যেমন শিরকের সঙ্গে কোনো আমল কাজে আসে না। তারপর এ আয়াত নাযিল হলো, আর তাঁরা ভয় পেলেন যে গুনাহ আমল নষ্ট করে দিতে পারে। বাগাভীর বর্ণনায় কালিমার জায়গায় আছে ইখলাস, আর কুরতুবীর বর্ণনায় ইসলাম। দুজনের বর্ণনাই শেষ হয় কবীরা গুনাহর ভয়ে।"
+          },
+          {
+            "en": "Ibn Kathir then cites, by way of 'Abdullah ibn al-Mubarak, a report from Ibn 'Umar. We Companions, he said, held that every good deed was accepted, until this verse came down. So we asked one another what it was that voids our deeds, and we said: the major sins that make the Fire due, and the indecencies. Then 4:48 came down: Allah does not forgive that partners be ascribed to Him, and He forgives what is less than that for whom He wills. After that, Ibn 'Umar said, we stopped speaking of it.",
+            "bn": "এরপর ইবন কাসীর আবদুল্লাহ ইবনুল মুবারকের সূত্রে ইবন উমর (রাঃ)-এর একটি বর্ণনা আনেন। তিনি বলেন, আমরা সাহাবীরা মনে করতাম, প্রতিটি নেক কাজই কবুল হয়। এ আয়াত নাযিল হওয়া পর্যন্ত এমনই ভাবতাম। তখন আমরা একে অপরকে জিজ্ঞেস করলাম, আমাদের আমল নষ্ট করে এমন জিনিস কী? আমরা বললাম: যেসব কবীরা গুনাহ জাহান্নাম অবধারিত করে, আর অশ্লীল কাজ। তারপর নাযিল হলো ৪:৪৮: আল্লাহ তাঁর সঙ্গে শরীক করা ক্ষমা করেন না, এর চেয়ে ছোট যা, তা যার জন্য ইচ্ছা ক্ষমা করেন। ইবন উমর (রাঃ) বলেন, এ আয়াত নাযিল হওয়ার পর আমরা ও বিষয়ে কথা বলা থেকে বিরত হলাম।"
+          },
+          {
+            "en": "We used to fear for those who fell into major sins and indecencies, he went on, and to hope for those who did not. Ibn Kathir gives no grading for either report, so both stand here as reports, not as the verse's settled occasion. Together they trace a confidence turned to fear and, in Ibn 'Umar's telling, a settling between fear and hope.",
+            "bn": "তিনি আরও বলেন, এরপর যারা কবীরা গুনাহ আর অশ্লীল কাজে জড়িয়েছে, তাদের নিয়ে আমরা ভয় করতাম। আর যারা জড়ায়নি, তাদের জন্য আশা রাখতাম। ইবন কাসীর এ দুই বর্ণনার কোনোটির মান উল্লেখ করেননি। তাই এখানে এগুলো শুধু বর্ণনা হিসেবেই এসেছে, আয়াতের নিশ্চিত শানে নুযূল হিসেবে নয়। দুই বর্ণনায় দেখা যায়, নিশ্চিন্ততা কীভাবে ভয়ে বদলে গেল, আর ইবন উমর (রাঃ)-এর বর্ণনামতে শেষে তাঁরা স্থির হলেন ভয় আর আশার মাঝখানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Can a Sin Undo a Deed?",
+          "bn": "গুনাহ কি নেকি মুছে দেয়?"
+        },
+        "p": [
+          {
+            "en": "Here the commentators differ, and the difference is kept. Al-Qurtubi, having gathered the sayings, writes that the verse holds an indication that major sins void acts of obedience. Qatada, in at-Tabari's chain, goes further: whoever of you is able not to void a righteous deed he has done with an evil deed, let him do so, and there is no strength except through Allah; for good cancels evil and evil cancels good, and what deeds turn on is their endings.",
+            "bn": "এখানে তাফসীরকারদের মধ্যে মতভেদ আছে, আর সেই মতভেদ এখানে রেখে দেওয়া হলো। কুরতুবী মতগুলো জড়ো করার পর লেখেন, আয়াতে ইঙ্গিত আছে যে কবীরা গুনাহ ইবাদত-বন্দেগী নষ্ট করে দেয়। তাবারীর সনদে কাতাদা আরও ব্যাপক কথা বলেন। তিনি বলেন, তোমাদের মধ্যে যে পারে, সে যেন কোনো মন্দ কাজ দিয়ে নিজের করা নেক কাজ নষ্ট না করে। আর আল্লাহর সাহায্য ছাড়া কোনো শক্তি নেই। কারণ ভালো মন্দকে মুছে দেয়, মন্দও ভালোকে মুছে দেয়। আর আমলের আসল ফয়সালা হয় তার শেষ দিয়ে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an takes the other side. It calls it the agreed position that no sin short of disbelief or shirk, major or not, destroys a believer's righteous deeds; a believer who prays and fasts and then steals need not repeat them. So it reads al-Hasan's words, by sins, in either of two ways. Either they mean the sins whose avoidance is a condition of a particular deed, such as showing off, which voids the act it touches. Or they mean the loss of a deed's blessing when sins far outweigh it, not the deed's outright cancelling.",
+            "bn": "মাআরিফুল কুরআন অন্য পক্ষে। তার মতে এ বিষয়ে আলেমরা একমত যে কুফর বা শিরক ছাড়া অন্য কোনো গুনাহ, কবীরা হলেও, মুমিনের নেক আমল ধ্বংস করে না। যে মুমিন নামায পড়ে, রোযা রাখে, তারপর চুরি করে, তাকে নামায-রোযা আবার আদায় করতে বলা হয় না। তাই মাআরিফ হাসানের কথা, গুনাহ দিয়ে, দুইভাবে পড়ে। হয় এর মানে সেসব গুনাহ, যা থেকে বেঁচে থাকা নির্দিষ্ট কোনো আমলের শর্ত। যেমন লোক দেখানো, যা যে আমলে ঢোকে সেটাকেই নষ্ট করে। নয়তো এর মানে, গুনাহ নেকির চেয়ে অনেক বেশি হলে নেকির বরকত চলে যায়। আমল পুরোপুরি বাতিল হয়ে যায় না।"
+          },
+          {
+            "en": "These are readings by named scholars, and the article sides with neither. What they share is the verse's plain demand: a deed, once done, is still to be guarded. Neither reading lets a believer treat his record as closed. The first fears that major sins eat into it; the second, that showing off, reminders of favour and the sheer weight of sin strip it of what it should have brought.",
+            "bn": "এগুলো নির্দিষ্ট আলেমদের মত, আর এ লেখা কোনো পক্ষ নিচ্ছে না। তবে দুই মতের মধ্যে মিল আছে আয়াতের সোজা দাবিতে: আমল করা হয়ে গেলেও তা পাহারা দিতে হয়। কোনো মতই মুমিনকে এ সুযোগ দেয় না যে সে নিজের আমলনামাকে বন্ধ খাতা ভাববে। এক মতের ভয়, কবীরা গুনাহ তা ক্ষয় করে ফেলবে। অন্য মতের ভয়, লোক দেখানো, খোঁটা দেওয়া আর গুনাহর ভার আমলকে তার প্রাপ্য ফল থেকে বঞ্চিত করবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Breaking Off What Was Begun",
+          "bn": "শুরু করা ইবাদত মাঝপথে ছাড়া"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's second question turns from belief to practice. Our scholars and others, he writes, argued from this verse that once a voluntary prayer or fast has been begun, leaving it unfinished is not allowed, since that voids a deed and Allah forbade it. Those who allowed it, ash-Shafi'i among them, said the verse means voiding the reward of an obligatory deed; a voluntary act is not owed, so it falls outside. If the wording is general, they said, a general wording may be specified, and what is voluntary by its nature leaves a choice.",
+            "bn": "কুরতুবীর দ্বিতীয় আলোচনা আকীদা থেকে আমলের দিকে যায়। তিনি লেখেন, 'আমাদের আলেমরা' এবং অন্যরা এ আয়াত থেকে দলিল নিয়েছেন: নফল নামায বা রোযা একবার শুরু করলে তা অসম্পূর্ণ রেখে ছেড়ে দেওয়া জায়েয নয়। কারণ এতে আমল নষ্ট হয়, আর আল্লাহ তা নিষেধ করেছেন। যাঁরা ছেড়ে দেওয়া জায়েয বলেছেন, ইমাম শাফিঈ তাঁদের একজন। তাঁদের মতে আয়াতের উদ্দেশ্য ফরয আমলের সওয়াব নষ্ট করা। নফল তো কারও উপর পাওনা নয়, তাই তা এর আওতায় পড়ে না। তাঁরা বলেন, শব্দ ব্যাপক হলেও ব্যাপক শব্দকে নির্দিষ্ট করা যায়। আর নফলের স্বভাবই হলো ইচ্ছাধীন থাকা।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an sets Imam Abu Hanifah against ash-Shafi'i. For Abu Hanifah, breaking off a voluntary act once begun, without a valid reason, is not permissible, and a make-up, qada', becomes due, since the verse's wording covers every righteous act. For ash-Shafi'i there is neither sin nor make-up, because the act was never obligatory. As-Sa'di reports the jurists drawing from the verse that breaking off an obligatory act is forbidden and breaking off a voluntary act is disliked, in both cases when there is no cause for it.",
+            "bn": "মাআরিফুল কুরআন এ মতভেদে ইমাম আবু হানিফা ও ইমাম শাফিঈকে মুখোমুখি রাখে। আবু হানিফার মতে শুরু করা নফল আমল যুক্তিসংগত কারণ ছাড়া ভেঙে ফেলা জায়েয নয়, আর তার কাযা আদায় করা জরুরি হয়ে যায়। কারণ আয়াতের শব্দ সব নেক আমলকেই শামিল করে। ইমাম শাফিঈর মতে এতে গুনাহও নেই, কাযাও নেই, কারণ আমলটি শুরু থেকেই ফরয ছিল না। সা'দী জানান, ফকীহরা এ আয়াত থেকে এই সিদ্ধান্ত নেন: কারণ ছাড়া ফরয আমল ভেঙে ফেলা হারাম, আর নফল ভেঙে ফেলা মাকরূহ।"
+          },
+          {
+            "en": "As-Sa'di lets the verse cover both moments of a deed. After it is done, it can be spoiled by reminding of it, by self-admiration, by boasting and by seeking a name, and by sins with which deeds dwindle and their reward is voided. While it is being done, it can be spoiled by cutting it off or by doing something that invalidates it, so whatever invalidates prayer, fasting and Hajj falls under the prohibition. Forbidding the voiding of deeds, he concludes, is a command to set them right and complete them.",
+            "bn": "সা'দী আয়াতটিকে আমলের দুই সময়ের উপরই প্রযোজ্য ধরেন। আমল করা হয়ে যাওয়ার পর তা নষ্ট হতে পারে খোঁটা দিলে, নিজের আমলে মুগ্ধ হলে, বড়াই করলে, নাম কামাতে চাইলে। আর এমন গুনাহ করলে, যার সঙ্গে আমল ক্ষয়ে যায়, তার সওয়াব মুছে যায়। আমল চলার সময়ও তা নষ্ট হতে পারে মাঝপথে থামিয়ে দিলে, বা এমন কিছু করলে যা আমলকে বাতিল করে দেয়। তাই নামায, রোযা, হজ্জ নষ্ট করে এমন সব কিছুই এ নিষেধের আওতায়। তাঁর উপসংহার: আমল নষ্ট করার নিষেধ মানেই আমলকে ঠিক রাখা আর পূর্ণ করার হুকুম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Deed Kept to Its End",
+          "bn": "শেষ পর্যন্ত আগলে রাখা আমল"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a sound hadith of the Prophet ﷺ to it. A sound narration not attached to it echoes Qatada's last phrase. Al-Bukhari's Sahih (6607) gives, from Sahl ibn Sa'd, the Prophet's ﷺ closing words after a brave fighter took his own life: \"A man may do the deeds of the people of the Fire while in fact he is one of the people of Paradise, and he may do the deeds of the people of Paradise while in fact he belongs to the people of Fire, and verily, (the rewards of) the deeds are decided by the last actions (deeds).\"",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো সহীহ হাদীস যুক্ত করেনি। তবে একটি সহীহ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, কাতাদার শেষ কথার সঙ্গে মেলে। ইমাম বুখারী তাঁর সহীহ গ্রন্থে (৬৬০৭) সাহল ইবন সা'দ (রাঃ) থেকে বর্ণনা করেন: এক ব্যক্তি যুদ্ধে খুব বীরত্বের সঙ্গে লড়েছিল, পরে আহত হয়ে নিজেই নিজের প্রাণ নেয়। তখন নবী ﷺ শেষে বলেন: \"বান্দা জাহান্নামীদের আমল করে, অথচ সে জান্নাতী; আবার জান্নাতীদের আমল করে, অথচ সে জাহান্নামী। আর আমলের ফয়সালা হয় শেষ আমল দিয়েই।\""
+          },
+          {
+            "en": "This needs saying plainly. 47:32 and 47:34 describe those who disbelieved, turned people from Allah's path and opposed the Messenger, and what the text says of them stays with those the text describes; it licenses nothing against any living person or community. Nor does this verse hand anyone the power to declare another person's deeds void, or to call a fellow Muslim an apostate. It is spoken to each believer about his own deeds, and the fears the commentators record are fears a believer holds for himself.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। ৪৭:৩২ ও ৪৭:৩৪ আয়াত তাদের বর্ণনা দেয়, যারা কুফরী করেছে, মানুষকে আল্লাহর পথ থেকে ফিরিয়েছে আর রসূলের বিরোধিতা করেছে। তাদের সম্পর্কে আয়াত যা বলে, তা আয়াতে বর্ণিত লোকদের বেলাতেই থাকে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আবার এ আয়াত কাউকে এ অধিকারও দেয় না যে সে অন্যের আমল বাতিল বলে ঘোষণা করবে, বা কোনো মুসলিম ভাইকে মুরতাদ বলবে। আয়াতটি প্রত্যেক মুমিনকে তার নিজের আমল নিয়ে বলছে। তাফসীরকারেরা যে ভয়ের কথা লিখেছেন, সে ভয় মুমিনের নিজের জন্য।"
+          },
+          {
+            "en": "The verse is ten words in Arabic, and its order is its counsel. It begins with obedience, to Allah and to the Messenger, and only then warns against voiding. Beside 47:35's promise, it places the danger on the believer's own side: la tubtilu, do not void, is a verb whose subject is you. Guarding a deed begins before it is done, in the sincerity Ma'arif names as its condition, and goes on long after it is finished, for as long as its doer lives.",
+            "bn": "আরবীতে আয়াতটি মাত্র দশটি শব্দের, আর এর বিন্যাসেই উপদেশ। শুরু আনুগত্য দিয়ে, আল্লাহর এবং রসূলের। তারপরই আমল নষ্ট করার বিরুদ্ধে সতর্কবাণী। ৪৭:৩৫ আয়াতের প্রতিশ্রুতির পাশে রেখে পড়লে দেখা যায়, বিপদটা মুমিনের নিজের দিকেই। লা তুবতিলূ, নষ্ট করো না, ক্রিয়াটির কর্তা আপনি নিজে। আমল পাহারা দেওয়া শুরু হয় কাজটা করার আগেই, ইখলাসে, যাকে মাআরিফ কবুলের শর্ত বলেছে। আর তা চলতে থাকে কাজ শেষ হওয়ার অনেক পরেও, যতদিন আমলকারী বেঁচে থাকে।"
+          }
+        ]
+      }
+    ]
+  },
   "47:36": {
     "sections": [
       {

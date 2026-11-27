@@ -38351,6 +38351,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Tie every good deed to faith in Allah, and never stand between anyone and His way; deeds cut off from Him lose their way.",
     "lessonBn": "প্রতিটি ভালো কাজ আল্লাহর ওপর ঈমানের সঙ্গে বেঁধে রাখুন, আর কাউকে কখনো তাঁর পথ থেকে আটকাবেন না। তাঁর থেকে বিচ্ছিন্ন আমল পথ হারায়।"
+  },
+  "47:33": {
+    "reflectionEn": "Most warnings in the Qur'an are about failing to do good. This one is about losing good already done. The verse before it says Allah will void the deeds of those who fought His path; this one turns to the believers and tells them not to void their own. So a prayer I finished, a gift I gave, a fast I kept, is not yet safe. It can be spoiled afterwards, by reminding someone of the favour, by admiring myself for it, by making sure people hear of it. It can be cut off before it is complete. The verse puts obedience to Allah and His Messenger first, as the way to keep what has been built. What have I built lately, and am I guarding it?",
+    "reflectionBn": "কুরআনের বেশির ভাগ সতর্কবাণী ভালো কাজ না করার ব্যাপারে। এ আয়াতের সতর্কবাণী ভিন্ন: যে ভালো কাজ করা হয়ে গেছে, তা হারিয়ে ফেলার ব্যাপারে। আগের আয়াত বলেছে, যারা আল্লাহর পথে বাধা দেয়, আল্লাহ তাদের আমল নষ্ট করে দেবেন। এ আয়াত মুমিনদের দিকে ফিরে বলছে, তোমরা নিজেরা নিজেদের আমল নষ্ট কোরো না। তাহলে যে নামায আমি শেষ করেছি, যে দান করেছি, যে রোযা রেখেছি, তা এখনো নিরাপদ নয়। পরে তা নষ্ট হতে পারে খোঁটা দিলে, নিজের কাজে নিজে মুগ্ধ হলে, লোকে যেন জানে সে ব্যবস্থা করলে। শেষ হওয়ার আগে মাঝপথে ছেড়ে দিলেও নষ্ট হতে পারে। আয়াতটি সবার আগে রেখেছে আল্লাহ ও তাঁর রসূলের আনুগত্য, কারণ গড়া জিনিস টিকিয়ে রাখার পথ সেটাই। ইদানীং আমি কী গড়েছি? আর তা কি আমি পাহারা দিয়ে রাখছি?",
+    "pointsEn": [
+      "Which good deed of mine have I mentioned to others since doing it, and what did I want from mentioning it?",
+      "Is there someone I helped whom I have reminded, even by a look or a tone, that they owe me?",
+      "When I begin a prayer or a fast, do I carry it to its end with the care I began it with?",
+      "Do I treat my past good deeds as a store nothing can touch, or as something I still have to guard?",
+      "Am I quicker to judge that someone else's deeds count for nothing than to watch over my own?"
+    ],
+    "pointsBn": [
+      "কোনো ভালো কাজ করার পর আমি কি তা অন্যদের বলে বেড়িয়েছি? বলার সময় মনে মনে কী চাইছিলাম?",
+      "যাকে সাহায্য করেছি, তাকে কি কখনো, একটা চাহনিতে বা কথার সুরে হলেও, মনে করিয়ে দিয়েছি যে সে আমার কাছে ঋণী?",
+      "নামায বা রোযা যে যত্ন নিয়ে শুরু করি, শেষ পর্যন্ত কি সেই যত্ন ধরে রাখি?",
+      "আমার আগের নেক আমলগুলোকে কি এমন সঞ্চয় ভাবি যা কেউ ছুঁতে পারবে না, নাকি এমন সম্পদ যা এখনো পাহারা দিতে হয়?",
+      "নিজের আমলের খোঁজ রাখার চেয়ে অন্যের আমল বাতিল বলে রায় দিতে কি আমি বেশি তৎপর?"
+    ],
+    "lessonEn": "Guard the good you have already done: obey Allah and His Messenger, and do not spoil your deeds by showing off, by reminders of favour, or by sin.",
+    "lessonBn": "যে নেক আমল করে ফেলেছেন, তা আগলে রাখুন। আল্লাহ ও তাঁর রসূলের আনুগত্য করুন, আর লোক দেখানো, খোঁটা দেওয়া বা গুনাহ দিয়ে নিজের আমল নষ্ট করবেন না।"
   }
 };
 
