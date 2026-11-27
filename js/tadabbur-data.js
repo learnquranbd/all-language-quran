@@ -37233,6 +37233,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When hardship touches you, take it to Allah in plain words, and keep your tongue courteous toward Him: name the harm without laying it at His door.",
     "lessonBn": "কষ্ট এলে সোজা কথায় তা আল্লাহকে জানান, আর তাঁর ব্যাপারে মুখের আদব বজায় রাখুন: কষ্টের নাম নিন, কিন্তু তা তাঁর দিকে জুড়ে দেবেন না।"
+  },
+  "39:21": {
+    "reflectionEn": "Rain falls, and most of it seems to vanish into the ground. It is not lost: the verse says Allah threads it through the earth as springs, so that water from one season rises again in another. Then that same water brings up crops of many colours, and you watch them ripen, turn yellow and break into chaff. Nothing here is hidden. The verse only asks whether you have seen it. A field goes from green to stubble in a few months, and a human life walks the same road more slowly. The verse calls this a reminder for people of understanding. What am I still treating as if it will stay green? And when my own colour begins to turn, what will remain?",
+    "reflectionBn": "বৃষ্টি নামে, আর তার বেশির ভাগই যেন মাটির ভেতরে হারিয়ে যায়। আসলে হারায় না। আয়াত বলছে, আল্লাহ সেই পানিকে মাটির ভেতর দিয়ে ঝর্ণা করে চালিয়ে দেন, ফলে এক মৌসুমের পানি আরেক মৌসুমে আবার উঠে আসে। তারপর সেই পানি দিয়েই ওঠে নানা রঙের ফসল। আপনি দেখেন, ফসল পাকে, হলুদ হয়ে যায়, শেষে ভেঙে খড়কুটো হয়ে যায়। এর কিছুই লুকানো নয়। আয়াত শুধু জিজ্ঞেস করে, আপনি কি দেখেননি? একটা মাঠ কয়েক মাসে সবুজ থেকে নাড়ায় পরিণত হয়। মানুষের জীবনও সেই একই পথে হাঁটে, শুধু একটু ধীরে। আয়াত একে বলেছে বোধসম্পন্ন মানুষের জন্য উপদেশ। আমি কোন জিনিসকে এখনো ভাবছি চিরকাল সবুজ থাকবে? আর আমার নিজের রং যখন বদলাতে শুরু করবে, তখন কী টিকে থাকবে?",
+    "pointsEn": [
+      "When did I last look at rain, a spring or a field and let it turn my thoughts to the One who sends it, rather than only to whether it suits my plans?",
+      "What in my life am I treating as if it will stay green forever: my health, my strength, my work, my good name?",
+      "Allah stores the rain in the earth for the days when no rain falls. What good am I storing now that will still be there in my dry season?",
+      "If the dead earth comes back to life after rain, what makes me doubt that He can raise me again, or soften a heart that has gone dry?",
+      "When I see a field turn yellow, do I learn anything from it, or do I only notice the price of the harvest?"
+    ],
+    "pointsBn": [
+      "শেষ কবে বৃষ্টি, ঝর্ণা বা ফসলের মাঠ দেখে আমার মন সেই সত্তার দিকে গেছে যিনি এগুলো পাঠান? নাকি আমি শুধু ভেবেছি, এটা আমার কাজে লাগবে কি না?",
+      "জীবনের কোন জিনিসকে আমি এমনভাবে আঁকড়ে আছি, যেন তা চিরকাল সবুজ থাকবে: স্বাস্থ্য, শক্তি, কাজ, নাকি সুনাম?",
+      "যেদিন বৃষ্টি থাকে না, সেদিনের জন্য আল্লাহ বৃষ্টির পানি মাটির ভেতরে জমা রাখেন। আমি এখন কোন নেক আমল জমা করছি, যা আমার খরার দিনে কাজে আসবে?",
+      "বৃষ্টির পর মরা মাটি যদি আবার জেগে ওঠে, তবে তিনি আমাকে আবার জীবিত করবেন, কিংবা শুকিয়ে যাওয়া হৃদয়কে নরম করবেন, এতে আমার সন্দেহ কেন?",
+      "কোনো মাঠকে হলুদ হতে দেখলে আমি কি কিছু শিখি, নাকি শুধু ফসলের দামের কথাই ভাবি?"
+    ],
+    "lessonEn": "Watch the rain, the springs and the field turning yellow, and let them remind you that this world fades and that the One who revives the earth will raise you too.",
+    "lessonBn": "বৃষ্টি, ঝর্ণা আর হলুদ হয়ে যাওয়া মাঠের দিকে তাকান। এগুলো আপনাকে মনে করিয়ে দিক, এ দুনিয়া ম্লান হয়ে যায়, আর যিনি মরা মাটিকে জীবিত করেন, তিনি আপনাকেও আবার জীবিত করবেন।"
   }
 };
 

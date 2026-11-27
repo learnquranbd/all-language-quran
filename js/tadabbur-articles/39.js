@@ -931,6 +931,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "39:21": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Promised Rivers to Rain",
+          "bn": "প্রতিশ্রুত নহর থেকে বৃষ্টিতে"
+        },
+        "p": [
+          {
+            "en": "A-lam tara anna Allaha anzala min as-sama'i ma'an: do you not see that Allah sends down water from the sky? The verse comes straight after 39:20, which promised those who fear their Lord chambers built above chambers, with rivers flowing beneath them, and closed with the words: Allah does not fail in His promise. At-Tabari reads the question as spoken to the Prophet ﷺ: do you not see, O Muhammad. What it points to is already in view of anyone who has watched one season pass.",
+            "bn": "আলাম তারা আন্নাল্লাহা আনযালা মিনাস সামায়ি মাআন: আপনি কি দেখেন না, আল্লাহ আকাশ থেকে পানি বর্ষণ করেন? আয়াতটি এসেছে ঠিক ৩৯:২০-এর পরে। সেখানে যারা তাদের রবকে ভয় করে, তাদের প্রতিশ্রুতি দেওয়া হয়েছে প্রাসাদের উপর নির্মিত প্রাসাদের, যার নিচ দিয়ে নহর বয়ে যায়। আয়াতটি শেষ হয়েছে এই কথায়: আল্লাহ প্রতিশ্রুতি ভঙ্গ করেন না। তাবারী প্রশ্নটিকে পড়েন নবী ﷺ-এর প্রতি সম্বোধন হিসেবে: হে মুহাম্মাদ, আপনি কি দেখেন না? যে জিনিসের দিকে প্রশ্নটি ইশারা করে, তা এমন যে-কারও চোখের সামনেই আছে, যে একটি মৌসুম পার হতে দেখেছে।"
+          },
+          {
+            "en": "Al-Qurtubi makes the link to that promise explicit. Allah, he says, does not fail in His appointment to bring creation back to life and to separate the believer from the disbeliever, and He is able to do that just as He is able to send water down from the sky. On this reading the rain is brought in as evidence for the promise just made. Al-Qurtubi and al-Muyassar both gloss min as-sama' as from the clouds, and at-Tabari and al-Qurtubi both gloss the water as rain.",
+            "bn": "কুরতুবী আগের আয়াতের প্রতিশ্রুতির সঙ্গে সম্পর্কটা খোলাখুলি দেখান। তিনি বলেন, সৃষ্টিকে আবার জীবিত করা আর মুমিন ও কাফিরকে আলাদা করার যে ওয়াদা, আল্লাহ তা ভঙ্গ করেন না। আকাশ থেকে পানি নামাতে তিনি যেমন সক্ষম, তেমনি সক্ষম এ কাজেও। এ পাঠে বৃষ্টির কথা আনা হয়েছে সদ্য দেওয়া প্রতিশ্রুতির প্রমাণ হিসেবে। কুরতুবী ও মুয়াসসার দুজনেই মিনাস সামা-র ব্যাখ্যা দেন মেঘ থেকে। আর তাবারী ও কুরতুবী দুজনেই বলেন, এখানে পানি মানে বৃষ্টি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Threaded Into the Ground",
+          "bn": "মাটির ভেতরে চালিয়ে দেওয়া পানি"
+        },
+        "p": [
+          {
+            "en": "Fa-salakahu yanabi'a fi al-ard: and He threads it through the earth as springs. The commentators gloss the verb from two sides. At-Tabari has fa-ajrahu 'uyunan, He made it run as springs in the earth. Al-Muyassar and al-Baghawi have adkhalahu, He made it enter the earth, and al-Muyassar adds that He made it welling springs and running water. Al-Qurtubi joins the two: He made it enter the earth and settle there, and he cites the words of 23:18, fa-askannahu fi al-ard, and We lodged it in the earth.",
+            "bn": "ফাসালাকাহু ইয়ানাবীআ ফিল আরদ: অতঃপর তিনি তা মাটির ভেতর দিয়ে ঝর্ণা করে চালিয়ে দেন। ক্রিয়াটির ব্যাখ্যা তাফসীরকারেরা দেন দুই দিক থেকে। তাবারী বলেন ফাআজরাহু উয়ূনান, অর্থাৎ তিনি তা মাটিতে ঝর্ণা হিসেবে প্রবাহিত করলেন। মুয়াসসার ও বাগাভী বলেন আদখালাহু, অর্থাৎ তিনি তা মাটির ভেতরে ঢুকিয়ে দিলেন। মুয়াসসার এর সঙ্গে যোগ করেন, তিনি তা বানালেন উৎসারিত ঝর্ণা আর বহমান পানি। কুরতুবী দুটোকে মিলিয়ে বলেন, তিনি তা মাটিতে ঢুকিয়ে সেখানে থিতু করে রাখলেন। সঙ্গে তিনি উদ্ধৃত করেন ২৩:১৮-এর শব্দ: ফাআসকান্নাহু ফিল আরদ, আর আমি তা মাটিতে স্থির করে রাখলাম।"
+          },
+          {
+            "en": "As-Sa'di uses a third word, awda'ahu: He deposited it in the earth as a spring that is drawn out with ease. Yanabi' is the plural of yanbu'. At-Tabari defines it as what wells up from the earth; al-Qurtubi calls it a yaf'ul form from naba'a, to flow out, meaning a spring of water. Al-Baghawi glosses the plural as springs and wells. Read side by side, the glosses hold both movements of the water: it goes down and is kept, and it comes up again where people can reach it.",
+            "bn": "সা'দী ব্যবহার করেন তৃতীয় একটি শব্দ, আওদাআহু: তিনি তা মাটিতে আমানতের মতো জমা রাখলেন, এমন ঝর্ণা হিসেবে যা সহজে তুলে আনা যায়। ইয়ানাবী শব্দটি ইয়ামবূ-এর বহুবচন। তাবারীর সংজ্ঞায় ইয়ামবূ হলো মাটি থেকে যা উথলে বের হয়। কুরতুবী বলেন, শব্দটি নাবাআ ধাতু থেকে ইয়াফঊল ওজনে গঠিত, যার অর্থ বেরিয়ে আসা, আর ইয়ামবূ মানে পানির ঝর্ণা। বাগাভী বহুবচনটির ব্যাখ্যা দেন ঝর্ণা ও কূপ বলে। ব্যাখ্যাগুলো পাশাপাশি রাখলে পানির দুটো চলাই ধরা পড়ে। পানি নিচে নামে আর জমা থাকে, তারপর আবার উঠে আসে সেখানে, যেখানে মানুষ তার নাগাল পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Spring Began as Rain",
+          "bn": "প্রতিটি ঝর্ণার শুরু বৃষ্টিতে"
+        },
+        "p": [
+          {
+            "en": "Several of the early authorities said the same thing about the earth's water. At-Tabari reports ash-Sha'bi on this verse: every dampness and water in the earth came down from the sky. Al-Baghawi gives ash-Sha'bi's words without the dampness. Al-Qurtubi gives them from ash-Sha'bi and ad-Dahhak together, with an addition: it comes down from the sky to the rock, and from there the springs and wells are divided. Ibn Kathir gives the same statement from Sa'id ibn Jubayr and 'Amir ash-Sha'bi, and he cites 25:48: and We send down from the sky pure water.",
+            "bn": "পৃথিবীর পানি নিয়ে প্রথম যুগের কয়েকজন আলেম একই কথা বলেছেন। এ আয়াতের আলোচনায় তাবারী শা'বী থেকে বর্ণনা করেন: মাটিতে যত আর্দ্রতা আর যত পানি আছে, সবই আকাশ থেকে নেমেছে। বাগাভী শা'বীর কথাটি আনেন আর্দ্রতার উল্লেখ ছাড়া। কুরতুবী কথাটি আনেন শা'বী ও দাহহাক দুজনের নামে, সঙ্গে একটি সংযোজন: পানি আকাশ থেকে নেমে পাথর পর্যন্ত পৌঁছায়, তারপর সেখান থেকে ঝর্ণা আর কূপগুলোতে ভাগ হয়ে যায়। ইবন কাসীর একই কথা আনেন সাঈদ ইবন জুবাইর ও আমির শা'বী থেকে, আর উদ্ধৃত করেন ২৫:৪৮: আর আমি আকাশ থেকে পবিত্র পানি বর্ষণ করি।"
+          },
+          {
+            "en": "Ibn Kathir also relays, through a chain of Ibn Abi Hatim ending with 'Ikrima, a statement of Ibn 'Abbas: there is no water in the earth except what came down from the sky, but veins in the earth change it. From Sa'id ibn Jubayr he adds that its origin is snow, which piles up on the mountains, settles at their base, and the springs flow out from below them. In his own words, the water lies hidden in the earth once it comes down; Allah then directs it through the earth as He wills and brings it out as springs, small and large, according to the need for them.",
+            "bn": "ইবন কাসীর ইবন আবী হাতিমের একটি সনদে, যা ইকরিমা হয়ে পৌঁছেছে, ইবন আব্বাস (রাঃ)-এর একটি উক্তিও আনেন: মাটিতে এমন কোনো পানি নেই যা আকাশ থেকে নামেনি, তবে মাটির ভেতরের শিরাগুলো তাকে বদলে দেয়। সাঈদ ইবন জুবাইর থেকে তিনি আরও আনেন, এ পানির মূল হলো বরফ। বরফ পাহাড়ের উপর জমে, পাহাড়ের তলায় গিয়ে থিতু হয়, আর তার নিচ থেকে ঝর্ণা বেরিয়ে আসে। ইবন কাসীরের নিজের ভাষায়, পানি নামার পর মাটির ভেতরে লুকিয়ে থাকে। তারপর আল্লাহ যেভাবে চান মাটির নানা অংশে তা চালিয়ে দেন, আর প্রয়োজন অনুযায়ী ছোট-বড় ঝর্ণা হিসেবে বের করে আনেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an dwells on the storing. Sending water down is a great blessing, it says, but the arrangement to keep it underground matters as much; without it people would benefit only while it rained or a few days after. It describes water gathering in ponds and reservoirs, held as ice on mountain peaks, travelling through veins in the mountains to emerge as streams, and flowing on underground where a well can reach it. These are the commentators' own descriptions; this article adds no claim of its own about how water moves beneath the ground.",
+            "bn": "মাআরিফুল কুরআন জমিয়ে রাখার দিকটায় বেশি সময় দেয়। সেখানে বলা হয়েছে, আকাশ থেকে পানি নামানো বড় নিয়ামত, কিন্তু সে পানি মাটির নিচে ধরে রাখার ব্যবস্থাও সমান জরুরি। তা না হলে মানুষ পানির উপকার পেত কেবল বৃষ্টির সময়টুকু, কিংবা তার পরের কয়েক দিন। মাআরিফুল কুরআন বর্ণনা করে, কিছু পানি জমে পুকুর আর জলাধারে, কিছু বরফ হয়ে থাকে পাহাড়ের চূড়ায়, পাহাড়ের শিরা বেয়ে নেমে আসে ঝরনাধারা হয়ে, আর বাকিটা বয়ে চলে মাটির নিচে, যেখানে কূপ খুঁড়ে নাগাল পাওয়া যায়। এগুলো তাফসীরকারদের নিজেদের বর্ণনা। মাটির নিচে পানি কীভাবে চলে, সে বিষয়ে এ লেখা নিজের পক্ষ থেকে কোনো দাবি যোগ করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Water, Many Colours",
+          "bn": "এক পানি, বহু রং"
+        },
+        "p": [
+          {
+            "en": "Thumma yukhriju bihi zar'an mukhtalifan alwanuhu: then He brings out by it crops of differing colours. Ibn Kathir specifies the water as both what came down from the sky and what welled up from the earth. On the colours the commentators read in different directions. At-Tabari takes them as kinds: wheat, barley, sesame, rice and the like; as-Sa'di's list is wheat, maize, barley and rice. Al-Qurtubi and al-Baghawi take them as actual colours, red, yellow and green, with al-Qurtubi adding blue and blossom.",
+            "bn": "সুম্মা ইউখরিজু বিহী যারআন মুখতালিফান আলওয়ানুহু: তারপর তিনি তা দিয়ে বের করেন নানা রঙের ফসল। ইবন কাসীর বলে দেন, এখানে পানি মানে আকাশ থেকে যা নেমেছে আর মাটি থেকে যা উথলে উঠেছে, দুটোই। রং নিয়ে তাফসীরকারেরা ভিন্ন ভিন্ন দিকে গেছেন। তাবারী রংকে পড়েন প্রকার হিসেবে: গম, যব, তিল, ধান আর এ জাতীয় ফসল। সা'দীর তালিকায় আছে গম, ভুট্টা, যব আর ধান। কুরতুবী ও বাগাভী রংকে পড়েন আসল রং হিসেবে: লাল, হলুদ, সবুজ। কুরতুবী এর সঙ্গে যোগ করেন নীল রং আর ফুল।"
+          },
+          {
+            "en": "Ibn Kathir widens the word further: their shapes, tastes, smells and uses. Al-Qurtubi adds that zar' here is a generic noun, meaning many crops of many sorts. Ma'arif al-Qur'an makes a grammatical point of its own. Mukhtalifan stands as a hal, a word describing a state, and it says this denotes change: as the crops grow and ripen, their colours keep turning from one to the next. So the colours are read as kinds side by side, as hues across a field, and as one field's changing colour through its season.",
+            "bn": "ইবন কাসীর শব্দটিকে আরও প্রশস্ত করেন: ফসলের আকার, স্বাদ, গন্ধ আর উপকারিতা, সবই এর মধ্যে পড়ে। কুরতুবী বলেন, এখানে যার শব্দটি জাতিবাচক, অর্থাৎ নানা ধরনের অনেক ফসল। মাআরিফুল কুরআন নিজের দিক থেকে একটি ব্যাকরণের কথা তোলে। মুখতালিফান শব্দটি এসেছে হাল হিসেবে, অর্থাৎ অবস্থা বোঝানো শব্দ হিসেবে, আর মাআরিফুল কুরআনের মতে এটি পরিবর্তন বোঝায়। ফসল যত বাড়ে আর পাকে, তার রং এক রং থেকে আরেক রঙে বদলাতে থাকে। তাহলে রংকে পড়া হয়েছে তিনভাবে: পাশাপাশি নানা প্রকার, মাঠজুড়ে নানা রং, আর একই মাঠের মৌসুমজুড়ে বদলে যাওয়া রং।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Verb Shared With Anger",
+          "bn": "রাগের সঙ্গে ভাগ করা ক্রিয়া"
+        },
+        "p": [
+          {
+            "en": "Thumma yahiju fa-tarahu musfarran: then it dries and you see it turned yellow. At-Tabari explains the verb from usage: when the green in a land dries and withers, it is said hajat al-ard, and of a crop, haja az-zar'. Al-Qurtubi gives al-Asma'i, through al-Mubarrad, saying hajat al-ard when its plants turn back and depart, and al-Jawhari saying haja an-nabt, the plant dried. Al-Jawhari's entry goes on: the same verb gives haja ha'ijuhu, his anger flared up, and hada'a ha'ijuhu, his fury settled.",
+            "bn": "সুম্মা ইয়াহীজু ফাতারাহু মুসফাররা: তারপর তা শুকিয়ে যায়, আর আপনি দেখেন তা হলুদ হয়ে গেছে। তাবারী ক্রিয়াটির ব্যাখ্যা দেন আরবদের ব্যবহার থেকে। কোনো জমির সবুজ শুকিয়ে নেতিয়ে পড়লে বলা হয় হাজাতিল আরদ, আর ফসলের বেলায় হাজায যার। কুরতুবী মুবাররাদের সূত্রে আসমাঈর কথা আনেন: জমির গাছপালা যখন মুখ ফিরিয়ে বিদায় নেয়, তখন বলা হয় হাজাতিল আরদ। জাওহারীর কথাও আনেন: হাজান নাবত, অর্থাৎ গাছ শুকিয়ে গেল। জাওহারী আরও বলেন, একই ক্রিয়া থেকে আসে হাজা হায়িজুহু, অর্থাৎ তার রাগ জ্বলে উঠল, আর হাদাআ হায়িজুহু, অর্থাৎ তার উত্তেজনা থিতিয়ে গেল।"
+          },
+          {
+            "en": "Ibn Kathir describes the stage as the crop passing from its freshness and youth into middle age, and the yellow as the colour of a plant that dryness has mixed with. As-Sa'di names two occasions for it: when the crop reaches its completion, or when some blight strikes it. Between the verb and the colour comes fa-tarahu, and you see it. The verse opened by asking about seeing, and here it sets the listener before the field again.",
+            "bn": "ইবন কাসীর এ পর্যায়টিকে বর্ণনা করেন এভাবে: ফসল তার সতেজতা আর যৌবন পেরিয়ে মাঝবয়সে পৌঁছায়। আর হলুদ রং হলো সেই গাছের রং, যার ভেতরে শুষ্কতা মিশে গেছে। সা'দী এর দুটি উপলক্ষের কথা বলেন: ফসল যখন পূর্ণতায় পৌঁছায়, অথবা যখন কোনো রোগবালাই তাকে আক্রমণ করে। ক্রিয়া আর রঙের মাঝখানে আসে ফাতারাহু, অর্থাৎ আপনি তা দেখেন। আয়াতটি শুরু হয়েছিল দেখা নিয়ে প্রশ্ন দিয়ে। এখানে এসে আয়াত শ্রোতাকে আবার মাঠের সামনে দাঁড় করিয়ে দেয়।"
+          },
+          {
+            "en": "Thumma yaj'aluhu hutaman: then He makes it debris. At-Tabari defines hutam as the crumbled fragments of straw and dry grass: once the crop has dried, Allah makes it broken bits. Al-Qurtubi derives it from tahattama al-'ud, said of wood that crumbles from dryness. Ibn Kathir says it returns to dryness and breaks apart. The verb is active, with Allah as its subject. He who sent the rain down is He who brings the crop to its end.",
+            "bn": "সুম্মা ইয়াজআলুহু হুতামা: তারপর তিনি তাকে খড়কুটো বানিয়ে দেন। তাবারীর সংজ্ঞায় হুতাম হলো খড় আর শুকনো ঘাসের গুঁড়ো টুকরো। ফসল শুকিয়ে যাওয়ার পর আল্লাহ তাকে ভাঙা টুকরোয় পরিণত করেন। কুরতুবী শব্দটিকে টেনে আনেন তাহাত্তামাল ঊদ থেকে, যা বলা হয় শুষ্কতায় গুঁড়িয়ে যাওয়া কাঠের বেলায়। ইবন কাসীর বলেন, ফসল আবার শুকিয়ে ভেঙে পড়ে। এখানে কাজটি করছেন আল্লাহ নিজে। যিনি বৃষ্টি নামিয়েছিলেন, ফসলকে শেষ পরিণতিতে পৌঁছান তিনিই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Readings Drawn From the Field",
+          "bn": "মাঠের ছবির তিন অর্থ"
+        },
+        "p": [
+          {
+            "en": "The commentators draw the picture towards more than one meaning. Al-Qurtubi's own summary is that whoever is able to do this is able to bring creation back. At-Tabari says the people of intellect learn from it that He who did this will not find it hard to bring about whatever He wills, and to give life to those of His creation who perished after their death, restoring them as they were, just as He did with the earth after its death when He sent water on it. As-Sa'di says the same: He revives the dead as He revived the earth.",
+            "bn": "মাঠের এ ছবিকে তাফসীরকারেরা একাধিক অর্থের দিকে টেনে নেন। কুরতুবীর নিজের সারকথা: যিনি এ কাজ করতে পারেন, তিনি সৃষ্টিকে আবার ফিরিয়ে আনতেও পারেন। তাবারী বলেন, বোধসম্পন্ন মানুষ এ থেকে শেখে যে, যিনি এ কাজ করেছেন, তাঁর পক্ষে যা ইচ্ছা তা সৃষ্টি করা কঠিন নয়। তাঁর সৃষ্টির যারা মারা গেছে, মৃত্যুর পর তাদের আগের মতো করে জীবিত করাও কঠিন নয়, ঠিক যেমন মরে যাওয়া জমিতে তিনি পানি পাঠিয়ে তাকে জীবিত করেছেন। সা'দীও একই কথা বলেন: তিনি মৃতকে জীবিত করেন, যেমন জীবিত করেছেন মরা মাটিকে।"
+          },
+          {
+            "en": "Al-Qurtubi then gives two further readings, each introduced with qila, it has been said, and without naming who said them. In the first, the verse is a likeness for the Qur'an and hearts: Allah sends the Qur'an down from the sky and threads it into the hearts of the believers, bringing out a religion of differing colours, some of it better than the rest. The believer increases in faith and certainty, while whoever has a sickness in his heart withers, as the crop withers. In the second, it is a likeness for this world, which yellows after its splendour as a green plant does.",
+            "bn": "এরপর কুরতুবী আরও দুটি পাঠ আনেন। দুটোই শুরু করেন কীলা, অর্থাৎ 'বলা হয়েছে' দিয়ে, কে বলেছেন তা উল্লেখ করেন না। প্রথম পাঠে আয়াতটি কুরআন আর হৃদয়ের উপমা। আল্লাহ আকাশ থেকে কুরআন নাযিল করেন আর মুমিনদের হৃদয়ে তা প্রবেশ করিয়ে দেন। তা থেকে বের হয় নানা রঙের দ্বীন, যার কিছু অংশ অন্য অংশের চেয়ে উত্তম। মুমিনের ঈমান ও ইয়াকীন বাড়তে থাকে। আর যার অন্তরে রোগ আছে, সে শুকিয়ে যায় যেমন ফসল শুকিয়ে যায়। দ্বিতীয় পাঠে আয়াতটি দুনিয়ার উপমা: সবুজ গাছ যেমন হলুদ হয়ে যায়, দুনিয়াও তেমনি তার জৌলুসের পর ম্লান হয়ে যায়।"
+          },
+          {
+            "en": "The first of those readings sorts hearts into those that grow and those that wither. That is a description the commentary offers of a likeness; it licenses no reader to name any living person or community as a withered heart. The verse opened with a question about seeing, and the likeness is best turned the same way: towards the state of one's own heart, and what the Qur'an has been bringing out in it.",
+            "bn": "প্রথম পাঠটি হৃদয়কে দুই ভাগে ভাগ করে: যে হৃদয় বেড়ে ওঠে, আর যে হৃদয় শুকিয়ে যায়। এটা একটি উপমার ব্যাখ্যায় তাফসীরের দেওয়া বর্ণনা মাত্র। কোনো জীবিত মানুষ বা সম্প্রদায়কে শুকিয়ে যাওয়া হৃদয় বলে দাগিয়ে দেওয়ার অনুমতি এটি কোনো পাঠককে দেয় না। আয়াতটি শুরু হয়েছিল দেখা নিয়ে একটি প্রশ্ন দিয়ে। উপমাটিকেও তাই একইভাবে ফেরানো ভালো: নিজের হৃদয়ের অবস্থার দিকে, আর কুরআন সেখানে কী ফলাচ্ছে তার দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Green Youth, Yellow Age",
+          "bn": "সবুজ যৌবন, হলুদ বার্ধক্য"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the closing words through the second of those likenesses. The people of understanding, he says, are those who take the reminder and learn from it that this world is like this: green, fresh and lovely, then it turns into a withered old woman; the young man becomes a frail, aged old man; and after all of that comes death. Fortunate, he says, is whoever finds his state after it turning to good. The abridged English edition of his commentary heads the passage The Parable of the Life of this World.",
+            "bn": "ইবন কাসীর আয়াতের শেষ কথাগুলো পড়েন দ্বিতীয় উপমাটির আলোয়। তিনি বলেন, বোধসম্পন্ন মানুষ তারাই, যারা এ থেকে উপদেশ নেয় আর শেখে যে দুনিয়া এমনই। আজ সবুজ, সতেজ, সুন্দর, কাল হয়ে যায় জীর্ণ এক বৃদ্ধা। যুবক হয়ে যায় দুর্বল, ন্যুব্জ বুড়ো। আর এ সবের পরে আসে মৃত্যু। তাঁর কথায়, সৌভাগ্যবান সে-ই, মৃত্যুর পর যার অবস্থা কল্যাণের দিকে যায়। তাঁর তাফসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এ অংশের শিরোনাম দিয়েছে দুনিয়ার জীবনের উপমা।"
+          },
+          {
+            "en": "He adds that Allah often likens the life of this world to the water He sends from the sky, by which crops and fruits grow before becoming debris, and he cites 18:45. The same three stages, with the same words yahij, musfarran and hutaman, recur in 57:20. In 39:21 the likeness is told without its label: the verse never says this world is meant. It shows a field from rain to chaff and leaves its listener, if he has understanding, to make the comparison himself.",
+            "bn": "তিনি আরও বলেন, আল্লাহ প্রায়ই দুনিয়ার জীবনকে তুলনা করেন আকাশ থেকে নামানো পানির সঙ্গে, যা দিয়ে ফসল আর ফলমূল জন্মায়, তারপর তা খড়কুটো হয়ে যায়। এর প্রমাণে তিনি উদ্ধৃত করেন ১৮:৪৫। একই তিনটি ধাপ, একই শব্দে, ইয়াহীজু, মুসফাররা আর হুতামা, আবার এসেছে ৫৭:২০-এ। কিন্তু ৩৯:২১-এ উপমাটি এসেছে কোনো নাম ছাড়া। আয়াত কোথাও বলে না যে এখানে দুনিয়ার কথা বোঝানো হচ্ছে। আয়াত শুধু বৃষ্টি থেকে খড়কুটো পর্যন্ত একটি মাঠ দেখায়, আর তুলনাটা টানার ভার ছেড়ে দেয় শ্রোতার উপর, যদি তার বোধ থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Shown the Field",
+          "bn": "যাদের সামনে মাঠ রাখা হলো"
+        },
+        "p": [
+          {
+            "en": "Inna fi dhalika la-dhikra li-uli al-albab: indeed in that is a reminder for people of understanding. At-Tabari glosses it as a reminder and an admonition for people of intellect and good sense, who reflect on it; al-Muyassar says for people of sound minds. The phrase uli al-albab closed 39:18 as well, describing those who listen to speech and follow the best of it. Three verses on, the same people are shown a field.",
+            "bn": "ইন্না ফী যালিকা লাযিকরা লিউলিল আলবাব: নিশ্চয়ই এতে বোধসম্পন্ন মানুষের জন্য উপদেশ আছে। তাবারী এর ব্যাখ্যা দেন এভাবে: বুদ্ধি ও বিবেচনার অধিকারী মানুষের জন্য স্মরণ আর নসীহত, যারা এ নিয়ে চিন্তা করে। মুয়াসসার বলেন, সুস্থ বিবেকের অধিকারীদের জন্য। উলুল আলবাব শব্দবন্ধটি দিয়ে ৩৯:১৮-ও শেষ হয়েছিল। সেখানে বলা হয়েছিল তাদের কথা, যারা কথা মন দিয়ে শোনে আর তার মধ্যে যা উত্তম তা মেনে চলে। এর তিনটি আয়াত পরে সেই একই মানুষদের সামনে রাখা হলো একটি ফসলের মাঠ।"
+          },
+          {
+            "en": "As-Sa'di lists what they are reminded of: their Lord's care and mercy towards His servants, in making this water easy for them and storing it in the earth's storehouses as their needs require; the completeness of His power, in reviving the dead as He revived the earth; and that He who does this is He who deserves worship. He closes with a prayer: O Allah, make us among the people of understanding. Ma'arif al-Qur'an calls these visible signs that can lead a person to the reality behind his own creation and to recognise his Creator and Master.",
+            "bn": "সা'দী গুনে দেখান, তাদের কী কী মনে করিয়ে দেওয়া হয়। প্রথমত, বান্দাদের প্রতি তাদের রবের যত্ন আর রহমত: তিনি এ পানি তাদের জন্য সহজলভ্য করেছেন, আর তাদের প্রয়োজন অনুযায়ী মাটির ভাণ্ডারে জমা করে রেখেছেন। দ্বিতীয়ত, তাঁর পরিপূর্ণ কুদরত: তিনি মৃতকে জীবিত করেন, যেমন জীবিত করেছেন মাটিকে। তৃতীয়ত, যিনি এ কাজ করেন, ইবাদতের হকদার কেবল তিনিই। সা'দী শেষ করেন একটি দোয়া দিয়ে: হে আল্লাহ, আমাদের বোধসম্পন্ন মানুষদের অন্তর্ভুক্ত করুন। মাআরিফুল কুরআন এগুলোকে বলে চোখে দেখা নিদর্শন, যা মানুষকে তার নিজের সৃষ্টির পেছনের সত্যের দিকে নিয়ে যেতে পারে, আর চিনিয়ে দিতে পারে তার স্রষ্টা ও মালিককে।"
+          },
+          {
+            "en": "The next verse, 39:22, sets the one whose breast Allah has opened to Islam, walking on a light from his Lord, against those whose hearts are hardened against the remembrance of Allah. None of the commentaries fetched for this verse attaches a hadith to it, and none gives an occasion of revelation. The verse asks only that the reader look at the next rain, the next spring and the next yellow field, and remember.",
+            "bn": "পরের আয়াত ৩৯:২২ মুখোমুখি দাঁড় করায় দুই ধরনের মানুষকে। একজনের বুক আল্লাহ ইসলামের জন্য খুলে দিয়েছেন, সে চলে তার রবের দেওয়া আলোয়। অন্যদের হৃদয় আল্লাহর জিকিরের ব্যাপারে কঠিন হয়ে গেছে। এ আয়াতের জন্য সংগৃহীত তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, আর কোনোটিই নাযিলের কোনো প্রেক্ষাপট দেয়নি। আয়াত শুধু চায়, পাঠক পরের বৃষ্টি, পরের ঝর্ণা আর পরের হলুদ মাঠের দিকে তাকাক, আর মনে রাখুক।"
+          }
+        ]
+      }
+    ]
+  },
   "39:23": {
     "sections": [
       {
