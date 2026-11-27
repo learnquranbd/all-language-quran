@@ -7503,6 +7503,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:151": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Obedience Turned Around",
+          "bn": "আনুগত্যের মুখ ফেরানো"
+        },
+        "p": [
+          {
+            "en": "Wa-la tuti'u amra l-musrifin: and do not obey the command of the extravagant. Four Arabic words, and they lean on the verse before them. In 26:150 Salih (AS) told Thamud fa-ttaqu llaha wa-ati'un, so fear Allah and obey me. Here he names the obedience they must give up. The same verb runs through both lines: obey me, do not obey them. One loyalty is being asked for and another withdrawn, and the second half explains why the first was needed at all.",
+            "bn": "ওয়া লা তুতী'উ আমরাল মুসরিফীন: আর সীমালঙ্ঘনকারীদের হুকুম মেনো না। আরবিতে মাত্র চারটি শব্দ, আর শব্দগুলো ভর দিয়ে আছে আগের আয়াতের উপর। ২৬:১৫০ আয়াতে সালিহ (আঃ) সামূদকে বলেছিলেন, ফাত্তাকুল্লাহা ওয়া আতী'ঊন, সুতরাং আল্লাহকে ভয় করো আর আমার আনুগত্য করো। এখানে তিনি জানিয়ে দিলেন কোন আনুগত্য তাদের ছাড়তে হবে। দুই লাইনেই একই ক্রিয়া: আমাকে মানো, ওদের মেনো না। একটা আনুগত্য চাওয়া হচ্ছে, আরেকটা ফিরিয়ে নিতে বলা হচ্ছে। দ্বিতীয় কথাটাই বুঝিয়ে দেয়, প্রথম কথাটার দরকার পড়ল কেন।"
+          },
+          {
+            "en": "Al-Muyassar reads 26:150 to 26:152 as one unit and joins the halves in a single sentence: fear Allah's punishment, accept my sincere advice, and do not let yourselves be led by the command of those extravagant against themselves, who have made a habit of corruption in the land with no repair in it. The sentence does not stop at this verse. It runs on into 26:152, which describes the people whose command is meant, so this article reads the two verses together.",
+            "bn": "মুয়াসসার ২৬:১৫০ থেকে ২৬:১৫২ পর্যন্ত এক সঙ্গে পড়ে, আর দুই অংশকে একই বাক্যে জুড়ে দেয়: আল্লাহর শাস্তিকে ভয় করো, আমার আন্তরিক উপদেশ গ্রহণ করো। আর যারা নিজেদের উপর সীমালঙ্ঘন করেছে, দেশে বিপর্যয় ঘটানো যাদের অভ্যাস হয়ে গেছে এবং সে বিপর্যয়ে সংশোধনের লেশমাত্র নেই, তাদের হুকুমের পেছনে চলো না। বাক্যটা এই আয়াতে থামে না। গড়িয়ে যায় ২৬:১৫২ আয়াতে, যেখানে বলা আছে কাদের হুকুমের কথা হচ্ছে। তাই এই প্রবন্ধ দুটি আয়াত এক সঙ্গে পড়বে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Excess Against One's Own Soul",
+          "bn": "নিজের উপরেই বাড়াবাড়ি"
+        },
+        "p": [
+          {
+            "en": "Who is a musrif? The word comes from israf, going beyond a measure, and English renders it extravagant or transgressor. At-Tabari does not leave it general. Salih (AS) is telling his people, he says, not to obey the command of those who are musrifin 'ala anfusihim, extravagant against themselves, in their persistence in disobeying Allah and their daring to court His anger. The excess he has in mind is not first of money or building. It is a life that keeps pressing on in disobedience and no longer fears the consequence.",
+            "bn": "মুসরিফ কে? শব্দটি এসেছে ইসরাফ থেকে, যার অর্থ মাপ ছাড়িয়ে যাওয়া। অনুবাদে কেউ লেখেন অপব্যয়ী, কেউ সীমালঙ্ঘনকারী। তাবারী শব্দটিকে ঢালাও অর্থে রাখেন না। তাঁর ব্যাখ্যায় সালিহ (আঃ) জাতিকে বলছেন, যারা মুসরিফীনা 'আলা আনফুসিহিম, অর্থাৎ নিজেদের উপর সীমালঙ্ঘন করছে, তাদের হুকুম মেনো না। সেই সীমালঙ্ঘন হলো আল্লাহর নাফরমানিতে লেগে থাকা আর তাঁর ক্রোধকে তোয়াক্কা না করার দুঃসাহস। তাঁর চোখে বাড়াবাড়িটা প্রথমত টাকাপয়সা বা দালানকোঠার নয়। এ এমন এক জীবন, যা নাফরমানিতে এগিয়েই চলে আর পরিণামের ভয় আর রাখে না।"
+          },
+          {
+            "en": "Al-Muyassar keeps at-Tabari's phrase and adds the word al-mutamadin, those who carry on and on in disobedience. As-Sa'di gives the bare sense in three words: those who exceeded the limit. The two glosses agree on the shape of the thing. A musrif here is someone who has crossed a line Allah drew and kept walking. That the excess is said to be against themselves is worth holding on to. Whatever they took from others, the first loss in at-Tabari's phrase falls on their own souls.",
+            "bn": "মুয়াসসার তাবারীর কথাটাই রাখে, সঙ্গে যোগ করে আল-মুতামাদীন শব্দটি, অর্থাৎ যারা নাফরমানিতে একটানা এগিয়ে চলে। সা'দী মূল অর্থটা দেন আরবিতে তিনটি শব্দে: যারা সীমা পেরিয়ে গেছে। দুই ব্যাখ্যাতেই জিনিসটার চেহারা এক। এখানে মুসরিফ সেই মানুষ, যে আল্লাহর টানা রেখা পার হয়ে গেছে, তারপরও থামেনি। সীমালঙ্ঘনটা যে নিজেদের উপর, এ কথাটা মনে রাখার মতো। অন্যদের কাছ থেকে তারা যা-ই কেড়ে নিক, তাবারীর ভাষায় প্রথম ক্ষতিটা পড়ে তাদের নিজেদের প্রাণের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Chiefs, Idolaters, or Nine Men",
+          "bn": "সর্দার, মুশরিক, নাকি নয়জন"
+        },
+        "p": [
+          {
+            "en": "Whose command is meant? The commentators give three answers, and they are worth keeping apart. Ibn Kathir, in the Arabic and in the abridged English alike, says: their heads and great men, ru'asa'ahum wa-kubara'ahum, who called them to shirk, to disbelief and to opposing the truth. Al-Baghawi records a wider reading: Ibn 'Abbas said the musrifin are the mushrikin, the idolaters. He then records a narrower one from Muqatil: they are the nine who hamstrung the she-camel.",
+            "bn": "কাদের হুকুমের কথা হচ্ছে? তাফসীরকারেরা তিনটি উত্তর দেন, আর উত্তরগুলো আলাদা করে রাখাই ভালো। ইবন কাসীর, আরবি মূলে এবং সংক্ষিপ্ত ইংরেজি সংস্করণে একইভাবে, বলেন: তাদের সর্দার আর বড় বড় লোকেরা, রুআসাআহুম ওয়া কুবারাআহুম, যারা জাতিকে শিরক, কুফর আর সত্যের বিরোধিতার দিকে ডাকত। বাগাভী একটি বিস্তৃত অর্থ উল্লেখ করেন। ইবন আব্বাস (রাঃ) বলেছেন, মুসরিফীন মানে মুশরিকীন। এরপর তিনি মুকাতিলের একটি সংকীর্ণ অর্থ আনেন: এরা সেই নয়জন, যারা উটনীর পা কেটেছিল।"
+          },
+          {
+            "en": "Al-Qurtubi sets two views side by side, each introduced as it was said: that those meant are the ones who hamstrung the she-camel, and that they are the band of nine who spread corruption in the land and do not reform. At-Tabari, in the slot the API files for 26:152, names them outright as the nine of Thamud whom Allah described in 27:48. As-Sa'di leans the same way, but with a hedge: la'allahum, perhaps they are the ones of whom Allah said there were nine in the city.",
+            "bn": "কুরতুবী দুটি মত পাশাপাশি রাখেন, দুটিই 'বলা হয়েছে' দিয়ে শুরু। একটি মত হলো, এখানে বোঝানো হয়েছে যারা উটনীর পা কেটেছিল তাদের। অন্যটি হলো, এরা সেই নয়জনের দল, যারা দেশে বিপর্যয় ছড়াত আর সংশোধন করত না। ২৬:১৫২ আয়াতের যে ঘরে এপিআই তাবারীর লেখা রেখেছে, সেখানে তিনি সরাসরি নাম দেন: এরা সামূদের সেই নয়জন, যাদের কথা আল্লাহ ২৭:৪৮ আয়াতে বলেছেন। সা'দীও একই দিকে ঝোঁকেন, তবে সাবধানে। তিনি বলেন লা'আল্লাহুম, সম্ভবত এরাই তারা, যাদের সম্পর্কে আল্লাহ বলেছেন শহরে নয়জন লোক ছিল।"
+          },
+          {
+            "en": "The answers sit closer than they first look. Ibn Kathir himself, at 27:48, calls the nine the tyrants of Thamud and their heads, so his chiefs and the others' nine may be the same men. Ibn 'Abbas's gloss, as al-Baghawi gives it, reaches wider, to anyone who called to idolatry. This article does not choose between them. One reading points to a small band at the top, one to the leaders as a class, and one to every voice that called the people away from Allah.",
+            "bn": "প্রথম দেখায় যতটা মনে হয়, উত্তরগুলো আসলে ততটা দূরের নয়। ইবন কাসীর নিজেই ২৭:৪৮ আয়াতে এই নয়জনকে বলেছেন সামূদের উদ্ধত অত্যাচারী আর তাদের মাথা। ফলে তাঁর 'সর্দার' আর অন্যদের 'নয়জন' একই মানুষ হতে পারে। বাগাভীর উদ্ধৃতিতে ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা আরও বিস্তৃত, যে-ই শিরকের দিকে ডেকেছে, সবাই তাতে পড়ে। এ প্রবন্ধ এদের মধ্যে কোনোটিকে বেছে নেয় না। এক ব্যাখ্যা দেখায় শীর্ষে বসা ছোট্ট একটি দলকে, আরেকটি নেতাদের গোটা শ্রেণিকে, আর আরেকটি সেই প্রতিটি কণ্ঠকে, যা মানুষকে আল্লাহর কাছ থেকে দূরে ডেকেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nine Men in Al-Hijr",
+          "bn": "হিজরের সেই নয়জন"
+        },
+        "p": [
+          {
+            "en": "The verse the commentators reach for is 27:48: wa-kana fi l-madinati tis'atu rahtin yufsiduna fi l-ardi wa-la yuslihun, and there were in the city nine men who spread corruption in the land and did not reform. Its last words are the last words of 26:152. At-Tabari, commenting there, places the city at al-Hijr of Thamud and asks a pointed question. Every people of disbelief spreads corruption in the land, so why are these nine singled out by name?",
+            "bn": "তাফসীরকারেরা যে আয়াতের দিকে হাত বাড়ান, তা হলো ২৭:৪৮: ওয়া কানা ফিল মাদীনাতি তিস'আতু রাহতিন ইউফসিদূনা ফিল আরদি ওয়া লা ইউসলিহূন, আর শহরে ছিল নয়জন লোক, যারা দেশে বিপর্যয় ছড়াত আর সংশোধন করত না। এর শেষ কথাগুলো হুবহু ২৬:১৫২ আয়াতের শেষ কথা। সেখানে তাবারী শহরটিকে চিহ্নিত করেন সামূদের হিজর বলে, তারপর একটা তীক্ষ্ণ প্রশ্ন তোলেন। কুফরের পথে চলা প্রতিটি জাতিই তো দেশে বিপর্যয় ছড়ায়। তাহলে আলাদা করে এই নয়জনের কথা কেন?"
+          },
+          {
+            "en": "His answer: because these nine, so far as reports reached him, were the ones who worked for the hamstringing of the she-camel, helped each other in it, and swore together to kill Salih (AS), out of all Thamud. Ibn Kathir gives a reason of rank: they prevailed over the affairs of Thamud because they were its great men and heads. He relays from al-'Awfi that Ibn 'Abbas said these are the ones who hamstrung her, and glosses it: the deed issued from their opinion and counsel.",
+            "bn": "তাঁর উত্তর: কারণ তাঁর কাছে পৌঁছানো বর্ণনা অনুযায়ী গোটা সামূদের মধ্যে এই নয়জনই উটনীর পা কাটার জন্য উঠেপড়ে লেগেছিল, এ কাজে একে অন্যকে সাহায্য করেছিল, আর সালিহ (আঃ)-কে হত্যার শপথ করেছিল। ইবন কাসীর কারণ দেখান তাদের পদমর্যাদায়। তারা সামূদের সব ব্যাপারে প্রভাব খাটাত, কারণ তারাই ছিল জাতির বড় লোক আর সর্দার। আওফীর সূত্রে তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন যে এরাই উটনীর পা কেটেছিল। তারপর ব্যাখ্যা দেন: কাজটা হয়েছিল তাদেরই মত আর পরামর্শে।"
+          },
+          {
+            "en": "Al-Qurtubi calls them nine men from the sons of their nobles, and relays ad-Dahhak: they were the great men of the city, who spread corruption and ordered it. What the verse requires, he says, is what ad-Dahhak and others said, that they were the most prominent of the people, the richest and best provided. Raht, he adds, names a group, as if each was a chief with his own following. Al-Baghawi names their head as Qudar ibn Salif, who did the hamstringing himself.",
+            "bn": "কুরতুবী তাদের বলেন অভিজাতদের সন্তানদের মধ্য থেকে নয়জন পুরুষ। দাহহাকের কথা আনেন: এরা ছিল শহরের বড় বড় লোক, নিজেরা বিপর্যয় ছড়াত আর অন্যদেরও তার হুকুম দিত। কুরতুবী বলেন, আয়াত থেকে যা অবধারিতভাবে বোঝা যায়, তা দাহহাক ও অন্যদের কথাই: তারা ছিল জাতির সবচেয়ে প্রভাবশালী, সবচেয়ে ধনী আর সবচেয়ে সচ্ছল মানুষ। তিনি আরও বলেন, রাহত শব্দের অর্থ একটি দল। যেন তাদের প্রত্যেকে ছিল এক একজন সর্দার, যার পেছনে ছিল নিজস্ব লোকজন। বাগাভী তাদের মাথার নাম বলেন কুদার ইবন সালিফ, যে নিজ হাতে উটনীর পা কেটেছিল।"
+          },
+          {
+            "en": "Beyond Qudar the names do not settle. Al-Qurtubi sets out several lists that disagree, from Ibn Ishaq, from Wahb ibn Munabbih by way of az-Zamakhshari, and from Ibn 'Abbas by way of al-Mawardi, and relays as-Suhayli's warning that the naming of the nine is not fixed by any narration. So this article gives none of the other names. What the sources agree on is enough: men of rank, few in number, whose word carried the city with them.",
+            "bn": "কুদারের পর আর কোনো নাম নিশ্চিত নয়। কুরতুবী কয়েকটি তালিকা দেন, যেগুলো একটা আরেকটার সঙ্গে মেলে না: ইবন ইসহাকের তালিকা, যামাখশারীর মাধ্যমে ওয়াহব ইবন মুনাব্বিহের তালিকা, আর মাওয়ার্দীর মাধ্যমে ইবন আব্বাস (রাঃ)-এর তালিকা। সঙ্গে আনেন সুহাইলীর সতর্কবাণী: নয়জনের নাম কোনো বর্ণনা দিয়ে প্রতিষ্ঠিত নয়। তাই এ প্রবন্ধ বাকিদের কোনো নাম দেয় না। সূত্রগুলো যেখানে একমত, সেটুকুই যথেষ্ট। তারা ছিল উঁচু আসনের মানুষ, সংখ্যায় অল্প, কিন্তু তাদের কথায় গোটা শহর চলত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoiling and Never Mending",
+          "bn": "নষ্ট করে, মেরামত করে না"
+        },
+        "p": [
+          {
+            "en": "Then 26:152 describes them: alladhina yufsiduna fi l-ardi wa-la yuslihun, who spread corruption in the land and do not reform. At-Tabari reads the first clause as striving in Allah's land with acts of disobedience to Him, and the second as: they do not reform themselves by acting in obedience to Allah. Al-Baghawi is close: they corrupt by sins, and they do not reform, meaning they do not obey Allah in what He commanded them. For both, the missing repair begins with the self.",
+            "bn": "এরপর ২৬:১৫২ আয়াত তাদের বর্ণনা দেয়: আল্লাযীনা ইউফসিদূনা ফিল আরদি ওয়া লা ইউসলিহূন, যারা দেশে বিপর্যয় ছড়ায় আর সংশোধন করে না। তাবারী প্রথম অংশের অর্থ করেন: আল্লাহর জমিনে তাঁর নাফরমানি নিয়ে ছুটে বেড়ানো। আর দ্বিতীয় অংশের: আল্লাহর আনুগত্যের আমল দিয়ে তারা নিজেদের সংশোধন করে না। বাগাভীর ব্যাখ্যাও কাছাকাছি। তারা গুনাহ দিয়ে বিপর্যয় ঘটায়। আর সংশোধন করে না, অর্থাৎ আল্লাহ যা হুকুম করেছেন তাতে তাঁর আনুগত্য করে না। দুজনের কাছেই যে সংশোধনের অভাব, তার শুরু নিজের ভেতর থেকে।"
+          },
+          {
+            "en": "As-Sa'di presses on the second clause. Their description and their habit, he says, is corruption in the land by doing sins and calling others to them, a corruption with no repair in it, and that is the most harmful thing there can be, because it is pure evil. There were, he adds, people among them ready to oppose their prophet and quick to call others to the path of error, so Salih (AS) forbade his people to be taken in by them. The forbidding and the warning, he says, availed them nothing.",
+            "bn": "সা'দী জোর দেন দ্বিতীয় অংশের উপর। তিনি বলেন, তাদের পরিচয় আর অভ্যাসই ছিল গুনাহের কাজ করে আর অন্যকে তার দিকে ডেকে দেশে বিপর্যয় ছড়ানো। সে বিপর্যয়ে সংশোধনের ছিটেফোঁটাও নেই। আর এটাই সবচেয়ে ক্ষতিকর, কারণ এ নিখাদ মন্দ। তিনি আরও বলেন, তাদের মধ্যে এমন কিছু লোক ছিল, যারা নবীর বিরোধিতায় প্রস্তুত, আর মানুষকে গোমরাহির পথে ডাকতে তৎপর। তাই সালিহ (আঃ) জাতিকে নিষেধ করলেন যেন তারা ওদের ধোঁকায় না পড়ে। সা'দীর কথায়, এই নিষেধ আর উপদেশ তাদের কোনো কাজে আসেনি।"
+          },
+          {
+            "en": "What did the corruption look like? At 27:48 the commentators gather examples without fixing one. Ibn Kathir relays 'Ata ibn Abi Rabah that they used to clip the coins, and Sa'id ibn al-Musayyab that cutting gold and silver is corruption in the land. Al-Qurtubi gives the same, and adds, as it was said, that they tracked people's private faults and did not cover them. Ibn Kathir's summary is the safer ground: corruption in the land by every road they could find.",
+            "bn": "বিপর্যয়টা দেখতে কেমন ছিল? ২৭:৪৮ আয়াতে তাফসীরকারেরা কয়েকটি উদাহরণ জড়ো করেন, তবে কোনো একটিকে চূড়ান্ত করেন না। ইবন কাসীর আতা ইবন আবী রাবাহের কথা আনেন যে তারা মুদ্রা কেটে ছেঁটে নিত। আর সাঈদ ইবনুল মুসাইয়্যিবের কথা আনেন যে সোনা-রুপা কেটে নেওয়া দেশে বিপর্যয়ের অন্তর্ভুক্ত। কুরতুবীও এসব আনেন, আর 'বলা হয়েছে' বলে যোগ করেন: তারা মানুষের গোপন দোষ খুঁজে বেড়াত, ঢেকে রাখত না। নিরাপদ ভিত্তি হলো ইবন কাসীরের সারকথা: যত পথে পারত, সব পথেই তারা দেশে বিপর্যয় ছড়াত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How the Grudge Began",
+          "bn": "বিদ্বেষের শুরু কোথায়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi, on this very verse, relays from as-Suddi and others a long narrative of how the nine came to hate Salih (AS): a story of newborn sons, a vow that nine of the fathers kept, a resentment that grew, and a plot laid in a cave that ended when the cave fell on them. In that telling, the village then resolved together on killing the she-camel. The story rests on as-Suddi and those with him, not on any word of the Prophet ﷺ, and it is best held lightly.",
+            "bn": "কুরতুবী ঠিক এই আয়াতেই সুদ্দী ও অন্যদের সূত্রে একটি দীর্ঘ বর্ণনা আনেন, নয়জন কীভাবে সালিহ (আঃ)-এর প্রতি বিদ্বেষী হয়ে উঠল। তাতে আছে সদ্যোজাত ছেলেদের কথা, একটি শপথ, যা নয়জন পিতা রক্ষা করেছিল, ধীরে ধীরে বেড়ে ওঠা আক্রোশ, আর একটি গুহায় পাকানো ষড়যন্ত্র, যা শেষ হয় গুহা তাদের উপর ধসে পড়ায়। সেই বর্ণনা অনুযায়ী, এরপর গ্রামের লোকেরা মিলে উটনীকে মেরে ফেলার সিদ্ধান্ত নেয়। বর্ণনাটির ভিত্তি সুদ্দী ও তাঁর সঙ্গীদের কথা, নবী ﷺ-এর কোনো বাণী নয়। একে হালকাভাবে ধরে রাখাই ভালো।"
+          },
+          {
+            "en": "Al-Qurtubi does not leave it unanswered. He closes with Ibn Ishaq, who puts the order the other way: the nine banded together in reviling Salih (AS) only after they had hamstrung the she-camel and been warned of the punishment, and al-Qurtubi defers the full account to Surat an-Naml. The two orders are kept here as two, with no position taken. Either way, both tellings put a few men at the centre of it. None of the commentaries fetched for this verse attaches a hadith to it.",
+            "bn": "কুরতুবী বর্ণনাটিকে বিনা জবাবে ছেড়ে দেন না। শেষে তিনি আনেন ইবন ইসহাকের কথা, যিনি ঘটনার ক্রম উল্টো দিকে সাজান। তাঁর মতে, উটনীর পা কাটা আর শাস্তির সতর্কবাণী পাওয়ার পরেই কেবল নয়জন সালিহ (আঃ)-কে গালমন্দ করতে জোট বাঁধে। পুরো বিবরণ কুরতুবী সূরা নামলের জন্য তুলে রাখেন। এখানে দুটি ক্রম দুটি হিসেবেই রাখা হলো, কোনো পক্ষ নেওয়া হলো না। যেভাবেই ধরা হোক, দুই বর্ণনাই ঘটনার কেন্দ্রে রাখে অল্প কয়েকজন মানুষকে। এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস জোড়েনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Following Is Also a Deed",
+          "bn": "পেছনে চলাও এক কাজ"
+        },
+        "p": [
+          {
+            "en": "Notice who is addressed. Salih (AS) does not speak to the nine here; he speaks to the many who were listening to them. Ibn Kathir explains the nine's hold by their rank, and al-Qurtubi pictures each with a following of his own. The command of such men came with the weight of standing behind it. Yet the verse does not excuse those who went along. Do not obey is said to the followers, which treats following as something they did, and could have refused.",
+            "bn": "খেয়াল করুন, কাকে বলা হচ্ছে। এখানে সালিহ (আঃ) নয়জনের সঙ্গে কথা বলছেন না। কথা বলছেন সেই বহু মানুষের সঙ্গে, যারা ওদের কথা শুনে চলছিল। ইবন কাসীর নয়জনের প্রভাবের ব্যাখ্যা দেন তাদের পদমর্যাদা দিয়ে, আর কুরতুবী প্রত্যেকের পেছনে কল্পনা করেন নিজস্ব একদল অনুসারী। এমন মানুষের হুকুমের পেছনে থাকে প্রতিপত্তির ভার। তবু যারা সায় দিয়ে চলেছে, আয়াত তাদের রেহাই দেয় না। 'মেনো না' কথাটা বলা হচ্ছে অনুসারীদের, অর্থাৎ পেছনে চলাও তাদের নিজেদের কাজ, যা তারা চাইলে প্রত্যাখ্যান করতে পারত।"
+          },
+          {
+            "en": "The commentators' verbs carry the same point. Al-Muyassar renders the prohibition as la tanqadu, do not let yourselves be led along by it. As-Sa'di speaks of al-ightirar, being taken in. Both describe a surrender of judgement rather than a reasoned choice. And the test Salih (AS) gives for a command is not who gives it but what it does. These men spread corruption and repaired nothing; that, in 26:152, is the whole case against obeying them.",
+            "bn": "তাফসীরকারদের ক্রিয়াপদেও একই কথা। মুয়াসসার নিষেধটিকে বলে লা তানকাদূ, অর্থাৎ নিজেদের টেনে নিয়ে যেতে দিয়ো না। সা'দী বলেন ইগতিরারের কথা, অর্থাৎ ধোঁকায় পড়া। দুটি শব্দই বোঝায় বিচারবুদ্ধি অন্যের হাতে সঁপে দেওয়া, ভেবেচিন্তে বেছে নেওয়া নয়। আর হুকুম যাচাইয়ের যে মাপকাঠি সালিহ (আঃ) দেন, তা হুকুমদাতার পরিচয় নয়, হুকুমের ফল। এরা বিপর্যয় ছড়িয়েছে, কিছুই মেরামত করেনি। ২৬:১৫২ আয়াতে ওদের না মানার পুরো যুক্তি এটুকুই।"
+          },
+          {
+            "en": "For a reader, the musrifin need not be rulers at all. The voices that steer a life are often smaller: a circle of friends, a habit, a fashion, an appetite that has learned to give orders. The verse offers a plain question to put to any of them. Does this lead to repair, in me and around me, or only to taking and spoiling? Salih (AS) asked his people to put their obedience where it belonged. That request has not grown old.",
+            "bn": "পাঠকের জীবনে মুসরিফ মানেই শাসক, এমন নয়। যে কণ্ঠগুলো জীবনকে চালায়, প্রায়ই সেগুলো ছোট: বন্ধুদের একটা দল, একটা অভ্যাস, একটা চলতি হাওয়া, কিংবা এমন এক কামনা, যে হুকুম দিতে শিখে গেছে। আয়াতটি এদের প্রত্যেককে জিজ্ঞেস করার মতো একটা সহজ প্রশ্ন দেয়। এটা কি আমার ভেতরে আর চারপাশে সংশোধনের দিকে নেয়, নাকি কেবল নেওয়া আর নষ্ট করার দিকে? সালিহ (আঃ) তাঁর জাতিকে বলেছিলেন আনুগত্যকে তার যথাস্থানে রাখতে। সেই আহ্বান আজও পুরোনো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Warning Bound to Thamud",
+          "bn": "সামূদের জন্য বলা সতর্কবাণী"
+        },
+        "p": [
+          {
+            "en": "This needs saying firmly. The verse reports what one prophet said to his own people about particular men among them, men the commentators place in al-Hijr of Thamud and connect with the killing of the she-camel. It names no ruler, party, scholar or community of any later age. Nothing in it licenses anyone today to disobey those in authority over them, to rise against them, or to break the order of a community. It is a story about Thamud, and it stays there.",
+            "bn": "কথাটা দৃঢ়ভাবে বলা দরকার। আয়াতটি জানায়, একজন নবী নিজের জাতিকে তাদেরই মধ্যকার কয়েকজন নির্দিষ্ট মানুষ সম্পর্কে কী বলেছিলেন। তাফসীরকারেরা এদের অবস্থান দেখান সামূদের হিজরে, আর এদের যুক্ত করেন উটনী হত্যার সঙ্গে। পরের কোনো যুগের কোনো শাসক, দল, আলেম বা সম্প্রদায়ের নাম এতে নেই। আজ কাউকে তার উপর কর্তৃত্বশীলদের অমান্য করার, তাদের বিরুদ্ধে বিদ্রোহ করার কিংবা কোনো সমাজের শৃঙ্খলা ভাঙার অনুমতি এ আয়াত দেয় না। এ সামূদের কাহিনি, আর সেখানেই এর সীমা।"
+          },
+          {
+            "en": "Nor may the word be turned into a label. To call a living person or group al-musrifin on the strength of this verse is to pass a verdict the text never gives, about people it never mentions. The commentators themselves could not agree on who exactly was meant in Salih's own city. What the verse asks of a reader is inward and modest: to weigh what one follows, to refuse what spreads corruption in one's own conduct, and to leave every judgement of others to Allah.",
+            "bn": "শব্দটিকে কারও গায়ে সাঁটার লেবেলও বানানো যায় না। এ আয়াতের জোরে কোনো জীবিত মানুষ বা দলকে মুসরিফীন বলা মানে এমন এক রায় দেওয়া, যা আয়াত কখনো দেয়নি, এমন মানুষদের সম্পর্কে, যাদের কথা আয়াতে নেই। সালিহ (আঃ)-এর নিজের শহরেও ঠিক কারা উদ্দেশ্য, তাফসীরকারেরা সে বিষয়ে একমত হতে পারেননি। আয়াত পাঠকের কাছে যা চায়, তা ভেতরের আর বিনয়ী একটা কাজ: কার পেছনে চলছি তা মেপে দেখা, নিজের আচরণে যা বিপর্যয় ছড়ায় তা প্রত্যাখ্যান করা, আর অন্যদের বিচার আল্লাহর হাতে ছেড়ে দেওয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "26:155": {
     "sections": [
       {

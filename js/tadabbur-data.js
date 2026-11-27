@@ -35577,6 +35577,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Time without consequence is not a verdict in your favour. Do not take ease or delay as proof that you will never answer for what you do.",
     "lessonBn": "কিছু ঘটেনি বলেই রায় আপনার পক্ষে গেছে, এমন নয়। আরাম বা দেরিকে এই প্রমাণ ভাববেন না যে নিজের কাজের হিসাব আপনাকে কখনো দিতে হবে না।"
+  },
+  "26:151": {
+    "reflectionEn": "Salih has just told his people to fear Allah and obey him. Now he names the other voice they were obeying: do not follow the command of the extravagant, who spread corruption in the land and set nothing right. Thamud did not drift into ruin alone. Someone was giving the orders, and the many went along, because the orders came from people who mattered. The verse treats following as a choice and holds the followers to it. Status does not make a command right; where it leads does. The question reaches past their city to every voice I let steer me. Whose word do I act on without weighing it? And is it leading me towards repair, or away from it?",
+    "reflectionBn": "সালিহ (আঃ) এইমাত্র বলেছেন, আল্লাহকে ভয় করো আর আমার কথা মানো। এবার তিনি সেই অন্য কণ্ঠের নাম নিলেন, যার কথা তারা এতদিন মেনে আসছিল: সীমালঙ্ঘনকারীদের হুকুম মেনো না, যারা দেশে বিপর্যয় ছড়ায় আর কিছুই সংশোধন করে না। সামূদ একা একা ধ্বংসের দিকে গড়িয়ে যায়নি। কেউ হুকুম দিচ্ছিল, আর বাকিরা পেছনে চলছিল, কারণ হুকুমটা আসছিল গণ্যমান্য লোকদের মুখ থেকে। আয়াতটি অনুসরণকেও একটা সিদ্ধান্ত বলে ধরে, আর অনুসারীদের তার দায় নিতে বলে। মর্যাদা দিয়ে হুকুম ঠিক হয় না। হুকুম কোথায় নিয়ে যায়, সেটাই আসল কথা। প্রশ্নটা ওদের শহর পেরিয়ে আমার কাছেও আসে। কার কথা আমি না ভেবেই মেনে চলি? সে কথা কি আমাকে সংশোধনের দিকে নিচ্ছে, নাকি তা থেকে দূরে?",
+    "pointsEn": [
+      "Whose instructions, opinions or habits do I follow most readily, and when did I last ask where they are taking me?",
+      "Have I ever gone along with something wrong mainly because the people urging it were important or admired?",
+      "What is one thing I do that only takes from people and the world around me, and repairs nothing?",
+      "When a good word and a forceful voice pull me in opposite directions, which one usually wins, and why?",
+      "If someone follows my lead at home or at work, am I steering them towards repair or towards ruin?"
+    ],
+    "pointsBn": [
+      "কার নির্দেশ, কার মতামত বা কোন অভ্যাস আমি সবচেয়ে সহজে মেনে নিই? শেষ কবে নিজেকে জিজ্ঞেস করেছি, এগুলো আমাকে কোথায় নিয়ে যাচ্ছে?",
+      "যারা কোনো অন্যায়ের দিকে ঠেলছিল তারা নামী বা সম্মানিত মানুষ ছিল বলেই কি কখনো আমি তাতে সায় দিয়েছি?",
+      "আমার এমন কোন কাজ আছে, যা মানুষ আর চারপাশের দুনিয়া থেকে কেবল নেয়, কিছুই মেরামত করে না?",
+      "একটা ভালো কথা আর একটা জোরালো কণ্ঠ যখন আমাকে দুই দিকে টানে, সাধারণত কোনটা জেতে, আর কেন?",
+      "ঘরে বা কাজের জায়গায় কেউ যদি আমার দেখানো পথে চলে, আমি কি তাকে সংশোধনের দিকে নিচ্ছি, নাকি সর্বনাশের দিকে?"
+    ],
+    "lessonEn": "Weigh every command by where it leads, not by who gives it. A voice that spreads corruption and repairs nothing has no claim on your obedience, however high it stands.",
+    "lessonBn": "প্রতিটি হুকুম মাপুন সেটা কোথায় নিয়ে যায় তা দিয়ে, কে দিচ্ছে তা দিয়ে নয়। যে কণ্ঠ বিপর্যয় ছড়ায় আর কিছুই সংশোধন করে না, যত উঁচু আসনেই থাকুক, আপনার আনুগত্যের উপর তার কোনো দাবি নেই।"
   }
 };
 
