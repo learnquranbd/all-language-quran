@@ -37753,6 +37753,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Mockery has met every bearer of Allah's message. Bear it with patience when it falls on you, and never make it your own answer to a reminder.",
     "lessonBn": "আল্লাহর বার্তা যিনিই বয়ে এনেছেন, বিদ্রূপ তাঁর পিছু নিয়েছে। আপনার উপর তা এলে ধৈর্য ধরুন, আর কোনো উপদেশের জবাবে নিজে কখনো ঠাট্টাকে বেছে নেবেন না।"
+  },
+  "42:45": {
+    "reflectionEn": "The scene is shown before it happens. People are brought up to the Fire, bowed by disgrace, looking at it from the corner of a lowered eye, as if a full look would cost too much. Then the believers speak, and they define loss. It is not money or rank. It is losing yourself and the people you loved, on the one Day when nothing can be bought back. The verse reaches me now, while I can still answer it. So I ask: what am I spending myself on? And the people in my care, am I leading them towards the Garden, or only towards comfort? The verse names the wrongdoers, not my neighbour. My business is my own account.",
+    "reflectionBn": "দৃশ্যটা ঘটার আগেই দেখিয়ে দেওয়া হচ্ছে। কিছু মানুষকে জাহান্নামের সামনে হাজির করা হচ্ছে। অপমানে তারা মাথা নুইয়ে আছে, চোখের কোণ দিয়ে আগুনের দিকে তাকাচ্ছে, যেন পুরো চোখ মেলে দেখার সাহসটুকুও নেই। তারপর মুমিনরা কথা বলেন, আর ক্ষতি কাকে বলে তা বুঝিয়ে দেন। টাকা হারানো নয়, পদ হারানোও নয়। আসল ক্ষতি নিজেকে হারানো, আর যাদের ভালোবাসতাম তাদের হারানো, সেই দিনে যেদিন কোনো কিছু আর ফেরত কেনা যায় না। আয়াতটা আমার কাছে এসেছে এখনই, যখন সাড়া দেওয়ার সময় আছে। তাই নিজেকে জিজ্ঞেস করি: নিজেকে আমি খরচ করছি কিসের পেছনে? আর যারা আমার দায়িত্বে আছে, তাদের আমি জান্নাতের দিকে নিয়ে যাচ্ছি, নাকি শুধু আরামের দিকে? আয়াতটা যালিমদের কথা বলছে, আমার প্রতিবেশীর নাম নিচ্ছে না। আমার কাজ নিজের হিসাব নিয়ে।",
+    "pointsEn": [
+      "If real loss is losing myself, what have I been calling loss this year, and what have I been calling gain?",
+      "What in my life would I be unable to look at directly on that Day, and what can I start changing about it today?",
+      "Am I helping my family towards the Garden, or only towards comfort and success in this world?",
+      "Bowing at the edge of the Fire helps no one; where can I humble myself before Allah willingly now, in prayer and in my dealings?",
+      "When I read about the wrongdoers in this verse, whose face comes to mind first, mine or someone I dislike?"
+    ],
+    "pointsBn": [
+      "আসল ক্ষতি যদি নিজেকে হারানো হয়, তাহলে এ বছর আমি কোন জিনিসকে ক্ষতি ভেবেছি, আর কোন জিনিসকে লাভ?",
+      "আমার জীবনের কোন জিনিসের দিকে সেদিন আমি সোজা চোখে তাকাতে পারব না? আজই তার কোন অংশটা বদলাতে শুরু করতে পারি?",
+      "আমি কি আমার পরিবারকে জান্নাতের দিকে এগিয়ে দিচ্ছি, নাকি শুধু দুনিয়ার আরাম আর সাফল্যের দিকে?",
+      "জাহান্নামের কিনারায় মাথা নোয়ানো কারও কাজে আসে না। নামাযে আর লেনদেনে আল্লাহর সামনে স্বেচ্ছায় বিনীত হওয়ার জায়গা এখন কোথায় খুঁজে নিতে পারি?",
+      "এ আয়াতে যালিমদের কথা পড়ে প্রথমে কার চেহারা মনে আসে, আমার নিজের, নাকি যাকে আমি অপছন্দ করি তার?"
+    ],
+    "lessonEn": "Count real loss as losing yourself and your family on the Day of Resurrection, and spend this life guarding both while you still can.",
+    "lessonBn": "কিয়ামতের দিনে নিজেকে আর নিজের পরিবারকে হারানোকেই আসল ক্ষতি বলে জানুন, আর সময় থাকতেই এ জীবনটা দুটোকেই রক্ষা করায় ব্যয় করুন।"
   }
 };
 

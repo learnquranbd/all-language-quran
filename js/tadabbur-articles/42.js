@@ -2399,6 +2399,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "42:45": {
+    "sections": [
+      {
+        "h": {
+          "en": "From a Plea to a Showing",
+          "bn": "ফেরার আর্জির পর হাজিরা"
+        },
+        "p": [
+          {
+            "en": "Wa tarahum yu'raduna 'alayha: and you will see them being presented to it. The verse carries on a scene that 42:44 opened. There the wrongdoers saw the punishment and asked whether there was any way back. No answer is given; what is shown next is their being brought up to the Fire itself. At-Tabari names the person addressed: you, O Muhammad, will see the wrongdoers presented to the Fire. Al-Muyassar likewise reads it as spoken to the Messenger.",
+            "bn": "ওয়া তারাহুম ইউ'রাদূনা 'আলাইহা: আর তুমি তাদের দেখবে, তাদের এর সামনে হাজির করা হচ্ছে। দৃশ্যটা শুরু হয়েছিল ৪২:৪৪ আয়াতে। সেখানে যালিমরা শাস্তি দেখে জিজ্ঞেস করেছিল, ফিরে যাওয়ার কোনো পথ আছে কি? কোনো জবাব আসে না। এর পরে দেখানো হয় তাদের সরাসরি আগুনের সামনে হাজির করা। কাকে সম্বোধন করা হচ্ছে, তাবারী তা বলে দেন: হে মুহাম্মাদ, তুমি যালিমদের দেখবে, তাদের আগুনের সামনে পেশ করা হচ্ছে। মুয়াসসারও একে রাসূলের প্রতি সম্বোধন হিসেবেই পড়ে।"
+          },
+          {
+            "en": "Al-Qurtubi stops on a point of grammar. The pronoun in 'alayha is feminine, though the thing just mentioned was al-'adhab, the punishment, a masculine noun. He explains that the punishment is referred to with the feminine because that punishment is the Fire, or Jahannam if you prefer; had the wording followed the word itself, it would have said 'alayhi. Ibn Kathir, al-Baghawi and as-Sa'di gloss the pronoun the same way: onto the Fire.",
+            "bn": "কুরতুবী এখানে ব্যাকরণের একটি খুঁটিনাটিতে থামেন। 'আলাইহা শব্দের সর্বনামটি স্ত্রীলিঙ্গ, অথচ ঠিক আগে উল্লেখ হয়েছে আল-'আযাব, শাস্তি, যা পুংলিঙ্গ শব্দ। তাঁর ব্যাখ্যা: শাস্তিকে স্ত্রীলিঙ্গ দিয়ে বোঝানো হয়েছে, কারণ সেই শাস্তিই তো আগুন, চাইলে বলুন জাহান্নাম। শব্দের দিকে খেয়াল রাখলে বলা হত 'আলাইহি। ইবন কাসীর, বাগাভী আর সা'দী সবাই সর্বনামটির অর্থ করেন একইভাবে: আগুনের সামনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Showing, and Where",
+          "bn": "কোন হাজিরা, কোথায়"
+        },
+        "p": [
+          {
+            "en": "Who is shown, and when? Al-Qurtubi sets out three answers. The first, which he says most hold, is that these are all the idolaters, presented to Jahannam as they are led off towards it. The second, which he attributes to Ibn Mas'ud, limits the verse to the people of Pharaoh: their spirits, the report says, are held inside black birds that go to Jahannam morning and evening, and that is their being presented to it. The third places the scene in the grave.",
+            "bn": "কাদের হাজির করা হচ্ছে, আর কখন? কুরতুবী তিনটি জবাব দেন। প্রথমটি, যা তাঁর ভাষায় অধিকাংশের মত: এরা সব মুশরিক, জাহান্নামের দিকে নিয়ে যাওয়ার সময় তাদের তার সামনে পেশ করা হবে। দ্বিতীয়টি তিনি ইবন মাসউদ (রাঃ)-এর নামে আনেন। এ মতে আয়াতটি বিশেষ করে ফেরাউনের লোকদের নিয়ে। বর্ণনাটি বলে, তাদের রূহ কালো পাখির পেটে আটকে রাখা হয়, সেগুলো সকাল-সন্ধ্যা জাহান্নামের কাছে যায়, আর এটাই তাদের হাজিরা। তৃতীয় মত দৃশ্যটিকে কবরের ভেতরে রাখে।"
+          },
+          {
+            "en": "On that third view, the idolaters in general have their sins shown to them in their graves and are themselves shown the punishment there; al-Qurtubi says this is the sense of what Abu al-Hajjaj said. The same words, yu'raduna 'alayha, recur in 40:46, where the people of Pharaoh are exposed to the Fire morning and evening before the Hour comes. The other commentators fetched for this verse do not raise the question. Al-Qurtubi lists the three views and does not choose between them.",
+            "bn": "এ তৃতীয় মত অনুযায়ী সাধারণ মুশরিকদের কবরে তাদের গুনাহ তাদের সামনে তুলে ধরা হয়, আর সেখানেই তাদের শাস্তির সামনে হাজির করা হয়। কুরতুবী বলেন, আবুল হাজ্জাজের কথার মর্ম এটাই। ইউ'রাদূনা 'আলাইহা, এই একই শব্দ আবার এসেছে ৪০:৪৬ আয়াতে। সেখানে কিয়ামত আসার আগে ফেরাউনের লোকদের সকাল-সন্ধ্যা আগুনের সামনে পেশ করা হয়। এ আয়াতের জন্য আনা অন্য তাফসীরগুলো প্রশ্নটা তোলেই না। কুরতুবী তিনটি মত পাশাপাশি রাখেন, কোনোটিকে বেছে নেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bowed Down, Far Too Late",
+          "bn": "মাথা নোয়ানো, অনেক দেরিতে"
+        },
+        "p": [
+          {
+            "en": "Khashi'ina mina adh-dhull: humbled by disgrace. At-Tabari glosses it as submissive and abased, and cites as-Suddi for submissive from disgrace. Ibn Zayd, in his report, defines khushu' as fear and dread of Allah, and says the fear that came down on them abased them and they bowed to it. Al-Qurtubi calls khushu' brokenness and lowliness. As-Sa'di separates inner from outer: you see their bodies humbled by the disgrace that is in their hearts.",
+            "bn": "খাশি'ঈনা মিনায যুল্ল: অপমানে অবনত। তাবারী এর অর্থ করেন বশীভূত ও লাঞ্ছিত, আর সুদ্দীর বর্ণনা আনেন: অপমানে নত। তাবারীর বর্ণনায় ইবন যায়দ খুশূ'র সংজ্ঞা দেন আল্লাহর ভয় ও আতঙ্ক। তিনি আরও বলেন, যে ভয় তাদের উপর নেমে এসেছে তা-ই তাদের লাঞ্ছিত করেছে, আর তারা তার সামনে নুয়ে পড়েছে। কুরতুবীর কাছে খুশূ' মানে ভেঙে পড়া আর হীনতা। সা'দী ভেতর আর বাইরে আলাদা করেন: তাদের দেহ নত, কারণ অপমান বাসা বেঁধেছে তাদের অন্তরে।"
+          },
+          {
+            "en": "Ibn Kathir names where the disgrace comes from: their past disobedience to Allah. Al-Qurtubi notes a question of pausing. Some reciters stop at khashi'in, so that min adh-dhull attaches to what follows, they look out of disgrace; others attach it to khashi'in itself. He gives both without choosing. A reader may set beside this 23:2, where khushu' is praised in believers at prayer. The posture there was chosen. Here it is forced on people at the edge of the Fire, when it can no longer change anything.",
+            "bn": "অপমানটা কোথা থেকে এল, ইবন কাসীর তা বলে দেন: আল্লাহর প্রতি তাদের আগের নাফরমানি থেকে। কুরতুবী থামার জায়গা নিয়ে একটি প্রশ্নও উল্লেখ করেন। কোনো কোনো কারী খাশি'ঈন শব্দে থামেন, তখন মিনায যুল্ল জুড়ে যায় পরের অংশের সঙ্গে: অপমানের কারণে তারা তাকায়। অন্যরা একে খাশি'ঈন শব্দের সঙ্গেই রাখেন। কুরতুবী দুটোই দেন, কোনোটি বেছে নেন না। পাঠক এর পাশে রাখতে পারেন ২৩:২ আয়াত, যেখানে নামাযে মুমিনদের খুশূ'র প্রশংসা করা হয়েছে। সেখানে এই নতি ছিল স্বেচ্ছায়। এখানে তা চাপিয়ে দেওয়া হয়েছে আগুনের কিনারায়, যখন আর কিছুই বদলানোর উপায় নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Readings of One Glance",
+          "bn": "এক চাহনির দুই পাঠ"
+        },
+        "p": [
+          {
+            "en": "Yanzuruna min tarfin khafiyy: they look from a hidden glance. At-Tabari says plainly that the people of interpretation differed over the phrase. Some said it means a humiliated glance, as though the eye had grown hidden from abasement. He reports this from Ibn 'Abbas, who said that by khafiyy is meant dhalil, humiliated, and from Mujahid, who gave the same single word. Al-Qurtubi gives Ibn 'Abbas as saying with a withered, humiliated glance.",
+            "bn": "ইয়ানযুরূনা মিন তারফিন খাফিয়্য: তারা তাকায় লুকানো চাহনিতে। তাবারী সোজাসুজি বলেন, তাফসীরকারেরা এ অংশের অর্থে ভিন্নমত পোষণ করেছেন। কেউ বলেছেন, এর অর্থ লাঞ্ছিত চাহনি, যেন অপমানে চোখটাই লুকিয়ে গেছে। এ মত তিনি আনেন ইবন আব্বাস (রাঃ) থেকে, যিনি বলেছেন খাফিয়্য মানে যালীল, লাঞ্ছিত। মুজাহিদ থেকেও তিনি একই এক শব্দের ব্যাখ্যা আনেন। কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেছেন: নিস্তেজ, লাঞ্ছিত চাহনিতে।"
+          },
+          {
+            "en": "Others said it means they steal looks. At-Tabari reports this from Qatada and from as-Suddi in identical words: yusariquna an-nazar, they steal glances. Al-Qurtubi gives it from Qatada, as-Suddi, al-Qurazi and Sa'id ibn Jubayr, with the reason: from the severity of their fear. As-Sa'di says they look at the Fire stealthily and sidelong, out of awe and fear of it. Ibn Kathir joins the two readings, explaining Mujahid's humiliated as stealing glances at the Fire because they are afraid of it.",
+            "bn": "অন্যরা বলেছেন, এর অর্থ তারা চুরি করে তাকায়। তাবারী এটি কাতাদা আর সুদ্দী থেকে হুবহু একই ভাষায় আনেন: ইউসারিকূনান নাযার, তারা চোরা চোখে তাকায়। কুরতুবী এ মত দেন কাতাদা, সুদ্দী, কুরাযী আর সাঈদ ইবন জুবাইরের নামে, সঙ্গে কারণও: প্রচণ্ড ভয়ের কারণে। সা'দীর ভাষায় তারা আগুনের দিকে তাকায় লুকিয়ে, বাঁকা চোখে, তার ভয়াবহতা আর আতঙ্কে। ইবন কাসীর দুই পাঠকে মিলিয়ে দেন। মুজাহিদের 'লাঞ্ছিত' কথাটার ব্যাখ্যা তিনি করেন এভাবে: ভয়ে তারা আগুনের দিকে চোরা চোখে তাকায়।"
+          },
+          {
+            "en": "Al-Baghawi joins them in the same way: their look is faint because of the disgrace on them, and they steal glances at the Fire in fear of it and in their own abasement. At-Tabari, however, chooses. The correct view, he says, is the one from Ibn 'Abbas and Mujahid: they look at the Fire with a humiliated glance, which Allah described as hidden because of the abasement that had mounted them, until their eyes almost sank in and were gone. Al-Muyassar's gloss sits close to his: a humiliated, weak glance.",
+            "bn": "বাগাভীও একইভাবে দুটোকে মেলান: তাদের উপর চেপে থাকা অপমানের কারণে দৃষ্টি ক্ষীণ, আর ভয়ে ও নিজেদের হীনতায় তারা আগুনের দিকে চোরা চোখে তাকায়। তাবারী কিন্তু একটি বেছে নেন। তাঁর মতে সঠিক কথা ইবন আব্বাস (রাঃ) আর মুজাহিদের মত: তারা লাঞ্ছিত চাহনিতে আগুনের দিকে তাকায়। আল্লাহ সে চাহনিকে লুকানো বলেছেন, কারণ অপমান তাদের এমনভাবে চেপে বসেছে যে চোখ প্রায় কোটরে ঢুকে হারিয়ে যাওয়ার দশা। মুয়াসসারের ব্যাখ্যা তাঁর কাছাকাছি: লাঞ্ছিত, দুর্বল চাহনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eye, Heart and a Preposition",
+          "bn": "চোখ, অন্তর আর একটি অব্যয়"
+        },
+        "p": [
+          {
+            "en": "The grammarians, at-Tabari reports, differed as well. A Basran grammarian took tarf as the eye itself: their looking is from a weak eye. Yunus held that min tarf works like bi-tarf, with a glance, as Arabs say both struck him in the sword and with the sword. Another said the glance is hidden because the man does not open his eyes and looks with only part of them. Al-Qurtubi adds al-Akhfash to Yunus, and al-Baghawi gives both of the last readings without names.",
+            "bn": "তাবারী জানান, ভাষাবিদরাও ভিন্নমত করেছেন। বসরার এক ব্যাকরণবিদ তারফ বলতে চোখটাকেই ধরেছেন, অর্থাৎ তারা তাকায় দুর্বল চোখে। ইউনুসের মতে মিন তারফ আসলে বি-তারফ, চাহনি দিয়ে। আরবরা যেমন তলোয়ার 'মধ্যে' মারা আর তলোয়ার 'দিয়ে' মারা, দুভাবেই বলে। আরেকজন বলেছেন, চাহনিকে লুকানো বলা হয়েছে কারণ লোকটি চোখ পুরো খোলে না, চোখের একটু অংশ দিয়ে তাকায়। কুরতুবী ইউনুসের সঙ্গে আখফাশের নামও যোগ করেন। বাগাভী শেষের দুটি ব্যাখ্যাই দেন, কারও নাম ছাড়া।"
+          },
+          {
+            "en": "A further reading says they look at the Fire with their hearts, because they are gathered blind. The sources differ on whose view this is. At-Tabari lists it among the grammarians, as others among them. Al-Qurtubi gives it in Mujahid's name, adding that the eye of the heart is a hidden glance. Al-Baghawi opens it with it is said. The Qur'an speaks elsewhere of people raised blind on the Day of Resurrection, in 17:97 and 20:124, though none of the commentators here cites those verses for this point.",
+            "bn": "আরেকটি ব্যাখ্যা বলে, তারা আগুনের দিকে তাকায় অন্তর দিয়ে, কারণ তাদের অন্ধ অবস্থায় হাশরে ওঠানো হবে। মতটি কার, সে ব্যাপারে সূত্রগুলো একমত নয়। তাবারী একে ভাষাবিদদের মধ্যেই রাখেন, 'তাদের অন্য কেউ কেউ' বলে। কুরতুবী এটি দেন মুজাহিদের নামে, সঙ্গে যোগ করেন: অন্তরের চোখই লুকানো চাহনি। বাগাভী শুরু করেন 'বলা হয়' দিয়ে। কিয়ামতের দিনে কাউকে কাউকে অন্ধ করে ওঠানোর কথা কুরআন অন্যত্রও বলেছে, ১৭:৯৭ ও ২০:১২৪ আয়াতে। তবে এখানকার কোনো তাফসীরকার এ প্রসঙ্গে সেই আয়াতগুলো উদ্ধৃত করেননি।"
+          },
+          {
+            "en": "Al-Qurtubi also gives the picture from ordinary speech. They do not raise their eyes fully, he says, because their heads hang down, and the Arabs describe a humiliated man by his lowered gaze, just as they call a man with nothing to be ashamed of sharp of sight. Ibn Kathir closes the phrase with a warning: what they fear will surely fall on them, and worse than they imagine.",
+            "bn": "কুরতুবী সাধারণ কথাবার্তা থেকেও ছবিটা আঁকেন। তাঁর ভাষায়, মাথা ঝুলে থাকায় তারা চোখ পুরোপুরি তোলে না। আরবরা লাঞ্ছিত মানুষকে বোঝায় নামানো দৃষ্টি দিয়ে, আর যার লজ্জা পাওয়ার কিছু নেই তাকে বলে তীক্ষ্ণ দৃষ্টির মানুষ। ইবন কাসীর অংশটি শেষ করেন সতর্কবাণী দিয়ে: যার ভয় তারা করছে, তা তাদের উপর আসবেই, আর তা তাদের কল্পনার চেয়েও ভয়াবহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Loss, as the Believers Name It",
+          "bn": "মুমিনদের মুখে ক্ষতির নাম"
+        },
+        "p": [
+          {
+            "en": "Then the believers speak: the losers are those who lost themselves and their families on the Day of Resurrection. When and where? Al-Muyassar and al-Qurtubi say they say it in the Garden, on seeing what has befallen the disbelievers. Ibn Kathir says only that they say it on the Day of Resurrection. As-Sa'di places it where the outcomes of creation have appeared and the truthful stand apart from the rest. Ibn Kathir reads al-khasirin as the greatest loss; as-Sa'di and al-Muyassar, as the losers in truth.",
+            "bn": "এরপর মুমিনরা কথা বলেন: ক্ষতিগ্রস্ত তো তারাই, যারা কিয়ামতের দিনে নিজেদের আর নিজেদের পরিবারকে হারিয়েছে। কোথায় আর কখন বলেন? মুয়াসসার আর কুরতুবী বলেন, জান্নাতে বসে, কাফিরদের উপর যা নেমেছে তা দেখে। ইবন কাসীর শুধু বলেন, কিয়ামতের দিনে। সা'দী সময়টা ধরেন সেই মুহূর্তে, যখন সৃষ্টির পরিণাম প্রকাশ পেয়েছে আর সত্যবাদীরা বাকিদের থেকে আলাদা হয়ে গেছেন। ইবন কাসীরের কাছে আল-খাসিরীন মানে সবচেয়ে বড় ক্ষতি। সা'দী আর মুয়াসসারের কাছে, প্রকৃত অর্থে যারা ক্ষতিগ্রস্ত।"
+          },
+          {
+            "en": "At-Tabari explains the word as al-maghbunun, the defrauded: those who were cheated of themselves and their families, and he cites as-Suddi: they were cheated of themselves and their families in the Garden. The same sentence stands almost word for word in 39:15, where the Prophet ﷺ is told to say it, and there it closes with that is the manifest loss. In Az-Zumar it is a warning given in this world. Here the believers say it on that Day, after the warning has come true.",
+            "bn": "তাবারী শব্দটির ব্যাখ্যা দেন আল-মাগবূনূন দিয়ে, অর্থাৎ যারা ঠকে গেছে, নিজেদের আর পরিবারের বেলায় প্রতারিত হয়েছে। সুদ্দীর কথাও তিনি আনেন: জান্নাতে তারা নিজেদের আর পরিবারকে হারিয়ে ঠকেছে। প্রায় হুবহু একই বাক্য আছে ৩৯:১৫ আয়াতে। সেখানে নবী ﷺ-কে কথাটা বলতে আদেশ করা হয়েছে, আর আয়াতের শেষে আছে: এটাই সুস্পষ্ট ক্ষতি। সূরা যুমারে কথাটা দুনিয়াতে দেওয়া সতর্কবাণী। এখানে মুমিনরা তা বলেন সেই দিনে, সতর্কবাণী সত্য হয়ে যাওয়ার পর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Household Is Lost",
+          "bn": "যখন ঘরের মানুষও হারায়"
+        },
+        "p": [
+          {
+            "en": "How does a person lose his family? Ibn Kathir says they are taken to the Fire and lose all pleasure in the lasting abode, and they are parted from their companions, loved ones, families and relatives, and so lose them. As-Sa'di says they are separated from their families and never join them. Al-Qurtubi divides the case in two: if the family is in the Fire as well, there is no benefit in them; if they are in the Garden, a barrier stands between him and them.",
+            "bn": "মানুষ কীভাবে নিজের পরিবারকে হারায়? ইবন কাসীর বলেন, তাদের জাহান্নামে নিয়ে যাওয়া হয়, চিরস্থায়ী জগতের সব আনন্দ তারা হারায়। সঙ্গী, প্রিয়জন, পরিবার আর আত্মীয়দের থেকে তাদের আলাদা করে দেওয়া হয়, এভাবেই তারা তাদের হারায়। সা'দীর কথায়, পরিবার থেকে তাদের বিচ্ছিন্ন করা হয়, তাদের সঙ্গে আর মিলন হয় না। কুরতুবী ব্যাপারটাকে দুই ভাগে ভাগ করেন। পরিবারও যদি জাহান্নামে থাকে, তবে তাদের দিয়ে কোনো উপকার নেই। আর তারা যদি জান্নাতে থাকে, তবে তার আর তাদের মাঝে আড়াল টেনে দেওয়া হয়েছে।"
+          },
+          {
+            "en": "Two more views appear. Al-Qurtubi relays that losing the family means that, had they believed, they would have had a family in the Garden among the hur al-'in. Al-Baghawi, with it is said, explains that their families passed to others in the Garden. Al-Qurtubi then brings a narration from Sunan Ibn Majah, reported by Abu Hurayra, about the two abodes every person has. The narration itself is tied to 23:10, not to this verse, and al-Qurtubi uses it to explain the idea of inheritance.",
+            "bn": "আরও দুটি মত পাওয়া যায়। কুরতুবী উল্লেখ করেন, পরিবার হারানোর মানে হল, তারা ঈমান আনলে জান্নাতে হূরদের মধ্যে তাদের পরিবার থাকত। বাগাভী 'বলা হয়' দিয়ে ব্যাখ্যা দেন যে তাদের পরিবার জান্নাতে অন্যদের হয়ে গেছে। এরপর কুরতুবী সুনান ইবন মাজাহ থেকে আবু হুরায়রা (রাঃ)-এর বর্ণনা আনেন, প্রত্যেক মানুষের দুই ঠিকানা নিয়ে। হাদীসটি নিজে যুক্ত ২৩:১০ আয়াতের সঙ্গে, এ আয়াতের সঙ্গে নয়। কুরতুবী একে আনেন উত্তরাধিকারের ধারণাটা বোঝাতে।"
+          },
+          {
+            "en": "In Ibn Majah's wording the Messenger of Allah ﷺ said: \"There is no one among you who does not have two abodes: An abode in Paradise and an abode in Hell. If he dies and enters Hell, the people of Paradise inherit his abode. This is what Allah says: 'These are indeed the inheritors.'\" Ibn Majah gives no grading of his own. Al-Qurtubi also relays a longer report on inheritance from the Musnad of ad-Darimi; it was not confirmed on a page fetched here and is not graded, so it is only mentioned. No commentary fetched here attaches a graded sound hadith to this verse itself.",
+            "bn": "ইবন মাজাহর ভাষায় রাসূলুল্লাহ ﷺ বলেছেন: \"তোমাদের প্রত্যেকেরই দুটি ঠিকানা আছে: একটি জান্নাতে, একটি জাহান্নামে। কেউ মারা গিয়ে জাহান্নামে গেলে জান্নাতবাসীরা তার ঠিকানার উত্তরাধিকারী হয়। এটাই আল্লাহর বাণী: 'তারাই উত্তরাধিকারী।'\" ইবন মাজাহ নিজে এর কোনো মান নির্ধারণ করেননি। উত্তরাধিকার নিয়ে কুরতুবী মুসনাদ দারিমী থেকে আরেকটি দীর্ঘ বর্ণনাও আনেন। এখানে আনা কোনো পাতায় সেটি যাচাই হয়নি, আর এর মানও বলা নেই, তাই শুধু উল্লেখ করা হল। এ আয়াতের সঙ্গে সরাসরি যুক্ত কোনো সহীহ বলে মান-নির্ধারিত হাদীস এখানে আনা কোনো তাফসীরে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Punishment That Stays Put",
+          "bn": "যে শাস্তি জায়গা ছাড়ে না"
+        },
+        "p": [
+          {
+            "en": "Ala inna az-zalimina fi 'adhabin muqim: unquestionably, the wrongdoers are in an enduring punishment. Whose words are these? Al-Qurtubi allows both: they may continue the believers' speech, or they may be a fresh statement from Allah Most High. Muqim means lasting. Al-Qurtubi glosses it as constant, never cut off; Ibn Kathir, as everlasting and endless, with no exit and no escape. At-Tabari names the wrongdoers here as the disbelievers, in a punishment fixed on them that does not pass, perish or lighten.",
+            "bn": "আলা ইন্নায যালিমীনা ফী 'আযাবিম মুকীম: শুনে রাখো, যালিমরা স্থায়ী শাস্তিতে থাকবে। কথাটা কার? কুরতুবী দুটোরই সুযোগ রাখেন: এটা মুমিনদের কথার ধারাবাহিকতা হতে পারে, আবার মহান আল্লাহর পক্ষ থেকে নতুন ঘোষণাও হতে পারে। মুকীম মানে স্থায়ী। কুরতুবীর ব্যাখ্যায়, অবিরাম, কখনো থামে না। ইবন কাসীরের ব্যাখ্যায়, চিরকালের, শেষহীন, বেরোনোর পথ নেই, পালানোর জায়গা নেই। তাবারী এখানে যালিম বলতে কাফিরদের বোঝান, যাদের উপর শাস্তি স্থির হয়ে থাকবে, সরবে না, ফুরাবে না, হালকাও হবে না।"
+          },
+          {
+            "en": "As-Sa'di reads az-zalimin as those who wronged themselves through disbelief and sins, and pictures them in the middle of the punishment, submerged, never leaving, despairing within it. The next verse, 42:46, finishes the thought: they will have no allies to help them besides Allah. Ibn Kathir, who treats 42:44 to 42:46 together, explains that as no one to rescue them. Ma'arif al-Qur'an, reading this verse with those after it, describes the end of people who wanted the luxuries of this world rather than the Hereafter.",
+            "bn": "সা'দী যালিম বলতে বোঝেন তাদের, যারা কুফর আর গুনাহ দিয়ে নিজেদের উপর যুলুম করেছে। তাঁর ছবিতে তারা শাস্তির একেবারে মাঝখানে, ডুবে আছে, কখনো বের হবে না, ভেতরেই হতাশ হয়ে আছে। পরের আয়াত, ৪২:৪৬, কথাটা শেষ করে: আল্লাহ ছাড়া তাদের সাহায্য করার কোনো অভিভাবক থাকবে না। ইবন কাসীর ৪২:৪৪ থেকে ৪২:৪৬ একসঙ্গে আলোচনা করেন, আর এর অর্থ করেন: তাদের উদ্ধার করার কেউ নেই। মাআরিফুল কুরআন এ আয়াতকে পরের আয়াতগুলোর সঙ্গে মিলিয়ে পড়ে, আর বলে, এ সেই লোকদের পরিণতি যারা আখিরাতের বদলে দুনিয়ার বিলাস চেয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shown Now, Judged Then",
+          "bn": "দেখানো এখন, বিচার তখন"
+        },
+        "p": [
+          {
+            "en": "This must be said plainly. The verse describes the wrongdoers on the Day of Resurrection, as the text describes them, and the believers' words are spoken there, after judgement, not here. It licenses nothing against any living person or community. No reader of this verse may place anyone alive in the Fire, whether a relative, a rival or a whole people; that judgement belongs to Allah on that Day. Whoever uses it to name others among the losers has moved the believers' words out of the place the Qur'an gave them.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি কিয়ামতের দিনের যালিমদের বর্ণনা দেয়, ঠিক যেভাবে কুরআন দিয়েছে। মুমিনদের কথাগুলোও বলা হবে সেখানে, বিচারের পরে, এখানে নয়। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। এ আয়াত পড়ে কেউ কোনো জীবিত মানুষকে জাহান্নামে বসিয়ে দিতে পারে না। সে আত্মীয় হোক, প্রতিদ্বন্দ্বী হোক বা গোটা কোনো জাতি। সে বিচার সেদিন আল্লাহর হাতে। যে এ আয়াত দিয়ে অন্যদের ক্ষতিগ্রস্তদের তালিকায় তোলে, সে মুমিনদের কথাকে কুরআনের দেওয়া জায়গা থেকে সরিয়ে এনেছে।"
+          },
+          {
+            "en": "What is left for the reader is a question turned inward. The scene is shown now, while the way back that 42:44 asks for is still open, and 42:47 says as much: respond to your Lord before a Day comes that cannot be turned back. The bowed head, the stolen glance and the lost family are described so that they need not be met. And 66:6 gives the command in this verse's own pairing: guard yourselves and your families against a Fire.",
+            "bn": "পাঠকের জন্য যা থাকে, তা নিজের দিকে ফেরানো একটি প্রশ্ন। দৃশ্যটা দেখানো হচ্ছে এখন, যখন ৪২:৪৪ আয়াতে যে ফেরার পথ খোঁজা হয়েছিল তা এখনো খোলা। ৪২:৪৭ আয়াত সে কথাই বলে: সেই দিন আসার আগে তোমাদের রবের ডাকে সাড়া দাও, যে দিন আর ফেরানো যাবে না। নোয়ানো মাথা, চোরা চাহনি আর হারানো পরিবারের বর্ণনা দেওয়া হয়েছে, যাতে সেগুলোর মুখোমুখি হতে না হয়। আর ৬৬:৬ আয়াত এ আয়াতেরই জোড়া শব্দে আদেশ দেয়: নিজেদের আর নিজেদের পরিবারকে আগুন থেকে বাঁচাও।"
+          }
+        ]
+      }
+    ]
+  },
   "42:48": {
     "sections": [
       {
