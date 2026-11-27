@@ -36693,6 +36693,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Paradise is promised as a lasting home whose finery outshines this world's; aim to be among those who race ahead in good, not those who wrong themselves.",
     "lessonBn": "জান্নাতের ওয়াদা এক স্থায়ী আবাসের, যার সাজ দুনিয়ার সব সাজকে ছাড়িয়ে যায়। নিজের উপর জুলুমকারীদের দলে নয়, নেক কাজে আগে ছোটাদের দলে থাকার চেষ্টা করুন।"
+  },
+  "36:4": {
+    "reflectionEn": "Three words close the sentence the oath opened: on a straight path. Allah has just sworn by His Book that Muhammad ﷺ is one of the messengers, and before the passage moves on He says where that messenger stands. Not on a theory and not on a mood, but on a road with no bend in it, a road that leads to Allah Himself. A straight path is not something to admire from the roadside. It asks to be walked, deed by deed and habit by habit, until the walker's character begins to look like the road. So where do I stand today? On the road he walked, or only beside it, praising it to others?",
+    "reflectionBn": "শপথ যে বাক্য শুরু করেছিল, তিন শব্দে তা শেষ হয়: সরল পথের উপর। আল্লাহ এইমাত্র নিজের কিতাবের কসম খেয়ে বলেছেন, মুহাম্মাদ ﷺ রসূলদেরই একজন। কথা আর না এগোতেই তিনি জানিয়ে দেন, সেই রসূল দাঁড়িয়ে আছেন কোথায়। কোনো মতবাদের উপর নয়, মনের খেয়ালের উপরও নয়। এমন এক পথের উপর, যাতে কোনো বাঁক নেই, যা সোজা গিয়ে পৌঁছায় আল্লাহর কাছে। সরল পথ রাস্তার ধারে দাঁড়িয়ে তারিফ করার জিনিস নয়। এ পথে হাঁটতে হয়, এক আমল থেকে আরেক আমলে, এক অভ্যাস থেকে আরেক অভ্যাসে। হাঁটতে হাঁটতে একসময় পথিকের চরিত্রটাই পথের মতো হয়ে ওঠে। তাহলে আজ আমি দাঁড়িয়ে আছি কোথায়? তাঁর হাঁটা পথের উপর, নাকি শুধু পথের পাশে, অন্যের কাছে পথের প্রশংসা করে?",
+    "pointsEn": [
+      "If someone followed me through this week, would they see a straight line, or a road that bends wherever my wants pull it?",
+      "Do I speak of the straight path as something I already own, or as something I am still walking?",
+      "Which part of the road is harder for me right now: the acts of worship, or the character that is meant to come with them?",
+      "When I ask in every prayer to be guided to the straight path, is it a request I mean or a line I recite out of habit?",
+      "How do I speak of people who are not yet on this road: as a fellow traveller who wants them to arrive, or as a guard at the gate?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে কেউ যদি আমার পিছু পিছু চলত, সে কি একটা সোজা রেখা দেখত, নাকি এমন এক রাস্তা, যা আমার চাওয়ার টানে যেদিকে খুশি বেঁকে যায়?",
+      "সরল পথের কথা বলার সময় আমি কি ভাবি পথটা আমার দখলে চলে এসেছে, নাকি মনে রাখি আমি এখনো পথ চলছি?",
+      "এই মুহূর্তে পথের কোন অংশটা আমার কাছে বেশি কঠিন: ইবাদতগুলো, নাকি সেগুলোর সঙ্গে যে চরিত্র আসার কথা, সেটা?",
+      "প্রতি নামাজে যখন সরল পথের হিদায়াত চাই, তখন কি সত্যিই চাই, নাকি অভ্যাসের বশে একটা লাইন আউড়ে যাই?",
+      "যারা এখনো এ পথে আসেনি, তাদের কথা আমি কীভাবে বলি: এমন সহযাত্রীর মতো, যে চায় তারাও পৌঁছে যাক, নাকি দরজার পাহারাদারের মতো?"
+    ],
+    "lessonEn": "The Prophet ﷺ stood on a straight path with no bend in it, leading to Allah. Walk that path in deed and in character, rather than only claiming it or admiring it.",
+    "lessonBn": "নবী ﷺ দাঁড়িয়ে ছিলেন এমন সরল পথে, যাতে কোনো বাঁক নেই, যা পৌঁছায় আল্লাহর কাছে। শুধু দাবি করে বা তারিফ করে থেমে না থেকে আমলে আর চরিত্রে সেই পথে হাঁটুন।"
   }
 };
 

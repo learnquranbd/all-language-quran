@@ -143,6 +143,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "36:4": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Sentence the Oath Needed",
+          "bn": "শপথের অপেক্ষার বাক্য"
+        },
+        "p": [
+          {
+            "en": "ʿAlā ṣirāṭin mustaqīm: on a straight path. Three Arabic words, with no verb and no subject of their own. The verse cannot stand alone; it finishes a sentence begun in 36:3, innaka lamina'l-mursalīn, indeed you are among the messengers. That sentence is itself the answer to an oath. In 36:1 and 36:2 Allah swears by the wise Qur'an, and what He swears to is this pair of claims about the one who brought it. The oath has its own article at 36:2; this one stays with the second half of the answer.",
+            "bn": "আলা সিরাতিম মুস্তাকীম: সরল পথের উপর। আরবিতে তিনটি শব্দ, নিজস্ব কোনো ক্রিয়া নেই, কর্তাও নেই। আয়াতটি একা দাঁড়াতে পারে না। ৩৬:৩ আয়াতে যে বাক্য শুরু হয়েছিল, এটি তার শেষাংশ: ইন্নাকা লামিনাল মুরসালীন, নিশ্চয়ই আপনি রসূলদের একজন। আর সেই বাক্যটাও এক শপথের জবাব। ৩৬:১ ও ৩৬:২ আয়াতে আল্লাহ হিকমতপূর্ণ কুরআনের কসম খান। কসম খেয়ে তিনি যা নিশ্চিত করেন, তা হলো কুরআন যিনি এনেছেন তাঁর সম্পর্কে এই দুটি কথা। শপথ নিয়ে আলোচনা আছে ৩৬:২-এর প্রবন্ধে। এখানে কথা হবে জবাবের দ্বিতীয় অংশ নিয়ে।"
+          },
+          {
+            "en": "The Muyassar reads the three verses as one sentence. Allah swears by the Qur'an, made firm by the rulings, wisdom and proofs it carries, that you, O Messenger, are one of those sent with Allah's revelation to His servants, upon a straight and balanced road, and that road is Islam. As-Sa'di calls this verse the greatest of the Messenger's attributes that point to his being sent. So the phrase is no ornament added to the answer. It names what the messenger stands on, and for as-Sa'di that is itself a sign of the mission.",
+            "bn": "মুয়াসসার তিনটি আয়াতকে এক বাক্য হিসেবে পড়ে। আল্লাহ কসম খাচ্ছেন সেই কুরআনের, যা নিজের বিধান, হিকমত আর দলিল দিয়ে সুদৃঢ়। কসমের বিষয়: হে রসূল, আপনি তাঁদের একজন, যাঁদের আল্লাহ তাঁর বান্দাদের কাছে ওহি দিয়ে পাঠিয়েছেন, আর আপনি আছেন সোজা, ভারসাম্যপূর্ণ পথের উপর। সেই পথ ইসলাম। সা'দী বলেন, রসূল ﷺ-এর যেসব গুণ তাঁর রিসালাতের প্রমাণ, তার মধ্যে সবচেয়ে বড় গুণটি এই আয়াতে বলা হয়েছে। তাই জবাবের সঙ্গে এটা কোনো বাড়তি সাজ নয়। রসূল কিসের উপর দাঁড়িয়ে আছেন, আয়াত সেটাই জানায়। সা'দীর চোখে সেটাই তাঁর রিসালাতের একটা নিদর্শন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Road With No Crookedness",
+          "bn": "যে পথে কোনো বক্রতা নেই"
+        },
+        "p": [
+          {
+            "en": "At-Tabari glosses the phrase in a single line: upon a road in which there is no crookedness, a road of guidance, and that is Islam. He then gives the report he rests it on, with its chain: Bishr, from Yazid, from Sa'id, from Qatada, who said of these words, upon Islam. Al-Qurtubi opens the same way: a straight religion, and it is Islam. The Muyassar, as already seen, closes its sentence with the same name. Three commentators, three wordings, and one name for the road.",
+            "bn": "তাবারী এক লাইনে শব্দগুলোর ব্যাখ্যা দেন: এমন পথের উপর, যাতে কোনো বক্রতা নেই, হিদায়াতের পথ, আর তা হলো ইসলাম। তারপর যে বর্ণনার উপর তিনি ভর করেন, সনদসহ তা উল্লেখ করেন: বিশর, ইয়াযীদ থেকে, তিনি সাঈদ থেকে, তিনি কাতাদা থেকে। কাতাদা এ শব্দগুলো সম্পর্কে বলেছেন: অর্থাৎ ইসলামের উপর। কুরতুবীও শুরু করেন একইভাবে: সরল দ্বীন, আর তা ইসলাম। মুয়াসসারের বাক্যও, আগেই দেখা গেছে, শেষ হয় এই নামে। তিনজন তাফসীরকার, তিন রকম শব্দ, কিন্তু পথের নাম একটাই।"
+          },
+          {
+            "en": "Ibn Kathir's gloss is the fullest of the short ones. In his Arabic tafsir the words mean upon an upright method and religion (manhaj wa-dīn qawīm) and a straight law (sharʿ mustaqīm). The abridged English rendering keeps all three: a straight methodology and religion, and an upright law. The triple is worth a second look. A method is the manner of walking, a religion is what one believes and submits to, and a law is what one does and leaves alone. On his reading the one road covers all three at once.",
+            "bn": "ছোট ব্যাখ্যাগুলোর মধ্যে ইবন কাসীরেরটা সবচেয়ে পূর্ণাঙ্গ। তাঁর আরবি তাফসীরে শব্দগুলোর অর্থ: সুদৃঢ় মানহাজ বা কর্মপন্থা ও দ্বীনের উপর, আর সরল শরীয়তের উপর। সংক্ষিপ্ত ইংরেজি অনুবাদেও তিনটিই আছে। তিনটি শব্দ একসঙ্গে রাখার ব্যাপারটা আরেকবার ভেবে দেখার মতো। মানহাজ হলো চলার ধরন। দ্বীন হলো যা মানুষ বিশ্বাস করে আর যার কাছে নিজেকে সঁপে দেয়। শরীয়ত হলো কী করতে হবে আর কী ছাড়তে হবে। তাঁর ব্যাখ্যায় একটি পথের ভেতরেই এই তিনটি একসঙ্গে ধরা আছে।"
+          },
+          {
+            "en": "The word ṣirāṭ is the word of 1:6, ihdinā'ṣ-ṣirāṭa'l-mustaqīm, guide us to the straight path, the request every worshipper makes in every rakʿah. Here the road appears without the article, ṣirāṭin mustaqīm, and it is not asked for but affirmed: the Prophet ﷺ is on it. 6:153 also speaks of Allah's path as straight, to be followed, with other ways set against it. These parallels are only pointed to; none of the commentators fetched on this verse builds on them.",
+            "bn": "সিরাত শব্দটি সূরা ফাতিহার ১:৬ আয়াতেরই শব্দ: ইহদিনাস সিরাতাল মুস্তাকীম, আমাদের সরল পথ দেখাও। প্রত্যেক নামাজি প্রতি রাকআতে এই দোয়া করেন। এখানে পথ এসেছে নির্দিষ্টবাচক আলিফ-লাম ছাড়া, সিরাতিম মুস্তাকীম। আর এখানে পথটা চাওয়া হচ্ছে না, নিশ্চিত করে জানানো হচ্ছে: নবী ﷺ সেই পথের উপর আছেন। ৬:১৫৩ আয়াতেও আল্লাহর পথকে সরল বলা হয়েছে, যা অনুসরণ করতে হবে, আর তার বিপরীতে রাখা হয়েছে অন্য পথগুলোকে। এই মিলগুলোর দিকে শুধু ইঙ্গিত করা হলো। এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এগুলোর উপর ব্যাখ্যা দাঁড় করায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Way Already Walked",
+          "bn": "আগেই হাঁটা পথ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi then reports al-Zajjaj with a different emphasis: upon the road of the prophets who came before you. On this reading the phrase does not only describe a quality of the road, its straightness. It places the Prophet ﷺ on a road already travelled. The words of 36:3 had just called him one of the messengers, one of a company, and al-Zajjaj's gloss makes the road theirs as well. He is not cutting a new route through open country. He is continuing the old one.",
+            "bn": "এরপর কুরতুবী যাজ্জাজের একটি ব্যাখ্যা আনেন, যার জোর অন্য জায়গায়: আপনার আগে যে নবীরা এসেছেন, তাঁদের পথের উপর। এ পাঠে শব্দগুলো শুধু পথের একটা গুণ, তার সোজা হওয়া, বর্ণনা করে না। নবী ﷺ-কে দাঁড় করায় এমন এক পথে, যে পথে আগেও মানুষ হেঁটেছে। ৩৬:৩ আয়াত এইমাত্র তাঁকে রসূলদের একজন বলেছে, একটা দলের সদস্য। যাজ্জাজের ব্যাখ্যা পথটাকেও সেই দলের পথ বানিয়ে দেয়। তিনি খোলা মাঠে নতুন রাস্তা কাটছেন না। পুরোনো রাস্তাটাই এগিয়ে নিয়ে যাচ্ছেন।"
+          },
+          {
+            "en": "This sits easily beside the reading that the road is Islam. Nothing in the texts fetched sets the two against each other, and al-Qurtubi gives them one after the other without comment. Read together they say one thing from two sides: what the Prophet ﷺ brought is no departure from what the earlier messengers carried, and the line they walked runs on, unbroken, into his.",
+            "bn": "পথটা ইসলাম, এই ব্যাখ্যার পাশে এটা সহজেই জায়গা পায়। যে লেখাগুলো দেখা হয়েছে, তার কোথাও দুটিকে পরস্পরের বিরুদ্ধে দাঁড় করানো হয়নি। কুরতুবীও কোনো মন্তব্য ছাড়াই একটার পর আরেকটা উল্লেখ করেছেন। একসঙ্গে পড়লে দুটো ব্যাখ্যা একই কথা বলে, দুই দিক থেকে। নবী ﷺ যা এনেছেন, আগের রসূলদের বয়ে আনা বার্তা থেকে তা সরে যাওয়া নয়। তাঁরা যে রেখা ধরে হেঁটেছেন, সেটাই কোথাও না ভেঙে তাঁর পথে এসে মিশেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Preposition Leans",
+          "bn": "'আলা' শব্দটি কার সঙ্গে জুড়ে"
+        },
+        "p": [
+          {
+            "en": "The commentators also ask a grammatical question with real weight: what does ʿalā, upon, attach to? At-Tabari sets out two aspects (wajhān). In the first, the phrase belongs to the sending itself: you are among the messengers, sent upon an uprightness of the truth, so that ʿalā is tied to the act of sending. In the second, it is a fresh predicate, as if it were said: you are among the messengers; you are on a straight path. He lays out both and, in the passage fetched, does not choose between them.",
+            "bn": "তাফসীরকারেরা এখানে ব্যাকরণের একটা প্রশ্নও তোলেন, যার ওজন কম নয়: আলা, অর্থাৎ \"উপর\" শব্দটি জুড়ে আছে কার সঙ্গে? তাবারী দুটি সম্ভাবনা সাজিয়ে দেন। প্রথমটিতে শব্দগুলো খোদ প্রেরণের অংশ। অর্থ দাঁড়ায়: আপনি রসূলদের একজন, যাঁকে হকের সঠিকতার উপর পাঠানো হয়েছে। তখন আলা যুক্ত থাকে পাঠানোর কাজটির সঙ্গে। দ্বিতীয়টিতে এটি নতুন একটি খবর, যেন বলা হলো: আপনি রসূলদের একজন। আপনি সরল পথের উপর আছেন। তাবারী দুটিই তুলে ধরেন। যে অংশটুকু দেখা হয়েছে, তাতে তিনি কোনোটিকে বেছে নেননি।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi give the same pair, in a different order and with a different weight. Al-Qurtubi reports al-Zajjaj as saying that \"of the messengers\" is the predicate of inna and \"on a straight path\" a second predicate: you are of the messengers, and you are on a straight path. Only then does he give the other view, under qīla, it has been said: of the messengers who were sent on an upright way. Al-Baghawi likewise leads with a predicate after a predicate and puts the linked reading second, also under qīla: you are among the messengers who are on a straight path.",
+            "bn": "কুরতুবী আর বাগাভী একই জোড়া ব্যাখ্যা দেন, তবে ক্রম আর গুরুত্ব আলাদা। কুরতুবী যাজ্জাজের কথা উদ্ধৃত করেন: \"রসূলদের একজন\" হলো ইন্নার খবর, আর \"সরল পথের উপর\" দ্বিতীয় খবর। অর্থাৎ আপনি রসূলদের একজন, আর আপনি সরল পথের উপর আছেন। এরপরই তিনি অন্য মতটি আনেন \"কীলা\", মানে \"বলা হয়েছে\" শব্দ দিয়ে: সেই রসূলদের একজন, যাঁদের সরল পন্থার উপর পাঠানো হয়েছিল। বাগাভীও আগে রাখেন খবরের পরে খবর, আর যুক্ত পাঠটি রাখেন পরে, সেটাও \"কীলা\" দিয়ে: আপনি সেই রসূলদের একজন, যাঁরা সরল পথের উপর আছেন।"
+          },
+          {
+            "en": "So the difference is real, though quiet. At-Tabari presents two aspects without a ranking. Al-Qurtubi, through al-Zajjaj, and al-Baghawi set the second-predicate reading first and bring in the other in the form of a reported opinion. That is a difference of presentation, and it is kept here as they gave it. None of the texts fetched calls either reading wrong, and the verse's three words carry both without strain.",
+            "bn": "অতএব পার্থক্যটা সত্যিই আছে, যদিও চুপচাপ। তাবারী দুটি সম্ভাবনা রাখেন কোনো ক্রম ছাড়া। যাজ্জাজের সূত্রে কুরতুবী, আর বাগাভী, দ্বিতীয় খবরের পাঠটি আগে রাখেন। অন্যটি আনেন এমনভাবে, যেন তা কারও কাছ থেকে শোনা একটি মত। এটা উপস্থাপনের পার্থক্য, আর এখানে তা রাখা হলো তাঁরা যেভাবে দিয়েছেন সেভাবেই। দেখা লেখাগুলোর কোনোটিই কোনো পাঠকে ভুল বলেনি। আয়াতের তিনটি শব্দ কোনো টানাটানি ছাড়াই দুটি অর্থই বহন করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sent on It, Walking It",
+          "bn": "এ পথে প্রেরিত, এ পথেই চলা"
+        },
+        "p": [
+          {
+            "en": "The two readings say slightly different things. As a second predicate, the verse is a separate testimony: besides being sent, you yourself are on a straight path. It speaks of his own walk, his belief and his conduct, and vouches for it under oath. Tied to the sending, the verse describes the mission: you were sent, and the sending was upon a straight road. Then it is first the message that is straight, and the messenger as the one who carries it. Neither shuts out the other.",
+            "bn": "দুটি পাঠ একটু ভিন্ন কথা বলে। দ্বিতীয় খবর ধরলে আয়াতটি আলাদা এক সাক্ষ্য: পাঠানো হয়েছে, শুধু তা-ই নয়, আপনি নিজেও সরল পথের উপর আছেন। তখন কথাটা তাঁর নিজের চলা নিয়ে, তাঁর বিশ্বাস আর আচরণ নিয়ে, আর শপথ দিয়ে তার সত্যতা নিশ্চিত করা হচ্ছে। প্রেরণের সঙ্গে জুড়ে পড়লে আয়াত বর্ণনা করে তাঁর দায়িত্ব: আপনাকে পাঠানো হয়েছে, আর সেই পাঠানো হয়েছে সরল পথের উপর। তখন সোজা হলো আগে বার্তাটি, আর রসূল তার বাহক। একটি পাঠ অন্যটিকে বাদ দেয় না।"
+          },
+          {
+            "en": "Al-Qurtubi closes his note with a parallel: \"and indeed you guide to a straight path, the path of Allah\" (42:52 and 42:53), and explains the path of Allah as the path that Allah commanded. Ibn Kathir reaches for the same two verses from the next verse along. He reads tanzīla'l-ʿazīzi'r-raḥīm, 36:5, as saying that this path you have brought is a revelation from the Lord of might, who is merciful to His believing servants, and then cites 42:52 and 42:53.",
+            "bn": "কুরতুবী তাঁর আলোচনা শেষ করেন একটি মিল দেখিয়ে: \"আর নিশ্চয়ই আপনি সরল পথের দিকে পথ দেখান, আল্লাহর পথের দিকে\" (৪২:৫২ ও ৪২:৫৩)। আল্লাহর পথ বলতে তিনি বোঝান সেই পথ, যার আদেশ আল্লাহ দিয়েছেন। ইবন কাসীরও এই দুটি আয়াতের কাছেই যান, তবে পরের আয়াত থেকে। তানযীলাল আযীযির রহীম, ৩৬:৫, তাঁর ব্যাখ্যায় বলছে: আপনি যে পথ নিয়ে এসেছেন, তা মহাপরাক্রমশালী রবের পক্ষ থেকে অবতীর্ণ, যিনি তাঁর মুমিন বান্দাদের প্রতি পরম দয়ালু। এরপর তিনি ৪২:৫২ ও ৪২:৫৩ উদ্ধৃত করেন।"
+          },
+          {
+            "en": "The pairing is worth holding on to. In 42:52 the Prophet ﷺ guides others to the straight path; here he is on it. He who points the way also walks it, and the way he points to is not his own invention but the path of Allah, sent down by the Almighty, the Merciful. The next two verses name that Sender and the purpose of the sending, to warn a people whose forefathers were not warned; 36:6 has its own article.",
+            "bn": "এই জোড়াটা মনে রাখার মতো। ৪২:৫২ আয়াতে নবী ﷺ অন্যদের সরল পথ দেখান, আর এখানে তিনি নিজেই সেই পথের উপর। যিনি পথ দেখান, তিনি নিজেও সে পথে হাঁটেন। আর যে পথ তিনি দেখান, তা তাঁর নিজের বানানো নয়। তা আল্লাহর পথ, যা নাযিল করেছেন মহাপরাক্রমশালী, পরম দয়ালু। পরের দুটি আয়াত সেই প্রেরকের নাম বলে, আর বলে পাঠানোর উদ্দেশ্য: এমন এক কওমকে সতর্ক করা, যাদের বাপ-দাদাদের সতর্ক করা হয়নি। ৩৬:৬ আয়াতের আলাদা প্রবন্ধ আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Road Is Made Of",
+          "bn": "পথটা গড়া কী দিয়ে"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di asks what the road contains. It is straight and balanced (muʿtadil), he says, and it leads to Allah and to the abode of His honour. It holds deeds, the righteous deeds that set right the heart and the body, this world and the next. And it holds excellent character (al-akhlāq al-fāḍila), which purifies the self, cleanses the heart and makes the reward grow. On his reading the straight path is not only a creed to be held. It is a way of acting and a way of being.",
+            "bn": "সা'দী প্রশ্ন করেন, পথটার ভেতরে আছে কী। তিনি বলেন, পথটি সোজা ও ভারসাম্যপূর্ণ, আর তা পৌঁছে দেয় আল্লাহর কাছে, তাঁর সম্মানের ঘরে। এ পথে আছে আমল, সেই নেক আমল, যা অন্তর আর দেহকে ঠিক করে, দুনিয়া আর আখিরাতকেও। আর আছে উত্তম চরিত্র, যা নফসকে পরিশুদ্ধ করে, অন্তরকে পবিত্র করে, সওয়াব বাড়িয়ে দেয়। তাঁর ব্যাখ্যায় সরল পথ শুধু মনে ধরে রাখার একটা আকীদা নয়। এটা কাজ করার একটা ধরন, বেঁচে থাকার একটা ধরন।"
+          },
+          {
+            "en": "Then he draws the line that gives the verse its shape: this straight path is the description of the Messenger ﷺ and the description of the religion he brought. The road and the man are described with one phrase. Whatever the path asks of those who take it, the one it describes already lived, so that someone looking at him could see the road. This is why, for as-Sa'di, the verse can stand as evidence for the mission: a straight life testifies to a straight message.",
+            "bn": "এরপর তিনি সেই কথাটা বলেন, যা আয়াতটির আসল চেহারা ফুটিয়ে তোলে: এই সরল পথ হলো রসূল ﷺ-এর বর্ণনা, আর তিনি যে দ্বীন নিয়ে এসেছেন তারও বর্ণনা। পথ আর মানুষটি, দুটোর পরিচয় একই শব্দে। পথিকের কাছে পথ যা যা চায়, যাঁর বর্ণনা এই পথ, তিনি তা আগেই জীবনে করে দেখিয়েছেন। ফলে কেউ তাঁর দিকে তাকালেই পথটা দেখতে পেত। সা'দীর কাছে এ কারণেই আয়াতটি রিসালাতের পক্ষে প্রমাণ হয়ে দাঁড়ায়। সোজা জীবন সাক্ষ্য দেয় সোজা বার্তার পক্ষে।"
+          },
+          {
+            "en": "A sound narration, not tied to this verse, says the same thing from the other side. In Sahih Muslim (746), within a long report, Sa'd ibn Hisham recalls asking A'ishah (RA) about the Prophet: \"Mother of the Faithful, tell me about the character of the Messenger of Allah (ﷺ). She said: Don't you read the Qur'an? I said: Yes. Upon this she said: The character of the Messenger of Allah (ﷺ) was the Qur'an.\" It is cited for the link as-Sa'di draws between the path and the person, not as a comment on this verse.",
+            "bn": "একটি সহীহ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, একই কথা বলে অন্য দিক থেকে। সহীহ মুসলিমে (৭৪৬) একটি দীর্ঘ বর্ণনার ভেতরে সা'দ ইবন হিশাম জানান, তিনি আয়েশা (রাঃ)-কে নবী ﷺ সম্পর্কে জিজ্ঞেস করেছিলেন: \"হে উম্মুল মুমিনীন, আমাকে আল্লাহর রসূল ﷺ-এর চরিত্র সম্পর্কে বলুন। তিনি বললেন: তুমি কি কুরআন পড়ো না? আমি বললাম: হ্যাঁ, পড়ি। তিনি বললেন: আল্লাহর রসূল ﷺ-এর চরিত্র ছিল কুরআন।\" বর্ণনাটি এখানে আনা হলো পথ আর ব্যক্তির মধ্যে সা'দী যে সম্পর্ক দেখান তার জন্য, এ আয়াতের ব্যাখ্যা হিসেবে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proof Beside the Oath",
+          "bn": "শপথের পাশে প্রমাণ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di ends with a remark on the whole opening. Consider the majesty of this noble Qur'an, he says: it joins an oath by the noblest of things sworn by to the weightiest of things sworn about. Allah's word alone would have been enough. Yet in this very place He set up clear evidence and shining proofs for the truth of what He swore to, the messengership of His Messenger. As-Sa'di adds that he has pointed, gently, towards walking the Messenger's road.",
+            "bn": "সা'দী গোটা সূচনা নিয়ে একটা মন্তব্য দিয়ে শেষ করেন। তিনি বলেন, এই মহান কুরআনের মর্যাদা একবার ভেবে দেখুন। সবচেয়ে সম্মানিত জিনিসের কসম, আর তা খাওয়া হয়েছে সবচেয়ে গুরুত্বপূর্ণ বিষয়ের উপর। আল্লাহর একার কথাই যথেষ্ট ছিল। তবু ঠিক এই জায়গায় তিনি যে বিষয়ে কসম খেয়েছেন, অর্থাৎ তাঁর রসূলের রিসালাত, তার সত্যতার পক্ষে স্পষ্ট দলিল আর উজ্জ্বল প্রমাণ দাঁড় করিয়েছেন। সা'দী আরও বলেন, তিনি সূক্ষ্মভাবে রসূলের পথে চলার দিকে ইশারা করে গেলেন।"
+          },
+          {
+            "en": "The point is worth keeping. The listener is not asked to accept the mission on oath alone. The oath is backed by the Book sworn by, and the Book's description of the messenger is backed by a road that anyone can inspect: what he called to, how he lived and where his way leads. Faith is invited rather than demanded. And the gentle pointer as-Sa'di mentions turns proof into instruction. If the road is straight, the sensible answer is to walk it.",
+            "bn": "কথাটা ধরে রাখার মতো। শ্রোতাকে শুধু কসমের জোরে রিসালাত মেনে নিতে বলা হচ্ছে না। কসমের পেছনে আছে সেই কিতাব, যার কসম খাওয়া হয়েছে। আর কিতাব রসূলের যে বর্ণনা দেয়, তার পেছনে আছে এমন এক পথ, যা যে কেউ যাচাই করে দেখতে পারে। তিনি কিসের দিকে ডেকেছেন, কীভাবে জীবন কাটিয়েছেন, তাঁর পথ শেষে কোথায় পৌঁছায়। ঈমান এখানে আদায় করা হয় না, দাওয়াত দেওয়া হয়। সা'দী যে সূক্ষ্ম ইশারার কথা বলেন, তা প্রমাণকে বানিয়ে দেয় নির্দেশনা। পথ যদি সোজা হয়, বুদ্ধিমানের জবাব হলো সে পথে হাঁটা।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith to it, and none gives an occasion of revelation for it. Ibn Kathir and Ma'arif al-Qur'an open their grouped commentary with reports on the merits of Surah Ya Sin; those concern the surah as a whole rather than this verse, and nothing here is built on them.",
+            "bn": "এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি, আর কোনোটিই এর নাযিলের প্রেক্ষাপট বলেনি। ইবন কাসীর আর মাআরিফুল কুরআন কয়েকটি আয়াত একসঙ্গে ধরে যে আলোচনা করেছেন, তা শুরু হয়েছে সূরা ইয়াসীনের ফজিলত নিয়ে কিছু বর্ণনা দিয়ে। সেগুলো এই আয়াত নয়, পুরো সূরা নিয়ে, আর এখানে সেগুলোর উপর কিছু দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Road, Not a Rank",
+          "bn": "পথ, পদমর্যাদা নয়"
+        },
+        "p": [
+          {
+            "en": "The verse is an assurance given to one man, the Messenger ﷺ, by the One who sent him. The verses after it describe those of his people who refused, with shackles on their necks and barriers before and behind them (36:7 to 36:10). The verse says what it says and no more. It licenses nothing against any living person or community, and it hands no one today the right to declare who stands on the straight path and who has left it. That word was spoken by Allah about His Prophet ﷺ; it is not a title anyone else may issue.",
+            "bn": "আয়াতটি একজন মানুষকে, রসূল ﷺ-কে, দেওয়া আশ্বাস, আর তা দিয়েছেন তিনি, যিনি তাঁকে পাঠিয়েছেন। পরের আয়াতগুলোতে আছে তাঁর কওমের সেই লোকদের কথা, যারা মানেনি: তাদের গলায় বেড়ি, সামনে-পেছনে প্রাচীর (৩৬:৭ থেকে ৩৬:১০)। আয়াত যা বলে, ততটুকুই বলে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজ কে সরল পথে আছে আর কে তা ছেড়ে গেছে, তা ঘোষণা করার অধিকারও এটা কাউকে দেয় না। এ কথা আল্লাহ বলেছেন তাঁর নবী ﷺ সম্পর্কে। এটা এমন উপাধি নয়, যা অন্য কেউ বিলি করতে পারে।"
+          },
+          {
+            "en": "What it does give the believer is a direction. The commentators named the road Islam, the way of the earlier prophets, an upright method, religion and law, and as-Sa'di filled it with righteous deeds and fine character. Every believer asks for this road in 1:6 many times a day. The verse shows that it has been walked, from its start to where it leads, by a man of flesh and blood, so it is not out of reach. The question it leaves is not whether the road is straight. It is whether we are on it.",
+            "bn": "মুমিনকে আয়াতটি যা দেয়, তা হলো দিকনির্দেশ। তাফসীরকারেরা পথটার নাম দিয়েছেন ইসলাম, আগের নবীদের পথ, সুদৃঢ় মানহাজ, দ্বীন আর শরীয়ত। আর সা'দী তা ভরে দিয়েছেন নেক আমল আর সুন্দর চরিত্রে। প্রত্যেক মুমিন দিনে বহুবার ১:৬ আয়াতে এই পথ চান। আয়াতটি দেখিয়ে দেয়, রক্তমাংসের একজন মানুষ এ পথে শুরু থেকে গন্তব্য পর্যন্ত হেঁটে গেছেন। তাই এ পথ নাগালের বাইরে নয়। আয়াত যে প্রশ্নটা রেখে যায়, তা এই নয় যে পথটা সোজা কি না। প্রশ্ন হলো, আমরা সে পথে আছি কি না।"
+          }
+        ]
+      }
+    ]
+  },
   "36:6": {
     "sections": [
       {
