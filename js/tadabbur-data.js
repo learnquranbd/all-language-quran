@@ -34023,6 +34023,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A good family is a trust, not a weapon. Guard the honour you inherit by your own conduct, and never turn another person's lineage into a charge against them.",
     "lessonBn": "ভালো পরিবার একটি আমানত, অস্ত্র নয়। উত্তরাধিকারে পাওয়া সম্মান নিজের আচরণ দিয়ে রক্ষা করুন, আর কখনো অন্যের বংশকে তার বিরুদ্ধে অভিযোগ বানাবেন না।"
+  },
+  "19:11": {
+    "reflectionEn": "He had asked for a sign, and the sign was silence. Zakariyya comes out of the place of prayer where the good news reached him, to people waiting for him, and he cannot speak to them. He does not sit out the three nights alone. With a gesture, or as some say a few strokes on the ground, he tells them to glorify their Lord morning and evening. The joy was his own, yet he hands it on as worship, and he hands it on without a word. A tongue held back from people was still free for remembrance. When a blessing reaches me, does it become praise that others can join? And when I cannot say much, do I still find a way to point people to Allah?",
+    "reflectionBn": "তিনি একটা নিদর্শন চেয়েছিলেন, আর নিদর্শনটা হলো নীরবতা। যে নামাজের জায়গায় সুসংবাদ এসেছিল, যাকারিয়্যা (আঃ) সেখান থেকে বেরিয়ে এলেন। বাইরে লোকেরা তাঁর অপেক্ষায়, অথচ তিনি তাদের সঙ্গে কথা বলতে পারছেন না। তিন রাত তিনি একা চুপচাপ কাটিয়ে দেননি। ইশারায়, কারও কারও মতে মাটিতে কয়েকটা অক্ষর লিখে, তিনি তাদের বললেন: সকাল-সন্ধ্যা তোমাদের রবের তাসবীহ করো। আনন্দটা ছিল তাঁর নিজের। তবু তিনি সেটা সবার হাতে তুলে দিলেন ইবাদত হিসেবে, আর দিলেন একটা কথাও না বলে। মানুষের সঙ্গে কথা বন্ধ ছিল, কিন্তু জিকিরের পথ খোলা ছিল। কোনো নিয়ামত যখন আমার কাছে আসে, সেটা কি এমন প্রশংসায় বদলে যায়, যাতে অন্যরাও শরিক হতে পারে? আর যখন বেশি কিছু বলতে পারি না, তখনো কি মানুষকে আল্লাহর দিকে দেখিয়ে দেওয়ার কোনো উপায় খুঁজে নিই?",
+    "pointsEn": [
+      "When Allah last gave me something I had long waited for, did my first response include praise, or only relief?",
+      "Is there a blessing in my life that I have kept to myself, when it could have become thanks shared with my family?",
+      "When I cannot speak much, through illness, tiredness or shyness, what small signs do I still have for calling others to good?",
+      "Do my mornings and my evenings each hold a moment set apart for glorifying Allah?",
+      "When people wait for me and I come out to them, do they leave pointed towards Allah, or only towards me?"
+    ],
+    "pointsBn": [
+      "দীর্ঘ অপেক্ষার পর আল্লাহ শেষবার যখন আমাকে কিছু দিলেন, আমার প্রথম প্রতিক্রিয়ায় কি তাঁর প্রশংসা ছিল, নাকি শুধু স্বস্তির নিঃশ্বাস?",
+      "জীবনে এমন কোনো নিয়ামত কি আছে, যা আমি নিজের মধ্যে আটকে রেখেছি, অথচ তা পরিবারের সবার মিলিত শুকরিয়া হয়ে উঠতে পারত?",
+      "অসুখে, ক্লান্তিতে বা সংকোচে যখন বেশি কথা বলতে পারি না, তখনো মানুষকে ভালোর দিকে ডাকার কোন ছোট ছোট ইশারা আমার হাতে থাকে?",
+      "আমার সকালে আর সন্ধ্যায় কি আল্লাহর তাসবীহর জন্য আলাদা করে রাখা একটা মুহূর্ত আছে?",
+      "লোকেরা আমার অপেক্ষায় থাকে, আমি তাদের সামনে আসি। ফিরে যাওয়ার সময় তারা কি আল্লাহর দিকে মুখ করে যায়, নাকি শুধু আমার দিকে?"
+    ],
+    "lessonEn": "When Allah gives you good news, turn it into worship and invite others into it; even without words, a sign can call people to glorify their Lord.",
+    "lessonBn": "আল্লাহ যখন সুসংবাদ দেন, তাকে ইবাদতে বদলে নিন আর অন্যদেরও তাতে ডেকে নিন। কথা না থাকলেও একটা ইশারাই মানুষকে রবের তাসবীহর দিকে ডাকতে পারে।"
   }
 };
 

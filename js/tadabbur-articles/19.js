@@ -467,6 +467,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:11": {
+    "sections": [
+      {
+        "h": {
+          "en": "Coming Out Unable to Speak",
+          "bn": "কথা বন্ধ, তবু বেরিয়ে এলেন"
+        },
+        "p": [
+          {
+            "en": "Fa-kharaja 'ala qawmihi mina l-mihrab: so he came out to his people from the mihrab. The sign asked for in 19:10 has begun: three nights of not speaking to people while sound in body, given in 3:41 as three days of speaking only by gesture. At-Tabari opens with that link. Zakariyya (AS) came out from his place of prayer when his tongue had been held back from speaking to people, a sign from Allah to him of the truth of His promise.",
+            "bn": "ফাখারাজা আলা কাওমিহী মিনাল মিহরাব: অতঃপর তিনি মিহরাব থেকে বেরিয়ে তাঁর সম্প্রদায়ের সামনে এলেন। ১৯:১০ আয়াতে চাওয়া নিদর্শন এখন শুরু হয়ে গেছে: সুস্থ শরীরেও তিনটি রাত মানুষের সঙ্গে কথা বলতে না পারা। ৩:৪১ আয়াতে একই নিদর্শন এসেছে তিনটি দিনের কথায়, যখন ইশারা ছাড়া কথা চলবে না। তাবারী ব্যাখ্যা শুরু করেন এই সূত্র ধরেই। মানুষের সঙ্গে কথা বলা থেকে যখন যাকারিয়্যা (আঃ)-এর জিহ্বা আটকে দেওয়া হলো, তখন তিনি নামাজের জায়গা থেকে বেরিয়ে এলেন। আল্লাহর ওয়াদা যে সত্য, এই আটকে যাওয়াই ছিল তাঁর জন্য তার নিদর্শন।"
+          },
+          {
+            "en": "Ibn Kathir and the Muyassar define the place by what happened in it: it is where he was given the good news of the child. The man walking out of that room carries a promise and a silence that confirms it. The abridged English Ibn Kathir reads 3:41 beside 19:10 as proof that he did not speak to his people for the three nights and their days alike. The son himself is first addressed only in 19:12.",
+            "bn": "জায়গাটা কী, ইবন কাসীর ও মুয়াসসার তা বলেন সেখানে কী ঘটেছিল তা দিয়ে: এখানেই তাঁকে সন্তানের সুসংবাদ দেওয়া হয়েছিল। তাই ঘর থেকে যিনি বেরিয়ে আসছেন, তিনি বয়ে আনছেন একটি ওয়াদা আর এমন এক নীরবতা, যা সেই ওয়াদাকে সত্য বলে জানিয়ে দেয়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৩:৪১ আয়াতকে ১৯:১০ আয়াতের পাশে রেখে বলে, এ থেকে বোঝা যায় তিনি তিনটি রাত এবং সেগুলোর দিনেও লোকদের সঙ্গে কথা বলেননি। পুত্রকে প্রথম সম্বোধন করা হয় কেবল ১৯:১২ আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Chamber Set on High",
+          "bn": "উঁচুতে গড়া নামাজের ঘর"
+        },
+        "p": [
+          {
+            "en": "What was the mihrab? At-Tabari says he explained the word earlier and lets two early voices speak. Ibn Zayd says the mihrab was his musalla, his place of prayer, and recites 3:39: the angels called him while he stood praying in the mihrab. Ibn Jurayj reads fa-kharaja as ashrafa: he looked out over his people from the mihrab, appearing to them from above rather than simply stepping through a door.",
+            "bn": "মিহরাব কী ছিল? তাবারী বলেন, শব্দটির ব্যাখ্যা তিনি আগেই দিয়েছেন। এখানে তিনি দুজন প্রাচীন ব্যাখ্যাকারের কথা তুলে আনেন। ইবন যায়দ বলেন, মিহরাব ছিল তাঁর মুসাল্লা, অর্থাৎ নামাজের জায়গা। প্রমাণ হিসেবে তিনি ৩:৩৯ আয়াত পাঠ করেন: তিনি যখন মিহরাবে দাঁড়িয়ে নামাজ পড়ছিলেন, ফেরেশতারা তাঁকে ডাক দিলেন। ইবন জুরাইজের কাছে ফাখারাজার মানে আশরাফা: মিহরাব থেকে তিনি উপর থেকে লোকদের দিকে তাকালেন। শুধু দরজা পেরিয়ে বাইরে আসা নয়, উঁচু জায়গা থেকে তাদের সামনে দেখা দেওয়া।"
+          },
+          {
+            "en": "Al-Qurtubi builds on the same reading. He came out means he looked down on them from the place of prayer, and the mihrab is the highest of places and the noblest of seats. People used to set their mihrabs on raised ground, he says, citing the mihrab of Dawud (AS), which the Qur'an names in 38:21, where the disputants climb over its wall. On this reading the people stood below, and the one they waited for appeared above them.",
+            "bn": "কুরতুবীও একই ব্যাখ্যার উপর দাঁড়ান। তাঁর মতে বেরিয়ে আসার অর্থ, নামাজের জায়গা থেকে তিনি তাদের দিকে উপর থেকে তাকালেন। মিহরাব হলো সবচেয়ে উঁচু জায়গা, সবচেয়ে সম্মানের আসন। তিনি বলেন, লোকেরা উঁচু ভূমিতে মিহরাব বানাত, আর প্রমাণ হিসেবে আনেন দাউদ (আঃ)-এর মিহরাব। কুরআন ৩৮:২১ আয়াতে সেই মিহরাবের নাম নিয়েছে, যেখানে বিবাদকারীরা প্রাচীর টপকে ভেতরে আসে। এই ব্যাখ্যায় লোকেরা দাঁড়িয়ে ছিল নিচে, আর যাঁর অপেক্ষায় তারা ছিল, তিনি দেখা দিলেন তাদের উপরে।"
+          },
+          {
+            "en": "Al-Qurtubi also records a difference over where the word comes from, and leaves both sides standing. One group derives it from harb, war, as though the one who keeps to the mihrab is at war with Satan and with desires. Another derives it from harab, with the middle letter vowelled, as though the one who keeps to it meets there with hardship, toil and fatigue. Either way the word describes a place of effort. The verse brings Zakariyya (AS) out of that place with the answer to his prayer already given.",
+            "bn": "শব্দটা কোথা থেকে এসেছে, তা নিয়েও কুরতুবী একটি মতভেদ উল্লেখ করেন এবং দুই মতই রেখে দেন। একদল বলেন, এটি এসেছে হারব থেকে, যার অর্থ যুদ্ধ। যেন মিহরাবে যিনি পড়ে থাকেন, তিনি শয়তান আর কুপ্রবৃত্তির বিরুদ্ধে লড়াই করছেন। আরেক দল বলেন, এর মূল হারাব, মাঝের অক্ষরে যবর দিয়ে। যেন সেখানে যিনি লেগে থাকেন, তিনি কষ্ট, খাটুনি আর ক্লান্তির মুখোমুখি হন। যে মতই ধরা হোক, শব্দটা মেহনতের জায়গার কথা বলে। আর আয়াতটি যাকারিয়্যা (আঃ)-কে সেই জায়গা থেকে বের করে আনে এমন সময়, যখন তাঁর দোয়ার জবাব আগেই মিলে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Crowd Behind the Door",
+          "bn": "দরজার ওপাশে অপেক্ষমাণ লোকেরা"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi pictures the other side of the door. The people were behind the mihrab, he says, waiting for him to open the door so that they could come in and pray, when Zakariyya (AS) came out to them with his colour changed. They found him unlike himself and asked: what is the matter with you, O Zakariyya? He gives no chain or named narrator for this, so it reads as his account of the scene, not a report traced to anyone.",
+            "bn": "দরজার অপর পাশের ছবিটা আঁকেন বাগাভী। তিনি বলেন, লোকেরা মিহরাবের পেছনে অপেক্ষা করছিল কখন তিনি দরজা খুলবেন, যাতে তারা ভেতরে ঢুকে নামাজ পড়তে পারে। এমন সময় যাকারিয়্যা (আঃ) বেরিয়ে এলেন, তাঁর চেহারার রং বদলে গেছে। তাঁকে অচেনা লাগল তাদের কাছে। তারা জিজ্ঞেস করল: হে যাকারিয়্যা, আপনার কী হয়েছে? বাগাভী কথাটা বলেন কোনো সনদ বা বর্ণনাকারীর নাম ছাড়াই। তাই একে কারও কাছ থেকে আসা বর্ণনা না ধরে দৃশ্যটির ব্যাপারে তাঁর নিজের বিবরণ হিসেবে পড়াই ভালো।"
+          },
+          {
+            "en": "Al-Baghawi then explains the instruction. Zakariyya (AS), he says, used to come out to his people morning and evening and command them to pray. When the time of his wife's pregnancy came and speech was withheld from him, he came out as before and commanded them to pray, this time by gesture. On this reading nothing in the instruction was new. The habit of years went on through the sign; only the means had changed, from a spoken word to a gesture.",
+            "bn": "তারপর বাগাভী নির্দেশটির অর্থ খুলে বলেন। তাঁর ভাষায়, যাকারিয়্যা (আঃ) প্রতিদিন সকালে ও সন্ধ্যায় লোকদের সামনে বেরিয়ে এসে তাদের নামাজের হুকুম দিতেন। যখন তাঁর স্ত্রীর গর্ভধারণের সময় এল এবং তাঁর কথা বন্ধ করে দেওয়া হলো, তখনো তিনি আগের মতোই বেরিয়ে এলেন এবং নামাজের হুকুম দিলেন, তবে এবার ইশারায়। এই ব্যাখ্যায় নির্দেশের মধ্যে নতুন কিছু নেই। বহু বছরের অভ্যাস নিদর্শনের দিনগুলোতেও চালু রইল। বদলেছে শুধু মাধ্যম: মুখের কথার জায়গায় ইশারা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Hand, or Letters on Earth",
+          "bn": "হাতের ইশারা, নাকি মাটিতে লেখা"
+        },
+        "p": [
+          {
+            "en": "Fa-awha ilayhim: and he conveyed to them. At-Tabari glosses it as he signalled to them, and adds that such a signal may be made with the hand, with writing, or by any other means through which he is understood. The Arabs, he notes, have two forms of the verb, waha and awha, just as they say both wama and awma for gesturing. The early interpreters differed. Some said it was a sign of the hand: Mujahid, through Ibn Abi Najih, has Zakariyya gesture; Wahb ibn Munabbih says al-wahy is gesture; Qatada says he motioned to them.",
+            "bn": "ফাআওহা ইলাইহিম: আর তিনি তাদের জানিয়ে দিলেন। তাবারী এর অর্থ করেন, তিনি তাদের ইশারা করলেন। সঙ্গে যোগ করেন, এমন ইশারা হতে পারে হাত দিয়ে, লিখে, কিংবা অন্য যেকোনো উপায়ে, যাতে তাঁর কথা বোঝা যায়। তিনি জানান, আরবদের মধ্যে ক্রিয়াটির দুটি রূপ চালু আছে, ওয়াহা ও আওহা, যেমন ইশারা বোঝাতে তারা ওয়ামা ও আওমা দুটোই বলে। প্রথম যুগের ব্যাখ্যাকারেরা এখানে ভিন্নমত পোষণ করেছেন। কেউ বলেন, এটা ছিল হাতের ইশারা। ইবন আবী নাজীহের সূত্রে মুজাহিদ বলেন, যাকারিয়্যা ইশারা করলেন। ওয়াহব ইবন মুনাব্বিহ বলেন, ওয়াহি মানে ইশারা। কাতাদা বলেন, তিনি তাদের দিকে ইঙ্গিত করলেন।"
+          },
+          {
+            "en": "Others said awha means he wrote. Mujahid again, this time through al-Hakam, says he wrote for them on the ground; al-Hakam himself says he wrote for them; as-Suddi says he wrote for them in a writing. A third group, at-Tabari says, took it as he commanded them, and Ibn Zayd states the whole difficulty honestly: I do not know whether it was a writing he wrote for them or a gesture he made, and Allah knows best; he commanded them to glorify morning and evening, without speaking to them.",
+            "bn": "অন্যরা বলেন, আওহার অর্থ তিনি লিখলেন। মুজাহিদের কাছ থেকেই, এবার হাকামের সূত্রে, বর্ণিত আছে যে তিনি তাদের জন্য মাটিতে লিখলেন। হাকাম নিজে বলেন, তিনি তাদের জন্য লিখলেন। সুদ্দী বলেন, তিনি তাদের জন্য একটি লেখায় লিখে দিলেন। তাবারী জানান, তৃতীয় একদল এর অর্থ করেছেন, তিনি তাদের হুকুম দিলেন। আর ইবন যায়দ পুরো জটিলতাটা অকপটে স্বীকার করেন। তিনি বলেন: আমি জানি না, তিনি তাদের জন্য কিছু লিখেছিলেন, নাকি ইশারা করেছিলেন। আল্লাহই ভালো জানেন। তিনি তাদের সকাল-সন্ধ্যা তাসবীহ করতে হুকুম দিলেন, তাদের সঙ্গে কথা না বলেই।"
+          },
+          {
+            "en": "Ibn Kathir gives the same split: gesture from Mujahid, Wahb and Qatada; writing on the ground from Mujahid in another report, and from as-Suddi. So as-Suddi is relayed differently, on the ground in Ibn Kathir and in a writing in at-Tabari. Al-Qurtubi lists al-Kalbi, Qatada and Ibn Munabbih for gesture, al-Qutabi for motioning, Mujahid for writing on the ground and Ikrima for writing in a book. Wahy in Arab speech, he adds, means writing, and he quotes lines of Dhu r-Rumma and Antara as proof.",
+            "bn": "ইবন কাসীরের কাছেও একই বিভাজন। মুজাহিদ, ওয়াহব ও কাতাদা বলেন, তিনি ইশারা করেছিলেন। আর মুজাহিদের আরেক বর্ণনায় এবং সুদ্দীর মতে, তিনি মাটিতে তাদের জন্য লিখেছিলেন। খেয়াল করার মতো ব্যাপার, সুদ্দীর কথাটা দুই জায়গায় দুইভাবে এসেছে। ইবন কাসীরে মাটিতে লেখা, তাবারীতে একটি লেখায়। কুরতুবীর তালিকায় ইশারার পক্ষে আছেন কালবী, কাতাদা ও ইবন মুনাব্বিহ। কুতাবী বলেন ইঙ্গিত করা। মুজাহিদ বলেন মাটিতে লেখা, ইকরিমা বলেন কিতাবে লেখা। কুরতুবী যোগ করেন, আরবদের ভাষায় ওয়াহি মানে লেখা। প্রমাণে তিনি যুর রুম্মা ও আনতারার কবিতার পঙ্‌ক্তি উদ্ধৃত করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Remembrance, or the Prayer",
+          "bn": "জিকির, নাকি নামাজ"
+        },
+        "p": [
+          {
+            "en": "An sabbihu bukratan wa 'ashiyya: that you glorify morning and evening. At-Tabari allows two senses of tasbih here. It may be the tasbih that is remembrance of Allah, so that he told them to give themselves to remembering Allah at the two ends of the day. Or it may mean the prayer, so that he told them to pray at those two times. He does not choose between them. Qatada, in at-Tabari's own chain, takes the second: he motioned to them to pray morning and evening.",
+            "bn": "আন সাব্বিহূ বুকরাতাঁও ওয়া আশিয়্যা: তোমরা সকাল-সন্ধ্যা তাসবীহ করো। তাবারী এখানে তাসবীহর দুটি অর্থের সুযোগ রাখেন। হতে পারে এটি সেই তাসবীহ, যা আল্লাহর জিকির। তাহলে তিনি তাদের বলেছিলেন দিনের দুই প্রান্তে আল্লাহর জিকিরে মন দিতে। আবার হতে পারে এর অর্থ নামাজ। তাহলে তিনি তাদের ওই দুই সময়ে নামাজ পড়তে বলেছিলেন। তাবারী দুটির কোনোটিকে বেছে নেন না। তবে তাঁরই উল্লেখ করা সনদে কাতাদা দ্বিতীয় অর্থটি নেন: তিনি তাদের সকাল-সন্ধ্যা নামাজ পড়তে ইশারা করলেন।"
+          },
+          {
+            "en": "Al-Baghawi says it plainly: sabbihu means pray to Allah. He glosses bukra as ghudwa, the early morning. Al-Qurtubi treats both words as adverbs of time and adds al-Farra's view that 'ashiyy is feminine, may be treated as masculine when left indefinite, and may also be the plural of 'ashiyya. The Muyassar keeps to the plain sense: glorify Allah morning and evening. In 3:41 the same pair was a command to Zakariyya (AS) himself, glorify in the evening and the morning; here he passes it on to his people.",
+            "bn": "বাগাভী সোজাসুজি বলেন: সাব্বিহূ মানে আল্লাহর জন্য নামাজ পড়ো। বুকরার অর্থ তিনি করেন গুদওয়া, অর্থাৎ ভোরবেলা। কুরতুবী বলেন, দুটি শব্দই এখানে সময় বোঝাচ্ছে। সঙ্গে ফাররার মত উল্লেখ করেন: আশিয়্যু স্ত্রীলিঙ্গ, তবে অনির্দিষ্ট রাখলে পুংলিঙ্গেও ব্যবহার চলে, আর এটি আশিয়্যার বহুবচনও হতে পারে। মুয়াসসার সাদামাটা অর্থে থাকে: সকালে ও সন্ধ্যায় আল্লাহর তাসবীহ করো। ৩:৪১ আয়াতে এই একই জোড়া এসেছিল যাকারিয়্যা (আঃ)-এর প্রতি সরাসরি হুকুম হিসেবে, সন্ধ্যায় ও সকালে তাসবীহ করো। আর এখানে তিনি সেই হুকুম পৌঁছে দিচ্ছেন নিজের সম্প্রদায়ের কাছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Good News Meant for All",
+          "bn": "সুসংবাদ সবার জন্য"
+        },
+        "p": [
+          {
+            "en": "Why should the people glorify at all, when the child was promised to him? Ibn Kathir answers that it was so they would join him in what he had been commanded during these days, over and above his own works, and in thanks to Allah for what He had granted him. The Muyassar also gives thanks as the reason: glorify Allah morning and evening in gratitude to Him. As-Sa'di widens the circle further. The good news of Yahya, he says, concerned all of them, because it was a benefit for their religion.",
+            "bn": "সন্তানের ওয়াদা তো তাঁকে দেওয়া হয়েছিল, তাহলে লোকেরা কেন তাসবীহ করবে? ইবন কাসীরের জবাব: যাতে এই দিনগুলোতে তাঁকে যা করতে হুকুম দেওয়া হয়েছিল, তাতে তারা তাঁর সঙ্গে শরিক হয়। তাঁর নিজের আমলের উপর বাড়তি হিসেবে, আর আল্লাহ তাঁকে যা দান করেছেন তার শুকরিয়া হিসেবে। মুয়াসসারও কারণ হিসেবে শুকরিয়ার কথা বলে: তাঁর প্রতি কৃতজ্ঞতায় সকাল-সন্ধ্যা আল্লাহর তাসবীহ করো। সা'দী বৃত্তটা আরও বড় করেন। তাঁর মতে ইয়াহইয়া (আঃ)-এর সুসংবাদ সবার সঙ্গেই সম্পর্কিত ছিল, কারণ তাতে ছিল তাদের দ্বীনের কল্যাণ।"
+          },
+          {
+            "en": "The silence itself was of a particular kind. The abridged Ibn Kathir relays from Ibn Abbas, Mujahid, Qatada and others that his tongue was held back without any sickness, and from Abd ar-Rahman ibn Zayd ibn Aslam that he recited and glorified Allah but could speak to his people only by gestures. Ma'arif al-Qur'an reads sawiyya in 19:10 the same way: no illness, for throughout those days he could utter words of prayer and supplication. Speech was closed towards people and open towards Allah.",
+            "bn": "নীরবতাটাও ছিল বিশেষ ধরনের। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ইবন আব্বাস (রাঃ), মুজাহিদ, কাতাদা প্রমুখের কাছ থেকে বর্ণনা করে যে কোনো অসুখ ছাড়াই তাঁর জিহ্বা আটকে দেওয়া হয়েছিল। আবদুর রহমান ইবন যায়দ ইবন আসলাম থেকে বর্ণনা করে যে তিনি তিলাওয়াত করতেন, আল্লাহর তাসবীহও করতেন, কিন্তু ইশারা ছাড়া লোকদের সঙ্গে কথা বলতে পারতেন না। মাআরিফুল কুরআনও ১৯:১০ আয়াতের সাওয়িয়্যা শব্দটি একইভাবে পড়ে: এটা কোনো রোগ ছিল না, কারণ ওই দিনগুলো জুড়ে তিনি দোয়া ও মুনাজাতের শব্দ উচ্চারণ করতে পারতেন। মানুষের দিকে কথা বন্ধ, আল্লাহর দিকে খোলা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Imam Should Stand",
+          "bn": "ইমাম দাঁড়াবেন কোথায়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi draws five issues from this verse, and the second rests on the reading that he looked down on them. It shows, he says, that an imam's standing higher than those behind him was lawful for them in their prayer. The jurists of the cities then differ over our own prayer. Ahmad and others allowed it, holding to the story of the minbar. Malik forbade a large elevation but allowed a slight rise, and his companions gave fear of pride in the imam as the reason. Al-Qurtubi finds that reasoning open to question.",
+            "bn": "কুরতুবী এ আয়াত থেকে পাঁচটি মাসআলা বের করেন। দ্বিতীয়টি দাঁড়িয়ে আছে এই ব্যাখ্যার উপর যে তিনি উপর থেকে তাদের দিকে তাকিয়েছিলেন। কুরতুবী বলেন, এ থেকে বোঝা যায় তাদের নামাজে মুক্তাদিদের চেয়ে ইমামের উঁচুতে দাঁড়ানো জায়েজ ছিল। আমাদের নামাজের ব্যাপারে বিভিন্ন শহরের ফকীহরা এখানে ভিন্নমত পোষণ করেন। ইমাম আহমদ ও অন্যরা মিম্বারের ঘটনাকে দলিল ধরে একে জায়েজ বলেছেন। ইমাম মালিক বেশি উঁচুতে দাঁড়াতে নিষেধ করেছেন, সামান্য উঁচুতে নয়। তাঁর অনুসারীরা কারণ হিসেবে বলেছেন, এতে ইমামের মনে অহংকার জাগার ভয় আছে। কুরতুবী এই যুক্তিকে প্রশ্নসাপেক্ষ মনে করেন।"
+          },
+          {
+            "en": "The best evidence, he says, is Abu Dawud's narration, found on the page for Abu Dawud 597: Hudhayfa led the people in prayer at al-Mada'in on a raised bench, and Abu Mas'ud took hold of his shirt and pulled him; when the prayer was over he said, do you not know that they used to be forbidden from this? Hudhayfa said, yes, I remembered when you pulled me. Abu Dawud gives no grading. A second narration al-Qurtubi cites, Abu Dawud 598, relays a saying of the Prophet ﷺ on the matter through an unnamed man; it too is ungraded.",
+            "bn": "কুরতুবী বলেন, এ বিষয়ে সবচেয়ে ভালো দলিল আবু দাউদের বর্ণনা। আবু দাউদ ৫৯৭-এর পাতায় সেটি আছে: হুযাইফা (রাঃ) মাদায়েনে একটি উঁচু চাতালে দাঁড়িয়ে লোকদের নামাজ পড়ালেন। আবু মাসঊদ (রাঃ) তাঁর জামা ধরে টেনে নামালেন। নামাজ শেষে তিনি বললেন, আপনি কি জানেন না, লোকদের এ থেকে নিষেধ করা হতো? হুযাইফা বললেন, হ্যাঁ, আপনি যখন আমাকে টানলেন তখনই আমার মনে পড়ে গেল। আবু দাউদ এর কোনো মান উল্লেখ করেননি। কুরতুবী আরেকটি বর্ণনাও আনেন, আবু দাউদ ৫৯৮। এতে এ বিষয়ে নবী ﷺ-এর একটি কথা এসেছে এমন এক লোকের মাধ্যমে, যার নাম সনদে নেই। এরও কোনো মান উল্লেখ নেই।"
+          },
+          {
+            "en": "From these al-Qurtubi argues that three Companions reported the prohibition and none of them cited the minbar against another, which to him shows the minbar ruling was abrogated. That is his conclusion; Ahmad's position stands against it, and the article takes neither side. No tafsir fetched for this verse attaches a hadith to its meaning. These narrations serve a jurists' question that al-Qurtubi hangs on a single word, the looking down from the mihrab.",
+            "bn": "এসব থেকে কুরতুবী যুক্তি দেন, তিনজন সাহাবি এই নিষেধের কথা জানিয়েছেন, অথচ তাঁদের কেউ অন্যের বিরুদ্ধে মিম্বারের ঘটনা দলিল হিসেবে আনেননি। তাঁর মতে এ থেকে বোঝা যায়, মিম্বারের বিধান মানসুখ হয়ে গেছে। এটি তাঁর সিদ্ধান্ত। ইমাম আহমদের মত রয়েছে এর বিপরীতে, আর এই লেখা কোনো পক্ষ নিচ্ছে না। এ আয়াতের জন্য যত তাফসীর দেখা হয়েছে, কোনোটিই আয়াতের অর্থের সঙ্গে কোনো হাদীস জুড়ে দেয়নি। এই বর্ণনাগুলো ফকীহদের একটি প্রশ্নের অংশ, যা কুরতুবী ঝুলিয়েছেন আয়াতের একটিমাত্র কথার উপর: মিহরাব থেকে উপর থেকে তাকানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Writing Stands for Speech",
+          "bn": "কথার জায়গায় যখন লেখা"
+        },
+        "p": [
+          {
+            "en": "Because some read awha as writing, al-Qurtubi's fourth issue asks whether writing counts as speaking. Someone swears not to speak to a person, then writes to him or sends a messenger. Malik first said he breaks his oath unless he meant face-to-face speech, then went back on it: intention does not help with a letter, and he breaks his oath unless he takes the letter back before it arrives. Ibn al-Qasim and Ashhab then differ over whose reading of the letter counts.",
+            "bn": "কেউ কেউ আওহার অর্থ লেখা ধরেছেন বলেই কুরতুবীর চতুর্থ মাসআলা প্রশ্ন তোলে: লেখা কি কথা বলার মধ্যে পড়ে? ধরা যাক কেউ কসম খেল, অমুকের সঙ্গে কথা বলবে না। তারপর তাকে চিঠি লিখল বা কারও মাধ্যমে খবর পাঠাল। ইমাম মালিক প্রথমে বলেছিলেন, তার কসম ভেঙে যাবে, যদি না সে মুখোমুখি কথা বলার নিয়ত করে থাকে। পরে তিনি এ মত থেকে ফিরে আসেন। বলেন, চিঠির বেলায় নিয়ত কাজে আসবে না। চিঠি পৌঁছানোর আগে ফিরিয়ে না নিলে কসম ভেঙে যাবে। তারপর চিঠি কার পড়া ধর্তব্য, তা নিয়ে ইবনুল কাসিম ও আশহাব ভিন্নমত পোষণ করেন।"
+          },
+          {
+            "en": "The fifth issue turns to the mute. Malik, ash-Shafi'i and the Kufans agree, al-Qurtubi reports, that a divorce a mute person writes with his own hand binds him. The Kufans make an exception of a man who has fallen silent for some days and then writes. At-Tahawi explains the line: muteness differs from a passing silence, as an inability from a day's illness differs from inability beyond hope. Al-Qurtubi applies none of this to Zakariyya (AS); the verse only opens the question of gesture and writing.",
+            "bn": "পঞ্চম মাসআলা বোবা মানুষকে নিয়ে। কুরতুবী জানান, ইমাম মালিক, শাফিঈ ও কুফার আলেমরা একমত যে বোবা ব্যক্তি নিজ হাতে তালাক লিখলে তা তার উপর কার্যকর হয়। তবে কুফার আলেমরা ব্যতিক্রম ধরেন সেই লোককে, যে কয়েক দিন ধরে বাকরুদ্ধ, তারপর লিখল। তাহাবী সীমারেখাটা বুঝিয়ে দেন। স্থায়ীভাবে বোবা হওয়া আর হঠাৎ কিছুদিনের জন্য চুপ হয়ে যাওয়া এক কথা নয়, যেমন এক দিনের অসুখে আসা অক্ষমতা আর আরোগ্যের আশাহীন অক্ষমতা আলাদা। তবে কুরতুবী এর কোনোটিই যাকারিয়্যা (আঃ)-এর উপর প্রয়োগ করেন না। ইশারা আর লেখার প্রশ্নটা কেবল এই আয়াত থেকে উঠে আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Call Without a Voice",
+          "bn": "কণ্ঠ ছাড়াই ডাক"
+        },
+        "p": [
+          {
+            "en": "The verse is eleven words long. A prophet's long prayer has just been answered, and his first act before his people, with his tongue held, is to turn them towards their Lord at the two ends of the day. The verse records no announcement of the child. On al-Baghawi's reading he simply does what he always did each morning and evening, and the sign changes only the means. Good news becomes worship, and the worship is shared.",
+            "bn": "আয়াতটি মাত্র ১১টি শব্দের। এক নবীর দীর্ঘ দিনের দোয়া এইমাত্র কবুল হয়েছে। জিহ্বা আটকে থাকা অবস্থায় লোকদের সামনে তাঁর প্রথম কাজ হলো দিনের দুই প্রান্তে তাদের রবের দিকে ফিরিয়ে দেওয়া। সন্তানের কোনো ঘোষণার কথা আয়াতে নেই। বাগাভীর ব্যাখ্যা ধরলে তিনি শুধু তা-ই করেন, যা প্রতি সকাল-সন্ধ্যায় সবসময় করে এসেছেন। নিদর্শন বদলায় কেবল মাধ্যমটুকু। সুসংবাদ পরিণত হয় ইবাদতে, আর সেই ইবাদতে সবাই শরিক হয়।"
+          },
+          {
+            "en": "For the reader there are two quiet lessons here. Speech can be taken away, by illness, age, grief or circumstance, but the call to good need not go with it. A gesture, a written line, a habit of prayer kept at fixed times before others can carry what words would have carried. And a blessing is not finished when it arrives. It is finished when it has become thanks, best of all thanks that others are invited to join, morning and evening.",
+            "bn": "পাঠকের জন্য এখানে দুটি নিঃশব্দ শিক্ষা আছে। অসুখে, বয়সে, শোকে বা পরিস্থিতির চাপে মুখের কথা হারিয়ে যেতে পারে। কিন্তু ভালোর দিকে ডাকার কাজটা তার সঙ্গে হারিয়ে যেতে হবে, এমন নয়। একটা ইশারা, লেখা একটা লাইন, অন্যদের সামনে নির্দিষ্ট সময়ে নামাজের একটা অভ্যাস, এগুলোও সেই কাজ করতে পারে, যা কথা করত। আর নিয়ামত পৌঁছে গেলেই তার কাজ শেষ হয় না। শেষ হয় তখন, যখন তা শুকরিয়ায় পরিণত হয়। সবচেয়ে ভালো হয় যদি সেই শুকরিয়ায় অন্যদেরও ডেকে নেওয়া যায়, সকালে আর সন্ধ্যায়।"
+          }
+        ]
+      }
+    ]
+  },
   "19:12": {
     "sections": [
       {
