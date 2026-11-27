@@ -4535,6 +4535,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "21:91": {
+    "sections": [
+      {
+        "h": {
+          "en": "Unnamed in the Prophets' Roll",
+          "bn": "নবীদের তালিকায় নামহীন এক নারী"
+        },
+        "p": [
+          {
+            "en": "Wa-llati ahsanat farjaha: and she who guarded her chastity. The verse opens without a name; of its eleven Arabic words, none is Maryam. At-Tabari reads the opening as Allah telling His Prophet ﷺ: and remember the one who guarded her chastity, meaning Maryam daughter of 'Imran. Ma'arif al-Qur'an likewise says the verse directs the Prophet ﷺ to tell his people her story. Ibn Kathir supplies the name from 66:12, where the same description follows it: and Maryam, daughter of 'Imran, who guarded her chastity.",
+            "bn": "ওয়াল্লাতী আহসানাত ফারজাহা: আর সেই নারী, যিনি নিজের সতীত্ব রক্ষা করেছিলেন। আয়াতের শুরুতে কোনো নাম নেই। ১১টি আরবি শব্দের একটিও মারইয়াম নয়। তাবারীর ব্যাখ্যায় আল্লাহ এখানে তাঁর নবী ﷺ-কে বলছেন: স্মরণ করুন সেই নারীকে, যিনি সতীত্ব রক্ষা করেছিলেন। অর্থাৎ ইমরানের কন্যা মারইয়াম। মাআরিফুল কুরআনও বলে, আয়াতটি নবী ﷺ-কে তাঁর কাওমের কাছে এই নারীর কাহিনি শোনাতে বলছে। নামটা ইবন কাসীর নিয়ে আসেন ৬৬:১২ থেকে। সেখানে একই গুণ নামের পরে এসেছে: আর ইমরানের কন্যা মারইয়াম, যিনি নিজের সতীত্ব রক্ষা করেছিলেন।"
+          },
+          {
+            "en": "She stands in unusual company. Surat al-Anbiya, the surah of the prophets, has just named Ayyub, Isma'il, Idris, Dhu'l-Kifl, Dhu'n-Nun and Zakariyya (AS), each in turn. Al-Qurtubi notes that she is mentioned although she is not among the prophets, so that the mention of 'Isa (AS) might be complete. As-Sa'di gives the other side: she is remembered here in praise, to make her worth plain and her honour known. Her place in the roll belongs to her son and to herself together.",
+            "bn": "তিনি এখানে এক অন্যরকম সঙ্গে দাঁড়িয়ে। সূরা আল-আম্বিয়া, নবীদের সূরা। এর আগে একের পর এক নাম এসেছে আইয়ূব, ইসমাঈল, ইদরীস, যুল-কিফল, যুন-নূন আর যাকারিয়া (আঃ)-এর। কুরতুবী লক্ষ করেন, মারইয়াম নবীদের অন্তর্ভুক্ত নন, তবু তাঁর কথা এসেছে, যাতে ঈসা (আঃ)-এর আলোচনা পূর্ণ হয়। সা'দী দেখান অন্য দিকটা: তাঁর কথা এখানে এসেছে প্রশংসা হিসেবে, তাঁর মর্যাদা স্পষ্ট করতে আর তাঁর সম্মানের কথা সবাইকে জানাতে। তালিকায় তাঁর জায়গা তাই পুত্রের কারণেও, নিজের কারণেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Old Man, Then a Maiden",
+          "bn": "বৃদ্ধ পিতা, তারপর কুমারী মা"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains why Maryam follows Zakariyya (AS) here. The earlier story, he says, prepares the ground for hers. In it a child is brought into being from an old man far advanced in years and from an aged, barren wife who had not given birth even in her youth. Then comes the story of Maryam, which is more wondrous still: a child brought into being from a woman without a man. He notes that the Qur'an keeps the same order in Surat Al 'Imran and in Surat Maryam.",
+            "bn": "যাকারিয়া (আঃ)-এর পরেই কেন মারইয়ামের কথা, ইবন কাসীর তার কারণ বলেন। তাঁর মতে আগের কাহিনিটা এই কাহিনির জন্য জমিন তৈরি করে। সেখানে সন্তান আসে বয়সের ভারে ন্যুব্জ এক বৃদ্ধ থেকে, আর এমন এক বন্ধ্যা বৃদ্ধা থেকে, যৌবনেও যাঁর সন্তান হয়নি। এরপর আসে মারইয়ামের কাহিনি, যা আরও বিস্ময়কর: পুরুষের স্পর্শ ছাড়া এক নারী থেকে সন্তানের জন্ম। ইবন কাসীর আরও বলেন, সূরা আলে ইমরান ও সূরা মারইয়ামেও কুরআন ঠিক এই ক্রম রেখেছে।"
+          },
+          {
+            "en": "The order teaches by steps. In 21:90 Allah responded to Zakariyya and set his wife right for him, opening a door that age and barrenness had shut. In the very next verse comes a birth with no ordinary course at all, and the reader who has accepted the first wonder is led on to the greater. The article on 21:89 follows Zakariyya's own call; here the point is the sequence itself.",
+            "bn": "এই ক্রম ধাপে ধাপে শেখায়। ২১:৯০ আয়াতে আল্লাহ যাকারিয়ার ডাকে সাড়া দিয়েছেন, তাঁর স্ত্রীকে সুস্থ করে দিয়েছেন। বার্ধক্য আর বন্ধ্যাত্ব যে দরজা বন্ধ করে রেখেছিল, তা খুলে গেল। ঠিক পরের আয়াতে এমন জন্মের কথা, যার কোনো সাধারণ পথই নেই। প্রথম বিস্ময় যে মেনে নিয়েছে, তাকে নিয়ে যাওয়া হয় বড় বিস্ময়ের দিকে। যাকারিয়ার দোয়ার আলোচনা আছে ২১:৮৯ আয়াতের প্রবন্ধে। এখানে দেখার বিষয় ক্রমটা নিজেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari Weighs Two Senses",
+          "bn": "তাবারীর পাল্লায় দুই অর্থ"
+        },
+        "p": [
+          {
+            "en": "Ahsanat, at-Tabari explains, means she kept and withheld her farj from what Allah had forbidden her to make lawful. Then he records a disagreement over which farj the verse means. Some said it is her own person, which she kept from indecency. Others said it is the jayb of her robe, the opening at its neck: she kept Jibril (AS) away from it before she knew he was her Lord's messenger, and before recognition of him had settled in her.",
+            "bn": "তাবারী বলেন, আহসানাত মানে তিনি নিজের ফারজকে সেই কাজ থেকে হেফাজত করেছেন ও আটকে রেখেছেন, যা আল্লাহ তাঁর জন্য হারাম করেছেন। এরপর তিনি একটি মতভেদ উল্লেখ করেন: আয়াতে কোন ফারজের কথা বলা হয়েছে? কেউ বলেছেন, তাঁর নিজের দেহ, যা তিনি অশ্লীলতা থেকে রক্ষা করেছেন। অন্যরা বলেছেন, এটি তাঁর জামার জাইব, অর্থাৎ গলার কাছের খোলা অংশ। জিবরীল (আঃ) যে তাঁর রবের প্রেরিত দূত, এ কথা জানার আগে, তাঁকে চিনে স্থির হওয়ার আগে, তিনি জিবরীলকে সেখান থেকে দূরে রেখেছিলেন।"
+          },
+          {
+            "en": "Those who held the second view argued from the words that follow. Fa-nafakhna fiha, so We breathed into her, comes straight after the guarding, they said, and so the sense was known to be: she who guarded the opening of her garment, so We breathed into her of Our spirit. On their reading the guarding and the breath concern one and the same place, and the clause praises her refusal to let a stranger near before she knew who he was.",
+            "bn": "দ্বিতীয় মতের লোকেরা দলিল আনেন পরের শব্দগুলো থেকে। ফানাফাখনা ফীহা, অতঃপর আমি তাঁর ভেতর ফুঁকে দিলাম, কথাটি হেফাজতের ঠিক পরেই এসেছে। তাই তাঁদের মতে অর্থ দাঁড়ায়: যিনি নিজের জামার খোলা অংশ রক্ষা করেছিলেন, অতঃপর আমি তাতে আমার রূহ ফুঁকে দিলাম। এ ব্যাখ্যায় হেফাজত আর ফুঁক একই জায়গার কথা। বাক্যাংশটি তখন তাঁর সেই অস্বীকৃতির প্রশংসা, যখন তিনি অচেনা আগন্তুককে চেনার আগে কাছে আসতে দেননি।"
+          },
+          {
+            "en": "At-Tabari then gives his own judgement. The more fitting view, he says, is that she guarded her chastity from indecency, because that is the more common of the word's two senses and the more apparent in the plain wording. Yet in the next clause he explains fa-nafakhna fiha as: We breathed into the opening of her robe. So he keeps both, chastity in the first clause and the garment in the second; the article on 66:12 sets out the garment reading at length.",
+            "bn": "এরপর তাবারী নিজের রায় দেন। তাঁর মতে দুই মতের মধ্যে বেশি সঙ্গত হলো এই যে, তিনি অশ্লীলতা থেকে নিজের সতীত্ব রক্ষা করেছিলেন। কারণ শব্দটির দুই অর্থের মধ্যে এটিই বেশি প্রচলিত, আর বাক্যের বাহ্যিক অর্থে এটিই বেশি স্পষ্ট। অথচ ঠিক পরের অংশে তিনি ফানাফাখনা ফীহা-র ব্যাখ্যা করেন এভাবে: আমি তাঁর জামার গলার খোলা অংশে ফুঁকে দিলাম। অর্থাৎ তিনি দুটোই রাখেন। প্রথম অংশে সতীত্ব, দ্বিতীয় অংশে জামা। জামার অর্থটির বিস্তারিত আলোচনা আছে ৬৬:১২ আয়াতের প্রবন্ধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Courtesy of Wording",
+          "bn": "শব্দের শালীনতা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi glosses ahsanat as: she was chaste, and so held back from indecency. Then, under the words it is said, he gives the garment reading in a gentler form. The farj meant is the opening of her shirt, that is, no suspicion ever clung to her clothing; she was pure of garment. He even lists the openings of a shirt, the two sleeves, the top and the bottom, as if to keep the reader's attention fixed on the cloth.",
+            "bn": "কুরতুবী আহসানাত-এর অর্থ করেন: তিনি সচ্চরিত্র ছিলেন, তাই অশ্লীলতা থেকে বিরত থেকেছেন। এরপর 'বলা হয়' কথাটি জুড়ে দিয়ে তিনি জামার ব্যাখ্যাটি আনেন আরও কোমল রূপে। এখানে ফারজ মানে তাঁর জামার খোলা অংশ। অর্থাৎ তাঁর পোশাকে কখনো কোনো সন্দেহের দাগ লাগেনি, তিনি ছিলেন পবিত্র পোশাকের নারী। কুরতুবী এমনকি জামার খোলা অংশগুলো গুনিয়ে দেন: দুই আস্তিন, উপরের অংশ আর নিচের অংশ। যেন পাঠকের মনোযোগ কাপড়েই আটকে থাকে।"
+          },
+          {
+            "en": "He then quotes as-Suhayli, who turns to the reader directly: do not let your thoughts go anywhere else, for this is a subtle allusion. The Qur'an, he says, is purer in meaning, more measured in wording, finer in its hints and better in its phrasing than to intend what an ignorant mind imagines, all the more since the breath came from Ruh al-Qudus by the command of al-Quddus, the Most Holy. So join the holy to the Holy, he says, and keep the sanctified, purified woman clear of false suspicion and guesswork.",
+            "bn": "এরপর তিনি সুহাইলীর কথা উদ্ধৃত করেন, যিনি সরাসরি পাঠককে বলেন: তোমার ভাবনা যেন অন্য কোথাও না যায়, এ এক সূক্ষ্ম ইঙ্গিত। তাঁর ভাষায়, অজ্ঞ মন যা কল্পনা করে, কুরআন তা বোঝাবে, এমন হতেই পারে না। কুরআনের অর্থ এর চেয়ে পবিত্র, শব্দ এর চেয়ে মাপা, ইঙ্গিত এর চেয়ে সূক্ষ্ম, প্রকাশ এর চেয়ে সুন্দর। বিশেষ করে যখন ফুঁক এসেছে রূহুল কুদস থেকে, মহাপবিত্র আল-কুদ্দূসের আদেশে। তাই পবিত্রকে মহাপবিত্রের সঙ্গে জুড়ে দেখো, আর সেই পূতপবিত্র নারীকে মিথ্যা ধারণা ও অনুমানের ঊর্ধ্বে রাখো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guarded Beyond the Forbidden",
+          "bn": "হারামের সীমা ছাড়িয়ে হেফাজত"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the praise more widely. She guarded herself, he says, from the forbidden and from going near it, and even from the lawful: she did not marry, because she was occupied with worship and her time was taken up in serving her Lord. The Muyassar keeps to the plain line: she guarded herself from what is forbidden and never committed an indecency in her life. Al-Baghawi says only that she guarded herself from the forbidden, and names the woman meant: Maryam daughter of 'Imran.",
+            "bn": "সা'দী প্রশংসাটা আরও বড় পরিসরে পড়েন। তাঁর ভাষায়, তিনি নিজেকে হারাম থেকে, হারামের কাছে যাওয়া থেকেও রক্ষা করেছিলেন। এমনকি হালাল থেকেও। তিনি বিয়ে করেননি, কারণ ইবাদতে মগ্ন ছিলেন, আর তাঁর সময় কাটত রবের খেদমতে। মুয়াসসার থাকে সরল কথায়: তিনি হারাম থেকে নিজেকে রক্ষা করেছিলেন, জীবনে কখনো কোনো অশ্লীল কাজে জড়াননি। বাগাভী শুধু বলেন, তিনি হারাম থেকে নিজেকে হেফাজত করেছিলেন, আর জানিয়ে দেন কার কথা বলা হচ্ছে: ইমরানের কন্যা মারইয়াম।"
+          },
+          {
+            "en": "As-Sa'di then ties her guarding to what followed. When Jibril (AS) came to her as a man complete in form and beauty, she said, I seek refuge in the Most Merciful from you, if you are God-fearing (19:18). So Allah, he says, repaid her in the kind of her own deed and gave her a child without a father. How the messenger answered her refuge belongs to 19:19; here the point is the fit between what she kept and what she was given.",
+            "bn": "এরপর সা'দী তাঁর হেফাজতকে জুড়ে দেন পরের ঘটনার সঙ্গে। জিবরীল (আঃ) যখন সুঠাম, সুন্দর পূর্ণাঙ্গ মানুষের রূপে তাঁর কাছে এলেন, তিনি বললেন, তুমি যদি আল্লাহকে ভয় কর, তবে আমি তোমার থেকে দয়াময়ের আশ্রয় চাই (১৯:১৮)। সা'দী বলেন, আল্লাহ তাঁকে তাঁর আমলের জাত অনুযায়ীই প্রতিদান দিলেন, পিতা ছাড়া এক সন্তান দান করলেন। দূত কীভাবে তাঁর আশ্রয়প্রার্থনার জবাব দিলেন, সে কথা ১৯:১৯ আয়াতের। এখানে দেখার বিষয়, তিনি যা রক্ষা করেছিলেন আর যা পেলেন, এ দুয়ের মিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Breathed at His Command",
+          "bn": "তাঁর আদেশে দেওয়া ফুঁক"
+        },
+        "p": [
+          {
+            "en": "Fa-nafakhna fiha min ruhina: so We breathed into her of Our spirit. The commentators read here agree on how it was done. Al-Qurtubi and al-Baghawi both explain: We commanded Jibril, he breathed into the opening of her robe, and by that breath We brought the Messiah into being in her womb. The Muyassar adds the steps between: the breath reached her womb, Allah created 'Isa (AS) by it, and she conceived him without a husband.",
+            "bn": "ফানাফাখনা ফীহা মির রূহিনা: অতঃপর আমি তাঁর ভেতর আমার রূহ থেকে ফুঁকে দিলাম। কাজটি কীভাবে সম্পন্ন হলো, এ নিয়ে এখানে পড়া তাফসীরগুলো একমত। কুরতুবী ও বাগাভী দুজনেই বলেন: আমি জিবরীলকে আদেশ দিলাম, তিনি তাঁর জামার গলার খোলা অংশে ফুঁ দিলেন, আর সেই ফুঁক দিয়ে আমি তাঁর গর্ভে মাসীহকে সৃষ্টি করলাম। মুয়াসসার মাঝের ধাপগুলোও বলে: ফুঁক পৌঁছাল তাঁর গর্ভে, তা দিয়ে আল্লাহ ঈসা (আঃ)-কে সৃষ্টি করলেন, আর স্বামী ছাড়াই তিনি গর্ভবতী হলেন।"
+          },
+          {
+            "en": "The verb keeps the act with Allah, We breathed, though an angel was the one sent. As-Sa'di says Jibril breathed into her and she conceived by Allah's leave; Ma'arif al-Qur'an says that through Jibra'il Allah breathed His Spirit into her. Al-Baghawi adds why the spirit is called Ours: Allah joined it to Himself to honour 'Isa (AS). Where 66:12 says fihi, into it, this verse says fiha, into her; the article on 66:12 treats that one letter, and the question of which spirit is meant.",
+            "bn": "দূত হিসেবে ফেরেশতাকে পাঠানো হলেও ক্রিয়াটি কাজটিকে আল্লাহর সঙ্গেই রাখে: আমি ফুঁকে দিলাম। সা'দী বলেন, জিবরীল তাঁর ভেতর ফুঁ দিলেন, আর আল্লাহর অনুমতিতে তিনি গর্ভবতী হলেন। মাআরিফুল কুরআন বলে, জিবরীলের মাধ্যমে আল্লাহ তাঁর ভেতর নিজের রূহ ফুঁকে দিয়েছিলেন। বাগাভী জানান, রূহকে 'আমার' বলা হলো কেন: ঈসা (আঃ)-কে সম্মানিত করতে আল্লাহ রূহকে নিজের দিকে সম্বন্ধযুক্ত করেছেন। ৬৬:১২ আয়াতে আছে ফীহি, তাতে; আর এ আয়াতে ফীহা, তাঁর ভেতর। এই একটি অক্ষরের পার্থক্য আর কোন রূহের কথা বলা হয়েছে, সে আলোচনা ৬৬:১২ আয়াতের প্রবন্ধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ayah, Not Ayatayn",
+          "bn": "আয়াতাইন নয়, আয়াহ"
+        },
+        "p": [
+          {
+            "en": "Wa ja'alnaha wa-bnaha ayatan lil-'alamin: and We made her and her son a sign for the worlds. Two are named, and the noun is singular. At-Tabari asks why the verse says ayah and not ayatayn, two signs, and answers that the sense is: We made the two of them one token and proof for Us. Each of them, in pointing to Allah and to the greatness of His power, stands in the place of the other, since in that pointing their affair is one.",
+            "bn": "ওয়া জাআলনাহা ওয়াবনাহা আয়াতাল লিল-আলামীন: আর আমি তাঁকে ও তাঁর পুত্রকে বিশ্বজগতের জন্য নিদর্শন বানালাম। নাম এসেছে দুজনের, অথচ বিশেষ্যটি একবচন। তাবারী প্রশ্ন তোলেন, আয়াতাইন, অর্থাৎ দুই নিদর্শন না বলে আয়াহ কেন বলা হলো? তাঁর উত্তর: অর্থ হলো, আমি তাঁদের দুজনকে আমার পক্ষে এক নিশানা ও প্রমাণ বানালাম। আল্লাহর দিকে আর তাঁর ক্ষমতার বিশালতার দিকে ইঙ্গিত করার বেলায় দুজনের যে কেউ অপরজনের জায়গায় দাঁড়াতে পারেন। কারণ এই ইঙ্গিতে তাঁদের ব্যাপারটা একই।"
+          },
+          {
+            "en": "Al-Qurtubi gathers the grammarians. Az-Zajjaj said the sign in the two is one, because she bore him without a male. For Sibawayh the sentence is fuller underneath: We made her a sign for the worlds and made her son a sign for the worlds, with one half left unsaid. For al-Farra' the order is: We made her a sign for the worlds, and her son, like 9:62, Allah and His Messenger are more worthy that they should please Him, one pronoun for two names.",
+            "bn": "কুরতুবী ব্যাকরণবিদদের মত একত্র করেন। যাজ্জাজ বলেন, দুজনের মধ্যে নিদর্শন একটিই, কারণ তিনি পুরুষ ছাড়াই তাঁকে জন্ম দিয়েছেন। সীবাওয়াইহির মতে বাক্যের ভেতরে আরও পূর্ণ একটি রূপ লুকিয়ে আছে: আমি তাঁকে বিশ্বজগতের জন্য নিদর্শন বানালাম, তাঁর পুত্রকেও বিশ্বজগতের জন্য নিদর্শন বানালাম। পরে এক অংশ বাদ দেওয়া হয়েছে। ফাররার মতে বিন্যাসটা এমন: আমি তাঁকে বিশ্বজগতের জন্য নিদর্শন বানালাম, আর তাঁর পুত্রকেও। যেমন ৯:৬২ আয়াতে আল্লাহ ও তাঁর রাসূল দুজনের নাম এসেছে, অথচ সর্বনাম একটি।"
+          },
+          {
+            "en": "Al-Baghawi gives both reasons in a line: their affair is one sign, and the sign in them was one, that she brought him forth without a male. The article on 23:50 meets the same singular through other authorities. Here the verse also names her first, her and her son. The mother is no frame around her son's wonder; she stands inside the one sign.",
+            "bn": "বাগাভী দুটি কারণ এক বাক্যে বলেন: দুজনের ব্যাপারটা মিলে এক নিদর্শন, আর তাঁদের মধ্যে নিদর্শন ছিল একটিই, তিনি পুরুষ ছাড়া তাঁকে জন্ম দিয়েছেন। ২৩:৫০ আয়াতের প্রবন্ধেও একই একবচনের আলোচনা আছে, ভিন্ন সূত্র ধরে। এখানে আয়াত আগে তাঁর নাম নেয়, তারপর পুত্রের: তাঁকে ও তাঁর পুত্রকে। মা এখানে পুত্রের বিস্ময়ের চারপাশের ফ্রেম নন, তিনি সেই এক নিদর্শনের ভেতরেই দাঁড়িয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sign Read Across Ages",
+          "bn": "যুগে যুগে পড়া এক নিদর্শন"
+        },
+        "p": [
+          {
+            "en": "What does the sign show? Ibn Kathir: that Allah is able to do all things and creates whatever He wills, His command being only to say to a thing Be, and it is (36:82); he compares 19:21, and to make him a sign for people. Al-Qurtubi calls it a mark and a wonder for creation, a token of the prophethood of 'Isa (AS), and proof that Allah's power reaches whatever He wills. Ma'arif al-Qur'an adds that the same power created Adam (AS) without either parent.",
+            "bn": "নিদর্শনটা কী দেখায়? ইবন কাসীরের উত্তর: আল্লাহ সবকিছুর উপর ক্ষমতাবান, যা চান তা-ই সৃষ্টি করেন। কোনো কিছু চাইলে তিনি শুধু বলেন হও, আর তা হয়ে যায় (৩৬:৮২)। তিনি তুলনা টানেন ১৯:২১ আয়াতের সঙ্গে: আর যাতে আমি তাঁকে মানুষের জন্য নিদর্শন বানাই। কুরতুবীর ভাষায় এ সৃষ্টির জন্য আলামত ও বিস্ময়, ঈসা (আঃ)-এর নবুওয়াতের নিশানা, আর এ কথার প্রমাণ যে আল্লাহ যা চান সেখানেই তাঁর ক্ষমতা পৌঁছায়। মাআরিফুল কুরআন যোগ করে, এই একই ক্ষমতা আদম (আঃ)-কে সৃষ্টি করেছে মা-বাবা দুজন ছাড়াই।"
+          },
+          {
+            "en": "As-Sa'di fills the sign with its details: she carried him and gave birth to him with no one's touch; he spoke in the cradle, cleared her of what her accusers suspected and told who he was; and Allah worked wonders at his hands. Al-Qurtubi also lists, each under the words it is said, signs belonging to her: that she was the first woman accepted under a vow for the place of worship, that Allah fed her with provision from Himself through no servant's hand, and that she never took a breast.",
+            "bn": "সা'দী নিদর্শনটির খুঁটিনাটি তুলে ধরেন। কারও স্পর্শ ছাড়াই তিনি তাঁকে গর্ভে ধারণ করেছেন ও জন্ম দিয়েছেন। শিশু দোলনায় কথা বলেছেন, অপবাদদাতারা মায়ের সম্পর্কে যে সন্দেহ করেছিল তা থেকে তাঁকে মুক্ত করেছেন, আর নিজের পরিচয় দিয়েছেন। তাঁর হাতে আল্লাহ বহু অলৌকিক ঘটনা ঘটিয়েছেন। কুরতুবী আবার 'বলা হয়' বলে মারইয়ামের নিজের কিছু নিদর্শনও গুনিয়ে দেন: মানতের মাধ্যমে ইবাদতখানার জন্য কবুল হওয়া তিনিই প্রথম নারী, আল্লাহ তাঁকে কোনো বান্দার হাত দিয়ে নয়, নিজের কাছ থেকে রিজিক দিতেন, আর তিনি কখনো স্তন্যপান করেননি।"
+          },
+          {
+            "en": "For which worlds? Here the commentators differ, and both views stand. At-Tabari takes it as the worlds of their own time, who would take a lesson from the two of them, reflect on their affair and so know the greatness of Allah's authority. Ibn Kathir relays, through Ibn Abi Hatim, Ibn 'Abbas (RA) saying the worlds are jinn and humankind. The Muyassar extends the lesson to all creation until the Hour rises, and as-Sa'di says it is told generation after generation, and those who reflect take its lesson.",
+            "bn": "কোন বিশ্বজগতের জন্য? এখানে তাফসীরকারদের মত ভিন্ন, আর দুটি মতই নিজের জায়গায় আছে। তাবারীর মতে এর অর্থ তাঁদের নিজেদের যুগের মানুষ, যারা মা ও পুত্র থেকে শিক্ষা নেবে, তাঁদের ব্যাপার নিয়ে ভাববে, আর এভাবে আল্লাহর রাজত্বের বিশালতা জানবে। ইবন কাসীর ইবন আবী হাতিমের সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: আলামীন মানে জিন ও মানুষ। মুয়াসসারের মতে এ শিক্ষা কিয়ামত পর্যন্ত সব সৃষ্টির জন্য। আর সা'দী বলেন, প্রজন্মের পর প্রজন্ম এ কাহিনি বলে চলে, আর যারা ভাবে, তারা এ থেকে শিক্ষা নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honour Without a Quarrel",
+          "bn": "বিবাদহীন সম্মান"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse praises a woman and names a sign; it argues with no one. The accusers as-Sa'di mentions belonged to her own time, and the verse describes only what the text describes. It licenses nothing against any Christian or Jewish person or community today: no contempt, no mockery, no harm. Where Muslims and Christians understand Maryam and her son differently, the difference can be stated calmly.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একজন নারীর প্রশংসা করে আর একটি নিদর্শনের কথা বলে, কারও সঙ্গে তর্ক করে না। সা'দী যে অপবাদদাতাদের কথা বলেছেন, তারা ছিল মারইয়ামের নিজের যুগের মানুষ। আয়াত শুধু ততটুকুই বলে, যতটুকু তার ভাষায় আছে। আজকের কোনো খ্রিস্টান বা ইহুদি ব্যক্তি কিংবা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না: না তাচ্ছিল্যের, না উপহাসের, না ক্ষতির। মারইয়াম ও তাঁর পুত্রকে মুসলমান ও খ্রিস্টানরা যেখানে ভিন্নভাবে বোঝেন, সেই পার্থক্যও বলা যায় শান্ত স্বরে।"
+          },
+          {
+            "en": "None of the commentaries read for this verse attaches a hadith of the Prophet ﷺ to it or cites an occasion of revelation; the one early report is the gloss of Ibn 'Abbas (RA) on the worlds. The next verse, 21:92, gathers the whole roll into one sentence: this community of yours is one community, and I am your Lord, so worship Me. The reader passes from Maryam and her son straight into it.",
+            "bn": "এ আয়াতের জন্য পড়া কোনো তাফসীরই এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি, কোনো শানে নুযূলও উল্লেখ করেনি। একমাত্র প্রাচীন বর্ণনা হলো আলামীন শব্দ নিয়ে ইবন আব্বাস (রাঃ)-এর ব্যাখ্যা। পরের আয়াত ২১:৯২ পুরো তালিকাকে এক বাক্যে বেঁধে দেয়: তোমাদের এই উম্মত এক উম্মত, আর আমি তোমাদের রব, অতএব আমারই ইবাদত কর। মারইয়াম ও তাঁর পুত্রের কথা শেষ হতেই পাঠক সরাসরি পৌঁছে যায় সেই বাক্যে।"
+          },
+          {
+            "en": "So the verse leaves a reader three things. She is known by what she guarded, and that much is open to anyone: honour kept when no one is watching. The Qur'an speaks of the most private matter with a reserve the commentators copied, and our own speech should copy it too. And the sign itself is about Allah: what He wills, He creates, with the ordinary means or without them. The guarding was hers; the wonder was His alone.",
+            "bn": "তাহলে আয়াতটি পাঠকের হাতে তিনটি জিনিস রেখে যায়। তাঁকে চেনা যায় তিনি যা রক্ষা করেছিলেন তা দিয়ে, আর এটুকু যে কারও নাগালে: কেউ না দেখলেও নিজের সম্মান রক্ষা করা। সবচেয়ে গোপন বিষয়ে কুরআন যে সংযমে কথা বলে, তাফসীরকারেরা তা অনুসরণ করেছেন। আমাদের কথাতেও সেই সংযম থাকা চাই। আর নিদর্শনটি আসলে আল্লাহর কথা বলে: তিনি যা চান তা সৃষ্টি করেন, সাধারণ উপকরণ দিয়ে বা তা ছাড়াই। হেফাজত ছিল তাঁর, মারইয়ামের। বিস্ময় ছিল একমাত্র আল্লাহর।"
+          }
+        ]
+      }
+    ]
+  },
   "21:96": {
     "sections": [
       {

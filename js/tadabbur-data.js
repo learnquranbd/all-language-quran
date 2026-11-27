@@ -34659,6 +34659,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A long trial is no sign that Allah has forgotten you. Call on Him simply, trust His mercy, and let His answer, whenever it comes, deepen your worship.",
     "lessonBn": "দীর্ঘ পরীক্ষা এই প্রমাণ নয় যে আল্লাহ আপনাকে ভুলে গেছেন। সহজ কথায় তাঁকে ডাকুন, তাঁর রহমতে ভরসা রাখুন, আর তাঁর জবাব যখনই আসুক, তা যেন আপনার ইবাদতকে আরও গভীর করে।"
+  },
+  "21:91": {
+    "reflectionEn": "The verse does not even give her name. It calls her the one who guarded her chastity, as if that one deed were enough to know her by, and in the Qur'an it is. Then the scene moves quickly: so We breathed into her of Our spirit, and made her and her son a sign for the worlds. She kept what was hers to keep; what followed was Allah's alone to do. The wording is restrained, and it asks to be read with the same restraint. One sign is named for two people, because a son born without a father cannot be told apart from the mother who carried him. What am I guarding, unseen by anyone, that Allah already knows me by?",
+    "reflectionBn": "আয়াতটি তাঁর নামটুকুও বলে না। বলে, সেই নারী যিনি নিজের সতীত্ব রক্ষা করেছিলেন। যেন ওই একটি কাজই তাঁকে চেনার জন্য যথেষ্ট, আর কুরআনে সত্যিই তা যথেষ্ট। তারপর দৃশ্য দ্রুত এগোয়: আমি তাঁর ভেতর আমার রূহ ফুঁকে দিলাম, আর তাঁকে ও তাঁর পুত্রকে বিশ্বজগতের জন্য নিদর্শন বানালাম। নিজের যা রক্ষা করার ছিল, তিনি তা রক্ষা করেছেন। এরপর যা ঘটল, তা একমাত্র আল্লাহর কাজ। আয়াতের ভাষা সংযত, আর পাঠকের কাছেও সে একই সংযম চায়। দুজন মানুষের জন্য নিদর্শন একটাই, কারণ বাবা ছাড়া জন্ম নেওয়া সন্তানকে তাঁর গর্ভধারিণী মা থেকে আলাদা করে দেখা যায় না। কেউ দেখে না এমন কোন জিনিস আমি রক্ষা করে চলেছি, যা দিয়ে আল্লাহ আমাকে আগে থেকেই চেনেন?",
+    "pointsEn": [
+      "If I were described by a single deed, the way this verse describes her, which deed would I want it to be?",
+      "What am I guarding in private, my gaze, my word, my honour, that no one would notice if I let it slip?",
+      "When I speak about Maryam (AS), or about anyone's honour, do my words keep the reserve the Qur'an keeps?",
+      "Is Allah's power to create whatever He wills a fact I only recite, or one I lean on when every ordinary door looks shut?",
+      "When others honour the same sign in a different way, do I speak of it calmly, or with contempt?"
+    ],
+    "pointsBn": [
+      "এ আয়াত যেমন তাঁকে একটি কাজ দিয়ে চিনিয়েছে, আমাকে যদি একটি কাজ দিয়ে চেনানো হতো, আমি চাইতাম সেটা কোন কাজ হোক?",
+      "নিভৃতে আমি কী রক্ষা করে চলি, আমার দৃষ্টি, আমার কথা, আমার সম্মান, যা হাতছাড়া হলেও কেউ টের পেত না?",
+      "মারইয়াম (আঃ)-এর কথা বলতে গিয়ে, কিংবা কারও সম্মান নিয়ে কথা বলতে গিয়ে, আমার ভাষায় কি কুরআনের মতো সংযম থাকে?",
+      "আল্লাহ যা চান তা-ই সৃষ্টি করেন, এ কথা কি আমি শুধু মুখে বলি, নাকি সব সাধারণ পথ বন্ধ দেখলে এর উপরই ভর দিই?",
+      "একই নিদর্শনকে অন্যরা যখন অন্যভাবে সম্মান করে, তখন আমি কি শান্তভাবে কথা বলি, নাকি তাচ্ছিল্য করে?"
+    ],
+    "lessonEn": "Guard what Allah has entrusted to you even when no one sees, speak of anyone's honour with the Qur'an's own restraint, and trust that He creates whatever He wills.",
+    "lessonBn": "কেউ না দেখলেও আল্লাহর দেওয়া আমানত রক্ষা করুন, কারও সম্মান নিয়ে কথা বলুন কুরআনের মতো সংযমে, আর ভরসা রাখুন যে তিনি যা চান তা-ই সৃষ্টি করেন।"
   }
 };
 
