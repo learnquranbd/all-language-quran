@@ -37973,6 +37973,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Allah wrongs no one. Own your wrongs now, while repentance is still open, instead of laying them on other people, on fate, or on Him.",
     "lessonBn": "আল্লাহ কারও উপর যুলম করেন না। তওবার দরজা খোলা থাকতেই নিজের ভুলের দায় নিজে নিন, অন্য মানুষ, ভাগ্য বা তাঁর উপর তা চাপাবেন না।"
+  },
+  "44:1": {
+    "reflectionEn": "Ha Mim: two letters, and then Allah swears by the clear Book. Before any story, threat or promise, the surah asks for a listener. Its next verses say the Book came down on a blessed night and was sent as a warning. Then come the smoke, a drowned army and the food of the sinful. A surah this urgent opens with something to hear before anything to grasp. Perhaps that is its first lesson: come to the Qur'an awake. So often it plays as the sound of a room, at a funeral, in a car, behind other thoughts. Ad-Dukhan answers that habit with an oath. Do I listen to the Book as one listens to a sworn word, or as one hears noise in the background?",
+    "reflectionBn": "হা-মীম। দুটি হরফ, তারপরই আল্লাহ শপথ করছেন সুস্পষ্ট কিতাবের। কোনো কাহিনি, হুমকি বা প্রতিশ্রুতি আসার আগে সূরাটি একজন শ্রোতা চায়। পরের আয়াতগুলো বলে, কিতাব নেমেছে এক বরকতময় রাতে, আর পাঠানো হয়েছে সতর্কবাণী হিসেবে। এরপর আসে ধোঁয়া, ডুবে যাওয়া এক বাহিনী, আর পাপীদের খাদ্যের কথা। এত জরুরি কথার সূরা শুরু হয় এমন কিছু দিয়ে, যা বোঝার আগে শুনতে হয়। হয়তো এটাই তার প্রথম শিক্ষা: কুরআনের কাছে আসুন জেগে থেকে। অথচ প্রায়ই কুরআন বাজতে থাকে শুধু ঘরের আবহ হয়ে: জানাজায়, গাড়িতে, অন্য চিন্তার পেছনে। সূরা দুখান এ অভ্যাসের জবাব দেয় একটা শপথ দিয়ে। আমি কি কিতাবটা শুনি শপথ করে বলা কথার মতো মন দিয়ে, নাকি পেছনের কোলাহলের মতো?",
+    "pointsEn": [
+      "When the Qur'an is recited around me, at home, in a car or at a funeral, how much of it do I actually hear?",
+      "If someone swore to me by what he holds dearest, I would listen closely; do I give the clear Book that attention when Allah swears by it?",
+      "Which warning in the Qur'an have I heard many times without once stopping to apply it to myself?",
+      "When I meet words in the Qur'an I cannot explain, do they make me more attentive, or become my excuse to drift?",
+      "Before I next open the Qur'an, what will I set aside so that I come to it awake?"
+    ],
+    "pointsBn": [
+      "ঘরে, গাড়িতে বা জানাজায় আমার চারপাশে যখন কুরআন তিলাওয়াত হয়, তার কতটুকু আমি সত্যিই শুনি?",
+      "কেউ নিজের সবচেয়ে প্রিয় জিনিসের কসম খেয়ে কিছু বললে আমি কান খাড়া করে শুনি। আল্লাহ যখন সুস্পষ্ট কিতাবের শপথ করেন, তখন কি সেই মনোযোগটুকু দিই?",
+      "কুরআনের কোন সতর্কবাণী আমি বহুবার শুনেছি, অথচ একবারও থেমে নিজের দিকে তাকাইনি?",
+      "কুরআনের যে শব্দের ব্যাখ্যা আমার জানা নেই, তা কি আমাকে আরও মনোযোগী করে, নাকি অন্যমনস্ক হওয়ার অজুহাত হয়ে দাঁড়ায়?",
+      "এরপর কুরআন খোলার আগে কোন জিনিসটা সরিয়ে রাখব, যাতে জেগে থেকে তার কাছে যেতে পারি?"
+    ],
+    "lessonEn": "Come to the Qur'an awake: listen to it as a word Allah swears by and a warning sent in mercy, not as background sound while your mind is elsewhere.",
+    "lessonBn": "কুরআনের কাছে আসুন জেগে থেকে। একে শুনুন আল্লাহর শপথ করা বাণী আর রহমত হিসেবে পাঠানো সতর্কবাণী হিসেবে, মন অন্যখানে রেখে পেছনের আওয়াজের মতো নয়।"
   }
 };
 

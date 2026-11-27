@@ -11,6 +11,154 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "44:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "Makkan, Save One Verse",
+          "bn": "মাক্কী, একটি আয়াত বাদে"
+        },
+        "p": [
+          {
+            "en": "Ha Mim is the whole of 44:1, and it opens ad-Dukhan, the Smoke. Al-Qurtubi says the surah is Makkan by agreement, with one exception: 44:15, inna kashifu-l-'adhabi qalilan, We will remove the punishment for a little. He counts fifty-seven verses and records that some count fifty-nine. Al-Baghawi's entry gives the surah's Makkan origin and the two letters, and nothing more. The abridged English Ibn Kathir notes only that it was revealed in Makkah, then turns at once to the Book.",
+            "bn": "হা-মীম, এটুকুই ৪৪:১ আয়াতের পুরোটা। এ দিয়েই শুরু সূরা দুখান, অর্থাৎ ধোঁয়া। কুরতুবী বলেন, সূরাটি মাক্কী, এতে সবাই একমত। ব্যতিক্রম কেবল একটি আয়াত, ৪৪:১৫: ইন্না কাশিফুল আযাবি কালীলা, আমি কিছু সময়ের জন্য আযাব সরিয়ে দেব। তাঁর গণনায় আয়াত সাতান্নটি, তবে কেউ কেউ উনষাট গোনেন বলেও তিনি জানান। বাগাভী শুধু লেখেন যে সূরাটি মাক্কী, তারপর হরফ দুটি বসিয়ে দেন, আর কিছু বলেন না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণও কেবল জানায় যে এটি মক্কায় নাযিল হয়েছে, তারপরই চলে যায় কিতাবের আলোচনায়।"
+          },
+          {
+            "en": "Ad-Dukhan is the fifth of the seven surahs, 40 to 46, that open with Ha Mim; what the commentators say about the letters themselves is gathered at 42:1 and 43:1. The name comes from the smoke of 44:10. Then the surah moves quickly: the Book and its night (44:2 to 44:8), the smoke, Pharaoh's people (44:17 to 44:33), those who deny the rising (44:34 to 44:37), the Day of Sorting (44:40), the tree of zaqqum (44:43), the secure place of the righteous (44:51), and a close in 44:58 and 44:59.",
+            "bn": "হা-মীম দিয়ে শুরু হওয়া সাতটি সূরা, ৪০ থেকে ৪৬, তার মধ্যে দুখান পঞ্চম। হরফ দুটির অর্থ নিয়ে তাফসীরকারদের কথা জড়ো করা আছে ৪২:১ ও ৪৩:১ আয়াতের আলোচনায়। সূরার নাম এসেছে ৪৪:১০ আয়াতের ধোঁয়া থেকে। এরপর সূরাটি দ্রুত এগোয়। প্রথমে কিতাব আর তার রাত (৪৪:২ থেকে ৪৪:৮), তারপর ধোঁয়া, ফেরাউনের জাতি (৪৪:১৭ থেকে ৪৪:৩৩), পুনরুত্থান অস্বীকারকারীরা (৪৪:৩৪ থেকে ৪৪:৩৭), ফয়সালার দিন (৪৪:৪০), যাক্কুম গাছ (৪৪:৪৩), মুত্তাকীদের নিরাপদ আবাস (৪৪:৫১), আর শেষে ৪৪:৫৮ ও ৪৪:৫৯ আয়াতে সমাপ্তি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Brief at the Fifth Opening",
+          "bn": "পঞ্চম সূচনায় অল্প কথা"
+        },
+        "p": [
+          {
+            "en": "By this fifth opening, the commentaries consulted here say little about the letters. The Muyassar writes a single line: the discussion of the separated letters came earlier, at the start of al-Baqarah. At-Tabari heads his entry with Ha Mim, and at 44:2 says only that he has already explained Ha Mim, wal-kitabi-l-mubin. Ibn Kathir in Arabic passes straight from the basmala to the Book: Allah speaks, telling of the mighty Qur'an. Ma'arif al-Qur'an's entry under this slot is its closing note on az-Zukhruf.",
+            "bn": "এই পঞ্চম সূচনায় এসে, এখানে দেখা তাফসীরগুলো হরফ নিয়ে প্রায় কিছুই বলে না। মুয়াসসার এক লাইনে সারে: বিচ্ছিন্ন হরফগুলোর আলোচনা আগেই হয়ে গেছে, সূরা বাকারার শুরুতে। তাবারী শিরোনামে হা-মীম লেখেন, আর ৪৪:২ আয়াতে শুধু বলেন, হা-মীম, ওয়াল কিতাবিল মুবীন, এর ব্যাখ্যা তিনি আগেই দিয়েছেন। আরবি ইবন কাসীর বিসমিল্লাহর পর সোজা চলে যান কিতাবের কথায়: আল্লাহ মহান কুরআন সম্পর্কে জানাচ্ছেন। মাআরিফুল কুরআনের এ জায়গার লেখাটি আসলে সূরা যুখরুফের শেষ টীকা।"
+          },
+          {
+            "en": "As-Sa'di gives the fullest sentence on the letters at this verse, and it has two halves. The safest course with them, he says, is to keep silent about their meaning where there is no basis for it in the Sharia. Yet that silence comes with certainty: Allah did not send them down in vain, but for a wisdom we do not know. Restraint and conviction sit in a single sentence. He does not say the letters are empty, and he does not claim to know what fills them.",
+            "bn": "এ আয়াতে হরফ নিয়ে সবচেয়ে পূর্ণ বাক্যটি সা'দীর, আর তার দুটি অংশ। তিনি বলেন, এ হরফগুলোর বেলায় সবচেয়ে নিরাপদ পথ হলো শরীয়তের কোনো ভিত্তি ছাড়া এদের অর্থ নিয়ে কথা না বলা। তবে এ নীরবতার সঙ্গে আছে দৃঢ় বিশ্বাস। আল্লাহ এগুলো অনর্থক নাযিল করেননি, করেছেন এমন এক হিকমতে, যা আমাদের জানা নেই। এক বাক্যেই সংযম আর প্রত্যয় পাশাপাশি। তিনি বলেন না যে হরফগুলো অর্থহীন। আবার এ দাবিও করেন না যে তাদের অর্থ তিনি জানেন।"
+          },
+          {
+            "en": "Read together, the brevity is itself a kind of answer. Each commentator could have repeated a long discussion from an earlier surah, and most chose to point back instead. Their attention goes where the surah's own attention goes: to the Book named in the next breath. A reader can learn from that order. The letters are recited with care and left where as-Sa'di leaves them, and the effort of understanding is spent on what Allah went on to make plain.",
+            "bn": "সব মিলিয়ে পড়লে এই সংক্ষেপটাই এক ধরনের জবাব। আগের কোনো সূরা থেকে দীর্ঘ আলোচনা প্রত্যেকেই আবার টেনে আনতে পারতেন। বেশিরভাগই তা না করে পেছনের দিকে ইশারা করেছেন। তাঁদের মনোযোগ যায় সেখানে, যেখানে সূরার নিজের মনোযোগ যায়: পরের নিঃশ্বাসেই যে কিতাবের নাম আসে, সেদিকে। এই ক্রম থেকে পাঠকের শেখার আছে। হরফ দুটি যত্ন করে তিলাওয়াত করা হবে, সা'দী যেখানে রেখেছেন সেখানেই রাখা হবে। আর বোঝার শ্রমটুকু খরচ হবে সেসব কথায়, যা আল্লাহ এরপর স্পষ্ট করে দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Decreed, or Drawn Near",
+          "bn": "ফয়সালা হয়ে গেছে, নাকি ঘনিয়ে এসেছে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi is the exception, and among the views he lists here is one that the articles on 42:1 and 43:1 do not treat. Ad-Dahhak and al-Kisa'i said Ha Mim means qudiya ma huwa ka'in: what is to be has been decreed. Al-Qurtubi explains how they reached it. They seem to have heard the letters spelled out, which gives humma, with the Ha voiced with a u and the Mim doubled, meaning it was decreed and came to pass. He supports the sense with a line by Ka'b ibn Malik: there is no repelling a matter Allah has decreed.",
+            "bn": "ব্যতিক্রম কুরতুবী। এখানে তিনি যেসব মত গুনেছেন, তার একটি ৪২:১ ও ৪৩:১ আয়াতের আলোচনায় আসেনি। দাহহাক ও কিসাঈ বলেছেন, হা-মীম মানে কুদিয়া মা হুয়া কাইন: যা হওয়ার, তার ফয়সালা হয়ে গেছে। কুরতুবী ব্যাখ্যা করেন তাঁরা কীভাবে এ অর্থে পৌঁছলেন। মনে হয়, হরফ দুটির উচ্চারণ থেকে তাঁরা হুম্মা শব্দটি ধরেছেন। হা-তে পেশ আর মীমে তাশদীদ দিলে শব্দটা দাঁড়ায় হুম্মা, অর্থাৎ ফয়সালা হলো এবং ঘটে গেল। অর্থটির পক্ষে তিনি কা'ব ইবন মালিক (রাঃ)-এর একটি পঙ্‌ক্তি আনেন: আল্লাহ যে বিষয়ের ফয়সালা করেছেন, তা ঠেকানোর কেউ নেই।"
+          },
+          {
+            "en": "He then records a second sense from the same root: hamma amru-llah, the command of Allah has drawn near. A poet says, my day has drawn near, and a people rejoiced, people in whom is heedlessness and sleep. From this, al-Qurtubi notes, fever is called humma, because it brings a person near to death. On this reading the intended meaning is the nearness of His help to His friends and of His vengeance on His enemies, as on the day of Badr.",
+            "bn": "এরপর তিনি একই মূল থেকে আরেকটি অর্থ উল্লেখ করেন: হাম্মা আমরুল্লাহ, আল্লাহর আদেশ কাছে এসে গেছে। এক কবি বলেন, আমার দিন ঘনিয়ে এসেছে, আর তাতে খুশি হয়েছে এমন এক দল, যাদের মধ্যে আছে উদাসীনতা আর ঘুম। কুরতুবী জানান, এ থেকেই জ্বরকে বলা হয় হুম্মা, কারণ জ্বর মানুষকে মৃত্যুর কাছে নিয়ে যায়। এ ব্যাখ্যায় উদ্দেশ্য হলো, তাঁর বন্ধুদের জন্য সাহায্য আর তাঁর শত্রুদের উপর প্রতিশোধ কাছে এসে গেছে, যেমন ঘটেছিল বদরের দিনে।"
+          },
+          {
+            "en": "Al-Qurtubi sets these beside the other views and does not choose among them in the text consulted; as-Sa'di's caution stands beside them, and both are kept here. A reader may still notice where the surah goes. Two verses later, 44:4 says that on the blessed night every wise matter is made distinct, and 44:4 has its own article. Al-Qurtubi does not draw that link at this verse, so it remains an observation about placement, not a meaning of the letters.",
+            "bn": "কুরতুবী এ মতগুলো অন্য মতের পাশে রাখেন। এখানে দেখা লেখায় তিনি কোনোটিকে বেছে নেন না। তাঁর তালিকার পাশেই দাঁড়িয়ে আছে সা'দীর সতর্কতা, আর এ আলোচনা দুটিকেই রাখে। তবু সূরাটি কোন দিকে যায়, পাঠকের চোখে তা পড়তে পারে। দুই আয়াত পরে ৪৪:৪ বলে, সেই বরকতময় রাতে প্রতিটি প্রজ্ঞাপূর্ণ বিষয় স্থির করা হয়, আর সে আয়াতের আলাদা আলোচনা আছে। কুরতুবী এখানে এ দুটিকে জোড়েননি। তাই এটা কেবল আয়াতের অবস্থান নিয়ে একটা লক্ষ করা বিষয়, হরফের অর্থ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Letters Taken as the Answer",
+          "bn": "হরফই যখন শপথের জবাব"
+        },
+        "p": [
+          {
+            "en": "The letters do not stand alone for long. Wal-kitabi-l-mubin, by the clear Book, follows in 44:2, and an oath needs an answer, the statement it is sworn upon. Al-Qurtubi, on 44:2, opens with the possibility that ties this verse in most closely. If Ha Mim is taken as the answer to the oath, then the speech is complete at al-mubin, and the reciter begins afresh at inna anzalnahu. On that reading the two letters are what the clear Book is sworn to.",
+            "bn": "হরফ দুটি বেশিক্ষণ একা থাকে না। ৪৪:২ আয়াতে আসে ওয়াল কিতাবিল মুবীন, সুস্পষ্ট কিতাবের শপথ। আর শপথের একটা জবাব লাগে, অর্থাৎ যে কথার উপর শপথটা করা হচ্ছে। ৪৪:২ আয়াতের আলোচনায় কুরতুবী শুরু করেন সেই সম্ভাবনা দিয়ে, যা এ আয়াতকে সবচেয়ে ঘনিষ্ঠভাবে জুড়ে দেয়। হা-মীমকেই যদি শপথের জবাব ধরা হয়, তবে কথা শেষ হয় আল-মুবীন শব্দে। তিলাওয়াতকারী নতুন করে শুরু করবেন ইন্না আনযালনাহু থেকে। এ পাঠে সুস্পষ্ট কিতাবের শপথ করা হচ্ছে ওই দুটি হরফের উপরেই।"
+          },
+          {
+            "en": "Whatever the answer, the commentaries agree on what is sworn by. As-Sa'di calls it an oath by the Qur'an upon the Qur'an. Ibn Kathir begins his comment on 44:2 with Allah telling of the mighty Qur'an. Ma'arif al-Qur'an says the verse refers to the Qur'an, and notes that the same oath, in exactly the same words, opens az-Zukhruf, where it is fully discussed. That discussion, with the glosses on mubin, clear, belongs to 43:3 and is not repeated here.",
+            "bn": "জবাব যা-ই হোক, কিসের শপথ করা হচ্ছে, তা নিয়ে তাফসীরগুলো একমত। সা'দী বলেন, এ শপথ কুরআনের নামে, কুরআনেরই উপর। ইবন কাসীর ৪৪:২ আয়াতের ব্যাখ্যা শুরু করেন এ কথায়: আল্লাহ মহান কুরআন সম্পর্কে জানাচ্ছেন। মাআরিফুল কুরআন বলে, আয়াতে কুরআনের কথাই বলা হয়েছে। সে আরও জানায়, হুবহু একই শব্দে একই শপথ দিয়ে শুরু হয়েছে সূরা যুখরুফ, আর সেখানে এর পূর্ণ আলোচনা হয়েছে। সেই আলোচনা, মুবীন অর্থাৎ সুস্পষ্ট শব্দের নানা ব্যাখ্যাসহ, ৪৩:৩ আয়াতের জায়গা। এখানে তার পুনরাবৃত্তি নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Clause Answers the Oath",
+          "bn": "শপথের জবাব কোন বাক্যে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi gives a second possibility. If inna kunna mundhirin, indeed We have been warning, is taken as the answer to the oath sworn by the Book, then the reciter pauses at mundhirin and begins again at fiha yufraqu kullu amrin hakim. On this reading the thing Allah swears to is the warning itself. The night of descent becomes the setting, and the sworn statement is that He has been sending warning all along.",
+            "bn": "কুরতুবী দ্বিতীয় একটি সম্ভাবনা দেন। ইন্না কুন্না মুনযিরীন, নিশ্চয়ই আমি সতর্ককারী, এ বাক্যকে যদি কিতাবের শপথের জবাব ধরা হয়, তবে তিলাওয়াতকারী থামবেন মুনযিরীন শব্দে। আবার শুরু করবেন ফীহা ইউফরাকু কুল্লু আমরিন হাকীম থেকে। এ পাঠে আল্লাহ যে কথার উপর শপথ করছেন, তা স্বয়ং সতর্কবাণী। নাযিলের রাতটা হয়ে যায় পটভূমি। আর শপথ করে বলা কথাটা দাঁড়ায় এই: তিনি বরাবরই সতর্ক করে আসছেন।"
+          },
+          {
+            "en": "The third view he introduces with it was said: the answer is inna anzalnahu, We sent it down. Some grammarians rejected this, he reports, because that clause is a description of the thing sworn by, and a description of what is sworn by cannot be the oath's answer. At-Tabari, on 44:3, reads the verse in just that way: Allah swears by this Book that He sent it down on a blessed night, as the 44:3 article records. The disagreement is kept as it stands.",
+            "bn": "তৃতীয় মতটি তিনি আনেন 'বলা হয়েছে' কথাটি দিয়ে: জবাব হলো ইন্না আনযালনাহু, আমি একে নাযিল করেছি। তিনি জানান, কিছু ব্যাকরণবিদ এ মত মানেননি। তাঁদের যুক্তি, এ বাক্য তো যার শপথ করা হচ্ছে তারই বিবরণ, আর শপথের বস্তুর বিবরণ শপথের জবাব হতে পারে না। অথচ ৪৪:৩ আয়াতে তাবারী আয়াতটি ঠিক এভাবেই পড়েন: আল্লাহ এই কিতাবের শপথ করে বলছেন যে, তিনি একে এক বরকতময় রাতে নাযিল করেছেন। ৪৪:৩ আয়াতের আলোচনায় তা আছে। মতভেদটি এখানে যেমন আছে তেমনই রাখা হলো।"
+          },
+          {
+            "en": "Al-Qurtubi adds that the pronoun in anzalnahu refers to the Qur'an, and mentions those who held that the oath is by all the revealed books, sending the reader back to the opening of az-Zukhruf. Laid side by side, the three answers fall on the letters, on the warning, or on the sending down. None of them leaves the Book. Even where the commentators part ways over grammar, the oath by the Book lands on something about the Book.",
+            "bn": "কুরতুবী আরও বলেন, আনযালনাহু শব্দের সর্বনামটি কুরআনকে বোঝায়। যাঁরা বলেছেন শপথটি সব আসমানি কিতাবের, তাঁদের কথাও তিনি উল্লেখ করেন এবং পাঠককে ফিরিয়ে দেন সূরা যুখরুফের শুরুতে। তিনটি জবাব পাশাপাশি রাখলে দেখা যায়, একটি পড়ে হরফের উপর, একটি সতর্কবাণীর উপর, একটি নাযিলের উপর। কোনোটিই কিতাবকে ছেড়ে যায় না। ব্যাকরণ নিয়ে তাফসীরকারদের পথ যেখানে আলাদা হয়েছে, সেখানেও কিতাবের শপথ গিয়ে থামে কিতাবেরই কোনো কথায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports on Reciting Ad-Dukhan",
+          "bn": "সূরা দুখান পাঠের বর্ণনাগুলো"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir opens his commentary on the surah with two reports from at-Tirmidhi about a reward for reciting ad-Dukhan by night, one of them naming the night before Friday. They stand in Jami' at-Tirmidhi as 2888 and 2889. At-Tirmidhi grades each gharib, known only through this one route. He says a narrator in each is weakened, records al-Bukhari calling the first one's narrator munkar al-hadith, and notes that al-Hasan did not hear from Abu Hurayra. So they are mentioned here, not quoted.",
+            "bn": "ইবন কাসীর সূরার তাফসীর শুরু করেন তিরমিযীর দুটি বর্ণনা দিয়ে। বিষয়: রাতে সূরা দুখান পড়ার সওয়াব, আর তার একটিতে জুমার আগের রাতের উল্লেখ। জামে তিরমিযীতে এ দুটি আছে ২৮৮৮ ও ২৮৮৯ নম্বরে। তিরমিযী নিজেই দুটিকে গরীব বলেছেন, অর্থাৎ এ একটি সূত্র ছাড়া আর কোনো সূত্রে জানা নেই। তিনি বলেন, দুটিরই একজন করে বর্ণনাকারী দুর্বল বলে গণ্য। প্রথমটির বর্ণনাকারী সম্পর্কে বুখারীর মন্তব্যও তিনি আনেন: মুনকারুল হাদীস। আর জানান, হাসান আবু হুরায়রা (রাঃ) থেকে সরাসরি শোনেননি। তাই এখানে শুধু এদের উল্লেখ, উদ্ধৃতি নয়।"
+          },
+          {
+            "en": "Al-Qurtubi gathers more on the same theme: a saying from the Musnad of ad-Darimi attributed to Abu Rafi', which at-Tha'labi relays as raised to the Prophet ﷺ through Abu Hurayra, and a report from Abu Umama. Ma'arif al-Qur'an carries two of these from al-Qurtubi on at-Tha'labi's authority. None of them is graded in the texts consulted, and nothing in this article rests on any of them. They are named so the reader knows they exist and what weight they carry.",
+            "bn": "একই বিষয়ে কুরতুবী আরও কিছু বর্ণনা জড়ো করেন। মুসনাদে দারিমী থেকে আবু রাফি' (রাঃ)-এর নামে একটি কথা, যা সা'লাবী আবু হুরায়রা (রাঃ)-এর সূত্রে নবী ﷺ পর্যন্ত পৌঁছিয়ে বর্ণনা করেন। আর আছে আবু উমামা (রাঃ)-এর একটি বর্ণনা। মাআরিফুল কুরআন এর দুটি এনেছে কুরতুবী থেকে, সা'লাবীর বরাতে। এখানে দেখা কোনো লেখায় এদের কোনোটির মান নির্ণয় নেই, আর এ আলোচনার কোনো কথা এদের উপর দাঁড়িয়ে নেই। এদের নাম নেওয়া হলো শুধু এজন্য, যাতে পাঠক জানেন এগুলো আছে, আর এদের ওজন কতটুকু।"
+          },
+          {
+            "en": "Ibn Kathir also relays, from the Musnad of al-Bazzar, a report about the Prophet ﷺ testing Ibn Sayyad with something he had hidden, and places it at the head of this surah; he gives it no grading, so it too is only mentioned. None of the commentaries consulted attaches a sound hadith to 44:1 or to the surah's merit. Reciting ad-Dukhan needs no such report. The surah's own close says, in 44:58, addressing the Prophet ﷺ, that Allah made it easy in his tongue so that they might remember.",
+            "bn": "ইবন কাসীর মুসনাদে বাযযার থেকে আরেকটি বর্ণনা আনেন। বিষয়: নবী ﷺ একটি জিনিস লুকিয়ে রেখে ইবন সাইয়াদকে পরীক্ষা করেছিলেন, আর ইবন কাসীর বর্ণনাটি রেখেছেন এ সূরার শুরুতে। এর কোনো মান তিনি উল্লেখ করেননি, তাই এটিরও শুধু উল্লেখ রইল। এখানে দেখা কোনো তাফসীর ৪৪:১ আয়াত বা সূরার ফযীলতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তবে সূরা দুখান পড়ার জন্য এমন কোনো বর্ণনার দরকারও নেই। সূরার নিজের শেষাংশ, ৪৪:৫৮ আয়াত, নবী ﷺ-কে সম্বোধন করে বলছে: আল্লাহ একে তাঁর ভাষায় সহজ করে দিয়েছেন, যাতে তারা উপদেশ গ্রহণ করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counts, Not Codes",
+          "bn": "গণনা আছে, সংকেত নেই"
+        },
+        "p": [
+          {
+            "en": "This article has counted things: one word, two letters, fifty-seven verses, the fifth of seven openings. These are counts, and nothing more. None of the commentaries consulted reads Ha Mim as a number, a date or a hidden code, and nothing here assigns the letters a value or builds a calculation on them. Al-Qurtubi's list of meanings is a list of readings from language and early opinion, and as-Sa'di's line forbids going further than a sound basis allows.",
+            "bn": "এ আলোচনায় কিছু জিনিস গোনা হয়েছে: একটি শব্দ, দুটি হরফ, সাতান্নটি আয়াত, সাতটি সূচনার পঞ্চমটি। এগুলো শুধুই গণনা, এর বেশি কিছু নয়। এখানে দেখা কোনো তাফসীর হা-মীমকে কোনো সংখ্যা, তারিখ বা গোপন সংকেত হিসেবে পড়ে না। এ আলোচনাও হরফ দুটিকে কোনো মান দেয় না, তাদের উপর কোনো হিসাব দাঁড় করায় না। কুরতুবীর তালিকা হলো ভাষা আর পূর্বসূরিদের মত থেকে নেওয়া ব্যাখ্যার তালিকা। আর সা'দীর কথা সাফ জানিয়ে দেয়, শরীয়তের ভিত্তি যতদূর যায়, তার বাইরে যাওয়া চলে না।"
+          },
+          {
+            "en": "The surah that follows is heavy with warning: the smoke, Pharaoh's army left in the sea, gardens and springs abandoned, the food of the sinful. Each of these verses describes what the text describes. None of them licenses anything against any living person or community, and none authorises anyone to name a people of today as Pharaoh's people, or a haze or famine of today as the smoke. Their warning is addressed first to whoever recites them.",
+            "bn": "এরপর যে সূরা আসে, তা সতর্কবাণীতে ভারী: ধোঁয়া, সাগরে রেখে যাওয়া ফেরাউনের বাহিনী, পেছনে ফেলে যাওয়া বাগান আর ঝরনা, পাপীদের খাদ্য। এর প্রতিটি আয়াত ঠিক ততটুকুই বলে, যতটুকু আয়াতে আছে। এগুলো কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। আজকের কোনো জাতিকে ফেরাউনের জাতি বলে চিহ্নিত করার, কিংবা আজকের কোনো ধোঁয়াশা বা দুর্ভিক্ষকে সেই ধোঁয়া বলে ঘোষণা করার অধিকারও কাউকে দেয় না। এদের সতর্কবাণী সবার আগে তার জন্য, যে এগুলো তিলাওয়াত করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Woken Before the Warning",
+          "bn": "সতর্কবাণীর আগে জাগিয়ে তোলা"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an, at 44:2, puts the purpose of what was sent down on that blessed night in a phrase: to awaken the unmindful from their deep slumber. Read in that light, the order of the opening has its own force. Two letters arrest the ear. An oath by the clear Book holds it. Only then does the surah speak of descent, of warning and of a night in which matters are decided. The listener is stopped before being told anything.",
+            "bn": "মাআরিফুল কুরআন ৪৪:২ আয়াতের আলোচনায় সেই বরকতময় রাতে নাযিল হওয়া কিতাবের উদ্দেশ্য বলে এক কথায়: উদাসীন মানুষকে গভীর ঘুম থেকে জাগানো। এ আলোয় পড়লে সূচনার ক্রমটার নিজস্ব জোর ধরা পড়ে। দুটি হরফ কান আটকে দেয়। সুস্পষ্ট কিতাবের শপথ সেই মনোযোগ ধরে রাখে। তারপরই সূরা কথা বলে নাযিলের, সতর্কবাণীর, আর সেই রাতের, যে রাতে বিষয়গুলোর ফয়সালা হয়। কিছু বলার আগেই শ্রোতাকে থামিয়ে দেওয়া হয়।"
+          },
+          {
+            "en": "The surah ends where it began, with the Book. In 44:58 it is made easy so that they might remember, and in 44:59 comes a last word: so watch, they too are watching. Between two letters and that close lies everything the commentators discussed here. A reader's first duty is simpler than any of their debates: to come to Ha Mim awake, to hear the oath as an oath, and to let the warning reach the reciter before it reaches anyone else.",
+            "bn": "সূরা শেষ হয় যেখানে শুরু হয়েছিল, কিতাব দিয়েই। ৪৪:৫৮ আয়াতে বলা হয়, একে সহজ করা হয়েছে যাতে তারা উপদেশ গ্রহণ করে। আর ৪৪:৫৯ আয়াতে শেষ কথা: অতএব অপেক্ষা করুন, তারাও অপেক্ষা করছে। দুটি হরফ আর এই সমাপ্তির মাঝেই আছে সব, যা নিয়ে তাফসীরকারেরা এখানে আলোচনা করেছেন। তবে পাঠকের প্রথম দায়িত্ব তাঁদের যেকোনো বিতর্কের চেয়ে সহজ। হা-মীমের কাছে জেগে থেকে আসা, শপথকে শপথ হিসেবেই শোনা, আর সতর্কবাণীটা অন্য কারও কাছে পৌঁছানোর আগে নিজের কাছে পৌঁছাতে দেওয়া।"
+          }
+        ]
+      }
+    ]
+  },
   "44:3": {
     "sections": [
       {
