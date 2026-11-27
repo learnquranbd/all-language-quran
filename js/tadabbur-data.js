@@ -35755,6 +35755,24 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Warn the people around you when you see danger coming, and when others may harm you through heedlessness, guard against it without charging them with ill intent.",
     "lessonBn": "বিপদ আসছে দেখলে আশপাশের মানুষকে সতর্ক করুন, আর কেউ অসাবধানতায় আপনার ক্ষতি করতে পারে মনে হলে নিজেকে বাঁচান, কিন্তু তার উপর খারাপ নিয়তের দোষ চাপাবেন না।"
+  },
+  "27:31": {
+    "reflectionEn": "After the name of Allah, Sulayman's letter says only this: do not rise above me, and come to me in submission. A king could have sent terms, threats or a list of demands. This letter names one danger, height, and one way out, coming in surrender. The commentators hear in rising above a refusal to answer: to be shown a clear call and stay where you are is already a kind of pride. They differ over the last word, whether it asks for obedience to his rule or for faith in God. The story belongs to a prophet and a queen long ago and gives no one a right over anyone today. Its question is mine. When the truth reaches me plainly, do I come, or hold my ground?",
+    "reflectionBn": "আল্লাহর নামের পর সুলাইমান (আঃ)-এর চিঠিতে আছে শুধু এটুকু: আমার ওপরে উঠো না, অনুগত হয়ে আমার কাছে চলে এসো। একজন রাজা চাইলে শর্ত, হুমকি বা দাবির লম্বা তালিকা পাঠাতে পারতেন। এ চিঠি একটিমাত্র বিপদের নাম নেয়, সেটা নিজেকে উঁচু ভাবা। আর দেখায় একটিমাত্র পথ, আত্মসমর্পণ করে আসা। তাফসীরকারেরা ওপরে ওঠার মধ্যে সাড়া না দেওয়ার কথাও শোনেন। স্পষ্ট ডাক কানে আসার পরও যেখানে ছিলাম সেখানেই বসে থাকা, সেটাই এক রকম অহংকার। শেষ শব্দটি নিয়ে তাঁদের মতভেদ আছে: এটা তাঁর শাসনের প্রতি আনুগত্য চায়, নাকি আল্লাহর প্রতি ঈমান? কাহিনিটা বহু আগের এক নবী আর এক রানির। আজ কারও ওপর কাউকে কোনো অধিকার এটা দেয় না। এর প্রশ্নটা আমার নিজের। সত্য যখন পরিষ্কার হয়ে আমার কাছে পৌঁছায়, আমি কি এগিয়ে আসি, নাকি নিজের জায়গা আঁকড়ে থাকি?",
+    "pointsEn": [
+      "When a clear truth reaches me, what is my usual way of not answering it: arguing, putting it off, or simply saying nothing?",
+      "Where do I hold myself a little above advice, so that it has to climb before it can reach me?",
+      "Is my surrender to Allah visible in what I actually obey, or only in what I say I believe?",
+      "When I must write something hard to someone, can I say it in a few clear words, begun with Allah's name and free of insult?"
+    ],
+    "pointsBn": [
+      "পরিষ্কার কোনো সত্য আমার কাছে এলে আমি সাধারণত কীভাবে তার জবাব এড়িয়ে যাই: তর্ক করে, পরে দেখব বলে, নাকি একদম চুপ থেকে?",
+      "কোন কোন জায়গায় আমি নিজেকে উপদেশের চেয়ে একটু উঁচুতে রাখি, যাতে আমার কাছে পৌঁছাতে তাকে আগে সিঁড়ি বাইতে হয়?",
+      "আল্লাহর কাছে আমার আত্মসমর্পণ কি আমি যা মেনে চলি তাতে দেখা যায়, নাকি শুধু মুখে বলা বিশ্বাসেই আটকে থাকে?",
+      "কাউকে কঠিন কোনো কথা লিখতে হলে আমি কি অল্প কয়েকটি পরিষ্কার শব্দে, আল্লাহর নামে শুরু করে, অপমান ছাড়া তা বলতে পারি?"
+    ],
+    "lessonEn": "Pride does not always shout; often it simply refuses to answer. When a clear call to Allah reaches you, do not hold yourself above it, but come to it in surrender.",
+    "lessonBn": "অহংকার সব সময় গলা চড়ায় না, অনেক সময় সে শুধু সাড়া দিতে অস্বীকার করে। আল্লাহর দিকে স্পষ্ট ডাক আপনার কাছে পৌঁছালে নিজেকে তার ওপরে রাখবেন না, আত্মসমর্পণ করে এগিয়ে আসুন।"
   }
 };
 

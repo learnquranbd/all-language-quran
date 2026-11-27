@@ -1455,6 +1455,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "27:31": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words After the Name",
+          "bn": "আল্লাহর নামের পর পাঁচ শব্দ"
+        },
+        "p": [
+          {
+            "en": "The queen of Sheba has her chiefs around her and a letter in her hand. In 27:29 she called it noble, and in 27:30 she named its sender and read its opening: In the name of Allah, the Entirely Merciful, the Especially Merciful. Our verse is the rest of the letter, and in Arabic the rest is five words: alla ta'lu 'alayya wa'tuni muslimin, do not rise above me, and come to me in submission. That is all a king whose hosts of jinn, men and birds were gathered before him (27:17) chose to send.",
+            "bn": "সাবার রানির চারপাশে তাঁর সভাসদেরা, হাতে একটি চিঠি। ২৭:২৯ আয়াতে তিনি চিঠিটিকে সম্মানিত বলেছেন, ২৭:৩০ আয়াতে প্রেরকের নাম জানিয়ে পড়ে শুনিয়েছেন তার শুরু: পরম করুণাময়, অসীম দয়ালু আল্লাহর নামে। আমাদের আয়াতে চিঠির বাকি অংশ, আর আরবিতে সেই বাকিটুকু মাত্র পাঁচ শব্দ: আল্লা তা'লূ আলাইয়া ওয়া'তূনী মুসলিমীন। আমার ওপরে উঠো না, অনুগত হয়ে আমার কাছে চলে এসো। যাঁর সামনে জিন, মানুষ আর পাখির বাহিনী সমবেত করা হতো (২৭:১৭), সেই রাজা এর বেশি কিছু পাঠাননি।"
+          },
+          {
+            "en": "At-Tabari first settles how the words hang on what came before. He reads them as the continuation of the queen's report: a noble letter has been cast to me, that you do not rise above me. The particle an, he says, can be taken two ways in Arabic grammar. Made a substitute for the letter, it takes the letter's own case, and the letter simply is this message. Or it can be read as attached to the letter, in the accusative, as what the letter carries.",
+            "bn": "শব্দগুলো আগের কথার সঙ্গে কীভাবে জোড়া, তাবারী আগে সেটা ঠিক করে নেন। তাঁর পাঠে এটা রানির কথারই ধারাবাহিকতা: আমার কাছে একটি সম্মানিত চিঠি ফেলা হয়েছে, যে তোমরা আমার ওপরে উঠো না। তিনি বলেন, আরবি ব্যাকরণে 'আন' অব্যয়টিকে দুই রকমভাবে নেওয়া যায়। চিঠির বদল ধরলে সে চিঠির কারকই নেয়, তখন চিঠি মানেই এই বার্তা। আবার চিঠির সঙ্গে যুক্ত করে কর্মকারকে পড়া যায়, তখন বার্তাটি চিঠির বহন করা বিষয়।"
+          },
+          {
+            "en": "Why the letter is so short has been asked already. The article on 27:29 gathered the remarks that the prophets wrote in sentences and did not run on, and the ruling on the basmala at the head of a letter belongs with 27:30. Here the question is what these five words say and ask. As-Sa'di's verdict on them is the place to begin: this, he writes, is the utmost of concision joined to complete clarity, and the sections below take it clause by clause.",
+            "bn": "চিঠি এত ছোট কেন, সে প্রশ্ন আগেই উঠেছে। নবীরা বাক্য কয়েকটায় লিখতেন, কথা টেনে লম্বা করতেন না, এ মন্তব্যগুলো ২৭:২৯ আয়াতের প্রবন্ধে জড়ো করা আছে। আর চিঠির মাথায় বিসমিল্লাহ লেখার বিধান ২৭:৩০ আয়াতের আলোচনা। এখানে প্রশ্ন হলো, এই পাঁচ শব্দ কী বলে আর কী চায়। শুরু করা যায় সা'দীর রায় দিয়ে। তিনি লেখেন, এ হলো সংক্ষেপের চূড়ান্ত রূপ, আর সঙ্গে আছে পূর্ণ স্পষ্টতা। নিচের অংশগুলো বাক্যাংশগুলোকে একে একে ধরে এগোবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rising as a Refusal",
+          "bn": "সাড়া না দেওয়াও ওপরে ওঠা"
+        },
+        "p": [
+          {
+            "en": "What does it mean to rise above him? At-Tabari's answer has an object: do not be proud and do not make yourselves great, 'amma da'awtukum ilayh, against what I have called you to. The Muyassar repeats his words. Al-Baghawi gives Ibn 'Abbas as saying: do not be proud towards me, and he adds an unnamed reading, do not hold yourselves great or lofty over me. Read this way the fault is not only a mood of the heart. It is a stance towards a call that has been made.",
+            "bn": "তাঁর ওপরে ওঠার মানে কী? তাবারীর উত্তরে একটা লক্ষ্য আছে: অহংকার কোরো না, নিজেদের বড় ভেবো না, আম্মা দা'আওতুকুম ইলাইহি, আমি তোমাদের যেদিকে ডেকেছি তার বিপরীতে। মুয়াসসার তাঁর কথাটাই আবার বলে। বাগাভী ইবন আব্বাস (রাঃ)-এর মত আনেন: আমার প্রতি অহংকার কোরো না। সঙ্গে নাম ছাড়া আরেকটি মত যোগ করেন: আমার ওপর নিজেদের বড় বা উঁচু মনে কোরো না। এভাবে পড়লে দোষটা শুধু মনের একটা অবস্থা নয়। এটা এমন এক ডাকের প্রতি অবস্থান, যে ডাক এসে গেছে।"
+          },
+          {
+            "en": "Al-Baghawi then states the sense outright: do not refuse to answer, for leaving the answer is itself rising and pride. Ibn Zayd says the same in at-Tabari's chain: do not refuse what I have called you to. Ibn Wahb, in at-Tabari's chain, asked him: do not rise above me, meaning do not be proud towards me? Yes, he said. Ibn Kathir carries Ibn Zayd's gloss in a shorter form: do not refuse and do not be proud towards me. Silence, on this reading, can be the proudest reply of all.",
+            "bn": "তারপর বাগাভী অর্থটা খোলাখুলি বলেন: জবাব দিতে অস্বীকার কোরো না, কারণ জবাব না দেওয়াটাই ওপরে ওঠা আর অহংকার। তাবারীর সনদে ইবন যায়দও একই কথা বলেন: আমি যেদিকে ডেকেছি তা থেকে নিজেদের সরিয়ে রেখো না। তাবারীর সনদের ইবন ওয়াহব তাঁকে জিজ্ঞেস করেন, আমার ওপরে উঠো না মানে কি আমার প্রতি অহংকার কোরো না? তিনি বলেন, হ্যাঁ। ইবন কাসীর ইবন যায়দের ব্যাখ্যা আনেন সংক্ষেপে: অস্বীকার কোরো না, আমার প্রতি অহংকারও কোরো না। এ পাঠে চুপ করে থাকাই হতে পারে সবচেয়ে অহংকারী জবাব।"
+          },
+          {
+            "en": "Al-Qurtubi, in his comment filed under 27:30, records a different reading of the verb. Al-Ashhab al-'Uqayli and Muhammad ibn as-Samayfa' recited alla taghlu, with the letter ghayn, and it is narrated from Wahb ibn Munabbih. It comes from ghala yaghlu, used of one who oversteps a bound and grows proud. Al-Qurtubi adds that it returns to the meaning of the reading of the majority. Whether the word is rising or overstepping, the fault it names is the same.",
+            "bn": "কুরতুবী ২৭:৩০ আয়াতের অধীনে রাখা আলোচনায় ক্রিয়াপদটির আরেকটি পাঠ উল্লেখ করেন। আল-আশহাব আল-উকাইলী আর মুহাম্মাদ ইবন আস-সামাইফা' পড়েছেন 'আল্লা তাগলূ', গাইন হরফ দিয়ে, আর এ পাঠ ওয়াহব ইবন মুনাব্বিহ থেকেও বর্ণিত। শব্দটি এসেছে গালা ইয়াগলূ থেকে। যে সীমা ছাড়িয়ে যায় আর অহংকারী হয়, তার বেলায় এটা বলা হয়। কুরতুবী যোগ করেন, অর্থের দিক থেকে এ পাঠ অধিকাংশের পাঠেই ফিরে আসে। শব্দটা ওপরে ওঠা হোক বা সীমা ছাড়ানো, যে দোষের নাম নেওয়া হচ্ছে তা একই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Queen Understood",
+          "bn": "রানি যা বুঝে নিলেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Zayd's gloss in at-Tabari does not stop at refusal. It goes on: if you refuse, I will strive against you. Ibn Kathir, in his comment filed under 27:30, describes how the letter landed: they knew it was from Allah's prophet Sulayman (AS), and that they had no power to stand against him. The verses that follow show what she did with that knowledge. In 27:32 and 27:33 she asks her chiefs for counsel and they offer her their strength, and the article on 27:34 takes up her answer.",
+            "bn": "তাবারীতে ইবন যায়দের ব্যাখ্যা অস্বীকারের কথায় থামে না। তিনি আরও বলেন: তোমরা যদি অস্বীকার করো, আমি তোমাদের বিরুদ্ধে লড়ব। চিঠিটা ওদের ওপর কী প্রভাব ফেলল, ইবন কাসীর ২৭:৩০ আয়াতের অধীনে রাখা আলোচনায় তা বলেন। ওরা বুঝল চিঠিটা আল্লাহর নবী সুলাইমান (আঃ)-এর কাছ থেকে এসেছে, আর তাঁর মোকাবেলা করার শক্তি ওদের নেই। এই জ্ঞান নিয়ে রানি কী করলেন, পরের আয়াতগুলো তা দেখায়। ২৭:৩২ ও ২৭:৩৩ আয়াতে তিনি সভাসদদের পরামর্শ চান, আর ওরা নিজেদের শক্তির কথা জানায়। তাঁর জবাব নিয়ে আলোচনা আছে ২৭:৩৪ আয়াতের প্রবন্ধে।"
+          },
+          {
+            "en": "This needs saying plainly. The letter was written by a prophet to one queen, in one story the Qur'an narrates, and Ibn Zayd's gloss explains what it meant in that case. It gives no present-day ruler, state, movement or person any licence to demand the submission of another people, to threaten them, or to treat their refusal of a faith as grounds for war. Sulayman (AS) acted as a prophet in a matter the Qur'an reports. No one after him inherits his letter as a mandate.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। চিঠিটা একজন নবী লিখেছিলেন একজন রানিকে, কুরআনে বর্ণিত একটি কাহিনিতে। ইবন যায়দের ব্যাখ্যা বলে সেই ঘটনায় এর অর্থ কী ছিল। আজকের কোনো শাসক, রাষ্ট্র, আন্দোলন বা ব্যক্তিকে এ আয়াত কোনো অনুমতি দেয় না যে সে অন্য কোনো জাতির কাছে আনুগত্য দাবি করবে, তাদের হুমকি দেবে, কিংবা কোনো ধর্ম গ্রহণ না করাকে যুদ্ধের কারণ বানাবে। সুলাইমান (আঃ) যা করেছেন, নবী হিসেবে করেছেন, আর কুরআন সেটা বর্ণনা করেছে। তাঁর পরে কেউ তাঁর চিঠিকে নিজের জন্য হুকুমনামা হিসেবে উত্তরাধিকারে পায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Muslimin, Read Two Ways",
+          "bn": "মুসলিমীন, দুই অর্থে"
+        },
+        "p": [
+          {
+            "en": "The last word, muslimin, carries the weight of the letter, and the commentators do not read it alike. Al-Baghawi glosses it as believing and obedient, and then sets the question out in two short lines: it was said, it is from islam; and it was said, it is from istislam. The first is the surrender of faith, the religion of Islam. The second is yielding, laying down resistance. Al-Baghawi names no one for either line and does not choose between them.",
+            "bn": "শেষ শব্দ মুসলিমীন, চিঠির ভার এর ওপরেই, আর তাফসীরকারেরা একে একভাবে পড়েন না। বাগাভী এর ব্যাখ্যা দেন ঈমানদার ও অনুগত হিসেবে। তারপর প্রশ্নটা দুই ছোট বাক্যে সাজান: বলা হয়েছে, এটা ইসলাম থেকে; আবার বলা হয়েছে, এটা ইস্তিসলাম থেকে। প্রথমটি ঈমানের আত্মসমর্পণ, ইসলাম ধর্ম। দ্বিতীয়টি মাথা নোয়ানো, প্রতিরোধ ছেড়ে দেওয়া। বাগাভী কোনো মতের পেছনে কারও নাম দেন না, দুটোর মধ্যে বেছেও নেন না।"
+          },
+          {
+            "en": "Several glosses lean towards faith. Ibn Kathir reports Ibn 'Abbas: muwahhidin, people who affirm the oneness of God; and others: mukhlisin, sincere. At-Tabari explains the clause as come to me yielding to Allah in His oneness and in obedience, and the Muyassar follows him, adding muslims to Him. Al-Qurtubi's gloss is yielding, obedient and believing. On these readings the letter asks the queen to come to Sulayman (AS) as one who has already turned to Allah.",
+            "bn": "কয়েকটি ব্যাখ্যা ঝোঁকে ঈমানের দিকে। ইবন কাসীর ইবন আব্বাস (রাঃ)-এর কথা আনেন: মুওয়াহহিদীন, যারা আল্লাহর একত্ব মানে। অন্যদের মত: মুখলিসীন, খাঁটি অন্তরের মানুষ। তাবারী বাক্যাংশটির ব্যাখ্যা দেন এভাবে: আল্লাহর একত্ব আর আনুগত্য মেনে নিয়ে আমার কাছে এসো। মুয়াসসার তাঁকেই অনুসরণ করে, আর যোগ করে: তাঁর প্রতি আত্মসমর্পিত হয়ে। কুরতুবীর ব্যাখ্যা: বশ্যতা স্বীকারকারী, অনুগত, ঈমানদার। এসব পাঠে চিঠি রানিকে সুলাইমান (আঃ)-এর কাছে আসতে বলছে এমন একজন হয়ে, যিনি আগেই আল্লাহর দিকে ফিরেছেন।"
+          },
+          {
+            "en": "Other glosses lean towards obedience. Ibn Kathir gives Sufyan ibn 'Uyayna: ta'i'in, obedient. As-Sa'di reads the whole verse as a matter of standing: do not be above me, but humble yourselves beneath my authority, yield to my commands and come to me as muslimin, and in his list of what the letter holds he also names the call to Islam. So some glosses keep the two senses apart and some fold them together. The disagreement is real, and this article leaves it where the commentators leave it.",
+            "bn": "আরও কয়েকটি ব্যাখ্যা ঝোঁকে আনুগত্যের দিকে। ইবন কাসীর সুফইয়ান ইবন উয়াইনার কথা আনেন: তা'ইঈন, অনুগত। সা'দী পুরো আয়াতটিকে পড়েন অবস্থানের প্রশ্ন হিসেবে: আমার ওপরে থেকো না, বরং আমার শাসনের নিচে নত হও, আমার আদেশ মেনে নাও, আর মুসলিম হয়ে আমার কাছে এসো। চিঠিতে কী কী আছে তার তালিকায় তিনি ইসলামের দাওয়াতের কথাও বলেন। তাহলে কোনো ব্যাখ্যা দুই অর্থকে আলাদা রাখে, কোনোটি দুটোকে এক করে। মতভেদটা সত্যিকারের, আর তাফসীরকারেরা যেখানে রেখেছেন এ প্রবন্ধও সেখানেই রাখছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Everything Folded Into a Line",
+          "bn": "এক লাইনে ভাঁজ করা সব কথা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di unpacks the five words into a list. They forbid the queen and her people to rise above him, and forbid them to remain in the state they are in. They command them to yield to his order and to enter under his obedience. They summon them to come to him. And they call them to Islam. He then adds that the letter shows it is recommended to open letters with the basmala in full and to put the name first at the head of the letter, a point that belongs with 27:30.",
+            "bn": "সা'দী পাঁচটি শব্দ খুলে একটা তালিকা বানান। এ শব্দগুলো রানি ও তাঁর লোকদের নিষেধ করে তাঁর ওপরে উঠতে, আর এখন যে অবস্থায় আছে তাতেই থেকে যেতে। আদেশ করে তাঁর হুকুম মেনে নিতে, তাঁর আনুগত্যের ভেতরে ঢুকতে। ডাকে তাঁর কাছে চলে আসতে। আর দাওয়াত দেয় ইসলামের দিকে। তারপর তিনি যোগ করেন, এ চিঠি থেকে বোঝা যায় পূর্ণ বিসমিল্লাহ দিয়ে চিঠি শুরু করা আর চিঠির শিরোনামের শুরুতে নাম রাখা মুস্তাহাব। এ প্রসঙ্গের জায়গা অবশ্য ২৭:৩০ আয়াত।"
+          },
+          {
+            "en": "Ibn Kathir, in the comment filed under 27:30, calls the letter the utmost in eloquence, brevity and clarity, for it reached its meaning by the easiest and finest expression. Ma'arif al-Qur'an finds in its few sentences every important matter put together, high eloquence kept alongside royal dignity before people who did not yet believe, the attributes of Allah, an invitation to Islam, and a condemnation of conceit and arrogance. It calls the letter a specimen of the marvel of the Qur'an.",
+            "bn": "২৭:৩০ আয়াতের অধীনে রাখা আলোচনায় ইবন কাসীর চিঠিটিকে বলেন বাগ্মিতা, সংক্ষেপ আর স্পষ্টতার চূড়ান্ত নমুনা। কারণ সবচেয়ে সহজ আর সবচেয়ে সুন্দর ভাষায় চিঠিটি তার অর্থে পৌঁছে গেছে। মাআরিফুল কুরআন এর অল্প কয়েকটি বাক্যে সব জরুরি কথা একত্র দেখতে পায়। যারা তখনো ঈমান আনেনি তাদের সামনে রাজকীয় মর্যাদা বজায় রেখেও উঁচু মানের ভাষা, আল্লাহর গুণাবলি, ইসলামের দাওয়াত, আর আত্মম্ভরিতা ও অহংকারের নিন্দা। মাআরিফুল কুরআন চিঠিটিকে কুরআনের বিস্ময়ের এক নমুনা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Letter Read in Another Court",
+          "bn": "আরেক দরবারে পড়া চিঠি"
+        },
+        "p": [
+          {
+            "en": "No fetched tafsir attaches a sound hadith to this verse. Ibn Kathir, under 27:30, relays through Ibn Abi Hatim a narration about the basmala and the verse before ours; he himself calls it gharib with a weak chain, so it is not used here. Ma'arif al-Qur'an points instead to a practice: the Prophet ﷺ began his letters with From Muhammad, the slave of Allah and His messenger, and the letters he sent to kings who were not Muslim carried verses of the Qur'an.",
+            "bn": "সংগ্রহ করা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করে না। ইবন কাসীর ২৭:৩০ আয়াতের অধীনে ইবন আবী হাতিমের সূত্রে বিসমিল্লাহ আর আমাদের আগের আয়াত নিয়ে একটি বর্ণনা আনেন। তিনি নিজেই একে গরীব বলেন, আর এর সনদকে দুর্বল। তাই এখানে সেটা নেওয়া হয়নি। মাআরিফুল কুরআন বরং একটা রীতির দিকে ইঙ্গিত করে। নবী ﷺ চিঠি শুরু করতেন এভাবে: আল্লাহর বান্দা ও তাঁর রাসূল মুহাম্মাদের পক্ষ থেকে। আর অমুসলিম রাজাদের কাছে পাঠানো তাঁর চিঠিতে কুরআনের আয়াত থাকত।"
+          },
+          {
+            "en": "One such letter is recorded in al-Bukhari's Sahih, no. 7, in a long report from Ibn 'Abbas, from Abu Sufyan. It is a general narration and is not attached to this verse. Heraclius had the letter read: 'In the name of Allah the Beneficent, the Merciful (This letter is) from Muhammad the slave of Allah and His Apostle to Heraclius the ruler of Byzantine. Peace be upon him, who follows the right path. Furthermore I invite you to Islam, and if you become a Muslim you will be safe, and Allah will double your reward.'",
+            "bn": "এমন একটি চিঠি আছে সহীহ বুখারীতে, ৭ নম্বর হাদীসে, ইবন আব্বাস (রাঃ)-এর সূত্রে আবু সুফইয়ান থেকে বর্ণিত দীর্ঘ এক বর্ণনায়। বর্ণনাটি সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়। হিরাক্লিয়াস চিঠিটি পড়ালেন: 'বিসমিল্লাহির রাহমানির রাহীম। আল্লাহর বান্দা ও তাঁর রাসূল মুহাম্মাদের পক্ষ থেকে রোমের প্রধান হিরাক্লিয়াসের প্রতি। যে হিদায়াতের অনুসরণ করে, তার ওপর শান্তি। অতঃপর, আমি আপনাকে ইসলামের দাওয়াত দিচ্ছি। আপনি মুসলিম হলে নিরাপদ থাকবেন, আল্লাহ আপনাকে দ্বিগুণ প্রতিদান দেবেন।'"
+          },
+          {
+            "en": "The letter goes on to warn him of his subjects' sin if he turns away, and ends with 3:64, whose closing words are bear witness that we are muslimun. Ma'arif draws one ruling from both letters: Sulayman (AS) sent the basmala to a queen who was not yet a believer, so a paper carrying a verse may be handed to a non-Muslim, since such a paper is not the Qur'an itself. The likeness is in the form, the name of Allah first, a few words and an open call, with no insult anywhere in it.",
+            "bn": "চিঠিটি এরপর সতর্ক করে, তিনি মুখ ফিরিয়ে নিলে প্রজাদের গুনাহও তাঁর ঘাড়ে পড়বে। শেষ হয় ৩:৬৪ আয়াত দিয়ে, যার শেষ কথা: সাক্ষী থাকো, আমরা মুসলিম। দুটো চিঠি থেকে মাআরিফুল কুরআন একটা বিধান টানে। সুলাইমান (আঃ) তখনো ঈমান না আনা এক রানির কাছে বিসমিল্লাহ পাঠিয়েছিলেন। তাই আয়াত লেখা কাগজ অমুসলিমের হাতে দেওয়া যায়, কারণ এমন কাগজ নিজে কুরআন নয়। দুই চিঠির মিল তাদের গড়নে: আগে আল্লাহর নাম, অল্প কয়েকটি শব্দ, খোলা ডাক, আর কোথাও কোনো অপমান নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Pride That Stays Seated",
+          "bn": "যে অহংকার বসেই থাকে"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi's line, that leaving the answer is itself rising and pride, reaches well past a queen's court. We tend to picture arrogance as loud: the raised voice, the open sneer. The letter names a quieter kind. A reminder arrives from a friend, a verse is recited that speaks to exactly what we are doing, a correction comes at work, and we neither argue nor obey. We simply stay where we were. Nothing in us has risen visibly, and yet we have held ourselves above the call.",
+            "bn": "জবাব না দেওয়াটাই ওপরে ওঠা আর অহংকার, বাগাভীর এ কথা রানির দরবার ছাড়িয়ে বহুদূর যায়। অহংকারের ছবি আমরা সাধারণত আঁকি জোরালো করে: চড়া গলা, প্রকাশ্য তাচ্ছিল্য। চিঠিটা নাম নেয় আরেকটু নিঃশব্দ এক রূপের। বন্ধুর কাছ থেকে একটা স্মরণ আসে। এমন একটা আয়াত তিলাওয়াত হয়, যা ঠিক আমাদের কাজের কথাই বলে। কর্মস্থলে কেউ ভুল ধরিয়ে দেয়। আমরা তর্কও করি না, মেনেও নিই না। যেখানে ছিলাম, সেখানেই থেকে যাই। বাইরে থেকে কিছুই উঁচু দেখায় না, তবু ডাকের ওপরে নিজেকে রেখে দিয়েছি।"
+          },
+          {
+            "en": "The verse turns this into a mirror, not a weapon. It does not hand the reader a script for demanding that others come to him. It asks what he does when a clear call to Allah reaches him. The surah has already shown the opposite of that pride in Sulayman (AS) himself, who met his gifts with thanks in 27:19. The letter he sent asks of others the same thing he practised: to know where we stand before Allah and to answer when called.",
+            "bn": "আয়াতটি এ কথাকে অস্ত্র নয়, আয়না বানায়। অন্যদের নিজের কাছে আসতে বলার কোনো পাঠ এটা পাঠকের হাতে তুলে দেয় না। বরং জিজ্ঞেস করে, আল্লাহর দিকে স্পষ্ট ডাক যখন তার কাছে পৌঁছায়, তখন সে কী করে। এ সূরা সেই অহংকারের উল্টো ছবি আগেই দেখিয়েছে সুলাইমান (আঃ)-এর মধ্যেই। ২৭:১৯ আয়াতে তিনি নিজের পাওয়া নিয়ামতের জবাব দিয়েছেন শুকরিয়া দিয়ে। যে চিঠি তিনি পাঠালেন, তাতে অন্যদের কাছে তিনি তা-ই চাইলেন, যা নিজে করতেন: আল্লাহর সামনে নিজের জায়গা চেনা, আর ডাক এলে সাড়া দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Coming, and to Whom",
+          "bn": "আসা, আর কার কাছে"
+        },
+        "p": [
+          {
+            "en": "Wa'tuni asks for movement, come to me, and the commentators leave open whether the coming is first of all to Sulayman's rule or to his Lord. The surah does not leave the queen there. In 27:44, standing in his palace, she says: I have submitted with Sulayman to Allah, Lord of the worlds. Whatever sense is given to muslimin in our verse, her own last word in the story makes her surrender something she shares with Sulayman (AS), and directs it to Allah, Lord of the worlds.",
+            "bn": "ওয়া'তূনী নড়াচড়া চায়: আমার কাছে এসো। আর এ আসা আগে সুলাইমান (আঃ)-এর শাসনের দিকে নাকি তাঁর রবের দিকে, তাফসীরকারেরা সে প্রশ্ন খোলা রাখেন। সূরাটি রানিকে সেখানে ফেলে রাখে না। ২৭:৪৪ আয়াতে তাঁর প্রাসাদে দাঁড়িয়ে রানি বলেন: আমি সুলাইমানের সঙ্গে জগতসমূহের রব আল্লাহর কাছে আত্মসমর্পণ করলাম। আমাদের আয়াতে মুসলিমীনের যে অর্থই নেওয়া হোক, কাহিনিতে তাঁর নিজের শেষ কথায় এ আত্মসমর্পণ সুলাইমান (আঃ)-এর সঙ্গে মিলে করা, আর তার গন্তব্য জগতসমূহের রব আল্লাহ।"
+          },
+          {
+            "en": "That is where the five words leave a reader. Every call to Allah that reaches us asks for the same pair of things the letter asked: do not hold yourself above it, and come. The coming may be a prayer we have been putting off, a wrong we need to admit, or a duty we have kept at arm's length. The verse does not ask us to be impressive. It asks us to stop rising, and to move towards Allah, whose name stands at the head of the letter.",
+            "bn": "পাঁচটি শব্দ পাঠককে এখানে এনে দাঁড় করায়। আল্লাহর দিকে যে ডাকই আমাদের কাছে আসে, তা চিঠির মতোই দুটো জিনিস চায়: এর ওপরে নিজেকে রেখো না, আর চলে এসো। এ আসা হতে পারে এমন কোনো নামাজ, যা আমরা পিছিয়ে চলেছি। হতে পারে এমন কোনো ভুল, যা স্বীকার করা দরকার। কিংবা এমন কোনো দায়িত্ব, যাকে আমরা দূরে ঠেলে রেখেছি। আয়াতটি আমাদের চমক দেখাতে বলে না। বলে ওপরে ওঠা থামিয়ে আল্লাহর দিকে এগিয়ে যেতে, চিঠির মাথায় যাঁর নাম।"
+          }
+        ]
+      }
+    ]
+  },
   "27:34": {
     "sections": [
       {
