@@ -299,6 +299,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "24:7": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Fifth Turns Inward",
+          "bn": "পঞ্চম কথাটি নিজের দিকে"
+        },
+        "p": [
+          {
+            "en": "Wal-khamisatu anna la'nata Allahi 'alayhi in kana mina al-kadhibin: and the fifth, that the curse of Allah be upon him if he is among the liars. The verse is nine words long and finishes the sentence begun in 24:6, which set four testimonies by Allah on the husband who has no witness but himself. Those four are not retold here. This verse adds a fifth utterance of another kind. Ma'arif al-Qur'an glosses the very name of the procedure, li'an, as cursing and praying for Allah's wrath on one another.",
+            "bn": "ওয়াল খামিসাতু আন্না লা’নাতাল্লাহি আলাইহি ইন কানা মিনাল কাযিবীন: আর পঞ্চমবার, সে মিথ্যাবাদী হলে তার উপর আল্লাহর লা’নত। আয়াতটি মাত্র নয়টি শব্দের। ২৪:৬ আয়াতে যে বাক্য শুরু হয়েছিল, এখানে তা শেষ হলো। সেখানে বলা হয়েছিল, নিজে ছাড়া যে স্বামীর আর কোনো সাক্ষী নেই, সে আল্লাহর নামে চারটি সাক্ষ্য দেবে। সেই চার সাক্ষ্যের কথা এখানে আর বলা হবে না। এ আয়াত যোগ করে ভিন্ন ধরনের পঞ্চম একটি উচ্চারণ। মাআরিফুল কুরআন এ বিধানের নাম লি‘আনেরই অর্থ করে লা’নত করা, একে অপরের উপর আল্লাহর গযব কামনা করা।"
+          },
+          {
+            "en": "As-Sa'di says what the fifth does: alongside the testimony already stated, it confirms those testimonies, by having the man pray against himself, with the curse, if he is lying. The four face outward, at the charge; each says he is truthful in what he has said. The fifth faces back at the speaker. He no longer only claims something about another person; he places himself under a penalty from Allah should his claim be false. The wife's answer, and the different word in her own fifth, belong to 24:8 and 24:9.",
+            "bn": "পঞ্চম কথাটির কাজ কী, সা'দী তা বলে দেন। আগের সাক্ষ্যগুলোর সঙ্গে এটি যোগ হয় সেগুলোকে পাকা করতে। লোকটি নিজেই নিজের বিরুদ্ধে দোয়া করে, মিথ্যাবাদী হলে তার উপর যেন লা’নত পড়ে। চারটি সাক্ষ্যের মুখ বাইরের দিকে, অভিযোগটার দিকে। প্রতিটিতে সে বলে, যা বলেছে তাতে সে সত্যবাদী। পঞ্চমটির মুখ ঘুরে যায় বক্তার নিজের দিকে। এখন সে কেবল অন্যের সম্পর্কে দাবি করছে না। দাবি মিথ্যা হলে আল্লাহর দেওয়া শাস্তির নিচে সে নিজেকেই দাঁড় করাচ্ছে। স্ত্রীর জবাব আর তার পঞ্চম কথার ভিন্ন শব্দটির আলোচনা ২৪:৮ ও ২৪:৯ আয়াতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Him to Me",
+          "bn": "‘তার উপর’ থেকে ‘আমার উপর’"
+        },
+        "p": [
+          {
+            "en": "The verse speaks about the man: the curse is 'alayhi, upon him, if he is among the liars. In court he does not say it about someone else. Al-Qurtubi gives the words the judge has him say at the fifth: upon me be the curse of Allah if I am among the liars, or, if he prefers, if I was lying in what I mentioned about her. Al-Baghawi has the imam prompt him, and gives the same fifth: upon me be the curse of Allah if I am among the liars in what I charged her with. The verse's 'him' becomes the oath's 'me'.",
+            "bn": "আয়াতটি লোকটির কথা বলে বাইরে থেকে: লা’নত ‘আলাইহি’, তার উপর, যদি সে মিথ্যাবাদী হয়। কিন্তু আদালতে সে কথাটা অন্য কারও সম্পর্কে বলে না। পঞ্চমবারে বিচারক তাকে দিয়ে কী বলান, কুরতুবী তা উল্লেখ করেন: আমি মিথ্যাবাদী হলে আমার উপর আল্লাহর লা’নত। চাইলে সে বলতে পারে, তার সম্পর্কে যা বলেছি তাতে আমি মিথ্যাবাদী হলে। বাগাভীর বর্ণনায় ইমাম তাকে শব্দগুলো বলিয়ে দেন, আর পঞ্চম কথাটা একই: তার উপর যে অভিযোগ এনেছি তাতে আমি মিথ্যাবাদী হলে আমার উপর আল্লাহর লা’নত। আয়াতের ‘তার উপর’ শপথে এসে হয়ে যায় ‘আমার উপর’।"
+          },
+          {
+            "en": "Al-Baghawi adds a detail that shows how carefully the words are held: any of them the husband says without the judge's prompting is not counted. Al-Qurtubi records ash-Shafi'i's form, in which the man points to his wife if she is present and ties the curse to the one charge he has made. So the fifth is not a sweeping oath over his whole life. It is fastened to a single claim, spoken in a single place, and by its own wording it falls on him only if that claim is false.",
+            "bn": "শব্দগুলো কতটা যত্নে ধরা হয়, বাগাভী তার একটা নমুনা দেন: বিচারকের বলিয়ে দেওয়া ছাড়া স্বামী নিজে থেকে যে শব্দ বলে, তা গণনায় ধরা হয় না। কুরতুবী শাফিঈর পদ্ধতিও উল্লেখ করেন। সেখানে স্ত্রী উপস্থিত থাকলে লোকটি তার দিকে ইশারা করে, আর লা’নতটিকে বেঁধে দেয় তার আনা ওই একটি অভিযোগের সঙ্গে। তাই পঞ্চম কথাটি গোটা জীবনের উপর ঢালাও কোনো কসম নয়। এটি বাঁধা একটিমাত্র দাবির সঙ্গে, একটিমাত্র জায়গায় উচ্চারিত। আর এর নিজের শব্দ অনুযায়ীই লা’নত তার উপর পড়বে কেবল তখন, যখন দাবিটা মিথ্যা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How the Reciters Voice It",
+          "bn": "কারীদের পাঠে আয়াতটি"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi records how the reciters read the phrase. Nafi' and Ya'qub read an without the doubling, with la'natu in the nominative; the others read anna with the doubling and la'nata in the accusative, the reading of the text quoted at the top. On the word for 'the fifth' he notes one difference, and it falls on the second fifth, at 24:9: Hafs from 'Asim reads it in the accusative, as 'and she testifies the fifth testimony', while the others read it, like the first, as a subject whose predicate is the clause that follows.",
+            "bn": "কারীরা অংশটি কীভাবে পড়েন, বাগাভী তা লিখে রাখেন। নাফি‘ ও ইয়াকূব ‘আন’ পড়েন তাশদীদ ছাড়া, আর ‘লা’নাতু’ পেশ দিয়ে। বাকিরা পড়েন তাশদীদসহ ‘আন্না’, আর ‘লা’নাতা’ যবর দিয়ে। শুরুতে উদ্ধৃত পাঠটি এটাই। ‘পঞ্চম’ শব্দটি নিয়ে তিনি একটিমাত্র পার্থক্যের কথা বলেন, আর সেটা দ্বিতীয় পঞ্চমে, ২৪:৯ আয়াতে। হাফস আসিম থেকে সেখানে শব্দটি পড়েন যবর দিয়ে, অর্থাৎ ‘আর সে পঞ্চম সাক্ষ্যটি দেবে’। অন্যরা সেখানেও প্রথমটির মতো পড়েন, বাক্যের শুরুর শব্দ হিসেবে, যার কথাটা পূর্ণ হয় পরের অংশে।"
+          },
+          {
+            "en": "None of these readings changes what 24:7 says. In every one, the sentence states a curse and hangs its landing on a condition: if he is among the liars. That condition is the whole weight of the verse. The judge cannot test it, and the wife can only answer it with oaths of her own. Only Allah knows whether it is met. This is why what happens in the moment just before the fifth matters so much.",
+            "bn": "এসব পাঠের কোনোটিতেই ২৪:৭ আয়াতের বক্তব্য বদলায় না। প্রতিটি পাঠে বাক্যটি একটা লা’নতের কথা বলে, আর সেটা পড়বে কি না, তা ঝুলিয়ে রাখে একটা শর্তে: সে যদি মিথ্যাবাদী হয়। আয়াতের পুরো ভার এই শর্তেই। বিচারক এটা যাচাই করতে পারেন না। স্ত্রী এর জবাব দিতে পারে কেবল নিজের শপথ দিয়ে। শর্তটা পূরণ হলো কি না, জানেন কেবল আল্লাহ। এ কারণেই পঞ্চম কথার ঠিক আগের মুহূর্তটা এত গুরুত্বপূর্ণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Hand Over the Mouth",
+          "bn": "মুখের উপর একটি হাত"
+        },
+        "p": [
+          {
+            "en": "Abu Dawud records from Ibn 'Abbas: 'When the Prophet (ﷺ) ordered a man and his wife to invoke curses on each other, he ordered a man to put his hand on his mouth when he came to the fifth utterance, saying that it would be the deciding one.' The page gives no grading from Abu Dawud for it (Sunan Abu Dawud 2255). The Arabic word rendered 'deciding' is mujiba: the utterance that makes the outcome binding. Up to the fifth, the man can still stop.",
+            "bn": "আবু দাঊদ ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: স্বামী-স্ত্রীকে পরস্পর লি‘আন করার আদেশ দেওয়ার সময় নবী ﷺ একজনকে বললেন, পঞ্চমবারে এসে সে যেন তার মুখের উপর হাত রাখে, আর তিনি বলছিলেন, এটা চূড়ান্ত করে দেয়। (সুনানে আবু দাঊদ ২২৫৫) পৃষ্ঠাটিতে আবু দাঊদের কোনো মান নির্ণয় দেওয়া নেই। ‘চূড়ান্ত করে দেয়’ বলে যে আরবি শব্দের অনুবাদ, তা হলো মূজিবা: যে উচ্চারণ পরিণামটাকে অবধারিত করে দেয়। পঞ্চম কথার আগ পর্যন্ত লোকটি তখনো থামতে পারে।"
+          },
+          {
+            "en": "Al-Qurtubi cites this very report as ash-Shafi'i's proof for a step in the procedure. After the four testimonies the imam admonishes the man and reminds him of Allah, telling him he fears that, if he has not spoken the truth, he will go away bearing Allah's curse. If the imam sees him set on going ahead, he has someone place a hand over his mouth and tells him that these words make it binding. If he still refuses to stop, he is left to say them.",
+            "bn": "কুরতুবী ঠিক এই বর্ণনাটিকেই শাফিঈর দলিল হিসেবে আনেন, পদ্ধতির একটা ধাপের পক্ষে। চারটি সাক্ষ্যের পর ইমাম লোকটিকে নসীহত করেন, আল্লাহর কথা মনে করিয়ে দেন। বলেন, আমার ভয় হয়, তুমি সত্য না বলে থাকলে আল্লাহর লা’নত মাথায় নিয়ে ফিরবে। তারপরও যদি দেখেন সে এগিয়ে যেতে চায়, কাউকে দিয়ে তার মুখের উপর হাত রাখান, আর জানিয়ে দেন, এ কথাগুলো ব্যাপারটাকে অবধারিত করে দেবে। এরপরও যদি সে না থামে, তাকে বলতে দেওয়া হয়।"
+          },
+          {
+            "en": "Sahih Muslim (1493) carries Ibn 'Umar's account of the first man to ask about this, in which the Prophet ﷺ recited the verses to the man 'and admonished him, and exhorted him and informed him that the torment of the world is less painful than the torment of the Hereafter. He said: No, by Him Who sent you with Truth, I did not tell a lie against her.' The Prophet ﷺ then did the same with the wife. Muslim places this admonition before the oaths; Abu Dawud's hand comes at the fifth. The procedure builds pauses into itself, each one a door left open.",
+            "bn": "সহীহ মুসলিমে (১৪৯৩) ইবন উমার (রাঃ) বর্ণনা দেন সেই প্রথম লোকটির, যে এ বিষয়ে প্রশ্ন করেছিল। সেখানে নবী ﷺ লোকটিকে আয়াতগুলো পড়ে শোনালেন, তাকে নসীহত করলেন, উপদেশ দিলেন, আর জানালেন যে দুনিয়ার শাস্তি আখিরাতের শাস্তির চেয়ে হালকা। লোকটি বলল: না, যিনি আপনাকে সত্য দিয়ে পাঠিয়েছেন তাঁর কসম, আমি তার সম্পর্কে মিথ্যা বলিনি। এরপর নবী ﷺ স্ত্রীর সঙ্গেও তা-ই করলেন। মুসলিমের বর্ণনায় এই নসীহত শপথের আগে, আর আবু দাঊদের বর্ণনায় হাতটি আসে পঞ্চমবারে। পদ্ধতিটা নিজের ভেতরেই কয়েকবার থামার জায়গা রেখেছে, প্রতিটি যেন খোলা রাখা একটা দরজা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Jurists Draw From It",
+          "bn": "ফকীহদের চোখে এর ফল"
+        },
+        "p": [
+          {
+            "en": "The commentators then say what the husband's completed oath does in law, and here they speak as jurists. As-Sa'di writes that once his li'an is complete, the penalty for false accusation set in 24:4 falls away from him, by the apparent sense of the verses; and if he named the man he accused, that man's right to the penalty falls along with hers. Al-Qurtubi says that when the husband has spoken the fifth, the penalty falls from him, and where he has denied a pregnancy, the child is no longer attributed to him.",
+            "bn": "এরপর তাফসীরকারেরা বলেন, স্বামীর শপথ পূর্ণ হলে আইনের দিক থেকে কী ঘটে। এখানে তাঁরা কথা বলেন ফকীহ হিসেবে। সা'দী লেখেন, লোকটির লি‘আন পূর্ণ হলে ২৪:৪ আয়াতে বর্ণিত অপবাদের শাস্তি তার উপর থেকে উঠে যায়, আয়াতগুলোর বাহ্যিক অর্থ এটাই। আর সে যদি কোনো পুরুষের নাম নিয়ে থাকে, তবে স্ত্রীর অধিকারের সঙ্গে সঙ্গে ওই পুরুষের শাস্তি দাবির অধিকারও উঠে যায়। কুরতুবী বলেন, স্বামী পঞ্চম কথাটি বলে ফেললে শাস্তি তার উপর থেকে উঠে যায়। আর সে গর্ভের সন্তান অস্বীকার করে থাকলে সেই সন্তানকে আর তার বলে গণ্য করা হয় না।"
+          },
+          {
+            "en": "On the marriage they differ. Ibn Kathir reports that for ash-Shafi'i and a large body of scholars she is separated from him by this oath of his itself and forbidden to him forever; he gives her her dower, and the prescribed penalty becomes due on her unless she swears in turn. Ma'arif al-Qur'an, giving Abu Hanifa's ruling, says the two become unlawful to each other once the li'an is complete, but the separation itself comes through the husband's divorce, or failing that a judge's decree with the force of divorce. The sources keep both views.",
+            "bn": "বিয়ের প্রশ্নে তাঁদের মত আলাদা। ইবন কাসীর জানান, শাফিঈ ও বহু আলেমের মতে স্বামীর এই শপথেই স্ত্রী তার থেকে আলাদা হয়ে যায়, আর চিরদিনের জন্য তার উপর হারাম হয়ে যায়। স্বামী তাকে মোহর দিয়ে দেবে। আর স্ত্রী পাল্টা শপথ না করলে নির্ধারিত শাস্তি তার উপর বর্তায়। মাআরিফুল কুরআন আবু হানীফার মত তুলে ধরে বলে, লি‘আন পূর্ণ হলে দুজন একে অপরের জন্য হারাম হয়ে যায়। তবে বিচ্ছেদ কার্যকর হয় স্বামীর তালাকে, আর সে তালাক না দিলে বিচারকের রায়ে, যার প্রভাব তালাকের মতোই। উৎসগুলো দুটি মতই রেখে দেয়।"
+          },
+          {
+            "en": "If either spouse draws back, the sources again do not speak with a single voice. Al-Qurtubi says that a husband who refuses these oaths, or any part of them, receives the penalty; Ma'arif al-Qur'an says he is held until he swears or admits he lied. For the wife, as-Sa'di notes two views among scholars: that the penalty is carried out on her once he has sworn and she refuses, or that she is held. He takes the first, reading 24:8: her oath could not 'avert' a punishment that had not become due. Ma'arif al-Qur'an holds that she is held until she swears or confesses.",
+            "bn": "দুজনের কেউ পিছিয়ে গেলে কী হবে, তা নিয়েও উৎসগুলোতে একাধিক কথা আছে। কুরতুবী বলেন, স্বামী এ শপথগুলো বা এর কোনো অংশ করতে অস্বীকার করলে তার উপর শাস্তি কার্যকর হবে। মাআরিফুল কুরআন বলে, শপথ না করা বা মিথ্যা স্বীকার না করা পর্যন্ত তাকে আটকে রাখা হবে। স্ত্রীর বেলায় সা'দী আলেমদের দুটি মত উল্লেখ করেন। স্বামী শপথ করার পর স্ত্রী অস্বীকার করলে হয় তার উপর শাস্তি কার্যকর হবে, নয়তো তাকে আটকে রাখা হবে। তিনি প্রথম মতটি নেন ২৪:৮ আয়াত থেকে: শাস্তি আগে বর্তায়নি, এমন শাস্তি তার শপথ ‘রহিত’ করবে কীভাবে? মাআরিফুল কুরআনের মত, শপথ বা স্বীকারোক্তি না করা পর্যন্ত তাকে আটকে রাখা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Husbands, One Question",
+          "bn": "দুই স্বামী, একই প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The tafsirs name two occasions. At-Tabari relays from 'Ikrima that the verses concern Hilal ibn Umayya (RA), and al-Baghawi gives al-Bukhari's report from Ibn 'Abbas that Hilal brought the charge before the Prophet ﷺ and the verses came down (Sahih al-Bukhari 4747). Al-Baghawi opens his account of the occasion with Sahl ibn Sa'd's report about 'Uwaymir al-'Ajlani (RA), which at-Tabari also relays through az-Zuhri. How the two fit together is taken up under 24:6; here it is enough that the sources name both.",
+            "bn": "তাফসীরগুলো দুটি উপলক্ষের কথা বলে। তাবারী ইকরিমা থেকে বর্ণনা করেন, আয়াতগুলো হিলাল ইবন উমাইয়া (রাঃ)-কে নিয়ে। বাগাভী আনেন ইবন আব্বাস (রাঃ) থেকে বুখারীর বর্ণনা: হিলাল নবী ﷺ-এর সামনে অভিযোগটি তুলেছিলেন, তখন আয়াতগুলো নাযিল হয়। (সহীহ বুখারী ৪৭৪৭) আবার উপলক্ষের আলোচনা বাগাভী শুরুই করেন উওয়াইমির আজলানী (রাঃ) সম্পর্কে সাহল ইবন সা‘দ (রাঃ)-এর বর্ণনা দিয়ে। তাবারীও যুহরীর সূত্রে সেটি আনেন। দুটি ঘটনা কীভাবে মেলে, সে আলোচনা ২৪:৬ আয়াতে হয়েছে। এখানে এটুকু বলাই যথেষ্ট যে উৎসগুলো দুজনেরই নাম নেয়।"
+          },
+          {
+            "en": "Al-Bukhari's wording of Sahl's report (Sahih al-Bukhari 5308) ends: 'So they carried out the process of Lian while I was present among the people with Allah's Messenger (ﷺ). When they had finished their Lian, 'Uwaimir said, \"O Allah's Messenger (ﷺ)! If I should now keep her with me as a wife, then I have told a lie.\" So he divorced her thrice before Allah's Messenger (ﷺ) ordered him.' Ibn Shihab adds that this became the practice for couples in li'an. 'Uwaymir's own words show how he weighed his oath: to stay would make it a lie.",
+            "bn": "সাহলের বর্ণনাটির বুখারীর ভাষ্য (সহীহ বুখারী ৫৩০৮) শেষ হয় এভাবে: আমি আল্লাহর রাসূল ﷺ-এর কাছে লোকজনের মধ্যে উপস্থিত ছিলাম, আর তারা দুজন লি‘আন করল। লি‘আন শেষ হলে উওয়াইমির বললেন, হে আল্লাহর রাসূল, এখন যদি আমি তাকে স্ত্রী হিসেবে রেখে দিই, তবে তো আমি তার সম্পর্কে মিথ্যা বলেছি। এরপর আল্লাহর রাসূল ﷺ আদেশ দেওয়ার আগেই তিনি তাকে তিন তালাক দিলেন। ইবন শিহাব যোগ করেন, লি‘আনে জড়ানো দম্পতিদের জন্য পরে এটাই রীতি হয়ে যায়। উওয়াইমিরের নিজের কথাতেই বোঝা যায়, নিজের শপথকে তিনি কতটা ভারী মনে করেছিলেন: থেকে গেলে শপথটাই মিথ্যা হয়ে যেত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Your Reckoning Rests With Allah",
+          "bn": "হিসাব আল্লাহর কাছে"
+        },
+        "p": [
+          {
+            "en": "Sahih Muslim (1493) also carries, from Ibn 'Umar, the Prophet's ﷺ words to a couple who had sworn: 'Your account is with Allah. One of you must be a liar. You have now no right over this woman.' That is the fifth's condition spoken plainly. The court has done what a court can: taken the oaths, lifted the penalties, ended the marriage. It has not found out who lied. Ma'arif al-Qur'an says the same: both have escaped punishment in this world, and in the Hereafter the one who lied will suffer it, since Allah knows best who that is.",
+            "bn": "সহীহ মুসলিমে (১৪৯৩) ইবন উমার (রাঃ) থেকে আরও আছে, শপথ শেষ করা এক দম্পতিকে নবী ﷺ বলেছিলেন: তোমাদের হিসাব আল্লাহর কাছে। তোমাদের একজন অবশ্যই মিথ্যাবাদী। এই নারীর উপর তোমার আর কোনো অধিকার নেই। পঞ্চম কথার শর্তটাই এখানে খোলাখুলি বলা হলো। আদালতের যা করার ছিল, সে তা করেছে। শপথ নিয়েছে, শাস্তি তুলে নিয়েছে, বিয়ের বাঁধন শেষ করেছে। কে মিথ্যা বলেছে, তা সে বের করেনি। মাআরিফুল কুরআনও একই কথা বলে: দুনিয়ার শাস্তি থেকে দুজনই বেঁচে গেল, কিন্তু আখিরাতে মিথ্যাবাদী শাস্তি পাবে, কারণ কে মিথ্যাবাদী, আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "The verses that follow keep one more door open. Ibn Kathir, on 24:10, reads 'Allah is Accepting of Repentance' as His accepting it from His servants even when it comes after they have sworn a confirmed oath. So the fifth word does not seal the matter forever. Whoever swore falsely is still addressed by the One who accepts repentance, and whoever swore truly has placed the matter where it is safest. Between the two, nobody else is given a share in the judgment.",
+            "bn": "পরের আয়াত আরও একটা দরজা খোলা রাখে। ২৪:১০ আয়াতে ‘আল্লাহ তাওবা কবুলকারী’ কথাটির ব্যাখ্যায় ইবন কাসীর বলেন, বান্দারা পাকা কসম খাওয়ার পরও যদি তওবা করে, তিনি তা কবুল করেন। তাই পঞ্চম কথাটি ব্যাপারটাকে চিরদিনের জন্য সিলমোহর করে দেয় না। যে মিথ্যা কসম খেয়েছে, তওবা কবুলকারী আল্লাহর ডাক তখনো তার জন্য আছে। আর যে সত্য কসম খেয়েছে, সে ব্যাপারটা রেখে দিয়েছে সবচেয়ে নিরাপদ জায়গায়। এ দুজনের মাঝখানে বিচারের কোনো ভাগ আর কাউকে দেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Shield, Never a Weapon",
+          "bn": "ঢাল, অস্ত্র কখনো নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying firmly. The fifth oath belongs to a court procedure, and it protects both spouses: the husband from the lashes of 24:4 when he cannot bring four witnesses, and the wife through her own oaths in 24:8 and 24:9. It licenses no one to accuse anyone, or to shame anyone, in private or in public, and it licenses nothing against women. Ma'arif al-Qur'an states as a ruling that after the li'an it is not permissible to call the woman an adulteress, nor to call her child illegitimate.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। পঞ্চম শপথ একটি বিচারপ্রক্রিয়ার অংশ, আর তা স্বামী-স্ত্রী দুজনকেই রক্ষা করে। চারজন সাক্ষী আনতে না পারলে ২৪:৪ আয়াতের বেত্রাঘাত থেকে রক্ষা পায় স্বামী। আর ২৪:৮ ও ২৪:৯ আয়াতে নিজের শপথের মাধ্যমে রক্ষা পায় স্ত্রী। এ আয়াত কাউকে কারও বিরুদ্ধে অভিযোগ তোলার অনুমতি দেয় না, গোপনে বা প্রকাশ্যে কাউকে লজ্জায় ফেলারও না। নারীদের বিরুদ্ধে কোনো কিছুরই অনুমতি এতে নেই। মাআরিফুল কুরআন বিধান হিসেবে বলে, লি‘আনের পর ওই নারীকে ব্যভিচারিণী বলা জায়েয নয়, তার সন্তানকে অবৈধ বলাও জায়েয নয়।"
+          },
+          {
+            "en": "Read rightly, the verse is a brake. It makes the gravest charge the costliest one to bring: a man must put his own soul under Allah's curse to bring it, before others, with a hand ready at his mouth. For the rest of us, who stand in no such court, the lesson runs away from accusation, not towards it. If a husband with every reason to speak must stake so much, how much should a passing word about anyone's honour weigh for someone who has seen nothing at all?",
+            "bn": "ঠিকভাবে পড়লে আয়াতটি আসলে একটা লাগাম। সবচেয়ে গুরুতর অভিযোগটি তোলাকেই এটি সবচেয়ে দামি করে দেয়। তা তুলতে হলে মানুষের সামনে নিজের প্রাণটাকেই আল্লাহর লা’নতের নিচে রাখতে হয়, আর মুখের কাছে তখন একটা হাত তৈরি থাকে। আমরা যারা এমন কোনো আদালতে দাঁড়িয়ে নেই, আমাদের জন্য শিক্ষাটা অভিযোগের দিকে নয়, অভিযোগ থেকে দূরে সরার দিকে। কথা বলার সব কারণ থাকা একজন স্বামীকে যদি এত বড় বাজি রাখতে হয়, তবে যে কিছুই দেখেনি, কারও সম্মান নিয়ে তার মুখের একটা হালকা কথার ওজন কত হওয়া উচিত?"
+          }
+        ]
+      }
+    ]
+  },
   "24:12": {
     "sections": [
       {

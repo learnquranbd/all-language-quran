@@ -35159,6 +35159,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The cry of regret in the Fire changes nothing, while the same regret today can become repentance. Use the room you still have to turn back before it closes.",
     "lessonBn": "জাহান্নামে আফসোসের আর্তনাদ কিছুই বদলায় না, অথচ আজকের সেই একই আফসোস তওবা হয়ে উঠতে পারে। পথ বন্ধ হওয়ার আগে হাতে থাকা সুযোগটুকু দিয়ে ফিরে আসুন।"
+  },
+  "24:7": {
+    "reflectionEn": "Four times he has sworn that he is telling the truth. Then the verse asks one more sentence of him, and this one turns back on himself: may the curse of Allah be upon him if he is among the liars. The court cannot see into the matter, and it does not pretend to. It lets the man stake his own soul on his word and leaves the reckoning with Allah. Nothing here invites anyone to accuse; it slows the accuser down at the very last step, with one more chance to stop. When I am sure I am right, would I put my own name under my words like this? And how lightly do I say things about others that I could never swear to?",
+    "reflectionBn": "চারবার সে শপথ করে বলেছে, সে সত্য বলছে। এরপর আয়াতটি তার কাছে আরও একটা বাক্য চায়, আর এবারের বাক্যটা ফিরে আসে তার নিজের দিকেই: সে যদি মিথ্যাবাদী হয়, তবে তার উপর আল্লাহর লা’নত। আদালত ভেতরের সত্যটা দেখতে পায় না, দেখার ভানও করে না। লোকটিকে নিজের কথার পেছনে নিজের প্রাণটাই বাজি রাখতে দেয়, আর হিসাবটা ছেড়ে দেয় আল্লাহর কাছে। এখানে কাউকে অভিযোগ তুলতে ডাকা হচ্ছে না। বরং একেবারে শেষ ধাপে এসে অভিযোগকারীকে থামানো হয়, থেমে যাওয়ার আরেকটা সুযোগ দেওয়া হয়। নিজেকে ঠিক বলে নিশ্চিত মনে হলে আমি কি নিজের কথার নিচে এভাবে নিজের নাম লিখে দিতে পারতাম? আর যে কথা কসম করে কখনো বলতে পারতাম না, অন্যের সম্পর্কে তেমন কথা আমি কত সহজে বলে ফেলি?",
+    "pointsEn": [
+      "Is there something I have said about someone that I would not repeat if I had to call Allah's curse on myself for it?",
+      "When I swear by Allah, even over small things, do I feel the weight of the One I am calling on?",
+      "Before I bring a charge against anyone, do I stop at the last step and ask whether I truly know?",
+      "Where the truth is hidden from me, can I leave it with Allah instead of settling it with my tongue?",
+      "Do I give the people closest to me the same protection from my words that I want for my own name?"
+    ],
+    "pointsBn": [
+      "কারও সম্পর্কে এমন কোনো কথা কি আমি বলেছি, যেটা আবার বলতে হলে নিজের উপর আল্লাহর লা’নত ডাকতে হবে জানলে আর মুখে আনতাম না?",
+      "ছোটখাটো ব্যাপারেও আল্লাহর নামে কসম খাওয়ার সময় কি আমি টের পাই, কাকে সাক্ষী ডাকছি?",
+      "কারও বিরুদ্ধে অভিযোগ তোলার আগে শেষ ধাপে এসে কি একবার থেমে নিজেকে জিজ্ঞেস করি, আমি কি সত্যিই জানি?",
+      "যে সত্য আমার চোখের আড়ালে, তা কি মুখের জোরে মীমাংসা না করে আল্লাহর হাতে ছেড়ে দিতে পারি?",
+      "নিজের সুনামের জন্য যে আড়াল চাই, সবচেয়ে কাছের মানুষদের কি আমার কথা থেকে সেই আড়ালটুকু দিই?"
+    ],
+    "lessonEn": "Weigh every charge as if your own soul stood behind it, and leave to Allah what no witness saw.",
+    "lessonBn": "প্রতিটি অভিযোগ এমনভাবে ওজন করুন যেন তার পেছনে আপনার নিজের প্রাণ দাঁড়িয়ে আছে, আর যা কোনো সাক্ষী দেখেনি তা আল্লাহর হাতে ছেড়ে দিন।"
   }
 };
 
