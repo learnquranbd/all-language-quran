@@ -3435,6 +3435,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "22:63": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Truth Is Named",
+          "bn": "সত্যের ঘোষণার পর বৃষ্টি"
+        },
+        "p": [
+          {
+            "en": "The verses before this one close a run of reasons. 22:61 speaks of night entering day, and 22:62 declares that Allah is the Truth, that what they call on besides Him is falsehood, and that He is the Most High, the Great. Then the surah turns from statement to the open air: alam tara, do you not see that Allah sent down water from the sky, and the earth becomes green? Ibn Kathir opens his comment by saying that this too is among the proofs of His power and the greatness of His sovereignty.",
+            "bn": "এর আগের আয়াতগুলো একের পর এক কারণ দেখিয়ে শেষ হয়েছে। ২২:৬১ আয়াতে রাতকে দিনের ভেতরে প্রবেশ করানোর কথা। ২২:৬২ ঘোষণা করে, আল্লাহই সত্য, তাঁকে ছাড়া তারা যাকে ডাকে তা বাতিল, আর তিনিই সর্বোচ্চ, মহান। এরপর সূরা ঘোষণা ছেড়ে পাঠককে নিয়ে আসে খোলা আকাশের নিচে: আলাম তারা, তুমি কি দেখ না, আল্লাহ আকাশ থেকে পানি নামিয়েছেন, ফলে পৃথিবী সবুজ হয়ে ওঠে? ইবন কাসীর তাঁর ব্যাখ্যা শুরু করেন এ কথা দিয়ে: এটাও তাঁর কুদরত আর বিশাল রাজত্বের প্রমাণগুলোর একটি।"
+          },
+          {
+            "en": "Whom does the question address? At-Tabari supplies the vocative, O Muhammad, so the Prophet ﷺ is the first one asked, and the Muyassar reads it the same way, O Messenger. As-Sa'di widens it. He calls the verse an urging from Allah and an encouragement to look at His signs that point to His oneness and His perfection, and he glosses alam tara as: did you not witness, with your sight and your insight? The same opening returns two verses later, in 22:65, whose article dwells on the question itself. Here the weight falls on what follows it.",
+            "bn": "প্রশ্নটা কাকে করা হচ্ছে? তাবারী সম্বোধনটা খুলে বলেন: হে মুহাম্মাদ। অর্থাৎ প্রথম প্রশ্নটা নবী ﷺ-কে। মুয়াসসারও একইভাবে পড়ে: হে রাসূল। সা'দী পরিধিটা বড় করেন। তাঁর মতে আয়াতটি আল্লাহর পক্ষ থেকে তাগিদ, তাঁর সেই নিদর্শনগুলোর দিকে তাকানোর উৎসাহ, যা তাঁর একত্ব আর পূর্ণতার দিকে পথ দেখায়। আলাম তারা-র অর্থ তিনি করেন: তুমি কি চোখ দিয়ে আর অন্তর্দৃষ্টি দিয়ে প্রত্যক্ষ করোনি? এই একই সূচনা দুই আয়াত পরে ২২:৬৫-এ আবার আসে, আর সেই আয়াতের প্রবন্ধে প্রশ্নটা নিয়েই আলোচনা আছে। এখানে ভার পড়েছে প্রশ্নের পরের অংশে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Past Verb, a Present Green",
+          "bn": "অতীতের বর্ষণ, বর্তমানের সবুজ"
+        },
+        "p": [
+          {
+            "en": "The verse joins two tenses. Anzala, He sent down, is past; fa-tusbihu, and it becomes, is present, and it ends in u, the indicative, where a reader might expect the subjunctive that a fa after a question usually takes. Al-Qurtubi meets this head on. Fa-tusbihu is not the answer to the question, he says, for then it would be mansub; for al-Khalil and Sibawayh it is a statement. Al-Khalil's paraphrase runs: take note! Allah sent down water from the sky, and such and such came about.",
+            "bn": "আয়াতটি দুটি কালকে পাশাপাশি জুড়ে দিয়েছে। আনযালা, তিনি নামিয়েছেন, অতীত কাল। ফাতুসবিহু, ফলে হয়ে ওঠে, বর্তমান কাল। তার শেষে আবার পেশ, অথচ প্রশ্নের পরে ফা এলে সাধারণত যবর আশা করা হয়। কুরতুবী প্রশ্নটার মুখোমুখি হন সরাসরি। তিনি বলেন, ফাতুসবিহু প্রশ্নের জবাব নয়। জবাব হলে শেষে যবর হতো। খলীল ও সীবাওয়াইহ-এর মতে এটি খবর, মানে একটা বিবরণ। খলীল অর্থটা এভাবে বলেন: খেয়াল করো! আল্লাহ আকাশ থেকে পানি নামিয়েছেন, ফলে এই এই ঘটেছে।"
+          },
+          {
+            "en": "At-Tabari and al-Qurtubi both lean on the same line of poetry, which al-Qurtubi gives to Jamil: have you not asked the abandoned campsite, so it speaks, and can a barren waste tell you anything today? Its meaning, both say, is: you did ask it, and it spoke. At-Tabari states the reason for the indicative in his own words. The sense of the speech is a report, as though it were said: know, O Muhammad, that Allah sends down water from the sky, and the earth becomes green.",
+            "bn": "তাবারী ও কুরতুবী দুজনেই একই কবিতার পঙক্তি দিয়ে কথাটা পোক্ত করেন। কুরতুবী পঙক্তিটি জামীলের বলে উল্লেখ করেন: তুমি কি পরিত্যক্ত বসতির ভিটাকে জিজ্ঞেস করোনি, আর সে কথা বলে ওঠে? আজ কি কোনো ধু ধু মরুপ্রান্তর তোমাকে কিছু জানাতে পারে? দুজনেই বলেন, এর মানে: তুমি জিজ্ঞেস করেছ, আর সে কথা বলেছে। শেষে পেশ কেন, তাবারী নিজের ভাষায় তার কারণও বলেন। কথাটার মর্ম বিবরণ দেওয়া, যেন বলা হচ্ছে: জেনে রাখো হে মুহাম্মাদ, আল্লাহ আকাশ থেকে পানি নামান, ফলে পৃথিবী সবুজ হয়ে ওঠে।"
+          },
+          {
+            "en": "Al-Qurtubi records two more readings. Some take it as a question of confirmation: you have indeed seen, so consider how the earth turns green! Others join the verb to what precedes it, because the meaning is: do you not see that Allah sends down. Al-Farra, as al-Qurtubi reports him, also reads alam tara as a statement, as people say: know that Allah sends down water from the sky. The routes differ, but all arrive at one place: the verse states a fact it expects you to have seen already.",
+            "bn": "কুরতুবী আরও দুটি পাঠ উল্লেখ করেন। কারও মতে প্রশ্নটা নিশ্চিত করার জন্য: তুমি তো দেখেছই, এবার ভেবে দেখো, মাটি কীভাবে সবুজ হয়ে ওঠে! আবার কারও মতে ক্রিয়াটি আগের অংশের সঙ্গে জোড়া, কারণ অর্থটা দাঁড়ায়: তুমি কি দেখ না যে আল্লাহ নামান। কুরতুবীর বর্ণনায় ফাররাও আলাম তারা-কে খবর হিসেবেই পড়েন, যেমন কথায় বলা হয়: জেনে রাখো, আল্লাহ আকাশ থেকে পানি নামান। পথ আলাদা, কিন্তু সব পথ এসে মেলে একটিই জায়গায়। আয়াতটি এমন এক সত্য জানাচ্ছে, যা আপনি আগেই দেখেছেন বলে সে ধরে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Clothed in Every Noble Kind",
+          "bn": "সবুজের পোশাকে সাজা মাটি"
+        },
+        "p": [
+          {
+            "en": "What does mukhdarra mean? At-Tabari says green with the plants that grow in it, and al-Baghawi says simply, with vegetation. Al-Qurtubi explains the word's form: it means possessed of greenness, like mabqala, a place of herbs, and masba'a, a place of wild beasts. Then he makes the point the present tense carries. The phrase, he writes, expresses the earth's hastening to put out plants right after the water falls, and its going on doing so as a settled habit. The rain fell once; the greening keeps happening.",
+            "bn": "মুখদাররা শব্দের অর্থ কী? তাবারী বলেন: মাটিতে যে উদ্ভিদ জন্মায় তা দিয়ে সবুজ। বাগাভী শুধু বলেন: উদ্ভিদে। কুরতুবী শব্দের গড়নটা ব্যাখ্যা করেন। এর মানে সবুজের অধিকারী, যেমন শাকসবজির জায়গাকে বলা হয় মাবকালা, আর হিংস্র জন্তুর জায়গাকে মাসবাআ। এরপর তিনি সেই কথাটা বলেন, যা বর্তমান কালটা বহন করছে। তাঁর ভাষায়, কথাটা বোঝায় পানি পড়ার পরপরই উদ্ভিদ বের করে দিতে মাটির তাড়াহুড়া, আর অভ্যাসমতো বারবার এমনই করে যাওয়া। বৃষ্টি পড়েছে একবার। সবুজ হয়ে ওঠাটা চলতেই থাকে।"
+          },
+          {
+            "en": "As-Sa'di paints both the before and the after. The rain comes down on a land humbled and parched, its reaches gone dusty, its trees and plants dried out. Then it becomes green, clothed in every noble kind, and takes on a delightful look. Ibn Kathir describes the same ground before rain as barren land with nothing growing on it, still, dry, darkened and bare, and he glosses mukhdarra as green after its dryness and its barrenness. The scene is not rare. Its force lies in how ordinary it is, set before every eye.",
+            "bn": "সা'দী আগের আর পরের দুটো ছবিই আঁকেন। বৃষ্টি নামে এমন মাটিতে, যা নিস্তেজ, খরায় পোড়া, যার চারপাশ ধুলোয় ঢাকা, গাছপালা শুকিয়ে গেছে। তারপর সে সবুজ হয়ে ওঠে, সব রকম উৎকৃষ্ট উদ্ভিদে সেজে ওঠে, দেখতে হয় মনোরম। ইবন কাসীরও বৃষ্টির আগের মাটিকে বর্ণনা করেন এমন অনুর্বর জমি হিসেবে, যেখানে কিছুই জন্মায় না, নিথর, শুকনো, কালচে আর রুক্ষ। মুখদাররা-র অর্থ তিনি করেন: শুষ্কতা আর অনুর্বরতার পরে সবুজ। দৃশ্যটা দুর্লভ কিছু নয়। এর জোর এখানেই যে তা একেবারে সাধারণ, সবার চোখের সামনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Each Sequel by Its Measure",
+          "bn": "প্রতিটি পরম্পরার নিজস্ব মাপ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir turns to the small letter fa, and then. Here, he says, it marks succession, and each thing follows according to its own nature. His example is 23:14, where the stages of the embryo are joined by the same fa: We made the drop a clinging clot, then We made the clot a lump, then We made the lump bones. He adds that it is established in the two Sahihs that between each two stages lie forty days, and still they are linked by fa. So too here: the greening follows the rain, in its own time.",
+            "bn": "ইবন কাসীর নজর দেন ছোট্ট হরফ ফা-এর দিকে, যার অর্থ 'ফলে' বা 'তারপর'। তিনি বলেন, এখানে ফা বোঝায় একটির পর আরেকটি আসা, আর প্রত্যেক জিনিস পরে আসে তার নিজের স্বভাব অনুযায়ী। উদাহরণ হিসেবে তিনি আনেন ২৩:১৪, যেখানে ভ্রূণের ধাপগুলো একই ফা দিয়ে জোড়া: আমি শুক্রবিন্দুকে পরিণত করলাম জমাট রক্তে, তারপর জমাট রক্তকে মাংসপিণ্ডে, তারপর মাংসপিণ্ডকে হাড়ে। তিনি যোগ করেন, দুই সহীহ গ্রন্থে প্রমাণিত যে প্রতি দুই ধাপের মাঝে চল্লিশ দিন। তবু ধাপগুলো ফা দিয়েই জোড়া। এখানেও তাই। সবুজ আসে বৃষ্টির পরে, তবে নিজের সময় মেনে।"
+          },
+          {
+            "en": "The hadith he means is in al-Bukhari (3208), from 'Abdullah ibn Mas'ud. In the Darussalam English its opening reads: \"(The matter of the Creation of) a human being is put together in the womb of the mother in forty days, and then he becomes a clot of thick blood for a similar period, and then a piece of flesh for a similar period.\" It is not attached to this verse; Ibn Kathir uses it only to show how fa can bridge a span of time. None of the tafsirs read for 22:63 attaches a hadith to the verse itself.",
+            "bn": "তিনি যে হাদীসের কথা বলছেন, তা আছে বুখারীতে (৩২০৮), আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে। এর শুরুর অংশ: \"তোমাদের প্রত্যেকের সৃষ্টির উপাদান মায়ের পেটে চল্লিশ দিন ধরে একত্র করা হয়, তারপর সমান সময় ধরে সে হয় জমাট রক্ত, তারপর সমান সময় ধরে মাংসপিণ্ড।\" হাদীসটি এ আয়াতের সঙ্গে যুক্ত নয়। ইবন কাসীর এটি এনেছেন শুধু দেখাতে যে ফা কীভাবে মাঝখানের সময়ের ফাঁক পেরিয়ে দুটো জিনিসকে জোড়ে। ২২:৬৩-এর জন্য যে তাফসীরগুলো পড়া হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Green by the Next Morning",
+          "bn": "রাত পোহালেই সবুজ"
+        },
+        "p": [
+          {
+            "en": "Does the greening come at once? Ibn Kathir mentions, from some of the people of the Hijaz, that the earth turns green immediately after the rain, and leaves it there: Allah knows best. Al-Qurtubi quotes Ibn 'Atiyya relaying from 'Ikrima that this happens only in Makkah and Tihama. Ibn 'Atiyya explains the reasoning. 'Ikrima took fa-tusbihu to mean the very morning after the night of rain, and held that in other lands the greening is slower to come. On that reading the verse pictures one night and one dawn.",
+            "bn": "সবুজ কি সঙ্গে সঙ্গেই আসে? ইবন কাসীর হিজাযের কিছু লোকের বরাতে বলেন, বৃষ্টির ঠিক পরেই মাটি সবুজ হয়ে যায়। তারপর কথাটা ওখানেই রেখে দেন: আল্লাহই ভালো জানেন। কুরতুবী ইবন আতিয়্যার উদ্ধৃতি দেন, যিনি ইকরিমা থেকে বর্ণনা করেন যে এমনটা শুধু মক্কা আর তিহামাতেই হয়। ইবন আতিয়্যা যুক্তিটা খুলে বলেন। ইকরিমা ফাতুসবিহু বলতে বুঝেছেন বৃষ্টির রাতের ঠিক পরের সকাল, আর তাঁর মত ছিল, অন্য দেশে সবুজ আসতে সময় লাগে। এই পাঠে আয়াতটি আঁকে একটি রাত আর একটি ভোরের ছবি।"
+          },
+          {
+            "en": "The quoted passage then adds a first-hand note: I have seen this in the far Sus. Rain fell by night after a drought, and by morning a sandy land the winds had scoured had turned green with a weak, fine growth. Al-Qurtubi's own gloss, given above, speaks instead of the earth hastening after rain as a lasting habit, tied to no one place. The two notes hardly quarrel. One records a dawn someone witnessed; the other reads the present tense as a pattern. Neither is offered here as a claim about how fast plants grow.",
+            "bn": "উদ্ধৃত অংশে এরপর নিজের চোখে দেখা একটা ঘটনা জুড়ে দেওয়া হয়: দূর সূস অঞ্চলে আমি এটা দেখেছি। খরার পর রাতে বৃষ্টি নেমেছিল, আর সকালে বাতাসে ক্ষয়ে যাওয়া বালুময় সেই মাটি দুর্বল, সরু চারায় সবুজ হয়ে উঠেছিল। কুরতুবীর নিজের যে ব্যাখ্যা আগে এসেছে, তা বরং বলে বৃষ্টির পর মাটির তাড়াতাড়ি সাড়া দেওয়ার কথা, স্থায়ী অভ্যাস হিসেবে, কোনো এক জায়গার সঙ্গে বেঁধে না দিয়ে। দুটি কথার মধ্যে তেমন বিরোধ নেই। একটি কারও চোখে দেখা এক ভোরের বিবরণ, অন্যটি বর্তমান কালকে পড়ে চলমান নিয়ম হিসেবে। উদ্ভিদ কত দ্রুত গজায়, সে বিষয়ে এখানে কোনো দাবি করা হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Water Led to the Hidden Seed",
+          "bn": "লুকোনো বীজের কাছে পানি"
+        },
+        "p": [
+          {
+            "en": "The verse closes: inna Allaha latifun khabir, Allah is Subtle, Aware. The tafsirs read Latif in two directions. One faces the earth. At-Tabari says He is Latif in drawing the plants out of the ground by that water, and in originating whatever else He wills. An unnamed view in al-Qurtubi says the same. The other faces people. Ibn 'Abbas, as al-Qurtubi reports him, says Latif with the provision of His servants. Al-Baghawi joins the two, and the Muyassar says He is kind to His servants in bringing the plants out.",
+            "bn": "আয়াতটি শেষ হয়: ইন্নাল্লাহা লাতীফুন খাবীর, নিশ্চয় আল্লাহ সূক্ষ্মদর্শী, সব খবর রাখেন। তাফসীরগুলো লাতীফের ব্যাখ্যা নেয় দুই দিকে। একদিকে মাটি। তাবারী বলেন, ওই পানি দিয়ে মাটি থেকে উদ্ভিদ বের করে আনায় তিনি লাতীফ, আর যা কিছু নতুন করে সৃষ্টি করতে চান, তাতেও। কুরতুবীতে নাম ছাড়া একটি মতও একই কথা বলে। অন্যদিকে মানুষ। কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন, বান্দাদের রিযকের ব্যাপারে তিনি লাতীফ। বাগাভী দুটোকে একসঙ্গে বলেন। আর মুয়াসসার বলে, উদ্ভিদ বের করে এনে তিনি বান্দাদের প্রতি দয়া করেন।"
+          },
+          {
+            "en": "Ibn Kathir makes Latif a knowledge that reaches the smallest thing. Allah knows, he says, every grain in every region and corner of the earth, however small; nothing is hidden from Him, and He brings to each its share of the water and makes it grow. He sets beside it Luqman's words in 31:16, which end on the same pair of names: a mustard seed, even inside a rock, Allah will bring it out. He also cites 27:25, 6:59 and 10:61 on what lies hidden in the heavens and the earth.",
+            "bn": "ইবন কাসীরের কাছে লাতীফ মানে এমন জ্ঞান, যা সবচেয়ে ছোট জিনিসেও পৌঁছে যায়। তিনি বলেন, পৃথিবীর প্রতিটি অঞ্চলে, প্রতিটি কোণে যত দানা আছে, যত ছোটই হোক, আল্লাহ সব জানেন। কিছুই তাঁর কাছে গোপন নয়। প্রতিটি দানার কাছে তিনি তার ভাগের পানি পৌঁছে দেন, আর তা দিয়ে তাকে গজিয়ে তোলেন। এর পাশে তিনি রাখেন ৩১:১৬-তে লুকমানের কথা, যা শেষ হয় এই একই দুই নামে: সরিষার দানা পাথরের ভেতরে থাকলেও আল্লাহ তা বের করে আনবেন। আকাশ ও পৃথিবীর গোপন জিনিস নিয়ে তিনি ২৭:২৫, ৬:৫৯ ও ১০:৬১ আয়াতও উল্লেখ করেন।"
+          },
+          {
+            "en": "As-Sa'di draws the two directions together. Al-Latif is the One who perceives the inner and hidden sides of things, who drives good to His servant and turns harm from him by subtle ways the servant cannot see. Part of that subtlety, he says, is that Allah shows His servant His might in requital and the fullness of His power, and then shows His kindness after the servant has come near to ruin. And part of it is here: He knows where each drop falls and which seeds lie buried, and drives that water to that seed, hidden from every creature's knowledge.",
+            "bn": "সা'দী দুই দিককে এক জায়গায় আনেন। লাতীফ তিনি, যিনি সব জিনিসের ভেতরের ও গোপন দিক জানেন, যিনি বান্দার কাছে কল্যাণ পৌঁছে দেন আর অকল্যাণ সরিয়ে দেন এমন সূক্ষ্ম পথে, যা বান্দার চোখে পড়ে না। তাঁর মতে এই সূক্ষ্মতার একটা দিক হলো, আল্লাহ বান্দাকে আগে দেখান প্রতিফল দেওয়ায় তাঁর প্রতাপ আর তাঁর পূর্ণ ক্ষমতা। তারপর বান্দা যখন ধ্বংসের কিনারায়, তখন প্রকাশ করেন নিজের দয়া। আরেকটা দিক এখানেই। তিনি জানেন কোথায় প্রতিটি ফোঁটা পড়বে, মাটির নিচে কোন বীজ লুকিয়ে আছে। তারপর সেই পানিকে নিয়ে যান সেই বীজের কাছে, যার খবর সৃষ্টির কারও জানা ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Despair Hidden Under Drought",
+          "bn": "খরার নিচে চাপা হতাশা"
+        },
+        "p": [
+          {
+            "en": "Khabir, Aware, is glossed with the same split. At-Tabari keeps to the field: He is aware of the grain the plant will yield. The Muyassar turns to people: aware of what is good for them. Al-Qurtubi's unnamed view says aware of their need and their want. The most searching gloss is the one al-Qurtubi gives from Ibn 'Abbas: Khabir of the despair a servant hides within when the rain is delayed. Al-Baghawi words it close to that: aware of what is in the servants' hearts when the rain holds back from them.",
+            "bn": "খাবীর, অর্থাৎ যিনি সব খবর রাখেন, তার ব্যাখ্যাতেও একই রকম দুই ভাগ। তাবারী মাঠেই থাকেন: উদ্ভিদ থেকে যে দানা হবে, তিনি তার খবর রাখেন। মুয়াসসার ফেরে মানুষের দিকে: তাদের কল্যাণ কিসে, তিনি জানেন। কুরতুবীর নামহীন মতটি বলে, তাদের অভাব আর প্রয়োজনের খবর তিনি রাখেন। সবচেয়ে গভীরে যায় ইবন আব্বাস (রাঃ)-এর কথা, যা কুরতুবী বর্ণনা করেন: বৃষ্টি দেরিতে এলে বান্দা মনের ভেতরে যে হতাশা লুকিয়ে রাখে, তিনি তার খবর রাখেন। বাগাভীর ভাষাও কাছাকাছি: বৃষ্টি আটকে থাকলে বান্দাদের অন্তরে কী আছে, তিনি জানেন।"
+          },
+          {
+            "en": "As-Sa'di ends on the widest form: Khabir of the secrets of affairs, the hidden things of the breast, and the concealed sides of every matter. Side by side, these glosses do not compete; each reads the same name from where it stands, beside the seed or beside the farmer who has stopped looking at the sky. The pairing shows that the One who finds the buried grain also finds the buried discouragement, and the verse holds both inside one sentence about rain. A long dry spell is no sign that no one is watching.",
+            "bn": "সা'দী শেষ করেন সবচেয়ে প্রশস্ত অর্থে: সব বিষয়ের ভেতরের রহস্য, বুকের ভেতরের গোপন কথা, প্রতিটি ব্যাপারের লুকোনো দিক, সবকিছুর খবর তিনি রাখেন। পাশাপাশি রাখলে ব্যাখ্যাগুলো একে অপরের প্রতিদ্বন্দ্বী নয়। প্রত্যেকে একই নামকে পড়ছে নিজের দাঁড়ানোর জায়গা থেকে। কেউ দাঁড়িয়ে বীজের পাশে, কেউ সেই চাষির পাশে, যে আকাশের দিকে তাকানো ছেড়ে দিয়েছে। দুই নামের এই জুটি দেখায়, যিনি মাটির নিচে চাপা পড়া দানাকে খুঁজে পান, তিনি মনের নিচে চাপা পড়া হতাশাকেও খুঁজে পান। আর আয়াতটি দুটোকেই ধরে রেখেছে বৃষ্টির এক বাক্যে। লম্বা খরা মানে এই নয় যে কেউ দেখছেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Greening Argues",
+          "bn": "সবুজ মাটির যুক্তি"
+        },
+        "p": [
+          {
+            "en": "Two commentators read the scene as an argument. Al-Qurtubi calls it a proof of the perfection of Allah's power: whoever can do this can bring life back after death. He cites the parallel earlier in the surah, 22:5: when We send down water upon it, it stirs and swells. As-Sa'di says the same in his own words. The One who gave the earth life after its death and stillness is the One who gives life to the dead after they have become crumbled bones. Ibn Kathir cites 22:5 here as well.",
+            "bn": "দুজন তাফসীরকার দৃশ্যটিকে যুক্তি হিসেবে পড়েন। কুরতুবীর মতে এটি আল্লাহর পরিপূর্ণ কুদরতের প্রমাণ: যিনি এ কাজ করতে পারেন, তিনি মৃত্যুর পর আবার জীবন ফিরিয়ে দিতেও পারেন। তিনি এই সূরারই আগের একটি আয়াত টেনে আনেন, ২২:৫: যখন আমি তার উপর পানি বর্ষণ করি, তখন তা আন্দোলিত হয় ও ফুলে ওঠে। সা'দী একই কথা বলেন নিজের ভাষায়। যিনি মাটিকে তার মৃত্যু ও নিথরতার পর জীবিত করেছেন, তিনিই মৃতদের জীবিত করবেন, পচে-গলে হাড় হয়ে যাওয়ার পরও। ইবন কাসীরও এখানে ২২:৫ উল্লেখ করেন।"
+          },
+          {
+            "en": "Ibn Kathir closes with lines he gives to Umayya ibn Abi as-Salt or to Zayd ibn 'Amr ibn Nufayl, leaving the poet open: say to him, who makes the grain sprout in the soil, so that green herbs rise from it, stirring and swelling, and brings out its grain at the heads of the stalks? In that are signs for whoever is mindful. The Qur'an returns to rain and revival elsewhere, in 35:9 and 41:39. Here the next verses widen the frame: 22:64 says all in the heavens and the earth is His, and 22:65 turns to what He has subjected to people.",
+            "bn": "ইবন কাসীর শেষ করেন কয়েকটি পঙক্তি দিয়ে। কবি উমাইয়া ইবন আবিস সালত, নাকি যায়দ ইবন আমর ইবন নুফাইল, সেটা তিনি খোলা রাখেন: তাকে বলো, মাটিতে দানা গজায় কে, যাতে তা থেকে সবুজ শাক বেরিয়ে আসে, দোলে আর বেড়ে ওঠে? আর কে শিষের মাথায় মাথায় দানা বের করে আনে? এতে নিদর্শন আছে সজাগ মানুষের জন্য। বৃষ্টি আর মরা মাটির জীবন পাওয়ার কথা কুরআনে অন্যত্রও আছে, ৩৫:৯ ও ৪১:৩৯ আয়াতে। এখানে পরের আয়াতগুলো ছবিটা আরও বড় করে। ২২:৬৪ বলে, আকাশ ও পৃথিবীর সবকিছু তাঁরই। আর ২২:৬৫ তাকায় সেসব জিনিসের দিকে, যা তিনি মানুষের অধীন করে দিয়েছেন।"
+          },
+          {
+            "en": "What, then, does the verse ask? Only that you look, and finish the thought. Rain is no rarity. But alam tara will not let the familiar pass unexamined. A heart that watches dry ground turn green has been shown, without a single argument spoken, that Allah reaches what is buried, knows what is concealed, and brings back what seemed dead. Whatever in a life feels like that ground, long parched and past hoping, belongs under the two names on which the verse ends: Subtle, and Aware.",
+            "bn": "তাহলে আয়াতটি কী চায়? শুধু এটুকু যে আপনি তাকান, আর ভাবনাটা শেষ পর্যন্ত নিয়ে যান। বৃষ্টি দুর্লভ কিছু নয়। কিন্তু আলাম তারা প্রশ্নটা চেনা জিনিসকে না ভেবে পেরিয়ে যেতে দেয় না। শুকনো মাটিকে সবুজ হতে দেখা অন্তর একটি যুক্তিও না শুনে বুঝে নেয়, আল্লাহ চাপা পড়া জিনিসের কাছে পৌঁছান, লুকোনো কথা জানেন, আর যা মরা মনে হয়েছিল তাকে ফিরিয়ে আনেন। জীবনের যে অংশটা ওই মাটির মতো, বহুদিন শুকনো, আশার বাইরে, সেটাও রাখুন সেই দুই নামের ছায়ায়, যা দিয়ে আয়াতটি শেষ হয়েছে: লাতীফ, খাবীর।"
+          }
+        ]
+      }
+    ]
+  },
   "22:65": {
     "sections": [
       {

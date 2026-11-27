@@ -34819,6 +34819,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Height, strength and plaster protected no one from Allah's command. Do not lean on what you build; mend the wrong while you can, and read every ruin as a lesson for yourself.",
     "lessonBn": "উচ্চতা, মজবুতি আর চুনকাম কাউকে আল্লাহর হুকুম থেকে বাঁচাতে পারেনি। নিজের গড়া জিনিসের উপর ভরসা করবেন না। সময় থাকতে অন্যায় শুধরে নিন, আর প্রতিটি ধ্বংসাবশেষ থেকে নিজের জন্য শিক্ষা নিন।"
+  },
+  "22:63": {
+    "reflectionEn": "Think of a field after rain. A day earlier it was bare, cracked and grey with dust; now a thin green has crept across it. The verse asks one quiet question: do you not see? It points to no wonder in a distant land, only to something you have watched many times without stopping. Water came down from above, the earth answered, and behind both stands One subtle enough to reach a seed no one knew was there, and aware of the person who had nearly given up waiting for the rain. If He does this for the ground year after year, what in my life is still dry that I have never asked Him to water?",
+    "reflectionBn": "বৃষ্টির পরের একটা মাঠের কথা ভাবুন। আগের দিনও মাটি ছিল ন্যাড়া, ফাটা, ধুলোয় ধূসর। আজ তার গায়ে পাতলা সবুজের আভা ছড়িয়ে পড়েছে। আয়াতটি ছোট্ট একটা প্রশ্ন করে: তুমি কি দেখ না? কোনো দূর দেশের আশ্চর্য ঘটনার দিকে সে ইশারা করছে না। ইশারা করছে এমন দৃশ্যের দিকে, যা আপনি বহুবার দেখেছেন, অথচ থেমে ভাবেননি। পানি নেমেছে উপর থেকে, মাটি সাড়া দিয়েছে। আর দুটোর পেছনে আছেন এমন একজন, যিনি এত সূক্ষ্ম যে কারও অজানা বীজের কাছেও পৌঁছে যান, আর বৃষ্টির অপেক্ষায় যে মানুষটা প্রায় হাল ছেড়ে দিয়েছিল, তার খবরও রাখেন। মাটির জন্য তিনি বছরের পর বছর এ কাজ করে চলেছেন। তাহলে আমার জীবনের কোন শুকনো জায়গাটা এখনো রয়ে গেছে, যার জন্য তাঁর কাছে কখনো পানি চাইনি?",
+    "pointsEn": [
+      "When did I last watch rain and new green long enough to think about who sent them?",
+      "Which part of my life feels like dry ground right now, and have I brought it to Allah or only to my own worry?",
+      "Do I remember that Allah knows the despair I keep to myself when something I hope for is delayed?",
+      "If Allah brings dead earth back to life before my eyes, how firmly do I hold to His promise to raise the dead?",
+      "What small, unseen good in my life might be His kindness reaching me by a road I never noticed?"
+    ],
+    "pointsBn": [
+      "শেষ কবে বৃষ্টি আর নতুন সবুজের দিকে এতক্ষণ তাকিয়ে ছিলাম যে মনে প্রশ্ন জেগেছে, এগুলো কে পাঠালেন?",
+      "আমার জীবনের কোন অংশটা এখন শুকনো মাটির মতো লাগে? সেটা কি আল্লাহর কাছে নিয়ে গেছি, নাকি শুধু নিজের দুশ্চিন্তায় আটকে রেখেছি?",
+      "যা আশা করি তা দেরিতে এলে মনের ভেতরে যে হতাশা চেপে রাখি, আল্লাহ যে সেটাও জানেন, তা কি আমার মনে থাকে?",
+      "চোখের সামনে আল্লাহ মরা মাটিকে জীবিত করেন। তাহলে মৃতদের আবার জীবিত করার তাঁর প্রতিশ্রুতিকে আমি কতটা শক্ত করে ধরে আছি?",
+      "আমার জীবনের কোন ছোট্ট, চোখের আড়ালের কল্যাণটা হয়তো তাঁরই দয়া, যা এমন পথে এসেছে যা আমি কখনো খেয়ালই করিনি?"
+    ],
+    "lessonEn": "When dry earth turns green after rain, see the Subtle, the Aware behind it, and bring Him the dry places in your own life.",
+    "lessonBn": "বৃষ্টির পর শুকনো মাটি যখন সবুজ হয়ে ওঠে, তার পেছনে সূক্ষ্মদর্শী, সর্বজ্ঞ আল্লাহকে দেখুন, আর নিজের জীবনের শুকনো জায়গাগুলো তাঁর কাছেই নিয়ে যান।"
   }
 };
 
