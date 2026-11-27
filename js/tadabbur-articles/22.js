@@ -2103,6 +2103,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "22:37": {
+    "sections": [
+      {
+        "h": {
+          "en": "What Never Reaches Him",
+          "bn": "যা তাঁর কাছে পৌঁছায় না"
+        },
+        "p": [
+          {
+            "en": "Lan yanala Allaha luhumuha wa la dima'uha: their meat will not reach Allah, nor their blood. The verse comes straight after 22:36, which lined the camels up, named Allah over them and told the owner to eat and to feed. Now it says what, of all that, arrives. Al-Qurtubi notes that reaching, nayl, cannot literally attach to the Creator; the word is used figuratively for acceptance. He lists the glosses: Ibn Abbas, it will not ascend to Him; Ibn Isa, He will not accept their meat or their blood.",
+            "bn": "লান ইয়ানালাল্লাহা লুহূমুহা ওয়া লা দিমাউহা: ওগুলোর গোশত আল্লাহর কাছে পৌঁছায় না, রক্তও না। ঠিক আগের আয়াত ২২:৩৬ উটগুলোকে সারিতে দাঁড় করিয়েছে, ওগুলোর উপর আল্লাহর নাম নিতে বলেছে, মালিককে খেতে ও খাওয়াতে বলেছে। এবার জানানো হচ্ছে, এত কিছুর মধ্যে আসলে কী পৌঁছায়। কুরতুবী বলেন, 'পৌঁছানো' বা নায়ল শব্দটি আক্ষরিক অর্থে স্রষ্টার সঙ্গে খাটে না। এখানে এটি রূপক, বোঝায় কবুল হওয়া। তিনি কয়েকটি ব্যাখ্যা তুলে ধরেন। ইবন আব্বাস (রাঃ) বলেন, তাঁর কাছে উঠে যায় না। ইবন ঈসা বলেন, তিনি ওগুলোর গোশত ও রক্ত কবুল করেন না।"
+          },
+          {
+            "en": "Al-Baghawi gives Muqatil's version, it will not be raised to Allah, and adds what is raised in its place: righteous deeds, taqwa, and the sincerity that seeks His face. Ibn Kathir and as-Sa'di give the reason the meat cannot reach Him. He is al-Ghani, free of need for anything besides Himself, as Ibn Kathir puts it; the Rich and the Praiseworthy, in as-Sa'di's words. Al-Qurtubi and al-Baghawi also record a reading: Ya'qub reads both verbs with ta, with an eye to the plural luhum, while the majority read both with ya.",
+            "bn": "বাগাভী মুকাতিলের কথা আনেন: আল্লাহর কাছে তুলে নেওয়া হয় না। সঙ্গে বলেন, তার বদলে কী তুলে নেওয়া হয়: নেক আমল, তাকওয়া, আর সেই ইখলাস যা কেবল তাঁর সন্তুষ্টি চায়। গোশত কেন তাঁর কাছে পৌঁছাতে পারে না, ইবন কাসীর ও সা'দী তার কারণও বলেন। ইবন কাসীরের ভাষায়, তিনি গনী, নিজেকে ছাড়া আর কিছুরই মুখাপেক্ষী নন। সা'দীর ভাষায়, তিনি অভাবমুক্ত, প্রশংসিত। কুরতুবী ও বাগাভী একটি কিরাআতের কথাও জানান। ইয়াকুব দুটি ক্রিয়াই 'তা' দিয়ে পড়েন, বহুবচন গোশতের সঙ্গে মিলিয়ে। আর অধিকাংশ কারী দুটিই পড়েন 'ইয়া' দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Blood Splashed on the House",
+          "bn": "ঘরের দেয়ালে ছিটানো রক্ত"
+        },
+        "p": [
+          {
+            "en": "Why say it at all? The commentators recall a pre-Islamic custom. Ibn Kathir, through Ibn Abi Hatim, relays from Ibn Jurayj that the people of the Jahiliyya used to splash the House with the meat and blood of camels. The Companions of the Messenger of Allah ﷺ said, we have more right to splash it, and Allah sent down this verse. Al-Qurtubi gives the story from Ibn Abbas, without a chain: they reddened the House with the blood of the budn, the Muslims wanted to do the same, and the verse came down.",
+            "bn": "কথাটা বলার দরকার হলো কেন? তাফসীরকারেরা জাহিলী যুগের এক প্রথার কথা মনে করিয়ে দেন। ইবন কাসীর ইবন আবী হাতিমের সূত্রে ইবন জুরাইজের বর্ণনা আনেন: জাহিলিয়্যাতের লোকেরা উটের গোশত আর রক্ত কাবাঘরে ছিটিয়ে দিত। রাসূলুল্লাহ ﷺ-এর সাহাবীরা বললেন, এভাবে ছিটানোর অধিকার তো আমাদেরই বেশি। তখন আল্লাহ এ আয়াত নাযিল করেন। কুরতুবী একই ঘটনা ইবন আব্বাস (রাঃ)-এর নামে আনেন, কোনো সনদ ছাড়া। তাঁর বর্ণনায় জাহিলী লোকেরা কুরবানীর উটের রক্তে ঘর রাঙিয়ে দিত। মুসলমানরাও তা করতে চাইলেন, আর তখন আয়াতটি নাযিল হলো।"
+          },
+          {
+            "en": "Al-Baghawi tells it without naming anyone: when they slaughtered the budn they smeared the Ka'ba with their blood, as a way of drawing near to Allah. Ibn Kathir adds, in his own words, that when they slaughtered for their gods they laid some of the meat on the idols and sprinkled the blood over them. None of these reports carries a grading in the texts fetched, so read them as the background the commentators record, not as a settled occasion. The verse stands without them: whatever people thought blood could carry to God, it carries nothing.",
+            "bn": "বাগাভী কারও নাম না নিয়েই ঘটনাটি বলেন: কুরবানীর উট যবেহ করে তারা আল্লাহর নৈকট্য পাওয়ার আশায় কাবার গায়ে রক্ত মেখে দিত। ইবন কাসীর নিজের কথায় যোগ করেন, তারা দেবতাদের নামে যবেহ করলে মূর্তিগুলোর উপর গোশতের কিছু অংশ রেখে দিত, আর রক্ত ছিটিয়ে দিত। আমাদের সংগ্রহ করা পাঠে এর কোনো বর্ণনার সঙ্গেই মান নির্ণয় নেই। তাই এগুলোকে তাফসীরকারদের লিখে রাখা প্রেক্ষাপট হিসেবে পড়ুন, প্রমাণিত শানে নুযূল হিসেবে নয়। আয়াতের কথা এসব ছাড়াও দাঁড়িয়ে থাকে। মানুষ ভাবত রক্ত আল্লাহর কাছে কিছু বয়ে নিয়ে যায়। আসলে তা কিছুই নিয়ে যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taqwa Is What Arrives",
+          "bn": "পৌঁছায় শুধু তাকওয়া"
+        },
+        "p": [
+          {
+            "en": "Wa lakin yanaluhu t-taqwa minkum: but taqwa from you reaches Him. At-Tabari paraphrases the clause at length. What reaches Him is your guarding yourselves against Him in these animals: that you sought His face with them, did in them what He urged and commanded you to do, and honoured His sanctities through them. He says the people of interpretation held the same, and reports Ibrahim an-Nakha'i in a single phrase: what was intended for the face of Allah. Al-Muyassar keeps it brief: what reaches Him is sincerity, the aim being His face alone.",
+            "bn": "ওয়া লাকিন ইয়ানালুহুত তাকওয়া মিনকুম: বরং তাঁর কাছে পৌঁছায় তোমাদের তাকওয়া। তাবারী অংশটি খুলে বলেন বিস্তারিতভাবে। তাঁর কাছে পৌঁছায় এই পশুগুলোর ব্যাপারে তোমাদের আল্লাহকে ভয় করে চলা। অর্থাৎ এগুলো দিয়ে তোমরা তাঁর সন্তুষ্টি চেয়েছ, এগুলোর ব্যাপারে তিনি যা করতে উৎসাহ দিয়েছেন ও আদেশ করেছেন তা পালন করেছ, আর এগুলোর মাধ্যমে তাঁর মর্যাদার জিনিসগুলোকে সম্মান দিয়েছ। তাবারী বলেন, তাফসীরের আলেমরাও এমনই বলেছেন। ইবরাহীম নাখাঈর কথা তিনি আনেন এক বাক্যে: যা আল্লাহর সন্তুষ্টির জন্য করা হয়েছে। মুয়াসসার সংক্ষেপে বলে, তাঁর কাছে পৌঁছায় ইখলাস, উদ্দেশ্য হতে হবে কেবল তাঁর সন্তুষ্টি।"
+          },
+          {
+            "en": "Ibn Zayd, in at-Tabari, ties the verse back into its passage. If you feared Allah in these budn, acted in them for Allah, and sought what He commanded out of honour for His rites and His sanctities, then, he says, Allah has said that honouring His rites is from the taqwa of hearts, which is 22:32, and that honouring His sanctities is better for him with his Lord, which is 22:30. Make it good, and that is what Allah accepts. As for the meat and the blood, he asks, from where would they reach Allah?",
+            "bn": "তাবারীর বর্ণনায় ইবন যায়দ আয়াতটিকে তার আশপাশের আয়াতগুলোর সঙ্গে জুড়ে দেন। তিনি বলেন, এই উটগুলোর ব্যাপারে যদি তুমি আল্লাহকে ভয় করো, এগুলো নিয়ে যা করো আল্লাহর জন্য করো, আর আল্লাহর নিদর্শন ও মর্যাদার জিনিসগুলোর সম্মানে তিনি যা বলেছেন তা-ই চাও, তবে মনে রেখো, আল্লাহ বলেছেন তাঁর নিদর্শনকে সম্মান করা অন্তরের তাকওয়া থেকে আসে (২২:৩২)। আরও বলেছেন, তাঁর মর্যাদার জিনিসকে সম্মান করা রবের কাছে মানুষের জন্য উত্তম (২২:৩০)। আমলটাকে খাঁটি করো, আল্লাহ সেটাই কবুল করেন। আর গোশত ও রক্ত? ইবন যায়দ প্রশ্ন রাখেন, ওগুলো আল্লাহর কাছে পৌঁছাবে কোন পথে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Husk Without Its Kernel",
+          "bn": "শাঁস ছাড়া খোসা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di draws out the lesson the verse invites. The point of the sacrifice is not the slaughter alone; what reaches Allah is sincerity in it, the hope of His reward and a sound intention. So the verse urges ikhlas in the offering, the aim being His face alone: not pride, not showing off, not seeking a name, and not mere habit. Then he widens it to every act of worship. Without sincerity and taqwa, he says, worship is like a husk with no kernel inside it, a body with no soul.",
+            "bn": "আয়াতটি যে শিক্ষার দিকে ডাকে, সা'দী তা স্পষ্ট করে দেন। কুরবানীর উদ্দেশ্য শুধু যবেহ করা নয়। আল্লাহর কাছে পৌঁছায় এর ভেতরের ইখলাস, তাঁর কাছে সওয়াবের আশা আর সৎ নিয়ত। তাই আয়াতটি কুরবানীতে ইখলাসের তাগিদ দেয়। উদ্দেশ্য হবে কেবল আল্লাহর সন্তুষ্টি, অহংকার নয়, লোক দেখানো নয়, নাম কামানো নয়, নিছক অভ্যাসও নয়। তারপর তিনি কথাটা সব ইবাদতে ছড়িয়ে দেন। তাঁর ভাষায়, ইখলাস আর তাকওয়া না থাকলে ইবাদত হয়ে যায় শাঁসহীন খোসার মতো, প্রাণহীন দেহের মতো।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an makes the same comparison and adds a check. The object of prayer is not the movement of the limbs alone, nor is the object of fasting merely going without food and drink; the purpose is to obey Allah's commands with all sincerity, and without it worship is a body without a soul. Yet, it says, the forms remain very important, because Allah Himself prescribed them. The verse does not tell anyone to drop the rite and keep the feeling. It tells them which part of the rite is weighed.",
+            "bn": "মাআরিফুল কুরআনও একই তুলনা টানে, সঙ্গে একটা সতর্কতাও যোগ করে। নামাযের উদ্দেশ্য শুধু হাত-পা নাড়ানো নয়, রোযার উদ্দেশ্যও শুধু পানাহার থেকে বিরত থাকা নয়। আসল উদ্দেশ্য পূর্ণ ইখলাসের সঙ্গে আল্লাহর হুকুম মানা। ইখলাস না থাকলে ইবাদত প্রাণহীন দেহ। তবু মাআরিফ বলে, ইবাদতের এই বাহ্যিক রূপগুলোও খুব গুরুত্বপূর্ণ, কারণ আল্লাহ নিজেই এগুলো নির্ধারণ করে দিয়েছেন। আয়াতটি কাউকে বলে না, আমল ছেড়ে দিয়ে শুধু মনের অনুভূতিটুকু রাখো। বলে দেয়, আমলের কোন অংশটা মাপা হয়।"
+          },
+          {
+            "en": "Ibn Kathir's notes on the verse include a Companion's memory of how quickly the husk can grow. Jami' at-Tirmidhi (1505) records that Ata' ibn Yasar asked Abu Ayyub al-Ansari how sacrifices were made in the time of the Messenger of Allah ﷺ. He said: 'A man would sacrifice a sheep for himself and the people of his household. They would eat from it and feed others, until the people began to boast about it, and it became as you see.' At-Tirmidhi grades it hasan sahih.",
+            "bn": "এ আয়াতের আলোচনায় ইবন কাসীর এক সাহাবীর স্মৃতি এনেছেন, যা দেখায় খোসাটা কত দ্রুত মোটা হয়ে ওঠে। জামি' তিরমিযী (১৫০৫) বর্ণনা করে, আতা ইবন ইয়াসার আবু আইয়ুব আনসারী (রাঃ)-কে জিজ্ঞেস করেছিলেন, রাসূলুল্লাহ ﷺ-এর যুগে কুরবানী কেমন হতো। তিনি বললেন: 'একজন লোক নিজের ও তার পরিবারের পক্ষ থেকে একটি বকরি কুরবানী করত। তারা তা থেকে খেত, অন্যদেরও খাওয়াত। এরপর মানুষ এ নিয়ে বড়াই করতে লাগল, আর অবস্থা দাঁড়াল যা তুমি এখন দেখছ।' তিরমিযী একে হাসান সহীহ বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearts, Not Faces or Wealth",
+          "bn": "চেহারা বা সম্পদ নয়, অন্তর"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains 'reaches Him' as: He accepts it and rewards it, and he sets beside it a narration 'in the Sahih'. Sahih Muslim (2564) records it from Abu Hurayra, that the Messenger of Allah ﷺ said: 'Indeed Allah does not look at your forms and your wealth, but He looks at your hearts and your deeds.' The hadith is general; no report attaches it to this verse, and Ibn Kathir brings it to show what the verse means. Notice that it ends on deeds: the heart is looked at, and the deeds as well.",
+            "bn": "ইবন কাসীর 'তাঁর কাছে পৌঁছায়' কথাটির ব্যাখ্যা দেন এভাবে: তিনি তা কবুল করেন এবং তার প্রতিদান দেন। এর পাশে তিনি 'সহীহ'-তে আসা একটি বর্ণনা রাখেন। সহীহ মুসলিম (২৫৬৪) আবু হুরায়রা (রাঃ) থেকে তা বর্ণনা করে। রাসূলুল্লাহ ﷺ বলেছেন: 'নিশ্চয়ই আল্লাহ তোমাদের চেহারা ও তোমাদের সম্পদের দিকে তাকান না, বরং তিনি তাকান তোমাদের অন্তর ও তোমাদের আমলের দিকে।' হাদীসটি সাধারণ। কোনো বর্ণনা একে এ আয়াতের সঙ্গে যুক্ত করেনি। ইবন কাসীর এটি এনেছেন আয়াতের অর্থ বোঝাতে। খেয়াল করুন, হাদীসে অন্তরের পাশাপাশি আমলের কথাও আছে। অন্তর দেখা হয়, আমলও দেখা হয়।"
+          },
+          {
+            "en": "Al-Qurtubi reaches under the same clause for another general hadith, the one on deeds being by their intentions, which Sahih al-Bukhari places first. Ibn Kathir then relays a narration from A'isha about the blood of the sacrifice, which at-Tirmidhi himself grades hasan gharib; it is noted here and nothing is built on it. Ibn Kathir says careful scholars read it only as being about acceptance from one who is sincere. He also reports that ash-Sha'bi, asked about the hides of sacrificed animals, recited this verse and said: sell if you wish, keep if you wish, give in charity if you wish.",
+            "bn": "একই অংশের আলোচনায় কুরতুবী আরেকটি সাধারণ হাদীসের কথা আনেন, যে হাদীসে বলা হয়েছে আমল নিয়তের উপর নির্ভরশীল। সহীহ বুখারী এ হাদীস দিয়েই শুরু হয়েছে। এরপর ইবন কাসীর কুরবানীর রক্ত নিয়ে আয়িশা (রাঃ) থেকে একটি বর্ণনা উল্লেখ করেন, যাকে তিরমিযী নিজেই হাসান গরীব বলেছেন। এখানে শুধু তার উল্লেখটুকু থাকল, এর উপর কিছু দাঁড় করানো হচ্ছে না। ইবন কাসীর বলেন, বিচক্ষণ আলেমরা একে কেবল ইখলাসওয়ালা ব্যক্তির আমল কবুল হওয়ার অর্থেই বোঝেন। তিনি আরও জানান, শা'বীকে কুরবানীর পশুর চামড়া সম্পর্কে জিজ্ঞেস করা হলে তিনি এ আয়াত পড়ে বলেছিলেন: চাইলে বিক্রি করো, চাইলে রেখে দাও, চাইলে সদকা করো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From Thanks to Takbir",
+          "bn": "শোকর থেকে তাকবীরে"
+        },
+        "p": [
+          {
+            "en": "Kadhalika sakhkharaha lakum: thus He subjected them to you. The previous verse closed the same subjection on la'allakum tashkurun, that you may give thanks; this one closes it on li-tukabbiru Allaha 'ala ma hadakum, that you may magnify Allah for what He guided you to. In 22:36 the Arabic says We subjected; here it says He subjected. Al-Qurtubi finds a favour in the subjection. The animals are larger in body and stronger in limb than we are, yet are made to yield, so that the servant learns that matters go not by appearances but by what the Mighty, the Able wills.",
+            "bn": "কাযালিকা সাখখারাহা লাকুম: এভাবে তিনি ওগুলোকে তোমাদের বশ করে দিয়েছেন। আগের আয়াতে একই বশ করে দেওয়ার কথা শেষ হয়েছিল লাআল্লাকুম তাশকুরূন দিয়ে, যাতে তোমরা শোকর করো। এ আয়াতে তা শেষ হচ্ছে লিতুকাব্বিরুল্লাহা আলা মা হাদাকুম দিয়ে, যাতে তিনি তোমাদের যে পথ দেখিয়েছেন তার জন্য তোমরা আল্লাহর বড়ত্ব ঘোষণা করো। ২২:৩৬ আয়াতের আরবিতে আছে 'আমি বশ করেছি', এখানে আছে 'তিনি বশ করেছেন'। কুরতুবী এই বশ করে দেওয়ার মধ্যে অনুগ্রহ দেখেন। পশুগুলো দেহে আমাদের চেয়ে বড়, অঙ্গে আমাদের চেয়ে শক্তিশালী, তবু তাদের অনুগত করে দেওয়া হয়েছে। এতে বান্দা শেখে, সবকিছু বাইরের চেহারা অনুযায়ী চলে না, চলে মহাপরাক্রমশালী, সর্বশক্তিমানের ইচ্ছায়।"
+          },
+          {
+            "en": "On the guidance itself the commentators differ in reach. At-Tabari reads it as His granting you success in His religion and in the rites of your Hajj. Ibn Zayd, in at-Tabari, ties it to a single moment: upon slaughtering them in those days. Al-Baghawi has: He directed you to the landmarks of His religion and the rites of His Hajj. Ibn Kathir makes it wider: He guided you to His religion, His law and what He loves and is pleased with, and forbade you what He dislikes. As-Sa'di calls the takbir a return for His guidance, since He deserves the fullest praise.",
+            "bn": "হেদায়েত বলতে কতটুকু বোঝায়, তা নিয়ে তাফসীরকারদের ব্যাখ্যার পরিধি ভিন্ন। তাবারী বলেন, তিনি তোমাদেরকে তাঁর দ্বীন আর তোমাদের হজ্জের আমলগুলোর তাওফীক দিয়েছেন। তাবারীর বর্ণনায় ইবন যায়দ একে এক নির্দিষ্ট মুহূর্তে বেঁধে দেন: সেই দিনগুলোতে এগুলো যবেহ করার সময়। বাগাভী বলেন, তিনি তোমাদেরকে তাঁর দ্বীনের নিদর্শন আর তাঁর হজ্জের বিধানের পথ দেখিয়েছেন। ইবন কাসীর একে আরও প্রশস্ত করেন: তিনি তোমাদেরকে তাঁর দ্বীন, তাঁর শরীয়ত আর যা তিনি ভালোবাসেন ও পছন্দ করেন সেদিকে পথ দেখিয়েছেন, আর যা তিনি অপছন্দ করেন তা থেকে নিষেধ করেছেন। সা'দী তাকবীরকে বলেন হেদায়েতের প্রতিদান, কারণ তিনিই পূর্ণতম প্রশংসার যোগ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bismillah, Then Allahu Akbar",
+          "bn": "বিসমিল্লাহ, তারপর আল্লাহু আকবার"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi notices that the previous verse ordered the mention of His name over the animals, while this verse names takbir. Ibn Umar, he says, used to join the two when he slaughtered his offering, saying bismillah wa-llahu akbar, and al-Qurtubi counts this as part of his understanding. Al-Baghawi gives a fuller form: that the slaughterer says, Allah is greatest for what He guided us to, and praise is Allah's for what He tried us with and granted us. He gives no chain for it and does not present it as the Prophet's words.",
+            "bn": "কুরতুবী লক্ষ করেন, আগের আয়াতে পশুগুলোর উপর আল্লাহর নাম নেওয়ার আদেশ ছিল, আর এ আয়াতে বলা হয়েছে তাকবীরের কথা। তিনি জানান, ইবন উমার (রাঃ) নিজের হাদী যবেহ করার সময় দুই বাক্য একসঙ্গে বলতেন: বিসমিল্লাহি ওয়াল্লাহু আকবার। কুরতুবী একে তাঁর গভীর বোঝাপড়ার নিদর্শন বলেন। বাগাভী আরও পূর্ণ একটি রূপ দেন: যবেহকারী বলবে, আল্লাহ মহান, কারণ তিনি আমাদের পথ দেখিয়েছেন। সব প্রশংসা আল্লাহর, যিনি আমাদের পরীক্ষা করেছেন এবং দান করেছেন। বাগাভী এর কোনো সনদ দেননি, আর একে নবী ﷺ-এর কথা হিসেবেও উপস্থাপন করেননি।"
+          },
+          {
+            "en": "Al-Qurtubi also cites, from the Sahih, the report of Anas. Sahih al-Bukhari (5565) records it: 'The Prophet ﷺ sacrificed two horned rams, white mixed with black. He slaughtered them with his own hand, mentioned the name of Allah, said the takbir and placed his foot on their sides.' It describes his practice at a sacrifice, and no report makes it the occasion of this verse. It does show the name and the takbir together, at the very moment the verse is speaking of, from him who was told to bring the good tidings.",
+            "bn": "কুরতুবী 'সহীহ' থেকে আনাস (রাঃ)-এর বর্ণনাও উল্লেখ করেন। সহীহ বুখারী (৫৫৬৫) তা এভাবে বর্ণনা করে: 'নবী ﷺ শিংওয়ালা, সাদাকালো মেশানো রঙের দুটি দুম্বা কুরবানী করেছিলেন। তিনি নিজ হাতে সেগুলো যবেহ করেন, আল্লাহর নাম নেন, তাকবীর বলেন এবং সেগুলোর পাঁজরের উপর পা রাখেন।' এ বর্ণনা কুরবানীর সময় তাঁর আমলের কথা বলে। কোনো বর্ণনা একে এ আয়াত নাযিলের উপলক্ষ বানায়নি। তবে আয়াত যে মুহূর্তের কথা বলছে, ঠিক সেই মুহূর্তে নাম আর তাকবীর একসঙ্গে কেমন শোনায়, তা দেখা যায় তাঁরই আমলে, যাঁকে সুসংবাদ দিতে বলা হয়েছে।"
+          },
+          {
+            "en": "Both commentators then open questions of law. Al-Qurtubi records that Abu Thawr held the naming to have a set form, like the takbir of prayer, while scholars at large, he says, consider that recommended; another phrase holding one of Allah's names, said with the intention of naming, is valid. Ibn Kathir reports Abu Hanifa, Malik and ath-Thawri holding the udhiya obligatory on one with the means, and ash-Shafi'i and Ahmad holding it recommended, not obligatory. This article reports those positions and settles none of them; the rulings belong with a scholar who can be asked.",
+            "bn": "এরপর দুই তাফসীরকারই ফিকহের প্রশ্নে যান। কুরতুবী জানান, আবু সাওর মনে করতেন নাম নেওয়ার একটি নির্দিষ্ট রূপ আছে, যেমন নামাযের তাকবীরের নির্দিষ্ট রূপ আছে। তবে তাঁর ভাষায়, আলেমদের ব্যাপক অংশ একে মুস্তাহাব মনে করেন। আল্লাহর কোনো নাম আছে এমন অন্য কোনো বাক্য নাম নেওয়ার নিয়তে বললেও তা যথেষ্ট। ইবন কাসীর জানান, আবু হানীফা, মালিক ও সাওরীর মতে সামর্থ্যবানের উপর কুরবানী ওয়াজিব। আর শাফিঈ ও আহমাদের মতে তা ওয়াজিব নয়, মুস্তাহাব। এ লেখা এই মতগুলো শুধু তুলে ধরে, কোনোটির পক্ষে রায় দেয় না। বিধানের প্রশ্ন এমন আলেমের কাছে নিয়ে যান, যাঁকে জিজ্ঞেস করা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tidings for the Muhsinin",
+          "bn": "মুহসিনদের জন্য খোশখবর"
+        },
+        "p": [
+          {
+            "en": "Wa bashshiri l-muhsinin: and give good tidings to those who do good. The passage has already said wa bashshiri l-mukhbitin in 22:34, give good tidings to the humble, and 22:35 described them; now it closes on the muhsinin. At-Tabari: give good tidings, Muhammad, to those who obeyed Allah and did their obedience well in this world, of Paradise in the next. Al-Baghawi reports Ibn Abbas: they are the people of tawhid. Ibn Kathir: those whose deeds are good, who keep within Allah's limits, follow what He laid down and believe the Messenger in what he conveyed.",
+            "bn": "ওয়া বাশশিরিল মুহসিনীন: আর সৎকর্মশীলদের সুসংবাদ দাও। এই আয়াতগুচ্ছ আগেই ২২:৩৪ আয়াতে বলেছে ওয়া বাশশিরিল মুখবিতীন, বিনয়ীদের সুসংবাদ দাও, আর ২২:৩৫ তাদের পরিচয় দিয়েছে। এবার শেষ হচ্ছে মুহসিনদের কথা দিয়ে। তাবারী বলেন, হে মুহাম্মাদ, যারা আল্লাহর আনুগত্য করেছে এবং দুনিয়াতে সেই আনুগত্য সুন্দরভাবে পালন করেছে, তাদের আখিরাতে জান্নাতের সুসংবাদ দাও। বাগাভী ইবন আব্বাস (রাঃ)-এর কথা আনেন: এরা তাওহীদের অনুসারী। ইবন কাসীরের ব্যাখ্যায় এরা সেই লোক, যাদের আমল সুন্দর, যারা আল্লাহর সীমার ভেতরে থাকে, তাঁর দেওয়া বিধান মেনে চলে, আর রাসূল যা পৌঁছে দিয়েছেন তাতে তাঁকে সত্য বলে মানে।"
+          },
+          {
+            "en": "As-Sa'di gives ihsan two directions. Toward Allah, it is to worship Him as though one sees Him, and failing that, to worship Him in the awareness that He sees. Toward His servants, it is every kind of good: benefit through wealth, knowledge or standing, sincere advice, enjoining right and forbidding wrong, a good word. Al-Muyassar likewise names both: excellence in worshipping Allah alone, and doing every good to His creation. As-Sa'di closes with 55:60, is the reward of ihsan anything but ihsan, and 10:26, for those who did good, the best and more.",
+            "bn": "সা'দী ইহসানের দুটি দিক দেখান। আল্লাহর দিকে ইহসান হলো তাঁর ইবাদত এমনভাবে করা যেন তাঁকে দেখছেন। সে স্তরে না পৌঁছালে অন্তত এই বিশ্বাস নিয়ে ইবাদত করা যে তিনি আপনাকে দেখছেন। আর বান্দাদের দিকে ইহসান হলো সব রকম কল্যাণ: সম্পদ, জ্ঞান বা প্রভাব দিয়ে উপকার করা, আন্তরিক পরামর্শ দেওয়া, ভালো কাজের আদেশ ও মন্দ কাজে নিষেধ করা, একটি সুন্দর কথা বলা। মুয়াসসারও দুটো দিকই বলে: একমাত্র আল্লাহর ইবাদতে উৎকর্ষ, আর তাঁর সৃষ্টির প্রতি সব রকম কল্যাণ। সা'দী শেষ করেন ৫৫:৬০ দিয়ে, ইহসানের প্রতিদান ইহসান ছাড়া আর কী, আর ১০:২৬ দিয়ে, যারা সৎকাজ করেছে তাদের জন্য আছে উত্তম প্রতিদান, আর তারও বেশি।"
+          },
+          {
+            "en": "Al-Qurtubi mentions a report, introduced with 'it is narrated' and given no chain, that the phrase came down about the four caliphs, and then says the outward wording is general, covering every doer of good. This article reads it that way. The next verse, 22:38, turns from the sacrifice to a promise, that Allah defends those who believe. Here the last word goes to whoever gave with taqwa and then, over what was given, said Allahu akbar for the guidance that brought him there.",
+            "bn": "কুরতুবী একটি বর্ণনার কথা বলেন, 'বর্ণিত আছে' বলে শুরু করে এবং কোনো সনদ ছাড়া, যে অংশটি চারজন খলীফা সম্পর্কে নাযিল হয়েছিল। এরপর তিনিই বলেন, শব্দের বাহ্যিক অর্থ ব্যাপক, প্রত্যেক সৎকর্মশীলকে শামিল করে। এ লেখাও আয়াতটিকে সেভাবেই পড়ে। পরের আয়াত ২২:৩৮ কুরবানী থেকে সরে এক প্রতিশ্রুতির কথা বলে: আল্লাহ মুমিনদের রক্ষা করেন। এখানে শেষ কথাটা তার জন্য, যে তাকওয়া নিয়ে দিয়েছে, তারপর দেওয়া জিনিসের উপর আল্লাহু আকবার বলেছে সেই হেদায়েতের জন্য, যা তাকে এ পর্যন্ত এনেছে।"
+          }
+        ]
+      }
+    ]
+  },
   "22:40": {
     "sections": [
       {

@@ -34759,6 +34759,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Turn to Allah alone and set no partner beside Him. Faith is the height you stand on; leaving it is a fall that nothing below can break.",
     "lessonBn": "কেবল আল্লাহর দিকে ঝুঁকে থাকুন, তাঁর সাথে কাউকে শরীক করবেন না। ঈমানই আপনার দাঁড়ানোর উচ্চতা, তা ছেড়ে দেওয়া এমন পতন, যা নিচের কিছুই ঠেকাতে পারে না।"
+  },
+  "22:37": {
+    "reflectionEn": "A great animal is led out, a name is spoken, the blade does its work, and the blood runs into the ground. Then the verse says what none of the onlookers could see: none of this meat and none of this blood reaches Allah. What reaches Him is the taqwa that brought you there. The meat is eaten and shared, the blood soaks away, and the intention is the one thing that travels. Even the animal that yielded to you was made to yield so that you would proclaim His greatness for the guidance He gave. I give in many ways that other people can see. If only the intention behind each were weighed, which of them would still count for anything?",
+    "reflectionBn": "বিশাল এক পশুকে সামনে আনা হয়। আল্লাহর নাম উচ্চারিত হয়, ছুরি চলে, রক্ত গড়িয়ে মাটিতে মিশে যায়। তারপর আয়াতটি এমন এক কথা বলে, যা উপস্থিত কেউ চোখে দেখতে পায় না: এর গোশতও আল্লাহর কাছে পৌঁছায় না, রক্তও না। তাঁর কাছে পৌঁছায় কেবল সেই তাকওয়া, যা আপনাকে এখানে টেনে এনেছে। গোশত খাওয়া হয়, বিলিয়ে দেওয়া হয়। রক্ত মাটি শুষে নেয়। যাত্রা করে কেবল নিয়তটুকু। যে পশু আপনার বশ মেনেছে, তাকেও বশ করা হয়েছে যাতে হেদায়েতের জন্য আপনি আল্লাহর বড়ত্ব ঘোষণা করেন। মানুষের চোখে পড়ে এমন অনেক কিছুই আমি দিই। প্রতিটির পেছনের নিয়তটুকুই যদি শুধু মাপা হয়, তবে তার কোনটা টিকে থাকবে?",
+    "pointsEn": [
+      "When I give, sacrifice or serve, which part of it am I hoping people will see, and which part is for Allah alone?",
+      "Is there an act of worship I keep only out of habit, a form I still carry out with nothing left inside it?",
+      "Have I ever let the size or the cost of what I gave stand in for the sincerity it was meant to carry?",
+      "What has Allah made easy for me or put under my hand this year, and have I magnified Him for it, or only enjoyed it?",
+      "Whom do I know who does good both in worship and in how they treat people, and what could I learn from them this week?"
+    ],
+    "pointsBn": [
+      "যখন কিছু দিই, কুরবানী করি বা কারও কাজে লাগি, তার কোন অংশটা মানুষ দেখুক বলে চাই, আর কোন অংশটা কেবল আল্লাহর জন্য?",
+      "এমন কোনো ইবাদত কি আছে যা শুধু অভ্যাসের বশে করে যাচ্ছি? ভেতরটা ফাঁকা, বাইরের কাঠামোটা কেবল টিকে আছে?",
+      "যা দিয়েছি তার আকার বা দামকে কি কখনো সেই ইখলাসের জায়গায় বসিয়ে দিয়েছি, যা তার ভেতরে থাকার কথা ছিল?",
+      "এ বছর আল্লাহ কোন জিনিস আমার জন্য সহজ করে দিয়েছেন, কোনটা আমার হাতের মুঠোয় এনে দিয়েছেন? তার জন্য কি তাঁর বড়ত্ব ঘোষণা করেছি, নাকি শুধু ভোগই করেছি?",
+      "আমার চেনা কে আছেন যিনি ইবাদতেও উত্তম, মানুষের সঙ্গে আচরণেও উত্তম? এ সপ্তাহে তাঁর কাছ থেকে কী শিখতে পারি?"
+    ],
+    "lessonEn": "Meat and blood stay on the earth; only the taqwa behind the act reaches Allah. Give for His sake alone, and magnify Him for the guidance that brought you to give.",
+    "lessonBn": "গোশত আর রক্ত দুনিয়াতেই থেকে যায়, আল্লাহর কাছে পৌঁছায় কেবল আমলের পেছনের তাকওয়া। দিন কেবল তাঁরই জন্য, আর যে হেদায়েত আপনাকে দিতে শিখিয়েছে, তার জন্য তাঁর বড়ত্ব ঘোষণা করুন।"
   }
 };
 
