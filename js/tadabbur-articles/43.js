@@ -4111,6 +4111,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:76": {
+    "sections": [
+      {
+        "h": {
+          "en": "Between Torment and the Cry",
+          "bn": "আযাব আর আর্তনাদের মাঝখানে"
+        },
+        "p": [
+          {
+            "en": "The passage has just described the Garden promised to Allah's servants who believed. Then 43:74 turns: the criminals will be in the punishment of Hell, abiding in it. In 43:75 it is not allowed to subside for them, and they are in despair there. Ibn Kathir's English abridgement notes the order, the state of the blessed followed by the state of the doomed, and glosses the two phrases: not lightened even for a moment, and despairing of any good. Al-Muyassar puts the despair as hopelessness of Allah's mercy.",
+            "bn": "এর আগের আয়াতগুলোতে ঈমানদার বান্দাদের জন্য প্রতিশ্রুত জান্নাতের বর্ণনা শেষ হয়েছে। তারপর ৪৩:৭৪ আয়াতে মোড় ঘোরে: অপরাধীরা জাহান্নামের আযাবে চিরকাল থাকবে। ৪৩:৭৫ বলে, সে আযাব তাদের জন্য কমানো হবে না, আর তারা সেখানে হতাশ হয়ে থাকবে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এই ক্রমটা লক্ষ করে: সৌভাগ্যবানদের অবস্থার পরে আসে হতভাগাদের অবস্থা। দুটি কথার ব্যাখ্যাও সেখানে আছে: এক মুহূর্তের জন্যও হালকা হবে না, আর সব কল্যাণের আশা তারা হারিয়ে ফেলবে। মুয়াসসার হতাশাটাকে বলে আল্লাহর রহমত থেকে নিরাশ হওয়া।"
+          },
+          {
+            "en": "Into that scene comes 43:76, six Arabic words in the voice of Allah: And We did not wrong them, but it was they who were the wrongdoers. The next verse, 43:77, gives their cry to Malik and his answer, and belongs to its own study. Here the verse stands as a verdict set between the torment and the cry. Who are the criminals? Al-Muyassar names them as those who earned sins through their disbelief, and the verdict that follows is about them.",
+            "bn": "এই দৃশ্যের মধ্যেই আসে ৪৩:৭৬, আল্লাহর নিজের কণ্ঠে ছয়টি আরবি শব্দ: আমি তাদের উপর যুলম করিনি, বরং তারা নিজেরাই ছিল যালিম। পরের আয়াত ৪৩:৭৭-এ আছে মালিকের কাছে তাদের আর্তনাদ আর তাঁর জবাব। সেটা আলাদা আলোচনার বিষয়। এখানে আয়াতটি দাঁড়িয়ে আছে আযাবের বর্ণনা আর সেই আর্তনাদের মাঝখানে, একটি রায়ের মতো। অপরাধী কারা? মুয়াসসার বলে, যারা কুফরির মধ্য দিয়ে গুনাহ কামিয়েছে। পরের রায়টা তাদেরই নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Six Words in Two Halves",
+          "bn": "ছয় শব্দের দুই ভাগ"
+        },
+        "p": [
+          {
+            "en": "The verse falls into two halves joined by lakin, but. The first, wa ma zalamnahum, denies: We did not wrong them. The second, kanu hum az-zalimin, affirms: they were, they themselves, the wrongdoers. The pronoun hum stands between the verb and its predicate, and the predicate carries the definite article, so the sentence does more than say they did wrong. It names them as the wrongdoers in this account, while the first half has already ruled out any wrong from Allah's side.",
+            "bn": "আয়াতটি দুই ভাগে বিভক্ত, মাঝখানে লাকিন, অর্থাৎ বরং। প্রথম ভাগ ওয়ামা যালামনাহুম অস্বীকার করে: আমি তাদের উপর যুলম করিনি। দ্বিতীয় ভাগ কানূ হুমুয যালিমীন দৃঢ়ভাবে বলে: তারা, তারা নিজেরাই, ছিল যালিম। ক্রিয়া আর বিধেয়ের মাঝখানে বসেছে সর্বনাম হুম, আর বিধেয়টি নির্দিষ্টবাচক আল-যুক্ত। তাই বাক্যটা শুধু এটুকু বলে না যে তারা অন্যায় করেছিল। এ হিসাবে যালিম কারা, সেটাই সে চিহ্নিত করে দেয়। আর আল্লাহর দিক থেকে কোনো যুলমের কথা প্রথম ভাগ আগেই নাকচ করে দিয়েছে।"
+          },
+          {
+            "en": "Al-Qurtubi adds a note on the grammar. In the received text the last word is az-zalimin, the accusative predicate of kana. He records that wa lakin kanu hum az-zalimun, in the nominative, would also be permissible: hum would then be a subject with az-zalimun as its predicate, and that small sentence would be the predicate of kana. His word is yajuz, it is allowed; he names no reciter who read it so. Either way the sentence ends on them.",
+            "bn": "কুরতুবী এখানে ব্যাকরণের একটি কথা যোগ করেন। প্রচলিত পাঠে শেষ শব্দটি আয-যালিমীন, কানা-র বিধেয় হিসেবে নসব অবস্থায়। তিনি লেখেন, রফা অবস্থায় ওয়ালাকিন কানূ হুমুয যালিমূন পড়াও জায়েয। তখন হুম হবে উদ্দেশ্য, আয-যালিমূন তার বিধেয়, আর এই ছোট বাক্যটা পুরোটা মিলে হবে কানা-র বিধেয়। তাঁর শব্দ ইয়াজূয, মানে অনুমোদিত। কেউ এভাবে তিলাওয়াত করেছেন, এমন কোনো কারীর নাম তিনি বলেননি। যেভাবেই পড়া হোক, বাক্য শেষ হয় তাদের উপরেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "At-Tabari Names the Wrong",
+          "bn": "তাবারী যে অন্যায়ের নাম দেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari paraphrases the first half as Allah's own statement: We did not wrong these criminals by doing to them what We have told you, O people, that We did to them, the punishment of Hell. His phrase O people is worth noticing. He reads the verse as a report addressed to listeners now, about an end they are being told of in advance. A warning given in advance arrives while it can still change something.",
+            "bn": "তাবারী প্রথম ভাগটা আল্লাহর নিজের বক্তব্য হিসেবেই খুলে বলেন: হে মানুষ, এই অপরাধীদের সঙ্গে আমি যা করেছি বলে তোমাদের জানিয়েছি, জাহান্নামের আযাব, তা করে আমি তাদের উপর যুলম করিনি। তাঁর হে মানুষ সম্বোধনটা লক্ষ করার মতো। তিনি আয়াতটিকে পড়েন আজকের শ্রোতাদের উদ্দেশে দেওয়া এক খবর হিসেবে। এমন এক পরিণতির খবর, যা তাদের আগেভাগে জানানো হচ্ছে। আগেভাগে দেওয়া সতর্কবাণী পৌঁছায় এমন সময়ে, যখন তা দিয়ে কিছু বদলানো এখনো সম্ভব।"
+          },
+          {
+            "en": "For the second half he names what their wrongdoing was, and the list has three items: their worship, in this world, of other than Him whose worship was due from them; their disbelief in Allah; and their denial of His oneness. In his reading the wrong is first of all a matter of worship turned to the wrong address. He also places it in the dunya. The punishment belongs to the next life, but the wrong it answers was done here.",
+            "bn": "দ্বিতীয় ভাগের জন্য তিনি তাদের যুলমের নাম দেন, আর তালিকায় আছে তিনটি বিষয়। দুনিয়ায় তারা তাঁকে বাদ দিয়ে অন্যের ইবাদত করেছিল, অথচ ইবাদত পাওয়ার হক ছিল তাঁরই। তারা আল্লাহর সঙ্গে কুফরি করেছিল। আর তাঁর তাওহীদ অস্বীকার করেছিল। তাবারীর পাঠে যুলম সবার আগে ইবাদতের প্রশ্ন: ইবাদত চলে গেছে ভুল ঠিকানায়। যুলমটাকে তিনি স্থাপন করেন দুনিয়াতেই। আযাব আখিরাতের, কিন্তু যে যুলমের জবাবে সেই আযাব, তা ঘটেছিল এখানে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wrong Done to Their Own Selves",
+          "bn": "যে যুলম নিজের উপর"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's gloss is brief and fills in two words the verse leaves unsaid. We did not wrong them by the punishment, he writes, but they were the wrongdoers of themselves, by shirk. The punishment is the act that might have looked like a wrong, and he clears it; the wrong he finds is theirs, done against their own souls, and its form is associating partners with Allah.",
+            "bn": "কুরতুবীর ব্যাখ্যা সংক্ষিপ্ত। আয়াত যে দুটি শব্দ উহ্য রেখেছে, তিনি তা পূরণ করে দেন। তিনি লেখেন, আযাব দিয়ে আমি তাদের উপর যুলম করিনি, বরং শিরক করে তারা নিজেরাই নিজেদের উপর যুলম করেছিল। যে কাজটাকে যুলম মনে হতে পারত, তা হলো আযাব, আর সেটাকে তিনি নির্দোষ ঘোষণা করেন। যে যুলম তিনি খুঁজে পান তা তাদের নিজেদের, তাদের নিজেদের প্রাণের বিরুদ্ধে করা, আর তার রূপ হলো আল্লাহর সঙ্গে শরিক করা।"
+          },
+          {
+            "en": "Al-Muyassar reads the same way at more length: We did not wrong these criminals by the punishment, but they were the wrongdoers of themselves, through their shirk, their denial that Allah alone is the true God with no partner, and their leaving off following the messengers of their Lord. Its first two items run close to at-Tabari's list. The third adds the messengers: the wrong includes turning from those sent to guide them.",
+            "bn": "মুয়াসসার একই পথে আরেকটু বিস্তারে যায়: আযাব দিয়ে আমি এই অপরাধীদের উপর যুলম করিনি। বরং তারা নিজেরাই নিজেদের উপর যুলম করেছিল তাদের শিরক দিয়ে, আল্লাহই যে একমাত্র সত্য ইলাহ, যাঁর কোনো শরিক নেই, তা অস্বীকার করে, আর তাদের রবের রাসূলদের অনুসরণ ছেড়ে দিয়ে। প্রথম দুটি বিষয় তাবারীর তালিকার খুব কাছাকাছি। তৃতীয়টি রাসূলদের কথা যোগ করে। অর্থাৎ যাঁরা তাদের পথ দেখাতে এসেছিলেন, তাঁদের থেকে মুখ ফিরিয়ে নেওয়াও এই যুলমের অংশ।"
+          },
+          {
+            "en": "As-Sa'di states the principle outright. This great punishment, he writes, is for what their hands sent forward and for the wrong they did themselves; Allah did not wrong them, and did not punish them without sin or crime. His last clause is the plainest form of the point in the fetched texts: no punishment came upon them without a deed of theirs behind it. The Bengali Ahsanul Bayaan renders the verse in the same spirit, that they wronged their own selves.",
+            "bn": "সা'দী মূলনীতিটা সরাসরি বলে দেন। তিনি লেখেন, এই মহা আযাব তাদের হাত যা আগে পাঠিয়েছে তার জন্য, আর নিজেদের উপর তারা যে যুলম করেছে তার জন্য। আল্লাহ তাদের উপর যুলম করেননি, আর কোনো গুনাহ বা অপরাধ ছাড়া তাদের শাস্তিও দেননি। সংগৃহীত তাফসীরগুলোর মধ্যে তাঁর শেষ বাক্যটাই কথাটার সবচেয়ে সোজা রূপ: তাদের উপর যে শাস্তি এসেছে, তার পেছনে তাদের নিজেদের আমলই ছিল। বাংলা তাফসীর আহসানুল বায়ানও একই সুরে অনুবাদ করে: ওরা নিজেরাই নিজেদের প্রতি অন্যায় করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proof Given, Then Recompense",
+          "bn": "আগে প্রমাণ, পরে প্রতিদান"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains the verse as a sequence. They were the wrongdoers by their evil deeds, after the proof had been established against them and messengers had been sent to them; they denied and disobeyed, and so they were recompensed with it, a fitting recompense; and your Lord is not unjust to His servants. Two phrases in his sentence are the Qur'an's own: jaza'an wifaqa, a fitting recompense, is the whole of 78:26, and the closing clause ends 41:46.",
+            "bn": "ইবন কাসীর আয়াতটিকে ব্যাখ্যা করেন একটার পর একটা ধাপ হিসেবে। তাদের মন্দ আমলের কারণেই তারা যালিম, আর তা ঘটেছে তাদের বিরুদ্ধে প্রমাণ প্রতিষ্ঠিত হওয়ার পরে, তাদের কাছে রাসূল পাঠানোর পরে। তারা মিথ্যা বলেছে, নাফরমানি করেছে, তাই তার প্রতিদান পেয়েছে, যথাযথ প্রতিদান। আর তোমার রব বান্দাদের প্রতি যুলমকারী নন। তাঁর বাক্যের দুটি অংশ কুরআনেরই ভাষা। জাযাআন ওয়িফাকা, যথাযথ প্রতিদান, পুরো ৭৮:২৬ আয়াত। আর শেষ বাক্যাংশটি দিয়ে শেষ হয়েছে ৪১:৪৬।"
+          },
+          {
+            "en": "The order matters to his reading. Proof comes first, then messengers, then the people's denial and disobedience, and only then the recompense. The punishment is presented as an answer to a refusal, not as a beginning. The Qur'an itself voices the same point two verses later, in 43:78: We had certainly brought you the truth, but most of you were averse to the truth. Ibn Kathir's English abridgement introduces that verse as the reason they are doomed, their stubborn resistance to the truth.",
+            "bn": "তাঁর ব্যাখ্যায় এই ক্রমটাই আসল। আগে প্রমাণ, তারপর রাসূল, তারপর মানুষের অস্বীকার আর নাফরমানি, আর সবশেষে প্রতিদান। আযাব এখানে কোনো সূচনা নয়, একটা প্রত্যাখ্যানের জবাব। দুই আয়াত পরে কুরআন নিজেই এই কথা বলে, ৪৩:৭৮ আয়াতে: আমি তো তোমাদের কাছে সত্য নিয়ে এসেছিলাম, কিন্তু তোমাদের অধিকাংশই সত্যকে অপছন্দ করতে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এই আয়াতটিকে উপস্থাপন করে তাদের ধ্বংসের কারণ হিসেবে: সত্যের বিরুদ্ধে তাদের একগুঁয়ে প্রতিরোধ।"
+          },
+          {
+            "en": "The verse whose closing words he uses, 41:46, frames the whole matter: whoever does righteousness, it is for his own soul, and whoever does evil does so against it, and your Lord is not ever unjust to His servants. Read beside it, 43:76 is that rule seen at its end point. The evil was done against the self long before; in the Fire it is simply found where it was always going to land.",
+            "bn": "যে আয়াত থেকে তিনি বাক্যাংশটি নেন, সেই ৪১:৪৬ পুরো বিষয়টার একটা কাঠামো দেয়: যে সৎকাজ করে, তা তার নিজের জন্য, আর যে মন্দ করে, তা তার নিজেরই বিরুদ্ধে। আর তোমার রব বান্দাদের প্রতি কখনো যুলমকারী নন। পাশাপাশি পড়লে ৪৩:৭৬ যেন সেই নিয়মেরই শেষ প্রান্ত। মন্দটা নিজের বিরুদ্ধে করা হয়েছিল অনেক আগেই। জাহান্নামে এসে তা শুধু সেখানেই পাওয়া যায়, যেখানে তার পৌঁছানোর কথা ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wa Ma Zalamnahum, Three Times",
+          "bn": "ওয়ামা যালামনাহুম: তিন জায়গায়"
+        },
+        "p": [
+          {
+            "en": "The exact opening wa ma zalamnahum, We did not wrong them, occurs three times in the Qur'an. In 11:101, after the stories of destroyed towns, it is followed by but they wronged themselves. In 16:118, after what was forbidden to the Jews, it is followed by but they were wronging themselves. The third time is here. The same thought with Allah's name as subject recurs too, for instance in 9:70, 29:40 and 30:9: Allah would never wrong them, but they were wronging themselves.",
+            "bn": "হুবহু ওয়ামা যালামনাহুম, আমি তাদের উপর যুলম করিনি, কুরআনে এসেছে তিনবার। ১১:১০১ আয়াতে, ধ্বংস হয়ে যাওয়া জনপদগুলোর কাহিনির পরে, এর পরেই আসে: বরং তারা নিজেরাই নিজেদের উপর যুলম করেছিল। ১৬:১১৮ আয়াতে, ইহুদিদের উপর যা হারাম করা হয়েছিল তার প্রসঙ্গে, পরে আসে: বরং তারা নিজেরাই নিজেদের উপর যুলম করছিল। আর তৃতীয়বার এই আয়াতে। আল্লাহর নাম উল্লেখ করে একই ভাবনা আরও কয়েক জায়গায় ফিরে এসেছে, যেমন ৯:৭০, ২৯:৪০ ও ৩০:৯ আয়াতে: আল্লাহ তাদের উপর যুলম করার নন, বরং তারা নিজেরাই নিজেদের উপর যুলম করছিল।"
+          },
+          {
+            "en": "Set beside those, 43:76 has a difference that can be read straight off the text. The other verses name the object of the wrong, anfusahum, themselves. This verse does not; it says only that they were the wrongdoers, with the pronoun hum for weight. Al-Qurtubi and al-Muyassar both restore themselves in their glosses. At-Tabari does not: his gloss names the wrong as worship given to other than Allah, disbelief and denial of His oneness.",
+            "bn": "ওই আয়াতগুলোর পাশে রাখলে ৪৩:৭৬-এর একটা পার্থক্য সরাসরি পাঠ থেকেই চোখে পড়ে। অন্য আয়াতগুলো যুলমের লক্ষ্যটাও বলে দেয়: আনফুসাহুম, নিজেদের। এই আয়াত তা বলে না। শুধু বলে, তারাই ছিল যালিম, আর জোর দেওয়ার জন্য সর্বনাম হুম। কুরতুবী ও মুয়াসসার দুজনেই নিজেদের ব্যাখ্যায় নিজেদের শব্দটা ফিরিয়ে আনেন। তাবারী তা করেন না। তাঁর ব্যাখ্যায় যুলমের নাম: আল্লাহকে বাদ দিয়ে অন্যের ইবাদত, কুফরি, আর তাঁর তাওহীদ অস্বীকার।"
+          },
+          {
+            "en": "These are differences of emphasis, not a dispute; nothing in their texts sets either reading against the other. Elsewhere the Qur'an carries the same assurance into the scene of reckoning itself. In 18:49 the record is laid open, the criminals are fearful of what is in it, it leaves nothing small or great unrecorded, and the verse closes: your Lord does injustice to no one. In 50:29 Allah says on that Day: never will I be unjust to the servants.",
+            "bn": "এগুলো জোরের পার্থক্য, কোনো মতবিরোধ নয়। তাঁদের লেখায় এমন কিছু নেই, যা এক পাঠকে অন্য পাঠের বিরুদ্ধে দাঁড় করায়। কুরআন অন্য জায়গায় একই আশ্বাস নিয়ে যায় হিসাবের দৃশ্যের ভেতরেও। ১৮:৪৯ আয়াতে আমলনামা খুলে রাখা হয়, অপরাধীরা তার ভেতরের কথায় ভয় পায়, ছোট-বড় কিছুই তাতে বাদ পড়েনি, আর আয়াত শেষ হয়: তোমার রব কারও উপর যুলম করেন না। ৫০:২৯ আয়াতে সেদিন আল্লাহ বলেন: আমি বান্দাদের প্রতি যুলমকারী নই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forbidden by Him Upon Himself",
+          "bn": "নিজের উপর যা তিনি হারাম করেছেন"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. Ibn Kathir's English abridgement does cite a report from al-Bukhari, but under 43:77 and about that verse, so it is left to its own place. There is, however, a general narration on Allah and injustice. It is not attached to this verse, and is brought here only because it speaks to the same theme. Muslim records it in his Sahih, number 2577, from Abu Dharr.",
+            "bn": "এই আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে বুখারীর একটি বর্ণনা আছে বটে, কিন্তু তা ৪৩:৭৭ আয়াতের অধীনে, সেই আয়াত নিয়েই। তাই সেটা তার নিজের জায়গাতেই থাকুক। তবে আল্লাহ ও যুলম নিয়ে একটি সাধারণ বর্ণনা আছে। এ আয়াতের সঙ্গে তা যুক্ত নয়, এখানে আনা হলো শুধু একই বিষয়ে কথা বলে বলে। মুসলিম তাঁর সহীহ গ্রন্থে আবু যার (রাঃ) থেকে এটি বর্ণনা করেছেন, নম্বর ২৫৭৭।"
+          },
+          {
+            "en": "In it the Prophet ﷺ relates from his Lord a long address. It opens: “O My servants, I have forbidden oppression for Myself and have made it forbidden amongst you, so do not oppress one another.” The narration then continues at length through further addresses, and near its end comes this, a separate excerpt: “O My servants, it is but your deeds that I record for you and then recompense you for. So let him who finds good, praise Allah, and let him who finds other than that blame no one but himself.”",
+            "bn": "এতে নবী ﷺ তাঁর রবের পক্ষ থেকে একটি দীর্ঘ সম্বোধন বর্ণনা করেন। তার শুরু এই: “হে আমার বান্দারা, আমি নিজের উপর যুলম হারাম করেছি, আর তোমাদের মধ্যেও তা হারাম করেছি। সুতরাং তোমরা একে অন্যের উপর যুলম করো না।” এরপর বর্ণনাটি আরও অনেকগুলো সম্বোধন নিয়ে দীর্ঘ হয়েছে। শেষের দিকে আলাদা একটি অংশে আসে: “হে আমার বান্দারা, এ তো কেবল তোমাদের আমল, যা আমি তোমাদের জন্য গুনে রাখি, তারপর তার পুরো প্রতিদান দিই। সুতরাং যে কল্যাণ পায়, সে যেন আল্লাহর প্রশংসা করে, আর যে অন্য কিছু পায়, সে যেন নিজেকে ছাড়া আর কাউকে দোষ না দেয়।”"
+          },
+          {
+            "en": "Muslim adds that Sa'id, a narrator in the chain, said that when Abu Idris al-Khawlani narrated this hadith he knelt upon his knees. The two halves of 43:76 and the two ends of this narration meet without needing commentary: Allah has forbidden injustice to Himself, and what a person meets at the end is the record of his own deeds. That is why the last instruction is about blame, and where it is to be laid.",
+            "bn": "মুসলিম আরও উল্লেখ করেছেন, সনদের এক বর্ণনাকারী সাঈদ বলেছেন, আবু ইদরীস খাওলানী যখন এই হাদীস বর্ণনা করতেন, তখন হাঁটু গেড়ে বসে পড়তেন। ৪৩:৭৬-এর দুই ভাগ আর এই বর্ণনার দুই প্রান্ত কোনো ব্যাখ্যা ছাড়াই মিলে যায়। আল্লাহ নিজের উপর যুলম হারাম করেছেন, আর শেষে মানুষ যা পায় তা তার নিজের আমলেরই হিসাব। তাই শেষ নির্দেশটা দোষ নিয়ে: দোষটা কোথায় রাখতে হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Judgement Left With Allah Alone",
+          "bn": "বিচারের ভার কেবল আল্লাহর"
+        },
+        "p": [
+          {
+            "en": "This needs saying firmly. The verse describes the criminals in the Fire, those its context names, as the text describes them, after the proof had reached them. It names no living person, group or community, and it licenses nothing against anyone alive: not contempt, not a verdict on who will end in the Fire, not harm of any kind. Who will be among those people is known to Allah alone, and the reader is not asked to sort others into them.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াতটি জাহান্নামে থাকা অপরাধীদের বর্ণনা দেয়, প্রসঙ্গ যাদের কথা বলছে তাদের, ঠিক যেভাবে পাঠ তাদের বর্ণনা দেয়, তাদের কাছে প্রমাণ পৌঁছানোর পরে। আয়াতটি কোনো জীবিত মানুষ, দল বা সম্প্রদায়ের নাম নেয় না। জীবিত কারও বিরুদ্ধে এটি কোনো কিছুরই অনুমতি দেয় না: না অবজ্ঞার, না কে জাহান্নামে যাবে সে রায় দেওয়ার, না কোনো রকম ক্ষতি করার। কারা ওই দলে থাকবে, তা শুধু আল্লাহই জানেন। অন্যদের ওই দলে ভাগ করে বসানোর দায়িত্ব পাঠককে দেওয়া হয়নি।"
+          },
+          {
+            "en": "Nor is the verse about misfortune in this world. In every commentary fetched for it, its subject is the punishment of Hell, and its claim is about the justice of that punishment. It gives no ground for telling someone who is suffering that their suffering is a penalty they earned. The verse looks at a closed account. Its use for a living reader is to look at an account that is still open, and that account is the reader's own.",
+            "bn": "এ আয়াত দুনিয়ার বিপদ-আপদ নিয়েও নয়। এর জন্য সংগৃহীত প্রতিটি তাফসীরে আয়াতের বিষয় জাহান্নামের আযাব, আর এর দাবি সেই আযাবের ন্যায্যতা নিয়ে। কষ্টে থাকা কাউকে এ কথা বলার কোনো ভিত্তি আয়াতটি দেয় না যে তার কষ্ট তারই কামানো শাস্তি। আয়াতটি তাকিয়ে আছে এমন এক হিসাবের দিকে, যা বন্ধ হয়ে গেছে। জীবিত পাঠকের কাজে তা লাগে তখন, যখন সে তাকায় এমন হিসাবের দিকে, যা এখনো খোলা। আর সেই হিসাবটা তার নিজের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Owning the Wrong Today",
+          "bn": "আজই ভুলের দায় নেওয়া"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's phrase, what their hands sent forward, points at something still happening. Hands are sending things forward today, and the verse shows where that ends when the sending is never questioned. The Qur'an goes on in 43:77 to their cry, and in 43:78 to the truth they had been brought and disliked. There Ibn Kathir's English abridgement adds that they will blame themselves and feel regret when regret is of no benefit to them.",
+            "bn": "সা'দীর কথা, তাদের হাত যা আগে পাঠিয়েছে, এমন কিছুর দিকে ইঙ্গিত করে যা এখনো চলছে। আজও হাত কিছু না কিছু আগে পাঠাচ্ছে। আর সেই পাঠানো নিয়ে কখনো প্রশ্ন না তুললে তা কোথায় গিয়ে শেষ হয়, আয়াতটি তা দেখায়। কুরআন এরপর ৪৩:৭৭-এ যায় তাদের আর্তনাদে, আর ৪৩:৭৮-এ সেই সত্যে, যা তাদের কাছে আনা হয়েছিল আর তারা অপছন্দ করেছিল। সেখানে ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ যোগ করে, তারা নিজেদেরই দোষ দেবে আর অনুতপ্ত হবে, এমন সময়ে যখন অনুতাপ তাদের কোনো কাজে আসবে না।"
+          },
+          {
+            "en": "The same narration in Muslim, at a point between its opening and its close, holds the door that this verse shows shut. That separate line reads: “O My servants, you sin by night and by day, and I forgive all sins, so seek forgiveness of Me and I shall forgive you.” Owning the wrong now is the reverse of what the verse describes. It means saying, while it can still be mended, the wrong was mine, and turning to Him who forgives.",
+            "bn": "মুসলিমের সেই একই বর্ণনায়, শুরু আর শেষের মাঝখানের এক জায়গায়, এমন একটা দরজার কথা আছে, যা এ আয়াতে বন্ধ দেখা যায়। আলাদা সেই অংশটি এই: “হে আমার বান্দারা, তোমরা রাতদিন ভুল করো, আর আমি সব গুনাহ মাফ করি। সুতরাং আমার কাছে ক্ষমা চাও, আমি তোমাদের ক্ষমা করব।” এখনই ভুলের দায় নেওয়া আয়াতের বর্ণিত পরিণতির ঠিক উল্টো। তার মানে, শুধরে নেওয়ার সময় থাকতেই বলা, ভুলটা আমার ছিল, আর যিনি ক্ষমা করেন তাঁর দিকে ফিরে আসা।"
+          }
+        ]
+      }
+    ]
+  },
   "43:80": {
     "sections": [
       {

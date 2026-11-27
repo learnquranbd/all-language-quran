@@ -37953,6 +37953,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When you have been patient and are still wronged, take your case to Allah in plain, honest words, and leave the outcome with Him instead of reaching for revenge or curses.",
     "lessonBn": "ধৈর্য ধরার পরও অন্যায়ের শিকার হলে নিজের নালিশ সোজা ও সত্য কথায় আল্লাহর কাছে নিয়ে যান, আর প্রতিশোধ বা অভিশাপের দিকে না গিয়ে ফলাফল তাঁর হাতে ছেড়ে দিন।"
+  },
+  "43:76": {
+    "reflectionEn": "The scene is the Fire. Its punishment does not ease, and those inside it have given up hope. Then comes a short sentence from Allah: We did not wrong them, but it was they who were the wrongdoers. Nobody in that place can call the verdict unfair. The wrong was done earlier, in a life that turned away from the truth when it came. This is not a verse for pointing at other people; it describes those it describes, and the judging belongs to Allah. It is a verse for my own account. When my choices come back to me, do I blame fate, the people around me, even my Lord? Or can I say, while there is still time to put it right: the wrong was mine?",
+    "reflectionBn": "দৃশ্যটা জাহান্নামের। সেখানকার আযাব একটুও হালকা হয় না, আর ভেতরের মানুষগুলো সব আশা হারিয়ে ফেলেছে। ঠিক তখন আল্লাহর ছোট্ট একটি বাক্য: আমি তাদের উপর যুলম করিনি, বরং তারাই ছিল যালিম। ওখানে কেউ বলতে পারবে না যে রায়টা অন্যায় হয়েছে। অন্যায়টা ঘটেছিল আগেই, এমন এক জীবনে, যে জীবন সত্য সামনে আসার পরও মুখ ফিরিয়ে নিয়েছিল। অন্যের দিকে আঙুল তোলার আয়াত এটা নয়। আয়াতটি যাদের কথা বলে, শুধু তাদেরই বর্ণনা দেয়, আর বিচারের ভার আল্লাহর। এ আয়াত আমার নিজের হিসাবের জন্য। আমার নিজের কাজের ফল যখন আমার কাছে ফিরে আসে, আমি কি ভাগ্যকে দোষ দিই, আশপাশের মানুষকে দোষ দিই, এমনকি আমার রবকেও? নাকি শুধরে নেওয়ার সময় থাকতেই বলতে পারি: ভুলটা আমারই ছিল?",
+    "pointsEn": [
+      "When my own choices catch up with me, whose name is the first I reach for?",
+      "Is there a truth I have been shown clearly and keep turning from because it would cost me something?",
+      "What wrong against my own soul am I still calling someone else's fault?",
+      "Do I read verses about the Fire as verdicts on other people, or as warnings spoken to me?",
+      "Which wrong could I put right this week, while putting it right is still possible?"
+    ],
+    "pointsBn": [
+      "নিজের সিদ্ধান্তের ফল যখন আমার ঘাড়ে এসে পড়ে, তখন সবার আগে কার নাম আমার মুখে আসে?",
+      "এমন কোনো সত্য কি আছে, যা আমাকে পরিষ্কার দেখানো হয়েছে, অথচ মানতে গেলে কিছু হারাতে হবে বলে আমি বারবার এড়িয়ে যাই?",
+      "নিজের উপর করা কোন যুলমকে আমি এখনো অন্যের দোষ বলে চালিয়ে যাচ্ছি?",
+      "জাহান্নামের আয়াতগুলো কি আমি অন্যদের উপর রায় হিসেবে পড়ি, নাকি আমাকেই করা সতর্কবাণী হিসেবে?",
+      "এ সপ্তাহে কোন ভুলটা আমি শুধরে নিতে পারি, যতক্ষণ শুধরানোর সুযোগ আছে?"
+    ],
+    "lessonEn": "Allah wrongs no one. Own your wrongs now, while repentance is still open, instead of laying them on other people, on fate, or on Him.",
+    "lessonBn": "আল্লাহ কারও উপর যুলম করেন না। তওবার দরজা খোলা থাকতেই নিজের ভুলের দায় নিজে নিন, অন্য মানুষ, ভাগ্য বা তাঁর উপর তা চাপাবেন না।"
   }
 };
 
