@@ -35299,6 +35299,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "See the sun, moon and stars as gifts that point to their Maker, and answer them with praise and gratitude, not with fortune-telling or idle curiosity.",
     "lessonBn": "সূর্য, চাঁদ আর তারাকে দেখুন তাদের স্রষ্টার দিকে ইশারা করা দান হিসেবে। এর জবাব দিন প্রশংসা আর কৃতজ্ঞতায়, ভাগ্য গণনা বা অলস কৌতূহলে নয়।"
+  },
+  "26:19": {
+    "reflectionEn": "Two messengers arrive with a plain request, and the king answers with a biography. We raised you, you lived among us for years, and then you did your deed, the one you did, and you were of the ungrateful. He never names the act. He does not need to; the whole court knows it. One day from a man's past is held up to cancel the message he carries now. The reply that follows does not deny the event, and it does not let that event decide whether the message is true. I read this verse from both sides. When someone raises my past, do I let shame silence what is right? And when I want to dismiss someone, do I reach for his history instead of his words?",
+    "reflectionBn": "দুজন রসূল এসেছেন একটা সোজা দাবি নিয়ে, আর রাজা জবাব দিচ্ছে জীবনকাহিনি শুনিয়ে। আমরা তোমাকে লালনপালন করেছি, তুমি বছরের পর বছর আমাদের মাঝে থেকেছ, তারপর তুমি তোমার সেই কাজটা করেছ, যা করার করেছ, আর তুমি ছিলে অকৃতজ্ঞদের একজন। কাজটার নাম সে মুখে আনে না। আনার দরকারও নেই, গোটা দরবার জানে। একজন মানুষের অতীতের একটা দিন তুলে ধরা হচ্ছে, যাতে আজ তিনি যে বার্তা বয়ে এনেছেন তা বাতিল হয়ে যায়। পরের জবাবে ঘটনাটা অস্বীকার করা হয় না। আবার বার্তা সত্য কি না, সে রায় দেওয়ার ভারও সেই ঘটনার হাতে ছেড়ে দেওয়া হয় না। এ আয়াত আমি দুই দিক থেকে পড়ি। কেউ আমার অতীত টেনে আনলে আমি কি লজ্জায় ন্যায্য কথাটা গিলে ফেলি? আর কাউকে উড়িয়ে দিতে চাইলে আমি কি তার কথা ছেড়ে তার অতীত হাতড়াই?",
+    "pointsEn": [
+      "When my past is raised against me, do I answer it honestly, or let it shame me out of saying what is true?",
+      "Have I ever answered someone's argument by reminding the room of his worst moment?",
+      "Is there a kindness I once did that I now hold over someone, as if it bought his silence?",
+      "Whose real kindness to me have I left unthanked, and how could I thank them this week?",
+      "When I weigh a message, do I look at what is said, or only at who is saying it?"
+    ],
+    "pointsBn": [
+      "কেউ আমার অতীত আমার বিরুদ্ধে টেনে আনলে আমি কি সৎভাবে তার জবাব দিই, নাকি লজ্জায় সত্য কথাটাই আর বলি না?",
+      "কারও যুক্তির জবাব দিতে গিয়ে আমি কি কখনো সবার সামনে তার জীবনের সবচেয়ে খারাপ মুহূর্তটা মনে করিয়ে দিয়েছি?",
+      "একসময় কারও জন্য করা কোনো উপকার কি আমি এখন খোঁটা হিসেবে ব্যবহার করি, যেন তাতে তার মুখ বন্ধ রাখার দাম শোধ হয়ে গেছে?",
+      "কার সত্যিকারের উপকারের শুকরিয়া আমি আজও আদায় করিনি? এ সপ্তাহে কীভাবে তা করতে পারি?",
+      "কোনো বার্তা যাচাই করার সময় আমি কি দেখি কী বলা হচ্ছে, নাকি শুধু দেখি কে বলছে?"
+    ],
+    "lessonEn": "Do not let anyone's past, or your own, decide whether a truth is true, and never use a person's worst day to silence what he brings.",
+    "lessonBn": "কারও অতীত, এমনকি নিজের অতীতও, যেন ঠিক করে না দেয় কোনো সত্য সত্য কি না। আর কারও জীবনের সবচেয়ে খারাপ দিনটা টেনে এনে তার আনা কথাকে চুপ করিয়ে দেবেন না।"
   }
 };
 

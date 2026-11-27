@@ -879,6 +879,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "Answering a Message With a Past",
+          "bn": "বার্তার জবাবে পুরনো কাহিনি"
+        },
+        "p": [
+          {
+            "en": "Two messengers have just delivered God's words in Pharaoh's court: we are the messengers of the Lord of the worlds, so send the Children of Israel with us (26:16, 26:17). Pharaoh does not answer the request. He turns to the man who made it. Did we not raise you among us as a child, and did you not stay among us for years of your life (26:18)? Then comes our verse: wa fa'alta fa'lataka allati fa'alta wa anta mina al-kafirin, and you did your deed which you did, and you were of the ungrateful.",
+            "bn": "দুজন রসূল এইমাত্র ফেরাউনের দরবারে আল্লাহর কথা পৌঁছে দিয়েছেন: আমরা বিশ্বজগতের প্রতিপালকের রসূল, কাজেই বনী ইসরাঈলকে আমাদের সঙ্গে যেতে দাও (২৬:১৬, ২৬:১৭)। দাবিটার জবাব ফেরাউন দেয় না। সে ঘুরে দাঁড়ায় দাবিদারের দিকে। আমরা কি তোমাকে শিশুকালে আমাদের মধ্যে লালনপালন করিনি, আর তুমি কি জীবনের অনেকগুলো বছর আমাদের মাঝে কাটাওনি (২৬:১৮)? তারপরই আমাদের আয়াত: ওয়া ফাআলতা ফা'লাতাকাল্লাতী ফাআলতা ওয়া আনতা মিনাল কাফিরীন। তুমি তোমার সেই কাজটা করেছ, যা করার করেছ, আর তুমি ছিলে অকৃতজ্ঞদের একজন।"
+          },
+          {
+            "en": "Al-Muyassar reads the two verses as one speech made mumtannan, by a man holding his favours over another: did we not raise you in our houses as a small child, keep you in our care for years of your life, and then you committed a crime by killing a man of my people? Ibn Kathir, in the abridged English, has Pharaoh turn from the message, regarding Musa (AS) with scorn, then set the nourishment and favours of many years against the way, in his telling, they had been repaid.",
+            "bn": "মুয়াসসার দুই আয়াতকে একটানা এক বক্তব্য হিসেবে পড়ে, যা বলা হচ্ছে মুমতান্নান, অর্থাৎ অনুগ্রহের খোঁটা দিয়ে: আমরা কি তোমাকে ছোটবেলায় আমাদের ঘরে লালন করিনি, বছরের পর বছর আমাদের তত্ত্বাবধানে রাখিনি? আর তুমি কিনা আমার জাতির একজনকে হত্যা করে অপরাধ ঘটালে! ইবন কাসীরের সংক্ষিপ্ত ইংরেজি পাঠ বলে, ফেরাউন বার্তা থেকে মুখ ফিরিয়ে নেয়, মূসা (আঃ)-কে তাচ্ছিল্যের চোখে দেখে। তারপর বহু বছরের খাওয়া-পরা আর উপকারের হিসাব সে তুলে ধরে, আর তার পাশে রাখে, তার ভাষায়, সেই উপকারের কী প্রতিদান মিলেছে।"
+          },
+          {
+            "en": "These seven Arabic words are Pharaoh's, and the Qur'an reports them as his. They are an accusation made in a hostile court, not the Qur'an's verdict on Musa (AS), and this article does not take them over as its own. Musa's reply follows at once in 26:20 and 26:21, and his answer to the favour comes in 26:22; each belongs to its own verse. The task here is to hear what Pharaoh said, how the commentators read it, and what the move teaches.",
+            "bn": "আরবি এই সাতটি শব্দ ফেরাউনের, আর কুরআন সেগুলো তার কথা হিসেবেই উদ্ধৃত করেছে। শত্রুভাবাপন্ন এক দরবারে তোলা অভিযোগ এগুলো, মূসা (আঃ) সম্পর্কে কুরআনের রায় নয়। এই লেখাও সে কথাগুলোকে নিজের কথা বানায় না। মূসা (আঃ)-এর জবাব আসে সঙ্গে সঙ্গেই, ২৬:২০ ও ২৬:২১ আয়াতে, আর অনুগ্রহের খোঁটার জবাব আসে ২৬:২২ আয়াতে। প্রতিটির আলোচনা তার নিজের আয়াতে। এখানে দেখার বিষয়: ফেরাউন ঠিক কী বলল, তাফসীরকারেরা তা কীভাবে বুঝেছেন, আর তার এই চাল থেকে কী শেখার আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Deed He Would Not Name",
+          "bn": "যে কাজের নাম সে নেয়নি"
+        },
+        "p": [
+          {
+            "en": "Pharaoh never says what the deed was. The Arabic circles it three times, fa'alta, fa'lataka, fa'alta: you did, your deed, which you did, as if the act were so well known that naming it would be wasted breath. The commentators fill it in. At-Tabari says it means his killing of the soul he killed from the Copts, and reports the same from Mujahid, whose gloss is simply: the killing of a soul. Al-Baghawi says it means the killing of the Copt.",
+            "bn": "কাজটা কী, ফেরাউন একবারও বলে না। আরবি বাক্যটা তিনবার একই জিনিসের চারপাশে ঘোরে: ফাআলতা, ফা'লাতাকা, ফাআলতা। তুমি করেছ, তোমার কাজ, যা তুমি করেছ। যেন ঘটনাটা এত জানা যে নাম নেওয়াটাই বাহুল্য। তাফসীরকারেরা শূন্যস্থানটা পূরণ করে দেন। তাবারী বলেন, এর মানে কিবতীদের সেই লোকটিকে হত্যা, যাকে তিনি হত্যা করেছিলেন। মুজাহিদ থেকেও তিনি একই কথা বর্ণনা করেন, যাঁর ব্যাখ্যা মাত্র দুই শব্দের: একটি প্রাণ হত্যা। বাগাভীও বলেন, এর অর্থ কিবতীকে হত্যা।"
+          },
+          {
+            "en": "As-Sa'di points to where the event is told: it was Musa's killing of the Copt when a man of his own people called on him for help against a man of his enemy, and he quotes the words of 28:15, so Musa struck him and finished him. That verse and the one after it are the place to read the incident; they are cited here, not retold. What matters for 26:19 is the shape of the charge: an event from years before, set beside a message delivered today and left to work on the listeners' minds.",
+            "bn": "ঘটনাটা কোথায় বলা আছে, সা'দী তা দেখিয়ে দেন। মূসা (আঃ)-এর নিজের দলের একজন শত্রুপক্ষের একজনের বিরুদ্ধে তাঁর সাহায্য চেয়েছিল, তখন তিনি সেই কিবতীকে হত্যা করেন। সা'দী এখানে ২৮:১৫ আয়াতের শব্দগুলো উদ্ধৃত করেন: মূসা তাকে ঘুষি মারলেন, আর তাতেই তার মৃত্যু হলো। ঘটনাটা পড়ার জায়গা সেই আয়াত আর তার পরেরটি, এখানে শুধু উল্লেখ করা হলো, নতুন করে বলা হলো না। ২৬:১৯ আয়াতের জন্য জরুরি হলো অভিযোগটার গড়ন: বহু বছর আগের একটি ঘটনা, আজকের বার্তার পাশে বসিয়ে দেওয়া, যাতে শ্রোতাদের মনে সে নিজের কাজ করে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Act, Done Once",
+          "bn": "একবারের একটি কাজ"
+        },
+        "p": [
+          {
+            "en": "The word fa'lah itself carries a point of grammar on which both at-Tabari and al-Qurtubi stop. With the fa' vowelled a, fa'lah is the noun of a single instance: one doing, one time. At-Tabari says it was said fa'lataka because it happened once, and adds that the fa' may not take the vowel i when this meaning is intended. Al-Qurtubi likewise defines al-fa'lah, with a, as the single occurrence of an act.",
+            "bn": "ফা'লাহ শব্দটার ভেতরেই ব্যাকরণের একটা সূক্ষ্ম কথা আছে, তাবারী আর কুরতুবী দুজনেই সেখানে থামেন। ফা অক্ষরে যবর দিয়ে পড়লে ফা'লাহ মানে একবারের কাজ: একটি করা, একটিবার। তাবারী বলেন, ফা'লাতাকা বলা হয়েছে কারণ ঘটনাটা ঘটেছিল একবারই। তিনি যোগ করেন, এই অর্থ বোঝাতে চাইলে ফা-তে যের দেওয়া চলে না। কুরতুবীও যবরসহ আল-ফা'লাহকে সংজ্ঞায়িত করেন কোনো কাজের একবার ঘটা হিসেবে।"
+          },
+          {
+            "en": "Both also report that ash-Sha'bi read fi'lataka, with i. At-Tabari calls that reading contrary to the reading of the reciters of the great cities. Al-Qurtubi says the reading with a is more fitting, since the act happened once, and explains what the other vowel would mean: fi'lah denotes a manner or state, so the sense becomes your deed that you know of. He then draws out the taunt in it: how can you claim God sent you, when we know your states? At-Tabari rules the i out for this sense; al-Qurtubi calls the a the better choice.",
+            "bn": "দুজনেই আরও জানান যে শা'বী যেরসহ পড়েছিলেন ফি'লাতাকা। তাবারী বলেন, এ পাঠ বড় বড় শহরের কারীদের পাঠের বিপরীত। কুরতুবীর মতে যবরের পাঠই বেশি সংগত, কারণ কাজটা ছিল একবারের। অন্য স্বরচিহ্নে কী অর্থ দাঁড়ায়, তাও তিনি বুঝিয়ে দেন: ফি'লাহ মানে ধরন বা অবস্থা। তখন অর্থ হয়, তোমার সেই কাজ, যা তুমি জানো। এর ভেতরের খোঁচাটাও তিনি খুলে দেখান: তোমার হালচাল আমাদের জানা, তবু তুমি কী করে দাবি করো যে আল্লাহ তোমাকে পাঠিয়েছেন? তাবারী এই অর্থে যের বাদ দেন, আর কুরতুবী যবরকে বলেন উত্তম পাঠ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ungrateful, or Unbelieving?",
+          "bn": "অকৃতজ্ঞ, নাকি অবিশ্বাসী?"
+        },
+        "p": [
+          {
+            "en": "The weight of the verse falls on its last words, wa anta mina al-kafirin, and here the commentators genuinely divide. The word can name one who covers over a favour, an ingrate, or one who disbelieves, and both senses are argued. At-Tabari says plainly that the people of interpretation differed, and sets out each reading with its chain. On the first, the sense is: you were of those who disbelieve in God, on our religion. He reports it from as-Suddi, who adds: on this religion of ours which you now find fault with.",
+            "bn": "আয়াতের ভার পড়েছে শেষ কটি শব্দে: ওয়া আনতা মিনাল কাফিরীন। এখানে তাফসীরকারেরা সত্যিই দুই ভাগ। শব্দটা এমন লোককে বোঝাতে পারে যে উপকার চেপে যায়, মানে অকৃতজ্ঞ, আবার অবিশ্বাসীকেও বোঝাতে পারে। দুই অর্থের পক্ষেই যুক্তি আছে। তাবারী সোজাসুজি বলেন, ব্যাখ্যাকারেরা এখানে মতভেদ করেছেন, আর প্রতিটি মত তিনি সনদসহ সাজিয়ে দেন। প্রথম মতে অর্থ: তুমি ছিলে আল্লাহকে অস্বীকারকারীদের একজন, আমাদের ধর্মের ওপর। এটি তিনি বর্ণনা করেন সুদ্দী থেকে, যিনি যোগ করেন: আমাদের এই ধর্মের ওপর, আজ তুমি যার দোষ ধরছ।"
+          },
+          {
+            "en": "On the second, the sense is: you were of those ungrateful for our favour to you. At-Tabari reports it from Ibn Zayd, who puts it in Pharaoh's mouth: we raised you among us as a child, and this is how you repaid us, by killing one of us, and you were ungrateful for our favour. He also reports from Ibn 'Abbas (RA): ungrateful for the favour, because Pharaoh did not know what kufr was. Al-Baghawi says this second reading is that of most commentators, and names al-Hasan together with as-Suddi for the first.",
+            "bn": "দ্বিতীয় মতে অর্থ: তোমার প্রতি আমাদের অনুগ্রহের যারা নাশুকরি করে, তুমি তাদের একজন। তাবারী এটি বর্ণনা করেন ইবন যায়দ থেকে, যিনি কথাটা ফেরাউনের মুখে বসান: আমরা তোমাকে শিশুকালে আমাদের মধ্যে লালন করেছি, আর তার প্রতিদান তুমি দিলে আমাদের একজনকে মেরে, আমাদের অনুগ্রহের নাশুকরি করে। ইবন আব্বাস (রাঃ) থেকেও তিনি বর্ণনা করেন: অনুগ্রহের প্রতি অকৃতজ্ঞ, কারণ কুফর জিনিসটা কী, ফেরাউন তা জানতই না। বাগাভী বলেন, অধিকাংশ তাফসীরকারের মত এই দ্বিতীয়টি। প্রথম মতের পক্ষে তিনি সুদ্দীর সঙ্গে হাসানের নামও নেন।"
+          },
+          {
+            "en": "Al-Qurtubi gathers more voices. Ad-Dahhak takes it as: you were of the kafirin in killing the Copt, since he was a soul it was not lawful to kill. Al-Hasan, in al-Qurtubi's report, takes it as: of the kafirin in that I am your god. Ibn Zayd's reading of ingratitude for upbringing and kindness appears again. Al-Muyassar joins the two main senses in one phrase: of those who deny my favour and reject my lordship. Ibn Kathir glosses al-kafirin as al-jahidin, the deniers, from Ibn 'Abbas and Ibn Zayd, and notes that Ibn Jarir chose it.",
+            "bn": "কুরতুবী আরও কয়েকটি কণ্ঠ জড়ো করেন। দাহহাকের মতে অর্থ: কিবতীকে হত্যার ব্যাপারে তুমি কাফিরদের একজন, কারণ সে ছিল এমন প্রাণ যাকে হত্যা করা বৈধ ছিল না। কুরতুবীর বর্ণনায় হাসান বোঝেন: আমি যে তোমার ইলাহ, তা অস্বীকারকারীদের একজন। লালনপালন আর উপকারের প্রতি অকৃতজ্ঞতার যে পাঠ ইবন যায়দ দেন, তা এখানেও আসে। মুয়াসসার দুই প্রধান অর্থকে এক বাক্যে জুড়ে দেয়: যারা আমার অনুগ্রহ অস্বীকার করে আর আমার প্রভুত্ব মানে না। ইবন কাসীর আল-কাফিরীনের ব্যাখ্যা দেন আল-জাহিদীন, অর্থাৎ অস্বীকারকারী। এটি তিনি আনেন ইবন আব্বাস ও ইবন যায়দ থেকে, আর জানান যে ইবন জারীর এ মতই গ্রহণ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why at-Tabari Chose Ingratitude",
+          "bn": "তাবারী কেন নাশুকরির পাঠ নেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari does not leave the question open; he states his preference and his reason. Ibn Zayd's reading, he says, is closer to the meaning of the verse, because Pharaoh did not acknowledge God's lordship at all; he claimed that he himself was the lord. So it would make no sense for him to call Musa (AS) a disbeliever in God for the time when, on as-Suddi's account, Musa was on Pharaoh's own religion. In Pharaoh's eyes, faith was that very religion.",
+            "bn": "তাবারী প্রশ্নটা খোলা রেখে দেন না। নিজের পছন্দ আর তার কারণ দুটোই বলেন। তাঁর মতে ইবন যায়দের পাঠই আয়াতের অর্থের বেশি কাছাকাছি। কারণ ফেরাউন আল্লাহর রুবূবিয়্যাত আদৌ স্বীকার করত না, সে দাবি করত সে নিজেই রব। কাজেই সুদ্দীর বর্ণনা মতে মূসা (আঃ) যখন ফেরাউনের ধর্মেই ছিলেন বলে ধরা হয়, সেই সময়ের জন্য তাঁকে আল্লাহর অস্বীকারকারী বলা ফেরাউনের মুখে খাপ খায় না। ফেরাউনের চোখে ঈমান মানে তো ছিল ওই ধর্মই।"
+          },
+          {
+            "en": "He then leaves room for the other view. Someone might say, at-Tabari allows, that Pharaoh meant: you were of the kafirin that day, Musa, by the measure of what you say today. That, he grants, is a sense that can stand. His own paraphrase of the whole is: you killed the one of ours you killed, while you were ungrateful for our favour to you and our kindness towards you. He closes with one more report, introduced with it has been said: you are now of those ungrateful for my favour and my raising of you.",
+            "bn": "এরপর তিনি অন্য মতের জন্যও জায়গা রাখেন। কেউ হয়তো বলবে, ফেরাউন বোঝাতে চেয়েছে: হে মূসা, আজ তুমি যা বলছ সেই মাপকাঠিতে সেদিন তুমি কাফিরদের একজন ছিলে। তাবারী মানেন, এ অর্থও দাঁড়াতে পারে। তবে গোটা বাক্যের যে ব্যাখ্যা তিনি নিজে দেন তা হলো: আমাদের যাকে মারার তুমি মেরেছ, আর তখন তুমি ছিলে তোমার প্রতি আমাদের অনুগ্রহ ও সদাচরণের প্রতি অকৃতজ্ঞ। শেষে তিনি 'বলা হয়েছে' দিয়ে আরও একটি মত আনেন: তুমি এখন আমার অনুগ্রহ আর আমার হাতে তোমার বেড়ে ওঠার প্রতি অকৃতজ্ঞ।"
+          },
+          {
+            "en": "As-Sa'di takes the other side, and draws an irony from it. On his reading Pharaoh means: at that time your way was our way and your path our path, in kufr. In saying so, as-Sa'di remarks, Pharaoh confessed kufr against himself without realising it. The two sides are kept here as the commentators hold them, with at-Tabari, Ibn Kathir, Ibn 'Abbas and Ibn Zayd for ingratitude, and as-Suddi, al-Hasan and as-Sa'di for the reading of religion. On either reading the word is Pharaoh's charge, not the Qur'an's description of Musa (AS).",
+            "bn": "সা'দী নেন অন্য পক্ষ, আর তা থেকে একটা পরিহাস বের করে আনেন। তাঁর পাঠে ফেরাউনের কথার মানে: তখন কুফরের ব্যাপারে তোমার পথ ছিল আমাদেরই পথ, তোমার রাস্তা ছিল আমাদেরই রাস্তা। সা'দী মন্তব্য করেন, এ কথা বলে ফেরাউন নিজের অজান্তে নিজেরই কুফর স্বীকার করে ফেলল। দুই পক্ষকে এখানে রাখা হলো যেভাবে তাফসীরকারেরা রেখেছেন। অকৃতজ্ঞতার পাঠে আছেন তাবারী, ইবন কাসীর, ইবন আব্বাস ও ইবন যায়দ। ধর্মের পাঠে আছেন সুদ্দী, হাসান ও সা'দী। যে পাঠই নিন, শব্দটা ফেরাউনের তোলা অভিযোগ, মূসা (আঃ) সম্পর্কে কুরআনের বিবরণ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Favour Turned Into a Bill",
+          "bn": "অনুগ্রহ যখন পাওনার খাতা"
+        },
+        "p": [
+          {
+            "en": "Whichever reading one follows, the charge is built like a bill. Ibn Zayd's paraphrase makes the logic explicit: we raised you, and this is how you repaid us. Ibn Kathir's abridged text frames it the same way: our home, our bed, our nourishment over many years, and after all that, you responded to our kindness in this manner. The upbringing of 26:18 becomes a debt, and the killing becomes a default on it. A kindness, once it is counted, turns into something to collect.",
+            "bn": "যে পাঠই ধরা হোক, অভিযোগটা সাজানো হয়েছে পাওনার হিসাবের মতো। ইবন যায়দের ব্যাখ্যায় যুক্তিটা খোলাখুলি: আমরা তোমাকে বড় করেছি, আর তুমি তার প্রতিদান দিলে এভাবে। ইবন কাসীরের সংক্ষিপ্ত পাঠেও একই কাঠামো: আমাদের ঘর, আমাদের বিছানা, বহু বছরের খাওয়া-দাওয়া, আর এত কিছুর পর তুমি আমাদের দয়ার জবাব দিলে এভাবে। ২৬:১৮ আয়াতের লালনপালন হয়ে যায় ঋণ, আর হত্যার ঘটনা হয়ে যায় সেই ঋণ শোধ না করা। দয়া একবার গুনে রাখা শুরু হলে তা হয়ে যায় আদায় করার মতো পাওনা।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an names the tactic. When an opponent is not equipped with sound arguments, it says, he switches the conversation to the person of the addressee, looking for faults to embarrass him and make him small before the audience; it reads Pharaoh's two points, the upbringing and the killing, as exactly that, and gives the first its sharpest form: how can you have the face to speak before us? How Musa (AS) took up both points, and in what order, is followed in the article on 26:22, so it is not repeated here.",
+            "bn": "মাআরিফুল কুরআন কৌশলটার নাম ধরে বলে। প্রতিপক্ষের হাতে মজবুত যুক্তি না থাকলে সে আলোচনা ঘুরিয়ে দেয় সামনের মানুষটার ব্যক্তিগত দিকে। দোষ খোঁজে, যাতে শ্রোতাদের সামনে তাকে লজ্জায় ফেলা যায়, ছোট করা যায়। ফেরাউনের দুটি কথা, লালনপালন আর হত্যা, মাআরিফ ঠিক এভাবেই পড়ে। প্রথমটার সবচেয়ে ধারালো রূপও সে তুলে ধরে: আমাদের সামনে কথা বলার মুখ তোমার হয় কী করে? মূসা (আঃ) দুটি কথার জবাব কীভাবে আর কোন ক্রমে দিলেন, তা ২৬:২২ আয়াতের প্রবন্ধে আছে, এখানে আর বলা হলো না।"
+          },
+          {
+            "en": "Al-Qurtubi's note on the other vowel shows the same aim from another side. Read as your deed that you know of, the words become a question about credentials: how can you claim God sent you, when we know your history? Nothing in the charge addresses whether the Lord of the worlds sent these two men. It asks the court to look away from the message and at the messenger's past. That is the move the verse records.",
+            "bn": "অন্য স্বরচিহ্ন নিয়ে কুরতুবীর মন্তব্য একই উদ্দেশ্যকে আরেক দিক থেকে দেখায়। তোমার সেই কাজ, যা তুমি জানো, এভাবে পড়লে কথাটা হয়ে যায় যোগ্যতা নিয়ে প্রশ্ন: তোমার অতীত আমাদের জানা, তবু তুমি কী করে দাবি করো যে আল্লাহ তোমাকে পাঠিয়েছেন? বিশ্বজগতের প্রতিপালক এই দুজনকে পাঠিয়েছেন কি না, অভিযোগে সে প্রশ্নের ধারেকাছেও যাওয়া হয়নি। দরবারকে বলা হচ্ছে বার্তা থেকে চোখ সরিয়ে বার্তাবাহকের অতীতের দিকে তাকাতে। আয়াতটি ঠিক এই চালটাই ধরে রেখেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pharaoh's Charge, Not the Verdict",
+          "bn": "ফেরাউনের অভিযোগ, কুরআনের রায় নয়"
+        },
+        "p": [
+          {
+            "en": "Because the verse is spoken by Pharaoh, it needs careful reading. Its words are an accusation in a hostile court, made by a ruler who claimed to be a god, against the prophet sent to him. The Qur'an reports them so that the reader can hear the reply, and the reply comes at once: Musa (AS) says he did it then, tells how he fled when he feared them, and how his Lord then granted him judgement and made him one of the messengers (26:20, 26:21). What the closing word of 26:20 means is that verse's own question.",
+            "bn": "আয়াতের কথাগুলো ফেরাউনের, তাই পড়তে হবে সাবধানে। শত্রুভাবাপন্ন দরবারে এ এক অভিযোগ, যে শাসক নিজেকে ইলাহ দাবি করত, তার মুখ থেকে, তার কাছে পাঠানো নবীর বিরুদ্ধে। কুরআন কথাগুলো উদ্ধৃত করেছে যাতে পাঠক জবাবটা শুনতে পান। আর জবাব আসে তখনই। মূসা (আঃ) বলেন, কাজটা তিনি সে সময় করেছিলেন। তারপর জানান, ভয় পেয়ে তিনি তাদের কাছ থেকে পালিয়ে গিয়েছিলেন, আর পরে তাঁর রব তাঁকে হুকুম দান করেছেন, তাঁকে রসূলদের একজন করেছেন (২৬:২০, ২৬:২১)। ২৬:২০ আয়াতের শেষ শব্দটির অর্থ কী, সে প্রশ্ন ওই আয়াতেরই।"
+          },
+          {
+            "en": "No commentator fetched for this verse attaches a hadith to it, and none reports an occasion of revelation; it sits inside the long exchange at Pharaoh's court. One thing more must be said plainly. The verse describes what the text describes: one tyrant's words, in one court, against one messenger, long ago. It licenses nothing against any living person or community, Egyptian or otherwise, and it gives no one leave to throw a person's past at him the way Pharaoh did.",
+            "bn": "এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, কোনো শানে নুযূলও বর্ণনা করেনি। আয়াতটি ফেরাউনের দরবারে চলা দীর্ঘ কথোপকথনের একটি অংশ। আরও একটি কথা সোজাসুজি বলা দরকার। আয়াতটি শুধু তা-ই বর্ণনা করে, যা এতে আছে: বহু আগে এক দরবারে এক জালিমের মুখের কথা, একজন রসূলের বিরুদ্ধে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে, মিসরীয় হোক বা অন্য কেউ, এ আয়াত কোনো কিছুর অনুমতি দেয় না। ফেরাউনের মতো কারও অতীত তার মুখের ওপর ছুড়ে মারার অনুমতিও কাউকে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Old Deeds Are Read Aloud",
+          "bn": "পুরনো কাজের খাতা খুললে"
+        },
+        "p": [
+          {
+            "en": "The verse works as a mirror held from two sides. Sometimes it is my past that is read aloud: an old failure, a known mistake, raised the moment I say something true and inconvenient. The reply in the verses that follow neither denies the event nor lets it settle the question of the message. A past can be faced honestly without being handed the right to decide what is true now. Shame that silences the truth serves whoever stirred it up, not God.",
+            "bn": "আয়াতটি যেন দুই দিক থেকে ধরা এক আয়না। কখনো আমিই সেই মানুষ, যার অতীত সবার সামনে পড়ে শোনানো হয়: পুরনো কোনো ব্যর্থতা, সবার জানা কোনো ভুল, ঠিক যখন আমি সত্য অথচ অস্বস্তিকর কিছু বলছি। পরের আয়াতগুলোর জবাবে ঘটনাটা অস্বীকারও করা হয় না, আবার বার্তার প্রশ্ন মীমাংসার ভারও সেই ঘটনার হাতে দেওয়া হয় না। অতীতের মুখোমুখি সৎভাবে দাঁড়ানো যায়, তাকে আজকের সত্য নির্ধারণের অধিকার না দিয়েও। যে লজ্জা সত্যকে চুপ করিয়ে দেয়, তাতে লাভ হয় লজ্জা উসকে দেওয়া লোকটার, আল্লাহর নয়।"
+          },
+          {
+            "en": "Sometimes I sit on Pharaoh's side of the table. When someone's words are hard to answer, it is easy to reach for his history, or for what I once did for him, and to call his challenge ingratitude. The verse asks me to catch that move in myself. Real kindness does deserve thanks. But a favour does not buy anyone's silence, and a person's worst day is no answer to what he says today.",
+            "bn": "আবার কখনো আমি বসে থাকি টেবিলের ফেরাউনের দিকটায়। কারও কথার জবাব দেওয়া কঠিন হলে তার অতীত টেনে আনা সহজ, কিংবা একসময় তার জন্য যা করেছি তা মনে করিয়ে দেওয়া, তারপর তার আপত্তিকে নাশুকরি বলে চালিয়ে দেওয়া। আয়াতটি চায়, নিজের ভেতরের এই চালটা আমি ধরে ফেলি। সত্যিকারের দয়ার শুকরিয়া অবশ্যই প্রাপ্য। তবু কোনো উপকার কারও মুখ বন্ধ রাখার দাম হতে পারে না। আর কারও জীবনের সবচেয়ে খারাপ দিনটা তার আজকের কথার জবাব নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "26:22": {
     "sections": [
       {
