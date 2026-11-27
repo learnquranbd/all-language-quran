@@ -38073,6 +38073,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Nothing in the heavens and the earth was made without purpose, and neither were you; let knowing that your deeds will be weighed shape how you live, not only what you believe.",
     "lessonBn": "আকাশ আর যমীনের কিছুই উদ্দেশ্য ছাড়া বানানো হয়নি, আপনিও নন। আপনার আমল ওজন করা হবে, এই জানা যেন শুধু বিশ্বাসে আটকে না থাকে, আপনার চলাফেরাকেও গড়ে দেয়।"
+  },
+  "44:48": {
+    "reflectionEn": "The sentence that began with seize him goes on. He has been dragged into the middle of the Fire, and now the command is to pour over his head, not plain water, but of the torment of scalding water. The commands are plural, spoken to those who carry them out; the one who receives them is a single person, and it is his own head. In the next verse he is told to taste, and reminded that he thought himself mighty and noble. Whatever rank a person claims, the verse names the head that carried the claim. The warning reaches me while I can still lower my head in prostration. What in my life still keeps my head raised against a truth I know?",
+    "reflectionBn": "‘ওকে ধর’ দিয়ে যে কথা শুরু হয়েছিল, তা এখানেও থামেনি। তাকে টেনে নেওয়া হয়েছে জাহান্নামের মাঝখানে। এবার হুকুম আসে তার মাথার উপর ঢেলে দেওয়ার। সাধারণ পানি নয়, ঢালা হবে ফুটন্ত পানির আজাব। হুকুমগুলো বহুবচনে, যারা তা পালন করবে তাদের প্রতি। কিন্তু যার উপর তা নামবে, সে একা একজন মানুষ, আর মাথাটাও তার নিজের। পরের আয়াতে তাকে বলা হবে: স্বাদ নাও, তুমি তো নিজেকে প্রতাপশালী আর সম্মানিত ভাবতে। মানুষ যে মর্যাদারই দাবি করুক, আয়াতটি সেই মাথার কথাই বলে, যে মাথা দাবিটা বয়ে বেড়াত। সতর্কবাণীটা আমার কাছে আসছে এমন সময়ে, যখন সিজদায় মাথা নোয়ানোর সুযোগ এখনো হাতে আছে। আমার জীবনে কোন জিনিস এখনো জানা সত্যের সামনে আমার মাথা উঁচু করে রাখে?",
+    "pointsEn": [
+      "When I read a verse like this, do I ask Allah to protect me from it, or do I read past it as if it were about somebody else?",
+      "Which claim to standing, wealth, family or learning do I lean on as though it could shield me from His reckoning?",
+      "The verse speaks of one person and one head: am I preparing to answer for myself alone, or counting on a crowd to stand with me?",
+      "Is there a truth I keep arguing against now that I would not want to meet for the first time on that Day?",
+      "When my head goes down in prostration, does it go down in humility, or only out of habit?"
+    ],
+    "pointsBn": [
+      "এমন আয়াত পড়ার সময় আমি কি আল্লাহর কাছে এ থেকে আশ্রয় চাই? নাকি অন্য কারও কথা ভেবে পাশ কাটিয়ে পড়ে যাই?",
+      "পদ, সম্পদ, বংশ বা বিদ্যার কোন দাবির উপর আমি এমনভাবে ভর দিই, যেন তা আমাকে তাঁর হিসাব থেকে বাঁচিয়ে দেবে?",
+      "আয়াতটি বলছে একজন মানুষের কথা, একটি মাথার কথা। আমি কি একা জবাব দেওয়ার প্রস্তুতি নিচ্ছি, নাকি ভাবছি দলবল পাশে দাঁড়াবে?",
+      "এমন কোনো সত্য কি আছে, যার বিরুদ্ধে আমি আজও তর্ক করে যাচ্ছি, অথচ সেদিন প্রথমবার তার মুখোমুখি হতে চাইব না?",
+      "সিজদায় যখন মাথা নামাই, তা কি বিনয়ে নামে, নাকি কেবল অভ্যাসে?"
+    ],
+    "lessonEn": "No rank a person claims in this world shields the head that held it high; humble yourself before Allah now, and seek His refuge from the Fire He has described.",
+    "lessonBn": "দুনিয়ায় মানুষ যে মর্যাদারই দাবি করুক, যে মাথা তা নিয়ে উঁচু ছিল, সে দাবি তাকে বাঁচাবে না। তাই এখনই আল্লাহর সামনে বিনয়ী হোন, আর যে আগুনের বর্ণনা তিনি দিয়েছেন, তা থেকে তাঁর আশ্রয় চান।"
   }
 };
 

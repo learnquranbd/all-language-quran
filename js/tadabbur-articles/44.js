@@ -2667,6 +2667,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "44:48": {
+    "sections": [
+      {
+        "h": {
+          "en": "Then, After the Dragging",
+          "bn": "টেনে নেওয়ার পরের হুকুম"
+        },
+        "p": [
+          {
+            "en": "The passage that began at 44:43 with the tree of zaqqum and its eater, al-athim, the sinner, reaches its harshest point here. The food was named in 44:43 and 44:44, its boiling in the belly in 44:45 and 44:46, and then came the command of 44:47: seize him and drag him into the midst of the Hellfire. This verse opens with thumma, then, and carries the same speech on. At-Tabari and the Muyassar both make its object explicit: pour over the head of this sinner, the athim of 44:44.",
+            "bn": "যাক্কুম গাছ আর তার আহারকারী আসীম, অর্থাৎ পাপী, এদের কথা দিয়ে যে অংশ ৪৪:৪৩ আয়াতে শুরু হয়েছিল, তা এখানে এসে সবচেয়ে কঠিন রূপ নেয়। ৪৪:৪৩ ও ৪৪:৪৪ আয়াতে খাবারের নাম এসেছে। ৪৪:৪৫ ও ৪৪:৪৬ আয়াতে এসেছে পেটের ভেতর তার ফুটে ওঠার কথা। তারপর ৪৪:৪৭ আয়াতের হুকুম: ওকে ধর, টেনে নিয়ে যাও জাহান্নামের মাঝখানে। এ আয়াত শুরু হয় সুম্মা দিয়ে, অর্থাৎ তারপর, আর একই কথাকে সামনে টেনে নেয়। তাবারী ও মুয়াসসার দুজনেই স্পষ্ট করে দেন কার মাথা: এই পাপীর, ৪৪:৪৪ আয়াতের সেই আসীমের।"
+          },
+          {
+            "en": "How Ma'arif al-Qur'an reads the order of the feeding and the dragging has been set out in the article on 44:45, and it is not repeated here. This verse adds the next stage. Thumma places the pouring after the dragging, so the passage moves from what the sinner is made to eat, to where he is dragged, to what is poured over him. Each stage is told in a few words, and each takes him a step further: from the tree, to the middle of the Fire, to the scalding water over his head.",
+            "bn": "খাওয়ানো আর টেনে নেওয়ার ক্রম নিয়ে মাআরিফুল কুরআনের ব্যাখ্যা ৪৪:৪৫ আয়াতের প্রবন্ধে এসেছে, এখানে তার পুনরাবৃত্তি হবে না। এ আয়াত যোগ করে পরের ধাপ। সুম্মা শব্দটি ঢেলে দেওয়াকে রাখে টেনে নেওয়ার পরে। ফলে অংশটি এগোয় এভাবে: পাপীকে কী খাওয়ানো হয়, তাকে কোথায় টেনে নেওয়া হয়, তারপর তার উপর কী ঢালা হয়। প্রতিটি ধাপ বলা হয়েছে অল্প কয়েকটি শব্দে, আর প্রতিটি ধাপ তাকে আরও ভেতরে নিয়ে যায়। গাছ থেকে আগুনের মাঝখানে, আর সেখান থেকে মাথার উপর ফুটন্ত পানিতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Plural Commands, One Head",
+          "bn": "হুকুম অনেকের প্রতি, মাথা একটি"
+        },
+        "p": [
+          {
+            "en": "The verse has seven Arabic words: thumma, subbu, fawqa, ra'sihi, min, 'adhabi, al-hamim. Subbu, pour, is a command in the plural. The verse does not say to whom it is spoken, but the next verse helps: Ibn Kathir, in the abridged English, says the keepers of Hell will say taste to the sinner, by way of ridicule and rebuke. Al-Baghawi and al-Qurtubi, as the fifth section shows, relay a report in which the keeper of the Fire does the pouring. The commands go to many hands.",
+            "bn": "আয়াতে আরবি শব্দ সাতটি: সুম্মা, সুব্বূ, ফাওকা, রা'সিহী, মিন, আযাবি, আল-হামীম। সুব্বূ মানে ঢালো, আর হুকুমটি বহুবচনে। কাদের বলা হচ্ছে, আয়াত নিজে তা জানায় না। পরের আয়াত এখানে সাহায্য করে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি পাঠ বলে, জাহান্নামের রক্ষীরা পাপীকে ঠাট্টা ও ভর্ৎসনার সুরে বলবে: স্বাদ নাও। বাগাভী ও কুরতুবী এমন এক বর্ণনা আনেন, যেখানে ঢেলে দেয় জাহান্নামের রক্ষী। পঞ্চম অংশে তা আসছে। হুকুম তাই যায় অনেক হাতের কাছে।"
+          },
+          {
+            "en": "The one who receives them is single. Fawqa ra'sihi, over his head, keeps the singular pronoun of 44:47, seize him, drag him. Set beside 22:19 the difference is plain. There the same verb comes in the passive and the plural: yusabbu min fawqi ru'usihimu al-hamim, scalding water will be poured over their heads, said of a whole party, those who disbelieve. Here the speech narrows to one person and one head. However many carry out the sentence, the one who answers for his life stands alone.",
+            "bn": "কিন্তু যার উপর হুকুম কার্যকর হবে, সে একজন। ফাওকা রা'সিহী, তার মাথার উপর। ৪৪:৪৭ আয়াতের মতোই সর্বনামটি একবচন: ওকে ধর, ওকে টেনে নাও। ২২:১৯ আয়াতের পাশে রাখলে পার্থক্যটা চোখে পড়ে। সেখানে একই ক্রিয়া এসেছে কর্মবাচ্যে, বহুবচনে: ইউসাব্বু মিন ফাওকি রুঊসিহিমুল হামীম, তাদের মাথার উপর ঢালা হবে ফুটন্ত পানি। কথাটা সেখানে কাফিরদের পুরো একটি দল নিয়ে। এখানে কথা ছোট হয়ে এসে থেমেছে একজন মানুষ আর একটি মাথায়। শাস্তি কার্যকর করুক যত জনই, নিজের জীবনের জবাব দিতে দাঁড়ায় মানুষ একা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Torment Itself Is Poured",
+          "bn": "ঢালা হয় আজাবটাই"
+        },
+        "p": [
+          {
+            "en": "The object of the verb is worded with care. The verse does not say pour scalding water, as 22:19 names al-hamim directly. It says pour of the torment of scalding water, min 'adhabi al-hamim: what is poured is named by what it does to him. At-Tabari keeps the phrase and then explains al-hamim as the heated water whose description he has already given, the water of which Allah said, by it is melted what is in their bellies and their skins, and he sends the reader back to that verse, 22:20, for its description.",
+            "bn": "ক্রিয়ার কর্মটি বলা হয়েছে মেপে মেপে। ২২:১৯ আয়াত সরাসরি আল-হামীমের নাম নেয়, কিন্তু এখানে বলা হয়নি ফুটন্ত পানি ঢালো। বলা হয়েছে ফুটন্ত পানির আজাব থেকে ঢালো: মিন আযাবিল হামীম। যা ঢালা হবে, তার নাম এসেছে সে তার সঙ্গে কী করবে সেই পরিচয়ে। তাবারী শব্দগুচ্ছটি রেখে দিয়ে আল-হামীম ব্যাখ্যা করেন। এটা সেই গরম পানি, যার বিবরণ তিনি আগেই দিয়েছেন। এ সেই পানি, যার কথা আল্লাহ বলেছেন: এ দিয়ে গলিয়ে দেওয়া হবে তাদের পেটের ভেতরের সবকিছু আর চামড়া। বিবরণের জন্য তিনি পাঠককে ফেরত পাঠান সেই আয়াতে, ২২:২০।"
+          },
+          {
+            "en": "The Muyassar words it differently. It names the substance as the object, water whose heat has reached its utmost, and moves the torment into the result: so the torment does not leave him. The two glosses agree on what is poured and on its heat. They differ only in where they place the word torment, at-Tabari inside the phrase as the verse has it, the Muyassar in a consequence that never lets go. Al-Baghawi, relaying Muqatil, gives nearly the Muyassar's description: water whose heat has reached its limit.",
+            "bn": "মুয়াসসারের ভাষা আলাদা। সে কর্ম হিসেবে বস্তুটির নাম নেয়: এমন পানি, যার তাপ চরমে পৌঁছেছে। আর আজাব শব্দটিকে সরিয়ে নেয় ফলাফলে: ফলে আজাব তাকে ছেড়ে যায় না। কী ঢালা হবে আর তা কতটা গরম, এ দুই কথায় দুটি ব্যাখ্যাই একমত। পার্থক্য কেবল আজাব শব্দটি কোথায় বসছে তাতে। তাবারী তা রাখেন শব্দগুচ্ছের ভেতরে, যেমন আয়াতে আছে। মুয়াসসার তা রাখে পরিণতিতে, যা কখনো তাকে ছাড়ে না। বাগাভী মুকাতিলের বরাতে প্রায় মুয়াসসারের মতোই বর্ণনা দেন: এমন পানি, যার তাপ শেষ সীমায় পৌঁছেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hamim Within, Hamim From Above",
+          "bn": "ভেতরে হামীম, উপর থেকেও হামীম"
+        },
+        "p": [
+          {
+            "en": "The word al-hamim has already appeared two verses earlier. In 44:46 it was a likeness: the food of zaqqum boils in the bellies like the boiling of hamim. Here the likeness becomes the thing itself, and it comes from outside and from above. The passage therefore surrounds the sinner with heat on both sides: what he swallowed boils within him, and what is poured falls on his head. The article on 44:45 dealt with what boils inside; this verse adds the torment that comes down from over him.",
+            "bn": "আল-হামীম শব্দটি দুই আয়াত আগেই একবার এসেছে। ৪৪:৪৬ আয়াতে তা ছিল উপমা: যাক্কুমের খাবার পেটে ফোটে হামীমের ফোটার মতো। এখানে উপমাটাই হয়ে গেছে আসল জিনিস, আর তা আসছে বাইরে থেকে, উপর থেকে। ফলে এ অংশে পাপীর দুই দিকেই তাপ। যা সে গিলেছে, তা ভেতরে ফুটছে। আর যা ঢালা হচ্ছে, তা পড়ছে তার মাথায়। ভেতরে কী ফোটে, সে আলোচনা হয়েছে ৪৪:৪৫ আয়াতের প্রবন্ধে। এ আয়াত যোগ করে সেই আজাব, যা নেমে আসে তার মাথার উপর থেকে।"
+          },
+          {
+            "en": "Ibn Kathir makes the same joining from the other direction. He quotes 22:19 and 22:20 as this verse's parallel: scalding water poured over their heads, by which what is in their bellies is melted, and their skins. Read with that verse, what is poured over the head does not stay on the head. Al-Qurtubi also names the verse in al-Hajj as this one's counterpart, using the word naziruhu, its like. That verse has its own place and its own discussion; here it is enough to read the two side by side.",
+            "bn": "ইবন কাসীর একই সংযোগ টানেন উল্টো দিক থেকে। তিনি এ আয়াতের সমান্তরাল হিসেবে ২২:১৯ ও ২২:২০ উদ্ধৃত করেন: তাদের মাথার উপর ঢালা হবে ফুটন্ত পানি, যা দিয়ে গলে যাবে তাদের পেটের ভেতরের সবকিছু আর চামড়া। সেই আয়াতের আলোয় পড়লে বোঝা যায়, মাথায় যা ঢালা হয়, তা মাথাতেই থেমে থাকে না। কুরতুবীও সূরা হজের সেই আয়াতকে এ আয়াতের জোড়া বলেছেন, নাযীরুহু শব্দে, অর্থাৎ এর সমতুল্য। সে আয়াতের আলোচনা তার নিজের জায়গায়। এখানে দুটিকে পাশাপাশি রেখে পড়াই যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Muqatil's Report in Two Forms",
+          "bn": "মুকাতিলের বর্ণনা, দুই রূপে"
+        },
+        "p": [
+          {
+            "en": "Two commentators relay a fuller picture from Muqatil, and their versions are not the same. Al-Baghawi's is short and names no one: the keeper of the Fire strikes him on his head and pierces it, then pours into it scalding water whose heat has reached its limit. Al-Baghawi gives it simply as Muqatil's saying, qala Muqatil, and not as words of the Prophet ﷺ. It is a commentator's picture of the scene, and it should be read that way, with the verse itself as the firm ground.",
+            "bn": "দুজন তাফসীরকার মুকাতিলের কাছ থেকে আরও বিস্তারিত ছবি আনেন, আর দুজনের বর্ণনা হুবহু এক নয়। বাগাভীর বর্ণনা ছোট, তাতে কারও নাম নেই। জাহান্নামের রক্ষী তার মাথায় আঘাত করে মাথা ফুটো করে দেয়। তারপর সেখানে ঢেলে দেয় এমন ফুটন্ত পানি, যার তাপ শেষ সীমায় পৌঁছেছে। বাগাভী এটিকে এনেছেন কেবল মুকাতিলের কথা হিসেবে, কালা মুকাতিল বলে, নবী ﷺ-এর বাণী হিসেবে নয়। এ হলো দৃশ্যটি নিয়ে এক তাফসীরকারের ছবি। সেভাবেই একে পড়তে হবে, আর মজবুত ভিত্তি থাকবে আয়াত নিজেই।"
+          },
+          {
+            "en": "Al-Qurtubi's version of the report is longer. It names the keeper of the Fire as Malik, names the man as Abu Jahl, and runs on into the next verse's word, taste. This article records that naming and goes no further with it. Ibn Kathir, in the abridged English on 44:43 and 44:44, says that more than one commentator held the sinner of this passage to be Abu Jahl, that he is undoubtedly included, but that it is not specifically about him. The article on 44:43 has already set this out.",
+            "bn": "কুরতুবীর কাছে একই বর্ণনা আরও লম্বা। তাতে জাহান্নামের রক্ষীর নাম মালিক, লোকটির নাম আবু জাহল, আর বর্ণনাটি গড়িয়ে গিয়ে মেশে পরের আয়াতের শব্দে: স্বাদ নাও। এ প্রবন্ধ নামটির উল্লেখটুকু রাখছে, এর বেশি কিছু নয়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি পাঠ ৪৪:৪৩ ও ৪৪:৪৪ আয়াতের আলোচনায় বলে, একাধিক তাফসীরকার এ অংশের পাপী বলতে আবু জাহলকে বুঝিয়েছেন। সে যে এর অন্তর্ভুক্ত, তাতে সন্দেহ নেই, তবে আয়াত বিশেষভাবে কেবল তাকে নিয়ে নয়। ৪৪:৪৩ আয়াতের প্রবন্ধে এ কথা আগেই এসেছে।"
+          },
+          {
+            "en": "Ibn Kathir's Arabic on this verse refers back, with wa-qad taqaddam, it has gone before, to a description in which an angel strikes the head with an iron rod and then pours the scalding water on it. He goes on to say what the water does inside the body, and closes with a prayer: a'adhana Allah min dhalik, may Allah protect us from that. The angel and the rod match Muqatil's report. His account of the water inside the body echoes a narration taken up in the next section, and it is left there.",
+            "bn": "এ আয়াতে ইবন কাসীরের আরবি তাফসীর ওয়া কাদ তাকাদ্দামা, অর্থাৎ আগে বলা হয়েছে, এ কথা বলে পেছনের এক বর্ণনার দিকে ইঙ্গিত করে। সেখানে একজন ফেরেশতা লোহার মুগুর দিয়ে মাথায় আঘাত করে, তারপর তার উপর ফুটন্ত পানি ঢালে। এরপর তিনি বলেন, পানি শরীরের ভেতরে গিয়ে কী করে। শেষ করেন এক দোয়া দিয়ে: আআযানাল্লাহু মিন যালিক, আল্লাহ আমাদের এ থেকে রক্ষা করুন। ফেরেশতা আর মুগুরের কথা মুকাতিলের বর্ণনার সঙ্গে মেলে। শরীরের ভেতরে পানির কাজের যে বিবরণ, তা পরের অংশে আসা একটি বর্ণনার প্রতিধ্বনি। সেটি সেখানেই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Narration Named, Not Quoted",
+          "bn": "বর্ণনার উল্লেখ, উদ্ধৃতি নয়"
+        },
+        "p": [
+          {
+            "en": "None of the tafsir texts fetched for this verse attaches a sound hadith to it. At-Tirmidhi records from Abu Hurayra (RA) a narration raised to the Prophet ﷺ about scalding water poured over the heads of the people of the Fire and what it does to them. He grades it hasan sahih gharib. Because he himself marks it gharib, this article names its topic and its grading only, and does not quote or retell it. It is a general narration, and the sources read here do not tie it to this verse.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তিরমিযী আবু হুরায়রা (রাঃ) থেকে নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনা এনেছেন, জাহান্নামীদের মাথায় ঢালা ফুটন্ত পানি আর তা তাদের সঙ্গে কী করে, সে বিষয়ে। তিনি একে হাসান সহীহ গরীব বলেছেন। তিনি নিজেই যেহেতু একে গরীব চিহ্নিত করেছেন, এ প্রবন্ধ শুধু বিষয় আর মানটুকু জানাচ্ছে। বর্ণনাটি উদ্ধৃত করছে না, নিজের ভাষায় বলছেও না। বর্ণনাটি সাধারণ, আর এখানে পড়া সূত্রগুলো একে এ আয়াতের সঙ্গে জোড়েনি।"
+          },
+          {
+            "en": "The same care applies to a line in the abridged English Ibn Kathir under 44:47, introduced with it was reported, about the keepers who rush to seize the sinner. It names no source, so it is left aside. What stays firm is what the verse itself says and what the commentators read here agree on: the pouring, the heat of what is poured, and the head on which it falls. Nothing in the meaning of the verse depends on a detail that cannot be confirmed.",
+            "bn": "একই সতর্কতা খাটে ৪৪:৪৭ আয়াতের আলোচনায় ইবন কাসীরের সংক্ষিপ্ত ইংরেজি পাঠের একটি লাইনের বেলায়। লাইনটি শুরু হয় বর্ণিত আছে বলে, আর কথা হলো পাপীকে ধরতে রক্ষীদের ছুটে আসা নিয়ে। এর কোনো সূত্রের নাম নেই, তাই একে বাদ রাখা হলো। মজবুত থাকে আয়াত নিজে যা বলে, আর এখানে পড়া তাফসীরকারেরা যেসব কথায় একমত: ঢেলে দেওয়া, ঢালা জিনিসের তাপ, আর যে মাথায় তা পড়ে। যে খুঁটিনাটি নিশ্চিত করা যায় না, আয়াতের অর্থ তার উপর নির্ভর করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Head Once Held High",
+          "bn": "যে মাথা একদিন উঁচু ছিল"
+        },
+        "p": [
+          {
+            "en": "The verse after this one, 44:49, gives the words spoken to the sinner: dhuq, taste, indeed you are the mighty, the noble. Ibn Kathir says it is said by way of ridicule and rebuke, and relays through ad-Dahhak from Ibn Abbas (RA): you are neither mighty nor noble. As-Sa'di reads it as aimed at a claim: by your claim that you were mighty, you would hold out against Allah's punishment, and that you were noble before Allah, so He would not punish you. Today, he says, it is clear you are the abased and despised.",
+            "bn": "এর পরের আয়াত, ৪৪:৪৯, জানায় পাপীকে কী বলা হবে: যুক, স্বাদ নাও, তুমি তো প্রতাপশালী, সম্মানিত। ইবন কাসীর বলেন, এ কথা বলা হবে ঠাট্টা আর ভর্ৎসনা করে। তিনি দাহহাকের সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: তুমি প্রতাপশালীও নও, সম্মানিতও নও। সা'দী একে দেখেন একটি দাবির জবাব হিসেবে। তোমার দাবি ছিল, তুমি এত শক্তিশালী যে আল্লাহর শাস্তি ঠেকিয়ে দেবে, আর আল্লাহর কাছে এত সম্মানিত যে তিনি তোমাকে শাস্তি দেবেন না। তাঁর ভাষায়, আজ স্পষ্ট হয়ে গেল, তুমিই লাঞ্ছিত, অপমানিত।"
+          },
+          {
+            "en": "None of the commentators read here says why the head, rather than another part of the body, is named. A reader may at least notice where the verse stands: between the dragging and the taunt about might and nobility. Whatever a person carried in his head in this world, his estimate of himself, his standing among his people, his certainty that no reckoning would come, the torment comes down onto that head, and the next verse answers the claim. Then 44:50 names what lay under it all: this is what you used to doubt.",
+            "bn": "শরীরের অন্য কোনো অঙ্গ নয়, কেন মাথার কথাই বলা হলো, এখানে পড়া কোনো তাফসীরকার তা বলেননি। তবে পাঠক অন্তত খেয়াল করতে পারেন, আয়াতটি কোথায় দাঁড়িয়ে আছে। এর আগে টেনে নেওয়া, আর পরে প্রতাপ ও সম্মান নিয়ে ব্যঙ্গ। দুনিয়ায় মানুষ মাথায় কত কিছু বয়ে বেড়ায়। নিজেকে নিয়ে তার ধারণা, নিজের লোকদের মাঝে তার মর্যাদা, কোনো হিসাব হবে না বলে তার নিশ্চিন্ত ভাব। আজাব নেমে আসে সেই মাথার উপরেই, আর পরের আয়াত দাবিটার জবাব দেয়। তারপর ৪৪:৫০ আয়াত বলে দেয় সবকিছুর তলায় কী ছিল: এ তো তা-ই, যাতে তোমরা সন্দেহ করতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Living Person Is Meant",
+          "bn": "জীবিত কাউকে বোঝানো হয়নি"
+        },
+        "p": [
+          {
+            "en": "This must be said plainly. The verse describes what will be done, on the Day of Judgement, to the sinner whom this passage describes: the one who doubted the truth, as 44:50 says, and met it only in the Fire. It places no living person in the Fire. It gives no one licence to point at a neighbour, a rival, a public figure or a community and say: this verse is about you. Who ends where belongs to Allah alone, and just before this passage, 44:42 sets an exception: except those on whom Allah has mercy.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে, বিচারের দিন এ অংশে বর্ণিত পাপীর সঙ্গে কী করা হবে। সে এমন লোক, যে সত্য নিয়ে সন্দেহ করত, যেমন ৪৪:৫০ বলে, আর সত্যের দেখা পেল কেবল আগুনের ভেতরে। আয়াতটি কোনো জীবিত মানুষকে জাহান্নামে বসায় না। প্রতিবেশী, প্রতিপক্ষ, নামকরা কোনো ব্যক্তি বা কোনো সম্প্রদায়ের দিকে আঙুল তুলে এ আয়াত তোমাকে নিয়ে, এমন কথা বলার অনুমতি কাউকে দেয় না। কার শেষ কোথায়, সে সিদ্ধান্ত কেবল আল্লাহর। এ অংশের ঠিক আগে ৪৪:৪২ আয়াত একটি ব্যতিক্রমও রেখেছে: তবে আল্লাহ যার প্রতি রহম করেন।"
+          },
+          {
+            "en": "The same holds for the name in Muqatil's report. Even where a commentator names Abu Jahl, the report concerns that one man's own end, and Ibn Kathir says the passage is not specifically about him. It licenses nothing against any of his descendants, his kin or his tribe, and nothing against anyone who carries his name. The verse is a warning held out to every reader, and the first place a reader should apply it is his or her own heart.",
+            "bn": "মুকাতিলের বর্ণনায় যে নাম এসেছে, তার বেলাতেও একই কথা। কোনো তাফসীরকার আবু জাহলের নাম নিলেও, বর্ণনাটি কেবল সেই একজন মানুষের নিজের পরিণতি নিয়ে। আর ইবন কাসীর বলেছেন, এ অংশ বিশেষভাবে কেবল তাকে নিয়ে নয়। এর ভিত্তিতে তার বংশধর, আত্মীয় বা গোত্রের কারও বিরুদ্ধে কিছুই বলা চলে না। তার নামের সঙ্গে নাম মেলে, এমন কারও বিরুদ্ধেও না। আয়াতটি প্রত্যেক পাঠকের সামনে রাখা এক সতর্কবাণী। আর তা প্রথম খাটানোর জায়গা পাঠকের নিজের অন্তর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Refuge Sought Before That Day",
+          "bn": "সেদিনের আগেই আশ্রয় চাওয়া"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir closed his comment on this verse with a prayer rather than a reflection: may Allah protect us from that. That is the response the verse asks of a reader who believes it, a plea for protection and not a gaze at someone else's punishment. A verse like this is not read for spectacle. It is read so that whoever reads it turns to Allah while turning still counts, and asks Him for refuge from the Fire He has described in such detail.",
+            "bn": "ইবন কাসীর এ আয়াতের আলোচনা শেষ করেছেন কোনো মন্তব্য দিয়ে নয়, দোয়া দিয়ে: আল্লাহ আমাদের এ থেকে রক্ষা করুন। যে পাঠক আয়াতটি বিশ্বাস করে, তার কাছে আয়াতের দাবিও এটাই। অন্যের শাস্তির দিকে তাকিয়ে থাকা নয়, নিজের জন্য আশ্রয় চাওয়া। এমন আয়াত দৃশ্য দেখার জন্য পড়া হয় না। পড়া হয়, যেন পাঠক আল্লাহর দিকে ফেরে, যতক্ষণ ফেরার মূল্য আছে। আর যে আগুনের এত খুঁটিনাটি বর্ণনা তিনি দিয়েছেন, তা থেকে যেন তাঁর কাছেই আশ্রয় চায়।"
+          },
+          {
+            "en": "The passage does not end in the Fire. Three verses later, 44:51 opens the other picture: indeed the God-conscious will be in a secure station. First comes the description of what to flee, then the description of where safety lies. A believer can take both as one invitation: lower the head in prostration now, stop disputing what one already knows to be true, and leave pride behind, so that on that Day the head is met with mercy rather than with what this verse describes.",
+            "bn": "অংশটি আগুনে গিয়ে শেষ হয়নি। তিনটি আয়াত পরেই ৪৪:৫১ খুলে দেয় অন্য ছবি: নিশ্চয়ই মুত্তাকীরা থাকবে নিরাপদ স্থানে। আগে আসে কী থেকে পালাতে হবে তার বর্ণনা, তারপর কোথায় নিরাপত্তা তার বর্ণনা। মুমিন দুটিকে একসঙ্গে একটি দাওয়াত হিসেবে নিতে পারেন। এখনই সিজদায় মাথা নোয়ান। যে সত্য আপনি জানেন, তা নিয়ে তর্ক থামান। অহংকার পেছনে ফেলে আসুন। যেন সেদিন মাথার উপর নেমে আসে রহমত, এ আয়াতে বর্ণিত আজাব নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "44:51": {
     "sections": [
       {
