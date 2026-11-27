@@ -4683,6 +4683,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:95": {
+    "sections": [
+      {
+        "h": {
+          "en": "Five Words Closing a Passage",
+          "bn": "পাঁচ শব্দে একটি অংশের সমাপ্তি"
+        },
+        "p": [
+          {
+            "en": "Wa-kulluhum atihi yawma-l-qiyamati farda: and every one of them is coming to Him on the Day of Resurrection alone. Five Arabic words close the passage that began at 19:88 with the claim that ar-Rahman has taken a son. Ibn Kathir, in the English abridgement, treats 19:88 to 19:95 as one unit under the heading of a stern rejection of that claim, and this verse is its last line. Before the surah turns to the believers in 19:96, it leaves the reader with one picture: each creature, by itself, before its Lord.",
+            "bn": "ওয়া কুল্লুহুম আতীহি ইয়াওমাল কিয়ামাতি ফারদা: আর কিয়ামতের দিন তাদের প্রত্যেকে তাঁর কাছে আসবে একা। ১৯:৮৮ আয়াতে যে অংশের শুরু, রাহমান সন্তান গ্রহণ করেছেন এই দাবি দিয়ে, আরবি পাঁচটি শব্দে তার সমাপ্তি। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ১৯:৮৮ থেকে ১৯:৯৫ পর্যন্ত আয়াতগুলোকে এক অংশ ধরে শিরোনাম দেয়: সেই দাবির কঠোর প্রত্যাখ্যান। এ আয়াত সেই অংশের শেষ লাইন। ১৯:৯৬ আয়াতে মুমিনদের কথায় যাওয়ার আগে সূরাটি পাঠকের সামনে একটি ছবি রেখে যায়: প্রতিটি সৃষ্টি নিজের রবের সামনে, একা।"
+          },
+          {
+            "en": "Al-Qurtubi pauses on the grammar. Kulluhum, all of them, is singular in form and plural in sense, and the verse follows the form: atihi, coming to Him, is singular. Read by the sense, he says, it would be atuhu, in the plural. The Qur'an does use the plural elsewhere. In 27:87, which al-Qurtubi quotes under 19:93 for its last word, wa-kullun atawhu dakhirin, and all will come to Him humbled, the verb is plural. Here the singular stands, next to a final word that means alone.",
+            "bn": "কুরতুবী এখানে ব্যাকরণের দিকে নজর দেন। কুল্লুহুম, অর্থাৎ তাদের সবাই, শব্দটি গঠনে একবচন, অর্থে বহুবচন। আয়াত গঠনটিকেই অনুসরণ করেছে, তাই আতীহি (তাঁর কাছে আগমনকারী) এসেছে একবচনে। তিনি বলেন, অর্থ ধরে বললে হতো আতূহু, বহুবচনে। কুরআনের অন্য জায়গায় বহুবচনও আছে। ২৭:৮৭ আয়াতে বলা হয়েছে ওয়া কুল্লুন আতাওহু দাখিরীন, আর সবাই তাঁর কাছে আসবে অবনত হয়ে। সেখানে ক্রিয়াটি বহুবচন। কুরতুবী ১৯:৯৩ আয়াতের আলোচনায় এ আয়াত উদ্ধৃত করেন তার শেষ শব্দটির জন্য। এখানে কিন্তু একবচনই রয়ে গেছে, আর তার পাশে শেষ শব্দটির অর্থও একা।"
+          },
+          {
+            "en": "The word ati also ties this verse to 19:93, where everyone in the heavens and the earth is ati ar-Rahmani 'abda, coming to the Most Merciful as a servant. At-Tabari explains the form there: ati is the active participle of ataytuhu, I came to him, so that one says fa-ana atihi, I am coming to him, the very word of this verse. Al-Qurtubi adds that it is written with a ya, its original tanwin dropped for lightness and the word joined to what follows. One participle carries both lines: in the first each arrives as a servant, in the second alone.",
+            "bn": "আতী শব্দটি এ আয়াতকে ১৯:৯৩ আয়াতের সঙ্গেও বেঁধে দেয়। সেখানে আসমান ও জমিনের প্রত্যেকে আতির রাহমানি আবদা, অর্থাৎ পরম দয়াময়ের কাছে আসবে বান্দা হয়ে। তাবারী সেখানে শব্দের গঠন বুঝিয়ে দেন। আতী হলো আতাইতুহু (আমি তার কাছে এলাম) থেকে কর্তাবাচক রূপ। তাই বলা হয় ফা-আনা আতীহি, আমি তার কাছে আসছি। এ আয়াতে ঠিক এই শব্দটিই আছে। কুরতুবী যোগ করেন, শব্দটি লেখা হয় ইয়া দিয়ে। মূলে তানউইন ছিল, হালকা করার জন্য তা বাদ দিয়ে পরের শব্দের সঙ্গে জুড়ে দেওয়া হয়েছে। একই শব্দ দুটি আয়াতকে বহন করে। প্রথমটিতে প্রত্যেকে আসে বান্দা হয়ে, দ্বিতীয়টিতে আসে একা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counted Before Being Called",
+          "bn": "ডাক আসার আগেই গণনা"
+        },
+        "p": [
+          {
+            "en": "The verse between them is short: laqad ahsahum wa 'addahum 'adda, He has encompassed them and counted them a full count (19:94). The commentators on it turn on knowledge. At-Tabari says the full number of His creation is not hidden from Him and not one of them escapes Him. Ibn Kathir says He has known their number from when He created them until the Day of Resurrection, male and female, small and great. Al-Baghawi says He counted their breaths, their days and the traces they leave.",
+            "bn": "এ দুই আয়াতের মাঝের আয়াতটি ছোট: লাকাদ আহসাহুম ওয়া আদ্দাহুম আদ্দা, তিনি তাদের ঘিরে রেখেছেন আর পুরোপুরি গুনে রেখেছেন (১৯:৯৪)। এর ব্যাখ্যায় তাফসীরকারদের কথা ঘোরে জ্ঞানকে ঘিরে। তাবারী বলেন, তাঁর সৃষ্টির মোট সংখ্যা তাঁর কাছে গোপন নয়, তাদের একজনও তাঁর জ্ঞানের বাইরে যায় না। ইবন কাসীর বলেন, সৃষ্টির শুরু থেকে কিয়ামত পর্যন্ত তাদের সংখ্যা তিনি জানেন: পুরুষ ও নারী, ছোট ও বড়। বাগাভী বলেন, তিনি গুনে রেখেছেন তাদের নিঃশ্বাস, তাদের দিন, আর তারা যে চিহ্ন রেখে যায় তা-ও।"
+          },
+          {
+            "en": "As-Sa'di widens the count to deeds: His knowledge encompasses all creatures, the people of the heavens and the earth, and He has counted them and counted their deeds, neither erring nor forgetting. Ma'arif al-Qur'an likewise reads the full count as Allah's full knowledge of their doings. Set beside 19:95, the order is plain. First each is known and numbered; then each arrives singly. Nobody is lost in the crowd on the way in, and nobody can hide in it either.",
+            "bn": "সা'দী গণনাকে আমল পর্যন্ত বিস্তৃত করেন। তাঁর জ্ঞান সব সৃষ্টিকে ঘিরে আছে, আসমান ও জমিনের সব বাসিন্দাকে। তিনি তাদের গুনে রেখেছেন, তাদের আমলও গুনে রেখেছেন। তিনি ভুল করেন না, ভুলেও যান না। মাআরিফুল কুরআনও এই পূর্ণ গণনাকে পড়ে তাদের কাজকর্ম সম্পর্কে আল্লাহর পূর্ণ জ্ঞান হিসেবে। ১৯:৯৫ আয়াতের পাশে রাখলে ক্রমটা পরিষ্কার। আগে প্রত্যেককে জানা ও গোনা হয়েছে, তারপর প্রত্যেকে আসবে আলাদা করে। ঢোকার পথে ভিড়ের মধ্যে কেউ হারিয়ে যাবে না, আবার ভিড়ে লুকিয়েও থাকতে পারবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Word Fard Leaves Out",
+          "bn": "ফারদ শব্দে যা বাদ পড়ে"
+        },
+        "p": [
+          {
+            "en": "Fard means one, single, by oneself, and the commentators fetched for this verse explain it mostly by naming what will be missing. At-Tabari has wahid, alone, with no helper for him against Allah and no one to defend him. Al-Qurtubi has wahid too: one, with no helper, and no wealth with him that would benefit him. Ibn Kathir names no helper and no protector except Allah alone. The Jalalayn, as quranx carries it, says each comes alone, without wealth or any helper to protect him.",
+            "bn": "ফারদ মানে এক, একক, একা। এ আয়াতের যেসব তাফসীর দেখা হয়েছে, সেগুলো শব্দটি বোঝায় মূলত কী কী থাকবে না তার নাম করে। তাবারী বলেন ওয়াহিদ, অর্থাৎ একা: আল্লাহর মোকাবেলায় তার কোনো সাহায্যকারী নেই, তাকে রক্ষা করারও কেউ নেই। কুরতুবীও বলেন ওয়াহিদ: একজন, যার কোনো সাহায্যকারী নেই, আর সঙ্গে এমন কোনো সম্পদও নেই যা তার কাজে আসবে। ইবন কাসীর বলেন, একমাত্র আল্লাহ ছাড়া তার কোনো সাহায্যকারী নেই, কোনো আশ্রয়দাতাও নেই। কুরআনএক্স-এ উদ্ধৃত জালালাইন বলে, প্রত্যেকে আসবে একা, সম্পদ ছাড়া, তাকে রক্ষা করার মতো কোনো সাহায্যকারী ছাড়া।"
+          },
+          {
+            "en": "Others list what a person owned and fathered. The Muyassar says every individual of creation will come to his Lord alone, with no wealth of his and no child with him. The Tanwir al-Miqbas, which quranx carries under Ibn 'Abbas's name, says without wealth or offspring. Al-Baghawi compresses it furthest: wahid, alone, having nothing of this world with him. As-Sa'di gathers all three in one line: no children, no wealth and no helpers, and then he adds a fourth thing, which is not missing at all.",
+            "bn": "অন্যরা তালিকা দেন মানুষের মালিকানা আর সন্তানের। মুয়াসসার বলে, সৃষ্টির প্রত্যেক ব্যক্তি তার রবের কাছে আসবে একা, তার কোনো সম্পদ থাকবে না, সঙ্গে কোনো সন্তানও থাকবে না। তানবীরুল মিকবাস, কুরআনএক্স যাকে ইবন আব্বাস (রাঃ)-এর নামে উদ্ধৃত করে, বলে: সম্পদ ছাড়া, সন্তান ছাড়া। বাগাভী কথাটাকে সবচেয়ে ছোট করে আনেন: ওয়াহিদ, একা, দুনিয়ার কোনো কিছুই তার সঙ্গে নেই। সা'দী এক লাইনে তিনটিকেই একত্র করেন: সন্তান নেই, সম্পদ নেই, সাহায্যকারী নেই। তারপর তিনি চতুর্থ একটি জিনিসের কথা বলেন, যা মোটেও হারায় না।"
+          },
+          {
+            "en": "These lists do not contradict one another; they describe the same emptiness from different sides. Some commentators look at a person's defenders, who will not stand up for him. Some look at his possessions and his children, which will not come. Al-Baghawi looks at the whole world, none of which comes. Only as-Sa'di names what is left once everything else is subtracted: laysa ma'ahu illa 'amaluhu, nothing is with him except his deed. The sections that follow take up both halves of that sentence.",
+            "bn": "এই তালিকাগুলো পরস্পরবিরোধী নয়। একই শূন্যতাকে ভিন্ন ভিন্ন দিক থেকে দেখা হয়েছে। কেউ তাকিয়েছেন মানুষের রক্ষকদের দিকে, যারা তার পক্ষে দাঁড়াবে না। কেউ তাকিয়েছেন তার সম্পদ আর সন্তানের দিকে, যারা সঙ্গে আসবে না। বাগাভী তাকিয়েছেন গোটা দুনিয়ার দিকে, যার কিছুই আসবে না। বাকি সব বাদ দেওয়ার পর কী থেকে যায়, তা বলেছেন কেবল সা'দী: লাইসা মাআহু ইল্লা আমালুহু, তার আমল ছাড়া তার সঙ্গে কিছুই নেই। পরের অংশগুলো এ বাক্যের দুই দিকই ধরে এগোবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Defender Against Him",
+          "bn": "তাঁর মোকাবেলায় কোনো রক্ষক নেই"
+        },
+        "p": [
+          {
+            "en": "A small difference of phrasing between at-Tabari and Ibn Kathir is worth noticing. At-Tabari says each comes la nasira lahu mina-llah, with no helper for him against Allah, and no defender. The helper he denies is one who might stand between the person and Allah's judgement. Ibn Kathir says la nasira lahu wa la mujira illa-llahu wahdahu la sharika lah: no helper and no protector except Allah alone, who has no partner. He does not only take the helpers away; he names the one who remains.",
+            "bn": "তাবারী ও ইবন কাসীরের বাক্যগঠনে ছোট একটি পার্থক্য লক্ষ করার মতো। তাবারী বলেন, প্রত্যেকে আসবে লা নাসিরা লাহু মিনাল্লাহ অবস্থায়: আল্লাহর মোকাবেলায় তার কোনো সাহায্যকারী নেই, রক্ষাকারীও নেই। তিনি যে সাহায্যকারীকে নাকচ করছেন, সে এমন কেউ যে মানুষ আর আল্লাহর ফয়সালার মাঝে দাঁড়াতে পারত। ইবন কাসীর বলেন লা নাসিরা লাহু ওয়া লা মুজীরা ইল্লাল্লাহু ওয়াহদাহু লা শারীকা লাহ: একমাত্র আল্লাহ ছাড়া তার কোনো সাহায্যকারী নেই, আশ্রয়দাতাও নেই, আর তাঁর কোনো শরিক নেই। তিনি শুধু সাহায্যকারীদের সরিয়ে দেন না, যিনি থেকে যান তাঁর নামও বলে দেন।"
+          },
+          {
+            "en": "Both phrasings fit the surah. A few verses earlier, 19:81 and 19:82 speak of gods taken besides Allah for honour, who will deny the worship given them. At-Tabari's wording closes the door from one side: nobody shields anyone from Him. Ibn Kathir's wording opens the other side: the only refuge on that Day is the One being approached. Neither commentator says the other is wrong, and nothing in either text sets them against each other. Taken together they say: no shelter from Him, and shelter only in Him.",
+            "bn": "দুটি বাক্যই সূরার সঙ্গে মেলে। কয়েক আয়াত আগে ১৯:৮১ ও ১৯:৮২ আয়াতে এসেছে সেই উপাস্যদের কথা, যাদের আল্লাহকে বাদ দিয়ে সম্মানের আশায় গ্রহণ করা হয়েছিল, আর যারা তাদের উপাসনা অস্বীকার করবে। তাবারীর কথা দরজাটা এক দিক থেকে বন্ধ করে: তাঁর হাত থেকে কেউ কাউকে আড়াল করতে পারবে না। ইবন কাসীরের কথা অন্য দিকটা খুলে দেয়: সেদিন একমাত্র আশ্রয় তিনিই, যাঁর কাছে সবাই যাচ্ছে। দুজনের কেউ অন্যজনকে ভুল বলেননি, আর তাঁদের লেখায় দুটি কথাকে মুখোমুখি দাঁড় করানোও হয়নি। একসঙ্গে পড়লে অর্থ দাঁড়ায়: তাঁর থেকে বাঁচার কোনো আশ্রয় নেই, আশ্রয় কেবল তাঁরই কাছে।"
+          },
+          {
+            "en": "Both then say what follows the arrival. At-Tabari: Allah will decree concerning him what He decrees, and do with him what He does. Ibn Kathir: He judges His creation as He wills, and He is the Just who does not wrong anyone by an atom's weight. As-Sa'di: Allah will requite him and pay his reckoning in full, if good then good, and if evil then evil. The solitude in the verse is therefore not neglect. It is the setting of a hearing that is complete and fair.",
+            "bn": "এরপর দুজনেই বলেন, পৌঁছানোর পরে কী হবে। তাবারী বলেন, আল্লাহ তার ব্যাপারে যা ফয়সালা করার করবেন, তার সঙ্গে যা করার করবেন। ইবন কাসীর বলেন, তিনি তাঁর সৃষ্টির মধ্যে যেমন ইচ্ছা ফয়সালা করেন, আর তিনি ন্যায়বিচারক, অণু পরিমাণও কারও উপর জুলুম করেন না। সা'দী বলেন, আল্লাহ তাকে প্রতিদান দেবেন, তার হিসাব পুরোপুরি চুকিয়ে দেবেন। ভালো হলে ভালো, মন্দ হলে মন্দ। তাই আয়াতের এই একাকীত্ব অবহেলা নয়। এ হলো এমন এক শুনানির পরিবেশ, যা পূর্ণাঙ্গ আর ন্যায্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Wealth and Sons Stay Behind",
+          "bn": "সম্পদ ও সন্তান যখন পেছনে থাকে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi supports his gloss with 26:88 and 26:89: the Day when neither wealth nor sons will benefit, except one who comes to Allah with a sound heart. Then he draws the conclusion in one line: nothing will benefit him except the deeds he sent ahead. As-Sa'di supports his own gloss with 6:94: you have come to Us alone, furada, as We created you the first time. The verse in al-An'am uses the plural of the same word, and each commentator reaches for a verse that makes the same point from another place.",
+            "bn": "কুরতুবী তাঁর ব্যাখ্যার সমর্থনে আনেন ২৬:৮৮ ও ২৬:৮৯ আয়াত: সেদিন সম্পদ ও সন্তান কোনো কাজে আসবে না, শুধু সে ছাড়া যে আল্লাহর কাছে আসবে বিশুদ্ধ অন্তর নিয়ে। তারপর তিনি এক বাক্যে উপসংহার টানেন: আগে পাঠানো আমল ছাড়া আর কিছুই তার উপকারে আসবে না। সা'দী তাঁর ব্যাখ্যার সমর্থনে আনেন ৬:৯৪ আয়াত: তোমরা আমার কাছে এসেছ একা একা, ফুরাদা, যেমন প্রথমবার তোমাদের সৃষ্টি করেছিলাম। সূরা আনআমের আয়াতে একই শব্দের বহুবচন এসেছে। দুজন তাফসীরকারই এমন আয়াত বেছে নেন, যা অন্য জায়গা থেকে একই কথা বলে।"
+          },
+          {
+            "en": "Within Maryam itself the word has already been heard. The man of 19:77 said he would surely be given wealth and children, and 19:80 answers him: We shall inherit what he speaks of, and he will come to Us alone, farda. That verse is about a single boaster; this verse widens the word to everyone in the heavens and the earth. What the boaster expected to bring with him is the very list that the commentators on 19:95 give as absent: wealth, children and helpers.",
+            "bn": "সূরা মারইয়ামের ভেতরেই শব্দটি আগে একবার এসেছে। ১৯:৭৭ আয়াতের লোকটি বলেছিল, তাকে অবশ্যই সম্পদ আর সন্তান দেওয়া হবে। ১৯:৮০ আয়াত তার জবাব দেয়: সে যা বলে তার উত্তরাধিকারী হব আমি, আর সে আমার কাছে আসবে একা, ফারদা। সেই আয়াত এক অহংকারী মানুষকে নিয়ে। এ আয়াত শব্দটিকে ছড়িয়ে দেয় আসমান ও জমিনের সবার উপর। অহংকারী লোকটি যা সঙ্গে নিয়ে যাওয়ার আশা করেছিল, ১৯:৯৫ আয়াতের তাফসীরকারেরা ঠিক সেগুলোকেই অনুপস্থিত বলে গণ্য করেন: সম্পদ, সন্তান আর সাহায্যকারী।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Interpreter Standing Between",
+          "bn": "মাঝখানে কোনো দোভাষী নেই"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs fetched for this verse attaches a hadith to it (the narrations in Ibn Kathir's grouped passage belong to 19:90 and 19:91), and none gives an occasion of revelation for it. Two narrations in Sahih al-Bukhari describe the same scene in general terms. Neither is reported about this verse, and neither should be read as its explanation; they stand beside it. The first, from 'Adi ibn Hatim, speaks of each person facing his Lord with no go-between. The second, from Anas ibn Malik, speaks of what turns back at the grave and what stays.",
+            "bn": "এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, নাযিলের কোনো উপলক্ষও উল্লেখ করেনি। ইবন কাসীরের একত্র আলোচনায় যে বর্ণনাগুলো আছে, সেগুলো ১৯:৯০ ও ১৯:৯১ আয়াতের। সহীহ বুখারীতে দুটি বর্ণনা আছে, যা সাধারণভাবে একই দৃশ্যের কথা বলে। কোনোটিই এ আয়াত সম্পর্কে বর্ণিত নয়, তাই কোনোটিকেই এর ব্যাখ্যা হিসেবে পড়া ঠিক হবে না। এগুলো আয়াতের পাশে রাখা যায়, এই পর্যন্ত। প্রথমটি আদী ইবন হাতিম (রাঃ) থেকে, মাঝখানে কেউ ছাড়া রবের মুখোমুখি হওয়ার কথা। দ্বিতীয়টি আনাস ইবন মালিক (রাঃ) থেকে, কবর থেকে কী ফিরে আসে আর কী থেকে যায় তার কথা।"
+          },
+          {
+            "en": "'Adi ibn Hatim reported that the Messenger of Allah ﷺ said: \"There will be none among you but his Lord will talk to him, and there will be no interpreter between him and Allah. He will look to his right and see nothing but his deeds which he has sent forward, and will look to his left and see nothing but his deeds which he has sent forward, and will look in front of him and see nothing but the (Hell) Fire facing him. So save yourself from the (Hell) Fire even with half a date (given in charity).\" (Bukhari 7512)",
+            "bn": "আদী ইবন হাতিম (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"তোমাদের প্রত্যেকের সঙ্গে তার রব কথা বলবেন, তার আর তাঁর মাঝে কোনো দোভাষী থাকবে না। সে ডান দিকে তাকাবে, নিজের আগে পাঠানো আমল ছাড়া কিছুই দেখবে না। বাঁ দিকে তাকাবে, আগে পাঠানো আমল ছাড়া কিছুই দেখবে না। সামনে তাকাবে, মুখের সামনে জাহান্নাম ছাড়া কিছুই দেখবে না। অতএব আধখানা খেজুর দিয়ে হলেও জাহান্নাম থেকে বাঁচো।\" (বুখারী ৭৫১২)"
+          },
+          {
+            "en": "Anas ibn Malik reported that the Messenger of Allah ﷺ said: \"When carried to his grave, a dead person is followed by three, two of which return (after his burial) and one remains with him: his relative, his property, and his deeds follow him; relatives and his property go back while his deeds remain with him.\" (Bukhari 6514) Both reports are in al-Bukhari's Sahih. The second reads almost like as-Sa'di's line, but it is the reader, not as-Sa'di, who sets the two side by side.",
+            "bn": "আনাস ইবন মালিক (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"মৃত ব্যক্তির পেছনে পেছনে তিনটি জিনিস যায়। দুটি ফিরে আসে, একটি তার সঙ্গে থেকে যায়। তার পেছনে যায় তার পরিবার, তার সম্পদ আর তার আমল। পরিবার ও সম্পদ ফিরে আসে, থেকে যায় তার আমল।\" (বুখারী ৬৫১৪) দুটি বর্ণনাই সহীহ বুখারীর। দ্বিতীয়টি পড়লে সা'দীর বাক্যটির কথা মনে পড়ে। তবে দুটিকে পাশাপাশি রাখছেন পাঠক নিজে, সা'দী নন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Servant, Never a Son",
+          "bn": "বান্দা, সন্তান কখনো নয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi ends his note on 19:95 with a remark he relays from al-Qushayri. The verse, al-Qushayri says, carries a hint: you would not accept for yourselves that your own children be made your slaves, and all are His servants, so how have you accepted for Him what you do not accept for yourselves? The note goes on to set this beside a like rebuttal, of those who would not accept daughters for themselves yet said the angels, and their idols, were daughters of Allah, and it quotes 6:136.",
+            "bn": "১৯:৯৫ আয়াতের আলোচনা কুরতুবী শেষ করেন কুশাইরীর একটি কথা উদ্ধৃত করে। কুশাইরী বলেন, আয়াতে একটি ইঙ্গিত আছে। নিজের সন্তানকে নিজের গোলাম বানানো তোমরা নিজেদের জন্য মেনে নাও না। অথচ সবাই তাঁর বান্দা। তাহলে যা নিজেদের জন্য মেনে নাও না, তা তাঁর জন্য কীভাবে মেনে নিলে? আলোচনাটি এরপর এর পাশে রাখে একই ধরনের আরেকটি জবাব। সেটি তাদের নিয়ে, যারা নিজেদের জন্য কন্যাসন্তান পছন্দ করত না, অথচ ফেরেশতাদের, আর তাদের মূর্তিগুলোকেও, আল্লাহর কন্যা বলত। সঙ্গে উদ্ধৃত হয় ৬:১৩৬ আয়াত।"
+          },
+          {
+            "en": "Under 19:93 al-Qurtubi makes a related point: the verse places sonship and servitude at opposite ends, denying the first and affirming the second. That is why the passage can end where it does. The claim made in 19:88 is answered not only by His majesty but by the arrival of every creature as a servant, and alone. These verses describe that claim, and the boaster of 19:77, as the text describes them; they license nothing against any living person or community.",
+            "bn": "১৯:৯৩ আয়াতের আলোচনায় কুরতুবী এর কাছাকাছি একটি কথা বলেন: আয়াতটি সন্তান হওয়া আর বান্দা হওয়াকে দুই বিপরীত প্রান্তে রেখেছে। প্রথমটিকে নাকচ করেছে, দ্বিতীয়টিকে সাব্যস্ত করেছে। তাই অংশটি এখানে এসে শেষ হতে পারে। ১৯:৮৮ আয়াতের দাবির জবাব দেওয়া হয়েছে শুধু তাঁর মহিমা দিয়ে নয়, বরং প্রতিটি সৃষ্টির বান্দা হয়ে, একা হয়ে হাজির হওয়ার কথা দিয়েও। এ আয়াতগুলো সেই দাবি আর ১৯:৭৭ আয়াতের অহংকারী লোকটির কথা বলে ঠিক যেভাবে কুরআন বলেছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এগুলো দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Arriving Alone, Preparing Now",
+          "bn": "একা পৌঁছানো, প্রস্তুতি এখনই"
+        },
+        "p": [
+          {
+            "en": "Read slowly, the verse removes three supports people lean on: those who would defend them, the wealth that gives them standing, and the children through whom they feel carried forward. The commentators do not say these are worthless in this life; they say these will not come. As-Sa'di's phrase is the one to carry away: nothing is with him except his deed. What a person does is the only companion the verse leaves in place.",
+            "bn": "ধীরে পড়লে দেখা যায়, আয়াতটি মানুষের ভর দেওয়ার তিনটি অবলম্বন সরিয়ে নেয়: যারা তার পক্ষে লড়ত, যে সম্পদ তাকে মর্যাদা দেয়, আর যে সন্তানদের মাধ্যমে সে নিজেকে টিকে থাকতে দেখে। তাফসীরকারেরা বলেন না যে দুনিয়ার জীবনে এগুলো মূল্যহীন। তাঁরা বলেন, এগুলো সঙ্গে যাবে না। সা'দীর কথাটাই মনে রাখার মতো: তার আমল ছাড়া তার সঙ্গে কিছুই নেই। মানুষের আমলই একমাত্র সঙ্গী, যাকে আয়াতটি সরিয়ে দেয় না।"
+          },
+          {
+            "en": "That turns a fearful picture into a practical one. If each will come alone, the time to prepare is now, while helpers, wealth and family are still here and can be spent in obedience. The next verse, 19:96, speaks of the love ar-Rahman sets for those who believe and do righteous deeds, and it has its own article. This one leaves the reader with a single figure, counted and known, walking toward the Most Merciful with what he sent ahead.",
+            "bn": "এতে ভয়ের ছবিটা হয়ে ওঠে কাজের কথা। প্রত্যেকে যদি একাই যায়, তবে প্রস্তুতির সময় এখনই, যখন সাহায্যকারী, সম্পদ আর পরিবার এখনো কাছে আছে, আর তাদের আল্লাহর আনুগত্যে কাজে লাগানো যায়। পরের আয়াত ১৯:৯৬ বলে, যারা ঈমান আনে আর সৎকাজ করে, রাহমান তাদের জন্য ভালোবাসা তৈরি করে দেবেন। তার আলোচনা আলাদা প্রবন্ধে। এ আয়াত পাঠকের সামনে রেখে যায় একটি মাত্র মানুষকে, গোনা ও চেনা, যে নিজের আগে পাঠানো আমল নিয়ে পরম দয়াময়ের দিকে হেঁটে যাচ্ছে।"
+          }
+        ]
+      }
+    ]
+  },
   "19:96": {
     "sections": [
       {

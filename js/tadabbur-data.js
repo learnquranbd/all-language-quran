@@ -34183,6 +34183,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Affirm what Allah says of Himself without asking how or likening Him to anything, and let the name beside His Throne, the Most Merciful, shape how you turn to Him.",
     "lessonBn": "আল্লাহ নিজের সম্পর্কে যা বলেছেন, কেমন করে তা না জিজ্ঞেস করে এবং কোনো কিছুর সঙ্গে তাঁর তুলনা না করে মেনে নিন। আর তাঁর আরশের পাশে যে নাম, পরম দয়াময়, সেটাই ঠিক করে দিক আপনি কীভাবে তাঁর দিকে ফিরবেন।"
+  },
+  "19:95": {
+    "reflectionEn": "The verse before this one says every being in the heavens and the earth has been counted, every one of them, with nothing missed. This one says each of them will come to Him on the Day of Resurrection alone. No family walks in beside you, no wealth is carried through, no friend steps forward to speak on your behalf. What you did is the one thing that makes the whole journey. This is not a call to empty life of people; family and friends are gifts. It is a question about what I lean on. If everything I count on today stayed behind at the door, what would still be standing with me? And have I quietly begun to build it?",
+    "reflectionBn": "এর আগের আয়াত বলে, আসমান ও জমিনের প্রত্যেককে গুনে রাখা হয়েছে, একজনও বাদ পড়েনি। এ আয়াত বলে, কিয়ামতের দিন তাদের প্রত্যেকে তাঁর কাছে আসবে একা। পাশে হাঁটবে না পরিবার, সঙ্গে যাবে না সম্পদ, আপনার হয়ে কথা বলতে এগিয়ে আসবে না কোনো বন্ধু। পুরো পথ পাড়ি দেবে কেবল আপনার আমল। এর মানে এই নয় যে জীবন থেকে মানুষকে সরিয়ে দিতে হবে। পরিবার আর বন্ধু তো আল্লাহরই দান। প্রশ্নটা হলো, আমি ভর দিয়ে আছি কিসের উপর? আজ যা কিছুর উপর ভরসা করি, সব যদি দরজার বাইরে থেকে যায়, তবে আমার সঙ্গে আর কী টিকে থাকবে? আর সেটা গড়ে তোলার কাজ কি আমি চুপচাপ শুরু করেছি?",
+    "pointsEn": [
+      "If I stood alone before Allah today, with no one to explain me, which of my deeds would I want to be holding?",
+      "Whose approval or protection do I lean on so heavily that I forget it ends at the grave?",
+      "What am I gathering this year that I already know will stay behind when I am carried out?",
+      "The verse before says everyone is counted exactly. Does knowing that I am known by name make me more careful, or more hopeful, or both?",
+      "What one deed could I begin this week that would still be with me when everything else has turned back?"
+    ],
+    "pointsBn": [
+      "আজই যদি আল্লাহর সামনে একা দাঁড়াতে হয়, আমার হয়ে বুঝিয়ে বলার কেউ না থাকে, তবে কোন আমলটা হাতে নিয়ে দাঁড়াতে চাইব?",
+      "কার সমর্থন বা আশ্রয়ের উপর আমি এত ভর দিয়ে আছি যে ভুলে যাই, কবর পর্যন্ত গিয়েই তা শেষ?",
+      "এ বছর আমি এমন কী জমাচ্ছি, যা জানি আমাকে কবরে নেওয়ার সময় পেছনে পড়ে থাকবে?",
+      "আগের আয়াত বলে, প্রত্যেককে নিখুঁতভাবে গুনে রাখা হয়েছে। তিনি আমাকে আলাদা করে চেনেন, এ কথা কি আমাকে বেশি সাবধান করে, নাকি বেশি আশাবাদী করে, নাকি দুটোই?",
+      "এ সপ্তাহে কোন একটি আমল শুরু করতে পারি, যা সবকিছু ফিরে যাওয়ার পরও আমার সঙ্গে থেকে যাবে?"
+    ],
+    "lessonEn": "Each of us comes to Allah alone, without wealth, family or helper; build now the deeds that will still be with you when everything else turns back.",
+    "lessonBn": "আমরা প্রত্যেকে আল্লাহর কাছে যাব একা, সম্পদ, পরিবার বা সাহায্যকারী ছাড়া। তাই এখনই সেই আমল গড়ে তুলুন, যা বাকি সব ফিরে গেলেও আপনার সঙ্গে থেকে যাবে।"
   }
 };
 
