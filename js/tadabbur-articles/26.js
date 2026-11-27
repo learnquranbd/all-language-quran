@@ -2603,6 +2603,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:54": {
+    "sections": [
+      {
+        "h": {
+          "en": "The First Words of the Summons",
+          "bn": "ডাকের প্রথম কথাগুলো"
+        },
+        "p": [
+          {
+            "en": "Inna ha'ula'i la-shirdhimatun qalilun: indeed, these are but a small band. Four Arabic words, and they are the opening of a speech. The verse before, 26:53, has Pharaoh send gatherers through the cities; this verse gives the words he sent with them. Ibn Kathir sets the scene: in the morning there was no one left in the quarters of the Children of Israel, Pharaoh's anger flared, and he dispatched his callers to all his cities to muster his troops, calling out to them that these were a small band.",
+            "bn": "ইন্না হা-উলা-ই লাশিরযিমাতুন কালীলূন: নিশ্চয়ই এরা ছোট্ট এক দল। আরবিতে মাত্র চারটি শব্দ, আর এগুলো দিয়েই এক বক্তৃতার শুরু। আগের আয়াত ২৬:৫৩-এ ফেরাউন শহরে শহরে সংগ্রাহক পাঠায়। এ আয়াত জানায়, তাদের মুখে সে কী কথা তুলে দিয়েছিল। দৃশ্যটা ইবন কাসীর এঁকে দেন এভাবে: সকালে দেখা গেল বনী ইসরাঈলের পাড়ায় কেউ নেই। ফেরাউনের রাগ জ্বলে উঠল। সৈন্য জড়ো করতে সে তার সব শহরে ঘোষক পাঠাল, আর তাদের ডেকে বলল, এরা তো ছোট্ট এক দল।"
+          },
+          {
+            "en": "Who are these? Every commentary read for this verse gives the same answer. At-Tabari says that by ha'ula'i he means the Children of Israel, and he relays the same gloss from as-Suddi; Ibn Kathir and as-Sa'di say it in the same words. The Muyassar is more exact: the Children of Israel who had fled with Musa (AS). As-Sa'di adds a word on the tone. Pharaoh says it, he writes, encouraging his people. These are not words of analysis but of rallying, spoken to soldiers who are about to be asked to ride.",
+            "bn": "এরা কারা? এ আয়াতের জন্য যত তাফসীর পড়া হয়েছে, সবগুলোর উত্তর একই। তাবারী বলেন, হা-উলা-ই বলে বনী ইসরাঈলকে বোঝানো হয়েছে, আর সুদ্দী থেকেও তিনি একই ব্যাখ্যা আনেন। ইবন কাসীর ও সা'দী একই কথা বলেন। মুয়াসসার আরেকটু নির্দিষ্ট: যে বনী ইসরাঈল মূসা (আঃ)-এর সঙ্গে পালিয়ে গিয়েছিল। কথার সুর নিয়ে সা'দী একটি শব্দ জুড়ে দেন। তাঁর ভাষায়, ফেরাউন কথাটা বলছে নিজের লোকদের সাহস জোগাতে। এ কোনো হিসাব-নিকাশের কথা নয়। এ হলো চাঙ্গা করার ডাক, সেই সৈন্যদের উদ্দেশে, যাদের একটু পরেই ঘোড়ায় চড়তে বলা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Taken From Rags",
+          "bn": "ছেঁড়া কাপড় থেকে নেওয়া শব্দ"
+        },
+        "p": [
+          {
+            "en": "The weight of the verse sits on shirdhimah. At-Tabari defines it as a group, a band that is left over, and adds that the shirdhimah of anything is its small remainder. Al-Qurtubi quotes the lexicographer al-Jawhari: a shirdhimah is a party of people, and also a piece cut from a thing. Arabic, he notes, speaks of a thawb sharadhim, a garment in pieces. Al-Baghawi glosses it as 'isabah, a band, and then as a piece of people, not many. The plural, both he and al-Qurtubi record, is sharadhim.",
+            "bn": "আয়াতের ভার পড়েছে শিরযিমা শব্দটির উপর। তাবারী এর অর্থ করেন একটি দল, বাকি থেকে যাওয়া একটি গোষ্ঠী। সঙ্গে বলেন, যেকোনো জিনিসের শিরযিমা মানে তার সামান্য অবশিষ্ট অংশ। কুরতুবী অভিধানবিদ জাওহারীর কথা উদ্ধৃত করেন: শিরযিমা হলো মানুষের একটি দল, আবার কোনো জিনিস থেকে কেটে নেওয়া একটি টুকরোও। তিনি জানান, আরবরা বলে সাওবুন শারাযিম, মানে টুকরো টুকরো কাপড়। বাগাভী অর্থ করেন ইসাবা, অর্থাৎ একটি দল, তারপর বলেন, মানুষের একটি টুকরো, সংখ্যায় বেশি নয়। বহুবচন শারাযিম, এ কথা তিনি ও কুরতুবী দুজনেই লিখেছেন।"
+          },
+          {
+            "en": "Both at-Tabari and al-Qurtubi bring the same line of rajaz verse as their witness, in slightly different wording: winter has come, and the poet's shirt, or his clothes, hang worn out, sharadhim, in tatters, and someone laughs at the sight. The word, then, belongs to the same field as rags. When Pharaoh reaches for it, he is not only counting heads. He is calling a people the frayed end of something, a few loose threads, and a word like that does part of the soldier's work before any horse has left its stable.",
+            "bn": "তাবারী ও কুরতুবী দুজনেই সাক্ষী হিসেবে একই রাজায ছন্দের একটি পঙক্তি আনেন, শব্দে সামান্য তফাত রেখে। পঙক্তিটির কথা এমন: শীত এসে গেছে, আর কবির জামা, কিংবা তার কাপড়চোপড়, জীর্ণ হয়ে ঝুলছে, শারাযিম, ছিন্নভিন্ন। সেই দেখে কেউ হাসছে। তাহলে শব্দটা ছেঁড়া ন্যাকড়ার জগতেরই শব্দ। ফেরাউন যখন এ শব্দ বেছে নেয়, তখন সে শুধু মাথা গুনছে না। সে একটি জাতিকে বলছে কোনো কিছুর ছেঁড়া প্রান্ত, কয়েকটা আলগা সুতো। এমন একটি শব্দ কোনো ঘোড়া আস্তাবল ছাড়ার আগেই সৈন্যের কাজের খানিকটা সেরে রাখে।"
+          },
+          {
+            "en": "Al-Qurtubi names the shade outright. A shirdhimah, he says, is a small gathering that is held in contempt, al-jam' al-qalil al-muhtaqar. The Muyassar, paraphrasing the verse, uses the same note: a contemptible band, few in number. So the word carries two claims at once, that the people are few and that they are worth little, and Pharaoh's sentence does not separate them. To be small, in his mouth, is already to be despised.",
+            "bn": "কুরতুবী সুরটা সরাসরি নাম ধরে বলেন। তাঁর ভাষায়, শিরযিমা হলো অল্প কিছু মানুষের এমন জমায়েত, যাকে তুচ্ছ চোখে দেখা হয়: আল-জামউল কালীলুল মুহতাকার। মুয়াসসার আয়াতের অর্থ বলতে গিয়ে একই সুর ধরে: নগণ্য একটি দল, সংখ্যায় অল্প। ফলে শব্দটি একসঙ্গে দুটি দাবি বহন করে। এক, মানুষগুলো সংখ্যায় কম। দুই, তাদের দাম সামান্য। ফেরাউনের বাক্য এ দুটিকে আলাদা করে না। তার মুখে ছোট হওয়া মানেই তুচ্ছ হওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Band, Many Few",
+          "bn": "দল একটি, অল্প অনেকে"
+        },
+        "p": [
+          {
+            "en": "A small point of grammar opens onto the same picture. Shirdhimah is a singular noun, yet the adjective that follows, qalilun, is plural. At-Tabari records the explanation that has been given for it: each group among them carried the sense of fewness, so when all their groups were gathered together, they were called qalilun. He supports it with a verse of al-Kumayt, who speaks of scattered clans brought back until they became like a single tribe, using a plural adjective with a singular noun in just the same way.",
+            "bn": "ব্যাকরণের একটি ছোট্ট কথা একই ছবির দিকে নিয়ে যায়। শিরযিমা একবচন শব্দ, অথচ পরের বিশেষণ কালীলূন বহুবচন। তাবারী এর যে ব্যাখ্যা দেওয়া হয়েছে তা উল্লেখ করেন: তাদের প্রতিটি দলের সঙ্গেই অল্পতার অর্থ জড়িয়ে ছিল। তাই সব দলকে একসঙ্গে ধরতেই বলা হলো কালীলূন। সমর্থনে তিনি কুমাইতের একটি পঙক্তি আনেন। সেখানে কবি ছড়িয়ে থাকা গোত্রগুলোকে ফিরিয়ে এনে একটিমাত্র গোত্রের মতো হয়ে যাওয়ার কথা বলেন, আর ঠিক এভাবেই একবচন শব্দের সঙ্গে বহুবচন বিশেষণ বসান।"
+          },
+          {
+            "en": "Read that way, Pharaoh's phrase is a picture of bands within a band: many small companies, each of them meagre, added together and still meagre. Al-Qurtubi points to a second layer. The la- on la-shirdhimatun is the lam of emphasis, which often enters the predicate of inna. He relays from an-Nahhas that the grammarians of Kufa did not allow it before sawfa, and that the proof it is allowed is the Qur'anic fa-la-sawfa ta'lamun, you will surely come to know. Those very words stand in this surah at 26:49.",
+            "bn": "এভাবে পড়লে ফেরাউনের কথাটা দলের ভেতরে দলের এক ছবি: অনেকগুলো ছোট ছোট দল, প্রতিটিই নগণ্য, সব যোগ করলেও নগণ্য। কুরতুবী আরেকটি স্তর দেখান। লাশিরযিমাতুন-এর লা হলো তাকিদের লাম, যা প্রায়ই ইন্না-র খবরে ঢোকে। নাহহাস থেকে তিনি জানান, কুফার ব্যাকরণবিদেরা সাওফা-র আগে এই লাম বসানো জায়েজ মনে করতেন না। আর জায়েজ হওয়ার প্রমাণ কুরআনের ফালাসাওফা তা'লামূন, অর্থাৎ শীঘ্রই তোমরা জানতে পারবে। ঠিক এই শব্দগুলো এ সূরাতেই আছে, ২৬:৪৯ আয়াতে।"
+          },
+          {
+            "en": "That echo is worth a moment. At 26:49 Pharaoh threatened the believing magicians with fa-la-sawfa ta'lamun, and here the same emphatic lam returns in his mouth. Inna, then la-, then a plural of fewness on a word for scraps: four words, and three of them press the same point. The more a speaker stacks emphasis on a claim, the more he seems to need his listeners to believe it. A man who is sure his enemy is negligible rarely has to say so three times over.",
+            "bn": "এই প্রতিধ্বনি একটু থেমে দেখার মতো। ২৬:৪৯ আয়াতে ফেরাউন ঈমান আনা জাদুকরদের হুমকি দিয়েছিল ফালাসাওফা তা'লামূন বলে। এখানে সেই তাকিদের লাম আবার তার মুখে ফিরে এসেছে। প্রথমে ইন্না, তারপর লা, তারপর টুকরো বোঝানো শব্দের উপর অল্পতার বহুবচন। চারটি শব্দের তিনটিই একই কথায় চাপ দিচ্ছে। কেউ কোনো দাবির উপর যত বেশি জোর চাপায়, ততই মনে হয় শ্রোতাদের বিশ্বাস করানোটা তার খুব দরকার। শত্রু সত্যিই নগণ্য, এমন নিশ্চিত মানুষকে কথাটা তিনবার বলতে হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counts the Verse Never Gives",
+          "bn": "যে গণনা আয়াত দেয় না"
+        },
+        "p": [
+          {
+            "en": "How many were the few? The Qur'an does not say, and the commentaries fill the silence with reports. At-Tabari relays through Abu 'Ubaydah, once as his own word and once from 'Abd Allah, that the band was six hundred and seventy thousand; al-Baghawi gives the same figure from Ibn Mas'ud. He relays from Mujahid six hundred thousand, with Pharaoh's host beyond counting, and from 'Abd Allah ibn Shaddad that seventy-two came to Yusuf (AS) and six hundred thousand left with Musa (AS), while Pharaoh rode out with eight hundred thousand.",
+            "bn": "অল্প বলতে কতজন? কুরআন বলে না, আর তাফসীরগুলো এই নীরবতা ভরেছে নানা বর্ণনায়। তাবারী আবূ উবাইদার সূত্রে আনেন, একবার তাঁর নিজের কথা হিসেবে, আরেকবার আবদুল্লাহর কথা হিসেবে, যে দলটি ছিল ৬ লাখ ৭০ হাজার। বাগাভী একই সংখ্যা আনেন ইবন মাসউদ থেকে। মুজাহিদ থেকে আনেন ৬ লাখ, আর ফেরাউনের বাহিনী ছিল গুনে শেষ করার বাইরে। আবদুল্লাহ ইবন শাদ্দাদ থেকে আনেন, ইউসুফ (আঃ)-এর কাছে এসেছিল ৭২ জন, আর মূসা (আঃ)-এর সঙ্গে বেরিয়েছিল ৬ লাখ। ফেরাউন বেরিয়েছিল ৮ লাখ নিয়ে।"
+          },
+          {
+            "en": "At-Tabari also brings a report from Qays ibn 'Ubad, described in the chain as among those who told the most about the Children of Israel, with figures for Pharaoh's vanguard, and others from Ibn Jurayj and Ibn 'Abbas that set the pursuers in the millions or crown a thousand of them. Al-Baghawi gives six hundred thousand from the people of tafsir. They have the shape of reports drawn from the People of the Book. They are recorded here as reports only, neither affirmed nor denied, and nothing in this article rests on them.",
+            "bn": "তাবারী কাইস ইবন উবাদ থেকেও একটি বর্ণনা আনেন, সনদের ভেতরেই তাঁর পরিচয় দেওয়া হয়েছে এভাবে: বনী ইসরাঈল সম্পর্কে সবচেয়ে বেশি কাহিনি যাঁরা বলতেন, তিনি তাঁদের একজন। সেখানে ফেরাউনের অগ্রবাহিনীর সংখ্যা আছে। ইবন জুরাইজ ও ইবন আব্বাস থেকেও বর্ণনা আনেন, যেগুলো ধাওয়াকারীদের সংখ্যা দশ লাখ ছাড়িয়ে নিয়ে যায়, কিংবা তাদের হাজারজনের মাথায় মুকুট পরায়। বাগাভী তাফসীরবিদদের সূত্রে বলেন ৬ লাখ। এগুলোর চেহারা আহলে কিতাবের কাছ থেকে আসা কাহিনির মতো। এখানে এগুলো শুধু বর্ণনা হিসেবেই উল্লেখ করা হলো। সত্য বা মিথ্যা কোনোটাই বলা হচ্ছে না, আর এ লেখার কোনো কথা এগুলোর উপর দাঁড়িয়ে নেই।"
+          },
+          {
+            "en": "What can be said without them is enough. The verse records an estimate, and the estimate is Pharaoh's. The Qur'an quotes it the way it quotes his other claims in this surah, as his speech and nothing more. Whether the band was large or small by any reckoning, the word was chosen for its effect on the listener. The figures belong to the storytellers; the contempt belongs to the man, and it is the contempt that the verse preserves.",
+            "bn": "এগুলো ছাড়াই যা বলা যায়, তা যথেষ্ট। আয়াতটি একটি অনুমান তুলে ধরে, আর অনুমানটা ফেরাউনের। এ সূরায় তার অন্য দাবিগুলো কুরআন যেভাবে উদ্ধৃত করে, এটাও সেভাবেই করে: তার মুখের কথা হিসেবে, এর বেশি কিছু নয়। যেকোনো হিসাবে দলটি বড় হোক বা ছোট, শব্দটা বাছা হয়েছিল শ্রোতার উপর প্রভাব ফেলার জন্য। সংখ্যাগুলো কাহিনিকারদের। তাচ্ছিল্যটা লোকটির নিজের। আর আয়াত ধরে রেখেছে সেই তাচ্ছিল্যকেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Too Few to Fear, Yet Feared",
+          "bn": "ভয়ের অযোগ্য, তবু ভয়"
+        },
+        "p": [
+          {
+            "en": "Set the verse beside the one before it and a strain appears. A ruler calls a people a handful of scraps, and in the same act he sends gatherers through every city to raise an army against them. If they were truly negligible, a garrison would do. The speech that begins here does not end here, either. Its next two lines, 26:55 and 26:56, follow at once: wa-innahum lana la-gha'izun, and they are enraging us, and wa-inna la-jami'un hadhirun, and we are a host, all on guard.",
+            "bn": "আয়াতটিকে আগের আয়াতের পাশে রাখলে একটা টানাপোড়েন চোখে পড়ে। একজন শাসক একটি জাতিকে বলছে মুঠোভর টুকরো। আর ঠিক তখনই তাদের বিরুদ্ধে সেনা জোগাড় করতে প্রতিটি শহরে সংগ্রাহক পাঠাচ্ছে। তারা যদি সত্যিই নগণ্য হতো, এক দল প্রহরীই যথেষ্ট ছিল। তা ছাড়া যে বক্তৃতা এখানে শুরু, তা এখানেই শেষ নয়। পরের দুটি বাক্য, ২৬:৫৫ ও ২৬:৫৬, সঙ্গে সঙ্গে আসে: ওয়া ইন্নাহুম লানা লাগা-ইযূন, আর তারা আমাদের রাগিয়ে তুলেছে। ওয়া ইন্না লাজামী'উন হা-যিরূন, আর আমরা সবাই মিলে সদা সতর্ক এক বাহিনী।"
+          },
+          {
+            "en": "The Muyassar reads the three verses as one speech and spells out the grievance: they fill our chests with rage, since they have opposed our religion and gone out without our permission, and we are all awake to them and ready. Without our permission is an old complaint in this surah. At 26:49 Pharaoh's charge against the magicians was that they believed before he had given them leave. A power that measures everything by its own permission takes any unlicensed step, a belief or a departure, as an insult to be avenged.",
+            "bn": "মুয়াসসার তিনটি আয়াতকে একটি বক্তৃতা হিসেবে পড়ে, আর অভিযোগটা খুলে বলে: তারা আমাদের বুক রাগে ভরে দিয়েছে, কারণ তারা আমাদের ধর্মের বিরোধিতা করেছে, আর আমাদের অনুমতি ছাড়াই বেরিয়ে গেছে। আর আমরা সবাই তাদের ব্যাপারে সজাগ ও প্রস্তুত। অনুমতি ছাড়া, এ অভিযোগ এ সূরায় নতুন নয়। ২৬:৪৯ আয়াতে জাদুকরদের বিরুদ্ধে ফেরাউনের নালিশ ছিল, সে অনুমতি দেওয়ার আগেই তারা ঈমান এনেছে। যে ক্ষমতা সবকিছু মাপে নিজের অনুমতি দিয়ে, তার কাছে অনুমতিহীন যেকোনো পদক্ষেপ অপমান। সেটা ঈমান হোক বা দেশ ছেড়ে যাওয়া, তার প্রতিশোধ চাই।"
+          },
+          {
+            "en": "Ibn Kathir's paraphrase of 26:55 lets the admission show: every time we have heard anything about them, it has upset us and made us angry. On 26:56 he gives, we are constantly taking precautions lest they betray us. No one speaks of a handful of rags like that. A band that is too few to matter does not keep a kingdom on its guard. The speech belittles in its first line and confesses in its second, and the confession is the truer of the two.",
+            "bn": "২৬:৫৫ আয়াতের যে ব্যাখ্যা ইবন কাসীর দেন, তাতে স্বীকারোক্তিটা বেরিয়ে আসে: তাদের সম্পর্কে যখনই কিছু শুনেছি, আমাদের মন খারাপ হয়েছে, রাগ চড়েছে। ২৬:৫৬ আয়াতে তিনি বলেন, তারা যেন বিশ্বাসঘাতকতা করতে না পারে, সেজন্য আমরা সবসময় সাবধানতা নিয়ে চলি। মুঠোভর ন্যাকড়া নিয়ে কেউ এভাবে কথা বলে না। যে দল ধর্তব্যের মধ্যেই পড়ে না, তার জন্য গোটা রাজ্যকে পাহারায় দাঁড় করিয়ে রাখতে হয় না। বক্তৃতাটা প্রথম বাক্যে তুচ্ছ করে, দ্বিতীয় বাক্যে স্বীকার করে। আর দুটির মধ্যে স্বীকারোক্তিটাই বেশি সত্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Shrink, Accuse, Then Mobilise",
+          "bn": "ছোট করো, দোষ দাও, জড়ো করো"
+        },
+        "p": [
+          {
+            "en": "Taken together, the three verses move in an order that is easy to recognise. First the other side is made small, so that no one fears the fight. Then it is made guilty, so that no one pities it: they enrage us, they defied our religion, they left without leave. Then their own side is made vigilant and united, so that no one stays home. The Qur'an records the speech whole and comments on none of it. It simply lets the next verses show what became of the men who said it.",
+            "bn": "তিনটি আয়াত একসঙ্গে পড়লে এমন এক ক্রম চোখে পড়ে, যা চিনতে কষ্ট হয় না। প্রথমে অপর পক্ষকে ছোট বানানো, যাতে লড়াইকে কেউ ভয় না পায়। তারপর তাদের দোষী বানানো, যাতে কারও মনে দয়া না জাগে: তারা আমাদের রাগিয়েছে, আমাদের ধর্ম মানেনি, অনুমতি ছাড়া চলে গেছে। তারপর নিজের পক্ষকে সজাগ আর একজোট বানানো, যাতে কেউ ঘরে বসে না থাকে। কুরআন বক্তৃতাটা পুরোটাই তুলে ধরে, কোনো অংশের উপর মন্তব্য করে না। যারা এ কথা বলেছিল, তাদের কী হলো, তা শুধু পরের আয়াতগুলোকে দেখাতে দেয়।"
+          },
+          {
+            "en": "What the next verses show is a reversal. Ibn Kathir puts it in one sentence: he and his troops were punished with the very things he sought to inflict upon the Children of Israel. At 26:57 to 26:59 they are driven out of gardens, springs, treasures and an honoured station, and the despised band is made to inherit them. Ibn Kathir reads this beside 7:137 and 28:5 and 28:6, where those counted weak in the land are made its heirs. The shirdhimah outlasted the man who named it.",
+            "bn": "পরের আয়াতগুলো যা দেখায়, তা এক উল্টে যাওয়া। ইবন কাসীর একটি বাক্যেই বলেন: বনী ইসরাঈলের উপর যা চাপাতে চেয়েছিল, ঠিক সেটা দিয়েই ফেরাউন ও তার বাহিনীকে শাস্তি দেওয়া হলো। ২৬:৫৭ থেকে ২৬:৫৯ আয়াতে তাদের বের করে দেওয়া হয় বাগান, ঝর্ণা, ধনভান্ডার আর সম্মানের আসন থেকে। আর তুচ্ছ করা দলটিকে বানানো হয় সেসবের উত্তরাধিকারী। ইবন কাসীর এটি পড়েন ৭:১৩৭ এবং ২৮:৫ ও ২৮:৬ আয়াতের পাশে, যেখানে দেশে যাদের দুর্বল গণ্য করা হতো, তাদেরই বানানো হয় দেশের উত্তরাধিকারী। যে শিরযিমা নাম দিয়েছিল, শিরযিমা তার চেয়ে বেশি দিন টিকে রইল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Contempt Quoted, Not Lent",
+          "bn": "তাচ্ছিল্যের উদ্ধৃতি, ধার নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: a ruler of that age speaking with contempt about a people he meant to drag back, words the Qur'an quotes so that their end can be seen. It licenses nothing against any living person or community. No Egyptian today stands in Pharaoh's place, and no Jewish person or community today is the band he spoke of, to be praised or blamed for that night. The verse belongs to its story, and to the reader's conscience.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা এর ভাষা বর্ণনা করে: সেই যুগের এক শাসক এমন এক জাতিকে নিয়ে তাচ্ছিল্যের সুরে কথা বলছে, যাদের সে টেনে ফিরিয়ে আনতে চেয়েছিল। কুরআন কথাগুলো উদ্ধৃত করে, যাতে তাদের পরিণতি চোখে পড়ে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের কোনো মিসরীয় ফেরাউনের জায়গায় দাঁড়িয়ে নেই। আজকের কোনো ইহুদি মানুষ বা জনগোষ্ঠীও সেই দল নয়, যাদের কথা সে বলেছিল। সেই রাতের জন্য কারও প্রশংসা বা নিন্দা প্রাপ্য নয়। আয়াতটি তার কাহিনির, আর পাঠকের বিবেকের।"
+          },
+          {
+            "en": "Nor may anyone borrow the word. Shirdhimah is quoted here in the mouth of the man the surah condemns; to call any people a band of scraps, a contemptible few, is to take up his vocabulary, not the Qur'an's. As for narrations, none of the commentaries read for this verse attaches a hadith to it, and its explanation rests on the language and on the reports already described. Its meaning does not need more: the words are plain, and the scene around them supplies the rest.",
+            "bn": "শব্দটা ধার নেওয়ারও কারও অধিকার নেই। শিরযিমা এখানে উদ্ধৃত হয়েছে এমন লোকের মুখে, যাকে এ সূরা নিন্দা করে। কোনো জাতিকে টুকরো-টাকরার দল বা তুচ্ছ অল্প কজন বলা মানে তার ভাষা তুলে নেওয়া, কুরআনের ভাষা নয়। আর হাদীসের কথা: এ আয়াতের জন্য যত তাফসীর পড়া হয়েছে, তার কোনোটিই আয়াতটির সঙ্গে কোনো হাদীস যুক্ত করেনি। এর ব্যাখ্যা দাঁড়িয়ে আছে ভাষার উপর, আর ওপরে বলা বর্ণনাগুলোর উপর। এর অর্থ বুঝতে এর বেশি লাগে না। শব্দগুলো স্পষ্ট, বাকিটা পূরণ করে চারপাশের দৃশ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weighed by Another Scale",
+          "bn": "অন্য পাল্লায় ওজন"
+        },
+        "p": [
+          {
+            "en": "The verse turns two ways on the reader. The first is a warning against becoming the speaker. It is easy to shrink people with a word: a group, a faction, a handful, those few. The word saves us the trouble of hearing them and readies others to treat them as nothing. When I find myself reaching for such a word, the honest question is whether I am describing them or recruiting against them, and whether the contempt in my voice is covering a fear I have not named.",
+            "bn": "আয়াতটি পাঠকের দিকে দুই দিক থেকে ফেরে। প্রথম দিকটা এক সতর্কবার্তা: নিজে যেন সেই বক্তা হয়ে না যাই। একটা শব্দ দিয়ে মানুষকে ছোট করে ফেলা খুব সহজ: একটা গোষ্ঠী, একটা দল, মুঠোভর কজন, ওই কয়েকজন। শব্দটা তাদের কথা শোনার ঝামেলা থেকে আমাদের বাঁচিয়ে দেয়, আর অন্যদের তৈরি করে তাদের কিছুই না ভাবতে। এমন শব্দের দিকে হাত বাড়ালে সৎ প্রশ্ন হলো: আমি কি তাদের বর্ণনা দিচ্ছি, নাকি তাদের বিরুদ্ধে লোক জোগাড় করছি? আমার গলার তাচ্ছিল্য কি এমন কোনো ভয় ঢেকে রাখছে, যার নাম আমি এখনো মুখে আনিনি?"
+          },
+          {
+            "en": "The second way is consolation. There are seasons when holding to what is right means standing with the few, and when others count you and find you small. Pharaoh's count was not what decided the outcome. The band he named for rags was the band that crossed, and the host that was all on guard was the host that drowned. Being called few is not a verdict. The scale that matters is not held by whoever does the counting.",
+            "bn": "দ্বিতীয় দিকটা সান্ত্বনার। এমন সময় আসে, যখন সঠিক পথে টিকে থাকা মানে অল্প কজনের সঙ্গে দাঁড়ানো। অন্যরা গুনে দেখে, আর আপনাকে ছোট পায়। ফেরাউনের গোনা হিসাব দিয়ে পরিণতি ঠিক হয়নি। যে দলকে সে ছেঁড়া কাপড়ের নামে ডেকেছিল, সেই দলই সাগর পার হয়েছিল। আর যে বাহিনী সবাই মিলে সদা সতর্ক ছিল, সেই বাহিনীই ডুবে গিয়েছিল। অল্প বলে ডাকা কোনো রায় নয়। যে পাল্লায় আসল ওজন হয়, তা গুনতে বসা লোকটির হাতে থাকে না।"
+          }
+        ]
+      }
+    ]
+  },
   "26:57": {
     "sections": [
       {

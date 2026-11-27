@@ -35357,6 +35357,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When the truth becomes plain in the very field you know best, let your knowledge humble you, and yield to it at once, before pride finds an explanation.",
     "lessonBn": "যে বিষয় আপনি সবচেয়ে ভালো জানেন, সেখানেই যখন সত্য স্পষ্ট হয়ে যায়, নিজের জ্ঞানকে আপনাকে বিনয়ী করতে দিন। অহংকার কোনো ব্যাখ্যা খুঁজে পাওয়ার আগেই সত্যকে মেনে নিন।"
+  },
+  "26:54": {
+    "reflectionEn": "Morning comes, the Israelite quarters stand empty, and Pharaoh's criers ride out to every city. The first words of the summons are four: these are but a small band. The word for band is the one Arabic uses for scraps of a torn garment. He calls them few, yet he gathers a whole kingdom to chase them, and in the next breath admits they enrage him. Contempt is often a cover for fear, and the people it shrinks are the ones it cannot ignore. The account goes on to show who was left standing. When I dismiss someone as small, what am I hiding from myself? And when I am the one counted few, whose arithmetic am I trusting?",
+    "reflectionBn": "সকাল হতেই দেখা গেল, বনী ইসরাঈলের পাড়া খালি। ফেরাউনের ঘোষকেরা ছুটল সব শহরে। ডাকের প্রথম কথা মাত্র চার শব্দের: এরা তো ছোট্ট এক দল। দল বোঝাতে যে শব্দ, আরবিতে সেটাই ছেঁড়া কাপড়ের টুকরোর নাম। মুখে বলছে অল্প, অথচ তাদের পেছনে ধাওয়া করতে গোটা রাজ্য জড়ো করছে। পরের নিঃশ্বাসেই মেনে নিচ্ছে, এরা আমাদের রাগিয়ে তুলেছে। তুচ্ছ করার আড়ালে প্রায়ই লুকিয়ে থাকে ভয়। যাকে ছোট করা হয়, আসলে তাকে উপেক্ষা করা যায় না বলেই ছোট করা হয়। শেষ পর্যন্ত কে টিকে রইল, পরের আয়াতগুলো তা দেখিয়ে দেয়। আমি যখন কাউকে নগণ্য বলে উড়িয়ে দিই, নিজের কাছ থেকে কী লুকাই? আর যখন আমাকেই অল্প বলে গোনা হয়, আমি কার হিসাবে ভরসা করি?",
+    "pointsEn": [
+      "Whom have I described as few, small or not worth counting, and was that description true or only convenient?",
+      "Where does my own contempt for someone sit right beside a fear of them that I have not admitted?",
+      "When I want to rally people to my side, do I lean on making the other side look smaller than it is?",
+      "In a place where I stand with the few, whose count of us have I let decide how strong we are?",
+      "What would change in how I speak of others if I remembered how this chase ended?"
+    ],
+    "pointsBn": [
+      "কাদের আমি অল্প, ছোট বা গোনার অযোগ্য বলেছি? কথাটা কি সত্য ছিল, নাকি শুধু আমার সুবিধামতো?",
+      "কারও প্রতি আমার তাচ্ছিল্যের ঠিক পাশেই কোথায় এমন এক ভয় বসে আছে, যা আমি স্বীকার করিনি?",
+      "মানুষকে নিজের দিকে টানতে চাইলে আমি কি অন্য পক্ষকে আসলের চেয়ে ছোট দেখানোর উপর ভর করি?",
+      "যেখানে আমি অল্প কজনের সঙ্গে দাঁড়িয়ে আছি, সেখানে আমাদের শক্তি কতটা, তা কার গোনা হিসাবকে ঠিক করতে দিয়েছি?",
+      "এ ধাওয়ার শেষটা কেমন হয়েছিল, তা মনে রাখলে অন্যদের নিয়ে আমার কথা বলার ধরনে কী বদলাত?"
+    ],
+    "lessonEn": "Contempt that shrinks people into scraps often hides fear of them; never measure the worth of a person or a cause by how small its enemies say it is.",
+    "lessonBn": "মানুষকে টুকরো বানিয়ে তুচ্ছ করার আড়ালে প্রায়ই তাদের ভয় লুকিয়ে থাকে। শত্রুরা কাউকে কত ছোট বলে, তা দিয়ে কোনো মানুষ বা কোনো আদর্শের মূল্য মাপবেন না।"
   }
 };
 
