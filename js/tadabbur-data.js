@@ -33883,6 +33883,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Take the Qur'an in as it was sent down: slowly and part by part, reciting with care and pausing to understand, rather than hurrying to finish.",
     "lessonBn": "কুরআন যেভাবে নেমেছে সেভাবেই গ্রহণ করুন: ধীরে, অল্প অল্প করে। শেষ করার তাড়ায় না ছুটে যত্নের সঙ্গে তিলাওয়াত করুন, আর বোঝার জন্য থামুন।"
+  },
+  "18:5": {
+    "reflectionEn": "Some people said that Allah had taken a son. The reply is not a shout. It takes the sentence apart in three steps. They have no knowledge of it, and neither had their fathers before them. It is a grave word, and all it has behind it is the mouth it comes out of. And what they say is nothing but a lie. A sentence can be short and still be enormous. It can be repeated for generations and still rest on nothing. I could ask the same of my own speech about God. What have I said about Him that I never checked, only heard? And how lightly do I let such words leave my mouth?",
+    "reflectionBn": "কিছু লোক বলেছিল, আল্লাহ পুত্র গ্রহণ করেছেন। জবাবে কোনো চিৎকার নেই। আয়াতটি কথাটাকে তিন ধাপে খুলে দেখায়। এ বিষয়ে তাদের কোনো জ্ঞান নেই, তাদের বাপ-দাদারও ছিল না। এটা বড় সাংঘাতিক কথা, আর কথাটার পেছনে আছে কেবল সেই মুখ, যেখান থেকে তা বের হয়। আর তারা যা বলে তা মিথ্যা ছাড়া কিছু নয়। একটা বাক্য ছোট হয়েও বিশাল হতে পারে। প্রজন্মের পর প্রজন্ম মুখে মুখে ঘুরেও তা শূন্যের উপর দাঁড়িয়ে থাকতে পারে। একই প্রশ্ন আমি নিজের কথার দিকেও ফেরাতে পারি। আল্লাহ সম্পর্কে এমন কী বলেছি, যা কখনো যাচাই করিনি, শুধু শুনেছি? আর এমন কথা মুখ থেকে বের করতে আমি কতটা হালকাভাবে নিই?",
+    "pointsEn": [
+      "What have I said about Allah, His will or His pleasure, that I could not trace to anything beyond hearing it said?",
+      "Which of my convictions do I hold mainly because my elders held them, and have I ever asked what they rested on?",
+      "Does a statement feel more certain to me only because it has been repeated for a long time?",
+      "When did I last speak quickly on a matter of religion, and would I say it the same way if I weighed it first?",
+      "If a claim of mine about God were set beside these three steps, at which step would it stop?"
+    ],
+    "pointsBn": [
+      "আল্লাহ, তাঁর ইচ্ছা বা তাঁর সন্তুষ্টি নিয়ে এমন কী বলেছি, যার উৎস হিসেবে লোকমুখে শোনা ছাড়া আর কিছু দেখাতে পারব না?",
+      "আমার কোন বিশ্বাসগুলো মূলত এ কারণে আঁকড়ে আছি যে মুরুব্বিরা এমনটা মানতেন? সেগুলোর ভিত্তি কী, কখনো জিজ্ঞেস করেছি কি?",
+      "কোনো কথা কি আমার কাছে শুধু এ কারণে বেশি নিশ্চিত মনে হয় যে বহুদিন ধরে তা বলা হয়ে আসছে?",
+      "দ্বীনের কোনো বিষয়ে শেষ কবে তাড়াহুড়া করে কথা বলেছি? আগে ওজন করে নিলে কি একইভাবে বলতাম?",
+      "আল্লাহ সম্পর্কে আমার কোনো দাবিকে যদি এই তিন ধাপের সামনে রাখা হয়, কোন ধাপে গিয়ে তা আটকে যাবে?"
+    ],
+    "lessonEn": "Weigh what you say about Allah before it leaves your mouth. A sentence with no knowledge behind it can be grave, however lightly it is said or however long it has been repeated.",
+    "lessonBn": "আল্লাহ সম্পর্কে কিছু বলার আগে কথাটা ওজন করে নিন। জ্ঞান ছাড়া বলা একটা বাক্য যত হালকাভাবেই বলা হোক, যত দিন ধরেই চলে আসুক, তা বড় সাংঘাতিক হতে পারে।"
   }
 };
 

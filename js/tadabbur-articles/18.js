@@ -147,6 +147,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "18:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Claim Answered at Once",
+          "bn": "দাবির জবাব সঙ্গে সঙ্গে"
+        },
+        "p": [
+          {
+            "en": "Surat al-Kahf opens with praise for the Book sent down without crookedness, to warn of a severe punishment and to give good news to the believers (18:1 to 18:3). Then 18:4 names one group to be warned in particular: those who said, Allah has taken a son. Al-Qurtubi draws the line between the two: the warning at the start of the surah is general, and this one is specific to whoever said that Allah has a child. Verse 18:5 follows without a pause and answers what they said.",
+            "bn": "সূরা কাহফ শুরু হয় সেই কিতাবের প্রশংসা দিয়ে, যাতে কোনো বক্রতা রাখা হয়নি। উদ্দেশ্য কঠিন শাস্তির ব্যাপারে সতর্ক করা আর মু'মিনদের সুসংবাদ দেওয়া (১৮:১ থেকে ১৮:৩)। এরপর ১৮:৪ আয়াত আলাদা করে একটি দলের নাম নেয়, যাদের সতর্ক করতে হবে: যারা বলে, আল্লাহ পুত্র গ্রহণ করেছেন। কুরতুবী দুইয়ের পার্থক্য দেখান। সূরার শুরুর সতর্কবাণী সবার জন্য, আর এটি কেবল তাদের জন্য, যারা বলে আল্লাহর সন্তান আছে। ১৮:৫ আয়াত কোনো বিরতি ছাড়াই এসে তাদের কথার জবাব দেয়।"
+          },
+          {
+            "en": "Ma lahum bihi min 'ilmin wa la li-aba'ihim: they have no knowledge of it, nor had their fathers. Kaburat kalimatan takhruju min afwahihim: grave is the word that comes out of their mouths. In yaquluna illa kadhiba: they say nothing but a lie. Each of the three clauses takes something more away from the claim. The next verse, 18:6, turns to the Prophet ﷺ, who might destroy himself with grief over them if they do not believe.",
+            "bn": "মা লাহুম বিহি মিন ইলমিন ওয়া লা লি-আবাইহিম: এ বিষয়ে তাদের কোনো জ্ঞান নেই, তাদের পিতৃপুরুষদেরও ছিল না। কাবুরাত কালিমাতান তাখরুজু মিন আফওয়াহিহিম: তাদের মুখ থেকে যে কথা বের হয়, তা বড় সাংঘাতিক। ইন ইয়াকূলূনা ইল্লা কাযিবা: তারা মিথ্যা ছাড়া কিছুই বলে না। তিনটি বাক্যাংশের প্রতিটি দাবিটা থেকে আরও কিছু কেড়ে নেয়। পরের আয়াত ১৮:৬ ফিরে তাকায় নবী ﷺ-এর দিকে। তারা ঈমান না আনলে দুঃখে তিনি যেন নিজেকে শেষ করে দেবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Of the Saying, or of Him",
+          "bn": "কথাটির জ্ঞান, নাকি তাঁর"
+        },
+        "p": [
+          {
+            "en": "The first clause turns on one small pronoun: bihi, of it. At-Tabari takes it to refer to Allah. The ha in bihi, he says, comes from the mention of Allah, and the sense is that those who say this have no knowledge of Allah, no knowledge that it cannot be that He has a child. Their ignorance of Allah and of His greatness is what led them to say it. On this reading the fault lies in the speakers' ignorance of the One they speak about.",
+            "bn": "প্রথম বাক্যাংশটি ঘুরছে ছোট্ট একটি সর্বনামকে ঘিরে: বিহি, এ বিষয়ে। তাবারী এটিকে আল্লাহর দিকে ফেরান। তাঁর কথায়, বিহি-র 'হা' এসেছে আল্লাহর উল্লেখ থেকে। অর্থ দাঁড়ায়: যারা এ কথা বলে, আল্লাহ সম্পর্কে তাদের কোনো জ্ঞান নেই। তাঁর যে সন্তান থাকতে পারে না, সেটুকুও তারা জানে না। আল্লাহ ও তাঁর মহত্ত্ব সম্পর্কে অজ্ঞতাই তাদের দিয়ে কথাটা বলিয়েছে। এ পাঠে দোষটা হলো, যাঁর সম্পর্কে তারা কথা বলছে, তাঁকেই তারা চেনে না।"
+          },
+          {
+            "en": "Others take the pronoun to refer to the claim. Ibn Kathir glosses it as this saying which they fabricated and invented. Al-Qurtubi reads: they have no knowledge of that saying, because they are imitators who said it without evidence, and he notes that the min before 'ilm is a connective particle. The Muyassar puts it as nothing of knowledge behind what they claim for Allah, the taking of a child. Al-Baghawi, without naming the referent, says only that they said it out of ignorance, not out of knowledge.",
+            "bn": "অন্যরা সর্বনামটিকে দাবির দিকে ফেরান। ইবন কাসীরের ব্যাখ্যায় অর্থ হলো: তাদের বানানো ও রটানো এই কথা সম্পর্কে। কুরতুবী পড়েন: সেই কথা সম্পর্কে তাদের কোনো জ্ঞান নেই, কারণ তারা অন্ধ অনুসারী, প্রমাণ ছাড়াই কথাটা বলেছে। তিনি এটাও জানান, 'ইলম'-এর আগের 'মিন' একটি সংযোজক অব্যয়। মুয়াসসারের ভাষায়, আল্লাহর সন্তান গ্রহণের যে দাবি তারা করে, তার পেছনে জ্ঞানের কিছুই নেই। বাগাভী সর্বনামটি কার দিকে, তা বলেন না। তিনি শুধু বলেন, কথাটা তারা বলেছে অজ্ঞতা থেকে, জ্ঞান থেকে নয়।"
+          },
+          {
+            "en": "The two readings reach the same conclusion, that the claim rests on no knowledge, but they place the gap differently. For at-Tabari it is ignorance of who Allah is, of a greatness that leaves no room for a child. For Ibn Kathir and al-Qurtubi it is a statement made without evidence. Neither argues against the other here, and a reader can hold both together.",
+            "bn": "দুই পাঠ একই সিদ্ধান্তে পৌঁছায়: দাবিটির পেছনে কোনো জ্ঞান নেই। তবে ফাঁকটা তারা দেখান দুই জায়গায়। তাবারীর কাছে এটা আল্লাহকে না চেনার অজ্ঞতা, এমন মহত্ত্বকে না জানা, যেখানে সন্তানের কোনো জায়গা নেই। ইবন কাসীর ও কুরতুবীর কাছে এটা প্রমাণ ছাড়া বলা একটি কথা। এখানে কেউ অন্যজনের বিরুদ্ধে যুক্তি দেননি, আর পাঠক দুটো পাঠই একসঙ্গে মনে রাখতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Inherited, Never Known",
+          "bn": "উত্তরাধিকার, জ্ঞান নয়"
+        },
+        "p": [
+          {
+            "en": "Wa la li-aba'ihim: nor their fathers. Ibn Kathir and al-Qurtubi both gloss the fathers as their aslaf, the forebears who went before. At-Tabari keeps to his reading of the pronoun: their forebears, who passed away before them on the same way they follow today, had no knowledge of Allah and His greatness either. The Muyassar and as-Sa'di add one word that explains why the fathers are mentioned at all. They are the forebears whom these people imitated, and as-Sa'di adds, whom they followed.",
+            "bn": "ওয়া লা লি-আবাইহিম: তাদের পিতৃপুরুষদেরও না। ইবন কাসীর ও কুরতুবী দুজনেই পিতৃপুরুষ বলতে বোঝান আসলাফ, অর্থাৎ যারা আগে চলে গেছে। তাবারী সর্বনামের ব্যাপারে নিজের পাঠেই থাকেন। আজ এরা যে পথে আছে, সেই একই পথে থেকে যে পূর্বপুরুষেরা এদের আগে মারা গেছে, আল্লাহ ও তাঁর মহত্ত্ব সম্পর্কে তাদেরও কোনো জ্ঞান ছিল না। পিতৃপুরুষের কথা আদৌ কেন এল, মুয়াসসার ও সা'দী একটি শব্দে তা বুঝিয়ে দেন। এরা সেই পূর্বপুরুষদের অন্ধ অনুকরণ করেছে। সা'দী যোগ করেন, তাদের পেছনে পেছনে চলেছে।"
+          },
+          {
+            "en": "As-Sa'di then says what such a chain does rest on: they follow nothing but conjecture and what the souls desire. Those words are the wording of 53:23, a verse that also speaks of names coined by you and your fathers. Al-Qurtubi's term for the speakers is muqallida, imitators who said it without evidence. A claim repeated for generations is still only as strong as its first speaker's knowledge, and here, the verse says, that knowledge was nothing.",
+            "bn": "এমন ধারাবাহিকতা আসলে কিসের উপর দাঁড়িয়ে, সা'দী তা-ও বলে দেন: তারা অনুমান আর মনের খেয়ালখুশি ছাড়া কিছুরই অনুসরণ করে না। কথাগুলো হুবহু ৫৩:২৩ আয়াতের ভাষা, আর সেখানেও আছে এমন কিছু নামের কথা, যা তোমরা ও তোমাদের বাপ-দাদারা রেখেছ। কুরতুবী বক্তাদের বলেন মুকাল্লিদা, অর্থাৎ অন্ধ অনুসারী, যারা প্রমাণ ছাড়াই কথাটা বলেছে। প্রজন্মের পর প্রজন্ম কোনো দাবি চলে এলেও তার জোর ততটুকুই, প্রথম বক্তার জ্ঞান যতটুকু ছিল। আর আয়াত বলছে, এখানে সে জ্ঞান ছিল শূন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Speakers, Narrow and Wide",
+          "bn": "দাবিদার কারা: সংকীর্ণ ও বিস্তৃত পাঠ"
+        },
+        "p": [
+          {
+            "en": "The verse itself names no one. The commentators do, mostly on 18:4. Ibn Ishaq, whom at-Tabari quotes with his chain and Ibn Kathir also cites, says these were Quraysh, in Ibn Kathir's wording the polytheists of the Arabs, who said: we worship the angels, and they are the daughters of Allah. At-Tabari, on 18:5, glosses the grave word the same way. On 18:4 he puts it a little wider: the polytheists of the Prophet's own people and others.",
+            "bn": "আয়াত নিজে কারও নাম নেয় না, নাম নেন তাফসীরকারেরা, বেশিরভাগই ১৮:৪ আয়াতের আলোচনায়। ইবন ইসহাকের কথা তাবারী নিজের সনদে আনেন, ইবন কাসীরও উল্লেখ করেন। তাঁর মতে এরা কুরাইশ, ইবন কাসীরের ভাষায় আরবের মুশরিকরা। তারা বলত: আমরা ফেরেশতাদের ইবাদত করি, আর তারা আল্লাহর কন্যা। ১৮:৫ আয়াতে তাবারী সেই সাংঘাতিক কথার ব্যাখ্যা দেন একইভাবে। ১৮:৪ আয়াতে তিনি পরিধিটা একটু বাড়ান: নবী ﷺ-এর নিজের কওমের মুশরিকরা এবং অন্যরাও।"
+          },
+          {
+            "en": "Al-Qurtubi names three groups: the Jews, who said 'Uzayr is the son of Allah; the Christians, who said the Messiah is the son of Allah; and Quraysh, who said the angels are the daughters of Allah. As-Sa'di likewise names the Jews, the Christians and the polytheists, none of whom, he says, said it from knowledge or certainty. The report from Ibn Ishaq points to the Prophet's own people; al-Qurtubi and as-Sa'di read the warning more widely. Both lines stand in the sources.",
+            "bn": "কুরতুবী তিনটি দলের নাম নেন। ইহুদিরা, যারা বলেছিল উযাইর আল্লাহর পুত্র। খ্রিস্টানরা, যারা বলেছিল মাসীহ আল্লাহর পুত্র। আর কুরাইশ, যারা বলেছিল ফেরেশতারা আল্লাহর কন্যা। সা'দীও একইভাবে ইহুদি, খ্রিস্টান ও মুশরিকদের নাম নেন। তাঁর কথায়, তাদের কেউই কথাটা জ্ঞান বা দৃঢ় বিশ্বাস থেকে বলেনি। ইবন ইসহাকের বর্ণনা ইঙ্গিত করে নবী ﷺ-এর নিজের কওমের দিকে, আর কুরতুবী ও সা'দী সতর্কবাণীটিকে পড়েন আরও বিস্তৃতভাবে। দুটো ধারাই উৎসে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Kalimatan Is Parsed",
+          "bn": "কালিমাতান শব্দের ব্যাকরণ"
+        },
+        "p": [
+          {
+            "en": "Kaburat means it grew great; al-Qurtubi notes that kabura is said of a thing when it becomes great, and al-Baghawi and the Muyassar gloss it as 'azumat, it grew grave. The puzzle is the accusative kalimatan. Ibn Kathir and al-Baghawi call it tamyiz, a specification, and Ibn Kathir supplies the implied sense: this word of theirs is grave as a word. At-Tabari explains the same reading with ni'ma rajulan 'Amr, how fine a man is 'Amr. Al-Qurtubi calls it bayan, clarification. Al-Baghawi also reports a view that a min was dropped: grave, as a word.",
+            "bn": "কাবুরাত মানে বড় হয়ে গেল। কুরতুবী জানান, কোনো কিছু বিরাট হয়ে উঠলে বলা হয় কাবুরা। বাগাভী ও মুয়াসসার অর্থ করেন 'আযুমাত, অর্থাৎ গুরুতর হলো। জটিলতা যবর-যুক্ত কালিমাতান শব্দে। ইবন কাসীর ও বাগাভী একে বলেন তাময়ীয, অর্থাৎ নির্দিষ্টকারী। ইবন কাসীর ভেতরের অর্থটাও খুলে দেন: তাদের এই কথাটি কথা হিসেবে বড় সাংঘাতিক। তাবারী একই পাঠ বোঝান 'নি'মা রাজুলান আমর' দিয়ে, যার অর্থ আমর কত চমৎকার মানুষ। কুরতুবী একে বলেন বায়ান, অর্থাৎ ব্যাখ্যা। বাগাভী এমন একটি মতও আনেন যে, এখানে একটি 'মিন' উহ্য আছে।"
+          },
+          {
+            "en": "A second view treats the phrase as an exclamation. Ibn Kathir attributes it to some of the Basrans: how grave a word is their word, as one says akrim bi-Zaydin rajulan, how noble a man is Zayd! At-Tabari reports a Basran grammarian who read it as akbir biha kalimatan, how great a word it is, comparing wa sa'at murtafaqa, how evil a resting place, at the close of 18:29. Either way, the word is held up for the listener to see how grave it is.",
+            "bn": "দ্বিতীয় একটি মত বাক্যাংশটিকে বিস্ময়সূচক ধরে। ইবন কাসীর মতটি বসরার কিছু ব্যাকরণবিদের বলে উল্লেখ করেন: তাদের কথাটা কথা হিসেবে কী সাংঘাতিক! যেমন বলা হয় 'আকরিম বি-যাইদিন রাজুলা', যায়দ মানুষ হিসেবে কত মহৎ! তাবারী বসরার এক ব্যাকরণবিদের কথা আনেন, যিনি পড়েছেন 'আকবির বিহা কালিমাতান', কত বড় এক কথা! তিনি তুলনা টানেন ১৮:২৯ আয়াতের শেষের 'ওয়া সাআত মুরতাফাকা' দিয়ে, কত নিকৃষ্ট বিশ্রামস্থল। যে ব্যাখ্যাই ধরা হোক, কথাটাকে শ্রোতার সামনে তুলে ধরা হচ্ছে, যেন সে দেখে কত সাংঘাতিক।"
+          },
+          {
+            "en": "There is also a reading in the nominative, kaburat kalimatun: a word has grown great. Al-Qurtubi names its readers as al-Hasan, Mujahid, Yahya ibn Ya'mar and Ibn Abi Ishaq; at-Tabari and Ibn Kathir attribute it only to some readers of Makkah. On this reading, al-Qurtubi and at-Tabari note, nothing is implied: the word itself is the subject. At-Tabari holds that the correct reading is the accusative, because the authoritative readers agree on it. Ibn Kathir says the meaning on the majority reading is clearer, since it is a condemnation of their saying and a magnifying of their slander.",
+            "bn": "পেশ-যুক্ত একটি পাঠও আছে: কাবুরাত কালিমাতুন, একটি কথা বড় হয়ে উঠেছে। কুরতুবী এর পাঠকারীদের নাম দেন হাসান, মুজাহিদ, ইয়াহইয়া ইবন ইয়া'মার ও ইবন আবী ইসহাক। তাবারী ও ইবন কাসীর এটি শুধু মক্কার কিছু ক্বারীর বলে উল্লেখ করেন। কুরতুবী ও তাবারী বলেন, এ পাঠে কিছুই উহ্য নেই, কথাটি নিজেই কর্তা। তাবারীর মতে সঠিক পাঠ যবর-যুক্তটি, কারণ নির্ভরযোগ্য ক্বারীরা এতে একমত। ইবন কাসীর বলেন, অধিকাংশের পাঠে অর্থ বেশি স্পষ্ট। কারণ এখানে তাদের কথাকে জঘন্য বলে দেখানো হচ্ছে, তাদের মিথ্যা অপবাদের গুরুত্ব তুলে ধরা হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nothing Behind It but Mouths",
+          "bn": "পেছনে শুধু মুখ"
+        },
+        "p": [
+          {
+            "en": "Takhruju min afwahihim: that comes out of their mouths. Al-Qurtubi notes only that the clause describes the word, and al-Baghawi glosses it as what appears from their mouths. Ibn Kathir draws out why the mouths are mentioned. The word has no support other than their saying it, and they have no evidence for it except their own lying and fabrication. A claim usually points to something beyond the speaker: a text, a witness, a proof. This one points back to the mouth that spoke it, and nowhere else.",
+            "bn": "তাখরুজু মিন আফওয়াহিহিম: যা তাদের মুখ থেকে বের হয়। কুরতুবী শুধু এটুকু জানান যে বাক্যাংশটি কথাটির বিশেষণ। বাগাভী অর্থ করেন, যা তাদের মুখ থেকে প্রকাশ পায়। মুখের উল্লেখ কেন, ইবন কাসীর তা খুলে বলেন। কথাটির পেছনে তাদের মুখে বলা ছাড়া আর কোনো ভিত্তি নেই। নিজেদের মিথ্যা আর বানোয়াট ছাড়া এর পক্ষে কোনো দলিলও তাদের হাতে নেই। সাধারণত একটি দাবি বক্তার বাইরের কিছুর দিকে ইঙ্গিত করে: কোনো লেখা, কোনো সাক্ষী, কোনো প্রমাণ। এ দাবি ইঙ্গিত করে শুধু সেই মুখের দিকে, যেখান থেকে তা বের হয়েছে।"
+          },
+          {
+            "en": "As-Sa'di explains kaburat as more than size: its ugliness grew great and its punishment grew severe. Then he asks what could be uglier than describing Allah as taking a child, a claim that implies a deficiency in Him and others sharing in what belongs to lordship and divinity alone, and that is a lie against Him. On his reading the claim is grave for what it says about Allah, not only for the lack of proof behind it. The warning in 18:4 and the gravity in 18:5 are two sides of one judgement.",
+            "bn": "সা'দীর কাছে কাবুরাত শুধু আকারের কথা নয়। এর জঘন্যতা বিরাট হয়েছে, আর এর শাস্তিও কঠিন হয়েছে। তারপর তিনি প্রশ্ন রাখেন: আল্লাহ সন্তান গ্রহণ করেছেন বলার চেয়ে জঘন্য আর কী হতে পারে? এ দাবি তাঁর মধ্যে ঘাটতি থাকার কথা বোঝায়। বোঝায় যে রুবুবিয়্যাত ও উলুহিয়্যাতের একান্ত বৈশিষ্ট্যে অন্যরাও তাঁর শরিক। আর এটা তাঁর নামে মিথ্যা। সা'দীর পাঠে দাবিটি গুরুতর শুধু প্রমাণের অভাবে নয়, বরং আল্লাহ সম্পর্কে যা বলে, সে কারণেও। ১৮:৪ আয়াতের সতর্কবাণী আর ১৮:৫ আয়াতের গুরুত্ব একই রায়ের দুই দিক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Steps, Each Lower",
+          "bn": "তিন ধাপ, প্রতিটি আরও নিচে"
+        },
+        "p": [
+          {
+            "en": "In yaquluna illa kadhiba: they say nothing but a lie. At-Tabari spells it out: in that saying of theirs they say nothing but a lie and a fabrication they invented against Allah. As-Sa'di calls it a pure lie with nothing of truth in it, and quotes fa-man azlamu mimmani ftara 'ala llahi kadhiba, then who is more unjust than whoever invents a lie against Allah? The youths of the cave will say exactly that about their own people in 18:15.",
+            "bn": "ইন ইয়াকূলূনা ইল্লা কাযিবা: তারা মিথ্যা ছাড়া কিছুই বলে না। তাবারী খুলে বলেন: তাদের এ কথায় আছে শুধু মিথ্যা, আর আল্লাহর নামে বানানো অপবাদ। সা'দী একে বলেন নিখাদ মিথ্যা, যাতে সত্যের লেশমাত্র নেই। তিনি উদ্ধৃত করেন 'ফা-মান আযলামু মিম্মানিফতারা আলাল্লাহি কাযিবা': যে আল্লাহর নামে মিথ্যা বানায়, তার চেয়ে বড় জালিম আর কে? গুহার যুবকেরা ১৮:১৫ আয়াতে নিজেদের কওম সম্পর্কে ঠিক এ কথাই বলবে।"
+          },
+          {
+            "en": "As-Sa'di then asks the reader to notice the order of the verse. It refutes the saying by degrees, each step more false than the last. First it reports that they have no knowledge of it, nor had their fathers, and speaking about Allah without knowledge is, he says, beyond doubt forbidden and void. Second, it calls the saying ugly and repugnant: grave is the word that comes out of their mouths. Third, it names the saying's rank in ugliness: a lie, the opposite of truth.",
+            "bn": "এরপর সা'দী পাঠককে আয়াতের ক্রমটা খেয়াল করতে বলেন। আয়াতটি কথাটাকে ধাপে ধাপে বাতিল করে, এক জিনিস থেকে আরও বেশি বাতিল জিনিসের দিকে যায়। প্রথমে জানায়, এ বিষয়ে তাদের কোনো জ্ঞান নেই, তাদের বাপ-দাদারও ছিল না। তাঁর কথায়, জ্ঞান ছাড়া আল্লাহ সম্পর্কে কিছু বলা নিঃসন্দেহে নিষিদ্ধ ও বাতিল। দ্বিতীয় ধাপে কথাটিকে বলে কুৎসিত ও জঘন্য: তাদের মুখ থেকে বের হওয়া কথাটি বড় সাংঘাতিক। তৃতীয় ধাপে জানায় জঘন্যতায় এর স্থান কোথায়: এটি মিথ্যা, সত্যের ঠিক উল্টো।"
+          },
+          {
+            "en": "Read this way, the verse shows how the Qur'an meets a false claim about God. It does not open with the punishment, which 18:4 has already announced. It asks for knowledge, weighs the word, then names it. A reader can put the same three questions to any sentence about Allah, his own included. Is there knowledge behind it? What does it say about Him? Is it true?",
+            "bn": "এভাবে পড়লে দেখা যায়, আল্লাহ সম্পর্কে মিথ্যা দাবির মুখোমুখি কুরআন কীভাবে হয়। শুরুটা শাস্তি দিয়ে নয়, সেটা ১৮:৪ আয়াত আগেই ঘোষণা করেছে। আগে চায় জ্ঞান, তারপর কথাটা ওজন করে, তারপর তার আসল নাম বলে দেয়। আল্লাহ সম্পর্কে যে কোনো বাক্যের বেলায়, নিজের বাক্যসহ, পাঠকও এই তিনটি প্রশ্ন করতে পারেন। এর পেছনে কি জ্ঞান আছে? এটা তাঁর সম্পর্কে কী বলে? এটা কি সত্য?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports Near the Surah's Opening",
+          "bn": "সূরার শুরু ঘিরে বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a sound hadith to it. A general narration covers the passage it belongs to, and it is not about this verse's content. Muslim records from Abu ad-Darda' that the Messenger of Allah ﷺ said: \"If anyone learns by heart the first ten verses of the Surah al-Kahf, he will be protected from the Dajjal\" (Sahih Muslim 809). Verse 18:5 is among those ten. Muslim also notes that in Shu'ba's transmission the words are from the end of al-Kahf.",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীরই এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। আয়াতটি যে অংশের ভেতরে, সেই অংশ নিয়ে একটি সাধারণ বর্ণনা আছে, তবে তা এ আয়াতের বিষয়বস্তু নিয়ে নয়। মুসলিম আবুদ দারদা (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"যে সূরা কাহফের প্রথম দশ আয়াত মুখস্থ করবে, সে দাজ্জাল থেকে রক্ষা পাবে\" (সহীহ মুসলিম ৮০৯)। ১৮:৫ আয়াত সেই দশটির একটি। মুসলিম এটাও জানান, শু'বার বর্ণনায় কথাটি এসেছে সূরা কাহফের শেষ অংশ সম্পর্কে।"
+          },
+          {
+            "en": "Ibn Kathir, on this verse, relays from Muhammad ibn Ishaq a report on why the surah as a whole was sent down, concerning questions Quraysh put to the Prophet ﷺ. Ibn Ishaq heard it from an unnamed shaykh of Egypt, and no grading of it appears in what was fetched. It is mentioned here and nothing is built on it. It concerns the surah, not this verse, and belongs with 18:23 and 18:24.",
+            "bn": "ইবন কাসীর এ আয়াতের আলোচনায় মুহাম্মাদ ইবন ইসহাক থেকে একটি বর্ণনা আনেন, গোটা সূরা কেন নাযিল হয়েছিল তা নিয়ে। বিষয়বস্তু কুরাইশের পক্ষ থেকে নবী ﷺ-কে করা কিছু প্রশ্ন। ইবন ইসহাক বর্ণনাটি শুনেছেন মিসরের এক শায়খের কাছে, যাঁর নাম উল্লেখ নেই। সংগৃহীত লেখায় এর কোনো মান নির্ণয় পাওয়া যায় না। তাই এখানে শুধু উল্লেখ করা হলো, এর উপর কিছু দাঁড় করানো হয়নি। বর্ণনাটি গোটা সূরা নিয়ে, এ আয়াত নিয়ে নয়। এর জায়গা ১৮:২৩ ও ১৮:২৪ আয়াতের আলোচনায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Claim Refuted, No One Wronged",
+          "bn": "দাবি খণ্ডিত, কারও প্রতি অন্যায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse answers a claim about Allah, and the commentators name who made it: Quraysh in the Prophet's time, and in al-Qurtubi and as-Sa'di also Jews and Christians. The verse judges a saying. It gives no licence to insult, mock or wrong any living person or community, Jewish, Christian or any other, and no one is to be harmed or treated unjustly on its basis. Its own method is argument: it asks for knowledge, weighs the word and names it a lie. It does not reach for the speaker.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি আল্লাহ সম্পর্কে একটি দাবির জবাব দেয়। তাফসীরকারেরা দাবিদারদের নাম নেন: নবী ﷺ-এর যুগের কুরাইশ, আর কুরতুবী ও সা'দীর কাছে ইহুদি ও খ্রিস্টানরাও। আয়াতটি রায় দেয় একটি কথার উপর। আজকের কোনো মানুষ বা সম্প্রদায়কে, ইহুদি হোক, খ্রিস্টান হোক বা অন্য কেউ, অপমান, উপহাস বা অন্যায় করার কোনো অনুমতি এ আয়াত দেয় না। এর ভিত্তিতে কারও ক্ষতি করা বা কারও প্রতি অবিচার করা যাবে না। আয়াতের নিজের পথ যুক্তির পথ। এটি জ্ঞান চায়, কথাটা ওজন করে, আর একে মিথ্যা বলে চিহ্নিত করে। বক্তার গায়ে হাত তোলে না।"
+          },
+          {
+            "en": "The very next verse shows the heart behind the message. In 18:6 the Prophet ﷺ is told he might almost destroy himself with grief over these same people if they do not believe. He carried this rebuke grieving for them, not raging at them. A reader who takes 18:5 to heart weighs every sentence about Allah, above all his own. A reader who takes 18:6 with it holds that standard with sorrow, not contempt, for those who miss it.",
+            "bn": "ঠিক পরের আয়াতেই দেখা যায় বাণীর পেছনের হৃদয়টা কেমন। ১৮:৬ আয়াতে নবী ﷺ-কে বলা হয়, এই লোকেরা ঈমান না আনলে দুঃখে তিনি যেন নিজেকে প্রায় শেষ করে দেবেন। এই ভর্ৎসনা তিনি বহন করেছেন তাদের জন্য কষ্ট পেয়ে, তাদের উপর রাগে ফুঁসে নয়। যে পাঠক ১৮:৫ আয়াত মনে নেন, তিনি আল্লাহ সম্পর্কে প্রতিটি বাক্য ওজন করেন, সবার আগে নিজের বাক্য। আর যিনি এর সঙ্গে ১৮:৬ আয়াতও নেন, তিনি এই মাপকাঠি ধরে রাখেন দুঃখ নিয়ে, যারা তা থেকে সরে যায় তাদের প্রতি তাচ্ছিল্য নিয়ে নয়।"
+          }
+        ]
+      }
+    ]
+  },
   "18:7": {
     "sections": [
       {
