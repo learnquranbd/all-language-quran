@@ -1199,6 +1199,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "33:23": {
+    "sections": [
+      {
+        "h": {
+          "en": "Set Against a Broken Pledge",
+          "bn": "ভাঙা অঙ্গীকারের বিপরীতে"
+        },
+        "p": [
+          {
+            "en": "The verse is built as a reply. Ibn Kathir opens it this way: having told how the hypocrites broke the covenant they had made with Allah not to turn their backs, He describes the believers as holding to their covenant and their pledge. As-Sa'di frames it the same: Allah mentioned that the hypocrites pledged not to turn their backs and broke it, then mentioned the believers' keeping of it. The broken pledge is in 33:15; this is its answer, with the siege still around Madinah.",
+            "bn": "আয়াতটি গড়া হয়েছে এক জবাব হিসেবে। ইবন কাসীর শুরু করেন এভাবে: মুনাফিকরা আল্লাহর সঙ্গে অঙ্গীকার করেছিল যে পিঠ দেখাবে না, তারপর সে অঙ্গীকার ভেঙেছিল। সে কথা বলার পর আল্লাহ মুমিনদের পরিচয় দেন, যারা নিজেদের অঙ্গীকার আর প্রতিশ্রুতিতে অটল থেকেছে। সা'দীর কাঠামোও একই। মুনাফিকদের কথা দেওয়া আর কথা ভাঙার উল্লেখের পর আল্লাহ মুমিনদের কথা রাখার উল্লেখ করেছেন। ভাঙা অঙ্গীকারের কথা আছে ৩৩:১৫ আয়াতে। এ আয়াত তারই জবাব, আর মদিনার চারপাশে তখনো ঘেরাও।"
+          },
+          {
+            "en": "At-Tabari says what the pledge contained: they fulfilled what they had promised of patience in hardship and distress, and at the time of battle. The verse just before, 33:22, has already shown these believers seeing the confederate armies and finding in them only more faith. Now what they did is named. And at-Tabari reads the last clause, they did not change, against the passage itself: unlike the hinderers of 33:18, who told their brothers come over to us, and those of 33:13, who said our houses lie exposed.",
+            "bn": "অঙ্গীকারে কী ছিল, তাবারী তা বলে দেন: কষ্টে, দুর্দশায় আর যুদ্ধের মুহূর্তে ধৈর্য ধরার যে কথা তারা দিয়েছিল, তা তারা পুরো করেছে। ঠিক আগের আয়াত ৩৩:২২ দেখিয়েছে, এই মুমিনরা সম্মিলিত বাহিনী দেখে কেবল ঈমানই বাড়িয়েছে। এখন বলা হচ্ছে, তারা কাজে কী করে দেখিয়েছে। শেষ বাক্যাংশ, তারা বদলায়নি, তাবারী পড়েন এই আলোচনার ভেতরেই মিলিয়ে। ৩৩:১৮ আয়াতের বাধাদানকারীরা ভাইদের বলত, আমাদের দিকে চলে এসো। ৩৩:১৩ আয়াতের লোকেরা বলত, আমাদের ঘর অরক্ষিত। এরা তাদের মতো বদলায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Found With Khuzaymah Alone",
+          "bn": "শুধু খুযাইমার কাছে পাওয়া"
+        },
+        "p": [
+          {
+            "en": "This verse has a story of its own in how the Qur'an was written down. Al-Bukhari records from Zayd ibn Thabit (4784): \"When we copied the sheets into the copies, I missed a verse of Surat al-Ahzab which I used to hear the Messenger of Allah ﷺ recite. I did not find it with anyone except Khuzaymah al-Ansari, whose testimony the Messenger of Allah ﷺ made equal to the testimony of two men: Among the believers are men true to what they promised Allah.\"",
+            "bn": "কুরআন লিখে সংরক্ষণের ইতিহাসে এ আয়াতের নিজস্ব একটা ঘটনা আছে। বুখারী (৪৭৮৪) যায়েদ ইবনে সাবিত (রাঃ) থেকে বর্ণনা করেন: \"আমরা যখন পাতাগুলো থেকে মুসহাফে কপি করছিলাম, সূরা আহযাবের একটি আয়াত আমি পাচ্ছিলাম না, যা আমি রাসূলুল্লাহ ﷺ-কে পড়তে শুনতাম। খুযাইমা আনসারী ছাড়া আর কারও কাছে তা পাইনি, যাঁর সাক্ষ্যকে রাসূলুল্লাহ ﷺ দুজন পুরুষের সাক্ষ্যের সমান গণ্য করেছিলেন। আয়াতটি হলো: মুমিনদের মধ্যে এমন কিছু পুরুষ আছে, যারা আল্লাহকে দেওয়া কথা সত্য করে দেখিয়েছে।\""
+          },
+          {
+            "en": "Ibn Kathir brings this report at the head of his discussion and notes that al-Bukhari has it and Muslim does not. Zayd's own words carry the point: he already knew the verse from hearing the Prophet ﷺ recite it, and what he searched for was the verse in someone's keeping during the copying. There is a quiet fit in it. A verse in praise of men who kept their word to Allah reached the written copies through a man whose single word the Prophet ﷺ had counted as two.",
+            "bn": "ইবন কাসীর এ বর্ণনাটি আলোচনার শুরুতেই আনেন, আর উল্লেখ করেন যে বুখারী এটি বর্ণনা করেছেন, মুসলিম করেননি। যায়েদ (রাঃ)-এর নিজের কথাতেই আসল বিষয়টি আছে। আয়াতটি তিনি আগে থেকেই জানতেন, নবী ﷺ-এর মুখে শুনে। কপি করার সময় তিনি খুঁজছিলেন কার কাছে আয়াতটি সংরক্ষিত আছে। এর মধ্যে একটা নীরব মিল আছে। আল্লাহকে দেওয়া কথা রাখা মানুষদের প্রশংসার আয়াত লিখিত মুসহাফে পৌঁছেছে এমন একজনের হাত ধরে, যাঁর একার কথাকে নবী ﷺ দুজনের সমান ধরেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Many Senses of Nahb",
+          "bn": "নাহব শব্দের নানা অর্থ"
+        },
+        "p": [
+          {
+            "en": "Fa-minhum man qada nahbahu: so among them is he who has fulfilled his nahb. Al-Qurtubi defines the word first: an-nahb is the vow and the covenant, and he gives the verb, nahabtu, anhubu, with three lines of poetry for it. At-Tabari agrees that in the speech of the Arabs an-nahb is the vow, and then lists the other faces the word has: death, as in a line by Dhu ar-Rummah where a man qada nahbahu where the horsemen met; great peril, in a line by Jarir; a march held all day and night without dismounting; and a wager.",
+            "bn": "ফামিনহুম মান কাদা নাহবাহু: তাদের কেউ নিজের নাহব পূরণ করেছে। কুরতুবী আগে শব্দটার সংজ্ঞা দেন: নাহব মানে মানত আর অঙ্গীকার। ক্রিয়ারূপও তিনি দেখান, নাহাবতু, আনহুবু, আর সমর্থনে তিনটি কবিতার চরণ আনেন। তাবারীও বলেন, আরবদের ভাষায় নাহব মানে মানত। তারপর তিনি শব্দটার অন্য দিকগুলো গুনে দেন। এক, মৃত্যু, যেমন যুর রুম্মার এক চরণে অশ্বারোহীদের মুখোমুখি হওয়ার জায়গায় এক লোকের নাহব পূরণ হয়। দুই, ভীষণ ঝুঁকি, জারীরের এক চরণে। তিন, দিনরাত না থেমে একটানা পথ চলা। চার, বাজি।"
+          },
+          {
+            "en": "Al-Qurtubi adds the sense of an appointed time, so that qada nahbahu is said of a man who has died, and the sense of a need or aim, which he says is not what the verse means. Then he settles it: the meaning of nahb in this place is the vow, as stated first. Some of them spent their full effort in keeping their covenant until they were killed; others await martyrdom. He also records, introduced with it is said, that an-nahb here is death, and traces that to Ibn 'Abbas.",
+            "bn": "কুরতুবী আরও দুটি অর্থ যোগ করেন। একটি নির্ধারিত সময়, তাই কেউ মারা গেলে বলা হয় তার নাহব পূরণ হয়েছে। আরেকটি প্রয়োজন বা লক্ষ্য, তবে তিনি বলেন আয়াতে এ অর্থ উদ্দেশ্য নয়। তারপর তিনি সিদ্ধান্ত দেন: এখানে নাহব মানে মানত, যেমন শুরুতে বলা হয়েছে। তাদের কেউ অঙ্গীকার রাখতে নিজের সবটুকু চেষ্টা ঢেলে দিয়েছে, শেষে নিহত হয়েছে। কেউ শাহাদাতের অপেক্ষায় আছে। 'বলা হয়' কথাটি দিয়ে তিনি আরেকটি মতও আনেন: এখানে নাহব মানে মৃত্যু। এ মত তিনি ইবনে আব্বাস (রাঃ)-এর দিকে সম্পর্কিত করেন।"
+          },
+          {
+            "en": "Ibn Kathir notes that some glossed it as his term of life and that al-Bukhari glossed it as his covenant, and remarks that this comes back to the first. Al-Baghawi keeps both, the vow and death, cites Muqatil for his term, and adds a third sense: he spent his utmost effort in keeping the covenant, from the Arab phrase nahaba in his march, said of a rider who pressed on without halting. The senses lean together. A nahb is a pledge that a person carries to its end, whatever the end turns out to be.",
+            "bn": "ইবন কাসীর উল্লেখ করেন, কেউ এর অর্থ করেছেন আয়ুর নির্ধারিত সীমা, আর বুখারী অর্থ করেছেন অঙ্গীকার। তাঁর মন্তব্য, এ অর্থটি প্রথম অর্থেই ফিরে যায়। বাগাভী দুটো অর্থই রাখেন, মানত ও মৃত্যু, মুকাতিল থেকে আনেন নির্ধারিত সময়ের অর্থ। সঙ্গে যোগ করেন তৃতীয় এক অর্থ: অঙ্গীকার রাখতে সে নিজের সর্বোচ্চ চেষ্টা ব্যয় করেছে। এটা এসেছে আরবদের সেই কথা থেকে, যে সওয়ার না থেমে একটানা চলতে থাকে তার বেলায় বলা হয়, সে পথে নাহব করেছে। অর্থগুলো একে অপরের দিকে ঝুঁকে আছে। নাহব হলো এমন অঙ্গীকার, যা মানুষ শেষ পর্যন্ত বয়ে নিয়ে যায়, শেষটা যেমনই হোক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Some Gone, Some Still Waiting",
+          "bn": "কেউ চলে গেছেন, কেউ অপেক্ষায়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the two halves in sequence. Among them is he who finished the work he had vowed to Allah and made binding on himself, and was martyred: some at Badr, some at Uhud, some on other fields. And among them is he who awaits its fulfilment, as those before him fulfilled their loyalty to Allah's covenant, and awaits help from Allah and victory over his enemy. Ibn Ishaq, in at-Tabari's chain, puts the first half simply: he finished his work and returned to his Lord.",
+            "bn": "তাবারী দুই অংশ পরপর পড়েন। তাদের কেউ আল্লাহর জন্য যে কাজের মানত করেছিল আর নিজের ওপর অবশ্যকর্তব্য করে নিয়েছিল, তা শেষ করেছে এবং শহীদ হয়েছে। কেউ বদরে, কেউ উহুদে, কেউ অন্য কোনো রণক্ষেত্রে। আর কেউ সে মানত পূরণের অপেক্ষায় আছে, যেমন আগের জনেরা আল্লাহর সঙ্গে অঙ্গীকার পূরণ করে গেছে। সে অপেক্ষা করছে আল্লাহর সাহায্য আর শত্রুর ওপর বিজয়েরও। তাবারীর সনদে ইবনে ইসহাক প্রথম অংশটি সহজ করে বলেন: সে নিজের কাজ শেষ করে রবের কাছে ফিরে গেছে।"
+          },
+          {
+            "en": "Must fulfilling it mean being killed? The early glosses do not all say so. Mujahid, in at-Tabari, says his covenant, so he was killed or lived. Al-Hasan says his death upon truthfulness and loyalty, and Ibn 'Abbas says death upon what he pledged to Allah. As-Sa'di writes killed in Allah's path, or died having discharged his due without lessening it, and the Muyassar likewise has martyred, or died upon truthfulness. Al-Qurtubi, having taken nahb as the vow, explains it as striving until killed. The two framings stand side by side.",
+            "bn": "পূরণ করা মানেই কি নিহত হওয়া? প্রথম যুগের ব্যাখ্যাগুলো সবাই তা বলে না। তাবারীতে মুজাহিদ বলেন, নাহব তার অঙ্গীকার, এরপর সে নিহত হোক বা বেঁচে থাকুক। হাসান বলেন, সত্যনিষ্ঠা আর বিশ্বস্ততার ওপর তার মৃত্যু। ইবনে আব্বাস (রাঃ) বলেন, আল্লাহকে যে কথা দিয়েছিল তার ওপর মৃত্যু। সা'দী লেখেন, আল্লাহর পথে নিহত হয়েছে, অথবা নিজের দায় এতটুকু কম না করে আদায় করে মারা গেছে। মুয়াসসারও বলে, শহীদ হয়েছে অথবা সত্যের ওপর মারা গেছে। কুরতুবী নাহবকে মানত ধরে এর ব্যাখ্যা দেন নিহত হওয়া পর্যন্ত চেষ্টা হিসেবে। দুই ধরনের ব্যাখ্যা পাশাপাশিই থাকে।"
+          },
+          {
+            "en": "What is being awaited? Al-Baghawi says martyrdom, and relays Ibn Ishaq: those believers who remained await one of two things, martyrdom or victory. The Muyassar names them as the two best things. Qatadah, in at-Tabari, turns it inward: he awaits truthfulness and loyalty from his own self. As-Sa'di's reading gives the waiting its dignity. The one who waits has already begun to discharge what he owes and has not yet completed it; he hopes to complete it, and he is striving and earnest in it.",
+            "bn": "অপেক্ষা কিসের? বাগাভী বলেন, শাহাদাতের। তিনি ইবনে ইসহাক থেকেও আনেন: যে মুমিনরা বেঁচে রইলেন, তারা দুটির একটির অপেক্ষায়, শাহাদাত অথবা বিজয়। মুয়াসসার এ দুটিকে বলে দুই কল্যাণ। তাবারীতে কাতাদা প্রশ্নটা ভেতরের দিকে ঘুরিয়ে দেন: সে নিজের কাছ থেকেই সত্যনিষ্ঠা আর বিশ্বস্ততার অপেক্ষা করছে। সা'দীর ব্যাখ্যা অপেক্ষাকে মর্যাদা দেয়। যে অপেক্ষায় আছে, সে নিজের দায় শোধ করা শুরু করে দিয়েছে, শুধু এখনো শেষ করেনি। শেষ করার আশা রাখে, আর সেজন্য খেটে চলেছে, পূর্ণ আন্তরিকতায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Scent Short of Uhud",
+          "bn": "উহুদের এপারে জান্নাতের ঘ্রাণ"
+        },
+        "p": [
+          {
+            "en": "One name is tied to this verse more than any other. Al-Bukhari records from Anas ibn Malik (4783): \"We think that this verse was revealed concerning Anas ibn an-Nadr: Among the believers are men true to what they promised Allah.\" The verb is nura, we think. Anas presents it in the language of opinion, as what they understood the verse to be about. Ibn Kathir notes that al-Bukhari alone has it by this route, and that it has supporting reports by other chains.",
+            "bn": "এ আয়াতের সঙ্গে একটি নাম সবচেয়ে বেশি জড়িয়ে আছে। বুখারী (৪৭৮৩) আনাস ইবনে মালিক (রাঃ) থেকে বর্ণনা করেন: \"আমাদের ধারণা, এ আয়াত নাযিল হয়েছে আনাস ইবনুন নাদর সম্পর্কে: মুমিনদের মধ্যে এমন কিছু পুরুষ আছে, যারা আল্লাহকে দেওয়া কথা সত্য করে দেখিয়েছে।\" ক্রিয়াটি নুরা, আমাদের ধারণা। আনাস (রাঃ) কথাটা বলছেন ধারণার ভাষায়, আয়াতটি কাদের নিয়ে বলে তাঁরা যা বুঝেছিলেন সে হিসেবে। ইবন কাসীর উল্লেখ করেন, এই সূত্রে কেবল বুখারীই এটা এনেছেন, তবে অন্য সনদে এর সমর্থক বর্ণনা আছে।"
+          },
+          {
+            "en": "The story behind it is in al-Bukhari as well (2805). Anas ibn an-Nadr had missed Badr and said that if Allah let him witness a fight with the idolaters, Allah would see what he would do. At Uhud, when the Muslims fell back, he asked Allah to excuse what his companions had done and disowned what the idolaters had done. He met Sa'd ibn Mu'adh and swore by the Lord of an-Nadr that he could smell Paradise short of Uhud. Sa'd told the Prophet ﷺ that he could not do what Anas did.",
+            "bn": "এর পেছনের ঘটনাও বুখারীতে আছে (২৮০৫)। আনাস ইবনুন নাদর (রাঃ) বদরে অংশ নিতে পারেননি। তিনি বলেছিলেন, আল্লাহ যদি তাঁকে মুশরিকদের সঙ্গে কোনো যুদ্ধে হাজির করেন, আল্লাহ দেখবেন তিনি কী করেন। উহুদে মুসলমানরা যখন পিছু হটলেন, তিনি সঙ্গীদের কাজের জন্য আল্লাহর কাছে ওজর পেশ করলেন, আর মুশরিকদের কাজ থেকে নিজের দায়মুক্তি ঘোষণা করলেন। সা'দ ইবনে মুআয (রাঃ)-এর সঙ্গে দেখা হলে নাদরের রবের কসম খেয়ে বললেন, উহুদের এপারেই তিনি জান্নাতের ঘ্রাণ পাচ্ছেন। সা'দ (রাঃ) নবী ﷺ-কে বলেছিলেন, আনাস যা করেছেন, তা তিনি পারেননি।"
+          },
+          {
+            "en": "They found more than eighty wounds on him, from swords, spears and arrows; he had been mutilated, and only his sister knew him, by his fingertips. Anas ends: we used to think, or suppose, that this verse came down about him and those like him. Muslim's version (1903) keeps one more detail: after his first words he feared to say anything beyond them. He promised Allah only one sentence, and kept it. At-Tirmidhi records the account too (3200) and grades it hasan sahih.",
+            "bn": "তাঁর দেহে আশিটিরও বেশি আঘাত পাওয়া গেল, তরবারি, বর্শা আর তীরের। মুশরিকরা তাঁর দেহ বিকৃত করেছিল। শুধু তাঁর বোন আঙুলের ডগা দেখে তাঁকে চিনতে পেরেছিলেন। আনাস (রাঃ) শেষ করেন এভাবে: আমরা মনে করতাম, কিংবা ধারণা করতাম, এ আয়াত নাযিল হয়েছে তাঁর আর তাঁর মতো মানুষদের সম্পর্কে। মুসলিমের বর্ণনা (১৯০৩) আরেকটি খুঁটিনাটি ধরে রাখে: প্রথম কথাটুকু বলার পর এর বেশি কিছু বলতে তিনি ভয় পেয়েছিলেন। আল্লাহকে তিনি কথা দিয়েছিলেন মাত্র একটি বাক্যে, আর সেটাই রেখেছিলেন। তিরমিযীও (৩২০০) ঘটনাটি বর্ণনা করে একে হাসান সহীহ বলেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Names Under the Verse",
+          "bn": "আয়াতের সঙ্গে আরও যাঁদের নাম"
+        },
+        "p": [
+          {
+            "en": "The commentators widen the circle. Al-Qurtubi gives as examples of those who strove to keep their covenant until they were killed Hamzah, Sa'd ibn Mu'adh, Anas ibn an-Nadr and others. Al-Baghawi cites Muqatil for Hamzah and his companions, and Ibn Ishaq for those martyred at Badr and Uhud. Anas's own words in al-Bukhari already pointed this way: about him and those like him. The verse says rijal, men, in the plural, and the reports read it as a description that many fit, not a label for one.",
+            "bn": "তাফসীরকারেরা পরিধিটা বড় করেন। অঙ্গীকার রাখতে গিয়ে যাঁরা নিহত হওয়া পর্যন্ত চেষ্টা করেছেন, কুরতুবী তাঁদের উদাহরণ দেন হামযা, সা'দ ইবনে মুআয, আনাস ইবনুন নাদর (রাঃ) ও অন্যদের নাম দিয়ে। বাগাভী মুকাতিল থেকে আনেন হামযা (রাঃ) ও তাঁর সঙ্গীদের কথা, আর ইবনে ইসহাক থেকে বদর ও উহুদের শহীদদের কথা। বুখারীতে আনাস (রাঃ)-এর নিজের কথাও এদিকেই ইঙ্গিত করে: তাঁর আর তাঁর মতো মানুষদের সম্পর্কে। আয়াত বলছে রিজাল, বহুবচনে। বর্ণনাগুলোও একে পড়ে এমন এক বর্ণনা হিসেবে, যা অনেকের সঙ্গে মেলে, কোনো একজনের নামফলক হিসেবে নয়।"
+          },
+          {
+            "en": "Al-Baghawi also brings, under this verse, the words of Khabbab ibn al-Aratt, which al-Bukhari records (1276). They emigrated with the Prophet ﷺ seeking Allah's face, so their reward fell due with Allah. Some died having taken nothing of it in this world, among them Mus'ab ibn 'Umayr, killed at Uhud; only a cloak could be found to shroud him, and the Prophet ﷺ told them to cover his head and lay idhkhir grass over his feet. Al-Bukhari's narration does not mention the verse; the link is al-Baghawi's placing.",
+            "bn": "এ আয়াতের আলোচনায় বাগাভী খাব্বাব ইবনুল আরাত (রাঃ)-এর কথাও আনেন, যা বুখারী বর্ণনা করেছেন (১২৭৬)। তাঁরা আল্লাহর সন্তুষ্টি চেয়ে নবী ﷺ-এর সঙ্গে হিজরত করেছিলেন, তাই তাঁদের প্রতিদান আল্লাহর দায়িত্বে গেল। কেউ কেউ দুনিয়ায় তার কিছুই ভোগ না করে চলে গেলেন। তাঁদের একজন মুসআব ইবনে উমাইর (রাঃ), উহুদে নিহত। কাফনের জন্য একটা চাদর ছাড়া কিছু মেলেনি। নবী ﷺ বললেন মাথা ঢেকে দিতে আর পায়ের ওপর ইযখির ঘাস বিছিয়ে দিতে। বুখারীর বর্ণনায় আয়াতের উল্লেখ নেই। এই সংযোগ বাগাভীর বিন্যাস থেকে।"
+          },
+          {
+            "en": "Talhah ibn 'Ubaydullah is named often in these reports. Al-Bukhari records from Qays (4063): \"I saw Talhah's hand paralysed; he had shielded the Prophet ﷺ with it on the day of Uhud.\" Several narrations go further and attach Talhah's name to qada nahbahu through words raised to the Prophet ﷺ. At-Tirmidhi records two of them, grading one hasan gharib and the other gharib, and grades a third related report gharib with a remark on its narrators' memory. They are mentioned here and not quoted.",
+            "bn": "এসব বর্ণনায় তালহা ইবনে উবাইদুল্লাহ (রাঃ)-এর নাম বারবার আসে। বুখারী (৪০৬৩) কায়স থেকে বর্ণনা করেন: \"আমি তালহার হাত অবশ দেখেছি। উহুদের দিন সেই হাত দিয়ে তিনি নবী ﷺ-কে আড়াল করেছিলেন।\" কয়েকটি বর্ণনা আরও এগিয়ে নবী ﷺ-এর বাণী হিসেবে কাদা নাহবাহু কথাটির সঙ্গে তালহা (রাঃ)-এর নাম জুড়ে দেয়। তিরমিযী এর দুটি বর্ণনা করেছেন, একটিকে বলেছেন হাসান গরীব, অন্যটিকে গরীব। সংশ্লিষ্ট তৃতীয় আরেকটি বর্ণনাকেও তিনি গরীব বলেছেন এবং বর্ণনাকারীদের স্মৃতিশক্তি নিয়ে আপত্তির কথা উল্লেখ করেছেন। তাই এখানে এগুলোর শুধু উল্লেখ রইল, উদ্ধৃতি নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Altered by Any Alteration",
+          "bn": "তিল পরিমাণও বদল নেই"
+        },
+        "p": [
+          {
+            "en": "Wa ma baddalu tabdila: and they did not alter by any alteration. Ibn Kathir: they did not change their covenant or exchange loyalty for treachery, but held to what they had pledged, unlike the hypocrites of 33:13 and 33:15. Qatadah, in at-Tabari, describes it from within: they did not doubt or waver in their religion, nor take another in its place. Ibn Zayd: they did not change their religion as the hypocrites changed. The waiting ones are included in this clause as fully as the fallen.",
+            "bn": "ওয়া মা বাদ্দালু তাবদীলা: আর তারা কোনো রকম বদলই করেনি। ইবন কাসীর বলেন, তারা নিজেদের অঙ্গীকার পাল্টায়নি, বিশ্বস্ততার বদলে বিশ্বাসঘাতকতা নেয়নি। যে কথা দিয়েছিল, তার ওপরই টিকে ছিল, ৩৩:১৩ ও ৩৩:১৫ আয়াতের মুনাফিকদের মতো নয়। তাবারীতে কাতাদা ব্যাপারটা ভেতর থেকে দেখান: দ্বীন নিয়ে তারা সন্দেহ করেনি, দোদুল্যমান হয়নি, তার বদলে অন্য কিছুও গ্রহণ করেনি। ইবনে যায়দ বলেন, মুনাফিকরা যেভাবে দ্বীন বদলেছে, এরা সেভাবে বদলায়নি। যারা চলে গেছেন আর যারা অপেক্ষায় আছেন, এ বাক্যাংশ দুই দলকেই সমানভাবে ধারণ করে।"
+          },
+          {
+            "en": "As-Sa'di closes the verse on the same note: they never left the covenant, never swerved and never changed, as others had changed. These, he says, are men in truth; others bear the outward form of men, while their qualities fall short of men's. His word answers the verse's own rijal. The measure he gives is not lineage, number or rank, but the pledge that was kept when keeping it cost something, under the same siege that exposed the excuses of 33:13.",
+            "bn": "সা'দী আয়াতটির আলোচনা শেষ করেন একই সুরে: তারা কখনো অঙ্গীকার ছাড়েনি, বাঁকেনি, অন্যরা যেভাবে বদলেছে সেভাবে বদলায়নি। তাঁর ভাষায়, এরাই আসল পুরুষ। বাকিদের চেহারা পুরুষের মতো হলেও গুণে তারা পুরুষের স্তরে পৌঁছায়নি। তাঁর এ কথা আয়াতের রিজাল শব্দেরই জবাব। তিনি যে মাপকাঠি দেন, তা বংশ, সংখ্যা বা পদমর্যাদা নয়। মাপকাঠি হলো সেই অঙ্গীকার, যা রাখতে দাম দিতে হয়েছিল, সেই একই ঘেরাওয়ে, যেখানে ৩৩:১৩ আয়াতের অজুহাতগুলো ধরা পড়ে গিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Promising Only What You Mean",
+          "bn": "যা রাখবেন, শুধু তা-ই কথা দিন"
+        },
+        "p": [
+          {
+            "en": "This should be said plainly. The verse describes what its text describes: believers who kept their pledge during the siege, set beside hypocrites who broke theirs. It licenses nothing against any living person or community. It is no scale for ranking the Companions, and no warrant for calling anyone today a breaker of covenant; the verse itself praises them. The next verse, 33:24, leaves the reckoning with Allah: He rewards the truthful for their truth, and punishes the hypocrites if He wills, or turns to them in mercy.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে: এক ঘেরাওয়ের সময় কিছু মুমিন কথা রেখেছিলেন, আর তাঁদের পাশে রাখা হয়েছে কথা ভাঙা মুনাফিকদের। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। সাহাবিদের মান যাচাইয়ের দাঁড়িপাল্লাও এটা নয়, আজকের কাউকে অঙ্গীকার ভঙ্গকারী বলার সনদও নয়। আয়াতটি তো তাঁদের প্রশংসাই করে। পরের আয়াত ৩৩:২৪ হিসাবের ভার আল্লাহর হাতেই রাখে: তিনি সত্যবাদীদের সত্যের প্রতিদান দেবেন, আর চাইলে মুনাফিকদের শাস্তি দেবেন, নয়তো তাদের তওবা কবুল করবেন।"
+          },
+          {
+            "en": "What the verse asks of a reader is quieter. Anas ibn an-Nadr made Allah a promise in a single sentence and feared to say more. The vows that hold are often those spoken carefully. As-Sa'di's waiting man is also a model: his test has not come, yet he is already paying what he owes. Most of us live in that second half of the verse. The question it leaves is whether, when our day arrives, we will be found unchanged, or will discover that we altered the pledge long before.",
+            "bn": "পাঠকের কাছে আয়াতটির দাবি আরও নীরব। আনাস ইবনুন নাদর (রাঃ) আল্লাহকে এক বাক্যের কথা দিয়েছিলেন, এর বেশি বলতে ভয় পেয়েছিলেন। যে অঙ্গীকার টিকে থাকে, প্রায়ই তা মেপে বলা অঙ্গীকার। সা'দী যে অপেক্ষমাণ মানুষের ছবি আঁকেন, সে-ও এক আদর্শ। তার পরীক্ষা এখনো আসেনি, তবু সে নিজের দায় শোধ করে চলেছে। আমাদের বেশিরভাগের জীবন কাটে আয়াতের এই দ্বিতীয় অংশে। প্রশ্নটা তাই থেকে যায়: আমাদের দিন যখন আসবে, তখন কি আমাদের অপরিবর্তিত পাওয়া যাবে? নাকি দেখা যাবে, অঙ্গীকারটা আমরা অনেক আগেই বদলে ফেলেছি?"
+          }
+        ]
+      }
+    ]
+  },
   "33:25": {
     "sections": [
       {

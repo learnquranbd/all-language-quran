@@ -36433,6 +36433,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Hold on to Allah's promise of a great bounty, far larger than your deeds, and let that promise, not people's pressure, set your course.",
     "lessonBn": "আল্লাহ যে বিরাট অনুগ্রহের প্রতিশ্রুতি দিয়েছেন, যা আপনার আমলের চেয়ে অনেক বড়, তা আঁকড়ে ধরুন। মানুষের চাপ নয়, সেই প্রতিশ্রুতিই আপনার পথ ঠিক করুক।"
+  },
+  "33:23": {
+    "reflectionEn": "Fear had shown who people were. Some had pledged never to turn their backs, and broke the pledge the moment the city was tested. Against them the verse sets other men, true to what they had promised Allah. Some have already fulfilled it and gone to their Lord. Others are still waiting, and their waiting is not idleness; they are already at work on what they owe. And none of them changed in the least. I have made promises to Allah too: in a hard night, in a prayer, in a resolve to leave something behind. Which of them am I still keeping? Which have I quietly bent into something easier? And is my waiting the kind that prepares, or the kind that only postpones?",
+    "reflectionBn": "ভয় এসে দেখিয়ে দিয়েছিল কে কেমন মানুষ। কেউ কেউ কথা দিয়েছিল, কখনো পিঠ দেখাবে না। শহরে পরীক্ষা নামতেই সে কথা তারা ভেঙে ফেলল। তাদের বিপরীতে আয়াতটি দাঁড় করায় আরেক দল মানুষকে, যারা আল্লাহকে দেওয়া কথা সত্য করে দেখিয়েছে। তাদের কেউ কথা পূরণ করে রবের কাছে চলে গেছে। কেউ এখনো অপেক্ষায়। তবে সে অপেক্ষা বসে থাকা নয়, নিজের দায় শোধের কাজে সে আগে থেকেই লেগে আছে। আর তাদের কেউ এক চুলও বদলায়নি। আল্লাহকে আমিও কথা দিয়েছি। কোনো কঠিন রাতে, কোনো নামাজে, কোনো কিছু ছেড়ে দেওয়ার সংকল্পে। তার কোনগুলো আমি এখনো রেখে চলেছি? কোনগুলোকে চুপিচুপি বাঁকিয়ে সহজ কিছু বানিয়ে ফেলেছি? আর আমার অপেক্ষা কি প্রস্তুতির অপেক্ষা, নাকি শুধু পিছিয়ে দেওয়ার?",
+    "pointsEn": [
+      "Which promise have I made to Allah, aloud or only in my heart, that I have not yet begun to keep?",
+      "Is there a pledge I still keep in its words while I have changed its substance until it costs me nothing?",
+      "If my test has not yet come, what am I doing with the waiting so that it is itself a kind of faithfulness?",
+      "Do I speak my resolutions with care, promising Allah only what I truly mean to carry out?",
+      "When the people around me waver, does my commitment lean on theirs, or does it stand on what I promised Allah?"
+    ],
+    "pointsBn": [
+      "আল্লাহকে মুখে বা মনে মনে কোন কথাটা দিয়েছি, যা রাখার কাজ এখনো শুরুই করিনি?",
+      "এমন কোনো অঙ্গীকার কি আছে, যার শব্দগুলো ঠিক রেখেছি অথচ ভেতরটা এতটাই বদলে দিয়েছি যে এখন আর কোনো দাম দিতে হয় না?",
+      "আমার পরীক্ষা যদি এখনো না এসে থাকে, অপেক্ষার সময়টা কীভাবে কাটাচ্ছি, যাতে অপেক্ষাটাই হয়ে ওঠে বিশ্বস্ততা?",
+      "সংকল্প করার সময় কি আমি সাবধানে কথা বলি, আর আল্লাহকে শুধু সেটুকুই কথা দিই যা সত্যিই পালন করতে চাই?",
+      "চারপাশের মানুষ যখন টলে যায়, আমার অঙ্গীকার কি তাদের ওপর ভর দেয়, নাকি আল্লাহকে দেওয়া কথার ওপর দাঁড়িয়ে থাকে?"
+    ],
+    "lessonEn": "Keep what you have promised Allah without bending it, and if your test has not yet come, spend the waiting in preparing to meet it truthfully.",
+    "lessonBn": "আল্লাহকে যা কথা দিয়েছেন তা না বাঁকিয়ে রাখুন। আর আপনার পরীক্ষা যদি এখনো না এসে থাকে, অপেক্ষার সময়টা কাটান সত্যনিষ্ঠভাবে তার মুখোমুখি হওয়ার প্রস্তুতিতে।"
   }
 };
 
