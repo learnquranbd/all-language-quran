@@ -603,6 +603,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "40:10": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Angels Have Prayed",
+          "bn": "ফেরেশতাদের দোয়ার পরে"
+        },
+        "p": [
+          {
+            "en": "The preceding verses belong to the angels. The Throne-bearers ask forgiveness for the believers, pray that they be shielded from Hellfire and admitted to the gardens, and close, in 40:9, by calling that shielding mercy and the great success. Then the scene turns. Inna alladhina kafaru yunadawna: indeed, those who disbelieved will be called out to. A prayer for the believers gives way to an address to others, and it is a rebuke.",
+            "bn": "এর আগের আয়াতগুলো ফেরেশতাদের। আরশ বহনকারীরা মু'মিনদের জন্য মাগফিরাত চায়। দোয়া করে, যেন তাদের জাহান্নাম থেকে বাঁচানো হয় আর জান্নাতে প্রবেশ করানো হয়। ৪০:৯ আয়াতে সে দোয়া শেষ হয় এই কথায় যে, এই বাঁচিয়ে রাখাই রহমত, এটাই মহাসাফল্য। তারপর দৃশ্য বদলে যায়। ইন্নাল্লাযীনা কাফারূ ইউনাদাওনা: যারা কুফরি করেছিল, তাদের ডেকে বলা হবে। মু'মিনদের জন্য দোয়ার পর আসে অন্যদের প্রতি সম্বোধন, আর তা তিরস্কার।"
+          },
+          {
+            "en": "As-Sa'di reads the verse as the opening of a short passage. Allah tells here, he says, of the disgrace and shame that befall the disbelievers, of their asking to be sent back and to leave the Fire, of that being denied them, and of their rebuke. The asking itself belongs to 40:11, where they speak of being made lifeless twice and given life twice, and the answer belongs to 40:12. This page keeps to the call that comes first.",
+            "bn": "সা'দী আয়াতটিকে একটি ছোট অংশের সূচনা হিসেবে পড়েন। তাঁর ভাষায়, আল্লাহ এখানে জানাচ্ছেন কাফিরদের উপর নেমে আসা লাঞ্ছনা ও অপমানের কথা। জানাচ্ছেন ফিরে যাওয়ার আর আগুন থেকে বের হওয়ার জন্য তাদের আবেদন, সে আবেদন নামঞ্জুর হওয়া আর তাদের তিরস্কারের কথা। আবেদনটা অবশ্য ৪০:১১ আয়াতের বিষয়, যেখানে তারা দুবার মৃত্যু আর দুবার জীবনের কথা বলে। আর জবাবটা ৪০:১২ আয়াতের। এ লেখা আলোচনা সীমিত রাখে প্রথমে আসা ডাকটির মধ্যে।"
+          },
+          {
+            "en": "Who are those who disbelieved? As-Sa'di notes the phrase is left unqualified to take in every kind of disbelief: in Allah, in His books, in His messengers or in the Last Day. Al-Muyassar describes them as those who denied that Allah is the true God and turned their worship to others. Both describe people already in the Fire, as the verse does; neither makes the phrase a label for anyone alive.",
+            "bn": "যারা কুফরি করেছিল, তারা কারা? সা'দী লক্ষ করেন, শব্দটি কোনো শর্ত ছাড়া খোলা রাখা হয়েছে, যাতে সব ধরনের কুফরি এর মধ্যে পড়ে। আল্লাহকে অস্বীকার, তাঁর কিতাবসমূহ, তাঁর রাসূলগণ বা আখিরাতকে অস্বীকার, সবই। মুয়াসসার তাদের পরিচয় দেয় এভাবে: যারা মানতে অস্বীকার করেছে যে আল্লাহই সত্য ইলাহ, আর ইবাদত ঘুরিয়ে দিয়েছে অন্যের দিকে। দুজনেই বর্ণনা করছেন এমন লোকদের, যারা ইতিমধ্যে আগুনে, ঠিক যেমন আয়াতটি করছে। কেউই শব্দটিকে কোনো জীবিত মানুষের গায়ে লাগানোর তকমা বানান না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Raises the Voice",
+          "bn": "ডাকটা কার কণ্ঠে"
+        },
+        "p": [
+          {
+            "en": "Yunadawna is passive: they are called out to, and the verse leaves the caller unnamed. Ibn Kathir names one. The angels, he says, tell them this in a loud announcement while they are in the depths of the Fire, burning. Al-Muyassar names the keepers of Jahannam. At-Tabari, al-Baghawi and as-Sa'di keep to the verse's own passive and say only that it is said to them. The fetched texts give no ground for choosing, and the verse makes its point without the name.",
+            "bn": "ইউনাদাওনা কর্মবাচ্য: তাদের ডাকা হবে, কিন্তু কে ডাকবে আয়াত তা বলে না। ইবন কাসীর একজনের নাম বলেন। তাঁর মতে, ফেরেশতারা উচ্চস্বরে ঘোষণা দিয়ে তাদের এ কথা জানাবেন, যখন তারা আগুনের গভীরে জ্বলছে। মুয়াসসার বলে, ডাকবে জাহান্নামের প্রহরীরা। তাবারী, বাগাভী আর সা'দী আয়াতের কর্মবাচ্যেই থাকেন, শুধু বলেন যে তাদের বলা হবে। বেছে নেওয়ার কোনো ভিত্তি সংগৃহীত লেখাগুলোতে নেই, আর নাম ছাড়াই আয়াত তার কথা বুঝিয়ে দেয়।"
+          },
+          {
+            "en": "On the timing they are closer. At-Tabari places the call in the Fire on the Day of Resurrection, once they have entered it and seen the kinds of punishment Allah prepared for them there. Al-Baghawi agrees. Ibn Kathir ties it to the moment they meet a punishment from Allah that no one can bear. As-Sa'di links it to their own admission: they enter, and they confess that they deserve it for the sins and burdens they carried.",
+            "bn": "সময়ের প্রশ্নে তাঁরা কাছাকাছি। তাবারী ডাকটিকে রাখেন কিয়ামতের দিন জাহান্নামের ভেতরে। তারা তাতে ঢুকে গেছে, আর আল্লাহ সেখানে তাদের জন্য যত রকম শাস্তি তৈরি রেখেছেন তা নিজের চোখে দেখেছে। বাগাভীও তাঁর সঙ্গে একমত। ইবন কাসীর একে জুড়ে দেন সেই মুহূর্তের সঙ্গে, যখন তারা আল্লাহর এমন শাস্তির মুখোমুখি হয় যা সহ্য করার সাধ্য কারও নেই। সা'দী একে যুক্ত করেন তাদের নিজেদের স্বীকারোক্তির সঙ্গে। তারা ঢোকে, আর মেনে নেয় যে নিজেদের গুনাহ আর বোঝার কারণে এটাই তাদের প্রাপ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turning on Their Own Selves",
+          "bn": "নিজের উপরই বিতৃষ্ণা"
+        },
+        "p": [
+          {
+            "en": "The verse assumes they now hate themselves; the commentators say what set it off. Mujahid, in at-Tabari's chain, says they hated themselves when they saw their deeds. Ibn Zayd says that when they entered the Fire they hated themselves for the acts of disobedience to Allah they had committed. Al-Baghawi puts it at the moment their bad deeds were laid before them and they saw the punishment. Ibn Kathir names the bad deeds they had sent ahead, which were the cause of their entering.",
+            "bn": "আয়াতটি ধরে নেয় যে ততক্ষণে তারা নিজেদের ঘৃণা করছে। কিসে এর শুরু, তাফসীরকারেরা তা বলে দেন। তাবারীর সনদে মুজাহিদ বলেন, নিজেদের আমল দেখে তারা নিজেদের উপর বিতৃষ্ণ হয়েছিল। ইবন যায়দ বলেন, জাহান্নামে ঢুকে তারা নিজেদের ঘৃণা করল আল্লাহর যেসব নাফরমানি তারা করেছিল সেগুলোর জন্য। বাগাভী মুহূর্তটা রাখেন তখন, যখন তাদের সামনে তাদের মন্দ আমল পেশ করা হল আর তারা আযাব চোখে দেখল। ইবন কাসীর কারণ হিসেবে বলেন আগে পাঠিয়ে রাখা মন্দ আমলের কথা, যা তাদের জাহান্নামে ঢোকার কারণ হয়েছিল।"
+          },
+          {
+            "en": "They also measure how deep it goes. Ibn Kathir says they loathed their selves with the utmost loathing. As-Sa'di says they hate them with the most intense hatred and are angered at them to the limit of anger. Al-Muyassar uses the same superlative and gives the reason: they now grasp that they deserve Allah's displeasure and His punishment. Each describes a self-hatred entirely sincere and entirely too late, and that gives the comparison its weight.",
+            "bn": "কতটা গভীর, তাও তাঁরা মেপে দেখান। ইবন কাসীর বলেন, তারা নিজেদের ঘৃণা করল চরম ঘৃণায়। সা'দী বলেন, তারা নিজেদের প্রতি সবচেয়ে তীব্র ক্ষোভ পোষণ করে, নিজেদের উপর রেগে যায় রাগের শেষ সীমা পর্যন্ত। মুয়াসসারও একই চরম মাত্রার কথা বলে, আর কারণও দেয়: এখন তারা বুঝতে পেরেছে, আল্লাহর অসন্তোষ আর শাস্তি তাদের প্রাপ্য। অর্থাৎ সবাই এমন এক আত্মঘৃণার কথা বলছেন, যা পুরোপুরি খাঁটি, আবার পুরোপুরি দেরিতে আসা। পরের তুলনাটির ভার এখান থেকেই আসে।"
+          },
+          {
+            "en": "Al-Qurtubi asks the obvious question: how can people hate their own selves? He gives two ways. One is that by their sins they placed their selves in the position of something hated. The other is that they reached a state in which their desires had left them, and they knew that it was their own selves that had kept them in disobedience, so they hated them.",
+            "bn": "কুরতুবী সহজ প্রশ্নটা তোলেন: মানুষ নিজেকে ঘৃণা করে কীভাবে? তিনি দুটি দিক দেখান। একটি হল, গুনাহের মাধ্যমে তারা নিজেদের দাঁড় করিয়েছে ঘৃণার পাত্রের জায়গায়। অন্যটি হল, তারা এমন অবস্থায় পৌঁছেছে যেখানে খেয়ালখুশি তাদের ছেড়ে গেছে। তখন তারা জানল, তাদের নিজেদের নফসই তাদের নাফরমানিতে আটকে রেখেছিল, তাই তারা নফসকে ঘৃণা করল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Hatreds, Two Times",
+          "bn": "দুই ক্ষোভ, দুই সময়"
+        },
+        "p": [
+          {
+            "en": "La-maqtu Allahi akbaru min maqtikum anfusakum: Allah's hatred is greater than your hatred of yourselves. At-Tabari spells out what is being compared with what. It is said to them, he writes: Allah's hatred of you, O people, in the world, when you were called there to faith in Allah and you disbelieved, is greater than your hatred of yourselves today, for the displeasure of Allah that has come down on you. He adds that the interpreters said the same.",
+            "bn": "লামাকতুল্লাহি আকবারু মিম মাকতিকুম আনফুসাকুম: তোমাদের নিজেদের প্রতি তোমাদের ক্ষোভের চেয়ে আল্লাহর ক্ষোভ বড়। কিসের সঙ্গে কিসের তুলনা, তাবারী তা খুলে বলেন। তাঁর ভাষায়, তাদের বলা হবে: হে লোকসকল, দুনিয়াতে তোমাদের যখন আল্লাহর প্রতি ঈমানের দিকে ডাকা হত আর তোমরা কুফরি করতে, তখন তোমাদের প্রতি আল্লাহর ক্ষোভ ছিল আজ তোমাদের নিজেদের প্রতি তোমাদের ক্ষোভের চেয়ে বড়। আজকের সে ক্ষোভ জেগেছে তোমাদের উপর নেমে আসা আল্লাহর অসন্তোষের কারণে। তিনি যোগ করেন, তাফসীরবিদেরাও এমনই বলেছেন।"
+          },
+          {
+            "en": "Qatada's wording, in at-Tabari and Ibn Kathir, names both moments: Allah's hatred of the people of misguidance, when faith was offered them in the world and they left it and refused to accept it, is greater than their hatred of themselves when they saw Allah's punishment with their own eyes on the Day of Resurrection. As-Suddi glosses the halves: your hatred of yourselves, in the Fire; when you were called to faith, in the world. Ibn Kathir adds al-Hasan al-Basri, Mujahid and Ibn Zayd to those who held this.",
+            "bn": "কাতাদার ভাষ্য, যা তাবারী ও ইবন কাসীর দুজনেই আনেন, দুটি মুহূর্তেরই নাম বলে। দুনিয়াতে পথভ্রষ্টদের সামনে যখন ঈমান পেশ করা হয়েছিল আর তারা তা ছেড়ে দিয়েছিল, গ্রহণ করতে অস্বীকার করেছিল, তখন তাদের প্রতি আল্লাহর ক্ষোভ ছিল বড়। কিয়ামতের দিন আল্লাহর আযাব নিজের চোখে দেখে নিজেদের প্রতি তাদের যে ক্ষোভ, তার চেয়ে বড়। সুদ্দী দুই অংশের ব্যাখ্যা দেন এভাবে: নিজেদের প্রতি তোমাদের ক্ষোভ, জাহান্নামে। যখন ঈমানের দিকে ডাকা হত, দুনিয়াতে। ইবন কাসীর এ মতের অনুসারীদের মধ্যে হাসান বসরী, মুজাহিদ আর ইবন যায়দের নামও যোগ করেন।"
+          },
+          {
+            "en": "So the two sides are clear. Allah's hatred belongs to the world, to the moment of the invitation and the refusal. Their own hatred belongs to the Fire, to the moment of seeing the punishment. Every commentary fetched for this verse reads it this way, and none sets both hatreds in the Hereafter. The comparison places a hatred they at last feel beside one they did not feel at the time it mattered, and it calls the unfelt one the greater.",
+            "bn": "তাহলে দুই পক্ষ স্পষ্ট। আল্লাহর ক্ষোভ দুনিয়ার, দাওয়াত আর প্রত্যাখ্যানের সেই মুহূর্তের। তাদের নিজেদের ক্ষোভ জাহান্নামের, আযাব চোখে দেখার মুহূর্তের। এ আয়াতের জন্য সংগৃহীত প্রতিটি তাফসীর একে এভাবেই পড়ে, কোনোটিই দুটি ক্ষোভকে আখিরাতে রাখে না। তুলনাটা পাশাপাশি দাঁড় করায় দুটি ক্ষোভকে। একটা তারা শেষমেশ টের পাচ্ছে, আরেকটা যখন টের পাওয়া জরুরি ছিল তখন পায়নি। আর আয়াত বলছে, যেটা টের পায়নি সেটাই বড়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Loathing, Displeasure and Anger",
+          "bn": "ঘৃণা, অসন্তোষ আর গজব"
+        },
+        "p": [
+          {
+            "en": "The verse uses one word, maqt, for both sides; the commentators gloss it. Ibn Kathir pairs it with bughd, hatred: they felt maqt for their selves and hated them. Al-Muyassar renders the second maqt simply as your hatred of yourselves. On Allah's side as-Sa'di writes that He felt maqt for them and hated them, and he speaks of the displeasure, sakhat, of the Generous resting on them. At-Tabari, too, names Allah's sakhat as what has come down on them in the Fire.",
+            "bn": "আয়াত দুই দিকের জন্যই একই শব্দ ব্যবহার করে: মাকত। তাফসীরকারেরা এর ব্যাখ্যা দেন। ইবন কাসীর এর পাশে রাখেন বুগদ, অর্থাৎ ঘৃণা: তারা নিজেদের প্রতি মাকত অনুভব করল আর নিজেদের ঘৃণা করল। মুয়াসসার দ্বিতীয় মাকতকে সোজাসুজি বলে নিজেদের প্রতি তোমাদের ঘৃণা। আল্লাহর দিকের কথায় সা'দী লেখেন, তিনি তাদের প্রতি মাকত পোষণ করলেন আর তাদের ঘৃণা করলেন। তিনি বলেন মহান দাতার সাখাত, অর্থাৎ অসন্তোষ, তাদের উপর বহাল থাকার কথা। তাবারীও জাহান্নামে তাদের উপর নেমে আসা জিনিসটির নাম দেন আল্লাহর সাখাত।"
+          },
+          {
+            "en": "This maqt, as-Sa'di adds, never ceased to rest on them, and the displeasure of the Generous stayed on them until their state came to what it came to; today Allah's anger and punishment have fallen on them, just as the believers have attained His good pleasure and reward. These are the verse's word and the commentators' glosses for what Allah affirms of Himself. This page reports them as they stand and does not enter the theologians' discussion of how such attributes are understood.",
+            "bn": "সা'দী যোগ করেন, এ মাকত তাদের উপর থেকে কখনো সরেনি। মহান দাতার অসন্তোষ তাদের উপর থেকে গেছে, শেষে তাদের অবস্থা যেখানে গড়ানোর সেখানে গড়িয়েছে। আজ তাদের উপর নেমেছে আল্লাহর গজব আর শাস্তি, ঠিক যেমন মু'মিনরা পেয়েছে তাঁর সন্তুষ্টি আর প্রতিদান। আল্লাহ নিজের সম্পর্কে যা বলেছেন, এগুলো সে বিষয়ে আয়াতের শব্দ আর তাফসীরকারদের ব্যাখ্যা। এ লেখা সেগুলো যেমন আছে তেমনই তুলে ধরে, আর এমন সিফাত কীভাবে বুঝতে হবে সে নিয়ে কালামশাস্ত্রবিদদের আলোচনায় ঢোকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Lam the Grammarians Weighed",
+          "bn": "এক লাম নিয়ে নাহুবিদদের মত"
+        },
+        "p": [
+          {
+            "en": "La-maqtu opens with the letter lam, and at-Tabari reports how the grammarians accounted for it. Some of the Basrans called it the lam of beginning: it may stand after yunadawna because being called out to means being told, and a call is speech, as one says la-Zaydun afdalu min 'Amr. One of the Kufans took the meaning to be they are called out to: that Allah's hatred, the lam doing the work of inna after verbs close to saying, as in 12:35, la-yasjununnahu hatta hin.",
+            "bn": "লামাকতু শুরু হয়েছে লাম অক্ষর দিয়ে। এর ব্যাখ্যায় নাহুবিদেরা কী বলেছেন, তাবারী তা জানান। বসরার কয়েকজন একে বলেছেন লামুল ইবতিদা, অর্থাৎ সূচনার লাম। ইউনাদাওনা-র পরে এটি বসতে পারে, কারণ ডাকা মানে আসলে বলা, আর ডাকও এক ধরনের কথা। যেমন বলা হয়: লাযায়দুন আফদালু মিন আমর। কুফার একজন অর্থ ধরেছেন এভাবে: তাদের ডেকে বলা হবে যে আল্লাহর ক্ষোভ। বলা-জাতীয় ক্রিয়ার পরে এখানে লাম ইন্না-র কাজ করছে, যেমন ১২:৩৫ আয়াতে: লাইয়াসজুনুন্নাহু হাত্তা হীন।"
+          },
+          {
+            "en": "A third view held it to be the lam of the oath, which enters with reported speech to show that what follows is a fresh start. At-Tabari judges this the most correct: it enters to signal a fresh start, and it is the lam of the oath. Al-Qurtubi instead relays al-Akhfash's view that it is the lam of beginning, as yunadawna means it is said to them. Both agree that what follows is the content of the call. They differ over whether it carries an oath.",
+            "bn": "তৃতীয় এক মতে এটি লামুল ইয়ামীন, অর্থাৎ কসমের লাম। উদ্ধৃত কথার সঙ্গে এটি আসে, এ কথা বোঝাতে যে এর পরের অংশ নতুন করে শুরু হচ্ছে। তাবারী এ মতকেই সবচেয়ে সঠিক বলেন: লামটি এসেছে নতুন শুরুর সংকেত দিতে, আর এটি কসমের লাম। অন্যদিকে কুরতুবী আখফাশের মত আনেন: এটি সূচনার লাম, কারণ ইউনাদাওনা-র অর্থ তাদের বলা হবে। দুই মতই মানে যে এর পরের অংশটুকুই ডাকের বিষয়বস্তু। তফাত শুধু এখানে যে, এতে কসমের জোর আছে কি না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Invited, and Turning Away",
+          "bn": "দাওয়াত এল, তারা ফিরল না"
+        },
+        "p": [
+          {
+            "en": "Idh tud'awna ila al-imani fa-takfurun: when you were called to faith and you disbelieved. As-Sa'di fills in who did the calling. It was when the messengers and their followers called you to faith, he says, and set before you clear proofs by which the truth was made plain; and you disbelieved, turned away from the faith for which Allah created you, and went out of His vast mercy. Al-Muyassar puts it briefly: when faith in Him and following His messengers was asked of you, and you refused.",
+            "bn": "ইয তুদআওনা ইলাল ঈমানি ফাতাকফুরূন: যখন তোমাদের ঈমানের দিকে ডাকা হত আর তোমরা কুফরি করতে। কে ডেকেছিল, সা'দী তা বলে দেন। তাঁর মতে, রাসূলগণ আর তাঁদের অনুসারীরা তোমাদের ঈমানের দিকে ডেকেছিলেন। তোমাদের সামনে এমন স্পষ্ট প্রমাণ দাঁড় করিয়েছিলেন, যাতে সত্য পরিষ্কার হয়ে যায়। তবু তোমরা কুফরি করলে। যে ঈমানের জন্য আল্লাহ তোমাদের সৃষ্টি করেছিলেন, তা থেকে মুখ ফিরিয়ে নিলে, আর তাঁর প্রশস্ত রহমতের বাইরে চলে গেলে। মুয়াসসার সংক্ষেপে বলে: যখন তোমাদের কাছে তাঁর প্রতি ঈমান আর তাঁর রাসূলদের অনুসরণ চাওয়া হয়েছিল, তোমরা অস্বীকার করেছিলে।"
+          },
+          {
+            "en": "The verse pairs a call that came to them with a refusal that was their own: tud'awna, you were called, and takfurun, you disbelieved. As-Sa'di's phrase about His vast mercy echoes the angels' words in 40:7: our Lord, You have encompassed all things in mercy and knowledge. The mercy the angels say reaches everything is the mercy these people walked out of.",
+            "bn": "আয়াত একটি ডাকের পাশে রাখে একটি প্রত্যাখ্যান। ডাকটা এসেছিল বাইরে থেকে, প্রত্যাখ্যানটা ছিল তাদের নিজেদের: তুদআওনা, তোমাদের ডাকা হত, আর তাকফুরূন, তোমরা কুফরি করতে। প্রশস্ত রহমত নিয়ে সা'দীর কথাটি মনে করিয়ে দেয় ৪০:৭ আয়াতে ফেরেশতাদের কথা: হে আমাদের রব, আপনি রহমত ও জ্ঞান দিয়ে সবকিছু বেষ্টন করে আছেন। ফেরেশতারা যে রহমতকে সবকিছুতে পৌঁছানো বলেন, এরা বেরিয়ে গেছে সেই রহমত থেকেই।"
+          },
+          {
+            "en": "The next two verses carry the exchange on. In 40:11 they answer with a confession and ask whether there is any way out, and in 40:12 the reason is given in the same verb: when Allah alone was called upon, you disbelieved. That repetition ties the reply back to this verse's fa-takfurun. None of the commentaries fetched for 40:10 attaches a hadith to it, so this page quotes none.",
+            "bn": "পরের দুটি আয়াত কথোপকথনটা এগিয়ে নেয়। ৪০:১১ আয়াতে তারা গুনাহ স্বীকার করে জবাব দেয়, আর জানতে চায় বের হওয়ার কোনো পথ আছে কি না। ৪০:১২ আয়াতে কারণ বলা হয় একই ক্রিয়া দিয়ে: যখন এক আল্লাহকে ডাকা হত, তোমরা কুফরি করতে। এই পুনরাবৃত্তি জবাবটিকে বেঁধে দেয় এ আয়াতের ফাতাকফুরূন-এর সঙ্গে। ৪০:১০ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এ লেখাও কোনো হাদীস উদ্ধৃত করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Report Noted, Not Used",
+          "bn": "যে বর্ণনা শুধু উল্লেখ করা হল"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi ends his comment on this verse with a long report from Muhammad ibn Ka'b al-Qurazi, which he says Ibn al-Mubarak recorded. Its topic is what passes among the people of the Fire before this call reaches them. It is a Successor's report, not a narration from the Prophet ﷺ, and al-Qurtubi gives it no chain and no grading. Because it describes the unseen without a raised chain, this page notes only that it exists and builds nothing on it.",
+            "bn": "এ আয়াতের আলোচনা কুরতুবী শেষ করেন মুহাম্মাদ ইবন কা'ব কুরাযীর একটি দীর্ঘ বর্ণনা দিয়ে। তাঁর ভাষায়, ইবনুল মুবারক এটি উল্লেখ করেছেন। বর্ণনাটির বিষয়, এ ডাক পৌঁছানোর আগে জাহান্নামীদের মধ্যে কী ঘটে। এটি একজন তাবেঈর বর্ণনা, নবী ﷺ থেকে আসা কোনো রিওয়ায়াত নয়। কুরতুবী এর কোনো সনদ দেন না, মানও বলেন না। নবী ﷺ পর্যন্ত পৌঁছানো সনদ ছাড়া এটি গায়েবের বিবরণ দেয়। তাই এ লেখা শুধু এর অস্তিত্বের কথা জানিয়ে রাখে, এর উপর কিছুই দাঁড় করায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Spoken in the Fire, Not Here",
+          "bn": "কথাটা জাহান্নামের, দুনিয়ার নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying firmly. The verse describes what will be said, in the Fire, to those who disbelieved, and it licenses nothing against any living person or community. No one may tell a living person that Allah hates them, treat a neighbour or a people as already among the people of the Fire, or use this verse to justify contempt or harm. The verse's own time-mark points the other way: what decided the matter was the invitation during life, and while life lasts, the invitation is still being made.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াতটি বর্ণনা করে, জাহান্নামে কাফিরদের কী বলা হবে। কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে এটি কোনো কিছুরই অনুমতি দেয় না। কোনো জীবিত মানুষকে কেউ বলতে পারে না যে আল্লাহ তাকে ঘৃণা করেন। কোনো প্রতিবেশী বা কোনো জাতিকে আগেভাগেই জাহান্নামী ধরে নেওয়া যায় না। অবজ্ঞা বা ক্ষতির পক্ষে এ আয়াতকে দলিল বানানোও যায় না। আয়াতের নিজের সময়চিহ্ন বরং উল্টো দিকে ইশারা করে। ফয়সালা হয়েছিল জীবদ্দশার দাওয়াতে। আর যতক্ষণ জীবন আছে, দাওয়াতও চলছে।"
+          },
+          {
+            "en": "For the reader the verse holds a sharper question. Al-Qurtubi's second explanation was that once their desires had left them, they knew it was their own selves that had kept them in sin. The same seeing is possible now, while it can still become repentance rather than a self-hatred that helps nothing. The angels' prayer just before this verse, in 40:7, asks forgiveness for those who repented and followed Allah's way. That door stays open on this side of death.",
+            "bn": "পাঠকের জন্য আয়াতে আছে আরও ধারালো এক প্রশ্ন। কুরতুবীর দ্বিতীয় ব্যাখ্যা ছিল, খেয়ালখুশি সরে যাওয়ার পর তারা বুঝল, তাদের নিজেদের নফসই তাদের গুনাহে আটকে রেখেছিল। এই দেখাটা এখনো সম্ভব। এখন দেখলে তা তওবায় বদলাতে পারে, এমন আত্মঘৃণায় নয় যা কোনো কাজে আসে না। এ আয়াতের ঠিক আগে, ৪০:৭ আয়াতে, ফেরেশতাদের দোয়া মাগফিরাত চায় তাদের জন্য, যারা তওবা করেছে আর আল্লাহর পথ অনুসরণ করেছে। মৃত্যুর এপারে সে দরজা খোলা।"
+          }
+        ]
+      }
+    ]
+  },
   "40:15": {
     "sections": [
       {

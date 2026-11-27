@@ -37473,6 +37473,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Strength and great works shield no one from Allah. Read the ruins of earlier peoples as a warning to yourself, never as a verdict on anyone else.",
     "lessonBn": "শক্তি আর বিশাল কীর্তি কাউকে আল্লাহর হাত থেকে বাঁচাতে পারে না। আগের জাতিগুলোর ধ্বংসাবশেষ পড়ুন নিজের জন্য সতর্কবার্তা হিসেবে, অন্য কারও উপর রায় হিসেবে কখনো নয়।"
+  },
+  "40:10": {
+    "reflectionEn": "In the Fire, the verse says, those who disbelieved come to loathe their own selves. Too late, they see plainly what their choices have done to them. Then a call reaches them: Allah's hatred for you was greater still, back when you were invited to faith and kept refusing. The decisive moment, then, was not the burning but the invitation. Every day of a life carries that invitation in some form: a verse heard, a reminder given, a prick of conscience. The verse points at no one I can name; it describes those who died refusing. So the question turns back on me. What am I being invited to now, and am I answering, or quietly turning away until the day regret can change nothing?",
+    "reflectionBn": "আয়াতটি বলছে, জাহান্নামে কাফিররা নিজেদের উপরই প্রচণ্ড ক্ষোভে জ্বলবে। এতদিনে তারা পরিষ্কার দেখবে, নিজেদের বাছাই তাদের কোথায় এনে দাঁড় করিয়েছে। তখন তাদের ডেকে বলা হবে: তোমাদের যখন ঈমানের দিকে ডাকা হত আর তোমরা অস্বীকার করতে, তখন তোমাদের প্রতি আল্লাহর ক্ষোভ ছিল এর চেয়েও বড়। চূড়ান্ত মুহূর্তটা তাহলে আগুনে পোড়ার সময় নয়, দাওয়াত পাওয়ার সময়। জীবনের প্রতিটি দিনে সে দাওয়াত কোনো না কোনোভাবে আসে: কানে আসা একটা আয়াত, কারও নসিহত, বিবেকের একটা খোঁচা। এ আয়াত এমন কারও কথা বলে না যার দিকে আমি আঙুল তুলতে পারি। এর বর্ণনা তাদের, যারা অস্বীকার করেই দুনিয়া ছেড়েছে। প্রশ্নটা তাই আমার দিকেই ফেরে। আজ আমাকে কিসের দিকে ডাকা হচ্ছে? আমি কি সাড়া দিচ্ছি, নাকি চুপচাপ মুখ ফিরিয়ে আছি সেই দিন পর্যন্ত, যেদিন আফসোস করে আর কিছুই বদলানো যাবে না?",
+    "pointsEn": [
+      "Which reminder have I heard more than once this year and still not acted on?",
+      "When I regret a wrong, does the regret turn me back to Allah, or does it only leave me resenting myself?",
+      "Which habit do I already suspect is harming me, though my own desires keep me from looking at it plainly?",
+      "Do I treat Allah's invitation as something that will always be waiting for me, whenever I am ready?",
+      "When I read verses about the Fire, do I read them about other people, or about my own heart?"
+    ],
+    "pointsBn": [
+      "এ বছর কোন নসিহতটা আমি একাধিকবার শুনেছি, অথচ এখনো আমল করিনি?",
+      "কোনো অন্যায়ের জন্য আফসোস হলে সেই আফসোস কি আমাকে আল্লাহর দিকে ফিরিয়ে আনে, নাকি শুধু নিজের উপর বিরক্তি জমায়?",
+      "কোন অভ্যাসটা আমার ক্ষতি করছে বলে মনে মনে টের পাই, অথচ নিজের খেয়ালখুশির কারণে সেদিকে সোজা তাকাই না?",
+      "আল্লাহর দাওয়াতকে কি আমি এমন কিছু ভাবি, যা আমার সুবিধামতো সময়ের জন্য চিরকাল অপেক্ষা করে থাকবে?",
+      "জাহান্নামের আয়াত পড়ার সময় আমি কি অন্যদের কথা ভাবি, নাকি নিজের অন্তরের দিকে তাকাই?"
+    ],
+    "lessonEn": "Answer Allah's invitation to faith while you are alive; the self-reproach that comes only in the Fire changes nothing.",
+    "lessonBn": "বেঁচে থাকতেই আল্লাহর দেওয়া ঈমানের দাওয়াতে সাড়া দিন। শুধু জাহান্নামে গিয়ে নিজের প্রতি যে ক্ষোভ জাগে, তাতে আর কিছুই বদলায় না।"
   }
 };
 
