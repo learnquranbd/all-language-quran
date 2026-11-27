@@ -6927,6 +6927,166 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "26:138": {
+    "sections": [
+      {
+        "h": {
+          "en": "Three Words Against a Warning",
+          "bn": "এক সতর্কবাণীর জবাবে তিন শব্দ"
+        },
+        "p": [
+          {
+            "en": "Wa-ma nahnu bi-mu'adhdhabin: and we are not to be punished. Three Arabic words close the reply of 'Ad to their prophet Hud. The reply began in 26:136, where they told him that his advice and his silence were all the same to them, and it continued in 26:137, where they called what they were on the khuluq of the ancients. This verse is its last line, and it is the only part of the reply that meets Hud's warning head on.",
+            "bn": "ওয়ামা নাহনু বিমু‘আযযাবীন: আমাদের শাস্তি দেওয়া হবে না। আরবি তিনটি শব্দে শেষ হয় নবী হূদ (আঃ)-কে দেওয়া ‘আদ জাতির জবাব। জবাবের শুরু ২৬:১৩৬ আয়াতে। সেখানে তারা বলেছিল, তাঁর নসীহত করা আর না করা তাদের কাছে সমান। তারপর ২৬:১৩৭ আয়াতে তারা নিজেদের পথকে বলল পূর্ববর্তীদের খুলুক। এ আয়াত সেই জবাবের শেষ বাক্য। পুরো জবাবে কেবল এখানেই তারা হূদ (আঃ)-এর সতর্কবাণীর মুখোমুখি দাঁড়ায়।"
+          },
+          {
+            "en": "Hud's last sentence, in 26:135, was: I fear for you the punishment of a terrible day. His noun was 'adhab. Their answer takes the same root and turns it into a passive participle, mu'adhdhabin, those to whom punishment is done. The Muyassar ties the two verses together in its gloss: we are not to be punished for what we do, with the punishment you have warned us of. Al-Qurtubi says the same more briefly: we are not to be punished for what we do.",
+            "bn": "২৬:১৩৫ আয়াতে হূদ (আঃ)-এর শেষ কথা ছিল: আমি তোমাদের জন্য এক ভয়াবহ দিনের শাস্তির ভয় করি। তিনি যে শব্দ ব্যবহার করেছিলেন, তা ‘আযাব। তাদের জবাবও সেই একই ধাতু থেকে, তবে কর্মবাচ্যের রূপে: মু‘আযযাবীন, অর্থাৎ যাদের শাস্তি দেওয়া হয়। মুয়াসসার দুই আয়াতকে এক সুতোয় গাঁথে: তুমি যে শাস্তির ভয় দেখাচ্ছ, আমরা যা করি তার জন্য সে শাস্তি আমাদের দেওয়া হবে না। কুরতুবী একই কথা বলেন আরও সংক্ষেপে: আমরা যা করি, তার জন্য আমাদের শাস্তি হবে না।"
+          },
+          {
+            "en": "So the reply does not dispute that punishment exists; it disputes only that it will reach them. The commentators differ over what stood behind that confidence: a belief that God would not hold this way of life against them, or a belief that after death there was nothing in which anyone could be punished. Both answers run through the rest of this article.",
+            "bn": "তাহলে শাস্তি বলে কিছু আছে কি না, জবাবটা তা নিয়ে তর্ক করে না। তর্ক শুধু এ নিয়ে যে শাস্তি তাদের নাগাল পাবে না। এই নিশ্চিন্তির পেছনে কী ছিল, তা নিয়ে তাফসীরকারদের মত আলাদা। তারা কি ভাবত আল্লাহ তাদের এই জীবনধারাকে দোষ ধরবেন না? নাকি ভাবত মৃত্যুর পর এমন কিছুই নেই, যেখানে কাউকে শাস্তি দেওয়া যায়? এই প্রবন্ধের বাকি অংশ জুড়ে দুটো উত্তরই চলবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Passive That Assumes a Hand",
+          "bn": "কর্মবাচ্যে লুকানো এক কর্তা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari treats these three words as evidence. In 26:137 he prefers the reading khuluq, custom, over khalq, fabrication; the readings themselves belong to that verse. Here he draws a proof from this verse. Their saying and we are not to be punished, he writes, confirms the reading and interpretation he chose, because had they not acknowledged a Lord able to punish them, they would not have said it.",
+            "bn": "তাবারী এই তিনটি শব্দকে প্রমাণ হিসেবে কাজে লাগান। ২৬:১৩৭ আয়াতে তিনি খালক (বানানো কথা) পাঠের চেয়ে খুলুক (রীতি) পাঠকে অগ্রাধিকার দেন। পাঠভেদের আলোচনা সেই আয়াতেরই বিষয়। এখানে তিনি এ আয়াত থেকে প্রমাণ টানেন। তিনি লেখেন, 'আমাদের শাস্তি দেওয়া হবে না', তাদের এই কথা তাঁর বেছে নেওয়া পাঠ ও ব্যাখ্যাকে মজবুত করে। কারণ, শাস্তি দিতে সক্ষম কোনো রব তাদের আছেন, এ কথা না মানলে তারা এমন কথা বলত না।"
+          },
+          {
+            "en": "Had they believed in no such Lord, at-Tabari goes on, they would have said something else: that what Hud brought was only the invention of the ancients, and that they had no punisher to punish them. But they did acknowledge the Maker. They worshipped gods in the way the Arab idolaters worshipped theirs, saying these brought them near to Allah, in words that echo 39:3. So while denying Hud's prophethood they said: what we do is only the custom of those before us, and Allah will not punish us for it.",
+            "bn": "তাবারী আরও বলেন, এমন কোনো রবকে না মানলে তারা অন্য কথা বলত। বলত, হূদ (আঃ) যা এনেছেন তা পূর্ববর্তীদের বানানো কথা ছাড়া কিছু নয়, আর শাস্তি দেওয়ার মতো কেউ তাদের নেই। কিন্তু তারা স্রষ্টাকে মানত। আরবের মুশরিকরা যেভাবে দেবদেবীর পূজা করত, তারাও সেভাবে করত, আর বলত এরা আমাদের আল্লাহর নৈকট্যে পৌঁছে দেয়। কথাটা ৩৯:৩ আয়াতের প্রতিধ্বনি। তাই হূদ (আঃ)-এর নবুওয়াত অস্বীকার করতে করতে তারা বলল: আমরা যা করি, তা আমাদের আগের লোকদের রীতি মাত্র, আর এর জন্য আল্লাহ আমাদের শাস্তি দেবেন না।"
+          },
+          {
+            "en": "Read this way, the grammar carries the point. Mu'adhdhab names someone to whom punishment is done; it names no agent, but it assumes one. A people who thought the heavens empty would deny that anyone could punish them, not that they would be punished. In at-Tabari's reading their error is not disbelief in God but certainty about what He would and would not hold against them.",
+            "bn": "এভাবে পড়লে ব্যাকরণই আসল কথাটা বহন করে। মু‘আযযাব মানে যাকে শাস্তি দেওয়া হয়। শব্দটি কর্তার নাম নেয় না, কিন্তু একজন কর্তা ধরে নেয়। যারা মনে করে আকাশের ওপারে কেউ নেই, তারা বলবে শাস্তি দেওয়ার মতো কেউই নেই, 'আমাদের শাস্তি হবে না' বলবে না। তাবারীর পাঠে তাদের ভুল আল্লাহকে অস্বীকার করা নয়। ভুলটা হলো, আল্লাহ কোন কাজ ধরবেন আর কোনটা ছেড়ে দেবেন, সে বিষয়ে নিজেরাই নিশ্চিত হয়ে বসা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Custom Worn as a Shield",
+          "bn": "রীতির ঢাল হাতে"
+        },
+        "p": [
+          {
+            "en": "What was the this they would not be punished for? At-Tabari, explaining his choice in 26:137, names it. They had been reproached for the buildings they used to raise, for seizing people as tyrants seize them, and for their scant gratitude to their Lord for what He had given them: the charges Hud laid out from 26:128 onward. They answered their prophet that they did what they did in imitation of the way of the nations before them, following in their tracks.",
+            "bn": "কোন কাজের জন্য শাস্তি হবে না বলে তারা দাবি করছিল? ২৬:১৩৭ আয়াতে নিজের পছন্দের ব্যাখ্যা দিতে গিয়ে তাবারী সেটাও বলে দেন। তারা যে দালানকোঠা তুলত, তার জন্য তাদের তিরস্কার করা হয়েছিল। জালিমদের মতো মানুষকে পাকড়াও করার জন্য, আর রবের দেওয়া নিয়ামতের প্রতি কম শুকরিয়ার জন্যও। ২৬:১২৮ থেকে হূদ (আঃ) এই অভিযোগগুলোই তুলেছিলেন। তারা নবীকে জবাব দিল, আগের জাতিগুলোর রীতি অনুসরণ করে আর তাদের পদচিহ্ন ধরে চলেই তারা এসব করে।"
+          },
+          {
+            "en": "At-Tabari closes his comment on this verse with a parallel the Qur'an gives about nations long gone, who told their messengers: we found our fathers upon a way, and we are following in their footsteps. That is 43:23, spoken by the affluent of every town to which a warner was sent. The logic is shared. A practice kept for generations feels tested by time, and what time has tested feels safe.",
+            "bn": "এ আয়াতের আলোচনা তাবারী শেষ করেন এক তুলনা দিয়ে। কুরআন অতীতের জাতিদের সম্পর্কে জানায়, তারা রসূলদের বলত: আমরা আমাদের বাপ-দাদাদের এক পথে পেয়েছি, আর আমরা তাদেরই পদচিহ্ন অনুসরণ করছি। এটি ৪৩:২৩ আয়াত। সেখানে কথাটা বলে প্রতিটি জনপদের বিত্তবানরা, যেখানে কোনো সতর্ককারী পাঠানো হয়েছিল। দুই আয়াতের যুক্তি একই। যে রীতি প্রজন্মের পর প্রজন্ম চলে আসছে, মনে হয় সময় তা যাচাই করে দিয়েছে। আর সময়ের যাচাই পেরোনো জিনিসকে নিরাপদ মনে হয়।"
+          },
+          {
+            "en": "The Muyassar, commenting on 26:137 and this verse together, reads them as one sentence: what we are on is only the religion of the ancients and their customs, and we are not to be punished for what we do. Ibn Kathir opens his comment here with the word hence: hence they said, and we are not to be punished. He cites Ibn Abbas, through Ali ibn Abi Talha, for khuluq as religion, and notes that at-Tabari chose it.",
+            "bn": "মুয়াসসার ২৬:১৩৭ আর এ আয়াতের ব্যাখ্যা দেয় একসঙ্গে, যেন একটাই বাক্য: আমরা যে পথে আছি তা পূর্ববর্তীদের দ্বীন আর তাদের রীতিনীতি মাত্র, আর আমরা যা করি তার জন্য আমাদের শাস্তি হবে না। ইবন কাসীরও এখানে আলোচনা শুরু করেন 'এ কারণেই' কথাটি দিয়ে: এ কারণেই তারা বলল, আমাদের শাস্তি দেওয়া হবে না। তিনি আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর মত আনেন যে খুলুক মানে দ্বীন, আর জানান যে তাবারী এ মতটিই গ্রহণ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living and Dying as They Did",
+          "bn": "ওরা যেভাবে বেঁচেছে, যেভাবে মরেছে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir hears a different conviction under the same words. Explaining khuluq as their religion, he gives 'Ad this voice: what we are on is the religion of our fathers and grandfathers; we follow them and walk behind them, we live as they lived and die as they died, and there is no resurrection and no return. Then comes his hence. On this reading the verse claims not that God will overlook them, but that there is no afterwards at all.",
+            "bn": "একই শব্দের নিচে ইবন কাসীর ভিন্ন এক বিশ্বাসের আওয়াজ শোনেন। খুলুককে তাদের দ্বীন অর্থে ব্যাখ্যা করে তিনি ‘আদের মুখে এ কথা বসান: আমরা যে পথে আছি, তা আমাদের বাপ-দাদাদের দ্বীন। আমরা তাদেরই অনুসারী, তাদের পেছনে পেছনে চলি। তারা যেভাবে বেঁচেছে আমরাও সেভাবে বাঁচি, তারা যেভাবে মরেছে আমরাও সেভাবে মরব। পুনরুত্থান বলে কিছু নেই, ফিরে যাওয়াও নেই। এরপরই আসে তাঁর 'এ কারণেই'। এই পাঠে আয়াতের দাবি এটা নয় যে আল্লাহ তাদের ছেড়ে দেবেন। দাবিটা হলো, মৃত্যুর পরে আর কিছুই নেই।"
+          },
+          {
+            "en": "Al-Qurtubi records, under the words it is said, a reading that reaches the same place by another road. Khalq here would mean the creation of the bodies of the ancients: we are created only as those before us were created, who were made and then died, and nothing came down on them of the punishment you warn us of. At-Tabari, on 26:137, relays something close from Qatada: such was the make of the ancients; so they lived and so they died.",
+            "bn": "কুরতুবী 'বলা হয়' কথাটি জুড়ে এমন এক ব্যাখ্যা আনেন, যা অন্য পথে একই জায়গায় পৌঁছায়। এখানে খালক মানে পূর্ববর্তীদের দেহের সৃষ্টি। অর্থাৎ, আমাদের আগে যারা সৃষ্টি হয়েছিল, তারপর মারা গেছে, আমরাও তাদের মতোই সৃষ্ট। আর তুমি যে শাস্তির ভয় দেখাও, তার কিছুই তাদের উপর নেমে আসেনি। ২৬:১৩৭ আয়াতের আলোচনায় তাবারী কাতাদা থেকে কাছাকাছি একটি কথা আনেন: আগের লোকদের গড়নই এমন ছিল, এভাবেই তারা বাঁচত, এভাবেই মরত।"
+          },
+          {
+            "en": "As-Sa'di names this first among his two readings of the verse: this is their denial of the resurrection. Put together, these comments describe an argument from experience. Generation after generation had died in the ordinary way. No one had come back to report a reckoning. Nothing in the record matched the terrible day Hud described, so they concluded that the record was complete.",
+            "bn": "সা'দী এ আয়াতের দুটি ব্যাখ্যার প্রথমটিতে এ কথাই বলেন: এ হলো পুনরুত্থানকে তাদের অস্বীকার। এই মন্তব্যগুলো পাশাপাশি রাখলে অভিজ্ঞতা থেকে টানা এক যুক্তি ফুটে ওঠে। প্রজন্মের পর প্রজন্ম স্বাভাবিকভাবে মারা গেছে। কেউ ফিরে এসে হিসাব-নিকাশের খবর দেয়নি। হূদ (আঃ) যে ভয়াবহ দিনের কথা বলেছেন, তাদের দেখা ইতিহাসে তার কোনো নজির নেই। তাই তারা ধরে নিল, যা দেখা গেছে তার বাইরে আর কিছু নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Readings of One Boast",
+          "bn": "এক দম্ভের দুই ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Here the commentators genuinely part, and the difference is worth keeping intact. For at-Tabari, 'Ad acknowledged a Maker who could punish, worshipped other gods to draw near Him, and denied only that He would punish what they did. For Ibn Kathir, their words rest on a denial of any resurrection or return, so that punishment had nowhere to take place. As-Sa'di gives two possibilities joined by an or: the first agrees with Ibn Kathir, and the second, taken up next, is his own.",
+            "bn": "এখানে তাফসীরকারদের পথ সত্যিই আলাদা হয়ে যায়, আর পার্থক্যটা অক্ষুণ্ণ রাখাই ভালো। তাবারীর মতে ‘আদ এমন এক স্রষ্টাকে মানত, যিনি শাস্তি দিতে পারেন। তাঁর নৈকট্য পেতে তারা অন্য উপাস্যদের পূজা করত। তারা অস্বীকার করত কেবল এটুকু যে তিনি তাদের কাজের জন্য শাস্তি দেবেন। ইবন কাসীরের মতে তাদের কথার ভিত্তি হলো পুনরুত্থান ও প্রত্যাবর্তনকে পুরোপুরি অস্বীকার করা। ফলে শাস্তি ঘটার কোনো জায়গাই থাকে না। সা'দী 'অথবা' দিয়ে দুটি সম্ভাবনা দেন। প্রথমটি ইবন কাসীরের সঙ্গে মেলে, আর দ্বিতীয়টি, যার কথা সামনে আসছে, তাঁর নিজের।"
+          },
+          {
+            "en": "The two main readings are not idle variants. One portrays people who believe in God but have decided in advance what He will tolerate; the other, people who have closed the account at death. The verse's three words can carry either, and the commentaries fetched for it do not settle the matter. Nor does this article. Each is a way of hearing a warning and still feeling safe.",
+            "bn": "মূল দুটি ব্যাখ্যা নিছক শব্দের হেরফের নয়। একটিতে এমন মানুষের ছবি, যারা আল্লাহকে মানে, কিন্তু তিনি কী সহ্য করবেন তা আগেভাগেই ঠিক করে রেখেছে। অন্যটিতে এমন মানুষের ছবি, যারা মৃত্যুর সঙ্গে সঙ্গেই হিসাবের খাতা বন্ধ করে দিয়েছে। আয়াতের তিনটি শব্দ দুটো অর্থই বহন করতে পারে। এ আয়াতের জন্য সংগৃহীত তাফসীরগুলো এর ফয়সালা করে না, এ প্রবন্ধও করবে না। দুটোই সতর্কবাণী শুনেও নিশ্চিন্ত থাকার একেকটা ধরন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Plenty Taken as a Promise",
+          "bn": "নিয়ামতকে প্রতিশ্রুতি ভাবা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's other reading is sharper. The words may be a concession to their prophet and a mockery of him: suppose we are raised, then just as blessings have been poured on us in this world, so they will go on flowing to us when we are raised. Here 'Ad do not deny the Day outright; they assume it will look like their present. The herds, sons, gardens and springs Hud named in 26:133 and 26:134 become proof of standing rather than reasons for gratitude.",
+            "bn": "সা'দীর অন্য ব্যাখ্যাটি আরও ধারালো। কথাটা হতে পারে নবীর কথা মেনে নেওয়ার ভান করে তাঁকে উপহাস করা: ধরে নিলাম আমাদের আবার ওঠানো হবে। তবে দুনিয়ায় যেমন আমাদের উপর নিয়ামতের বর্ষণ হয়েছে, আবার ওঠানো হলে সেখানেও তা চলতেই থাকবে। এ ব্যাখ্যায় ‘আদ সেই দিনকে সরাসরি অস্বীকার করে না। তারা ধরে নেয়, দিনটা হবে তাদের বর্তমানেরই মতো। ২৬:১৩৩ ও ২৬:১৩৪ আয়াতে হূদ (আঃ) যে পশুর পাল, সন্তান, বাগান আর ঝরনার কথা বলেছিলেন, তাদের হাতে সেগুলো শুকরিয়ার কারণ না হয়ে হয়ে উঠল নিজেদের মর্যাদার প্রমাণ।"
+          },
+          {
+            "en": "His comment on 26:137 prepares the ground. There he has 'Ad say that their present conditions and blessings are the custom of the ancients: sometimes people grow rich and sometimes poor, and these are simply the turns of time, not trials and gifts from Allah sent to test His servants. Once fortune is read as weather, a warning has nothing to attach to. A people who did not believe they were being tested could not imagine failing the test.",
+            "bn": "২৬:১৩৭ আয়াতে তাঁর মন্তব্য এর ভিত তৈরি করে রাখে। সেখানে তিনি ‘আদের মুখে বলান: আমাদের এই অবস্থা আর এই নিয়ামত পূর্ববর্তীদের রীতি। মানুষ কখনো ধনী হয়, কখনো গরিব। এ হলো কালের পালাবদল মাত্র, আল্লাহর দেওয়া পরীক্ষা বা দান নয়, বান্দাদের যাচাই করার জন্য পাঠানো কিছু নয়। ভাগ্যের ওঠানামাকে যখন আবহাওয়ার মতো দেখা হয়, তখন সতর্কবাণী কোথাও গিয়ে আটকায় না। যারা বিশ্বাসই করে না যে তাদের পরীক্ষা চলছে, পরীক্ষায় ফেল করার কথা তারা কল্পনাও করতে পারে না।"
+          },
+          {
+            "en": "The Qur'an puts the same three words in another mouth. In 34:35 the affluent of a town tell their warner: we have more wealth and children, and we are not to be punished, word for word. The reply follows in 34:36 and 34:37: my Lord extends provision to whom He wills and restricts it, and it is not wealth or children that bring you near to Us. No commentary fetched for this verse cites that passage; it is set beside it here from the Qur'an itself.",
+            "bn": "কুরআন হুবহু এই তিনটি শব্দ আরেক দলের মুখেও তুলে দিয়েছে। ৩৪:৩৫ আয়াতে এক জনপদের বিত্তবানরা তাদের সতর্ককারীকে বলে: ধনসম্পদ আর সন্তানে আমরা বেশি, আর আমাদের শাস্তি দেওয়া হবে না। আরবিতে শেষ অংশটা অক্ষরে অক্ষরে এক। জবাব আসে ৩৪:৩৬ ও ৩৪:৩৭ আয়াতে: আমার রব যাকে চান রিজিক বাড়িয়ে দেন, যাকে চান কমিয়ে দেন। আর তোমাদের ধনসম্পদ বা সন্তান তোমাদের আমার কাছে পৌঁছে দেয় না। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর ওই অংশের কথা তোলেনি। কুরআনের নিজের পাঠ থেকেই এখানে দুটোকে পাশাপাশি রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Words in the Garden",
+          "bn": "জান্নাতেও একই তিন শব্দ"
+        },
+        "p": [
+          {
+            "en": "There is a third place where these exact words occur, and it changes how they sound. In 37:58 and 37:59, in a scene among the people of Paradise, they come again: are we then not to die, except for our first death, and we are not to be punished? The next verse, 37:60, answers: indeed, this is the great attainment. In the whole Qur'an the phrase appears in just these three places: here, in 34:35 and in 37:59.",
+            "bn": "এই শব্দগুলো হুবহু আরও এক জায়গায় এসেছে, আর সেখানে এর সুরটাই বদলে যায়। ৩৭:৫৮ ও ৩৭:৫৯ আয়াতে, জান্নাতবাসীদের এক দৃশ্যে, কথাটা আবার আসে: তাহলে আমাদের প্রথম মৃত্যুর পর আর মৃত্যু হবে না, আর আমাদের শাস্তিও দেওয়া হবে না? পরের আয়াত, ৩৭:৬০, জবাব দেয়: নিশ্চয়ই এটাই মহাসাফল্য। গোটা কুরআনে কথাটি এসেছে কেবল এই তিনটি জায়গায়: এখানে, ৩৪:৩৫ আয়াতে আর ৩৭:৫৯ আয়াতে।"
+          },
+          {
+            "en": "Set side by side, the three verses draw the line the story turns on. In the Garden the sentence describes what has already been given, after death and judgement, by the One who alone can give it. On the lips of 'Ad, and of the affluent in 34:35, it is a forecast they had no standing to make. Safety from punishment is real, but it is received, not declared in advance by the one to be judged.",
+            "bn": "তিনটি আয়াত পাশাপাশি রাখলে বোঝা যায় কাহিনিটা কোন সীমারেখার উপর দাঁড়িয়ে। জান্নাতে বাক্যটি বর্ণনা দেয় যা আগেই দেওয়া হয়ে গেছে, মৃত্যু আর বিচারের পরে, তাঁর পক্ষ থেকে যিনি একাই তা দিতে পারেন। ‘আদের মুখে, আর ৩৪:৩৫ আয়াতের বিত্তবানদের মুখে, সেই একই বাক্য হয়ে যায় ভবিষ্যদ্বাণী। অথচ এমন ভবিষ্যদ্বাণী করার কোনো অধিকার তাদের ছিল না। শাস্তি থেকে নিরাপত্তা সত্যিই আছে, তবে তা পাওয়ার জিনিস। যার বিচার হবে, সে আগেভাগে নিজে তা ঘোষণা করতে পারে না। তিনটি আয়াতের শিক্ষা এটাই।"
+          },
+          {
+            "en": "What became of 'Ad is told in the very next verse, 26:139: they denied him, so We destroyed them, and in that is a sign, though most of them were not believers. The manner of their end belongs to that verse and to the passages Ibn Kathir gathers there. No commentary fetched for this verse attaches a hadith to it, and none is offered here.",
+            "bn": "‘আদের পরিণতির কথা আছে ঠিক পরের আয়াতে, ২৬:১৩৯: তারা তাঁকে মিথ্যাবাদী বলল, ফলে আমি তাদের ধ্বংস করে দিলাম। এতে আছে নিদর্শন, তবে তাদের অধিকাংশই ঈমান আনেনি। তাদের শেষ কীভাবে হলো, সে আলোচনা ওই আয়াতের, আর ইবন কাসীর সেখানে যে আয়াতগুলো একত্র করেন তাদের। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানেও কোনো হাদীস আনা হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Disaster Read as Verdict",
+          "bn": "কোনো দুর্যোগকে রায় বানানো নয়"
+        },
+        "p": [
+          {
+            "en": "This must be said firmly. The verse reports what 'Ad said, and the next verse what became of them. It describes that people and that answer, and it licenses nothing against any living person or community. No one may point at a flood, an earthquake, a storm or an epidemic in our time and call it the punishment of the people it struck. The Qur'an named the end of 'Ad; it has named no one's in our day.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াতটি জানায় ‘আদ কী বলেছিল, আর পরের আয়াত জানায় তাদের কী হলো। আয়াত বর্ণনা করে ওই জাতি আর তাদের ওই জবাবের কথা। আজকের কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। আমাদের সময়ের কোনো বন্যা, ভূমিকম্প, ঝড় বা মহামারির দিকে আঙুল তুলে কাউকে বলার অধিকার এ আয়াত দেয় না যে এটা আক্রান্ত মানুষদের শাস্তি। ‘আদের পরিণতির কথা কুরআন নিজে বলে দিয়েছে। আমাদের কালের কারও পরিণতির কথা বলেনি।"
+          },
+          {
+            "en": "The misuse can run the other way as well. Just as no one may declare a stricken people punished, no one may declare himself or his own community safe; that is exactly the claim the verse records. The commentators trace 'Ad's words to custom, to the denial of a resurrection, or to blessings taken for proof. None of those is a sound basis for telling anyone, oneself included, that judgement will pass them by.",
+            "bn": "অপব্যবহার উল্টো দিক থেকেও হতে পারে। দুর্যোগে পড়া কোনো জাতিকে যেমন কেউ শাস্তিপ্রাপ্ত ঘোষণা করতে পারে না, তেমনি কেউ নিজেকে বা নিজের সম্প্রদায়কে নিরাপদ বলেও ঘোষণা দিতে পারে না। আয়াতটি ঠিক এই দাবিটাই তুলে ধরে। তাফসীরকারদের পাঠে ‘আদের কথার পেছনে ছিল তিনটির যেকোনো একটি: বাপ-দাদার রীতি, পুনরুত্থানের অস্বীকার, অথবা নিয়ামতকে প্রমাণ ধরে নেওয়া। এর কোনোটিই অন্য কাউকে, কিংবা নিজেকে, এ কথা বলার মজবুত ভিত্তি নয় যে বিচার তাকে পাশ কাটিয়ে যাবে।"
+          },
+          {
+            "en": "What the verse leaves the reader is an inward question. Nothing has happened is a feeling as old as 'Ad. A fault repeated without consequence begins to feel permitted, and a comfort that has lasted begins to feel earned. The verse does not ask anyone to live in dread. It asks that ease be received as a gift and delay as time given, and that the warning of a terrible day be heard as Hud meant it: from someone who feared for them.",
+            "bn": "আয়াতটি পাঠকের হাতে রেখে যায় ভেতরের এক প্রশ্ন। 'কিছুই তো হয়নি', এ অনুভূতি ‘আদের মতোই পুরোনো। যে ভুল বারবার করেও কোনো ফল ভুগতে হয়নি, এক সময় তাকে জায়েজ মনে হতে থাকে। যে আরাম অনেক দিন টিকে আছে, তাকে মনে হয় নিজের অর্জন। আয়াত কাউকে ভয়ে কুঁকড়ে থাকতে বলে না। বলে, আরামকে নিয়ামত হিসেবে নিন, আর দেরিকে সময়ের দান হিসেবে। আর ভয়াবহ দিনের সতর্কবাণী শুনুন সেভাবে, যেভাবে হূদ (আঃ) তা বলেছিলেন: এমন একজনের মুখ থেকে, যিনি তাদের জন্য ভয় পেতেন।"
+          }
+        ]
+      }
+    ]
+  },
   "26:142": {
     "sections": [
       {

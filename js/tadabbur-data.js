@@ -35557,6 +35557,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Strength is a trust, not a licence. When you must act against someone, act by right and with restraint: check before you strike, and leave room for pardon.",
     "lessonBn": "শক্তি আমানত, যা খুশি করার ছাড়পত্র নয়। কারও বিরুদ্ধে ব্যবস্থা নিতেই হলে হক মেনে সংযত থেকে নিন: আঘাতের আগে যাচাই করুন, আর মাফের জায়গা রাখুন।"
+  },
+  "26:138": {
+    "reflectionEn": "Hud had warned them of the punishment of a terrible day, and 'Ad answered in three words: and we are not to be punished. They did not argue with the warning; they simply ruled it out. Their herds had multiplied, their gardens were watered, their fathers had lived and died, and nothing had fallen on anyone. So the warning sounded empty. The very next verse tells what became of that certainty. The same quiet logic can settle in any heart: I have done this before and nothing happened, so nothing will. Ease gets read as approval, and delay as permission. The verse asks me to notice where I have stopped expecting to answer for anything.",
+    "reflectionBn": "হূদ (আঃ) তাদের এক ভয়াবহ দিনের শাস্তির কথা বলে সাবধান করেছিলেন। ‘আদ জবাব দিল তিন শব্দে: আমাদের শাস্তি দেওয়া হবে না। সতর্কবাণী নিয়ে তারা তর্কও করেনি, সোজা বাতিল করে দিয়েছে। পশুর পাল বেড়েছে, বাগানে পানি এসেছে, বাপ-দাদারা বেঁচে থেকে স্বাভাবিকভাবে মারা গেছে। কারও উপর কিছুই নেমে আসেনি। তাই সতর্কবাণীটা তাদের কানে ফাঁকা শোনাল। ঠিক পরের আয়াতেই আছে, সেই নিশ্চিন্তির শেষ কোথায় গিয়ে ঠেকল। এই নীরব যুক্তি যে কারও মনে বাসা বাঁধতে পারে: আগেও তো করেছি, কিছু হয়নি, এবারও হবে না। আরাম তখন মনে হয় সম্মতি, আর দেরি মনে হয় ছাড়পত্র। আয়াতটি আমাকে খুঁজে দেখতে বলে, কোথায় আমি জবাবদিহির কথা ভাবাই ছেড়ে দিয়েছি।",
+    "pointsEn": [
+      "Is there a habit I keep mainly because nothing has gone wrong yet?",
+      "When things go well for me, do I receive it as a gift to be thankful for, or as proof that I am in the right?",
+      "Which warning have I set aside, not by answering it, but by deciding it could never apply to me?",
+      "Do I hold to some practice only because those before me held to it, without asking whether it is right?",
+      "If I truly expected to answer for this week, what would I change first?"
+    ],
+    "pointsBn": [
+      "এমন কোনো অভ্যাস কি আছে, যা ধরে রেখেছি মূলত এ কারণে যে এখনো খারাপ কিছু ঘটেনি?",
+      "ভালো সময় এলে আমি কি তাকে শুকরিয়া আদায়ের মতো নিয়ামত হিসেবে নিই, নাকি ভাবি এটাই প্রমাণ যে আমি ঠিক পথে আছি?",
+      "কোন সতর্কবাণী আমি জবাব দিয়ে নয়, বরং 'এ আমার বেলায় খাটে না' ভেবে সরিয়ে রেখেছি?",
+      "কোনো রীতি কি শুধু এ কারণেই মেনে চলি যে আগের লোকেরা মানত, ঠিক কি না তা কখনো যাচাই না করে?",
+      "এ সপ্তাহের হিসাব সত্যিই দিতে হবে, এ কথা মনে গেঁথে নিলে আমি সবার আগে কী বদলাতাম?"
+    ],
+    "lessonEn": "Time without consequence is not a verdict in your favour. Do not take ease or delay as proof that you will never answer for what you do.",
+    "lessonBn": "কিছু ঘটেনি বলেই রায় আপনার পক্ষে গেছে, এমন নয়। আরাম বা দেরিকে এই প্রমাণ ভাববেন না যে নিজের কাজের হিসাব আপনাকে কখনো দিতে হবে না।"
   }
 };
 
