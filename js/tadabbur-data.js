@@ -37033,6 +37033,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Speed and numbers prove nothing. Before you join a crowd rushing at someone, ask what the anger is for; and when a crowd rushes at you, answer with a calm question.",
     "lessonBn": "গতি আর সংখ্যা কিছুই প্রমাণ করে না। কারও দিকে ছুটে চলা জনতায় ভেড়ার আগে জিজ্ঞেস করুন, রাগটা কিসের জন্য। আর জনতা যখন আপনার দিকে ছুটে আসে, শান্ত একটা প্রশ্ন দিয়ে জবাব দিন।"
+  },
+  "37:102": {
+    "reflectionEn": "A father finally has the son he prayed for, old enough now to walk beside him and share his work. Then a dream comes that he knows is a command. He does not act in secret, and he does not ask leave to obey. He tells his son plainly and asks what he thinks. The boy's answer never mentions the dream: do what you are commanded. Then he promises patience, but only if Allah wills, and only as one among the patient. Neither of them pretends this is easy, and neither turns away. When what Allah asks of me touches what I love most, do I hide from it, bargain with it, or face it honestly and lean on His will?",
+    "reflectionBn": "বহু দোয়ার পর পাওয়া ছেলে। এখন সে বাবার পাশে হাঁটতে পারে, কাজে হাত লাগাতে পারে। ঠিক তখন এক স্বপ্ন আসে, আর বাবা জানেন এটা আদেশ। তিনি গোপনে কিছু করেন না, আবার আদেশ মানার জন্য ছেলের অনুমতিও চান না। সোজাসুজি ছেলেকে জানান, তারপর জিজ্ঞেস করেন, তোমার কী মত? ছেলের জবাবে স্বপ্নের কথা নেই, আছে আদেশের কথা: আপনাকে যা আদেশ করা হচ্ছে, তা-ই করুন। তারপর সে ধৈর্যের কথা দেয়, তবে আল্লাহ চাইলে, আর ধৈর্যশীলদের একজন হয়ে। কেউই ভান করেন না যে কাজটা সহজ, আবার কেউই মুখ ফিরিয়ে নেন না। আল্লাহ যখন আমার সবচেয়ে প্রিয় জিনিসে হাত দিতে বলেন, আমি কি লুকাই, দরদাম করি, নাকি সৎভাবে মুখোমুখি হয়ে তাঁর ইচ্ছার উপর ভর করি?",
+    "pointsEn": [
+      "What do I hold so dear that I would struggle to let it go if Allah asked, and have I ever admitted that to myself?",
+      "When I must do something hard, do I tell the people it touches beforehand, so it does not fall on them without warning?",
+      "When I promise to stay steadfast, do I tie it to Allah's will, or speak as though my strength were my own?",
+      "Do I see myself as one of the patient, walking where many walked before me, or do I picture my trials as mine alone?",
+      "Have I ever used a dream, a feeling or a supposed sign to justify something that would hurt another person?"
+    ],
+    "pointsBn": [
+      "এমন কী আছে যা আমার এত প্রিয় যে আল্লাহ চাইলে ছেড়ে দিতে কষ্ট হতো? কথাটা কি কখনো নিজের কাছে স্বীকার করেছি?",
+      "কঠিন কোনো কাজ করতে হলে যাদের গায়ে তার আঁচ লাগবে, তাদের কি আগেই জানাই, যাতে হঠাৎ ঘাড়ে না পড়ে?",
+      "অটল থাকার কথা দেওয়ার সময় আমি কি তা আল্লাহর ইচ্ছার সঙ্গে বেঁধে দিই, নাকি এমনভাবে বলি যেন শক্তিটা আমার নিজের?",
+      "আমি কি নিজেকে ধৈর্যশীলদের একজন ভাবি, যাদের আগে বহু মানুষ এ পথে হেঁটেছে? নাকি ভাবি আমার পরীক্ষা শুধু আমারই?",
+      "কোনো স্বপ্ন, অনুভূতি বা তথাকথিত ইশারার দোহাই দিয়ে আমি কি কখনো এমন কিছুকে জায়েজ ভেবেছি, যাতে অন্য কেউ কষ্ট পাবে?"
+    ],
+    "lessonEn": "When obeying Allah touches what you love most, face it openly with those it affects, and promise patience only with 'if Allah wills', never as a boast of your own strength.",
+    "lessonBn": "আল্লাহর আদেশ যখন আপনার সবচেয়ে প্রিয় জিনিসে হাত দেয়, যাদের উপর এর প্রভাব পড়বে তাদের নিয়ে খোলাখুলি মুখোমুখি হোন। আর ধৈর্যের কথা দিন শুধু 'ইনশাআল্লাহ' বলে, নিজের শক্তির বড়াই করে নয়।"
   }
 };
 

@@ -5427,6 +5427,170 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "37:102": {
+    "sections": [
+      {
+        "h": {
+          "en": "Old Enough to Keep Pace",
+          "bn": "বাবার সঙ্গে চলার বয়স"
+        },
+        "p": [
+          {
+            "en": "Fa-lamma balagha ma'ahu as-sa'ya: and when he reached, with him, the age of striving. At-Tabari reads sa'y as work: the boy of the tidings reached, alongside Ibrahim (AS), the stage of labour, when he was able to help him in his work. He supports it from Ibn Abbas, who glosses the word simply as al-'amal, work, and from Mujahid, who says the boy grew until his effort matched Ibrahim's own effort in the work.",
+            "bn": "ফালাম্মা বালাগা মাআহুস সা'ইয়া: যখন সে তার সঙ্গে চলাফেরা ও খাটাখাটুনির বয়সে পৌঁছল। তাবারী সা'ইকে কাজ অর্থে নেন। সুসংবাদে পাওয়া ছেলেটি ইবরাহীম (আঃ)-এর পাশে থেকে খাটুনির বয়সে পৌঁছেছিল, অর্থাৎ বাবার কাজে হাত লাগানোর সামর্থ্য তার হয়েছিল। এর পক্ষে তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন, যিনি শব্দটির অর্থ বলেছেন সোজা 'আমল, মানে কাজ। আর মুজাহিদের কথা আনেন: ছেলেটি বড় হতে হতে তার খাটুনি ইবরাহীমের খাটুনির সমান হয়ে গিয়েছিল।"
+          },
+          {
+            "en": "Other early readers heard the word differently. Qatada, in at-Tabari, says it means he walked with his father; al-Baghawi gives the same from Ibn Abbas and Qatada, adding 'to the mountain'. Ibn Zayd takes sa'y here as worship. Al-Qurtubi adds that Ibn Abbas also read it as puberty, and that al-Hasan and Muqatil read it as the striving of the mind by which accountability is established. On his age, al-Farra' says thirteen; al-Baghawi gives thirteen, or seven.",
+            "bn": "প্রথম যুগের অন্যরা শব্দটি অন্যভাবে বুঝেছেন। তাবারীর বর্ণনায় কাতাদা বলেন, এর মানে, যখন সে বাবার সঙ্গে চলাফেরা করতে লাগল। বাগাভী ইবন আব্বাস (রাঃ) ও কাতাদা থেকে একই কথা আনেন, সঙ্গে যোগ করেন 'পাহাড়ের দিকে'। ইবন যায়দের মতে এখানে সা'ই মানে ইবাদত। কুরতুবী জানান, ইবন আব্বাস (রাঃ) একে বালেগ হওয়া অর্থেও নিয়েছেন। আর হাসান ও মুকাতিলের মতে এটা বুদ্ধির সেই পরিপক্বতা, যাতে মানুষের উপর দায় বর্তায়। বয়স নিয়ে ফাররা বলেন ১৩ বছর। বাগাভী বলেন ১৩, কারও মতে ৭ বছর।"
+          },
+          {
+            "en": "As-Sa'di draws out what the timing meant for a parent. This, he says, is the age at which a child is usually most beloved to his parents: the hardship of raising him has passed, and his benefit has begun. Ma'arif al-Qur'an reads the added words as pointing to how hard the test was: the command came when the son prayed for so earnestly could walk at his father's side, and the days when he would become his right arm were near.",
+            "bn": "বাবা-মায়ের কাছে এই সময়টার মানে কী, সাদী তা খুলে বলেন। সাধারণত এই বয়সেই সন্তান বাবা-মায়ের সবচেয়ে প্রিয় হয়ে ওঠে। লালনপালনের কষ্টের দিন পেরিয়ে গেছে, আর তার কাছ থেকে উপকার পাওয়ার দিন শুরু হয়েছে। মাআরিফুল কুরআন বলে, বাড়তি শব্দগুলো দেখায় পরীক্ষাটা কত কঠিন ছিল। এত দোয়া করে পাওয়া ছেলে যখন বাবার পাশে হাঁটতে পারে, আর বাবার ডান হাত হয়ে ওঠার দিন যখন দূরে নয়, ঠিক তখনই আদেশটা এল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where a Prophet's Dream Stands",
+          "bn": "নবীর স্বপ্নের মর্যাদা"
+        },
+        "p": [
+          {
+            "en": "Inni ara fil-manami anni adhbahuk: I see in sleep that I sacrifice you. The commentators stop here on what kind of dream this was. Ibn Kathir and at-Tabari both relay 'Ubayd ibn 'Umayr, of the generation after the Companions: the dreams of the prophets are revelation; then he recited this verse. Al-Bukhari records it in his Sahih (no. 138), at the end of a report on the Prophet's ﷺ night prayer: 'Amr said, 'I heard 'Ubayd ibn 'Umayr saying, the dream of the prophets is revelation,' and then he recited, I see in sleep that I sacrifice you.",
+            "bn": "ইন্নী আরা ফিল মানামি আন্নী আযবাহুক: আমি ঘুমে দেখছি যে আমি তোমাকে যবেহ করছি। এ স্বপ্ন কেমন স্বপ্ন ছিল, তাফসীরকারেরা এখানে থেমে সে কথা বলেন। ইবন কাসীর ও তাবারী দুজনেই সাহাবীদের পরের প্রজন্মের উবায়দ ইবন উমায়রের কথা আনেন: নবীদের স্বপ্ন ওহী। তারপর তিনি এই আয়াত তিলাওয়াত করেন। বুখারী তাঁর সহীহ গ্রন্থে (নং ১৩৮) নবী ﷺ-এর রাতের নামাযের এক বর্ণনার শেষে কথাটি এনেছেন। আমর বলেন, 'আমি উবায়দ ইবন উমায়রকে বলতে শুনেছি, নবীদের স্বপ্ন ওহী।' তারপর তিনি পড়লেন: আমি ঘুমে দেখছি যে আমি তোমাকে যবেহ করছি।"
+          },
+          {
+            "en": "These are 'Ubayd's own words, not the Prophet's ﷺ. At-Tabari adds Qatada: the dreams of the prophets are true; when they saw something in sleep, they did it. As-Sa'di, al-Muyassar and Ma'arif al-Qur'an each state the principle as settled, and al-Qurtubi gives it from Ibn Abbas, who drew it from this very verse. Ibn Kathir also relays, through Ibn Abi Hatim, a report on the same topic raised to the Prophet ﷺ, and notes that by that route it is in none of the six books. It is only mentioned here, and nothing is built on it.",
+            "bn": "কথাগুলো উবায়দের নিজের, নবী ﷺ-এর নয়। তাবারী কাতাদার কথাও আনেন: নবীদের স্বপ্ন সত্য, ঘুমে কিছু দেখলে তাঁরা তা করতেন। সাদী, মুয়াসসার ও মাআরিফুল কুরআন তিনটিই নীতিটিকে মীমাংসিত কথা হিসেবে বলে। কুরতুবী এটা আনেন ইবন আব্বাস (রাঃ) থেকে, যিনি এই আয়াত থেকেই দলিল নিয়েছেন। ইবন কাসীর ইবন আবী হাতিমের সূত্রে এ বিষয়ে নবী ﷺ পর্যন্ত পৌঁছানো একটি বর্ণনাও আনেন, আর জানিয়ে দেন যে এই সূত্রে এটা ছয়টি কিতাবের কোনোটিতে নেই। এখানে শুধু তার উল্লেখ থাকল, এর উপর কিছু দাঁড় করানো হচ্ছে না।"
+          },
+          {
+            "en": "Al-Qurtubi gives Muhammad ibn Ka'b's view that revelation reached the messengers awake and asleep, since the hearts of the prophets do not sleep. A sound narration touches that last point, though it is not attached to this verse: in al-Bukhari (no. 3569), 'A'isha asked whether he slept before praying witr, and the Prophet ﷺ said, 'My eyes sleep, but my heart does not sleep.' Muqatil, in al-Qurtubi and al-Baghawi, says Ibrahim (AS) saw the dream on three nights in a row; al-Baghawi adds that he told his son once he was certain.",
+            "bn": "কুরতুবী মুহাম্মাদ ইবন কা'বের মত আনেন: রাসূলদের কাছে ওহী আসত জাগরণে আর ঘুমে, কারণ নবীদের অন্তর ঘুমায় না। শেষ কথাটির সঙ্গে একটি সহীহ বর্ণনা মেলে, যদিও তা এই আয়াতের সঙ্গে যুক্ত নয়। বুখারীতে (নং ৩৫৬৯) আছে, আয়েশা (রাঃ) জিজ্ঞেস করেছিলেন, তিনি কি বিতর পড়ার আগে ঘুমিয়ে পড়েন? নবী ﷺ বললেন, 'আমার চোখ ঘুমায়, কিন্তু আমার অন্তর ঘুমায় না।' কুরতুবী ও বাগাভীর বর্ণনায় মুকাতিল বলেন, ইবরাহীম (আঃ) পরপর তিন রাতে তিনবার স্বপ্নটি দেখেছিলেন। বাগাভী যোগ করেন, নিশ্চিত হওয়ার পর তিনি ছেলেকে জানান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why a Dream, Not a Word",
+          "bn": "সরাসরি কথা নয়, স্বপ্ন কেন"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an, citing Tafsir Kabir, asks why the command came by dream at all, when an angel could have brought it directly. Its answer: a command seen in sleep leaves the self much room for interpretation and excuse, and Ibrahim (AS) took none of it. He bowed to his Lord's command without reinterpreting it and without hesitating. On this reading the form of the command was itself part of the trial, measuring obedience exactly where a lesser heart would have looked for a way out.",
+            "bn": "মাআরিফুল কুরআন তাফসীরে কাবীরের বরাতে প্রশ্ন তোলে, ফেরেশতা দিয়ে সরাসরি আদেশ পাঠানো যেত, তবু স্বপ্নে কেন? তার জবাব: ঘুমে দেখা আদেশে নফসের জন্য ব্যাখ্যা আর অজুহাতের অনেক জায়গা থাকে। ইবরাহীম (আঃ) তার কোনোটাই নেননি। কোনো ঘুরিয়ে ব্যাখ্যা ছাড়া, কোনো দ্বিধা ছাড়া তিনি রবের আদেশের সামনে মাথা নত করলেন। এ ব্যাখ্যায় আদেশের ধরনটাই পরীক্ষার অংশ। দুর্বল মন যেখানে পালানোর পথ খুঁজত, ঠিক সেখানেই আনুগত্য মাপা হলো।"
+          },
+          {
+            "en": "Ma'arif adds a second reason. The purpose, it says, was neither that the son actually be slaughtered nor that the slaughter be finally binding, but that Ibrahim (AS) do everything that leads to it. Spoken outright, such a command would have shown that the act itself was not intended, and the test would have gone. Shown in a dream, it was understood as slaughter and met in full. How the dream was fulfilled belongs to 37:105, and the ransom to 37:107.",
+            "bn": "মাআরিফ দ্বিতীয় একটি কারণও বলে। উদ্দেশ্য ছিল না যে ছেলেকে সত্যিই যবেহ করা হবে, কিংবা শেষ পর্যন্ত যবেহ করা বাধ্যতামূলক থাকবে। উদ্দেশ্য ছিল, ইবরাহীম (আঃ) যবেহ পর্যন্ত পৌঁছানোর প্রতিটি ধাপ নিজের দিক থেকে পূরণ করবেন। মুখে সরাসরি এমন আদেশ দিলে বোঝা যেত আসল কাজটা কাম্য নয়, তাতে পরীক্ষাই থাকত না। স্বপ্নে দেখানোয় তিনি একে যবেহ হিসেবেই বুঝলেন এবং পুরোপুরি প্রস্তুত হলেন। স্বপ্ন কীভাবে সত্য হলো, সে কথা ৩৭:১০৫ আয়াতের, আর মুক্তিপণের কথা ৩৭:১০৭ আয়াতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Told, Not Asked Leave",
+          "bn": "অনুমতি নয়, আগাম জানানো"
+        },
+        "p": [
+          {
+            "en": "Fa-nzur madha tara: so consider, what do you think? At-Tabari meets the obvious objection. Was Ibrahim (AS) consulting his son on whether to obey Allah? No, he answers. He asked so that he might know what resolve his son held, whether he would bear Allah's command as his father did, and so be glad of it; in every case he himself was going ahead with that command. Al-Qurtubi agrees that it was no deliberation over Allah's order, but a way to learn the son's patience.",
+            "bn": "ফানযুর মাযা তারা: এখন ভেবে দেখো, তোমার মত কী? তাবারী এখানে স্বাভাবিক আপত্তিটার জবাব দেন। ইবরাহীম (আঃ) কি আল্লাহর আদেশ মানবেন কি না, তা নিয়ে ছেলের সঙ্গে পরামর্শ করছিলেন? না। তিনি জানতে চাইছিলেন ছেলের মনে কতটা দৃঢ়তা আছে, বাবার মতো সেও আল্লাহর আদেশে ধৈর্য ধরবে কি না, যাতে তিনি খুশি হতে পারেন। যা-ই হোক, আদেশ পালনে তিনি এগিয়ে যেতেনই। কুরতুবীও বলেন, এটা আল্লাহর আদেশ নিয়ে শলাপরামর্শ ছিল না, ছিল ছেলের ধৈর্য জানার উপায়।"
+          },
+          {
+            "en": "The commentators also name what the telling did for the son. Ibn Kathir says Ibrahim (AS) told him to make it easier for him, and to test, while he was still young, his patience, endurance and resolve in obeying Allah and his father. Al-Qurtubi gives another aim: that his eye might be cooled by his son's obedience. Ma'arif al-Qur'an calls it a tender consultation, so the son would know Allah's command in advance and be ready, and any hesitation could still be talked through.",
+            "bn": "জানানোটা ছেলের জন্য কী করেছিল, তাফসীরকারেরা তাও বলেন। ইবন কাসীরের মতে ইবরাহীম (আঃ) জানিয়েছিলেন যাতে ছেলের জন্য ব্যাপারটা সহজ হয়। আর যাতে অল্প বয়সেই আল্লাহ ও বাবার আনুগত্যে তার ধৈর্য, সহনশীলতা আর দৃঢ়তা যাচাই হয়। কুরতুবী আরেকটি উদ্দেশ্য বলেন: ছেলের আনুগত্য দেখে বাবার চোখ জুড়াবে। মাআরিফুল কুরআন একে বলে স্নেহভরা পরামর্শ। ছেলে আগেই আল্লাহর আদেশ জেনে প্রস্তুত হবে, আর মনে কোনো দ্বিধা এলে তখনো বুঝিয়ে বলার সময় থাকবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Vowel, Two Questions",
+          "bn": "এক হরকতে দুই প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The recitations divide on one vowel. At-Tabari reports that most readers of Madina and Basra, with some of Kufa, read tara: what view do you take. Most readers of Kufa read turi: what do you advise, or what will you show of your patience or your alarm at being sacrificed. Al-Baghawi names Hamza and al-Kisa'i for turi; al-Qurtubi says the Kufans other than 'Asim. At-Tabari judges tara the sounder of the two, in the sense of the view one holds.",
+            "bn": "এখানে একটি হরকতে কিরাআত দুই ভাগ। তাবারী জানান, মদীনা ও বসরার বেশিরভাগ কারী, সঙ্গে কুফার কয়েকজন, পড়েছেন 'তারা': তোমার মত কী। কুফার বেশিরভাগ কারী পড়েছেন 'তুরী': তুমি কী পরামর্শ দাও, কিংবা যবেহের মুখে তুমি কতটা ধৈর্য বা অস্থিরতা দেখাবে। বাগাভী 'তুরী'-র কারী হিসেবে হামযা ও কিসাঈর নাম বলেন। কুরতুবী বলেন, আসিম ছাড়া কুফার কারীরা। তাবারীর বিচারে দুটির মধ্যে 'তারা' বেশি সঠিক, মানে নিজের মত।"
+          },
+          {
+            "en": "Al-Qurtubi records the grammarians' dispute over turi. Al-Farra' glossed it as what you will show of your patience and alarm; az-Zajjaj said no one else had said so, and that scholars took it as what do you advise. Abu 'Ubayd rejected turi, holding that the form belongs only to sight, and Abu Hatim agreed. An-Nahhas called that a mistake, since one says araytu fulanan as-sawab, I showed him what is right. On either reading the father is drawing out his son's own heart.",
+            "bn": "'তুরী' নিয়ে ব্যাকরণবিদদের বিতর্ক কুরতুবী তুলে ধরেন। ফাররা এর ব্যাখ্যা করেন: তুমি কতটা ধৈর্য আর অস্থিরতা দেখাবে। যাজ্জাজ বলেন, তিনি ছাড়া আর একজনও এ কথা বলেননি। আলেমরা এর মানে নিয়েছেন, তুমি কী পরামর্শ দাও। আবু উবায়দ 'তুরী' পড়া মানেননি। তাঁর মতে এ রূপ কেবল চোখে দেখার বেলায় চলে, আবু হাতিমও তাঁর সঙ্গে একমত। নাহহাস একে ভুল বলেন, কারণ আরবিতে বলা হয়, আমি অমুককে সঠিক পথ দেখালাম, যা চোখে দেখার ব্যাপার নয়। যে পাঠই ধরুন, বাবা ছেলের মনের কথাটাই বের করে আনছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Answer About the Command",
+          "bn": "স্বপ্নের নয়, আদেশের জবাব"
+        },
+        "p": [
+          {
+            "en": "Ya abati if'al ma tu'mar: O my father, do what you are commanded. Ibn Kathir glosses it as: go ahead with what Allah has commanded you, my sacrifice. At-Tabari's gloss is close: do what your Lord commands you. Al-Muyassar describes the son as speaking to please his Lord, dutiful to his father and helping him obey Allah, and as-Sa'di uses nearly the same words, adding that he spoke patiently and seeking the reward. The son is not giving way to his father; he is joining him.",
+            "bn": "ইয়া আবাতিফ আল মা তু'মার: হে আমার বাবা, আপনাকে যা আদেশ করা হচ্ছে, তা-ই করুন। ইবন কাসীর এর ব্যাখ্যা করেন: আল্লাহ আপনাকে আমাকে যবেহ করার যে আদেশ দিয়েছেন, তা পালন করুন। তাবারীর ব্যাখ্যাও কাছাকাছি: আপনার রব যা আদেশ করছেন, তা-ই করুন। মুয়াসসার বলে, ছেলে কথাটা বলেছিল রবকে খুশি করতে, বাবার প্রতি অনুগত থেকে, আর আল্লাহর আনুগত্যে বাবাকে সাহায্য করতে। সাদীও প্রায় একই কথা বলেন, সঙ্গে যোগ করেন, সে বলেছিল ধৈর্য নিয়ে, সওয়াবের আশায়। ছেলে এখানে বাবার কাছে হার মানছে না, বাবার পাশে দাঁড়াচ্ছে।"
+          },
+          {
+            "en": "The grammar is lean. At-Tabari notes that it says ma tu'mar, what you are commanded, not ma tu'maru bihi, what you are commanded with, because the sense is the command that you are given. Al-Qurtubi explains it as a preposition dropped, the verb then reaching the pronoun, which in turn falls away, with ma meaning 'that which'.",
+            "bn": "বাক্যের গঠন একেবারে ছিমছাম। তাবারী লক্ষ করেন, এখানে বলা হয়েছে 'মা তু'মার', যা আপনাকে আদেশ করা হচ্ছে। 'মা তু'মারু বিহী' বলা হয়নি, কারণ অর্থ হলো আপনাকে যে আদেশ দেওয়া হয়েছে। কুরতুবী ব্যাখ্যা করেন, এখানে একটি অব্যয় বাদ পড়েছে। তাতে ক্রিয়া সরাসরি সর্বনামে গিয়ে মিলেছে, পরে সর্বনামটিও ঝরে গেছে, আর 'মা' মানে 'যা'।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an notices what the son left out. His father had spoken only of a dream; the son answered with a command. He understood, it says, that a prophet's dream is revelation, and that this dream was in truth an order from Allah. Ma'arif draws from this a point against those who accept no revelation beyond the recited Book: the command came through a dream, the son called it Allah's command in plain words, and no scripture contains it.",
+            "bn": "ছেলে কী বলেনি, মাআরিফুল কুরআন সেদিকে নজর দেয়। বাবা বলেছিলেন শুধু স্বপ্নের কথা, ছেলে জবাব দিল আদেশের কথা বলে। মাআরিফের মতে সে বুঝেছিল, নবীর স্বপ্ন ওহী, আর এই স্বপ্ন আসলে আল্লাহরই আদেশ। এ থেকে মাআরিফ তাদের বিরুদ্ধে যুক্তি দাঁড় করায়, যারা তিলাওয়াত করা কিতাবের বাইরে আর কোনো ওহী মানে না। আদেশটা এসেছিল স্বপ্নে, ছেলে স্পষ্ট ভাষায় একে আল্লাহর আদেশ বলল, অথচ কোনো কিতাবে তা লেখা নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Patience Placed in His Will",
+          "bn": "ধৈর্য তাঁর ইচ্ছার হাতে"
+        },
+        "p": [
+          {
+            "en": "Satajiduni in sha'a Allahu mina s-sabirin: you will find me, if Allah wills, among the patient. Ibn Kathir glosses it: I will be patient and seek the reward for it with Allah. As-Sa'di says the son told his father he had settled himself on patience, and tied it to Allah's will, because nothing comes to be without His will. Al-Qurtubi relays a remark from some of the people of spiritual allusion: because he made that exception, Allah granted him patience.",
+            "bn": "সাতাজিদুনী ইন শা আল্লাহু মিনাস সাবিরীন: আল্লাহ চাইলে আপনি আমাকে ধৈর্যশীলদের একজন পাবেন। ইবন কাসীরের ব্যাখ্যা: আমি ধৈর্য ধরব আর আল্লাহর কাছে এর সওয়াব আশা করব। সাদী বলেন, ছেলে বাবাকে জানাল, সে মনকে ধৈর্যের জন্য তৈরি করে নিয়েছে। আর কথাটা জুড়ে দিল আল্লাহর ইচ্ছার সঙ্গে, কারণ তাঁর ইচ্ছা ছাড়া কিছুই ঘটে না। কুরতুবী ইশারার পথের কিছু আলেমের একটি মন্তব্য আনেন: ছেলে যেহেতু ইনশাআল্লাহ বলেছিল, আল্লাহ তাকে ধৈর্যের তাওফীক দিলেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an, citing Ruh al-Ma'ani, reads two courtesies into the sentence. In sha'a Allah hands the matter to Allah and removes any trace of a boast from the promise. And the son did not say 'you will find me patient' but 'among the patient', as if patience were not his feat alone but a company of many he hoped to join. Ma'arif's lesson: however confident one is, avoid claims that smack of pride, and choose words that show trust in Allah.",
+            "bn": "মাআরিফুল কুরআন রূহুল মাআনীর বরাতে এ বাক্যে দুটি আদব খুঁজে পায়। ইনশাআল্লাহ বলে ছেলে বিষয়টা আল্লাহর হাতে সঁপে দিল, ফলে প্রতিশ্রুতিতে বড়াইয়ের ছিটেফোঁটাও রইল না। আর সে বলেনি 'আপনি আমাকে ধৈর্যশীল পাবেন', বলেছে 'ধৈর্যশীলদের একজন পাবেন'। যেন ধৈর্য তার একার কৃতিত্ব নয়, বরং অনেকের এক কাফেলা, যাতে সে শামিল হতে চায়। মাআরিফের শিক্ষা: নিজের উপর যত ভরসাই থাকুক, অহংকারের গন্ধ আছে এমন দাবি এড়িয়ে চলুন, আর এমন শব্দ বাছুন যাতে আল্লাহর উপর ভরসা ফুটে ওঠে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Isma'il or Ishaq, Both Recorded",
+          "bn": "ইসমাঈল না ইসহাক, দুই মতই বর্ণিত"
+        },
+        "p": [
+          {
+            "en": "The verse does not name the son, and the commentators divide. At-Tabari, in his gloss on this verse, names him Ishaq, and relays as-Suddi's account that Ibrahim (AS) had vowed to offer to Allah the son promised through Sara. Ibn Kathir, as-Sa'di and al-Muyassar name him Isma'il. Ibn Kathir adds that he was true to his promise, citing 19:54 and 19:55, where Isma'il (AS) is praised for exactly that.",
+            "bn": "আয়াতে ছেলের নাম নেই, আর তাফসীরকারেরা এখানে দুই ভাগ। তাবারী এ আয়াতের ব্যাখ্যায় তাঁর নাম বলেন ইসহাক। সঙ্গে সুদ্দীর বর্ণনা আনেন যে সারার গর্ভে প্রতিশ্রুত ছেলেকে আল্লাহর জন্য কুরবানি করার মানত করেছিলেন ইবরাহীম (আঃ)। ইবন কাসীর, সাদী ও মুয়াসসার নাম বলেন ইসমাঈল। ইবন কাসীর যোগ করেন, তিনি প্রতিশ্রুতি রক্ষা করেছিলেন। প্রমাণ হিসেবে আনেন ১৯:৫৪ ও ১৯:৫৫, যেখানে ইসমাঈল (আঃ)-এর প্রশংসা ঠিক এ কারণেই।"
+          },
+          {
+            "en": "Al-Qurtubi lays out both lists. Most, he says, held it was Ishaq, naming among others al-'Abbas, Ibn Mas'ud and 'Umar, and an-Nahhas and at-Tabari chose it. Others held it was Isma'il, among them Abu Hurayra and Abu at-Tufayl, with Sa'id ibn al-Musayyib and Muhammad ibn Ka'b al-Qurazi in the next generation. Az-Zajjaj said Allah knows best which of them it was, a third position. Al-Baghawi says both views are narrated from the Prophet ﷺ; those reports were not confirmed here and are only mentioned.",
+            "bn": "কুরতুবী দুই পক্ষের তালিকাই দেন। তাঁর ভাষায় বেশিরভাগ বলেছেন ইসহাক। তাঁদের মধ্যে আব্বাস (রাঃ), ইবন মাসঊদ (রাঃ) ও উমার (রাঃ)-এর নাম আছে, আর নাহহাস ও তাবারী এ মত বেছে নিয়েছেন। অন্যরা বলেছেন ইসমাঈল। তাঁদের মধ্যে আবু হুরায়রা (রাঃ) ও আবুত তুফায়ল (রাঃ), আর পরের প্রজন্মে সাঈদ ইবনুল মুসায়্যিব ও মুহাম্মাদ ইবন কা'ব কুরাযী। যাজ্জাজ বলেন, দুজনের কে, তা আল্লাহই ভালো জানেন। এটা তৃতীয় মত। বাগাভী বলেন, দুই মতই নবী ﷺ থেকে বর্ণিত। সেসব বর্ণনা এখানে যাচাই করা যায়নি, তাই শুধু উল্লেখ থাকল।"
+          },
+          {
+            "en": "Al-Qurtubi weighs the Isma'il side's arguments and calls them not decisive, while Ibn Kathir holds Isma'il correct. This article takes neither side. The dispute is set out more fully under 37:112. The verse at hand carries its meaning either way: a father told his son, the son answered him, and in 37:103 both of them submit.",
+            "bn": "কুরতুবী ইসমাঈল-পক্ষের যুক্তিগুলো যাচাই করে বলেন, এগুলো চূড়ান্ত নয়। অন্যদিকে ইবন কাসীরের মতে ইসমাঈলই সঠিক। এই লেখা কোনো পক্ষ নিচ্ছে না। বিতর্কটা আরও বিস্তারিত আছে ৩৭:১১২ আয়াতের আলোচনায়। আয়াতের অর্থ যে মতেই হোক একই থাকে: বাবা ছেলেকে জানালেন, ছেলে জবাব দিল, আর ৩৭:১০৩ আয়াতে দুজনেই আত্মসমর্পণ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What No Reader May Take",
+          "bn": "এ থেকে যা নেওয়া যায় না"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes a command given to a prophet by revelation, which Allah Himself ended with a ransom in 37:107. It licenses no one to harm a child, and no one to act on a dream, a feeling or a voice to hurt any person. The commentators' whole reading rests on the dreams of prophets being revelation. No one else's dream carries a command, and what Allah asks of everyone else is known from the Qur'an and the Sunnah.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি এক নবীর কাছে ওহীর মাধ্যমে আসা এক আদেশের বর্ণনা দেয়, যার শেষ আল্লাহ নিজেই টেনেছেন ৩৭:১০৭ আয়াতের মুক্তিপণ দিয়ে। এ আয়াত কাউকে কোনো শিশুর ক্ষতি করার অনুমতি দেয় না। স্বপ্ন, অনুভূতি বা কোনো আওয়াজের দোহাই দিয়ে কাউকে আঘাত করারও অনুমতি দেয় না। তাফসীরকারদের পুরো ব্যাখ্যা দাঁড়িয়ে আছে এই কথার উপর যে নবীদের স্বপ্ন ওহী। অন্য কারও স্বপ্ন কোনো আদেশ বহন করে না। বাকি সবার কাছে আল্লাহ কী চান, তা জানা যায় কুরআন ও সুন্নাহ থেকে।"
+          },
+          {
+            "en": "Nor does the verse show a harsh father or a coerced child. The commentators who explain the father's question read it as care for his son and a way to know his resolve, and the son's answer as his own. The question of which son it was is a question among Muslim scholars about a text. It licenses nothing against any Jewish or Christian person or community, and no contempt for anyone on either side of it. What the scene asks of a reader is obedience joined to tenderness.",
+            "bn": "আয়াতে কোনো নিষ্ঠুর বাবা বা জোর করে রাজি করানো সন্তানের ছবিও নেই। যেসব তাফসীর বাবার প্রশ্নের কারণ ব্যাখ্যা করে, সেগুলো একে দেখে ছেলের প্রতি মমতা আর তার দৃঢ়তা জানার উপায় হিসেবে। আর ছেলের জবাবকে দেখে তার নিজের জবাব হিসেবে। কোন ছেলে, এ প্রশ্নটা একটি পাঠ নিয়ে মুসলিম আলেমদের মধ্যকার প্রশ্ন। এটা কোনো ইহুদি বা খ্রিস্টান ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি দেয় না, আর কোনো পক্ষের কাউকে তুচ্ছ করারও না। দৃশ্যটি পাঠকের কাছে চায় আনুগত্য, আর তার সঙ্গে মমতা।"
+          }
+        ]
+      }
+    ]
+  },
   "37:105": {
     "sections": [
       {
