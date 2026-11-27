@@ -37793,6 +37793,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Ease and long years are a respite, not a sign of approval; when the truth is made clear, answer it instead of resting on comfort or on what your fathers did.",
     "lessonBn": "আরাম আর দীর্ঘ জীবন অবকাশ মাত্র, সন্তুষ্টির সনদ নয়। সত্য যখন স্পষ্ট হয়ে আসে, তখন আরাম বা বাপ-দাদার রীতির উপর ভর না দিয়ে সে সত্যে সাড়া দিন।"
+  },
+  "43:15": {
+    "reflectionEn": "The verses before this one set out the favours in order: the earth spread out, rain sent down in measure, the pairs of creation, ships and animals to ride, and the words to say once seated. Then comes the turn. The same people who admit that Allah created the heavens and the earth give Him a share of what He made, calling some of His servants His offspring. The verse names the root at once: man is plainly ungrateful. Ingratitude here is more than a missing thank you. It is thinking of Allah in a way that does not befit Him, and forgetting the gift while remembering the loss. Where does my picture of Allah come from: His word, or my own wishes?",
+    "reflectionBn": "এর আগের আয়াতগুলো একটার পর একটা নিয়ামত সাজিয়ে দেখায়। বিছানো জমিন, মেপে নামানো বৃষ্টি, সৃষ্টির জোড়া, চড়ার জন্য নৌকা আর পশু, আর পিঠে বসে পড়ার দোয়া। তারপরই মোড় ঘোরে। যারা মানে যে আসমান-জমিন আল্লাহই সৃষ্টি করেছেন, তারাই তাঁর সৃষ্টির একাংশকে তাঁর ভাগ বানিয়ে দেয়। তাঁর কিছু বান্দাকে বলে তাঁর সন্তান। আয়াতটি সঙ্গে সঙ্গে গোড়ার কথাটা বলে দেয়: মানুষ স্পষ্টই অকৃতজ্ঞ। এখানে অকৃতজ্ঞতা শুধু শুকরিয়া না বলা নয়। আল্লাহর ব্যাপারে এমন ধারণা রাখা, যা তাঁর শান নয়, সেটাও অকৃতজ্ঞতা। নিয়ামত ভুলে গিয়ে কেবল লোকসান মনে রাখাও তাই। আল্লাহকে আমি যেভাবে ভাবি, সে ছবি কোথা থেকে আসে: তাঁর কালাম থেকে, নাকি আমার নিজের মনের চাওয়া থেকে?",
+    "pointsEn": [
+      "When I go over my day, do the losses come to mind before the favours, and which of the two lists do I say aloud?",
+      "Have I ever spoken about Allah, His will or His reasons, with more confidence than knowledge?",
+      "What did I ride, use or eat today without once remembering who made it serve me?",
+      "The people this verse rebukes treated daughters as the lesser share. Is there any trace of that in how I speak of a daughter or greet her birth?",
+      "Where do I praise Allah with my tongue but give something else His place of trust in my heart?"
+    ],
+    "pointsBn": [
+      "দিনের হিসাব মেলাতে বসলে আগে কোনটা মনে আসে, লোকসান না নিয়ামত? আর দুটো তালিকার কোনটা আমি মুখে বলি?",
+      "আল্লাহর ইচ্ছা বা তাঁর কাজের কারণ নিয়ে আমি কি কখনো জানার চেয়ে বেশি জোর দিয়ে কথা বলেছি?",
+      "আজ কোন বাহনে চড়েছি, কী ব্যবহার করেছি, কী খেয়েছি, অথচ একবারও মনে করিনি কে এগুলো আমার বশে এনে দিয়েছেন?",
+      "এ আয়াত যাদের ভর্ৎসনা করে, তারা মেয়েকে ছোট ভাগ মনে করত। মেয়ের কথা বলতে বা তার জন্মের খবর পেয়ে আমার আচরণে কি সেই মনোভাবের কোনো ছাপ আছে?",
+      "মুখে আমি আল্লাহর প্রশংসা করি, কিন্তু অন্তরে ভরসার জায়গাটা কি অন্য কিছুকে দিয়ে রেখেছি?"
+    ],
+    "lessonEn": "Think of Allah only as He has described Himself, and answer His countless favours with thanks, not with complaints that forget them.",
+    "lessonBn": "আল্লাহকে কেবল সেভাবেই ভাবুন, যেভাবে তিনি নিজের পরিচয় দিয়েছেন। আর তাঁর অগণিত নিয়ামতের জবাব দিন শুকরিয়া দিয়ে, নিয়ামত ভুলে যাওয়া অভিযোগ দিয়ে নয়।"
   }
 };
 

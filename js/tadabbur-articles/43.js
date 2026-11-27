@@ -759,6 +759,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "43:15": {
+    "sections": [
+      {
+        "h": {
+          "en": "Thanks Taught, Then a Portion",
+          "bn": "শুকরিয়ার পাঠ, তারপর ভাগ"
+        },
+        "p": [
+          {
+            "en": "Wa ja'alu lahu min 'ibadihi juz'an: and they assigned to Him, from His servants, a portion. The verse arrives straight after a run of favours. In 43:9 the associators admit that the Mighty, the Knowing created the heavens and the earth. Then 43:10 to 43:12 count the earth laid out, rain sent down in measure, the pairs of creation, ships and livestock to ride, and 43:13 and 43:14 give the rider words of glory and of return. Then a single wa turns the passage around.",
+            "bn": "ওয়া জা'আলূ লাহূ মিন 'ইবাদিহী জুয'আন: আর তারা তাঁর বান্দাদের মধ্য থেকে তাঁর জন্য একটা অংশ ঠিক করে নিল। আয়াতটি আসে একের পর এক নিয়ামতের বর্ণনার ঠিক পরে। ৪৩:৯ আয়াতে মুশরিকরা নিজেরাই মানে, আসমান ও জমিন সৃষ্টি করেছেন মহাপরাক্রমশালী, মহাজ্ঞানী। ৪৩:১০ থেকে ৪৩:১২ গুনিয়ে দেয় বিছানো জমিন, মেপে নামানো বৃষ্টি, সৃষ্টির জোড়া, চড়ার নৌকা আর পশু। ৪৩:১৩ ও ৪৩:১৪ আরোহীকে শেখায় তাসবীহ আর প্রত্যাবর্তনের কথা। তারপর ছোট্ট একটা ওয়া দিয়ে পুরো আলোচনার দিক ঘুরে যায়।"
+          },
+          {
+            "en": "Al-Qurtubi, in a passage he quotes from az-Zamakhshari, ties the verse back to 43:9. If you ask them about the Creator of the heavens and the earth, they will acknowledge Him; and yet, along with that acknowledgement, they have assigned Him a portion of His servants, and so described Him with the attributes of created things. The confession and the claim come from one mouth. The surah has just taught a believer to meet a favour with subhana, glory to Him. Here it reports a people who met the same favours with a portion.",
+            "bn": "কুরতুবী এখানে যামাখশারীর একটি বক্তব্য উদ্ধৃত করেন, যা আয়াতটিকে ৪৩:৯-এর সঙ্গে জুড়ে দেয়। আসমান-জমিনের স্রষ্টা কে, তাদের জিজ্ঞেস করলে তারা তাঁকে স্বীকার করবেই। অথচ সেই স্বীকৃতির পাশাপাশিই তারা তাঁর বান্দাদের একাংশকে তাঁর অংশ বানিয়েছে, আর এভাবে তাঁকে সৃষ্টির গুণে গুণান্বিত করেছে। স্বীকারোক্তি আর দাবি, দুটোই বেরোচ্ছে একই মুখ থেকে। সূরাটি এইমাত্র মুমিনকে শিখিয়েছে, নিয়ামত পেলে বলো সুবহানা, পবিত্র তিনি। আর এখানে শোনায় এমন লোকদের কথা, যারা একই নিয়ামতের জবাব দিল আল্লাহর জন্য ভাগ বানিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Assigned by Saying So",
+          "bn": "মুখের কথায় বণ্টন"
+        },
+        "p": [
+          {
+            "en": "Ja'alu does not mean they produced anything. Al-Baghawi explains the verb here as hukm, ruling on a thing, and qawl, saying it, as in the sentence ja'altu Zaydan afdala an-nas: I made Zayd the best of people, meaning I described him so and declared it. Nothing in the world changed when they spoke. A share was carved out only in their speech. That matters for what follows, because a claim made by saying can be answered by asking where the saying came from.",
+            "bn": "জা'আলূ মানে এখানে কিছু তৈরি করা নয়। বাগাভী বলেন, এ ক্রিয়ার অর্থ এখানে হুকুম আর কওল, অর্থাৎ কোনো কিছুর ব্যাপারে রায় দেওয়া ও তা বলা। যেমন কেউ বলে জা'আলতু যাইদান আফদালান নাস, আমি যায়েদকে মানুষের মধ্যে শ্রেষ্ঠ বানালাম। মানে, তাকে এমন বলে বর্ণনা করলাম আর সেই রায় দিলাম। তাদের কথায় দুনিয়ার কিছুই বদলায়নি। ভাগটা কাটা হয়েছে শুধু তাদের মুখে। পরের আলোচনার জন্য কথাটা জরুরি। যে দাবি কেবল বলার মাধ্যমে তৈরি, তার জবাবে প্রশ্ন করা যায়: এ কথা এল কোথা থেকে?"
+          },
+          {
+            "en": "What, then, did they assign? At-Tabari's gloss is that these associators made for Allah, out of His creation, a nasib, a share, and that this was their saying of the angels that they are the daughters of Allah. The Muyassar repeats the same sentence almost word for word. Al-Baghawi gives the noun two glosses together, nasib and ba'd, a share and a part. Notice where the verse locates that share: min 'ibadihi, from His servants. The thing they handed to Him as His own was already named, in the same breath, as His servants.",
+            "bn": "তাহলে তারা কী বণ্টন করল? তাবারীর ব্যাখ্যা: এই মুশরিকরা আল্লাহর সৃষ্টির মধ্য থেকে তাঁর জন্য একটা নাসীব, অর্থাৎ ভাগ ঠিক করেছিল। আর সেটা হলো ফেরেশতাদের সম্পর্কে তাদের এই কথা যে, তারা আল্লাহর কন্যা। মুয়াসসার প্রায় হুবহু একই বাক্য বলে। বাগাভী শব্দটির দুটি অর্থ একসঙ্গে দেন: নাসীব আর বা'দ, ভাগ আর অংশ। খেয়াল করুন, আয়াত ভাগটাকে কোথা থেকে নেওয়া বলছে: মিন 'ইবাদিহী, তাঁর বান্দাদের মধ্য থেকে। যাদেরকে তারা আল্লাহর নিজস্ব অংশ বানাল, আয়াত একই নিঃশ্বাসে তাদের নাম দিয়েছে তাঁর বান্দা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Daughters, or an Equal?",
+          "bn": "কন্যা, নাকি সমকক্ষ?"
+        },
+        "p": [
+          {
+            "en": "The early commentators did not agree on what juz' points to. At-Tabari, after giving his own gloss, says the people of interpretation spoke along the same lines, and he brings Mujahid, who said: a child, and daughters, from among the angels. From as-Suddi he brings a single word: the daughters. On this reading the portion is the angels, declared to be Allah's daughters, and the verse opens the subject that 43:16 to 43:19 go on to press.",
+            "bn": "জুয' দিয়ে ঠিক কী বোঝানো হয়েছে, প্রথম যুগের মুফাসসিররা তাতে একমত হননি। তাবারী নিজের ব্যাখ্যা দিয়ে বলেন, তাফসীরকারেরা এভাবেই বলেছেন। প্রমাণে আনেন মুজাহিদকে, যিনি বলেছেন: সন্তান, ফেরেশতাদের মধ্য থেকে কন্যা। সুদ্দী থেকে আনেন একটিমাত্র শব্দ: কন্যারা। এই ব্যাখ্যায় অংশটা হলো ফেরেশতারা, যাদেরকে আল্লাহর কন্যা বলে ঘোষণা করা হয়েছিল। আর আয়াতটি সেই প্রসঙ্গের সূচনা করে, যা ৪৩:১৬ থেকে ৪৩:১৯ আরও জোর দিয়ে এগিয়ে নেয়।"
+          },
+          {
+            "en": "Then at-Tabari adds: others said that juz' here means 'adl, an equal. He gives it from Qatadah through two chains, in the same two words both times: that is, an equal. Al-Qurtubi puts Qatadah's gloss first in his own entry and explains what it refers to: whatever was worshipped besides Allah. On this reading the portion is a partner set beside Him, a rival given a share of His worship, rather than a child ascribed to Him. Neither at-Tabari nor al-Qurtubi argues the second reading away.",
+            "bn": "তারপর তাবারী যোগ করেন: অন্যরা বলেছেন, এখানে জুয' মানে 'আদল, অর্থাৎ সমকক্ষ। কথাটি তিনি কাতাদা থেকে দুটি সনদে আনেন, দুবারই একই দুই শব্দে: অর্থাৎ সমকক্ষ। কুরতুবী নিজের আলোচনায় কাতাদার এ ব্যাখ্যাই প্রথমে রাখেন এবং বুঝিয়ে দেন এর লক্ষ্য কী: আল্লাহকে ছেড়ে যার যার ইবাদত করা হয়েছে। এই ব্যাখ্যায় অংশটা আল্লাহর প্রতি আরোপিত কোনো সন্তান নয়। বরং তাঁর পাশে দাঁড় করানো এক শরীক, যাকে তাঁর ইবাদতের ভাগ দেওয়া হয়েছে। তাবারী বা কুরতুবী কেউই দ্বিতীয় ব্যাখ্যাটি খণ্ডন করেননি।"
+          },
+          {
+            "en": "Ibn Kathir reads the verse beside two others, one about partners and one about daughters. He begins with 6:136, where the associators set aside for Allah a share of the crops and livestock He created and another share for their partners. Then he adds that in the same way, of the two kinds of offspring, sons and daughters, they assigned to Him daughters, citing 53:21 and 53:22: is the male for you and for Him the female? That, then, is an unjust division. Read either way, the verse condemns the same act: dividing up for Him what is wholly His.",
+            "bn": "ইবন কাসীর আয়াতটি পড়েন আরও দুটি আয়াতের পাশে রেখে, একটি শরীক নিয়ে, অন্যটি কন্যা নিয়ে। তিনি শুরু করেন ৬:১৩৬ দিয়ে। সেখানে মুশরিকরা আল্লাহর সৃষ্টি করা ফসল আর গবাদিপশু থেকে একটা ভাগ রাখত আল্লাহর জন্য, আরেকটা ভাগ নিজেদের শরীকদের জন্য। তারপর বলেন, একইভাবে সন্তানের দুই ধরন, ছেলে আর মেয়ের মধ্যে তারা আল্লাহর জন্য রাখল মেয়েদের। প্রমাণ দেন ৫৩:২১ ও ৫৩:২২ দিয়ে: তোমাদের জন্য পুত্র আর তাঁর জন্য কন্যা? তাহলে তো এটা বড়ই অন্যায় বণ্টন। যে ব্যাখ্যাই ধরা হোক, আয়াত একই কাজের নিন্দা করে: যা পুরোপুরি তাঁর, তাকেই ভাগ করে তাঁকে একটা অংশ দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word the Lexicographers Contested",
+          "bn": "একটি শব্দ নিয়ে ভাষাবিদদের বিরোধ"
+        },
+        "p": [
+          {
+            "en": "A second dispute concerns the word itself. Al-Qurtubi relays from az-Zajjaj and al-Mubarrad that juz' here means the daughters, and from al-Mawardi that, among the scholars of Arabic, juz' is the name for daughters. Al-Mawardi supports this with a verb, ajza'at al-mar'a, said of a woman when she bore daughters, and with a line of poetry: if a woman bears daughters one day, it is no wonder, for a free-born mother of sons sometimes bears daughters too.",
+            "bn": "দ্বিতীয় বিরোধ শব্দটি নিয়েই। কুরতুবী যাজ্জাজ ও মুবাররাদ থেকে বর্ণনা করেন যে, এখানে জুয' মানে কন্যারা। আর মাওয়ার্দী থেকে বর্ণনা করেন, আরবি ভাষাবিদদের কাছে জুয' কন্যাদেরই নাম। মাওয়ার্দী এর পক্ষে একটি ক্রিয়াপদ দেখান: আজযা'আতিল মার'আহ, অর্থাৎ নারীটি কন্যা জন্ম দিল। সঙ্গে একটি কবিতার চরণও আনেন: কোনো নারী যদি কোনোদিন কন্যা জন্ম দেয়, তাতে আশ্চর্যের কিছু নেই। পুত্রসন্তানের সম্ভ্রান্ত মা-ও কখনো কখনো কন্যা জন্ম দেন।"
+          },
+          {
+            "en": "Al-Qurtubi then sets az-Zamakhshari's verdict beside it, in strong words: among the novelties of the commentaries is explaining juz' as females and claiming that this is its meaning in the Arabs' language. That, he says, is nothing but a lie against the Arabs, a recently made-up usage; then they derived the verb ajza'at from it and composed verses for it. Al-Qurtubi leaves the two positions standing side by side. His text also records that juz'an was read with two dammas, as juzu'an.",
+            "bn": "এরপর কুরতুবী এর পাশে রাখেন যামাখশারীর কড়া রায়। তাফসীরের নতুন উদ্ভাবনগুলোর একটি হলো জুয'-কে নারী অর্থে ব্যাখ্যা করা এবং দাবি করা যে আরবদের ভাষায় এটাই এর অর্থ। তাঁর মতে এটা আরবদের নামে মিথ্যা ছাড়া কিছু নয়, সদ্য বানানো এক প্রয়োগ। তারপর এ থেকে আজযা'আত ক্রিয়াটি গড়ে নেওয়া হয়েছে, আর তার সমর্থনে কবিতাও রচনা করা হয়েছে। কুরতুবী দুটো মতই পাশাপাশি রেখে দেন, কোনোটির পক্ষ নেন না। তাঁর লেখায় এটাও আছে যে জুয'আন শব্দটি দুই পেশ দিয়ে জুযু'আন রূপেও পড়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Servant and Part Cannot Meet",
+          "bn": "বান্দা কখনো অংশ নয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the verse as an exposure of how ugly the associators' claim was: they ascribed a child to Allah, who is the One, the Unique, as-Samad, who has taken neither consort nor child and has no equal. That claim, he says, is false on several counts. The first is that all of creation are His servants, and servanthood rules out being born of Him. The verse's own phrase, min 'ibadihi, already carries the answer inside the charge.",
+            "bn": "সা'দী আয়াতটিকে পড়েন মুশরিকদের কথাটা কত জঘন্য, তা উন্মোচন হিসেবে। তারা আল্লাহর সন্তান আছে বলে দাবি করেছিল। অথচ তিনি এক ও একমাত্র, অদ্বিতীয়, আস-সামাদ। তিনি কোনো স্ত্রী বা সন্তান গ্রহণ করেননি, তাঁর সমকক্ষও কেউ নেই। সা'দী বলেন, দাবিটা কয়েক দিক থেকে বাতিল। প্রথম দিক: গোটা সৃষ্টিই তাঁর বান্দা, আর বান্দা হওয়া মানেই তাঁর থেকে জন্ম নেওয়া অসম্ভব। আয়াতের নিজের শব্দ মিন 'ইবাদিহী অভিযোগের ভেতরেই জবাবটা বহন করছে।"
+          },
+          {
+            "en": "His second count rests on the word juz'. A child is a part of its parent, he writes, while Allah is distinct from His creation and unlike them in His attributes and the marks of His majesty; so for Him to have a child is impossible. Al-Qurtubi's quotation from az-Zamakhshari makes the same link: they made the angels a part of Him, as a child is a piece of its father. The word the associators' claim required is the word that undoes it.",
+            "bn": "তাঁর দ্বিতীয় যুক্তি জুয' শব্দটির উপর দাঁড়ানো। তিনি লেখেন, সন্তান তো পিতামাতারই অংশ। অথচ আল্লাহ তাঁর সৃষ্টি থেকে সম্পূর্ণ আলাদা, নিজের গুণাবলি আর মহিমার বৈশিষ্ট্যে তাদের থেকে ভিন্ন। কাজেই তাঁর সন্তান থাকা অসম্ভব। কুরতুবী যামাখশারী থেকে যে বক্তব্য উদ্ধৃত করেন, তাতেও একই যোগসূত্র: তারা ফেরেশতাদেরকে তাঁর অংশ বানিয়েছিল, যেমন সন্তান পিতার দেহের এক টুকরো। মুশরিকদের দাবির জন্য যে শব্দ লাগে, সেই শব্দই দাবিটাকে ভেঙে দেয়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an draws the argument out in logical terms. Juz' here means offspring, it says, and naming it a part rather than a child exposes the fallacy: had Allah any offspring, it would be His part, and whatever is made of parts depends on them for its existence, which would make Him dependent, and dependence of any kind is out of the question for Him. Al-Qurtubi's entry, just after the gloss of az-Zajjaj and al-Mubarrad, makes a related point: whoever could create the heavens and the earth needs nothing to lean on or to keep Him company, since that is an attribute of deficiency.",
+            "bn": "মাআরিফুল কুরআন যুক্তিটাকে আরও খুলে বলে। এখানে জুয' মানে সন্তান। সন্তান না বলে অংশ বলার মধ্যেই দাবির ভ্রান্তি ধরা পড়ে। আল্লাহর যদি সন্তান থাকত, তাহলে সে হতো তাঁর অংশ। আর যা কিছু অংশ দিয়ে গঠিত, নিজের অস্তিত্বের জন্য তা অংশগুলোর মুখাপেক্ষী। তাতে তিনিও মুখাপেক্ষী হয়ে পড়েন, অথচ কোনো ধরনের মুখাপেক্ষিতা তাঁর ক্ষেত্রে কল্পনাও করা যায় না। কুরতুবীর আলোচনায়ও, যাজ্জাজ ও মুবাররাদের ব্যাখ্যার ঠিক পরে, কাছাকাছি কথা আছে: যিনি আসমান-জমিন সৃষ্টি করতে পারেন, ভর দেওয়ার বা সঙ্গ পাওয়ার জন্য তাঁর কিছুরই প্রয়োজন নেই। কারণ এমন প্রয়োজন অপূর্ণতার লক্ষণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Scale, Not the Qur'an's",
+          "bn": "পাল্লাটা তাদের, কুরআনের নয়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's Arabic says that of the two kinds, sons and daughters, they assigned to Him the kind they held meaner and lower, the daughters; the abridged English adds the words in their eyes. The valuation was theirs. The Qur'an does not adopt it. It turns it against them: in 53:22 it calls their arrangement qisma diza, an unjust division, because they gave Him what they would not accept for themselves. The next verses, 43:16 to 43:18, press the same contradiction, and 16:58 and 16:59 describe that same darkened face.",
+            "bn": "ইবন কাসীরের আরবি পাঠে আছে, ছেলে আর মেয়ে, এই দুই ভাগের মধ্যে যেটাকে তারা নিচু ও কম দামি মনে করত, সেটাই আল্লাহর জন্য রাখল, অর্থাৎ মেয়েদের। সংক্ষিপ্ত ইংরেজি সংস্করণ সঙ্গে জুড়ে দেয়: তাদের চোখে। এ মূল্যায়ন তাদের, কুরআন তা গ্রহণ করে না। বরং তাদের বিরুদ্ধেই তা ঘুরিয়ে দেয়। ৫৩:২২ আয়াতে এই বণ্টনকে বলা হয়েছে কিসমাতুন দীযা, অন্যায় ভাগাভাগি। কারণ যা তারা নিজেদের জন্য মানত না, তা-ই দিল তাঁকে। পরের আয়াতগুলো, ৪৩:১৬ থেকে ৪৩:১৮, এই স্ববিরোধিতাকে আরও চেপে ধরে। আর ১৬:৫৮ ও ১৬:৫৯ বর্ণনা করে সেই কালো হয়ে যাওয়া মুখেরই ছবি।"
+          },
+          {
+            "en": "This needs saying firmly. The verse rebukes a claim about Allah and the contempt for daughters that the claim traded on. It ranks no girl below a boy and passes no verdict on women; the low opinion belongs to the people it condemns. The verse describes what certain associators said and felt, and it licenses nothing against any living person or community. Above all it licenses no slighting of a daughter, a sister or a wife. Whoever reads it that way has taken up the very scale the verse breaks.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াতটি আল্লাহ সম্পর্কে একটি দাবির নিন্দা করে, আর সেই দাবির পেছনে কন্যাদের প্রতি যে তাচ্ছিল্য কাজ করছিল, তারও নিন্দা করে। কোনো মেয়েকে ছেলের চেয়ে নিচে রাখে না, নারীদের সম্পর্কে কোনো রায়ও দেয় না। হীন ধারণাটা তাদেরই, যাদের আয়াত নিন্দা করছে। আয়াতটি কিছু মুশরিকের কথা আর মনোভাবের বর্ণনা দেয় মাত্র। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। সবচেয়ে বড় কথা, মেয়ে, বোন বা স্ত্রীকে ছোট করার কোনো অনুমতি এতে নেই। কেউ যদি এভাবে পড়ে, তবে সে সেই পাল্লাই হাতে তুলে নিল, যা আয়াতটি ভেঙে দিয়েছে।"
+          },
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. A general narration, not attached to this verse, gives the opposite scale. Muslim records in his Sahih (2631), from Anas ibn Malik, that the Messenger of Allah ﷺ said: whoever provides for two girls until they come of age, he and I will come on the Day of Resurrection, and he joined his fingers together. In this passage a daughter's birth darkens a face (43:17); in that narration, raising her brings a person near to the Prophet ﷺ.",
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনা, যা এ আয়াতের সঙ্গে যুক্ত নয়, ঠিক উল্টো পাল্লা দেখায়। ইমাম মুসলিম তাঁর সহীহ গ্রন্থে (২৬৩১) আনাস ইবন মালিক (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: যে ব্যক্তি দুটি মেয়ের ভরণপোষণ করে তাদের বালেগ হওয়া পর্যন্ত, কিয়ামতের দিন সে আর আমি আসব। এই বলে তিনি আঙুলগুলো একসঙ্গে মিলিয়ে দেখালেন। এই আয়াতগুচ্ছে মেয়ের জন্মের খবরে মুখ কালো হয়ে যায় (৪৩:১৭)। আর ওই বর্ণনায় মেয়েকে লালনপালন করা মানুষকে নবী ﷺ-এর কাছে পৌঁছে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kafur, and Plainly So",
+          "bn": "কাফূর, তাও প্রকাশ্যে"
+        },
+        "p": [
+          {
+            "en": "Inna al-insana la-kafurun mubin: indeed, man is plainly ungrateful. Who is meant by man? Al-Qurtubi and al-Baghawi both say: the disbeliever. Al-Baghawi glosses kafur as juhud, a denier of the favours of Allah, and mubin as zahir al-kufran, open in his ingratitude. Al-Qurtubi gives mubin as muzhir al-kufr, showing his denial openly. The Muyassar keeps the word general: man is a denier of the favours his Lord has given him, making his denial and disbelief plain.",
+            "bn": "ইন্নাল ইনসানা লাকাফূরুম মুবীন: নিশ্চয়ই মানুষ স্পষ্ট অকৃতজ্ঞ। এখানে মানুষ বলতে কে? কুরতুবী ও বাগাভী দুজনেই বলেন: কাফির। বাগাভী কাফূর-এর অর্থ করেন জুহূদ, অর্থাৎ আল্লাহর নিয়ামত অস্বীকারকারী। আর মুবীন-এর অর্থ করেন যাহিরুল কুফরান, যার অকৃতজ্ঞতা খোলাখুলি। কুরতুবী মুবীন-এর ব্যাখ্যা দেন মুযহিরুল কুফর, যে নিজের অস্বীকার প্রকাশ করে। মুয়াসসার শব্দটিকে সাধারণ অর্থেই রাখে: মানুষ তার রবের দেওয়া নিয়ামতগুলো অস্বীকার করে, আর নিজের অস্বীকার ও কুফর প্রকাশ্যে দেখায়।"
+          },
+          {
+            "en": "Al-Qurtubi then gives a short saying of al-Hasan: he counts the calamities and forgets the favours. The Muyassar ends its entry with the same words, unattributed. The phrase widens the verse's charge without blunting it. Ascribing a child or a partner to Allah is ingratitude at the root, a wrong picture of the Giver. Counting only the losses is the same failure in daily form, a ledger kept on one side. A reader who stands clear of the first can still find himself in the second.",
+            "bn": "এরপর কুরতুবী হাসানের একটি ছোট্ট উক্তি আনেন: সে বিপদগুলো গুনে রাখে, আর নিয়ামতগুলো ভুলে যায়। মুয়াসসারও নিজের আলোচনা শেষ করে এই কথাগুলো দিয়েই, কারও নাম না নিয়ে। কথাটা আয়াতের অভিযোগকে ভোঁতা করে না, বরং আরও বিস্তৃত করে। আল্লাহর প্রতি সন্তান বা শরীক আরোপ করা অকৃতজ্ঞতার একেবারে গোড়া, দাতার সম্পর্কেই ভুল ধারণা। আর শুধু লোকসান গোনা একই ব্যর্থতার রোজকার রূপ, যেন খাতার এক পাশই কেবল লেখা হয়। প্রথমটি থেকে মুক্ত পাঠকও দ্বিতীয়টির মধ্যে নিজেকে খুঁজে পেতে পারেন।"
+          },
+          {
+            "en": "The Qur'an uses this closing sentence elsewhere, and it comes after favours each time. In 22:66, after He gave you life, then causes you to die, then gives you life again: indeed, man is ungrateful. In 14:34, after if you count the favour of Allah, you could not number it: indeed, man is most unjust, most ungrateful. In 100:6 the charge is made directly: man, to his Lord, is ungrateful. Here it follows the earth, the rain, the pairs and the mounts, and a portion carved out for Him.",
+            "bn": "কুরআনের অন্য জায়গাতেও এই সমাপনী বাক্য এসেছে, আর প্রতিবারই নিয়ামতের বর্ণনার পরে। ২২:৬৬ আয়াতে, তিনি তোমাদের জীবন দিয়েছেন, তারপর মৃত্যু দেবেন, তারপর আবার জীবিত করবেন, এ কথার পরে আসে: নিশ্চয়ই মানুষ অকৃতজ্ঞ। ১৪:৩৪ আয়াতে, আল্লাহর নিয়ামত গুনতে চাইলে তোমরা গুনে শেষ করতে পারবে না, এরপর আসে: নিশ্চয়ই মানুষ বড়ই জালিম, বড়ই অকৃতজ্ঞ। ১০০:৬ আয়াতে অভিযোগটা সরাসরি: মানুষ তার রবের প্রতি অকৃতজ্ঞ। আর এখানে বাক্যটি আসে জমিন, বৃষ্টি, জোড়া আর বাহনের পরে, আর তাঁর জন্য কেটে রাখা এক ভাগের পরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Keeping the Other Column",
+          "bn": "খাতার অন্য পাশটা"
+        },
+        "p": [
+          {
+            "en": "What does the verse ask of a reader who would never call an angel the daughter of Allah? First, to let the picture of Allah come only from what He says of Himself. The associators reasoned from their own households: sons were prized, so a share of daughters seemed fitting for Him. Every time we project our own wants and dislikes onto Him, we repeat their method on a smaller scale. Second, to keep the other column of the ledger, the column the verse says man forgets.",
+            "bn": "যে পাঠক কখনো ফেরেশতাকে আল্লাহর কন্যা বলবেন না, তাঁর কাছে আয়াতটি কী চায়? প্রথমত, আল্লাহ সম্পর্কে ধারণা যেন আসে কেবল তিনি নিজের ব্যাপারে যা বলেছেন সেখান থেকে। মুশরিকরা যুক্তি সাজিয়েছিল নিজেদের ঘরের হিসাব থেকে: ছেলেদের দাম বেশি, তাই মেয়েদের ভাগটা তাঁর জন্য মানানসই মনে হয়েছিল। যখনই আমরা নিজেদের পছন্দ-অপছন্দ তাঁর উপর চাপাই, ছোট পরিসরে হলেও তাদের পদ্ধতিরই পুনরাবৃত্তি করি। দ্বিতীয়ত, খাতার অন্য পাশটাও লিখে রাখা, যে পাশের কথা আয়াত বলছে মানুষ ভুলে যায়।"
+          },
+          {
+            "en": "The surah has already given the practice. When something carries you, settle, remember your Lord's favour, say glory to Him who made this subject to us, and remember the return (43:13 and 43:14). That is the opposite of a portion carved out for others: the whole favour handed back to its Giver. Tonight, before listing what went wrong, name three things that carried you today. The verse ends on man's ingratitude, but the passage around it shows the way out of it.",
+            "bn": "সূরাটি অনুশীলনের পথ আগেই দেখিয়ে দিয়েছে। কোনো কিছু যখন আপনাকে বয়ে নেয়, স্থির হয়ে বসুন, রবের নিয়ামত মনে করুন, বলুন: পবিত্র তিনি, যিনি এটাকে আমাদের বশে এনে দিয়েছেন। আর মনে রাখুন ফিরে যাওয়ার কথা (৪৩:১৩ ও ৪৩:১৪)। এটা অন্যের জন্য ভাগ কেটে রাখার ঠিক উল্টো: পুরো নিয়ামতটাই দাতার কাছে ফিরিয়ে দেওয়া। আজ রাতে কী কী ভুল হলো তার তালিকা করার আগে, আজ যে তিনটি জিনিস আপনাকে বয়ে নিয়েছে, সেগুলোর নাম বলুন। আয়াতটি শেষ হয় মানুষের অকৃতজ্ঞতায়, কিন্তু চারপাশের আয়াতগুলোই দেখায় তা থেকে বেরোনোর পথ।"
+          }
+        ]
+      }
+    ]
+  },
   "43:19": {
     "sections": [
       {
