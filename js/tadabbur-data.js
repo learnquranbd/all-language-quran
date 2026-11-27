@@ -38271,6 +38271,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Enjoy lawful good things with gratitude and humility, and never let them become your whole share, spent here in pride and disobedience.",
     "lessonBn": "হালাল ভালো জিনিস শোকর আর বিনয়ের সাথে উপভোগ করুন, তবে সেগুলোকে কখনো নিজের পুরো অংশ বানিয়ে অহংকার আর নাফরমানিতে এখানেই খরচ করে ফেলবেন না।"
+  },
+  "45:28": {
+    "reflectionEn": "Picture a plain with no seats. Every nation is there, and every one is down on its knees, waiting. Then each is called to its book, and one sentence covers all of it: today you are repaid for what you used to do. Notice the tense. Used to do. The deeds are finished by then; only the reading is left. The book is being written now, from what I actually do and not from what I meant to do. And the Book I was given tells me what that record should hold. If I were called to it tonight, which page would I want to turn past quickly? And what can I still add while the writing goes on?",
+    "reflectionBn": "এমন এক ময়দান ভাবুন যেখানে বসার কোনো আসন নেই। সব জাতি সেখানে উপস্থিত, আর প্রত্যেকে হাঁটু গেড়ে অপেক্ষায়। তারপর প্রত্যেক জাতিকে ডাকা হবে তার কিতাবের দিকে, আর একটি বাক্যেই সব কথা শেষ: আজ তোমাদের প্রতিদান দেওয়া হবে তোমরা যা করতে তার। ক্রিয়ার কালটা খেয়াল করুন: যা করতে। আমল তখন শেষ, বাকি শুধু পড়ে শোনানো। আমলনামা লেখা হচ্ছে এখনই, আমি যা সত্যিই করি তা থেকে, যা করব বলে ভেবেছিলাম তা থেকে নয়। আর যে কিতাব আমাকে দেওয়া হয়েছে, সেটাই বলে দেয় সেই খাতায় কী থাকা উচিত। আজ রাতেই যদি ডাক আসে, কোন পাতাটা আমি তাড়াতাড়ি উল্টে যেতে চাইব? লেখা যতক্ষণ চলছে, তাতে এখনো কী যোগ করতে পারি?",
+    "pointsEn": [
+      "If my record were read out today, which page would I most want to skip, and what would it take to write a better one this week?",
+      "When I picture that plain, do I place myself among the kneeling, or only other people?",
+      "Do I actually know what the Book I was given asks of me, well enough to be measured against it?",
+      "What good deed am I postponing on the quiet assumption that the writing will wait for me?",
+      "When I think of other people on that Day, do I feel concern for them, or only a verdict?"
+    ],
+    "pointsBn": [
+      "আজ যদি আমার আমলনামা পড়ে শোনানো হয়, কোন পাতাটা আমি সবচেয়ে বেশি এড়িয়ে যেতে চাইব? এ সপ্তাহে ভালো একটা পাতা লিখতে কী লাগবে?",
+      "সেই ময়দানের কথা ভাবলে আমি কি নিজেকে হাঁটু গেড়ে থাকা মানুষদের মধ্যে দেখি, নাকি শুধু অন্যদের?",
+      "যে কিতাব আমাকে দেওয়া হয়েছে, তা আমার কাছে কী চায়, সেটা কি আমি এতটা জানি যে তার মাপে আমাকে মাপা যায়?",
+      "কোন নেক আমল আমি পিছিয়ে রাখছি, মনে মনে ধরে নিয়ে যে লেখা আমার জন্য থেমে থাকবে?",
+      "সেদিনের কথা ভেবে অন্য মানুষদের বেলায় আমার মনে কি দরদ জাগে, নাকি শুধু রায় দেওয়ার ইচ্ছা?"
+    ],
+    "lessonEn": "Live knowing every deed is being written for a reading on the Day each nation kneels: learn what your Book asks, and fill your record with what you would want read.",
+    "lessonBn": "জেনে রাখুন, প্রতিটি আমল লেখা হচ্ছে সেদিন পড়ে শোনানোর জন্য, যেদিন প্রত্যেক জাতি হাঁটু গেড়ে থাকবে। আপনার কিতাব কী চায় তা শিখুন, আর আমলনামা ভরুন এমন কিছু দিয়ে যা পড়ে শোনানো হোক বলে আপনি চাইবেন।"
   }
 };
 

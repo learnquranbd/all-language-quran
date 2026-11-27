@@ -1503,6 +1503,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "45:28": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Plain of Kneeling Nations",
+          "bn": "নতজানু জাতিদের ময়দান"
+        },
+        "p": [
+          {
+            "en": "The verse before this one ends on a loss: on the Day the Hour is established, the people of falsehood lose (45:27). This verse shows that Day: wa tara kulla ummatin jathiyatan, and you will see every nation kneeling. Kullu ummatin tud'a ila kitabiha, every nation is called to its book. Al-yawma tujzawna ma kuntum ta'malun, today you are repaid for what you used to do. A posture, a summons and a sentence; and 45:29 adds what the book does: it speaks against them with truth.",
+            "bn": "আগের আয়াত শেষ হয়েছে এক ক্ষতির কথায়: যেদিন কিয়ামত কায়েম হবে, সেদিন বাতিলপন্থীরা ক্ষতিগ্রস্ত হবে (৪৫:২৭)। এই আয়াত সেই দিনটাকেই চোখের সামনে আনে। ওয়া তারা কুল্লা উম্মাতিন জাসিয়াহ: তুমি দেখবে প্রত্যেক জাতি নতজানু। কুল্লু উম্মাতিন তুদআ ইলা কিতাবিহা: প্রত্যেক জাতিকে ডাকা হবে তার কিতাবের দিকে। আল-ইয়াওমা তুজযাওনা মা কুনতুম তা'মালূন: আজ তোমাদের প্রতিদান দেওয়া হবে তোমরা যা করতে তার। একটা ভঙ্গি, একটা ডাক, একটা রায়। আর ৪৫:২৯ জানিয়ে দেয় সেই কিতাব কী করে: তা তাদের বিরুদ্ধে সত্য কথা বলে।"
+          },
+          {
+            "en": "Who is the 'you' who sees? At-Tabari takes the address as made to the Prophet ﷺ: you will see, O Muhammad; the Muyassar likewise says, O Messenger. As-Sa'di widens it to anyone who looks on that Day, and names the purpose: Allah describes the terror of the Day of Resurrection so that His servants beware of it and prepare for it. And the nation, for at-Tabari, the Muyassar and al-Qurtubi alike, is the people of each religion and creed: communities gathered by what they followed, not countries or races.",
+            "bn": "দেখবে কে? তাবারীর মতে সম্বোধনটা নবী ﷺ-কে: হে মুহাম্মাদ, তুমি দেখবে। মুয়াসসারও বলে: হে রাসূল। সা'দী পরিসরটা বড় করেন, তাঁর কাছে সম্বোধন সেদিনের প্রত্যেক দর্শকের প্রতি। উদ্দেশ্যটাও তিনি বলে দেন: আল্লাহ কিয়ামতের দিনের ভয়াবহতা বর্ণনা করছেন, যাতে বান্দারা সে দিন সম্পর্কে সাবধান হয় আর তার প্রস্তুতি নেয়। আর উম্মাহ বা জাতি বলতে তাবারী, মুয়াসসার ও কুরতুবী সবাই বোঝান প্রত্যেক মিল্লাত ও দ্বীনের অনুসারীদের। অর্থাৎ দেশ বা বংশ নয়, যার যার অনুসৃত পথের ভিত্তিতে জড়ো হওয়া দল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Five Readings of Jathiyah",
+          "bn": "জাসিয়াহ শব্দের পাঁচ ব্যাখ্যা"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi counts five interpretations of jathiyah. Mujahid: mustawfizah, poised and unsettled; Sufyan describes the mustawfiz as a person of whom nothing touches the ground but his knees and fingertips, and ad-Dahhak places this at the reckoning. Ibn 'Abbas: mujtami'ah, gathered, with al-Farra' explaining it as the people of every religion assembled. 'Ikrimah: mutamayyizah, set apart. Mu'arrij: khadi'ah, humbled, in the dialect of Quraysh. Al-Hasan: barikah 'ala ar-rukab, down on the knees.",
+            "bn": "কুরতুবী জাসিয়াহ শব্দের পাঁচটি ব্যাখ্যা গুনে দেখান। মুজাহিদের মতে মুসতাওফিযাহ, অস্থির, উঠি-উঠি ভঙ্গি। সুফিয়ানের বর্ণনায় মুসতাওফিয সেই ব্যক্তি, যার হাঁটু আর আঙুলের ডগা ছাড়া কিছুই মাটি ছোঁয় না। দাহহাক বলেন, এটা হিসাবের সময়। ইবন আব্বাসের মতে মুজতামিআহ, একত্রে জড়ো। ফাররা এর ব্যাখ্যা দেন: প্রত্যেক ধর্মের লোক একসঙ্গে জমায়েত। ইকরিমার মতে মুতামাইয়িযাহ, আলাদা আলাদা। মুআররিজের মতে কুরাইশের ভাষায় খাদিআহ, বিনীত। হাসানের মতে বারিকাহ আলার রুকাব, হাঁটু গেড়ে বসা।"
+          },
+          {
+            "en": "He then turns to the root. Al-juthuw is sitting on the knees, yet the original sense of jathwah, he says, is a gathering of anything, and he cites Tarafa calling two graves two jathwas of earth. The root appears in Maryam as jithiyyan, at 19:68 and 19:72. The surah is called al-Jathiyah, and this verse is the only place in the Qur'an where that form occurs. So the five readings decide what the surah's title pictures. Al-Qurtubi lists them without choosing; others do choose.",
+            "bn": "এরপর তিনি শব্দের মূলে যান। আল-জুসূউ মানে হাঁটু গেড়ে বসা। তবে তাঁর কথায়, জাসওয়াহ শব্দের আদি অর্থ যেকোনো জিনিসের স্তূপ বা জটলা। প্রমাণ হিসেবে তিনি কবি তারাফার পঙক্তি আনেন, যেখানে দুটি কবরকে বলা হয়েছে মাটির দুটি জাসওয়াহ। একই ধাতু সূরা মারইয়ামে এসেছে জিসিয়্যা রূপে, ১৯:৬৮ ও ১৯:৭২ আয়াতে। সূরাটির নাম আল-জাসিয়াহ, আর পুরো কুরআনে শব্দের এই রূপ এসেছে কেবল এই আয়াতে। তাই পাঁচটি ব্যাখ্যাই ঠিক করে দেয় সূরার নাম কোন ছবি আঁকে। কুরতুবী তালিকা দিয়েই থামেন, কোনোটিকে বেছে নেন না। অন্যরা বেছে নেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "On Their Knees or Apart",
+          "bn": "হাঁটু গেড়ে, নাকি আলাদা সারিতে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir does choose. He glosses jathiyah as on their knees, from the hardship and magnitude of the Day, naming Mujahid, Ka'b al-Ahbar and al-Hasan al-Basri. Against them stands 'Ikrimah: set apart, each nation in its own quarter, and not on the knees. His verdict: wal-awwalu awla, the first is preferable. He then cites a long report through Isma'il ibn Rafi' al-Madini, raised to the Prophet ﷺ, which he does not grade here, and says it combines the two sayings with no conflict between them.",
+            "bn": "ইবন কাসীর কিন্তু বেছে নেন। তাঁর ব্যাখ্যায় জাসিয়াহ মানে হাঁটুর উপর, সেদিনের কঠোরতা আর বিশালতার কারণে। এ অর্থের পক্ষে তিনি মুজাহিদ, কা'ব আল-আহবার আর হাসান বসরীর নাম নেন। বিপরীতে রাখেন ইকরিমার মত: আলাদা হয়ে যাওয়া, প্রত্যেক জাতি নিজ নিজ দিকে, হাঁটু গেড়ে নয়। তাঁর রায়: ওয়াল আউওয়ালু আওলা, প্রথম মতটিই অগ্রগণ্য। এরপর তিনি ইসমাঈল ইবন রাফি' আল-মাদীনীর সূত্রে নবী ﷺ পর্যন্ত পৌঁছানো একটি দীর্ঘ বর্ণনা আনেন, এখানে যার মান তিনি উল্লেখ করেন না। তাঁর কথায়, বর্ণনাটি দুই মতকে একত্র করে, দুইয়ের মধ্যে কোনো বিরোধ নেই।"
+          },
+          {
+            "en": "At-Tabari had already joined both pictures: mujtami'atan mustawfizatan 'ala rukabiha min hawli dhalika al-yawm, gathered together, poised on their knees, from the terror of that Day. His reports all point to the knees. Mujahid: on the knees, poised. Ibn Zayd: this is the Day of Resurrection, on their knees. Ad-Dahhak, in a report at-Tabari opens with 'I was told' without naming who told him: on the knees at the reckoning. None of them takes 'Ikrimah's line.",
+            "bn": "তাবারী আগেই দুটি ছবিকে জুড়ে দিয়েছিলেন: মুজতামিআতান মুসতাওফিযাতান আলা রুকাবিহা মিন হাওলি যালিকাল ইয়াওম। অর্থাৎ একত্রে জড়ো, হাঁটুর উপর উঠি-উঠি ভঙ্গিতে, সেই দিনের আতঙ্কে। তাঁর আনা সব বর্ণনাই হাঁটুর কথা বলে। মুজাহিদ: হাঁটুর উপর, অস্থির ভঙ্গিতে। ইবন যায়দ: এ কিয়ামতের দিন, তারা হাঁটুর উপর। দাহহাকের কথাটি তাবারী শুরু করেন 'আমাকে জানানো হয়েছে' বলে, কে জানিয়েছেন তা না বলেই: হিসাবের সময় হাঁটুর উপর। ইকরিমার পথ তাঁদের কেউ ধরেননি।"
+          },
+          {
+            "en": "Al-Baghawi supplies the image that makes the posture legible: barikatan 'ala ar-rukab, wa hiya jilsatu al-mukhasimi bayna yaday al-hakim yantaziru al-qada'. Down on the knees, the way a litigant sits before a judge while he waits for the verdict. On this reading the kneeling is more than fear. It is the stance of a party to a case who can no longer change its outcome.",
+            "bn": "বাগাভী এমন এক উপমা দেন, যাতে ভঙ্গিটা স্পষ্ট হয়ে ওঠে: বারিকাতান আলার রুকাব, ওয়া হিয়া জিলসাতুল মুখাসিমি বাইনা ইয়াদাইল হাকিম ইয়ানতাযিরুল কাদা। হাঁটু গেড়ে বসা, যেভাবে মামলার পক্ষ বিচারকের সামনে রায়ের অপেক্ষায় বসে থাকে। এই ব্যাখ্যায় হাঁটু গাড়া কেবল ভয় নয়। এ এমন এক পক্ষের ভঙ্গি, মামলার ফলাফল বদলানোর কোনো সাধ্য যার আর নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Is Every Nation Every Nation",
+          "bn": "প্রত্যেক জাতি মানে কি সবাই"
+        },
+        "p": [
+          {
+            "en": "Who kneels? Al-Qurtubi records a genuine difference. Yahya ibn Sallam held that the kneeling belongs to the disbelievers alone. Another view, given without a name, makes it general to believer and disbeliever, all waiting for the reckoning. He leaves both standing. As-Sa'di, without raising the question, gives the inner side of the posture: fear, alarm, and waiting for the judgement of al-Malik ar-Rahman, the King, the Most Merciful, two names that hold dread and hope together.",
+            "bn": "হাঁটু গাড়বে কারা? কুরতুবী এখানে সত্যিকারের একটি মতভেদ লিপিবদ্ধ করেন। ইয়াহইয়া ইবন সাল্লামের মতে এই অবস্থা কেবল কাফিরদের। আরেকটি মত, যার প্রবক্তার নাম বলা হয়নি, একে মুমিন-কাফির সবার জন্য সাধারণ ধরে: হিসাবের অপেক্ষায় সবাই নতজানু। কুরতুবী দুটো মতই রেখে দেন। সা'দী প্রশ্নটা তোলেন না, তবে ভঙ্গিটার ভেতরের দিক দেখান: ভয়, আতঙ্ক, আর আল-মালিক আর-রাহমানের ফয়সালার অপেক্ষা। মালিক আর রহমান, এই দুটি নামে ভয় আর আশা একসঙ্গে ধরা পড়ে।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an takes kull at full strength: believers and disbelievers, righteous and unrighteous, will all feel the terror of the plain. Since other texts exclude the prophets and the righteous from those terrors, it offers three reconciliations. They may feel it so briefly that it is as if it never happened; kull may here mean most; or, with some scholars, jathiyah is the sitting posture of the prayer, taken out of respect, not fear. It offers these as possibilities, not a ruling.",
+            "bn": "মাআরিফুল কুরআন কুল্ল শব্দটিকে পুরো অর্থে নেয়: মুমিন-কাফির, নেককার-বদকার সবাই ময়দানের আতঙ্ক টের পাবে। তবে অন্য কিছু আয়াত ও বর্ণনা নবী ও নেককারদের সেই আতঙ্ক থেকে আলাদা রাখে। তাই মাআরিফ সমন্বয়ের তিনটি পথ দেখায়। হয়তো তাঁরা তা অনুভব করবেন এত অল্পক্ষণ যে মনে হবে কখনো ঘটেইনি। অথবা কুল্ল এখানে অধিকাংশ অর্থে। অথবা কিছু আলিমের মতে জাসিয়াহ মানে নামাযে বসার ভঙ্গি, যা ভয় থেকে নয়, সম্মান থেকে। এগুলো সে সম্ভাবনা হিসেবেই রাখে, চূড়ান্ত রায় হিসেবে নয়।"
+          },
+          {
+            "en": "Several reports about the hour of kneeling travel with this verse, and none can be built on here. Ibn Kathir, through Ibn Abi Hatim, and al-Qurtubi, through al-Mawardi, relay a short saying from 'Abdullah ibn Babah, raised to the Prophet ﷺ, about people kneeling before Hell; neither grades it. Ibn Kathir's 'it is said' account of Hell brought forth, and a statement of Salman al-Farisi in al-Qurtubi and al-Baghawi, both put words in prophets' mouths. None of these is quoted here.",
+            "bn": "নতজানু হওয়ার সেই সময় নিয়ে কয়েকটি বর্ণনা এই আয়াতের সঙ্গে চলে আসে, তবে কোনোটির উপর এখানে কিছু দাঁড় করানো যায় না। ইবন কাসীর ইবন আবী হাতিমের সূত্রে, আর কুরতুবী মাওয়ারদীর সূত্রে, আবদুল্লাহ ইবন বাবাহ থেকে নবী ﷺ পর্যন্ত পৌঁছানো একটি ছোট উক্তি আনেন, জাহান্নামের সামনে মানুষের হাঁটু গেড়ে থাকা নিয়ে। কেউই এর মান বলেননি। ইবন কাসীরের 'বলা হয়' দিয়ে শুরু করা জাহান্নাম হাজির করার বিবরণ, আর কুরতুবী ও বাগাভীর আনা সালমান ফারসী (রাঃ)-এর উক্তি, দুটিতেই নবীদের মুখে কথা বসানো আছে। এর কোনোটিই এখানে উদ্ধৃত হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Its Deeds or Its Scripture",
+          "bn": "আমলনামা, নাকি নাযিল হওয়া কিতাব"
+        },
+        "p": [
+          {
+            "en": "Tud'a ila kitabiha: called to its book. Most of the commentators fetched here take the book as the record of deeds. At-Tabari: the book each people of a religion dictated to its guardians, the recording angels. Ibn Kathir: the book of its deeds, compared with 39:69, where the Book is laid down and the prophets and witnesses are brought. The Muyassar and al-Baghawi agree, and Ma'arif al-Qur'an calls it the view of most commentators, citing 17:14: read your book.",
+            "bn": "তুদআ ইলা কিতাবিহা: তাকে ডাকা হবে তার কিতাবের দিকে। এখানে দেখা তাফসীরগুলোর বেশিরভাগ এই কিতাবকে আমলনামা ধরে। তাবারীর মতে, প্রত্যেক ধর্মের লোক নিজেদের আমল যাদের দিয়ে লিখিয়েছিল, সেই পাহারাদার ফেরেশতাদের কাছে থাকা কিতাব। ইবন কাসীরের মতে, তার আমলের কিতাব। তুলনা হিসেবে তিনি আনেন ৩৯:৬৯, যেখানে কিতাব রাখা হবে আর নবী ও সাক্ষীদের হাজির করা হবে। মুয়াসসার আর বাগাভীও একমত। মাআরিফুল কুরআন একে অধিকাংশ তাফসীরকারের মত বলে, আর উদ্ধৃত করে ১৭:১৪: তোমার কিতাব পড়ো।"
+          },
+          {
+            "en": "Al-Qurtubi widens the field. Yahya ibn Sallam: called to its reckoning. Muqatil: to the book in which its deeds, good and evil, were being transcribed, which al-Qurtubi says is also Mujahid's sense. Others: what the angels wrote against it. Others again: the book sent down to it, to see whether they acted on what was in it. A last view: al-Lawh al-Mahfuz, the Preserved Tablet. He gives all five and prefers none.",
+            "bn": "কুরতুবী আলোচনার পরিধি আরও বাড়ান। ইয়াহইয়া ইবন সাল্লাম: তার হিসাবের দিকে। মুকাতিল: সেই কিতাবের দিকে, যেখানে তার ভালো-মন্দ সব কাজ লিপিবদ্ধ করা হচ্ছিল। কুরতুবী বলেন, মুজাহিদের মতের অর্থও এটাই। আরেক দল: ফেরেশতারা তার বিরুদ্ধে যা লিখেছেন। আরেক দল: তার উপর নাযিল হওয়া কিতাব, যাতে দেখা যায় তারা তাতে যা ছিল সে অনুযায়ী আমল করেছে কি না। শেষ মত: লাওহে মাহফুয, সংরক্ষিত ফলক। পাঁচটি মতই তিনি উল্লেখ করেন, কোনোটিকে প্রাধান্য দেন না।"
+          },
+          {
+            "en": "As-Sa'di puts the revealed scripture first. Each nation is called to the law its prophet brought from Allah: did they uphold it, earning reward and rescue, or neglect it, earning loss? The nation of Musa (AS) to his law, the nation of 'Isa (AS) likewise, the nation of Muhammad ﷺ likewise. He calls this a sound meaning beyond doubt, then allows the record of deeds as well, and finally both together, citing 45:29: this is Our book, speaking against you with truth.",
+            "bn": "সা'দী নাযিল হওয়া কিতাবকে প্রথমে রাখেন। প্রত্যেক জাতিকে ডাকা হবে তাদের নবী আল্লাহর কাছ থেকে যে শরীআত এনেছিলেন তার দিকে। তারা কি তা পালন করেছিল, ফলে সওয়াব আর মুক্তি পাবে? নাকি তা নষ্ট করেছিল, ফলে ক্ষতিগ্রস্ত হবে? মূসা (আঃ)-এর উম্মত তাঁর শরীআতের দিকে, ঈসা (আঃ)-এর উম্মতও তেমনি, মুহাম্মাদ ﷺ-এর উম্মতও তেমনি। তাঁর মতে এই অর্থ নিঃসন্দেহে সঠিক। এরপর তিনি আমলনামার সম্ভাবনাও রাখেন, আর শেষে বলেন দুটোই উদ্দেশ্য হতে পারে। প্রমাণ দেন ৪৫:২৯ দিয়ে: এ আমার কিতাব, তোমাদের ব্যাপারে সত্য কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Called One by One",
+          "bn": "একের পর এক ডাক"
+        },
+        "p": [
+          {
+            "en": "At-Tabari keeps a short remark from Qatada on the summons: they know a nation will be called before a nation, a people before a people, and a man before a man. The call reaches communities in turn and, within them, persons in turn. Qatada then passes on a long saying introduced only with 'it was mentioned to us that the Prophet of Allah ﷺ used to say', with no chain to the Prophet ﷺ and no grading. Nothing is built on it here.",
+            "bn": "তাবারী এই ডাক নিয়ে কাতাদার একটি ছোট মন্তব্য রেখেছেন: তারা জানে, এক জাতির আগে আরেক জাতিকে, এক দলের আগে আরেক দলকে, এক ব্যক্তির আগে আরেক ব্যক্তিকে ডাকা হবে। ডাকটা তাই পালাক্রমে পৌঁছায় এক এক সম্প্রদায়ের কাছে, আর সম্প্রদায়ের ভেতরে এক এক মানুষের কাছে। এরপর কাতাদা একটি দীর্ঘ কথা বর্ণনা করেন শুধু এটুকু বলে: আমাদের কাছে উল্লেখ করা হয়েছে যে আল্লাহর নবী ﷺ বলতেন। নবী ﷺ পর্যন্ত কোনো সূত্র নেই, কোনো মানও উল্লেখ নেই। এখানে এর উপর কিছু দাঁড় করানো হয়নি।"
+          },
+          {
+            "en": "At-Tabari then brings, through Ma'mar, az-Zuhri and 'Ata' ibn Yazid al-Laythi, the narration of Abu Hurayrah (RA) that opens with people asking whether they will see their Lord. It is in Sahih al-Bukhari (806); the passage touching this verse reads, in al-Bukhari's wording: \"On the Day of Resurrection, people will be gathered and He will order the people to follow what they used to worship. So some of them will follow the sun, some will follow the moon, and some will follow other deities; and only this nation (Muslims) will be left with its hypocrites.\"",
+            "bn": "এরপর তাবারী মা'মার, যুহরী ও আতা ইবন ইয়াযীদ আল-লাইসীর সূত্রে আবু হুরায়রা (রাঃ)-এর সেই বর্ণনা আনেন, যার শুরুতে লোকেরা জিজ্ঞেস করে, তারা কি তাদের রবকে দেখবে। বর্ণনাটি সহীহ বুখারীতে আছে (৮০৬)। এর যে অংশ এই আয়াতের সঙ্গে মেলে, বুখারীর ভাষায় তা এই: \"কিয়ামতের দিন মানুষকে একত্র করা হবে। তখন তিনি বলবেন, যে যার ইবাদত করত সে তার অনুসরণ করুক। তখন তাদের কেউ সূর্যের অনুসরণ করবে, কেউ চাঁদের, কেউ তাগূতদের। আর বাকি থাকবে এই উম্মত, তার মুনাফিকদের সঙ্গে নিয়ে।\""
+          },
+          {
+            "en": "The narration runs on to the bridge laid across Hell, and of its hooks it says: \"these will entangle the people according to their deeds.\" It does not name this verse; at-Tabari is the one who sets it here. Beside the verse it shows the same order: nations sorted by what they followed, then each person taken by what he did. No tafsir fetched for this verse attaches any other sound hadith to it.",
+            "bn": "বর্ণনাটি এরপর এগিয়ে যায় জাহান্নামের উপর স্থাপিত সেতু পর্যন্ত। সেখানকার আঁকশিগুলো সম্পর্কে বলা হয়েছে: \"সেগুলো মানুষকে ছোঁ মেরে ধরবে তাদের আমল অনুযায়ী।\" বর্ণনাটি নিজে এই আয়াতের নাম নেয় না, একে এখানে বসিয়েছেন তাবারী। আয়াতের পাশে রাখলে একই ক্রম চোখে পড়ে: আগে যার যার অনুসৃত জিনিস অনুযায়ী জাতিগুলোকে আলাদা করা, তারপর প্রত্যেককে ধরা তার নিজের আমল অনুযায়ী। এই আয়াতের জন্য দেখা কোনো তাফসীর এর সঙ্গে অন্য কোনো সহীহ হাদীস যুক্ত করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Nation, Said Twice",
+          "bn": "দুবার বলা প্রত্যেক জাতি"
+        },
+        "p": [
+          {
+            "en": "Kullu ummatin comes twice. Al-Qurtubi reports that Ya'qub al-Hadrami read the second as kulla ummatin, in the accusative, substituting for the first because it adds what the first lacks: the first says only that the nations kneel, the second names what brings them to it, the summons to their book. Another explanation takes the accusative as governed by an unstated tara; the common nominative starts a fresh sentence. Al-Baghawi also records Ya'qub's reading.",
+            "bn": "কুল্লু উম্মাতিন এসেছে দুবার। কুরতুবী জানান, ইয়া'কুব আল-হাদরামী দ্বিতীয়টি পড়েছেন কুল্লা উম্মাতিন, যবর দিয়ে, প্রথমটির বদল হিসেবে। কারণ দ্বিতীয়টিতে এমন কিছু আছে যা প্রথমটিতে নেই। প্রথমটি শুধু বলে জাতিগুলো নতজানু, আর দ্বিতীয়টি বলে কিসে তাদের এভাবে বসিয়েছে: তাদের কিতাবের দিকে ডাক। আরেক ব্যাখ্যায় যবরটা এসেছে উহ্য তারা ক্রিয়ার কারণে। প্রচলিত পাঠে পেশ, সেখানে এটি নতুন বাক্যের শুরু। বাগাভীও ইয়া'কুবের পাঠ উল্লেখ করেন।"
+          },
+          {
+            "en": "Then the sentence: al-yawma tujzawna ma kuntum ta'malun. The verse moves from speaking about the nations to speaking to them, and the commentators supply the link. At-Tabari: it is said to each nation, today you are repaid, that is, rewarded and given the wages of what you used to do in the world, good with good and ill with its recompense. The Muyassar and al-Baghawi likewise insert 'and it will be said to them', and the Muyassar closes on good or evil.",
+            "bn": "এরপর রায়: আল-ইয়াওমা তুজযাওনা মা কুনতুম তা'মালূন। আয়াতটি জাতিগুলোর সম্পর্কে বলা থেকে সরে এসে তাদের সরাসরি সম্বোধন করে। মাঝের যোগসূত্রটা তাফসীরকারেরা জুড়ে দেন। তাবারী বলেন, প্রত্যেক জাতিকে বলা হবে: আজ তোমাদের প্রতিদান দেওয়া হবে। অর্থাৎ দুনিয়ায় তোমরা যা করতে, তার সওয়াব ও পারিশ্রমিক দেওয়া হবে: ভালোর বদলে ভালো, আর মন্দের বদলে তার উপযুক্ত প্রতিফল। মুয়াসসার আর বাগাভীও 'তাদের বলা হবে' কথাটি যোগ করেন। মুয়াসসার শেষ করে এভাবে: ভালো হোক বা মন্দ।"
+          },
+          {
+            "en": "Ibn Kathir reads it the same way, repaid for your deeds, good and evil, and sets beside it 75:13 to 75:15: on that Day man is told what he sent ahead and what he held back; rather, man is a witness against himself, though he offer his excuses. As-Sa'di adds that each person is repaid for what he himself did, quoting words found in this surah at 45:15 and also at 41:46: whoever does good, it is for himself, and whoever does evil, it is against himself.",
+            "bn": "ইবন কাসীরও একইভাবে পড়েন: তোমাদের আমলের প্রতিদান দেওয়া হবে, ভালোরও, মন্দেরও। এর পাশে তিনি রাখেন ৭৫:১৩ থেকে ৭৫:১৫: সেদিন মানুষকে জানানো হবে সে কী আগে পাঠিয়েছে আর কী পেছনে রেখে গেছে। বরং মানুষ নিজেই নিজের বিরুদ্ধে সাক্ষী, যত অজুহাতই সে পেশ করুক। সা'দী যোগ করেন, প্রত্যেককে প্রতিদান দেওয়া হবে তার নিজের করা কাজের। তিনি এমন কিছু শব্দ উদ্ধৃত করেন যা এই সূরায় ৪৫:১৫ আয়াতে আছে, আবার ৪১:৪৬ আয়াতেও: যে ভালো কাজ করে, তা তার নিজের জন্য, আর যে মন্দ করে, তার দায় তার নিজের উপর।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Seat Among the Kneeling",
+          "bn": "নতজানুদের মাঝে নিজের জায়গা"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes the Day of Resurrection: nations on their knees, each called to its book and repaid. It describes what it describes, and licenses nothing against any living nation, people or community. Who stands where, what any record holds and what anyone receives will be settled that Day by Allah alone, from a book no reader has seen. The verse seats no reader on the bench; every reader's own community is among the kneeling.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি কিয়ামতের দিনের বর্ণনা দেয়: জাতিগুলো হাঁটু গেড়ে আছে, প্রত্যেককে তার কিতাবের দিকে ডাকা হচ্ছে, প্রতিদান দেওয়া হচ্ছে। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। আজকের কোনো জাতি, জনগোষ্ঠী বা সম্প্রদায়ের বিরুদ্ধে কিছু বলার অনুমতি এটি দেয় না। কে কোথায় দাঁড়াবে, কার খাতায় কী আছে, কে কী পাবে, সেদিন তার ফয়সালা করবেন একমাত্র আল্লাহ, এমন কিতাব থেকে যা কোনো পাঠক দেখেনি। আয়াতটি কোনো পাঠককে বিচারকের আসনে বসায় না। প্রত্যেক পাঠকের নিজের সম্প্রদায়ও নতজানুদের মধ্যেই আছে।"
+          },
+          {
+            "en": "The next verse, 45:29, completes the summons: this book of Ours speaks against you with truth, for We were having all you did transcribed. Then 45:30 and 45:31 divide the kneeling: those who believed and did righteous deeds, whom their Lord admits into His mercy, and those who disbelieved, asked whether His verses were not recited to them. This verse is the moment between, after the deeds are finished and before the verdict is heard.",
+            "bn": "পরের আয়াত ৪৫:২৯ ডাকটাকে পূর্ণ করে: আমার এই কিতাব তোমাদের বিরুদ্ধে সত্য কথা বলছে, কারণ তোমরা যা করতে, আমি তার সবই লিপিবদ্ধ করিয়ে রাখতাম। এরপর ৪৫:৩০ ও ৪৫:৩১ নতজানুদের দুই ভাগে ভাগ করে। যারা ঈমান এনেছে আর নেক আমল করেছে, তাদের রব তাদের নিজের রহমতে প্রবেশ করাবেন। আর যারা কুফরী করেছে, তাদের প্রশ্ন করা হবে, তাঁর আয়াত কি তাদের কাছে পাঠ করা হয়নি? এই আয়াত মাঝখানের মুহূর্ত: আমল শেষ, রায় এখনো শোনা হয়নি।"
+          },
+          {
+            "en": "For the reader, that moment has not yet come, and being shown it early is a mercy. Ma'arif al-Qur'an says the call to the record means each will have to give an account of his deeds before Allah. The record is being written now, and on as-Sa'di's first reading the Book already in our hands is the measure we will be read against. Learning what it asks, and acting on it while the writing continues, is how to prepare for the sitting no one can postpone.",
+            "bn": "পাঠকের জন্য সেই মুহূর্ত এখনো আসেনি, আর আগেভাগে তা দেখিয়ে দেওয়াটাই রহমত। মাআরিফুল কুরআন বলে, আমলনামার দিকে ডাকার অর্থ হলো, প্রত্যেককে আল্লাহর সামনে নিজের আমলের হিসাব দিতে হবে। আমলনামা লেখা হচ্ছে এখনই। আর সা'দীর প্রথম ব্যাখ্যা অনুযায়ী, যে কিতাব আজ আমাদের হাতে, সেটাই সেই মাপকাঠি, যার সঙ্গে মিলিয়ে আমাদের পড়া হবে। তা কী চায় সেটা শেখা, আর লেখা চলতে চলতেই সে অনুযায়ী আমল করা, এভাবেই প্রস্তুতি নিতে হয় সেই বৈঠকের, যা কেউ পিছিয়ে দিতে পারে না।"
+          }
+        ]
+      }
+    ]
+  },
   "45:32": {
     "sections": [
       {
