@@ -34103,6 +34103,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Warn the people you love as one who fears for them, not one who has judged them: name the danger plainly, and leave the way back open.",
     "lessonBn": "প্রিয়জনকে সাবধান করুন তার জন্য ভয় নিয়ে, তার উপর রায় দিয়ে নয়। বিপদের কথা স্পষ্ট বলুন, আর ফেরার পথ খোলা রাখুন।"
+  },
+  "19:70": {
+    "reflectionEn": "The scene has been built verse by verse: all of them gathered with the devils, brought round Hell on their knees, and from every group the most insolent against the Most Merciful pulled out first. Then comes a sentence of a different kind. It does not describe what will be done; it says who knows. We know best who is most deserving of burning in it. The sorting is not left to the crowd, nor to the leaders who misled them, nor to anyone watching. It rests on a knowledge that misses no deed and no share. That leaves me two tasks: to stop deciding other people's place in the Fire, and to ask honestly what my own deeds would earn there.",
+    "reflectionBn": "দৃশ্যটা আয়াতে আয়াতে গড়ে উঠেছে। সবাইকে শয়তানদের সঙ্গে একত্র করা হবে, জাহান্নামের চারপাশে নতজানু করে হাজির করা হবে, আর প্রতিটি দল থেকে দয়াময়ের প্রতি সবচেয়ে উদ্ধতদের আগে টেনে বের করা হবে। এরপর আসে ভিন্ন ধরনের এক বাক্য। কী করা হবে, সে কথা এখানে নেই। আছে, কে জানেন। কারা সেখানে দগ্ধ হওয়ার সবচেয়ে উপযুক্ত, আমিই তা সবচেয়ে ভালো জানি। বাছাইয়ের ভার ভিড়ের হাতে নয়, যে নেতারা পথ ভুলিয়েছিল তাদের হাতেও নয়, যারা তাকিয়ে দেখছে তাদের হাতেও নয়। এর ভিত্তি এমন এক জ্ঞান, যার চোখ এড়ায় না কোনো আমল, কোনো প্রাপ্য অংশ। তাহলে আমার কাজ দুটো। জাহান্নামে কার জায়গা কোথায়, সে রায় দেওয়া বন্ধ করা। আর সৎভাবে নিজেকে জিজ্ঞেস করা, আমার নিজের আমল সেখানে আমার জন্য কী কামাবে।",
+    "pointsEn": [
+      "When I picture the Day of Judgement, do I see myself among those kneeling, or only as someone watching others?",
+      "Whose place in the Fire have I already settled in my own mind, though the verse keeps that knowledge for Allah?",
+      "Where is my own defiance toward the Most Merciful: a command I keep refusing, or a warning I keep laughing off?",
+      "If my deeds were weighed today and given their exact share, what would I want to change before tomorrow?",
+      "Whom have I followed so closely that I may end up answering alongside them for where they led?"
+    ],
+    "pointsBn": [
+      "বিচারের দিনের কথা ভাবলে আমি কি নিজেকে নতজানুদের মধ্যে দেখি, নাকি শুধু অন্যদের দিকে তাকিয়ে থাকা একজন দর্শক হিসেবে?",
+      "জাহান্নামে কার জায়গা আমি মনে মনে ঠিক করে ফেলেছি, অথচ আয়াতটি সে জ্ঞান আল্লাহর কাছেই রেখে দিয়েছে?",
+      "দয়াময়ের প্রতি আমার নিজের ঔদ্ধত্য কোথায়? এমন কোনো হুকুম, যা বারবার অমান্য করি? নাকি এমন কোনো সতর্কবাণী, যা হেসে উড়িয়ে দিই?",
+      "আজই যদি আমার আমল মাপা হতো আর ঠিক যতটুকু প্রাপ্য ততটুকুই দেওয়া হতো, কাল আসার আগে আমি কী বদলাতে চাইতাম?",
+      "কার পেছনে আমি এত কাছ থেকে চলেছি যে, সে যেদিকে নিয়ে গেছে তার জবাব হয়তো আমাকেও তার পাশে দাঁড়িয়ে দিতে হবে?"
+    ],
+    "lessonEn": "Leave the knowledge of who most deserves the Fire with Allah, who knows every deed and its share, and spend your concern on what your own deeds would earn.",
+    "lessonBn": "জাহান্নামের সবচেয়ে উপযুক্ত কারা, সে জ্ঞান আল্লাহর কাছেই থাকুক, যিনি প্রতিটি আমল আর তার প্রাপ্য জানেন। আপনার চিন্তা থাকুক নিজের আমল কী কামাবে, তা নিয়ে।"
   }
 };
 

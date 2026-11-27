@@ -3375,6 +3375,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "19:70": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Acts to Knowledge",
+          "bn": "কাজের বর্ণনা থেকে জ্ঞানের ঘোষণা"
+        },
+        "p": [
+          {
+            "en": "Thumma la-nahnu a'lamu bi-lladhina hum awla biha siliyya: then it is surely We who know best those most deserving of burning in it. Eight Arabic words close a short run of sworn statements. In 19:68 an oath, by your Lord, promised that they would be gathered with the devils and brought round Hell on their knees; that verse has its own reflection. In 19:69 He said that from every group He would draw out whichever of them was worst in insolence against the Most Merciful. Our verse is the next step, and it stands on both.",
+            "bn": "সুম্মা লানাহনু আ'লামু বিল্লাযীনা হুম আওলা বিহা সিলিয়্যা: অতঃপর আমিই অবশ্যই সবচেয়ে ভালো জানি, কারা সেখানে দগ্ধ হওয়ার সবচেয়ে উপযুক্ত। আরবিতে মাত্র আটটি শব্দ, আর এ দিয়েই শেষ হয় কসম করে বলা কথার ছোট্ট একটি ধারা। ১৯:৬৮ আয়াতে 'তোমার রবের কসম' বলে জানানো হয়েছে, তাদের শয়তানদের সঙ্গে একত্র করা হবে, তারপর জাহান্নামের চারপাশে নতজানু অবস্থায় হাজির করা হবে। সে আয়াতের আলোচনা আলাদা জায়গায় আছে। ১৯:৬৯ আয়াতে বলা হয়েছে, প্রতিটি দল থেকে দয়াময়ের প্রতি সবচেয়ে উদ্ধতকে টেনে বের করা হবে। আমাদের আয়াত তার পরের ধাপ, দাঁড়িয়ে আছে এ দুটির উপর।"
+          },
+          {
+            "en": "Look at what the verbs do across the run. Each step carries the same emphatic lam: la-nahshurannahum, We will surely gather them; la-nuhdirannahum, We will surely bring them; la-nanzi'anna, We will surely draw out. Those three are acts. The fourth is not an act at all. La-nahnu a'lamu: surely We are the most knowing. The scene of gathering, kneeling and extraction stops on a sentence about who holds the knowledge behind it, and the word chosen is not a verb of doing but a'lam, most knowing.",
+            "bn": "ধারাটির ক্রিয়াগুলোর দিকে একবার তাকান। প্রতিটি ধাপে আছে জোর দেওয়ার একই 'লাম'। লানাহশুরান্নাহুম: আমি অবশ্যই তাদের একত্র করব। লানুহদিরান্নাহুম: অবশ্যই তাদের হাজির করব। লানানযি'আন্না: অবশ্যই টেনে বের করব। এ তিনটিই কাজ। চতুর্থটি কোনো কাজই নয়। লানাহনু আ'লামু: আমিই সবচেয়ে বেশি জানি। একত্র করা, নতজানু করা, টেনে বের করার দৃশ্য এসে থামে এমন এক বাক্যে, যা বলে এসবের পেছনের জ্ঞান কার হাতে। আর এখানে বেছে নেওয়া শব্দটি করার কোনো ক্রিয়া নয়, 'আ'লাম', সর্বাধিক জ্ঞাত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Report Joined to Report",
+          "bn": "এক খবরের সঙ্গে আরেক খবর"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir begins with the small word at the front. Thumma usually marks one thing following another in time, but here, he says, it serves to join one report to another: thumma hahuna li-'atf al-khabar 'ala al-khabar. On his reading the verse does not set a later event after the extraction. It adds a second piece of information to the first. They will be drawn out from every group; and the One who draws them out is the One who knows best who deserves what. The knowledge is not a stage that comes after the scene; it lies beneath the whole of it.",
+            "bn": "ইবন কাসীর শুরু করেন সামনের ছোট্ট শব্দটি দিয়ে। 'সুম্মা' সাধারণত বোঝায় সময়ের হিসাবে একটির পর আরেকটি। কিন্তু তিনি বলেন, এখানে এর কাজ এক খবরের সঙ্গে আরেক খবর জুড়ে দেওয়া: সুম্মা হাহুনা লি'আতফিল খাবারি 'আলাল খাবার। তাঁর পাঠে আয়াতটি টেনে বের করার পর নতুন কোনো ঘটনা বসাচ্ছে না। প্রথম খবরের সঙ্গে যোগ করছে দ্বিতীয় একটি খবর। প্রতিটি দল থেকে তাদের টেনে বের করা হবে, আর যিনি টেনে বের করবেন, কে কীসের উপযুক্ত তা তিনিই সবচেয়ে ভালো জানেন। জ্ঞানটা দৃশ্যের পরে আসা কোনো ধাপ নয়। পুরো দৃশ্যের নিচেই তা বিছানো।"
+          },
+          {
+            "en": "At-Tabari ties the verse tightly to the verse before it. His paraphrase reads: then We know best, of these whom We draw out from every sect, which of them are most fitting for the severity of the punishment and most deserving of the greatest penalty, awlahum bi-shiddat al-'adhab wa-ahaqquhum bi-'azim al-'uquba. For him the verse works inside the group already pulled out. The most insolent of every sect have been separated, and among them the knowledge of degrees now does its work. As-Sa'di widens the frame without contradicting this: Our knowledge, he writes, encompasses whoever is most deserving of burning in the Fire.",
+            "bn": "তাবারী আয়াতটিকে আগের আয়াতের সঙ্গে শক্ত করে বেঁধে দেন। তাঁর ব্যাখ্যা এরকম: প্রতিটি দল থেকে যাদের আমি টেনে বের করব, তাদের মধ্যে কারা কঠিন শাস্তির সবচেয়ে উপযুক্ত আর ভয়াবহ সাজার সবচেয়ে বেশি হকদার, তা আমিই সবচেয়ে ভালো জানি। আওলাহুম বিশিদ্দাতিল 'আযাব, ওয়া আহাক্কুহুম বি'আযীমিল 'উকূবা। তাঁর মতে আয়াতটির কাজ চলছে আগেই বের করে আনা দলটির ভেতরে। প্রতিটি দলের সবচেয়ে উদ্ধতদের আলাদা করা হয়েছে, এবার তাদের মধ্যে স্তরভেদের জ্ঞান কাজ করছে। সা'দী এর বিরোধিতা না করেই পরিধিটা বড় করেন। তিনি লেখেন, আগুনে দগ্ধ হওয়ার সবচেয়ে উপযুক্ত যে-ই হোক, আমার জ্ঞান তাকে ঘিরে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eternity, or Degrees Within",
+          "bn": "চিরস্থায়িত্ব, নাকি ভেতরের স্তর"
+        },
+        "p": [
+          {
+            "en": "At-Tabari then records an earlier gloss, through his own chain to Ibn Jurayj: most deserving of abiding forever in Hell, awla bil-khulud fi jahannam. He does not let it stand. This saying of Ibn Jurayj, he writes, is a saying without meaning. His reason is worth following step by step. Allah has said that those drawn out of every sect of the disbelievers are the most severe of them in disbelief. And there is no doubt, at-Tabari adds, that every disbeliever in Allah is consigned to the Fire forever, so all of them are already abiding there.",
+            "bn": "এরপর তাবারী নিজের সনদে ইবন জুরাইজের একটি পুরোনো ব্যাখ্যা উল্লেখ করেন: জাহান্নামে চিরকাল থাকার সবচেয়ে উপযুক্ত, আওলা বিলখুলূদি ফী জাহান্নাম। কিন্তু তিনি এ ব্যাখ্যা মেনে নেন না। তাঁর ভাষায়, ইবন জুরাইজের এ কথার কোনো অর্থ দাঁড়ায় না। কারণটা ধাপে ধাপে দেখার মতো। আল্লাহ জানিয়েছেন, কাফিরদের প্রতিটি দল থেকে যাদের বের করা হবে, তারা কুফরিতে সবচেয়ে কঠোর। আর তাবারী যোগ করেন, এতে কোনো সন্দেহ নেই যে আল্লাহকে অস্বীকারকারী প্রত্যেকেই চিরকাল আগুনে থাকবে। তাহলে তারা সবাই তো সেখানে চিরস্থায়ী।"
+          },
+          {
+            "en": "So, he argues, it makes no sense to say: We know best which of these, all of them abiding forever, is more deserving of abiding forever. The verse must be ranking something that differs among them, and that is the severity of what each receives. He then allows a second possibility, marked as only possible: it may also mean, We know best those most deserving of burning in certain levels of Hell, bi-ba'd tabaqat jahannam. On either of his readings the verse distinguishes by degree and place within the Fire, not by who stays.",
+            "bn": "তাই তাঁর যুক্তি হলো, এমন কথা বলার কোনো মানে হয় না যে, এরা প্রত্যেকেই চিরস্থায়ী, তবু এদের মধ্যে কে চিরস্থায়িত্বের বেশি উপযুক্ত তা আমি সবচেয়ে ভালো জানি। আয়াতটি নিশ্চয়ই এমন কিছুর ক্রম ঠিক করছে, যা তাদের মধ্যে আলাদা। আর সেটা হলো প্রত্যেকে যা পাবে তার কঠোরতা। এরপর তিনি আরেকটি সম্ভাবনার কথা বলেন, তবে শুধু সম্ভাবনা হিসেবেই: এর অর্থ এ-ও হতে পারে যে, জাহান্নামের কোনো কোনো স্তরে দগ্ধ হওয়ার সবচেয়ে উপযুক্ত কারা, তা আমি সবচেয়ে ভালো জানি। বিবা'দি তাবাকাতি জাহান্নাম। তাঁর দুই পাঠেই আয়াতের পার্থক্যটা মাত্রা আর আগুনের ভেতরের অবস্থানের, কে থেকে যাবে তার নয়।"
+          },
+          {
+            "en": "Ibn Kathir's gloss does not follow at-Tabari's line exactly, and the difference is worth keeping as it stands. He reads the verse as Allah knowing best which of His servants deserve to burn in the fire of Jahannam and abide in it forever, yukhalladu fiha, and which deserve to have the punishment doubled, tad'if al-'adhab. Abiding forever sits inside his gloss, beside the doubling, where at-Tabari had judged that abiding could not carry the verse's point. Both read the verse as grading those in the Fire; they differ on whether its knowledge is also said to cover who remains there.",
+            "bn": "ইবন কাসীরের ব্যাখ্যা হুবহু তাবারীর পথে চলে না, আর পার্থক্যটা যেমন আছে তেমনই রেখে দেওয়া ভালো। তাঁর পাঠে আল্লাহ সবচেয়ে ভালো জানেন, তাঁর বান্দাদের মধ্যে কারা জাহান্নামের আগুনে দগ্ধ হওয়ার আর সেখানে চিরকাল থাকার উপযুক্ত, ইউখাল্লাদু ফীহা। আর কারা দ্বিগুণ শাস্তির উপযুক্ত, তাদ'ঈফুল 'আযাব। চিরস্থায়িত্ব তাঁর ব্যাখ্যার ভেতরেই আছে, দ্বিগুণ শাস্তির পাশাপাশি। অথচ তাবারী মনে করেছিলেন, চিরস্থায়িত্ব দিয়ে আয়াতের মূল কথা ধরা যায় না। দুজনেই আয়াতটিকে আগুনের বাসিন্দাদের স্তরভেদ হিসেবে পড়েন। তফাত এখানে: কে সেখানে থেকে যাবে, সেটাও এ জ্ঞানের আওতায় বলা হয়েছে কি না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Siliyy: To Enter and Endure",
+          "bn": "সিলিয়্যা: প্রবেশ আর দহন সওয়া"
+        },
+        "p": [
+          {
+            "en": "The last word, siliyya, names what the worthiness is for. The Muyassar renders the phrase as most deserving of entering the Fire and enduring its heat, bi-dukhul an-nar wa-muqasat harriha. Al-Qurtubi and al-Baghawi both gloss awla with ahaqq: more entitled, with the stronger claim, to enter the Fire. The pronoun in biha points back to the Hell named in 19:68, so the burning here is not burning in general. It is this Fire, round which they have just been brought on their knees.",
+            "bn": "শেষ শব্দ 'সিলিয়্যা' বলে দেয়, উপযুক্ততাটা কীসের। মুয়াসসার অংশটির অর্থ করেছে এভাবে: আগুনে প্রবেশ করার আর তার উত্তাপ সহ্য করার সবচেয়ে উপযুক্ত, বিদুখূলিন নারি ওয়া মুকাসাতি হাররিহা। কুরতুবী আর বাগাভী দুজনেই 'আওলা'-র অর্থ করেছেন 'আহাক্ক' দিয়ে, অর্থাৎ আগুনে প্রবেশের বেশি হকদার। 'বিহা' শব্দের সর্বনাম ফিরে যায় ১৯:৬৮ আয়াতে উল্লেখ করা জাহান্নামের দিকে। তাই এখানে দহন মানে যেকোনো দহন নয়। এ সেই আগুন, যার চারপাশে তাদের এইমাত্র নতজানু করে আনা হয়েছে।"
+          },
+          {
+            "en": "The commentators also look at the build of the word. At-Tabari calls siliyy a verbal noun of the verb for burning, built on the pattern fu'ul; its waw turned into a ya and merged into the ya that is the verb's final root letter, so that the word ends in a doubled ya. Al-Baghawi lists two verbs behind it and pairs each with a familiar model: saliya yasla, like laqiya yalqa, to meet; and sala yasli, like mada yamdi, to pass on. Both, he says, are used when one enters the Fire and suffers its heat.",
+            "bn": "শব্দটির গঠনও তাফসীরকারেরা খুঁটিয়ে দেখেছেন। তাবারী বলেন, 'সিলিয়্যু' দগ্ধ হওয়ার ক্রিয়ার ক্রিয়াবাচক বিশেষ্য, গড়ে উঠেছে 'ফু'ঊল' ছাঁচে। এর 'ওয়াও' বদলে 'ইয়া' হয়েছে, তারপর মিশে গেছে ক্রিয়ার শেষ মূল অক্ষর 'ইয়া'-র সঙ্গে। ফলে শব্দের শেষে দাঁড়িয়েছে তাশদীদযুক্ত 'ইয়া'। বাগাভী এর পেছনে দুটি ক্রিয়ার কথা বলেন, আর প্রতিটির পাশে রাখেন পরিচিত একটি নমুনা। একটি সালিয়া ইয়াসলা, যেমন লাকিয়া ইয়ালকা, সাক্ষাৎ পাওয়া। অন্যটি সালা ইয়াসলী, যেমন মাদা ইয়ামদী, চলে যাওয়া। তাঁর কথায়, দুটিই বলা হয় যখন কেউ আগুনে ঢোকে আর তার উত্তাপ ভোগ করে।"
+          },
+          {
+            "en": "Al-Qurtubi, quoting the lexicographer al-Jawhari, records a distinction of use. Salaytu ar-rajula naran means I made the man enter a fire; but if you threw him into it as if meaning to burn him, you say aslaytuhu. He adds that one also says saliya bil-amr when a person has suffered the heat and hardness of an affair, and quotes a poet on fighters whose valour does not wear out though they burn in war time after time. The word holds together the two senses the Muyassar's gloss keeps side by side: to enter, and to undergo.",
+            "bn": "কুরতুবী অভিধানবিদ জাওহারীর কথা উদ্ধৃত করে ব্যবহারের একটি সূক্ষ্ম পার্থক্য তুলে ধরেন। 'সালাইতুর রাজুলা নারান' মানে আমি লোকটিকে আগুনে ঢুকিয়েছি। কিন্তু যদি পুড়িয়ে ফেলার মতলবে তাকে ছুড়ে ফেলেন, তবে বলবেন 'আসলাইতুহু'। তিনি আরও বলেন, কেউ কোনো ব্যাপারের উত্তাপ আর কাঠিন্য সয়ে গেলে বলা হয় 'সালিয়া বিলআমর'। সঙ্গে এক কবির পঙক্তি আনেন, এমন যোদ্ধাদের নিয়ে যাদের সাহস ক্ষয় হয় না, যদিও বারবার তারা যুদ্ধের আগুনে পোড়ে। শব্দটি তাই দুটি অর্থ একসঙ্গে ধরে রাখে, যা মুয়াসসারের ব্যাখ্যায়ও পাশাপাশি আছে: ভেতরে ঢোকা, আর তা সয়ে যাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "And Yet You Do Not Know",
+          "bn": "অথচ তোমরা জান না"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir does not leave the verse on its own. He sets beside it a passage from Surat al-A'raf, as he had on the verse before. There the nations enter the Fire one after another, and when all of them have caught up with each other inside it, the last of them say of the first: Our Lord, these are the ones who misled us, so give them a double punishment of the Fire. The answer comes in the same verse, 7:38: for each there is a double, but you do not know.",
+            "bn": "ইবন কাসীর আয়াতটিকে একা রেখে যান না। এর পাশে তিনি রাখেন সূরা আ'রাফের একটি অংশ, যেমনটা আগের আয়াতেও রেখেছিলেন। সেখানে জাতিগুলো একের পর এক আগুনে ঢোকে। যখন সবাই ভেতরে একত্র হয়ে যায়, তখন পরের দল আগের দল সম্পর্কে বলে: হে আমাদের রব, এরাই আমাদের পথভ্রষ্ট করেছিল, কাজেই এদের আগুনের দ্বিগুণ শাস্তি দিন। জবাব আসে ওই আয়াতেই, ৭:৩৮: প্রত্যেকের জন্যই দ্বিগুণ, কিন্তু তোমরা জান না।"
+          },
+          {
+            "en": "Set the two verses side by side and the contrast is there in the wording itself. In al-A'raf the followers try to fix the measure of their leaders' punishment, and they are told that they do not know. Here the speaker is He who does know: We know best. Neither the grievance of the crowd nor the rank of those who led it settles who deserves what. Ibn Kathir makes the doubling part of what this verse says Allah knows, so the sorting of 19:70 reaches past who enters to how much each bears.",
+            "bn": "দুটি আয়াত পাশাপাশি রাখলে বৈপরীত্যটা শব্দের মধ্যেই চোখে পড়ে। আ'রাফে অনুসারীরা নিজেরাই নেতাদের শাস্তির মাপ ঠিক করে দিতে চায়, আর তাদের বলা হয়, তোমরা জান না। আর এখানে যিনি কথা বলছেন, তিনিই সেই জন যিনি জানেন: আমিই সবচেয়ে ভালো জানি। কে কীসের উপযুক্ত, তা ঠিক হয় না ভিড়ের অভিযোগে, আবার ভিড়ের নেতাদের পদমর্যাদাতেও না। ইবন কাসীর দ্বিগুণ শাস্তিকে এ আয়াতে বলা আল্লাহর জ্ঞানের অংশ করে নেন। ফলে ১৯:৭০-এর বাছাই কে ঢুকবে শুধু সেখানে থামে না, কে কতটা বইবে সেখানেও পৌঁছায়।"
+          },
+          {
+            "en": "The verse before has its own early report, which Ibn Kathir relays from Ibn Mas'ud (RA): the gathered are bound together until their number is complete, and then Allah begins with the greatest of them in crime and continues in order. Ma'arif al-Qur'an notes commentators who read the extraction as an order of committal by the weight of sin. Those readings belong to 19:69 and are only pointed to here. No tafsir fetched on our verse attaches a hadith of the Prophet ﷺ to it; the sound hadith in Ibn Kathir's passage belongs to 19:66 and 19:67.",
+            "bn": "আগের আয়াতের সঙ্গে আছে পূর্বসূরিদের একটি বর্ণনা, যা ইবন কাসীর ইবন মাসঊদ (রাঃ) থেকে উল্লেখ করেন: একত্র করা লোকদের একে অপরের সঙ্গে বেঁধে রাখা হবে, যতক্ষণ না তাদের সংখ্যা পূর্ণ হয়। তারপর আল্লাহ শুরু করবেন তাদের মধ্যে সবচেয়ে বড় অপরাধীকে দিয়ে, এরপর ক্রমান্বয়ে। মাআরিফুল কুরআন এমন কিছু তাফসীরকারের কথা বলে, যাঁরা টেনে বের করাকে গুনাহের ভার অনুযায়ী জাহান্নামে পাঠানোর ক্রম হিসেবে পড়েন। এসব পাঠ ১৯:৬৯ আয়াতের, এখানে শুধু ইঙ্গিত দেওয়া হলো। আমাদের আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। ইবন কাসীরের এ অংশের সহীহ হাদীসটি ১৯:৬৬ ও ১৯:৬৭ আয়াতের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Deed's Measured Portion",
+          "bn": "প্রতিটি আমলের মাপা হিস্যা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di puts the verse in a single line, and the line is about completeness. Our knowledge encompasses whoever is most deserving of burning in the Fire; We have known them, and known their deeds, what those deeds deserve, and their portion of the punishment: wa-'alimna a'malahum wa-istihqaqaha wa-qistaha min al-'adhab. Four things are known in that sentence: the people, their deeds, what the deeds have earned, and the share that answers to it. Nothing in it is guessed or rounded.",
+            "bn": "সা'দী আয়াতটিকে একটি বাক্যে ধরেন, আর বাক্যটির মূল কথা পূর্ণতা। আগুনে দগ্ধ হওয়ার সবচেয়ে উপযুক্ত যে-ই হোক, আমার জ্ঞান তাকে ঘিরে আছে। আমি তাদের জেনেছি, তাদের আমল জেনেছি, সে আমল কী পাওয়ার যোগ্য তা জেনেছি, আর শাস্তিতে তাদের হিস্যাও জেনেছি: ওয়া 'আলিমনা আ'মালাহুম ওয়াসতিহকাকাহা ওয়া কিসতাহা মিনাল 'আযাব। এ বাক্যে জানা চারটি জিনিস: মানুষগুলো, তাদের আমল, আমলগুলো কী অর্জন করেছে, আর তার সমান মাপের অংশ। এখানে কিছুই আন্দাজে নয়, কিছুই মোটা দাগে নয়।"
+          },
+          {
+            "en": "Read this way, the verse is as much a statement about measure as a warning. No one in that assembly is given what belongs to another, and no deed is counted that was not done. At-Tabari spoke of degrees, Ibn Kathir of doubling, as-Sa'di of portions; under each is the claim the verse makes in eight words, that the measure rests with Him whose knowledge does not fail. Then 19:71 turns to the listeners directly: there is none of you but will come to it. What that coming means is that verse's question, not this verse's.",
+            "bn": "এভাবে পড়লে আয়াতটি যতটা সতর্কবাণী, ততটাই মাপের ঘোষণা। সেই সমাবেশে কাউকে অন্যের প্রাপ্য দেওয়া হবে না, আর যে কাজ করা হয়নি তা কারও হিসাবে উঠবে না। তাবারী বলেছেন স্তরের কথা, ইবন কাসীর দ্বিগুণ শাস্তির কথা, সা'দী হিস্যার কথা। প্রতিটির নিচে আছে সেই দাবি, যা আয়াতটি আটটি শব্দে বলে দেয়: মাপের ভার তাঁর হাতে, যাঁর জ্ঞানে কোনো ভুল নেই। এরপর ১৯:৭১ আয়াত সরাসরি শ্রোতাদের দিকে ফেরে: তোমাদের এমন কেউ নেই, যে সেখানে পৌঁছাবে না। সে পৌঁছানোর অর্থ কী, সেটা ওই আয়াতের প্রশ্ন, এ আয়াতের নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowledge He Never Delegated",
+          "bn": "যে জ্ঞান কাউকে দেওয়া হয়নি"
+        },
+        "p": [
+          {
+            "en": "This must be said firmly. The verse describes what the text describes: a scene on the Day of Judgement, among those gathered round Hell, sorted by Allah's own knowledge. It licenses nothing against any living person or community. It names no one alive as deserving the Fire, and no group, nation or sect of today. If anything it says the opposite of what a condemner wants to hear: the knowledge of who is most deserving is claimed by Allah, in the first person, and is handed to no one else.",
+            "bn": "কথাটা দৃঢ়ভাবে বলা দরকার। আয়াতটি ঠিক ততটুকুই বর্ণনা করে, যতটুকু এর শব্দে আছে: বিচারের দিনের একটি দৃশ্য, জাহান্নামের চারপাশে জড়ো করা মানুষ, আর আল্লাহর নিজের জ্ঞানে তাদের বাছাই। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। আজকের কোনো জীবিত ব্যক্তিকে এ আয়াত জাহান্নামের উপযুক্ত বলে চিহ্নিত করে না, কোনো দল, জাতি বা মতের লোককেও না। বরং যে অন্যকে দোষী সাব্যস্ত করতে চায়, তার জন্য এখানে উল্টো বার্তা। কারা সবচেয়ে উপযুক্ত, সে জ্ঞানের দাবি আল্লাহ নিজের বলে করেছেন, আর তা আর কারও হাতে তুলে দেননি।"
+          },
+          {
+            "en": "The commentators fetched here keep to that line. At-Tabari explains the grades among those drawn out; al-Qurtubi and al-Baghawi explain the word; as-Sa'di speaks of what Allah has known. None of them turns the verse into a list of the living. A reader who hears We know best and turns it into I know has reversed the verse. The only use it allows is the use the surah itself made two verses earlier: the man of 19:66 was told to remember his own creation, not to judge someone else's end.",
+            "bn": "এখানে আনা তাফসীরগুলোও এ সীমার ভেতরে থাকে। তাবারী ব্যাখ্যা করেন বের করে আনা লোকদের মধ্যকার স্তর। কুরতুবী আর বাগাভী ব্যাখ্যা করেন শব্দটি। সা'দী বলেন আল্লাহ কী জেনেছেন, সে কথা। কেউই আয়াতটিকে জীবিত মানুষের তালিকা বানাননি। যে পাঠক 'আমিই সবচেয়ে ভালো জানি' শুনে বানিয়ে ফেলে 'আমি জানি', সে আয়াতটিকে উল্টে দিয়েছে। আয়াতের একমাত্র অনুমোদিত ব্যবহার সেটাই, যা সূরা নিজেই দুই আয়াত আগে দেখিয়েছে। ১৯:৬৬ আয়াতের লোকটিকে বলা হয়েছিল নিজের সৃষ্টির কথা স্মরণ করতে, অন্যের পরিণতির বিচার করতে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Insolence Against the Merciful",
+          "bn": "দয়াময়ের সামনে ঔদ্ধত্য"
+        },
+        "p": [
+          {
+            "en": "So the verse turns back on whoever recites it. Those drawn out first were described in 19:69 by a single quality, 'utiyy, insolence, and by its direction: against ar-Rahman, the Most Merciful. The name chosen at that point is the name of mercy, and the defiance is measured against it. That is a question a reader can put to himself without presuming anything about anyone else. Toward the One who has been most merciful to me, where am I most defiant?",
+            "bn": "তাই আয়াতটি ফিরে আসে যে তিলাওয়াত করছে, তার নিজের দিকে। ১৯:৬৯ আয়াতে যাদের আগে টেনে বের করা হবে, তাদের চেনানো হয়েছে একটিমাত্র গুণ দিয়ে, 'উতিয়্যু, ঔদ্ধত্য। আর বলা হয়েছে তার দিকও: আর-রহমানের প্রতি, পরম দয়াময়ের প্রতি। সেখানে বেছে নেওয়া নামটি দয়ার নাম, আর অবাধ্যতা মাপা হয়েছে সেই নামের সামনে। এ প্রশ্ন পাঠক নিজেকেই করতে পারেন, অন্য কারও সম্পর্কে কিছু ধরে না নিয়ে। যিনি আমার প্রতি সবচেয়ে বেশি দয়া করেছেন, তাঁর প্রতি আমার নাফরমানি সবচেয়ে বেশি কোথায়?"
+          },
+          {
+            "en": "As-Sa'di's line points the same way. If deeds are known together with what they deserve and their exact portion, then the inventory worth taking is my own. Which deed would I want weighed differently? Which warning have I treated the way the man of 19:66 treated the raising, as too far-fetched to take seriously? The verse closes on Allah's knowledge and leaves the reader one task: to live with that knowledge in view, and to bring before it deeds he would not mind having known.",
+            "bn": "সা'দীর বাক্যও একই দিকে ইশারা করে। আমলগুলো যদি জানা থাকে, সঙ্গে জানা থাকে তাদের প্রাপ্য আর ঠিক কতটুকু হিস্যা, তাহলে হিসাব নেওয়ার মতো খাতা আমার নিজেরটাই। কোন আমলটা আমি চাইতাম অন্যভাবে মাপা হোক? কোন সতর্কবাণীকে আমি সেভাবে নিয়েছি, যেভাবে ১৯:৬৬ আয়াতের লোকটি পুনরুত্থানকে নিয়েছিল, এত দূরের কথা যে গুরুত্ব দেওয়ার দরকার নেই? আয়াতটি শেষ হয় আল্লাহর জ্ঞানে এসে। পাঠকের জন্য রেখে যায় একটিমাত্র কাজ: সে জ্ঞান চোখের সামনে রেখে বাঁচা, আর তাঁর সামনে এমন আমল নিয়ে যাওয়া, যা জানাজানি হলেও লজ্জা পেতে হবে না।"
+          }
+        ]
+      }
+    ]
+  },
   "19:72": {
     "sections": [
       {
