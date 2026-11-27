@@ -2527,6 +2527,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "30:52": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Yellowed Fields",
+          "bn": "হলুদ খেতের পরের কথা"
+        },
+        "p": [
+          {
+            "en": "Fa-innaka la tusmi'u al-mawta wa la tusmi'u as-summa ad-du'a'a idha wallaw mudbirin: so indeed, you cannot make the dead hear, nor make the deaf hear the call when they turn their backs, retreating. The opening fa, so, ties the verse to what came just before it. From 30:46 the surah has been speaking of winds that carry rain, of people who despair until it falls and then rejoice, and, in 30:51, of the same people turning thankless the moment a wind yellows their crops.",
+            "bn": "ফা ইন্নাকা লা তুসমিউল মাওতা ওয়া লা তুসমিউস সুম্মাদ দুআআ ইযা ওয়াল্লাও মুদবিরীন: সুতরাং তুমি মৃতকে শোনাতে পারবে না, আর বধির যখন পিঠ ফিরিয়ে চলে যায়, তাকেও ডাক শোনাতে পারবে না। শুরুর ফা, অর্থাৎ সুতরাং, আয়াতটিকে ঠিক আগের কথার সঙ্গে বেঁধে দেয়। ৩০:৪৬ থেকে সূরাটি বলে আসছে বৃষ্টি বয়ে আনা বাতাসের কথা। বলছে সেই মানুষদের কথা, যারা বৃষ্টি নামার আগ পর্যন্ত হতাশ থাকে, আর নামলে খুশি হয়। তারপর ৩০:৫১ আয়াতে সেই মানুষেরাই এক দমকা হাওয়ায় ফসল হলুদ হতে দেখে অকৃতজ্ঞ হয়ে যায়।"
+          },
+          {
+            "en": "As-Sa'di reads the link directly. He opens his comment with the people just described: these, he says, are people in whom no admonition and no warning does any good. Then he quotes the verse. Its words are almost those of 27:80, whose article already treats al-Baghawi's question about the turning back and the variant reading of the second clause, so they are not retold here. In ar-Rum the verse closes a passage about rain, revived earth and fickle thanks, and that setting gives it a weight of its own.",
+            "bn": "সা'দী সংযোগটা সরাসরি ধরেন। তাঁর আলোচনা শুরু হয় সদ্য বর্ণিত লোকদের দিয়ে: এরা এমন মানুষ, যাদের কোনো উপদেশ বা ধমক কাজে আসে না। তারপর তিনি আয়াতটি উদ্ধৃত করেন। এর শব্দগুলো প্রায় হুবহু ২৭:৮০ আয়াতের। সেখানকার প্রবন্ধে পিঠ ফেরানোর প্রসঙ্গে বাগাভীর প্রশ্ন আর দ্বিতীয় বাক্যাংশের ভিন্ন কিরাআত নিয়ে আলোচনা আছে, তাই এখানে তা আর বলা হচ্ছে না। সূরা রূমে আয়াতটি এসেছে বৃষ্টি, জেগে ওঠা মাটি আর ক্ষণস্থায়ী কৃতজ্ঞতার এক আলোচনার শেষে। এই প্রেক্ষাপটই এখানে আয়াতটিকে আলাদা ভার দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Likeness, Not a Graveyard",
+          "bn": "উপমা, কবরস্থান নয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari begins with the verb. La tusmi'u al-mawta, he says, means you do not give them a hearing by which they understand from you what you tell them. Then he names the device: this is a likeness, a mathal. Its sense is that you, Muhammad, cannot make these polytheists understand, for Allah has sealed their hearing and taken from them the understanding of the admonitions of His revelation recited to them, just as you cannot make the dead understand by giving them hearing.",
+            "bn": "তাবারী শুরু করেন ক্রিয়াপদটি দিয়ে। লা তুসমিউল মাওতা মানে, তিনি বলেন, তুমি তাদের এমন শ্রবণশক্তি দিতে পার না, যা দিয়ে তারা তোমার কথা বুঝবে। তারপর তিনি কৌশলটির নাম বলেন: এটি একটি উপমা, মাসাল। এর মর্ম হলো, হে মুহাম্মাদ, এই মুশরিকদের তুমি বোঝাতে পারবে না। আল্লাহ তাদের শ্রবণে মোহর এঁটে দিয়েছেন, তাঁর নাযিল করা যে উপদেশ তাদের পড়ে শোনানো হয় তা বোঝার ক্ষমতা কেড়ে নিয়েছেন। মৃতকে কান দিয়ে বোঝানো যেমন তোমার সাধ্যে নেই, এদের বোঝানোও তেমনি নেই।"
+          },
+          {
+            "en": "He treats the second clause the same way. As you cannot make the deaf, who have lost their hearing, hear the call when they turn away from you, so you cannot bring those whom Allah has deprived of understanding His Book to hear it and grasp it. He adds that the people of interpretation said the like, and cites Qatada: this is a likeness Allah struck for the disbeliever. As the dead man does not hear the call, so the disbeliever does not hear.",
+            "bn": "দ্বিতীয় বাক্যাংশও তিনি একইভাবে ব্যাখ্যা করেন। যাদের শোনার শক্তি চলে গেছে, সেই বধিরেরা পিঠ ফিরিয়ে চলে গেলে তুমি যেমন তাদের ডাক শোনাতে পার না, তেমনি আল্লাহ যাদের তাঁর কিতাব বোঝার ক্ষমতা থেকে বঞ্চিত করেছেন, তাদেরও তা শোনার ও বোঝার তাওফীক দিতে পার না। তিনি জানান, তাফসীরকারেরা এমনটাই বলেছেন, আর কাতাদার কথা উদ্ধৃত করেন: এটি কাফিরের জন্য আল্লাহর দেওয়া এক উপমা। মৃত যেমন ডাক শোনে না, কাফিরও তেমনি শোনে না।"
+          },
+          {
+            "en": "Qatada goes on to the second image. If a deaf man turned and walked away and you then called out to him, he would not hear. In the same way, he says, the disbeliever does not hear, and does not benefit from what he hears. That last clause carries the weight. Qatada does not say the sound fails to reach the man. He says that nothing in it reaches him in a way that helps.",
+            "bn": "কাতাদা এরপর দ্বিতীয় ছবিটিতে যান। কোনো বধির যদি পিঠ ফিরিয়ে হাঁটা ধরে, আর তখন তুমি তাকে ডাকো, সে শুনবে না। কাফিরও ঠিক তেমনি, তিনি বলেন: সে শোনে না, আর যা শোনে তাতেও তার কোনো উপকার হয় না। আসল ভার শেষ কথাটিতেই। কাতাদা বলছেন না যে আওয়াজ লোকটির কানে পৌঁছায় না। তিনি বলছেন, আওয়াজের কিছুই তার কাছে এমনভাবে পৌঁছায় না, যাতে তার উপকার হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Minds That Died of Habit",
+          "bn": "অভ্যাসে মরে যাওয়া বুদ্ধি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi puts the cause in a single sentence. The proofs had been made clear, he writes, addressing the Prophet ﷺ; but because they were attached to imitating their forefathers in disbelief, their minds died and their inner sight was blinded, so it was not possible for you to make them hear or to guide them. The death he describes is not of the body. It is what happens to a mind that has handed its judgement to inherited custom and stopped weighing what it hears.",
+            "bn": "কুরতুবী কারণটা বলেন এক বাক্যে। নবী ﷺ-কে সম্বোধন করে তিনি লেখেন, প্রমাণগুলো তো স্পষ্ট করে দেওয়া হয়েছিল। কিন্তু কুফরিতে বাপ-দাদার অন্ধ অনুকরণে তারা এত অভ্যস্ত ছিল যে তাদের বুদ্ধি মরে গিয়েছিল, অন্তরের দৃষ্টি অন্ধ হয়ে গিয়েছিল। তাই তাদের শোনানো বা পথ দেখানো তোমার পক্ষে সম্ভব হয়নি। তিনি যে মৃত্যুর কথা বলেন, তা শরীরের নয়। এ সেই বুদ্ধির দশা, যা নিজের বিচার উত্তরাধিকারে পাওয়া রীতির হাতে তুলে দিয়েছে, আর যা শোনে তা যাচাই করা ছেড়ে দিয়েছে।"
+          },
+          {
+            "en": "He closes with one short line: this is a reply to a group of theologians, and he says no more about them here. The Muyassar names two causes in one breath. You cannot make hear, it says, one whose heart has died, or one who has stopped his ear against hearing the truth. The first is a condition; the second is an act. Both end in the same silence, and the Muyassar places them side by side without ranking them.",
+            "bn": "শেষে তিনি ছোট্ট একটি লাইন জুড়ে দেন: এতে একদল কালামবিদের জবাব রয়েছে। এখানে তাদের নিয়ে তিনি আর কিছু বলেন না। মুয়াসসার এক নিঃশ্বাসে দুটি কারণের নাম নেয়। যার অন্তর মরে গেছে, অথবা সত্য শোনা থেকে যে নিজের কান বন্ধ করে রেখেছে, তাকে তুমি শোনাতে পারবে না। প্রথমটি একটি দশা, দ্বিতীয়টি একটি কাজ। দুটোরই শেষ একই নীরবতায়। মুয়াসসার দুটোকে পাশাপাশি রাখে, কোনোটাকে আগে-পিছে করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Walking Off Makes It Worse",
+          "bn": "চলে গেলে আরও দূরে"
+        },
+        "p": [
+          {
+            "en": "Then the condition: idha wallaw mudbirin, when they turn their backs, retreating. As-Sa'di reads it as a step further. You cannot make the dead hear, nor the deaf hear the call, and all the more so when they turn away. His reason is a comparison of obstacles. Barriers against submitting and against beneficial hearing have gathered in these people, he says, just as the barriers named in the verse gather against hearing a sound with the ear.",
+            "bn": "তারপর শর্তটি: ইযা ওয়াল্লাও মুদবিরীন, যখন তারা পিঠ ফিরিয়ে চলে যায়। সা'দী একে দেখেন আরও এক ধাপ হিসেবে। তুমি মৃতকে শোনাতে পার না, বধিরকে ডাক শোনাতে পার না, আর তারা মুখ ফিরিয়ে চলে গেলে তো আরও পার না। তাঁর যুক্তি বাধাগুলোর তুলনা। আনুগত্য আর উপকারী শ্রবণের পথে এই লোকদের মধ্যে অনেক বাধা জমে গেছে, তিনি বলেন, ঠিক যেমন আয়াতে বলা বাধাগুলো কানে আওয়াজ শোনার পথে জমে থাকে।"
+          },
+          {
+            "en": "The Muyassar takes the same step with a question. They are like the deaf and the dead, it says: they do not hear and do not perceive even when they are present, so how could they when they are absent from you, turning away? The picture has two distances in it. A deaf man in the room still misses the words. A deaf man walking out of it is beyond even a gesture. The turning, in the verse, is something the listener does.",
+            "bn": "মুয়াসসার একই ধাপটি তোলে একটি প্রশ্ন দিয়ে। তারা বধির আর মৃতের মতো: সামনে উপস্থিত থেকেও শোনে না, টেরও পায় না। তাহলে মুখ ফিরিয়ে তোমার কাছ থেকে দূরে চলে গেলে কীভাবে শুনবে? ছবিটিতে দুটি দূরত্ব আছে। ঘরের ভেতরে বসা বধিরও কথাগুলো ধরতে পারে না। আর যে বধির ঘর ছেড়ে বেরিয়ে যাচ্ছে, তার কাছে ইশারাও পৌঁছায় না। আয়াতে এই মুখ ফেরানো কাজটা শ্রোতার নিজের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Word, Two Verses Apart",
+          "bn": "দুই আয়াত আগের সেই শব্দ"
+        },
+        "p": [
+          {
+            "en": "Read the verse beside 30:50 and one word stands out. There Allah tells the reader to look at the traces of His mercy, how He gives life to the earth after its death, and adds: inna dhalika la-muhyi al-mawta, indeed, that same One will give life to the dead. Two verses later the same word returns: you cannot make al-mawta hear. The dead earth is revived by the rain Allah sends. The dead of this verse are revived by no one's voice.",
+            "bn": "আয়াতটি ৩০:৫০-এর পাশে রেখে পড়লে একটি শব্দ চোখে পড়ে। সেখানে আল্লাহ পাঠককে বলেন তাঁর রহমতের চিহ্নগুলো দেখতে, কীভাবে তিনি মাটিকে তার মৃত্যুর পর জীবিত করেন। তারপর যোগ করেন: ইন্না যালিকা লামুহয়িল মাওতা, নিশ্চয় তিনিই মৃতদের জীবিত করবেন। দুই আয়াত পরে সেই শব্দই ফিরে আসে: তুমি আল-মাওতাকে শোনাতে পারবে না। মরা মাটি জেগে ওঠে আল্লাহর পাঠানো বৃষ্টিতে। আর এ আয়াতের মৃতেরা জেগে ওঠে না কারও কণ্ঠস্বরে।"
+          },
+          {
+            "en": "Ibn Kathir draws the line between the two powers. As it is not in your power, he writes, to make the dead in their graves hear, or to make your words reach the deaf who do not hear and are turning away from you, so you cannot guide those who are blind to the truth and bring them back from their error. That belongs to Allah, for by His power He makes the dead hear the voices of the living if He wills, and guides whom He wills.",
+            "bn": "দুই ক্ষমতার মাঝের রেখাটা ইবন কাসীর টেনে দেন। তিনি লেখেন, কবরে থাকা মৃতদের শোনানো তোমার সাধ্যে নেই। যে বধিরেরা শোনে না, তার উপর তোমার দিক থেকে মুখ ফিরিয়ে নিচ্ছে, তাদের কানে তোমার কথা পৌঁছে দেওয়াও তোমার সাধ্যে নেই। ঠিক তেমনি সত্যের ব্যাপারে যারা অন্ধ, তাদের পথ দেখানো আর পথভ্রষ্টতা থেকে ফিরিয়ে আনাও তোমার সাধ্যে নেই। এ কাজ আল্লাহর। তিনি চাইলে নিজ কুদরতে মৃতদের জীবিতদের আওয়াজ শোনান, আর যাকে চান পথ দেখান।"
+          },
+          {
+            "en": "Commenting on the next verse, he sets the other side against it. Those who believe in Our signs are the submissive, who respond and obey, and they are the ones who listen to the truth and follow it. He cites 6:36: only those who hear will respond, while the dead, Allah will raise them. At-Tabari, on 30:53, calls theirs the hearing by which the hearer benefits. That verse adds the blind as a third likeness; the point here is only where hearing comes from.",
+            "bn": "পরের আয়াতের আলোচনায় তিনি অপর পক্ষটি সামনে আনেন। যারা আমার আয়াতে ঈমান আনে, তারা বিনয়ী, সাড়া দেয়, আনুগত্য করে। তারাই সত্য মন দিয়ে শোনে আর মেনে চলে। তিনি উদ্ধৃত করেন ৬:৩৬: সাড়া দেয় কেবল তারাই, যারা শোনে, আর মৃতদের আল্লাহ পুনরুত্থিত করবেন। ৩০:৫৩ আয়াতের আলোচনায় তাবারী এদের শোনাকে বলেন সেই শোনা, যাতে শ্রোতার উপকার হয়। ওই আয়াত তৃতীয় উপমা হিসেবে অন্ধের কথা যোগ করে। এখানে কথা কেবল এটুকু: শোনার শক্তি আসে কোথা থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Companions, One Well",
+          "bn": "এক কূপ, দুই সাহাবীর বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Under 30:53 Ibn Kathir turns to a dispute in which these words were cited. 'A'isha, he writes, used innaka la tusmi'u al-mawta to argue that 'Abdullah ibn 'Umar was mistaken in reporting that the Prophet ﷺ addressed the slain thrown into the well of Badr on the third day after the battle. The words she recited match 27:80 letter for letter; 30:52 adds the opening fa. The article on 27:80 gives Abu Talha's long account, so two shorter reports are given here instead.",
+            "bn": "৩০:৫৩ আয়াতের আলোচনায় ইবন কাসীর এমন এক মতভেদের দিকে যান, যেখানে এই কথাগুলো দলিল হিসেবে এসেছিল। তিনি লেখেন, আব্দুল্লাহ ইবন উমর (রাঃ) বর্ণনা করেছিলেন, বদর যুদ্ধের তৃতীয় দিনে নবী ﷺ কূপে ফেলা নিহতদের সম্বোধন করেছিলেন। আয়েশা (রাঃ) ইন্নাকা লা তুসমিউল মাওতা দিয়ে যুক্তি দেন যে এ বর্ণনায় ইবন উমর (রাঃ)-র ভুল হয়েছে। তিনি যে শব্দগুলো পড়েছিলেন, তা হুবহু ২৭:৮০ আয়াতের, আর ৩০:৫২ শুরুতে একটি ফা যোগ করে। ২৭:৮০-এর প্রবন্ধে আবূ তালহা (রাঃ)-র দীর্ঘ বর্ণনা আছে, তাই এখানে অন্য দুটি ছোট বর্ণনা দেওয়া হলো।"
+          },
+          {
+            "en": "Ibn 'Umar's report, in Sahih al-Bukhari (1370): \"The Prophet ﷺ looked at the people of the well and said, 'Have you found true what your Lord promised you?' Somebody said to him, 'You are addressing dead people.' He replied, 'You do not hear better than they, but they cannot reply.'\" 'A'isha's answer stands at 1371: \"The Prophet ﷺ said, 'They now realize that what I used to tell them was the truth.' And Allah has said, 'You cannot make the dead hear.'\"",
+            "bn": "সহীহ বুখারীতে (১৩৭০) ইবন উমর (রাঃ)-র বর্ণনা: \"নবী ﷺ কূপের লোকদের দিকে তাকিয়ে বললেন, 'তোমাদের রব তোমাদের যে ওয়াদা দিয়েছিলেন, তোমরা কি তা সত্য পেয়েছ?' কেউ তাঁকে বলল, 'আপনি মৃতদের ডাকছেন।' তিনি বললেন, 'তোমরা তাদের চেয়ে বেশি শোনো না, কিন্তু তারা জবাব দিতে পারে না।'\" আয়েশা (রাঃ)-র জবাব আছে ১৩৭১ নম্বরে: \"নবী ﷺ বলেছিলেন, 'তারা এখন জানে, আমি তাদের যা বলতাম, তা-ই সত্য।' আর আল্লাহ বলেছেন, 'তুমি মৃতকে শোনাতে পারবে না।'\""
+          },
+          {
+            "en": "In a third report, at 3978, 'A'isha recites this verse together with 35:22, you cannot make those in the graves hear, and says that what he said was that they now know. Qatada, as Ibn Kathir relays him, explains the hearing instead: Allah brought them back to life for him so that they heard his words, as rebuke and reproach. Ibn Kathir then gives his own judgement. The sound position among the scholars, he writes, is Ibn 'Umar's report, because many lines of evidence support it.",
+            "bn": "তৃতীয় এক বর্ণনায়, ৩৯৭৮ নম্বরে, আয়েশা (রাঃ) এ আয়াতের সঙ্গে ৩৫:২২ আয়াতও পড়েন: কবরে যারা আছে, তুমি তাদের শোনাতে পার না। আর বলেন, নবী ﷺ বলেছিলেন, তারা এখন জানে। ইবন কাসীরের উদ্ধৃতিতে কাতাদা বরং শোনাটারই ব্যাখ্যা দেন: আল্লাহ তাঁর জন্য তাদের জীবিত করেছিলেন, যাতে তারা ভর্ৎসনা ও তিরস্কার হিসেবে তাঁর কথা শোনে। তারপর ইবন কাসীর নিজের মত জানান। তিনি লেখেন, আলেমদের কাছে সঠিক হলো ইবন উমর (রাঃ)-র বর্ণনা, কারণ বহু দিক থেকে এর পক্ষে সাক্ষ্য আছে।"
+          },
+          {
+            "en": "Among that evidence he cites, through Ibn 'Abd al-Barr, a narration from Ibn 'Abbas raised to the Prophet ﷺ on greeting the grave of a brother one knew. It reaches us only as relayed by a later scholar, is not graded here, and is neither quoted nor built on. The Ma'arif al-Qur'an declines to settle the question under this verse. It refers the reader to its commentary on Surat an-Naml and to the author's book on the hearing of the people of the graves, Takmil al-Hubur bi-Sama' Ahl al-Qubur.",
+            "bn": "সেই সাক্ষ্যের মধ্যে তিনি ইবন আবদিল বারের সূত্রে ইবন আব্বাস (রাঃ)-র একটি বর্ণনা আনেন, যা নবী ﷺ পর্যন্ত পৌঁছানো বলে বলা হয়। বিষয়: পরিচিত ভাইয়ের কবরে সালাম দেওয়া। বর্ণনাটি আমাদের কাছে এসেছে কেবল পরবর্তী এক আলেমের উদ্ধৃতিতে। এখানে এর কোনো মান যাচাই করা হয়নি, তাই এটি উদ্ধৃত করা হচ্ছে না, এর উপর কিছু দাঁড় করানোও হচ্ছে না। মাআরিফুল কুরআন এ আয়াতের অধীনে প্রশ্নটির মীমাংসায় যায় না। পাঠককে পাঠায় সূরা নামলের আলোচনায়, আর কবরবাসীদের শোনা নিয়ে লেখকের নিজের বই তাকমীলুল হুবূর বিসামাই আহলিল কুবূর-এর দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Greeting the People of Graves",
+          "bn": "কবরবাসীদের সালাম দেওয়া"
+        },
+        "p": [
+          {
+            "en": "The printed text of Ibn Kathir goes on inside brackets, and that passage presses two further points. It is established, it says, that the dead man hears the beat of the sandals of those who leave him after the burial; and the Prophet ﷺ taught his community to greet the people of the graves as you would greet someone you are speaking to. The first is found in Sahih al-Bukhari (1338), in Anas's longer narration of the questioning in the grave, which begins as the companions walk away.",
+            "bn": "ইবন কাসীরের মুদ্রিত পাঠ এরপর বন্ধনীর ভেতরে এগোয়, আর সেই অংশে আরও দুটি যুক্তি আসে। বলা হয়, এ কথা প্রমাণিত যে দাফনের পর লোকেরা ফিরে যাওয়ার সময় মৃত ব্যক্তি তাদের জুতার আওয়াজ শোনে। আর নবী ﷺ তাঁর উম্মতকে শিখিয়েছেন কবরবাসীদের এমনভাবে সালাম দিতে, যেভাবে সামনের কাউকে সম্বোধন করে সালাম দেওয়া হয়। প্রথম কথাটি আছে সহীহ বুখারীতে (১৩৩৮), কবরের প্রশ্নোত্তর নিয়ে আনাস (রাঃ)-র দীর্ঘ বর্ণনায়। বর্ণনাটি শুরু হয় সঙ্গীরা ফিরে যাওয়ার মুহূর্ত থেকে।"
+          },
+          {
+            "en": "The second is in Sahih Muslim (975), from Buraida: the Messenger of Allah ﷺ used to teach them, when they went out to the graveyard, to say, in Zuhair's wording, \"Peace be upon you, the inhabitants of the city, among the believers and Muslims, and God willing we shall join you. I beg of Allah peace for us and for you.\" The bracketed passage then gathers dream accounts and sayings of later generations. Those are not hadith, and nothing here rests on them.",
+            "bn": "দ্বিতীয়টি আছে সহীহ মুসলিমে (৯৭৫), বুরাইদা (রাঃ)-র সূত্রে। লোকেরা কবরস্থানে গেলে আল্লাহর রাসূল ﷺ তাদের শিখিয়ে দিতেন কী বলতে হবে। যুহাইরের বর্ণনার শব্দে: \"হে এই বসতির মুমিন ও মুসলিম বাসিন্দারা, তোমাদের উপর সালাম। আল্লাহ চাইলে আমরাও তোমাদের সঙ্গে মিলিত হব। আমি আল্লাহর কাছে আমাদের ও তোমাদের জন্য নিরাপত্তা চাই।\" বন্ধনীর অংশটি এরপর স্বপ্নের নানা বিবরণ আর পরবর্তী যুগের মানুষের কথা জড়ো করে। সেগুলো হাদীস নয়, আর এ লেখার কোনো কথা তার উপর দাঁড়িয়ে নেই।"
+          },
+          {
+            "en": "So two readings stand side by side, each with a Companion's name on it. 'A'isha read the verse as ruling out the hearing and took the Prophet's ﷺ words at the well as knowing. Ibn 'Umar's report keeps them as hearing, Qatada explains it as a special reviving, and Ibn Kathir holds that reading the sounder. The commentaries quoted above, meanwhile, apply the verse itself to living people who would not listen. This article reports the dispute and does not decide it.",
+            "bn": "তাই দুটি বোঝাপড়া পাশাপাশি দাঁড়িয়ে আছে, প্রত্যেকটির গায়ে একজন সাহাবীর নাম। আয়েশা (রাঃ) আয়াতটিকে শোনার বিপক্ষে নিয়েছেন, আর কূপের পাশে নবী ﷺ-এর কথাকে বুঝেছেন জানা অর্থে। ইবন উমর (রাঃ)-র বর্ণনায় কথাটি শোনা অর্থেই আছে। কাতাদা একে ব্যাখ্যা করেন বিশেষভাবে জীবিত করা হিসেবে, আর ইবন কাসীর এ মতকেই বেশি সঠিক মনে করেন। অন্যদিকে ওপরে উদ্ধৃত তাফসীরগুলো আয়াতটিকে প্রয়োগ করে জীবিত সেই মানুষদের উপর, যারা শুনতে চায়নি। এ লেখা মতভেদটি তুলে ধরে, মীমাংসা করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No One Called Dead Today",
+          "bn": "আজ কাউকে মৃত বলা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes: people who heard the Prophet ﷺ and turned their backs, whom at-Tabari names as the polytheists of his day. It licenses nothing against any living person or community, and gives no reader the right to call anyone dead or deaf, or to stop calling him. The Muyassar's own words point the other way: do not be anxious, it tells the Prophet ﷺ, and do not grieve that these polytheists did not believe in you.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি যা বর্ণনা করে, কেবল তা-ই বর্ণনা করে: সেই লোকেরা, যারা নবী ﷺ-এর কথা শুনেও পিঠ ফিরিয়ে নিয়েছিল। তাবারী তাদের চিহ্নিত করেন তাঁর সময়ের মুশরিক হিসেবে। জীবিত কোনো মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। কাউকে মৃত বা বধির বলার, কিংবা তাকে ডাকা বন্ধ করার অধিকার কোনো পাঠককে দেয় না। মুয়াসসারের নিজের কথাই উল্টো দিকে ইশারা করে। নবী ﷺ-কে সে বলে, এই মুশরিকরা আপনার উপর ঈমান আনেনি বলে অস্থির হবেন না, দুঃখও করবেন না।"
+          },
+          {
+            "en": "That is the verse's gift to the caller. His task was to speak clearly, and the hearing was never his to give. For the listener it leaves a harder question. Two verses earlier the dead earth drank the rain and came alive. The man who rejoiced at the rain and turned thankless at a yellowed field had seen the same signs as anyone. What decided the matter was whether he faced the call or walked away from it, and the way back begins with turning round.",
+            "bn": "আহ্বানকারীর জন্য এটাই আয়াতের উপহার। তাঁর কাজ ছিল স্পষ্ট করে বলা। শোনার শক্তি দেওয়া কখনোই তাঁর হাতে ছিল না। শ্রোতার জন্য আয়াতটি রেখে যায় আরও কঠিন এক প্রশ্ন। দুই আয়াত আগে মরা মাটি বৃষ্টি শুষে নিয়ে জেগে উঠেছিল। যে মানুষ বৃষ্টিতে খুশি হয়েছিল আর হলুদ খেত দেখে অকৃতজ্ঞ হয়ে গিয়েছিল, সে-ও তো সবার মতো একই নিদর্শন দেখেছিল। ফয়সালা হয়েছিল এতে যে সে ডাকের মুখোমুখি হলো, নাকি তা থেকে হেঁটে চলে গেল। ফেরার পথ শুরু হয় ঘুরে দাঁড়ানো থেকে।"
+          }
+        ]
+      }
+    ]
+  },
   "30:55": {
     "sections": [
       {

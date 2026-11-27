@@ -36233,6 +36233,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every good deed is bedding you spread for yourself before you arrive; no one can lay it for you, and no one else carries what you refuse.",
     "lessonBn": "প্রতিটি নেক আমল পৌঁছানোর আগেই নিজের জন্য পেতে রাখা বিছানা। কেউ আপনার হয়ে তা পেতে দেবে না, আর আপনি যা প্রত্যাখ্যান করেন তার বোঝাও অন্য কেউ বইবে না।"
+  },
+  "30:52": {
+    "reflectionEn": "Two verses back, rain falls on dead ground and it comes to life, and the verse adds that the One who does this will give life to the dead. Then come people who rejoice at the rain and turn thankless the moment a wind yellows their fields. Of them this verse says: you cannot make the dead hear, nor make the deaf hear the call when they turn their backs. The same word, the dead, stands in both places. Allah revives what is lifeless; the caller can only call. That frees the one who calls from carrying other people's hearts. It also asks something of me. When a reminder reaches me in plenty or in loss, do I hear it, or am I already turning away?",
+    "reflectionBn": "দুই আয়াত আগে মরা মাটিতে বৃষ্টি নামে, আর মাটি জেগে ওঠে। সেখানেই বলা হয়, যিনি এ কাজ করেন, তিনিই মৃতদের জীবিত করবেন। তারপর আসে এমন লোকদের কথা, যারা বৃষ্টিতে খুশিতে ভাসে, আর এক দমকা হাওয়ায় খেত হলুদ হতেই অকৃতজ্ঞ হয়ে যায়। তাদের নিয়েই এ আয়াত: তুমি মৃতকে শোনাতে পারবে না, আর বধির যখন পিঠ ফিরিয়ে চলে যায়, তাকেও ডাক শোনাতে পারবে না। দুই জায়গাতেই একই শব্দ, মৃত। প্রাণহীনকে প্রাণ দেন আল্লাহ, আর আহ্বানকারী কেবল ডাকতে পারেন। এতে ডাকার মানুষটি অন্যের অন্তরের বোঝা থেকে মুক্তি পান। আবার আমার কাছেও আয়াতটি কিছু চায়। সচ্ছলতায় হোক বা লোকসানে, কোনো নসিহত যখন আমার কাছে পৌঁছায়, আমি কি তা শুনি, নাকি ততক্ষণে মুখ ফিরিয়ে নিয়েছি?",
+    "pointsEn": [
+      "When a blessing is taken from me, does the reminder I heard in good times still reach me, or do I turn my back on it?",
+      "Is there a truth I have heard so often that it still reaches my ears but no longer reaches my heart?",
+      "Whose refusal to listen am I carrying as if it were my own failure, when my part was only to call well?",
+      "Have I ever spoken of someone as dead of heart, when only Allah gives life to what seems lifeless?",
+      "What would it take for me to face the one who calls me to good, instead of listening while I walk away?"
+    ],
+    "pointsBn": [
+      "কোনো নিয়ামত হাতছাড়া হলে সুদিনে শোনা নসিহত কি তখনো আমার কাছে পৌঁছায়, নাকি আমি তার দিকে পিঠ ফিরিয়ে দিই?",
+      "এমন কোনো সত্য কি আছে, যা এত বার শুনেছি যে কানে এখনো আসে, অথচ অন্তরে আর পৌঁছায় না?",
+      "কার না-শোনার ভার আমি নিজের ব্যর্থতা ভেবে বয়ে বেড়াচ্ছি, অথচ আমার কাজ ছিল কেবল সুন্দর করে ডাকা?",
+      "আমি কি কখনো কাউকে মরা অন্তরের মানুষ বলেছি, অথচ প্রাণহীনকে প্রাণ দেন কেবল আল্লাহ?",
+      "যে আমাকে ভালোর দিকে ডাকে, হেঁটে চলে যেতে যেতে না শুনে তার মুখোমুখি দাঁড়াতে আমার কী লাগবে?"
+    ],
+    "lessonEn": "Hearing the truth is a life only Allah gives; call others with care, leave their hearts to Him, and keep your own face turned toward the call.",
+    "lessonBn": "সত্য শোনার প্রাণ কেবল আল্লাহই দেন। অন্যদের যত্ন নিয়ে ডাকুন, তাদের অন্তর তাঁর হাতে ছেড়ে দিন, আর নিজের মুখটা ডাকের দিকে ফিরিয়ে রাখুন।"
   }
 };
 
