@@ -883,6 +883,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "35:27": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Ruined Nations to Rain",
+          "bn": "ধ্বংস হওয়া জাতি থেকে বৃষ্টিতে"
+        },
+        "p": [
+          {
+            "en": "The verse arrives straight after a warning. 35:25 and 35:26 recall messengers who came with clear proofs, and peoples who denied them and were seized: and how was My reproach. Then the address turns to rain, fruit and mountains. Ma'arif al-Qur'an records two readings of the link. Some early commentators said these verses return to Allah's oneness, argued now from His power in nature. Others tied them to the comparisons just made in 35:19 to 35:22: the blind and the seeing, darkness and light, shade and heat.",
+            "bn": "আয়াতটি আসে একটা সতর্কবাণীর ঠিক পরে। ৩৫:২৫ ও ৩৫:২৬ মনে করিয়ে দেয় সেই রসূলদের কথা, যাঁরা সুস্পষ্ট প্রমাণ নিয়ে এসেছিলেন, আর সেই জাতিদের কথা, যারা তাঁদের অস্বীকার করে পাকড়াও হয়েছিল। কী ভয়ংকর ছিল আমার শাস্তি! এরপরই কথা ঘুরে যায় বৃষ্টি, ফল আর পাহাড়ের দিকে। এই যোগসূত্র নিয়ে মাআরিফুল কুরআন দুটি মত উল্লেখ করে। আগের যুগের কিছু তাফসীরকার বলেছেন, এখানে আলোচনা আবার তাওহীদে ফিরে এসেছে, এবার প্রকৃতিতে আল্লাহর কুদরতের প্রমাণ দিয়ে। অন্যরা একে জুড়েছেন ৩৫:১৯ থেকে ৩৫:২২ পর্যন্ত তুলনাগুলোর সঙ্গে: অন্ধ ও চক্ষুষ্মান, অন্ধকার ও আলো, ছায়া ও রোদ।"
+          },
+          {
+            "en": "On that second reading, Ma'arif says, what follows makes clear that difference within Allah's creation is inherent in it, present in living and lifeless things alike, and not only in shapes and colours but in traits and temperaments too. Then comes the opening question, alam tara, do you not see. At-Tabari reads it as addressed to the Prophet ﷺ: have you not seen, O Muhammad. Al-Qurtubi says this seeing is of the heart and of knowledge: has your knowledge not reached it, have you not seen with your heart?",
+            "bn": "দ্বিতীয় মত অনুযায়ী, মাআরিফ বলে, সামনের কথাগুলো দেখিয়ে দেয় যে আল্লাহর সৃষ্টিতে পার্থক্য তার ভেতরেই গাঁথা। জীবন্ত আর প্রাণহীন সবকিছুতেই তা আছে, আর শুধু আকার ও রঙে নয়, স্বভাব ও প্রকৃতিতেও। তারপর আসে শুরুর প্রশ্ন: আলাম তারা, তুমি কি দেখ না? তাবারীর মতে প্রশ্নটি নবী ﷺ-কে লক্ষ্য করে: হে মুহাম্মাদ, তুমি কি দেখনি? কুরতুবী বলেন, এ দেখা অন্তরের দেখা, জ্ঞানের দেখা। অর্থাৎ, তোমার জ্ঞান কি সেখানে পৌঁছায়নি, তুমি কি অন্তর দিয়ে দেখনি যে আল্লাহ পানি নামিয়েছেন?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Water, Every Colour",
+          "bn": "এক পানি, হাজার রং"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir frames the verse as Allah drawing attention to the perfection of His power in creating varied, differing things from one thing: the water He sends down from the sky. From it He brings out fruits of different colours, yellow, red, green, white and more, as anyone can see, varied too in taste and scent. He sets 13:4 beside it: neighbouring tracts of land, vines, crops and palms, watered with one water, and yet some are made better than others to eat.",
+            "bn": "ইবন কাসীরের মতে আয়াতটিতে আল্লাহ তাঁর কুদরতের পূর্ণতার দিকে মনোযোগ টানছেন। একটিমাত্র জিনিস থেকে তিনি নানা রকম, পরস্পর ভিন্ন জিনিস সৃষ্টি করেন। সেই জিনিসটি হলো আকাশ থেকে নামানো পানি। তা দিয়ে তিনি বের করেন নানা রঙের ফল: হলুদ, লাল, সবুজ, সাদা, আরও কত রং। চোখের সামনেই দেখা যায়, স্বাদে আর ঘ্রাণেও সেগুলো আলাদা। এর পাশে তিনি আনেন ১৩:৪ আয়াত: পাশাপাশি জমিন, আঙুরের বাগান, শস্যক্ষেত আর খেজুর গাছ, সবই এক পানিতে সিঞ্চিত, তবু খাওয়ার স্বাদে কিছুকে কিছুর উপর শ্রেষ্ঠ করা হয়।"
+          },
+          {
+            "en": "At-Tabari fills in the step the verse leaves unsaid. Allah sent down ghayth, rain, from the sky; We watered trees in the earth with it, and brought out from those trees fruits of differing colours, some red, some black, some yellow, and other colours besides. Al-Muyassar keeps the same order in its plain paraphrase: water sent down, trees given drink, fruits brought out of them in red, black, yellow and more. Neither commentator lingers on the list. The point is its range.",
+            "bn": "আয়াতে যে ধাপটা উহ্য, তাবারী তা পূরণ করে দেন। আল্লাহ আকাশ থেকে গাইস, অর্থাৎ বৃষ্টি নামিয়েছেন। আমি তা দিয়ে জমিনের গাছপালাকে পানি দিয়েছি, তারপর সেসব গাছ থেকে বের করেছি নানা রঙের ফল। কোনোটা লাল, কোনোটা কালো, কোনোটা হলুদ, আরও অন্যান্য রং। মুয়াসসারও সহজ ভাষায় একই ধারা রাখে: পানি নামানো হলো, গাছ পানি পেল, তা থেকে বেরোল লাল, কালো, হলুদ আর আরও নানা রঙের ফল। দুজনের কেউই তালিকা নিয়ে বেশি সময় দেন না। আসল কথা রঙের বিস্তার।"
+          },
+          {
+            "en": "As-Sa'di draws out what makes that range striking. Allah mentions here His creation of contrasting things whose origin is one and whose material is one, though the gap between them is plain and familiar. The water is one and the earth is one, yet the fruits and plants that come out are many. Al-Qurtubi reaches the same observation through the single word bihi, by it: by the water, which is one, while the fruits differ. One cause stands against many results.",
+            "bn": "রঙের এই বিস্তার কেন চমক জাগায়, সা'দী তা খুলে বলেন। আল্লাহ এখানে এমন সব বিপরীতধর্মী জিনিসের সৃষ্টির কথা বলছেন, যাদের মূল এক, উপাদানও এক। অথচ তাদের মধ্যে ফারাক চোখে পড়ার মতো, সবার চেনা। পানি একই, মাটিও একই, তবু তা থেকে বেরোয় অসংখ্য রকমের ফল আর উদ্ভিদ। কুরতুবী একই কথায় পৌঁছান ছোট্ট একটি শব্দ ধরে: বিহী, তা দিয়ে। অর্থাৎ সেই পানি দিয়ে, যা এক, অথচ ফলগুলো ভিন্ন ভিন্ন। কারণ একটি, ফল অনেক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "From He Sent to We Brought",
+          "bn": "'তিনি নামালেন' থেকে 'আমি বের করলাম'"
+        },
+        "p": [
+          {
+            "en": "The verse changes its speaker midway. It opens in the third person, Allah sent down water from the sky, and goes on in the first person plural: fa-akhrajna bihi, so We brought out by it. Al-Qurtubi names this talwin al-khitab, a change in the manner of address, and moves on without building a lesson on it. Anyone listening in Arabic hears the turn: the sentence that began by pointing to Allah continues with Allah Himself speaking of what He brought out.",
+            "bn": "আয়াতের মাঝপথে বক্তার ভঙ্গি বদলে যায়। শুরুতে আল্লাহর নাম নিয়ে বলা হয়: আল্লাহ আকাশ থেকে পানি নামিয়েছেন। তারপর আল্লাহ নিজেই বলেন, বহুবচনে: ফাআখরাজনা বিহী, অতঃপর আমি তা দিয়ে বের করেছি। কুরতুবী একে বলেন তালউইনুল খিতাব, সম্বোধনের ধরন বদলানো। এর উপর তিনি আলাদা কোনো শিক্ষা দাঁড় করান না, সামনে এগিয়ে যান। আরবিতে যে শোনে, সে বাঁকটা টের পায়। যে বাক্য আল্লাহর দিকে ইশারা করে শুরু হয়েছিল, তা এগোয় আল্লাহর নিজের মুখে, তিনি কী বের করে আনলেন সে কথায়।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an notices a smaller difference. For the fruits the verse says mukhtalifan alwanuha, accusative; for the mountains, mukhtalifun alwanuha, nominative. Ma'arif takes the first as adverbial and the second as adjectival, notes that an adjective usually marks a lasting quality while an adverbial can mark a passing state, and suggests a possible hint: fruit colours keep changing, mountain colours stay. Al-Qurtubi parses the same word differently, as an accusative describing word for thamarat, fruits, governing alwanuha. The hint rests on one parsing, and the two accounts differ.",
+            "bn": "মাআরিফুল কুরআন আরও সূক্ষ্ম একটা পার্থক্য লক্ষ করে। ফলের বেলায় আয়াত বলে মুখতালিফান আলওয়ানুহা, যবরযুক্ত রূপে। পাহাড়ের বেলায় মুখতালিফুন আলওয়ানুহা, পেশযুক্ত রূপে। মাআরিফ প্রথমটিকে অবস্থাবাচক আর দ্বিতীয়টিকে গুণবাচক ধরে। সে বলে, গুণবাচক শব্দ সাধারণত স্থায়ী গুণ বোঝায়, আর অবস্থাবাচক বোঝাতে পারে বদলে যাওয়া অবস্থা। তাই এখানে হয়তো ইঙ্গিত আছে: ফলের রং বদলাতে থাকে, পাহাড়ের রং থেকে যায়। কুরতুবী অবশ্য শব্দটিকে অন্যভাবে বিশ্লেষণ করেন, ছামারাত অর্থাৎ ফলের বিশেষণ হিসেবে, যা আলওয়ানুহাকে নিয়ন্ত্রণ করে। ইঙ্গিতটি একটি বিশ্লেষণের উপর দাঁড়িয়ে, আর দুই বর্ণনা এক নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bands Across the Rock",
+          "bn": "পাথরের গায়ে রঙের ডোরা"
+        },
+        "p": [
+          {
+            "en": "Then the mountains: wa-mina al-jibali judadun, and in the mountains are judad. Ibn Kathir explains that Allah likewise created the mountains in different colours, white and red, as can be seen, and in some of them tara'iq, streaks or tracks. These are the judad, plural of judda, also of different colours. He reports from Ibn Abbas that al-judad means al-tara'iq, and says the same was held by Abu Malik, al-Hasan, Qatada and as-Suddi.",
+            "bn": "এরপর পাহাড়ের কথা: ওয়া মিনাল জিবালি জুদাদুন, আর পাহাড়ের মধ্যে আছে জুদাদ। ইবন কাসীর ব্যাখ্যা করেন, আল্লাহ পাহাড়গুলোকেও একইভাবে নানা রঙে সৃষ্টি করেছেন। চোখেই দেখা যায় সাদা আর লাল পাহাড়। আর কোনো কোনোটির গায়ে আছে তারাইক, অর্থাৎ রেখা বা পথের মতো দাগ। এগুলোই জুদাদ, একবচনে জুদ্দা, এগুলোর রংও নানা রকম। তিনি ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন যে আল-জুদাদ মানে আত-তারাইক। তিনি বলেন, আবু মালিক, হাসান, কাতাদা ও সুদ্দীও একই কথা বলেছেন।"
+          },
+          {
+            "en": "At-Tabari adds a picture. The judad are khitat, lines running through the mountains, white, red and black, like roads, and the singular is judda. He cites a verse of Imru' al-Qays describing a donkey, where judda is the dark stripe along the animal's back. In his reading, mukhtalifun alwanuha, of varied colours, refers to the colours of the streaks themselves. Al-Baghawi is briefer: the judad are turuq and khitat, tracks and lines, singular judda, on the pattern of mudda and mudad.",
+            "bn": "তাবারী এর সঙ্গে একটা ছবি জুড়ে দেন। জুদাদ হলো খিতাত, পাহাড়ের বুক চিরে চলে যাওয়া রেখা, সাদা, লাল আর কালো, ঠিক রাস্তার মতো। একবচনে জুদ্দা। প্রমাণ হিসেবে তিনি বুনো গাধার বর্ণনায় ইমরুল কায়সের একটি কবিতার চরণ আনেন। সেখানে জুদ্দা মানে প্রাণীটির পিঠ বরাবর কালো ডোরা। তাবারীর মতে মুখতালিফুন আলওয়ানুহা, অর্থাৎ নানা রঙের, কথাটি ওই রেখাগুলোর রঙের দিকেই ইঙ্গিত করে। বাগাভী আরও সংক্ষেপে বলেন: জুদাদ মানে তুরুক ও খিতাত, পথ ও রেখা। একবচনে জুদ্দা, যেমন মুদ্দা থেকে মুদাদ।"
+          },
+          {
+            "en": "Al-Qurtubi gives the same core sense: the judad are streaks of differing colours, even though the whole is stone or earth. He quotes the lexicographer al-Jawhari: a judda is the line on a donkey's back that differs from the rest of its colour, and in the verse the judad are streaks that differ from the colour of the mountain. He adds two uses from speech: a cloak called mujaddad has lines of different colours, and a man rides a judda of a matter when he forms a view on it.",
+            "bn": "কুরতুবীর কাছেও মূল অর্থ একই: জুদাদ হলো নানা রঙের রেখা, যদিও গোটা পাহাড়টা পাথর বা মাটিরই। তিনি অভিধানবিদ জাওহারীকে উদ্ধৃত করেন। জুদ্দা হলো গাধার পিঠের সেই রেখা, যার রং শরীরের বাকি রং থেকে আলাদা। আর আয়াতে জুদাদ মানে এমন রেখা, যার রং পাহাড়ের রং থেকে ভিন্ন। মুখের ভাষা থেকেও তিনি দুটি ব্যবহার আনেন। মুজাদ্দাদ চাদর বলা হয় যার গায়ে নানা রঙের ডোরা। আর কেউ কোনো বিষয়ে একটা মত স্থির করলে বলা হয়, সে বিষয়টির একটা জুদ্দায় চড়ে বসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Pieces, Paths and Readings",
+          "bn": "টুকরো, পথ আর ভিন্ন পাঠ"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records more. Al-Akhfash observed that if judad were the plural of jadid, new, it would have been judud, on the pattern of sarir and surur, so it is not that word. Another view, relayed from Ibn Bahr, takes judad as pieces, from jaddadtu al-shay', I cut the thing. Ma'arif al-Qur'an holds both senses: the well-known meaning of judda is a small pathway, while some respected elders took it as a tract, patch or segment. Either way, parts of the mountains differ in colour.",
+            "bn": "কুরতুবী আরও কিছু কথা লিখে রাখেন। আখফাশ বলেছেন, জুদাদ যদি জাদীদ, অর্থাৎ নতুন শব্দের বহুবচন হতো, তাহলে হতো জুদুদ, যেমন সারীর থেকে সুরুর। কাজেই এটা সেই শব্দ নয়। ইবন বাহর থেকে বর্ণিত আরেক মতে জুদাদ মানে টুকরো, এসেছে জাদ্দাদতুশ শাইআ থেকে, অর্থাৎ জিনিসটা আমি কেটেছি। মাআরিফুল কুরআনেও দুটি অর্থই আছে। জুদ্দার প্রসিদ্ধ অর্থ ছোট পথ। আবার কিছু সম্মানিত পূর্বসূরি একে ধরেছেন ভূখণ্ড, অংশ বা টুকরো অর্থে। যেভাবেই ধরা হোক, পাহাড়ের বিভিন্ন অংশের রং আলাদা।"
+          },
+          {
+            "en": "Through al-Zamakhshari, al-Qurtubi also relays two reported readings from az-Zuhri: judud, plural of jadida, in the same sense of a streak, and judad with two short a-vowels, meaning a clear, open road, used here for streaks and lines that stand apart from one another. These are readings relayed by a commentator, and they barely move the picture. Whichever word is read, the mountains carry bands the eye can follow, and the verse sets them beside the fruit as a second witness.",
+            "bn": "যামাখশারীর সূত্রে কুরতুবী যুহরী থেকে বর্ণিত দুটি পাঠও উল্লেখ করেন। একটি জুদুদ, জাদীদা শব্দের বহুবচন, অর্থ সেই রেখাই। অন্যটি জাদাদ, দুই যবরে, যার অর্থ স্পষ্ট খোলা পথ। এখানে তা বোঝায় এমন রেখা আর দাগ, যেগুলো একটা থেকে আরেকটা আলাদা হয়ে চোখে পড়ে। এগুলো একজন তাফসীরকারের বর্ণনা করা পাঠ, ছবিটা এতে প্রায় বদলায় না। যে শব্দই পড়া হোক, পাহাড়ের গায়ে এমন ডোরা আছে যা চোখ দিয়ে অনুসরণ করা যায়। আর আয়াত সেগুলোকে ফলের পাশে দ্বিতীয় সাক্ষী হিসেবে দাঁড় করায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Black Like the Crow",
+          "bn": "কাকের মতো কালো"
+        },
+        "p": [
+          {
+            "en": "The list ends with wa-gharabibu sud, and intensely black ones. Ibn Kathir reports from Ikrima that al-gharabib are tall black mountains, and says the same was held by Abu Malik, Ata al-Khurasani and Qatada. He then quotes Ibn Jarir, at-Tabari, on Arab usage: when the Arabs describe something black as very black, they say aswad ghirbib. At-Tabari's own text says the same, that the phrase is used when a thing is described as being of intense blackness.",
+            "bn": "তালিকা শেষ হয় এ কথায়: ওয়া গারাবীবু সূদ, আর গাঢ় কালো। ইবন কাসীর ইকরিমা থেকে বর্ণনা করেন, আল-গারাবীব মানে উঁচু কালো পাহাড়। তিনি বলেন, আবু মালিক, আতা আল-খুরাসানী ও কাতাদাও একই কথা বলেছেন। এরপর তিনি ইবন জারীর অর্থাৎ তাবারীর কথা আনেন আরবদের বাকরীতি নিয়ে। কোনো কালো জিনিসকে খুব কালো বোঝাতে আরবরা বলে, আসওয়াদ গিরবীব। তাবারীর নিজের তাফসীরেও একই কথা আছে: কোনো কিছুর কালো রং খুব গাঢ় বোঝাতে এই শব্দ বলা হয়।"
+          },
+          {
+            "en": "Al-Baghawi gives the root of the image: aswad ghirbib means very black, by comparison with the colour of the ghurab, the crow, and he glosses the phrase as black streaks. Al-Qurtubi quotes Abu Ubayda that the ghirbib is the intensely black, and adds that the Arabs call something of intense blackness, coloured like the crow, aswad ghirbib; he quotes al-Jawhari to the same effect. As-Sa'di keeps to the plain sense, extremely black, and al-Muyassar renders the phrase as mountains of intense blackness.",
+            "bn": "উপমাটার উৎস বাগাভী বলে দেন। আসওয়াদ গিরবীব মানে খুব কালো, গুরাব অর্থাৎ কাকের রঙের সঙ্গে তুলনা করে। আর পুরো কথাটার অর্থ তিনি করেন কালো রেখা। কুরতুবী আবু উবাইদা থেকে আনেন, গিরবীব মানে গাঢ় কালো। সঙ্গে যোগ করেন, যার রং কাকের মতো গাঢ় কালো, আরবরা তাকে বলে আসওয়াদ গিরবীব। জাওহারী থেকেও তিনি একই অর্থ উদ্ধৃত করেন। সা'দী সরল অর্থেই থাকেন: খুবই গাঢ় কালো। আর মুয়াসসার কথাটির অর্থ করে গাঢ় কালো রঙের পাহাড়।"
+          },
+          {
+            "en": "Al-Qurtubi also cites lines of poetry using the word, and relays, with no chain and no source, a narration attributed to the Prophet ﷺ in which the word ghirbib appears, on the subject of dyeing hair black. It is not graded where he cites it, it is not about this verse, and nothing here is built on it. None of the commentaries fetched for this verse attaches a sound hadith to it, and none gives an occasion of revelation.",
+            "bn": "কুরতুবী শব্দটির ব্যবহার দেখাতে কয়েকটি কবিতার চরণও আনেন। সেই সঙ্গে কোনো সনদ বা উৎস ছাড়া নবী ﷺ-এর নামে একটি বর্ণনা উল্লেখ করেন, যাতে গিরবীব শব্দটি আছে, বিষয় চুলে কালো খেজাব লাগানো। তিনি যেখানে এটি এনেছেন সেখানে এর কোনো মান নির্ণয় নেই, এ আয়াতের সঙ্গেও এর সম্পর্ক নেই, তাই এখানে এর উপর কিছুই দাঁড় করানো হয়নি। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীরেই আয়াতটির সঙ্গে যুক্ত কোনো সহীহ হাদীস নেই, শানে নুযূলও নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Word Comes First",
+          "bn": "কোন শব্দ আগে, কোনটা পরে"
+        },
+        "p": [
+          {
+            "en": "Gharabibu sud puts the intensifier before the colour, where Arab usage puts it after: aswad ghirbib, black, intensely so. At-Tabari explains this as taqdim and ta'khir, a word placed first that is meant to be read after, so the sense is sud gharabib, with black made a description of the gharabib. Al-Baghawi says the same, and al-Qurtubi relays it from Abu Ubayda: there is an inversion in the speech, and the meaning is that among the mountains are intensely black ones.",
+            "bn": "গারাবীবু সূদ কথায় জোর দেওয়ার শব্দটি রঙের আগে এসেছে, অথচ আরবদের রীতিতে তা আসে পরে: আসওয়াদ গিরবীব, কালো, গাঢ় কালো। তাবারী একে বলেন তাকদীম ও তা'খীর। অর্থাৎ যে শব্দ পরে পড়ার কথা, তা আগে বসানো হয়েছে। তাই অর্থ দাঁড়ায় সূদ গারাবীব, আর কালো রং হয়েছে গারাবীবের বিশেষণ। বাগাভীও তাই বলেন। কুরতুবী আবু উবাইদা থেকে একই কথা আনেন: বাক্যে আগে-পরে করা হয়েছে, আর অর্থ হলো, পাহাড়ের মধ্যে আছে গাঢ় কালো পাহাড়ও।"
+          },
+          {
+            "en": "Ibn Kathir does not accept this so readily. He reports that, because of that usage, some commentators called the phrase a case of inversion, meaning sud gharabib, and then writes: wa-fima qalahu nazar, what was said is open to objection. The text fetched gives no further reason. Al-Qurtubi offers another route, from al-Jawhari: say gharabib sud and you make sud a substitute, badal, for gharabib, since words that intensify a colour do not come first. The commentators differ here, and the difference stands.",
+            "bn": "ইবন কাসীর কথাটা এত সহজে মেনে নেন না। তিনি জানান, ওই বাকরীতির কারণেই কিছু তাফসীরকার একে আগে-পরে করার দৃষ্টান্ত বলেছেন, অর্থ সূদ গারাবীব। এরপর তিনি লেখেন: ওয়া ফীমা কালাহু নাযার, যা বলা হয়েছে তাতে আপত্তির জায়গা আছে। আমাদের সংগ্রহ করা পাঠে এর বেশি কারণ তিনি দেননি। কুরতুবী জাওহারী থেকে আরেকটি পথ দেখান। গারাবীব সূদ বললে সূদ শব্দটি হয় গারাবীবের বদল, অর্থাৎ স্থলাভিষিক্ত শব্দ, কারণ রঙে জোর দেওয়ার শব্দ আগে বসে না। এখানে তাফসীরকারদের মত ভিন্ন, আর সেই ভিন্নতা যেমন আছে তেমনই থাকল।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an reads something into the order of the colours themselves. White is named first and black last, and between them comes red, together with the phrase of different colours. This, it suggests, could be a hint that the colours of this world are really two, white and black, and that the rest emerge from compounding them in different degrees. That is Ma'arif's own reflection, offered as a possible hint. The verse names white, red, varied shades and black, and says nothing about how colours arise.",
+            "bn": "মাআরিফুল কুরআন রংগুলোর ক্রম থেকেও একটা কথা বের করে। প্রথমে এসেছে সাদা, শেষে কালো, আর মাঝে লাল, তার সঙ্গে 'নানা রঙের' কথাটি। মাআরিফের মতে এতে হয়তো ইঙ্গিত আছে যে এ দুনিয়ার রং আসলে দুটি, সাদা আর কালো। বাকি সব রং এ দুটির নানা মাত্রার মিশ্রণে তৈরি। এটা মাআরিফের নিজস্ব ভাবনা, সম্ভাব্য একটা ইঙ্গিত হিসেবেই বলা। আয়াত নিজে শুধু সাদা, লাল, নানা আভা আর কালোর নাম নেয়। রং কীভাবে তৈরি হয়, সে বিষয়ে কিছুই বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sign Read, Not a Rank",
+          "bn": "নিদর্শন, মর্যাদার মাপ নয়"
+        },
+        "p": [
+          {
+            "en": "Why list colours at all? As-Sa'di answers that Allah mentions these contrasting things from one origin to point His servants to the perfection of His power and the wonder of His wisdom. He adds a detail about the mountains: Allah made them pegs for the earth, and you find them interlocked, even as one mountain, yet carrying many colours, white streaks, yellow and red ones, and intensely black ones. Ibn Kathir opens on the same note, that Allah is drawing attention to His perfect power in creation.",
+            "bn": "রঙের এই তালিকা কেন? সা'দীর জবাব, একই মূল থেকে আসা এসব বিপরীতধর্মী জিনিসের কথা আল্লাহ বলেছেন, যাতে বান্দারা তাঁর কুদরতের পূর্ণতা আর হিকমতের অভিনবত্ব চিনতে পারে। পাহাড় নিয়ে তিনি একটা খুঁটিনাটিও যোগ করেন। আল্লাহ পাহাড়কে জমিনের জন্য খুঁটি বানিয়েছেন। দেখবেন সেগুলো পরস্পর জড়ানো, যেন একটাই পাহাড়। অথচ তার গায়ে কত রং: সাদা রেখা, হলুদ আর লাল রেখা, আর গাঢ় কালো। ইবন কাসীরও শুরু করেন একই সুরে: সৃষ্টিতে আল্লাহ তাঁর পূর্ণ কুদরতের দিকে মনোযোগ টানছেন।"
+          },
+          {
+            "en": "This verse describes colours in fruit and in mountains as signs of their Maker, and the commentators speak of what anyone can observe; this page makes no claim of its own about how rocks or their colours form. It ranks nothing by colour, and it licenses nothing against any person or people for the colour of their skin. 35:28 carries the theme on to people and animals; see also 30:22 and 49:13. The opening question, do you not see, asks for eyes that look and then remember the Maker of it all.",
+            "bn": "এ আয়াত ফল আর পাহাড়ের রংকে তাদের স্রষ্টার নিদর্শন হিসেবে তুলে ধরে, আর তাফসীরকাররা কথা বলেন যা যে কেউ চোখে দেখতে পায় তা নিয়েই। পাথর বা তার রং কীভাবে তৈরি হয়, সে বিষয়ে এ লেখা নিজে কোনো দাবি করছে না। আয়াতটি রঙের ভিত্তিতে কাউকে উঁচু-নিচু করে না। গায়ের রঙের কারণে কোনো মানুষ বা জাতির বিরুদ্ধে কিছু করার অনুমতিও দেয় না। ৩৫:২৮ এই প্রসঙ্গ মানুষ আর প্রাণীর দিকে নিয়ে যায়। আরও দেখুন ৩০:২২ ও ৪৯:১৩। শুরুর প্রশ্ন, তুমি কি দেখ না, এমন চোখ চায় যা তাকায়, তারপর সবকিছুর স্রষ্টাকে স্মরণ করে।"
+          }
+        ]
+      }
+    ]
+  },
   "35:28": {
     "sections": [
       {

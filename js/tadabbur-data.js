@@ -36593,6 +36593,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not wound anyone, least of all those who deserve honour, with guesses and false talk; and when words wound you, bear it patiently, for Allah clears the innocent.",
     "lessonBn": "আন্দাজ আর মিথ্যা কথা দিয়ে কাউকে আঘাত করবেন না, সম্মানের যোগ্য মানুষকে তো নয়ই। আর কথার আঘাত আপনার গায়ে লাগলে সবর করুন, কারণ নির্দোষকে আল্লাহই নির্দোষ প্রমাণ করেন।"
+  },
+  "35:27": {
+    "reflectionEn": "One rain falls on the ground, and out of it come fruits of every colour. Lift your eyes from the orchard to the hills and the variety goes on: white streaks, red ones in many shades, and rock so black the Arabs likened it to the crow. The verse opens with a question, do you not see, as if the evidence were lying in the open and only the looking were missing. It asks for no laboratory. It asks for eyes that stop long enough to wonder who drew so many colours out of one water. How much of what I pass every day have I never once looked at? And when I do look, does the looking lead me anywhere beyond the view?",
+    "reflectionBn": "একই বৃষ্টি মাটিতে নামে, আর তা থেকে বেরিয়ে আসে নানা রঙের ফল। বাগান থেকে চোখ তুলে পাহাড়ের দিকে তাকান, সেখানেও রঙের শেষ নেই। কোথাও সাদা রেখা, কোথাও নানা আভার লাল, আবার কোথাও এমন কালো পাথর যাকে আরবরা কাকের রঙের সঙ্গে তুলনা করত। আয়াতটি শুরু হয় একটা প্রশ্ন দিয়ে: তুমি কি দেখ না? যেন প্রমাণ খোলা পড়ে আছে, শুধু তাকানোটাই বাকি। এর জন্য কোনো গবেষণাগার লাগে না। লাগে এমন চোখ, যে একটু থেমে ভাবে, একই পানি থেকে এত রং কে বের করে আনলেন। প্রতিদিন যা কিছুর পাশ দিয়ে হেঁটে যাই, তার কতটুকু আমি একবারও মন দিয়ে দেখেছি? আর যখন দেখি, সেই দেখা কি আমাকে দৃশ্যের ওপারে কোথাও নিয়ে যায়?",
+    "pointsEn": [
+      "When did I last look at a fruit, a hillside or a stone long enough to wonder at it?",
+      "One water brings out many colours: where in my own life do I fail to see the single Source behind things I treat as unrelated?",
+      "The verse treats variety as a sign of its Maker; have I ever turned differences of colour among people into a ranking instead?",
+      "What would change in my day if I began it by looking, the way this verse asks, before rushing on?",
+      "Does my wonder at creation end in a pleasant view, or does it bring me back to remembering Allah?"
+    ],
+    "pointsBn": [
+      "শেষ কবে একটা ফল, একটা পাহাড়ের ঢাল বা একটা পাথরের দিকে এতক্ষণ তাকিয়েছি যে মনে বিস্ময় জেগেছে?",
+      "একই পানি থেকে এত রং বের হয়। আমার নিজের জীবনে যেসব জিনিসকে আলাদা আলাদা ভাবি, তার পেছনের একই উৎসটিকে কোথায় আমি দেখতে পাই না?",
+      "আয়াতটি রঙের বৈচিত্র্যকে স্রষ্টার নিদর্শন হিসেবে দেখায়। মানুষের গায়ের রঙের পার্থক্যকে আমি কি কখনো উঁচু-নিচুর মাপকাঠি বানিয়ে ফেলেছি?",
+      "এ আয়াত যেভাবে তাকাতে বলে, দিনের শুরুতে তাড়াহুড়ো না করে সেভাবে একবার তাকালে আমার দিনটা কেমন বদলে যেত?",
+      "সৃষ্টির দিকে তাকিয়ে আমার বিস্ময় কি শুধু একটা সুন্দর দৃশ্যে গিয়ে থামে, নাকি আমাকে আল্লাহর জিকিরে ফিরিয়ে আনে?"
+    ],
+    "lessonEn": "Look at the colours one rain brings out of the earth and the colours set in the rock, and let that variety lead you to the One who made it.",
+    "lessonBn": "একই বৃষ্টি মাটি থেকে যে নানা রং বের করে আনে আর পাহাড়ের গায়ে যে রং বসানো আছে, সেদিকে তাকান, আর সেই বৈচিত্র্য আপনাকে তার স্রষ্টার কাছে নিয়ে যাক।"
   }
 };
 
