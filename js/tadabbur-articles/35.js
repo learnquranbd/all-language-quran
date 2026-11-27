@@ -2066,5 +2066,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "35:44": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Sunna Made Visible",
+          "bn": "চোখের সামনে আল্লাহর রীতি"
+        },
+        "p": [
+          {
+            "en": "Awalam yasiru fi al-ard fa-yanzuru: have they not travelled through the land and looked? The question comes straight after a verse that speaks of sunnat al-awwalin, Allah's way with the former peoples, and says that His way admits no change and no alteration (35:43). Al-Qurtubi joins the two verses directly. This verse, he says, explains the sunna just mentioned: have they not seen what We sent down on 'Ad and Thamud, on Madyan and their like, when they denied the messengers?",
+            "bn": "আওয়া লাম ইয়াসীরূ ফিল আরদি ফা ইয়ানযুরূ: তারা কি যমীনে ঘুরে বেড়ায়নি, তারপর তাকিয়ে দেখেনি? প্রশ্নটা আসে ঠিক সেই আয়াতের পরে, যেখানে সুন্নাতুল আওয়ালীনের কথা আছে, অর্থাৎ আগের জাতিগুলোর সঙ্গে আল্লাহর আচরণের রীতি। সেখানে বলা হয়েছে, আল্লাহর রীতিতে কোনো পরিবর্তন পাওয়া যাবে না, কোনো ব্যতিক্রমও না (৩৫:৪৩)। কুরতুবী দুই আয়াতকে সরাসরি জুড়ে দেন। তাঁর ভাষায়, এই আয়াত সেই রীতির ব্যাখ্যা, যার কথা এইমাত্র বলা হলো। আদ, সামূদ, মাদইয়ান আর তাদের মতো জাতিরা যখন রাসূলদের মিথ্যা বলল, তখন তাদের উপর আমি যা নামিয়েছিলাম, তারা কি তা দেখেনি?"
+          },
+          {
+            "en": "Who is being asked? Ibn Kathir frames the verse as words placed in the Prophet's ﷺ mouth: say, O Muhammad, to these who deny the message you brought them, travel in the land and see the end of those who denied the messengers. At-Tabari names them as those who associate partners with Allah, and al-Muyassar narrows it to the disbelievers of Makkah. The oath they once swore, that a warner would find them better guided than any nation, is the subject of 35:42. This verse shows them where such broken oaths lead.",
+            "bn": "প্রশ্নটা কাকে করা হচ্ছে? ইবন কাসীর আয়াতটিকে দেখেন নবী ﷺ-এর মুখে তুলে দেওয়া কথা হিসেবে: হে মুহাম্মাদ, যারা তোমার আনা বার্তাকে মিথ্যা বলছে, তাদের বলো, যমীনে ঘুরে দেখো, রাসূলদের যারা মিথ্যা বলেছিল তাদের পরিণাম কী হয়েছিল। তাবারীর মতে এরা আল্লাহর সঙ্গে শরীককারী মুশরিকরা। মুয়াসসার আরও নির্দিষ্ট করে বলে, এরা মক্কার কাফিররা। সতর্ককারী এলে তারা যে কোনো জাতির চেয়ে বেশি হিদায়াতপ্রাপ্ত হবে, এমন কসম তারা একসময় খেয়েছিল। সে কথা ৩৫:৪২ আয়াতের বিষয়। এ আয়াত দেখায়, এমন ভাঙা কসম শেষে কোথায় নিয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Caravans on the Syrian Road",
+          "bn": "শামের পথে কাফেলা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives the question a real road. These men were traders, he says, fa-innahum tujjarun yaslukuna tariq al-Sham, who travelled the road to Syria, and the land meant is the land whose people Allah destroyed for disbelieving in Him and denying His messengers. They needed no special journey to obey the verse. The nations they are told to consider lay along the route of their own caravans: they were, in his words, the nations these traders used to pass by.",
+            "bn": "তাবারী প্রশ্নটাকে একটা আসল পথের উপর দাঁড় করান। তাঁর ভাষায়, এরা ছিল ব্যবসায়ী, শামের পথে যাতায়াত করত। আর যে যমীনের কথা বলা হচ্ছে, তা সেই ভূমি যার অধিবাসীদের আল্লাহ ধ্বংস করেছিলেন, কারণ তারা তাঁকে অস্বীকার করেছিল আর তাঁর রাসূলদের মিথ্যা বলেছিল। এ আয়াত মানতে তাদের আলাদা কোনো সফরের দরকার ছিল না। যে জাতিগুলোর কথা ভাবতে বলা হচ্ছে, তারা ছিল তাদের নিজেদের কাফেলার পথেই, যেসব জনপদের পাশ দিয়ে তারা আসা-যাওয়া করত।"
+          },
+          {
+            "en": "What would they find there? At-Tabari puts it as a question Allah asks on their behalf: did We not destroy them, lay waste their dwellings and make them a mathal, an example, for those who came after them? He then gives the purpose of the looking in three verbs. They are to take admonition from those peoples, to hold back from the worship of gods beside Allah, and to come to know something. Al-Muyassar names the peoples as 'Ad and Thamud and their like, and speaks of the ruin that came upon their homes.",
+            "bn": "সেখানে তারা কী পেত? তাবারী কথাটা রাখেন আল্লাহর দিক থেকে করা এক প্রশ্নের আকারে: আমি কি তাদের ধ্বংস করিনি, তাদের ঘরবাড়ি উজাড় করিনি, পরবর্তীদের জন্য তাদের মাসাল, অর্থাৎ দৃষ্টান্ত বানাইনি? তারপর তিনি তিনটি ক্রিয়ায় দেখার উদ্দেশ্য বলে দেন। তারা ওদের থেকে উপদেশ নেবে, আল্লাহর পাশাপাশি অন্য উপাস্যদের ইবাদত থেকে বিরত হবে, আর একটা কথা জেনে নেবে। মুয়াসসার জাতিগুলোর নাম বলে আদ, সামূদ আর তাদের মতো অন্যরা। তাদের ঘরবাড়িতে যে বিরানি নেমে এসেছিল, সে কথাও বলে।"
+          },
+          {
+            "en": "The thing at-Tabari wants them to know is the hinge of the verse. The One who did to those earlier peoples what He did, though they were stronger than these, would find nothing hard in doing the same to these, in hastening vengeance and punishment upon them. On this reading the ruins are not a history lesson. They are an argument from the greater to the lesser. If the strong could not hold out, what are the weaker counting on?",
+            "bn": "তাবারী যে কথাটা তাদের জানাতে চান, সেটাই আয়াতের কবজা। আগের জাতিগুলো এদের চেয়ে শক্তিশালী ছিল, তবু তাদের সঙ্গে যিনি যা করার করেছেন, এদের সঙ্গেও একই কাজ করা তাঁর জন্য মোটেও কঠিন নয়। এদের উপরও তিনি দ্রুত প্রতিশোধ আর শাস্তি নামাতে পারেন। এভাবে পড়লে ধ্বংসস্তূপ শুধু ইতিহাসের পাঠ থাকে না। তা হয়ে ওঠে বড় থেকে ছোটর দিকে টানা এক যুক্তি। শক্তিমানেরাই যখন টিকতে পারেনি, দুর্বলেরা তখন কিসের ভরসায় আছে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seen, or Heard by Many",
+          "bn": "নিজের চোখে, নয়তো বহু মুখে"
+        },
+        "p": [
+          {
+            "en": "Not everyone addressed had stood among the ruins. Al-Qurtubi allows two ways of knowing. They were to reflect on the fate of those peoples by looking at their dwellings and houses, and also through what they had heard by tawatur, reports carried by so many that doubt has no room, about what befell them. Then he asks: is there not in that a lesson and a clear statement for them? In his reading, hearing counts alongside seeing. A report that reaches a person can do the work of a journey.",
+            "bn": "যাদের প্রশ্ন করা হচ্ছে, তাদের সবাই ধ্বংসস্তূপের মাঝে গিয়ে দাঁড়ায়নি। কুরতুবী তাই জানার দুটি পথ রাখেন। এক, ওদের ঘরবাড়ি আর বসতির দিকে তাকিয়ে সেই জাতিগুলোর পরিণতি নিয়ে ভাবা। দুই, তাদের উপর কী নেমেছিল সে বিষয়ে তাওয়াতুরের মাধ্যমে যা শোনা গেছে, অর্থাৎ এত মানুষের মুখে যা এসেছে যে সন্দেহের জায়গা থাকে না। তারপর তিনি প্রশ্ন করেন: এতে কি তাদের জন্য শিক্ষা আর স্পষ্ট বার্তা নেই? তাঁর পাঠে শোনার দাম দেখার পাশেই। যে খবর মানুষের কাছে পৌঁছায়, তা একটা সফরের কাজ করে দিতে পারে।"
+          },
+          {
+            "en": "As-Sa'di asks something harder of the traveller. Allah urges travel in the land, he writes, fi al-qulub wa-al-abdan, in hearts and in bodies, for i'tibar, the taking of a lesson, and not for mere looking and heedlessness. The body can cover the whole road while the heart stays at home. 22:46 makes the same demand of the same journey, asking for hearts that understand and ears that hear. A traveller who photographs the ruin and moves on has travelled with his body only.",
+            "bn": "সা'দী মুসাফিরের কাছে আরও কঠিন কিছু চান। তাঁর ভাষায়, আল্লাহ যমীনে সফর করতে উৎসাহ দেন অন্তর দিয়ে এবং দেহ দিয়ে, ই'তিবার বা শিক্ষা নেওয়ার জন্য। শুধু তাকিয়ে দেখা আর গাফলতির জন্য নয়। দেহ পুরো পথ পার হয়ে যেতে পারে, অথচ মন পড়ে থাকে ঘরে। ২২:৪৬ আয়াত একই সফরের কাছে একই দাবি রাখে: এমন অন্তর, যা বোঝে, আর এমন কান, যা শোনে। যে মুসাফির ধ্বংসস্তূপের ছবি তুলে চলে যায়, সে সফর করেছে কেবল দেহ নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Given What You Were Not",
+          "bn": "যা এদের দেওয়া হয়নি"
+        },
+        "p": [
+          {
+            "en": "Wa-kanu ashadda minhum quwwatan: and they were greater than these in power. At-Tabari says the people of interpretation read the phrase as he did, and he cites Qatada for it: yukhbirukum annahu a'ta al-qawma ma lam yu'tikum, He is telling you that He gave that people what He has not given you. In Qatada's hands the phrase is not really about the dead. It turns to the listeners and tells them that whatever they are proud of, others once held more of it.",
+            "bn": "ওয়া কানূ আশাদ্দা মিনহুম কুওয়াতান: আর তারা ছিল এদের চেয়ে বেশি শক্তিশালী। তাবারী বলেন, তাফসীরকারেরা কথাটা তাঁর মতোই বুঝেছেন, আর প্রমাণ হিসেবে কাতাদার কথা আনেন: তিনি তোমাদের জানিয়ে দিচ্ছেন, ওই জাতিকে তিনি এমন কিছু দিয়েছিলেন যা তোমাদের দেননি। কাতাদার হাতে বাক্যটা আসলে মৃতদের নিয়ে নয়। তা ঘুরে দাঁড়ায় শ্রোতাদের দিকে। যা নিয়ে তোমাদের এত গর্ব, অন্যদের হাতে একসময় তা আরও বেশি ছিল।"
+          },
+          {
+            "en": "Ibn Kathir lists what that strength consisted of: full power, great numbers and plentiful equipment, abundant wealth and many children. Their homes were emptied of them, he says, and they were stripped of the blessings they had lived in, and none of it availed them anything or turned away any of Allah's punishment when the command of your Lord came. As-Sa'di adds that they built up the land more than these had. Al-Muyassar gives them batsh as well as strength, a hard and violent grip.",
+            "bn": "সেই শক্তি কী কী দিয়ে তৈরি ছিল, ইবন কাসীর তার তালিকা দেন: পূর্ণ শক্তি, বিপুল জনবল, প্রচুর সাজসরঞ্জাম, অঢেল সম্পদ আর অনেক সন্তান। তাঁর ভাষায়, তাদের ঘরবাড়ি তাদের থেকে খালি হয়ে গেল। যে নিয়ামতের মধ্যে তারা ছিল, তা কেড়ে নেওয়া হলো। আর যখন তোমার রবের হুকুম এল, এসবের কিছুই তাদের কাজে আসেনি, আল্লাহর আযাবের সামান্যও ঠেকাতে পারেনি। সা'দী যোগ করেন, এদের চেয়ে তারা যমীন বেশি আবাদ করেছিল। মুয়াসসার তাদের শক্তির সঙ্গে বাত্শও জুড়ে দেয়, অর্থাৎ কঠোর ও নির্মম পাকড়াও।"
+          },
+          {
+            "en": "The point is not that strength is evil. Ibn Kathir calls these things al-ni'am, blessings. The point is what strength cannot do. As-Sa'di says it in one line: when the punishment came, their strength did not help them, their wealth and children availed them nothing against Allah, and His power and His will were carried out in them. Al-Qurtubi draws the conclusion for the listeners: they are neither better than those peoples nor stronger. 30:9 and 40:21 ask about stronger peoples in nearly the same words.",
+            "bn": "কথাটা এই নয় যে শক্তি খারাপ জিনিস। ইবন কাসীর এগুলোকে বলেন নিয়ামত। কথাটা হলো, শক্তি কী পারে না। সা'দী এক বাক্যে বলে দেন: আযাব যখন এল, তাদের শক্তি তাদের কোনো উপকার করল না, সম্পদ আর সন্তান আল্লাহর মোকাবিলায় তাদের কোনো কাজে এল না, আর তাদের উপর আল্লাহর কুদরত ও ইচ্ছাই কার্যকর হলো। কুরতুবী শ্রোতাদের জন্য সিদ্ধান্তটা টানেন: এরা ওদের চেয়ে ভালোও নয়, শক্তিশালীও নয়। ৩০:৯ ও ৪০:২১ আয়াতে প্রায় একই ভাষায় শক্তিশালী জাতিদের কথা এসেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nowhere to Outrun Him",
+          "bn": "তাঁকে এড়িয়ে পালানোর পথ নেই"
+        },
+        "p": [
+          {
+            "en": "Then comes wa-ma kana Allahu li-yu'jizahu min shay'in fi al-samawati wa-la fi al-ard: and nothing in the heavens or on the earth could ever frustrate Allah. The verb comes from the root of 'ajz, inability; to frustrate someone is to leave him unable to do what he wants. Al-Baghawi glosses it with one word of motion, li-yafuta 'anhu, to slip away from Him. Al-Muyassar pairs the two senses, yu'jizahu wa-yafutuhu, to frustrate Him and to escape Him.",
+            "bn": "তারপর আসে: ওয়া মা কানাল্লাহু লিইউ'জিযাহু মিন শাইয়িন ফিস সামাওয়াতি ওয়া লা ফিল আরদ, আসমান ও যমীনের কোনো কিছুই আল্লাহকে কখনো অপারগ করতে পারে না। ক্রিয়াটির মূলে আছে 'আজয, মানে অক্ষমতা। কাউকে অপারগ করা মানে তাকে এমন অবস্থায় ফেলা যে সে যা চায় তা করতে পারে না। বাগাভী এর অর্থ দেন চলাচলের একটি শব্দে: তাঁর হাত ফসকে বেরিয়ে যাওয়া। মুয়াসসার দুটি অর্থ একসঙ্গে রাখে: তাঁকে অপারগ করা, আর তাঁর নাগাল এড়িয়ে যাওয়া।"
+          },
+          {
+            "en": "At-Tabari brings the clause back to the men on the road. These associators who deny Muhammad will not frustrate Us, he has Allah say, fa-yasbiquna haraban fi al-ard, getting ahead of Us in flight across the land when We will their destruction. Nor can they pass out through the regions of the heavens and the earth. Two verses earlier, 35:42 said that the warner increased them only in nufur, in running away. This verse tells them where all that running ends.",
+            "bn": "তাবারী বাক্যটিকে ফিরিয়ে আনেন পথের সেই লোকদের কাছে। তাঁর ব্যাখ্যায় আল্লাহ যেন বলছেন: মুহাম্মাদকে যারা মিথ্যা বলে, এই মুশরিকরা আমাকে অপারগ করতে পারবে না। আমি যখন তাদের ধ্বংস চাইব, তখন যমীনে পালিয়ে তারা আমাকে পেছনে ফেলে যেতে পারবে না। আসমান আর যমীনের সীমানা ভেদ করে বেরিয়ে যাওয়ার সাধ্যও তাদের নেই। দুই আয়াত আগে ৩৫:৪২ বলেছে, সতর্ককারী আসার পর তাদের শুধু নুফূর বেড়েছে, মানে দূরে পালানো। এ আয়াত জানিয়ে দেয়, সেই পালানো শেষে কোথায় গিয়ে থামে।"
+          },
+          {
+            "en": "Ibn Kathir and al-Qurtubi both add a condition that keeps the clause exact. Nothing frustrates Him, Ibn Kathir writes, idha arada kawnahu, when He wills a thing to be. When He wills to send punishment down on a people, al-Qurtubi says, that does not escape Him. The clause is about His will meeting no obstacle. It does not say that every people will be destroyed, and the very next verse, 35:45, explains why so many are not.",
+            "bn": "ইবন কাসীর আর কুরতুবী দুজনেই একটা শর্ত জুড়ে দেন, যাতে বাক্যটির অর্থ ঠিক জায়গায় থাকে। ইবন কাসীর লেখেন, তিনি যখন কোনো কিছু ঘটাতে চান, তখন কোনো কিছুই তাঁকে অপারগ করতে পারে না। কুরতুবী বলেন, কোনো জাতির উপর আযাব নামাতে চাইলে তা তাঁর হাত ফসকায় না। বাক্যটির কথা তাই এই যে তাঁর ইচ্ছার সামনে কোনো বাধা টেকে না। প্রতিটি জাতিকেই ধ্বংস করা হবে, এমন কথা এখানে নেই। আর এত জাতিকে যে ধ্বংস করা হয় না, তার কারণ বলে ঠিক পরের আয়াত, ৩৫:৪৫।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Knowing Who Will Turn Back",
+          "bn": "কে ফিরে আসবে, তিনি জানেন"
+        },
+        "p": [
+          {
+            "en": "Innahu kana 'aliman qadiran: He is ever Knowing, Able. Ibn Kathir reads the pair at full width, knowing all that exists and able over all of it. Al-Muyassar narrows it to the context, knowing their deeds and able to destroy them. As-Sa'di makes the two names the reason for the clause before them. Allah is not frustrated by anything, he says, li-kamali 'ilmihi wa-qudratihi, because of the perfection of His knowledge and His power. Nothing hides from His knowledge, and nothing stands against His power.",
+            "bn": "ইন্নাহু কানা 'আলীমান কাদীরা: তিনি সর্বজ্ঞ, সর্বশক্তিমান। ইবন কাসীর নাম দুটিকে পড়েন পুরো ব্যাপ্তিতে: যা কিছু আছে সব তিনি জানেন, আর সবকিছুর উপর তিনি ক্ষমতাবান। মুয়াসসার অর্থটা প্রসঙ্গের ভেতরে আনে: তাদের কাজকর্ম তিনি জানেন, আর তাদের ধ্বংস করতে তিনি সক্ষম। সা'দী এই দুই নামকে আগের বাক্যের কারণ হিসেবে পড়েন। তাঁর ভাষায়, কোনো কিছুই আল্লাহকে অপারগ করতে পারে না, কারণ তাঁর জ্ঞান পূর্ণ, তাঁর কুদরতও পূর্ণ। জ্ঞানের কাছে কিছু লুকানো থাকে না, আর কুদরতের সামনে কিছু দাঁড়াতে পারে না।"
+          },
+          {
+            "en": "At-Tabari's gloss searches furthest. Allah knows His creation and what will come to be, he says, and knows which of them has earned a hastened punishment, wa-man huwa 'an dalalatihi minhum raji' ila al-huda, and which of them will turn back from his error to guidance. He is able to take vengeance on whom He wills among them, and to grant success in faith to whom He wills. The knowledge that sees who is doomed also sees who will return, and the same power can do either.",
+            "bn": "তাবারীর ব্যাখ্যা যায় সবচেয়ে গভীরে। তাঁর ভাষায়, আল্লাহ তাঁর সৃষ্টিকে জানেন, যা ঘটবে তাও জানেন। তিনি জানেন তাদের মধ্যে কে দ্রুত শাস্তির যোগ্য হয়ে গেছে, আর কে নিজের গোমরাহি ছেড়ে হিদায়াতের দিকে ফিরে আসবে। যাকে চান তার থেকে প্রতিশোধ নিতে তিনি সক্ষম, আবার যাকে চান তাকে ঈমানের তাওফীক দিতেও সক্ষম। যে জ্ঞান দেখে কে ধ্বংসের পথে, সেই জ্ঞানই দেখে কে ফিরে আসবে। আর একই কুদরত দুটোই করতে পারে।"
+          },
+          {
+            "en": "That reading opens onto 35:45: if Allah took people to account for what they earned, He would not leave a single creature on the face of the earth, but He defers them to a named term. Ibn Kathir explains the term there as the Day of Resurrection, when each is repaid for his deeds. Earlier in the passage, 35:41 closed on halim, ghafur, Forbearing, Forgiving. Read side by side, the ruins say that He can, and the respite says that He waits.",
+            "bn": "এই পাঠ সরাসরি নিয়ে যায় ৩৫:৪৫ আয়াতে: মানুষ যা কামাই করেছে তার জন্য আল্লাহ যদি তাদের পাকড়াও করতেন, তবে ভূপৃষ্ঠে একটি প্রাণীকেও ছেড়ে দিতেন না। কিন্তু তিনি তাদের এক নির্ধারিত সময় পর্যন্ত অবকাশ দেন। ইবন কাসীর সেখানে সেই সময়কে বলেন কিয়ামতের দিন, যেদিন প্রত্যেককে তার আমলের প্রতিদান দেওয়া হবে। এই অংশেরই আগের দিকে ৩৫:৪১ শেষ হয়েছে হালীম ও গাফূর নামে, পরম সহনশীল, পরম ক্ষমাশীল। পাশাপাশি পড়লে ধ্বংসস্তূপ বলে, তিনি পারেন। আর অবকাশ বলে, তিনি অপেক্ষা করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ruins Are Not Verdicts",
+          "bn": "ধ্বংসস্তূপ কোনো রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This must be said firmly. The verse describes what the text describes: earlier peoples who, as the commentators explain, denied the messengers sent to them, and whom Allah destroyed for it. It licenses nothing against any living person or community. It gives no one the right to stand before a ruin, or an earthquake, a flood or a war today, and announce that its victims were being punished. The Qur'an named those peoples and their sin. Nobody now holds that knowledge about anyone.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা এর পাঠে আছে: আগের সেই জাতিগুলো, তাফসীরকারদের ব্যাখ্যায় যারা তাদের কাছে পাঠানো রাসূলদের মিথ্যা বলেছিল, আর সে কারণে আল্লাহ তাদের ধ্বংস করেছিলেন। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আজকের কোনো ধ্বংসস্তূপ, ভূমিকম্প, বন্যা বা যুদ্ধের সামনে দাঁড়িয়ে কেউ ঘোষণা দিতে পারে না যে এর শিকার মানুষগুলো শাস্তি পাচ্ছিল। ওই জাতিগুলোর নাম আর তাদের অপরাধ কুরআন নিজে বলে দিয়েছে। কারও সম্পর্কে সেই জ্ঞান আজ কারও কাছে নেই।"
+          },
+          {
+            "en": "The tafsirs keep the lesson pointed inward. At-Tabari's mathal is an example for those who come after, and the ones addressed are the ones who must take admonition, not the ones who must pronounce it on others. As-Sa'di's warning against heedless looking cuts both ways: a person can stand at a ruin and learn nothing, or learn only a judgement on someone else. None of the commentaries fetched for this verse attaches a hadith to it, and the one narration quoted above is Qatada's explanation, not words of the Prophet ﷺ.",
+            "bn": "তাফসীরগুলো শিক্ষাটাকে নিজের দিকেই ফিরিয়ে রাখে। তাবারীর মাসাল পরবর্তীদের জন্য দৃষ্টান্ত। যাদের সম্বোধন করা হচ্ছে, উপদেশ নেওয়ার দায় তাদের, অন্যের উপর রায় ঘোষণার দায় নয়। গাফলতির দৃষ্টি নিয়ে সা'দীর সতর্কবাণী দুই দিকেই খাটে। কেউ ধ্বংসস্তূপের সামনে দাঁড়িয়েও কিছুই শেখে না। আবার কেউ শেখে কেবল অন্যের বিরুদ্ধে একটা রায়। এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। উপরে উদ্ধৃত একমাত্র বর্ণনাটি কাতাদার নিজের ব্যাখ্যা, নবী ﷺ-এর বাণী নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Journey Brought Home",
+          "bn": "সফর ফেরে নিজের ঘরে"
+        },
+        "p": [
+          {
+            "en": "What does this verse ask of a reader who will never walk the Syrian road? Al-Qurtubi has already answered half of it: what is heard by sure report can teach as seeing does, and the Qur'an's own account of those peoples reaches every reader. The other half belongs to as-Sa'di. The travel he asks for happens in the heart. It is the habit of looking at what has ended, a business, a family's fortune, a strong body grown old, and asking what would have changed the ending.",
+            "bn": "যে পাঠক কোনোদিন শামের পথে হাঁটবেন না, এ আয়াত তাঁর কাছে কী চায়? অর্ধেক জবাব কুরতুবী আগেই দিয়ে রেখেছেন: নিশ্চিত খবরে যা শোনা যায়, তাও দেখার মতোই শিক্ষা দিতে পারে। আর ওই জাতিগুলোর বিবরণ কুরআন নিজেই প্রত্যেক পাঠকের হাতে তুলে দিয়েছে। বাকি অর্ধেক সা'দীর। তিনি যে সফরের কথা বলেন, তা ঘটে অন্তরে। যা শেষ হয়ে গেছে, তার দিকে তাকানোর অভ্যাস: একটা ব্যবসা, কোনো পরিবারের সচ্ছলতা, বুড়িয়ে যাওয়া এক সবল দেহ। তারপর নিজেকে জিজ্ঞেস করা, কী হলে পরিণতিটা বদলে যেত।"
+          },
+          {
+            "en": "Then Qatada's sentence turns on the reader. Whatever I lean on, my health, my income, my people, my cleverness, someone before me had more of it, and it did not stand between him and the command of his Lord. The verse closes on knowledge and power, and at-Tabari reads that knowledge as including who will turn back. The respite of 35:45 is the time for that turning. The ruin lies behind those peoples; the road still lies in front of me.",
+            "bn": "এরপর কাতাদার কথাটা ঘুরে দাঁড়ায় পাঠকের দিকে। আমি যার উপর ভর দিয়ে আছি, আমার স্বাস্থ্য, আমার আয়, আমার লোকজন, আমার বুদ্ধি, আমার আগে কারও কাছে তা আরও বেশি ছিল। তবু তার আর তার রবের হুকুমের মাঝে তা দেয়াল হয়ে দাঁড়াতে পারেনি। আয়াত শেষ হয় জ্ঞান আর কুদরতের কথায়। আর তাবারী সেই জ্ঞানের মধ্যে ধরেন, কে ফিরে আসবে তাও। ৩৫:৪৫ আয়াতের অবকাশ সেই ফেরার সময়। ধ্বংসস্তূপ পড়ে আছে ওই জাতিগুলোর পেছনে। পথটা এখনো আমার সামনে।"
+          }
+        ]
+      }
+    ]
   }
 });

@@ -36653,6 +36653,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Faith and disbelief are as unlike as darkness and light; the ways to be lost are many and the way to be found is one, so ask Allah for His light.",
     "lessonBn": "ঈমান আর কুফর অন্ধকার ও আলোর মতোই আলাদা। পথ হারানোর উপায় অনেক, পথ পাওয়ার উপায় একটাই, তাই আল্লাহর কাছে তাঁর আলো চান।"
+  },
+  "35:44": {
+    "reflectionEn": "The trade road ran past broken walls, and the men who used it knew those sites well. The verse asks why that knowledge changed nothing. The peoples before them were stronger, with more wealth, more children and more of everything, and their strength is now a field of stones. Nothing in the heavens or on the earth can slip out of Allah's reach, for He knows all and is able to do all. The verse gives me no right to read His anger into the ruins of strangers, or into a disaster on the evening news. It turns me to my own strength instead. What am I leaning on that they leaned on too, and what will it be worth on the day it fails?",
+    "reflectionBn": "বাণিজ্যের পথটা চলে গিয়েছিল ভাঙা দেয়ালের পাশ দিয়ে। যারা সে পথে যাতায়াত করত, জায়গাগুলো তাদের ভালোই চেনা। আয়াত জিজ্ঞেস করে, এত চেনাজানা তবু তাদের কিছুই বদলাল না কেন? আগের জাতিগুলো এদের চেয়ে শক্তিশালী ছিল। সম্পদ বেশি, সন্তান বেশি, সবকিছুই বেশি। সেই শক্তি আজ পাথরের স্তূপ। আসমান আর যমীনের কোনো কিছুই আল্লাহর নাগাল থেকে ফসকে যেতে পারে না, কারণ তিনি সব জানেন, সব পারেন। অচেনা মানুষের ধ্বংসস্তূপে কিংবা খবরে দেখা কোনো দুর্যোগে তাঁর গজব পড়ে নেওয়ার অধিকার এ আয়াত আমাকে দেয় না। বরং আমাকে ফিরিয়ে দেয় আমার নিজের শক্তির দিকে। ওরা যার উপর ভর দিয়েছিল, আমিও কি তারই উপর ভর দিয়ে আছি? যেদিন তা ভেঙে পড়বে, সেদিন তার দাম কত হবে?",
+    "pointsEn": [
+      "Which ruin, story or ending have I seen or heard of many times without letting it teach me anything?",
+      "What am I proud of today, health, money, family or skill, that someone before me had more of and still lost?",
+      "When I hear of a disaster that struck other people, is my first thought a judgement on them or a question to myself?",
+      "If nothing escapes Allah's reach, what am I still hoping to outrun by delay or by keeping busy?",
+      "How am I using the respite I have been given, now that I know it is a respite and not a promise?"
+    ],
+    "pointsBn": [
+      "কোন ধ্বংসস্তূপ, কোন কাহিনি বা কোন পরিণতির কথা আমি বহুবার দেখেছি বা শুনেছি, অথচ তা থেকে কিছুই শিখিনি?",
+      "স্বাস্থ্য, টাকা, পরিবার বা দক্ষতা, আজ যা নিয়ে আমার গর্ব, আমার আগে কারও কাছে তা আরও বেশি ছিল, তবু সে সব হারিয়েছে। আমি কি সেটা মনে রাখি?",
+      "অন্যদের উপর আসা কোনো দুর্যোগের খবর শুনলে আমার প্রথম ভাবনা কি তাদের নিয়ে রায় দেওয়া, নাকি নিজেকে প্রশ্ন করা?",
+      "আল্লাহর নাগাল থেকে কিছুই যদি না ফসকায়, তবে দেরি করে বা ব্যস্ত থেকে আমি এখনো কী এড়িয়ে যেতে চাইছি?",
+      "যে অবকাশ আমাকে দেওয়া হয়েছে, তা যে অবকাশই, পাকা কোনো প্রতিশ্রুতি নয়, এটা জেনে আমি তা কীভাবে কাজে লাগাচ্ছি?"
+    ],
+    "lessonEn": "Strength, wealth and numbers held back nothing for the peoples before us; lean on Allah, who misses nothing, and use the respite He gives to turn back.",
+    "lessonBn": "শক্তি, সম্পদ আর জনবল আগের জাতিগুলোকে কিছুই ঠেকিয়ে দিতে পারেনি। ভরসা রাখুন আল্লাহর উপর, যাঁর নাগাল থেকে কিছুই ফসকায় না, আর তাঁর দেওয়া অবকাশে তাঁর দিকে ফিরে আসুন।"
   }
 };
 
