@@ -33863,6 +33863,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When a blessing comes to you whole, with nothing falling short, take it as a gift and a test, not as proof of your worth, and thank the One who sent it.",
     "lessonBn": "কোনো নিয়ামত যখন এতটুকু কমতি ছাড়া পুরোপুরি আসে, তাকে নিজের যোগ্যতার প্রমাণ না ভেবে দান ও পরীক্ষা হিসেবে নিন, আর যিনি দিয়েছেন তাঁর শুকরিয়া আদায় করুন।"
+  },
+  "17:106": {
+    "reflectionEn": "The Qur'an did not arrive as a finished volume, set down in a single day. It came a passage at a time, across many years, often in answer to what had just happened, and the Prophet ﷺ was told to recite it to people 'ala mukth: unhurried, with room to pause. A book sent down that slowly was meant to be taken in slowly. Yet many of us race through pages to reach a number and keep almost none of it. The verse puts a quieter question to me. What would change if I read less and stayed longer? Which verse have I truly let settle, and which have I only passed over on the way to the end?",
+    "reflectionBn": "কুরআন এক দিনে তৈরি একটা পূর্ণ বই হয়ে নামেনি। নেমেছে অল্প অল্প করে, বহু বছর ধরে, অনেক সময় সদ্য ঘটে যাওয়া কোনো ঘটনার জবাব হয়ে। আর নবী ﷺ-কে বলা হয়েছিল তা মানুষকে পড়ে শোনাতে আলা মুকস, মানে ধীরে, থেমে থেমে। যে কিতাব এত ধীরে নেমেছে, তা গ্রহণ করার কথাও ধীরেই। অথচ আমরা অনেকে একটা সংখ্যা পূরণ করতে পাতার পর পাতা দৌড়ে পার হই, মনে থাকে প্রায় কিছুই না। আয়াতটি আমাকে নিচু গলায় একটা প্রশ্ন করে। কম পড়ে বেশি সময় থামলে কী বদলাত? কোন আয়াতকে আমি সত্যিই মনে বসতে দিয়েছি, আর কোনগুলো শুধু শেষ পর্যন্ত পৌঁছানোর পথে পেরিয়ে গেছি?",
+    "pointsEn": [
+      "When I read the Qur'an, am I counting pages, or listening for what is being said to me?",
+      "Which single verse could I read slowly this week, again and again, until I understand what it asks of me?",
+      "Its commands came step by step. Where am I demanding everything at once, from myself or from someone I am trying to help?",
+      "Do I recite in a way that gives each word its due, or do I hurry so much that even I cannot follow?",
+      "Which passage have I read many times without once stopping to ask what it means for my own day?"
+    ],
+    "pointsBn": [
+      "কুরআন পড়ার সময় আমি কি পাতা গুনি, নাকি কান পেতে শুনি আমাকে কী বলা হচ্ছে?",
+      "এ সপ্তাহে কোন একটি আয়াত আমি বারবার ধীরে পড়তে পারি, যতক্ষণ না বুঝি সেটা আমার কাছে কী চায়?",
+      "এর বিধানগুলো এসেছিল ধাপে ধাপে। নিজের কাছে, কিংবা যাকে সাহায্য করতে চাইছি তার কাছে, আমি কোথায় সবকিছু একসঙ্গে দাবি করে বসছি?",
+      "আমি কি এমনভাবে তিলাওয়াত করি যাতে প্রতিটি শব্দ তার হক পায়, নাকি এত তাড়াহুড়া করি যে নিজেই বুঝে উঠতে পারি না?",
+      "কোন অংশটা আমি বহুবার পড়েছি, অথচ একবারও থেমে ভাবিনি আমার আজকের দিনের জন্য তার অর্থ কী?"
+    ],
+    "lessonEn": "Take the Qur'an in as it was sent down: slowly and part by part, reciting with care and pausing to understand, rather than hurrying to finish.",
+    "lessonBn": "কুরআন যেভাবে নেমেছে সেভাবেই গ্রহণ করুন: ধীরে, অল্প অল্প করে। শেষ করার তাড়ায় না ছুটে যত্নের সঙ্গে তিলাওয়াত করুন, আর বোঝার জন্য থামুন।"
   }
 };
 

@@ -5591,6 +5591,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:106": {
+    "sections": [
+      {
+        "h": {
+          "en": "Nine Words About Its Coming",
+          "bn": "নেমে আসার কথা নয় শব্দে"
+        },
+        "p": [
+          {
+            "en": "Wa-qur'anan faraqnahu li-taqra'ahu 'ala an-nasi 'ala mukthin wa-nazzalnahu tanzila: and a Qur'an which We have divided, that you may recite it to people at intervals, and We sent it down in stages. Nine Arabic words, and they follow straight on from 17:105, which says the Book was sent down with the truth and that the Prophet ﷺ was sent only as a bringer of good tidings and a warner. The surah is near its close, and these lines turn from Moses and Pharaoh back to the Book itself: what it is, and how it came.",
+            "bn": "ওয়া কুরআনান ফারাকনাহু লিতাকরাআহু আলান নাসি আলা মুকসিন ওয়া নাযযালনাহু তানযীলা: আর এক কুরআন, যা আমি ভাগ ভাগ করেছি, যাতে তুমি থেমে থেমে মানুষকে তা পড়ে শোনাও, আর আমি তা নাযিল করেছি ধাপে ধাপে। আরবিতে নয়টি শব্দ। ঠিক আগের আয়াত ১৭:১০৫ বলেছে, কিতাব নেমেছে সত্য নিয়ে, আর নবী ﷺ-কে পাঠানো হয়েছে কেবল সুসংবাদদাতা ও সতর্ককারী হিসেবে। এ আয়াত সেখান থেকেই কথা টেনে নেয়। সূরা প্রায় শেষের দিকে। মূসা (আঃ) ও ফিরআউনের কাহিনি পেরিয়ে আলোচনা আবার ফিরে এসেছে কিতাবের কাছে: সে কী, আর কীভাবে এসেছে।"
+          },
+          {
+            "en": "The opening word stands in the accusative, qur'anan, and the grammarians asked what governs it. At-Tabari reports that one of the Kufan scholars of Arabic took it to stand for 'and a mercy', joined to the bringer of good tidings and the warner just before, since the Qur'an is a mercy. At-Tabari prefers another account: a verb is understood, explained by the verb that follows, as in wa-l-qamara qaddarnahu manazil in 36:39. Al-Qurtubi gives the same analysis and names it as the position of Sibawayh.",
+            "bn": "প্রথম শব্দ কুরআনান যবরযুক্ত, আর ব্যাকরণবিদেরা প্রশ্ন তুলেছেন, কী তাকে এই রূপ দিল। তাবারী জানান, কূফার এক আরবি ভাষাবিদ একে 'এবং রহমত হিসেবে' অর্থে নিতেন। তাঁর মতে শব্দটি আগের সুসংবাদদাতা ও সতর্ককারীর সঙ্গে যুক্ত, কারণ কুরআন নিজেই রহমত। তাবারী অন্য ব্যাখ্যাকে অগ্রাধিকার দেন। এখানে একটা ক্রিয়া উহ্য আছে, আর পরের ক্রিয়াটিই তা খুলে বলে, যেমন ৩৬:৩৯ আয়াতে ওয়াল কামারা কাদ্দারনাহু মানাযিল। কুরতুবীও একই বিশ্লেষণ দেন এবং বলেন, এটাই সীবাওয়াইহির মত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faraqnahu Light or Doubled",
+          "bn": "ফারাকনাহু, হালকা না তাশদীদে"
+        },
+        "p": [
+          {
+            "en": "One letter carries the verse's first dispute. Most readers read faraqnahu, with the ra light: at-Tabari calls it the reading of the generality of the readers of the cities, al-Qurtubi that of the majority, al-Baghawi that of the common body. Others doubled the letter, farraqnahu. At-Tabari says only that this was mentioned from Ibn 'Abbas, and gives a chain for it through Abu al-'Aliya. Al-Qurtubi's list is longer: Ibn 'Abbas, 'Ali, Ibn Mas'ud, Ubayy ibn Ka'b, Qatada, Abu Raja' and ash-Sha'bi, adding that Ibn Mas'ud and Ubayy read farraqnahu 'alayka, We divided it upon you.",
+            "bn": "আয়াতের প্রথম মতভেদ একটিমাত্র হরফ নিয়ে। বেশিরভাগ কারী পড়েছেন ফারাকনাহু, রা হরফ হালকা রেখে। তাবারী একে বলেন শহরগুলোর সাধারণ কারীদের কিরাআত, কুরতুবী বলেন অধিকাংশের, আর বাগাভী বলেন সর্বসাধারণের। কেউ কেউ হরফটি দ্বিগুণ করে পড়েছেন, ফাররাকনাহু। তাবারী শুধু এটুকু বলেন যে ইবন আব্বাস (রাঃ) থেকে এমন পড়ার কথা উল্লেখ আছে, আর আবুল আলিয়ার সূত্রে এর একটি সনদ দেন। কুরতুবীর তালিকা দীর্ঘ: ইবন আব্বাস, আলী, ইবন মাসঊদ, উবাই ইবন কা'ব (রাঃ), কাতাদা, আবু রাজা ও শা'বী। তিনি যোগ করেন, ইবন মাসঊদ ও উবাই পড়তেন ফাররাকনাহু আলাইকা, অর্থাৎ তোমার উপর ভাগে ভাগে নামিয়েছি।"
+          },
+          {
+            "en": "The two lists do not agree on every name. At-Tabari carries a report through Abu al-'Aliya that Ubayy read the word light and glossed it bayyannahu, We made it clear, while al-Qurtubi counts Ubayy among those who doubled it. Ibn 'Abbas is reported on both sides too. At-Tabari has him glossing the light word as fassalnahu, We set it out distinctly, and also reading it doubled, and Ibn Kathir carries both reports from him. The commentators set these reports side by side and do not try to reconcile them.",
+            "bn": "দুই তালিকার সব নাম মেলে না। তাবারী আবুল আলিয়ার সূত্রে একটি বর্ণনা আনেন যে উবাই (রাঃ) শব্দটি হালকা পড়তেন এবং এর অর্থ বলতেন বাইয়ান্নাহু, আমি তা স্পষ্ট করেছি। অথচ কুরতুবী উবাইকে গোনেন দ্বিগুণ পাঠকারীদের মধ্যে। ইবন আব্বাস (রাঃ)-এর নামও দুই দিকেই পাওয়া যায়। তাবারীর বর্ণনায় তিনি হালকা শব্দটির অর্থ করেন ফাসসালনাহু, আমি তা আলাদা আলাদা করে খুলে বলেছি। আবার তিনিই শব্দটি দ্বিগুণ করে পড়তেন। ইবন কাসীরও তাঁর থেকে দুটো বর্ণনাই আনেন। মুফাসসিরেরা বর্ণনাগুলো পাশাপাশি রেখে দেন, মিলিয়ে দেওয়ার চেষ্টা করেন না।"
+          },
+          {
+            "en": "At-Tabari still gives a verdict. The light reading is the more correct of the two, he says, because it is the reading on which the proof stands agreed, and what is agreed in matters of religion and the Qur'an may not be opposed. He also relays a small scene. Abu Raja' once asked al-Hasan about the verse, reading the word doubled, and al-Hasan corrected him: 'Not farraqnahu, but faraqnahu.' Asked whether he had this from the Companions of Muhammad ﷺ, al-Hasan answered: then who else would have told it to me?",
+            "bn": "তবু তাবারী একটা রায় দেন। তাঁর মতে দুই কিরাআতের মধ্যে হালকাটিই বেশি সঠিক, কারণ এর পক্ষে দলিল সর্বসম্মত। দ্বীন ও কুরআনের যে বিষয়ে সবাই একমত, তার বিরোধিতা চলে না। তিনি একটা ছোট্ট দৃশ্যও তুলে আনেন। আবু রাজা একদিন হাসানকে এ আয়াত নিয়ে প্রশ্ন করেন, আর পড়ার সময় শব্দটি দ্বিগুণ করেন। হাসান তাঁকে শুধরে দেন: ফাররাকনাহু নয়, ফারাকনাহু। আবু রাজা জানতে চান, এ কথা কি তিনি মুহাম্মাদ ﷺ-এর সাহাবিদের কাছে পেয়েছেন? হাসানের জবাব: তাঁরা ছাড়া আর কে আমাকে এটা বলবে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Set Apart, Made Plain",
+          "bn": "আলাদা করা, খুলে বলা"
+        },
+        "p": [
+          {
+            "en": "On the light reading the commentators give a cluster of meanings. At-Tabari glosses faraqnahu as ahkamnahu wa-fassalnahu wa-bayyannahu: We made it firm, set it out distinctly and made it clear. The two reports he cites from Ibn 'Abbas say fassalnahu, and Ubayy's says bayyannahu. Al-Hasan takes the root as separation of another kind: Allah distinguished between the truth and falsehood. Al-Baghawi lists the same options. As-Sa'di holds two senses in one phrase: sent down in parts, and parting guidance from misguidance, truth from falsehood. The Muyassar does the same.",
+            "bn": "হালকা কিরাআতে মুফাসসিরেরা কয়েকটি কাছাকাছি অর্থ দেন। তাবারী ফারাকনাহুর ব্যাখ্যা করেন আহকামনাহু ওয়া ফাসসালনাহু ওয়া বাইয়ান্নাহু দিয়ে: আমি একে মজবুত করেছি, আলাদা আলাদা করে সাজিয়েছি, আর স্পষ্ট করেছি। ইবন আব্বাস (রাঃ) থেকে তিনি যে দুটি বর্ণনা আনেন, দুটোতেই আছে ফাসসালনাহু। উবাই (রাঃ)-এর বর্ণনায় বাইয়ান্নাহু। হাসান শব্দমূলটিকে নেন অন্য ধরনের পৃথকীকরণ অর্থে: আল্লাহ সত্য ও বাতিলের মাঝে পার্থক্য করে দিয়েছেন। বাগাভীও এই মতগুলোই তালিকায় রাখেন। সা'দী এক বাক্যে দুটি অর্থ ধরে রাখেন: কুরআন নেমেছে ভাগে ভাগে, আর তা হিদায়াতকে গোমরাহি থেকে, হককে বাতিল থেকে আলাদা করে দেয়। মুয়াসসারও একই কাজ করে।"
+          },
+          {
+            "en": "Ibn Kathir gives the light reading a further sense, on the authority of 'Ikrima from Ibn 'Abbas: We separated it from the Preserved Tablet to the House of Might, Bayt al-'Izza, in the nearest heaven, and then it came down in parts, matched to events, to the Messenger of Allah ﷺ over twenty-three years. The doubled reading, also from Ibn 'Abbas in his account, means We sent it down verse by verse, explained and made plain, and that, he says, is why the verse goes on: that you may recite it to people. Both of his readings end in a Book that came in parts.",
+            "bn": "ইবন কাসীর ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) থেকে হালকা কিরাআতের আরেকটি অর্থ আনেন। আমি একে লাওহে মাহফূয থেকে আলাদা করে নিকটতম আসমানের বাইতুল ইযযাতে নামিয়েছি। তারপর তা ঘটনার সঙ্গে মিলিয়ে ভাগে ভাগে রাসূলুল্লাহ ﷺ-এর উপর নেমেছে, তেইশ বছর ধরে। তাঁর বর্ণনায় দ্বিগুণ কিরাআতও ইবন আব্বাস (রাঃ) থেকে, আর এর অর্থ: আমি একে আয়াতের পর আয়াত নামিয়েছি, ব্যাখ্যা করে, খুলে বলে। ইবন কাসীর বলেন, এ কারণেই আয়াত এগিয়ে গিয়ে বলে: যাতে তুমি মানুষকে তা পড়ে শোনাও। দুই কিরাআতের যেটাই ধরা হোক, তাঁর বর্ণনায় কিতাব এসেছে খণ্ডে খণ্ডে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Twenty Years, or Twenty-Three",
+          "bn": "বিশ বছর, নাকি তেইশ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari carries the 'Ikrima report in a fuller form. Ibn 'Abbas said: the Qur'an was sent down all at once to the nearest heaven on the Night of Decree, and after that it was sent down over twenty years. He then recited 25:33, they bring you no example but that We bring you the truth and the best explanation, and this verse with the word doubled. Al-Qurtubi states the first half broadly: there is no disagreement that it came down to the nearest heaven all at once. None of these commentators grades the 'Ikrima chain, and at-Tabari and Ibn Kathir both relay it as Ibn 'Abbas's own word.",
+            "bn": "তাবারী ইকরিমার বর্ণনাটি আরও পূর্ণ আকারে আনেন। ইবন আব্বাস (রাঃ) বলেছেন: কুরআন লাইলাতুল কদরে একবারে নিকটতম আসমানে নামানো হয়, তারপর নামানো হয় বিশ বছর ধরে। এরপর তিনি দুটি আয়াত একসঙ্গে পড়েন। একটি ২৫:৩৩: তারা তোমার কাছে এমন কোনো দৃষ্টান্ত আনে না, যার জবাবে আমি সত্য ও সর্বোত্তম ব্যাখ্যা নিয়ে আসি না। অন্যটি এই আয়াত, শব্দটি দ্বিগুণ করে পড়ে। কুরতুবী প্রথম অংশটি আরও ব্যাপকভাবে বলেন: নিকটতম আসমানে একবারে নামার ব্যাপারে কোনো মতভেদ নেই। এই মুফাসসিরদের কেউ ইকরিমার সনদের মান নিয়ে কিছু বলেন না। তাবারী ও ইবন কাসীর দুজনেই একে ইবন আব্বাস (রাঃ)-এর নিজের কথা হিসেবে আনেন।"
+          },
+          {
+            "en": "On the length of the descent the reports differ. Ibn Kathir's text of the 'Ikrima report says twenty-three years, while at-Tabari's says twenty. Qatada, in at-Tabari, says it did not come down in a night or two, a month or two, a year or two, but between its first and its last were twenty years, and what Allah willed of that; elsewhere he puts it at ten years in Makka and ten in Madina. Al-Hasan says eight years in Makka before the Hijra and ten in Madina, eighteen in all.",
+            "bn": "নাযিলের মেয়াদ নিয়ে বর্ণনাগুলো এক নয়। ইকরিমার একই বর্ণনা ইবন কাসীরের পাঠে ২৩ বছর, তাবারীর পাঠে ২০ বছর। তাবারীতে কাতাদা বলেন, কুরআন এক রাতে বা দুই রাতে নামেনি, এক মাসে বা দুই মাসে নয়, এক বছরে বা দুই বছরেও নয়। এর প্রথম ও শেষ অংশের মাঝে ছিল ২০ বছর, আর আল্লাহ যতটুকু চেয়েছেন। আরেক জায়গায় তিনি বলেন, মক্কায় ১০ বছর আর মদীনায় ১০ বছর। হাসানের হিসাবে হিজরতের আগে মক্কায় ৮ বছর আর মদীনায় ১০ বছর, মোট ১৮।"
+          },
+          {
+            "en": "Al-Qurtubi gathers the figures and gives a reason for them. Some said twenty-five years, Ibn 'Abbas said twenty-three, and Anas said twenty, and the difference, he says, follows the difference over the age of the Messenger of Allah ﷺ. As-Sa'di and al-Baghawi simply give twenty-three. Al-Bukhari has a report, not attached to this verse, from 'Aisha and Ibn 'Abbas: 'The Prophet ﷺ remained in Mecca for ten years, during which the Qur'an used to be revealed to him; and he stayed in Medina for ten years' (4978). The figures stay as the sources give them.",
+            "bn": "কুরতুবী সংখ্যাগুলো একত্র করেন এবং কারণও বলেন। কেউ বলেছেন ২৫ বছর, ইবন আব্বাস (রাঃ) বলেছেন ২৩, আর আনাস (রাঃ) বলেছেন ২০। তাঁর মতে এই পার্থক্য এসেছে রাসূলুল্লাহ ﷺ-এর বয়স নিয়ে মতভেদ থেকে। সা'দী ও বাগাভী সরাসরি ২৩ বছরই বলেন। বুখারীতে আয়েশা (রাঃ) ও ইবন আব্বাস (রাঃ) থেকে একটি বর্ণনা আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়: 'নবী ﷺ মক্কায় ১০ বছর ছিলেন, তখন তাঁর উপর কুরআন নাযিল হতো, আর মদীনায় ছিলেন ১০ বছর' (৪৯৭৮)। সংখ্যাগুলো সূত্রে যেমন আছে, তেমনই থাকুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "'Ala Mukth, Without Haste",
+          "bn": "আলা মুকস: তাড়াহুড়া ছাড়া"
+        },
+        "p": [
+          {
+            "en": "'Ala mukth is the verse's own word on pace. Al-Qurtubi ties its sense to the two readings. On the doubled reading it means a long stretch of time, part after part, verse by verse and surah by surah. On the light reading it means deliberateness and measure in recitation, tarassul and tartil, and he names Mujahid, Ibn 'Abbas and Ibn Jurayj for this. At-Tabari, who holds the light reading, explains it as tu'ada: recite it to people with deliberation, in measure and clearly, without hurrying, lest it not be understood from you.",
+            "bn": "আলা মুকস: গতির কথা আয়াত নিজেই বলে দিয়েছে। কুরতুবী এর অর্থকে দুই কিরাআতের সঙ্গে জুড়ে দেন। দ্বিগুণ কিরাআতে এর মানে দীর্ঘ সময় ধরে, অংশের পর অংশ, আয়াতের পর আয়াত, সূরার পর সূরা। হালকা কিরাআতে এর মানে তিলাওয়াতে ধীরতা ও মাপা গতি, তারাসসুল ও তারতীল। এ মতের জন্য তিনি মুজাহিদ, ইবন আব্বাস (রাঃ) ও ইবন জুরাইজের নাম নেন। হালকা কিরাআতের পক্ষের তাবারী একে বলেন তুআদা। অর্থাৎ মানুষকে ধীরে-সুস্থে পড়ে শোনাও, মেপে মেপে, স্পষ্ট করে। তাড়াহুড়া কোরো না, নইলে তোমার কাছ থেকে কেউ বুঝে উঠবে না।"
+          },
+          {
+            "en": "The early glosses that at-Tabari gathers point the same way. Mujahid says 'ala tartil, in measured recitation, and in another chain 'ala tu'ada; Ibn Jurayj says fi tartil. Ibn Zayd ties the phrase to another verse: this is the explanation of what Allah said in wa-rattili al-qur'ana tartila, recite the Qur'an in measured recitation, 73:4. Malik, quoted by al-Qurtubi, says: with steadiness and deliberateness. Al-Baghawi joins the senses together: with deliberation, measure and unhurried reading, over twenty-three years.",
+            "bn": "তাবারী প্রথম যুগের যে ব্যাখ্যাগুলো জড়ো করেন, সেগুলোও একই দিকে যায়। মুজাহিদ বলেন আলা তারতীল, মেপে মেপে তিলাওয়াত, আর আরেক সনদে বলেন আলা তুআদা। ইবন জুরাইজ বলেন ফী তারতীল। ইবন যায়দ কথাটিকে আরেক আয়াতের সঙ্গে মেলান: আল্লাহ যে বলেছেন ওয়া রাত্তিলিল কুরআনা তারতীলা, কুরআন তিলাওয়াত করো ধীরে ধীরে, স্পষ্ট করে (৭৩:৪), এটাই তার ব্যাখ্যা। কুরতুবী ইমাম মালিকের কথা আনেন: দৃঢ়তা আর ধীরতার সঙ্গে। বাগাভী অর্থগুলো একসঙ্গে বাঁধেন: ধীরে-সুস্থে, মাপা গতিতে, তাড়াহুড়া ছাড়া, তেইশ বছর ধরে।"
+          },
+          {
+            "en": "As-Sa'di names the purpose. 'Ala mukth means slowly, so that they may reflect on it, think over its meanings and draw out the knowledge it holds. The word itself had several shapes in Arabic. Al-Qurtubi says the readers agree on mukth, with the mim given damma, except Ibn Muhaysin, who read it with fatha, and he counts three dialect forms. At-Tabari spells them out as mukth, makth and mikth, adds two longer forms, and says the reading is with damma.",
+            "bn": "উদ্দেশ্যটা বলে দেন সা'দী। আলা মুকস মানে ধীরে, যাতে মানুষ এ নিয়ে তাদাব্বুর করে, এর অর্থ নিয়ে ভাবে, আর এর ভেতরের জ্ঞান বের করে আনে। আরবিতে শব্দটির একাধিক রূপও ছিল। কুরতুবী বলেন, কারীরা মীমে পেশ দিয়ে মুকস পড়ার ব্যাপারে একমত, শুধু ইবন মুহাইসিন যবর দিয়ে পড়েছেন। তিনি এর তিনটি আঞ্চলিক রূপের কথা বলেন। তাবারী রূপগুলোর নাম দেন মুকস, মাকস ও মিকস, আরও দুটি দীর্ঘ রূপ যোগ করেন, এবং বলেন কিরাআত পেশ দিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Al-Baqara Alone, Recited Well",
+          "bn": "শুধু বাকারা, তবে যত্ন করে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari places a question put to Mujahid under this phrase. 'Ubayd al-Muktib asked him about two men: one recited al-Baqara and Al 'Imran, the other al-Baqara alone, and their bowing and prostration were the same. Which was better? Mujahid said: the one who recited al-Baqara, and he recited this verse. The answer is Mujahid's own judgement, not a word raised to the Prophet ﷺ, but it shows an early reader hearing 'ala mukth as a call to recite slowly rather than to cover more.",
+            "bn": "এই অংশের আলোচনায় তাবারী মুজাহিদকে করা একটি প্রশ্ন তুলে আনেন। উবাইদ আল-মুকতিব তাঁকে দুজন লোকের কথা জিজ্ঞেস করেন। একজন সূরা বাকারা ও আলে ইমরান পড়লেন, অন্যজন শুধু বাকারা। দুজনের রুকু ও সিজদা একই রকম। কে উত্তম? মুজাহিদ বললেন, যিনি শুধু বাকারা পড়েছেন। তারপর তিনি এই আয়াতটি পড়লেন। জবাবটা মুজাহিদের নিজের বিবেচনা, নবী ﷺ-এর কথা নয়। তবু এতে দেখা যায়, প্রথম যুগের একজন পাঠক আলা মুকসকে বুঝেছেন বেশি পড়ার নয়, ধীরে পড়ার ডাক হিসেবে।"
+          },
+          {
+            "en": "Al-Qurtubi draws a rule for the reciter from the light reading. The reader should give recitation its due: its measure, its beauty, and as good a voice as he can manage, without the melodic stretching, talhin and tatrib, that alters the wording of the Qur'an by adding or dropping something, for that, he says, is forbidden, as he set out at the start of his book. The verse then speaks to the reciter's voice as well: slow enough to be understood, beautiful without bending a letter.",
+            "bn": "হালকা কিরাআত থেকে কুরতুবী তিলাওয়াতকারীর জন্য একটা নিয়ম বের করেন। পাঠক তিলাওয়াতকে তার হক দেবে: মাপা গতি, সৌন্দর্য, আর যতটা পারা যায় সুন্দর কণ্ঠ। তবে তালহীন ও তাতরীব চলবে না, অর্থাৎ এমন সুর টানা, যাতে কুরআনের শব্দে কিছু বাড়ে বা কমে। তাঁর মতে তা হারাম, যেমনটা তিনি তাঁর কিতাবের শুরুতেই বলে এসেছেন। তাহলে আয়াতটি তিলাওয়াতকারীর কণ্ঠের কথাও বলে। গতি হবে এমন ধীর যে বোঝা যায়, আর সৌন্দর্য হবে এমন যে একটি হরফও বাঁকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Paradise Before the Prohibitions",
+          "bn": "নিষেধের আগে জান্নাতের কথা"
+        },
+        "p": [
+          {
+            "en": "Wa-nazzalnahu tanzila closes the verse. Al-Qurtubi calls the verbal noun tanzila emphasis for the meaning already given: We sent it down one portion after another. Then he gives a reason in one clause: had they been taken with all the obligations at one time, they would have fled. At-Tabari reads it as We divided its sending down, thing after thing, and relays al-Hasan on why: Allah sent this Qur'an down part before part, for what He knew would come to be and happen among people.",
+            "bn": "ওয়া নাযযালনাহু তানযীলা দিয়ে আয়াত শেষ হয়। কুরতুবী বলেন, তানযীলা ক্রিয়ামূল এনে আগের অর্থটাকেই জোরালো করা হয়েছে: আমি একে নামিয়েছি এক অংশের পর আরেক অংশ। তারপর এক বাক্যে কারণও বলেন: সব ফরয যদি একসঙ্গে তাদের উপর চাপানো হতো, তারা পালিয়ে যেত। তাবারী এর অর্থ করেন, আমি এর নাযিলকে ভাগ করেছি, একটার পর একটা। কেন, সে ব্যাপারে তিনি হাসানের কথা আনেন: মানুষের মধ্যে কী ঘটবে, কী দেখা দেবে, আল্লাহ তা জানতেন। তাই তিনি এ কুরআনের এক অংশ আরেক অংশের আগে নামিয়েছেন।"
+          },
+          {
+            "en": "The Muyassar says it came down in parts, according to events and what circumstances required. Ibn Zayd, in at-Tabari, links the verse to the objection recorded in 25:32, where those who disbelieved asked why the Qur'an was not sent down upon him all at once; he recited on to 'the best explanation' in 25:33 and said that it overturns whatever they bring. That passage answers the objection in its own place. Here the answer is simply the shape in which the Book came.",
+            "bn": "মুয়াসসার বলে, কুরআন নেমেছে ভাগে ভাগে, ঘটনা অনুযায়ী আর পরিস্থিতি যা দাবি করেছে সে অনুযায়ী। তাবারীতে ইবন যায়দ আয়াতটিকে ২৫:৩২-এর আপত্তির সঙ্গে মেলান। সেখানে কাফিররা প্রশ্ন তুলেছিল, পুরো কুরআন একবারে তাঁর উপর নামল না কেন? ইবন যায়দ ২৫:৩৩-এর 'সর্বোত্তম ব্যাখ্যা' পর্যন্ত পড়ে বলেন, তারা যা-ই আনে, এ তা ভেঙে দেয়। সেই আপত্তির জবাব ওই আয়াতগুলো নিজের জায়গায় দিয়েছে। এখানে জবাব হলো কিতাব যে রূপে এসেছে, সেটাই।"
+          },
+          {
+            "en": "No tafsir fetched for this verse attaches a sound hadith to it. Al-Bukhari has a report from 'Aisha, not tied to 17:106, that touches the same wisdom (4993). She said: 'the first thing that was revealed thereof was a Sura from Al-Mufassal, and in it was mentioned Paradise and the Fire. When the people embraced Islam, the Verses regarding legal and illegal things were revealed. If the first thing to be revealed was: \"Do not drink alcoholic drinks.\" people would have said, \"We will never leave alcoholic drinks.\"'",
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি। তবে বুখারীতে আয়েশা (রাঃ)-এর একটি বর্ণনা আছে, যা ১৭:১০৬-এর সঙ্গে যুক্ত নয়, অথচ একই হিকমতের কথা বলে (৪৯৯৩)। তিনি বলেন: 'এর মধ্যে প্রথম যা নেমেছিল তা মুফাসসালের একটি সূরা, যাতে জান্নাত ও জাহান্নামের কথা ছিল। মানুষ যখন ইসলামের দিকে ফিরে এল, তখন হালাল-হারামের আয়াত নামল। প্রথমেই যদি নামত, মদ পান কোরো না, তারা বলত, আমরা কখনো মদ ছাড়ব না।'"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Taken In as It Came",
+          "bn": "যেভাবে এসেছে, সেভাবে গ্রহণ"
+        },
+        "p": [
+          {
+            "en": "The next verse, 17:107, says: believe in it or do not believe, and those given knowledge before it fall down in prostration when it is recited to them. The Book just described, sent in parts and recited without haste, is the Book whose recitation moves those listeners. As-Sa'di gave the purpose of the slowness as reflection and understanding, and al-Qurtubi asked that recitation give every word its due.",
+            "bn": "পরের আয়াত ১৭:১০৭ বলে: তোমরা এতে ঈমান আনো বা না আনো, এর আগে যাদের জ্ঞান দেওয়া হয়েছে, তাদের সামনে তা তিলাওয়াত করা হলে তারা সিজদায় লুটিয়ে পড়ে। যে কিতাবের বর্ণনা এইমাত্র এল, ভাগে ভাগে নামা আর ধীরে ধীরে পড়ে শোনানো, তার তিলাওয়াতই ওই শ্রোতাদের এভাবে নাড়া দেয়। সা'দী ধীরতার উদ্দেশ্য বলেছেন তাদাব্বুর আর বোঝা। কুরতুবী চেয়েছেন, তিলাওয়াতে প্রতিটি শব্দ যেন তার হক পায়।"
+          },
+          {
+            "en": "For a reader now the point is practical. The Qur'an reached its first hearers over many years, a passage at a time, often in answer to what was happening around them. Racing through it to finish runs against the way it came. A few verses read in measure, with their meaning sought, keep closer to 'ala mukth than many pages hurried past, and Mujahid's answer about al-Baqara says as much in a single line.",
+            "bn": "আজকের পাঠকের জন্য কথাটা একেবারে হাতে-কলমে। প্রথম শ্রোতাদের কাছে কুরআন পৌঁছেছিল বহু বছর ধরে, এক এক অংশ করে, অনেক সময় চারপাশে যা ঘটছিল তার জবাব হয়ে। শেষ করার তাড়ায় দৌড়ে পড়া তাই এর আসার ধরনের উল্টো। অর্থ খুঁজে খুঁজে মেপে পড়া কয়েকটি আয়াত তাড়াহুড়ায় পার হওয়া অনেক পাতার চেয়ে আলা মুকসের বেশি কাছাকাছি। বাকারা নিয়ে মুজাহিদের জবাব এক লাইনেই সে কথা বলে দেয়।"
+          }
+        ]
+      }
+    ]
+  },
   "17:110": {
     "sections": [
       {
