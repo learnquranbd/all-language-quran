@@ -34243,6 +34243,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Come before your Lord knowing who is speaking to you and whose ground you stand on, and set down at the door whatever you carried in from the road.",
     "lessonBn": "রবের সামনে আসুন এটা জেনে যে কে আপনার সঙ্গে কথা বলছেন আর আপনি কার জমিনে দাঁড়িয়ে আছেন। পথ থেকে যা বয়ে এনেছেন, দরজায় তা নামিয়ে রেখে আসুন।"
+  },
+  "20:34": {
+    "reflectionEn": "Musa has just asked for his brother as a helper, and now he says what the help is for: that we may remember You much. He does not say so that the work goes faster, or so that the load feels lighter, though both may have been true. The aim he names is more remembrance. Two people who keep each other turning to Allah will remember Him more than either would alone, because one reminds when the other forgets. And much is not one long hour set aside. It is remembrance carried into every state, standing, sitting and lying down. Look at the people closest to you. Do they help you remember Allah more, and do you do that for them?",
+    "reflectionBn": "মূসা (আঃ) এইমাত্র ভাইকে সাহায্যকারী হিসেবে চেয়েছেন। এবার বলছেন, সাহায্যটা কীসের জন্য: যাতে আমরা তোমাকে বেশি বেশি স্মরণ করতে পারি। কাজ তাড়াতাড়ি শেষ হবে, বোঝা হালকা লাগবে, এসব হয়তো সত্যিও ছিল, কিন্তু সেগুলো তিনি বলেননি। তিনি লক্ষ্য হিসেবে বলেছেন আরও বেশি জিকির। দুজন মানুষ যদি একে অপরকে আল্লাহর দিকে ফিরিয়ে রাখে, তারা একা একা যতটা স্মরণ করত, তার চেয়ে বেশি করবে। কারণ একজন ভুলে গেলে অন্যজন মনে করিয়ে দেয়। আর ‘বেশি’ মানে আলাদা করে রাখা একটা লম্বা ঘণ্টা নয়। দাঁড়িয়ে, বসে, শুয়ে, সব অবস্থায় জিকির সঙ্গে রাখা। আপনার সবচেয়ে কাছের মানুষগুলোর দিকে তাকান। তারা কি আপনাকে আল্লাহকে বেশি মনে রাখতে সাহায্য করে? আর আপনি কি তাদের জন্য তা করেন?",
+    "pointsEn": [
+      "When I ask Allah for help with a task, do I ever name what the help is for, beyond simply getting the task done?",
+      "Of the people I spend the most time with, who makes it easier for me to remember Allah, and who makes it harder?",
+      "Is my remembrance of Allah tied to one place and one hour, or does it reach me standing, sitting and lying down?",
+      "When did I last remind a friend of Allah, gently, at a moment they had forgotten, and would I welcome the same from them?",
+      "If my closest partnership were judged by how much remembrance it adds to both our lives, what would that judgement show?"
+    ],
+    "pointsBn": [
+      "কোনো কাজে আল্লাহর কাছে সাহায্য চাইলে, কাজটা শেষ হওয়ার বাইরে সাহায্যটা কীসের জন্য, তা কি কখনো মুখে বলি?",
+      "যাদের সঙ্গে আমার সবচেয়ে বেশি সময় কাটে, তাদের মধ্যে কে আমার জন্য আল্লাহকে স্মরণ করা সহজ করে, আর কে কঠিন করে?",
+      "আমার জিকির কি একটা নির্দিষ্ট জায়গা আর সময়ে বাঁধা, নাকি দাঁড়িয়ে, বসে, শুয়ে থাকা অবস্থাতেও তা আমার সঙ্গে থাকে?",
+      "শেষ কবে কোনো বন্ধুকে, সে যখন ভুলে ছিল, নরম করে আল্লাহর কথা মনে করিয়ে দিয়েছি? আর সে আমাকে একইভাবে মনে করিয়ে দিলে কি আমি খুশি হব?",
+      "আমার সবচেয়ে কাছের সম্পর্কটাকে যদি মাপা হয় আমাদের দুজনের জীবনে তা কতটা জিকির যোগ করে সেই হিসাবে, তবে ফল কী দাঁড়াবে?"
+    ],
+    "lessonEn": "Seek companions who help you remember Allah more, and be that companion for them; the best partnership is the one that multiplies remembrance.",
+    "lessonBn": "এমন সঙ্গী খুঁজুন, যারা আপনাকে আল্লাহকে বেশি স্মরণ করতে সাহায্য করে, আর আপনিও তাদের জন্য তেমন সঙ্গী হোন। সবচেয়ে ভালো সঙ্গ সেটাই, যা জিকির বাড়িয়ে দেয়।"
   }
 };
 

@@ -1615,6 +1615,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "20:34": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Words, a Stated Aim",
+          "bn": "দুই শব্দে বলা লক্ষ্য"
+        },
+        "p": [
+          {
+            "en": "Wa-nadhkuraka kathira: and that we may remember You much. The verse is just two Arabic words long, like 20:28 and 20:30 in the same prayer. It is joined by wa to the verse before it, kay nusabbihaka kathira, that we may glorify You much (20:33), and the particle kay, so that, governs both. Musa (AS) had asked for an opened chest, an eased task, a loosened tongue, and his brother as helper and partner. These two verses give the reason for all of it.",
+            "bn": "ওয়া নাযকুরাকা কাসীরা: আর যাতে আমরা তোমাকে বেশি বেশি স্মরণ করতে পারি। আয়াতটি আরবিতে মাত্র দুই শব্দের। একই দোয়ার ২০:২৮ ও ২০:৩০ আয়াতও এমনই ছোট। ‘ওয়া’ দিয়ে এটি জুড়ে আছে আগের আয়াতের সঙ্গে, কাই নুসাব্বিহাকা কাসীরা, যাতে আমরা বেশি বেশি তোমার পবিত্রতা ঘোষণা করি (২০:৩৩)। ‘কাই’ শব্দের অর্থ ‘যাতে’, আর তার অধীনে দুটি আয়াতই। মূসা (আঃ) চেয়েছিলেন প্রশস্ত বুক, সহজ কাজ, খোলা জিহ্বা, আর ভাইকে সাহায্যকারী ও অংশীদার। এ দুই আয়াত সবকিছুর কারণ বলে দেয়।"
+          },
+          {
+            "en": "So the requests were means, and this is the end they serve. As-Sa'di makes the joining explicit by treating the pair under one heading, tafsir al-ayatayn 33 wa 34, the explanation of the two verses together. The Muyassar, which paraphrases the whole prayer, through 20:35, in a single run, carries the same kay across both clauses. Glorifying and remembering are one purpose with two faces. The verse before this one named the first face; this verse names the second, remembrance, and it is the subject of what follows.",
+            "bn": "অর্থাৎ আগের চাওয়াগুলো ছিল উপায়, আর এটি সেই উপায়ের লক্ষ্য। সা'দী জোড়াটাকে স্পষ্ট করে দেন এক শিরোনামে দুটি আয়াতকে একসঙ্গে ব্যাখ্যা করে: তাফসীরুল আয়াতাইন ৩৩ ও ৩৪। মুয়াসসার ২০:৩৫ পর্যন্ত পুরো দোয়াটা এক টানে নিজের ভাষায় বলে। সেখানেও একই ‘কাই’ দুই বাক্যের উপর ছড়িয়ে আছে। তাসবীহ আর জিকির তাই একই উদ্দেশ্যের দুটি দিক। আগের আয়াত বলেছে প্রথম দিকের কথা। এ আয়াত বলছে দ্বিতীয়টির কথা, অর্থাৎ জিকির। পরের আলোচনা সেটা নিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Remembrance Spoken as Praise",
+          "bn": "প্রশংসার ভাষায় জিকির"
+        },
+        "p": [
+          {
+            "en": "What kind of remembrance is meant? At-Tabari's gloss on this verse is a single word joined by a particle: fa-nahmaduka, and so praise You. He offers no list of formulas and no wider discussion; on his reading, the remembrance Musa (AS) promised takes the form of hamd, speaking of Allah with praise. The Muyassar gives the identical phrase in its paraphrase of the prayer: wa nadhkuraka kathiran fa-nahmaduka, and remember You much, and so praise You.",
+            "bn": "এখানে কেমন জিকিরের কথা বলা হচ্ছে? এ আয়াতে তাবারীর ব্যাখ্যা একটিমাত্র শব্দ, সামনে একটি অব্যয়: ফা-নাহমাদুকা, অর্থাৎ ফলে আমরা তোমার প্রশংসা করব। তিনি কোনো দোয়া-কালামের তালিকা দেন না, বিস্তারিত আলোচনাও করেন না। তাঁর পাঠে মূসা (আঃ) যে জিকিরের অঙ্গীকার করেছিলেন, তার রূপ হলো হামদ, প্রশংসার সঙ্গে আল্লাহর কথা বলা। মুয়াসসারও দোয়াটির ব্যাখ্যায় হুবহু একই কথা বলে: ওয়া নাযকুরাকা কাসীরান ফা-নাহমাদুকা, আর তোমাকে বেশি স্মরণ করব, ফলে তোমার প্রশংসা করব।"
+          },
+          {
+            "en": "Al-Baghawi keeps the praise and gives it a ground: nahmaduka wa nuthni 'alayka bima awlaytana min ni'amik, we praise You and laud You for the favours You have bestowed on us. Remembrance, on this reading, looks back at what has been given. The surah's own order is worth noticing here. Straight after the prayer is granted, Allah reminds Musa of favours, wa laqad mananna 'alayka marratan ukhra, and We had already conferred favour on you another time (20:37), and lists them through 20:40. The servant promises praise for favours; the answer recounts favours.",
+            "bn": "বাগাভী প্রশংসার কথাটা রাখেন, সঙ্গে তার ভিত্তিও বলে দেন: নাহমাদুকা ওয়া নুসনী আলাইকা বিমা আওলাইতানা মিন নি'আমিক, তুমি আমাদের যে নিয়ামত দিয়েছ, তার জন্য আমরা তোমার প্রশংসা ও গুণগান করব। এই পাঠে জিকির পেছনে ফিরে দেখে, কী কী পাওয়া হয়েছে। এখানে সূরার নিজের সাজানোটা লক্ষ করার মতো। দোয়া কবুল হওয়ার ঠিক পরেই আল্লাহ মূসা (আঃ)-কে নিয়ামতের কথা মনে করিয়ে দেন: ওয়া লাকাদ মানান্না আলাইকা মাররাতান উখরা, আমি তো তোমার উপর আরও একবার অনুগ্রহ করেছিলাম (২০:৩৭)। তারপর ২০:৪০ পর্যন্ত সেগুলো এক এক করে গোনান। বান্দা নিয়ামতের জন্য প্রশংসার কথা দেয়, আর জবাবে আসে নিয়ামতেরই বিবরণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Clearing, Then Affirming",
+          "bn": "দোষমুক্ত ঘোষণা, তারপর গুণগান"
+        },
+        "p": [
+          {
+            "en": "The glosses on the paired verse fill in the other half. At-Tabari reads kay nusabbihaka kathira as kay nu'azzimaka bi-t-tasbihi laka kathira, that we may magnify You by glorifying You much. Al-Qurtubi gives two senses. Some said nusabbihuka means nusalli laka, we pray to You; or it may be tasbih with the tongue, tanzih 'amma la yaliqu bi-jalalik, declaring You free of whatever does not befit Your majesty. Al-Baghawi cites al-Kalbi for the first of these: we pray to You much.",
+            "bn": "জোড়ার প্রথম আয়াতের ব্যাখ্যাগুলো বাকি অর্ধেকটা পূরণ করে। তাবারী কাই নুসাব্বিহাকা কাসীরা পড়েন এভাবে: যাতে বেশি বেশি তাসবীহ করে আমরা তোমার মহিমা ঘোষণা করি। কুরতুবী দুটি অর্থ দেন। কেউ কেউ বলেছেন, নুসাব্বিহুকা মানে তোমার জন্য সালাত আদায় করব। আবার হতে পারে মুখের তাসবীহ, অর্থাৎ তোমার মর্যাদার সঙ্গে যা মানায় না, তা থেকে তোমাকে মুক্ত ঘোষণা করা। বাগাভী প্রথম অর্থটির জন্য কালবীর কথা আনেন: আমরা তোমার জন্য বেশি বেশি সালাত পড়ব।"
+          },
+          {
+            "en": "Set these beside the glosses on this verse and the pair seems to divide the work. Tasbih, in al-Qurtubi's second sense, clears away from Allah what does not befit Him; dhikr, read with at-Tabari and al-Baghawi as praise, affirms what does. That division is this article's reading of the glosses side by side, not a claim any of the commentators makes in those words. It does explain why Musa (AS) asks for both, and why neither is enough alone: a servant who only denies imperfection has not yet praised.",
+            "bn": "এ আয়াতের ব্যাখ্যার পাশে এগুলো রাখলে মনে হয়, জোড়াটা কাজ ভাগ করে নিয়েছে। কুরতুবীর দ্বিতীয় অর্থে তাসবীহ আল্লাহর থেকে সেসব সরিয়ে দেয়, যা তাঁর সঙ্গে মানায় না। আর তাবারী ও বাগাভীর পাঠে জিকির মানে প্রশংসা, যা তাঁর সঙ্গে মানায় তা ঘোষণা করা। তবে এই ভাগটা পাশাপাশি রাখা ব্যাখ্যাগুলো থেকে এ লেখার নিজের পাঠ। কোনো তাফসীরকার ঠিক এ কথায় তা বলেননি। তবু এতে বোঝা যায়, মূসা (আঃ) দুটোই কেন চাইলেন, আর একটা কেন যথেষ্ট নয়। যে বান্দা শুধু অপূর্ণতা অস্বীকার করে, সে এখনো প্রশংসা করেনি।"
+          },
+          {
+            "en": "As-Sa'di does not separate the two at all. He reads the pair as a request that remembrance of Allah increase from both brothers, min at-tasbihi wa-t-tahlili wa ghayrihi min anwa' al-'ibadat, of glorifying, of declaring that there is no god but Allah, and of the other kinds of worship. He opens with the reason: Musa knew anna madar al-'ibadati kulliha wa-d-din 'ala dhikr Allah, that all acts of worship, and the religion itself, turn on the remembrance of Allah. Madar is the axis a thing revolves around.",
+            "bn": "সা'দী দুটোকে আলাদাই করেন না। তাঁর পাঠে জোড়াটা এক চাওয়া: দুই ভাইয়ের কাছ থেকে আল্লাহর জিকির যেন বেড়ে যায়, তাসবীহ, তাহলীল, অর্থাৎ ‘লা ইলাহা ইল্লাল্লাহ’ বলা, আর অন্যান্য ইবাদতের মধ্য দিয়ে। শুরুতেই তিনি কারণটা বলেন। মূসা (আঃ) জানতেন, সব ইবাদত, এমনকি গোটা দ্বীন, আল্লাহর জিকিরকে ঘিরেই ঘোরে। আরবিতে শব্দটা ‘মাদার’, যে অক্ষের চারপাশে কোনো কিছু ঘোরে।"
+          },
+          {
+            "en": "So the commentators read the word at two widths. For at-Tabari, the Muyassar and al-Baghawi, the remembrance in this verse is a particular act, praising Allah for His favours. For as-Sa'di it is the inner name of all worship, of which praise is one part. None of them argues against the other in the text fetched for these verses, and both readings are kept here as they stand. On either one, what Musa asked a brother for was not a small thing.",
+            "bn": "তাহলে তাফসীরকারেরা শব্দটা পড়েন দুই মাপে। তাবারী, মুয়াসসার আর বাগাভীর কাছে এ আয়াতের জিকির একটা নির্দিষ্ট আমল: নিয়ামতের জন্য আল্লাহর প্রশংসা। সা'দীর কাছে এটা সব ইবাদতের ভেতরের নাম, প্রশংসা যার একটা অংশ। এ আয়াতগুলোর জন্য আনা লেখায় কেউ অন্যের মতের বিরোধিতা করেননি। দুটো পাঠই এখানে যেমন আছে তেমন রাখা হলো। যেটাই ধরুন, মূসা (আঃ) ভাইকে যে কাজের জন্য চেয়েছিলেন, তা ছোট কিছু নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Much, Measured Two Ways",
+          "bn": "‘বেশি’ মাপার দুই ধরন"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi's note on this verse is entirely about its last word. Kathiran, he says, is na'tun li-masdarin mahdhuf, a qualifier of an omitted verbal noun; and it may also be na'tan li-waqt, a qualifier of a time. On the first reading the sense is nadhkuraka dhikran kathira, that we may remember You with much remembrance. On the second it is that we may remember You at many times. He adds a brief note on recitation, that al-idgham, assimilation, is good here, and says nothing more.",
+            "bn": "এ আয়াতে কুরতুবীর পুরো আলোচনা শেষ শব্দটা নিয়ে। তিনি বলেন, কাসীরান হলো উহ্য এক ক্রিয়াবিশেষ্যের বিশেষণ। আবার এটা সময়ের বিশেষণও হতে পারে। প্রথম পাঠে অর্থ দাঁড়ায়: যাতে আমরা তোমাকে অনেক বেশি জিকিরে স্মরণ করি। দ্বিতীয় পাঠে: যাতে আমরা তোমাকে বহু সময়ে স্মরণ করি। তিলাওয়াত নিয়েও তিনি ছোট একটা কথা যোগ করেন, এখানে ইদগাম, অর্থাৎ ধ্বনি মিলিয়ে পড়া, ভালো। এর বেশি কিছু বলেন না।"
+          },
+          {
+            "en": "The two readings are close, but they picture different things. The first measures remembrance by its amount; the second by how often it returns. The Qur'an uses the first construction openly elsewhere: udhkuru Allaha dhikran kathira, remember Allah with much remembrance (33:41). The second asks less for a heap of words in one sitting than for a remembrance that keeps coming back through the hours of a day. Remembrance that returns all day long is exactly the kind that a companion helps to keep alive.",
+            "bn": "দুটি পাঠ কাছাকাছি, তবে ছবি দুটি আলাদা। প্রথমটা জিকির মাপে পরিমাণ দিয়ে, দ্বিতীয়টা মাপে কতবার তা ফিরে আসে তা দিয়ে। প্রথম গঠনটা কুরআনে অন্য জায়গায় স্পষ্ট আছে: উযকুরুল্লাহা যিকরান কাসীরা, তোমরা আল্লাহকে বেশি বেশি স্মরণ করো (৩৩:৪১)। দ্বিতীয় পাঠ এক বৈঠকে অনেক শব্দের স্তূপ চায় না। চায় এমন জিকির, যা দিনের প্রহরে প্রহরে ফিরে আসে। সারা দিন ফিরে ফিরে আসা জিকির ঠিক সেই জিনিস, যা একজন সঙ্গী বাঁচিয়ে রাখতে সাহায্য করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Standing, Sitting, Lying Down",
+          "bn": "দাঁড়িয়ে, বসে কিংবা শুয়ে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir brings a single saying under both verses of the pair, and it gives the word much a working measure. Mujahid said: la yakunu al-'abdu min adh-dhakirina Allaha kathiran hatta yadhkura Allaha qa'iman wa qa'idan wa mudtaji'a. A servant is not among those who remember Allah much until he remembers Allah standing, sitting and lying down. It is Mujahid's own statement, not a saying of the Prophet ﷺ, and in the text fetched Ibn Kathir gives it with no chain. It is weighed here as a commentator's measure, nothing more.",
+            "bn": "জোড়ার দুটি আয়াতেই ইবন কাসীর একটি কথা আনেন, আর তাতে ‘বেশি’ শব্দটা একটা কাজের মাপ পায়। মুজাহিদ বলেছেন: বান্দা ততক্ষণ আল্লাহকে বেশি স্মরণকারীদের দলে গণ্য হয় না, যতক্ষণ না সে দাঁড়িয়ে, বসে ও শুয়ে আল্লাহকে স্মরণ করে। কথাটা মুজাহিদের নিজের, নবী ﷺ-এর বাণী নয়। আনা লেখায় ইবন কাসীর এর কোনো সনদও দেননি। তাই এখানে একে একজন তাফসীরকারের মাপকাঠি হিসেবেই দেখা হচ্ছে, এর বেশি কিছু নয়।"
+          },
+          {
+            "en": "His three postures are the Qur'an's own. The people of understanding, as 3:191 describes them, are alladhina yadhkuruna Allaha qiyaman wa qu'udan wa 'ala junubihim, who remember Allah standing and sitting and on their sides. And his phrase for the people of much remembrance, adh-dhakirina Allaha kathiran, is the phrase of 33:35. On Mujahid's measure, much is not reached by counting. It is reached by coverage: no state of the body in which Allah is forgotten. That sits naturally with al-Qurtubi's second reading, remembrance at many times.",
+            "bn": "তাঁর বলা তিনটি অবস্থা কুরআনেরই কথা। ৩:১৯১ আয়াতে বোধসম্পন্ন মানুষদের পরিচয়: যারা দাঁড়িয়ে, বসে ও শুয়ে আল্লাহকে স্মরণ করে। আর বেশি জিকিরকারীদের জন্য তাঁর শব্দ, আয-যাকিরীনাল্লাহা কাসীরান, হুবহু ৩৩:৩৫ আয়াতের শব্দ। মুজাহিদের মাপে ‘বেশি’ গুনে গুনে পৌঁছানোর জিনিস নয়। পৌঁছাতে হয় ছড়িয়ে দিয়ে, যাতে শরীরের এমন কোনো অবস্থা না থাকে, যেখানে আল্লাহ ভুলে থাকা যায়। কুরতুবীর দ্বিতীয় পাঠ, বহু সময়ে স্মরণ, এর সঙ্গে সহজেই মিলে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Ask for a Companion?",
+          "bn": "সঙ্গী চাওয়ার কারণ কী?"
+        },
+        "p": [
+          {
+            "en": "This brings the verse to its centre: why ask for a helper in order to remember more? As-Sa'di draws the line straight. Because Musa (AS) knew that remembrance is the axis of all worship, fa-sa'ala Allaha an yaj'ala akhahu ma'ahu, he asked Allah to set his brother with him, yatasa'adani wa yata'awanani 'ala al-birri wa-t-taqwa, the two helping and supporting each other in righteousness and piety, so that remembrance of Allah would increase from them both. His last phrase is the wording of 5:2: wa ta'awanu 'ala al-birri wa-t-taqwa.",
+            "bn": "এখানে এসে আয়াতের মূল প্রশ্ন: বেশি জিকিরের জন্য সাহায্যকারী চাইতে হবে কেন? সা'দী সোজা রেখা টানেন। মূসা (আঃ) জানতেন, জিকিরই সব ইবাদতের কেন্দ্র। তাই তিনি আল্লাহর কাছে চাইলেন, ভাই যেন তাঁর সঙ্গে থাকেন। দুজন নেকি ও তাকওয়ার কাজে একে অপরকে সাহায্য করবেন, আর তাতে দুজনের কাছ থেকেই আল্লাহর জিকির বেড়ে যাবে। সা'দীর শেষ কথাটা ৫:২ আয়াতের শব্দ: ওয়া তা'আওয়ানূ আলাল বিররি ওয়াত তাকওয়া, নেকি ও তাকওয়ার কাজে পরস্পরকে সাহায্য করো।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an raises the obvious objection. A man by himself can pray as often as he desires, so where was the need for a companion? Its answer: good companions and a conducive environment definitely contribute to the better performance of worship and dhikr. A person whose friends are negligent about Allah, it says, cannot devote himself to worship with the same quality and quantity as one who has the company of pious men and righteous friends. Companionship, on this reading, is not a luxury beside devotion but one of its real supports.",
+            "bn": "মাআরিফুল কুরআন স্বাভাবিক আপত্তিটা তোলে। একা মানুষও তো যত খুশি ইবাদত করতে পারে, তাহলে সঙ্গীর দরকার কী ছিল? তার জবাব: ভালো সঙ্গী আর অনুকূল পরিবেশ ইবাদত ও জিকির আরও ভালোভাবে করতে নিশ্চিতভাবেই সাহায্য করে। যার বন্ধুরা আল্লাহর ব্যাপারে গাফেল, সে মনোযোগ ও পরিমাণে ততটা ইবাদতে নিজেকে দিতে পারে না, যতটা পারে নেক মানুষ ও সৎ বন্ধুদের সঙ্গ পাওয়া একজন মানুষ। এই পাঠে সঙ্গ ইবাদতের পাশে কোনো বিলাসিতা নয়, বরং তার এক আসল অবলম্বন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Ones Who Went Ahead",
+          "bn": "যারা এগিয়ে গেল"
+        },
+        "p": [
+          {
+            "en": "No commentary fetched for this verse attaches a Prophetic hadith to it. One general narration names the same people. Muslim records in his Sahih (2676): Abu Huraira reported that Allah's Messenger (ﷺ) was travelling along the path leading to Mecca that he happened to pass by a mountain called Jumdan. He said: Proceed on, it is Jumdan, Mufarradun have gone ahead. They (the Companions of the Holy Prophet) said: Allah's Messenger, who are Mufarradun? He said: They are those males and females who remember Allah much.",
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। তবে একটি সাধারণ বর্ণনায় এই মানুষদেরই নাম আছে। মুসলিম তাঁর সহীহ গ্রন্থে (২৬৭৬) বর্ণনা করেন, আবূ হুরায়রা (রাঃ) বলেন: আল্লাহর রাসূল ﷺ মক্কার পথে চলছিলেন। জুমদান নামের এক পাহাড়ের পাশ দিয়ে যাওয়ার সময় তিনি বললেন, ‘চলো, এই তো জুমদান। মুফাররিদরা এগিয়ে গেছে।’ সাহাবীরা বললেন, ‘হে আল্লাহর রাসূল, মুফাররিদ কারা?’ তিনি বললেন, ‘আল্লাহকে বেশি বেশি স্মরণকারী পুরুষ ও নারীরা।’"
+          },
+          {
+            "en": "The narration is in Muslim's Sahih, which is its collector's own grading, and it is brought here as a general hadith, not as an explanation of this verse. Its last words, adh-dhakiruna Allaha kathiran wa-dh-dhakirat, are the phrase of 33:35 and of Mujahid's saying above. What it adds is the picture: those who remember much are the ones who have gone ahead on the road. Read beside as-Sa'di's gloss, Musa's request was that two be counted among them, not one; the hadith itself says nothing of Musa.",
+            "bn": "বর্ণনাটি মুসলিমের সহীহ গ্রন্থে আছে, আর সেটাই সংকলকের নিজের মান নির্ধারণ। এখানে একে আনা হয়েছে সাধারণ হাদীস হিসেবে, এ আয়াতের ব্যাখ্যা হিসেবে নয়। এর শেষ শব্দগুলো, আয-যাকিরূনাল্লাহা কাসীরান ওয়ায যাকিরাত, হুবহু ৩৩:৩৫ আয়াতের, আর ওপরে মুজাহিদের কথারও। হাদীসটি যোগ করে একটি ছবি: যারা বেশি স্মরণ করে, তারাই পথে এগিয়ে গেছে। সা'দীর ব্যাখ্যার পাশে রাখলে, মূসা (আঃ)-এর চাওয়া ছিল সেই দলে একজন নয়, দুজন যেন গণ্য হন। হাদীসটি নিজে অবশ্য মূসা (আঃ)-এর কথা কিছু বলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Under a Seeing Lord",
+          "bn": "যিনি সব দেখেন, তাঁর সামনে"
+        },
+        "p": [
+          {
+            "en": "The next verse closes the prayer: innaka kunta bina basira, indeed You are ever seeing of us (20:35). At-Tabari reads it as You see us, and nothing of our deeds is hidden from You. Ibn Kathir reads it as Allah's sight in choosing them, giving them prophethood and sending them to Pharaoh, and ends fa-laka al-hamdu 'ala dhalik, so to You be praise for that. His gloss on the next verse is itself an act of the praise this verse promised.",
+            "bn": "পরের আয়াত দোয়াটা শেষ করে: ইন্নাকা কুনতা বিনা বাসীরা, তুমি তো আমাদের সবই দেখছ (২০:৩৫)। তাবারীর পাঠে এর অর্থ: তুমি আমাদের দেখছ, আমাদের কোনো কাজই তোমার কাছে গোপন নয়। ইবন কাসীর এখানে আল্লাহর দেখাকে পড়েন তাঁদের বেছে নেওয়া, নবুওয়াত দেওয়া আর ফেরাউনের কাছে পাঠানোর মধ্যে। তারপর শেষ করেন: ফালাকাল হামদু আলা যালিক, এর জন্য তোমারই প্রশংসা। পরের আয়াতের এই ব্যাখ্যা নিজেই সেই প্রশংসা, যার অঙ্গীকার এ আয়াতে ছিল।"
+          },
+          {
+            "en": "As-Sa'di hears in it the servant's need: You know our state, our weakness, our helplessness and our want of You in every matter, and You see us better than we see ourselves. Then 20:36 answers the whole petition at once: qad utita su'laka ya Musa, you have been granted your request, O Musa. The brother was given, and with him the purpose he was asked for. When the two are later sent out together, they are told not to slacken in that very remembrance (20:42).",
+            "bn": "সা'দী এ আয়াতে শোনেন বান্দার অভাবের কথা: তুমি আমাদের অবস্থা জানো, আমাদের দুর্বলতা, অক্ষমতা আর সব ব্যাপারে তোমার মুখাপেক্ষিতা জানো। আমরা নিজেদের যতটা দেখি, তুমি আমাদের তার চেয়ে ভালো দেখো। তারপর ২০:৩৬ আয়াত পুরো দোয়ার জবাব দেয় একসঙ্গে: কাদ ঊতীতা সু'লাকা ইয়া মূসা, হে মূসা, তোমার চাওয়া তোমাকে দেওয়া হলো। ভাইকে দেওয়া হলো, আর যে উদ্দেশ্যে তাঁকে চাওয়া হয়েছিল, তাও। পরে দুজনকে যখন একসঙ্গে পাঠানো হয়, তখন বলা হয়, ঠিক এই জিকিরেই যেন শিথিলতা না আসে (২০:৪২)।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Company That Multiplies Remembrance",
+          "bn": "যে সঙ্গে জিকির বাড়ে"
+        },
+        "p": [
+          {
+            "en": "The verse gives a test for every partnership a person enters: does it make the remembrance of Allah more, or less? Musa (AS) asked for his brother before a hard task, and the reason he gave was not efficiency. It was that the two of them would glorify and remember Allah more than either would alone. A marriage, a friendship, a study circle or a team at work can be weighed the same way, by whether the people in it turn each other towards Allah or away.",
+            "bn": "মানুষ যত সম্পর্কে জড়ায়, এ আয়াত তার প্রতিটির জন্য একটা পরীক্ষা দেয়: এতে আল্লাহর জিকির বাড়ে, নাকি কমে? মূসা (আঃ) কঠিন কাজের আগে ভাইকে চেয়েছিলেন। আর কারণ হিসেবে কাজের গতি বা দক্ষতার কথা বলেননি। বলেছেন, দুজনে মিলে একা একা যতটা পারতেন, তার চেয়ে বেশি আল্লাহর তাসবীহ ও জিকির করবেন। বিয়ে, বন্ধুত্ব, পাঠচক্র কিংবা কর্মক্ষেত্রের দল, সবকিছুকে একই পাল্লায় মাপা যায়: এর মানুষেরা একে অপরকে আল্লাহর দিকে ফেরায়, নাকি তাঁর থেকে দূরে সরায়?"
+          },
+          {
+            "en": "Then take Mujahid's measure into the day: remembrance standing, sitting and lying down, not only in the hour set aside for it. A companion helps most here, by a word at the moment the other has forgotten. And be that companion as much as you look for one. Nothing in this verse is a verdict on anyone; it is a servant's own prayer about his own remembrance, and it licenses nothing against any person or people. It only asks what Musa asked: help me to remember You more.",
+            "bn": "তারপর মুজাহিদের মাপকাঠিটা দিনের মধ্যে নিয়ে যান: শুধু আলাদা করে রাখা সময়ে নয়, দাঁড়িয়ে, বসে, শুয়ে সব অবস্থায় জিকির। এখানেই সঙ্গী সবচেয়ে কাজে আসে, অন্যজন যখন ভুলে যায়, ঠিক সেই মুহূর্তে একটি কথা বলে। আর যেমন সঙ্গী খোঁজেন, নিজেও তেমন সঙ্গী হোন। এ আয়াতে কারও উপর কোনো রায় নেই। এটা এক বান্দার নিজের জিকির নিয়ে নিজের দোয়া, কোনো মানুষ বা জাতির বিরুদ্ধে এ কিছুরই অনুমতি দেয় না। এটা শুধু তা-ই চায়, যা মূসা (আঃ) চেয়েছিলেন: তোমাকে আরও বেশি স্মরণ করতে আমাকে সাহায্য করো।"
+          }
+        ]
+      }
+    ]
+  },
   "20:38": {
     "sections": [
       {
