@@ -38231,6 +38231,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Follow the Qur'an as a guide, not merely an object of respect: heed its warning against wronging yourself and work toward the good news it holds for those who do good.",
     "lessonBn": "কুরআনকে শুধু সম্মানের বস্তু না বানিয়ে পথপ্রদর্শক হিসেবে অনুসরণ করুন: নিজের উপর জুলুম করার বিরুদ্ধে তার সতর্কবাণী মেনে চলুন, আর সৎকর্মশীলদের জন্য তার সুসংবাদের দিকে এগিয়ে যান।"
+  },
+  "46:2": {
+    "reflectionEn": "Al-Ahqaf opens by naming where its words come from: the Book is sent down from Allah, the Mighty, the Wise. The next verse turns to the heavens and the earth. The One who made the world is the One who sent the Book, so command and creation come from one Lord. That changes how I stand in this world. It was not built for idling. It is a place of work with a closing time, and the Book is the guidance left for the work. And a treasure is not found by walking past it. If these verses hold riches, they come to the one who stops, reads slowly and asks what is meant for him. Do I mine the Qur'an, or only pass over its surface?",
+    "reflectionBn": "সূরা আহকাফ শুরুতেই জানিয়ে দেয় এর কথাগুলো কোথা থেকে এসেছে: কিতাব নাযিল হয়েছে মহাপরাক্রমশালী, প্রজ্ঞাময় আল্লাহর কাছ থেকে। ঠিক পরের আয়াতেই চোখ যায় আকাশ আর পৃথিবীর দিকে। যিনি জগৎ বানিয়েছেন, কিতাবও তিনিই পাঠিয়েছেন। সৃষ্টি যাঁর, হুকুমও তাঁর। এতে এই দুনিয়ায় আমার দাঁড়ানোর জায়গাটাই বদলে যায়। এ জগৎ অলস বসে থাকার জন্য বানানো হয়নি। এ হলো কাজের জায়গা, যার ছুটির সময় বাঁধা, আর কিতাব হলো সেই কাজের দিশা। গুপ্তধন পাশ কাটিয়ে হেঁটে গেলে পাওয়া যায় না। এ আয়াতগুলোতে যদি সম্পদ লুকানো থাকে, তা পায় সেই লোক, যে থামে, ধীরে পড়ে আর জিজ্ঞেস করে এখানে তার জন্য কী বলা হয়েছে। আমি কি কুরআনের গভীরে খুঁড়ি, নাকি শুধু উপর দিয়ে চোখ বুলিয়ে যাই?",
+    "pointsEn": [
+      "When did I last stay with one verse long enough to find something in it I had not seen before?",
+      "I accept without argument that the sky and the earth run by His order; do I accept the commands of His Book as readily?",
+      "If this life is a road and a place of work rather than a home, what am I doing here that I will want to find waiting for me there?",
+      "When someone calls the Qur'an an old falsehood or a man's invention, do I know it well enough to answer from the Book itself?",
+      "What would change in my week if I read one passage slowly instead of many pages quickly?"
+    ],
+    "pointsBn": [
+      "শেষ কবে একটি আয়াতের কাছে এতক্ষণ থেমেছি যে আগে চোখে পড়েনি এমন কিছু তাতে খুঁজে পেয়েছি?",
+      "আকাশ আর পৃথিবী যে তাঁর হুকুমে চলে, তা আমি বিনা তর্কে মেনে নিই। তাঁর কিতাবের হুকুমগুলো কি ততটাই সহজে মেনে নিই?",
+      "এ জীবন যদি ঘর না হয়ে পথ আর কাজের জায়গা হয়, তবে এখানে আমি এমন কী করছি যা ওখানে গিয়ে আমার জন্য অপেক্ষায় পেতে চাইব?",
+      "কেউ যখন কুরআনকে পুরনো মিথ্যা বা মানুষের বানানো কথা বলে, তখন কিতাব থেকেই জবাব দেওয়ার মতো করে কি আমি একে চিনি?",
+      "অনেক পৃষ্ঠা তাড়াতাড়ি না পড়ে একটি অংশ ধীরে পড়লে আমার এ সপ্তাহে কী বদলাত?"
+    ],
+    "lessonEn": "Read the Book as sent by the One who also made the world: seek its light, ponder its verses patiently, and use this passing life as work for the life that lasts.",
+    "lessonBn": "কিতাবটি পড়ুন তাঁর পাঠানো কথা হিসেবে, যিনি এই জগৎও বানিয়েছেন। এর আলোয় পথ খুঁজুন, ধৈর্য নিয়ে আয়াতগুলো নিয়ে ভাবুন, আর এই ক্ষণস্থায়ী জীবনকে স্থায়ী জীবনের জন্য কাজে লাগান।"
   }
 };
 

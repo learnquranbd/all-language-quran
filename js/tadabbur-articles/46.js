@@ -11,6 +11,158 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "46:2": {
+    "sections": [
+      {
+        "h": {
+          "en": "Heard Twice Already",
+          "bn": "আগেও দুবার শোনা"
+        },
+        "p": [
+          {
+            "en": "Surat al-Ahqaf opens with the letters Ha Mim and then six Arabic words: tanzilu-l-kitabi mina-llahi-l-'azizi-l-hakim, the sending down of the Book is from Allah, the Mighty, the Wise. The letters open every surah from 40 to 46, and they are discussed at 42:1, 43:1 and 44:1. The sentence after them is not new either. Word for word, it opened az-Zumar at 39:1 and al-Jathiyah at 45:2, the surah just before al-Ahqaf. A reader of the mushaf in order meets it here for the third time.",
+            "bn": "সূরা আহকাফ শুরু হয় হা-মীম অক্ষর দুটি দিয়ে, তারপর আরবি ছয়টি শব্দ: তানযীলুল কিতাবি মিনাল্লাহিল আযীযিল হাকীম, কিতাব নাযিল হয়েছে মহাপরাক্রমশালী, প্রজ্ঞাময় আল্লাহর কাছ থেকে। ৪০ থেকে ৪৬ পর্যন্ত প্রতিটি সূরা এই অক্ষর দিয়ে শুরু। এগুলোর আলোচনা আছে ৪২:১, ৪৩:১ ও ৪৪:১ আয়াতে। পরের বাক্যটিও নতুন নয়। হুবহু এই কথা দিয়েই শুরু হয়েছিল সূরা যুমার, ৩৯:১ আয়াতে, আর সূরা জাসিয়া, ৪৫:২ আয়াতে। জাসিয়া এ সূরার ঠিক আগের সূরা। মুসহাফ ক্রমানুসারে পড়লে পাঠক এখানে এসে বাক্যটি শুনছেন তৃতীয়বার।"
+          },
+          {
+            "en": "Ghafir at 40:2 has the same opening words but closes on another name, al-'alim, the Knowing, in place of the Wise. What the sentence means as al-Jathiyah's opening, how al-Qurtubi parses it and what as-Sa'di draws from it there, is set out at 45:2. Al-Qurtubi gives the same two parsings again here, and they are not rehearsed a second time. This article asks a different question: when al-Ahqaf reuses the sentence, what does it build on it in the verses that follow?",
+            "bn": "সূরা গাফিরের ৪০:২ আয়াতের শুরুর শব্দগুলো একই, তবে শেষ নামটি আলাদা: প্রজ্ঞাময়ের জায়গায় সেখানে আছে আল-আলীম, সর্বজ্ঞ। জাসিয়ার শুরুতে বাক্যটির অর্থ কী, কুরতুবী তার ব্যাকরণ কীভাবে বিশ্লেষণ করেন, সা'দী সেখানে কী শিক্ষা বের করেন, তা ৪৫:২ আয়াতের আলোচনায় আছে। কুরতুবী এখানেও সেই একই দুই বিশ্লেষণ দিয়েছেন, তাই সেগুলো আর দোহরানো হলো না। এ লেখার প্রশ্ন অন্য। আহকাফ যখন বাক্যটি আবার আনে, তখন পরের আয়াতগুলোতে এর উপর কী গড়ে তোলে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Explained Once, Not Again",
+          "bn": "একবার বলা, আর নয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari, reaching this verse, writes a single sentence: qad taqaddama bayanuna fi ma'na qawlihi ha mim tanzilu-l-kitab bima aghna 'an i'adatihi fi hadha-l-mawdi'. Our explanation of the meaning of His words Ha Mim, tanzil al-kitab, has already been given, in a way that spares repeating it in this place. Al-Baghawi sets the words of the verse as a heading and adds nothing beneath them. For these two commentators the sentence is already known by the time a reader reaches al-Ahqaf.",
+            "bn": "এ আয়াতে এসে তাবারী লেখেন মাত্র একটি বাক্য: কাদ তাকাদ্দামা বায়ানুনা ফী মা'না কাওলিহী হা-মীম তানযীলুল কিতাব। অর্থাৎ হা-মীম, তানযীলুল কিতাব, এ কথার অর্থ আমরা আগেই ব্যাখ্যা করেছি, আর সেই ব্যাখ্যা এতটাই যথেষ্ট যে এখানে আবার বলার দরকার নেই। বাগাভী আয়াতের শব্দগুলো শিরোনাম হিসেবে বসিয়ে দেন, নিচে কিছুই যোগ করেন না। এই দুই তাফসীরকারের কাছে পাঠক আহকাফে পৌঁছানোর আগেই বাক্যটি পরিচিত হয়ে গেছে।"
+          },
+          {
+            "en": "The others say briefly what the sentence reports. Ibn Kathir: yukhbiru ta'ala annahu nazzala-l-kitaba 'ala 'abdihi wa rasulihi Muhammad, the Exalted informs that He sent the Book down upon His servant and messenger Muhammad ﷺ, and he adds a prayer of blessing on him always, until the Day of Judgement. The Muyassar names the Book: hadha-l-qur'anu tanzilun mina-llah, this Qur'an is a sending down from Allah. Al-Qurtubi says it in two words: al-kitabu-l-qur'an, the Book is the Qur'an. They agree on what the Book is and on who received it.",
+            "bn": "বাকিরা সংক্ষেপে বলেন বাক্যটি কী খবর দেয়। ইবন কাসীর লেখেন, মহান আল্লাহ জানাচ্ছেন যে তিনি তাঁর বান্দা ও রাসূল মুহাম্মাদ ﷺ-এর উপর কিতাব নাযিল করেছেন। সঙ্গে তিনি দুআ জুড়ে দেন, কিয়ামত পর্যন্ত সবসময় তাঁর উপর আল্লাহর রহমত ও শান্তি বর্ষিত হোক। মুয়াসসার কিতাবটির নাম বলে দেয়: হাযাল কুরআনু তানযীলুম মিনাল্লাহ, এই কুরআন আল্লাহর কাছ থেকে নাযিল। কুরতুবী একই কথা বলেন দুই শব্দে: আল-কিতাবুল কুরআন, কিতাব মানে কুরআন। কিতাব কোনটি আর কে তা পেয়েছেন, এ নিয়ে তাঁরা একমত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Might No One Can Reach For",
+          "bn": "যে ক্ষমতার নাগাল মেলে না"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir glosses the two names in a single clause: wa wasafa nafsahu bil-'izzati allati la turam, wal-hikmati fil-aqwali wal-af'al. He described Himself with a might that is not to be reached for, and with wisdom in words and in deeds. The verb rama means to seek or aim at; might that la turam is might no one can hope to attain or assail. The English abridgement renders it unimaginable glory, but the Arabic speaks of a might beyond anyone's reach.",
+            "bn": "ইবন কাসীর নাম দুটির ব্যাখ্যা দেন এক বাক্যে: ওয়া ওয়াসাফা নাফসাহূ বিল ইযযাতিল্লাতী লা তুরাম, ওয়াল হিকমাতি ফিল আকওয়ালি ওয়াল আফআল। অর্থাৎ তিনি নিজেকে এমন ক্ষমতার গুণে গুণান্বিত করেছেন যার দিকে কেউ হাত বাড়াতে পারে না, আর কথায় ও কাজে প্রজ্ঞার গুণে। রামা ক্রিয়ার অর্থ কিছু চাওয়া বা কিছুর দিকে লক্ষ্য করা। লা তুরাম মানে এমন ক্ষমতা, যা পাওয়ার আশা বা যার উপর আঘাত হানার চেষ্টা কেউ করতে পারে না। ইংরেজি সংক্ষিপ্ত সংস্করণে কথাটির অনুবাদ কল্পনাতীত মহিমা, কিন্তু আরবিতে কথা হচ্ছে সবার নাগালের বাইরের ক্ষমতা নিয়ে।"
+          },
+          {
+            "en": "Al-Qurtubi gives a single word for each name: al-'azizu-l-mani', the Impregnable; al-hakimu fi fi'lihi, Wise in what He does. The Muyassar: al-'azizu-lladhi la yughalab, the Mighty who is not overcome; al-hakimu fi tadbirihi wa sun'ihi, Wise in His ordering of affairs and in His making. The three agree on 'izza: a might no one breaches or defeats. They place the wisdom differently. Ibn Kathir finds it in His words and His deeds, al-Qurtubi in His doing, the Muyassar in His ordering and His making.",
+            "bn": "কুরতুবী প্রতিটি নামের জন্য একটি করে শব্দ দেন: আল-আযীয মানে আল-মানী, দুর্ভেদ্য। আল-হাকীম মানে নিজের কাজে প্রজ্ঞাময়। মুয়াসসার বলে, আযীয তিনি, যাঁকে কেউ পরাজিত করতে পারে না। হাকীম তিনি, যিনি তাঁর ব্যবস্থাপনায় ও সৃষ্টিকর্মে প্রজ্ঞাময়। ইযযাহর অর্থে তিনজনই একমত: এমন ক্ষমতা, যা কেউ ভাঙতে বা হারাতে পারে না। কিন্তু প্রজ্ঞার জায়গা তাঁরা দেখান ভিন্ন ভিন্ন। ইবন কাসীরের কাছে তা তাঁর কথায় ও কাজে, কুরতুবীর কাছে তাঁর কাজে, মুয়াসসারের কাছে তাঁর ব্যবস্থাপনায় ও সৃষ্টিকর্মে।"
+          },
+          {
+            "en": "The difference is small, but it touches a verse about a Book. On Ibn Kathir's wording, the wisdom named in 46:2 covers the speech being sent down as well as the world being run. On the Muyassar's, it points to tadbir and sun', the ordering and the making, and the very next verse is about making: the heavens and the earth created with truth. The texts do not argue the point. Each wording opens onto a different part of the passage, and the reader can hold both.",
+            "bn": "পার্থক্যটা ছোট, তবে আয়াতটি যেহেতু একটি কিতাব নিয়ে, তাই তা গুরুত্ব পায়। ইবন কাসীরের ভাষায়, ৪৬:২ আয়াতে যে প্রজ্ঞার কথা, তা নাযিল হওয়া কালামকেও ছোঁয়, জগতের পরিচালনাকেও। মুয়াসসারের ভাষায় তা ইশারা করে তাদবীর আর সুন, অর্থাৎ ব্যবস্থাপনা আর সৃষ্টিকর্মের দিকে। আর ঠিক পরের আয়াতই সৃষ্টি নিয়ে: আকাশ ও পৃথিবী বানানো হয়েছে যথাযথ উদ্দেশ্যে। এ নিয়ে তাফসীরগুলোতে কোনো বিতর্ক নেই। প্রতিটি ভাষ্য অংশটির একেকটি দিক খুলে দেয়, আর পাঠক দুটিই ধরে রাখতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Light, Pondering, Then Treasure",
+          "bn": "আলো, ভাবনা, তারপর গুপ্তধন"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the verse first as praise: hadha thana'un minhu ta'ala 'ala kitabihi-l-'azizi wa ta'zimun lahu, this is praise from the Exalted for His mighty Book, and a magnifying of it. He calls the Book itself al-'aziz, the word the verse uses of Allah. Then he names what lies folded inside the praise: wa fi dimni dhalika irshadu-l-'ibad, and within that is guidance for the servants. The guidance, in his sentence, is towards three things, and their order is worth reading slowly.",
+            "bn": "সা'দী আয়াতটিকে প্রথমে পড়েন প্রশংসা হিসেবে: হাযা সানাউন মিনহু তাআলা আলা কিতাবিহিল আযীয ওয়া তা'যীমুন লাহু। অর্থাৎ এ হলো মহান আল্লাহর পক্ষ থেকে তাঁর মহিমান্বিত কিতাবের প্রশংসা আর তার মর্যাদার ঘোষণা। লক্ষ করার মতো, কিতাবকে তিনি নিজেই আযীয বলছেন, অথচ আয়াতে শব্দটি এসেছে আল্লাহর গুণ হিসেবে। এরপর তিনি বলেন প্রশংসার ভাঁজে কী লুকানো আছে: ওয়া ফী দিমনি যালিকা ইরশাদুল ইবাদ, এর ভেতরেই আছে বান্দাদের জন্য পথনির্দেশ। তাঁর বাক্যে সেই নির্দেশ তিনটি জিনিসের দিকে, আর সেগুলোর ক্রমটা ধীরে পড়ার মতো।"
+          },
+          {
+            "en": "The first is al-ihtida'u bi-nurihi, to be guided by its light. The second is al-iqbalu 'ala tadabburi ayatihi, to turn towards pondering its verses. The third is istikhraju kunuzihi, drawing out its treasures. In that order the list moves from receiving to labour. Light reaches open eyes. Pondering asks the reader to turn and face the text. A treasure has to be dug out. Tadabbur, the word that names this whole module, is as-Sa'di's word for the middle step.",
+            "bn": "প্রথমটি আল-ইহতিদাউ বিনূরিহী, এর আলোয় পথ পাওয়া। দ্বিতীয়টি আল-ইকবালু আলা তাদাব্বুরি আয়াতিহী, এর আয়াতগুলো নিয়ে গভীর ভাবনার দিকে এগিয়ে আসা। তৃতীয়টি ইসতিখরাজু কুনূযিহী, এর গুপ্তধন বের করে আনা। এই ক্রমে তালিকাটা গ্রহণ থেকে পরিশ্রমের দিকে এগোয়। খোলা চোখে আলো এমনিই পৌঁছায়। ভাবনার জন্য পাঠককে লেখার দিকে ফিরে মুখোমুখি বসতে হয়। আর গুপ্তধন খুঁড়ে তুলতে হয়। এই পুরো বিভাগের নাম যে তাদাব্বুর, সা'দীর তালিকায় সেটি মাঝের ধাপের নাম।"
+          },
+          {
+            "en": "As-Sa'di does not say here how the treasures are drawn out, and no method is supplied on his behalf. What his sentence does settle is that, in his reading, praise of the Book is not complete when the Book has been admired. The praise carries an invitation, and the invitation is to work. A Book from the Mighty, the Wise that is only ever skimmed has been honoured with the tongue and left, in the sense that matters, unopened.",
+            "bn": "গুপ্তধন কীভাবে বের করতে হয়, সা'দী এখানে তা বলেননি, আর তাঁর নামে কোনো পদ্ধতি এখানে জুড়ে দেওয়া হচ্ছে না। তবে তাঁর বাক্য একটা কথা পরিষ্কার করে দেয়। তাঁর পাঠে কিতাবের প্রশংসা কেবল মুগ্ধ হলেই শেষ হয় না। প্রশংসার ভেতরে একটা ডাক আছে, আর সেই ডাক কাজের দিকে। মহাপরাক্রমশালী, প্রজ্ঞাময় আল্লাহর পাঠানো কিতাব যদি কেবল উপর দিয়ে পড়া হয়, তবে মুখে তার সম্মান দেওয়া হলো ঠিকই, কিন্তু আসল অর্থে কিতাবটি খোলাই হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Command Set Beside Creation",
+          "bn": "সৃষ্টির পাশে হুকুম"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di then explains why 46:3 follows. Lamma bayyana inzala kitabihi-l-mutadammini lil-amri wan-nahy, dhakara khalqahu-s-samawati wal-ard: having made clear the sending down of His Book, which contains command and prohibition, He mentioned His creating of the heavens and the earth. Fa-jama'a bayna-l-khalqi wal-amr, so He joined creation and command. What the creation verse itself says, and what the commentators make of its truth and its named term, is studied at 46:3. What concerns 46:2 is the pairing.",
+            "bn": "এরপর সা'দী ব্যাখ্যা করেন, ৪৬:৩ আয়াত কেন এর পরেই এল। তিনি লেখেন: আদেশ ও নিষেধ ধারণ করা কিতাব নাযিলের কথা স্পষ্ট করার পর আল্লাহ উল্লেখ করলেন আকাশ ও পৃথিবী সৃষ্টির কথা। ফাজামাআ বাইনাল খালকি ওয়াল আমর, এভাবে তিনি সৃষ্টি ও হুকুমকে এক জায়গায় আনলেন। সৃষ্টির আয়াতটি নিজে কী বলে, আর তার যথাযথ উদ্দেশ্য ও নির্ধারিত মেয়াদ নিয়ে তাফসীরকারেরা কী বলেন, তার আলোচনা ৪৬:৩ আয়াতে। ৪৬:২ আয়াতের জন্য প্রাসঙ্গিক হলো এই জোড়াটুকু।"
+          },
+          {
+            "en": "To support the pairing, as-Sa'di quotes three passages. The first is from 7:54: ala lahu-l-khalqu wal-amr, His are the creation and the command. The second is 65:12: Allah created seven heavens and of the earth their like, and the command descends among them. The third joins 16:2 and 16:3. He sends down the angels with the Spirit of His command upon whom He wills, to warn that there is no god but He; and then, He created the heavens and the earth with truth.",
+            "bn": "এই জোড়ার পক্ষে সা'দী তিনটি অংশ উদ্ধৃত করেন। প্রথমটি ৭:৫৪ থেকে: আলা লাহুল খালকু ওয়াল আমর, জেনে রাখো, সৃষ্টি তাঁর, হুকুমও তাঁর। দ্বিতীয়টি ৬৫:১২: আল্লাহ সাতটি আসমান বানিয়েছেন, আর পৃথিবী থেকেও সেগুলোর মতো, আর এগুলোর মাঝে তাঁর হুকুম নেমে আসে। তৃতীয়টিতে তিনি ১৬:২ ও ১৬:৩ একসঙ্গে আনেন। আল্লাহ তাঁর হুকুমে ফেরেশতাদের ওহীসহ পাঠান যার কাছে চান, এই বার্তা দিয়ে যে সতর্ক করো, তিনি ছাড়া কোনো ইলাহ নেই। আর তার ঠিক পরেই: তিনি আকাশ ও পৃথিবী সৃষ্টি করেছেন যথাযথ উদ্দেশ্যে।"
+          },
+          {
+            "en": "In each passage, sending down and making sit side by side, as 46:2 and 46:3 do. A reader can take one plain thought from the pattern without putting it in as-Sa'di's mouth. The Book does not come to the world as a stranger. The One whose command it carries is the One who made the people it addresses and the ground they stand on. A command from that source is not an outside demand laid on a world that belongs to someone else.",
+            "bn": "প্রতিটি অংশেই নাযিল করা আর সৃষ্টি করা পাশাপাশি বসে আছে, যেমন বসে আছে ৪৬:২ ও ৪৬:৩ আয়াত। এই ধরন থেকে পাঠক একটি সোজা কথা নিতে পারেন, সা'দীর মুখে না বসিয়েই। কিতাব এ জগতে অচেনা কেউ হয়ে আসে না। যাঁর হুকুম এ কিতাব বয়ে আনে, তিনিই বানিয়েছেন সেই মানুষদের, যাদের উদ্দেশে কিতাবের কথা, আর বানিয়েছেন যে মাটিতে তারা দাঁড়িয়ে আছে। এমন উৎস থেকে আসা হুকুম বাইরের কোনো দাবি নয়, যা অন্য কারও মালিকানার জগতের উপর চাপিয়ে দেওয়া হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Passage, Not a Residence",
+          "bn": "পথ, থাকার ঘর নয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di carries the pairing into a short account of the human situation. Allah, he writes, is the One who created al-mukallafin, those held to account, and created their dwellings, and made what is in the heavens and the earth subservient to them. Then He sent them His messengers, sent down His books upon them, commanded them and forbade them. The order runs from making, to provision, to revelation, and the Book of 46:2 arrives at the last step.",
+            "bn": "সা'দী এই জোড়াকে টেনে নিয়ে যান মানুষের অবস্থার একটি সংক্ষিপ্ত বিবরণে। তিনি লেখেন, আল্লাহই সৃষ্টি করেছেন মুকাল্লাফদের, অর্থাৎ যাদের উপর দায়িত্ব অর্পিত, আর সৃষ্টি করেছেন তাদের বাসস্থান। আকাশ ও পৃথিবীতে যা আছে, সবকিছু তাদের কাজে লাগিয়ে দিয়েছেন। তারপর তাদের কাছে রাসূল পাঠিয়েছেন, তাদের উপর কিতাব নাযিল করেছেন, আদেশ দিয়েছেন, নিষেধ করেছেন। ক্রমটা এরকম: আগে সৃষ্টি, তারপর জীবনের উপকরণ, তারপর ওহী। ৪৬:২ আয়াতের কিতাব আসে শেষ ধাপে।"
+          },
+          {
+            "en": "And He told them, as-Sa'di continues, anna hadhihi-d-dara daru a'malin wa mamarrun lil-'ummal, that this abode is a house of deeds and a passage for those who work, la daru iqamatin la yarhalu 'anha ahluha, not a house of residence whose people never leave it. They will move from it to the abode of residence and settledness, the home of everlasting and permanence. And the deeds they did in this abode they will find rewarded there, kamilan muwaffaran, complete and in full measure.",
+            "bn": "সা'দী আরও বলেন, আল্লাহ তাদের জানিয়ে দিয়েছেন: হাযিহিদ দারু দারু আ'মালিন ওয়া মামাররুন লিল উম্মাল। এই ঘর আমলের ঘর, কাজের মানুষদের পার হয়ে যাওয়ার পথ। এমন থাকার ঘর নয়, যার বাসিন্দারা কখনো এখান থেকে চলে যায় না। এখান থেকে তারা যাবে স্থায়ী বসবাসের ঘরে, চিরকাল থাকার ঠিকানায়। আর এই ঘরে তারা যে আমল করেছে, ওখানে তার প্রতিদান পাবে কামিলান মুওয়াফফারান, পুরোপুরি, এক বিন্দুও কম না করে।"
+          },
+          {
+            "en": "Set beside the verse, as-Sa'di's account gives the Book's arrival its setting: it reaches people who are passing through, and tells them so. The news that something has been sent down carries the news that the one reading it is on a road. The surah turns to that road at once. Its next verse speaks of ajalin musamma, a named term set with the creation of the heavens and the earth, and of those who turn away from what they were warned of.",
+            "bn": "আয়াতের পাশে রাখলে সা'দীর এই বিবরণ কিতাবের আগমনকে তার প্রেক্ষাপটে বসিয়ে দেয়। কিতাব পৌঁছায় এমন মানুষদের কাছে, যারা পথ চলছে, আর তাদের সে কথাই জানিয়ে দেয়। কিছু একটা নাযিল হয়েছে, এই খবরের সঙ্গেই আসে আরেক খবর: যে পড়ছে, সে পথে আছে। সূরাটি সঙ্গে সঙ্গে সেই পথের দিকে ফেরে। এর পরের আয়াতেই আছে আজালিম মুসাম্মা, নির্ধারিত মেয়াদ, যা আকাশ ও পৃথিবীর সৃষ্টির সঙ্গেই বেঁধে দেওয়া। সেখানে আছে তাদের কথাও, যারা সতর্কবাণী শুনে মুখ ফিরিয়ে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Word Kitab Returns",
+          "bn": "কিতাব শব্দ যেখানে ফিরে আসে"
+        },
+        "p": [
+          {
+            "en": "Al-Ahqaf does not leave its opening claim alone. The word kitab, book, occurs five times in the surah, in four verses: 46:2, 46:4, 46:12, where it comes twice, and 46:30. In 46:4 the idol-worshippers are challenged: i'tuni bi-kitabin min qabli hadha, bring me a book from before this, or some trace of knowledge. Ibn Kathir's English abridgement, in its comment on 46:1 to 46:6, reads this as a book from among those Allah revealed to the prophets, commanding the worship of idols. The opening named this Book's source; 46:4 asks for theirs, and none comes.",
+            "bn": "আহকাফ তার শুরুর দাবিটিকে একা দাঁড় করিয়ে রাখে না। কিতাব শব্দটি এ সূরায় এসেছে পাঁচবার, চারটি আয়াতে: ৪৬:২, ৪৬:৪, ৪৬:১২, যেখানে শব্দটি আছে দুবার, আর ৪৬:৩০। ৪৬:৪ আয়াতে চ্যালেঞ্জটা ঘুরে যায় তাদের দিকে, যারা আল্লাহ ছাড়া অন্যদের ডাকে: ই'তূনী বিকিতাবিম মিন কাবলি হাযা, এর আগের কোনো কিতাব আনো, কিংবা জ্ঞানের কোনো চিহ্ন। ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ ৪৬:১ থেকে ৪৬:৬ পর্যন্ত অংশের আলোচনায় একে বোঝায় নবীদের উপর নাযিল হওয়া আল্লাহর কিতাবগুলোর এমন কোনোটি, যা মূর্তিপূজার হুকুম দেয়। শুরুর আয়াত এই কিতাবের উৎসের নাম বলেছে। ৪৬:৪ আয়াত তাদের কিতাবের উৎস জানতে চায়, আর কিছুই আসে না।"
+          },
+          {
+            "en": "Then the charges come. In 46:7, when the clear verses are recited, those who disbelieve say of the truth: this is plain magic. In 46:8: or do they say he invented it? Both answer the opening sentence head-on, since magic and invention are two ways of saying the Book did not come from Allah. In 46:11 the deniers add that, had it been good, the believers would not have reached it before them, and they call it an old falsehood.",
+            "bn": "এরপর আসে অভিযোগ। ৪৬:৭ আয়াতে, স্পষ্ট আয়াতগুলো যখন তাদের সামনে পড়া হয়, কাফিররা সত্য সম্পর্কে বলে: এ তো স্পষ্ট জাদু। ৪৬:৮ আয়াতে: নাকি তারা বলে, সে নিজেই এটা বানিয়েছে? দুটি কথাই সরাসরি শুরুর বাক্যের জবাব, কারণ জাদু বলা আর বানানো বলা, দুটোরই মানে হলো কিতাবটি আল্লাহর কাছ থেকে আসেনি। ৪৬:১১ আয়াতে অস্বীকারকারীরা আরও বলে, এটা ভালো হলে মুমিনরা আমাদের আগে সেখানে পৌঁছাতে পারত না। আর তারা একে বলে পুরনো মিথ্যা।"
+          },
+          {
+            "en": "Then the surah gives the Book its lineage. In 46:12: before it was the Book of Musa (AS), a guide and a mercy, and this is a confirming Book in an Arabic tongue. Near the close, in 46:30, a company of jinn tell their people they have heard a Book sent down after Musa (AS), guiding to the truth. The witness of 46:10 and the jinn of 46:29 are treated at those verses. Here the point is simpler: the opening sentence becomes the question the surah argues, and hearers beyond its first audience testify to it.",
+            "bn": "এরপর সূরাটি কিতাবের বংশধারা জানিয়ে দেয়। ৪৬:১২ আয়াতে: এর আগে ছিল মূসা (আঃ)-এর কিতাব, পথপ্রদর্শক ও রহমত হিসেবে। আর এ কিতাব তার সত্যায়নকারী, আরবি ভাষায়। সূরার শেষ দিকে, ৪৬:৩০ আয়াতে, জিনদের একটি দল নিজেদের সম্প্রদায়কে জানায়, তারা মূসা (আঃ)-এর পরে নাযিল হওয়া এমন এক কিতাব শুনেছে, যা সত্যের দিকে পথ দেখায়। ৪৬:১০ আয়াতের সাক্ষী আর ৪৬:২৯ আয়াতের জিনদের কথা সেই আয়াতগুলোর আলোচনায় আছে। এখানে কথাটা সহজ। শুরুর বাক্যটি হয়ে ওঠে সেই প্রশ্ন, যা নিয়ে গোটা সূরা যুক্তি দেয়, আর প্রথম শ্রোতাদের বাইরের শ্রোতারাও এর পক্ষে সাক্ষ্য দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "News Heard for the Third Time",
+          "bn": "তৃতীয়বার শোনা খবর"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir's English abridgement heads the surah as revealed in Makkah, and on 46:4 it names those addressed by Say as the idolaters who worship others besides Allah. The charges of magic and invention in 46:7 and 46:8 are theirs. The surah describes those people and their answer as the text describes them, and it licenses nothing against any living person or community. None of the commentaries fetched for this verse attaches a hadith or an occasion of revelation to it, and none is supplied here.",
+            "bn": "ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণ সূরাটিকে মক্কায় নাযিল হওয়া সূরা বলে উল্লেখ করে। ৪৬:৪ আয়াতের আলোচনায় তা বলে, বলো কথাটি যাদের উদ্দেশে, তারা আল্লাহ ছাড়া অন্যদের পূজা করা মুশরিক। ৪৬:৭ ও ৪৬:৮ আয়াতের জাদু আর বানানোর অভিযোগ তাদেরই। সূরাটি সেই লোকদের আর তাদের জবাবের বর্ণনা দেয় ঠিক যেভাবে পাঠে আছে, এর বেশি নয়। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস বা নাযিলের প্রেক্ষাপট যুক্ত করেনি, তাই এখানেও কিছু যোগ করা হয়নি।"
+          },
+          {
+            "en": "What remains is the reader. The sentence was already met at 39:1 and 45:2, and familiar words slide past. As-Sa'di's reading gives it back its weight: the Book is praised so that its reader is guided by its light, ponders it and digs for what it holds, on a passage towards an abode that lasts. A sentence met three times in the mushaf can be heard each time as news, or passed over as a formula. The surah that follows shows what hangs on the difference.",
+            "bn": "বাকি থাকেন পাঠক নিজে। বাক্যটি আগেই দেখা হয়েছে ৩৯:১ ও ৪৫:২ আয়াতে, আর চেনা কথা সহজেই কানের পাশ দিয়ে চলে যায়। সা'দীর পাঠ বাক্যটির ভার ফিরিয়ে দেয়। কিতাবের প্রশংসা করা হয়েছে, যাতে পাঠক এর আলোয় পথ পায়, এ নিয়ে ভাবে আর এর ভেতরে যা আছে তা খুঁড়ে বের করে, স্থায়ী ঠিকানার দিকে পথ চলতে চলতে। মুসহাফে তিনবার পাওয়া একটি বাক্য প্রতিবার নতুন খবর হিসেবে শোনা যায়, আবার চেনা বুলি ভেবে পাশ কাটিয়েও যাওয়া যায়। এই পার্থক্যের উপর কী নির্ভর করে, তা দেখায় সূরার বাকি অংশ।"
+          }
+        ]
+      }
+    ]
+  },
   "46:3": {
     "sections": [
       {
