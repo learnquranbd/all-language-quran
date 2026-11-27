@@ -36673,6 +36673,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Strength, wealth and numbers held back nothing for the peoples before us; lean on Allah, who misses nothing, and use the respite He gives to turn back.",
     "lessonBn": "শক্তি, সম্পদ আর জনবল আগের জাতিগুলোকে কিছুই ঠেকিয়ে দিতে পারেনি। ভরসা রাখুন আল্লাহর উপর, যাঁর নাগাল থেকে কিছুই ফসকায় না, আর তাঁর দেওয়া অবকাশে তাঁর দিকে ফিরে আসুন।"
+  },
+  "35:33": {
+    "reflectionEn": "The verse before this one names three kinds among those who inherit the Book: one who wrongs himself, one who keeps to the middle, and one who races ahead in good. Then, without a pause, comes the reward: gardens of lasting residence they will enter, bracelets of gold and pearl on their wrists, and silk for their clothing. The finery that kings hoard in this world is the ordinary dress of that one. The promise follows the list in a single breath, and readers have differed over how far it reaches. Either way, it is no invitation to linger at the back. Which of the three am I today, and which do I hope to be on the day I arrive?",
+    "reflectionBn": "আগের আয়াতে কিতাবের উত্তরাধিকারীদের তিন ধরনের মানুষের কথা এসেছে। কেউ নিজের উপর জুলুম করে, কেউ মাঝামাঝি পথে থাকে, আর কেউ নেক কাজে সবার আগে ছোটে। এরপর আর থামা নেই, সরাসরি প্রতিদানের কথা: স্থায়ী বসবাসের জান্নাত, তারা সেখানে প্রবেশ করবে। হাতে থাকবে সোনা ও মুক্তার কঙ্কণ, গায়ে রেশমের পোশাক। দুনিয়ায় রাজারা যে সাজ জমিয়ে রাখে, সেখানে তা প্রতিদিনের পোশাক। তালিকার পরপরই এক নিঃশ্বাসে ওয়াদাটা এসেছে, আর তা কতদূর পর্যন্ত পৌঁছায়, তা নিয়ে আলেমদের মধ্যে মতভেদ আছে। যেভাবেই বুঝি, পেছনের সারিতে পড়ে থাকার দাওয়াত এটা নয়। আজ আমি এই তিনজনের কোনজন? আর যেদিন সেখানে পৌঁছাব, সেদিন কোনজন হয়ে পৌঁছাতে চাই?",
+    "pointsEn": [
+      "If the three kinds named just before this verse were a mirror, which one would show my face this week, and what makes me say so?",
+      "What one change would move me a single step forward, from wronging myself to the middle, or from the middle to racing ahead?",
+      "Does the width of Allah's promise make me slower, or does it make me run?",
+      "Which piece of this world's finery am I chasing that I would gladly trade for what lasts?",
+      "Which good deed, done where no one saw it, would I most want to find waiting for me in that residence?"
+    ],
+    "pointsBn": [
+      "এ আয়াতের ঠিক আগে যে তিন ধরনের মানুষের কথা এসেছে, তারা যদি আয়না হতো, এ সপ্তাহে তাতে আমার চেহারা কোনটায় দেখা যেত? কেন এমন মনে হয়?",
+      "কোন একটা বদল আমাকে এক ধাপ সামনে নিতে পারে: নিজের উপর জুলুম থেকে মাঝামাঝিতে, কিংবা মাঝামাঝি থেকে আগে ছোটার দলে?",
+      "আল্লাহর ওয়াদা এত প্রশস্ত দেখে আমি কি ঢিলে হয়ে যাই, নাকি আরও জোরে ছুটি?",
+      "দুনিয়ার কোন সাজসজ্জার পেছনে আমি ছুটছি, যা স্থায়ী জিনিসের বদলে খুশিমনে ছেড়ে দিতে পারি?",
+      "লোকচক্ষুর আড়ালে করা কোন নেক আমলটা সেই আবাসে আমার জন্য অপেক্ষা করছে দেখতে সবচেয়ে বেশি চাই?"
+    ],
+    "lessonEn": "Paradise is promised as a lasting home whose finery outshines this world's; aim to be among those who race ahead in good, not those who wrong themselves.",
+    "lessonBn": "জান্নাতের ওয়াদা এক স্থায়ী আবাসের, যার সাজ দুনিয়ার সব সাজকে ছাড়িয়ে যায়। নিজের উপর জুলুমকারীদের দলে নয়, নেক কাজে আগে ছোটাদের দলে থাকার চেষ্টা করুন।"
   }
 };
 

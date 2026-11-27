@@ -1619,6 +1619,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "35:33": {
+    "sections": [
+      {
+        "h": {
+          "en": "Straight After the Great Bounty",
+          "bn": "মহা অনুগ্রহের ঠিক পরে"
+        },
+        "p": [
+          {
+            "en": "Jannatu 'adnin yadkhulunaha: gardens of 'adn, which they will enter. The verse opens with no joining word. It runs straight on from the close of 35:32, where those who inherit the Book are divided into three kinds and the inheritance is called the great bounty. Ma'arif al-Qur'an reads the two verses as one movement. Counting all three kinds among His chosen servants, it says, is the great bounty; next comes their recompense: they will go to Jannah, wear bracelets of gold and ornaments of pearl, and be dressed in silk.",
+            "bn": "জান্নাতু আদনিন ইয়াদখুলুনাহা: আদনের জান্নাতসমূহ, যাতে তারা প্রবেশ করবে। আয়াতটি কোনো সংযোজক শব্দ ছাড়াই শুরু হয়েছে। ৩৫:৩২ আয়াত যেখানে শেষ, এটি সেখান থেকেই সোজা এগিয়ে চলে। সেখানে কিতাবের উত্তরাধিকারীদের তিনটি ভাগে ভাগ করা হয়েছে, আর এই উত্তরাধিকারকে বলা হয়েছে মহা অনুগ্রহ। মাআরিফুল কুরআন দুই আয়াতকে একটানা পড়ে। তার মতে তিন ধরনকেই আল্লাহর বাছাই করা বান্দাদের মধ্যে গণ্য করা, এটাই সেই মহা অনুগ্রহ। এরপর আসে তাদের প্রতিদান: তারা জান্নাতে যাবে, সোনার কঙ্কণ ও মুক্তার অলংকার পরবে, আর তাদের পোশাক হবে রেশমের।"
+          },
+          {
+            "en": "The commentators frame the verse the same way. As-Sa'di introduces it with the words: then He mentioned the reward of those to whom He bequeathed His Book. Al-Baghawi writes: then He told of their reward. Who the three kinds are, and how each is ranked, is the business of 35:32, and this article leaves that verse its own space. What stays here is the promise itself, and the question it raises at once: who exactly is meant by the word they, in they will enter?",
+            "bn": "তাফসীরকারেরাও আয়াতটিকে এভাবেই দেখেন। সা'দী আয়াতের আগে লেখেন: এরপর তিনি তাদের প্রতিদানের কথা বললেন, যাদেরকে নিজের কিতাবের উত্তরাধিকারী করেছেন। বাগাবী লেখেন: এরপর তিনি তাদের পুরস্কারের খবর দিলেন। তিনটি দল কারা, আর কার মর্যাদা কোথায়, সে আলোচনা ৩৫:৩২ আয়াতের। এ লেখা সেই আয়াতের জায়গা তার জন্যই রেখে দেয়। এখানে থাকছে কেবল ওয়াদাটি, আর ওয়াদাটি শুনেই যে প্রশ্ন জাগে: তারা প্রবেশ করবে, এই তারা আসলে কারা?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the Word They Gathers",
+          "bn": "তারা শব্দে কারা আছে"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi answers in two words: al-asnaf ath-thalatha, the three kinds. The others reach the same group by naming the inheritors. At-Tabari paraphrases: orchards of residence which these enter, those We made to inherit the Book, whom We chose from Our servants, on the Day of Resurrection. Ibn Kathir says Allah is telling where these chosen ones of His servants, who were given the Book sent down from the Lord of the worlds, will find their shelter on that Day. Al-Muyassar says simply: for those whom Allah made heirs of His Book.",
+            "bn": "বাগাবী উত্তর দেন দুই শব্দে: আল-আসনাফুস সালাসা, অর্থাৎ তিনটি শ্রেণি। অন্যরাও একই দলে পৌঁছান, তবে উত্তরাধিকারীদের নাম ধরে। তাবারী আয়াতটি নিজের ভাষায় বলেন: স্থায়ী বসবাসের বাগান, যাতে কিয়ামতের দিন তারা প্রবেশ করবে, যাদেরকে আমি কিতাবের উত্তরাধিকারী করেছি, যাদেরকে বান্দাদের মধ্য থেকে বেছে নিয়েছি। ইবনে কাসীরের ভাষায়, আল্লাহ জানাচ্ছেন সেদিন তাঁর এই বাছাই করা বান্দাদের ঠিকানা কোথায় হবে, যাদেরকে রাব্বুল আলামীনের নাযিল করা কিতাব দেওয়া হয়েছে। মুয়াসসার সংক্ষেপে বলে: যাদেরকে আল্লাহ তাঁর কিতাবের উত্তরাধিকারী করেছেন, তাদের জন্য।"
+          },
+          {
+            "en": "Al-Qurtubi gives a reason for the plural. He gathered them all in the entering, he writes, because it is an inheritance, and in an inheritance the undutiful child and the dutiful one are equal, so long as both acknowledge the lineage. So too the disobedient and the obedient: both affirm the Lord. The picture is drawn from the law of the family. An heir does not inherit because he earned the estate. He inherits because of whose child he is, and the one condition al-Qurtubi names is that he acknowledges the tie.",
+            "bn": "বহুবচনের একটি কারণ দেখান কুরতুবী। তিনি লেখেন, প্রবেশের কথায় আল্লাহ সবাইকে একসঙ্গে এনেছেন, কারণ এটা উত্তরাধিকার। আর উত্তরাধিকারে অবাধ্য সন্তান ও বাধ্য সন্তান সমান, যদি দুজনেই বংশের সম্পর্ক স্বীকার করে। গুনাহগার আর অনুগতও তেমনি, দুজনেই রবকে স্বীকার করে। ছবিটা নেওয়া পরিবারের আইন থেকে। ওয়ারিস সম্পত্তি পায় খেটে উপার্জন করেছে বলে নয়। পায় এ কারণে যে সে কার সন্তান। কুরতুবী শর্ত রাখেন একটাই: সম্পর্কটা সে স্বীকার করে।"
+          },
+          {
+            "en": "The analogy has a limit, and the verse before marks it. Equal shares in the entering are not equal ranks. 35:32 has just separated the heirs into one who wrongs himself, one who keeps to the middle, and one who races ahead in good deeds by Allah's permission, and the Qur'an does not name three kinds in order to call them one. Al-Qurtubi's point concerns who walks through the gate. How far inside each one goes is another matter, and his reasoning does not settle it.",
+            "bn": "উপমাটির একটা সীমা আছে, আর আগের আয়াতই সেটা টেনে দেয়। প্রবেশে সমান ভাগ মানে সমান মর্যাদা নয়। ৩৫:৩২ সবে উত্তরাধিকারীদের আলাদা করেছে: কেউ নিজের উপর জুলুম করে, কেউ মাঝামাঝি থাকে, আর কেউ আল্লাহর অনুমতিতে নেক কাজে আগে ছোটে। তিনটি ধরনের নাম কুরআন তাদের এক বলে দেওয়ার জন্য নেয়নি। কুরতুবীর কথা হলো, দরজা দিয়ে কারা ঢুকবে। কে ভেতরে কতদূর যাবে, সেটা ভিন্ন প্রশ্ন। তাঁর যুক্তি সে প্রশ্নের মীমাংসা করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Garden for the Few?",
+          "bn": "অল্প কজনের এক বাগান?"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records two other readings of the opening words. One reads jannatu 'adnin in the singular, a garden of 'adn, as though it were a single garden set apart for the foremost, because they are few, as he says he discussed before. Another reads jannati 'adnin in the accusative, governed by an unspoken verb that the one after it explains: they enter gardens of 'adn, they enter them. Then he gives his verdict on the common plural: this is for all of them, and it is the correct view, if Allah wills.",
+            "bn": "শুরুর শব্দগুলোর আরও দুটি কিরাআত উল্লেখ করেন কুরতুবী। একটিতে একবচনে পড়া হয়েছে জান্নাতু আদনিন, অর্থাৎ আদনের একটি জান্নাত। যেন এটা আলাদা এক বাগান, কেবল অগ্রগামীদের জন্য, কারণ তারা সংখ্যায় অল্প। তিনি বলেন, এ আলোচনা আগে হয়ে গেছে। অন্যটিতে পড়া হয়েছে জান্নাতি আদনিন, যবরযুক্ত রূপে। তখন এর আগে একটা ক্রিয়া উহ্য থাকে, যার ব্যাখ্যা দেয় পরের ক্রিয়াটি: তারা আদনের জান্নাতে প্রবেশ করে, প্রবেশ করে তাতে। এরপর প্রচলিত বহুবচন নিয়ে তিনি রায় দেন: এটা সবার জন্য, আর ইনশাআল্লাহ এটাই সঠিক মত।"
+          },
+          {
+            "en": "So the files fetched for this verse hold two positions. On one, implied by the singular reading, the promised garden belongs to the foremost alone. On the other, which al-Qurtubi calls correct and which al-Baghawi states outright, all three kinds are meant; at-Tabari, Ibn Kathir, as-Sa'di and al-Muyassar, by tying the verse to the heirs as a whole, read it the same way. Al-Qurtubi names no one for the narrower view and points back to his discussion of 35:32, where the argument belongs.",
+            "bn": "তাহলে এ আয়াতের জন্য সংগ্রহ করা তাফসীরগুলোতে দুটি অবস্থান পাওয়া যায়। একবচনের কিরাআত থেকে যে অবস্থান বেরিয়ে আসে, তাতে ওয়াদাকৃত বাগান কেবল অগ্রগামীদের। অন্য অবস্থানে তিনটি ধরনই এর অন্তর্ভুক্ত। কুরতুবী একে সঠিক বলেন, আর বাগাবী সরাসরি এ কথাই লেখেন। তাবারী, ইবনে কাসীর, সা'দী ও মুয়াসসারও আয়াতটিকে গোটা উত্তরাধিকারী দলের সঙ্গে জুড়ে একইভাবে পড়েন। সংকীর্ণ মতটি কার, কুরতুবী তা বলেন না। তিনি ৩৫:৩২ আয়াতের আলোচনার দিকে ইঙ্গিত করেন, আর বিতর্কটির আসল জায়গা সেখানেই।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi both note that Abu 'Amr read yudkhalunaha, they will be brought into it, where the others read yadkhulunaha, they will enter it. Al-Qurtubi gives Abu 'Amr's reason: to match yuhallawna, they will be adorned, which follows in the passive. At-Tirmidhi records a narration from Abu Sa'id al-Khudri on 35:32 concerning the three kinds; he grades it hasan gharib and says he knows it only by this one route, which runs through two unnamed men. It is mentioned here, and nothing is built on it.",
+            "bn": "কুরতুবী ও বাগাবী দুজনেই জানান, আবু আমর পড়েছেন ইউদখালুনাহা, অর্থাৎ তাদেরকে তাতে প্রবেশ করানো হবে। অন্যরা পড়েছেন ইয়াদখুলুনাহা, তারা তাতে প্রবেশ করবে। কুরতুবী আবু আমরের যুক্তিও দেন: পরের ক্রিয়া ইউহাল্লাওনা, তাদেরকে অলংকৃত করা হবে, কর্মবাচ্যে এসেছে, তার সঙ্গে মিল রাখতে। তিনটি দলের প্রসঙ্গে ৩৫:৩২ আয়াত নিয়ে আবু সাঈদ খুদরী (রাঃ) থেকে একটি বর্ণনা তিরমিযী এনেছেন। তিনি একে হাসান গারীব বলেছেন এবং জানিয়েছেন, এই একটি সূত্র ছাড়া তিনি এটি জানেন না। সূত্রে দুজন বর্ণনাকারীর নামই নেই। তাই এখানে শুধু উল্লেখ রইল, এর উপর কিছু দাঁড় করানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Garden Named for Staying",
+          "bn": "থেকে যাওয়ার নামে বাগান"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di defines the key word: al-'adn is al-iqamah, residence, so jannatu 'adnin are gardens of residence. He adds why they are attributed to residence: because residing and remaining forever are their quality and the quality of the people in them. The others agree on the sense. At-Tabari renders the phrase basatin iqamah, orchards of residence; Ibn Kathir, jannat al-iqamah; al-Muyassar, gardens of lasting residence. The name of the place, before anything is said about it, already answers the fear that it might end.",
+            "bn": "মূল শব্দটির সংজ্ঞা দেন সা'দী: আদন মানে ইকামাহ, বসবাস। কাজেই জান্নাতু আদন মানে বসবাসের জান্নাত। কেন বসবাসের সঙ্গে জুড়ে নাম দেওয়া হলো, তাও তিনি বলেন: স্থায়ীভাবে থাকা আর চিরকাল থেকে যাওয়াই এ জান্নাতের গুণ, তার অধিবাসীদেরও গুণ। অর্থের ব্যাপারে অন্যরাও একমত। তাবারী লেখেন বাসাতীনু ইকামাহ, বসবাসের বাগান। ইবনে কাসীর লেখেন জান্নাতুল ইকামাহ। মুয়াসসার বলে, স্থায়ী বসবাসের জান্নাত। জায়গাটির বর্ণনা শুরুর আগেই তার নাম জানিয়ে দেয়, এটা একদিন ফুরিয়ে যাবে, সে ভয় এখানে নেই।"
+          },
+          {
+            "en": "As-Sa'di then fills in the scene: gardens holding trees, shade and deep shade, lovely orchards, gushing rivers, lofty palaces and adorned dwellings, in an eternity that does not pass and a life that does not run out. Ibn Kathir fixes the moment of entry: they enter them on the day of their return, when they come before their Lord, Mighty and Majestic. The same opening words, jannatu 'adnin yadkhulunaha, begin 13:23 as well, where those who enter are joined by the righteous among their families.",
+            "bn": "এরপর সা'দী দৃশ্যটি ভরিয়ে তোলেন: গাছপালা, ছায়া আর ঘন ছায়া, মনোরম বাগিচা, উপচে পড়া নদী, উঁচু প্রাসাদ আর সাজানো বাসস্থান। সবই এমন অনন্তকালে, যা শেষ হয় না, এমন জীবনে, যা ফুরায় না। প্রবেশের সময়টা নির্দিষ্ট করেন ইবনে কাসীর: ফিরে যাওয়ার দিন, যখন তারা মহান ও পরাক্রমশালী রবের সামনে হাজির হবে, সেদিনই তারা তাতে ঢুকবে। একই শুরুর শব্দ, জান্নাতু আদনিন ইয়াদখুলুনাহা, ১৩:২৩ আয়াতেরও শুরু। সেখানে প্রবেশকারীদের সঙ্গে যোগ দেয় তাদের পরিবারের নেককার লোকেরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Adorned Where the Water Reached",
+          "bn": "ওযুর পানি যতদূর পৌঁছায়"
+        },
+        "p": [
+          {
+            "en": "Yuhallawna fiha min asawira min dhahabin wa lu'lu'an: they will be adorned there with bracelets of gold, and with pearl. At-Tabari paraphrases: they will wear bracelets of gold in the gardens of 'adn. As-Sa'di explains the bracelet as the ornament placed on the hands, shaped as they love and as they see to be finer than any other. He reads pearl as a second thing the same verb acts on: they are adorned with pearl too, strung on their garments and their bodies. Al-Muyassar likewise has them adorned with bracelets of gold and with pearl.",
+            "bn": "ইউহাল্লাওনা ফীহা মিন আসাওয়িরা মিন যাহাবিন ওয়া লু'লুআন: সেখানে তাদেরকে সোনার কঙ্কণে আর মুক্তায় সাজানো হবে। তাবারীর ভাষায়, আদনের জান্নাতে তারা সোনার কঙ্কণ পরবে। সা'দী কঙ্কণের ব্যাখ্যা দেন হাতে পরার অলংকার বলে। তা হবে তাদের পছন্দমতো, এমন গড়নের, যাকে তারা অন্য সবকিছুর চেয়ে সুন্দর মনে করে। মুক্তাকে তিনি একই ক্রিয়ার দ্বিতীয় বিষয় হিসেবে পড়েন: তাদেরকে মুক্তা দিয়েও সাজানো হবে, যা গাঁথা থাকবে তাদের পোশাকে ও শরীরে। মুয়াসসারও বলে, তাদেরকে সোনার কঙ্কণ ও মুক্তা দিয়ে অলংকৃত করা হবে।"
+          },
+          {
+            "en": "As-Sa'di adds a sentence that answers a question before it is asked: men and women are equal in adornment in Paradise. Ma'arif al-Qur'an meets the same doubt directly, that ornaments suit women and not men. Its answer is that judging the conditions of the Hereafter and of Paradise by the conditions of this passing world is unreasonable. The verse describes another order of things, and the habits of taste formed here are not the measure of what is given there.",
+            "bn": "সা'দী একটি বাক্য যোগ করেন, যা প্রশ্ন ওঠার আগেই তার জবাব দিয়ে রাখে: জান্নাতে অলংকারের ব্যাপারে নারী-পুরুষ সমান। মাআরিফুল কুরআন সংশয়টিকে সরাসরি তোলে: অলংকার তো নারীর জন্য, পুরুষকে তা মানায় না। তার জবাব হলো, এই নশ্বর দুনিয়ার অবস্থা দিয়ে আখিরাত ও জান্নাতের অবস্থা মাপা অযৌক্তিক। আয়াতটি সম্পূর্ণ ভিন্ন এক জগতের কথা বলছে। এখানকার রুচি আর অভ্যাস দিয়ে সেখানকার দানের পরিমাপ হয় না।"
+          },
+          {
+            "en": "Ibn Kathir attaches a hadith from Abu Hurayrah, introducing it as established in the Sahih, and Muslim records it (Muslim 250). Abu Hazim said he was behind Abu Hurayrah while he made wudu for prayer, and he kept extending the washing of his hand until it reached his armpit. Asked why, Abu Hurayrah said: I heard my dear friend ﷺ say, \"The adornment of the believer will reach where the wudu reaches.\" The bracelet of this verse, on that report, sits where the water once ran.",
+            "bn": "ইবনে কাসীর এখানে আবু হুরায়রা (রাঃ) থেকে একটি হাদীস আনেন এবং বলেন, এটি সহীহ গ্রন্থে প্রমাণিত। মুসলিম হাদীসটি বর্ণনা করেছেন (মুসলিম ২৫০)। আবু হাযিম বলেন, তিনি আবু হুরায়রা (রাঃ)-এর পেছনে ছিলেন, আর তিনি নামাযের জন্য ওযু করছিলেন। হাত ধোয়ার সময় তিনি বগল পর্যন্ত টেনে নিচ্ছিলেন। কারণ জিজ্ঞেস করা হলে তিনি বললেন, আমি আমার প্রিয় বন্ধু ﷺ-কে বলতে শুনেছি: \"মুমিনের অলংকার সেখান পর্যন্ত পৌঁছাবে, যেখান পর্যন্ত ওযু পৌঁছায়।\" এ বর্ণনা অনুযায়ী আয়াতের কঙ্কণ বসবে ঠিক সেখানে, যেখান দিয়ে একদিন ওযুর পানি গড়িয়ে গিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Gold Here, Silver in Al-Insan",
+          "bn": "এখানে সোনা, সূরা ইনসানে রুপা"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an notices a difference between verses. In 76:21 the bracelets of the people of Paradise are of silver, while 18:31 and 22:23 speak, as this verse does, of gold. It cites al-Qurtubi for the reconciliation: the commentators explain that every dweller of Paradise will wear bracelets on the hands of gold, of silver and of pearl, and this brings the verses into agreement. The second half of 22:23 matches this verse word for word, and al-Qurtubi, reaching it here, refers the reader back to his discussion in Surat al-Hajj rather than repeat it.",
+            "bn": "মাআরিফুল কুরআন কয়েকটি আয়াতের মধ্যে একটি পার্থক্য লক্ষ করে। ৭৬:২১ আয়াতে জান্নাতবাসীদের কঙ্কণ রুপার। অথচ ১৮:৩১ ও ২২:২৩ আয়াতে, এ আয়াতের মতোই, সোনার কথা। সমাধানের জন্য সে কুরতুবীর বরাত দেয়: তাফসীরকারেরা বলেন, প্রত্যেক জান্নাতবাসীর হাতে থাকবে সোনা, রুপা ও মুক্তার কঙ্কণ। এভাবে আয়াতগুলো পরস্পর মিলে যায়। ২২:২৩ আয়াতের দ্বিতীয় অংশ এ আয়াতের সঙ্গে হুবহু এক। তাই কুরতুবী এখানে এসে নতুন করে আলোচনা না করে পাঠককে সূরা হজ্জে তাঁর আগের আলোচনার দিকে ফিরিয়ে দেন।"
+          },
+          {
+            "en": "Two longer descriptions of the ornaments of Paradise are relayed in the sources but cannot carry weight here. Ibn Kathir passes on one from Abu Umamah through Ibn Abi Hatim, with Ibn Lahi'ah in its chain. Ma'arif al-Qur'an passes on another, about crowns, from Abu Sa'id al-Khudri, citing at-Tirmidhi and others through a later book. Neither was confirmed on a fetched page of a collection, and neither carries a grading that could be checked, so both are mentioned without their content.",
+            "bn": "জান্নাতের অলংকার নিয়ে আরও দীর্ঘ দুটি বর্ণনা উৎসগুলোতে এসেছে, তবে এখানে সেগুলোর উপর ভর দেওয়া যায় না। একটি ইবনে কাসীর আনেন আবু উমামা (রাঃ) থেকে, ইবনে আবী হাতিমের মাধ্যমে, যার সূত্রে ইবনে লাহীআ আছেন। অন্যটি মুকুট প্রসঙ্গে, আবু সাঈদ খুদরী (রাঃ) থেকে। মাআরিফুল কুরআন এটি আনে তিরমিযী ও অন্যদের বরাতে, পরবর্তী এক গ্রন্থের মাধ্যমে। কোনোটিই কোনো হাদীস সংকলনের সংগৃহীত পাতায় যাচাই করা যায়নি, আর যাচাইযোগ্য কোনো মানও নেই। তাই দুটির শুধু উল্লেখ রইল, বিষয়বস্তু নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Silk as Everyday Dress",
+          "bn": "রেশম যেখানে রোজকার পোশাক"
+        },
+        "p": [
+          {
+            "en": "Wa libasuhum fiha harir: and their clothing there is silk. At-Tabari paraphrases: their clothing in Paradise is silk. Al-Muyassar adds one word that changes the picture: their usual clothing in Paradise is silk, meaning fine, delicate garments. What is a rare luxury here is their ordinary wear there. As-Sa'di names the kinds, sundus and istabraq, and their colour, green. The Qur'an itself pairs those two names elsewhere: in 18:31 the people of the gardens of 'adn wear green garments of sundus and istabraq, and 76:21 has the same two.",
+            "bn": "ওয়া লিবাসুহুম ফীহা হারীর: আর সেখানে তাদের পোশাক রেশমের। তাবারী নিজের ভাষায় বলেন, জান্নাতে তাদের পোশাক হবে রেশম। মুয়াসসার একটি শব্দ যোগ করে, আর তাতেই ছবিটা বদলে যায়: জান্নাতে তাদের সাধারণ পোশাক রেশম, অর্থাৎ মিহি, কোমল কাপড়। এখানে যা দুর্লভ বিলাস, সেখানে তা প্রতিদিনের পরিধান। সা'দী এর ধরনের নাম বলেন, সুনদুস ও ইসতাবরাক, আর রং বলেন সবুজ। কুরআন নিজেও অন্য জায়গায় এ দুই নাম একসঙ্গে আনে। ১৮:৩১ আয়াতে আদনের জান্নাতের অধিবাসীরা সুনদুস ও ইসতাবরাকের সবুজ পোশাক পরে, আর ৭৬:২১ আয়াতেও এ দুটিই আছে।"
+          },
+          {
+            "en": "Ibn Kathir draws a link between this world and that one. For this reason, he writes, silk was forbidden to them in this world, and Allah made it lawful for them in the Hereafter. Ma'arif al-Qur'an says much the same about men, gold and silk, and calls Paradise the compensation. Ibn Kathir then cites a hadith that al-Bukhari records (Bukhari 5834) from Ibn az-Zubayr, who heard 'Umar say that the Prophet ﷺ said: \"Whoever wears silk in this world shall not wear it in the Hereafter.\"",
+            "bn": "দুনিয়া আর আখিরাতের মধ্যে একটি যোগসূত্র টানেন ইবনে কাসীর। তিনি লেখেন, এ কারণেই দুনিয়ায় তাদের জন্য রেশম নিষিদ্ধ ছিল, আর আল্লাহ আখিরাতে তা তাদের জন্য হালাল করেছেন। পুরুষ, সোনা ও রেশম নিয়ে মাআরিফুল কুরআনও প্রায় একই কথা বলে, আর জান্নাতকে বলে তার বিনিময়। এরপর ইবনে কাসীর একটি হাদীস আনেন, যা বুখারী বর্ণনা করেছেন (বুখারী ৫৮৩৪)। ইবনে যুবাইর (রাঃ) উমর (রাঃ)-কে বলতে শুনেছেন, নবী ﷺ বলেছেন: \"যে দুনিয়ায় রেশম পরবে, সে আখিরাতে তা পরবে না।\""
+          },
+          {
+            "en": "That narration is general. Its own wording concerns the wearing of silk and does not mention this verse; it is Ibn Kathir who brings it here. The rulings that jurists take from it belong to fiqh, and this article does not set them out. What the pairing does show is the shape of the promise: some things are held back in one life and given freely in the next. The verse invites the reader to measure what he reaches for now against what is kept for later.",
+            "bn": "হাদীসটি সাধারণ। এর নিজের ভাষা রেশম পরা নিয়ে, এ আয়াতের কোনো উল্লেখ তাতে নেই। ইবনে কাসীরই হাদীসটিকে এখানে টেনে এনেছেন। ফকীহরা এ থেকে যে বিধান বের করেন, তা ফিকহের বিষয়, এ লেখা সেগুলো আলোচনা করে না। তবে দুটিকে পাশাপাশি রাখলে ওয়াদার গড়নটা চোখে পড়ে। কিছু জিনিস একটি জীবনে আটকে রাখা হয়, আর পরের জীবনে অবাধে দেওয়া হয়। আয়াতটি পাঠককে ডাকে, এখন যার দিকে হাত বাড়াচ্ছেন, তাকে পরের জন্য রেখে দেওয়া জিনিসের সঙ্গে মিলিয়ে দেখতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dressing Now for That Arrival",
+          "bn": "সেই আগমনের সাজ এখনই"
+        },
+        "p": [
+          {
+            "en": "Read with the verse before it, this one holds hope and urgency together. The promise follows all three kinds of heirs in one breath, and most of the commentators fetched here read it as reaching all of them. Yet the same passage has just ranked those heirs, and no reader who hears the ranks would choose to be counted among those who wrong themselves. Al-Qurtubi's heir inherits by belonging. The verse before shows that belonging still has a front and a back.",
+            "bn": "আগের আয়াতের সঙ্গে মিলিয়ে পড়লে এ আয়াতে আশা আর তাড়া একসঙ্গে থাকে। তিন ধরনের উত্তরাধিকারীর পরপরই এক নিঃশ্বাসে ওয়াদা এসেছে। এখানে সংগৃহীত তাফসীরকারদের বেশির ভাগ একে তিনটি দলের জন্যই পড়েন। অথচ একই অংশ সবে এই উত্তরাধিকারীদের মর্যাদার ক্রম সাজিয়েছে। ক্রমটা শুনে কোনো পাঠক নিজেকে নিজের উপর জুলুমকারীদের দলে গুনতে চাইবে না। কুরতুবীর ওয়ারিস উত্তরাধিকার পায় সম্পর্কের সূত্রে। আগের আয়াত দেখিয়ে দেয়, সেই সম্পর্কেরও সামনের সারি আছে, পেছনের সারিও আছে।"
+          },
+          {
+            "en": "The details of the verse turn into small daily acts. Each wudu, on the report Muslim records, washes the places that will later be adorned, so a careful wudu is preparation for that day. The finery of gold and silk, set beside a lasting residence, loses some of its pull. What the heirs say once they are inside comes in 35:34, and it is left to that verse. This verse asks something simpler: to live now as someone already expected at that door.",
+            "bn": "আয়াতের খুঁটিনাটি রোজকার ছোট ছোট আমলে রূপ নেয়। মুসলিমের বর্ণনা অনুযায়ী প্রতিটি ওযু সেই অঙ্গগুলো ধোয়, যেগুলো একদিন অলংকারে সাজবে। তাই যত্ন নিয়ে ওযু করা মানে সেদিনের প্রস্তুতি। স্থায়ী আবাসের পাশে রাখলে সোনা আর রেশমের জৌলুস তার টান অনেকটাই হারায়। ভেতরে ঢুকে উত্তরাধিকারীরা প্রথমে কী বলে, তা আসে ৩৫:৩৪ আয়াতে, সে কথা সেই আয়াতের জন্যই রইল। এ আয়াত চায় আরও সহজ কিছু: এমনভাবে বাঁচা, যেন সেই দরজায় আপনার জন্য অপেক্ষা চলছে।"
+          }
+        ]
+      }
+    ]
+  },
   "35:34": {
     "sections": [
       {
