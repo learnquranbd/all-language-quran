@@ -33543,6 +33543,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Safety on dry land is as much His gift as rescue at sea; let every relief turn you towards Allah, not away from Him.",
     "lessonBn": "সমুদ্রে উদ্ধার পাওয়া যেমন তাঁর দান, ডাঙায় নিরাপদ থাকাও তেমনি তাঁর দান। প্রতিটি স্বস্তি যেন আপনাকে আল্লাহর দিকে ফেরায়, তাঁর থেকে দূরে নয়।"
+  },
+  "17:19": {
+    "reflectionEn": "Two people can live the same day. Both work, both are fed, both are tired by evening. The verse before this one shows the first: he wants only what comes quickly, and receives of it only what Allah wills. This verse names the second by three things held together. He wants the Hereafter. He strives for it with the effort that suits it, not with whatever effort he happens to like. And he is a believer. Of such people Allah says their striving is thanked. The One who owes no one anything calls their effort worth thanking. So I ask what my effort is aimed at, whether it takes the road the Hereafter asks for, and whether faith holds it up.",
+    "reflectionBn": "দুজন মানুষ একই দিন কাটাতে পারে। দুজনেই কাজ করে, দুজনেই খায়, সন্ধ্যায় দুজনেই ক্লান্ত। আগের আয়াত দেখায় প্রথমজনকে: সে চায় শুধু যা তাড়াতাড়ি হাতে আসে, আর পায় ততটুকুই, যতটুকু আল্লাহ চান। এ আয়াত দ্বিতীয়জনকে চেনায় তিনটি জিনিস দিয়ে, যা একসঙ্গে থাকতে হয়। সে আখিরাত চায়। তার জন্য সে চেষ্টা করে সেই চেষ্টায়, যা আখিরাতের উপযুক্ত, নিজের মনমতো যেকোনো চেষ্টায় নয়। আর সে মুমিন। এমন লোকদের সম্পর্কে আল্লাহ বলেন, তাদের চেষ্টার কদর করা হবে। যিনি কারও কাছে কিছুই ঋণী নন, তিনিই তাদের শ্রমকে কদরের যোগ্য বলছেন। তাই নিজেকে জিজ্ঞেস করি: আমার চেষ্টা কোন দিকে তাক করা? আখিরাত যে পথ চায়, সে পথে কি তা চলে? আর তার নিচে কি ঈমানের ভিত আছে?",
+    "pointsEn": [
+      "If someone followed me through an ordinary week, what would they say I want most: what comes quickly, or what comes later?",
+      "Which of my good deeds do I do the way I like, rather than the way the Prophet ﷺ taught it?",
+      "What good habit have I taken up and dropped more than once, and what would help me keep it steady?",
+      "When I do something good, do I truly believe its reward is real and waiting, or do I mostly hope to be noticed now?",
+      "Allah calls the believer's effort thanked. Whose effort around me have I failed to thank?"
+    ],
+    "pointsBn": [
+      "সাধারণ এক সপ্তাহ কেউ আমার পেছন পেছন ঘুরলে সে কী বলবে, আমি সবচেয়ে বেশি কী চাই: যা তাড়াতাড়ি আসে, নাকি যা পরে আসে?",
+      "আমার কোন নেক আমলগুলো আমি করি নিজের পছন্দমতো, নবী ﷺ যেভাবে শিখিয়েছেন সেভাবে নয়?",
+      "কোন ভালো অভ্যাস আমি একাধিকবার ধরেছি আর ছেড়েছি? সেটাকে স্থির রাখতে কী কাজে আসবে?",
+      "ভালো কিছু করার সময় আমি কি সত্যিই বিশ্বাস করি যে এর প্রতিদান সত্য, অপেক্ষা করছে? নাকি মনে মনে চাই, এখনই কেউ দেখুক?",
+      "আল্লাহ মুমিনের চেষ্টার কদর করেন। আমার আশপাশে কার পরিশ্রমের কদর আমি করিনি?"
+    ],
+    "lessonEn": "Want the Hereafter, work for it in the way it asks, and keep faith beneath the work; effort like that is never lost with Allah.",
+    "lessonBn": "আখিরাত চান, আখিরাত যেভাবে চায় সেভাবে তার জন্য আমল করুন, আর সেই আমলের নিচে ঈমান ধরে রাখুন। এমন চেষ্টা আল্লাহর কাছে কখনো হারায় না।"
   }
 };
 

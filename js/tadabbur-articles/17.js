@@ -735,6 +735,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "17:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Wants, Side by Side",
+          "bn": "দুই চাওয়া, পাশাপাশি"
+        },
+        "p": [
+          {
+            "en": "The verse opens with wa, and that small and carries weight. The verse before it, 17:18, described the person who wants al-'ajila, the hasty thing. Al-Qurtubi explains the word as the world, the abode that comes quickly, named by its quality in place of the noun. That person receives of it what Allah wills, for whom He intends, and then Hell. Now comes the counterpart: wa-man arada al-akhirah, and whoever wants the Hereafter. Ibn Kathir glosses it as wanting the final abode and the bliss and joy it holds.",
+            "bn": "আয়াতটি শুরু হয়েছে ওয়া দিয়ে, আর এই ছোট্ট 'এবং'-এর ভার কম নয়। আগের আয়াত ১৭:১৮ বলেছে তার কথা, যে আল-আজিলা চায়, অর্থাৎ যা তাড়াতাড়ি আসে। কুরতুবী শব্দটির ব্যাখ্যা দেন দুনিয়া দিয়ে: দ্রুত হাতে আসা ঘর। বিশেষ্যের জায়গায় এখানে তার গুণটাই নাম হয়ে বসেছে। সে দুনিয়া থেকে পায় ততটুকু, যতটুকু আল্লাহ চান, যাকে তিনি দিতে চান। তারপর জাহান্নাম। এবার আসে তার বিপরীত ছবি: ওয়া মান আরাদাল আখিরাহ, আর যে আখিরাত চায়। ইবন কাসীর এর অর্থ করেন শেষ ঘর আর তার ভেতরের নিয়ামত ও আনন্দ কামনা করা।"
+          },
+          {
+            "en": "At-Tabari draws the contrast with care. On 17:18 he describes the seeker of the hasty life as someone not certain of the return, expecting neither reward nor punishment from his Lord for what he does. On 17:19 he closes the clause on faith by saying the believer does not deny that reward, unlike the seeker of the hasty life. Whether 17:18 abrogates or narrows the promise in 11:15 is a question the article on that verse already treats, and it is not retold here.",
+            "bn": "তাবারী তুলনাটা যত্ন করে দাঁড় করান। ১৭:১৮ আয়াতে তিনি দুনিয়াপ্রার্থীর বর্ণনা দেন এভাবে: পরকালে ফিরে যাওয়ার ব্যাপারে তার দৃঢ় বিশ্বাস নেই, নিজের কাজের জন্য রবের কাছে সে সওয়াব বা শাস্তি কোনোটারই প্রত্যাশা রাখে না। আর ১৭:১৯ আয়াতে ঈমানের অংশটা তিনি শেষ করেন এই বলে যে মুমিন সেই প্রতিদানকে অস্বীকার করে না, যেমন অস্বীকার করেছিল দুনিয়াপ্রার্থী। ১৭:১৮ আয়াত ১১:১৫ আয়াতের প্রতিশ্রুতিকে রহিত করে, নাকি সীমিত করে, সে প্রশ্ন ওই আয়াতের প্রবন্ধে আলোচিত হয়েছে। এখানে তার পুনরাবৃত্তি নেই।"
+          },
+          {
+            "en": "Al-Qurtubi, on 17:18, applies its description to hypocrites and those who put on a show, who wear Islam and obedience to win a quick share of the world such as spoils. That is his reading of a type the verse describes. It gives no licence to point at any living person or community and place them in it. The pair of verses works the other way: each reader holds the two descriptions up to himself, and the only verdict that counts is Allah's.",
+            "bn": "কুরতুবী ১৭:১৮ আয়াতের বর্ণনাটি প্রয়োগ করেন মুনাফিক আর লোক-দেখানো আমলকারীদের উপর, যারা গনিমতের মতো দুনিয়ার নগদ ভাগ পেতে ইসলাম আর আনুগত্যের পোশাক গায়ে চড়ায়। আয়াত যে ধরনের মানুষের বর্ণনা দিয়েছে, এ তাঁর ব্যাখ্যা। এতে জীবিত কোনো মানুষ বা সম্প্রদায়কে আঙুল তুলে ওই দলে ফেলার অনুমতি নেই। আয়াত দুটির কাজ বরং উল্টো দিকে। প্রত্যেক পাঠক বর্ণনা দুটি নিজের সামনে ধরে নিজেকে মেপে দেখবেন। রায় দেওয়ার মালিক কেবল আল্লাহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Wanting Begins",
+          "bn": "চাওয়ার শুরু যেখানে"
+        },
+        "p": [
+          {
+            "en": "The first condition sits in the heart. As-Sa'di explains arada al-akhirah as being content with the Hereafter and preferring it over the world. The Muyassar puts the aim inside the deed itself: whoever, by his righteous work, seeks the reward of the lasting abode. At-Tabari pairs the wanting with seeking: whoever wants the Hereafter, it is the Hereafter he seeks. None of them treats the wanting as a passing wish. In each account it is a preference that has already chosen between two abodes, and it shapes what the person then does.",
+            "bn": "প্রথম শর্তের জায়গা অন্তরে। সা'দী আরাদাল আখিরাহর ব্যাখ্যা দেন এভাবে: আখিরাতে সন্তুষ্ট থাকা আর দুনিয়ার উপর তাকে প্রাধান্য দেওয়া। মুয়াসসার উদ্দেশ্যটাকে রাখে আমলের ভেতরেই: যে নিজের নেক আমল দিয়ে চিরস্থায়ী ঘরের সওয়াব চায়। তাবারী চাওয়ার সঙ্গে খোঁজাকে জুড়ে দেন: যে আখিরাত চায়, সে আখিরাতকেই খোঁজে। তাঁদের কেউই এই চাওয়াকে ক্ষণিকের শখ মনে করেন না। প্রত্যেকের ব্যাখ্যায় এ এমন এক পছন্দ, যা দুই ঘরের মধ্যে আগেই বেছে নিয়েছে। মানুষটি এরপর যা করে, তা এই পছন্দ থেকেই আকার পায়।"
+          },
+          {
+            "en": "A well-known narration speaks to the same point, though no commentator fetched here cites it on this verse, and it is not attached to it. Al-Bukhari opens his Sahih (no. 1) with the report of Umar ibn al-Khattab (RA) that he heard the Messenger of Allah ﷺ say: \"The reward of deeds depends upon the intentions and every person will get the reward according to what he has intended. So whoever emigrated for worldly benefits or for a woman to marry, his emigration was for what he emigrated for.\"",
+            "bn": "একটি সুপরিচিত হাদীস একই কথা বলে। তবে এখানে পড়া কোনো তাফসীর এ আয়াতের আলোচনায় তা আনেনি, আর হাদীসটি এ আয়াতের সঙ্গে যুক্তও নয়। বুখারী তাঁর সহীহ শুরু করেছেন এই হাদীস দিয়ে (নং ১)। উমর ইবনুল খাত্তাব (রাঃ) বলেন, তিনি আল্লাহর রসূল ﷺ-কে বলতে শুনেছেন: \"আমলের প্রতিদান নিয়তের উপর নির্ভর করে, আর প্রত্যেক মানুষ তা-ই পাবে, যার সে নিয়ত করেছে। কাজেই যে দুনিয়া লাভের জন্য কিংবা কোনো নারীকে বিয়ে করার জন্য হিজরত করল, তার হিজরত সে দিকেই, যে জন্য সে হিজরত করেছে।\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Striving That Fits It",
+          "bn": "যে চেষ্টা তার উপযুক্ত"
+        },
+        "p": [
+          {
+            "en": "Then the second condition: wa-sa'a laha sa'yaha, and strives for it its striving. At-Tabari explains the grammar. The pronoun ha attached to the effort points back to the Hereafter, so the phrase means he strove for the Hereafter with the striving of the Hereafter, that is, he worked for it the work that belongs to it. The Arabic leaves this compressed, he says, because listeners know what is meant. And the work that belongs to the Hereafter, in his words, is obedience to Allah and whatever earns His pleasure.",
+            "bn": "এরপর দ্বিতীয় শর্ত: ওয়া সাআ লাহা সা'ইয়াহা, আর তার জন্য করে তার উপযুক্ত চেষ্টা। তাবারী ব্যাকরণটা খুলে বলেন। চেষ্টার সঙ্গে জোড়া 'হা' সর্বনামটি ফিরে যায় আখিরাতের দিকে। ফলে অর্থ দাঁড়ায়: সে আখিরাতের জন্য আখিরাতের চেষ্টাই করেছে, অর্থাৎ আখিরাতের জন্য সেই আমল করেছে, যা আখিরাতের প্রাপ্য। তাঁর মতে আরবিতে কথাটা সংক্ষেপে রাখা হয়েছে, কারণ শ্রোতারা অর্থটা জানে। আর আখিরাতের প্রাপ্য আমল কী, তাবারীর ভাষায়: আল্লাহর আনুগত্য, আর যা কিছু তাঁকে সন্তুষ্ট করে।"
+          },
+          {
+            "en": "Al-Qurtubi says the same in his own phrasing: he worked for it its work of acts of obedience. Al-Baghawi needs only two words, 'amila 'amalaha, he did its work. As-Sa'di names where that work is learned: the striving that the revealed books and the prophetic traditions called people to. Then he adds a limit that is easy to read past: the person acted on it to the extent of his ability. The striving the verse asks for is measured, in as-Sa'di's reading, against what each person can actually do.",
+            "bn": "কুরতুবী একই কথা নিজের ভাষায় বলেন: সে আখিরাতের জন্য আনুগত্যের আমলগুলো করেছে। বাগাভীর লাগে মাত্র দুটি শব্দ: আমিলা আমালাহা, সে তার কাজ করেছে। সা'দী জানিয়ে দেন, এই আমল কোথা থেকে শিখতে হয়: আসমানি কিতাবগুলো আর নবীর হাদীস-আসার মানুষকে যে চেষ্টার দিকে ডেকেছে। তারপর তিনি এমন একটি সীমা যোগ করেন, যা পড়তে গিয়ে সহজেই চোখ এড়িয়ে যায়: মানুষটি নিজের সাধ্য অনুযায়ী তার উপর আমল করেছে। সা'দীর ব্যাখ্যায় আয়াতের চাওয়া চেষ্টাকে মাপা হয় প্রত্যেকের আসল সামর্থ্য দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "By the Messenger's Road",
+          "bn": "রসূলের দেখানো পথ ধরে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the same words as a condition of method. Wa-sa'a laha sa'yaha, he says, means that the person sought the Hereafter by its own road, and that road is following the Messenger ﷺ. The abridged English edition of his tafsir keeps the gloss: seeking it in the right way, which is following the Messenger. On this reading the possessive in sa'yaha does more than intensify. It ties the effort to a particular way, so that wanting the right goal and working hard are not yet enough on their own.",
+            "bn": "ইবন কাসীর একই শব্দগুলোকে পড়েন পদ্ধতির শর্ত হিসেবে। তাঁর মতে ওয়া সাআ লাহা সা'ইয়াহার অর্থ: মানুষটি আখিরাতকে খুঁজেছে তার নিজস্ব পথ ধরে, আর সেই পথ হলো রসূল ﷺ-এর অনুসরণ। তাঁর তাফসীরের সংক্ষিপ্ত ইংরেজি সংস্করণেও ব্যাখ্যাটি আছে: সঠিক পথে তা খোঁজা, আর সে পথ রসূলের অনুসরণ। এ ব্যাখ্যায় সা'ইয়াহা শব্দের 'তার' কেবল জোর বাড়ায় না। চেষ্টাকে এটি বেঁধে দেয় নির্দিষ্ট একটি পথের সঙ্গে। ফলে সঠিক লক্ষ্য চাওয়া আর খুব খাটা, শুধু এই দুটি দিয়ে কাজ শেষ হয় না।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an builds a heading on this. By adding sa'yaha, it says, the verse makes explicit that not every deed or effort is beneficial or acceptable with Allah. Only the effort suited to the real objective counts, and whether it is suited can be learned only from what Allah and His Messenger ﷺ have said. Well-meant efforts that rest on personal opinion and self-made ways, including customs of bid'ah, may look good and useful, but Ma'arif judges them unsuited, neither accepted with Allah nor of use in the Hereafter.",
+            "bn": "মাআরিফুল কুরআন এ নিয়ে আলাদা শিরোনাম দিয়েছে। তার কথা, সা'ইয়াহা শব্দটি যোগ করে আয়াত স্পষ্ট করেছে যে প্রতিটি আমল বা চেষ্টাই আল্লাহর কাছে উপকারী বা কবুল নয়। গণ্য হয় কেবল সেই চেষ্টা, যা আসল লক্ষ্যের উপযুক্ত। আর কোনটা উপযুক্ত, তা জানা যায় শুধু আল্লাহ ও তাঁর রসূল ﷺ-এর কথা থেকে। ব্যক্তিগত মত আর মনগড়া পথের উপর দাঁড়ানো চেষ্টা, বিদআতের প্রচলিত রেওয়াজও যার মধ্যে পড়ে, নিয়ত ভালো হলেও এবং দেখতে উপকারী লাগলেও মাআরিফের বিচারে উপযুক্ত নয়। আল্লাহর কাছে তা কবুল হয় না, আখিরাতে কোনো কাজেও আসে না।"
+          },
+          {
+            "en": "Ma'arif then relays a further point from Ruh al-Ma'ani: the effort should accord with the Sunnah, and it should also have uprightness and firmness. A deed done haphazardly, in a cycle of doing and not doing, is not good, it says, and never yields the fullest benefit. Set beside as-Sa'di's limit of ability, the picture is consistent. The verse does not ask for more than a person can carry. It asks that what he carries be taken from the right source and carried steadily.",
+            "bn": "এরপর মাআরিফ রূহুল মাআনী থেকে আরেকটি কথা তুলে আনে: চেষ্টা হতে হবে সুন্নাহ মোতাবেক, আর তাতে থাকতে হবে সোজা থাকা ও দৃঢ়তা। এলোমেলোভাবে করা আমল, একবার করা আর একবার ছেড়ে দেওয়ার চক্রে আটকে থাকা আমল, তার মতে ভালো নয়। এমন আমল থেকে পূর্ণ উপকার কখনো আসে না। সা'দীর সাধ্যের সীমার পাশে রাখলে ছবিটা মিলে যায়। মানুষ যতটা বইতে পারে, আয়াত তার বেশি চায় না। চায় শুধু এটুকু: যা সে বইবে, তা নেওয়া হোক সঠিক উৎস থেকে, আর বহন করা হোক নিয়মিতভাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faith Held Beneath the Deed",
+          "bn": "আমলের নিচে ঈমানের ভিত"
+        },
+        "p": [
+          {
+            "en": "The third condition is wa-huwa mu'min, while he is a believer. Ibn Kathir explains it as a believing heart, one that affirms the reward and the recompense. At-Tabari says much the same: a believer who affirms Allah's reward and the greatness of His recompense for his striving. For both, the faith named here is tied closely to the goal of the first condition. The person who wants the Hereafter and works for it must also hold as true that the Hereafter and its reward are real.",
+            "bn": "তৃতীয় শর্ত ওয়া হুয়া মু'মিন: আর সে মুমিন। ইবন কাসীর এর ব্যাখ্যা দেন বিশ্বাসী অন্তর দিয়ে, যে অন্তর সওয়াব আর প্রতিদানকে সত্য বলে মানে। তাবারীও প্রায় একই কথা বলেন: এমন মুমিন, যে আল্লাহর সওয়াব আর নিজের চেষ্টার বিনিময়ে তাঁর বিরাট প্রতিদানকে সত্য বলে জানে। দুজনের কাছেই এখানকার ঈমান প্রথম শর্তের লক্ষ্যের সঙ্গে ঘনিষ্ঠভাবে বাঁধা। যে আখিরাত চায় আর তার জন্য খাটে, তাকে এটাও সত্য বলে ধরে রাখতে হবে যে আখিরাত আর তার প্রতিদান বাস্তব।"
+          },
+          {
+            "en": "As-Sa'di widens the clause to the full creed: belief in Allah, His angels, His books, His messengers and the Last Day. The Muyassar names belief in Allah, His reward and His great recompense. Al-Qurtubi gives the reason the condition is there at all: acts of obedience are accepted only from a believer. The commentators differ here in breadth rather than in substance. Some keep the faith close to the reward being sought, while as-Sa'di spells out everything faith includes. All of them make it a condition, not an ornament.",
+            "bn": "সা'দী অংশটিকে প্রসারিত করেন পূর্ণ আকীদা পর্যন্ত: আল্লাহ, তাঁর ফেরেশতা, তাঁর কিতাব, তাঁর রসূল আর শেষ দিবসের উপর ঈমান। মুয়াসসার বলে আল্লাহ, তাঁর সওয়াব আর তাঁর বিরাট প্রতিদানের উপর ঈমানের কথা। শর্তটা কেন আছে, কুরতুবী তার কারণ বলেন: মুমিন ছাড়া আর কারও আনুগত্যের আমল কবুল হয় না। এখানে তাফসীরকারদের পার্থক্য বিস্তারে, মূল কথায় নয়। কেউ ঈমানকে রাখেন প্রত্যাশিত প্রতিদানের কাছাকাছি, আর সা'দী ঈমানের সবকিছু খুলে বলেন। তবে সবার কাছেই এটি শর্ত, সাজসজ্জা নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Allah Thanks a Servant",
+          "bn": "আল্লাহ যখন বান্দার কদর করেন"
+        },
+        "p": [
+          {
+            "en": "Then the outcome: fa-ula'ika kana sa'yuhum mashkura, those are the ones whose striving is thanked. At-Tabari explains what Allah's thanking means. It is His good recompense to them for their righteous deeds, together with His passing over their bad deeds by His mercy. He supports it with Qatada, through Bishr, Yazid and Sa'id: Allah thanked them for their good deeds and passed over their bad ones. On this reading the thanks covers more than the reward. It also covers what was imperfect in the record.",
+            "bn": "তারপর ফল: ফাউলাইকা কানা সা'ইয়ুহুম মাশকূরা, এরাই তারা, যাদের চেষ্টার কদর করা হয়। আল্লাহর কদর করার অর্থ কী, তাবারী তা ব্যাখ্যা করেন। তা হলো তাদের নেক আমলের জন্য তাঁর উত্তম প্রতিদান, সঙ্গে নিজের রহমতে তাদের মন্দ আমলগুলো মাফ করে দেওয়া। এর সমর্থনে তিনি আনেন কাতাদার কথা, বিশর, ইয়াযীদ ও সাঈদের সূত্রে: আল্লাহ তাদের নেকির কদর করেছেন আর তাদের গুনাহ ক্ষমা করেছেন। এ ব্যাখ্যায় কদর শুধু প্রতিদানে থেমে থাকে না। আমলনামায় যা অপূর্ণ ছিল, তাও এর ভেতরে পড়ে।"
+          },
+          {
+            "en": "Others give the word in its plainest sense. Al-Baghawi has a single gloss: maqbulan, accepted. Al-Qurtubi adds the other side of it: accepted, not turned back. The Muyassar carries the deed forward: accepted, stored up for them with their Lord, and they will be rewarded for it. As-Sa'di gathers three things: accepted, made to grow, and kept in store, their wage and reward held for them with their Lord. Taken together, the glosses describe an effort that is received, kept and enlarged rather than simply counted.",
+            "bn": "অন্যরা শব্দটিকে নেন তার সবচেয়ে সরল অর্থে। বাগাভীর ব্যাখ্যা একটিই: মাকবূলান, কবুল। কুরতুবী এর অন্য দিকটাও যোগ করেন: কবুল, ফিরিয়ে দেওয়া নয়। মুয়াসসার আমলটিকে সামনে নিয়ে যায়: কবুল, তাদের জন্য রবের কাছে জমা রাখা, আর এর বিনিময়ে তারা সওয়াব পাবে। সা'দী এক জায়গায় তিনটি জিনিস আনেন: কবুল, বাড়িয়ে তোলা, আর সঞ্চিত রাখা। তাদের পারিশ্রমিক আর সওয়াব রবের কাছে তাদের জন্য রাখা থাকে। সব ব্যাখ্যা একসঙ্গে পড়লে ছবিটা দাঁড়ায় এমন এক চেষ্টার, যা শুধু গোনা হয় না। তা গ্রহণ করা হয়, রেখে দেওয়া হয়, আর বড় করা হয়।"
+          },
+          {
+            "en": "It is worth pausing on who is thanking. A servant's effort is owed to his Lord, and the ability to make it came from Him in the first place. Yet the verse describes that effort as mashkur, thanked, as if the giving ran the other way. The commentators explain that thanks through acceptance, reward and pardon. The striver is not told that he has earned a debt from Allah. He is told that Allah receives his effort generously.",
+            "bn": "কে কদর করছেন, সেখানে একটু থামা দরকার। বান্দার চেষ্টা তো তার রবেরই প্রাপ্য, আর চেষ্টা করার সামর্থ্যও শুরুতে তাঁর কাছ থেকেই এসেছে। তবু আয়াত সেই চেষ্টাকে বলছে মাশকূর, কদর-পাওয়া, যেন দেওয়াটা চলছে উল্টো দিকে। তাফসীরকারেরা এই কদরকে ব্যাখ্যা করেন কবুল, প্রতিদান আর ক্ষমা দিয়ে। চেষ্টাকারীকে বলা হচ্ছে না যে আল্লাহ তার কাছে ঋণী হয়ে গেছেন। বলা হচ্ছে, আল্লাহ তার চেষ্টাকে উদারভাবে গ্রহণ করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Tenfold and Far Beyond",
+          "bn": "দশগুণ, তারও বহু ওপরে"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi records a second reading of mashkur, introduced with qila, it has been said: multiplied, so that good deeds are increased tenfold, seventyfold, seven-hundredfold and to many multiples. He follows it with a report from Abu Hurayra (RA) about how far a single good deed may be multiplied. Al-Qurtubi gives no source or grading for that report here, so this article only mentions it and builds nothing on it. No commentator fetched for this verse attaches a sound hadith to it.",
+            "bn": "কুরতুবী মাশকূরের দ্বিতীয় একটি ব্যাখ্যাও উল্লেখ করেন, শুরু করেন কীলা দিয়ে, অর্থাৎ 'বলা হয়েছে': বহুগুণ করা। নেকি বাড়িয়ে দেওয়া হয় দশগুণ, সত্তর গুণ, সাতশো গুণ, এমনকি আরও বহুগুণে। এরপর তিনি আবু হুরায়রা (রাঃ) থেকে একটি বর্ণনা আনেন, একটি নেকি কতদূর বাড়ানো হতে পারে সে বিষয়ে। কুরতুবী এখানে বর্ণনাটির কোনো সূত্র বা মান উল্লেখ করেননি। তাই এ প্রবন্ধে শুধু তার উল্লেখ থাকল, এর উপর কিছু দাঁড় করানো হলো না। এ আয়াতের জন্য পড়া কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি।"
+          },
+          {
+            "en": "A sound narration on multiplied reward does exist, though it is general and not attached to this verse. Al-Bukhari records (no. 42) from Abu Hurayra (RA) that the Messenger of Allah ﷺ said: \"If any one of you improve (follows strictly) his Islamic religion then his good deeds will be rewarded ten times to seven hundred times for each good deed and a bad deed will be recorded as it is.\" It sits near the verse's own pairing of effort with faith, though none of the commentators here draws the link.",
+            "bn": "বহুগুণ প্রতিদান নিয়ে একটি সহীহ হাদীস অবশ্য আছে, তবে তা সাধারণ, এ আয়াতের সঙ্গে যুক্ত নয়। বুখারী (নং ৪২) আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রসূল ﷺ বলেছেন: \"তোমাদের কেউ যখন নিজের ইসলামকে সুন্দর করে, তখন সে যে নেকিই করে, তা তার জন্য লেখা হয় ১০ গুণ থেকে ৭০০ গুণ পর্যন্ত। আর সে যে গুনাহই করে, তা লেখা হয় ঠিক তার সমান।\" চেষ্টার সঙ্গে ঈমানকে জুড়ে দেওয়ার যে কথা আয়াতে আছে, হাদীসটি তার কাছাকাছি। তবে এখানকার কোনো তাফসীরকার এ দুটিকে মেলাননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Both Fed, Not Both Thanked",
+          "bn": "রিজিক দুজনেরই, কদর একজনের"
+        },
+        "p": [
+          {
+            "en": "The next verse, 17:20, adds that Allah extends His gift to both groups. At-Tabari explains that He provides for those who want the hasty life and those who want the Hereafter alike, until each reaches the term written for him; after death their conditions part. As-Sa'di, on that verse, says plainly that those who want the Hereafter do not lose their share of the world. The fuller reading of 17:20 belongs to that verse. Here it is enough to see that worldly provision is not the measure of whose effort is thanked.",
+            "bn": "পরের আয়াত ১৭:২০ যোগ করে যে আল্লাহ তাঁর দান দুই দলের দিকেই বাড়িয়ে দেন। তাবারী ব্যাখ্যা করেন: দুনিয়াপ্রার্থী আর আখিরাতপ্রার্থী, দুজনকেই তিনি রিজিক দেন, যতক্ষণ না প্রত্যেকে তার জন্য লেখা মেয়াদে পৌঁছে। মৃত্যুর পর তাদের অবস্থা আলাদা হয়ে যায়। সা'দী ওই আয়াতে সোজাসুজি বলেন, আখিরাতপ্রার্থীরা দুনিয়ার ভাগ থেকে বঞ্চিত হয় না। ১৭:২০ আয়াতের পূর্ণ আলোচনা সেই আয়াতেরই প্রাপ্য। এখানে এটুকু দেখাই যথেষ্ট যে কার চেষ্টার কদর হলো, দুনিয়ার রিজিক তার মাপকাঠি নয়।"
+          },
+          {
+            "en": "Read with the verse before it, then, 17:19 sets out three conditions that stand together: a wanting that has chosen the Hereafter, an effort shaped by what the Hereafter asks and steady within one's ability, and faith in Allah and in His reward beneath both. Remove any one, and the commentators no longer describe the same person. Each reader can ask which of the three is weakest in his own life, and begin there, trusting that such effort is received, kept and enlarged by Allah.",
+            "bn": "আগের আয়াতের সঙ্গে মিলিয়ে পড়লে তাই ১৭:১৯ আয়াতে পাওয়া যায় তিনটি শর্ত, যা একসঙ্গে থাকতে হয়। এমন চাওয়া, যা আখিরাতকে বেছে নিয়েছে। এমন চেষ্টা, যা আখিরাতের চাহিদামতো গড়া আর নিজের সাধ্যের ভেতরে নিয়মিত। আর এ দুয়ের নিচে আল্লাহ ও তাঁর প্রতিদানের উপর ঈমান। যেকোনো একটি সরিয়ে নিলে তাফসীরকারদের বর্ণনার মানুষটি আর একই থাকে না। প্রত্যেক পাঠক নিজেকে জিজ্ঞেস করতে পারেন, নিজের জীবনে তিনটির কোনটি সবচেয়ে দুর্বল। শুরু করুন সেখান থেকেই, এই ভরসা রেখে যে এমন চেষ্টা আল্লাহ গ্রহণ করেন, রেখে দেন, আর বাড়িয়ে দেন।"
+          }
+        ]
+      }
+    ]
+  },
   "17:23-24": {
     "sections": [
       {
