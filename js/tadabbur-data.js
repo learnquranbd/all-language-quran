@@ -38013,6 +38013,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Every gift and every hardship from Allah is a test; meet the first with gratitude and the second with patience, and let both bring you nearer to Him.",
     "lessonBn": "আল্লাহর দেওয়া প্রতিটি নিয়ামত আর প্রতিটি কষ্টই পরীক্ষা। নিয়ামতের জবাব দিন শোকর দিয়ে, কষ্টের জবাব সবর দিয়ে, আর দুটোকেই তাঁর আরও কাছে যাওয়ার পথ বানান।"
+  },
+  "44:29": {
+    "reflectionEn": "Pharaoh's people left gardens, springs and fine dwellings behind, and others inherited them. Then the account closes with a silence: neither the sky nor the earth wept for them, and no respite was given. The early commentators read this through its opposite. When a believer dies, they said, the spot where he used to pray misses him, and so does the gate of the sky through which his deeds rose. Whatever that weeping is, the verse turns the question back on the living. Not who will mourn me, but what my days are leaving in the ground I kneel on and in what rises from me. The verse names one people; it gives me no right to read anyone else's death.",
+    "reflectionBn": "ফেরাউনের লোকেরা বাগান, ঝর্ণা আর সুন্দর বাসস্থান পেছনে ফেলে গেল, অন্যরা সেগুলোর মালিক হলো। তারপর কাহিনি শেষ হয় এক নীরবতায়। তাদের জন্য আসমানও কাঁদেনি, যমীনও না, আর একটুখানি সময়ও তারা পায়নি। প্রথম যুগের মুফাসসিররা কথাটা বুঝেছেন উল্টো দিক থেকে। তাঁরা বলেছেন, মুমিন মারা গেলে যে জায়গায় সে নামায পড়ত, সে জায়গা তাকে হারিয়ে কাঁদে। আসমানের যে দরজা দিয়ে তার আমল উপরে উঠত, সে দরজাও কাঁদে। সে কান্নার ধরন যা-ই হোক, প্রশ্নটা আয়াত ফিরিয়ে দেয় জীবিতদের দিকে। আমার জন্য কে কাঁদবে, সেটা আসল প্রশ্ন নয়। আসল প্রশ্ন, যে মাটিতে আমি সিজদা করি সেখানে আমার দিনগুলো কী রেখে যাচ্ছে, আর আমার কাছ থেকে উপরে কী উঠছে। আয়াত একটি জাতির কথা বলে। অন্য কারও মৃত্যুর বিচার করার অধিকার এটি আমাকে দেয় না।",
+    "pointsEn": [
+      "Which place on this earth would miss me if I were gone: a spot where I pray, or only the places where I spend?",
+      "What rose from my tongue and my hands today that I would want to have reached the sky?",
+      "Do I measure a life by how many people grieve at its end, or by what it sent up while it lasted?",
+      "When someone I disliked dies, do I hold my tongue about what heaven and earth may have felt for them?",
+      "Pharaoh's people were given no more time; what am I putting off as if my own respite were promised?"
+    ],
+    "pointsBn": [
+      "আমি চলে গেলে এই পৃথিবীর কোন জায়গাটা আমার অভাব টের পাবে? যেখানে আমি নামায পড়ি, নাকি শুধু যেখানে টাকা খরচ করি?",
+      "আজ আমার মুখ আর হাত থেকে এমন কী বেরিয়েছে, যা আসমানে পৌঁছুক বলে আমি চাইব?",
+      "একটা জীবনকে আমি কী দিয়ে মাপি? শেষে কতজন কাঁদল তা দিয়ে, নাকি বেঁচে থাকতে সে উপরে কী পাঠাল তা দিয়ে?",
+      "অপছন্দের কেউ মারা গেলে আসমান-যমীন তার জন্য কী অনুভব করল, সে বিষয়ে কি আমি মুখ বন্ধ রাখি?",
+      "ফেরাউনের লোকেরা আর একটুও সময় পায়নি। আমি কোন কাজ ফেলে রাখছি, যেন আমার অবকাশের নিশ্চয়তা কেউ দিয়ে রেখেছে?"
+    ],
+    "lessonEn": "Fill the places where you live with prayer and good deeds while there is time, and leave the judging of anyone's end to Allah alone.",
+    "lessonBn": "সময় থাকতেই যেখানে থাকেন সেখানটা নামায আর নেক আমলে ভরে তুলুন, আর কারও শেষ পরিণতির বিচার শুধু আল্লাহর হাতে ছেড়ে দিন।"
   }
 };
 

@@ -1327,6 +1327,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "44:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "Eight Words After the Inheritance",
+          "bn": "উত্তরাধিকারের পরে আটটি শব্দ"
+        },
+        "p": [
+          {
+            "en": "Fa-ma bakat ʿalayhim al-samaʾu wa-l-arḍu wa-ma kanu munzarin: and the sky and the earth did not weep for them, nor were they given respite. The four verses before it count what Pharaoh's people left behind, from gardens and springs to the ease they once enjoyed, and close with another people inheriting all of it (44:25 to 44:28). This verse is the last word on the drowned. In 44:30 the passage turns to the Children of Israel and what they were saved from.",
+            "bn": "ফামা বাকাত আলাইহিমুস সামাউ ওয়াল আরদু ওয়ামা কানূ মুনযারীন: তাদের জন্য আসমান ও যমীন কাঁদেনি, আর তাদের অবকাশও দেওয়া হয়নি। এর আগের চারটি আয়াত গুনে দেখায় ফেরাউনের লোকেরা কী কী ফেলে গেল, বাগান আর ঝর্ণা থেকে শুরু করে সেই আরাম-আয়েশ পর্যন্ত। শেষে বলা হয়, অন্য এক জাতিকে সবকিছুর উত্তরাধিকারী করা হলো (৪৪:২৫ থেকে ৪৪:২৮)। ডুবে যাওয়া লোকদের নিয়ে শেষ কথা এই আয়াত। ৪৪:৩০ আয়াতে বর্ণনা ঘুরে যায় বনী ইসরাঈলের দিকে, তারা কী থেকে রক্ষা পেল সেদিকে।"
+          },
+          {
+            "en": "Eight Arabic words carry two denials, each opened by ma. The first concerns grief: no weeping. The second concerns time: no delay. At-Tabari names those meant: the ones Allah drowned in the sea, Pharaoh and his people. Al-Muyassar gives the plain sense of both halves together. The sky and the earth did not weep out of grief for Pharaoh and his people, and they were not put off from the punishment that came down on them.",
+            "bn": "আরবি আটটি শব্দে দুটি না-বাচক কথা, দুটোরই শুরু 'মা' দিয়ে। প্রথমটি শোকের বিষয়ে: কান্না হয়নি। দ্বিতীয়টি সময়ের বিষয়ে: দেরি করা হয়নি। কাদের কথা বলা হচ্ছে, তাবারী নাম ধরে বলে দেন: যাদের আল্লাহ সমুদ্রে ডুবিয়েছিলেন, ফেরাউন আর তার লোকজন। মুয়াসসার দুই অংশের সরল অর্থ এক বাক্যে দেয়। ফেরাউন ও তার লোকদের শোকে আসমান-যমীন কাঁদেনি, আর তাদের উপর যে শাস্তি নেমে এসেছিল, তা থেকে তাদের পিছিয়েও দেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Door Above, a Prayer-Place Below",
+          "bn": "উপরে দরজা, নিচে নামাযের জায়গা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's lead report comes through Saʿid ibn Jubayr. A man came to Ibn Abbas (RA) and asked about this verse: do the sky and the earth weep for anyone? He said yes. Every creature has a door in the sky through which its provision comes down and its deeds go up. When the believer dies and that door is closed, it weeps for him; and when the place on earth where he prayed and remembered Allah loses him, it weeps for him. Pharaoh's people left no righteous traces on earth, and no good rose from them, so neither wept.",
+            "bn": "তাবারীর প্রধান বর্ণনাটি এসেছে সাঈদ ইবন জুবাইরের সূত্রে। এক লোক ইবন আব্বাস (রাঃ)-এর কাছে এসে এ আয়াত সম্পর্কে জিজ্ঞেস করল: আসমান-যমীন কি কারও জন্য কাঁদে? তিনি বললেন, হ্যাঁ। প্রত্যেক সৃষ্টির জন্য আসমানে একটি দরজা আছে। সে দরজা দিয়ে তার রিযিক নামে, আর তার আমল উপরে ওঠে। মুমিন মারা গেলে সে দরজা বন্ধ হয়ে যায়, তখন দরজাটি তার জন্য কাঁদে। যমীনের যে জায়গায় সে নামায পড়ত আর আল্লাহর জিকির করত, সে জায়গাও তাকে হারিয়ে কাঁদে। ফেরাউনের লোকেরা যমীনে কোনো নেক চিহ্ন রেখে যায়নি, তাদের কাছ থেকে কোনো ভালো কাজ উপরেও ওঠেনি। তাই কেউই তাদের জন্য কাঁদেনি।"
+          },
+          {
+            "en": "At-Tabari repeats this from Ibn Abbas through other chains. In one, the spots on which the believer used to prostrate weep for him. In another, the mosques he prayed in weep, and the place in the sky from which his words were raised, because the two weep for the friends of Allah. Qatada speaks of the believer's patches of ground where he prayed and his places in the sky where his deeds were raised. Ad-Dahhak says the sky and the earth do not weep for the disbeliever.",
+            "bn": "তাবারী আরও কয়েকটি সূত্রে ইবন আব্বাস (রাঃ) থেকে একই কথা আনেন। একটিতে আছে, মুমিন যেসব জায়গায় সিজদা করত, সেগুলো তার জন্য কাঁদে। আরেকটিতে আছে, যেসব মসজিদে সে নামায পড়ত সেগুলো কাঁদে, আর আসমানের যে জায়গা থেকে তার কথা উপরে তোলা হতো সেটাও কাঁদে। কারণ এ দুটি কাঁদে আল্লাহর ওলিদের জন্য। কাতাদা বলেন যমীনের সেই টুকরোগুলোর কথা, যেখানে মুমিন নামায পড়ত, আর আসমানের সেই জায়গাগুলোর কথা, যেখানে তার আমল তোলা হতো। দাহহাক বলেন, কাফিরের জন্য আসমান-যমীন কাঁদে না।"
+          },
+          {
+            "en": "Ibn Kathir opens on the same note: they had no righteous deeds rising through the gates of the sky to weep at their loss, and no places on earth where they had worshipped Allah to miss them. He relays from Ibn Abi Hatim that a man put the question to Ali (RA), who said no one had asked him this before. Every servant, he answered, has a place of prayer on earth and a rising-place for his deeds in the sky, and Pharaoh's people had neither. Al-Qurtubi names Ali and Ibn Abbas together for this reading.",
+            "bn": "ইবন কাসীরও একই কথায় শুরু করেন। তাদের এমন কোনো নেক আমল ছিল না, যা আসমানের দরজা দিয়ে উপরে উঠত আর তাদের হারিয়ে কাঁদত। যমীনে এমন কোনো জায়গাও ছিল না, যেখানে তারা আল্লাহর ইবাদত করেছে আর যা তাদের অভাব টের পেত। তিনি ইবন আবী হাতিম থেকে আনেন, এক লোক আলী (রাঃ)-কে একই প্রশ্ন করেছিল। তিনি বললেন, এর আগে কেউ তাঁকে এমন প্রশ্ন করেনি। তারপর জানালেন, প্রত্যেক বান্দার যমীনে একটি নামাযের জায়গা আর আসমানে আমল ওঠার একটি পথ থাকে। ফেরাউনের লোকদের দুটোর কোনোটিই ছিল না। কুরতুবী এই ব্যাখ্যার জন্য আলী ও ইবন আব্বাস (রাঃ), দুজনের নাম একসঙ্গে নেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forty Mornings of Mourning",
+          "bn": "চল্লিশ সকালের শোক"
+        },
+        "p": [
+          {
+            "en": "A number enters with Mujahid. At-Tabari gives it from him with a careful formula, kana yuqal, it used to be said: the earth weeps for the believer forty mornings. One chain carries the same from Mujahid from Ibn Abbas (RA); in another Mujahid says, I was told. Al-Baghawi states it without that hedge, that the sky and the earth weep forty mornings when the believer dies. Ibn Kathir adds that Saʿid ibn Jubayr and others said the same. This is reported speech, not a revealed count.",
+            "bn": "মুজাহিদের কাছ থেকে একটা সংখ্যা আসে। তাবারী কথাটা তাঁর কাছ থেকে আনেন সাবধানী এক শব্দবন্ধে, 'কানা ইউকাল', অর্থাৎ বলা হতো: মুমিনের জন্য যমীন চল্লিশ সকাল কাঁদে। একটি সূত্রে কথাটি মুজাহিদ ইবন আব্বাস (রাঃ) থেকে বলেছেন। আরেক সূত্রে মুজাহিদ বলেন, আমাকে এমনটা শোনানো হয়েছে। বাগাভী এই সতর্কতা ছাড়াই বলেন, মুমিন মারা গেলে আসমান-যমীন চল্লিশ সকাল কাঁদে। ইবন কাসীর যোগ করেন, সাঈদ ইবন জুবাইরসহ আরও অনেকে একই কথা বলেছেন। এটা বর্ণিত কথা, ওহীতে আসা কোনো হিসাব নয়।"
+          },
+          {
+            "en": "Ibn Kathir and al-Qurtubi both relay an exchange. Mujahid said the sky and the earth weep for the believer forty mornings, and his listener, named Abu Yahya in al-Qurtubi, was surprised. Mujahid answered: do you wonder? Why would the earth not weep for a servant who kept it alive with bowing and prostration, and why would the sky not weep for a servant whose takbir and tasbih hummed in it like the humming of bees? Al-Qurtubi adds ʿAtaʾ al-Khurasani: no servant prostrates on a patch of earth but it will testify for him on the Day of Resurrection and weep for him the day he dies.",
+            "bn": "ইবন কাসীর ও কুরতুবী দুজনেই একটা কথোপকথন আনেন। মুজাহিদ বললেন, মুমিনের জন্য আসমান-যমীন চল্লিশ সকাল কাঁদে। শ্রোতা অবাক হলেন, কুরতুবী তাঁর নাম বলেন আবূ ইয়াহইয়া। মুজাহিদ জবাব দিলেন: অবাক হচ্ছ? যে বান্দা রুকু আর সিজদা দিয়ে যমীনকে আবাদ রাখত, তার জন্য যমীন কাঁদবে না কেন? যে বান্দার তাকবীর আর তাসবীহ আসমানে মৌমাছির গুঞ্জনের মতো বাজত, তার জন্য আসমান কাঁদবে না কেন? কুরতুবী এর সঙ্গে আতা আল-খুরাসানীর কথা যোগ করেন। কোনো বান্দা যমীনের যে টুকরোয় আল্লাহর জন্য সিজদা করে, কিয়ামতের দিন সে জায়গা তার পক্ষে সাক্ষী দেবে, আর যেদিন সে মারা যাবে সেদিন তার জন্য কাঁদবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Reports Held at a Distance",
+          "bn": "দূরে রাখা দুটি বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Two reports raised to the Prophet ﷺ are brought under this verse, and neither can carry weight here. The first, from Anas, concerns two doors in the sky for each person. Ibn Kathir relays it from Abu Yaʿla's Musnad and from Ibn Abi Hatim, al-Baghawi through the same chain, and al-Qurtubi from Yazid ar-Raqashi. At-Tirmidhi records it too, number 3255, and grades it himself: gharib, known as the Prophet's words only by this one route, adding that Musa ibn ʿUbayda and Yazid ibn Aban ar-Raqashi are judged weak in hadith.",
+            "bn": "নবী ﷺ-এর নামে বর্ণিত দুটি বর্ণনা এ আয়াতের অধীনে আনা হয়, কিন্তু এখানে কোনোটিরই ভার বহন করার শক্তি নেই। প্রথমটি আনাস (রাঃ) থেকে, প্রত্যেক মানুষের জন্য আসমানে দুটি দরজা থাকা প্রসঙ্গে। ইবন কাসীর এটি আনেন আবূ ইয়া'লার মুসনাদ আর ইবন আবী হাতিম থেকে, বাগাভী আনেন একই সূত্রে, আর কুরতুবী ইয়াযীদ আর-রাকাশী থেকে। তিরমিযীও এটি সংকলন করেছেন, নম্বর ৩২৫৫। তিনি নিজেই মান নির্ধারণ করেছেন: গরীব। নবীর কথা হিসেবে কেবল এই একটি সূত্রেই এটি জানা যায়। তিনি আরও বলেন, মূসা ইবন উবাইদা ও ইয়াযীদ ইবন আবান আর-রাকাশী হাদীসে দুর্বল বলে গণ্য।"
+          },
+          {
+            "en": "The second comes from Shurayh ibn ʿUbayd al-Hadrami, on a believer who dies far from home, and it ends with the Prophet ﷺ reciting this verse. At-Tabari relays it, Ibn Kathir and al-Qurtubi repeat it, and Ma'arif al-Qur'an cites it from at-Tabari, but none of them gives it a grading. It is mentioned here and not built on. No tafsir fetched for this verse attaches a sound hadith to it. What the commentators say about the weeping rests on the words of Companions and Successors.",
+            "bn": "দ্বিতীয়টি শুরাইহ ইবন উবাইদ আল-হাদরামী থেকে, বাড়ি থেকে দূরে মারা যাওয়া মুমিন প্রসঙ্গে। এর শেষে আছে, নবী ﷺ এই আয়াতটি তিলাওয়াত করলেন। তাবারী এটি বর্ণনা করেছেন, ইবন কাসীর ও কুরতুবী তা উদ্ধৃত করেছেন, মাআরিফুল কুরআন এনেছে তাবারী থেকে। কিন্তু তাঁদের কেউই এর মান উল্লেখ করেননি। তাই এখানে শুধু উল্লেখটুকু থাকল, এর উপর কিছু দাঁড় করানো হলো না। এ আয়াতের জন্য যত তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো সহীহ হাদীস জোড়েনি। কান্না নিয়ে মুফাসসিরদের সব কথার ভিত্তি সাহাবী ও তাবিঈদের বক্তব্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "As the Arabs Mourned a Chief",
+          "bn": "সরদারের মৃত্যুতে আরবের শোক"
+        },
+        "p": [
+          {
+            "en": "When a chief among them died, the Arabs used to say that the sky and the earth wept for him, meaning his loss reached everything. Al-Qurtubi quotes the poets: Jarir's line that the night's stars and the moon weep for you, and Layla bint Tarif asking the trees of al-Khabur why they are in leaf, as if they had not grieved for Ibn Tarif. Such speech, al-Qurtubi says, is likeness and imagery, stressing how much grief was owed. Read this way, the verse means they perished and nobody felt the loss.",
+            "bn": "আরবদের কোনো সরদার মারা গেলে তারা বলত, তার জন্য আসমান-যমীন কেঁদেছে। মানে, তার মৃত্যুর শোক সবকিছুকে ছুঁয়ে গেছে। কুরতুবী কবিদের পঙক্তি আনেন। জারীরের পঙক্তিতে রাতের তারা আর চাঁদ 'তোমার জন্য' কাঁদছে। লাইলা বিনতে তারীফ খাবূরের গাছগুলোকে জিজ্ঞেস করছেন, তোমরা পাতায় ভরে আছ কেন, যেন ইবন তারীফের জন্য তোমাদের কোনো দুঃখই নেই! কুরতুবী বলেন, এ ধরনের কথা উপমা আর কল্পচিত্র, শোক কতখানি প্রাপ্য ছিল তা জোর দিয়ে বোঝাতে। এভাবে পড়লে অর্থ দাঁড়ায়: তারা ধ্বংস হলো, অথচ তাদের অভাব কেউ টের পেল না।"
+          },
+          {
+            "en": "Al-Qurtubi also gives al-Hasan's reading, that a word is understood: the people of the sky and the earth, the angels, did not weep for them, as in wa-s'al al-qaryata, ask the town (12:82). Rather, they were glad at their destruction. As-Saʿdi reaches a similar point from the other side. No one grieved at parting from them; everything welcomed their end, even the sky and the earth, because they left behind only what would blacken their faces. Qatada, in Ibn Kathir, puts it shortly: they were too lowly before Allah for the sky and the earth to weep for them.",
+            "bn": "কুরতুবী হাসানের ব্যাখ্যাও আনেন। তাঁর মতে এখানে একটি শব্দ উহ্য আছে: আসমান ও যমীনের অধিবাসী, অর্থাৎ ফেরেশতারা, তাদের জন্য কাঁদেনি। যেমন ১২:৮২ আয়াতে 'ওয়াসআলিল কারইয়াহ', জনপদকে জিজ্ঞেস করো, মানে জনপদের লোকদের। বরং তাদের ধ্বংসে তারা খুশিই হয়েছিল। সা'দী উল্টো দিক থেকে কাছাকাছি কথায় পৌঁছান। তাদের বিদায়ে কেউ দুঃখ পায়নি। বরং আসমান-যমীনসহ সবাই তাদের শেষ দেখে খুশি হয়েছে, কারণ তারা পেছনে এমন কিছুই রেখে যায়নি, যা তাদের মুখ কালো করা ছাড়া অন্য কিছু করবে। ইবন কাসীরের বর্ণনায় কাতাদা কথাটা ছোট করে বলেন: আল্লাহর কাছে তারা এতই তুচ্ছ ছিল যে, তাদের জন্য আসমান-যমীন কাঁদবে, এমন মর্যাদা তাদের ছিল না।"
+          },
+          {
+            "en": "A third reading makes the sky's weeping a colour. At-Tabari reports it with it has been said, from ʿAtaʾ: its weeping is the reddening of its edges. Al-Baghawi has the same from ʿAtaʾ. Al-Qurtubi attributes it to Ali (RA), ʿAtaʾ and as-Suddi, and to Muhammad ibn Ali at-Tirmidhi, a different man from Abu ʿIsa at-Tirmidhi the collector, who also relays it from al-Hasan. This at-Tirmidhi explains weeping as a thing letting something flow: the eye its water, the sky its redness, the earth its dust-grey dimness when the light of a believer leaves it.",
+            "bn": "তৃতীয় এক ব্যাখ্যায় আসমানের কান্না একটি রং। তাবারী এটি আনেন 'বলা হয়েছে' কথাটি দিয়ে, আতার সূত্রে: আসমানের কান্না মানে তার কিনারাগুলো লাল হয়ে যাওয়া। বাগাভীও আতা থেকে একই কথা আনেন। কুরতুবী এ মত আলী (রাঃ), আতা, সুদ্দী আর মুহাম্মাদ ইবন আলী আত-তিরমিযীর নামে বলেন। ইনি হাদীস সংকলক আবূ ঈসা আত-তিরমিযী নন, ভিন্ন মানুষ। তিনি মতটি হাসান থেকেও বর্ণনা করেন। তাঁর ব্যাখ্যায় কান্না মানে কোনো কিছু বইয়ে দেওয়া। চোখ বইয়ে দেয় পানি, আসমান লালিমা। আর মুমিনের নূর চলে গেলে যমীন বইয়ে দেয় তার ধূসর মলিনতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weeping in a Way Unseen",
+          "bn": "যে কান্না চোখে পড়ে না"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi sets out three ways of taking the weeping. The first is weeping as known among living creatures, which he likens to Mujahid's view; the others are the redness, and a sign that shows sorrow. He then judges the first the more apparent, since there is nothing impossible in it. If the heavens and the earth glorify, hear and speak, as he says he has shown elsewhere in his tafsir, they can weep as well. He closes the discussion with the words: and Allah knows best which of these views is right.",
+            "bn": "কুরতুবী কান্না বোঝার তিনটি ধরন সাজান। প্রথমটি, প্রাণীদের মধ্যে যে কান্না আমরা চিনি, সেই কান্না। তাঁর মতে মুজাহিদের কথা এর সঙ্গেই মেলে। বাকি দুটি হলো লালিমা, আর দুঃখ প্রকাশ পায় এমন কোনো আলামত। তারপর তিনি প্রথম মতটিকেই বেশি স্পষ্ট বলেন, কারণ এতে অসম্ভব কিছু নেই। তাঁর যুক্তি: আসমান-যমীন যদি তাসবীহ পড়ে, শোনে আর কথা বলে, যেমনটা তিনি তাফসীরের অন্য জায়গায় দেখিয়েছেন বলে জানান, তবে কাঁদতেও পারে। আলোচনা তিনি শেষ করেন এই বলে: এসব মতের মধ্যে কোনটি সঠিক, আল্লাহই ভালো জানেন।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an records that some scholars read the verse figuratively: these people counted for so little that their wiping out grieved no one. It prefers real weeping, holding that when the primary sense of an expression is possible there is no need for a figurative sense. To the objection that sky and earth have no feeling, it answers with 17:44: there is nothing that does not glorify Him with praise, though you do not understand their glorifying. Their weeping need not resemble ours, it adds, and we do not know its reality.",
+            "bn": "মাআরিফুল কুরআন জানায়, কিছু আলেম আয়াতটিকে রূপক অর্থে নেন: এই লোকেরা এতই নগণ্য ছিল যে, তাদের মুছে যাওয়ায় কারও দুঃখ হয়নি। মাআরিফুল কুরআন নিজে আসল কান্নার অর্থকেই অগ্রাধিকার দেয়। তার যুক্তি, কোনো কথার মূল অর্থ যদি সম্ভব হয়, তবে রূপক অর্থে যাওয়ার দরকার নেই। আসমান-যমীনের তো অনুভূতি নেই, এই আপত্তির জবাবে সে ১৭:৪৪ আয়াত আনে: এমন কিছু নেই যা তাঁর প্রশংসাসহ তাসবীহ পড়ে না, কিন্তু তোমরা তাদের তাসবীহ বোঝো না। সঙ্গে বলে, তাদের কান্না আমাদের মতো হওয়া জরুরি নয়, আর এর প্রকৃত রূপ আমরা জানি না।"
+          },
+          {
+            "en": "So the difference stands, and this article leaves it standing. Al-Qurtubi and Ma'arif al-Qur'an lean to a real weeping, al-Qurtubi with an Allah knows best attached. The poets' idiom, al-Hasan's angels, as-Saʿdi's rejoicing creation and the reddened horizon all remain on the page as other readings. What none of them disputes is the thing the verse denies to Pharaoh's people: no part of creation mourned their going, and nothing they had done was missed.",
+            "bn": "মতভেদটা তাই থেকেই যায়, আর এ লেখাও তা মীমাংসা করতে যাচ্ছে না। কুরতুবী আর মাআরিফুল কুরআন আসল কান্নার দিকে ঝোঁকেন, কুরতুবী তার সঙ্গে 'আল্লাহই ভালো জানেন' জুড়ে দিয়েছেন। কবিদের বাগধারা, হাসানের ফেরেশতা, সা'দীর খুশি হওয়া সৃষ্টিজগৎ আর লাল দিগন্ত, এসবও অন্য ব্যাখ্যা হিসেবে পাতায় রয়ে গেছে। তবে আয়াত ফেরাউনের লোকদের যা দেয়নি, তা নিয়ে কারও দ্বিমত নেই। তাদের চলে যাওয়ায় সৃষ্টির কোনো অংশ শোক করেনি, আর তাদের কোনো কাজের অভাবও কেউ বোধ করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not One Hour More",
+          "bn": "আর এক মুহূর্তও নয়"
+        },
+        "p": [
+          {
+            "en": "Wa-ma kanu munzarin turns from grief to time. At-Tabari: they were not deferred with the punishment that befell them, but it was hastened upon them once they had angered their Lord. Al-Qurtubi: not delayed from the drowning. As-Saʿdi: not granted a reprieve from punishment, which cut them off on the spot. Ibn Kathir joins the two halves with a therefore. Having no deeds for the sky or the earth to miss, they deserved no delay, for their disbelief and crimes, their insolence and stubbornness.",
+            "bn": "'ওয়ামা কানূ মুনযারীন' শোকের কথা থেকে সময়ের কথায় যায়। তাবারী বলেন, তাদের উপর যে শাস্তি নেমেছিল, তা পিছিয়ে দেওয়া হয়নি। বরং তারা যখন রবকে নারাজ করল, তখন শাস্তি তাড়াতাড়ি এসে গেল। কুরতুবীর কথায়, ডুবে যাওয়া থেকে তাদের দেরি করানো হয়নি। সা'দী বলেন, শাস্তি থেকে কোনো অবকাশ মেলেনি, শাস্তি তাদের তখনই নিশ্চিহ্ন করে দিল। ইবন কাসীর 'তাই' শব্দটি দিয়ে দুই অংশ জোড়েন। আসমান বা যমীন হারিয়ে কাঁদবে, এমন কোনো আমল তাদের ছিল না। তাই কুফর, অপরাধ, ঔদ্ধত্য আর জেদের কারণে তারা কোনো অবকাশ পাওয়ার যোগ্য থাকেনি।"
+          },
+          {
+            "en": "Al-Baghawi adds a phrase that shows what respite is for: they were not given time when the punishment seized them, for repentance or for anything else. The time for turning came before that moment, not at it. Earlier in the same surah a noble messenger had come to them (44:17). The respite denied at the end is the respite that had already been given and spent.",
+            "bn": "বাগাভী একটি কথা যোগ করেন, যা থেকে বোঝা যায় অবকাশ কিসের জন্য। শাস্তি যখন তাদের পাকড়াও করল, তখন তাওবার জন্য বা অন্য কিছুর জন্য তাদের সময় দেওয়া হয়নি। ফিরে আসার সময় ছিল সেই মুহূর্তের আগে, সেই মুহূর্তে নয়। এই সূরারই আগে বলা হয়েছে, তাদের কাছে এক সম্মানিত রাসূল এসেছিলেন (৪৪:১৭)। শেষে যে অবকাশ মেলেনি, তা আগেই দেওয়া হয়েছিল, আর তারা তা খরচ করে ফেলেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Verdict on Today's Dead",
+          "bn": "আজকের মৃতের উপর রায় নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying firmly. The verse describes what it describes: one people, Pharaoh and his host, named in the text and drowned in an event the Qur'an narrates. It licenses nothing against any living person or community. No one may say of someone who dies today that the sky and the earth did not weep for them, or read a small funeral, the weather on a burial day or a red sky as a verdict on the dead. That judgement belongs to Allah alone.",
+            "bn": "কথাটা জোর দিয়ে বলা দরকার। আয়াত যা বর্ণনা করে, তা-ই বর্ণনা করে। একটি জাতি, ফেরাউন ও তার বাহিনী, যাদের নাম কুরআনে আছে, আর যাদের ডুবে যাওয়ার ঘটনা কুরআন নিজেই বলেছে। কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। আজ কেউ মারা গেলে তার সম্পর্কে কেউ বলতে পারে না যে, তার জন্য আসমান-যমীন কাঁদেনি। জানাযায় লোক কম হওয়া, দাফনের দিনের আবহাওয়া কিংবা লাল আকাশ দেখে মৃতের উপর রায় দেওয়ারও সুযোগ নেই। সে বিচার শুধু আল্লাহর।"
+          },
+          {
+            "en": "A general narration, not attached to this verse, speaks to reading the sky at a death. Al-Bukhari (1043) records from al-Mughira ibn Shuʿba: the sun eclipsed in the lifetime of Allah's Messenger ﷺ on the day when Ibrahim died. So the people said that the sun had eclipsed because of the death of Ibrahim. Allah's Messenger ﷺ said, \"The sun and the moon do not eclipse because of the death or life of someone. When you see the eclipse pray and invoke Allah.\" What the sky does is not ours to read. What we leave in the ground we pray on is ours to tend.",
+            "bn": "মৃত্যুর সময় আকাশ দেখে অর্থ খোঁজা নিয়ে একটি সাধারণ হাদীস আছে, যা এ আয়াতের সঙ্গে যুক্ত নয়। বুখারী (১০৪৩) মুগীরা ইবন শু'বা (রাঃ) থেকে বর্ণনা করেন: আল্লাহর রাসূল ﷺ-এর জীবদ্দশায়, যেদিন ইবরাহীম মারা গেলেন, সেদিন সূর্যগ্রহণ হলো। লোকেরা বলল, ইবরাহীমের মৃত্যুর কারণে সূর্যগ্রহণ হয়েছে। আল্লাহর রাসূল ﷺ বললেন, \"কারও মৃত্যু বা জীবনের কারণে সূর্য ও চাঁদের গ্রহণ হয় না। যখন গ্রহণ দেখবে, নামায পড়বে আর আল্লাহর কাছে দোয়া করবে।\" আকাশ কী করছে, তার অর্থ বের করা আমাদের কাজ নয়। যে মাটিতে আমরা নামায পড়ি, সেখানে কী রেখে যাচ্ছি, তার যত্ন নেওয়াই আমাদের কাজ।"
+          }
+        ]
+      }
+    ]
+  },
   "44:30": {
     "sections": [
       {
